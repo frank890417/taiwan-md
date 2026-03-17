@@ -800,8 +800,9 @@ const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges })
   }
 
   #resources-graph {
+    overflow: visible;
     width: 100%;
-    height: 450px;
+    height: 700px;
     border-radius: 12px;
     background: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(10px);
@@ -1065,115 +1066,110 @@ const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges })
 
     const data = JSON.parse(mindmapData);
     const width = container.clientWidth;
-    const height = 450;
+    const height = 700;
 
     const svg = d3.select('#resources-graph')
       .append('svg')
       .attr('width', width)
       .attr('height', height);
 
-    const g = svg.append('g');
+    const g = svg.append('g')
+      .attr('transform', `translate(${width/2}, ${height/2})`);
 
-    // Zoom functionality
-    svg.call(d3.zoom().on('zoom', (event) => {
+    // Zoom
+    svg.call(d3.zoom().scaleExtent([0.3, 3]).on('zoom', (event) => {
       g.attr('transform', event.transform);
-    }));
+    })).call(d3.zoom().transform, d3.zoomIdentity.translate(width/2, height/2).scale(0.85));
 
-    // Force simulation
-    const simulation = d3.forceSimulation(data.nodes)
-      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
-        if (d.source.id === 'taiwan') return 120;
-        if (d.source.size > 10) return 60;
-        return 40;
-      }))
-      .force('charge', d3.forceManyBody().strength(d => {
-        if (d.group === 'center') return -400;
-        if (d.size > 10) return -200;
-        return -100;
-      }))
-      .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide().radius(d => d.size + 8));
-
-    // Links
-    const link = g.append('g')
-      .selectAll('line')
-      .data(data.edges)
-      .join('line')
-      .attr('stroke', '#cbd5e0')
-      .attr('stroke-width', 1.5)
-      .attr('stroke-opacity', 0.7);
-
-    // Nodes
-    const node = g.append('g')
-      .selectAll('circle')
-      .data(data.nodes)
-      .join('circle')
-      .attr('r', d => d.size)
-      .attr('fill', d => d.color || '#94a3b8')
-      .attr('stroke', '#fff')
-      .attr('stroke-width', 2)
-      .attr('cursor', 'pointer')
-      .call(d3.drag()
-        .on('start', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
-          d.fx = d.x; d.fy = d.y;
-        })
-        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
-        .on('end', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0);
-          d.fx = null; d.fy = null;
-        })
-      );
-
-    // Labels
-    const label = g.append('g')
-      .selectAll('text')
-      .data(data.nodes)
-      .join('text')
-      .text(d => d.label)
-      .attr('font-size', d => {
-        if (d.group === 'center') return '14px';
-        if (d.size >= 12) return '11px';
-        return '9px';
-      })
-      .attr('font-weight', d => d.size > 12 ? 'bold' : 'normal')
-      .attr('text-anchor', 'middle')
-      .attr('dy', d => d.size + 12)
-      .attr('fill', '#1e293b')
-      .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.9))')
-      .attr('pointer-events', 'none');
-
-    // Click to navigate for nodes with URLs
-    node.on('click', (event, d) => {
-      if (d.url) {
-        window.open(d.url, '_blank', 'noopener noreferrer');
+    // Build hierarchy from flat data
+    const root = { id: 'taiwan', label: '🇹🇼 台灣資源', children: [] };
+    const catMap = {};
+    data.nodes.forEach(n => {
+      if (n.group === 'center') return;
+      if (n.size > 10) { // category node
+        const cat = { ...n, children: [] };
+        catMap[n.id] = cat;
+        root.children.push(cat);
+      }
+    });
+    data.nodes.forEach(n => {
+      if (n.size <= 10 && n.group !== 'center') {
+        const parentId = n.id.split('_')[0];
+        if (catMap[parentId]) catMap[parentId].children.push(n);
       }
     });
 
-    // Hover tooltip
-    const tooltip = document.createElement('div');
-    tooltip.className = 'mindmap-tooltip';
-    tooltip.style.cssText = 'display:none;position:absolute;padding:8px 12px;background:rgba(31,41,55,0.95);color:white;border-radius:8px;font-size:12px;pointer-events:none;z-index:1000;box-shadow:0 4px 6px rgba(0,0,0,0.1);';
-    document.body.appendChild(tooltip);
+    // D3 radial tree layout
+    const hierarchy = d3.hierarchy(root);
+    const treeRadius = Math.min(width, height) / 2 - 40;
+    const tree = d3.tree()
+      .size([2 * Math.PI, treeRadius])
+      .separation((a, b) => (a.parent === b.parent ? 1 : 2) / a.depth);
+    tree(hierarchy);
 
-    node.on('mouseover', (event, d) => {
-      const tooltipText = d.url ? `${d.label} (點擊開啟)` : d.label;
-      tooltip.textContent = tooltipText;
-      tooltip.style.display = 'block';
-      tooltip.style.left = event.pageX + 10 + 'px';
-      tooltip.style.top = event.pageY - 10 + 'px';
-      
-      d3.select(event.target).attr('stroke', '#3b82f6').attr('stroke-width', 3);
-    }).on('mouseout', (event) => {
-      tooltip.style.display = 'none';
-      d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
+    // Draw curved links (Xmind style)
+    g.selectAll('.link')
+      .data(hierarchy.links())
+      .join('path')
+      .attr('class', 'link')
+      .attr('d', d3.linkRadial()
+        .angle(d => d.x)
+        .radius(d => d.y))
+      .attr('fill', 'none')
+      .attr('stroke', d => d.target.data.color || '#cbd5e0')
+      .attr('stroke-width', d => d.target.depth === 1 ? 2.5 : 1.5)
+      .attr('stroke-opacity', 0.6);
+
+    // Draw nodes
+    const nodeG = g.selectAll('.node')
+      .data(hierarchy.descendants())
+      .join('g')
+      .attr('class', 'node')
+      .attr('transform', d => `rotate(${d.x * 180 / Math.PI - 90}) translate(${d.y}, 0)`)
+      .attr('cursor', d => d.data.url ? 'pointer' : 'default');
+
+    nodeG.append('circle')
+      .attr('r', d => {
+        if (d.depth === 0) return 20;
+        if (d.depth === 1) return 12;
+        return 6;
+      })
+      .attr('fill', d => d.data.color || '#94a3b8')
+      .attr('stroke', '#fff')
+      .attr('stroke-width', d => d.depth === 0 ? 3 : 2);
+
+    // Labels — rotate text to be readable
+    nodeG.append('text')
+      .attr('dy', '0.32em')
+      .attr('x', d => (d.x < Math.PI) === !d.children ? 10 : -10)
+      .attr('text-anchor', d => (d.x < Math.PI) === !d.children ? 'start' : 'end')
+      .attr('transform', d => d.x >= Math.PI ? 'rotate(180)' : null)
+      .attr('font-size', d => {
+        if (d.depth === 0) return '15px';
+        if (d.depth === 1) return '12px';
+        return '10px';
+      })
+      .attr('font-weight', d => d.depth <= 1 ? 'bold' : 'normal')
+      .attr('fill', d => d.depth <= 1 ? '#1a1a1a' : '#444')
+      .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.9))')
+      .text(d => d.data.label || d.data.name || '');
+
+    // Click to navigate
+    nodeG.on('click', (event, d) => {
+      if (d.data.url) {
+        window.open(d.data.url, '_blank', 'noopener noreferrer');
+      }
     });
 
-    simulation.on('tick', () => {
-      link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
-      node.attr('cx', d => d.x).attr('cy', d => d.y);
-      label.attr('x', d => d.x).attr('y', d => d.y);
+    // Hover effects
+    nodeG.on('mouseover', function(event, d) {
+      d3.select(this).select('circle')
+        .transition().duration(200)
+        .attr('stroke', '#3b82f6').attr('stroke-width', 3);
+    }).on('mouseout', function(event, d) {
+      d3.select(this).select('circle')
+        .transition().duration(200)
+        .attr('stroke', '#fff').attr('stroke-width', d.depth === 0 ? 3 : 2);
     });
   });
 </script>
