@@ -30,6 +30,20 @@ const currentPath = Astro.url.pathname;
     </script>
   </head>
   <body>
+    <div id="lang-banner" class="lang-banner" style="display:none;">
+      <span>🌐 English version available → <a href="/en">Switch to English</a></span>
+      <button class="lang-banner-close" onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');" aria-label="Close">✕</button>
+    </div>
+    <script is:inline>
+      (function() {
+        if (localStorage.getItem('lang-banner-dismissed')) return;
+        var lang = navigator.language || navigator.userLanguage || '';
+        if (lang.startsWith('zh')) return;
+        if (window.location.pathname.startsWith('/en')) return;
+        var b = document.getElementById('lang-banner');
+        if (b) b.style.display = 'flex';
+      })();
+    </script>
     <header>
       <div class="header-inner">
         <a href="/" class="logo">
@@ -130,6 +144,24 @@ const currentPath = Astro.url.pathname;
 
 <style is:global>
   * { box-sizing: border-box; margin: 0; padding: 0; }
+  .lang-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    padding: 0.6rem 1rem;
+    background: linear-gradient(90deg, #1e3a5f, #2563eb);
+    color: white;
+    font-size: 0.85rem;
+    text-align: center;
+  }
+  .lang-banner a { color: #fbbf24; font-weight: 600; text-decoration: underline; }
+  .lang-banner a:hover { color: #fde68a; }
+  .lang-banner-close {
+    background: none; border: none; color: rgba(255,255,255,0.7);
+    font-size: 1rem; cursor: pointer; padding: 0 0.3rem;
+  }
+  .lang-banner-close:hover { color: white; }
   
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
