@@ -398,28 +398,101 @@ const otherCategories = Object.keys(categoryConfig)
     box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   }
   .hub-prose {
-    font-size: 1rem;
-    line-height: 1.8;
+    font-size: 1.05rem;
+    line-height: 2;
     color: #334155;
+    max-width: 720px;
+    margin: 0 auto;
   }
   .hub-prose > blockquote:first-child {
-    font-size: 1.1rem;
-    font-style: italic;
-    border-left: 4px solid #3b82f6;
-    padding: 0.75rem 1.25rem;
-    margin: 0 0 1.5rem 0;
-    background: #f0f7ff;
+    font-size: 1.15rem;
+    font-style: normal;
+    font-weight: 600;
+    border-left: 4px solid #4a7c28;
+    padding: 1rem 1.5rem;
+    margin: 0 0 2rem 0;
+    background: #f0f7ee;
     border-radius: 0 8px 8px 0;
-    color: #1e40af;
+    color: #2d5016;
+    line-height: 1.9;
   }
-  .hub-prose h2 { font-size: 1.4rem; margin: 2rem 0 0.75rem; color: #1e293b; border-bottom: 2px solid #f1f5f9; padding-bottom: 0.5rem; }
-  .hub-prose h3 { font-size: 1.15rem; margin: 1.5rem 0 0.5rem; color: #334155; }
-  .hub-prose p { margin: 0.75rem 0; }
-  .hub-prose ul { padding-left: 1.5rem; margin: 0.5rem 0; }
-  .hub-prose li { margin: 0.3rem 0; }
-  .hub-prose a { color: #3b82f6; }
-  .hub-prose img { max-width: 100%; max-height: 300px; object-fit: cover; border-radius: 12px; margin: 1rem 0; }
-  .hub-prose em { font-size: 0.85rem; color: #64748b; }
+  .hub-prose blockquote {
+    border-left: 3px solid #cbd5e1;
+    padding: 0.75rem 1.25rem;
+    margin: 1.5rem 0;
+    background: #f8fafc;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: #475569;
+  }
+  .hub-prose h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 3rem 0 1rem;
+    color: #1a1a2e;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid #e2e8f0;
+    letter-spacing: 0.02em;
+  }
+  .hub-prose h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 2rem 0 0.75rem;
+    color: #334155;
+  }
+  .hub-prose p {
+    margin: 1.2rem 0;
+    text-align: justify;
+  }
+  .hub-prose ul, .hub-prose ol {
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+  }
+  .hub-prose li {
+    margin: 0.5rem 0;
+    line-height: 1.8;
+  }
+  .hub-prose a { color: #2563eb; text-decoration: underline; text-underline-offset: 2px; }
+  .hub-prose a:hover { color: #1d4ed8; }
+  .hub-prose img {
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 2rem auto;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  .hub-prose em {
+    font-size: 0.85rem;
+    color: #64748b;
+    display: block;
+    text-align: center;
+    margin: -1rem 0 1.5rem;
+  }
+  .hub-prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+  }
+  .hub-prose th, .hub-prose td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #e2e8f0;
+    text-align: left;
+  }
+  .hub-prose th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #1e293b;
+  }
+  .hub-prose tr:hover { background: #f8fafc; }
+  .hub-prose strong { color: #1e293b; }
+  .hub-prose hr {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 2.5rem 0;
+  }
 
   .articles-heading {
     font-size: 1.4rem;
