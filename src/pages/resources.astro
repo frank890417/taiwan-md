@@ -1,5 +1,154 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+// Resources data structure for mindmap
+const resourcesData = {
+  categories: [
+    {
+      id: 'government',
+      label: '🏛️ 官方機構',
+      color: '#065f46',
+      sites: [
+        { name: '中華民國總統府', url: 'https://www.president.gov.tw/', domain: 'president.gov.tw' },
+        { name: 'Presidential Office (English)', url: 'https://english.president.gov.tw/', domain: 'english.president.gov.tw' },
+        { name: '行政院', url: 'https://www.ey.gov.tw/', domain: 'ey.gov.tw' },
+        { name: '立法院', url: 'https://www.ly.gov.tw/', domain: 'ly.gov.tw' },
+        { name: '司法院', url: 'https://www.judicial.gov.tw/', domain: 'judicial.gov.tw' },
+        { name: '外交部', url: 'https://www.mofa.gov.tw/', domain: 'mofa.gov.tw' },
+        { name: '數位發展部', url: 'https://moda.gov.tw/', domain: 'moda.gov.tw' },
+        { name: '內政部', url: 'https://www.moi.gov.tw/', domain: 'moi.gov.tw' },
+        { name: '國家發展委員會', url: 'https://www.ndc.gov.tw/', domain: 'ndc.gov.tw' },
+        { name: '大陸委員會', url: 'https://www.mac.gov.tw/', domain: 'mac.gov.tw' },
+        { name: '原住民族委員會', url: 'https://www.cip.gov.tw/', domain: 'cip.gov.tw' }
+      ]
+    },
+    {
+      id: 'culture',
+      label: '🎭 文化與教育',
+      color: '#7c3aed',
+      sites: [
+        { name: '文化部', url: 'https://www.moc.gov.tw/', domain: 'moc.gov.tw' },
+        { name: '教育部', url: 'https://www.moe.gov.tw/', domain: 'moe.gov.tw' },
+        { name: '國立國家圖書館', url: 'https://www.ncl.edu.tw/', domain: 'ncl.edu.tw' },
+        { name: '國立故宮博物院', url: 'https://www.npm.gov.tw/', domain: 'npm.gov.tw' },
+        { name: '國立台灣美術館', url: 'https://www.ntmofa.gov.tw/', domain: 'ntmofa.gov.tw' },
+        { name: '國立臺灣歷史博物館', url: 'https://www.nmth.gov.tw/', domain: 'nmth.gov.tw' },
+        { name: '國家兩廳院', url: 'https://npac-ntch.org/zh', domain: 'npac-ntch.org' },
+        { name: '衛武營藝術中心', url: 'https://www.npac-weiwuying.org/', domain: 'npac-weiwuying.org' },
+        { name: '文策院 TAICCA', url: 'https://taicca.tw/', domain: 'taicca.tw' },
+        { name: '中央研究院', url: 'https://www.sinica.edu.tw/', domain: 'sinica.edu.tw' },
+        { name: '國家科學及技術委員會', url: 'https://www.nstc.gov.tw/', domain: 'nstc.gov.tw' }
+      ]
+    },
+    {
+      id: 'tourism',
+      label: '✈️ 觀光與旅遊',
+      color: '#2563eb',
+      sites: [
+        { name: '交通部觀光署', url: 'https://eng.taiwan.net.tw/', domain: 'eng.taiwan.net.tw' },
+        { name: '內政部移民署', url: 'https://www.immigration.gov.tw/', domain: 'immigration.gov.tw' },
+        { name: '交通部', url: 'https://www.motc.gov.tw/', domain: 'motc.gov.tw' },
+        { name: '中央氣象署', url: 'https://www.cwa.gov.tw/', domain: 'cwa.gov.tw' }
+      ]
+    },
+    {
+      id: 'economy',
+      label: '💼 科技與經濟',
+      color: '#0891b2',
+      sites: [
+        { name: '經濟部', url: 'https://www.moea.gov.tw/', domain: 'moea.gov.tw' },
+        { name: '經濟部國際貿易署', url: 'https://www.trade.gov.tw/', domain: 'trade.gov.tw' },
+        { name: '中小及新創企業署', url: 'https://www.sme.gov.tw/', domain: 'sme.gov.tw' },
+        { name: '工研院', url: 'https://www.itri.org.tw/', domain: 'itri.org.tw' },
+        { name: '經濟部智慧財產局', url: 'https://www.tipo.gov.tw/', domain: 'tipo.gov.tw' },
+        { name: '金融監督管理委員會', url: 'https://www.fsc.gov.tw/', domain: 'fsc.gov.tw' },
+        { name: '臺灣證券交易所', url: 'https://www.twse.com.tw/', domain: 'twse.com.tw' },
+        { name: '投資台灣', url: 'https://investtaiwan.nat.gov.tw/', domain: 'investtaiwan.nat.gov.tw' },
+        { name: 'Taiwan Excellence', url: 'https://www.taiwanexcellence.org/en', domain: 'taiwanexcellence.org' }
+      ]
+    },
+    {
+      id: 'media',
+      label: '📰 媒體與新聞',
+      color: '#dc2626',
+      sites: [
+        { name: '中央通訊社', url: 'https://www.cna.com.tw', domain: 'cna.com.tw' },
+        { name: 'Focus Taiwan', url: 'https://focustaiwan.tw/', domain: 'focustaiwan.tw' },
+        { name: '公共電視', url: 'https://www.pts.org.tw/', domain: 'pts.org.tw' },
+        { name: 'Taiwan Today', url: 'https://www.taiwantoday.tw/', domain: 'taiwantoday.tw' },
+        { name: '台灣光華雜誌', url: 'https://www.taiwan-panorama.com/', domain: 'taiwan-panorama.com' },
+        { name: '中央廣播電台', url: 'https://www.rti.org.tw/', domain: 'rti.org.tw' }
+      ]
+    },
+    {
+      id: 'opendata',
+      label: '📊 開放資料',
+      color: '#16a34a',
+      sites: [
+        { name: '政府資料開放平臺', url: 'https://data.gov.tw/', domain: 'data.gov.tw' },
+        { name: '政府入口網站', url: 'https://www.taiwan.gov.tw/', domain: 'taiwan.gov.tw' },
+        { name: '全國法規資料庫', url: 'https://law.moj.gov.tw/', domain: 'law.moj.gov.tw' },
+        { name: 'g0v 零時政府', url: 'https://g0v.tw/', domain: 'g0v.tw' },
+        { name: '典藏台灣', url: 'https://digitalarchives.tw/', domain: 'digitalarchives.tw' },
+        { name: '科技大觀園', url: 'https://scitechvista.nat.gov.tw/', domain: 'scitechvista.nat.gov.tw' },
+        { name: '國家文化記憶庫', url: 'https://tcmb.culture.tw/zh-tw', domain: 'tcmb.culture.tw' }
+      ]
+    },
+    {
+      id: 'taiwanmd',
+      label: '🌟 Taiwan.md 相關',
+      color: '#ca8a04',
+      sites: [
+        { name: 'GitHub 專案倉庫', url: 'https://github.com/frank890417/taiwan-md', domain: 'github.com' },
+        { name: '貢獻指南', url: '/contribute', domain: 'taiwan.md' },
+        { name: 'RSS 訂閱', url: '/rss.xml', domain: 'taiwan.md' }
+      ]
+    },
+    {
+      id: 'contact',
+      label: '📧 聯繫',
+      color: '#64748b',
+      sites: [
+        { name: '聯絡信箱', url: 'mailto:contact@taiwan.md', domain: 'taiwan.md' },
+        { name: 'Twitter', url: 'https://twitter.com/taiwanmd', domain: 'twitter.com' }
+      ]
+    }
+  ]
+};
+
+// Build mindmap data
+const mindmapNodes = [
+  { id: 'taiwan', label: '🇹🇼 台灣資源', group: 'center', size: 26, color: '#065f46' }
+];
+const mindmapEdges = [];
+
+// Add category nodes and edges
+resourcesData.categories.forEach(category => {
+  mindmapNodes.push({
+    id: category.id,
+    label: category.label,
+    group: category.id,
+    size: 16,
+    color: category.color
+  });
+  mindmapEdges.push({ source: 'taiwan', target: category.id });
+  
+  // Add site nodes
+  category.sites.forEach((site, index) => {
+    const nodeId = `${category.id}_${index}`;
+    mindmapNodes.push({
+      id: nodeId,
+      label: site.name,
+      group: category.id,
+      size: 8,
+      color: category.color,
+      url: site.url
+    });
+    mindmapEdges.push({ source: category.id, target: nodeId });
+  });
+});
+
+const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges });
 ---
 
 <Layout 
@@ -16,6 +165,11 @@ import Layout from '../layouts/Layout.astro';
             完整收錄政府機關、文化機構、開放資料等官方資源<br>
             一站式掌握台灣最權威的資訊來源
           </p>
+        </div>
+        
+        <!-- Resources Mindmap -->
+        <div class="resources-mindmap">
+          <div id="resources-graph"></div>
         </div>
       </section>
 
@@ -37,13 +191,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.president.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 中華民國總統府 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=president.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  中華民國總統府 <span class="external-icon">↗</span>
                 </a>
                 <p>國家元首相關資訊與政策宣示</p>
               </li>
               <li>
                 <a href="https://english.president.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 Presidential Office (English) <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=english.president.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  Presidential Office (English) <span class="external-icon">↗</span>
                 </a>
                 <p>總統府英文官網，國際對外窗口</p>
               </li>
@@ -57,19 +213,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.ey.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 行政院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.ey.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  行政院 <span class="external-icon">↗</span>
                 </a>
                 <p>最高行政機關，政策執行與協調</p>
               </li>
               <li>
                 <a href="https://www.ly.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 立法院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.ly.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  立法院 <span class="external-icon">↗</span>
                 </a>
                 <p>國家立法機關，法案審議與監督</p>
               </li>
               <li>
                 <a href="https://www.judicial.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 司法院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.judicial.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  司法院 <span class="external-icon">↗</span>
                 </a>
                 <p>最高司法機關，司法政策與制度</p>
               </li>
@@ -83,19 +242,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.mofa.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 外交部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.mofa.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  外交部 <span class="external-icon">↗</span>
                 </a>
                 <p>外交政策與國際關係，領務服務</p>
               </li>
               <li>
                 <a href="https://moda.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 數位發展部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=moda.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  數位發展部 <span class="external-icon">↗</span>
                 </a>
                 <p>數位轉型與智慧國家政策</p>
               </li>
               <li>
                 <a href="https://www.moi.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 內政部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.moi.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  內政部 <span class="external-icon">↗</span>
                 </a>
                 <p>內政事務與民政管理，戶政服務</p>
               </li>
@@ -109,19 +271,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.ndc.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國家發展委員會 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.ndc.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  國家發展委員會 <span class="external-icon">↗</span>
                 </a>
                 <p>國家發展規劃與政策，前瞻計畫</p>
               </li>
               <li>
                 <a href="https://www.mac.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 大陸委員會 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.mac.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  大陸委員會 <span class="external-icon">↗</span>
                 </a>
                 <p>兩岸事務與政策，兩岸交流管理</p>
               </li>
               <li>
                 <a href="https://www.cip.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 原住民族委員會 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.cip.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  原住民族委員會 <span class="external-icon">↗</span>
                 </a>
                 <p>原住民族事務與文化，族群權益</p>
               </li>
@@ -141,19 +306,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.moc.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 文化部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.moc.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  文化部 <span class="external-icon">↗</span>
                 </a>
                 <p>文化政策與藝術推廣，文化資產保存</p>
               </li>
               <li>
                 <a href="https://www.moe.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 教育部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.moe.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  教育部 <span class="external-icon">↗</span>
                 </a>
                 <p>教育政策與學術發展，各級教育管理</p>
               </li>
               <li>
                 <a href="https://www.ncl.edu.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國立國家圖書館 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.ncl.edu.tw&sz=32" alt="" class="resource-favicon" />
+                  國立國家圖書館 <span class="external-icon">↗</span>
                 </a>
                 <p>國家級圖書館與文獻典藏</p>
               </li>
@@ -167,19 +335,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.npm.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國立故宮博物院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.npm.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  國立故宮博物院 <span class="external-icon">↗</span>
                 </a>
                 <p>中華文化瑰寶典藏，世界級文物展示</p>
               </li>
               <li>
                 <a href="https://www.ntmofa.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國立台灣美術館 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.ntmofa.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  國立台灣美術館 <span class="external-icon">↗</span>
                 </a>
                 <p>台灣現代美術展示與研究</p>
               </li>
               <li>
                 <a href="https://www.nmth.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國立臺灣歷史博物館 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.nmth.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  國立臺灣歷史博物館 <span class="external-icon">↗</span>
                 </a>
                 <p>台灣歷史文化典藏研究</p>
               </li>
@@ -193,19 +364,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://npac-ntch.org/zh" target="_blank" rel="noopener noreferrer">
-                  🔗 國家兩廳院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=npac-ntch.org&sz=32" alt="" class="resource-favicon" />
+                  國家兩廳院 <span class="external-icon">↗</span>
                 </a>
                 <p>國家級表演藝術中心，經典演出</p>
               </li>
               <li>
                 <a href="https://www.npac-weiwuying.org/" target="_blank" rel="noopener noreferrer">
-                  🔗 衛武營藝術中心 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.npac-weiwuying.org&sz=32" alt="" class="resource-favicon" />
+                  衛武營藝術中心 <span class="external-icon">↗</span>
                 </a>
                 <p>世界最大單一建築表演場館</p>
               </li>
               <li>
                 <a href="https://taicca.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 文策院 TAICCA <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=taicca.tw&sz=32" alt="" class="resource-favicon" />
+                  文策院 TAICCA <span class="external-icon">↗</span>
                 </a>
                 <p>文化內容產業策進，創意經濟</p>
               </li>
@@ -219,13 +393,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.sinica.edu.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 中央研究院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.sinica.edu.tw&sz=32" alt="" class="resource-favicon" />
+                  中央研究院 <span class="external-icon">↗</span>
                 </a>
                 <p>國家最高學術研究機構</p>
               </li>
               <li>
                 <a href="https://www.nstc.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 國家科學及技術委員會 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.nstc.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  國家科學及技術委員會 <span class="external-icon">↗</span>
                 </a>
                 <p>科技政策與研發，學術研究推動</p>
               </li>
@@ -245,13 +421,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://eng.taiwan.net.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 交通部觀光署 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=eng.taiwan.net.tw&sz=32" alt="" class="resource-favicon" />
+                  交通部觀光署 <span class="external-icon">↗</span>
                 </a>
                 <p>觀光推廣與旅遊資訊，國際行銷</p>
               </li>
               <li>
                 <a href="https://www.immigration.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 內政部移民署 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.immigration.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  內政部移民署 <span class="external-icon">↗</span>
                 </a>
                 <p>入出境管理與移民服務</p>
               </li>
@@ -265,13 +443,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.motc.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 交通部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.motc.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  交通部 <span class="external-icon">↗</span>
                 </a>
                 <p>交通政策與運輸基建，交通安全</p>
               </li>
               <li>
                 <a href="https://www.cwa.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 中央氣象署 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.cwa.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  中央氣象署 <span class="external-icon">↗</span>
                 </a>
                 <p>氣象、氣候、地震預報，防災資訊</p>
               </li>
@@ -291,19 +471,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.moea.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 經濟部 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.moea.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  經濟部 <span class="external-icon">↗</span>
                 </a>
                 <p>經濟政策與產業發展，投資促進</p>
               </li>
               <li>
                 <a href="https://www.trade.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 經濟部國際貿易署 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.trade.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  經濟部國際貿易署 <span class="external-icon">↗</span>
                 </a>
                 <p>國際貿易政策與推廣，出口促進</p>
               </li>
               <li>
                 <a href="https://www.sme.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 中小及新創企業署 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.sme.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  中小及新創企業署 <span class="external-icon">↗</span>
                 </a>
                 <p>中小企業發展與新創支持</p>
               </li>
@@ -317,13 +500,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.itri.org.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 工研院 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.itri.org.tw&sz=32" alt="" class="resource-favicon" />
+                  工研院 <span class="external-icon">↗</span>
                 </a>
                 <p>產業技術研發機構，創新驅動</p>
               </li>
               <li>
                 <a href="https://www.tipo.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 經濟部智慧財產局 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.tipo.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  經濟部智慧財產局 <span class="external-icon">↗</span>
                 </a>
                 <p>智慧財產權保護與管理</p>
               </li>
@@ -337,13 +522,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.fsc.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 金融監督管理委員會 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.fsc.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  金融監督管理委員會 <span class="external-icon">↗</span>
                 </a>
                 <p>金融監督與管理，金融市場穩定</p>
               </li>
               <li>
                 <a href="https://www.twse.com.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 臺灣證券交易所 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.twse.com.tw&sz=32" alt="" class="resource-favicon" />
+                  臺灣證券交易所 <span class="external-icon">↗</span>
                 </a>
                 <p>台灣主要證券交易市場</p>
               </li>
@@ -357,13 +544,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://investtaiwan.nat.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 投資台灣 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=investtaiwan.nat.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  投資台灣 <span class="external-icon">↗</span>
                 </a>
                 <p>投資環境與政策資訊，招商引資</p>
               </li>
               <li>
                 <a href="https://www.taiwanexcellence.org/en" target="_blank" rel="noopener noreferrer">
-                  🔗 Taiwan Excellence <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.taiwanexcellence.org&sz=32" alt="" class="resource-favicon" />
+                  Taiwan Excellence <span class="external-icon">↗</span>
                 </a>
                 <p>台灣精品獎，展示優質產品</p>
               </li>
@@ -383,19 +572,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.cna.com.tw" target="_blank" rel="noopener noreferrer">
-                  🔗 中央通訊社 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.cna.com.tw&sz=32" alt="" class="resource-favicon" />
+                  中央通訊社 <span class="external-icon">↗</span>
                 </a>
                 <p>國家通訊社，權威新聞來源</p>
               </li>
               <li>
                 <a href="https://focustaiwan.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 Focus Taiwan <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=focustaiwan.tw&sz=32" alt="" class="resource-favicon" />
+                  Focus Taiwan <span class="external-icon">↗</span>
                 </a>
                 <p>中央社英文新聞網站，國際視野</p>
               </li>
               <li>
                 <a href="https://www.pts.org.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 公共電視 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.pts.org.tw&sz=32" alt="" class="resource-favicon" />
+                  公共電視 <span class="external-icon">↗</span>
                 </a>
                 <p>公共媒體服務，優質內容製作</p>
               </li>
@@ -409,19 +601,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://www.taiwantoday.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 Taiwan Today <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.taiwantoday.tw&sz=32" alt="" class="resource-favicon" />
+                  Taiwan Today <span class="external-icon">↗</span>
                 </a>
                 <p>台灣官方新聞平台，政策宣導</p>
               </li>
               <li>
                 <a href="https://www.taiwan-panorama.com/" target="_blank" rel="noopener noreferrer">
-                  🔗 台灣光華雜誌 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.taiwan-panorama.com&sz=32" alt="" class="resource-favicon" />
+                  台灣光華雜誌 <span class="external-icon">↗</span>
                 </a>
                 <p>台灣文化推廣雜誌，軟實力展示</p>
               </li>
               <li>
                 <a href="https://www.rti.org.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 中央廣播電台 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.rti.org.tw&sz=32" alt="" class="resource-favicon" />
+                  中央廣播電台 <span class="external-icon">↗</span>
                 </a>
                 <p>對外廣播電台，多語言服務</p>
               </li>
@@ -441,19 +636,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://data.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 政府資料開放平臺 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=data.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  政府資料開放平臺 <span class="external-icon">↗</span>
                 </a>
                 <p>政府開放資料統一平台，資料治理</p>
               </li>
               <li>
                 <a href="https://www.taiwan.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 政府入口網站 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=www.taiwan.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  政府入口網站 <span class="external-icon">↗</span>
                 </a>
                 <p>政府資訊統一入口，一站式服務</p>
               </li>
               <li>
                 <a href="https://law.moj.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 全國法規資料庫 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=law.moj.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  全國法規資料庫 <span class="external-icon">↗</span>
                 </a>
                 <p>完整法規查詢系統，法治基礎</p>
               </li>
@@ -467,13 +665,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://g0v.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 g0v 零時政府 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=g0v.tw&sz=32" alt="" class="resource-favicon" />
+                  g0v 零時政府 <span class="external-icon">↗</span>
                 </a>
                 <p>開源公民科技社群，協作治理</p>
               </li>
               <li>
                 <a href="https://digitalarchives.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 典藏台灣 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=digitalarchives.tw&sz=32" alt="" class="resource-favicon" />
+                  典藏台灣 <span class="external-icon">↗</span>
                 </a>
                 <p>中研院數位文化典藏，數位人文</p>
               </li>
@@ -487,13 +687,15 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://scitechvista.nat.gov.tw/" target="_blank" rel="noopener noreferrer">
-                  🔗 科技大觀園 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=scitechvista.nat.gov.tw&sz=32" alt="" class="resource-favicon" />
+                  科技大觀園 <span class="external-icon">↗</span>
                 </a>
                 <p>國科會科普知識平台，科學教育</p>
               </li>
               <li>
                 <a href="https://tcmb.culture.tw/zh-tw" target="_blank" rel="noopener noreferrer">
-                  🔗 國家文化記憶庫 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=tcmb.culture.tw&sz=32" alt="" class="resource-favicon" />
+                  國家文化記憶庫 <span class="external-icon">↗</span>
                 </a>
                 <p>台灣文化記憶數位典藏</p>
               </li>
@@ -513,19 +715,22 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="https://github.com/frank890417/taiwan-md" target="_blank" rel="noopener noreferrer">
-                  🔗 GitHub 專案倉庫 <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=github.com&sz=32" alt="" class="resource-favicon" />
+                  GitHub 專案倉庫 <span class="external-icon">↗</span>
                 </a>
                 <p>Taiwan.md 開源專案，歡迎貢獻</p>
               </li>
               <li>
                 <a href="/contribute" rel="noopener noreferrer">
-                  🔗 貢獻指南
+                  <img src="https://www.google.com/s2/favicons?domain=taiwan.md&sz=32" alt="" class="resource-favicon" />
+                  貢獻指南
                 </a>
                 <p>如何參與 Taiwan.md 專案開發</p>
               </li>
               <li>
                 <a href="/rss.xml" rel="noopener noreferrer">
-                  🔗 RSS 訂閱
+                  <img src="https://www.google.com/s2/favicons?domain=taiwan.md&sz=32" alt="" class="resource-favicon" />
+                  RSS 訂閱
                 </a>
                 <p>訂閱 Taiwan.md 最新內容更新</p>
               </li>
@@ -539,13 +744,14 @@ import Layout from '../layouts/Layout.astro';
             <ul class="resource-links">
               <li>
                 <a href="mailto:contact@taiwan.md">
-                  🔗 聯絡信箱
+                  📧 聯絡信箱
                 </a>
                 <p>任何問題或建議歡迎來信</p>
               </li>
               <li>
                 <a href="https://twitter.com/taiwanmd" target="_blank" rel="noopener noreferrer">
-                  🔗 Twitter <span class="external-icon">↗</span>
+                  <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=32" alt="" class="resource-favicon" />
+                  Twitter <span class="external-icon">↗</span>
                 </a>
                 <p>關注最新動態與討論</p>
               </li>
@@ -582,6 +788,25 @@ import Layout from '../layouts/Layout.astro';
     text-align: center;
     margin-bottom: 3rem;
     padding: 4rem 0;
+  }
+
+  /* Resources Mindmap */
+  .resources-mindmap {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 50%, #a7f3d0 100%);
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+
+  #resources-graph {
+    width: 100%;
+    height: 450px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
   }
 
   .hero-title {
@@ -713,6 +938,16 @@ import Layout from '../layouts/Layout.astro';
     transition: color 0.2s ease;
   }
 
+  .resource-favicon {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    vertical-align: middle;
+    flex-shrink: 0;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+  }
+
   .resource-links a:hover {
     color: #065f46;
   }
@@ -821,3 +1056,124 @@ import Layout from '../layouts/Layout.astro';
     }
   }
 </style>
+
+<script is:inline src="https://d3js.org/d3.v7.min.js"></script>
+<script is:inline define:vars={{ mindmapData }}>
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.getElementById('resources-graph');
+    if (!container) return;
+
+    const data = JSON.parse(mindmapData);
+    const width = container.clientWidth;
+    const height = 450;
+
+    const svg = d3.select('#resources-graph')
+      .append('svg')
+      .attr('width', width)
+      .attr('height', height);
+
+    const g = svg.append('g');
+
+    // Zoom functionality
+    svg.call(d3.zoom().on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    }));
+
+    // Force simulation
+    const simulation = d3.forceSimulation(data.nodes)
+      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
+        if (d.source.id === 'taiwan') return 120;
+        if (d.source.size > 10) return 60;
+        return 40;
+      }))
+      .force('charge', d3.forceManyBody().strength(d => {
+        if (d.group === 'center') return -400;
+        if (d.size > 10) return -200;
+        return -100;
+      }))
+      .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('collision', d3.forceCollide().radius(d => d.size + 8));
+
+    // Links
+    const link = g.append('g')
+      .selectAll('line')
+      .data(data.edges)
+      .join('line')
+      .attr('stroke', '#cbd5e0')
+      .attr('stroke-width', 1.5)
+      .attr('stroke-opacity', 0.7);
+
+    // Nodes
+    const node = g.append('g')
+      .selectAll('circle')
+      .data(data.nodes)
+      .join('circle')
+      .attr('r', d => d.size)
+      .attr('fill', d => d.color || '#94a3b8')
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 2)
+      .attr('cursor', 'pointer')
+      .call(d3.drag()
+        .on('start', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x; d.fy = d.y;
+        })
+        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+        .on('end', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null; d.fy = null;
+        })
+      );
+
+    // Labels
+    const label = g.append('g')
+      .selectAll('text')
+      .data(data.nodes)
+      .join('text')
+      .text(d => d.label)
+      .attr('font-size', d => {
+        if (d.group === 'center') return '14px';
+        if (d.size >= 12) return '11px';
+        return '9px';
+      })
+      .attr('font-weight', d => d.size > 12 ? 'bold' : 'normal')
+      .attr('text-anchor', 'middle')
+      .attr('dy', d => d.size + 12)
+      .attr('fill', '#1e293b')
+      .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.9))')
+      .attr('pointer-events', 'none');
+
+    // Click to navigate for nodes with URLs
+    node.on('click', (event, d) => {
+      if (d.url) {
+        window.open(d.url, '_blank', 'noopener noreferrer');
+      }
+    });
+
+    // Hover tooltip
+    const tooltip = document.createElement('div');
+    tooltip.className = 'mindmap-tooltip';
+    tooltip.style.cssText = 'display:none;position:absolute;padding:8px 12px;background:rgba(31,41,55,0.95);color:white;border-radius:8px;font-size:12px;pointer-events:none;z-index:1000;box-shadow:0 4px 6px rgba(0,0,0,0.1);';
+    document.body.appendChild(tooltip);
+
+    node.on('mouseover', (event, d) => {
+      const tooltipText = d.url ? `${d.label} (點擊開啟)` : d.label;
+      tooltip.textContent = tooltipText;
+      tooltip.style.display = 'block';
+      tooltip.style.left = event.pageX + 10 + 'px';
+      tooltip.style.top = event.pageY - 10 + 'px';
+      
+      d3.select(event.target).attr('stroke', '#3b82f6').attr('stroke-width', 3);
+    }).on('mouseout', (event) => {
+      tooltip.style.display = 'none';
+      d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
+    });
+
+    simulation.on('tick', () => {
+      link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      node.attr('cx', d => d.x).attr('cy', d => d.y);
+      label.attr('x', d => d.x).attr('y', d => d.y);
+    });
+  });
+</script>
