@@ -1,6 +1,69 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import CategoryGrid from '../components/CategoryGrid.astro';
+import { getCollection } from 'astro:content';
+
+// Build graph data server-side
+const allZhArticles = await getCollection('zh-TW');
+const allEnArticles = await getCollection('en');
+
+const categories = ['history', 'geography', 'culture', 'food', 'art', 'music', 'technology', 'nature', 'people', 'society', 'economy', 'lifestyle'];
+const categoryNames: Record<string, string> = {
+  history: '📜 歷史', geography: '🗺️ 地理', culture: '🎭 文化', food: '🍜 美食',
+  art: '🎨 藝術', music: '🎵 音樂', technology: '💻 科技', nature: '🌿 自然',
+  people: '👤 人物', society: '⚖️ 社會', economy: '📈 經濟', lifestyle: '🏮 生活'
+};
+const categoryColors: Record<string, string> = {
+  history: '#dc2626', geography: '#2563eb', culture: '#7c3aed', food: '#ea580c',
+  art: '#db2777', music: '#4f46e5', technology: '#0891b2', nature: '#16a34a',
+  people: '#ca8a04', society: '#64748b', economy: '#0d9488', lifestyle: '#f97316'
+};
+
+const graphNodes: any[] = [{ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 28, color: '#2d5016' }];
+const graphEdges: any[] = [];
+const tagMap: Record<string, string[]> = {};
+
+for (const cat of categories) {
+  graphNodes.push({ id: cat, label: categoryNames[cat], group: cat, color: categoryColors[cat], size: 18, url: `/${cat}` });
+  graphEdges.push({ source: 'taiwan', target: cat });
+
+  const catArticles = allZhArticles.filter(a => a.id.split('/')[0] === cat && !a.id.split('/').pop()?.startsWith('_'));
+  for (const article of catArticles) {
+    const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
+    const nodeId = `${cat}/${slug}`;
+    graphNodes.push({ id: nodeId, label: article.data.title, group: cat, color: categoryColors[cat], size: 7, url: `/${cat}/${encodeURIComponent(slug)}` });
+    graphEdges.push({ source: cat, target: nodeId });
+    if (article.data.tags) {
+      for (const tag of article.data.tags) {
+        if (!tagMap[tag]) tagMap[tag] = [];
+        tagMap[tag].push(nodeId);
+      }
+    }
+  }
+
+  const enCatArticles = allEnArticles.filter(a => a.id.split('/')[0] === cat && !a.id.split('/').pop()?.startsWith('_'));
+  for (const article of enCatArticles) {
+    const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
+    const nodeId = `en/${cat}/${slug}`;
+    graphNodes.push({ id: nodeId, label: `🌐 ${article.data.title}`, group: cat, color: categoryColors[cat], size: 5, url: `/en/${cat}/${slug}` });
+    graphEdges.push({ source: cat, target: nodeId });
+  }
+}
+
+// Cross-category tag edges
+for (const [tag, ids] of Object.entries(tagMap)) {
+  if (ids.length >= 2) {
+    for (let i = 0; i < Math.min(ids.length - 1, 3); i++) {
+      for (let j = i + 1; j < Math.min(ids.length, 4); j++) {
+        const catA = ids[i].split('/')[0];
+        const catB = ids[j].split('/')[0];
+        if (catA !== catB) graphEdges.push({ source: ids[i], target: ids[j] });
+      }
+    }
+  }
+}
+
+const graphData = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
 ---
 
 <Layout title="台灣知識庫" description="開源、AI-friendly 的台灣完整知識庫，讓全世界認識真正的台灣">
@@ -181,15 +244,16 @@ import CategoryGrid from '../components/CategoryGrid.astro';
     </div>
   </section>
 
-  <!-- 迷你知識圖譜 -->
-  <section class="mini-graph-section">
-    <a href="/graph" class="mini-graph-link">
-      <div class="mini-graph-text">
-        <h3>🕸️ 知識圖譜</h3>
-        <p>每篇文章都不是孤島——點擊探索台灣知識的連結網絡</p>
-      </div>
-      <div id="mini-graph" class="mini-graph-container"></div>
-    </a>
+  <!-- 完整知識圖譜 -->
+  <section class="full-graph-section">
+    <div class="graph-header">
+      <h2 class="section-title">🕸️ 知識圖譜</h2>
+      <p class="graph-subtitle">每篇文章都不是孤島——點擊任何節點，探索台灣知識的連結網絡</p>
+    </div>
+    <div id="home-graph" class="home-graph-container"></div>
+    <div class="graph-footer">
+      <a href="/graph" class="feature-btn secondary">開啟完整互動圖譜 →</a>
+    </div>
   </section>
 
   <section class="language-statement">
@@ -339,83 +403,91 @@ import CategoryGrid from '../components/CategoryGrid.astro';
   </section>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
-<script is:inline>
+<script is:inline define:vars={{ graphData }}>
   document.addEventListener('DOMContentLoaded', function() {
-    const container = document.getElementById('mini-graph');
+    const container = document.getElementById('home-graph');
     if (!container) return;
 
-    const categories = [
-      { id: 'history', name: '歷史', color: '#dc2626' },
-      { id: 'geography', name: '地理', color: '#2563eb' },
-      { id: 'culture', name: '文化', color: '#7c3aed' },
-      { id: 'food', name: '美食', color: '#ea580c' },
-      { id: 'art', name: '藝術', color: '#db2777' },
-      { id: 'music', name: '音樂', color: '#4f46e5' },
-      { id: 'technology', name: '科技', color: '#0891b2' },
-      { id: 'nature', name: '自然', color: '#16a34a' },
-      { id: 'people', name: '人物', color: '#ca8a04' },
-      { id: 'society', name: '社會', color: '#64748b' },
-      { id: 'economy', name: '經濟', color: '#0d9488' },
-      { id: 'lifestyle', name: '生活', color: '#f97316' },
-    ];
-
-    const nodes = [
-      { id: 'taiwan', name: 'Taiwan.md', size: 18, color: '#2d5016', group: 'core' },
-      ...categories.map(c => ({ id: c.id, name: c.name, size: 12, color: c.color, group: 'category' }))
-    ];
-
-    const edges = categories.map(c => ({ source: 'taiwan', target: c.id }));
-    // Cross-links
-    const crossLinks = [
-      ['history', 'people'], ['history', 'society'], ['culture', 'art'],
-      ['culture', 'music'], ['food', 'lifestyle'], ['technology', 'economy'],
-      ['nature', 'geography'], ['people', 'art'], ['society', 'economy'],
-      ['music', 'culture'], ['lifestyle', 'food'], ['geography', 'nature']
-    ];
-    crossLinks.forEach(([s, t]) => edges.push({ source: s, target: t }));
-
+    const data = JSON.parse(graphData);
     const width = container.clientWidth;
-    const height = 300;
+    const height = 600;
 
-    const svg = d3.select('#mini-graph').append('svg')
-      .attr('viewBox', `0 0 ${width} ${height}`)
-      .attr('preserveAspectRatio', 'xMidYMid meet');
+    const svg = d3.select('#home-graph').append('svg')
+      .attr('viewBox', `0 0 ${width} ${height}`);
 
-    const simulation = d3.forceSimulation(nodes)
-      .force('link', d3.forceLink(edges).id(d => d.id).distance(60))
-      .force('charge', d3.forceManyBody().strength(-120))
+    const g = svg.append('g');
+
+    svg.call(d3.zoom().scaleExtent([0.3, 3]).on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    }));
+
+    const simulation = d3.forceSimulation(data.nodes)
+      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
+        if (d.source.id === 'taiwan' || d.target.id === 'taiwan') return 120;
+        return 50;
+      }))
+      .force('charge', d3.forceManyBody().strength(d => d.size > 15 ? -300 : -80))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide().radius(d => d.size + 4));
+      .force('collision', d3.forceCollide().radius(d => d.size + 3));
 
-    const link = svg.append('g')
+    const link = g.append('g')
       .selectAll('line')
-      .data(edges)
+      .data(data.edges)
       .join('line')
       .attr('stroke', '#d1d5db')
-      .attr('stroke-width', 1)
-      .attr('stroke-opacity', 0.5);
+      .attr('stroke-width', 0.8)
+      .attr('stroke-opacity', 0.4);
 
-    const node = svg.append('g')
+    const node = g.append('g')
       .selectAll('circle')
-      .data(nodes)
+      .data(data.nodes)
       .join('circle')
       .attr('r', d => d.size)
       .attr('fill', d => d.color)
       .attr('fill-opacity', 0.85)
       .attr('stroke', '#fff')
-      .attr('stroke-width', 1.5);
+      .attr('stroke-width', d => d.size > 15 ? 2 : 1)
+      .style('cursor', d => d.url ? 'pointer' : 'grab')
+      .on('click', (event, d) => { if (d.url) window.location.href = d.url; })
+      .on('mouseover', function(event, d) {
+        d3.select(this).attr('fill-opacity', 1).attr('stroke', '#2d5016').attr('stroke-width', 3);
+        tooltip.style('opacity', 1).html(d.label).style('left', (event.pageX + 12) + 'px').style('top', (event.pageY - 28) + 'px');
+      })
+      .on('mouseout', function(event, d) {
+        d3.select(this).attr('fill-opacity', 0.85).attr('stroke', '#fff').attr('stroke-width', d.size > 15 ? 2 : 1);
+        tooltip.style('opacity', 0);
+      })
+      .call(d3.drag()
+        .on('start', (event, d) => { if (!event.active) simulation.alphaTarget(0.3).restart(); d.fx = d.x; d.fy = d.y; })
+        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+        .on('end', (event, d) => { if (!event.active) simulation.alphaTarget(0); d.fx = null; d.fy = null; })
+      );
 
-    const label = svg.append('g')
+    // Labels only for big nodes
+    const label = g.append('g')
       .selectAll('text')
-      .data(nodes)
+      .data(data.nodes.filter(d => d.size >= 15))
       .join('text')
-      .text(d => d.name)
+      .text(d => d.label)
       .attr('text-anchor', 'middle')
       .attr('dy', d => d.size + 14)
-      .attr('font-size', d => d.group === 'core' ? '11px' : '9px')
-      .attr('font-weight', d => d.group === 'core' ? '700' : '500')
+      .attr('font-size', d => d.size >= 25 ? '12px' : '10px')
+      .attr('font-weight', '600')
       .attr('fill', '#374151')
       .attr('pointer-events', 'none');
+
+    // Tooltip
+    const tooltip = d3.select('body').append('div')
+      .style('position', 'absolute')
+      .style('padding', '6px 12px')
+      .style('background', 'rgba(31, 41, 55, 0.9)')
+      .style('color', 'white')
+      .style('border-radius', '8px')
+      .style('font-size', '13px')
+      .style('pointer-events', 'none')
+      .style('opacity', 0)
+      .style('transition', 'opacity 0.2s')
+      .style('z-index', '1000');
 
     simulation.on('tick', () => {
       link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
@@ -807,59 +879,46 @@ import CategoryGrid from '../components/CategoryGrid.astro';
     color: #ffffff !important;
   }
 
-  /* ===== MINI GRAPH ===== */
-  .mini-graph-section {
-    max-width: 1200px;
+  /* ===== FULL GRAPH ===== */
+  .full-graph-section {
+    max-width: 1400px;
     margin: 2rem auto 4rem;
     padding: 0 2rem;
   }
 
-  .mini-graph-link {
-    display: block;
-    text-decoration: none;
-    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 50%, #f0f9ff 100%);
-    border: 2px solid #d1fae5;
-    border-radius: 20px;
-    padding: 2rem;
-    transition: all 0.3s ease;
-    cursor: pointer;
-    overflow: hidden;
-  }
-
-  .mini-graph-link:hover {
-    border-color: #2d5016;
-    box-shadow: 0 8px 24px rgba(45, 80, 22, 0.15);
-    transform: translateY(-2px);
-  }
-
-  .mini-graph-text {
+  .graph-header {
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
   }
 
-  .mini-graph-text h3 {
-    font-family: "Noto Serif TC", serif;
-    font-size: 1.3rem;
-    color: #1f2937;
-    margin: 0 0 0.5rem;
-  }
-
-  .mini-graph-text p {
+  .graph-subtitle {
     color: #6b7280;
-    font-size: 0.95rem;
-    margin: 0;
+    font-size: 1.05rem;
+    margin: 0.5rem 0 0;
   }
 
-  .mini-graph-container {
+  .home-graph-container {
     width: 100%;
-    height: 300px;
-    border-radius: 12px;
+    height: 600px;
+    background: linear-gradient(135deg, #fafdf7 0%, #f0fdf4 50%, #f5f7fa 100%);
+    border: 2px solid #e5e7eb;
+    border-radius: 20px;
     overflow: hidden;
+    cursor: grab;
   }
 
-  .mini-graph-container svg {
+  .home-graph-container:active {
+    cursor: grabbing;
+  }
+
+  .home-graph-container svg {
     width: 100%;
     height: 100%;
+  }
+
+  .graph-footer {
+    text-align: center;
+    margin-top: 1.5rem;
   }
 
   /* ===== CATEGORIES SECTION ===== */
