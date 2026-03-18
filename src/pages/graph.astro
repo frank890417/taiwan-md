@@ -235,6 +235,10 @@ const graphData = JSON.stringify({ nodes, edges });
     <div class="graph-header">
       <h1>🕸️ 知識圖譜 Knowledge Graph</h1>
       <p>Taiwan.md 的所有知識節點與連結</p>
+      <div class="search-box">
+        <input id="graph-search" type="search" placeholder="搜尋節點或文章" aria-label="搜尋知識圖譜節點" />
+        <span id="search-count" class="search-count"></span>
+      </div>
       <a href="/" class="back">← 回首頁</a>
     </div>
     <div id="graph-container"></div>
@@ -327,6 +331,53 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
       .attr('pointer-events', 'none');
 
+    const searchInput = document.getElementById('graph-search');
+    const searchCount = document.getElementById('search-count');
+
+    function applySearch(query) {
+      const normalized = query.trim().toLowerCase();
+
+      if (!normalized) {
+        node
+          .attr('opacity', 1)
+          .attr('stroke', '#fff')
+          .attr('stroke-width', 2);
+        link.attr('opacity', 0.6);
+        label.attr('opacity', 1);
+        if (searchCount) searchCount.textContent = '';
+        return;
+      }
+
+      const matchedIds = new Set(
+        data.nodes
+          .filter((item) => String(item.label || '').toLowerCase().includes(normalized))
+          .map((item) => item.id)
+      );
+
+      node
+        .attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.14)
+        .attr('stroke', (item) => matchedIds.has(item.id) ? '#3b82f6' : '#fff')
+        .attr('stroke-width', (item) => matchedIds.has(item.id) ? 3 : 2);
+
+      label.attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.18);
+
+      link.attr('opacity', (item) => {
+        const sourceId = typeof item.source === 'object' ? item.source.id : item.source;
+        const targetId = typeof item.target === 'object' ? item.target.id : item.target;
+        return matchedIds.has(sourceId) || matchedIds.has(targetId) ? 0.75 : 0.08;
+      });
+
+      if (searchCount) {
+        searchCount.textContent = matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
+      }
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (event) => {
+        applySearch(event.target.value);
+      });
+    }
+
     // Click to navigate
     node.on('click', (event, d) => {
       if (d.url) window.location.href = d.url;
@@ -385,7 +436,40 @@ const graphData = JSON.stringify({ nodes, edges });
     max-width: 34rem;
     color: rgba(255, 255, 255, 0.82);
   }
-  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; margin-left: auto; }
+  .search-box {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  #graph-search {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.1);
+    color: white;
+    font-size: 0.9rem;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  #graph-search::placeholder {
+    color: rgba(255,255,255,0.5);
+  }
+  #graph-search:focus {
+    border-color: #3b82f6;
+    background: rgba(255,255,255,0.15);
+  }
+  .search-count {
+    color: rgba(255,255,255,0.7);
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  .back {
+    color: #3b82f6;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
   #graph-container {
     flex: 1;
     background: #fafafa;
@@ -416,9 +500,18 @@ const graphData = JSON.stringify({ nodes, edges });
       font-size: 0.9rem;
       order: 3;
     }
+    .search-box {
+      width: 100%;
+      order: 4;
+      margin-left: 0;
+      flex-wrap: wrap;
+    }
+    #graph-search {
+      width: 100%;
+    }
     .back {
       margin-left: 0;
-      order: 2;
+      order: 5;
       font-size: 0.85rem;
     }
   }
