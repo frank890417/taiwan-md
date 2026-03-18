@@ -2,25 +2,25 @@
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
-import { categoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
+import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
 
 export async function getStaticPaths() {
   const categories = Object.keys(categoryConfig);
-
-  // 類別對應到資料夾名稱
   const categoryMapping: Record<string, string> = {
-    'history': 'History',
-    'geography': 'Geography', 
-    'culture': 'Culture',
-    'food': 'Food',
-    'art': 'Art',
-    'music': 'Music',
-    'technology': 'Technology',
-    'nature': 'Nature',
-    'people': 'People',
-    'society': 'Society',
-    'economy': 'Economy',
-    'lifestyle': 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
 
   const paths = [];
@@ -30,55 +30,45 @@ export async function getStaticPaths() {
     const articles = [];
 
     try {
-      // 英文版本
       const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
-      try {
-        const enFiles = await readdir(enFolderPath);
-        const enMarkdownFiles = enFiles.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-        
-        for (const file of enMarkdownFiles) {
-          const filePath = join(enFolderPath, file);
-          const fileContent = await readFile(filePath, 'utf-8');
-          const { data: frontmatter } = matter(fileContent);
-          
-          const slug = basename(file, '.md');
-          articles.push({
-            slug: slug,
-            title: frontmatter.title || slug,
-            description: frontmatter.description || '',
-            status: frontmatter.status || '',
-            readingTime: frontmatter.readingTime || null,
-            date: frontmatter.date || null,
-            featured: frontmatter.featured || false,
-            lang: 'en'
-          });
-        }
-      } catch (err) {
-        // No English folder, continue
+      const enFiles = await readdir(enFolderPath);
+      const enMarkdownFiles = enFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
+      for (const file of enMarkdownFiles) {
+        const filePath = join(enFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter } = matter(fileContent);
+        const slug = basename(file, '.md');
+
+        articles.push({
+          slug,
+          title: frontmatter.title || slug,
+          description: frontmatter.description || '',
+          status: frontmatter.status || '',
+          readingTime: frontmatter.readingTime || null,
+          date: frontmatter.date || null,
+          featured: frontmatter.featured || false,
+          lang: 'en',
+        });
       }
+    } catch {}
 
-    } catch (err) {
-      // Category folder doesn't exist, continue
-    }
-
-    // Read Hub content (the _*Hub.md file)
     let hubContent = '';
     try {
       const hubFolder = resolve(process.cwd(), 'knowledge', 'en', folderName);
       const hubFiles = await readdir(hubFolder);
-      const hubFile = hubFiles.find(f => f.startsWith('_') && f.includes('Hub'));
+      const hubFile = hubFiles.find((f) => f.startsWith('_') && f.includes('Hub'));
       if (hubFile) {
         const hubPath = join(hubFolder, hubFile);
         const hubRaw = await readFile(hubPath, 'utf-8');
         const { content } = matter(hubRaw);
-        // Remove the first H1 line (we already have the hero title)
         hubContent = content.replace(/^#\s+.+\n/, '').trim();
       }
     } catch {}
 
     paths.push({
       params: { category },
-      props: { 
+      props: {
         categoryInfo: categoryConfig[category as CategoryKey],
         category,
         hubContent,
@@ -86,39 +76,28 @@ export async function getStaticPaths() {
           if (a.featured && !b.featured) return -1;
           if (!a.featured && b.featured) return 1;
           return a.title.localeCompare(b.title);
-        })
-      }
+        }),
+      },
     });
   }
 
   return paths;
 }
 
-import Layout from '../../../layouts/Layout.astro';
-import { getCategoryConfig } from '../../../utils/categoryConfig';
-
-import { marked } from 'marked';
 const { categoryInfo, category, hubContent, articles } = Astro.props;
 
-// Convert [[wikilinks]] to HTML links before marked parsing
-function resolveWikilinks(md: string, currentCategory: string): string {
+function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
-  // [[Page|Display Text]] or [[Page]]
   return md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
-    // Check if it's a Hub link (starts with _)
     if (target.startsWith('_')) {
       const catName = target.replace(/^_/, '').replace(/ Hub$/, '').toLowerCase();
       return `[${label}](/en/${catName})`;
     }
-    // Check if target matches an article in current category
-    const matchArticle = articles.find((a: any) => 
-      a.title === target || a.slug === target || a.slug === encodeURIComponent(target)
-    );
+    const matchArticle = articles.find((a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target));
     if (matchArticle) {
       return `[${label}](/en/${currentCategory}/${matchArticle.slug})`;
     }
-    // Default: link to search or just bold the text
     return `**${label}**`;
   });
 }
@@ -374,6 +353,9 @@ const otherCategories = Object.keys(categoryConfig)
     color: #334155;
     max-width: 720px;
     margin: 0 auto;
+  }
+  .hub-prose > h1:first-child {
+    display: none;
   }
   .hub-prose > blockquote:first-child {
     font-size: 1.15rem;

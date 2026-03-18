@@ -1,2 +1,0 @@
-import { a as bundledLanguagesInfo, i as bundledLanguagesBase, n as bundledLanguages, r as bundledLanguagesAlias, t as BundledLanguage } from "./langs-bundle-full-C-zczmvu.mjs";
-export { BundledLanguage, bundledLanguages, bundledLanguagesAlias, bundledLanguagesBase, bundledLanguagesInfo };
