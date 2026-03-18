@@ -230,6 +230,10 @@ const graphData = JSON.stringify({ nodes, edges });
     <div class="graph-header">
       <h1>🕸️ Knowledge Graph</h1>
       <p>All knowledge nodes and connections on Taiwan.md</p>
+      <div class="search-box">
+        <input id="graph-search" type="text" placeholder="🔍 Search nodes..." autocomplete="off" />
+        <span id="search-count" class="search-count"></span>
+      </div>
       <a href="/en" class="back">&larr; Home</a>
     </div>
     <div id="graph-container"></div>
@@ -338,6 +342,34 @@ const graphData = JSON.stringify({ nodes, edges });
       node.attr('cx', d => d.x).attr('cy', d => d.y);
       label.attr('x', d => d.x).attr('y', d => d.y);
     });
+
+    // Search / filter
+    const searchInput = document.getElementById('graph-search');
+    const searchCount = document.getElementById('search-count');
+    searchInput.addEventListener('input', () => {
+      const query = searchInput.value.trim().toLowerCase();
+      if (!query) {
+        node.attr('opacity', 1);
+        label.attr('opacity', 1);
+        link.attr('stroke-opacity', 0.6);
+        searchCount.textContent = '';
+        return;
+      }
+      const matched = new Set();
+      data.nodes.forEach(n => {
+        if (n.label.toLowerCase().includes(query) || n.id.toLowerCase().includes(query)) {
+          matched.add(n.id);
+        }
+      });
+      searchCount.textContent = matched.size + ' results';
+      node.attr('opacity', d => matched.has(d.id) ? 1 : 0.08);
+      label.attr('opacity', d => matched.has(d.id) ? 1 : 0.08);
+      link.attr('stroke-opacity', d => {
+        const sid = typeof d.source === 'object' ? d.source.id : d.source;
+        const tid = typeof d.target === 'object' ? d.target.id : d.target;
+        return (matched.has(sid) && matched.has(tid)) ? 0.6 : 0.03;
+      });
+    });
   }
 </script>
 
@@ -357,7 +389,22 @@ const graphData = JSON.stringify({ nodes, edges });
   }
   .graph-header h1 { font-size: 1.3rem; margin: 0; white-space: nowrap; }
   .graph-header p { opacity: 0.7; margin: 0; font-size: 0.9rem; }
-  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; margin-left: auto; }
+  .search-box { margin-left: auto; display: flex; align-items: center; gap: 0.5rem; }
+  #graph-search {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.1);
+    color: white;
+    font-size: 0.9rem;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+  #graph-search::placeholder { color: rgba(255,255,255,0.5); }
+  #graph-search:focus { border-color: #3b82f6; background: rgba(255,255,255,0.15); }
+  .search-count { color: rgba(255,255,255,0.7); font-size: 0.8rem; white-space: nowrap; }
+  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; }
   #graph-container {
     flex: 1;
     background: #fafafa;

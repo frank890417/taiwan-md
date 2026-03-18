@@ -131,12 +131,13 @@ const { lang = 'zh-TW' } = Astro.props;
 const langPrefix = lang === 'en' ? '/en' : '';
 ---
 
-<div class="category-grid">
+<section class="category-grid" aria-label="台灣知識分類">
   {categories.map((category, index) => (
-    <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color}>
+    <article>
+    <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color} aria-label={`探索${category.name}主題`}>
       <div class="category-header">
         {category.cover ? (
-          <img src={category.cover} alt={category.name} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+          <img src={category.cover} alt={`${category.name}主題相關圖片`} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
         ) : null}
         <div class="category-icon" style={category.cover ? 'display:none' : ''}>{category.icon}</div>
         <div class="category-gradient"></div>
@@ -157,42 +158,40 @@ const langPrefix = lang === 'en' ? '/en' : '';
         </div>
       </div>
     </a>
+    </article>
   ))}
-</div>
+</section>
 
 <style>
   .category-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
     margin: 3rem auto;
-    max-width: 1600px;
-    padding: 0 1rem;
+    max-width: var(--container-wide);
+    padding: 0;
   }
   
   .category-card {
-    background: white;
-    border: 2px solid #f1f5f9;
-    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid rgba(226, 232, 240, 0.9);
+    border-radius: 24px;
     text-decoration: none;
     color: inherit;
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    box-shadow: 
-      0 4px 6px rgba(0, 0, 0, 0.05),
-      0 1px 3px rgba(0, 0, 0, 0.1);
+    transition: transform 0.28s ease, box-shadow 0.28s ease, border-color 0.28s ease;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
     overflow: hidden;
     position: relative;
     display: flex;
     flex-direction: column;
-    height: 280px;
+    min-height: 292px;
+    backdrop-filter: blur(10px);
   }
   
   .category-card:hover {
-    transform: translateY(-8px) scale(1.02);
-    box-shadow: 
-      0 20px 40px rgba(0, 0, 0, 0.1),
-      0 15px 20px rgba(0, 0, 0, 0.08);
-    border-color: #e2e8f0;
+    transform: translateY(-4px);
+    box-shadow: 0 20px 45px rgba(15, 23, 42, 0.1);
+    border-color: rgba(148, 163, 184, 0.4);
   }
   
   .category-card:hover .category-gradient {
@@ -200,17 +199,16 @@ const langPrefix = lang === 'en' ? '/en' : '';
   }
   
   .category-card:hover .category-icon {
-    transform: scale(1.1) rotate(5deg);
+    transform: scale(1.04);
   }
   
   .category-card:hover .explore-link {
-    opacity: 1;
-    transform: translateX(0);
+    color: #1d4ed8;
   }
   
   .category-header {
     position: relative;
-    height: 120px;
+    height: 136px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -225,7 +223,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     transition: transform 0.5s ease;
   }
   .category-card:hover .category-cover {
-    transform: scale(1.08);
+    transform: scale(1.04);
   }
 
   .category-gradient {
@@ -245,7 +243,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     right: 1rem;
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
-    border-radius: 20px;
+    border-radius: 999px;
     padding: 0.5rem 0.75rem;
     display: flex;
     align-items: center;
@@ -253,7 +251,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     font-size: 0.8rem;
     font-weight: 600;
     color: #374151;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.3);
   }
   
@@ -313,48 +311,49 @@ const langPrefix = lang === 'en' ? '/en' : '';
   }
   
   .category-icon {
-    font-size: 3.5rem;
+    font-size: 3.25rem;
     position: relative;
     z-index: 2;
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
-    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: transform 0.28s ease;
   }
   
   .category-body {
-    padding: 1.5rem;
+    padding: 1.35rem 1.35rem 1.25rem;
     flex: 1;
     display: flex;
     flex-direction: column;
   }
   
   .category-name {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
     font-weight: 700;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.6rem;
     color: #1f2937;
+    line-height: 1.25;
   }
   
   .category-description {
-    color: #6b7280;
-    font-size: 1rem;
-    line-height: 1.6;
-    margin-bottom: 1rem;
+    color: #64748b;
+    font-size: 0.96rem;
+    line-height: 1.7;
+    margin-bottom: 1.1rem;
     flex: 1;
   }
   
   .category-footer {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     margin-top: auto;
   }
   
   .explore-link {
-    color: #3b82f6;
+    color: #2563eb;
     font-weight: 600;
     font-size: 0.9rem;
-    opacity: 0;
-    transform: translateX(-10px);
-    transition: all 0.3s ease;
+    opacity: 1;
+    transform: none;
+    transition: color 0.2s ease;
   }
   
   @media (max-width: 1200px) {
@@ -366,24 +365,24 @@ const langPrefix = lang === 'en' ? '/en' : '';
   @media (max-width: 768px) {
     .category-grid {
       grid-template-columns: 1fr;
-      gap: 1.5rem;
-      margin: 2rem 1rem;
+      gap: 1rem;
+      margin: 2rem 0;
     }
     
     .category-card {
-      height: 260px;
+      min-height: 272px;
     }
     
     .category-header {
-      height: 100px;
+      height: 112px;
     }
     
     .category-icon {
-      font-size: 3rem;
+      font-size: 2.8rem;
     }
     
     .category-name {
-      font-size: 1.3rem;
+      font-size: 1.2rem;
     }
     
     .category-description {

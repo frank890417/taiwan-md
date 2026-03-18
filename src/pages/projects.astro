@@ -1,0 +1,457 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const projects = [
+  {
+    category: '🍔 美食地圖',
+    color: '#e11d48',
+    items: [
+      {
+        name: '台北漢堡地圖',
+        description: '互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選',
+        url: 'https://hsieh-george.github.io/taipei-burger-map/',
+        github: 'https://github.com/hsieh-george/taipei-burger-map',
+        tags: ['地圖', '美食', '台北'],
+        tech: 'JavaScript / Leaflet'
+      }
+    ]
+  },
+  {
+    category: '🌙 夜市導覽',
+    color: '#7c3aed',
+    items: [
+      {
+        name: 'NightMarketSwift',
+        description: '台灣夜市 iOS App，收錄超過 400 個夜市地點，含營業時間與 Google Maps 導航',
+        url: 'https://github.com/hsiu0305/NightMarketSwift',
+        github: 'https://github.com/hsiu0305/NightMarketSwift',
+        tags: ['iOS', '夜市', '導航'],
+        tech: 'Objective-C / Swift'
+      }
+    ]
+  },
+  {
+    category: '🗳️ 公民科技',
+    color: '#059669',
+    items: [
+      {
+        name: 'g0v 零時政府',
+        description: '台灣最大公民科技社群，推動開放政府與資訊透明化',
+        url: 'https://g0v.tw/',
+        github: 'https://github.com/g0v',
+        tags: ['開源', '公民', '政府'],
+        tech: '多元技術'
+      },
+      {
+        name: 'Cofacts 真的假的',
+        description: '群眾協作的事實查核聊天機器人，對抗假訊息',
+        url: 'https://cofacts.tw/',
+        github: 'https://github.com/cofacts',
+        tags: ['事實查核', 'LINE Bot', '群眾協作'],
+        tech: 'JavaScript / GraphQL'
+      },
+      {
+        name: 'Disfactory 農地違章工廠',
+        description: '公民回報農地上違章工廠的平台，保護台灣農地',
+        url: 'https://disfactory.tw/',
+        github: 'https://github.com/Disfactory',
+        tags: ['環境', '農地', '公民回報'],
+        tech: 'Vue.js / Django'
+      }
+    ]
+  },
+];
+
+const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
+---
+
+<Layout
+  title="社群專案 - Taiwan.md"
+  description="精選台灣相關的有趣社群開源專案，涵蓋美食地圖、公民科技、交通視覺化等多元領域"
+>
+  <main class="projects-page">
+    <div class="container">
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="hero-content">
+          <h1 class="hero-title">社群專案</h1>
+          <p class="hero-subtitle">
+            精選台灣相關的有趣開源專案<br>
+            來自社群的創意與熱情，用程式碼認識台灣
+          </p>
+          <div class="hero-stats">
+            <span class="stat">{projects.length} 個分類</span>
+            <span class="stat-dot"></span>
+            <span class="stat">{totalProjects} 個專案</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb">
+        <a href="/">首頁</a>
+        <span class="separator">›</span>
+        <span class="current">社群專案</span>
+      </nav>
+
+      <!-- Project Categories -->
+      {projects.map(category => (
+        <section class="project-section">
+          <div class="section-header" style={`border-left-color: ${category.color}`}>
+            <h2>{category.category}</h2>
+          </div>
+          <div class="project-grid">
+            {category.items.map(project => (
+              <div class="project-card">
+                <div class="card-header">
+                  <h3 class="project-name">
+                    <a href={project.url} target="_blank" rel="noopener noreferrer">
+                      {project.name}
+                    </a>
+                  </h3>
+                  <span class="tech-badge" style={`background: ${category.color}15; color: ${category.color}`}>
+                    {project.tech}
+                  </span>
+                </div>
+                <p class="project-desc">{project.description}</p>
+                <div class="card-footer">
+                  <div class="tags">
+                    {project.tags.map(tag => (
+                      <span class="tag">{tag}</span>
+                    ))}
+                  </div>
+                  <div class="links">
+                    {project.github && (
+                      <a href={project.github} target="_blank" rel="noopener noreferrer" class="link-btn" title="GitHub">
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+                      </a>
+                    )}
+                    <a href={project.url} target="_blank" rel="noopener noreferrer" class="link-btn link-primary" title="前往專案">
+                      ↗
+                    </a>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+      ))}
+
+      <!-- Call to Action -->
+      <section class="cta-section">
+        <h2>有推薦的專案嗎？</h2>
+        <p>歡迎透過 GitHub Issue 或 PR 推薦更多台灣相關的有趣專案！</p>
+        <div class="cta-buttons">
+          <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer" class="btn-primary">
+            提交推薦
+          </a>
+          <a href="/" class="btn-secondary">
+            ← 返回首頁
+          </a>
+        </div>
+      </section>
+    </div>
+  </main>
+</Layout>
+
+<style>
+  .projects-page {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #faf5ff 0%, #ede9fe 50%, #e0e7ff 100%);
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 4rem 0 2rem;
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 900;
+    background: linear-gradient(135deg, #7c3aed, #a855f7, #c084fc);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+
+  .hero-subtitle {
+    font-size: 1.3rem;
+    color: #64748b;
+    line-height: 1.7;
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+  }
+
+  .hero-stats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-size: 1rem;
+    color: #7c3aed;
+    font-weight: 600;
+  }
+
+  .stat-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #c084fc;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+    font-size: 0.95rem;
+    color: #64748b;
+  }
+
+  .breadcrumb a {
+    color: #7c3aed;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .breadcrumb a:hover {
+    color: #5b21b6;
+  }
+
+  .separator { color: #94a3b8; }
+  .current { font-weight: 600; color: #374151; }
+
+  /* Section */
+  .project-section {
+    margin-bottom: 3rem;
+  }
+
+  .section-header {
+    border-left: 4px solid;
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .section-header h2 {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #1e293b;
+  }
+
+  /* Project Grid */
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .project-card {
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e5e7eb;
+    transition: all 0.3s ease;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px -8px rgba(124, 58, 237, 0.15);
+    border-color: #c4b5fd;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .project-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .project-name a {
+    color: #1e293b;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .project-name a:hover {
+    color: #7c3aed;
+  }
+
+  .tech-badge {
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.25rem 0.6rem;
+    border-radius: 6px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .project-desc {
+    font-size: 0.95rem;
+    color: #64748b;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    flex: 1;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .tag {
+    font-size: 0.75rem;
+    color: #6b7280;
+    background: #f3f4f6;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+  }
+
+  .links {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .link-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    color: #64748b;
+    background: #f1f5f9;
+    text-decoration: none;
+    transition: all 0.2s;
+    font-size: 1rem;
+  }
+
+  .link-btn:hover {
+    background: #e2e8f0;
+    color: #1e293b;
+  }
+
+  .link-primary {
+    background: #7c3aed;
+    color: white;
+  }
+
+  .link-primary:hover {
+    background: #6d28d9;
+    color: white;
+  }
+
+  /* CTA */
+  .cta-section {
+    text-align: center;
+    margin-top: 4rem;
+    padding: 3rem 2rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.06);
+  }
+
+  .cta-section h2 {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.8rem;
+    color: #1e293b;
+    margin-bottom: 0.75rem;
+  }
+
+  .cta-section p {
+    color: #64748b;
+    font-size: 1.05rem;
+    margin-bottom: 2rem;
+  }
+
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.875rem 2rem;
+    background: linear-gradient(135deg, #7c3aed, #a855f7);
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px -1px rgba(124, 58, 237, 0.3);
+  }
+
+  .btn-primary:hover {
+    background: linear-gradient(135deg, #6d28d9, #9333ea);
+    transform: translateY(-1px);
+    box-shadow: 0 8px 15px -3px rgba(124, 58, 237, 0.3);
+  }
+
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.875rem 2rem;
+    background: white;
+    color: #7c3aed;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    border: 2px solid #c4b5fd;
+    transition: all 0.3s ease;
+  }
+
+  .btn-secondary:hover {
+    background: #faf5ff;
+    border-color: #7c3aed;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .container { padding: 1rem; }
+    .hero { padding: 2rem 0 1rem; }
+    .hero-title { font-size: 2.5rem; }
+    .hero-subtitle { font-size: 1.1rem; }
+    .project-grid { grid-template-columns: 1fr; }
+  }
+
+  @media (max-width: 480px) {
+    .hero-title { font-size: 2rem; }
+    .section-header h2 { font-size: 1.3rem; }
+    .project-card { padding: 1.25rem; }
+  }
+</style>

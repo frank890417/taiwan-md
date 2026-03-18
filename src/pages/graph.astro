@@ -235,6 +235,10 @@ const graphData = JSON.stringify({ nodes, edges });
     <div class="graph-header">
       <h1>🕸️ 知識圖譜 Knowledge Graph</h1>
       <p>Taiwan.md 的所有知識節點與連結</p>
+      <div class="search-box">
+        <input id="graph-search" type="search" placeholder="搜尋節點或文章" aria-label="搜尋知識圖譜節點" />
+        <span id="search-count" class="search-count"></span>
+      </div>
       <a href="/" class="back">← 回首頁</a>
     </div>
     <div id="graph-container"></div>
@@ -255,6 +259,7 @@ const graphData = JSON.stringify({ nodes, edges });
     const container = document.getElementById('graph-container');
     const width = container.clientWidth;
     const height = container.clientHeight;
+    const isCompact = width < 768;
 
     const svg = d3.select('#graph-container')
       .append('svg')
@@ -315,9 +320,9 @@ const graphData = JSON.stringify({ nodes, edges });
       .join('text')
       .text(d => d.label)
       .attr('font-size', d => {
-        if (d.group === 'center') return '16px';
-        if (d.size >= 15) return '13px';
-        return '10px';
+        if (d.group === 'center') return isCompact ? '14px' : '16px';
+        if (d.size >= 15) return isCompact ? '12px' : '13px';
+        return isCompact ? '11px' : '10px';
       })
       .attr('font-weight', d => d.size > 15 ? 'bold' : 'normal')
       .attr('text-anchor', 'middle')
@@ -325,6 +330,53 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('fill', '#333')
       .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
       .attr('pointer-events', 'none');
+
+    const searchInput = document.getElementById('graph-search');
+    const searchCount = document.getElementById('search-count');
+
+    function applySearch(query) {
+      const normalized = query.trim().toLowerCase();
+
+      if (!normalized) {
+        node
+          .attr('opacity', 1)
+          .attr('stroke', '#fff')
+          .attr('stroke-width', 2);
+        link.attr('opacity', 0.6);
+        label.attr('opacity', 1);
+        if (searchCount) searchCount.textContent = '';
+        return;
+      }
+
+      const matchedIds = new Set(
+        data.nodes
+          .filter((item) => String(item.label || '').toLowerCase().includes(normalized))
+          .map((item) => item.id)
+      );
+
+      node
+        .attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.14)
+        .attr('stroke', (item) => matchedIds.has(item.id) ? '#3b82f6' : '#fff')
+        .attr('stroke-width', (item) => matchedIds.has(item.id) ? 3 : 2);
+
+      label.attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.18);
+
+      link.attr('opacity', (item) => {
+        const sourceId = typeof item.source === 'object' ? item.source.id : item.source;
+        const targetId = typeof item.target === 'object' ? item.target.id : item.target;
+        return matchedIds.has(sourceId) || matchedIds.has(targetId) ? 0.75 : 0.08;
+      });
+
+      if (searchCount) {
+        searchCount.textContent = matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
+      }
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (event) => {
+        applySearch(event.target.value);
+      });
+    }
 
     // Click to navigate
     node.on('click', (event, d) => {
@@ -360,16 +412,64 @@ const graphData = JSON.stringify({ nodes, edges });
     flex-direction: column;
   }
   .graph-header {
-    padding: 1rem 2rem;
+    padding: 1rem var(--space-page-x);
     background: #1a1a2e;
     color: white;
     display: flex;
     align-items: center;
-    gap: 2rem;
+    gap: 1rem;
+    flex-wrap: wrap;
   }
-  .graph-header h1 { font-size: 1.3rem; margin: 0; white-space: nowrap; }
-  .graph-header p { opacity: 0.7; margin: 0; font-size: 0.9rem; }
-  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; margin-left: auto; }
+  .graph-header h1 {
+    font-size: clamp(1.25rem, 2.4vw, 1.8rem);
+    margin: 0;
+    font-family: var(--font-editorial);
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
+    font-weight: 800;
+  }
+  .graph-header p {
+    opacity: 0.78;
+    margin: 0;
+    font-size: 0.98rem;
+    line-height: 1.6;
+    max-width: 34rem;
+    color: rgba(255, 255, 255, 0.82);
+  }
+  .search-box {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  #graph-search {
+    padding: 0.4rem 0.8rem;
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.1);
+    color: white;
+    font-size: 0.9rem;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  #graph-search::placeholder {
+    color: rgba(255,255,255,0.5);
+  }
+  #graph-search:focus {
+    border-color: #3b82f6;
+    background: rgba(255,255,255,0.15);
+  }
+  .search-count {
+    color: rgba(255,255,255,0.7);
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+  .back {
+    color: #3b82f6;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
   #graph-container {
     flex: 1;
     background: #fafafa;
@@ -385,5 +485,34 @@ const graphData = JSON.stringify({ nodes, edges });
     font-size: 0.85rem;
     pointer-events: none;
     z-index: 100;
+  }
+  @media (max-width: 768px) {
+    .graph-header {
+      align-items: flex-start;
+      padding: 0.9rem 1rem;
+    }
+    .graph-header h1 {
+      font-size: 1.12rem;
+      line-height: 1.3;
+    }
+    .graph-header p {
+      width: 100%;
+      font-size: 0.9rem;
+      order: 3;
+    }
+    .search-box {
+      width: 100%;
+      order: 4;
+      margin-left: 0;
+      flex-wrap: wrap;
+    }
+    #graph-search {
+      width: 100%;
+    }
+    .back {
+      margin-left: 0;
+      order: 5;
+      font-size: 0.85rem;
+    }
   }
 </style>

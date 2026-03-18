@@ -2,75 +2,55 @@
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
+import Layout from '../../layouts/Layout.astro';
+import { marked } from 'marked';
 import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../utils/categoryConfig';
 
 export async function getStaticPaths() {
   const paths: any[] = [];
-  
-  // 類別對應到資料夾名稱
   const categoryMapping: Record<string, string> = {
-    'history': 'History',
-    'geography': 'Geography', 
-    'culture': 'Culture',
-    'food': 'Food',
-    'art': 'Art',
-    'music': 'Music',
-    'technology': 'Technology',
-    'nature': 'Nature',
-    'people': 'People',
-    'society': 'Society',
-    'economy': 'Economy',
-    'lifestyle': 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
 
   for (const [categorySlug, folderName] of Object.entries(categoryMapping)) {
     try {
-      // 中文版本
       const zhFolderPath = resolve(process.cwd(), 'knowledge', folderName);
-      try {
-        const zhFiles = await readdir(zhFolderPath);
-        const zhMarkdownFiles = zhFiles.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-        
-        for (const file of zhMarkdownFiles) {
-          const filePath = join(zhFolderPath, file);
-          const fileContent = await readFile(filePath, 'utf-8');
-          const { data: frontmatter, content } = matter(fileContent);
-          
-          // 檔案名稱作為 slug（去掉 .md）
-          const slug = basename(file, '.md');
-          
-          paths.push({
-            params: { 
-              category: categorySlug, 
-              slug: slug 
-            },
-            props: {
-              title: frontmatter.title || slug,
-              description: frontmatter.description || '',
-              content: content,
-              frontmatter: frontmatter,
-              lang: 'zh-TW'
-            }
-          });
-        }
-      } catch (err) {
-        console.log(`No Chinese folder found for ${folderName}:`, err.message);
+      const zhFiles = await readdir(zhFolderPath);
+      const zhMarkdownFiles = zhFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
+      for (const file of zhMarkdownFiles) {
+        const filePath = join(zhFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter, content } = matter(fileContent);
+        const slug = basename(file, '.md');
+
+        paths.push({
+          params: { category: categorySlug, slug },
+          props: {
+            title: frontmatter.title || slug,
+            description: frontmatter.description || '',
+            content,
+            frontmatter,
+            lang: 'zh-TW',
+          },
+        });
       }
-
-      // English articles are served under /en/ routes only, skip here
-      
-    } catch (err) {
-      console.log(`Error processing category ${categorySlug}:`, err.message);
-    }
+    } catch {}
   }
-
-  console.log(`Generated ${paths.length} paths for articles`);
 
   return paths;
 }
-
-import Layout from '../../layouts/Layout.astro';
-import { marked } from 'marked';
 
 const { title, description, content, frontmatter, lang } = Astro.props;
 const { category, slug } = Astro.params;
@@ -89,20 +69,19 @@ const otherCategories = Object.keys(categoryConfig)
     ...categoryConfig[cat as CategoryKey]
   }));
 
-// 延伸閱讀：同分類的其他文章
 const categoryMapping: Record<string, string> = {
-  'history': 'History',
-  'geography': 'Geography', 
-  'culture': 'Culture',
-  'food': 'Food',
-  'art': 'Art',
-  'music': 'Music',
-  'technology': 'Technology',
-  'nature': 'Nature',
-  'people': 'People',
-  'society': 'Society',
-  'economy': 'Economy',
-  'lifestyle': 'Lifestyle'
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
 };
 
 let relatedArticles: any[] = [];
@@ -111,36 +90,33 @@ try {
   if (folderName) {
     const categoryFolderPath = resolve(process.cwd(), 'knowledge', folderName);
     const files = await readdir(categoryFolderPath);
-    const markdownFiles = files.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-    
+    const markdownFiles = files.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
     for (const file of markdownFiles) {
       const articleSlug = basename(file, '.md');
-      if (articleSlug !== slug) { // 排除當前文章
+      if (articleSlug !== slug) {
         const filePath = join(categoryFolderPath, file);
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter } = matter(fileContent);
-        
+
         relatedArticles.push({
           title: frontmatter.title || articleSlug,
           slug: articleSlug,
           description: frontmatter.description || '',
-          category: category
+          category,
         });
       }
     }
-    
-    // 限制最多 3 篇
+
     relatedArticles = relatedArticles.slice(0, 3);
   }
-} catch (err) {
-  console.log(`Error loading related articles for ${category}:`, err.message);
-}
+} catch {}
 
 // 隨機探索：建立所有文章清單（排除當前文章）
 let allArticles: Array<{title: string; slug: string; category: string}> = [];
 try {
   for (const [catSlug, folderName] of Object.entries(categoryMapping)) {
-    if (catSlug === category) continue; // 排除同分類（確保真正換一篇）
+    if (catSlug === category) continue;
     try {
       const catPath = resolve(process.cwd(), 'knowledge', folderName);
       const catFiles = await readdir(catPath);
@@ -155,19 +131,26 @@ try {
   console.log('Error building allArticles:', err.message);
 }
 
-// Convert [[wikilinks]] to bold text before marked parsing
-function resolveWikilinks(markdownContent: string): string {
+function resolveWikilinks(markdownContent: string) {
   if (!markdownContent) return markdownContent;
-  // Process [[Page|Display Text]] or [[Page]] → **text** (articles don't need internal links)
   return markdownContent.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
     return `**${label}**`;
   });
 }
 
-// Process markdown content with marked
 const resolvedContent = resolveWikilinks(content);
-const processedContent = marked.parse(resolvedContent);
+
+// External links open in new tab
+const renderer = new marked.Renderer();
+renderer.link = ({ href, title, text }) => {
+  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
 <Layout
@@ -188,9 +171,9 @@ const processedContent = marked.parse(resolvedContent);
     <section class="article-header-banner" style={`background: ${categoryInfo.gradient};`}>
       <div class="header-content">
         <nav class="breadcrumb-header">
-          <a href="/">首頁</a>
+          <a href="/" class="breadcrumb-link">首頁</a>
           <span class="separator">›</span>
-          <a href={`/${category}`}>{categoryInfo.name}</a>
+          <a href={`/${category}`} class="breadcrumb-link">{categoryInfo.name}</a>
           <span class="separator">›</span>
           <span class="current">{title}</span>
         </nav>
@@ -526,25 +509,23 @@ const processedContent = marked.parse(resolvedContent);
   /* Header Banner */
   .article-header-banner {
     width: 100%;
-    padding: 3rem 2rem;
+    padding: clamp(2.75rem, 7vw, 4rem) var(--space-page-x);
     color: white;
     position: relative;
     overflow: hidden;
   }
 
-  .article-header-banner::after {
+  .article-header-banner::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.25);
+    inset: 0;
+    background:
+      linear-gradient(180deg, rgba(15, 23, 42, 0.24) 0%, rgba(15, 23, 42, 0.12) 45%, rgba(15, 23, 42, 0.18) 100%);
     pointer-events: none;
   }
 
   .header-content {
-    max-width: 800px;
+    max-width: 960px;
     margin: 0 auto;
     position: relative;
     z-index: 1;
@@ -555,26 +536,40 @@ const processedContent = marked.parse(resolvedContent);
     align-items: center;
     gap: 0.5rem;
     margin-bottom: 2rem;
-    font-size: 0.9rem;
-    opacity: 0.9;
+    font-size: 0.96rem;
+    flex-wrap: wrap;
+    width: fit-content;
+    max-width: 100%;
+    padding: 0.65rem 0.9rem;
+    border-radius: var(--radius-chip);
+    background: rgba(15, 23, 42, 0.2);
+    backdrop-filter: blur(8px);
+    box-shadow: 0 8px 20px rgba(15, 23, 42, 0.12);
   }
 
   .breadcrumb-header a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
+    border-bottom: none;
+    padding-bottom: 0;
+    text-shadow: none;
   }
 
   .breadcrumb-header a:hover {
-    text-decoration: underline;
+    color: #ffffff;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.92);
   }
 
   .separator {
-    color: rgba(255, 255, 255, 0.7);
+    color: rgba(255, 255, 255, 0.82);
   }
 
   .current {
-    color: rgba(255, 255, 255, 0.8);
+    color: #ffffff;
+    font-weight: 700;
+    text-shadow: none;
   }
 
   .article-title-header {
@@ -582,26 +577,27 @@ const processedContent = marked.parse(resolvedContent);
     font-weight: 800;
     line-height: 1.2;
     margin-bottom: 1rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    text-shadow: 0 3px 12px rgba(15, 23, 42, 0.34);
   }
 
   .article-description-header {
     font-size: 1.3rem;
     line-height: 1.5;
-    opacity: 0.95;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    color: rgba(255, 255, 255, 0.96);
+    max-width: 42rem;
+    text-shadow: 0 2px 8px rgba(15, 23, 42, 0.28);
   }
 
   /* Container */
   .container {
-    max-width: 800px;
+    max-width: var(--container-reading);
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem var(--space-page-x);
   }
 
   /* Article Content */
   .article-content {
-    margin-bottom: 3rem;
+    margin-bottom: var(--space-7);
   }
 
   .article-meta {
@@ -609,16 +605,16 @@ const processedContent = marked.parse(resolvedContent);
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
-    gap: 1rem;
-    margin-bottom: 3rem;
-    padding-bottom: 2rem;
-    border-bottom: 2px solid #f1f5f9;
+    gap: 1.25rem;
+    margin-bottom: var(--space-8);
+    padding-bottom: var(--space-6);
+    border-bottom: 1px solid #e2e8f0;
   }
 
   .meta-group {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 0.75rem;
     flex-wrap: wrap;
   }
 
@@ -626,11 +622,12 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.5rem 1rem;
+    padding: 0.7rem 1.05rem;
     border: 1px solid;
-    border-radius: 50px;
+    border-radius: var(--radius-chip);
     font-weight: 600;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
   }
 
   .category-icon {
@@ -641,8 +638,13 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 0.9rem;
-    color: #6b7280;
+    padding: 0.65rem 0.95rem;
+    font-size: 0.95rem;
+    color: #64748b;
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: var(--radius-chip);
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
   }
 
   .meta-icon {
@@ -650,21 +652,24 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .status-tag {
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
+    padding: 0.45rem 0.8rem;
+    border-radius: var(--radius-chip);
     font-weight: 500;
     font-size: 0.8rem;
+    border: 1px solid rgba(148, 163, 184, 0.18);
   }
 
   .lang-badge {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.5rem 1rem;
-    background: #f9fafb;
-    border-radius: 8px;
-    font-size: 0.9rem;
-    color: #6b7280;
+    padding: 0.65rem 0.95rem;
+    background: rgba(255, 255, 255, 0.72);
+    border-radius: var(--radius-chip);
+    font-size: 0.95rem;
+    color: #64748b;
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
   }
 
   /* Content Styling — 報導者風格排版 */
@@ -672,17 +677,27 @@ const processedContent = marked.parse(resolvedContent);
     font-size: 1.125rem;
     line-height: 2;
     color: #333;
-    max-width: 720px;
+    max-width: 840px;
     margin: 0 auto;
     letter-spacing: 0.02em;
+    background: rgba(255, 255, 255, 0.82);
+    border: 1px solid rgba(226, 232, 240, 0.9);
+    border-radius: 22px;
+    padding: 2.25rem;
+    box-shadow: var(--shadow-soft);
+    backdrop-filter: blur(10px);
   }
 
   /* 標題層級系統 — 清晰的視覺層次 */
   .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-    font-family: "Noto Serif TC", "Source Han Serif TC", serif;
+    font-family: var(--font-editorial);
     color: #1a1a1a;
     line-height: 1.4;
-    letter-spacing: 0.04em;
+    letter-spacing: var(--title-letter-spacing);
+  }
+
+  .content > h1:first-child {
+    display: none;
   }
 
   .content h1 {
@@ -692,27 +707,29 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .content h2 {
-    font-size: 1.625rem;
-    font-weight: 700;
-    margin: 4rem 0 1.5rem 0;
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 5rem 0 1.75rem 0;
     padding-bottom: 0.75rem;
     border-bottom: 2px solid var(--categoryColor);
   }
 
   .content h3 {
-    font-size: 1.3rem;
+    font-size: 1.35rem;
     font-weight: 700;
-    margin: 3rem 0 1.2rem 0;
-    color: #2d2d2d;
-    padding-left: 0.75rem;
+    margin: 4rem 0 1.25rem 0;
+    color: #1a1a1a;
+    padding-left: 0.85rem;
     border-left: 4px solid var(--categoryColor);
   }
 
   .content h4 {
-    font-size: 1.125rem;
+    font-size: 1.15rem;
     font-weight: 700;
-    margin: 2.5rem 0 1rem 0;
-    color: #444;
+    margin: 3rem 0 1rem 0;
+    color: #333;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(0,0,0,0.15);
   }
 
   /* 段落 — 大呼吸感 */
@@ -752,20 +769,43 @@ const processedContent = marked.parse(resolvedContent);
     margin-bottom: 0;
   }
 
-  /* 列表 — 寬鬆行距 */
-  .content ul, .content ol {
-    margin: 2rem 0;
-    padding-left: 1.5rem;
+  /* 列表 — 寬鬆行距，不突出 */
+  .content ul,
+  .content ol {
+    margin: 1.75rem 0;
+    padding-left: 1.75rem;
   }
 
-  .content li {
-    margin-bottom: 1rem;
+  .content ul {
+    list-style: disc;
+  }
+
+  .content ol {
+    list-style: decimal;
+  }
+
+  .content ul > li,
+  .content ol > li {
+    margin-bottom: 0.6rem;
+    padding-left: 0.35rem;
     line-height: 1.9;
-    padding-left: 0.25rem;
   }
 
-  .content li::marker {
+  .content ul > li::marker {
     color: var(--categoryColor);
+  }
+
+  .content ol > li::marker {
+    color: var(--categoryColor);
+    font-weight: 600;
+  }
+
+  .content li > p {
+    margin-bottom: 0.75rem;
+  }
+
+  .content li > p:last-child {
+    margin-bottom: 0;
   }
 
   /* 連結 */
@@ -881,18 +921,21 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Sources */
   .sources {
-    margin: 3rem 0;
-    padding: 2rem;
+    margin: var(--space-7) 0;
+    padding: var(--space-5);
     background: #f9fafb;
     border-radius: 12px;
     border: 1px solid #e5e7eb;
   }
 
   .sources h3 {
-    font-size: 1.25rem;
+    font-size: var(--title-subsection-size);
     margin-bottom: 1rem;
     color: #1f2937;
-    font-weight: 600;
+    font-weight: 800;
+    font-family: var(--font-editorial);
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
   }
 
   .sources ul {
@@ -916,8 +959,8 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Article Footer */
   .article-footer {
-    margin: 3rem 0;
-    padding: 2rem 0;
+    margin: var(--space-7) 0;
+    padding: var(--space-5) 0;
     border-top: 2px solid #f1f5f9;
   }
 
@@ -932,10 +975,11 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .tag {
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
+    padding: 0.45rem 0.8rem;
+    border-radius: var(--radius-chip);
     font-size: 0.85rem;
     font-weight: 500;
+    border: 1px solid rgba(148, 163, 184, 0.14);
   }
 
   .share-section {
@@ -986,18 +1030,19 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Related Articles */
   .related-articles {
-    margin: 4rem 0 3rem;
-    padding: 3rem 0 2rem;
+    margin: var(--space-8) 0 var(--space-7);
+    padding: var(--space-7) 0 var(--space-5);
     border-top: 1px solid #e0e0e0;
   }
 
   .related-title {
-    font-family: "Noto Serif TC", "Source Han Serif TC", serif;
-    font-size: 1.375rem;
-    font-weight: 700;
+    font-family: var(--font-editorial);
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
     color: #1a1a1a;
     margin-bottom: 1.75rem;
-    letter-spacing: 0.04em;
+    letter-spacing: var(--title-letter-spacing);
+    line-height: var(--title-line-height);
   }
 
   .related-grid {
@@ -1009,18 +1054,19 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 1.25rem;
-    background: #f9fafb;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.9);
     border: 1px solid;
-    border-radius: 8px;
+    border-radius: 22px;
     text-decoration: none;
-    transition: all 0.2s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease, background 0.22s ease;
+    box-shadow: var(--shadow-soft);
   }
 
   .related-card:hover {
     background: white;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-card);
   }
 
   .related-card-content {
@@ -1081,17 +1127,20 @@ const processedContent = marked.parse(resolvedContent);
 
   /* More Articles */
   .more-articles {
-    margin: 4rem 0;
-    padding: 3rem 0;
+    margin: var(--space-8) 0;
+    padding: var(--space-7) 0;
     border-top: 2px solid #f1f5f9;
   }
 
   .more-title {
     text-align: center;
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
     color: #1f2937;
     margin-bottom: 2rem;
+    font-family: var(--font-editorial);
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
   }
 
   .more-grid {
@@ -1105,16 +1154,17 @@ const processedContent = marked.parse(resolvedContent);
     align-items: center;
     gap: 1rem;
     padding: 1.5rem;
-    background: white;
-    border: 2px solid;
-    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid;
+    border-radius: 22px;
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+    box-shadow: var(--shadow-soft);
   }
 
   .more-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-card);
   }
 
   .more-card-icon {
@@ -1140,9 +1190,9 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Article Footer Actions */
   .article-footer-actions {
-    margin: 4rem 0 2rem 0;
+    margin: var(--space-8) 0 var(--space-5) 0;
     border-top: 2px solid #f1f5f9;
-    padding-top: 3rem;
+    padding-top: var(--space-7);
   }
 
   .section-divider {
@@ -1153,18 +1203,19 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .footer-section-title {
-    font-family: "Noto Serif TC", "Source Han Serif TC", serif;
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-family: var(--font-editorial);
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
     color: #2d5016;
     margin-bottom: 1.5rem;
     text-align: center;
-    letter-spacing: 0.04em;
+    letter-spacing: var(--title-letter-spacing);
+    line-height: var(--title-line-height);
   }
 
   /* 推薦下一篇 */
   .recommended-reading {
-    margin: 3rem 0;
+    margin: var(--space-7) 0;
   }
 
   .recommended-grid {
@@ -1176,19 +1227,20 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .recommended-card {
-    background: #fafafa;
+    background: rgba(255, 255, 255, 0.9);
     border: 1px solid #e5e7eb;
-    border-radius: 8px;
+    border-radius: 22px;
     padding: 1.5rem;
     text-decoration: none;
-    transition: all 0.2s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease, background 0.22s ease;
     display: block;
+    box-shadow: var(--shadow-soft);
   }
 
   .recommended-card:hover {
     background: white;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(45, 80, 22, 0.15);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-card);
     border-color: #2d5016;
   }
 
@@ -1205,11 +1257,12 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.4rem 0.8rem;
-    border-radius: 20px;
+    padding: 0.5rem 0.85rem;
+    border-radius: var(--radius-chip);
     font-size: 0.8rem;
     font-weight: 500;
     width: fit-content;
+    border: 1px solid rgba(148, 163, 184, 0.14);
   }
 
   /* 貢獻區塊 */
@@ -1233,7 +1286,7 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .contribute-section {
-    margin: 3rem 0;
+    margin: var(--space-7) 0;
     text-align: center;
   }
 
@@ -1248,22 +1301,26 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.8rem 1.5rem;
-    background: #f8f9fa;
-    border: 1.5px solid #2d5016;
-    border-radius: 8px;
+    justify-content: center;
+    min-height: 3.5rem;
+    padding: 0.95rem 1.75rem;
+    background: white;
+    border: 1px solid rgba(45, 80, 22, 0.24);
+    border-radius: 999px;
     color: #2d5016;
     text-decoration: none;
-    font-weight: 500;
-    transition: all 0.2s ease;
-    font-size: 0.9rem;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+    font-size: 0.95rem;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
   }
 
   .contribute-btn:hover {
     background: #2d5016;
+    border-color: #2d5016;
     color: white;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(45, 80, 22, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 26px rgba(45, 80, 22, 0.18);
   }
 
   .contribute-icon {
@@ -1272,7 +1329,7 @@ const processedContent = marked.parse(resolvedContent);
 
   /* 社交分享 */
   .social-sharing {
-    margin: 3rem 0;
+    margin: var(--space-7) 0;
     text-align: center;
   }
 
@@ -1287,21 +1344,24 @@ const processedContent = marked.parse(resolvedContent);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 0.8rem 1.5rem;
-    border: 1.5px solid #e5e7eb;
-    border-radius: 8px;
+    justify-content: center;
+    min-height: 3.5rem;
+    padding: 0.95rem 1.75rem;
+    border: 1px solid rgba(148, 163, 184, 0.22);
+    border-radius: 999px;
     background: white;
-    color: #374151;
+    color: #334155;
     text-decoration: none;
-    font-weight: 500;
-    transition: all 0.2s ease;
-    font-size: 0.9rem;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+    font-size: 0.95rem;
     cursor: pointer;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
   }
 
   .share-button:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 26px rgba(15, 23, 42, 0.1);
   }
 
   .twitter-btn:hover {
@@ -1332,19 +1392,24 @@ const processedContent = marked.parse(resolvedContent);
     gap: 1rem;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 3rem 0;
+    margin: var(--space-7) 0;
   }
 
   .nav-btn {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 1rem 2rem;
+    justify-content: center;
+    min-height: 3.5rem;
+    min-width: 12rem;
+    padding: 0.95rem 1.75rem;
     text-decoration: none;
-    border-radius: 12px;
+    border-radius: 999px;
     font-weight: 600;
-    transition: all 0.3s ease;
+    border: 1px solid transparent;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
     color: white;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
   }
 
   .back-btn {
@@ -1353,11 +1418,12 @@ const processedContent = marked.parse(resolvedContent);
 
   .home-btn {
     background: #6b7280;
+    border-color: #6b7280;
   }
 
   .nav-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 12px 26px rgba(15, 23, 42, 0.16);
   }
 
   /* Responsive */
@@ -1380,6 +1446,8 @@ const processedContent = marked.parse(resolvedContent);
 
     .content {
       font-size: 1rem;
+      padding: 1.5rem 1.25rem;
+      border-radius: 20px;
     }
 
     .content h2 {
@@ -1389,6 +1457,11 @@ const processedContent = marked.parse(resolvedContent);
     .article-meta {
       flex-direction: column;
       align-items: flex-start;
+      gap: 0.9rem;
+    }
+
+    .meta-group {
+      gap: 0.65rem;
     }
 
     .share-section {
@@ -1423,8 +1496,13 @@ const processedContent = marked.parse(resolvedContent);
     .contribute-btn,
     .share-button {
       width: 100%;
-      max-width: 280px;
+      max-width: 320px;
       justify-content: center;
+    }
+
+    .nav-btn {
+      width: 100%;
+      max-width: 320px;
     }
   }
 </style>

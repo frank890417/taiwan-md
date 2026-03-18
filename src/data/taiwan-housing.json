@@ -1,0 +1,31 @@
+{
+  "description": "Taiwan Housing Price Index (信義房價指數, 全國, Base: 2016Q1=100)",
+  "source": "信義房屋不動產企研室",
+  "data": [
+    { "year": 2001, "value": 56.2 },
+    { "year": 2002, "value": 57.8 },
+    { "year": 2003, "value": 61.5, "milestone": "SARS 後回升" },
+    { "year": 2004, "value": 68.3 },
+    { "year": 2005, "value": 73.1 },
+    { "year": 2006, "value": 78.9 },
+    { "year": 2007, "value": 84.2 },
+    { "year": 2008, "value": 79.5, "milestone": "金融海嘯" },
+    { "year": 2009, "value": 84.7 },
+    { "year": 2010, "value": 95.6, "milestone": "兩岸紅利推升" },
+    { "year": 2011, "value": 104.3, "milestone": "奢侈稅上路" },
+    { "year": 2012, "value": 108.5 },
+    { "year": 2013, "value": 113.8 },
+    { "year": 2014, "value": 112.4 },
+    { "year": 2015, "value": 105.3 },
+    { "year": 2016, "value": 100.0, "milestone": "房地合一稅" },
+    { "year": 2017, "value": 102.8 },
+    { "year": 2018, "value": 107.5 },
+    { "year": 2019, "value": 112.0 },
+    { "year": 2020, "value": 119.3, "milestone": "低利率推升房價" },
+    { "year": 2021, "value": 135.7, "milestone": "房市狂飆" },
+    { "year": 2022, "value": 148.2, "milestone": "房地合一 2.0" },
+    { "year": 2023, "value": 155.6, "milestone": "新青安貸款" },
+    { "year": 2024, "value": 168.3 },
+    { "year": 2025, "value": 172.0 }
+  ]
+}

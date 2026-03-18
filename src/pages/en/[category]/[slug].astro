@@ -2,73 +2,55 @@
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
 import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
 
 export async function getStaticPaths() {
   const paths: any[] = [];
-  
-  // 類別對應到資料夾名稱
   const categoryMapping: Record<string, string> = {
-    'history': 'History',
-    'geography': 'Geography', 
-    'culture': 'Culture',
-    'food': 'Food',
-    'art': 'Art',
-    'music': 'Music',
-    'technology': 'Technology',
-    'nature': 'Nature',
-    'people': 'People',
-    'society': 'Society',
-    'economy': 'Economy',
-    'lifestyle': 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
 
   for (const [categorySlug, folderName] of Object.entries(categoryMapping)) {
     try {
-      // 英文版本
       const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
-      try {
-        const enFiles = await readdir(enFolderPath);
-        const enMarkdownFiles = enFiles.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-        
-        for (const file of enMarkdownFiles) {
-          const filePath = join(enFolderPath, file);
-          const fileContent = await readFile(filePath, 'utf-8');
-          const { data: frontmatter, content } = matter(fileContent);
-          
-          // 檔案名稱作為 slug（去掉 .md）
-          const slug = basename(file, '.md');
-          
-          paths.push({
-            params: { 
-              category: categorySlug, 
-              slug: slug 
-            },
-            props: {
-              title: frontmatter.title || slug,
-              description: frontmatter.description || '',
-              content: content,
-              frontmatter: frontmatter,
-              lang: 'en'
-            }
-          });
-        }
-      } catch (err) {
-        console.log(`No English folder found for ${folderName}:`, err.message);
-      }
-      
-    } catch (err) {
-      console.log(`Error processing category ${categorySlug}:`, err.message);
-    }
-  }
+      const enFiles = await readdir(enFolderPath);
+      const enMarkdownFiles = enFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
 
-  console.log(`Generated ${paths.length} paths for English articles`);
+      for (const file of enMarkdownFiles) {
+        const filePath = join(enFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter, content } = matter(fileContent);
+        const slug = basename(file, '.md');
+
+        paths.push({
+          params: { category: categorySlug, slug },
+          props: {
+            title: frontmatter.title || slug,
+            description: frontmatter.description || '',
+            content,
+            frontmatter,
+            lang: 'en',
+          },
+        });
+      }
+    } catch {}
+  }
 
   return paths;
 }
-
-import Layout from '../../../layouts/Layout.astro';
-import { marked } from 'marked';
 
 const { title, description, content, frontmatter, lang } = Astro.props;
 const { category, slug } = Astro.params;
@@ -87,20 +69,19 @@ const otherCategories = Object.keys(categoryConfig)
     ...categoryConfig[cat as CategoryKey]
   }));
 
-// 延伸閱讀：同分類的其他英文文章
 const categoryMapping: Record<string, string> = {
-  'history': 'History',
-  'geography': 'Geography', 
-  'culture': 'Culture',
-  'food': 'Food',
-  'art': 'Art',
-  'music': 'Music',
-  'technology': 'Technology',
-  'nature': 'Nature',
-  'people': 'People',
-  'society': 'Society',
-  'economy': 'Economy',
-  'lifestyle': 'Lifestyle'
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
 };
 
 let relatedArticles: any[] = [];
@@ -109,44 +90,48 @@ try {
   if (folderName) {
     const categoryFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
     const files = await readdir(categoryFolderPath);
-    const markdownFiles = files.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-    
+    const markdownFiles = files.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
     for (const file of markdownFiles) {
       const articleSlug = basename(file, '.md');
-      if (articleSlug !== slug) { // 排除當前文章
+      if (articleSlug !== slug) {
         const filePath = join(categoryFolderPath, file);
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter } = matter(fileContent);
-        
+
         relatedArticles.push({
           title: frontmatter.title || articleSlug,
           slug: articleSlug,
           description: frontmatter.description || '',
-          category: category
+          category,
         });
       }
     }
-    
-    // 限制最多 3 篇
+
     relatedArticles = relatedArticles.slice(0, 3);
   }
-} catch (err) {
-  console.log(`Error loading related articles for ${category}:`, err.message);
-}
+} catch {}
 
-// Convert [[wikilinks]] to bold text before marked parsing
-function resolveWikilinks(markdownContent: string): string {
+function resolveWikilinks(markdownContent: string) {
   if (!markdownContent) return markdownContent;
-  // Process [[Page|Display Text]] or [[Page]] → **text** (articles don't need internal links)
   return markdownContent.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
     return `**${label}**`;
   });
 }
 
-// Process markdown content with marked
 const resolvedContent = resolveWikilinks(content);
-const processedContent = marked.parse(resolvedContent);
+
+// External links open in new tab
+const renderer = new marked.Renderer();
+renderer.link = ({ href, title, text }) => {
+  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
 <Layout 
@@ -166,9 +151,9 @@ const processedContent = marked.parse(resolvedContent);
     <section class="article-header-banner" style={`background: ${categoryInfo.gradient};`}>
       <div class="header-content">
         <nav class="breadcrumb-header">
-          <a href="/en">Home</a>
+          <a href="/en" class="breadcrumb-link">Home</a>
           <span class="separator">›</span>
-          <a href={`/en/${category}`}>{categoryInfo.name}</a>
+          <a href={`/en/${category}`} class="breadcrumb-link">{categoryInfo.name}</a>
           <span class="separator">›</span>
           <span class="current">{title}</span>
         </nav>
@@ -505,7 +490,7 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .header-content {
-    max-width: 800px;
+    max-width: 960px;
     margin: 0 auto;
     position: relative;
     z-index: 1;
@@ -555,9 +540,9 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Container */
   .container {
-    max-width: 800px;
+    max-width: var(--container-reading);
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem var(--space-page-x);
   }
 
   /* Article Content */
@@ -633,7 +618,7 @@ const processedContent = marked.parse(resolvedContent);
     font-size: 1.125rem;
     line-height: 1.8;
     color: #374151;
-    max-width: 740px;
+    max-width: 840px;
     margin: 0 auto;
   }
 
@@ -644,21 +629,38 @@ const processedContent = marked.parse(resolvedContent);
     line-height: 1.3;
   }
 
+  .content > h1:first-child {
+    display: none;
+  }
+
   .content h1 {
     font-size: 2.25rem;
     font-weight: 700;
   }
 
   .content h2 {
-    font-size: 1.875rem;
-    font-weight: 600;
-    border-bottom: 3px solid var(--categoryColor);
-    padding-bottom: 0.5rem;
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 5rem 0 1.75rem 0;
+    border-bottom: 2px solid var(--categoryColor);
+    padding-bottom: 0.75rem;
   }
 
   .content h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 4rem 0 1.25rem 0;
+    padding-left: 0.85rem;
+    border-left: 4px solid var(--categoryColor);
+  }
+
+  .content h4 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 3rem 0 1rem 0;
+    color: #333;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(0,0,0,0.15);
   }
 
   .content p {

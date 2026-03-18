@@ -2,25 +2,25 @@
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
-import { categoryConfig, type CategoryKey } from '../../utils/categoryConfig';
+import Layout from '../../layouts/Layout.astro';
+import { marked } from 'marked';
+import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../utils/categoryConfig';
 
 export async function getStaticPaths() {
   const categories = Object.keys(categoryConfig);
-
-  // 類別對應到資料夾名稱
   const categoryMapping: Record<string, string> = {
-    'history': 'History',
-    'geography': 'Geography', 
-    'culture': 'Culture',
-    'food': 'Food',
-    'art': 'Art',
-    'music': 'Music',
-    'technology': 'Technology',
-    'nature': 'Nature',
-    'people': 'People',
-    'society': 'Society',
-    'economy': 'Economy',
-    'lifestyle': 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
 
   const paths = [];
@@ -30,125 +30,74 @@ export async function getStaticPaths() {
     const articles = [];
 
     try {
-      // 中文版本
       const zhFolderPath = resolve(process.cwd(), 'knowledge', folderName);
-      try {
-        const zhFiles = await readdir(zhFolderPath);
-        const zhMarkdownFiles = zhFiles.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-        
-        for (const file of zhMarkdownFiles) {
-          const filePath = join(zhFolderPath, file);
-          const fileContent = await readFile(filePath, 'utf-8');
-          const { data: frontmatter } = matter(fileContent);
-          
-          const slug = basename(file, '.md');
-          articles.push({
-            slug: slug,
-            title: frontmatter.title || slug,
-            description: frontmatter.description || '',
-            status: frontmatter.status || '',
-            readingTime: frontmatter.readingTime || null,
-            date: frontmatter.date || null,
-            featured: frontmatter.featured || false,
-            lang: 'zh-TW'
-          });
-        }
-      } catch (err) {
-        // No Chinese folder, continue
+      const zhFiles = await readdir(zhFolderPath);
+      const zhMarkdownFiles = zhFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
+      for (const file of zhMarkdownFiles) {
+        const filePath = join(zhFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter } = matter(fileContent);
+        const slug = basename(file, '.md');
+
+        articles.push({
+          slug,
+          title: frontmatter.title || slug,
+          description: frontmatter.description || '',
+          status: frontmatter.status || '',
+          readingTime: frontmatter.readingTime || null,
+          date: frontmatter.date || null,
+          featured: frontmatter.featured || false,
+          lang: 'zh-TW',
+        });
       }
+    } catch {}
 
-      // 英文版本
-      const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
-      try {
-        const enFiles = await readdir(enFolderPath);
-        const enMarkdownFiles = enFiles.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-        
-        for (const file of enMarkdownFiles) {
-          const filePath = join(enFolderPath, file);
-          const fileContent = await readFile(filePath, 'utf-8');
-          const { data: frontmatter } = matter(fileContent);
-          
-          const slug = basename(file, '.md');
-          articles.push({
-            slug: slug,
-            title: frontmatter.title || slug,
-            description: frontmatter.description || '',
-            status: frontmatter.status || '',
-            readingTime: frontmatter.readingTime || null,
-            date: frontmatter.date || null,
-            featured: frontmatter.featured || false,
-            lang: 'en'
-          });
-        }
-      } catch (err) {
-        // No English folder, continue
-      }
-
-    } catch (err) {
-      // Category folder doesn't exist, continue
-    }
-
-    // Only show Chinese articles on main category pages
-    const zhArticles = articles.filter(a => a.lang === 'zh-TW');
-    
-    // Read Hub content (the _*Hub.md file)
     let hubContent = '';
     try {
       const hubFolder = resolve(process.cwd(), 'knowledge', folderName);
       const hubFiles = await readdir(hubFolder);
-      const hubFile = hubFiles.find(f => f.startsWith('_') && f.includes('Hub'));
+      const hubFile = hubFiles.find((f) => f.startsWith('_') && f.includes('Hub'));
       if (hubFile) {
         const hubPath = join(hubFolder, hubFile);
         const hubRaw = await readFile(hubPath, 'utf-8');
         const { content } = matter(hubRaw);
-        // Remove the first H1 line (we already have the hero title)
         hubContent = content.replace(/^#\s+.+\n/, '').trim();
       }
     } catch {}
 
     paths.push({
       params: { category },
-      props: { 
+      props: {
         categoryInfo: categoryConfig[category as CategoryKey],
         category,
         hubContent,
-        articles: zhArticles.sort((a, b) => {
+        articles: articles.sort((a, b) => {
           if (a.featured && !b.featured) return -1;
           if (!a.featured && b.featured) return 1;
           return a.title.localeCompare(b.title);
-        })
-      }
+        }),
+      },
     });
   }
 
   return paths;
 }
 
-import Layout from '../../layouts/Layout.astro';
-import { getCategoryConfig } from '../../utils/categoryConfig';
-
-import { marked } from 'marked';
 const { categoryInfo, category, hubContent, articles } = Astro.props;
 
-// Convert [[wikilinks]] to HTML links before marked parsing
-function resolveWikilinks(md: string, currentCategory: string): string {
+function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
-  // [[Page|Display Text]] or [[Page]]
   return md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
-    // Check if it's a Hub link (starts with _)
     if (target.startsWith('_')) {
       const catName = target.replace(/^_/, '').replace(/ Hub$/, '').toLowerCase();
       return `[${label}](/${catName})`;
     }
-    // Check if target matches an article in current category
-    const matchArticle = articles.find((a: any) => 
-      a.title === target || a.slug === target || a.slug === encodeURIComponent(target)
-    );
+    const matchArticle = articles.find((a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target));
     if (matchArticle) {
       return `[${label}](/${currentCategory}/${matchArticle.slug})`;
     }
-    // Default: link to search or just bold the text
     return `**${label}**`;
   });
 }
@@ -187,7 +136,7 @@ const otherCategories = Object.keys(categoryConfig)
     <div class="container">
       <!-- Breadcrumb -->
       <nav class="breadcrumb">
-        <a href="/">首頁</a>
+        <a href="/" class="breadcrumb-link">首頁</a>
         <span class="separator">›</span>
         <span class="current">{categoryInfo.name}</span>
       </nav>
@@ -286,7 +235,7 @@ const otherCategories = Object.keys(categoryConfig)
   .hero-banner {
     position: relative;
     width: 100%;
-    padding: 4rem 2rem;
+    padding: clamp(3.5rem, 8vw, 5rem) var(--space-page-x);
     color: white;
     text-align: center;
     overflow: hidden;
@@ -350,9 +299,10 @@ const otherCategories = Object.keys(categoryConfig)
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(10px);
     border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 0.75rem 1.5rem;
-    border-radius: 50px;
+    padding: 0.7rem 1.15rem;
+    border-radius: var(--radius-chip);
     font-weight: 500;
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.06);
   }
 
   .hero-decoration {
@@ -367,9 +317,9 @@ const otherCategories = Object.keys(categoryConfig)
 
   /* Container */
   .container {
-    max-width: 1200px;
+    max-width: var(--container-page);
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem var(--space-page-x);
   }
 
   /* Breadcrumb */
@@ -377,7 +327,7 @@ const otherCategories = Object.keys(categoryConfig)
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    margin-bottom: 3rem;
+    margin-bottom: var(--space-7);
     font-size: 0.9rem;
   }
 
@@ -402,19 +352,23 @@ const otherCategories = Object.keys(categoryConfig)
 
   /* Articles Grid */
   .hub-content {
-    margin: 2rem 0 3rem;
-    padding: 2.5rem;
-    background: #fff;
-    border-radius: 16px;
+    margin: var(--space-5) 0 var(--space-7);
+    padding: var(--space-6);
+    background: rgba(255, 255, 255, 0.88);
+    border-radius: 24px;
     border: 1px solid #e2e8f0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    box-shadow: var(--shadow-soft);
+    backdrop-filter: blur(10px);
   }
   .hub-prose {
     font-size: 1.05rem;
     line-height: 2;
     color: #334155;
-    max-width: 720px;
+    max-width: 840px;
     margin: 0 auto;
+  }
+  .hub-prose > h1:first-child {
+    display: none;
   }
   .hub-prose > blockquote:first-child {
     font-size: 1.15rem;
@@ -438,19 +392,24 @@ const otherCategories = Object.keys(categoryConfig)
     color: #475569;
   }
   .hub-prose h2 {
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-size: var(--title-subsection-size);
+    font-weight: 800;
     margin: 4rem 0 1.2rem;
     color: #1a1a2e;
     padding-bottom: 0.6rem;
     border-bottom: 2px solid #e2e8f0;
-    letter-spacing: 0.02em;
+    letter-spacing: var(--title-letter-spacing);
+    line-height: var(--title-line-height);
+    font-family: var(--font-editorial);
   }
   .hub-prose h3 {
-    font-size: 1.2rem;
-    font-weight: 600;
+    font-size: var(--title-minor-size);
+    font-weight: 700;
     margin: 3rem 0 0.75rem;
     color: #334155;
+    line-height: 1.4;
+    letter-spacing: 0.02em;
+    font-family: var(--font-editorial);
   }
   .hub-prose p {
     margin: 1.2rem 0;
@@ -517,39 +476,44 @@ const otherCategories = Object.keys(categoryConfig)
   }
 
   .articles-heading {
-    font-size: 1.4rem;
-    margin: 0 0 1.5rem 0;
+    font-size: var(--title-subsection-size);
+    margin: 0 0 var(--space-5) 0;
     color: #1e293b;
+    font-weight: 800;
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
+    font-family: var(--font-editorial);
   }
 
   .articles-section {
-    margin-bottom: 4rem;
+    margin-bottom: var(--space-8);
   }
 
   .articles-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 2rem;
+    gap: var(--space-5);
   }
 
   .article-card {
-    background: white;
-    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 22px;
     overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
-    transition: all 0.2s ease;
+    box-shadow: var(--shadow-soft);
+    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
     border: 1px solid rgba(0, 0, 0, 0.08);
+    backdrop-filter: blur(10px);
   }
 
   .article-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-    border-color: rgba(0, 0, 0, 0.12);
+    box-shadow: var(--shadow-card);
+    border-color: rgba(148, 163, 184, 0.28);
   }
 
   .featured-card {
     grid-column: 1 / -1;
-    max-width: 600px;
+    max-width: 680px;
     margin: 0 auto;
   }
 
@@ -590,35 +554,38 @@ const otherCategories = Object.keys(categoryConfig)
 
   .article-meta {
     display: flex;
-    gap: 0.5rem;
+    gap: 0.55rem;
     flex-wrap: wrap;
   }
 
   .status-tag {
     background: var(--categoryColorLight);
     color: var(--categoryColor);
-    padding: 0.25rem 0.5rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
+    padding: 0.45rem 0.8rem;
+    border-radius: var(--radius-chip);
+    font-size: 0.8rem;
     font-weight: 500;
+    border: 1px solid rgba(148, 163, 184, 0.14);
   }
 
   .lang-tag {
-    background: #f3f4f6;
-    color: #6b7280;
-    padding: 0.25rem 0.5rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
+    background: rgba(255, 255, 255, 0.72);
+    color: #64748b;
+    padding: 0.45rem 0.8rem;
+    border-radius: var(--radius-chip);
+    font-size: 0.8rem;
     font-weight: 500;
+    border: 1px solid rgba(148, 163, 184, 0.18);
   }
 
   .featured-badge {
     background: linear-gradient(45deg, #fbbf24, #f59e0b);
     color: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.75rem;
+    padding: 0.45rem 0.85rem;
+    border-radius: var(--radius-chip);
+    font-size: 0.8rem;
     font-weight: 600;
+    box-shadow: 0 8px 22px rgba(245, 158, 11, 0.18);
   }
 
   .article-title {
@@ -646,21 +613,27 @@ const otherCategories = Object.keys(categoryConfig)
   .article-info {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    font-size: 0.9rem;
-    color: #9ca3af;
+    gap: 0.65rem;
+    flex-wrap: wrap;
   }
 
   .info-item {
     display: flex;
     align-items: center;
-    gap: 0.25rem;
+    gap: 0.4rem;
+    padding: 0.55rem 0.8rem;
+    font-size: 0.85rem;
+    color: #64748b;
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: var(--radius-chip);
+    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
   }
 
   /* Coming Soon */
   .coming-soon {
     text-align: center;
-    padding: 4rem 2rem;
+    padding: var(--space-8) var(--space-5);
   }
 
   .coming-soon-content {
@@ -675,17 +648,20 @@ const otherCategories = Object.keys(categoryConfig)
   }
 
   .coming-soon-content h2 {
-    font-size: 2.5rem;
+    font-size: var(--title-section-size);
     color: #1f2937;
     margin-bottom: 1rem;
-    font-weight: 700;
+    font-weight: 800;
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
+    font-family: var(--font-editorial);
   }
 
   .coming-soon-content p {
-    color: #6b7280;
+    color: var(--copy-intro-color);
     margin-bottom: 1.5rem;
-    line-height: 1.6;
-    font-size: 1.1rem;
+    line-height: var(--copy-intro-line);
+    font-size: var(--copy-intro-size);
   }
 
   .category-desc {
@@ -706,16 +682,20 @@ const otherCategories = Object.keys(categoryConfig)
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 1rem 2rem;
+    padding: 0.95rem 1.6rem;
     text-decoration: none;
-    border-radius: 12px;
+    border-radius: 999px;
     font-weight: 600;
-    transition: all 0.3s ease;
+    font-size: 0.95rem;
+    justify-content: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
   }
 
   .btn-primary {
     background: var(--categoryColor);
     color: white;
+    border: 1px solid var(--categoryColor);
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
   }
 
   .btn-primary:hover {
@@ -726,7 +706,8 @@ const otherCategories = Object.keys(categoryConfig)
   .btn-secondary {
     background: white;
     color: var(--categoryColor);
-    border: 2px solid var(--categoryColor);
+    border: 1px solid var(--categoryColor);
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
   }
 
   .btn-secondary:hover {
@@ -737,23 +718,26 @@ const otherCategories = Object.keys(categoryConfig)
 
   /* Explore More */
   .explore-more {
-    margin-top: 5rem;
-    padding: 3rem 0;
+    margin-top: var(--space-9);
+    padding: var(--space-7) 0;
     border-top: 1px solid #e5e7eb;
   }
 
   .explore-title {
     text-align: center;
-    font-size: 2rem;
-    font-weight: 700;
+    font-size: var(--title-section-size);
+    font-weight: 800;
     color: #1f2937;
     margin-bottom: 2rem;
+    line-height: var(--title-line-height);
+    letter-spacing: var(--title-letter-spacing);
+    font-family: var(--font-editorial);
   }
 
   .categories-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
+    gap: 1rem;
   }
 
   .category-card {
@@ -761,17 +745,18 @@ const otherCategories = Object.keys(categoryConfig)
     flex-direction: column;
     align-items: center;
     padding: 2rem 1rem;
-    background: white;
-    border: 2px solid;
-    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.92);
+    border: 1px solid;
+    border-radius: 22px;
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
     text-align: center;
+    box-shadow: var(--shadow-soft);
   }
 
   .category-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-card);
   }
 
   .category-card-icon {
@@ -787,7 +772,7 @@ const otherCategories = Object.keys(categoryConfig)
   /* Responsive */
   @media (max-width: 768px) {
     .hero-banner {
-      padding: 3rem 1rem;
+      padding: var(--space-7) 1rem;
     }
 
     .hero-title {
@@ -802,8 +787,14 @@ const otherCategories = Object.keys(categoryConfig)
       padding: 1rem;
     }
 
+    .hub-content {
+      padding: 1.5rem 1.25rem;
+      border-radius: 20px;
+    }
+
     .articles-grid {
       grid-template-columns: 1fr;
+      gap: var(--space-4);
     }
 
     .featured-card {

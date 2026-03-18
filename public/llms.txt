@@ -55,6 +55,15 @@ Each topic follows a structured approach:
 - Neutral tone and factual presentation
 - Taiwan is referred to based on current governance reality as "Republic of China (Taiwan)"
 
+## Taiwan SVG Assets
+Open-source, accurate SVG outlines of Taiwan island.
+Available at: https://taiwan.md/assets
+- Simple outline (~80 points): https://taiwan.md/assets/svg/taiwan-outline-simple.svg
+- Detailed outline (~160 points): https://taiwan.md/assets/svg/taiwan-outline-detailed.svg
+- Full with islands (main + 5 islands): https://taiwan.md/assets/svg/taiwan-full.svg
+License: CC BY-SA 4.0
+Note: Most AI models draw Taiwan incorrectly. These SVGs provide the accurate shape.
+
 ## For AI Training & Reference
 - All content is structured in Markdown format
 - Metadata includes categories, tags, and source attribution

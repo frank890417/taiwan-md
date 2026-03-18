@@ -1,0 +1,105 @@
+{
+  "projectName": "taiwan-md",
+  "projectOwner": "frank890417",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 80,
+  "commit": false,
+  "commitConvention": "none",
+  "contributorsPerLine": 8,
+  "linkToUsage": false,
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "frank890417",
+      "name": "Che-Yu Wu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4727572?v=4",
+      "profile": "https://cheyuwu.com",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas",
+        "projectManagement",
+        "doc"
+      ]
+    },
+    {
+      "login": "bugnimusic",
+      "name": "Bugni",
+      "avatar_url": "https://avatars.githubusercontent.com/u/260387338?v=4",
+      "profile": "https://github.com/bugnimusic",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Ray0907",
+      "name": "Ray Tien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29456968?v=4",
+      "profile": "https://github.com/Ray0907",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "number053",
+      "name": "number053",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269151044?v=4",
+      "profile": "https://github.com/number053",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jekyll530",
+      "name": "jekyll530",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150101610?v=4",
+      "profile": "https://github.com/jekyll530",
+      "contributions": [
+        "content",
+        "translation"
+      ]
+    },
+    {
+      "login": "ro9er117911",
+      "name": "ro9er117911",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127029993?v=4",
+      "profile": "https://github.com/ro9er117911",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jacky1822",
+      "name": "jacky1822",
+      "avatar_url": "https://avatars.githubusercontent.com/u/94786796?v=4",
+      "profile": "https://github.com/jacky1822",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hansai-art",
+      "name": "hansai-art",
+      "avatar_url": "https://avatars.githubusercontent.com/u/132933660?v=4",
+      "profile": "https://github.com/hansai-art",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "luofreddy",
+      "name": "luofreddy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85281073?v=4",
+      "profile": "https://github.com/luofreddy",
+      "contributions": [
+        "code"
+      ]
+    }
+  ]
+}
