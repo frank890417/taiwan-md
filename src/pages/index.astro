@@ -559,7 +559,24 @@ const randomArticlesData = JSON.stringify(allArticles);
     </section>
   )}
 
-  <!-- Newsletter 訂閱區塊（暫時隱藏） -->
+  <!-- Newsletter 訂閱區塊 -->
+  <section class="newsletter" id="subscribe">
+    <div class="newsletter-content">
+      <h2>📬 訂閱 Taiwan.md</h2>
+      <p>我們會在有重大更新、新文章上線、或社群活動時通知你。不會太頻繁，每一封都值得打開。</p>
+      <form class="newsletter-form" id="subscribe-form" onsubmit="return false;">
+        <div class="form-row">
+          <input type="email" id="subscribe-email" placeholder="your@email.com" required />
+          <button type="submit" class="newsletter-btn" id="subscribe-btn">訂閱</button>
+        </div>
+      </form>
+      <div class="newsletter-success" id="subscribe-success" style="display:none;">
+        <span class="success-icon">✅</span>
+        <span>感謝訂閱！我們會把台灣最好的故事寄給你。</span>
+      </div>
+      <p class="newsletter-note">我們尊重你的信箱。隨時可以退訂，不會分享你的 email。</p>
+    </div>
+  </section>
 
   <section class="contribute">
     <div class="contribute-content">
@@ -716,7 +733,51 @@ const randomArticlesData = JSON.stringify(allArticles);
     });
   });
 
-  // Newsletter form submission — disabled (not yet implemented)
+  // Newsletter form submission via Google Forms
+  (function() {
+    const form = document.getElementById('subscribe-form');
+    const emailInput = document.getElementById('subscribe-email');
+    const btn = document.getElementById('subscribe-btn');
+    const success = document.getElementById('subscribe-success');
+    if (!form) return;
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      const email = emailInput.value.trim();
+      if (!email) return;
+
+      btn.disabled = true;
+      btn.textContent = '送出中...';
+
+      // Submit to Google Forms via hidden iframe (no redirect)
+      const iframe = document.createElement('iframe');
+      iframe.name = 'subscribe-iframe';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+
+      const gForm = document.createElement('form');
+      gForm.method = 'POST';
+      gForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse';
+      gForm.target = 'subscribe-iframe';
+      
+      const input = document.createElement('input');
+      input.name = 'entry.1746160086';
+      input.value = email;
+      gForm.appendChild(input);
+      
+      document.body.appendChild(gForm);
+      gForm.submit();
+
+      // Show success after brief delay (iframe won't fire load cross-origin)
+      setTimeout(function() {
+        form.style.display = 'none';
+        success.style.display = 'flex';
+        // Cleanup
+        try { document.body.removeChild(iframe); } catch(e) {}
+        try { document.body.removeChild(gForm); } catch(e) {}
+      }, 1000);
+    });
+  })();
 </script>
 </Layout>
 
