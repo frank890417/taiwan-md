@@ -112,6 +112,25 @@ try {
   }
 } catch {}
 
+// 隨機探索：建立所有文章清單（排除當前文章）
+let allArticles: Array<{title: string; slug: string; category: string}> = [];
+try {
+  for (const [catSlug, folderName] of Object.entries(categoryMapping)) {
+    if (catSlug === category) continue;
+    try {
+      const catPath = resolve(process.cwd(), 'knowledge', folderName);
+      const catFiles = await readdir(catPath);
+      for (const file of catFiles.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+        const articleSlug = basename(file, '.md');
+        const { data: fm } = matter(await readFile(join(catPath, file), 'utf-8'));
+        allArticles.push({ title: fm.title || articleSlug, slug: articleSlug, category: catSlug });
+      }
+    } catch {}
+  }
+} catch (err) {
+  console.log('Error building allArticles:', err.message);
+}
+
 function resolveWikilinks(markdownContent: string) {
   if (!markdownContent) return markdownContent;
   return markdownContent.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
@@ -121,16 +140,28 @@ function resolveWikilinks(markdownContent: string) {
 }
 
 const resolvedContent = resolveWikilinks(content);
-const processedContent = marked.parse(resolvedContent);
+
+// External links open in new tab
+const renderer = new marked.Renderer();
+renderer.link = ({ href, title, text }) => {
+  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
-<Layout 
+<Layout
   title={title}
   description={description}
   type="article"
   datePublished={frontmatter.date || new Date().toISOString()}
   dateModified={frontmatter.modified || frontmatter.date || new Date().toISOString()}
   content={content}
+  tags={frontmatter.tags}
+  category={categoryInfo.name}
 >
   <!-- Reading Progress Bar -->
   <div class="reading-progress" id="reading-progress"></div>
@@ -258,6 +289,15 @@ const processedContent = marked.parse(resolvedContent);
                 </a>
               ))}
             </div>
+          </div>
+        )}
+
+        <!-- 隨機探索另一篇 -->
+        {allArticles.length > 0 && (
+          <div class="random-explore">
+            <button class="random-btn" onclick="goRandomArticle()" type="button">
+              🎲 隨機探索另一篇
+            </button>
           </div>
         )}
 
@@ -441,6 +481,14 @@ const processedContent = marked.parse(resolvedContent);
   updateReadingProgress();
 </script>
 
+<script define:vars={{ allArticles }}>
+  function goRandomArticle() {
+    if (!allArticles || allArticles.length === 0) return;
+    const pick = allArticles[Math.floor(Math.random() * allArticles.length)];
+    window.location.href = '/' + pick.category + '/' + pick.slug;
+  }
+</script>
+
 <style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
   /* Reading Progress Bar */
   .reading-progress {
@@ -477,7 +525,7 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .header-content {
-    max-width: 800px;
+    max-width: 960px;
     margin: 0 auto;
     position: relative;
     z-index: 1;
@@ -629,7 +677,7 @@ const processedContent = marked.parse(resolvedContent);
     font-size: 1.125rem;
     line-height: 2;
     color: #333;
-    max-width: 720px;
+    max-width: 840px;
     margin: 0 auto;
     letter-spacing: 0.02em;
     background: rgba(255, 255, 255, 0.82);
@@ -659,27 +707,29 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .content h2 {
-    font-size: var(--title-subsection-size);
+    font-size: 1.75rem;
     font-weight: 800;
-    margin: 4rem 0 1.5rem 0;
+    margin: 5rem 0 1.75rem 0;
     padding-bottom: 0.75rem;
     border-bottom: 2px solid var(--categoryColor);
   }
 
   .content h3 {
-    font-size: var(--title-minor-size);
+    font-size: 1.35rem;
     font-weight: 700;
-    margin: 3rem 0 1.2rem 0;
-    color: #2d2d2d;
-    padding-left: 0.75rem;
+    margin: 4rem 0 1.25rem 0;
+    color: #1a1a1a;
+    padding-left: 0.85rem;
     border-left: 4px solid var(--categoryColor);
   }
 
   .content h4 {
-    font-size: 1.125rem;
+    font-size: 1.15rem;
     font-weight: 700;
-    margin: 2.5rem 0 1rem 0;
-    color: #444;
+    margin: 3rem 0 1rem 0;
+    color: #333;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(0,0,0,0.15);
   }
 
   /* 段落 — 大呼吸感 */
@@ -719,55 +769,39 @@ const processedContent = marked.parse(resolvedContent);
     margin-bottom: 0;
   }
 
-  /* 列表 — 寬鬆行距 */
+  /* 列表 — 寬鬆行距，不突出 */
   .content ul,
   .content ol {
-    margin: 2rem 0;
-    padding: 0;
+    margin: 1.75rem 0;
+    padding-left: 1.75rem;
   }
 
   .content ul {
-    list-style: none;
+    list-style: disc;
   }
 
   .content ol {
-    list-style: none;
-    counter-reset: article-list;
+    list-style: decimal;
   }
 
-  .content li {
-    position: relative;
-    margin-bottom: 1rem;
-    padding-left: 1.7rem;
-    line-height: 1.9;
-  }
-
-  .content ul > li::before,
-  .content ol > li::before {
-    position: absolute;
-    left: 0.3rem;
-    top: 0.08rem;
-    color: var(--categoryColor);
-    font-weight: 700;
-    line-height: 1.9;
-  }
-
-  .content ul > li::before {
-    content: "•";
-    font-size: 1.08em;
-  }
-
+  .content ul > li,
   .content ol > li {
-    counter-increment: article-list;
+    margin-bottom: 0.6rem;
+    padding-left: 0.35rem;
+    line-height: 1.9;
   }
 
-  .content ol > li::before {
-    content: counter(article-list) ".";
-    font-size: 0.95em;
+  .content ul > li::marker {
+    color: var(--categoryColor);
+  }
+
+  .content ol > li::marker {
+    color: var(--categoryColor);
+    font-weight: 600;
   }
 
   .content li > p {
-    margin-bottom: 0.9rem;
+    margin-bottom: 0.75rem;
   }
 
   .content li > p:last-child {
@@ -1049,6 +1083,33 @@ const processedContent = marked.parse(resolvedContent);
 
   .related-card:hover .related-card-arrow {
     transform: translateX(3px);
+  }
+
+  /* Random Explore */
+  .random-explore {
+    text-align: center;
+    margin: 2rem 0;
+  }
+
+  .random-btn {
+    background: transparent;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    padding: 0.75rem 1.75rem;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #475569;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+  }
+
+  .random-btn:hover {
+    background: #f8fafc;
+    border-color: #94a3b8;
+    color: #1e293b;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
 
   /* More Articles */

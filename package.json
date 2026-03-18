@@ -17,6 +17,7 @@
     "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.5",
     "gray-matter": "^4.0.3",
-    "marked": "^17.0.4"
+    "marked": "^17.0.4",
+    "rehype-external-links": "^3.0.0"
   }
 }

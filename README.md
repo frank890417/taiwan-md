@@ -173,7 +173,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
 <table>
   <tr>
     <td align="center"><a href="https://cheyuwu.com"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="80px;" alt="frank890417"/><br /><sub><b>frank890417</b></sub></a><br />💻 🖋 🎨 🤔 📆 📖</td>
-    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="80px;" alt="bugnimusic"/><br /><sub><b>bugnimusic</b></sub></a><br />🖋</td>
+    <td align="center"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="80px;" alt="bugnimusic"/><br /><sub><b>bugnimusic</b></sub></a><br />🖋 🌍</td>
     <td align="center"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="80px;" alt="Ray0907"/><br /><sub><b>Ray0907</b></sub></a><br />🖋 💻</td>
     <td align="center"><a href="https://github.com/number053"><img src="https://avatars.githubusercontent.com/u/269151044?v=4" width="80px;" alt="number053"/><br /><sub><b>number053</b></sub></a><br />🖋</td>
     <td align="center"><a href="https://github.com/jekyll530"><img src="https://avatars.githubusercontent.com/u/150101610?v=4" width="80px;" alt="jekyll530"/><br /><sub><b>jekyll530</b></sub></a><br />🖋 🌍</td>
@@ -181,7 +181,7 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <td align="center"><a href="https://github.com/jacky1822"><img src="https://avatars.githubusercontent.com/u/94786796?v=4" width="80px;" alt="jacky1822"/><br /><sub><b>jacky1822</b></sub></a><br />🖋</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="80px;" alt="hansai-art"/><br /><sub><b>hansai-art</b></sub></a><br />🖋</td>
+    <td align="center"><a href="https://github.com/hansai-art"><img src="https://avatars.githubusercontent.com/u/132933660?v=4" width="80px;" alt="hansai-art"/><br /><sub><b>hansai-art</b></sub></a><br />🖋 💻 🔍</td>
     <td align="center"><a href="https://github.com/luofreddy"><img src="https://avatars.githubusercontent.com/u/85281073?v=4" width="80px;" alt="luofreddy"/><br /><sub><b>luofreddy</b></sub></a><br />💻</td>
   </tr>
 </table>

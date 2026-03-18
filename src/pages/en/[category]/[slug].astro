@@ -121,7 +121,17 @@ function resolveWikilinks(markdownContent: string) {
 }
 
 const resolvedContent = resolveWikilinks(content);
-const processedContent = marked.parse(resolvedContent);
+
+// External links open in new tab
+const renderer = new marked.Renderer();
+renderer.link = ({ href, title, text }) => {
+  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
 <Layout 
@@ -469,7 +479,7 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .header-content {
-    max-width: 800px;
+    max-width: 960px;
     margin: 0 auto;
   }
 
@@ -517,9 +527,9 @@ const processedContent = marked.parse(resolvedContent);
 
   /* Container */
   .container {
-    max-width: 800px;
+    max-width: var(--container-reading);
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2rem var(--space-page-x);
   }
 
   /* Article Content */
@@ -595,7 +605,7 @@ const processedContent = marked.parse(resolvedContent);
     font-size: 1.125rem;
     line-height: 1.8;
     color: #374151;
-    max-width: 740px;
+    max-width: 840px;
     margin: 0 auto;
   }
 
@@ -616,15 +626,28 @@ const processedContent = marked.parse(resolvedContent);
   }
 
   .content h2 {
-    font-size: 1.875rem;
-    font-weight: 600;
-    border-bottom: 3px solid var(--categoryColor);
-    padding-bottom: 0.5rem;
+    font-size: 1.75rem;
+    font-weight: 800;
+    margin: 5rem 0 1.75rem 0;
+    border-bottom: 2px solid var(--categoryColor);
+    padding-bottom: 0.75rem;
   }
 
   .content h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
+    font-size: 1.35rem;
+    font-weight: 700;
+    margin: 4rem 0 1.25rem 0;
+    padding-left: 0.85rem;
+    border-left: 4px solid var(--categoryColor);
+  }
+
+  .content h4 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 3rem 0 1rem 0;
+    color: #333;
+    padding-left: 0.85rem;
+    border-left: 3px solid rgba(0,0,0,0.15);
   }
 
   .content p {
