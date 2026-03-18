@@ -35,6 +35,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 - 💾 **Wikimedia Commons** — CC-licensed images with local caching
 - 📝 **Zero-code contribution** — forms, AI prompts, or email
 - 🔓 **CC BY-SA 4.0** — free to cite, remix, share
+- 📚 **Source-cited** — every article includes references and data attribution
 
 ---
 

@@ -236,8 +236,20 @@ git push origin feature/add-taiwanese-opera-article
 ## 🔗 相關 Issue
 Closes #123
 
-## 📚 參考資料
-列出主要參考來源
+## 📚 參考資料（必填）
+
+**每篇文章都必須包含參考資料段落。** 這是 Taiwan.md 的核心品質要求。
+
+列出所有引用的來源，格式：
+```markdown
+- [來源名稱](https://url) — 簡要說明
+- [官方統計](https://url) — 機構，年份
+```
+
+優先使用：政府官方資料 > 學術研究 > 權威媒體 > 專業機構
+涉及數字時必須標注來源機構與年份。
+
+詳見 [EDITORIAL.md](./EDITORIAL.md) 的「引用與來源標注」章節。
 ```
 
 ---

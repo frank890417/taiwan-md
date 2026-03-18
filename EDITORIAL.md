@@ -128,6 +128,51 @@ Taiwan.md 以**「中華民國（台灣）」的現行治理事實**為基礎，
 
 ---
 
+## 引用與來源標注 | Citations and Source Attribution
+
+### 鐵律 | Core Rule
+
+**每篇文章都必須標注引用來源。沒有來源的事實陳述 = 不可信的內容。**
+
+Every article MUST include source citations. Factual claims without sources are not trustworthy.
+
+### 來源標注格式 | Citation Format
+
+每篇文章末尾必須包含 `## 參考資料` 段落：
+
+```markdown
+## 參考資料
+
+- [來源名稱](https://url) — 簡要說明
+- [官方統計數據](https://url) — 機構名稱，年份
+- [學術論文/書籍] — 作者，出版年份
+```
+
+### 來源優先序 | Source Priority
+
+1. 🔴 **官方/政府資料**（行政院、各部會統計）
+2. 🔴 **學術研究**（期刊論文、大學出版）
+3. 🟡 **權威媒體**（報導者、BBC、Reuters、台灣光華雜誌）
+4. 🟡 **專業機構**（中研院、國家文化記憶庫）
+5. 🟢 **其他可靠來源**（書籍、紀錄片、口述歷史）
+
+### 數據標注 | Data Attribution
+
+涉及具體數字（人口、GDP、市佔率等）時，必須標注：
+- 資料來源機構
+- 資料年份
+- 原始連結（如有）
+
+範例：`台灣便利商店密度全球第二（經濟部統計處，2025）`
+
+### AI 生成內容 | AI-Generated Content
+
+- AI 輔助撰寫的文章同樣需要事實查核與來源標注
+- 不得以 AI 生成內容作為「來源」本身
+- 貢獻者有責任驗證 AI 產出的事實正確性
+
+---
+
 ## 品質保證 | Quality Assurance
 
 ### 定期審查 | Regular Review
