@@ -467,7 +467,7 @@ const processedContent = marked.parse(resolvedContent);
   updateReadingProgress();
 </script>
 
-<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
+<style is:global define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
   /* Reading Progress Bar */
   .reading-progress {
     position: fixed;
@@ -493,9 +493,22 @@ const processedContent = marked.parse(resolvedContent);
     overflow: hidden;
   }
 
+  .article-header-banner::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.25);
+    pointer-events: none;
+  }
+
   .header-content {
     max-width: 800px;
     margin: 0 auto;
+    position: relative;
+    z-index: 1;
   }
 
   .breadcrumb-header {
