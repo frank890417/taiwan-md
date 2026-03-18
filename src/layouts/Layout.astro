@@ -1,5 +1,8 @@
 ---
 import SEO from '../components/SEO.astro';
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
 
 interface Props {
   title: string;
@@ -13,6 +16,51 @@ interface Props {
 }
 
 const { title, description = '讓全世界完整認識台灣', lang = 'zh-TW', image, type, datePublished, dateModified, content } = Astro.props;
+
+// Build search index at build time
+const categoryMapping: Record<string, string> = {
+  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
+  'food': 'Food', 'art': 'Art', 'music': 'Music', 'technology': 'Technology',
+  'nature': 'Nature', 'people': 'People', 'society': 'Society',
+  'economy': 'Economy', 'lifestyle': 'Lifestyle'
+};
+
+const searchIndex: Array<{t: string; d: string; u: string; tags: string[]; lang: string}> = [];
+
+for (const [slug, folder] of Object.entries(categoryMapping)) {
+  // Chinese articles
+  try {
+    const zhPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(zhPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
+      const name = basename(file, '.md');
+      searchIndex.push({
+        t: data.title || name,
+        d: data.description || '',
+        u: `/${slug}/${name}`,
+        tags: data.tags || [],
+        lang: 'zh-TW'
+      });
+    }
+  } catch {}
+  // English articles
+  try {
+    const enPath = resolve(process.cwd(), 'knowledge', 'en', folder);
+    const files = await readdir(enPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
+      const name = basename(file, '.md');
+      searchIndex.push({
+        t: data.title || name,
+        d: data.description || '',
+        u: `/en/${slug}/${name}`,
+        tags: data.tags || [],
+        lang: 'en'
+      });
+    }
+  } catch {}
+}
 const currentPath = Astro.url.pathname;
 const isEn = lang === 'en';
 
@@ -136,12 +184,91 @@ if (currentPath.startsWith('/en')) {
             </div>
           </div>
         </nav>
+        <button class="search-toggle" aria-label={isEn ? 'Search' : '搜尋'} onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
         <div class="lang-toggle" role="group" aria-label="語言選擇">
           <a href={zhLink} class:list={["lang-btn", { active: !currentPath.startsWith('/en') }]} aria-label="切換至繁體中文">中文</a>
           <a href={enLink} class:list={["lang-btn", { active: currentPath.startsWith('/en') }]} aria-label="Switch to English">EN</a>
         </div>
       </div>
     </header>
+
+    <!-- Search Modal -->
+    <div id="search-modal" class="search-modal">
+      <div class="search-backdrop" onclick="document.getElementById('search-modal').classList.remove('open')"></div>
+      <div class="search-panel">
+        <div class="search-header">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input id="search-input" type="text" placeholder={isEn ? 'Search articles...' : '搜尋文章...'} autocomplete="off" />
+          <kbd class="search-kbd" onclick="document.getElementById('search-modal').classList.remove('open')">ESC</kbd>
+        </div>
+        <div id="search-results" class="search-results">
+          <div class="search-hint">{isEn ? 'Type to search across all articles' : '輸入關鍵字搜尋所有文章'}</div>
+        </div>
+      </div>
+    </div>
+    <script is:inline define:vars={{ searchIndex, isEn }}>
+      (function() {
+        var idx = searchIndex;
+        var lang = isEn ? 'en' : 'zh-TW';
+        var input = document.getElementById('search-input');
+        var results = document.getElementById('search-results');
+        var modal = document.getElementById('search-modal');
+
+        input.addEventListener('input', function() {
+          var q = this.value.trim().toLowerCase();
+          if (!q) {
+            results.innerHTML = '<div class="search-hint">' + (isEn ? 'Type to search across all articles' : '輸入關鍵字搜尋所有文章') + '</div>';
+            return;
+          }
+          var matches = idx.filter(function(item) {
+            return item.t.toLowerCase().indexOf(q) !== -1 ||
+                   item.d.toLowerCase().indexOf(q) !== -1 ||
+                   item.tags.some(function(tag) { return tag.toLowerCase().indexOf(q) !== -1; });
+          });
+          // Prefer current language, then show others
+          matches.sort(function(a, b) {
+            var aLang = a.lang === lang ? 0 : 1;
+            var bLang = b.lang === lang ? 0 : 1;
+            return aLang - bLang;
+          });
+          if (matches.length === 0) {
+            results.innerHTML = '<div class="search-hint">' + (isEn ? 'No results found' : '找不到相關文章') + '</div>';
+            return;
+          }
+          var html = matches.slice(0, 12).map(function(item) {
+            var langBadge = item.lang === 'en' ? 'EN' : '中';
+            return '<a class="search-item" href="' + item.u + '">' +
+              '<span class="search-item-lang">' + langBadge + '</span>' +
+              '<div class="search-item-text">' +
+                '<span class="search-item-title">' + item.t + '</span>' +
+                (item.d ? '<span class="search-item-desc">' + item.d + '</span>' : '') +
+              '</div>' +
+            '</a>';
+          }).join('');
+          if (matches.length > 12) {
+            html += '<div class="search-hint">' + (isEn ? '...and ' + (matches.length - 12) + ' more' : '...還有 ' + (matches.length - 12) + ' 篇') + '</div>';
+          }
+          results.innerHTML = html;
+        });
+
+        // ESC to close
+        document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape' && modal.classList.contains('open')) {
+            modal.classList.remove('open');
+          }
+          // Cmd/Ctrl+K to open
+          if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+            e.preventDefault();
+            modal.classList.toggle('open');
+            if (modal.classList.contains('open')) {
+              setTimeout(function() { input.focus(); }, 100);
+            }
+          }
+        });
+      })();
+    </script>
 
     <main role="main">
       <slot />
@@ -424,6 +551,141 @@ if (currentPath.startsWith('/en')) {
     background: #3b82f6;
   }
   .nav-link.gh svg { opacity: 0.7; }
+  /* Search toggle button */
+  .search-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    padding: 0.4rem;
+    cursor: pointer;
+    color: #64748b;
+    transition: all 0.2s;
+  }
+  .search-toggle:hover {
+    color: #1a1a2e;
+    border-color: rgba(0, 0, 0, 0.15);
+    background: rgba(0, 0, 0, 0.03);
+  }
+
+  /* Search modal */
+  .search-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    align-items: flex-start;
+    justify-content: center;
+    padding-top: 12vh;
+  }
+  .search-modal.open {
+    display: flex;
+  }
+  .search-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+  }
+  .search-panel {
+    position: relative;
+    width: 90%;
+    max-width: 560px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+  }
+  .search-header {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.9rem 1rem;
+    border-bottom: 1px solid #e2e8f0;
+  }
+  .search-header input {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    color: #1a1a2e;
+    background: transparent;
+  }
+  .search-header input::placeholder {
+    color: #94a3b8;
+  }
+  .search-kbd {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    background: #f1f5f9;
+    border: 1px solid #e2e8f0;
+    border-radius: 4px;
+    color: #64748b;
+    font-family: inherit;
+    cursor: pointer;
+  }
+  .search-results {
+    max-height: 400px;
+    overflow-y: auto;
+    padding: 0.5rem;
+  }
+  .search-hint {
+    padding: 2rem 1rem;
+    text-align: center;
+    color: #94a3b8;
+    font-size: 0.9rem;
+  }
+  .search-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.7rem 0.75rem;
+    border-radius: 8px;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.15s;
+    border-bottom: none;
+  }
+  .search-item:hover {
+    background: #f1f5f9;
+  }
+  .search-item-lang {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.15rem 0.4rem;
+    border-radius: 4px;
+    background: #e2e8f0;
+    color: #64748b;
+    margin-top: 0.15rem;
+  }
+  .search-item-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    min-width: 0;
+  }
+  .search-item-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #1a1a2e;
+  }
+  .search-item-desc {
+    font-size: 0.8rem;
+    color: #64748b;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
   .lang-toggle {
     display: flex;
     gap: 2px;
@@ -464,6 +726,26 @@ if (currentPath.startsWith('/en')) {
     max-height: 400px;
     object-fit: cover;
     border-radius: 12px;
+  }
+
+  /* Global link styles */
+  main a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item) {
+    color: #475569;
+    text-decoration: none;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 1px;
+    transition: all 0.2s ease;
+  }
+  main a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item):hover {
+    color: #1a1a2e;
+    border-bottom-color: #64748b;
+  }
+  /* External links (with target="_blank") get an icon */
+  main a[target="_blank"]:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md)::after {
+    content: '↗';
+    font-size: 0.8em;
+    margin-left: 0.2em;
+    opacity: 0.7;
   }
 
   /* Footer */
@@ -609,7 +891,7 @@ if (currentPath.startsWith('/en')) {
     .nav-desktop { display: none; }
     .menu-toggle {
       display: block;
-      order: 3;
+      order: 4;
       margin-left: 0.15rem;
       width: 2.5rem;
       height: 2.5rem;
@@ -617,7 +899,10 @@ if (currentPath.startsWith('/en')) {
       background: #f8fafc;
       border: 1px solid #e2e8f0;
     }
-    .lang-toggle { order: 2; margin-left: auto; }
+    .search-toggle { order: 2; }
+    .lang-toggle { order: 3; margin-left: auto; }
+    .search-panel { max-width: 100%; width: 95%; }
+    .search-modal { padding-top: 8vh; }
     .nav-mobile {
       display: none;
       position: absolute;
