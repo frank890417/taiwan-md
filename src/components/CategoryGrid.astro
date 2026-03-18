@@ -131,18 +131,19 @@ const { lang = 'zh-TW' } = Astro.props;
 const langPrefix = lang === 'en' ? '/en' : '';
 ---
 
-<div class="category-grid">
+<ul class="category-grid">
   {categories.map((category, index) => (
+    <li class="category-item">
     <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color}>
       <div class="category-header">
         {category.cover ? (
-          <img src={category.cover} alt={category.name} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
+          <img src={category.cover} alt={category.description} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
         ) : null}
-        <div class="category-icon" style={category.cover ? 'display:none' : ''}>{category.icon}</div>
+        <div class="category-icon" style={category.cover ? 'display:none' : ''} aria-hidden="true">{category.icon}</div>
         <div class="category-gradient"></div>
-        <div class="article-badge">
+        <div class="article-badge" aria-label={`${category.articles}${lang === 'en' ? ' articles' : ' 篇文章'}`}>
           <span class="article-count">{category.articles}</span>
-          <span class="article-label">篇</span>
+          <span class="article-label" aria-hidden="true">{lang === 'en' ? 'articles' : '篇'}</span>
         </div>
       </div>
       <div class="category-body">
@@ -152,13 +153,14 @@ const langPrefix = lang === 'en' ? '/en' : '';
         <p class="category-description">{category.description}</p>
         <div class="category-footer">
           <span class="explore-link">
-            探索 →
+            {lang === 'en' ? 'Explore' : '探索'} →
           </span>
         </div>
       </div>
     </a>
+    </li>
   ))}
-</div>
+</ul>
 
 <style>
   .category-grid {
@@ -168,6 +170,11 @@ const langPrefix = lang === 'en' ? '/en' : '';
     margin: 3rem auto;
     max-width: 1600px;
     padding: 0 1rem;
+    list-style: none;
+  }
+
+  .category-item {
+    display: contents;
   }
   
   .category-card {

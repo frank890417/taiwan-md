@@ -83,6 +83,10 @@ if (currentPath.startsWith('/en')) {
     </script>
   </head>
   <body>
+    <a href="#main-content" class="sr-only skip-link"
+       onfocus="this.style.top='0'" onblur="this.style.top='-100%'">
+      {isEn ? 'Skip to content' : '跳到主要內容'}
+    </a>
     <div id="lang-banner" class="lang-banner" style="display:none;">
       <span>🌐 English version available → <a href={enLink}>Switch to English</a></span>
       <button class="lang-banner-close" onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');" aria-label="Close">✕</button>
@@ -100,11 +104,15 @@ if (currentPath.startsWith('/en')) {
     <header>
       <div class="header-inner">
         <a href={isEn ? "/en" : "/"} class="logo">
-          <img src="/favicon.png" alt="🇹🇼" class="logo-icon" width="24" height="24" />
+          <img src="/favicon.png" alt="台灣地圖" class="logo-icon" width="24" height="24" />
           <span class="logo-text">Taiwan<span class="logo-dot">.md</span></span>
         </a>
-        <button class="menu-toggle" aria-label="選單" onclick="document.querySelector('.nav-mobile').classList.toggle('open')">☰</button>
-        <nav class="nav-desktop">
+        <button class="menu-toggle"
+          aria-label={isEn ? 'Menu' : '選單'}
+          aria-expanded="false"
+          aria-controls="nav-mobile"
+          onclick="const nav=document.getElementById('nav-mobile');nav.classList.toggle('open');this.setAttribute('aria-expanded',nav.classList.contains('open').toString())">☰</button>
+        <nav class="nav-desktop" aria-label={isEn ? 'Main navigation' : '主要導覽'}>
           <a href={isEn ? "/en#categories" : "/#categories"} class="nav-link">{i18n.nav.explore}</a>
           <a href={isEn ? "/en/graph" : "/graph"} class="nav-link">{i18n.nav.graph}</a>
           <!-- Map hidden temporarily -->
@@ -113,12 +121,12 @@ if (currentPath.startsWith('/en')) {
           <a href={isEn ? "/en/resources" : "/resources"} class="nav-link">{i18n.nav.resources}</a>
           <a href={isEn ? "/en/assets" : "/assets"} class="nav-link">{i18n.nav.assets}</a>
           <a href={isEn ? "/en/projects" : "/projects"} class="nav-link">{i18n.nav.projects}</a>
-          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="nav-link gh">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+          <a href="https://github.com/frank890417/taiwan-md" target="_blank" rel="noopener noreferrer" class="nav-link gh">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
             GitHub
           </a>
         </nav>
-        <nav class="nav-mobile">
+        <nav class="nav-mobile" id="nav-mobile" aria-label={isEn ? 'Mobile navigation' : '行動版導覽'}>
           <a href={isEn ? "/en#categories" : "/#categories"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.explore}</a>
           <a href={isEn ? "/en/graph" : "/graph"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.graph}</a>
           <!-- Map hidden temporarily -->
@@ -127,23 +135,23 @@ if (currentPath.startsWith('/en')) {
           <a href={isEn ? "/en/resources" : "/resources"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.resources}</a>
           <a href={isEn ? "/en/assets" : "/assets"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.assets}</a>
           <a href={isEn ? "/en/projects" : "/projects"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.projects}</a>
-          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="nav-link">GitHub</a>
-          <div class="mobile-lang-toggle">
-            <span class="mobile-lang-label">🌐 語言 / Language:</span>
+          <a href="https://github.com/frank890417/taiwan-md" target="_blank" rel="noopener noreferrer" class="nav-link">GitHub</a>
+          <div class="mobile-lang-toggle" role="group" aria-label={isEn ? 'Language' : '語言切換'}>
+            <span class="mobile-lang-label"><span aria-hidden="true">🌐</span> 語言 / Language:</span>
             <div class="mobile-lang-buttons">
               <a href={zhLink} class:list={["mobile-lang-btn", { active: !currentPath.startsWith('/en') }]} onclick="document.querySelector('.nav-mobile').classList.remove('open')">中文</a>
               <a href={enLink} class:list={["mobile-lang-btn", { active: currentPath.startsWith('/en') }]} onclick="document.querySelector('.nav-mobile').classList.remove('open')">English</a>
             </div>
           </div>
         </nav>
-        <div class="lang-toggle">
+        <div class="lang-toggle" role="group" aria-label={isEn ? 'Language' : '語言切換'}>
           <a href={zhLink} class:list={["lang-btn", { active: !currentPath.startsWith('/en') }]}>中文</a>
           <a href={enLink} class:list={["lang-btn", { active: currentPath.startsWith('/en') }]}>EN</a>
         </div>
       </div>
     </header>
 
-    <main>
+    <main id="main-content">
       <slot />
     </main>
 
@@ -151,12 +159,12 @@ if (currentPath.startsWith('/en')) {
       <div class="footer-inner">
         <div class="footer-grid">
           <div class="footer-brand">
-            <span class="footer-logo">🇹🇼 Taiwan.md</span>
+            <span class="footer-logo"><span aria-hidden="true">🇹🇼</span> Taiwan.md</span>
             <p>{i18n.footer.desc}</p>
             <p class="footer-heart">Built with ❤️ in Taiwan</p>
             <p class="footer-license">
-              <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" target="_blank" rel="noopener">
-                <svg width="16" height="16" viewBox="0 0 496 512" fill="currentColor" style="margin-right: 6px;">
+              <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" target="_blank" rel="noopener noreferrer">
+                <svg width="16" height="16" viewBox="0 0 496 512" fill="currentColor" style="margin-right: 6px;" aria-hidden="true">
                   <path d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"/>
                 </svg>
                 CC BY-SA 4.0
@@ -168,7 +176,7 @@ if (currentPath.startsWith('/en')) {
             </p>
           </div>
           <div class="footer-col">
-            <h4>{i18n.footer.explore}</h4>
+            <p class="footer-col-heading">{i18n.footer.explore}</p>
             <a href={isEn ? "/en/history" : "/history"}>{i18n.footer.history}</a>
             <a href={isEn ? "/en/culture" : "/culture"}>{i18n.footer.culture}</a>
             <a href={isEn ? "/en/food" : "/food"}>{i18n.footer.food}</a>
@@ -177,33 +185,35 @@ if (currentPath.startsWith('/en')) {
             <a href={isEn ? "/en/society" : "/society"}>{i18n.footer.society}</a>
           </div>
           <div class="footer-col">
-            <h4>{i18n.footer.project}</h4>
-            <a href="https://github.com/frank890417/taiwan-md" target="_blank">GitHub</a>
+            <p class="footer-col-heading">{i18n.footer.project}</p>
+            <a href="https://github.com/frank890417/taiwan-md" target="_blank" rel="noopener noreferrer">GitHub<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
             <a href={isEn ? "/en/about" : "/about"}>{i18n.footer.about}</a>
             <a href={isEn ? "/en/graph" : "/graph"}>{i18n.footer.graph}</a>
-            <a href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md" target="_blank">{i18n.footer.contribute}</a>
+            <a href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">{i18n.footer.contribute}<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
             <a href={isEn ? "/en/changelog" : "/changelog"}>{i18n.footer.changelog}</a>
           </div>
           <div class="footer-col">
-            <h4>{i18n.footer.contact}</h4>
-            <a href="https://x.com/taiwandotmd" target="_blank">𝕏 @taiwandotmd</a>
-            <a href="https://www.threads.com/@taiwandotmd" target="_blank">Threads @taiwandotmd</a>
-            <a href="https://www.instagram.com/taiwandotmd" target="_blank">IG @taiwandotmd</a>
+            <p class="footer-col-heading">{i18n.footer.contact}</p>
+            <a href="https://x.com/taiwandotmd" target="_blank" rel="noopener noreferrer">𝕏 @taiwandotmd<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
+            <a href="https://www.threads.com/@taiwandotmd" target="_blank" rel="noopener noreferrer">Threads @taiwandotmd<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
+            <a href="https://www.instagram.com/taiwandotmd" target="_blank" rel="noopener noreferrer">IG @taiwandotmd<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
             <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a>
-            <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank">{i18n.footer.report}</a>
-            <a href="https://github.com/frank890417/taiwan-md/discussions" target="_blank">{i18n.footer.discuss}</a>
+            <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">{i18n.footer.report}<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
+            <a href="https://github.com/frank890417/taiwan-md/discussions" target="_blank" rel="noopener noreferrer">{i18n.footer.discuss}<span class="sr-only">{isEn ? ' (opens in new window)' : ' (開啟新視窗)'}</span></a>
           </div>
         </div>
         <div class="footer-bottom">
           &copy; 2026 Taiwan.md — {i18n.footer.desc}
         </div>
       </div>
-    </footer>
 
-    <!-- Floating .md button -->
-    <a id="md-btn" class="floating-md" title="查看 Raw Markdown 版本" target="_blank">
-      .md
-    </a>
+      <!-- Floating .md button — inside footer to satisfy landmark requirements -->
+      <a id="md-btn" class="floating-md" href="#" target="_blank" rel="noopener noreferrer"
+         title="查看 Raw Markdown 版本"
+         aria-label={isEn ? 'View Markdown source on GitHub' : '查看原始 Markdown 檔案'}>
+        .md
+      </a>
+    </footer>
 
     <script is:inline>
       // Set .md button href based on current path
@@ -275,6 +285,46 @@ if (currentPath.startsWith('/en')) {
 
 <style is:global>
   * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  /* Accessibility utilities */
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+  }
+
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 0;
+    z-index: 999;
+    padding: 1rem;
+    background: #3b82f6;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 0 0 8px 0;
+  }
+
+  :focus-visible {
+    outline: 2px solid #3b82f6;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
   .lang-banner {
     display: flex;
     align-items: center;
@@ -400,9 +450,9 @@ if (currentPath.startsWith('/en')) {
     color: #3b82f6;
   }
   .lang-btn.active {
-    background: #3b82f6;
+    background: #1d4ed8;
     color: white;
-    box-shadow: 0 2px 4px rgba(59, 130, 246, 0.25);
+    box-shadow: 0 2px 4px rgba(29, 78, 216, 0.25);
   }
 
   /* Main - full width */
@@ -498,12 +548,13 @@ if (currentPath.startsWith('/en')) {
     flex-direction: column;
     gap: 0.4rem;
   }
-  .footer-col h4 {
+  .footer-col-heading {
     color: white;
     font-size: 0.85rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: 0.25rem;
+    font-weight: 700;
   }
   .footer-col a {
     color: #94a3b8;
