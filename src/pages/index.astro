@@ -140,12 +140,14 @@ const randomArticlesData = JSON.stringify(allArticles);
 ---
 
 <Layout title="台灣知識庫" description="開源、AI-friendly 的台灣完整知識庫，讓全世界認識真正的台灣">
-  <section class="hero">
+  <!-- Skip to main content link for accessibility -->
+  <a href="#main-content" class="skip-link">跳至主要內容</a>
+  <header class="hero" role="banner">
     <div class="hero-bg">
       <!-- 台灣山脈剪影背景 -->
       <div class="taiwan-mountains"></div>
       <!-- 台灣島輪廓 SVG -->
-      <svg class="taiwan-silhouette" viewBox="0 0 100 100" aria-hidden="true">
+      <svg class="taiwan-silhouette" viewBox="0 0 100 100" role="img" aria-label="台灣島嶼輪廓">
         <path d="M30 20 C 35 18 40 20 42 25 C 44 30 46 35 48 40 C 50 45 52 50 50 55 C 48 60 46 65 44 70 C 42 75 40 80 35 82 C 30 84 25 82 22 78 C 19 74 20 69 21 64 C 22 59 24 54 26 49 C 28 44 29 39 30 34 C 31 29 30 24 30 20 Z" 
               fill="rgba(34, 197, 94, 0.08)" 
               stroke="rgba(34, 197, 94, 0.15)" 
@@ -165,14 +167,14 @@ const randomArticlesData = JSON.stringify(allArticles);
         <span class="highlight">從多元觀點建構，為全世界策展台灣</span>
       </p>
       <div class="hero-cta">
-        <a href="#categories" class="btn-cta primary">
+        <a href="#categories" class="btn-cta primary" aria-label="開始探索台灣知識庫">
           <span>開始探索</span>
-          <svg class="cta-arrow" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg class="cta-arrow" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
           </svg>
         </a>
-        <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-cta secondary">
-          <svg class="github-icon" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+        <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-cta secondary" aria-label="在 GitHub 上為 Taiwan.md 星標">
+          <svg class="github-icon" width="20" height="20" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
             <path d="M12 0C5.374 0 0 5.373 0 12 0 17.302 3.438 21.8 8.207 23.387c.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
           </svg>
           <span>⭐ Star on GitHub</span>
@@ -197,8 +199,9 @@ const randomArticlesData = JSON.stringify(allArticles);
         </div>
       </div>
     </div>
-  </section>
+  </header>
 
+  <main id="main-content">
   <section class="cover-story">
     <div class="cover-content">
       <h2>如何理解台灣？</h2>
@@ -282,7 +285,7 @@ const randomArticlesData = JSON.stringify(allArticles);
   <!-- 隨機發現台灣 -->
   <section class="random-discovery">
     <div class="random-discovery-content">
-      <button id="random-discovery-btn" class="random-btn">
+      <button id="random-discovery-btn" class="random-btn" aria-label="隨機探索台灣知識文章">
         <span class="random-icon">🎲</span>
         <span class="random-text">隨機發現台灣</span>
         <span class="random-subtitle">探索意想不到的故事</span>
@@ -292,57 +295,57 @@ const randomArticlesData = JSON.stringify(allArticles);
   </section>
 
   <!-- 5 篇認識台灣推薦路線 -->
-  <section class="reading-path">
+  <section class="reading-path" aria-labelledby="reading-path-heading">
     <div class="reading-path-header">
-      <h2>📖 不知道從哪開始？</h2>
+      <h2 id="reading-path-heading">📖 不知道從哪開始？</h2>
       <p>用這 5 篇文章，在 30 分鐘內認識真正的台灣</p>
     </div>
-    <div class="reading-path-list">
-      <a href="/history/民主化" class="reading-step">
+    <ol class="reading-path-list" aria-label="推薦閱讀路線">
+      <li><a href="/history/民主化" class="reading-step">
         <span class="step-number">1</span>
         <div class="step-content">
           <h3>寧靜革命：台灣民主化</h3>
           <p>從威權到民主，亞洲第一的和平轉型奇蹟</p>
         </div>
         <span class="step-time">6 min</span>
-      </a>
+      </a></li>
       
-      <a href="/culture/族群（閩南客家原住民外省新住民）" class="reading-step">
+      <li><a href="/culture/族群（閩南客家原住民外省新住民）" class="reading-step">
         <span class="step-number">2</span>
         <div class="step-content">
           <h3>多元一體：台灣族群</h3>
           <p>四大族群共同編織的多彩文化基底</p>
         </div>
         <span class="step-time">7 min</span>
-      </a>
+      </a></li>
       
-      <a href="/food/夜市文化" class="reading-step">
+      <li><a href="/food/夜市文化" class="reading-step">
         <span class="step-number">3</span>
         <div class="step-content">
           <h3>最真實的台灣味：夜市文化</h3>
           <p>密度世界第一的庶民美食社交空間</p>
         </div>
         <span class="step-time">5 min</span>
-      </a>
+      </a></li>
       
-      <a href="/technology/半導體產業" class="reading-step">
+      <li><a href="/technology/半導體產業" class="reading-step">
         <span class="step-number">4</span>
         <div class="step-content">
           <h3>護國神山：半導體產業</h3>
           <p>台積電如何讓小島成為全球科技心臟</p>
         </div>
         <span class="step-time">8 min</span>
-      </a>
+      </a></li>
       
-      <a href="/lifestyle/便利商店文化" class="reading-step">
+      <li><a href="/lifestyle/便利商店文化" class="reading-step">
         <span class="step-number">5</span>
         <div class="step-content">
           <h3>生活作業系統：便利商店</h3>
           <p>不只是商店，而是整個國家的基礎建設</p>
         </div>
         <span class="step-time">4 min</span>
-      </a>
-    </div>
+      </a></li>
+    </ol>
     
     <div class="reading-path-footer">
       <p>⏱️ <strong>總計 30 分鐘</strong> | 🎯 <strong>跨越 5 大領域</strong> | 🌟 <strong>完整認識台灣</strong></p>
@@ -350,8 +353,8 @@ const randomArticlesData = JSON.stringify(allArticles);
     </div>
   </section>
 
-  <section class="features">
-    <h2 class="section-title">為什麼需要 Taiwan.md？</h2>
+  <section class="features" aria-labelledby="features-heading">
+    <h2 class="section-title" id="features-heading">為什麼需要 Taiwan.md？</h2>
     <div class="features-grid">
       <div class="feature-card">
         <div class="feature-icon">🎯</div>
@@ -389,9 +392,9 @@ const randomArticlesData = JSON.stringify(allArticles);
   </section>
 
   <!-- 完整知識圖譜 -->
-  <section class="full-graph-section">
+  <section class="full-graph-section" aria-labelledby="graph-heading">
     <div class="graph-header">
-      <h2 class="section-title">🕸️ 知識圖譜</h2>
+      <h2 class="section-title" id="graph-heading">🕸️ 知識圖譜</h2>
       <p class="graph-subtitle">每篇文章都不是孤島——點擊任何節點，探索台灣知識的連結網絡</p>
     </div>
     <div id="home-graph" class="home-graph-container"></div>
@@ -400,9 +403,9 @@ const randomArticlesData = JSON.stringify(allArticles);
     </div>
   </section>
 
-  <section class="categories" id="categories">
+  <section class="categories" id="categories" aria-labelledby="categories-heading">
     <div class="categories-header">
-      <h2 class="section-title">認識台灣</h2>
+      <h2 class="section-title" id="categories-heading">認識台灣</h2>
     </div>
 
     <!-- 策展散文 -->
@@ -561,7 +564,7 @@ const randomArticlesData = JSON.stringify(allArticles);
 
   <!-- Newsletter 訂閱區塊 -->
   <iframe name="newsletter-iframe" style="display:none;"></iframe>
-  <section class="newsletter">
+  <section class="newsletter" aria-labelledby="newsletter-heading">
     <div class="newsletter-content">
       <h2>📬 訂閱 Taiwan.md 週報</h2>
       <p>每週精選台灣知識，直送信箱。</p>
