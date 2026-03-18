@@ -942,7 +942,7 @@ const randomArticlesData = JSON.stringify(allArticles);
     color: white;
     margin-bottom: 0.5rem;
     line-height: 1.2;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .stat-label {
@@ -1173,9 +1173,9 @@ const randomArticlesData = JSON.stringify(allArticles);
     box-shadow: 0 8px 25px rgba(245, 158, 11, 0.3);
     margin-bottom: 1.5rem;
     min-width: 280px;
-    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-family: system-ui, -apple-system, "Noto Sans TC", "PingFang TC", sans-serif;
   }
-  
+
   .random-btn::before {
     content: '';
     position: absolute;
@@ -1594,6 +1594,7 @@ const randomArticlesData = JSON.stringify(allArticles);
 
   .update-message {
     flex: 1;
+    min-width: 0;
     font-size: 0.9rem;
     color: #1f2937;
     font-weight: 600;
@@ -1711,7 +1712,8 @@ const randomArticlesData = JSON.stringify(allArticles);
     color: white;
     font-size: 1rem;
     font-weight: 500;
-    min-width: 200px;
+    min-width: 0;
+    width: 100%;
     backdrop-filter: blur(10px);
   }
   
@@ -1736,9 +1738,9 @@ const randomArticlesData = JSON.stringify(allArticles);
     cursor: pointer;
     transition: all 0.3s ease;
     white-space: nowrap;
-    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-family: system-ui, -apple-system, "Noto Sans TC", "PingFang TC", sans-serif;
   }
-  
+
   .newsletter-btn:hover {
     background: white;
     transform: translateY(-1px);
@@ -2016,7 +2018,8 @@ const randomArticlesData = JSON.stringify(allArticles);
     }
     
     .hero-stats {
-      gap: 1rem;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.75rem;
     }
     
     .stat {
@@ -2106,6 +2109,18 @@ const randomArticlesData = JSON.stringify(allArticles);
     .random-subtitle {
       font-size: 0.85rem;
     }
+
+    .language-statement {
+      padding: 1.5rem 1rem;
+    }
+
+    .form-row {
+      max-width: 100%;
+    }
+
+    .newsletter input[type="email"] {
+      min-width: 0;
+    }
   }
 
   /* Cover Story — 文學明體 timeline */
@@ -2142,7 +2157,7 @@ const randomArticlesData = JSON.stringify(allArticles);
   .quotes-timeline::before {
     content: '';
     position: absolute;
-    left: 0.75rem;
+    left: 12px;
     top: 0;
     bottom: 0;
     width: 2px;
@@ -2155,10 +2170,10 @@ const randomArticlesData = JSON.stringify(allArticles);
   .quote-era::before {
     content: '';
     position: absolute;
-    left: -2.35rem;
+    left: calc(-3rem + 6px);
     top: 0.5rem;
-    width: 10px;
-    height: 10px;
+    width: 12px;
+    height: 12px;
     background: #3b82f6;
     border-radius: 50%;
     border: 2px solid #fff;
