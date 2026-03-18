@@ -20,6 +20,7 @@ const i18n = {
   nav: {
     explore: isEn ? 'Explore' : '探索',
     graph: isEn ? 'Graph' : '🕸️ 圖譜',
+    map: isEn ? 'Map' : '地圖',
     about: isEn ? 'About' : '關於',
     contribute: isEn ? 'Contribute' : '貢獻',
     resources: isEn ? 'Resources' : '資源',
@@ -103,6 +104,7 @@ if (currentPath.startsWith('/en')) {
         <nav class="nav-desktop">
           <a href={isEn ? "/en#categories" : "/#categories"} class="nav-link">{i18n.nav.explore}</a>
           <a href={isEn ? "/en/graph" : "/graph"} class="nav-link">{i18n.nav.graph}</a>
+          <a href={isEn ? "/en/map" : "/map"} class="nav-link">{i18n.nav.map}</a>
           <a href={isEn ? "/en/about" : "/about"} class="nav-link">{i18n.nav.about}</a>
           <a href={isEn ? "/en/contribute" : "/contribute"} class="nav-link">{i18n.nav.contribute}</a>
           <a href={isEn ? "/en/resources" : "/resources"} class="nav-link">{i18n.nav.resources}</a>
@@ -114,6 +116,7 @@ if (currentPath.startsWith('/en')) {
         <nav class="nav-mobile">
           <a href={isEn ? "/en#categories" : "/#categories"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.explore}</a>
           <a href={isEn ? "/en/graph" : "/graph"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.graph}</a>
+          <a href={isEn ? "/en/map" : "/map"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.map}</a>
           <a href={isEn ? "/en/about" : "/about"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.about}</a>
           <a href={isEn ? "/en/contribute" : "/contribute"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.contribute}</a>
           <a href={isEn ? "/en/resources" : "/resources"} class="nav-link" onclick="document.querySelector('.nav-mobile').classList.remove('open')">{i18n.nav.resources}</a>
@@ -211,6 +214,8 @@ if (currentPath.startsWith('/en')) {
         target = '/knowledge/About/台灣官方網站資源.md';
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
+      } else if (pathname.includes('/map')) {
+        target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
       } else if (pathname.includes('/about')) {
         target = '/src/pages/about.astro';
       } else {

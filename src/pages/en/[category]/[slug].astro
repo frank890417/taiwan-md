@@ -156,6 +156,7 @@ const processedContent = marked.parse(resolvedContent);
   datePublished={frontmatter.date || new Date().toISOString()}
   dateModified={frontmatter.modified || frontmatter.date || new Date().toISOString()}
   content={content}
+  lang="en"
 >
   <!-- Reading Progress Bar -->
   <div class="reading-progress" id="reading-progress"></div>

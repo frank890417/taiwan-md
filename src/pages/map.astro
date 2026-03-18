@@ -1,0 +1,289 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="台灣地圖 Map" description="以地圖視角探索 Taiwan.md 的內容脈絡">
+  <div class="map-page">
+    <section class="map-hero">
+      <div class="hero-inner">
+        <p class="hero-kicker">Map View</p>
+        <h1>台灣地圖</h1>
+        <p class="hero-subtitle">用地圖視角整理知識節點，逐步補上地理線索與文化座標。</p>
+      </div>
+    </section>
+
+    <section class="map-body">
+      <div class="map-canvas">
+        <div class="map-placeholder">
+          <span class="map-badge">Preview</span>
+          <h2>互動地圖整理中</h2>
+          <p>先用這裡作為入口，之後會逐步補上區域、主題與故事路徑。</p>
+          <div class="map-hints">
+            <span>🗺️ 區域視角</span>
+            <span>🧭 主題路線</span>
+            <span>📍 文化座標</span>
+          </div>
+        </div>
+        <div class="map-gradient"></div>
+      </div>
+
+      <aside class="map-panel">
+        <h3>探索方向</h3>
+        <p>想先快速理解全貌？可以從知識圖譜或分類入口開始。</p>
+        <div class="panel-links">
+          <a class="panel-link" href="/graph">🕸️ 知識圖譜</a>
+          <a class="panel-link" href="/">🏠 首頁分類</a>
+          <a class="panel-link" href="/resources">📚 資源整理</a>
+        </div>
+        <div class="panel-note">
+          地圖頁面目前為初版草圖，未使用任何外部 API。
+        </div>
+      </aside>
+    </section>
+
+    <section class="map-cta">
+      <div class="cta-inner">
+        <div>
+          <h2>想一起把地圖補完？</h2>
+          <p>歡迎提供地點、故事線或視覺化建議。</p>
+        </div>
+        <div class="cta-actions">
+          <a href="/contribute" class="btn-primary">貢獻指南</a>
+          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">GitHub</a>
+        </div>
+      </div>
+    </section>
+  </div>
+</Layout>
+
+<style>
+  .map-page {
+    padding-bottom: 3rem;
+  }
+
+  .map-hero {
+    background: linear-gradient(120deg, #f1f5f9, #e0f2fe);
+    padding: 3.5rem 1.5rem 3rem;
+  }
+
+  .hero-inner {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+
+  .hero-kicker {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #64748b;
+    margin-bottom: 0.5rem;
+  }
+
+  .map-hero h1 {
+    font-size: 2.6rem;
+    margin-bottom: 0.75rem;
+    color: #0f172a;
+  }
+
+  .hero-subtitle {
+    font-size: 1.1rem;
+    color: #475569;
+    max-width: 640px;
+  }
+
+  .map-body {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 0;
+    display: grid;
+    grid-template-columns: minmax(0, 2.2fr) minmax(0, 1fr);
+    gap: 2rem;
+    align-items: stretch;
+  }
+
+  .map-canvas {
+    position: relative;
+    border-radius: 20px;
+    border: 1px solid #e2e8f0;
+    background: #f8fafc;
+    padding: 2.5rem;
+    overflow: hidden;
+    min-height: 360px;
+  }
+
+  .map-placeholder {
+    position: relative;
+    z-index: 2;
+  }
+
+  .map-badge {
+    display: inline-flex;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    background: #dbeafe;
+    color: #1d4ed8;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  .map-placeholder h2 {
+    margin: 1rem 0 0.75rem;
+    font-size: 1.6rem;
+    color: #0f172a;
+  }
+
+  .map-placeholder p {
+    color: #475569;
+    margin-bottom: 1.5rem;
+  }
+
+  .map-hints {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    font-size: 0.9rem;
+    color: #334155;
+  }
+
+  .map-hints span {
+    background: rgba(148, 163, 184, 0.15);
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+  }
+
+  .map-gradient {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(circle at top right, rgba(56, 189, 248, 0.2), transparent 45%),
+      radial-gradient(circle at bottom left, rgba(99, 102, 241, 0.18), transparent 55%);
+  }
+
+  .map-panel {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 1.75rem;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .map-panel h3 {
+    font-size: 1.2rem;
+    color: #0f172a;
+  }
+
+  .map-panel p {
+    color: #475569;
+  }
+
+  .panel-links {
+    display: grid;
+    gap: 0.6rem;
+  }
+
+  .panel-link {
+    padding: 0.6rem 0.75rem;
+    border-radius: 10px;
+    background: #f1f5f9;
+    color: #1e293b;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .panel-link:hover {
+    background: #e2e8f0;
+  }
+
+  .panel-note {
+    font-size: 0.85rem;
+    color: #64748b;
+  }
+
+  .map-cta {
+    margin-top: 3rem;
+    padding: 0 1.5rem;
+  }
+
+  .cta-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    background: #0f172a;
+    color: #fff;
+    border-radius: 18px;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+  }
+
+  .cta-inner h2 {
+    margin-bottom: 0.4rem;
+    font-size: 1.5rem;
+  }
+
+  .cta-inner p {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .cta-actions {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    padding: 0.65rem 1.2rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .btn-primary {
+    background: #3b82f6;
+    color: #fff;
+  }
+
+  .btn-primary:hover {
+    background: #2563eb;
+  }
+
+  .btn-secondary {
+    background: transparent;
+    color: #e2e8f0;
+    border: 1px solid rgba(226, 232, 240, 0.5);
+  }
+
+  .btn-secondary:hover {
+    border-color: #fff;
+    color: #fff;
+  }
+
+  @media (max-width: 960px) {
+    .map-body {
+      grid-template-columns: 1fr;
+    }
+
+    .cta-inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .map-hero h1 {
+      font-size: 2.1rem;
+    }
+
+    .map-canvas {
+      padding: 2rem 1.5rem;
+    }
+  }
+</style>
