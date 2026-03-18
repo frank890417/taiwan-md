@@ -172,9 +172,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="12.5%"><a href="https://cheyuwu.com"><img src="https://avatars.githubusercontent.com/u/5765947?v=4" width="80px;" alt="Che-Yu Wu"/><br /><sub><b>Che-Yu Wu</b></sub></a><br /><a href="#code-frank890417" title="Code">💻</a> <a href="#content-frank890417" title="Content">🖋</a> <a href="#design-frank890417" title="Design">🎨</a> <a href="#ideas-frank890417" title="Ideas">🤔</a> <a href="#projectManagement-frank890417" title="Project Management">📆</a> <a href="#doc-frank890417" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="12.5%"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/196250569?v=4" width="80px;" alt="Bugni"/><br /><sub><b>Bugni</b></sub></a><br /><a href="#content-bugnimusic" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="12.5%"><a href="https://github.com/raytien"><img src="https://avatars.githubusercontent.com/u/5399832?v=4" width="80px;" alt="Ray Tien"/><br /><sub><b>Ray Tien</b></sub></a><br /><a href="#content-raytien" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://cheyuwu.com"><img src="https://avatars.githubusercontent.com/u/4727572?v=4" width="80px;" alt="Che-Yu Wu"/><br /><sub><b>Che-Yu Wu</b></sub></a><br /><a href="#code-frank890417" title="Code">💻</a> <a href="#content-frank890417" title="Content">🖋</a> <a href="#design-frank890417" title="Design">🎨</a> <a href="#ideas-frank890417" title="Ideas">🤔</a> <a href="#projectManagement-frank890417" title="Project Management">📆</a> <a href="#doc-frank890417" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/260387338?v=4" width="80px;" alt="Bugni"/><br /><sub><b>Bugni</b></sub></a><br /><a href="#content-bugnimusic" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/Ray0907"><img src="https://avatars.githubusercontent.com/u/29456968?v=4" width="80px;" alt="Ray Tien"/><br /><sub><b>Ray Tien</b></sub></a><br /><a href="#content-Ray0907" title="Content">🖋</a> <a href="#code-Ray0907" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
