@@ -164,9 +164,27 @@ All images sourced from [Wikimedia Commons](https://commons.wikimedia.org/) with
 
 ## 👥 Contributors
 
-<a href="https://github.com/frank890417/taiwan-md/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=frank890417/taiwan-md&max=100&columns=12&anon=1" />
-</a>
+Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="12.5%"><a href="https://cheyuwu.com"><img src="https://avatars.githubusercontent.com/u/5765947?v=4" width="80px;" alt="Che-Yu Wu"/><br /><sub><b>Che-Yu Wu</b></sub></a><br /><a href="#code-frank890417" title="Code">💻</a> <a href="#content-frank890417" title="Content">🖋</a> <a href="#design-frank890417" title="Design">🎨</a> <a href="#ideas-frank890417" title="Ideas">🤔</a> <a href="#projectManagement-frank890417" title="Project Management">📆</a> <a href="#doc-frank890417" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/bugnimusic"><img src="https://avatars.githubusercontent.com/u/196250569?v=4" width="80px;" alt="Bugni"/><br /><sub><b>Bugni</b></sub></a><br /><a href="#content-bugnimusic" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="12.5%"><a href="https://github.com/raytien"><img src="https://avatars.githubusercontent.com/u/5399832?v=4" width="80px;" alt="Ray Tien"/><br /><sub><b>Ray Tien</b></sub></a><br /><a href="#content-raytien" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org) specification. Contributions of any kind welcome!
 
 ---
 
