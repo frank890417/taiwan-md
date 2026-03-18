@@ -1,0 +1,377 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join } from 'path';
+
+const categories = [
+  'history', 'geography', 'culture', 'food', 'art', 'music',
+  'technology', 'nature', 'people', 'society', 'economy', 'lifestyle'
+];
+
+const categoryColors: Record<string, string> = {
+  history: '#e74c3c', geography: '#2ecc71', culture: '#9b59b6',
+  food: '#f39c12', art: '#e91e63', music: '#00bcd4',
+  technology: '#3498db', nature: '#27ae60', people: '#ff9800',
+  society: '#607d8b', economy: '#ff5722', lifestyle: '#8bc34a',
+};
+
+const categoryNames: Record<string, string> = {
+  history: '📜 History', geography: '🗺️ Geography', culture: '🎭 Culture',
+  food: '🍜 Food', art: '🎨 Art', music: '🎵 Music',
+  technology: '💻 Technology', nature: '🌿 Nature', people: '👥 People',
+  society: '⚖️ Society', economy: '📈 Economy', lifestyle: '🏠 Lifestyle',
+};
+
+// Build nodes and edges
+const nodes: any[] = [];
+const edges: any[] = [];
+const tagMap: Record<string, string[]> = {};
+
+// Pre-fetch all collections
+let allZhArticles: any[] = [];
+let allEnArticles: any[] = [];
+try { allZhArticles = await getCollection('zh-TW'); } catch (e) { console.log('zh-TW collection error:', e); }
+try { allEnArticles = await getCollection('en'); } catch (e) { console.log('en collection error:', e); }
+
+// Fallback: scan filesystem if collections are empty
+if (allZhArticles.length === 0) {
+  try {
+    for (const cat of categories) {
+      const catDir = resolve('src/content/zh-TW', cat);
+      try {
+        const files = await readdir(catDir);
+        for (const file of files) {
+          if (file.endsWith('.md') && !file.startsWith('_')) {
+            const slug = file.replace(/\.md$/, '');
+            const content = await readFile(join(catDir, file), 'utf-8');
+            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
+            const tagsMatch = content.match(/^tags:\s*\[(.+?)\]/m);
+            const title = titleMatch ? titleMatch[1] : slug;
+            const tags = tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/["']/g, '')) : [];
+            allZhArticles.push({ id: `${cat}/${slug}`, data: { title, tags } });
+          }
+        }
+      } catch {}
+    }
+  } catch {}
+}
+if (allEnArticles.length === 0) {
+  try {
+    for (const cat of categories) {
+      const catDir = resolve('src/content/en', cat);
+      try {
+        const files = await readdir(catDir);
+        for (const file of files) {
+          if (file.endsWith('.md') && !file.startsWith('_')) {
+            const slug = file.replace(/\.md$/, '');
+            const content = await readFile(join(catDir, file), 'utf-8');
+            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
+            const title = titleMatch ? titleMatch[1] : slug;
+            allEnArticles.push({ id: `${cat}/${slug}`, data: { title, tags: [] } });
+          }
+        }
+      } catch {}
+    }
+  } catch {}
+}
+
+// Center node
+nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
+
+// SSOT concept node
+nodes.push({ id: 'ssot', label: '📐 SSOT\n(Single Source of Truth)', group: 'meta', color: '#8b5cf6', size: 16 });
+edges.push({ source: 'taiwan', target: 'ssot' });
+
+// Special nodes
+nodes.push({ id: 'about', label: '📖 About', group: 'special', color: '#6366f1', size: 14, url: '/en/about' });
+nodes.push({ id: 'contribute', label: '✋ Contribute', group: 'special', color: '#22c55e', size: 14, url: '/en/contribute' });
+nodes.push({ id: 'quotes', label: '✨ Seeing Taiwan\nQuotes', group: 'special', color: '#f59e0b', size: 12, url: '/en/about' });
+nodes.push({ id: 'editorial', label: '📋 Editorial\nGuidelines', group: 'meta', color: '#8b5cf6', size: 10 });
+nodes.push({ id: 'llms', label: '🤖 AI-Friendly\n(llms.txt)', group: 'meta', color: '#8b5cf6', size: 10 });
+edges.push({ source: 'taiwan', target: 'about' });
+edges.push({ source: 'taiwan', target: 'contribute' });
+edges.push({ source: 'about', target: 'quotes' });
+edges.push({ source: 'ssot', target: 'editorial' });
+edges.push({ source: 'ssot', target: 'llms' });
+// SSOT connects to all categories
+for (const cat of categories) {
+  edges.push({ source: 'ssot', target: cat });
+}
+
+for (const cat of categories) {
+  // Category node
+  nodes.push({
+    id: cat,
+    label: categoryNames[cat] || cat,
+    group: cat,
+    color: categoryColors[cat],
+    size: 20,
+    url: `/en/${cat}`
+  });
+  edges.push({ source: 'taiwan', target: cat });
+
+  // Chinese article nodes
+  const catArticles = allZhArticles.filter(a => {
+    const parts = a.id.split('/');
+    return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
+  });
+  for (const article of catArticles) {
+    const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
+    const nodeId = `${cat}/${slug}`;
+    nodes.push({
+      id: nodeId,
+      label: article.data.title,
+      group: cat,
+      color: categoryColors[cat],
+      size: 10,
+      url: `/${cat}/${encodeURIComponent(slug)}`
+    });
+    edges.push({ source: cat, target: nodeId });
+
+    // Build tag connections
+    if (article.data.tags) {
+      for (const tag of article.data.tags) {
+        if (!tagMap[tag]) tagMap[tag] = [];
+        tagMap[tag].push(nodeId);
+      }
+    }
+  }
+
+  // English article nodes
+  const enCatArticles = allEnArticles.filter(a => {
+    const parts = a.id.split('/');
+    return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
+  });
+  for (const article of enCatArticles) {
+    const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
+    const nodeId = `en/${cat}/${slug}`;
+    nodes.push({
+      id: nodeId,
+      label: `🌐 ${article.data.title}`,
+      group: cat,
+      color: categoryColors[cat],
+      size: 8,
+      url: `/en/${cat}/${slug}`
+    });
+    edges.push({ source: cat, target: nodeId });
+  }
+}
+
+// Cross-category edges via shared tags
+for (const [tag, articleIds] of Object.entries(tagMap)) {
+  if (articleIds.length >= 2) {
+    for (let i = 0; i < articleIds.length - 1; i++) {
+      for (let j = i + 1; j < articleIds.length; j++) {
+        const catA = articleIds[i].split('/')[0];
+        const catB = articleIds[j].split('/')[0];
+        if (catA !== catB) {
+          edges.push({ source: articleIds[i], target: articleIds[j] });
+        }
+      }
+    }
+  }
+}
+
+// Parse Hub wikilinks to create Hub→article edges
+const categoryMapping: Record<string, string> = {
+  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
+  'food': 'Food', 'art': 'Art', 'music': 'Music',
+  'technology': 'Technology', 'nature': 'Nature', 'people': 'People',
+  'society': 'Society', 'economy': 'Economy', 'lifestyle': 'Lifestyle'
+};
+const nodeIds = new Set(nodes.map(n => n.id));
+
+for (const [cat, folder] of Object.entries(categoryMapping)) {
+  try {
+    const hubDir = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(hubDir);
+    const hubFile = files.find(f => f.startsWith('_') && f.includes('Hub'));
+    if (hubFile) {
+      const content = await readFile(join(hubDir, hubFile), 'utf-8');
+      const wikilinks = content.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
+      for (const wl of wikilinks) {
+        const target = wl.replace(/\[\[/, '').replace(/\]\]/, '').split('|')[0].trim();
+        const matchNode = nodes.find(n =>
+          n.label === target ||
+          n.label === `🌐 ${target}` ||
+          n.id === `${cat}/${target}` ||
+          n.id === `${cat}/${encodeURIComponent(target)}`
+        );
+        if (matchNode && matchNode.id !== cat) {
+          const exists = edges.some(e =>
+            (e.source === cat && e.target === matchNode.id) ||
+            (e.source === matchNode.id && e.target === cat)
+          );
+          if (!exists) {
+            edges.push({ source: cat, target: matchNode.id });
+          }
+        }
+        if (!matchNode) {
+          for (const [otherCat] of Object.entries(categoryMapping)) {
+            if (otherCat === cat) continue;
+            const crossNode = nodes.find(n => n.label === target && n.group === otherCat);
+            if (crossNode) {
+              edges.push({ source: cat, target: crossNode.id });
+              break;
+            }
+          }
+        }
+      }
+    }
+  } catch {}
+}
+
+const graphData = JSON.stringify({ nodes, edges });
+---
+
+<Layout title="🕸️ Knowledge Graph — Taiwan.md">
+  <main class="graph-page">
+    <div class="graph-header">
+      <h1>🕸️ Knowledge Graph</h1>
+      <p>All knowledge nodes and connections on Taiwan.md</p>
+      <a href="/en" class="back">&larr; Home</a>
+    </div>
+    <div id="graph-container"></div>
+    <div id="tooltip" class="tooltip"></div>
+  </main>
+</Layout>
+
+<script define:vars={{ graphData }}>
+  const data = JSON.parse(graphData);
+
+  const script = document.createElement('script');
+  script.src = 'https://d3js.org/d3.v7.min.js';
+  script.onload = () => initGraph(data);
+  document.head.appendChild(script);
+
+  function initGraph(data) {
+    const container = document.getElementById('graph-container');
+    const width = container.clientWidth;
+    const height = container.clientHeight;
+
+    const svg = d3.select('#graph-container')
+      .append('svg')
+      .attr('width', width)
+      .attr('height', height);
+
+    const g = svg.append('g');
+
+    svg.call(d3.zoom().on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    }));
+
+    const simulation = d3.forceSimulation(data.nodes)
+      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
+        if (d.source.id === 'taiwan') return 150;
+        return 80;
+      }))
+      .force('charge', d3.forceManyBody().strength(-200))
+      .force('center', d3.forceCenter(width / 2, height / 2))
+      .force('collision', d3.forceCollide().radius(d => d.size + 5));
+
+    const link = g.append('g')
+      .selectAll('line')
+      .data(data.edges)
+      .join('line')
+      .attr('stroke', '#ddd')
+      .attr('stroke-width', 1)
+      .attr('stroke-opacity', 0.6);
+
+    const node = g.append('g')
+      .selectAll('circle')
+      .data(data.nodes)
+      .join('circle')
+      .attr('r', d => d.size)
+      .attr('fill', d => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'))
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 2)
+      .attr('cursor', 'pointer')
+      .call(d3.drag()
+        .on('start', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x; d.fy = d.y;
+        })
+        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+        .on('end', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null; d.fy = null;
+        })
+      );
+
+    const label = g.append('g')
+      .selectAll('text')
+      .data(data.nodes)
+      .join('text')
+      .text(d => d.label)
+      .attr('font-size', d => {
+        if (d.group === 'center') return '16px';
+        if (d.size >= 15) return '13px';
+        return '10px';
+      })
+      .attr('font-weight', d => d.size > 15 ? 'bold' : 'normal')
+      .attr('text-anchor', 'middle')
+      .attr('dy', d => d.size + 14)
+      .attr('fill', '#333')
+      .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
+      .attr('pointer-events', 'none');
+
+    node.on('click', (event, d) => {
+      if (d.url) window.location.href = d.url;
+    });
+
+    const tooltip = document.getElementById('tooltip');
+    node.on('mouseover', (event, d) => {
+      tooltip.textContent = d.label;
+      tooltip.style.display = 'block';
+      tooltip.style.left = event.pageX + 10 + 'px';
+      tooltip.style.top = event.pageY - 10 + 'px';
+      d3.select(event.target).attr('stroke', '#3b82f6').attr('stroke-width', 3);
+    }).on('mouseout', (event) => {
+      tooltip.style.display = 'none';
+      d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
+    });
+
+    simulation.on('tick', () => {
+      link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      node.attr('cx', d => d.x).attr('cy', d => d.y);
+      label.attr('x', d => d.x).attr('y', d => d.y);
+    });
+  }
+</script>
+
+<style>
+  .graph-page {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  .graph-header {
+    padding: 1rem 2rem;
+    background: #1a1a2e;
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+  .graph-header h1 { font-size: 1.3rem; margin: 0; white-space: nowrap; }
+  .graph-header p { opacity: 0.7; margin: 0; font-size: 0.9rem; }
+  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; margin-left: auto; }
+  #graph-container {
+    flex: 1;
+    background: #fafafa;
+    overflow: hidden;
+  }
+  .tooltip {
+    display: none;
+    position: absolute;
+    background: rgba(26, 26, 46, 0.9);
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    font-size: 0.85rem;
+    pointer-events: none;
+    z-index: 100;
+  }
+</style>
