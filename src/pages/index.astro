@@ -180,19 +180,23 @@ const randomArticlesData = JSON.stringify(allArticles);
       </div>
       <div class="hero-stats">
         <div class="stat">
-          <span class="stat-number">🏝️ 400+</span>
+          <span class="stat-icon">🏝️</span>
+          <span class="stat-number">400+</span>
           <span class="stat-label">年歷史</span>
         </div>
         <div class="stat">
-          <span class="stat-number">🌿 59,000+</span>
+          <span class="stat-icon">🌿</span>
+          <span class="stat-number">59,000+</span>
           <span class="stat-label">物種</span>
         </div>
         <div class="stat">
-          <span class="stat-number">🗳️ 亞洲第一</span>
+          <span class="stat-icon">🗳️</span>
+          <span class="stat-number">亞洲第一</span>
           <span class="stat-label">民主</span>
         </div>
         <div class="stat">
-          <span class="stat-number">🔧 90%</span>
+          <span class="stat-icon">🔧</span>
+          <span class="stat-number">90%</span>
           <span class="stat-label">全球先進晶片</span>
         </div>
       </div>
@@ -988,15 +992,23 @@ const randomArticlesData = JSON.stringify(allArticles);
     border-color: rgba(255, 255, 255, 0.3);
   }
   
+  .stat-icon {
+    display: block;
+    font-size: 1.8rem;
+    line-height: 1.4;
+    margin-bottom: 0.3rem;
+  }
+
   .stat-number {
     display: block;
     font-size: 2.2rem;
     font-weight: 700;
     color: white;
     margin-bottom: 0.5rem;
-    line-height: 1;
+    line-height: 1.2;
+    white-space: nowrap;
   }
-  
+
   .stat-label {
     font-size: 1rem;
     color: rgba(255, 255, 255, 0.8);
@@ -1990,14 +2002,18 @@ const randomArticlesData = JSON.stringify(allArticles);
       padding: 1.5rem 1rem;
     }
     
-    .stat-number {
-      font-size: 2rem;
+    .stat-icon {
+      font-size: 1.5rem;
     }
-    
+
+    .stat-number {
+      font-size: 1.8rem;
+    }
+
     .stat-label {
       font-size: 0.9rem;
     }
-    
+
     .taiwan-silhouette {
       width: 120px;
       height: 120px;
@@ -2057,14 +2073,18 @@ const randomArticlesData = JSON.stringify(allArticles);
       padding: 1.2rem 0.8rem;
     }
     
-    .stat-number {
-      font-size: 1.8rem;
+    .stat-icon {
+      font-size: 1.3rem;
     }
-    
+
+    .stat-number {
+      font-size: 1.5rem;
+    }
+
     .stat-label {
       font-size: 0.85rem;
     }
-    
+
     .taiwan-silhouette {
       width: 100px;
       height: 100px;
