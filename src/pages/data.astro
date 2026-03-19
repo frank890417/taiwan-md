@@ -1,0 +1,311 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const categories = [
+  {
+    icon: '📊',
+    title: '政府開放資料',
+    description: '政府機關釋出的結構化資料集與統計平台',
+    items: [
+      { name: '政府資料開放平臺', url: 'https://data.gov.tw/', desc: '政府開放資料統一入口，上萬筆資料集' },
+      { name: '主計總處統計資料庫', url: 'https://statdb.dgbas.gov.tw/', desc: '人口、經濟、物價等核心國家統計' },
+      { name: '中選會選舉資料庫', url: 'https://db.cec.gov.tw/', desc: '歷屆選舉結果與投票數據' },
+      { name: '全國法規資料庫', url: 'https://law.moj.gov.tw/', desc: '所有法律、命令、判例全文檢索' },
+      { name: '空氣品質監測網', url: 'https://airtw.moenv.gov.tw/', desc: '即時 AQI、PM2.5 監測數據' },
+    ]
+  },
+  {
+    icon: '🗺️',
+    title: '互動地圖與視覺化',
+    description: '即時監測、地理圖資與環境視覺化工具',
+    items: [
+      { name: '台灣海纜動態地圖', url: 'https://smc.peering.tw/', desc: '民間開發的海底電纜即時監測，公民科技典範' },
+      { name: '國土測繪圖資服務雲', url: 'https://maps.nlsc.gov.tw/', desc: '台灣地圖圖資、航照、地籍' },
+      { name: '地震測報中心', url: 'https://scweb.cwa.gov.tw/', desc: '即時地震資訊與歷史紀錄' },
+      { name: '水利署防災資訊網', url: 'https://fhy.wra.gov.tw/', desc: '即時水情、河川水位、水庫蓄水量' },
+      { name: '環境即時通', url: 'https://env.gov.tw/', desc: '空品、紫外線、水質即時監測' },
+    ]
+  },
+  {
+    icon: '🤖',
+    title: '公民科技 (Civic Tech)',
+    description: '開源社群、事實查核與數位民主工具',
+    items: [
+      { name: 'g0v 零時政府', url: 'https://g0v.tw/', desc: '台灣最大的開源公民科技社群' },
+      { name: 'KKTIX 公民科技活動', url: 'https://g0v-jothon.kktix.cc/', desc: 'g0v 黑客松、開放資料社群活動入口' },
+      { name: 'Cofacts 真的假的', url: 'https://cofacts.tw/', desc: '群眾協作的事實查核機器人' },
+      { name: 'vTaiwan', url: 'https://vtaiwan.tw/', desc: '數位民主討論平台，法規政策公民審議' },
+      { name: 'JOIN 公共政策參與平台', url: 'https://join.gov.tw/', desc: '政府提案、連署、政策討論' },
+    ]
+  },
+  {
+    icon: '📰',
+    title: '資料新聞與查核',
+    description: '深度調查報導、事實查核與資料新聞媒體',
+    items: [
+      { name: '報導者', url: 'https://www.twreporter.org/', desc: '台灣非營利深度調查媒體' },
+      { name: '台灣事實查核中心', url: 'https://tfc-taiwan.org.tw/', desc: 'IFCN 認證事實查核機構' },
+      { name: 'READr 讀+', url: 'https://www.readr.tw/', desc: '資料新聞與開放資料視覺化報導' },
+      { name: '典藏 ARTouch', url: 'https://artouch.com/', desc: '台灣藝術新聞與深度評論媒體' },
+    ]
+  },
+  {
+    icon: '🔬',
+    title: '學術與研究',
+    description: '數位典藏、生態資料與 AI 語料庫',
+    items: [
+      { name: '中研院開放博物館', url: 'https://openmuseum.tw/', desc: '數位典藏與線上策展' },
+      { name: '國家文化記憶庫', url: 'https://tcmb.culture.tw/', desc: '台灣文化記憶數位保存' },
+      { name: '台灣生物多樣性網絡', url: 'https://tbn.biodiv.tw/', desc: '物種分布、生態觀測' },
+      { name: '臺灣主權 AI 訓練語料庫 TAIC', url: 'https://huggingface.co/TAIDE', desc: '台灣本土 AI 訓練資料集' },
+    ]
+  },
+];
+---
+
+<Layout
+  title="開放數據與公民科技 - Taiwan.md"
+  description="台灣開放資料平台、公民科技工具、互動地圖與數位資源彙整"
+>
+  <div class="data-page">
+    <div class="container">
+      <!-- Hero -->
+      <section class="hero">
+        <h1 class="hero-title">台灣開放數據與公民科技</h1>
+        <p class="hero-subtitle">
+          從政府開放資料到公民科技社群，探索台灣的數位公共資源
+        </p>
+      </section>
+
+      <!-- Categories -->
+      <div class="categories">
+        {categories.map(cat => (
+          <section class="category-card">
+            <div class="category-header">
+              <span class="category-icon">{cat.icon}</span>
+              <div>
+                <h2 class="category-title">{cat.title}</h2>
+                <p class="category-desc">{cat.description}</p>
+              </div>
+            </div>
+            <ul class="item-list">
+              {cat.items.map(item => (
+                <li class="item">
+                  <a href={item.url} target="_blank" rel="noopener noreferrer" class="item-link">
+                    {item.name}
+                  </a>
+                  <span class="item-desc">— {item.desc}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ))}
+      </div>
+
+      <!-- Back link -->
+      <div class="back-link">
+        <a href="/resources" class="btn-back">← 回到資源頁</a>
+      </div>
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .data-page {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #e2e8f0;
+  }
+
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 4rem 0 3rem;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 900;
+    background: linear-gradient(135deg, #38bdf8, #818cf8, #c084fc);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.15rem;
+    color: #94a3b8;
+    line-height: 1.7;
+    max-width: 540px;
+    margin: 0 auto;
+  }
+
+  /* Category Cards */
+  .categories {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .category-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 2rem;
+    transition: border-color 0.2s ease;
+  }
+
+  .category-card:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .category-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .category-icon {
+    font-size: 2rem;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .category-title {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #f1f5f9;
+    margin-bottom: 0.25rem;
+  }
+
+  .category-desc {
+    font-size: 0.95rem;
+    color: #64748b;
+    line-height: 1.5;
+  }
+
+  /* Item List */
+  .item-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .item {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    line-height: 1.6;
+  }
+
+  .item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .item-link {
+    color: #38bdf8;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+  }
+
+  .item-link:hover {
+    color: #7dd3fc;
+    border-bottom-color: #7dd3fc;
+  }
+
+  .item-desc {
+    color: #94a3b8;
+    font-size: 0.9rem;
+  }
+
+  /* Back Link */
+  .back-link {
+    text-align: center;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .btn-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 2rem;
+    background: rgba(255, 255, 255, 0.06);
+    color: #94a3b8;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.2s ease;
+  }
+
+  .btn-back:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #e2e8f0;
+    border-color: rgba(255, 255, 255, 0.2);
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+
+    .hero {
+      padding: 2.5rem 0 2rem;
+    }
+
+    .category-card {
+      padding: 1.5rem;
+    }
+
+    .category-header {
+      gap: 0.75rem;
+    }
+
+    .category-icon {
+      font-size: 1.5rem;
+    }
+
+    .category-title {
+      font-size: 1.25rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 0.75rem;
+    }
+
+    .category-card {
+      padding: 1.25rem;
+    }
+
+    .item-link {
+      font-size: 0.95rem;
+    }
+
+    .item-desc {
+      display: block;
+      margin-top: 0.25rem;
+      font-size: 0.85rem;
+    }
+  }
+</style>
