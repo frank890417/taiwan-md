@@ -87,6 +87,11 @@ export async function getStaticPaths() {
 
 const { categoryInfo, category, hubContent, articles } = Astro.props;
 
+// Compute unique tags for filter
+const allTagsSet = new Set();
+articles.forEach((a: any) => { if (a.tags) a.tags.forEach((t: string) => allTagsSet.add(t)); });
+const uniqueTags = [...allTagsSet].sort().slice(0, 12) as string[];
+
 // Load economic data for economy category
 let taiexData: any[] = [];
 let cpiData: any[] = [];
@@ -254,14 +259,9 @@ const otherCategories = Object.keys(categoryConfig)
                 />
               </div>
               <div class="tag-filter" id="tagFilter">
-                {(() => {
-                  const allTags = new Set<string>();
-                  articles.forEach((a: any) => a.tags?.forEach((t: string) => allTags.add(t)));
-                  const tagArr = [...allTags].sort();
-                  return tagArr.slice(0, 12).map((tag: string) => (
-                    <button class="tag-btn" data-tag={tag} type="button">{tag}</button>
-                  ));
-                })()}
+                {uniqueTags.map((tag) => (
+                  <button class="tag-btn" data-tag={tag} type="button">{tag}</button>
+                ))}
               </div>
             </div>
           </div>
