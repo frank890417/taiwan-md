@@ -185,7 +185,7 @@ Combines Western rock elements with local culture to form a unique Taiwanese roc
 ### The Asian Market
 
 **The Mayday Phenomenon:**
-Mayday's success in mainland China and Southeast Asia proved the international potential of Taiwan's indie music.
+Mayday's success in China and Southeast Asia proved the international potential of Taiwan's indie music.
 
 **Festival Exchange:**
 Taiwanese bands regularly participate in international festivals like Fuji Rock (Japan), SXSW (USA), and Glastonbury (UK).

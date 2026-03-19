@@ -200,7 +200,7 @@ The nuclear-free homeland policy faces technical and cost challenges during exec
 ### External Pressure
 
 **Cross-Strait Relations:**
-Facing military threats and diplomatic suppression from mainland China, maintaining Taiwan's security and dignity is the greatest test.
+Facing military threats and diplomatic suppression from China, maintaining Taiwan's security and dignity is the greatest test.
 
 **International Space:**
 Under the backdrop of China's rise, expanding Taiwan's international space remains a major challenge.

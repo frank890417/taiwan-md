@@ -100,7 +100,7 @@ The three generations of Zheng rule left lasting impacts:
 
 **Zheng Chenggong (Koxinga)** 鄭成功 (1661-1662): Established the kingdom and expelled Dutch forces, but died shortly after conquest.
 
-**Zheng Jing** 鄭經 (1662-1681): Presided over the kingdom's golden age, expanding territory and strengthening institutions. Attempted multiple expeditions to retake mainland China.
+**Zheng Jing** 鄭經 (1662-1681): Presided over the kingdom's golden age, expanding territory and strengthening institutions. Attempted multiple expeditions to retake China.
 
 **Zheng Keshuang** 鄭克塽 (1681-1683): Last ruler, faced with internal divisions and Qing naval superiority, ultimately surrendered to Shi Lang.
 

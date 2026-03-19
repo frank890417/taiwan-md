@@ -72,7 +72,7 @@ Indigenous societies developed complex political and social systems long before 
 
 **Political Leadership**: Traditional leadership varied from egalitarian councils to hereditary chiefs. Some groups developed confederations spanning multiple villages, like the Kingdom of Middag 大肚王國 in central Taiwan.
 
-**Economic Systems**: Sophisticated agricultural techniques included terraced farming in mountain areas and complex irrigation systems. Trade networks connected different regions and extended to mainland China and Southeast Asia.
+**Economic Systems**: Sophisticated agricultural techniques included terraced farming in mountain areas and complex irrigation systems. Trade networks connected different regions and extended to China and Southeast Asia.
 
 ### Cultural Practices and Spiritual Beliefs
 
@@ -106,7 +106,7 @@ Modern archaeology divides Taiwan's prehistory into distinct periods:
 
 **Late Neolithic** (3,000-1,800 BP): Sophisticated agriculture, evidence of craft specialization, appearance of prestige goods. Social complexity increases significantly.
 
-**Metal Age** (1,800-350 BP): Introduction of iron technology, complex political organizations, extensive trade networks reaching Southeast Asia and mainland China.
+**Metal Age** (1,800-350 BP): Introduction of iron technology, complex political organizations, extensive trade networks reaching Southeast Asia and China.
 
 ### Contemporary Indigenous Issues
 

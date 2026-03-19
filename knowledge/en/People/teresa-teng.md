@@ -12,13 +12,13 @@ featured: true
 
 ## 30-Second Overview
 
-Teresa Teng (鄧麗君, 1953-1995) was the first truly pan-Asian pop star, whose voice transcended political, cultural, and linguistic boundaries during the height of the Cold War. Born in rural Taiwan, Teng became the most beloved Chinese-language singer of the 20th century, selling over 48 million records across Taiwan, Hong Kong, Malaysia, Singapore, Thailand, Japan, and even mainland China - where her songs were officially banned but universally loved. Her gentle, emotionally rich vocal style and carefully chosen repertoire of love songs and nostalgic ballads created a shared cultural experience across divided Chinese communities and established the template for modern Mandarin pop music. Teng's sudden death in 1995 prompted unprecedented grief across Asia, cementing her legacy as "Asia's Eternal Queen of Pop."
+Teresa Teng (鄧麗君, 1953-1995) was the first truly pan-Asian pop star, whose voice transcended political, cultural, and linguistic boundaries during the height of the Cold War. Born in rural Taiwan, Teng became the most beloved Chinese-language singer of the 20th century, selling over 48 million records across Taiwan, Hong Kong, Malaysia, Singapore, Thailand, Japan, and even China - where her songs were officially banned but universally loved. Her gentle, emotionally rich vocal style and carefully chosen repertoire of love songs and nostalgic ballads created a shared cultural experience across divided Chinese communities and established the template for modern Mandarin pop music. Teng's sudden death in 1995 prompted unprecedented grief across Asia, cementing her legacy as "Asia's Eternal Queen of Pop."
 
 ## Why It Matters
 
 Teresa Teng's significance extends far beyond entertainment. She was the first Chinese-language artist to achieve true international stardom, proving that Chinese culture could appeal to global audiences when packaged with universal emotional appeal and professional production values.
 
-More importantly, Teng's music served as cultural diplomacy during one of Asia's most divided periods. Her songs were smuggled into mainland China despite official bans, providing emotional connection between separated Chinese communities. In Taiwan, she became a symbol of cultural confidence during the island's international isolation. For overseas Chinese communities worldwide, her music provided cultural identity and connection to shared heritage.
+More importantly, Teng's music served as cultural diplomacy during one of Asia's most divided periods. Her songs were smuggled into China despite official bans, providing emotional connection between separated Chinese communities. In Taiwan, she became a symbol of cultural confidence during the island's international isolation. For overseas Chinese communities worldwide, her music provided cultural identity and connection to shared heritage.
 
 Teng's career also established the infrastructure and artistic template for Chinese popular music. Her success created the recording industry, concert circuits, and media networks that later artists would build upon. She demonstrated that Chinese-language music could achieve the same production values, international distribution, and cultural impact as Western pop music.
 
@@ -88,7 +88,7 @@ Perhaps her most remarkable achievement was conquering Japan's notoriously diffi
 
 ### The Mainland China Phenomenon
 
-Despite being officially banned by the Chinese Communist Party, Teresa Teng's music became wildly popular in mainland China through smuggled cassette tapes and radio broadcasts from Taiwan and Hong Kong.
+Despite being officially banned by the Chinese Communist Party, Teresa Teng's music became wildly popular in China through smuggled cassette tapes and radio broadcasts from Taiwan and Hong Kong.
 
 **Underground Popularity**:
 - "Unofficial Cultural Ambassador": Her songs provided emotional outlet during China's restrictive Cultural Revolution period
@@ -96,7 +96,7 @@ Despite being officially banned by the Chinese Communist Party, Teresa Teng's mu
 - **Emotional Connection**: Her songs about love, family, and nostalgia resonated with people denied such expression in official culture
 
 **Cultural Impact in China**:
-- First exposure to modern Chinese pop music for mainland audiences
+- First exposure to modern Chinese pop music for Chinese audiences
 - Introduced concepts of individual emotion and romantic love that were absent from political propaganda
 - Created shared cultural experience across the Taiwan Strait despite official hostility
 

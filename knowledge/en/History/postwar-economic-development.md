@@ -127,7 +127,7 @@ Taiwan entrepreneurs demonstrated strong entrepreneurial spirit and flexible ada
 
 ### Post-1990s Adjustments
 
-Entering the 1990s, Taiwan faced challenges of rising wages and increased environmental requirements, with traditional manufacturing beginning to relocate to mainland China and Southeast Asia. The government promoted "industrial upgrading" policies, encouraging development of high value-added industries.
+Entering the 1990s, Taiwan faced challenges of rising wages and increased environmental requirements, with traditional manufacturing beginning to relocate to China and Southeast Asia. The government promoted "industrial upgrading" policies, encouraging development of high value-added industries.
 
 ### Knowledge Economy Transformation
 

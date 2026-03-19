@@ -100,7 +100,7 @@ Amis, Atayal, Paiwan, Bunun, Puyuma, Rukai, Tsou, Saisiyat, Tao (Yami), Thao, Ka
 ### Mainlander Group (7.5%) — The 1949 New Immigrants
 
 **Ethnic Overview:**
-- **Definition**: Those who migrated from mainland China between 1945-1955
+- **Definition**: Those who migrated from China between 1945-1955
 - **Population Proportion**: Approximately 7.5%
 - **Migration Peak**: 1949 when ROC government relocated to Taiwan
 - **Primary Languages**: Mandarin Chinese and various provincial dialects
