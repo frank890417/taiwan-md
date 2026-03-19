@@ -5,7 +5,7 @@ import { resolve, join, basename } from 'path';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import matter from 'gray-matter';
-import { getI18nPath } from '../i18n/utils';
+import { useTranslatedPath } from '../i18n/utils';
 import type { Lang } from '../types';
 
 interface Props {
@@ -99,7 +99,9 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
 const currentPath = Astro.url.pathname;
 const isEn = lang === 'en';
 
-const enLink = getI18nPath('en', currentPath);
+const translatePath = useTranslatedPath('en');
+
+const enLink = translatePath(currentPath);
 ---
 
 <!doctype html>

@@ -1,8 +1,13 @@
 ---
-import { getLangFromUrl, useTranslations, getI18nPath } from '../i18n/utils';
+import {
+  getLangFromUrl,
+  useTranslations,
+  useTranslatedPath,
+} from '../i18n/utils';
 
 const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
+const translatePath = useTranslatedPath(lang);
 ---
 
 <style>
@@ -179,25 +184,26 @@ const t = useTranslations(lang);
       </div>
       <div class="footer-col">
         <h4>{t('footer.explore')}</h4>
-        <a href={getI18nPath(lang, '/history')}>{t('footer.history')}</a>
-        <a href={getI18nPath(lang, '/culture')}>{t('footer.culture')}</a>
-        <a href={getI18nPath(lang, '/food')}>{t('footer.food')}</a>
-        <a href={getI18nPath(lang, '/technology')}>{t('footer.technology')}</a>
-        <a href={getI18nPath(lang, '/nature')}>{t('footer.nature')}</a>
-        <a href={getI18nPath(lang, '/society')}>{t('footer.society')}</a>
+        <a href={translatePath(lang, '/history')}>{t('footer.history')}</a>
+        <a href={translatePath(lang, '/culture')}>{t('footer.culture')}</a>
+        <a href={translatePath(lang, '/food')}>{t('footer.food')}</a>
+        <a href={translatePath(lang, '/technology')}>{t('footer.technology')}</a
+        >
+        <a href={translatePath(lang, '/nature')}>{t('footer.nature')}</a>
+        <a href={translatePath(lang, '/society')}>{t('footer.society')}</a>
       </div>
       <div class="footer-col">
         <h4>{t('footer.project')}</h4>
         <a href="https://github.com/frank890417/taiwan-md" target="_blank"
           >GitHub</a
         >
-        <a href={getI18nPath(lang, '/about')}>{t('footer.about')}</a>
-        <a href={getI18nPath(lang, '/graph')}>{t('footer.graph')}</a>
+        <a href={translatePath(lang, '/about')}>{t('footer.about')}</a>
+        <a href={translatePath(lang, '/graph')}>{t('footer.graph')}</a>
         <a
           href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md"
           target="_blank">{t('footer.contribute')}</a
         >
-        <a href={getI18nPath(lang, '/changelog')}>{t('footer.changelog')}</a>
+        <a href={translatePath(lang, '/changelog')}>{t('footer.changelog')}</a>
       </div>
       <div class="footer-col">
         <h4>{t('footer.contact')}</h4>
