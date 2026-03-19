@@ -13,12 +13,14 @@ interface Props {
   category?: string;
 }
 
+const { lang = 'zh-TW' } = Astro.props;
 const {
   title,
-  description = '讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。',
+  description = lang === 'en'
+    ? 'Open-source knowledge base about Taiwan — politics, economy, culture, history, geography, and more.'
+    : '讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。',
   image = '/images/taiwan-social.jpg',
   url = Astro.url.href,
-  lang = 'zh-TW',
   type = 'website',
   datePublished,
   dateModified,
@@ -69,8 +71,8 @@ const generateJSONLD = () => {
     return {
       "@context": "https://schema.org",
       "@type": "WebSite",
-      "name": "Taiwan.md - 台灣知識庫",
-      "description": "讓全世界完整認識台灣 - 開源台灣知識庫",
+      "name": lang === 'en' ? "Taiwan.md — Knowledge Base" : "Taiwan.md - 台灣知識庫",
+      "description": lang === 'en' ? "Open-source knowledge base about Taiwan" : "讓全世界完整認識台灣 - 開源台灣知識庫",
       "url": siteUrl,
       "inLanguage": lang,
       "publisher": {
@@ -85,7 +87,9 @@ const generateJSONLD = () => {
 const jsonLD = generateJSONLD();
 
 // Dynamic keywords
-const baseKeywords = '台灣, Taiwan, 台灣知識庫, 台灣歷史, 台灣文化, 台灣政治, 台灣經濟';
+const baseKeywords = lang === 'en'
+  ? 'Taiwan, knowledge base, Taiwan history, Taiwan culture, Taiwan politics, Taiwan economy'
+  : '台灣, Taiwan, 台灣知識庫, 台灣歷史, 台灣文化, 台灣政治, 台灣經濟';
 const dynamicKeywords = [
   baseKeywords,
   ...(category ? [category] : []),

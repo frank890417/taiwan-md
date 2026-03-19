@@ -17,10 +17,10 @@ interface Props {
   category?: string;
 }
 
+const { lang = 'zh-TW' } = Astro.props;
 const {
   title,
-  description = '讓全世界完整認識台灣',
-  lang = 'zh-TW',
+  description = lang === 'en' ? 'Open-source knowledge base about Taiwan' : '讓全世界完整認識台灣',
   image,
   type,
   datePublished,
@@ -226,10 +226,10 @@ const navConfig = [
     </script>
     <header role="banner">
       <div class="header-inner">
-        <a href={isEn ? '/en' : '/'} class="logo" aria-label="Taiwan.md 首頁">
+        <a href={isEn ? '/en' : '/'} class="logo" aria-label={isEn ? "Taiwan.md Home" : "Taiwan.md 首頁"}>
           <img
             src="/favicon.png"
-            alt="Taiwan.md 標誌圖示"
+            alt={isEn ? "Taiwan.md logo" : "Taiwan.md 標誌圖示"}
             class="logo-icon"
             width="24"
             height="24"
@@ -238,11 +238,11 @@ const navConfig = [
         </a>
         <button
           class="menu-toggle"
-          aria-label="開啟/關閉導航選單"
+          aria-label={isEn ? "Toggle navigation menu" : "開啟/關閉導航選單"}
           onclick="document.querySelector('.nav-mobile').classList.toggle('open')"
           >☰</button
         >
-        <nav class="nav-desktop" aria-label="主要導航">
+        <nav class="nav-desktop" aria-label={isEn ? "Main navigation" : "主要導航"}>
           {
             navConfig.map((item) => {
               if (item.path === '/#categories') {
@@ -351,7 +351,7 @@ const navConfig = [
             GitHub
           </a>
         </nav>
-        <nav class="nav-mobile" aria-label="行動裝置導航">
+        <nav class="nav-mobile" aria-label={isEn ? "Mobile navigation" : "行動裝置導航"}>
           {
             navConfig.map((item) => {
               if (item.path === '/assets') {
@@ -374,7 +374,7 @@ const navConfig = [
             class="nav-link">GitHub</a
           >
           <div class="mobile-lang-toggle">
-            <span class="mobile-lang-label">🌐 語言 / Language:</span>
+            <span class="mobile-lang-label">{isEn ? '🌐 Language:' : '🌐 語言 / Language:'}</span>
             <div class="mobile-lang-buttons">
               <a
                 href={zhLink}
@@ -418,14 +418,14 @@ const navConfig = [
               y2="16.65"></line></svg
           >
         </button>
-        <div class="lang-toggle" role="group" aria-label="語言選擇">
+        <div class="lang-toggle" role="group" aria-label={isEn ? "Language selection" : "語言選擇"}>
           <a
             href={zhLink}
             class:list={[
               'lang-btn',
               { active: !currentPath.startsWith('/en') },
             ]}
-            aria-label="切換至繁體中文">中文</a
+            aria-label={isEn ? "Switch to Traditional Chinese" : "切換至繁體中文"}>中文</a
           >
           <a
             href={enLink}

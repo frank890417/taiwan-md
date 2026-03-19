@@ -157,10 +157,26 @@ interface Props {
 }
 
 const { lang = 'zh-TW' } = Astro.props;
-const langPrefix = lang === 'en' ? '/en' : '';
+const isEn = lang === 'en';
+const langPrefix = isEn ? '/en' : '';
+
+const descriptionsEn: Record<string, string> = {
+  history: 'The full arc of Taiwan\'s history from prehistory to the modern era',
+  geography: 'Taiwan\'s natural environment, terrain, and regional development',
+  culture: 'The fusion of diverse ethnic cultures and local character',
+  food: 'From night market snacks to fine dining — Taiwan\'s food culture',
+  art: 'Creative energy from traditional crafts to contemporary art',
+  music: 'A soundscape from Indigenous music to pop',
+  technology: 'Innovation and digital transformation on the tech island',
+  nature: 'Rich ecosystems and environmental conservation',
+  people: 'Key figures and stories that shaped Taiwan',
+  society: 'In-depth exploration of social change and contemporary issues',
+  economy: 'The economic miracle, its causes, and transformation challenges',
+  lifestyle: 'How Taiwanese people live and what they value',
+};
 ---
 
-<section class="category-grid" aria-label="台灣知識分類">
+<section class="category-grid" aria-label={isEn ? "Taiwan knowledge categories" : "台灣知識分類"}>
   {
     categories.map((category, index) => (
       <article>
@@ -168,13 +184,13 @@ const langPrefix = lang === 'en' ? '/en' : '';
           href={`${langPrefix}/${category.slug}`}
           class="category-card"
           data-color={category.color}
-          aria-label={`探索${category.name}主題`}
+          aria-label={isEn ? `Explore ${category.name_en}` : `探索${category.name}主題`}
         >
           <div class="category-header">
             {category.cover ? (
               <img
                 src={category.cover}
-                alt={`${category.name}主題相關圖片`}
+                alt={isEn ? `${category.name_en} category image` : `${category.name}主題相關圖片`}
                 class="category-cover"
                 loading="lazy"
                 onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
@@ -189,16 +205,16 @@ const langPrefix = lang === 'en' ? '/en' : '';
             <div class="category-gradient" />
             <div class="article-badge">
               <span class="article-count">{countArticles(category.slug)}</span>
-              <span class="article-label">篇</span>
+              <span class="article-label">{isEn ? 'articles' : '篇'}</span>
             </div>
           </div>
           <div class="category-body">
             <h3 class="category-name">
-              {lang === 'en' ? category.name_en : category.name}
+              {isEn ? category.name_en : category.name}
             </h3>
-            <p class="category-description">{category.description}</p>
+            <p class="category-description">{isEn ? descriptionsEn[category.slug] : category.description}</p>
             <div class="category-footer">
-              <span class="explore-link">探索 →</span>
+              <span class="explore-link">{isEn ? 'Explore →' : '探索 →'}</span>
             </div>
           </div>
         </a>
