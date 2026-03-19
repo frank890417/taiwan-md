@@ -4,6 +4,10 @@ import * as path from 'node:path';
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import type { Lang } from '../types';
 
+interface Props {
+  lang: Lang;
+}
+
 // Count articles dynamically from knowledge/ directory
 function countArticles(categorySlug: string, lang: Lang): number {
   const categoryMap: Record<string, string> = {
@@ -30,7 +34,7 @@ function countArticles(categorySlug: string, lang: Lang): number {
   }
 }
 
-const lang = getLangFromUrl(Astro.url);
+const { lang } = Astro.props;
 const t = useTranslations(lang);
 
 const categories = [
