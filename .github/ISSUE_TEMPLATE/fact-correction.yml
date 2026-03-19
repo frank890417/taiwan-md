@@ -1,0 +1,24 @@
+name: 🔍 事實更正 / Fact Correction
+description: 指出文章中的事實錯誤或過時資訊
+title: "[Fact Check] "
+labels: ["needs-verification"]
+body:
+  - type: input
+    id: article
+    attributes:
+      label: 哪篇文章？/ Which article?
+      description: 文章標題或 URL
+      placeholder: "例：台灣棒球文化 或 https://taiwan.md/people/李安"
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: 哪裡有誤？/ What's wrong?
+      description: 請具體指出錯誤內容，並附上正確資訊的來源
+      placeholder: |
+        錯誤內容：「XXX 於 1990 年獲獎」
+        正確資訊：「XXX 於 1993 年獲獎」
+        來源：https://...
+    validations:
+      required: true

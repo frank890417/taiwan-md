@@ -1,0 +1,26 @@
+name: 🐛 Bug 回報 / Bug Report
+description: 網站功能問題、顯示錯誤、連結失效等
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: 問題描述 / Description
+      description: 請描述你遇到的問題
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: 問題頁面 URL
+      placeholder: "https://taiwan.md/..."
+    validations:
+      required: false
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 截圖 / Screenshot
+      description: 如果可以，請附上截圖
+    validations:
+      required: false
