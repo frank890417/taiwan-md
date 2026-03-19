@@ -33,7 +33,7 @@ This situation created a peculiar phenomenon in early postwar Taiwanese literatu
 
 In the 1950s, against the backdrop of the Chinese Civil War standoff and international Cold War, "anti-communist literature" became mainstream in Taiwan's literary circles. This literature primarily opposed communism and praised Free China, receiving strong government support and promotion.
 
-Works like Sima Zhongyuan's *The Wasteland*, Zhu Xining's *Iron Pulp*, and Duan Caihua's *Tragedy Under the Red Flag* were representative of this period. These works often used mainland China as their setting, describing people's suffering under Communist Party rule and the heroic resistance of Nationalist forces.
+Works like Sima Zhongyuan's _The Wasteland_, Zhu Xining's _Iron Pulp_, and Duan Caihua's _Tragedy Under the Red Flag_ were representative of this period. These works often used mainland China as their setting, describing people's suffering under Communist Party rule and the heroic resistance of Nationalist forces.
 
 ### Political Function versus Literary Value
 
@@ -45,25 +45,25 @@ Nevertheless, some writers created works of higher artistic value within the ant
 
 ## Modernism's Aesthetic Revolution
 
-### The Rise of *Modern Literature* Magazine
+### The Rise of _Modern Literature_ Magazine
 
-In the 1960s, Taiwanese literature welcomed a profound aesthetic revolution. Centered around *Modern Literature* magazine, a group of young writers began introducing Western modernist creative techniques and aesthetic concepts, injecting entirely new vitality into Taiwanese literature.
+In the 1960s, Taiwanese literature welcomed a profound aesthetic revolution. Centered around _Modern Literature_ magazine, a group of young writers began introducing Western modernist creative techniques and aesthetic concepts, injecting entirely new vitality into Taiwanese literature.
 
-*Modern Literature* magazine was founded in 1960, with main initiators including Pai Hsien-yung, Wang Wenxing, and Liu Shaoming—students from National Taiwan University's Foreign Languages Department. These young people, deeply influenced by Western modern literature, aspired to create a new literature different from traditional realism.
+_Modern Literature_ magazine was founded in 1960, with main initiators including Pai Hsien-yung, Wang Wenxing, and Liu Shaoming—students from National Taiwan University's Foreign Languages Department. These young people, deeply influenced by Western modern literature, aspired to create a new literature different from traditional realism.
 
 ### Pai Hsien-yung: Master of Modern Fiction
 
-Pai Hsien-yung was undoubtedly the most important representative of modernist literature. His short story collection *Taipei People* (台北人) is a classic work of postwar Taiwanese literature and a typical representative of modernist literature.
+Pai Hsien-yung was undoubtedly the most important representative of modernist literature. His short story collection _Taipei People_ (台北人) is a classic work of postwar Taiwanese literature and a typical representative of modernist literature.
 
-The fourteen stories in *Taipei People* describe the living situations of mainlanders from different social classes in Taiwan. Pai Hsien-yung employed stream-of-consciousness, montage, and other modern fiction techniques to deeply portray these characters' inner worlds. The works contain both attachment to bygone years and helplessness toward current circumstances, filled with rich tragic beauty.
+The fourteen stories in _Taipei People_ describe the living situations of mainlanders from different social classes in Taiwan. Pai Hsien-yung employed stream-of-consciousness, montage, and other modern fiction techniques to deeply portray these characters' inner worlds. The works contain both attachment to bygone years and helplessness toward current circumstances, filled with rich tragic beauty.
 
 The ageless dancing girl in "The Eternal Yin Xuey-yan" and the fallen singer in "The Last Night of Jin Daban" have become classic characters in Taiwanese literary history. Through these characters, Pai Hsien-yung wrote not only individual destiny but also an entire era's spiritual condition.
 
 ### Wang Wenxing: Pioneer of Language Experimentation
 
-Wang Wenxing was the most experimentally spirited writer in modernist literature. His novel *Family Catastrophe* (家變) is one of the most controversial works in Taiwanese literary history.
+Wang Wenxing was the most experimentally spirited writer in modernist literature. His novel _Family Catastrophe_ (家變) is one of the most controversial works in Taiwanese literary history.
 
-*Family Catastrophe* uses a family's disintegration as its main thread, describing modern people's spiritual crisis. The novel was highly innovative in narrative technique, employing stream-of-consciousness, interior monologue, and temporal-spatial jumps to break traditional novels' linear narrative structure. Even more remarkable was Wang Wenxing's language experimentation: he boldly mixed spoken and written language, Chinese and dialects, classical and modern elements, creating a unique literary language.
+_Family Catastrophe_ uses a family's disintegration as its main thread, describing modern people's spiritual crisis. The novel was highly innovative in narrative technique, employing stream-of-consciousness, interior monologue, and temporal-spatial jumps to break traditional novels' linear narrative structure. Even more remarkable was Wang Wenxing's language experimentation: he boldly mixed spoken and written language, Chinese and dialects, classical and modern elements, creating a unique literary language.
 
 This experimental writing sparked intense controversy at the time. Supporters considered it a major breakthrough in literary language, while critics viewed it as blasphemy against Chinese. Regardless, Wang Wenxing's experiments opened new possibilities for linguistic innovation in Taiwanese literature.
 
@@ -89,7 +89,7 @@ The debate's catalyst was Yu Guangzhong's essay "The Wolf Is Coming," criticizin
 
 Huang Chunming was the most important representative writer of nativist literature. His novels, set in Taiwan's rural areas and small towns, depicted grassroots people's life changes under modernization's impact, earning widespread reader appreciation.
 
-Huang Chunming's representative work *The Days of Watching the Sea* describes a prostitute's tragic fate, revealing the conflict between traditional morality and real life. *The Taste of Apples* satirizes xenophilic social attitudes through a traffic accident incident. These works' language is vivid and lively, full of Taiwanese flavor, embodying rich local characteristics.
+Huang Chunming's representative work _The Days of Watching the Sea_ describes a prostitute's tragic fate, revealing the conflict between traditional morality and real life. _The Taste of Apples_ satirizes xenophilic social attitudes through a traffic accident incident. These works' language is vivid and lively, full of Taiwanese flavor, embodying rich local characteristics.
 
 Huang Chunming's creative characteristic was integrating serious social criticism into humorous and satirical narration. He skillfully utilized the rhythm and feel of Taiwanese, giving his works strong local characteristics and folk coloring. Simultaneously, his works possessed profound humanistic concern—sympathy for disadvantaged groups and criticism of social injustice formed the ideological core of his works.
 
@@ -97,7 +97,7 @@ Huang Chunming's creative characteristic was integrating serious social criticis
 
 Wang Zhenhe was rather unique among nativist literature writers. His works also focused on Taiwan's rural society but employed more absurd and satirical techniques.
 
-Wang Zhenhe's representative work *A Cart Full of Dowry* (嫁妝一牛車) describes a peasant girl's marriage experience, deeply satirizing traditional society's outdated concepts through exaggerated and absurd plot design. *Shangri-la* depicts a small town's transformation, reflecting various problems in the modernization process.
+Wang Zhenhe's representative work _A Cart Full of Dowry_ (嫁妝一牛車) describes a peasant girl's marriage experience, deeply satirizing traditional society's outdated concepts through exaggerated and absurd plot design. _Shangri-la_ depicts a small town's transformation, reflecting various problems in the modernization process.
 
 Wang Zhenhe's writing style is called "black humor." He skillfully employed irony, jest, and absurdity to present serious social problems in light and humorous ways. This style both increased works' readability and deepened their critical force.
 
@@ -119,15 +119,15 @@ The rise of women's literature had profound social backgrounds. With education's
 
 ### Li Ang: Pioneer of Female Subjective Consciousness
 
-Li Ang was one of the most important representatives of Taiwanese women's literature. Her novel *The Butcher's Wife* (殺夫) is a milestone work of women's literature, holding an important position in Taiwanese literary history.
+Li Ang was one of the most important representatives of Taiwanese women's literature. Her novel _The Butcher's Wife_ (殺夫) is a milestone work of women's literature, holding an important position in Taiwanese literary history.
 
-*The Butcher's Wife* tells the story of a rural woman who kills her husband. With bold themes and sharp writing, the novel deeply exposes traditional patriarchal society's oppression of women, expressing women's strong desire for liberation. The work caused huge controversy at the time but also gained widespread attention and praise.
+_The Butcher's Wife_ tells the story of a rural woman who kills her husband. With bold themes and sharp writing, the novel deeply exposes traditional patriarchal society's oppression of women, expressing women's strong desire for liberation. The work caused huge controversy at the time but also gained widespread attention and praise.
 
 Li Ang's creative characteristic is combining women's private experiences with social and political issues. Her works often start from women's perspectives, focusing on gender, power, desire, and other issues, demonstrating women's subjective consciousness and rebellious spirit.
 
 ### Shi Shuqing: Historical Writing and Female Perspective
 
-Shi Shuqing is another important female writer. Her "Taiwan Trilogy" (*Passing Through Luozhou*, *Dust Before the Wind*, *Three Generations*) uses grand narrative structure to rewrite Taiwan's history, representing important works in Taiwanese literary history.
+Shi Shuqing is another important female writer. Her "Taiwan Trilogy" (_Passing Through Luozhou_, _Dust Before the Wind_, _Three Generations_) uses grand narrative structure to rewrite Taiwan's history, representing important works in Taiwanese literary history.
 
 Shi Shuqing's characteristic is introducing female perspectives into historical writing. In her works, history is no longer a stage for male heroes but a complex narrative containing women's experiences. She focuses on women's fate during historical changes, using women's stories to reunderstand history's meaning.
 
@@ -135,7 +135,7 @@ Simultaneously, Shi Shuqing is also a writer with unique language style. Her pro
 
 ### Other Important Female Writers
 
-Besides Li Ang and Shi Shuqing, this period also saw many other important female writers. Liao Huiying's *Rape Blossoms* focused on Taiwanese women's marriage and family issues; Xiao Sa's *Xia Fei's House* described mainlander women's life experiences; Su Weizhen's *Island of Silence* explored political trauma's impact on individuals.
+Besides Li Ang and Shi Shuqing, this period also saw many other important female writers. Liao Huiying's _Rape Blossoms_ focused on Taiwanese women's marriage and family issues; Xiao Sa's _Xia Fei's House_ described mainlander women's life experiences; Su Weizhen's _Island of Silence_ explored political trauma's impact on individuals.
 
 Although these writers had different styles, they all embodied women's literature's basic characteristics: focusing on women's experiences, questioning male-centered value systems, pursuing gender equality and women's liberation. Their works enriched Taiwanese literature's content while promoting Taiwan society's gender consciousness enlightenment.
 
@@ -171,8 +171,9 @@ As poet Yu Guangzhong said: "Taiwan's most beautiful aspect is human feeling," a
 
 ---
 
-*References:*
-- Chen Fangming, [*A New History of Taiwanese Literature*](https://www.books.com.tw/products/0010910368)
-- Ying Fenghuang, *Postwar Taiwanese Modernist Literature*
-- Lü Zhenghui, [*Postwar Taiwanese Literary Experience*](https://www.books.com.tw/products/0010086010)
-- Fan Mingru, *Criticism of Taiwanese Women's Literature*
+_References:_
+
+- Chen Fangming, [_A New History of Taiwanese Literature_](https://www.books.com.tw/products/0010910368)
+- Ying Fenghuang, _Postwar Taiwanese Modernist Literature_
+- Lü Zhenghui, [_Postwar Taiwanese Literary Experience_](https://www.books.com.tw/products/0010086010)
+- Fan Mingru, _Criticism of Taiwanese Women's Literature_

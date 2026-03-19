@@ -1,8 +1,8 @@
 ---
-title: "Music"
+title: 'Music'
 date: 2026-03-17
 tags: [音樂, Hub]
-description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華語音樂界的葛萊美獎。從周杰倫、蔡依林、五月天等巨星到草東沒有派對、告五人等新世代樂團，台灣音樂場景展現從主流到獨立的完整生態。豐富的Live House文化與多元音樂節，讓台灣成為亞洲音樂創作的活力重鎮。"
+description: '台灣是華語流行音樂的重要基地，金曲獎被譽為華語音樂界的葛萊美獎。從周杰倫、蔡依林、五月天等巨星到草東沒有派對、告五人等新世代樂團，台灣音樂場景展現從主流到獨立的完整生態。豐富的Live House文化與多元音樂節，讓台灣成為亞洲音樂創作的活力重鎮。'
 ---
 
 # 台灣音樂 🎵
@@ -10,7 +10,7 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 如果用聲音來描述台灣，那一定是一首融合了古典與搖滾、傳統與電子、抒情與嘶吼的複調樂章。從淡水河邊的民歌吟唱到小巨蛋的萬人合聲，從地下室Live House的實驗噪音到金曲獎台上的華麗演出，台灣音樂場景展現了驚人的創造活力。這裡不僅是華語流行音樂的重鎮，更是亞洲音樂文化的創新基地。
 
 ![五月天演唱會](/images/wiki/ddb5b26935ba.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0_
 
 ## 黃金世代的榮光歲月
 
@@ -23,22 +23,27 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 ## 核心主題
 
 ### 華語流行音樂重鎮 - 黃金世代的輝煌成就
+
 2000 年代是台灣流行音樂的黃金時期，[周杰倫](/people/周杰倫)以中國風 R&B 開創新風格，蔡依林成為亞洲流行天后，五月天則代表華語搖滾的巔峰。這些歌手不僅在台灣獲得成功，更席捲整個亞洲市場，奠定台灣在華語音樂界的領導地位。
 
 📖 延伸閱讀：[流行音樂與金曲獎](/music/流行音樂與金曲獎) ｜ [周杰倫](/people/周杰倫)
 
 ### 金曲獎影響力 - 華語音樂界最高榮譽
+
 自 1990 年創辦，[金曲獎](/music/流行音樂與金曲獎)已成為華語音樂界最重要的獎項，被譽為「華語音樂界的葛萊美」。每年金曲獎不僅表彰優秀音樂作品，更引領華語音樂的發展趨勢，從傳統流行到[獨立創作](/music/台灣獨立音樂場景演變)，涵蓋各種音樂風格。
 
 📖 延伸閱讀：[流行音樂與金曲獎](/music/流行音樂與金曲獎)
 
 ### 獨立音樂新浪潮 - 創作能量的多元爆發
+
 近年來台灣獨立音樂蓬勃發展，草東沒有派對以《醜奴兒》專輯橫掃金曲獎，告五人、茄子蛋、理想混蛋等樂團展現強大創作能量。這些樂團不依賴主流唱片公司，透過社群媒體與串流平台建立粉絲群體，形成新的音樂生態。
 
 ### Live House 文化 - 音樂創作的培育基地
+
 河岸留言（耕耘 19 年的台北 Live House 元老）、The Wall、Legacy 等場地成為獨立音樂的重要據點。這些場所提供音樂人演出平台，也培養了台灣獨特的現場音樂文化，許多知名歌手都是從 Live House 起步。
 
 ### 音樂節蓬勃發展 - 多元音樂場景的展現
+
 從貢寮海洋音樂祭、大港開唱到春天吶喊，台灣音樂節文化日漸成熟。結合觀光與文化的音樂節活動，成為推廣台灣音樂的重要平台，也為獨立音樂人提供展演機會。
 
 ## 驚人事實
@@ -50,7 +55,7 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 - 🔢 **串流音樂影響**：台灣歌手在 Spotify 亞洲華語榜單占比超過 60%，周杰倫、五月天、蔡依林等歌手的歌曲累積播放量達數十億次
 
 ![台灣音樂場景](/images/wiki/f80cd70cdca2.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW_台灣_Taiwan_台北_Taipei_信義區_Xinyi_District_松智路_Songzhi_Road_松壽路_Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
+*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TW*台灣*Taiwan*台北*Taipei*信義區*Xinyi_District*松智路*Songzhi_Road*松壽路*Songshou_Road_ATT_4_FUN_mall_building_facade_June_2019_IX2_01.jpg) | CC BY-SA 3.0*
 
 ## 延伸閱讀
 
@@ -67,4 +72,4 @@ description: "台灣是華語流行音樂的重要基地，金曲獎被譽為華
 
 ---
 
-*台灣音樂的魅力，在於融合傳統與現代，展現小島大聲量的文化創造力。*
+_台灣音樂的魅力，在於融合傳統與現代，展現小島大聲量的文化創造力。_

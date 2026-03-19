@@ -1,9 +1,9 @@
 ---
-title: "Founder — Che-Yu Wu"
-description: "New media artist, MonoLab founder, and Taiwan.md initiator"
+title: 'Founder — Che-Yu Wu'
+description: 'New media artist, MonoLab founder, and Taiwan.md initiator'
 date: 2026-03-17
-tags: ["about", "founder", "artist"]
-author: "Taiwan.md"
+tags: ['about', 'founder', 'artist']
+author: 'Taiwan.md'
 readingTime: 3
 featured: false
 ---
@@ -17,6 +17,7 @@ featured: false
 ## International Art Experience
 
 His works have been exhibited at major international art platforms:
+
 - **Venice Biennale**
 - **Art Basel Miami**
 - **Cannes Immersive Market**
@@ -34,6 +35,7 @@ His works have been exhibited at major international art platforms:
 ## Educational Impact
 
 Che-Yu is not only a creator but also a knowledge shairer:
+
 - **Hahow Online Courses**: Over 22,000 students
 - **Former Lecturer at National Yang Ming Chiao Tung University**: Generative Interactive Art and System Design
 - **TouchDesigner Workshop**: Promoting interactive art technology
@@ -63,4 +65,4 @@ So Taiwan.md was born.
 
 ---
 
-*Che-Yu believes the best cultural promotion isn't propaganda, but authentic sharing. Taiwan.md is the beginning of such authentic sharing.*
+_Che-Yu believes the best cultural promotion isn't propaganda, but authentic sharing. Taiwan.md is the beginning of such authentic sharing._

@@ -1,11 +1,19 @@
 ---
-title: "Taiwan Tea Ceremony and Aesthetic Living"
-description: "From gongfu tea to tea space aesthetics, exploring how Taiwan fuses Eastern tea culture with local aesthetic living through innovation"
+title: 'Taiwan Tea Ceremony and Aesthetic Living'
+description: 'From gongfu tea to tea space aesthetics, exploring how Taiwan fuses Eastern tea culture with local aesthetic living through innovation'
 date: 2026-03-18
-category: "Culture"
-tags: ["Tea Culture", "Tea Ceremony", "Aesthetic Living", "Craft Aesthetics", "Wabi-Sabi", "Slow Living Culture"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'Tea Culture',
+    'Tea Ceremony',
+    'Aesthetic Living',
+    'Craft Aesthetics',
+    'Wabi-Sabi',
+    'Slow Living Culture',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 13
 featured: true
 ---
@@ -57,11 +65,13 @@ Each tea carries memories of its terroir and reflects the accumulated wisdom of 
 Taiwan's gongfu tea culture originated from Fujian but developed unique forms on Taiwanese soil.
 
 **Essence of Traditional Gongfu Tea**:
+
 - **Vessel Coordination**: Harmonious combinations of teapots, cups, tea trays, and tea washers
 - **Brewing Techniques**: Precise control of water temperature, steeping time, and tea-to-water ratios
 - **Drinking Etiquette**: Cultural rituals of serving tea, tasting tea, and discussing tea
 
 **Taiwanese Innovations**:
+
 - **Tea Space Aesthetics**: Elevating tea vessel coordination to visual art
 - **Space Design**: Environmental creation in tea houses and tea rooms
 - **Vessel Innovation**: Contemporary tea wares created by modern ceramic artists
@@ -105,6 +115,7 @@ Taiwan's tea space aesthetics is a unique creation combining Chinese literati ae
 Japanese wabi-sabi aesthetics deeply influence Taiwan's aesthetic living, particularly evident in tea culture.
 
 **Core Concepts of Wabi-Sabi**:
+
 - **Impermanence**: Accepting change and imperfection in things
 - **Simplicity**: Pursuing simple, natural beauty
 - **Tranquility**: Finding inner stability in calmness
@@ -223,12 +234,14 @@ Many tea houses display calligraphy works, and tea people also enjoy practicing 
 Tea space flower arrangement is an important component of Taiwan tea arts. Unlike gorgeous Western flower arrangements, tea space flower arrangement pursues naturalness, simplicity, and artistic conception.
 
 **Seasonal Flowers**:
+
 - Spring: Peach blossoms, cherry blossoms, rapeseed flowers
 - Summer: Lotus, jasmine, gardenia
 - Autumn: Chrysanthemums, maple leaves, silvergrass
 - Winter: Plum blossoms, camellia, wintersweet
 
 **Flower Arrangement Principles**:
+
 - Conform to the overall tea space style
 - Elegant colors that don't overshadow tea wares
 - Simple forms embodying natural beauty

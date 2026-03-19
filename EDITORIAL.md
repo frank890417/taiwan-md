@@ -1,6 +1,6 @@
 # 編輯方針 | Editorial Guidelines
 
-*Taiwan.md 內容治理與編輯原則*
+_Taiwan.md 內容治理與編輯原則_
 
 ---
 
@@ -87,9 +87,9 @@ Taiwan.md 以**「中華民國（台灣）」的現行治理事實**為基礎，
    - 呈現事實，不做價值判斷
 
 3. **文風要求：去除 AI 塑膠味 (No AI Slop)**
-   
+
    Taiwan.md 的文章應該讀起來像「一個懂這件事的朋友在跟你說話」，而不是「一篇 AI 生成的百科全書」。
-   
+
    **❌ 禁用句式清單：**
    - 「不是 X，而是 Y」「不僅 X，更是 Y」「不只是 X，也是 Y」
    - 「值得一提的是」「令人驚嘆的是」「引人注目的是」
@@ -98,7 +98,7 @@ Taiwan.md 以**「中華民國（台灣）」的現行治理事實**為基礎，
    - 「在這片土地上」「在歷史的長河中」
    - 每段都以轉折詞開頭（然而、不過、事實上、值得注意的是）
    - 結尾固定公式：「未來，台灣將繼續...」「相信在...的努力下」
-   
+
    **✅ 好文風的標準：**
    - 用具體事實和數字取代空泛形容
    - 用故事和案例取代說教
@@ -106,17 +106,17 @@ Taiwan.md 以**「中華民國（台灣）」的現行治理事實**為基礎，
    - 主動語態 > 被動語態
    - 口語化但不隨便（想像你在跟外國朋友解釋台灣）
    - 允許有觀點，但要有根據
-   
+
    **範例對比：**
    - ❌「台灣的夜市文化不僅是美食的殿堂，更是展現台灣人熱情好客精神的重要場域。」
    - ✅「全台灣有超過 300 個夜市。晚上十點，士林夜市的人潮密度大概跟早上八點的捷運差不多。」
 
-3. **格式規範 (Format Compliance)**
+4. **格式規範 (Format Compliance)**
    - 符合三層深度結構：概覽 → 理解 → 深度
    - 遵循 Markdown 格式標準
    - 中英雙語對照完整
 
-4. **來源標註 (Source Attribution)**
+5. **來源標註 (Source Attribution)**
    - 每項事實都有明確來源
    - 來源連結有效且可存取
    - 引用格式統一標準
@@ -184,6 +184,7 @@ Every article MUST include source citations. Factual claims without sources are 
 ### 數據標注 | Data Attribution
 
 涉及具體數字（人口、GDP、市佔率等）時，必須標注：
+
 - 資料來源機構
 - 資料年份
 - 原始連結（如有）
@@ -224,6 +225,7 @@ Every article MUST include source citations. Factual claims without sources are 
 - 貢獻者行為規範的執行
 
 但所有決定都會：
+
 - 基於本編輯方針進行
 - 經過透明的討論過程
 - 歡迎社群監督與建議
@@ -232,7 +234,7 @@ Every article MUST include source citations. Factual claims without sources are 
 
 # Editorial Guidelines (English Version)
 
-*Content governance and editorial principles for Taiwan.md*
+_Content governance and editorial principles for Taiwan.md_
 
 ---
 
@@ -353,10 +355,11 @@ Taiwan.md is based on the **current governance reality of the "Republic of China
 - Enforcement of contributor behavior guidelines
 
 However, all decisions will:
+
 - Be based on these editorial guidelines
 - Go through transparent discussion processes
 - Welcome community oversight and suggestions
 
 ---
 
-*This document is subject to community discussion and periodic updates to ensure it serves the project's mission of providing accurate, balanced, and comprehensive information about Taiwan.*
+_This document is subject to community discussion and periodic updates to ensure it serves the project's mission of providing accurate, balanced, and comprehensive information about Taiwan._

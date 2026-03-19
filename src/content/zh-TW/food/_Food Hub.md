@@ -1,8 +1,8 @@
 ---
-title: "Food"
+title: 'Food'
 date: 2026-03-17
 tags: [美食, Hub]
-description: "台灣美食不只是味覺享受，更是文化認同的重要載體。從一碗牛肉麵的湯頭，可以品嚐到外省移民的鄉愁；從一顆肉圓的製作工法，可以看見閩南飲食文化的傳承。台灣美食的發展軌跡，反映了族群融合、經濟發展、生活方式變遷的完整歷程。"
+description: '台灣美食不只是味覺享受，更是文化認同的重要載體。從一碗牛肉麵的湯頭，可以品嚐到外省移民的鄉愁；從一顆肉圓的製作工法，可以看見閩南飲食文化的傳承。台灣美食的發展軌跡，反映了族群融合、經濟發展、生活方式變遷的完整歷程。'
 ---
 
 # 台灣美食 🍜
@@ -10,7 +10,7 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 在台灣，每一口食物都是一個故事，每一道菜都是一段歷史。從夜市攤販的蒸籠熱氣到米其林餐廳的精緻擺盤，台灣美食展現了這座島嶼最溫暖的一面。它不僅餵養了人們的身體，更滋潤了人們的靈魂，成為連結記憶與情感的橋樑。
 
 ![台灣珍珠奶茶](/images/wiki/taiwan-traditional-architecture.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | 攝影者：Nandaro*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Variations_of_Taiwanese_tapioca_pearls.JPG) | CC BY-SA 3.0 | 攝影者：Nandaro_
 
 ## 味覺的文化地圖
 
@@ -55,7 +55,7 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 美食觀光每年為台灣創造超過一百五十億台幣的觀光收益，百分之七十五的國際遊客將品嚐美食列為來台的主要目的。當外國遊客排隊等候一碗牛肉麵時，當他們為了喝到正宗珍珠奶茶而專程來台時，我們看到的不僅是美食的魅力，更是文化的力量。
 
 ![台灣牛肉麵](/images/wiki/4eea1b8cf86b.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg) | CC BY-SA 3.0_
 
 ## 延伸閱讀
 
@@ -72,4 +72,4 @@ description: "台灣美食不只是味覺享受，更是文化認同的重要載
 
 ---
 
-*台灣美食的魅力，在於融合中的創新，傳統中的活力。*
+_台灣美食的魅力，在於融合中的創新，傳統中的活力。_

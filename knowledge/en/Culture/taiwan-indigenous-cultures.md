@@ -1,11 +1,19 @@
 ---
-title: "Taiwan Indigenous Cultures"
+title: 'Taiwan Indigenous Cultures'
 description: "From sixteen recognized tribes to contemporary artistic revival, exploring the profound heritage and modern transformation of Taiwan's indigenous cultures"
 date: 2026-03-18
-category: "Culture"
-tags: ["Indigenous", "Ethnic Culture", "Traditional Arts", "Name Rectification Movement", "Contemporary Creation", "Language Revitalization"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'Indigenous',
+    'Ethnic Culture',
+    'Traditional Arts',
+    'Name Rectification Movement',
+    'Contemporary Creation',
+    'Language Revitalization',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 15
 featured: true
 ---
@@ -105,12 +113,14 @@ It's worth noting that indigenous languages far exceed "sixteen types." Accordin
 **Severity of the Crisis**: According to statistics, fluent speakers of indigenous languages are mainly concentrated in age groups over 55. Among younger generations, the number who can speak tribal languages fluently has dropped sharply. Some languages like Thao and Kavalan have fewer than a hundred native speakers.
 
 **Revitalization Efforts**:
+
 - **Education Systems**: Tribal language courses have entered formal education, from kindergarten to university.
 - **Media Promotion**: Indigenous TV stations produce tribal language programs; online platforms provide tribal language learning resources.
 - **Writing System Development**: Establishing writing systems for oral tribal cultures, compiling dictionaries and teaching materials.
 - **Family Transmission**: Encouraging tribal language conversations within families, establishing "tribal language family" certification.
 
 **Innovative Methods**:
+
 - **Digital Technology**: Tribal language learning apps, online dictionaries, voice recognition systems.
 - **Popular Culture**: Tribal language rap, tribal language rock music, tribal language films.
 - **Community Building**: Tribal language cafes, tribal language reading groups, tribal language tours.
@@ -124,11 +134,13 @@ It's worth noting that indigenous languages far exceed "sixteen types." Accordin
 In 1984, a group of indigenous intellectuals initiated the "Indigenous Peoples Name Rectification Movement" in Taipei, demanding that the official designation be changed from "mountain compatriots" to "indigenous peoples." This was not merely a name change but a declaration of subjectivity.
 
 **Significance of Name Rectification**:
+
 - **Eliminating Discrimination**: "Mountain compatriots" implied backwardness and primitiveness; "indigenous peoples" emphasized historical status of first arrival.
 - **Subject Identity**: Transforming from passive labels to active self-definition.
 - **Collective Rights**: The concept of "peoples" emphasized collective rights and possibilities for autonomy.
 
 **Movement Achievements**:
+
 - Constitutional amendments officially used the term "indigenous peoples" in 1994.
 - Constitutional amendments in 1997 explicitly guaranteed indigenous peoples' rights.
 - The Indigenous Peoples Basic Law was enacted in 2005.
@@ -152,6 +164,7 @@ In recent years, Pingpu groups have actively promoted name rectification movemen
 
 **Cultural Revitalization:**
 Despite facing severe language and cultural loss, some Pingpu groups are actively conducting cultural revitalization:
+
 - Siraya's "Night Ceremonies" (such as Jibei Night Ceremony, Toushe Night Ceremony) continue transmission
 - Pazeh groups work to revitalize Pazeh language, a case study in critically endangered language revitalization
 - Various Pingpu groups actively collect oral histories and cultural assets
@@ -165,21 +178,25 @@ The experience of Pingpu groups reminds us that the scope of indigenous peoples 
 In recent years, Taiwan's indigenous artists have performed brilliantly on international stages, demonstrating perfect fusion of traditional culture with contemporary creation.
 
 **Visual Arts**:
+
 - **Sakuliu Pawavavalung** (Paiwan): Reinterprets Paiwan totems with modern sculpture techniques; works are collected by museums in multiple countries.
 - **Etan Pavavalung** (Paiwan): Following his father Sakuliu's artistic path, creates installations fusing tradition with contemporary.
 - **Rahic Talif** (Ami): Creates large installation art using driftwood and marine waste, exploring relationships between humans and nature, tribes and modern society.
 
 **Performing Arts**:
+
 - **Cloud Gate Dance Theatre**: Lin Hwai-min's choreographed "Rice" incorporates indigenous music and dance elements.
 - **Legend Lin Dance Theatre**: A performance group specializing in indigenous traditional music and dance, widely acclaimed internationally.
 - **Bulareyaung Dance Company**: Founded by Paiwan choreographer Bulareyaung Pagarlava, winning multiple international awards.
 
 **Musical Creation**:
+
 - **Difang Duana** (Ami): With a heavenly voice interpreting indigenous ancient songs, multiple Golden Melody Award winner, hailed as "Indigenous Diva."
 - **Suming** (Ami): Combines Ami language with modern rock, creating unique "indigenous rock."
 - **Sangpuy** (Puyuma): Creates modern folk with guitar and ancient songs, distinctive in Chinese music circles.
 
 **Literary Creation**:
+
 - **Ahronglong Sakinu** (Paiwan): Prose works describing relationships between indigenous peoples and nature.
 - **Syaman Rapongan** (Tao): Representative writer of marine literature.
 - **Walis Nokan** (Atayal): Poet and novelist exploring indigenous cultural identity.
@@ -193,22 +210,26 @@ Common characteristics of these artists: they neither abandon tradition nor reje
 In recent years, indigenous tribal tourism has become a new highlight of Taiwan tourism. But this also brings the dual challenges and opportunities.
 
 **Deep Cultural Experience**:
+
 - Participating in ritual ceremonies (within appropriate scope)
 - Learning traditional crafts (weaving, carving, pottery)
 - Tasting traditional cuisine (maqaw, bird's nest fern, millet wine)
 - Listening to ancient legends and mythological stories
 
 **Ecological Wisdom Learning**:
+
 - Understanding indigenous plant knowledge
 - Learning traditional sustainable living methods
 - Experiencing philosophy of harmonious coexistence with nature
 
 **Challenges Faced**:
+
 - How to avoid cultural commodification?
 - How to balance tourism income with cultural preservation?
 - How to ensure tribal residents are subjects of tourism development?
 
 **Successful Cases**:
+
 - Hualien Taroko's "Weaving Taro" cultural workshop
 - Pingtung Paiwan's "Sandimen Art Village"
 - Taitung Bunun's "Luanshan Forest Museum"

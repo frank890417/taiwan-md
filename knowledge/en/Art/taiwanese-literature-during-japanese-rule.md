@@ -1,10 +1,17 @@
 ---
-title: "Taiwanese Literature During Japanese Rule"
-description: "The complex evolution of Taiwanese literature under Japanese colonial rule (1895-1945), from resistance poetry to modernist experimentation"
-category: "Art"
-tags: ["literature", "Japanese rule", "colonial literature", "modernism", "resistance"]
+title: 'Taiwanese Literature During Japanese Rule'
+description: 'The complex evolution of Taiwanese literature under Japanese colonial rule (1895-1945), from resistance poetry to modernist experimentation'
+category: 'Art'
+tags:
+  [
+    'literature',
+    'Japanese rule',
+    'colonial literature',
+    'modernism',
+    'resistance',
+  ]
 date: 2026-03-19
-author: "Taiwan.md"
+author: 'Taiwan.md'
 readingTime: 18
 featured: true
 ---
@@ -31,17 +38,17 @@ However, many literati chose to "cross over" and return to mainland China. This 
 
 ### Zhang Wojun: Pioneer of the New Literature Movement
 
-In 1924, an article titled "A Letter to Taiwanese Youth" appeared in the *Taiwan People's News*, written by Zhang Wojun, who had recently returned from Beijing. This article fiercely criticized Taiwan's traditional poetry as "decadent and unbearable," advocating for the new literature promoted by Hu Shi and others, and calling for creation in vernacular Chinese.
+In 1924, an article titled "A Letter to Taiwanese Youth" appeared in the _Taiwan People's News_, written by Zhang Wojun, who had recently returned from Beijing. This article fiercely criticized Taiwan's traditional poetry as "decadent and unbearable," advocating for the new literature promoted by Hu Shi and others, and calling for creation in vernacular Chinese.
 
 Zhang Wojun's views triggered fierce controversy. Traditional literati led by Lian Yatang firmly opposed, arguing that vernacular Chinese was "shallow and tasteless" and damaged the depth of Chinese culture. The new literature camp led by Zhang Wojun believed that only vernacular Chinese could express modern thoughts and feelings, making literature truly accessible to the people.
 
 This debate's significance transcended literature itself. It was fundamentally a discussion about Taiwan's cultural development direction: Should Taiwan preserve tradition or embrace modernity? Should it maintain elite culture or move toward popular culture? Should it stick to "national language" (Chinese) or accept "national language" (Japanese)?
 
-### *Taiwan People's News*: Cradle of New Literature
+### _Taiwan People's News_: Cradle of New Literature
 
-The *Taiwan People's News*, founded in 1925, became an important bastion for the new literature movement. This newspaper not only published political news but, more importantly, provided a platform for Taiwan's new literature. Many important writers published their debut works in this newspaper.
+The _Taiwan People's News_, founded in 1925, became an important bastion for the new literature movement. This newspaper not only published political news but, more importantly, provided a platform for Taiwan's new literature. Many important writers published their debut works in this newspaper.
 
-The literary pages of *Taiwan People's News* displayed obvious characteristics of the era: on one hand, it published new poetry, novels, and essays written in vernacular Chinese; on the other hand, it preserved space for traditional poetry, reflecting the transitional nature of old and new coexisting. More importantly, this newspaper began to focus on Taiwan's local social realities, laying the foundation for the rise of realist literature.
+The literary pages of _Taiwan People's News_ displayed obvious characteristics of the era: on one hand, it published new poetry, novels, and essays written in vernacular Chinese; on the other hand, it preserved space for traditional poetry, reflecting the transitional nature of old and new coexisting. More importantly, this newspaper began to focus on Taiwan's local social realities, laying the foundation for the rise of realist literature.
 
 ## Lai He: Father of Taiwan's New Literature
 
@@ -73,13 +80,13 @@ Yang Kui (1906-1985) was an important representative of Taiwan's leftist literat
 
 Yang Kui's representative work "The Paperboy" was Taiwan's first novel with a worker as protagonist. This work depicted the tragic experiences of a newspaper delivery boy, profoundly exposing the injustices of capitalist society. The novel's language was simple yet powerful, with vivid character portrayals, embodying the aesthetic characteristics of proletarian literature.
 
-In 1935, Yang Kui founded *Taiwan New Literature* magazine, Taiwan's first purely literary magazine. The magazine not only published works by local writers but also extensively translated foreign leftist literary works, providing international perspectives for Taiwanese literature.
+In 1935, Yang Kui founded _Taiwan New Literature_ magazine, Taiwan's first purely literary magazine. The magazine not only published works by local writers but also extensively translated foreign leftist literary works, providing international perspectives for Taiwanese literature.
 
-### Zhang Shenqie and *Taiwan Literature and Arts*
+### Zhang Shenqie and _Taiwan Literature and Arts_
 
-In 1934, *Taiwan Literature and Arts* magazine was founded. Initiator Zhang Shenqie proposed an editorial policy of "regardless of ideology, regardless of faction," broadly uniting Taiwan's literary forces. This magazine became one of the most influential literary publications in Taiwan's literary history.
+In 1934, _Taiwan Literature and Arts_ magazine was founded. Initiator Zhang Shenqie proposed an editorial policy of "regardless of ideology, regardless of faction," broadly uniting Taiwan's literary forces. This magazine became one of the most influential literary publications in Taiwan's literary history.
 
-The characteristic of *Taiwan Literature and Arts* was inclusiveness and diversity. It published both leftist writers' works and modernist creations; it featured both Chinese writing and Japanese works; it focused on Taiwan's locality while also looking toward world literature. This open attitude laid the foundation for Taiwan literature's diverse development.
+The characteristic of _Taiwan Literature and Arts_ was inclusiveness and diversity. It published both leftist writers' works and modernist creations; it featured both Chinese writing and Japanese works; it focused on Taiwan's locality while also looking toward world literature. This open attitude laid the foundation for Taiwan literature's diverse development.
 
 ## Literary Struggles During the Imperial Subject Period
 
@@ -99,7 +106,7 @@ Lu Heruo's creation embodied colonial writers' cultural strategy: superficially 
 
 Zhang Wenhuan (1909-1978) was another important Japanese-language literary writer. His novel "Capon" used the story of a castrated rooster to metaphorically represent the fate of Taiwanese people under colonial rule. This use of symbolic technique both avoided political censorship and expressed profound political allegory.
 
-In 1941, Zhang Wenhuan founded *Taiwan Literature* magazine, the most important literary publication during the Imperial Subject period. Though using Japanese, the magazine maintained Taiwan's local literary stance and provided a precious platform for Taiwanese writers.
+In 1941, Zhang Wenhuan founded _Taiwan Literature_ magazine, the most important literary publication during the Imperial Subject period. Though using Japanese, the magazine maintained Taiwan's local literary stance and provided a precious platform for Taiwanese writers.
 
 ## Aesthetic Qualities of Colonial Literature
 
@@ -139,8 +146,9 @@ This period's Taiwanese literature laid a solid foundation for later development
 
 ---
 
-*References:*
-- Ye Shitao, *Outline of Taiwan Literary History*
-- Chen Fangming, *Colonial Taiwan: Historical Essays on Leftist Political Movements*
-- Kawahara Isao, *The Development of Taiwan's New Literature Movement*
-- Nakajima Toshiro (ed.), *Collected Essays on Taiwan Literary History During Japanese Rule*
+_References:_
+
+- Ye Shitao, _Outline of Taiwan Literary History_
+- Chen Fangming, _Colonial Taiwan: Historical Essays on Leftist Political Movements_
+- Kawahara Isao, _The Development of Taiwan's New Literature Movement_
+- Nakajima Toshiro (ed.), _Collected Essays on Taiwan Literary History During Japanese Rule_

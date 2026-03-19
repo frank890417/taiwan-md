@@ -2,17 +2,31 @@
 import Layout from '../../layouts/Layout.astro';
 ---
 
-<Layout title="Taiwan SVG — Open-Source Taiwan Outline" description="Accurate, open-source SVG outlines of Taiwan. AI always draws Taiwan wrong — here's the correct version." lang="en">
+<Layout
+  title="Taiwan SVG — Open-Source Taiwan Outline"
+  description="Accurate, open-source SVG outlines of Taiwan. AI always draws Taiwan wrong — here's the correct version."
+  lang="en"
+>
   <main class="assets-page">
     <section class="hero">
       <h1>Taiwan SVG — Open-Source Taiwan Outline</h1>
-      <p class="subtitle">AI always draws Taiwan wrong. Here's the correct version.</p>
+      <p class="subtitle">
+        AI always draws Taiwan wrong. Here's the correct version.
+      </p>
     </section>
 
     <section class="problem">
       <h2>🤖 Why Does AI Always Draw Taiwan Wrong?</h2>
-      <p>Most AI image generation models lack structured geographic data for Taiwan in their training sets. The result: AI-generated images of Taiwan are often distorted, disproportionate, or confused with other islands.</p>
-      <p>Taiwan.md provides <strong>accurate, open-source, freely usable</strong> SVG outlines of Taiwan — a definitive answer for every scenario that needs to know "what does Taiwan look like."</p>
+      <p>
+        Most AI image generation models lack structured geographic data for
+        Taiwan in their training sets. The result: AI-generated images of Taiwan
+        are often distorted, disproportionate, or confused with other islands.
+      </p>
+      <p>
+        Taiwan.md provides <strong>accurate, open-source, freely usable</strong> SVG
+        outlines of Taiwan — a definitive answer for every scenario that needs to
+        know "what does Taiwan look like."
+      </p>
     </section>
 
     <section class="svg-cards">
@@ -22,56 +36,107 @@ import Layout from '../../layouts/Layout.astro';
         </div>
         <div class="card-info">
           <h3>taiwan-icon.svg</h3>
-          <p class="card-desc">Taiwan Outline Icon — Best for icons, logos, small sizes</p>
+          <p class="card-desc">
+            Taiwan Outline Icon — Best for icons, logos, small sizes
+          </p>
           <p class="card-meta">Wikimedia Commons · ~6 KB · CC</p>
           <div class="card-actions">
-            <a href="/assets/svg/taiwan-icon-wiki.svg" download class="btn btn-primary">Download SVG</a>
-            <button class="btn btn-outline" onclick="copySVG('taiwan-icon-wiki.svg', this)">Copy SVG Code</button>
+            <a
+              href="/assets/svg/taiwan-icon-wiki.svg"
+              download
+              class="btn btn-primary">Download SVG</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-icon-wiki.svg', this)"
+              >Copy SVG Code</button
+            >
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img src="/assets/svg/taiwan-simplemaps.svg" alt="Taiwan SimpleMaps" />
+          <img
+            src="/assets/svg/taiwan-simplemaps.svg"
+            alt="Taiwan SimpleMaps"
+          />
         </div>
         <div class="card-info">
           <h3>taiwan-simplemaps.svg</h3>
-          <p class="card-desc">SimpleMaps — Clean vector outline, great for web embedding</p>
+          <p class="card-desc">
+            SimpleMaps — Clean vector outline, great for web embedding
+          </p>
           <p class="card-meta">SimpleMaps · ~5 KB</p>
           <div class="card-actions">
-            <a href="/assets/svg/taiwan-simplemaps.svg" download class="btn btn-primary">Download SVG</a>
-            <button class="btn btn-outline" onclick="copySVG('taiwan-simplemaps.svg', this)">Copy SVG Code</button>
+            <a
+              href="/assets/svg/taiwan-simplemaps.svg"
+              download
+              class="btn btn-primary">Download SVG</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-simplemaps.svg', this)"
+              >Copy SVG Code</button
+            >
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img src="/assets/svg/taiwan-location-map.svg" alt="Taiwan Location Map" />
+          <img
+            src="/assets/svg/taiwan-location-map.svg"
+            alt="Taiwan Location Map"
+          />
         </div>
         <div class="card-info">
           <h3>taiwan-location-map.svg</h3>
-          <p class="card-desc">Location Map — With coordinates, city markers, ideal for geographic reference</p>
+          <p class="card-desc">
+            Location Map — With coordinates, city markers, ideal for geographic
+            reference
+          </p>
           <p class="card-meta">Wikimedia Commons · ~120 KB · CC</p>
           <div class="card-actions">
-            <a href="/assets/svg/taiwan-location-map.svg" download class="btn btn-primary">Download SVG</a>
-            <button class="btn btn-outline" onclick="copySVG('taiwan-location-map.svg', this)">Copy SVG Code</button>
+            <a
+              href="/assets/svg/taiwan-location-map.svg"
+              download
+              class="btn btn-primary">Download SVG</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-location-map.svg', this)"
+              >Copy SVG Code</button
+            >
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img src="/assets/svg/taiwan-political-division.svg" alt="Taiwan Political Division Map" />
+          <img
+            src="/assets/svg/taiwan-political-division.svg"
+            alt="Taiwan Political Division Map"
+          />
         </div>
         <div class="card-info">
           <h3>taiwan-political-division.svg</h3>
-          <p class="card-desc">Political Division — County/city boundaries, full administrative regions</p>
+          <p class="card-desc">
+            Political Division — County/city boundaries, full administrative
+            regions
+          </p>
           <p class="card-meta">Wikimedia Commons · ~168 KB · CC</p>
           <div class="card-actions">
-            <a href="/assets/svg/taiwan-political-division.svg" download class="btn btn-primary">Download SVG</a>
-            <button class="btn btn-outline" onclick="copySVG('taiwan-political-division.svg', this)">Copy SVG Code</button>
+            <a
+              href="/assets/svg/taiwan-political-division.svg"
+              download
+              class="btn btn-primary">Download SVG</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-political-division.svg', this)"
+              >Copy SVG Code</button
+            >
           </div>
         </div>
       </div>
@@ -93,20 +158,50 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
     <section class="license">
       <h2>📄 License & Attribution</h2>
-      <p>All SVG files are released under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Free to use, modify, and use commercially — just give attribution.</p>
-      
+      <p>
+        All SVG files are released under <a
+          href="https://creativecommons.org/licenses/by-sa/4.0/"
+          target="_blank">CC BY-SA 4.0</a
+        >. Free to use, modify, and use commercially — just give attribution.
+      </p>
+
       <h3>Sources</h3>
       <ul class="source-list">
-        <li><strong>taiwan-icon.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">Wikimedia Commons: Taiwan-icon.svg</a>, Public Domain</li>
-        <li><strong>taiwan-simplemaps.svg</strong> — Source: <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>, Free License (attribution to simplemaps.com required)</li>
-        <li><strong>taiwan-location-map.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a>, CC BY-SA 3.0, Author: NordNordWest</li>
-        <li><strong>taiwan-political-division.svg</strong> — Source: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a>, CC BY-SA 3.0</li>
+        <li>
+          <strong>taiwan-icon.svg</strong> — Source: <a
+            href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg"
+            target="_blank">Wikimedia Commons: Taiwan-icon.svg</a
+          >, Public Domain
+        </li>
+        <li>
+          <strong>taiwan-simplemaps.svg</strong> — Source: <a
+            href="https://simplemaps.com/svg/country/tw"
+            target="_blank">SimpleMaps</a
+          >, Free License (attribution to simplemaps.com required)
+        </li>
+        <li>
+          <strong>taiwan-location-map.svg</strong> — Source: <a
+            href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg"
+            target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a
+          >, CC BY-SA 3.0, Author: NordNordWest
+        </li>
+        <li>
+          <strong>taiwan-political-division.svg</strong> — Source: <a
+            href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg"
+            target="_blank"
+            >Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a
+          >, CC BY-SA 3.0
+        </li>
       </ul>
     </section>
 
     <section class="cta">
       <p>Found an issue or have suggestions?</p>
-      <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn btn-primary">Contribute on GitHub</a>
+      <a
+        href="https://github.com/frank890417/taiwan-md"
+        target="_blank"
+        class="btn btn-primary">Contribute on GitHub</a
+      >
     </section>
   </main>
 
@@ -118,10 +213,10 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         await navigator.clipboard.writeText(text);
         const orig = btn.textContent;
         btn.textContent = '✅ Copied';
-        setTimeout(() => btn.textContent = orig, 2000);
-      } catch(e) {
+        setTimeout(() => (btn.textContent = orig), 2000);
+      } catch (e) {
         btn.textContent = '❌ Failed';
-        setTimeout(() => btn.textContent = 'Copy SVG Code', 2000);
+        setTimeout(() => (btn.textContent = 'Copy SVG Code'), 2000);
       }
     }
   </script>
@@ -169,12 +264,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       display: flex;
       background: #fff;
       border-radius: 16px;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
       overflow: hidden;
       transition: box-shadow 0.2s;
     }
     .card:hover {
-      box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
     }
 
     .card-preview {

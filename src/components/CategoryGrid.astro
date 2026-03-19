@@ -6,25 +6,34 @@ import * as path from 'node:path';
 // Count articles dynamically from knowledge/ directory
 function countArticles(categorySlug: string): number {
   const categoryMap: Record<string, string> = {
-    history: 'History', geography: 'Geography', culture: 'Culture', food: 'Food',
-    art: 'Art', music: 'Music', technology: 'Technology', nature: 'Nature',
-    people: 'People', society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
   const dirName = categoryMap[categorySlug] || categorySlug;
   const dirPath = path.join(process.cwd(), 'knowledge', dirName);
   try {
     const files = fs.readdirSync(dirPath);
-    return files.filter(f => f.endsWith('.md') && !f.startsWith('_')).length;
+    return files.filter((f) => f.endsWith('.md') && !f.startsWith('_')).length;
   } catch {
     return 0;
   }
 }
 
 const categories = [
-  { 
-    name: '歷史', 
-    name_en: 'History', 
-    slug: 'history', 
+  {
+    name: '歷史',
+    name_en: 'History',
+    slug: 'history',
     description: '從史前時代到現代，台灣歷史的完整脈絡',
     icon: '📜',
     color: 'from-amber-500 to-orange-600',
@@ -32,116 +41,116 @@ const categories = [
     cover: '/images/wiki/b5604a9d7dac.jpg',
     cover: '/images/wiki/b5604a9d7dac.jpg',
   },
-  { 
-    name: '地理', 
-    name_en: 'Geography', 
-    slug: 'geography', 
+  {
+    name: '地理',
+    name_en: 'Geography',
+    slug: 'geography',
     description: '台灣的自然環境、地形特色與區域發展',
     icon: '🗺️',
     color: 'from-emerald-500 to-teal-600',
     articles: 0, // replaced
-    cover: '/images/wiki/3a0af3fa1cff.jpg'
+    cover: '/images/wiki/3a0af3fa1cff.jpg',
   },
-  { 
-    name: '文化', 
-    name_en: 'Culture', 
-    slug: 'culture', 
+  {
+    name: '文化',
+    name_en: 'Culture',
+    slug: 'culture',
     description: '多元族群文化的融合與在地特色',
     icon: '🎭',
     color: 'from-purple-500 to-violet-600',
     articles: 0, // replaced
-    cover: '/images/wiki/c3f69037472b.jpg'
+    cover: '/images/wiki/c3f69037472b.jpg',
   },
-  { 
-    name: '美食', 
-    name_en: 'Food', 
-    slug: 'food', 
+  {
+    name: '美食',
+    name_en: 'Food',
+    slug: 'food',
     description: '從夜市小吃到精緻料理的美食文化',
     icon: '🍜',
     color: 'from-rose-500 to-pink-600',
     articles: 0, // replaced
-    cover: '/images/wiki/6a7bed12c2a6.jpg'
+    cover: '/images/wiki/6a7bed12c2a6.jpg',
   },
-  { 
-    name: '藝術', 
-    name_en: 'Art', 
-    slug: 'art', 
+  {
+    name: '藝術',
+    name_en: 'Art',
+    slug: 'art',
     description: '傳統工藝到當代藝術的創作能量',
     icon: '🎨',
     color: 'from-cyan-500 to-blue-600',
     articles: 0, // replaced
-    cover: '/images/wiki/b92068ae92fb.jpg'
+    cover: '/images/wiki/b92068ae92fb.jpg',
   },
-  { 
-    name: '音樂', 
-    name_en: 'Music', 
-    slug: 'music', 
+  {
+    name: '音樂',
+    name_en: 'Music',
+    slug: 'music',
     description: '從原住民音樂到流行音樂的聲音風景',
     icon: '🎵',
     color: 'from-indigo-500 to-purple-600',
     articles: 0, // replaced
-    cover: '/images/wiki/dba145c33d6d.jpg'
+    cover: '/images/wiki/dba145c33d6d.jpg',
   },
-  { 
-    name: '科技', 
-    name_en: 'Technology', 
-    slug: 'technology', 
+  {
+    name: '科技',
+    name_en: 'Technology',
+    slug: 'technology',
     description: '科技島的創新發展與數位轉型',
     icon: '💻',
     color: 'from-slate-500 to-gray-600',
     articles: 0, // replaced
-    cover: '/images/wiki/f43072687967.jpg'
+    cover: '/images/wiki/f43072687967.jpg',
   },
-  { 
-    name: '自然', 
-    name_en: 'Nature', 
-    slug: 'nature', 
+  {
+    name: '自然',
+    name_en: 'Nature',
+    slug: 'nature',
     description: '豐富的生態環境與環保議題',
     icon: '🌿',
     color: 'from-green-500 to-emerald-600',
     articles: 0, // replaced
-    cover: '/images/wiki/51510a8c6a50.jpg'
+    cover: '/images/wiki/51510a8c6a50.jpg',
   },
-  { 
-    name: '人物', 
-    name_en: 'People', 
-    slug: 'people', 
+  {
+    name: '人物',
+    name_en: 'People',
+    slug: 'people',
     description: '影響台灣發展的重要人物與故事',
     icon: '👥',
     color: 'from-orange-500 to-red-600',
     articles: 0, // replaced
-    cover: '/images/wiki/4eadbb02099d.jpg'
+    cover: '/images/wiki/4eadbb02099d.jpg',
   },
-  { 
-    name: '社會', 
-    name_en: 'Society', 
-    slug: 'society', 
+  {
+    name: '社會',
+    name_en: 'Society',
+    slug: 'society',
     description: '社會變遷與當代議題的深度探討',
     icon: '🏛️',
     color: 'from-blue-500 to-indigo-600',
     articles: 0, // replaced
-    cover: '/images/wiki/c18008c3ec52.jpg'
+    cover: '/images/wiki/c18008c3ec52.jpg',
   },
-  { 
-    name: '經濟', 
-    name_en: 'Economy', 
-    slug: 'economy', 
+  {
+    name: '經濟',
+    name_en: 'Economy',
+    slug: 'economy',
     description: '經濟奇蹟的成因與轉型挑戰',
     icon: '📊',
     color: 'from-yellow-500 to-amber-600',
     articles: 0, // replaced
-    cover: '/images/wiki/53ecc1645c5a.jpg'
+    cover: '/images/wiki/53ecc1645c5a.jpg',
   },
-  { 
-    name: '生活', 
-    name_en: 'Lifestyle', 
-    slug: 'lifestyle', 
+  {
+    name: '生活',
+    name_en: 'Lifestyle',
+    slug: 'lifestyle',
     description: '台灣人的生活方式與價值觀',
     icon: '🏠',
     color: 'from-teal-500 to-cyan-600',
     articles: 0, // replaced
-    cover: '/images/wiki/c1fb1b3a4b79.jpg'
-  }
+    cover: '/images/wiki/c1fb1b3a4b79.jpg',
+  },
 ];
 
 interface Props {
@@ -153,34 +162,50 @@ const langPrefix = lang === 'en' ? '/en' : '';
 ---
 
 <section class="category-grid" aria-label="台灣知識分類">
-  {categories.map((category, index) => (
-    <article>
-    <a href={`${langPrefix}/${category.slug}`} class="category-card" data-color={category.color} aria-label={`探索${category.name}主題`}>
-      <div class="category-header">
-        {category.cover ? (
-          <img src={category.cover} alt={`${category.name}主題相關圖片`} class="category-cover" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" />
-        ) : null}
-        <div class="category-icon" style={category.cover ? 'display:none' : ''}>{category.icon}</div>
-        <div class="category-gradient"></div>
-        <div class="article-badge">
-          <span class="article-count">{countArticles(category.slug)}</span>
-          <span class="article-label">篇</span>
-        </div>
-      </div>
-      <div class="category-body">
-        <h3 class="category-name">
-          {lang === 'en' ? category.name_en : category.name}
-        </h3>
-        <p class="category-description">{category.description}</p>
-        <div class="category-footer">
-          <span class="explore-link">
-            探索 →
-          </span>
-        </div>
-      </div>
-    </a>
-    </article>
-  ))}
+  {
+    categories.map((category, index) => (
+      <article>
+        <a
+          href={`${langPrefix}/${category.slug}`}
+          class="category-card"
+          data-color={category.color}
+          aria-label={`探索${category.name}主題`}
+        >
+          <div class="category-header">
+            {category.cover ? (
+              <img
+                src={category.cover}
+                alt={`${category.name}主題相關圖片`}
+                class="category-cover"
+                loading="lazy"
+                onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+              />
+            ) : null}
+            <div
+              class="category-icon"
+              style={category.cover ? 'display:none' : ''}
+            >
+              {category.icon}
+            </div>
+            <div class="category-gradient" />
+            <div class="article-badge">
+              <span class="article-count">{countArticles(category.slug)}</span>
+              <span class="article-label">篇</span>
+            </div>
+          </div>
+          <div class="category-body">
+            <h3 class="category-name">
+              {lang === 'en' ? category.name_en : category.name}
+            </h3>
+            <p class="category-description">{category.description}</p>
+            <div class="category-footer">
+              <span class="explore-link">探索 →</span>
+            </div>
+          </div>
+        </a>
+      </article>
+    ))
+  }
 </section>
 
 <style>
@@ -192,14 +217,17 @@ const langPrefix = lang === 'en' ? '/en' : '';
     max-width: var(--container-wide);
     padding: 0;
   }
-  
+
   .category-card {
     background: rgba(255, 255, 255, 0.92);
     border: 1px solid rgba(226, 232, 240, 0.9);
     border-radius: 24px;
     text-decoration: none;
     color: inherit;
-    transition: transform 0.28s ease, box-shadow 0.28s ease, border-color 0.28s ease;
+    transition:
+      transform 0.28s ease,
+      box-shadow 0.28s ease,
+      border-color 0.28s ease;
     box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
     overflow: hidden;
     position: relative;
@@ -208,25 +236,25 @@ const langPrefix = lang === 'en' ? '/en' : '';
     min-height: 292px;
     backdrop-filter: blur(10px);
   }
-  
+
   .category-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 20px 45px rgba(15, 23, 42, 0.1);
     border-color: rgba(148, 163, 184, 0.4);
   }
-  
+
   .category-card:hover .category-gradient {
     opacity: 0.2;
   }
-  
+
   .category-card:hover .category-icon {
     transform: scale(1.04);
   }
-  
+
   .category-card:hover .explore-link {
     color: #1d4ed8;
   }
-  
+
   .category-header {
     position: relative;
     height: 136px;
@@ -236,7 +264,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     overflow: hidden;
     flex-shrink: 0;
   }
-  
+
   .category-cover {
     width: 100%;
     height: 100%;
@@ -256,7 +284,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     opacity: 0.12;
     transition: opacity 0.4s ease;
   }
-  
+
   /* 文章數量 badge */
   .article-badge {
     position: absolute;
@@ -275,62 +303,65 @@ const langPrefix = lang === 'en' ? '/en' : '';
     box-shadow: 0 10px 24px rgba(15, 23, 42, 0.08);
     border: 1px solid rgba(255, 255, 255, 0.3);
   }
-  
+
   .article-count {
     color: #dc2626;
     font-weight: 700;
     font-size: 0.9rem;
   }
-  
+
   /* Color gradients for each category */
-  .category-card[data-color="from-amber-500 to-orange-600"] .category-gradient {
+  .category-card[data-color='from-amber-500 to-orange-600'] .category-gradient {
     background: linear-gradient(135deg, #f59e0b, #ea580c);
   }
-  
-  .category-card[data-color="from-emerald-500 to-teal-600"] .category-gradient {
+
+  .category-card[data-color='from-emerald-500 to-teal-600'] .category-gradient {
     background: linear-gradient(135deg, #10b981, #0d9488);
   }
-  
-  .category-card[data-color="from-purple-500 to-violet-600"] .category-gradient {
+
+  .category-card[data-color='from-purple-500 to-violet-600']
+    .category-gradient {
     background: linear-gradient(135deg, #8b5cf6, #7c3aed);
   }
-  
-  .category-card[data-color="from-rose-500 to-pink-600"] .category-gradient {
+
+  .category-card[data-color='from-rose-500 to-pink-600'] .category-gradient {
     background: linear-gradient(135deg, #f43f5e, #db2777);
   }
-  
-  .category-card[data-color="from-cyan-500 to-blue-600"] .category-gradient {
+
+  .category-card[data-color='from-cyan-500 to-blue-600'] .category-gradient {
     background: linear-gradient(135deg, #06b6d4, #2563eb);
   }
-  
-  .category-card[data-color="from-indigo-500 to-purple-600"] .category-gradient {
+
+  .category-card[data-color='from-indigo-500 to-purple-600']
+    .category-gradient {
     background: linear-gradient(135deg, #6366f1, #9333ea);
   }
-  
-  .category-card[data-color="from-slate-500 to-gray-600"] .category-gradient {
+
+  .category-card[data-color='from-slate-500 to-gray-600'] .category-gradient {
     background: linear-gradient(135deg, #64748b, #4b5563);
   }
-  
-  .category-card[data-color="from-green-500 to-emerald-600"] .category-gradient {
+
+  .category-card[data-color='from-green-500 to-emerald-600']
+    .category-gradient {
     background: linear-gradient(135deg, #22c55e, #059669);
   }
-  
-  .category-card[data-color="from-orange-500 to-red-600"] .category-gradient {
+
+  .category-card[data-color='from-orange-500 to-red-600'] .category-gradient {
     background: linear-gradient(135deg, #f97316, #dc2626);
   }
-  
-  .category-card[data-color="from-blue-500 to-indigo-600"] .category-gradient {
+
+  .category-card[data-color='from-blue-500 to-indigo-600'] .category-gradient {
     background: linear-gradient(135deg, #3b82f6, #4f46e5);
   }
-  
-  .category-card[data-color="from-yellow-500 to-amber-600"] .category-gradient {
+
+  .category-card[data-color='from-yellow-500 to-amber-600'] .category-gradient {
     background: linear-gradient(135deg, #eab308, #d97706);
   }
-  
-  .category-card[data-color="from-teal-500 to-cyan-600"] .category-gradient {
+
+  .category-card[data-color='from-teal-500 to-cyan-600'] .category-gradient {
     background: linear-gradient(135deg, #14b8a6, #0891b2);
   }
-  
+
   .category-icon {
     font-size: 3.25rem;
     position: relative;
@@ -338,14 +369,14 @@ const langPrefix = lang === 'en' ? '/en' : '';
     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.15));
     transition: transform 0.28s ease;
   }
-  
+
   .category-body {
     padding: 1.35rem 1.35rem 1.25rem;
     flex: 1;
     display: flex;
     flex-direction: column;
   }
-  
+
   .category-name {
     font-size: 1.35rem;
     font-weight: 700;
@@ -353,7 +384,7 @@ const langPrefix = lang === 'en' ? '/en' : '';
     color: #1f2937;
     line-height: 1.25;
   }
-  
+
   .category-description {
     color: #64748b;
     font-size: 0.96rem;
@@ -361,13 +392,13 @@ const langPrefix = lang === 'en' ? '/en' : '';
     margin-bottom: 1.1rem;
     flex: 1;
   }
-  
+
   .category-footer {
     display: flex;
     justify-content: flex-start;
     margin-top: auto;
   }
-  
+
   .explore-link {
     color: #2563eb;
     font-weight: 600;
@@ -376,40 +407,40 @@ const langPrefix = lang === 'en' ? '/en' : '';
     transform: none;
     transition: color 0.2s ease;
   }
-  
+
   @media (max-width: 1200px) {
     .category-grid {
       grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     }
   }
-  
+
   @media (max-width: 768px) {
     .category-grid {
       grid-template-columns: 1fr;
       gap: 1rem;
       margin: 2rem 0;
     }
-    
+
     .category-card {
       min-height: 272px;
     }
-    
+
     .category-header {
       height: 112px;
     }
-    
+
     .category-icon {
       font-size: 2.8rem;
     }
-    
+
     .category-name {
       font-size: 1.2rem;
     }
-    
+
     .category-description {
       font-size: 0.9rem;
     }
-    
+
     .article-badge {
       padding: 0.4rem 0.6rem;
       font-size: 0.75rem;

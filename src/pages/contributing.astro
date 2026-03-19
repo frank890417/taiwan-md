@@ -16,14 +16,21 @@ import Layout from '../layouts/Layout.astro';
             <span class="step-num">1</span>
             <div>
               <h3>閱讀編輯方針</h3>
-              <p>先讀 <a href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md" target="_blank">EDITORIAL.md</a>，了解我們的立場與風格。</p>
+              <p>
+                先讀 <a
+                  href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md"
+                  target="_blank">EDITORIAL.md</a
+                >，了解我們的立場與風格。
+              </p>
             </div>
           </div>
           <div class="step">
             <span class="step-num">2</span>
             <div>
               <h3>Fork & 寫文章</h3>
-              <p>在 <code>knowledge/</code> 目錄新增或修改文章。這是唯一的內容來源（SSOT）。</p>
+              <p>
+                在 <code>knowledge/</code> 目錄新增或修改文章。這是唯一的內容來源（SSOT）。
+              </p>
             </div>
           </div>
           <div class="step">
@@ -70,7 +77,11 @@ readingTime: 8
 
         <div class="cta-box">
           <p>準備好了嗎？</p>
-          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn">前往 GitHub →</a>
+          <a
+            href="https://github.com/frank890417/taiwan-md"
+            target="_blank"
+            class="btn">前往 GitHub →</a
+          >
         </div>
       </div>
     </section>
@@ -84,37 +95,95 @@ readingTime: 8
     background: linear-gradient(135deg, #1a1a2e, #16213e);
     color: white;
   }
-  .contrib-hero h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
-  .contrib-hero p { opacity: 0.8; font-size: 1.1rem; }
-  .contrib-content { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; }
-  .inner h2 { font-size: 1.5rem; margin: 2.5rem 0 1rem; color: #1a1a2e; }
-  .steps { display: flex; flex-direction: column; gap: 1.5rem; }
+  .contrib-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .contrib-hero p {
+    opacity: 0.8;
+    font-size: 1.1rem;
+  }
+  .contrib-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+  .inner h2 {
+    font-size: 1.5rem;
+    margin: 2.5rem 0 1rem;
+    color: #1a1a2e;
+  }
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
   .step {
-    display: flex; gap: 1rem; align-items: flex-start;
-    padding: 1.25rem; border: 1px solid #e2e8f0; border-radius: 12px;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    padding: 1.25rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
   }
   .step-num {
-    width: 36px; height: 36px; background: #3b82f6; color: white;
-    border-radius: 50%; display: flex; align-items: center; justify-content: center;
-    font-weight: 700; flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    background: #3b82f6;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    flex-shrink: 0;
   }
-  .step h3 { margin-bottom: 0.25rem; }
-  .step p { color: #64748b; }
+  .step h3 {
+    margin-bottom: 0.25rem;
+  }
+  .step p {
+    color: #64748b;
+  }
   pre {
-    background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px;
-    padding: 1.25rem; overflow-x: auto; font-size: 0.85rem; line-height: 1.6;
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    overflow-x: auto;
+    font-size: 0.85rem;
+    line-height: 1.6;
   }
-  ul { padding-left: 0; list-style: none; }
-  li { padding: 0.5rem 0; }
+  ul {
+    padding-left: 0;
+    list-style: none;
+  }
+  li {
+    padding: 0.5rem 0;
+  }
   .cta-box {
-    text-align: center; padding: 2rem; margin-top: 2rem;
-    background: #f8fafc; border-radius: 12px;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 2rem;
+    background: #f8fafc;
+    border-radius: 12px;
   }
   .btn {
-    display: inline-block; padding: 0.75rem 1.5rem; background: #1a1a2e;
-    color: white; text-decoration: none; border-radius: 8px; font-weight: 600;
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #1a1a2e;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
     margin-top: 0.75rem;
   }
-  a { color: #3b82f6; }
-  code { background: #f1f5f9; padding: 0.15rem 0.4rem; border-radius: 3px; font-size: 0.85rem; }
+  a {
+    color: #3b82f6;
+  }
+  code {
+    background: #f1f5f9;
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.85rem;
+  }
 </style>

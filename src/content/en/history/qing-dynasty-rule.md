@@ -7,7 +7,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 10
 featured: false
-translatedFrom: "knowledge/History/清治時期.md"
+translatedFrom: 'knowledge/History/清治時期.md'
 ---
 
 # Qing Dynasty Rule
@@ -86,6 +86,7 @@ Early Qing migration policy aimed to control population movement:
 **Gender Imbalance**: Early restrictions on family migration created predominantly male communities
 
 Over time, policies relaxed and families were permitted. **Settlement patterns** developed along geographic and linguistic lines:
+
 - **Hoklo speakers** 閩南人: Concentrated in coastal plains and major river valleys
 - **Hakka speakers** 客家人: Often settled in foothill areas and marginal lands
 - **Inter-ethnic tensions**: Competition for resources led to occasional conflicts
@@ -100,6 +101,7 @@ The **Treaty of Tientsin** (1858) fundamentally changed Taiwan's relationship wi
 **Consular Presence**: Foreign consulates provided diplomatic representation
 
 **Liu Mingchuan's Reforms** (1885-1891) represented the most ambitious modernization effort:
+
 - **Railway Construction**: Built Taiwan's first railway line from Keelung to Hsinchu
 - **Telegraph System**: Connected major cities and established communication with the mainland
 - **Modern Military**: Introduced Western-style military training and equipment

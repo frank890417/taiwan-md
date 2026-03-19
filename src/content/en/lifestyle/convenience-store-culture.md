@@ -1,13 +1,21 @@
 ---
-title: "Convenience Store Culture"
+title: 'Convenience Store Culture'
 description: "How Taiwan's world-leading density of convenience stores transformed corner shops into a national operating system for daily life"
 date: 2026-03-17
-tags: ["convenience stores", "7-ELEVEN", "FamilyMart", "daily life", "retail innovation", "urban culture"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'convenience stores',
+    '7-ELEVEN',
+    'FamilyMart',
+    'daily life',
+    'retail innovation',
+    'urban culture',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
-translatedFrom: "Lifestyle/便利商店文化.md"
-sourceHash: "a3f7c1"
+translatedFrom: 'Lifestyle/便利商店文化.md'
+sourceHash: 'a3f7c1'
 ---
 
 # Convenience Store Culture
@@ -19,6 +27,7 @@ It's 3 AM on a Taipei street. You're hungry, your phone is dead, you need to pri
 Taiwan has the highest convenience store density in the world, with over 13,000 locations and an average of 4.7 stores per square kilometer. But the numbers aren't the point. The point is: **Taiwan's convenience stores aren't stores -- they're an entire nation's operating system for daily life.**
 
 **Key Facts:**
+
 - Convenience store density: highest in the world (4.7 per square kilometer)
 - Four major brands: 7-ELEVEN (6,700+), FamilyMart (4,200+), Hi-Life, OK Mart
 - Services offered: over 2,000 types of bill payment and retail services

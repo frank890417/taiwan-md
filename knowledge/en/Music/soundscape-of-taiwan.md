@@ -1,7 +1,16 @@
 ---
-title: "Soundscape of Taiwan"
-category: "Music"
-tags: ["soundscape", "garbage truck music", "temple festivals", "indigenous music", "beiguan", "nanguan", "street sounds"]
+title: 'Soundscape of Taiwan'
+category: 'Music'
+tags:
+  [
+    'soundscape',
+    'garbage truck music',
+    'temple festivals',
+    'indigenous music',
+    'beiguan',
+    'nanguan',
+    'street sounds',
+  ]
 date: 2026-03-17
 ---
 

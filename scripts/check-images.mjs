@@ -29,7 +29,7 @@ function findFiles(dir, extensions) {
     const full = join(dir, entry.name);
     if (entry.isDirectory()) {
       results.push(...findFiles(full, extensions));
-    } else if (extensions.some(ext => entry.name.endsWith(ext))) {
+    } else if (extensions.some((ext) => entry.name.endsWith(ext))) {
       results.push(full);
     }
   }
@@ -113,13 +113,13 @@ for (const ref of allRefs) {
 const unique = [...seen.values()];
 
 // Check existence
-const results = unique.map(ref => ({
+const results = unique.map((ref) => ({
   ...ref,
   exists: existsSync(join(PUBLIC, ref.path)),
 }));
 
-const ok = results.filter(r => r.exists);
-const missing = results.filter(r => !r.exists);
+const ok = results.filter((r) => r.exists);
+const missing = results.filter((r) => !r.exists);
 
 // Output
 if (jsonMode) {
@@ -127,7 +127,7 @@ if (jsonMode) {
     total: results.length,
     ok: ok.length,
     missing: missing.length,
-    images: missing.map(r => ({
+    images: missing.map((r) => ({
       path: r.path,
       alt: r.alt,
       usedIn: r.source,
@@ -138,7 +138,9 @@ if (jsonMode) {
 } else {
   console.log('Image Health Check — taiwan-md');
   console.log('================================');
-  console.log(`Scanned: ${allRefs.length} references (${results.length} unique)`);
+  console.log(
+    `Scanned: ${allRefs.length} references (${results.length} unique)`,
+  );
   console.log(`✅ ${ok.length} OK`);
   console.log(`❌ ${missing.length} missing`);
 

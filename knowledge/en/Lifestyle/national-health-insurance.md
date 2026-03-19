@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [Lifestyle, Health Insurance, Medical System, Public Health, Social Welfare]
+tags:
+  [Lifestyle, Health Insurance, Medical System, Public Health, Social Welfare]
 title: National Health Insurance
 description: Taiwan's National Health Insurance (NHI) system provides universal, affordable, and high-quality medical services, recognized globally as an excellent healthcare system
 date: 2026-03-17
@@ -74,7 +75,7 @@ Encouraging citizens to download the "Health Passbook" app to grasp personal med
 
 ## Further Reading
 
-- [National Health Insurance - Wikipedia](https://en.wikipedia.org/wiki/National_Health_Insurance_(Taiwan))
+- [National Health Insurance - Wikipedia](<https://en.wikipedia.org/wiki/National_Health_Insurance_(Taiwan)>)
 - [National Health Insurance Administration, Ministry of Health and Welfare](https://www.nhi.gov.tw/english/)
 
 ## Related Topics

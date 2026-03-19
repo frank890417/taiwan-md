@@ -1,9 +1,16 @@
 ---
-title: "Postwar Economic Development"
+title: 'Postwar Economic Development'
 description: "Taiwan's economic miracle journey from an agricultural society to becoming one of the Asian Tigers"
 date: 2026-03-17
-tags: [economic history, industrialization, ten major construction projects, economic miracle, industrial transformation]
-translatedFrom: "knowledge/History/戰後經濟發展.md"
+tags:
+  [
+    economic history,
+    industrialization,
+    ten major construction projects,
+    economic miracle,
+    industrial transformation,
+  ]
+translatedFrom: 'knowledge/History/戰後經濟發展.md'
 ---
 
 # Postwar Economic Development
@@ -19,6 +26,7 @@ During the Japanese colonial period, Taiwan had already established relatively c
 ### Three-Stage Land Reform
 
 Beginning in 1949, the government implemented three-stage land reform:
+
 - **375 Rent Reduction** 三七五減租 (1949): Tenant rent could not exceed 375 per thousand of the main crop's gross yield
 - **Sale of Public Land** 公地放領 (1951): Public farmland was sold to current tenant farmers
 - **Land to the Tiller** 耕者有其田 (1953): Mandatory expropriation of landlords' excess land for resale to tenants
@@ -38,6 +46,7 @@ In the 1950s, Taiwan adopted import substitution policies to protect infant indu
 ### Innovation of Export Processing Zones
 
 In 1965, Taiwan established Asia's first export processing zone — the Kaohsiung Export Processing Zone, followed by the Nanzih and Taichung export processing zones. These zones provided:
+
 - Tax exemptions and simplified administrative procedures
 - Complete infrastructure
 - Stable labor supply
@@ -59,12 +68,14 @@ The first oil crisis of 1973 severely impacted the global economy, and Taiwan wa
 In 1974, Premier Chiang Ching-kuo promoted the Ten Major Construction Projects 十大建設, with total investment reaching NT$200 billion:
 
 **Transportation Infrastructure (4 projects):**
+
 - Sun Yat-sen Freeway 中山高速公路: Taiwan's first freeway, 373 kilometers long
 - Railway Electrification: Complete electrification of the western trunk line
 - Taoyuan Chiang Kai-shek International Airport: Enhancing international aviation capacity
 - Taichung Port: Balancing north-south port development
 
 **Heavy Chemical Industry (6 projects):**
+
 - China Steel Corporation: Establishing autonomous steel industry
 - China Shipbuilding Corporation: Developing shipbuilding industry
 - Petrochemical Industry: Large oil refineries, naphtha cracking plants, etc.
@@ -79,6 +90,7 @@ The Ten Major Construction Projects not only created massive employment opportun
 ### Hsinchu Science Park
 
 Hsinchu Science Park was established in 1980, adopting the successful model of export processing zones specifically for developing high-tech industries. The park provided:
+
 - Preferential tax policies
 - Complete research and development environment
 - Industry-academia cooperation mechanisms
@@ -96,6 +108,7 @@ Beginning in the 1980s, Taiwan vigorously developed the personal computer indust
 ### Remarkable Growth Statistics
 
 From 1952 to 1995, Taiwan created astonishing economic achievements:
+
 - **Annual GDP growth rate**: 8.7% (40 consecutive years of high growth)
 - **Per capita GDP**: Leaped from $145 to $12,396
 - **Total exports**: Increased from $116 million to $111.8 billion
@@ -132,6 +145,7 @@ Entering the 1990s, Taiwan faced challenges of rising wages and increased enviro
 ### Knowledge Economy Transformation
 
 Since the 21st century, Taiwan has been committed to developing a knowledge economy, focusing on:
+
 - Biotechnology industry
 - Green energy technology
 - Cultural and creative industries
@@ -151,6 +165,7 @@ Taiwan's economic development model provides important lessons for developing co
 ### Global Contributions
 
 Taiwan not only created its own economic miracle but also made important contributions to global economic development:
+
 - Occupying a key position in global supply chains
 - The contract manufacturing model has been emulated by many countries
 - High-tech industry has become a global innovation hub
@@ -159,7 +174,8 @@ Today's Taiwan faces new challenges, but the successful experience of postwar ec
 
 ---
 
-*References:*
+_References:_
+
 - Academia Sinica Institute of Modern History 中央研究院近代史研究所
 - Department of Statistics, Ministry of Economic Affairs 經濟部統計處
 - Directorate-General of Budget, Accounting and Statistics, Executive Yuan 行政院主計總處

@@ -2,9 +2,12 @@
 import Layout from '../layouts/Layout.astro';
 
 // Fetch commit history from GitHub API (works in shallow clone CI/CD environments)
-let commits: { hash: string; date: string; message: string; author: string }[] = [];
+let commits: { hash: string; date: string; message: string; author: string }[] =
+  [];
 try {
-  const res = await fetch('https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=100');
+  const res = await fetch(
+    'https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=100',
+  );
   if (res.ok) {
     const data = await res.json();
     commits = data.map((c: any) => ({
@@ -29,7 +32,12 @@ const sortedDays = Object.keys(grouped).sort((a, b) => b.localeCompare(a));
 
 function formatDate(dateStr: string) {
   const d = new Date(dateStr);
-  return d.toLocaleDateString('zh-TW', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'short' });
+  return d.toLocaleDateString('zh-TW', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    weekday: 'short',
+  });
 }
 
 function commitIcon(msg: string) {
@@ -44,38 +52,57 @@ function commitIcon(msg: string) {
 }
 ---
 
-<Layout title="網站更新紀錄" description="Taiwan.md 的即時更新歷史，追蹤每一次內容新增與網站改進。" lang="zh-TW">
+<Layout
+  title="網站更新紀錄"
+  description="Taiwan.md 的即時更新歷史，追蹤每一次內容新增與網站改進。"
+  lang="zh-TW"
+>
   <div class="changelog-page">
     <header class="changelog-header">
       <h1>網站更新紀錄</h1>
-      <p class="changelog-subtitle">追蹤 Taiwan.md 的每一次內容新增與網站改進</p>
-      <p class="changelog-meta">共 {commits.length} 筆更新紀錄 · 自動同步自 <a href="https://github.com/frank890417/taiwan-md/commits/main" target="_blank">GitHub</a></p>
+      <p class="changelog-subtitle">
+        追蹤 Taiwan.md 的每一次內容新增與網站改進
+      </p>
+      <p class="changelog-meta">
+        共 {commits.length} 筆更新紀錄 · 自動同步自 <a
+          href="https://github.com/frank890417/taiwan-md/commits/main"
+          target="_blank">GitHub</a
+        >
+      </p>
     </header>
 
     <div class="changelog-timeline">
-      {sortedDays.map(day => (
-        <div class="changelog-day">
-          <div class="day-header">
-            <span class="day-dot"></span>
-            <h2>{formatDate(day)}</h2>
-            <span class="day-count">{grouped[day].length} 筆更新</span>
-          </div>
-          <div class="day-commits">
-            {grouped[day].map(commit => (
-              <div class="commit-item">
-                <span class="commit-icon">{commitIcon(commit.message)}</span>
-                <div class="commit-content">
-                  <p class="commit-message">{commit.message}</p>
-                  <div class="commit-meta">
-                    <span class="commit-author">{commit.author}</span>
-                    <a href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`} target="_blank" class="commit-hash">{commit.hash.slice(0, 7)}</a>
+      {
+        sortedDays.map((day) => (
+          <div class="changelog-day">
+            <div class="day-header">
+              <span class="day-dot" />
+              <h2>{formatDate(day)}</h2>
+              <span class="day-count">{grouped[day].length} 筆更新</span>
+            </div>
+            <div class="day-commits">
+              {grouped[day].map((commit) => (
+                <div class="commit-item">
+                  <span class="commit-icon">{commitIcon(commit.message)}</span>
+                  <div class="commit-content">
+                    <p class="commit-message">{commit.message}</p>
+                    <div class="commit-meta">
+                      <span class="commit-author">{commit.author}</span>
+                      <a
+                        href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`}
+                        target="_blank"
+                        class="commit-hash"
+                      >
+                        {commit.hash.slice(0, 7)}
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        ))
+      }
     </div>
   </div>
 </Layout>
@@ -97,7 +124,7 @@ function commitIcon(msg: string) {
     font-weight: 900;
     color: #1a1a2e;
     margin-bottom: 0.75rem;
-    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-family: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
     letter-spacing: 0.05em;
   }
 

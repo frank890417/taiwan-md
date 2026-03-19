@@ -28,6 +28,7 @@ During this period, Taiwan's literary award system became increasingly comprehen
 Wu Ming-yi's creation perfectly combines **ecological concern** with **literary aesthetics**. "The Stolen Bicycle" (2015) uses bicycles as a thread to connect personal memory with Taiwan's history, demonstrating profound humanistic care and historical consciousness. His nature writing is not merely attention to environmental issues but deep philosophical thinking about the relationship between humans and nature.
 
 **Representative Works**:
+
 - "The Magician on the Skywalk" (2011) - Allegorical novel with environmental disaster as background
 - "The Stolen Bicycle" (2015) - Taiwan Literature Golden Award winner
 - "The Land of Little Rain" (2019) - Taiwan Literature Golden Award winner
@@ -87,6 +88,7 @@ In contemporary Taiwanese literature, **mystery novels** have emerged as a dark 
 **Taiwan Literature Golden Award**, organized by the National Museum of Taiwan Literature, is one of Taiwan's most authoritative literary prizes. The award is divided into Published Works Golden Award and Creative Works Golden Award, with the former recognizing excellent published literary works and the latter encouraging works in creation.
 
 **Important Winners Over the Years**:
+
 - Wu Ming-yi "The Stolen Bicycle" (2018 Published Works Golden Award)
 - Gan Yao-ming "The Bunun Girl" (2018 Published Works Golden Award)
 - Wu Ming-yi "The Land of Little Rain" (2020 Published Works Golden Award)

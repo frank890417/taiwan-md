@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [Society, Democratization, Lifting Martial Law, Presidential Direct Elections]
+tags:
+  [Society, Democratization, Lifting Martial Law, Presidential Direct Elections]
 title: Democratic System
 description: Taiwan's journey from authoritarian rule to democratic institutions, establishing a complete democratic system through lifting martial law, presidential direct elections, and other phases
 date: 2026-03-17

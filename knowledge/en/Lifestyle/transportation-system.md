@@ -1,11 +1,11 @@
 ---
-title: "Transportation System"
-description: "High-speed rail connects north to south in 90 minutes, metro weaves urban arteries, scooters navigate through alleys"
+title: 'Transportation System'
+description: 'High-speed rail connects north to south in 90 minutes, metro weaves urban arteries, scooters navigate through alleys'
 date: 2026-03-17
 tags: [lifestyle, transportation, high-speed rail, metro, scooters, Taiwan]
-author: "Taiwan.md Contributors"
+author: 'Taiwan.md Contributors'
 readingTime: 8
-translatedFrom: "knowledge/Lifestyle/台灣交通系統.md"
+translatedFrom: 'knowledge/Lifestyle/台灣交通系統.md'
 ---
 
 # Transportation System

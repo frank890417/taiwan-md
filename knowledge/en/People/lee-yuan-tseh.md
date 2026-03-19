@@ -1,7 +1,16 @@
 ---
-title: "Lee Yuan-tseh"
+title: 'Lee Yuan-tseh'
 category: People
-tags: [person, Lee Yuan-tseh, Nobel Prize, chemistry, scientist, Academia Sinica, Taiwan]
+tags:
+  [
+    person,
+    Lee Yuan-tseh,
+    Nobel Prize,
+    chemistry,
+    scientist,
+    Academia Sinica,
+    Taiwan,
+  ]
 date: 2026-03-17
 ---
 
@@ -90,6 +99,7 @@ In 1974, Lee was invited to return to UC Berkeley as Chemistry Professor. Here, 
 Lee continuously improved crossed molecular beam technique, enabling study of more complex chemical reactions. He developed new detection methods capable of measuring reaction products' internal energy distribution and angular distribution.
 
 **Important Research Results:**
+
 1. **Fluorine Atom and Hydrogen Molecule Reaction:** Lee detailed study of F + H₂ → HF + H reaction revealed many unexpected phenomena, becoming a classic case in chemical kinetics textbooks.
 
 2. **Oxygen Atom and Alkane Reactions:** He systematically studied oxygen atom reactions with various alkane molecules, discovering reaction stereoselectivity patterns and providing important theoretical foundations for combustion chemistry.

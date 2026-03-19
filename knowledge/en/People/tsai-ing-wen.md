@@ -1,9 +1,9 @@
 ---
-title: "Tsai Ing-wen"
+title: 'Tsai Ing-wen'
 description: "Taiwan's first female president, a democratic symbol and historical pioneer transforming from scholar to political leader"
 date: 2026-03-17
 tags: [people, Tsai Ing-wen, president, female leader, democracy, politics]
-translatedFrom: "knowledge/People/蔡英文.md"
+translatedFrom: 'knowledge/People/蔡英文.md'
 ---
 
 # Tsai Ing-wen
@@ -277,7 +277,8 @@ As Taiwan's first female president, Tsai's historical status is established. Her
 
 ---
 
-*References:*
+_References:_
+
 - Official Website of the Office of the President, ROC
 - Democratic Progressive Party Historical Data
 - Central Election Commission Election Records

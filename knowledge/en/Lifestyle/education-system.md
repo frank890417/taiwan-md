@@ -1,7 +1,15 @@
 ---
 title: "Taiwan's Education System"
-category: "Lifestyle"
-tags: ["education", "gsat", "cram school", "twelve-year education", "lifestyle", "society"]
+category: 'Lifestyle'
+tags:
+  [
+    'education',
+    'gsat',
+    'cram school',
+    'twelve-year education',
+    'lifestyle',
+    'society',
+  ]
 date: 2026-03-17
 ---
 
@@ -115,7 +123,7 @@ Digital learning platforms develop rapidly. During the pandemic, online course d
 
 ## Related Topics
 
-- [[Taiwan's Transportation System]]: How commuting culture influences learning patterns  
+- [[Taiwan's Transportation System]]: How commuting culture influences learning patterns
 - [[Religion and Folk Beliefs]]: Traditional cultural education's role in modern education
 - [[Convenience Store Culture]]: How convenience culture affects study habits
 - [[Taiwan's Coffee Culture]]: The phenomenon of coffee shops becoming study spaces

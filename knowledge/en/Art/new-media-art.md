@@ -1,10 +1,10 @@
 ---
-title: "New Media Art"
+title: 'New Media Art'
 description: "Taiwan's pioneering exploration in digital art, from laboratories to international stages - the fusion of technology and humanities"
 date: 2026-03-17
 tags: [art, new media, digital art, tech art, interactive art]
-translatedFrom: "Art/新媒體藝術.md"
-sourceHash: "30b9d8"
+translatedFrom: 'Art/新媒體藝術.md'
+sourceHash: '30b9d8'
 ---
 
 # New Media Art
@@ -19,6 +19,7 @@ Taiwan's new media art development began in the 1980s, and after more than four 
 The 1980s saw the popularization of personal computers and video equipment, providing artists with new creative media. Meanwhile, Taiwanese society was in a period of ideological openness around the lifting of martial law, with artists yearning to break free from traditional creative frameworks.
 
 **Early Pioneers:**
+
 - **Yuan Goang-Ming**: Started video art creation in 1984, one of Taiwan's earliest video artists
 - **Wang Jun-Jieh**: Known for experimental imagery and installation art
 - **Chen Chieh-jen**: Combined political critique with video creation
@@ -43,6 +44,7 @@ The popularization of the internet and development of digital technology provide
 In 2002, the Council for Cultural Affairs launched the "Challenge 2008: National Development Focus Plan," incorporating digital art into national cultural policy, significantly promoting related creation and research.
 
 **Institutional Development:**
+
 - **Digital Art Center**: Providing creative support and exhibition platforms
 - **Taipei Digital Art Festival**: An international digital art extravaganza
 - **Kuandu Biennale**: An international exhibition focusing on new media art
@@ -66,8 +68,9 @@ A complete ecosystem formed, encompassing creators, technical support, exhibitio
 Yuan Goang-Ming's works focus on the existential state of modern people, using technological media to explore philosophical issues such as space, time, and memory.
 
 **Representative Works:**
+
 - **"Reasons for Insomnia" (2003)**: Exploring urban alienation and anxiety
-- **"City Disqualified" (2002)**: Reflecting on globalization's impact on urban spaces  
+- **"City Disqualified" (2002)**: Reflecting on globalization's impact on urban spaces
 - **"Before Memory" (2014)**: Immersive experience combining VR technology
 
 **International Achievements:**
@@ -79,11 +82,13 @@ Works collected by important international institutions including the Centre Pom
 A cross-disciplinary creative group consisting of Zhang Geng-Hao, Zhang Geng-Hua, Lin Kun-Ying, and Chen Zhi-Jian, combining professional backgrounds in engineering, design, and art.
 
 **Creative Characteristics:**
+
 - **Large-scale Installations**: Skilled at large-scale environmental installations combining sound, light, and electricity
 - **Interactive Design**: Emphasizing interactive experiences with audience participation
 - **Local Issues**: Focusing on Taiwan's social and cultural issues
 
 **Important Works:**
+
 - **"Mirage" (2017)**: Opening work for Taichung National Theater
 - **"Secrets of the Future" (2019)**: Interactive work combining AI and mechanical installations
 - **"Forest Dance Party" (2020)**: Online interactive performance during the pandemic
@@ -94,6 +99,7 @@ A cross-disciplinary creative group consisting of Zhang Geng-Hao, Zhang Geng-Hua
 Hsin-Chien Huang is one of Taiwan's earliest artists to invest in VR creation, with works combining advanced VR technology and poetic narrative.
 
 **Representative Works:**
+
 - **"La Camera Insabbiata" (2017)**: Co-created with Laurie Anderson, won the Best VR Experience Award at Venice Film Festival
 - **"To the Moon" (2019)**: VR work commemorating the 50th anniversary of human moon landing
 
@@ -109,6 +115,7 @@ Specializes in cross-domain creation of sound art, interactive installations, an
 Focuses on the relationship between sound and space, body, exploring the possibilities of sound as a medium.
 
 **Representative Works:**
+
 - **"Sound Wave City" (2015)**: Artistic presentation of urban sound environment
 - **"Resonance" (2018)**: Audience-participatory sound interactive installation
 
@@ -120,11 +127,13 @@ Focuses on the relationship between sound and space, body, exploring the possibi
 Established by the Ministry of Culture in 2018, formerly the site of the Air Force General Headquarters, combining historical building reuse with contemporary artistic creation.
 
 **Core Mission:**
+
 - **Creative Support**: Providing artists with creative resources and technical support
 - **Experimental Platform**: Promoting cross-domain experimentation and innovative projects
 - **International Exchange**: Building cooperative networks with international art institutions
 
 **Important Projects:**
+
 - **Digital Natives Project**: Combining indigenous culture with digital technology
 - **AI Art Laboratory**: Exploring the application of artificial intelligence in artistic creation
 - **Sound Laboratory**: Specializing in sound art creation and research
@@ -135,6 +144,7 @@ Established by the Ministry of Culture in 2018, formerly the site of the Air For
 Cultivating new media art talents with technological literacy and artistic creativity.
 
 **Curriculum Characteristics:**
+
 - **Cross-Domain Integration**: Cross-domain curriculum combining art, technology, and design
 - **Practice-Oriented**: Emphasizing practical creation and technical capability development
 - **International Perspective**: Establishing exchange programs with foreign art schools
@@ -148,6 +158,7 @@ Faculty and student works frequently win important awards in international exhib
 Professional digital art performance and research institution, providing creators with technical support and exhibition platforms.
 
 **Exhibition Characteristics:**
+
 - **Experimental Exhibitions**: Supporting avant-garde and experimental digital art creation
 - **Technology Showcase**: Introducing the latest art technology applications
 - **Educational Promotion**: Holding workshops and lectures to promote digital art
@@ -158,6 +169,7 @@ Professional digital art performance and research institution, providing creator
 Dedicated to promoting digital art creation, research, and education, establishing social recognition of digital art.
 
 **Important Activities:**
+
 - **Taipei Digital Art Festival**: Annual important digital art extravaganza
 - **Digital Art Criticism**: Promoting theoretical research and criticism of digital art
 
@@ -169,6 +181,7 @@ Dedicated to promoting digital art creation, research, and education, establishi
 Using sensors, projection, sound, and other technologies to create art experiences that audiences can participate in.
 
 **Representative Works:**
+
 - **"Micro-Architecture" (Wu Meng-Xian)**: Interactive architectural installation responding to environmental changes
 - **"Breathing" (Lin Pey-Chwen)**: Interactive imagery driven by biological signals
 
@@ -181,6 +194,7 @@ Evolving from simple trigger responses to complex AI-driven interactions.
 Evolving from early simple VR experiences to highly immersive narrative works.
 
 **Creative Characteristics:**
+
 - **Spatial Narrative**: Using VR's spatial properties to create new narrative modes
 - **Body Perception**: Exploring body cognition and spatial perception in VR
 - **Social Issues**: Conveying social and political messages through immersive experiences
@@ -191,6 +205,7 @@ Evolving from early simple VR experiences to highly immersive narrative works.
 Artists collaborate with biologists to explore the application of life sciences in art.
 
 **Representative Artists:**
+
 - **Lin Pey-Chwen**: Creation combining biotechnology and feminist issues
 - **Kuang-Yi Gu**: Exploring artificial life and bioethics
 
@@ -203,6 +218,7 @@ The development of bio art also brings ethical and safety considerations, requir
 With the advancement of AI technology, more and more artists are beginning to explore AI's possibilities in creation.
 
 **Creative Directions:**
+
 - **Collaborative Creation**: AI participating as a creative partner in the artistic creation process
 - **Data Art**: Using big data and machine learning to create visual works
 - **Algorithmic Aesthetics**: Exploring the aesthetic value of algorithms themselves
@@ -212,6 +228,7 @@ With the advancement of AI technology, more and more artists are beginning to ex
 ### International Exhibition Participation
 
 **Important Exhibitions:**
+
 - **Venice Biennale**: Multiple Taiwanese new media artists participating
 - **Ars Electronica**: Important platform for Taiwanese artists at international new media art festivals
 - **Linz Electronic Arts Festival**: One of the world's most important electronic art festivals
@@ -305,7 +322,8 @@ Facing rapidly changing technological environments and social demands, Taiwan's 
 
 ---
 
-*References:*
+_References:_
+
 - Taiwan Contemporary Culture Lab official materials
 - Department of New Media Art, Taipei National University of the Arts
 - Taipei Digital Art Center exhibition records

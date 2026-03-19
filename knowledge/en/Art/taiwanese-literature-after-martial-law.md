@@ -1,10 +1,17 @@
 ---
-title: "Taiwanese Literature After Martial Law: An Explosion of Freedom"
+title: 'Taiwanese Literature After Martial Law: An Explosion of Freedom'
 description: "The literary renaissance following Taiwan's 1987 lifting of martial law, marking unprecedented creative freedom and diverse expression"
-category: "Art"
-tags: ["literature", "martial law", "localization", "freedom", "political literature"]
+category: 'Art'
+tags:
+  [
+    'literature',
+    'martial law',
+    'localization',
+    'freedom',
+    'political literature',
+  ]
 date: 2026-03-19
-author: "Taiwan.md"
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
 ---
@@ -75,7 +82,7 @@ Zhu Tianwen's writing possesses a unique aesthetic style, combining both the ele
 
 ## Flourishing Development of Literary Magazines and Publishing
 
-After martial law, literary magazines and the publishing industry also experienced flourishing development. Magazines like *Unitas*, *INK Literary Monthly*, and *Literary Taiwan* were founded, providing platforms for emerging writers.
+After martial law, literary magazines and the publishing industry also experienced flourishing development. Magazines like _Unitas_, _INK Literary Monthly_, and _Literary Taiwan_ were founded, providing platforms for emerging writers.
 
 At the same time, many independent publishing houses also began to emerge, such as **Linking Publishing** and **Rye Field Publishing**, actively promoting Taiwan's local literary works and providing more diverse publishing channels for literary creation.
 
@@ -99,8 +106,9 @@ Taiwanese literature from this period was both a reaction against past suppressi
 
 ---
 
-*References:*
-- Chen Fangming, *History of Taiwanese Literature*
-- Ye Shitao, *Outline of Taiwanese Literature History*
-- Lin Ruiming, *Taiwan Literature After Martial Law*
-- Peng Ruijin, *Research on Contemporary Taiwanese Literature*
+_References:_
+
+- Chen Fangming, _History of Taiwanese Literature_
+- Ye Shitao, _Outline of Taiwanese Literature History_
+- Lin Ruiming, _Taiwan Literature After Martial Law_
+- Peng Ruijin, _Research on Contemporary Taiwanese Literature_

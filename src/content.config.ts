@@ -7,10 +7,16 @@ const baseContentSchema = z.object({
   date: z.coerce.date(),
   tags: z.array(z.string()).default([]),
   author: z.string().optional().default('Taiwan.md Contributors'),
-  difficulty: z.enum(['beginner', 'intermediate', 'advanced']).optional().default('beginner'),
+  difficulty: z
+    .enum(['beginner', 'intermediate', 'advanced'])
+    .optional()
+    .default('beginner'),
   readingTime: z.number().optional().default(5),
   featured: z.boolean().optional().default(false),
-  status: z.enum(['draft', 'published', 'archived']).optional().default('published'),
+  status: z
+    .enum(['draft', 'published', 'archived'])
+    .optional()
+    .default('published'),
   lastUpdated: z.coerce.date().optional(),
   relatedTopics: z.array(z.string()).optional().default([]),
   sources: z.array(z.string()).optional().default([]),
@@ -26,20 +32,23 @@ const zhTWCollection = defineCollection({
   }),
 });
 
-// 英文內容 collection  
+// 英文內容 collection
 const enCollection = defineCollection({
   type: 'content',
   schema: baseContentSchema.extend({
     // 英文特有欄位
     chineseTitle: z.string().optional(), // 對應中文標題
-    translationStatus: z.enum(['complete', 'partial', 'planned']).optional().default('complete'),
+    translationStatus: z
+      .enum(['complete', 'partial', 'planned'])
+      .optional()
+      .default('complete'),
   }),
 });
 
 // 導出 collections
 export const collections = {
   'zh-TW': zhTWCollection,
-  'en': enCollection,
+  en: enCollection,
 };
 
 // Type exports for TypeScript support

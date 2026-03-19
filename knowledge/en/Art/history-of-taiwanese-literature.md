@@ -15,7 +15,7 @@ The history of Taiwanese literature is not a linear narrative of progress, but a
 
 Before written words came to Taiwan, poetry was already resonating here. The oral literature of various indigenous tribes forms the matrilineal bloodline of Taiwanese literature. From the Atayal creation myths and Bunun eight-part harmony to Paiwan ancient tower legends, these myths and songs passed down through generations are not only the origin of literature but also the deepest cultural DNA of this land.
 
-These oral literary works possess powerful vitality and poetic qualities. They not only record each tribe's origin myths and heroic epics but also contain rich ecological knowledge and philosophical thinking. For example, the Amis *Song of the Sea Festival* is both a hymn to the ocean and a profound meditation on the cycle of life and death. This characteristic of "poetry as life, life as poetry" deeply influenced the subsequent development of Taiwanese literature.
+These oral literary works possess powerful vitality and poetic qualities. They not only record each tribe's origin myths and heroic epics but also contain rich ecological knowledge and philosophical thinking. For example, the Amis _Song of the Sea Festival_ is both a hymn to the ocean and a profound meditation on the cycle of life and death. This characteristic of "poetry as life, life as poetry" deeply influenced the subsequent development of Taiwanese literature.
 
 It's worth noting that indigenous oral literature is not a fossilized artifact but a living tradition. To this day, these ancient voices continue to revive under the pens of contemporary indigenous writers, becoming an important force against cultural amnesia.
 
@@ -23,7 +23,7 @@ It's worth noting that indigenous oral literature is not a fossilized artifact b
 
 In 1624, the Dutch landed at Anping in Tainan, marking Taiwan's formal entry into recorded history. The literary characteristic of this period was "cross-cultural writing"—people from different cultural backgrounds began using various languages and scripts to record their experiences on this new land.
 
-Dutch missionaries used romanization to record vast amounts of indigenous language materials, representing Taiwan's earliest "bilingual literature" practice. As Han Chinese immigration increased, traditional Chinese classical literature also began taking root in Taiwan. Shen Guangwen (1612-1688) is honored as "the father of Taiwanese classical literature," and his *Wengkai Poetry Collection* pioneered Taiwanese Chinese literature.
+Dutch missionaries used romanization to record vast amounts of indigenous language materials, representing Taiwan's earliest "bilingual literature" practice. As Han Chinese immigration increased, traditional Chinese classical literature also began taking root in Taiwan. Shen Guangwen (1612-1688) is honored as "the father of Taiwanese classical literature," and his _Wengkai Poetry Collection_ pioneered Taiwanese Chinese literature.
 
 During the Kingdom of Tungning period (1661-1683), literary activities became even more active. Zheng Jing valued education and established schools, furthering the development of Chinese literature in Taiwan. Works from this period often carried strong "immigrant literature" characteristics, combining longing for the homeland with curiosity and adaptation to the new land.
 
@@ -31,9 +31,9 @@ During the Kingdom of Tungning period (1661-1683), literary activities became ev
 
 During the Qing Dynasty's two-hundred-year rule over Taiwan, Taiwanese literature gradually formed its own characteristics. The most important literary phenomenon of this period was the rise of "poetry societies" (詩社). Starting with the "Xinzhu Poetry Society" in 1752, societies like Tainan's "Haidong Academy Poetry Society" and Changhua's "Wengkai Poetry Society" sprouted like bamboo shoots after rain, forming the golden age of Taiwan's classical literature.
 
-Yu Yonghe's *Pi Hai Ji You* (裨海紀遊) recorded Taiwan's customs and culture during the Kangxi era in travelogue form, representing the prose of this period. Lian Yatang's *Taiwan Gazetteer* (台灣通史) established Taiwan's historiography using historical methods, with its poetry sections holding high literary value.
+Yu Yonghe's _Pi Hai Ji You_ (裨海紀遊) recorded Taiwan's customs and culture during the Kangxi era in travelogue form, representing the prose of this period. Lian Yatang's _Taiwan Gazetteer_ (台灣通史) established Taiwan's historiography using historical methods, with its poetry sections holding high literary value.
 
-Another characteristic of Qing-era Taiwanese literature was the popularity of "bamboo branch verses" (竹枝詞). This poetic form, originating from folk songs, used accessible language to describe Taiwan's customs and culture, becoming an important window into understanding ancient Taiwanese society. The bamboo branch verses collected in Fan Xian's *Revised Taiwan Prefecture Gazetteer* vividly depicted market life in Qing-era Taiwan.
+Another characteristic of Qing-era Taiwanese literature was the popularity of "bamboo branch verses" (竹枝詞). This poetic form, originating from folk songs, used accessible language to describe Taiwan's customs and culture, becoming an important window into understanding ancient Taiwanese society. The bamboo branch verses collected in Fan Xian's _Revised Taiwan Prefecture Gazetteer_ vividly depicted market life in Qing-era Taiwan.
 
 During this period, Taiwanese literature began showing obvious "nativization" tendencies. Although still using traditional classical Chinese forms, the content was already deeply marked with Taiwan's regional characteristics and cultural colors.
 
@@ -51,7 +51,7 @@ Lai He (1894-1943) is revered as the "Father of Taiwan's New Literature." His no
 
 ### The Rise of Leftist Literature
 
-In the 1930s, influenced by international leftist thought, Taiwan saw the emergence of writers with socialist leanings. Yang Kui (1906-1985) was a representative figure. His novel "Songbaofu" (送報伕, *The Paperboy*) was the first work by a Taiwanese writer to win an award in Japanese literary circles. It depicted the miserable conditions of working-class laborers with strong class consciousness and rebellious spirit.
+In the 1930s, influenced by international leftist thought, Taiwan saw the emergence of writers with socialist leanings. Yang Kui (1906-1985) was a representative figure. His novel "Songbaofu" (送報伕, _The Paperboy_) was the first work by a Taiwanese writer to win an award in Japanese literary circles. It depicted the miserable conditions of working-class laborers with strong class consciousness and rebellious spirit.
 
 ### Literature During the Imperial Subject Period
 
@@ -69,15 +69,15 @@ In the 1950s, against the Cold War backdrop, government-promoted "anti-communist
 
 ## The Rise of Modernist Literature (1960-1970)
 
-In the 1960s, Taiwanese literature welcomed the golden age of modernism. This new literary wave centered around *Modern Literature* magazine, gathering outstanding writers like Pai Hsien-yung and Wang Wenxing.
+In the 1960s, Taiwanese literature welcomed the golden age of modernism. This new literary wave centered around _Modern Literature_ magazine, gathering outstanding writers like Pai Hsien-yung and Wang Wenxing.
 
 ### Pai Hsien-yung: Pioneer of Modern Fiction
 
-Pai Hsien-yung's *Taipei People* (台北人) was the most important short story collection of this period. With refined prose and profound character development, he depicted the spiritual world of Mainlanders in Taiwan. Stories like "The Eternal Yin Xuey-yan" and "The Last Night of Jin Daban" not only achieved high technical standards but also deeply reflected the impact of historical change on individual destiny.
+Pai Hsien-yung's _Taipei People_ (台北人) was the most important short story collection of this period. With refined prose and profound character development, he depicted the spiritual world of Mainlanders in Taiwan. Stories like "The Eternal Yin Xuey-yan" and "The Last Night of Jin Daban" not only achieved high technical standards but also deeply reflected the impact of historical change on individual destiny.
 
 ### Wang Wenxing: Pioneer of Language Experimentation
 
-Wang Wenxing's *Family Catastrophe* (家變) is a representative work of Taiwan's modernist literature. This novel explored modern people's spiritual predicament through unique narrative techniques and language experiments, holding an important place in literary history.
+Wang Wenxing's _Family Catastrophe_ (家變) is a representative work of Taiwan's modernist literature. This novel explored modern people's spiritual predicament through unique narrative techniques and language experiments, holding an important place in literary history.
 
 ### Chen Yingzhen: Dialectic of Reality and Idealism
 
@@ -85,15 +85,15 @@ Chen Yingzhen's early works like "My Younger Brother Kang-hsiung" and "A Green B
 
 ## The Native Literature Debate and Awakening of Local Consciousness (1970-1987)
 
-In the 1970s, Taiwan's government experienced major political events like withdrawing from the United Nations and the severance of US-Taiwan diplomatic relations, causing strong awakening of local consciousness. The literary world witnessed the famous "Native Literature Debate," whose core issue was how Taiwanese literature should position itself and the relationship between literature and politics. Simultaneously, women's literature became an important force in Taiwan's literary scene. Li Ang's *The Butcher's Wife* (殺夫) used bold themes and sharp writing to expose traditional patriarchal society's oppression of women.
+In the 1970s, Taiwan's government experienced major political events like withdrawing from the United Nations and the severance of US-Taiwan diplomatic relations, causing strong awakening of local consciousness. The literary world witnessed the famous "Native Literature Debate," whose core issue was how Taiwanese literature should position itself and the relationship between literature and politics. Simultaneously, women's literature became an important force in Taiwan's literary scene. Li Ang's _The Butcher's Wife_ (殺夫) used bold themes and sharp writing to expose traditional patriarchal society's oppression of women.
 
 ### Huang Chunming: Standard-Bearer of Native Literature
 
-Huang Chunming was the representative writer of native literature. His novels like *The Days of Watching the Sea* and *The Taste of Apples* used plain language to describe the fate of characters in Taiwan's villages and small towns, earning widespread reader appreciation. Huang Chunming skillfully utilized the rhythm and feel of Taiwanese, giving his works rich local color.
+Huang Chunming was the representative writer of native literature. His novels like _The Days of Watching the Sea_ and _The Taste of Apples_ used plain language to describe the fate of characters in Taiwan's villages and small towns, earning widespread reader appreciation. Huang Chunming skillfully utilized the rhythm and feel of Taiwanese, giving his works rich local color.
 
 ### Wang Zhenhe: Satirist of Absurd Reality
 
-Wang Zhenhe's *A Cart Full of Dowry* (嫁妝一牛車) is a classic work of native literature. Using black humor, he depicted the absurdity and sorrow of Taiwan's villages during modernization, showing profound social critical consciousness.
+Wang Zhenhe's _A Cart Full of Dowry_ (嫁妝一牛車) is a classic work of native literature. Using black humor, he depicted the absurdity and sorrow of Taiwan's villages during modernization, showing profound social critical consciousness.
 
 ### Chen Yingzhen's Socialist Concerns
 
@@ -129,8 +129,9 @@ Looking toward the future, Taiwanese literature will continue advancing through 
 
 ---
 
-*References:*
-- Chen Fangming, [*A New History of Taiwanese Literature*](https://www.books.com.tw/products/0010910368)
-- Ye Shitao, [*An Outline of Taiwanese Literary History*](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ)
-- Peng Ruijin, [*40 Years of Taiwan's New Literature Movement*](https://www.sanmin.com.tw/product/index/000216642)
-- Lü Zhenghui ed., *Classical Studies of Taiwanese Literature*
+_References:_
+
+- Chen Fangming, [_A New History of Taiwanese Literature_](https://www.books.com.tw/products/0010910368)
+- Ye Shitao, [_An Outline of Taiwanese Literary History_](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ)
+- Peng Ruijin, [_40 Years of Taiwan's New Literature Movement_](https://www.sanmin.com.tw/product/index/000216642)
+- Lü Zhenghui ed., _Classical Studies of Taiwanese Literature_

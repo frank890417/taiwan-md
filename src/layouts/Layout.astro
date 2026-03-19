@@ -17,24 +17,51 @@ interface Props {
   category?: string;
 }
 
-const { title, description = '讓全世界完整認識台灣', lang = 'zh-TW', image, type, datePublished, dateModified, content, tags, category } = Astro.props;
+const {
+  title,
+  description = '讓全世界完整認識台灣',
+  lang = 'zh-TW',
+  image,
+  type,
+  datePublished,
+  dateModified,
+  content,
+  tags,
+  category,
+} = Astro.props;
 
 // Build search index at build time
 const categoryMapping: Record<string, string> = {
-  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
-  'food': 'Food', 'art': 'Art', 'music': 'Music', 'technology': 'Technology',
-  'nature': 'Nature', 'people': 'People', 'society': 'Society',
-  'economy': 'Economy', 'lifestyle': 'Lifestyle'
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
 };
 
-const searchIndex: Array<{t: string; d: string; u: string; tags: string[]; lang: string}> = [];
+const searchIndex: Array<{
+  t: string;
+  d: string;
+  u: string;
+  tags: string[];
+  lang: string;
+}> = [];
 
 for (const [slug, folder] of Object.entries(categoryMapping)) {
   // Chinese articles
   try {
     const zhPath = resolve(process.cwd(), 'knowledge', folder);
     const files = await readdir(zhPath);
-    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
       const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
       const name = basename(file, '.md');
       searchIndex.push({
@@ -42,7 +69,7 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
         d: data.description || '',
         u: `/${slug}/${name}`,
         tags: data.tags || [],
-        lang: 'zh-TW'
+        lang: 'zh-TW',
       });
     }
   } catch {}
@@ -50,7 +77,9 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
   try {
     const enPath = resolve(process.cwd(), 'knowledge', 'en', folder);
     const files = await readdir(enPath);
-    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
       const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
       const name = basename(file, '.md');
       searchIndex.push({
@@ -58,7 +87,7 @@ for (const [slug, folder] of Object.entries(categoryMapping)) {
         d: data.description || '',
         u: `/en/${slug}/${name}`,
         tags: data.tags || [],
-        lang: 'en'
+        lang: 'en',
       });
     }
   } catch {}
@@ -94,8 +123,10 @@ const i18n = {
     contact: isEn ? 'Connect' : '聯繫',
     report: isEn ? 'Report Issue' : '回報問題',
     discuss: isEn ? 'Discussions' : '討論區',
-    desc: isEn ? 'Open-source, AI-friendly knowledge base about Taiwan' : '開源、AI-friendly 的台灣知識庫',
-  }
+    desc: isEn
+      ? 'Open-source, AI-friendly knowledge base about Taiwan'
+      : '開源、AI-friendly 的台灣知識庫',
+  },
 };
 
 // Language switch logic
@@ -119,12 +150,15 @@ const navConfig = [
   { path: '/contribute', label: i18n.nav.contribute },
   { path: '/resources', label: i18n.nav.resources },
   { path: '/data', label: i18n.nav.data },
-  {path:'/assets', label:i18n.nav.assets},
+  { path: '/assets', label: i18n.nav.assets },
   { path: '/projects', label: i18n.nav.projects },
-].map(item => {
+].map((item) => {
   const fullPath = isEn ? `/en${item.path}` : item.path;
   const pathWithoutHash = fullPath.replace(/#.*$/, '');
-  const active = pathWithoutHash !== fullPath ? false : currentPath.startsWith(pathWithoutHash);
+  const active =
+    pathWithoutHash !== fullPath
+      ? false
+      : currentPath.startsWith(pathWithoutHash);
   return { ...item, fullPath, active };
 });
 ---
@@ -138,24 +172,50 @@ const navConfig = [
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
+      rel="stylesheet"
+    />
     <title>{title} | Taiwan.md</title>
-    <SEO title={title} description={description} lang={lang} image={image} type={type} datePublished={datePublished} dateModified={dateModified} content={content} tags={tags} category={category} />
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
+    <SEO
+      title={title}
+      description={description}
+      lang={lang}
+      image={image}
+      type={type}
+      datePublished={datePublished}
+      dateModified={dateModified}
+      content={content}
+      tags={tags}
+      category={category}
+    />
+    <script
+      is:inline
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      function gtag() {
+        dataLayer.push(arguments);
+      }
       gtag('js', new Date());
       gtag('config', 'G-JGC5W00N7T');
     </script>
   </head>
   <body>
     <div id="lang-banner" class="lang-banner" style="display:none;">
-      <span>🌐 English version available → <a href={enLink}>Switch to English</a></span>
-      <button class="lang-banner-close" onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');" aria-label="Close">✕</button>
+      <span
+        >🌐 English version available → <a href={enLink}>Switch to English</a
+        ></span
+      >
+      <button
+        class="lang-banner-close"
+        onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');"
+        aria-label="Close">✕</button
+      >
     </div>
     <script is:inline>
-      (function() {
+      (function () {
         if (localStorage.getItem('lang-banner-dismissed')) return;
         var lang = navigator.language || navigator.userLanguage || '';
         if (lang.startsWith('zh')) return;
@@ -166,129 +226,340 @@ const navConfig = [
     </script>
     <header role="banner">
       <div class="header-inner">
-        <a href={isEn ? "/en" : "/"} class="logo" aria-label="Taiwan.md 首頁">
-          <img src="/favicon.png" alt="Taiwan.md 標誌圖示" class="logo-icon" width="24" height="24" />
+        <a href={isEn ? '/en' : '/'} class="logo" aria-label="Taiwan.md 首頁">
+          <img
+            src="/favicon.png"
+            alt="Taiwan.md 標誌圖示"
+            class="logo-icon"
+            width="24"
+            height="24"
+          />
           <span class="logo-text">Taiwan<span class="logo-dot">.md</span></span>
         </a>
-        <button class="menu-toggle" aria-label="開啟/關閉導航選單" onclick="document.querySelector('.nav-mobile').classList.toggle('open')">☰</button>
+        <button
+          class="menu-toggle"
+          aria-label="開啟/關閉導航選單"
+          onclick="document.querySelector('.nav-mobile').classList.toggle('open')"
+          >☰</button
+        >
         <nav class="nav-desktop" aria-label="主要導航">
-          {navConfig.map(item => {
-            if (item.path === '/#categories') {
-              return (
-                <div class="nav-dropdown">
-                  <a href={item.fullPath} class:list={["nav-link", { active: item.active }]}>{item.label} <span class="dropdown-arrow">▾</span></a>
-                  <div class="dropdown-menu">
-                    <a href={isEn ? "/en/history" : "/history"} class="dropdown-item">📜 {isEn ? 'History' : '歷史'}</a>
-                    <a href={isEn ? "/en/geography" : "/geography"} class="dropdown-item">🗺️ {isEn ? 'Geography' : '地理'}</a>
-                    <a href={isEn ? "/en/culture" : "/culture"} class="dropdown-item">🎭 {isEn ? 'Culture' : '文化'}</a>
-                    <a href={isEn ? "/en/food" : "/food"} class="dropdown-item">🍜 {isEn ? 'Food' : '美食'}</a>
-                    <a href={isEn ? "/en/art" : "/art"} class="dropdown-item">🎨 {isEn ? 'Art' : '藝術'}</a>
-                    <a href={isEn ? "/en/music" : "/music"} class="dropdown-item">🎵 {isEn ? 'Music' : '音樂'}</a>
-                    <a href={isEn ? "/en/technology" : "/technology"} class="dropdown-item">💻 {isEn ? 'Technology' : '科技'}</a>
-                    <a href={isEn ? "/en/nature" : "/nature"} class="dropdown-item">🌿 {isEn ? 'Nature' : '自然'}</a>
-                    <a href={isEn ? "/en/people" : "/people"} class="dropdown-item">👥 {isEn ? 'People' : '人物'}</a>
-                    <a href={isEn ? "/en/society" : "/society"} class="dropdown-item">🏛️ {isEn ? 'Society' : '社會'}</a>
-                    <a href={isEn ? "/en/economy" : "/economy"} class="dropdown-item">📊 {isEn ? 'Economy' : '經濟'}</a>
-                    <a href={isEn ? "/en/lifestyle" : "/lifestyle"} class="dropdown-item">🏠 {isEn ? 'Lifestyle' : '生活'}</a>
+          {
+            navConfig.map((item) => {
+              if (item.path === '/#categories') {
+                return (
+                  <div class="nav-dropdown">
+                    <a
+                      href={item.fullPath}
+                      class:list={['nav-link', { active: item.active }]}
+                    >
+                      {item.label} <span class="dropdown-arrow">▾</span>
+                    </a>
+                    <div class="dropdown-menu">
+                      <a
+                        href={isEn ? '/en/history' : '/history'}
+                        class="dropdown-item"
+                      >
+                        📜 {isEn ? 'History' : '歷史'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/geography' : '/geography'}
+                        class="dropdown-item"
+                      >
+                        🗺️ {isEn ? 'Geography' : '地理'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/culture' : '/culture'}
+                        class="dropdown-item"
+                      >
+                        🎭 {isEn ? 'Culture' : '文化'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/food' : '/food'}
+                        class="dropdown-item"
+                      >
+                        🍜 {isEn ? 'Food' : '美食'}
+                      </a>
+                      <a href={isEn ? '/en/art' : '/art'} class="dropdown-item">
+                        🎨 {isEn ? 'Art' : '藝術'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/music' : '/music'}
+                        class="dropdown-item"
+                      >
+                        🎵 {isEn ? 'Music' : '音樂'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/technology' : '/technology'}
+                        class="dropdown-item"
+                      >
+                        💻 {isEn ? 'Technology' : '科技'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/nature' : '/nature'}
+                        class="dropdown-item"
+                      >
+                        🌿 {isEn ? 'Nature' : '自然'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/people' : '/people'}
+                        class="dropdown-item"
+                      >
+                        👥 {isEn ? 'People' : '人物'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/society' : '/society'}
+                        class="dropdown-item"
+                      >
+                        🏛️ {isEn ? 'Society' : '社會'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/economy' : '/economy'}
+                        class="dropdown-item"
+                      >
+                        📊 {isEn ? 'Economy' : '經濟'}
+                      </a>
+                      <a
+                        href={isEn ? '/en/lifestyle' : '/lifestyle'}
+                        class="dropdown-item"
+                      >
+                        🏠 {isEn ? 'Lifestyle' : '生活'}
+                      </a>
+                    </div>
                   </div>
-                </div>
+                );
+              }
+              return (
+                <a
+                  href={item.fullPath}
+                  class:list={['nav-link', { active: item.active }]}
+                >
+                  {item.label}
+                </a>
               );
-            }
-            return <a href={item.fullPath} class:list={["nav-link", { active: item.active }]}>{item.label}</a>;
-          })}
-          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="nav-link gh">
-            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+            })
+          }
+          <a
+            href="https://github.com/frank890417/taiwan-md"
+            target="_blank"
+            class="nav-link gh"
+          >
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"
+              ><path
+                d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+              ></path></svg
+            >
             GitHub
           </a>
         </nav>
         <nav class="nav-mobile" aria-label="行動裝置導航">
-          {navConfig.map(item => {
-            if(item.path === '/assets'){
-              return null
-            }
-            return <a href={item.fullPath} class:list={["nav-link", { active: item.active }]} onclick="document.querySelector('.nav-mobile').classList.remove('open')">{item.label}</a>
-
-          })}
-          <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="nav-link">GitHub</a>
+          {
+            navConfig.map((item) => {
+              if (item.path === '/assets') {
+                return null;
+              }
+              return (
+                <a
+                  href={item.fullPath}
+                  class:list={['nav-link', { active: item.active }]}
+                  onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                >
+                  {item.label}
+                </a>
+              );
+            })
+          }
+          <a
+            href="https://github.com/frank890417/taiwan-md"
+            target="_blank"
+            class="nav-link">GitHub</a
+          >
           <div class="mobile-lang-toggle">
             <span class="mobile-lang-label">🌐 語言 / Language:</span>
             <div class="mobile-lang-buttons">
-              <a href={zhLink} class:list={["mobile-lang-btn", { active: !currentPath.startsWith('/en') }]} onclick="document.querySelector('.nav-mobile').classList.remove('open')">中文</a>
-              <a href={enLink} class:list={["mobile-lang-btn", { active: currentPath.startsWith('/en') }]} onclick="document.querySelector('.nav-mobile').classList.remove('open')">English</a>
+              <a
+                href={zhLink}
+                class:list={[
+                  'mobile-lang-btn',
+                  { active: !currentPath.startsWith('/en') },
+                ]}
+                onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                >中文</a
+              >
+              <a
+                href={enLink}
+                class:list={[
+                  'mobile-lang-btn',
+                  { active: currentPath.startsWith('/en') },
+                ]}
+                onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+                >English</a
+              >
             </div>
           </div>
         </nav>
-        <button class="search-toggle" aria-label={isEn ? 'Search' : '搜尋'} onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <button
+          class="search-toggle"
+          aria-label={isEn ? 'Search' : '搜尋'}
+          onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)"
+        >
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            ><circle cx="11" cy="11" r="8"></circle><line
+              x1="21"
+              y1="21"
+              x2="16.65"
+              y2="16.65"></line></svg
+          >
         </button>
         <div class="lang-toggle" role="group" aria-label="語言選擇">
-          <a href={zhLink} class:list={["lang-btn", { active: !currentPath.startsWith('/en') }]} aria-label="切換至繁體中文">中文</a>
-          <a href={enLink} class:list={["lang-btn", { active: currentPath.startsWith('/en') }]} aria-label="Switch to English">EN</a>
+          <a
+            href={zhLink}
+            class:list={[
+              'lang-btn',
+              { active: !currentPath.startsWith('/en') },
+            ]}
+            aria-label="切換至繁體中文">中文</a
+          >
+          <a
+            href={enLink}
+            class:list={['lang-btn', { active: currentPath.startsWith('/en') }]}
+            aria-label="Switch to English">EN</a
+          >
         </div>
       </div>
     </header>
 
     <!-- Search Modal -->
     <div id="search-modal" class="search-modal">
-      <div class="search-backdrop" onclick="document.getElementById('search-modal').classList.remove('open')"></div>
+      <div
+        class="search-backdrop"
+        onclick="document.getElementById('search-modal').classList.remove('open')"
+      >
+      </div>
       <div class="search-panel">
         <div class="search-header">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-          <input id="search-input" type="text" placeholder={isEn ? 'Search articles...' : '搜尋文章...'} autocomplete="off" />
-          <kbd class="search-kbd" onclick="document.getElementById('search-modal').classList.remove('open')">ESC</kbd>
+          <svg
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="#94a3b8"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            ><circle cx="11" cy="11" r="8"></circle><line
+              x1="21"
+              y1="21"
+              x2="16.65"
+              y2="16.65"></line></svg
+          >
+          <input
+            id="search-input"
+            type="text"
+            placeholder={isEn ? 'Search articles...' : '搜尋文章...'}
+            autocomplete="off"
+          />
+          <kbd
+            class="search-kbd"
+            onclick="document.getElementById('search-modal').classList.remove('open')"
+            >ESC</kbd
+          >
         </div>
         <div id="search-results" class="search-results">
-          <div class="search-hint">{isEn ? 'Type to search across all articles' : '輸入關鍵字搜尋所有文章'}</div>
+          <div class="search-hint">
+            {
+              isEn
+                ? 'Type to search across all articles'
+                : '輸入關鍵字搜尋所有文章'
+            }
+          </div>
         </div>
       </div>
     </div>
     <script is:inline define:vars={{ searchIndex, isEn }}>
-      (function() {
+      (function () {
         var idx = searchIndex;
         var lang = isEn ? 'en' : 'zh-TW';
         var input = document.getElementById('search-input');
         var results = document.getElementById('search-results');
         var modal = document.getElementById('search-modal');
 
-        input.addEventListener('input', function() {
+        input.addEventListener('input', function () {
           var q = this.value.trim().toLowerCase();
           if (!q) {
-            results.innerHTML = '<div class="search-hint">' + (isEn ? 'Type to search across all articles' : '輸入關鍵字搜尋所有文章') + '</div>';
+            results.innerHTML =
+              '<div class="search-hint">' +
+              (isEn
+                ? 'Type to search across all articles'
+                : '輸入關鍵字搜尋所有文章') +
+              '</div>';
             return;
           }
-          var matches = idx.filter(function(item) {
-            return item.t.toLowerCase().indexOf(q) !== -1 ||
-                   item.d.toLowerCase().indexOf(q) !== -1 ||
-                   item.tags.some(function(tag) { return tag.toLowerCase().indexOf(q) !== -1; });
+          var matches = idx.filter(function (item) {
+            return (
+              item.t.toLowerCase().indexOf(q) !== -1 ||
+              item.d.toLowerCase().indexOf(q) !== -1 ||
+              item.tags.some(function (tag) {
+                return tag.toLowerCase().indexOf(q) !== -1;
+              })
+            );
           });
           // Prefer current language, then show others
-          matches.sort(function(a, b) {
+          matches.sort(function (a, b) {
             var aLang = a.lang === lang ? 0 : 1;
             var bLang = b.lang === lang ? 0 : 1;
             return aLang - bLang;
           });
           if (matches.length === 0) {
-            results.innerHTML = '<div class="search-hint">' + (isEn ? 'No results found' : '找不到相關文章') + '</div>';
+            results.innerHTML =
+              '<div class="search-hint">' +
+              (isEn ? 'No results found' : '找不到相關文章') +
+              '</div>';
             return;
           }
-          var html = matches.slice(0, 12).map(function(item) {
-            var langBadge = item.lang === 'en' ? 'EN' : '中';
-            return '<a class="search-item" href="' + item.u + '">' +
-              '<span class="search-item-lang">' + langBadge + '</span>' +
-              '<div class="search-item-text">' +
-                '<span class="search-item-title">' + item.t + '</span>' +
-                (item.d ? '<span class="search-item-desc">' + item.d + '</span>' : '') +
-              '</div>' +
-            '</a>';
-          }).join('');
+          var html = matches
+            .slice(0, 12)
+            .map(function (item) {
+              var langBadge = item.lang === 'en' ? 'EN' : '中';
+              return (
+                '<a class="search-item" href="' +
+                item.u +
+                '">' +
+                '<span class="search-item-lang">' +
+                langBadge +
+                '</span>' +
+                '<div class="search-item-text">' +
+                '<span class="search-item-title">' +
+                item.t +
+                '</span>' +
+                (item.d
+                  ? '<span class="search-item-desc">' + item.d + '</span>'
+                  : '') +
+                '</div>' +
+                '</a>'
+              );
+            })
+            .join('');
           if (matches.length > 12) {
-            html += '<div class="search-hint">' + (isEn ? '...and ' + (matches.length - 12) + ' more' : '...還有 ' + (matches.length - 12) + ' 篇') + '</div>';
+            html +=
+              '<div class="search-hint">' +
+              (isEn
+                ? '...and ' + (matches.length - 12) + ' more'
+                : '...還有 ' + (matches.length - 12) + ' 篇') +
+              '</div>';
           }
           results.innerHTML = html;
         });
 
         // ESC to close
-        document.addEventListener('keydown', function(e) {
+        document.addEventListener('keydown', function (e) {
           if (e.key === 'Escape' && modal.classList.contains('open')) {
             modal.classList.remove('open');
           }
@@ -297,7 +568,9 @@ const navConfig = [
             e.preventDefault();
             modal.classList.toggle('open');
             if (modal.classList.contains('open')) {
-              setTimeout(function() { input.focus(); }, 100);
+              setTimeout(function () {
+                input.focus();
+              }, 100);
             }
           }
         });
@@ -316,43 +589,81 @@ const navConfig = [
             <p>{i18n.footer.desc}</p>
             <p class="footer-heart">Built with ❤️ in Taiwan</p>
             <p class="footer-license">
-              <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw" target="_blank" rel="noopener">
-                <svg width="16" height="16" viewBox="0 0 496 512" fill="currentColor" style="margin-right: 6px;">
-                  <path d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"/>
+              <a
+                href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw"
+                target="_blank"
+                rel="noopener"
+              >
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 496 512"
+                  fill="currentColor"
+                  style="margin-right: 6px;"
+                >
+                  <path
+                    d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"
+                  ></path>
                 </svg>
                 CC BY-SA 4.0
               </a>
             </p>
             <p class="footer-eth">
-              <span class="footer-eth-label">{isEn ? 'Support us' : '支持我們'}:</span>
+              <span class="footer-eth-label"
+                >{isEn ? 'Support us' : '支持我們'}:</span
+              >
               <code class="footer-eth-address">taiwanmd.eth</code>
             </p>
           </div>
           <div class="footer-col">
             <h4>{i18n.footer.explore}</h4>
-            <a href={isEn ? "/en/history" : "/history"}>{i18n.footer.history}</a>
-            <a href={isEn ? "/en/culture" : "/culture"}>{i18n.footer.culture}</a>
-            <a href={isEn ? "/en/food" : "/food"}>{i18n.footer.food}</a>
-            <a href={isEn ? "/en/technology" : "/technology"}>{i18n.footer.technology}</a>
-            <a href={isEn ? "/en/nature" : "/nature"}>{i18n.footer.nature}</a>
-            <a href={isEn ? "/en/society" : "/society"}>{i18n.footer.society}</a>
+            <a href={isEn ? '/en/history' : '/history'}>{i18n.footer.history}</a
+            >
+            <a href={isEn ? '/en/culture' : '/culture'}>{i18n.footer.culture}</a
+            >
+            <a href={isEn ? '/en/food' : '/food'}>{i18n.footer.food}</a>
+            <a href={isEn ? '/en/technology' : '/technology'}
+              >{i18n.footer.technology}</a
+            >
+            <a href={isEn ? '/en/nature' : '/nature'}>{i18n.footer.nature}</a>
+            <a href={isEn ? '/en/society' : '/society'}>{i18n.footer.society}</a
+            >
           </div>
           <div class="footer-col">
             <h4>{i18n.footer.project}</h4>
-            <a href="https://github.com/frank890417/taiwan-md" target="_blank">GitHub</a>
-            <a href={isEn ? "/en/about" : "/about"}>{i18n.footer.about}</a>
-            <a href={isEn ? "/en/graph" : "/graph"}>{i18n.footer.graph}</a>
-            <a href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md" target="_blank">{i18n.footer.contribute}</a>
-            <a href={isEn ? "/en/changelog" : "/changelog"}>{i18n.footer.changelog}</a>
+            <a href="https://github.com/frank890417/taiwan-md" target="_blank"
+              >GitHub</a
+            >
+            <a href={isEn ? '/en/about' : '/about'}>{i18n.footer.about}</a>
+            <a href={isEn ? '/en/graph' : '/graph'}>{i18n.footer.graph}</a>
+            <a
+              href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md"
+              target="_blank">{i18n.footer.contribute}</a
+            >
+            <a href={isEn ? '/en/changelog' : '/changelog'}
+              >{i18n.footer.changelog}</a
+            >
           </div>
           <div class="footer-col">
             <h4>{i18n.footer.contact}</h4>
-            <a href="https://x.com/taiwandotmd" target="_blank">𝕏 @taiwandotmd</a>
-            <a href="https://www.threads.com/@taiwandotmd" target="_blank">Threads @taiwandotmd</a>
-            <a href="https://www.instagram.com/taiwandotmd" target="_blank">IG @taiwandotmd</a>
+            <a href="https://x.com/taiwandotmd" target="_blank"
+              >𝕏 @taiwandotmd</a
+            >
+            <a href="https://www.threads.com/@taiwandotmd" target="_blank"
+              >Threads @taiwandotmd</a
+            >
+            <a href="https://www.instagram.com/taiwandotmd" target="_blank"
+              >IG @taiwandotmd</a
+            >
             <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a>
-            <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank">{i18n.footer.report}</a>
-            <a href="https://github.com/frank890417/taiwan-md/discussions" target="_blank">{i18n.footer.discuss}</a>
+            <a
+              href="https://github.com/frank890417/taiwan-md/issues"
+              target="_blank">{i18n.footer.report}</a
+            >
+            <a
+              href="https://github.com/frank890417/taiwan-md/discussions"
+              target="_blank">{i18n.footer.discuss}</a
+            >
           </div>
         </div>
         <div class="footer-bottom">
@@ -362,7 +673,12 @@ const navConfig = [
     </footer>
 
     <!-- Floating .md button -->
-    <a id="md-btn" class="floating-md" title="查看 Raw Markdown 版本" target="_blank">
+    <a
+      id="md-btn"
+      class="floating-md"
+      title="查看 Raw Markdown 版本"
+      target="_blank"
+    >
       .md
     </a>
 
@@ -371,11 +687,16 @@ const navConfig = [
       const btn = document.getElementById('md-btn');
       const pathname = window.location.pathname;
       const ghBase = 'https://github.com/frank890417/taiwan-md/blob/main';
-      
+
       let target = '/README.md'; // Default fallback
 
       // Handle special pages
-      if (pathname === '/' || pathname === '/en' || pathname === '/en/' || pathname === '/index.html') {
+      if (
+        pathname === '/' ||
+        pathname === '/en' ||
+        pathname === '/en/' ||
+        pathname === '/index.html'
+      ) {
         target = '/README.md';
       } else if (pathname.includes('/contribute')) {
         target = '/CONTRIBUTING.md';
@@ -384,40 +705,48 @@ const navConfig = [
       } else if (pathname.includes('/graph')) {
         target = '/src/pages/graph.astro';
       } else if (pathname.includes('/map')) {
-        target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
+        target = pathname.startsWith('/en')
+          ? '/src/pages/en/map.astro'
+          : '/src/pages/map.astro';
       } else if (pathname.includes('/about')) {
         target = '/src/pages/about.astro';
       } else {
         // Content pages (Categories or Articles)
         const isEn = pathname.startsWith('/en/');
         // Remove /en/ prefix and leading/trailing slashes
-        const cleanPath = pathname.replace(/^\/en/, '').replace(/^\//, '').replace(/\/$/, '').replace('index.html', '');
+        const cleanPath = pathname
+          .replace(/^\/en/, '')
+          .replace(/^\//, '')
+          .replace(/\/$/, '')
+          .replace('index.html', '');
         const parts = cleanPath.split('/');
-        
+
         if (parts.length > 0 && parts[0]) {
           const cat = parts[0];
           // Capitalize first letter of category (history -> History)
           const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
-          
+
           // ZH source is in knowledge/Category, EN source is in knowledge/en/Category
           const prefix = isEn ? '/knowledge/en' : '/knowledge';
-          
+
           if (parts.length === 1) {
             // Category Hub: knowledge/History/_History Hub.md
             target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
           } else {
             // Article: knowledge/History/article-name.md
-            const slug = decodeURIComponent(parts.slice(1).join('/')); 
+            const slug = decodeURIComponent(parts.slice(1).join('/'));
             target = `${prefix}/${catFolder}/${slug}.md`;
           }
         }
       }
-      
+
       btn.href = ghBase + target;
 
       // Hash-based active state can only be detected client-side
       if (window.location.hash === '#categories') {
-        document.querySelectorAll('.nav-link[href$="/#categories"]').forEach(l => l.classList.add('active'));
+        document
+          .querySelectorAll('.nav-link[href$="/#categories"]')
+          .forEach((l) => l.classList.add('active'));
       }
     </script>
   </body>
@@ -448,7 +777,7 @@ const navConfig = [
     --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
     --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
     --border-soft: 1px solid rgba(148, 163, 184, 0.2);
-    --font-editorial: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    --font-editorial: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
     --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
     --title-section-size: clamp(1.95rem, 4vw, 2.5rem);
     --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
@@ -460,8 +789,12 @@ const navConfig = [
     --copy-intro-color: #64748b;
     --copy-intro-width: 42rem;
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-  
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
   /* Focus styles for keyboard accessibility */
   *:focus-visible {
     outline: 2px solid #3b82f6;
@@ -485,21 +818,37 @@ const navConfig = [
     font-size: 0.85rem;
     text-align: center;
   }
-  .lang-banner a { color: #fbbf24; font-weight: 600; text-decoration: underline; }
-  .lang-banner a:hover { color: #fde68a; }
-  .lang-banner-close {
-    background: none; border: none; color: rgba(255,255,255,0.7);
-    font-size: 1rem; cursor: pointer; padding: 0 0.3rem;
+  .lang-banner a {
+    color: #fbbf24;
+    font-weight: 600;
+    text-decoration: underline;
   }
-  .lang-banner-close:hover { color: white; }
-  
+  .lang-banner a:hover {
+    color: #fde68a;
+  }
+  .lang-banner-close {
+    background: none;
+    border: none;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 1rem;
+    cursor: pointer;
+    padding: 0 0.3rem;
+  }
+  .lang-banner-close:hover {
+    color: white;
+  }
+
   body {
-    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-family: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
     font-weight: 600;
     line-height: 1.6;
     color: #1a1a2e;
     background:
-      radial-gradient(circle at top, rgba(226, 232, 240, 0.35), transparent 30%),
+      radial-gradient(
+        circle at top,
+        rgba(226, 232, 240, 0.35),
+        transparent 30%
+      ),
       linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
     -webkit-font-smoothing: antialiased;
   }
@@ -530,8 +879,14 @@ const navConfig = [
     font-weight: 700;
     color: #1a1a2e;
   }
-  .logo-icon { width: 1.4rem; height: 1.4rem; vertical-align: middle; }
-  .logo-dot { color: #3b82f6; }
+  .logo-icon {
+    width: 1.4rem;
+    height: 1.4rem;
+    vertical-align: middle;
+  }
+  .logo-dot {
+    color: #3b82f6;
+  }
   nav {
     display: flex;
     gap: 0.35rem;
@@ -567,7 +922,7 @@ const navConfig = [
   .dropdown-item {
     display: block;
     padding: 0.45rem 1.1rem;
-    color: #2D5016;
+    color: #2d5016;
     text-decoration: none;
     font-size: 0.85rem;
     font-weight: 500;
@@ -592,8 +947,8 @@ const navConfig = [
     white-space: nowrap;
     border-radius: 999px;
   }
-  .nav-link:hover { 
-    color: #1a1a2e; 
+  .nav-link:hover {
+    color: #1a1a2e;
     text-decoration: none;
     background: rgba(148, 163, 184, 0.12);
   }
@@ -614,7 +969,9 @@ const navConfig = [
     height: 2px;
     background: #3b82f6;
   }
-  .nav-link.gh svg { opacity: 0.7; }
+  .nav-link.gh svg {
+    opacity: 0.7;
+  }
   /* Search toggle button */
   .search-toggle {
     display: flex;
@@ -793,19 +1150,30 @@ const navConfig = [
   }
 
   /* Global link styles */
-  main a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item) {
+  main
+    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(
+      .logo
+    ):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item) {
     color: #475569;
     text-decoration: none;
     border-bottom: 1px solid #cbd5e1;
     padding-bottom: 1px;
     transition: all 0.2s ease;
   }
-  main a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item):hover {
+  main
+    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(
+      .logo
+    ):not(.category-card):not(.lang-btn):not(.floating-md):not(
+      .search-item
+    ):hover {
     color: #1a1a2e;
     border-bottom-color: #64748b;
   }
   /* External links (with target="_blank") get an icon */
-  main a[target="_blank"]:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md)::after {
+  main
+    a[target='_blank']:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(
+      .card-link
+    ):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md)::after {
     content: '↗';
     font-size: 0.8em;
     margin-left: 0.2em;
@@ -836,7 +1204,10 @@ const navConfig = [
     display: block;
     margin-bottom: 0.5rem;
   }
-  .footer-heart { color: #22c55e; margin-top: 0.5rem; }
+  .footer-heart {
+    color: #22c55e;
+    margin-top: 0.5rem;
+  }
   .footer-license {
     margin-top: 0.75rem;
   }
@@ -858,12 +1229,14 @@ const navConfig = [
     align-items: center;
     gap: 0.4rem;
   }
-  .footer-eth-label { color: #94a3b8; }
+  .footer-eth-label {
+    color: #94a3b8;
+  }
   .footer-eth-address {
     font-family: 'SF Mono', 'Fira Code', monospace;
     color: #a7c7a7;
     font-size: 0.8rem;
-    background: rgba(255,255,255,0.06);
+    background: rgba(255, 255, 255, 0.06);
     padding: 0.15rem 0.5rem;
     border-radius: 4px;
     letter-spacing: 0.02em;
@@ -888,8 +1261,8 @@ const navConfig = [
     position: relative;
     padding: 0.25rem 0;
   }
-  .footer-col a:hover { 
-    color: #e2e8f0; 
+  .footer-col a:hover {
+    color: #e2e8f0;
     text-decoration: none;
   }
   .footer-col a:hover::after {
@@ -950,9 +1323,16 @@ const navConfig = [
     display: none;
   }
   @media (max-width: 768px) {
-    .header-inner { padding: 0.7rem 1rem; gap: 0.75rem; }
-    .logo { font-size: 1.05rem; }
-    .nav-desktop { display: none; }
+    .header-inner {
+      padding: 0.7rem 1rem;
+      gap: 0.75rem;
+    }
+    .logo {
+      font-size: 1.05rem;
+    }
+    .nav-desktop {
+      display: none;
+    }
     .menu-toggle {
       display: block;
       order: 4;
@@ -963,10 +1343,20 @@ const navConfig = [
       background: #f8fafc;
       border: 1px solid #e2e8f0;
     }
-    .search-toggle { order: 2; }
-    .lang-toggle { order: 3; margin-left: auto; }
-    .search-panel { max-width: 100%; width: 95%; }
-    .search-modal { padding-top: 8vh; }
+    .search-toggle {
+      order: 2;
+    }
+    .lang-toggle {
+      order: 3;
+      margin-left: auto;
+    }
+    .search-panel {
+      max-width: 100%;
+      width: 95%;
+    }
+    .search-modal {
+      padding-top: 8vh;
+    }
     .nav-mobile {
       display: none;
       position: absolute;
@@ -974,17 +1364,19 @@ const navConfig = [
       left: 0.75rem;
       right: 0.75rem;
       margin-top: 0.35rem;
-      background: rgba(255,255,255,0.99);
+      background: rgba(255, 255, 255, 0.99);
       backdrop-filter: blur(20px);
       -webkit-backdrop-filter: blur(20px);
       flex-direction: column;
       padding: 0.8rem 1rem 1rem;
       gap: 0;
-      border: 1px solid rgba(0,0,0,0.08);
+      border: 1px solid rgba(0, 0, 0, 0.08);
       border-radius: 18px;
       box-shadow: 0 18px 42px rgba(15, 23, 42, 0.14);
     }
-    .nav-mobile.open { display: flex; }
+    .nav-mobile.open {
+      display: flex;
+    }
     .nav-mobile .nav-link {
       padding: 0.85rem 0.2rem;
       font-size: 0.95rem;
@@ -1048,11 +1440,23 @@ const navConfig = [
     .footer-brand {
       grid-column: 1 / -1;
     }
-    .floating-md { bottom: 1rem; right: 1rem; width: 42px; height: 42px; font-size: 0.78rem; }
-    footer { padding: 2.5rem 0 1.25rem; }
-    .footer-inner { padding: 0 1.25rem; }
+    .floating-md {
+      bottom: 1rem;
+      right: 1rem;
+      width: 42px;
+      height: 42px;
+      font-size: 0.78rem;
+    }
+    footer {
+      padding: 2.5rem 0 1.25rem;
+    }
+    .footer-inner {
+      padding: 0 1.25rem;
+    }
   }
   @media (max-width: 480px) {
-    .footer-grid { grid-template-columns: 1fr; }
+    .footer-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>

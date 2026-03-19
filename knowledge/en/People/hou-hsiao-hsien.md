@@ -1,7 +1,16 @@
 ---
-title: "Hou Hsiao-hsien"
+title: 'Hou Hsiao-hsien'
 category: People
-tags: [person, Hou Hsiao-hsien, Taiwan New Cinema, director, Venice Golden Lion, Cannes Film Festival, cinema art]
+tags:
+  [
+    person,
+    Hou Hsiao-hsien,
+    Taiwan New Cinema,
+    director,
+    Venice Golden Lion,
+    Cannes Film Festival,
+    cinema art,
+  ]
 date: 2026-03-17
 ---
 

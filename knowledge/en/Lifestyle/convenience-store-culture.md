@@ -1,9 +1,16 @@
 ---
-title: "Convenience Store Culture"
+title: 'Convenience Store Culture'
 description: "Taiwan's world-highest density convenience stores: how they became lifestyle infrastructure beyond retail"
 date: 2026-03-17
-tags: ["Convenience Stores", "7-ELEVEN", "FamilyMart", "Lifestyle Services", "Retail Innovation"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'Convenience Stores',
+    '7-ELEVEN',
+    'FamilyMart',
+    'Lifestyle Services',
+    'Retail Innovation',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 ---
@@ -15,6 +22,7 @@ featured: false
 Taiwan is hailed as the "Convenience Store Kingdom" with the world's highest convenience store density - one store for every 2,000 people on average. Over 13,000 convenience stores across Taiwan provide more than 2,000 types of payment and collection services. From bill payments and package delivery to ticket purchases and seating areas, they have long transcended traditional retail concepts to become indispensable lifestyle infrastructure for Taiwanese people.
 
 **Key Statistics:**
+
 - Convenience store density: World's highest (4.7 stores per square kilometer)
 - Four major brands: 7-ELEVEN (6,700+ stores), FamilyMart (4,200+ stores), Hi-Life, OK Mart
 - Service items: Over 2,000 payment/collection services, coffee, hot food, delivery, seating areas

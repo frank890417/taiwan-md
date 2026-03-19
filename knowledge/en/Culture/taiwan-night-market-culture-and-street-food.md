@@ -1,10 +1,18 @@
 ---
-title: "Taiwan Night Market Culture and Street Food"
-description: "Deep exploration of Taiwan night market culture formation, unique charm, and historical stories and cultural significance of representative street foods"
+title: 'Taiwan Night Market Culture and Street Food'
+description: 'Deep exploration of Taiwan night market culture formation, unique charm, and historical stories and cultural significance of representative street foods'
 date: 2026-03-18
-tags: ["Night Markets", "Street Food", "Folk Culture", "Food Culture", "Night Life", "Social Culture"]
-category: "Culture"
-author: "Taiwan.md"
+tags:
+  [
+    'Night Markets',
+    'Street Food',
+    'Folk Culture',
+    'Food Culture',
+    'Night Life',
+    'Social Culture',
+  ]
+category: 'Culture'
+author: 'Taiwan.md'
 readingTime: 15
 featured: true
 ---

@@ -32,5 +32,5 @@ const enCollection = defineCollection({
 
 export const collections = {
   'zh-TW': zhTWCollection,
-  'en': enCollection,
+  en: enCollection,
 };

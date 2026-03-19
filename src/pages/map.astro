@@ -8,7 +8,9 @@ import Layout from '../layouts/Layout.astro';
       <div class="hero-inner">
         <p class="hero-kicker">Map View</p>
         <h1>台灣地圖</h1>
-        <p class="hero-subtitle">用地圖視角探索台灣的文化、美食、自然與歷史節點。</p>
+        <p class="hero-subtitle">
+          用地圖視角探索台灣的文化、美食、自然與歷史節點。
+        </p>
       </div>
     </section>
 
@@ -48,7 +50,7 @@ import Layout from '../layouts/Layout.astro';
       <div class="map-canvas">
         <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
           <!-- Taiwan main island -->
-          <path 
+          <path
             d="M400 100 
                C450 100, 480 130, 485 180
                C490 220, 485 260, 480 300
@@ -71,54 +73,251 @@ import Layout from '../layouts/Layout.astro';
             fill="url(#taiwanGradient)"
             stroke="#2d5016"
             stroke-width="2"
-            class="taiwan-mainland"
-          />
-          
+            class="taiwan-mainland"></path>
+
           <!-- Penghu Islands -->
-          <circle cx="150" cy="450" r="8" fill="#16a34a" class="island penghu" />
-          
+          <circle cx="150" cy="450" r="8" fill="#16a34a" class="island penghu"
+          ></circle>
+
           <!-- Kinmen -->
-          <circle cx="80" cy="400" r="6" fill="#16a34a" class="island kinmen" />
-          
+          <circle cx="80" cy="400" r="6" fill="#16a34a" class="island kinmen"
+          ></circle>
+
           <!-- Gradient definition -->
           <defs>
-            <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stop-color="#dcfce7" />
-              <stop offset="50%" stop-color="#bbf7d0" />
-              <stop offset="100%" stop-color="#86efac" />
+            <linearGradient
+              id="taiwanGradient"
+              x1="0%"
+              y1="0%"
+              x2="0%"
+              y2="100%"
+            >
+              <stop offset="0%" stop-color="#dcfce7"></stop>
+              <stop offset="50%" stop-color="#bbf7d0"></stop>
+              <stop offset="100%" stop-color="#86efac"></stop>
             </linearGradient>
           </defs>
 
           <!-- Knowledge markers -->
           <g id="markers">
             <!-- North Region -->
-            <circle cx="350" cy="200" r="8" fill="#f39c12" class="marker" data-region="north" data-category="food" data-title="士林夜市" data-link="/food/夜市文化" data-desc="台灣夜市文化的代表性據點"></circle>
-            <circle cx="330" cy="180" r="8" fill="#27ae60" class="marker" data-region="north" data-category="nature" data-title="陽明山國家公園" data-link="/nature/國家公園" data-desc="台灣第一個國家公園"></circle>
-            <circle cx="370" cy="220" r="8" fill="#ff5722" class="marker" data-region="north" data-category="economy" data-title="台北101" data-link="/economy/經濟奇蹟" data-desc="台灣經濟奇蹟的象徵"></circle>
-            <circle cx="360" cy="210" r="8" fill="#e74c3c" class="marker" data-region="north" data-category="history" data-title="中正紀念堂" data-link="/history/戒嚴時期" data-desc="見證台灣戒嚴時期的歷史建築"></circle>
-            <circle cx="365" cy="215" r="8" fill="#8bc34a" class="marker" data-region="north" data-category="lifestyle" data-title="西門町" data-link="/lifestyle/便利商店文化" data-desc="台灣便利商店文化發源地"></circle>
-            <circle cx="380" cy="240" r="8" fill="#3498db" class="marker" data-region="north" data-category="technology" data-title="新竹科學園區" data-link="/technology/半導體產業" data-desc="台灣半導體產業重鎮"></circle>
+            <circle
+              cx="350"
+              cy="200"
+              r="8"
+              fill="#f39c12"
+              class="marker"
+              data-region="north"
+              data-category="food"
+              data-title="士林夜市"
+              data-link="/food/夜市文化"
+              data-desc="台灣夜市文化的代表性據點"></circle>
+            <circle
+              cx="330"
+              cy="180"
+              r="8"
+              fill="#27ae60"
+              class="marker"
+              data-region="north"
+              data-category="nature"
+              data-title="陽明山國家公園"
+              data-link="/nature/國家公園"
+              data-desc="台灣第一個國家公園"></circle>
+            <circle
+              cx="370"
+              cy="220"
+              r="8"
+              fill="#ff5722"
+              class="marker"
+              data-region="north"
+              data-category="economy"
+              data-title="台北101"
+              data-link="/economy/經濟奇蹟"
+              data-desc="台灣經濟奇蹟的象徵"></circle>
+            <circle
+              cx="360"
+              cy="210"
+              r="8"
+              fill="#e74c3c"
+              class="marker"
+              data-region="north"
+              data-category="history"
+              data-title="中正紀念堂"
+              data-link="/history/戒嚴時期"
+              data-desc="見證台灣戒嚴時期的歷史建築"></circle>
+            <circle
+              cx="365"
+              cy="215"
+              r="8"
+              fill="#8bc34a"
+              class="marker"
+              data-region="north"
+              data-category="lifestyle"
+              data-title="西門町"
+              data-link="/lifestyle/便利商店文化"
+              data-desc="台灣便利商店文化發源地"></circle>
+            <circle
+              cx="380"
+              cy="240"
+              r="8"
+              fill="#3498db"
+              class="marker"
+              data-region="north"
+              data-category="technology"
+              data-title="新竹科學園區"
+              data-link="/technology/半導體產業"
+              data-desc="台灣半導體產業重鎮"></circle>
 
             <!-- Central Region -->
-            <circle cx="320" cy="420" r="8" fill="#27ae60" class="marker" data-region="central" data-category="nature" data-title="日月潭" data-link="/nature/國家公園" data-desc="台灣最美麗的高山湖泊"></circle>
-            <circle cx="340" cy="380" r="8" fill="#9b59b6" class="marker" data-region="central" data-category="culture" data-title="鹿港" data-link="/culture/廟宇文化與民間信仰" data-desc="台灣廟宇文化的重要據點"></circle>
-            <circle cx="360" cy="370" r="8" fill="#e91e63" class="marker" data-region="central" data-category="art" data-title="台中國家歌劇院" data-link="/art/當代藝術" data-desc="台灣當代藝術的重要場域"></circle>
+            <circle
+              cx="320"
+              cy="420"
+              r="8"
+              fill="#27ae60"
+              class="marker"
+              data-region="central"
+              data-category="nature"
+              data-title="日月潭"
+              data-link="/nature/國家公園"
+              data-desc="台灣最美麗的高山湖泊"></circle>
+            <circle
+              cx="340"
+              cy="380"
+              r="8"
+              fill="#9b59b6"
+              class="marker"
+              data-region="central"
+              data-category="culture"
+              data-title="鹿港"
+              data-link="/culture/廟宇文化與民間信仰"
+              data-desc="台灣廟宇文化的重要據點"></circle>
+            <circle
+              cx="360"
+              cy="370"
+              r="8"
+              fill="#e91e63"
+              class="marker"
+              data-region="central"
+              data-category="art"
+              data-title="台中國家歌劇院"
+              data-link="/art/當代藝術"
+              data-desc="台灣當代藝術的重要場域"></circle>
 
             <!-- South Region -->
-            <circle cx="320" cy="650" r="8" fill="#e74c3c" class="marker" data-region="south" data-category="history" data-title="台南府城" data-link="/history/荷西明鄭時期" data-desc="台灣歷史文化古都"></circle>
-            <circle cx="340" cy="680" r="8" fill="#ff5722" class="marker" data-region="south" data-category="economy" data-title="高雄港" data-link="/economy/經濟奇蹟" data-desc="台灣重要的海港經濟據點"></circle>
-            <circle cx="350" cy="800" r="8" fill="#27ae60" class="marker" data-region="south" data-category="nature" data-title="墾丁國家公園" data-link="/nature/國家公園" data-desc="台灣最南端的國家公園"></circle>
-            <circle cx="300" cy="720" r="8" fill="#9b59b6" class="marker" data-region="south" data-category="culture" data-title="六堆客家文化" data-link="/culture/族群（閩南客家原住民外省新住民）" data-desc="南台灣客家文化保存區"></circle>
+            <circle
+              cx="320"
+              cy="650"
+              r="8"
+              fill="#e74c3c"
+              class="marker"
+              data-region="south"
+              data-category="history"
+              data-title="台南府城"
+              data-link="/history/荷西明鄭時期"
+              data-desc="台灣歷史文化古都"></circle>
+            <circle
+              cx="340"
+              cy="680"
+              r="8"
+              fill="#ff5722"
+              class="marker"
+              data-region="south"
+              data-category="economy"
+              data-title="高雄港"
+              data-link="/economy/經濟奇蹟"
+              data-desc="台灣重要的海港經濟據點"></circle>
+            <circle
+              cx="350"
+              cy="800"
+              r="8"
+              fill="#27ae60"
+              class="marker"
+              data-region="south"
+              data-category="nature"
+              data-title="墾丁國家公園"
+              data-link="/nature/國家公園"
+              data-desc="台灣最南端的國家公園"></circle>
+            <circle
+              cx="300"
+              cy="720"
+              r="8"
+              fill="#9b59b6"
+              class="marker"
+              data-region="south"
+              data-category="culture"
+              data-title="六堆客家文化"
+              data-link="/culture/族群（閩南客家原住民外省新住民）"
+              data-desc="南台灣客家文化保存區"></circle>
 
             <!-- East Region -->
-            <circle cx="420" cy="350" r="8" fill="#27ae60" class="marker" data-region="east" data-category="nature" data-title="太魯閣國家公園" data-link="/nature/國家公園" data-desc="世界級的峽谷地景"></circle>
-            <circle cx="430" cy="450" r="8" fill="#2ecc71" class="marker" data-region="east" data-category="geography" data-title="花東縱谷" data-link="/geography/台灣五大地形與地理結構" data-desc="台灣重要的地理景觀"></circle>
-            <circle cx="480" cy="600" r="8" fill="#9b59b6" class="marker" data-region="east" data-category="culture" data-title="蘭嶼" data-link="/culture/原住民族文化" data-desc="原住民族文化保存地"></circle>
-            <circle cx="425" cy="470" r="8" fill="#f39c12" class="marker" data-region="east" data-category="food" data-title="池上" data-link="/food/台灣茶文化" data-desc="台灣優質稻米產區"></circle>
+            <circle
+              cx="420"
+              cy="350"
+              r="8"
+              fill="#27ae60"
+              class="marker"
+              data-region="east"
+              data-category="nature"
+              data-title="太魯閣國家公園"
+              data-link="/nature/國家公園"
+              data-desc="世界級的峽谷地景"></circle>
+            <circle
+              cx="430"
+              cy="450"
+              r="8"
+              fill="#2ecc71"
+              class="marker"
+              data-region="east"
+              data-category="geography"
+              data-title="花東縱谷"
+              data-link="/geography/台灣五大地形與地理結構"
+              data-desc="台灣重要的地理景觀"></circle>
+            <circle
+              cx="480"
+              cy="600"
+              r="8"
+              fill="#9b59b6"
+              class="marker"
+              data-region="east"
+              data-category="culture"
+              data-title="蘭嶼"
+              data-link="/culture/原住民族文化"
+              data-desc="原住民族文化保存地"></circle>
+            <circle
+              cx="425"
+              cy="470"
+              r="8"
+              fill="#f39c12"
+              class="marker"
+              data-region="east"
+              data-category="food"
+              data-title="池上"
+              data-link="/food/台灣茶文化"
+              data-desc="台灣優質稻米產區"></circle>
 
             <!-- Islands -->
-            <circle cx="150" cy="450" r="6" fill="#2ecc71" class="marker island-marker" data-region="islands" data-category="geography" data-title="澎湖" data-link="/geography/離島與海洋文化" data-desc="台灣海洋文化的代表"></circle>
-            <circle cx="80" cy="400" r="6" fill="#e74c3c" class="marker island-marker" data-region="islands" data-category="history" data-title="金門" data-link="/history/戒嚴時期" data-desc="見證兩岸對峙的歷史"></circle>
+            <circle
+              cx="150"
+              cy="450"
+              r="6"
+              fill="#2ecc71"
+              class="marker island-marker"
+              data-region="islands"
+              data-category="geography"
+              data-title="澎湖"
+              data-link="/geography/離島與海洋文化"
+              data-desc="台灣海洋文化的代表"></circle>
+            <circle
+              cx="80"
+              cy="400"
+              r="6"
+              fill="#e74c3c"
+              class="marker island-marker"
+              data-region="islands"
+              data-category="history"
+              data-title="金門"
+              data-link="/history/戒嚴時期"
+              data-desc="見證兩岸對峙的歷史"></circle>
           </g>
         </svg>
 
@@ -143,40 +342,49 @@ import Layout from '../layouts/Layout.astro';
               <span class="stat-label">個分類</span>
             </div>
           </div>
-          
+
           <div class="category-distribution">
             <h4>分類分布</h4>
             <div class="category-list">
               <div class="category-item">
-                <span class="category-color" style="background: #27ae60;"></span>
+                <span class="category-color" style="background: #27ae60;"
+                ></span>
                 <span>自然 (5)</span>
               </div>
               <div class="category-item">
-                <span class="category-color" style="background: #e74c3c;"></span>
+                <span class="category-color" style="background: #e74c3c;"
+                ></span>
                 <span>歷史 (3)</span>
               </div>
               <div class="category-item">
-                <span class="category-color" style="background: #9b59b6;"></span>
+                <span class="category-color" style="background: #9b59b6;"
+                ></span>
                 <span>文化 (3)</span>
               </div>
               <div class="category-item">
-                <span class="category-color" style="background: #ff5722;"></span>
+                <span class="category-color" style="background: #ff5722;"
+                ></span>
                 <span>經濟 (2)</span>
               </div>
               <div class="category-item">
-                <span class="category-color" style="background: #f39c12;"></span>
+                <span class="category-color" style="background: #f39c12;"
+                ></span>
                 <span>美食 (2)</span>
               </div>
             </div>
           </div>
-          
+
           <div class="panel-links">
             <a class="panel-link" href="/graph">🕸️ 知識圖譜</a>
             <a class="panel-link" href="/">🏠 首頁分類</a>
           </div>
         </div>
 
-        <div class="panel-content article-content" id="articleContent" style="display: none;">
+        <div
+          class="panel-content article-content"
+          id="articleContent"
+          style="display: none;"
+        >
           <button class="back-btn" id="backBtn">← 返回</button>
           <h3 id="articleTitle"></h3>
           <div class="article-meta">
@@ -317,12 +525,12 @@ import Layout from '../layouts/Layout.astro';
   .marker {
     cursor: pointer;
     transition: all 0.3s ease;
-    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2));
   }
 
   .marker:hover {
     transform: scale(1.3);
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)) brightness(1.1);
+    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3)) brightness(1.1);
   }
 
   .marker.hidden {
@@ -461,8 +669,14 @@ import Layout from '../layouts/Layout.astro';
   }
 
   @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 
   .back-btn {
@@ -514,11 +728,11 @@ import Layout from '../layouts/Layout.astro';
       grid-template-columns: 1fr;
       gap: 1.5rem;
     }
-    
+
     .map-body {
       grid-template-columns: 1fr;
     }
-    
+
     .map-panel {
       position: relative;
       top: auto;
@@ -529,11 +743,11 @@ import Layout from '../layouts/Layout.astro';
     .map-hero h1 {
       font-size: 2.2rem;
     }
-    
+
     .filter-buttons {
       justify-content: center;
     }
-    
+
     .filter-btn {
       font-size: 0.8rem;
       padding: 0.4rem 0.8rem;
@@ -545,7 +759,7 @@ import Layout from '../layouts/Layout.astro';
   // Category colors mapping
   const categoryColors = {
     history: '#e74c3c',
-    geography: '#2ecc71', 
+    geography: '#2ecc71',
     culture: '#9b59b6',
     food: '#f39c12',
     art: '#e91e63',
@@ -555,12 +769,12 @@ import Layout from '../layouts/Layout.astro';
     people: '#ff9800',
     society: '#607d8b',
     economy: '#ff5722',
-    lifestyle: '#8bc34a'
+    lifestyle: '#8bc34a',
   };
 
   const categoryNames = {
     history: '📜 歷史',
-    geography: '🗺️ 地理', 
+    geography: '🗺️ 地理',
     culture: '🎭 文化',
     food: '🍜 美食',
     art: '🎨 藝術',
@@ -570,7 +784,7 @@ import Layout from '../layouts/Layout.astro';
     people: '👥 人物',
     society: '⚖️ 社會',
     economy: '📈 經濟',
-    lifestyle: '🏮 生活'
+    lifestyle: '🏮 生活',
   };
 
   let activeRegionFilter = 'all';
@@ -584,7 +798,7 @@ import Layout from '../layouts/Layout.astro';
     const categoryFilters = document.getElementById('categoryFilters');
 
     // Set up marker colors based on category
-    markers.forEach(marker => {
+    markers.forEach((marker) => {
       const category = marker.dataset.category;
       if (categoryColors[category]) {
         marker.setAttribute('fill', categoryColors[category]);
@@ -592,23 +806,24 @@ import Layout from '../layouts/Layout.astro';
     });
 
     // Marker hover events
-    markers.forEach(marker => {
+    markers.forEach((marker) => {
       marker.addEventListener('mouseenter', (e) => {
         const title = e.target.dataset.title;
         const category = e.target.dataset.category;
         const desc = e.target.dataset.desc;
-        
+
         tooltip.querySelector('.tooltip-title').textContent = title;
-        tooltip.querySelector('.tooltip-category').textContent = categoryNames[category] || category;
+        tooltip.querySelector('.tooltip-category').textContent =
+          categoryNames[category] || category;
         tooltip.querySelector('.tooltip-desc').textContent = desc;
-        
+
         tooltip.style.opacity = '1';
       });
 
       marker.addEventListener('mousemove', (e) => {
         const rect = e.target.closest('svg').getBoundingClientRect();
-        tooltip.style.left = (e.clientX - rect.left + 10) + 'px';
-        tooltip.style.top = (e.clientY - rect.top - 10) + 'px';
+        tooltip.style.left = e.clientX - rect.left + 10 + 'px';
+        tooltip.style.top = e.clientY - rect.top - 10 + 'px';
       });
 
       marker.addEventListener('mouseleave', () => {
@@ -623,7 +838,9 @@ import Layout from '../layouts/Layout.astro';
     // Region filter buttons
     regionFilters.addEventListener('click', (e) => {
       if (e.target.classList.contains('filter-btn')) {
-        regionFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        regionFilters
+          .querySelectorAll('.filter-btn')
+          .forEach((btn) => btn.classList.remove('active'));
         e.target.classList.add('active');
         activeRegionFilter = e.target.dataset.filter;
         applyFilters();
@@ -633,7 +850,9 @@ import Layout from '../layouts/Layout.astro';
     // Category filter buttons
     categoryFilters.addEventListener('click', (e) => {
       if (e.target.classList.contains('filter-btn')) {
-        categoryFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        categoryFilters
+          .querySelectorAll('.filter-btn')
+          .forEach((btn) => btn.classList.remove('active'));
         e.target.classList.add('active');
         activeCategoryFilter = e.target.dataset.filter;
         applyFilters();
@@ -650,14 +869,16 @@ import Layout from '../layouts/Layout.astro';
   function applyFilters() {
     const markers = document.querySelectorAll('.marker');
     let visibleCount = 0;
-    
-    markers.forEach(marker => {
+
+    markers.forEach((marker) => {
       const region = marker.dataset.region;
       const category = marker.dataset.category;
-      
-      const regionMatch = activeRegionFilter === 'all' || region === activeRegionFilter;
-      const categoryMatch = activeCategoryFilter === 'all' || category === activeCategoryFilter;
-      
+
+      const regionMatch =
+        activeRegionFilter === 'all' || region === activeRegionFilter;
+      const categoryMatch =
+        activeCategoryFilter === 'all' || category === activeCategoryFilter;
+
       if (regionMatch && categoryMatch) {
         marker.classList.remove('hidden');
         visibleCount++;
@@ -677,7 +898,8 @@ import Layout from '../layouts/Layout.astro';
     const link = marker.dataset.link;
 
     document.getElementById('articleTitle').textContent = title;
-    document.getElementById('articleCategory').textContent = categoryNames[category];
+    document.getElementById('articleCategory').textContent =
+      categoryNames[category];
     document.getElementById('articleDesc').textContent = desc;
     document.getElementById('articleLink').href = link;
 
@@ -693,4 +915,3 @@ import Layout from '../layouts/Layout.astro';
   // Initialize when page loads
   document.addEventListener('DOMContentLoaded', initMap);
 </script>
-</Layout>

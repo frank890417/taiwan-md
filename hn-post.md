@@ -1,6 +1,7 @@
 # Hacker News Show HN Post Options for Taiwan.md
 
 ## 標題選項 (≤80 字元)
+
 1. `Show HN: Taiwan.md – An open-source, AI-native knowledge base about Taiwan` (76 字元)
 2. `Show HN: Taiwan.md – Open-source knowledge base so AI can truly understand Taiwan` (80 字元)
 3. `Show HN: Taiwan.md – Building Taiwan's SSOT with Markdown + AI curation` (71 字元)
@@ -16,9 +17,10 @@ I built Taiwan.md after getting tired of answering "Where can I learn about Taiw
 The solution? Apply the "Single Source of Truth" concept at a country level. One Markdown-based knowledge base that's structured for both humans and AI.
 
 **Technical highlights:**
+
 - 96+ articles across 12 categories, fully bilingual (ZH/EN)
 - AI-friendly: `llms.txt`, structured metadata, semantic markup
-- Interactive knowledge graph with D3.js visualization  
+- Interactive knowledge graph with D3.js visualization
 - Built with Astro v5, hosted on GitHub Pages
 - Resource mindmap linking 146+ official Taiwan websites
 
@@ -36,13 +38,14 @@ CC BY-SA 4.0 licensed. Contributions welcome.
 
 **標題:** Show HN: Taiwan.md – Open-source knowledge base so AI can truly understand Taiwan
 
-"Where can I learn about Taiwan?" 
+"Where can I learn about Taiwan?"
 
 I got this question constantly at the Venice Biennale, Art Basel Miami, and my Paris artist residency. As a Taiwanese new media artist, I realized there was no good answer to point international friends to.
 
 So I built one. Taiwan.md is an open-source knowledge base written in Markdown – the format computers understand best. It's Taiwan's "README file" for the world.
 
 **What makes it different:**
+
 - Written by locals who actually live here, not tourism boards
 - AI-native structure: proper `llms.txt`, semantic markup, structured data
 - Bilingual by design (Traditional Chinese + English)
@@ -68,6 +71,7 @@ Taiwan makes 90% of the world's advanced semiconductors, but ask an AI about Tai
 That's a problem. In an AI-first world, if your knowledge isn't properly structured and indexed, you don't exist.
 
 **Taiwan.md is Taiwan's first attempt at a national SSOT (Single Source of Truth):**
+
 - 96+ curated articles covering culture, tech scene, food, politics, art
 - AI-optimized: proper `llms.txt`, structured metadata, semantic markup
 - Bilingual (ZH/EN) with interactive knowledge graph
@@ -90,6 +94,7 @@ CC BY-SA 4.0. Come help us build the world's first open-source national knowledg
 ## 推薦版本
 
 **建議使用版本 2 (故事導向)**，原因：
+
 1. 符合 HN 社群喜好：真實的個人故事 + 技術解決方案
 2. 開場很吸引人：威尼斯雙年展的場景讓人想繼續讀下去
 3. 技術深度適中：提到了關鍵技術但不會嚇跑非技術讀者

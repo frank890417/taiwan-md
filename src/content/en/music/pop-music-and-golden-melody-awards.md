@@ -1,10 +1,10 @@
 ---
-title: "Pop Music and the Golden Melody Awards"
+title: 'Pop Music and the Golden Melody Awards'
 description: "From the 'Grammy of Chinese-language music' to musical diversification - Taiwan's pop music innovation and legacy"
 date: 2026-03-17
 tags: [Golden Melody Awards, pop music, indie music, indigenous music, Mandopop]
-translatedFrom: "Music/流行音樂與金曲獎.md"
-sourceHash: "c7a4e3"
+translatedFrom: 'Music/流行音樂與金曲獎.md'
+sourceHash: 'c7a4e3'
 ---
 
 # Pop Music and the Golden Melody Awards
@@ -14,6 +14,7 @@ sourceHash: "c7a4e3"
 The Golden Melody Awards (GMA), often called the "Grammy of Chinese-language music," have witnessed Taiwan's pop music evolve from mainstream dominance to a rich, pluralistic ecosystem since their founding in 1990. From an initial division between Mandarin and "dialect" categories, the awards have grown to encompass four major language categories - Mandarin, Hokkien (Taiwanese), Hakka, and Indigenous languages - along with indie music and cross-genre awards. The GMA is not just the highest honor for musicians; it serves as a key barometer of innovation and cultural diversity in Taiwan's music industry.
 
 **Key Figures:**
+
 - Founded: 1990 (1st ceremony)
 - Award Categories: 35 awards spanning four language categories
 - Annual Reach: Over 2 million television viewers each year

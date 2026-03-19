@@ -7,58 +7,150 @@ const categories = [
     title: '政府開放資料',
     description: '政府機關釋出的結構化資料集與統計平台',
     items: [
-      { name: '政府資料開放平臺', url: 'https://data.gov.tw/', desc: '政府開放資料統一入口，上萬筆資料集' },
-      { name: '主計總處統計資料庫', url: 'https://statdb.dgbas.gov.tw/', desc: '人口、經濟、物價等核心國家統計' },
-      { name: '中選會選舉資料庫', url: 'https://db.cec.gov.tw/', desc: '歷屆選舉結果與投票數據' },
-      { name: '全國法規資料庫', url: 'https://law.moj.gov.tw/', desc: '所有法律、命令、判例全文檢索' },
-      { name: '空氣品質監測網', url: 'https://airtw.moenv.gov.tw/', desc: '即時 AQI、PM2.5 監測數據' },
-    ]
+      {
+        name: '政府資料開放平臺',
+        url: 'https://data.gov.tw/',
+        desc: '政府開放資料統一入口，上萬筆資料集',
+      },
+      {
+        name: '主計總處統計資料庫',
+        url: 'https://statdb.dgbas.gov.tw/',
+        desc: '人口、經濟、物價等核心國家統計',
+      },
+      {
+        name: '中選會選舉資料庫',
+        url: 'https://db.cec.gov.tw/',
+        desc: '歷屆選舉結果與投票數據',
+      },
+      {
+        name: '全國法規資料庫',
+        url: 'https://law.moj.gov.tw/',
+        desc: '所有法律、命令、判例全文檢索',
+      },
+      {
+        name: '空氣品質監測網',
+        url: 'https://airtw.moenv.gov.tw/',
+        desc: '即時 AQI、PM2.5 監測數據',
+      },
+    ],
   },
   {
     icon: '🗺️',
     title: '互動地圖與視覺化',
     description: '即時監測、地理圖資與環境視覺化工具',
     items: [
-      { name: '台灣海纜動態地圖', url: 'https://smc.peering.tw/', desc: '民間開發的海底電纜即時監測，公民科技典範' },
-      { name: '國土測繪圖資服務雲', url: 'https://maps.nlsc.gov.tw/', desc: '台灣地圖圖資、航照、地籍' },
-      { name: '地震測報中心', url: 'https://scweb.cwa.gov.tw/', desc: '即時地震資訊與歷史紀錄' },
-      { name: '水利署防災資訊網', url: 'https://fhy.wra.gov.tw/', desc: '即時水情、河川水位、水庫蓄水量' },
-      { name: '環境即時通', url: 'https://env.gov.tw/', desc: '空品、紫外線、水質即時監測' },
-    ]
+      {
+        name: '台灣海纜動態地圖',
+        url: 'https://smc.peering.tw/',
+        desc: '民間開發的海底電纜即時監測，公民科技典範',
+      },
+      {
+        name: '國土測繪圖資服務雲',
+        url: 'https://maps.nlsc.gov.tw/',
+        desc: '台灣地圖圖資、航照、地籍',
+      },
+      {
+        name: '地震測報中心',
+        url: 'https://scweb.cwa.gov.tw/',
+        desc: '即時地震資訊與歷史紀錄',
+      },
+      {
+        name: '水利署防災資訊網',
+        url: 'https://fhy.wra.gov.tw/',
+        desc: '即時水情、河川水位、水庫蓄水量',
+      },
+      {
+        name: '環境即時通',
+        url: 'https://env.gov.tw/',
+        desc: '空品、紫外線、水質即時監測',
+      },
+    ],
   },
   {
     icon: '🤖',
     title: '公民科技 (Civic Tech)',
     description: '開源社群、事實查核與數位民主工具',
     items: [
-      { name: 'g0v 零時政府', url: 'https://g0v.tw/', desc: '台灣最大的開源公民科技社群' },
-      { name: 'KKTIX 公民科技活動', url: 'https://g0v-jothon.kktix.cc/', desc: 'g0v 黑客松、開放資料社群活動入口' },
-      { name: 'Cofacts 真的假的', url: 'https://cofacts.tw/', desc: '群眾協作的事實查核機器人' },
-      { name: 'vTaiwan', url: 'https://vtaiwan.tw/', desc: '數位民主討論平台，法規政策公民審議' },
-      { name: 'JOIN 公共政策參與平台', url: 'https://join.gov.tw/', desc: '政府提案、連署、政策討論' },
-    ]
+      {
+        name: 'g0v 零時政府',
+        url: 'https://g0v.tw/',
+        desc: '台灣最大的開源公民科技社群',
+      },
+      {
+        name: 'KKTIX 公民科技活動',
+        url: 'https://g0v-jothon.kktix.cc/',
+        desc: 'g0v 黑客松、開放資料社群活動入口',
+      },
+      {
+        name: 'Cofacts 真的假的',
+        url: 'https://cofacts.tw/',
+        desc: '群眾協作的事實查核機器人',
+      },
+      {
+        name: 'vTaiwan',
+        url: 'https://vtaiwan.tw/',
+        desc: '數位民主討論平台，法規政策公民審議',
+      },
+      {
+        name: 'JOIN 公共政策參與平台',
+        url: 'https://join.gov.tw/',
+        desc: '政府提案、連署、政策討論',
+      },
+    ],
   },
   {
     icon: '📰',
     title: '資料新聞與查核',
     description: '深度調查報導、事實查核與資料新聞媒體',
     items: [
-      { name: '報導者', url: 'https://www.twreporter.org/', desc: '台灣非營利深度調查媒體' },
-      { name: '台灣事實查核中心', url: 'https://tfc-taiwan.org.tw/', desc: 'IFCN 認證事實查核機構' },
-      { name: 'READr 讀+', url: 'https://www.readr.tw/', desc: '資料新聞與開放資料視覺化報導' },
-      { name: '典藏 ARTouch', url: 'https://artouch.com/', desc: '台灣藝術新聞與深度評論媒體' },
-    ]
+      {
+        name: '報導者',
+        url: 'https://www.twreporter.org/',
+        desc: '台灣非營利深度調查媒體',
+      },
+      {
+        name: '台灣事實查核中心',
+        url: 'https://tfc-taiwan.org.tw/',
+        desc: 'IFCN 認證事實查核機構',
+      },
+      {
+        name: 'READr 讀+',
+        url: 'https://www.readr.tw/',
+        desc: '資料新聞與開放資料視覺化報導',
+      },
+      {
+        name: '典藏 ARTouch',
+        url: 'https://artouch.com/',
+        desc: '台灣藝術新聞與深度評論媒體',
+      },
+    ],
   },
   {
     icon: '🔬',
     title: '學術與研究',
     description: '數位典藏、生態資料與 AI 語料庫',
     items: [
-      { name: '中研院開放博物館', url: 'https://openmuseum.tw/', desc: '數位典藏與線上策展' },
-      { name: '國家文化記憶庫', url: 'https://tcmb.culture.tw/', desc: '台灣文化記憶數位保存' },
-      { name: '台灣生物多樣性網絡', url: 'https://tbn.biodiv.tw/', desc: '物種分布、生態觀測' },
-      { name: '臺灣主權 AI 訓練語料庫 TAIC', url: 'https://huggingface.co/TAIDE', desc: '台灣本土 AI 訓練資料集' },
-    ]
+      {
+        name: '中研院開放博物館',
+        url: 'https://openmuseum.tw/',
+        desc: '數位典藏與線上策展',
+      },
+      {
+        name: '國家文化記憶庫',
+        url: 'https://tcmb.culture.tw/',
+        desc: '台灣文化記憶數位保存',
+      },
+      {
+        name: '台灣生物多樣性網絡',
+        url: 'https://tbn.biodiv.tw/',
+        desc: '物種分布、生態觀測',
+      },
+      {
+        name: '臺灣主權 AI 訓練語料庫 TAIC',
+        url: 'https://huggingface.co/TAIDE',
+        desc: '台灣本土 AI 訓練資料集',
+      },
+    ],
   },
 ];
 ---
@@ -79,27 +171,34 @@ const categories = [
 
       <!-- Categories -->
       <div class="categories">
-        {categories.map(cat => (
-          <section class="category-card">
-            <div class="category-header">
-              <span class="category-icon">{cat.icon}</span>
-              <div>
-                <h2 class="category-title">{cat.title}</h2>
-                <p class="category-desc">{cat.description}</p>
+        {
+          categories.map((cat) => (
+            <section class="category-card">
+              <div class="category-header">
+                <span class="category-icon">{cat.icon}</span>
+                <div>
+                  <h2 class="category-title">{cat.title}</h2>
+                  <p class="category-desc">{cat.description}</p>
+                </div>
               </div>
-            </div>
-            <ul class="item-list">
-              {cat.items.map(item => (
-                <li class="item">
-                  <a href={item.url} target="_blank" rel="noopener noreferrer" class="item-link">
-                    {item.name}
-                  </a>
-                  <span class="item-desc">— {item.desc}</span>
-                </li>
-              ))}
-            </ul>
-          </section>
-        ))}
+              <ul class="item-list">
+                {cat.items.map((item) => (
+                  <li class="item">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="item-link"
+                    >
+                      {item.name}
+                    </a>
+                    <span class="item-desc">— {item.desc}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        }
       </div>
 
       <!-- Back link -->

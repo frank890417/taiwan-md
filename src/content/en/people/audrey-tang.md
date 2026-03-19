@@ -1,10 +1,20 @@
 ---
-title: "Audrey Tang"
+title: 'Audrey Tang'
 description: "The world's first transgender cabinet minister, a pioneering practitioner of open government and digital democracy"
 date: 2026-03-17
-tags: [People, Audrey Tang, Ministry of Digital Affairs, g0v, Transgender, Programming, Open Government, vTaiwan]
-translatedFrom: "People/唐鳳.md"
-sourceHash: "b8e4c1"
+tags:
+  [
+    People,
+    Audrey Tang,
+    Ministry of Digital Affairs,
+    g0v,
+    Transgender,
+    Programming,
+    Open Government,
+    vTaiwan,
+  ]
+translatedFrom: 'People/唐鳳.md'
+sourceHash: 'b8e4c1'
 ---
 
 # Audrey Tang

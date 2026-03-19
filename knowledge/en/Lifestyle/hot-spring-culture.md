@@ -1,7 +1,15 @@
 ---
-title: "Hot Spring Culture"
-category: "Lifestyle"
-tags: ["hot springs", "beitou", "jiaoxi", "bathing culture", "relaxation", "wellness"]
+title: 'Hot Spring Culture'
+category: 'Lifestyle'
+tags:
+  [
+    'hot springs',
+    'beitou',
+    'jiaoxi',
+    'bathing culture',
+    'relaxation',
+    'wellness',
+  ]
 date: 2026-03-17
 ---
 
@@ -118,6 +126,6 @@ Urban hot springs represent modern life products. Hot spring hotels and resorts 
 ## Related Topics
 
 - [[Taiwan's Transportation System]]: Transportation networks and tourism development in hot spring towns
-- [[Religion and Folk Beliefs]]: Shrine culture and folk beliefs in hot spring areas  
+- [[Religion and Folk Beliefs]]: Shrine culture and folk beliefs in hot spring areas
 - [[Taiwan's Coffee Culture]]: Leisure culture of coffee shops in hot spring areas
 - [[Nightlife and KTV Culture]]: Evening entertainment activities at hot spring resorts

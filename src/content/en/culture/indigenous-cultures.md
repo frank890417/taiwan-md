@@ -1,10 +1,18 @@
 ---
-title: "indigenous-cultures"
+title: 'indigenous-cultures'
 date: 2026-03-17
-tags: [Indigenous peoples, ethnic culture, traditional arts, naming movement, contemporary art, language revitalization]
+tags:
+  [
+    Indigenous peoples,
+    ethnic culture,
+    traditional arts,
+    naming movement,
+    contemporary art,
+    language revitalization,
+  ]
 description: "From the diverse traditions of sixteen recognized tribes to contemporary artistic renaissance, explore the deep heritage and modern transformation of Taiwan's Indigenous cultures."
-translatedFrom: "Culture/台灣原住民文化.md"
-sourceHash: "c5d9e3"
+translatedFrom: 'Culture/台灣原住民文化.md'
+sourceHash: 'c5d9e3'
 ---
 
 # Taiwan's Indigenous Cultures
@@ -17,7 +25,7 @@ Taiwan's sixteen officially recognized Indigenous peoples possess cultural tradi
 
 ## Finding a Voice Between Mountains and Sea
 
-In 2017, Puyuma singer Sangpuy Katatepan Mavaliyw won the Golden Melody Award for Best Aboriginal Language Album with his all-Puyuma-language album *Yaangad*. On stage, he thanked the ancestral spirits in Puyuma before telling the audience in Mandarin: "These songs — my village taught them to me." That same year, Paiwan choreographer Bulareyaung Pagarlava toured international arts festivals with his dance company, telling stories of tribal life through the language of the body.
+In 2017, Puyuma singer Sangpuy Katatepan Mavaliyw won the Golden Melody Award for Best Aboriginal Language Album with his all-Puyuma-language album _Yaangad_. On stage, he thanked the ancestral spirits in Puyuma before telling the audience in Mandarin: "These songs — my village taught them to me." That same year, Paiwan choreographer Bulareyaung Pagarlava toured international arts festivals with his dance company, telling stories of tribal life through the language of the body.
 
 These moments capture the contemporary condition of Taiwan's Indigenous cultures: they are at once inheritors of ancient tradition and pioneers of modern innovation. From languages that nearly vanished to internationally acclaimed contemporary works, Taiwan's Indigenous cultures are undergoing a profound process of revival and rebirth.
 
@@ -100,12 +108,14 @@ It is important to note that Indigenous languages number far more than "sixteen.
 **The severity of the crisis**: Statistics show that fluent speakers of Indigenous languages are concentrated primarily among people over 55. The number of younger people who can speak their ancestral language fluently has dropped sharply. Some languages — such as Thao and Kavalan — have fewer than a hundred native speakers remaining.
 
 **Revitalization efforts**:
+
 - **Education system**: Indigenous language courses have entered the formal education system, from kindergarten through university.
 - **Media outreach**: Taiwan Indigenous Television produces programs in Indigenous languages, and online platforms provide language-learning resources.
 - **Writing systems**: Writing systems have been developed for traditionally oral languages, and dictionaries and textbooks compiled.
 - **Family transmission**: Families are encouraged to speak their ancestral languages at home; a "tribal language family" certification program has been established.
 
 **Innovative approaches**:
+
 - **Digital technology**: Language-learning apps, online dictionaries, and speech recognition systems.
 - **Popular culture**: Indigenous-language rap, rock music, and films.
 - **Community building**: Tribal-language cafes, reading groups, and guided tours.
@@ -119,11 +129,13 @@ It is important to note that Indigenous languages number far more than "sixteen.
 In 1984, a group of Indigenous intellectuals launched the Indigenous Peoples' Name Rectification Movement in Taipei, demanding that the official designation be changed from "mountain compatriots" (shanbao) to "Indigenous peoples" (yuanzhumin zu). This was not merely a change of label — it was a declaration of agency and subjecthood.
 
 **The significance of name rectification**:
+
 - **Removing stigma**: "Mountain compatriots" implied backwardness and primitiveness; "Indigenous peoples" emphasizes historical precedence and rootedness.
 - **Self-determined identity**: A shift from a passive label imposed by others to an active self-definition.
 - **Collective rights**: The concept of "peoples" (zu) underscores the possibility of collective rights and self-governance.
 
 **Achievements of the movement**:
+
 - 1994: Constitutional amendments officially adopted the term "Indigenous peoples."
 - 1997: Further constitutional revisions explicitly guaranteed the rights of Indigenous peoples.
 - 2005: The Indigenous Peoples Basic Law was enacted.
@@ -147,6 +159,7 @@ In recent years, Plains Indigenous groups have actively pushed for official reco
 
 **Cultural revitalization:**
 Despite severe language and cultural loss, some Plains Indigenous groups are actively pursuing cultural revitalization:
+
 - The Siraya "Night Ritual" (such as the Jibei Night Ritual and Toushe Night Ritual) continues to be practiced
 - The Pazeh community is working to revive the Pazeh language, a case study in the revitalization of critically endangered languages
 - Plains Indigenous groups across Taiwan are actively compiling oral histories and cultural heritage materials
@@ -160,21 +173,25 @@ The experience of the Plains Indigenous groups reminds us that the scope of Indi
 In recent years, Taiwan's Indigenous artists have delivered outstanding performances on the international stage, demonstrating a powerful fusion of traditional culture and contemporary creation.
 
 **Visual arts**:
+
 - **Sakuliu Pavavaljung** (Paiwan): Reinterprets Paiwan totemic imagery through modern sculptural techniques; works collected by museums in multiple countries.
 - **Etan Pavavaljung** (Paiwan): Following in his father Sakuliu's artistic path, he creates installation art blending tradition and the contemporary.
 - **Rahic Talif** (Amis): Creates large-scale installation art using driftwood and marine debris, exploring the relationship between humans and nature, and between tribal and modern society.
 
 **Performing arts**:
-- **Cloud Gate Dance Theatre**: Founder Lin Hwai-min's work *Rice* incorporates Indigenous music and dance elements.
+
+- **Cloud Gate Dance Theatre**: Founder Lin Hwai-min's work _Rice_ incorporates Indigenous music and dance elements.
 - **Formosa Aboriginal Song and Dance Troupe (Tjimur)**: A performance group dedicated to Indigenous traditional music and dance, acclaimed internationally.
 - **Bulareyaung Dance Company**: Founded by Paiwan choreographer Bulareyaung Pagarlava, the company has won multiple international awards.
 
 **Music**:
+
 - **Samingad (Puyuma)**: Interprets Indigenous ancient melodies with a transcendent voice; multiple Golden Melody Award winner, widely regarded as the "Queen of Indigenous music."
 - **Suming (Amis)**: Blends the Amis language with modern rock to create a distinctive "Indigenous rock" sound.
 - **Sangpuy (Puyuma)**: Creates contemporary folk music with guitar and ancient melodies, forging a singular voice in the Mandarin music world.
 
 **Literature**:
+
 - **Ahronglong Sakinu** (Paiwan): Prose works depicting the relationship between Indigenous peoples and nature.
 - **Syaman Rapongan** (Tao): A leading voice in oceanic literature.
 - **Walis Nokan** (Atayal): A poet and novelist whose works explore Indigenous cultural identity.
@@ -188,22 +205,26 @@ What these artists share is a commitment to neither abandoning tradition nor rej
 In recent years, Indigenous tribal tourism has become a new highlight of Taiwan's tourism landscape, bringing both opportunities and challenges.
 
 **Deep cultural experiences**:
+
 - Participating in ceremonial rituals (within appropriate boundaries)
 - Learning traditional crafts (weaving, carving, pottery)
 - Tasting traditional cuisine (maqaw pepper, thorn onion, millet wine)
 - Listening to ancient legends and mythological stories
 
 **Learning ecological wisdom**:
+
 - Understanding Indigenous knowledge of plants
 - Learning traditional approaches to sustainable living
 - Experiencing the philosophy of living in harmony with nature
 
 **Challenges to navigate**:
+
 - How to avoid the commodification of culture?
 - How to balance tourism revenue with cultural preservation?
 - How to ensure that tribal residents remain the primary agents of tourism development?
 
 **Successful examples**:
+
 - The Truku "Zhitailang" cultural workshop in Hualien
 - The Paiwan "Sandimen Art Village" in Pingtung
 - The Bunun "Luanshan Forest Museum" in Taitung

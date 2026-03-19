@@ -2,8 +2,8 @@
 title: "Morris Chang — Architect of Taiwan's Silicon Shield"
 description: "From Texas Instruments engineer to TSMC founder: How Morris Chang revolutionized global semiconductor manufacturing and created Taiwan's most strategic industry"
 date: 2026-03-17
-tags: ["semiconductor", "TSMC", "technology", "business", "strategy", "taiwan"]
-author: "Taiwan.md Contributors"
+tags: ['semiconductor', 'TSMC', 'technology', 'business', 'strategy', 'taiwan']
+author: 'Taiwan.md Contributors'
 readingTime: 18
 featured: true
 ---
@@ -29,6 +29,7 @@ Understanding Chang's story means understanding how strategic vision, execution 
 Born in Ningbo, Zhejiang Province, Chang experienced China's turbulent period through the Japanese invasion, civil war, and eventual Communist victory. His family fled to Hong Kong in 1948, then to Taiwan, shaping his understanding of political instability and the importance of strategic positioning.
 
 **Key Formative Experiences:**
+
 - Witnessed how quickly technological and political advantages can shift
 - Learned the value of building irreplaceable capabilities
 - Developed long-term strategic thinking from early exposure to geopolitical uncertainty
@@ -53,6 +54,7 @@ Chang joined Texas Instruments as a junior engineer and spent 25 years rising to
 **Strategic Planning**: Long-term technology roadmaps and capital investment decisions
 
 ### Key Achievements at TI
+
 - Led development of important semiconductor technologies
 - Managed major manufacturing operations
 - Gained experience in Asian markets and manufacturing
@@ -62,6 +64,7 @@ Chang joined Texas Instruments as a junior engineer and spent 25 years rising to
 ### Understanding the Industry's Evolution
 
 By the 1980s, Chang observed several crucial trends:
+
 - **Rising Costs**: Each new generation of chip manufacturing required exponentially higher capital investment
 - **Increasing Complexity**: Design and manufacturing were becoming separate disciplines requiring different expertise
 - **Global Competition**: Japanese companies were gaining market share through manufacturing excellence
@@ -124,6 +127,7 @@ Chang's foundry concept solved multiple industry problems simultaneously:
 ### Customer Partnership Approach
 
 Chang revolutionized semiconductor business relationships by treating customers as partners rather than simple buyers:
+
 - **Shared Technology Development**: Collaborated with customers on process optimization
 - **Transparent Communication**: Provided detailed manufacturing data and yield information
 - **Long-term Commitments**: Built trust through consistent delivery and capacity planning
@@ -139,6 +143,7 @@ Chang revolutionized semiconductor business relationships by treating customers 
 ### Strategic Patience
 
 Chang consistently prioritized long-term strategic position over short-term profits:
+
 - **Technology Investment**: Maintained R&D spending even during downturns
 - **Capacity Planning**: Built manufacturing capacity ahead of proven demand
 - **Market Position**: Focused on technological leadership rather than price competition
@@ -149,8 +154,9 @@ Chang consistently prioritized long-term strategic position over short-term prof
 ### Enabling the Fabless Revolution
 
 Chang's foundry model enabled the rise of fabless semiconductor companies that focus entirely on design:
+
 - **Qualcomm**: Mobile processor designs
-- **NVIDIA**: Graphics and AI processors  
+- **NVIDIA**: Graphics and AI processors
 - **Broadcom**: Communications chips
 - **Apple**: Custom smartphone and computer processors
 
@@ -159,6 +165,7 @@ Without TSMC's manufacturing capabilities, these companies could not exist in th
 ### Accelerating Innovation
 
 By separating design from manufacturing, Chang's model accelerated the pace of semiconductor innovation:
+
 - **Faster Time-to-Market**: Companies could focus on design without waiting for internal manufacturing capacity
 - **Lower Barriers to Entry**: Startups could compete with established companies without massive capital requirements
 - **Specialized Expertise**: Both design and manufacturing companies could optimize for their core competencies
@@ -166,6 +173,7 @@ By separating design from manufacturing, Chang's model accelerated the pace of s
 ### Creating Industry Standards
 
 TSMC's scale and customer breadth forced the creation of industry-wide standards:
+
 - **Design Tools**: Standardized software for chip design and verification
 - **Manufacturing Processes**: Common approaches to advanced chip fabrication
 - **Quality Metrics**: Industry benchmarks for yield, reliability, and performance
@@ -175,6 +183,7 @@ TSMC's scale and customer breadth forced the creation of industry-wide standards
 ### Taiwan's Silicon Shield
 
 TSMC's dominance in advanced semiconductor manufacturing has given Taiwan unprecedented geopolitical importance:
+
 - **Economic Leverage**: Controls production of chips essential to global technology industry
 - **Strategic Indispensability**: Neither China nor the United States can afford to lose access to TSMC's manufacturing
 - **Defensive Positioning**: Taiwan's technological capabilities provide protection through economic interdependence
@@ -182,6 +191,7 @@ TSMC's dominance in advanced semiconductor manufacturing has given Taiwan unprec
 ### Global Supply Chain Central Node
 
 Chang's strategy positioned Taiwan at the center of global technology supply chains:
+
 - **Irreplaceable Capabilities**: No other company can match TSMC's advanced manufacturing at scale
 - **Customer Dependence**: Major technology companies rely entirely on TSMC for their most advanced products
 - **Infrastructure Investment**: Decades of specialized facility and talent development cannot be quickly replicated
@@ -189,6 +199,7 @@ Chang's strategy positioned Taiwan at the center of global technology supply cha
 ### Managing Geopolitical Pressures
 
 As TSMC's importance grew, Chang navigated increasing pressure from both Chinese and American governments:
+
 - **Technological Neutrality**: Maintained relationships with customers from all regions
 - **Investment Diversification**: Built manufacturing capacity in multiple countries
 - **Strategic Communication**: Explained TSMC's role as enabler of global innovation rather than political tool
@@ -198,13 +209,15 @@ As TSMC's importance grew, Chang navigated increasing pressure from both Chinese
 ### Succession Planning
 
 Chang spent his final years at TSMC developing the next generation of leadership:
-- **Mark Liu**: Current Chairman, focused on strategic planning and customer relationships  
+
+- **Mark Liu**: Current Chairman, focused on strategic planning and customer relationships
 - **C.C. Wei**: Current CEO, specialized in technology development and operations
 - **Institutional Capabilities**: Built systems and culture that could continue without his direct involvement
 
 ### Retirement Activities (2018-Present)
 
 Since retiring as TSMC Chairman in 2018, Chang has focused on:
+
 - **Autobiography**: Detailed account of his career and strategic thinking
 - **Public Speaking**: Sharing insights about technology strategy and industry development
 - **Mentorship**: Advising young entrepreneurs and engineers
@@ -213,21 +226,25 @@ Since retiring as TSMC Chairman in 2018, Chang has focused on:
 ## Chang's Strategic Insights
 
 ### On Competition
+
 "We don't compete with our customers. We enable them to compete with each other."
 
 This fundamental insight drove TSMC's customer-neutral approach and enabled the company to serve competing firms simultaneously.
 
 ### On Innovation
+
 "Technology leadership is not about being first. It's about being best."
 
 Chang emphasized manufacturing excellence and reliability over pure technological advancement, building customer trust through consistent delivery.
 
 ### On Globalization
+
 "In technology, you have to be global from day one, or you will never succeed."
 
 TSMC's international customer base and supply chain were essential to achieving the scale necessary for semiconductor leadership.
 
 ### On Strategy
+
 "Good strategy is not about what you decide to do. It's about what you decide not to do."
 
 Chang's focus on pure-play foundry services required saying no to potentially profitable opportunities in chip design and consumer products.
@@ -237,6 +254,7 @@ Chang's focus on pure-play foundry services required saying no to potentially pr
 ### Economic Transformation
 
 Chang's work transformed Taiwan's economy:
+
 - **High-Value Manufacturing**: Moved Taiwan beyond low-cost assembly to advanced technology production
 - **Export Revenue**: Semiconductors became Taiwan's largest export category
 - **Employment**: Created hundreds of thousands of high-skilled jobs
@@ -245,6 +263,7 @@ Chang's work transformed Taiwan's economy:
 ### Educational and Talent Development
 
 TSMC's success spurred Taiwan's focus on technical education:
+
 - **University Programs**: Strengthened electrical engineering and materials science programs
 - **Industry Partnerships**: Universities developed closer relationships with technology companies
 - **International Talent**: Attracted engineers and researchers from around the world
@@ -257,15 +276,19 @@ Chang's success demonstrated how small countries could achieve global influence 
 ## Lessons for Strategic Leadership
 
 ### Vision with Execution
+
 Chang combined revolutionary business model innovation with meticulous execution, showing that breakthrough ideas require persistent implementation to succeed.
 
 ### Customer Success Focus
+
 By prioritizing customer success over short-term profits, Chang built relationships that sustained TSMC through multiple industry cycles.
 
 ### Long-term Thinking
+
 Chang's willingness to invest in capabilities before demand was proven enabled TSMC to capture opportunities as they emerged.
 
 ### Cultural Bridge-Building
+
 Chang's ability to navigate between Eastern and Western business cultures was essential to building trust with global customers and partners.
 
 ## Continued Relevance

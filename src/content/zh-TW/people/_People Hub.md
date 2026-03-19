@@ -1,8 +1,8 @@
 ---
-title: "People"
+title: 'People'
 date: 2026-03-17
 tags: [人物, Hub]
-description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，從奧斯卡導演李安、半導體教父張忠謀、雲門舞集創辦人林懷民，到首位女總統蔡英文。這些台灣之光不僅在各領域創造卓越成就，更向世界展現台灣人的創新精神、文化底蘊與堅韌意志。"
+description: '台灣孕育了眾多在國際舞台發光發熱的傑出人物，從奧斯卡導演李安、半導體教父張忠謀、雲門舞集創辦人林懷民，到首位女總統蔡英文。這些台灣之光不僅在各領域創造卓越成就，更向世界展現台灣人的創新精神、文化底蘊與堅韌意志。'
 ---
 
 # 台灣人物 👥
@@ -18,7 +18,7 @@ description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，
 📖 延伸閱讀：[張忠謀](/people/張忠謀) ｜ [蔡英文](/people/蔡英文) ｜ [戴資穎](/people/戴資穎)
 
 ![蔡英文總統](/images/wiki/b3f3be4fb2b6.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:蔡英文官方元首肖像照.jpg) | 公共領域 | 中華民國總統府*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:蔡英文官方元首肖像照.jpg) | 公共領域 | 中華民國總統府_
 
 ## 文化使者：用創作征服世界的心靈
 
@@ -97,7 +97,7 @@ description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，
 當我們為這些台灣之光感到驕傲時，我們也要思考：是什麼讓台灣能夠在如此小的土地上培育出如此多的傑出人才？答案或許就在台灣的核心價值裡：自由、民主、多元、包容、創新。這些價值不僅塑造了這些傑出人物，也將繼續塑造未來的台灣之光。
 
 ![李安導演](/images/wiki/c1deab8511ba.jpg)
-*圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_2016.jpg) | CC BY 2.0 | 攝影者：Gage Skidmore*
+_圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_2016.jpg) | CC BY 2.0 | 攝影者：Gage Skidmore_
 
 ## 延伸閱讀
 
@@ -114,4 +114,4 @@ description: "台灣孕育了眾多在國際舞台發光發熱的傑出人物，
 
 ---
 
-*台灣人物的偉大，在於他們用才華和堅持證明了小島也能孕育改變世界的力量，用成就和品格展現了台灣精神的深刻內涵。*
+_台灣人物的偉大，在於他們用才華和堅持證明了小島也能孕育改變世界的力量，用成就和品格展現了台灣精神的深刻內涵。_

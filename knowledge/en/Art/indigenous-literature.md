@@ -1,10 +1,17 @@
 ---
-title: "Indigenous Literature: The Ancient Voice of Taiwan"
+title: 'Indigenous Literature: The Ancient Voice of Taiwan'
 description: "From oral traditions to contemporary writing, exploring the rich literary heritage of Taiwan's indigenous peoples and their enduring cultural legacy"
-category: "Art"
-tags: ["literature", "indigenous", "oral tradition", "cultural identity", "mythology"]
+category: 'Art'
+tags:
+  [
+    'literature',
+    'indigenous',
+    'oral tradition',
+    'cultural identity',
+    'mythology',
+  ]
 date: 2026-03-19
-author: "Taiwan.md"
+author: 'Taiwan.md'
 readingTime: 18
 featured: true
 ---
@@ -133,9 +140,10 @@ As Walis Nokan writes in his poetry: "The songs of ancestors flow through my blo
 
 ---
 
-*References:*
-- Sun Dachuan, *Mountain and Sea World: Depiction of Taiwan's Indigenous Spiritual World*
-- Walis Nokan, *Ino's Second Survey*
-- Syaman Rapongan, *Eyes of the Sky*
-- Badai, *The Stilt*
-- Pu Zhongcheng, *Selected Works of Taiwan Indigenous Oral Literature*
+_References:_
+
+- Sun Dachuan, _Mountain and Sea World: Depiction of Taiwan's Indigenous Spiritual World_
+- Walis Nokan, _Ino's Second Survey_
+- Syaman Rapongan, _Eyes of the Sky_
+- Badai, _The Stilt_
+- Pu Zhongcheng, _Selected Works of Taiwan Indigenous Oral Literature_

@@ -1,13 +1,23 @@
 ---
-title: "Outlying Islands and Maritime Culture"
+title: 'Outlying Islands and Maritime Culture'
 description: "From Penghu's basalt columns to Lanyu's Flying Fish Festival: how Taiwan's outlying islands nurture unique ocean civilizations"
 date: 2026-03-17
-tags: ["outlying islands", "maritime culture", "Penghu", "Kinmen", "Matsu", "Green Island", "Lanyu", "Liuqiu"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'outlying islands',
+    'maritime culture',
+    'Penghu',
+    'Kinmen',
+    'Matsu',
+    'Green Island',
+    'Lanyu',
+    'Liuqiu',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: true
-translatedFrom: "Geography/離島與海洋文化.md"
-sourceHash: "d7b4e6"
+translatedFrom: 'Geography/離島與海洋文化.md'
+sourceHash: 'd7b4e6'
 ---
 
 # Outlying Islands and Maritime Culture
@@ -35,6 +45,7 @@ For understanding Taiwan, island culture demonstrates how an island-dwelling peo
 The Penghu Archipelago sits in the middle of the Taiwan Strait and is Taiwan's largest island group. Its distinctive basalt geology has produced numerous world-class geological formations, including columnar jointing, sea caves, and wave-cut platforms.
 
 **Signature Attractions:**
+
 - **Double-Heart Stone Weir (Qimei):** An artistic crystallization of ancient fishing techniques
 - **Daguoye Columnar Basalt:** A spectacular geological wonder
 - **Kuibishan Moses Parting the Sea:** A natural tidal pathway
@@ -47,6 +58,7 @@ The Penghu Archipelago sits in the middle of the Taiwan Strait and is Taiwan's l
 **Wind Culture:** Penghu's fierce northeast monsoon winds have produced a distinctive culture of living with the wind. Locals have developed adaptations in architecture, agriculture, and daily life to coexist with their gusty environment.
 
 **Fishing Traditions:**
+
 - **Anchovy Culture:** Penghu produces 80% of Taiwan's anchovies
 - **Seaweed Harvesting:** Collecting and processing laver and agar
 - **Sea Fishing Culture:** A rich tradition of offshore fishing techniques
@@ -70,6 +82,7 @@ Kinmen's strategic geographic position made it a frontline during the era of cro
 ### Military Heritage
 
 **Military Installations:**
+
 - **Tunnel Systems:** Zhaishan Tunnel, Siwei Tunnel, and other underground military facilities
 - **Bunkers:** Military fortifications scattered across the island
 - **Anti-Airborne Stakes:** Beach-front military defense structures
@@ -80,11 +93,13 @@ Kinmen's strategic geographic position made it a frontline during the era of cro
 ### Southern Fujian Architecture
 
 **Traditional Settlements:**
+
 - **Shanhou Folk Culture Village:** A complete Southern Fujian architectural complex
 - **Zhushan Settlement:** A village blending traditional and overseas Chinese architecture
 - **Oucuo Settlement:** A well-preserved traditional Southern Fujian village
 
 **Architectural Features:**
+
 - **Swallowtail Ridge:** The signature roofline of Southern Fujian buildings
 - **Horse-Back Gable Walls:** Serving both fireproofing and decorative functions
 - **Stone and Wood Carvings:** Exquisite traditional craft ornamentation
@@ -246,6 +261,7 @@ Little Liuqiu is Taiwan's only coral reef island. Enjoying spring-like weather y
 ### Ecological Wisdom
 
 Over generations of ocean living, Taiwan's island residents have accumulated rich ecological knowledge:
+
 - **Seasonal Harvesting:** Aligning with the life cycles of marine organisms
 - **Sustainable Fishing:** Developing catch methods that do not damage ecosystems
 - **Environmental Adaptation:** Architecture, agriculture, and lifestyles adapted to the marine environment
@@ -253,6 +269,7 @@ Over generations of ocean living, Taiwan's island residents have accumulated ric
 ### Cultural Diversity
 
 Each island offers its own cultural character:
+
 - **Penghu:** A classic example of Han maritime culture
 - **Kinmen and Matsu:** Fusion of military heritage with Southern and Eastern Fujian culture
 - **Green Island:** A dialogue between human rights history and marine ecology
@@ -310,8 +327,8 @@ The experiences of these islands offer important insights into how human communi
 
 ## Further Reading
 
-- Huang Guolun, *The Stone Weirs of Penghu*
-- Jiang Bowei, *Battlefield Kinmen*
-- Syaman Rapongan, *The Annual Rituals of the Yami Fishing Village*
+- Huang Guolun, _The Stone Weirs of Penghu_
+- Jiang Bowei, _Battlefield Kinmen_
+- Syaman Rapongan, _The Annual Rituals of the Yami Fishing Village_
 - Tourism publications from the respective county governments
 - Materials from the Marine National Park Headquarters

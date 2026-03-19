@@ -1,9 +1,9 @@
 ---
-title: "Origin Story — The Birth of Taiwan.md"
-description: "From a street walk inspiration to curating a complete portal for Taiwan to the world"
+title: 'Origin Story — The Birth of Taiwan.md'
+description: 'From a street walk inspiration to curating a complete portal for Taiwan to the world'
 date: 2026-03-17
-tags: ["about", "origin", "taiwan-md"]
-author: "Taiwan.md"
+tags: ['about', 'origin', 'taiwan-md']
+author: 'Taiwan.md'
 readingTime: 4
 featured: true
 ---
@@ -25,8 +25,9 @@ Six days later, on March 17, a bigger idea emerged:
 What if we could do the same for Taiwan? What if we could curate the scattered aspects of Taiwan into a complete portal, and share it with the world?
 
 On the very day this thought appeared, we:
+
 - Purchased the taiwan.md domain
-- Built the Astro project architecture  
+- Built the Astro project architecture
 - Wrote the first article (night market culture)
 - Established the knowledge base foundation (20+ topic categories)
 
@@ -35,14 +36,17 @@ On the very day this thought appeared, we:
 The choice of this name carries multiple layers of meaning:
 
 **Technical Level:**
+
 - `.md` = Markdown, the most universal document format in the programming world
 - Using the most AI-friendly format to help the world understand Taiwan
 
-**Symbolic Level:**  
+**Symbolic Level:**
+
 - `.md` happens to be Moldova's country code top-level domain
 - Taiwan + Markdown = connecting the world through open-source spirit
 
 **Serendipitous Fortune:**
+
 - Surprisingly, no one had registered the taiwan.md domain yet
 - Perhaps the universe was telling us it was time to make this happen
 
@@ -72,4 +76,4 @@ Each article is a moment we want to preserve forever. Each category is an aspect
 
 ---
 
-*This story continues to unfold. Everyone who comes here becomes part of the story.*
+_This story continues to unfold. Everyone who comes here becomes part of the story._

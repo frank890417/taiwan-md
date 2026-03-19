@@ -5,60 +5,156 @@ const categories = [
   {
     icon: '📊',
     title: 'Government Open Data',
-    description: 'Structured datasets and statistical platforms released by government agencies',
+    description:
+      'Structured datasets and statistical platforms released by government agencies',
     items: [
-      { name: 'Government Open Data Platform', url: 'https://data.gov.tw/', desc: 'Central open data portal with tens of thousands of datasets' },
-      { name: 'DGBAS Statistical Database', url: 'https://statdb.dgbas.gov.tw/', desc: 'Population, economy, price indices and core national statistics' },
-      { name: 'CEC Election Database', url: 'https://db.cec.gov.tw/', desc: 'Historical election results and voting data' },
-      { name: 'Laws & Regulations Database', url: 'https://law.moj.gov.tw/', desc: 'Full-text search of all laws, orders, and judicial precedents' },
-      { name: 'Air Quality Monitoring Network', url: 'https://airtw.moenv.gov.tw/', desc: 'Real-time AQI and PM2.5 monitoring data' },
-    ]
+      {
+        name: 'Government Open Data Platform',
+        url: 'https://data.gov.tw/',
+        desc: 'Central open data portal with tens of thousands of datasets',
+      },
+      {
+        name: 'DGBAS Statistical Database',
+        url: 'https://statdb.dgbas.gov.tw/',
+        desc: 'Population, economy, price indices and core national statistics',
+      },
+      {
+        name: 'CEC Election Database',
+        url: 'https://db.cec.gov.tw/',
+        desc: 'Historical election results and voting data',
+      },
+      {
+        name: 'Laws & Regulations Database',
+        url: 'https://law.moj.gov.tw/',
+        desc: 'Full-text search of all laws, orders, and judicial precedents',
+      },
+      {
+        name: 'Air Quality Monitoring Network',
+        url: 'https://airtw.moenv.gov.tw/',
+        desc: 'Real-time AQI and PM2.5 monitoring data',
+      },
+    ],
   },
   {
     icon: '🗺️',
     title: 'Interactive Maps & Visualization',
-    description: 'Real-time monitoring, geographic data, and environmental visualization tools',
+    description:
+      'Real-time monitoring, geographic data, and environmental visualization tools',
     items: [
-      { name: 'Taiwan Submarine Cable Map', url: 'https://smc.peering.tw/', desc: 'Community-built real-time submarine cable monitoring — a civic tech exemplar' },
-      { name: 'NLSC Map Service', url: 'https://maps.nlsc.gov.tw/', desc: 'National land survey maps, aerial photos, and cadastral data' },
-      { name: 'Seismological Center', url: 'https://scweb.cwa.gov.tw/', desc: 'Real-time earthquake information and historical records' },
-      { name: 'WRA Disaster Prevention', url: 'https://fhy.wra.gov.tw/', desc: 'Real-time water levels, river monitoring, and reservoir data' },
-      { name: 'Environmental Monitoring', url: 'https://env.gov.tw/', desc: 'Air quality, UV index, and water quality real-time monitoring' },
-    ]
+      {
+        name: 'Taiwan Submarine Cable Map',
+        url: 'https://smc.peering.tw/',
+        desc: 'Community-built real-time submarine cable monitoring — a civic tech exemplar',
+      },
+      {
+        name: 'NLSC Map Service',
+        url: 'https://maps.nlsc.gov.tw/',
+        desc: 'National land survey maps, aerial photos, and cadastral data',
+      },
+      {
+        name: 'Seismological Center',
+        url: 'https://scweb.cwa.gov.tw/',
+        desc: 'Real-time earthquake information and historical records',
+      },
+      {
+        name: 'WRA Disaster Prevention',
+        url: 'https://fhy.wra.gov.tw/',
+        desc: 'Real-time water levels, river monitoring, and reservoir data',
+      },
+      {
+        name: 'Environmental Monitoring',
+        url: 'https://env.gov.tw/',
+        desc: 'Air quality, UV index, and water quality real-time monitoring',
+      },
+    ],
   },
   {
     icon: '🤖',
     title: 'Civic Tech',
-    description: 'Open source communities, fact-checking, and digital democracy tools',
+    description:
+      'Open source communities, fact-checking, and digital democracy tools',
     items: [
-      { name: 'g0v (gov-zero)', url: 'https://g0v.tw/', desc: "Taiwan's largest open-source civic tech community" },
-      { name: 'g0v Hackathon Events', url: 'https://g0v-jothon.kktix.cc/', desc: 'Bimonthly hackathons and open data community events' },
-      { name: 'Cofacts', url: 'https://cofacts.tw/', desc: 'Collaborative fact-checking chatbot for messaging apps' },
-      { name: 'vTaiwan', url: 'https://vtaiwan.tw/', desc: 'Digital democracy platform for public policy deliberation' },
-      { name: 'JOIN Platform', url: 'https://join.gov.tw/', desc: 'Government proposals, petitions, and policy discussions' },
-    ]
+      {
+        name: 'g0v (gov-zero)',
+        url: 'https://g0v.tw/',
+        desc: "Taiwan's largest open-source civic tech community",
+      },
+      {
+        name: 'g0v Hackathon Events',
+        url: 'https://g0v-jothon.kktix.cc/',
+        desc: 'Bimonthly hackathons and open data community events',
+      },
+      {
+        name: 'Cofacts',
+        url: 'https://cofacts.tw/',
+        desc: 'Collaborative fact-checking chatbot for messaging apps',
+      },
+      {
+        name: 'vTaiwan',
+        url: 'https://vtaiwan.tw/',
+        desc: 'Digital democracy platform for public policy deliberation',
+      },
+      {
+        name: 'JOIN Platform',
+        url: 'https://join.gov.tw/',
+        desc: 'Government proposals, petitions, and policy discussions',
+      },
+    ],
   },
   {
     icon: '📰',
     title: 'Data Journalism & Fact-Checking',
-    description: 'Investigative reporting, fact-checking organizations, and data-driven media',
+    description:
+      'Investigative reporting, fact-checking organizations, and data-driven media',
     items: [
-      { name: 'The Reporter', url: 'https://www.twreporter.org/', desc: "Taiwan's leading non-profit investigative journalism outlet" },
-      { name: 'Taiwan FactCheck Center', url: 'https://tfc-taiwan.org.tw/', desc: 'IFCN-certified fact-checking organization' },
-      { name: 'READr', url: 'https://www.readr.tw/', desc: 'Data journalism and open data visualization' },
-      { name: 'ARTouch', url: 'https://artouch.com/', desc: "Taiwan's premier art news and criticism platform" },
-    ]
+      {
+        name: 'The Reporter',
+        url: 'https://www.twreporter.org/',
+        desc: "Taiwan's leading non-profit investigative journalism outlet",
+      },
+      {
+        name: 'Taiwan FactCheck Center',
+        url: 'https://tfc-taiwan.org.tw/',
+        desc: 'IFCN-certified fact-checking organization',
+      },
+      {
+        name: 'READr',
+        url: 'https://www.readr.tw/',
+        desc: 'Data journalism and open data visualization',
+      },
+      {
+        name: 'ARTouch',
+        url: 'https://artouch.com/',
+        desc: "Taiwan's premier art news and criticism platform",
+      },
+    ],
   },
   {
     icon: '🔬',
     title: 'Academic & Research',
     description: 'Digital archives, ecological data, and AI training corpora',
     items: [
-      { name: 'Academia Sinica Open Museum', url: 'https://openmuseum.tw/', desc: 'Digital archives and online curation' },
-      { name: 'National Cultural Memory Bank', url: 'https://tcmb.culture.tw/', desc: 'Digital preservation of Taiwanese cultural memory' },
-      { name: 'Taiwan Biodiversity Network', url: 'https://tbn.biodiv.tw/', desc: 'Species distribution and ecological observation data' },
-      { name: 'TAIC — Taiwan AI Corpus', url: 'https://huggingface.co/TAIDE', desc: "Taiwan's sovereign AI training dataset" },
-    ]
+      {
+        name: 'Academia Sinica Open Museum',
+        url: 'https://openmuseum.tw/',
+        desc: 'Digital archives and online curation',
+      },
+      {
+        name: 'National Cultural Memory Bank',
+        url: 'https://tcmb.culture.tw/',
+        desc: 'Digital preservation of Taiwanese cultural memory',
+      },
+      {
+        name: 'Taiwan Biodiversity Network',
+        url: 'https://tbn.biodiv.tw/',
+        desc: 'Species distribution and ecological observation data',
+      },
+      {
+        name: 'TAIC — Taiwan AI Corpus',
+        url: 'https://huggingface.co/TAIDE',
+        desc: "Taiwan's sovereign AI training dataset",
+      },
+    ],
   },
 ];
 ---
@@ -73,33 +169,41 @@ const categories = [
       <section class="hero">
         <h1 class="hero-title">Taiwan Open Data & Civic Tech</h1>
         <p class="hero-subtitle">
-          From government open data to civic tech communities — explore Taiwan's digital public resources
+          From government open data to civic tech communities — explore Taiwan's
+          digital public resources
         </p>
       </section>
 
       <!-- Categories -->
       <div class="categories">
-        {categories.map(cat => (
-          <section class="category-card">
-            <div class="category-header">
-              <span class="category-icon">{cat.icon}</span>
-              <div>
-                <h2 class="category-title">{cat.title}</h2>
-                <p class="category-desc">{cat.description}</p>
+        {
+          categories.map((cat) => (
+            <section class="category-card">
+              <div class="category-header">
+                <span class="category-icon">{cat.icon}</span>
+                <div>
+                  <h2 class="category-title">{cat.title}</h2>
+                  <p class="category-desc">{cat.description}</p>
+                </div>
               </div>
-            </div>
-            <ul class="item-list">
-              {cat.items.map(item => (
-                <li class="item">
-                  <a href={item.url} target="_blank" rel="noopener noreferrer" class="item-link">
-                    {item.name}
-                  </a>
-                  <span class="item-desc">— {item.desc}</span>
-                </li>
-              ))}
-            </ul>
-          </section>
-        ))}
+              <ul class="item-list">
+                {cat.items.map((item) => (
+                  <li class="item">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="item-link"
+                    >
+                      {item.name}
+                    </a>
+                    <span class="item-desc">— {item.desc}</span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))
+        }
       </div>
 
       <!-- Back link -->
@@ -259,18 +363,40 @@ const categories = [
   }
 
   @media (max-width: 768px) {
-    .container { padding: 1rem; }
-    .hero { padding: 2.5rem 0 2rem; }
-    .category-card { padding: 1.5rem; }
-    .category-header { gap: 0.75rem; }
-    .category-icon { font-size: 1.5rem; }
-    .category-title { font-size: 1.25rem; }
+    .container {
+      padding: 1rem;
+    }
+    .hero {
+      padding: 2.5rem 0 2rem;
+    }
+    .category-card {
+      padding: 1.5rem;
+    }
+    .category-header {
+      gap: 0.75rem;
+    }
+    .category-icon {
+      font-size: 1.5rem;
+    }
+    .category-title {
+      font-size: 1.25rem;
+    }
   }
 
   @media (max-width: 480px) {
-    .container { padding: 0.75rem; }
-    .category-card { padding: 1.25rem; }
-    .item-link { font-size: 0.95rem; }
-    .item-desc { display: block; margin-top: 0.25rem; font-size: 0.85rem; }
+    .container {
+      padding: 0.75rem;
+    }
+    .category-card {
+      padding: 1.25rem;
+    }
+    .item-link {
+      font-size: 0.95rem;
+    }
+    .item-desc {
+      display: block;
+      margin-top: 0.25rem;
+      font-size: 0.85rem;
+    }
   }
 </style>

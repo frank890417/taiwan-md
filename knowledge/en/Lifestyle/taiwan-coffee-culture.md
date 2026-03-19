@@ -1,10 +1,10 @@
 ---
-title: "Taiwan Coffee Culture"
-description: "Third-highest density of independent coffee shops globally - island coffee academia from Alishan beans to coffee shop offices"
+title: 'Taiwan Coffee Culture'
+description: 'Third-highest density of independent coffee shops globally - island coffee academia from Alishan beans to coffee shop offices'
 date: 2026-03-17
 tags: [lifestyle, coffee, Alishan, Louisa Coffee, third space, Taiwan]
-translatedFrom: "Lifestyle/台灣咖啡文化.md"
-sourceHash: "6532cb"
+translatedFrom: 'Lifestyle/台灣咖啡文化.md'
+sourceHash: '6532cb'
 ---
 
 # Taiwan Coffee Culture
@@ -93,7 +93,8 @@ Taiwan's coffee culture is more than just a beverage trend - it reflects Taiwan'
 
 ---
 
-*References:*
+_References:_
+
 - Taiwan Coffee Association industry reports
 - Individual coffee shop and chain store business data
 - Taiwan coffee bean production region studies

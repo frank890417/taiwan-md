@@ -1,10 +1,17 @@
 ---
-title: "Taiwanese Prose: The Depth of Daily Life"
-description: "The evolution of Taiwanese prose from nostalgic writing to diverse contemporary themes, exploring how everyday life becomes literary art"
-category: "Art"
-tags: ["literature", "prose", "daily life writing", "personal narrative", "cultural observation"]
+title: 'Taiwanese Prose: The Depth of Daily Life'
+description: 'The evolution of Taiwanese prose from nostalgic writing to diverse contemporary themes, exploring how everyday life becomes literary art'
+category: 'Art'
+tags:
+  [
+    'literature',
+    'prose',
+    'daily life writing',
+    'personal narrative',
+    'cultural observation',
+  ]
 date: 2026-03-19
-author: "Taiwan.md"
+author: 'Taiwan.md'
 readingTime: 16
 featured: true
 ---
@@ -36,6 +43,7 @@ Qi Jun's prose possessed several distinctive characteristics:
 Representative works such as "Smoke and Sorrow," "When Oranges Turn Red," and "A Book for a Pillow at the Third Watch" all demonstrated the unique charm of Qi Jun's prose. Her works were not only widely popular in Taiwan but also had great influence in mainland China and overseas Chinese communities.
 
 **Classic Passage** (from "Spring Wine"):
+
 > In front of our mother, we never dared say the word "wine," much less drink mother's wine. We could only drink a little during the New Year. But mother always said: "You're still young, you can't drink much."
 
 ### Lin Haiyin: Important Promoter of Taiwanese Literature
@@ -44,7 +52,7 @@ Representative works such as "Smoke and Sorrow," "When Oranges Turn Red," and "A
 
 Lin Haiyin's representative work "Old Tales of the South of the City" was a novel, but her prose works were equally excellent. Her prose possessed **a journalist's keen observational power** and **a writer's literary cultivation**, with works that had both journalistic authenticity and literary artistry.
 
-Her contributions to literary promotion were particularly important. She served as deputy editor of the *United Daily News* supplement, discovering and nurturing many important writers, earning the title "Mother of Taiwanese Literature."
+Her contributions to literary promotion were particularly important. She served as deputy editor of the _United Daily News_ supplement, discovering and nurturing many important writers, earning the title "Mother of Taiwanese Literature."
 
 ### Sanmao: Romantic Writing of a Free Spirit
 

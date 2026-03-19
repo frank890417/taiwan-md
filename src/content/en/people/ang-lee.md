@@ -1,10 +1,10 @@
 ---
-title: "Ang Lee"
-description: "From Taiwan to Hollywood, a cross-cultural storytelling master and cinematic technology innovator who conquered the world"
+title: 'Ang Lee'
+description: 'From Taiwan to Hollywood, a cross-cultural storytelling master and cinematic technology innovator who conquered the world'
 date: 2026-03-17
 tags: [People, Ang Lee, Director, Oscar, Film, Cross-Cultural, Hollywood]
-translatedFrom: "People/李安.md"
-sourceHash: "c5d9a3"
+translatedFrom: 'People/李安.md'
+sourceHash: 'c5d9a3'
 ---
 
 # Ang Lee
@@ -33,7 +33,7 @@ In 1978, Lee traveled to the United States to study at the University of Illinoi
 In 1981, he entered New York University's Tisch School of the Arts to pursue a Master of Fine Arts in film production. There, he studied under Alexander Mackendrick, learning rigorous filmmaking techniques and deeper narrative theory.
 
 **Early promise in student films:**
-During his time at NYU, Lee's two thesis films -- *Fine Line* (1982) and *Beat the Artist* (1984) -- demonstrated his keen insight into human psychology. The latter earned him both "Best Director" and "Best Film" awards, giving his directing career an auspicious start.
+During his time at NYU, Lee's two thesis films -- _Fine Line_ (1982) and _Beat the Artist_ (1984) -- demonstrated his keen insight into human psychology. The latter earned him both "Best Director" and "Best Film" awards, giving his directing career an auspicious start.
 
 ## Six Years of Struggle and Family Support
 
@@ -51,7 +51,7 @@ Living as an outsider in America gave Lee a deep experience of the complexities 
 ### The Breakthrough
 
 **Winning the screenplay competition:**
-In 1990, Lee won the top prize in a screenplay competition organized by the Taiwanese government with *Pushing Hands*, receiving US$400,000 in production funding. This award not only solved his financing challenges but, more importantly, restored his creative confidence.
+In 1990, Lee won the top prize in a screenplay competition organized by the Taiwanese government with _Pushing Hands_, receiving US$400,000 in production funding. This award not only solved his financing challenges but, more importantly, restored his creative confidence.
 
 **Producer Hsu Li-kong's vision:**
 Taiwanese producer Hsu Li-kong recognized Lee's talent and decided to invest in his filmmaking career. This decision changed Lee's destiny and opened a new chapter in Taiwanese cinema.
@@ -61,24 +61,24 @@ Taiwanese producer Hsu Li-kong recognized Lee's talent and decided to invest in 
 ### Pushing Hands (1991): A First Look at Immigrant Culture
 
 **The story:**
-*Pushing Hands* tells the story of a tai chi master who moves to America to live with his son, facing the challenges of language barriers and cultural conflict. This debut feature demonstrated Lee's profound understanding of immigration issues.
+_Pushing Hands_ tells the story of a tai chi master who moves to America to live with his son, facing the challenges of language barriers and cultural conflict. This debut feature demonstrated Lee's profound understanding of immigration issues.
 
 **Cultural themes:**
 The film explores the differences between Eastern and Western cultures and the predicament of traditional values in modern society. Tai chi serves as a symbol of Eastern philosophy, representing the wisdom of yielding to overcome and moving with the current.
 
 **International reception:**
-*Pushing Hands* won the Best Director award at the Asia-Pacific Film Festival, bringing international attention to this emerging director from Taiwan.
+_Pushing Hands_ won the Best Director award at the Asia-Pacific Film Festival, bringing international attention to this emerging director from Taiwan.
 
 ### The Wedding Banquet (1993): Sexual Identity and Family Ethics
 
 **A groundbreaking subject:**
-*The Wedding Banquet* boldly addressed homosexuality, demonstrating a visionary perspective in the conservative atmosphere of the 1990s. The film treated its sensitive subject matter with humor and warmth, avoiding any preachy tone.
+_The Wedding Banquet_ boldly addressed homosexuality, demonstrating a visionary perspective in the conservative atmosphere of the 1990s. The film treated its sensitive subject matter with humor and warmth, avoiding any preachy tone.
 
 **Narrative technique:**
 Lee used the dramatic device of a "sham marriage" to deftly weave together the complex issues of Eastern family ethics, Western individual freedom, and sexual identity.
 
 **International success:**
-*The Wedding Banquet* won the Golden Bear Award at the 43rd Berlin International Film Festival and was nominated for the Academy Award for Best Foreign Language Film, firmly establishing Lee's position on the international film scene. The film remains an important milestone in LGBTQ cinema.
+_The Wedding Banquet_ won the Golden Bear Award at the 43rd Berlin International Film Festival and was nominated for the Academy Award for Best Foreign Language Film, firmly establishing Lee's position on the international film scene. The film remains an important milestone in LGBTQ cinema.
 
 ### Eat Drink Man Woman (1994): Blending Tradition and Modernity
 
@@ -89,25 +89,25 @@ Lee used exquisite Chinese cuisine as a storytelling medium, presenting the esse
 The film portrays generational conflict and reconciliation within a Taipei family, reflecting the cultural transformation of Taiwanese society in the process of modernization.
 
 **International impact:**
-*Eat Drink Man Woman* received another Academy Award nomination for Best Foreign Language Film, marking Lee's consecutive nominations in two years. The film was later remade in Hollywood, proving its universal cross-cultural appeal.
+_Eat Drink Man Woman_ received another Academy Award nomination for Best Foreign Language Film, marking Lee's consecutive nominations in two years. The film was later remade in Hollywood, proving its universal cross-cultural appeal.
 
 ## The Hollywood Journey: Diverse Explorations Across Genres
 
 ### Sense and Sensibility (1995): A Successful Literary Adaptation
 
 **A cross-cultural challenge:**
-Lee accepted a Hollywood invitation to adapt Jane Austen's classic novel *Sense and Sensibility*. For a Chinese director, this was an enormous challenge, requiring deep understanding of English culture and Victorian-era society.
+Lee accepted a Hollywood invitation to adapt Jane Austen's classic novel _Sense and Sensibility_. For a Chinese director, this was an enormous challenge, requiring deep understanding of English culture and Victorian-era society.
 
 **Presenting the female perspective:**
 The film, scripted by and starring Emma Thompson, showcased Lee's nuanced depiction of women's circumstances under patriarchal society, revealing his deep understanding of female psychology.
 
 **Oscar recognition:**
-*Sense and Sensibility* received seven Academy Award nominations, and Emma Thompson won for Best Adapted Screenplay. The film proved that Lee could master not only Eastern subjects but also Western classical literature.
+_Sense and Sensibility_ received seven Academy Award nominations, and Emma Thompson won for Best Adapted Screenplay. The film proved that Lee could master not only Eastern subjects but also Western classical literature.
 
 ### The Ice Storm (1997): A Moral Fable of Suburban America
 
 **Social observation:**
-*The Ice Storm* depicts a moral crisis within 1970s American middle-class families. Lee dissected American society's hypocrisy and emptiness with a calm and objective perspective.
+_The Ice Storm_ depicts a moral crisis within 1970s American middle-class families. Lee dissected American society's hypocrisy and emptiness with a calm and objective perspective.
 
 **Directorial technique:**
 Lee employed symbolism and poetic cinematography, juxtaposing natural disaster with moral decay to demonstrate the depth and breadth of cinematic language.
@@ -125,7 +125,7 @@ The film explored complex issues of race, class, and morality, demonstrating Lee
 ### Bringing Eastern Aesthetics to the World
 
 **A breakthrough in the martial arts genre:**
-*Crouching Tiger, Hidden Dragon* was far more than an action film -- it was an emotional epic about love, friendship, and the bonds between master and student. Lee elevated the martial arts genre to the level of art cinema.
+_Crouching Tiger, Hidden Dragon_ was far more than an action film -- it was an emotional epic about love, friendship, and the bonds between master and student. Lee elevated the martial arts genre to the level of art cinema.
 
 **Visual aesthetics:**
 Collaborating with cinematographer Peter Pau, Lee created scenes of poetic combat. The bamboo forest fight and rooftop chase sequences became iconic moments in cinema history.
@@ -136,26 +136,26 @@ Tan Dun's score and Yo-Yo Ma's cello performance blended together seamlessly, cr
 ### Oscar Triumph and International Success
 
 **A historic breakthrough:**
-*Crouching Tiger, Hidden Dragon* won four Academy Awards at the 73rd ceremony, including Best Foreign Language Film, Best Cinematography, Best Art Direction, and Best Original Score -- the best showing ever for a Chinese-language film at the Oscars.
+_Crouching Tiger, Hidden Dragon_ won four Academy Awards at the 73rd ceremony, including Best Foreign Language Film, Best Cinematography, Best Art Direction, and Best Original Score -- the best showing ever for a Chinese-language film at the Oscars.
 
 **Global box office success:**
 The film grossed US$213 million worldwide, proving the enormous international market potential of Chinese culture.
 
 **Cultural impact:**
-*Crouching Tiger, Hidden Dragon* sparked a global fascination with Chinese martial arts cinema, paving the way for the internationalization of Chinese-language films.
+_Crouching Tiger, Hidden Dragon_ sparked a global fascination with Chinese martial arts cinema, paving the way for the internationalization of Chinese-language films.
 
 ## Double Oscar Glory: Two Climbs to the Summit
 
 ### Brokeback Mountain (2005): A Poetic Expression of Forbidden Love
 
 **Bravely tackling social issues:**
-*Brokeback Mountain* tells the story of a same-sex love affair between two cowboys, sparking enormous controversy in conservative American society. Lee handled the sensitive material with poetry and restraint, avoiding sensationalism and forced sympathy.
+_Brokeback Mountain_ tells the story of a same-sex love affair between two cowboys, sparking enormous controversy in conservative American society. Lee handled the sensitive material with poetry and restraint, avoiding sensationalism and forced sympathy.
 
 **Redefining the Western:**
 The film subverted the traditional Western's image of masculine bravado, revealing authentic and complex humanity. The vast mountain landscapes served as witnesses to emotion, with natural scenery forming a counterpoint to inner worlds.
 
 **Academy Award for Best Director:**
-Lee won the Best Director award at the 78th Academy Awards for *Brokeback Mountain*, becoming the first Asian director to receive the honor. This award affirmed not only his personal talent but also the recognition of multicultural cinema.
+Lee won the Best Director award at the 78th Academy Awards for _Brokeback Mountain_, becoming the first Asian director to receive the honor. This award affirmed not only his personal talent but also the recognition of multicultural cinema.
 
 ### Life of Pi (2012): The Perfect Union of Philosophy and Technology
 
@@ -166,7 +166,7 @@ Lee employed cutting-edge 3D and CGI technology to create breathtaking ocean seq
 The film explored profound questions about faith, survival, and the boundary between truth and fiction. The question "Which story do you prefer?" became a starting point for audiences to reflect on the meaning of life.
 
 **A second Best Director Oscar:**
-Lee won the Best Director award at the 85th Academy Awards for *Life of Pi*, becoming the only Asian director to receive the honor twice.
+Lee won the Best Director award at the 85th Academy Awards for _Life of Pi_, becoming the only Asian director to receive the honor twice.
 
 ## Technical Pioneer: An Innovator in Cinematic Technology
 
@@ -208,7 +208,7 @@ Lee excels at using subtle yet profound cinematic language, making emotions all 
 Lee has been called a "gentle rebel," addressing sharp social issues in a seemingly mild manner, promoting reflection without inflaming confrontation.
 
 **Visual poetry:**
-From the soaring bamboo forest of *Crouching Tiger, Hidden Dragon* to the oceanic wonders of *Life of Pi*, Lee's films are consistently filled with poetic visual beauty.
+From the soaring bamboo forest of _Crouching Tiger, Hidden Dragon_ to the oceanic wonders of _Life of Pi_, Lee's films are consistently filled with poetic visual beauty.
 
 **Excavating human depth:**
 Lee focuses on his characters' inner worlds, skillfully portraying the complexity and contradictions of human nature. His characters are always multidimensional and authentic.
@@ -218,16 +218,19 @@ Lee focuses on his characters' inner worlds, skillfully portraying the complexit
 ### Major Awards
 
 **Academy Awards:**
-- 2006: Best Director for *Brokeback Mountain*
-- 2013: Best Director for *Life of Pi*
-- 2001: Best Foreign Language Film, Best Cinematography, and two other awards for *Crouching Tiger, Hidden Dragon*
+
+- 2006: Best Director for _Brokeback Mountain_
+- 2013: Best Director for _Life of Pi_
+- 2001: Best Foreign Language Film, Best Cinematography, and two other awards for _Crouching Tiger, Hidden Dragon_
 
 **Major International Film Festivals:**
-- 1993: Golden Bear Award at Berlin (*The Wedding Banquet*)
-- 2007: Golden Lion Award at Venice (*Lust, Caution*)
+
+- 1993: Golden Bear Award at Berlin (_The Wedding Banquet_)
+- 2007: Golden Lion Award at Venice (_Lust, Caution_)
 - Multiple selections at Cannes
 
 **Lifetime Achievement Awards:**
+
 - 2021: BAFTA Fellowship (British Academy of Film and Television Arts)
 - 2025: Directors Guild of America Lifetime Achievement Award
 
@@ -250,7 +253,7 @@ Many film schools include Lee's works as essential viewing, and his creative phi
 Jane Lin is not only Lee's life partner but also the most important supporter on his creative journey. Her scientific background has also brought a rational perspective to Lee's films.
 
 **Fatherhood:**
-Lee has two sons, Haan and Mason Lee. Mason later entered the entertainment industry, delivering a notable performance in *Billy Lynn's Long Halftime Walk*.
+Lee has two sons, Haan and Mason Lee. Mason later entered the entertainment industry, delivering a notable performance in _Billy Lynn's Long Halftime Walk_.
 
 **Reconciliation with his father:**
 As his career succeeded, Lee's relationship with his father also found resolution. In his later years, his father finally understood and supported his son's chosen path.
@@ -308,7 +311,8 @@ Ang Lee's life is a legend of perseverance, innovation, and cross-cultural commu
 
 ---
 
-*References:*
+_References:_
+
 - Official biographical materials on director Ang Lee
 - Academy Awards official records
 - International film festival award records

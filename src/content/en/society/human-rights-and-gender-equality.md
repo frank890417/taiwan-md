@@ -1,6 +1,13 @@
 ---
 created: 2026-03-17
-tags: [society, human rights, gender equality, same-sex marriage, transitional justice]
+tags:
+  [
+    society,
+    human rights,
+    gender equality,
+    same-sex marriage,
+    transitional justice,
+  ]
 title: Human Rights and Gender Equality
 description: Taiwan's progressive journey in human rights protection and gender equality, from authoritarian human rights violations to becoming Asia's pioneer in human rights
 date: 2026-03-17
@@ -96,4 +103,4 @@ Taiwan performs excellently in international human rights rankings, rated as "Fr
 
 ---
 
-*Taiwan's human rights journey demonstrates that societies can overcome authoritarian legacies to build inclusive, rights-respecting democracies that serve as beacons for the region.*
+_Taiwan's human rights journey demonstrates that societies can overcome authoritarian legacies to build inclusive, rights-respecting democracies that serve as beacons for the region._

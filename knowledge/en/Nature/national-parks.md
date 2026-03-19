@@ -2,8 +2,16 @@
 title: "Taiwan's National Parks — Island Ecosystem Treasures"
 description: "From marble gorges to coral atolls: Taiwan's 9 national parks preserve remarkable biodiversity and geological wonders within 36,000 square kilometers"
 date: 2026-03-17
-tags: ["national-parks", "conservation", "biodiversity", "ecology", "mountains", "marine-protection"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'national-parks',
+    'conservation',
+    'biodiversity',
+    'ecology',
+    'mountains',
+    'marine-protection',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 20
 featured: true
 ---
@@ -29,8 +37,9 @@ For visitors, Taiwan's national parks offer some of the world's most accessible 
 ### Terrestrial Parks (7)
 
 **Established Order:**
+
 1. **Kenting National Park** (1984) - Tropical coral reefs and coastal forests
-2. **Yushan National Park** (1985) - Taiwan's highest peaks and alpine ecosystems  
+2. **Yushan National Park** (1985) - Taiwan's highest peaks and alpine ecosystems
 3. **Yangmingshan National Park** (1985) - Volcanic landscapes and hot springs
 4. **Taroko National Park** (1986) - Marble gorges and temperate forests
 5. **Shei-Pa National Park** (1992) - High mountain wilderness
@@ -58,17 +67,20 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 **Yushan (Jade Mountain)**: Taiwan's highest peak at 3,952m, considered sacred by Indigenous peoples and a pilgrimage destination for mountaineers. The summit offers 360-degree views across the entire island on clear days.
 
 **Endemic Species Paradise**: Home to numerous endemic species including:
+
 - **Taiwan Black Bear**: Taiwan's largest native mammal and unofficial national animal
 - **Mikado Pheasant**: Spectacular endemic bird found in mountain forests
 - **Taiwan Macaque**: The only native primate species
 - **Alpine Plants**: Over 200 endemic plant species adapted to high-altitude conditions
 
 **Climate Zones**: The park showcases Taiwan's complete ecological spectrum:
+
 - **Subtropical Zone (300-1,200m)**: Broadleaf forests with camphor and oak
 - **Temperate Zone (1,200-2,500m)**: Coniferous forests dominated by Taiwan red cypress
 - **Alpine Zone (2,500m+)**: Dwarf bamboo grasslands and endemic alpine flowers
 
 **Sacred Mountains**: Beyond Yushan Main Peak, the park includes:
+
 - **Yushan East Peak** (3,869m): Technical climbing route
 - **Yushan North Peak** (3,858m): Popular secondary objective
 - **Jade Mountain Range**: Contains 8 of Taiwan's 10 highest peaks
@@ -86,22 +98,26 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 **Highlights**:
 
 **Taroko Gorge**: The park's centerpiece, featuring:
+
 - **Marble Cliffs**: Towering walls of white and gray marble reaching 1,000+ meters
-- **Liwu River**: Turquoise waters that carved the gorge over millions of years  
+- **Liwu River**: Turquoise waters that carved the gorge over millions of years
 - **Indigenous Culture**: Traditional territory of the Truku people, whose name means "magnificent and beautiful"
 
 **Hiking Trails**:
+
 - **Shakadang Trail**: Easy riverside walk showcasing crystal-clear waters
 - **Swallow Grotto (Yanzikou)**: Short trail through narrow marble canyon
 - **Zhuilu Old Trail**: Advanced trail offering dramatic cliff-edge hiking
 - **Baiyang Waterfall**: Tunnel trail leading to spectacular waterfall viewing
 
 **Biodiversity**: Despite its dramatic geology, Taroko supports rich ecosystems:
+
 - **Vertical Ecosystems**: Subtropical to alpine zones within short distances
 - **Endemic Species**: Over 140 bird species and numerous endemic plants
 - **Ancient Forests**: Some areas preserve thousand-year-old trees
 
 **Cultural Heritage**: Taroko preserves Truku Indigenous culture through:
+
 - **Traditional Territory Recognition**: Park management incorporates Indigenous knowledge
 - **Cultural Sites**: Sacred locations and traditional hunting grounds
 - **Living Heritage**: Continued Indigenous presence and cultural practices
@@ -115,18 +131,21 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 **Tropical Significance**: Kenting represents Taiwan's only truly tropical ecosystem, positioned at the boundary between tropical and subtropical climate zones. The park's coral reefs, coastal forests, and marine environments showcase biodiversity patterns more similar to Southeast Asia than temperate East Asia.
 
 **Marine Ecosystems**:
+
 - **Coral Reefs**: Over 60 hard coral species and 1,200+ marine species
 - **Sea Turtle Nesting**: Critical nesting beaches for endangered sea turtles
 - **Marine Protected Areas**: Strict conservation zones preserving pristine reef systems
 - **Migratory Bird Stopover**: Critical rest point for birds migrating between Asia and Australia
 
 **Terrestrial Features**:
+
 - **Tropical Dry Forest**: Unique ecosystem adapted to monsoon rainfall patterns
 - **Coastal Vegetation**: Specialized plants adapted to salt spray and strong winds
 - **Butterfly Valley**: Over 200 butterfly species, including spectacular migrations
 - **Geological Formations**: Uplifted coral platforms and limestone caves
 
 **Research Importance**: Kenting serves as Taiwan's primary marine research station, contributing to:
+
 - **Coral Reef Ecology**: Understanding climate change impacts on tropical reefs
 - **Sea Turtle Conservation**: Long-term monitoring and protection programs
 - **Marine Biodiversity**: Documenting and protecting tropical marine ecosystems
@@ -142,12 +161,14 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 **Unique Characteristics**:
 
 **Geothermal Activity**:
+
 - **Hot Springs**: Multiple hot spring areas with different mineral compositions
 - **Sulfur Deposits**: Natural sulfur mining areas with distinctive yellow crystals
 - **Fumaroles**: Steam vents releasing volcanic gases
 - **Geothermal Research**: Scientific monitoring of volcanic activity
 
 **Seasonal Attractions**:
+
 - **Cherry Blossoms (February-March)**: Spectacular blooms introduced during Japanese period
 - **Calla Lily Season (March-May)**: Massive lily fields in volcanic soil
 - **Silver Grass (October-November)**: Autumn grass displays on volcanic slopes
@@ -168,17 +189,20 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 **Notable Features**:
 
 **Snow Mountain (雪山)**: Taiwan's second-highest peak, offering:
+
 - **Alpine Cirques**: Glacially-carved bowls from ice age periods
 - **Black Forest**: Ancient Taiwan fir forests at high elevation
 - **Alpine Plants**: Endemic species adapted to freezing temperatures
 - **Technical Mountaineering**: Challenging routes for experienced climbers
 
 **Dabajian Mountain (大霸尖山)**: Sacred peak of the Atayal people:
+
 - **Spiritual Significance**: Considered the origin place of the Atayal tribe
 - **Dramatic Profile**: Distinctive pyramid shape visible from great distances
 - **Cultural Protection**: Managed in partnership with Indigenous communities
 
 **Conservation Success**: Shei-Pa demonstrates Taiwan's commitment to wilderness protection:
+
 - **Pristine Watersheds**: Protecting crucial water resources for northern Taiwan
 - **Wildlife Corridors**: Connecting fragmented high-altitude habitats
 - **Research Zones**: Supporting scientific studies of alpine ecology
@@ -186,12 +210,14 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 ### Marine National Parks
 
 **Dongsha Atoll National Park**: Taiwan's first marine national park protects a pristine coral atoll system 445km southwest of Taiwan. The circular atoll, formed over millions of years, supports exceptional marine biodiversity including:
+
 - **Pristine Coral Reefs**: Undamaged reef systems rare in the region
 - **Sea Turtle Habitat**: Critical nesting and feeding areas
 - **Seabird Colonies**: Important breeding sites for oceanic birds
 - **Research Station**: Advancing understanding of coral atoll ecology
 
 **South Penghu Marine National Park**: Protects the marine environment around Taiwan's southernmost islands, featuring:
+
 - **Marine Protected Zones**: Strict conservation areas allowing ecosystem recovery
 - **Traditional Fishing Culture**: Balancing conservation with local livelihoods
 - **Coral Restoration**: Active programs to restore damaged reef systems
@@ -202,17 +228,20 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 ### Species Protection Success Stories
 
 **Taiwan Black Bear Recovery**: From near extinction to stable populations through:
+
 - **Habitat Protection**: Preserving large wilderness areas essential for bear territory
 - **Research Programs**: GPS collaring and behavior studies
 - **Community Education**: Reducing human-bear conflicts
 - **Anti-Poaching Efforts**: Enforcement against illegal hunting
 
 **Endemic Bird Conservation**: Protection programs for species like:
+
 - **Mikado Pheasant**: Population recovery through habitat preservation
 - **Taiwan Blue Magpie**: Successful urban-rural conservation integration
 - **Black-faced Spoonbill**: International cooperation for migratory species protection
 
 **Marine Conservation**: Coral reef and sea turtle protection through:
+
 - **No-Take Zones**: Areas completely protected from fishing and collection
 - **Turtle Monitoring**: Long-term tracking of nesting success and population trends
 - **Coral Restoration**: Active replanting and protection of damaged reefs
@@ -220,18 +249,21 @@ Yushan protects Taiwan's highest peaks and most pristine alpine ecosystems. The 
 ### Contemporary Challenges
 
 **Climate Change Impacts**:
+
 - **Temperature Shifts**: Alpine species facing upward migration pressures
 - **Precipitation Changes**: Altered water cycles affecting forest ecosystems
 - **Sea Level Rise**: Threatening low-lying coastal park areas
 - **Ocean Acidification**: Damaging coral reef systems
 
 **Visitor Pressure Management**:
+
 - **Overtourism**: Popular sites experiencing degradation from heavy use
 - **Permit Systems**: Balancing access with conservation needs
 - **Infrastructure Impact**: Trail maintenance without ecosystem damage
 - **Education Programs**: Teaching visitors minimal-impact practices
 
 **Urban Development Pressure**:
+
 - **Habitat Fragmentation**: Development isolating protected areas
 - **Water Resource Competition**: Demands from growing urban populations
 - **Air Quality**: Pollution impacts on sensitive ecosystems
@@ -260,6 +292,7 @@ Taiwan's national parks are renowned for excellent visitor facilities that enabl
 ### Conservation Tourism Model
 
 Taiwan's national parks demonstrate how tourism can support rather than undermine conservation:
+
 - **Economic Incentives**: Tourism revenue supporting local communities
 - **Education Through Experience**: Visitors developing conservation awareness
 - **Research Funding**: Tourism fees supporting scientific research
@@ -295,6 +328,7 @@ Taiwan's national parks contribute significantly to global conservation science:
 ### Conservation Innovation
 
 Taiwan's national parks are pioneering new approaches to conservation:
+
 - **Ecosystem Service Valuation**: Quantifying economic benefits of protected areas
 - **Adaptive Management**: Continuously adjusting management based on new scientific knowledge
 - **Cross-Boundary Conservation**: Working beyond park borders to protect entire ecosystems
@@ -320,5 +354,5 @@ For visitors from around the world, Taiwan's national parks offer an unparallele
 
 - [[Nature/endemic-species]]
 - [[Geography/geography-and-geology]]
-- [[Lifestyle/hot-spring-culture]] *(coming soon)*
-- [[Culture/indigenous-peoples]] *(coming soon)*
+- [[Lifestyle/hot-spring-culture]] _(coming soon)_
+- [[Culture/indigenous-peoples]] _(coming soon)_

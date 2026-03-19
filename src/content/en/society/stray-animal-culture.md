@@ -1,9 +1,18 @@
 ---
-title: "Stray Animal Culture in Taiwan"
+title: 'Stray Animal Culture in Taiwan'
 description: "From the Twelve Nights documentary to Zero Euthanasia — an island's ongoing reckoning with its strays"
 date: 2026-03-18
-tags: ["stray animals", "animal protection", "TNR", "zero euthanasia", "adoption", "campus dogs", "animal welfare"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'stray animals',
+    'animal protection',
+    'TNR',
+    'zero euthanasia',
+    'adoption',
+    'campus dogs',
+    'animal welfare',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 ---
@@ -17,6 +26,7 @@ On Taiwan's streets, you'll encounter a special kind of presence. Some wear ear 
 On February 6, 2017, Taiwan became the second country in Asia and the first in East Asia to implement a "零撲殺" (Zero Euthanasia) policy. But this path didn't begin with kindness—it started with a documentary that made an entire island weep.
 
 **Key Statistics:**
+
 - Estimated **155,000 stray dogs** across Taiwan (2022 Council of Agriculture survey)
 - Full implementation of **zero euthanasia** since 2017
 - **32 public animal shelters** nationwide
@@ -154,6 +164,7 @@ These dogs and cats from shelters or streets, after being adopted by schools, be
 This isn't just taking in stray animals. This is **living life education**.
 
 Children learn not the textbook phrase "love animals," but:
+
 - When they don't want to be touched, you can't touch them
 - When they're sick, they need veterinary care, which costs money
 - When they age and pass away, you learn to face loss

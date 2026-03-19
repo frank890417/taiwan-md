@@ -1,10 +1,18 @@
 ---
-title: "Contemporary Taiwanese Literature Development"
+title: 'Contemporary Taiwanese Literature Development'
 description: "Exploring Taiwan's literary development from post-war to present, from modernism to indigenous literature, from nativist literature debates to multicultural writing"
 date: 2026-03-18
-tags: ["literature", "contemporary literature", "indigenous literature", "modernism", "nativist literature", "cultural identity"]
-category: "Art"
-author: "Taiwan.md"
+tags:
+  [
+    'literature',
+    'contemporary literature',
+    'indigenous literature',
+    'modernism',
+    'nativist literature',
+    'cultural identity',
+  ]
+category: 'Art'
+author: 'Taiwan.md'
 readingTime: 16
 featured: true
 ---
@@ -65,11 +73,11 @@ In the 1960s, influenced by Western modernist literature, Taiwan's literary scen
 
 ### Representative Writers and Classic Works
 
-**Bai Xianyong (白先勇)**: *Taipei People* (1971) is a milestone in Taiwanese literary history, depicting the survival circumstances and psychological worlds of mainland Chinese in Taiwan through fourteen short stories. Bai Xianyong's sophisticated narrative techniques and elegant prose are considered exemplary of Chinese short fiction.
+**Bai Xianyong (白先勇)**: _Taipei People_ (1971) is a milestone in Taiwanese literary history, depicting the survival circumstances and psychological worlds of mainland Chinese in Taiwan through fourteen short stories. Bai Xianyong's sophisticated narrative techniques and elegant prose are considered exemplary of Chinese short fiction.
 
-**Wang Wenxing (王文興)**: *Family Catastrophe* (1973) depicts father-son conflict with slow, detailed brushstrokes, reflecting the collision between traditional and modern values. Wang Wenxing's experimental writing influenced many later writers.
+**Wang Wenxing (王文興)**: _Family Catastrophe_ (1973) depicts father-son conflict with slow, detailed brushstrokes, reflecting the collision between traditional and modern values. Wang Wenxing's experimental writing influenced many later writers.
 
-**Wang Zhenhe (王禎和)**: Works like *The Dowry of One Ox-Cart* use black humor to depict social underclass characters, integrating Taiwan's local colors into modernist techniques.
+**Wang Zhenhe (王禎和)**: Works like _The Dowry of One Ox-Cart_ use black humor to depict social underclass characters, integrating Taiwan's local colors into modernist techniques.
 
 **Qi Dengsheng (七等生)**: Known for stream of consciousness technique, his works are filled with existentialist colors, exploring human loneliness and absurdity.
 
@@ -92,6 +100,7 @@ The nativist literature debate that erupted in the mid-1970s was one of the most
 **Debate Background**: Taiwan faced international political setbacks (withdrawal from the UN, US-China diplomatic break), leading to social reflection and demands to re-recognize Taiwan's local reality.
 
 **Main Issues**:
+
 - Should literature reflect social reality?
 - How to view Taiwan's local experience?
 - What is the social responsibility of intellectuals?
@@ -101,13 +110,13 @@ The nativist literature debate that erupted in the mid-1970s was one of the most
 
 ### Rise of Nativist Literature
 
-**Huang Chunming (黃春明)**: Works like *The Sandwich Man* and *The Taste of Apples* depict the lives of social underclass with simple brushstrokes, filled with humanistic concern. Huang Chunming is hailed as a representative of Taiwan nativist literature.
+**Huang Chunming (黃春明)**: Works like _The Sandwich Man_ and _The Taste of Apples_ depict the lives of social underclass with simple brushstrokes, filled with humanistic concern. Huang Chunming is hailed as a representative of Taiwan nativist literature.
 
-**Wang Tuo (王拓)**: Works like *Aunt Jin Shui* focus on workers' lives with strong social critical consciousness.
+**Wang Tuo (王拓)**: Works like _Aunt Jin Shui_ focus on workers' lives with strong social critical consciousness.
 
-**Yang Qingchu (楊青矗)**: Works like *Factory Daughters* describe workers' situations during industrialization, representing important Taiwan industrial literature.
+**Yang Qingchu (楊青矗)**: Works like _Factory Daughters_ describe workers' situations during industrialization, representing important Taiwan industrial literature.
 
-**Chen Yingzhen (陳映真)**: *The General* and *Washington Building* series focus on Taiwan's political and economic issues with profound intellectual depth. Chen Yingzhen is one of Taiwan's most important writers.
+**Chen Yingzhen (陳映真)**: _The General_ and _Washington Building_ series focus on Taiwan's political and economic issues with profound intellectual depth. Chen Yingzhen is one of Taiwan's most important writers.
 
 ### Germination of Indigenous Literature
 
@@ -129,13 +138,13 @@ After the lifting of martial law in 1987, Taiwanese literature welcomed unpreced
 
 ### Emergence of New Generation Writers
 
-**Zhu Tianxin (朱天心)**: Works like *Remembering My Military Dependents' Village Brothers* and *Ancient Capital* demonstrate superb literary technique and profound historical consciousness. Zhu Tianxin is one of Taiwan's most important female writers.
+**Zhu Tianxin (朱天心)**: Works like _Remembering My Military Dependents' Village Brothers_ and _Ancient Capital_ demonstrate superb literary technique and profound historical consciousness. Zhu Tianxin is one of Taiwan's most important female writers.
 
-**Luo Yijun (駱以軍)**: Works like *Dispatching Sorrows* and *Xixia Hotel* are renowned for complex narrative structures and rich cultural content, hailed as Taiwan literature's "master storyteller."
+**Luo Yijun (駱以軍)**: Works like _Dispatching Sorrows_ and _Xixia Hotel_ are renowned for complex narrative structures and rich cultural content, hailed as Taiwan literature's "master storyteller."
 
-**Wu He (舞鶴)**: Works like *Sorrow* and *Remaining Life* explore historical trauma and memory issues with experimental writing techniques.
+**Wu He (舞鶴)**: Works like _Sorrow_ and _Remaining Life_ explore historical trauma and memory issues with experimental writing techniques.
 
-**Ping Lu (平路)**: Works like *Walking the Ends of the Earth* and *When Will You Return Again* focus on women's issues and historical problems with sharp writing and profound thinking.
+**Ping Lu (平路)**: Works like _Walking the Ends of the Earth_ and _When Will You Return Again_ focus on women's issues and historical problems with sharp writing and profound thinking.
 
 ### Establishment of Literary Award System
 
@@ -161,13 +170,13 @@ Entering the 21st century, Taiwanese literature presents new characteristics aga
 
 ### Innovation by New Generation Writers
 
-**Wu Mingyi (吳明益)**: Works like *The Man with the Compound Eyes* and *The Stolen Bicycle* focus on ecological environmental issues with strong modernity and internationality. Wu Mingyi is Taiwan's most internationally acclaimed contemporary writer.
+**Wu Mingyi (吳明益)**: Works like _The Man with the Compound Eyes_ and _The Stolen Bicycle_ focus on ecological environmental issues with strong modernity and internationality. Wu Mingyi is Taiwan's most internationally acclaimed contemporary writer.
 
-**Gan Yaoming (甘耀明)**: Works like *Killing Ghosts* and *Bangcha Girl* use magical realism to rewrite Taiwan's history with rich imagination and lively language.
+**Gan Yaoming (甘耀明)**: Works like _Killing Ghosts_ and _Bangcha Girl_ use magical realism to rewrite Taiwan's history with rich imagination and lively language.
 
-**Zhang Huijing (張惠菁)**: Works like *Cold* and *Farewell* focus on urban life and female psychology with delicate writing and deep emotion.
+**Zhang Huijing (張惠菁)**: Works like _Cold_ and _Farewell_ focus on urban life and female psychology with delicate writing and deep emotion.
 
-**Chen Xue (陳雪)**: Works like *Children on the Bridge* and *Skyscraper* explore gay issues and family problems; she is an important lesbian writer in Taiwan.
+**Chen Xue (陳雪)**: Works like _Children on the Bridge_ and _Skyscraper_ explore gay issues and family problems; she is an important lesbian writer in Taiwan.
 
 ### Rise of Genre Literature
 
@@ -179,13 +188,13 @@ Entering the 21st century, Taiwanese literature presents new characteristics aga
 
 ### Flourishing Development of Indigenous Literature
 
-**Walis Nokan (瓦歷斯•諾幹)**: Works like *Ino's Return Survey* reflect on preservation and transmission of indigenous culture.
+**Walis Nokan (瓦歷斯•諾幹)**: Works like _Ino's Return Survey_ reflect on preservation and transmission of indigenous culture.
 
-**Syaman Rapongan (夏曼•藍波安)**: Works like *Songs of the Ocean* describe Tao maritime culture with beautiful language and profound content.
+**Syaman Rapongan (夏曼•藍波安)**: Works like _Songs of the Ocean_ describe Tao maritime culture with beautiful language and profound content.
 
-**Liglav A-wu (里慕伊•阿紀)**: Works like *Wild Boars, Flying Squirrels, and Sakinu* introduce Paiwan culture and are beloved by readers.
+**Liglav A-wu (里慕伊•阿紀)**: Works like _Wild Boars, Flying Squirrels, and Sakinu_ introduce Paiwan culture and are beloved by readers.
 
-**Ahronglong Sakinu (亞榮隆•撒可努)**: Works like *People Who Walk with the Wind* record indigenous life in essay form with simple and moving prose.
+**Ahronglong Sakinu (亞榮隆•撒可努)**: Works like _People Who Walk with the Wind_ record indigenous life in essay form with simple and moving prose.
 
 ## International Impact of Taiwanese Literature
 
@@ -193,7 +202,7 @@ Entering the 21st century, Taiwanese literature presents new characteristics aga
 
 Taiwanese writers receive increasing recognition on the international literary stage, enhancing Taiwanese literature's international status.
 
-**Wu Mingyi**: Shortlisted for the 2018 Man Booker International Prize with *The Stolen Bicycle*, marking an important breakthrough in Taiwanese literary history.
+**Wu Mingyi**: Shortlisted for the 2018 Man Booker International Prize with _The Stolen Bicycle_, marking an important breakthrough in Taiwanese literary history.
 
 **Hu Qingfang (胡晴舫)**: Won multiple international literary awards with works translated into various languages.
 
@@ -213,7 +222,7 @@ Taiwanese writers receive increasing recognition on the international literary s
 
 Facing global environmental crisis, Taiwanese writers begin focusing on ecological issues, creating numerous ecological literary works.
 
-**Wu Mingyi**: Works like *The Man with the Compound Eyes* address marine pollution and ecological destruction.
+**Wu Mingyi**: Works like _The Man with the Compound Eyes_ address marine pollution and ecological destruction.
 
 **Liu Kexiang (劉克襄)**: Known for nature writing, focusing on Taiwan's ecological protection.
 
@@ -223,7 +232,7 @@ Facing global environmental crisis, Taiwanese writers begin focusing on ecologic
 
 Against the background of multiculturalism, Taiwanese writers begin focusing on ethnic diversity and cultural identity issues.
 
-**New Immigrant Literature**: Depicting Southeast Asian new immigrants' life experiences in Taiwan, such as Li Ang's *Roadside Sugar Cane for All to Chew*.
+**New Immigrant Literature**: Depicting Southeast Asian new immigrants' life experiences in Taiwan, such as Li Ang's _Roadside Sugar Cane for All to Chew_.
 
 **Hakka Literature**: Writers like Zhong Tiemu and Lan Bozhou, descendants of Zhong Lihe, focus on preservation and development of Hakka culture.
 

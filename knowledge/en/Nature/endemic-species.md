@@ -1,6 +1,7 @@
 ---
 created: 2026-03-17
-tags: [nature, endemic species, biodiversity, Formosan black bear, cherry salmon]
+tags:
+  [nature, endemic species, biodiversity, Formosan black bear, cherry salmon]
 title: Endemic Species
 description: Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and conservation importance
 date: 2026-03-17
@@ -102,4 +103,4 @@ Taiwan's endemic species conservation experience holds important value for globa
 
 ---
 
-*Taiwan's endemic species represent millions of years of evolutionary history compressed into a small island, making their conservation crucial for maintaining global biodiversity.*
+_Taiwan's endemic species represent millions of years of evolutionary history compressed into a small island, making their conservation crucial for maintaining global biodiversity._

@@ -1,10 +1,10 @@
 ---
-title: "228 Incident"
+title: '228 Incident'
 description: "The major 1947 event that changed Taiwan's historical trajectory - from the outbreak to the long journey toward transitional justice"
 date: 2026-03-17
 tags: [history, politics, transitional justice, White Terror, democratization]
-translatedFrom: "History/二二八事件.md"
-sourceHash: "47071c"
+translatedFrom: 'History/二二八事件.md'
+sourceHash: '47071c'
 ---
 
 # 228 Incident
@@ -93,8 +93,9 @@ That today's Taiwan can freely discuss this painful history is an important achi
 
 ---
 
-*References:*
+_References:_
+
 - February 28 Incident Memorial Foundation
-- February 28 National Memorial Museum  
+- February 28 National Memorial Museum
 - Institute of Taiwan History, Academia Sinica
 - Transitional Justice Commission Archives

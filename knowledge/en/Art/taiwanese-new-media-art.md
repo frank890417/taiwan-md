@@ -157,7 +157,8 @@ This is the ultimate meaning of Taiwanese new media art—it is not merely a dis
 
 ---
 
-*References:*
+_References:_
+
 - [Taiwan Contemporary Culture Lab (C-LAB) Official Resources](https://clab.org.tw/)
 - [Digital Art Center Taipei Exhibition Records](https://dac.taipei/)
 - [Venice Biennale Taiwan Pavilion Exhibition Records](https://www.taiwaninvenice.org/2024/tw)

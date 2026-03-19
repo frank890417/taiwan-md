@@ -5,16 +5,26 @@ import { execSync } from 'child_process';
 import matter from 'gray-matter';
 import Layout from '../../../layouts/Layout.astro';
 import { marked } from 'marked';
-import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
+import {
+  categoryConfig,
+  getCategoryConfig,
+  type CategoryKey,
+} from '../../../utils/categoryConfig';
 
-let _gitCache: Map<string, { contributors: string[]; lastModified: string }> | null = null;
-function buildGitCache(): Map<string, { contributors: string[]; lastModified: string }> {
+let _gitCache: Map<
+  string,
+  { contributors: string[]; lastModified: string }
+> | null = null;
+function buildGitCache(): Map<
+  string,
+  { contributors: string[]; lastModified: string }
+> {
   if (_gitCache) return _gitCache;
   _gitCache = new Map();
   try {
     const logOutput = execSync(
       `git -c core.quotePath=false log --name-only --format="COMMIT_BY:%an" -- "knowledge/"`,
-      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 }
+      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
     );
     let currentAuthor = '';
     for (const line of logOutput.split('\n')) {
@@ -22,14 +32,18 @@ function buildGitCache(): Map<string, { contributors: string[]; lastModified: st
         currentAuthor = line.slice(10);
       } else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
         const key = resolve(process.cwd(), line);
-        const entry = _gitCache.get(key) || { contributors: [], lastModified: '' };
-        if (!entry.contributors.includes(currentAuthor)) entry.contributors.push(currentAuthor);
+        const entry = _gitCache.get(key) || {
+          contributors: [],
+          lastModified: '',
+        };
+        if (!entry.contributors.includes(currentAuthor))
+          entry.contributors.push(currentAuthor);
         _gitCache.set(key, entry);
       }
     }
     const dateOutput = execSync(
       `git -c core.quotePath=false log --format="COMMIT_DATE:%aI" --name-only -- "knowledge/"`,
-      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 }
+      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
     );
     let currentDate = '';
     const seenFiles = new Set<string>();
@@ -40,7 +54,10 @@ function buildGitCache(): Map<string, { contributors: string[]; lastModified: st
         const key = resolve(process.cwd(), line);
         if (!seenFiles.has(key)) {
           seenFiles.add(key);
-          const entry = _gitCache.get(key) || { contributors: [], lastModified: '' };
+          const entry = _gitCache.get(key) || {
+            contributors: [],
+            lastModified: '',
+          };
           entry.lastModified = currentDate;
           _gitCache.set(key, entry);
         }
@@ -75,9 +92,16 @@ export async function getStaticPaths() {
 
   for (const [categorySlug, folderName] of Object.entries(categoryMapping)) {
     try {
-      const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
+      const enFolderPath = resolve(
+        process.cwd(),
+        'knowledge',
+        'en',
+        folderName,
+      );
       const enFiles = await readdir(enFolderPath);
-      const enMarkdownFiles = enFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+      const enMarkdownFiles = enFiles.filter(
+        (file) => file.endsWith('.md') && !file.startsWith('_'),
+      );
 
       for (const file of enMarkdownFiles) {
         const filePath = join(enFolderPath, file);
@@ -86,7 +110,9 @@ export async function getStaticPaths() {
         const slug = basename(file, '.md');
 
         let gitInfo = { contributors: [] as string[], lastModified: '' };
-        try { gitInfo = getGitInfo(filePath); } catch {}
+        try {
+          gitInfo = getGitInfo(filePath);
+        } catch {}
         paths.push({
           params: { category: categorySlug, slug },
           props: {
@@ -106,7 +132,15 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { title, description, content, frontmatter, lang, contributors = [], lastModified = '' } = Astro.props;
+const {
+  title,
+  description,
+  content,
+  frontmatter,
+  lang,
+  contributors = [],
+  lastModified = '',
+} = Astro.props;
 const { category, slug } = Astro.params;
 
 const categoryInfo = getCategoryConfig(category);
@@ -116,11 +150,11 @@ if (!categoryInfo) {
 
 // 推薦文章 (簡化版，取同分類的其他文章)
 const otherCategories = Object.keys(categoryConfig)
-  .filter(cat => cat !== category)
+  .filter((cat) => cat !== category)
   .slice(0, 3)
-  .map(cat => ({
+  .map((cat) => ({
     key: cat,
-    ...categoryConfig[cat as CategoryKey]
+    ...categoryConfig[cat as CategoryKey],
   }));
 
 const categoryMapping: Record<string, string> = {
@@ -142,9 +176,16 @@ let relatedArticles: any[] = [];
 try {
   const folderName = categoryMapping[category as string];
   if (folderName) {
-    const categoryFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
+    const categoryFolderPath = resolve(
+      process.cwd(),
+      'knowledge',
+      'en',
+      folderName,
+    );
     const files = await readdir(categoryFolderPath);
-    const markdownFiles = files.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+    const markdownFiles = files.filter(
+      (file) => file.endsWith('.md') && !file.startsWith('_'),
+    );
 
     for (const file of markdownFiles) {
       const articleSlug = basename(file, '.md');
@@ -168,10 +209,13 @@ try {
 
 function resolveWikilinks(markdownContent: string) {
   if (!markdownContent) return markdownContent;
-  return markdownContent.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
-    const label = display || target;
-    return `**${label}**`;
-  });
+  return markdownContent.replace(
+    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+    (_, target, display) => {
+      const label = display || target;
+      return `**${label}**`;
+    },
+  );
 }
 
 const resolvedContent = resolveWikilinks(content);
@@ -179,9 +223,12 @@ const resolvedContent = resolveWikilinks(content);
 // External links open in new tab
 const renderer = new marked.Renderer();
 renderer.link = ({ href, title, text }) => {
-  const isExternal = href && (href.startsWith('http://') || href.startsWith('https://'));
+  const isExternal =
+    href && (href.startsWith('http://') || href.startsWith('https://'));
   const titleAttr = title ? ` title="${title}"` : '';
-  const targetAttr = isExternal ? ' target="_blank" rel="noopener noreferrer"' : '';
+  const targetAttr = isExternal
+    ? ' target="_blank" rel="noopener noreferrer"'
+    : '';
   return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
 };
 
@@ -195,12 +242,14 @@ renderer.image = ({ href, title, text }) => {
 const processedContent = marked.parse(resolvedContent, { renderer });
 ---
 
-<Layout 
+<Layout
   title={title}
   description={description}
   type="article"
   datePublished={frontmatter.date || new Date().toISOString()}
-  dateModified={frontmatter.modified || frontmatter.date || new Date().toISOString()}
+  dateModified={frontmatter.modified ||
+    frontmatter.date ||
+    new Date().toISOString()}
   content={content}
   lang="en"
 >
@@ -209,16 +258,21 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
   <main class="article-page">
     <!-- Article Header Banner -->
-    <section class="article-header-banner" style={`background: ${categoryInfo.gradient};`}>
+    <section
+      class="article-header-banner"
+      style={`background: ${categoryInfo.gradient};`}
+    >
       <div class="header-content">
         <nav class="breadcrumb-header">
           <a href="/en" class="breadcrumb-link">Home</a>
           <span class="separator">›</span>
-          <a href={`/en/${category}`} class="breadcrumb-link">{categoryInfo.name}</a>
+          <a href={`/en/${category}`} class="breadcrumb-link"
+            >{categoryInfo.name}</a
+          >
           <span class="separator">›</span>
           <span class="current">{title}</span>
         </nav>
-        
+
         <h1 class="article-title-header">{title}</h1>
         <p class="article-description-header">{description}</p>
       </div>
@@ -230,103 +284,169 @@ const processedContent = marked.parse(resolvedContent, { renderer });
         <!-- Meta Information -->
         <div class="article-meta">
           <div class="meta-group">
-            <div class="category-badge" style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color}; border-color: ${categoryInfo.color};`}>
+            <div
+              class="category-badge"
+              style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color}; border-color: ${categoryInfo.color};`}
+            >
               <span class="category-icon">{categoryInfo.icon}</span>
               <span class="category-name">{categoryInfo.name}</span>
             </div>
-            
-            {frontmatter.readingTime && (
-              <div class="meta-item">
-                <span class="meta-icon">📖</span>
-                <span>{frontmatter.readingTime} min read</span>
-              </div>
-            )}
-            
-            {frontmatter.date && (
-              <div class="meta-item">
-                <span class="meta-icon">📅</span>
-                <span>{new Date(frontmatter.date).toLocaleDateString('en-US')}</span>
-              </div>
-            )}
 
-            {frontmatter.status && (
-              <div class="meta-item">
-                <span class="status-tag" style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}>{frontmatter.status}</span>
-              </div>
-            )}
+            {
+              frontmatter.readingTime && (
+                <div class="meta-item">
+                  <span class="meta-icon">📖</span>
+                  <span>{frontmatter.readingTime} min read</span>
+                </div>
+              )
+            }
+
+            {
+              frontmatter.date && (
+                <div class="meta-item">
+                  <span class="meta-icon">📅</span>
+                  <span>
+                    {new Date(frontmatter.date).toLocaleDateString('en-US')}
+                  </span>
+                </div>
+              )
+            }
+
+            {
+              frontmatter.status && (
+                <div class="meta-item">
+                  <span
+                    class="status-tag"
+                    style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                  >
+                    {frontmatter.status}
+                  </span>
+                </div>
+              )
+            }
           </div>
-          
-          {lang && (
-            <div class="lang-badge">
-              <span class="meta-icon">🌐</span>
-              <span>{lang === 'zh-TW' ? 'Traditional Chinese' : 'English'}</span>
-            </div>
-          )}
+
+          {
+            lang && (
+              <div class="lang-badge">
+                <span class="meta-icon">🌐</span>
+                <span>
+                  {lang === 'zh-TW' ? 'Traditional Chinese' : 'English'}
+                </span>
+              </div>
+            )
+          }
         </div>
 
-        {(contributors.length > 0 || lastModified) && (
-          <div class="article-contributors">
-            {contributors.length > 0 && (
-              <div class="contributors-list">
-                <span class="contributors-label">✏️ Contributors</span>
-                <div class="contributors-names">
-                  {contributors.map((name: string) => (
-                    <a href={`https://github.com/${name}`} target="_blank" rel="noopener noreferrer" class="contributor-chip">{name}</a>
-                  ))}
+        {
+          (contributors.length > 0 || lastModified) && (
+            <div class="article-contributors">
+              {contributors.length > 0 && (
+                <div class="contributors-list">
+                  <span class="contributors-label">✏️ Contributors</span>
+                  <div class="contributors-names">
+                    {contributors.map((name: string) => (
+                      <a
+                        href={`https://github.com/${name}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="contributor-chip"
+                      >
+                        {name}
+                      </a>
+                    ))}
+                  </div>
                 </div>
-              </div>
-            )}
-            {lastModified && (
-              <div class="last-modified">
-                <span class="modified-label">🔄 Last updated</span>
-                <span class="modified-date">{new Date(lastModified).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</span>
-              </div>
-            )}
-          </div>
-        )}
+              )}
+              {lastModified && (
+                <div class="last-modified">
+                  <span class="modified-label">🔄 Last updated</span>
+                  <span class="modified-date">
+                    {new Date(lastModified).toLocaleDateString('en-US', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric',
+                    })}
+                  </span>
+                </div>
+              )}
+            </div>
+          )
+        }
 
         <!-- Main Content -->
-        <div class="content" set:html={processedContent}></div>
-        
-        {frontmatter.source && (
-          <div class="sources">
-            <h3>Sources</h3>
-            <ul>
-              {frontmatter.source.map((url: string) => (
-                <li><a href={url} target="_blank" rel="noopener">{url}</a></li>
-              ))}
-            </ul>
-          </div>
-        )}
+        <div class="content" set:html={processedContent} />
+
+        {
+          frontmatter.source && (
+            <div class="sources">
+              <h3>Sources</h3>
+              <ul>
+                {frontmatter.source.map((url: string) => (
+                  <li>
+                    <a href={url} target="_blank" rel="noopener">
+                      {url}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
 
         <!-- Tags and Share -->
         <div class="article-footer">
           <div class="tags-section">
-            {frontmatter.tags && frontmatter.tags.length > 0 && (
-              <div class="tags">
-                {frontmatter.tags.map((tag: string) => (
-                  <span class="tag" style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}>{tag}</span>
-                ))}
-              </div>
-            )}
+            {
+              frontmatter.tags && frontmatter.tags.length > 0 && (
+                <div class="tags">
+                  {frontmatter.tags.map((tag: string) => (
+                    <span
+                      class="tag"
+                      style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                    >
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              )
+            }
           </div>
-          
+
           <div class="share-section">
             <span class="share-label">Share this article:</span>
             <div class="share-buttons">
-              <a href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`} 
-                 target="_blank" 
-                 class="share-btn twitter">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"/>
+              <a
+                href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`}
+                target="_blank"
+                class="share-btn twitter"
+              >
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z"
+                  ></path>
                 </svg>
                 Twitter
               </a>
-              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`} 
-                 target="_blank" 
-                 class="share-btn facebook">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-                  <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
+              <a
+                href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`}
+                target="_blank"
+                class="share-btn facebook"
+              >
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 24 24"
+                  fill="currentColor"
+                >
+                  <path
+                    d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"
+                  ></path>
                 </svg>
                 Facebook
               </a>
@@ -335,62 +455,96 @@ const processedContent = marked.parse(resolvedContent, { renderer });
         </div>
 
         <!-- 延伸閱讀：同分類其他文章 -->
-        {relatedArticles.length > 0 && (
-          <div class="related-articles">
-            <h3 class="related-title">Further Reading</h3>
-            <div class="related-grid">
-              {relatedArticles.map(article => (
-                <a href={`/en/${article.category}/${article.slug}`} class="related-card" style={`border-color: ${categoryInfo.color};`}>
-                  <div class="related-card-content">
-                    <h4 class="related-card-title" style={`color: ${categoryInfo.color};`}>{article.title}</h4>
-                    {article.description && (
-                      <p class="related-card-desc">{article.description}</p>
-                    )}
-                  </div>
-                  <div class="related-card-arrow" style={`color: ${categoryInfo.color};`}>→</div>
-                </a>
-              ))}
+        {
+          relatedArticles.length > 0 && (
+            <div class="related-articles">
+              <h3 class="related-title">Further Reading</h3>
+              <div class="related-grid">
+                {relatedArticles.map((article) => (
+                  <a
+                    href={`/en/${article.category}/${article.slug}`}
+                    class="related-card"
+                    style={`border-color: ${categoryInfo.color};`}
+                  >
+                    <div class="related-card-content">
+                      <h4
+                        class="related-card-title"
+                        style={`color: ${categoryInfo.color};`}
+                      >
+                        {article.title}
+                      </h4>
+                      {article.description && (
+                        <p class="related-card-desc">{article.description}</p>
+                      )}
+                    </div>
+                    <div
+                      class="related-card-arrow"
+                      style={`color: ${categoryInfo.color};`}
+                    >
+                      →
+                    </div>
+                  </a>
+                ))}
+              </div>
             </div>
-          </div>
-        )}
+          )
+        }
 
         <!-- More Articles -->
         <div class="more-articles">
           <h3 class="more-title">Explore More Aspects of Taiwan</h3>
           <div class="more-grid">
-            {otherCategories.map(cat => (
-              <a href={`/en/${cat.key}`} class="more-card" style={`border-color: ${cat.color};`}>
-                <div class="more-card-icon" style={`color: ${cat.color};`}>{cat.icon}</div>
-                <div class="more-card-content">
-                  <div class="more-card-name" style={`color: ${cat.color};`}>{cat.name}</div>
-                  <div class="more-card-desc">{cat.description}</div>
-                </div>
-              </a>
-            ))}
+            {
+              otherCategories.map((cat) => (
+                <a
+                  href={`/en/${cat.key}`}
+                  class="more-card"
+                  style={`border-color: ${cat.color};`}
+                >
+                  <div class="more-card-icon" style={`color: ${cat.color};`}>
+                    {cat.icon}
+                  </div>
+                  <div class="more-card-content">
+                    <div class="more-card-name" style={`color: ${cat.color};`}>
+                      {cat.name}
+                    </div>
+                    <div class="more-card-desc">{cat.description}</div>
+                  </div>
+                </a>
+              ))
+            }
           </div>
         </div>
 
         <!-- Article Footer Actions -->
         <div class="article-footer-actions">
           <hr class="section-divider" />
-          
+
           <!-- 推薦下一篇 (Retention Loop) -->
-          {relatedArticles.length > 0 && (
-            <div class="recommended-reading">
-              <h3 class="footer-section-title">You might also like</h3>
-              <div class="recommended-grid">
-                {relatedArticles.slice(0, 2).map(article => (
-                  <a href={`/en/${article.category}/${article.slug}`} class="recommended-card">
-                    <h4 class="recommended-title">{article.title}</h4>
-                    <div class="recommended-category" style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}>
-                      <span class="category-icon">{categoryInfo.icon}</span>
-                      <span>{categoryInfo.name}</span>
-                    </div>
-                  </a>
-                ))}
+          {
+            relatedArticles.length > 0 && (
+              <div class="recommended-reading">
+                <h3 class="footer-section-title">You might also like</h3>
+                <div class="recommended-grid">
+                  {relatedArticles.slice(0, 2).map((article) => (
+                    <a
+                      href={`/en/${article.category}/${article.slug}`}
+                      class="recommended-card"
+                    >
+                      <h4 class="recommended-title">{article.title}</h4>
+                      <div
+                        class="recommended-category"
+                        style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                      >
+                        <span class="category-icon">{categoryInfo.icon}</span>
+                        <span>{categoryInfo.name}</span>
+                      </div>
+                    </a>
+                  ))}
+                </div>
               </div>
-            </div>
-          )}
+            )
+          }
 
           <hr class="section-divider" />
 
@@ -398,23 +552,27 @@ const processedContent = marked.parse(resolvedContent, { renderer });
           <div class="contribute-section">
             <h3 class="footer-section-title">Help improve this content</h3>
             <p class="contribute-note">
-              This article was initially generated by AI. We hope to gather everyone's knowledge to make it more complete and accurate!<br>
-              If you spot any issues or have additional sources to recommend, please edit directly or <a href="mailto:cheyu.wu@monoame.com">contact us</a>.<br>
+              This article was initially generated by AI. We hope to gather
+              everyone's knowledge to make it more complete and accurate!<br />
+              If you spot any issues or have additional sources to recommend, please
+              edit directly or <a href="mailto:cheyu.wu@monoame.com"
+                >contact us</a
+              >.<br />
               Thank you for your thoughtful feedback!
             </p>
             <div class="contribute-actions">
-              <a 
+              <a
                 href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/en/${categoryMapping[category as string]}/${slug}.md`}
-                target="_blank" 
+                target="_blank"
                 class="contribute-btn edit-btn"
                 rel="noopener"
               >
                 <span class="contribute-icon">📝</span>
                 <span>Edit this page on GitHub</span>
               </a>
-              <a 
+              <a
                 href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
-                target="_blank" 
+                target="_blank"
                 class="contribute-btn issue-btn"
                 rel="noopener"
               >
@@ -430,25 +588,25 @@ const processedContent = marked.parse(resolvedContent, { renderer });
           <div class="social-sharing">
             <h3 class="footer-section-title">Share with others</h3>
             <div class="sharing-buttons">
-              <a 
+              <a
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`}
-                target="_blank" 
+                target="_blank"
                 class="share-button twitter-btn"
                 rel="noopener"
               >
                 <span class="share-icon">𝕏</span>
                 <span>Share on X</span>
               </a>
-              <a 
+              <a
                 href={`https://social-plugins.line.me/lineit/share?url=${encodeURIComponent(`https://taiwan.md/en/${category}/${slug}`)}`}
-                target="_blank" 
+                target="_blank"
                 class="share-button line-btn"
                 rel="noopener"
               >
                 <span class="share-icon">💚</span>
                 <span>Share on LINE</span>
               </a>
-              <button 
+              <button
                 class="share-button copy-btn"
                 onclick="copyToClipboard()"
                 type="button"
@@ -463,12 +621,14 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
       <!-- Navigation -->
       <div class="article-navigation">
-        <a href={`/en/${category}`} class="nav-btn back-btn" style={`background: ${categoryInfo.color};`}>
+        <a
+          href={`/en/${category}`}
+          class="nav-btn back-btn"
+          style={`background: ${categoryInfo.color};`}
+        >
           ← Back to {categoryInfo.name}
         </a>
-        <a href="/en" class="nav-btn home-btn">
-          Home
-        </a>
+        <a href="/en" class="nav-btn home-btn"> Home </a>
       </div>
     </div>
   </main>
@@ -479,62 +639,73 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   function updateReadingProgress() {
     const article = document.querySelector('.content');
     if (!article) return;
-    
+
     const scrolled = window.scrollY;
     const articleTop = article.offsetTop;
     const articleHeight = article.offsetHeight;
     const windowHeight = window.innerHeight;
-    
+
     const progress = Math.min(
-      Math.max((scrolled - articleTop + windowHeight * 0.3) / articleHeight * 100, 0),
-      100
+      Math.max(
+        ((scrolled - articleTop + windowHeight * 0.3) / articleHeight) * 100,
+        0,
+      ),
+      100,
     );
-    
+
     const progressBar = document.getElementById('reading-progress');
     if (progressBar) {
       progressBar.style.width = progress + '%';
     }
   }
-  
+
   // Copy to clipboard function
   function copyToClipboard() {
     const url = window.location.href;
-    navigator.clipboard.writeText(url).then(() => {
-      const btn = document.querySelector('.copy-btn');
-      const originalText = btn.innerHTML;
-      btn.innerHTML = '<span class="share-icon">✅</span><span>Copied</span>';
-      btn.style.background = '#10b981';
-      btn.style.color = 'white';
-      
-      setTimeout(() => {
-        btn.innerHTML = originalText;
-        btn.style.background = '';
-        btn.style.color = '';
-      }, 2000);
-    }).catch(() => {
-      // Fallback for older browsers
-      const textArea = document.createElement('textarea');
-      textArea.value = url;
-      document.body.appendChild(textArea);
-      textArea.select();
-      document.execCommand('copy');
-      document.body.removeChild(textArea);
-      
-      const btn = document.querySelector('.copy-btn');
-      const originalText = btn.innerHTML;
-      btn.innerHTML = '<span class="share-icon">✅</span><span>Copied</span>';
-      setTimeout(() => {
-        btn.innerHTML = originalText;
-      }, 2000);
-    });
+    navigator.clipboard
+      .writeText(url)
+      .then(() => {
+        const btn = document.querySelector('.copy-btn');
+        const originalText = btn.innerHTML;
+        btn.innerHTML = '<span class="share-icon">✅</span><span>Copied</span>';
+        btn.style.background = '#10b981';
+        btn.style.color = 'white';
+
+        setTimeout(() => {
+          btn.innerHTML = originalText;
+          btn.style.background = '';
+          btn.style.color = '';
+        }, 2000);
+      })
+      .catch(() => {
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea');
+        textArea.value = url;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+
+        const btn = document.querySelector('.copy-btn');
+        const originalText = btn.innerHTML;
+        btn.innerHTML = '<span class="share-icon">✅</span><span>Copied</span>';
+        setTimeout(() => {
+          btn.innerHTML = originalText;
+        }, 2000);
+      });
   }
-  
+
   window.addEventListener('scroll', updateReadingProgress);
   window.addEventListener('resize', updateReadingProgress);
   updateReadingProgress();
 </script>
 
-<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
+<style
+  define:vars={{
+    categoryColor: categoryInfo.color,
+    categoryColorLight: categoryInfo.colorLight,
+  }}
+>
   /* Reading Progress Bar */
   .reading-progress {
     position: fixed;
@@ -708,7 +879,8 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     gap: 0.6rem;
     flex-wrap: wrap;
   }
-  .contributors-label, .modified-label {
+  .contributors-label,
+  .modified-label {
     font-weight: 600;
     color: #475569;
     white-space: nowrap;
@@ -753,8 +925,13 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin: 0 auto;
   }
 
-  .content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-    font-family: "Noto Serif TC", "Source Han Serif TC", serif;
+  .content h1,
+  .content h2,
+  .content h3,
+  .content h4,
+  .content h5,
+  .content h6 {
+    font-family: 'Noto Serif TC', 'Source Han Serif TC', serif;
     color: #1f2937;
     margin: 3.5rem 0 1.2rem 0;
     line-height: 1.3;
@@ -791,7 +968,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin: 3rem 0 1rem 0;
     color: #333;
     padding-left: 0.85rem;
-    border-left: 3px solid rgba(0,0,0,0.15);
+    border-left: 3px solid rgba(0, 0, 0, 0.15);
   }
 
   .content p {
@@ -800,7 +977,11 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
   .content blockquote {
     border-left: 6px solid var(--categoryColor);
-    background: linear-gradient(to right, var(--categoryColorLight), transparent);
+    background: linear-gradient(
+      to right,
+      var(--categoryColorLight),
+      transparent
+    );
     padding: 1.5rem 2rem;
     margin: 2rem 0;
     font-style: italic;
@@ -808,7 +989,8 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     border-radius: 0 8px 8px 0;
   }
 
-  .content ul, .content ol {
+  .content ul,
+  .content ol {
     margin: 1.5rem 0;
     padding-left: 2rem;
   }
@@ -843,7 +1025,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     border-radius: 12px;
     margin: 2rem auto;
     display: block;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
 
   /* Graceful fallback for broken images */
@@ -853,7 +1035,10 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     background: #f8f9fa;
     border: 1.5px dashed #d0d5dd;
     box-shadow: none;
-    font-family: system-ui, -apple-system, sans-serif;
+    font-family:
+      system-ui,
+      -apple-system,
+      sans-serif;
     font-size: 0.85rem;
     color: #667085;
     text-align: center;
@@ -883,13 +1068,15 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     border-radius: 8px;
     overflow: hidden;
   }
-  .content :global(th), .content :global(td) {
+  .content :global(th),
+  .content :global(td) {
     padding: 0.9rem 1.15rem;
     border-bottom: 1px solid #d5dbe3;
     border-right: 1px solid #e8ecf0;
     text-align: left;
   }
-  .content :global(th:last-child), .content :global(td:last-child) {
+  .content :global(th:last-child),
+  .content :global(td:last-child) {
     border-right: none;
   }
   .content :global(tr:last-child td) {
@@ -1164,7 +1351,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   .footer-section-title {
-    font-family: "Noto Serif TC", "Source Han Serif TC", serif;
+    font-family: 'Noto Serif TC', 'Source Han Serif TC', serif;
     font-size: 1.25rem;
     font-weight: 700;
     color: #2d5016;
@@ -1228,7 +1415,11 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     font-size: 0.95rem;
     line-height: 1.8;
     color: #5a6b3a;
-    background: linear-gradient(135deg, rgba(167, 196, 160, 0.15), rgba(232, 245, 232, 0.3));
+    background: linear-gradient(
+      135deg,
+      rgba(167, 196, 160, 0.15),
+      rgba(232, 245, 232, 0.3)
+    );
     border: 1px solid #c5d9b2;
     border-radius: 12px;
     padding: 1.25rem 1.5rem;

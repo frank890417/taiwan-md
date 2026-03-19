@@ -1,10 +1,11 @@
 ---
-title: "Jay Chou"
-description: "King of Mandarin Pop - the revolutionary creator who redefined Asian pop music with Chinese-style R&B"
+title: 'Jay Chou'
+description: 'King of Mandarin Pop - the revolutionary creator who redefined Asian pop music with Chinese-style R&B'
 date: 2026-03-17
-tags: [people, Jay Chou, Mandarin pop music, singer, creation, R&B, Chinese style]
-translatedFrom: "People/周杰倫.md"
-sourceHash: "6167b8"
+tags:
+  [people, Jay Chou, Mandarin pop music, singer, creation, R&B, Chinese style]
+translatedFrom: 'People/周杰倫.md'
+sourceHash: '6167b8'
 ---
 
 # Jay Chou (周杰倫)
@@ -40,6 +41,7 @@ Jay showed exceptional musical talent from childhood, not only playing piano wel
 In November 2000, Jay Chou's debut album "Jay" was released, immediately causing a revolution in the Mandarin music scene. The album combined R&B, hip-hop, classical music, and Chinese elements, creating an unprecedented musical style.
 
 **Musical Innovation:**
+
 - **"Adorable Woman"**: Showcased his R&B vocal style and rap abilities
 - **"Perfectionism"**: Combined classical piano with modern beats
 - **"Tornado"**: Eastern martial arts philosophy meets Western hip-hop
@@ -145,7 +147,8 @@ Jay Chou's legacy is the proof that authentic artistic expression, combined with
 
 ---
 
-*References:*
+_References:_
+
 - JVR Music official records
 - Golden Melody Awards archives
 - Music industry publications and interviews

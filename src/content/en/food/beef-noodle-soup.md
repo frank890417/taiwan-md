@@ -1,10 +1,18 @@
 ---
-title: "Beef Noodle Soup"
+title: 'Beef Noodle Soup'
 description: "From mainland Chinese immigrants' nostalgia to Taiwan's national dish - the cultural fusion and global aroma of beef noodle soup"
 date: 2026-03-17
-tags: [cuisine, beef noodle soup, mainland cuisine, cultural fusion, Taipei Beef Noodle Festival, Michelin]
-translatedFrom: "Food/牛肉麵.md"
-sourceHash: "46a5d7"
+tags:
+  [
+    cuisine,
+    beef noodle soup,
+    mainland cuisine,
+    cultural fusion,
+    Taipei Beef Noodle Festival,
+    Michelin,
+  ]
+translatedFrom: 'Food/牛肉麵.md'
+sourceHash: '46a5d7'
 ---
 
 # Beef Noodle Soup
@@ -55,6 +63,7 @@ After decades of development, Taiwan's beef noodle soup has formed multiple diff
 ### Red-Braised Beef Noodle Soup
 
 **Characteristics:**
+
 - **Broth color**: Deep reddish-brown, rich in color
 - **Seasonings**: Soy sauce, bean paste, chili, star anise, cinnamon, etc.
 - **Taste**: Salty and fragrant with mild spice, heavy broth
@@ -66,6 +75,7 @@ Beef is first stir-fried with soy sauce and spicy bean paste for coloring, then 
 ### Clear-Stewed Beef Noodle Soup
 
 **Characteristics:**
+
 - **Broth color**: Clear and transparent, without impurities
 - **Seasonings**: Only ginger, scallions, wine, etc. for deodorizing and enhancing flavor
 - **Taste**: Clear fragrance with sweet aftertaste, highlighting original beef flavor
@@ -77,6 +87,7 @@ Emphasizes the natural freshness of ingredients, with beef bone broth simmered f
 ### Tomato Beef Noodle Soup
 
 **Characteristics:**
+
 - **Broth color**: Bright red, sweet and sour with tomato aroma
 - **Seasonings**: Tomatoes, onions, carrots, etc.
 - **Taste**: Sweet and sour, appetizing with rich layered taste
@@ -88,6 +99,7 @@ Represents continuous innovation in Taiwan's food culture, incorporating Western
 ### Original Beef Noodle Soup
 
 **Characteristics:**
+
 - Uses only beef, beef bones, water, and minimal seasonings
 - Pursues the purest beef flavor
 - Broth is milky white like milk, nutritionally rich
@@ -95,6 +107,7 @@ Represents continuous innovation in Taiwan's food culture, incorporating Western
 ### Sichuan-Style Spicy Beef Noodle Soup
 
 **Characteristics:**
+
 - Uses authentic Sichuan bean paste and Sichuan peppercorns
 - Numbing and spicy with distinct layers
 - Maintains traditional Sichuan cuisine cooking characteristics
@@ -117,6 +130,7 @@ The balance of salty, sweet, sour, and spicy flavors is key. Taiwanese taste pre
 ### Beef Selection and Processing
 
 **Cut Selection:**
+
 - **Beef shank**: Rich in tendons and flavorful, becomes springy after stewing
 - **Beef short ribs**: Balanced fat and lean meat, becomes tender and juicy after stewing
 - **Beef chunks**: Pure lean meat with firmer texture
@@ -128,6 +142,7 @@ Beef must first be blanched to remove blood, then stewed together with spices. S
 ### Noodle Selection
 
 **Thickness Matching:**
+
 - **Thick noodles**: Suitable for rich red-braised broth
 - **Thin noodles**: Suitable for light clear-stewed broth
 - **Hand-cut noodles**: Springy texture, very popular
@@ -142,6 +157,7 @@ Good noodles need to be chewy but not hard, with cooking time controlled at 2-3 
 In 2005, the Taipei City Government founded the "Taipei International Beef Noodle Festival" to promote Taiwan's beef noodle culture and enhance international recognition.
 
 **Event Content:**
+
 - Beef noodle competition: Divided into red-braised, clear-stewed, creative categories
 - Famous restaurant showcase: Gathering renowned beef noodle shops from across Taiwan
 - Cultural activities: Including beef noodle history exhibitions, cooking demonstrations
@@ -157,6 +173,7 @@ Taiwan's beef noodle soup was selected by CNN as one of the "World's 40 Best Foo
 
 **Michelin Guide:**
 After the 2018 Taiwan Michelin Guide was released, multiple beef noodle shops received recommendations, including:
+
 - Liu Shandong Beef Noodles: Bib Gourmand recommendation
 - Niubaba Beef Noodles: Michelin recommendation
 - Jianhong Beef Noodles: Local specialty recommendation
@@ -167,6 +184,7 @@ Taiwan beef noodle shops have opened branches in the United States, Canada, Aust
 ### Diplomatic Soft Power
 
 Beef noodle soup has become an important cultural diplomatic tool for Taiwan:
+
 - The Overseas Community Affairs Council promotes Taiwan beef noodle soup overseas
 - The Ministry of Foreign Affairs establishes Taiwan food festivals abroad
 - The Tourism Bureau lists beef noodle soup as must-try cuisine
@@ -179,11 +197,13 @@ Beef noodle soup has become an important cultural diplomatic tool for Taiwan:
 One of the birthplaces of Taipei beef noodle soup, the 1950s saw multiple halal beef noodle stalls gathering here, later gradually developing Sichuan-style flavors.
 
 **Yongkang Street Commercial District:**
+
 - Yongkang Beef Noodles: Must-visit shop for tourists
 - Lao Zhang Beef Noodles: Recommended by locals
 - Pinchuan Lan Beef Noodles: Clear-stewed specialty
 
 **Ximending Area:**
+
 - Various beef noodle stalls near Lao Tianlu braised foods
 - Innovative flavors in youth gathering areas
 
@@ -193,6 +213,7 @@ One of the birthplaces of Taipei beef noodle soup, the 1950s saw multiple halal 
 Special business model combining soy milk shops with beef noodles, 24-hour operation meeting different time period needs.
 
 **Banqiao:**
+
 - Multiple long-established shops around Fuzhong Station
 - Budget-friendly routes combined with night market culture
 
@@ -202,6 +223,7 @@ Special business model combining soy milk shops with beef noodles, 24-hour opera
 Taichung beef noodle soup prefers refreshing taste, with lighter broth than Taipei but maintaining rich layers.
 
 **Representative Shops:**
+
 - Duan Chunzhen Beef Noodles: Successful chain operation case
 - Fuhong Beef Noodles: Local long-established shop
 
@@ -260,16 +282,19 @@ For many Taiwanese people, beef noodle soup carries emotional values like childh
 ### Modern Innovation
 
 **Health-Oriented:**
+
 - Reduced salt and oil healthy versions
 - Using organic ingredients
 - Increasing vegetable side dish proportions
 
 **Flavor Diversification:**
+
 - International flavor fusion: Japanese, Thai, Italian styles
 - Vegetarian versions: Using plant-based meat and mushrooms
 - Seafood versions: Replacing beef with seafood
 
 **Service Upgrades:**
+
 - Refined packaging and environment
 - Chain brand management
 - Widespread delivery services
@@ -301,11 +326,13 @@ Preventing misuse of the "Taiwan Beef Noodle Soup" brand and maintaining the rep
 ### Authentic Eating Method
 
 **Sequence:**
+
 1. First taste the broth to feel spice layers
 2. Taste the beef to feel stewing quality
 3. Combine with noodles to experience overall harmony
 
 **Pairings:**
+
 - Side dishes: Pickled vegetables, braised eggs, dried tofu
 - Beverages: Hot tea or beer
 - Staples: Sometimes paired with white rice
@@ -327,7 +354,8 @@ With advancing internationalization, Taiwan's beef noodle soup is shining on the
 
 ---
 
-*References:*
+_References:_
+
 - Taipei International Beef Noodle Festival official materials
 - Taiwan Michelin Guide
 - Academic papers on food culture research

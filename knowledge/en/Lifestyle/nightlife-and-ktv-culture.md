@@ -1,7 +1,15 @@
 ---
-title: "Nightlife and KTV Culture"
-category: "Lifestyle"
-tags: ["nightlife", "ktv", "late-night dining", "entertainment", "lifestyle", "culture"]
+title: 'Nightlife and KTV Culture'
+category: 'Lifestyle'
+tags:
+  [
+    'nightlife',
+    'ktv',
+    'late-night dining',
+    'entertainment',
+    'lifestyle',
+    'culture',
+  ]
 date: 2026-03-17
 ---
 
@@ -86,6 +94,6 @@ New technology also changes nightlife experiences. VR KTV, smart ordering, and u
 ## Related Topics
 
 - [[Taiwan's Transportation System]]: How night transportation supports nightlife culture
-- [[Convenience Store Culture]]: The relationship between 24-hour stores and sleepless city culture  
+- [[Convenience Store Culture]]: The relationship between 24-hour stores and sleepless city culture
 - [[Taiwan's Coffee Culture]]: Evolution from cafés to late-night coffee houses
 - [[Religion and Folk Beliefs]]: Nighttime temple festivals and traditional nightlife celebrations

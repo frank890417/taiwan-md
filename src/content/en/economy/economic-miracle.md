@@ -1,10 +1,18 @@
 ---
-title: "Economic Miracle"
+title: 'Economic Miracle'
 description: "Taiwan's remarkable transformation from an agrarian society to a high-tech industrial powerhouse, known as the 'Taiwan Economic Miracle'"
 date: 2026-03-17
-tags: [economy, SMEs, science parks, semiconductors, Asian Tigers, industrialization]
-translatedFrom: "Economy/經濟奇蹟.md"
-sourceHash: "a3f7c1"
+tags:
+  [
+    economy,
+    SMEs,
+    science parks,
+    semiconductors,
+    Asian Tigers,
+    industrialization,
+  ]
+translatedFrom: 'Economy/經濟奇蹟.md'
+sourceHash: 'a3f7c1'
 ---
 
 # Economic Miracle

@@ -5,22 +5,48 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join } from 'path';
 
 const categories = [
-  'history', 'geography', 'culture', 'food', 'art', 'music',
-  'technology', 'nature', 'people', 'society', 'economy', 'lifestyle'
+  'history',
+  'geography',
+  'culture',
+  'food',
+  'art',
+  'music',
+  'technology',
+  'nature',
+  'people',
+  'society',
+  'economy',
+  'lifestyle',
 ];
 
 const categoryColors: Record<string, string> = {
-  history: '#e74c3c', geography: '#2ecc71', culture: '#9b59b6',
-  food: '#f39c12', art: '#e91e63', music: '#00bcd4',
-  technology: '#3498db', nature: '#27ae60', people: '#ff9800',
-  society: '#607d8b', economy: '#ff5722', lifestyle: '#8bc34a',
+  history: '#e74c3c',
+  geography: '#2ecc71',
+  culture: '#9b59b6',
+  food: '#f39c12',
+  art: '#e91e63',
+  music: '#00bcd4',
+  technology: '#3498db',
+  nature: '#27ae60',
+  people: '#ff9800',
+  society: '#607d8b',
+  economy: '#ff5722',
+  lifestyle: '#8bc34a',
 };
 
 const categoryNames: Record<string, string> = {
-  history: '📜 歷史', geography: '🗺️ 地理', culture: '🎭 文化',
-  food: '🍜 美食', art: '🎨 藝術', music: '🎵 音樂',
-  technology: '💻 科技', nature: '🌿 自然', people: '👥 人物',
-  society: '⚖️ 社會', economy: '📈 經濟', lifestyle: '🏠 生活',
+  history: '📜 歷史',
+  geography: '🗺️ 地理',
+  culture: '🎭 文化',
+  food: '🍜 美食',
+  art: '🎨 藝術',
+  music: '🎵 音樂',
+  technology: '💻 科技',
+  nature: '🌿 自然',
+  people: '👥 人物',
+  society: '⚖️ 社會',
+  economy: '📈 經濟',
+  lifestyle: '🏠 生活',
 };
 
 // Build nodes and edges
@@ -31,8 +57,16 @@ const tagMap: Record<string, string[]> = {}; // tag → article ids
 // Pre-fetch all collections
 let allZhArticles: any[] = [];
 let allEnArticles: any[] = [];
-try { allZhArticles = await getCollection('zh-TW'); } catch (e) { console.log('zh-TW collection error:', e); }
-try { allEnArticles = await getCollection('en'); } catch (e) { console.log('en collection error:', e); }
+try {
+  allZhArticles = await getCollection('zh-TW');
+} catch (e) {
+  console.log('zh-TW collection error:', e);
+}
+try {
+  allEnArticles = await getCollection('en');
+} catch (e) {
+  console.log('en collection error:', e);
+}
 
 // Fallback: scan filesystem if collections are empty
 if (allZhArticles.length === 0) {
@@ -48,7 +82,11 @@ if (allZhArticles.length === 0) {
             const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
             const tagsMatch = content.match(/^tags:\s*\[(.+?)\]/m);
             const title = titleMatch ? titleMatch[1] : slug;
-            const tags = tagsMatch ? tagsMatch[1].split(',').map(t => t.trim().replace(/["']/g, '')) : [];
+            const tags = tagsMatch
+              ? tagsMatch[1]
+                  .split(',')
+                  .map((t) => t.trim().replace(/["']/g, ''))
+              : [];
             allZhArticles.push({ id: `${cat}/${slug}`, data: { title, tags } });
           }
         }
@@ -68,7 +106,10 @@ if (allEnArticles.length === 0) {
             const content = await readFile(join(catDir, file), 'utf-8');
             const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
             const title = titleMatch ? titleMatch[1] : slug;
-            allEnArticles.push({ id: `${cat}/${slug}`, data: { title, tags: [] } });
+            allEnArticles.push({
+              id: `${cat}/${slug}`,
+              data: { title, tags: [] },
+            });
           }
         }
       } catch {}
@@ -80,15 +121,54 @@ if (allEnArticles.length === 0) {
 nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
 
 // SSOT concept node
-nodes.push({ id: 'ssot', label: '📐 SSOT\n(Single Source of Truth)', group: 'meta', color: '#8b5cf6', size: 16 });
+nodes.push({
+  id: 'ssot',
+  label: '📐 SSOT\n(Single Source of Truth)',
+  group: 'meta',
+  color: '#8b5cf6',
+  size: 16,
+});
 edges.push({ source: 'taiwan', target: 'ssot' });
 
 // Special nodes
-nodes.push({ id: 'about', label: '📖 關於', group: 'special', color: '#6366f1', size: 14, url: '/about' });
-nodes.push({ id: 'contribute', label: '✋ 貢獻', group: 'special', color: '#22c55e', size: 14, url: '/contribute' });
-nodes.push({ id: 'quotes', label: '✨ 看見台灣\n引言集', group: 'special', color: '#f59e0b', size: 12, url: '/about' });
-nodes.push({ id: 'editorial', label: '📋 編輯方針', group: 'meta', color: '#8b5cf6', size: 10 });
-nodes.push({ id: 'llms', label: '🤖 AI-Friendly\n(llms.txt)', group: 'meta', color: '#8b5cf6', size: 10 });
+nodes.push({
+  id: 'about',
+  label: '📖 關於',
+  group: 'special',
+  color: '#6366f1',
+  size: 14,
+  url: '/about',
+});
+nodes.push({
+  id: 'contribute',
+  label: '✋ 貢獻',
+  group: 'special',
+  color: '#22c55e',
+  size: 14,
+  url: '/contribute',
+});
+nodes.push({
+  id: 'quotes',
+  label: '✨ 看見台灣\n引言集',
+  group: 'special',
+  color: '#f59e0b',
+  size: 12,
+  url: '/about',
+});
+nodes.push({
+  id: 'editorial',
+  label: '📋 編輯方針',
+  group: 'meta',
+  color: '#8b5cf6',
+  size: 10,
+});
+nodes.push({
+  id: 'llms',
+  label: '🤖 AI-Friendly\n(llms.txt)',
+  group: 'meta',
+  color: '#8b5cf6',
+  size: 10,
+});
 edges.push({ source: 'taiwan', target: 'about' });
 edges.push({ source: 'taiwan', target: 'contribute' });
 edges.push({ source: 'about', target: 'quotes' });
@@ -101,18 +181,18 @@ for (const cat of categories) {
 
 for (const cat of categories) {
   // Category node
-  nodes.push({ 
-    id: cat, 
-    label: categoryNames[cat] || cat, 
-    group: cat, 
+  nodes.push({
+    id: cat,
+    label: categoryNames[cat] || cat,
+    group: cat,
     color: categoryColors[cat],
     size: 20,
-    url: `/${cat}`
+    url: `/${cat}`,
   });
   edges.push({ source: 'taiwan', target: cat });
 
   // Chinese article nodes (filter from pre-fetched collection)
-  const catArticles = allZhArticles.filter(a => {
+  const catArticles = allZhArticles.filter((a) => {
     const parts = a.id.split('/');
     return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
   });
@@ -125,10 +205,10 @@ for (const cat of categories) {
       group: cat,
       color: categoryColors[cat],
       size: 10,
-      url: `/${cat}/${encodeURIComponent(slug)}`
+      url: `/${cat}/${encodeURIComponent(slug)}`,
     });
     edges.push({ source: cat, target: nodeId });
-    
+
     // Build tag connections
     if (article.data.tags) {
       for (const tag of article.data.tags) {
@@ -137,9 +217,9 @@ for (const cat of categories) {
       }
     }
   }
-  
+
   // English article nodes
-  const enCatArticles = allEnArticles.filter(a => {
+  const enCatArticles = allEnArticles.filter((a) => {
     const parts = a.id.split('/');
     return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
   });
@@ -152,7 +232,7 @@ for (const cat of categories) {
       group: cat,
       color: categoryColors[cat],
       size: 8,
-      url: `/en/${cat}/${slug}`
+      url: `/en/${cat}/${slug}`,
     });
     edges.push({ source: cat, target: nodeId });
   }
@@ -176,36 +256,51 @@ for (const [tag, articleIds] of Object.entries(tagMap)) {
 
 // Parse Hub wikilinks to create Hub→article edges
 const categoryMapping: Record<string, string> = {
-  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
-  'food': 'Food', 'art': 'Art', 'music': 'Music',
-  'technology': 'Technology', 'nature': 'Nature', 'people': 'People',
-  'society': 'Society', 'economy': 'Economy', 'lifestyle': 'Lifestyle'
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
 };
-const nodeIds = new Set(nodes.map(n => n.id));
+const nodeIds = new Set(nodes.map((n) => n.id));
 
 for (const [cat, folder] of Object.entries(categoryMapping)) {
   try {
     const hubDir = resolve(process.cwd(), 'knowledge', folder);
     const files = await readdir(hubDir);
-    const hubFile = files.find(f => f.startsWith('_') && f.includes('Hub'));
+    const hubFile = files.find((f) => f.startsWith('_') && f.includes('Hub'));
     if (hubFile) {
       const content = await readFile(join(hubDir, hubFile), 'utf-8');
       // Extract [[wikilink]] references
-      const wikilinks = content.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
+      const wikilinks =
+        content.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
       for (const wl of wikilinks) {
-        const target = wl.replace(/\[\[/, '').replace(/\]\]/, '').split('|')[0].trim();
+        const target = wl
+          .replace(/\[\[/, '')
+          .replace(/\]\]/, '')
+          .split('|')[0]
+          .trim();
         // Check if target matches an article node
-        const matchNode = nodes.find(n => 
-          n.label === target || 
-          n.label === `🌐 ${target}` ||
-          n.id === `${cat}/${target}` ||
-          n.id === `${cat}/${encodeURIComponent(target)}`
+        const matchNode = nodes.find(
+          (n) =>
+            n.label === target ||
+            n.label === `🌐 ${target}` ||
+            n.id === `${cat}/${target}` ||
+            n.id === `${cat}/${encodeURIComponent(target)}`,
         );
         if (matchNode && matchNode.id !== cat) {
           // Avoid duplicate edges
-          const exists = edges.some(e => 
-            (e.source === cat && e.target === matchNode.id) ||
-            (e.source === matchNode.id && e.target === cat)
+          const exists = edges.some(
+            (e) =>
+              (e.source === cat && e.target === matchNode.id) ||
+              (e.source === matchNode.id && e.target === cat),
           );
           if (!exists) {
             edges.push({ source: cat, target: matchNode.id });
@@ -215,7 +310,9 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
         if (!matchNode) {
           for (const [otherCat] of Object.entries(categoryMapping)) {
             if (otherCat === cat) continue;
-            const crossNode = nodes.find(n => n.label === target && n.group === otherCat);
+            const crossNode = nodes.find(
+              (n) => n.label === target && n.group === otherCat,
+            );
             if (crossNode) {
               edges.push({ source: cat, target: crossNode.id });
               break;
@@ -236,7 +333,12 @@ const graphData = JSON.stringify({ nodes, edges });
       <h1>🕸️ 知識圖譜 Knowledge Graph</h1>
       <p>Taiwan.md 的所有知識節點與連結</p>
       <div class="search-box">
-        <input id="graph-search" type="search" placeholder="搜尋節點或文章" aria-label="搜尋知識圖譜節點" />
+        <input
+          id="graph-search"
+          type="search"
+          placeholder="搜尋節點或文章"
+          aria-label="搜尋知識圖譜節點"
+        />
         <span id="search-count" class="search-count"></span>
       </div>
       <a href="/" class="back">← 回首頁</a>
@@ -248,7 +350,7 @@ const graphData = JSON.stringify({ nodes, edges });
 
 <script define:vars={{ graphData }}>
   const data = JSON.parse(graphData);
-  
+
   // Load D3 from CDN
   const script = document.createElement('script');
   script.src = 'https://d3js.org/d3.v7.min.js';
@@ -261,7 +363,8 @@ const graphData = JSON.stringify({ nodes, edges });
     const height = container.clientHeight;
     const isCompact = width < 768;
 
-    const svg = d3.select('#graph-container')
+    const svg = d3
+      .select('#graph-container')
       .append('svg')
       .attr('width', width)
       .attr('height', height);
@@ -269,21 +372,34 @@ const graphData = JSON.stringify({ nodes, edges });
     const g = svg.append('g');
 
     // Zoom
-    svg.call(d3.zoom().on('zoom', (event) => {
-      g.attr('transform', event.transform);
-    }));
+    svg.call(
+      d3.zoom().on('zoom', (event) => {
+        g.attr('transform', event.transform);
+      }),
+    );
 
-    const simulation = d3.forceSimulation(data.nodes)
-      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
-        if (d.source.id === 'taiwan') return 150;
-        return 80;
-      }))
+    const simulation = d3
+      .forceSimulation(data.nodes)
+      .force(
+        'link',
+        d3
+          .forceLink(data.edges)
+          .id((d) => d.id)
+          .distance((d) => {
+            if (d.source.id === 'taiwan') return 150;
+            return 80;
+          }),
+      )
       .force('charge', d3.forceManyBody().strength(-200))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collision', d3.forceCollide().radius(d => d.size + 5));
+      .force(
+        'collision',
+        d3.forceCollide().radius((d) => d.size + 5),
+      );
 
     // Links
-    const link = g.append('g')
+    const link = g
+      .append('g')
       .selectAll('line')
       .data(data.edges)
       .join('line')
@@ -292,41 +408,53 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('stroke-opacity', 0.6);
 
     // Nodes
-    const node = g.append('g')
+    const node = g
+      .append('g')
       .selectAll('circle')
       .data(data.nodes)
       .join('circle')
-      .attr('r', d => d.size)
-      .attr('fill', d => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'))
+      .attr('r', (d) => d.size)
+      .attr(
+        'fill',
+        (d) => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'),
+      )
       .attr('stroke', '#fff')
       .attr('stroke-width', 2)
       .attr('cursor', 'pointer')
-      .call(d3.drag()
-        .on('start', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0.3).restart();
-          d.fx = d.x; d.fy = d.y;
-        })
-        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
-        .on('end', (event, d) => {
-          if (!event.active) simulation.alphaTarget(0);
-          d.fx = null; d.fy = null;
-        })
+      .call(
+        d3
+          .drag()
+          .on('start', (event, d) => {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+          })
+          .on('drag', (event, d) => {
+            d.fx = event.x;
+            d.fy = event.y;
+          })
+          .on('end', (event, d) => {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+          }),
       );
 
     // Labels
-    const label = g.append('g')
+    const label = g
+      .append('g')
       .selectAll('text')
       .data(data.nodes)
       .join('text')
-      .text(d => d.label)
-      .attr('font-size', d => {
+      .text((d) => d.label)
+      .attr('font-size', (d) => {
         if (d.group === 'center') return isCompact ? '14px' : '16px';
         if (d.size >= 15) return isCompact ? '12px' : '13px';
         return isCompact ? '11px' : '10px';
       })
-      .attr('font-weight', d => d.size > 15 ? 'bold' : 'normal')
+      .attr('font-weight', (d) => (d.size > 15 ? 'bold' : 'normal'))
       .attr('text-anchor', 'middle')
-      .attr('dy', d => d.size + 14)
+      .attr('dy', (d) => d.size + 14)
       .attr('fill', '#333')
       .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
       .attr('pointer-events', 'none');
@@ -338,10 +466,7 @@ const graphData = JSON.stringify({ nodes, edges });
       const normalized = query.trim().toLowerCase();
 
       if (!normalized) {
-        node
-          .attr('opacity', 1)
-          .attr('stroke', '#fff')
-          .attr('stroke-width', 2);
+        node.attr('opacity', 1).attr('stroke', '#fff').attr('stroke-width', 2);
         link.attr('opacity', 0.6);
         label.attr('opacity', 1);
         if (searchCount) searchCount.textContent = '';
@@ -350,25 +475,36 @@ const graphData = JSON.stringify({ nodes, edges });
 
       const matchedIds = new Set(
         data.nodes
-          .filter((item) => String(item.label || '').toLowerCase().includes(normalized))
-          .map((item) => item.id)
+          .filter((item) =>
+            String(item.label || '')
+              .toLowerCase()
+              .includes(normalized),
+          )
+          .map((item) => item.id),
       );
 
       node
-        .attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.14)
-        .attr('stroke', (item) => matchedIds.has(item.id) ? '#3b82f6' : '#fff')
-        .attr('stroke-width', (item) => matchedIds.has(item.id) ? 3 : 2);
+        .attr('opacity', (item) => (matchedIds.has(item.id) ? 1 : 0.14))
+        .attr('stroke', (item) =>
+          matchedIds.has(item.id) ? '#3b82f6' : '#fff',
+        )
+        .attr('stroke-width', (item) => (matchedIds.has(item.id) ? 3 : 2));
 
-      label.attr('opacity', (item) => matchedIds.has(item.id) ? 1 : 0.18);
+      label.attr('opacity', (item) => (matchedIds.has(item.id) ? 1 : 0.18));
 
       link.attr('opacity', (item) => {
-        const sourceId = typeof item.source === 'object' ? item.source.id : item.source;
-        const targetId = typeof item.target === 'object' ? item.target.id : item.target;
-        return matchedIds.has(sourceId) || matchedIds.has(targetId) ? 0.75 : 0.08;
+        const sourceId =
+          typeof item.source === 'object' ? item.source.id : item.source;
+        const targetId =
+          typeof item.target === 'object' ? item.target.id : item.target;
+        return matchedIds.has(sourceId) || matchedIds.has(targetId)
+          ? 0.75
+          : 0.08;
       });
 
       if (searchCount) {
-        searchCount.textContent = matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
+        searchCount.textContent =
+          matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
       }
     }
 
@@ -385,22 +521,29 @@ const graphData = JSON.stringify({ nodes, edges });
 
     // Hover
     const tooltip = document.getElementById('tooltip');
-    node.on('mouseover', (event, d) => {
-      tooltip.textContent = d.label;
-      tooltip.style.display = 'block';
-      tooltip.style.left = event.pageX + 10 + 'px';
-      tooltip.style.top = event.pageY - 10 + 'px';
-      d3.select(event.target).attr('stroke', '#3b82f6').attr('stroke-width', 3);
-    }).on('mouseout', (event) => {
-      tooltip.style.display = 'none';
-      d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
-    });
+    node
+      .on('mouseover', (event, d) => {
+        tooltip.textContent = d.label;
+        tooltip.style.display = 'block';
+        tooltip.style.left = event.pageX + 10 + 'px';
+        tooltip.style.top = event.pageY - 10 + 'px';
+        d3.select(event.target)
+          .attr('stroke', '#3b82f6')
+          .attr('stroke-width', 3);
+      })
+      .on('mouseout', (event) => {
+        tooltip.style.display = 'none';
+        d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
+      });
 
     simulation.on('tick', () => {
-      link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
-          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
-      node.attr('cx', d => d.x).attr('cy', d => d.y);
-      label.attr('x', d => d.x).attr('y', d => d.y);
+      link
+        .attr('x1', (d) => d.source.x)
+        .attr('y1', (d) => d.source.y)
+        .attr('x2', (d) => d.target.x)
+        .attr('y2', (d) => d.target.y);
+      node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
+      label.attr('x', (d) => d.x).attr('y', (d) => d.y);
     });
   }
 </script>
@@ -444,24 +587,26 @@ const graphData = JSON.stringify({ nodes, edges });
   }
   #graph-search {
     padding: 0.4rem 0.8rem;
-    border: 1px solid rgba(255,255,255,0.3);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     border-radius: 6px;
-    background: rgba(255,255,255,0.1);
+    background: rgba(255, 255, 255, 0.1);
     color: white;
     font-size: 0.9rem;
     width: 200px;
     outline: none;
-    transition: border-color 0.2s, background 0.2s;
+    transition:
+      border-color 0.2s,
+      background 0.2s;
   }
   #graph-search::placeholder {
-    color: rgba(255,255,255,0.5);
+    color: rgba(255, 255, 255, 0.5);
   }
   #graph-search:focus {
     border-color: #3b82f6;
-    background: rgba(255,255,255,0.15);
+    background: rgba(255, 255, 255, 0.15);
   }
   .search-count {
-    color: rgba(255,255,255,0.7);
+    color: rgba(255, 255, 255, 0.7);
     font-size: 0.8rem;
     white-space: nowrap;
   }

@@ -1,10 +1,10 @@
 ---
-title: "temple-culture-and-religion"
+title: 'temple-culture-and-religion'
 date: 2026-03-17
 tags: [religion, temples, folk belief, Mazu, Buddhism, Taoism, fortune poetry]
 description: "From Mazu pilgrimages to the seamless blending of Buddhism and Taoism, discover how Taiwan's temples serve as living centers of faith, community, and culture."
-translatedFrom: "Culture/台灣宗教與寺廟文化.md"
-sourceHash: "a3f7c2"
+translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
+sourceHash: 'a3f7c2'
 ---
 
 # Temple Culture and Religion in Taiwan

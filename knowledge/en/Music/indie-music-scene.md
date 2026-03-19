@@ -1,9 +1,9 @@
 ---
-title: "Indie Music Scene"
+title: 'Indie Music Scene'
 description: "From basements to international stages, the flourishing ecosystem and cultural influence of Taiwan's independent music"
 date: 2026-03-17
 tags: [music, indie music, live house, music festivals, underground music]
-translatedFrom: "knowledge/Music/獨立音樂場景.md"
+translatedFrom: 'knowledge/Music/獨立音樂場景.md'
 ---
 
 # Indie Music Scene
@@ -18,6 +18,7 @@ Taiwan's indie music scene is a cultural ecosystem pulsating with creativity and
 After the lifting of martial law in 1987, Taiwan's social atmosphere gradually opened up. Young people began seeking more diverse forms of cultural expression. Western music genres like rock, punk, and metal entered Taiwan, providing nutrients for the development of independent music.
 
 **Early Representatives:**
+
 - **LTK Commune** 濁水溪公社: Formed in 1989, known for Tai-ke rock and social critique.
 - **The Bones & The Skin** 骨肉皮: Pioneers of experimental music, challenging traditional musical frameworks.
 - **Tolaku** 脫拉庫: Fused indigenous music elements with modern rock.
@@ -31,6 +32,7 @@ Indie music of this period carried the weight of post-martial law social reflect
 With economic development and cultural diversification, specialized live houses began to appear, providing stable performance spaces for independent music.
 
 **Diversification of Genres:**
+
 - **Post-Rock**: Bands like Sugar Plum Ferry 甜梅號 established a distinct sound.
 - **Folk**: Singer-songwriters like Deserts Chang 張懸 and Lin Sheng-xiang 林生祥.
 - **Electronic Music**: Pioneers like Lim Giong 林強 and DJ Mykal.
@@ -46,6 +48,7 @@ The founding of music magazines and the rise of internet platforms gave indie mu
 Established in 1996 near the Shida Night Market in Taipei, The Witch House is one of Taiwan's most legendary live houses. This small space, capable of holding only about 50 people, has nurtured countless famous bands.
 
 **Cultural Features:**
+
 - **Open and Inclusive**: No limits on music genres, offering a stage for everything from folk to heavy metal.
 - **Newcomer Friendly**: Many musicians had their very first performances here.
 - **Community Cohesion**: A gathering place for music lovers and feminists.
@@ -59,6 +62,7 @@ Sodagreen 蘇打綠, Mayday 五月天, Deserts Chang, and Crowd Lu 盧廣仲 all
 Established in 2003, The Wall is Taiwan's most important medium-sized live house, accommodating about 400 people. It is renowned for its professional sound equipment and stage design.
 
 **Key Contributions:**
+
 - **International Exchange**: Frequently invites foreign bands to perform in Taiwan.
 - **Festival Organization**: A driving force behind major festivals like Formoz Festival and Megaport Festival.
 - **Industrialization**: Helped establish a professional chain of performance production.
@@ -93,6 +97,7 @@ Combines local harbor culture with industrial backgrounds to form a unique music
 First held in 2006, Megaport is one of Taiwan's most significant music festivals, attracting tens of thousands annually to Kaohsiung.
 
 **Features:**
+
 - **Harbor Atmosphere**: Set against the industrial backdrop of Kaohsiung Harbor.
 - **Diversity**: Covers various music genres from metal to pop.
 - **Local Connection**: Deeply integrated with Kaohsiung's local culture and "Kaohsiung style" grit.
@@ -103,6 +108,7 @@ First held in 2006, Megaport is one of Taiwan's most significant music festivals
 First held in 1995, it was Taiwan's earliest large-scale outdoor music festival, pioneering the festival culture in Taiwan.
 
 **Development History:**
+
 - **1995-2000**: Pioneering period, establishing the outdoor festival model.
 - **Post-2001**: Scaled development, becoming an annual major event.
 - **Legacy**: Inspired numerous subsequent music festivals.
@@ -122,14 +128,17 @@ Organized by the New Taipei City government since 1999, it is the largest offici
 ### Rise of Independent Labels
 
 **Wind Music (風和日麗唱片行):**
+
 - Representative Artists: Deserts Chang, Cheer Chen 陳綺貞, Waa Wei 魏如萱.
 - Style: "Wenqing" (literary youth) aesthetic, exquisite production.
 
 **Trees Music & Art (大大樹音樂圖像):**
+
 - Specialization: Folk, world music, cross-boundary creation.
 - Contribution: Promoting the internationalization of Taiwan's music (e.g., Migration Music Festival).
 
 **White Wabbit Records (小白兔唱片):**
+
 - Specializes in experimental, post-rock, and shoegaze.
 - Acts as both a label and a record store hub for indie fans.
 
@@ -144,13 +153,14 @@ The popularity of streaming services changed indie music's distribution model, a
 ### Music Media
 
 **Magazines and Blogs:**
-From the now-defunct *Pots Weekly* 破週報 to *Gigs*, and online platforms like *Blow Media* 吹音樂, media outlets have provided critical discourse and exposure.
+From the now-defunct _Pots Weekly_ 破週報 to _Gigs_, and online platforms like _Blow Media_ 吹音樂, media outlets have provided critical discourse and exposure.
 
 ## Genres and Stylistic Development
 
 ### Indie Rock
 
 **Representative Bands:**
+
 - **Mayday**: Evolved from an underground band to Asian superstars.
 - **Sodagreen**: Representatives of the "fresh" style.
 - **1976**: An important post-rock/Britpop influenced band.
@@ -162,6 +172,7 @@ Combines Western rock elements with local culture to form a unique Taiwanese roc
 ### Folk and Singer-Songwriters
 
 **Key Figures:**
+
 - **Ara Kimbo** 胡德夫: Pioneer of the Modern Folk Song Movement.
 - **Lin Sheng-xiang**: Modernized Hakka music with social activism.
 - **Deserts Chang**: The iconic voice of the "Wenqing" generation.
@@ -170,12 +181,14 @@ Combines Western rock elements with local culture to form a unique Taiwanese roc
 ### Electronic Music
 
 **Pioneers:**
+
 - **Lim Giong**: Transformed from a pop idol to an electronic music master and film scorer.
 - **DJ Mykal**: A representative of electronic dance music culture.
 
 ### Metal and Hardcore
 
 **Representative Bands:**
+
 - **Chthonic** 閃靈: The global face of Taiwanese symphonic black metal, incorporating traditional instruments like the erhu.
 - **Fire EX.** 滅火器: Punk rock combining social issues with anthemic energy.
 - **The Chairman** 董事長樂團: Important band blending Taiwanese temple culture with rock.
@@ -215,7 +228,8 @@ Taiwan's indie music scene is a cultural ecosystem full of vitality and creativi
 
 ---
 
-*References:*
+_References:_
+
 - Taiwan Music Industry Research Reports
 - Official materials from The Wall, Witch House, etc.
 - Music festival organizer data

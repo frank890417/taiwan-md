@@ -5,7 +5,7 @@
 ## 整合後的腳本功能
 
 - `fix-all-frontmatter.py` → 整合到 `sync.sh` 步驟 2
-- `sync-knowledge.sh` → 整合到 `sync.sh` 步驟 1  
+- `sync-knowledge.sh` → 整合到 `sync.sh` 步驟 1
 - `quick-fix-hubs.py` → 功能已包含在 frontmatter 修復中
 - `fix-hub-frontmatter.sh` → 功能已包含在 frontmatter 修復中
 

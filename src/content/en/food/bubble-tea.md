@@ -1,10 +1,18 @@
 ---
-title: "Bubble Tea"
-description: "From Taiwan night market stalls to global beverage empire - the origin controversy and cultural conquest journey of bubble tea"
+title: 'Bubble Tea'
+description: 'From Taiwan night market stalls to global beverage empire - the origin controversy and cultural conquest journey of bubble tea'
 date: 2026-03-17
-tags: [cuisine, bubble tea, hand-shaken drinks, globalization, soft power, cultural diplomacy]
-translatedFrom: "Food/珍珠奶茶.md"
-sourceHash: "bb65e6"
+tags:
+  [
+    cuisine,
+    bubble tea,
+    hand-shaken drinks,
+    globalization,
+    soft power,
+    cultural diplomacy,
+  ]
+translatedFrom: 'Food/珍珠奶茶.md'
+sourceHash: 'bb65e6'
 ---
 
 # Bubble Tea
@@ -21,6 +29,7 @@ The invention rights of bubble tea remain controversial to this day, primarily b
 In 1983, Liu Han-Chieh founded "Yangxian Tea House" (predecessor of Chun Shui Tang) in Taichung. In 1986, during a research and development test, inspired by childhood memories, he added Taiwan's common snack "tapioca pearls" to aromatic milk tea. It was officially launched for sale in 1987, named "Pearl Milk Tea."
 
 **Innovation Opportunity:**
+
 - Breaking the boundary between snacks and tea beverages
 - Fusing Eastern tea culture with Western bartending techniques
 - Pioneering hand-shaken tea drinks
@@ -29,6 +38,7 @@ In 1983, Liu Han-Chieh founded "Yangxian Tea House" (predecessor of Chun Shui Ta
 Around the mid-1980s, the founder of Han Lin Tea House also added tapioca pearls to milk tea, creating a similar beverage.
 
 **Distinguishing Features:**
+
 - Emphasizing traditional Taiwanese tea culture
 - Focusing on tea quality and brewing craftsmanship
 - Innovation in pearl-making techniques
@@ -54,30 +64,36 @@ A good cup of bubble tea requires perfect balance in three core elements: tea ba
 ### Tea Base
 
 **Black Tea Series:**
+
 - **Assam Black Tea**: Rich and robust, the most classic choice
 - **Ceylon Black Tea**: Fragrant with sweet aftertaste, rich layers of taste
 - **Earl Grey**: Added bergamot for unique aroma
 
 **Green Tea Series:**
+
 - **Jasmine Green Tea**: Clear and elegant, suitable for summer
 - **Oolong Tea**: Semi-fermented tea, between black and green tea
 
 **Specialty Teas:**
+
 - **Roasted Oolong**: Rich roasted aroma
 - **Iron Goddess**: Rock essence with sweet aftertaste, rich layers
 
 ### Milk Blending
 
 **Fresh Milk Series:**
+
 - **Whole Fresh Milk**: Rich texture, abundant milk aroma
 - **Low-fat Fresh Milk**: Refreshing and light, health-oriented
 - **Plant Milk**: Oat milk, almond milk, catering to vegetarian needs
 
 **Creamer Series:**
+
 - **Plant-based Creamer**: Lower cost, smooth texture
 - **Condensed Milk Blend**: Increases sweetness and thickness
 
 **Creative Blends:**
+
 - **Fresh Milk + Condensed Milk**: Double milk aroma layers
 - **Milkshake Base**: Richer texture experience
 
@@ -87,12 +103,14 @@ A good cup of bubble tea requires perfect balance in three core elements: tea ba
 Pearls are mainly made from tapioca flour (cassava starch), with brown sugar or caramel added for coloring.
 
 **Production Process:**
+
 1. **Kneading**: Mix tapioca flour with hot water to form dough
 2. **Rolling**: Roll dough into small balls
 3. **Boiling**: Cook in boiling water for 15-20 minutes until transparent
 4. **Seasoning**: Add brown sugar or syrup for flavor
 
 **Quality Standards:**
+
 - **Appearance**: Round and plump, uniform color
 - **Texture**: Chewy and springy, neither too soft nor too hard
 - **Sweetness**: Moderate, not overpowering the tea aroma
@@ -116,6 +134,7 @@ Offering multiple sweetness levels: regular sweet, half sugar, light sugar, suga
 In the late 1990s, bubble tea spread worldwide following Taiwan immigrants' footsteps, initially taking root in Chinese communities.
 
 **Early Outposts:**
+
 - **US West Coast**: Chinatowns in Los Angeles, San Francisco
 - **Canada**: Vancouver, Toronto
 - **Australia**: Sydney, Melbourne
@@ -124,12 +143,14 @@ In the late 1990s, bubble tea spread worldwide following Taiwan immigrants' foot
 ### 2000s: Brand Management
 
 **Rise of Chain Brands:**
+
 - **CoCo**: Founded in 1997, rapid internationalization
 - **50 Lan**: Founded in 1994, specializing in tea quality
 - **Ten Ren**: Combining traditional tea culture
 - **Sunrise Tea**: High-quality positioning
 
 **Business Models:**
+
 - **Direct Chain**: Strict quality control
 - **Franchise System**: Rapid market expansion
 - **Localization**: Adapting to local tastes
@@ -148,12 +169,14 @@ Many international influencers and celebrities publicly showcasing bubble tea co
 ### 2020s: Mainstream Market Entry
 
 **European-American Market Breakthrough:**
+
 - **United States**: Starbucks launched pearl series beverages
 - **United Kingdom**: Professional brands like Bubbleology entered
 - **Germany**: McDonald's Germany launched bubble tea
 - **France**: Bubble tea shops scattered throughout Paris
 
 **Non-English Speaking Markets:**
+
 - **Middle East**: High-end shopping centers in Dubai, Abu Dhabi
 - **Africa**: Johannesburg, South Africa
 - **South America**: Taiwan expat communities in São Paulo, Brazil
@@ -163,11 +186,13 @@ Many international influencers and celebrities publicly showcasing bubble tea co
 ### Taiwan's Cultural Diplomacy Pioneer
 
 **Government Promotion:**
+
 - **Ministry of Foreign Affairs**: Hosting bubble tea cultural events at overseas missions
 - **Overseas Community Affairs Council**: Promoting Taiwan food culture through expatriates
 - **Ministry of Economic Affairs**: Listing bubble tea as key export industry
 
 **Cultural Activities:**
+
 - **Bubble Tea Festivals**: Regular events in Taiwan expat communities worldwide
 - **Culture Weeks**: Taiwan cultural promotion combined with bubble tea experiences
 - **Culinary Diplomacy**: Taiwan specialty hospitality at international conferences
@@ -186,6 +211,7 @@ Particularly beloved by younger generations, becoming a carrier of cultural iden
 ### Economic Impact
 
 **Industry Chain Drive:**
+
 - **Upstream**: Tea cultivation, processing
 - **Midstream**: Pearl manufacturing, equipment production
 - **Downstream**: Chain stores, logistics delivery
@@ -201,21 +227,25 @@ Taiwan creates considerable foreign exchange income annually through bubble tea-
 ### Localized Characteristics by Country
 
 **US Market:**
+
 - **Health-Oriented**: Organic tea leaves, low-sugar options
 - **Flavor Innovation**: Matcha, taro, rainbow pearls
 - **Packaging Design**: Instagram-friendly visual presentation
 
 **European Market:**
+
 - **Premium Route**: Emphasizing tea origin and craftsmanship
 - **Eco-Packaging**: Biodegradable straws, recyclable cups
 - **Local Ingredients**: Incorporating local dairy products
 
 **Southeast Asian Market:**
+
 - **Tropical Flavors**: Coconut, mango, durian flavors
 - **Sweetness Adjustment**: Adapting to local heavy-sweet preferences
 - **Ice Dessert Combinations**: Shaved ice, snow ice variations
 
 **East Asian Market:**
+
 - **Japan**: Refined packaging, seasonal limited flavors
 - **South Korea**: Visual design combined with Korean aesthetics
 - **Mainland China**: Important driver of new tea drink revolution
@@ -223,6 +253,7 @@ Taiwan creates considerable foreign exchange income annually through bubble tea-
 ### Competition and Challenges
 
 **Brand Competition:**
+
 - **Chinese New Tea Drinks**: Rise of brands like Heytea, Nayuki
 - **Korean Tea Drinks**: Brand strategies combining K-culture
 - **Local Brands**: Countries developing their own bubble tea brands
@@ -238,16 +269,19 @@ Quality control of overseas franchise stores affects the overall reputation of T
 ### Health Trend
 
 **Natural Ingredients:**
+
 - Use of organic tea leaves
 - Natural fructose replacing artificial sweeteners
 - Addition of fresh fruits
 
 **Nutritional Value:**
+
 - Development of protein pearls
 - Vitamin-fortified formulas
 - Probiotic additions
 
 **Low-Calorie Options:**
+
 - Sugar-free tea bases
 - Artificial sweetener choices
 - Small portion packaging
@@ -255,16 +289,19 @@ Quality control of overseas franchise stores affects the overall reputation of T
 ### Technology Applications
 
 **Automation Equipment:**
+
 - Pearl cooking robots
 - Standardized mixing equipment
 - Quality testing systems
 
 **Digital Marketing:**
+
 - APP ordering systems
 - Member loyalty programs
 - Social media integration
 
 **Supply Chain Management:**
+
 - Cold chain logistics technology
 - Real-time inventory management
 - Quality traceability systems
@@ -272,16 +309,19 @@ Quality control of overseas franchise stores affects the overall reputation of T
 ### Cultural Deepening Development
 
 **Educational Promotion:**
+
 - Bubble tea making courses
 - Tea culture education
 - Taster certification systems
 
 **Tourism Integration:**
+
 - Bubble tea culture museums
 - Factory tour programs
 - DIY experience activities
 
 **Artistic Creation:**
+
 - Bubble tea themed exhibitions
 - Cultural creative product development
 - Film and TV product placement
@@ -355,7 +395,8 @@ The success of bubble tea is not merely the victory of a beverage, but an embodi
 
 ---
 
-*References:*
+_References:_
+
 - Chun Shui Tang Humanistic Tea House official materials
 - Han Lin Tea House historical documents
 - National Cultural Memory Bank

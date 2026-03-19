@@ -8,13 +8,14 @@ const projects = [
     items: [
       {
         name: 'Taipei Burger Map',
-        description: 'Interactive Taipei burger restaurant ranking map, sorted by quality tiers (T0-T6), filterable by district',
+        description:
+          'Interactive Taipei burger restaurant ranking map, sorted by quality tiers (T0-T6), filterable by district',
         url: 'https://hsieh-george.github.io/taipei-burger-map/',
         github: 'https://github.com/hsieh-george/taipei-burger-map',
         tags: ['Map', 'Food', 'Taipei'],
-        tech: 'JavaScript / Leaflet'
-      }
-    ]
+        tech: 'JavaScript / Leaflet',
+      },
+    ],
   },
   {
     category: '🌙 Night Market Guides',
@@ -22,13 +23,14 @@ const projects = [
     items: [
       {
         name: 'NightMarketSwift',
-        description: 'Taiwan night market iOS app featuring 400+ night market locations with business hours and Google Maps navigation',
+        description:
+          'Taiwan night market iOS app featuring 400+ night market locations with business hours and Google Maps navigation',
         url: 'https://github.com/hsiu0305/NightMarketSwift',
         github: 'https://github.com/hsiu0305/NightMarketSwift',
         tags: ['iOS', 'Night Market', 'Navigation'],
-        tech: 'Objective-C / Swift'
-      }
-    ]
+        tech: 'Objective-C / Swift',
+      },
+    ],
   },
   {
     category: '🗳️ Civic Tech',
@@ -36,29 +38,32 @@ const projects = [
     items: [
       {
         name: 'g0v — gov zero',
-        description: "Taiwan's largest civic tech community, promoting open government and information transparency",
+        description:
+          "Taiwan's largest civic tech community, promoting open government and information transparency",
         url: 'https://g0v.tw/',
         github: 'https://github.com/g0v',
         tags: ['Open Source', 'Civic', 'Government'],
-        tech: 'Multi-stack'
+        tech: 'Multi-stack',
       },
       {
         name: 'Cofacts',
-        description: 'Crowd-sourced fact-checking chatbot combating misinformation on LINE messenger',
+        description:
+          'Crowd-sourced fact-checking chatbot combating misinformation on LINE messenger',
         url: 'https://cofacts.tw/',
         github: 'https://github.com/cofacts',
         tags: ['Fact Check', 'LINE Bot', 'Crowdsource'],
-        tech: 'JavaScript / GraphQL'
+        tech: 'JavaScript / GraphQL',
       },
       {
         name: 'Disfactory',
-        description: 'Citizen reporting platform for illegal factories on farmland, protecting agricultural land in Taiwan',
+        description:
+          'Citizen reporting platform for illegal factories on farmland, protecting agricultural land in Taiwan',
         url: 'https://disfactory.tw/',
         github: 'https://github.com/Disfactory',
         tags: ['Environment', 'Farmland', 'Citizen Report'],
-        tech: 'Vue.js / Django'
-      }
-    ]
+        tech: 'Vue.js / Django',
+      },
+    ],
   },
 ];
 
@@ -77,7 +82,7 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
         <div class="hero-content">
           <h1 class="hero-title">Community Projects</h1>
           <p class="hero-subtitle">
-            Curated open-source projects about Taiwan<br>
+            Curated open-source projects about Taiwan<br />
             Community creativity and passion, exploring Taiwan through code
           </p>
           <div class="hero-stats">
@@ -96,59 +101,96 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
       </nav>
 
       <!-- Project Categories -->
-      {projects.map(category => (
-        <section class="project-section">
-          <div class="section-header" style={`border-left-color: ${category.color}`}>
-            <h2>{category.category}</h2>
-          </div>
-          <div class="project-grid">
-            {category.items.map(project => (
-              <div class="project-card">
-                <div class="card-header">
-                  <h3 class="project-name">
-                    <a href={project.url} target="_blank" rel="noopener noreferrer">
-                      {project.name}
-                    </a>
-                  </h3>
-                  <span class="tech-badge" style={`background: ${category.color}15; color: ${category.color}`}>
-                    {project.tech}
-                  </span>
-                </div>
-                <p class="project-desc">{project.description}</p>
-                <div class="card-footer">
-                  <div class="tags">
-                    {project.tags.map(tag => (
-                      <span class="tag">{tag}</span>
-                    ))}
-                  </div>
-                  <div class="links">
-                    {project.github && (
-                      <a href={project.github} target="_blank" rel="noopener noreferrer" class="link-btn" title="GitHub">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      {
+        projects.map((category) => (
+          <section class="project-section">
+            <div
+              class="section-header"
+              style={`border-left-color: ${category.color}`}
+            >
+              <h2>{category.category}</h2>
+            </div>
+            <div class="project-grid">
+              {category.items.map((project) => (
+                <div class="project-card">
+                  <div class="card-header">
+                    <h3 class="project-name">
+                      <a
+                        href={project.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {project.name}
                       </a>
-                    )}
-                    <a href={project.url} target="_blank" rel="noopener noreferrer" class="link-btn link-primary" title="Visit Project">
-                      ↗
-                    </a>
+                    </h3>
+                    <span
+                      class="tech-badge"
+                      style={`background: ${category.color}15; color: ${category.color}`}
+                    >
+                      {project.tech}
+                    </span>
+                  </div>
+                  <p class="project-desc">{project.description}</p>
+                  <div class="card-footer">
+                    <div class="tags">
+                      {project.tags.map((tag) => (
+                        <span class="tag">{tag}</span>
+                      ))}
+                    </div>
+                    <div class="links">
+                      {project.github && (
+                        <a
+                          href={project.github}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class="link-btn"
+                          title="GitHub"
+                        >
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            fill="currentColor"
+                          >
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" />
+                          </svg>
+                        </a>
+                      )}
+                      <a
+                        href={project.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="link-btn link-primary"
+                        title="Visit Project"
+                      >
+                        ↗
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      ))}
+              ))}
+            </div>
+          </section>
+        ))
+      }
 
       <!-- Call to Action -->
       <section class="cta-section">
         <h2>Know a great project?</h2>
-        <p>Submit a GitHub Issue or PR to recommend more interesting Taiwan-related projects!</p>
+        <p>
+          Submit a GitHub Issue or PR to recommend more interesting
+          Taiwan-related projects!
+        </p>
         <div class="cta-buttons">
-          <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer" class="btn-primary">
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary"
+          >
             Submit Recommendation
           </a>
-          <a href="/en" class="btn-secondary">
-            ← Back to Home
-          </a>
+          <a href="/en" class="btn-secondary"> ← Back to Home </a>
         </div>
       </section>
     </div>
@@ -224,11 +266,20 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     transition: color 0.2s ease;
   }
 
-  .breadcrumb a:hover { color: #5b21b6; }
-  .separator { color: #94a3b8; }
-  .current { font-weight: 600; color: #374151; }
+  .breadcrumb a:hover {
+    color: #5b21b6;
+  }
+  .separator {
+    color: #94a3b8;
+  }
+  .current {
+    font-weight: 600;
+    color: #374151;
+  }
 
-  .project-section { margin-bottom: 3rem; }
+  .project-section {
+    margin-bottom: 3rem;
+  }
 
   .section-header {
     border-left: 4px solid;
@@ -274,9 +325,19 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     margin-bottom: 0.75rem;
   }
 
-  .project-name { font-size: 1.15rem; font-weight: 700; margin: 0; }
-  .project-name a { color: #1e293b; text-decoration: none; transition: color 0.2s; }
-  .project-name a:hover { color: #7c3aed; }
+  .project-name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    margin: 0;
+  }
+  .project-name a {
+    color: #1e293b;
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+  .project-name a:hover {
+    color: #7c3aed;
+  }
 
   .tech-badge {
     font-size: 0.75rem;
@@ -303,7 +364,11 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     flex-wrap: wrap;
   }
 
-  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
 
   .tag {
     font-size: 0.75rem;
@@ -313,7 +378,10 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     border-radius: 4px;
   }
 
-  .links { display: flex; gap: 0.5rem; }
+  .links {
+    display: flex;
+    gap: 0.5rem;
+  }
 
   .link-btn {
     display: flex;
@@ -329,9 +397,18 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     font-size: 1rem;
   }
 
-  .link-btn:hover { background: #e2e8f0; color: #1e293b; }
-  .link-primary { background: #7c3aed; color: white; }
-  .link-primary:hover { background: #6d28d9; color: white; }
+  .link-btn:hover {
+    background: #e2e8f0;
+    color: #1e293b;
+  }
+  .link-primary {
+    background: #7c3aed;
+    color: white;
+  }
+  .link-primary:hover {
+    background: #6d28d9;
+    color: white;
+  }
 
   .cta-section {
     text-align: center;
@@ -349,9 +426,18 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     margin-bottom: 0.75rem;
   }
 
-  .cta-section p { color: #64748b; font-size: 1.05rem; margin-bottom: 2rem; }
+  .cta-section p {
+    color: #64748b;
+    font-size: 1.05rem;
+    margin-bottom: 2rem;
+  }
 
-  .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+  .cta-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
 
   .btn-primary {
     display: inline-flex;
@@ -387,19 +473,38 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     transition: all 0.3s ease;
   }
 
-  .btn-secondary:hover { background: #faf5ff; border-color: #7c3aed; }
+  .btn-secondary:hover {
+    background: #faf5ff;
+    border-color: #7c3aed;
+  }
 
   @media (max-width: 768px) {
-    .container { padding: 1rem; }
-    .hero { padding: 2rem 0 1rem; }
-    .hero-title { font-size: 2.5rem; }
-    .hero-subtitle { font-size: 1.1rem; }
-    .project-grid { grid-template-columns: 1fr; }
+    .container {
+      padding: 1rem;
+    }
+    .hero {
+      padding: 2rem 0 1rem;
+    }
+    .hero-title {
+      font-size: 2.5rem;
+    }
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+    .project-grid {
+      grid-template-columns: 1fr;
+    }
   }
 
   @media (max-width: 480px) {
-    .hero-title { font-size: 2rem; }
-    .section-header h2 { font-size: 1.3rem; }
-    .project-card { padding: 1.25rem; }
+    .hero-title {
+      font-size: 2rem;
+    }
+    .section-header h2 {
+      font-size: 1.3rem;
+    }
+    .project-card {
+      padding: 1.25rem;
+    }
   }
 </style>

@@ -1,12 +1,13 @@
 ---
-title: "Hot Spring Culture"
+title: 'Hot Spring Culture'
 description: "From Beitou to Jiaoxi: the island's healing traditions blending Japanese bathhouse elegance with Taiwanese warmth"
 date: 2026-03-17
-tags: ["lifestyle", "hot springs", "Beitou", "Jiaoxi", "bathing culture", "Taiwan"]
-author: "Taiwan.md Contributors"
+tags:
+  ['lifestyle', 'hot springs', 'Beitou', 'Jiaoxi', 'bathing culture', 'Taiwan']
+author: 'Taiwan.md Contributors'
 readingTime: 8
-translatedFrom: "Lifestyle/溫泉文化.md"
-sourceHash: "b4e2d8"
+translatedFrom: 'Lifestyle/溫泉文化.md'
+sourceHash: 'b4e2d8'
 ---
 
 # Hot Spring Culture

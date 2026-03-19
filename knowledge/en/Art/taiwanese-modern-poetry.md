@@ -1,5 +1,5 @@
 ---
-title: "Taiwanese Modern Poetry"
+title: 'Taiwanese Modern Poetry'
 category: Art
 tags: [literature, poetry, modern poetry]
 date: 2026-03-18
@@ -15,7 +15,7 @@ The development of Taiwanese modern poetry, like a meandering river, began its g
 
 The true beginning of Taiwanese modern poetry can be traced to the 1950s. In the early post-war period, with the arrival of a large number of literati and scholars in Taiwan, the tradition of Chinese modern poetry took root again on the island. Poetry creation during this period mainly inherited the tradition of new poetry since China's May Fourth Movement, but also began to incorporate Taiwan's local life experiences.
 
-**Ji Xian (紀弦)** is hailed as the "igniter of Taiwanese modern poetry." In 1953, he founded the magazine *Modern Poetry* and proposed the theory of "horizontal transplantation," advocating for learning the techniques and spirit of Western modernist poetry, laying an important foundation for the development of Taiwanese modern poetry.
+**Ji Xian (紀弦)** is hailed as the "igniter of Taiwanese modern poetry." In 1953, he founded the magazine _Modern Poetry_ and proposed the theory of "horizontal transplantation," advocating for learning the techniques and spirit of Western modernist poetry, laying an important foundation for the development of Taiwanese modern poetry.
 
 ## The Golden Age of Three Major Poetry Societies
 
@@ -26,11 +26,13 @@ From the mid-1950s to the 1970s, Taiwanese modern poetry entered a golden period
 **Modern Poetry Society**, founded in 1956 and led by Ji Xian, advocated "horizontal transplantation" and actively introduced Western modernist poetry, emphasizing the modernity and internationality of poetry.
 
 **Representative Figures**:
+
 - **Ji Xian (紀弦)** (1913-2013): The soul of Modern Poetry Society, advocating the "Six Principles"
 - **Zheng Chouyu (鄭愁予)** (1933-): Famous for works like "Mistake," with elegant and subtle poetic style
 - **Luo Hang (羅行)**, **Yang Yunda (楊允達)**, and others
 
 Zheng Chouyu's "Mistake" is considered a classic of Taiwanese modern poetry:
+
 > I passed through Jiangnan / That face waiting in the seasons like lotus blooms and falls
 
 This poem, with its beautiful imagery and rhythm, demonstrates the poetic aesthetics pursued by the Modern Poetry Society.
@@ -40,11 +42,13 @@ This poem, with its beautiful imagery and rhythm, demonstrates the poetic aesthe
 **Blue Star Poetry Society**, founded in 1954 by Yu Guangzhong (余光中), Tan Zihao (覃子豪), and others, pursued the **fusion of classical literary tradition with modern poetry**, advocating "vertical inheritance" compared to the radical modernism of Modern Poetry Society.
 
 **Representative Figures**:
+
 - **Yu Guangzhong (余光中)** (1928-2017): A giant of Taiwanese modern poetry, author of "Nostalgia"
 - **Tan Zihao (覃子豪)** (1912-1963): One of the founders of Blue Star Poetry Society
 - **Zhong Dingwen (鍾鼎文)**, **Rongzi (蓉子)**, **Luo Men (羅門)**, and others
 
 Yu Guangzhong's "Nostalgia" is one of the most widely circulated modern poems in the Chinese-speaking world:
+
 > Nostalgia is a shallow strait / I am on this side / The mainland is on that side
 
 This poem not only demonstrates Yu Guangzhong's profound literary skill but also reflects the feelings of homeland under special historical circumstances.
@@ -54,14 +58,17 @@ This poem not only demonstrates Yu Guangzhong's profound literary skill but also
 **Genesis Poetry Society**, founded in 1954 by Zhang Mo (張默), Luo Fu (洛夫), Yaxian (瘂弦), and others, was characterized by its **strong experimental spirit** and active exploration of Western modernist techniques such as surrealism and symbolism.
 
 **Representative Figures**:
+
 - **Luo Fu (洛夫)** (1928-2018): The "Poetry Demon," who shocked the poetry world with "Death in a Stone Chamber"
 - **Yaxian (瘂弦)** (1932-): Representative works include "Andante Cantabile"
 - **Zhang Mo (張默)** (1931-2017): Organizer and promoter of the poetry society
 
 Luo Fu's "Looking Toward Home from the Border" demonstrates his profound literary achievement:
+
 > Perhaps gold is buried there / Perhaps only buried there / Is my mother
 
 Yaxian's "Andante Cantabile" is renowned for its musicality and rhythm:
+
 > The necessity of tenderness / The necessity of affirmation / The necessity of a little wine and osmanthus flowers
 
 ## Local Turn: From Chinese Sentiment to Taiwanese Consciousness
@@ -73,6 +80,7 @@ Starting in the 1970s, Taiwanese modern poetry underwent an important transforma
 **Wu Sheng (吳晟)** (1944-) is an important representative of Taiwan nativist poetry. His poetry is deeply rooted in Taiwan's rural land and life, expressing deep affection for his hometown through simple language.
 
 Representative works include "At the Village Store," "To the Children," and others. His verses often carry the fragrance of soil:
+
 > I am a farmer's son / I deeply understand / The weight of every inch of land
 
 Wu Sheng's poetry not only has strong nativist colors but also shows concern for environmental protection, earning him the title "Taiwan's Land Poet."
@@ -96,6 +104,7 @@ In the development of Taiwanese modern poetry, female poets have also played an 
 ### Xi Murong: Delicate Writing of Emotions
 
 **Xi Murong (席慕蓉)** (1943-) is known for her delicate emotional writing. Her poetry often explores themes of love, life, and nature. Works like "A Flowering Tree" are widely beloved by readers:
+
 > How to let you meet me / At my most beautiful moment
 
 ### Yang Mu: Perfect Fusion of Classical and Modern
@@ -127,6 +136,7 @@ Contemporary Taiwan's poetry scene has produced many excellent new generation po
 3. **More innovative media usage**: Combining multimedia elements like images, music, and internet
 
 **Representative Poets**:
+
 - **Sao Xia (騷夏)**: Known for unique language style
 - **Chen Yuhong (陳育虹)**: Important representative of female poets
 - **Jing Xianghai (鯨向海)**: Representative of new generation poets

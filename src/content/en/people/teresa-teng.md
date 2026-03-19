@@ -1,10 +1,19 @@
 ---
-title: "Teresa Teng"
-description: "The eternal queen of Asian pop, a Cold War-era cultural ambassador whose voice transcended political boundaries"
+title: 'Teresa Teng'
+description: 'The eternal queen of Asian pop, a Cold War-era cultural ambassador whose voice transcended political boundaries'
 date: 2026-03-17
-tags: [People, Teresa Teng, Singer, Queen of Asian Pop, Mandarin Music, Cold War, Cultural Influence]
-translatedFrom: "People/鄧麗君.md"
-sourceHash: "d2f1e8"
+tags:
+  [
+    People,
+    Teresa Teng,
+    Singer,
+    Queen of Asian Pop,
+    Mandarin Music,
+    Cold War,
+    Cultural Influence,
+  ]
+translatedFrom: 'People/鄧麗君.md'
+sourceHash: 'd2f1e8'
 ---
 
 # Teresa Teng
@@ -41,17 +50,17 @@ In 1962, the nine-year-old Teresa Teng began performing at temples and military 
 In 1964, the 11-year-old Teresa Teng entered a singing competition organized by the Broadcasting Corporation of China and won first place with her rendition of "Visiting Yingtai." This victory brought her widespread attention and, more importantly, solidified her determination to become a professional singer.
 
 **Her first record at fourteen:**
-In 1967, the 14-year-old Teresa Teng recorded her first album, *Fengyang Flower Drum*, officially entering the recording industry. Though sales were modest, the album marked the beginning of a legend.
+In 1967, the 14-year-old Teresa Teng recorded her first album, _Fengyang Flower Drum_, officially entering the recording industry. Though sales were modest, the album marked the beginning of a legend.
 
 ## The Taiwan Years: Rising to Fame
 
 ### The Television Era Arrives
 
 **The explosive popularity of the "Jingjing" theme song:**
-In 1969, the 16-year-old Teresa Teng performed the theme song for the CTV drama *Jingjing*. The song swept across Taiwan, catapulting her to household-name status overnight. Her clear, sweet voice paired with a moving melody completely won over Taiwanese audiences.
+In 1969, the 16-year-old Teresa Teng performed the theme song for the CTV drama _Jingjing_. The song swept across Taiwan, catapulting her to household-name status overnight. Her clear, sweet voice paired with a moving melody completely won over Taiwanese audiences.
 
 **The classic status of "A Thousand Words":**
-The 1970 album *A Thousand Words* cemented Teresa Teng's important position in Taiwan's music scene. The title track became one of her signature songs, and its lyrics remain a beloved classic for declarations of love.
+The 1970 album _A Thousand Words_ cemented Teresa Teng's important position in Taiwan's music scene. The title track became one of her signature songs, and its lyrics remain a beloved classic for declarations of love.
 
 **A fixture on variety television:**
 Teresa Teng was a regular on major television variety shows, where her performances extended beyond singing to include comic dialogues and sketches, demonstrating her versatility as an entertainer. Her gentle personality and sweet smile made her one of the most beloved performers on Taiwanese television.
@@ -110,7 +119,7 @@ Teresa Teng spent the final chapter of her life primarily in Chiang Mai, Thailan
 In the late 1970s, Teresa Teng and Frances Yip were jointly hailed as Hong Kong's "Two Queens of Pop." Their healthy competition propelled the entire Mandarin pop music industry forward, creating a golden age for Chinese-language popular music.
 
 **The timeless classic "Tian Mi Mi":**
-The 1979 album *Tian Mi Mi* (Sweet as Honey) represented the artistic pinnacle of Teresa Teng's career. The title track achieved musical perfection and became a cross-generational love song classic that has influenced countless people's views on romance.
+The 1979 album _Tian Mi Mi_ (Sweet as Honey) represented the artistic pinnacle of Teresa Teng's career. The title track achieved musical perfection and became a cross-generational love song classic that has influenced countless people's views on romance.
 
 **"The Moon Represents My Heart" as cultural symbol:**
 Also emerging in the late 1970s, "The Moon Represents My Heart" has transcended its identity as a mere song to become an important symbol of Chinese culture. With its simple, memorable melody and deeply affectionate lyrics, the song has become the quintessential vehicle for Chinese speakers to express love.
@@ -300,7 +309,8 @@ Teresa Teng's life was brief, but the cultural legacy she left behind is eternal
 
 ---
 
-*References:*
+_References:_
+
 - Official biographical materials on Teresa Teng
 - Historical records of Mandarin pop music
 - Taiwan Panorama magazine reports

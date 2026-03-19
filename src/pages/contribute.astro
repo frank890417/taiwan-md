@@ -2,13 +2,23 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout title="我想貢獻 — Taiwan.md" description="不需要會寫程式，你也能幫助世界認識台灣">
+<Layout
+  title="我想貢獻 — Taiwan.md"
+  description="不需要會寫程式，你也能幫助世界認識台灣"
+>
   <div class="contribute-page">
-    
     <section class="contribute-hero">
       <h1>我想貢獻 ✋</h1>
-      <p class="hero-sub">不需要會寫程式。你知道的台灣故事，就是最珍貴的內容。</p>
-      <p class="hero-note">目前網站內容由 AI 初步生成，期待集結大家的力量，讓資訊越來越完整、正確！<br>如果有問題歡迎直接<a href="mailto:cheyu.wu@monoame.com" style="color: #ABC468;">聯繫我們</a>，感謝大家這麼用心的 feedback！</p>
+      <p class="hero-sub">
+        不需要會寫程式。你知道的台灣故事，就是最珍貴的內容。
+      </p>
+      <p class="hero-note">
+        目前網站內容由 AI 初步生成，期待集結大家的力量，讓資訊越來越完整、正確！<br
+        />如果有問題歡迎直接<a
+          href="mailto:cheyu.wu@monoame.com"
+          style="color: #ABC468;">聯繫我們</a
+        >，感謝大家這麼用心的 feedback！
+      </p>
     </section>
 
     <section class="how-it-works">
@@ -17,20 +27,33 @@ import Layout from '../layouts/Layout.astro';
         <div class="how-grid">
           <div class="how-card">
             <h3>📁 語系切換</h3>
-            <p>右上角可切換 <strong>中文</strong> 和 <strong>English</strong>。中文是主要內容（SSOT），英文持續翻譯中。</p>
-            <code>taiwan.md/ → 中文<br>taiwan.md/en/ → English</code>
+            <p>
+              右上角可切換 <strong>中文</strong> 和 <strong>English</strong
+              >。中文是主要內容（SSOT），英文持續翻譯中。
+            </p>
+            <code>taiwan.md/ → 中文<br />taiwan.md/en/ → English</code>
           </div>
           <div class="how-card">
             <h3>📝 .md 按鈕</h3>
-            <p>每頁右下角的浮動 <strong>.md</strong> 按鈕，點擊可看到該頁的原始 Markdown 檔案。Taiwan.md 的所有內容都是純文字 Markdown — 這就是 .md 域名的由來。</p>
+            <p>
+              每頁右下角的浮動 <strong>.md</strong> 按鈕，點擊可看到該頁的原始 Markdown
+              檔案。Taiwan.md 的所有內容都是純文字 Markdown — 這就是 .md 域名的由來。
+            </p>
           </div>
           <div class="how-card">
             <h3>🕸️ 知識圖譜</h3>
-            <p>導覽列的「圖譜」連結到互動式知識網絡圖。拖拉探索 12 個面向之間的關聯。</p>
+            <p>
+              導覽列的「圖譜」連結到互動式知識網絡圖。拖拉探索 12
+              個面向之間的關聯。
+            </p>
           </div>
           <div class="how-card">
             <h3>🤖 AI-Friendly</h3>
-            <p>所有內容對 AI 爬蟲完全開放（<a href="/robots.txt">robots.txt</a>、<a href="/llms.txt">llms.txt</a>）。歡迎 ChatGPT / Claude / Gemini 引用。</p>
+            <p>
+              所有內容對 AI 爬蟲完全開放（<a href="/robots.txt">robots.txt</a
+              >、<a href="/llms.txt">llms.txt</a>）。歡迎 ChatGPT / Claude /
+              Gemini 引用。
+            </p>
           </div>
         </div>
       </div>
@@ -39,13 +62,16 @@ import Layout from '../layouts/Layout.astro';
     <section class="roles-section">
       <div class="roles-inner">
         <h2>你的專長，就是台灣需要的力量</h2>
-        <p class="roles-desc">不管你的背景是什麼，都能為這個知識庫帶來獨特的價值</p>
+        <p class="roles-desc">
+          不管你的背景是什麼，都能為這個知識庫帶來獨特的價值
+        </p>
         <div class="roles-grid">
-
           <div class="role-card">
             <div class="role-icon">✍️</div>
             <h3>寫作者 / 編輯</h3>
-            <p>你的文字能力是知識庫的核心。撰寫新文章、改善現有內容的可讀性、校對錯字與語句。</p>
+            <p>
+              你的文字能力是知識庫的核心。撰寫新文章、改善現有內容的可讀性、校對錯字與語句。
+            </p>
             <div class="role-actions">
               <span>→ 挑一篇你熟悉的主題，寫出有溫度的文章</span>
               <span>→ 幫現有文章潤稿、補充細節</span>
@@ -55,7 +81,9 @@ import Layout from '../layouts/Layout.astro';
           <div class="role-card">
             <div class="role-icon">🔬</div>
             <h3>研究者 / 學者</h3>
-            <p>你的專業知識是品質的保證。事實查核、補充學術觀點、指出常見迷思。</p>
+            <p>
+              你的專業知識是品質的保證。事實查核、補充學術觀點、指出常見迷思。
+            </p>
             <div class="role-actions">
               <span>→ 審核文章中的事實與引用來源</span>
               <span>→ 補充你研究領域的深度內容</span>
@@ -65,19 +93,31 @@ import Layout from '../layouts/Layout.astro';
           <div class="role-card">
             <div class="role-icon">🎨</div>
             <h3>設計師</h3>
-            <p>好的資訊需要好的呈現。資訊圖表、SVG 插圖、UI/UX 改善都是巨大的貢獻。</p>
+            <p>
+              好的資訊需要好的呈現。資訊圖表、SVG 插圖、UI/UX
+              改善都是巨大的貢獻。
+            </p>
             <div class="role-actions">
               <span>→ 為文章製作資訊圖表或示意圖</span>
-              <span>→ 到 <a href="/assets">SVG 素材庫</a> 貢獻台灣主題的開源圖示</span>
+              <span
+                >→ 到 <a href="/assets">SVG 素材庫</a> 貢獻台灣主題的開源圖示</span
+              >
             </div>
           </div>
 
           <div class="role-card">
             <div class="role-icon">💻</div>
             <h3>工程師</h3>
-            <p>網站本身也需要進化。效能優化、新功能、i18n、無障礙、SEO 都歡迎。</p>
+            <p>
+              網站本身也需要進化。效能優化、新功能、i18n、無障礙、SEO 都歡迎。
+            </p>
             <div class="role-actions">
-              <span>→ 看看 <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank">GitHub Issues</a> 有沒有你能解的</span>
+              <span
+                >→ 看看 <a
+                  href="https://github.com/frank890417/taiwan-md/issues"
+                  target="_blank">GitHub Issues</a
+                > 有沒有你能解的</span
+              >
               <span>→ 改善搜尋、圖譜、多語系等功能</span>
             </div>
           </div>
@@ -85,9 +125,15 @@ import Layout from '../layouts/Layout.astro';
           <div class="role-card">
             <div class="role-icon">🌍</div>
             <h3>翻譯者</h3>
-            <p>讓世界讀懂台灣。中翻英、中翻日、或任何語言，每一篇翻譯都在拓展台灣的能見度。</p>
+            <p>
+              讓世界讀懂台灣。中翻英、中翻日、或任何語言，每一篇翻譯都在拓展台灣的能見度。
+            </p>
             <div class="role-actions">
-              <span>→ 從 <code>knowledge/</code> 挑一篇翻譯到 <code>knowledge/en/</code></span>
+              <span
+                >→ 從 <code>knowledge/</code> 挑一篇翻譯到 <code
+                  >knowledge/en/</code
+                ></span
+              >
               <span>→ 日文版正在籌備中，歡迎加入</span>
             </div>
           </div>
@@ -95,17 +141,28 @@ import Layout from '../layouts/Layout.astro';
           <div class="role-card">
             <div class="role-icon">📸</div>
             <h3>攝影師 / 創作者</h3>
-            <p>一張好照片勝過千言萬語。CC 授權的台灣照片、田野錄音、影像素材都非常需要。</p>
+            <p>
+              一張好照片勝過千言萬語。CC
+              授權的台灣照片、田野錄音、影像素材都非常需要。
+            </p>
             <div class="role-actions">
               <span>→ 拍下你眼中的台灣，以 CC 授權貢獻</span>
-              <span>→ 錄製台灣的聲音，加入<a href="https://github.com/frank890417/taiwan-md/tree/main/assets/sounds" target="_blank">聲景計畫</a></span>
+              <span
+                >→ 錄製台灣的聲音，加入<a
+                  href="https://github.com/frank890417/taiwan-md/tree/main/assets/sounds"
+                  target="_blank">聲景計畫</a
+                ></span
+              >
             </div>
           </div>
 
           <div class="role-card">
             <div class="role-icon">🏛️</div>
             <h3>文史工作者 / 在地達人</h3>
-            <p>你的在地知識是 AI 永遠生不出來的。口述歷史、地方故事、文化脈絡，這些是最珍貴的內容。</p>
+            <p>
+              你的在地知識是 AI
+              永遠生不出來的。口述歷史、地方故事、文化脈絡，這些是最珍貴的內容。
+            </p>
             <div class="role-actions">
               <span>→ 寫下你家鄉的故事，教科書不會教的那種</span>
               <span>→ 指正文章中的在地錯誤</span>
@@ -115,57 +172,84 @@ import Layout from '../layouts/Layout.astro';
           <div class="role-card">
             <div class="role-icon">📢</div>
             <h3>任何關心台灣的人</h3>
-            <p>就算以上都不是你，你的分享本身就是貢獻。轉發給朋友、在社群提到、給我們回饋。</p>
+            <p>
+              就算以上都不是你，你的分享本身就是貢獻。轉發給朋友、在社群提到、給我們回饋。
+            </p>
             <div class="role-actions">
               <span>→ 分享 taiwan.md 給想認識台灣的朋友</span>
               <span>→ 看到錯誤？開 Issue 告訴我們</span>
             </div>
           </div>
-
         </div>
 
         <div class="org-section">
           <h3 class="org-title">🏢 機構、政府單位與企業</h3>
-          <p class="org-desc">Taiwan.md 歡迎各類組織以不同形式參與，共同建構台灣的數位知識基礎建設。</p>
-          
+          <p class="org-desc">
+            Taiwan.md
+            歡迎各類組織以不同形式參與，共同建構台灣的數位知識基礎建設。
+          </p>
+
           <div class="org-grid">
             <div class="org-card">
               <div class="org-icon">🏛️</div>
               <h4>政府機關 / 公部門</h4>
-              <p>提供官方開放資料、統計數據、政策文件。協助事實查核與內容校正。授權使用政府出版品內容或 CC 授權圖片。</p>
-              <div class="org-example">例：文化部、觀光署、原民會、農業部、國史館</div>
+              <p>
+                提供官方開放資料、統計數據、政策文件。協助事實查核與內容校正。授權使用政府出版品內容或
+                CC 授權圖片。
+              </p>
+              <div class="org-example">
+                例：文化部、觀光署、原民會、農業部、國史館
+              </div>
             </div>
 
             <div class="org-card">
               <div class="org-icon">🎓</div>
               <h4>學術機構 / 研究單位</h4>
-              <p>協助撰寫或審核專業領域文章。提供研究數據與學術觀點。推薦學生以 Taiwan.md 作為開放知識實踐場域。</p>
-              <div class="org-example">例：中研院、大學台灣文學系所、博物館、文史工作室</div>
+              <p>
+                協助撰寫或審核專業領域文章。提供研究數據與學術觀點。推薦學生以
+                Taiwan.md 作為開放知識實踐場域。
+              </p>
+              <div class="org-example">
+                例：中研院、大學台灣文學系所、博物館、文史工作室
+              </div>
             </div>
 
             <div class="org-card">
               <div class="org-icon">🏢</div>
               <h4>企業 / 商業組織</h4>
-              <p>贊助營運（伺服器、翻譯、社群活動）。以 Gold / Silver / Bronze Sponsor 身份展示品牌。鼓勵員工以志工方式參與內容貢獻。</p>
-              <div class="org-example">例：科技公司、出版社、文化基金會、國際企業 CSR</div>
+              <p>
+                贊助營運（伺服器、翻譯、社群活動）。以 Gold / Silver / Bronze
+                Sponsor 身份展示品牌。鼓勵員工以志工方式參與內容貢獻。
+              </p>
+              <div class="org-example">
+                例：科技公司、出版社、文化基金會、國際企業 CSR
+              </div>
             </div>
 
             <div class="org-card">
               <div class="org-icon">🌏</div>
               <h4>NGO / 國際組織</h4>
-              <p>協助多語翻譯與國際推廣。提供人權、環境、社會議題的在地觀點。將 Taiwan.md 作為國際教育資源引用。</p>
-              <div class="org-example">例：台灣民主基金會、文化交流協會、海外台灣人社群</div>
+              <p>
+                協助多語翻譯與國際推廣。提供人權、環境、社會議題的在地觀點。將
+                Taiwan.md 作為國際教育資源引用。
+              </p>
+              <div class="org-example">
+                例：台灣民主基金會、文化交流協會、海外台灣人社群
+              </div>
             </div>
           </div>
 
           <div class="org-contact">
             <p><strong>合作聯繫：</strong></p>
-            <p>📧 <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a></p>
+            <p>
+              📧 <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a>
+            </p>
             <p>信件標題請註明「Taiwan.md 合作洽談 — [單位名稱]」</p>
-            <p class="org-note">我們會在 3 個工作日內回覆。歡迎任何形式的合作提案。</p>
+            <p class="org-note">
+              我們會在 3 個工作日內回覆。歡迎任何形式的合作提案。
+            </p>
           </div>
         </div>
-
       </div>
     </section>
 
@@ -173,22 +257,25 @@ import Layout from '../layouts/Layout.astro';
     <section class="writing-guides">
       <div class="guides-inner">
         <h2>📖 貢獻指南大全</h2>
-        <p class="guides-desc">無論你的背景和專長，我們都有最適合你的貢獻方式</p>
-        
+        <p class="guides-desc">
+          無論你的背景和專長，我們都有最適合你的貢獻方式
+        </p>
+
         <div class="guides-grid">
-          
           <div class="guide-card writing">
             <div class="guide-icon">✍️</div>
             <h3>如何寫一篇好文章</h3>
             <div class="guide-content">
               <h4>📐 結構建議</h4>
               <ul>
-                <li><strong>標題：</strong>直白有力，避免太長（如：台灣夜市文化）</li>
+                <li>
+                  <strong>標題：</strong>直白有力，避免太長（如：台灣夜市文化）
+                </li>
                 <li><strong>開頭：</strong>一句話說明這是什麼、為什麼重要</li>
                 <li><strong>主體：</strong>用故事、數據、實例來支撐</li>
                 <li><strong>結尾：</strong>總結意義或提供延伸連結</li>
               </ul>
-              
+
               <h4>📝 格式規範</h4>
               <ul>
                 <li>用 <code>##</code> 來分段，<code>###</code> 來分小節</li>
@@ -197,7 +284,7 @@ import Layout from '../layouts/Layout.astro';
                 <li>列表用 <code>- 項目</code> 或 <code>1. 編號</code></li>
                 <li>連結格式：<code>[連結文字](URL)</code></li>
               </ul>
-              
+
               <h4>💡 範例段落</h4>
               <pre><code>## 夜市的起源
 
@@ -220,32 +307,43 @@ import Layout from '../layouts/Layout.astro';
             <div class="guide-content">
               <h4>📋 完整 Prompt 模板</h4>
               <div class="ai-prompt-box">
-                <code>我想為 Taiwan.md（https://taiwan.md）開源台灣知識庫貢獻內容。
-
-請先：
-1. 讀取 https://taiwan.md/llms.txt 了解專案結構
-2. 讀取 https://taiwan.md/contributing 了解編輯方針
-3. 瀏覽現有的文章分類和寫作風格
-
-然後引導我完成以下流程：
-1. 確認我想寫的主題：【你的主題】
-2. 檢查是否已有相關文章，避免重複
-3. 規劃文章結構和大綱
-4. 協助我寫成符合規範的 Markdown 格式
-5. 建議合適的分類標籤和相關連結
-6. 檢查內容的準確性和中性觀點
-
-我的知識背景：【描述你的專長領域】
-想寫的主題：【具體主題，如：台灣coffee culture發展史】</code>
-                <button class="copy-btn" onclick="navigator.clipboard.writeText(this.previousElementSibling.textContent).then(()=>this.textContent='✅ 已複製')">📋 複製</button>
+                <code
+                  >我想為 Taiwan.md（https://taiwan.md）開源台灣知識庫貢獻內容。
+                  請先： 1. 讀取 https://taiwan.md/llms.txt 了解專案結構 2. 讀取
+                  https://taiwan.md/contributing 了解編輯方針 3.
+                  瀏覽現有的文章分類和寫作風格 然後引導我完成以下流程： 1.
+                  確認我想寫的主題：【你的主題】 2.
+                  檢查是否已有相關文章，避免重複 3. 規劃文章結構和大綱 4.
+                  協助我寫成符合規範的 Markdown 格式 5.
+                  建議合適的分類標籤和相關連結 6. 檢查內容的準確性和中性觀點
+                  我的知識背景：【描述你的專長領域】
+                  想寫的主題：【具體主題，如：台灣coffee culture發展史】</code
+                >
+                <button
+                  class="copy-btn"
+                  onclick="navigator.clipboard.writeText(this.previousElementSibling.textContent).then(()=>this.textContent='✅ 已複製')"
+                  >📋 複製</button
+                >
               </div>
 
               <h4>🎯 專業領域 AI 提示</h4>
               <ul>
-                <li><strong>歷史學者：</strong>「幫我查證這段台灣歷史的多重史料觀點」</li>
-                <li><strong>文化工作者：</strong>「協助我用國際視角介紹這個台灣文化現象」</li>
-                <li><strong>技術專家：</strong>「幫我用非技術語言解釋台灣的科技發展」</li>
-                <li><strong>在地居民：</strong>「協助我將家鄉故事整理成結構化的文章」</li>
+                <li>
+                  <strong>歷史學者：</strong
+                  >「幫我查證這段台灣歷史的多重史料觀點」
+                </li>
+                <li>
+                  <strong>文化工作者：</strong
+                  >「協助我用國際視角介紹這個台灣文化現象」
+                </li>
+                <li>
+                  <strong>技術專家：</strong
+                  >「幫我用非技術語言解釋台灣的科技發展」
+                </li>
+                <li>
+                  <strong>在地居民：</strong
+                  >「協助我將家鄉故事整理成結構化的文章」
+                </li>
               </ul>
             </div>
           </div>
@@ -256,14 +354,25 @@ import Layout from '../layouts/Layout.astro';
             <div class="guide-content">
               <h4>🎯 中→英翻譯要點</h4>
               <ul>
-                <li><strong>文化詞彙：</strong>保留原文加註解（如：<em>jiufen (九份)</em>）</li>
+                <li>
+                  <strong>文化詞彙：</strong>保留原文加註解（如：<em
+                    >jiufen (九份)</em
+                  >）
+                </li>
                 <li><strong>專有名詞：</strong>統一使用正式英文名稱</li>
-                <li><strong>食物名稱：</strong>音譯+說明（<em>xiaolongbao (soup dumplings)</em>）</li>
+                <li>
+                  <strong>食物名稱：</strong>音譯+說明（<em
+                    >xiaolongbao (soup dumplings)</em
+                  >）
+                </li>
                 <li><strong>歷史事件：</strong>使用國際通用的英文名稱</li>
               </ul>
 
               <h4>⚠️ 事實查核（必須）</h4>
-              <p>所有文章在合併前必須經過事實查核。AI 輔助撰寫的內容尤其容易出現錯誤（物種分布地點、人物國籍、獎項作品等）。</p>
+              <p>
+                所有文章在合併前必須經過事實查核。AI
+                輔助撰寫的內容尤其容易出現錯誤（物種分布地點、人物國籍、獎項作品等）。
+              </p>
               <ul>
                 <li>每篇文章末尾必須有<strong>參考資料</strong>段落</li>
                 <li>涉及數字必須標注<strong>來源機構 + 年份</strong></li>
@@ -273,9 +382,22 @@ import Layout from '../layouts/Layout.astro';
 
               <h4>📚 參考資源</h4>
               <ul>
-                <li><a href="http://www.taiwan.gov.tw/" target="_blank">Taiwan.gov.tw</a> - 官方用詞</li>
-                <li><a href="https://www.mofa.gov.tw/en/" target="_blank">外交部英文網站</a> - 政治用詞</li>
-                <li><a href="https://www.taiwan.net.tw/m1.aspx?sNo=0001019" target="_blank">觀光局</a> - 地名景點</li>
+                <li>
+                  <a href="http://www.taiwan.gov.tw/" target="_blank"
+                    >Taiwan.gov.tw</a
+                  > - 官方用詞
+                </li>
+                <li>
+                  <a href="https://www.mofa.gov.tw/en/" target="_blank"
+                    >外交部英文網站</a
+                  > - 政治用詞
+                </li>
+                <li>
+                  <a
+                    href="https://www.taiwan.net.tw/m1.aspx?sNo=0001019"
+                    target="_blank">觀光局</a
+                  > - 地名景點
+                </li>
               </ul>
 
               <h4>⚠️ 翻譯注意事項</h4>
@@ -294,7 +416,10 @@ import Layout from '../layouts/Layout.astro';
             <div class="guide-content">
               <h4>✅ 可用圖片來源</h4>
               <ul>
-                <li><strong>Wikimedia Commons：</strong>首選，大量台灣相關 CC 授權圖片</li>
+                <li>
+                  <strong>Wikimedia Commons：</strong>首選，大量台灣相關 CC
+                  授權圖片
+                </li>
                 <li><strong>自己拍攝：</strong>最佳選擇，記得聲明原創</li>
                 <li><strong>政府開放資料：</strong>多數可自由使用</li>
                 <li><strong>CC 授權圖片：</strong>需標註來源和授權方式</li>
@@ -302,10 +427,28 @@ import Layout from '../layouts/Layout.astro';
 
               <h4>🔍 推薦資源</h4>
               <ul>
-                <li><a href="https://commons.wikimedia.org/wiki/Category:Taiwan" target="_blank">Wikimedia Taiwan 分類</a></li>
-                <li><a href="https://data.gov.tw/" target="_blank">政府資料開放平台</a></li>
-                <li><a href="https://unsplash.com/s/photos/taiwan" target="_blank">Unsplash Taiwan</a></li>
-                <li><a href="https://www.pexels.com/search/taiwan/" target="_blank">Pexels Taiwan</a></li>
+                <li>
+                  <a
+                    href="https://commons.wikimedia.org/wiki/Category:Taiwan"
+                    target="_blank">Wikimedia Taiwan 分類</a
+                  >
+                </li>
+                <li>
+                  <a href="https://data.gov.tw/" target="_blank"
+                    >政府資料開放平台</a
+                  >
+                </li>
+                <li>
+                  <a href="https://unsplash.com/s/photos/taiwan" target="_blank"
+                    >Unsplash Taiwan</a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://www.pexels.com/search/taiwan/"
+                    target="_blank">Pexels Taiwan</a
+                  >
+                </li>
               </ul>
 
               <h4>📝 使用格式</h4>
@@ -323,7 +466,6 @@ import Layout from '../layouts/Layout.astro';
               </ul>
             </div>
           </div>
-
         </div>
       </div>
     </section>
@@ -332,11 +474,13 @@ import Layout from '../layouts/Layout.astro';
       <div class="paths-inner">
         <h2>選擇你的方式</h2>
         <div class="path-grid">
-          
           <div class="path-card easy">
             <div class="path-badge">🟢 最簡單</div>
             <h3>填表單就好</h3>
-            <p>寫下你知道的事。一段故事、一個冷知識、一道菜的由來。<br>我們幫你排版、翻譯、上架。</p>
+            <p>
+              寫下你知道的事。一段故事、一個冷知識、一道菜的由來。<br
+              />我們幫你排版、翻譯、上架。
+            </p>
             <ul>
               <li>✅ 不需要帳號</li>
               <li>✅ 不需要會 Markdown</li>
@@ -351,19 +495,38 @@ import Layout from '../layouts/Layout.astro';
             <h3>寄給我們</h3>
             <p>已經有現成的文章、PDF、或照片？直接寄過來。</p>
             <ul>
-              <li>📧 Email: <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a></li>
+              <li>
+                📧 Email: <a href="mailto:cheyu.wu@monoame.com"
+                  >cheyu.wu@monoame.com</a
+                >
+              </li>
               <li>💬 GitHub Discussion（可用中文）</li>
             </ul>
-            <a href="mailto:cheyu.wu@monoame.com?subject=Taiwan.md 內容貢獻" class="path-btn secondary">寄 Email →</a>
+            <a
+              href="mailto:cheyu.wu@monoame.com?subject=Taiwan.md 內容貢獻"
+              class="path-btn secondary">寄 Email →</a
+            >
           </div>
 
           <div class="path-card ai">
             <div class="path-badge">🤖 讓 AI 幫你</div>
             <h3>跟你的 AI 說</h3>
-            <p>把下面這段話貼給 ChatGPT、Claude、或 Gemini，你的 AI 會引導你一步步完成貢獻：</p>
+            <p>
+              把下面這段話貼給 ChatGPT、Claude、或 Gemini，你的 AI
+              會引導你一步步完成貢獻：
+            </p>
             <div class="ai-prompt">
-              <code>我想為 Taiwan.md（taiwan.md）開源台灣知識庫貢獻內容。請先讀取 https://taiwan.md/llms.txt 和 https://taiwan.md/contributing 了解這個專案的結構和編輯方針，然後引導我一步步把我知道的台灣知識寫成 Markdown 文章。我想寫的主題是：______</code>
-              <button class="copy-btn" onclick="navigator.clipboard.writeText(this.previousElementSibling.textContent).then(()=>this.textContent='✅ 已複製')">📋 複製</button>
+              <code
+                >我想為 Taiwan.md（taiwan.md）開源台灣知識庫貢獻內容。請先讀取
+                https://taiwan.md/llms.txt 和 https://taiwan.md/contributing
+                了解這個專案的結構和編輯方針，然後引導我一步步把我知道的台灣知識寫成
+                Markdown 文章。我想寫的主題是：______</code
+              >
+              <button
+                class="copy-btn"
+                onclick="navigator.clipboard.writeText(this.previousElementSibling.textContent).then(()=>this.textContent='✅ 已複製')"
+                >📋 複製</button
+              >
             </div>
             <ul>
               <li>✅ 不需要會寫程式</li>
@@ -376,14 +539,24 @@ import Layout from '../layouts/Layout.astro';
           <div class="path-card dev">
             <div class="path-badge">🔴 開發者</div>
             <h3>Fork & PR</h3>
-            <p>你會 Git？太好了。直接在 <code>knowledge/</code> 目錄新增文章。</p>
+            <p>
+              你會 Git？太好了。直接在 <code>knowledge/</code> 目錄新增文章。
+            </p>
             <ul>
               <li>📖 <a href="/contributing">貢獻指南</a></li>
-              <li>📝 <a href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md" target="_blank">編輯方針</a></li>
+              <li>
+                📝 <a
+                  href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md"
+                  target="_blank">編輯方針</a
+                >
+              </li>
             </ul>
-            <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="path-btn secondary">前往 GitHub →</a>
+            <a
+              href="https://github.com/frank890417/taiwan-md"
+              target="_blank"
+              class="path-btn secondary">前往 GitHub →</a
+            >
           </div>
-
         </div>
       </div>
     </section>
@@ -391,14 +564,24 @@ import Layout from '../layouts/Layout.astro';
     <section class="form-section" id="form">
       <div class="form-inner">
         <h2>📝 分享你的台灣知識</h2>
-        <p class="form-desc">填多少都可以。一句話也好，一整篇也好。我們會負責把它變成漂亮的文章。</p>
+        <p class="form-desc">
+          填多少都可以。一句話也好，一整篇也好。我們會負責把它變成漂亮的文章。
+        </p>
 
         <form id="contribute-form">
-          
           <div class="form-group">
-            <label for="content">你想分享什麼？ <span class="required">*</span></label>
-            <textarea id="content" name="entry.content" rows="8" required
-              placeholder="一段故事、一個冷知識、一道菜的由來、一個地方的歷史⋯⋯什麼都可以。&#10;&#10;例如：「我阿嬤是彰化人，她說以前每年中元節...」"></textarea>
+            <label for="content"
+              >你想分享什麼？ <span class="required">*</span></label
+            >
+            <textarea
+              id="content"
+              name="entry.content"
+              rows="8"
+              required
+              placeholder="一段故事、一個冷知識、一道菜的由來、一個地方的歷史⋯⋯什麼都可以。
+
+例如：「我阿嬤是彰化人，她說以前每年中元節...」"
+            ></textarea>
           </div>
 
           <div class="form-group">
@@ -435,67 +618,88 @@ import Layout from '../layouts/Layout.astro';
             </div>
             <div class="form-group">
               <label for="source-ref">參考來源</label>
-              <input type="text" id="source-ref" name="entry.source_ref" 
-                placeholder="連結、書名、或任何線索">
+              <input
+                type="text"
+                id="source-ref"
+                name="entry.source_ref"
+                placeholder="連結、書名、或任何線索"
+              />
             </div>
           </div>
 
           <div class="form-row">
             <div class="form-group">
               <label for="name">你的名字</label>
-              <input type="text" id="name" name="entry.name" 
-                placeholder="想被署名的話填；不填就是「匿名貢獻者」">
+              <input
+                type="text"
+                id="name"
+                name="entry.name"
+                placeholder="想被署名的話填；不填就是「匿名貢獻者」"
+              />
             </div>
             <div class="form-group">
               <label for="email">聯繫方式</label>
-              <input type="email" id="email" name="entry.email" 
-                placeholder="Email（如果我們需要跟你確認細節）">
+              <input
+                type="email"
+                id="email"
+                name="entry.email"
+                placeholder="Email（如果我們需要跟你確認細節）"
+              />
             </div>
           </div>
 
-          <button type="submit" class="submit-btn" id="submit-btn">送出貢獻 🚀</button>
+          <button type="submit" class="submit-btn" id="submit-btn"
+            >送出貢獻 🚀</button
+          >
         </form>
 
         <div id="success-msg" class="success-msg" style="display:none;">
           <span class="success-icon">🎉</span>
           <h3>感謝你的貢獻！</h3>
-          <p>我們收到了。會盡快整理成文章，上架後會通知你（如果你有留 email 的話）。</p>
+          <p>
+            我們收到了。會盡快整理成文章，上架後會通知你（如果你有留 email
+            的話）。
+          </p>
           <a href="/" class="back-link">← 回首頁繼續探索</a>
         </div>
 
         <script is:inline>
-          document.getElementById('contribute-form').addEventListener('submit', async function(e) {
-            e.preventDefault();
-            const btn = document.getElementById('submit-btn');
-            btn.disabled = true;
-            btn.textContent = '送出中...';
-            
-            const data = {
-              timestamp: new Date().toISOString(),
-              content: document.getElementById('content').value,
-              category: document.getElementById('category').value,
-              sourceType: document.getElementById('source-type').value,
-              sourceRef: document.getElementById('source-ref').value,
-              name: document.getElementById('name').value || '匿名貢獻者',
-              email: document.getElementById('email').value
-            };
-            
-            try {
-              const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzuS3eCR6-cga-OCN34YY34vi0KnkYXYOQLs0VgsMd7WoMAn-gX9OH70Yd_UyF23_5vUA/exec';
-              await fetch(SCRIPT_URL, {
-                method: 'POST',
-                mode: 'no-cors',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(data)
-              });
-              document.getElementById('contribute-form').style.display = 'none';
-              document.getElementById('success-msg').style.display = 'block';
-            } catch (err) {
-              alert('送出失敗，請直接寄 email 到 cheyu.wu@monoame.com');
-              btn.disabled = false;
-              btn.textContent = '送出貢獻 🚀';
-            }
-          });
+          document
+            .getElementById('contribute-form')
+            .addEventListener('submit', async function (e) {
+              e.preventDefault();
+              const btn = document.getElementById('submit-btn');
+              btn.disabled = true;
+              btn.textContent = '送出中...';
+
+              const data = {
+                timestamp: new Date().toISOString(),
+                content: document.getElementById('content').value,
+                category: document.getElementById('category').value,
+                sourceType: document.getElementById('source-type').value,
+                sourceRef: document.getElementById('source-ref').value,
+                name: document.getElementById('name').value || '匿名貢獻者',
+                email: document.getElementById('email').value,
+              };
+
+              try {
+                const SCRIPT_URL =
+                  'https://script.google.com/macros/s/AKfycbzuS3eCR6-cga-OCN34YY34vi0KnkYXYOQLs0VgsMd7WoMAn-gX9OH70Yd_UyF23_5vUA/exec';
+                await fetch(SCRIPT_URL, {
+                  method: 'POST',
+                  mode: 'no-cors',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify(data),
+                });
+                document.getElementById('contribute-form').style.display =
+                  'none';
+                document.getElementById('success-msg').style.display = 'block';
+              } catch (err) {
+                alert('送出失敗，請直接寄 email 到 cheyu.wu@monoame.com');
+                btn.disabled = false;
+                btn.textContent = '送出貢獻 🚀';
+              }
+            });
         </script>
       </div>
     </section>
@@ -513,37 +717,48 @@ import Layout from '../layouts/Layout.astro';
         </div>
       </div>
     </section>
-
   </div>
 
   <!-- Protico Community Chat Bubble — sponsored by Howei Young -->
-  <script src="https://main.protico.io/api/v1/taiwan.md/protico-frame.js"></script>
+  <script src="https://main.protico.io/api/v1/taiwan.md/protico-frame.js"
+  ></script>
 </Layout>
 
 <script is:inline>
-  document.getElementById('contribute-form').addEventListener('submit', function() {
-    setTimeout(function() {
-      document.getElementById('contribute-form').style.display = 'none';
-      document.getElementById('success-msg').style.display = 'block';
-    }, 500);
-  });
+  document
+    .getElementById('contribute-form')
+    .addEventListener('submit', function () {
+      setTimeout(function () {
+        document.getElementById('contribute-form').style.display = 'none';
+        document.getElementById('success-msg').style.display = 'block';
+      }, 500);
+    });
 </script>
 
 <style>
   /* 全域設置 - 明體字型和自然配色 */
   body {
-    font-family: "Noto Serif TC", serif;
+    font-family: 'Noto Serif TC', serif;
     font-weight: 600;
   }
 
   .contribute-hero {
     text-align: center;
     padding: 4rem 2rem;
-    background: linear-gradient(135deg, #2D5016, #4A7C59);
+    background: linear-gradient(135deg, #2d5016, #4a7c59);
     color: white;
   }
-  .contribute-hero h1 { font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; }
-  .hero-sub { font-size: 1.15rem; opacity: 0.85; max-width: 500px; margin: 0 auto; }
+  .contribute-hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+  }
+  .hero-sub {
+    font-size: 1.15rem;
+    opacity: 0.85;
+    max-width: 500px;
+    margin: 0 auto;
+  }
   .hero-note {
     font-size: 0.95rem;
     opacity: 0.9;
@@ -556,38 +771,63 @@ import Layout from '../layouts/Layout.astro';
     border: 1px solid rgba(255, 255, 255, 0.2);
   }
 
-  .how-it-works { 
-    padding: 3rem 2rem; 
-    background: linear-gradient(to bottom, #F7F3E9, #E8F5E8);
+  .how-it-works {
+    padding: 3rem 2rem;
+    background: linear-gradient(to bottom, #f7f3e9, #e8f5e8);
   }
-  .how-inner { max-width: 1000px; margin: 0 auto; }
-  .how-inner h2 { text-align: center; margin-bottom: 1.5rem; color: #2D5016; }
-  .how-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; }
+  .how-inner {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .how-inner h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #2d5016;
+  }
+  .how-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
   .how-card {
-    background: rgba(255, 255, 255, 0.9); 
-    padding: 1.5rem; 
+    background: rgba(255, 255, 255, 0.9);
+    padding: 1.5rem;
     border-radius: 16px;
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     backdrop-filter: blur(10px);
   }
-  .how-card h3 { font-size: 1rem; margin-bottom: 0.4rem; color: #2D5016; }
-  .how-card p { font-size: 0.9rem; color: #4A5D23; line-height: 1.6; }
-  .how-card code { 
-    display: block; 
-    margin-top: 0.5rem; 
-    font-size: 0.8rem; 
-    color: #2D5016; 
-    background: rgba(167, 196, 160, 0.2); 
-    padding: 0.5rem; 
-    border-radius: 6px; 
+  .how-card h3 {
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+    color: #2d5016;
   }
-  .how-card a { color: #4A7C59; }
-  @media (max-width: 768px) { .how-grid { grid-template-columns: 1fr; } }
+  .how-card p {
+    font-size: 0.9rem;
+    color: #4a5d23;
+    line-height: 1.6;
+  }
+  .how-card code {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    color: #2d5016;
+    background: rgba(167, 196, 160, 0.2);
+    padding: 0.5rem;
+    border-radius: 6px;
+  }
+  .how-card a {
+    color: #4a7c59;
+  }
+  @media (max-width: 768px) {
+    .how-grid {
+      grid-template-columns: 1fr;
+    }
+  }
 
   /* 角色貢獻區塊 */
   .roles-section {
     padding: 4rem 2rem;
-    background: linear-gradient(to bottom, #E8F5E8, rgba(247, 243, 233, 0.5));
+    background: linear-gradient(to bottom, #e8f5e8, rgba(247, 243, 233, 0.5));
   }
   .roles-inner {
     max-width: 1200px;
@@ -597,12 +837,12 @@ import Layout from '../layouts/Layout.astro';
     text-align: center;
     font-size: 1.8rem;
     margin-bottom: 0.5rem;
-    color: #2D5016;
+    color: #2d5016;
     font-weight: 700;
   }
   .roles-desc {
     text-align: center;
-    color: #4A5D23;
+    color: #4a5d23;
     margin-bottom: 2.5rem;
     font-size: 1.1rem;
   }
@@ -611,11 +851,19 @@ import Layout from '../layouts/Layout.astro';
     grid-template-columns: repeat(4, 1fr);
     gap: 1.25rem;
   }
-  @media (max-width: 1024px) { .roles-grid { grid-template-columns: repeat(2, 1fr); } }
-  @media (max-width: 640px) { .roles-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 1024px) {
+    .roles-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 640px) {
+    .roles-grid {
+      grid-template-columns: 1fr;
+    }
+  }
   .role-card {
     background: rgba(255, 255, 255, 0.95);
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 16px;
     padding: 1.5rem;
     transition: all 0.3s ease;
@@ -623,7 +871,7 @@ import Layout from '../layouts/Layout.astro';
   .role-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(45, 80, 22, 0.12);
-    border-color: #4A7C59;
+    border-color: #4a7c59;
   }
   .role-icon {
     font-size: 2rem;
@@ -631,13 +879,13 @@ import Layout from '../layouts/Layout.astro';
   }
   .role-card h3 {
     font-size: 1.05rem;
-    color: #2D5016;
+    color: #2d5016;
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
   .role-card p {
     font-size: 0.88rem;
-    color: #4A5D23;
+    color: #4a5d23;
     line-height: 1.6;
     margin-bottom: 0.75rem;
   }
@@ -648,11 +896,11 @@ import Layout from '../layouts/Layout.astro';
   }
   .role-actions span {
     font-size: 0.8rem;
-    color: #6B8E23;
+    color: #6b8e23;
     line-height: 1.5;
   }
   .role-actions a {
-    color: #4A7C59;
+    color: #4a7c59;
     font-weight: 600;
   }
 
@@ -660,18 +908,18 @@ import Layout from '../layouts/Layout.astro';
   .org-section {
     margin-top: 3rem;
     padding-top: 3rem;
-    border-top: 2px solid #A7C4A0;
+    border-top: 2px solid #a7c4a0;
   }
   .org-title {
     text-align: center;
     font-size: 1.5rem;
-    color: #2D5016;
+    color: #2d5016;
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
   .org-desc {
     text-align: center;
-    color: #4A5D23;
+    color: #4a5d23;
     margin-bottom: 2rem;
     font-size: 1rem;
   }
@@ -681,10 +929,14 @@ import Layout from '../layouts/Layout.astro';
     gap: 1.25rem;
     margin-bottom: 2rem;
   }
-  @media (max-width: 768px) { .org-grid { grid-template-columns: 1fr; } }
+  @media (max-width: 768px) {
+    .org-grid {
+      grid-template-columns: 1fr;
+    }
+  }
   .org-card {
     background: rgba(255, 255, 255, 0.95);
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 16px;
     padding: 1.5rem;
     transition: all 0.3s ease;
@@ -693,161 +945,179 @@ import Layout from '../layouts/Layout.astro';
     transform: translateY(-3px);
     box-shadow: 0 8px 24px rgba(45, 80, 22, 0.1);
   }
-  .org-icon { font-size: 1.8rem; margin-bottom: 0.5rem; }
+  .org-icon {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+  }
   .org-card h4 {
     font-size: 1.05rem;
-    color: #2D5016;
+    color: #2d5016;
     margin-bottom: 0.5rem;
     font-weight: 700;
   }
   .org-card p {
     font-size: 0.88rem;
-    color: #4A5D23;
+    color: #4a5d23;
     line-height: 1.6;
     margin-bottom: 0.5rem;
   }
   .org-example {
     font-size: 0.8rem;
-    color: #6B8E23;
+    color: #6b8e23;
     font-style: italic;
   }
   .org-contact {
     background: rgba(74, 124, 89, 0.08);
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 16px;
     padding: 1.5rem 2rem;
     text-align: center;
   }
-  .org-contact p { color: #2D5016; margin-bottom: 0.4rem; font-size: 0.95rem; }
-  .org-contact a { color: #4A7C59; font-weight: 700; }
-  .org-note { font-size: 0.85rem; color: #6B8E23; margin-top: 0.5rem; }
+  .org-contact p {
+    color: #2d5016;
+    margin-bottom: 0.4rem;
+    font-size: 0.95rem;
+  }
+  .org-contact a {
+    color: #4a7c59;
+    font-weight: 700;
+  }
+  .org-note {
+    font-size: 0.85rem;
+    color: #6b8e23;
+    margin-top: 0.5rem;
+  }
 
   /* 新增的寫作指南區塊 */
   .writing-guides {
     padding: 4rem 2rem;
     background: rgba(232, 245, 232, 0.3);
   }
-  
+
   .guides-inner {
     max-width: 1200px;
     margin: 0 auto;
   }
-  
+
   .guides-inner h2 {
     text-align: center;
     font-size: 1.8rem;
     margin-bottom: 0.5rem;
-    color: #2D5016;
+    color: #2d5016;
     font-weight: 700;
   }
-  
+
   .guides-desc {
     text-align: center;
-    color: #4A5D23;
+    color: #4a5d23;
     margin-bottom: 2.5rem;
     font-size: 1.1rem;
   }
-  
+
   .guides-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
   }
-  
+
   @media (max-width: 968px) {
     .guides-grid {
       grid-template-columns: 1fr;
       gap: 1.5rem;
     }
   }
-  
+
   .guide-card {
     background: rgba(255, 255, 255, 0.95);
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 20px;
     padding: 2rem;
     backdrop-filter: blur(10px);
     box-shadow: 0 8px 32px rgba(45, 80, 22, 0.1);
     transition: all 0.3s ease;
   }
-  
+
   .guide-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 12px 40px rgba(45, 80, 22, 0.15);
   }
-  
+
   .guide-icon {
     font-size: 2.5rem;
     margin-bottom: 1rem;
     text-align: center;
   }
-  
+
   .guide-card h3 {
     font-size: 1.3rem;
     margin-bottom: 1.5rem;
-    color: #2D5016;
+    color: #2d5016;
     text-align: center;
     font-weight: 700;
   }
-  
+
   .guide-content h4 {
-    color: #4A7C59;
+    color: #4a7c59;
     margin: 1.5rem 0 0.8rem 0;
     font-size: 1rem;
     font-weight: 700;
   }
-  
+
   .guide-content ul {
     margin: 0.5rem 0 1rem 1rem;
     padding: 0;
   }
-  
+
   .guide-content li {
     margin-bottom: 0.5rem;
-    color: #4A5D23;
+    color: #4a5d23;
     line-height: 1.6;
   }
-  
+
   .guide-content pre {
     background: rgba(74, 124, 89, 0.1);
-    border: 1px solid #A7C4A0;
+    border: 1px solid #a7c4a0;
     border-radius: 8px;
     padding: 1rem;
     margin: 1rem 0;
     overflow-x: auto;
   }
-  
+
   .guide-content pre code {
     font-size: 0.8rem;
     line-height: 1.4;
-    color: #2D5016;
+    color: #2d5016;
     white-space: pre-wrap;
   }
-  
+
   .ai-prompt-box {
     position: relative;
     background: rgba(74, 124, 89, 0.1);
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 12px;
     padding: 1.5rem;
     margin: 1rem 0;
   }
-  
+
   .ai-prompt-box code {
     display: block;
     font-size: 0.85rem;
     line-height: 1.6;
-    color: #2D5016;
+    color: #2d5016;
     white-space: pre-wrap;
     word-break: break-word;
   }
 
-  .path-card.ai { border-color: #8B7BA5; }
-  .path-card.ai .path-badge { background: #8B7BA5; }
+  .path-card.ai {
+    border-color: #8b7ba5;
+  }
+  .path-card.ai .path-badge {
+    background: #8b7ba5;
+  }
   .ai-prompt {
     position: relative;
     background: rgba(139, 123, 165, 0.1);
-    border: 1px solid #8B7BA5;
+    border: 1px solid #8b7ba5;
     border-radius: 8px;
     padding: 1rem;
     margin: 0.75rem 0;
@@ -856,7 +1126,7 @@ import Layout from '../layouts/Layout.astro';
     display: block;
     font-size: 0.8rem;
     line-height: 1.6;
-    color: #4A2C5B;
+    color: #4a2c5b;
     white-space: pre-wrap;
     word-break: break-word;
   }
@@ -864,7 +1134,7 @@ import Layout from '../layouts/Layout.astro';
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
-    background: #4A7C59;
+    background: #4a7c59;
     color: white;
     border: none;
     border-radius: 6px;
@@ -873,36 +1143,57 @@ import Layout from '../layouts/Layout.astro';
     cursor: pointer;
     font-weight: 600;
   }
-  .copy-btn:hover { background: #2D5016; }
-
-  .paths { 
-    padding: 4rem 2rem; 
-    background: rgba(247, 243, 233, 0.5); 
+  .copy-btn:hover {
+    background: #2d5016;
   }
-  .paths-inner { max-width: 1100px; margin: 0 auto; }
-  .paths h2 { text-align: center; font-size: 1.5rem; margin-bottom: 2rem; color: #2D5016; font-weight: 700; }
-  .path-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; max-width: 1000px; margin: 0 auto; }
-  @media (max-width: 768px) { .path-grid { grid-template-columns: 1fr; } }
+
+  .paths {
+    padding: 4rem 2rem;
+    background: rgba(247, 243, 233, 0.5);
+  }
+  .paths-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .paths h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    color: #2d5016;
+    font-weight: 700;
+  }
+  .path-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  @media (max-width: 768px) {
+    .path-grid {
+      grid-template-columns: 1fr;
+    }
+  }
   .path-card {
     padding: 2rem;
     border-radius: 16px;
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     display: flex;
     flex-direction: column;
     background: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(10px);
   }
-  .path-card.easy { 
-    border-color: #6B8E23; 
-    background: rgba(171, 196, 104, 0.1); 
+  .path-card.easy {
+    border-color: #6b8e23;
+    background: rgba(171, 196, 104, 0.1);
   }
-  .path-card.medium { 
-    background: rgba(218, 165, 32, 0.1); 
-    border-color: #DAA520; 
+  .path-card.medium {
+    background: rgba(218, 165, 32, 0.1);
+    border-color: #daa520;
   }
-  .path-card.dev { 
-    background: rgba(205, 92, 92, 0.1); 
-    border-color: #CD5C5C; 
+  .path-card.dev {
+    background: rgba(205, 92, 92, 0.1);
+    border-color: #cd5c5c;
   }
   .path-badge {
     font-size: 0.75rem;
@@ -910,17 +1201,34 @@ import Layout from '../layouts/Layout.astro';
     text-transform: uppercase;
     letter-spacing: 0.05em;
     margin-bottom: 0.75rem;
-    background: #4A7C59;
+    background: #4a7c59;
     color: white;
     padding: 0.3rem 0.6rem;
     border-radius: 12px;
     display: inline-block;
     width: fit-content;
   }
-  .path-card h3 { font-size: 1.2rem; margin-bottom: 0.5rem; color: #2D5016; font-weight: 700; }
-  .path-card p { color: #4A5D23; font-size: 0.9rem; line-height: 1.6; }
-  .path-card ul { list-style: none; padding: 0; margin: 1rem 0; font-size: 0.85rem; }
-  .path-card li { padding: 0.25rem 0; color: #4A5D23; }
+  .path-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: #2d5016;
+    font-weight: 700;
+  }
+  .path-card p {
+    color: #4a5d23;
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+  .path-card ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    font-size: 0.85rem;
+  }
+  .path-card li {
+    padding: 0.25rem 0;
+    color: #4a5d23;
+  }
   .path-btn {
     display: inline-block;
     padding: 0.65rem 1.25rem;
@@ -932,21 +1240,21 @@ import Layout from '../layouts/Layout.astro';
     text-align: center;
     transition: all 0.2s ease;
   }
-  .path-btn.primary { 
-    background: #2D5016; 
-    color: #ffffff !important; 
-    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+  .path-btn.primary {
+    background: #2d5016;
+    color: #ffffff !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
   }
-  .path-btn.primary:hover { 
-    background: #4A7C59; 
+  .path-btn.primary:hover {
+    background: #4a7c59;
   }
-  .path-btn.secondary { 
-    background: rgba(74, 124, 89, 0.1); 
-    color: #2D5016; 
-    border: 1px solid #A7C4A0;
+  .path-btn.secondary {
+    background: rgba(74, 124, 89, 0.1);
+    color: #2d5016;
+    border: 1px solid #a7c4a0;
   }
-  .path-btn.secondary:hover { 
-    background: rgba(74, 124, 89, 0.2); 
+  .path-btn.secondary:hover {
+    background: rgba(74, 124, 89, 0.2);
   }
 
   .form-section {
@@ -957,39 +1265,62 @@ import Layout from '../layouts/Layout.astro';
     max-width: 680px;
     margin: 0 auto;
   }
-  .form-inner h2 { text-align: center; margin-bottom: 0.5rem; color: #2D5016; font-weight: 700; }
-  .form-desc { text-align: center; color: #4A5D23; margin-bottom: 2rem; }
-  .form-group { margin-bottom: 1.25rem; }
+  .form-inner h2 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+    color: #2d5016;
+    font-weight: 700;
+  }
+  .form-desc {
+    text-align: center;
+    color: #4a5d23;
+    margin-bottom: 2rem;
+  }
+  .form-group {
+    margin-bottom: 1.25rem;
+  }
   .form-group label {
     display: block;
     font-weight: 700;
     font-size: 0.9rem;
     margin-bottom: 0.4rem;
-    color: #2D5016;
+    color: #2d5016;
   }
-  .required { color: #CD5C5C; }
-  textarea, input, select {
+  .required {
+    color: #cd5c5c;
+  }
+  textarea,
+  input,
+  select {
     width: 100%;
     padding: 0.75rem;
-    border: 2px solid #A7C4A0;
+    border: 2px solid #a7c4a0;
     border-radius: 8px;
     font-size: 0.95rem;
-    font-family: "Noto Serif TC", serif;
+    font-family: 'Noto Serif TC', serif;
     font-weight: 600;
     transition: border-color 0.15s;
     background: rgba(255, 255, 255, 0.9);
   }
-  textarea:focus, input:focus, select:focus {
+  textarea:focus,
+  input:focus,
+  select:focus {
     outline: none;
-    border-color: #4A7C59;
+    border-color: #4a7c59;
     box-shadow: 0 0 0 3px rgba(74, 124, 89, 0.1);
   }
-  textarea { resize: vertical; }
-  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  textarea {
+    resize: vertical;
+  }
+  .form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
   .submit-btn {
     width: 100%;
     padding: 0.85rem;
-    background: #2D5016;
+    background: #2d5016;
     color: white;
     border: none;
     border-radius: 8px;
@@ -998,50 +1329,87 @@ import Layout from '../layouts/Layout.astro';
     cursor: pointer;
     margin-top: 0.5rem;
     transition: background 0.15s;
-    font-family: "Noto Serif TC", serif;
+    font-family: 'Noto Serif TC', serif;
   }
-  .submit-btn:hover { background: #4A7C59; }
+  .submit-btn:hover {
+    background: #4a7c59;
+  }
   .success-msg {
     text-align: center;
     padding: 3rem;
     background: rgba(171, 196, 104, 0.1);
     border-radius: 16px;
-    border: 2px solid #ABC468;
+    border: 2px solid #abc468;
   }
-  .success-icon { font-size: 3rem; }
-  .success-msg h3 { margin: 1rem 0 0.5rem; color: #2D5016; font-weight: 700; }
-  .success-msg p { color: #4A5D23; }
-  .back-link { color: #4A7C59; text-decoration: none; display: inline-block; margin-top: 1rem; font-weight: 600; }
+  .success-icon {
+    font-size: 3rem;
+  }
+  .success-msg h3 {
+    margin: 1rem 0 0.5rem;
+    color: #2d5016;
+    font-weight: 700;
+  }
+  .success-msg p {
+    color: #4a5d23;
+  }
+  .back-link {
+    color: #4a7c59;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 1rem;
+    font-weight: 600;
+  }
 
-  .ideas { 
-    padding: 4rem 2rem; 
+  .ideas {
+    padding: 4rem 2rem;
     background: rgba(247, 243, 233, 0.3);
   }
-  .ideas-inner { max-width: 900px; margin: 0 auto; }
-  .ideas h2 { text-align: center; margin-bottom: 1.5rem; color: #2D5016; font-weight: 700; }
-  .ideas-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; }
+  .ideas-inner {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .ideas h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #2d5016;
+    font-weight: 700;
+  }
+  .ideas-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
   .idea {
     padding: 1.25rem;
     background: rgba(255, 255, 255, 0.9);
     border-radius: 12px;
     font-size: 0.95rem;
-    border: 2px solid #A7C4A0;
-    color: #4A5D23;
+    border: 2px solid #a7c4a0;
+    color: #4a5d23;
     backdrop-filter: blur(10px);
   }
 
-  a { color: #4A7C59; font-weight: 600; }
-  code { 
-    background: rgba(167, 196, 160, 0.2); 
-    padding: 0.15rem 0.4rem; 
-    border-radius: 3px; 
-    font-size: 0.85rem; 
-    color: #2D5016;
+  a {
+    color: #4a7c59;
+    font-weight: 600;
+  }
+  code {
+    background: rgba(167, 196, 160, 0.2);
+    padding: 0.15rem 0.4rem;
+    border-radius: 3px;
+    font-size: 0.85rem;
+    color: #2d5016;
   }
 
   @media (max-width: 768px) {
-    .path-grid { grid-template-columns: 1fr; }
-    .form-row { grid-template-columns: 1fr; }
-    .ideas-grid { grid-template-columns: 1fr; }
+    .path-grid {
+      grid-template-columns: 1fr;
+    }
+    .form-row {
+      grid-template-columns: 1fr;
+    }
+    .ideas-grid {
+      grid-template-columns: 1fr;
+    }
   }
 </style>

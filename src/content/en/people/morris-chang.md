@@ -1,10 +1,19 @@
 ---
-title: "Morris Chang"
-description: "The Godfather of Semiconductors, founder of TSMC, the legendary entrepreneur who transformed the global tech industry with the foundry model"
+title: 'Morris Chang'
+description: 'The Godfather of Semiconductors, founder of TSMC, the legendary entrepreneur who transformed the global tech industry with the foundry model'
 date: 2026-03-17
-tags: [People, Morris Chang, TSMC, Semiconductor, Entrepreneur, Foundry, Silicon Shield]
-translatedFrom: "People/張忠謀.md"
-sourceHash: "a3f7b2"
+tags:
+  [
+    People,
+    Morris Chang,
+    TSMC,
+    Semiconductor,
+    Entrepreneur,
+    Foundry,
+    Silicon Shield,
+  ]
+translatedFrom: 'People/張忠謀.md'
+sourceHash: 'a3f7b2'
 ---
 
 # Morris Chang
@@ -387,9 +396,10 @@ This is the legend of Morris Chang -- a story about making dreams come true, and
 
 ---
 
-*References:*
-- Morris Chang's autobiography *Years in Semiconductors*
+_References:_
+
+- Morris Chang's autobiography _Years in Semiconductors_
 - TSMC annual reports and official materials
-- *Industrial Technology and Information Monthly* reports
+- _Industrial Technology and Information Monthly_ reports
 - International semiconductor industry historical records
 - Tsinghua University biographical materials on Morris Chang

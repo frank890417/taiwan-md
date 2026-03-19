@@ -1,7 +1,8 @@
 ---
-title: "Religion and Folk Beliefs"
-category: "Lifestyle"
-tags: ["religion", "mazu", "folk beliefs", "temple culture", "buddhism", "taoism"]
+title: 'Religion and Folk Beliefs'
+category: 'Lifestyle'
+tags:
+  ['religion', 'mazu', 'folk beliefs', 'temple culture', 'buddhism', 'taoism']
 date: 2026-03-17
 ---
 
@@ -96,6 +97,6 @@ Religious cultural creative industries are also emerging. Mazu safety amulets, G
 ## Related Topics
 
 - [[Taiwan's Transportation System]]: The relationship between religious pilgrimages and transportation systems
-- [[Nightlife and KTV Culture]]: Contrasts between temple festival culture and modern entertainment  
+- [[Nightlife and KTV Culture]]: Contrasts between temple festival culture and modern entertainment
 - [[Convenience Store Culture]]: Integration of modern convenience and traditional faith
 - [[Taiwan's Education System]]: Religious education's place in Taiwan's educational system

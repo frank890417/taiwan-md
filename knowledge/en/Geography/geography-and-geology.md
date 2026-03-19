@@ -2,8 +2,16 @@
 title: "Taiwan's Geography and Geology"
 description: "Unique island geography shaped by plate tectonics: From marble mountains to volcanic hot springs, Taiwan's geological diversity creates diverse ecosystems"
 date: 2026-03-17
-tags: ["geography", "geology", "mountains", "plate-tectonics", "earthquakes", "hot-springs"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'geography',
+    'geology',
+    'mountains',
+    'plate-tectonics',
+    'earthquakes',
+    'hot-springs',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 ---
@@ -25,6 +33,7 @@ For visitors, Taiwan's geology explains why you can see snow-capped peaks, tropi
 ## Geographic Overview
 
 ### Island Basics
+
 - **Total Area**: 35,980 km² (slightly larger than Belgium)
 - **Length**: 394 km (north to south)
 - **Width**: 144 km (maximum east to west)
@@ -53,6 +62,7 @@ Eastern Taiwan's youngest mountains, formed by volcanic activity and oceanic pla
 ### Plate Tectonic Setting
 
 Taiwan sits at the complex intersection of four major tectonic plates:
+
 - **Eurasian Plate** (continental crust)
 - **Philippine Sea Plate** (oceanic crust)
 - **South China Sea Plate**
@@ -77,21 +87,27 @@ Southern Taiwan's Kenting Peninsula features uplifted coral reefs, demonstrating
 ## Active Geology
 
 ### Earthquake Activity
+
 Taiwan experiences approximately 1,000 to 2,000 earthquakes annually, with 100-150 felt by residents. Major earthquakes include:
+
 - **1999 Chi-Chi Earthquake**: Magnitude 7.3, reshaping understanding of Taiwan's seismic hazards
 - **2024 Hualien Earthquake**: Magnitude 7.2, demonstrating ongoing tectonic activity
 
 The island's earthquake monitoring system is among the world's most advanced, providing crucial early warning systems.
 
 ### Hot Springs and Geothermal Activity
+
 Taiwan hosts over 100 hot spring sites, created by groundwater heated through geothermal activity. Famous hot spring areas include:
+
 - **Beitou**: Sulfur springs near Taipei, easily accessible from the city
 - **Wulai**: Indigenous area with clear, odorless springs
 - **Zhiben**: Alkaline springs in southeastern Taiwan
 - **Green Island**: Rare seawater hot springs
 
 ### Volcanic Activity
+
 While no currently active volcanoes exist, the Tatun Volcano Group shows signs of dormancy rather than extinction. Yangmingshan National Park preserves volcanic features including:
+
 - Fumaroles releasing sulfur gases
 - Hot springs created by underground volcanic heat
 - Volcanic craters now filled with vegetation
@@ -99,6 +115,7 @@ While no currently active volcanoes exist, the Tatun Volcano Group shows signs o
 ## River Systems and Valleys
 
 ### Major Rivers
+
 Taiwan's steep topography creates short, fast-flowing rivers that dramatically carve the landscape:
 
 **Zhuoshui River (濁水溪)**: Taiwan's longest river at 187 km, providing crucial water resources for agriculture
@@ -106,7 +123,9 @@ Taiwan's steep topography creates short, fast-flowing rivers that dramatically c
 **Tamsui River (淡水河)**: Northern Taiwan's principal river, flowing past Taipei into the Taiwan Strait
 
 ### Dramatic Gorges
+
 The rapid elevation changes create spectacular river-carved gorges:
+
 - **Taroko Gorge**: Marble cliffs carved by the Liwu River, showcasing metamorphic rock beauty
 - **Sun Moon Lake**: Taiwan's largest natural lake, formed in a collapsed volcanic caldera
 
@@ -115,38 +134,49 @@ The rapid elevation changes create spectacular river-carved gorges:
 Taiwan's dramatic elevation changes create multiple climate zones within the small island:
 
 ### Tropical Zone (0-500m)
+
 Year-round warm temperatures supporting tropical rainforests, mangroves, and coral reefs.
 
 ### Subtropical Zone (500-1,500m)
+
 Taiwan's largest climate zone, supporting broad-leaved forests and the majority of agricultural activity.
 
 ### Temperate Zone (1,500-2,500m)
+
 Mixed coniferous and deciduous forests, including Taiwan's famous cypress and pine species.
 
 ### Alpine Zone (Above 2,500m)
+
 High-altitude grasslands and endemic alpine plants adapted to extreme conditions and seasonal snow.
 
 ## Natural Hazards and Adaptations
 
 ### Typhoons
+
 Taiwan's position in the western Pacific typhoon belt means 3-5 major storms annually. The mountainous terrain can intensify rainfall, leading to flooding and landslides.
 
 ### Landslides
+
 Steep slopes, frequent rainfall, and seismic activity make landslides common. Taiwan has developed sophisticated monitoring and early warning systems.
 
 ### Seismic Engineering
+
 Taiwan's construction standards incorporate advanced earthquake resistance, making it a global leader in seismic engineering and building safety.
 
 ## Environmental Significance
 
 ### Biodiversity Hotspot
+
 Taiwan's geological diversity creates numerous microhabitats, supporting:
+
 - Over 18,000 species of flora and fauna
 - High endemic species rate due to island isolation
 - Ecosystems ranging from coral reefs to alpine tundra
 
 ### Conservation Challenges
+
 Rapid development on a small, densely populated island creates pressure on natural environments. Taiwan has established:
+
 - 9 National Parks protecting geological and ecological treasures
 - Protected area networks covering approximately 20% of the island
 - Restoration programs for damaged ecosystems
@@ -154,17 +184,21 @@ Rapid development on a small, densely populated island creates pressure on natur
 ## Cultural Connections
 
 ### Indigenous Relationships
+
 Taiwan's Indigenous peoples developed sophisticated knowledge of geological hazards, sustainable land use, and natural resource management over thousands of years.
 
 ### Hot Spring Culture
+
 Japanese colonial influence established Taiwan's hot spring culture, making geothermal bathing an important part of recreation and wellness.
 
 ### Mountain Worship
+
 Taiwan's high peaks hold spiritual significance in Indigenous cultures and contemporary mountain climbing communities.
 
 ## Future Geological Activity
 
 Taiwan's geological activity continues actively. Scientists predict:
+
 - Continued mountain building and uplift
 - Ongoing seismic activity requiring constant monitoring
 - Potential future volcanic activity in northern Taiwan
@@ -181,6 +215,6 @@ Understanding Taiwan's geology means appreciating that this beautiful island exi
 ## Related Topics
 
 - [[Nature/endemic-species]]
-- [[Nature/national-parks]] *(coming soon)*
-- [[Lifestyle/hot-spring-culture]] *(coming soon)*
-- [[History/indigenous-peoples]] *(coming soon)*
+- [[Nature/national-parks]] _(coming soon)_
+- [[Lifestyle/hot-spring-culture]] _(coming soon)_
+- [[History/indigenous-peoples]] _(coming soon)_

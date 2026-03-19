@@ -1,11 +1,20 @@
 ---
-title: "Taiwan Religion and Temple Culture"
-description: "From Mazu pilgrimages to Buddhist-Taoist fusion, exploring how Taiwan temples become centers of faith, community, and culture in daily life"
+title: 'Taiwan Religion and Temple Culture'
+description: 'From Mazu pilgrimages to Buddhist-Taoist fusion, exploring how Taiwan temples become centers of faith, community, and culture in daily life'
 date: 2026-03-18
-category: "Culture"
-tags: ["Religion", "Temples", "Folk Beliefs", "Mazu", "Buddhism", "Taoism", "Fortune Telling"]
-author: "Taiwan.md"
-difficulty: "beginner"
+category: 'Culture'
+tags:
+  [
+    'Religion',
+    'Temples',
+    'Folk Beliefs',
+    'Mazu',
+    'Buddhism',
+    'Taoism',
+    'Fortune Telling',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
 featured: true
 ---

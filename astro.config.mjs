@@ -10,16 +10,19 @@ export default defineConfig({
     defaultLocale: 'zh-TW',
     locales: ['zh-TW', 'en'],
     routing: {
-      prefixDefaultLocale: false
-    }
+      prefixDefaultLocale: false,
+    },
   },
   markdown: {
     shikiConfig: {
       theme: 'github-light',
-      wrap: true
+      wrap: true,
     },
     rehypePlugins: [
-      [rehypeExternalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] }]
-    ]
-  }
+      [
+        rehypeExternalLinks,
+        { target: '_blank', rel: ['noopener', 'noreferrer'] },
+      ],
+    ],
+  },
 });

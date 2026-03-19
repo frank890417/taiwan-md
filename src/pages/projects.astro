@@ -8,13 +8,14 @@ const projects = [
     items: [
       {
         name: '台北漢堡地圖',
-        description: '互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選',
+        description:
+          '互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選',
         url: 'https://hsieh-george.github.io/taipei-burger-map/',
         github: 'https://github.com/hsieh-george/taipei-burger-map',
         tags: ['地圖', '美食', '台北'],
-        tech: 'JavaScript / Leaflet'
-      }
-    ]
+        tech: 'JavaScript / Leaflet',
+      },
+    ],
   },
   {
     category: '🌙 夜市導覽',
@@ -22,13 +23,14 @@ const projects = [
     items: [
       {
         name: 'NightMarketSwift',
-        description: '台灣夜市 iOS App，收錄超過 400 個夜市地點，含營業時間與 Google Maps 導航',
+        description:
+          '台灣夜市 iOS App，收錄超過 400 個夜市地點，含營業時間與 Google Maps 導航',
         url: 'https://github.com/hsiu0305/NightMarketSwift',
         github: 'https://github.com/hsiu0305/NightMarketSwift',
         tags: ['iOS', '夜市', '導航'],
-        tech: 'Objective-C / Swift'
-      }
-    ]
+        tech: 'Objective-C / Swift',
+      },
+    ],
   },
   {
     category: '🗳️ 公民科技',
@@ -40,7 +42,7 @@ const projects = [
         url: 'https://g0v.tw/',
         github: 'https://github.com/g0v',
         tags: ['開源', '公民', '政府'],
-        tech: '多元技術'
+        tech: '多元技術',
       },
       {
         name: 'Cofacts 真的假的',
@@ -48,7 +50,7 @@ const projects = [
         url: 'https://cofacts.tw/',
         github: 'https://github.com/cofacts',
         tags: ['事實查核', 'LINE Bot', '群眾協作'],
-        tech: 'JavaScript / GraphQL'
+        tech: 'JavaScript / GraphQL',
       },
       {
         name: 'Disfactory 農地違章工廠',
@@ -56,9 +58,9 @@ const projects = [
         url: 'https://disfactory.tw/',
         github: 'https://github.com/Disfactory',
         tags: ['環境', '農地', '公民回報'],
-        tech: 'Vue.js / Django'
-      }
-    ]
+        tech: 'Vue.js / Django',
+      },
+    ],
   },
 ];
 
@@ -76,7 +78,7 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
         <div class="hero-content">
           <h1 class="hero-title">社群專案</h1>
           <p class="hero-subtitle">
-            精選台灣相關的有趣開源專案<br>
+            精選台灣相關的有趣開源專案<br />
             來自社群的創意與熱情，用程式碼認識台灣
           </p>
           <div class="hero-stats">
@@ -95,59 +97,93 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
       </nav>
 
       <!-- Project Categories -->
-      {projects.map(category => (
-        <section class="project-section">
-          <div class="section-header" style={`border-left-color: ${category.color}`}>
-            <h2>{category.category}</h2>
-          </div>
-          <div class="project-grid">
-            {category.items.map(project => (
-              <div class="project-card">
-                <div class="card-header">
-                  <h3 class="project-name">
-                    <a href={project.url} target="_blank" rel="noopener noreferrer">
-                      {project.name}
-                    </a>
-                  </h3>
-                  <span class="tech-badge" style={`background: ${category.color}15; color: ${category.color}`}>
-                    {project.tech}
-                  </span>
-                </div>
-                <p class="project-desc">{project.description}</p>
-                <div class="card-footer">
-                  <div class="tags">
-                    {project.tags.map(tag => (
-                      <span class="tag">{tag}</span>
-                    ))}
-                  </div>
-                  <div class="links">
-                    {project.github && (
-                      <a href={project.github} target="_blank" rel="noopener noreferrer" class="link-btn" title="GitHub">
-                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg>
+      {
+        projects.map((category) => (
+          <section class="project-section">
+            <div
+              class="section-header"
+              style={`border-left-color: ${category.color}`}
+            >
+              <h2>{category.category}</h2>
+            </div>
+            <div class="project-grid">
+              {category.items.map((project) => (
+                <div class="project-card">
+                  <div class="card-header">
+                    <h3 class="project-name">
+                      <a
+                        href={project.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {project.name}
                       </a>
-                    )}
-                    <a href={project.url} target="_blank" rel="noopener noreferrer" class="link-btn link-primary" title="前往專案">
-                      ↗
-                    </a>
+                    </h3>
+                    <span
+                      class="tech-badge"
+                      style={`background: ${category.color}15; color: ${category.color}`}
+                    >
+                      {project.tech}
+                    </span>
+                  </div>
+                  <p class="project-desc">{project.description}</p>
+                  <div class="card-footer">
+                    <div class="tags">
+                      {project.tags.map((tag) => (
+                        <span class="tag">{tag}</span>
+                      ))}
+                    </div>
+                    <div class="links">
+                      {project.github && (
+                        <a
+                          href={project.github}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          class="link-btn"
+                          title="GitHub"
+                        >
+                          <svg
+                            width="16"
+                            height="16"
+                            viewBox="0 0 16 16"
+                            fill="currentColor"
+                          >
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" />
+                          </svg>
+                        </a>
+                      )}
+                      <a
+                        href={project.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="link-btn link-primary"
+                        title="前往專案"
+                      >
+                        ↗
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      ))}
+              ))}
+            </div>
+          </section>
+        ))
+      }
 
       <!-- Call to Action -->
       <section class="cta-section">
         <h2>有推薦的專案嗎？</h2>
         <p>歡迎透過 GitHub Issue 或 PR 推薦更多台灣相關的有趣專案！</p>
         <div class="cta-buttons">
-          <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer" class="btn-primary">
+          <a
+            href="https://github.com/frank890417/taiwan-md/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="btn-primary"
+          >
             提交推薦
           </a>
-          <a href="/" class="btn-secondary">
-            ← 返回首頁
-          </a>
+          <a href="/" class="btn-secondary"> ← 返回首頁 </a>
         </div>
       </section>
     </div>
@@ -229,8 +265,13 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
     color: #5b21b6;
   }
 
-  .separator { color: #94a3b8; }
-  .current { font-weight: 600; color: #374151; }
+  .separator {
+    color: #94a3b8;
+  }
+  .current {
+    font-weight: 600;
+    color: #374151;
+  }
 
   /* Section */
   .project-section {
@@ -442,16 +483,32 @@ const totalProjects = projects.reduce((sum, cat) => sum + cat.items.length, 0);
 
   /* Responsive */
   @media (max-width: 768px) {
-    .container { padding: 1rem; }
-    .hero { padding: 2rem 0 1rem; }
-    .hero-title { font-size: 2.5rem; }
-    .hero-subtitle { font-size: 1.1rem; }
-    .project-grid { grid-template-columns: 1fr; }
+    .container {
+      padding: 1rem;
+    }
+    .hero {
+      padding: 2rem 0 1rem;
+    }
+    .hero-title {
+      font-size: 2.5rem;
+    }
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+    .project-grid {
+      grid-template-columns: 1fr;
+    }
   }
 
   @media (max-width: 480px) {
-    .hero-title { font-size: 2rem; }
-    .section-header h2 { font-size: 1.3rem; }
-    .project-card { padding: 1.25rem; }
+    .hero-title {
+      font-size: 2rem;
+    }
+    .section-header h2 {
+      font-size: 1.3rem;
+    }
+    .project-card {
+      padding: 1.25rem;
+    }
   }
 </style>

@@ -14,8 +14,8 @@ Field recordings capturing the sounds of Taiwan — because some stories are bes
 
 ## Sound Library / 聲音圖書館
 
-| File | Location | Description | Recorded By | Date |
-|------|----------|-------------|-------------|------|
+| File                                      | Location                              | Description                       | Recorded By | Date    |
+| ----------------------------------------- | ------------------------------------- | --------------------------------- | ----------- | ------- |
 | `taichung-green-museumbrary-crickets.mp3` | 台中綠美圖 Taichung Green Museumbrary | 夜晚蟋蟀聲 Evening cricket chorus | @bugnimusic | 2026-03 |
 
 ## Guidelines / 規範

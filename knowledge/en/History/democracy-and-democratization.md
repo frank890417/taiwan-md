@@ -1,5 +1,5 @@
 ---
-title: "democracy-and-democratization"
+title: 'democracy-and-democratization'
 date: 2026-03-17
 tags: [history, democratization, politics]
 description: "Taiwan's successful democratization holds significant historical and contemporary importance. It proves that Chinese soc"
@@ -18,10 +18,12 @@ Taiwan's successful democratization holds significant historical and contemporar
 ### Early Democratic Beginnings
 
 **Republic of Formosa (台灣民主國, 1895)**
+
 - Established during the Japanese invasion, though short-lived, it proposed "all officials elected by the people"
 - Considered an embodiment of "Asia's earliest democratic republic" ideals
 
 **Democratic Movements During Japanese Rule (1895-1945)**
+
 - **Taishō Democracy Period** (1910s): Taiwanese demanded equal political rights with Japanese mainlanders
 - **1921**: Taiwan Parliament Petition Movement (台灣議會設置請願運動) began, demanding establishment of a Taiwanese parliament
 - **1927**: Taiwan People's Party (台灣民眾黨) founded, Taiwan's first legal political party
@@ -30,6 +32,7 @@ Taiwan's successful democratization holds significant historical and contemporar
 ### Post-War Setbacks
 
 **Early ROC Administration (1945-1949)**
+
 - Taiwan Provincial Administrative Executive Office established, criticized as "dictatorial rule modeled after the Japanese Governor-General's Office"
 - **1947**: February 28 Incident (二二八事件) erupted; Taiwanese gentry demanded local autonomy but were rejected
 - Same year elected first National Assembly representatives, legislators, and Control Yuan members
@@ -37,15 +40,18 @@ Taiwan's successful democratization holds significant historical and contemporar
 ## Authoritarian Period and Democratic Resistance (1949-1987)
 
 ### Establishment of Martial Law System
+
 - **1949**: ROC government relocated to Taiwan, implementing martial law and mobilization for suppressing communist rebellion
 - **1954**: Constitutional Interpretation No. 31 created the "Ten-Thousand-Year Congress" (萬年國會)
 - Under White Terror, democratic development was severely delayed
 
 ### Limited Democratic Opening
+
 - **1950-1951**: Local self-governance began with county and city mayoral elections
 - **1969**: Supplementary elections for national representatives implemented, but original representatives remained in office
 
 ### Rise of Democratic Resistance
+
 - **1977**: Zhongli Incident (中壢事件) - first street protest against election fraud
 - **1979**: Qiaotou Incident (橋頭事件) - first political demonstration since government relocation
 - **1979**: Kaohsiung Incident (美麗島事件) - crucial turning point for democratic movement
@@ -54,11 +60,13 @@ Taiwan's successful democratization holds significant historical and contemporar
 ## Critical Democratization Period (1987-2000)
 
 ### Lifting Martial Law and Political Opening
+
 - **1987**: Chiang Ching-kuo announced lifting of martial law, ended bans on political parties and newspapers
 - **1990**: Wild Lily Student Movement (野百合學運) pushed for democratic reforms
 - **1991**: Temporary Provisions for the Period of National Mobilization abolished, ending the Ten-Thousand-Year Congress
 
 ### Institutional Reforms
+
 - **1992**: First comprehensive Legislative Yuan election
 - **1994**: First direct elections for provincial governor and special municipality mayors
 - **1996**: First direct presidential election
@@ -67,11 +75,13 @@ Taiwan's successful democratization holds significant historical and contemporar
 ## Democratic Deepening and Consolidation (2000-Present)
 
 ### Normalization of Party Alternation
+
 - **2000**: First party alternation (KMT → DPP)
-- **2008**: Second party alternation (DPP → KMT)  
+- **2008**: Second party alternation (DPP → KMT)
 - **2016**: Third party alternation (KMT → DPP)
 
 ### Democratic System Improvement
+
 - **2004**: First national referendum
 - **2005**: Seventh constitutional amendment, freezing National Assembly
 - **2014**: Sunflower Student Movement (太陽花學運) demonstrated civil society vitality
@@ -81,12 +91,15 @@ Taiwan's successful democratization holds significant historical and contemporar
 Taiwan's democratization achievements have received high international acclaim:
 
 ### Major International Rankings
+
 - **Polity IV Dataset**: Rose from -7 points (autocracy) in 1986 to perfect score of 10 (full democracy) in 2004
 - **Freedom House**: Upgraded from "Partly Free" to "Free" in 1996, scored 94 points in 2021, ranking second in Asia
 - **Economist Democracy Index**: Ranked 8th globally in 2021, the only "Full Democracy" in Asia's top 10
 
 ### Significance of the "Quiet Revolution"
+
 Taiwan's democratization is praised as a "Quiet Revolution" with characteristics including:
+
 - **Peaceful Transition**: No large-scale violent conflicts throughout the process
 - **Institution Building**: Established comprehensive democratic institutional framework
 - **Social Consensus**: All political forces basically accept democratic rules of the game
@@ -95,12 +108,14 @@ Taiwan's democratization is praised as a "Quiet Revolution" with characteristics
 ## Analysis of Success Factors
 
 ### Internal Factors
+
 - **Economic Development**: Economic miracle provided material foundation for democratization
 - **Educational Expansion**: Higher education expansion cultivated democratic citizens
 - **Civil Society**: Active social movements promoted reform
 - **Political Elites**: Rational choices by authoritarian rulers
 
 ### External Factors
+
 - **International Isolation**: Diplomatic setbacks forced government to seek democratic legitimacy
 - **End of Cold War**: International democratization wave's push
 - **US Influence**: American attention to Taiwan's human rights issues
@@ -108,12 +123,14 @@ Taiwan's democratization is praised as a "Quiet Revolution" with characteristics
 ## Contemporary Challenges and Future
 
 ### Current Challenges
+
 - **Cross-Strait Relations**: Complex cross-strait political situation
 - **Party Polarization**: Deepening blue-green divide
 - **Populism**: Rise of populist politics
 - **Disinformation**: Information warfare threats to democracy
 
 ### Continued Development
+
 - **Transitional Justice**: Addressing authoritarian legacy
 - **Civic Participation**: Digital democracy innovations
 - **Institutional Reform**: Ongoing government system adjustments
@@ -144,4 +161,4 @@ Taiwan's democratization is praised as a "Quiet Revolution" with characteristics
 
 ---
 
-*Taiwan's democratization proves the possibility of peaceful transition, providing precious experience for global democratic development.*
+_Taiwan's democratization proves the possibility of peaceful transition, providing precious experience for global democratic development._

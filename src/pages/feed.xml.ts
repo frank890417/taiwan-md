@@ -5,21 +5,21 @@ import matter from 'gray-matter';
 // RSS Feed generation for Taiwan.md
 export async function GET() {
   const siteUrl = 'https://taiwan.md';
-  
+
   // Category mapping to folder names
   const categoryMapping: Record<string, string> = {
-    'history': 'History',
-    'geography': 'Geography', 
-    'culture': 'Culture',
-    'food': 'Food',
-    'art': 'Art',
-    'music': 'Music',
-    'technology': 'Technology',
-    'nature': 'Nature',
-    'people': 'People',
-    'society': 'Society',
-    'economy': 'Economy',
-    'lifestyle': 'Lifestyle'
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
   };
 
   const allArticles: any[] = [];
@@ -29,27 +29,33 @@ export async function GET() {
     try {
       const folderPath = resolve(process.cwd(), 'knowledge', folderName);
       const files = await readdir(folderPath);
-      const markdownFiles = files.filter(file => file.endsWith('.md') && !file.startsWith('_'));
-      
+      const markdownFiles = files.filter(
+        (file) => file.endsWith('.md') && !file.startsWith('_'),
+      );
+
       for (const file of markdownFiles) {
         try {
           const filePath = join(folderPath, file);
           const fileContent = await readFile(filePath, 'utf-8');
           const { data: frontmatter, content } = matter(fileContent);
-          
+
           const slug = basename(file, '.md');
           const title = frontmatter.title || slug;
-          const description = frontmatter.description || content.substring(0, 200).replace(/[\n\r]/g, ' ') + '...';
-          const pubDate = frontmatter.date ? new Date(frontmatter.date) : new Date();
+          const description =
+            frontmatter.description ||
+            content.substring(0, 200).replace(/[\n\r]/g, ' ') + '...';
+          const pubDate = frontmatter.date
+            ? new Date(frontmatter.date)
+            : new Date();
           const link = `${siteUrl}/${categorySlug}/${slug}`;
-          
+
           allArticles.push({
             title,
             description,
             link,
             pubDate: pubDate.toUTCString(),
             category: categorySlug,
-            guid: link
+            guid: link,
           });
         } catch (err) {
           console.log(`Error processing file ${file}:`, err.message);
@@ -61,11 +67,13 @@ export async function GET() {
   }
 
   // Sort by publication date (newest first)
-  allArticles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
-  
+  allArticles.sort(
+    (a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime(),
+  );
+
   // Take latest 50 articles
   const latestArticles = allArticles.slice(0, 50);
-  
+
   // Generate RSS XML
   const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -84,21 +92,25 @@ export async function GET() {
       <title>Taiwan.md - 台灣知識庫</title>
       <link>${siteUrl}</link>
     </image>
-${latestArticles.map(article => `    <item>
+${latestArticles
+  .map(
+    (article) => `    <item>
       <title><![CDATA[${article.title}]]></title>
       <description><![CDATA[${article.description}]]></description>
       <link>${article.link}</link>
       <guid isPermaLink="true">${article.guid}</guid>
       <pubDate>${article.pubDate}</pubDate>
       <category>${article.category}</category>
-    </item>`).join('\n')}
+    </item>`,
+  )
+  .join('\n')}
   </channel>
 </rss>`;
 
   return new Response(rssXml, {
     headers: {
       'Content-Type': 'application/xml',
-      'Cache-Control': 'public, max-age=3600'
-    }
+      'Cache-Control': 'public, max-age=3600',
+    },
   });
 }

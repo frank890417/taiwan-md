@@ -39,30 +39,40 @@ let noDate = 0;
 for await (const file of walkDir(KNOWLEDGE_DIR)) {
   const content = await readFile(file, 'utf-8');
   const { data } = matter(content);
-  
+
   if (!data.lastVerified) {
     noDate++;
-    stale.push({ file: relative('.', file), lastVerified: null, daysAgo: Infinity });
+    stale.push({
+      file: relative('.', file),
+      lastVerified: null,
+      daysAgo: Infinity,
+    });
     continue;
   }
-  
+
   const verified = new Date(data.lastVerified);
   const daysAgo = Math.floor((now - verified) / (1000 * 60 * 60 * 24));
-  const entry = { file: relative('.', file), lastVerified: data.lastVerified, daysAgo };
-  
+  const entry = {
+    file: relative('.', file),
+    lastVerified: data.lastVerified,
+    daysAgo,
+  };
+
   if (daysAgo > maxDays) stale.push(entry);
   else fresh.push(entry);
 }
 
 if (jsonOutput) {
-  console.log(JSON.stringify({ stale, fresh: fresh.length, threshold: maxDays }, null, 2));
+  console.log(
+    JSON.stringify({ stale, fresh: fresh.length, threshold: maxDays }, null, 2),
+  );
 } else {
   console.log(`\n📊 Taiwan.md Content Freshness Report`);
   console.log(`   Threshold: ${maxDays} days\n`);
   console.log(`   ✅ Fresh: ${fresh.length} articles`);
   console.log(`   ⚠️  Stale (>${maxDays} days): ${stale.length} articles`);
   if (noDate > 0) console.log(`   ❓ No date: ${noDate} articles`);
-  
+
   if (stale.length > 0) {
     console.log(`\n⚠️  Articles needing verification:`);
     stale.sort((a, b) => b.daysAgo - a.daysAgo);

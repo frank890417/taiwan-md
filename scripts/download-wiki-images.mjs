@@ -10,23 +10,36 @@ import { join } from 'path';
 
 const DEST_DIR = 'public/images/wiki';
 const MAX_WIDTH = 1024;
-const USER_AGENT = 'taiwan-md-bot/1.0 (https://github.com/frank890417/taiwan-md; open-source project)';
+const USER_AGENT =
+  'taiwan-md-bot/1.0 (https://github.com/frank890417/taiwan-md; open-source project)';
 
 // Hash filename → Wikimedia Commons File: title
 const IMAGE_MAP = [
   { hash: '0b2be9fb3977.jpg', file: 'Legislative Yuan Building 20240626.jpg' },
-  { hash: '18dae3226cf0.jpg', file: '7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg' },
+  {
+    hash: '18dae3226cf0.jpg',
+    file: '7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg',
+  },
   { hash: '4eea1b8cf86b.jpg', file: 'Taiwanese_Beef_Noodle_Soup.jpg' },
   { hash: '52c5be9f282c.jpg', file: 'Audrey Tang in 2015 (cropped).jpg' },
   { hash: '5574c67feb12.jpg', file: '228_Incident_h.jpg' },
   { hash: '5be514264de6.jpg', file: 'Taiwanese_beef_noodles.jpg' },
   { hash: '76b17af8726c.jpg', file: 'Taiwan Gay Pride Parade 2016 91.jpg' },
-  { hash: '9c3e53449201.jpg', file: 'Taipei_Taiwan_Presidential-Office-Building-01.jpg' },
+  {
+    hash: '9c3e53449201.jpg',
+    file: 'Taipei_Taiwan_Presidential-Office-Building-01.jpg',
+  },
   { hash: 'aeba97222b07.jpg', file: 'Chiang Kai-shek memorial amk.jpg' },
   { hash: 'b2a91d2ee489.jpg', file: 'ShiLin.jpg' },
   { hash: 'b3f3be4fb2b6.jpg', file: '蔡英文官方元首肖像照.png' },
-  { hash: 'c1deab8511ba.jpg', file: 'Ang Lee - 66ème Festival de Venise (Mostra).jpg' },
-  { hash: 'ddb5b26935ba.jpg', file: 'Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg' },
+  {
+    hash: 'c1deab8511ba.jpg',
+    file: 'Ang Lee - 66ème Festival de Venise (Mostra).jpg',
+  },
+  {
+    hash: 'ddb5b26935ba.jpg',
+    file: 'Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg',
+  },
   { hash: 'e78df09feea3.jpg', file: 'Taipei_101_2009_amk.jpg' },
   { hash: 'f04323aed8cc.jpg', file: '2021大甲媽祖遶境_02.jpg' },
   { hash: 'f80cd70cdca2.jpg', file: 'ATT 4 Fun in the rain 20120405.jpg' },
@@ -59,7 +72,7 @@ async function downloadImage(url, destPath) {
   const res = await fetch(url, {
     headers: {
       'User-Agent': USER_AGENT,
-      'Referer': 'https://commons.wikimedia.org/',
+      Referer: 'https://commons.wikimedia.org/',
     },
   });
   if (!res.ok) throw new Error(`HTTP ${res.status} for ${url}`);
@@ -98,14 +111,16 @@ async function main() {
       downloaded++;
 
       // Rate limit: 1 second between requests
-      await new Promise(r => setTimeout(r, 1000));
+      await new Promise((r) => setTimeout(r, 1000));
     } catch (err) {
       console.error(`FAIL: ${hash} — ${err.message}`);
       failed++;
     }
   }
 
-  console.log(`\nDone: ${downloaded} downloaded, ${skipped} skipped, ${failed} failed`);
+  console.log(
+    `\nDone: ${downloaded} downloaded, ${skipped} skipped, ${failed} failed`,
+  );
 }
 
 main();
