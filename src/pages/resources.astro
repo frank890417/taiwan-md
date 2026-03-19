@@ -6,822 +6,290 @@ const heroData = {
   categories: [
     {
       id: 'government',
-      label: '🏛️ 官方機構',
+      label: '官方機構',
       color: '#065f46',
       sites: [
-        {
-          name: '中華民國總統府',
-          url: 'https://www.president.gov.tw/',
-          domain: 'president.gov.tw',
-        },
+        { name: '中華民國總統府', url: 'https://www.president.gov.tw/', domain: 'president.gov.tw' },
         { name: '行政院', url: 'https://www.ey.gov.tw/', domain: 'ey.gov.tw' },
         { name: '立法院', url: 'https://www.ly.gov.tw/', domain: 'ly.gov.tw' },
-        {
-          name: '外交部',
-          url: 'https://www.mofa.gov.tw/',
-          domain: 'mofa.gov.tw',
-        },
-        {
-          name: '數位發展部',
-          url: 'https://moda.gov.tw/',
-          domain: 'moda.gov.tw',
-        },
-        {
-          name: '原住民族委員會',
-          url: 'https://www.cip.gov.tw/',
-          domain: 'cip.gov.tw',
-        },
-        {
-          name: '文化部',
-          url: 'https://www.moc.gov.tw/',
-          domain: 'moc.gov.tw',
-        },
-        {
-          name: '教育部',
-          url: 'https://www.moe.gov.tw/',
-          domain: 'moe.gov.tw',
-        },
-        {
-          name: '經濟部',
-          url: 'https://www.moea.gov.tw/',
-          domain: 'moea.gov.tw',
-        },
-        {
-          name: '交通部',
-          url: 'https://www.motc.gov.tw/',
-          domain: 'motc.gov.tw',
-        },
-      ],
+        { name: '外交部', url: 'https://www.mofa.gov.tw/', domain: 'mofa.gov.tw' },
+        { name: '數位發展部', url: 'https://moda.gov.tw/', domain: 'moda.gov.tw' },
+        { name: '原住民族委員會', url: 'https://www.cip.gov.tw/', domain: 'cip.gov.tw' },
+        { name: '文化部', url: 'https://www.moc.gov.tw/', domain: 'moc.gov.tw' },
+        { name: '教育部', url: 'https://www.moe.gov.tw/', domain: 'moe.gov.tw' },
+        { name: '經濟部', url: 'https://www.moea.gov.tw/', domain: 'moea.gov.tw' },
+        { name: '交通部', url: 'https://www.motc.gov.tw/', domain: 'motc.gov.tw' }
+      ]
     },
     {
       id: 'culture',
-      label: '📚 文化與教育',
+      label: '文化與教育',
       color: '#7c3aed',
       sites: [
-        {
-          name: '國立國家圖書館',
-          url: 'https://www.ncl.edu.tw/',
-          domain: 'ncl.edu.tw',
-        },
-        {
-          name: '國立故宮博物院',
-          url: 'https://www.npm.gov.tw/',
-          domain: 'npm.gov.tw',
-        },
-        {
-          name: '國立台灣博物館',
-          url: 'https://www.ntm.gov.tw/',
-          domain: 'ntm.gov.tw',
-        },
-        {
-          name: '文化部',
-          url: 'https://www.moc.gov.tw/',
-          domain: 'moc.gov.tw',
-        },
-      ],
+        { name: '國立國家圖書館', url: 'https://www.ncl.edu.tw/', domain: 'ncl.edu.tw' },
+        { name: '國立故宮博物院', url: 'https://www.npm.gov.tw/', domain: 'npm.gov.tw' },
+        { name: '國立台灣博物館', url: 'https://www.ntm.gov.tw/', domain: 'ntm.gov.tw' },
+        { name: '文化部', url: 'https://www.moc.gov.tw/', domain: 'moc.gov.tw' }
+      ]
     },
     {
       id: 'tourism',
-      label: '✈️ 觀光與旅遊',
+      label: '觀光與旅遊',
       color: '#2563eb',
       sites: [
-        {
-          name: 'Taiwan Tourism',
-          url: 'https://eng.taiwan.net.tw/',
-          domain: 'eng.taiwan.net.tw',
-        },
-        {
-          name: '日月潭國家風景區',
-          url: 'https://www.sunmoonlake.gov.tw/',
-          domain: 'sunmoonlake.gov.tw',
-        },
-        {
-          name: '阿里山國家風景區',
-          url: 'https://www.ali-nsa.net/',
-          domain: 'ali-nsa.net',
-        },
-      ],
+        { name: 'Taiwan Tourism', url: 'https://eng.taiwan.net.tw/', domain: 'eng.taiwan.net.tw' },
+        { name: '日月潭國家風景區', url: 'https://www.sunmoonlake.gov.tw/', domain: 'sunmoonlake.gov.tw' },
+        { name: '阿里山國家風景區', url: 'https://www.ali-nsa.net/', domain: 'ali-nsa.net' }
+      ]
     },
     {
       id: 'economy',
-      label: '💼 科技與經濟',
+      label: '科技與經濟',
       color: '#0891b2',
       sites: [
-        {
-          name: '台灣積體電路',
-          url: 'https://www.tsmc.com/chinese',
-          domain: 'tsmc.com',
-        },
-        {
-          name: '資策會',
-          url: 'https://www.iii.org.tw/',
-          domain: 'iii.org.tw',
-        },
-        {
-          name: '國家統計',
-          url: 'https://www.stat.gov.tw/',
-          domain: 'stat.gov.tw',
-        },
-        {
-          name: '臺灣證券交易所',
-          url: 'https://www.twse.com.tw/',
-          domain: 'twse.com.tw',
-        },
-      ],
+        { name: '台灣積體電路', url: 'https://www.tsmc.com/chinese', domain: 'tsmc.com' },
+        { name: '資策會', url: 'https://www.iii.org.tw/', domain: 'iii.org.tw' },
+        { name: '國家統計', url: 'https://www.stat.gov.tw/', domain: 'stat.gov.tw' },
+        { name: '臺灣證券交易所', url: 'https://www.twse.com.tw/', domain: 'twse.com.tw' }
+      ]
     },
     {
       id: 'media',
-      label: '📰 媒體與新聞',
+      label: '媒體與新聞',
       color: '#dc2626',
       sites: [
-        {
-          name: '中央通訊社',
-          url: 'https://www.cna.com.tw',
-          domain: 'cna.com.tw',
-        },
-        {
-          name: '公共電視',
-          url: 'https://www.pts.org.tw/',
-          domain: 'pts.org.tw',
-        },
-        {
-          name: '報導者',
-          url: 'https://www.twreporter.org/',
-          domain: 'twreporter.org',
-        },
-        {
-          name: 'Taiwan News',
-          url: 'https://www.taiwannews.com.tw/',
-          domain: 'taiwannews.com.tw',
-        },
-      ],
+        { name: '中央通訊社', url: 'https://www.cna.com.tw', domain: 'cna.com.tw' },
+        { name: '公共電視', url: 'https://www.pts.org.tw/', domain: 'pts.org.tw' },
+        { name: '報導者', url: 'https://www.twreporter.org/', domain: 'twreporter.org' },
+        { name: 'Taiwan News', url: 'https://www.taiwannews.com.tw/', domain: 'taiwannews.com.tw' }
+      ]
     },
     {
       id: 'opendata',
-      label: '🌐 開放資料',
+      label: '開放資料',
       color: '#16a34a',
       sites: [
-        {
-          name: '政府資料開放平臺',
-          url: 'https://data.gov.tw/',
-          domain: 'data.gov.tw',
-        },
-        {
-          name: '政府入口網站',
-          url: 'https://www.taiwan.gov.tw/',
-          domain: 'taiwan.gov.tw',
-        },
-        {
-          name: '全國法規資料庫',
-          url: 'https://law.moj.gov.tw/',
-          domain: 'law.moj.gov.tw',
-        },
-        { name: 'g0v 零時政府', url: 'https://g0v.tw/', domain: 'g0v.tw' },
-      ],
+        { name: '政府資料開放平臺', url: 'https://data.gov.tw/', domain: 'data.gov.tw' },
+        { name: '政府入口網站', url: 'https://www.taiwan.gov.tw/', domain: 'taiwan.gov.tw' },
+        { name: '全國法規資料庫', url: 'https://law.moj.gov.tw/', domain: 'law.moj.gov.tw' },
+        { name: 'g0v 零時政府', url: 'https://g0v.tw/', domain: 'g0v.tw' }
+      ]
     },
     {
       id: 'taiwanmd',
-      label: '📡 Taiwan.md 相關',
+      label: 'Taiwan.md 相關',
       color: '#ca8a04',
       sites: [
-        {
-          name: 'GitHub 專案倉庫',
-          url: 'https://github.com/frank890417/taiwan-md',
-          domain: 'github.com',
-        },
+        { name: 'GitHub 專案倉庫', url: 'https://github.com/frank890417/taiwan-md', domain: 'github.com' },
         { name: '貢獻指南', url: '/contribute', domain: 'taiwan.md' },
-        { name: 'RSS 訂閱', url: '/rss.xml', domain: 'taiwan.md' },
-      ],
-    },
-  ],
+        { name: 'RSS 訂閱', url: '/rss.xml', domain: 'taiwan.md' }
+      ]
+    }
+  ]
 };
 
 // Section data (其他網站，分為多個 section)
 const sectionData = {
   localGov: {
-    title: '🏙️ 地方政府',
+    title: '地方政府',
     description: '台灣六都及各縣市政府官方網站',
     sites: [
-      {
-        name: '台北市政府',
-        url: 'https://www.gov.taipei/',
-        domain: 'gov.taipei',
-      },
-      {
-        name: '新北市政府',
-        url: 'https://www.ntpc.gov.tw/',
-        domain: 'ntpc.gov.tw',
-      },
-      {
-        name: '台中市政府',
-        url: 'https://www.taichung.gov.tw/',
-        domain: 'taichung.gov.tw',
-      },
-      {
-        name: '高雄市政府',
-        url: 'https://www.kcg.gov.tw/',
-        domain: 'kcg.gov.tw',
-      },
-      {
-        name: '台南市政府',
-        url: 'https://www.tainan.gov.tw/',
-        domain: 'tainan.gov.tw',
-      },
-      {
-        name: '桃園市政府',
-        url: 'https://www.tycg.gov.tw/',
-        domain: 'tycg.gov.tw',
-      },
-      {
-        name: '基隆市政府',
-        url: 'https://www.klcg.gov.tw/',
-        domain: 'klcg.gov.tw',
-      },
-      {
-        name: '新竹市政府',
-        url: 'https://www.hccg.gov.tw/',
-        domain: 'hccg.gov.tw',
-      },
-      {
-        name: '嘉義市政府',
-        url: 'https://www.chiayi.gov.tw/',
-        domain: 'chiayi.gov.tw',
-      },
-      {
-        name: '宜蘭縣政府',
-        url: 'https://www.e-land.gov.tw/',
-        domain: 'e-land.gov.tw',
-      },
-      {
-        name: '新竹縣政府',
-        url: 'https://www.hsinchu.gov.tw/',
-        domain: 'hsinchu.gov.tw',
-      },
-      {
-        name: '苗栗縣政府',
-        url: 'https://www.miaoli.gov.tw/',
-        domain: 'miaoli.gov.tw',
-      },
-      {
-        name: '彰化縣政府',
-        url: 'https://www.chcg.gov.tw/',
-        domain: 'chcg.gov.tw',
-      },
-      {
-        name: '南投縣政府',
-        url: 'https://www.nantou.gov.tw/',
-        domain: 'nantou.gov.tw',
-      },
-      {
-        name: '雲林縣政府',
-        url: 'https://www.yunlin.gov.tw/',
-        domain: 'yunlin.gov.tw',
-      },
-      {
-        name: '嘉義縣政府',
-        url: 'https://www.cyhg.gov.tw/',
-        domain: 'cyhg.gov.tw',
-      },
-      {
-        name: '屏東縣政府',
-        url: 'https://www.pthg.gov.tw/',
-        domain: 'pthg.gov.tw',
-      },
-      {
-        name: '台東縣政府',
-        url: 'https://www.taitung.gov.tw/',
-        domain: 'taitung.gov.tw',
-      },
-      {
-        name: '花蓮縣政府',
-        url: 'https://www.hl.gov.tw/',
-        domain: 'hl.gov.tw',
-      },
-      {
-        name: '澎湖縣政府',
-        url: 'https://www.penghu.gov.tw/',
-        domain: 'penghu.gov.tw',
-      },
-      {
-        name: '金門縣政府',
-        url: 'https://www.kinmen.gov.tw/',
-        domain: 'kinmen.gov.tw',
-      },
-      {
-        name: '連江縣政府',
-        url: 'https://www.matsu.gov.tw/',
-        domain: 'matsu.gov.tw',
-      },
-    ],
+      { name: '台北市政府', url: 'https://www.gov.taipei/', domain: 'gov.taipei' },
+      { name: '新北市政府', url: 'https://www.ntpc.gov.tw/', domain: 'ntpc.gov.tw' },
+      { name: '台中市政府', url: 'https://www.taichung.gov.tw/', domain: 'taichung.gov.tw' },
+      { name: '高雄市政府', url: 'https://www.kcg.gov.tw/', domain: 'kcg.gov.tw' },
+      { name: '台南市政府', url: 'https://www.tainan.gov.tw/', domain: 'tainan.gov.tw' },
+      { name: '桃園市政府', url: 'https://www.tycg.gov.tw/', domain: 'tycg.gov.tw' },
+      { name: '基隆市政府', url: 'https://www.klcg.gov.tw/', domain: 'klcg.gov.tw' },
+      { name: '新竹市政府', url: 'https://www.hccg.gov.tw/', domain: 'hccg.gov.tw' },
+      { name: '嘉義市政府', url: 'https://www.chiayi.gov.tw/', domain: 'chiayi.gov.tw' },
+      { name: '宜蘭縣政府', url: 'https://www.e-land.gov.tw/', domain: 'e-land.gov.tw' },
+      { name: '新竹縣政府', url: 'https://www.hsinchu.gov.tw/', domain: 'hsinchu.gov.tw' },
+      { name: '苗栗縣政府', url: 'https://www.miaoli.gov.tw/', domain: 'miaoli.gov.tw' },
+      { name: '彰化縣政府', url: 'https://www.chcg.gov.tw/', domain: 'chcg.gov.tw' },
+      { name: '南投縣政府', url: 'https://www.nantou.gov.tw/', domain: 'nantou.gov.tw' },
+      { name: '雲林縣政府', url: 'https://www.yunlin.gov.tw/', domain: 'yunlin.gov.tw' },
+      { name: '嘉義縣政府', url: 'https://www.cyhg.gov.tw/', domain: 'cyhg.gov.tw' },
+      { name: '屏東縣政府', url: 'https://www.pthg.gov.tw/', domain: 'pthg.gov.tw' },
+      { name: '台東縣政府', url: 'https://www.taitung.gov.tw/', domain: 'taitung.gov.tw' },
+      { name: '花蓮縣政府', url: 'https://www.hl.gov.tw/', domain: 'hl.gov.tw' },
+      { name: '澎湖縣政府', url: 'https://www.penghu.gov.tw/', domain: 'penghu.gov.tw' },
+      { name: '金門縣政府', url: 'https://www.kinmen.gov.tw/', domain: 'kinmen.gov.tw' },
+      { name: '連江縣政府', url: 'https://www.matsu.gov.tw/', domain: 'matsu.gov.tw' }
+    ]
   },
   universities: {
-    title: '🎓 大學與研究機構',
+    title: '大學與研究機構',
     description: '台灣頂尖大學與重要研究機關',
     sites: [
-      {
-        name: '國立台灣大學',
-        url: 'https://www.ntu.edu.tw/',
-        domain: 'ntu.edu.tw',
-      },
-      {
-        name: '國立清華大學',
-        url: 'https://www.nthu.edu.tw/',
-        domain: 'nthu.edu.tw',
-      },
-      {
-        name: '國立陽明交通大學',
-        url: 'https://www.nycu.edu.tw/',
-        domain: 'nycu.edu.tw',
-      },
-      {
-        name: '國立成功大學',
-        url: 'https://web.ncku.edu.tw/',
-        domain: 'ncku.edu.tw',
-      },
-      {
-        name: '國立政治大學',
-        url: 'https://www.nccu.edu.tw/',
-        domain: 'nccu.edu.tw',
-      },
-      {
-        name: '國立台灣師範大學',
-        url: 'https://www.ntnu.edu.tw/',
-        domain: 'ntnu.edu.tw',
-      },
-      {
-        name: '中央研究院',
-        url: 'https://www.sinica.edu.tw/',
-        domain: 'sinica.edu.tw',
-      },
-      {
-        name: '臺灣經驗實證調查資料平台',
-        url: 'https://tesd.survey.sinica.edu.tw/',
-        domain: 'tesd.survey.sinica.edu.tw',
-      },
-      {
-        name: '臺灣傳播調查資料庫',
-        url: 'https://crctaiwan.dcat.nycu.edu.tw/index.asp',
-        domain: 'crctaiwan.dcat.nycu.edu.tw',
-      },
-      {
-        name: 'Brill 台灣研究百科全書',
-        url: 'https://referenceworks.brill.com/display/db/etso',
-        domain: 'referenceworks.brill.com',
-      },
-      {
-        name: '國家科學及技術委員會',
-        url: 'https://www.nstc.gov.tw/',
-        domain: 'nstc.gov.tw',
-      },
-      {
-        name: '工研院',
-        url: 'https://www.itri.org.tw/',
-        domain: 'itri.org.tw',
-      },
-      {
-        name: '國家實驗研究院',
-        url: 'https://www.niar.org.tw/',
-        domain: 'niar.org.tw',
-      },
-    ],
+      { name: '國立台灣大學', url: 'https://www.ntu.edu.tw/', domain: 'ntu.edu.tw' },
+      { name: '國立清華大學', url: 'https://www.nthu.edu.tw/', domain: 'nthu.edu.tw' },
+      { name: '國立陽明交通大學', url: 'https://www.nycu.edu.tw/', domain: 'nycu.edu.tw' },
+      { name: '國立成功大學', url: 'https://web.ncku.edu.tw/', domain: 'ncku.edu.tw' },
+      { name: '國立政治大學', url: 'https://www.nccu.edu.tw/', domain: 'nccu.edu.tw' },
+      { name: '國立台灣師範大學', url: 'https://www.ntnu.edu.tw/', domain: 'ntnu.edu.tw' },
+      { name: '中央研究院', url: 'https://www.sinica.edu.tw/', domain: 'sinica.edu.tw' },
+      { name: 'Brill 台灣研究百科全書', url: 'https://referenceworks.brill.com/display/db/etso', domain: 'referenceworks.brill.com' },
+      { name: '國家科學及技術委員會', url: 'https://www.nstc.gov.tw/', domain: 'nstc.gov.tw' },
+      { name: '工研院', url: 'https://www.itri.org.tw/', domain: 'itri.org.tw' },
+      { name: '國家實驗研究院', url: 'https://www.niar.org.tw/', domain: 'niar.org.tw' }
+    ]
   },
   nationalParks: {
-    title: '🏔️ 國家公園',
+    title: '國家公園',
     description: '台灣國家公園與風景區管理處',
     sites: [
-      {
-        name: '玉山國家公園',
-        url: 'https://www.ysnp.gov.tw/',
-        domain: 'ysnp.gov.tw',
-      },
-      {
-        name: '太魯閣國家公園',
-        url: 'https://www.taroko.gov.tw/',
-        domain: 'taroko.gov.tw',
-      },
-      {
-        name: '墾丁國家公園',
-        url: 'https://www.ktnp.gov.tw/',
-        domain: 'ktnp.gov.tw',
-      },
-      {
-        name: '雪霸國家公園',
-        url: 'https://www.spnp.gov.tw/',
-        domain: 'spnp.gov.tw',
-      },
-      {
-        name: '陽明山國家公園',
-        url: 'https://www.ymsnp.gov.tw/',
-        domain: 'ymsnp.gov.tw',
-      },
-      {
-        name: '金門國家公園',
-        url: 'https://www.kmnp.gov.tw/',
-        domain: 'kmnp.gov.tw',
-      },
-      {
-        name: '台江國家公園',
-        url: 'https://www.tjnp.gov.tw/',
-        domain: 'tjnp.gov.tw',
-      },
-      {
-        name: '東沙環礁國家公園',
-        url: 'https://www.marine.gov.tw/',
-        domain: 'marine.gov.tw',
-      },
-      {
-        name: '澎湖南方四島國家公園',
-        url: 'https://www.marine.gov.tw/',
-        domain: 'marine.gov.tw',
-      },
-    ],
+      { name: '玉山國家公園', url: 'https://www.ysnp.gov.tw/', domain: 'ysnp.gov.tw' },
+      { name: '太魯閣國家公園', url: 'https://www.taroko.gov.tw/', domain: 'taroko.gov.tw' },
+      { name: '墾丁國家公園', url: 'https://www.ktnp.gov.tw/', domain: 'ktnp.gov.tw' },
+      { name: '雪霸國家公園', url: 'https://www.spnp.gov.tw/', domain: 'spnp.gov.tw' },
+      { name: '陽明山國家公園', url: 'https://www.ymsnp.gov.tw/', domain: 'ymsnp.gov.tw' },
+      { name: '金門國家公園', url: 'https://www.kmnp.gov.tw/', domain: 'kmnp.gov.tw' },
+      { name: '台江國家公園', url: 'https://www.tjnp.gov.tw/', domain: 'tjnp.gov.tw' },
+      { name: '東沙環礁國家公園', url: 'https://www.marine.gov.tw/', domain: 'marine.gov.tw' },
+      { name: '澎湖南方四島國家公園', url: 'https://www.marine.gov.tw/', domain: 'marine.gov.tw' }
+    ]
   },
   artsCulture: {
-    title: '🎭 藝文場館',
+    title: '藝文場館',
     description: '重要博物館、美術館與表演場所',
     sites: [
-      {
-        name: '台北市立美術館',
-        url: 'https://www.tfam.museum/',
-        domain: 'tfam.museum',
-      },
-      {
-        name: '高雄市立美術館',
-        url: 'https://www.kmfa.gov.tw/',
-        domain: 'kmfa.gov.tw',
-      },
-      {
-        name: '台中國家歌劇院',
-        url: 'https://www.npac-ntt.org/',
-        domain: 'npac-ntt.org',
-      },
-      {
-        name: '國家兩廳院',
-        url: 'https://npac-ntch.org/zh',
-        domain: 'npac-ntch.org',
-      },
-      {
-        name: '衛武營藝術中心',
-        url: 'https://www.npac-weiwuying.org/',
-        domain: 'npac-weiwuying.org',
-      },
-      {
-        name: '松山文創園區',
-        url: 'https://www.songshanculturalpark.org/',
-        domain: 'songshanculturalpark.org',
-      },
-      {
-        name: '華山文創園區',
-        url: 'https://www.huashan1914.com/',
-        domain: 'huashan1914.com',
-      },
+      { name: '台北市立美術館', url: 'https://www.tfam.museum/', domain: 'tfam.museum' },
+      { name: '高雄市立美術館', url: 'https://www.kmfa.gov.tw/', domain: 'kmfa.gov.tw' },
+      { name: '台中國家歌劇院', url: 'https://www.npac-ntt.org/', domain: 'npac-ntt.org' },
+      { name: '國家兩廳院', url: 'https://npac-ntch.org/zh', domain: 'npac-ntch.org' },
+      { name: '衛武營藝術中心', url: 'https://www.npac-weiwuying.org/', domain: 'npac-weiwuying.org' },
+      { name: '松山文創園區', url: 'https://www.songshanculturalpark.org/', domain: 'songshanculturalpark.org' },
+      { name: '華山文創園區', url: 'https://www.huashan1914.com/', domain: 'huashan1914.com' },
       { name: '駁二藝術特區', url: 'https://pier2.org/', domain: 'pier2.org' },
-      {
-        name: '國立台灣美術館',
-        url: 'https://www.ntmofa.gov.tw/',
-        domain: 'ntmofa.gov.tw',
-      },
-      {
-        name: '國立臺灣歷史博物館',
-        url: 'https://www.nmth.gov.tw/',
-        domain: 'nmth.gov.tw',
-      },
-      {
-        name: '國立自然科學博物館',
-        url: 'https://www.nmns.edu.tw/ch/',
-        domain: 'nmns.edu.tw',
-      },
-      {
-        name: '國立海洋生物博物館',
-        url: 'https://www.nmmba.gov.tw/',
-        domain: 'nmmba.gov.tw',
-      },
-      {
-        name: '國立台灣文學館',
-        url: 'https://www.nmtl.gov.tw/',
-        domain: 'nmtl.gov.tw',
-      },
-    ],
+      { name: '國立台灣美術館', url: 'https://www.ntmofa.gov.tw/', domain: 'ntmofa.gov.tw' },
+      { name: '國立臺灣歷史博物館', url: 'https://www.nmth.gov.tw/', domain: 'nmth.gov.tw' },
+      { name: '國立自然科學博物館', url: 'https://www.nmns.edu.tw/ch/', domain: 'nmns.edu.tw' },
+      { name: '國立海洋生物博物館', url: 'https://www.nmmba.gov.tw/', domain: 'nmmba.gov.tw' },
+      { name: '國立台灣文學館', url: 'https://www.nmtl.gov.tw/', domain: 'nmtl.gov.tw' }
+    ]
   },
   healthcare: {
-    title: '🏥 醫療健康',
+    title: '醫療健康',
     description: '衛生主管機關與重要醫療機構',
     sites: [
-      {
-        name: '疾病管制署',
-        url: 'https://www.cdc.gov.tw/',
-        domain: 'cdc.gov.tw',
-      },
-      {
-        name: '中央健康保險署',
-        url: 'https://www.nhi.gov.tw/',
-        domain: 'nhi.gov.tw',
-      },
-      {
-        name: '衛生福利部',
-        url: 'https://www.mohw.gov.tw/',
-        domain: 'mohw.gov.tw',
-      },
-      {
-        name: '台大醫院',
-        url: 'https://www.ntuh.gov.tw/ntuh/Index.action',
-        domain: 'ntuh.gov.tw',
-      },
-      {
-        name: '台北榮民總醫院',
-        url: 'https://www.vghtpe.gov.tw/',
-        domain: 'vghtpe.gov.tw',
-      },
-      {
-        name: '長庚醫療體系',
-        url: 'https://www.cgmh.org.tw/',
-        domain: 'cgmh.org.tw',
-      },
-      {
-        name: '中國醫藥大學附設醫院',
-        url: 'https://www.cmuh.cmu.edu.tw/',
-        domain: 'cmuh.cmu.edu.tw',
-      },
-      {
-        name: '高雄醫學大學附設醫院',
-        url: 'https://www.kmuh.org.tw/',
-        domain: 'kmuh.org.tw',
-      },
-    ],
+      { name: '疾病管制署', url: 'https://www.cdc.gov.tw/', domain: 'cdc.gov.tw' },
+      { name: '中央健康保險署', url: 'https://www.nhi.gov.tw/', domain: 'nhi.gov.tw' },
+      { name: '衛生福利部', url: 'https://www.mohw.gov.tw/', domain: 'mohw.gov.tw' },
+      { name: '台大醫院', url: 'https://www.ntuh.gov.tw/ntuh/Index.action', domain: 'ntuh.gov.tw' },
+      { name: '台北榮民總醫院', url: 'https://www.vghtpe.gov.tw/', domain: 'vghtpe.gov.tw' },
+      { name: '長庚醫療體系', url: 'https://www.cgmh.org.tw/', domain: 'cgmh.org.tw' },
+      { name: '中國醫藥大學附設醫院', url: 'https://www.cmuh.cmu.edu.tw/', domain: 'cmuh.cmu.edu.tw' },
+      { name: '高雄醫學大學附設醫院', url: 'https://www.kmuh.org.tw/', domain: 'kmuh.org.tw' }
+    ]
   },
   ngoSociety: {
-    title: '🤝 NGO / 公民社會',
+    title: 'NGO / 公民社會',
     description: '非營利組織與公民社會重要團體',
     sites: [
-      {
-        name: '台灣人權促進會',
-        url: 'https://www.tahr.org.tw/',
-        domain: 'tahr.org.tw',
-      },
+      { name: '台灣人權促進會', url: 'https://www.tahr.org.tw/', domain: 'tahr.org.tw' },
       { name: '台灣環境資訊協會', url: 'https://teia.tw/', domain: 'teia.tw' },
-      {
-        name: '荒野保護協會',
-        url: 'https://www.sow.org.tw/',
-        domain: 'sow.org.tw',
-      },
+      { name: '荒野保護協會', url: 'https://www.sow.org.tw/', domain: 'sow.org.tw' },
       { name: '開放文化基金會', url: 'https://ocf.tw/', domain: 'ocf.tw' },
-      {
-        name: '台灣事實查核中心',
-        url: 'https://tfc-taiwan.org.tw/',
-        domain: 'tfc-taiwan.org.tw',
-      },
-      {
-        name: '財團法人台灣網路資訊中心',
-        url: 'https://www.twnic.net.tw/',
-        domain: 'twnic.net.tw',
-      },
-      {
-        name: '台灣維基媒體協會',
-        url: 'https://wikimedia.tw/',
-        domain: 'wikimedia.tw',
-      },
-      {
-        name: '台灣數位外交協會',
-        url: 'https://www.digitaldiplomacy.tw/',
-        domain: 'digitaldiplomacy.tw',
-      },
-    ],
+      { name: '台灣事實查核中心', url: 'https://tfc-taiwan.org.tw/', domain: 'tfc-taiwan.org.tw' },
+      { name: '財團法人台灣網路資訊中心', url: 'https://www.twnic.net.tw/', domain: 'twnic.net.tw' },
+      { name: '台灣維基媒體協會', url: 'https://wikimedia.tw/', domain: 'wikimedia.tw' },
+      { name: '台灣數位外交協會', url: 'https://www.digitaldiplomacy.tw/', domain: 'digitaldiplomacy.tw' }
+    ]
   },
   ministries: {
-    title: '🏛️ 各部會署',
+    title: '各部會署',
     description: '行政院各部會與相關機關',
     sites: [
       { name: '內政部', url: 'https://www.moi.gov.tw/', domain: 'moi.gov.tw' },
-      {
-        name: '司法院',
-        url: 'https://www.judicial.gov.tw/',
-        domain: 'judicial.gov.tw',
-      },
-      {
-        name: '國家發展委員會',
-        url: 'https://www.ndc.gov.tw/',
-        domain: 'ndc.gov.tw',
-      },
-      {
-        name: '大陸委員會',
-        url: 'https://www.mac.gov.tw/',
-        domain: 'mac.gov.tw',
-      },
+      { name: '司法院', url: 'https://www.judicial.gov.tw/', domain: 'judicial.gov.tw' },
+      { name: '國家發展委員會', url: 'https://www.ndc.gov.tw/', domain: 'ndc.gov.tw' },
+      { name: '大陸委員會', url: 'https://www.mac.gov.tw/', domain: 'mac.gov.tw' },
       { name: '勞動部', url: 'https://www.mol.gov.tw/', domain: 'mol.gov.tw' },
-      {
-        name: '環境部',
-        url: 'https://www.moenv.gov.tw/',
-        domain: 'moenv.gov.tw',
-      },
+      { name: '環境部', url: 'https://www.moenv.gov.tw/', domain: 'moenv.gov.tw' },
       { name: '農業部', url: 'https://www.moa.gov.tw/', domain: 'moa.gov.tw' },
       { name: '國防部', url: 'https://www.mnd.gov.tw/', domain: 'mnd.gov.tw' },
       { name: '法務部', url: 'https://www.moj.gov.tw/', domain: 'moj.gov.tw' },
-      {
-        name: '經濟部國際貿易署',
-        url: 'https://www.trade.gov.tw/',
-        domain: 'trade.gov.tw',
-      },
-      {
-        name: '中小及新創企業署',
-        url: 'https://www.sme.gov.tw/',
-        domain: 'sme.gov.tw',
-      },
-      {
-        name: '經濟部智慧財產局',
-        url: 'https://www.tipo.gov.tw/',
-        domain: 'tipo.gov.tw',
-      },
-      {
-        name: '金融監督管理委員會',
-        url: 'https://www.fsc.gov.tw/',
-        domain: 'fsc.gov.tw',
-      },
-      {
-        name: '投資台灣',
-        url: 'https://investtaiwan.nat.gov.tw/',
-        domain: 'investtaiwan.nat.gov.tw',
-      },
-      {
-        name: '內政部移民署',
-        url: 'https://www.immigration.gov.tw/',
-        domain: 'immigration.gov.tw',
-      },
-      {
-        name: '中央氣象署',
-        url: 'https://www.cwa.gov.tw/',
-        domain: 'cwa.gov.tw',
-      },
-    ],
+      { name: '經濟部國際貿易署', url: 'https://www.trade.gov.tw/', domain: 'trade.gov.tw' },
+      { name: '中小及新創企業署', url: 'https://www.sme.gov.tw/', domain: 'sme.gov.tw' },
+      { name: '經濟部智慧財產局', url: 'https://www.tipo.gov.tw/', domain: 'tipo.gov.tw' },
+      { name: '金融監督管理委員會', url: 'https://www.fsc.gov.tw/', domain: 'fsc.gov.tw' },
+      { name: '投資台灣', url: 'https://investtaiwan.nat.gov.tw/', domain: 'investtaiwan.nat.gov.tw' },
+      { name: '內政部移民署', url: 'https://www.immigration.gov.tw/', domain: 'immigration.gov.tw' },
+      { name: '中央氣象署', url: 'https://www.cwa.gov.tw/', domain: 'cwa.gov.tw' }
+    ]
   },
   companies: {
-    title: '🏢 重要企業',
+    title: '重要企業',
     description: '台灣指標企業與科技公司',
     sites: [
       { name: '聯華電子', url: 'https://www.umc.com/', domain: 'umc.com' },
-      {
-        name: '鴻海科技',
-        url: 'https://www.foxconn.com/',
-        domain: 'foxconn.com',
-      },
-      {
-        name: '台達電子',
-        url: 'https://www.deltaww.com/',
-        domain: 'deltaww.com',
-      },
-      {
-        name: 'Taiwan Excellence',
-        url: 'https://www.taiwanexcellence.org/en',
-        domain: 'taiwanexcellence.org',
-      },
-      {
-        name: '櫃檯買賣中心',
-        url: 'https://www.tpex.org.tw/',
-        domain: 'tpex.org.tw',
-      },
-      {
-        name: '中華電信',
-        url: 'https://www.cht.com.tw/',
-        domain: 'cht.com.tw',
-      },
-      {
-        name: '台灣電力公司',
-        url: 'https://www.taipower.com.tw/',
-        domain: 'taipower.com.tw',
-      },
-    ],
+      { name: '鴻海科技', url: 'https://www.foxconn.com/', domain: 'foxconn.com' },
+      { name: '台達電子', url: 'https://www.deltaww.com/', domain: 'deltaww.com' },
+      { name: 'Taiwan Excellence', url: 'https://www.taiwanexcellence.org/en', domain: 'taiwanexcellence.org' },
+      { name: '櫃檯買賣中心', url: 'https://www.tpex.org.tw/', domain: 'tpex.org.tw' },
+      { name: '中華電信', url: 'https://www.cht.com.tw/', domain: 'cht.com.tw' },
+      { name: '台灣電力公司', url: 'https://www.taipower.com.tw/', domain: 'taipower.com.tw' }
+    ]
   },
   mediaExtra: {
-    title: '📺 傳統媒體',
+    title: '傳統媒體',
     description: '主流新聞媒體與廣播電視',
     sites: [
-      {
-        name: 'Focus Taiwan',
-        url: 'https://focustaiwan.tw/',
-        domain: 'focustaiwan.tw',
-      },
-      {
-        name: 'Taiwan Today',
-        url: 'https://www.taiwantoday.tw/',
-        domain: 'taiwantoday.tw',
-      },
-      {
-        name: '台灣光華雜誌',
-        url: 'https://www.taiwan-panorama.com/',
-        domain: 'taiwan-panorama.com',
-      },
-      {
-        name: '中央廣播電台',
-        url: 'https://www.rti.org.tw/',
-        domain: 'rti.org.tw',
-      },
+      { name: 'Focus Taiwan', url: 'https://focustaiwan.tw/', domain: 'focustaiwan.tw' },
+      { name: 'Taiwan Today', url: 'https://www.taiwantoday.tw/', domain: 'taiwantoday.tw' },
+      { name: '台灣光華雜誌', url: 'https://www.taiwan-panorama.com/', domain: 'taiwan-panorama.com' },
+      { name: '中央廣播電台', url: 'https://www.rti.org.tw/', domain: 'rti.org.tw' },
       { name: '聯合新聞網', url: 'https://udn.com/', domain: 'udn.com' },
-      {
-        name: '自由時報',
-        url: 'https://www.ltn.com.tw/',
-        domain: 'ltn.com.tw',
-      },
-      {
-        name: 'TVBS新聞網',
-        url: 'https://news.tvbs.com.tw/',
-        domain: 'news.tvbs.com.tw',
-      },
+      { name: '自由時報', url: 'https://www.ltn.com.tw/', domain: 'ltn.com.tw' },
+      { name: 'TVBS新聞網', url: 'https://news.tvbs.com.tw/', domain: 'news.tvbs.com.tw' },
       { name: '三立新聞網', url: 'https://www.setn.com/', domain: 'setn.com' },
-      {
-        name: '東森新聞',
-        url: 'https://news.ebc.net.tw/',
-        domain: 'news.ebc.net.tw',
-      },
-      {
-        name: '關鍵評論網',
-        url: 'https://www.thenewslens.com/',
-        domain: 'thenewslens.com',
-      },
-      { name: '天下雜誌', url: 'https://www.cw.com.tw/', domain: 'cw.com.tw' },
-    ],
+      { name: '東森新聞', url: 'https://news.ebc.net.tw/', domain: 'news.ebc.net.tw' },
+      { name: '關鍵評論網', url: 'https://www.thenewslens.com/', domain: 'thenewslens.com' },
+      { name: '天下雜誌', url: 'https://www.cw.com.tw/', domain: 'cw.com.tw' }
+    ]
   },
   transportation: {
-    title: '🚄 交通運輸',
+    title: '交通運輸',
     description: '大眾運輸與交通服務',
     sites: [
-      {
-        name: '台灣鐵路',
-        url: 'https://www.railway.gov.tw/tra-tip-web/tip',
-        domain: 'railway.gov.tw',
-      },
-      {
-        name: '台灣高速鐵路',
-        url: 'https://www.thsrc.com.tw/',
-        domain: 'thsrc.com.tw',
-      },
-      {
-        name: '台灣好行',
-        url: 'https://www.taiwantrip.com.tw/',
-        domain: 'taiwantrip.com.tw',
-      },
-      {
-        name: '桃園國際機場',
-        url: 'https://www.taoyuan-airport.com/',
-        domain: 'taoyuan-airport.com',
-      },
-      {
-        name: '台北捷運',
-        url: 'https://www.metro.taipei/',
-        domain: 'metro.taipei',
-      },
-      {
-        name: '高雄捷運',
-        url: 'https://www.krtco.com.tw/',
-        domain: 'krtco.com.tw',
-      },
-    ],
+      { name: '台灣鐵路', url: 'https://www.railway.gov.tw/tra-tip-web/tip', domain: 'railway.gov.tw' },
+      { name: '台灣高速鐵路', url: 'https://www.thsrc.com.tw/', domain: 'thsrc.com.tw' },
+      { name: '台灣好行', url: 'https://www.taiwantrip.com.tw/', domain: 'taiwantrip.com.tw' },
+      { name: '桃園國際機場', url: 'https://www.taoyuan-airport.com/', domain: 'taoyuan-airport.com' },
+      { name: '台北捷運', url: 'https://www.metro.taipei/', domain: 'metro.taipei' },
+      { name: '高雄捷運', url: 'https://www.krtco.com.tw/', domain: 'krtco.com.tw' }
+    ]
   },
   digitalCulture: {
-    title: '💾 數位文化',
+    title: '數位文化',
     description: '數位典藏與科普教育平台',
     sites: [
-      {
-        name: '典藏台灣',
-        url: 'https://digitalarchives.tw/',
-        domain: 'digitalarchives.tw',
-      },
-      {
-        name: '科技大觀園',
-        url: 'https://scitechvista.nat.gov.tw/',
-        domain: 'scitechvista.nat.gov.tw',
-      },
-      {
-        name: '國家文化記憶庫',
-        url: 'https://tcmb.culture.tw/zh-tw',
-        domain: 'tcmb.culture.tw',
-      },
-      { name: '文策院 TAICCA', url: 'https://taicca.tw/', domain: 'taicca.tw' },
-    ],
-  },
+      { name: '典藏台灣', url: 'https://digitalarchives.tw/', domain: 'digitalarchives.tw' },
+      { name: '科技大觀園', url: 'https://scitechvista.nat.gov.tw/', domain: 'scitechvista.nat.gov.tw' },
+      { name: '國家文化記憶庫', url: 'https://tcmb.culture.tw/zh-tw', domain: 'tcmb.culture.tw' },
+      { name: '文策院 TAICCA', url: 'https://taicca.tw/', domain: 'taicca.tw' }
+    ]
+  }
 };
 
 // Build hero mindmap data
 const mindmapNodes = [
-  {
-    id: 'taiwan',
-    label: '🇹🇼 台灣資源',
-    group: 'center',
-    size: 26,
-    color: '#065f46',
-  },
+  { id: 'taiwan', label: '台灣資源', group: 'center', size: 26, color: '#065f46' }
 ];
 const mindmapEdges = [];
 
 // Add category nodes and edges (only hero data)
-heroData.categories.forEach((category) => {
+heroData.categories.forEach(category => {
   mindmapNodes.push({
     id: category.id,
     label: category.label,
     group: category.id,
     size: 16,
-    color: category.color,
+    color: category.color
   });
   mindmapEdges.push({ source: 'taiwan', target: category.id });
-
+  
   // Add site nodes
   category.sites.forEach((site, index) => {
     const nodeId = `${category.id}_${index}`;
@@ -831,19 +299,16 @@ heroData.categories.forEach((category) => {
       group: category.id,
       size: 8,
       color: category.color,
-      url: site.url,
+      url: site.url
     });
     mindmapEdges.push({ source: category.id, target: nodeId });
   });
 });
 
-const mindmapData = JSON.stringify({
-  nodes: mindmapNodes,
-  edges: mindmapEdges,
-});
+const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges });
 ---
 
-<Layout
+<Layout 
   title="台灣資源導覽 - Taiwan.md"
   description="完整收錄台灣政府機關、文化機構、開放資料平台等官方網站，提供政策資訊、文化內容、統計數據的一站式入口"
 >
@@ -854,11 +319,11 @@ const mindmapData = JSON.stringify({
         <div class="hero-content">
           <h1 class="hero-title">台灣資源導覽</h1>
           <p class="hero-subtitle">
-            完整收錄政府機關、文化機構、開放資料等官方資源<br />
+            完整收錄政府機關、文化機構、開放資料等官方資源<br>
             一站式掌握台灣最權威的資訊來源
           </p>
         </div>
-
+        
         <!-- Resources Mindmap -->
         <div class="resources-mindmap">
           <div id="resources-graph"></div>
@@ -874,429 +339,224 @@ const mindmapData = JSON.stringify({
 
       <!-- 核心精選 Section (來自心智圖) -->
       <div class="core-header">
-        <h2 class="NotoSerif">🏆 核心精選</h2>
+        <h2 class="NotoSerif">核心精選</h2>
         <p class="section-desc">心智圖中展示的最重要台灣權威資源</p>
       </div>
-
-      {
-        heroData.categories.map((category) => (
-          <section class="resource-section">
-            <h3>{category.label}</h3>
-            <div class="site-grid">
-              {category.sites.map((site) => (
-                <a
-                  href={site.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="site-card"
-                >
-                  <img
-                    src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                    alt=""
-                    class="site-favicon"
-                    loading="lazy"
-                    onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                  />
-                  <div class="site-info">
-                    <div class="site-name">{site.name}</div>
-                    <div class="site-domain">{site.domain}</div>
-                  </div>
-                </a>
-              ))}
-            </div>
-          </section>
-        ))
-      }
+      
+      {heroData.categories.map(category => (
+        <section class="resource-section">
+          <h3>{category.label}</h3>
+          <div class="site-grid">
+            {category.sites.map(site => (
+              <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+                <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
 
       <div class="more-header">
-        <h2 class="NotoSerif">🔍 更多分類</h2>
+        <h2 class="NotoSerif">更多分類</h2>
         <p class="section-desc">涵蓋地方政府、大學及各領域詳細資源</p>
       </div>
 
       <!-- 地方政府 Section -->
       <section class="resource-section">
-        <h2>🏙️ 地方政府</h2>
+        <h2>地方政府</h2>
         <p class="section-desc">台灣六都及各縣市政府官方網站</p>
         <div class="site-grid">
-          {
-            sectionData.localGov.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.localGov.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 大學與研究機構 Section -->
       <section class="resource-section">
-        <h2>🎓 大學與研究機構</h2>
+        <h2>大學與研究機構</h2>
         <p class="section-desc">台灣頂尖大學與重要研究機關</p>
         <div class="site-grid">
-          {
-            sectionData.universities.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.universities.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 國家公園 Section -->
       <section class="resource-section">
-        <h2>🏔️ 國家公園</h2>
+        <h2>國家公園</h2>
         <p class="section-desc">台灣國家公園與風景區管理處</p>
         <div class="site-grid">
-          {
-            sectionData.nationalParks.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.nationalParks.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 藝文場館 Section -->
       <section class="resource-section">
-        <h2>🎭 藝文場館</h2>
+        <h2>藝文場館</h2>
         <p class="section-desc">重要博物館、美術館與表演場所</p>
         <div class="site-grid">
-          {
-            sectionData.artsCulture.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.artsCulture.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 醫療健康 Section -->
       <section class="resource-section">
-        <h2>🏥 醫療健康</h2>
+        <h2>醫療健康</h2>
         <p class="section-desc">衛生主管機關與重要醫療機構</p>
         <div class="site-grid">
-          {
-            sectionData.healthcare.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.healthcare.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- NGO / 公民社會 Section -->
       <section class="resource-section">
-        <h2>🤝 NGO / 公民社會</h2>
+        <h2>NGO / 公民社會</h2>
         <p class="section-desc">非營利組織與公民社會重要團體</p>
         <div class="site-grid">
-          {
-            sectionData.ngoSociety.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.ngoSociety.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 各部會署 Section -->
       <section class="resource-section">
-        <h2>🏛️ 各部會署</h2>
+        <h2>各部會署</h2>
         <p class="section-desc">行政院各部會與相關機關</p>
         <div class="site-grid">
-          {
-            sectionData.ministries.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.ministries.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 重要企業 Section -->
       <section class="resource-section">
-        <h2>🏢 重要企業</h2>
+        <h2>重要企業</h2>
         <p class="section-desc">台灣指標企業與科技公司</p>
         <div class="site-grid">
-          {
-            sectionData.companies.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.companies.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 傳統媒體 Section -->
       <section class="resource-section">
-        <h2>📺 傳統媒體</h2>
+        <h2>傳統媒體</h2>
         <p class="section-desc">主流新聞媒體與廣播電視</p>
         <div class="site-grid">
-          {
-            sectionData.mediaExtra.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.mediaExtra.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 交通運輸 Section -->
       <section class="resource-section">
-        <h2>🚄 交通運輸</h2>
+        <h2>交通運輸</h2>
         <p class="section-desc">大眾運輸與交通服務</p>
         <div class="site-grid">
-          {
-            sectionData.transportation.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.transportation.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
       <!-- 數位文化 Section -->
       <section class="resource-section">
-        <h2>💾 數位文化</h2>
+        <h2>數位文化</h2>
         <p class="section-desc">數位典藏與科普教育平台</p>
         <div class="site-grid">
-          {
-            sectionData.digitalCulture.sites.map((site) => (
-              <a
-                href={site.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="site-card"
-              >
-                <img
-                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
-                  alt=""
-                  class="site-favicon"
-                  loading="lazy"
-                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
-                />
-                <div class="site-info">
-                  <div class="site-name">{site.name}</div>
-                  <div class="site-domain">{site.domain}</div>
-                </div>
-              </a>
-            ))
-          }
+          {sectionData.digitalCulture.sites.map(site => (
+            <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
+              <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`} alt="" class="site-favicon" loading="lazy" onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>';" />
+              <div class="site-info">
+                <div class="site-name">{site.name}</div>
+                <div class="site-domain">{site.domain}</div>
+              </div>
+            </a>
+          ))}
         </div>
       </section>
 
-      <!-- 🚀 社群專案 Section -->
-      <div id="projects" class="core-header">
-        <h2 class="NotoSerif">🚀 社群專案</h2>
-        <p class="section-desc">來自社群的創意與熱情，用程式碼認識台灣</p>
-      </div>
-
-      <div class="projects-grid">
-        <div class="project-category">
-          <h3 class="project-cat-title" style="border-left: 4px solid #e11d48; padding-left: 0.75rem;">🍔 美食地圖</h3>
-          <a href="https://hsieh-george.github.io/taipei-burger-map/" target="_blank" rel="noopener noreferrer" class="project-card">
-            <div class="project-name">台北漢堡地圖</div>
-            <div class="project-desc">互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選</div>
-            <div class="project-meta"><span class="project-tech">JavaScript / Leaflet</span><a href="https://github.com/hsieh-george/taipei-burger-map" target="_blank" rel="noopener noreferrer" class="project-gh">GitHub ↗</a></div>
-          </a>
-        </div>
-
-        <div class="project-category">
-          <h3 class="project-cat-title" style="border-left: 4px solid #7c3aed; padding-left: 0.75rem;">🌙 夜市導覽</h3>
-          <a href="https://github.com/hsiu0305/NightMarketSwift" target="_blank" rel="noopener noreferrer" class="project-card">
-            <div class="project-name">NightMarketSwift</div>
-            <div class="project-desc">台灣夜市 iOS App，收錄超過 400 個夜市地點，含營業時間與 Google Maps 導航</div>
-            <div class="project-meta"><span class="project-tech">Objective-C / Swift</span></div>
-          </a>
-        </div>
-
-        <div class="project-category">
-          <h3 class="project-cat-title" style="border-left: 4px solid #059669; padding-left: 0.75rem;">🗳️ 公民科技</h3>
-          <div class="project-list">
-            <a href="https://g0v.tw/" target="_blank" rel="noopener noreferrer" class="project-card">
-              <div class="project-name">g0v 零時政府</div>
-              <div class="project-desc">台灣最大公民科技社群，推動開放政府與資訊透明化</div>
-              <div class="project-meta"><span class="project-tech">多元技術</span><a href="https://github.com/g0v" target="_blank" rel="noopener noreferrer" class="project-gh">GitHub ↗</a></div>
-            </a>
-            <a href="https://cofacts.tw/" target="_blank" rel="noopener noreferrer" class="project-card">
-              <div class="project-name">Cofacts 真的假的</div>
-              <div class="project-desc">群眾協作的事實查核聊天機器人，對抗假訊息</div>
-              <div class="project-meta"><span class="project-tech">JavaScript / GraphQL</span><a href="https://github.com/cofacts" target="_blank" rel="noopener noreferrer" class="project-gh">GitHub ↗</a></div>
-            </a>
-            <a href="https://disfactory.tw/" target="_blank" rel="noopener noreferrer" class="project-card">
-              <div class="project-name">Disfactory 農地違章工廠</div>
-              <div class="project-desc">公民回報農地上違章工廠的平台，保護台灣農地</div>
-              <div class="project-meta"><span class="project-tech">Vue.js / Django</span><a href="https://github.com/Disfactory" target="_blank" rel="noopener noreferrer" class="project-gh">GitHub ↗</a></div>
-            </a>
-          </div>
-        </div>
-      </div>
-
-      <div class="projects-cta">
-        <p>有推薦的專案嗎？歡迎透過 <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a> 提交推薦！</p>
-      </div>
-
       <!-- Back to Home -->
       <div class="back-to-home">
-        <a href="/" class="btn-primary"> ← 返回首頁 </a>
+        <a href="/" class="btn-primary">
+          ← 返回首頁
+        </a>
       </div>
     </div>
   </main>
@@ -1306,7 +566,7 @@ const mindmapData = JSON.stringify({
   .resources-page {
     min-height: 100vh;
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
-    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
   }
 
   .container {
@@ -1394,14 +654,12 @@ const mindmapData = JSON.stringify({
   }
 
   /* Section Styling */
-  .core-header,
-  .more-header {
+  .core-header, .more-header {
     margin: 4rem 0 2rem;
     padding-bottom: 1rem;
     border-bottom: 2px solid #e2e8f0;
   }
-  .core-header h2,
-  .more-header h2 {
+  .core-header h2, .more-header h2 {
     font-size: 2rem;
     color: #065f46;
     margin-bottom: 0.5rem;
@@ -1418,7 +676,7 @@ const mindmapData = JSON.stringify({
   }
 
   .resource-section h2 {
-    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+    font-family: 'Noto Serif TC', serif;
     font-size: 2.2rem;
     font-weight: 700;
     color: #065f46;
@@ -1579,102 +837,11 @@ const mindmapData = JSON.stringify({
       font-size: 0.8rem;
     }
   }
-
-  /* Projects Section */
-  .projects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 2rem;
-    margin-bottom: 2rem;
-  }
-
-  .project-cat-title {
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: #1e293b;
-    margin-bottom: 1rem;
-  }
-
-  .project-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-
-  .project-card {
-    display: block;
-    background: white;
-    border-radius: 12px;
-    padding: 1.25rem;
-    box-shadow: 0 2px 8px -2px rgba(0,0,0,0.08);
-    border: 1px solid #e5e7eb;
-    transition: all 0.2s;
-    text-decoration: none;
-    color: inherit;
-    margin-bottom: 0.75rem;
-  }
-
-  .project-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 20px -4px rgba(0,0,0,0.1);
-    border-color: #c4b5fd;
-  }
-
-  .project-name {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: #1e293b;
-    margin-bottom: 0.4rem;
-  }
-
-  .project-desc {
-    font-size: 0.9rem;
-    color: #64748b;
-    line-height: 1.5;
-    margin-bottom: 0.6rem;
-  }
-
-  .project-meta {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    font-size: 0.8rem;
-  }
-
-  .project-tech {
-    background: #f3f4f6;
-    color: #6b7280;
-    padding: 0.2rem 0.6rem;
-    border-radius: 6px;
-  }
-
-  .project-gh {
-    color: #7c3aed !important;
-    text-decoration: none;
-    font-weight: 600;
-  }
-
-  .project-gh:hover {
-    text-decoration: underline;
-  }
-
-  .projects-cta {
-    text-align: center;
-    margin-bottom: 3rem;
-    padding: 1rem;
-    color: #64748b;
-    font-size: 0.95rem;
-  }
-
-  .projects-cta a {
-    color: #7c3aed;
-    text-decoration: underline;
-  }
 </style>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
 <script is:inline define:vars={{ mindmapData }}>
-  document.addEventListener('DOMContentLoaded', function () {
+  document.addEventListener('DOMContentLoaded', function() {
     const container = document.getElementById('resources-graph');
     if (!container) return;
 
@@ -1683,7 +850,7 @@ const mindmapData = JSON.stringify({
     // Build hierarchy from flat data
     const categories = [];
     const catMap = {};
-    data.nodes.forEach((n) => {
+    data.nodes.forEach(n => {
       if (n.group === 'center') return;
       if (n.size > 10) {
         const cat = { ...n, children: [] };
@@ -1691,7 +858,7 @@ const mindmapData = JSON.stringify({
         categories.push(cat);
       }
     });
-    data.nodes.forEach((n) => {
+    data.nodes.forEach(n => {
       if (n.size <= 10 && n.group !== 'center') {
         const parentId = n.id.split('_')[0];
         if (catMap[parentId]) catMap[parentId].children.push(n);
@@ -1719,31 +886,23 @@ const mindmapData = JSON.stringify({
     const leftH = d3.hierarchy(leftRoot);
     treeLayout(leftH);
     // Mirror: negate y for left side
-    leftH.each((d) => {
-      d.y = -d.y;
-    });
+    leftH.each(d => { d.y = -d.y; });
 
     // Collect all nodes and links (skip the fake roots)
     const allNodes = [];
     const allLinks = [];
 
     // Root node (center)
-    const rootNode = {
-      x: 0,
-      y: 0,
-      depth: 0,
-      data: { id: 'taiwan', label: '🇹🇼 台灣資源', color: '#065f46' },
-      _side: 'center',
-    };
+    const rootNode = { x: 0, y: 0, depth: 0, data: { id: 'taiwan', label: '台灣資源', color: '#065f46' }, _side: 'center' };
     allNodes.push(rootNode);
 
     // Right side
-    rightH.each((d) => {
+    rightH.each(d => {
       if (d.depth === 0) return; // skip fake root
       d._side = 'right';
       allNodes.push(d);
     });
-    rightH.links().forEach((link) => {
+    rightH.links().forEach(link => {
       if (link.source.depth === 0) {
         // Connect to center root instead
         allLinks.push({ source: rootNode, target: link.target });
@@ -1753,12 +912,12 @@ const mindmapData = JSON.stringify({
     });
 
     // Left side
-    leftH.each((d) => {
+    leftH.each(d => {
       if (d.depth === 0) return;
       d._side = 'left';
       allNodes.push(d);
     });
-    leftH.links().forEach((link) => {
+    leftH.links().forEach(link => {
       if (link.source.depth === 0) {
         allLinks.push({ source: rootNode, target: link.target });
       } else {
@@ -1767,13 +926,9 @@ const mindmapData = JSON.stringify({
     });
 
     // Compute bounding box
-    let x0 = -100,
-      x1 = 100,
-      y0 = -500,
-      y1 = 500;
-    allNodes.forEach((d) => {
-      const nx = d.x || 0,
-        ny = d.y || 0;
+    let x0 = -100, x1 = 100, y0 = -500, y1 = 500;
+    allNodes.forEach(d => {
+      const nx = d.x || 0, ny = d.y || 0;
       if (nx < x0) x0 = nx;
       if (nx > x1) x1 = nx;
       if (ny < y0) y0 = ny;
@@ -1782,35 +937,23 @@ const mindmapData = JSON.stringify({
 
     const width = container.clientWidth;
     const padding = 120;
-    const svgW = y1 - y0 + padding * 2;
-    const svgH = Math.max(700, x1 - x0 + padding * 2);
+    const svgW = (y1 - y0) + padding * 2;
+    const svgH = Math.max(700, (x1 - x0) + padding * 2);
     const centerX = width / 2;
     const centerY = svgH / 2;
 
-    const svg = d3
-      .select('#resources-graph')
+    const svg = d3.select('#resources-graph')
       .append('svg')
       .attr('width', width)
       .attr('height', svgH);
 
-    const g = svg
-      .append('g')
+    const g = svg.append('g')
       .attr('transform', `translate(${centerX}, ${centerY})`);
 
     // Zoom + pan
-    svg
-      .call(
-        d3
-          .zoom()
-          .scaleExtent([0.3, 2.5])
-          .on('zoom', (event) => {
-            g.attr('transform', event.transform);
-          }),
-      )
-      .call(
-        d3.zoom().transform,
-        d3.zoomIdentity.translate(centerX, centerY).scale(0.9),
-      );
+    svg.call(d3.zoom().scaleExtent([0.3, 2.5]).on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    })).call(d3.zoom().transform, d3.zoomIdentity.translate(centerX, centerY).scale(0.9));
 
     // Links — smooth horizontal bezier curves
     g.append('g')
@@ -1818,71 +961,60 @@ const mindmapData = JSON.stringify({
       .selectAll('path')
       .data(allLinks)
       .join('path')
-      .attr('d', (d) => {
-        const sy = d.source.y || 0,
-          sx = d.source.x || 0;
-        const ty = d.target.y || 0,
-          tx = d.target.x || 0;
+      .attr('d', d => {
+        const sy = d.source.y || 0, sx = d.source.x || 0;
+        const ty = d.target.y || 0, tx = d.target.x || 0;
 
         const my = (sy + ty) / 2;
         return `M${sy},${sx} C${my},${sx} ${my},${tx} ${ty},${tx}`;
       })
-      .attr('stroke', (d) => d.target.data.color || '#94a3b8')
-      .attr('stroke-width', (d) => ((d.target.depth || 0) <= 1 ? 2 : 1.2))
+      .attr('stroke', d => d.target.data.color || '#94a3b8')
+      .attr('stroke-width', d => (d.target.depth || 0) <= 1 ? 2 : 1.2)
       .attr('stroke-opacity', 0.5);
 
     // Nodes
-    const nodeG = g
-      .append('g')
+    const nodeG = g.append('g')
       .selectAll('g')
       .data(allNodes)
       .join('g')
-      .attr('transform', (d) => `translate(${d.y || 0},${d.x || 0})`)
-      .attr('cursor', (d) => (d.data.url ? 'pointer' : 'default'));
+      .attr('transform', d => `translate(${d.y || 0},${d.x || 0})`)
+      .attr('cursor', d => d.data.url ? 'pointer' : 'default');
 
-    nodeG
-      .append('circle')
-      .attr('r', (d) => {
+    nodeG.append('circle')
+      .attr('r', d => {
         if ((d.depth || 0) === 0) return 10;
         if ((d.depth || 0) === 1) return 6;
         return 3.5;
       })
-      .attr('fill', (d) => d.data.color || '#94a3b8')
+      .attr('fill', d => d.data.color || '#94a3b8')
       .attr('stroke', '#fff')
       .attr('stroke-width', 1.5);
 
     // Labels — horizontal, positioned based on side
-    nodeG
-      .append('text')
+    nodeG.append('text')
       .attr('dy', '0.32em')
-      .attr('x', (d) => {
+      .attr('x', d => {
         if ((d.depth || 0) === 0) return 0; // root: centered above
         if (d._side === 'left') {
           return d.children ? 10 : -8; // left side: leaves go left
         }
         return d.children ? -10 : 8; // right side: leaves go right
       })
-      .attr('text-anchor', (d) => {
+      .attr('text-anchor', d => {
         if ((d.depth || 0) === 0) return 'middle';
         if (d._side === 'left') {
           return d.children ? 'start' : 'end';
         }
         return d.children ? 'end' : 'start';
       })
-      .attr('font-size', (d) => {
+      .attr('font-size', d => {
         if ((d.depth || 0) === 0) return '14px';
         if ((d.depth || 0) === 1) return '12px';
         return '10px';
       })
-      .attr('font-weight', (d) => ((d.depth || 0) <= 1 ? '700' : '400'))
-      .attr('fill', (d) =>
-        (d.depth || 0) === 0
-          ? '#065f46'
-          : (d.depth || 0) === 1
-            ? '#1a1a1a'
-            : '#555',
-      )
-      .text((d) => d.data.label || d.data.name || '');
+      .attr('font-weight', d => (d.depth || 0) <= 1 ? '700' : '400')
+      .attr('fill', d => (d.depth || 0) === 0 ? '#065f46' : (d.depth || 0) === 1 ? '#1a1a1a' : '#555')
+      .text(d => d.data.label || d.data.name || '');
 
     // Click to navigate
     nodeG.on('click', (event, d) => {
@@ -1892,41 +1024,21 @@ const mindmapData = JSON.stringify({
     });
 
     // Hover effects
-    nodeG
-      .on('mouseover', function () {
-        d3.select(this)
-          .select('circle')
-          .transition()
-          .duration(150)
-          .attr('stroke', '#3b82f6')
-          .attr('stroke-width', 3);
-        d3.select(this)
-          .select('text')
-          .transition()
-          .duration(150)
-          .attr('fill', '#065f46')
-          .attr('font-weight', '700');
-      })
-      .on('mouseout', function (event, d) {
-        d3.select(this)
-          .select('circle')
-          .transition()
-          .duration(150)
-          .attr('stroke', '#fff')
-          .attr('stroke-width', 1.5);
-        d3.select(this)
-          .select('text')
-          .transition()
-          .duration(150)
-          .attr(
-            'fill',
-            (d.depth || 0) === 0
-              ? '#065f46'
-              : (d.depth || 0) === 1
-                ? '#1a1a1a'
-                : '#555',
-          )
-          .attr('font-weight', (d.depth || 0) <= 1 ? '700' : '400');
-      });
+    nodeG.on('mouseover', function() {
+      d3.select(this).select('circle')
+        .transition().duration(150)
+        .attr('stroke', '#3b82f6').attr('stroke-width', 3);
+      d3.select(this).select('text')
+        .transition().duration(150)
+        .attr('fill', '#065f46').attr('font-weight', '700');
+    }).on('mouseout', function(event, d) {
+      d3.select(this).select('circle')
+        .transition().duration(150)
+        .attr('stroke', '#fff').attr('stroke-width', 1.5);
+      d3.select(this).select('text')
+        .transition().duration(150)
+        .attr('fill', (d.depth || 0) === 0 ? '#065f46' : (d.depth || 0) === 1 ? '#1a1a1a' : '#555')
+        .attr('font-weight', (d.depth || 0) <= 1 ? '700' : '400');
+    });
   });
 </script>

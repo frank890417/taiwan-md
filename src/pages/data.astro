@@ -1,5 +1,1502 @@
 ---
-import DataTemplate from '../templates/data.template.astro';
+import Layout from '../layouts/Layout.astro';
+
+// 台灣前50大企業（完整數據從 companies.astro 複製）
+const companies = [
+  { name: '台積電 TSMC', sector: '半導體', marketCap: 267000, revenue: 29100, employees: 76000, founded: 1987, ticker: '2330' },
+  { name: '鴻海 Foxconn', sector: '電子代工', marketCap: 22000, revenue: 67800, employees: 870000, founded: 1974, ticker: '2317' },
+  { name: '聯發科 MediaTek', sector: '半導體', marketCap: 21000, revenue: 6130, employees: 20000, founded: 1997, ticker: '2454' },
+  { name: '台達電 Delta', sector: '電子零組件', marketCap: 16000, revenue: 4520, employees: 80000, founded: 1971, ticker: '2308' },
+  { name: '日月光 ASE', sector: '半導體', marketCap: 9500, revenue: 6580, employees: 98000, founded: 1984, ticker: '3711' },
+  { name: '廣達 Quanta', sector: '電子代工', marketCap: 9200, revenue: 14800, employees: 90000, founded: 1988, ticker: '2382' },
+  { name: '國泰金控', sector: '金融', marketCap: 8600, revenue: 11500, employees: 55000, founded: 2001, ticker: '2882' },
+  { name: '富邦金控', sector: '金融', marketCap: 8500, revenue: 10800, employees: 48000, founded: 2001, ticker: '2881' },
+  { name: '中華電信', sector: '電信', marketCap: 8200, revenue: 2390, employees: 23000, founded: 1996, ticker: '2412' },
+  { name: '聯電 UMC', sector: '半導體', marketCap: 6000, revenue: 2450, employees: 20000, founded: 1980, ticker: '2303' },
+  { name: '統一企業', sector: '食品', marketCap: 5800, revenue: 5250, employees: 30000, founded: 1967, ticker: '1216' },
+  { name: '長榮海運', sector: '航運', marketCap: 5500, revenue: 5620, employees: 10000, founded: 1968, ticker: '2603' },
+  { name: '華碩 ASUS', sector: '電腦品牌', marketCap: 5200, revenue: 5360, employees: 17000, founded: 1989, ticker: '2357' },
+  { name: '和碩 Pegatron', sector: '電子代工', marketCap: 4600, revenue: 14200, employees: 170000, founded: 2008, ticker: '4938' },
+  { name: '台塑化', sector: '石化', marketCap: 4400, revenue: 8120, employees: 6000, founded: 1992, ticker: '6505' },
+  { name: '兆豐金控', sector: '金融', marketCap: 4200, revenue: 2190, employees: 10000, founded: 2002, ticker: '2886' },
+  { name: '中鋼', sector: '鋼鐵', marketCap: 4100, revenue: 4350, employees: 10300, founded: 1971, ticker: '2002' },
+  { name: '台灣大哥大', sector: '電信', marketCap: 4000, revenue: 1580, employees: 7000, founded: 1997, ticker: '3045' },
+  { name: '瑞昱 Realtek', sector: '半導體', marketCap: 3900, revenue: 1580, employees: 5000, founded: 1987, ticker: '2379' },
+  { name: '研華 Advantech', sector: '工業電腦', marketCap: 3800, revenue: 680, employees: 9000, founded: 1983, ticker: '2395' },
+  { name: '台塑', sector: '石化', marketCap: 3600, revenue: 5080, employees: 8500, founded: 1954, ticker: '1301' },
+  { name: '緯創 Wistron', sector: '電子代工', marketCap: 3500, revenue: 10600, employees: 77000, founded: 2001, ticker: '3231' },
+  { name: '南亞塑膠', sector: '石化', marketCap: 3400, revenue: 3650, employees: 13000, founded: 1958, ticker: '1303' },
+  { name: '仁寶 Compal', sector: '電子代工', marketCap: 3300, revenue: 11900, employees: 77000, founded: 1984, ticker: '2324' },
+  { name: '大立光 Largan', sector: '光學', marketCap: 3200, revenue: 680, employees: 8000, founded: 1987, ticker: '3008' },
+  { name: '宏碁 Acer', sector: '電腦品牌', marketCap: 3100, revenue: 3150, employees: 7000, founded: 1976, ticker: '2353' },
+  { name: '玉山金控', sector: '金融', marketCap: 3000, revenue: 1190, employees: 13000, founded: 2002, ticker: '2884' },
+  { name: '台泥', sector: '水泥', marketCap: 2900, revenue: 1350, employees: 16000, founded: 1946, ticker: '1101' },
+  { name: '遠東新世紀', sector: '紡織/化纖', marketCap: 2800, revenue: 2950, employees: 35000, founded: 1949, ticker: '1402' },
+  { name: '中信金控', sector: '金融', marketCap: 2700, revenue: 5800, employees: 28000, founded: 2002, ticker: '2891' },
+  { name: '元大金控', sector: '金融', marketCap: 2600, revenue: 2100, employees: 11000, founded: 2002, ticker: '2885' },
+  { name: '巨大 Giant', sector: '自行車', marketCap: 2500, revenue: 960, employees: 12000, founded: 1972, ticker: '9921' },
+  { name: '第一金控', sector: '金融', marketCap: 2400, revenue: 1450, employees: 10000, founded: 2003, ticker: '2892' },
+  { name: '台化', sector: '石化', marketCap: 2300, revenue: 3280, employees: 5500, founded: 1965, ticker: '1326' },
+  { name: '遠傳電信', sector: '電信', marketCap: 2200, revenue: 1080, employees: 6000, founded: 1997, ticker: '4904' },
+  { name: '華南金控', sector: '金融', marketCap: 2100, revenue: 1350, employees: 12000, founded: 2001, ticker: '2880' },
+  { name: '光寶科技', sector: '電子零組件', marketCap: 2000, revenue: 2170, employees: 40000, founded: 1975, ticker: '2301' },
+  { name: '合庫金控', sector: '金融', marketCap: 1950, revenue: 1280, employees: 10000, founded: 2011, ticker: '5880' },
+  { name: '可成科技', sector: '機殼', marketCap: 1900, revenue: 850, employees: 6000, founded: 1984, ticker: '2474' },
+  { name: '台灣高鐵', sector: '交通', marketCap: 1850, revenue: 580, employees: 7000, founded: 1998, ticker: '2633' },
+  { name: '宏達電 HTC', sector: '消費電子', marketCap: 1800, revenue: 480, employees: 5000, founded: 1997, ticker: '2498' },
+  { name: '長春石化', sector: '石化', marketCap: 1750, revenue: 1200, employees: 7000, founded: 1949, ticker: '未上市' },
+  { name: '奇美實業', sector: '石化/面板', marketCap: 1700, revenue: 1100, employees: 6000, founded: 1960, ticker: '未上市' },
+  { name: '緯穎科技', sector: '伺服器', marketCap: 1650, revenue: 2850, employees: 2000, founded: 2012, ticker: '6669' },
+  { name: '力積電', sector: '半導體', marketCap: 1600, revenue: 620, employees: 8000, founded: 1994, ticker: '6770' },
+  { name: '欣興電子', sector: 'PCB', marketCap: 1550, revenue: 1350, employees: 30000, founded: 1990, ticker: '3037' },
+  { name: '矽力-KY', sector: '半導體', marketCap: 1500, revenue: 620, employees: 3000, founded: 2008, ticker: '6415' },
+  { name: '英業達', sector: '電子代工', marketCap: 1450, revenue: 5890, employees: 50000, founded: 1975, ticker: '2356' },
+  { name: '上銀科技', sector: '精密機械', marketCap: 1400, revenue: 320, employees: 7000, founded: 1989, ticker: '2049' },
+  { name: '聯詠科技', sector: '半導體', marketCap: 1350, revenue: 1120, employees: 3000, founded: 1997, ticker: '3034' },
+];
+
+// 產業顏色配置
+const sectorColors: Record<string, string> = {
+  '半導體': '#3b82f6',
+  '電子代工': '#f59e0b',
+  '金融': '#10b981',
+  '石化': '#8b5cf6',
+  '電子零組件': '#06b6d4',
+  '電信': '#ec4899',
+  '食品': '#f97316',
+  '航運': '#0ea5e9',
+  '電腦品牌': '#6366f1',
+  '鋼鐵': '#64748b',
+  '水泥': '#a78bfa',
+  '光學': '#14b8a6',
+  '自行車': '#22c55e',
+  '紡織/化纖': '#d946ef',
+  '交通': '#0891b2',
+  '消費電子': '#e11d48',
+  '工業電腦': '#2563eb',
+  '機殼': '#7c3aed',
+  '石化/面板': '#9333ea',
+  '伺服器': '#0284c7',
+  'PCB': '#059669',
+  '精密機械': '#b45309',
+};
+
+const sectors = [...new Set(companies.map(c => c.sector))];
+
+// 開放資料分類
+const dataCategories = [
+  {
+    icon: 'data',
+    title: '政府開放資料',
+    description: '政府機關釋出的結構化資料集與統計平台',
+    items: [
+      {
+        name: '政府資料開放平臺',
+        url: 'https://data.gov.tw/',
+        desc: '政府開放資料統一入口，上萬筆資料集',
+      },
+      {
+        name: '主計總處統計資料庫',
+        url: 'https://statdb.dgbas.gov.tw/',
+        desc: '人口、經濟、物價等核心國家統計',
+      },
+      {
+        name: '中選會選舉資料庫',
+        url: 'https://db.cec.gov.tw/',
+        desc: '歷屆選舉結果與投票數據',
+      },
+      {
+        name: '全國法規資料庫',
+        url: 'https://law.moj.gov.tw/',
+        desc: '所有法律、命令、判例全文檢索',
+      },
+      {
+        name: '空氣品質監測網',
+        url: 'https://airtw.moenv.gov.tw/',
+        desc: '即時 AQI、PM2.5 監測數據',
+      },
+    ],
+  },
+  {
+    icon: 'map',
+    title: '互動地圖與視覺化',
+    description: '即時監測、地理圖資與環境視覺化工具',
+    items: [
+      {
+        name: '台灣海纜動態地圖',
+        url: 'https://smc.peering.tw/',
+        desc: '民間開發的海底電纜即時監測，公民科技典範',
+      },
+      {
+        name: '國土測繪圖資服務雲',
+        url: 'https://maps.nlsc.gov.tw/',
+        desc: '台灣地圖圖資、航照、地籍',
+      },
+      {
+        name: '地震測報中心',
+        url: 'https://scweb.cwa.gov.tw/',
+        desc: '即時地震資訊與歷史紀錄',
+      },
+      {
+        name: '水利署防災資訊網',
+        url: 'https://fhy.wra.gov.tw/',
+        desc: '即時水情、河川水位、水庫蓄水量',
+      },
+      {
+        name: '環境即時通',
+        url: 'https://env.gov.tw/',
+        desc: '空品、紫外線、水質即時監測',
+      },
+    ],
+  },
+  {
+    icon: 'ai',
+    title: '公民科技 (Civic Tech)',
+    description: '開源社群、事實查核與數位民主工具',
+    items: [
+      {
+        name: 'g0v 零時政府',
+        url: 'https://g0v.tw/',
+        desc: '台灣最大的開源公民科技社群',
+      },
+      {
+        name: 'KKTIX 公民科技活動',
+        url: 'https://g0v-jothon.kktix.cc/',
+        desc: 'g0v 黑客松、開放資料社群活動入口',
+      },
+      {
+        name: 'Cofacts 真的假的',
+        url: 'https://cofacts.tw/',
+        desc: '群眾協作的事實查核機器人',
+      },
+      {
+        name: 'vTaiwan',
+        url: 'https://vtaiwan.tw/',
+        desc: '數位民主討論平台，法規政策公民審議',
+      },
+      {
+        name: 'JOIN 公共政策參與平台',
+        url: 'https://join.gov.tw/',
+        desc: '政府提案、連署、政策討論',
+      },
+    ],
+  },
+  {
+    icon: 'news',
+    title: '資料新聞與查核',
+    description: '深度調查報導、事實查核與資料新聞媒體',
+    items: [
+      {
+        name: '報導者',
+        url: 'https://www.twreporter.org/',
+        desc: '台灣非營利深度調查媒體',
+      },
+      {
+        name: '台灣事實查核中心',
+        url: 'https://tfc-taiwan.org.tw/',
+        desc: 'IFCN 認證事實查核機構',
+      },
+      {
+        name: 'READr 讀+',
+        url: 'https://www.readr.tw/',
+        desc: '資料新聞與開放資料視覺化報導',
+      },
+      {
+        name: '典藏 ARTouch',
+        url: 'https://artouch.com/',
+        desc: '台灣藝術新聞與深度評論媒體',
+      },
+    ],
+  },
+  {
+    icon: 'research',
+    title: '學術與研究',
+    description: '數位典藏、生態資料與 AI 語料庫',
+    items: [
+      {
+        name: '中研院開放博物館',
+        url: 'https://openmuseum.tw/',
+        desc: '數位典藏與線上策展',
+      },
+      {
+        name: '國家文化記憶庫',
+        url: 'https://tcmb.culture.tw/',
+        desc: '台灣文化記憶數位保存',
+      },
+      {
+        name: '台灣生物多樣性網絡',
+        url: 'https://tbn.biodiv.tw/',
+        desc: '物種分布、生態觀測',
+      },
+      {
+        name: '臺灣主權 AI 訓練語料庫 TAIC',
+        url: 'https://huggingface.co/TAIDE',
+        desc: '台灣本土 AI 訓練資料集',
+      },
+    ],
+  },
+];
 ---
 
-<DataTemplate />
+<Layout
+  title="📊 數據台灣 — Taiwan.md"
+  description="用數字認識一座島嶼：企業版圖、開放資料、正確的台灣輪廓與互動視覺化"
+>
+  <main class="data-hub">
+    <!-- 第一幕：Hero -->
+    <section class="hero">
+      <h1 class="hero-title">📊 數據台灣</h1>
+      <p class="hero-subtitle">用數字認識一座島嶼</p>
+      <p class="hero-desc">
+        這裡是台灣數據的策展空間。從企業版圖到開放資料，從正確的台灣輪廓到數位民主實驗——
+        我們用互動視覺化和開放資源，讓數字說出台灣的故事。
+      </p>
+    </section>
+
+    <!-- 第二幕：🏢 企業版圖 -->
+    <section class="companies-section">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+      
+      <div class="story-intro">
+        <h2 class="section-title">🏢 企業版圖</h2>
+        <div class="story-text">
+          <p>一座島嶼如何撐起全球供應鏈？</p>
+          <p>
+            從台積電的 2,670 億市值到鴻海的 87 萬員工，台灣前 50 大企業構成了這座島嶼的經濟脊椎。
+            12 家半導體企業印證「矽盾」之名，9 家金控撐起金融穩定，代工巨頭串聯起全球數位生活。
+            用泡泡圖探索台灣如何以 2% 全球人口，創造 4% 全球 GDP。
+          </p>
+        </div>
+      </div>
+
+      <!-- 企業泡泡圖控制項 -->
+      <div class="bubble-controls">
+        <div class="size-toggle">
+          <label>泡泡大小：</label>
+          <button class="toggle-btn active" data-mode="marketCap">市值</button>
+          <button class="toggle-btn" data-mode="revenue">營收</button>
+          <button class="toggle-btn" data-mode="employees">員工數</button>
+        </div>
+        <div class="sector-filters">
+          <button class="sector-btn active" data-sector="all">全部</button>
+          {sectors.slice(0, 8).map(s => (
+            <button
+              class="sector-btn"
+              data-sector={s}
+              style={`--sector-color: ${sectorColors[s] || '#888'}`}
+            >
+              <span class="sector-dot" style={`background: ${sectorColors[s] || '#888'}`}></span>
+              {s}
+            </button>
+          ))}
+        </div>
+      </div>
+
+      <!-- 泡泡圖容器 -->
+      <div id="bubble-chart"></div>
+
+      <!-- 關鍵洞察 -->
+      <div class="insights">
+        <div class="insight-grid">
+          <div class="insight-card">
+            <div class="insight-number">39%</div>
+            <div class="insight-label">台積電佔台股總市值</div>
+            <div class="insight-detail">一家公司 ≈ 其餘千家上市公司的 2/3</div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">72%</div>
+            <div class="insight-label">前 50 大佔台股總市值</div>
+            <div class="insight-detail">台灣股市高度集中於大型企業</div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">12 家</div>
+            <div class="insight-label">半導體企業入榜</div>
+            <div class="insight-detail">印證「矽盾」—— 半導體是台灣國防</div>
+          </div>
+          <div class="insight-card">
+            <div class="insight-number">9 家</div>
+            <div class="insight-label">金融業入榜前 50</div>
+            <div class="insight-detail">金控整併後的穩定力量</div>
+          </div>
+        </div>
+        <div class="explore-more">
+          <a href="/economy" class="explore-link">查看完整排名 →</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 第三幕：🗺️ 台灣的形狀 -->
+    <section class="taiwan-shape-section">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="story-intro">
+        <h2 class="section-title">🗺️ 台灣的形狀</h2>
+        <div class="story-text">
+          <p>AI 畫的台灣都是錯的。這是正確版本。</p>
+          <p>
+            大多數 AI 圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。
+            結果就是形狀扭曲、比例失真、甚至跟其他島嶼搞混。
+            Taiwan.md 提供正確、開源、可自由使用的台灣 SVG 輪廓圖，
+            讓每個需要「台灣長什麼樣子」的場景都有標準答案。
+          </p>
+        </div>
+      </div>
+
+      <!-- SVG 卡片 -->
+      <div class="svg-grid">
+        <div class="svg-card">
+          <div class="svg-preview">
+            <img src="/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan Icon" />
+          </div>
+          <div class="svg-info">
+            <h3>taiwan-icon.svg</h3>
+            <p class="svg-desc">台灣輪廓 Icon — 適合 icon、logo、小尺寸</p>
+            <p class="svg-meta">Wikimedia Commons · CC</p>
+            <div class="svg-actions">
+              <a
+                href="/assets/svg/taiwan-icon-wiki.svg"
+                download
+                class="btn btn-primary">下載 SVG</a
+              >
+              <button
+                class="btn btn-outline"
+                onclick="copySVG('taiwan-icon-wiki.svg', this)"
+                >複製代碼</button
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="svg-card">
+          <div class="svg-preview">
+            <img src="/assets/svg/taiwan-simplemaps.svg" alt="Taiwan SimpleMaps" />
+          </div>
+          <div class="svg-info">
+            <h3>taiwan-simplemaps.svg</h3>
+            <p class="svg-desc">SimpleMaps 版 — 乾淨向量，適合網頁嵌入</p>
+            <p class="svg-meta">SimpleMaps · 5 KB</p>
+            <div class="svg-actions">
+              <a
+                href="/assets/svg/taiwan-simplemaps.svg"
+                download
+                class="btn btn-primary">下載 SVG</a
+              >
+              <button
+                class="btn btn-outline"
+                onclick="copySVG('taiwan-simplemaps.svg', this)"
+                >複製代碼</button
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="svg-card">
+          <div class="svg-preview">
+            <img src="/assets/svg/taiwan-location-map.svg" alt="Taiwan Location Map" />
+          </div>
+          <div class="svg-info">
+            <h3>taiwan-location-map.svg</h3>
+            <p class="svg-desc">地理定位圖 — 含經緯度、城市標記</p>
+            <p class="svg-meta">Wikimedia Commons · CC</p>
+            <div class="svg-actions">
+              <a
+                href="/assets/svg/taiwan-location-map.svg"
+                download
+                class="btn btn-primary">下載 SVG</a
+              >
+              <button
+                class="btn btn-outline"
+                onclick="copySVG('taiwan-location-map.svg', this)"
+                >複製代碼</button
+              >
+            </div>
+          </div>
+        </div>
+
+        <div class="svg-card">
+          <div class="svg-preview">
+            <img src="/assets/svg/taiwan-political-division.svg" alt="Taiwan Political Division" />
+          </div>
+          <div class="svg-info">
+            <h3>taiwan-political-division.svg</h3>
+            <p class="svg-desc">行政區劃圖 — 縣市分區、完整邊界</p>
+            <p class="svg-meta">Wikimedia Commons · CC</p>
+            <div class="svg-actions">
+              <a
+                href="/assets/svg/taiwan-political-division.svg"
+                download
+                class="btn btn-primary">下載 SVG</a
+              >
+              <button
+                class="btn btn-outline"
+                onclick="copySVG('taiwan-political-division.svg', this)"
+                >複製代碼</button
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 使用方式 -->
+      <div class="usage-example">
+        <h3>📝 使用方式</h3>
+        <div class="code-block">
+          <pre><code>&lt;!-- 直接嵌入 --&gt;
+&lt;img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200"&gt;
+
+&lt;!-- 作為 CSS 背景 --&gt;
+background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
+
+&lt;!-- 在 Markdown 中引用 --&gt;
+![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)</code></pre>
+        </div>
+        <p class="license-note">
+          所有 SVG 檔案以 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> 授權釋出。
+          歡迎自由使用、修改、商用，只需標注來源。
+        </p>
+      </div>
+    </section>
+
+    <!-- 第四幕：📡 開放資料與數位民主 -->
+    <section class="opendata-section">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="story-intro">
+        <h2 class="section-title">📡 開放資料與數位民主</h2>
+        <div class="story-text">
+          <p>從電子化到開放化：台灣數位治理的三十年進化</p>
+          <p>
+            1997 年「電子化政府計畫」啟動，2013 年 data.gov.tw 上線，台灣從電子化政府跨入開放政府時代。
+            2015-2017 年三度蟬聯「全球開放資料指標」第一名。g0v 零時政府孵化口罩地圖、Cofacts 事實查核機器人。
+            唐鳳的數位政委實驗，讓台灣成為全球數位民主的實驗場。
+          </p>
+          <p>
+            當公民有能力理解數據、政府願意釋出數據，民主就不只是四年一次的投票，而是每天都在發生的協作。
+          </p>
+        </div>
+      </div>
+
+      <!-- 開放資料分類 -->
+      <div class="data-categories">
+        {
+          dataCategories.map((cat) => (
+            <div class="data-category-card">
+              <div class="category-header">
+                <span class="category-icon">{cat.icon}</span>
+                <div>
+                  <h3 class="category-title">{cat.title}</h3>
+                  <p class="category-desc">{cat.description}</p>
+                </div>
+              </div>
+              <ul class="item-list">
+                {cat.items.map((item) => (
+                  <li class="item">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="item-link"
+                    >
+                      {item.name}
+                    </a>
+                    <span class="item-desc">— {item.desc}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <!-- 第五幕：🕸️ 知識圖譜預覽 -->
+    <section class="knowledge-graph-section">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <div class="story-intro">
+        <h2 class="section-title">🕸️ 知識圖譜</h2>
+        <div class="story-text">
+          <p>taiwan.md 的 200+ 篇文章如何互相連結？</p>
+          <p>
+            從歷史到地理，從文化到科技，每一篇文章都是台灣故事網絡中的一個節點。
+            透過標籤連結與 Hub 引用，我們把分散的知識織成一張活的圖譜。
+            點擊進入，探索台灣知識的深層結構。
+          </p>
+        </div>
+      </div>
+
+      <div class="graph-cta">
+        <a href="/graph" class="graph-btn">
+          <span class="graph-icon">🕸️</span>
+          <div class="graph-text">
+            <span class="graph-title">探索知識圖譜</span>
+            <span class="graph-desc">互動式文章連結網絡</span>
+          </div>
+          <span class="graph-arrow">→</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="data-footer">
+      <div class="section-divider">
+        <div class="divider-line"></div>
+      </div>
+
+      <h3 class="footer-title">探索更多</h3>
+      <div class="footer-links">
+        <a href="/economy" class="footer-link">
+          <span class="footer-icon">📈</span>
+          <div class="footer-text">
+            <span class="footer-name">經濟</span>
+            <span class="footer-desc">經濟類文章與深度分析</span>
+          </div>
+        </a>
+        <a href="/graph" class="footer-link">
+          <span class="footer-icon">🕸️</span>
+          <div class="footer-text">
+            <span class="footer-name">知識圖譜</span>
+            <span class="footer-desc">文章連結的視覺化網絡</span>
+          </div>
+        </a>
+        <a href="/contribute" class="footer-link">
+          <span class="footer-icon">✋</span>
+          <div class="footer-text">
+            <span class="footer-name">貢獻指南</span>
+            <span class="footer-desc">如何參與 Taiwan.md 的建設</span>
+          </div>
+        </a>
+      </div>
+    </footer>
+  </main>
+
+  <!-- D3 泡泡圖腳本 -->
+  <script define:vars={{ companies, sectorColors }}>
+    const data = companies;
+    const colors = sectorColors;
+
+    // 載入 D3
+    const script = document.createElement('script');
+    script.src = 'https://d3js.org/d3.v7.min.js';
+    script.onload = () => initBubbleChart(data, colors);
+    document.head.appendChild(script);
+
+    function initBubbleChart(data, colors) {
+      const container = document.getElementById('bubble-chart');
+      const width = container.clientWidth;
+      const height = Math.max(500, window.innerHeight * 0.5);
+
+      let currentMode = 'marketCap';
+      let currentSector = 'all';
+
+      const svg = d3
+        .select('#bubble-chart')
+        .append('svg')
+        .attr('width', width)
+        .attr('height', height)
+        .attr('viewBox', `0 0 ${width} ${height}`);
+
+      const tooltip = d3
+        .select('#bubble-chart')
+        .append('div')
+        .attr('class', 'tooltip')
+        .style('opacity', 0);
+
+      function getValue(d) {
+        return d[currentMode] || 0;
+      }
+
+      function getRadius(d) {
+        const val = getValue(d);
+        const maxVal = d3.max(data, getValue);
+        const minR = 12;
+        const maxR = Math.min(width, height) * 0.15;
+        return minR + (maxR - minR) * Math.sqrt(val / maxVal);
+      }
+
+      const simulation = d3
+        .forceSimulation(data)
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force('charge', d3.forceManyBody().strength(3))
+        .force(
+          'collision',
+          d3.forceCollide().radius((d) => getRadius(d) + 1.5).strength(0.8)
+        )
+        .force('x', d3.forceX(width / 2).strength(0.05))
+        .force('y', d3.forceY(height / 2).strength(0.05));
+
+      const nodes = svg
+        .selectAll('g.node')
+        .data(data)
+        .join('g')
+        .attr('class', 'node')
+        .call(
+          d3
+            .drag()
+            .on('start', (e, d) => {
+              if (!e.active) simulation.alphaTarget(0.3).restart();
+              d.fx = d.x;
+              d.fy = d.y;
+            })
+            .on('drag', (e, d) => {
+              d.fx = e.x;
+              d.fy = e.y;
+            })
+            .on('end', (e, d) => {
+              if (!e.active) simulation.alphaTarget(0);
+              d.fx = null;
+              d.fy = null;
+            })
+        );
+
+      const circles = nodes
+        .append('circle')
+        .attr('r', (d) => getRadius(d))
+        .attr('fill', (d) => colors[d.sector] || '#888')
+        .attr('fill-opacity', 0.8)
+        .attr('stroke', (d) => colors[d.sector] || '#888')
+        .attr('stroke-width', 2)
+        .attr('stroke-opacity', 0.3)
+        .style('cursor', 'grab');
+
+      const labels = nodes
+        .append('text')
+        .attr('text-anchor', 'middle')
+        .attr('dominant-baseline', 'central')
+        .attr('fill', '#fff')
+        .attr('font-weight', '600')
+        .attr('pointer-events', 'none')
+        .each(function (d) {
+          const r = getRadius(d);
+          const el = d3.select(this);
+          const shortName = d.name.split(' ')[0];
+          if (r > 40) {
+            el.append('tspan').attr('x', 0).attr('dy', '-0.3em').attr('font-size', `${Math.min(12, r / 4)}px`).text(shortName);
+            el.append('tspan').attr('x', 0).attr('dy', '1.2em').attr('font-size', `${Math.min(10, r / 5)}px`).attr('fill-opacity', 0.8).text(d.marketCap.toLocaleString() + ' 億');
+          } else if (r > 20) {
+            el.attr('font-size', `${Math.min(10, r / 3)}px`).text(shortName);
+          } else {
+            el.attr('font-size', '8px').text(shortName.slice(0, 2));
+          }
+        });
+
+      nodes
+        .on('mouseover', (e, d) => {
+          tooltip.transition().duration(200).style('opacity', 1);
+          tooltip.html(`
+            <strong>${d.name}</strong><br/>
+            <span style="color:${colors[d.sector]||'#888'}">● ${d.sector}</span><br/>
+            市值：${d.marketCap.toLocaleString()} 億 TWD<br/>
+            營收：${d.revenue.toLocaleString()} 億 TWD<br/>
+            員工：${d.employees.toLocaleString()} 人<br/>
+            成立：${d.founded} 年
+          `)
+            .style('left', e.pageX + 15 + 'px')
+            .style('top', e.pageY - 10 + 'px');
+          d3.select(e.currentTarget).select('circle').attr('fill-opacity', 1).attr('stroke-width', 3);
+        })
+        .on('mouseout', (e) => {
+          tooltip.transition().duration(300).style('opacity', 0);
+          d3.select(e.currentTarget).select('circle').attr('fill-opacity', 0.8).attr('stroke-width', 2);
+        });
+
+      simulation.on('tick', () => {
+        nodes.attr('transform', (d) => {
+          d.x = Math.max(getRadius(d), Math.min(width - getRadius(d), d.x));
+          d.y = Math.max(getRadius(d), Math.min(height - getRadius(d), d.y));
+          return `translate(${d.x},${d.y})`;
+        });
+      });
+
+      // Toggle 控制項
+      document.querySelectorAll('.toggle-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.toggle-btn').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentMode = btn.dataset.mode;
+          updateBubbles();
+        });
+      });
+
+      document.querySelectorAll('.sector-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.sector-btn').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentSector = btn.dataset.sector;
+          updateBubbles();
+        });
+      });
+
+      function updateBubbles() {
+        circles
+          .transition()
+          .duration(600)
+          .attr('r', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return getRadius(d);
+          })
+          .attr('fill-opacity', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return 0.8;
+          });
+
+        labels
+          .transition()
+          .duration(600)
+          .attr('fill-opacity', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return 1;
+          });
+
+        simulation
+          .force(
+            'collision',
+            d3.forceCollide().radius((d) => {
+              if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+              return getRadius(d) + 1.5;
+            }).strength(0.8)
+          )
+          .alpha(0.6)
+          .restart();
+      }
+    }
+  </script>
+
+  <!-- SVG 複製函數 -->
+  <script is:inline>
+    async function copySVG(filename, btn) {
+      try {
+        const res = await fetch('/assets/svg/' + filename);
+        const text = await res.text();
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = '✅ 已複製';
+        setTimeout(() => (btn.textContent = orig), 2000);
+      } catch (e) {
+        btn.textContent = '❌ 複製失敗';
+        setTimeout(() => (btn.textContent = '複製代碼'), 2000);
+      }
+    }
+  </script>
+
+  <style>
+    .data-hub {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+      color: #e2e8f0;
+    }
+
+    /* Hero 區塊 */
+    .hero {
+      text-align: center;
+      padding: 4rem 2rem 3rem;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .hero-title {
+      font-size: clamp(2.5rem, 6vw, 4rem);
+      font-weight: 900;
+      background: linear-gradient(135deg, #38bdf8, #818cf8, #c084fc);
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 1rem;
+    }
+
+    .hero-subtitle {
+      font-size: clamp(1.2rem, 3vw, 1.5rem);
+      color: #94a3b8;
+      margin-bottom: 1.5rem;
+      font-weight: 600;
+    }
+
+    .hero-desc {
+      font-size: 1rem;
+      line-height: 1.7;
+      color: #cbd5e1;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* 分隔線 */
+    .section-divider {
+      padding: 2rem 0;
+      display: flex;
+      justify-content: center;
+    }
+
+    .divider-line {
+      width: 100px;
+      height: 3px;
+      background: linear-gradient(90deg, transparent, #60a5fa, transparent);
+      border-radius: 2px;
+    }
+
+    /* 通用區塊樣式 */
+    .story-intro {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem 2rem;
+    }
+
+    .section-title {
+      font-size: 2rem;
+      font-weight: 800;
+      color: #f8fafc;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+
+    .story-text {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 2rem;
+    }
+
+    .story-text p {
+      color: #cbd5e1;
+      line-height: 1.8;
+      margin-bottom: 1rem;
+      font-size: 1rem;
+    }
+
+    .story-text p:first-child {
+      font-size: 1.1rem;
+      color: #93c5fd;
+      font-weight: 600;
+    }
+
+    .story-text p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* 企業版圖區塊 */
+    .companies-section {
+      padding: 2rem 0 4rem;
+    }
+
+    .bubble-controls {
+      max-width: 1400px;
+      margin: 0 auto 2rem;
+      padding: 0 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+
+    .size-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .size-toggle label {
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: #94a3b8;
+    }
+
+    .toggle-btn {
+      padding: 0.4rem 1rem;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.05);
+      color: #cbd5e1;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+    }
+
+    .toggle-btn.active {
+      background: #3b82f6;
+      color: #fff;
+      border-color: #3b82f6;
+    }
+
+    .sector-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .sector-btn {
+      padding: 0.3rem 0.8rem;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 15px;
+      background: rgba(255, 255, 255, 0.05);
+      color: #cbd5e1;
+      cursor: pointer;
+      font-size: 0.8rem;
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+      transition: all 0.2s;
+    }
+
+    .sector-btn.active {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.4);
+      font-weight: 600;
+    }
+
+    .sector-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    #bubble-chart {
+      position: relative;
+      width: 100%;
+      max-width: 1400px;
+      margin: 0 auto;
+      min-height: 500px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      overflow: hidden;
+      background: #1a1a2e;
+    }
+
+    :global(.tooltip) {
+      position: absolute;
+      background: rgba(0, 0, 0, 0.9);
+      color: #fff;
+      padding: 12px 16px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      pointer-events: none;
+      z-index: 100;
+      max-width: 280px;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .insights {
+      max-width: 1400px;
+      margin: 2rem auto 0;
+      padding: 0 2rem;
+    }
+
+    .insight-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .insight-card {
+      background: rgba(255, 255, 255, 0.04);
+      border-radius: 12px;
+      padding: 1.5rem;
+      text-align: center;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .insight-number {
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: #60a5fa;
+      margin-bottom: 0.3rem;
+    }
+
+    .insight-label {
+      font-weight: 600;
+      color: #e2e8f0;
+      font-size: 0.9rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .insight-detail {
+      font-size: 0.8rem;
+      color: #94a3b8;
+    }
+
+    .explore-more {
+      text-align: center;
+    }
+
+    .explore-link {
+      display: inline-block;
+      color: #60a5fa;
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.5rem 1rem;
+      border-radius: 8px;
+      transition: all 0.2s;
+    }
+
+    .explore-link:hover {
+      background: rgba(96, 165, 250, 0.1);
+      color: #93c5fd;
+    }
+
+    /* 台灣輪廓區塊 */
+    .taiwan-shape-section {
+      padding: 2rem 0 4rem;
+    }
+
+    .svg-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .svg-card {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: all 0.3s;
+    }
+
+    .svg-card:hover {
+      border-color: rgba(255, 255, 255, 0.2);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    }
+
+    .svg-preview {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.95);
+      height: 140px;
+    }
+
+    .svg-preview img {
+      max-height: 100px;
+      max-width: 80px;
+      filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.1));
+    }
+
+    .svg-info {
+      padding: 1.5rem;
+    }
+
+    .svg-info h3 {
+      font-family: 'Courier New', monospace;
+      font-size: 0.9rem;
+      color: #e2e8f0;
+      margin-bottom: 0.5rem;
+    }
+
+    .svg-desc {
+      color: #cbd5e1;
+      margin-bottom: 0.25rem;
+      font-size: 0.9rem;
+    }
+
+    .svg-meta {
+      color: #94a3b8;
+      font-size: 0.8rem;
+      margin-bottom: 1rem;
+    }
+
+    .svg-actions {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      font-family: inherit;
+      transition: all 0.2s;
+      font-weight: 600;
+    }
+
+    .btn-primary {
+      background: #3b82f6;
+      color: #fff;
+    }
+
+    .btn-primary:hover {
+      background: #2563eb;
+    }
+
+    .btn-outline {
+      background: transparent;
+      color: #60a5fa;
+      border: 1px solid #60a5fa;
+    }
+
+    .btn-outline:hover {
+      background: rgba(96, 165, 250, 0.1);
+    }
+
+    .usage-example {
+      max-width: 1400px;
+      margin: 3rem auto 0;
+      padding: 0 2rem;
+    }
+
+    .usage-example h3 {
+      color: #f8fafc;
+      margin-bottom: 1rem;
+      font-size: 1.2rem;
+    }
+
+    .code-block {
+      background: #1e293b;
+      border-radius: 12px;
+      padding: 1.5rem;
+      overflow-x: auto;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .code-block code {
+      color: #e2e8f0;
+      font-size: 0.85rem;
+      line-height: 1.6;
+      white-space: pre;
+    }
+
+    .license-note {
+      margin-top: 1rem;
+      color: #94a3b8;
+      font-size: 0.9rem;
+    }
+
+    .license-note a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+
+    .license-note a:hover {
+      text-decoration: underline;
+    }
+
+    /* 開放資料區塊 */
+    .opendata-section {
+      padding: 2rem 0 4rem;
+    }
+
+    .data-categories {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+
+    .data-category-card {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 2rem;
+      transition: border-color 0.2s ease;
+    }
+
+    .data-category-card:hover {
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+
+    .category-header {
+      display: flex;
+      align-items: flex-start;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .category-icon {
+      font-size: 2rem;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+
+    .category-title {
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #f1f5f9;
+      margin-bottom: 0.25rem;
+    }
+
+    .category-desc {
+      font-size: 0.9rem;
+      color: #94a3b8;
+      line-height: 1.5;
+    }
+
+    .item-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .item {
+      padding: 0.6rem 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      line-height: 1.6;
+    }
+
+    .item:last-child {
+      border-bottom: none;
+      padding-bottom: 0;
+    }
+
+    .item-link {
+      color: #7dd3fc !important;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+      border-bottom: 1px solid transparent;
+      transition: all 0.2s ease;
+    }
+
+    .item-link:hover {
+      color: #bae6fd !important;
+      border-bottom-color: #bae6fd;
+    }
+
+    .item-desc {
+      color: #cbd5e1;
+      font-size: 0.85rem;
+    }
+
+    /* 知識圖譜區塊 */
+    .knowledge-graph-section {
+      padding: 2rem 0 4rem;
+    }
+
+    .graph-cta {
+      text-align: center;
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .graph-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 1.5rem;
+      padding: 1.5rem 2rem;
+      background: rgba(255, 255, 255, 0.06);
+      color: #e2e8f0;
+      text-decoration: none;
+      border-radius: 16px;
+      font-weight: 600;
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.3s ease;
+      min-width: 320px;
+    }
+
+    .graph-btn:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: rgba(255, 255, 255, 0.2);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    }
+
+    .graph-icon {
+      font-size: 2rem;
+      flex-shrink: 0;
+    }
+
+    .graph-text {
+      flex: 1;
+      text-align: left;
+    }
+
+    .graph-title {
+      display: block;
+      font-size: 1.1rem;
+      color: #f1f5f9;
+      margin-bottom: 0.2rem;
+    }
+
+    .graph-desc {
+      display: block;
+      font-size: 0.85rem;
+      color: #94a3b8;
+      font-weight: normal;
+    }
+
+    .graph-arrow {
+      font-size: 1.5rem;
+      color: #60a5fa;
+      flex-shrink: 0;
+    }
+
+    /* Footer */
+    .data-footer {
+      padding: 2rem 0 4rem;
+    }
+
+    .footer-title {
+      text-align: center;
+      color: #f8fafc;
+      margin-bottom: 2rem;
+      font-size: 1.5rem;
+    }
+
+    .footer-links {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 2rem;
+    }
+
+    .footer-link {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+      background: rgba(255, 255, 255, 0.04);
+      color: #cbd5e1;
+      text-decoration: none;
+      border-radius: 12px;
+      transition: all 0.2s;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .footer-link:hover {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+      color: #e2e8f0;
+    }
+
+    .footer-icon {
+      font-size: 1.5rem;
+      flex-shrink: 0;
+    }
+
+    .footer-text {
+      flex: 1;
+    }
+
+    .footer-name {
+      display: block;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+    }
+
+    .footer-desc {
+      display: block;
+      font-size: 0.85rem;
+      color: #94a3b8;
+    }
+
+    /* 響應式設計 */
+    @media (max-width: 768px) {
+      .hero {
+        padding: 2.5rem 1rem 2rem;
+      }
+
+      .story-intro {
+        padding: 0 1rem 1.5rem;
+      }
+
+      .story-text {
+        padding: 1.5rem;
+      }
+
+      .section-title {
+        font-size: 1.6rem;
+      }
+
+      .bubble-controls {
+        padding: 0 1rem;
+      }
+
+      .svg-grid {
+        grid-template-columns: 1fr;
+        padding: 0 1rem;
+      }
+
+      .data-categories {
+        padding: 0 1rem;
+      }
+
+      .data-category-card {
+        padding: 1.5rem;
+      }
+
+      .category-header {
+        gap: 0.75rem;
+      }
+
+      .category-icon {
+        font-size: 1.5rem;
+      }
+
+      .category-title {
+        font-size: 1.2rem;
+      }
+
+      .insight-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
+      }
+
+      .graph-btn {
+        flex-direction: column;
+        text-align: center;
+        gap: 1rem;
+        min-width: auto;
+      }
+
+      .graph-text {
+        text-align: center;
+      }
+
+      .footer-links {
+        grid-template-columns: 1fr;
+        padding: 0 1rem;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hero {
+        padding: 2rem 1rem;
+      }
+
+      .svg-card {
+        margin: 0 -0.5rem;
+      }
+
+      .svg-preview {
+        height: 120px;
+      }
+
+      .insight-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .btn {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+      }
+
+      #bubble-chart {
+        min-height: 400px;
+      }
+    }
+  </style>
+</Layout>

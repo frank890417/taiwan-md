@@ -1,493 +1,524 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import HeroSection from '../components/home/HeroSection.astro';
-import CoverStory from '../components/home/CoverStory.astro';
-import RandomDiscovery from '../components/home/RandomDiscovery.astro';
-import ReadingPath from '../components/ReadingPath.astro';
-import FeatureCards from '../components/FeatureCards.astro';
-import CategoriesSection from '../components/home/CategoriesSection.astro';
-import LanguageStatement from '../components/home/LanguageStatement.astro';
-import RecentUpdates from '../components/home/RecentUpdates.astro';
-import NewsletterSection from '../components/home/NewsletterSection.astro';
-import CommunityFeedback from '../components/home/CommunityFeedback.astro';
-import ContributeSection from '../components/home/ContributeSection.astro';
-import ProticoScript from '../components/ProticoScript.astro';
-import { fetchRecentCommits } from '../lib/commits';
-import { feedbacks } from '../data/feedbacks';
+import CategoryGrid from '../components/CategoryGrid.astro';
+import HeroSection from '../components/HeroSection.astro';
+import JourneyCard from '../components/JourneyCard.astro';
+import WhyCard from '../components/WhyCard.astro';
+import WelcomeModal from '../components/WelcomeModal.astro';
+import SideTools from '../components/SideTools.astro';
+import { t } from '../i18n/ui';
+import { readdir } from 'fs/promises';
+import { resolve, basename } from 'path';
+import matter from 'gray-matter';
+import { readFile } from 'fs/promises';
 
-const recentCommits = await fetchRecentCommits();
+const lang = 'zh-TW';
 
-const readingPathSteps = [
-  {
-    href: '/history/民主化',
-    title: '寧靜革命：台灣民主化',
-    description: '從威權到民主，亞洲第一的和平轉型奇蹟',
-    time: '6 min',
-  },
-  {
-    href: '/culture/族群（閩南客家原住民外省新住民）',
-    title: '多元一體：台灣族群',
-    description: '四大族群共同編織的多彩文化基底',
-    time: '7 min',
-  },
-  {
-    href: '/food/夜市文化',
-    title: '最真實的台灣味：夜市文化',
-    description: '密度世界第一的庶民美食社交空間',
-    time: '5 min',
-  },
-  {
-    href: '/technology/半導體產業',
-    title: '護國神山：半導體產業',
-    description: '台積電如何讓小島成為全球科技心臟',
-    time: '8 min',
-  },
-  {
-    href: '/lifestyle/便利商店文化',
-    title: '生活作業系統：便利商店',
-    description: '不只是商店，而是整個國家的基礎建設',
-    time: '4 min',
-  },
-];
+// Fetch recent commits
+let recentCommits: { hash: string; date: string; message: string }[] = [];
+try {
+  const res = await fetch('https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=5');
+  if (res.ok) {
+    const data = await res.json();
+    recentCommits = data.map((c: any) => ({
+      hash: c.sha,
+      date: c.commit.author.date,
+      message: c.commit.message.split('\n')[0],
+    }));
+  }
+} catch {}
 
-const readingPathFooterItems = [
-  { icon: '⏱️', label: '總計 30 分鐘' },
-  { icon: '🎯', label: '跨越 5 大領域' },
-  { icon: '🌟', label: '完整認識台灣' },
-];
+function commitIcon(msg: string) {
+  if (msg.startsWith('feat')) return 'feat';
+  if (msg.startsWith('fix')) return 'fix';
+  if (msg.startsWith('content')) return 'content';
+  if (msg.startsWith('docs')) return 'docs';
+  return 'update';
+}
+
+function timeAgo(dateStr: string) {
+  const now = new Date();
+  const then = new Date(dateStr);
+  const diff = Math.floor((now.getTime() - then.getTime()) / 1000);
+  if (diff < 3600) return `${Math.floor(diff / 60)} 分鐘前`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)} 小時前`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)} 天前`;
+  return then.toLocaleDateString('zh-TW', { month: 'short', day: 'numeric' });
+}
+
+const categoryMapping: Record<string, string> = {
+  history: 'History', geography: 'Geography', culture: 'Culture', food: 'Food',
+  art: 'Art', music: 'Music', technology: 'Technology', nature: 'Nature',
+  people: 'People', society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+};
+
+const categoryNames: Record<string, string> = {
+  history: '歷史', geography: '地理', culture: '文化', food: '美食',
+  art: '藝術', music: '音樂', technology: '科技', nature: '自然',
+  people: '人物', society: '社會', economy: '經濟', lifestyle: '生活'
+};
+
+let allArticles: { title: string; url: string; category: string }[] = [];
+for (const [cat, folder] of Object.entries(categoryMapping)) {
+  try {
+    const dirPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = basename(file, '.md');
+      allArticles.push({
+        title: fm.title || slug,
+        url: `/${cat}/${encodeURIComponent(slug)}`,
+        category: categoryNames[cat] || cat,
+      });
+    }
+  } catch {}
+}
+if (allArticles.length === 0) {
+  allArticles = [
+    { title: '台灣民謠與歌謠', url: '/music/台灣民謠與歌謠', category: '音樂' },
+    { title: '經濟奇蹟', url: '/economy/經濟奇蹟', category: '經濟' },
+    { title: '半導體產業', url: '/technology/半導體產業', category: '科技' },
+  ];
+}
+const randomArticlesData = JSON.stringify(allArticles);
 ---
 
-<Layout
-  title="開源台灣知識庫"
-  description="開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。"
->
-  <HeroSection />
+<Layout title="台灣知識庫" description="開源、AI-friendly 的台灣完整知識庫，讓全世界認識真正的台灣">
+  <!-- Hero -->
+  <HeroSection lang={lang} />
 
-  <CoverStory />
-
-  <RandomDiscovery />
-
-  <ReadingPath
-    title="📖 不知道從哪開始？"
-    subtitle="用這 5 篇文章，在 30 分鐘內認識真正的台灣"
-    steps={readingPathSteps}
-    footerItems={readingPathFooterItems}
-    continueHref="#categories"
-    continueLabel="繼續探索更多主題 →"
-  />
-
-  <FeatureCards
-    lang="zh-TW"
-    sectionTitle="為什麼需要 Taiwan.md？"
-    cards={[
-      {
-        icon: '🎯',
-        title: '策展式觀點',
-        description: '精心策展的深度敘事，不是百科全書式羅列',
-      },
-      {
-        icon: '🤖',
-        title: 'AI-Friendly 設計',
-        description: '結構化內容，讓AI也能理解台灣的複雜性',
-      },
-      {
-        icon: '🌍',
-        title: '雙語國際視野',
-        description: '從在地觀點出發，用國際語言說台灣故事',
-      },
-      {
-        icon: '📚',
-        title: '完整多面向',
-        description: '涵蓋12+領域，呈現台灣的立體完整面貌',
-      },
-    ]}
-  >
-    <div class="features-cta">
-      <a href="/graph" class="feature-btn">🔗 知識圖譜 — 探索文章之間的連結</a>
-      <a
-        href="https://github.com/frank890417/taiwan-md/tree/main/knowledge"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="feature-btn secondary">📂 瀏覽 SSOT 原始資料 ↗</a
-      >
+  <!-- Journey Paths -->
+  <section class="py-32 px-6 max-w-7xl mx-auto animate-on-scroll" id="journey">
+    <div class="text-center mb-16">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">{t('journey.subtitle', lang)}</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">{t('journey.title', lang)}</h2>
     </div>
-  </FeatureCards>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+      <JourneyCard
+        title={t('journey.nature.title', lang)}
+        description={t('journey.nature.desc', lang)}
+        image="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=800&q=80"
+        imageAlt="Taroko Gorge marble cliffs"
+        href="/nature"
+        readTime="15"
+        ctaText={t('journey.begin', lang)}
+        tall={true}
+      />
+      <JourneyCard
+        title={t('journey.history.title', lang)}
+        description={t('journey.history.desc', lang)}
+        image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=800&q=80"
+        imageAlt="Traditional Taiwan temple"
+        href="/history"
+        readTime="20"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.culture.title', lang)}
+        description={t('journey.culture.desc', lang)}
+        image="https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?w=800&q=80"
+        imageAlt="Taiwan temple festival"
+        href="/culture"
+        readTime="18"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.flavors.title', lang)}
+        description={t('journey.flavors.desc', lang)}
+        image="https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80"
+        imageAlt="Taiwan night market food"
+        href="/food"
+        readTime="12"
+        ctaText={t('journey.begin', lang)}
+        tall={true}
+      />
+    </div>
+  </section>
 
-  <section class="mini-graph-section">
-    <a href="/graph" class="mini-graph-link">
-      <div class="mini-graph-text">
-        <h3>🕸️ 知識圖譜</h3>
-        <p>每篇文章都不是孤島——點擊探索台灣知識的連結網絡</p>
+  <!-- Cover Story -->
+  <section class="py-28 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3 text-center">Cover Story</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-12 text-center leading-heading">如何理解台灣？</h2>
+      <div class="space-y-8 text-forest-600 leading-loose text-lg">
+        <p>
+          台灣是一座面積只有 36,000 平方公里的島嶼，卻裝著整個世界的複雜度。
+          四百年來，每一個踏上這座島嶼的人，都用不同的眼睛看見不同的台灣。
+        </p>
+
+        <div class="space-y-6 border-l-2 border-teal/30 pl-8 my-12">
+          <blockquote class="text-forest italic text-base">
+            「山川河流都是祖先的身體，我們是大地的孩子。」
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— 泰雅族口傳文學</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            「Isla Hermosa」— 美麗諸島。
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— 西班牙文獻，1584</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            「看見台灣，你會發現，這片土地比你想像的更美麗，也比你想像的更脆弱。」
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— 齊柏林《看見台灣》，2013</cite>
+          </blockquote>
+        </div>
+
+        <p class="text-lg">
+          從南島語族的創世到半導體帝國的崛起，從戒嚴的沉默到亞洲第一個同婚合法化。
+          台灣的故事不是一條直線，而是一張網。
+        </p>
+        <p class="text-lg">
+          <strong class="text-forest">Taiwan.md 不是要給你答案。</strong>
+          我們想做的，是給你一張地圖——一張讓你自己走進台灣的地圖。
+        </p>
+        <a href="/about" class="inline-flex items-center gap-2 text-teal font-semibold hover:text-teal-600 transition-colors no-underline border-none mt-4">
+          閱讀完整引言集
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
       </div>
-      <div id="mini-graph" class="mini-graph-container"></div>
+    </div>
+  </section>
+
+  <!-- Random Discovery -->
+  <section class="py-20 px-6 animate-on-scroll">
+    <div class="max-w-lg mx-auto text-center">
+      <button id="random-discovery-btn" class="group w-full bg-gradient-to-br from-forest-50 to-teal-50 rounded-3xl border border-forest-100/30 shadow-card hover:shadow-lg transition-all p-10 cursor-pointer">
+        <svg class="w-10 h-10 mx-auto mb-3 text-teal opacity-60 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" /></svg>
+        <span class="random-text text-2xl font-serif font-bold text-forest block">隨機發現台灣</span>
+        <span class="random-subtitle text-sm text-forest-400 block mt-2">探索意想不到的故事</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- Reading Path -->
+  <section class="py-28 px-6 max-w-4xl mx-auto animate-on-scroll">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Curated Path</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">不知道從哪開始？</h2>
+      <p class="text-forest-400 mt-3 text-lg">用這 5 篇文章，在 30 分鐘內認識真正的台灣</p>
+    </div>
+    <div class="space-y-4">
+      <a href="/history/民主化" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">1</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">寧靜革命：台灣民主化</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">從威權到民主，亞洲第一的和平轉型奇蹟</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">6 min</span>
+      </a>
+      <a href="/culture/族群（閩南客家原住民外省新住民）" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">2</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">多元一體：台灣族群</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">四大族群共同編織的多彩文化基底</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">7 min</span>
+      </a>
+      <a href="/food/夜市文化" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">3</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">最真實的台灣味：夜市文化</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">密度世界第一的庶民美食社交空間</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">5 min</span>
+      </a>
+      <a href="/technology/半導體產業" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">4</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">護國神山：半導體產業</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">台積電如何讓小島成為全球科技心臟</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">8 min</span>
+      </a>
+      <a href="/lifestyle/便利商店文化" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">5</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">生活作業系統：便利商店</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">不只是商店，而是整個國家的基礎建設</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">4 min</span>
+      </a>
+    </div>
+    <div class="text-center mt-10 text-sm text-forest-400">
+      <p>‹ <strong>總計 30 分鐘</strong> · <strong>跨越 5 大領域</strong> · <strong>完整認識台灣</strong></p>
+    </div>
+  </section>
+
+  <!-- Why Taiwan.md? -->
+  <section class="py-28 px-6 bg-white animate-on-scroll">
+    <div class="max-w-6xl mx-auto">
+      <div class="text-center mb-16">
+        <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Why Taiwan.md</p>
+        <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">為什麼需要 Taiwan.md？</h2>
+      </div>
+      <div class="space-y-20">
+        <WhyCard
+          title="策展式觀點"
+          description="精心策展的深度敘事，不是百科全書式羅列。每一篇文章都經過脈絡梳理，呈現台灣故事的完整肌理。"
+          image="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80"
+          imageAlt="Curated perspective on Taiwan"
+        />
+        <WhyCard
+          title="AI-Friendly 設計"
+          description="結構化的 Markdown 內容，讓 AI 模型也能理解台灣的複雜性。從 llms.txt 到語義標記，每一個設計決策都為了讓知識更容易被機器理解與傳播。"
+          image="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80"
+          imageAlt="AI-friendly structured content"
+          reversed={true}
+        />
+        <WhyCard
+          title="多語國際視野"
+          description="從在地觀點出發，用國際語言說台灣故事。繁體中文、English、Español — 讓世界聽見台灣自己的聲音。"
+          image="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=600&q=80"
+          imageAlt="Multilingual international perspective"
+        />
+        <WhyCard
+          title="完整多面向"
+          description="涵蓋 12+ 領域，呈現台灣的立體完整面貌。從半導體到夜市文化，從民主化到原住民傳說，不簡化、不片面。"
+          image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=600&q=80"
+          imageAlt="Comprehensive multi-dimensional coverage"
+          reversed={true}
+        />
+      </div>
+      <div class="flex flex-wrap justify-center gap-5 mt-16">
+        <a href="/graph" class="btn-primary">知識圖譜</a>
+        <a href="https://github.com/frank890417/taiwan-md/tree/main/knowledge" target="_blank" rel="noopener noreferrer" class="btn-secondary">瀏覽 SSOT 原始資料</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Mini Knowledge Graph -->
+  <section class="py-20 px-6">
+    <a href="/graph" class="block max-w-4xl mx-auto rounded-3xl border border-forest-100/30 bg-white p-10 hover:shadow-card transition-shadow no-underline">
+      <div class="text-center mb-6">
+        <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-2">Knowledge Graph</p>
+        <h3 class="text-xl font-serif font-bold text-forest">知識圖譜</h3>
+        <p class="text-sm text-forest-400 mt-1">每篇文章都不是孤島——點擊探索台灣知識的連結網絡</p>
+      </div>
+      <div id="mini-graph" class="w-full h-[300px]"></div>
     </a>
   </section>
 
-  <CategoriesSection>
-    <Fragment slot="prose">
-      <p>
-        這座島嶼只有 36,000 平方公里，卻裝進了整個世界的縮影。 從 3,952
-        公尺的玉山之巔到太平洋的深海溝壑，
-        <a href="/geography" class="topic-pill">🗺️ 這裡的地理</a
-        >本身就是一場造山運動的現場直播——
-        板塊擠壓、火山噴發、斷層錯動，四百萬年來不停歇的地質交響曲，
-        造就了這座世界上最年輕也最動盪的美麗島嶼。
-      </p>
+  <!-- Categories -->
+  <section class="py-28 px-6 animate-on-scroll" id="categories">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Explore</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">認識台灣</h2>
+    </div>
 
+    <!-- Explore Prose -->
+    <div class="max-w-3xl mx-auto mb-16 space-y-5 text-forest-600 leading-loose text-base">
       <p>
-        四百年前，荷蘭人在台南築起了熱蘭遮城。此後的每一個統治者——
-        鄭氏、清帝國、日本、國民黨——都在這座島上刻下了自己的銘文。
-        但真正讓台灣成為台灣的，是那段從威權到民主的<a
-          href="/history"
-          class="topic-pill">📜 漫長覺醒</a
-        >。 從二二八的血淚到解嚴的歡呼，從美麗島到太陽花，
+        這座島嶼只有 36,000 平方公里，卻裝進了整個世界的縮影。從 3,952 公尺的玉山之巔到太平洋的深海溝壑，
+        <a href="/geography" class="text-teal font-semibold no-underline border-none hover:text-teal-600">這裡的地理</a>本身就是一場造山運動的現場直播。
+      </p>
+      <p>
+        四百年前，荷蘭人在台南築起了熱蘭遮城。但真正讓台灣成為台灣的，是那段從威權到民主的
+        <a href="/history" class="text-teal font-semibold no-underline border-none hover:text-teal-600">漫長覺醒</a>。
         每一次的痛苦與反抗，都讓這座島的靈魂更加清晰。
       </p>
-
       <p>
-        這片土地上流淌著多重血液。原住民族在此安居了六千年，
-        十七世紀後陸續到來的閩南人、客家人，戰後從大陸各省遷徙而來的外省族群，
-        近年的新住民與移工，每一群人都帶來了自己的語言、信仰與記憶。
-        <a href="/culture" class="topic-pill">🎭 台灣的文化</a
-        >不是熔爐，而是拼圖——
+        <a href="/culture" class="text-teal font-semibold no-underline border-none hover:text-teal-600">台灣的文化</a>不是熔爐，而是拼圖——
         每一塊都保持著自己的顏色與形狀，拼湊出一幅前所未有的圖像。
       </p>
-
       <p>
-        走進任何一座台灣的夜市，你會同時聞到閩南的蚵仔煎、日本的天婦羅、
-        和戰後老兵帶來的山東蔥油餅。<a href="/food" class="topic-pill"
-          >🍜 這座島的味道</a
-        >， 就是它的移民史的味覺版本。從路邊攤的人情味到米其林餐廳的精工細作，
-        台灣人用食物說故事，用料理保存記憶。
+        走進任何一座台灣的夜市，<a href="/food" class="text-teal font-semibold no-underline border-none hover:text-teal-600">這座島的味道</a>，
+        就是它的移民史的味覺版本。台灣人用食物說故事，用料理保存記憶。
       </p>
-
-      <p>
-        蝴蝶王國不是浪漫的比喻，而是生態現實。在這個比荷蘭還小的島嶼上，
-        擠進了超過五萬九千種生物——佔全球物種數量的百分之二點五。
-        <a href="/nature" class="topic-pill">🌿 台灣的自然</a
-        >是一部立體的演化史書：
-        從熱帶雨林到高山寒原，從珊瑚礁到黑潮，物種在此演化、分化、共存。
-        但工業發展的代價也寫在山川裡，環保與開發的拉扯仍在進行。
-      </p>
-
-      <p>
-        從賴和、楊逵到白先勇、朱天心，從霧峰林家到辜振甫家族，
-        <a href="/people" class="topic-pill">👥 台灣的人物</a>是時代的縮影。
-        他們不只是個人的傳記，更是這座島嶼如何在夾縫中求生存、
-        在困頓中找希望的集體記憶。每一個故事背後，
-        都是大時代下小人物的堅韌與選擇。
-      </p>
-
-      <p>
-        從廟會的八家將到當代藝術的威尼斯雙年展，
-        <a href="/art" class="topic-pill">🎨 台灣的藝術</a>是傳統與創新的對話。
-        交趾陶與數位裝置、傳統戲曲與實驗劇場、
-        原住民圖騰與當代繪畫——藝術家們不斷在問：
-        我們如何用創作回應這個時代？如何在全球化中保持在地性？
-      </p>
-
-      <p>
-        從原住民的古調到鄧雨賢的〈望春風〉，從校園民歌到金曲獎，
-        <a href="/music" class="topic-pill">🎵 台灣的聲音</a>是島嶼的心跳。
-        音樂跨越了族群、語言、世代的界線，成為最能凝聚共同記憶的載體。
-        無論是五月天在小巨蛋的吶喊，還是原住民在部落裡的古謠，
-        都在述說著同一個故事：我們是誰，我們來自哪裡。
-      </p>
-
       <p>
         台積電的晶圓不只是矽片，而是台灣在全球科技版圖上的定位證明。
-        <a href="/technology" class="topic-pill">💻 這座科技島</a
-        >從代工製造走向創新研發，
-        從硬體優勢邁向軟體突破。但科技發展也帶來了挑戰： 數位落差、AI
-        取代、資安威脅——台灣如何在科技浪潮中既衝浪又不被淹沒？
+        <a href="/technology" class="text-teal font-semibold no-underline border-none hover:text-teal-600">這座科技島</a>從代工製造走向創新研發。
       </p>
+    </div>
 
-      <p>
-        從亞洲四小龍到半導體帝國，<a href="/economy" class="topic-pill"
-          >📈 台灣的經濟奇蹟</a
-        >
-        是小國大戰略的典型案例。但奇蹟背後是無數個加班的夜晚、 斤斤計較的成本控制、永不停歇的效率追求。
-        如今面對中美貿易戰、全球供應鏈重組，台灣如何繼續寫下經濟傳奇？
-      </p>
+    <div class="flex items-center gap-4 max-w-7xl mx-auto mb-10">
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+      <span class="text-sm text-forest-400 font-medium">快速導航</span>
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+    </div>
 
-      <p>
-        <a href="/society" class="topic-pill">⚖️ 台灣社會</a
-        >的關鍵字是「多元」與「包容」。
-        從亞洲第一個同性婚姻合法化，到轉型正義的持續推動，
-        從核四公投到年金改革，台灣人正在學習如何在分歧中對話，
-        在衝突中尋找共識。這是民主的練習場，也是未來的實驗室。
-      </p>
+    <CategoryGrid lang={lang} />
+  </section>
 
-      <p>
-        台灣人的<a href="/lifestyle" class="topic-pill">🏠 生活方式</a
-        >是便利與人情的混合體。 便利商店的密度世界第一，夜市的溫度卻是獨一無二。
-        24 小時不打烊的城市節奏裡，依然保留著鄰里的問候與照顧。
-        在全球化的洪流中，台灣人如何保持自己的生活哲學？
-        答案或許就在那一句「你吃飽了嗎？」的日常問候裡。
-      </p>
-    </Fragment>
-  </CategoriesSection>
+  <!-- Traditional Chinese Statement -->
+  <section class="py-24 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6 text-center">
+      <h3 class="text-2xl font-serif font-bold text-forest mb-6 leading-heading">為什麼用繁體中文？</h3>
+      <div class="text-forest-600 leading-loose space-y-4 text-left">
+        <p>Taiwan.md 選擇以<strong class="text-forest">繁體中文</strong>作為預設語言，這不只是技術決定——這是一種文化宣言。</p>
+        <p>繁體中文是世界上仍在日常使用的最古老書寫系統之一，而台灣是全球唯一將繁體中文作為官方文字的主要使用地。</p>
+        <p class="text-sm text-forest-400 italic">
+          Taiwan.md is written in Traditional Chinese by default — the world's oldest writing system still in daily use, 
+          and Taiwan is its last major home. We offer an <a href="/en" class="text-teal">English version</a> too.
+        </p>
+      </div>
+    </div>
+  </section>
 
-  <LanguageStatement />
+  <!-- Recent Updates -->
+  {recentCommits.length > 0 && (
+    <section class="py-20 px-6">
+      <div class="max-w-3xl mx-auto">
+        <div class="text-center mb-10">
+          <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-2">Live Updates</p>
+          <h2 class="text-2xl font-serif font-bold text-forest">網站即時更新</h2>
+          <p class="text-sm text-forest-400 mt-2">Taiwan.md 持續成長中</p>
+        </div>
+        <div class="space-y-3">
+          {recentCommits.slice(0, 3).map(commit => (
+            <a href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`} target="_blank" rel="noopener noreferrer"
+               class="flex items-center gap-4 p-4 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/20 hover:shadow-card transition-all no-underline">
+              <span class="text-lg">{commitIcon(commit.message)}</span>
+              <span class="flex-1 text-sm text-forest truncate">{commit.message}</span>
+              <span class="flex-shrink-0 text-xs text-forest-400 bg-forest-50 px-3 py-1.5 rounded-full">{timeAgo(commit.date)}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
-  <RecentUpdates commits={recentCommits} />
+  <!-- Newsletter -->
+  <iframe name="newsletter-iframe" style="display:none;"></iframe>
+  <section class="py-24 bg-forest text-white">
+    <div class="max-w-3xl mx-auto px-6">
+      <div class="text-center md:text-left md:flex md:items-center md:justify-between md:gap-12">
+        <div class="mb-8 md:mb-0">
+          <h2 class="text-2xl font-serif font-bold mb-2">訂閱 Taiwan.md 週報</h2>
+          <p class="text-cream-200/80 text-sm">每週精選台灣知識，直送信箱。</p>
+        </div>
+        <form id="newsletter-form"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse"
+              method="POST" target="newsletter-iframe" class="flex-1 max-w-md">
+          <div class="flex flex-col sm:flex-row gap-3">
+            <input type="email" name="entry.1578963213" placeholder="your@email.com" required
+                   class="flex-1 px-5 py-3 rounded-full bg-white/10 border border-white/20 text-white placeholder-white/40 text-sm focus:outline-none focus:ring-2 focus:ring-teal/50" />
+            <button type="submit" class="px-5 sm:px-7 py-3 bg-teal text-white rounded-full font-semibold text-sm hover:bg-teal-600 transition-colors whitespace-nowrap">訂閱</button>
+          </div>
+        </form>
+      </div>
+      <div id="newsletter-success" class="hidden mt-6 text-teal-200 font-semibold text-center md:text-left">感謝訂閱！</div>
+      <p class="text-xs text-cream-300/60 mt-4 text-center md:text-left">不追蹤、可隨時取消</p>
+    </div>
+  </section>
 
-  <NewsletterSection />
+  <!-- Contribute -->
+  <section class="py-28 px-6 text-center animate-on-scroll">
+    <div class="max-w-2xl mx-auto">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Open Source</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-4 leading-heading">加入我們</h2>
+      <p class="text-forest-400 text-lg mb-10">Taiwan.md 是社群驅動的開源專案。無論您是台灣本地人還是對台灣感興趣的國際朋友，都歡迎貢獻。</p>
+      <div class="flex flex-wrap justify-center gap-5">
+        <a href="/contribute" class="inline-flex items-center gap-2.5 px-10 py-4 bg-teal text-white font-semibold text-lg rounded-full hover:bg-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5">
+          麻瓜貢獻指南
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
+        <a href="https://github.com/frank890417/taiwan-md" class="inline-flex items-center gap-2.5 px-10 py-4 bg-forest/5 text-forest font-semibold text-lg rounded-full border border-forest/15 hover:bg-forest/10 transition-all duration-300" target="_blank" rel="noopener noreferrer">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          GitHub 專案
+        </a>
+      </div>
+    </div>
+  </section>
 
-  <CommunityFeedback feedbacks={feedbacks} />
-
-  <ContributeSection />
+  <WelcomeModal lang={lang} />
+  <SideTools lang={lang} />
 </Layout>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
-<script is:inline>
-  document.addEventListener('DOMContentLoaded', function () {
-    const container = document.getElementById('mini-graph');
-    if (container) {
-      const categories = [
-        { id: 'history', name: '歷史', color: '#dc2626' },
-        { id: 'geography', name: '地理', color: '#2563eb' },
+<script is:inline define:vars={{ randomArticlesData }}>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Random discovery
+    var randomBtn = document.getElementById('random-discovery-btn');
+    var articles = [];
+    try { articles = JSON.parse(randomArticlesData); } catch(e) {}
+    
+    if (randomBtn && articles.length > 0) {
+      var shuffled = articles.slice();
+      for (var i = shuffled.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+      }
+      var currentIndex = 0;
+
+      randomBtn.addEventListener('click', function() {
+        if (currentIndex >= shuffled.length) {
+          currentIndex = 0;
+          for (var i = shuffled.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+          }
+        }
+        var article = shuffled[currentIndex++];
+        var textEl = randomBtn.querySelector('.random-text');
+        var subtitleEl = randomBtn.querySelector('.random-subtitle');
+        randomBtn.style.pointerEvents = 'none';
+        var ticks = 0;
+        var interval = setInterval(function() {
+          var preview = shuffled[Math.floor(Math.random() * shuffled.length)];
+          textEl.textContent = preview.title;
+          subtitleEl.textContent = preview.category;
+          ticks++;
+          if (ticks >= 8) {
+            clearInterval(interval);
+            textEl.textContent = article.title;
+            subtitleEl.textContent = article.category;
+            setTimeout(function() { window.location.href = article.url; }, 400);
+          }
+        }, 80);
+      });
+    }
+
+    // Newsletter form
+    var form = document.getElementById('newsletter-form');
+    if (form) {
+      form.addEventListener('submit', function() {
+        setTimeout(function() {
+          document.getElementById('newsletter-success').classList.remove('hidden');
+        }, 500);
+      });
+    }
+
+    // Mini knowledge graph
+    var container = document.getElementById('mini-graph');
+    if (container && typeof d3 !== 'undefined') {
+      var categories = [
+        { id: 'history', name: '歷史', color: '#C17D5E' },
+        { id: 'geography', name: '地理', color: '#006D77' },
         { id: 'culture', name: '文化', color: '#7c3aed' },
         { id: 'food', name: '美食', color: '#ea580c' },
         { id: 'art', name: '藝術', color: '#db2777' },
         { id: 'music', name: '音樂', color: '#4f46e5' },
-        { id: 'technology', name: '科技', color: '#0891b2' },
+        { id: 'technology', name: '科技', color: '#006D77' },
         { id: 'nature', name: '自然', color: '#16a34a' },
-        { id: 'people', name: '人物', color: '#ca8a04' },
+        { id: 'people', name: '人物', color: '#C17D5E' },
         { id: 'society', name: '社會', color: '#64748b' },
         { id: 'economy', name: '經濟', color: '#0d9488' },
         { id: 'lifestyle', name: '生活', color: '#f97316' },
       ];
+      var nodes = [{ id: 'taiwan', name: 'Taiwan.md', size: 18, color: '#1A3C34', group: 'core' }];
+      categories.forEach(function(c) { nodes.push({ id: c.id, name: c.name, size: 12, color: c.color, group: 'category' }); });
+      var edges = categories.map(function(c) { return { source: 'taiwan', target: c.id }; });
+      [['history','people'],['history','society'],['culture','art'],['culture','music'],['food','lifestyle'],['technology','economy'],['nature','geography'],['people','art'],['society','economy'],['music','culture'],['lifestyle','food'],['geography','nature']].forEach(function(pair) { edges.push({ source: pair[0], target: pair[1] }); });
 
-      const nodes = [
-        {
-          id: 'taiwan',
-          name: 'Taiwan.md',
-          size: 18,
-          color: '#2d5016',
-          group: 'core',
-        },
-        ...categories.map((c) => ({
-          id: c.id,
-          name: c.name,
-          size: 12,
-          color: c.color,
-          group: 'category',
-        })),
-      ];
-
-      const edges = categories.map((c) => ({ source: 'taiwan', target: c.id }));
-      const crossLinks = [
-        ['history', 'people'],
-        ['history', 'society'],
-        ['culture', 'art'],
-        ['culture', 'music'],
-        ['food', 'lifestyle'],
-        ['technology', 'economy'],
-        ['nature', 'geography'],
-        ['people', 'art'],
-        ['society', 'economy'],
-        ['music', 'culture'],
-        ['lifestyle', 'food'],
-        ['geography', 'nature'],
-      ];
-      crossLinks.forEach(([source, target]) => edges.push({ source, target }));
-
-      const width = container.clientWidth;
-      const height = 300;
-
-      const svg = d3
-        .select('#mini-graph')
-        .append('svg')
-        .attr('viewBox', `0 0 ${width} ${height}`)
-        .attr('preserveAspectRatio', 'xMidYMid meet');
-
-      const simulation = d3
-        .forceSimulation(nodes)
-        .force(
-          'link',
-          d3
-            .forceLink(edges)
-            .id((d) => d.id)
-            .distance(60),
-        )
+      var width = container.clientWidth;
+      var height = 300;
+      var svg = d3.select('#mini-graph').append('svg').attr('viewBox', '0 0 '+width+' '+height).attr('preserveAspectRatio', 'xMidYMid meet');
+      var simulation = d3.forceSimulation(nodes)
+        .force('link', d3.forceLink(edges).id(function(d){return d.id}).distance(60))
         .force('charge', d3.forceManyBody().strength(-120))
-        .force('center', d3.forceCenter(width / 2, height / 2))
-        .force(
-          'collision',
-          d3.forceCollide().radius((d) => d.size + 4),
-        );
-
-      const link = svg
-        .append('g')
-        .selectAll('line')
-        .data(edges)
-        .join('line')
-        .attr('stroke', '#d1d5db')
-        .attr('stroke-width', 1)
-        .attr('stroke-opacity', 0.5);
-
-      const node = svg
-        .append('g')
-        .selectAll('circle')
-        .data(nodes)
-        .join('circle')
-        .attr('r', (d) => d.size)
-        .attr('fill', (d) => d.color)
-        .attr('fill-opacity', 0.85)
-        .attr('stroke', '#fff')
-        .attr('stroke-width', 1.5);
-
-      const label = svg
-        .append('g')
-        .selectAll('text')
-        .data(nodes)
-        .join('text')
-        .text((d) => d.name)
-        .attr('text-anchor', 'middle')
-        .attr('dy', (d) => d.size + 14)
-        .attr('font-size', (d) => (d.group === 'core' ? '11px' : '9px'))
-        .attr('font-weight', (d) => (d.group === 'core' ? '700' : '500'))
-        .attr('fill', '#374151')
-        .attr('pointer-events', 'none');
-
-      simulation.on('tick', () => {
-        link
-          .attr('x1', (d) => d.source.x)
-          .attr('y1', (d) => d.source.y)
-          .attr('x2', (d) => d.target.x)
-          .attr('y2', (d) => d.target.y);
-        node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
-        label.attr('x', (d) => d.x).attr('y', (d) => d.y);
+        .force('center', d3.forceCenter(width/2, height/2))
+        .force('collision', d3.forceCollide().radius(function(d){return d.size + 8}));
+      var link = svg.append('g').selectAll('line').data(edges).enter().append('line')
+        .attr('stroke', '#E5E7EB').attr('stroke-width', 1);
+      var node = svg.append('g').selectAll('g').data(nodes).enter().append('g');
+      node.append('circle').attr('r', function(d){return d.size}).attr('fill', function(d){return d.color}).attr('opacity', 0.9);
+      node.append('text').text(function(d){return d.name}).attr('text-anchor','middle').attr('dy','0.35em')
+        .attr('fill','white').attr('font-size', function(d){return d.group==='core'?'7px':'6px'}).attr('font-weight','600');
+      simulation.on('tick', function() {
+        link.attr('x1',function(d){return d.source.x}).attr('y1',function(d){return d.source.y})
+            .attr('x2',function(d){return d.target.x}).attr('y2',function(d){return d.target.y});
+        node.attr('transform', function(d){return 'translate('+d.x+','+d.y+')'});
       });
     }
   });
 </script>
-
-<!-- Protico Community Chat Bubble — sponsored by Howie Young -->
-<ProticoScript />
-
-<style>
-  /* ===== SKIP LINK FOR ACCESSIBILITY ===== */
-  .skip-link {
-    position: absolute;
-    top: -40px;
-    left: 6px;
-    background: #1a1a2e;
-    color: white;
-    padding: 8px 16px;
-    text-decoration: none;
-    border-radius: 4px;
-    font-weight: 600;
-    z-index: 100;
-    transition: top 0.3s ease;
-  }
-
-  .skip-link:focus {
-    top: 6px;
-  }
-
-  /* ===== SECTION TITLE ===== */
-  .section-title {
-    font-family:
-      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-    font-size: 2rem;
-    font-weight: 300;
-    color: #1f2937;
-    text-align: center;
-  }
-
-  /* ===== MINI GRAPH SECTION (ZH-only) ===== */
-  .mini-graph-section {
-    max-width: 800px;
-    margin: 0 auto 4rem;
-    padding: 0 2rem;
-  }
-
-  .mini-graph-link {
-    display: block;
-    text-decoration: none;
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 2rem;
-    transition: all 0.3s ease;
-  }
-
-  .mini-graph-link:hover {
-    border-color: #2d5016;
-    box-shadow: 0 4px 12px rgba(45, 80, 22, 0.1);
-  }
-
-  .mini-graph-text {
-    text-align: center;
-    margin-bottom: 1rem;
-  }
-
-  .mini-graph-text h3 {
-    font-size: 1.3rem;
-    color: #1f2937;
-    margin-bottom: 0.5rem;
-  }
-
-  .mini-graph-text p {
-    font-size: 0.95rem;
-    color: #6b7280;
-  }
-
-  .mini-graph-container {
-    width: 100%;
-    height: 300px;
-    overflow: hidden;
-  }
-
-  /* ===== FEATURES CTA (ZH-only slot content) ===== */
-  .features-cta {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    margin-top: 2rem;
-    flex-wrap: wrap;
-    padding: 0 1rem;
-  }
-
-  .feature-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.7rem 1.5rem;
-    background: #f0fdf4;
-    border: 1.5px solid rgba(45, 80, 22, 0.2);
-    border-radius: 8px;
-    color: #2d5016;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 0.9rem;
-    transition: all 0.25s ease;
-  }
-
-  .feature-btn:hover {
-    background: rgba(45, 80, 22, 0.1);
-    border-color: rgba(45, 80, 22, 0.4);
-    transform: translateY(-1px);
-    box-shadow: 0 2px 8px rgba(45, 80, 22, 0.15);
-  }
-
-  .feature-btn.secondary {
-    background: #f8fafc;
-    border-color: #d1d5db;
-    color: #374151;
-  }
-
-  .feature-btn.secondary:hover {
-    background: #f1f5f9;
-    border-color: #9ca3af;
-  }
-
-  @media (max-width: 480px) {
-    .features-cta {
-      flex-direction: column;
-      align-items: center;
-    }
-  }
-</style>

@@ -1,20 +1,14 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import markersData from '../../data/map-markers.json';
 ---
 
 <Layout title="Taiwan Map" description="Explore Taiwan.md through a map-first lens" lang="en">
   <div class="map-page">
-
-    <div id="mapData" data-markers={JSON.stringify(markersData)} style="display:none"></div>
-
     <section class="map-hero">
       <div class="hero-inner">
         <p class="hero-kicker">Map View</p>
         <h1>Taiwan Map</h1>
-        <p class="hero-subtitle">
-          Explore Taiwan's culture, cuisine, nature, and history through an interactive map.
-        </p>
+        <p class="hero-subtitle">Explore Taiwan's culture, cuisine, nature, and history through an interactive map.</p>
       </div>
     </section>
 
@@ -36,15 +30,15 @@ import markersData from '../../data/map-markers.json';
           <h3>Category Filter</h3>
           <div class="filter-buttons" id="categoryFilters">
             <button class="filter-btn active" data-filter="all">All</button>
-            <button class="filter-btn" data-filter="food">🍜 Food</button>
-            <button class="filter-btn" data-filter="history">📜 History</button>
-            <button class="filter-btn" data-filter="nature">🌿 Nature</button>
-            <button class="filter-btn" data-filter="culture">🎭 Culture</button>
-            <button class="filter-btn" data-filter="technology">💻 Technology</button>
-            <button class="filter-btn" data-filter="economy">📈 Economy</button>
-            <button class="filter-btn" data-filter="lifestyle">🏮 Lifestyle</button>
-            <button class="filter-btn" data-filter="art">🎨 Art</button>
-            <button class="filter-btn" data-filter="geography">🗺️ Geography</button>
+            <button class="filter-btn" data-filter="food">Food</button>
+            <button class="filter-btn" data-filter="history">History</button>
+            <button class="filter-btn" data-filter="nature">Nature</button>
+            <button class="filter-btn" data-filter="culture">Culture</button>
+            <button class="filter-btn" data-filter="technology">Technology</button>
+            <button class="filter-btn" data-filter="economy">Economy</button>
+            <button class="filter-btn" data-filter="lifestyle">Lifestyle</button>
+            <button class="filter-btn" data-filter="art">Art</button>
+            <button class="filter-btn" data-filter="geography">Geography</button>
           </div>
         </div>
       </div>
@@ -53,26 +47,82 @@ import markersData from '../../data/map-markers.json';
     <section class="map-body">
       <div class="map-canvas">
         <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
+          <!-- Taiwan main island -->
+          <path 
+            d="M400 100 
+               C450 100, 480 130, 485 180
+               C490 220, 485 260, 480 300
+               C475 340, 470 380, 465 420
+               C460 460, 455 500, 450 540
+               C445 580, 440 620, 435 660
+               C430 700, 425 740, 415 780
+               C405 820, 390 850, 370 870
+               C350 890, 320 895, 290 890
+               C260 885, 230 875, 210 860
+               C190 845, 175 825, 165 800
+               C155 775, 150 745, 155 710
+               C160 675, 170 640, 175 605
+               C180 570, 175 535, 180 500
+               C185 465, 195 430, 205 395
+               C215 360, 225 325, 235 290
+               C245 255, 255 220, 270 190
+               C285 160, 310 135, 340 125
+               C370 115, 390 105, 400 100 Z"
+            fill="url(#taiwanGradient)"
+            stroke="#2d5016"
+            stroke-width="2"
+            class="taiwan-mainland"
+          />
+          
+          <!-- Penghu Islands -->
+          <circle cx="150" cy="450" r="8" fill="#16a34a" class="island penghu" />
+          
+          <!-- Kinmen -->
+          <circle cx="80" cy="400" r="6" fill="#16a34a" class="island kinmen" />
+          
+          <!-- Gradient definition -->
           <defs>
             <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stop-color="#dcfce7"></stop>
-              <stop offset="50%" stop-color="#bbf7d0"></stop>
-              <stop offset="100%" stop-color="#86efac"></stop>
+              <stop offset="0%" stop-color="#dcfce7" />
+              <stop offset="50%" stop-color="#bbf7d0" />
+              <stop offset="100%" stop-color="#86efac" />
             </linearGradient>
           </defs>
-          <g id="zoomGroup">
-            <g id="taiwanCounties"></g>
-            <g id="markers"></g>
+
+          <!-- Knowledge markers -->
+          <g id="markers">
+            <!-- North Region -->
+            <circle cx="350" cy="200" r="8" fill="#f39c12" class="marker" data-region="north" data-category="food" data-title="Shilin Night Market" data-link="/food/夜市文化" data-desc="Iconic night market culture in Taiwan"></circle>
+            <circle cx="330" cy="180" r="8" fill="#27ae60" class="marker" data-region="north" data-category="nature" data-title="Yangmingshan National Park" data-link="/nature/國家公園" data-desc="Taiwan's first national park"></circle>
+            <circle cx="370" cy="220" r="8" fill="#ff5722" class="marker" data-region="north" data-category="economy" data-title="Taipei 101" data-link="/economy/經濟奇蹟" data-desc="Symbol of Taiwan's economic miracle"></circle>
+            <circle cx="360" cy="210" r="8" fill="#e74c3c" class="marker" data-region="north" data-category="history" data-title="Chiang Kai-shek Memorial Hall" data-link="/history/戒嚴時期" data-desc="Historical landmark of Taiwan's martial law period"></circle>
+            <circle cx="365" cy="215" r="8" fill="#8bc34a" class="marker" data-region="north" data-category="lifestyle" data-title="Ximending" data-link="/lifestyle/便利商店文化" data-desc="Birthplace of Taiwan's convenience store culture"></circle>
+            <circle cx="380" cy="240" r="8" fill="#3498db" class="marker" data-region="north" data-category="technology" data-title="Hsinchu Science Park" data-link="/technology/半導體產業" data-desc="Taiwan's semiconductor industry hub"></circle>
+
+            <!-- Central Region -->
+            <circle cx="320" cy="420" r="8" fill="#27ae60" class="marker" data-region="central" data-category="nature" data-title="Sun Moon Lake" data-link="/nature/國家公園" data-desc="Taiwan's most beautiful alpine lake"></circle>
+            <circle cx="340" cy="380" r="8" fill="#9b59b6" class="marker" data-region="central" data-category="culture" data-title="Lukang" data-link="/culture/廟宇文化與民間信仰" data-desc="Important center of Taiwan's temple culture"></circle>
+            <circle cx="360" cy="370" r="8" fill="#e91e63" class="marker" data-region="central" data-category="art" data-title="Taichung National Theater" data-link="/art/當代藝術" data-desc="Important venue for contemporary art in Taiwan"></circle>
+
+            <!-- South Region -->
+            <circle cx="320" cy="650" r="8" fill="#e74c3c" class="marker" data-region="south" data-category="history" data-title="Tainan Ancient Capital" data-link="/history/荷西明鄭時期" data-desc="Taiwan's historical and cultural ancient capital"></circle>
+            <circle cx="340" cy="680" r="8" fill="#ff5722" class="marker" data-region="south" data-category="economy" data-title="Kaohsiung Port" data-link="/economy/經濟奇蹟" data-desc="Important maritime economic hub of Taiwan"></circle>
+            <circle cx="350" cy="800" r="8" fill="#27ae60" class="marker" data-region="south" data-category="nature" data-title="Kenting National Park" data-link="/nature/國家公園" data-desc="Taiwan's southernmost national park"></circle>
+            <circle cx="300" cy="720" r="8" fill="#9b59b6" class="marker" data-region="south" data-category="culture" data-title="Liudui Hakka Culture" data-link="/culture/族群（閩南客家原住民外省新住民）" data-desc="Hakka cultural preservation area in southern Taiwan"></circle>
+
+            <!-- East Region -->
+            <circle cx="420" cy="350" r="8" fill="#27ae60" class="marker" data-region="east" data-category="nature" data-title="Taroko National Park" data-link="/nature/國家公園" data-desc="World-class canyon landscape"></circle>
+            <circle cx="430" cy="450" r="8" fill="#2ecc71" class="marker" data-region="east" data-category="geography" data-title="East Rift Valley" data-link="/geography/台灣五大地形與地理結構" data-desc="Important geographical landscape of Taiwan"></circle>
+            <circle cx="480" cy="600" r="8" fill="#9b59b6" class="marker" data-region="east" data-category="culture" data-title="Orchid Island" data-link="/culture/原住民族文化" data-desc="Indigenous culture preservation site"></circle>
+            <circle cx="425" cy="470" r="8" fill="#f39c12" class="marker" data-region="east" data-category="food" data-title="Chishang" data-link="/food/台灣茶文化" data-desc="High-quality rice production area in Taiwan"></circle>
+
+            <!-- Islands -->
+            <circle cx="150" cy="450" r="6" fill="#2ecc71" class="marker island-marker" data-region="islands" data-category="geography" data-title="Penghu" data-link="/geography/離島與海洋文化" data-desc="Representative of Taiwan's maritime culture"></circle>
+            <circle cx="80" cy="400" r="6" fill="#e74c3c" class="marker island-marker" data-region="islands" data-category="history" data-title="Kinmen" data-link="/history/戒嚴時期" data-desc="Witness to cross-strait confrontation history"></circle>
           </g>
         </svg>
 
-        <!-- Zoom controls -->
-        <div class="zoom-controls">
-          <button class="zoom-btn" id="zoomIn">＋</button>
-          <button class="zoom-btn" id="zoomOut">－</button>
-          <button class="zoom-btn" id="resetZoom">⌂</button>
-        </div>
-
+        <!-- Tooltip -->
         <div id="tooltip" class="tooltip">
           <div class="tooltip-title"></div>
           <div class="tooltip-category"></div>
@@ -85,7 +135,7 @@ import markersData from '../../data/map-markers.json';
           <h3>Taiwan Knowledge Map</h3>
           <div class="stats">
             <div class="stat-item">
-              <span class="stat-number" id="totalMarkers">{markersData.length}</span>
+              <span class="stat-number" id="totalMarkers">18</span>
               <span class="stat-label">Knowledge Points</span>
             </div>
             <div class="stat-item">
@@ -93,7 +143,7 @@ import markersData from '../../data/map-markers.json';
               <span class="stat-label">Categories</span>
             </div>
           </div>
-
+          
           <div class="category-distribution">
             <h4>Category Distribution</h4>
             <div class="category-list">
@@ -119,10 +169,10 @@ import markersData from '../../data/map-markers.json';
               </div>
             </div>
           </div>
-
+          
           <div class="panel-links">
-            <a class="panel-link" href="/en/graph">🕸️ Knowledge Graph</a>
-            <a class="panel-link" href="/en">🏠 Category Hubs</a>
+            <a class="panel-link" href="/en/graph">Knowledge Graph</a>
+            <a class="panel-link" href="/en">Category Hubs</a>
           </div>
         </div>
 
@@ -141,299 +191,456 @@ import markersData from '../../data/map-markers.json';
 </Layout>
 
 <style>
-  .map-page { padding-bottom: 2rem; }
+  .map-page {
+    padding-bottom: 2rem;
+  }
 
   .map-hero {
     background: linear-gradient(135deg, #f0fdf4, #dcfce7, #bbf7d0);
     padding: 3rem 1.5rem 2rem;
     border-bottom: 1px solid #d1fae5;
   }
-  .hero-inner { max-width: 1200px; margin: 0 auto; text-align: center; }
-  .hero-kicker {
-    font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.2em;
-    color: #16a34a; margin-bottom: 0.5rem; font-weight: 600;
-  }
-  .map-hero h1 {
-    font-size: 2.8rem; margin-bottom: 1rem; color: #2d5016;
-    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
-  }
-  .hero-subtitle { font-size: 1.2rem; color: #15803d; max-width: 600px; margin: 0 auto; }
 
-  .map-controls { background: #ffffff; border-bottom: 1px solid #e5e7eb; padding: 1.5rem 1rem; }
+  .hero-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .hero-kicker {
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #16a34a;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+  }
+
+  .map-hero h1 {
+    font-size: 2.8rem;
+    margin-bottom: 1rem;
+    color: #2d5016;
+    font-family: 'Noto Serif TC', serif;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+    color: #15803d;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .map-controls {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    padding: 1.5rem 1rem;
+  }
+
   .controls-inner {
-    max-width: 1200px; margin: 0 auto;
-    display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; align-items: start;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 2rem;
+    align-items: start;
   }
-  .filter-section h3 { font-size: 1rem; color: #374151; margin-bottom: 0.75rem; font-weight: 600; }
-  .filter-buttons { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
+  .filter-section h3 {
+    font-size: 1rem;
+    color: #374151;
+    margin-bottom: 0.75rem;
+    font-weight: 600;
+  }
+
+  .filter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
   .filter-btn {
-    padding: 0.5rem 1rem; border: 1px solid #d1d5db; background: #ffffff;
-    border-radius: 20px; font-size: 0.85rem; cursor: pointer; transition: all 0.2s; color: #374151;
+    padding: 0.5rem 1rem;
+    border: 1px solid #d1d5db;
+    background: #ffffff;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    color: #374151;
   }
-  .filter-btn:hover { border-color: #16a34a; background: #f0fdf4; }
-  .filter-btn.active { background: #16a34a; border-color: #16a34a; color: white; }
+
+  .filter-btn:hover {
+    border-color: #16a34a;
+    background: #f0fdf4;
+  }
+
+  .filter-btn.active {
+    background: #16a34a;
+    border-color: #16a34a;
+    color: white;
+  }
 
   .map-body {
-    max-width: 1200px; margin: 0 auto; padding: 2rem 1rem;
-    display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: start;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+    align-items: start;
   }
+
   .map-canvas {
-    position: relative; background: #ffffff; border: 1px solid #e5e7eb;
-    border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    position: relative;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
   }
-  .taiwan-svg { width: 100%; height: auto; max-height: 700px; cursor: grab; }
-  .taiwan-svg:active { cursor: grabbing; }
 
-  .zoom-controls {
-    position: absolute; bottom: 2rem; right: 2rem;
-    display: flex; flex-direction: column; gap: 0.25rem;
+  .taiwan-svg {
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+    cursor: pointer;
   }
-  .zoom-btn {
-    width: 36px; height: 36px; background: white; border: 1px solid #e5e7eb;
-    border-radius: 8px; cursor: pointer; font-size: 1.1rem; font-weight: 600;
-    color: #374151; transition: all 0.2s; display: flex; align-items: center; justify-content: center;
-    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-  }
-  .zoom-btn:hover { background: #f0fdf4; border-color: #16a34a; color: #16a34a; }
 
-  :global(.county) { fill: #bbf7d0; stroke: #4ade80; stroke-width: 0.8; transition: fill 0.2s; }
-  :global(.county:hover) { fill: #86efac; }
-  :global(.marker) {
-    cursor: pointer; transition: all 0.3s ease;
+  .taiwan-mainland {
+    transition: all 0.3s ease;
+  }
+
+  .taiwan-mainland:hover {
+    filter: brightness(1.05);
+  }
+
+  .marker {
+    cursor: pointer;
+    transition: all 0.3s ease;
     filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
   }
-  :global(.marker:hover) {
+
+  .marker:hover {
+    transform: scale(1.3);
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)) brightness(1.1);
   }
-  :global(.marker.hidden) { opacity: 0; pointer-events: none; }
+
+  .marker.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .island {
+    fill: #16a34a;
+    stroke: #2d5016;
+    stroke-width: 1;
+  }
 
   .tooltip {
-    position: absolute; background: rgba(0,0,0,0.9); color: white;
-    padding: 0.75rem; border-radius: 8px; font-size: 0.85rem;
-    pointer-events: none; opacity: 0; transition: opacity 0.2s; z-index: 1000; max-width: 200px;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.9);
+    color: white;
+    padding: 0.75rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.2s;
+    z-index: 1000;
+    max-width: 200px;
   }
-  .tooltip-title { font-weight: 600; margin-bottom: 0.25rem; }
-  .tooltip-category { font-size: 0.75rem; opacity: 0.8; margin-bottom: 0.25rem; }
-  .tooltip-desc { font-size: 0.75rem; line-height: 1.3; }
+
+  .tooltip-title {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+
+  .tooltip-category {
+    font-size: 0.75rem;
+    opacity: 0.8;
+    margin-bottom: 0.25rem;
+  }
+
+  .tooltip-desc {
+    font-size: 0.75rem;
+    line-height: 1.3;
+  }
 
   .map-panel {
-    background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px;
-    padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05); position: sticky; top: 2rem;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 2rem;
   }
+
   .panel-content h3 {
-    font-size: 1.3rem; color: #2d5016; margin-bottom: 1rem;
-    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+    font-size: 1.3rem;
+    color: #2d5016;
+    margin-bottom: 1rem;
+    font-family: 'Noto Serif TC', serif;
   }
-  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem; }
-  .stat-item { text-align: center; padding: 1rem; background: #f9fafb; border-radius: 8px; }
-  .stat-number { display: block; font-size: 1.8rem; font-weight: 700; color: #16a34a; }
-  .stat-label { font-size: 0.85rem; color: #6b7280; }
 
-  .category-distribution h4 { font-size: 1rem; margin-bottom: 0.75rem; color: #374151; }
-  .category-list { display: flex; flex-direction: column; gap: 0.5rem; }
-  .category-item { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; }
-  .category-color { width: 12px; height: 12px; border-radius: 50%; }
+  .stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
 
-  .panel-links { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .stat-item {
+    text-align: center;
+    padding: 1rem;
+    background: #f9fafb;
+    border-radius: 8px;
+  }
+
+  .stat-number {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #16a34a;
+  }
+
+  .stat-label {
+    font-size: 0.85rem;
+    color: #6b7280;
+  }
+
+  .category-distribution h4 {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+    color: #374151;
+  }
+
+  .category-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .category-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.85rem;
+  }
+
+  .category-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+  }
+
+  .panel-links {
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
   .panel-link {
-    padding: 0.75rem; background: #f3f4f6; border-radius: 8px; text-decoration: none;
-    color: #374151; font-weight: 500; text-align: center; transition: background 0.2s;
+    padding: 0.75rem;
+    background: #f3f4f6;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #374151;
+    font-weight: 500;
+    text-align: center;
+    transition: background 0.2s;
   }
-  .panel-link:hover { background: #e5e7eb; }
 
-  .article-content { animation: fadeIn 0.3s ease; }
+  .panel-link:hover {
+    background: #e5e7eb;
+  }
+
+  .article-content {
+    animation: fadeIn 0.3s ease;
+  }
+
   @keyframes fadeIn {
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
   }
+
   .back-btn {
-    background: none; border: none; color: #6b7280; cursor: pointer;
-    font-size: 0.9rem; margin-bottom: 1rem; padding: 0.5rem 0;
+    background: none;
+    border: none;
+    color: #6b7280;
+    cursor: pointer;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+    padding: 0.5rem 0;
   }
-  .back-btn:hover { color: #16a34a; }
-  .article-meta { margin-bottom: 1rem; }
+
+  .back-btn:hover {
+    color: #16a34a;
+  }
+
+  .article-meta {
+    margin-bottom: 1rem;
+  }
+
   .article-category {
-    display: inline-block; padding: 0.25rem 0.75rem; background: #f0fdf4;
-    color: #16a34a; border-radius: 20px; font-size: 0.8rem; font-weight: 500;
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: #f0fdf4;
+    color: #16a34a;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
   }
+
   .read-more-btn {
-    display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem;
-    background: #16a34a; color: white; text-decoration: none;
-    border-radius: 8px; font-weight: 500; transition: background 0.2s;
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.75rem 1.5rem;
+    background: #16a34a;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 500;
+    transition: background 0.2s;
   }
-  .read-more-btn:hover { background: #15803d; }
+
+  .read-more-btn:hover {
+    background: #15803d;
+  }
 
   @media (max-width: 1024px) {
-    .controls-inner { grid-template-columns: 1fr; gap: 1.5rem; }
-    .map-body { grid-template-columns: 1fr; }
-    .map-panel { position: relative; top: auto; }
+    .controls-inner {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+    
+    .map-body {
+      grid-template-columns: 1fr;
+    }
+    
+    .map-panel {
+      position: relative;
+      top: auto;
+    }
   }
+
   @media (max-width: 768px) {
-    .map-hero h1 { font-size: 2.2rem; }
-    .filter-buttons { justify-content: center; }
-    .filter-btn { font-size: 0.8rem; padding: 0.4rem 0.8rem; }
+    .map-hero h1 {
+      font-size: 2.2rem;
+    }
+    
+    .filter-buttons {
+      justify-content: center;
+    }
+    
+    .filter-btn {
+      font-size: 0.8rem;
+      padding: 0.4rem 0.8rem;
+    }
   }
 </style>
 
-<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
-
-<script is:inline>
-  const markersData = JSON.parse(
-    document.getElementById('mapData').getAttribute('data-markers')
-  );
-
+<script>
+  // Category colors mapping
   const categoryColors = {
-    history: '#e74c3c', geography: '#2ecc71', culture: '#9b59b6', food: '#f39c12',
-    art: '#e91e63', music: '#00bcd4', technology: '#3498db', nature: '#27ae60',
-    people: '#ff9800', society: '#607d8b', economy: '#ff5722', lifestyle: '#8bc34a',
+    history: '#e74c3c',
+    geography: '#2ecc71', 
+    culture: '#9b59b6',
+    food: '#f39c12',
+    art: '#e91e63',
+    music: '#00bcd4',
+    technology: '#3498db',
+    nature: '#27ae60',
+    people: '#ff9800',
+    society: '#607d8b',
+    economy: '#ff5722',
+    lifestyle: '#8bc34a'
   };
 
   const categoryNames = {
-    history: '📜 History', geography: '🗺️ Geography', culture: '🎭 Culture', food: '🍜 Food',
-    art: '🎨 Art', music: '🎵 Music', technology: '💻 Technology', nature: '🌿 Nature',
-    people: '👥 People', society: '⚖️ Society', economy: '📈 Economy', lifestyle: '🏮 Lifestyle',
+    history: 'History',
+    geography: 'Geography', 
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle'
   };
 
   let activeRegionFilter = 'all';
   let activeCategoryFilter = 'all';
-  let mapZoom = null;
-  let svgSelection = null;
 
-  async function drawTaiwanMap() {
-    try {
-      const response = await fetch(
-        'https://cdn.jsdelivr.net/npm/taiwan-atlas@0.0.3/counties-10t.json'
-      );
-      const topology = await response.json();
-      const geojson = topojson.feature(topology, topology.objects.counties);
-      const projection = d3.geoMercator().fitSize([800, 1000], geojson);
-      const pathGenerator = d3.geoPath().projection(projection);
-
-      const group = document.getElementById('taiwanCounties');
-      geojson.features.forEach((feature) => {
-        const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-        const d = pathGenerator(feature);
-        if (!d) return;
-        path.setAttribute('d', d);
-        path.setAttribute('class', 'county');
-        path.setAttribute('fill', '#bbf7d0');
-        path.setAttribute('stroke', '#4ade80');
-        path.setAttribute('stroke-width', '0.8');
-        group.appendChild(path);
-      });
-
-      const markersGroup = document.getElementById('markers');
-      markersData.forEach((m) => {
-        const [x, y] = projection([m.lng, m.lat]);
-        const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-        circle.setAttribute('cx', String(x));
-        circle.setAttribute('cy', String(y));
-        circle.setAttribute('r', '8');
-        circle.setAttribute('class', 'marker');
-        circle.setAttribute('fill', categoryColors[m.category] || '#16a34a');
-        circle.setAttribute('data-region', m.region);
-        circle.setAttribute('data-category', m.category);
-        circle.setAttribute('data-title', m.title);
-        circle.setAttribute('data-link', m.link);
-        circle.setAttribute('data-desc', m.desc);
-        markersGroup.appendChild(circle);
-      });
-
-      const svg = document.getElementById('taiwanMap');
-      svgSelection = d3.select(svg);
-      mapZoom = d3.zoom()
-        .scaleExtent([1, 8])
-        .on('zoom', (event) => {
-          document.getElementById('zoomGroup').setAttribute('transform', event.transform);
-          const scale = event.transform.k;
-          document.querySelectorAll('.marker').forEach((marker) => {
-            const originalR = 8;
-            marker.setAttribute('r', String(originalR / scale));
-          });
-        });
-      svgSelection.call(mapZoom);
-
-    } catch (err) {
-      console.warn('Taiwan TopoJSON failed, using fallback', err);
-      const group = document.getElementById('taiwanCounties');
-      const fallback = document.createElementNS('http://www.w3.org/2000/svg', 'path');
-      fallback.setAttribute('d',
-        'M400 100 C450 100, 480 130, 485 180 C490 220, 485 260, 480 300 C475 340, 470 380, 465 420 C460 460, 455 500, 450 540 C445 580, 440 620, 435 660 C430 700, 425 740, 415 780 C405 820, 390 850, 370 870 C350 890, 320 895, 290 890 C260 885, 230 875, 210 860 C190 845, 175 825, 165 800 C155 775, 150 745, 155 710 C160 675, 170 640, 175 605 C180 570, 175 535, 180 500 C185 465, 195 430, 205 395 C215 360, 225 325, 235 290 C245 255, 255 220, 270 190 C285 160, 310 135, 340 125 C370 115, 390 105, 400 100 Z'
-      );
-      fallback.setAttribute('fill', 'url(#taiwanGradient)');
-      fallback.setAttribute('stroke', '#2d5016');
-      fallback.setAttribute('stroke-width', '2');
-      group.appendChild(fallback);
-    }
-  }
-
+  // Initialize map
   function initMap() {
-    const svg = document.getElementById('taiwanMap');
+    const markers = document.querySelectorAll('.marker');
     const tooltip = document.getElementById('tooltip');
     const regionFilters = document.getElementById('regionFilters');
     const categoryFilters = document.getElementById('categoryFilters');
 
-    svg.addEventListener('mouseover', (e) => {
-      const marker = e.target.closest('.marker');
-      if (!marker) return;
-      tooltip.querySelector('.tooltip-title').textContent = marker.getAttribute('data-title');
-      tooltip.querySelector('.tooltip-category').textContent = categoryNames[marker.getAttribute('data-category')] || marker.getAttribute('data-category');
-      tooltip.querySelector('.tooltip-desc').textContent = marker.getAttribute('data-desc');
-      tooltip.style.opacity = '1';
-    });
-
-    svg.addEventListener('mousemove', (e) => {
-      const rect = svg.getBoundingClientRect();
-      tooltip.style.left = e.clientX - rect.left + 10 + 'px';
-      tooltip.style.top = e.clientY - rect.top - 10 + 'px';
-    });
-
-    svg.addEventListener('mouseout', (e) => {
-      if (!e.target.closest('.marker')) return;
-      tooltip.style.opacity = '0';
-    });
-
-    svg.addEventListener('click', (e) => {
-      const marker = e.target.closest('.marker');
-      if (!marker) return;
-      showArticleInfo(marker);
-    });
-
-    document.getElementById('zoomIn').addEventListener('click', () => {
-      if (svgSelection && mapZoom) {
-        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 1.5);
+    // Set up marker colors based on category
+    markers.forEach(marker => {
+      const category = marker.dataset.category;
+      if (categoryColors[category]) {
+        marker.setAttribute('fill', categoryColors[category]);
       }
     });
 
-    document.getElementById('zoomOut').addEventListener('click', () => {
-      if (svgSelection && mapZoom) {
-        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 0.67);
-      }
+    // Marker hover events
+    markers.forEach(marker => {
+      marker.addEventListener('mouseenter', (e) => {
+        const title = e.target.dataset.title;
+        const category = e.target.dataset.category;
+        const desc = e.target.dataset.desc;
+        
+        tooltip.querySelector('.tooltip-title').textContent = title;
+        tooltip.querySelector('.tooltip-category').textContent = categoryNames[category] || category;
+        tooltip.querySelector('.tooltip-desc').textContent = desc;
+        
+        tooltip.style.opacity = '1';
+      });
+
+      marker.addEventListener('mousemove', (e) => {
+        const rect = e.target.closest('svg').getBoundingClientRect();
+        tooltip.style.left = (e.clientX - rect.left + 10) + 'px';
+        tooltip.style.top = (e.clientY - rect.top - 10) + 'px';
+      });
+
+      marker.addEventListener('mouseleave', () => {
+        tooltip.style.opacity = '0';
+      });
+
+      marker.addEventListener('click', (e) => {
+        showArticleInfo(e.target);
+      });
     });
 
-    document.getElementById('resetZoom').addEventListener('click', () => {
-      if (svgSelection && mapZoom) {
-        svgSelection.transition().duration(500).call(mapZoom.transform, d3.zoomIdentity);
-      }
-    });
-
+    // Region filter buttons
     regionFilters.addEventListener('click', (e) => {
-      if (!e.target.classList.contains('filter-btn')) return;
-      regionFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-      e.target.classList.add('active');
-      activeRegionFilter = e.target.getAttribute('data-filter');
-      applyFilters();
+      if (e.target.classList.contains('filter-btn')) {
+        regionFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        e.target.classList.add('active');
+        activeRegionFilter = e.target.dataset.filter;
+        applyFilters();
+      }
     });
 
+    // Category filter buttons
     categoryFilters.addEventListener('click', (e) => {
-      if (!e.target.classList.contains('filter-btn')) return;
-      categoryFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-      e.target.classList.add('active');
-      activeCategoryFilter = e.target.getAttribute('data-filter');
-      applyFilters();
+      if (e.target.classList.contains('filter-btn')) {
+        categoryFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+        e.target.classList.add('active');
+        activeCategoryFilter = e.target.dataset.filter;
+        applyFilters();
+      }
     });
 
+    // Back button
     document.getElementById('backBtn').addEventListener('click', () => {
       document.getElementById('defaultContent').style.display = 'block';
       document.getElementById('articleContent').style.display = 'none';
@@ -443,11 +650,14 @@ import markersData from '../../data/map-markers.json';
   function applyFilters() {
     const markers = document.querySelectorAll('.marker');
     let visibleCount = 0;
-    markers.forEach((marker) => {
-      const region = marker.getAttribute('data-region');
-      const category = marker.getAttribute('data-category');
+    
+    markers.forEach(marker => {
+      const region = marker.dataset.region;
+      const category = marker.dataset.category;
+      
       const regionMatch = activeRegionFilter === 'all' || region === activeRegionFilter;
       const categoryMatch = activeCategoryFilter === 'all' || category === activeCategoryFilter;
+      
       if (regionMatch && categoryMatch) {
         marker.classList.remove('hidden');
         visibleCount++;
@@ -455,26 +665,32 @@ import markersData from '../../data/map-markers.json';
         marker.classList.add('hidden');
       }
     });
+
+    // Update stats
     document.getElementById('totalMarkers').textContent = visibleCount;
   }
 
   function showArticleInfo(marker) {
-    const category = marker.getAttribute('data-category');
-    document.getElementById('articleTitle').textContent = marker.getAttribute('data-title');
-    document.getElementById('articleDesc').textContent = marker.getAttribute('data-desc');
-    document.getElementById('articleLink').href = marker.getAttribute('data-link');
+    const title = marker.dataset.title;
+    const category = marker.dataset.category;
+    const desc = marker.dataset.desc;
+    const link = marker.dataset.link;
 
+    document.getElementById('articleTitle').textContent = title;
+    document.getElementById('articleCategory').textContent = categoryNames[category];
+    document.getElementById('articleDesc').textContent = desc;
+    document.getElementById('articleLink').href = link;
+
+    // Set category color
     const categoryEl = document.getElementById('articleCategory');
-    categoryEl.textContent = categoryNames[category];
-    categoryEl.style.background = (categoryColors[category] || '#16a34a') + '20';
-    categoryEl.style.color = categoryColors[category] || '#16a34a';
+    categoryEl.style.background = categoryColors[category] + '20';
+    categoryEl.style.color = categoryColors[category];
 
     document.getElementById('defaultContent').style.display = 'none';
     document.getElementById('articleContent').style.display = 'block';
   }
 
-  document.addEventListener('DOMContentLoaded', async () => {
-    await drawTaiwanMap();
-    initMap();
-  });
+  // Initialize when page loads
+  document.addEventListener('DOMContentLoaded', initMap);
 </script>
+</Layout>

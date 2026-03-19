@@ -1,7 +1,7 @@
 {
   "name": "taiwan-md",
   "type": "module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "node": ">=22.12.0"
   },
@@ -9,10 +9,13 @@
     "dev": "astro dev",
     "prebuild": "node scripts/generate-api.js",
     "build": "astro build",
+    "postbuild": "npx pagefind --site dist",
     "preview": "astro preview",
     "sync": "bash scripts/sync.sh",
     "sync:build": "bash scripts/sync.sh && astro build",
     "check-images": "node scripts/check-images.mjs",
+    "sanitize": "node scripts/sanitize-content.mjs",
+    "translate:es": "node scripts/translate-to-es.mjs",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
@@ -21,14 +24,23 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.5",
+    "dompurify": "^3.2.4",
     "gray-matter": "^4.0.3",
+    "jsdom": "^26.0.0",
+    "leaflet": "^1.9.4",
     "marked": "^17.0.4",
+    "pagefind": "^1.3.0",
     "rehype-external-links": "^3.0.0",
-    "remark-wiki-link": "^2.0.1"
+    "remark-wiki-link": "^2.0.1",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
+    "@types/dompurify": "^3.2.0",
+    "@types/leaflet": "^1.9.16",
+    "autoprefixer": "^10.4.20",
     "husky": "^9.1.7",
     "lint-staged": "^16.4.0",
+    "postcss": "^8.4.49",
     "prettier": "3.8.1",
     "prettier-plugin-astro": "0.14.1"
   }

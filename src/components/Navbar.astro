@@ -1,0 +1,337 @@
+---
+/**
+ * Navbar component — Sticky navigation with language switcher
+ * Premium Taiwanese aesthetic: forest green, cream backdrop, Taiwan SVG icon
+ */
+import { t, getLocaleFromPath, getLangPrefix, getActiveLocales, localeNames, localeFlags } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const prefix = getLangPrefix(lang);
+const currentPath = Astro.url.pathname;
+
+// Navigation items
+const navItems = [
+  { href: `${prefix}/`, label: t('nav.home', lang), id: 'home' },
+  { href: `${prefix}/#journey`, label: t('nav.journey', lang), id: 'journey' },
+  { href: `${prefix}/map`, label: t('nav.map', lang), id: 'map' },
+  { href: `${prefix}/graph`, label: t('nav.graph', lang), id: 'graph' },
+  { href: `${prefix}/contribute`, label: t('nav.contribute', lang), id: 'contribute' },
+];
+
+// Category dropdown items
+const categories = [
+  { slug: 'history', icon: 'history' },
+  { slug: 'geography', icon: 'geography' },
+  { slug: 'culture', icon: 'culture' },
+  { slug: 'food', icon: 'food' },
+  { slug: 'art', icon: 'art' },
+  { slug: 'music', icon: 'music' },
+  { slug: 'technology', icon: 'technology' },
+  { slug: 'nature', icon: 'nature' },
+  { slug: 'people', icon: 'people' },
+  { slug: 'society', icon: 'society' },
+  { slug: 'economy', icon: 'economy' },
+  { slug: 'lifestyle', icon: 'lifestyle' },
+];
+
+// Language switch links
+function getLangLink(targetLang: Locale): string {
+  const targetPrefix = getLangPrefix(targetLang);
+  // Strip current locale prefix from path
+  let cleanPath = currentPath;
+  for (const loc of getActiveLocales()) {
+    const p = getLangPrefix(loc);
+    if (p && cleanPath.startsWith(p)) {
+      cleanPath = cleanPath.slice(p.length) || '/';
+      break;
+    }
+  }
+  return targetPrefix + (cleanPath === '/' ? '' : cleanPath) || '/';
+}
+---
+
+<header class="fixed top-0 left-0 right-0 z-50 transition-all duration-500" id="site-navbar">
+  <div class="max-w-wide mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-18">
+      <!-- Logo -->
+      <a href={`${prefix}/`} class="flex items-center gap-2 group" aria-label="Taiwan.md Home">
+        <svg class="w-7 h-7 text-teal group-hover:text-forest transition-colors" viewBox="0 0 100 140" fill="currentColor" aria-hidden="true">
+          <path d="M50 5C47 8 42 15 38 25C34 35 30 48 28 58C26 68 27 78 30 88C33 98 38 108 43 115C48 122 52 125 54 128C56 131 55 133 52 135C65 130 72 118 74 108C76 98 74 88 70 78C66 68 60 58 56 48C52 38 50 28 50 18C50 13 50 8 50 5Z" />
+        </svg>
+        <span class="text-xl font-serif font-bold text-forest">
+          Taiwan<span class="text-teal">.md</span>
+        </span>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden lg:flex items-center gap-1" aria-label="Main navigation">
+        {navItems.map(item => (
+          <a
+            href={item.href}
+            class:list={[
+              'px-3 py-2 text-sm font-medium rounded-lg transition-colors',
+              currentPath === item.href || (item.id !== 'home' && currentPath.startsWith(item.href.replace(/#.*$/, '')))
+                ? 'text-teal bg-teal/5'
+                : 'text-forest-600 hover:text-teal hover:bg-teal/5'
+            ]}
+          >
+            {item.label}
+          </a>
+        ))}
+
+        <!-- Topics Dropdown -->
+        <div class="relative group" id="topics-dropdown">
+          <button
+            class="px-3 py-2 text-sm font-medium text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors flex items-center gap-1"
+            aria-expanded="false"
+            aria-haspopup="true"
+          >
+            {t('nav.topics', lang)}
+            <svg class="w-3.5 h-3.5 transition-transform group-hover:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div class="absolute top-full left-0 mt-1 w-56 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 bg-white/95 backdrop-blur-xl border border-forest-100/50 rounded-xl shadow-lg py-2 z-50">
+            {categories.map(cat => (
+              <a
+                href={`${prefix}/${cat.slug}`}
+                class="flex items-center gap-3 px-4 py-2.5 text-sm text-forest-600 hover:text-teal hover:bg-teal/5 transition-colors"
+              >
+                <span class="w-5 text-center text-xs opacity-70">{t(`cat.${cat.slug}`, lang)}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <a
+          href="https://github.com/frank890417/taiwan-md"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="px-3 py-2 text-sm font-medium text-forest-400 hover:text-forest transition-colors"
+          aria-label="GitHub Repository"
+        >
+          <svg class="w-5 h-5" viewBox="0 0 16 16" fill="currentColor">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+          </svg>
+        </a>
+      </nav>
+
+      <!-- Right side: Search + Language + Mobile menu -->
+      <div class="flex items-center gap-2">
+        <!-- Search Button -->
+        <button
+          class="p-2 text-forest-400 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors"
+          aria-label={t('nav.search', lang)}
+          id="search-trigger"
+        >
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" />
+          </svg>
+        </button>
+
+        <!-- Language Switcher -->
+        <div class="relative" id="lang-switcher">
+          <button
+            class="flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium text-forest-600 hover:text-teal border border-forest-100 hover:border-teal/30 rounded-full transition-all"
+            aria-label={t('nav.language', lang)}
+            aria-expanded="false"
+            aria-haspopup="true"
+            id="lang-btn"
+          >
+            <span>{localeFlags[lang]}</span>
+            <span>{localeNames[lang]}</span>
+            <svg class="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+          <div
+            class="absolute right-0 top-full mt-2 w-44 bg-white/95 backdrop-blur-xl border border-forest-100/50 rounded-xl shadow-lg py-2 z-50 hidden"
+            id="lang-dropdown"
+            role="menu"
+          >
+            {getActiveLocales().map(loc => (
+              <a
+                href={getLangLink(loc)}
+                class:list={[
+                  'flex items-center gap-3 px-4 py-2.5 text-sm transition-colors',
+                  loc === lang
+                    ? 'text-teal bg-teal/5 font-medium'
+                    : 'text-forest-600 hover:text-teal hover:bg-teal/5'
+                ]}
+                role="menuitem"
+              >
+                <span class="text-base">{localeFlags[loc]}</span>
+                <span>{localeNames[loc]}</span>
+              </a>
+            ))}
+            {/* Future locales — shown as disabled */}
+            {(['ja', 'ko', 'fr'] as const).map(loc => (
+              <span class="flex items-center gap-3 px-4 py-2.5 text-sm text-forest-300 cursor-not-allowed" role="menuitem" aria-disabled="true">
+                <span class="text-base">{localeFlags[loc]}</span>
+                <span>{localeNames[loc]}</span>
+                <span class="ml-auto text-xs bg-forest-50 px-1.5 py-0.5 rounded">Soon</span>
+              </span>
+            ))}
+          </div>
+        </div>
+
+        <!-- Mobile Menu Button -->
+        <button
+          class="lg:hidden p-2 text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors"
+          aria-label="Toggle menu"
+          id="mobile-menu-btn"
+        >
+          <svg class="w-6 h-6" id="menu-icon-open" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+          <svg class="w-6 h-6 hidden" id="menu-icon-close" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile Navigation Panel -->
+  <div class="lg:hidden hidden" id="mobile-nav">
+    <div class="border-t border-forest-100/50 bg-cream/95 backdrop-blur-xl px-4 py-4 space-y-1">
+      {navItems.map(item => (
+        <a
+          href={item.href}
+          class:list={[
+            'block px-4 py-3 text-base font-medium rounded-lg transition-colors',
+            currentPath === item.href ? 'text-teal bg-teal/5' : 'text-forest-600 hover:text-teal hover:bg-teal/5'
+          ]}
+        >
+          {item.label}
+        </a>
+      ))}
+      <div class="border-t border-forest-100/30 pt-3 mt-3">
+        <p class="px-4 text-xs font-medium text-forest-400 uppercase tracking-wider mb-2">{t('nav.topics', lang)}</p>
+        <div class="grid grid-cols-2 gap-1">
+          {categories.map(cat => (
+            <a href={`${prefix}/${cat.slug}`} class="px-4 py-2 text-sm text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors">
+              {t(`cat.${cat.slug}`, lang)}
+            </a>
+          ))}
+        </div>
+      </div>
+      <div class="border-t border-forest-100/30 pt-3 mt-3">
+        <p class="px-4 text-xs font-medium text-forest-400 uppercase tracking-wider mb-2">{t('nav.language', lang)}</p>
+        <div class="flex gap-2 px-4">
+          {getActiveLocales().map(loc => (
+            <a
+              href={getLangLink(loc)}
+              class:list={[
+                'flex items-center gap-1.5 px-3 py-2 text-sm rounded-full border transition-colors',
+                loc === lang
+                  ? 'text-teal border-teal bg-teal/5 font-medium'
+                  : 'text-forest-600 border-forest-100 hover:border-teal/30 hover:text-teal'
+              ]}
+            >
+              <span>{localeFlags[loc]}</span> {localeNames[loc]}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Spacer for fixed navbar -->
+<div class="h-18"></div>
+
+<script is:inline>
+(function() {
+  const navbar = document.getElementById('site-navbar');
+  const mobileBtn = document.getElementById('mobile-menu-btn');
+  const mobileNav = document.getElementById('mobile-nav');
+  const menuOpen = document.getElementById('menu-icon-open');
+  const menuClose = document.getElementById('menu-icon-close');
+  const langBtn = document.getElementById('lang-btn');
+  const langDropdown = document.getElementById('lang-dropdown');
+  const searchTrigger = document.getElementById('search-trigger');
+
+  // Scroll effect: transparent → frosted glass
+  let lastScroll = 0;
+  function updateNavbar() {
+    const scrollY = window.scrollY;
+    if (scrollY > 80) {
+      navbar.classList.add('bg-white/70', 'backdrop-blur-2xl', 'shadow-sm', 'border-b', 'border-forest-100/20');
+      navbar.classList.remove('bg-transparent');
+    } else {
+      navbar.classList.remove('bg-white/70', 'backdrop-blur-2xl', 'shadow-sm', 'border-b', 'border-forest-100/20');
+      navbar.classList.add('bg-transparent');
+    }
+    // On non-home pages, always show solid bg
+    if (window.location.pathname !== '/' && !window.location.pathname.match(/^\/(en|es)\/?$/)) {
+      navbar.classList.add('bg-white/70', 'backdrop-blur-2xl', 'border-b', 'border-forest-100/20');
+    }
+    lastScroll = scrollY;
+  }
+  // Set initially solid for non-home pages
+  updateNavbar();
+  window.addEventListener('scroll', updateNavbar, { passive: true });
+
+  // Mobile menu toggle
+  if (mobileBtn && mobileNav) {
+    mobileBtn.addEventListener('click', function() {
+      const isOpen = !mobileNav.classList.contains('hidden');
+      mobileNav.classList.toggle('hidden');
+      menuOpen.classList.toggle('hidden');
+      menuClose.classList.toggle('hidden');
+      mobileBtn.setAttribute('aria-expanded', String(!isOpen));
+    });
+  }
+
+  // Language dropdown
+  if (langBtn && langDropdown) {
+    langBtn.addEventListener('click', function(e) {
+      e.stopPropagation();
+      const isOpen = !langDropdown.classList.contains('hidden');
+      langDropdown.classList.toggle('hidden');
+      langBtn.setAttribute('aria-expanded', String(!isOpen));
+    });
+    document.addEventListener('click', function() {
+      langDropdown.classList.add('hidden');
+      langBtn.setAttribute('aria-expanded', 'false');
+    });
+  }
+
+  // Search trigger
+  if (searchTrigger) {
+    searchTrigger.addEventListener('click', function() {
+      var modal = document.getElementById('search-modal');
+      if (modal) {
+        modal.classList.add('open');
+        setTimeout(function() {
+          var input = document.getElementById('search-input');
+          if (input) input.focus();
+        }, 100);
+      }
+    });
+  }
+
+  // Keyboard shortcut: Cmd/Ctrl+K for search
+  document.addEventListener('keydown', function(e) {
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      var modal = document.getElementById('search-modal');
+      if (modal) {
+        modal.classList.toggle('open');
+        if (modal.classList.contains('open')) {
+          setTimeout(function() {
+            var input = document.getElementById('search-input');
+            if (input) input.focus();
+          }, 100);
+        }
+      }
+    }
+  });
+})();
+</script>

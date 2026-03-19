@@ -41,14 +41,14 @@ function formatDate(dateStr: string) {
 }
 
 function commitIcon(msg: string) {
-  if (msg.startsWith('feat')) return '✨';
-  if (msg.startsWith('fix')) return '🐛';
-  if (msg.startsWith('content')) return '📝';
-  if (msg.startsWith('docs')) return '📖';
-  if (msg.startsWith('style')) return '🎨';
-  if (msg.startsWith('refactor')) return '♻️';
-  if (msg.startsWith('chore')) return '🔧';
-  return '📌';
+  if (msg.startsWith('feat')) return 'feat';
+  if (msg.startsWith('fix')) return 'fix';
+  if (msg.startsWith('content')) return 'content';
+  if (msg.startsWith('docs')) return 'docs';
+  if (msg.startsWith('style')) return 'style';
+  if (msg.startsWith('refactor')) return 'refactor';
+  if (msg.startsWith('chore')) return 'chore';
+  return 'update';
 }
 ---
 

@@ -1,0 +1,159 @@
+---
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import { marked } from 'marked';
+import Layout from '../../../layouts/Layout.astro';
+import TextToSpeech from '../../../components/TextToSpeech.astro';
+import { categoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
+
+export async function getStaticPaths() {
+  const categoryMapping: Record<string, string> = {
+    history: 'History', geography: 'Geography', culture: 'Culture',
+    food: 'Food', art: 'Art', music: 'Music',
+    technology: 'Technology', nature: 'Nature', people: 'People',
+    society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+  };
+  const categories = Object.keys(categoryConfig);
+  const paths: any[] = [];
+
+  for (const category of categories) {
+    const folderName = categoryMapping[category];
+    try {
+      const esFolderPath = resolve(process.cwd(), 'knowledge', 'es', folderName);
+      const files = await readdir(esFolderPath);
+      const mdFiles = files.filter(f => f.endsWith('.md') && !f.startsWith('_'));
+
+      for (const file of mdFiles) {
+        const filePath = join(esFolderPath, file);
+        const raw = await readFile(filePath, 'utf-8');
+        const { data: frontmatter, content } = matter(raw);
+        const slug = basename(file, '.md');
+
+        // Resolve wikilinks
+        const resolved = content.replace(
+          /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+          (_, target, display) => {
+            const label = display || target;
+            return `[${label}](/es/${category}/${encodeURIComponent(target)})`;
+          }
+        );
+
+        const html = await marked.parse(resolved);
+        const wordCount = content.replace(/[#*\[\]`>-]/g, '').split(/\s+/).length;
+        const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+
+        // Related articles in same category
+        const related = mdFiles
+          .filter(f => f !== file)
+          .slice(0, 3)
+          .map(f => {
+            const s = basename(f, '.md');
+            return { slug: s, title: s };
+          });
+
+        paths.push({
+          params: { category, slug },
+          props: {
+            title: frontmatter.title || slug,
+            description: frontmatter.description || '',
+            html,
+            readingTime,
+            category,
+            categoryInfo: categoryConfig[category as CategoryKey],
+            slug,
+            related,
+            contributors: frontmatter.contributors || [],
+            lastUpdated: frontmatter.date || null,
+          },
+        });
+      }
+    } catch {}
+  }
+
+  return paths;
+}
+
+const { title, description, html, readingTime, category, categoryInfo, slug, related, contributors, lastUpdated } = Astro.props;
+const categoryMapping: Record<string, string> = {
+  history: 'History', geography: 'Geography', culture: 'Culture',
+  food: 'Food', art: 'Art', music: 'Music',
+  technology: 'Technology', nature: 'Nature', people: 'People',
+  society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+};
+const folderName = categoryMapping[category];
+const githubEditUrl = `https://github.com/frank890417/taiwan-md/edit/main/knowledge/es/${folderName}/${slug}.md`;
+const shareUrl = `https://taiwan.md/es/${category}/${slug}`;
+---
+
+<Layout title={`${title} - Taiwan.md`} description={description} lang="es">
+  <main class="max-w-4xl mx-auto px-6 py-8">
+    <!-- Breadcrumb -->
+    <nav class="text-sm text-forest-400 mb-6">
+      <a href="/es" class="hover:text-teal transition-colors">Inicio</a>
+      <span class="mx-2">›</span>
+      <a href={`/es/${category}`} class="hover:text-teal transition-colors">{categoryInfo.name_es}</a>
+      <span class="mx-2">›</span>
+      <span class="text-forest font-medium">{title}</span>
+    </nav>
+
+    <!-- Article Header -->
+    <header class="mb-8">
+      <div class="flex items-center gap-3 mb-3">
+        <span class="text-2xl">{categoryInfo.icon}</span>
+        <a href={`/es/${category}`} class="text-sm font-medium no-underline" style={`color: ${categoryInfo.color};`}>{categoryInfo.name_es}</a>
+      </div>
+      <h1 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-4">{title}</h1>
+      {description && <p class="text-lg text-forest-400">{description}</p>}
+      <div class="flex flex-wrap items-center gap-4 mt-4 text-sm text-forest-300">
+        <span>{readingTime} min de lectura</span>
+        {lastUpdated && <span>{new Date(lastUpdated).toLocaleDateString('es-ES', { year: 'numeric', month: 'long', day: 'numeric' })}</span>}
+      </div>
+      <div class="mt-4">
+        <TextToSpeech lang="es" />
+      </div>
+    </header>
+
+    <!-- Article Content -->
+    <article class="prose prose-lg max-w-none" id="article-content" set:html={html} />
+
+    <!-- Article Footer -->
+    <footer class="mt-12 pt-8 border-t border-forest-100/30 space-y-6">
+      <!-- Actions -->
+      <div class="flex flex-wrap gap-3">
+        <a href={githubEditUrl} target="blank" class="btn-secondary text-sm inline-flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" /></svg>
+          Editar en GitHub
+        </a>
+        <button onclick={`navigator.share?.({title:'${title.replace(/'/g, "\\'")  }',url:'${shareUrl}'}).catch(()=>navigator.clipboard?.writeText('${shareUrl}'))`}
+                class="btn-ghost text-sm inline-flex items-center gap-1.5">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" /></svg>
+          Compartir
+        </button>
+      </div>
+
+      <!-- Related Articles -->
+      {related.length > 0 && (
+        <div>
+          <h2 class="text-lg font-serif font-bold text-forest mb-4">Artículos Relacionados</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            {related.map((r: any) => (
+              <a href={`/es/${category}/${r.slug}`}
+                 class="p-4 rounded-xl border border-forest-100/30 bg-white hover:shadow-soft hover:border-teal/20 transition-all no-underline">
+                <span class="text-sm">{categoryInfo.icon}</span>
+                <h3 class="text-sm font-bold text-forest mt-1">{r.title}</h3>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
+      <!-- Back -->
+      <div class="text-center pt-4">
+        <a href={`/es/${category}`} class="text-teal font-semibold hover:text-teal-600 transition-colors no-underline">
+          ← Volver a {categoryInfo.name_es}
+        </a>
+      </div>
+    </footer>
+  </main>
+</Layout>

@@ -1,0 +1,129 @@
+---
+/**
+ * WelcomeModal — First-visit guided tour (4 slides)
+ * Shows once, remembers dismissal in localStorage
+ */
+import { t, getLocaleFromPath } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+---
+
+<div id="welcome-modal" class="fixed inset-0 z-[200] hidden" role="dialog" aria-modal="true" aria-label={t('welcome.title', lang)}>
+  <div class="absolute inset-0 bg-forest/50 backdrop-blur-sm"></div>
+  <div class="relative max-w-lg mx-auto mt-[15vh] bg-white rounded-2xl shadow-2xl overflow-hidden">
+    <!-- Slides -->
+    <div id="welcome-slides" class="relative">
+      <!-- Slide 1 -->
+      <div class="welcome-slide px-8 py-10 text-center" data-slide="0">
+        <div class="w-16 h-16 mx-auto mb-6 bg-teal/10 rounded-full flex items-center justify-center">
+          <svg class="w-8 h-8 text-teal" viewBox="0 0 100 140" fill="currentColor">
+            <path d="M50 5C47 8 42 15 38 25C34 35 30 48 28 58C26 68 27 78 30 88C33 98 38 108 43 115C48 122 52 125 54 128C56 131 55 133 52 135C65 130 72 118 74 108C76 98 74 88 70 78C66 68 60 58 56 48C52 38 50 28 50 18C50 13 50 8 50 5Z" />
+          </svg>
+        </div>
+        <h2 class="text-2xl font-serif font-bold text-forest mb-3">{t('welcome.title', lang)}</h2>
+        <p class="text-forest-400">{t('welcome.slide1', lang)}</p>
+      </div>
+
+      <!-- Slide 2 -->
+      <div class="welcome-slide px-8 py-10 text-center hidden" data-slide="1">
+        <div class="w-16 h-16 mx-auto mb-6 bg-terracotta/10 rounded-full flex items-center justify-center">
+          <svg class="w-8 h-8 text-terracotta" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
+          </svg>
+        </div>
+        <h2 class="text-2xl font-serif font-bold text-forest mb-3">{t('welcome.slide2', lang)}</h2>
+        <p class="text-forest-400">4 curated paths covering nature, history, culture, and flavors</p>
+      </div>
+
+      <!-- Slide 3 -->
+      <div class="welcome-slide px-8 py-10 text-center hidden" data-slide="2">
+        <div class="w-16 h-16 mx-auto mb-6 bg-teal/10 rounded-full flex items-center justify-center">
+          <svg class="w-8 h-8 text-teal" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+          </svg>
+        </div>
+        <h2 class="text-2xl font-serif font-bold text-forest mb-3">{t('welcome.slide3', lang)}</h2>
+        <p class="text-forest-400">Click regions and landmarks to discover stories</p>
+      </div>
+
+      <!-- Slide 4 -->
+      <div class="welcome-slide px-8 py-10 text-center hidden" data-slide="3">
+        <div class="w-16 h-16 mx-auto mb-6 bg-terracotta/10 rounded-full flex items-center justify-center">
+          <svg class="w-8 h-8 text-terracotta" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3 5h12M9 3v2m1.048 9.5A18.022 18.022 0 016.412 9m6.088 9h7M11 21l5-10 5 10M12.751 5C11.783 10.77 8.07 15.61 3 18.129" />
+          </svg>
+        </div>
+        <h2 class="text-2xl font-serif font-bold text-forest mb-3">{t('welcome.slide4', lang)}</h2>
+        <p class="text-forest-400">TW 繁中 · EN English · ES Español</p>
+      </div>
+    </div>
+
+    <!-- Progress dots + buttons -->
+    <div class="flex items-center justify-between px-8 py-5 border-t border-forest-100/30">
+      <button class="text-sm text-forest-400 hover:text-forest transition-colors" id="welcome-skip">
+        {t('welcome.skip', lang)}
+      </button>
+      <div class="flex items-center gap-1.5" id="welcome-dots">
+        <span class="w-2 h-2 rounded-full bg-teal"></span>
+        <span class="w-2 h-2 rounded-full bg-forest-100"></span>
+        <span class="w-2 h-2 rounded-full bg-forest-100"></span>
+        <span class="w-2 h-2 rounded-full bg-forest-100"></span>
+      </div>
+      <button class="btn-primary text-sm py-2 px-5" id="welcome-next">
+        {t('welcome.next', lang)}
+      </button>
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+(function() {
+  if (localStorage.getItem('taiwan-md-welcomed')) return;
+
+  var modal = document.getElementById('welcome-modal');
+  if (!modal) return;
+  modal.classList.remove('hidden');
+
+  var slides = modal.querySelectorAll('.welcome-slide');
+  var dots = document.getElementById('welcome-dots').children;
+  var nextBtn = document.getElementById('welcome-next');
+  var skipBtn = document.getElementById('welcome-skip');
+  var current = 0;
+
+  function showSlide(n) {
+    slides.forEach(function(s) { s.classList.add('hidden'); });
+    slides[n].classList.remove('hidden');
+    Array.from(dots).forEach(function(d, i) {
+      d.className = 'w-2 h-2 rounded-full ' + (i === n ? 'bg-teal' : 'bg-forest-100');
+    });
+    if (n === slides.length - 1) {
+      nextBtn.textContent = nextBtn.getAttribute('data-start') || 'Start';
+    }
+  }
+
+  function dismiss() {
+    modal.classList.add('hidden');
+    localStorage.setItem('taiwan-md-welcomed', '1');
+  }
+
+  nextBtn.addEventListener('click', function() {
+    if (current < slides.length - 1) {
+      current++;
+      showSlide(current);
+    } else {
+      dismiss();
+    }
+  });
+
+  skipBtn.addEventListener('click', dismiss);
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') dismiss();
+  });
+})();
+</script>

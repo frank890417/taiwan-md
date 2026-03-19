@@ -1,0 +1,119 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import CategoryGrid from '../../components/CategoryGrid.astro';
+import HeroSection from '../../components/HeroSection.astro';
+import JourneyCard from '../../components/JourneyCard.astro';
+import { t } from '../../i18n/ui';
+import { categoryConfig } from '../../utils/categoryConfig';
+import { readdir } from 'fs/promises';
+import { resolve } from 'path';
+
+const lang = 'es';
+
+// Count Spanish articles
+let totalArticles = 0;
+const categoryMapping: Record<string, string> = {
+  history: 'History', geography: 'Geography', culture: 'Culture',
+  food: 'Food', art: 'Art', music: 'Music',
+  technology: 'Technology', nature: 'Nature', people: 'People',
+  society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+};
+for (const [cat, folder] of Object.entries(categoryMapping)) {
+  try {
+    const dir = resolve(process.cwd(), 'knowledge', 'es', folder);
+    const files = await readdir(dir);
+    totalArticles += files.filter(f => f.endsWith('.md') && !f.startsWith('_')).length;
+  } catch {}
+}
+---
+
+<Layout title="Base de Conocimiento de Taiwán - Taiwan.md" description="Base de conocimiento de código abierto sobre Taiwán para el mundo hispanohablante" lang="es">
+  <HeroSection lang={lang} />
+
+  <!-- Journey Paths -->
+  <section class="py-20 px-6 max-w-7xl mx-auto">
+    <div class="text-center mb-14">
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-3">{t('journey.title', lang)}</h2>
+      <p class="text-forest-400 text-lg">{t('journey.subtitle', lang)}</p>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+      <JourneyCard
+        title={t('journey.nature.title', lang)}
+        description={t('journey.nature.desc', lang)}
+        image="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=600&q=80"
+        imageAlt="Taroko Gorge marble cliffs"
+        href="/es/nature"
+        readTime="15"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.history.title', lang)}
+        description={t('journey.history.desc', lang)}
+        image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=600&q=80"
+        imageAlt="Traditional Taiwan temple"
+        href="/es/history"
+        readTime="20"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.culture.title', lang)}
+        description={t('journey.culture.desc', lang)}
+        image="https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?w=600&q=80"
+        imageAlt="Taiwan temple festival"
+        href="/es/culture"
+        readTime="18"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.flavors.title', lang)}
+        description={t('journey.flavors.desc', lang)}
+        image="https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80"
+        imageAlt="Taiwan night market food"
+        href="/es/food"
+        readTime="12"
+        ctaText={t('journey.begin', lang)}
+      />
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="py-20 px-6" id="categories">
+    <div class="text-center mb-10">
+      <h2 class="text-3xl font-serif font-bold text-forest">{t('categories.title', lang)}</h2>
+      <p class="text-forest-400 mt-2">{t('categories.subtitle', lang)}</p>
+    </div>
+    <CategoryGrid lang={lang} />
+  </section>
+
+  <!-- About & Contribute -->
+  <section class="py-16 px-6 text-center">
+    <div class="max-w-2xl mx-auto">
+      <h2 class="text-2xl font-serif font-bold text-forest mb-3">Contribuye a Taiwan.md</h2>
+      <p class="text-forest-400 mb-6">
+        Taiwan.md es un proyecto de código abierto impulsado por la comunidad.
+        Estamos buscando traductores al español para hacer que el conocimiento sobre Taiwán sea accesible a más de 500 millones de hispanohablantes.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a href="https://github.com/frank890417/taiwan-md" class="btn-primary" target="_blank">GitHub</a>
+        <a href="/en/contribute" class="btn-secondary">Guía de Contribución</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Translation Status -->
+  {totalArticles === 0 && (
+    <section class="py-12 px-6">
+      <div class="max-w-2xl mx-auto text-center bg-cream-50 rounded-2xl p-8 border border-forest-100/30">
+        <div class=\"mb-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"w-10 h-10 mx-auto text-teal\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418\" /></svg></div>
+        <h3 class="text-xl font-bold text-forest mb-2">Traducción en Progreso</h3>
+        <p class="text-forest-400 mb-4">
+          Estamos trabajando en traducir los artículos al español.
+          Mientras tanto, puedes explorar el contenido en <a href="/en" class="text-teal font-semibold">inglés</a> o <a href="/" class="text-teal font-semibold">chino tradicional</a>.
+        </p>
+        <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" class="text-teal font-semibold hover:text-teal-600 transition-colors">
+          Ayúdanos a traducir →
+        </a>
+      </div>
+    </section>
+  )}
+</Layout>

@@ -1,0 +1,99 @@
+---
+/**
+ * InteractiveMap — Leaflet.js map of Taiwan with clickable regions
+ * Uses OpenStreetMap tiles (free, no API key needed)
+ */
+import { t, getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+  fullPage?: boolean;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname), fullPage = false } = Astro.props;
+const prefix = getLangPrefix(lang);
+
+// Define Taiwan landmarks with article links
+const landmarks = [
+  { name: 'Taroko Gorge', nameZh: '太魯閣', lat: 24.1584, lng: 121.4940, category: 'nature', slug: 'national-parks' },
+  { name: 'Sun Moon Lake', nameZh: '日月潭', lat: 23.8490, lng: 120.9163, category: 'geography', slug: 'geography-and-geology' },
+  { name: 'Alishan', nameZh: '阿里山', lat: 23.5096, lng: 120.7011, category: 'nature', slug: 'national-parks' },
+  { name: 'Taipei 101', nameZh: '台北101', lat: 25.0340, lng: 121.5645, category: 'economy', slug: 'economic-miracle' },
+  { name: 'Jiufen', nameZh: '九份', lat: 25.1095, lng: 121.8448, category: 'culture', slug: 'ethnic-groups' },
+  { name: 'Kenting', nameZh: '墾丁', lat: 21.9484, lng: 120.7975, category: 'nature', slug: 'national-parks' },
+  { name: 'Yushan (Jade Mountain)', nameZh: '玉山', lat: 23.4700, lng: 120.9572, category: 'nature', slug: 'national-parks' },
+  { name: 'Shilin Night Market', nameZh: '士林夜市', lat: 25.0883, lng: 121.5242, category: 'food', slug: 'night-market-culture' },
+  { name: 'Tainan', nameZh: '台南', lat: 22.9997, lng: 120.2270, category: 'history', slug: 'dutch-spanish-and-koxinga-era' },
+  { name: 'Penghu', nameZh: '澎湖', lat: 23.5837, lng: 119.5794, category: 'geography', slug: 'geography-and-geology' },
+];
+
+const landmarksJson = JSON.stringify(landmarks);
+const mapHeight = fullPage ? 'h-[calc(100vh-4rem)]' : 'h-[500px]';
+---
+
+<div class={`relative ${mapHeight} w-full rounded-xl overflow-hidden shadow-card border border-forest-100/30`}>
+  <div id="taiwan-map" class="w-full h-full z-0"></div>
+  <div class="absolute bottom-4 left-4 bg-white/90 backdrop-blur text-xs text-forest-600 px-3 py-1.5 rounded-lg shadow-sm z-[1000]">
+    Click a marker to explore
+  </div>
+</div>
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+<script is:inline define:vars={{ landmarksJson, prefix }}>
+(function() {
+  // Dynamically load Leaflet JS
+  if (window.L) { initMap(); return; }
+  var script = document.createElement('script');
+  script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+  script.integrity = 'sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=';
+  script.crossOrigin = '';
+  script.onload = initMap;
+  document.head.appendChild(script);
+
+  function initMap() {
+    var mapEl = document.getElementById('taiwan-map');
+    if (!mapEl || mapEl._leaflet_map) return;
+
+    var map = L.map('taiwan-map', {
+      center: [23.7, 120.9],
+      zoom: 7,
+      minZoom: 6,
+      maxZoom: 15,
+      scrollWheelZoom: true,
+      zoomControl: true,
+    });
+    mapEl._leaflet_map = true;
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      maxZoom: 18,
+    }).addTo(map);
+
+    // Custom marker icon
+    var tealIcon = L.divIcon({
+      className: 'custom-marker',
+      html: '<div style="width:12px;height:12px;background:#006D77;border:2px solid white;border-radius:50%;box-shadow:0 2px 6px rgba(0,0,0,0.3);"></div>',
+      iconSize: [12, 12],
+      iconAnchor: [6, 6],
+      popupAnchor: [0, -8],
+    });
+
+    var landmarks = JSON.parse(landmarksJson);
+    landmarks.forEach(function(lm) {
+      var langPrefix = prefix || '';
+      var articleUrl = langPrefix + '/' + lm.category + '/' + lm.slug;
+      var popupContent = '<div style="font-family:Inter,sans-serif;min-width:140px;">' +
+        '<strong style="color:#1A3C34;font-size:14px;">' + lm.name + '</strong>' +
+        '<br><span style="color:#666;font-size:12px;">' + lm.nameZh + '</span>' +
+        '<br><a href="' + articleUrl + '" style="color:#006D77;font-size:12px;text-decoration:underline;">Read more →</a>' +
+        '</div>';
+      L.marker([lm.lat, lm.lng], { icon: tealIcon })
+        .bindPopup(popupContent)
+        .addTo(map);
+    });
+  }
+})();
+</script>

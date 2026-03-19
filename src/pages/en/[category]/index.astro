@@ -4,15 +4,10 @@ import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../../layouts/Layout.astro';
 import { marked } from 'marked';
-
-import { useTranslations, getLangFromUrl } from '../../../i18n/utils';
-import {
-  categoryList as categories,
-  getCategoryConfigs,
-  type CategoryKey,
-} from '../../../utils/categoryConfig';
+import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
 
 export async function getStaticPaths() {
+  const categories = Object.keys(categoryConfig);
   const categoryMapping: Record<string, string> = {
     history: 'History',
     geography: 'Geography',
@@ -35,16 +30,9 @@ export async function getStaticPaths() {
     const articles = [];
 
     try {
-      const enFolderPath = resolve(
-        process.cwd(),
-        'knowledge',
-        'en',
-        folderName,
-      );
+      const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
       const enFiles = await readdir(enFolderPath);
-      const enMarkdownFiles = enFiles.filter(
-        (file) => file.endsWith('.md') && !file.startsWith('_'),
-      );
+      const enMarkdownFiles = enFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
 
       for (const file of enMarkdownFiles) {
         const filePath = join(enFolderPath, file);
@@ -69,9 +57,7 @@ export async function getStaticPaths() {
     try {
       const hubFolder = resolve(process.cwd(), 'knowledge', 'en', folderName);
       const hubFiles = await readdir(hubFolder);
-      const hubFile = hubFiles.find(
-        (f) => f.startsWith('_') && f.includes('Hub'),
-      );
+      const hubFile = hubFiles.find((f) => f.startsWith('_') && f.includes('Hub'));
       if (hubFile) {
         const hubPath = join(hubFolder, hubFile);
         const hubRaw = await readFile(hubPath, 'utf-8');
@@ -83,6 +69,7 @@ export async function getStaticPaths() {
     paths.push({
       params: { category },
       props: {
+        categoryInfo: categoryConfig[category as CategoryKey],
         category,
         hubContent,
         articles: articles.sort((a, b) => {
@@ -97,85 +84,51 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { category, hubContent, articles } = Astro.props;
+const { categoryInfo, category, hubContent, articles } = Astro.props;
 
 function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
-
-  function resolveOne(target: string, display?: string, bold = false) {
+  return md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
     if (target.startsWith('_')) {
-      const catName = target
-        .replace(/^_/, '')
-        .replace(/ Hub$/, '')
-        .toLowerCase();
-      return bold ? `[**${label}**](/en/${catName})` : `[${label}](/en/${catName})`;
+      const catName = target.replace(/^_/, '').replace(/ Hub$/, '').toLowerCase();
+      return `[${label}](/en/${catName})`;
     }
-    const matchArticle = articles.find(
-      (a: any) =>
-        a.title === target ||
-        a.slug === target ||
-        a.slug === encodeURIComponent(target),
-    );
+    const matchArticle = articles.find((a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target));
     if (matchArticle) {
-      const url = `/en/${currentCategory}/${matchArticle.slug}`;
-      return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
+      return `[${label}](/en/${currentCategory}/${matchArticle.slug})`;
     }
-    return bold ? `**${label}**` : label;
-  }
-
-  // First pass: **[[X]]** → [**resolved**](/url) (bold inside link for marked CJK compat)
-  md = md.replace(
-    /\*\*\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]\*\*/g,
-    (_, target, display) => resolveOne(target, display, true),
-  );
-  // Second pass: remaining [[X]]
-  md = md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => resolveOne(target, display),
-  );
-  return md;
+    return `**${label}**`;
+  });
 }
 
-const resolvedContent = hubContent
-  ? resolveWikilinks(hubContent, category)
-  : '';
+const resolvedContent = hubContent ? resolveWikilinks(hubContent, category) : '';
 const hubHtml = resolvedContent ? marked.parse(resolvedContent) : '';
 
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
-
-const categoryConfigs = getCategoryConfigs(t);
-const categoryInfo = categoryConfigs[category];
-
 // 其他分類（跨分類導航用）
-const otherCategories = categories
-  .filter((cat) => cat !== category)
+const otherCategories = Object.keys(categoryConfig)
+  .filter(cat => cat !== category)
   .slice(0, 5) // 只顯示5個
-  .map((cat) => ({
+  .map(cat => ({
     key: cat,
-    ...categoryConfigs[cat as CategoryKey],
+    ...categoryConfig[cat as CategoryKey]
   }));
 ---
 
-<Layout
-  title={`${categoryInfo.name} - Taiwan.md`}
-  description={`${categoryInfo.description} - Taiwan knowledge base`}
+<Layout 
+  title={`${categoryInfo.name_en} - Taiwan.md`}
+  description={`${categoryInfo.description_en} - Taiwan knowledge base`}
   lang="en"
-  category={categoryInfo.name}
 >
   <main class="category-page">
     <!-- Hero Banner -->
-    <section
-      class="hero-banner"
-      style={`background: ${categoryInfo.gradient};`}
-    >
+    <section class="hero-banner" style={`background: ${categoryInfo.gradient};`}>
       <div class="hero-content">
         <div class="hero-icon">{categoryInfo.icon}</div>
-        <h1 class="hero-title">{categoryInfo.name}</h1>
-        <p class="hero-description">{categoryInfo.description}</p>
+        <h1 class="hero-title">{categoryInfo.name_en}</h1>
+        <p class="hero-description">{categoryInfo.description_en}</p>
         <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} articles</span>
+          <span class="stats-badge"> {articles.length} articles</span>
         </div>
       </div>
       <div class="hero-decoration"></div>
@@ -186,125 +139,95 @@ const otherCategories = categories
       <nav class="breadcrumb">
         <a href="/en">Home</a>
         <span class="separator">›</span>
-        <span class="current">{categoryInfo.name}</span>
+        <span class="current">{categoryInfo.name_en}</span>
       </nav>
 
       <!-- Hub Content (curated overview) -->
-      {
-        hubHtml && (
-          <section class="hub-content">
-            <div class="hub-prose" set:html={hubHtml} />
-          </section>
-        )
-      }
+      {hubHtml && (
+        <section class="hub-content">
+          <div class="hub-prose" set:html={hubHtml} />
+        </section>
+      )}
 
       <!-- Articles Section -->
-      <h2 class="articles-heading">📖 Further Reading</h2>
-      {
-        articles.length > 0 ? (
-          <section class="articles-section">
-            <div class="articles-grid">
-              {articles.map((article, index) => (
-                <article
-                  class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}
-                >
-                  <a href={`/en/${category}/${article.slug}`} class="card-link">
-                    <div
-                      class="card-image-placeholder"
-                      style={`background: ${categoryInfo.gradient};`}
-                    >
-                      <div class="card-image-icon">{categoryInfo.icon}</div>
-                    </div>
-
-                    <div class="card-content">
-                      <div class="card-header">
-                        <div class="article-meta">
-                          {article.status && (
-                            <span class="status-tag">{article.status}</span>
-                          )}
-                          {article.lang && (
-                            <span class="lang-tag">
-                              {article.lang === 'zh-TW' ? '中文' : 'EN'}
-                            </span>
-                          )}
-                        </div>
-                        {article.featured && (
-                          <div class="featured-badge">⭐ Featured</div>
+      <h2 class="articles-heading">Further Reading</h2>
+      {articles.length > 0 ? (
+        <section class="articles-section">
+          <div class="articles-grid">
+            {articles.map((article, index) => (
+              <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
+                <a href={`/en/${category}/${article.slug}`} class="card-link">
+                  <div class="card-image-placeholder" style={`background: ${categoryInfo.gradient};`}>
+                    <div class="card-image-icon">{categoryInfo.icon}</div>
+                  </div>
+                  
+                  <div class="card-content">
+                    <div class="card-header">
+                      <div class="article-meta">
+                        {article.status && (
+                          <span class="status-tag">{article.status}</span>
+                        )}
+                        {article.lang && (
+                          <span class="lang-tag">{article.lang === 'zh-TW' ? '中文' : 'EN'}</span>
                         )}
                       </div>
-
-                      <h3 class="article-title">{article.title}</h3>
-
-                      <p class="article-excerpt">{article.description}</p>
-
-                      <div class="article-info">
-                        {article.readingTime && (
-                          <span class="info-item">
-                            📖 {article.readingTime} min read
-                          </span>
-                        )}
-                      </div>
+                      {article.featured && (
+                        <div class="featured-badge">⭐ Featured</div>
+                      )}
                     </div>
-                  </a>
-                </article>
-              ))}
-            </div>
-          </section>
-        ) : (
-          <section class="coming-soon">
-            <div class="coming-soon-content">
-              <div class="coming-soon-icon">{categoryInfo.icon}</div>
-              <h2>Content Coming Soon</h2>
-              <p>Articles in this category are being prepared. Stay tuned!</p>
-              <p class="category-desc">
-                Coming soon: {categoryInfo.description}
-              </p>
-
-              <div class="action-buttons">
-                <a href="/en" class="btn-primary">
-                  Back to Home
+                    
+                    <h3 class="article-title">{article.title}</h3>
+                    
+                    <p class="article-excerpt">{article.description}</p>
+                    
+                    <div class="article-info">
+                      {article.readingTime && (
+                        <span class="info-item">
+                           {article.readingTime} min read
+                        </span>
+                      )}
+                    </div>
+                  </div>
                 </a>
-                <a
-                  href="https://github.com/frank890417/taiwan-md"
-                  target="_blank"
-                  class="btn-secondary"
-                >
-                  Contribute
-                </a>
-              </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      ) : (
+        <section class="coming-soon">
+          <div class="coming-soon-content">
+            <div class="coming-soon-icon">{categoryInfo.icon}</div>
+            <h2>Content Coming Soon</h2>
+            <p>Articles in this category are being prepared. Stay tuned!</p>
+            <p class="category-desc">Coming soon: {categoryInfo.description}</p>
+            
+            <div class="action-buttons">
+              <a href="/en" class="btn-primary">Back to Home</a>
+              <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">
+                Contribute
+              </a>
             </div>
-          </section>
-        )
-      }
+          </div>
+        </section>
+      )}
 
       <!-- 探索其他面向 -->
       <section class="explore-more">
         <h2 class="explore-title">Explore Other Aspects of Taiwan</h2>
         <div class="categories-grid">
-          {
-            otherCategories.map((cat) => (
-              <a
-                href={`/en/${cat.key}`}
-                class="category-card"
-                style={`border-color: ${cat.color}; color: ${cat.color};`}
-              >
-                <div class="category-card-icon">{cat.icon}</div>
-                <div class="category-card-name">{cat.name}</div>
-              </a>
-            ))
-          }
+          {otherCategories.map(cat => (
+            <a href={`/en/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
+              <div class="category-card-icon">{cat.icon}</div>
+              <div class="category-card-name">{cat.name_en}</div>
+            </a>
+          ))}
         </div>
       </section>
     </div>
   </main>
 </Layout>
 
-<style
-  define:vars={{
-    categoryColor: categoryInfo.color,
-    categoryColorLight: categoryInfo.colorLight,
-  }}
->
+<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
   .category-page {
     min-height: 100vh;
   }
@@ -333,13 +256,8 @@ const otherCategories = categories
   }
 
   @keyframes float {
-    0%,
-    100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
   }
 
   .hero-title {
@@ -347,11 +265,7 @@ const otherCategories = categories
     font-weight: 800;
     margin-bottom: 1rem;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    background: linear-gradient(
-      45deg,
-      rgba(255, 255, 255, 1),
-      rgba(255, 255, 255, 0.8)
-    );
+    background: linear-gradient(45deg, rgba(255,255,255,1), rgba(255,255,255,0.8));
     background-clip: text;
     -webkit-background-clip: text;
   }
@@ -385,11 +299,7 @@ const otherCategories = categories
     right: -10%;
     width: 50%;
     height: 100%;
-    background: radial-gradient(
-      circle,
-      rgba(255, 255, 255, 0.1) 0%,
-      transparent 70%
-    );
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
     border-radius: 50%;
   }
 
@@ -435,7 +345,7 @@ const otherCategories = categories
     background: #fff;
     border-radius: 16px;
     border: 1px solid #e2e8f0;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
   }
   .hub-prose {
     font-size: 1.05rem;
@@ -487,8 +397,7 @@ const otherCategories = categories
     margin: 1.2rem 0;
     text-align: justify;
   }
-  .hub-prose ul,
-  .hub-prose ol {
+  .hub-prose ul, .hub-prose ol {
     padding-left: 2rem;
     margin: 1rem 0;
     list-style-position: inside;
@@ -515,7 +424,7 @@ const otherCategories = categories
     border-radius: 12px;
     margin: 2rem auto;
     display: block;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   }
   .hub-prose em {
     font-size: 0.85rem;
@@ -530,8 +439,7 @@ const otherCategories = categories
     margin: 1.5rem 0;
     font-size: 0.95rem;
   }
-  .hub-prose th,
-  .hub-prose td {
+  .hub-prose th, .hub-prose td {
     padding: 0.75rem 1rem;
     border: 1px solid #e2e8f0;
     text-align: left;
@@ -541,12 +449,8 @@ const otherCategories = categories
     font-weight: 600;
     color: #1e293b;
   }
-  .hub-prose tr:hover {
-    background: #f8fafc;
-  }
-  .hub-prose strong {
-    color: #1e293b;
-  }
+  .hub-prose tr:hover { background: #f8fafc; }
+  .hub-prose strong { color: #1e293b; }
   .hub-prose hr {
     border: none;
     border-top: 1px solid #e2e8f0;
@@ -739,8 +643,7 @@ const otherCategories = categories
     flex-wrap: wrap;
   }
 
-  .btn-primary,
-  .btn-secondary {
+  .btn-primary, .btn-secondary {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;

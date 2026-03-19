@@ -1,306 +1,2032 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import HeroSection from '../../components/home/HeroSection.astro';
-import CoverStory from '../../components/home/CoverStory.astro';
-import RandomDiscovery from '../../components/home/RandomDiscovery.astro';
-import CategoriesSection from '../../components/home/CategoriesSection.astro';
-import RecentUpdates from '../../components/home/RecentUpdates.astro';
-import NewsletterSection from '../../components/home/NewsletterSection.astro';
-import ContributeSection from '../../components/home/ContributeSection.astro';
-import LanguageStatement from '../../components/home/LanguageStatement.astro';
-import ReadingPath from '../../components/ReadingPath.astro';
-import FeatureCards from '../../components/FeatureCards.astro';
-import { fetchRecentCommits } from '../../lib/commits';
+import CategoryGrid from '../../components/CategoryGrid.astro';
 import { readdir, readFile } from 'fs/promises';
-import { resolve, join, basename } from 'path';
+import { resolve, basename } from 'path';
 import matter from 'gray-matter';
+// Fetch recent commits from GitHub API (works in shallow clone CI/CD environments)
+let recentCommits: { hash: string; date: string; message: string }[] = [];
+try {
+  const res = await fetch('https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=5');
+  if (res.ok) {
+    const data = await res.json();
+    recentCommits = data.map((c: any) => ({
+      hash: c.sha,
+      date: c.commit.author.date,
+      message: c.commit.message.split('\n')[0],
+    }));
+  }
+} catch (e) {
+  // silently fail
+}
 
-// Fetch recent commits
-const recentCommits = await fetchRecentCommits();
+function commitIcon(msg: string) {
+  if (msg.startsWith('feat')) return 'feat';
+  if (msg.startsWith('fix')) return 'fix';
+  if (msg.startsWith('content')) return 'content';
+  if (msg.startsWith('docs')) return 'docs';
+  return 'update';
+}
 
-// Build article list for RandomDiscovery
+function timeAgo(dateStr: string) {
+  const now = new Date();
+  const then = new Date(dateStr);
+  const diff = Math.floor((now.getTime() - then.getTime()) / 1000);
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)}d ago`;
+  return then.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+// Count articles per category for English content
 const categories = [
-  { id: 'history', name: 'History', folder: 'History' },
-  { id: 'geography', name: 'Geography', folder: 'Geography' },
-  { id: 'culture', name: 'Culture', folder: 'Culture' },
-  { id: 'food', name: 'Food', folder: 'Food' },
-  { id: 'art', name: 'Art', folder: 'Art' },
-  { id: 'music', name: 'Music', folder: 'Music' },
-  { id: 'technology', name: 'Technology', folder: 'Technology' },
-  { id: 'nature', name: 'Nature', folder: 'Nature' },
-  { id: 'people', name: 'People', folder: 'People' },
-  { id: 'society', name: 'Society', folder: 'Society' },
-  { id: 'economy', name: 'Economy', folder: 'Economy' },
-  { id: 'lifestyle', name: 'Lifestyle', folder: 'Lifestyle' },
+  { id: 'history', name: 'History', emoji: '' },
+  { id: 'geography', name: 'Geography', emoji: '' },
+  { id: 'culture', name: 'Culture', emoji: '' },
+  { id: 'food', name: 'Food', emoji: '' },
+  { id: 'art', name: 'Art', emoji: '' },
+  { id: 'music', name: 'Music', emoji: '' },
+  { id: 'technology', name: 'Technology', emoji: '' },
+  { id: 'nature', name: 'Nature', emoji: '' },
+  { id: 'people', name: 'People', emoji: '' },
+  { id: 'society', name: 'Society', emoji: '' },
+  { id: 'economy', name: 'Economy', emoji: '' },
+  { id: 'lifestyle', name: 'Lifestyle', emoji: '' },
 ];
 
+// Get English articles by scanning knowledge/en/ filesystem
+const articleCounts: Record<string, number> = {};
 let allArticles: { title: string; url: string; category: string }[] = [];
-
 for (const cat of categories) {
+  const folderName = cat.name; // e.g. 'History', 'Geography'
+  let count = 0;
   try {
-    const folderPath = resolve(process.cwd(), 'knowledge', 'en', cat.folder);
-    const files = await readdir(folderPath);
-    const mdFiles = files.filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
-    );
-
+    const dirPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
+    const files = await readdir(dirPath);
+    const mdFiles = files.filter(f => f.endsWith('.md') && !f.startsWith('_'));
+    count = mdFiles.length;
     for (const file of mdFiles) {
-      const content = await readFile(join(folderPath, file), 'utf-8');
-      const { data: frontmatter } = matter(content);
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
       const slug = basename(file, '.md');
       allArticles.push({
-        title: frontmatter.title || slug,
-        url: `/en/${cat.id}/${slug}`,
+        title: fm.title || slug,
+        url: `/en/${cat.id}/${encodeURIComponent(slug)}`,
         category: cat.name,
       });
     }
-  } catch {
-    // folder doesn't exist, skip
-  }
+  } catch {}
+  articleCounts[cat.id] = count;
 }
 
 const randomArticlesData = JSON.stringify(allArticles);
-
-const readingPathSteps = [
-  {
-    href: '/en/history/democratization',
-    title: "Quiet Revolution: Taiwan's Democratization",
-    description:
-      "From authoritarianism to democracy, Asia's first peaceful transition miracle",
-    time: '6 min',
-  },
-  {
-    href: '/en/culture/ethnic-groups',
-    title: "Unity in Diversity: Taiwan's Ethnic Groups",
-    description:
-      "Four major ethnic groups weaving Taiwan's multicultural foundation",
-    time: '7 min',
-  },
-  {
-    href: '/en/food/night-market-culture',
-    title: 'The Real Taste of Taiwan: Night Market Culture',
-    description:
-      "World's densest street food social spaces with unmatched warmth",
-    time: '5 min',
-  },
-  {
-    href: '/en/technology/semiconductor-industry',
-    title: 'Silicon Shield: Semiconductor Industry',
-    description: 'How TSMC made a small island the heart of global technology',
-    time: '8 min',
-  },
-  {
-    href: '/en/lifestyle/convenience-store-culture',
-    title: 'Life Operating System: Convenience Stores',
-    description:
-      "More than stores - they're the infrastructure of an entire nation",
-    time: '4 min',
-  },
-];
-
-const readingPathFooterItems = [
-  { icon: '⏱️', label: 'Total 30 minutes' },
-  { icon: '🎯', label: '5 key domains' },
-  { icon: '🌟', label: 'Complete Taiwan overview' },
-];
 ---
 
-<Layout
-  title="Open Knowledge Base of Taiwan"
-  description="The open-source, AI-friendly knowledge base about Taiwan. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world."
-  lang="en"
->
-  <HeroSection />
+<Layout title="Taiwan.md - Open Knowledge Base of Taiwan"
+        description="The open-source, AI-friendly knowledge base about Taiwan. Curated perspectives from people who love Taiwan, for everyone - humans and AI alike."
+        lang="en">
+  <section class="hero">
+    <div class="hero-bg">
+      <!-- Taiwan mountain silhouette background -->
+      <div class="taiwan-mountains"></div>
+      <!-- Taiwan island outline SVG -->
+      <svg class="taiwan-silhouette" viewBox="0 0 100 100" aria-hidden="true">
+        <path d="M30 20 C 35 18 40 20 42 25 C 44 30 46 35 48 40 C 50 45 52 50 50 55 C 48 60 46 65 44 70 C 42 75 40 80 35 82 C 30 84 25 82 22 78 C 19 74 20 69 21 64 C 22 59 24 54 26 49 C 28 44 29 39 30 34 C 31 29 30 24 30 20 Z"
+              fill="rgba(34, 197, 94, 0.08)"
+              stroke="rgba(34, 197, 94, 0.15)"
+              stroke-width="0.5"/>
+      </svg>
+      <!-- Flowing gradient background animation -->
+      <div class="flowing-gradient"></div>
+    </div>
+    <div class="hero-content">
+      <h1 class="hero-title">
+        <span class="title-text">Taiwan.md</span>
+        <span class="title-glow"></span>
+      </h1>
+      <h2 class="hero-subtitle">Curating the Deep Narratives of an Island</h2>
+      <p class="hero-description">
+        The open-source, AI-friendly knowledge base about Taiwan<br>
+        <span class="highlight">Built from diverse perspectives, for the world to discover Taiwan</span>
+      </p>
+      <div class="hero-cta">
+        <a href="#categories" class="btn-cta primary">
+          <span>Start Exploring</span>
+          <svg class="cta-arrow" width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+          </svg>
+        </a>
+        <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-cta secondary">
+          <svg class="github-icon" width="20" height="20" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M12 0C5.374 0 0 5.373 0 12 0 17.302 3.438 21.8 8.207 23.387c.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0112 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
+          </svg>
+          <span>⭐ Star on GitHub</span>
+        </a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-number">400+</span>
+          <span class="stat-label">years of history</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">59,000+</span>
+          <span class="stat-label">species</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">Asia's first</span>
+          <span class="stat-label">democracy</span>
+        </div>
+        <div class="stat">
+          <span class="stat-number">90%</span>
+          <span class="stat-label">global advanced chips</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
-  <CoverStory />
+  <section class="cover-story">
+    <div class="cover-content">
+      <h2>How to Understand Taiwan?</h2>
+      <p class="cover-lead">
+        Taiwan is an island of just 36,000 square kilometers, yet it contains all the world's complexity.<br>
+        For four hundred years, everyone who set foot on this island has seen a different Taiwan through different eyes.
+      </p>
 
-  <FeatureCards
-    lang="en"
-    sectionTitle="Why Taiwan.md?"
-    cards={[
-      {
-        icon: '🎯',
-        title: 'Curated Perspectives',
-        description:
-          'Carefully curated deep narratives, not encyclopedic listings',
-      },
-      {
-        icon: '🤖',
-        title: 'AI-Friendly Design',
-        description:
-          "Structured content that helps AI understand Taiwan's complexity",
-      },
-      {
-        icon: '🌍',
-        title: 'Bilingual Global Vision',
-        description:
-          "Starting from local perspectives, telling Taiwan's story in global languages",
-      },
-      {
-        icon: '📚',
-        title: 'Complete Multi-dimensional',
-        description:
-          "Covering 12+ domains, presenting Taiwan's three-dimensional complete picture",
-      },
-    ]}
-  />
+      <div class="quotes-timeline">
+        <div class="quote-era">
+          <span class="era-label">Indigenous Peoples</span>
+          <blockquote>
+            "The mountains, rivers, and streams are all the bodies of our ancestors. We are the children of the earth."
+            <cite>- Atayal oral literature</cite>
+          </blockquote>
+        </div>
 
-  <RandomDiscovery articlesJson={randomArticlesData} />
+        <div class="quote-era">
+          <span class="era-label">1584</span>
+          <blockquote>
+            "Ilha Formosa" - Beautiful Island.
+            <cite>- Portuguese sailors, the first recorded use of "beautiful" to describe Taiwan</cite>
+          </blockquote>
+        </div>
 
-  <ReadingPath
-    lang="en"
-    title="📖 Don't know where to start?"
-    subtitle="Discover the real Taiwan in 30 minutes with these 5 essential articles"
-    steps={readingPathSteps}
-    footerItems={readingPathFooterItems}
-    continueHref="#categories"
-    continueLabel="Continue exploring more topics →"
-  />
+        <div class="quote-era">
+          <span class="era-label">1697</span>
+          <blockquote>
+            "In the inner mountains of Shuilishe, at the end of the mountains, there is a great lake spanning several dozen li. In the middle is an island where the aboriginals gather and live."
+            <cite>- Yu Yonghe, "A Journey to the Distant Seas," Qing Dynasty literati's firsthand observation of Taiwan</cite>
+          </blockquote>
+        </div>
 
-  <LanguageStatement />
+        <div class="quote-era">
+          <span class="era-label">1926</span>
+          <blockquote>
+            "A brave warrior should fight for justice!"
+            <cite>- Lai He, "Sacrifice Under Awakening," the father of Taiwan's new literature</cite>
+          </blockquote>
+        </div>
 
-  <CategoriesSection>
-    <Fragment slot="prose">
+        <div class="quote-era">
+          <span class="era-label">1946</span>
+          <blockquote>
+            "The sorrow of the Taiwanese lies in not knowing who they are."
+            <cite>- Wu Zhuoliu, "Orphan of Asia"</cite>
+          </blockquote>
+        </div>
+
+        <div class="quote-era">
+          <span class="era-label">2013</span>
+          <blockquote>
+            "When you see Taiwan, you'll discover that this land is more beautiful than you imagined, and also more fragile than you imagined."
+            <cite>- Chi Po-lin, "Beyond Beauty: Taiwan from Above"</cite>
+          </blockquote>
+        </div>
+
+        <div class="quote-era">
+          <span class="era-label">Contemporary</span>
+          <blockquote>
+            "The memory of waves is longer than that of humans."
+            <cite>- Syaman Rapongan, "The Eye of the Sky," Tao oceanic literature</cite>
+          </blockquote>
+        </div>
+      </div>
+
+      <div class="cover-closing">
+        <p>
+          From the creation myths of Austronesian peoples to the rise of the semiconductor empire, from the silence of martial law to Asia's first legalization of same-sex marriage.
+          Taiwan's story is not a straight line, but a web.
+        </p>
+        <p>
+          <strong>Taiwan.md doesn't aim to give you answers.</strong>
+          What we want to do is give you a map - a map that lets you walk into Taiwan yourself.
+        </p>
+        <a href="/en/about" class="cover-link">Read the complete collection of quotes →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="features">
+    <h2 class="section-title">Why Taiwan.md?</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 11-6 0 3 3 0 016 0z" /><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1115 0z" /></svg></div>
+        <div class="feature-content">
+          <h3>Curated Perspectives</h3>
+          <p>Carefully curated deep narratives, not encyclopedic listings</p>
+        </div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M9.75 3.104v5.714a2.25 2.25 0 01-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 014.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19.8 15.3M14.25 3.104c.251.023.501.05.75.082M19.8 15.3l-1.57.393A9.065 9.065 0 0112 15a9.065 9.065 0 00-6.23.693L5 14.5m14.8.8l1.402 1.402c1.232 1.232.65 3.318-1.067 3.611A48.309 48.309 0 0112 21c-2.773 0-5.491-.235-8.135-.687-1.718-.293-2.3-2.379-1.067-3.61L5 14.5" /></svg></div>
+        <div class="feature-content">
+          <h3>AI-Friendly Design</h3>
+          <p>Structured content that helps AI understand Taiwan's complexity</p>
+        </div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418" /></svg></div>
+        <div class="feature-content">
+          <h3>Bilingual Global Vision</h3>
+          <p>Starting from local perspectives, telling Taiwan's story in global languages</p>
+        </div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" /></svg></div>
+        <div class="feature-content">
+          <h3>Complete Multi-dimensional</h3>
+          <p>Covering 12+ domains, presenting Taiwan's three-dimensional complete picture</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Random Discovery Taiwan -->
+  <section class="random-discovery">
+    <div class="random-discovery-content">
+      <button id="random-discovery-btn" class="random-btn">
+        <span class="random-icon"><svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 inline" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" /></svg></span>
+        <span class="random-text">Discover Taiwan Randomly</span>
+        <span class="random-subtitle">Explore unexpected stories</span>
+      </button>
+      <p class="random-description">Don't know what to read? Let us guide you to Taiwan's hidden treasures!</p>
+    </div>
+  </section>
+
+  <!-- 5 Essential Taiwan Articles -->
+  <section class="reading-path">
+    <div class="reading-path-header">
+      <h2>Don't know where to start?</h2>
+      <p>Discover the real Taiwan in 30 minutes with these 5 essential articles</p>
+    </div>
+    <div class="reading-path-list">
+      <a href="/en/history/democratization" class="reading-step">
+        <span class="step-number">1</span>
+        <div class="step-content">
+          <h3>Quiet Revolution: Taiwan's Democratization</h3>
+          <p>From authoritarianism to democracy, Asia's first peaceful transition miracle</p>
+        </div>
+        <span class="step-time">6 min</span>
+      </a>
+
+      <a href="/en/culture/ethnic-groups" class="reading-step">
+        <span class="step-number">2</span>
+        <div class="step-content">
+          <h3>Unity in Diversity: Taiwan's Ethnic Groups</h3>
+          <p>Four major ethnic groups weaving Taiwan's multicultural foundation</p>
+        </div>
+        <span class="step-time">7 min</span>
+      </a>
+
+      <a href="/en/food/night-market-culture" class="reading-step">
+        <span class="step-number">3</span>
+        <div class="step-content">
+          <h3>The Real Taste of Taiwan: Night Market Culture</h3>
+          <p>World's densest street food social spaces with unmatched warmth</p>
+        </div>
+        <span class="step-time">5 min</span>
+      </a>
+
+      <a href="/en/technology/semiconductor-industry" class="reading-step">
+        <span class="step-number">4</span>
+        <div class="step-content">
+          <h3>Silicon Shield: Semiconductor Industry</h3>
+          <p>How TSMC made a small island the heart of global technology</p>
+        </div>
+        <span class="step-time">8 min</span>
+      </a>
+
+      <a href="/en/lifestyle/convenience-store-culture" class="reading-step">
+        <span class="step-number">5</span>
+        <div class="step-content">
+          <h3>Life Operating System: Convenience Stores</h3>
+          <p>More than stores - they're the infrastructure of an entire nation</p>
+        </div>
+        <span class="step-time">4 min</span>
+      </a>
+    </div>
+
+    <div class="reading-path-footer">
+      <p><strong>Total 30 minutes</strong> | <strong>5 key domains</strong> | <strong>Complete Taiwan overview</strong></p>
+      <a href="#categories" class="path-continue-btn">Continue exploring more topics →</a>
+    </div>
+  </section>
+
+  <section class="language-statement">
+    <div class="language-inner">
+      <h3>Why Traditional Chinese?</h3>
       <p>
-        This island spans just 36,000 square kilometers, yet contains a
-        microcosm of the entire world. From the 3,952-meter peak of Yushan to
-        the abyssal trenches of the Pacific Ocean,
-        <a href="/en/geography" class="topic-pill">🗺️ the geography here</a> is a
-        live broadcast of mountain-building in action- tectonic compression, volcanic
-        eruptions, fault movements in an unceasing geological symphony that has played
-        for four million years, creating this youngest and most dynamic beautiful
-        island on Earth.
+        Taiwan.md chooses <strong>Traditional Chinese</strong> as the default language - this is not just a technical decision, it's a cultural statement.
+      </p>
+      <p>
+        Traditional Chinese is one of the world's oldest writing systems still in daily use, and Taiwan is the only major region globally that uses Traditional Chinese as its official script.
+        Every stroke carries thousands of years of cultural memory. When you open this website and see these characters, you're not just reading text - you're reading a living cultural heritage.
+      </p>
+      <p>
+        We also provide an <a href="/">中文版本</a> (Chinese version), but we insist on letting Traditional Chinese stand in front.
+        AI can understand it, search engines can understand it, and you - even if you can't read it, that's fine - this beauty itself is worth being seen.
+      </p>
+      <p class="language-en">
+        <em>Taiwan uses Traditional Chinese - the world's oldest writing system still in daily use,
+        and Taiwan is its last major home. We believe our language and culture deserve to be seen and understood.
+        Even if you can't read it, its beauty speaks for itself. This English version serves as a bridge
+        to help the world discover Taiwan's richness.</em>
+      </p>
+    </div>
+  </section>
+
+  <section class="categories" id="categories">
+    <div class="categories-header">
+      <h2 class="section-title">Discover Taiwan</h2>
+    </div>
+
+    <!-- Curated Literary Essay -->
+    <div class="explore-prose">
+      <p>
+        This island spans just 36,000 square kilometers, yet contains a microcosm of the entire world.
+        From the 3,952-meter peak of Yushan to the abyssal trenches of the Pacific Ocean,
+        <a href="/en/geography" class="topic-pill">the geography here</a> is a live broadcast of mountain-building in action-
+        tectonic compression, volcanic eruptions, fault movements in an unceasing geological symphony
+        that has played for four million years, creating this youngest and most dynamic beautiful island on Earth.
       </p>
 
       <p>
-        Four hundred years ago, the Dutch built Fort Zeelandia in Tainan. Since
-        then, every ruler- the Zheng Kingdom, the Qing Empire, Japan, the
-        Republic of China-has carved their own inscriptions on this island. But
-        what truly makes Taiwan Taiwan is that <a
-          href="/en/history"
-          class="topic-pill">📜 long awakening</a
-        > from authoritarianism to democracy. From the blood and tears of February
-        28th to the cheers of martial law's end, from Formosa to Sunflower, every
-        moment of pain and resistance has made this island's soul clearer.
+        Four hundred years ago, the Dutch built Fort Zeelandia in Tainan. Since then, every ruler-
+        the Zheng Kingdom, the Qing Empire, Japan, the Republic of China-has carved their own inscriptions on this island.
+        But what truly makes Taiwan Taiwan is that <a href="/en/history" class="topic-pill">long awakening</a> from authoritarianism to democracy.
+        From the blood and tears of February 28th to the cheers of martial law's end, from Formosa to Sunflower,
+        every moment of pain and resistance has made this island's soul clearer.
       </p>
 
       <p>
-        Multiple bloodlines flow through this land. Indigenous peoples have
-        lived here for six thousand years. Hoklo people from Fujian arrived in
-        the 17th century, followed by Hakka communities, mainlanders who
-        migrated from various Chinese provinces after the war, and recent new
-        residents and migrant workers. Each group brought their own languages,
-        beliefs, and memories.
-        <a href="/en/culture" class="topic-pill">🎭 Taiwan's culture</a> is not a
-        melting pot, but a puzzle- each piece maintaining its own color and shape,
-        assembled into an unprecedented picture.
+        Multiple bloodlines flow through this land. Indigenous peoples have lived here for six thousand years.
+        Hoklo people from Fujian arrived in the 17th century, followed by Hakka communities,
+        mainlanders who migrated from various Chinese provinces after the war,
+        and recent new residents and migrant workers. Each group brought their own languages, beliefs, and memories.
+        <a href="/en/culture" class="topic-pill">Taiwan's culture</a> is not a melting pot, but a puzzle-
+        each piece maintaining its own color and shape, assembled into an unprecedented picture.
       </p>
 
       <p>
-        Walk into any Taiwan night market, and you'll simultaneously smell Hoklo
-        oyster omelets, Japanese tempura, and the Shandong scallion pancakes
-        brought by post-war veterans.
-        <a href="/en/food" class="topic-pill">🍜 This island's flavors</a>
-        are the gustatory version of its immigration history. From street vendors'
-        human warmth to Michelin restaurants' precision, Taiwanese people tell stories
-        through food, preserve memories through cuisine.
+        Walk into any Taiwan night market, and you'll simultaneously smell Hoklo oyster omelets, Japanese tempura,
+        and the Shandong scallion pancakes brought by post-war veterans.
+        <a href="/en/food" class="topic-pill">This island's flavors</a>
+        are the gustatory version of its immigration history. From street vendors' human warmth to Michelin restaurants' precision,
+        Taiwanese people tell stories through food, preserve memories through cuisine.
       </p>
 
       <p>
-        The Butterfly Kingdom is not a romantic metaphor, but an ecological
-        reality. On an island smaller than the Netherlands, more than 59,000
-        species crowd together — an extraordinary 2.5% of global biodiversity on
-        just 0.025% of the world's land area.
-        <a href="/en/nature" class="topic-pill">🌿 Taiwan's nature</a> is a three-dimensional
-        evolutionary textbook: from tropical rainforests to alpine tundra, from coral
-        reefs to the Kuroshio Current, species evolve, diverge, and coexist here.
-        But the price of industrial development is also written in the mountains and
-        rivers, as the tug-of-war between conservation and development continues.
+        The Butterfly Kingdom is not a romantic metaphor, but an ecological reality. On an island smaller than the Netherlands,
+        more than 59,000 species crowd together — an extraordinary 2.5% of global biodiversity on just 0.025% of the world's land area.
+        <a href="/en/nature" class="topic-pill">Taiwan's nature</a> is a three-dimensional evolutionary textbook:
+        from tropical rainforests to alpine tundra, from coral reefs to the Kuroshio Current, species evolve, diverge, and coexist here.
+        But the price of industrial development is also written in the mountains and rivers, as the tug-of-war between conservation and development continues.
       </p>
 
       <p>
-        From Lai He and Yang Kui to Pai Hsien-yung and Chu T'ien-hsin, from the
-        Wufeng Lin family to the Koo Chen-fu clan,
-        <a href="/en/people" class="topic-pill">👥 Taiwan's figures</a> are microcosms
-        of their times. They are not just individual biographies, but collective memories
-        of how this island survived in the cracks and found hope in hardship. Behind
-        every story are the resilience and choices of small people in great times.
+        From Lai He and Yang Kui to Pai Hsien-yung and Chu T'ien-hsin, from the Wufeng Lin family to the Koo Chen-fu clan,
+        <a href="/en/people" class="topic-pill">Taiwan's figures</a> are microcosms of their times.
+        They are not just individual biographies, but collective memories of how this island
+        survived in the cracks and found hope in hardship. Behind every story
+        are the resilience and choices of small people in great times.
       </p>
 
       <p>
-        From temple fair Eight Generals to contemporary art at the Venice
-        Biennale,
-        <a href="/en/art" class="topic-pill">🎨 Taiwan's art</a> is a dialogue between
-        tradition and innovation. Jiaozhi pottery and digital installations, traditional
-        opera and experimental theater, indigenous totems and contemporary painting-artists
-        constantly ask: How do we respond to this era through creation? How do we
-        maintain locality in globalization?
+        From temple fair Eight Generals to contemporary art at the Venice Biennale,
+        <a href="/en/art" class="topic-pill">Taiwan's art</a> is a dialogue between tradition and innovation.
+        Jiaozhi pottery and digital installations, traditional opera and experimental theater,
+        indigenous totems and contemporary painting-artists constantly ask:
+        How do we respond to this era through creation? How do we maintain locality in globalization?
       </p>
 
       <p>
-        From indigenous ancient songs to Deng Yu-xian's "Longing for Spring
-        Wind," from campus folk songs to the Golden Melody Awards,
-        <a href="/en/music" class="topic-pill">🎵 Taiwan's sounds</a> are the island's
-        heartbeat. Music transcends ethnic, linguistic, and generational boundaries,
-        becoming the most cohesive carrier of collective memory. Whether it's Mayday's
-        roar at the Taipei Arena or indigenous ancient songs in tribal communities,
+        From indigenous ancient songs to Deng Yu-xian's "Longing for Spring Wind," from campus folk songs to the Golden Melody Awards,
+        <a href="/en/music" class="topic-pill">Taiwan's sounds</a> are the island's heartbeat.
+        Music transcends ethnic, linguistic, and generational boundaries, becoming the most cohesive carrier of collective memory.
+        Whether it's Mayday's roar at the Taipei Arena or indigenous ancient songs in tribal communities,
         they all tell the same story: who we are, where we come from.
       </p>
 
       <p>
-        TSMC's wafers are not just silicon chips, but proof of Taiwan's position
-        in the global technology map.
-        <a href="/en/technology" class="topic-pill">💻 This tech island</a> has evolved
-        from contract manufacturing to innovative R&D, from hardware advantages to
-        software breakthroughs. But technological development also brings challenges:
-        digital divides, AI displacement, cybersecurity threats-how does Taiwan surf
-        the tech wave without drowning?
+        TSMC's wafers are not just silicon chips, but proof of Taiwan's position in the global technology map.
+        <a href="/en/technology" class="topic-pill">This tech island</a> has evolved from contract manufacturing to innovative R&D,
+        from hardware advantages to software breakthroughs. But technological development also brings challenges:
+        digital divides, AI displacement, cybersecurity threats-how does Taiwan surf the tech wave without drowning?
       </p>
 
       <p>
         From Asia's Four Little Dragons to the semiconductor empire,
-        <a href="/en/economy" class="topic-pill">📈 Taiwan's economic miracle</a
-        >
-        is a textbook case of small nation, big strategy. But behind the miracle are
-        countless overtime nights, meticulous cost control, and relentless pursuit
-        of efficiency. Now facing the US-China trade war and global supply chain restructuring,
-        how does Taiwan continue writing its economic legend?
+        <a href="/en/economy" class="topic-pill">Taiwan's economic miracle</a>
+        is a textbook case of small nation, big strategy. But behind the miracle are countless overtime nights,
+        meticulous cost control, and relentless pursuit of efficiency.
+        Now facing the US-China trade war and global supply chain restructuring, how does Taiwan continue writing its economic legend?
       </p>
 
       <p>
-        <a href="/en/society" class="topic-pill">⚖️ Taiwan's society</a>'s
-        keywords are "diversity" and "inclusion." From Asia's first legalization
-        of same-sex marriage to the ongoing promotion of transitional justice,
-        from nuclear referendum to pension reform, Taiwanese people are learning
-        how to dialogue amid differences and seek consensus in conflict. This is
-        democracy's practice ground and the future's laboratory.
+        <a href="/en/society" class="topic-pill">Taiwan's society</a>'s keywords are "diversity" and "inclusion."
+        From Asia's first legalization of same-sex marriage to the ongoing promotion of transitional justice,
+        from nuclear referendum to pension reform, Taiwanese people are learning how to dialogue amid differences
+        and seek consensus in conflict. This is democracy's practice ground and the future's laboratory.
       </p>
 
       <p>
-        Taiwanese people's <a href="/en/lifestyle" class="topic-pill"
-          >🏠 lifestyle</a
-        > is a blend of convenience and human warmth. The world's highest density
-        of convenience stores, yet night markets' warmth remains unique. In the 24/7
-        urban rhythm, neighborhood greetings and care are still preserved. In globalization's
-        torrent, how do Taiwanese people maintain their life philosophy? The answer
-        might lie in that daily greeting: "Have you eaten yet?"
+        Taiwanese people's <a href="/en/lifestyle" class="topic-pill">lifestyle</a> is a blend of convenience and human warmth.
+        The world's highest density of convenience stores, yet night markets' warmth remains unique.
+        In the 24/7 urban rhythm, neighborhood greetings and care are still preserved.
+        In globalization's torrent, how do Taiwanese people maintain their life philosophy?
+        The answer might lie in that daily greeting: "Have you eaten yet?"
       </p>
-    </Fragment>
-  </CategoriesSection>
+    </div>
 
-  <RecentUpdates commits={recentCommits} />
+    <!-- Retain the original card grid for quick navigation -->
+    <div class="section-divider">
+      <div class="divider-line"></div>
+      <span class="divider-text">Quick Navigation</span>
+      <div class="divider-line"></div>
+    </div>
 
-  <NewsletterSection />
+    <CategoryGrid lang="en" />
+  </section>
 
-  <ContributeSection />
+  <!-- Recent Updates Section -->
+  {recentCommits.length > 0 && (
+    <section class="recent-updates">
+      <div class="updates-inner">
+        <div class="updates-header">
+          <h2>Live Updates</h2>
+          <p class="updates-subtitle">Taiwan.md is growing — latest content additions and site improvements</p>
+        </div>
+        <div class="updates-list">
+          {recentCommits.map(commit => (
+            <a href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`} target="_blank" class="update-item">
+              <span class="update-icon">{commitIcon(commit.message)}</span>
+              <span class="update-message">{commit.message}</span>
+              <span class="update-time">{timeAgo(commit.date)}</span>
+            </a>
+          ))}
+        </div>
+        <div class="updates-footer">
+          <a href="/en/changelog" class="updates-more-btn">
+            View full update history →
+          </a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Newsletter Subscribe Section -->
+  <section class="newsletter" id="subscribe">
+    <div class="newsletter-content">
+      <h2>Subscribe to Taiwan.md</h2>
+      <p>Get notified when we publish major updates, new articles, or community events. We won't spam — every email is worth opening.</p>
+      <form class="newsletter-form" id="subscribe-form" onsubmit="return false;">
+        <div class="form-row">
+          <input type="email" id="subscribe-email" placeholder="your@email.com" required />
+          <button type="submit" class="newsletter-btn" id="subscribe-btn">Subscribe</button>
+        </div>
+      </form>
+      <div class="newsletter-success" id="subscribe-success" style="display:none;">
+        <span class="success-icon">Done!</span>
+        <span>Thanks for subscribing! We'll bring Taiwan's best stories to your inbox.</span>
+      </div>
+      <p class="newsletter-note">We respect your inbox. Unsubscribe anytime. We'll never share your email.</p>
+    </div>
+  </section>
+
+  <section class="contribute">
+    <div class="contribute-content">
+      <h2>Join Us</h2>
+      <p>Taiwan.md is a community-driven open source project. Whether you're a local Taiwanese or an international friend interested in Taiwan, we welcome your knowledge and perspectives.</p>
+      <div class="contribute-buttons">
+        <a href="/en/contribute" class="btn btn-primary">Contribution Guide</a>
+        <a href="https://github.com/frank890417/taiwan-md" class="btn btn-secondary" target="_blank">
+          GitHub Project
+        </a>
+      </div>
+    </div>
+  </section>
 </Layout>
 
 <style>
+  /* ===== HERO SECTION - Natural Earth Tone Redesign ===== */
+  .hero {
+    position: relative;
+    text-align: center;
+    padding: 8rem 0 6rem;
+    /* Natural landscape gradient background */
+    background: linear-gradient(180deg,
+      #2d5016 0%,     /* Deep forest green */
+      #4a7c28 30%,    /* Forest green */
+      #6b9b3a 60%,    /* Grassland green */
+      #87ceeb 100%    /* Sky blue */
+    );
+    color: white;
+    margin: -2rem -1rem 0;
+    margin-bottom: 4rem;
+    overflow: hidden;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Remove starry animation and tech effects */
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* Only keep subtle natural texture */
+    background:
+      radial-gradient(circle at 30% 20%, rgba(255, 255, 255, 0.05) 0%, transparent 50%),
+      radial-gradient(circle at 70% 80%, rgba(107, 155, 58, 0.1) 0%, transparent 50%);
+    z-index: 1;
+  }
+
+  .hero-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1;
+  }
+
+  /* Taiwan mountain silhouette - more natural layers */
+  .taiwan-mountains {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    background:
+      /* Distant mountain layers (warm earth tones) */
+      radial-gradient(ellipse 1000px 100px at 5% 100%, rgba(61, 79, 47, 0.1) 0%, transparent 80%),
+      radial-gradient(ellipse 800px 120px at 15% 100%, rgba(61, 79, 47, 0.15) 0%, transparent 75%),
+      radial-gradient(ellipse 700px 160px at 35% 100%, rgba(90, 114, 71, 0.2) 0%, transparent 70%),
+      radial-gradient(ellipse 600px 180px at 55% 100%, rgba(90, 114, 71, 0.25) 0%, transparent 65%),
+      radial-gradient(ellipse 500px 200px at 70% 100%, rgba(143, 188, 107, 0.3) 0%, transparent 60%),
+      radial-gradient(ellipse 400px 220px at 85% 100%, rgba(143, 188, 107, 0.35) 0%, transparent 55%);
+  }
+
+  /* Taiwan island outline SVG - gentler presence */
+  .taiwan-silhouette {
+    position: absolute;
+    top: 15%;
+    right: 8%;
+    width: 180px;
+    height: 180px;
+    opacity: 0.15;
+    filter: drop-shadow(0 0 10px rgba(143, 188, 107, 0.2));
+    /* Remove animation, keep serene */
+  }
+
+  /* Remove flowing gradient background - keep quiet */
+  .flowing-gradient {
+    display: none;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  /* Title design - Serif + White */
+  .hero-title {
+    position: relative;
+    font-size: 6rem;
+    font-weight: 900;
+    margin-bottom: 1.5rem;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    letter-spacing: 0.1em;
+    line-height: 1;
+    color: white;
+  }
+
+  .title-text {
+    position: relative;
+    color: white;
+    /* Remove gradient color, use pure white serif */
+    z-index: 2;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .title-glow {
+    display: none; /* Remove glow effect */
+  }
+
+  /* Subtitle - Serif + translucent white */
+  .hero-subtitle {
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-size: 2.8rem;
+    margin-bottom: 2rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.9);
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    text-wrap: balance;
+  }
+
+  /* Description text - elegant and simple */
+  .hero-description {
+    font-size: 1.3rem;
+    margin-bottom: 3.5rem;
+    line-height: 1.8;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.85);
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    text-wrap: balance;
+  }
+
+  .hero-description br {
+    margin-bottom: 0.5rem;
+  }
+
+  .highlight {
+    color: rgba(255, 255, 255, 0.95);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  /* CTA buttons - natural simple design */
+  .hero-cta {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 5rem;
+    flex-wrap: wrap;
+    padding: 0 1rem;
+  }
+
+  .btn-cta {
+    padding: 0.8rem 2rem;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    letter-spacing: 0.02em;
+  }
+
+  .btn-cta.primary {
+    background: rgba(255, 255, 255, 0.95);
+    color: #2d5016;
+    border: none;
+  }
+
+  .btn-cta.primary:hover {
+    background: #fff;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .btn-cta.secondary {
+    background: transparent;
+    color: white;
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+  }
+
+  .btn-cta.secondary:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.8);
+    transform: translateY(-1px);
+  }
+
+  .cta-arrow {
+    transition: all 0.3s ease;
+  }
+
+  .btn-cta.primary:hover .cta-arrow {
+    transform: translateX(3px);
+  }
+
+  .btn-cta.secondary:hover .github-icon {
+    transform: scale(1.05);
+  }
+
+  /* Statistics - simple white design */
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 2rem;
+    margin-top: 4rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1rem;
+  }
+
+  .stat {
+    text-align: center;
+    padding: 1.5rem 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: all 0.3s ease;
+  }
+
+  .stat:hover {
+    transform: translateY(-4px);
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.3);
+  }
+
+  .stat-number {
+    display: block;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 0.5rem;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  /* ===== Random Discovery Taiwan ===== */
+  .random-discovery {
+    max-width: 600px;
+    margin: 4rem auto;
+    padding: 3rem 2rem;
+    text-align: center;
+    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 50%, #fed7aa 100%);
+    border-radius: 24px;
+    border: 1px solid rgba(245, 158, 11, 0.2);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .random-discovery::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='30' height='30' viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23f59e0b' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='M15 0L20 10L30 15L20 20L15 30L10 20L0 15L10 10Z'/%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.6;
+  }
+  
+  .random-discovery-content {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .random-btn {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 1.5rem 3rem;
+    font-size: 1.3rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 8px 25px rgba(245, 158, 11, 0.3);
+    margin-bottom: 1.5rem;
+    min-width: 280px;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+  
+  .random-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s ease;
+  }
+  
+  .random-btn:hover::before {
+    left: 100%;
+  }
+  
+  .random-btn:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 30px rgba(245, 158, 11, 0.4);
+    background: linear-gradient(135deg, #d97706, #b45309);
+  }
+  
+  .random-btn:active {
+    transform: scale(0.95) translateY(-4px);
+  }
+  
+  .random-icon {
+    font-size: 1.8rem;
+    margin-right: 0.5rem;
+    display: inline-block;
+    animation: dice-roll 2s ease-in-out infinite;
+  }
+  
+  @keyframes dice-roll {
+    0%, 100% { transform: rotate(0deg) scale(1); }
+    25% { transform: rotate(5deg) scale(1.05); }
+    50% { transform: rotate(-5deg) scale(1.1); }
+    75% { transform: rotate(3deg) scale(1.05); }
+  }
+  
+  .random-text {
+    display: block;
+    font-size: 1.3rem;
+    line-height: 1.2;
+    margin-bottom: 0.3rem;
+  }
+  
+  .random-subtitle {
+    display: block;
+    font-size: 0.9rem;
+    opacity: 0.9;
+    font-weight: 500;
+    line-height: 1;
+  }
+  
+  .random-description {
+    color: #92400e;
+    font-size: 1rem;
+    margin: 0;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+
+  /* ===== 5 Essential Taiwan Articles ===== */
+  .reading-path {
+    max-width: 900px;
+    margin: 6rem auto;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+    border-radius: 20px;
+    border: 1px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .reading-path::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2322c55e' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='m0 40 40-40h-40z'/%3E%3Cpath d='m0 40 40-40h-40z' transform='scale(.5) translate(40 0)'/%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+  
+  .reading-path-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .reading-path-header h2 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #166534;
+    margin-bottom: 1rem;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    letter-spacing: 0.05em;
+  }
+  
+  .reading-path-header p {
+    font-size: 1.2rem;
+    color: #16a34a;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+  
+  .reading-path-list {
+    position: relative;
+    z-index: 2;
+  }
+  
+  /* Path connection line */
+  .reading-path-list::before {
+    content: '';
+    position: absolute;
+    left: 2.5rem;
+    top: 4rem;
+    bottom: 4rem;
+    width: 3px;
+    background: linear-gradient(
+      180deg,
+      rgba(34, 197, 94, 0.3) 0%,
+      #22c55e 25%,
+      #16a34a  50%,
+      #15803d  75%,
+      rgba(34, 197, 94, 0.3) 100%
+    );
+    border-radius: 2px;
+    z-index: 1;
+  }
+  
+  .reading-step {
+    display: flex;
+    align-items: center;
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 2px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    z-index: 2;
+    gap: 1.5rem;
+    box-shadow: 0 2px 8px rgba(22, 163, 74, 0.08);
+  }
+  
+  .reading-step:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(22, 163, 74, 0.15);
+    border-color: rgba(34, 197, 94, 0.25);
+    background: rgba(240, 253, 244, 0.6);
+  }
+  
+  .step-number {
+    flex-shrink: 0;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  }
+  
+  .step-content {
+    flex: 1;
+  }
+  
+  .step-content h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #166534;
+    margin-bottom: 0.5rem;
+    line-height: 1.3;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+  
+  .step-content p {
+    color: #16a34a;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: 0;
+    font-weight: 500;
+  }
+  
+  .step-time {
+    flex-shrink: 0;
+    background: rgba(22, 163, 74, 0.1);
+    color: #166534;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(34, 197, 94, 0.2);
+  }
+  
+  .reading-path-footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(34, 197, 94, 0.2);
+    position: relative;
+    z-index: 2;
+  }
+  
+  .reading-path-footer p {
+    font-size: 1.1rem;
+    color: #16a34a;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .path-continue-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 2rem;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  }
+  
+  .path-continue-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
+    background: linear-gradient(135deg, #16a34a, #15803d);
+  }
+
+  /* ===== FEATURES SECTION upgrade ===== */
+  .features {
+    margin: 6rem 0;
+  }
+
+  .language-statement {
+    max-width: 800px;
+    margin: 0 auto 4rem;
+    padding: 2.5rem;
+    background: linear-gradient(135deg, #fefce8, #fff7ed);
+    border-radius: 16px;
+    border-left: 4px solid #d97706;
+  }
+  .language-inner h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: #92400e;
+  }
+  .language-inner p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #44403c;
+    margin-bottom: 0.75rem;
+  }
+  .language-inner a { color: #2563eb; text-decoration: underline; }
+  .language-en {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e7e5e4;
+    color: #78716c;
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
+
   .section-title {
     font-size: 2.5rem;
-    font-weight: 800;
     text-align: center;
-    color: #1a1a2e;
+    margin-bottom: 1rem;
+    color: #1f2937;
+    font-weight: 700;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .feature-card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid #f1f5f9;
+    transition: all 0.3s ease;
+  }
+
+  .feature-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: #e2e8f0;
+  }
+
+  .feature-icon {
+    font-size: 3rem;
+    flex-shrink: 0;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  }
+
+  .feature-content h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+    font-weight: 600;
+  }
+
+  .feature-content p {
+    color: #6b7280;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  /* ===== CATEGORIES SECTION ===== */
+  .categories {
+    margin: 6rem 0;
+  }
+
+  .categories-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  /* ===== Curated essay styles ===== */
+  .explore-prose {
+    max-width: 800px;
+    margin: 0 auto 4rem;
+    padding: 0 2rem;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    line-height: 2.2;
+  }
+
+  .explore-prose p {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 2rem;
+    text-align: justify;
+  }
+
+  .explore-prose a {
+    color: #1f2937;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-weight: 700;
+  }
+
+  .explore-prose a.topic-pill {
+    display: inline-block;
+    background: rgba(45, 80, 22, 0.08);
+    border: 1.5px solid rgba(45, 80, 22, 0.2);
+    border-radius: 6px;
+    padding: 0.15rem 0.6rem;
+    font-weight: 700;
+    color: #2d5016;
+    transition: all 0.25s ease;
+    white-space: nowrap;
+  }
+
+  .explore-prose a.topic-pill:hover {
+    background: rgba(45, 80, 22, 0.15);
+    border-color: rgba(45, 80, 22, 0.4);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(45, 80, 22, 0.15);
+  }
+
+  .explore-prose a:hover {
+    color: #2d5016;
+  }
+
+  /* Divider line styles */
+  .section-divider {
+    display: flex;
+    align-items: center;
+    margin: 4rem auto;
+    max-width: 600px;
+    padding: 0 2rem;
+  }
+
+  .divider-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #d1d5db, transparent);
+  }
+
+  .divider-text {
+    padding: 0 2rem;
+    color: #6b7280;
+    font-size: 0.9rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .section-subtitle {
+    text-align: center;
+    color: #6b7280;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* ===== RECENT UPDATES SECTION ===== */
+  .recent-updates {
+    max-width: 800px;
+    margin: 4rem auto;
+    padding: 0 2rem;
+  }
+
+  .updates-inner {
+    background: linear-gradient(135deg, #f8fafc 0%, #f0f9ff 100%);
+    border-radius: 20px;
+    border: 1px solid #e0f2fe;
+    padding: 2.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .updates-inner::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgba(59, 130, 246, 0.05) 0%, transparent 70%);
+  }
+
+  .updates-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    position: relative;
+    z-index: 2;
+  }
+
+  .updates-header h2 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #1e3a5f;
+    margin-bottom: 0.5rem;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+
+  .updates-subtitle {
+    font-size: 1rem;
+    color: #64748b;
+    font-weight: 500;
+  }
+
+  .updates-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    position: relative;
+    z-index: 2;
+  }
+
+  .update-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    color: inherit;
+  }
+
+  .update-item:hover {
+    border-color: #bfdbfe;
+    background: #f0f9ff;
+    transform: translateX(4px);
+  }
+
+  .update-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+
+  .update-message {
+    flex: 1;
+    font-size: 0.9rem;
+    color: #1f2937;
+    font-weight: 600;
+    line-height: 1.4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .update-time {
+    flex-shrink: 0;
+    font-size: 0.78rem;
+    color: #94a3b8;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+
+  .updates-footer {
+    text-align: center;
+    margin-top: 1.5rem;
+    position: relative;
+    z-index: 2;
+  }
+
+  .updates-more-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.6rem 1.5rem;
+    background: #1e3a5f;
+    color: white;
+    text-decoration: none;
+    border-radius: 50px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+  }
+
+  .updates-more-btn:hover {
+    background: #1e40af;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3);
+  }
+
+  @media (max-width: 768px) {
+    .recent-updates {
+      padding: 0 1rem;
+      margin: 3rem auto;
+    }
+
+    .updates-inner {
+      padding: 1.5rem;
+    }
+
+    .updates-header h2 {
+      font-size: 1.5rem;
+    }
+
+    .update-message {
+      font-size: 0.85rem;
+    }
+  }
+
+  /* ===== NEWSLETTER SECTION ===== */
+  .newsletter {
+    background: #2d5016;
+    padding: 4rem 2rem;
+    margin: 6rem -1rem 0;
+    text-align: center;
+    border-radius: 16px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .newsletter-content {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+  }
+
+  .newsletter h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+    font-weight: 700;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+
+  .newsletter p {
+    font-size: 1.1rem;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 2rem;
+    font-weight: 500;
+  }
+
+  .newsletter-form {
     margin-bottom: 1rem;
   }
+
+  .form-row {
+    display: flex;
+    gap: 0.5rem;
+    max-width: 400px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+  }
+
+  .newsletter input[type="email"] {
+    flex: 1;
+    padding: 0.875rem 1.25rem;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    font-size: 1rem;
+    font-weight: 500;
+    min-width: 200px;
+    backdrop-filter: blur(10px);
+  }
+
+  .newsletter input[type="email"]::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .newsletter input[type="email"]:focus {
+    outline: none;
+    border-color: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.15);
+  }
+
+  .newsletter-btn {
+    padding: 0.875rem 2rem;
+    background: rgba(255, 255, 255, 0.95);
+    color: #2d5016;
+    border: none;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+  }
+
+  .newsletter-btn:hover {
+    background: white;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .newsletter-btn:disabled {
+    background: rgba(255, 255, 255, 0.5);
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+  }
+
+  .newsletter-success {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+  }
+
+  .success-icon {
+    font-size: 1.5rem;
+  }
+
+  .newsletter-note {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    font-weight: 400;
+  }
+
+  @media (max-width: 768px) {
+    .newsletter {
+      padding: 3rem 1rem;
+    }
+
+    .form-row {
+      flex-direction: column;
+      max-width: 300px;
+    }
+
+    .newsletter input[type="email"] {
+      min-width: unset;
+    }
+
+    .newsletter h2 {
+      font-size: 1.6rem;
+    }
+  }
+
+  /* ===== CONTRIBUTE SECTION upgrade ===== */
+  .contribute {
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    padding: 5rem 2rem;
+    margin: 6rem -1rem 0;
+    text-align: center;
+    border-radius: 16px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .contribute::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2394a3b8' fill-opacity='0.05' fill-rule='nonzero'%3E%3Ccircle cx='30' cy='30' r='2'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.5;
+  }
+
+  .contribute-content {
+    position: relative;
+    z-index: 2;
+  }
+
+  .contribute-content h2 {
+    font-size: 2.25rem;
+    margin-bottom: 1.5rem;
+    color: #1f2937;
+    font-weight: 700;
+  }
+
+  .contribute-content p {
+    font-size: 1.2rem;
+    color: #6b7280;
+    margin-bottom: 2.5rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;
+  }
+
+  .contribute-buttons {
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    padding: 1rem 2.5rem;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+  }
+
+  .btn-primary {
+    background: #1e40af;
+    color: white;
+    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.3);
+  }
+
+  .btn-primary:hover {
+    background: #1d4ed8;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(30, 64, 175, 0.4);
+  }
+
+  .btn-secondary {
+    background: white;
+    color: #1e40af;
+    border: 2px solid #1e40af;
+  }
+
+  .btn-secondary:hover {
+    background: #1e40af;
+    color: white;
+    transform: translateY(-2px);
+  }
+
+  /* ===== ANIMATIONS - Remove tech animations, maintain natural serenity ===== */
+  /* All animations removed, in line with natural design philosophy */
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 1024px) {
+    .hero-title {
+      font-size: 5rem;
+    }
+
+    .hero-subtitle {
+      font-size: 2.4rem;
+    }
+
+    .taiwan-silhouette {
+      width: 160px;
+      height: 160px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .hero {
+      padding: 5rem 1rem;
+      min-height: 85vh;
+    }
+
+    .hero-content {
+      padding: 0 1rem;
+    }
+
+    .hero-title {
+      font-size: 3.5rem;
+      margin-bottom: 1.2rem;
+      letter-spacing: -0.01em;
+    }
+
+    .hero-subtitle {
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      line-height: 1.3;
+    }
+
+    .hero-description {
+      font-size: 1.1rem;
+      padding: 0;
+      margin-bottom: 3rem;
+      max-width: 100%;
+    }
+
+    .hero-cta {
+      flex-direction: column;
+      align-items: center;
+      gap: 1.5rem;
+      margin-bottom: 3.5rem;
+    }
+
+    .btn-cta {
+      width: 100%;
+      max-width: 300px;
+      justify-content: center;
+      padding: 1.3rem 2.5rem;
+      font-size: 1.1rem;
+    }
+
+    .hero-stats {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.5rem;
+      margin: 0;
+      max-width: 100%;
+    }
+
+    .stat {
+      padding: 1.5rem 1rem;
+    }
+
+    .stat-number {
+      font-size: 2rem;
+    }
+
+    .stat-label {
+      font-size: 0.9rem;
+    }
+
+    .taiwan-silhouette {
+      width: 120px;
+      height: 120px;
+      top: 10%;
+      right: 5%;
+      opacity: 0.2;
+    }
+
+    .taiwan-mountains {
+      height: 35%;
+    }
+
+    .features-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .feature-card {
+      flex-direction: column;
+      text-align: center;
+      gap: 1rem;
+    }
+
+    .contribute-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .hero {
+      padding: 4rem 0.5rem;
+    }
+
+    .hero-title {
+      font-size: 2.8rem;
+    }
+
+    .hero-subtitle {
+      font-size: 1.6rem;
+    }
+
+    .hero-description {
+      font-size: 1rem;
+    }
+
+    .btn-cta {
+      padding: 1.2rem 2rem;
+      font-size: 1rem;
+    }
+
+    .hero-stats {
+      gap: 1rem;
+    }
+
+    .stat {
+      padding: 1.2rem 0.8rem;
+    }
+
+    .stat-number {
+      font-size: 1.8rem;
+    }
+
+    .stat-label {
+      font-size: 0.85rem;
+    }
+
+    .taiwan-silhouette {
+      width: 100px;
+      height: 100px;
+      opacity: 0.15;
+    }
+
+    /* Curated essay responsive */
+    .explore-prose {
+      padding: 0 1rem;
+    }
+
+    .explore-prose p {
+      font-size: 1rem;
+    }
+
+    .section-divider {
+      padding: 0 1rem;
+    }
+
+    /* Random discovery responsive */
+    .random-discovery {
+      margin: 3rem 1rem;
+      padding: 2rem 1rem;
+    }
+    
+    .random-btn {
+      min-width: 250px;
+      padding: 1.2rem 2rem;
+      font-size: 1.1rem;
+    }
+    
+    .random-text {
+      font-size: 1.1rem;
+    }
+    
+    .random-subtitle {
+      font-size: 0.85rem;
+    }
+
+    /* Reading path responsive */
+    .reading-path {
+      margin: 4rem 1rem;
+      padding: 2rem 1rem;
+    }
+    
+    .reading-path-list::before {
+      display: none; /* Hide connection line on mobile */
+    }
+    
+    .reading-step {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem;
+      gap: 1rem;
+    }
+    
+    .step-content h3 {
+      font-size: 1.1rem;
+    }
+    
+    .step-content p {
+      font-size: 0.9rem;
+    }
+    
+    .reading-path-header h2 {
+      font-size: 1.8rem;
+    }
+    
+    .reading-path-header p {
+      font-size: 1rem;
+    }
+  }
+
+  /* Cover Story - Literary serif timeline */
+  .cover-story {
+    padding: 6rem 2rem;
+    background: #fafbfc;
+  }
+  .cover-content {
+    max-width: 780px;
+    margin: 0 auto;
+  }
+  .cover-content h2 {
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-size: 2rem;
+    color: #1a1a2e;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+  }
+  .cover-lead {
+    text-align: center;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-size: 1.1rem;
+    color: #475569;
+    line-height: 2;
+    margin-bottom: 3rem;
+    font-weight: 600;
+  }
+  .quotes-timeline {
+    position: relative;
+    padding-left: 3rem;
+  }
+  .quotes-timeline::before {
+    content: '';
+    position: absolute;
+    left: 0.75rem;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(180deg, #e2e8f0, #3b82f6, #059669, #e2e8f0);
+  }
+  .quote-era {
+    position: relative;
+    margin-bottom: 2.5rem;
+  }
+  .quote-era::before {
+    content: '';
+    position: absolute;
+    left: -2.35rem;
+    top: 0.5rem;
+    width: 10px;
+    height: 10px;
+    background: #3b82f6;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px #3b82f6;
+  }
+  .quote-era:nth-child(even)::before { background: #059669; box-shadow: 0 0 0 2px #059669; }
+  .quote-era:last-child::before { background: #fbbf24; box-shadow: 0 0 0 2px #fbbf24; }
+  .era-label {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: #3b82f6;
+    margin-bottom: 0.5rem;
+    padding: 0.15rem 0.5rem;
+    background: #eff6ff;
+    border-radius: 4px;
+  }
+  .quote-era:nth-child(even) .era-label { color: #059669; background: #ecfdf5; }
+  .quote-era:last-child .era-label { color: #b45309; background: #fffbeb; }
+  .quote-era blockquote {
+    margin: 0;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: #1e293b;
+    font-style: normal;
+    font-weight: 600;
+  }
+  .quote-era cite {
+    display: block;
+    font-size: 0.8rem;
+    color: #94a3b8;
+    font-style: normal;
+    margin-top: 0.4rem;
+  }
+  .cover-closing {
+    margin-top: 3rem;
+    text-align: center;
+    font-family: "Noto Serif TC", "Source Han Serif TC", "PMingLiU", serif;
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: #475569;
+  }
+  .cover-closing strong { color: #1a1a2e; }
+  .cover-closing p { margin-bottom: 1rem; }
+  .cover-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #3b82f6;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .cover-link:hover { text-decoration: underline; }
 </style>
+
+<script is:inline define:vars={{ randomArticlesData }}>
+document.addEventListener('DOMContentLoaded', function() {
+  // Random discovery functionality
+  const randomBtn = document.getElementById('random-discovery-btn');
+  const articles = JSON.parse(randomArticlesData);
+  
+  if (randomBtn && articles.length > 0) {
+    randomBtn.addEventListener('click', function() {
+      const randomIndex = Math.floor(Math.random() * articles.length);
+      const randomArticle = articles[randomIndex];
+      
+      // Add click animation
+      randomBtn.style.transform = 'scale(0.95)';
+      setTimeout(() => {
+        randomBtn.style.transform = 'scale(1)';
+        window.location.href = randomArticle.url;
+      }, 150);
+    });
+  }
+
+  // CSS Counter effect (dynamic display of statistics)
+  const counters = document.querySelectorAll('.counter');
+  const speed = 200;
+
+  const countUp = (counter) => {
+    const target = +counter.getAttribute('data-target');
+    const count = +counter.innerText;
+    const inc = target / speed;
+
+    if (count < target) {
+      counter.innerText = Math.ceil(count + inc);
+      setTimeout(() => countUp(counter), 1);
+    } else {
+      counter.innerText = target;
+    }
+  };
+
+  // Use Intersection Observer to trigger animation when element enters viewport
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const counter = entry.target;
+        countUp(counter);
+        observer.unobserve(counter); // Only execute once
+      }
+    });
+  });
+
+  counters.forEach(counter => {
+    observer.observe(counter);
+  });
+
+  // Newsletter form submission via Google Forms
+  (function() {
+    const form = document.getElementById('subscribe-form');
+    const emailInput = document.getElementById('subscribe-email');
+    const btn = document.getElementById('subscribe-btn');
+    const success = document.getElementById('subscribe-success');
+    if (!form) return;
+
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      const email = emailInput.value.trim();
+      if (!email) return;
+
+      btn.disabled = true;
+      btn.textContent = 'Submitting...';
+
+      const iframe = document.createElement('iframe');
+      iframe.name = 'subscribe-iframe';
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+
+      const gForm = document.createElement('form');
+      gForm.method = 'POST';
+      gForm.action = 'https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse';
+      gForm.target = 'subscribe-iframe';
+      
+      const input = document.createElement('input');
+      input.name = 'entry.1746160086';
+      input.value = email;
+      gForm.appendChild(input);
+      
+      document.body.appendChild(gForm);
+      gForm.submit();
+
+      setTimeout(function() {
+        form.style.display = 'none';
+        success.style.display = 'flex';
+        try { document.body.removeChild(iframe); } catch(e) {}
+        try { document.body.removeChild(gForm); } catch(e) {}
+      }, 1000);
+    });
+  })();
+});
+</script>

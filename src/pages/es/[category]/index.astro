@@ -1,0 +1,140 @@
+---
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
+import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
+
+export async function getStaticPaths() {
+  const categories = Object.keys(categoryConfig);
+  const categoryMapping: Record<string, string> = {
+    history: 'History', geography: 'Geography', culture: 'Culture',
+    food: 'Food', art: 'Art', music: 'Music',
+    technology: 'Technology', nature: 'Nature', people: 'People',
+    society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+  };
+
+  const paths = [];
+
+  for (const category of categories) {
+    const folderName = categoryMapping[category];
+    const articles: any[] = [];
+
+    try {
+      const esFolderPath = resolve(process.cwd(), 'knowledge', 'es', folderName);
+      const esFiles = await readdir(esFolderPath);
+      const esMarkdownFiles = esFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
+
+      for (const file of esMarkdownFiles) {
+        const filePath = join(esFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter } = matter(fileContent);
+        const slug = basename(file, '.md');
+
+        articles.push({
+          slug,
+          title: frontmatter.title || slug,
+          description: frontmatter.description || '',
+          readingTime: frontmatter.readingTime || null,
+          featured: frontmatter.featured || false,
+        });
+      }
+    } catch {}
+
+    paths.push({
+      params: { category },
+      props: {
+        categoryInfo: categoryConfig[category as CategoryKey],
+        category,
+        articles: articles.sort((a, b) => {
+          if (a.featured && !b.featured) return -1;
+          if (!a.featured && b.featured) return 1;
+          return a.title.localeCompare(b.title, 'es');
+        }),
+      },
+    });
+  }
+
+  return paths;
+}
+
+const { categoryInfo, category, articles } = Astro.props;
+
+const otherCategories = Object.keys(categoryConfig)
+  .filter(cat => cat !== category)
+  .slice(0, 5)
+  .map(cat => ({
+    key: cat,
+    ...categoryConfig[cat as CategoryKey]
+  }));
+---
+
+<Layout
+  title={`${categoryInfo.name_es} - Taiwan.md`}
+  description={`${categoryInfo.description_es} - Base de conocimiento de Taiwán`}
+  lang="es"
+>
+  <main>
+    <!-- Hero Banner -->
+    <section class="relative w-full py-16 px-6 text-white text-center" style={`background: ${categoryInfo.gradient};`}>
+      <div class="relative z-10 max-w-3xl mx-auto">
+        <div class="text-5xl mb-4">{categoryInfo.icon}</div>
+        <h1 class="text-3xl md:text-4xl font-serif font-bold mb-3">{categoryInfo.name_es}</h1>
+        <p class="text-white/80 text-lg">{categoryInfo.description_es}</p>
+        <span class="inline-block mt-4 px-3 py-1 bg-white/20 rounded-full text-sm"> {articles.length} artículos</span>
+      </div>
+    </section>
+
+    <div class="max-w-5xl mx-auto px-6 py-8">
+      <!-- Breadcrumb -->
+      <nav class="text-sm text-forest-400 mb-8">
+        <a href="/es" class="hover:text-teal transition-colors">Inicio</a>
+        <span class="mx-2">›</span>
+        <span class="text-forest font-medium">{categoryInfo.name_es}</span>
+      </nav>
+
+      <!-- Articles -->
+      {articles.length > 0 ? (
+        <div>
+          <h2 class="text-xl font-serif font-bold text-forest mb-6">Lectura Adicional</h2>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {articles.map((article) => (
+              <a href={`/es/${category}/${article.slug}`}
+                 class="block p-5 rounded-xl border border-forest-100/30 bg-white hover:shadow-card hover:border-teal/30 transition-all no-underline group">
+                <h3 class="text-base font-bold text-forest group-hover:text-teal transition-colors mb-2">{article.title}</h3>
+                {article.description && <p class="text-sm text-forest-400 line-clamp-2">{article.description}</p>}
+                {article.readingTime && <span class="text-xs text-forest-300 mt-2 block"> {article.readingTime} min de lectura</span>}
+              </a>
+            ))}
+          </div>
+        </div>
+      ) : (
+        <div class="text-center py-16">
+          <div class="text-5xl mb-4">{categoryInfo.icon}</div>
+          <h2 class="text-xl font-bold text-forest mb-2">Contenido Próximamente</h2>
+          <p class="text-forest-400 mb-6">Los artículos de esta categoría están siendo traducidos. ¡Vuelve pronto!</p>
+          <div class="flex justify-center gap-4">
+            <a href="/es" class="btn-primary">Volver al Inicio</a>
+            <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">Contribuir</a>
+          </div>
+        </div>
+      )}
+
+      <!-- Other Categories -->
+      <section class="mt-16 pt-8 border-t border-forest-100/30">
+        <h2 class="text-lg font-serif font-bold text-forest mb-6 text-center">Explorar Otros Aspectos de Taiwán</h2>
+        <div class="flex flex-wrap justify-center gap-3">
+          {otherCategories.map(cat => (
+            <a href={`/es/${cat.key}`}
+               class="flex items-center gap-2 px-4 py-2 rounded-full border text-sm font-medium hover:shadow-soft transition-all no-underline"
+               style={`border-color: ${cat.color}; color: ${cat.color};`}>
+              <span>{cat.icon}</span>
+              <span>{cat.name_es}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+    </div>
+  </main>
+</Layout>

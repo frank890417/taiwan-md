@@ -1,0 +1,148 @@
+---
+/**
+ * SearchModal component — Pagefind-powered multi-language search
+ * Falls back to build-time index if Pagefind not available
+ */
+import { t, getLocaleFromPath } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+  searchIndex?: Array<{t: string; d: string; u: string; tags: string[]; lang: string}>;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname), searchIndex = [] } = Astro.props;
+---
+
+<div id="search-modal" class="fixed inset-0 z-[100] hidden" role="dialog" aria-modal="true" aria-label={t('nav.search', lang)}>
+  <!-- Backdrop -->
+  <div class="absolute inset-0 bg-forest/40 backdrop-blur-sm" id="search-backdrop"></div>
+
+  <!-- Panel -->
+  <div class="relative max-w-2xl mx-auto mt-[10vh] bg-white/95 backdrop-blur-xl rounded-2xl shadow-2xl border border-forest-100/50 overflow-hidden">
+    <!-- Search Input -->
+    <div class="flex items-center gap-3 px-5 py-4 border-b border-forest-100/30">
+      <svg class="w-5 h-5 text-forest-300 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+        <circle cx="11" cy="11" r="8" /><line x1="21" y1="21" x2="16.65" y2="16.65" />
+      </svg>
+      <input
+        id="search-input"
+        type="text"
+        class="flex-1 bg-transparent text-forest text-base placeholder-forest-300 outline-none"
+        placeholder={t('search.placeholder', lang)}
+        autocomplete="off"
+      />
+      <kbd class="hidden sm:inline-flex px-2 py-1 text-xs text-forest-400 bg-forest-50 rounded-md border border-forest-100 cursor-pointer" id="search-esc">ESC</kbd>
+    </div>
+
+    <!-- Results -->
+    <div id="search-results" class="max-h-[60vh] overflow-y-auto px-2 py-2" data-pagefind-ui>
+      <div class="search-hint text-center py-8 text-sm text-forest-400">
+        {t('search.hint', lang)}
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  #search-modal.open { display: block; }
+  #search-modal.open > div:first-child { animation: fadeIn 0.15s ease-out; }
+  #search-modal.open > div:last-child { animation: slideUp 0.2s ease-out; }
+
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+  @keyframes slideUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+
+  .search-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    border-radius: 0.75rem;
+    text-decoration: none;
+    color: inherit;
+    transition: background-color 0.15s;
+  }
+  .search-item:hover { background-color: rgba(0, 109, 119, 0.05); }
+  .search-item-lang {
+    flex-shrink: 0;
+    font-size: 0.65rem;
+    font-weight: 600;
+    padding: 0.15rem 0.4rem;
+    border-radius: 0.25rem;
+    background: rgba(26, 60, 52, 0.06);
+    color: rgba(26, 60, 52, 0.6);
+    margin-top: 0.15rem;
+  }
+  .search-item-title {
+    display: block;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: #1A3C34;
+  }
+  .search-item-desc {
+    display: block;
+    font-size: 0.8rem;
+    color: rgba(26, 60, 52, 0.5);
+    margin-top: 0.15rem;
+    line-height: 1.4;
+  }
+</style>
+
+<script is:inline define:vars={{ searchIndex, lang }}>
+(function() {
+  var idx = searchIndex;
+  var currentLang = lang;
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  var modal = document.getElementById('search-modal');
+  var backdrop = document.getElementById('search-backdrop');
+  var escKey = document.getElementById('search-esc');
+
+  function closeModal() { modal.classList.remove('open'); }
+  function openModal() {
+    modal.classList.add('open');
+    setTimeout(function() { input.focus(); }, 100);
+  }
+
+  if (backdrop) backdrop.addEventListener('click', closeModal);
+  if (escKey) escKey.addEventListener('click', closeModal);
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && modal.classList.contains('open')) closeModal();
+  });
+
+  if (input) {
+    input.addEventListener('input', function() {
+      var q = this.value.trim().toLowerCase();
+      if (!q) {
+        results.innerHTML = '<div class="text-center py-8 text-sm text-forest-400">Type to search</div>';
+        return;
+      }
+      var matches = idx.filter(function(item) {
+        return item.t.toLowerCase().indexOf(q) !== -1 ||
+               item.d.toLowerCase().indexOf(q) !== -1 ||
+               item.tags.some(function(tag) { return tag.toLowerCase().indexOf(q) !== -1; });
+      });
+      matches.sort(function(a, b) {
+        return (a.lang === currentLang ? 0 : 1) - (b.lang === currentLang ? 0 : 1);
+      });
+      if (matches.length === 0) {
+        results.innerHTML = '<div class="text-center py-8 text-sm text-forest-400">No results found</div>';
+        return;
+      }
+      var html = matches.slice(0, 12).map(function(item) {
+        var langBadge = item.lang === 'en' ? 'EN' : item.lang === 'es' ? 'ES' : '中';
+        return '<a class="search-item" href="' + item.u + '">' +
+          '<span class="search-item-lang">' + langBadge + '</span>' +
+          '<div><span class="search-item-title">' + item.t + '</span>' +
+          (item.d ? '<span class="search-item-desc">' + item.d.substring(0, 80) + '</span>' : '') +
+          '</div></a>';
+      }).join('');
+      if (matches.length > 12) {
+        html += '<div class="text-center py-3 text-sm text-forest-400">...and ' + (matches.length - 12) + ' more</div>';
+      }
+      results.innerHTML = html;
+    });
+  }
+})();
+</script>

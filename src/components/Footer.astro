@@ -1,257 +1,89 @@
 ---
-import {
-  useTranslations,
-  getLangFromUrl,
-  useTranslatedPath,
-} from '../i18n/utils';
+/**
+ * Footer component — 4-column responsive layout with cream/forest palette
+ */
+import { t, getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
 
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
-const translatePath = useTranslatedPath(lang);
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const prefix = getLangPrefix(lang);
 ---
 
-<footer role="contentinfo">
-  <div class="footer-inner">
-    <div class="footer-grid">
-      <div class="footer-brand">
-        <span class="footer-logo">🇹🇼 Taiwan.md</span>
-        <p>{t('footer.desc')}</p>
-        <p class="footer-heart">Built with ❤️ in Taiwan</p>
-        <p class="footer-license">
-          <a
-            href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw"
-            target="_blank"
-            rel="noopener"
-          >
-            <svg
-              width="16"
-              height="16"
-              viewBox="0 0 496 512"
-              fill="currentColor"
-              style="margin-right: 6px;"
-            >
-              <path
-                d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"
-              ></path>
+<footer class="bg-forest text-cream-300 mt-24" role="contentinfo">
+  <div class="max-w-wide mx-auto px-4 sm:px-6 lg:px-8 py-20 lg:py-24">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-12">
+      <!-- Brand -->
+      <div class="lg:col-span-1">
+        <a href={`${prefix}/`} class="flex items-center gap-2 mb-4">
+          <svg class="w-6 h-6 text-teal-300" viewBox="0 0 100 140" fill="currentColor" aria-hidden="true">
+            <path d="M50 5C47 8 42 15 38 25C34 35 30 48 28 58C26 68 27 78 30 88C33 98 38 108 43 115C48 122 52 125 54 128C56 131 55 133 52 135C65 130 72 118 74 108C76 98 74 88 70 78C66 68 60 58 56 48C52 38 50 28 50 18C50 13 50 8 50 5Z" />
+          </svg>
+          <span class="text-xl font-serif font-bold text-cream">
+            Taiwan<span class="text-teal-300">.md</span>
+          </span>
+        </a>
+        <p class="text-sm text-cream-400 leading-relaxed mb-4">{t('footer.desc', lang)}</p>
+        <p class="text-sm text-cream-500">{t('footer.built', lang)}</p>
+        <div class="mt-4 flex items-center gap-3">
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer" class="text-xs text-cream-500 hover:text-cream-300 transition-colors flex items-center gap-1.5">
+            <svg class="w-4 h-4" viewBox="0 0 496 512" fill="currentColor">
+              <path d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31.04 15.5c-6.17 11.51-25.69 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.6-77.06 30.71-.01 52.58 11.95 65.55 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"/>
             </svg>
             CC BY-SA 4.0
           </a>
-        </p>
-        <p class="footer-eth">
-          <span class="footer-eth-label">{t('footer.support-us')}:</span>
-          <code class="footer-eth-address">taiwanmd.eth</code>
-        </p>
+        </div>
+        <div class="mt-3">
+        </div>
       </div>
-      <div class="footer-col">
-        <h4>{t('footer.explore')}</h4>
-        <a href={translatePath('/history')}>{t('footer.history')}</a>
-        <a href={translatePath('/culture')}>{t('footer.culture')}</a>
-        <a href={translatePath('/food')}>{t('footer.food')}</a>
-        <a href={translatePath('/technology')}>{t('footer.technology')}</a>
-        <a href={translatePath('/nature')}>{t('footer.nature')}</a>
-        <a href={translatePath('/society')}>{t('footer.society')}</a>
+
+      <!-- Explore -->
+      <div>
+        <h4 class="text-sm font-semibold text-cream uppercase tracking-wider mb-4">{t('footer.explore', lang)}</h4>
+        <div class="space-y-2.5">
+          <a href={`${prefix}/history`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.history', lang)}</a>
+          <a href={`${prefix}/culture`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.culture', lang)}</a>
+          <a href={`${prefix}/food`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.food', lang)}</a>
+          <a href={`${prefix}/technology`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.technology', lang)}</a>
+          <a href={`${prefix}/nature`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.nature', lang)}</a>
+          <a href={`${prefix}/society`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('cat.society', lang)}</a>
+        </div>
       </div>
-      <div class="footer-col">
-        <h4>{t('footer.project')}</h4>
-        <a href="https://github.com/frank890417/taiwan-md" target="_blank"
-          >GitHub</a
-        >
-        <a href={translatePath('/about')}>{t('footer.about')}</a>
-        <a href={translatePath('/graph')}>{t('footer.graph')}</a>
-        <a
-          href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md"
-          target="_blank">{t('footer.contribute')}</a
-        >
-        <a href={translatePath('/changelog')}>{t('footer.changelog')}</a>
+
+      <!-- Project -->
+      <div>
+        <h4 class="text-sm font-semibold text-cream uppercase tracking-wider mb-4">{t('footer.project', lang)}</h4>
+        <div class="space-y-2.5">
+          <a href="https://github.com/frank890417/taiwan-md" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">GitHub</a>
+          <a href={`${prefix}/about`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('nav.about', lang)}</a>
+          <a href={`${prefix}/graph`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('nav.graph', lang)}</a>
+          <a href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">{t('nav.contribute', lang)}</a>
+          <a href={`${prefix}/changelog`} class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">Changelog</a>
+        </div>
       </div>
-      <div class="footer-col">
-        <h4>{t('footer.contact')}</h4>
-        <a href="https://x.com/taiwandotmd" target="_blank">𝕏 @taiwandotmd</a>
-        <a href="https://www.threads.com/@taiwandotmd" target="_blank"
-          >Threads @taiwandotmd</a
-        >
-        <a href="https://www.instagram.com/taiwandotmd" target="_blank"
-          >IG @taiwandotmd</a
-        >
-        <a href="mailto:cheyu.wu@monoame.com">cheyu.wu@monoame.com</a>
-        <a
-          href="https://github.com/frank890417/taiwan-md/issues"
-          target="_blank">{t('footer.report')}</a
-        >
-        <a
-          href="https://github.com/frank890417/taiwan-md/discussions"
-          target="_blank">{t('footer.discuss')}</a
-        >
+
+      <!-- Connect -->
+      <div>
+        <h4 class="text-sm font-semibold text-cream uppercase tracking-wider mb-4">{t('footer.connect', lang)}</h4>
+        <div class="space-y-2.5">
+          <a href="https://x.com/taiwandotmd" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">𝕏 @taiwandotmd</a>
+          <a href="https://www.threads.com/@taiwandotmd" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">Threads @taiwandotmd</a>
+          <a href="https://www.instagram.com/taiwandotmd" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">IG @taiwandotmd</a>
+          <a href="mailto:cheyu.wu@monoame.com" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">cheyu.wu@monoame.com</a>
+          <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer" class="block text-sm text-cream-400 hover:text-teal-300 transition-colors">Report Issue</a>
+        </div>
       </div>
     </div>
-    <div class="footer-font-credit">
-      <span>{t('footer.font-sponsor-prefix')}</span>
-      <a
-        href="https://justfont.com"
-        target="_blank"
-        rel="noopener noreferrer"
-        class="justfont-link"
-      >
-        <img
-          src="/images/justfont-logo.svg"
-          alt="justfont"
-          class="justfont-logo"
-        />
-      </a>
-      <span>{t('footer.font-sponsor-suffix')}</span>
-    </div>
-    <div class="footer-bottom">
-      &copy; 2026 Taiwan.md — {t('footer.desc')}
+
+    <!-- Bottom bar -->
+    <div class="border-t border-cream/10 mt-16 pt-10 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <p class="text-sm text-cream-500">
+        &copy; 2026 Taiwan.md — {t('footer.desc', lang)}
+      </p>
+      <p class="text-xs text-cream-600">{t('footer.support', lang)}: <code class="text-teal-400">taiwanmd.eth</code></p>
     </div>
   </div>
 </footer>
-<style>
-  /* Footer */
-  footer {
-    background: #1a2e1a;
-    color: #94a3b8;
-    padding: 3rem 0 1.5rem;
-  }
-  .footer-inner {
-    max-width: var(--container-wide);
-    margin: 0 auto;
-    padding: 0 var(--space-page-x);
-  }
-  .footer-grid {
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
-    gap: 2rem;
-    margin-bottom: 2rem;
-  }
-  .footer-logo {
-    font-size: 1.2rem;
-    font-weight: 700;
-    color: white;
-    display: block;
-    margin-bottom: 0.5rem;
-  }
-  .footer-heart {
-    color: #22c55e;
-    margin-top: 0.5rem;
-  }
-  .footer-license {
-    margin-top: 0.75rem;
-  }
-  .footer-license a {
-    color: #a7c7a7;
-    text-decoration: none;
-    font-size: 0.8rem;
-    display: inline-flex;
-    align-items: center;
-    transition: all 0.2s ease;
-  }
-  .footer-license a:hover {
-    color: #c7d2c7;
-  }
-  .footer-eth {
-    margin-top: 0.6rem;
-    font-size: 0.8rem;
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-  }
-  .footer-eth-label {
-    color: #94a3b8;
-  }
-  .footer-eth-address {
-    font-family: 'SF Mono', 'Fira Code', monospace;
-    color: #a7c7a7;
-    font-size: 0.8rem;
-    background: rgba(255, 255, 255, 0.06);
-    padding: 0.15rem 0.5rem;
-    border-radius: 4px;
-    letter-spacing: 0.02em;
-  }
-  .footer-col {
-    display: flex;
-    flex-direction: column;
-    gap: 0.4rem;
-  }
-  .footer-col h4 {
-    color: white;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.25rem;
-  }
-  .footer-col a {
-    color: #94a3b8;
-    text-decoration: none;
-    font-size: 0.85rem;
-    transition: all 0.2s ease;
-    position: relative;
-    padding: 0.25rem 0;
-  }
-  .footer-col a:hover {
-    color: #e2e8f0;
-    text-decoration: none;
-  }
-  .footer-col a:hover::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 1px;
-    background: #a7c7a7;
-    opacity: 0.7;
-  }
-  .footer-font-credit {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    padding: 0.8rem 0;
-    font-size: 0.78rem;
-    color: #94a3b8;
-  }
-  .justfont-link {
-    display: inline-flex;
-    align-items: center;
-    border: none !important;
-    padding: 0 !important;
-  }
-  .justfont-logo {
-    height: 16px;
-    width: auto;
-    opacity: 0.7;
-    transition: opacity 0.2s;
-    filter: brightness(0) invert(0.7);
-  }
-  .justfont-link:hover .justfont-logo {
-    opacity: 1;
-    filter: brightness(0) invert(0.85);
-  }
-  .footer-bottom {
-    text-align: center;
-    padding-top: 1.5rem;
-    border-top: 1px solid #1e293b;
-    font-size: 0.8rem;
-  }
-  @media (max-width: 768px) {
-    .footer-grid {
-      grid-template-columns: 1fr 1fr;
-      gap: 1.75rem;
-    }
-    .footer-brand {
-      grid-column: 1 / -1;
-    }
-
-    footer {
-      padding: 2.5rem 0 1.25rem;
-    }
-    .footer-inner {
-      padding: 0 1.25rem;
-    }
-  }
-  @media (max-width: 480px) {
-    .footer-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
