@@ -118,6 +118,35 @@ docs/
 
 ---
 
+## 🔐 Protico Community Chat Disclosure
+
+Selected pages on the public site currently embed a sponsor-provided Protico community chat / lobby widget:
+
+- `/`
+- `/about`
+- `/contribute`
+- `/en/contribute`
+
+This note is here so contributors know what the embed is for, what client-side context it may use, and when it loads.
+
+| Data / behavior | Why it exists |
+|-----------------|---------------|
+| Persistent anonymous UUID and related usage context | Used as a defensive moderation and reliability mechanism: to understand the client environment in which an error occurred, help returning visitors recover continuity in a public lobby, and distinguish repeated behavior in cases involving abuse, safety issues, or clear community-guideline violations. |
+| User-Agent, session/context, and page URL | Used for compatibility debugging, incident investigation, and moderation follow-up in a public discussion space. |
+| Browser language preference | Used to present the lobby UI in the language that best matches the visitor's browser preferences. |
+| Payment-related cookies set by the widget (for example Stripe cookies) | Present because the Protico widget supports payment-related features such as highlighted / paid messages in some deployments. |
+
+Notes:
+
+- The values above are treated as pseudonymous technical context. Taiwan.md does not intentionally pass separate real-name, email, or site account profile fields from this repository into the Protico embed.
+- Taiwan.md does not use this integration as a standalone cross-product tracking system. In practice, these signals are intended for moderation, debugging, language selection, and continuity within the public chat experience.
+- Unless a user separately authenticates or voluntarily provides additional identifying information through the widget flow itself, these values are not meant to identify a person on their own.
+- Stripe-related capability exists in the underlying widget design, including support for paid or highlighted messages, but that feature is not currently enabled as an open-source Taiwan.md community feature. Any future enablement would be reviewed separately.
+- The Protico script is only loaded on the public production hostnames (`taiwan.md` / `www.taiwan.md`). It is not loaded in local development, localhost, or local preview.
+- The widget is a third-party sponsored component, and its browser-side implementation is provided by Protico.
+
+---
+
 ## 🔄 Perspectives — 平行宇宙觀點系統
 
 Taiwan.md doesn't arbitrate truth. **We present multiple truths and let readers decide.**

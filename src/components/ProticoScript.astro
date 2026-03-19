@@ -1,0 +1,11 @@
+<script is:inline>
+  (() => {
+    const allowedHosts = new Set(['taiwan.md', 'www.taiwan.md']);
+    if (!allowedHosts.has(window.location.hostname)) return;
+
+    const script = document.createElement('script');
+    script.src = 'https://main.protico.io/api/v1/taiwan.md/protico-frame.js';
+    script.async = true;
+    document.head.appendChild(script);
+  })();
+</script>

@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import CategoryGrid from '../components/CategoryGrid.astro';
 import { getCollection } from 'astro:content';
+import ProticoScript from '../components/ProticoScript.astro';
 // Fetch recent commits from GitHub API (works in shallow clone CI/CD environments)
 let recentCommits: { hash: string; date: string; message: string }[] = [];
 try {
@@ -1100,9 +1101,8 @@ const row3 = feedbacks.filter((_: any, i: number) => i % 3 === 2);
     });
 </script>
 
-<!-- Protico Community Chat Bubble — sponsored by Howei Young -->
-<script src="https://main.protico.io/api/v1/taiwan.md/protico-frame.js"
-></script>
+<!-- Protico Community Chat Bubble — sponsored by Howie Young -->
+<ProticoScript />
 
 <style>
   /* ===== SKIP LINK FOR ACCESSIBILITY ===== */
