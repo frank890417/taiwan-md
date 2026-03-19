@@ -37,6 +37,45 @@ export const ui: Record<Lang, Record<string, string>> = {
     'footer.discuss': 'Discussions',
     'footer.desc': 'Open-source, AI-friendly knowledge base about Taiwan',
     'footer.support-us': 'Support us',
+    'CategoryGrid.history': 'History',
+    'CategoryGrid.geography': 'Geography',
+    'CategoryGrid.culture': 'Culture',
+    'CategoryGrid.food': 'Food',
+    'CategoryGrid.art': 'Art',
+    'CategoryGrid.music': 'Music',
+    'CategoryGrid.technology': 'Technology',
+    'CategoryGrid.nature': 'Nature',
+    'CategoryGrid.people': 'People',
+    'CategoryGrid.society': 'Society',
+    'CategoryGrid.economy': 'Economy',
+    'CategoryGrid.lifestyle': 'Lifestyle',
+    'CategoryGrid.history.description':
+      "The complete timeline of Taiwan's history from prehistoric times to the present",
+    'CategoryGrid.geography.description':
+      "Taiwan's natural environment, topographic features, and regional development",
+    'CategoryGrid.culture.description':
+      'The fusion of diverse ethnic cultures and local characteristics',
+    'CategoryGrid.food.description':
+      'Culinary culture from night market snacks to fine dining',
+    'CategoryGrid.art.description':
+      'Creative energy from traditional crafts to contemporary art',
+    'CategoryGrid.music.description':
+      'The soundscape from indigenous music to popular music',
+    'CategoryGrid.technology.description':
+      'Innovation and digital transformation of the tech island',
+    'CategoryGrid.nature.description':
+      'Rich ecosystems and environmental issues',
+    'CategoryGrid.people.description':
+      "Important figures and stories that shaped Taiwan's development",
+    'CategoryGrid.society.description':
+      'In-depth exploration of social changes and contemporary issues',
+    'CategoryGrid.economy.description':
+      'The origins of the economic miracle and transformation challenges',
+    'CategoryGrid.lifestyle.description':
+      'Lifestyle and values of the Taiwanese people',
+    'CategoryGrid.piece': 'piece',
+    'CategoryGrid.pieces': 'pieces',
+    'CategoryGrid.explore': 'explore',
   },
   'zh-TW': {
     'nav.home': '首頁',
@@ -67,5 +106,32 @@ export const ui: Record<Lang, Record<string, string>> = {
     'footer.discuss': '討論區',
     'footer.desc': '開源、AI-friendly 的台灣知識庫',
     'footer.support-us': '支持我們',
+    'CategoryGrid.history': '歷史',
+    'CategoryGrid.geography': '地理',
+    'CategoryGrid.culture': '文化',
+    'CategoryGrid.food': '美食',
+    'CategoryGrid.art': '藝術',
+    'CategoryGrid.music': '音樂',
+    'CategoryGrid.technology': '科技',
+    'CategoryGrid.nature': '自然',
+    'CategoryGrid.people': '人物',
+    'CategoryGrid.society': '社會',
+    'CategoryGrid.economy': '經濟',
+    'CategoryGrid.lifestyle': '生活',
+    'CategoryGrid.history.description': '從史前時代到現代，台灣歷史的完整脈絡',
+    'CategoryGrid.geography.description': '台灣的自然環境、地形特色與區域發展',
+    'CategoryGrid.culture.description': '多元族群文化的融合與在地特色',
+    'CategoryGrid.food.description': '從夜市小吃到精緻料理的美食文化',
+    'CategoryGrid.art.description': '傳統工藝到當代藝術的創作能量',
+    'CategoryGrid.music.description': '從原住民音樂到流行音樂的聲音風景',
+    'CategoryGrid.technology.description': '科技島的創新發展與數位轉型',
+    'CategoryGrid.nature.description': '豐富的生態環境與環保議題',
+    'CategoryGrid.people.description': '影響台灣發展的重要人物與故事',
+    'CategoryGrid.society.description': '社會變遷與當代議題的深度探討',
+    'CategoryGrid.economy.description': '經濟奇蹟的成因與轉型挑戰',
+    'CategoryGrid.lifestyle.description': '台灣人的生活方式與價值觀',
+    'CategoryGrid.piece': '篇',
+    'CategoryGrid.pieces': '篇',
+    'CategoryGrid.explore': '探索',
   },
 } as const;
