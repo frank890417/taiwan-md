@@ -48,6 +48,7 @@ export async function getStaticPaths() {
           readingTime: frontmatter.readingTime || null,
           date: frontmatter.date || null,
           featured: frontmatter.featured || false,
+          tags: frontmatter.tags || [],
           lang: 'zh-TW',
         });
       }
@@ -231,9 +232,51 @@ const otherCategories = Object.keys(categoryConfig)
       <h2 class="articles-heading">📖 延伸閱讀</h2>
       {articles.length > 0 ? (
         <section class="articles-section">
-          <div class="articles-grid">
-            {articles.map((article, index) => (
-              <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
+          <!-- Sort & Filter Toolbar -->
+          <div class="toolbar">
+            <div class="toolbar-left">
+              <div class="sort-group">
+                <span class="toolbar-label">排序</span>
+                <button class="sort-btn active" data-sort="featured" type="button">⭐ 精選</button>
+                <button class="sort-btn" data-sort="title" type="button">文 標題</button>
+                <button class="sort-btn" data-sort="date" type="button">🕐 時間</button>
+                <button class="sort-btn" data-sort="reading" type="button">📖 閱讀時間</button>
+              </div>
+            </div>
+            <div class="toolbar-right">
+              <div class="filter-group">
+                <input 
+                  type="text" 
+                  class="filter-input" 
+                  id="articleFilter"
+                  placeholder="🔍 搜尋文章..."
+                  autocomplete="off"
+                />
+              </div>
+              <div class="tag-filter" id="tagFilter">
+                {(() => {
+                  const allTags = new Set<string>();
+                  articles.forEach((a: any) => a.tags?.forEach((t: string) => allTags.add(t)));
+                  const tagArr = [...allTags].sort();
+                  return tagArr.slice(0, 12).map((tag: string) => (
+                    <button class="tag-btn" data-tag={tag} type="button">{tag}</button>
+                  ));
+                })()}
+              </div>
+            </div>
+          </div>
+
+          <div class="articles-grid" id="articlesGrid">
+            {articles.map((article: any, index: number) => (
+              <article 
+                class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}
+                data-title={article.title}
+                data-date={article.date || ''}
+                data-reading={article.readingTime || 0}
+                data-featured={article.featured ? '1' : '0'}
+                data-tags={JSON.stringify(article.tags || [])}
+                data-lang={article.lang}
+              >
                 <a href={`/${category}/${article.slug}`} class="card-link">
                   <div class="card-image-placeholder" style={`background: ${categoryInfo.gradient};`}>
                     <div class="card-image-icon">{categoryInfo.icon}</div>
@@ -270,6 +313,9 @@ const otherCategories = Object.keys(categoryConfig)
               </article>
             ))}
           </div>
+          <div class="no-results" id="noResults" style="display:none;">
+            <p>找不到符合條件的文章 😢</p>
+          </div>
         </section>
       ) : (
         <section class="coming-soon">
@@ -304,6 +350,92 @@ const otherCategories = Object.keys(categoryConfig)
     </div>
   </main>
 </Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const grid = document.getElementById('articlesGrid');
+    const noResults = document.getElementById('noResults');
+    const filterInput = document.getElementById('articleFilter') as HTMLInputElement;
+    if (!grid) return;
+
+    const cards = Array.from(grid.querySelectorAll('.article-card')) as HTMLElement[];
+    let activeSort = 'featured';
+    let activeTag = '';
+
+    // Sort
+    function sortCards(method: string) {
+      const sorted = [...cards].sort((a, b) => {
+        if (method === 'featured') {
+          const af = a.dataset.featured === '1' ? 1 : 0;
+          const bf = b.dataset.featured === '1' ? 1 : 0;
+          if (af !== bf) return bf - af;
+          return (a.dataset.title || '').localeCompare(b.dataset.title || '');
+        }
+        if (method === 'title') {
+          return (a.dataset.title || '').localeCompare(b.dataset.title || '');
+        }
+        if (method === 'date') {
+          return (b.dataset.date || '').localeCompare(a.dataset.date || '');
+        }
+        if (method === 'reading') {
+          return parseInt(a.dataset.reading || '0') - parseInt(b.dataset.reading || '0');
+        }
+        return 0;
+      });
+      sorted.forEach(card => grid.appendChild(card));
+    }
+
+    // Filter
+    function applyFilters() {
+      const query = filterInput?.value.toLowerCase() || '';
+      let visible = 0;
+      cards.forEach(card => {
+        const title = (card.dataset.title || '').toLowerCase();
+        const tags: string[] = JSON.parse(card.dataset.tags || '[]');
+        const matchQuery = !query || title.includes(query);
+        const matchTag = !activeTag || tags.includes(activeTag);
+        const show = matchQuery && matchTag;
+        card.style.display = show ? '' : 'none';
+        // Reset featured-card class based on visibility
+        if (show) visible++;
+      });
+      if (noResults) {
+        noResults.style.display = visible === 0 ? 'block' : 'none';
+      }
+    }
+
+    // Sort buttons
+    document.querySelectorAll('.sort-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeSort = (btn as HTMLElement).dataset.sort || 'featured';
+        sortCards(activeSort);
+      });
+    });
+
+    // Tag buttons
+    document.querySelectorAll('.tag-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tag = (btn as HTMLElement).dataset.tag || '';
+        if (activeTag === tag) {
+          activeTag = '';
+          btn.classList.remove('active');
+        } else {
+          document.querySelectorAll('.tag-btn').forEach(b => b.classList.remove('active'));
+          activeTag = tag;
+          btn.classList.add('active');
+        }
+        applyFilters();
+      });
+    });
+
+    // Text filter
+    filterInput?.addEventListener('input', () => {
+      applyFilters();
+    });
+  });
+</script>
 
 <style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
   .category-page {
@@ -569,6 +701,135 @@ const otherCategories = Object.keys(categoryConfig)
 
   .articles-section {
     margin-bottom: var(--space-8);
+  }
+
+  /* Toolbar */
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background: #f8fafc;
+    border-radius: 12px;
+    border: 1px solid #e2e8f0;
+  }
+
+  .toolbar-left {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .toolbar-right {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-left: auto;
+  }
+
+  .toolbar-label {
+    font-size: 0.8rem;
+    color: #64748b;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .sort-group {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .sort-btn {
+    padding: 0.35rem 0.65rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 6px;
+    background: white;
+    font-size: 0.78rem;
+    color: #64748b;
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .sort-btn:hover {
+    border-color: var(--categoryColor);
+    color: var(--categoryColor);
+  }
+
+  .sort-btn.active {
+    background: var(--categoryColor);
+    color: white;
+    border-color: var(--categoryColor);
+  }
+
+  .filter-input {
+    padding: 0.4rem 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    width: 180px;
+    outline: none;
+    transition: border-color 0.15s;
+  }
+
+  .filter-input:focus {
+    border-color: var(--categoryColor);
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
+  }
+
+  .tag-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+  }
+
+  .tag-btn {
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 20px;
+    background: white;
+    font-size: 0.72rem;
+    color: #94a3b8;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+
+  .tag-btn:hover {
+    border-color: var(--categoryColor);
+    color: var(--categoryColor);
+  }
+
+  .tag-btn.active {
+    background: var(--categoryColorLight);
+    color: var(--categoryColor);
+    border-color: var(--categoryColor);
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: #94a3b8;
+    font-size: 1.1rem;
+  }
+
+  @media (max-width: 768px) {
+    .toolbar {
+      flex-direction: column;
+    }
+    .toolbar-right {
+      margin-left: 0;
+      width: 100%;
+    }
+    .filter-input {
+      width: 100%;
+    }
+    .sort-group {
+      flex-wrap: wrap;
+    }
   }
 
   .articles-grid {
