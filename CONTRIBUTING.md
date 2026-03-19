@@ -330,6 +330,9 @@ bun run preview
 - **Squoosh**：圖片壓縮優化
 - **Canva**：簡單設計工具
 - **Unsplash**：免費圖片資源
+- **圖片健康檢查**：提交 PR 前請執行 `npm run check-images`，確認所有引用的圖片都存在於 `public/` 目錄中
+- **Wikimedia Commons**：使用 CC 授權圖片時，解析度建議 800–1200px 寬，並在圖片下方標注來源與授權
+- ⚠️ AI 生成的圖片 attribution 連結（`File:...`）不一定正確，提交前請手動驗證連結是否有效
 
 #### 參考資源
 - **台灣百科全書**：基礎資料查證
