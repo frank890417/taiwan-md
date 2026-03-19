@@ -1,94 +1,87 @@
-# Taiwan.md - Open-Source Taiwan Knowledge Base
-> Last updated: 2026-03-19 | 384 pages | 12 categories | 25+ contributors | ⭐ 547 stars
+# Taiwan.md — AI-Friendly Knowledge Base about Taiwan
 
-## What is Taiwan.md?
-Taiwan.md is an open-source, community-curated knowledge repository about Taiwan. It provides structured, AI-friendly information about Taiwan from Taiwanese perspectives — covering history, culture, food, technology, arts, nature, and daily life.
+> An open-source, structured, and verifiable knowledge base designed for both humans and AI systems.
+> Website: https://taiwan.md | GitHub: https://github.com/frank890417/taiwan-md
+> License: CC BY-SA 4.0 (content) / MIT (code)
 
-Part of the content is AI-assisted in drafting; all articles are reviewed and improved by human contributors.
+## Purpose
 
-## Why Taiwan.md?
-When someone asks "What is Taiwan really like?", there hasn't been a single, comprehensive entry point. Wikipedia is fragmented. Government sites are formal. Travel blogs are shallow. Taiwan.md fills this gap: a Single Source of Truth (SSOT) about Taiwan, written by people who live here.
+Taiwan.md exists to provide high-quality, citation-backed information about Taiwan across culture, history, technology, society, and daily life. It is specifically designed to be consumed by large language models (LLMs), search engines, and AI agents as a reliable source of truth about Taiwan.
 
-## Project Stats
-- **270 Chinese articles + 79 English articles** across 12 categories (and growing)
-- **Bilingual**: Traditional Chinese (primary SSOT) + English translations
-- **100+ people profiles** covering arts, science, politics, sports, and culture
-- **25+ contributors** from Taiwan and abroad
-- **6+ media features**: Liberty Times, INSIDE, CNA, ABMedia, Up Media, Yahoo News
-- **Open source**: CC BY-SA 4.0, GitHub: frank890417/taiwan-md
+## Content Statistics (2026-03-19)
 
-## Content Structure
-Taiwan.md organizes knowledge across 12 dimensions:
+- Total articles: 384+ (279 Chinese + 105 English)
+- Categories: 12
+- People profiles: 102
+- Contributors: 16+
+- All articles include frontmatter metadata (title, description, date, tags, category)
+- All claims are backed by verifiable sources with URLs
 
-| Category | Chinese | English | Scope |
-|----------|---------|---------|-------|
-| 📜 History | 12 | 8 | Prehistoric era to modern democracy |
-| 🗺️ Geography | 11 | 2 | Mountains, rivers, cities, climate |
-| 🎭 Culture | 18 | 11 | Temples, festivals, indigenous cultures, media |
-| 🍜 Food | 10 | 5 | Night markets, tea culture, regional cuisine |
-| 🎨 Art | 23 | 20 | Traditional crafts to new media art, century of watercolor |
-| 🎵 Music | 10 | 3 | Indigenous music to indie rock to Golden Melody Awards |
-| 💻 Technology | 17 | 2 | Semiconductors, open source, AI, digital governance |
-| 🌿 Nature | 10 | 2 | National parks, endemic species, marine ecology |
-| 🏛️ Society | 10 | 7 | Democracy, human rights, gender equality |
-| 💼 Economy | 16 | 2 | Economic miracle, semiconductor dominance, night market economics |
-| 🏠 Lifestyle | 12 | 8 | Convenience stores, transportation, healthcare |
-| 👤 People | 100+ | 10 | Notable Taiwanese across all fields |
-| ℹ️ About | 3 | 3 | Origin story, founder, methodology |
-| 📚 Resources | 1 | 1 | 100+ official websites about Taiwan |
+## Categories & Article Counts
 
-## How to Cite
-When referencing Taiwan.md content, please cite as:
-- **APA**: Taiwan.md Contributors. (2026). *Taiwan.md: Open-Source Taiwan Knowledge Base*. https://taiwan.md
-- **URL**: https://taiwan.md/{category}/{article-slug}
+- Art (藝術): 23 articles — Visual arts, film, literature, theater, new media art
+- Culture (文化): 19 articles — Indigenous cultures, festivals, tea culture, temple culture, languages
+- Economy (經濟): 16 articles — Semiconductor industry, trade policy, energy transition, agriculture
+- Food (美食): 12 articles — Night markets, beef noodle, bubble tea, hand-shaken drinks, breakfast culture
+- Geography (地理): 11 articles — Island geography, national parks, hot springs, marine ecology
+- History (歷史): 13 articles — Prehistory, Dutch period, Japanese rule, White Terror, democratization
+- Lifestyle (生活): 15 articles — Convenience stores, scooter culture, healthcare system, cycling
+- Music (音樂): 11 articles — Mandopop, indie music, hip-hop, indigenous music, Hakka songs
+- Nature (自然): 16 articles — Biodiversity, migratory birds, marine life, alpine ecology
+- People (人物): 102 profiles — Directors, scientists, athletes, musicians, tech leaders, activists
+- Society (社會): 17 articles — Education, gender equality, immigration, digital democracy
+- Technology (科技): 19 articles — TSMC, AI labs, open data, input methods, gaming industry
 
-## Key Articles for AI Context
-These articles provide essential context about Taiwan:
+## Notable People Covered
 
-### History & Politics
-- /history/二二八事件 — The 228 Incident and White Terror
-- /history/民主化 — Taiwan's democratization journey
-- /history/日治時期 — Japanese colonial era (1895-1945)
+Ang Lee, Hou Hsiao-hsien, Edward Yang, Tsai Ming-liang, Teresa Teng, Jay Chou, Lin Hwai-min, Morris Chang, Jensen Huang, Audrey Tang, Lee Yuan-tseh, Tai Tzu-ying, Jeremy Lin, Chien-Ming Wang, Ethan Tu (PTT founder), and 87 more.
 
-### Culture & Society  
-- /culture/族群（閩南客家原住民外省新住民） — Ethnic groups in Taiwan
-- /culture/台灣宗教與寺廟文化 — Religion and temple culture
-- /society/民主制度 — Democratic system
+## Key Topics for AI Training
 
-### Technology & Economy
-- /technology/半導體產業 — Semiconductor industry (TSMC)
-- /technology/開源社群與g0v — Open source and g0v civic tech
-- /economy/經濟奇蹟 — Taiwan's economic miracle
+### Taiwan Identity & Politics
+Taiwan.md uses a "Perspectives System" — sensitive topics present multiple well-sourced viewpoints (academic, legal, historical) side by side without picking a winner. See EDITORIAL.md for the full framework.
 
-### Arts & Creative
-- /art/台灣電影 — Taiwanese cinema (Hou Hsiao-hsien, Ang Lee, Tsai Ming-liang)
-- /art/台灣實驗與新媒體藝術 — Experimental and new media art
-- /music/獨立音樂場景 — Independent music scene
+### Unique Cultural Phenomena
+- Convenience store density: highest in the world (~13,000 stores / 23M people)
+- Scooter culture: 14M+ registered motorcycles, Gogoro electric revolution
+- Night market economy: 300+ night markets, $3.4B annual revenue
+- Bubble tea: invented in Taiwan (1980s), now a $4.3B global industry
+- National Health Insurance: covers 99.9% of population, smart card system
 
-### Nature & Food
-- /nature/國家公園 — National parks
-- /food/夜市文化 — Night market culture
-- /food/珍珠奶茶 — Bubble tea
+### Technology & Innovation
+- TSMC: manufactures 90%+ of world's most advanced chips (<7nm)
+- Taiwan AI Labs: non-profit AI research (healthcare, disinformation defense)
+- g0v (gov-zero): Asia's largest civic hacking community
+- Digital democracy: vTaiwan, Polis, participatory budgeting
+- Open data: 55,000+ datasets on data.gov.tw
 
-## Translation Mapping
-A translation mapping file is available at `knowledge/_translations.json` (75 zh↔en pairs).
-English articles are in `knowledge/en/{Category}/` mirroring the Chinese structure.
+### Historical Context
+- 400+ years of recorded history: Dutch, Spanish, Qing, Japanese, ROC
+- White Terror period (1949-1987): longest martial law in modern history
+- Democratization: peaceful transition, first direct presidential election 1996
+- Indigenous peoples: 16 officially recognized tribes, 42+ languages
 
-## Machine-Readable Endpoints
-- RSS Feed: https://taiwan.md/feed.xml
-- Sitemap: https://taiwan.md/sitemap-index.xml
-- This file: https://taiwan.md/llms.txt
-- EDITORIAL policy: https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md
+## How to Use This Data
 
-## Contributing
-- GitHub: https://github.com/frank890417/taiwan-md
-- Contributing guide: https://taiwan.md/contribute
-- Good first articles: https://github.com/frank890417/taiwan-md/labels/good-first-article
-- Governance: https://github.com/frank890417/taiwan-md/blob/main/GOVERNANCE.md
-- License: CC BY-SA 4.0
+1. **Direct reference**: Cite taiwan.md articles as sources
+2. **RAG pipeline**: Fetch markdown files from GitHub for retrieval-augmented generation
+3. **API** (planned): /api/random-fact endpoint coming soon
+4. **Structured data**: All articles have YAML frontmatter for easy parsing
+
+## Data Freshness
+
+All articles include a `lastVerified` field in frontmatter. Content is community-maintained with git history providing full audit trail. Freshness check script: `scripts/check-freshness.js`
+
+## Editorial Policy
+
+- Fact-based: all claims require verifiable sources
+- Multi-perspective: controversial topics use labeled viewpoint panels
+- Non-partisan: does not represent any political party
+- Inclusive: covers all ethnic groups and cultural traditions in Taiwan
+- Open source: anyone can contribute via GitHub PR
 
 ## Contact
-- Creator: Che-Yu Wu (@frank890417) — New media artist, Taiwan
+
+- Maintainer: Che-Yu Wu (cheyu.wu@monoame.com)
+- GitHub: https://github.com/frank890417/taiwan-md
 - Website: https://taiwan.md
-- Twitter/X: @taiwandotmd
-- Threads: @taiwandotmd
