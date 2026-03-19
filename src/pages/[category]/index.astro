@@ -4,10 +4,11 @@ import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
 import { marked } from 'marked';
-import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../utils/categoryConfig';
+import { categoryList,  getCategoryConfig,  getCategoryConfigs,  type CategoryKey } from '../../utils/categoryConfig';
+import { getLangFromUrl, useTranslations } from '../../i18n/utils';
 
 export async function getStaticPaths() {
-  const categories = Object.keys(categoryConfig);
+  const categories = categoryList
   const categoryMapping: Record<string, string> = {
     history: 'History',
     geography: 'Geography',
@@ -70,7 +71,6 @@ export async function getStaticPaths() {
     paths.push({
       params: { category },
       props: {
-        categoryInfo: categoryConfig[category as CategoryKey],
         category,
         hubContent,
         articles: articles.sort((a, b) => {
@@ -85,7 +85,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { categoryInfo, category, hubContent, articles } = Astro.props;
+const {  category, hubContent, articles } = Astro.props;
 
 // Compute unique tags for filter
 const allTagsSet = new Set();
@@ -153,27 +153,33 @@ if (isEconomy && hubHtml) {
   });
 }
 
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const categoryConfig = getCategoryConfig(category, t);
+const categoryConfigs = getCategoryConfigs(t);
+
+
 // 其他分類（跨分類導航用）
-const otherCategories = Object.keys(categoryConfig)
+const otherCategories = categoryList
   .filter(cat => cat !== category)
   .slice(0, 5) // 只顯示5個
   .map(cat => ({
     key: cat,
-    ...categoryConfig[cat as CategoryKey]
+    ...categoryConfigs[cat as CategoryKey]
   }));
 ---
 
 <Layout 
-  title={`${categoryInfo.name} - Taiwan.md`}
-  description={`${categoryInfo.description} - 台灣知識庫`}
+  title={`${categoryConfig.name} - Taiwan.md`}
+  description={`${categoryConfig.description} - 台灣知識庫`}
 >
   <main class="category-page">
     <!-- Hero Banner -->
-    <section class="hero-banner" style={`background: ${categoryInfo.gradient};`}>
+    <section class="hero-banner" style={`background: ${categoryConfig.gradient};`}>
       <div class="hero-content">
-        <div class="hero-icon">{categoryInfo.icon}</div>
-        <h1 class="hero-title">{categoryInfo.name}</h1>
-        <p class="hero-description">{categoryInfo.description}</p>
+        <div class="hero-icon">{categoryConfig.icon}</div>
+        <h1 class="hero-title">{categoryConfig.name}</h1>
+        <p class="hero-description">{categoryConfig.description}</p>
         <div class="hero-stats">
           <span class="stats-badge">📚 {articles.length} 篇文章</span>
         </div>
@@ -186,7 +192,7 @@ const otherCategories = Object.keys(categoryConfig)
       <nav class="breadcrumb">
         <a href="/" class="breadcrumb-link">首頁</a>
         <span class="separator">›</span>
-        <span class="current">{categoryInfo.name}</span>
+        <span class="current">{categoryConfig.name}</span>
       </nav>
 
       <!-- Hub Content (curated overview) -->
@@ -237,7 +243,6 @@ const otherCategories = Object.keys(categoryConfig)
       <h2 class="articles-heading">📖 延伸閱讀</h2>
       {articles.length > 0 ? (
         <section class="articles-section">
-          <!-- Sort & Filter Toolbar -->
           <div class="toolbar">
             <div class="toolbar-left">
               <div class="sort-group">
@@ -278,8 +283,8 @@ const otherCategories = Object.keys(categoryConfig)
                 data-lang={article.lang}
               >
                 <a href={`/${category}/${article.slug}`} class="card-link">
-                  <div class="card-image-placeholder" style={`background: ${categoryInfo.gradient};`}>
-                    <div class="card-image-icon">{categoryInfo.icon}</div>
+                  <div class="card-image-placeholder" style={`background: ${categoryConfig.gradient};`}>
+                    <div class="card-image-icon">{categoryConfig.icon}</div>
                   </div>
                   
                   <div class="card-content">
@@ -320,10 +325,10 @@ const otherCategories = Object.keys(categoryConfig)
       ) : (
         <section class="coming-soon">
           <div class="coming-soon-content">
-            <div class="coming-soon-icon">{categoryInfo.icon}</div>
+            <div class="coming-soon-icon">{categoryConfig.icon}</div>
             <h2>內容準備中</h2>
             <p>這個分類的文章正在努力製作中，敬請期待！</p>
-            <p class="category-desc">未來這裡將會有：{categoryInfo.description}</p>
+            <p class="category-desc">未來這裡將會有：{categoryConfig.description}</p>
             
             <div class="action-buttons">
               <a href="/" class="btn-primary">返回首頁</a>
@@ -382,7 +387,7 @@ const otherCategories = Object.keys(categoryConfig)
         }
         return 0;
       });
-      sorted.forEach(card => grid.appendChild(card));
+      sorted.forEach(card => grid?.appendChild(card));
     }
 
     // Filter
@@ -437,7 +442,7 @@ const otherCategories = Object.keys(categoryConfig)
   });
 </script>
 
-<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
+<style define:vars={{ categoryColor: categoryConfig.color, categoryColorLight: categoryConfig.colorLight }}>
   .category-page {
     min-height: 100vh;
   }

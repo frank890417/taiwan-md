@@ -6,10 +6,12 @@ import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
 import { marked } from 'marked';
 import {
-  categoryConfig,
   getCategoryConfig,
+  getCategoryConfigs,
+  categoryList,
   type CategoryKey,
 } from '../../utils/categoryConfig';
+import { useTranslations } from '../../i18n/utils';
 
 let _gitCache: Map<
   string,
@@ -141,18 +143,22 @@ const {
 } = Astro.props;
 const { category, slug } = Astro.params;
 
-const categoryInfo = getCategoryConfig(category);
-if (!categoryInfo) {
+const t = useTranslations(lang);
+
+const categoryConfigs = getCategoryConfigs(t);
+const categoryConfig = getCategoryConfig(category, t);
+
+if (!categoryConfig) {
   throw new Error(`Unknown category: ${category}`);
 }
 
 // 推薦文章 (簡化版，取同分類的其他文章)
-const otherCategories = Object.keys(categoryConfig)
+const otherCategories = categoryList
   .filter((cat) => cat !== category)
   .slice(0, 3)
   .map((cat) => ({
     key: cat,
-    ...categoryConfig[cat as CategoryKey],
+    ...categoryConfigs[cat as CategoryKey],
   }));
 
 const categoryMapping: Record<string, string> = {
@@ -272,7 +278,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     new Date().toISOString()}
   content={content}
   tags={frontmatter.tags}
-  category={categoryInfo.name}
+  category={categoryConfig.name}
 >
   <!-- Reading Progress Bar -->
   <div class="reading-progress" id="reading-progress"></div>
@@ -281,14 +287,14 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     <!-- Article Header Banner -->
     <section
       class="article-header-banner"
-      style={`background: ${categoryInfo.gradient};`}
+      style={`background: ${categoryConfig.gradient};`}
     >
       <div class="header-content">
         <nav class="breadcrumb-header">
           <a href="/" class="breadcrumb-link">首頁</a>
           <span class="separator">›</span>
           <a href={`/${category}`} class="breadcrumb-link"
-            >{categoryInfo.name}</a
+            >{categoryConfig.name}</a
           >
           <span class="separator">›</span>
           <span class="current">{title}</span>
@@ -307,10 +313,10 @@ const processedContent = marked.parse(resolvedContent, { renderer });
           <div class="meta-group">
             <div
               class="category-badge"
-              style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color}; border-color: ${categoryInfo.color};`}
+              style={`background: ${categoryConfig.colorLight}; color: ${categoryConfig.color}; border-color: ${categoryConfig.color};`}
             >
-              <span class="category-icon">{categoryInfo.icon}</span>
-              <span class="category-name">{categoryInfo.name}</span>
+              <span class="category-icon">{categoryConfig.icon}</span>
+              <span class="category-name">{categoryConfig.name}</span>
             </div>
 
             {
@@ -338,7 +344,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
                 <div class="meta-item">
                   <span
                     class="status-tag"
-                    style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                    style={`background: ${categoryConfig.colorLight}; color: ${categoryConfig.color};`}
                   >
                     {frontmatter.status}
                   </span>
@@ -422,7 +428,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
                   {frontmatter.tags.map((tag: string) => (
                     <span
                       class="tag"
-                      style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                      style={`background: ${categoryConfig.colorLight}; color: ${categoryConfig.color};`}
                     >
                       {tag}
                     </span>
@@ -483,12 +489,12 @@ const processedContent = marked.parse(resolvedContent, { renderer });
                   <a
                     href={`/${article.category}/${article.slug}`}
                     class="related-card"
-                    style={`border-color: ${categoryInfo.color};`}
+                    style={`border-color: ${categoryConfig.color};`}
                   >
                     <div class="related-card-content">
                       <h4
                         class="related-card-title"
-                        style={`color: ${categoryInfo.color};`}
+                        style={`color: ${categoryConfig.color};`}
                       >
                         {article.title}
                       </h4>
@@ -498,7 +504,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
                     </div>
                     <div
                       class="related-card-arrow"
-                      style={`color: ${categoryInfo.color};`}
+                      style={`color: ${categoryConfig.color};`}
                     >
                       →
                     </div>
@@ -568,10 +574,10 @@ const processedContent = marked.parse(resolvedContent, { renderer });
                       <h4 class="recommended-title">{article.title}</h4>
                       <div
                         class="recommended-category"
-                        style={`background: ${categoryInfo.colorLight}; color: ${categoryInfo.color};`}
+                        style={`background: ${categoryConfig.colorLight}; color: ${categoryConfig.color};`}
                       >
-                        <span class="category-icon">{categoryInfo.icon}</span>
-                        <span>{categoryInfo.name}</span>
+                        <span class="category-icon">{categoryConfig.icon}</span>
+                        <span>{categoryConfig.name}</span>
                       </div>
                     </a>
                   ))}
@@ -657,9 +663,9 @@ const processedContent = marked.parse(resolvedContent, { renderer });
         <a
           href={`/${category}`}
           class="nav-btn back-btn"
-          style={`background: ${categoryInfo.color};`}
+          style={`background: ${categoryConfig.color};`}
         >
-          ← 返回 {categoryInfo.name}
+          ← 返回 {categoryConfig.name}
         </a>
         <a href="/" class="nav-btn home-btn"> 返回首頁 </a>
       </div>
@@ -743,8 +749,8 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
 <style
   define:vars={{
-    categoryColor: categoryInfo.color,
-    categoryColorLight: categoryInfo.colorLight,
+    categoryColor: categoryConfig.color,
+    categoryColorLight: categoryConfig.colorLight,
   }}
 >
   /* Reading Progress Bar */
