@@ -11,6 +11,7 @@
     "preview": "astro preview",
     "sync": "bash scripts/sync.sh",
     "sync:build": "bash scripts/sync.sh && astro build",
+    "check-images": "node scripts/check-images.mjs",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
