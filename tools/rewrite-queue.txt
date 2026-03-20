@@ -1,6 +1,3 @@
-history/台灣選舉與政黨政治.md
-geography/城市特色與區域文化.md
-geography/台灣都市發展與城鄉差距.md
 geography/台灣生態多樣性熱點.md
 geography/台灣水庫與水資源管理.md
 geography/台灣交通運輸網絡.md
