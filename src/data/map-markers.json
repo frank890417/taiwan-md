@@ -1,0 +1,21 @@
+[
+  { "title": "士林夜市",       "lng": 121.524, "lat": 25.088, "region": "north",   "category": "food",       "link": "/food/夜市文化",                             "desc": "台灣夜市文化的代表性據點" },
+  { "title": "陽明山國家公園", "lng": 121.549, "lat": 25.158, "region": "north",   "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣第一個國家公園" },
+  { "title": "台北101",        "lng": 121.564, "lat": 25.034, "region": "north",   "category": "economy",    "link": "/economy/經濟奇蹟",                          "desc": "台灣經濟奇蹟的象徵" },
+  { "title": "中正紀念堂",     "lng": 121.521, "lat": 25.036, "region": "north",   "category": "history",    "link": "/history/戒嚴時期",                          "desc": "見證台灣戒嚴時期的歷史建築" },
+  { "title": "西門町",         "lng": 121.508, "lat": 25.042, "region": "north",   "category": "lifestyle",  "link": "/lifestyle/便利商店文化",                    "desc": "台灣便利商店文化發源地" },
+  { "title": "新竹科學園區",   "lng": 120.993, "lat": 24.784, "region": "north",   "category": "technology", "link": "/technology/半導體產業",                     "desc": "台灣半導體產業重鎮" },
+  { "title": "日月潭",         "lng": 120.920, "lat": 23.883, "region": "central", "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣最美麗的高山湖泊" },
+  { "title": "鹿港",           "lng": 120.437, "lat": 24.055, "region": "central", "category": "culture",    "link": "/culture/廟宇文化與民間信仰",                 "desc": "台灣廟宇文化的重要據點" },
+  { "title": "台中國家歌劇院", "lng": 120.646, "lat": 24.163, "region": "central", "category": "art",        "link": "/art/當代藝術",                              "desc": "台灣當代藝術的重要場域" },
+  { "title": "台南府城",       "lng": 120.201, "lat": 22.997, "region": "south",   "category": "history",    "link": "/history/荷西明鄭時期",                      "desc": "台灣歷史文化古都" },
+  { "title": "高雄港",         "lng": 120.285, "lat": 22.615, "region": "south",   "category": "economy",    "link": "/economy/經濟奇蹟",                          "desc": "台灣重要的海港經濟據點" },
+  { "title": "墾丁國家公園",   "lng": 120.801, "lat": 21.950, "region": "south",   "category": "nature",     "link": "/nature/國家公園",                           "desc": "台灣最南端的國家公園" },
+  { "title": "六堆客家文化",   "lng": 120.588, "lat": 22.638, "region": "south",   "category": "culture",    "link": "/culture/族群（閩南客家原住民外省新住民）",  "desc": "南台灣客家文化保存區" },
+  { "title": "太魯閣國家公園", "lng": 121.621, "lat": 24.157, "region": "east",    "category": "nature",     "link": "/nature/國家公園",                           "desc": "世界級的峽谷地景" },
+  { "title": "花東縱谷",       "lng": 121.354, "lat": 23.483, "region": "east",    "category": "geography",  "link": "/geography/台灣五大地形與地理結構",           "desc": "台灣重要的地理景觀" },
+  { "title": "蘭嶼",           "lng": 121.549, "lat": 22.033, "region": "islands", "category": "culture",    "link": "/culture/原住民族文化",                      "desc": "原住民族文化保存地" },
+  { "title": "池上",           "lng": 121.224, "lat": 23.100, "region": "east",    "category": "food",       "link": "/food/台灣茶文化",                           "desc": "台灣優質稻米產區" },
+  { "title": "澎湖",           "lng": 119.567, "lat": 23.571, "region": "islands", "category": "geography",  "link": "/geography/離島與海洋文化",                  "desc": "台灣海洋文化的代表" },
+  { "title": "金門",           "lng": 118.317, "lat": 24.449, "region": "islands", "category": "history",    "link": "/history/戒嚴時期",                          "desc": "見證兩岸對峙的歷史" }
+]
