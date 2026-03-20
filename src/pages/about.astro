@@ -261,10 +261,15 @@ import ProticoScript from '../components/ProticoScript.astro';
       </div>
     </section>
 
-    <!-- Section 3: 創辦人 -->
-    <section class="founder-section">
+    <!-- Section 3: 創辦人與協作團隊 -->
+    <section class="team-section">
       <div class="section-inner">
-        <h2 class="section-title">創辦人</h2>
+        <h2 class="section-title">創辦人與協作團隊</h2>
+
+        <blockquote class="founder-quote standalone-quote">
+          「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
+          <cite>— 哲宇</cite>
+        </blockquote>
 
         <div class="founder-card">
           <div class="founder-photo">
@@ -324,23 +329,7 @@ import ProticoScript from '../components/ProticoScript.astro';
                 </li>
               </ul>
             </div>
-
-            <div class="founder-teaching">
-              <h4>教學影響力</h4>
-              <p>
-                Hahow 線上課程超過 <strong>22,000</strong> 名學生 ・ 前陽明交大兼任講師
-                ・ TouchDesigner Workshop 講師
-              </p>
-            </div>
           </div>
-        </div>
-
-        <div class="founder-motivation">
-          <h3>為什麼做 Taiwan.md？</h3>
-          <blockquote class="founder-quote">
-            「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
-            <cite>— 哲宇</cite>
-          </blockquote>
         </div>
 
         <div class="founder-links-inline">
@@ -365,16 +354,6 @@ import ProticoScript from '../components/ProticoScript.astro';
             <span class="link-text">@cheyuwu345</span>
           </a>
         </div>
-      </div>
-    </section>
-
-    <!-- Section 4: 協作團隊 -->
-    <section class="team-section">
-      <div class="section-inner">
-        <h2 class="section-title">協作團隊</h2>
-        <p class="section-subtitle">
-          Taiwan.md 的背後，由創新的協作夥伴共同支撐
-        </p>
 
         <div class="team-philosophy">
           <h3>協作哲學</h3>
@@ -1214,6 +1193,17 @@ import ProticoScript from '../components/ProticoScript.astro';
     color: #1f2937;
     line-height: 1.4;
     margin: 0;
+  }
+
+  /* Standalone Quote */
+  .standalone-quote {
+    max-width: 700px;
+    margin: 0 auto 3rem;
+    text-align: center;
+    border-left: none;
+    padding: 2rem;
+    background: rgba(45, 80, 22, 0.05);
+    border-radius: 12px;
   }
 
   /* ===== Section 3: 創辦人 ===== */

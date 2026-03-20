@@ -11,311 +11,274 @@
     "path": "en/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
   },
   {
-    "title": "Hakka Culture and Language",
-    "description": "Hard-neck Spirit and Sky-Mending Day: Cultural Inheritance and Modern Revitalization of Taiwan's Hakka People",
+    "title": "Pai Hsien-yung (白先勇)",
+    "description": "Literary master, author of 'Taipei People,' and champion of Kunqu opera revival in modern Chinese literature",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/pai-hsien-yung-literary-master",
+    "readingTime": 30,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/People/pai-hsien-yung-literary-master.md"
+  },
+  {
+    "title": "Li Zongsheng (Jonathan Lee)",
+    "description": "Taiwan’s master songwriter and producer whose songs turned life’s joys and losses into a shared language",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/li-zongsheng",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/li-zongsheng.md"
+  },
+  {
+    "title": "Origin Story — The Birth of Taiwan.md",
+    "description": "From a street walk inspiration to curating a complete portal for Taiwan to the world",
     "category": "en",
     "tags": [
-      "Hakka",
-      "Language",
-      "Culture",
-      "Tradition",
-      "Ethnic Groups"
+      "about",
+      "origin",
+      "taiwan-md"
     ],
-    "url": "https://taiwan.md/en/Culture/hakka-culture-and-language",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Culture/hakka-culture-and-language.md"
-  },
-  {
-    "title": "離島與海洋文化",
-    "description": "從澎湖玄武岩到蘭嶼飛魚祭，台灣離島如何孕育獨特的海洋文明",
-    "category": "Geography",
-    "tags": [
-      "離島",
-      "海洋文化",
-      "澎湖",
-      "金門",
-      "馬祖",
-      "綠島",
-      "蘭嶼",
-      "小琉球"
-    ],
-    "url": "https://taiwan.md/Geography/%E9%9B%A2%E5%B3%B6%E8%88%87%E6%B5%B7%E6%B4%8B%E6%96%87%E5%8C%96",
-    "readingTime": 17,
+    "url": "https://taiwan.md/en/About/origin-story",
+    "readingTime": 10,
     "featured": true,
-    "date": "2026-03-18",
-    "path": "Geography/離島與海洋文化.md"
+    "date": "2026-03-17",
+    "path": "en/About/origin-story.md"
   },
   {
-    "title": "台灣交通運輸網絡",
-    "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網絡",
-    "category": "Geography",
+    "title": "Chen Wei-yin: Taiwan's MLB Pioneer",
+    "description": "Taiwan's successful Major League Baseball pitcher who brought pride to Taiwan on international baseball's biggest stage",
+    "category": "en",
     "tags": [
-      "交通運輸",
-      "高鐵",
-      "捷運",
-      "公路",
-      "航空",
-      "港口"
+      "baseball",
+      "MLB",
+      "sports",
+      "athlete",
+      "pitcher"
     ],
-    "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E9%81%8B%E8%BC%B8%E7%B6%B2%E7%B5%A1",
-    "readingTime": 32,
+    "url": "https://taiwan.md/en/People/chen-wei-yin-mlb-pitcher",
+    "readingTime": 37,
     "featured": false,
     "date": "2026-03-20",
-    "path": "Geography/台灣交通運輸網絡.md"
+    "path": "en/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
-    "title": "Stan Shih (施振榮)",
-    "description": "Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation",
+    "title": "FinTech Development in Taiwan",
+    "description": "From regulatory sandboxes to digital banks: The evolution and innovation of Taiwan's FinTech ecosystem.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/taiwan-fintech-development",
+    "readingTime": 57,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/taiwan-fintech-development.md"
+  },
+  {
+    "title": "Dutch, Spanish and Koxinga Era",
+    "description": "Taiwan's first systematic colonial rule, from the Dutch establishment of Fort Zeelandia to Koxinga's founding of Taiwan, laying the foundation for Han Chinese settlement and political institutions",
     "category": "en",
     "tags": [
-      "entrepreneur",
-      "technology",
-      "management",
-      "Acer",
-      "Smiling Curve"
+      "History",
+      "Dutch East India Company",
+      "Kingdom of Tungning",
+      "Koxinga"
     ],
-    "url": "https://taiwan.md/en/People/stan-shih",
+    "url": "https://taiwan.md/en/History/dutch-spanish-and-koxinga-era",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "en/History/dutch-spanish-and-koxinga-era.md"
+  },
+  {
+    "title": "Contemporary Literature Development in Taiwan",
+    "description": "Exploring the evolution of Taiwanese literature from post-war to the present, spanning Modernism, Nativist Literature, and multicultural narratives.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/contemporary-taiwanese-literature-development",
+    "readingTime": 34,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Art/contemporary-taiwanese-literature-development.md"
+  },
+  {
+    "title": "Media and Press Freedom in Taiwan",
+    "description": "From party‑state control to a noisy digital marketplace: how Taiwan’s press freedom emerged, and what it’s now up against",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Society/media-and-press-freedom-in-taiwan",
+    "readingTime": 33,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
+    "title": "Local Street Food Map of Taiwan",
+    "description": "From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island.",
+    "category": "en",
+    "tags": [
+      "local delicacies",
+      "indigenous cuisine",
+      "regional specialties",
+      "Taiwan food map",
+      "folk culture"
+    ],
+    "url": "https://taiwan.md/en/Food/local-street-food-map-of-taiwan",
+    "readingTime": 73,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "en/Food/local-street-food-map-of-taiwan.md"
+  },
+  {
+    "title": "Religion and Folk Beliefs",
+    "description": "",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Lifestyle/religion-and-folk-beliefs",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "en/Lifestyle/religion-and-folk-beliefs.md"
+  },
+  {
+    "title": "Sylvia Chang (張艾嘉)",
+    "description": "A cross-disciplinary icon of Chinese-language cinema—actor, director, screenwriter, and singer for over five decades",
+    "category": "en",
+    "tags": [
+      "film",
+      "director",
+      "actor",
+      "singer",
+      "screenwriter"
+    ],
+    "url": "https://taiwan.md/en/People/sylvia-chang",
     "readingTime": 24,
     "featured": false,
     "date": "2026-03-19",
-    "path": "en/People/stan-shih.md"
+    "path": "en/People/sylvia-chang.md"
   },
   {
-    "title": "客家飲食文化",
-    "description": "客家人豐富多元的飲食文化，從擂茶的醇厚香味到野薑花粽的山林風情，展現客家族群勤儉持家與就地取材的生活智慧",
-    "category": "Food",
-    "tags": [
-      "Food",
-      "客家",
-      "擂茶",
-      "野薑花粽",
-      "傳統美食",
-      "族群文化"
-    ],
-    "url": "https://taiwan.md/Food/%E5%AE%A2%E5%AE%B6%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 14,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "Food/客家飲食文化.md"
-  },
-  {
-    "title": "Gwei Lun-Mei",
-    "description": "From 'Secret' to international film festivals, a low-key method actress who represents Taiwan's new generation of cinema talent",
+    "title": "Du Congming: Founder of Modern Medicine in Taiwan",
+    "description": "Taiwan's first medical doctor and father of modern medicine in Taiwan",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/People/gwei-lun-mei-versatile-taiwanese-actress",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/gwei-lun-mei-versatile-taiwanese-actress.md"
-  },
-  {
-    "title": "Indigenous Music Traditions of Taiwan: Songs as Memory, Ritual, and Living History",
-    "description": "A cultural map of Taiwan’s 16 Indigenous peoples through song—polyphonic prayer, harvest dance, mouth harps, and the living archives of language and ritual.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Music/indigenous-music-traditions",
-    "readingTime": 29,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Music/indigenous-music-traditions.md"
-  },
-  {
-    "title": "地形與地質",
-    "description": "台灣島複雜多樣的地形地貌，板塊運動造就的五大山脈與豐富地質景觀",
-    "category": "Geography",
-    "tags": [
-      "地理",
-      "地質",
-      "山脈",
-      "板塊運動",
-      "地震",
-      "溫泉"
-    ],
-    "url": "https://taiwan.md/Geography/%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E8%B3%AA",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "Geography/地形與地質.md"
-  },
-  {
-    "title": "Huang Chun-ming: Master of Taiwanese Literary Humanism",
-    "description": "Author of \"The Sandwich Man\" and \"The Days of Looking at the Sea,\" representative writer of Yilan nativist literature and chronicler of ordinary people\\'s lives",
-    "category": "en",
-    "tags": [
-      "people",
-      "Huang Chun-ming",
-      "The Sandwich Man",
-      "The Days of Looking at the Sea",
-      "nativist literature",
-      "Yilan",
-      "ordinary people"
-    ],
-    "url": "https://taiwan.md/en/People/huang-chun-ming-taiwanese-literary-master",
-    "readingTime": 45,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/huang-chun-ming-taiwanese-literary-master.md"
-  },
-  {
-    "title": "Emerging Religions and Spiritual Culture in Taiwan",
-    "description": "Exploring the rise and development of Taiwan's post-war new religious movements, including the profound social and cultural impact of the Buddhist 'Four Great Mountains' and Yiguandao religious groups",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/emerging-religions-and-spiritual-culture",
-    "readingTime": 90,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/emerging-religions-and-spiritual-culture.md"
-  },
-  {
-    "title": "台灣米其林與精緻餐飲",
-    "description": "2018年，米其林指南的紅色封面首次印上「TAIPEI」字樣，標誌著台灣餐飲業正式進入國際評價體系。從街邊小攤到星級餐廳，從庶民美食到精緻料理，台灣餐飲文化在國際舞台上展現出既傳統又創新的迷人風貌。",
-    "category": "Food",
-    "tags": [
-      "米其林",
-      "精緻餐飲",
-      "星級餐廳",
-      "台灣美食",
-      "國際化"
-    ],
-    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "Food/台灣米其林與精緻餐飲.md"
-  },
-  {
-    "title": "Open Source Community and g0v",
-    "description": "Taiwan's thriving open source software community and g0v gov-zero, promoting innovative practices in civic technology and open government",
-    "category": "en",
-    "tags": [
-      "Technology",
-      "Open Source Community",
-      "g0v",
-      "Civic Technology"
-    ],
-    "url": "https://taiwan.md/en/Technology/open-source-and-g0v",
+    "url": "https://taiwan.md/en/People/du-congming-founder-of-modern-medicine-in-taiwan",
     "readingTime": 30,
     "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Technology/open-source-and-g0v.md"
+    "date": "2026-03-19",
+    "path": "en/People/du-congming-founder-of-modern-medicine-in-taiwan.md"
   },
   {
-    "title": "當代台灣文學",
-    "description": "",
-    "category": "Art",
+    "title": "科技園區發展",
+    "description": "從竹科到南科，探討台灣科學園區的發展歷程與三大園區的獨特定位",
+    "category": "Technology",
     "tags": [
-      "文學",
-      "當代",
-      "多元"
+      "科學園區",
+      "竹科",
+      "中科",
+      "南科",
+      "高科技產業",
+      "產業聚落"
     ],
-    "url": "https://taiwan.md/Art/%E7%95%B6%E4%BB%A3%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Art/當代台灣文學.md"
-  },
-  {
-    "title": "日治時期台灣文學",
-    "description": "",
-    "category": "Art",
-    "tags": [
-      "文學",
-      "日治時期",
-      "殖民文學"
-    ],
-    "url": "https://taiwan.md/Art/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E6%96%87%E5%AD%B8",
-    "readingTime": 17,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Art/日治時期文學.md"
-  },
-  {
-    "title": "日治時期",
-    "description": "1895-1945年日本統治台灣50年，帶來全面現代化建設與制度化管理，同時實施同化政策，深刻影響台灣社會發展",
-    "category": "History",
-    "tags": [
-      "History",
-      "日本統治",
-      "現代化",
-      "皇民化運動"
-    ],
-    "url": "https://taiwan.md/History/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F",
-    "readingTime": 7,
+    "url": "https://taiwan.md/Technology/%E7%A7%91%E6%8A%80%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
+    "readingTime": 11,
     "featured": true,
-    "date": "2026-03-17",
-    "path": "History/日治時期.md"
+    "date": "2026-03-18",
+    "path": "Technology/科技園區發展.md"
   },
   {
-    "title": "豬哥亮",
-    "description": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
-    "category": "People",
-    "tags": [
-      "豬哥亮",
-      "秀場",
-      "喜劇",
-      "綜藝",
-      "台語"
-    ],
-    "url": "https://taiwan.md/People/%E8%B1%AC%E5%93%A5%E4%BA%AE",
-    "readingTime": 11,
-    "featured": false,
+    "title": "Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution",
+    "description": "When keyboards worldwide look identical, how do different civilizations fit their scripts into 26 English letters? From Taiwan's Zhuyin to Korea's Dubeolsik, input methods are a silent cultural preservation battle",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Technology/east-asian-input-methods",
+    "readingTime": 61,
+    "featured": true,
     "date": "2026-03-19",
-    "path": "People/豬哥亮.md"
+    "path": "en/Technology/east-asian-input-methods.md"
   },
   {
-    "title": "台灣水彩畫的百年流變",
-    "description": "從日治時期石川欽一郎的啟蒙，到當代簡忠威揚名國際，台灣水彩畫走過百年歷程，成為亞洲最活躍的水彩創作重鎮。",
-    "category": "Art",
-    "tags": [
-      "Art",
-      "watercolor",
-      "painting",
-      "水彩",
-      "美術史"
-    ],
-    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%B0%B4%E5%BD%A9%E7%95%AB%E7%9A%84%E7%99%BE%E5%B9%B4%E6%B5%81%E8%AE%8A",
-    "readingTime": 11,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "Art/台灣水彩畫的百年流變.md"
-  },
-  {
-    "title": "台灣文化創意園區發展",
-    "description": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
-    "category": "Culture",
-    "tags": [
-      "文創園區",
-      "舊建築活化",
-      "創意產業",
-      "都市更新",
-      "文化保存"
-    ],
-    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%96%87%E5%8C%96%E5%89%B5%E6%84%8F%E5%9C%92%E5%8D%80%E7%99%BC%E5%B1%95",
-    "readingTime": 18,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "Culture/台灣文化創意園區發展.md"
-  },
-  {
-    "title": "Jeremy Lin",
-    "description": "From Harvard to an NBA championship, the Taiwanese‑American guard who sparked Linsanity",
+    "title": "Taiwan Bread and Baking",
+    "description": "From Wu Pao-Chun’s world championship to 85°C’s global expansion, Taiwan’s baking scene blends local flavors with international technique.",
     "category": "en",
     "tags": [
-      "人物",
-      "籃球",
-      "台裔美國人",
-      "NBA",
-      "林來瘋",
-      "哈佛大學"
+      "bread",
+      "baking",
+      "Wu Pao-Chun",
+      "Taiwan-style bread",
+      "85C"
     ],
-    "url": "https://taiwan.md/en/People/jeremy-lin",
-    "readingTime": 23,
+    "url": "https://taiwan.md/en/Food/taiwan-bread-and-baking",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/Food/taiwan-bread-and-baking.md"
+  },
+  {
+    "title": "台灣太空產業發展：從福衛計畫到商業太空時代",
+    "description": "台灣太空產業從早期福衛衛星發展，到近年福衛八號量產化，以及立方衛星計畫推動商業太空供應鏈的發展歷程",
+    "category": "Technology",
+    "tags": [
+      "太空產業",
+      "衛星",
+      "TASA",
+      "福衛",
+      "太空科技",
+      "商業太空"
+    ],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E5%A4%AA%E7%A9%BA%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "readingTime": 20,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "Technology/台灣太空產業發展.md"
+  },
+  {
+    "title": "Taiwan Marine Ecology and Coral Reef Conservation",
+    "description": "Taiwan, surrounded by ocean waters, possesses rich marine ecosystems. From coral bleaching crises to cetacean conservation, exploring the protection effectiveness and future challenges of marine national parks",
+    "category": "en",
+    "tags": [
+      "marine ecology",
+      "coral reef conservation",
+      "cetacean conservation",
+      "marine national parks",
+      "marine protected areas",
+      "biodiversity"
+    ],
+    "url": "https://taiwan.md/en/Nature/taiwan-marine-ecology-coral-reef-conservation",
+    "readingTime": 72,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Nature/taiwan-marine-ecology-coral-reef-conservation.md"
+  },
+  {
+    "title": "白先勇",
+    "description": "《台北人》作者，現代文學大師與崑曲復興推手",
+    "category": "People",
+    "tags": [
+      "人物",
+      "白先勇",
+      "現代文學",
+      "台北人",
+      "孽子",
+      "崑曲",
+      "文學大師"
+    ],
+    "url": "https://taiwan.md/People/%E7%99%BD%E5%85%88%E5%8B%87",
+    "readingTime": 7,
     "featured": true,
     "date": "2026-03-19",
-    "path": "en/People/jeremy-lin.md"
+    "path": "People/白先勇.md"
+  },
+  {
+    "title": "Chuang Chih-yuan",
+    "description": "Table tennis legend, four-time Olympian, the solitary warrior who conquered European professional leagues",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/chuang-chih-yuan-table-tennis-legend",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/People/chuang-chih-yuan-table-tennis-legend.md"
   }
 ]
