@@ -30,7 +30,7 @@ Taiwan’s electronic music scene began with underground warehouse raves in the 
 
 ## Why It Matters
 
-Taiwan’s electronic scene reveals how global youth culture localizes itself. It started as a foreign import, then transformed into a uniquely Taiwanese ecosystem with its own aesthetics, ethics, and underground economy. It also reflects how a small island negotiates global influence while protecting local voice.
+Taiwan’s electronic scene reveals how global youth culture localizes itself. It started as a foreign import, then transformed into a uniquely Taiwanese ecosystem with its own aesthetics, ethics, and underground economy. It also reflects how Taiwan negotiates global influence while protecting local voice.
 
 ---
 

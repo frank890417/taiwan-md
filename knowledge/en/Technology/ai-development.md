@@ -376,7 +376,7 @@ From the 2016 AlphaGo shock to the 2024 popularity of generative AI, Taiwan buil
 
 The success of Taiwan's AI development lies not only in technological breakthroughs or industrial achievements, but more importantly in embodying the **wisdom and courage of a small nation facing major trends**. Through precise positioning, leveraging advantages, and open cooperation, Taiwan proved that even small nations can occupy important positions in AI, a field concerning humanity's future.
 
-In the future, when we look back at this AI revolution of the early 21st century, Taiwan's story will undoubtedly be an indispensable chapter: how a small island built AI-era competitive advantages based on its "Guardian Mountain" semiconductors; how a democratic society found balance between technological progress and humanistic values; how a group of brave people transformed AI dreams from science fiction into real forces changing the world.
+In the future, when we look back at this AI revolution of the early 21st century, Taiwan's story will undoubtedly be an indispensable chapter: how Taiwan built AI-era competitive advantages based on its "Guardian Mountain" semiconductors; how a democratic society found balance between technological progress and humanistic values; how a group of brave people transformed AI dreams from science fiction into real forces changing the world.
 
 This is AI Taiwan: Small nation, big dreams, unlimited possibilities.
 

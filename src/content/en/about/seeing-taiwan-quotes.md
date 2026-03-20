@@ -210,7 +210,7 @@ featured: true
 
 ## Conclusion: The Thousand Faces of the Island
 
-These voices from different eras and different ethnic groups weave together Taiwan's complex face. From indigenous creation myths to outsiders' amazement, from literati's poetic descriptions to contemporary environmental reflections, each perspective captures some aspect of this island.
+These voices from different eras and different ethnic groups weave together Taiwan's complex face. From indigenous creation myths to outsiders' amazement, from literati's poetic descriptions to contemporary environmental reflections, each perspective captures some aspect of Taiwan.
 
 Taiwan, whether called Formosa, Takasago, or Taiwan, has always been an impressive place. Its beauty lies not only in scenery, but also in the coexistence and dialogue of diverse cultures, in the footprints and memories left by different ethnic groups on this land.
 

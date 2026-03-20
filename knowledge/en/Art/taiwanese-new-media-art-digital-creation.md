@@ -139,7 +139,7 @@ This small island answered an important era question with her creative practice:
 
 In the global tide of technology, Taiwan's new media art, with its unique "warm technology" concept, provides the world with a new possibility: technology can be poetic, digital can be warm, and artificial intelligence can be loving. This is perhaps the greatest gift of Taiwan's new media art to the world—it reminds us that no matter how technology develops, the core of art is always about love, about connection, about finding eternity in change.
 
-On this small island in the Pacific, new media art is not just an art form but a way of life, a worldview, and a gentle imagination of the future. While the world is anxious about whether AI will replace humans, Taiwanese artists are already telling us the answer with their works: the true future is not humans being replaced by machines, but humans and machines creating a better world together.
+In Taiwan, new media art is not just an art form but a way of life, a worldview, and a gentle imagination of the future. While the world is anxious about whether AI will replace humans, Taiwanese artists are already telling us the answer with their works: the true future is not humans being replaced by machines, but humans and machines creating a better world together.
 
 ---
 

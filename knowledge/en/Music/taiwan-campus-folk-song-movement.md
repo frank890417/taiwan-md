@@ -111,7 +111,7 @@ Milestone concerts like **“Folk 40”** and **“Folk 50”** revive this repe
 
 ## Conclusion: Music as Cultural Self‑Definition
 
-The Campus Folk Song Movement lasted barely a decade, but it reshaped Taiwan’s musical landscape. It proved that sound can be an act of self‑definition—and that a small island can write its own soundtrack.
+The Campus Folk Song Movement lasted barely a decade, but it reshaped Taiwan’s musical landscape. It proved that sound can be an act of self‑definition—and that a country can write its own soundtrack.
 
 The shattered Coca‑Cola bottle at Tamkang still echoes today. It asks every Taiwanese artist the same question: **What is our voice, and how will we sing it?**
 

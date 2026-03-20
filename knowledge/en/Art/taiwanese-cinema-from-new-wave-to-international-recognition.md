@@ -95,4 +95,4 @@ More importantly, Taiwanese cinema provides a unique cultural perspective. In th
 
 Taiwanese cinema's success is not only commercial but cultural. It proved that maintaining cultural characteristics is not only possible but necessary in the globalization era. These films not only entertain audiences but enrich human cultural heritage, providing new perspectives for understanding this complex world.
 
-The development trajectory of Taiwanese cinema from new wave to international stage witnesses how a small island left its mark in world cinema history. This is a story about dreams and persistence, and proof of how art can transcend geographical limitations to touch hearts.
+The development trajectory of Taiwanese cinema from new wave to international stage witnesses how Taiwan left its mark in world cinema history. This is a story about dreams and persistence, and proof of how art can transcend geographical limitations to touch hearts.

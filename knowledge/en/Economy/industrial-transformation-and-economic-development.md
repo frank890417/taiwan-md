@@ -22,7 +22,7 @@ lastVerified: 2026-03-19
 
 ## 30-Second Overview
 
-Since the 1960s, Taiwan has undergone four phases of industrial transformation: Import Substitution (1950s-1960s) → Export Orientation (1960s-1980s) → Industrial Upgrading (1980s-2000s) → Knowledge Economy (2000s-Present). Over 70 years, the island transformed from an impoverished agricultural society to a global technology hub, with per capita GDP soaring from US$186 to US$33,000, creating the "Taiwan Miracle" and ranking among the Asian Tigers. The rise of the semiconductor industry established Taiwan as a critical node in global technology supply chains.
+Since the 1960s, Taiwan has undergone four phases of industrial transformation: Import Substitution (1950s-1960s) → Export Orientation (1960s-1980s) → Industrial Upgrading (1980s-2000s) → Knowledge Economy (2000s-Present). Over 70 years, Taiwan transformed from an impoverished agricultural society to a global technology hub, with per capita GDP soaring from US$186 to US$33,000, creating the "Taiwan Miracle" and ranking among the Asian Tigers. The rise of the semiconductor industry established Taiwan as a critical node in global technology supply chains.
 
 **Key Tags:** Economic miracle, Asian Tigers, industrial upgrading, tech island, Ten Major Construction Projects
 
@@ -32,7 +32,7 @@ Since the 1960s, Taiwan has undergone four phases of industrial transformation: 
 
 ### Recovery and Reconstruction
 
-When Taiwan was liberated in 1945, the island's infrastructure was severely damaged by war, with a weak industrial foundation. The Nationalist government faced multiple challenges including severe inflation, material shortages, and population surge. As the mainland situation changed, approximately 1.2 million military personnel and civilians migrated to Taiwan, bringing human resources and capital but also adding economic burden.
+When Taiwan was liberated in 1945, Taiwan's infrastructure was severely damaged by war, with a weak industrial foundation. The Nationalist government faced multiple challenges including severe inflation, material shortages, and population surge. As the mainland situation changed, approximately 1.2 million military personnel and civilians migrated to Taiwan, bringing human resources and capital but also adding economic burden.
 
 ### Economic Foundation of Land Reform
 

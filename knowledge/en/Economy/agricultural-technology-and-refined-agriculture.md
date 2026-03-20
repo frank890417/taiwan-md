@@ -1,6 +1,6 @@
 ---
 title: 'Agricultural Technology and Refined Agriculture'
-description: 'How Taiwan transformed from traditional farming to high-tech refined agriculture, creating an agricultural miracle on a small island'
+description: 'How Taiwan transformed from traditional farming to high-tech refined agriculture, creating an agricultural miracle'
 date: 2026-03-19
 tags:
   [

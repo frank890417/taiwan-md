@@ -1,5 +1,245 @@
 [
   {
+    "title": "Nieh Yung-jen (聶永真)",
+    "description": "Taiwanese graphic designer and AGI member, known for Golden Melody Awards visuals and presidential inauguration identities",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/nieh-yung-jen",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/People/nieh-yung-jen.md"
+  },
+  {
+    "title": "台灣感性：韓國人眼中的台式美學",
+    "description": "從 K-pop MV 到首爾書展，「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
+    "category": "Culture",
+    "tags": [
+      "台灣感性",
+      "대만감성",
+      "韓國",
+      "美學",
+      "街景",
+      "文化輸出",
+      "觀光"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%84%9F%E6%80%A7",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "Culture/台灣感性.md"
+  },
+  {
+    "title": "環保與永續發展",
+    "description": "台灣從工業污染到淨零轉型的環境覺醒之路，探討環保運動、循環經濟、企業ESG責任與2050淨零排放目標",
+    "category": "Society",
+    "tags": [
+      "環保",
+      "永續發展",
+      "淨零排放",
+      "循環經濟",
+      "ESG",
+      "氣候變遷"
+    ],
+    "url": "https://taiwan.md/Society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
+    "readingTime": 24,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "Society/環保與永續發展.md"
+  },
+  {
+    "title": "台灣回收與資源循環文化",
+    "description": "從垃圾島到回收典範的綠色革命",
+    "category": "Lifestyle",
+    "tags": [
+      "垃圾不落地",
+      "四合一回收",
+      "環保文化",
+      "資源循環",
+      "綠色生活"
+    ],
+    "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%9B%9E%E6%94%B6%E8%88%87%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E6%96%87%E5%8C%96",
+    "readingTime": 25,
+    "featured": false,
+    "date": null,
+    "path": "Lifestyle/台灣回收與資源循環文化.md"
+  },
+  {
+    "title": "許淑淨",
+    "description": "2012倫敦奧運舉重銀牌遞補金牌，2016里約奧運金牌",
+    "category": "People",
+    "tags": [
+      "體育",
+      "舉重",
+      "奧運",
+      "金牌",
+      "53公斤級"
+    ],
+    "url": "https://taiwan.md/People/%E8%A8%B1%E6%B7%91%E6%B7%A8",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/許淑淨.md"
+  },
+  {
+    "title": "李宗盛",
+    "description": "華語流行音樂教父級製作人，以《山丘》《給自己的歌》等作品詮釋人生",
+    "category": "People",
+    "tags": [
+      "音樂",
+      "創作歌手",
+      "音樂製作人",
+      "華語流行",
+      "抒情歌曲",
+      "人生哲學"
+    ],
+    "url": "https://taiwan.md/People/%E6%9D%8E%E5%AE%97%E7%9B%9B",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/李宗盛.md"
+  },
+  {
+    "title": "地形與地質",
+    "description": "台灣島複雜多樣的地形地貌，板塊運動造就的五大山脈與豐富地質景觀",
+    "category": "Geography",
+    "tags": [
+      "地理",
+      "地質",
+      "山脈",
+      "板塊運動",
+      "地震",
+      "溫泉"
+    ],
+    "url": "https://taiwan.md/Geography/%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E8%B3%AA",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "Geography/地形與地質.md"
+  },
+  {
+    "title": "台灣音響產業發展",
+    "description": "從 OEM 代工到自有品牌，台灣音響產業的技術實力與全球市場地位",
+    "category": "Technology",
+    "tags": [
+      "音響產業",
+      "電子製造",
+      "聲學技術",
+      "Hi-Fi",
+      "專業音響"
+    ],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "Technology/台灣音響產業發展.md"
+  },
+  {
+    "title": "早餐店阿姨與社區情報網",
+    "description": "真的假的我以為阿姨只會叫人家帥哥而已——寫早餐店阿姨如何成為整個社區的情報中心",
+    "category": "Society",
+    "tags": [
+      "早餐店",
+      "社區文化",
+      "人情味",
+      "便利商店",
+      "日常生活",
+      "社區網絡"
+    ],
+    "url": "https://taiwan.md/Society/%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E8%88%87%E7%A4%BE%E5%8D%80%E6%83%85%E5%A0%B1%E7%B6%B2",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "Society/早餐店阿姨與社區情報網.md"
+  },
+  {
+    "title": "林義傑",
+    "description": "極地超馬傳奇，用雙腳征服地球最極端環境的台灣跑者",
+    "category": "People",
+    "tags": [
+      "人物",
+      "超級馬拉松",
+      "極地探險",
+      "運動員",
+      "撒哈拉沙漠"
+    ],
+    "url": "https://taiwan.md/People/%E6%9E%97%E7%BE%A9%E5%82%91",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/林義傑.md"
+  },
+  {
+    "title": "李昂",
+    "description": "《殺夫》《迷園》作者，台灣女性主義文學先鋒",
+    "category": "People",
+    "tags": [
+      "人物",
+      "李昂",
+      "殺夫",
+      "迷園",
+      "女性主義文學",
+      "性別議題",
+      "鹿港"
+    ],
+    "url": "https://taiwan.md/People/%E6%9D%8E%E6%98%82",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/李昂.md"
+  },
+  {
+    "title": "台灣散文",
+    "description": "",
+    "category": "Art",
+    "tags": [
+      "文學",
+      "散文",
+      "生活書寫"
+    ],
+    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%95%A3%E6%96%87",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "Art/台灣散文.md"
+  },
+  {
+    "title": "台灣皇蛾",
+    "description": "全世界最大的蛾，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
+    "category": "Nature",
+    "tags": [
+      "皇蛾",
+      "蛇頭蛾",
+      "Atlas Moth",
+      "蛾類",
+      "保育",
+      "昆蟲",
+      "生態"
+    ],
+    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%9A%87%E8%9B%BE",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "Nature/台灣皇蛾.md"
+  },
+  {
+    "title": "台灣資安產業發展",
+    "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
+    "category": "Technology",
+    "tags": [
+      "資安產業",
+      "網路安全",
+      "數位發展",
+      "資安政策",
+      "技術創新"
+    ],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "readingTime": 22,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "Technology/台灣資安產業發展.md"
+  },
+  {
     "title": "Stan Lai: Master of Theater Innovation",
     "description": "Founder of Performance Workshop, creator of Secret Love in Peach Blossom Land, godfather of Chinese-language theater",
     "category": "en",
@@ -11,265 +251,75 @@
     "path": "en/People/stan-lai-theater-innovation-master.md"
   },
   {
-    "title": "Traditional Taiwanese Arts",
+    "title": "Taiwan’s Parks and Everyday Leisure",
+    "description": "From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.",
+    "category": "en",
+    "tags": [
+      "Parks",
+      "Leisure",
+      "Social Life",
+      "Intergenerational",
+      "Daily Life"
+    ],
+    "url": "https://taiwan.md/en/Lifestyle/taiwan-parks-and-everyday-leisure",
+    "readingTime": 28,
+    "featured": false,
+    "date": null,
+    "path": "en/Lifestyle/taiwan-parks-and-everyday-leisure.md"
+  },
+  {
+    "title": "Soy Milk and Breakfast Shops in Taiwan",
+    "description": "From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Food/taiwan-soy-milk-and-breakfast-shops",
+    "readingTime": 23,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Food/taiwan-soy-milk-and-breakfast-shops.md"
+  },
+  {
+    "title": "台灣文學史",
     "description": "",
-    "category": "en",
+    "category": "Art",
     "tags": [
-      "art",
-      "tradition",
-      "folk-art"
+      "文學",
+      "歷史",
+      "文化"
     ],
-    "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts",
-    "readingTime": 36,
+    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2",
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-traditional-arts.md"
-  },
-  {
-    "title": "Taiwan's 16 Indigenous Peoples: A Cultural Map",
-    "description": "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations",
-    "category": "en",
-    "tags": [
-      "indigenous peoples",
-      "culture",
-      "ceremonies",
-      "languages",
-      "contemporary art"
-    ],
-    "url": "https://taiwan.md/en/Culture/indigenous-peoples-16-tribes-cultural-map",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Culture/indigenous-peoples-16-tribes-cultural-map.md"
-  },
-  {
-    "title": "Taiwan's Forest Ecosystems",
-    "description": "From subtropical coasts to alpine coniferous forests: A journey through the rich vertical biodiversity of Taiwan's forests.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Nature/taiwan-forest-ecosystems",
-    "readingTime": 38,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Nature/taiwan-forest-ecosystems.md"
-  },
-  {
-    "title": "Taiwan’s KTV Culture: From Holiday and Cashbox to the Social Ritual of the Private Room",
-    "description": "How karaoke became a Taiwanese social institution—through private rooms, brand rivalries, song charts, and the post‑pandemic search for a new model.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Music/ktv-culture",
-    "readingTime": 27,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Music/ktv-culture.md"
-  },
-  {
-    "title": "Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages",
-    "description": "How Taiwan’s EDM scene evolved from warehouse raves to international festivals, and why its DIY labels still matter",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Music/taiwan-electronic-music-and-party-culture",
-    "readingTime": 25,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Music/taiwan-electronic-music-and-party-culture.md"
-  },
-  {
-    "title": "Taiwan's Elections and Party Politics",
-    "description": "From the dangwai movement to multi-party democracy: How Taiwan evolved from authoritarianism to democratic electoral culture",
-    "category": "en",
-    "tags": [
-      "elections",
-      "democratization",
-      "party politics",
-      "dangwai movement",
-      "direct presidential election"
-    ],
-    "url": "https://taiwan.md/en/History/taiwan-elections-and-party-politics",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/History/taiwan-elections-and-party-politics.md"
-  },
-  {
-    "title": "Taiwan’s Convenience Store Culture",
-    "description": "The world’s densest convenience-store network—7‑Eleven and FamilyMart as neighborhood lifelines that rewired daily life.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/taiwan-convenience-store-culture",
-    "readingTime": 30,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Lifestyle/taiwan-convenience-store-culture.md"
-  },
-  {
-    "title": "Taiwan's Indigenous Language Revitalization Movement",
-    "description": "From language endangerment crisis to revitalization efforts: examining Taiwan's indigenous language preservation challenges, policy developments, and community-based achievements",
-    "category": "en",
-    "tags": [
-      "indigenous languages",
-      "language revitalization",
-      "indigenous education",
-      "language policy",
-      "cultural transmission"
-    ],
-    "url": "https://taiwan.md/en/Culture/indigenous-language-revitalization-movement",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Culture/indigenous-language-revitalization-movement.md"
-  },
-  {
-    "title": "Taiwan Michelin Guide and Fine Dining",
-    "description": "In 2018, the red cover of the Michelin Guide was first printed with \"TAIPEI,\" marking Taiwan\\'s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan\\'s culinary culture showcases its captivating blend of tradition and innovation on the international stage.",
-    "category": "en",
-    "tags": [
-      "Michelin",
-      "fine dining",
-      "starred restaurants",
-      "Taiwanese cuisine",
-      "internationalization"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-michelin-fine-dining",
-    "readingTime": 64,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
-    "title": "Taiwan's Startup Ecosystem",
-    "description": "From manufacturing mindset to innovation-driven economy: How Taiwan has built a comprehensive startup entrepreneurship ecosystem",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Technology/taiwan-startup-ecosystem",
-    "readingTime": 75,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Technology/taiwan-startup-ecosystem.md"
-  },
-  {
-    "title": "Taiwan's International Trade Policy: Finding Position in the Globalization Wave",
-    "description": "As a trade-oriented economy, Taiwan actively promotes diversified trade strategies including CPTPP membership bid and New Southbound Policy, seeking breakthroughs in international economic space under geopolitical constraints.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/taiwan-international-trade-policy",
-    "readingTime": 49,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Economy/taiwan-international-trade-policy.md"
-  },
-  {
-    "title": "Taiwan’s New Religious Movements and Spiritual Culture",
-    "description": "A cultural translation of Taiwan’s postwar religious revival—Buddhist ‘Four Great Mountains,’ Yiguandao, and the ways faith reshaped civic life, charity, and everyday ethics.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-new-religious-movements-and-spiritual-culture",
-    "readingTime": 39,
-    "featured": true,
     "date": "2026-03-18",
-    "path": "en/Culture/taiwan-new-religious-movements-and-spiritual-culture.md"
+    "path": "Art/台灣文學史.md"
   },
   {
-    "title": "Lee Yuan-tseh",
-    "description": "",
+    "title": "Metamorphosis of an Island: Taiwan's Industrial Transformation",
+    "description": "From an agrarian society to one of the Four Asian Tigers, and eventually a global technology hub—the story of Taiwan's economic evolution.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/People/lee-yuan-tseh",
-    "readingTime": 59,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/People/lee-yuan-tseh.md"
-  },
-  {
-    "title": "Taiwan's Seafood Culture",
-    "description": "Fresh catches from fishing ports, seafood restaurant culture, and iconic dishes like oyster omelets showcase Taiwan's island character and rich maritime culinary traditions",
-    "category": "en",
-    "tags": [
-      "seafood",
-      "fishing ports",
-      "island culture",
-      "oyster omelet",
-      "seafood cuisine"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-seafood-culture",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwan-seafood-culture.md"
-  },
-  {
-    "title": "Taiwanese Experimental and New Media Art",
-    "description": "From video art to VR interactions, exploring Taiwan's innovative development in new media art and its technological art ecosystem",
-    "category": "en",
-    "tags": [
-      "new media art",
-      "digital art",
-      "interactive installations",
-      "video art",
-      "VR",
-      "AR",
-      "experimental art",
-      "technology art"
-    ],
-    "url": "https://taiwan.md/en/Art/taiwanese-experimental-and-new-media-art",
-    "readingTime": 78,
+    "url": "https://taiwan.md/en/Economy/industrial-transformation-taiwanese-economic-trajectory",
+    "readingTime": 26,
     "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-experimental-and-new-media-art.md"
-  },
-  {
-    "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
-    "description": "Taiwan.md people page expansion roadmap, aiming to cover 200 important figures representing Taiwan",
-    "category": "en",
-    "tags": [
-      "project",
-      "People",
-      "roadmap"
-    ],
-    "url": "https://taiwan.md/en/People/taiwan-people-knowledge-base-roadmap",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/taiwan-people-knowledge-base-roadmap.md"
-  },
-  {
-    "title": "Su-Wei Hsieh: Taiwan's Tennis Trailblazer",
-    "description": "2013 Wimbledon women's doubles champion, Taiwan's first Grand Slam titlist",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/su-wei-hsieh-wimbledon-champion",
-    "readingTime": 25,
-    "featured": false,
     "date": "2026-03-20",
-    "path": "en/People/su-wei-hsieh-wimbledon-champion.md"
+    "path": "en/Economy/industrial-transformation-taiwanese-economic-trajectory.md"
   },
   {
-    "title": "Pai Hsien-yung (白先勇)",
-    "description": "Literary master, author of 'Taipei People,' and champion of Kunqu opera revival in modern Chinese literature",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/pai-hsien-yung-literary-master",
-    "readingTime": 30,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/People/pai-hsien-yung-literary-master.md"
-  },
-  {
-    "title": "Stan Shih (施振榮)",
-    "description": "Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation",
-    "category": "en",
+    "title": "台灣穿山甲",
+    "description": "全世界被走私最多的哺乳動物，在台灣找到了一個安全的家",
+    "category": "Nature",
     "tags": [
-      "entrepreneur",
-      "technology",
-      "management",
-      "Acer",
-      "Smiling Curve"
+      "穿山甲",
+      "保育",
+      "瀕危物種",
+      "走私",
+      "台北動物園",
+      "生態"
     ],
-    "url": "https://taiwan.md/en/People/stan-shih",
-    "readingTime": 24,
+    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%A9%BF%E5%B1%B1%E7%94%B2",
+    "readingTime": 11,
     "featured": false,
     "date": "2026-03-19",
-    "path": "en/People/stan-shih.md"
+    "path": "Nature/台灣穿山甲.md"
   }
 ]
