@@ -215,7 +215,7 @@ const graphData = JSON.stringify({ nodes, edges });
 ---
 
 <Layout title=" 知識圖譜 — Taiwan.md">
-  <main class="graph-page">
+  <div class="graph-page">
     <div class="graph-header">
       <h1>知識圖譜 Knowledge Graph</h1>
       <p>Taiwan.md 的所有知識節點與連結</p>
@@ -227,7 +227,7 @@ const graphData = JSON.stringify({ nodes, edges });
     </div>
     <div id="graph-container"></div>
     <div id="tooltip" class="tooltip"></div>
-  </main>
+  </div>
 </Layout>
 
 <script define:vars={{ graphData }}>
@@ -391,7 +391,7 @@ const graphData = JSON.stringify({ nodes, edges });
 
 <style>
   .graph-page {
-    height: 100vh;
+    height: calc(100vh - 4.5rem);
     display: flex;
     flex-direction: column;
   }

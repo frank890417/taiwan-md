@@ -14,7 +14,7 @@ const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
 const prefix = getLangPrefix(lang);
 const currentPath = Astro.url.pathname;
 
-// Navigation items
+// Navigation items (primary)
 const navItems = [
   { href: `${prefix}/`, label: t('nav.home', lang), id: 'home' },
   { href: `${prefix}/#journey`, label: t('nav.journey', lang), id: 'journey' },
@@ -22,6 +22,15 @@ const navItems = [
   { href: `${prefix}/graph`, label: t('nav.graph', lang), id: 'graph' },
   { href: `${prefix}/contribute`, label: t('nav.contribute', lang), id: 'contribute' },
 ];
+
+// More dropdown items
+const moreItems = [
+  { href: `${prefix}/about`, label: t('nav.about', lang), id: 'about' },
+  { href: `${prefix}/changelog`, label: t('nav.changelog', lang), id: 'changelog' },
+];
+
+// All nav items for mobile
+const allNavItems = [...navItems, ...moreItems];
 
 // Category dropdown items
 const categories = [
@@ -69,12 +78,12 @@ function getLangLink(targetLang: Locale): string {
       </a>
 
       <!-- Desktop Navigation -->
-      <nav class="hidden lg:flex items-center gap-1" aria-label="Main navigation">
+      <nav class="hidden lg:flex items-center gap-0.5" aria-label="Main navigation">
         {navItems.map(item => (
           <a
             href={item.href}
             class:list={[
-              'px-3 py-2 text-sm font-medium rounded-lg transition-colors',
+              'px-2.5 py-2 text-sm font-medium rounded-lg transition-colors whitespace-nowrap',
               currentPath === item.href || (item.id !== 'home' && currentPath.startsWith(item.href.replace(/#.*$/, '')))
                 ? 'text-teal bg-teal/5'
                 : 'text-forest-600 hover:text-teal hover:bg-teal/5'
@@ -87,7 +96,7 @@ function getLangLink(targetLang: Locale): string {
         <!-- Topics Dropdown -->
         <div class="relative group" id="topics-dropdown">
           <button
-            class="px-3 py-2 text-sm font-medium text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors flex items-center gap-1"
+            class="px-2.5 py-2 text-sm font-medium text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors flex items-center gap-1 whitespace-nowrap"
             aria-expanded="false"
             aria-haspopup="true"
           >
@@ -96,13 +105,39 @@ function getLangLink(targetLang: Locale): string {
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
             </svg>
           </button>
-          <div class="absolute top-full left-0 mt-1 w-56 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 bg-white/95 backdrop-blur-xl border border-forest-100/50 rounded-xl shadow-lg py-2 z-50">
+          <div class="absolute top-full left-0 mt-1 w-36 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 bg-white/95 backdrop-blur-xl border border-forest-100/50 rounded-xl shadow-lg py-2 z-50">
             {categories.map(cat => (
               <a
                 href={`${prefix}/${cat.slug}`}
-                class="flex items-center gap-3 px-4 py-2.5 text-sm text-forest-600 hover:text-teal hover:bg-teal/5 transition-colors"
+                class="flex items-center px-4 py-2 text-sm text-forest-600 hover:text-teal hover:bg-teal/5 transition-colors"
               >
-                <span class="w-5 text-center text-xs opacity-70">{t(`cat.${cat.slug}`, lang)}</span>
+                {t(`cat.${cat.slug}`, lang)}
+              </a>
+            ))}
+          </div>
+        </div>
+
+        <!-- More Dropdown (About, Changelog) -->
+        <div class="relative group" id="more-dropdown">
+          <button
+            class="px-2.5 py-2 text-sm font-medium text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors flex items-center gap-1"
+            aria-expanded="false"
+            aria-haspopup="true"
+          >
+            ···
+          </button>
+          <div class="absolute top-full right-0 mt-1 w-36 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 bg-white/95 backdrop-blur-xl border border-forest-100/50 rounded-xl shadow-lg py-2 z-50">
+            {moreItems.map(item => (
+              <a
+                href={item.href}
+                class:list={[
+                  'flex items-center px-4 py-2.5 text-sm transition-colors',
+                  currentPath.startsWith(item.href)
+                    ? 'text-teal bg-teal/5 font-medium'
+                    : 'text-forest-600 hover:text-teal hover:bg-teal/5'
+                ]}
+              >
+                {item.label}
               </a>
             ))}
           </div>
@@ -121,8 +156,21 @@ function getLangLink(targetLang: Locale): string {
         </a>
       </nav>
 
-      <!-- Right side: Search + Language + Mobile menu -->
+      <!-- Right side: Random + Search + Language + Mobile menu -->
       <div class="flex items-center gap-2">
+        <!-- Random Discover Button -->
+        <button
+          class="hidden md:flex items-center gap-1.5 px-3 py-1.5 text-sm font-medium text-forest-600 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors"
+          aria-label={t('nav.random', lang)}
+          id="navbar-random-btn"
+          title={t('nav.random', lang)}
+        >
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" />
+          </svg>
+          <span class="hidden lg:inline">{t('nav.random', lang)}</span>
+        </button>
+
         <!-- Search Button -->
         <button
           class="p-2 text-forest-400 hover:text-teal hover:bg-teal/5 rounded-lg transition-colors"
@@ -200,7 +248,7 @@ function getLangLink(targetLang: Locale): string {
   <!-- Mobile Navigation Panel -->
   <div class="lg:hidden hidden" id="mobile-nav">
     <div class="border-t border-forest-100/50 bg-cream/95 backdrop-blur-xl px-4 py-4 space-y-1">
-      {navItems.map(item => (
+      {allNavItems.map(item => (
         <a
           href={item.href}
           class:list={[
@@ -211,6 +259,15 @@ function getLangLink(targetLang: Locale): string {
           {item.label}
         </a>
       ))}
+      <button
+        id="mobile-random-btn"
+        class="w-full flex items-center gap-3 px-4 py-3 text-base font-medium text-teal bg-teal/5 hover:bg-teal/10 rounded-lg transition-colors"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" />
+        </svg>
+        {t('nav.random', lang)}
+      </button>
       <div class="border-t border-forest-100/30 pt-3 mt-3">
         <p class="px-4 text-xs font-medium text-forest-400 uppercase tracking-wider mb-2">{t('nav.topics', lang)}</p>
         <div class="grid grid-cols-2 gap-1">
@@ -247,7 +304,7 @@ function getLangLink(targetLang: Locale): string {
 <div class="h-18"></div>
 
 <script is:inline>
-(function() {
+function initNavbar() {
   const navbar = document.getElementById('site-navbar');
   const mobileBtn = document.getElementById('mobile-menu-btn');
   const mobileNav = document.getElementById('mobile-nav');
@@ -257,8 +314,9 @@ function getLangLink(targetLang: Locale): string {
   const langDropdown = document.getElementById('lang-dropdown');
   const searchTrigger = document.getElementById('search-trigger');
 
+  if (!navbar) return;
+
   // Scroll effect: transparent → frosted glass
-  let lastScroll = 0;
   function updateNavbar() {
     const scrollY = window.scrollY;
     if (scrollY > 80) {
@@ -272,40 +330,54 @@ function getLangLink(targetLang: Locale): string {
     if (window.location.pathname !== '/' && !window.location.pathname.match(/^\/(en|es)\/?$/)) {
       navbar.classList.add('bg-white/70', 'backdrop-blur-2xl', 'border-b', 'border-forest-100/20');
     }
-    lastScroll = scrollY;
   }
   // Set initially solid for non-home pages
   updateNavbar();
+  window.removeEventListener('scroll', window.__navbarScrollHandler);
+  window.__navbarScrollHandler = updateNavbar;
   window.addEventListener('scroll', updateNavbar, { passive: true });
 
-  // Mobile menu toggle
+  // Mobile menu toggle — remove old listener by replacing element clone
   if (mobileBtn && mobileNav) {
-    mobileBtn.addEventListener('click', function() {
+    const newBtn = mobileBtn.cloneNode(true);
+    mobileBtn.parentNode.replaceChild(newBtn, mobileBtn);
+    newBtn.addEventListener('click', function() {
       const isOpen = !mobileNav.classList.contains('hidden');
       mobileNav.classList.toggle('hidden');
-      menuOpen.classList.toggle('hidden');
-      menuClose.classList.toggle('hidden');
-      mobileBtn.setAttribute('aria-expanded', String(!isOpen));
+      const open = document.getElementById('menu-icon-open');
+      const close = document.getElementById('menu-icon-close');
+      if (open) open.classList.toggle('hidden');
+      if (close) close.classList.toggle('hidden');
+      newBtn.setAttribute('aria-expanded', String(!isOpen));
     });
   }
 
   // Language dropdown
   if (langBtn && langDropdown) {
-    langBtn.addEventListener('click', function(e) {
+    const newLangBtn = langBtn.cloneNode(true);
+    langBtn.parentNode.replaceChild(newLangBtn, langBtn);
+    newLangBtn.addEventListener('click', function(e) {
       e.stopPropagation();
       const isOpen = !langDropdown.classList.contains('hidden');
       langDropdown.classList.toggle('hidden');
-      langBtn.setAttribute('aria-expanded', String(!isOpen));
+      newLangBtn.setAttribute('aria-expanded', String(!isOpen));
     });
-    document.addEventListener('click', function() {
+    // Remove old document click listener by using a named function stored on document
+    if (document.__langClickHandler) {
+      document.removeEventListener('click', document.__langClickHandler);
+    }
+    document.__langClickHandler = function() {
       langDropdown.classList.add('hidden');
-      langBtn.setAttribute('aria-expanded', 'false');
-    });
+      newLangBtn.setAttribute('aria-expanded', 'false');
+    };
+    document.addEventListener('click', document.__langClickHandler);
   }
 
   // Search trigger
   if (searchTrigger) {
-    searchTrigger.addEventListener('click', function() {
+    const newSearchTrigger = searchTrigger.cloneNode(true);
+    searchTrigger.parentNode.replaceChild(newSearchTrigger, searchTrigger);
+    newSearchTrigger.addEventListener('click', function() {
       var modal = document.getElementById('search-modal');
       if (modal) {
         modal.classList.add('open');
@@ -317,8 +389,46 @@ function getLangLink(targetLang: Locale): string {
     });
   }
 
+  // Mobile random discover button
+  var mobileRandomBtn = document.getElementById('mobile-random-btn');
+  if (mobileRandomBtn && !mobileRandomBtn.__randomInit) {
+    mobileRandomBtn.__randomInit = true;
+    mobileRandomBtn.addEventListener('click', function() {
+      var mainBtn = document.getElementById('random-discovery-btn');
+      if (mainBtn) {
+        // Close mobile nav first
+        var mobileNavEl = document.getElementById('mobile-nav');
+        if (mobileNavEl) mobileNavEl.classList.add('hidden');
+        mainBtn.click();
+      } else {
+        var base = window.location.pathname.startsWith('/en') ? '/en' : window.location.pathname.startsWith('/es') ? '/es' : '';
+        window.location.href = base + '/#categories';
+      }
+    });
+  }
+
+  // Navbar random discover button
+  var navbarRandomBtn = document.getElementById('navbar-random-btn');
+  if (navbarRandomBtn && !navbarRandomBtn.__randomInit) {
+    navbarRandomBtn.__randomInit = true;
+    navbarRandomBtn.addEventListener('click', function() {
+      // Find the main random discovery button on the page or navigate to a random article
+      var mainBtn = document.getElementById('random-discovery-btn');
+      if (mainBtn) {
+        mainBtn.click();
+      } else {
+        // Fallback: scroll to categories or go to homepage#journey
+        var base = window.location.pathname.startsWith('/en') ? '/en' : window.location.pathname.startsWith('/es') ? '/es' : '';
+        window.location.href = base + '/#categories';
+      }
+    });
+  }
+
   // Keyboard shortcut: Cmd/Ctrl+K for search
-  document.addEventListener('keydown', function(e) {
+  if (document.__kbdHandler) {
+    document.removeEventListener('keydown', document.__kbdHandler);
+  }
+  document.__kbdHandler = function(e) {
     if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
       e.preventDefault();
       var modal = document.getElementById('search-modal');
@@ -332,6 +442,11 @@ function getLangLink(targetLang: Locale): string {
         }
       }
     }
-  });
-})();
+  };
+  document.addEventListener('keydown', document.__kbdHandler);
+}
+
+// Run on first load and after every View Transition navigation
+initNavbar();
+document.addEventListener('astro:page-load', initNavbar);
 </script>

@@ -117,7 +117,7 @@ const prefix = getLangPrefix(lang);
     <Navbar lang={lang} />
     <SearchModal searchIndex={searchIndex} lang={lang} />
 
-    <main role="main" class="min-h-[calc(100vh-4rem)]" data-pagefind-body>
+    <main role="main" class="min-h-[calc(100vh-4.5rem)]" data-pagefind-body>
       <slot />
     </main>
 
@@ -129,53 +129,56 @@ const prefix = getLangPrefix(lang);
     </a>
 
     <script is:inline>
-      // Set .md button href based on current path
-      const btn = document.getElementById('md-btn');
-      const pathname = window.location.pathname;
-      const ghBase = 'https://github.com/frank890417/taiwan-md/edit/main';
-      
-      let target = '/README.md';
+      function initMdBtn() {
+        const btn = document.getElementById('md-btn');
+        if (!btn) return;
+        const pathname = window.location.pathname;
+        const ghBase = 'https://github.com/frank890417/taiwan-md/edit/main';
 
-      if (pathname === '/' || pathname === '/en' || pathname === '/en/' || pathname === '/es' || pathname === '/es/' || pathname === '/index.html') {
-        target = '/README.md';
-      } else if (pathname.includes('/contribute')) {
-        target = '/CONTRIBUTING.md';
-      } else if (pathname.includes('/resources')) {
-        target = '/knowledge/About/台灣官方網站資源.md';
-      } else if (pathname.includes('/graph')) {
-        target = '/src/pages/graph.astro';
-      } else if (pathname.includes('/map')) {
-        target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
-      } else if (pathname.includes('/about')) {
-        target = '/src/pages/about.astro';
-      } else {
-        const isEn = pathname.startsWith('/en/');
-        const isEs = pathname.startsWith('/es/');
-        const cleanPath = pathname.replace(/^\/(en|es)/, '').replace(/^\//, '').replace(/\/$/, '').replace('index.html', '');
-        const parts = cleanPath.split('/');
-        
-        if (parts.length > 0 && parts[0]) {
-          const cat = parts[0];
-          const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
-          const prefix = isEn ? '/knowledge/en' : isEs ? '/knowledge/es' : '/knowledge';
-          
-          if (parts.length === 1) {
-            target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
-          } else {
-            const slug = decodeURIComponent(parts.slice(1).join('/')); 
-            target = `${prefix}/${catFolder}/${slug}.md`;
+        let target = '/README.md';
+
+        if (pathname === '/' || pathname === '/en' || pathname === '/en/' || pathname === '/es' || pathname === '/es/' || pathname === '/index.html') {
+          target = '/README.md';
+        } else if (pathname.includes('/contribute')) {
+          target = '/CONTRIBUTING.md';
+        } else if (pathname.includes('/resources')) {
+          target = '/knowledge/About/台灣官方網站資源.md';
+        } else if (pathname.includes('/graph')) {
+          target = '/src/pages/graph.astro';
+        } else if (pathname.includes('/map')) {
+          target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
+        } else if (pathname.includes('/about')) {
+          target = '/src/pages/about.astro';
+        } else {
+          const isEn = pathname.startsWith('/en/');
+          const isEs = pathname.startsWith('/es/');
+          const cleanPath = pathname.replace(/^\/(en|es)/, '').replace(/^\//, '').replace(/\/$/, '').replace('index.html', '');
+          const parts = cleanPath.split('/');
+
+          if (parts.length > 0 && parts[0]) {
+            const cat = parts[0];
+            const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
+            const prefix = isEn ? '/knowledge/en' : isEs ? '/knowledge/es' : '/knowledge';
+
+            if (parts.length === 1) {
+              target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
+            } else {
+              const slug = decodeURIComponent(parts.slice(1).join('/'));
+              target = `${prefix}/${catFolder}/${slug}.md`;
+            }
           }
         }
+
+        btn.href = ghBase + target;
       }
-      
-      btn.href = ghBase + target;
+      initMdBtn();
+      document.addEventListener('astro:page-load', initMdBtn);
     </script>
     <script is:inline>
-      // Scroll-triggered animations
-      (function() {
-        var els = document.querySelectorAll('.animate-on-scroll');
+      function initScrollAnimations() {
+        var els = document.querySelectorAll('.animate-on-scroll:not(.visible)');
         if (!els.length || !('IntersectionObserver' in window)) {
-          els.forEach(function(el) { el.classList.add('visible'); });
+          document.querySelectorAll('.animate-on-scroll').forEach(function(el) { el.classList.add('visible'); });
           return;
         }
         var observer = new IntersectionObserver(function(entries) {
@@ -187,7 +190,9 @@ const prefix = getLangPrefix(lang);
           });
         }, { threshold: 0.15 });
         els.forEach(function(el) { observer.observe(el); });
-      })();
+      }
+      initScrollAnimations();
+      document.addEventListener('astro:page-load', initScrollAnimations);
     </script>
   </body>
 </html>

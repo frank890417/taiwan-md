@@ -66,6 +66,9 @@ export default {
         'body-en': '1.7',
         'body-zh': '1.85',
       },
+      spacing: {
+        '18': '4.5rem',
+      },
       maxWidth: {
         prose: '72ch',
         container: '1200px',

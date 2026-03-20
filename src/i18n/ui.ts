@@ -42,6 +42,8 @@ const ui = {
     'nav.projects': '專案',
     'nav.search': '搜尋',
     'nav.language': '語言',
+    'nav.changelog': '更新紀錄',
+    'nav.random': '隨機發現',
 
     // Hero
     'hero.title': '福爾摩沙等你探索',
@@ -143,6 +145,8 @@ const ui = {
     'nav.projects': 'Projects',
     'nav.search': 'Search',
     'nav.language': 'Language',
+    'nav.changelog': 'Changelog',
+    'nav.random': 'Discover',
 
     'hero.title': 'Formosa Awaits',
     'hero.subtitle': 'Your Personal Map to Taiwan',
@@ -236,6 +240,8 @@ const ui = {
     'nav.projects': 'Proyectos',
     'nav.search': 'Buscar',
     'nav.language': 'Idioma',
+    'nav.changelog': 'Historial',
+    'nav.random': 'Descubrir',
 
     'hero.title': 'Formosa Te Espera',
     'hero.subtitle': 'Tu Mapa Personal de Taiwán',
