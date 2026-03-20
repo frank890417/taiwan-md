@@ -114,7 +114,7 @@ if (!categoryInfo) {
   throw new Error(`Unknown category: ${category}`);
 }
 
-// 推薦文章 (簡化版，取同分類的其他文章)
+// Related articles (simplified: other articles in the same category)
 const otherCategories = Object.keys(categoryConfig)
   .filter(cat => cat !== category)
   .slice(0, 3)
@@ -335,7 +335,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
           </div>
         </div>
 
-        <!-- 延伸閱讀：同分類其他文章 -->
+        <!-- Further reading: other articles in the same category -->
         {relatedArticles.length > 0 && (
           <div class="related-articles">
             <h3 class="related-title">Further Reading</h3>
@@ -375,7 +375,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
         <div class="article-footer-actions">
           <hr class="section-divider" />
           
-          <!-- 推薦下一篇 (Retention Loop) -->
+          <!-- Recommended next article (Retention Loop) -->
           {relatedArticles.length > 0 && (
             <div class="recommended-reading">
               <h3 class="footer-section-title">You might also like</h3>
@@ -427,7 +427,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
           <hr class="section-divider" />
 
-          <!-- 社交分享 (Sharing Loop) -->
+          <!-- Social sharing (Sharing Loop) -->
           <div class="social-sharing">
             <h3 class="footer-section-title">Share with others</h3>
             <div class="sharing-buttons">
@@ -1174,7 +1174,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     letter-spacing: 0.04em;
   }
 
-  /* 推薦下一篇 */
+  /* Recommended next */
   .recommended-reading {
     margin: 3rem 0;
   }
@@ -1224,7 +1224,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     width: fit-content;
   }
 
-  /* 貢獻區塊 */
+  /* Contribute section */
   .contribute-note {
     font-size: 0.95rem;
     line-height: 1.8;
@@ -1282,7 +1282,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     font-size: 1.1rem;
   }
 
-  /* 社交分享 */
+  /* Social sharing */
   .social-sharing {
     margin: 3rem 0;
     text-align: center;

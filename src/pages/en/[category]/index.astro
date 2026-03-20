@@ -105,10 +105,10 @@ function resolveWikilinks(md: string, currentCategory: string) {
 const resolvedContent = hubContent ? resolveWikilinks(hubContent, category) : '';
 const hubHtml = resolvedContent ? marked.parse(resolvedContent) : '';
 
-// 其他分類（跨分類導航用）
+// Other categories (cross-category navigation)
 const otherCategories = Object.keys(categoryConfig)
   .filter(cat => cat !== category)
-  .slice(0, 5) // 只顯示5個
+  .slice(0, 5) // show only 5
   .map(cat => ({
     key: cat,
     ...categoryConfig[cat as CategoryKey]
@@ -169,7 +169,7 @@ const otherCategories = Object.keys(categoryConfig)
                           <span class="status-tag">{article.status}</span>
                         )}
                         {article.lang && (
-                          <span class="lang-tag">{article.lang === 'zh-TW' ? '中文' : 'EN'}</span>
+                          <span class="lang-tag">{article.lang === 'zh-TW' ? 'ZH' : 'EN'}</span>
                         )}
                       </div>
                       {article.featured && (
@@ -212,7 +212,7 @@ const otherCategories = Object.keys(categoryConfig)
         </section>
       )}
 
-      <!-- 探索其他面向 -->
+      <!-- Explore other aspects -->
       <section class="explore-more">
         <h2 class="explore-title">Explore Other Aspects of Taiwan</h2>
         <div class="categories-grid">
