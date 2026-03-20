@@ -224,6 +224,12 @@ National library and document archive, academic resources
 ### [Academia Sinica](https://www.sinica.edu.tw/) 🌐
 Taiwan's highest academic research institution, fundamental research
 
+### [Taiwan Empirical Survey Data Platform](https://tesd.survey.sinica.edu.tw/) 🇹🇼
+Academia Sinica platform integrating eight major social science survey databases (Taiwan Social Change Survey, Taiwan Election and Democratization Study, Asian Barometer Survey, and more), providing online statistical analysis tools and data downloads across politics, society, demographics, law, communication, and child development
+
+### [Taiwan Communication Survey (TCS)](https://crctaiwan.dcat.nycu.edu.tw/index.asp) 🇹🇼
+NYCU-hosted academic research platform collecting and sharing communication-related survey data, covering longitudinal studies on media use patterns, political communication, social media effects, misinformation, and media trust. ⚠️ As of 2026, TCS is migrating into the Taiwan Empirical Survey Data Platform (tesd.survey.sinica.edu.tw) — the legacy site is scheduled to close, and TCS data will be accessible from the new unified platform
+
 #### 🌏 International Academic Resources
 ### [Brill Encyclopedia of Taiwan Studies Online (ETSO)](https://referenceworks.brill.com/display/db/etso) 🇬🇧
 The world's first English-language encyclopedia dedicated to Taiwan studies, published by Brill (Netherlands). Editor-in-Chief: Hsin-Huang Michael Hsiao (Academia Sinica), with 400+ international scholars contributing ~600 entries across 15 fields: archaeology, history, linguistics, anthropology, sociology, political science, international relations, Indigenous studies, literature, gender studies, media studies, film & documentary, music, and visual arts. Subscription-based academic resource available through university libraries.
