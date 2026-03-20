@@ -1,6 +1,3 @@
-people/聶永真.md
-people/楊勇緯.md
-people/李遠哲.md
 people/李智凱.md
 people/朱宗慶.md
 people/戴資穎.md
