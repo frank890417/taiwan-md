@@ -43,6 +43,29 @@ import ProticoScript from '../components/ProticoScript.astro';
           </div>
         </div>
 
+        <div class="project-stats">
+          <div class="stat-item">
+            <span class="stat-number">660+</span>
+            <span class="stat-label">頁面</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">106</span>
+            <span class="stat-label">國家</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">600+</span>
+            <span class="stat-label">GitHub Stars</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">23+</span>
+            <span class="stat-label">貢獻者</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">60K+</span>
+            <span class="stat-label">使用者</span>
+          </div>
+        </div>
+
         <!-- Vision -->
         <div class="vision-block">
           <p>Taiwan.md 不只是一個網站。它是一封寫給世界的信。</p>
@@ -265,29 +288,10 @@ import ProticoScript from '../components/ProticoScript.astro';
     <section class="team-section">
       <div class="section-inner">
         <h2 class="section-title">創辦人與協作團隊</h2>
-
-        <div class="project-stats">
-          <div class="stat-item">
-            <span class="stat-number">660+</span>
-            <span class="stat-label">頁面</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">106</span>
-            <span class="stat-label">國家</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">600+</span>
-            <span class="stat-label">GitHub Stars</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">23+</span>
-            <span class="stat-label">貢獻者</span>
-          </div>
-          <div class="stat-item">
-            <span class="stat-number">60K+</span>
-            <span class="stat-label">使用者</span>
-          </div>
-        </div>
+        <p class="section-subtitle">
+          Taiwan.md 相信最好的策展來自於多元視角的交融 — 人類的直覺與 AI 的洞察、
+          本土的溫度與國際的視野。
+        </p>
 
         <blockquote class="founder-quote standalone-quote">
           「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
@@ -313,44 +317,9 @@ import ProticoScript from '../components/ProticoScript.astro';
               <p>
                 哲宇是一位新媒體藝術家，相信演算法藝術不是讓電腦畫畫，而是設計生命的規則。
                 他的作品探索數位生命、數學之美與人機共生的可能性。
+                曾參與威尼斯雙年展、Art Basel Miami、巴黎 104 駐村，
+                代表作包括台北 101 個展《萬物公式》、沈浸式鋼琴演奏會《演算詩篇》等。
               </p>
-              <blockquote class="founder-quote">
-                「我是古老的鐘錶匠，機制本身就是作品」
-              </blockquote>
-            </div>
-
-            <div class="founder-highlights">
-              <h4>國際藝術經歷</h4>
-              <div class="highlight-tags">
-                <span class="tag">威尼斯雙年展</span>
-                <span class="tag">Art Basel Miami</span>
-                <span class="tag">巴黎 104 駐村</span>
-              </div>
-            </div>
-
-            <div class="founder-works">
-              <h4>代表作品</h4>
-              <ul>
-                <li>
-                  <strong>萬物公式</strong>（台北 101 個展）— 全球最大規模 p5.js
-                  生成藝術展
-                </li>
-                <li>
-                  <strong>靈魂魚</strong>（威尼斯雙年展）— 數位生命的集體智慧
-                </li>
-                <li>
-                  <strong>花的靈魂</strong>（Art Basel Miami）—
-                  生命週期的演算美學
-                </li>
-                <li>
-                  <strong>瓶中的永恆花園</strong>（巴黎駐村作品）—
-                  時間膠囊中的數位生態
-                </li>
-                <li>
-                  <strong>演算詩篇</strong>（沈浸式鋼琴演奏會）—
-                  聲音與視覺的即時共生
-                </li>
-              </ul>
             </div>
           </div>
         </div>
@@ -372,18 +341,6 @@ import ProticoScript from '../components/ProticoScript.astro';
             <span class="link-icon">📷</span>
             <span class="link-text">@cheyuwu345</span>
           </a>
-        </div>
-
-        <div class="team-philosophy">
-          <h3>協作哲學</h3>
-          <p>
-            Taiwan.md 相信最好的策展來自於多元視角的交融 — 人類的直覺與 AI
-            的洞察、藝術家的創意與技術的可能性、 本土的溫度與國際的視野。
-          </p>
-          <p>
-            透過這樣的協作，我們希望為台灣創造一個既深度又易懂、
-            既在地又世界的文化入口。
-          </p>
         </div>
 
         <div class="team-grid">
@@ -1254,7 +1211,8 @@ import ProticoScript from '../components/ProticoScript.astro';
 
   /* Standalone Quote */
   .standalone-quote {
-    max-width: 700px;
+    max-width: 100%;
+    width: 100%;
     margin: 0 auto 3rem;
     text-align: center;
     border-left: none;
