@@ -176,7 +176,10 @@ cd taiwan-md
 # 3. 安裝依賴
 bun install  # 或 npm install
 
-# 4. 設定上游倉庫
+# 4. 設定 commit hook
+bun prepare  # 或 npm prepare
+
+# 5. 設定上游倉庫
 git remote add upstream https://github.com/original/taiwan-md.git
 ```
 
