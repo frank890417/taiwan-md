@@ -3,6 +3,7 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
+import CategoryHero from '../../components/CategoryHero.astro';
 import { marked } from 'marked';
 import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../utils/categoryConfig';
 
@@ -157,32 +158,23 @@ const otherCategories = Object.keys(categoryConfig)
   }));
 ---
 
-<Layout 
+<Layout
   title={`${categoryInfo.name} - Taiwan.md`}
   description={`${categoryInfo.description} - 台灣知識庫`}
 >
   <main class="category-page">
-    <!-- Hero Banner -->
-    <section class="hero-banner" style={`background: ${categoryInfo.gradient};`}>
-      <div class="hero-content">
-        <div class="hero-icon">{categoryInfo.icon}</div>
-        <h1 class="hero-title">{categoryInfo.name}</h1>
-        <p class="hero-description">{categoryInfo.description}</p>
-        <div class="hero-stats">
-          <span class="stats-badge"> {articles.length} 篇文章</span>
-        </div>
-      </div>
-      <div class="hero-decoration"></div>
-    </section>
+    <CategoryHero
+      name={categoryInfo.name}
+      description={categoryInfo.description}
+      coverUrl={categoryInfo.cover}
+      gradient={categoryInfo.gradient}
+      articleCount={articles.length}
+      homeHref="/"
+      homeLabel="首頁"
+      countSuffix="篇文章"
+    />
 
     <div class="container">
-      <!-- Breadcrumb -->
-      <nav class="breadcrumb">
-        <a href="/" class="breadcrumb-link">首頁</a>
-        <span class="separator">›</span>
-        <span class="current">{categoryInfo.name}</span>
-      </nav>
-
       <!-- Hub Content (curated overview) -->
       {hubHtml && !isEconomy && (
         <section class="hub-content">
@@ -235,35 +227,28 @@ const otherCategories = Object.keys(categoryConfig)
             {articles.map((article, index) => (
               <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
                 <a href={`/${category}/${article.slug}`} class="card-link">
-                  <div class="card-image-placeholder" style={`background: ${categoryInfo.gradient};`}>
-                    <div class="card-image-icon">{categoryInfo.icon}</div>
-                  </div>
-                  
-                  <div class="card-content">
+                  <div class="card-cover" style={categoryInfo.cover ? `background-image: url('${categoryInfo.cover}');` : `background: ${categoryInfo.gradient};`}></div>
+
+                  <div class="card-body">
                     <div class="card-header">
                       <div class="article-meta">
                         {article.status && (
                           <span class="status-tag">{article.status}</span>
                         )}
-                        {article.lang && (
-                          <span class="lang-tag">{article.lang === 'zh-TW' ? '中文' : 'EN'}</span>
-                        )}
                       </div>
                       {article.featured && (
-                        <div class="featured-badge">⭐ 精選</div>
+                        <div class="featured-badge">精選</div>
                       )}
                     </div>
-                    
+
                     <h3 class="article-title">{article.title}</h3>
-                    
                     <p class="article-excerpt">{article.description}</p>
-                    
-                    <div class="article-info">
+
+                    <div class="card-footer">
                       {article.readingTime && (
-                        <span class="info-item">
-                           {article.readingTime} 分鐘
-                        </span>
+                        <span class="reading-time">{article.readingTime} 分鐘</span>
                       )}
+                      <span class="read-more">閱讀全文 →</span>
                     </div>
                   </div>
                 </a>
@@ -274,11 +259,10 @@ const otherCategories = Object.keys(categoryConfig)
       ) : (
         <section class="coming-soon">
           <div class="coming-soon-content">
-            <div class="coming-soon-icon">{categoryInfo.icon}</div>
             <h2>內容準備中</h2>
             <p>這個分類的文章正在努力製作中，敬請期待！</p>
             <p class="category-desc">未來這裡將會有：{categoryInfo.description}</p>
-            
+
             <div class="action-buttons">
               <a href="/" class="btn-primary">返回首頁</a>
               <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">
@@ -295,7 +279,6 @@ const otherCategories = Object.keys(categoryConfig)
         <div class="categories-grid">
           {otherCategories.map(cat => (
             <a href={`/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
-              <div class="category-card-icon">{cat.icon}</div>
               <div class="category-card-name">{cat.name}</div>
             </a>
           ))}
@@ -310,78 +293,6 @@ const otherCategories = Object.keys(categoryConfig)
     min-height: 100vh;
   }
 
-  /* Hero Banner */
-  .hero-banner {
-    position: relative;
-    width: 100%;
-    padding: clamp(3.5rem, 8vw, 5rem) var(--space-page-x);
-    color: white;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 2;
-  }
-
-  .hero-icon {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-
-  .hero-title {
-    font-size: 3.5rem;
-    font-weight: 800;
-    margin-bottom: 1rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    background: linear-gradient(45deg, rgba(255,255,255,1), rgba(255,255,255,0.8));
-    background-clip: text;
-    -webkit-background-clip: text;
-  }
-
-  .hero-description {
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-    opacity: 0.95;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-    line-height: 1.4;
-  }
-
-  .hero-stats {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .stats-badge {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 0.7rem 1.15rem;
-    border-radius: var(--radius-chip);
-    font-weight: 500;
-    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.06);
-  }
-
-  .hero-decoration {
-    position: absolute;
-    top: 0;
-    right: -10%;
-    width: 50%;
-    height: 100%;
-    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-    border-radius: 50%;
-  }
-
   /* Container */
   .container {
     max-width: var(--container-page);
@@ -389,43 +300,13 @@ const otherCategories = Object.keys(categoryConfig)
     padding: 2rem var(--space-page-x);
   }
 
-  /* Breadcrumb */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: var(--space-7);
-    font-size: 0.9rem;
-  }
-
-  .breadcrumb a {
-    color: var(--categoryColor);
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .breadcrumb a:hover {
-    text-decoration: underline;
-  }
-
-  .separator {
-    color: #9ca3af;
-  }
-
-  .current {
-    color: #6b7280;
-    font-weight: 600;
-  }
-
-  /* Articles Grid */
+  /* Hub Content */
   .hub-content {
-    margin: var(--space-5) 0 var(--space-7);
-    padding: var(--space-6);
-    background: rgba(255, 255, 255, 0.88);
-    border-radius: 24px;
-    border: 1px solid #e2e8f0;
-    box-shadow: var(--shadow-soft);
-    backdrop-filter: blur(10px);
+    margin: var(--space-7) 0 var(--space-7);
+    padding: 2.5rem 3rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
   }
   .hub-prose {
     font-size: 1.05rem;
@@ -557,6 +438,7 @@ const otherCategories = Object.keys(categoryConfig)
     margin: 2.5rem 0;
   }
 
+  /* Articles */
   .articles-heading {
     font-size: var(--title-subsection-size);
     margin: 0 0 var(--space-5) 0;
@@ -573,30 +455,27 @@ const otherCategories = Object.keys(categoryConfig)
 
   .articles-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: var(--space-5);
-  }
-
-  .article-card {
-    background: rgba(255, 255, 255, 0.92);
-    border-radius: 22px;
-    overflow: hidden;
-    box-shadow: var(--shadow-soft);
-    transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    backdrop-filter: blur(10px);
-  }
-
-  .article-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-card);
-    border-color: rgba(148, 163, 184, 0.28);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2.5rem;
   }
 
   .featured-card {
     grid-column: 1 / -1;
-    max-width: 680px;
+    max-width: 740px;
     margin: 0 auto;
+  }
+
+  .article-card {
+    background: #F8F1E9;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.12);
   }
 
   .card-link {
@@ -605,111 +484,89 @@ const otherCategories = Object.keys(categoryConfig)
     color: inherit;
   }
 
-  .card-image-placeholder {
-    height: 160px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+  .card-cover {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
   }
 
-  .featured-card .card-image-placeholder {
-    height: 200px;
+  .featured-card .card-cover {
+    height: 240px;
   }
 
-  .card-image-icon {
-    font-size: 3rem;
-    opacity: 0.8;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-  }
-
-  .card-content {
-    padding: 1.5rem;
+  .card-body {
+    padding: 1.5rem 1.75rem 1.75rem;
   }
 
   .card-header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
   }
 
   .article-meta {
     display: flex;
-    gap: 0.55rem;
+    gap: 0.5rem;
     flex-wrap: wrap;
   }
 
   .status-tag {
     background: var(--categoryColorLight);
     color: var(--categoryColor);
-    padding: 0.45rem 0.8rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 500;
-    border: 1px solid rgba(148, 163, 184, 0.14);
-  }
-
-  .lang-tag {
-    background: rgba(255, 255, 255, 0.72);
-    color: #64748b;
-    padding: 0.45rem 0.8rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
-    font-weight: 500;
-    border: 1px solid rgba(148, 163, 184, 0.18);
   }
 
   .featured-badge {
     background: linear-gradient(45deg, #fbbf24, #f59e0b);
     color: white;
-    padding: 0.45rem 0.85rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 600;
-    box-shadow: 0 8px 22px rgba(245, 158, 11, 0.18);
   }
 
   .article-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 1rem;
-    color: #1f2937;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #1A3C34;
+    font-family: var(--font-editorial);
   }
 
   .featured-card .article-title {
-    font-size: 1.8rem;
+    font-size: 1.55rem;
   }
 
   .article-excerpt {
-    color: #6b7280;
-    line-height: 1.6;
-    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: #4a5568;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
 
-  .article-info {
+  .card-footer {
     display: flex;
     align-items: center;
-    gap: 0.65rem;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0.85rem;
   }
 
-  .info-item {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.55rem 0.8rem;
-    font-size: 0.85rem;
-    color: #64748b;
-    background: rgba(255, 255, 255, 0.72);
-    border: 1px solid rgba(148, 163, 184, 0.18);
-    border-radius: var(--radius-chip);
-    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
+  .reading-time {
+    color: #4a5568;
+  }
+
+  .read-more {
+    color: #006D77;
+    font-weight: 500;
   }
 
   /* Coming Soon */
@@ -721,12 +578,6 @@ const otherCategories = Object.keys(categoryConfig)
   .coming-soon-content {
     max-width: 500px;
     margin: 0 auto;
-  }
-
-  .coming-soon-icon {
-    font-size: 5rem;
-    margin-bottom: 2rem;
-    opacity: 0.7;
   }
 
   .coming-soon-content h2 {
@@ -818,7 +669,7 @@ const otherCategories = Object.keys(categoryConfig)
 
   .categories-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: 1rem;
   }
 
@@ -826,10 +677,11 @@ const otherCategories = Object.keys(categoryConfig)
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    justify-content: center;
+    padding: 1.5rem 1rem;
     background: rgba(255, 255, 255, 0.92);
     border: 1px solid;
-    border-radius: 22px;
+    border-radius: 20px;
     text-decoration: none;
     transition: transform 0.22s ease, box-shadow 0.22s ease;
     text-align: center;
@@ -841,14 +693,9 @@ const otherCategories = Object.keys(categoryConfig)
     box-shadow: var(--shadow-card);
   }
 
-  .category-card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-  }
-
   .category-card-name {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
   }
 
   /* Economic Charts */
@@ -915,30 +762,18 @@ const otherCategories = Object.keys(categoryConfig)
 
   /* Responsive */
   @media (max-width: 768px) {
-    .hero-banner {
-      padding: var(--space-7) 1rem;
-    }
-
-    .hero-title {
-      font-size: 2.5rem;
-    }
-
-    .hero-description {
-      font-size: 1.2rem;
-    }
-
     .container {
       padding: 1rem;
     }
 
     .hub-content {
       padding: 1.5rem 1.25rem;
-      border-radius: 20px;
+      border-radius: 16px;
     }
 
     .articles-grid {
       grid-template-columns: 1fr;
-      gap: var(--space-4);
+      gap: 1.5rem;
     }
 
     .featured-card {
@@ -951,7 +786,7 @@ const otherCategories = Object.keys(categoryConfig)
     }
 
     .categories-grid {
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     }
 
     .econ-chart-container {

@@ -3,6 +3,7 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../../layouts/Layout.astro';
+import CategoryHero from '../../../components/CategoryHero.astro';
 import { marked } from 'marked';
 import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
 
@@ -108,40 +109,31 @@ const hubHtml = resolvedContent ? marked.parse(resolvedContent) : '';
 // 其他分類（跨分類導航用）
 const otherCategories = Object.keys(categoryConfig)
   .filter(cat => cat !== category)
-  .slice(0, 5) // 只顯示5個
+  .slice(0, 5) // show 5
   .map(cat => ({
     key: cat,
     ...categoryConfig[cat as CategoryKey]
   }));
 ---
 
-<Layout 
+<Layout
   title={`${categoryInfo.name_en} - Taiwan.md`}
   description={`${categoryInfo.description_en} - Taiwan knowledge base`}
   lang="en"
 >
   <main class="category-page">
-    <!-- Hero Banner -->
-    <section class="hero-banner" style={`background: ${categoryInfo.gradient};`}>
-      <div class="hero-content">
-        <div class="hero-icon">{categoryInfo.icon}</div>
-        <h1 class="hero-title">{categoryInfo.name_en}</h1>
-        <p class="hero-description">{categoryInfo.description_en}</p>
-        <div class="hero-stats">
-          <span class="stats-badge"> {articles.length} articles</span>
-        </div>
-      </div>
-      <div class="hero-decoration"></div>
-    </section>
+    <CategoryHero
+      name={categoryInfo.name_en}
+      description={categoryInfo.description_en}
+      coverUrl={categoryInfo.cover}
+      gradient={categoryInfo.gradient}
+      articleCount={articles.length}
+      homeHref="/en"
+      homeLabel="Home"
+      countSuffix="articles"
+    />
 
     <div class="container">
-      <!-- Breadcrumb -->
-      <nav class="breadcrumb">
-        <a href="/en">Home</a>
-        <span class="separator">›</span>
-        <span class="current">{categoryInfo.name_en}</span>
-      </nav>
-
       <!-- Hub Content (curated overview) -->
       {hubHtml && (
         <section class="hub-content">
@@ -157,35 +149,28 @@ const otherCategories = Object.keys(categoryConfig)
             {articles.map((article, index) => (
               <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
                 <a href={`/en/${category}/${article.slug}`} class="card-link">
-                  <div class="card-image-placeholder" style={`background: ${categoryInfo.gradient};`}>
-                    <div class="card-image-icon">{categoryInfo.icon}</div>
-                  </div>
-                  
-                  <div class="card-content">
+                  <div class="card-cover" style={categoryInfo.cover ? `background-image: url('${categoryInfo.cover}');` : `background: ${categoryInfo.gradient};`}></div>
+
+                  <div class="card-body">
                     <div class="card-header">
                       <div class="article-meta">
                         {article.status && (
                           <span class="status-tag">{article.status}</span>
                         )}
-                        {article.lang && (
-                          <span class="lang-tag">{article.lang === 'zh-TW' ? '中文' : 'EN'}</span>
-                        )}
                       </div>
                       {article.featured && (
-                        <div class="featured-badge">⭐ Featured</div>
+                        <div class="featured-badge">Featured</div>
                       )}
                     </div>
-                    
+
                     <h3 class="article-title">{article.title}</h3>
-                    
                     <p class="article-excerpt">{article.description}</p>
-                    
-                    <div class="article-info">
+
+                    <div class="card-footer">
                       {article.readingTime && (
-                        <span class="info-item">
-                           {article.readingTime} min read
-                        </span>
+                        <span class="reading-time">{article.readingTime} min read</span>
                       )}
+                      <span class="read-more">Read more →</span>
                     </div>
                   </div>
                 </a>
@@ -196,11 +181,10 @@ const otherCategories = Object.keys(categoryConfig)
       ) : (
         <section class="coming-soon">
           <div class="coming-soon-content">
-            <div class="coming-soon-icon">{categoryInfo.icon}</div>
             <h2>Content Coming Soon</h2>
             <p>Articles in this category are being prepared. Stay tuned!</p>
-            <p class="category-desc">Coming soon: {categoryInfo.description}</p>
-            
+            <p class="category-desc">Coming soon: {categoryInfo.description_en}</p>
+
             <div class="action-buttons">
               <a href="/en" class="btn-primary">Back to Home</a>
               <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">
@@ -211,13 +195,12 @@ const otherCategories = Object.keys(categoryConfig)
         </section>
       )}
 
-      <!-- 探索其他面向 -->
+      <!-- Explore Other Aspects -->
       <section class="explore-more">
         <h2 class="explore-title">Explore Other Aspects of Taiwan</h2>
         <div class="categories-grid">
           {otherCategories.map(cat => (
             <a href={`/en/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
-              <div class="category-card-icon">{cat.icon}</div>
               <div class="category-card-name">{cat.name_en}</div>
             </a>
           ))}
@@ -232,77 +215,6 @@ const otherCategories = Object.keys(categoryConfig)
     min-height: 100vh;
   }
 
-  /* Hero Banner */
-  .hero-banner {
-    position: relative;
-    width: 100%;
-    padding: 4rem 2rem;
-    color: white;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 2;
-  }
-
-  .hero-icon {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%, 100% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-  }
-
-  .hero-title {
-    font-size: 3.5rem;
-    font-weight: 800;
-    margin-bottom: 1rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    background: linear-gradient(45deg, rgba(255,255,255,1), rgba(255,255,255,0.8));
-    background-clip: text;
-    -webkit-background-clip: text;
-  }
-
-  .hero-description {
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-    opacity: 0.95;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-    line-height: 1.4;
-  }
-
-  .hero-stats {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .stats-badge {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 0.75rem 1.5rem;
-    border-radius: 50px;
-    font-weight: 500;
-  }
-
-  .hero-decoration {
-    position: absolute;
-    top: 0;
-    right: -10%;
-    width: 50%;
-    height: 100%;
-    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%);
-    border-radius: 50%;
-  }
-
   /* Container */
   .container {
     max-width: 1200px;
@@ -310,42 +222,13 @@ const otherCategories = Object.keys(categoryConfig)
     padding: 2rem;
   }
 
-  /* Breadcrumb */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: 3rem;
-    font-size: 0.9rem;
-  }
-
-  .breadcrumb a {
-    color: var(--categoryColor);
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .breadcrumb a:hover {
-    text-decoration: underline;
-  }
-
-  .separator {
-    color: #9ca3af;
-  }
-
-  .current {
-    color: #6b7280;
-    font-weight: 600;
-  }
-
-  /* Articles Grid */
+  /* Hub Content */
   .hub-content {
-    margin: 2rem 0 3rem;
-    padding: 2.5rem;
-    background: #fff;
-    border-radius: 16px;
-    border: 1px solid #e2e8f0;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    margin: 2.5rem 0 3rem;
+    padding: 2.5rem 3rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
   }
   .hub-prose {
     font-size: 1.05rem;
@@ -457,10 +340,13 @@ const otherCategories = Object.keys(categoryConfig)
     margin: 2.5rem 0;
   }
 
+  /* Articles */
   .articles-heading {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin: 0 0 1.5rem 0;
     color: #1e293b;
+    font-weight: 800;
+    font-family: var(--font-editorial);
   }
 
   .articles-section {
@@ -469,29 +355,27 @@ const otherCategories = Object.keys(categoryConfig)
 
   .articles-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: 2rem;
-  }
-
-  .article-card {
-    background: white;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
-    transition: all 0.2s ease;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-  }
-
-  .article-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
-    border-color: rgba(0, 0, 0, 0.12);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2.5rem;
   }
 
   .featured-card {
     grid-column: 1 / -1;
-    max-width: 600px;
+    max-width: 740px;
     margin: 0 auto;
+  }
+
+  .article-card {
+    background: #F8F1E9;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.12);
   }
 
   .card-link {
@@ -500,33 +384,25 @@ const otherCategories = Object.keys(categoryConfig)
     color: inherit;
   }
 
-  .card-image-placeholder {
-    height: 160px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+  .card-cover {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
   }
 
-  .featured-card .card-image-placeholder {
-    height: 200px;
+  .featured-card .card-cover {
+    height: 240px;
   }
 
-  .card-image-icon {
-    font-size: 3rem;
-    opacity: 0.8;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-  }
-
-  .card-content {
-    padding: 1.5rem;
+  .card-body {
+    padding: 1.5rem 1.75rem 1.75rem;
   }
 
   .card-header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
   }
 
   .article-meta {
@@ -538,64 +414,59 @@ const otherCategories = Object.keys(categoryConfig)
   .status-tag {
     background: var(--categoryColorLight);
     color: var(--categoryColor);
-    padding: 0.25rem 0.5rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
-    font-weight: 500;
-  }
-
-  .lang-tag {
-    background: #f3f4f6;
-    color: #6b7280;
-    padding: 0.25rem 0.5rem;
-    border-radius: 6px;
-    font-size: 0.75rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 500;
   }
 
   .featured-badge {
     background: linear-gradient(45deg, #fbbf24, #f59e0b);
     color: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 20px;
-    font-size: 0.75rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 600;
   }
 
   .article-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 1rem;
-    color: #1f2937;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #1A3C34;
+    font-family: var(--font-editorial);
   }
 
   .featured-card .article-title {
-    font-size: 1.8rem;
+    font-size: 1.55rem;
   }
 
   .article-excerpt {
-    color: #6b7280;
-    line-height: 1.6;
-    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: #4a5568;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
 
-  .article-info {
+  .card-footer {
     display: flex;
     align-items: center;
-    gap: 1rem;
-    font-size: 0.9rem;
-    color: #9ca3af;
+    justify-content: space-between;
+    font-size: 0.85rem;
   }
 
-  .info-item {
-    display: flex;
-    align-items: center;
-    gap: 0.25rem;
+  .reading-time {
+    color: #4a5568;
+  }
+
+  .read-more {
+    color: #006D77;
+    font-weight: 500;
   }
 
   /* Coming Soon */
@@ -609,17 +480,12 @@ const otherCategories = Object.keys(categoryConfig)
     margin: 0 auto;
   }
 
-  .coming-soon-icon {
-    font-size: 5rem;
-    margin-bottom: 2rem;
-    opacity: 0.7;
-  }
-
   .coming-soon-content h2 {
     font-size: 2.5rem;
     color: #1f2937;
     margin-bottom: 1rem;
-    font-weight: 700;
+    font-weight: 800;
+    font-family: var(--font-editorial);
   }
 
   .coming-soon-content p {
@@ -647,16 +513,19 @@ const otherCategories = Object.keys(categoryConfig)
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 1rem 2rem;
+    padding: 0.95rem 1.6rem;
     text-decoration: none;
-    border-radius: 12px;
+    border-radius: 999px;
     font-weight: 600;
-    transition: all 0.3s ease;
+    font-size: 0.95rem;
+    justify-content: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
   }
 
   .btn-primary {
     background: var(--categoryColor);
     color: white;
+    border: 1px solid var(--categoryColor);
   }
 
   .btn-primary:hover {
@@ -667,7 +536,7 @@ const otherCategories = Object.keys(categoryConfig)
   .btn-secondary {
     background: white;
     color: var(--categoryColor);
-    border: 2px solid var(--categoryColor);
+    border: 1px solid var(--categoryColor);
   }
 
   .btn-secondary:hover {
@@ -686,65 +555,57 @@ const otherCategories = Object.keys(categoryConfig)
   .explore-title {
     text-align: center;
     font-size: 2rem;
-    font-weight: 700;
+    font-weight: 800;
     color: #1f2937;
     margin-bottom: 2rem;
+    font-family: var(--font-editorial);
   }
 
   .categories-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
   }
 
   .category-card {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    justify-content: center;
+    padding: 1.5rem 1rem;
     background: white;
-    border: 2px solid;
-    border-radius: 16px;
+    border: 1px solid;
+    border-radius: 20px;
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
     text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   }
 
   .category-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
-  }
-
-  .category-card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
   }
 
   .category-card-name {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
   }
 
   /* Responsive */
   @media (max-width: 768px) {
-    .hero-banner {
-      padding: 3rem 1rem;
-    }
-
-    .hero-title {
-      font-size: 2.5rem;
-    }
-
-    .hero-description {
-      font-size: 1.2rem;
-    }
-
     .container {
       padding: 1rem;
     }
 
+    .hub-content {
+      padding: 1.5rem 1.25rem;
+      border-radius: 16px;
+    }
+
     .articles-grid {
       grid-template-columns: 1fr;
+      gap: 1.5rem;
     }
 
     .featured-card {
@@ -757,7 +618,7 @@ const otherCategories = Object.keys(categoryConfig)
     }
 
     .categories-grid {
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     }
   }
 </style>

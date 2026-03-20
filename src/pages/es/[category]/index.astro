@@ -3,6 +3,7 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../../layouts/Layout.astro';
+import CategoryHero from '../../../components/CategoryHero.astro';
 import { marked } from 'marked';
 import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../../utils/categoryConfig';
 
@@ -36,17 +37,42 @@ export async function getStaticPaths() {
           slug,
           title: frontmatter.title || slug,
           description: frontmatter.description || '',
+          status: frontmatter.status || '',
           readingTime: frontmatter.readingTime || null,
           featured: frontmatter.featured || false,
         });
       }
     } catch {}
 
+    // Try ES hub first, fall back to EN hub
+    let hubContent = '';
+    try {
+      const esFolderPath = resolve(process.cwd(), 'knowledge', 'es', folderName);
+      const esHubFiles = await readdir(esFolderPath);
+      const esHubFile = esHubFiles.find(f => f.startsWith('_') && f.includes('Hub'));
+      if (esHubFile) {
+        const raw = await readFile(join(esFolderPath, esHubFile), 'utf-8');
+        hubContent = matter(raw).content.replace(/^#\s+.+\n/, '').trim();
+      }
+    } catch {}
+    if (!hubContent) {
+      try {
+        const enFolderPath = resolve(process.cwd(), 'knowledge', 'en', folderName);
+        const enHubFiles = await readdir(enFolderPath);
+        const enHubFile = enHubFiles.find(f => f.startsWith('_') && f.includes('Hub'));
+        if (enHubFile) {
+          const raw = await readFile(join(enFolderPath, enHubFile), 'utf-8');
+          hubContent = matter(raw).content.replace(/^#\s+.+\n/, '').trim();
+        }
+      } catch {}
+    }
+
     paths.push({
       params: { category },
       props: {
         categoryInfo: categoryConfig[category as CategoryKey],
         category,
+        hubContent,
         articles: articles.sort((a, b) => {
           if (a.featured && !b.featured) return -1;
           if (!a.featured && b.featured) return 1;
@@ -59,7 +85,9 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { categoryInfo, category, articles } = Astro.props;
+const { categoryInfo, category, hubContent, articles } = Astro.props;
+
+const hubHtml = hubContent ? marked.parse(hubContent) : '';
 
 const otherCategories = Object.keys(categoryConfig)
   .filter(cat => cat !== category)
@@ -75,62 +103,84 @@ const otherCategories = Object.keys(categoryConfig)
   description={`${categoryInfo.description_es} - Base de conocimiento de Taiwán`}
   lang="es"
 >
-  <main>
-    <!-- Hero Banner -->
-    <section class="relative w-full py-16 px-6 text-white text-center" style={`background: ${categoryInfo.gradient};`}>
-      <div class="relative z-10 max-w-3xl mx-auto">
-        <div class="text-5xl mb-4">{categoryInfo.icon}</div>
-        <h1 class="text-3xl md:text-4xl font-serif font-bold mb-3">{categoryInfo.name_es}</h1>
-        <p class="text-white/80 text-lg">{categoryInfo.description_es}</p>
-        <span class="inline-block mt-4 px-3 py-1 bg-white/20 rounded-full text-sm"> {articles.length} artículos</span>
-      </div>
-    </section>
+  <main class="category-page">
+    <CategoryHero
+      name={categoryInfo.name_es}
+      description={categoryInfo.description_es}
+      coverUrl={categoryInfo.cover}
+      gradient={categoryInfo.gradient}
+      articleCount={articles.length}
+      homeHref="/es"
+      homeLabel="Inicio"
+      countSuffix="artículos"
+    />
 
-    <div class="max-w-5xl mx-auto px-6 py-8">
-      <!-- Breadcrumb -->
-      <nav class="text-sm text-forest-400 mb-8">
-        <a href="/es" class="hover:text-teal transition-colors">Inicio</a>
-        <span class="mx-2">›</span>
-        <span class="text-forest font-medium">{categoryInfo.name_es}</span>
-      </nav>
+    <div class="container">
+      <!-- Hub Content -->
+      {hubHtml && (
+        <section class="hub-content">
+          <div class="hub-prose" set:html={hubHtml} />
+        </section>
+      )}
 
-      <!-- Articles -->
+      <!-- Articles Section -->
+      <h2 class="articles-heading">Lectura Adicional</h2>
       {articles.length > 0 ? (
-        <div>
-          <h2 class="text-xl font-serif font-bold text-forest mb-6">Lectura Adicional</h2>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-            {articles.map((article) => (
-              <a href={`/es/${category}/${article.slug}`}
-                 class="block p-5 rounded-xl border border-forest-100/30 bg-white hover:shadow-card hover:border-teal/30 transition-all no-underline group">
-                <h3 class="text-base font-bold text-forest group-hover:text-teal transition-colors mb-2">{article.title}</h3>
-                {article.description && <p class="text-sm text-forest-400 line-clamp-2">{article.description}</p>}
-                {article.readingTime && <span class="text-xs text-forest-300 mt-2 block"> {article.readingTime} min de lectura</span>}
-              </a>
+        <section class="articles-section">
+          <div class="articles-grid">
+            {articles.map((article, index) => (
+              <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
+                <a href={`/es/${category}/${article.slug}`} class="card-link">
+                  <div class="card-cover" style={categoryInfo.cover ? `background-image: url('${categoryInfo.cover}');` : `background: ${categoryInfo.gradient};`}></div>
+
+                  <div class="card-body">
+                    <div class="card-header">
+                      <div class="article-meta">
+                        {article.status && (
+                          <span class="status-tag">{article.status}</span>
+                        )}
+                      </div>
+                      {article.featured && (
+                        <div class="featured-badge">Destacado</div>
+                      )}
+                    </div>
+
+                    <h3 class="article-title">{article.title}</h3>
+                    <p class="article-excerpt">{article.description}</p>
+
+                    <div class="card-footer">
+                      {article.readingTime && (
+                        <span class="reading-time">{article.readingTime} min de lectura</span>
+                      )}
+                      <span class="read-more">Leer más →</span>
+                    </div>
+                  </div>
+                </a>
+              </article>
             ))}
           </div>
-        </div>
+        </section>
       ) : (
-        <div class="text-center py-16">
-          <div class="text-5xl mb-4">{categoryInfo.icon}</div>
-          <h2 class="text-xl font-bold text-forest mb-2">Contenido Próximamente</h2>
-          <p class="text-forest-400 mb-6">Los artículos de esta categoría están siendo traducidos. ¡Vuelve pronto!</p>
-          <div class="flex justify-center gap-4">
-            <a href="/es" class="btn-primary">Volver al Inicio</a>
-            <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">Contribuir</a>
+        <div class="coming-soon">
+          <div class="coming-soon-content">
+            <h2>Contenido Próximamente</h2>
+            <p>Los artículos de esta categoría están siendo traducidos. ¡Vuelve pronto!</p>
+            <p class="category-desc">{categoryInfo.description_es}</p>
+            <div class="action-buttons">
+              <a href="/es" class="btn-primary">Volver al Inicio</a>
+              <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">Contribuir</a>
+            </div>
           </div>
         </div>
       )}
 
       <!-- Other Categories -->
-      <section class="mt-16 pt-8 border-t border-forest-100/30">
-        <h2 class="text-lg font-serif font-bold text-forest mb-6 text-center">Explorar Otros Aspectos de Taiwán</h2>
-        <div class="flex flex-wrap justify-center gap-3">
+      <section class="explore-more">
+        <h2 class="explore-title">Explorar Otros Aspectos de Taiwán</h2>
+        <div class="categories-grid">
           {otherCategories.map(cat => (
-            <a href={`/es/${cat.key}`}
-               class="flex items-center gap-2 px-4 py-2 rounded-full border text-sm font-medium hover:shadow-soft transition-all no-underline"
-               style={`border-color: ${cat.color}; color: ${cat.color};`}>
-              <span>{cat.icon}</span>
-              <span>{cat.name_es}</span>
+            <a href={`/es/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
+              <div class="category-card-name">{cat.name_es}</div>
             </a>
           ))}
         </div>
@@ -138,3 +188,415 @@ const otherCategories = Object.keys(categoryConfig)
     </div>
   </main>
 </Layout>
+
+<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
+  .category-page {
+    min-height: 100vh;
+  }
+
+  /* Container */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* Hub Content */
+  .hub-content {
+    margin: 2.5rem 0 3rem;
+    padding: 2.5rem 3rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .hub-prose {
+    font-size: 1.05rem;
+    line-height: 2;
+    color: #334155;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .hub-prose > h1:first-child {
+    display: none;
+  }
+  .hub-prose > blockquote:first-child {
+    font-size: 1.15rem;
+    font-style: normal;
+    font-weight: 600;
+    border-left: 4px solid #4a7c28;
+    padding: 1rem 1.5rem;
+    margin: 0 0 2rem 0;
+    background: #f0f7ee;
+    border-radius: 0 8px 8px 0;
+    color: #2d5016;
+    line-height: 1.9;
+  }
+  .hub-prose blockquote {
+    border-left: 3px solid #cbd5e1;
+    padding: 0.75rem 1.25rem;
+    margin: 1.5rem 0;
+    background: #f8fafc;
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    color: #475569;
+  }
+  .hub-prose h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 4rem 0 1.2rem;
+    color: #1a1a2e;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid #e2e8f0;
+    letter-spacing: 0.02em;
+  }
+  .hub-prose h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 3rem 0 0.75rem;
+    color: #334155;
+  }
+  .hub-prose p {
+    margin: 1.2rem 0;
+  }
+  .hub-prose ul, .hub-prose ol {
+    padding-left: 2rem;
+    margin: 1rem 0;
+    list-style-position: inside;
+  }
+  .hub-prose li {
+    margin: 0.5rem 0;
+    line-height: 1.8;
+  }
+  .hub-prose a {
+    color: #334155;
+    text-decoration: none;
+    border-bottom: 1.5px solid #94a3b8;
+    padding-bottom: 1px;
+    transition: all 0.2s;
+  }
+  .hub-prose a:hover {
+    color: #1a1a2e;
+    border-bottom-color: #1a1a2e;
+  }
+  .hub-prose img {
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 2rem auto;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  .hub-prose em {
+    font-size: 0.85rem;
+    color: #64748b;
+    display: block;
+    text-align: center;
+    margin: -1rem 0 1.5rem;
+  }
+  .hub-prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+  }
+  .hub-prose th, .hub-prose td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #e2e8f0;
+    text-align: left;
+  }
+  .hub-prose th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #1e293b;
+  }
+  .hub-prose tr:hover { background: #f8fafc; }
+  .hub-prose strong { color: #1e293b; }
+  .hub-prose hr {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 2.5rem 0;
+  }
+
+  /* Articles */
+  .articles-heading {
+    font-size: 1.6rem;
+    margin: 0 0 1.5rem 0;
+    color: #1e293b;
+    font-weight: 800;
+    font-family: var(--font-editorial);
+  }
+
+  .articles-section {
+    margin-bottom: 4rem;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2.5rem;
+  }
+
+  .featured-card {
+    grid-column: 1 / -1;
+    max-width: 740px;
+    margin: 0 auto;
+  }
+
+  .article-card {
+    background: #F8F1E9;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.12);
+  }
+
+  .card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-cover {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .featured-card .card-cover {
+    height: 240px;
+  }
+
+  .card-body {
+    padding: 1.5rem 1.75rem 1.75rem;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 0.75rem;
+  }
+
+  .article-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .status-tag {
+    background: var(--categoryColorLight);
+    color: var(--categoryColor);
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 500;
+  }
+
+  .featured-badge {
+    background: linear-gradient(45deg, #fbbf24, #f59e0b);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  .article-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #1A3C34;
+    font-family: var(--font-editorial);
+  }
+
+  .featured-card .article-title {
+    font-size: 1.55rem;
+  }
+
+  .article-excerpt {
+    font-size: 0.9rem;
+    color: #4a5568;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.85rem;
+  }
+
+  .reading-time {
+    color: #4a5568;
+  }
+
+  .read-more {
+    color: #006D77;
+    font-weight: 500;
+  }
+
+  /* Coming Soon */
+  .coming-soon {
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+
+  .coming-soon-content {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .coming-soon-content h2 {
+    font-size: 2.2rem;
+    color: #1f2937;
+    margin-bottom: 1rem;
+    font-weight: 800;
+    font-family: var(--font-editorial);
+  }
+
+  .coming-soon-content p {
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    font-size: 1.05rem;
+  }
+
+  .category-desc {
+    font-style: italic;
+    color: var(--categoryColor);
+    margin-bottom: 3rem !important;
+    font-weight: 500;
+  }
+
+  .action-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary, .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.95rem 1.6rem;
+    text-decoration: none;
+    border-radius: 999px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    justify-content: center;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  }
+
+  .btn-primary {
+    background: var(--categoryColor);
+    color: white;
+    border: 1px solid var(--categoryColor);
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .btn-secondary {
+    background: white;
+    color: var(--categoryColor);
+    border: 1px solid var(--categoryColor);
+  }
+
+  .btn-secondary:hover {
+    background: var(--categoryColor);
+    color: white;
+    transform: translateY(-2px);
+  }
+
+  /* Explore More */
+  .explore-more {
+    margin-top: 5rem;
+    padding: 3rem 0;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  .explore-title {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #1f2937;
+    margin-bottom: 2rem;
+    font-family: var(--font-editorial);
+  }
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+  }
+
+  .category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 1rem;
+    background: white;
+    border: 1px solid;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+
+  .category-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .category-card-name {
+    font-weight: 600;
+    font-size: 1.05rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+
+    .hub-content {
+      padding: 1.5rem 1.25rem;
+      border-radius: 16px;
+    }
+
+    .articles-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .featured-card {
+      grid-column: 1;
+    }
+
+    .action-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .categories-grid {
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    }
+  }
+</style>
