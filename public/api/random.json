@@ -1,103 +1,59 @@
 [
   {
-    "title": "Nieh Yung-jen (聶永真)",
-    "description": "Taiwanese graphic designer and AGI member, known for Golden Melody Awards visuals and presidential inauguration identities",
+    "title": "Taiwanese Curators and Artistic Cultural Construction",
+    "description": "From independent curating to museum systems, how Taiwanese curators construct contemporary art's cultural discourse and international dialogue",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/People/nieh-yung-jen",
-    "readingTime": 26,
-    "featured": false,
+    "url": "https://taiwan.md/en/Art/taiwanese-curators-and-artistic-cultural-construction",
+    "readingTime": 46,
+    "featured": true,
     "date": "2026-03-19",
-    "path": "en/People/nieh-yung-jen.md"
+    "path": "en/Art/taiwanese-curators-and-artistic-cultural-construction.md"
   },
   {
-    "title": "台灣感性：韓國人眼中的台式美學",
-    "description": "從 K-pop MV 到首爾書展，「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
+    "title": "台灣原住民文化",
+    "description": "從十六族的多元傳統到當代藝術復振，探索台灣原住民文化的深厚底蘊與現代轉化",
     "category": "Culture",
     "tags": [
-      "台灣感性",
-      "대만감성",
-      "韓國",
-      "美學",
-      "街景",
-      "文化輸出",
-      "觀光"
+      "原住民",
+      "族群文化",
+      "傳統藝術",
+      "正名運動",
+      "當代創作",
+      "語言復振"
     ],
-    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%84%9F%E6%80%A7",
-    "readingTime": 21,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Culture/台灣感性.md"
-  },
-  {
-    "title": "環保與永續發展",
-    "description": "台灣從工業污染到淨零轉型的環境覺醒之路，探討環保運動、循環經濟、企業ESG責任與2050淨零排放目標",
-    "category": "Society",
-    "tags": [
-      "環保",
-      "永續發展",
-      "淨零排放",
-      "循環經濟",
-      "ESG",
-      "氣候變遷"
-    ],
-    "url": "https://taiwan.md/Society/%E7%92%B0%E4%BF%9D%E8%88%87%E6%B0%B8%E7%BA%8C%E7%99%BC%E5%B1%95",
-    "readingTime": 24,
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96",
+    "readingTime": 23,
     "featured": true,
     "date": "2026-03-18",
-    "path": "Society/環保與永續發展.md"
+    "path": "Culture/台灣原住民文化.md"
   },
   {
-    "title": "台灣回收與資源循環文化",
-    "description": "從垃圾島到回收典範的綠色革命",
-    "category": "Lifestyle",
+    "title": "看見台灣 — 歷史上的台灣印象",
+    "description": "從大航海時代到當代，各時代各民族如何看見這座島嶼",
+    "category": "About",
     "tags": [
-      "垃圾不落地",
-      "四合一回收",
-      "環保文化",
-      "資源循環",
-      "綠色生活"
+      "quotes",
+      "history",
+      "literature",
+      "culture"
     ],
-    "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%9B%9E%E6%94%B6%E8%88%87%E8%B3%87%E6%BA%90%E5%BE%AA%E7%92%B0%E6%96%87%E5%8C%96",
-    "readingTime": 25,
-    "featured": false,
-    "date": null,
-    "path": "Lifestyle/台灣回收與資源循環文化.md"
+    "url": "https://taiwan.md/About/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3%E5%BC%95%E8%A8%80%E9%9B%86",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "About/看見台灣引言集.md"
   },
   {
-    "title": "許淑淨",
-    "description": "2012倫敦奧運舉重銀牌遞補金牌，2016里約奧運金牌",
-    "category": "People",
-    "tags": [
-      "體育",
-      "舉重",
-      "奧運",
-      "金牌",
-      "53公斤級"
-    ],
-    "url": "https://taiwan.md/People/%E8%A8%B1%E6%B7%91%E6%B7%A8",
-    "readingTime": 8,
-    "featured": false,
+    "title": "台灣客家音樂：從山歌到搖滾的文化傳承與創新",
+    "description": "探索台灣客家音樂從傳統山歌、客家八音到林生祥、交工樂隊等現代音樂人的創新歷程，以及金曲獎客語專輯的重要里程碑",
+    "category": "Music",
+    "tags": [],
+    "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E5%AE%A2%E5%AE%B6%E9%9F%B3%E6%A8%82",
+    "readingTime": 13,
+    "featured": true,
     "date": "2026-03-19",
-    "path": "People/許淑淨.md"
-  },
-  {
-    "title": "李宗盛",
-    "description": "華語流行音樂教父級製作人，以《山丘》《給自己的歌》等作品詮釋人生",
-    "category": "People",
-    "tags": [
-      "音樂",
-      "創作歌手",
-      "音樂製作人",
-      "華語流行",
-      "抒情歌曲",
-      "人生哲學"
-    ],
-    "url": "https://taiwan.md/People/%E6%9D%8E%E5%AE%97%E7%9B%9B",
-    "readingTime": 8,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "People/李宗盛.md"
+    "path": "Music/台灣客家音樂.md"
   },
   {
     "title": "地形與地質",
@@ -118,191 +74,95 @@
     "path": "Geography/地形與地質.md"
   },
   {
-    "title": "台灣音響產業發展",
-    "description": "從 OEM 代工到自有品牌，台灣音響產業的技術實力與全球市場地位",
-    "category": "Technology",
-    "tags": [
-      "音響產業",
-      "電子製造",
-      "聲學技術",
-      "Hi-Fi",
-      "專業音響"
-    ],
-    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%9F%B3%E9%9F%BF%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "Technology/台灣音響產業發展.md"
-  },
-  {
-    "title": "早餐店阿姨與社區情報網",
-    "description": "真的假的我以為阿姨只會叫人家帥哥而已——寫早餐店阿姨如何成為整個社區的情報中心",
-    "category": "Society",
-    "tags": [
-      "早餐店",
-      "社區文化",
-      "人情味",
-      "便利商店",
-      "日常生活",
-      "社區網絡"
-    ],
-    "url": "https://taiwan.md/Society/%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E8%88%87%E7%A4%BE%E5%8D%80%E6%83%85%E5%A0%B1%E7%B6%B2",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Society/早餐店阿姨與社區情報網.md"
-  },
-  {
-    "title": "林義傑",
-    "description": "極地超馬傳奇，用雙腳征服地球最極端環境的台灣跑者",
-    "category": "People",
-    "tags": [
-      "人物",
-      "超級馬拉松",
-      "極地探險",
-      "運動員",
-      "撒哈拉沙漠"
-    ],
-    "url": "https://taiwan.md/People/%E6%9E%97%E7%BE%A9%E5%82%91",
-    "readingTime": 12,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "People/林義傑.md"
-  },
-  {
-    "title": "李昂",
-    "description": "《殺夫》《迷園》作者，台灣女性主義文學先鋒",
-    "category": "People",
-    "tags": [
-      "人物",
-      "李昂",
-      "殺夫",
-      "迷園",
-      "女性主義文學",
-      "性別議題",
-      "鹿港"
-    ],
-    "url": "https://taiwan.md/People/%E6%9D%8E%E6%98%82",
-    "readingTime": 11,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "People/李昂.md"
-  },
-  {
-    "title": "台灣散文",
-    "description": "",
+    "title": "台灣原住民當代藝術",
+    "description": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
     "category": "Art",
     "tags": [
-      "文學",
-      "散文",
-      "生活書寫"
+      "原住民藝術",
+      "當代藝術",
+      "傳統工藝",
+      "身份認同",
+      "藝術家",
+      "文化復振"
     ],
-    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%95%A3%E6%96%87",
+    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%93",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Art/台灣原住民當代藝術.md"
+  },
+  {
+    "title": "侯孝賢",
+    "description": "台灣新電影浪潮領軍人物，以詩意鏡頭語言征服國際影壇的電影詩人",
+    "category": "People",
+    "tags": [
+      "人物",
+      "侯孝賢",
+      "台灣新電影",
+      "導演",
+      "威尼斯金獅獎",
+      "坎城影展",
+      "電影藝術"
+    ],
+    "url": "https://taiwan.md/People/%E4%BE%AF%E5%AD%9D%E8%B3%A2",
+    "readingTime": 28,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "People/侯孝賢.md"
+  },
+  {
+    "title": "當代台灣獨立音樂場景",
+    "description": "從地下展演到產業矩陣，解析現代台灣獨立音樂生態圈的發展脈絡與文化影響力",
+    "category": "Music",
+    "tags": [
+      "音樂",
+      "獨立音樂",
+      "live house",
+      "音樂節",
+      "地下音樂",
+      "獨立廠牌"
+    ],
+    "url": "https://taiwan.md/Music/%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%A0%B4%E6%99%AF",
+    "readingTime": 36,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "Music/獨立音樂場景.md"
+  },
+  {
+    "title": "台灣發酵食品與醃製文化",
+    "description": "從臭豆腐到豆腐乳，探索台灣獨特的發酵技術與醃製文化傳統",
+    "category": "Food",
+    "tags": [
+      "發酵食品",
+      "醃製文化",
+      "臭豆腐",
+      "豆腐乳",
+      "泡菜",
+      "傳統技術",
+      "微生物"
+    ],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%99%BC%E9%85%B5%E9%A3%9F%E5%93%81%E8%88%87%E9%86%83%E8%A3%BD%E6%96%87%E5%8C%96",
     "readingTime": 15,
     "featured": false,
     "date": "2026-03-18",
-    "path": "Art/台灣散文.md"
+    "path": "Food/台灣發酵食品與醃製文化.md"
   },
   {
-    "title": "台灣皇蛾",
-    "description": "全世界最大的蛾，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
-    "category": "Nature",
+    "title": "城市特色與區域文化",
+    "description": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
+    "category": "Geography",
     "tags": [
-      "皇蛾",
-      "蛇頭蛾",
-      "Atlas Moth",
-      "蛾類",
-      "保育",
-      "昆蟲",
-      "生態"
+      "城市",
+      "區域文化",
+      "地方特色",
+      "都市發展",
+      "文化地理"
     ],
-    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%9A%87%E8%9B%BE",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "Nature/台灣皇蛾.md"
-  },
-  {
-    "title": "台灣資安產業發展",
-    "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
-    "category": "Technology",
-    "tags": [
-      "資安產業",
-      "網路安全",
-      "數位發展",
-      "資安政策",
-      "技術創新"
-    ],
-    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-    "readingTime": 22,
+    "url": "https://taiwan.md/Geography/%E5%9F%8E%E5%B8%82%E7%89%B9%E8%89%B2%E8%88%87%E5%8D%80%E5%9F%9F%E6%96%87%E5%8C%96",
+    "readingTime": 18,
     "featured": true,
-    "date": "2026-03-19",
-    "path": "Technology/台灣資安產業發展.md"
-  },
-  {
-    "title": "Stan Lai: Master of Theater Innovation",
-    "description": "Founder of Performance Workshop, creator of Secret Love in Peach Blossom Land, godfather of Chinese-language theater",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/stan-lai-theater-innovation-master",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/stan-lai-theater-innovation-master.md"
-  },
-  {
-    "title": "Taiwan’s Parks and Everyday Leisure",
-    "description": "From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.",
-    "category": "en",
-    "tags": [
-      "Parks",
-      "Leisure",
-      "Social Life",
-      "Intergenerational",
-      "Daily Life"
-    ],
-    "url": "https://taiwan.md/en/Lifestyle/taiwan-parks-and-everyday-leisure",
-    "readingTime": 28,
-    "featured": false,
-    "date": null,
-    "path": "en/Lifestyle/taiwan-parks-and-everyday-leisure.md"
-  },
-  {
-    "title": "Soy Milk and Breakfast Shops in Taiwan",
-    "description": "From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/taiwan-soy-milk-and-breakfast-shops",
-    "readingTime": 23,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Food/taiwan-soy-milk-and-breakfast-shops.md"
-  },
-  {
-    "title": "台灣文學史",
-    "description": "",
-    "category": "Art",
-    "tags": [
-      "文學",
-      "歷史",
-      "文化"
-    ],
-    "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2",
-    "readingTime": 17,
-    "featured": false,
     "date": "2026-03-18",
-    "path": "Art/台灣文學史.md"
-  },
-  {
-    "title": "Metamorphosis of an Island: Taiwan's Industrial Transformation",
-    "description": "From an agrarian society to one of the Four Asian Tigers, and eventually a global technology hub—the story of Taiwan's economic evolution.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/industrial-transformation-taiwanese-economic-trajectory",
-    "readingTime": 26,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Economy/industrial-transformation-taiwanese-economic-trajectory.md"
+    "path": "Geography/城市特色與區域文化.md"
   },
   {
     "title": "台灣穿山甲",
@@ -321,5 +181,160 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "Nature/台灣穿山甲.md"
+  },
+  {
+    "title": "珍珠奶茶",
+    "description": "從台灣夜市小攤到全球飲品帝國，珍珠奶茶的起源爭議與文化征服之路",
+    "category": "Food",
+    "tags": [
+      "美食",
+      "珍珠奶茶",
+      "手搖飲",
+      "全球化",
+      "軟實力",
+      "文化外交"
+    ],
+    "url": "https://taiwan.md/Food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
+    "readingTime": 16,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "Food/珍珠奶茶.md"
+  },
+  {
+    "title": "台灣地方小吃地圖",
+    "description": "從基隆廟口的鼎邊糊到屏東萬巒的豬腳，從新竹的貢丸到台東的釋迦，每個城市都有專屬的味覺DNA。跟著在地人的腳步，探索台灣22個縣市最具代表性的地方小吃，品味島嶼上最真實的庶民文化。",
+    "category": "Food",
+    "tags": [
+      "地方小吃",
+      "在地美食",
+      "縣市特色",
+      "台灣美食地圖",
+      "庶民文化"
+    ],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9C%96",
+    "readingTime": 21,
+    "featured": true,
+    "date": "2026-03-20",
+    "path": "Food/台灣地方小吃地圖.md"
+  },
+  {
+    "title": "林百里",
+    "description": "廣達電腦創辦人，筆記型電腦代工之王，AI時代的轉型先鋒",
+    "category": "People",
+    "tags": [
+      "企業家",
+      "廣達電腦",
+      "ODM代工",
+      "人工智慧"
+    ],
+    "url": "https://taiwan.md/People/%E6%9E%97%E7%99%BE%E9%87%8C",
+    "readingTime": 5,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "People/林百里.md"
+  },
+  {
+    "title": "臺灣的鯨豚",
+    "description": "全球三分之一鯨豚物種的棲息地——從昔日捕鯨到今日賞鯨，臺灣如何轉身成為海洋生態研究重鎮？",
+    "category": "Nature",
+    "tags": [
+      "台灣",
+      "鯨豚",
+      "海洋",
+      "自然",
+      "保育",
+      "賞鯨",
+      "中華白海豚",
+      "黑潮"
+    ],
+    "url": "https://taiwan.md/Nature/%E8%87%BA%E7%81%A3%E7%9A%84%E9%AF%A8%E8%B1%9A",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "Nature/臺灣的鯨豚.md"
+  },
+  {
+    "title": "台灣眷村菜",
+    "description": "1949大遷移帶來的各省味道，從竹籬笆內的廚房到眷村拆遷後的味覺保存",
+    "category": "Food",
+    "tags": [
+      "眷村菜",
+      "外省菜",
+      "牛肉麵",
+      "大遷移",
+      "竹籬笆"
+    ],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E8%8F%9C",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "Food/台灣眷村菜.md"
+  },
+  {
+    "title": "台灣政治環境與選舉制度",
+    "description": "從憲法架構、中央與地方選舉機制，到深層的政黨政治文化，全面解析台灣如何在複雜的地緣政治中，維繫一個活力四射且制度嚴謹的民主社會",
+    "category": "Society",
+    "tags": [
+      "政治體制",
+      "選舉制度",
+      "半總統制",
+      "地方自治",
+      "公民社會",
+      "數位民主"
+    ],
+    "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E6%94%BF%E6%B2%BB%E7%92%B0%E5%A2%83%E8%88%87%E9%81%B8%E8%88%89%E5%88%B6%E5%BA%A6",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "Society/台灣政治環境與選舉制度.md"
+  },
+  {
+    "title": "台灣獨立音樂場景演變",
+    "description": "從地下樂團到獨立音樂，探索台灣非主流音樂三十年發展軌跡與文化意義",
+    "category": "Music",
+    "tags": [
+      "獨立音樂",
+      "地下樂團",
+      "搖滾樂",
+      "音樂產業",
+      "次文化"
+    ],
+    "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%A0%B4%E6%99%AF%E6%BC%94%E8%AE%8A",
+    "readingTime": 26,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "Music/台灣獨立音樂場景演變.md"
+  },
+  {
+    "title": "民主化",
+    "description": "台灣民主化的成功經驗具有重大的歷史與現實意義。它證明了華人社會完全可以建立成熟的民主制度，為全球第三波民主化提供了重要案例。更重要的是，這個轉型過程全程以和平手段進行，沒有經歷大規模暴力衝突，為其他威權國家的民主化提供了珍貴的參考經驗。",
+    "category": "History",
+    "tags": [
+      "歷史",
+      "民主化",
+      "政治"
+    ],
+    "url": "https://taiwan.md/History/%E6%B0%91%E4%B8%BB%E5%8C%96",
+    "readingTime": 10,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "History/民主化.md"
+  },
+  {
+    "title": "台灣資安產業發展",
+    "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
+    "category": "Technology",
+    "tags": [
+      "資安產業",
+      "網路安全",
+      "數位發展",
+      "資安政策",
+      "技術創新"
+    ],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E8%B3%87%E5%AE%89%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
+    "readingTime": 22,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "Technology/台灣資安產業發展.md"
   }
 ]

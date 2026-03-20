@@ -1,0 +1,322 @@
+---
+interface ReadingPathStep {
+  href: string;
+  title: string;
+  description: string;
+  time: string;
+}
+
+interface ReadingPathFooterItem {
+  icon: string;
+  label: string;
+}
+
+interface Props {
+  lang?: 'zh-TW' | 'en';
+  title: string;
+  subtitle: string;
+  steps: ReadingPathStep[];
+  footerItems: ReadingPathFooterItem[];
+  continueHref: string;
+  continueLabel: string;
+}
+
+const {
+  lang = 'zh-TW',
+  title,
+  subtitle,
+  steps,
+  footerItems,
+  continueHref,
+  continueLabel,
+} = Astro.props;
+
+const isEn = lang === 'en';
+---
+
+<section class:list={['reading-path', { 'reading-path--en': isEn }]}>
+  <div class="reading-path-header">
+    <h2>{title}</h2>
+    <p>{subtitle}</p>
+  </div>
+
+  <div class="reading-path-list">
+    {
+      steps.map((step, index) => (
+        <a href={step.href} class="reading-step">
+          <span class="step-number">{index + 1}</span>
+          <div class="step-content">
+            <h3>{step.title}</h3>
+            <p>{step.description}</p>
+          </div>
+          <span class="step-time">{step.time}</span>
+        </a>
+      ))
+    }
+  </div>
+
+  <div class="reading-path-footer">
+    <p>
+      {
+        footerItems.map((item, index) => (
+          <span class="footer-item">
+            {index > 0 && (
+              <span class="footer-separator" aria-hidden="true">
+                {' '}
+                |{' '}
+              </span>
+            )}
+            {item.icon} <strong>{item.label}</strong>
+          </span>
+        ))
+      }
+    </p>
+    <a href={continueHref} class="path-continue-btn">
+      {continueLabel}
+    </a>
+  </div>
+</section>
+
+<style>
+  .reading-path {
+    max-width: 900px;
+    margin: 6rem auto;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+    border-radius: 20px;
+    border: 1px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .reading-path::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2322c55e' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='m0 40 40-40h-40z'/%3E%3Cpath d='m0 40 40-40h-40z' transform='scale(.5) translate(40 0)'/%3E%3C/g%3E%3C/svg%3E");
+    opacity: 0.4;
+  }
+
+  .reading-path-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    z-index: 2;
+  }
+
+  .reading-path-header h2 {
+    font-size: 2.2rem;
+    font-weight: 300;
+    color: #166534;
+    margin-bottom: 1rem;
+    font-family:
+      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
+    letter-spacing: 0;
+  }
+
+  .reading-path--en .reading-path-header h2 {
+    font-weight: 800;
+    letter-spacing: 0.05em;
+  }
+
+  .reading-path-header p {
+    font-size: 1.2rem;
+    color: #16a34a;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+
+  .reading-path-list {
+    position: relative;
+    z-index: 2;
+    --step-marker-column: 4.5rem;
+    --step-content-column: 28rem;
+    --step-time-column: 6rem;
+    --step-column-gap: 1.5rem;
+    --step-layout-width: calc(
+      var(--step-marker-column) + var(--step-content-column) +
+        var(--step-time-column) + (var(--step-column-gap) * 2)
+    );
+  }
+
+  .reading-path-list::before {
+    content: '';
+    position: absolute;
+    left: calc(
+      50% - (var(--step-layout-width) / 2) + (var(--step-marker-column) / 2)
+    );
+    top: 4rem;
+    bottom: 4rem;
+    width: 3px;
+    background: linear-gradient(
+      180deg,
+      rgba(34, 197, 94, 0.3) 0%,
+      #22c55e 25%,
+      #16a34a 50%,
+      #15803d 75%,
+      rgba(34, 197, 94, 0.3) 100%
+    );
+    border-radius: 2px;
+    z-index: 1;
+  }
+
+  .reading-step {
+    display: grid;
+    grid-template-columns:
+      var(--step-marker-column)
+      var(--step-content-column)
+      var(--step-time-column);
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 1.5rem;
+    margin-bottom: 1rem;
+    background: white;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 2px solid rgba(34, 197, 94, 0.1);
+    position: relative;
+    z-index: 2;
+    gap: var(--step-column-gap);
+    box-shadow: 0 2px 8px rgba(22, 163, 74, 0.08);
+  }
+
+  .reading-step:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(22, 163, 74, 0.15);
+    border-color: rgba(34, 197, 94, 0.25);
+    background: rgba(240, 253, 244, 0.6);
+  }
+
+  .step-number {
+    flex-shrink: 0;
+    justify-self: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+  }
+
+  .step-content {
+    display: grid;
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 0.25rem;
+  }
+
+  .step-content h3 {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #166534;
+    margin: 0;
+    line-height: 1.2;
+    font-family:
+      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  }
+
+  .step-content p {
+    color: #16a34a;
+    font-size: 1rem;
+    line-height: 1.35;
+    margin: 0;
+    font-weight: 500;
+  }
+
+  .step-time {
+    flex-shrink: 0;
+    justify-self: center;
+    background: rgba(22, 163, 74, 0.1);
+    color: #166534;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(34, 197, 94, 0.2);
+    min-width: 4.5rem;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .reading-path-footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(34, 197, 94, 0.2);
+    position: relative;
+    z-index: 2;
+  }
+
+  .reading-path-footer p {
+    font-size: 1.1rem;
+    color: #166534;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+  }
+
+  .footer-separator {
+    color: #16a34a;
+  }
+
+  .path-continue-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #22c55e, #16a34a);
+    color: white !important;
+    padding: 1rem 2rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.25);
+  }
+
+  .path-continue-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(34, 197, 94, 0.35);
+  }
+
+  @media (max-width: 768px) {
+    .reading-path {
+      margin: 4rem 1rem;
+      padding: 2rem 1rem;
+    }
+
+    .reading-path-list::before {
+      display: none;
+    }
+
+    .reading-step {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem;
+      gap: 1rem;
+    }
+
+    .step-content h3 {
+      font-size: 1.1rem;
+    }
+
+    .step-content p {
+      font-size: 0.9rem;
+    }
+
+    .reading-path-header h2 {
+      font-size: 1.8rem;
+    }
+
+    .reading-path-header p {
+      font-size: 1rem;
+    }
+  }
+</style>

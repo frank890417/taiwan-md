@@ -1,6 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import CategoryGrid from '../../components/CategoryGrid.astro';
+import ReadingPath from '../../components/ReadingPath.astro';
+import FeatureCards from '../../components/FeatureCards.astro';
 import { getCollection } from 'astro:content';
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
@@ -102,6 +104,49 @@ for (const cat of categories) {
 }
 
 const randomArticlesData = JSON.stringify(allArticles);
+
+const readingPathSteps = [
+  {
+    href: '/en/history/democratization',
+    title: "Quiet Revolution: Taiwan's Democratization",
+    description:
+      "From authoritarianism to democracy, Asia's first peaceful transition miracle",
+    time: '6 min',
+  },
+  {
+    href: '/en/culture/ethnic-groups',
+    title: "Unity in Diversity: Taiwan's Ethnic Groups",
+    description:
+      "Four major ethnic groups weaving Taiwan's multicultural foundation",
+    time: '7 min',
+  },
+  {
+    href: '/en/food/night-market-culture',
+    title: 'The Real Taste of Taiwan: Night Market Culture',
+    description:
+      "World's densest street food social spaces with unmatched warmth",
+    time: '5 min',
+  },
+  {
+    href: '/en/technology/semiconductor-industry',
+    title: 'Silicon Shield: Semiconductor Industry',
+    description: 'How TSMC made a small island the heart of global technology',
+    time: '8 min',
+  },
+  {
+    href: '/en/lifestyle/convenience-store-culture',
+    title: 'Life Operating System: Convenience Stores',
+    description:
+      "More than stores - they're the infrastructure of an entire nation",
+    time: '4 min',
+  },
+];
+
+const readingPathFooterItems = [
+  { icon: '⏱️', label: 'Total 30 minutes' },
+  { icon: '🎯', label: '5 key domains' },
+  { icon: '🌟', label: 'Complete Taiwan overview' },
+];
 ---
 
 <Layout
@@ -297,45 +342,36 @@ const randomArticlesData = JSON.stringify(allArticles);
     </div>
   </section>
 
-  <section class="features">
-    <h2 class="section-title">Why Taiwan.md?</h2>
-    <div class="features-grid">
-      <div class="feature-card">
-        <div class="feature-icon">🎯</div>
-        <div class="feature-content">
-          <h3>Curated Perspectives</h3>
-          <p>Carefully curated deep narratives, not encyclopedic listings</p>
-        </div>
-      </div>
-      <div class="feature-card">
-        <div class="feature-icon">🤖</div>
-        <div class="feature-content">
-          <h3>AI-Friendly Design</h3>
-          <p>Structured content that helps AI understand Taiwan's complexity</p>
-        </div>
-      </div>
-      <div class="feature-card">
-        <div class="feature-icon">🌍</div>
-        <div class="feature-content">
-          <h3>Bilingual Global Vision</h3>
-          <p>
-            Starting from local perspectives, telling Taiwan's story in global
-            languages
-          </p>
-        </div>
-      </div>
-      <div class="feature-card">
-        <div class="feature-icon">📚</div>
-        <div class="feature-content">
-          <h3>Complete Multi-dimensional</h3>
-          <p>
-            Covering 12+ domains, presenting Taiwan's three-dimensional complete
-            picture
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
+  <FeatureCards
+    lang="en"
+    sectionTitle="Why Taiwan.md?"
+    cards={[
+      {
+        icon: '🎯',
+        title: 'Curated Perspectives',
+        description:
+          'Carefully curated deep narratives, not encyclopedic listings',
+      },
+      {
+        icon: '🤖',
+        title: 'AI-Friendly Design',
+        description:
+          "Structured content that helps AI understand Taiwan's complexity",
+      },
+      {
+        icon: '🌍',
+        title: 'Bilingual Global Vision',
+        description:
+          "Starting from local perspectives, telling Taiwan's story in global languages",
+      },
+      {
+        icon: '📚',
+        title: 'Complete Multi-dimensional',
+        description:
+          "Covering 12+ domains, presenting Taiwan's three-dimensional complete picture",
+      },
+    ]}
+  />
 
   <!-- Random Discovery Taiwan -->
   <section class="random-discovery">
@@ -351,78 +387,15 @@ const randomArticlesData = JSON.stringify(allArticles);
     </div>
   </section>
 
-  <!-- 5 Essential Taiwan Articles -->
-  <section class="reading-path">
-    <div class="reading-path-header">
-      <h2>📖 Don't know where to start?</h2>
-      <p>
-        Discover the real Taiwan in 30 minutes with these 5 essential articles
-      </p>
-    </div>
-    <div class="reading-path-list">
-      <a href="/en/history/democratization" class="reading-step">
-        <span class="step-number">1</span>
-        <div class="step-content">
-          <h3>Quiet Revolution: Taiwan's Democratization</h3>
-          <p>
-            From authoritarianism to democracy, Asia's first peaceful transition
-            miracle
-          </p>
-        </div>
-        <span class="step-time">6 min</span>
-      </a>
-
-      <a href="/en/culture/ethnic-groups" class="reading-step">
-        <span class="step-number">2</span>
-        <div class="step-content">
-          <h3>Unity in Diversity: Taiwan's Ethnic Groups</h3>
-          <p>
-            Four major ethnic groups weaving Taiwan's multicultural foundation
-          </p>
-        </div>
-        <span class="step-time">7 min</span>
-      </a>
-
-      <a href="/en/food/night-market-culture" class="reading-step">
-        <span class="step-number">3</span>
-        <div class="step-content">
-          <h3>The Real Taste of Taiwan: Night Market Culture</h3>
-          <p>World's densest street food social spaces with unmatched warmth</p>
-        </div>
-        <span class="step-time">5 min</span>
-      </a>
-
-      <a href="/en/technology/semiconductor-industry" class="reading-step">
-        <span class="step-number">4</span>
-        <div class="step-content">
-          <h3>Silicon Shield: Semiconductor Industry</h3>
-          <p>How TSMC made Taiwan the heart of global technology</p>
-        </div>
-        <span class="step-time">8 min</span>
-      </a>
-
-      <a href="/en/lifestyle/convenience-store-culture" class="reading-step">
-        <span class="step-number">5</span>
-        <div class="step-content">
-          <h3>Life Operating System: Convenience Stores</h3>
-          <p>
-            More than stores - they're the infrastructure of an entire nation
-          </p>
-        </div>
-        <span class="step-time">4 min</span>
-      </a>
-    </div>
-
-    <div class="reading-path-footer">
-      <p>
-        ⏱️ <strong>Total 30 minutes</strong> | 🎯 <strong>5 key domains</strong> |
-        🌟 <strong>Complete Taiwan overview</strong>
-      </p>
-      <a href="#categories" class="path-continue-btn"
-        >Continue exploring more topics →</a
-      >
-    </div>
-  </section>
+  <ReadingPath
+    lang="en"
+    title="📖 Don't know where to start?"
+    subtitle="Discover the real Taiwan in 30 minutes with these 5 essential articles"
+    steps={readingPathSteps}
+    footerItems={readingPathFooterItems}
+    continueHref="#categories"
+    continueLabel="Continue exploring more topics →"
+  />
 
   <section class="language-statement">
     <div class="language-inner">
@@ -1110,190 +1083,6 @@ const randomArticlesData = JSON.stringify(allArticles);
     line-height: 1.6;
   }
 
-  /* ===== 5 Essential Taiwan Articles ===== */
-  .reading-path {
-    max-width: 900px;
-    margin: 6rem auto;
-    padding: 3rem 2rem;
-    background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
-    border-radius: 20px;
-    border: 1px solid rgba(34, 197, 94, 0.1);
-    position: relative;
-    overflow: hidden;
-  }
-
-  .reading-path::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2322c55e' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='m0 40 40-40h-40z'/%3E%3Cpath d='m0 40 40-40h-40z' transform='scale(.5) translate(40 0)'/%3E%3C/g%3E%3C/svg%3E");
-    opacity: 0.4;
-  }
-
-  .reading-path-header {
-    text-align: center;
-    margin-bottom: 3rem;
-    position: relative;
-    z-index: 2;
-  }
-
-  .reading-path-header h2 {
-    font-size: 2.2rem;
-    font-weight: 800;
-    color: #166534;
-    margin-bottom: 1rem;
-    font-family:
-      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-    letter-spacing: 0.05em;
-  }
-
-  .reading-path-header p {
-    font-size: 1.2rem;
-    color: #16a34a;
-    font-weight: 600;
-    line-height: 1.6;
-  }
-
-  .reading-path-list {
-    position: relative;
-    z-index: 2;
-  }
-
-  /* Path connection line */
-  .reading-path-list::before {
-    content: '';
-    position: absolute;
-    left: 2.5rem;
-    top: 4rem;
-    bottom: 4rem;
-    width: 3px;
-    background: linear-gradient(
-      180deg,
-      rgba(34, 197, 94, 0.3) 0%,
-      #22c55e 25%,
-      #16a34a 50%,
-      #15803d 75%,
-      rgba(34, 197, 94, 0.3) 100%
-    );
-    border-radius: 2px;
-    z-index: 1;
-  }
-
-  .reading-step {
-    display: flex;
-    align-items: center;
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-    background: white;
-    border-radius: 16px;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    border: 2px solid rgba(34, 197, 94, 0.1);
-    position: relative;
-    z-index: 2;
-    gap: 1.5rem;
-    box-shadow: 0 2px 8px rgba(22, 163, 74, 0.08);
-  }
-
-  .reading-step:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 25px rgba(22, 163, 74, 0.15);
-    border-color: rgba(34, 197, 94, 0.25);
-    background: rgba(240, 253, 244, 0.6);
-  }
-
-  .step-number {
-    flex-shrink: 0;
-    width: 3rem;
-    height: 3rem;
-    border-radius: 50%;
-    background: linear-gradient(135deg, #22c55e, #16a34a);
-    color: white;
-    font-size: 1.3rem;
-    font-weight: 800;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
-  }
-
-  .step-content {
-    flex: 1;
-  }
-
-  .step-content h3 {
-    font-size: 1.3rem;
-    font-weight: 700;
-    color: #166534;
-    margin-bottom: 0.5rem;
-    line-height: 1.3;
-    font-family:
-      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-  }
-
-  .step-content p {
-    color: #16a34a;
-    font-size: 1rem;
-    line-height: 1.5;
-    margin: 0;
-    font-weight: 500;
-  }
-
-  .step-time {
-    flex-shrink: 0;
-    background: rgba(22, 163, 74, 0.1);
-    color: #166534;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 600;
-    border: 1px solid rgba(34, 197, 94, 0.2);
-  }
-
-  .reading-path-footer {
-    text-align: center;
-    margin-top: 3rem;
-    padding-top: 2rem;
-    border-top: 1px solid rgba(34, 197, 94, 0.2);
-    position: relative;
-    z-index: 2;
-  }
-
-  .reading-path-footer p {
-    font-size: 1.1rem;
-    color: #16a34a;
-    margin-bottom: 1.5rem;
-    font-weight: 600;
-  }
-
-  .path-continue-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.8rem 2rem;
-    background: linear-gradient(135deg, #22c55e, #16a34a);
-    color: white;
-    text-decoration: none;
-    border-radius: 50px;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
-  }
-
-  .path-continue-btn:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(34, 197, 94, 0.4);
-    background: linear-gradient(135deg, #16a34a, #15803d);
-  }
-
-  /* ===== FEATURES SECTION upgrade ===== */
-  .features {
-    margin: 6rem 0;
-  }
-
   .language-statement {
     max-width: 800px;
     margin: 0 auto 4rem;
@@ -1324,61 +1113,6 @@ const randomArticlesData = JSON.stringify(allArticles);
     color: #78716c;
     font-size: 0.9rem;
     line-height: 1.7;
-  }
-
-  .section-title {
-    font-size: 2.5rem;
-    text-align: center;
-    margin-bottom: 1rem;
-    color: #1f2937;
-    font-weight: 700;
-  }
-
-  .features-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-    margin: 3rem 0;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .feature-card {
-    display: flex;
-    align-items: center;
-    gap: 1.5rem;
-    padding: 2rem;
-    background: white;
-    border-radius: 16px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
-    border: 1px solid #f1f5f9;
-    transition: all 0.3s ease;
-  }
-
-  .feature-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
-    border-color: #e2e8f0;
-  }
-
-  .feature-icon {
-    font-size: 3rem;
-    flex-shrink: 0;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
-  }
-
-  .feature-content h3 {
-    font-size: 1.25rem;
-    margin-bottom: 0.5rem;
-    color: #1f2937;
-    font-weight: 600;
-  }
-
-  .feature-content p {
-    color: #6b7280;
-    line-height: 1.6;
-    margin: 0;
   }
 
   /* ===== CATEGORIES SECTION ===== */
@@ -1530,6 +1264,8 @@ const randomArticlesData = JSON.stringify(allArticles);
     gap: 0.5rem;
     position: relative;
     z-index: 2;
+    max-width: 800px;
+    margin: 0 auto;
   }
 
   .update-item {
@@ -1627,7 +1363,6 @@ const randomArticlesData = JSON.stringify(allArticles);
     padding: 4rem 2rem;
     margin: 6rem -1rem 0;
     text-align: center;
-    border-radius: 16px;
     position: relative;
     overflow: hidden;
   }
@@ -1763,7 +1498,7 @@ const randomArticlesData = JSON.stringify(allArticles);
   .contribute {
     background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     padding: 5rem 2rem;
-    margin: 6rem -1rem 0;
+    margin: 0;
     text-align: center;
     border-radius: 16px;
     position: relative;
@@ -1937,15 +1672,8 @@ const randomArticlesData = JSON.stringify(allArticles);
       height: 35%;
     }
 
-    .features-grid {
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-
-    .feature-card {
-      flex-direction: column;
-      text-align: center;
-      gap: 1rem;
+    .language-statement {
+      margin: 0 1rem 4rem;
     }
 
     .contribute-buttons {
@@ -2029,39 +1757,6 @@ const randomArticlesData = JSON.stringify(allArticles);
 
     .random-subtitle {
       font-size: 0.85rem;
-    }
-
-    /* Reading path responsive */
-    .reading-path {
-      margin: 4rem 1rem;
-      padding: 2rem 1rem;
-    }
-
-    .reading-path-list::before {
-      display: none; /* Hide connection line on mobile */
-    }
-
-    .reading-step {
-      flex-direction: column;
-      text-align: center;
-      padding: 1.5rem;
-      gap: 1rem;
-    }
-
-    .step-content h3 {
-      font-size: 1.1rem;
-    }
-
-    .step-content p {
-      font-size: 0.9rem;
-    }
-
-    .reading-path-header h2 {
-      font-size: 1.8rem;
-    }
-
-    .reading-path-header p {
-      font-size: 1rem;
     }
   }
 

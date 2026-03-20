@@ -1,0 +1,119 @@
+---
+interface FeatureCard {
+  icon: string;
+  title: string;
+  description: string;
+}
+
+interface Props {
+  lang?: 'zh-TW' | 'en';
+  sectionTitle: string;
+  cards: FeatureCard[];
+}
+
+const { lang = 'zh-TW', sectionTitle, cards } = Astro.props;
+
+const isZh = lang === 'zh-TW';
+---
+
+<section class:list={['features', { 'features--zh': isZh }]}>
+  <h2 class="section-title">{sectionTitle}</h2>
+  <div class="features-grid">
+    {
+      cards.map((card) => (
+        <div class="feature-card">
+          <div class="feature-icon">{card.icon}</div>
+          <div class="feature-content">
+            <h3>{card.title}</h3>
+            <p>{card.description}</p>
+          </div>
+        </div>
+      ))
+    }
+  </div>
+  <slot />
+</section>
+
+<style>
+  .features {
+    margin: 6rem 0;
+  }
+
+  .section-title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #1f2937;
+    font-weight: 700;
+  }
+
+  .features--zh .section-title {
+    font-weight: 800;
+    font-family:
+      'jf-lanyanghei', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .feature-card {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 2rem;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    border: 1px solid #f1f5f9;
+    transition: all 0.3s ease;
+  }
+
+  .feature-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+    border-color: #e2e8f0;
+  }
+
+  .feature-icon {
+    font-size: 3rem;
+    flex-shrink: 0;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+  }
+
+  .feature-content h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+    color: #1f2937;
+    font-weight: 600;
+  }
+
+  .feature-content p {
+    color: #6b7280;
+    line-height: 1.6;
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    .features {
+      margin: 4rem 1rem;
+    }
+
+    .features-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .feature-card {
+      flex-direction: column;
+      text-align: center;
+      gap: 1rem;
+    }
+  }
+</style>
