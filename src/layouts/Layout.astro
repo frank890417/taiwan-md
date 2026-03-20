@@ -191,8 +191,8 @@ const navConfig = [
   { path: '/graph', label: i18n.nav.graph },
   { path: '/about', label: i18n.nav.about },
   { path: '/contribute', label: i18n.nav.contribute },
-  { path: '/resources', label: i18n.nav.resources },
   { path: '/data', label: i18n.nav.data },
+  { path: '/resources', label: i18n.nav.resources },
 ].map((item) => {
   const fullPath = isEn ? `/en${item.path}` : item.path;
   const pathWithoutHash = fullPath.replace(/#.*$/, '');
