@@ -6,7 +6,6 @@ import markersData from '../data/map-markers.json';
 <Layout title="台灣地圖 Map" description="以地圖視角探索 Taiwan.md 的內容脈絡">
   <div class="map-page">
 
-    <!-- JSON 資料藏在 HTML 裡 -->
     <div id="mapData" data-markers={JSON.stringify(markersData)} style="display:none"></div>
 
     <section class="map-hero">
@@ -61,9 +60,19 @@ import markersData from '../data/map-markers.json';
               <stop offset="100%" stop-color="#86efac"></stop>
             </linearGradient>
           </defs>
-          <g id="taiwanCounties"></g>
-          <g id="markers"></g>
+          <!-- zoom group wraps both counties and markers -->
+          <g id="zoomGroup">
+            <g id="taiwanCounties"></g>
+            <g id="markers"></g>
+          </g>
         </svg>
+
+        <!-- Zoom controls -->
+        <div class="zoom-controls">
+          <button class="zoom-btn" id="zoomIn">＋</button>
+          <button class="zoom-btn" id="zoomOut">－</button>
+          <button class="zoom-btn" id="resetZoom">⌂</button>
+        </div>
 
         <div id="tooltip" class="tooltip">
           <div class="tooltip-title"></div>
@@ -173,7 +182,31 @@ import markersData from '../data/map-markers.json';
     position: relative; background: #ffffff; border: 1px solid #e5e7eb;
     border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05);
   }
-  .taiwan-svg { width: 100%; height: auto; max-height: 700px; cursor: pointer; }
+  .taiwan-svg {
+    width: 100%; height: auto; max-height: 700px;
+    cursor: grab;
+  }
+  .taiwan-svg:active { cursor: grabbing; }
+
+  /* Zoom controls */
+  .zoom-controls {
+    position: absolute;
+    bottom: 2rem;
+    right: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .zoom-btn {
+    width: 36px; height: 36px;
+    background: white; border: 1px solid #e5e7eb;
+    border-radius: 8px; cursor: pointer;
+    font-size: 1.1rem; font-weight: 600;
+    color: #374151; transition: all 0.2s;
+    display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+  .zoom-btn:hover { background: #f0fdf4; border-color: #16a34a; color: #16a34a; }
 
   :global(.county) { fill: #bbf7d0; stroke: #4ade80; stroke-width: 0.8; transition: fill 0.2s; }
   :global(.county:hover) { fill: #86efac; }
@@ -187,6 +220,7 @@ import markersData from '../data/map-markers.json';
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)) brightness(1.1);
   }
   :global(.marker.hidden) { opacity: 0; pointer-events: none; }
+
   .tooltip {
     position: absolute; background: rgba(0,0,0,0.9); color: white;
     padding: 0.75rem; border-radius: 8px; font-size: 0.85rem;
@@ -277,6 +311,8 @@ import markersData from '../data/map-markers.json';
 
   let activeRegionFilter = 'all';
   let activeCategoryFilter = 'all';
+  let mapZoom = null;
+  let svgSelection = null;
 
   async function drawTaiwanMap() {
     try {
@@ -288,6 +324,7 @@ import markersData from '../data/map-markers.json';
       const projection = d3.geoMercator().fitSize([800, 1000], geojson);
       const pathGenerator = d3.geoPath().projection(projection);
 
+      // 畫縣市
       const group = document.getElementById('taiwanCounties');
       geojson.features.forEach((feature) => {
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
@@ -301,6 +338,7 @@ import markersData from '../data/map-markers.json';
         group.appendChild(path);
       });
 
+      // 動態產生 markers
       const markersGroup = document.getElementById('markers');
       markersData.forEach((m) => {
         const [x, y] = projection([m.lng, m.lat]);
@@ -317,6 +355,21 @@ import markersData from '../data/map-markers.json';
         circle.setAttribute('data-desc', m.desc);
         markersGroup.appendChild(circle);
       });
+
+      // D3 zoom
+      const svg = document.getElementById('taiwanMap');
+      svgSelection = d3.select(svg);
+      mapZoom = d3.zoom()
+        .scaleExtent([1, 8])
+        .on('zoom', (event) => {
+          document.getElementById('zoomGroup').setAttribute('transform', event.transform);
+          const scale = event.transform.k;
+          document.querySelectorAll('.marker').forEach((marker) => {
+            const originalR = 8;
+            marker.setAttribute('r', String(originalR / scale));
+          });
+        });
+      svgSelection.call(mapZoom);
 
     } catch (err) {
       console.warn('Taiwan TopoJSON 載入失敗，使用備用輪廓', err);
@@ -338,6 +391,7 @@ import markersData from '../data/map-markers.json';
     const regionFilters = document.getElementById('regionFilters');
     const categoryFilters = document.getElementById('categoryFilters');
 
+    // Tooltip + click
     svg.addEventListener('mouseover', (e) => {
       const marker = e.target.closest('.marker');
       if (!marker) return;
@@ -364,6 +418,26 @@ import markersData from '../data/map-markers.json';
       showArticleInfo(marker);
     });
 
+    // Zoom buttons
+    document.getElementById('zoomIn').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 1.5);
+      }
+    });
+
+    document.getElementById('zoomOut').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 0.67);
+      }
+    });
+
+    document.getElementById('resetZoom').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(500).call(mapZoom.transform, d3.zoomIdentity);
+      }
+    });
+
+    // Region filter
     regionFilters.addEventListener('click', (e) => {
       if (!e.target.classList.contains('filter-btn')) return;
       regionFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
@@ -372,6 +446,7 @@ import markersData from '../data/map-markers.json';
       applyFilters();
     });
 
+    // Category filter
     categoryFilters.addEventListener('click', (e) => {
       if (!e.target.classList.contains('filter-btn')) return;
       categoryFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));

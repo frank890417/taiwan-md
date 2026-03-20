@@ -6,7 +6,6 @@ import markersData from '../../data/map-markers.json';
 <Layout title="Taiwan Map" description="Explore Taiwan.md through a map-first lens" lang="en">
   <div class="map-page">
 
-    <!-- JSON data stored in HTML for inline script access -->
     <div id="mapData" data-markers={JSON.stringify(markersData)} style="display:none"></div>
 
     <section class="map-hero">
@@ -61,9 +60,18 @@ import markersData from '../../data/map-markers.json';
               <stop offset="100%" stop-color="#86efac"></stop>
             </linearGradient>
           </defs>
-          <g id="taiwanCounties"></g>
-          <g id="markers"></g>
+          <g id="zoomGroup">
+            <g id="taiwanCounties"></g>
+            <g id="markers"></g>
+          </g>
         </svg>
+
+        <!-- Zoom controls -->
+        <div class="zoom-controls">
+          <button class="zoom-btn" id="zoomIn">＋</button>
+          <button class="zoom-btn" id="zoomOut">－</button>
+          <button class="zoom-btn" id="resetZoom">⌂</button>
+        </div>
 
         <div id="tooltip" class="tooltip">
           <div class="tooltip-title"></div>
@@ -173,11 +181,23 @@ import markersData from '../../data/map-markers.json';
     position: relative; background: #ffffff; border: 1px solid #e5e7eb;
     border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05);
   }
-  .taiwan-svg { width: 100%; height: auto; max-height: 700px; cursor: pointer; }
+  .taiwan-svg { width: 100%; height: auto; max-height: 700px; cursor: grab; }
+  .taiwan-svg:active { cursor: grabbing; }
+
+  .zoom-controls {
+    position: absolute; bottom: 2rem; right: 2rem;
+    display: flex; flex-direction: column; gap: 0.25rem;
+  }
+  .zoom-btn {
+    width: 36px; height: 36px; background: white; border: 1px solid #e5e7eb;
+    border-radius: 8px; cursor: pointer; font-size: 1.1rem; font-weight: 600;
+    color: #374151; transition: all 0.2s; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+  .zoom-btn:hover { background: #f0fdf4; border-color: #16a34a; color: #16a34a; }
 
   :global(.county) { fill: #bbf7d0; stroke: #4ade80; stroke-width: 0.8; transition: fill 0.2s; }
   :global(.county:hover) { fill: #86efac; }
-
   :global(.marker) {
     cursor: pointer; transition: all 0.3s ease;
     filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
@@ -278,6 +298,8 @@ import markersData from '../../data/map-markers.json';
 
   let activeRegionFilter = 'all';
   let activeCategoryFilter = 'all';
+  let mapZoom = null;
+  let svgSelection = null;
 
   async function drawTaiwanMap() {
     try {
@@ -318,6 +340,20 @@ import markersData from '../../data/map-markers.json';
         circle.setAttribute('data-desc', m.desc);
         markersGroup.appendChild(circle);
       });
+
+      const svg = document.getElementById('taiwanMap');
+      svgSelection = d3.select(svg);
+      mapZoom = d3.zoom()
+        .scaleExtent([1, 8])
+        .on('zoom', (event) => {
+          document.getElementById('zoomGroup').setAttribute('transform', event.transform);
+          const scale = event.transform.k;
+          document.querySelectorAll('.marker').forEach((marker) => {
+            const originalR = 8;
+            marker.setAttribute('r', String(originalR / scale));
+          });
+        });
+      svgSelection.call(mapZoom);
 
     } catch (err) {
       console.warn('Taiwan TopoJSON failed, using fallback', err);
@@ -363,6 +399,24 @@ import markersData from '../../data/map-markers.json';
       const marker = e.target.closest('.marker');
       if (!marker) return;
       showArticleInfo(marker);
+    });
+
+    document.getElementById('zoomIn').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 1.5);
+      }
+    });
+
+    document.getElementById('zoomOut').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(300).call(mapZoom.scaleBy, 0.67);
+      }
+    });
+
+    document.getElementById('resetZoom').addEventListener('click', () => {
+      if (svgSelection && mapZoom) {
+        svgSelection.transition().duration(500).call(mapZoom.transform, d3.zoomIdentity);
+      }
     });
 
     regionFilters.addEventListener('click', (e) => {
