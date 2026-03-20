@@ -1151,9 +1151,9 @@ const navConfig = [
 
   /* Global link styles */
   main
-    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(
+    a:not(.nav-link):not([class*='btn']):not(.card-link):not(
       .logo
-    ):not(.category-card):not(.lang-btn):not(.floating-md):not(.search-item) {
+    ):not(.category-card):not(.floating-md):not(.search-item) {
     color: #475569;
     text-decoration: none;
     border-bottom: 1px solid #cbd5e1;
@@ -1161,9 +1161,9 @@ const navConfig = [
     transition: all 0.2s ease;
   }
   main
-    a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.card-link):not(
+    a:not(.nav-link):not([class*='btn']):not(.card-link):not(
       .logo
-    ):not(.category-card):not(.lang-btn):not(.floating-md):not(
+    ):not(.category-card):not(.floating-md):not(
       .search-item
     ):hover {
     color: #1a1a2e;
@@ -1171,9 +1171,9 @@ const navConfig = [
   }
   /* External links (with target="_blank") get an icon */
   main
-    a[target='_blank']:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(
+    a[target='_blank']:not(.nav-link):not([class*='btn']):not(
       .card-link
-    ):not(.logo):not(.category-card):not(.lang-btn):not(.floating-md)::after {
+    ):not(.logo):not(.category-card):not(.floating-md)::after {
     content: '↗';
     font-size: 0.8em;
     margin-left: 0.2em;
