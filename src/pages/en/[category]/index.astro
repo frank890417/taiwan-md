@@ -202,6 +202,7 @@ const otherCategories = Object.keys(categoryConfig)
           {otherCategories.map(cat => (
             <a href={`/en/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
               <div class="category-card-name">{cat.name_en}</div>
+              <div class="category-card-desc">{cat.description_en}</div>
             </a>
           ))}
         </div>
@@ -590,6 +591,14 @@ const otherCategories = Object.keys(categoryConfig)
   .category-card-name {
     font-weight: 600;
     font-size: 1.05rem;
+  }
+
+  .category-card-desc {
+    font-size: 0.78rem;
+    color: #6b7280;
+    line-height: 1.5;
+    margin-top: 0.4rem;
+    font-weight: 400;
   }
 
   /* Responsive */

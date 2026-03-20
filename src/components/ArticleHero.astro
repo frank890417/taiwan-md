@@ -1,0 +1,193 @@
+---
+/**
+ * ArticleHero — Premium hero with cover photo, dark overlay gradient,
+ * breadcrumb, large title + subtitle, TTS button.
+ * Fully i18n-aware: breadcrumb labels and URLs adapt to lang.
+ */
+import TextToSpeech from './TextToSpeech.astro';
+import { t, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  description?: string;
+  category: string;
+  categoryName: string;
+  categoryColor: string;
+  coverImage?: string;
+  slug: string;
+  lang?: Locale;
+}
+
+const {
+  title,
+  description,
+  category,
+  categoryName,
+  categoryColor,
+  coverImage,
+  slug,
+  lang = 'zh-TW',
+} = Astro.props;
+
+const langPrefix = getLangPrefix(lang);
+const homeLabel = t('article.home', lang);
+const homeUrl = langPrefix ? `${langPrefix}/` : '/';
+const categoryUrl = `${langPrefix}/${category}`;
+---
+
+<section class="article-hero" style={coverImage ? `--hero-bg: url('${coverImage}')` : ''}>
+  <!-- Dark gradient overlay -->
+  <div class="hero-overlay" aria-hidden="true"></div>
+
+  <div class="hero-inner">
+    <!-- Breadcrumb -->
+    <nav class="hero-breadcrumb" aria-label="Breadcrumb">
+      <a href={homeUrl} class="crumb">{homeLabel}</a>
+      <svg class="crumb-sep" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
+      <a href={categoryUrl} class="crumb">{categoryName}</a>
+      <svg class="crumb-sep" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
+      <span class="crumb crumb--current" aria-current="page">{title}</span>
+    </nav>
+
+    <!-- Category badge -->
+    <div class="hero-badge" style={`border-color: ${categoryColor}40; color: ${categoryColor};`}>
+      {categoryName}
+    </div>
+
+    <!-- Title -->
+    <h1 class="hero-title">{title}</h1>
+
+    {description && (
+      <p class="hero-subtitle">{description}</p>
+    )}
+
+    <!-- TTS -->
+    <div class="hero-tts">
+      <TextToSpeech lang={lang as any} />
+    </div>
+  </div>
+</section>
+
+<style>
+  .article-hero {
+    position: relative;
+    min-height: 52vh;
+    display: flex;
+    align-items: flex-end;
+    background-image: var(--hero-bg, none);
+    background-size: cover;
+    background-position: center 30%;
+    background-color: #1A3C34;
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(10, 22, 19, 0.35) 0%,
+      rgba(10, 22, 19, 0.55) 45%,
+      rgba(10, 22, 19, 0.82) 100%
+    );
+  }
+
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 900px;
+    margin: 0 auto;
+    width: 100%;
+    padding: 5rem 2rem 3.5rem;
+  }
+
+  /* Breadcrumb */
+  .hero-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-bottom: 1.25rem;
+    flex-wrap: wrap;
+  }
+  .crumb {
+    font-family: 'Inter', 'Satoshi', system-ui, sans-serif;
+    font-size: 0.78rem;
+    color: rgba(248, 241, 233, 0.65);
+    text-decoration: none;
+    transition: color 0.2s;
+    white-space: nowrap;
+  }
+  .crumb:hover { color: #F8F1E9; }
+  .crumb--current {
+    color: rgba(248, 241, 233, 0.85);
+    max-width: 24ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .crumb-sep {
+    color: rgba(248, 241, 233, 0.3);
+    flex-shrink: 0;
+  }
+
+  /* Badge */
+  .hero-badge {
+    display: inline-block;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    padding: 0.3rem 0.9rem;
+    border: 1px solid;
+    border-radius: 100px;
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(6px);
+    margin-bottom: 1.1rem;
+  }
+
+  /* Title */
+  .hero-title {
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    font-weight: 700;
+    color: #F8F1E9;
+    line-height: 1.2;
+    letter-spacing: 0.01em;
+    margin-bottom: 1rem;
+    max-width: 820px;
+  }
+
+  .hero-subtitle {
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(0.95rem, 2.2vw, 1.1rem);
+    color: rgba(248, 241, 233, 0.75);
+    line-height: 1.75;
+    max-width: 680px;
+    margin-bottom: 1.75rem;
+  }
+
+  /* TTS */
+  .hero-tts :global(.tts-controls) {
+    --btn-color: rgba(248, 241, 233, 0.8);
+    color: var(--btn-color);
+  }
+  .hero-tts :global(.btn-ghost) {
+    color: rgba(248, 241, 233, 0.8);
+    background: rgba(255,255,255,0.1);
+    border: 1px solid rgba(255,255,255,0.2);
+    backdrop-filter: blur(4px);
+    border-radius: 100px;
+    padding: 0.45rem 1.1rem;
+    font-size: 0.82rem;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  .hero-tts :global(.btn-ghost:hover) {
+    background: rgba(255,255,255,0.18);
+    color: #F8F1E9;
+  }
+
+  @media (max-width: 640px) {
+    .hero-inner { padding: 3.5rem 1.25rem 2.5rem; }
+    .hero-title { font-size: 1.85rem; }
+  }
+</style>

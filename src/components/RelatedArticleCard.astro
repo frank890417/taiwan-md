@@ -1,0 +1,157 @@
+---
+/**
+ * RelatedArticleCard — Premium card with cover image, category badge, title, description.
+ * Used in the related articles grid below the article body.
+ */
+import { getLangPrefix, t } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  title: string;
+  slug: string;
+  category: string;
+  categoryName: string;
+  categoryColor: string;
+  description?: string;
+  coverImage?: string;
+  lang?: Locale;
+}
+
+const {
+  title,
+  slug,
+  category,
+  categoryName,
+  categoryColor,
+  description,
+  coverImage,
+  lang = 'zh-TW',
+} = Astro.props;
+
+const langPrefix = getLangPrefix(lang);
+const articleHref = `${langPrefix}/${category}/${slug}`;
+const readMoreLabel = lang === 'es' ? 'Leer artículo' : lang === 'en' ? 'Read article' : '閱讀全文';
+---
+
+<a href={articleHref} class="related-card" aria-label={title}>
+  <div class="card-image" style={coverImage ? `background-image: url('${coverImage}')` : ''} aria-hidden="true">
+    {!coverImage && (
+      <div class="card-image-fallback" style={`background: linear-gradient(135deg, ${categoryColor}22, ${categoryColor}44);`}>
+        <span class="fallback-letter" style={`color: ${categoryColor};`}>{title[0]}</span>
+      </div>
+    )}
+    <div class="card-image-overlay" aria-hidden="true"></div>
+  </div>
+  <div class="card-body">
+    <span class="card-badge" style={`color: ${categoryColor}; background: ${categoryColor}14; border-color: ${categoryColor}28;`}>
+      {categoryName}
+    </span>
+    <h3 class="card-title">{title}</h3>
+    {description && <p class="card-desc">{description}</p>}
+    <span class="card-cta" style={`color: ${categoryColor};`}>
+      {readMoreLabel}
+      <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><polyline points="9 18 15 12 9 6"/></svg>
+    </span>
+  </div>
+</a>
+
+<style>
+  .related-card {
+    display: flex;
+    flex-direction: column;
+    background: #FFFFFF;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(26,60,52,0.07);
+    box-shadow: 0 2px 12px rgba(26,60,52,0.05);
+    text-decoration: none;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  .related-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px rgba(26,60,52,0.12);
+  }
+
+  .card-image {
+    position: relative;
+    height: 160px;
+    background-size: cover;
+    background-position: center;
+    background-color: #E8EFEC;
+    overflow: hidden;
+  }
+  .card-image-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to bottom, transparent 40%, rgba(10,22,19,0.35) 100%);
+  }
+  .card-image-fallback {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .fallback-letter {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+    opacity: 0.5;
+  }
+
+  .card-body {
+    padding: 1.25rem 1.5rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 0.5rem;
+  }
+
+  .card-badge {
+    display: inline-block;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    padding: 0.22rem 0.65rem;
+    border-radius: 100px;
+    border: 1px solid;
+    align-self: flex-start;
+  }
+
+  .card-title {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #1A3C34;
+    line-height: 1.45;
+    margin: 0;
+  }
+  .related-card:hover .card-title { color: #006D77; }
+
+  .card-desc {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.8rem;
+    color: #7A8B7E;
+    line-height: 1.6;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    margin-top: auto;
+    padding-top: 0.25rem;
+    transition: gap 0.2s;
+  }
+  .related-card:hover .card-cta { gap: 0.5rem; }
+</style>

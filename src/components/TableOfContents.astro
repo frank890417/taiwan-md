@@ -1,0 +1,169 @@
+---
+/**
+ * TableOfContents — Sticky left sidebar TOC.
+ * Parses h2/h3 headings from HTML content string, builds nested list.
+ * Highlights active section on scroll via IntersectionObserver.
+ */
+interface Heading {
+  id: string;
+  text: string;
+  level: 2 | 3;
+}
+
+interface Props {
+  content: string; // raw processed HTML
+}
+
+const { content } = Astro.props;
+
+// Extract h2 / h3 headings from HTML
+function extractHeadings(html: string): Heading[] {
+  const headings: Heading[] = [];
+  const regex = /<h([23])[^>]*(?:id="([^"]*)")?[^>]*>(.*?)<\/h\2>/gi;
+  let match;
+  while ((match = regex.exec(html)) !== null) {
+    const level = parseInt(match[1]) as 2 | 3;
+    const existingId = match[2];
+    const rawText = match[3].replace(/<[^>]+>/g, '').trim();
+    // Generate id from text if no id
+    const id = existingId || rawText
+      .toLowerCase()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\u4e00-\u9fff-]/g, '')
+      .slice(0, 60);
+    if (rawText) headings.push({ id, text: rawText, level });
+  }
+  return headings;
+}
+
+const headings = extractHeadings(content);
+---
+
+{headings.length > 1 && (
+  <nav class="toc" aria-label="文章目錄" id="toc">
+    <p class="toc-heading">目錄</p>
+    <ol class="toc-list">
+      {headings.map((h, i) => (
+        <li class={`toc-item toc-item--h${h.level}`}>
+          <a href={`#${h.id}`} class="toc-link" data-toc-id={h.id}>
+            <span class="toc-num">{h.level === 2 ? String(headings.filter((x,j) => x.level === 2 && j <= i).length).padStart(2,'0') : ''}</span>
+            <span class="toc-text">{h.text}</span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}
+
+<style>
+  .toc {
+    position: sticky;
+    top: 6rem;
+    max-height: calc(100vh - 8rem);
+    overflow-y: auto;
+    padding: 1.5rem 0;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(26,60,52,0.15) transparent;
+  }
+
+  .toc-heading {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #9AA89E;
+    margin-bottom: 1.25rem;
+    padding: 0 0.25rem;
+  }
+
+  .toc-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.1rem;
+  }
+
+  .toc-item { }
+
+  .toc-link {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding: 0.42rem 0.6rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.15s, color 0.15s;
+    border-left: 2px solid transparent;
+  }
+  .toc-link:hover {
+    background: rgba(26,60,52,0.05);
+    color: #1A3C34;
+  }
+  .toc-link.active {
+    border-left-color: #006D77;
+    background: rgba(0,109,119,0.06);
+    color: #006D77;
+  }
+
+  .toc-num {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.65rem;
+    color: #B8C4BE;
+    flex-shrink: 0;
+    width: 1.6rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .toc-text {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 0.82rem;
+    color: #5A6B5E;
+    line-height: 1.45;
+    .toc-link:hover &, .toc-link.active & { color: inherit; }
+  }
+
+  .toc-item--h2 .toc-text {
+    font-weight: 500;
+    color: #3A4F44;
+  }
+  .toc-item--h3 {
+    padding-left: 0.5rem;
+  }
+  .toc-item--h3 .toc-text {
+    font-size: 0.78rem;
+    color: #7A8B7E;
+  }
+</style>
+
+<script>
+  (function() {
+    const links = document.querySelectorAll<HTMLAnchorElement>('.toc-link');
+    if (!links.length) return;
+
+    const ids = Array.from(links).map(l => l.dataset.tocId!);
+    const headingEls: HTMLElement[] = ids.map(id =>
+      document.getElementById(id) as HTMLElement
+    ).filter(Boolean);
+
+    if (!headingEls.length) return;
+
+    const observer = new IntersectionObserver(
+      entries => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const id = entry.target.id;
+            links.forEach(l => {
+              l.classList.toggle('active', l.dataset.tocId === id);
+            });
+          }
+        });
+      },
+      { rootMargin: '-12% 0px -72% 0px', threshold: 0 }
+    );
+
+    headingEls.forEach(el => observer.observe(el));
+  })();
+</script>

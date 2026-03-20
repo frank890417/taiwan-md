@@ -4,693 +4,1185 @@ import Layout from '../layouts/Layout.astro';
 
 <Layout title="台灣地圖 Map" description="以地圖視角探索 Taiwan.md 的內容脈絡">
   <div class="map-page">
+
+    <!-- ── Hero ── -->
     <section class="map-hero">
+      <!-- decorative faint island outline -->
+      <div class="hero-deco" aria-hidden="true">
+        <svg viewBox="0 0 260 600" fill="none" xmlns="http://www.w3.org/2000/svg" class="deco-island">
+          <path d="M130 20 C155 20,172 38,174 65 C176 88,172 112,170 138
+                   C168 164,166 190,163 216 C160 242,157 268,154 294
+                   C151 320,148 346,143 372 C138 398,130 424,120 444
+                   C110 464,96 476,80 478 C64 480,50 474,40 464
+                   C30 454,22 438,18 418 C14 398,14 374,18 350
+                   C22 326,28 302,30 278 C32 254,28 230,32 206
+                   C36 182,44 158,54 136 C64 114,76 94,92 76
+                   C108 58,120 24,130 20 Z"
+                stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6"/>
+        </svg>
+      </div>
+
       <div class="hero-inner">
-        <p class="hero-kicker">Map View</p>
-        <h1>台灣地圖</h1>
-        <p class="hero-subtitle">用地圖視角探索台灣的文化、美食、自然與歷史節點。</p>
+        <p class="hero-kicker">Map View · 地圖探索</p>
+        <h1>
+          <span class="title-zh">台灣地圖</span>
+          <span class="title-en">Interactive Map</span>
+        </h1>
+        <p class="hero-subtitle">
+          用地理視角漫遊台灣的文化積澱、自然奇景、歷史脈絡與美食地景
+        </p>
+        <div class="hero-meta">
+          <span class="meta-pill">18 個知識節點</span>
+          <span class="meta-sep">·</span>
+          <span class="meta-pill">9 大分類</span>
+          <span class="meta-sep">·</span>
+          <span class="meta-pill">5 個區域</span>
+        </div>
       </div>
     </section>
 
+    <!-- ── Controls ── -->
     <section class="map-controls">
       <div class="controls-inner">
-        <div class="filter-section">
-          <h3>區域篩選</h3>
-          <div class="filter-buttons" id="regionFilters">
-            <button class="filter-btn active" data-filter="all">全部</button>
-            <button class="filter-btn" data-filter="north">北部</button>
-            <button class="filter-btn" data-filter="central">中部</button>
-            <button class="filter-btn" data-filter="south">南部</button>
-            <button class="filter-btn" data-filter="east">東部</button>
-            <button class="filter-btn" data-filter="islands">離島</button>
+        <div class="filter-group">
+          <p class="filter-label">區域篩選</p>
+          <div class="filter-pills" id="regionFilters">
+            <button class="pill active" data-filter="all">全部</button>
+            <button class="pill" data-filter="north">北部</button>
+            <button class="pill" data-filter="central">中部</button>
+            <button class="pill" data-filter="south">南部</button>
+            <button class="pill" data-filter="east">東部</button>
+            <button class="pill" data-filter="islands">離島</button>
           </div>
         </div>
 
-        <div class="filter-section">
-          <h3>分類篩選</h3>
-          <div class="filter-buttons" id="categoryFilters">
-            <button class="filter-btn active" data-filter="all">全部</button>
-            <button class="filter-btn" data-filter="food">美食</button>
-            <button class="filter-btn" data-filter="history">歷史</button>
-            <button class="filter-btn" data-filter="nature">自然</button>
-            <button class="filter-btn" data-filter="culture">文化</button>
-            <button class="filter-btn" data-filter="technology">科技</button>
-            <button class="filter-btn" data-filter="economy">經濟</button>
-            <button class="filter-btn" data-filter="lifestyle">生活</button>
-            <button class="filter-btn" data-filter="art">藝術</button>
-            <button class="filter-btn" data-filter="geography">地理</button>
+        <div class="filter-divider" aria-hidden="true"></div>
+
+        <div class="filter-group">
+          <p class="filter-label">分類篩選</p>
+          <div class="filter-pills" id="categoryFilters">
+            <button class="pill active" data-filter="all">全部</button>
+            <button class="pill" data-filter="food">美食</button>
+            <button class="pill" data-filter="history">歷史</button>
+            <button class="pill" data-filter="nature">自然</button>
+            <button class="pill" data-filter="culture">文化</button>
+            <button class="pill" data-filter="technology">科技</button>
+            <button class="pill" data-filter="economy">經濟</button>
+            <button class="pill" data-filter="lifestyle">生活</button>
+            <button class="pill" data-filter="art">藝術</button>
+            <button class="pill" data-filter="geography">地理</button>
           </div>
         </div>
       </div>
     </section>
 
+    <!-- ── Map Body ── -->
     <section class="map-body">
-      <div class="map-canvas">
-        <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
-          <!-- Taiwan main island -->
-          <path 
-            d="M400 100 
-               C450 100, 480 130, 485 180
-               C490 220, 485 260, 480 300
-               C475 340, 470 380, 465 420
-               C460 460, 455 500, 450 540
-               C445 580, 440 620, 435 660
-               C430 700, 425 740, 415 780
-               C405 820, 390 850, 370 870
-               C350 890, 320 895, 290 890
-               C260 885, 230 875, 210 860
-               C190 845, 175 825, 165 800
-               C155 775, 150 745, 155 710
-               C160 675, 170 640, 175 605
-               C180 570, 175 535, 180 500
-               C185 465, 195 430, 205 395
-               C215 360, 225 325, 235 290
-               C245 255, 255 220, 270 190
-               C285 160, 310 135, 340 125
-               C370 115, 390 105, 400 100 Z"
-            fill="url(#taiwanGradient)"
-            stroke="#2d5016"
-            stroke-width="2"
-            class="taiwan-mainland"
-          />
-          
-          <!-- Penghu Islands -->
-          <circle cx="150" cy="450" r="8" fill="#16a34a" class="island penghu" />
-          
-          <!-- Kinmen -->
-          <circle cx="80" cy="400" r="6" fill="#16a34a" class="island kinmen" />
-          
-          <!-- Gradient definition -->
-          <defs>
-            <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stop-color="#dcfce7" />
-              <stop offset="50%" stop-color="#bbf7d0" />
-              <stop offset="100%" stop-color="#86efac" />
-            </linearGradient>
-          </defs>
+      <div class="map-canvas-wrap">
 
-          <!-- Knowledge markers -->
-          <g id="markers">
-            <!-- North Region -->
-            <circle cx="350" cy="200" r="8" fill="#f39c12" class="marker" data-region="north" data-category="food" data-title="士林夜市" data-link="/food/夜市文化" data-desc="台灣夜市文化的代表性據點"></circle>
-            <circle cx="330" cy="180" r="8" fill="#27ae60" class="marker" data-region="north" data-category="nature" data-title="陽明山國家公園" data-link="/nature/國家公園" data-desc="台灣第一個國家公園"></circle>
-            <circle cx="370" cy="220" r="8" fill="#ff5722" class="marker" data-region="north" data-category="economy" data-title="台北101" data-link="/economy/經濟奇蹟" data-desc="台灣經濟奇蹟的象徵"></circle>
-            <circle cx="360" cy="210" r="8" fill="#e74c3c" class="marker" data-region="north" data-category="history" data-title="中正紀念堂" data-link="/history/戒嚴時期" data-desc="見證台灣戒嚴時期的歷史建築"></circle>
-            <circle cx="365" cy="215" r="8" fill="#8bc34a" class="marker" data-region="north" data-category="lifestyle" data-title="西門町" data-link="/lifestyle/便利商店文化" data-desc="台灣便利商店文化發源地"></circle>
-            <circle cx="380" cy="240" r="8" fill="#3498db" class="marker" data-region="north" data-category="technology" data-title="新竹科學園區" data-link="/technology/半導體產業" data-desc="台灣半導體產業重鎮"></circle>
+        <!-- ambient ocean background -->
+        <div class="ocean-bg" aria-hidden="true"></div>
 
-            <!-- Central Region -->
-            <circle cx="320" cy="420" r="8" fill="#27ae60" class="marker" data-region="central" data-category="nature" data-title="日月潭" data-link="/nature/國家公園" data-desc="台灣最美麗的高山湖泊"></circle>
-            <circle cx="340" cy="380" r="8" fill="#9b59b6" class="marker" data-region="central" data-category="culture" data-title="鹿港" data-link="/culture/廟宇文化與民間信仰" data-desc="台灣廟宇文化的重要據點"></circle>
-            <circle cx="360" cy="370" r="8" fill="#e91e63" class="marker" data-region="central" data-category="art" data-title="台中國家歌劇院" data-link="/art/當代藝術" data-desc="台灣當代藝術的重要場域"></circle>
+        <div class="map-canvas" id="mapCanvas">
+          <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg" role="img" aria-label="台灣知識地圖">
+            <defs>
+              <!-- Island land gradient — deep forest tones -->
+              <linearGradient id="landGradient" x1="0%" y1="0%" x2="20%" y2="100%">
+                <stop offset="0%"   stop-color="#2A5240"/>
+                <stop offset="40%"  stop-color="#1E4534"/>
+                <stop offset="100%" stop-color="#163829"/>
+              </linearGradient>
 
-            <!-- South Region -->
-            <circle cx="320" cy="650" r="8" fill="#e74c3c" class="marker" data-region="south" data-category="history" data-title="台南府城" data-link="/history/荷西明鄭時期" data-desc="台灣歷史文化古都"></circle>
-            <circle cx="340" cy="680" r="8" fill="#ff5722" class="marker" data-region="south" data-category="economy" data-title="高雄港" data-link="/economy/經濟奇蹟" data-desc="台灣重要的海港經濟據點"></circle>
-            <circle cx="350" cy="800" r="8" fill="#27ae60" class="marker" data-region="south" data-category="nature" data-title="墾丁國家公園" data-link="/nature/國家公園" data-desc="台灣最南端的國家公園"></circle>
-            <circle cx="300" cy="720" r="8" fill="#9b59b6" class="marker" data-region="south" data-category="culture" data-title="六堆客家文化" data-link="/culture/族群（閩南客家原住民外省新住民）" data-desc="南台灣客家文化保存區"></circle>
+              <!-- subtle ridge texture overlay -->
+              <linearGradient id="ridgeOverlay" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%"   stop-color="#FFFFFF" stop-opacity="0.03"/>
+                <stop offset="50%"  stop-color="#FFFFFF" stop-opacity="0.08"/>
+                <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+              </linearGradient>
 
-            <!-- East Region -->
-            <circle cx="420" cy="350" r="8" fill="#27ae60" class="marker" data-region="east" data-category="nature" data-title="太魯閣國家公園" data-link="/nature/國家公園" data-desc="世界級的峽谷地景"></circle>
-            <circle cx="430" cy="450" r="8" fill="#2ecc71" class="marker" data-region="east" data-category="geography" data-title="花東縱谷" data-link="/geography/台灣五大地形與地理結構" data-desc="台灣重要的地理景觀"></circle>
-            <circle cx="480" cy="600" r="8" fill="#9b59b6" class="marker" data-region="east" data-category="culture" data-title="蘭嶼" data-link="/culture/原住民族文化" data-desc="原住民族文化保存地"></circle>
-            <circle cx="425" cy="470" r="8" fill="#f39c12" class="marker" data-region="east" data-category="food" data-title="池上" data-link="/food/台灣茶文化" data-desc="台灣優質稻米產區"></circle>
+              <!-- glow filter for markers -->
+              <filter id="markerGlow" x="-50%" y="-50%" width="200%" height="200%">
+                <feGaussianBlur stdDeviation="3" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
 
-            <!-- Islands -->
-            <circle cx="150" cy="450" r="6" fill="#2ecc71" class="marker island-marker" data-region="islands" data-category="geography" data-title="澎湖" data-link="/geography/離島與海洋文化" data-desc="台灣海洋文化的代表"></circle>
-            <circle cx="80" cy="400" r="6" fill="#e74c3c" class="marker island-marker" data-region="islands" data-category="history" data-title="金門" data-link="/history/戒嚴時期" data-desc="見證兩岸對峙的歷史"></circle>
-          </g>
-        </svg>
+              <!-- Soft drop shadow for island -->
+              <filter id="islandShadow" x="-20%" y="-10%" width="160%" height="140%">
+                <feDropShadow dx="6" dy="12" stdDeviation="18" flood-color="#006D77" flood-opacity="0.25"/>
+              </filter>
 
-        <!-- Tooltip -->
-        <div id="tooltip" class="tooltip">
-          <div class="tooltip-title"></div>
-          <div class="tooltip-category"></div>
-          <div class="tooltip-desc"></div>
-        </div>
-      </div>
+              <!-- Marker pulse ring -->
+              <filter id="pulseGlow">
+                <feGaussianBlur stdDeviation="2.5" result="blur"/>
+                <feMerge>
+                  <feMergeNode in="blur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
 
-      <aside class="map-panel" id="infoPanel">
-        <div class="panel-content" id="defaultContent">
-          <h3>台灣知識地圖</h3>
-          <div class="stats">
-            <div class="stat-item">
-              <span class="stat-number" id="totalMarkers">18</span>
-              <span class="stat-label">個知識節點</span>
+            <!-- ── Taiwan main island ── -->
+            <path
+              d="M400 100
+                 C450 100, 480 130, 485 180
+                 C490 220, 485 260, 480 300
+                 C475 340, 470 380, 465 420
+                 C460 460, 455 500, 450 540
+                 C445 580, 440 620, 435 660
+                 C430 700, 425 740, 415 780
+                 C405 820, 390 850, 370 870
+                 C350 890, 320 895, 290 890
+                 C260 885, 230 875, 210 860
+                 C190 845, 175 825, 165 800
+                 C155 775, 150 745, 155 710
+                 C160 675, 170 640, 175 605
+                 C180 570, 175 535, 180 500
+                 C185 465, 195 430, 205 395
+                 C215 360, 225 325, 235 290
+                 C245 255, 255 220, 270 190
+                 C285 160, 310 135, 340 125
+                 C370 115, 390 105, 400 100 Z"
+              fill="url(#landGradient)"
+              stroke="#4A7860"
+              stroke-width="1.5"
+              filter="url(#islandShadow)"
+              class="taiwan-mainland"
+            />
+            <!-- ridge highlight overlay -->
+            <path
+              d="M400 100
+                 C450 100, 480 130, 485 180
+                 C490 220, 485 260, 480 300
+                 C475 340, 470 380, 465 420
+                 C460 460, 455 500, 450 540
+                 C445 580, 440 620, 435 660
+                 C430 700, 425 740, 415 780
+                 C405 820, 390 850, 370 870
+                 C350 890, 320 895, 290 890
+                 C260 885, 230 875, 210 860
+                 C190 845, 175 825, 165 800
+                 C155 775, 150 745, 155 710
+                 C160 675, 170 640, 175 605
+                 C180 570, 175 535, 180 500
+                 C185 465, 195 430, 205 395
+                 C215 360, 225 325, 235 290
+                 C245 255, 255 220, 270 190
+                 C285 160, 310 135, 340 125
+                 C370 115, 390 105, 400 100 Z"
+              fill="url(#ridgeOverlay)"
+              pointer-events="none"
+            />
+
+            <!-- Central Mountain Range subtle line -->
+            <path
+              d="M400 110 C415 160,430 220,435 300 C438 360,432 440,420 520
+                 C410 590,400 660,385 730 C375 780,360 840,345 875"
+              fill="none" stroke="#6A9E7A" stroke-width="1" stroke-dasharray="3 5" opacity="0.4"
+              pointer-events="none"
+            />
+
+            <!-- Penghu Islands -->
+            <g class="island-group penghu-group">
+              <ellipse cx="152" cy="450" rx="9" ry="6" fill="#1E4534" stroke="#4A7860" stroke-width="1"/>
+              <ellipse cx="143" cy="462" rx="5" ry="4" fill="#1E4534" stroke="#4A7860" stroke-width="1"/>
+              <ellipse cx="162" cy="458" rx="4" ry="3" fill="#1E4534" stroke="#4A7860" stroke-width="1"/>
+            </g>
+
+            <!-- Kinmen -->
+            <g class="island-group kinmen-group">
+              <ellipse cx="80" cy="400" rx="10" ry="5" fill="#1E4534" stroke="#4A7860" stroke-width="1"/>
+            </g>
+
+            <!-- Matsu -->
+            <g class="island-group matsu-group">
+              <ellipse cx="75" cy="320" rx="5" ry="4" fill="#1E4534" stroke="#4A7860" stroke-width="1"/>
+            </g>
+
+            <!-- ── Knowledge markers ── -->
+            <g id="markers">
+              <!-- North Region -->
+              <g class="marker" data-region="north" data-category="food"
+                 data-title="士林夜市" data-link="/food/夜市文化"
+                 data-desc="台灣夜市文化的代表性據點，每晚匯聚數百攤位">
+                <circle cx="350" cy="200" r="9" fill="#C17D5E" opacity="0.2"/>
+                <circle cx="350" cy="200" r="6" fill="#C17D5E" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="north" data-category="nature"
+                 data-title="陽明山國家公園" data-link="/nature/國家公園"
+                 data-desc="台灣第一個國家公園，以火山地形聞名">
+                <circle cx="330" cy="180" r="9" fill="#006D77" opacity="0.2"/>
+                <circle cx="330" cy="180" r="6" fill="#006D77" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="north" data-category="economy"
+                 data-title="台北101" data-link="/economy/經濟奇蹟"
+                 data-desc="台灣經濟奇蹟的象徵，曾為世界第一高樓">
+                <circle cx="370" cy="220" r="9" fill="#1A3C34" opacity="0.2"/>
+                <circle cx="370" cy="220" r="6" fill="#1A3C34" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="north" data-category="history"
+                 data-title="中正紀念堂" data-link="/history/戒嚴時期"
+                 data-desc="見證台灣戒嚴時期的歷史建築，現為民主廣場">
+                <circle cx="360" cy="236" r="9" fill="#8B6E5A" opacity="0.2"/>
+                <circle cx="360" cy="236" r="6" fill="#8B6E5A" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="north" data-category="lifestyle"
+                 data-title="西門町" data-link="/lifestyle/便利商店文化"
+                 data-desc="台灣流行文化與便利商店文化發源地">
+                <circle cx="345" cy="215" r="9" fill="#A0785A" opacity="0.2"/>
+                <circle cx="345" cy="215" r="6" fill="#A0785A" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="north" data-category="technology"
+                 data-title="新竹科學園區" data-link="/technology/半導體產業"
+                 data-desc="台灣半導體產業重鎮，矽島核心">
+                <circle cx="380" cy="255" r="9" fill="#006D77" opacity="0.2"/>
+                <circle cx="380" cy="255" r="6" fill="#006D77" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <!-- Central Region -->
+              <g class="marker" data-region="central" data-category="nature"
+                 data-title="日月潭" data-link="/nature/國家公園"
+                 data-desc="台灣最美麗的高山湖泊，四季風景各異">
+                <circle cx="320" cy="420" r="9" fill="#006D77" opacity="0.2"/>
+                <circle cx="320" cy="420" r="6" fill="#006D77" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="central" data-category="culture"
+                 data-title="鹿港" data-link="/culture/廟宇文化與民間信仰"
+                 data-desc="台灣廟宇文化的重要據點，保存完整的傳統街區">
+                <circle cx="285" cy="390" r="9" fill="#5E4B8B" opacity="0.2"/>
+                <circle cx="285" cy="390" r="6" fill="#5E4B8B" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="central" data-category="art"
+                 data-title="台中國家歌劇院" data-link="/art/當代藝術"
+                 data-desc="伊東豊雄設計的台灣當代藝術重要場域">
+                <circle cx="310" cy="375" r="9" fill="#C17D5E" opacity="0.2"/>
+                <circle cx="310" cy="375" r="6" fill="#C17D5E" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <!-- South Region -->
+              <g class="marker" data-region="south" data-category="history"
+                 data-title="台南府城" data-link="/history/荷西明鄭時期"
+                 data-desc="台灣歷史文化古都，保存最多清代古蹟">
+                <circle cx="300" cy="660" r="9" fill="#8B6E5A" opacity="0.2"/>
+                <circle cx="300" cy="660" r="6" fill="#8B6E5A" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="south" data-category="economy"
+                 data-title="高雄港" data-link="/economy/經濟奇蹟"
+                 data-desc="台灣重要的海港經濟據點，亞洲重要樞紐港">
+                <circle cx="310" cy="700" r="9" fill="#1A3C34" opacity="0.2"/>
+                <circle cx="310" cy="700" r="6" fill="#1A3C34" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="south" data-category="nature"
+                 data-title="墾丁國家公園" data-link="/nature/國家公園"
+                 data-desc="台灣最南端的國家公園，熱帶海洋生態豐富">
+                <circle cx="330" cy="820" r="9" fill="#006D77" opacity="0.2"/>
+                <circle cx="330" cy="820" r="6" fill="#006D77" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="south" data-category="culture"
+                 data-title="六堆客家文化" data-link="/culture/族群（閩南客家原住民外省新住民）"
+                 data-desc="南台灣客家文化保存區，六大堆聚落文化">
+                <circle cx="275" cy="735" r="9" fill="#5E4B8B" opacity="0.2"/>
+                <circle cx="275" cy="735" r="6" fill="#5E4B8B" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <!-- East Region -->
+              <g class="marker" data-region="east" data-category="nature"
+                 data-title="太魯閣國家公園" data-link="/nature/國家公園"
+                 data-desc="世界級的大理石峽谷地景，立霧溪切割而成">
+                <circle cx="430" cy="340" r="9" fill="#006D77" opacity="0.2"/>
+                <circle cx="430" cy="340" r="6" fill="#006D77" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="east" data-category="geography"
+                 data-title="花東縱谷" data-link="/geography/台灣五大地形與地理結構"
+                 data-desc="台灣最重要的板塊縫合帶，壯闊的縱谷地景">
+                <circle cx="440" cy="460" r="9" fill="#2A6E48" opacity="0.2"/>
+                <circle cx="440" cy="460" r="6" fill="#2A6E48" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="east" data-category="culture"
+                 data-title="蘭嶼" data-link="/culture/原住民族文化"
+                 data-desc="達悟族傳統文化保存地，拼板舟技藝傳承">
+                <circle cx="490" cy="620" r="9" fill="#5E4B8B" opacity="0.2"/>
+                <circle cx="490" cy="620" r="6" fill="#5E4B8B" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker" data-region="east" data-category="food"
+                 data-title="池上" data-link="/food/台灣茶文化"
+                 data-desc="台灣最優質稻米產區，花東縱谷豐饒之地">
+                <circle cx="445" cy="500" r="9" fill="#C17D5E" opacity="0.2"/>
+                <circle cx="445" cy="500" r="6" fill="#C17D5E" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <!-- Islands -->
+              <g class="marker island-marker" data-region="islands" data-category="geography"
+                 data-title="澎湖" data-link="/geography/離島與海洋文化"
+                 data-desc="台灣海洋文化的代表，玄武岩柱地質奇觀">
+                <circle cx="152" cy="450" r="7" fill="#2A6E48" opacity="0.2"/>
+                <circle cx="152" cy="450" r="5" fill="#2A6E48" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+
+              <g class="marker island-marker" data-region="islands" data-category="history"
+                 data-title="金門" data-link="/history/戒嚴時期"
+                 data-desc="見證兩岸對峙歷史，高粱酒與坑道文化">
+                <circle cx="80" cy="400" r="7" fill="#8B6E5A" opacity="0.2"/>
+                <circle cx="80" cy="400" r="5" fill="#8B6E5A" stroke="#F8F1E9" stroke-width="1.5" filter="url(#pulseGlow)"/>
+              </g>
+            </g>
+          </svg>
+
+          <!-- Elegant tooltip -->
+          <div id="tooltip" class="map-tooltip" role="tooltip" aria-live="polite">
+            <div class="tt-category" id="ttCategory"></div>
+            <div class="tt-title" id="ttTitle"></div>
+            <div class="tt-desc" id="ttDesc"></div>
+            <div class="tt-cta">點擊閱讀全文 →</div>
+          </div>
+        </div><!-- /map-canvas -->
+      </div><!-- /map-canvas-wrap -->
+
+      <!-- ── Sidebar ── -->
+      <aside class="map-sidebar" id="mapSidebar">
+
+        <!-- Default panel -->
+        <div id="defaultPanel">
+          <div class="sidebar-header">
+            <p class="sidebar-kicker">Knowledge Atlas</p>
+            <h2 class="sidebar-title">台灣知識地圖</h2>
+            <p class="sidebar-desc">點擊地圖上的節點，探索台灣各地的文化、歷史與自然故事。</p>
+          </div>
+
+          <div class="stats-grid">
+            <div class="stat-card">
+              <span class="stat-num" id="totalMarkers">18</span>
+              <span class="stat-unit">個</span>
+              <span class="stat-lbl">知識節點</span>
             </div>
-            <div class="stat-item">
-              <span class="stat-number">9</span>
-              <span class="stat-label">個分類</span>
+            <div class="stat-card">
+              <span class="stat-num">9</span>
+              <span class="stat-unit">個</span>
+              <span class="stat-lbl">分類</span>
             </div>
           </div>
-          
-          <div class="category-distribution">
-            <h4>分類分布</h4>
-            <div class="category-list">
-              <div class="category-item">
-                <span class="category-color" style="background: #27ae60;"></span>
-                <span>自然 (5)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #e74c3c;"></span>
-                <span>歷史 (3)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #9b59b6;"></span>
-                <span>文化 (3)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #ff5722;"></span>
-                <span>經濟 (2)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #f39c12;"></span>
-                <span>美食 (2)</span>
-              </div>
-            </div>
-          </div>
-          
-          <div class="panel-links">
-            <a class="panel-link" href="/graph"> 知識圖譜</a>
-            <a class="panel-link" href="/"> 首頁分類</a>
-          </div>
-        </div>
 
-        <div class="panel-content article-content" id="articleContent" style="display: none;">
-          <button class="back-btn" id="backBtn">← 返回</button>
-          <h3 id="articleTitle"></h3>
-          <div class="article-meta">
-            <span class="article-category" id="articleCategory"></span>
+          <div class="legend-section">
+            <p class="legend-title">分類分布</p>
+            <ul class="legend-list">
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#006D77;"></span>
+                <span class="legend-name">自然</span>
+                <span class="legend-count">5</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#5E4B8B;"></span>
+                <span class="legend-name">文化</span>
+                <span class="legend-count">3</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#8B6E5A;"></span>
+                <span class="legend-name">歷史</span>
+                <span class="legend-count">3</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#C17D5E;"></span>
+                <span class="legend-name">美食</span>
+                <span class="legend-count">2</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#1A3C34;"></span>
+                <span class="legend-name">經濟</span>
+                <span class="legend-count">2</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#2A6E48;"></span>
+                <span class="legend-name">地理</span>
+                <span class="legend-count">2</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#006D77;box-shadow:0 0 0 2px #F8F1E9,0 0 0 3px #006D77;"></span>
+                <span class="legend-name">科技</span>
+                <span class="legend-count">1</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#A0785A;"></span>
+                <span class="legend-name">生活</span>
+                <span class="legend-count">1</span>
+              </li>
+              <li class="legend-item">
+                <span class="legend-dot" style="background:#C17D5E;box-shadow:0 0 0 2px #F8F1E9,0 0 0 3px #C17D5E;"></span>
+                <span class="legend-name">藝術</span>
+                <span class="legend-count">1</span>
+              </li>
+            </ul>
           </div>
-          <p id="articleDesc"></p>
-          <a id="articleLink" class="read-more-btn">閱讀全文 →</a>
-        </div>
+
+          <div class="sidebar-nav">
+            <a href="/graph" class="nav-link nav-link--primary">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <circle cx="12" cy="12" r="3"/><circle cx="4" cy="6" r="2"/><circle cx="20" cy="6" r="2"/>
+                <circle cx="4" cy="18" r="2"/><circle cx="20" cy="18" r="2"/>
+                <line x1="6" y1="6.5" x2="10" y2="10"/><line x1="18" y1="6.5" x2="14" y2="10"/>
+                <line x1="6" y1="17.5" x2="10" y2="14"/><line x1="18" y1="17.5" x2="14" y2="14"/>
+              </svg>
+              知識圖譜
+            </a>
+            <a href="/" class="nav-link nav-link--ghost">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/>
+              </svg>
+              首頁分類
+            </a>
+          </div>
+        </div><!-- /defaultPanel -->
+
+        <!-- Article panel (shown on marker click) -->
+        <div id="articlePanel" style="display:none;" class="article-panel">
+          <button class="back-btn" id="backBtn">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+            返回地圖
+          </button>
+          <div class="article-badge" id="articleBadge"></div>
+          <h3 class="article-heading" id="articleTitle"></h3>
+          <p class="article-desc" id="articleDesc"></p>
+          <a id="articleLink" href="#" class="read-more-link">
+            閱讀完整文章
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+              <polyline points="9 18 15 12 9 6"/>
+            </svg>
+          </a>
+        </div><!-- /articlePanel -->
+
       </aside>
     </section>
-  </div>
+
+    <!-- ── Bottom hint ── -->
+    <div class="map-hint">
+      <p>點擊地圖節點探索故事 · 使用篩選器聚焦感興趣的主題</p>
+    </div>
+
+  </div><!-- /map-page -->
 </Layout>
 
 <style>
+  /* ─── Page wrapper ───────────────────────────── */
   .map-page {
-    padding-bottom: 2rem;
+    background: #F8F1E9;
+    min-height: 100vh;
   }
 
+  /* ─── Hero ──────────────────────────────────── */
   .map-hero {
-    background: linear-gradient(135deg, #f0fdf4, #dcfce7, #bbf7d0);
-    padding: 3rem 1.5rem 2rem;
-    border-bottom: 1px solid #d1fae5;
+    position: relative;
+    background: #F8F1E9;
+    padding: 5rem 1.5rem 4rem;
+    border-bottom: 1px solid rgba(26, 60, 52, 0.10);
+    overflow: hidden;
+  }
+
+  /* faint decorative island outline */
+  .hero-deco {
+    position: absolute;
+    right: 6%;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 160px;
+    opacity: 0.07;
+    color: #1A3C34;
+    pointer-events: none;
+  }
+  .deco-island {
+    width: 100%;
+    height: auto;
   }
 
   .hero-inner {
     max-width: 1200px;
     margin: 0 auto;
     text-align: center;
+    position: relative;
+    z-index: 1;
   }
 
   .hero-kicker {
-    font-size: 0.9rem;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: #16a34a;
-    margin-bottom: 0.5rem;
+    font-family: 'Inter', 'Satoshi', system-ui, sans-serif;
+    font-size: 0.75rem;
     font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    color: #006D77;
+    margin-bottom: 1.25rem;
   }
 
   .map-hero h1 {
-    font-size: 2.8rem;
-    margin-bottom: 1rem;
-    color: #2d5016;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+    margin-bottom: 1.5rem;
+  }
+  .title-zh {
     font-family: 'Noto Serif TC', serif;
+    font-size: clamp(2.8rem, 6vw, 4.5rem);
+    font-weight: 700;
+    color: #1A3C34;
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+  }
+  .title-en {
+    font-family: 'Inter', 'Satoshi', system-ui, sans-serif;
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    font-weight: 400;
+    color: #006D77;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
   }
 
   .hero-subtitle {
-    font-size: 1.2rem;
-    color: #15803d;
-    max-width: 600px;
-    margin: 0 auto;
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(1rem, 2.5vw, 1.2rem);
+    color: #5A6B5E;
+    max-width: 520px;
+    margin: 0 auto 2rem;
+    line-height: 1.85;
   }
 
+  .hero-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+  .meta-pill {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.8rem;
+    color: #1A3C34;
+    background: rgba(26, 60, 52, 0.07);
+    border: 1px solid rgba(26, 60, 52, 0.12);
+    padding: 0.3rem 0.85rem;
+    border-radius: 100px;
+    letter-spacing: 0.03em;
+  }
+  .meta-sep {
+    color: rgba(26, 60, 52, 0.25);
+    font-size: 0.8rem;
+  }
+
+  /* ─── Controls ───────────────────────────────── */
   .map-controls {
-    background: #ffffff;
-    border-bottom: 1px solid #e5e7eb;
-    padding: 1.5rem 1rem;
+    background: #FFFFFF;
+    border-bottom: 1px solid rgba(26, 60, 52, 0.08);
+    padding: 2rem 1.5rem;
   }
 
   .controls-inner {
     max-width: 1200px;
     margin: 0 auto;
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 2rem;
-    align-items: start;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+    align-items: flex-start;
   }
 
-  .filter-section h3 {
-    font-size: 1rem;
-    color: #374151;
-    margin-bottom: 0.75rem;
+  .filter-group {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .filter-divider {
+    width: 1px;
+    background: rgba(26, 60, 52, 0.10);
+    align-self: stretch;
+    margin: 0 2.5rem;
+    flex-shrink: 0;
+  }
+
+  .filter-label {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.7rem;
     font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: #006D77;
+    margin-bottom: 0.875rem;
   }
 
-  .filter-buttons {
+  .filter-pills {
     display: flex;
     flex-wrap: wrap;
     gap: 0.5rem;
   }
 
-  .filter-btn {
-    padding: 0.5rem 1rem;
-    border: 1px solid #d1d5db;
-    background: #ffffff;
-    border-radius: 20px;
-    font-size: 0.85rem;
+  .pill {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.825rem;
+    font-weight: 500;
+    padding: 0.45rem 1.1rem;
+    border-radius: 100px;
+    border: 1px solid rgba(26, 60, 52, 0.18);
+    background: transparent;
+    color: #4A5E52;
     cursor: pointer;
-    transition: all 0.2s;
-    color: #374151;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+  .pill:hover {
+    border-color: #1A3C34;
+    color: #1A3C34;
+    background: rgba(26, 60, 52, 0.05);
+  }
+  .pill.active {
+    background: #1A3C34;
+    border-color: #1A3C34;
+    color: #F8F1E9;
   }
 
-  .filter-btn:hover {
-    border-color: #16a34a;
-    background: #f0fdf4;
-  }
-
-  .filter-btn.active {
-    background: #16a34a;
-    border-color: #16a34a;
-    color: white;
-  }
-
+  /* ─── Map Body ───────────────────────────────── */
   .map-body {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 3rem 1.5rem 4rem;
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 2rem;
+    grid-template-columns: 1fr 340px;
+    gap: 2.5rem;
     align-items: start;
+  }
+
+  /* ─── Ocean / canvas wrap ─────────────────────── */
+  .map-canvas-wrap {
+    position: relative;
+  }
+
+  .ocean-bg {
+    position: absolute;
+    inset: -2rem;
+    background: radial-gradient(ellipse 70% 60% at 55% 45%,
+      rgba(0, 109, 119, 0.06) 0%,
+      rgba(0, 109, 119, 0.03) 50%,
+      transparent 100%);
+    pointer-events: none;
+    z-index: 0;
+    border-radius: 24px;
   }
 
   .map-canvas {
     position: relative;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 16px;
-    padding: 1.5rem;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 2.5rem 2rem;
+    box-shadow:
+      0 1px 3px rgba(26, 60, 52, 0.04),
+      0 6px 24px rgba(26, 60, 52, 0.08),
+      0 24px 64px rgba(26, 60, 52, 0.06);
+    border: 1px solid rgba(26, 60, 52, 0.07);
+    z-index: 1;
   }
 
   .taiwan-svg {
     width: 100%;
     height: auto;
-    max-height: 700px;
-    cursor: pointer;
+    max-height: 680px;
+    display: block;
   }
 
   .taiwan-mainland {
-    transition: all 0.3s ease;
+    transition: filter 0.3s ease;
   }
 
-  .taiwan-mainland:hover {
-    filter: brightness(1.05);
-  }
-
+  /* ─── Markers ────────────────────────────────── */
   .marker {
     cursor: pointer;
-    transition: all 0.3s ease;
-    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+    transition: opacity 0.3s ease, transform 0.2s ease;
+    transform-origin: center;
   }
-
-  .marker:hover {
-    transform: scale(1.3);
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)) brightness(1.1);
+  .marker:hover > circle:last-of-type {
+    transform: scale(1.35);
+    transform-box: fill-box;
+    transform-origin: center;
   }
-
+  .marker:hover > circle:first-of-type {
+    opacity: 0.45 !important;
+  }
   .marker.hidden {
     opacity: 0;
     pointer-events: none;
   }
 
-  .island {
-    fill: #16a34a;
-    stroke: #2d5016;
-    stroke-width: 1;
-  }
-
-  .tooltip {
+  /* ─── Tooltip ────────────────────────────────── */
+  .map-tooltip {
     position: absolute;
-    background: rgba(0, 0, 0, 0.9);
-    color: white;
-    padding: 0.75rem;
-    border-radius: 8px;
-    font-size: 0.85rem;
+    background: #1A3C34;
+    color: #F8F1E9;
+    padding: 0.875rem 1.125rem;
+    border-radius: 12px;
+    font-family: 'Inter', system-ui, sans-serif;
     pointer-events: none;
     opacity: 0;
-    transition: opacity 0.2s;
-    z-index: 1000;
-    max-width: 200px;
+    transition: opacity 0.2s ease;
+    z-index: 100;
+    max-width: 220px;
+    box-shadow: 0 8px 32px rgba(26, 60, 52, 0.35);
+    transform: translateY(-4px);
   }
-
-  .tooltip-title {
+  .map-tooltip::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 18px;
+    width: 12px;
+    height: 12px;
+    background: #1A3C34;
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+  }
+  .tt-category {
+    font-size: 0.68rem;
     font-weight: 600;
-    margin-bottom: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: #A8C5B8;
+    margin-bottom: 0.35rem;
   }
-
-  .tooltip-category {
-    font-size: 0.75rem;
-    opacity: 0.8;
-    margin-bottom: 0.25rem;
-  }
-
-  .tooltip-desc {
-    font-size: 0.75rem;
-    line-height: 1.3;
-  }
-
-  .map-panel {
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 16px;
-    padding: 1.5rem;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-    position: sticky;
-    top: 2rem;
-  }
-
-  .panel-content h3 {
-    font-size: 1.3rem;
-    color: #2d5016;
-    margin-bottom: 1rem;
+  .tt-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #F8F1E9;
+    margin-bottom: 0.35rem;
     font-family: 'Noto Serif TC', serif;
   }
+  .tt-desc {
+    font-size: 0.78rem;
+    color: rgba(248, 241, 233, 0.75);
+    line-height: 1.55;
+    margin-bottom: 0.5rem;
+  }
+  .tt-cta {
+    font-size: 0.72rem;
+    color: #C17D5E;
+    font-weight: 500;
+  }
 
-  .stats {
+  /* ─── Sidebar ────────────────────────────────── */
+  .map-sidebar {
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 2rem 1.75rem;
+    box-shadow:
+      0 1px 3px rgba(26, 60, 52, 0.04),
+      0 6px 24px rgba(26, 60, 52, 0.08);
+    border: 1px solid rgba(26, 60, 52, 0.07);
+    position: sticky;
+    top: 6rem;
+  }
+
+  .sidebar-kicker {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.68rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #006D77;
+    margin-bottom: 0.6rem;
+  }
+  .sidebar-title {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1A3C34;
+    margin-bottom: 0.75rem;
+    line-height: 1.25;
+  }
+  .sidebar-desc {
+    font-size: 0.85rem;
+    color: #7A8B7E;
+    line-height: 1.65;
+    margin-bottom: 1.75rem;
+  }
+
+  /* Stats */
+  .stats-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
   }
-
-  .stat-item {
+  .stat-card {
+    background: #F8F1E9;
+    border: 1px solid rgba(26, 60, 52, 0.08);
+    border-radius: 14px;
+    padding: 1.25rem 1rem;
     text-align: center;
-    padding: 1rem;
-    background: #f9fafb;
-    border-radius: 8px;
-  }
-
-  .stat-number {
-    display: block;
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: #16a34a;
-  }
-
-  .stat-label {
-    font-size: 0.85rem;
-    color: #6b7280;
-  }
-
-  .category-distribution h4 {
-    font-size: 1rem;
-    margin-bottom: 0.75rem;
-    color: #374151;
-  }
-
-  .category-list {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    align-items: center;
+  }
+  .stat-num {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #1A3C34;
+    line-height: 1;
+    margin-bottom: 0.2rem;
+  }
+  .stat-unit {
+    font-size: 0.75rem;
+    color: #006D77;
+    font-weight: 500;
+    display: none; /* kept in HTML for a11y, hidden visually */
+  }
+  .stat-lbl {
+    font-size: 0.78rem;
+    color: #7A8B7E;
+    letter-spacing: 0.02em;
+    margin-top: 0.2rem;
   }
 
-  .category-item {
+  /* Legend */
+  .legend-section {
+    border-top: 1px solid rgba(26, 60, 52, 0.08);
+    padding-top: 1.5rem;
+    margin-bottom: 1.75rem;
+  }
+  .legend-title {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: #7A8B7E;
+    margin-bottom: 1rem;
+  }
+  .legend-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+  }
+  .legend-item {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    font-size: 0.85rem;
+    gap: 0.65rem;
+    font-size: 0.83rem;
+    color: #2C2C2C;
   }
-
-  .category-color {
-    width: 12px;
-    height: 12px;
+  .legend-dot {
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .legend-name {
+    flex: 1;
+  }
+  .legend-count {
+    color: #9AA89E;
+    font-size: 0.78rem;
+    font-weight: 500;
   }
 
-  .panel-links {
-    margin-top: 1.5rem;
+  /* Nav links */
+  .sidebar-nav {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.6rem;
+    border-top: 1px solid rgba(26, 60, 52, 0.08);
+    padding-top: 1.5rem;
   }
-
-  .panel-link {
-    padding: 0.75rem;
-    background: #f3f4f6;
-    border-radius: 8px;
-    text-decoration: none;
-    color: #374151;
+  .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.7rem 1rem;
+    border-radius: 10px;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.85rem;
     font-weight: 500;
-    text-align: center;
-    transition: background 0.2s;
+    text-decoration: none;
+    transition: all 0.2s ease;
+  }
+  .nav-link--primary {
+    background: #1A3C34;
+    color: #F8F1E9;
+  }
+  .nav-link--primary:hover {
+    background: #006D77;
+  }
+  .nav-link--ghost {
+    color: #4A5E52;
+    border: 1px solid rgba(26, 60, 52, 0.14);
+  }
+  .nav-link--ghost:hover {
+    background: rgba(26, 60, 52, 0.05);
+    border-color: rgba(26, 60, 52, 0.25);
+    color: #1A3C34;
   }
 
-  .panel-link:hover {
-    background: #e5e7eb;
+  /* ─── Article panel ──────────────────────────── */
+  .article-panel {
+    animation: slideUp 0.3s ease;
   }
-
-  .article-content {
-    animation: fadeIn 0.3s ease;
-  }
-
-  @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(12px); }
+    to   { opacity: 1; transform: translateY(0); }
   }
 
   .back-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
     background: none;
     border: none;
-    color: #6b7280;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    color: #7A8B7E;
     cursor: pointer;
-    font-size: 0.9rem;
-    margin-bottom: 1rem;
-    padding: 0.5rem 0;
+    padding: 0;
+    margin-bottom: 1.5rem;
+    transition: color 0.2s;
   }
+  .back-btn:hover { color: #1A3C34; }
 
-  .back-btn:hover {
-    color: #16a34a;
-  }
-
-  .article-meta {
-    margin-bottom: 1rem;
-  }
-
-  .article-category {
+  .article-badge {
     display: inline-block;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
     padding: 0.25rem 0.75rem;
-    background: #f0fdf4;
-    color: #16a34a;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 500;
+    border-radius: 100px;
+    margin-bottom: 0.85rem;
   }
 
-  .read-more-btn {
-    display: inline-block;
-    margin-top: 1rem;
-    padding: 0.75rem 1.5rem;
-    background: #16a34a;
-    color: white;
+  .article-heading {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1A3C34;
+    margin-bottom: 0.875rem;
+    line-height: 1.3;
+  }
+
+  .article-desc {
+    font-size: 0.875rem;
+    color: #5A6B5E;
+    line-height: 1.75;
+    margin-bottom: 1.5rem;
+  }
+
+  .read-more-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: #1A3C34;
+    color: #F8F1E9;
     text-decoration: none;
-    border-radius: 8px;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.875rem;
     font-weight: 500;
-    transition: background 0.2s;
+    padding: 0.75rem 1.4rem;
+    border-radius: 10px;
+    transition: background 0.2s ease;
+  }
+  .read-more-link:hover { background: #006D77; }
+
+  /* ─── Bottom hint ────────────────────────────── */
+  .map-hint {
+    text-align: center;
+    padding: 1.5rem 1rem 3rem;
+    border-top: 1px solid rgba(26, 60, 52, 0.06);
+  }
+  .map-hint p {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.78rem;
+    color: #A0AEA4;
+    letter-spacing: 0.04em;
   }
 
-  .read-more-btn:hover {
-    background: #15803d;
-  }
-
+  /* ─── Responsive ─────────────────────────────── */
   @media (max-width: 1024px) {
-    .controls-inner {
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-    
     .map-body {
       grid-template-columns: 1fr;
+      padding: 2rem 1.25rem 3rem;
     }
-    
-    .map-panel {
+    .map-sidebar {
       position: relative;
       top: auto;
     }
+    .controls-inner {
+      flex-direction: column;
+      gap: 1.5rem;
+    }
+    .filter-divider {
+      width: 100%;
+      height: 1px;
+      margin: 0;
+    }
+    .hero-deco { display: none; }
   }
 
-  @media (max-width: 768px) {
-    .map-hero h1 {
-      font-size: 2.2rem;
-    }
-    
-    .filter-buttons {
-      justify-content: center;
-    }
-    
-    .filter-btn {
-      font-size: 0.8rem;
-      padding: 0.4rem 0.8rem;
-    }
+  @media (max-width: 640px) {
+    .map-hero { padding: 3.5rem 1rem 3rem; }
+    .map-controls { padding: 1.5rem 1rem; }
+    .map-canvas { padding: 1.25rem 0.75rem; }
+    .map-sidebar { padding: 1.5rem 1.25rem; }
+    .filter-pills { gap: 0.4rem; }
+    .pill { font-size: 0.78rem; padding: 0.4rem 0.85rem; }
+    .stats-grid { grid-template-columns: 1fr 1fr; }
+    .stat-num { font-size: 1.8rem; }
   }
 </style>
 
 <script>
-  // Category colors mapping
-  const categoryColors = {
-    history: '#e74c3c',
-    geography: '#2ecc71', 
-    culture: '#9b59b6',
-    food: '#f39c12',
-    art: '#e91e63',
-    music: '#00bcd4',
-    technology: '#3498db',
-    nature: '#27ae60',
-    people: '#ff9800',
-    society: '#607d8b',
-    economy: '#ff5722',
-    lifestyle: '#8bc34a'
+  const categoryColors: Record<string, string> = {
+    history:    '#8B6E5A',
+    geography:  '#2A6E48',
+    culture:    '#5E4B8B',
+    food:       '#C17D5E',
+    art:        '#C17D5E',
+    music:      '#006D77',
+    technology: '#006D77',
+    nature:     '#006D77',
+    people:     '#A0785A',
+    society:    '#4A5E52',
+    economy:    '#1A3C34',
+    lifestyle:  '#A0785A',
   };
 
-  const categoryNames = {
-    history: '歷史',
-    geography: '地理', 
-    culture: '文化',
-    food: '美食',
-    art: '藝術',
-    music: '音樂',
+  const categoryNames: Record<string, string> = {
+    history:    '歷史',
+    geography:  '地理',
+    culture:    '文化',
+    food:       '美食',
+    art:        '藝術',
+    music:      '音樂',
     technology: '科技',
-    nature: '自然',
-    people: '人物',
-    society: '社會',
-    economy: '經濟',
-    lifestyle: '生活'
+    nature:     '自然',
+    people:     '人物',
+    society:    '社會',
+    economy:    '經濟',
+    lifestyle:  '生活',
   };
 
-  let activeRegionFilter = 'all';
-  let activeCategoryFilter = 'all';
+  let activeRegion   = 'all';
+  let activeCategory = 'all';
 
-  // Initialize map
   function initMap() {
-    const markers = document.querySelectorAll('.marker');
-    const tooltip = document.getElementById('tooltip');
-    const regionFilters = document.getElementById('regionFilters');
-    const categoryFilters = document.getElementById('categoryFilters');
+    const markers        = document.querySelectorAll<SVGGElement>('.marker');
+    const tooltip        = document.getElementById('tooltip')!;
+    const regionFilters  = document.getElementById('regionFilters')!;
+    const categoryFilters = document.getElementById('categoryFilters')!;
+    const mapCanvas      = document.getElementById('mapCanvas')!;
 
-    // Set up marker colors based on category
+    // ── Tooltip on hover ────────────────────────
     markers.forEach(marker => {
-      const category = marker.dataset.category;
-      if (categoryColors[category]) {
-        marker.setAttribute('fill', categoryColors[category]);
-      }
-    });
+      marker.addEventListener('mouseenter', () => {
+        const cat  = marker.dataset.category ?? '';
+        const title = marker.dataset.title ?? '';
+        const desc  = marker.dataset.desc  ?? '';
 
-    // Marker hover events
-    markers.forEach(marker => {
-      marker.addEventListener('mouseenter', (e) => {
-        const title = e.target.dataset.title;
-        const category = e.target.dataset.category;
-        const desc = e.target.dataset.desc;
-        
-        tooltip.querySelector('.tooltip-title').textContent = title;
-        tooltip.querySelector('.tooltip-category').textContent = categoryNames[category] || category;
-        tooltip.querySelector('.tooltip-desc').textContent = desc;
-        
+        document.getElementById('ttCategory')!.textContent = categoryNames[cat] ?? cat;
+        document.getElementById('ttTitle')!.textContent    = title;
+        document.getElementById('ttDesc')!.textContent     = desc;
         tooltip.style.opacity = '1';
       });
 
-      marker.addEventListener('mousemove', (e) => {
-        const rect = e.target.closest('svg').getBoundingClientRect();
-        tooltip.style.left = (e.clientX - rect.left + 10) + 'px';
-        tooltip.style.top = (e.clientY - rect.top - 10) + 'px';
+      marker.addEventListener('mousemove', (e: MouseEvent) => {
+        const rect = mapCanvas.getBoundingClientRect();
+        const x = e.clientX - rect.left + 14;
+        const y = e.clientY - rect.top  - 14;
+        // keep tooltip inside canvas
+        const ttW = 220;
+        const ttX = (x + ttW > rect.width) ? x - ttW - 28 : x;
+        tooltip.style.left = ttX + 'px';
+        tooltip.style.top  = y  + 'px';
       });
 
       marker.addEventListener('mouseleave', () => {
         tooltip.style.opacity = '0';
       });
 
-      marker.addEventListener('click', (e) => {
-        showArticleInfo(e.target);
-      });
+      marker.addEventListener('click', () => showArticle(marker));
     });
 
-    // Region filter buttons
-    regionFilters.addEventListener('click', (e) => {
-      if (e.target.classList.contains('filter-btn')) {
-        regionFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-        e.target.classList.add('active');
-        activeRegionFilter = e.target.dataset.filter;
-        applyFilters();
-      }
+    // ── Region filter ────────────────────────────
+    regionFilters.addEventListener('click', e => {
+      const btn = (e.target as Element).closest('.pill');
+      if (!btn) return;
+      regionFilters.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeRegion = (btn as HTMLElement).dataset.filter ?? 'all';
+      applyFilters();
     });
 
-    // Category filter buttons
-    categoryFilters.addEventListener('click', (e) => {
-      if (e.target.classList.contains('filter-btn')) {
-        categoryFilters.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
-        e.target.classList.add('active');
-        activeCategoryFilter = e.target.dataset.filter;
-        applyFilters();
-      }
+    // ── Category filter ──────────────────────────
+    categoryFilters.addEventListener('click', e => {
+      const btn = (e.target as Element).closest('.pill');
+      if (!btn) return;
+      categoryFilters.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeCategory = (btn as HTMLElement).dataset.filter ?? 'all';
+      applyFilters();
     });
 
-    // Back button
-    document.getElementById('backBtn').addEventListener('click', () => {
-      document.getElementById('defaultContent').style.display = 'block';
-      document.getElementById('articleContent').style.display = 'none';
+    // ── Back button ───────────────────────────────
+    document.getElementById('backBtn')!.addEventListener('click', () => {
+      document.getElementById('defaultPanel')!.style.display = 'block';
+      document.getElementById('articlePanel')!.style.display = 'none';
     });
   }
 
   function applyFilters() {
-    const markers = document.querySelectorAll('.marker');
-    let visibleCount = 0;
-    
-    markers.forEach(marker => {
-      const region = marker.dataset.region;
-      const category = marker.dataset.category;
-      
-      const regionMatch = activeRegionFilter === 'all' || region === activeRegionFilter;
-      const categoryMatch = activeCategoryFilter === 'all' || category === activeCategoryFilter;
-      
-      if (regionMatch && categoryMatch) {
-        marker.classList.remove('hidden');
-        visibleCount++;
+    const markers = document.querySelectorAll<SVGGElement>('.marker');
+    let visible = 0;
+    markers.forEach(m => {
+      const regionOk   = activeRegion   === 'all' || m.dataset.region   === activeRegion;
+      const categoryOk = activeCategory === 'all' || m.dataset.category === activeCategory;
+      if (regionOk && categoryOk) {
+        m.classList.remove('hidden');
+        visible++;
       } else {
-        marker.classList.add('hidden');
+        m.classList.add('hidden');
       }
     });
-
-    // Update stats
-    document.getElementById('totalMarkers').textContent = visibleCount;
+    const el = document.getElementById('totalMarkers');
+    if (el) el.textContent = String(visible);
   }
 
-  function showArticleInfo(marker) {
-    const title = marker.dataset.title;
-    const category = marker.dataset.category;
-    const desc = marker.dataset.desc;
-    const link = marker.dataset.link;
+  function showArticle(marker: SVGGElement) {
+    const cat   = marker.dataset.category ?? '';
+    const title = marker.dataset.title ?? '';
+    const desc  = marker.dataset.desc  ?? '';
+    const link  = marker.dataset.link  ?? '#';
+    const color = categoryColors[cat] ?? '#1A3C34';
 
-    document.getElementById('articleTitle').textContent = title;
-    document.getElementById('articleCategory').textContent = categoryNames[category];
-    document.getElementById('articleDesc').textContent = desc;
-    document.getElementById('articleLink').href = link;
+    const badge = document.getElementById('articleBadge')!;
+    badge.textContent = categoryNames[cat] ?? cat;
+    badge.style.background = color + '18';
+    badge.style.color       = color;
 
-    // Set category color
-    const categoryEl = document.getElementById('articleCategory');
-    categoryEl.style.background = categoryColors[category] + '20';
-    categoryEl.style.color = categoryColors[category];
+    document.getElementById('articleTitle')!.textContent = title;
+    document.getElementById('articleDesc')!.textContent  = desc;
+    (document.getElementById('articleLink') as HTMLAnchorElement).href = link;
 
-    document.getElementById('defaultContent').style.display = 'none';
-    document.getElementById('articleContent').style.display = 'block';
+    document.getElementById('defaultPanel')!.style.display = 'none';
+    document.getElementById('articlePanel')!.style.display = 'block';
   }
 
-  // Initialize when page loads
   document.addEventListener('DOMContentLoaded', initMap);
 </script>
-</Layout>
