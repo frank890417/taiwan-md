@@ -238,14 +238,20 @@ function resolveWikilinks(markdownContent: string) {
   function resolveOne(target: string, display?: string, bold = false) {
     const label = display || target;
     const inCat = relatedArticles.find(
-      (a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target),
+      (a: any) =>
+        a.title === target ||
+        a.slug === target ||
+        a.slug === encodeURIComponent(target),
     );
     if (inCat) {
       const url = `/${category}/${inCat.slug}`;
       return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
     }
     const cross = allArticles.find(
-      (a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target),
+      (a: any) =>
+        a.title === target ||
+        a.slug === target ||
+        a.slug === encodeURIComponent(target),
     );
     if (cross) {
       const url = `/${cross.category}/${cross.slug}`;
@@ -815,7 +821,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   .header-content {
-    max-width: 960px;
+    max-width: var(--container-reading);
     margin: 0 auto;
     position: relative;
     z-index: 1;
@@ -1029,7 +1035,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     font-size: 1.125rem;
     line-height: 2;
     color: #333;
-    max-width: 840px;
+    max-width: var(--container-reading);
     margin: 0 auto;
     letter-spacing: 0.02em;
     background: rgba(255, 255, 255, 0.82);
@@ -1131,41 +1137,40 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   /* 列表 — 寬鬆行距，不突出 */
-  .content ul,
-  .content ol {
-    margin: 1.75rem 0;
+  .content :global(ul),
+  .content :global(ol) {
     padding-left: 1.75rem;
   }
 
-  .content ul {
+  .content :global(ul) {
     list-style: disc;
   }
 
-  .content ol {
+  .content :global(ol) {
     list-style: decimal;
   }
 
-  .content ul > li,
-  .content ol > li {
+  .content :global(ul > li),
+  .content :global(ol > li) {
     margin-bottom: 0.6rem;
     padding-left: 0.35rem;
     line-height: 1.9;
   }
 
-  .content ul > li::marker {
+  .content :global(ul > li::marker) {
     color: var(--categoryColor);
   }
 
-  .content ol > li::marker {
+  .content :global(ol > li::marker) {
     color: var(--categoryColor);
     font-weight: 600;
   }
 
-  .content li > p {
+  .content :global(li > p) {
     margin-bottom: 0.75rem;
   }
 
-  .content li > p:last-child {
+  .content :global(li > p:last-child) {
     margin-bottom: 0;
   }
 
