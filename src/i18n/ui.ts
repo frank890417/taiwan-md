@@ -6,6 +6,7 @@ import { dataUI } from './data';
 export const languages: Record<Lang, string> = {
   en: 'English',
   'zh-TW': '中文',
+  es: 'Español',
 };
 
 export const defaultLang: Lang = 'zh-TW';
@@ -184,4 +185,105 @@ export const ui = {
     'CategoryGrid.aria-explore-suffix': '主題',
     'CategoryGrid.alt-category-image-suffix': '主題相關圖片',
   },
+  es: {
+    'nav.home': 'Inicio',
+    'nav.map': '📍 Mapa Interactivo',
+    'nav.contribute': '✋ Contribuir',
+    'nav.about': 'Acerca de',
+    'nav.graph': '🕸️ Grafo de Conocimiento',
+    'nav.graph-view': 'Grafo de Conocimiento',
+    'nav.resources': '🔗 Recursos',
+    'nav.data': '📊 Datos',
+    'nav.assets': 'Recursos SVG',
+    'nav.projects': 'Proyectos',
+    'nav.language-switch': 'Idioma',
+    'nav.search-modal.input-placeholder': 'Buscar artículos...',
+    'nav.search-modal.type-to-search': 'Escribe para buscar en todos los artículos',
+    'footer.explore': 'Explorar',
+    'footer.project': 'Proyecto',
+    'footer.about': 'Acerca de',
+    'footer.graph': 'Grafo de Conocimiento',
+    'footer.contribute': 'Guía de Contribución',
+    'footer.changelog': 'Historial de Actualizaciones',
+    'footer.contact': 'Contacto',
+    'footer.report': 'Reportar Problema',
+    'footer.discuss': 'Discusiones',
+    'footer.desc': 'Base de conocimiento de código abierto sobre Taiwán',
+    'footer.support-us': 'Apóyanos',
+    'footer.font-sponsor-prefix': 'Fuentes web patrocinadas por',
+    'footer.font-sponsor-suffix': ' ',
+    'categoryConfig.history': 'Historia',
+    'categoryConfig.geography': 'Geografía',
+    'categoryConfig.culture': 'Cultura',
+    'categoryConfig.food': 'Gastronomía',
+    'categoryConfig.art': 'Arte',
+    'categoryConfig.music': 'Música',
+    'categoryConfig.technology': 'Tecnología',
+    'categoryConfig.nature': 'Naturaleza',
+    'categoryConfig.people': 'Personas',
+    'categoryConfig.society': 'Sociedad',
+    'categoryConfig.economy': 'Economía',
+    'categoryConfig.lifestyle': 'Estilo de Vida',
+    'categoryConfig.history.description':
+      'De la prehistoria al presente, el hilo completo de la historia taiwanesa',
+    'categoryConfig.geography.description':
+      'El entorno natural, relieve y desarrollo regional de Taiwán',
+    'categoryConfig.culture.description':
+      'La fusión de tradiciones indígenas, chinas y contemporáneas',
+    'categoryConfig.food.description':
+      'Del bocadillo callejero a la alta cocina, el alma culinaria de Taiwán',
+    'categoryConfig.art.description':
+      'De la artesanía ancestral al arte contemporáneo, pura energía creativa',
+    'categoryConfig.music.description':
+      'Del canto indígena al Mandopop, el paisaje sonoro de la isla',
+    'categoryConfig.technology.description':
+      'Innovación y transformación digital en la isla tecnológica del mundo',
+    'categoryConfig.nature.description':
+      'Ecosistemas únicos, parques nacionales y biodiversidad insular',
+    'categoryConfig.people.description':
+      'Figuras extraordinarias que forjaron el destino de Taiwán',
+    'categoryConfig.society.description':
+      'Cambio social, movimientos ciudadanos y debates contemporáneos',
+    'categoryConfig.economy.description':
+      'El milagro económico asiático y sus retos actuales',
+    'categoryConfig.lifestyle.description':
+      'El modo de vida, los valores y el pulso cotidiano del pueblo taiwanés',
+    'CategoryGrid.article': 'artículo',
+    'CategoryGrid.articles': 'artículos',
+    'CategoryGrid.explore': 'explorar',
+    'CategoryGrid.aria-section': 'Categorías de conocimiento sobre Taiwán',
+    'CategoryGrid.aria-explore': 'Explorar',
+    'CategoryGrid.aria-explore-suffix': ' ',
+    'CategoryGrid.alt-category-image-suffix': 'imagen de categoría',
+  },
 } as const;
+
+// Utility functions for ES locale support
+export function getLangPrefix(lang: Lang): string {
+  if (lang === 'zh-TW') return '';
+  return `/${lang}`;
+}
+
+export function getLocaleFromPath(path: string): Lang {
+  if (path.startsWith('/en')) return 'en';
+  if (path.startsWith('/es')) return 'es';
+  return 'zh-TW';
+}
+
+export function getActiveLocales(): Lang[] {
+  return ['zh-TW', 'en', 'es'];
+}
+
+export function t(key: string, lang: Lang = defaultLang): string {
+  const localeStrings = ui[lang] as Record<string, string> | undefined;
+  if (localeStrings && key in localeStrings) {
+    return localeStrings[key];
+  }
+  if (lang !== 'en' && key in ui.en) {
+    return ui.en[key as keyof typeof ui.en];
+  }
+  if (key in ui['zh-TW']) {
+    return ui['zh-TW'][key as keyof typeof ui['zh-TW']];
+  }
+  return key;
+}
