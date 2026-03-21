@@ -3,10 +3,20 @@ import { homeUI } from './home';
 import { aboutUI } from './about';
 import { dataUI } from './data';
 
+export type Locale = Lang;
+
 export const languages: Record<Lang, string> = {
   en: 'English',
   'zh-TW': '中文',
   es: 'Español',
+};
+
+export const localeNames: Record<Lang, string> = languages;
+
+export const localeFlags: Record<Lang, string> = {
+  'zh-TW': '🇹🇼',
+  en: '🇺🇸',
+  es: '🇪🇸',
 };
 
 export const defaultLang: Lang = 'zh-TW';
@@ -26,7 +36,18 @@ export const ui = {
     'nav.aria-language-selection': 'Language selection',
     'nav.aria-switch-to-zh-tw': 'Switch to Traditional Chinese',
     'nav.aria-switch-to-en': 'Switch to English',
+    'hero.title': 'Know Taiwan Deeply',
+    'hero.subtitle': 'Curating the Deep Narratives of an Island',
+    'hero.description': 'Open-source, AI-friendly knowledge base — 660+ pages on history, culture, geography and more.',
+    'hero.cta.journey': 'Start the Journey',
+    'hero.cta.map': 'Geographic Taiwan',
     'nav.home': 'Home',
+    'nav.journey': 'Journey',
+    'nav.changelog': 'Changelog',
+    'nav.topics': 'Topics',
+    'nav.random': 'Random Discovery',
+    'nav.search': 'Search',
+    'nav.language': 'Language',
     'nav.about': 'About',
     'nav.twitter': 'Twitter',
     'nav.explore': '🕸️ Knowledge Graph',
@@ -117,7 +138,18 @@ export const ui = {
     'nav.aria-language-selection': '語言選擇',
     'nav.aria-switch-to-zh-tw': '切換至繁體中文',
     'nav.aria-switch-to-en': '切換至英文',
+    'hero.title': '深度認識台灣',
+    'hero.subtitle': '策展島嶼深層敘事',
+    'hero.description': '開源 AI-friendly 知識庫 — 660+ 頁深度內容，涵蓋歷史、文化、地理等 12 大主題。',
+    'hero.cta.journey': '開始旅程',
+    'hero.cta.map': '地理台灣',
     'nav.home': '首頁',
+    'nav.journey': '知識旅程',
+    'nav.changelog': '更新紀錄',
+    'nav.topics': '主題',
+    'nav.random': '隨機發現',
+    'nav.search': '搜尋',
+    'nav.language': '語言',
     'nav.about': '關於',
     'nav.twitter': '推特',
     'nav.explore': '🕸️ 知識圖譜',
@@ -186,7 +218,18 @@ export const ui = {
     'CategoryGrid.alt-category-image-suffix': '主題相關圖片',
   },
   es: {
+    'hero.title': 'Conoce Taiwán a Fondo',
+    'hero.subtitle': 'Curación de las Narrativas Profundas de una Isla',
+    'hero.description': 'Base de conocimiento de código abierto — 660+ páginas sobre historia, cultura, geografía y más.',
+    'hero.cta.journey': 'Comenzar el Recorrido',
+    'hero.cta.map': 'Taiwán Geográfico',
     'nav.home': 'Inicio',
+    'nav.journey': 'Recorrido',
+    'nav.changelog': 'Registro de Cambios',
+    'nav.topics': 'Temas',
+    'nav.random': 'Descubrimiento Aleatorio',
+    'nav.search': 'Buscar',
+    'nav.language': 'Idioma',
     'nav.map': '📍 Mapa Interactivo',
     'nav.contribute': '✋ Contribuir',
     'nav.about': 'Acerca de',
