@@ -1,18 +1,41 @@
-<svg viewBox="0 0 100 120" xmlns="http://www.w3.org/2000/svg">
-  <!-- AI 典型錯誤：形狀太圓、比例失真、缺少細節 -->
-  <g fill="#ff6b6b" stroke="#333" stroke-width="1">
-    <!-- 主島（錯誤形狀：過於簡化和圓潤） -->
-    <ellipse cx="50" cy="60" rx="25" ry="35" />
-    <!-- 澎湖（位置錯誤：太靠近主島） -->
-    <circle cx="20" cy="55" r="3" />
-    <circle cx="18" cy="58" r="2" />
-    <circle cx="22" cy="57" r="1.5" />
-    <!-- 金門（位置完全錯誤：放在東邊） -->
-    <circle cx="78" cy="50" r="2" />
-    <!-- 馬祖（缺失） -->
-  </g>
-  <!-- 標示為錯誤 -->
-  <text x="50" y="110" text-anchor="middle" font-family="Arial" font-size="10" fill="#ff6b6b">
-    AI 生成 (錯誤)
-  </text>
+<svg width="100%" viewBox="0 0 680 900" xmlns="http://www.w3.org/2000/svg">
+
+
+<ellipse cx="340" cy="460" rx="220" ry="380" style="fill:rgb(90, 176, 216);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.06;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<path d="&#10;  M 340 80&#10;  C 355 82, 370 90, 382 105&#10;  C 398 125, 408 150, 415 175&#10;  C 425 205, 430 230, 432 260&#10;  C 435 285, 436 310, 435 335&#10;  C 434 360, 432 385, 428 410&#10;  C 424 435, 418 458, 412 480&#10;  C 405 505, 396 528, 386 550&#10;  C 376 572, 365 592, 355 612&#10;  C 348 628, 342 645, 338 660&#10;  C 335 672, 333 682, 332 695&#10;  C 330 710, 328 725, 325 738&#10;  C 322 752, 318 762, 312 770&#10;  C 305 780, 298 785, 290 782&#10;  C 282 778, 278 770, 276 758&#10;  C 273 745, 272 732, 273 718&#10;  C 274 700, 276 685, 278 668&#10;  C 280 650, 282 632, 283 612&#10;  C 284 592, 282 572, 278 552&#10;  C 273 530, 268 510, 264 490&#10;  C 259 468, 256 448, 254 428&#10;  C 252 405, 252 382, 253 358&#10;  C 254 332, 257 308, 262 285&#10;  C 268 260, 275 238, 285 218&#10;  C 295 198, 305 178, 312 158&#10;  C 318 140, 325 120, 330 100&#10;  C 334 88, 337 82, 340 80&#10;  Z&#10;" style="fill:rgb(61, 138, 94);stroke:rgb(42, 107, 66);color:rgb(255, 255, 255);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<path d="&#10;  M 310 160&#10;  C 318 145, 325 138, 335 130&#10;  C 345 138, 355 150, 365 168&#10;  C 378 195, 388 225, 395 260&#10;  C 400 290, 402 320, 400 350&#10;  C 398 378, 393 405, 386 430&#10;  C 378 458, 368 485, 355 510&#10;  C 342 538, 330 560, 320 580&#10;  C 312 598, 305 610, 298 620&#10;  C 292 612, 288 598, 286 582&#10;  C 284 562, 283 542, 284 520&#10;  C 285 498, 288 475, 292 452&#10;  C 296 428, 300 405, 302 380&#10;  C 304 355, 305 330, 304 305&#10;  C 303 280, 304 258, 306 238&#10;  C 308 215, 308 190, 310 160&#10;  Z&#10;" opacity="0.7" style="fill:rgb(46, 102, 68);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<path d="&#10;  M 332 135 L 340 118 L 348 135 Z&#10;  M 345 155 L 352 140 L 358 155 Z&#10;  M 320 170 L 326 156 L 332 170 Z&#10;" opacity="0.6" style="fill:rgb(245, 245, 240);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.6;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+<g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+  <path d="M 140 300 Q 170 290, 200 300 Q 230 310, 260 300" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 135 320 Q 165 310, 195 320 Q 225 330, 250 320" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 430 400 Q 460 390, 490 400 Q 520 410, 540 400" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 435 420 Q 465 410, 495 420 Q 525 430, 545 420" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 150 550 Q 180 540, 210 550 Q 240 560, 265 550" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <path d="M 420 250 Q 450 240, 480 250 Q 510 260, 535 250" style="fill:none;stroke:rgb(58, 143, 191);color:rgb(255, 255, 255);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.25;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+</g>
+
+<circle cx="370" cy="175" r="4" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="382" y="179" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Taipei 台北</text>
+
+<circle cx="405" cy="270" r="3.5" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="417" y="274" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Hsinchu 新竹</text>
+
+<circle cx="410" cy="355" r="3.5" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="422" y="359" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Taichung 台中</text>
+
+<circle cx="385" cy="490" r="3.5" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="397" y="494" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Tainan 台南</text>
+
+<circle cx="365" cy="550" r="4" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="377" y="554" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Kaohsiung 高雄</text>
+
+<circle cx="290" cy="420" r="3" style="fill:rgb(232, 93, 58);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+<text x="222" y="424" style="fill:rgb(194, 192, 182);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:start;dominant-baseline:auto">Hualien 花蓮</text>
+
+<text x="340" y="845" text-anchor="middle" style="fill:rgb(250, 249, 245);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:22px;font-weight:500;text-anchor:middle;dominant-baseline:auto">TAIWAN 台灣</text>
+<text x="340" y="868" text-anchor="middle" style="font-family: var(--font-sans); font-size: 13px; fill: var(--color-text-tertiary); font-weight: 400; letter-spacing: 2px;;fill:rgb(156, 154, 146);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, sans-serif;font-size:13px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Formosa — 福爾摩沙</text>
 </svg>
