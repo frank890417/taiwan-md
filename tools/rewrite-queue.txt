@@ -1,7 +1,3 @@
-economy/台灣企業：巨大機械.md
-economy/台灣企業：富邦金控.md
-economy/台灣企業：大立光電.md
-economy/台灣企業：台達電子.md
 culture/台灣廟會與陣頭文化.md
 art/台灣漫畫與插畫.md
 art/台灣攝影.md
@@ -41,14 +37,6 @@ food/台灣新住民美食融合.md
 food/台灣小吃.md
 food/台灣夜市小吃圖鑑.md
 food/台灣地方小吃地圖.md
-economy/台灣企業：長榮海運.md
-economy/台灣企業：遠東集團.md
-economy/台灣企業：聯發科技.md
-economy/台灣企業：國泰金控.md
-economy/台灣企業：台積電.md
-economy/台灣企業：台塑集團.md
-economy/台灣企業：仁寶電腦.md
-economy/台灣企業：中華電信.md
 economy/台灣中小企業與隱形冠軍.md
 culture/客家文化.md
 culture/台灣原住民文化.md
@@ -97,10 +85,6 @@ food/台灣醬料與調味.md
 food/_Food Hub.md
 economy/新創生態系.md
 economy/台灣外貿與全球供應鏈.md
-economy/台灣企業：鴻海精密.md
-economy/台灣企業：華碩.md
-economy/台灣企業：緯創資通.md
-economy/台灣企業：研華科技.md
 economy/_Economy Hub.md
 culture/台灣街頭藝術與塗鴉文化.md
 culture/台灣漫畫與動漫文化.md
@@ -155,9 +139,6 @@ economy/台灣農業與農村再生.md
 economy/台灣能源轉型與綠能產業.md
 economy/台灣產業轉型與經濟發展軌跡.md
 economy/台灣國際貿易政策：在全球化浪潮中尋找定位.md
-economy/台灣企業：聯華電子.md
-economy/台灣企業：宏碁.md
-economy/台灣企業：和碩聯合.md
 culture/語言多樣性與母語文化.md
 culture/族群（閩南客家原住民外省新住民）.md
 culture/台灣文化創意園區發展.md
@@ -167,3 +148,22 @@ art/台灣當代文學發展.md
 art/原住民文學.md
 art/_Art Hub.md
 about/緣起故事.md
+economy/台灣企業：巨大機械.md
+economy/台灣企業：富邦金控.md
+economy/台灣企業：大立光電.md
+economy/台灣企業：台達電子.md
+economy/台灣企業：長榮海運.md
+economy/台灣企業：遠東集團.md
+economy/台灣企業：聯發科技.md
+economy/台灣企業：國泰金控.md
+economy/台灣企業：台積電.md
+economy/台灣企業：台塑集團.md
+economy/台灣企業：仁寶電腦.md
+economy/台灣企業：中華電信.md
+economy/台灣企業：鴻海精密.md
+economy/台灣企業：華碩.md
+economy/台灣企業：緯創資通.md
+economy/台灣企業：研華科技.md
+economy/台灣企業：聯華電子.md
+economy/台灣企業：宏碁.md
+economy/台灣企業：和碩聯合.md
