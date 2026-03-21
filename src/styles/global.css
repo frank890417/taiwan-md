@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Noto+Serif+TC:wght@400;600;700;900&display=swap');
+  @import url('https://api.fontsource.org/v1/fonts/satoshi/latin/400,500,600,700/normal.css');
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-cream text-forest font-sans;
+  }
+
+  /* Prose typography for article content */
+  .prose h1 { @apply text-3xl md:text-4xl font-serif font-bold text-forest mb-6 leading-tight; }
+  .prose h2 { @apply text-2xl md:text-3xl font-serif font-bold text-forest mt-12 mb-4 leading-snug; }
+  .prose h3 { @apply text-xl md:text-2xl font-serif font-semibold text-forest-600 mt-8 mb-3; }
+  .prose h4 { @apply text-lg font-serif font-semibold text-forest-600 mt-6 mb-2; }
+  .prose p { @apply text-base leading-relaxed text-forest-700 mb-4; }
+  .prose a { @apply text-teal underline decoration-teal/30 underline-offset-2 hover:decoration-teal transition-colors; }
+  .prose ul { @apply list-disc pl-6 mb-4 space-y-1; }
+  .prose ol { @apply list-decimal pl-6 mb-4 space-y-1; }
+  .prose li { @apply text-base leading-relaxed text-forest-700; }
+  .prose blockquote {
+    @apply border-l-4 border-terracotta pl-4 py-2 my-6 italic text-forest-600 bg-terracotta-50 rounded-r-lg;
+  }
+  .prose code { @apply bg-forest-50 text-forest-600 px-1.5 py-0.5 rounded text-sm font-mono; }
+  .prose pre { @apply bg-forest-900 text-cream-100 p-4 rounded-xl overflow-x-auto mb-6; }
+  .prose pre code { @apply bg-transparent text-inherit p-0; }
+  .prose img { @apply rounded-xl shadow-card my-6; }
+  .prose table { @apply w-full border-collapse mb-6; }
+  .prose th { @apply bg-forest-50 text-forest font-semibold text-left p-3 border-b-2 border-forest-100; }
+  .prose td { @apply p-3 border-b border-forest-50 text-forest-700; }
+  .prose hr { @apply border-forest-100 my-8; }
+
+  /* Chinese text optimization */
+  [lang="zh-TW"] .prose p,
+  [lang="zh-TW"] .prose li {
+    @apply font-serif leading-body-zh;
+  }
+
+  /* English body text */
+  [lang="en"] .prose p,
+  [lang="en"] .prose li {
+    @apply leading-body-en;
+  }
+
+  /* Heading line-height */
+  h1, h2, h3, h4 {
+    line-height: 1.2;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-teal text-white font-medium rounded-full
+           hover:bg-teal-600 active:bg-teal-700 transition-all duration-200
+           shadow-md hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-teal-300 focus:ring-offset-2;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center gap-2 px-6 py-3 bg-white/90 text-forest font-medium rounded-full
+           border border-forest-100 hover:bg-white hover:border-forest-200
+           transition-all duration-200 shadow-sm hover:shadow-md
+           focus:outline-none focus:ring-2 focus:ring-forest-200 focus:ring-offset-2;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 px-4 py-2 text-forest-600 font-medium rounded-lg
+           hover:bg-forest-50 transition-all duration-200
+           focus:outline-none focus:ring-2 focus:ring-forest-200;
+  }
+
+  .card {
+    @apply bg-white/90 border border-forest-100/50 rounded-2xl shadow-card
+           backdrop-blur-sm transition-all duration-300 overflow-hidden;
+  }
+
+  .card-hover {
+    @apply hover:shadow-card-hover hover:-translate-y-1 hover:border-forest-100;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-serif font-bold text-forest text-center;
+  }
+
+  .section-subtitle {
+    @apply text-lg text-forest-400 text-center max-w-2xl mx-auto mt-3;
+  }
+
+  .container-wide {
+    @apply max-w-wide mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .container-narrow {
+    @apply max-w-container mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}
+
+@layer utilities {
+  .animate-on-scroll {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+
+  .animate-on-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    .animate-on-scroll {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+}
