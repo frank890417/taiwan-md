@@ -1868,10 +1868,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     /* Horizontal Timeline for Desktop */
     .timeline-horizontal {
       position: relative;
-      padding: 2rem 0;
-      overflow-x: auto;
-      overflow-y: visible;
-      max-height: 300px;
+      padding: 6rem 0 2rem;
+      overflow: visible;
     }
 
     .timeline-horizontal::before {
@@ -1928,25 +1926,25 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       left: 50%;
       transform: translateX(-50%);
       margin-bottom: 15px;
-      background: rgba(255, 255, 255, 0.95);
+      background: rgba(30, 41, 59, 0.9);
       backdrop-filter: blur(8px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
+      border: 1px solid rgba(255, 255, 255, 0.1);
       border-radius: 8px;
-      padding: 0.75rem 1rem;
-      min-width: 180px;
-      max-width: 240px;
+      padding: 0.5rem 0.75rem;
+      min-width: 140px;
+      max-width: 200px;
       text-align: center;
-      opacity: 0;
-      pointer-events: none;
+      opacity: 1;
+      pointer-events: auto;
       transition: all 0.3s ease;
-      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
       z-index: 10;
     }
 
     .timeline-item:hover .timeline-content {
-      opacity: 1;
-      pointer-events: auto;
       transform: translateX(-50%) translateY(-5px);
+      background: rgba(30, 41, 59, 0.95);
+      box-shadow: 0 8px 25px rgba(96, 165, 250, 0.2);
     }
 
     .timeline-year {
