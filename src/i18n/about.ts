@@ -23,13 +23,13 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '660+',
+    'about.stats.pages.number': '716+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
-    'about.stats.stars.number': '600+',
+    'about.stats.stars.number': '690+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '23+',
+    'about.stats.contributors.number': '21+',
     'about.stats.contributors.label': 'Contributors',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': 'Users',
@@ -257,13 +257,13 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '660+',
+    'about.stats.pages.number': '716+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
-    'about.stats.stars.number': '600+',
+    'about.stats.stars.number': '690+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '23+',
+    'about.stats.contributors.number': '21+',
     'about.stats.contributors.label': '貢獻者',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': '使用者',
