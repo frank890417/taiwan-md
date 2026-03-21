@@ -4,7 +4,7 @@ interface Props {
   description?: string;
   image?: string;
   url?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: 'zh-TW' | 'en' | 'es';
   type?: 'website' | 'article';
   datePublished?: string;
   dateModified?: string;
@@ -18,6 +18,8 @@ const {
   title,
   description = lang === 'en'
     ? 'The open-source, AI-friendly knowledge base about Taiwan. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
+    : lang === 'es'
+    ? 'La base de conocimiento de código abierto sobre Taiwán. Más de 660 páginas sobre historia, cultura, gastronomía, música, tecnología y más — escrita por la comunidad, para el mundo.'
     : '開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
   image = '/images/taiwan-social.jpg',
   url = Astro.url.href,
@@ -61,7 +63,7 @@ const generateJSONLD = () => {
       ...(datePublished && { birthDate: datePublished }),
     };
   }
-  
+
   // Article pages
   if (type === 'article' && datePublished) {
     return {
@@ -90,7 +92,7 @@ const generateJSONLD = () => {
       inLanguage: lang,
       url: url,
       image: {
-        '@type': 'ImageObject', 
+        '@type': 'ImageObject',
         url: fullImageUrl,
         width: 1200,
         height: 630,
@@ -103,14 +105,16 @@ const generateJSONLD = () => {
       ...(category && { articleSection: category }),
     };
   }
-  
+
   // Website root
   return {
     '@context': 'https://schema.org',
     '@type': 'WebSite',
-    name: lang === 'en' ? 'Taiwan.md — Knowledge Base' : 'Taiwan.md - 台灣知識庫',
+    name: lang === 'en' ? 'Taiwan.md — Knowledge Base' : lang === 'es' ? 'Taiwan.md — Base de Conocimiento' : 'Taiwan.md - 台灣知識庫',
     description: lang === 'en'
       ? 'Open-source, AI-friendly knowledge base about Taiwan — politics, economy, culture, history, geography, and more.'
+      : lang === 'es'
+      ? 'Base de conocimiento de código abierto sobre Taiwán — política, economía, cultura, historia, geografía y más.'
       : '讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。',
     url: siteUrl,
     inLanguage: lang,
@@ -152,6 +156,8 @@ const organizationLD = {
   logo: `${siteUrl}/images/taiwan-social.jpg`,
   description: lang === 'en'
     ? 'Open-source, AI-friendly knowledge base about Taiwan'
+    : lang === 'es'
+    ? 'Base de conocimiento de código abierto sobre Taiwán'
     : '開源、AI-friendly 的台灣知識庫',
   foundingDate: '2024',
   sameAs: [
@@ -171,11 +177,15 @@ const organizationLD = {
 const baseKeywords =
   lang === 'en'
     ? 'Taiwan, knowledge base, Taiwan history, Taiwan culture, Taiwan politics, Taiwan economy'
+    : lang === 'es'
+    ? 'Taiwán, base de conocimiento, historia de Taiwán, cultura de Taiwán, política de Taiwán'
     : '台灣, Taiwan, 台灣知識庫, 台灣歷史, 台灣文化, 台灣政治, 台灣經濟';
-    
-const categoryKeywords = category ? 
-  (lang === 'en' ? 
-    [`Taiwan ${category}`, `${category} Taiwan`] : 
+
+const categoryKeywords = category ?
+  (lang === 'en' ?
+    [`Taiwan ${category}`, `${category} Taiwan`] :
+  lang === 'es' ?
+    [`Taiwán ${category}`, `${category} Taiwán`] :
     [`台灣${category}`, `${category}台灣`]) : [];
 
 const dynamicKeywords = [
@@ -188,22 +198,24 @@ const dynamicKeywords = [
 const generateBreadcrumbLD = () => {
   const currentPath = new URL(url).pathname;
   const isEn = lang === 'en';
-  
+  const isEs = lang === 'es';
+
   // Homepage - no breadcrumb needed
-  if (currentPath === '/' || currentPath === '/en' || currentPath === '/en/') {
+  if (currentPath === '/' || currentPath === '/en' || currentPath === '/en/' || currentPath === '/es' || currentPath === '/es/') {
     return null;
   }
-  
+
+  const homeItem = isEn ? `${siteUrl}/en` : isEs ? `${siteUrl}/es` : siteUrl;
   const baseItems = [
     {
       '@type': 'ListItem',
       position: 1,
       name: 'Taiwan.md',
-      item: isEn ? `${siteUrl}/en` : siteUrl,
+      item: homeItem,
     }
   ];
-  
-  // Category page (e.g., /history, /en/culture)
+
+  // Category page (e.g., /history, /en/culture, /es/historia)
   if (category && (currentPath.endsWith(`/${category}`) || currentPath.endsWith(`/${category}/`))) {
     return {
       '@context': 'https://schema.org',
@@ -219,10 +231,14 @@ const generateBreadcrumbLD = () => {
       ],
     };
   }
-  
+
   // Article page
   if (category && type === 'article') {
-    const categoryUrl = isEn ? `${siteUrl}/en/${category}` : `${siteUrl}/${category}`;
+    const categoryUrl = isEn
+      ? `${siteUrl}/en/${category}`
+      : isEs
+      ? `${siteUrl}/es/${category}`
+      : `${siteUrl}/${category}`;
     return {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
@@ -243,7 +259,7 @@ const generateBreadcrumbLD = () => {
       ],
     };
   }
-  
+
   // Other pages (about, contribute, etc.)
   return {
     '@context': 'https://schema.org',
@@ -261,6 +277,9 @@ const generateBreadcrumbLD = () => {
 };
 
 const breadcrumbLD = generateBreadcrumbLD();
+
+// OG locale map
+const localeMap: Record<string, string> = { 'zh-TW': 'zh_TW', 'en': 'en_US', 'es': 'es_419' };
 ---
 
 <!-- Basic Meta Tags -->
@@ -303,25 +322,31 @@ const breadcrumbLD = generateBreadcrumbLD();
   const currentPath = new URL(url).pathname;
   let zhHref = siteUrl;
   let enHref = `${siteUrl}/en`;
-  
-  // For specific pages, build proper hreflang URLs
-  if (currentPath !== '/' && currentPath !== '/en' && currentPath !== '/en/') {
+  let esHref = `${siteUrl}/es`;
+
+  if (currentPath !== '/' && currentPath !== '/en' && currentPath !== '/en/' && currentPath !== '/es' && currentPath !== '/es/') {
     if (currentPath.startsWith('/en/')) {
-      // Current is English, generate Chinese equivalent
       enHref = url;
       const cleanPath = currentPath.replace('/en', '') || '/';
       zhHref = `${siteUrl}${cleanPath}`;
+      esHref = `${siteUrl}/es${cleanPath}`;
+    } else if (currentPath.startsWith('/es/')) {
+      esHref = url;
+      const cleanPath = currentPath.replace('/es', '') || '/';
+      zhHref = `${siteUrl}${cleanPath}`;
+      enHref = `${siteUrl}/en${cleanPath}`;
     } else {
-      // Current is Chinese, generate English equivalent  
       zhHref = url;
       enHref = `${siteUrl}/en${currentPath}`;
+      esHref = `${siteUrl}/es${currentPath}`;
     }
   }
-  
+
   return (
     <>
       <link rel="alternate" hreflang="zh-TW" href={zhHref} />
       <link rel="alternate" hreflang="en" href={enHref} />
+      <link rel="alternate" hreflang="es" href={esHref} />
       <link rel="alternate" hreflang="x-default" href={zhHref} />
     </>
   );
@@ -338,7 +363,7 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
 <meta property="og:site_name" content="Taiwan.md — 台灣知識庫" />
-<meta property="og:locale" content={lang === 'zh-TW' ? 'zh_TW' : 'en_US'} />
+<meta property="og:locale" content={localeMap[lang] || 'zh_TW'} />
 {
   datePublished && (
     <meta property="article:published_time" content={datePublished} />

@@ -1,0 +1,47 @@
+---
+/**
+ * LanguageSwitcher — Compact locale switcher (text-only, no emoji flags)
+ */
+import { getLocaleFromPath, getLangPrefix, getActiveLocales, localeNames } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+  class?: string;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname), class: className = '' } = Astro.props;
+const currentPath = Astro.url.pathname;
+const activeLocales = getActiveLocales();
+
+function getLangLink(targetLang: Locale): string {
+  const targetPrefix = getLangPrefix(targetLang);
+  let cleanPath = currentPath;
+  for (const loc of activeLocales) {
+    const p = getLangPrefix(loc);
+    if (p && cleanPath.startsWith(p)) {
+      cleanPath = cleanPath.slice(p.length) || '/';
+      break;
+    }
+  }
+  return targetPrefix + (cleanPath === '/' ? '' : cleanPath) || '/';
+}
+---
+
+<div class={`flex items-center gap-1 ${className}`} role="navigation" aria-label="Language">
+  {activeLocales.map((locale) => (
+    <a
+      href={getLangLink(locale)}
+      class:list={[
+        'px-2.5 py-1 text-xs font-semibold rounded-md transition-colors',
+        locale === lang
+          ? 'bg-teal/10 text-teal'
+          : 'text-forest-400 hover:text-teal hover:bg-teal/5'
+      ]}
+      aria-current={locale === lang ? 'page' : undefined}
+      aria-label={`Switch to ${localeNames[locale]}`}
+    >
+      {localeNames[locale]}
+    </a>
+  ))}
+</div>

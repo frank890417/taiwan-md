@@ -1,0 +1,106 @@
+---
+import * as fs from 'node:fs';
+import * as path from 'node:path';
+import TopicCard from './TopicCard.astro';
+import { t, getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+// Count articles dynamically from knowledge/ directory
+function countArticles(categorySlug: string): number {
+  const categoryMap: Record<string, string> = {
+    history: 'History', geography: 'Geography', culture: 'Culture', food: 'Food',
+    art: 'Art', music: 'Music', technology: 'Technology', nature: 'Nature',
+    people: 'People', society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle'
+  };
+  const dirName = categoryMap[categorySlug] || categorySlug;
+  const dirPath = path.join(process.cwd(), 'knowledge', dirName);
+  try {
+    const files = fs.readdirSync(dirPath);
+    return files.filter(f => f.endsWith('.md') && !f.startsWith('_')).length;
+  } catch {
+    return 0;
+  }
+}
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const prefix = getLangPrefix(lang);
+const articleLabel = t('categories.articles', lang);
+const ctaLabel = t('cat.cta', lang);
+
+// Intentionally interleaved heights for visual balance across 3 columns:
+// Col 1: history(tall), food(short), technology(tall), people(short)
+// Col 2: geography(med), art(med), nature(med), society(med)
+// Col 3: culture(tall), music(short), economy(tall), lifestyle(short)
+const categories: { slug: string; height: 'tall' | 'medium' | 'short' }[] = [
+  { slug: 'history',    height: 'tall' },
+  { slug: 'geography',  height: 'medium' },
+  { slug: 'culture',    height: 'tall' },
+  { slug: 'food',       height: 'short' },
+  { slug: 'art',        height: 'medium' },
+  { slug: 'music',      height: 'short' },
+  { slug: 'technology', height: 'tall' },
+  { slug: 'nature',     height: 'medium' },
+  { slug: 'economy',    height: 'tall' },
+  { slug: 'people',     height: 'short' },
+  { slug: 'society',    height: 'medium' },
+  { slug: 'lifestyle',  height: 'short' },
+];
+---
+
+<section
+  class="topics-masonry"
+  id="categories"
+  aria-label={t('nav.topics', lang)}
+>
+  {categories.map(({ slug, height }) => {
+    const count = countArticles(slug);
+    const name = t(`cat.${slug}`, lang);
+    const description = t(`cat.${slug}.desc`, lang);
+    const href = `${prefix}/${slug}`;
+    return (
+      <article class="masonry-item">
+        <TopicCard
+          slug={slug}
+          href={href}
+          name={name}
+          description={description}
+          count={count}
+          articleLabel={articleLabel}
+          ctaLabel={ctaLabel}
+          height={height}
+        />
+      </article>
+    );
+  })}
+</section>
+
+<style>
+  .topics-masonry {
+    columns: 1;
+    column-gap: 3rem;
+    max-width: 90rem;
+    margin-inline: auto;
+    padding-inline: 1.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .topics-masonry {
+      columns: 2;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .topics-masonry {
+      columns: 3;
+    }
+  }
+
+  .masonry-item {
+    break-inside: avoid;
+    margin-bottom: 3rem;
+  }
+</style>

@@ -1,0 +1,37 @@
+---
+/**
+ * WhyCard — Asymmetric info card for "Why Taiwan.md?" section
+ * Premium Lonely Planet style: large image, minimal text, generous whitespace
+ */
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  imageAlt?: string;
+  reversed?: boolean;
+}
+
+const { title, description, image, imageAlt = '', reversed = false } = Astro.props;
+---
+
+<div class:list={['group grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center', reversed && 'md:[direction:rtl]']}>
+  {image && (
+    <div class="md:[direction:ltr] overflow-hidden rounded-2xl">
+      <img
+        src={image}
+        alt={imageAlt}
+        class="w-full h-48 md:h-64 lg:h-80 object-cover transition-transform duration-700 group-hover:scale-[1.03]"
+        loading="lazy"
+        decoding="async"
+      />
+    </div>
+  )}
+  <div class="md:[direction:ltr] flex flex-col justify-center">
+    <h3 class="text-2xl md:text-3xl font-serif font-bold text-forest mb-4 leading-tight">
+      {title}
+    </h3>
+    <p class="text-base text-forest-400 leading-relaxed">
+      {description}
+    </p>
+  </div>
+</div>

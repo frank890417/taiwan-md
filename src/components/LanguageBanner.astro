@@ -1,0 +1,109 @@
+---
+/**
+ * LanguageBanner — Shows language detection banner for non-native speakers
+ * Detects browser language and suggests switching when on wrong locale
+ */
+import { getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+// English link
+let enLink = '/en';
+if (currentPath.startsWith('/en')) {
+  enLink = currentPath;
+} else if (currentPath.startsWith('/es')) {
+  enLink = '/en' + currentPath.slice(3);
+} else {
+  enLink = '/en' + (currentPath === '/' ? '' : currentPath);
+}
+
+// Spanish link
+let esLink = '/es';
+if (currentPath.startsWith('/es')) {
+  esLink = currentPath;
+} else if (currentPath.startsWith('/en')) {
+  esLink = '/es' + currentPath.slice(3);
+} else {
+  esLink = '/es' + (currentPath === '/' ? '' : currentPath);
+}
+---
+
+<div id="lang-banner" class="hidden fixed top-0 left-0 right-0 z-[60] bg-teal/90 backdrop-blur-sm text-white text-sm py-2.5 px-4 text-center" role="alert">
+  <span id="lang-banner-text"></span>
+  <a id="lang-banner-link" href="#" class="underline font-medium ml-1 hover:text-cream-200"></a>
+  <button
+    class="ml-3 text-white/70 hover:text-white transition-colors"
+    aria-label="Close"
+    id="lang-banner-close"
+  >&times;</button>
+</div>
+
+<script is:inline define:vars={{ lang, enLink, esLink }}>
+(function() {
+  if (localStorage.getItem('lang-banner-dismissed')) return;
+
+  var banner = document.getElementById('lang-banner');
+  var text = document.getElementById('lang-banner-text');
+  var link = document.getElementById('lang-banner-link');
+  var close = document.getElementById('lang-banner-close');
+  if (!banner || !text || !link) return;
+
+  var browserLang = (navigator.language || '').toLowerCase();
+
+  // Don't show if already on matching locale
+  if (browserLang.startsWith('zh') && lang === 'zh-TW') return;
+  if (browserLang.startsWith('en') && lang === 'en') return;
+  if (browserLang.startsWith('es') && lang === 'es') return;
+
+  // Suggest English for non-Chinese speakers on zh-TW pages
+  if (!browserLang.startsWith('zh') && lang === 'zh-TW') {
+    if (browserLang.startsWith('es')) {
+      text.textContent = 'Versión en español disponible →';
+      link.textContent = 'Cambiar a Español';
+      link.href = esLink;
+    } else {
+      text.textContent = 'English version available →';
+      link.textContent = 'Switch to English';
+      link.href = enLink;
+    }
+    banner.classList.remove('hidden');
+    // Push navbar and spacer down by banner height
+    requestAnimationFrame(function() {
+      var h = banner.offsetHeight;
+      var navbar = document.getElementById('site-navbar');
+      if (navbar) navbar.style.top = h + 'px';
+      // Adjust the spacer (next sibling of header)
+      if (navbar) {
+        var spacer = navbar.parentElement && navbar.parentElement.nextElementSibling;
+        if (!spacer) spacer = navbar.nextElementSibling;
+        if (spacer && spacer.classList.contains('h-18')) {
+          spacer.style.height = 'calc(4.5rem + ' + h + 'px)';
+        }
+      }
+    });
+  }
+
+  if (close) {
+    close.addEventListener('click', function() {
+      banner.classList.add('hidden');
+      localStorage.setItem('lang-banner-dismissed', '1');
+      // Reset navbar and spacer positions
+      var navbar = document.getElementById('site-navbar');
+      if (navbar) navbar.style.top = '';
+      if (navbar) {
+        var spacer = navbar.parentElement && navbar.parentElement.nextElementSibling;
+        if (!spacer) spacer = navbar.nextElementSibling;
+        if (spacer && spacer.classList.contains('h-18')) {
+          spacer.style.height = '';
+        }
+      }
+    });
+  }
+})();
+</script>

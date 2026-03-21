@@ -1,0 +1,467 @@
+---
+export interface Props {
+  slug: string;
+  href: string;
+  name: string;
+  description: string;
+  count: number;
+  articleLabel: string;
+  ctaLabel: string;
+  height: 'tall' | 'medium' | 'short';
+}
+
+const { slug, href, name, description, count, articleLabel, ctaLabel, height } = Astro.props;
+
+const minHeightMap = {
+  tall: '26rem',
+  medium: '20rem',
+  short: '16rem',
+};
+const minHeight = minHeightMap[height];
+
+// Per-category accent colors
+const accentMap: Record<string, string> = {
+  history:    '#8B5E3C',
+  geography:  '#2D7D5A',
+  culture:    '#C17D5E',
+  food:       '#D4843A',
+  art:        '#7A5EA8',
+  music:      '#2A7FA5',
+  technology: '#2D6E8A',
+  nature:     '#3A8A4A',
+  people:     '#B54B4B',
+  society:    '#5E6EA8',
+  economy:    '#4A7A6A',
+  lifestyle:  '#A06878',
+};
+const accent = accentMap[slug] ?? '#006D77';
+
+// Per-category animation keyframe name
+const animMap: Record<string, string> = {
+  history:    'floatScroll',
+  geography:  'floatDrift',
+  culture:    'floatSwing',
+  food:       'floatPulse',
+  art:        'floatBrush',
+  music:      'floatWave',
+  technology: 'floatGlow',
+  nature:     'floatDrift',
+  people:     'floatSwing',
+  society:    'floatPulse',
+  economy:    'floatRise',
+  lifestyle:  'floatDrift',
+};
+const anim = animMap[slug] ?? 'floatDrift';
+
+const cardId = `tc-${slug}`;
+---
+
+<a
+  id={cardId}
+  href={href}
+  class="topic-card"
+  aria-label={name}
+  style={`--accent: ${accent}; --min-h: ${minHeight}; --anim: ${anim};`}
+>
+  <!-- Background tint -->
+  <div class="card-bg" aria-hidden="true"></div>
+
+  <!-- Texture pattern -->
+  <div class="card-texture" aria-hidden="true"></div>
+
+  <!-- Taiwan island SVG watermark -->
+  <div class="card-watermark" aria-hidden="true">
+    <svg viewBox="0 0 120 220" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <path d="M62 4 C76 5 92 12 100 26 C110 44 114 64 112 84 C110 104 102 120 98 138 C93 158 88 172 80 184 C72 198 60 212 50 216 C40 220 28 214 22 202 C14 186 16 166 20 148 C24 130 30 114 30 96 C30 78 24 62 26 46 C28 30 36 16 46 8 C52 4 56 3 62 4 Z" fill="currentColor"/>
+    </svg>
+  </div>
+
+  <!-- Floating category icon -->
+  <div class="card-float-icon" aria-hidden="true">
+    {slug === 'food' && (
+      <!-- Tea leaf -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 6 C24 6 8 14 8 28 C8 38 15 44 24 44 C33 44 40 38 40 28 C40 14 24 6 24 6Z" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M24 6 L24 44" stroke="currentColor" stroke-width="1.5" stroke-dasharray="3 2"/>
+        <path d="M24 20 C18 18 14 22 14 26" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <path d="M24 20 C30 18 34 22 34 26" stroke="currentColor" stroke-width="1.5" fill="none"/>
+      </svg>
+    )}
+    {slug === 'culture' && (
+      <!-- Lantern -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="24" y1="4" x2="24" y2="10" stroke="currentColor" stroke-width="2"/>
+        <rect x="14" y="10" width="20" height="6" rx="2" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <ellipse cx="24" cy="30" rx="12" ry="14" stroke="currentColor" stroke-width="2" fill="none"/>
+        <line x1="16" y1="16" x2="14" y2="44" stroke="currentColor" stroke-width="1" stroke-dasharray="2 2"/>
+        <line x1="32" y1="16" x2="34" y2="44" stroke="currentColor" stroke-width="1" stroke-dasharray="2 2"/>
+        <line x1="24" y1="44" x2="20" y2="48" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="24" y1="44" x2="28" y2="48" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+    )}
+    {slug === 'geography' && (
+      <!-- Mountain + mist -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 8 L38 34 L10 34 Z" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M14 34 L6 44 L42 44 L34 34" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <path d="M8 38 Q16 36 24 38 Q32 40 40 38" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <path d="M4 42 Q12 40 20 42 Q28 44 36 42" stroke="currentColor" stroke-width="1" fill="none"/>
+      </svg>
+    )}
+    {slug === 'technology' && (
+      <!-- Circuit grid -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="6" y="6" width="36" height="36" rx="3" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <line x1="6" y1="18" x2="42" y2="18" stroke="currentColor" stroke-width="1"/>
+        <line x1="6" y1="30" x2="42" y2="30" stroke="currentColor" stroke-width="1"/>
+        <line x1="18" y1="6" x2="18" y2="42" stroke="currentColor" stroke-width="1"/>
+        <line x1="30" y1="6" x2="30" y2="42" stroke="currentColor" stroke-width="1"/>
+        <circle cx="18" cy="18" r="2.5" fill="currentColor"/>
+        <circle cx="30" cy="30" r="2.5" fill="currentColor"/>
+        <circle cx="18" cy="30" r="1.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <circle cx="30" cy="18" r="1.5" stroke="currentColor" stroke-width="1.5" fill="none"/>
+      </svg>
+    )}
+    {slug === 'music' && (
+      <!-- Wave lines -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M4 16 Q10 8 16 16 Q22 24 28 16 Q34 8 40 16 Q44 20 44 20" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M4 24 Q10 16 16 24 Q22 32 28 24 Q34 16 40 24 Q44 28 44 28" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M4 32 Q10 24 16 32 Q22 40 28 32 Q34 24 40 32 Q44 36 44 36" stroke="currentColor" stroke-width="2" fill="none"/>
+      </svg>
+    )}
+    {slug === 'history' && (
+      <!-- Scroll document -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="10" y="8" width="28" height="34" rx="2" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M10 8 Q6 8 6 12 Q6 16 10 16" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <path d="M38 8 Q42 8 42 12 Q42 16 38 16" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <line x1="16" y1="20" x2="32" y2="20" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="16" y1="26" x2="32" y2="26" stroke="currentColor" stroke-width="1.5"/>
+        <line x1="16" y1="32" x2="26" y2="32" stroke="currentColor" stroke-width="1.5"/>
+      </svg>
+    )}
+    {slug === 'art' && (
+      <!-- Brush -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M32 6 L42 16 L20 38 L10 38 L10 28 Z" stroke="currentColor" stroke-width="2" fill="none"/>
+        <line x1="28" y1="10" x2="38" y2="20" stroke="currentColor" stroke-width="1"/>
+        <path d="M10 28 Q10 44 18 44 Q22 44 20 38" stroke="currentColor" stroke-width="1.5" fill="none"/>
+      </svg>
+    )}
+    {slug === 'nature' && (
+      <!-- Leaf cluster -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 40 C24 40 10 32 10 20 C10 12 16 8 24 8 C32 8 38 12 38 20 C38 32 24 40 24 40Z" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M24 8 L24 40" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M24 22 C18 18 12 20 10 24" stroke="currentColor" stroke-width="1" fill="none"/>
+        <path d="M24 22 C30 18 36 20 38 24" stroke="currentColor" stroke-width="1" fill="none"/>
+      </svg>
+    )}
+    {slug === 'people' && (
+      <!-- Silhouette -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="24" cy="14" r="7" stroke="currentColor" stroke-width="2" fill="none"/>
+        <path d="M10 44 C10 34 16 28 24 28 C32 28 38 34 38 44" stroke="currentColor" stroke-width="2" fill="none"/>
+      </svg>
+    )}
+    {slug === 'society' && (
+      <!-- 3 interlocked circles -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="18" cy="20" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+        <circle cx="30" cy="20" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+        <circle cx="24" cy="31" r="10" stroke="currentColor" stroke-width="2" fill="none"/>
+      </svg>
+    )}
+    {slug === 'economy' && (
+      <!-- Rising chart -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <line x1="8" y1="40" x2="8" y2="8" stroke="currentColor" stroke-width="2"/>
+        <line x1="8" y1="40" x2="42" y2="40" stroke="currentColor" stroke-width="2"/>
+        <polyline points="12,36 20,28 28,20 36,14 40,10" stroke="currentColor" stroke-width="2" fill="none"/>
+        <circle cx="40" cy="10" r="2.5" fill="currentColor"/>
+        <circle cx="20" cy="28" r="1.5" fill="currentColor"/>
+      </svg>
+    )}
+    {slug === 'lifestyle' && (
+      <!-- House -->
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 6 L42 22 L38 22 L38 42 L10 42 L10 22 L6 22 Z" stroke="currentColor" stroke-width="2" fill="none"/>
+        <rect x="20" y="30" width="8" height="12" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <rect x="14" y="26" width="6" height="6" stroke="currentColor" stroke-width="1.5" fill="none"/>
+        <rect x="28" y="26" width="6" height="6" stroke="currentColor" stroke-width="1.5" fill="none"/>
+      </svg>
+    )}
+  </div>
+
+  <!-- Card body -->
+  <div class="card-body">
+    <div class="card-meta">
+      <span class="card-count">{count}</span>
+      <span class="card-label">&nbsp;{articleLabel}</span>
+    </div>
+    <h3 class="card-title">{name}</h3>
+    <p class="card-desc">{description}</p>
+    <div class="card-cta">
+      <span class="cta-text">{ctaLabel}</span>
+      <span class="cta-arrow">→</span>
+    </div>
+  </div>
+</a>
+
+<style>
+  .topic-card {
+    display: block;
+    position: relative;
+    min-height: var(--min-h);
+    border-radius: 1.25rem;
+    overflow: hidden;
+    text-decoration: none;
+    cursor: pointer;
+    transition:
+      transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1),
+      box-shadow 0.35s ease;
+    box-shadow:
+      0 2px 8px color-mix(in srgb, var(--accent) 12%, transparent),
+      0 1px 2px rgba(0,0,0,0.06);
+  }
+
+  .topic-card:hover {
+    transform: translateY(-6px);
+    box-shadow:
+      0 16px 40px color-mix(in srgb, var(--accent) 22%, transparent),
+      0 4px 12px rgba(0,0,0,0.10);
+  }
+
+  .topic-card:focus-visible {
+    outline: 3px solid #006D77;
+    outline-offset: 3px;
+  }
+
+  /* Background tint layer */
+  .card-bg {
+    position: absolute;
+    inset: 0;
+    background-color: color-mix(in srgb, var(--accent) 6%, #F8F1E9);
+    border: 1px solid color-mix(in srgb, var(--accent) 18%, transparent);
+    border-radius: inherit;
+    z-index: 0;
+  }
+
+  /* Texture pattern */
+  .card-texture {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    border-radius: inherit;
+    opacity: 0.045;
+    background-image:
+      repeating-linear-gradient(
+        45deg,
+        var(--accent) 0px,
+        var(--accent) 1px,
+        transparent 1px,
+        transparent 12px
+      ),
+      repeating-linear-gradient(
+        -45deg,
+        var(--accent) 0px,
+        var(--accent) 1px,
+        transparent 1px,
+        transparent 12px
+      );
+  }
+
+  /* Taiwan island watermark */
+  .card-watermark {
+    position: absolute;
+    right: -0.5rem;
+    bottom: -1rem;
+    width: 7rem;
+    opacity: 0.05;
+    color: var(--accent);
+    z-index: 0;
+    pointer-events: none;
+    transition: opacity 0.35s ease;
+  }
+
+  .topic-card:hover .card-watermark {
+    opacity: 0.09;
+  }
+
+  .card-watermark svg {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Floating icon */
+  .card-float-icon {
+    position: absolute;
+    top: 1.25rem;
+    right: 1.25rem;
+    width: 3rem;
+    height: 3rem;
+    color: var(--accent);
+    opacity: 0;
+    z-index: 2;
+    transform: translateY(6px) scale(0.85);
+    transition:
+      opacity 0.3s ease,
+      transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    pointer-events: none;
+  }
+
+  .card-float-icon svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  .topic-card:hover .card-float-icon {
+    opacity: 0.85;
+    transform: translateY(0) scale(1);
+    animation: var(--anim) 2.5s ease-in-out infinite;
+  }
+
+  /* Card body */
+  .card-body {
+    position: relative;
+    z-index: 1;
+    padding: 1.75rem 1.5rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: var(--min-h);
+  }
+
+  /* Meta: count + label */
+  .card-meta {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 0.85rem;
+  }
+
+  .card-count {
+    font-family: 'Noto Serif TC', 'Georgia', serif;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #C17D5E;
+    letter-spacing: -0.02em;
+  }
+
+  .card-label {
+    font-family: 'Satoshi', 'Noto Sans TC', sans-serif;
+    font-size: 0.8rem;
+    color: #A8634A;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+  }
+
+  /* Title */
+  .card-title {
+    font-family: 'Noto Serif TC', 'Georgia', serif;
+    font-size: clamp(1.25rem, 2vw, 1.625rem);
+    font-weight: 700;
+    color: #1A3C34;
+    margin: 0 0 0.65rem;
+    line-height: 1.3;
+    transition: color 0.25s ease;
+  }
+
+  .topic-card:hover .card-title {
+    color: #006D77;
+  }
+
+  /* Description */
+  .card-desc {
+    font-family: 'Satoshi', 'Noto Sans TC', sans-serif;
+    font-size: 0.9rem;
+    color: #4A6560;
+    line-height: 1.75;
+    flex: 1;
+    margin: 0 0 1.25rem;
+  }
+
+  /* CTA */
+  .card-cta {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    color: #006D77;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: 'Satoshi', 'Noto Sans TC', sans-serif;
+    letter-spacing: 0.01em;
+    margin-top: auto;
+  }
+
+  .cta-arrow {
+    display: inline-block;
+    transition: transform 0.25s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .topic-card:hover .cta-arrow {
+    transform: translateX(4px);
+  }
+
+  /* ── Keyframe animations ── */
+  @keyframes floatDrift {
+    0%, 100% { transform: translateY(0px) rotate(0deg); }
+    33%       { transform: translateY(-6px) rotate(3deg); }
+    66%       { transform: translateY(-3px) rotate(-2deg); }
+  }
+
+  @keyframes floatSwing {
+    0%, 100% { transform: rotate(0deg) scale(1); }
+    25%       { transform: rotate(8deg) scale(1.05); }
+    75%       { transform: rotate(-6deg) scale(0.97); }
+  }
+
+  @keyframes floatPulse {
+    0%, 100% { transform: scale(1); opacity: 0.85; }
+    50%       { transform: scale(1.12); opacity: 1; }
+  }
+
+  @keyframes floatGlow {
+    0%, 100% { transform: translateY(0) scale(1); filter: brightness(1); }
+    50%       { transform: translateY(-4px) scale(1.06); filter: brightness(1.3); }
+  }
+
+  @keyframes floatWave {
+    0%, 100% { transform: translateX(0) scaleX(1); }
+    40%       { transform: translateX(-4px) scaleX(0.95); }
+    70%       { transform: translateX(4px) scaleX(1.05); }
+  }
+
+  @keyframes floatScroll {
+    0%, 100% { transform: translateY(0) rotateX(0deg); }
+    50%       { transform: translateY(-5px) rotateX(8deg); }
+  }
+
+  @keyframes floatBrush {
+    0%, 100% { transform: rotate(-5deg) translateY(0); }
+    50%       { transform: rotate(5deg) translateY(-6px); }
+  }
+
+  @keyframes floatRise {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50%       { transform: translateY(-8px) scale(1.04); }
+  }
+
+  /* ── Reduced motion ── */
+  @media (prefers-reduced-motion: reduce) {
+    .topic-card,
+    .topic-card:hover,
+    .card-float-icon,
+    .topic-card:hover .card-float-icon,
+    .cta-arrow,
+    .topic-card:hover .cta-arrow {
+      transition: none;
+      animation: none;
+      transform: none;
+    }
+    .topic-card:hover {
+      box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 20%, transparent);
+    }
+  }
+</style>

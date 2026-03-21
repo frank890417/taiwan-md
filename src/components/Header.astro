@@ -15,12 +15,12 @@ const translatePath = useTranslatedPath(lang);
 const { zhLink, enLink } = await getLangSwitchPath(currentPath);
 
 const navConfig = [
-  { path: '/about', label: t('nav.about') },
   { path: '/#categories', label: t('nav.explore') },
-  { path: '/map', label: t('nav.map') },
+  { path: '/graph', label: t('nav.graph') },
+  { path: '/about', label: t('nav.about') },
+  { path: '/contribute', label: t('nav.contribute') },
   { path: '/data', label: t('nav.data') },
   { path: '/resources', label: t('nav.resources') },
-  { path: '/contribute', label: t('nav.contribute') },
 ].map((item) => {
   const fullPath = translatePath(item.path);
   const pathWithoutHash = fullPath.replace(/#.*$/, '');
@@ -126,10 +126,6 @@ const categoryList = [
                   {item.label} <span class="dropdown-arrow">▾</span>
                 </a>
                 <div class="dropdown-menu">
-                  <a href={translatePath('/graph')} class="dropdown-item dropdown-section-header">
-                    🕸️ {t('nav.graph-view')}
-                  </a>
-                  <div class="dropdown-divider"></div>
                   {categoryList.map((category) => (
                     <a href={category.path} class="dropdown-item">
                       {category.emoji} {category.label}
@@ -371,16 +367,6 @@ const categoryList = [
   }
   .dropdown-item:hover {
     background: rgba(74, 124, 89, 0.08);
-  }
-  .dropdown-section-header {
-    font-weight: 600;
-    color: #1a3a0a;
-    font-size: 0.9rem;
-  }
-  .dropdown-divider {
-    height: 1px;
-    background: rgba(74, 124, 89, 0.15);
-    margin: 0.3rem 0.8rem;
   }
 
   .nav-link {

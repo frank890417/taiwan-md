@@ -1,0 +1,91 @@
+---
+/**
+ * HeroSection — Full-screen hero with background image and CTA buttons
+ * Recommended image: Taroko Gorge sunrise or similar Taiwan landscape
+ */
+import { t, getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
+
+interface Props {
+  lang?: Locale;
+}
+
+const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const prefix = getLangPrefix(lang);
+---
+
+<section class="relative min-h-screen flex items-center justify-center overflow-hidden -mt-18" aria-label="Hero">
+  <!-- Background image with overlay -->
+  <div class="absolute inset-0">
+    <img
+      src="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=1920&q=80&auto=format&fit=crop"
+      alt="Sunrise over Taroko Gorge marble cliffs in Hualien, Taiwan"
+      class="w-full h-full object-cover"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
+    />
+    <div class="absolute inset-0 bg-gradient-to-b from-forest/70 via-forest/30 to-forest/80"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="relative z-10 text-center px-6 sm:px-8 max-w-5xl mx-auto" data-hero-content>
+    <p class="text-sm sm:text-base uppercase tracking-[0.3em] text-cream-200/80 font-medium mb-6 opacity-0 translate-y-6" style="animation: heroFadeUp 0.8s 0.1s ease-out forwards;">
+      Taiwan.md
+    </p>
+    <h1 class="text-3xl sm:text-5xl md:text-6xl lg:text-8xl font-serif font-bold text-white leading-heading mb-6 opacity-0 translate-y-6" style="animation: heroFadeUp 0.8s 0.3s ease-out forwards;">
+      {t('hero.title', lang)}
+    </h1>
+    <p class="text-lg sm:text-xl md:text-2xl font-serif text-cream-200/90 mb-4 max-w-2xl mx-auto opacity-0 translate-y-6" style="animation: heroFadeUp 0.8s 0.5s ease-out forwards;">
+      {t('hero.subtitle', lang)}
+    </p>
+    <p class="text-base text-cream-300/70 mb-14 max-w-xl mx-auto opacity-0 translate-y-6" style="animation: heroFadeUp 0.8s 0.7s ease-out forwards;">
+      {t('hero.description', lang)}
+    </p>
+
+    <!-- CTA Buttons -->
+    <div class="flex flex-col sm:flex-row items-center justify-center gap-5 opacity-0 translate-y-6" style="animation: heroFadeUp 0.8s 0.9s ease-out forwards;">
+      <a
+        href={`${prefix}/#journey`}
+        class="inline-flex items-center gap-2.5 px-10 py-4.5 bg-teal text-white font-semibold text-lg rounded-full hover:bg-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5"
+      >
+        {t('hero.cta.journey', lang)}
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+        </svg>
+      </a>
+      <a
+        href={`${prefix}/map`}
+        class="inline-flex items-center gap-2.5 px-10 py-4.5 bg-white/10 text-white font-semibold text-lg rounded-full border border-white/25 hover:bg-white/20 backdrop-blur-sm transition-all duration-300"
+      >
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
+        </svg>
+        {t('hero.cta.map', lang)}
+      </a>
+    </div>
+  </div>
+
+  <!-- Scroll indicator -->
+  <div class="absolute bottom-10 left-1/2 -translate-x-1/2 opacity-0 flex flex-col items-center gap-3" style="animation: heroFadeUp 0.8s 1.3s ease-out forwards;">
+    <span class="text-xs text-white/50 uppercase tracking-widest">Scroll</span>
+    <div class="w-5 h-9 rounded-full border-2 border-white/30 flex justify-center">
+      <div class="w-1 h-2.5 bg-white/50 rounded-full mt-1.5 animate-bounce"></div>
+    </div>
+  </div>
+</section>
+
+<style>
+  @keyframes heroFadeUp {
+    from { opacity: 0; transform: translateY(24px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    [style*="heroFadeUp"] {
+      animation: none !important;
+      opacity: 1 !important;
+      transform: none !important;
+    }
+    .animate-bounce { animation: none !important; }
+  }
+</style>

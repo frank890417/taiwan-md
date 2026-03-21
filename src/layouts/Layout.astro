@@ -1,13 +1,21 @@
 ---
 import SEO from '../components/SEO.astro';
-import Banner from '../components/Banner.astro';
-import Header from '../components/Header.astro';
+import Navbar from '../components/Navbar.astro';
 import Footer from '../components/Footer.astro';
+import SearchModal from '../components/SearchModal.astro';
+import LanguageBanner from '../components/LanguageBanner.astro';
+import { ClientRouter } from 'astro:transitions';
+import '../styles/global.css';
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import { getLocaleFromPath, getLangPrefix } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
 
 interface Props {
   title: string;
   description?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: Locale;
   image?: string;
   type?: 'website' | 'article';
   datePublished?: string;
@@ -17,36 +25,74 @@ interface Props {
   category?: string;
 }
 
-const { lang = 'zh-TW' } = Astro.props;
-const {
-  title,
-  description = lang === 'en'
-    ? 'Open-source knowledge base about Taiwan'
-    : '讓全世界完整認識台灣',
-  image,
-  type,
-  datePublished,
-  dateModified,
-  content,
-  tags,
-  category,
-} = Astro.props;
+const { title, description = '讓全世界完整認識台灣', lang = getLocaleFromPath(Astro.url.pathname), image, type, datePublished, dateModified, content, tags, category } = Astro.props;
 
-// Search index now loaded via /api/search-index.json (fetch API)
-const isEn = lang === 'en';
-const categorySlug = category?.toLowerCase() || '';
-// justfont: only put the body font class on <body> to avoid rate-limit.
-// Other font classes go on specific elements (h1-h6, blockquote, nav, etc.)
-const jfClass = [
-  'jf-jinxuanlatte-regular',
-  categorySlug ? `jf-${categorySlug}` : '',
-]
-  .filter(Boolean)
-  .join(' ');
+// Build search index at build time
+const categoryMapping: Record<string, string> = {
+  'history': 'History', 'geography': 'Geography', 'culture': 'Culture',
+  'food': 'Food', 'art': 'Art', 'music': 'Music', 'technology': 'Technology',
+  'nature': 'Nature', 'people': 'People', 'society': 'Society',
+  'economy': 'Economy', 'lifestyle': 'Lifestyle'
+};
+
+const searchIndex: Array<{t: string; d: string; u: string; tags: string[]; lang: string}> = [];
+
+for (const [slug, folder] of Object.entries(categoryMapping)) {
+  // Chinese articles
+  try {
+    const zhPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(zhPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
+      const name = basename(file, '.md');
+      searchIndex.push({
+        t: data.title || name,
+        d: data.description || '',
+        u: `/${slug}/${name}`,
+        tags: data.tags || [],
+        lang: 'zh-TW'
+      });
+    }
+  } catch {}
+  // English articles
+  try {
+    const enPath = resolve(process.cwd(), 'knowledge', 'en', folder);
+    const files = await readdir(enPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
+      const name = basename(file, '.md');
+      searchIndex.push({
+        t: data.title || name,
+        d: data.description || '',
+        u: `/en/${slug}/${name}`,
+        tags: data.tags || [],
+        lang: 'en'
+      });
+    }
+  } catch {}
+  // Spanish articles
+  try {
+    const esPath = resolve(process.cwd(), 'knowledge', 'es', folder);
+    const files = await readdir(esPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const { data } = matter(await readFile(join(esPath, file), 'utf-8'));
+      const name = basename(file, '.md');
+      searchIndex.push({
+        t: data.title || name,
+        d: data.description || '',
+        u: `/es/${slug}/${name}`,
+        tags: data.tags || [],
+        lang: 'es'
+      });
+    }
+  } catch {}
+}
+
+const prefix = getLangPrefix(lang);
 ---
 
 <!doctype html>
-<html lang={lang}>
+<html lang={lang} class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -54,576 +100,105 @@ const jfClass = [
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;800;900&family=Noto+Serif+TC:wght@400;600;700;900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;600;700;900&display=swap" rel="stylesheet" />
     <title>{title} | Taiwan.md</title>
-    <SEO
-      title={title}
-      description={description}
-      lang={lang}
-      image={image}
-      type={type}
-      datePublished={datePublished}
-      dateModified={dateModified}
-      content={content}
-      tags={tags}
-      category={category}
-    />
-    <script
-      is:inline
-      async
-      src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
+    <SEO title={title} description={description} lang={lang} image={image} type={type} datePublished={datePublished} dateModified={dateModified} content={content} tags={tags} category={category} />
+    <ClientRouter />
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-JGC5W00N7T"></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
-      function gtag() {
-        dataLayer.push(arguments);
-      }
+      function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-JGC5W00N7T');
     </script>
-    <!-- justfont Webfont (Production) -->
-    <script is:inline>
-      var _jf = _jf || [];
-      _jf.push(['p', '65854']);
-      _jf.push(['initAction', true]);
-      // justfont: target specific elements to avoid rate-limit
-      // (don't scan entire body for every font)
-      _jf.push([
-        '_setFont',
-        'jf-jinxuanlatte-regular',
-        'css',
-        'body > main p, body > main li, body > main td',
-      ]);
-      _jf.push([
-        '_setFont',
-        'jf-jinxuanlatte-regular',
-        'alias',
-        'jf-jinxuanlatte',
-      ]);
-      _jf.push(['_setFont', 'jf-jinxuanlatte-regular', 'weight', 400]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extrabold',
-        'css',
-        'h2, h3, h4, h5, h6, nav, button',
-      ]);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extrabold',
-        'alias',
-        'jf-lanyanghei',
-      ]);
-      _jf.push(['_setFont', 'jf-lanyanghei-extrabold', 'weight', 800]);
-      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'css', 'h1']);
-      _jf.push([
-        '_setFont',
-        'jf-lanyanghei-extraheavy',
-        'alias',
-        'jf-lanyanghei',
-      ]);
-      _jf.push(['_setFont', 'jf-lanyanghei-extraheavy', 'weight', 920]);
-      _jf.push(['_setFont', 'jf-lanyangming-book', 'css', 'main blockquote']);
-      _jf.push(['_setFont', 'jf-lanyangming-book', 'alias', 'jf-lanyangming']);
-      _jf.push(['_setFont', 'jf-lanyangming-book', 'weight', 300]);
-      _jf.push(['_setFont', 'jf-kamabit', 'css', '.jf-food h1']);
-      _jf.push(['_setFont', 'jf-kamabit', 'alias', 'jf-kamabit']);
-      _jf.push(['_setFont', 'jf-kamabit', 'weight', 700]);
-      _jf.push(['_setFont', 'rixingsong-semibold', 'css', '.jf-history h1']);
-      _jf.push([
-        '_setFont',
-        'rixingsong-semibold',
-        'alias',
-        'rixingsong-semibold',
-      ]);
-      _jf.push(['_setFont', 'rixingsong-semibold', 'weight', 600]);
-      (function (A, p, c, m, l, q, r, h, B, D) {
-        var b = A._jf;
-        if (b.constructor !== Object) {
-          var t = !0,
-            u = function (a) {
-              var f = !0,
-                e;
-              for (e in b)
-                b[e][0] == a &&
-                  (f && (f = f && !1 !== b[e][1].call(b)),
-                  (b[e] = null),
-                  delete b[e]);
-            },
-            v = /\S+/g,
-            w = /[\t\r\n\f]/g,
-            C = /^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,
-            n = ''.trim,
-            x =
-              n && !n.call('\ufeff\u00a0')
-                ? function (a) {
-                    return null == a ? '' : n.call(a);
-                  }
-                : function (a) {
-                    return null == a ? '' : (a + '').replace(C, '');
-                  },
-            k = function (a) {
-              var f, b, g;
-              if (
-                'string' === typeof a &&
-                a &&
-                ((a = (a || '').match(v) || []),
-                (f = h[c] ? (' ' + h[c] + ' ').replace(w, ' ') : ' '))
-              ) {
-                for (g = 0; (b = a[g++]); )
-                  0 > f.indexOf(' ' + b + ' ') && (f += b + ' ');
-                h[c] = x(f);
-              }
-            },
-            d = function (a) {
-              var b, e, g;
-              if (0 === arguments.length || ('string' === typeof a && a)) {
-                var d = (a || '').match(v) || [];
-                if ((b = h[c] ? (' ' + h[c] + ' ').replace(w, ' ') : '')) {
-                  for (g = 0; (e = d[g++]); )
-                    for (; 0 <= b.indexOf(' ' + e + ' '); )
-                      b = b.replace(' ' + e + ' ', ' ');
-                  h[c] = a ? x(b) : '';
-                }
-              }
-            },
-            y;
-          b.addScript = y = function (b, f, e, g, d, c) {
-            d = d || function () {};
-            c = c || function () {};
-            var a = p.createElement('script'),
-              h = p.getElementsByTagName('script')[0],
-              k,
-              m = !1,
-              l = function () {
-                a.src = '';
-                a.parentNode.removeChild(a);
-                a = a.onerror = a.onload = a.onreadystatechange = null;
-              };
-            g &&
-              (k = setTimeout(function () {
-                l();
-                c();
-              }, g));
-            a.type = f || 'text/javascript';
-            a.async = e;
-            a.onload = a.onreadystatechange = function (b, c) {
-              m ||
-                (a.readyState && !/loaded|complete/.test(a.readyState)) ||
-                ((m = !0), g && clearTimeout(k), l(), c || d());
-            };
-            a.onerror = function (a, b, d) {
-              g && clearTimeout(k);
-              l();
-              c();
-              return !0;
-            };
-            a.src = b;
-            h.parentNode.insertBefore(a, h);
-          };
-          for (var z in b) 'initAction' == b[z][0] && (t = b[z][1]);
-          b.push([
-            '_eventPreload',
-            function () {
-              1 == t && k(m);
-              y(B, null, !1, 3e3, null, function () {
-                u('_eventInactived');
-              });
-            },
-          ]);
-          b.push([
-            '_eventReload',
-            function () {
-              d(r);
-              d(q);
-              k(l);
-            },
-          ]);
-          b.push([
-            '_eventActived',
-            function () {
-              d(m);
-              d(l);
-              k(q);
-            },
-          ]);
-          b.push([
-            '_eventInactived',
-            function () {
-              d(m);
-              d(l);
-              k(r);
-            },
-          ]);
-          u('_eventPreload');
-        }
-      })(
-        this,
-        this.document,
-        'className',
-        'jf-loading',
-        'jf-reloading',
-        'jf-active',
-        'jf-inactive',
-        this.document.getElementsByTagName('html')[0],
-        '//ds.justfont.com/js/stable/v/6.1/id/493908836063',
-      );
-    </script>
   </head>
-  <body class={jfClass}>
-    <Banner />
-    <Header />
+    <body class="font-sans leading-relaxed text-forest bg-gradient-to-b from-white to-cream-50 antialiased">
+    <LanguageBanner lang={lang} />
+    <Navbar lang={lang} />
+    <SearchModal searchIndex={searchIndex} lang={lang} />
 
-    <script is:inline>
-      var _searchIdx = null;
-      async function _loadSearchIndex() {
-        if (_searchIdx) return _searchIdx;
-        try {
-          var res = await fetch('/api/search-index.json');
-          if (res.ok) _searchIdx = await res.json();
-          else _searchIdx = [];
-        } catch(e) { _searchIdx = []; }
-        return _searchIdx;
-      }
-      function initSearch() {
-        var isEn = document.documentElement.lang === 'en';
-        var lang = isEn ? 'en' : 'zh-TW';
-        var input = document.getElementById('search-input');
-        if (!input) return;
-        var results = document.getElementById('search-results');
-        var modal = document.getElementById('search-modal');
-
-        // Preload search index when modal opens
-        _loadSearchIndex();
-
-        input.addEventListener('input', async function () {
-          var q = this.value.trim().toLowerCase();
-          if (!q) {
-            results.innerHTML =
-              '<div class="search-hint">' +
-              (isEn
-                ? 'Type to search across all articles'
-                : '輸入關鍵字搜尋所有文章') +
-              '</div>';
-            return;
-          }
-          var idx = await _loadSearchIndex();
-          var matches = idx.filter(function (item) {
-            return (
-              item.t.toLowerCase().indexOf(q) !== -1 ||
-              item.d.toLowerCase().indexOf(q) !== -1 ||
-              item.tags.some(function (tag) {
-                return String(tag).toLowerCase().indexOf(q) !== -1;
-              })
-            );
-          });
-          // Prefer current language, then show others
-          matches.sort(function (a, b) {
-            var aLang = a.lang === lang ? 0 : 1;
-            var bLang = b.lang === lang ? 0 : 1;
-            return aLang - bLang;
-          });
-          if (matches.length === 0) {
-            results.innerHTML =
-              '<div class="search-hint">' +
-              (isEn ? 'No results found' : '找不到相關文章') +
-              '</div>';
-            return;
-          }
-          var html = matches
-            .slice(0, 12)
-            .map(function (item) {
-              var langBadge = item.lang === 'en' ? 'EN' : '中';
-              return (
-                '<a class="search-item" href="' +
-                item.u +
-                '">' +
-                '<span class="search-item-lang">' +
-                langBadge +
-                '</span>' +
-                '<div class="search-item-text">' +
-                '<span class="search-item-title">' +
-                item.t +
-                '</span>' +
-                (item.d
-                  ? '<span class="search-item-desc">' + item.d + '</span>'
-                  : '') +
-                '</div>' +
-                '</a>'
-              );
-            })
-            .join('');
-          if (matches.length > 12) {
-            html +=
-              '<div class="search-hint">' +
-              (isEn
-                ? '...and ' + (matches.length - 12) + ' more'
-                : '...還有 ' + (matches.length - 12) + ' 篇') +
-              '</div>';
-          }
-          results.innerHTML = html;
-        });
-
-        // ESC to close
-        document.addEventListener('keydown', function (e) {
-          if (e.key === 'Escape' && modal.classList.contains('open')) {
-            modal.classList.remove('open');
-          }
-          // Cmd/Ctrl+K to open
-          if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-            e.preventDefault();
-            modal.classList.toggle('open');
-            if (modal.classList.contains('open')) {
-              setTimeout(function () {
-                input.focus();
-              }, 100);
-            }
-          }
-        });
-      }
-      // Bind search after DOM is ready — handles both SSR and CSR timing
-      function _tryInit() {
-        if (document.getElementById('search-input')) {
-          initSearch();
-        } else {
-          setTimeout(_tryInit, 50);
-        }
-      }
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', _tryInit);
-      } else {
-        _tryInit();
-      }
-    </script>
-
-    <main role="main">
+    <main role="main" class="min-h-[calc(100vh-4.5rem)]" data-pagefind-body>
       <slot />
     </main>
 
-    <Footer />
+    <Footer lang={lang} />
 
     <!-- Floating .md button -->
-    <a
-      id="md-btn"
-      class="floating-md"
-      title="查看 Raw Markdown 版本"
-      target="_blank"
-    >
+    <a id="md-btn" class="fixed bottom-6 left-6 z-40 w-12 h-12 bg-forest text-teal rounded-xl flex items-center justify-center font-mono text-sm font-bold no-underline shadow-card hover:-translate-y-0.5 hover:shadow-lg hover:bg-teal hover:text-white transition-all" title="Edit on GitHub" target="_blank">
       .md
     </a>
 
     <script is:inline>
-      // Set .md button href based on current path
-      const btn = document.getElementById('md-btn');
-      const pathname = window.location.pathname;
-      const ghBase = 'https://github.com/frank890417/taiwan-md/blob/main';
+      function initMdBtn() {
+        const btn = document.getElementById('md-btn');
+        if (!btn) return;
+        const pathname = window.location.pathname;
+        const ghBase = 'https://github.com/frank890417/taiwan-md/edit/main';
 
-      let target = '/README.md'; // Default fallback
+        let target = '/README.md';
 
-      // Handle special pages
-      if (
-        pathname === '/' ||
-        pathname === '/en' ||
-        pathname === '/en/' ||
-        pathname === '/index.html'
-      ) {
-        target = '/README.md';
-      } else if (pathname.includes('/contribute')) {
-        target = '/CONTRIBUTING.md';
-      } else if (pathname.includes('/resources')) {
-        target = '/knowledge/About/台灣官方網站資源.md';
-      } else if (pathname.includes('/graph')) {
-        target = '/src/pages/graph.astro';
-      } else if (pathname.includes('/map')) {
-        target = pathname.startsWith('/en')
-          ? '/src/pages/en/map.astro'
-          : '/src/pages/map.astro';
-      } else if (pathname.includes('/about')) {
-        target = '/src/pages/about.astro';
-      } else {
-        // Content pages (Categories or Articles)
-        const isEn = pathname.startsWith('/en/');
-        // Remove /en/ prefix and leading/trailing slashes
-        const cleanPath = pathname
-          .replace(/^\/en/, '')
-          .replace(/^\//, '')
-          .replace(/\/$/, '')
-          .replace('index.html', '');
-        const parts = cleanPath.split('/');
+        if (pathname === '/' || pathname === '/en' || pathname === '/en/' || pathname === '/es' || pathname === '/es/' || pathname === '/index.html') {
+          target = '/README.md';
+        } else if (pathname.includes('/contribute')) {
+          target = '/CONTRIBUTING.md';
+        } else if (pathname.includes('/resources')) {
+          target = '/knowledge/About/台灣官方網站資源.md';
+        } else if (pathname.includes('/graph')) {
+          target = '/src/pages/graph.astro';
+        } else if (pathname.includes('/map')) {
+          target = pathname.startsWith('/en') ? '/src/pages/en/map.astro' : '/src/pages/map.astro';
+        } else if (pathname.includes('/about')) {
+          target = '/src/pages/about.astro';
+        } else {
+          const isEn = pathname.startsWith('/en/');
+          const isEs = pathname.startsWith('/es/');
+          const cleanPath = pathname.replace(/^\/(en|es)/, '').replace(/^\//, '').replace(/\/$/, '').replace('index.html', '');
+          const parts = cleanPath.split('/');
 
-        if (parts.length > 0 && parts[0]) {
-          const cat = parts[0];
-          // Capitalize first letter of category (history -> History)
-          const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
+          if (parts.length > 0 && parts[0]) {
+            const cat = parts[0];
+            const catFolder = cat.charAt(0).toUpperCase() + cat.slice(1);
+            const prefix = isEn ? '/knowledge/en' : isEs ? '/knowledge/es' : '/knowledge';
 
-          // ZH source is in knowledge/Category, EN source is in knowledge/en/Category
-          const prefix = isEn ? '/knowledge/en' : '/knowledge';
-
-          if (parts.length === 1) {
-            // Category Hub: knowledge/History/_History Hub.md
-            target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
-          } else {
-            // Article: knowledge/History/article-name.md
-            const slug = decodeURIComponent(parts.slice(1).join('/'));
-            target = `${prefix}/${catFolder}/${slug}.md`;
+            if (parts.length === 1) {
+              target = `${prefix}/${catFolder}/_${catFolder} Hub.md`;
+            } else {
+              const slug = decodeURIComponent(parts.slice(1).join('/'));
+              target = `${prefix}/${catFolder}/${slug}.md`;
+            }
           }
         }
-      }
 
-      btn.href = ghBase + target;
-
-      // Hash-based active state can only be detected client-side
-      if (window.location.hash === '#categories') {
-        document
-          .querySelectorAll('.nav-link[href$="/#categories"]')
-          .forEach((l) => l.classList.add('active'));
+        btn.href = ghBase + target;
       }
+      initMdBtn();
+      document.addEventListener('astro:page-load', initMdBtn);
+    </script>
+    <script is:inline>
+      function initScrollAnimations() {
+        var els = document.querySelectorAll('.animate-on-scroll:not(.visible)');
+        if (!els.length || !('IntersectionObserver' in window)) {
+          document.querySelectorAll('.animate-on-scroll').forEach(function(el) { el.classList.add('visible'); });
+          return;
+        }
+        var observer = new IntersectionObserver(function(entries) {
+          entries.forEach(function(entry) {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.15 });
+        els.forEach(function(el) { observer.observe(el); });
+      }
+      initScrollAnimations();
+      document.addEventListener('astro:page-load', initScrollAnimations);
     </script>
   </body>
 </html>
 
 <style is:global>
-  html {
-    font-size: 118%;
-  }
-  :root {
-    --container-wide: 1380px;
-    --container-page: 1180px;
-    --container-reading: 1080px;
-    --space-page-x: clamp(1rem, 2vw, 2rem);
-    --space-section-y: clamp(3.5rem, 7vw, 6rem);
-    --space-1: 0.5rem;
-    --space-2: 0.75rem;
-    --space-3: 1rem;
-    --space-4: 1.5rem;
-    --space-5: 2rem;
-    --space-6: 2.5rem;
-    --space-7: 3rem;
-    --space-8: 4rem;
-    --space-9: 5rem;
-    --radius-chip: 16px;
-    --radius-card: 20px;
-    --radius-pill: 999px;
-    --shadow-soft: 0 8px 30px rgba(15, 23, 42, 0.06);
-    --shadow-card: 0 16px 40px rgba(15, 23, 42, 0.08);
-    --border-soft: 1px solid rgba(148, 163, 184, 0.2);
-    --font-editorial: 'Noto Serif TC', 'Source Han Serif TC', 'PMingLiU', serif;
-    --title-display-size: clamp(2.25rem, 5vw, 3.2rem);
-    --title-section-size: clamp(1.95rem, 4vw, 2.5rem);
-    --title-subsection-size: clamp(1.3rem, 2.4vw, 1.7rem);
-    --title-minor-size: 1.1rem;
-    --title-line-height: 1.2;
-    --title-letter-spacing: 0;
-    --copy-intro-size: clamp(1rem, 1.6vw, 1.08rem);
-    --copy-intro-line: 1.75;
-    --copy-intro-color: #64748b;
-    --copy-intro-width: 42rem;
-  }
-  * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
-
-  /* Focus styles for keyboard accessibility */
-  *:focus-visible {
-    outline: 2px solid #3b82f6;
-    outline-offset: 2px;
-  }
-
-  button:focus-visible,
-  a:focus-visible,
-  input:focus-visible {
-    outline: 2px solid #3b82f6;
-    outline-offset: 2px;
-  }
-
-  /* ===== justfont Webfont — Phase 1 v2 ===== */
-  /* 1. jf-jinxuanlatte (400) → 內文（金萱那提四分糖）*/
-  /* 2. jf-lanyanghei (W8=800, W10=920) → UI/標題 */
-  /* 3. jf-lanyangming (W3/300) → 引言 blockquote */
-  /* 4. jf-kamabit (700) → 柑仔蜜：Hero 標題 + 美食分類 */
-  /* 5. jf-jinxuan (medium/500) → 特殊強調 */
-  /* 6. rixingsong-semibold (600) → 歷史分類標題 */
-
-  body {
-    font-family:
-      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    font-weight: 400;
-    line-height: 1.6;
-    color: #1a1a2e;
-    background:
-      radial-gradient(
-        circle at top,
-        rgba(226, 232, 240, 0.35),
-        transparent 30%
-      ),
-      linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
-    -webkit-font-smoothing: antialiased;
-  }
-
-  /* Global heading fonts — 蘭陽黑體 */
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family:
-      'jf-lanyanghei', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-  }
-  h1 {
-    font-weight: 920;
-  }
-  h2 {
-    font-weight: 800;
-  }
-  h3,
-  h4 {
-    font-weight: 800;
-  }
-
-  /* Blockquote — 蘭陽明體（引言用，筆畫特色適合強調） */
-  main blockquote {
-    font-family:
-      'jf-lanyangming', 'Noto Serif TC', 'Source Han Serif TC', serif;
-    font-weight: 300;
-    font-style: normal;
-  }
-
-  /* Nav/UI — 蘭陽黑體 W8 */
-  nav,
-  button,
-  .btn-primary,
-  .btn-secondary,
-  .btn-cta,
-  [class*='btn'] {
-    font-family:
-      'jf-lanyanghei', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    font-weight: 800;
-  }
-
-  /* Category-specific title fonts */
-  .jf-food h1 {
-    font-family: 'jf-kamabit', 'Noto Sans TC', sans-serif;
-    font-weight: 700;
-  }
-  .jf-history h1 {
-    font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
-    font-weight: 600;
-  }
-
-  /* justfont loading transition — smooth font swap */
-  .jf-active *,
-  .jf-inactive * {
-    transition: opacity 0.3s ease-out;
-  }
-
-  /* Main - full width */
-  main {
-    min-height: calc(100vh - 60px);
-  }
+  /* Image constraints for article content */
   main img {
     max-width: 100%;
     max-height: 400px;
@@ -631,72 +206,23 @@ const jfClass = [
     border-radius: 12px;
   }
 
-  /* Global link styles */
-  main
-    a:not(.nav-link):not([class*='btn']):not(.card-link):not(.logo):not(
-      .category-card
-    ):not(.floating-md):not(.search-item):not(.reading-step):not(.update-item) {
-    color: #475569;
+  /* Global link styles for article prose content only */
+  main .prose a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not([class*="btn"]) {
+    color: theme('colors.teal.DEFAULT');
     text-decoration: none;
-    border-bottom: 1px solid #cbd5e1;
+    border-bottom: 1px solid theme('colors.teal.200');
     padding-bottom: 1px;
     transition: all 0.2s ease;
   }
-  main
-    a:not(.nav-link):not([class*='btn']):not(.card-link):not(.logo):not(
-      .category-card
-    ):not(.floating-md):not(.search-item):not(.reading-step):not(
-      .update-item
-    ):hover {
-    color: #1a1a2e;
-    border-bottom-color: #64748b;
+  main .prose a:not(.nav-link):not(.btn-primary):not(.btn-secondary):not(.btn-ghost):not([class*="btn"]):hover {
+    color: theme('colors.forest.DEFAULT');
+    border-bottom-color: theme('colors.teal.DEFAULT');
   }
-  /* External links (with target="_blank") get an icon */
-  main
-    a[target='_blank']:not(.nav-link):not([class*='btn']):not(.card-link):not(
-      .logo
-    ):not(.category-card):not(.floating-md):not(.contributor-card)::after {
+  /* External links get an icon */
+  main .prose a[target="_blank"]::after {
     content: '↗';
     font-size: 0.8em;
     margin-left: 0.2em;
     opacity: 0.7;
-  }
-
-  /* Floating .md button */
-  .floating-md {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    width: 48px;
-    height: 48px;
-    background: #1a1a2e;
-    color: #3b82f6;
-    border-radius: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'SF Mono', 'Fira Code', monospace;
-    font-size: 0.85rem;
-    font-weight: 700;
-    text-decoration: none;
-    box-shadow: var(--shadow-card);
-    transition: all 0.2s;
-    z-index: 40;
-  }
-  .floating-md:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.3);
-    background: #3b82f6;
-    color: white;
-  }
-
-  @media (max-width: 768px) {
-    .floating-md {
-      bottom: 1rem;
-      right: 1rem;
-      width: 42px;
-      height: 42px;
-      font-size: 0.78rem;
-    }
   }
 </style>
