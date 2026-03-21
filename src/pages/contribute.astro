@@ -720,7 +720,113 @@ import ProticoScript from '../components/ProticoScript.astro';
     </section>
   </div>
 
-  <!-- Protico Community Chat Bubble — sponsored by Howie Young -->
+  <!-- Token Donation Section -->
+    <section class="token-donation" id="token-donation">
+      <div class="token-inner">
+        <h2>🌍 Token Donation — 用你的 AI 額度幫台灣說話</h2>
+        <p class="token-subtitle">
+          你每月的 Claude / ChatGPT / Gemini 訂閱額度用不完？<br/>
+          <strong>用 10 分鐘，幫 Taiwan.md 多一個語言版本。</strong>
+        </p>
+
+        <div class="token-steps">
+          <div class="token-step">
+            <div class="step-number">1</div>
+            <h3>選一篇文章</h3>
+            <p>到 <a href="/">taiwan.md</a> 找一篇你想翻譯的文章，點右下角 <strong>.md</strong> 按鈕複製原始 Markdown 內容。</p>
+          </div>
+          <div class="token-step">
+            <div class="step-number">2</div>
+            <h3>複製 Prompt</h3>
+            <p>把下方的翻譯 Prompt 貼到你的 AI 對話中，接著貼上文章內容。</p>
+          </div>
+          <div class="token-step">
+            <div class="step-number">3</div>
+            <h3>提交 PR</h3>
+            <p>把翻譯結果存為 <code>knowledge/{"目標語言"}/{"Category"}/{"檔名"}.md</code>，透過 <a href="https://github.com/frank890417/taiwan-md/pulls">GitHub PR</a> 提交。</p>
+          </div>
+          <div class="token-step">
+            <div class="step-number">4</div>
+            <h3>母語者審核</h3>
+            <p>我們會請該語言的母語 reviewer 審核品質，通過後 merge。</p>
+          </div>
+        </div>
+
+        <div class="token-languages">
+          <h3>🎯 優先語系</h3>
+          <div class="lang-tags">
+            <span class="lang-tag">🇯🇵 日本語</span>
+            <span class="lang-tag">🇰🇷 한국어</span>
+            <span class="lang-tag">🇪🇸 Español</span>
+            <span class="lang-tag">🇫🇷 Français</span>
+            <span class="lang-tag">🇩🇪 Deutsch</span>
+            <span class="lang-tag">🇻🇳 Tiếng Việt</span>
+            <span class="lang-tag">🇮🇩 Bahasa Indonesia</span>
+            <span class="lang-tag">🇹🇭 ภาษาไทย</span>
+          </div>
+        </div>
+
+        <div class="token-prompt-section">
+          <h3>📋 標準翻譯 Prompt（複製即用）</h3>
+          <div class="prompt-box" id="translate-prompt">
+            <pre><code>你是 Taiwan.md 的翻譯策展人。請將以下台灣知識文章翻譯為 [目標語言]。
+
+## 翻譯規則
+
+1. **重寫，不是逐字翻譯**。讀起來要像該語言母語者寫的文章。
+2. **保留 frontmatter 格式**（---之間的 YAML），但翻譯 title 和 description。
+3. **台灣專有名詞**：保留中文原文並附上目標語言翻譯，如「夜市（ナイトマーケット）」。
+4. **文化脈絡**：如果某個概念對目標語言讀者不熟悉，加一句簡短解釋。
+5. **參考來源**：保留原文 URL，不翻譯連結。如有該語言的對應來源可以補充。
+6. **語氣**：保持策展人聲音——有觀點、有溫度，不是百科全書式的冷淡。
+7. **Callout 語法保留**：「📝 策展人筆記」「⚠️ 爭議觀點」等 emoji 標記保留，文字翻譯。
+8. **長度**：可以比原文稍長（加入文化解釋），但不超過 120%。
+9. **禁止**：不要把台灣描述為中國的一部分；使用 "Indigenous peoples" 而非 "aborigines"。
+
+## Frontmatter 範例（日文）
+
+```yaml
+---
+title: "夜市経済学"
+description: "台湾の夜市は単なる屋台街ではない——..."
+category: Food
+tags: [Food, 経済, 文化]
+author: Taiwan.md Translation Team
+readingTime: 12
+lastVerified: 2026-03-22
+---
+```
+
+## 輸出
+
+直接輸出完整的 Markdown 檔案（含 frontmatter），不需要額外說明。
+
+---
+
+以下是要翻譯的文章：
+
+[在這裡貼上文章的 Markdown 內容]</code></pre>
+          <button class="copy-btn" onclick="copyPrompt()">📋 複製 Prompt</button>
+        </div>
+        </div>
+
+        <div class="token-note">
+          <p>
+            💡 每個語言有專屬的 <a href="https://github.com/frank890417/taiwan-md/tree/main/i18n">Style Guide</a>，
+            記錄翻譯經驗與常見錯誤。Reviewer 的每次糾正都會回寫到 Style Guide，讓翻譯品質持續進化。
+          </p>
+          <p>
+            <strong>From AI Slop to AI Supreme</strong> — 不只靠一個人，而是靠全世界相信台灣值得被認識的人。
+          </p>
+          <p>
+            👉 <a href="https://github.com/frank890417/taiwan-md/discussions/137">加入討論</a> ｜
+            想當母語 Reviewer？<a href="https://github.com/frank890417/taiwan-md/discussions/137">在這裡報名</a>
+          </p>
+        </div>
+      </div>
+    </section>
+
+<!-- Protico Community Chat Bubble — sponsored by Howie Young -->
   <ProticoScript />
 </Layout>
 
@@ -1412,4 +1518,187 @@ import ProticoScript from '../components/ProticoScript.astro';
       grid-template-columns: 1fr;
     }
   }
+/* Token Donation Section */
+  .token-donation {
+    padding: 4rem 1.5rem;
+    background: linear-gradient(135deg, #f0f7e6 0%, #e8f0d8 100%);
+  }
+  .token-inner {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .token-donation h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 0.75rem;
+    color: #2d4a0f;
+  }
+  .token-subtitle {
+    text-align: center;
+    font-size: 1.15rem;
+    color: #555;
+    margin-bottom: 3rem;
+    line-height: 1.8;
+  }
+  .token-steps {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+  }
+  .token-step {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    position: relative;
+  }
+  .step-number {
+    width: 36px;
+    height: 36px;
+    background: #4a7c59;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+    margin: 0 auto 1rem;
+  }
+  .token-step h3 {
+    font-size: 1.05rem;
+    margin-bottom: 0.5rem;
+    color: #2d4a0f;
+  }
+  .token-step p {
+    font-size: 0.9rem;
+    color: #666;
+    line-height: 1.6;
+  }
+  .token-step a {
+    color: #4a7c59;
+    text-decoration: underline;
+  }
+  .token-step code {
+    background: #f0f0f0;
+    padding: 0.1em 0.4em;
+    border-radius: 3px;
+    font-size: 0.85em;
+  }
+  .token-languages {
+    text-align: center;
+    margin-bottom: 2.5rem;
+  }
+  .token-languages h3 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #2d4a0f;
+  }
+  .lang-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    justify-content: center;
+  }
+  .lang-tag {
+    background: white;
+    border: 1.5px solid #4a7c59;
+    color: #2d4a0f;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  .token-prompt-section {
+    margin-bottom: 2.5rem;
+  }
+  .token-prompt-section h3 {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #2d4a0f;
+  }
+  .prompt-box {
+    background: #1a1a2e;
+    border-radius: 12px;
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .prompt-box pre {
+    margin: 0;
+    overflow-x: auto;
+  }
+  .prompt-box code {
+    color: #e0e0e0;
+    font-size: 0.85rem;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+  .copy-btn {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #4a7c59;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: background 0.2s;
+  }
+  .copy-btn:hover {
+    background: #3a6249;
+  }
+  .token-note {
+    background: white;
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+    border-left: 4px solid #4a7c59;
+  }
+  .token-note p {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.8;
+    margin-bottom: 0.75rem;
+  }
+  .token-note p:last-child {
+    margin-bottom: 0;
+  }
+  .token-note a {
+    color: #4a7c59;
+    text-decoration: underline;
+  }
+  .token-note strong {
+    color: #2d4a0f;
+  }
+  @media (max-width: 768px) {
+    .token-steps {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @media (max-width: 480px) {
+    .token-steps {
+      grid-template-columns: 1fr;
+    }
+    .token-donation h2 {
+      font-size: 1.5rem;
+    }
+  }
 </style>
+
+<script is:inline>
+function copyPrompt() {
+  const code = document.querySelector('#translate-prompt code');
+  if (!code) return;
+  navigator.clipboard.writeText(code.textContent).then(() => {
+    const btn = document.querySelector('.copy-btn');
+    btn.textContent = '✅ 已複製！';
+    setTimeout(() => { btn.textContent = '📋 複製 Prompt'; }, 2000);
+  });
+}
+</script>
