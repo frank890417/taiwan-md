@@ -1,11 +1,8 @@
 ---
 import SEO from '../components/SEO.astro';
-import { readdir, readFile } from 'fs/promises';
-import { resolve, join, basename } from 'path';
 import Banner from '../components/Banner.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import matter from 'gray-matter';
 
 interface Props {
   title: string;
@@ -35,68 +32,7 @@ const {
   category,
 } = Astro.props;
 
-// Build search index at build time
-const categoryMapping: Record<string, string> = {
-  history: 'History',
-  geography: 'Geography',
-  culture: 'Culture',
-  food: 'Food',
-  art: 'Art',
-  music: 'Music',
-  technology: 'Technology',
-  nature: 'Nature',
-  people: 'People',
-  society: 'Society',
-  economy: 'Economy',
-  lifestyle: 'Lifestyle',
-};
-
-const searchIndex: Array<{
-  t: string;
-  d: string;
-  u: string;
-  tags: string[];
-  lang: string;
-}> = [];
-
-for (const [slug, folder] of Object.entries(categoryMapping)) {
-  // Chinese articles
-  try {
-    const zhPath = resolve(process.cwd(), 'knowledge', folder);
-    const files = await readdir(zhPath);
-    for (const file of files.filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
-    )) {
-      const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
-      const name = basename(file, '.md');
-      searchIndex.push({
-        t: data.title || name,
-        d: data.description || '',
-        u: `/${slug}/${name}`,
-        tags: data.tags || [],
-        lang: 'zh-TW',
-      });
-    }
-  } catch {}
-  // English articles
-  try {
-    const enPath = resolve(process.cwd(), 'knowledge', 'en', folder);
-    const files = await readdir(enPath);
-    for (const file of files.filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
-    )) {
-      const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
-      const name = basename(file, '.md');
-      searchIndex.push({
-        t: data.title || name,
-        d: data.description || '',
-        u: `/en/${slug}/${name}`,
-        tags: data.tags || [],
-        lang: 'en',
-      });
-    }
-  } catch {}
-}
+// Search index now loaded via /api/search-index.json (fetch API)
 const isEn = lang === 'en';
 const categorySlug = category?.toLowerCase() || '';
 // justfont: only put the body font class on <body> to avoid rate-limit.
@@ -339,15 +275,29 @@ const jfClass = [
     <Banner />
     <Header />
 
-    <script is:inline define:vars={{ searchIndex, isEn }}>
-      (function () {
-        var idx = searchIndex;
+    <script is:inline>
+      var _searchIdx = null;
+      async function _loadSearchIndex() {
+        if (_searchIdx) return _searchIdx;
+        try {
+          var res = await fetch('/api/search-index.json');
+          if (res.ok) _searchIdx = await res.json();
+          else _searchIdx = [];
+        } catch(e) { _searchIdx = []; }
+        return _searchIdx;
+      }
+      function initSearch() {
+        var isEn = document.documentElement.lang === 'en';
         var lang = isEn ? 'en' : 'zh-TW';
         var input = document.getElementById('search-input');
+        if (!input) return;
         var results = document.getElementById('search-results');
         var modal = document.getElementById('search-modal');
 
-        input.addEventListener('input', function () {
+        // Preload search index when modal opens
+        _loadSearchIndex();
+
+        input.addEventListener('input', async function () {
           var q = this.value.trim().toLowerCase();
           if (!q) {
             results.innerHTML =
@@ -358,12 +308,13 @@ const jfClass = [
               '</div>';
             return;
           }
+          var idx = await _loadSearchIndex();
           var matches = idx.filter(function (item) {
             return (
               item.t.toLowerCase().indexOf(q) !== -1 ||
               item.d.toLowerCase().indexOf(q) !== -1 ||
               item.tags.some(function (tag) {
-                return tag.toLowerCase().indexOf(q) !== -1;
+                return String(tag).toLowerCase().indexOf(q) !== -1;
               })
             );
           });
@@ -430,7 +381,20 @@ const jfClass = [
             }
           }
         });
-      })();
+      }
+      // Bind search after DOM is ready — handles both SSR and CSR timing
+      function _tryInit() {
+        if (document.getElementById('search-input')) {
+          initSearch();
+        } else {
+          setTimeout(_tryInit, 50);
+        }
+      }
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', _tryInit);
+      } else {
+        _tryInit();
+      }
     </script>
 
     <main role="main">

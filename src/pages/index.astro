@@ -63,52 +63,7 @@ const categoryNames: Record<string, string> = {
   lifestyle: '🏮 生活',
 };
 
-// Prepare article list for random discovery
-let allArticles = [];
-
-if (allZhArticles.length > 0) {
-  allArticles = allZhArticles
-    .filter(
-      (article) =>
-        !article.id.includes('/_') && !article.id.endsWith('/_Hub.md'),
-    )
-    .map((article) => {
-      const slug = article.id
-        .split('/')
-        .slice(1)
-        .join('/')
-        .replace(/\.md$/, '');
-      const category = article.id.split('/')[0];
-      return {
-        title: article.data.title,
-        url: `/${category}/${encodeURIComponent(slug)}`,
-        category: categoryNames[category] || category,
-      };
-    });
-} else {
-  // Fallback to hardcoded articles for now
-  allArticles = [
-    {
-      title: '台灣民謠與歌謠',
-      url: '/music/台灣民謠與歌謠',
-      category: '🎵 音樂',
-    },
-    {
-      title: '流行音樂與金曲獎',
-      url: '/music/流行音樂與金曲獎',
-      category: '🎵 音樂',
-    },
-    { title: '經濟奇蹟', url: '/economy/經濟奇蹟', category: '📈 經濟' },
-    {
-      title: '開源社群與g0v',
-      url: '/technology/開源社群與g0v',
-      category: '💻 科技',
-    },
-    { title: '半導體產業', url: '/technology/半導體產業', category: '💻 科技' },
-  ];
-}
-
-const randomArticlesData = JSON.stringify(allArticles);
+// Random articles now loaded via /api/articles.json (fetch API)
 
 const readingPathSteps = [
   {
@@ -294,6 +249,54 @@ const feedbacks = [
     name: 'xavier.data.forge',
     text: '科技人的心底也該有一份人文關懷的素養。Taiwan.md 就是最完美的例子——用開發者最熟悉的開源方式，把對這片土地的在乎記錄下來。',
   },
+  {
+    name: '高慧玲',
+    text: '跟外國好好介紹我們自己，我們是誰？台灣是什麼？台灣在哪裡？',
+  },
+  { name: '江奕璇', text: '很酷的東西' },
+  { name: 'Tai-Wei Lin', text: '看起來很不錯。' },
+  { name: '王學詠', text: '惡補台灣學' },
+  { name: '陳明陸', text: '覺得浪漫' },
+  { name: 'Satuki Chu', text: '謝謝在全世界的台灣人' },
+  {
+    name: 'Wang Celia',
+    text: '當 AI 時代來臨，擁有自己的知識主權不是選項——是必要。',
+  },
+  { name: 'Nike Lee', text: '我同學我驕傲 ❤️' },
+  {
+    name: '侯君昊',
+    text: '果然是我認識的哲宇，創意不斷、行動力超強！這個平台太棒了！期望可以串聯出既在地又國際的知識網路',
+  },
+  {
+    name: '鄭珊珊',
+    text: '我會分享給我在荷蘭的親朋好友們，讓他們更了解台灣，這個小小的「國家」充滿毅力與韌性的人民 ❤️',
+  },
+  { name: '張瑋琦', text: '謝謝你，為台灣做了這麼重要的事！' },
+  { name: '許漪', text: '好認同好認同好認同！！！！' },
+  { name: '李偉強', text: '台灣有你真好' },
+  {
+    name: '李娟娟',
+    text: '真的謝謝您，為這個國家所做的努力。',
+  },
+  { name: 'Eva Kuo', text: '真是非常感謝你對台灣的付出！！' },
+  { name: 'Pin Pin Wang', text: '有夠棒！台灣感謝你 🙏' },
+  {
+    name: 'Sunny Chen',
+    text: '可以有西文版本嗎？這方面的資訊很少，拉美人大部分也不講英文..讓我有點難介紹',
+  },
+  { name: 'Tang Tang Tang', text: '是一個看不完的網站 😭' },
+  {
+    name: '吳雅琪',
+    text: '哲宇老師教程式！也愛台灣！！推爆！！！🥰',
+  },
+  {
+    name: '盧語築',
+    text: '天啊！你好瘋狂，好帥好有愛！好感動～～～',
+  },
+  {
+    name: 'Debra Sun',
+    text: '真是太重要的一個創意與行動，感謝您',
+  },
 ];
 
 const row1 = feedbacks.filter((_: any, i: number) => i % 3 === 0);
@@ -302,8 +305,8 @@ const row3 = feedbacks.filter((_: any, i: number) => i % 3 === 2);
 ---
 
 <Layout
-  title="台灣知識庫"
-  description="開源、AI-friendly 的台灣完整知識庫，讓全世界認識真正的台灣"
+  title="開源台灣知識庫"
+  description="開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。"
 >
   <section class="hero">
     <div class="hero-bg">
@@ -865,43 +868,31 @@ const row3 = feedbacks.filter((_: any, i: number) => i % 3 === 2);
 </Layout>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
-<script is:inline define:vars={{ randomArticlesData }}>
-  document.addEventListener('DOMContentLoaded', function () {
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', async function () {
     // Random discovery functionality
     const randomBtn = document.getElementById('random-discovery-btn');
     let articles = [];
 
+    var catLabels = {
+      history: '📜 歷史', geography: '🗺️ 地理', culture: '🎭 文化',
+      food: '🍜 美食', art: '🎨 藝術', music: '🎵 音樂',
+      technology: '💻 科技', nature: '🌿 自然', people: '👤 人物',
+      society: '⚖️ 社會', economy: '📈 經濟', lifestyle: '🏮 生活',
+    };
     try {
-      articles = randomArticlesData ? JSON.parse(randomArticlesData) : [];
+      const res = await fetch('/api/articles.json');
+      if (res.ok) {
+        const raw = await res.json();
+        articles = raw
+          .filter(function(a) { return a.category !== 'en' && !a.url.includes('/en/'); })
+          .map(function(a) {
+            var u = a.url.replace('https://taiwan.md', '').replace(/^\/([^\/]+)/, function(m, p) { return '/' + p.toLowerCase(); });
+            return { title: a.title, url: u, category: catLabels[a.category.toLowerCase()] || a.category };
+          });
+      }
     } catch (e) {
-      // Fallback articles with proper encoding
-      articles = [
-        {
-          title: '台灣民謠與歌謠',
-          url: '/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0',
-          category: '🎵 音樂',
-        },
-        {
-          title: '流行音樂與金曲獎',
-          url: '/music/%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E8%88%87%E9%87%91%E6%9B%B2%E7%8D%8E',
-          category: '🎵 音樂',
-        },
-        {
-          title: '半導體產業',
-          url: '/technology/%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD',
-          category: '💻 科技',
-        },
-        {
-          title: '經濟奇蹟',
-          url: '/economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F',
-          category: '📈 經濟',
-        },
-        {
-          title: '開源社群與g0v',
-          url: '/technology/%E9%96%8B%E6%BA%90%E7%A4%BE%E7%BE%A4%E8%88%87g0v',
-          category: '💻 科技',
-        },
-      ];
+      articles = [];
     }
 
     if (randomBtn && articles.length > 0) {

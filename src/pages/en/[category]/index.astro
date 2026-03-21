@@ -101,29 +101,40 @@ const { category, hubContent, articles } = Astro.props;
 
 function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
-  return md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => {
-      const label = display || target;
-      if (target.startsWith('_')) {
-        const catName = target
-          .replace(/^_/, '')
-          .replace(/ Hub$/, '')
-          .toLowerCase();
-        return `[${label}](/en/${catName})`;
-      }
-      const matchArticle = articles.find(
-        (a: any) =>
-          a.title === target ||
-          a.slug === target ||
-          a.slug === encodeURIComponent(target),
-      );
-      if (matchArticle) {
-        return `[${label}](/en/${currentCategory}/${matchArticle.slug})`;
-      }
-      return `**${label}**`;
-    },
+
+  function resolveOne(target: string, display?: string, bold = false) {
+    const label = display || target;
+    if (target.startsWith('_')) {
+      const catName = target
+        .replace(/^_/, '')
+        .replace(/ Hub$/, '')
+        .toLowerCase();
+      return bold ? `[**${label}**](/en/${catName})` : `[${label}](/en/${catName})`;
+    }
+    const matchArticle = articles.find(
+      (a: any) =>
+        a.title === target ||
+        a.slug === target ||
+        a.slug === encodeURIComponent(target),
+    );
+    if (matchArticle) {
+      const url = `/en/${currentCategory}/${matchArticle.slug}`;
+      return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
+    }
+    return bold ? `**${label}**` : label;
+  }
+
+  // First pass: **[[X]]** → [**resolved**](/url) (bold inside link for marked CJK compat)
+  md = md.replace(
+    /\*\*\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]\*\*/g,
+    (_, target, display) => resolveOne(target, display, true),
   );
+  // Second pass: remaining [[X]]
+  md = md.replace(
+    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+    (_, target, display) => resolveOne(target, display),
+  );
+  return md;
 }
 
 const resolvedContent = hubContent

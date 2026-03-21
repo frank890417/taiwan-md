@@ -9,7 +9,7 @@ tags:
     Martial Law,
     Political Persecution,
     Transitional Justice,
-    228,
+    "228",
     Democratization,
   ]
 author: 'Taiwan.md'

@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import rehypeExternalLinks from 'rehype-external-links';
+import remarkWikilinks from './plugins/remark-wikilinks.mjs';
 
 export default defineConfig({
   site: 'https://taiwan.md',
@@ -36,6 +37,7 @@ export default defineConfig({
       theme: 'github-light',
       wrap: true,
     },
+    remarkPlugins: [remarkWikilinks],
     rehypePlugins: [
       [
         rehypeExternalLinks,

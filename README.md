@@ -99,7 +99,17 @@ We maintain a **[TERMINOLOGY.md](./TERMINOLOGY.md)** to ensure consistent, respe
 | 👵 **台文正字** | Use 「阿媽」(a-má) not 「阿嬤」 | 台文正字，非國語系統用字 |
 | 🗣️ **Language naming** | Use 「台語」not 「閩南語」(per 國家語言發展法) | 語言學語境可用「台語（閩南語）」 |
 
-> **Contributors**: Please read [TERMINOLOGY.md](./TERMINOLOGY.md) before writing or reviewing articles.
+> **Contributors**: Please read [TERMINOLOGY.md](./TERMINOLOGY.md) and [EDITORIAL.md](./EDITORIAL.md) before writing or reviewing articles.
+
+### 📐 Editorial Standards
+
+We maintain an **[EDITORIAL.md](./EDITORIAL.md)** — our writing methodology and quality standard. It covers:
+
+- **Research workflow**: define questions → cross-reference 2+ sources → verify data
+- **Article structure**: 30-sec overview → narrative-driven body → challenges → references
+- **Tone**: specific over vague, stories over bullet lists, honesty over cheerleading
+- **AI quality control**: `tools/detect-ai-hollow.sh` scans all articles for hollow AI patterns (empty modifiers, missing sources, bullet-list padding)
+- **Checklist**: 10-point quality gate before every publish
 
 ---
 
@@ -129,7 +139,7 @@ docs/
 **SSOT:** All content lives in `knowledge/`. Website is a projection.  
 **SEO:** JSON-LD · Open Graph · Twitter Cards · RSS · Canonical URLs · `<meta ai-summary>`  
 **i18n:** zh-TW (default SSOT) + en (100% coverage)  
-**Quality:** All articles require source citations **with clickable URLs** — no plain-text references. AI-assisted content undergoes fact-checking before merge. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+**Quality:** All articles require source citations **with clickable URLs** — no plain-text references. AI-assisted content undergoes fact-checking before merge. See [EDITORIAL.md](./EDITORIAL.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 

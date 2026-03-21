@@ -213,13 +213,28 @@ try {
 
 function resolveWikilinks(markdownContent: string) {
   if (!markdownContent) return markdownContent;
-  return markdownContent.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => {
-      const label = display || target;
-      return `**${label}**`;
-    },
+
+  function resolveOne(target: string, display?: string, bold = false) {
+    const label = display || target;
+    const inCat = relatedArticles.find(
+      (a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target),
+    );
+    if (inCat) {
+      const url = `/en/${category}/${inCat.slug}`;
+      return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
+    }
+    return bold ? `**${label}**` : label;
+  }
+
+  markdownContent = markdownContent.replace(
+    /\*\*\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]\*\*/g,
+    (_, target, display) => resolveOne(target, display, true),
   );
+  markdownContent = markdownContent.replace(
+    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+    (_, target, display) => resolveOne(target, display),
+  );
+  return markdownContent;
 }
 
 const resolvedContent = resolveWikilinks(content);

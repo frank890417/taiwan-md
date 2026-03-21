@@ -489,18 +489,18 @@ const categoryList = [
     font-family: inherit;
     cursor: pointer;
   }
-  .search-results {
+  :global(.search-results) {
     max-height: 400px;
     overflow-y: auto;
     padding: 0.5rem;
   }
-  .search-hint {
+  :global(.search-hint) {
     padding: 2rem 1rem;
     text-align: center;
     color: #94a3b8;
     font-size: 0.9rem;
   }
-  .search-item {
+  :global(.search-item) {
     display: flex;
     align-items: flex-start;
     gap: 0.75rem;
@@ -511,10 +511,10 @@ const categoryList = [
     transition: background 0.15s;
     border-bottom: none;
   }
-  .search-item:hover {
+  :global(.search-item:hover) {
     background: #f1f5f9;
   }
-  .search-item-lang {
+  :global(.search-item-lang) {
     flex-shrink: 0;
     font-size: 0.7rem;
     font-weight: 600;
@@ -524,18 +524,18 @@ const categoryList = [
     color: #64748b;
     margin-top: 0.15rem;
   }
-  .search-item-text {
+  :global(.search-item-text) {
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
     min-width: 0;
   }
-  .search-item-title {
+  :global(.search-item-title) {
     font-size: 0.95rem;
     font-weight: 600;
     color: #1a1a2e;
   }
-  .search-item-desc {
+  :global(.search-item-desc) {
     font-size: 0.8rem;
     color: #64748b;
     overflow: hidden;

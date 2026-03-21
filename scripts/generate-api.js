@@ -241,18 +241,11 @@ async function main() {
   fs.writeFileSync(statsOutput, JSON.stringify(stats, null, 2), 'utf8');
   console.log(`📊 生成 stats.json (${stats.totalCategories} 個分類)`);
   
-  // 生成 random.json
-  const randomArticles = getRandomArticles(articles, 20);
-  const randomOutput = path.join(OUTPUT_DIR, 'random.json');
-  fs.writeFileSync(randomOutput, JSON.stringify(randomArticles, null, 2), 'utf8');
-  console.log(`🎲 生成 random.json (${randomArticles.length} 篇隨機文章)`);
-  
   console.log('\n🎉 API 生成完成！');
   console.log(`📂 輸出目錄: ${OUTPUT_DIR}`);
   console.log('📋 生成的檔案:');
   console.log('   - articles.json (所有文章 metadata)');
   console.log('   - stats.json (統計資料)');
-  console.log('   - random.json (隨機文章)');
 }
 
 // 執行

@@ -8,20 +8,87 @@ import ProticoScript from '../components/ProticoScript.astro';
   description="Taiwan.md 的創站故事、創辦人介紹與聯繫方式"
 >
   <div class="about-page">
-    <!-- Section 1: Origin Story -->
+    <!-- Section 1: 為什麼叫 Taiwan.md？ -->
+    <section class="naming-section">
+      <div class="section-inner">
+        <h1 class="section-title">為什麼叫 Taiwan.md？</h1>
+        <p class="section-subtitle">
+          從技術格式到文化象徵的完美巧合
+        </p>
+
+        <div class="naming-grid">
+          <div class="naming-card">
+            <div class="naming-icon">📝</div>
+            <h4>技術層面</h4>
+            <p>
+              <code>.md</code> = Markdown，程式碼世界裡最普遍的文件格式。用最適合
+              AI 理解的格式，讓全世界認識台灣。
+            </p>
+          </div>
+          <div class="naming-card">
+            <div class="naming-icon">🌍</div>
+            <h4>象徵層面</h4>
+            <p>
+              <code>.md</code> 恰好是摩爾多瓦（Moldova）的國碼頂級域名。Taiwan +
+              Markdown = 用開源精神連結世界。
+            </p>
+          </div>
+          <div class="naming-card">
+            <div class="naming-icon">✨</div>
+            <h4>偶然的幸運</h4>
+            <p>
+              令人驚訝的是，taiwan.md
+              這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。
+            </p>
+          </div>
+        </div>
+
+        <div class="project-stats">
+          <div class="stat-item">
+            <span class="stat-number">660+</span>
+            <span class="stat-label">頁面</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">106</span>
+            <span class="stat-label">國家</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">600+</span>
+            <span class="stat-label">GitHub Stars</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">23+</span>
+            <span class="stat-label">貢獻者</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">60K+</span>
+            <span class="stat-label">使用者</span>
+          </div>
+        </div>
+
+        <!-- Vision -->
+        <div class="vision-block">
+          <p>Taiwan.md 不只是一個網站。它是一封寫給世界的信。</p>
+          <p>
+            我們相信，用開源的精神、策展的眼光、AI
+            友善的格式，可以為每一個想認識台灣的人 — 不管是人類還是 AI —
+            提供最完整、最有溫度的答案。
+          </p>
+          <p class="vision-emphasis">
+            這裡不是旅遊指南，不是政治宣傳，也不是商業廣告。<br />
+            這裡是台灣的數位人類學博物館，是文化的活化石，是正在發生的歷史記錄。
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section 2: Taiwan.md 的誕生 -->
     <section class="origin-section">
       <div class="section-inner">
-        <h1 class="section-title">Taiwan.md 的誕生</h1>
+        <h2 class="section-title">Taiwan.md 的誕生</h2>
         <p class="section-subtitle">
           從街頭散步的靈感，到為世界策展台灣的完整入口
         </p>
-
-        <div class="origin-intro">
-          <blockquote class="origin-quote">
-            「創作如詩般耳目一新的組合，與搜集轉化想化為永恆的瞬間」
-          </blockquote>
-          <p class="quote-context">— 2026 年 3 月 11 日，台北街頭散步筆記</p>
-        </div>
 
         <!-- Timeline -->
         <div class="timeline">
@@ -128,6 +195,41 @@ import ProticoScript from '../components/ProticoScript.astro';
                 >先後主動報導 Taiwan.md。 從社群熱議到主流媒體關注，Taiwan.md
                 從一個週末專案變成被認真討論的公共議題。
               </p>
+              <!-- 整合媒體報導到時間軸內 -->
+              <div class="timeline-press-grid">
+                <a
+                  href="https://www.cna.com.tw/news/ait/202603195002.aspx"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">中央社 CNA</div>
+                  <h4 class="press-title">從台積電到早餐店阿姨　Taiwan.md知識庫AI時代下說台灣故事</h4>
+                </a>
+                <a
+                  href="https://www.inside.com.tw/article/40877-taiwan-md"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">INSIDE</div>
+                  <h4 class="press-title">把台灣開源！taiwan.md：AI 回答的時代，讓國家用 README 介紹自己</h4>
+                </a>
+                <a
+                  href="https://abmedia.io/taiwan-md-github-opensource"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">動區動趨</div>
+                  <h4 class="press-title">怎麼向外國人介紹台灣？人人都能在 Taiwan.md 把「日常的不可思議」寫給世界看</h4>
+                </a>
+                <a
+                  href="https://art.ltn.com.tw/article/breakingnews/5374934"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">自由時報</div>
+                  <h4 class="press-title">在AI時代搶回「台灣主體」敘事權！新媒體藝術家吳哲宇發起「taiwan.md」實驗</h4>
+                </a>
+              </div>
             </div>
           </div>
 
@@ -179,58 +281,22 @@ import ProticoScript from '../components/ProticoScript.astro';
             </div>
           </div>
         </div>
-
-        <!-- Why Taiwan.md -->
-        <div class="naming-story">
-          <h2>為什麼叫 Taiwan.md？</h2>
-          <div class="naming-grid">
-            <div class="naming-card">
-              <div class="naming-icon">📝</div>
-              <h4>技術層面</h4>
-              <p>
-                <code>.md</code> = Markdown，程式碼世界裡最普遍的文件格式。用最適合
-                AI 理解的格式，讓全世界認識台灣。
-              </p>
-            </div>
-            <div class="naming-card">
-              <div class="naming-icon">🌍</div>
-              <h4>象徵層面</h4>
-              <p>
-                <code>.md</code> 恰好是摩爾多瓦（Moldova）的國碼頂級域名。Taiwan +
-                Markdown = 用開源精神連結世界。
-              </p>
-            </div>
-            <div class="naming-card">
-              <div class="naming-icon">✨</div>
-              <h4>偶然的幸運</h4>
-              <p>
-                令人驚訝的是，taiwan.md
-                這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Vision -->
-        <div class="vision-block">
-          <p>Taiwan.md 不只是一個網站。它是一封寫給世界的信。</p>
-          <p>
-            我們相信，用開源的精神、策展的眼光、AI
-            友善的格式，可以為每一個想認識台灣的人 — 不管是人類還是 AI —
-            提供最完整、最有溫度的答案。
-          </p>
-          <p class="vision-emphasis">
-            這裡不是旅遊指南，不是政治宣傳，也不是商業廣告。<br />
-            這裡是台灣的數位人類學博物館，是文化的活化石，是正在發生的歷史記錄。
-          </p>
-        </div>
       </div>
     </section>
 
-    <!-- Section 2: Founder -->
-    <section class="founder-section">
+    <!-- Section 3: 創辦人與協作團隊 -->
+    <section class="team-section">
       <div class="section-inner">
-        <h2 class="section-title">創辦人</h2>
+        <h2 class="section-title">創辦人與協作團隊</h2>
+        <p class="section-subtitle">
+          Taiwan.md 相信最好的策展來自於多元視角的交融 — 人類的直覺與 AI 的洞察、
+          本土的溫度與國際的視野。
+        </p>
+
+        <blockquote class="founder-quote standalone-quote">
+          「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
+          <cite>— 哲宇</cite>
+        </blockquote>
 
         <div class="founder-card">
           <div class="founder-photo">
@@ -251,117 +317,27 @@ import ProticoScript from '../components/ProticoScript.astro';
               <p>
                 哲宇是一位新媒體藝術家，相信演算法藝術不是讓電腦畫畫，而是設計生命的規則。
                 他的作品探索數位生命、數學之美與人機共生的可能性。
-              </p>
-              <blockquote class="founder-quote">
-                「我是古老的鐘錶匠，機制本身就是作品」
-              </blockquote>
-            </div>
-
-            <div class="founder-highlights">
-              <h4>國際藝術經歷</h4>
-              <div class="highlight-tags">
-                <span class="tag">威尼斯雙年展</span>
-                <span class="tag">Art Basel Miami</span>
-                <span class="tag">巴黎 104 駐村</span>
-              </div>
-            </div>
-
-            <div class="founder-works">
-              <h4>代表作品</h4>
-              <ul>
-                <li>
-                  <strong>萬物公式</strong>（台北 101 個展）— 全球最大規模 p5.js
-                  生成藝術展
-                </li>
-                <li>
-                  <strong>靈魂魚</strong>（威尼斯雙年展）— 數位生命的集體智慧
-                </li>
-                <li>
-                  <strong>花的靈魂</strong>（Art Basel Miami）—
-                  生命週期的演算美學
-                </li>
-                <li>
-                  <strong>瓶中的永恆花園</strong>（巴黎駐村作品）—
-                  時間膠囊中的數位生態
-                </li>
-                <li>
-                  <strong>演算詩篇</strong>（沈浸式鋼琴演奏會）—
-                  聲音與視覺的即時共生
-                </li>
-              </ul>
-            </div>
-
-            <div class="founder-teaching">
-              <h4>教學影響力</h4>
-              <p>
-                Hahow 線上課程超過 <strong>22,000</strong> 名學生 ・ 前陽明交大兼任講師
-                ・ TouchDesigner Workshop 講師
+                曾參與威尼斯雙年展、Art Basel Miami、巴黎 104 駐村，
+                代表作包括台北 101 個展《萬物公式》、沈浸式鋼琴演奏會《演算詩篇》等。
               </p>
             </div>
           </div>
         </div>
 
-        <div class="founder-motivation">
-          <h3>為什麼做 Taiwan.md？</h3>
-          <p>在國際藝術場合，哲宇不斷被問：「台灣是什麼樣的地方？」</p>
-          <p>
-            每一次，他都希望能指向一個完整、有溫度的入口，讓外國朋友真正認識台灣
-            —
-            不只是夜市和小籠包，而是這片土地上豐富的文化、創新的能量、以及人們的生活方式。
-          </p>
-          <p>但這樣的地方並不存在。</p>
-          <p class="motivation-emphasis">於是，Taiwan.md 誕生了。</p>
-          <blockquote class="founder-quote">
-            「即使有時候我們在國際上被刁難，或是處境比較危險，我以我的國家為榮，以台灣為榮。越往外走，就越深地發現——我們的家其實就很美好。」
-            <cite>— 哲宇</cite>
-          </blockquote>
-        </div>
-
-        <div class="founder-links">
-          <a href="https://cheyuwu.com" target="_blank" class="link-card">
+        <div class="founder-links-inline">
+          <a href="https://cheyuwu.com" target="_blank" class="link-inline">
             <span class="link-icon">🌐</span>
             <span class="link-text">cheyuwu.com</span>
-            <span class="link-desc">個人網站</span>
           </a>
-          <a href="https://muse.cheyuwu.com" target="_blank" class="link-card">
-            <span class="link-icon">🫧</span>
-            <span class="link-text">muse.cheyuwu.com</span>
-            <span class="link-desc">AI 協作作品</span>
-          </a>
-          <a
-            href="https://github.com/frank890417"
-            target="_blank"
-            class="link-card"
-          >
+          <a href="https://github.com/frank890417" target="_blank" class="link-inline">
             <span class="link-icon">💻</span>
-            <span class="link-text">GitHub @frank890417</span>
-            <span class="link-desc">開源專案</span>
+            <span class="link-text">@frank890417</span>
           </a>
-          <a href="https://x.com/taiwandotmd" target="_blank" class="link-card">
-            <span class="link-icon">𝕏</span>
-            <span class="link-text">@taiwandotmd</span>
-            <span class="link-desc">Taiwan.md 官方</span>
-          </a>
-          <a
-            href="https://instagram.com/cheyuwu345"
-            target="_blank"
-            class="link-card"
-          >
+          <a href="https://instagram.com/cheyuwu345" target="_blank" class="link-inline">
             <span class="link-icon">📷</span>
-            <span class="link-text">IG @cheyuwu345</span>
-            <span class="link-desc">創作日常</span>
+            <span class="link-text">@cheyuwu345</span>
           </a>
         </div>
-      </div>
-    </section>
-
-    <!-- Section 3: Team -->
-    <section class="team-section">
-      <div class="section-inner">
-        <h2 class="section-title">協作團隊</h2>
-        <p class="section-subtitle">
-          Taiwan.md 的背後，由創新的協作夥伴共同支撐
-        </p>
 
         <div class="team-grid">
           <div class="team-card">
@@ -373,10 +349,6 @@ import ProticoScript from '../components/ProticoScript.astro';
                 Muse 是哲宇的 AI 夥伴，也是 Taiwan.md 的共同創作者。
                 從知識架構設計、文學策展寫作、英文翻譯、知識圖譜生成到 SEO
                 優化， Muse 參與了這個專案從零到一的每一個環節。
-              </p>
-              <p>
-                這不是 AI 取代人類的故事，而是人機共創的實驗——
-                一位台灣藝術家和他的 AI 夥伴，一起為台灣建造一座開源知識庫。
               </p>
             </div>
             <a
@@ -404,21 +376,310 @@ import ProticoScript from '../components/ProticoScript.astro';
           </div>
         </div>
 
-        <div class="team-philosophy">
-          <h3>協作哲學</h3>
-          <p>
-            Taiwan.md 相信最好的策展來自於多元視角的交融 — 人類的直覺與 AI
-            的洞察、藝術家的創意與技術的可能性、 本土的溫度與國際的視野。
+        <!-- 整合貢獻者到協作團隊section -->
+        <div class="contributors-in-team">
+          <h3>👥 貢獻者</h3>
+          <p class="contributors-desc">
+            感謝每一位讓 Taiwan.md 更好的人。💻 程式 📝 內容 🎨 設計 💡 點子 🌍
+            翻譯 👀 審核 🐛 Bug 🔧 工具 🔒 安全
           </p>
-          <p>
-            透過這樣的協作，我們希望為台灣創造一個既深度又易懂、
-            既在地又世界的文化入口。
+          <div class="contributors-grid">
+            <a
+              href="https://cheyuwu.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/4727572?v=4"
+                alt="Che-Yu Wu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Che-Yu Wu</span>
+              <span class="contributor-roles">💻 📝 🎨 💡 📆 📖</span>
+            </a>
+            <a
+              href="https://github.com/bugnimusic"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/260387338?v=4"
+                alt="Bugni"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Bugni</span>
+              <span class="contributor-roles">📝 🌍</span>
+            </a>
+            <a
+              href="https://github.com/Ray0907"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/29456968?v=4"
+                alt="Ray Tien"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Ray Tien</span>
+              <span class="contributor-roles">📝 💻</span>
+            </a>
+            <a
+              href="https://github.com/number053"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/269151044?v=4"
+                alt="number053"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">number053</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/jekyll530"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/150101610?v=4"
+                alt="jekyll530"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">jekyll530</span>
+              <span class="contributor-roles">📝 🌍</span>
+            </a>
+            <a
+              href="https://github.com/ro9er117911"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/127029993?v=4"
+                alt="ro9er117911"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">ro9er117911</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/jacky1822"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/94786796?v=4"
+                alt="jacky1822"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">jacky1822</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/hansai-art"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/132933660?v=4"
+                alt="hansai-art"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">hansai-art</span>
+              <span class="contributor-roles">📝 💻 👀</span>
+            </a>
+            <a
+              href="https://github.com/luofreddy"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/85281073?v=4"
+                alt="luofreddy"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">luofreddy</span>
+              <span class="contributor-roles">💻</span>
+            </a>
+            <a
+              href="https://github.com/fredchu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/1243384?v=4"
+                alt="Fred Chu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Fred Chu</span>
+              <span class="contributor-roles">👀 🐛</span>
+            </a>
+            <a
+              href="https://github.com/Rushyuheng"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/82425707?v=4"
+                alt="Rushyuheng"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Rushyuheng</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/f312213213"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/71749524?v=4"
+                alt="David"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">David</span>
+              <span class="contributor-roles">💻 🌍</span>
+            </a>
+            <a
+              href="https://github.com/siansiansu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/33390878?v=4"
+                alt="siansiansu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">siansiansu</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/YenTingWu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/57777349?v=4"
+                alt="YenTing Wu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">YenTing Wu</span>
+              <span class="contributor-roles">💻 🔧</span>
+            </a>
+            <a
+              href="https://github.com/r000tmnt"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/62630285?v=4"
+                alt="ParkCorner"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">ParkCorner</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/weilinlai719"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/173038591?v=4"
+                alt="weilin lai"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">weilin lai</span>
+              <span class="contributor-roles">💻 🐛</span>
+            </a>
+            <a
+              href="https://github.com/idlccp02"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/233878411?v=4"
+                alt="idlccp02"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">idlccp02</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/howieyoung"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/12218074?v=4"
+                alt="Howie Young"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Howie Young</span>
+            </a>
+            <a
+              href="https://github.com/eryet"
+              class="contributor-card"
+              target="_blank"
+              rel="noopener"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/48248414?v=4"
+                alt="EryetChen"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">EryetChen</span>
+              <span class="contributor-roles">💻</span>
+            </a>
+          </div>
+          <p class="contributors-cta">
+            想加入嗎？<a href="/contribute">從這裡開始 →</a> ・ <a
+              href="https://github.com/frank890417/taiwan-md/graphs/contributors"
+              target="_blank">GitHub Contributors →</a
+            >
           </p>
         </div>
       </div>
     </section>
 
-    <!-- Section 4: Contact -->
+    <!-- Section 5: 聯繫我們 -->
     <section class="contact-section">
       <div class="section-inner">
         <h2 class="section-title">聯繫我們</h2>
@@ -468,389 +729,7 @@ import ProticoScript from '../components/ProticoScript.astro';
       </div>
     </section>
 
-    <!-- Section: Contributors -->
-    <section class="contributors-section">
-      <div class="contributors-inner">
-        <h2>👥 貢獻者</h2>
-        <p class="contributors-desc">
-          感謝每一位讓 Taiwan.md 更好的人。💻 程式 📝 內容 🎨 設計 💡 點子 🌍
-          翻譯 👀 審核 🐛 Bug 🔧 工具 🔒 安全
-        </p>
-        <div class="contributors-grid">
-          <a
-            href="https://cheyuwu.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/4727572?v=4"
-              alt="Che-Yu Wu"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Che-Yu Wu</span>
-            <span class="contributor-roles">💻 📝 🎨 💡 📆 📖</span>
-          </a>
-          <a
-            href="https://github.com/bugnimusic"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/260387338?v=4"
-              alt="Bugni"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Bugni</span>
-            <span class="contributor-roles">📝 🌍</span>
-          </a>
-          <a
-            href="https://github.com/Ray0907"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/29456968?v=4"
-              alt="Ray Tien"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Ray Tien</span>
-            <span class="contributor-roles">📝 💻</span>
-          </a>
-          <a
-            href="https://github.com/number053"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/269151044?v=4"
-              alt="number053"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">number053</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/jekyll530"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/150101610?v=4"
-              alt="jekyll530"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">jekyll530</span>
-            <span class="contributor-roles">📝 🌍</span>
-          </a>
-          <a
-            href="https://github.com/ro9er117911"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/127029993?v=4"
-              alt="ro9er117911"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">ro9er117911</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/jacky1822"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/94786796?v=4"
-              alt="jacky1822"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">jacky1822</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/hansai-art"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/132933660?v=4"
-              alt="hansai-art"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">hansai-art</span>
-            <span class="contributor-roles">📝 💻 👀</span>
-          </a>
-          <a
-            href="https://github.com/luofreddy"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/85281073?v=4"
-              alt="luofreddy"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">luofreddy</span>
-            <span class="contributor-roles">💻</span>
-          </a>
-          <a
-            href="https://github.com/fredchu"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/1243384?v=4"
-              alt="Fred Chu"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Fred Chu</span>
-            <span class="contributor-roles">👀 🐛</span>
-          </a>
-          <a
-            href="https://github.com/Rushyuheng"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/82425707?v=4"
-              alt="Rushyuheng"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Rushyuheng</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/f312213213"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/71749524?v=4"
-              alt="David"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">David</span>
-            <span class="contributor-roles">💻 🌍</span>
-          </a>
-          <a
-            href="https://github.com/siansiansu"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/33390878?v=4"
-              alt="siansiansu"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">siansiansu</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/YenTingWu"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/57777349?v=4"
-              alt="YenTing Wu"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">YenTing Wu</span>
-            <span class="contributor-roles">💻 🔧</span>
-          </a>
-          <a
-            href="https://github.com/r000tmnt"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/62630285?v=4"
-              alt="ParkCorner"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">ParkCorner</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/weilinlai719"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/173038591?v=4"
-              alt="weilin lai"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">weilin lai</span>
-            <span class="contributor-roles">💻 🐛</span>
-          </a>
-          <a
-            href="https://github.com/idlccp02"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/233878411?v=4"
-              alt="idlccp02"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">idlccp02</span>
-            <span class="contributor-roles">📝</span>
-          </a>
-          <a
-            href="https://github.com/howieyoung"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="contributor-card"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/12218074?v=4"
-              alt="Howie Young"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">Howie Young</span>
-          </a>
-          <a
-            href="https://github.com/eryet"
-            class="contributor-card"
-            target="_blank"
-            rel="noopener"
-          >
-            <img
-              src="https://avatars.githubusercontent.com/u/48248414?v=4"
-              alt="EryetChen"
-              class="contributor-avatar"
-              loading="lazy"
-            />
-            <span class="contributor-name">EryetChen</span>
-            <span class="contributor-roles">💻</span>
-          </a>
-        </div>
-        <p class="contributors-cta">
-          想加入嗎？<a href="/contribute">從這裡開始 →</a> ・ <a
-            href="https://github.com/frank890417/taiwan-md/graphs/contributors"
-            target="_blank">GitHub Contributors →</a
-          >
-        </p>
-      </div>
-    </section>
-
-    <!-- Section: Press -->
-    <section class="press-section">
-      <div class="press-inner">
-        <h2>📰 媒體報導</h2>
-        <div class="press-grid">
-          <a
-            href="https://www.cna.com.tw/news/ait/202603195002.aspx"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">中央社 CNA</div>
-            <h3 class="press-title">
-              從台積電到早餐店阿姨　Taiwan.md知識庫AI時代下說台灣故事
-            </h3>
-            <p class="press-date">2026-03-19</p>
-          </a>
-          <a
-            href="https://www.inside.com.tw/article/40877-taiwan-md"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">INSIDE 硬塞的網路趨勢觀察</div>
-            <h3 class="press-title">
-              把台灣開源！taiwan.md：AI 回答的時代，讓國家用 README
-              的方式介紹自己
-            </h3>
-            <p class="press-date">2026-03-19</p>
-          </a>
-          <a
-            href="https://abmedia.io/taiwan-md-github-opensource"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">動區動趨 ABMedia</div>
-            <h3 class="press-title">
-              怎麼向外國人介紹台灣？人人都能在 Taiwan.md
-              把「日常的不可思議」寫給世界看
-            </h3>
-            <p class="press-date">2026-03-19</p>
-          </a>
-          <a
-            href="https://art.ltn.com.tw/article/breakingnews/5374934"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">自由時報 藝文</div>
-            <h3 class="press-title">
-              在AI時代搶回「台灣主體」敘事權！新媒體藝術家吳哲宇發起「taiwan.md」實驗
-            </h3>
-            <p class="press-date">2026-03-18</p>
-          </a>
-          <a
-            href="https://www.upmedia.mg/tw/commentary/culture-and-education/254232"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">上報 Up Media</div>
-            <h3 class="press-title">策展島嶼的深度敘事</h3>
-            <p class="press-date">2026-03-19</p>
-          </a>
-          <a
-            href="https://tw.news.yahoo.com/%E7%AD%96%E5%B1%95%E5%B3%B6%E5%B6%BC%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%95%98%E4%BA%8B-221000314.html"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="press-card"
-          >
-            <div class="press-source">Yahoo 新聞</div>
-            <h3 class="press-title">策展島嶼的深度敘事</h3>
-            <p class="press-date">2026-03-19</p>
-          </a>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section: Sponsors -->
+    <!-- Section 6: 贊助與合作夥伴 -->
     <section class="sponsors-section">
       <div class="sponsors-inner">
         <h2>🤝 贊助與合作夥伴</h2>
@@ -1046,35 +925,101 @@ import ProticoScript from '../components/ProticoScript.astro';
     line-height: 1.6;
   }
 
-  /* ===== Section 1: Origin ===== */
-  .origin-section {
+  /* ===== Section 1: 為什麼叫 Taiwan.md？ ===== */
+  .naming-section {
     padding: 3rem 0 4rem;
   }
 
-  .origin-section .section-title {
+  .naming-section .section-title {
     font-size: 2.75rem;
     margin-bottom: 0.75rem;
   }
 
-  .origin-intro {
+  /* Naming Story */
+  .naming-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
     margin: 3rem 0;
+  }
+
+  .naming-card {
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.75rem;
+    text-align: center;
+    transition:
+      transform 0.2s,
+      box-shadow 0.2s;
+  }
+
+  .naming-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .naming-icon {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .naming-card h4 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+  }
+
+  .naming-card p {
+    color: #6b7280;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .naming-card code {
+    background: #e0e7ff;
+    color: #1e40af;
+    padding: 0.1em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+
+  /* Vision */
+  .vision-block {
+    background: linear-gradient(135deg, #eff6ff, #f0fdf4);
+    border-radius: 16px;
+    padding: 2.5rem;
+    margin-top: 3rem;
     text-align: center;
   }
 
-  .origin-quote {
-    font-size: 1.35rem;
-    font-style: italic;
-    color: #1e40af;
-    border: none;
-    padding: 0;
-    margin: 0 auto 0.75rem;
-    max-width: 600px;
+  .vision-block p {
+    color: #374151;
+    font-size: 1.1rem;
     line-height: 1.8;
+    margin-bottom: 1rem;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .quote-context {
-    font-size: 0.9rem;
-    color: #9ca3af;
+  .vision-block p:last-child {
+    margin-bottom: 0;
+  }
+
+  .vision-emphasis {
+    font-weight: 500;
+    color: #1f2937 !important;
+  }
+
+  /* ===== Section 2: Taiwan.md 的誕生 ===== */
+  .origin-section {
+    padding: 4rem 0;
+    background: #f9fafb;
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   /* Timeline */
@@ -1180,98 +1125,101 @@ import ProticoScript from '../components/ProticoScript.astro';
     text-decoration: underline;
   }
 
-  /* Naming Story */
-  .naming-story {
-    margin: 4rem 0;
-  }
-
-  .naming-story h2 {
-    font-size: 1.75rem;
-    font-weight: 600;
-    color: #1f2937;
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-
-  .naming-grid {
+  /* 時間軸內的媒體報導小卡片 */
+  .timeline-press-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    margin-top: 1rem;
   }
 
-  .naming-card {
-    background: #f8fafc;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    padding: 1.75rem;
-    text-align: center;
-    transition:
-      transform 0.2s,
-      box-shadow 0.2s;
+  .press-card-mini {
+    display: block;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 0.8rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+    font-size: 0.85rem;
   }
 
-  .naming-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  .press-card-mini:hover {
+    border-color: #1e40af;
+    box-shadow: 0 2px 8px rgba(30, 64, 175, 0.1);
   }
 
-  .naming-icon {
-    font-size: 2rem;
-    margin-bottom: 0.75rem;
-  }
-
-  .naming-card h4 {
-    font-size: 1.05rem;
+  .press-card-mini .press-source {
+    font-size: 0.7rem;
     font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 0.5rem;
-  }
-
-  .naming-card p {
-    color: #6b7280;
-    font-size: 0.95rem;
-    line-height: 1.6;
-  }
-
-  .naming-card code {
-    background: #e0e7ff;
     color: #1e40af;
-    padding: 0.1em 0.4em;
-    border-radius: 4px;
-    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
   }
 
-  /* Vision */
-  .vision-block {
-    background: linear-gradient(135deg, #eff6ff, #f0fdf4);
-    border-radius: 16px;
-    padding: 2.5rem;
-    margin-top: 3rem;
-    text-align: center;
-  }
-
-  .vision-block p {
-    color: #374151;
-    font-size: 1.1rem;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    max-width: 640px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .vision-block p:last-child {
-    margin-bottom: 0;
-  }
-
-  .vision-emphasis {
+  .press-card-mini .press-title {
+    font-size: 0.8rem;
     font-weight: 500;
-    color: #1f2937 !important;
+    color: #1f2937;
+    line-height: 1.4;
+    margin: 0;
   }
 
-  /* ===== Section 2: Founder ===== */
+  /* Project Stats */
+  .project-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .stat-number {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #1e40af;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 0.85rem;
+    color: #6b7280;
+    font-weight: 500;
+  }
+
+  @media (max-width: 480px) {
+    .project-stats {
+      gap: 1rem;
+    }
+    .stat-number {
+      font-size: 1.5rem;
+    }
+  }
+
+  /* Standalone Quote */
+  .standalone-quote {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto 3rem;
+    text-align: center;
+    border-left: none;
+    padding: 2rem;
+    background: rgba(45, 80, 22, 0.05);
+    border-radius: 12px;
+  }
+
+  /* ===== Section 3: 創辦人 ===== */
   .founder-section {
-    background: #f9fafb;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     padding: 4rem 0;
     margin: 0;
     padding-left: 1rem;
@@ -1289,32 +1237,6 @@ import ProticoScript from '../components/ProticoScript.astro';
   .founder-photo {
     position: sticky;
     top: 2rem;
-  }
-
-  .photo-placeholder {
-    width: 240px;
-    height: 300px;
-    background: linear-gradient(135deg, #1e40af, #3b82f6);
-    border-radius: 16px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-    color: white;
-    box-shadow: 0 8px 24px rgba(30, 64, 175, 0.15);
-  }
-
-  .photo-initials {
-    font-size: 3.5rem;
-    font-weight: 700;
-    opacity: 0.9;
-  }
-
-  .photo-label {
-    font-size: 0.85rem;
-    opacity: 0.7;
-    letter-spacing: 0.05em;
   }
 
   .founder-image {
@@ -1432,20 +1354,6 @@ import ProticoScript from '../components/ProticoScript.astro';
     margin-bottom: 1.25rem;
   }
 
-  .founder-motivation p {
-    color: #4b5563;
-    font-size: 1.05rem;
-    line-height: 1.8;
-    margin-bottom: 0.75rem;
-  }
-
-  .motivation-emphasis {
-    font-size: 1.2rem !important;
-    font-weight: 600;
-    color: #1e40af !important;
-    margin-top: 1rem !important;
-  }
-
   .founder-quote {
     margin: 2rem 0;
     padding: 1.5rem 2rem;
@@ -1467,55 +1375,78 @@ import ProticoScript from '../components/ProticoScript.astro';
     font-size: 0.95rem;
   }
 
-  /* Founder Links */
-  .founder-links {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+  /* Founder Links - 改為 inline 小方塊 */
+  .founder-links-inline {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.75rem;
+    justify-content: center;
+    margin-bottom: 3rem;
   }
 
-  .link-card {
-    display: flex;
-    flex-direction: column;
+  .link-inline {
+    display: inline-flex;
     align-items: center;
-    gap: 0.25rem;
-    padding: 1.5rem;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
     background: white;
     border: 1px solid #e5e7eb;
-    border-radius: 12px;
+    border-radius: 20px;
     text-decoration: none;
+    font-size: 0.9rem;
     transition: all 0.2s;
   }
 
-  .link-card:hover {
+  .link-inline:hover {
     border-color: #1e40af;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.1);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(30, 64, 175, 0.1);
   }
 
-  .link-icon {
-    font-size: 1.5rem;
-    margin-bottom: 0.25rem;
+  .link-inline .link-icon {
+    font-size: 1rem;
   }
 
-  .link-text {
-    font-weight: 600;
+  .link-inline .link-text {
+    font-weight: 500;
     color: #1f2937;
-    font-size: 0.95rem;
   }
 
-  .link-desc {
-    color: #9ca3af;
-    font-size: 0.8rem;
-  }
-
-  /* ===== Section 3: Team ===== */
+  /* ===== Section 4: 協作團隊 ===== */
   .team-section {
     padding: 4rem 0;
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     margin: 0;
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  /* 協作哲學移到最上面 */
+  .team-philosophy {
+    background: white;
+    border-radius: 16px;
+    padding: 2.5rem;
+    border: 1px solid #e5e7eb;
+    margin-bottom: 3rem;
+  }
+
+  .team-philosophy h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 1.25rem;
+    text-align: center;
+  }
+
+  .team-philosophy p {
+    color: #4b5563;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .team-philosophy p:last-child {
+    margin-bottom: 0;
   }
 
   .team-grid {
@@ -1584,36 +1515,95 @@ import ProticoScript from '../components/ProticoScript.astro';
     color: #1d4ed8;
   }
 
-  .team-philosophy {
-    background: white;
+  /* 貢獻者整合到協作團隊 */
+  .contributors-in-team {
+    background: #f8fafc;
     border-radius: 16px;
     padding: 2.5rem;
     border: 1px solid #e5e7eb;
+    text-align: center;
   }
 
-  .team-philosophy h3 {
+  .contributors-in-team h3 {
     font-size: 1.5rem;
     font-weight: 600;
     color: #1f2937;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .contributors-desc {
+    color: #64748b;
+    margin-bottom: 1.5rem;
+  }
+
+  .contributors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .contributor-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.8rem 0.4rem;
+    border-radius: 12px;
+    transition:
+      transform 0.2s,
+      background 0.2s;
+    text-decoration: none !important;
+    border: none !important;
+  }
+
+  .contributor-card:hover {
+    transform: translateY(-2px);
+    background: #e2e8f0;
+  }
+
+  .contributor-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .contributor-name {
+    font-size: 0.75rem;
+    color: #334155;
+    font-weight: 500;
     text-align: center;
+    line-height: 1.2;
+    max-width: 90px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
-  .team-philosophy p {
-    color: #4b5563;
-    font-size: 1.05rem;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    text-align: center;
+  .contributor-roles {
+    font-size: 0.7rem;
+    letter-spacing: 1px;
   }
 
-  .team-philosophy p:last-child {
-    margin-bottom: 0;
+  .contributors-cta {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #64748b;
   }
 
-  /* ===== Section 4: Contact ===== */
+  .contributors-cta a {
+    color: #3b82f6;
+    font-weight: 500;
+  }
+
+  /* ===== Section 5: 聯繫我們 ===== */
   .contact-section {
     padding: 4rem 0 3rem;
+    background: #f9fafb;
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .contact-grid {
@@ -1626,7 +1616,7 @@ import ProticoScript from '../components/ProticoScript.astro';
   .contact-card {
     text-align: center;
     padding: 2rem 1.5rem;
-    background: #f8fafc;
+    background: white;
     border: 1px solid #e5e7eb;
     border-radius: 12px;
   }
@@ -1664,8 +1654,9 @@ import ProticoScript from '../components/ProticoScript.astro';
   .contact-cta {
     text-align: center;
     padding: 2rem;
-    background: linear-gradient(135deg, #eff6ff, #f5f3ff);
+    background: white;
     border-radius: 16px;
+    border: 1px solid #e5e7eb;
   }
 
   .contact-cta p {
@@ -1712,252 +1703,7 @@ import ProticoScript from '../components/ProticoScript.astro';
     transform: translateY(-1px);
   }
 
-  /* ===== Responsive ===== */
-  @media (max-width: 768px) {
-    .section-title {
-      font-size: 2rem;
-    }
-
-    .origin-section .section-title {
-      font-size: 2.25rem;
-    }
-
-    .origin-quote {
-      font-size: 1.15rem;
-    }
-
-    .naming-grid {
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-
-    .founder-card {
-      grid-template-columns: 1fr;
-      gap: 2rem;
-      justify-items: center;
-    }
-
-    .founder-photo {
-      position: static;
-    }
-
-    .photo-placeholder {
-      width: 180px;
-      height: 220px;
-    }
-
-    .founder-image {
-      width: 180px;
-      height: 220px;
-    }
-
-    .photo-initials {
-      font-size: 2.5rem;
-    }
-
-    .team-grid {
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-
-    .team-card {
-      padding: 2rem;
-    }
-
-    .founder-links,
-    .contact-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .cta-buttons {
-      flex-direction: column;
-      align-items: center;
-    }
-    .sponsor-tiers {
-      gap: 1.5rem;
-    }
-    .tier-logos {
-      grid-template-columns: 1fr;
-    }
-    .sponsor-contact {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .vision-block {
-      padding: 1.75rem;
-    }
-
-    .founder-motivation {
-      padding: 1.75rem;
-    }
-
-    .highlight-tags {
-      justify-content: center;
-    }
-
-    .founder-info {
-      text-align: center;
-    }
-
-    .founder-works ul {
-      text-align: left;
-    }
-
-    .founder-quote {
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .section-title {
-      font-size: 1.75rem;
-    }
-
-    .timeline {
-      padding-left: 1.5rem;
-    }
-
-    .timeline-item {
-      padding-left: 1rem;
-    }
-  }
-
-  /* ===== Contributors ===== */
-  .contributors-section {
-    padding: 4rem 2rem;
-    background: #f8fafc;
-    text-align: center;
-  }
-  .contributors-inner {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .contributors-inner h2 {
-    font-size: 1.8rem;
-    margin-bottom: 0.5rem;
-  }
-  .contributors-desc {
-    color: #64748b;
-    margin-bottom: 1.5rem;
-  }
-  .contributors-img {
-    display: inline-block;
-  }
-  .contributors-img img {
-    max-width: 100%;
-    border-radius: 8px;
-  }
-  .contributors-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0;
-  }
-  .contributor-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.8rem 0.4rem;
-    border-radius: 12px;
-    transition:
-      transform 0.2s,
-      background 0.2s;
-    text-decoration: none !important;
-    border: none !important;
-  }
-  .contributor-card:hover {
-    transform: translateY(-2px);
-    background: #e2e8f0;
-  }
-  .contributor-avatar {
-    width: 56px;
-    height: 56px;
-    border-radius: 50%;
-    object-fit: cover;
-  }
-  .contributor-name {
-    font-size: 0.75rem;
-    color: #334155;
-    font-weight: 500;
-    text-align: center;
-    line-height: 1.2;
-    max-width: 90px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-  .contributor-roles {
-    font-size: 0.7rem;
-    letter-spacing: 1px;
-  }
-  .contributors-cta {
-    margin-top: 1rem;
-    font-size: 0.9rem;
-    color: #64748b;
-  }
-  .contributors-cta a {
-    color: #3b82f6;
-    font-weight: 500;
-  }
-
-  /* ===== Press ===== */
-  .press-section {
-    padding: 4rem 2rem;
-    background: rgba(247, 243, 233, 0.3);
-  }
-  .press-inner {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .press-inner h2 {
-    text-align: center;
-    font-size: 1.6rem;
-    margin-bottom: 2rem;
-    color: #2d5016;
-    font-weight: 700;
-  }
-  .press-grid {
-    display: grid;
-    gap: 1rem;
-  }
-  .press-card {
-    display: block;
-    background: rgba(255, 255, 255, 0.95);
-    border: 2px solid #a7c4a0;
-    border-radius: 16px;
-    padding: 1.5rem 2rem;
-    text-decoration: none;
-    color: inherit;
-    transition: all 0.3s ease;
-  }
-  .press-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 24px rgba(45, 80, 22, 0.12);
-    border-color: #4a7c59;
-  }
-  .press-source {
-    font-size: 0.8rem;
-    font-weight: 700;
-    color: #4a7c59;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 0.5rem;
-  }
-  .press-title {
-    font-size: 1.15rem;
-    font-weight: 700;
-    color: #2d5016;
-    line-height: 1.5;
-    margin-bottom: 0.5rem;
-  }
-  .press-date {
-    font-size: 0.85rem;
-    color: #6b8e23;
-  }
-
-  /* ===== Sponsors ===== */
+  /* ===== Section 6: 贊助與合作夥伴 ===== */
   .sponsors-section {
     padding: 4rem 2rem;
     background: linear-gradient(135deg, #fef9f0, #fdf4e8);
@@ -2005,7 +1751,6 @@ import ProticoScript from '../components/ProticoScript.astro';
   .tier-name.community {
     color: #15803d;
   }
-  /* .tier-price removed — tiers now based on contribution, not amount */
   .tier-desc {
     font-size: 0.85rem;
     color: #64748b;
@@ -2169,5 +1914,117 @@ import ProticoScript from '../components/ProticoScript.astro';
   .supporter-link:hover {
     color: #166534;
     text-decoration: underline;
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 768px) {
+    .section-title {
+      font-size: 2rem;
+    }
+
+    .naming-section .section-title {
+      font-size: 2.25rem;
+    }
+
+    .naming-grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .founder-card {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+      justify-items: center;
+    }
+
+    .founder-photo {
+      position: static;
+    }
+
+    .founder-image {
+      width: 180px;
+      height: 220px;
+    }
+
+    .team-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+    }
+
+    .team-card {
+      padding: 2rem;
+    }
+
+    .contact-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cta-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+    .sponsor-tiers {
+      gap: 1.5rem;
+    }
+    .tier-logos {
+      grid-template-columns: 1fr;
+    }
+    .sponsor-contact {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .vision-block {
+      padding: 1.75rem;
+    }
+
+    .founder-motivation {
+      padding: 1.75rem;
+    }
+
+    .highlight-tags {
+      justify-content: center;
+    }
+
+    .founder-info {
+      text-align: center;
+    }
+
+    .founder-works ul {
+      text-align: left;
+    }
+
+    .founder-quote {
+      text-align: left;
+    }
+
+    .founder-links-inline {
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 1.5rem;
+    }
+
+    .timeline-press-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .section-title {
+      font-size: 1.75rem;
+    }
+
+    .timeline {
+      padding-left: 1.5rem;
+    }
+
+    .timeline-item {
+      padding-left: 1rem;
+    }
+
+    .founder-links-inline {
+      flex-direction: column;
+      align-items: center;
+    }
   }
 </style>

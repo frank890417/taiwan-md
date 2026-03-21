@@ -1,8 +1,8 @@
 {
-  "totalArticles": 686,
-  "totalCategories": 15,
-  "estimatedContributors": 46,
-  "totalTags": 1598,
+  "totalArticles": 707,
+  "totalCategories": 20,
+  "estimatedContributors": 48,
+  "totalTags": 1651,
   "categories": [
     {
       "name": "en",
@@ -14,15 +14,19 @@
     },
     {
       "name": "Culture",
-      "count": 24
+      "count": 27
     },
     {
       "name": "Society",
       "count": 19
     },
     {
+      "name": "Economy",
+      "count": 24
+    },
+    {
       "name": "People",
-      "count": 104
+      "count": 108
     },
     {
       "name": "Art",
@@ -30,7 +34,7 @@
     },
     {
       "name": "Food",
-      "count": 28
+      "count": 29
     },
     {
       "name": "Technology",
@@ -41,10 +45,6 @@
       "count": 21
     },
     {
-      "name": "Economy",
-      "count": 16
-    },
-    {
       "name": "Geography",
       "count": 16
     },
@@ -53,12 +53,32 @@
       "count": 16
     },
     {
+      "name": "台灣水果王國.md",
+      "count": 1
+    },
+    {
       "name": "Music",
       "count": 19
     },
     {
       "name": "About",
       "count": 5
+    },
+    {
+      "name": "台灣海岸地形與海洋地景.md",
+      "count": 1
+    },
+    {
+      "name": "台灣茶道與生活美學.md",
+      "count": 1
+    },
+    {
+      "name": "台灣醫療與全民健保.md",
+      "count": 1
+    },
+    {
+      "name": "民主化.md",
+      "count": 1
     },
     {
       "name": "resources",
@@ -107,12 +127,20 @@
       "count": 11
     },
     {
+      "name": "歷史",
+      "count": 10
+    },
+    {
+      "name": "Economy",
+      "count": 10
+    },
+    {
       "name": "奧運",
       "count": 10
     },
     {
-      "name": "歷史",
-      "count": 9
+      "name": "教育",
+      "count": 10
     },
     {
       "name": "History",
@@ -131,25 +159,17 @@
       "count": 9
     },
     {
-      "name": "文化",
+      "name": "民主化",
       "count": 8
     },
     {
-      "name": "流行音樂",
+      "name": "企業",
       "count": 8
-    },
-    {
-      "name": "Taiwan",
-      "count": 8
-    },
-    {
-      "name": "history",
-      "count": 7
     }
   ],
   "languageDistribution": {
-    "zh-TW": 686,
+    "zh-TW": 707,
     "en": 0
   },
-  "lastUpdated": "2026-03-20T10:07:54.219Z"
+  "lastUpdated": "2026-03-20T16:15:41.998Z"
 }

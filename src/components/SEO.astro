@@ -17,8 +17,8 @@ const { lang = 'zh-TW' } = Astro.props;
 const {
   title,
   description = lang === 'en'
-    ? 'Open-source knowledge base about Taiwan — politics, economy, culture, history, geography, and more.'
-    : '讓全世界完整認識台灣 - 開源台灣知識庫，蒐集關於台灣的政治、經濟、文化、歷史、地理等各方面知識。',
+    ? 'The open-source, AI-friendly knowledge base about Taiwan. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world.'
+    : '開源、AI-friendly 的台灣完整知識庫。660+ 頁深度內容涵蓋歷史、文化、美食、音樂、科技等 12 大主題，由社群共同編撰，讓全世界認識真正的台灣。',
   image = '/images/taiwan-social.jpg',
   url = Astro.url.href,
   type = 'website',
@@ -333,8 +333,11 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:title" content={fullTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={fullImageUrl} />
-<meta property="og:image:alt" content={`${title} - Taiwan.md`} />
-<meta property="og:site_name" content="Taiwan.md" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
+<meta property="og:site_name" content="Taiwan.md — 台灣知識庫" />
 <meta property="og:locale" content={lang === 'zh-TW' ? 'zh_TW' : 'en_US'} />
 {
   datePublished && (
@@ -353,11 +356,13 @@ const breadcrumbLD = generateBreadcrumbLD();
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@cheyuwu345" />
+<meta name="twitter:creator" content="@cheyuwu345" />
 <meta name="twitter:url" content={url} />
 <meta name="twitter:title" content={fullTitle} />
 <meta name="twitter:description" content={description} />
 <meta name="twitter:image" content={fullImageUrl} />
-<meta name="twitter:image:alt" content={`${title} - Taiwan.md`} />
+<meta name="twitter:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
 
 <!-- Additional SEO -->
 <meta name="robots" content="index, follow" />

@@ -1,431 +1,335 @@
-# 編輯方針 | Editorial Guidelines
+# EDITORIAL.md — Taiwan.md 寫作方法論與品質標準
 
-_Taiwan.md 內容治理與編輯原則_
-
----
-
-## 立場宣言 | Mission Statement
-
-### 基本立場 | Fundamental Position
-
-Taiwan.md 以**「中華民國（台灣）」的現行治理事實**為基礎，記錄與呈現台灣的多元面貌。我們：
-
-- **非政黨立場**：不代表任何特定政黨或政治立場
-- **事實為本**：以可驗證的事實資料為準
-- **多元包容**：呈現不同觀點與文化視角
-- **現況導向**：基於台灣現行治理現實
-
-### 核心價值 | Core Values
-
-1. **真實性 (Authenticity)**：內容必須有可靠來源支撐
-2. **平衡性 (Balance)**：呈現多元觀點，避免單一視角
-3. **包容性 (Inclusivity)**：尊重台灣的多元族群與文化
-4. **教育性 (Educational)**：促進理解而非宣傳或煽動
+> 每一篇文章在動筆之前，作者（人類或 AI）都必須先讀完這份文件。
+> 這不是風格指南，這是**品質的最低門檻**。
 
 ---
 
-## 收錄標準 | Content Standards
+## 一、核心信念
 
-### ✅ 收錄內容 | What We Include
+**Taiwan.md 不是百科全書，是一座策展空間。**
 
-1. **有可靠來源的事實資訊**
-   - 學術研究成果
-   - 官方統計資料
-   - 權威媒體報導
-   - 經同儕審查的資料
+我們不追求面面俱到，我們追求每一篇都讓讀者覺得「原來如此」。
+一篇好的 Taiwan.md 文章，讀完之後你會想跟朋友說：「欸你知道嗎⋯⋯」
 
-2. **多元文化觀點**
-   - 原住民族文化與觀點
-   - 漢族移民文化發展
-   - 新住民與國際文化影響
-   - 在地社群經驗分享
+### 三條鐵律
 
-3. **在地生活經驗**
-   - 台灣人的日常生活方式
-   - 地方特色與區域差異
-   - 社會變遷與時代記憶
-   - 文化實踐與創新
-
-### ❌ 不收錄內容 | What We Exclude
-
-1. **政治宣傳內容**
-   - 單方面的政治論述
-   - 選舉相關宣傳材料
-   - 缺乏事實基礎的政治主張
-
-2. **未經驗證的主張**
-   - 缺乏可靠來源的說法
-   - 個人意見未標示為主觀觀點
-   - 傳言或未確認的資訊
-
-3. **仇恨言論**
-   - 針對特定族群的歧視內容
-   - 煽動對立或仇恨的言論
-   - 不當的刻板印象強化
-
-### 爭議性內容處理 | Handling Controversial Content
-
-- **多方來源**：必須提供不同立場的可靠來源
-- **中性語言**：使用客觀、不帶情感色彩的描述
-- **脈絡說明**：提供充分的歷史與社會背景
-- **標示爭議**：明確標註內容的爭議性質
+1. **有故事，不只有資訊** — 年份、數字、人名只是骨架，敘事才是血肉
+2. **每個事實都要可查證** — 無來源的數據不如不寫
+3. **寧可寫少寫深，不要寫多寫空** — 80 行的好文章 > 300 行的 bullet list
 
 ---
 
-## 🔄 平行宇宙觀點系統 | Perspectives System
+## 二、研究流程（動筆前必做）
 
-### 設計哲學 | Design Philosophy
+### Step 1：定義文章要回答的問題
 
-Taiwan.md 不裁決真相，而是**呈現所有有根據的真相，讓讀者自行判斷**。
+在搜集任何資料之前，先寫下 **3 個讀者會問的問題**。
 
-台灣的歷史、身份認同、政治定位存在多元詮釋。我們不選邊站，而是建立一個制度，讓每個有來源支撐的觀點都能共存。
+例如「台灣全民健保」：
+1. 全民健保到底怎麼來的？為什麼台灣做得到？
+2. 它在國際上的評價到底如何？有什麼具體數據？
+3. 它現在面臨什麼真正的危機？
 
-> _「我們不定義台灣是什麼。我們呈現台灣曾經是、現在是、未來可能是的多種面貌——然後信任你自己思考。」_
+這 3 個問題就是文章的骨架。回答不了的問題不要硬寫。
 
-### 觀點面板 | Perspective Panels
+### Step 2：大量研究，再動筆（Research First, Write Later）
 
-對於歷史詮釋、政治定位等高度爭議的議題，文章中使用**觀點面板**呈現不同立場：
+**⚠️ 這是最重要的一步。不要用腦中的知識寫，用查到的資料寫。**
 
-```markdown
-:::perspective 主流學術觀點
-[內容]
-:::
+AI 最大的問題是「知道一點就開始編」。Taiwan.md 的做法是反過來：
+**先搜集大量高品質資料，再從中策展出一篇文章。**
 
-:::perspective 台灣主體史觀
-[內容]
-:::
+每篇文章動筆前，至少要完成以下研究：
+1. **搜尋 3-5 次**，用不同關鍵字組合（中文+英文）
+2. **打開並閱讀至少 3 個完整頁面**（不是只看搜尋結果摘要）
+3. **記下所有可用的具體數據**（年份、數字、人名、地名）
+4. **找到至少 1 個「意外發現」**——你搜尋前不知道的事實。如果什麼都沒有讓你驚訝，代表你研究得不夠深
 
-:::perspective 中華民國法統觀點
-[內容]
-:::
+研究筆記格式（腦中整理）：
+```
+主題：XXX
+來源 1：[URL] — 關鍵事實：...
+來源 2：[URL] — 關鍵事實：...
+來源 3：[URL] — 關鍵事實：...
+意外發現：...
+三個讀者會問的問題：1. ... 2. ... 3. ...
 ```
 
-**面板規則：**
+**然後才開始寫。** 文章應該是從研究資料中「策展」出來的，不是從腦中「生成」出來的。
 
-- 每個觀點必須標明名稱（學派、立場、來源）
-- 每個觀點必須附上學術、法律或一手史料來源
-- 純個人意見（「我覺得...」）不構成觀點面板，需有論據支撐
-- 觀點之間不設優先級——排列順序按照學術影響力或時間先後
+### Step 3：交叉查核（Cross-Referencing）
 
-### 適用範圍 | Where Perspectives Apply
+**每個重要事實至少需要 2 個獨立來源確認。**
 
-以下議題優先建立多元觀點面板：
+來源優先序：
+1. 🟢 **官方一手來源**：政府統計資料庫、官方網站、法規條文、年報
+2. 🟢 **學術/專業**：維基百科（作為索引起點）、學術論文、專業媒體
+3. 🟡 **新聞報導**：主流媒體報導（注意時效性，優先用近 3 年的）
+4. 🔴 **避免**：部落格、內容農場、無法追溯的「據說」「有人認為」
 
-| 議題         | 可能的觀點軸                            |
-| ------------ | --------------------------------------- |
-| 台灣地位     | 未定論 / 已歸還論 / 自決論 / 事實獨立論 |
-| 荷西明鄭時期 | 殖民 vs 開拓                            |
-| 日治時期     | 殖民壓迫 vs 現代化建設                  |
-| 戰後接收     | 光復 vs 佔領 vs 代管                    |
-| 國語政策     | 統一語言 vs 語言壓迫                    |
-| 轉型正義     | 和解共生 vs 追究到底                    |
-| 兩岸關係     | 統一 / 獨立 / 維持現狀 / 一中各表       |
+**台灣特有的好來源：**
+- 政府：[交通部觀光署](https://www.taiwan.net.tw/)、[文化部](https://www.moc.gov.tw/)、[國發會](https://www.ndc.gov.tw/)、[主計總處](https://www.stat.gov.tw/)
+- 企業：[公開資訊觀測站](https://mops.twse.com.tw/)、公司年報、[財報狗](https://statementdog.com/)
+- 歷史：[國史館](https://www.drnh.gov.tw/)、[中研院台史所](https://www.ith.sinica.edu.tw/)、[國家文化記憶庫](https://memory.culture.tw/)
+- 體育：[中華奧會](https://www.tpenoc.net/)、BWF/WTT 等國際總會官網
+- 維基百科：可以作為索引起點找到原始來源，但不要只引用維基百科
 
-### 如何貢獻觀點 | How to Contribute a Perspective
+### Step 4：數據驗證清單
 
-1. **Fork** 這個 repo
-2. 在目標文章中加入 `:::perspective [觀點名稱]` 區塊
-3. 在 frontmatter 中加入 `perspectives:` 欄位
-4. 附上可驗證的來源（學術論文、法律文件、歷史檔案、新聞報導）
-5. 提交 **PR**，說明你新增的觀點與來源
+寫入文章的每個數據，自問：
+- [ ] 這個數字的**來源機構**是什麼？
+- [ ] 這個數字的**統計年份**是什麼？
+- [ ] 這個數字我能在原始來源**找到原文**嗎？
+- [ ] 如果找不到精確數字，我寧可用「約」或直接不寫？
 
-### 不接受的內容
-
-- ❌ 沒有來源的個人意見
-- ❌ 否定其他觀點存在權利的論述（「只有我的觀點是正確的」）
-- ❌ 仇恨言論或人身攻擊
-- ❌ 政黨宣傳材料
+**⚠️ 常見 AI 幻覺陷阱：**
+- 捏造具體的產值數字（如「產值約 600 億元」，實際無此統計）
+- 捏造公司名稱（如「Baboo 動畫」「格思邁數位」）
+- 張冠李戴（如把 A 公司的作品說成 B 公司製作的）
+- 編造獲獎紀錄或年份
 
 ---
 
-## PR 審核原則 | Pull Request Review Guidelines
+## 三、文章結構
 
-### 內容審核標準 | Content Review Standards
+### Frontmatter 必填欄位
 
-1. **事實正確性 (Factual Accuracy)**
-   - 所有事實陳述必須附上可驗證的來源
-   - 引用資料必須是權威、可信的來源
-   - 統計數據必須注明出處與時間
-
-2. **中立語氣 (Neutral Tone)**
-   - 使用客觀、描述性的語言
-   - 避免主觀判斷或評價性詞彙
-   - 呈現事實，不做價值判斷
-
-3. **文風要求：去除 AI 塑膠味 (No AI Slop)**
-
-   Taiwan.md 的文章應該讀起來像「一個懂這件事的朋友在跟你說話」，而不是「一篇 AI 生成的百科全書」。
-
-   **❌ 禁用句式清單：**
-   - 「不是 X，而是 Y」「不僅 X，更是 Y」「不只是 X，也是 Y」
-   - 「值得一提的是」「令人驚嘆的是」「引人注目的是」
-   - 「事實上」「毫無疑問」「毋庸置疑」
-   - 「展現了...的精神」「體現了...的價值」「彰顯了...的重要性」
-   - 「在這片土地上」「在歷史的長河中」
-   - 每段都以轉折詞開頭（然而、不過、事實上、值得注意的是）
-   - 結尾固定公式：「未來，台灣將繼續...」「相信在...的努力下」
-
-   **✅ 好文風的標準：**
-   - 用具體事實和數字取代空泛形容
-   - 用故事和案例取代說教
-   - 短句優先，一個句子一個重點
-   - 主動語態 > 被動語態
-   - 口語化但不隨便（想像你在跟外國朋友解釋台灣）
-   - 允許有觀點，但要有根據
-
-   **範例對比：**
-   - ❌「台灣的夜市文化不僅是美食的殿堂，更是展現台灣人熱情好客精神的重要場域。」
-   - ✅「全台灣有超過 300 個夜市。晚上十點，士林夜市的人潮密度大概跟早上八點的捷運差不多。」
-
-4. **格式規範 (Format Compliance)**
-   - 符合三層深度結構：概覽 → 理解 → 深度
-   - 遵循 Markdown 格式標準
-   - 中英雙語對照完整
-
-5. **來源標註 (Source Attribution)**
-   - 每項事實都有明確來源
-   - 來源連結有效且可存取
-   - 引用格式統一標準
-
-### 審核流程 | Review Process
-
-1. **初步檢查**：格式、語法、基本事實核查
-2. **內容審查**：深度事實查證、觀點平衡性
-3. **社群討論**：開放社群成員參與討論
-4. **最終決定**：由 maintainer 做最終決策
-
-### 貢獻者指導 | Contributor Guidance
-
-- **新手友善**：提供建設性的修改建議
-- **教育導向**：解釋為什麼需要修改
-- **協作精神**：鼓勵持續改進而非一次完美
-
+```yaml
 ---
-
-## 語言與文化敏感性 | Language and Cultural Sensitivity
-
-### 用詞原則 | Terminology Guidelines
-
-1. **族群稱謂**：使用各族群自稱的正式名稱
-2. **地名使用**：採用現行官方地名，歷史地名需加註
-3. **文化術語**：尊重各文化的原始詞彙與概念
-4. **翻譯一致性**：建立統一的中英文對照表
-
-### 文化觀點 | Cultural Perspectives
-
-- **避免單一視角**：不以任何特定文化為唯一標準
-- **平等對待**：各族群文化獲得同等尊重與篇幅
-- **脈絡理解**：將文化現象置於其歷史與社會脈絡中
-
+title: '文章標題'
+description: '一句話描述，要有個性，不要「本文介紹 X 的 Y 與 Z」'
+date: 2026-03-20
+tags: ['標籤1', '標籤2']
+category: 'Category'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-20      # 最後事實查核日期
+lastHumanReview: true/false    # 是否經過人工審閱
 ---
-
-## 引用與來源標注 | Citations and Source Attribution
-
-### 鐵律 | Core Rule
-
-**每篇文章都必須標注引用來源。沒有來源的事實陳述 = 不可信的內容。**
-
-Every article MUST include source citations. Factual claims without sources are not trustworthy.
-
-### 來源標注格式 | Citation Format
-
-每篇文章末尾必須包含 `## 參考資料` 段落：
-
-```markdown
-## 參考資料
-
-- [來源名稱](https://url) — 簡要說明
-- [官方統計數據](https://url) — 機構名稱，年份
-- [學術論文/書籍] — 作者，出版年份
 ```
 
-### 來源優先序 | Source Priority
+### 30 秒概覽（必要）
 
-1. 🔴 **官方/政府資料**（行政院、各部會統計）
-2. 🔴 **學術研究**（期刊論文、大學出版）
-3. 🟡 **權威媒體**（報導者、BBC、Reuters、台灣光華雜誌）
-4. 🟡 **專業機構**（中研院、國家文化記憶庫）
-5. 🟢 **其他可靠來源**（書籍、紀錄片、口述歷史）
+文章開頭必須有一段 blockquote 格式的概覽：
 
-### 數據標注 | Data Attribution
+```markdown
+> **30 秒概覽：** 一段 2-4 句話，讓讀者在 30 秒內知道這篇在講什麼、
+> 為什麼重要、最關鍵的 1-2 個數據或事實。
+> 語氣要像跟朋友說話，不是在寫公文。
+```
 
-涉及具體數字（人口、GDP、市佔率等）時，必須標注：
+### 正文架構
 
-- 資料來源機構
-- 資料年份
-- 原始連結（如有）
+推薦的敘事結構（不是死規定，根據主題調整）：
 
-範例：`台灣便利商店密度全球第二（經濟部統計處，2025）`
+1. **起源/背景** — 這件事怎麼開始的？為什麼會發生在台灣？
+2. **關鍵轉折** — 最重要的 2-3 個轉捩點，每個都要有年份和具體事件
+3. **現況** — 今天的數據、規模、國際地位
+4. **挑戰/爭議** — 誠實面對問題，不要只寫好的
+5. **展望/意義** — 這件事對台灣/世界的意義是什麼
 
-### AI 生成內容 | AI-Generated Content
+### 參考資料（必要）
 
-- AI 輔助撰寫的文章同樣需要事實查核與來源標注
-- 不得以 AI 生成內容作為「來源」本身
-- 貢獻者有責任驗證 AI 產出的事實正確性
-
----
-
-## 品質保證 | Quality Assurance
-
-### 定期審查 | Regular Review
-
-- **內容更新**：定期檢查並更新過時資訊
-- **來源有效性**：確認連結與引用來源仍然有效
-- **觀點平衡**：檢視是否維持多元觀點平衡
-
-### 社群監督 | Community Oversight
-
-- **開放討論**：鼓勵社群成員指出問題
-- **透明機制**：所有編輯決定都有公開討論過程
-- **申訴管道**：提供內容爭議的申訴與討論機制
+文章結尾必須有 `## 參考資料` 段落，列出所有引用來源。
+格式：`- [來源名稱](URL)`
 
 ---
 
-## 最終決定權 | Final Authority
+## 四、語氣與風格
 
-**專案維護者 (Project Maintainer) 保留最終決定權**，包括：
+### ✅ 要的
 
-- 內容收錄與否的最終判斷
-- 爭議內容的處理方式
-- 編輯方針的修訂與更新
-- 貢獻者行為規範的執行
+- **具體**：「1995 年 3 月 1 日開辦」而非「後來開辦了」
+- **有人的溫度**：「當時的衛生署長全民健保推動小組⋯⋯」
+- **講故事**：「1998 年的金融風暴差點讓這家公司倒閉，但⋯⋯」
+- **敢寫爭議**：「這個政策至今仍有爭議，批評者認為⋯⋯」
+- **讓讀者驚訝**：找到那個「欸，原來是這樣！」的角度
 
-但所有決定都會：
+### ❌ 不要的
 
-- 基於本編輯方針進行
-- 經過透明的討論過程
-- 歡迎社群監督與建議
+- **空洞修飾詞**：~~蓬勃發展~~、~~日益重要~~、~~豐富多元~~、~~積極推動~~、~~顯著成長~~
+- **Bullet list 灌水**：連續 4 行以上的 `- **X**：Y` 格式 = 偷懶
+- **沒有故事的資訊堆疊**：如果拿掉所有 bullet，文章還剩什麼？
+- **假裝有數據**：不確定的數字不要寫，寧可留白
+- **國營企業作文**：~~在國家政策的大力支持下，產業穩步發展~~
+- **機器翻譯感**：~~這對台灣的經濟發展具有重要意義~~
 
----
+### 🚫 塑膠句式黑名單（來自社群回饋 [Issue #50](https://github.com/frank890417/taiwan-md/issues/50)）
 
-# Editorial Guidelines (English Version)
+以下句式是 AI 最愛生成的「塑膠味」，**寫作時全面禁用**：
 
-_Content governance and editorial principles for Taiwan.md_
+**句式類：**
+- ~~不是 X，而是 Y~~
+- ~~不僅 X，更是 Y~~
+- ~~不只是 X，也是 Y~~
+- ~~值得一提的是~~、~~令人驚嘆的是~~
+- ~~事實上~~、~~毫無疑問~~
+- ~~展現了⋯⋯的精神~~、~~體現了⋯⋯的價值~~
 
----
+**結構類：**
+- 過度使用排比句（三個以上並列 = 塑膠）
+- 每段開頭都用轉折詞（然而、不過、值得注意的是）
+- 結尾固定公式（~~讓我們期待⋯⋯的未來~~、~~將繼續在⋯⋯發光發熱~~）
 
-## Mission Statement
+**自我檢測：** 把文章念出來，如果聽起來像新聞稿或畢業致詞 = 塑膠。
+**正確語氣：** 像跟朋友說話，不像寫論文。「阿媽會怎麼說這件事」> 「學術論文怎麼寫」。
 
-### Fundamental Position
+### 語氣校準
 
-Taiwan.md is based on the **current governance reality of the "Republic of China (Taiwan)"**, documenting and presenting Taiwan's diverse aspects. We are:
-
-- **Non-partisan**: Not representing any specific political party or stance
-- **Fact-based**: Grounded in verifiable factual information
-- **Inclusive**: Presenting diverse viewpoints and cultural perspectives
-- **Present-focused**: Based on Taiwan's current governance reality
-
-### Core Values
-
-1. **Authenticity**: Content must be supported by reliable sources
-2. **Balance**: Present multiple perspectives, avoid single viewpoints
-3. **Inclusivity**: Respect Taiwan's diverse ethnic groups and cultures
-4. **Educational**: Promote understanding rather than propaganda or incitement
-
----
-
-## Content Standards
-
-### ✅ What We Include
-
-1. **Factual information with reliable sources**
-   - Academic research findings
-   - Official statistical data
-   - Authoritative media reports
-   - Peer-reviewed materials
-
-2. **Diverse cultural perspectives**
-   - Indigenous cultures and viewpoints
-   - Han immigrant cultural development
-   - New immigrant and international cultural influences
-   - Local community experiences
-
-3. **Local living experiences**
-   - Taiwanese daily life practices
-   - Regional characteristics and differences
-   - Social changes and historical memories
-   - Cultural practices and innovations
-
-### ❌ What We Exclude
-
-1. **Political propaganda**
-   - One-sided political discourse
-   - Election-related promotional materials
-   - Political claims lacking factual basis
-
-2. **Unverified claims**
-   - Statements lacking reliable sources
-   - Personal opinions not marked as subjective
-   - Rumors or unconfirmed information
-
-3. **Hate speech**
-   - Discriminatory content against specific groups
-   - Speech inciting opposition or hatred
-   - Inappropriate stereotype reinforcement
-
-### Handling Controversial Content
-
-- **Multiple sources**: Must provide reliable sources from different positions
-- **Neutral language**: Use objective, emotion-free descriptions
-- **Contextual explanation**: Provide sufficient historical and social background
-- **Controversy marking**: Clearly label controversial nature of content
+想像你在跟一個聰明但不熟悉台灣的外國朋友解釋。
+他不需要你用大詞，他需要你說清楚。
+他會問「真的嗎？」「那後來呢？」——你的文章要經得起這些追問。
 
 ---
 
-## Pull Request Review Guidelines
+## 五、特定類型文章的注意事項
 
-### Content Review Standards
+### 企業介紹
 
-1. **Factual Accuracy**
-   - All factual statements must include verifiable sources
-   - Referenced materials must be authoritative and credible
-   - Statistical data must specify sources and timeframes
+- **不要寫成公司簡介/年報摘要**。找到那個讓這家公司有趣的故事
+- 必須包含：創立年份、創辦人、產業定位、關鍵轉折、全球地位
+- 數據來源：公司年報、公開資訊觀測站、財報狗、產業報告
+- **避免**：吹捧語氣、羅列全部產品線、沒有故事的組織架構
 
-2. **Neutral Tone**
-   - Use objective, descriptive language
-   - Avoid subjective judgment or evaluative terms
-   - Present facts without value judgments
+### 人物介紹
 
-3. **Format Compliance**
-   - Follow three-layer depth structure: overview → understanding → depth
-   - Adhere to Markdown format standards
-   - Complete Chinese-English bilingual correspondence
+- **開頭不要寫「XXX 是台灣著名的 OOO」**。用一個場景、一句話、一個關鍵時刻開場
+- 找到一個**讓這個人不可取代的瞬間**（破紀錄的比賽、轉捩點的決定、爭議的立場）
+- 寫人不是寫履歷：生平大事 3-5 個就夠，重點是**為什麼他對台灣重要**
+- 運動員：必須有**具體比賽成績**（年份、賽事名、成績/名次），不要只說「表現優異」
+- 文化人：至少提及 2-3 個**具體作品名**和它為什麼重要
+- 政治人物/學者：**多面觀點**，不只寫成就，也要寫爭議（如有）
+- **避免**：堆砌獎項清單、「為台灣爭光」「台灣之光」等空洞頌詞
 
-4. **Source Attribution**
-   - Every fact has clear sources
-   - Source links are valid and accessible
-   - Unified citation format standards
+### 歷史類
 
-### Review Process
+- **不要從盤古開天講起**。找到最關鍵的切入點
+- 年份必須精確到年，重要事件精確到月日
+- 不同立場的觀點都要呈現（尤其是政治敏感議題）
+- 來源：國史館、台灣歷史博物館、中研院台史所、維基百科（作為索引）
 
-1. **Initial check**: Format, grammar, basic fact verification
-2. **Content review**: In-depth fact-checking, viewpoint balance
-3. **Community discussion**: Open for community member participation
-4. **Final decision**: Final decision by maintainers
+### 地理/自然
 
-### Contributor Guidance
+- 地名必須附上行政區位置
+- 地理數據（面積、海拔、長度等）需標明來源
+- 避免「美不勝收」「令人嘆為觀止」等空洞形容
 
-- **Newcomer-friendly**: Provide constructive modification suggestions
-- **Educational-oriented**: Explain why modifications are needed
-- **Collaborative spirit**: Encourage continuous improvement over one-time perfection
+### 飲食/文化
 
----
+- 在地人的視角 > 觀光客的視角
+- 食物要寫出做法和背後的文化脈絡，不只是「好吃」
+- 附上官方觀光資源或文化部相關連結
 
-## Final Authority
+### 科技/產業
 
-**Project maintainers reserve final decision authority**, including:
-
-- Final judgment on content inclusion
-- Handling methods for controversial content
-- Editorial policy revisions and updates
-- Enforcement of contributor behavior guidelines
-
-However, all decisions will:
-
-- Be based on these editorial guidelines
-- Go through transparent discussion processes
-- Welcome community oversight and suggestions
+- 用**具體案例**說話，不要寫空泛的產業趨勢
+- 必須有**數字**：市佔率、產值、全球排名——但每個數字都要有來源
+- 寫清楚**台灣在全球供應鏈的位置**（為什麼台灣做這件事很重要）
+- **避免**：「在 AI 浪潮下，台灣積極布局⋯⋯」這種 AI 最愛生成的廢話
 
 ---
 
-_This document is subject to community discussion and periodic updates to ensure it serves the project's mission of providing accurate, balanced, and comprehensive information about Taiwan._
+## 五之二、Before/After 範例
+
+**學會語氣最快的方式：看反面教材。**
+
+### ❌ 壞（典型 AI 空洞模板）
+
+```
+戴資穎是台灣著名的羽球運動員，在國際賽場上表現優異，
+多次獲得重要獎項，為台灣爭光。她的成功激勵了無數年輕人，
+成為台灣體壇的重要人物。
+
+- **主要成就**：多次世界排名第一
+- **比賽風格**：靈活多變，技術全面
+- **國際影響力**：提升台灣羽球在國際上的知名度
+- **社會貢獻**：積極參與公益活動，回饋社會
+```
+
+### ✅ 好（有故事、有數據、有人味）
+
+```
+2018 年，戴資穎站上世界排名第一，而且一站就是 214 週——
+這個紀錄是女子羽壇史上最長的連續週數。
+
+但她最被台灣人記住的，可能不是任何一場勝利，而是 2020 東京奧運
+那場輸給陳雨菲的金牌戰。賽後她在鏡頭前哭了，整個台灣跟著心碎。
+那一晚，「戴資穎」登上 Google 台灣搜尋量第一。
+
+她用左手持拍，打法被形容為「魔術師」——假動作多到對手完全猜不到
+下一拍的方向。日本媒體稱她為「天才少女」，但天才的背後是從 6 歲
+開始每天 6 小時的訓練。
+```
+
+**差在哪？**
+- ❌ 版本：沒有一個具體年份、沒有一場具體比賽、四個 bullet 全是廢話
+- ✅ 版本：214 週紀錄、2020 奧運金牌戰、陳雨菲、6 歲開始、左手持拍——全是可查證的事實，而且有畫面感
+
+---
+
+## 六、品質檢查清單（發布前必做）
+
+```
+[ ] 文章回答了開頭定義的 3 個問題嗎？
+[ ] 30 秒概覽能讓人在 30 秒內理解主題嗎？
+[ ] 每個重要數據都標註了來源機構和年份嗎？
+[ ] 至少有 3 個以上可點擊的參考資料連結嗎？
+[ ] 連續 bullet list 沒有超過 4 行嗎？
+[ ] 刪掉所有 bullet 後，文章還有完整的敘事嗎？
+[ ] 沒有使用空洞修飾詞（蓬勃/日益/積極/顯著）嗎？
+[ ] 文章有提到挑戰、爭議或限制嗎？（不是只寫好的）
+[ ] lastHumanReview 設定正確嗎？
+[ ] 跑過 detect-ai-hollow.sh 分數 ≤ 3 嗎？
+```
+
+---
+
+## 七、AI 協作注意事項
+
+Taiwan.md 大量使用 AI 輔助寫作，但 AI 是工具，不是作者。
+
+### AI 擅長的
+- 整理研究資料、交叉比對來源
+- 根據事實資料撰寫初稿
+- 翻譯（中英文同步）
+- 格式化和結構調整
+
+### AI 容易出錯的（必須人工驗證）
+- **具體數據**（產值、人口、排名等）— AI 經常捏造
+- **公司/人名**（尤其是台灣中小企業）— AI 經常編造不存在的公司
+- **獲獎紀錄**（尤其是具體獎項名稱和年份）— AI 經常張冠李戴
+- **歷史事件的因果關係** — AI 傾向過度簡化
+- **語氣** — AI 預設的「空洞正面」語氣需要人工校正
+
+### detect-ai-hollow.sh 偵測指標
+
+腳本位於 `tools/detect-ai-hollow.sh`，7 個偵測指標：
+1. Bullet 密度 >30%
+2. 具體年份 <2 個
+3. 無 URL 來源
+4. 空洞修飾詞密度
+5. 散文段落 <5 行
+6. lastHumanReview: false
+7. 連續相同格式 bullet ≥4 行
+
+**目標：所有文章分數 ≤ 3（通過）**
+
+---
+
+---
+
+## 八、用語規範
+
+詳見 **[TERMINOLOGY.md](./TERMINOLOGY.md)**。重點摘要：
+
+- 使用「台灣」，不用「台灣地區」「寶島」「本島」
+- 文學性的「這座島嶼」在地理/自然語境 OK
+- 使用「台語」而非「閩南語」（依《國家語言發展法》）
+- 使用「阿媽」而非「阿嬤」（台文正字）
+- 國際關係/治理語境可使用「國家」
+
+---
+
+*這份文件本身也會持續演化。發現新的品質問題就更新這裡。*
+*最後更新：2026-03-21*

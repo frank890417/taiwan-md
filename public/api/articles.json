@@ -80,6 +80,23 @@
     "path": "Society/人權與性別平等.md"
   },
   {
+    "title": "中鋼：鐵頭部長與十大建設的鋼鐵傳奇",
+    "description": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "鋼鐵業",
+      "十大建設",
+      "重工業"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E4%B8%AD%E9%8B%BC",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：中鋼.md"
+  },
+  {
     "title": "五月天",
     "description": "從師大附中走向世界舞台，定義華語搖滾精神的永遠少年",
     "category": "People",
@@ -231,6 +248,24 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "Technology/半導體產業.md"
+  },
+  {
+    "title": "台泥：台灣第一上市公司的綠色轉型傳奇",
+    "description": "1962年台灣證交所為它而生，股票代號1101象徵台股起源。從辜家三代經營76年，台泥用一座座水泥窯見證台灣建設奇蹟，如今轉型綠色企業迎戰碳中和時代",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "水泥業",
+      "建材",
+      "國營民營化",
+      "綠色轉型"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E6%B3%A5",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：台泥.md"
   },
   {
     "title": "台海危機與兩岸關係發展",
@@ -425,6 +460,22 @@
     "path": "Food/台灣手搖飲文化.md"
   },
   {
+    "title": "台灣手路菜：正在消失的味覺記憶",
+    "description": "從嘉義薄荷雞到菜尾湯，阿嬤的拿手好菜承載著家族記憶，卻正在時代變遷中慢慢失傳",
+    "category": "Food",
+    "tags": [
+      "台灣美食",
+      "傳統料理",
+      "家族記憶",
+      "手路菜"
+    ],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%89%8B%E8%B7%AF%E8%8F%9C",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Food/台灣手路菜.md"
+  },
+  {
     "title": "台灣文化創意園區發展",
     "description": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
     "category": "Culture",
@@ -475,6 +526,24 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "Food/台灣水果王國.md"
+  },
+  {
+    "title": "台灣水果王國",
+    "description": "2021年愛文芒果飆破每台斤百元，背後是果農與天災、市場、政治的三重搏鬥",
+    "category": "台灣水果王國.md",
+    "tags": [
+      "水果",
+      "芒果",
+      "荔枝",
+      "釋迦",
+      "農業",
+      "外銷"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E6%B0%B4%E6%9E%9C%E7%8E%8B%E5%9C%8B",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "台灣水果王國.md"
   },
   {
     "title": "台灣水庫與水資源管理",
@@ -675,6 +744,54 @@
     "path": "Geography/台灣交通運輸網絡.md"
   },
   {
+    "title": "台灣企業：玉山金控",
+    "description": "從信用卡專業銀行到數位金融先鋒，43歲最年輕金控總經理的突破故事",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "數位轉型"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%8E%89%E5%B1%B1%E9%87%91%E6%8E%A7",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：玉山金控.md"
+  },
+  {
+    "title": "台灣企業：長春石化",
+    "description": "1949年台南小工廠到全球化工巨頭，「不上市不借錢」的隱形冠軍故事",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "石化業",
+      "化工"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%95%B7%E6%98%A5%E7%9F%B3%E5%8C%96",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：長春石化.md"
+  },
+  {
+    "title": "台灣企業：瑞昱半導體",
+    "description": "七個工程師200萬創業，讓小螃蟹爬進全世界每台電腦的傳奇故事",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "IC設計"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E7%91%9E%E6%98%B1%E5%8D%8A%E5%B0%8E%E9%AB%94",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：瑞昱半導體.md"
+  },
+  {
     "title": "台灣冰品文化",
     "description": "從玉井芒果冰到雪花冰革命，探索台灣人冬天也要吃冰的獨特文化",
     "category": "Food",
@@ -798,19 +915,19 @@
   },
   {
     "title": "台灣老街文化與商業街區",
-    "description": "從迪化街到九份老街，台灣傳統商業街區的歷史變遷與文化保存",
+    "description": "從清代港口繁華到日治巴洛克洋樓，台灣老街是一部用磚瓦寫成的庶民史",
     "category": "Culture",
     "tags": [
       "老街",
-      "傳統商業",
       "歷史街區",
       "文化保存",
-      "觀光發展"
+      "觀光",
+      "建築"
     ],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%80%81%E8%A1%97%E6%96%87%E5%8C%96%E8%88%87%E5%95%86%E6%A5%AD%E8%A1%97%E5%8D%80",
-    "readingTime": 17,
+    "readingTime": 21,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "path": "Culture/台灣老街文化與商業街區.md"
   },
   {
@@ -879,6 +996,22 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "Society/台灣邦交國與國際外交.md"
+  },
+  {
+    "title": "台灣乖乖文化：綠色零食如何成為科技業守護神",
+    "description": "從研究生的電腦到台積電機台，為什麼台灣人相信綠色乖乖能讓機器乖乖運作？",
+    "category": "Culture",
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "科技業",
+      "都市傳說"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E4%B9%96%E4%B9%96%E6%96%87%E5%8C%96",
+    "readingTime": 7,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Culture/台灣乖乖文化.md"
   },
   {
     "title": "台灣咖啡文化",
@@ -1463,6 +1596,23 @@
     "path": "Geography/台灣海岸地形與海洋地景.md"
   },
   {
+    "title": "台灣海岸地形與海洋地景",
+    "description": "野柳女王頭的脖子正以每年0.2公分的速度變細，總有一天會斷裂——這正是台灣海岸地形的宿命與美麗",
+    "category": "台灣海岸地形與海洋地景.md",
+    "tags": [
+      "海岸地形",
+      "地質",
+      "清水斷崖",
+      "野柳",
+      "板塊構造"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
+    "readingTime": 10,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "台灣海岸地形與海洋地景.md"
+  },
+  {
     "title": "台灣海洋生態",
     "description": "黑潮、珊瑚礁與海洋生物多樣性：台灣海域的生態奇蹟與保育挑戰",
     "category": "Nature",
@@ -1611,6 +1761,23 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "Culture/台灣茶道與生活美學.md"
+  },
+  {
+    "title": "台灣茶道與生活美學",
+    "description": "1981年紫藤廬開幕那晚，黨外人士與文人雅集品茗，這裡不只是茶館，更是反對運動的秘密基地",
+    "category": "台灣茶道與生活美學.md",
+    "tags": [
+      "茶文化",
+      "茶道",
+      "生活美學",
+      "紫藤廬",
+      "茶藝館"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
+    "readingTime": 13,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "台灣茶道與生活美學.md"
   },
   {
     "title": "台灣高山生態系與冰河孑遺",
@@ -2477,19 +2644,19 @@
   },
   {
     "title": "台灣數位影像與動畫產業",
-    "description": "從傳統影視後製到國際動畫代工，台灣數位影像產業的發展軌跡與技術能量",
+    "description": "從全球最大動畫代工王國到原創內容新勢力，台灣數位影像產業半世紀的蛻變之路",
     "category": "Technology",
     "tags": [
       "數位影像",
       "動畫",
-      "後製技術",
+      "視覺特效",
       "文創產業",
       "影視工業"
     ],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E6%95%B8%E4%BD%8D%E5%BD%B1%E5%83%8F%E8%88%87%E5%8B%95%E7%95%AB%E7%94%A2%E6%A5%AD",
-    "readingTime": 11,
+    "readingTime": 14,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-20",
     "path": "Technology/台灣數位影像與動畫產業.md"
   },
   {
@@ -2545,6 +2712,22 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "Music/台灣獨立音樂場景演變.md"
+  },
+  {
+    "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
+    "description": "從醫院沒有四樓到車牌8888天價標售，台灣人對諧音的敏感程度堪稱世界之最",
+    "category": "Culture",
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "諧音文化",
+      "數字禁忌"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%AB%A7%E9%9F%B3%E7%A6%81%E5%BF%8C%E6%96%87%E5%8C%96",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Culture/台灣諧音禁忌文化.md"
   },
   {
     "title": "台灣辦桌文化",
@@ -2641,6 +2824,23 @@
     "path": "Lifestyle/台灣醫療與全民健保.md"
   },
   {
+    "title": "台灣醫療與全民健保",
+    "description": "1995年3月1日開辦當天，健保就讓原本看不起病的400萬人有了醫療保障——但29年後，這個奇蹟正面臨財務懸崖",
+    "category": "台灣醫療與全民健保.md",
+    "tags": [
+      "全民健保",
+      "醫療制度",
+      "健保卡",
+      "醫療",
+      "社會保險"
+    ],
+    "url": "https://taiwan.md/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "台灣醫療與全民健保.md"
+  },
+  {
     "title": "台灣醬料與調味",
     "description": "醬油膏、沙茶醬、甜辣醬、豆瓣醬等台灣特色調味料，構成了島嶼獨特風味的基底，反映多元文化融合的調味哲學",
     "category": "Food",
@@ -2659,13 +2859,18 @@
   },
   {
     "title": "台灣騎樓文化與街景",
-    "description": "從殖民遺產到都市更新的拉扯，騎樓建築承載的攤販經濟與機車文化的台灣街景",
+    "description": "遮風避雨的生活廊道，機車、攤販與人情味交織的台灣街頭記憶",
     "category": "Lifestyle",
-    "tags": [],
+    "tags": [
+      "Lifestyle",
+      "騎樓",
+      "街景",
+      "都市文化"
+    ],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E9%A8%8E%E6%A8%93%E6%96%87%E5%8C%96%E8%88%87%E8%A1%97%E6%99%AF",
-    "readingTime": 25,
-    "featured": true,
-    "date": "2026-03-18",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-20",
     "path": "Lifestyle/台灣騎樓文化與街景.md"
   },
   {
@@ -2811,6 +3016,21 @@
     "path": "History/民主化.md"
   },
   {
+    "title": "民主化",
+    "description": "1979年12月10日高雄街頭的警民衝突，最終催生了台灣的民主轉型——但代價是多少人的青春與自由？",
+    "category": "民主化.md",
+    "tags": [
+      "歷史",
+      "民主化",
+      "政治"
+    ],
+    "url": "https://taiwan.md/%E6%B0%91%E4%B8%BB%E5%8C%96",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "民主化.md"
+  },
+  {
     "title": "民主制度",
     "description": "台灣從威權統治走向民主制度的歷程，透過解嚴、總統直選等階段建立完整的民主體制",
     "category": "Society",
@@ -2879,6 +3099,23 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/伍佰.md"
+  },
+  {
+    "title": "兆豐金控：從日治官銀到台商全球金融夥伴",
+    "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網絡，成為台商走向世界的重要推手",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "公營銀行",
+      "國際金融"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%85%86%E8%B1%90%E9%87%91%E6%8E%A7",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：兆豐金控.md"
   },
   {
     "title": "地形與地質",
@@ -3076,6 +3313,24 @@
     "path": "People/吳哲宇.md"
   },
   {
+    "title": "吳寶春",
+    "description": "世界麵包大賽冠軍，以荔枝玫瑰麵包驚艷國際，從屏東鄉下到世界頂尖烘焙職人",
+    "category": "People",
+    "tags": [
+      "餐飲",
+      "烘焙",
+      "職人精神",
+      "世界冠軍",
+      "屏東",
+      "麵包"
+    ],
+    "url": "https://taiwan.md/People/%E5%90%B3%E5%AF%B6%E6%98%A5",
+    "readingTime": 4,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "People/吳寶春.md"
+  },
+  {
     "title": "呂秀蓮",
     "description": "台灣女權運動先驅，華人世界首位女性副總統",
     "category": "People",
@@ -3091,6 +3346,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/呂秀蓮.md"
+  },
+  {
+    "title": "呂冠緯",
+    "description": "均一教育平台創辦人，台灣版可汗學院，致力以科技消弭城鄉教育落差",
+    "category": "People",
+    "tags": [
+      "教育",
+      "均一教育平台",
+      "線上學習",
+      "教育科技",
+      "社會企業",
+      "偏鄉教育"
+    ],
+    "url": "https://taiwan.md/People/%E5%91%82%E5%86%A0%E7%B7%AF",
+    "readingTime": 4,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "People/呂冠緯.md"
   },
   {
     "title": "戒嚴時期",
@@ -3340,6 +3613,23 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "Lifestyle/夜生活與KTV文化.md"
+  },
+  {
+    "title": "奇美實業：許文龍的壓克力王國與博物館夢想",
+    "description": "從1960年台南仁德小工廠起步，許文龍用一生打造亞洲最大ABS材料王國，更創建奇美博物館回饋社會。證明台灣企業可以兼顧商業成功與人文關懷",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "化學工業",
+      "高分子材料",
+      "台南企業"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%A5%87%E7%BE%8E%E5%AF%A6%E6%A5%AD",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：奇美實業.md"
   },
   {
     "title": "宗教與民間信仰",
@@ -4695,6 +4985,24 @@
     "path": "People/黃春明.md"
   },
   {
+    "title": "黃國珍",
+    "description": "品學堂創辦人，推動台灣閱讀素養教育，致力改變「會考試但不會思考」的教育困境",
+    "category": "People",
+    "tags": [
+      "教育",
+      "閱讀素養",
+      "品學堂",
+      "閱讀理解",
+      "教育創新",
+      "素養教育"
+    ],
+    "url": "https://taiwan.md/People/%E9%BB%83%E5%9C%8B%E7%8F%8D",
+    "readingTime": 3,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "People/黃國珍.md"
+  },
+  {
     "title": "黃震南：藏書界竹野內豐與台灣文史的活水源頭",
     "description": "黃震南是台灣文史工作者、藏書家與作家，以PTT暱稱Sizumaru起家，經營「活水來冊房」專頁分享台灣歷史與舊書文化。著有《台灣史上最有梗的台灣史》等書，被譽為藏書界的竹野內豐。他從嘉義六腳書香家庭出發，父子南北分工蒐集文獻，致力讓嚴肅台灣史變得有趣親民。",
     "category": "People",
@@ -4727,6 +5035,23 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "Culture/傳統節慶與慶典.md"
+  },
+  {
+    "title": "媽祖與大道公的愛情傳說：台灣最浪漫的氣象預報",
+    "description": "「媽祖婆雨、大道公風」不只是氣象諺語，背後藏著一段神明間的愛恨情仇",
+    "category": "Culture",
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "媽祖",
+      "保生大帝",
+      "氣象諺語"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%AA%BD%E7%A5%96%E8%88%87%E5%A4%A7%E9%81%93%E5%85%AC%E7%9A%84%E5%82%B3%E8%AA%AA",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "Culture/媽祖與大道公的傳說.md"
   },
   {
     "title": "新創生態系",
@@ -4914,6 +5239,24 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "Economy/經濟奇蹟.md"
+  },
+  {
+    "title": "葉丙成",
+    "description": "台大電機系教授、翻轉教育推手，開發 PaGamO 遊戲化學習平台，將台灣教育創新帶上國際舞台",
+    "category": "People",
+    "tags": [
+      "教育",
+      "翻轉教育",
+      "PaGamO",
+      "遊戲化學習",
+      "台大",
+      "教育創新"
+    ],
+    "url": "https://taiwan.md/People/%E8%91%89%E4%B8%99%E6%88%90",
+    "readingTime": 4,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "People/葉丙成.md"
   },
   {
     "title": "葉國一",
@@ -5613,19 +5956,18 @@
   },
   {
     "title": "AI人工智慧產業",
-    "description": "台灣AI產業發展現況，從半導體優勢到應用場景，探討科技島國的智慧轉型之路",
+    "description": "從製造NVIDIA晶片到打造AI生態系，台灣如何在AI時代找到自己的定位",
     "category": "Technology",
     "tags": [
+      "Technology",
       "AI",
       "人工智慧",
-      "科技產業",
-      "數位轉型",
-      "半導體"
+      "科技產業"
     ],
     "url": "https://taiwan.md/Technology/AI%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%94%A2%E6%A5%AD",
-    "readingTime": 9,
-    "featured": true,
-    "date": "2026-03-18",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-03-20",
     "path": "Technology/AI人工智慧產業.md"
   },
   {
@@ -6608,6 +6950,24 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/hsu-shu-ching-olympic-weightlifting-champion.md"
+  },
+  {
+    "title": "HTC：從Android開路先鋒到VR轉型之路",
+    "description": "1997年王雪紅創立，製造全球第一支Android手機，2011年股價飆破千元超越諾基亞。智慧手機市場失利後，2015年轉戰VR領域，以VIVE重新定義虛擬實境產業",
+    "category": "Economy",
+    "tags": [
+      "Economy",
+      "企業",
+      "科技業",
+      "VR",
+      "智慧手機",
+      "創新"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AE%8F%E9%81%94%E9%9B%BB",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "Economy/台灣企業：宏達電.md"
   },
   {
     "title": "Huang Chun-ming: Master of Taiwanese Literary Humanism",
@@ -7971,6 +8331,40 @@
     "path": "en/Art/contemporary-art.md"
   },
   {
+    "title": "Taiwan Digital Imaging and Animation Industry",
+    "description": "From the world's largest animation outsourcing kingdom to a rising force in original content, Taiwan's half-century journey in digital imaging",
+    "category": "en",
+    "tags": [
+      "digital imaging",
+      "animation",
+      "visual effects",
+      "creative industries",
+      "film industry"
+    ],
+    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-and-animation-industry",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Technology/taiwan-digital-imaging-and-animation-industry.md"
+  },
+  {
+    "title": "Taiwan Digital Imaging and Animation Industry",
+    "description": "From the world's largest animation outsourcing kingdom to a rising force in original content, Taiwan's half-century journey in digital imaging",
+    "category": "en",
+    "tags": [
+      "digital imaging",
+      "animation",
+      "visual effects",
+      "creative industries",
+      "film industry"
+    ],
+    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-animation-industry",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Technology/taiwan-digital-imaging-animation-industry.md"
+  },
+  {
     "title": "Taiwan Electric Vehicle Industry Chain Development",
     "description": "From battery technology to charging infrastructure, exploring Taiwan's complete EV ecosystem and 2030 net-zero transition strategy",
     "category": "en",
@@ -8685,28 +9079,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Technology/taiwan-cybersecurity-industry-development.md"
-  },
-  {
-    "title": "Taiwan's Digital Imaging and Animation Industry",
-    "description": "From traditional post-production to international animation outsourcing: Taiwan's digital imaging industry development trajectory and technical capabilities",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-and-animation-industry",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Technology/taiwan-digital-imaging-and-animation-industry.md"
-  },
-  {
-    "title": "Taiwan's Digital Imaging and Animation Industry",
-    "description": "From traditional film post-production to international animation outsourcing, the development trajectory and technical capabilities of Taiwan's digital imaging industry",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-animation-industry",
-    "readingTime": 40,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Technology/taiwan-digital-imaging-animation-industry.md"
   },
   {
     "title": "Taiwan’s Diplomatic Allies and International Relations",

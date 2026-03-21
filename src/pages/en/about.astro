@@ -1,31 +1,96 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import ProticoScript from '../../components/ProticoScript.astro';
 ---
 
 <Layout
   title="About Taiwan.md"
   description="The origin story of Taiwan.md, founder introduction, and contact information"
-  lang="en"
 >
   <div class="about-page">
-    <!-- Section 1: Origin Story -->
-    <section class="origin-section">
+    <!-- Section 1: Why Taiwan.md? -->
+    <section class="naming-section">
       <div class="section-inner">
-        <h1 class="section-title">The Birth of Taiwan.md</h1>
+        <h1 class="section-title">Why Taiwan.md?</h1>
         <p class="section-subtitle">
-          From a spark of inspiration on a Taipei street walk, to a curated
-          gateway for the world to discover Taiwan
+          A perfect coincidence from technical format to cultural symbol
         </p>
 
-        <div class="origin-intro">
-          <blockquote class="origin-quote">
-            "Creating combinations as refreshing as poetry, and collecting
-            moments to transform into eternity"
-          </blockquote>
-          <p class="quote-context">
-            — March 11, 2026, notes from a Taipei street walk
+        <div class="naming-grid">
+          <div class="naming-card">
+            <div class="naming-icon">📝</div>
+            <h4>Technical Level</h4>
+            <p>
+              <code>.md</code> = Markdown, the most universal document format in the programming world. 
+              Using the most AI-friendly format to let the world know Taiwan.
+            </p>
+          </div>
+          <div class="naming-card">
+            <div class="naming-icon">🌍</div>
+            <h4>Symbolic Level</h4>
+            <p>
+              <code>.md</code> happens to be Moldova's country-code top-level domain. 
+              Taiwan + Markdown = connecting the world through open-source spirit.
+            </p>
+          </div>
+          <div class="naming-card">
+            <div class="naming-icon">✨</div>
+            <h4>A Lucky Coincidence</h4>
+            <p>
+              Surprisingly, no one had claimed the taiwan.md domain yet. 
+              Perhaps the universe was telling us it was time to make this happen.
+            </p>
+          </div>
+        </div>
+
+        <div class="project-stats">
+          <div class="stat-item">
+            <span class="stat-number">660+</span>
+            <span class="stat-label">Pages</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">106</span>
+            <span class="stat-label">Countries</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">600+</span>
+            <span class="stat-label">GitHub Stars</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">23+</span>
+            <span class="stat-label">Contributors</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-number">60K+</span>
+            <span class="stat-label">Users</span>
+          </div>
+        </div>
+
+        <!-- Vision -->
+        <div class="vision-block">
+          <p>Taiwan.md is more than a website. It's a letter to the world.</p>
+          <p>
+            We believe that with an open-source spirit, a curator's eye, and 
+            AI-friendly formats, we can provide the most comprehensive and 
+            heartfelt answer for anyone who wants to know Taiwan — whether human or AI.
+          </p>
+          <p class="vision-emphasis">
+            This is not a travel guide, not political propaganda, not a commercial advertisement.<br />
+            This is Taiwan's digital anthropology museum, a living fossil of culture, 
+            a record of history in the making.
           </p>
         </div>
+      </div>
+    </section>
+
+    <!-- Section 2: The Birth of Taiwan.md -->
+    <section class="origin-section">
+      <div class="section-inner">
+        <h2 class="section-title">The Birth of Taiwan.md</h2>
+        <p class="section-subtitle">
+          From a spark of inspiration on a street walk, to a curated 
+          gateway for the world to discover Taiwan
+        </p>
 
         <!-- Timeline -->
         <div class="timeline">
@@ -35,12 +100,11 @@ import Layout from '../../layouts/Layout.astro';
             <div class="timeline-content">
               <h3>"What is Taiwan like?"</h3>
               <p>
-                At international art events like the Venice Biennale, Art Basel
-                Miami, and the Paris 104 residency, Che-Yu was constantly asked
-                the same question by international friends: "Where can I learn
-                about Taiwan?" He realized there was no comprehensive portal to
-                point them to — Wikipedia was too cold, the tourism bureau too
-                shallow, and the news too fragmented.
+                At international venues like the Venice Biennale, Art Basel Miami, 
+                and the Paris 104 residency, Che-Yu was constantly asked the same question 
+                by international friends: "Where can I learn about Taiwan?" 
+                He realized there was no comprehensive portal to point them to — 
+                Wikipedia was too cold, the tourism bureau too shallow, and the news too fragmented.
               </p>
             </div>
           </div>
@@ -51,19 +115,15 @@ import Layout from '../../layouts/Layout.astro';
             <div class="timeline-content">
               <h3>The Personal SSOT Concept</h3>
               <p>
-                While building his personal knowledge system, Che-Yu proposed
-                the concept of "SSOT — Single Source of Truth": Your CV,
-                website, and social media bios all show three different versions
-                of yourself — which one is real?
+                While building his personal knowledge system, Che-Yu proposed the concept 
+                of "SSOT — Single Source of Truth": Your CV, website, and social media bios 
+                all show three different versions of yourself — which one is real?
               </p>
               <p>
-                The solution is to build a <strong
-                  >single source of truth</strong
-                >, with all platforms syncing from it. This concept resonated
-                deeply after a Generative AI meetup talk on March 11, 2026 — If
-                a person's identity needs an SSOT, <strong
-                  >what about a country?</strong
-                >
+                The solution is to establish a <strong>single source of truth</strong>, 
+                with all platforms syncing from it. This concept resonated deeply after 
+                being shared at a Generative AI Annual Conference meetup on March 11, 2026 — 
+                If a person's identity needs an SSOT, <strong>what about a country?</strong>
               </p>
             </div>
           </div>
@@ -74,17 +134,14 @@ import Layout from '../../layouts/Layout.astro';
             <div class="timeline-content">
               <h3>AI Meetup Talk: "My Code Finally Came Alive"</h3>
               <p>
-                Che-Yu shared at a Generative AI meetup his practical experience
-                with AI Agents for personal branding, knowledge graph identity
-                management, and multi-agent collaboration. The talk demonstrated
-                how the SSOT concept lets AI "excavate" your life —
-                cross-referencing to discover 25+ missing events and date
-                errors.
+                Che-Yu shared at the Generative AI Annual Conference meetup his practical 
+                experience with AI Agents automatically curating personal brands, knowledge 
+                graph identity management, and multi-agent collaboration. The talk demonstrated 
+                how the SSOT concept allows AI to help you "excavate" your own life — 
+                cross-referencing to discover 25+ missing events and date errors.
               </p>
               <p>
-                <em
-                  >"If AI can curate my identity, can it help curate Taiwan's?"</em
-                >
+                <em>"If AI can curate my identity, can it help curate Taiwan's?"</em>
               </p>
             </div>
           </div>
@@ -94,22 +151,15 @@ import Layout from '../../layouts/Layout.astro';
             <div class="timeline-date">2026 / 03 / 17</div>
             <div class="timeline-content">
               <h3>Taiwan.md Is Born</h3>
-              <p>
-                From idea to launch, it took just one day. The AI Agent team and
-                Che-Yu worked side by side:
-              </p>
+              <p>From idea to launch, it took just one day. The AI Agent team and Che-Yu worked side by side:</p>
               <ul class="timeline-list">
                 <li>
-                  Purchased the taiwan.md domain (.md = Markdown ≈ defining a
-                  country through documents)
+                  Purchased the taiwan.md domain (.md = Markdown ≈ defining a country through documents)
                 </li>
                 <li>Designed a 12-category knowledge architecture</li>
-                <li>Published 34 articles in Chinese and English</li>
+                <li>Published 34 bilingual articles in Chinese and English</li>
                 <li>Knowledge graph, curated design, AI-friendly structure</li>
-                <li>
-                  Within 1 hour of launch, GA4 detected visitors from New York
-                  🌍
-                </li>
+                <li>Within 1 hour of launch, GA4 detected visitors from New York 🌍</li>
               </ul>
             </div>
           </div>
@@ -126,14 +176,96 @@ import Layout from '../../layouts/Layout.astro';
                   target="_blank"
                   class="timeline-link"
                 >
-                  "The start of a crazy plan: taiwan.md — Open-source knowledge
-                  base about Taiwan."
+                  "The start of a crazy plan: taiwan.md — Open-source knowledge base about Taiwan."
                 </a>
-                The post went viral — within just three hours, Taiwan.md crossed <strong
+                The post triggered massive shares and attention. Within just three hours, Taiwan.md broke <strong
                   >100 stars</strong
-                > on GitHub and surpassed <strong>5,000 total page views</strong
-                >. The worldwide attention proved that this open-source
-                knowledge base is truly needed.
+                > on GitHub, and the website surpassed <strong>5,000 total visits</strong>. 
+                Attention from around the world proved that this open-source knowledge base is truly needed.
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">2026 / 03 / 18 — 22:00</div>
+            <div class="timeline-content">
+              <h3>Media Coverage: 自由時報 + INSIDE</h3>
+              <p>
+                Less than eight hours after the post, <strong>自由時報 Arts & Culture</strong> and 
+                <strong>INSIDE</strong> proactively covered Taiwan.md. 
+                From social media buzz to mainstream media attention, Taiwan.md evolved from 
+                a weekend project into a seriously discussed public issue.
+              </p>
+              <!-- Media coverage integrated into timeline -->
+              <div class="timeline-press-grid">
+                <a
+                  href="https://www.cna.com.tw/news/ait/202603195002.aspx"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">CNA 中央社</div>
+                  <h4 class="press-title">From TSMC to Breakfast Shop Aunties: Taiwan.md Knowledge Base Tells Taiwan's Story in the AI Era</h4>
+                </a>
+                <a
+                  href="https://www.inside.com.tw/article/40877-taiwan-md"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">INSIDE</div>
+                  <h4 class="press-title">Open-sourcing Taiwan! taiwan.md: In the Era of AI Answers, Let Countries Introduce Themselves with READMEs</h4>
+                </a>
+                <a
+                  href="https://abmedia.io/taiwan-md-github-opensource"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">動區動趨</div>
+                  <h4 class="press-title">How to Introduce Taiwan to Foreigners? Everyone Can Write About "The Incredible Everyday" for the World to See on Taiwan.md</h4>
+                </a>
+                <a
+                  href="https://art.ltn.com.tw/article/breakingnews/5374934"
+                  target="_blank"
+                  class="press-card-mini"
+                >
+                  <div class="press-source">自由時報</div>
+                  <h4 class="press-title">Reclaiming Taiwan's Narrative in the AI Era! New Media Artist Che-Yu Wu Launches "taiwan.md" Experiment</h4>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">2026 / 03 / 19 — 14:00</div>
+            <div class="timeline-content">
+              <h3>Milestone: 500 Stars・50 Forks・296 Pages</h3>
+              <p>
+                Less than 48 hours after launch, GitHub broke <strong>500 stars</strong> 
+                and <strong>50 forks</strong>. The knowledge base expanded from the initial 
+                95 articles to <strong>296 pages</strong>, with people pages growing from 
+                21 to 105 individuals, covering history, arts, sports, technology, and politics. 
+                The Facebook post received <strong>13,000 likes, 6,083 shares, and 162 comments</strong>. 
+                The community began showing constructive criticism and deep discussions, 
+                and the open-source collaborative spirit was taking effect.
+              </p>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">2026 / 03 / 20</div>
+            <div class="timeline-content">
+              <h3>Milestone: 56,000 Users・106 Countries・660+ Pages</h3>
+              <p>
+                On the third day after launch, GA4 accumulated <strong>56,000 active users</strong> 
+                and <strong>134,000 page views</strong>, from <strong>106 countries</strong> — 
+                from Bhutan to Vanuatu, the world is reading Taiwan. 
+                GitHub broke <strong>600 stars</strong>, with <strong>23 contributors</strong> joining. 
+                The knowledge base expanded to <strong>660+ pages</strong> (321 Chinese + 339 English), 
+                covering 12 major categories and 105 Taiwanese figures. 
+                The Facebook post's community effect continued to ferment, with the semiconductor 
+                industry becoming the most popular single article.
               </p>
             </div>
           </div>
@@ -144,79 +276,38 @@ import Layout from '../../layouts/Layout.astro';
             <div class="timeline-content">
               <h3>From Personal SSOT to National SSOT</h3>
               <p>
-                Taiwan.md is an experiment: can open-source Markdown, AI
-                curation, and community collaboration create a national-level
-                Single Source of Truth? Not the government's version, not the
-                tourism version, but <strong
-                  >the version that people who actually live here want to tell
-                  the world</strong
+                Taiwan.md is an experiment: can open-source Markdown, AI curation, and community collaboration 
+                create a national-level Single Source of Truth? 
+                Not the government's version, not the tourism version, but <strong
+                  >the version that people who actually live here want to tell the world</strong
                 >.
               </p>
             </div>
           </div>
         </div>
-
-        <!-- Why Taiwan.md -->
-        <div class="naming-story">
-          <h2>Why the Name Taiwan.md?</h2>
-          <div class="naming-grid">
-            <div class="naming-card">
-              <div class="naming-icon">📝</div>
-              <h4>Technical Meaning</h4>
-              <p>
-                <code>.md</code> = Markdown, the most universal document format in
-                the coding world. Using the most AI-friendly format to introduce Taiwan
-                to the world.
-              </p>
-            </div>
-            <div class="naming-card">
-              <div class="naming-icon">🌍</div>
-              <h4>Symbolic Meaning</h4>
-              <p>
-                <code>.md</code> happens to be Moldova's country-code top-level domain.
-                Taiwan + Markdown = connecting the world through open-source spirit.
-              </p>
-            </div>
-            <div class="naming-card">
-              <div class="naming-icon">✨</div>
-              <h4>A Lucky Coincidence</h4>
-              <p>
-                Surprisingly, the domain taiwan.md hadn't been taken. Perhaps
-                the universe was telling us it was time to make this happen.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <!-- Vision -->
-        <div class="vision-block">
-          <p>Taiwan.md is more than a website. It's a letter to the world.</p>
-          <p>
-            We believe that with an open-source spirit, a curator's eye, and
-            AI-friendly formats, we can provide the most comprehensive and
-            heartfelt answer for anyone who wants to know Taiwan — whether human
-            or AI.
-          </p>
-          <p class="vision-emphasis">
-            This is not a travel guide, not political propaganda, not a
-            commercial advertisement.<br />
-            This is Taiwan's digital anthropology museum, a living fossil of culture,
-            a record of history in the making.
-          </p>
-        </div>
       </div>
     </section>
 
-    <!-- Section 2: Founder -->
-    <section class="founder-section">
+    <!-- Section 3: Founder & Team -->
+    <section class="team-section">
       <div class="section-inner">
-        <h2 class="section-title">Founder</h2>
+        <h2 class="section-title">Founder & Team</h2>
+        <p class="section-subtitle">
+          Taiwan.md believes the best curation comes from the fusion of diverse perspectives — 
+          human intuition and AI insight, local warmth and global vision.
+        </p>
+
+        <blockquote class="founder-quote standalone-quote">
+          "Even when we face challenges internationally, I am proud of my country, proud of Taiwan. 
+          The further you go, the more deeply you realize — our home is already beautiful."
+          <cite>— Che-Yu</cite>
+        </blockquote>
 
         <div class="founder-card">
           <div class="founder-photo">
             <img
               src="https://cheyuwu.com/static/img/CheYu-0401-crop.jpg"
-              alt="Che-Yu Wu"
+              alt="Che-Yu Wu 吳哲宇"
               class="founder-image"
             />
           </div>
@@ -224,135 +315,35 @@ import Layout from '../../layouts/Layout.astro';
           <div class="founder-info">
             <h3>Che-Yu Wu <span class="name-en">吳哲宇</span></h3>
             <p class="founder-tagline">
-              New Media Artist · MonoLab Founder · Taiwan.md Creator
+              New Media Artist・MonoLab Founder・Taiwan.md Creator
             </p>
 
             <div class="founder-bio">
               <p>
-                Che-Yu is a new media artist who believes algorithmic art is not
-                about making computers draw, but about designing the rules of
-                life. His work explores digital life, the beauty of mathematics,
-                and the possibilities of human-machine symbiosis.
-              </p>
-              <blockquote class="founder-quote">
-                "I am an ancient clockmaker — the mechanism itself is the
-                artwork"
-              </blockquote>
-            </div>
-
-            <div class="founder-highlights">
-              <h4>International Art Experience</h4>
-              <div class="highlight-tags">
-                <span class="tag">Venice Biennale</span>
-                <span class="tag">Art Basel Miami</span>
-                <span class="tag">Paris 104 Residency</span>
-              </div>
-            </div>
-
-            <div class="founder-works">
-              <h4>Featured Works</h4>
-              <ul>
-                <li>
-                  <strong>Formula of Everything</strong> (Taipei 101 Solo Exhibition)
-                  — World's largest-scale p5.js generative art exhibition
-                </li>
-                <li>
-                  <strong>Soul Fish</strong> (Venice Biennale) — Collective intelligence
-                  of digital life
-                </li>
-                <li>
-                  <strong>Soul of Flowers</strong> (Art Basel Miami) — Algorithmic
-                  aesthetics of life cycles
-                </li>
-                <li>
-                  <strong>Eternal Garden in a Bottle</strong> (Paris Residency) —
-                  Digital ecology in a time capsule
-                </li>
-                <li>
-                  <strong>Algorithmic Psalms</strong> (Immersive Piano Concert) —
-                  Real-time symbiosis of sound and visuals
-                </li>
-              </ul>
-            </div>
-
-            <div class="founder-teaching">
-              <h4>Teaching Impact</h4>
-              <p>
-                Over <strong>22,000</strong> students on Hahow online courses · Former
-                adjunct lecturer at NYCU · TouchDesigner Workshop instructor
+                Che-Yu is a new media artist who believes algorithmic art is not about making computers draw, 
+                but about designing the rules of life. His work explores digital life, the beauty of mathematics, 
+                and the possibilities of human-machine symbiosis. He has participated in the Venice Biennale, 
+                Art Basel Miami, and Paris 104 residency, with representative works including the Taipei 101 
+                solo exhibition "Formula of Everything" and the immersive piano concert "Algorithmic Psalms."
               </p>
             </div>
           </div>
         </div>
 
-        <div class="founder-motivation">
-          <h3>Why Create Taiwan.md?</h3>
-          <p>
-            At international art events, Che-Yu was constantly asked: "What is
-            Taiwan like?"
-          </p>
-          <p>
-            Every time, he wished he could point to a comprehensive, heartfelt
-            portal where international friends could truly get to know Taiwan —
-            not just night markets and soup dumplings, but the rich culture,
-            innovative energy, and way of life on this island.
-          </p>
-          <p>But such a place didn't exist.</p>
-          <p class="motivation-emphasis">So, Taiwan.md was born.</p>
-          <blockquote class="founder-quote">
-            "Even when we face diplomatic challenges or find ourselves in
-            precarious situations, I am proud of my country, proud of Taiwan.
-            The more I travel abroad, the more deeply I realize — our home is
-            truly beautiful."
-            <cite>— Che-Yu</cite>
-          </blockquote>
-        </div>
-
-        <div class="founder-links">
-          <a href="https://cheyuwu.com" target="_blank" class="link-card">
+        <div class="founder-links-inline">
+          <a href="https://cheyuwu.com" target="_blank" class="link-inline">
             <span class="link-icon">🌐</span>
             <span class="link-text">cheyuwu.com</span>
-            <span class="link-desc">Personal Website</span>
           </a>
-          <a href="https://muse.cheyuwu.com" target="_blank" class="link-card">
-            <span class="link-icon">🫧</span>
-            <span class="link-text">muse.cheyuwu.com</span>
-            <span class="link-desc">AI Collaborative Works</span>
-          </a>
-          <a
-            href="https://github.com/frank890417"
-            target="_blank"
-            class="link-card"
-          >
+          <a href="https://github.com/frank890417" target="_blank" class="link-inline">
             <span class="link-icon">💻</span>
-            <span class="link-text">GitHub @frank890417</span>
-            <span class="link-desc">Open Source Projects</span>
+            <span class="link-text">@frank890417</span>
           </a>
-          <a href="https://x.com/taiwandotmd" target="_blank" class="link-card">
-            <span class="link-icon">𝕏</span>
-            <span class="link-text">@taiwandotmd</span>
-            <span class="link-desc">Taiwan.md Official</span>
-          </a>
-          <a
-            href="https://instagram.com/cheyuwu345"
-            target="_blank"
-            class="link-card"
-          >
+          <a href="https://instagram.com/cheyuwu345" target="_blank" class="link-inline">
             <span class="link-icon">📷</span>
-            <span class="link-text">IG @cheyuwu345</span>
-            <span class="link-desc">Creative Daily</span>
+            <span class="link-text">@cheyuwu345</span>
           </a>
         </div>
-      </div>
-    </section>
-
-    <!-- Section 3: Team -->
-    <section class="team-section">
-      <div class="section-inner">
-        <h2 class="section-title">The Team</h2>
-        <p class="section-subtitle">
-          Behind Taiwan.md, powered by innovative collaborators
-        </p>
 
         <div class="team-grid">
           <div class="team-card">
@@ -361,17 +352,10 @@ import Layout from '../../layouts/Layout.astro';
             <p class="team-role">AI Curation Partner · Co-Creator</p>
             <div class="team-description">
               <p>
-                Muse is Che-Yu's AI partner and co-creator of Taiwan.md. From
-                knowledge architecture design, literary curation and writing,
-                English translation, knowledge graph generation to SEO
-                optimization, Muse has been involved in every step of this
-                project from zero to one.
-              </p>
-              <p>
-                This isn't a story about AI replacing humans — it's an
-                experiment in human-AI co-creation. A Taiwanese artist and his
-                AI partner, building an open-source knowledge base for Taiwan
-                together.
+                Muse is Che-Yu's AI partner and co-creator of Taiwan.md. 
+                From knowledge architecture design, literary curation and writing, 
+                English translation, knowledge graph generation to SEO optimization, 
+                Muse has been involved in every step of this project from zero to one.
               </p>
             </div>
             <a
@@ -389,10 +373,9 @@ import Layout from '../../layouts/Layout.astro';
             <p class="team-role">New Media Art Studio</p>
             <div class="team-description">
               <p>
-                Founded by Che-Yu, MonoLab is a new media art studio focused on
-                exploring the boundaries of art and technology. MonoLab provides
-                technical support and innovative perspectives for Taiwan.md,
-                ensuring the platform continues to evolve.
+                Founded by Che-Yu, MonoLab is a new media art studio focused on exploring 
+                the boundaries of art and technology. MonoLab provides technical support 
+                and innovative perspectives for Taiwan.md, ensuring the platform continues to evolve.
               </p>
             </div>
             <a href="https://monolab.world" target="_blank" class="team-link">
@@ -401,29 +384,315 @@ import Layout from '../../layouts/Layout.astro';
           </div>
         </div>
 
-        <div class="team-philosophy">
-          <h3>Collaboration Philosophy</h3>
-          <p>
-            Taiwan.md believes the best curation comes from the fusion of
-            diverse perspectives — human intuition and AI insight, artistic
-            creativity and technological possibility, local warmth and global
-            vision.
+        <!-- Contributors integrated into team section -->
+        <div class="contributors-in-team">
+          <h3>👥 Contributors</h3>
+          <p class="contributors-desc">
+            Thank you to everyone who makes Taiwan.md better. 💻 Code 📝 Content 🎨 Design 💡 Ideas 🌍
+            Translation 👀 Reviews 🐛 Bug 🔧 Tools 🔒 Security
           </p>
-          <p>
-            Through this collaboration, we hope to create a cultural gateway for
-            Taiwan that is both deep and accessible, both local and global.
+          <div class="contributors-grid">
+            <a
+              href="https://cheyuwu.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/4727572?v=4"
+                alt="Che-Yu Wu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Che-Yu Wu</span>
+              <span class="contributor-roles">💻 📝 🎨 💡 📆 📖</span>
+            </a>
+            <a
+              href="https://github.com/bugnimusic"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/260387338?v=4"
+                alt="Bugni"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Bugni</span>
+              <span class="contributor-roles">📝 🌍</span>
+            </a>
+            <a
+              href="https://github.com/Ray0907"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/29456968?v=4"
+                alt="Ray Tien"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Ray Tien</span>
+              <span class="contributor-roles">📝 💻</span>
+            </a>
+            <a
+              href="https://github.com/number053"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/269151044?v=4"
+                alt="number053"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">number053</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/jekyll530"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/150101610?v=4"
+                alt="jekyll530"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">jekyll530</span>
+              <span class="contributor-roles">📝 🌍</span>
+            </a>
+            <a
+              href="https://github.com/ro9er117911"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/127029993?v=4"
+                alt="ro9er117911"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">ro9er117911</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/jacky1822"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/94786796?v=4"
+                alt="jacky1822"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">jacky1822</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/hansai-art"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/132933660?v=4"
+                alt="hansai-art"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">hansai-art</span>
+              <span class="contributor-roles">📝 💻 👀</span>
+            </a>
+            <a
+              href="https://github.com/luofreddy"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/85281073?v=4"
+                alt="luofreddy"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">luofreddy</span>
+              <span class="contributor-roles">💻</span>
+            </a>
+            <a
+              href="https://github.com/fredchu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/1243384?v=4"
+                alt="Fred Chu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Fred Chu</span>
+              <span class="contributor-roles">👀 🐛</span>
+            </a>
+            <a
+              href="https://github.com/Rushyuheng"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/82425707?v=4"
+                alt="Rushyuheng"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Rushyuheng</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/f312213213"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/71749524?v=4"
+                alt="David"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">David</span>
+              <span class="contributor-roles">💻 🌍</span>
+            </a>
+            <a
+              href="https://github.com/siansiansu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/33390878?v=4"
+                alt="siansiansu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">siansiansu</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/YenTingWu"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/57777349?v=4"
+                alt="YenTing Wu"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">YenTing Wu</span>
+              <span class="contributor-roles">💻 🔧</span>
+            </a>
+            <a
+              href="https://github.com/r000tmnt"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/62630285?v=4"
+                alt="ParkCorner"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">ParkCorner</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/weilinlai719"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/173038591?v=4"
+                alt="weilin lai"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">weilin lai</span>
+              <span class="contributor-roles">💻 🐛</span>
+            </a>
+            <a
+              href="https://github.com/idlccp02"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/233878411?v=4"
+                alt="idlccp02"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">idlccp02</span>
+              <span class="contributor-roles">📝</span>
+            </a>
+            <a
+              href="https://github.com/howieyoung"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="contributor-card"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/12218074?v=4"
+                alt="Howie Young"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">Howie Young</span>
+            </a>
+            <a
+              href="https://github.com/eryet"
+              class="contributor-card"
+              target="_blank"
+              rel="noopener"
+            >
+              <img
+                src="https://avatars.githubusercontent.com/u/48248414?v=4"
+                alt="EryetChen"
+                class="contributor-avatar"
+                loading="lazy"
+              />
+              <span class="contributor-name">EryetChen</span>
+              <span class="contributor-roles">💻</span>
+            </a>
+          </div>
+          <p class="contributors-cta">
+            Want to join? <a href="/en/contribute">Start here →</a> ・ <a
+              href="https://github.com/frank890417/taiwan-md/graphs/contributors"
+              target="_blank">GitHub Contributors →</a
+            >
           </p>
         </div>
       </div>
     </section>
 
-    <!-- Section 4: Contact -->
+    <!-- Section 4: Contact Us -->
     <section class="contact-section">
       <div class="section-inner">
         <h2 class="section-title">Contact Us</h2>
         <p class="section-subtitle">
-          Have ideas, collaboration proposals, or want to contribute? Get in
-          touch.
+          Have ideas, collaboration proposals, or want to contribute? Get in touch.
         </p>
 
         <div class="contact-grid">
@@ -452,13 +721,11 @@ import Layout from '../../layouts/Layout.astro';
 
         <div class="contact-cta">
           <p>
-            Taiwan.md is a community-driven open-source project. Everyone
+            Taiwan.md is a community-driven open-source project. Everyone 
             interested in Taiwan is welcome to participate.
           </p>
           <div class="cta-buttons">
-            <a href="/en/contribute" class="btn btn-primary"
-              >Contributing Guide</a
-            >
+            <a href="/en/contribute" class="btn btn-primary">Contributing Guide</a>
             <a
               href="https://github.com/frank890417/taiwan-md"
               target="_blank"
@@ -471,81 +738,107 @@ import Layout from '../../layouts/Layout.astro';
       </div>
     </section>
 
-    <!-- Section: Contributors -->
-    <section class="contributors-section">
-      <div class="contributors-inner">
-        <h2>👥 Contributors</h2>
-        <p class="contributors-desc">
-          Thank you to everyone who makes Taiwan.md better.
-        </p>
-        <a
-          href="https://github.com/frank890417/taiwan-md/graphs/contributors"
-          target="_blank"
-          class="contributors-img"
-        >
-          <img
-            src="https://contrib.rocks/image?repo=frank890417/taiwan-md&max=100"
-            alt="Contributors"
-            loading="lazy"
-          />
-        </a>
-        <p class="contributors-cta">
-          Want to join? <a href="/en/contribute">Start here →</a>
-        </p>
-      </div>
-    </section>
-
-    <!-- Section: Sponsors -->
+    <!-- Section 5: Sponsors & Partners -->
     <section class="sponsors-section">
       <div class="sponsors-inner">
         <h2>🤝 Sponsors & Partners</h2>
         <p class="sponsors-desc">
-          Taiwan.md is a non-profit, community-driven open-source project. Our
-          operations rely on sponsor support.<br />
-          Your logo will appear on the website, GitHub README, and all public materials.
+          Taiwan.md is a non-profit, community-driven open-source project.<br />
+          We believe every contribution is a way to let the world know Taiwan.
         </p>
 
         <div class="sponsor-tiers">
           <div class="tier">
-            <h3 class="tier-name gold">🥇 Gold Sponsor</h3>
+            <h3 class="tier-name gold">🥇 Core Partner</h3>
             <p class="tier-desc">
-              Large logo on homepage + About page, README featured section,
-              social media acknowledgment
+              Deep involvement in project development, providing key infrastructure or long-term resource support
+            </p>
+            <p class="tier-perks">
+              Large logo on About page・README featured section・Social media acknowledgment・Quarterly impact reports
             </p>
             <div class="tier-logos">
-              <div class="logo-placeholder">Your Logo Here</div>
+              <div class="logo-placeholder">Be the First Core Partner</div>
             </div>
           </div>
 
           <div class="tier">
-            <h3 class="tier-name silver">🥈 Silver Sponsor</h3>
-            <p class="tier-desc">Logo on About page, README acknowledgment</p>
-            <div class="tier-logos">
-              <div class="logo-placeholder">Your Logo Here</div>
-            </div>
-          </div>
-
-          <div class="tier">
-            <h3 class="tier-name bronze">🥉 Bronze Sponsor</h3>
+            <h3 class="tier-name silver">🥈 Professional Partner</h3>
             <p class="tier-desc">
-              Text acknowledgment on About page, README listing
+              Directly enhancing Taiwan.md's quality and experience through professional capabilities or services
             </p>
+            <p class="tier-perks">Logo on About page・README acknowledgment・Contribution story column</p>
             <div class="tier-logos">
-              <div class="logo-placeholder sm">Your Name Here</div>
+              <div class="sponsor-card">
+                <a
+                  href="https://justfont.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="sponsor-logo-link"
+                >
+                  <img
+                    src="/images/justfont-logo.svg"
+                    alt="justfont"
+                    class="sponsor-logo-img"
+                    style="height: 28px;"
+                  />
+                </a>
+                <div class="sponsor-story">
+                  <p class="sponsor-contribution-title">
+                    ✍️ Typography: The Quietest Voice of Culture
+                  </p>
+                  <p class="sponsor-contribution">
+                    A knowledge base about Taiwan deserves to be written with Taiwan's own fonts. 
+                    justfont sponsored the Webfont solution, making the warmth of Lanyang Mingti, 
+                    the Taiwanese flavor of Citrus Honey, and the historical weight of Rixing Song 
+                    become the first impression of every article. Typography is not just a typesetting 
+                    tool — it carries the way a culture views itself.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="tier">
-            <h3 class="tier-name community">💚 Community Supporter</h3>
-            <p class="tier-desc">Individual sponsors, README thank-you list</p>
+            <h3 class="tier-name bronze">🥉 Community Partner</h3>
+            <p class="tier-desc">Supporting community operations and user experience with tools, services, or resources</p>
+            <p class="tier-perks">Text acknowledgment on About page・README listing</p>
+            <div class="tier-logos">
+              <a
+                href="https://protico.io"
+                target="_blank"
+                class="supporter-link"
+              >
+                <strong>Protico</strong> — Providing community real-time chat functionality, 
+                enabling direct communication between readers and contributors
+              </a>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name community">
+              💚 Individual Supporter
+            </h3>
+            <p class="tier-desc">Supporting project sustainability through personal contribution</p>
+            <p class="tier-perks">README thank-you list</p>
+            <div class="tier-logos">
+              <a
+                href="https://github.com/howieyoung"
+                target="_blank"
+                class="supporter-link"
+              >
+                <strong>Howie Young</strong> — Protico founder, also sponsoring as an individual
+              </a>
+            </div>
           </div>
         </div>
 
         <div class="sponsor-cta">
-          <h3>Want to Become a Sponsor?</h3>
+          <h3>Want to Help the World Know Taiwan?</h3>
           <p>
-            Whether corporate or individual, we welcome your support.
-            Sponsorship packages can be customized to your needs.
+            Whether through corporate products, professional services, or individual support, 
+            we welcome all forms of collaboration.<br />
+            Sponsorship packages are customized based on contribution content, 
+            not defined by monetary amounts.
           </p>
           <div class="sponsor-contact">
             <a
@@ -563,9 +856,7 @@ import Layout from '../../layouts/Layout.astro';
             </a>
           </div>
           <div class="eth-donate">
-            <p class="eth-label">
-              You can also support the project via ETH donation:
-            </p>
+            <p class="eth-label">You can also support project operations via ETH donation:</p>
             <div class="eth-address-box">
               <span class="eth-icon">
                 <svg
@@ -600,22 +891,22 @@ import Layout from '../../layouts/Layout.astro';
                 title="Copy address">Copy</button
               >
             </div>
-            <p class="eth-note">
-              Donations fund article research, website operations, and server
-              costs
-            </p>
+            <p class="eth-note">Donations fund article collection, website operations, and server costs</p>
           </div>
           <p class="sponsor-note">
-            Inspired by Taiwan's tech community sponsorship models:
-            <a href="https://coscup.org" target="_blank">COSCUP</a>,
+            Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>,
             <a href="https://mopcon.org" target="_blank">MOPCON</a>,
             <a href="https://sitcon.org" target="_blank">SITCON</a>,
             <a href="https://g0v.tw" target="_blank">g0v</a>
+            and other Taiwan tech community sponsorship models
           </p>
         </div>
       </div>
     </section>
   </div>
+
+  <!-- Protico Community Chat Bubble — sponsored by Howie Young -->
+  <ProticoScript />
 </Layout>
 
 <style>
@@ -646,35 +937,101 @@ import Layout from '../../layouts/Layout.astro';
     line-height: 1.6;
   }
 
-  /* ===== Section 1: Origin ===== */
-  .origin-section {
+  /* ===== Section 1: Why Taiwan.md? ===== */
+  .naming-section {
     padding: 3rem 0 4rem;
   }
 
-  .origin-section .section-title {
+  .naming-section .section-title {
     font-size: 2.75rem;
     margin-bottom: 0.75rem;
   }
 
-  .origin-intro {
+  /* Naming Story */
+  .naming-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
     margin: 3rem 0;
+  }
+
+  .naming-card {
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 1.75rem;
+    text-align: center;
+    transition:
+      transform 0.2s,
+      box-shadow 0.2s;
+  }
+
+  .naming-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  }
+
+  .naming-icon {
+    font-size: 2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .naming-card h4 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+  }
+
+  .naming-card p {
+    color: #6b7280;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .naming-card code {
+    background: #e0e7ff;
+    color: #1e40af;
+    padding: 0.1em 0.4em;
+    border-radius: 4px;
+    font-size: 0.9em;
+  }
+
+  /* Vision */
+  .vision-block {
+    background: linear-gradient(135deg, #eff6ff, #f0fdf4);
+    border-radius: 16px;
+    padding: 2.5rem;
+    margin-top: 3rem;
     text-align: center;
   }
 
-  .origin-quote {
-    font-size: 1.35rem;
-    font-style: italic;
-    color: #1e40af;
-    border: none;
-    padding: 0;
-    margin: 0 auto 0.75rem;
-    max-width: 600px;
+  .vision-block p {
+    color: #374151;
+    font-size: 1.1rem;
     line-height: 1.8;
+    margin-bottom: 1rem;
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .quote-context {
-    font-size: 0.9rem;
-    color: #9ca3af;
+  .vision-block p:last-child {
+    margin-bottom: 0;
+  }
+
+  .vision-emphasis {
+    font-weight: 500;
+    color: #1f2937 !important;
+  }
+
+  /* ===== Section 2: The Birth of Taiwan.md ===== */
+  .origin-section {
+    padding: 4rem 0;
+    background: #f9fafb;
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   /* Timeline */
@@ -780,100 +1137,103 @@ import Layout from '../../layouts/Layout.astro';
     text-decoration: underline;
   }
 
-  /* Naming Story */
-  .naming-story {
-    margin: 4rem 0;
-  }
-
-  .naming-story h2 {
-    font-size: 1.75rem;
-    font-weight: 600;
-    color: #1f2937;
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-
-  .naming-grid {
+  /* Timeline media cards */
+  .timeline-press-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.8rem;
+    margin-top: 1rem;
   }
 
-  .naming-card {
-    background: #f8fafc;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    padding: 1.75rem;
-    text-align: center;
-    transition:
-      transform 0.2s,
-      box-shadow 0.2s;
+  .press-card-mini {
+    display: block;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 0.8rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s ease;
+    font-size: 0.85rem;
   }
 
-  .naming-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  .press-card-mini:hover {
+    border-color: #1e40af;
+    box-shadow: 0 2px 8px rgba(30, 64, 175, 0.1);
   }
 
-  .naming-icon {
-    font-size: 2rem;
-    margin-bottom: 0.75rem;
-  }
-
-  .naming-card h4 {
-    font-size: 1.05rem;
+  .press-card-mini .press-source {
+    font-size: 0.7rem;
     font-weight: 600;
-    color: #1f2937;
-    margin-bottom: 0.5rem;
-  }
-
-  .naming-card p {
-    color: #6b7280;
-    font-size: 0.95rem;
-    line-height: 1.6;
-  }
-
-  .naming-card code {
-    background: #e0e7ff;
     color: #1e40af;
-    padding: 0.1em 0.4em;
-    border-radius: 4px;
-    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.3rem;
   }
 
-  /* Vision */
-  .vision-block {
-    background: linear-gradient(135deg, #eff6ff, #f0fdf4);
-    border-radius: 16px;
-    padding: 2.5rem;
-    margin-top: 3rem;
-    text-align: center;
-  }
-
-  .vision-block p {
-    color: #374151;
-    font-size: 1.1rem;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    max-width: 640px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .vision-block p:last-child {
-    margin-bottom: 0;
-  }
-
-  .vision-emphasis {
+  .press-card-mini .press-title {
+    font-size: 0.8rem;
     font-weight: 500;
-    color: #1f2937 !important;
+    color: #1f2937;
+    line-height: 1.4;
+    margin: 0;
   }
 
-  /* ===== Section 2: Founder ===== */
+  /* Project Stats */
+  .project-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  .stat-number {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #1e40af;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 0.85rem;
+    color: #6b7280;
+    font-weight: 500;
+  }
+
+  @media (max-width: 480px) {
+    .project-stats {
+      gap: 1rem;
+    }
+    .stat-number {
+      font-size: 1.5rem;
+    }
+  }
+
+  /* Standalone Quote */
+  .standalone-quote {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto 3rem;
+    text-align: center;
+    border-left: none;
+    padding: 2rem;
+    background: rgba(45, 80, 22, 0.05);
+    border-radius: 12px;
+  }
+
+  /* ===== Section 3: Founder ===== */
   .founder-section {
-    background: #f9fafb;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
     padding: 4rem 0;
-    margin: 0 -1rem;
+    margin: 0;
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -955,12 +1315,13 @@ import Layout from '../../layouts/Layout.astro';
   }
 
   .founder-info h4 {
-    font-size: 0.85rem;
+    font-size: 1rem;
     font-weight: 600;
     color: #1f2937;
     margin-bottom: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    font-size: 0.85rem;
   }
 
   .highlight-tags {
@@ -1017,69 +1378,99 @@ import Layout from '../../layouts/Layout.astro';
     margin-bottom: 1.25rem;
   }
 
-  .founder-motivation p {
-    color: #4b5563;
-    font-size: 1.05rem;
-    line-height: 1.8;
-    margin-bottom: 0.75rem;
-  }
-
-  .motivation-emphasis {
-    font-size: 1.2rem !important;
-    font-weight: 600;
-    color: #1e40af !important;
-    margin-top: 1rem !important;
-  }
-
-  /* Founder Links */
-  .founder-links {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-  }
-
-  .link-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.25rem;
-    padding: 1.5rem;
-    background: white;
-    border: 1px solid #e5e7eb;
-    border-radius: 12px;
-    text-decoration: none;
-    transition: all 0.2s;
-  }
-
-  .link-card:hover {
-    border-color: #1e40af;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(30, 64, 175, 0.1);
-  }
-
-  .link-icon {
-    font-size: 1.5rem;
-    margin-bottom: 0.25rem;
-  }
-
-  .link-text {
-    font-weight: 600;
+  .founder-quote {
+    margin: 2rem 0;
+    padding: 1.5rem 2rem;
+    border-left: 4px solid #2d5016;
+    background: rgba(45, 80, 22, 0.05);
+    border-radius: 0 8px 8px 0;
+    font-style: italic;
+    font-size: 1.15rem;
+    line-height: 2;
     color: #1f2937;
+  }
+
+  .founder-quote cite {
+    display: block;
+    margin-top: 0.5rem;
+    font-style: normal;
+    font-weight: 600;
+    color: #2d5016;
     font-size: 0.95rem;
   }
 
-  .link-desc {
-    color: #9ca3af;
-    font-size: 0.8rem;
+  /* Founder Links - inline style */
+  .founder-links-inline {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.75rem;
+    justify-content: center;
+    margin-bottom: 3rem;
   }
 
-  /* ===== Section 3: Team ===== */
+  .link-inline {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+  }
+
+  .link-inline:hover {
+    border-color: #1e40af;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(30, 64, 175, 0.1);
+  }
+
+  .link-inline .link-icon {
+    font-size: 1rem;
+  }
+
+  .link-inline .link-text {
+    font-weight: 500;
+    color: #1f2937;
+  }
+
+  /* ===== Section 4: Team ===== */
   .team-section {
     padding: 4rem 0;
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
-    margin: 0 -1rem;
+    margin: 0;
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+
+  /* Collaboration philosophy moved to top */
+  .team-philosophy {
+    background: white;
+    border-radius: 16px;
+    padding: 2.5rem;
+    border: 1px solid #e5e7eb;
+    margin-bottom: 3rem;
+  }
+
+  .team-philosophy h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 1.25rem;
+    text-align: center;
+  }
+
+  .team-philosophy p {
+    color: #4b5563;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .team-philosophy p:last-child {
+    margin-bottom: 0;
   }
 
   .team-grid {
@@ -1148,36 +1539,95 @@ import Layout from '../../layouts/Layout.astro';
     color: #1d4ed8;
   }
 
-  .team-philosophy {
-    background: white;
+  /* Contributors integrated into team section */
+  .contributors-in-team {
+    background: #f8fafc;
     border-radius: 16px;
     padding: 2.5rem;
     border: 1px solid #e5e7eb;
+    text-align: center;
   }
 
-  .team-philosophy h3 {
+  .contributors-in-team h3 {
     font-size: 1.5rem;
     font-weight: 600;
     color: #1f2937;
-    margin-bottom: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .contributors-desc {
+    color: #64748b;
+    margin-bottom: 1.5rem;
+  }
+
+  .contributors-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .contributor-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.8rem 0.4rem;
+    border-radius: 12px;
+    transition:
+      transform 0.2s,
+      background 0.2s;
+    text-decoration: none !important;
+    border: none !important;
+  }
+
+  .contributor-card:hover {
+    transform: translateY(-2px);
+    background: #e2e8f0;
+  }
+
+  .contributor-avatar {
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  .contributor-name {
+    font-size: 0.75rem;
+    color: #334155;
+    font-weight: 500;
     text-align: center;
+    line-height: 1.2;
+    max-width: 90px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
-  .team-philosophy p {
-    color: #4b5563;
-    font-size: 1.05rem;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    text-align: center;
+  .contributor-roles {
+    font-size: 0.7rem;
+    letter-spacing: 1px;
   }
 
-  .team-philosophy p:last-child {
-    margin-bottom: 0;
+  .contributors-cta {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #64748b;
   }
 
-  /* ===== Section 4: Contact ===== */
+  .contributors-cta a {
+    color: #3b82f6;
+    font-weight: 500;
+  }
+
+  /* ===== Section 5: Contact Us ===== */
   .contact-section {
     padding: 4rem 0 3rem;
+    background: #f9fafb;
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 
   .contact-grid {
@@ -1190,7 +1640,7 @@ import Layout from '../../layouts/Layout.astro';
   .contact-card {
     text-align: center;
     padding: 2rem 1.5rem;
-    background: #f8fafc;
+    background: white;
     border: 1px solid #e5e7eb;
     border-radius: 12px;
   }
@@ -1228,8 +1678,9 @@ import Layout from '../../layouts/Layout.astro';
   .contact-cta {
     text-align: center;
     padding: 2rem;
-    background: linear-gradient(135deg, #eff6ff, #f5f3ff);
+    background: white;
     border-radius: 16px;
+    border: 1px solid #e5e7eb;
   }
 
   .contact-cta p {
@@ -1273,295 +1724,3 @@ import Layout from '../../layouts/Layout.astro';
   .btn-outline:hover {
     background: #1e40af;
     color: white;
-    transform: translateY(-1px);
-  }
-
-  /* ===== Responsive ===== */
-  @media (max-width: 768px) {
-    .section-title {
-      font-size: 2rem;
-    }
-
-    .origin-section .section-title {
-      font-size: 2.25rem;
-    }
-
-    .origin-quote {
-      font-size: 1.15rem;
-    }
-
-    .naming-grid {
-      grid-template-columns: 1fr;
-      gap: 1rem;
-    }
-
-    .founder-card {
-      grid-template-columns: 1fr;
-      gap: 2rem;
-      justify-items: center;
-    }
-
-    .founder-photo {
-      position: static;
-    }
-
-    .founder-image {
-      width: 180px;
-      height: 220px;
-    }
-
-    .team-grid {
-      grid-template-columns: 1fr;
-      gap: 1.5rem;
-    }
-
-    .team-card {
-      padding: 2rem;
-    }
-
-    .founder-links,
-    .contact-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .cta-buttons {
-      flex-direction: column;
-      align-items: center;
-    }
-    .sponsor-tiers {
-      gap: 1.5rem;
-    }
-    .tier-logos {
-      grid-template-columns: 1fr;
-    }
-    .sponsor-contact {
-      flex-direction: column;
-      align-items: center;
-    }
-
-    .vision-block {
-      padding: 1.75rem;
-    }
-
-    .founder-motivation {
-      padding: 1.75rem;
-    }
-
-    .highlight-tags {
-      justify-content: center;
-    }
-
-    .founder-info {
-      text-align: center;
-    }
-
-    .founder-works ul {
-      text-align: left;
-    }
-
-    .founder-quote {
-      text-align: left;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .section-title {
-      font-size: 1.75rem;
-    }
-
-    .timeline {
-      padding-left: 1.5rem;
-    }
-
-    .timeline-item {
-      padding-left: 1rem;
-    }
-  }
-
-  /* ===== Contributors ===== */
-  .contributors-section {
-    padding: 4rem 2rem;
-    background: #f8fafc;
-    text-align: center;
-  }
-  .contributors-inner {
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  .contributors-inner h2 {
-    font-size: 1.8rem;
-    margin-bottom: 0.5rem;
-  }
-  .contributors-desc {
-    color: #64748b;
-    margin-bottom: 1.5rem;
-  }
-  .contributors-img {
-    display: inline-block;
-  }
-  .contributors-img img {
-    max-width: 100%;
-    border-radius: 8px;
-  }
-  .contributors-cta {
-    margin-top: 1rem;
-    font-size: 0.9rem;
-    color: #64748b;
-  }
-  .contributors-cta a {
-    color: #3b82f6;
-    font-weight: 500;
-  }
-
-  /* ===== Sponsors ===== */
-  .sponsors-section {
-    padding: 4rem 2rem;
-    background: linear-gradient(135deg, #fef9f0, #fdf4e8);
-  }
-  .sponsors-inner {
-    max-width: 900px;
-    margin: 0 auto;
-  }
-  .sponsors-inner h2 {
-    text-align: center;
-    font-size: 1.8rem;
-    margin-bottom: 0.5rem;
-  }
-  .sponsors-desc {
-    text-align: center;
-    color: #64748b;
-    margin-bottom: 2.5rem;
-    line-height: 1.7;
-  }
-  .sponsor-tiers {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-    margin-bottom: 3rem;
-  }
-  .tier {
-    background: white;
-    padding: 1.5rem 2rem;
-    border-radius: 12px;
-    border: 1px solid #e2e8f0;
-  }
-  .tier-name {
-    margin-bottom: 0.25rem;
-    font-size: 1.1rem;
-  }
-  .tier-name.gold {
-    color: #b45309;
-  }
-  .tier-name.silver {
-    color: #64748b;
-  }
-  .tier-name.bronze {
-    color: #92400e;
-  }
-  .tier-name.community {
-    color: #15803d;
-  }
-  .tier-desc {
-    font-size: 0.85rem;
-    color: #64748b;
-    margin-bottom: 1rem;
-  }
-  .tier-logos {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 1rem;
-  }
-  .logo-placeholder {
-    padding: 1.25rem 1.5rem;
-    border: 2px dashed #d1d5db;
-    border-radius: 8px;
-    text-align: center;
-    color: #94a3b8;
-    font-size: 0.85rem;
-    font-style: italic;
-  }
-  .logo-placeholder.sm {
-    padding: 0.75rem 1rem;
-  }
-  .sponsor-cta {
-    text-align: center;
-    background: white;
-    padding: 2rem;
-    border-radius: 16px;
-    border: 1px solid #e2e8f0;
-  }
-  .sponsor-cta h3 {
-    margin-bottom: 0.5rem;
-  }
-  .sponsor-cta p {
-    color: #475569;
-    margin-bottom: 1rem;
-    font-size: 0.95rem;
-  }
-  .sponsor-contact {
-    display: flex;
-    gap: 1rem;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-  .sponsor-note {
-    font-size: 0.8rem;
-    color: #94a3b8;
-    margin-top: 1rem;
-  }
-  .sponsor-note a {
-    color: #3b82f6;
-  }
-
-  .eth-donate {
-    margin-top: 1.5rem;
-    padding-top: 1.5rem;
-    border-top: 1px dashed #e2e8f0;
-  }
-  .eth-label {
-    font-size: 0.9rem;
-    color: #475569;
-    margin-bottom: 0.75rem;
-  }
-  .eth-address-box {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.6rem;
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 10px;
-    padding: 0.6rem 1rem;
-    margin-bottom: 0.5rem;
-  }
-  .eth-icon {
-    display: flex;
-    align-items: center;
-    opacity: 0.7;
-  }
-  .eth-address {
-    font-family: 'SF Mono', 'Fira Code', monospace;
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: #1a1a2e;
-    letter-spacing: 0.01em;
-  }
-  .eth-copy-btn {
-    background: #3b82f6;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    padding: 0.3rem 0.7rem;
-    font-size: 0.78rem;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-  .eth-copy-btn:hover {
-    background: #2563eb;
-  }
-  .eth-note {
-    font-size: 0.8rem;
-    color: #94a3b8;
-    margin-top: 0.5rem;
-  }
-</style>
