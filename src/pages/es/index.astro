@@ -1,55 +1,132 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import CategoryGrid from '../../components/CategoryGrid.astro';
+import TopicsMasonry from '../../components/TopicsMasonry.astro';
 import HeroSection from '../../components/HeroSection.astro';
 import JourneyCard from '../../components/JourneyCard.astro';
+import WhyCard from '../../components/WhyCard.astro';
+import WelcomeModal from '../../components/WelcomeModal.astro';
+import SideTools from '../../components/SideTools.astro';
 import { t } from '../../i18n/ui';
-import { categoryConfig } from '../../utils/categoryConfig';
-import { readdir } from 'fs/promises';
-import { resolve } from 'path';
+import { readdir, readFile } from 'fs/promises';
+import { resolve, basename } from 'path';
+import matter from 'gray-matter';
 
 const lang = 'es';
 
-// Count Spanish articles
-let totalArticles = 0;
-const categoryMapping: Record<string, string> = {
-  history: 'History', geography: 'Geography', culture: 'Culture',
-  food: 'Food', art: 'Art', music: 'Music',
-  technology: 'Technology', nature: 'Nature', people: 'People',
-  society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
-};
-for (const [cat, folder] of Object.entries(categoryMapping)) {
+// Fetch recent commits
+let recentCommits: { hash: string; date: string; message: string }[] = [];
+try {
+  const res = await fetch('https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=5');
+  if (res.ok) {
+    const data = await res.json();
+    recentCommits = data.map((c: any) => ({
+      hash: c.sha,
+      date: c.commit.author.date,
+      message: c.commit.message.split('\n')[0],
+    }));
+  }
+} catch {}
+
+function commitIcon(msg: string) {
+  if (msg.startsWith('feat')) return 'feat';
+  if (msg.startsWith('fix')) return 'fix';
+  if (msg.startsWith('content')) return 'content';
+  if (msg.startsWith('docs')) return 'docs';
+  return 'update';
+}
+
+function timeAgo(dateStr: string) {
+  const now = new Date();
+  const then = new Date(dateStr);
+  const diff = Math.floor((now.getTime() - then.getTime()) / 1000);
+  if (diff < 3600) return `hace ${Math.floor(diff / 60)}m`;
+  if (diff < 86400) return `hace ${Math.floor(diff / 3600)}h`;
+  if (diff < 604800) return `hace ${Math.floor(diff / 86400)}d`;
+  return then.toLocaleDateString('es-ES', { month: 'short', day: 'numeric' });
+}
+
+const categoryFolders = [
+  { id: 'history', name: 'History' }, { id: 'geography', name: 'Geography' },
+  { id: 'culture', name: 'Culture' }, { id: 'food', name: 'Food' },
+  { id: 'art', name: 'Art' }, { id: 'music', name: 'Music' },
+  { id: 'technology', name: 'Technology' }, { id: 'nature', name: 'Nature' },
+  { id: 'people', name: 'People' }, { id: 'society', name: 'Society' },
+  { id: 'economy', name: 'Economy' }, { id: 'lifestyle', name: 'Lifestyle' },
+];
+
+let allArticles: { title: string; url: string; category: string }[] = [];
+// Try es/ first, then fall back to en/
+for (const cat of categoryFolders) {
   try {
-    const dir = resolve(process.cwd(), 'knowledge', 'es', folder);
-    const files = await readdir(dir);
-    totalArticles += files.filter(f => f.endsWith('.md') && !f.startsWith('_')).length;
+    const esDirPath = resolve(process.cwd(), 'knowledge', 'es', cat.name);
+    const esFiles = await readdir(esDirPath);
+    for (const file of esFiles.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(esDirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = basename(file, '.md');
+      allArticles.push({
+        title: fm.title || slug,
+        url: `/es/${cat.id}/${encodeURIComponent(slug)}`,
+        category: cat.name,
+      });
+    }
   } catch {}
 }
+// Fill in with en/ articles if es/ is sparse
+if (allArticles.length < 10) {
+  for (const cat of categoryFolders) {
+    try {
+      const enDirPath = resolve(process.cwd(), 'knowledge', 'en', cat.name);
+      const enFiles = await readdir(enDirPath);
+      for (const file of enFiles.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+        const content = await readFile(resolve(enDirPath, file), 'utf-8');
+        const { data: fm } = matter(content);
+        const slug = basename(file, '.md');
+        allArticles.push({
+          title: fm.title || slug,
+          url: `/en/${cat.id}/${encodeURIComponent(slug)}`,
+          category: cat.name,
+        });
+      }
+    } catch {}
+  }
+}
+if (allArticles.length === 0) {
+  allArticles = [
+    { title: 'Democratización', url: '/en/history/democratization', category: 'History' },
+    { title: 'Industria de semiconductores', url: '/en/technology/semiconductor-industry', category: 'Technology' },
+  ];
+}
+const randomArticlesData = JSON.stringify(allArticles);
 ---
 
-<Layout title="Base de Conocimiento de Taiwán - Taiwan.md" description="Base de conocimiento de código abierto sobre Taiwán para el mundo hispanohablante" lang="es">
+<Layout title="Base de Conocimiento de Taiwán - Taiwan.md"
+        description="La base de conocimiento de código abierto sobre Taiwán. Perspectivas curadas de personas que aman Taiwán, para el mundo hispanohablante."
+        lang="es">
+  <!-- Hero -->
   <HeroSection lang={lang} />
 
   <!-- Journey Paths -->
-  <section class="py-20 px-6 max-w-7xl mx-auto">
-    <div class="text-center mb-14">
-      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-3">{t('journey.title', lang)}</h2>
-      <p class="text-forest-400 text-lg">{t('journey.subtitle', lang)}</p>
+  <section class="py-32 px-6 max-w-7xl mx-auto animate-on-scroll" id="journey">
+    <div class="text-center mb-16">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">{t('journey.subtitle', lang)}</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">{t('journey.title', lang)}</h2>
     </div>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
       <JourneyCard
         title={t('journey.nature.title', lang)}
         description={t('journey.nature.desc', lang)}
-        image="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=600&q=80"
+        image="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=800&q=80"
         imageAlt="Taroko Gorge marble cliffs"
         href="/es/nature"
         readTime="15"
         ctaText={t('journey.begin', lang)}
+        tall={true}
       />
       <JourneyCard
         title={t('journey.history.title', lang)}
         description={t('journey.history.desc', lang)}
-        image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=600&q=80"
+        image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=800&q=80"
         imageAlt="Traditional Taiwan temple"
         href="/es/history"
         readTime="20"
@@ -58,7 +135,7 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
       <JourneyCard
         title={t('journey.culture.title', lang)}
         description={t('journey.culture.desc', lang)}
-        image="https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?w=600&q=80"
+        image="https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?w=800&q=80"
         imageAlt="Taiwan temple festival"
         href="/es/culture"
         readTime="18"
@@ -67,53 +144,356 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
       <JourneyCard
         title={t('journey.flavors.title', lang)}
         description={t('journey.flavors.desc', lang)}
-        image="https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&q=80"
+        image="https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80"
         imageAlt="Taiwan night market food"
         href="/es/food"
         readTime="12"
         ctaText={t('journey.begin', lang)}
+        tall={true}
       />
     </div>
   </section>
 
-  <!-- Categories -->
-  <section class="py-20 px-6" id="categories">
-    <div class="text-center mb-10">
-      <h2 class="text-3xl font-serif font-bold text-forest">{t('categories.title', lang)}</h2>
-      <p class="text-forest-400 mt-2">{t('categories.subtitle', lang)}</p>
-    </div>
-    <CategoryGrid lang={lang} />
-  </section>
+  <!-- Cover Story -->
+  <section class="py-28 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3 text-center">Historia de Portada</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-12 text-center leading-heading">¿Cómo entender Taiwán?</h2>
+      <div class="space-y-8 text-forest-600 leading-loose text-lg">
+        <p>
+          Taiwán es una isla de apenas 36,000 kilómetros cuadrados, pero contiene toda la complejidad del mundo.
+          Durante cuatro siglos, todos los que pisaron esta isla vieron un Taiwán diferente a través de ojos distintos.
+        </p>
 
-  <!-- About & Contribute -->
-  <section class="py-16 px-6 text-center">
-    <div class="max-w-2xl mx-auto">
-      <h2 class="text-2xl font-serif font-bold text-forest mb-3">Contribuye a Taiwan.md</h2>
-      <p class="text-forest-400 mb-6">
-        Taiwan.md es un proyecto de código abierto impulsado por la comunidad.
-        Estamos buscando traductores al español para hacer que el conocimiento sobre Taiwán sea accesible a más de 500 millones de hispanohablantes.
-      </p>
-      <div class="flex flex-wrap justify-center gap-4">
-        <a href="https://github.com/frank890417/taiwan-md" class="btn-primary" target="_blank">GitHub</a>
-        <a href="/en/contribute" class="btn-secondary">Guía de Contribución</a>
+        <div class="space-y-6 border-l-2 border-teal/30 pl-8 my-12">
+          <blockquote class="text-forest italic text-base">
+            "Las montañas, los ríos y los arroyos son los cuerpos de nuestros ancestros. Somos los hijos de la tierra."
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Literatura oral Atayal</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            "Ilha Formosa" — Isla Hermosa.
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Navegantes portugueses, 1584</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            "Cuando ves Taiwán, descubres que esta tierra es más hermosa de lo que imaginabas, y también más frágil de lo que imaginabas."
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Chi Po-lin, "Más allá de la belleza: Taiwán desde las alturas", 2013</cite>
+          </blockquote>
+        </div>
+
+        <p class="text-lg">
+          Desde los mitos de creación de los pueblos austronesios hasta el ascenso del imperio de los semiconductores,
+          desde el silencio de la ley marcial hasta la primera legalización del matrimonio igualitario en Asia.
+          La historia de Taiwán no es una línea recta, sino una red.
+        </p>
+        <p class="text-lg">
+          <strong class="text-forest">Taiwan.md no pretende darte respuestas.</strong>
+          Lo que queremos hacer es darte un mapa — un mapa que te permita adentrarte en Taiwán por tu cuenta.
+        </p>
+        <a href="/es/about" class="inline-flex items-center gap-2 text-teal font-semibold hover:text-teal-600 transition-colors no-underline border-none mt-4">
+          Leer la colección completa de citas
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
       </div>
     </div>
   </section>
 
-  <!-- Translation Status -->
-  {totalArticles === 0 && (
-    <section class="py-12 px-6">
-      <div class="max-w-2xl mx-auto text-center bg-cream-50 rounded-2xl p-8 border border-forest-100/30">
-        <div class=\"mb-4\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"w-10 h-10 mx-auto text-teal\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582m15.686 0A11.953 11.953 0 0112 10.5c-2.998 0-5.74-1.1-7.843-2.918m15.686 0A8.959 8.959 0 0121 12c0 .778-.099 1.533-.284 2.253m0 0A17.919 17.919 0 0112 16.5c-3.162 0-6.133-.815-8.716-2.247m0 0A9.015 9.015 0 013 12c0-1.605.42-3.113 1.157-4.418\" /></svg></div>
-        <h3 class="text-xl font-bold text-forest mb-2">Traducción en Progreso</h3>
-        <p class="text-forest-400 mb-4">
-          Estamos trabajando en traducir los artículos al español.
-          Mientras tanto, puedes explorar el contenido en <a href="/en" class="text-teal font-semibold">inglés</a> o <a href="/" class="text-teal font-semibold">chino tradicional</a>.
+  <!-- Random Discovery -->
+  <section class="py-20 px-6 animate-on-scroll">
+    <div class="max-w-lg mx-auto text-center">
+      <button id="random-discovery-btn" class="group w-full bg-gradient-to-br from-forest-50 to-teal-50 rounded-3xl border border-forest-100/30 shadow-card hover:shadow-lg transition-all p-10 cursor-pointer">
+        <svg class="w-10 h-10 mx-auto mb-3 text-teal opacity-60 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" /></svg>
+        <span class="random-text text-2xl font-serif font-bold text-forest block">Descubre Taiwán al Azar</span>
+        <span class="random-subtitle text-sm text-forest-400 block mt-2">Explora historias inesperadas</span>
+      </button>
+    </div>
+  </section>
+
+  <!-- Reading Path -->
+  <section class="py-28 px-6 max-w-4xl mx-auto animate-on-scroll">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Ruta Curada</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">¿No sabes por dónde empezar?</h2>
+      <p class="text-forest-400 mt-3 text-lg">Descubre el verdadero Taiwán en 30 minutos con estos 5 artículos esenciales</p>
+    </div>
+    <div class="space-y-4">
+      <a href="/en/history/democratization" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">1</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Revolución Silenciosa: Democratización de Taiwán</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Del autoritarismo a la democracia, el primer milagro de transición pacífica de Asia</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">6 min</span>
+      </a>
+      <a href="/en/culture/ethnic-groups" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">2</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Unidad en la Diversidad: Grupos Étnicos de Taiwán</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Cuatro grandes grupos étnicos tejiendo la base multicultural de Taiwán</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">7 min</span>
+      </a>
+      <a href="/en/food/night-market-culture" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">3</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">El Verdadero Sabor de Taiwán: Cultura de los Mercados Nocturnos</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Los espacios sociales de comida callejera más densos del mundo, con una calidez insuperable</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">5 min</span>
+      </a>
+      <a href="/en/technology/semiconductor-industry" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">4</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">El Escudo de Silicio: Industria de Semiconductores</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Cómo TSMC convirtió a una pequeña isla en el corazón de la tecnología global</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">8 min</span>
+      </a>
+      <a href="/en/lifestyle/convenience-store-culture" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">5</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Sistema Operativo de Vida: Tiendas de Conveniencia</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Más que tiendas — son la infraestructura de toda una nación</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">4 min</span>
+      </a>
+    </div>
+    <div class="text-center mt-10 text-sm text-forest-400">
+      <p>‹ <strong>Total 30 minutos</strong> · <strong>5 áreas clave</strong> · <strong>Visión completa de Taiwán</strong></p>
+    </div>
+  </section>
+
+  <!-- Why Taiwan.md? -->
+  <section class="py-28 px-6 bg-white animate-on-scroll">
+    <div class="max-w-6xl mx-auto">
+      <div class="text-center mb-16">
+        <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Por qué Taiwan.md</p>
+        <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">¿Por qué Taiwan.md?</h2>
+      </div>
+      <div class="space-y-20">
+        <WhyCard
+          title="Perspectivas Curadas"
+          description="Narrativas profundas cuidadosamente seleccionadas, no listados enciclopédicos. Cada artículo está contextualizado, presentando la textura completa de la historia de Taiwán."
+          image="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80"
+          imageAlt="Perspectiva curada sobre Taiwán"
+        />
+        <WhyCard
+          title="Diseño AI-Friendly"
+          description="Contenido estructurado en Markdown que permite a los modelos de IA comprender la complejidad de Taiwán. Desde llms.txt hasta marcado semántico, cada decisión de diseño facilita que las máquinas entiendan y difundan el conocimiento."
+          image="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80"
+          imageAlt="Contenido estructurado AI-friendly"
+          reversed={true}
+        />
+        <WhyCard
+          title="Visión Multilingüe Global"
+          description="Partiendo de perspectivas locales, contando la historia de Taiwán en idiomas globales. Chino Tradicional, inglés, español — permitiendo que el mundo escuche la propia voz de Taiwán."
+          image="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=600&q=80"
+          imageAlt="Perspectiva internacional multilingüe"
+        />
+        <WhyCard
+          title="Multidimensional Completo"
+          description="Cubriendo más de 12 áreas temáticas, presentando el panorama tridimensional completo de Taiwán. Desde semiconductores hasta la cultura de los mercados nocturnos, desde la democratización hasta las leyendas indígenas — sin simplificaciones."
+          image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=600&q=80"
+          imageAlt="Cobertura multidimensional completa"
+          reversed={true}
+        />
+      </div>
+      <div class="flex flex-wrap justify-center gap-5 mt-16">
+        <a href="/es/graph" class="btn-primary">Grafo del Conocimiento</a>
+        <a href="https://github.com/frank890417/taiwan-md/tree/main/knowledge" target="_blank" rel="noopener noreferrer" class="btn-secondary">Explorar Datos Fuente</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="py-28 px-6 animate-on-scroll" id="categories">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Explorar</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">Descubre Taiwán</h2>
+    </div>
+
+    <div class="max-w-3xl mx-auto mb-16 space-y-5 text-forest-600 leading-loose text-base">
+      <p>
+        Esta isla abarca apenas 36,000 kilómetros cuadrados, pero contiene un microcosmos del mundo entero.
+        Desde la cima de 3,952 metros del Yushan hasta las fosas abisales del Pacífico,
+        <a href="/es/geography" class="text-teal font-semibold no-underline border-none hover:text-teal-600">la geografía aquí</a> es una transmisión en vivo de la formación de montañas.
+      </p>
+      <p>
+        Hace cuatrocientos años, los holandeses construyeron el Fuerte Zeelandia en Tainan. Pero lo que verdaderamente hace a Taiwán ser Taiwán es
+        <a href="/es/history" class="text-teal font-semibold no-underline border-none hover:text-teal-600">ese largo despertar</a> del autoritarismo a la democracia.
+        Cada momento de dolor y resistencia ha hecho más clara el alma de esta isla.
+      </p>
+      <p>
+        <a href="/es/culture" class="text-teal font-semibold no-underline border-none hover:text-teal-600">La cultura de Taiwán</a> no es un crisol, sino un rompecabezas —
+        cada pieza mantiene su propio color y forma, ensambladas en una imagen sin precedentes.
+      </p>
+      <p>
+        Entra en cualquier mercado nocturno de Taiwán, y <a href="/es/food" class="text-teal font-semibold no-underline border-none hover:text-teal-600">los sabores de esta isla</a> son
+        la versión gustativa de su historia de inmigración. Los taiwaneses cuentan historias a través de la comida, preservan memorias a través de la cocina.
+      </p>
+      <p>
+        Las obleas de TSMC no son solo chips de silicio, sino prueba de la posición de Taiwán en el mapa tecnológico global.
+        <a href="/es/technology" class="text-teal font-semibold no-underline border-none hover:text-teal-600">Esta isla tecnológica</a> ha evolucionado de la manufactura por contrato a la I+D innovadora.
+      </p>
+    </div>
+
+    <div class="flex items-center gap-4 max-w-7xl mx-auto mb-10">
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+      <span class="text-sm text-forest-400 font-medium">Navegación Rápida</span>
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+    </div>
+
+    <TopicsMasonry lang={lang} />
+  </section>
+
+  <!-- Traditional Chinese Statement -->
+  <section class="py-24 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6 text-center">
+      <h3 class="text-2xl font-serif font-bold text-forest mb-6 leading-heading">¿Por qué Chino Tradicional?</h3>
+      <div class="text-forest-600 leading-loose space-y-4 text-left">
+        <p>Taiwan.md elige el <strong class="text-forest">Chino Tradicional</strong> como idioma predeterminado — no es solo una decisión técnica, es una declaración cultural.</p>
+        <p>El Chino Tradicional es uno de los sistemas de escritura más antiguos del mundo que aún se usa en la vida cotidiana, y Taiwán es la única región importante a nivel global que utiliza el Chino Tradicional como escritura oficial.</p>
+        <p class="text-sm text-forest-400 italic">
+          Taiwán usa el Chino Tradicional — el sistema de escritura más antiguo del mundo aún en uso cotidiano,
+          y Taiwán es su último gran hogar. Creemos que nuestro idioma y cultura merecen ser vistos y comprendidos.
+          Esta versión en español sirve como puente para ayudar al mundo a descubrir la riqueza de Taiwán.
+          También tenemos una <a href="/" class="text-teal">中文版本</a> y una <a href="/en" class="text-teal">versión en inglés</a>.
         </p>
-        <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" class="text-teal font-semibold hover:text-teal-600 transition-colors">
-          Ayúdanos a traducir →
-        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Recent Updates -->
+  {recentCommits.length > 0 && (
+    <section class="py-20 px-6">
+      <div class="max-w-3xl mx-auto">
+        <div class="text-center mb-10">
+          <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-2">Actualizaciones en Vivo</p>
+          <h2 class="text-2xl font-serif font-bold text-forest">Últimas Actualizaciones</h2>
+          <p class="text-sm text-forest-400 mt-2">Taiwan.md está creciendo</p>
+        </div>
+        <div class="space-y-3">
+          {recentCommits.slice(0, 3).map(commit => (
+            <a href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`} target="_blank" rel="noopener noreferrer"
+               class="flex items-center gap-4 p-4 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/20 hover:shadow-card transition-all no-underline">
+              <span class="text-lg">{commitIcon(commit.message)}</span>
+              <span class="flex-1 text-sm text-forest truncate">{commit.message}</span>
+              <span class="flex-shrink-0 text-xs text-forest-400 bg-forest-50 px-3 py-1.5 rounded-full">{timeAgo(commit.date)}</span>
+            </a>
+          ))}
+        </div>
       </div>
     </section>
   )}
+
+  <!-- Newsletter -->
+  <iframe name="newsletter-iframe" style="display:none;"></iframe>
+  <section class="py-24 bg-forest text-white">
+    <div class="max-w-3xl mx-auto px-6">
+      <div class="text-center md:text-left md:flex md:items-center md:justify-between md:gap-12">
+        <div class="mb-8 md:mb-0">
+          <h2 class="text-2xl font-serif font-bold mb-2">Suscríbete a Taiwan.md</h2>
+          <p class="text-cream-200/80 text-sm">Recibe las mejores historias de Taiwán en tu bandeja de entrada.</p>
+        </div>
+        <form id="newsletter-form"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse"
+              method="POST" target="newsletter-iframe" class="flex-1 max-w-md">
+          <div class="flex flex-col sm:flex-row gap-3">
+            <input type="email" name="entry.1578963213" placeholder="tu@email.com" required
+                   class="flex-1 px-5 py-3 rounded-full bg-white/10 border border-white/20 text-white placeholder-white/40 text-sm focus:outline-none focus:ring-2 focus:ring-teal/50" />
+            <button type="submit" class="px-5 sm:px-7 py-3 bg-teal text-white rounded-full font-semibold text-sm hover:bg-teal-600 transition-colors whitespace-nowrap">Suscribirse</button>
+          </div>
+        </form>
+      </div>
+      <div id="newsletter-success" class="hidden mt-6 text-teal-200 font-semibold text-center md:text-left">¡Gracias por suscribirte!</div>
+      <p class="text-xs text-cream-300/60 mt-4 text-center md:text-left">Sin spam, cancela en cualquier momento.</p>
+    </div>
+  </section>
+
+  <!-- Contribute -->
+  <section class="py-28 px-6 text-center animate-on-scroll">
+    <div class="max-w-2xl mx-auto">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Código Abierto</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-4 leading-heading">Únete a Nosotros</h2>
+      <p class="text-forest-400 text-lg mb-10">Taiwan.md es un proyecto de código abierto impulsado por la comunidad. Tanto si eres taiwanés local como un amigo internacional interesado en Taiwán, damos la bienvenida a tus conocimientos y perspectivas.</p>
+      <div class="flex flex-wrap justify-center gap-5">
+        <a href="/en/contribute" class="inline-flex items-center gap-2.5 px-10 py-4 bg-teal text-white font-semibold text-lg rounded-full hover:bg-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5">
+          Guía de Contribución
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
+        <a href="https://github.com/frank890417/taiwan-md" class="inline-flex items-center gap-2.5 px-10 py-4 bg-forest/5 text-forest font-semibold text-lg rounded-full border border-forest/15 hover:bg-forest/10 transition-all duration-300" target="_blank" rel="noopener noreferrer">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          Proyecto en GitHub
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <WelcomeModal lang={lang} />
+  <SideTools lang={lang} />
 </Layout>
+
+<script is:inline define:vars={{ randomArticlesData }}>
+  function initRandomDiscovery() {
+    var randomBtn = document.getElementById('random-discovery-btn');
+    if (!randomBtn || randomBtn.__randomInit) return;
+    randomBtn.__randomInit = true;
+
+    var articles = [];
+    try { articles = JSON.parse(randomArticlesData); } catch(e) {}
+
+    if (articles.length > 0) {
+      var shuffled = articles.slice();
+      for (var i = shuffled.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+      }
+      var currentIndex = 0;
+
+      randomBtn.addEventListener('click', function() {
+        if (currentIndex >= shuffled.length) {
+          currentIndex = 0;
+          for (var i = shuffled.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+          }
+        }
+        var article = shuffled[currentIndex++];
+        var textEl = randomBtn.querySelector('.random-text');
+        var subtitleEl = randomBtn.querySelector('.random-subtitle');
+        randomBtn.style.pointerEvents = 'none';
+        var ticks = 0;
+        var interval = setInterval(function() {
+          var preview = shuffled[Math.floor(Math.random() * shuffled.length)];
+          if (textEl) textEl.textContent = preview.title;
+          if (subtitleEl) subtitleEl.textContent = preview.category;
+          ticks++;
+          if (ticks >= 8) {
+            clearInterval(interval);
+            if (textEl) textEl.textContent = article.title;
+            if (subtitleEl) subtitleEl.textContent = article.category;
+            setTimeout(function() { window.location.href = article.url; }, 400);
+          }
+        }, 80);
+      });
+    }
+  }
+
+  function initNewsletter() {
+    var form = document.getElementById('newsletter-form');
+    if (!form || form.__newsletterInit) return;
+    form.__newsletterInit = true;
+    form.addEventListener('submit', function() {
+      setTimeout(function() {
+        var el = document.getElementById('newsletter-success');
+        if (el) el.classList.remove('hidden');
+      }, 500);
+    });
+  }
+
+  initRandomDiscovery();
+  initNewsletter();
+  document.addEventListener('astro:page-load', function() {
+    initRandomDiscovery();
+    initNewsletter();
+  });
+</script>

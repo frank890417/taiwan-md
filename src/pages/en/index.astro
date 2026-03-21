@@ -1,6 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import CategoryGrid from '../../components/CategoryGrid.astro';
+import TopicsMasonry from '../../components/TopicsMasonry.astro';
 import HeroSection from '../../components/HeroSection.astro';
 import JourneyCard from '../../components/JourneyCard.astro';
 import WhyCard from '../../components/WhyCard.astro';
@@ -321,7 +321,7 @@ const randomArticlesData = JSON.stringify(allArticles);
       <div class="flex-1 h-px bg-forest-100/50"></div>
     </div>
 
-    <CategoryGrid lang={lang} />
+    <TopicsMasonry lang={lang} />
   </section>
 
   <!-- Traditional Chinese Statement -->
