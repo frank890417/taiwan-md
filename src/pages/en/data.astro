@@ -1,5 +1,1256 @@
 ---
-import DataTemplate from '../../templates/data.template.astro';
+import Layout from '../../layouts/Layout.astro';
+
+// Taiwan Top 50 Companies (Market Cap/Revenue in billion TWD)
+// Data Source: TWSE, Company Reports, Market Data (2025)
+const companies = [
+  { name: 'Taiwan Semiconductor 台積電', sector: 'Semiconductor', marketCap: 267000, revenue: 29100, employees: 76000, founded: 1987, ticker: '2330' },
+  { name: 'Hon Hai Foxconn 鴻海', sector: 'Electronics Manufacturing', marketCap: 22000, revenue: 67800, employees: 870000, founded: 1974, ticker: '2317' },
+  { name: 'MediaTek 聯發科', sector: 'Semiconductor', marketCap: 21000, revenue: 6130, employees: 20000, founded: 1997, ticker: '2454' },
+  { name: 'Delta Electronics 台達電', sector: 'Electronic Components', marketCap: 16000, revenue: 4520, employees: 80000, founded: 1971, ticker: '2308' },
+  { name: 'ASE Group 日月光', sector: 'Semiconductor', marketCap: 9500, revenue: 6580, employees: 98000, founded: 1984, ticker: '3711' },
+  { name: 'Quanta Computer 廣達', sector: 'Electronics Manufacturing', marketCap: 9200, revenue: 14800, employees: 90000, founded: 1988, ticker: '2382' },
+  { name: 'Cathay Financial 國泰金控', sector: 'Financial', marketCap: 8600, revenue: 11500, employees: 55000, founded: 2001, ticker: '2882' },
+  { name: 'Fubon Financial 富邦金控', sector: 'Financial', marketCap: 8500, revenue: 10800, employees: 48000, founded: 2001, ticker: '2881' },
+  { name: 'Chunghwa Telecom 中華電信', sector: 'Telecommunications', marketCap: 8200, revenue: 2390, employees: 23000, founded: 1996, ticker: '2412' },
+  { name: 'UMC 聯電', sector: 'Semiconductor', marketCap: 6000, revenue: 2450, employees: 20000, founded: 1980, ticker: '2303' },
+  { name: 'Uni-President 統一企業', sector: 'Food & Beverage', marketCap: 5800, revenue: 5250, employees: 30000, founded: 1967, ticker: '1216' },
+  { name: 'Evergreen Marine 長榮海運', sector: 'Shipping', marketCap: 5500, revenue: 5620, employees: 10000, founded: 1968, ticker: '2603' },
+  { name: 'ASUSTeK 華碩', sector: 'Computer Brand', marketCap: 5200, revenue: 5360, employees: 17000, founded: 1989, ticker: '2357' },
+  { name: 'Pegatron 和碩', sector: 'Electronics Manufacturing', marketCap: 4600, revenue: 14200, employees: 170000, founded: 2008, ticker: '4938' },
+  { name: 'Formosa Petrochemical 台塑化', sector: 'Petrochemical', marketCap: 4400, revenue: 8120, employees: 6000, founded: 1992, ticker: '6505' },
+  { name: 'Mega Financial 兆豐金控', sector: 'Financial', marketCap: 4200, revenue: 2190, employees: 10000, founded: 2002, ticker: '2886' },
+  { name: 'China Steel 中鋼', sector: 'Steel', marketCap: 4100, revenue: 4350, employees: 10300, founded: 1971, ticker: '2002' },
+  { name: 'Taiwan Mobile 台灣大哥大', sector: 'Telecommunications', marketCap: 4000, revenue: 1580, employees: 7000, founded: 1997, ticker: '3045' },
+  { name: 'Realtek 瑞昱', sector: 'Semiconductor', marketCap: 3900, revenue: 1580, employees: 5000, founded: 1987, ticker: '2379' },
+  { name: 'Advantech 研華', sector: 'Industrial Computer', marketCap: 3800, revenue: 680, employees: 9000, founded: 1983, ticker: '2395' },
+  { name: 'Formosa Plastics 台塑', sector: 'Petrochemical', marketCap: 3600, revenue: 5080, employees: 8500, founded: 1954, ticker: '1301' },
+  { name: 'Wistron 緯創', sector: 'Electronics Manufacturing', marketCap: 3500, revenue: 10600, employees: 77000, founded: 2001, ticker: '3231' },
+  { name: 'Nan Ya Plastics 南亞塑膠', sector: 'Petrochemical', marketCap: 3400, revenue: 3650, employees: 13000, founded: 1958, ticker: '1303' },
+  { name: 'Compal Electronics 仁寶', sector: 'Electronics Manufacturing', marketCap: 3300, revenue: 11900, employees: 77000, founded: 1984, ticker: '2324' },
+  { name: 'Largan Precision 大立光', sector: 'Optics', marketCap: 3200, revenue: 680, employees: 8000, founded: 1987, ticker: '3008' },
+  { name: 'Acer 宏碁', sector: 'Computer Brand', marketCap: 3100, revenue: 3150, employees: 7000, founded: 1976, ticker: '2353' },
+  { name: 'E.Sun Financial 玉山金控', sector: 'Financial', marketCap: 3000, revenue: 1190, employees: 13000, founded: 2002, ticker: '2884' },
+  { name: 'Taiwan Cement 台泥', sector: 'Cement', marketCap: 2900, revenue: 1350, employees: 16000, founded: 1946, ticker: '1101' },
+  { name: 'Far Eastern New Century 遠東新世紀', sector: 'Textile/Fiber', marketCap: 2800, revenue: 2950, employees: 35000, founded: 1949, ticker: '1402' },
+  { name: 'CTBC Financial 中信金控', sector: 'Financial', marketCap: 2700, revenue: 5800, employees: 28000, founded: 2002, ticker: '2891' },
+  { name: 'Yuanta Financial 元大金控', sector: 'Financial', marketCap: 2600, revenue: 2100, employees: 11000, founded: 2002, ticker: '2885' },
+  { name: 'Giant Manufacturing 巨大', sector: 'Bicycle', marketCap: 2500, revenue: 960, employees: 12000, founded: 1972, ticker: '9921' },
+  { name: 'First Financial 第一金控', sector: 'Financial', marketCap: 2400, revenue: 1450, employees: 10000, founded: 2003, ticker: '2892' },
+  { name: 'Formosa Chemicals 台化', sector: 'Petrochemical', marketCap: 2300, revenue: 3280, employees: 5500, founded: 1965, ticker: '1326' },
+  { name: 'FarEasTone 遠傳電信', sector: 'Telecommunications', marketCap: 2200, revenue: 1080, employees: 6000, founded: 1997, ticker: '4904' },
+  { name: 'Hua Nan Financial 華南金控', sector: 'Financial', marketCap: 2100, revenue: 1350, employees: 12000, founded: 2001, ticker: '2880' },
+  { name: 'Lite-On Technology 光寶科技', sector: 'Electronic Components', marketCap: 2000, revenue: 2170, employees: 40000, founded: 1975, ticker: '2301' },
+  { name: 'Taiwan Cooperative Bank 合庫金控', sector: 'Financial', marketCap: 1950, revenue: 1280, employees: 10000, founded: 2011, ticker: '5880' },
+  { name: 'Catcher Technology 可成科技', sector: 'Casing', marketCap: 1900, revenue: 850, employees: 6000, founded: 1984, ticker: '2474' },
+  { name: 'Taiwan High Speed Rail 台灣高鐵', sector: 'Transportation', marketCap: 1850, revenue: 580, employees: 7000, founded: 1998, ticker: '2633' },
+  { name: 'HTC 宏達電', sector: 'Consumer Electronics', marketCap: 1800, revenue: 480, employees: 5000, founded: 1997, ticker: '2498' },
+  { name: 'Chang Chun Petrochemical 長春石化', sector: 'Petrochemical', marketCap: 1750, revenue: 1200, employees: 7000, founded: 1949, ticker: 'Private' },
+  { name: 'Chi Mei Corporation 奇美實業', sector: 'Petrochemical/Panel', marketCap: 1700, revenue: 1100, employees: 6000, founded: 1960, ticker: 'Private' },
+  { name: 'Wiwynn 緯穎科技', sector: 'Server', marketCap: 1650, revenue: 2850, employees: 2000, founded: 2012, ticker: '6669' },
+  { name: 'Powerchip Semiconductor 力積電', sector: 'Semiconductor', marketCap: 1600, revenue: 620, employees: 8000, founded: 1994, ticker: '6770' },
+  { name: 'Unimicron Technology 欣興電子', sector: 'PCB', marketCap: 1550, revenue: 1350, employees: 30000, founded: 1990, ticker: '3037' },
+  { name: 'Silergy 矽力-KY', sector: 'Semiconductor', marketCap: 1500, revenue: 620, employees: 3000, founded: 2008, ticker: '6415' },
+  { name: 'Inventec 英業達', sector: 'Electronics Manufacturing', marketCap: 1450, revenue: 5890, employees: 50000, founded: 1975, ticker: '2356' },
+  { name: 'HIWIN Technologies 上銀科技', sector: 'Precision Machinery', marketCap: 1400, revenue: 320, employees: 7000, founded: 1989, ticker: '2049' },
+  { name: 'Novatek 聯詠科技', sector: 'Semiconductor', marketCap: 1350, revenue: 1120, employees: 3000, founded: 1997, ticker: '3034' },
+];
+
+const sectorColors: Record<string, string> = {
+  'Semiconductor': '#3b82f6',
+  'Electronics Manufacturing': '#f59e0b',
+  'Financial': '#10b981',
+  'Petrochemical': '#8b5cf6',
+  'Electronic Components': '#06b6d4',
+  'Telecommunications': '#ec4899',
+  'Food & Beverage': '#f97316',
+  'Shipping': '#0ea5e9',
+  'Computer Brand': '#6366f1',
+  'Steel': '#64748b',
+  'Cement': '#a78bfa',
+  'Optics': '#14b8a6',
+  'Bicycle': '#22c55e',
+  'Textile/Fiber': '#d946ef',
+  'Transportation': '#0891b2',
+  'Consumer Electronics': '#e11d48',
+  'Industrial Computer': '#2563eb',
+  'Casing': '#7c3aed',
+  'Petrochemical/Panel': '#9333ea',
+  'Server': '#0284c7',
+  'PCB': '#059669',
+  'Precision Machinery': '#b45309',
+};
+
+const sectors = [...new Set(companies.map(c => c.sector))];
+
+const categories = [
+  {
+    icon: '',
+    title: 'Government Open Data',
+    description: 'Structured datasets and statistical platforms released by government agencies',
+    items: [
+      {
+        name: 'Government Open Data Platform',
+        url: 'https://data.gov.tw/',
+        desc: 'Central open data portal with tens of thousands of datasets',
+      },
+      {
+        name: 'DGBAS Statistical Database',
+        url: 'https://statdb.dgbas.gov.tw/',
+        desc: 'Population, economy, price indices and core national statistics',
+      },
+      {
+        name: 'CEC Election Database',
+        url: 'https://db.cec.gov.tw/',
+        desc: 'Historical election results and voting data',
+      },
+      {
+        name: 'Laws & Regulations Database',
+        url: 'https://law.moj.gov.tw/',
+        desc: 'Full-text search of all laws, orders, and judicial precedents',
+      },
+      {
+        name: 'Air Quality Monitoring Network',
+        url: 'https://airtw.moenv.gov.tw/',
+        desc: 'Real-time AQI and PM2.5 monitoring data',
+      },
+    ],
+  },
+  {
+    icon: '',
+    title: 'Interactive Maps & Visualization',
+    description: 'Real-time monitoring, geographic data, and environmental visualization tools',
+    items: [
+      {
+        name: 'Taiwan Submarine Cable Map',
+        url: 'https://smc.peering.tw/',
+        desc: 'Community-built real-time submarine cable monitoring — a civic tech exemplar',
+      },
+      {
+        name: 'NLSC Map Service',
+        url: 'https://maps.nlsc.gov.tw/',
+        desc: 'National land survey maps, aerial photos, and cadastral data',
+      },
+      {
+        name: 'Seismological Center',
+        url: 'https://scweb.cwa.gov.tw/',
+        desc: 'Real-time earthquake information and historical records',
+      },
+      {
+        name: 'WRA Disaster Prevention',
+        url: 'https://fhy.wra.gov.tw/',
+        desc: 'Real-time water levels, river monitoring, and reservoir data',
+      },
+      {
+        name: 'Environmental Monitoring',
+        url: 'https://env.gov.tw/',
+        desc: 'Air quality, UV index, and water quality real-time monitoring',
+      },
+    ],
+  },
+  {
+    icon: '',
+    title: 'Civic Tech',
+    description: 'Open source communities, fact-checking, and digital democracy tools',
+    items: [
+      {
+        name: 'g0v (gov-zero)',
+        url: 'https://g0v.tw/',
+        desc: "Taiwan's largest open-source civic tech community",
+      },
+      {
+        name: 'g0v Hackathon Events',
+        url: 'https://g0v-jothon.kktix.cc/',
+        desc: 'Bimonthly hackathons and open data community events',
+      },
+      {
+        name: 'Cofacts',
+        url: 'https://cofacts.tw/',
+        desc: 'Collaborative fact-checking chatbot for messaging apps',
+      },
+      {
+        name: 'vTaiwan',
+        url: 'https://vtaiwan.tw/',
+        desc: 'Digital democracy platform for public policy deliberation',
+      },
+      {
+        name: 'JOIN Platform',
+        url: 'https://join.gov.tw/',
+        desc: 'Government proposals, petitions, and policy discussions',
+      },
+    ],
+  },
+  {
+    icon: '',
+    title: 'Data Journalism & Fact-Checking',
+    description: 'Investigative reporting, fact-checking organizations, and data-driven media',
+    items: [
+      {
+        name: 'The Reporter',
+        url: 'https://www.twreporter.org/',
+        desc: "Taiwan's leading non-profit investigative journalism outlet",
+      },
+      {
+        name: 'Taiwan FactCheck Center',
+        url: 'https://tfc-taiwan.org.tw/',
+        desc: 'IFCN-certified fact-checking organization',
+      },
+      {
+        name: 'READr',
+        url: 'https://www.readr.tw/',
+        desc: 'Data journalism and open data visualization',
+      },
+      {
+        name: 'ARTouch',
+        url: 'https://artouch.com/',
+        desc: "Taiwan's premier art news and criticism platform",
+      },
+    ],
+  },
+  {
+    icon: '',
+    title: 'Academic & Research',
+    description: 'Digital archives, ecological data, and AI training corpora',
+    items: [
+      {
+        name: 'Academia Sinica Open Museum',
+        url: 'https://openmuseum.tw/',
+        desc: 'Digital archives and online curation',
+      },
+      {
+        name: 'National Cultural Memory Bank',
+        url: 'https://tcmb.culture.tw/',
+        desc: 'Digital preservation of Taiwanese cultural memory',
+      },
+      {
+        name: 'Taiwan Biodiversity Network',
+        url: 'https://tbn.biodiv.tw/',
+        desc: 'Species distribution and ecological observation data',
+      },
+      {
+        name: 'TAIC — Taiwan AI Corpus',
+        url: 'https://huggingface.co/TAIDE',
+        desc: "Taiwan's sovereign AI training dataset",
+      },
+    ],
+  },
+];
 ---
 
-<DataTemplate />
+<Layout
+  title="📊 Data Taiwan — Understanding an Island Through Numbers"
+  description="Taiwan's enterprise landscape, SVG resources, open data platforms, civic tech tools, and digital democracy resources"
+>
+  <div class="data-page">
+    <div class="container">
+      <!-- Hero -->
+      <section class="hero">
+        <h1 class="hero-title">📊 Data Taiwan — Understanding an Island Through Numbers</h1>
+        <p class="hero-subtitle">
+          From enterprise powerhouses to open data platforms — explore Taiwan through curated data storytelling
+        </p>
+      </section>
+
+      <!-- Act 2: Enterprise Landscape -->
+      <section class="enterprise-section">
+        <article class="story-block">
+          <h2 class="story-title">🏢 Enterprise Landscape — How Does One Country Power the Global Supply Chain?</h2>
+          <p>
+            Taiwan punches far above its weight in the global economy. This country of 23 million people produces over 60% of the world's semiconductors, 
+            92% of the most advanced chips, and houses the supply chain nerve center for everything from iPhones to Tesla vehicles.
+          </p>
+          <p>
+            The interactive bubble chart below reveals Taiwan's economic DNA — where <strong>TSMC alone represents 39% of Taiwan's total market capitalization</strong>, 
+            equivalent to the combined value of two-thirds of all other listed companies. Behind the "Silicon Shield" narrative lies a concentrated ecosystem 
+            of precision manufacturing, from Foxconn's massive electronics assembly to ASE's semiconductor packaging empire.
+          </p>
+          <p>Bubble size represents market cap; color indicates sector. Drag to explore, filter by industry, or toggle between market cap/revenue/employee count.</p>
+        </article>
+
+        <div class="controls">
+          <div class="size-toggle">
+            <label>Bubble size by:</label>
+            <button class="toggle-btn active" data-mode="marketCap">Market Cap</button>
+            <button class="toggle-btn" data-mode="revenue">Revenue</button>
+            <button class="toggle-btn" data-mode="employees">Employees</button>
+          </div>
+          <div class="sector-filters">
+            <button class="sector-btn active" data-sector="all">All</button>
+            {sectors.map(s => (
+              <button
+                class="sector-btn"
+                data-sector={s}
+                style={`--sector-color: ${sectorColors[s] || '#888'}`}
+              >
+                <span class="sector-dot" style={`background: ${sectorColors[s] || '#888'}`}></span>
+                {s}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div id="bubble-chart"></div>
+
+        <div class="insights">
+          <h3>🔍 Key Insights</h3>
+          <div class="insight-grid">
+            <div class="insight-card">
+              <div class="insight-number">39%</div>
+              <div class="insight-label">TSMC's share of Taiwan's total market cap</div>
+              <div class="insight-detail">One company ≈ 2/3 of 1,000+ other listed companies</div>
+            </div>
+            <div class="insight-card">
+              <div class="insight-number">72%</div>
+              <div class="insight-label">Top 50 companies' share of total market cap</div>
+              <div class="insight-detail">Taiwan's stock market highly concentrated in large enterprises</div>
+            </div>
+            <div class="insight-card">
+              <div class="insight-number">12</div>
+              <div class="insight-label">Semiconductor-related companies in top 50</div>
+              <div class="insight-detail">Cementing the "Silicon Shield" — semiconductors are Taiwan's national defense</div>
+            </div>
+            <div class="insight-card">
+              <div class="insight-number">9</div>
+              <div class="insight-label">Financial institutions in top 50</div>
+              <div class="insight-detail">Post-consolidation, financial sector provides stability</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="action-link">
+          <a href="/economy" class="btn-action">View full ranking →</a>
+        </div>
+      </section>
+
+      <!-- Act 3: The Shape of Taiwan -->
+      <section class="svg-section">
+        <article class="story-block">
+          <h2 class="story-title">🗺️ The Shape of Taiwan — AI Can't Draw Taiwan Correctly. Here's the Real Version.</h2>
+          <p>
+            Most AI image generation models lack structured geographic data for Taiwan in their training sets. 
+            The result: AI-generated images of Taiwan are often distorted, disproportionate, or confused with other islands.
+          </p>
+          <p>
+            Taiwan.md provides <strong>accurate, open-source, freely usable</strong> SVG outlines — a definitive answer 
+            for every scenario that needs to know "what does Taiwan look like."
+          </p>
+        </article>
+
+        <div class="svg-grid">
+          <div class="svg-card">
+            <div class="svg-preview">
+              <img src="/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan Icon" />
+            </div>
+            <div class="svg-info">
+              <h4>taiwan-icon.svg</h4>
+              <p class="svg-desc">Simple outline — Best for icons, logos, small sizes</p>
+              <div class="svg-actions">
+                <a href="/assets/svg/taiwan-icon-wiki.svg" download class="btn-svg">Download</a>
+                <button class="btn-svg" onclick="copySVG('taiwan-icon-wiki.svg', this)">Copy SVG</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="svg-card">
+            <div class="svg-preview">
+              <img src="/assets/svg/taiwan-simplemaps.svg" alt="Taiwan SimpleMaps" />
+            </div>
+            <div class="svg-info">
+              <h4>taiwan-simplemaps.svg</h4>
+              <p class="svg-desc">Clean vector — Great for web embedding</p>
+              <div class="svg-actions">
+                <a href="/assets/svg/taiwan-simplemaps.svg" download class="btn-svg">Download</a>
+                <button class="btn-svg" onclick="copySVG('taiwan-simplemaps.svg', this)">Copy SVG</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="svg-card">
+            <div class="svg-preview">
+              <img src="/assets/svg/taiwan-location-map.svg" alt="Taiwan Location Map" />
+            </div>
+            <div class="svg-info">
+              <h4>taiwan-location-map.svg</h4>
+              <p class="svg-desc">With coordinates — Ideal for geographic reference</p>
+              <div class="svg-actions">
+                <a href="/assets/svg/taiwan-location-map.svg" download class="btn-svg">Download</a>
+                <button class="btn-svg" onclick="copySVG('taiwan-location-map.svg', this)">Copy SVG</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="svg-card">
+            <div class="svg-preview">
+              <img src="/assets/svg/taiwan-political-division.svg" alt="Taiwan Political Division" />
+            </div>
+            <div class="svg-info">
+              <h4>taiwan-political-division.svg</h4>
+              <p class="svg-desc">Administrative regions — County/city boundaries</p>
+              <div class="svg-actions">
+                <a href="/assets/svg/taiwan-political-division.svg" download class="btn-svg">Download</a>
+                <button class="btn-svg" onclick="copySVG('taiwan-political-division.svg', this)">Copy SVG</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="usage-example">
+          <h4>📝 Usage</h4>
+          <div class="code-block">
+            <pre><code>&lt;!-- Embed directly --&gt;
+&lt;img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200"&gt;
+
+&lt;!-- As CSS background --&gt;
+background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
+
+&lt;!-- In Markdown --&gt;
+![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)</code></pre>
+          </div>
+          <p class="license-note">
+            <strong>License:</strong> All SVG files under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. 
+            Free to use, modify, and use commercially — just give attribution.
+          </p>
+        </div>
+
+        <div class="action-link">
+          <a href="/en/assets" class="btn-action">Browse all SVG assets →</a>
+        </div>
+      </section>
+
+      <!-- Act 4: Open Data & Digital Democracy -->
+      <section class="opendata-section">
+        <article class="story-block">
+          <h2 class="story-title">📡 Open Data & Digital Democracy — 30 Years of Digitization, g0v, and the Audrey Tang Effect</h2>
+          <p>
+            Taiwan's digital democracy journey began in 1997 with the "Electronic Government Program," but the real transformation came in 2012 
+            when the Executive Yuan made a pivotal decision: shift from "electronic government" to "open government." The launch of data.gov.tw in 2013 
+            marked Taiwan's entry into the open data era.
+          </p>
+          <p>
+            What makes Taiwan unique is the <strong>g0v (gov-zero) movement</strong> — a civic tech community that doesn't just criticize government, 
+            but rebuilds it. Since 2012, g0v has held over 60 hackathons, generating 900+ projects, from the COVID-19 mask availability map 
+            (600 million queries in peak days) to Cofacts fact-checking bot (100,000+ suspicious messages processed).
+          </p>
+          <p>
+            The 2016 appointment of g0v participant Audrey Tang as Digital Minister institutionalized this collaboration. 
+            Taiwan now leads in "radical transparency" — from PDIS collaborative meetings to vTaiwan's algorithmic consensus-building. 
+            The 2022 establishment of the Ministry of Digital Affairs (moda) elevated digital governance to cabinet level, 
+            pushing initiatives like TAIDE (Taiwan's sovereign AI model) and "digital resilience" (submarine cable backup plans).
+          </p>
+          <p>
+            <strong>Why Taiwan's digital democracy matters:</strong> When citizens can understand data and government releases data, 
+            democracy isn't just about voting every four years — it becomes daily collaboration.
+          </p>
+        </article>
+
+        <div class="categories">
+          {
+            categories.map((cat) => (
+              <section class="category-card">
+                <div class="category-header">
+                  <span class="category-icon">{cat.icon}</span>
+                  <div>
+                    <h3 class="category-title">{cat.title}</h3>
+                    <p class="category-desc">{cat.description}</p>
+                  </div>
+                </div>
+                <ul class="item-list">
+                  {cat.items.map((item) => (
+                    <li class="item">
+                      <a
+                        href={item.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="item-link"
+                      >
+                        {item.name}
+                      </a>
+                      <span class="item-desc">— {item.desc}</span>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- Act 5: Knowledge Graph Preview -->
+      <section class="graph-section">
+        <article class="story-block">
+          <h2 class="story-title">🕸️ Knowledge Graph — Taiwan's Interconnected Landscape</h2>
+          <p>
+            Explore how Taiwan's economy, culture, technology, and society interconnect through our interactive knowledge graph. 
+            From semiconductor supply chains to night market networks, discover the hidden relationships that make Taiwan unique.
+          </p>
+        </article>
+
+        <div class="action-link">
+          <a href="/en/graph" class="btn-action">Explore Knowledge Graph →</a>
+        </div>
+      </section>
+
+      <!-- Footer Links -->
+      <footer class="data-footer">
+        <div class="footer-links">
+          <a href="/economy" class="footer-link">Economy</a>
+          <a href="/en/graph" class="footer-link">Knowledge Graph</a>
+          <a href="/en/contribute" class="footer-link">Contribute</a>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <script define:vars={{ companies, sectorColors }}>
+    const data = companies;
+    const colors = sectorColors;
+
+    const script = document.createElement('script');
+    script.src = 'https://d3js.org/d3.v7.min.js';
+    script.onload = () => initBubbleChart(data, colors);
+    document.head.appendChild(script);
+
+    function initBubbleChart(data, colors) {
+      const container = document.getElementById('bubble-chart');
+      const width = container.clientWidth;
+      const height = Math.max(600, window.innerHeight * 0.6);
+
+      let currentMode = 'marketCap';
+      let currentSector = 'all';
+
+      const svg = d3
+        .select('#bubble-chart')
+        .append('svg')
+        .attr('width', width)
+        .attr('height', height)
+        .attr('viewBox', `0 0 ${width} ${height}`);
+
+      const tooltip = d3
+        .select('#bubble-chart')
+        .append('div')
+        .attr('class', 'tooltip')
+        .style('opacity', 0);
+
+      function getValue(d) {
+        return d[currentMode] || 0;
+      }
+
+      function getRadius(d) {
+        const val = getValue(d);
+        const maxVal = d3.max(data, getValue);
+        const minR = 18;
+        const maxR = Math.min(width, height) * 0.18;
+        return minR + (maxR - minR) * Math.sqrt(val / maxVal);
+      }
+
+      const simulation = d3
+        .forceSimulation(data)
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force('charge', d3.forceManyBody().strength(5))
+        .force(
+          'collision',
+          d3.forceCollide().radius((d) => getRadius(d) + 2).strength(0.8)
+        )
+        .force('x', d3.forceX(width / 2).strength(0.05))
+        .force('y', d3.forceY(height / 2).strength(0.05));
+
+      const nodes = svg
+        .selectAll('g.node')
+        .data(data)
+        .join('g')
+        .attr('class', 'node')
+        .call(
+          d3
+            .drag()
+            .on('start', (e, d) => {
+              if (!e.active) simulation.alphaTarget(0.3).restart();
+              d.fx = d.x;
+              d.fy = d.y;
+            })
+            .on('drag', (e, d) => {
+              d.fx = e.x;
+              d.fy = e.y;
+            })
+            .on('end', (e, d) => {
+              if (!e.active) simulation.alphaTarget(0);
+              d.fx = null;
+              d.fy = null;
+            })
+        );
+
+      const circles = nodes
+        .append('circle')
+        .attr('r', (d) => getRadius(d))
+        .attr('fill', (d) => colors[d.sector] || '#888')
+        .attr('fill-opacity', 0.8)
+        .attr('stroke', (d) => colors[d.sector] || '#888')
+        .attr('stroke-width', 2)
+        .attr('stroke-opacity', 0.3)
+        .style('cursor', 'grab');
+
+      const labels = nodes
+        .append('text')
+        .attr('text-anchor', 'middle')
+        .attr('dominant-baseline', 'central')
+        .attr('fill', '#fff')
+        .attr('font-weight', '600')
+        .attr('pointer-events', 'none')
+        .each(function (d) {
+          const r = getRadius(d);
+          const el = d3.select(this);
+          const shortName = d.name.split(' ')[0];
+          if (r > 50) {
+            el.append('tspan').attr('x', 0).attr('dy', '-0.4em').attr('font-size', `${Math.min(14, r / 4)}px`).text(shortName);
+            el.append('tspan').attr('x', 0).attr('dy', '1.3em').attr('font-size', `${Math.min(11, r / 5)}px`).attr('fill-opacity', 0.8).text(d.marketCap.toLocaleString() + 'B');
+          } else if (r > 28) {
+            el.attr('font-size', `${Math.min(11, r / 3.5)}px`).text(shortName);
+          } else {
+            el.attr('font-size', '9px').text(shortName.slice(0, 3));
+          }
+        });
+
+      nodes
+        .on('mouseover', (e, d) => {
+          const modeLabel = { marketCap: 'Market Cap', revenue: 'Revenue', employees: 'Employees' };
+          tooltip.transition().duration(200).style('opacity', 1);
+          tooltip.html(`
+            <strong>${d.name}</strong><br/>
+            <span style="color:${colors[d.sector]||'#888'}">● ${d.sector}</span><br/>
+            Market Cap: ${d.marketCap.toLocaleString()}B TWD<br/>
+            Revenue: ${d.revenue.toLocaleString()}B TWD<br/>
+            Employees: ${d.employees.toLocaleString()}<br/>
+            Founded: ${d.founded}
+          `)
+            .style('left', e.pageX + 15 + 'px')
+            .style('top', e.pageY - 10 + 'px');
+          d3.select(e.currentTarget).select('circle').attr('fill-opacity', 1).attr('stroke-width', 3);
+        })
+        .on('mouseout', (e) => {
+          tooltip.transition().duration(300).style('opacity', 0);
+          d3.select(e.currentTarget).select('circle').attr('fill-opacity', 0.8).attr('stroke-width', 2);
+        });
+
+      simulation.on('tick', () => {
+        nodes.attr('transform', (d) => {
+          d.x = Math.max(getRadius(d), Math.min(width - getRadius(d), d.x));
+          d.y = Math.max(getRadius(d), Math.min(height - getRadius(d), d.y));
+          return `translate(${d.x},${d.y})`;
+        });
+      });
+
+      // Toggle size mode
+      document.querySelectorAll('.toggle-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.toggle-btn').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentMode = btn.dataset.mode;
+          updateBubbles();
+        });
+      });
+
+      // Sector filter
+      document.querySelectorAll('.sector-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.sector-btn').forEach((b) => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentSector = btn.dataset.sector;
+          updateBubbles();
+        });
+      });
+
+      function updateBubbles() {
+        circles
+          .transition()
+          .duration(600)
+          .attr('r', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return getRadius(d);
+          })
+          .attr('fill-opacity', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return 0.8;
+          });
+
+        labels
+          .transition()
+          .duration(600)
+          .attr('fill-opacity', (d) => {
+            if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+            return 1;
+          });
+
+        simulation
+          .force(
+            'collision',
+            d3.forceCollide().radius((d) => {
+              if (currentSector !== 'all' && d.sector !== currentSector) return 0;
+              return getRadius(d) + 2;
+            }).strength(0.8)
+          )
+          .alpha(0.6)
+          .restart();
+      }
+    }
+
+    // Copy SVG function
+    window.copySVG = async function(filename, btn) {
+      try {
+        const res = await fetch('/assets/svg/' + filename);
+        const text = await res.text();
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = '✅ Copied';
+        setTimeout(() => (btn.textContent = orig), 2000);
+      } catch (e) {
+        btn.textContent = '❌ Failed';
+        setTimeout(() => (btn.textContent = 'Copy SVG'), 2000);
+      }
+    };
+  </script>
+
+  <script is:inline>
+    async function copySVG(filename, btn) {
+      try {
+        const res = await fetch('/assets/svg/' + filename);
+        const text = await res.text();
+        await navigator.clipboard.writeText(text);
+        const orig = btn.textContent;
+        btn.textContent = '✅ Copied';
+        setTimeout(() => (btn.textContent = orig), 2000);
+      } catch (e) {
+        btn.textContent = '❌ Failed';
+        setTimeout(() => (btn.textContent = 'Copy SVG'), 2000);
+      }
+    }
+  </script>
+</Layout>
+
+<style>
+  .data-page {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #e2e8f0;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 4rem 0 3rem;
+  }
+
+  .hero-title {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 900;
+    background: linear-gradient(135deg, #38bdf8, #818cf8, #c084fc);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.15rem;
+    color: #94a3b8;
+    line-height: 1.7;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  /* Sections */
+  .enterprise-section,
+  .svg-section,
+  .opendata-section,
+  .graph-section {
+    margin-bottom: 4rem;
+  }
+
+  /* Story blocks */
+  .story-block {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .story-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+  }
+
+  .story-block p {
+    color: #cbd5e1;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+    font-size: 0.95rem;
+  }
+
+  .story-block strong {
+    color: #60a5fa;
+  }
+
+  /* Bubble Chart Controls */
+  .controls {
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .size-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .size-toggle label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #e2e8f0;
+  }
+
+  .toggle-btn {
+    padding: 0.4rem 1rem;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    color: #cbd5e1;
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+
+  .toggle-btn.active {
+    background: #3b82f6;
+    color: #fff;
+    border-color: #3b82f6;
+  }
+
+  .sector-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .sector-btn {
+    padding: 0.3rem 0.8rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.05);
+    color: #cbd5e1;
+    cursor: pointer;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    transition: all 0.2s;
+  }
+
+  .sector-btn.active {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
+    font-weight: 600;
+    color: #f1f5f9;
+  }
+
+  .sector-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  /* Bubble Chart */
+  #bubble-chart {
+    position: relative;
+    width: 100%;
+    min-height: 600px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.02);
+    margin-bottom: 2rem;
+  }
+
+  #bubble-chart svg {
+    display: block;
+  }
+
+  :global(.tooltip) {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.9);
+    color: #fff;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    pointer-events: none;
+    z-index: 100;
+    max-width: 280px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  /* Insights */
+  .insights {
+    margin-top: 2rem;
+  }
+
+  .insights h3 {
+    color: #f8fafc;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+  }
+
+  .insight-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+
+  .insight-card {
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .insight-number {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #60a5fa;
+  }
+
+  .insight-label {
+    font-weight: 600;
+    margin-top: 0.3rem;
+    color: #f1f5f9;
+  }
+
+  .insight-detail {
+    font-size: 0.8rem;
+    color: #94a3b8;
+    margin-top: 0.3rem;
+  }
+
+  /* SVG Grid */
+  .svg-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+
+  .svg-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+  }
+
+  .svg-preview {
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+    background: rgba(255, 255, 255, 0.02);
+    border-radius: 8px;
+  }
+
+  .svg-preview img {
+    max-height: 100px;
+    max-width: 80px;
+  }
+
+  .svg-info h4 {
+    color: #f1f5f9;
+    margin-bottom: 0.5rem;
+    font-family: 'Courier New', monospace;
+    font-size: 0.9rem;
+  }
+
+  .svg-desc {
+    color: #94a3b8;
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+  }
+
+  .svg-actions {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-svg {
+    padding: 0.4rem 0.8rem;
+    background: rgba(255, 255, 255, 0.06);
+    color: #cbd5e1;
+    text-decoration: none;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .btn-svg:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #f1f5f9;
+  }
+
+  /* Usage Example */
+  .usage-example {
+    margin-top: 2rem;
+  }
+
+  .usage-example h4 {
+    color: #f1f5f9;
+    margin-bottom: 0.8rem;
+  }
+
+  .code-block {
+    background: #0d1117;
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .code-block code {
+    color: #e6edf3;
+    font-size: 0.8rem;
+    line-height: 1.6;
+    white-space: pre;
+  }
+
+  .license-note {
+    font-size: 0.85rem;
+    color: #94a3b8;
+  }
+
+  .license-note a {
+    color: #60a5fa;
+  }
+
+  /* Categories */
+  .categories {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .category-card {
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 2rem;
+    transition: border-color 0.2s ease;
+  }
+
+  .category-card:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .category-header {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .category-icon {
+    font-size: 2rem;
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .category-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: #f1f5f9;
+    margin-bottom: 0.25rem;
+  }
+
+  .category-desc {
+    font-size: 0.9rem;
+    color: #64748b;
+    line-height: 1.5;
+  }
+
+  .item-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .item {
+    padding: 0.6rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    line-height: 1.6;
+  }
+
+  .item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .item-link {
+    color: #7dd3fc !important;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+  }
+
+  .item-link:hover {
+    color: #bae6fd !important;
+    border-bottom-color: #bae6fd;
+  }
+
+  .item-desc {
+    color: #cbd5e1;
+    font-size: 0.9rem;
+  }
+
+  /* Action Links */
+  .action-link {
+    text-align: center;
+    margin-top: 2rem;
+  }
+
+  .btn-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+  }
+
+  .btn-action:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 25px rgba(59, 130, 246, 0.3);
+  }
+
+  /* Footer */
+  .data-footer {
+    margin-top: 4rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .footer-link {
+    color: #94a3b8;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s;
+  }
+
+  .footer-link:hover {
+    color: #e2e8f0;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+
+    .hero {
+      padding: 2.5rem 0 2rem;
+    }
+
+    .story-block {
+      padding: 1.5rem;
+    }
+
+    .category-card {
+      padding: 1.5rem;
+    }
+
+    .category-header {
+      gap: 0.75rem;
+    }
+
+    .category-icon {
+      font-size: 1.5rem;
+    }
+
+    .category-title {
+      font-size: 1.2rem;
+    }
+
+    .insight-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    #bubble-chart {
+      min-height: 400px;
+    }
+
+    .svg-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 0.75rem;
+    }
+
+    .story-block,
+    .category-card {
+      padding: 1.25rem;
+    }
+
+    .item-link {
+      font-size: 0.95rem;
+    }
+
+    .item-desc {
+      display: block;
+      margin-top: 0.25rem;
+      font-size: 0.85rem;
+    }
+
+    .insight-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .footer-links {
+      flex-direction: column;
+      text-align: center;
+      gap: 1rem;
+    }
+  }
+</style>

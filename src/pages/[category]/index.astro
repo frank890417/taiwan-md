@@ -3,15 +3,12 @@ import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
 import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
+import CategoryHero from '../../components/CategoryHero.astro';
 import { marked } from 'marked';
-import { useTranslations, getLangFromUrl } from '../../i18n/utils';
-import {
-  categoryList as categories,
-  getCategoryConfigs,
-  type CategoryKey,
-} from '../../utils/categoryConfig';
+import { categoryConfig, getCategoryConfig, type CategoryKey } from '../../utils/categoryConfig';
 
 export async function getStaticPaths() {
+  const categories = Object.keys(categoryConfig);
   const categoryMapping: Record<string, string> = {
     history: 'History',
     geography: 'Geography',
@@ -36,9 +33,7 @@ export async function getStaticPaths() {
     try {
       const zhFolderPath = resolve(process.cwd(), 'knowledge', folderName);
       const zhFiles = await readdir(zhFolderPath);
-      const zhMarkdownFiles = zhFiles.filter(
-        (file) => file.endsWith('.md') && !file.startsWith('_'),
-      );
+      const zhMarkdownFiles = zhFiles.filter((file) => file.endsWith('.md') && !file.startsWith('_'));
 
       for (const file of zhMarkdownFiles) {
         const filePath = join(zhFolderPath, file);
@@ -54,7 +49,6 @@ export async function getStaticPaths() {
           readingTime: frontmatter.readingTime || null,
           date: frontmatter.date || null,
           featured: frontmatter.featured || false,
-          tags: frontmatter.tags || [],
           lang: 'zh-TW',
         });
       }
@@ -64,9 +58,7 @@ export async function getStaticPaths() {
     try {
       const hubFolder = resolve(process.cwd(), 'knowledge', folderName);
       const hubFiles = await readdir(hubFolder);
-      const hubFile = hubFiles.find(
-        (f) => f.startsWith('_') && f.includes('Hub'),
-      );
+      const hubFile = hubFiles.find((f) => f.startsWith('_') && f.includes('Hub'));
       if (hubFile) {
         const hubPath = join(hubFolder, hubFile);
         const hubRaw = await readFile(hubPath, 'utf-8');
@@ -78,6 +70,7 @@ export async function getStaticPaths() {
     paths.push({
       params: { category },
       props: {
+        categoryInfo: categoryConfig[category as CategoryKey],
         category,
         hubContent,
         articles: articles.sort((a, b) => {
@@ -92,14 +85,7 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { category, hubContent, articles } = Astro.props;
-
-// Compute unique tags for filter
-const allTagsSet = new Set();
-articles.forEach((a: any) => {
-  if (a.tags) a.tags.forEach((t: string) => allTagsSet.add(t));
-});
-const uniqueTags = [...allTagsSet].sort().slice(0, 12) as string[];
+const { categoryInfo, category, hubContent, articles } = Astro.props;
 
 // Load economic data for economy category
 let taiexData: any[] = [];
@@ -121,45 +107,21 @@ if (category === 'economy') {
 
 function resolveWikilinks(md: string, currentCategory: string) {
   if (!md) return md;
-
-  function resolveOne(target: string, display?: string, bold = false) {
+  return md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) => {
     const label = display || target;
     if (target.startsWith('_')) {
-      const catName = target
-        .replace(/^_/, '')
-        .replace(/ Hub$/, '')
-        .toLowerCase();
-      return bold ? `[**${label}**](/${catName})` : `[${label}](/${catName})`;
+      const catName = target.replace(/^_/, '').replace(/ Hub$/, '').toLowerCase();
+      return `[${label}](/${catName})`;
     }
-    const matchArticle = articles.find(
-      (a: any) =>
-        a.title === target ||
-        a.slug === target ||
-        a.slug === encodeURIComponent(target),
-    );
+    const matchArticle = articles.find((a: any) => a.title === target || a.slug === target || a.slug === encodeURIComponent(target));
     if (matchArticle) {
-      const url = `/${currentCategory}/${matchArticle.slug}`;
-      return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
+      return `[${label}](/${currentCategory}/${matchArticle.slug})`;
     }
-    return bold ? `**${label}**` : label;
-  }
-
-  // First pass: **[[X]]** → [**resolved**](/url) (bold inside link for marked CJK compat)
-  md = md.replace(
-    /\*\*\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]\*\*/g,
-    (_, target, display) => resolveOne(target, display, true),
-  );
-  // Second pass: remaining [[X]]
-  md = md.replace(
-    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-    (_, target, display) => resolveOne(target, display),
-  );
-  return md;
+    return `**${label}**`;
+  });
 }
 
-const resolvedContent = hubContent
-  ? resolveWikilinks(hubContent, category)
-  : '';
+const resolvedContent = hubContent ? resolveWikilinks(hubContent, category) : '';
 
 // Broken image fallback for hub pages
 const hubRenderer = new marked.Renderer();
@@ -168,17 +130,15 @@ hubRenderer.image = ({ href, title, text }) => {
   const altText = text || '';
   return `<img src="${href}" alt="${altText}"${titleAttr} loading="lazy" onerror="this.onerror=null;this.classList.add('img-broken')" />`;
 };
-const hubHtml = resolvedContent
-  ? marked.parse(resolvedContent, { renderer: hubRenderer })
-  : '';
+const hubHtml = resolvedContent ? marked.parse(resolvedContent, { renderer: hubRenderer }) : '';
 
-// Split hub HTML into sections at <h2> boundaries for chart injection (economy only)
+// Split hub HTML into sections at <h2>boundaries for chart injection (economy only)
 const isEconomy = category === 'economy';
 type HubSection = { html: string; chartAfter?: string };
 let hubSections: HubSection[] = [];
 if (isEconomy && hubHtml) {
   const parts = (hubHtml as string).split(/(?=<h2>)/);
-  hubSections = parts.map((part) => {
+  hubSections = parts.map(part => {
     let chartAfter: string | undefined;
     if (part.includes('從零到英雄')) chartAfter = 'cpi';
     else if (part.includes('矽島的誕生')) chartAfter = 'taiex';
@@ -188,457 +148,149 @@ if (isEconomy && hubHtml) {
   });
 }
 
-const lang = getLangFromUrl(Astro.url);
-const t = useTranslations(lang);
-
-const categoryConfigs = getCategoryConfigs(t);
-const categoryInfo = categoryConfigs[category];
-
 // 其他分類（跨分類導航用）
-const otherCategories = categories
-  .filter((cat) => cat !== category)
+const otherCategories = Object.keys(categoryConfig)
+  .filter(cat => cat !== category)
   .slice(0, 5) // 只顯示5個
-  .map((cat) => ({
+  .map(cat => ({
     key: cat,
-    ...categoryConfigs[cat as CategoryKey],
+    ...categoryConfig[cat as CategoryKey]
   }));
 ---
 
 <Layout
   title={`${categoryInfo.name} - Taiwan.md`}
   description={`${categoryInfo.description} - 台灣知識庫`}
-  category={categoryInfo.name}
 >
   <main class="category-page">
-    <!-- Hero Banner -->
-    <section
-      class="hero-banner"
-      style={`background: ${categoryInfo.gradient};`}
-    >
-      <div class="hero-content">
-        <div class="hero-icon">{categoryInfo.icon}</div>
-        <h1 class="hero-title">{categoryInfo.name}</h1>
-        <p class="hero-description">{categoryInfo.description}</p>
-        <div class="hero-stats">
-          <span class="stats-badge">📚 {articles.length} 篇文章</span>
-        </div>
-      </div>
-      <div class="hero-decoration"></div>
-    </section>
+    <CategoryHero
+      name={categoryInfo.name}
+      description={categoryInfo.description}
+      coverUrl={categoryInfo.cover}
+      gradient={categoryInfo.gradient}
+      articleCount={articles.length}
+      homeHref="/"
+      homeLabel="首頁"
+      countSuffix="篇文章"
+    />
 
     <div class="container">
-      <!-- Breadcrumb -->
-      <nav class="breadcrumb">
-        <a href="/" class="breadcrumb-link">首頁</a>
-        <span class="separator">›</span>
-        <span class="current">{categoryInfo.name}</span>
-      </nav>
-
       <!-- Hub Content (curated overview) -->
-      {
-        hubHtml && !isEconomy && (
-          <section class="hub-content">
-            <div class="hub-prose" set:html={hubHtml} />
-          </section>
-        )
-      }
+      {hubHtml && !isEconomy && (
+        <section class="hub-content">
+          <div class="hub-prose" set:html={hubHtml} />
+        </section>
+      )}
 
-      {
-        isEconomy && hubSections.length > 0 && (
-          <section class="hub-content">
-            <div class="hub-prose">
-              {hubSections.map((section) => (
-                <Fragment>
-                  <div set:html={section.html} />
-                  {section.chartAfter && (
-                    <div
-                      class="econ-chart-wrapper"
-                      data-chart={section.chartAfter}
-                    >
-                      <div class="econ-chart-container">
-                        <div class="econ-chart-header">
-                          <h4 class="econ-chart-title">
-                            {section.chartAfter === 'taiex' &&
-                              '📈 歷年台灣加權股價指數 (TAIEX)'}
-                            {section.chartAfter === 'cpi' &&
-                              '📊 歷年消費者物價指數 (CPI)'}
-                            {section.chartAfter === 'salary' &&
-                              '💰 歷年每月經常性薪資'}
-                            {section.chartAfter === 'housing' &&
-                              '🏠 信義房價指數'}
-                          </h4>
-                          <span class="econ-chart-source">
-                            {section.chartAfter === 'taiex' &&
-                              '資料來源：臺灣證券交易所'}
-                            {section.chartAfter === 'cpi' &&
-                              '資料來源：行政院主計總處'}
-                            {section.chartAfter === 'salary' &&
-                              '資料來源：行政院主計總處'}
-                            {section.chartAfter === 'housing' &&
-                              '資料來源：信義房屋'}
-                          </span>
-                        </div>
-                        <div class="econ-chart-svg-wrap">
-                          <svg
-                            class="econ-chart-svg"
-                            viewBox="0 0 800 300"
-                            preserveAspectRatio="xMidYMid meet"
-                          />
-                          <div class="econ-chart-tooltip" />
-                        </div>
+      {isEconomy && hubSections.length > 0 && (
+        <section class="hub-content">
+          <div class="hub-prose">
+            {hubSections.map((section) => (
+              <Fragment>
+                <div set:html={section.html} />
+                {section.chartAfter && (
+                  <div class="econ-chart-wrapper" data-chart={section.chartAfter}>
+                    <div class="econ-chart-container">
+                      <div class="econ-chart-header">
+                        <h4 class="econ-chart-title">
+                          {section.chartAfter === 'taiex' && ' 歷年台灣加權股價指數 (TAIEX)'}
+                          {section.chartAfter === 'cpi' && ' 歷年消費者物價指數 (CPI)'}
+                          {section.chartAfter === 'salary' && ' 歷年每月經常性薪資'}
+                          {section.chartAfter === 'housing' && ' 信義房價指數'}
+                        </h4>
+                        <span class="econ-chart-source">
+                          {section.chartAfter === 'taiex' && '資料來源：臺灣證券交易所'}
+                          {section.chartAfter === 'cpi' && '資料來源：行政院主計總處'}
+                          {section.chartAfter === 'salary' && '資料來源：行政院主計總處'}
+                          {section.chartAfter === 'housing' && '資料來源：信義房屋'}
+                        </span>
+                      </div>
+                      <div class="econ-chart-svg-wrap">
+                        <svg class="econ-chart-svg" viewBox="0 0 800 300" preserveAspectRatio="xMidYMid meet">
+                        </svg>
+                        <div class="econ-chart-tooltip"></div>
                       </div>
                     </div>
-                  )}
-                </Fragment>
-              ))}
-            </div>
-          </section>
-        )
-      }
+                  </div>
+                )}
+              </Fragment>
+            ))}
+          </div>
+        </section>
+      )}
 
       <!-- Articles Section -->
-      <h2 class="articles-heading">📖 延伸閱讀</h2>
-      {
-        articles.length > 0 ? (
-          <section class="articles-section">
-            {/* <!-- Sort & Filter Toolbar --> */}
-            <div class="toolbar">
-              <div class="toolbar-left">
-                <div class="sort-group">
-                  <span class="toolbar-label">排序</span>
-                  <button
-                    class="sort-btn active"
-                    data-sort="featured"
-                    type="button"
-                  >
-                    ⭐ 精選
-                  </button>
-                  <button class="sort-btn" data-sort="title" type="button">
-                    文 標題
-                  </button>
-                  <button class="sort-btn" data-sort="date" type="button">
-                    🕐 時間
-                  </button>
-                  <button class="sort-btn" data-sort="reading" type="button">
-                    📖 閱讀時間
-                  </button>
-                </div>
-              </div>
-              <div class="toolbar-right">
-                <div class="filter-group">
-                  <input
-                    type="text"
-                    class="filter-input"
-                    id="articleFilter"
-                    placeholder="🔍 搜尋文章..."
-                    autocomplete="off"
-                  />
-                </div>
-                <div class="tag-filter" id="tagFilter">
-                  {uniqueTags.map((tag) => (
-                    <button class="tag-btn" data-tag={tag} type="button">
-                      {tag}
-                    </button>
-                  ))}
-                </div>
-              </div>
-            </div>
+      <h2 class="articles-heading">延伸閱讀</h2>
+      {articles.length > 0 ? (
+        <section class="articles-section">
+          <div class="articles-grid">
+            {articles.map((article, index) => (
+              <article class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}>
+                <a href={`/${category}/${article.slug}`} class="card-link">
+                  <div class="card-cover" style={categoryInfo.cover ? `background-image: url('${categoryInfo.cover}');` : `background: ${categoryInfo.gradient};`}></div>
 
-            <div class="articles-grid" id="articlesGrid">
-              {articles.map((article: any, index: number) => (
-                <article
-                  class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}
-                  data-title={article.title}
-                  data-date={article.date || ''}
-                  data-reading={article.readingTime || 0}
-                  data-featured={article.featured ? '1' : '0'}
-                  data-tags={JSON.stringify(article.tags || [])}
-                  data-lang={article.lang}
-                >
-                  <a href={`/${category}/${article.slug}`} class="card-link">
-                    <div
-                      class="card-image-placeholder"
-                      style={`background: ${categoryInfo.gradient};`}
-                    >
-                      <div class="card-image-icon">{categoryInfo.icon}</div>
-                    </div>
-
-                    <div class="card-content">
-                      <div class="card-header">
-                        <div class="article-meta">
-                          {article.status && (
-                            <span class="status-tag">{article.status}</span>
-                          )}
-                          {article.lang && (
-                            <span class="lang-tag">
-                              {article.lang === 'zh-TW' ? '中文' : 'EN'}
-                            </span>
-                          )}
-                        </div>
-                        {article.featured && (
-                          <div class="featured-badge">⭐ 精選</div>
+                  <div class="card-body">
+                    <div class="card-header">
+                      <div class="article-meta">
+                        {article.status && (
+                          <span class="status-tag">{article.status}</span>
                         )}
                       </div>
-
-                      <h3 class="article-title">{article.title}</h3>
-
-                      <p class="article-excerpt">{article.description}</p>
-
-                      <div class="article-info">
-                        {article.readingTime && (
-                          <span class="info-item">
-                            📖 {article.readingTime} 分鐘
-                          </span>
-                        )}
-                      </div>
+                      {article.featured && (
+                        <div class="featured-badge">精選</div>
+                      )}
                     </div>
-                  </a>
-                </article>
-              ))}
-            </div>
-            <div class="no-results" id="noResults" style="display:none;">
-              <p>找不到符合條件的文章 😢</p>
-            </div>
-          </section>
-        ) : (
-          <section class="coming-soon">
-            <div class="coming-soon-content">
-              <div class="coming-soon-icon">{categoryInfo.icon}</div>
-              <h2>內容準備中</h2>
-              <p>這個分類的文章正在努力製作中，敬請期待！</p>
-              <p class="category-desc">
-                未來這裡將會有：{categoryInfo.description}
-              </p>
 
-              <div class="action-buttons">
-                <a href="/" class="btn-primary">
-                  返回首頁
+                    <h3 class="article-title">{article.title}</h3>
+                    <p class="article-excerpt">{article.description}</p>
+
+                    <div class="card-footer">
+                      {article.readingTime && (
+                        <span class="reading-time">{article.readingTime} 分鐘</span>
+                      )}
+                      <span class="read-more">閱讀全文 →</span>
+                    </div>
+                  </div>
                 </a>
-                <a
-                  href="https://github.com/frank890417/taiwan-md"
-                  target="_blank"
-                  class="btn-secondary"
-                >
-                  參與貢獻
-                </a>
-              </div>
+              </article>
+            ))}
+          </div>
+        </section>
+      ) : (
+        <section class="coming-soon">
+          <div class="coming-soon-content">
+            <h2>內容準備中</h2>
+            <p>這個分類的文章正在努力製作中，敬請期待！</p>
+            <p class="category-desc">未來這裡將會有：{categoryInfo.description}</p>
+
+            <div class="action-buttons">
+              <a href="/" class="btn-primary">返回首頁</a>
+              <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn-secondary">
+                參與貢獻
+              </a>
             </div>
-          </section>
-        )
-      }
+          </div>
+        </section>
+      )}
 
       <!-- 探索其他面向 -->
       <section class="explore-more">
         <h2 class="explore-title">探索台灣其他面向</h2>
         <div class="categories-grid">
-          {
-            otherCategories.map((cat) => (
-              <a
-                href={`/${cat.key}`}
-                class="category-card"
-                style={`border-color: ${cat.color}; color: ${cat.color};`}
-              >
-                <div class="category-card-icon">{cat.icon}</div>
-                <div class="category-card-name">{cat.name}</div>
-              </a>
-            ))
-          }
+          {otherCategories.map(cat => (
+            <a href={`/${cat.key}`} class="category-card" style={`border-color: ${cat.color}; color: ${cat.color};`}>
+              <div class="category-card-name">{cat.name}</div>
+            </a>
+          ))}
         </div>
       </section>
     </div>
   </main>
 </Layout>
 
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const grid = document.getElementById('articlesGrid');
-    const noResults = document.getElementById('noResults');
-    const filterInput = document.getElementById(
-      'articleFilter',
-    ) as HTMLInputElement;
-    if (!grid) return;
-
-    const cards = Array.from(
-      grid.querySelectorAll('.article-card'),
-    ) as HTMLElement[];
-    let activeSort = 'featured';
-    let activeTag = '';
-
-    // Sort
-    function sortCards(method: string) {
-      const sorted = [...cards].sort((a, b) => {
-        if (method === 'featured') {
-          const af = a.dataset.featured === '1' ? 1 : 0;
-          const bf = b.dataset.featured === '1' ? 1 : 0;
-          if (af !== bf) return bf - af;
-          return (a.dataset.title || '').localeCompare(b.dataset.title || '');
-        }
-        if (method === 'title') {
-          return (a.dataset.title || '').localeCompare(b.dataset.title || '');
-        }
-        if (method === 'date') {
-          return (b.dataset.date || '').localeCompare(a.dataset.date || '');
-        }
-        if (method === 'reading') {
-          return (
-            parseInt(a.dataset.reading || '0') -
-            parseInt(b.dataset.reading || '0')
-          );
-        }
-        return 0;
-      });
-      sorted.forEach((card) => grid?.appendChild(card));
-    }
-
-    // Filter
-    function applyFilters() {
-      const query = filterInput?.value.toLowerCase() || '';
-      let visible = 0;
-      cards.forEach((card) => {
-        const title = (card.dataset.title || '').toLowerCase();
-        const tags: string[] = JSON.parse(card.dataset.tags || '[]');
-        const matchQuery = !query || title.includes(query);
-        const matchTag = !activeTag || tags.includes(activeTag);
-        const show = matchQuery && matchTag;
-        card.style.display = show ? '' : 'none';
-        // Reset featured-card class based on visibility
-        if (show) visible++;
-      });
-      if (noResults) {
-        noResults.style.display = visible === 0 ? 'block' : 'none';
-      }
-    }
-
-    // Sort buttons
-    document.querySelectorAll('.sort-btn').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        document
-          .querySelectorAll('.sort-btn')
-          .forEach((b) => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeSort = (btn as HTMLElement).dataset.sort || 'featured';
-        sortCards(activeSort);
-      });
-    });
-
-    // Tag buttons
-    document.querySelectorAll('.tag-btn').forEach((btn) => {
-      btn.addEventListener('click', () => {
-        const tag = (btn as HTMLElement).dataset.tag || '';
-        if (activeTag === tag) {
-          activeTag = '';
-          btn.classList.remove('active');
-        } else {
-          document
-            .querySelectorAll('.tag-btn')
-            .forEach((b) => b.classList.remove('active'));
-          activeTag = tag;
-          btn.classList.add('active');
-        }
-        applyFilters();
-      });
-    });
-
-    // Text filter
-    filterInput?.addEventListener('input', () => {
-      applyFilters();
-    });
-  });
-</script>
-
-<style
-  define:vars={{
-    categoryColor: categoryInfo.color,
-    categoryColorLight: categoryInfo.colorLight,
-  }}
->
+<style define:vars={{ categoryColor: categoryInfo.color, categoryColorLight: categoryInfo.colorLight }}>
   .category-page {
     min-height: 100vh;
-  }
-
-  /* Hero Banner */
-  .hero-banner {
-    position: relative;
-    width: 100%;
-    padding: clamp(3.5rem, 8vw, 5rem) var(--space-page-x);
-    color: white;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  .hero-content {
-    max-width: 800px;
-    margin: 0 auto;
-    position: relative;
-    z-index: 2;
-  }
-
-  .hero-icon {
-    font-size: 4rem;
-    margin-bottom: 1rem;
-    animation: float 3s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%,
-    100% {
-      transform: translateY(0px);
-    }
-    50% {
-      transform: translateY(-10px);
-    }
-  }
-
-  .hero-title {
-    font-size: 3.5rem;
-    font-weight: 800;
-    margin-bottom: 1rem;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-    background: linear-gradient(
-      45deg,
-      rgba(255, 255, 255, 1),
-      rgba(255, 255, 255, 0.8)
-    );
-    background-clip: text;
-    -webkit-background-clip: text;
-  }
-
-  .hero-description {
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-    opacity: 0.95;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
-    line-height: 1.4;
-  }
-
-  .hero-stats {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-  }
-
-  .stats-badge {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 0.7rem 1.15rem;
-    border-radius: var(--radius-chip);
-    font-weight: 500;
-    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.06);
-  }
-
-  .hero-decoration {
-    position: absolute;
-    top: 0;
-    right: -10%;
-    width: 50%;
-    height: 100%;
-    background: radial-gradient(
-      circle,
-      rgba(255, 255, 255, 0.1) 0%,
-      transparent 70%
-    );
-    border-radius: 50%;
   }
 
   /* Container */
@@ -648,43 +300,13 @@ const otherCategories = categories
     padding: 2rem var(--space-page-x);
   }
 
-  /* Breadcrumb */
-  .breadcrumb {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: var(--space-7);
-    font-size: 0.9rem;
-  }
-
-  .breadcrumb a {
-    color: var(--categoryColor);
-    text-decoration: none;
-    font-weight: 500;
-  }
-
-  .breadcrumb a:hover {
-    text-decoration: underline;
-  }
-
-  .separator {
-    color: #9ca3af;
-  }
-
-  .current {
-    color: #6b7280;
-    font-weight: 600;
-  }
-
-  /* Articles Grid */
+  /* Hub Content */
   .hub-content {
-    margin: var(--space-5) 0 var(--space-7);
-    padding: var(--space-6);
-    background: rgba(255, 255, 255, 0.88);
-    border-radius: 24px;
-    border: 1px solid #e2e8f0;
-    box-shadow: var(--shadow-soft);
-    backdrop-filter: blur(10px);
+    margin: var(--space-7) 0 var(--space-7);
+    padding: 2.5rem 3rem;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
   }
   .hub-prose {
     font-size: 1.05rem;
@@ -741,8 +363,7 @@ const otherCategories = categories
     margin: 1.2rem 0;
     text-align: justify;
   }
-  .hub-prose ul,
-  .hub-prose ol {
+  .hub-prose ul, .hub-prose ol {
     padding-left: 2rem;
     margin: 1rem 0;
     list-style-position: inside;
@@ -769,7 +390,7 @@ const otherCategories = categories
     border-radius: 12px;
     margin: 2rem auto;
     display: block;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
   }
   .hub-prose img.img-broken {
     min-height: 120px;
@@ -777,10 +398,7 @@ const otherCategories = categories
     background: #f8f9fa;
     border: 1.5px dashed #d0d5dd;
     box-shadow: none;
-    font-family:
-      system-ui,
-      -apple-system,
-      sans-serif;
+    font-family: system-ui, -apple-system, sans-serif;
     font-size: 0.85rem;
     color: #667085;
     text-align: center;
@@ -802,8 +420,7 @@ const otherCategories = categories
     margin: 1.5rem 0;
     font-size: 0.95rem;
   }
-  .hub-prose th,
-  .hub-prose td {
+  .hub-prose th, .hub-prose td {
     padding: 0.75rem 1rem;
     border: 1px solid #e2e8f0;
     text-align: left;
@@ -813,18 +430,15 @@ const otherCategories = categories
     font-weight: 600;
     color: #1e293b;
   }
-  .hub-prose tr:hover {
-    background: #f8fafc;
-  }
-  .hub-prose strong {
-    color: #1e293b;
-  }
+  .hub-prose tr:hover { background: #f8fafc; }
+  .hub-prose strong { color: #1e293b; }
   .hub-prose hr {
     border: none;
     border-top: 1px solid #e2e8f0;
     margin: 2.5rem 0;
   }
 
+  /* Articles */
   .articles-heading {
     font-size: var(--title-subsection-size);
     margin: 0 0 var(--space-5) 0;
@@ -839,164 +453,29 @@ const otherCategories = categories
     margin-bottom: var(--space-8);
   }
 
-  /* Toolbar */
-  .toolbar {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    align-items: flex-start;
-    margin-bottom: 1.5rem;
-    padding: 1rem;
-    background: #f8fafc;
-    border-radius: 12px;
-    border: 1px solid #e2e8f0;
-  }
-
-  .toolbar-left {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-
-  .toolbar-right {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 0.75rem;
-    margin-left: auto;
-  }
-
-  .toolbar-label {
-    font-size: 0.8rem;
-    color: #64748b;
-    font-weight: 600;
-    white-space: nowrap;
-  }
-
-  .sort-group {
-    display: flex;
-    align-items: center;
-    gap: 0.35rem;
-  }
-
-  .sort-btn {
-    padding: 0.35rem 0.65rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 6px;
-    background: white;
-    font-size: 0.78rem;
-    color: #64748b;
-    cursor: pointer;
-    transition: all 0.15s;
-    white-space: nowrap;
-  }
-
-  .sort-btn:hover {
-    border-color: var(--categoryColor);
-    color: var(--categoryColor);
-  }
-
-  .sort-btn.active {
-    background: var(--categoryColor);
-    color: white;
-    border-color: var(--categoryColor);
-  }
-
-  .filter-input {
-    padding: 0.4rem 0.75rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 8px;
-    font-size: 0.85rem;
-    width: 180px;
-    outline: none;
-    transition: border-color 0.15s;
-  }
-
-  .filter-input:focus {
-    border-color: var(--categoryColor);
-    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
-  }
-
-  .tag-filter {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.3rem;
-  }
-
-  .tag-btn {
-    padding: 0.25rem 0.5rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 20px;
-    background: white;
-    font-size: 0.72rem;
-    color: #94a3b8;
-    cursor: pointer;
-    transition: all 0.15s;
-  }
-
-  .tag-btn:hover {
-    border-color: var(--categoryColor);
-    color: var(--categoryColor);
-  }
-
-  .tag-btn.active {
-    background: var(--categoryColorLight);
-    color: var(--categoryColor);
-    border-color: var(--categoryColor);
-  }
-
-  .no-results {
-    text-align: center;
-    padding: 3rem 1rem;
-    color: #94a3b8;
-    font-size: 1.1rem;
-  }
-
-  @media (max-width: 768px) {
-    .toolbar {
-      flex-direction: column;
-    }
-    .toolbar-right {
-      margin-left: 0;
-      width: 100%;
-    }
-    .filter-input {
-      width: 100%;
-    }
-    .sort-group {
-      flex-wrap: wrap;
-    }
-  }
-
   .articles-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    gap: var(--space-5);
-  }
-
-  .article-card {
-    background: rgba(255, 255, 255, 0.92);
-    border-radius: 22px;
-    overflow: hidden;
-    box-shadow: var(--shadow-soft);
-    transition:
-      transform 0.22s ease,
-      box-shadow 0.22s ease,
-      border-color 0.22s ease;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    backdrop-filter: blur(10px);
-  }
-
-  .article-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-card);
-    border-color: rgba(148, 163, 184, 0.28);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2.5rem;
   }
 
   .featured-card {
     grid-column: 1 / -1;
-    max-width: 680px;
+    max-width: 740px;
     margin: 0 auto;
+  }
+
+  .article-card {
+    background: #F8F1E9;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
+  }
+
+  .article-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 28px rgba(0,0,0,0.12);
   }
 
   .card-link {
@@ -1005,111 +484,89 @@ const otherCategories = categories
     color: inherit;
   }
 
-  .card-image-placeholder {
-    height: 160px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
+  .card-cover {
+    height: 180px;
+    background-size: cover;
+    background-position: center;
   }
 
-  .featured-card .card-image-placeholder {
-    height: 200px;
+  .featured-card .card-cover {
+    height: 240px;
   }
 
-  .card-image-icon {
-    font-size: 3rem;
-    opacity: 0.8;
-    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
-  }
-
-  .card-content {
-    padding: 1.5rem;
+  .card-body {
+    padding: 1.5rem 1.75rem 1.75rem;
   }
 
   .card-header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 1rem;
+    margin-bottom: 0.75rem;
   }
 
   .article-meta {
     display: flex;
-    gap: 0.55rem;
+    gap: 0.5rem;
     flex-wrap: wrap;
   }
 
   .status-tag {
     background: var(--categoryColorLight);
     color: var(--categoryColor);
-    padding: 0.45rem 0.8rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 500;
-    border: 1px solid rgba(148, 163, 184, 0.14);
-  }
-
-  .lang-tag {
-    background: rgba(255, 255, 255, 0.72);
-    color: #64748b;
-    padding: 0.45rem 0.8rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
-    font-weight: 500;
-    border: 1px solid rgba(148, 163, 184, 0.18);
   }
 
   .featured-badge {
     background: linear-gradient(45deg, #fbbf24, #f59e0b);
     color: white;
-    padding: 0.45rem 0.85rem;
-    border-radius: var(--radius-chip);
-    font-size: 0.8rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 999px;
+    font-size: 0.78rem;
     font-weight: 600;
-    box-shadow: 0 8px 22px rgba(245, 158, 11, 0.18);
   }
 
   .article-title {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 1rem;
-    color: #1f2937;
+    line-height: 1.35;
+    margin-bottom: 0.6rem;
+    color: #1A3C34;
+    font-family: var(--font-editorial);
   }
 
   .featured-card .article-title {
-    font-size: 1.8rem;
+    font-size: 1.55rem;
   }
 
   .article-excerpt {
-    color: #6b7280;
-    line-height: 1.6;
-    margin-bottom: 1rem;
+    font-size: 0.9rem;
+    color: #4a5568;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
 
-  .article-info {
+  .card-footer {
     display: flex;
     align-items: center;
-    gap: 0.65rem;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0.85rem;
   }
 
-  .info-item {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.55rem 0.8rem;
-    font-size: 0.85rem;
-    color: #64748b;
-    background: rgba(255, 255, 255, 0.72);
-    border: 1px solid rgba(148, 163, 184, 0.18);
-    border-radius: var(--radius-chip);
-    box-shadow: 0 8px 22px rgba(15, 23, 42, 0.04);
+  .reading-time {
+    color: #4a5568;
+  }
+
+  .read-more {
+    color: #006D77;
+    font-weight: 500;
   }
 
   /* Coming Soon */
@@ -1121,12 +578,6 @@ const otherCategories = categories
   .coming-soon-content {
     max-width: 500px;
     margin: 0 auto;
-  }
-
-  .coming-soon-icon {
-    font-size: 5rem;
-    margin-bottom: 2rem;
-    opacity: 0.7;
   }
 
   .coming-soon-content h2 {
@@ -1160,8 +611,7 @@ const otherCategories = categories
     flex-wrap: wrap;
   }
 
-  .btn-primary,
-  .btn-secondary {
+  .btn-primary, .btn-secondary {
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
@@ -1171,11 +621,7 @@ const otherCategories = categories
     font-weight: 600;
     font-size: 0.95rem;
     justify-content: center;
-    transition:
-      transform 0.2s ease,
-      box-shadow 0.2s ease,
-      background 0.2s ease,
-      border-color 0.2s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, border-color 0.2s ease;
   }
 
   .btn-primary {
@@ -1223,7 +669,7 @@ const otherCategories = categories
 
   .categories-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: 1rem;
   }
 
@@ -1231,14 +677,13 @@ const otherCategories = categories
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 2rem 1rem;
+    justify-content: center;
+    padding: 1.5rem 1rem;
     background: rgba(255, 255, 255, 0.92);
     border: 1px solid;
-    border-radius: 22px;
+    border-radius: 20px;
     text-decoration: none;
-    transition:
-      transform 0.22s ease,
-      box-shadow 0.22s ease;
+    transition: transform 0.22s ease, box-shadow 0.22s ease;
     text-align: center;
     box-shadow: var(--shadow-soft);
   }
@@ -1248,14 +693,9 @@ const otherCategories = categories
     box-shadow: var(--shadow-card);
   }
 
-  .category-card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-  }
-
   .category-card-name {
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1.05rem;
   }
 
   /* Economic Charts */
@@ -1268,7 +708,7 @@ const otherCategories = categories
     border: 1px solid #e2e8f0;
     border-radius: 16px;
     padding: 1.5rem;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.04);
   }
   .econ-chart-header {
     display: flex;
@@ -1308,7 +748,7 @@ const otherCategories = categories
     pointer-events: none;
     white-space: nowrap;
     z-index: 10;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     transform: translate(-50%, -120%);
   }
   .econ-milestone-label {
@@ -1322,30 +762,18 @@ const otherCategories = categories
 
   /* Responsive */
   @media (max-width: 768px) {
-    .hero-banner {
-      padding: var(--space-7) 1rem;
-    }
-
-    .hero-title {
-      font-size: 2.5rem;
-    }
-
-    .hero-description {
-      font-size: 1.2rem;
-    }
-
     .container {
       padding: 1rem;
     }
 
     .hub-content {
       padding: 1.5rem 1.25rem;
-      border-radius: 20px;
+      border-radius: 16px;
     }
 
     .articles-grid {
       grid-template-columns: 1fr;
-      gap: var(--space-4);
+      gap: 1.5rem;
     }
 
     .featured-card {
@@ -1358,7 +786,7 @@ const otherCategories = categories
     }
 
     .categories-grid {
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
     }
 
     .econ-chart-container {
@@ -1367,187 +795,129 @@ const otherCategories = categories
   }
 </style>
 
-<script define:vars={{ taiexData, cpiData, salaryData, housingData, isEconomy }}
->
-  function init() {
-    document.addEventListener('DOMContentLoaded', () => {
-      const chartConfigs = {
-        taiex: {
-          data: taiexData,
-          color: '#dc2626',
-          yKey: 'close',
-          label: '加權指數',
-          format: (v) => v.toLocaleString() + ' 點',
-        },
-        cpi: {
-          data: cpiData,
-          color: '#2563eb',
-          yKey: 'value',
-          label: 'CPI',
-          format: (v) => v.toFixed(1),
-        },
-        salary: {
-          data: salaryData,
-          color: '#059669',
-          yKey: 'value',
-          label: '月薪',
-          format: (v) => 'NT$ ' + v.toLocaleString(),
-        },
-        housing: {
-          data: housingData,
-          color: '#7c3aed',
-          yKey: 'value',
-          label: '房價指數',
-          format: (v) => v.toFixed(1),
-        },
-      };
+{isEconomy && (
+<script define:vars={{ taiexData, cpiData, salaryData, housingData }}>
+  document.addEventListener('DOMContentLoaded', () => {
+    const chartConfigs = {
+      taiex: { data: taiexData, color: '#dc2626', yKey: 'close', label: '加權指數', format: v => v.toLocaleString() + ' 點' },
+      cpi:   { data: cpiData, color: '#2563eb', yKey: 'value', label: 'CPI', format: v => v.toFixed(1) },
+      salary:{ data: salaryData, color: '#059669', yKey: 'value', label: '月薪', format: v => 'NT$ ' + v.toLocaleString() },
+      housing:{ data: housingData, color: '#7c3aed', yKey: 'value', label: '房價指數', format: v => v.toFixed(1) },
+    };
 
-      document.querySelectorAll('.econ-chart-wrapper').forEach((wrapper) => {
-        const chartType = wrapper.dataset.chart;
-        const config = chartConfigs[chartType];
-        if (!config || !config.data || config.data.length === 0) return;
+    document.querySelectorAll('.econ-chart-wrapper').forEach(wrapper => {
+      const chartType = wrapper.dataset.chart;
+      const config = chartConfigs[chartType];
+      if (!config || !config.data || config.data.length === 0) return;
 
-        const svg = wrapper.querySelector('.econ-chart-svg');
-        const tooltip = wrapper.querySelector('.econ-chart-tooltip');
-        const data = config.data;
-        const ns = 'http://www.w3.org/2000/svg';
+      const svg = wrapper.querySelector('.econ-chart-svg');
+      const tooltip = wrapper.querySelector('.econ-chart-tooltip');
+      const data = config.data;
+      const ns = 'http://www.w3.org/2000/svg';
 
-        const W = 800,
-          H = 300;
-        const pad = { top: 30, right: 20, bottom: 40, left: 65 };
-        const cw = W - pad.left - pad.right;
-        const ch = H - pad.top - pad.bottom;
+      const W = 800, H = 300;
+      const pad = { top: 30, right: 20, bottom: 40, left: 65 };
+      const cw = W - pad.left - pad.right;
+      const ch = H - pad.top - pad.bottom;
 
-        const years = data.map((d) => d.year);
-        const values = data.map((d) => d[config.yKey]);
-        const minY = Math.min(...values) * 0.9;
-        const maxY = Math.max(...values) * 1.1;
+      const years = data.map(d => d.year);
+      const values = data.map(d => d[config.yKey]);
+      const minY = Math.min(...values) * 0.9;
+      const maxY = Math.max(...values) * 1.1;
 
-        const xScale = (year) =>
-          pad.left +
-          ((year - years[0]) / (years[years.length - 1] - years[0])) * cw;
-        const yScale = (val) =>
-          pad.top + ch - ((val - minY) / (maxY - minY)) * ch;
+      const xScale = (year) => pad.left + ((year - years[0]) / (years[years.length-1] - years[0])) * cw;
+      const yScale = (val) => pad.top + ch - ((val - minY) / (maxY - minY)) * ch;
 
-        // Grid lines
-        const gridCount = 5;
-        for (let i = 0; i <= gridCount; i++) {
-          const yVal = minY + (maxY - minY) * (i / gridCount);
-          const y = yScale(yVal);
-          const line = document.createElementNS(ns, 'line');
-          line.setAttribute('x1', pad.left);
-          line.setAttribute('x2', W - pad.right);
-          line.setAttribute('y1', y);
-          line.setAttribute('y2', y);
-          line.setAttribute('stroke', '#e2e8f0');
-          line.setAttribute('stroke-width', '1');
-          svg.appendChild(line);
-          const label = document.createElementNS(ns, 'text');
-          label.setAttribute('x', pad.left - 8);
-          label.setAttribute('y', y + 4);
-          label.setAttribute('text-anchor', 'end');
-          label.setAttribute('fill', '#94a3b8');
-          label.setAttribute('font-size', '10');
-          label.textContent =
-            chartType === 'salary'
-              ? Math.round(yVal / 1000) + 'K'
-              : chartType === 'taiex'
-                ? Math.round(yVal).toLocaleString()
-                : yVal.toFixed(0);
-          svg.appendChild(label);
-        }
-
-        // X axis labels
-        const yearStep = Math.max(1, Math.floor(years.length / 8));
-        for (let i = 0; i < years.length; i += yearStep) {
-          const x = xScale(years[i]);
-          const label = document.createElementNS(ns, 'text');
-          label.setAttribute('x', x);
-          label.setAttribute('y', H - 8);
-          label.setAttribute('text-anchor', 'middle');
-          label.setAttribute('fill', '#94a3b8');
-          label.setAttribute('font-size', '10');
-          label.textContent = years[i];
-          svg.appendChild(label);
-        }
-
-        // Area fill
-        let areaPath = `M ${xScale(years[0])} ${yScale(values[0])}`;
-        for (let i = 1; i < data.length; i++) {
-          areaPath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
-        }
-        areaPath += ` L ${xScale(years[years.length - 1])} ${pad.top + ch} L ${xScale(years[0])} ${pad.top + ch} Z`;
-        const area = document.createElementNS(ns, 'path');
-        area.setAttribute('d', areaPath);
-        area.setAttribute('fill', config.color);
-        area.setAttribute('opacity', '0.08');
-        svg.appendChild(area);
-
-        // Line
-        let linePath = `M ${xScale(years[0])} ${yScale(values[0])}`;
-        for (let i = 1; i < data.length; i++) {
-          linePath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
-        }
-        const line = document.createElementNS(ns, 'path');
-        line.setAttribute('d', linePath);
-        line.setAttribute('fill', 'none');
-        line.setAttribute('stroke', config.color);
-        line.setAttribute('stroke-width', '2.5');
-        line.setAttribute('stroke-linejoin', 'round');
+      // Grid lines
+      const gridCount = 5;
+      for (let i = 0; i <= gridCount; i++) {
+        const yVal = minY + (maxY - minY) * (i / gridCount);
+        const y = yScale(yVal);
+        const line = document.createElementNS(ns, 'line');
+        line.setAttribute('x1', pad.left); line.setAttribute('x2', W - pad.right);
+        line.setAttribute('y1', y); line.setAttribute('y2', y);
+        line.setAttribute('stroke', '#e2e8f0'); line.setAttribute('stroke-width', '1');
         svg.appendChild(line);
+        const label = document.createElementNS(ns, 'text');
+        label.setAttribute('x', pad.left - 8); label.setAttribute('y', y + 4);
+        label.setAttribute('text-anchor', 'end'); label.setAttribute('fill', '#94a3b8');
+        label.setAttribute('font-size', '10');
+        label.textContent = chartType === 'salary' ? Math.round(yVal/1000) + 'K' : chartType === 'taiex' ? Math.round(yVal).toLocaleString() : yVal.toFixed(0);
+        svg.appendChild(label);
+      }
 
-        // Milestones & interactive dots
-        data.forEach((d, i) => {
-          const x = xScale(d.year);
-          const y = yScale(d[config.yKey]);
+      // X axis labels
+      const yearStep = Math.max(1, Math.floor(years.length / 8));
+      for (let i = 0; i < years.length; i += yearStep) {
+        const x = xScale(years[i]);
+        const label = document.createElementNS(ns, 'text');
+        label.setAttribute('x', x); label.setAttribute('y', H - 8);
+        label.setAttribute('text-anchor', 'middle'); label.setAttribute('fill', '#94a3b8');
+        label.setAttribute('font-size', '10');
+        label.textContent = years[i];
+        svg.appendChild(label);
+      }
 
-          if (d.milestone) {
-            const dot = document.createElementNS(ns, 'circle');
-            dot.setAttribute('cx', x);
-            dot.setAttribute('cy', y);
-            dot.setAttribute('r', '5');
-            dot.setAttribute('fill', config.color);
-            dot.setAttribute('stroke', 'white');
-            dot.setAttribute('stroke-width', '2');
-            dot.setAttribute('class', 'econ-milestone-dot');
-            svg.appendChild(dot);
-            const mlabel = document.createElementNS(ns, 'text');
-            mlabel.setAttribute('x', x);
-            mlabel.setAttribute('y', y - 12);
-            mlabel.setAttribute('class', 'econ-milestone-label');
-            mlabel.textContent = d.milestone;
-            svg.appendChild(mlabel);
-          }
+      // Area fill
+      let areaPath = `M ${xScale(years[0])} ${yScale(values[0])}`;
+      for (let i = 1; i < data.length; i++) {
+        areaPath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
+      }
+      areaPath += ` L ${xScale(years[years.length-1])} ${pad.top + ch} L ${xScale(years[0])} ${pad.top + ch} Z`;
+      const area = document.createElementNS(ns, 'path');
+      area.setAttribute('d', areaPath);
+      area.setAttribute('fill', config.color); area.setAttribute('opacity', '0.08');
+      svg.appendChild(area);
 
-          // Invisible hover area
-          const hover = document.createElementNS(ns, 'rect');
-          const barW = cw / data.length;
-          hover.setAttribute('x', x - barW / 2);
-          hover.setAttribute('y', pad.top);
-          hover.setAttribute('width', barW);
-          hover.setAttribute('height', ch);
-          hover.setAttribute('fill', 'transparent');
-          hover.setAttribute('cursor', 'crosshair');
+      // Line
+      let linePath = `M ${xScale(years[0])} ${yScale(values[0])}`;
+      for (let i = 1; i < data.length; i++) {
+        linePath += ` L ${xScale(years[i])} ${yScale(values[i])}`;
+      }
+      const line = document.createElementNS(ns, 'path');
+      line.setAttribute('d', linePath);
+      line.setAttribute('fill', 'none'); line.setAttribute('stroke', config.color);
+      line.setAttribute('stroke-width', '2.5'); line.setAttribute('stroke-linejoin', 'round');
+      svg.appendChild(line);
 
-          hover.addEventListener('mouseenter', () => {
-            tooltip.style.display = 'block';
-            tooltip.innerHTML = `<strong>${d.year}</strong>　${config.label}：${config.format(d[config.yKey])}`;
-          });
-          hover.addEventListener('mousemove', (e) => {
-            const rect = wrapper
-              .querySelector('.econ-chart-svg-wrap')
-              .getBoundingClientRect();
-            tooltip.style.left = e.clientX - rect.left + 'px';
-            tooltip.style.top = e.clientY - rect.top + 'px';
-          });
-          hover.addEventListener('mouseleave', () => {
-            tooltip.style.display = 'none';
-          });
-          svg.appendChild(hover);
+      // Milestones & interactive dots
+      data.forEach((d, i) => {
+        const x = xScale(d.year);
+        const y = yScale(d[config.yKey]);
+
+        if (d.milestone) {
+          const dot = document.createElementNS(ns, 'circle');
+          dot.setAttribute('cx', x); dot.setAttribute('cy', y); dot.setAttribute('r', '5');
+          dot.setAttribute('fill', config.color); dot.setAttribute('stroke', 'white'); dot.setAttribute('stroke-width', '2');
+          dot.setAttribute('class', 'econ-milestone-dot');
+          svg.appendChild(dot);
+          const mlabel = document.createElementNS(ns, 'text');
+          mlabel.setAttribute('x', x); mlabel.setAttribute('y', y - 12);
+          mlabel.setAttribute('class', 'econ-milestone-label');
+          mlabel.textContent = d.milestone;
+          svg.appendChild(mlabel);
+        }
+
+        // Invisible hover area
+        const hover = document.createElementNS(ns, 'rect');
+        const barW = cw / data.length;
+        hover.setAttribute('x', x - barW/2); hover.setAttribute('y', pad.top);
+        hover.setAttribute('width', barW); hover.setAttribute('height', ch);
+        hover.setAttribute('fill', 'transparent'); hover.setAttribute('cursor', 'crosshair');
+
+        hover.addEventListener('mouseenter', () => {
+          tooltip.style.display = 'block';
+          tooltip.innerHTML = `<strong>${d.year}</strong>　${config.label}：${config.format(d[config.yKey])}`;
         });
+        hover.addEventListener('mousemove', (e) => {
+          const rect = wrapper.querySelector('.econ-chart-svg-wrap').getBoundingClientRect();
+          tooltip.style.left = (e.clientX - rect.left) + 'px';
+          tooltip.style.top = (e.clientY - rect.top) + 'px';
+        });
+        hover.addEventListener('mouseleave', () => { tooltip.style.display = 'none'; });
+        svg.appendChild(hover);
       });
     });
-  }
-
-  if (isEconomy) init();
+  });
 </script>
+)}

@@ -1,52 +1,32 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getCollection } from 'astro:content';
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join } from 'path';
+import matter from 'gray-matter';
 
 const categories = [
-  'history',
-  'geography',
-  'culture',
-  'food',
-  'art',
-  'music',
-  'technology',
-  'nature',
-  'people',
-  'society',
-  'economy',
-  'lifestyle',
+  'history', 'geography', 'culture', 'food', 'art', 'music',
+  'technology', 'nature', 'people', 'society', 'economy', 'lifestyle'
 ];
 
 const categoryColors: Record<string, string> = {
-  history: '#e74c3c',
-  geography: '#2ecc71',
-  culture: '#9b59b6',
-  food: '#f39c12',
-  art: '#e91e63',
-  music: '#00bcd4',
-  technology: '#3498db',
-  nature: '#27ae60',
-  people: '#ff9800',
-  society: '#607d8b',
-  economy: '#ff5722',
-  lifestyle: '#8bc34a',
+  history: '#e74c3c', geography: '#2ecc71', culture: '#9b59b6',
+  food: '#f39c12', art: '#e91e63', music: '#00bcd4',
+  technology: '#3498db', nature: '#27ae60', people: '#ff9800',
+  society: '#607d8b', economy: '#ff5722', lifestyle: '#8bc34a',
 };
 
 const categoryNames: Record<string, string> = {
-  history: '📜 History',
-  geography: '🗺️ Geography',
-  culture: '🎭 Culture',
-  food: '🍜 Food',
-  art: '🎨 Art',
-  music: '🎵 Music',
-  technology: '💻 Technology',
-  nature: '🌿 Nature',
-  people: '👥 People',
-  society: '⚖️ Society',
-  economy: '📈 Economy',
-  lifestyle: '🏠 Lifestyle',
+  history: 'History', geography: 'Geography', culture: 'Culture',
+  food: 'Food', art: 'Art', music: 'Music',
+  technology: 'Technology', nature: 'Nature', people: 'People',
+  society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
+};
+
+const categoryMapping: Record<string, string> = {
+  history: 'History', geography: 'Geography', culture: 'Culture', food: 'Food',
+  art: 'Art', music: 'Music', technology: 'Technology', nature: 'Nature',
+  people: 'People', society: 'Society', economy: 'Economy', lifestyle: 'Lifestyle',
 };
 
 // Build nodes and edges
@@ -54,121 +34,51 @@ const nodes: any[] = [];
 const edges: any[] = [];
 const tagMap: Record<string, string[]> = {};
 
-// Pre-fetch all collections
+// Scan zh-TW articles from knowledge/
 let allZhArticles: any[] = [];
-let allEnArticles: any[] = [];
-try {
-  allZhArticles = await getCollection('zh-TW');
-} catch (e) {
-  console.log('zh-TW collection error:', e);
-}
-try {
-  allEnArticles = await getCollection('en');
-} catch (e) {
-  console.log('en collection error:', e);
-}
-
-// Fallback: scan filesystem if collections are empty
-if (allZhArticles.length === 0) {
+for (const cat of categories) {
+  const folder = categoryMapping[cat];
   try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/zh-TW', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const tagsMatch = content.match(/^tags:\s*\[(.+?)\]/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            const tags = tagsMatch
-              ? tagsMatch[1]
-                  .split(',')
-                  .map((t) => t.trim().replace(/["']/g, ''))
-              : [];
-            allZhArticles.push({ id: `${cat}/${slug}`, data: { title, tags } });
-          }
-        }
-      } catch {}
+    const dirPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = file.replace(/\.md$/, '');
+      allZhArticles.push({ id: `${cat}/${slug}`, data: { title: fm.title || slug, tags: fm.tags || [] } });
     }
   } catch {}
 }
-if (allEnArticles.length === 0) {
+
+// Scan en articles from knowledge/en/
+let allEnArticles: any[] = [];
+for (const cat of categories) {
+  const folder = categoryMapping[cat];
   try {
-    for (const cat of categories) {
-      const catDir = resolve('src/content/en', cat);
-      try {
-        const files = await readdir(catDir);
-        for (const file of files) {
-          if (file.endsWith('.md') && !file.startsWith('_')) {
-            const slug = file.replace(/\.md$/, '');
-            const content = await readFile(join(catDir, file), 'utf-8');
-            const titleMatch = content.match(/^title:\s*["']?(.+?)["']?\s*$/m);
-            const title = titleMatch ? titleMatch[1] : slug;
-            allEnArticles.push({
-              id: `${cat}/${slug}`,
-              data: { title, tags: [] },
-            });
-          }
-        }
-      } catch {}
+    const dirPath = resolve(process.cwd(), 'knowledge', 'en', folder);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
+      const slug = file.replace(/\.md$/, '');
+      allEnArticles.push({ id: `${cat}/${slug}`, data: { title: fm.title || slug, tags: [] } });
     }
   } catch {}
 }
 
 // Center node
-nodes.push({ id: 'taiwan', label: '🇹🇼 Taiwan.md', group: 'center', size: 30 });
+nodes.push({ id: 'taiwan', label: 'Taiwan.md', group: 'center', size: 30 });
 
 // SSOT concept node
-nodes.push({
-  id: 'ssot',
-  label: '📐 SSOT\n(Single Source of Truth)',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 16,
-});
+nodes.push({ id: 'ssot', label: 'SSOT\n(Single Source of Truth)', group: 'meta', color: '#8b5cf6', size: 16 });
 edges.push({ source: 'taiwan', target: 'ssot' });
 
 // Special nodes
-nodes.push({
-  id: 'about',
-  label: '📖 About',
-  group: 'special',
-  color: '#6366f1',
-  size: 14,
-  url: '/en/about',
-});
-nodes.push({
-  id: 'contribute',
-  label: '✋ Contribute',
-  group: 'special',
-  color: '#22c55e',
-  size: 14,
-  url: '/en/contribute',
-});
-nodes.push({
-  id: 'quotes',
-  label: '✨ Seeing Taiwan\nQuotes',
-  group: 'special',
-  color: '#f59e0b',
-  size: 12,
-  url: '/en/about',
-});
-nodes.push({
-  id: 'editorial',
-  label: '📋 Editorial\nGuidelines',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 10,
-});
-nodes.push({
-  id: 'llms',
-  label: '🤖 AI-Friendly\n(llms.txt)',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 10,
-});
+nodes.push({ id: 'about', label: 'About', group: 'special', color: '#6366f1', size: 14, url: '/en/about' });
+nodes.push({ id: 'contribute', label: 'Contribute', group: 'special', color: '#22c55e', size: 14, url: '/en/contribute' });
+nodes.push({ id: 'quotes', label: 'Seeing Taiwan\nQuotes', group: 'special', color: '#f59e0b', size: 12, url: '/en/about' });
+nodes.push({ id: 'editorial', label: 'Editorial\nGuidelines', group: 'meta', color: '#8b5cf6', size: 10 });
+nodes.push({ id: 'llms', label: 'AI-Friendly\n(llms.txt)', group: 'meta', color: '#8b5cf6', size: 10 });
 edges.push({ source: 'taiwan', target: 'about' });
 edges.push({ source: 'taiwan', target: 'contribute' });
 edges.push({ source: 'about', target: 'quotes' });
@@ -187,12 +97,12 @@ for (const cat of categories) {
     group: cat,
     color: categoryColors[cat],
     size: 20,
-    url: `/en/${cat}`,
+    url: `/en/${cat}`
   });
   edges.push({ source: 'taiwan', target: cat });
 
   // Chinese article nodes
-  const catArticles = allZhArticles.filter((a) => {
+  const catArticles = allZhArticles.filter(a => {
     const parts = a.id.split('/');
     return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
   });
@@ -205,7 +115,7 @@ for (const cat of categories) {
       group: cat,
       color: categoryColors[cat],
       size: 10,
-      url: `/${cat}/${encodeURIComponent(slug)}`,
+      url: `/${cat}/${encodeURIComponent(slug)}`
     });
     edges.push({ source: cat, target: nodeId });
 
@@ -219,7 +129,7 @@ for (const cat of categories) {
   }
 
   // English article nodes
-  const enCatArticles = allEnArticles.filter((a) => {
+  const enCatArticles = allEnArticles.filter(a => {
     const parts = a.id.split('/');
     return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
   });
@@ -228,11 +138,11 @@ for (const cat of categories) {
     const nodeId = `en/${cat}/${slug}`;
     nodes.push({
       id: nodeId,
-      label: `🌐 ${article.data.title}`,
+      label: ` ${article.data.title}`,
       group: cat,
       color: categoryColors[cat],
       size: 8,
-      url: `/en/${cat}/${slug}`,
+      url: `/en/${cat}/${slug}`
     });
     edges.push({ source: cat, target: nodeId });
   }
@@ -254,49 +164,28 @@ for (const [tag, articleIds] of Object.entries(tagMap)) {
 }
 
 // Parse Hub wikilinks to create Hub→article edges
-const categoryMapping: Record<string, string> = {
-  history: 'History',
-  geography: 'Geography',
-  culture: 'Culture',
-  food: 'Food',
-  art: 'Art',
-  music: 'Music',
-  technology: 'Technology',
-  nature: 'Nature',
-  people: 'People',
-  society: 'Society',
-  economy: 'Economy',
-  lifestyle: 'Lifestyle',
-};
-const nodeIds = new Set(nodes.map((n) => n.id));
+const nodeIds = new Set(nodes.map(n => n.id));
 
 for (const [cat, folder] of Object.entries(categoryMapping)) {
   try {
     const hubDir = resolve(process.cwd(), 'knowledge', folder);
     const files = await readdir(hubDir);
-    const hubFile = files.find((f) => f.startsWith('_') && f.includes('Hub'));
+    const hubFile = files.find(f => f.startsWith('_') && f.includes('Hub'));
     if (hubFile) {
       const content = await readFile(join(hubDir, hubFile), 'utf-8');
-      const wikilinks =
-        content.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
+      const wikilinks = content.match(/\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]/g) || [];
       for (const wl of wikilinks) {
-        const target = wl
-          .replace(/\[\[/, '')
-          .replace(/\]\]/, '')
-          .split('|')[0]
-          .trim();
-        const matchNode = nodes.find(
-          (n) =>
-            n.label === target ||
-            n.label === `🌐 ${target}` ||
-            n.id === `${cat}/${target}` ||
-            n.id === `${cat}/${encodeURIComponent(target)}`,
+        const target = wl.replace(/\[\[/, '').replace(/\]\]/, '').split('|')[0].trim();
+        const matchNode = nodes.find(n =>
+          n.label === target ||
+          n.label === ` ${target}` ||
+          n.id === `${cat}/${target}` ||
+          n.id === `${cat}/${encodeURIComponent(target)}`
         );
         if (matchNode && matchNode.id !== cat) {
-          const exists = edges.some(
-            (e) =>
-              (e.source === cat && e.target === matchNode.id) ||
-              (e.source === matchNode.id && e.target === cat),
+          const exists = edges.some(e =>
+            (e.source === cat && e.target === matchNode.id) ||
+            (e.source === matchNode.id && e.target === cat)
           );
           if (!exists) {
             edges.push({ source: cat, target: matchNode.id });
@@ -305,9 +194,7 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
         if (!matchNode) {
           for (const [otherCat] of Object.entries(categoryMapping)) {
             if (otherCat === cat) continue;
-            const crossNode = nodes.find(
-              (n) => n.label === target && n.group === otherCat,
-            );
+            const crossNode = nodes.find(n => n.label === target && n.group === otherCat);
             if (crossNode) {
               edges.push({ source: cat, target: crossNode.id });
               break;
@@ -322,22 +209,13 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
 const graphData = JSON.stringify({ nodes, edges });
 ---
 
-<Layout
-  title="🕸️ Knowledge Graph — Taiwan.md"
-  description="All knowledge nodes and connections on Taiwan.md"
-  lang="en"
->
+<Layout title=" Knowledge Graph — Taiwan.md" description="All knowledge nodes and connections on Taiwan.md" lang="en">
   <main class="graph-page">
     <div class="graph-header">
-      <h1>🕸️ Knowledge Graph</h1>
+      <h1>Knowledge Graph</h1>
       <p>All knowledge nodes and connections on Taiwan.md</p>
       <div class="search-box">
-        <input
-          id="graph-search"
-          type="text"
-          placeholder="🔍 Search nodes..."
-          autocomplete="off"
-        />
+        <input id="graph-search" type="text" placeholder=" Search nodes..." autocomplete="off" />
         <span id="search-count" class="search-count"></span>
       </div>
       <a href="/en" class="back">&larr; Home</a>
@@ -360,41 +238,27 @@ const graphData = JSON.stringify({ nodes, edges });
     const width = container.clientWidth;
     const height = container.clientHeight;
 
-    const svg = d3
-      .select('#graph-container')
+    const svg = d3.select('#graph-container')
       .append('svg')
       .attr('width', width)
       .attr('height', height);
 
     const g = svg.append('g');
 
-    svg.call(
-      d3.zoom().on('zoom', (event) => {
-        g.attr('transform', event.transform);
-      }),
-    );
+    svg.call(d3.zoom().on('zoom', (event) => {
+      g.attr('transform', event.transform);
+    }));
 
-    const simulation = d3
-      .forceSimulation(data.nodes)
-      .force(
-        'link',
-        d3
-          .forceLink(data.edges)
-          .id((d) => d.id)
-          .distance((d) => {
-            if (d.source.id === 'taiwan') return 150;
-            return 80;
-          }),
-      )
+    const simulation = d3.forceSimulation(data.nodes)
+      .force('link', d3.forceLink(data.edges).id(d => d.id).distance(d => {
+        if (d.source.id === 'taiwan') return 150;
+        return 80;
+      }))
       .force('charge', d3.forceManyBody().strength(-200))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force(
-        'collision',
-        d3.forceCollide().radius((d) => d.size + 5),
-      );
+      .force('collision', d3.forceCollide().radius(d => d.size + 5));
 
-    const link = g
-      .append('g')
+    const link = g.append('g')
       .selectAll('line')
       .data(data.edges)
       .join('line')
@@ -402,52 +266,40 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('stroke-width', 1)
       .attr('stroke-opacity', 0.6);
 
-    const node = g
-      .append('g')
+    const node = g.append('g')
       .selectAll('circle')
       .data(data.nodes)
       .join('circle')
-      .attr('r', (d) => d.size)
-      .attr(
-        'fill',
-        (d) => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'),
-      )
+      .attr('r', d => d.size)
+      .attr('fill', d => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'))
       .attr('stroke', '#fff')
       .attr('stroke-width', 2)
       .attr('cursor', 'pointer')
-      .call(
-        d3
-          .drag()
-          .on('start', (event, d) => {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            d.fx = d.x;
-            d.fy = d.y;
-          })
-          .on('drag', (event, d) => {
-            d.fx = event.x;
-            d.fy = event.y;
-          })
-          .on('end', (event, d) => {
-            if (!event.active) simulation.alphaTarget(0);
-            d.fx = null;
-            d.fy = null;
-          }),
+      .call(d3.drag()
+        .on('start', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x; d.fy = d.y;
+        })
+        .on('drag', (event, d) => { d.fx = event.x; d.fy = event.y; })
+        .on('end', (event, d) => {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null; d.fy = null;
+        })
       );
 
-    const label = g
-      .append('g')
+    const label = g.append('g')
       .selectAll('text')
       .data(data.nodes)
       .join('text')
-      .text((d) => d.label)
-      .attr('font-size', (d) => {
+      .text(d => d.label)
+      .attr('font-size', d => {
         if (d.group === 'center') return '16px';
         if (d.size >= 15) return '13px';
         return '10px';
       })
-      .attr('font-weight', (d) => (d.size > 15 ? 'bold' : 'normal'))
+      .attr('font-weight', d => d.size > 15 ? 'bold' : 'normal')
       .attr('text-anchor', 'middle')
-      .attr('dy', (d) => d.size + 14)
+      .attr('dy', d => d.size + 14)
       .attr('fill', '#333')
       .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
       .attr('pointer-events', 'none');
@@ -457,29 +309,22 @@ const graphData = JSON.stringify({ nodes, edges });
     });
 
     const tooltip = document.getElementById('tooltip');
-    node
-      .on('mouseover', (event, d) => {
-        tooltip.textContent = d.label;
-        tooltip.style.display = 'block';
-        tooltip.style.left = event.pageX + 10 + 'px';
-        tooltip.style.top = event.pageY - 10 + 'px';
-        d3.select(event.target)
-          .attr('stroke', '#3b82f6')
-          .attr('stroke-width', 3);
-      })
-      .on('mouseout', (event) => {
-        tooltip.style.display = 'none';
-        d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
-      });
+    node.on('mouseover', (event, d) => {
+      tooltip.textContent = d.label;
+      tooltip.style.display = 'block';
+      tooltip.style.left = event.pageX + 10 + 'px';
+      tooltip.style.top = event.pageY - 10 + 'px';
+      d3.select(event.target).attr('stroke', '#3b82f6').attr('stroke-width', 3);
+    }).on('mouseout', (event) => {
+      tooltip.style.display = 'none';
+      d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
+    });
 
     simulation.on('tick', () => {
-      link
-        .attr('x1', (d) => d.source.x)
-        .attr('y1', (d) => d.source.y)
-        .attr('x2', (d) => d.target.x)
-        .attr('y2', (d) => d.target.y);
-      node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
-      label.attr('x', (d) => d.x).attr('y', (d) => d.y);
+      link.attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+          .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      node.attr('cx', d => d.x).attr('cy', d => d.y);
+      label.attr('x', d => d.x).attr('y', d => d.y);
     });
 
     // Search / filter
@@ -495,21 +340,18 @@ const graphData = JSON.stringify({ nodes, edges });
         return;
       }
       const matched = new Set();
-      data.nodes.forEach((n) => {
-        if (
-          n.label.toLowerCase().includes(query) ||
-          n.id.toLowerCase().includes(query)
-        ) {
+      data.nodes.forEach(n => {
+        if (n.label.toLowerCase().includes(query) || n.id.toLowerCase().includes(query)) {
           matched.add(n.id);
         }
       });
       searchCount.textContent = matched.size + ' results';
-      node.attr('opacity', (d) => (matched.has(d.id) ? 1 : 0.08));
-      label.attr('opacity', (d) => (matched.has(d.id) ? 1 : 0.08));
-      link.attr('stroke-opacity', (d) => {
+      node.attr('opacity', d => matched.has(d.id) ? 1 : 0.08);
+      label.attr('opacity', d => matched.has(d.id) ? 1 : 0.08);
+      link.attr('stroke-opacity', d => {
         const sid = typeof d.source === 'object' ? d.source.id : d.source;
         const tid = typeof d.target === 'object' ? d.target.id : d.target;
-        return matched.has(sid) && matched.has(tid) ? 0.6 : 0.03;
+        return (matched.has(sid) && matched.has(tid)) ? 0.6 : 0.03;
       });
     });
   }
@@ -529,50 +371,24 @@ const graphData = JSON.stringify({ nodes, edges });
     align-items: center;
     gap: 2rem;
   }
-  .graph-header h1 {
-    font-size: 1.3rem;
-    margin: 0;
-    white-space: nowrap;
-  }
-  .graph-header p {
-    opacity: 0.7;
-    margin: 0;
-    font-size: 0.9rem;
-  }
-  .search-box {
-    margin-left: auto;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
+  .graph-header h1 { font-size: 1.3rem; margin: 0; white-space: nowrap; }
+  .graph-header p { opacity: 0.7; margin: 0; font-size: 0.9rem; }
+  .search-box { margin-left: auto; display: flex; align-items: center; gap: 0.5rem; }
   #graph-search {
     padding: 0.4rem 0.8rem;
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(255,255,255,0.3);
     border-radius: 6px;
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(255,255,255,0.1);
     color: white;
     font-size: 0.9rem;
     width: 200px;
     outline: none;
     transition: border-color 0.2s;
   }
-  #graph-search::placeholder {
-    color: rgba(255, 255, 255, 0.5);
-  }
-  #graph-search:focus {
-    border-color: #3b82f6;
-    background: rgba(255, 255, 255, 0.15);
-  }
-  .search-count {
-    color: rgba(255, 255, 255, 0.7);
-    font-size: 0.8rem;
-    white-space: nowrap;
-  }
-  .back {
-    color: #3b82f6;
-    text-decoration: none;
-    font-size: 0.9rem;
-  }
+  #graph-search::placeholder { color: rgba(255,255,255,0.5); }
+  #graph-search:focus { border-color: #3b82f6; background: rgba(255,255,255,0.15); }
+  .search-count { color: rgba(255,255,255,0.7); font-size: 0.8rem; white-space: nowrap; }
+  .back { color: #3b82f6; text-decoration: none; font-size: 0.9rem; }
   #graph-container {
     flex: 1;
     background: #fafafa;

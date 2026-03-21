@@ -2,11 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 ---
 
-<Layout
-  title="Taiwan SVG — 開放台灣輪廓圖"
-  description="正確的台灣 SVG 輪廓圖，開源免費下載。AI 畫的台灣都是錯的，這是正確版本。"
-  lang="zh-TW"
->
+<Layout title="Taiwan SVG — 開放台灣輪廓圖" description="正確的台灣 SVG 輪廓圖，開源免費下載。AI 畫的台灣都是錯的，這是正確版本。" lang="zh-TW">
   <main class="assets-page">
     <section class="hero">
       <h1>Taiwan SVG — 開放台灣輪廓圖</h1>
@@ -14,16 +10,9 @@ import Layout from '../layouts/Layout.astro';
     </section>
 
     <section class="problem">
-      <h2>🤖 為什麼 AI 總是畫錯台灣？</h2>
-      <p>
-        大多數 AI
-        圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。結果就是：AI
-        畫出來的台灣經常形狀扭曲、比例失真、甚至跟其他島嶼搞混。
-      </p>
-      <p>
-        Taiwan.md 提供<strong>正確、開源、可自由使用</strong>的台灣 SVG
-        輪廓圖，讓每一個需要「台灣長什麼樣子」的場景都有標準答案。
-      </p>
+      <h2>為什麼 AI 總是畫錯台灣？</h2>
+      <p>大多數 AI 圖像生成模型的訓練資料中，缺乏結構化的台灣地理資料。結果就是：AI 畫出來的台灣經常形狀扭曲、比例失真、甚至跟其他島嶼搞混。</p>
+      <p>Taiwan.md 提供<strong>正確、開源、可自由使用</strong>的台灣 SVG 輪廓圖，讓每一個需要「台灣長什麼樣子」的場景都有標準答案。</p>
     </section>
 
     <section class="svg-cards">
@@ -36,101 +25,60 @@ import Layout from '../layouts/Layout.astro';
           <p class="card-desc">台灣輪廓 Icon — 適合 icon、logo、小尺寸</p>
           <p class="card-meta">Wikimedia Commons · ~6 KB · CC</p>
           <div class="card-actions">
-            <a
-              href="/assets/svg/taiwan-icon-wiki.svg"
-              download
-              class="btn btn-primary">下載 SVG</a
-            >
-            <button
-              class="btn btn-outline"
-              onclick="copySVG('taiwan-icon-wiki.svg', this)"
-              >複製 SVG 代碼</button
-            >
+            <a href="/assets/svg/taiwan-icon-wiki.svg" download class="btn btn-primary">下載 SVG</a>
+            <button class="btn btn-outline" onclick="copySVG('taiwan-icon-wiki.svg', this)">複製 SVG 代碼</button>
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img
-            src="/assets/svg/taiwan-simplemaps.svg"
-            alt="Taiwan SimpleMaps"
-          />
+          <img src="/assets/svg/taiwan-simplemaps.svg" alt="Taiwan SimpleMaps" />
         </div>
         <div class="card-info">
           <h3>taiwan-simplemaps.svg</h3>
           <p class="card-desc">SimpleMaps 版 — 乾淨向量輪廓，適合網頁嵌入</p>
           <p class="card-meta">SimpleMaps · ~5 KB</p>
           <div class="card-actions">
-            <a
-              href="/assets/svg/taiwan-simplemaps.svg"
-              download
-              class="btn btn-primary">下載 SVG</a
-            >
-            <button
-              class="btn btn-outline"
-              onclick="copySVG('taiwan-simplemaps.svg', this)"
-              >複製 SVG 代碼</button
-            >
+            <a href="/assets/svg/taiwan-simplemaps.svg" download class="btn btn-primary">下載 SVG</a>
+            <button class="btn btn-outline" onclick="copySVG('taiwan-simplemaps.svg', this)">複製 SVG 代碼</button>
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img
-            src="/assets/svg/taiwan-location-map.svg"
-            alt="Taiwan Location Map"
-          />
+          <img src="/assets/svg/taiwan-location-map.svg" alt="Taiwan Location Map" />
         </div>
         <div class="card-info">
           <h3>taiwan-location-map.svg</h3>
           <p class="card-desc">地理定位圖 — 含經緯度、城市標記，適合地圖用途</p>
           <p class="card-meta">Wikimedia Commons · ~120 KB · CC</p>
           <div class="card-actions">
-            <a
-              href="/assets/svg/taiwan-location-map.svg"
-              download
-              class="btn btn-primary">下載 SVG</a
-            >
-            <button
-              class="btn btn-outline"
-              onclick="copySVG('taiwan-location-map.svg', this)"
-              >複製 SVG 代碼</button
-            >
+            <a href="/assets/svg/taiwan-location-map.svg" download class="btn btn-primary">下載 SVG</a>
+            <button class="btn btn-outline" onclick="copySVG('taiwan-location-map.svg', this)">複製 SVG 代碼</button>
           </div>
         </div>
       </div>
 
       <div class="card">
         <div class="card-preview">
-          <img
-            src="/assets/svg/taiwan-political-division.svg"
-            alt="Taiwan Political Division Map"
-          />
+          <img src="/assets/svg/taiwan-political-division.svg" alt="Taiwan Political Division Map" />
         </div>
         <div class="card-info">
           <h3>taiwan-political-division.svg</h3>
           <p class="card-desc">行政區劃圖 — 縣市分區、完整行政邊界</p>
           <p class="card-meta">Wikimedia Commons · ~168 KB · CC</p>
           <div class="card-actions">
-            <a
-              href="/assets/svg/taiwan-political-division.svg"
-              download
-              class="btn btn-primary">下載 SVG</a
-            >
-            <button
-              class="btn btn-outline"
-              onclick="copySVG('taiwan-political-division.svg', this)"
-              >複製 SVG 代碼</button
-            >
+            <a href="/assets/svg/taiwan-political-division.svg" download class="btn btn-primary">下載 SVG</a>
+            <button class="btn btn-outline" onclick="copySVG('taiwan-political-division.svg', this)">複製 SVG 代碼</button>
           </div>
         </div>
       </div>
     </section>
 
     <section class="usage">
-      <h2>📝 使用方式</h2>
+      <h2>使用方式</h2>
       <div class="code-block">
         <pre><code>&lt;!-- 直接嵌入 --&gt;
 &lt;img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200"&gt;
@@ -144,51 +92,21 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     </section>
 
     <section class="license">
-      <h2>📄 授權與來源</h2>
-      <p>
-        所有 SVG 檔案以 <a
-          href="https://creativecommons.org/licenses/by-sa/4.0/"
-          target="_blank">CC BY-SA 4.0</a
-        > 授權釋出。歡迎自由使用、修改、商用，只需標注來源。
-      </p>
-
+      <h2>授權與來源</h2>
+      <p>所有 SVG 檔案以 <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a> 授權釋出。歡迎自由使用、修改、商用，只需標注來源。</p>
+      
       <h3>來源標注</h3>
       <ul class="source-list">
-        <li>
-          <strong>taiwan-icon.svg</strong> — 來源：<a
-            href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg"
-            target="_blank">Wikimedia Commons: Taiwan-icon.svg</a
-          >，公有領域（Public Domain）
-        </li>
-        <li>
-          <strong>taiwan-simplemaps.svg</strong> — 來源：<a
-            href="https://simplemaps.com/svg/country/tw"
-            target="_blank">SimpleMaps</a
-          >，Free License（需標注 simplemaps.com）
-        </li>
-        <li>
-          <strong>taiwan-location-map.svg</strong> — 來源：<a
-            href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg"
-            target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a
-          >，CC BY-SA 3.0，作者：NordNordWest
-        </li>
-        <li>
-          <strong>taiwan-political-division.svg</strong> — 來源：<a
-            href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg"
-            target="_blank"
-            >Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a
-          >，CC BY-SA 3.0
-        </li>
+        <li><strong>taiwan-icon.svg</strong> — 來源：<a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">Wikimedia Commons: Taiwan-icon.svg</a>，公有領域（Public Domain）</li>
+        <li><strong>taiwan-simplemaps.svg</strong> — 來源：<a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>，Free License（需標注 simplemaps.com）</li>
+        <li><strong>taiwan-location-map.svg</strong> — 來源：<a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a>，CC BY-SA 3.0，作者：NordNordWest</li>
+        <li><strong>taiwan-political-division.svg</strong> — 來源：<a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a>，CC BY-SA 3.0</li>
       </ul>
     </section>
 
     <section class="cta">
       <p>發現問題或有改進建議？</p>
-      <a
-        href="https://github.com/frank890417/taiwan-md"
-        target="_blank"
-        class="btn btn-primary">在 GitHub 上貢獻</a
-      >
+      <a href="https://github.com/frank890417/taiwan-md" target="_blank" class="btn btn-primary">在 GitHub 上貢獻</a>
     </section>
   </main>
 
@@ -199,11 +117,11 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         const text = await res.text();
         await navigator.clipboard.writeText(text);
         const orig = btn.textContent;
-        btn.textContent = '✅ 已複製';
-        setTimeout(() => (btn.textContent = orig), 2000);
-      } catch (e) {
-        btn.textContent = '❌ 複製失敗';
-        setTimeout(() => (btn.textContent = '複製 SVG 代碼'), 2000);
+        btn.textContent = ' 已複製';
+        setTimeout(() => btn.textContent = orig, 2000);
+      } catch(e) {
+        btn.textContent = ' 複製失敗';
+        setTimeout(() => btn.textContent = '複製 SVG 代碼', 2000);
       }
     }
   </script>
@@ -220,7 +138,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       padding: 3rem 0 2rem;
     }
     .hero h1 {
-      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      font-family: 'Noto Serif TC', serif;
       font-size: 2.2rem;
       color: #2d5016;
       margin-bottom: 0.5rem;
@@ -235,7 +153,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       line-height: 1.8;
     }
     .problem h2 {
-      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      font-family: 'Noto Serif TC', serif;
       color: #2d5016;
       margin-bottom: 1rem;
     }
@@ -251,12 +169,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       display: flex;
       background: #fff;
       border-radius: 16px;
-      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
       overflow: hidden;
       transition: box-shadow 0.2s;
     }
     .card:hover {
-      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+      box-shadow: 0 4px 20px rgba(0,0,0,0.12);
     }
 
     .card-preview {
@@ -332,7 +250,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       margin: 3rem 0 2rem;
     }
     .usage h2 {
-      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      font-family: 'Noto Serif TC', serif;
       color: #2d5016;
       margin-bottom: 1rem;
     }
@@ -353,7 +271,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       margin: 2rem 0;
     }
     .license h2 {
-      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      font-family: 'Noto Serif TC', serif;
       color: #2d5016;
       margin-bottom: 0.5rem;
     }

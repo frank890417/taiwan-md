@@ -1,306 +1,478 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import HeroSection from '../../components/home/HeroSection.astro';
-import CoverStory from '../../components/home/CoverStory.astro';
-import RandomDiscovery from '../../components/home/RandomDiscovery.astro';
-import CategoriesSection from '../../components/home/CategoriesSection.astro';
-import RecentUpdates from '../../components/home/RecentUpdates.astro';
-import NewsletterSection from '../../components/home/NewsletterSection.astro';
-import ContributeSection from '../../components/home/ContributeSection.astro';
-import LanguageStatement from '../../components/home/LanguageStatement.astro';
-import ReadingPath from '../../components/ReadingPath.astro';
-import FeatureCards from '../../components/FeatureCards.astro';
-import { fetchRecentCommits } from '../../lib/commits';
+import TopicsMasonry from '../../components/TopicsMasonry.astro';
+import HeroSection from '../../components/HeroSection.astro';
+import JourneyCard from '../../components/JourneyCard.astro';
+import WhyCard from '../../components/WhyCard.astro';
+import WelcomeModal from '../../components/WelcomeModal.astro';
+import SideTools from '../../components/SideTools.astro';
+import { t } from '../../i18n/ui';
 import { readdir, readFile } from 'fs/promises';
-import { resolve, join, basename } from 'path';
+import { resolve, basename } from 'path';
 import matter from 'gray-matter';
 
-// Fetch recent commits
-const recentCommits = await fetchRecentCommits();
+const lang = 'en';
 
-// Build article list for RandomDiscovery
-const categories = [
-  { id: 'history', name: 'History', folder: 'History' },
-  { id: 'geography', name: 'Geography', folder: 'Geography' },
-  { id: 'culture', name: 'Culture', folder: 'Culture' },
-  { id: 'food', name: 'Food', folder: 'Food' },
-  { id: 'art', name: 'Art', folder: 'Art' },
-  { id: 'music', name: 'Music', folder: 'Music' },
-  { id: 'technology', name: 'Technology', folder: 'Technology' },
-  { id: 'nature', name: 'Nature', folder: 'Nature' },
-  { id: 'people', name: 'People', folder: 'People' },
-  { id: 'society', name: 'Society', folder: 'Society' },
-  { id: 'economy', name: 'Economy', folder: 'Economy' },
-  { id: 'lifestyle', name: 'Lifestyle', folder: 'Lifestyle' },
+// Fetch recent commits
+let recentCommits: { hash: string; date: string; message: string }[] = [];
+try {
+  const res = await fetch('https://api.github.com/repos/frank890417/taiwan-md/commits?per_page=5');
+  if (res.ok) {
+    const data = await res.json();
+    recentCommits = data.map((c: any) => ({
+      hash: c.sha,
+      date: c.commit.author.date,
+      message: c.commit.message.split('\n')[0],
+    }));
+  }
+} catch {}
+
+function commitIcon(msg: string) {
+  if (msg.startsWith('feat')) return 'feat';
+  if (msg.startsWith('fix')) return 'fix';
+  if (msg.startsWith('content')) return 'content';
+  if (msg.startsWith('docs')) return 'docs';
+  return 'update';
+}
+
+function timeAgo(dateStr: string) {
+  const now = new Date();
+  const then = new Date(dateStr);
+  const diff = Math.floor((now.getTime() - then.getTime()) / 1000);
+  if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+  if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+  if (diff < 604800) return `${Math.floor(diff / 86400)}d ago`;
+  return then.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+const categoryFolders = [
+  { id: 'history', name: 'History' }, { id: 'geography', name: 'Geography' },
+  { id: 'culture', name: 'Culture' }, { id: 'food', name: 'Food' },
+  { id: 'art', name: 'Art' }, { id: 'music', name: 'Music' },
+  { id: 'technology', name: 'Technology' }, { id: 'nature', name: 'Nature' },
+  { id: 'people', name: 'People' }, { id: 'society', name: 'Society' },
+  { id: 'economy', name: 'Economy' }, { id: 'lifestyle', name: 'Lifestyle' },
 ];
 
 let allArticles: { title: string; url: string; category: string }[] = [];
-
-for (const cat of categories) {
+for (const cat of categoryFolders) {
   try {
-    const folderPath = resolve(process.cwd(), 'knowledge', 'en', cat.folder);
-    const files = await readdir(folderPath);
-    const mdFiles = files.filter(
-      (f) => f.endsWith('.md') && !f.startsWith('_'),
-    );
-
-    for (const file of mdFiles) {
-      const content = await readFile(join(folderPath, file), 'utf-8');
-      const { data: frontmatter } = matter(content);
+    const dirPath = resolve(process.cwd(), 'knowledge', 'en', cat.name);
+    const files = await readdir(dirPath);
+    for (const file of files.filter(f => f.endsWith('.md') && !f.startsWith('_'))) {
+      const content = await readFile(resolve(dirPath, file), 'utf-8');
+      const { data: fm } = matter(content);
       const slug = basename(file, '.md');
       allArticles.push({
-        title: frontmatter.title || slug,
-        url: `/en/${cat.id}/${slug}`,
+        title: fm.title || slug,
+        url: `/en/${cat.id}/${encodeURIComponent(slug)}`,
         category: cat.name,
       });
     }
-  } catch {
-    // folder doesn't exist, skip
-  }
+  } catch {}
 }
-
+if (allArticles.length === 0) {
+  allArticles = [
+    { title: 'Democratization', url: '/en/history/democratization', category: 'History' },
+    { title: 'Semiconductor Industry', url: '/en/technology/semiconductor-industry', category: 'Technology' },
+  ];
+}
 const randomArticlesData = JSON.stringify(allArticles);
-
-const readingPathSteps = [
-  {
-    href: '/en/history/democratization',
-    title: "Quiet Revolution: Taiwan's Democratization",
-    description:
-      "From authoritarianism to democracy, Asia's first peaceful transition miracle",
-    time: '6 min',
-  },
-  {
-    href: '/en/culture/ethnic-groups',
-    title: "Unity in Diversity: Taiwan's Ethnic Groups",
-    description:
-      "Four major ethnic groups weaving Taiwan's multicultural foundation",
-    time: '7 min',
-  },
-  {
-    href: '/en/food/night-market-culture',
-    title: 'The Real Taste of Taiwan: Night Market Culture',
-    description:
-      "World's densest street food social spaces with unmatched warmth",
-    time: '5 min',
-  },
-  {
-    href: '/en/technology/semiconductor-industry',
-    title: 'Silicon Shield: Semiconductor Industry',
-    description: 'How TSMC made a small island the heart of global technology',
-    time: '8 min',
-  },
-  {
-    href: '/en/lifestyle/convenience-store-culture',
-    title: 'Life Operating System: Convenience Stores',
-    description:
-      "More than stores - they're the infrastructure of an entire nation",
-    time: '4 min',
-  },
-];
-
-const readingPathFooterItems = [
-  { icon: '⏱️', label: 'Total 30 minutes' },
-  { icon: '🎯', label: '5 key domains' },
-  { icon: '🌟', label: 'Complete Taiwan overview' },
-];
 ---
 
-<Layout
-  title="Open Knowledge Base of Taiwan"
-  description="The open-source, AI-friendly knowledge base about Taiwan. 660+ pages covering history, culture, food, music, technology and more — written by the community, for the world."
-  lang="en"
->
-  <HeroSection />
+<Layout title="Taiwan.md - Open Knowledge Base of Taiwan"
+        description="The open-source, AI-friendly knowledge base about Taiwan. Curated perspectives from people who love Taiwan, for everyone."
+        lang="en">
+  <!-- Hero -->
+  <HeroSection lang={lang} />
 
-  <CoverStory />
+  <!-- Journey Paths -->
+  <section class="py-32 px-6 max-w-7xl mx-auto animate-on-scroll" id="journey">
+    <div class="text-center mb-16">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">{t('journey.subtitle', lang)}</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">{t('journey.title', lang)}</h2>
+    </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8">
+      <JourneyCard
+        title={t('journey.nature.title', lang)}
+        description={t('journey.nature.desc', lang)}
+        image="https://images.unsplash.com/photo-1558981403-c5f9899a28bc?w=800&q=80"
+        imageAlt="Taroko Gorge marble cliffs"
+        href="/en/nature"
+        readTime="15"
+        ctaText={t('journey.begin', lang)}
+        tall={true}
+      />
+      <JourneyCard
+        title={t('journey.history.title', lang)}
+        description={t('journey.history.desc', lang)}
+        image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=800&q=80"
+        imageAlt="Traditional Taiwan temple"
+        href="/en/history"
+        readTime="20"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.culture.title', lang)}
+        description={t('journey.culture.desc', lang)}
+        image="https://images.unsplash.com/photo-1493780474015-ba834fd0ce2f?w=800&q=80"
+        imageAlt="Taiwan temple festival"
+        href="/en/culture"
+        readTime="18"
+        ctaText={t('journey.begin', lang)}
+      />
+      <JourneyCard
+        title={t('journey.flavors.title', lang)}
+        description={t('journey.flavors.desc', lang)}
+        image="https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&q=80"
+        imageAlt="Taiwan night market food"
+        href="/en/food"
+        readTime="12"
+        ctaText={t('journey.begin', lang)}
+        tall={true}
+      />
+    </div>
+  </section>
 
-  <FeatureCards
-    lang="en"
-    sectionTitle="Why Taiwan.md?"
-    cards={[
-      {
-        icon: '🎯',
-        title: 'Curated Perspectives',
-        description:
-          'Carefully curated deep narratives, not encyclopedic listings',
-      },
-      {
-        icon: '🤖',
-        title: 'AI-Friendly Design',
-        description:
-          "Structured content that helps AI understand Taiwan's complexity",
-      },
-      {
-        icon: '🌍',
-        title: 'Bilingual Global Vision',
-        description:
-          "Starting from local perspectives, telling Taiwan's story in global languages",
-      },
-      {
-        icon: '📚',
-        title: 'Complete Multi-dimensional',
-        description:
-          "Covering 12+ domains, presenting Taiwan's three-dimensional complete picture",
-      },
-    ]}
-  />
+  <!-- Cover Story -->
+  <section class="py-28 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3 text-center">Cover Story</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-12 text-center leading-heading">How to Understand Taiwan?</h2>
+      <div class="space-y-8 text-forest-600 leading-loose text-lg">
+        <p>
+          Taiwan is an island of just 36,000 square kilometers, yet it contains all the world's complexity.
+          For four hundred years, everyone who set foot on this island has seen a different Taiwan through different eyes.
+        </p>
 
-  <RandomDiscovery articlesJson={randomArticlesData} />
+        <div class="space-y-6 border-l-2 border-teal/30 pl-8 my-12">
+          <blockquote class="text-forest italic text-base">
+            "The mountains, rivers, and streams are all the bodies of our ancestors. We are the children of the earth."
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Atayal oral literature</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            "Ilha Formosa" — Beautiful Island.
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Portuguese sailors, 1584</cite>
+          </blockquote>
+          <blockquote class="text-forest italic text-base">
+            "When you see Taiwan, you'll discover that this land is more beautiful than you imagined, and also more fragile than you imagined."
+            <cite class="block text-sm text-forest-400 not-italic mt-2">— Chi Po-lin, "Beyond Beauty: Taiwan from Above," 2013</cite>
+          </blockquote>
+        </div>
 
-  <ReadingPath
-    lang="en"
-    title="📖 Don't know where to start?"
-    subtitle="Discover the real Taiwan in 30 minutes with these 5 essential articles"
-    steps={readingPathSteps}
-    footerItems={readingPathFooterItems}
-    continueHref="#categories"
-    continueLabel="Continue exploring more topics →"
-  />
+        <p class="text-lg">
+          From the creation myths of Austronesian peoples to the rise of the semiconductor empire, from the silence of martial law to Asia's first legalization of same-sex marriage.
+          Taiwan's story is not a straight line, but a web.
+        </p>
+        <p class="text-lg">
+          <strong class="text-forest">Taiwan.md doesn't aim to give you answers.</strong>
+          What we want to do is give you a map — a map that lets you walk into Taiwan yourself.
+        </p>
+        <a href="/en/about" class="inline-flex items-center gap-2 text-teal font-semibold hover:text-teal-600 transition-colors no-underline border-none mt-4">
+          Read the complete collection of quotes
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
+      </div>
+    </div>
+  </section>
 
-  <LanguageStatement />
+  <!-- Random Discovery -->
+  <section class="py-20 px-6 animate-on-scroll">
+    <div class="max-w-lg mx-auto text-center">
+      <button id="random-discovery-btn" class="group w-full bg-gradient-to-br from-forest-50 to-teal-50 rounded-3xl border border-forest-100/30 shadow-card hover:shadow-lg transition-all p-10 cursor-pointer">
+        <svg class="w-10 h-10 mx-auto mb-3 text-teal opacity-60 group-hover:opacity-100 transition-opacity" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12c0-1.232-.046-2.453-.138-3.662a4.006 4.006 0 00-3.7-3.7 48.678 48.678 0 00-7.324 0 4.006 4.006 0 00-3.7 3.7c-.017.22-.032.441-.046.662M19.5 12l3-3m-3 3l-3-3m-12 3c0 1.232.046 2.453.138 3.662a4.006 4.006 0 003.7 3.7 48.656 48.656 0 007.324 0 4.006 4.006 0 003.7-3.7c.017-.22.032-.441.046-.662M4.5 12l3 3m-3-3l-3 3" /></svg>
+        <span class="random-text text-2xl font-serif font-bold text-forest block">Discover Taiwan Randomly</span>
+        <span class="random-subtitle text-sm text-forest-400 block mt-2">Explore unexpected stories</span>
+      </button>
+    </div>
+  </section>
 
-  <CategoriesSection>
-    <Fragment slot="prose">
+  <!-- Reading Path -->
+  <section class="py-28 px-6 max-w-4xl mx-auto animate-on-scroll">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Curated Path</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">Don't know where to start?</h2>
+      <p class="text-forest-400 mt-3 text-lg">Discover the real Taiwan in 30 minutes with these 5 essential articles</p>
+    </div>
+    <div class="space-y-4">
+      <a href="/en/history/democratization" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">1</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Quiet Revolution: Taiwan's Democratization</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">From authoritarianism to democracy, Asia's first peaceful transition miracle</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">6 min</span>
+      </a>
+      <a href="/en/culture/ethnic-groups" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">2</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Unity in Diversity: Taiwan's Ethnic Groups</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">Four major ethnic groups weaving Taiwan's multicultural foundation</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">7 min</span>
+      </a>
+      <a href="/en/food/night-market-culture" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">3</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">The Real Taste of Taiwan: Night Market Culture</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">World's densest street food social spaces with unmatched warmth</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">5 min</span>
+      </a>
+      <a href="/en/technology/semiconductor-industry" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-terracotta/10 text-terracotta text-lg font-bold flex items-center justify-center font-serif">4</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Silicon Shield: Semiconductor Industry</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">How TSMC made a small island the heart of global technology</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">8 min</span>
+      </a>
+      <a href="/en/lifestyle/convenience-store-culture" class="flex items-center gap-3 md:gap-5 p-4 md:p-5 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/30 hover:shadow-card transition-all no-underline group">
+        <span class="flex-shrink-0 w-12 h-12 rounded-xl bg-teal/10 text-teal text-lg font-bold flex items-center justify-center font-serif">5</span>
+        <div class="flex-1 min-w-0">
+          <h3 class="text-lg font-bold text-forest group-hover:text-teal transition-colors">Life Operating System: Convenience Stores</h3>
+          <p class="text-sm text-forest-400 truncate mt-0.5">More than stores — they're the infrastructure of an entire nation</p>
+        </div>
+        <span class="flex-shrink-0 text-xs text-forest-400 font-medium bg-forest-50 px-3 py-1.5 rounded-full">4 min</span>
+      </a>
+    </div>
+    <div class="text-center mt-10 text-sm text-forest-400">
+      <p>‹ <strong>Total 30 minutes</strong> · <strong>5 key domains</strong> · <strong>Complete Taiwan overview</strong></p>
+    </div>
+  </section>
+
+  <!-- Why Taiwan.md? -->
+  <section class="py-28 px-6 bg-white animate-on-scroll">
+    <div class="max-w-6xl mx-auto">
+      <div class="text-center mb-16">
+        <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Why Taiwan.md</p>
+        <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest leading-heading">Why Taiwan.md?</h2>
+      </div>
+      <div class="space-y-20">
+        <WhyCard
+          title="Curated Perspectives"
+          description="Carefully curated deep narratives, not encyclopedic listings. Every article is contextualized, presenting the complete texture of Taiwan's story."
+          image="https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600&q=80"
+          imageAlt="Curated perspective on Taiwan"
+        />
+        <WhyCard
+          title="AI-Friendly Design"
+          description="Structured Markdown content that lets AI models understand Taiwan's complexity. From llms.txt to semantic markup, every design decision makes knowledge easier for machines to understand and spread."
+          image="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&q=80"
+          imageAlt="AI-friendly structured content"
+          reversed={true}
+        />
+        <WhyCard
+          title="Multilingual Global Vision"
+          description="Starting from local perspectives, telling Taiwan's story in global languages. Traditional Chinese, English, Español — letting the world hear Taiwan's own voice."
+          image="https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?w=600&q=80"
+          imageAlt="Multilingual international perspective"
+        />
+        <WhyCard
+          title="Complete Multi-dimensional"
+          description="Covering 12+ domains, presenting Taiwan's three-dimensional complete picture. From semiconductors to night market culture, from democratization to indigenous legends — no simplification."
+          image="https://images.unsplash.com/photo-1470004914212-05527e49370b?w=600&q=80"
+          imageAlt="Comprehensive multi-dimensional coverage"
+          reversed={true}
+        />
+      </div>
+      <div class="flex flex-wrap justify-center gap-5 mt-16">
+        <a href="/en/graph" class="btn-primary">Knowledge Graph</a>
+        <a href="https://github.com/frank890417/taiwan-md/tree/main/knowledge" target="_blank" rel="noopener noreferrer" class="btn-secondary">Browse SSOT Source Data</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="py-28 px-6 animate-on-scroll" id="categories">
+    <div class="text-center mb-14">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Explore</p>
+      <h2 class="text-3xl md:text-5xl font-serif font-bold text-forest leading-heading">Discover Taiwan</h2>
+    </div>
+
+    <div class="max-w-3xl mx-auto mb-16 space-y-5 text-forest-600 leading-loose text-base">
       <p>
-        This island spans just 36,000 square kilometers, yet contains a
-        microcosm of the entire world. From the 3,952-meter peak of Yushan to
-        the abyssal trenches of the Pacific Ocean,
-        <a href="/en/geography" class="topic-pill">🗺️ the geography here</a> is a
-        live broadcast of mountain-building in action- tectonic compression, volcanic
-        eruptions, fault movements in an unceasing geological symphony that has played
-        for four million years, creating this youngest and most dynamic beautiful
-        island on Earth.
+        This island spans just 36,000 square kilometers, yet contains a microcosm of the entire world.
+        From the 3,952-meter peak of Yushan to the abyssal trenches of the Pacific,
+        <a href="/en/geography" class="text-teal font-semibold no-underline border-none hover:text-teal-600">the geography here</a> is a live broadcast of mountain-building in action.
       </p>
-
       <p>
-        Four hundred years ago, the Dutch built Fort Zeelandia in Tainan. Since
-        then, every ruler- the Zheng Kingdom, the Qing Empire, Japan, the
-        Republic of China-has carved their own inscriptions on this island. But
-        what truly makes Taiwan Taiwan is that <a
-          href="/en/history"
-          class="topic-pill">📜 long awakening</a
-        > from authoritarianism to democracy. From the blood and tears of February
-        28th to the cheers of martial law's end, from Formosa to Sunflower, every
-        moment of pain and resistance has made this island's soul clearer.
+        Four hundred years ago, the Dutch built Fort Zeelandia in Tainan. But what truly makes Taiwan Taiwan is that
+        <a href="/en/history" class="text-teal font-semibold no-underline border-none hover:text-teal-600">long awakening</a> from authoritarianism to democracy.
+        Every moment of pain and resistance has made this island's soul clearer.
       </p>
-
       <p>
-        Multiple bloodlines flow through this land. Indigenous peoples have
-        lived here for six thousand years. Hoklo people from Fujian arrived in
-        the 17th century, followed by Hakka communities, mainlanders who
-        migrated from various Chinese provinces after the war, and recent new
-        residents and migrant workers. Each group brought their own languages,
-        beliefs, and memories.
-        <a href="/en/culture" class="topic-pill">🎭 Taiwan's culture</a> is not a
-        melting pot, but a puzzle- each piece maintaining its own color and shape,
-        assembled into an unprecedented picture.
+        <a href="/en/culture" class="text-teal font-semibold no-underline border-none hover:text-teal-600">Taiwan's culture</a> is not a melting pot, but a puzzle —
+        each piece maintaining its own color and shape, assembled into an unprecedented picture.
       </p>
-
       <p>
-        Walk into any Taiwan night market, and you'll simultaneously smell Hoklo
-        oyster omelets, Japanese tempura, and the Shandong scallion pancakes
-        brought by post-war veterans.
-        <a href="/en/food" class="topic-pill">🍜 This island's flavors</a>
-        are the gustatory version of its immigration history. From street vendors'
-        human warmth to Michelin restaurants' precision, Taiwanese people tell stories
-        through food, preserve memories through cuisine.
+        Walk into any Taiwan night market, and <a href="/en/food" class="text-teal font-semibold no-underline border-none hover:text-teal-600">this island's flavors</a> are
+        the gustatory version of its immigration history. Taiwanese people tell stories through food, preserve memories through cuisine.
       </p>
-
       <p>
-        The Butterfly Kingdom is not a romantic metaphor, but an ecological
-        reality. On an island smaller than the Netherlands, more than 59,000
-        species crowd together — an extraordinary 2.5% of global biodiversity on
-        just 0.025% of the world's land area.
-        <a href="/en/nature" class="topic-pill">🌿 Taiwan's nature</a> is a three-dimensional
-        evolutionary textbook: from tropical rainforests to alpine tundra, from coral
-        reefs to the Kuroshio Current, species evolve, diverge, and coexist here.
-        But the price of industrial development is also written in the mountains and
-        rivers, as the tug-of-war between conservation and development continues.
+        TSMC's wafers are not just silicon chips, but proof of Taiwan's position in the global technology map.
+        <a href="/en/technology" class="text-teal font-semibold no-underline border-none hover:text-teal-600">This tech island</a> has evolved from contract manufacturing to innovative R&D.
       </p>
+    </div>
 
-      <p>
-        From Lai He and Yang Kui to Pai Hsien-yung and Chu T'ien-hsin, from the
-        Wufeng Lin family to the Koo Chen-fu clan,
-        <a href="/en/people" class="topic-pill">👥 Taiwan's figures</a> are microcosms
-        of their times. They are not just individual biographies, but collective memories
-        of how this island survived in the cracks and found hope in hardship. Behind
-        every story are the resilience and choices of small people in great times.
-      </p>
+    <div class="flex items-center gap-4 max-w-7xl mx-auto mb-10">
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+      <span class="text-sm text-forest-400 font-medium">Quick Navigation</span>
+      <div class="flex-1 h-px bg-forest-100/50"></div>
+    </div>
 
-      <p>
-        From temple fair Eight Generals to contemporary art at the Venice
-        Biennale,
-        <a href="/en/art" class="topic-pill">🎨 Taiwan's art</a> is a dialogue between
-        tradition and innovation. Jiaozhi pottery and digital installations, traditional
-        opera and experimental theater, indigenous totems and contemporary painting-artists
-        constantly ask: How do we respond to this era through creation? How do we
-        maintain locality in globalization?
-      </p>
+    <TopicsMasonry lang={lang} />
+  </section>
 
-      <p>
-        From indigenous ancient songs to Deng Yu-xian's "Longing for Spring
-        Wind," from campus folk songs to the Golden Melody Awards,
-        <a href="/en/music" class="topic-pill">🎵 Taiwan's sounds</a> are the island's
-        heartbeat. Music transcends ethnic, linguistic, and generational boundaries,
-        becoming the most cohesive carrier of collective memory. Whether it's Mayday's
-        roar at the Taipei Arena or indigenous ancient songs in tribal communities,
-        they all tell the same story: who we are, where we come from.
-      </p>
+  <!-- Traditional Chinese Statement -->
+  <section class="py-24 bg-forest-50/40 animate-on-scroll">
+    <div class="max-w-3xl mx-auto px-6 text-center">
+      <h3 class="text-2xl font-serif font-bold text-forest mb-6 leading-heading">Why Traditional Chinese?</h3>
+      <div class="text-forest-600 leading-loose space-y-4 text-left">
+        <p>Taiwan.md chooses <strong class="text-forest">Traditional Chinese</strong> as the default language — this is not just a technical decision, it's a cultural statement.</p>
+        <p>Traditional Chinese is one of the world's oldest writing systems still in daily use, and Taiwan is the only major region globally that uses Traditional Chinese as its official script.</p>
+        <p class="text-sm text-forest-400 italic">
+          Taiwan uses Traditional Chinese — the world's oldest writing system still in daily use,
+          and Taiwan is its last major home. We believe our language and culture deserve to be seen and understood.
+          Even if you can't read it, its beauty speaks for itself. This English version serves as a bridge
+          to help the world discover Taiwan's richness. We also have a <a href="/" class="text-teal">中文版本</a>.
+        </p>
+      </div>
+    </div>
+  </section>
 
-      <p>
-        TSMC's wafers are not just silicon chips, but proof of Taiwan's position
-        in the global technology map.
-        <a href="/en/technology" class="topic-pill">💻 This tech island</a> has evolved
-        from contract manufacturing to innovative R&D, from hardware advantages to
-        software breakthroughs. But technological development also brings challenges:
-        digital divides, AI displacement, cybersecurity threats-how does Taiwan surf
-        the tech wave without drowning?
-      </p>
+  <!-- Recent Updates -->
+  {recentCommits.length > 0 && (
+    <section class="py-20 px-6">
+      <div class="max-w-3xl mx-auto">
+        <div class="text-center mb-10">
+          <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-2">Live Updates</p>
+          <h2 class="text-2xl font-serif font-bold text-forest">Latest Updates</h2>
+          <p class="text-sm text-forest-400 mt-2">Taiwan.md is growing</p>
+        </div>
+        <div class="space-y-3">
+          {recentCommits.slice(0, 3).map(commit => (
+            <a href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`} target="_blank" rel="noopener noreferrer"
+               class="flex items-center gap-4 p-4 rounded-2xl bg-white border border-forest-100/30 hover:border-teal/20 hover:shadow-card transition-all no-underline">
+              <span class="text-lg">{commitIcon(commit.message)}</span>
+              <span class="flex-1 text-sm text-forest truncate">{commit.message}</span>
+              <span class="flex-shrink-0 text-xs text-forest-400 bg-forest-50 px-3 py-1.5 rounded-full">{timeAgo(commit.date)}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 
-      <p>
-        From Asia's Four Little Dragons to the semiconductor empire,
-        <a href="/en/economy" class="topic-pill">📈 Taiwan's economic miracle</a
-        >
-        is a textbook case of small nation, big strategy. But behind the miracle are
-        countless overtime nights, meticulous cost control, and relentless pursuit
-        of efficiency. Now facing the US-China trade war and global supply chain restructuring,
-        how does Taiwan continue writing its economic legend?
-      </p>
+  <!-- Newsletter -->
+  <iframe name="newsletter-iframe" style="display:none;"></iframe>
+  <section class="py-24 bg-forest text-white">
+    <div class="max-w-3xl mx-auto px-6">
+      <div class="text-center md:text-left md:flex md:items-center md:justify-between md:gap-12">
+        <div class="mb-8 md:mb-0">
+          <h2 class="text-2xl font-serif font-bold mb-2">Subscribe to Taiwan.md</h2>
+          <p class="text-cream-200/80 text-sm">Get Taiwan's best stories delivered to your inbox.</p>
+        </div>
+        <form id="newsletter-form"
+              action="https://docs.google.com/forms/d/e/1FAIpQLSfNY5y6p8xM0oVL4PSOmOYoPZDTSNykZtMDLNmQnQrSr5-59w/formResponse"
+              method="POST" target="newsletter-iframe" class="flex-1 max-w-md">
+          <div class="flex flex-col sm:flex-row gap-3">
+            <input type="email" name="entry.1578963213" placeholder="your@email.com" required
+                   class="flex-1 px-5 py-3 rounded-full bg-white/10 border border-white/20 text-white placeholder-white/40 text-sm focus:outline-none focus:ring-2 focus:ring-teal/50" />
+            <button type="submit" class="px-5 sm:px-7 py-3 bg-teal text-white rounded-full font-semibold text-sm hover:bg-teal-600 transition-colors whitespace-nowrap">Subscribe</button>
+          </div>
+        </form>
+      </div>
+      <div id="newsletter-success" class="hidden mt-6 text-teal-200 font-semibold text-center md:text-left">Thanks for subscribing!</div>
+      <p class="text-xs text-cream-300/60 mt-4 text-center md:text-left">No spam, unsubscribe anytime.</p>
+    </div>
+  </section>
 
-      <p>
-        <a href="/en/society" class="topic-pill">⚖️ Taiwan's society</a>'s
-        keywords are "diversity" and "inclusion." From Asia's first legalization
-        of same-sex marriage to the ongoing promotion of transitional justice,
-        from nuclear referendum to pension reform, Taiwanese people are learning
-        how to dialogue amid differences and seek consensus in conflict. This is
-        democracy's practice ground and the future's laboratory.
-      </p>
+  <!-- Contribute -->
+  <section class="py-28 px-6 text-center animate-on-scroll">
+    <div class="max-w-2xl mx-auto">
+      <p class="text-sm uppercase tracking-[0.25em] text-teal font-medium mb-3">Open Source</p>
+      <h2 class="text-3xl md:text-4xl font-serif font-bold text-forest mb-4 leading-heading">Join Us</h2>
+      <p class="text-forest-400 text-lg mb-10">Taiwan.md is a community-driven open source project. Whether you're a local Taiwanese or an international friend interested in Taiwan, we welcome your knowledge and perspectives.</p>
+      <div class="flex flex-wrap justify-center gap-5">
+        <a href="/en/contribute" class="inline-flex items-center gap-2.5 px-10 py-4 bg-teal text-white font-semibold text-lg rounded-full hover:bg-teal-600 transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-0.5">
+          Contribution Guide
+          <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M17 8l4 4m0 0l-4 4m4-4H3" /></svg>
+        </a>
+        <a href="https://github.com/frank890417/taiwan-md" class="inline-flex items-center gap-2.5 px-10 py-4 bg-forest/5 text-forest font-semibold text-lg rounded-full border border-forest/15 hover:bg-forest/10 transition-all duration-300" target="_blank" rel="noopener noreferrer">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+          GitHub Project
+        </a>
+      </div>
+    </div>
+  </section>
 
-      <p>
-        Taiwanese people's <a href="/en/lifestyle" class="topic-pill"
-          >🏠 lifestyle</a
-        > is a blend of convenience and human warmth. The world's highest density
-        of convenience stores, yet night markets' warmth remains unique. In the 24/7
-        urban rhythm, neighborhood greetings and care are still preserved. In globalization's
-        torrent, how do Taiwanese people maintain their life philosophy? The answer
-        might lie in that daily greeting: "Have you eaten yet?"
-      </p>
-    </Fragment>
-  </CategoriesSection>
-
-  <RecentUpdates commits={recentCommits} />
-
-  <NewsletterSection />
-
-  <ContributeSection />
+  <WelcomeModal lang={lang} />
+  <SideTools lang={lang} />
 </Layout>
 
-<style>
-  .section-title {
-    font-size: 2.5rem;
-    font-weight: 800;
-    text-align: center;
-    color: #1a1a2e;
-    margin-bottom: 1rem;
+<script is:inline define:vars={{ randomArticlesData }}>
+  function initRandomDiscovery() {
+    var randomBtn = document.getElementById('random-discovery-btn');
+    if (!randomBtn || randomBtn.__randomInit) return;
+    randomBtn.__randomInit = true;
+
+    var articles = [];
+    try { articles = JSON.parse(randomArticlesData); } catch(e) {}
+
+    if (articles.length > 0) {
+      var shuffled = articles.slice();
+      for (var i = shuffled.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+      }
+      var currentIndex = 0;
+
+      randomBtn.addEventListener('click', function() {
+        if (currentIndex >= shuffled.length) {
+          currentIndex = 0;
+          for (var i = shuffled.length - 1; i > 0; i--) {
+            var j = Math.floor(Math.random() * (i + 1));
+            var tmp = shuffled[i]; shuffled[i] = shuffled[j]; shuffled[j] = tmp;
+          }
+        }
+        var article = shuffled[currentIndex++];
+        var textEl = randomBtn.querySelector('.random-text');
+        var subtitleEl = randomBtn.querySelector('.random-subtitle');
+        randomBtn.style.pointerEvents = 'none';
+        var ticks = 0;
+        var interval = setInterval(function() {
+          var preview = shuffled[Math.floor(Math.random() * shuffled.length)];
+          if (textEl) textEl.textContent = preview.title;
+          if (subtitleEl) subtitleEl.textContent = preview.category;
+          ticks++;
+          if (ticks >= 8) {
+            clearInterval(interval);
+            if (textEl) textEl.textContent = article.title;
+            if (subtitleEl) subtitleEl.textContent = article.category;
+            setTimeout(function() { window.location.href = article.url; }, 400);
+          }
+        }, 80);
+      });
+    }
   }
-</style>
+
+  function initNewsletter() {
+    var form = document.getElementById('newsletter-form');
+    if (!form || form.__newsletterInit) return;
+    form.__newsletterInit = true;
+    form.addEventListener('submit', function() {
+      setTimeout(function() {
+        var el = document.getElementById('newsletter-success');
+        if (el) el.classList.remove('hidden');
+      }, 500);
+    });
+  }
+
+  initRandomDiscovery();
+  initNewsletter();
+  document.addEventListener('astro:page-load', function() {
+    initRandomDiscovery();
+    initNewsletter();
+  });
+</script>
