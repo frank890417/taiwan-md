@@ -1,8 +1,3 @@
-geography/台灣生態多樣性熱點.md
-geography/台灣水庫與水資源管理.md
-geography/台灣交通運輸網絡.md
-geography/_Geography Hub.md
-food/夜市文化.md
 economy/台灣企業：統一企業.md
 economy/台灣企業：日月光半導體.md
 economy/台灣企業：廣達電腦.md
