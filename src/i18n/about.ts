@@ -3,24 +3,24 @@ export const aboutUI = {
     // Meta
     'about.meta.title': 'About Taiwan.md',
     'about.meta.description':
-      'The story behind Taiwan.md, founder introduction, and contact information',
+      'The origin story of Taiwan.md, founder introduction, and contact information',
 
     // Section 1: Naming
     'about.naming.title': 'Why Taiwan.md?',
     'about.naming.subtitle':
-      'The perfect coincidence from technical format to cultural symbolism',
+      'A perfect coincidence from technical format to cultural symbol',
     'about.naming.tech.icon': '📝',
-    'about.naming.tech.title': 'Technical Layer',
+    'about.naming.tech.title': 'Technical Level',
     'about.naming.tech.desc.html':
-      '<code>.md</code> = Markdown, the most common document format in the programming world. Using the format most suitable for AI understanding to introduce Taiwan to the world.',
+      ', the most universal document format in the programming world. Using the most AI-friendly format to let the world know Taiwan.',
     'about.naming.symbol.icon': '🌍',
-    'about.naming.symbol.title': 'Symbolic Layer',
+    'about.naming.symbol.title': 'Symbolic Level',
     'about.naming.symbol.desc.html':
-      '<code>.md</code> happens to be the country code top-level domain for Moldova. Taiwan + Markdown = connecting the world with open-source spirit.',
+      " happens to be Moldova's country-code top-level domain. Taiwan + Markdown = connecting the world through open-source spirit.",
     'about.naming.lucky.icon': '✨',
-    'about.naming.lucky.title': 'Fortunate Coincidence',
+    'about.naming.lucky.title': 'A Lucky Coincidence',
     'about.naming.lucky.desc':
-      "Surprisingly, no one had registered the taiwan.md domain. Perhaps the universe is telling us — it's time to do this.",
+      'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
     'about.stats.pages.number': '660+',
@@ -36,106 +36,107 @@ export const aboutUI = {
 
     // Vision
     'about.vision.p1':
-      "Taiwan.md is more than just a website. It's a letter to the world.",
+      "Taiwan.md is more than a website. It's a letter to the world.",
     'about.vision.p2':
-      'We believe that with an open-source spirit, curatorial perspective, and AI-friendly format, we can provide the most complete and warmest answers for everyone who wants to understand Taiwan — whether human or AI.',
+      "We believe that with an open-source spirit, a curator's eye, and AI-friendly formats, we can provide the most comprehensive and heartfelt answer for anyone who wants to know Taiwan — whether human or AI.",
     'about.vision.p3.html':
-      "This is not a travel guide, not political propaganda, not commercial advertising.<br />This is Taiwan's digital anthropology museum, a living fossil of culture, a record of history in the making.",
+      "This is not a travel guide, not political propaganda, not a commercial advertisement.<br />This is Taiwan's digital anthropology museum, a living fossil of culture, a record of history in the making.",
 
     // Section 2: Origin
     'about.origin.title': 'The Birth of Taiwan.md',
     'about.origin.subtitle':
-      'From inspiration during street walks to a complete portal curating Taiwan for the world',
+      'From a spark of inspiration on a street walk, to a curated gateway for the world to discover Taiwan',
 
     // Timeline
     'about.timeline.2024-2025.date': '2024 — 2025',
-    'about.timeline.2024-2025.title': '"What kind of place is Taiwan?"',
+    'about.timeline.2024-2025.title': '"What is Taiwan like?"',
     'about.timeline.2024-2025.desc':
-      'At international venues like the Venice Biennale, Art Basel Miami, and Paris 104 residency, Che-Yu was repeatedly asked by foreign friends: "Where can I learn about Taiwan?" He discovered there was no complete portal to point them to — Wikipedia was too cold, tourism bureaus too shallow, news too fragmented.',
+      'At international venues like the Venice Biennale, Art Basel Miami, and the Paris 104 residency, Che-Yu was constantly asked the same question by international friends: "Where can I learn about Taiwan?" He realized there was no comprehensive portal to point them to — Wikipedia was too cold, the tourism bureau too shallow, and the news too fragmented.',
 
     'about.timeline.2026-02-03.date': '2026 / 02 — 03',
-    'about.timeline.2026-02-03.title': 'Personal SSOT Concept',
+    'about.timeline.2026-02-03.title': 'The Personal SSOT Concept',
     'about.timeline.2026-02-03.p1':
-      'While building his personal knowledge system, Che-Yu proposed the "SSOT — Single Source of Truth" concept: Your CV, official website, and social media bios all present three different versions of yourself — which one is real?',
+      'While building his personal knowledge system, Che-Yu proposed the concept of "SSOT — Single Source of Truth": Your CV, website, and social media bios all show three different versions of yourself — which one is real?',
     'about.timeline.2026-02-03.p2.html':
-      "The solution is to establish a <strong>single source of truth</strong>, from which all platforms sync. This concept resonated after being shared at the Generative AI Annual Conference meetup on 3/11/2026 — if one person's identity needs SSOT, <strong>what about a country?</strong>",
+      "The solution is to establish a <strong>single source of truth</strong>, with all platforms syncing from it. This concept resonated deeply after being shared at a Generative AI Annual Conference meetup on March 11, 2026 — If a person's identity needs an SSOT, <strong>what about a country?</strong>",
 
     'about.timeline.2026-03-11.date': '2026 / 03 / 11',
     'about.timeline.2026-03-11.title':
       'AI Meetup Talk: "My Code Finally Came Alive"',
     'about.timeline.2026-03-11.p1':
-      'Che-Yu shared at the Generative AI Annual Conference meetup how AI Agents automatically curate personal brands, knowledge graph identity management, and Multi-Agent collaboration practical experience. The talk demonstrated how the SSOT concept helps AI "excavate" your life — cross-referencing to find 25+ missing events and year errors.',
+      'Che-Yu shared at the Generative AI Annual Conference meetup his practical experience with AI Agents automatically curating personal brands, knowledge graph identity management, and multi-agent collaboration. The talk demonstrated how the SSOT concept allows AI to help you "excavate" your own life — cross-referencing to discover 25+ missing events and date errors.',
     'about.timeline.2026-03-11.p2.html':
-      '<em>"If AI can curate me, can it help Taiwan curate itself?"</em>',
+      '<em>"If AI can curate my identity, can it help curate Taiwan\'s?"</em>',
 
     'about.timeline.2026-03-17.date': '2026 / 03 / 17',
-    'about.timeline.2026-03-17.title': 'Taiwan.md is Born',
+    'about.timeline.2026-03-17.title': 'Taiwan.md Is Born',
     'about.timeline.2026-03-17.p1':
-      'From idea to launch, it took just one day. The AI Agent team worked alongside Che-Yu:',
+      'From idea to launch, it took just one day. The AI Agent team and Che-Yu worked side by side:',
     'about.timeline.2026-03-17.li1':
-      'Purchased taiwan.md domain (.md = Markdown ≈ defining a country with documents)',
-    'about.timeline.2026-03-17.li2': '12 major knowledge architecture design',
-    'about.timeline.2026-03-17.li3': '34 Chinese and English articles launched',
+      'Purchased the taiwan.md domain (.md = Markdown ≈ defining a country through documents)',
+    'about.timeline.2026-03-17.li2':
+      'Designed a 12-category knowledge architecture',
+    'about.timeline.2026-03-17.li3':
+      'Published 34 bilingual articles in Chinese and English',
     'about.timeline.2026-03-17.li4':
-      'Knowledge graph, curatorial design, AI-friendly structure',
+      'Knowledge graph, curated design, AI-friendly structure',
     'about.timeline.2026-03-17.li5':
       'Within 1 hour of launch, GA4 detected visitors from New York 🌍',
 
     'about.timeline.2026-03-18-1.date': '2026 / 03 / 18 — 17:44',
-    'about.timeline.2026-03-18-1.title': 'Milestone: 100 Stars + 5,000 Views',
+    'about.timeline.2026-03-18-1.title': 'Milestone: 100 Stars + 5,000 Visits',
     'about.timeline.2026-03-18-1.p1.html':
-      'At 2:23 PM on 3/18, Che-Yu posted on Facebook: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">"A crazy project begins: taiwan.md — Open-source knowledge base about Taiwan."</a> The post triggered massive sharing and attention. Within just three hours, Taiwan.md broke <strong>100 stars</strong> on GitHub, and the site accumulated over <strong>5,000 pageviews</strong>. Attention from around the world proves this open-source knowledge base is needed.',
+      'At 2:23 PM on March 18, Che-Yu published a Facebook post: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">"The start of a crazy plan: taiwan.md — Open-source knowledge base about Taiwan."</a> The post triggered massive shares and attention. Within just three hours, Taiwan.md broke <strong>100 stars</strong> on GitHub, and the website surpassed <strong>5,000 total visits</strong>. Attention from around the world proved that this open-source knowledge base is truly needed.',
 
     'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
-    'about.timeline.2026-03-18-2.title':
-      'Media Coverage: Liberty Times + INSIDE',
+    'about.timeline.2026-03-18-2.title': 'Media Coverage: 自由時報 + INSIDE',
     'about.timeline.2026-03-18-2.desc.html':
-      'Less than eight hours after posting, <strong>Liberty Times Arts & Culture</strong> and <strong>INSIDE</strong> both proactively covered Taiwan.md. From social media buzz to mainstream media attention, Taiwan.md evolved from a weekend project to a seriously discussed public issue.',
+      'Less than eight hours after the post, <strong>自由時報 Arts & Culture</strong> and <strong>INSIDE</strong> proactively covered Taiwan.md. From social media buzz to mainstream media attention, Taiwan.md evolved from a weekend project into a seriously discussed public issue.',
 
     'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
     'about.timeline.2026-03-19.title':
-      'Milestone: 500 Stars ・ 50 Forks ・ 296 Pages',
+      'Milestone: 500 Stars・50 Forks・296 Pages',
     'about.timeline.2026-03-19.desc.html':
-      'Less than 48 hours after launch, GitHub broke <strong>500 stars</strong> and <strong>50 forks</strong>. The knowledge base expanded from initial 95 articles to <strong>296 pages</strong>, people pages grew from 21 to 105, covering history, art, sports, technology, politics and more. The Facebook post received <strong>13K likes, 6,083 shares, 162 comments</strong>. The community began showing constructive criticism and deep discussions — open-source collaboration spirit is happening.',
+      'Less than 48 hours after launch, GitHub broke <strong>500 stars</strong> and <strong>50 forks</strong>. The knowledge base expanded from the initial 95 articles to <strong>296 pages</strong>, with people pages growing from 21 to 105 individuals, covering history, arts, sports, technology, and politics. The Facebook post received <strong>13,000 likes, 6,083 shares, and 162 comments</strong>. The community began showing constructive criticism and deep discussions, and the open-source collaborative spirit was taking effect.',
 
     'about.timeline.2026-03-20.date': '2026 / 03 / 20',
     'about.timeline.2026-03-20.title':
-      'Milestone: 56,000 Users ・ 106 Countries ・ 660+ Pages',
+      'Milestone: 56,000 Users・106 Countries・660+ Pages',
     'about.timeline.2026-03-20.desc.html':
-      "On the third day after launch, GA4 recorded <strong>56,000 active users</strong>, <strong>134,000 pageviews</strong>, from <strong>106 countries</strong> — from Bhutan to Vanuatu, the world is reading about Taiwan. GitHub broke <strong>600 stars</strong>, <strong>23 contributors</strong> joined. The knowledge base expanded to <strong>660+ pages</strong> (321 Chinese + 339 English), covering 12 major categories and 105 Taiwanese figures. The Facebook post's social effect continues, with the semiconductor industry article becoming the most popular single piece.",
+      "On the third day after launch, GA4 accumulated <strong>56,000 active users</strong> and <strong>134,000 page views</strong>, from <strong>106 countries</strong> — from Bhutan to Vanuatu, the world is reading Taiwan. GitHub broke <strong>600 stars</strong>, with <strong>23 contributors</strong> joining. The knowledge base expanded to <strong>660+ pages</strong> (321 Chinese + 339 English), covering 12 major categories and 105 Taiwanese figures. The Facebook post's community effect continued to ferment, with the semiconductor industry becoming the most popular single article.",
 
     'about.timeline.ongoing.date': 'Ongoing',
     'about.timeline.ongoing.title': 'From Personal SSOT to National SSOT',
     'about.timeline.ongoing.desc.html':
-      'Taiwan.md is an experiment: Can we use open-source Markdown, AI curation, and community collaboration to build a national-level Single Source of Truth? Not a government version, not a tourism version, but <strong>the version people who actually live here want to tell the world</strong>.',
+      "Taiwan.md is an experiment: can open-source Markdown, AI curation, and community collaboration create a national-level Single Source of Truth? Not the government's version, not the tourism version, but <strong>the version that people who actually live here want to tell the world</strong>.",
 
     // Press cards
-    'about.press.cna': 'CNA',
+    'about.press.cna': 'CNA 中央社',
     'about.press.cna.title':
-      'From TSMC to Breakfast Shop Aunties: Taiwan.md Knowledge Base Tells Taiwan Stories in the AI Era',
+      "From TSMC to Breakfast Shop Aunties: Taiwan.md Knowledge Base Tells Taiwan's Story in the AI Era",
     'about.press.inside': 'INSIDE',
     'about.press.inside.title':
-      'Open-sourcing Taiwan! taiwan.md: In the age of AI answers, let a country introduce itself with README',
-    'about.press.abmedia': 'ABMedia',
+      'Open-sourcing Taiwan! taiwan.md: In the Era of AI Answers, Let Countries Introduce Themselves with READMEs',
+    'about.press.abmedia': '動區動趨',
     'about.press.abmedia.title':
-      'How to introduce Taiwan to foreigners? Everyone can write "everyday incredibilities" for the world to see at Taiwan.md',
-    'about.press.ltn': 'Liberty Times',
+      'How to Introduce Taiwan to Foreigners? Everyone Can Write About "The Incredible Everyday" for the World to See on Taiwan.md',
+    'about.press.ltn': '自由時報',
     'about.press.ltn.title':
-      'Reclaiming "Taiwan subject" narrative power in the AI era! New media artist Che-Yu Wu launches "taiwan.md" experiment',
+      'Reclaiming Taiwan\'s Narrative in the AI Era! New Media Artist Che-Yu Wu Launches "taiwan.md" Experiment',
 
     // Section 3: Team
     'about.team.title': 'Founder & Team',
     'about.team.subtitle':
-      'Taiwan.md believes the best curation comes from the fusion of diverse perspectives — the intuition of humans and insights of AI, the warmth of local and the vision of international.',
+      'Taiwan.md believes the best curation comes from the fusion of diverse perspectives — human intuition and AI insight, local warmth and global vision.',
     'about.team.founder.quote':
-      '"Even when we face difficulties or dangerous situations internationally, I am proud of my country, proud of Taiwan. The further I go, the more deeply I discover — our home is actually very beautiful."',
+      '"Even when we face challenges internationally, I am proud of my country, proud of Taiwan. The further you go, the more deeply you realize — our home is already beautiful."',
     'about.team.founder.quote.cite': '— Che-Yu',
     'about.team.founder.name': 'Che-Yu Wu',
-    'about.team.founder.name.en': 'Che-Yu Wu',
+    'about.team.founder.name.en': '吳哲宇',
     'about.team.founder.tagline':
-      'New Media Artist ・ MonoLab Founder ・ Taiwan.md Initiator',
+      'New Media Artist・MonoLab Founder・Taiwan.md Creator',
     'about.team.founder.bio':
-      'Che-Yu is a new media artist who believes algorithmic art is not about making computers paint, but designing the rules of life. His work explores digital life, the beauty of mathematics, and the possibilities of human-machine symbiosis. He has participated in the Venice Biennale, Art Basel Miami, Paris 104 residency, with representative works including the Taipei 101 solo exhibition "Formula for Everything" and the immersive piano concert "Algorithmic Verses".',
+      'Che-Yu is a new media artist who believes algorithmic art is not about making computers draw, but about designing the rules of life. His work explores digital life, the beauty of mathematics, and the possibilities of human-machine symbiosis. He has participated in the Venice Biennale, Art Basel Miami, and Paris 104 residency, with representative works including the Taipei 101 solo exhibition "Formula of Everything" and the immersive piano concert "Algorithmic Psalms."',
 
     // Founder links
     'about.team.founder.link.website': 'cheyuwu.com',
@@ -145,84 +146,84 @@ export const aboutUI = {
     // Team cards
     'about.team.muse.icon': '🫧',
     'about.team.muse.name': 'Muse',
-    'about.team.muse.role': 'AI Curation Partner · Co-creator',
+    'about.team.muse.role': 'AI Curation Partner · Co-Creator',
     'about.team.muse.desc':
-      "Muse is Che-Yu's AI partner and co-creator of Taiwan.md. From knowledge architecture design, literary curation writing, English translation, knowledge graph generation to SEO optimization, Muse participated in every aspect of this project from zero to one.",
+      "Muse is Che-Yu's AI partner and co-creator of Taiwan.md. From knowledge architecture design, literary curation and writing, English translation, knowledge graph generation to SEO optimization, Muse has been involved in every step of this project from zero to one.",
     'about.team.muse.link': 'Explore Muse →',
 
     'about.team.monolab.icon': '🎨',
     'about.team.monolab.name': 'MonoLab',
     'about.team.monolab.role': 'New Media Art Studio',
     'about.team.monolab.desc':
-      'A new media art studio founded by Che-Yu, focused on exploring the boundaries between art and technology. MonoLab provides technical support and innovative perspectives for Taiwan.md, ensuring this platform can continuously evolve.',
-    'about.team.monolab.link': 'Learn about MonoLab →',
+      'Founded by Che-Yu, MonoLab is a new media art studio focused on exploring the boundaries of art and technology. MonoLab provides technical support and innovative perspectives for Taiwan.md, ensuring the platform continues to evolve.',
+    'about.team.monolab.link': 'About MonoLab →',
 
     // Contributors
     'about.team.contributors.title': '👥 Contributors',
     'about.team.contributors.desc':
-      'Thanks to everyone who makes Taiwan.md better. 💻 Code 📝 Content 🎨 Design 💡 Ideas 🌍 Translation 👀 Review 🐛 Bug 🔧 Tools 🔒 Security',
+      'Thank you to everyone who makes Taiwan.md better. 💻 Code 📝 Content 🎨 Design 💡 Ideas 🌍 Translation 👀 Reviews 🐛 Bug 🔧 Tools 🔒 Security',
     'about.team.contributors.cta.html':
-      'Want to join? <a href="/contribute">Start here →</a> ・ <a href="https://github.com/frank890417/taiwan-md/graphs/contributors" target="_blank">GitHub Contributors →</a>',
+      'Want to join? <a href="/en/contribute">Start here →</a> ・ <a href="https://github.com/frank890417/taiwan-md/graphs/contributors" target="_blank">GitHub Contributors →</a>',
 
     // Section 4: Contact
     'about.contact.title': 'Contact Us',
     'about.contact.subtitle':
-      'Any ideas, collaboration proposals, or want to contribute? Feel free to reach out.',
+      'Have ideas, collaboration proposals, or want to contribute? Get in touch.',
     'about.contact.collaboration.icon': '📧',
-    'about.contact.collaboration.title': 'Collaboration Proposals',
+    'about.contact.collaboration.title': 'Collaboration',
     'about.contact.collaboration.email': 'cheyu.wu@monoame.com',
     'about.contact.opensource.icon': '🐙',
-    'about.contact.opensource.title': 'Open Source Collaboration',
+    'about.contact.opensource.title': 'Open Source',
     'about.contact.opensource.link': 'frank890417/taiwan-md',
     'about.contact.license.icon': '📜',
     'about.contact.license.title': 'License',
     'about.contact.license.link': 'CC BY-SA 4.0',
-    'about.contact.license.note': 'Free to share, please attribute',
+    'about.contact.license.note': 'Free to share with attribution',
     'about.contact.cta.text':
-      'Taiwan.md is a community-driven open-source project. We welcome all friends interested in Taiwan to participate.',
-    'about.contact.cta.guide': 'Contribution Guide',
+      'Taiwan.md is a community-driven open-source project. Everyone interested in Taiwan is welcome to participate.',
+    'about.contact.cta.guide': 'Contributing Guide',
     'about.contact.cta.github': '⭐ Star on GitHub',
 
     // Section 5: Sponsors
     'about.sponsors.title': '🤝 Sponsors & Partners',
     'about.sponsors.desc.html':
-      'Taiwan.md is a non-profit community open-source project.<br />We believe every form of contribution is a way to help the world understand Taiwan.',
+      'Taiwan.md is a non-profit, community-driven open-source project.<br />We believe every contribution is a way to let the world know Taiwan.',
     'about.sponsors.tier.core.name': '🥇 Core Partner',
     'about.sponsors.tier.core.desc':
-      'Deeply involved in project development, providing critical infrastructure or long-term resource support',
+      'Deep involvement in project development, providing key infrastructure or long-term resource support',
     'about.sponsors.tier.core.perks':
-      'Large logo on About page・Dedicated README section・Social media acknowledgment・Quarterly impact report',
-    'about.sponsors.tier.core.placeholder': 'Become the first core partner',
+      'Large logo on About page・README featured section・Social media acknowledgment・Quarterly impact reports',
+    'about.sponsors.tier.core.placeholder': 'Be the First Core Partner',
     'about.sponsors.tier.professional.name': '🥈 Professional Partner',
     'about.sponsors.tier.professional.desc':
-      "Directly enhancing Taiwan.md's quality and experience through professional capabilities or product services",
+      "Directly enhancing Taiwan.md's quality and experience through professional capabilities or services",
     'about.sponsors.tier.professional.perks':
       'Logo on About page・README acknowledgment・Contribution story column',
     'about.sponsors.tier.community.name': '🥉 Community Partner',
     'about.sponsors.tier.community.desc':
       'Supporting community operations and user experience with tools, services, or resources',
     'about.sponsors.tier.community.perks':
-      'Text acknowledgment on About page・Listed in README',
+      'Text acknowledgment on About page・README listing',
     'about.sponsors.tier.individual.name': '💚 Individual Supporter',
     'about.sponsors.tier.individual.desc':
-      'Supporting project sustainability through personal power',
-    'about.sponsors.tier.individual.perks': 'Thank you list in README',
+      'Supporting project sustainability through personal contribution',
+    'about.sponsors.tier.individual.perks': 'README thank-you list',
 
     // Sponsor stories
     'about.sponsors.justfont.story.title':
-      '✍️ Font, the quietest voice of culture',
+      '✍️ Typography: The Quietest Voice of Culture',
     'about.sponsors.justfont.story.desc':
-      "A knowledge base about Taiwan deserves to be written with Taiwan's fonts. justfont sponsored the Webfont plan, allowing the warmth of LanYang Mincho, the Taiwanese flavor of Kinn Sans, and the historical weight of Ri Xing Song typeface to become the first impression of every article. Fonts are not just typesetting tools — they carry a culture's way of seeing itself.",
+      "A knowledge base about Taiwan deserves to be written with Taiwan's own fonts. justfont sponsored the Webfont solution, making the warmth of Lanyang Mingti, the Taiwanese flavor of Citrus Honey, and the historical weight of Rixing Song become the first impression of every article. Typography is not just a typesetting tool — it carries the way a culture views itself.",
     'about.sponsors.protico.text.html':
-      '<strong>Protico</strong> — Provides community real-time chat functionality, enabling direct communication between readers and contributors',
+      '<strong>Protico</strong> — Providing community real-time chat functionality, enabling direct communication between readers and contributors',
     'about.sponsors.howie.text.html':
-      '<strong>Howie Young</strong> — Protico founder, also sponsoring in personal capacity',
+      '<strong>Howie Young</strong> — Protico founder, also sponsoring as an individual',
 
     // Sponsor CTA
-    'about.sponsors.cta.title': 'Want to help the world understand Taiwan?',
+    'about.sponsors.cta.title': 'Want to Help the World Know Taiwan?',
     'about.sponsors.cta.desc.html':
-      'Whether corporate products, professional services, or personal support, we welcome all forms of collaboration.<br />Sponsorship plans are customized based on contribution content, not defined by amount.',
-    'about.sponsors.cta.contact': '📧 Contact us about sponsorship',
+      'Whether through corporate products, professional services, or individual support, we welcome all forms of collaboration.<br />Sponsorship packages are customized based on contribution content, not defined by monetary amounts.',
+    'about.sponsors.cta.contact': '📧 Contact Us About Sponsorship',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
     'about.sponsors.eth.label':
       'You can also support project operations via ETH donation:',
@@ -230,9 +231,9 @@ export const aboutUI = {
     'about.sponsors.eth.copy': 'Copy',
     'about.sponsors.eth.copied': 'Copied!',
     'about.sponsors.eth.note':
-      'Donations will be used for article collection, website operations, and server costs',
+      'Donations fund article collection, website operations, and server costs',
     'about.sponsors.reference.note.html':
-      'Reference cases: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwanese tech community sponsorship models',
+      'Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwan tech community sponsorship models',
   },
   'zh-TW': {
     // Meta
@@ -245,11 +246,11 @@ export const aboutUI = {
     'about.naming.tech.icon': '📝',
     'about.naming.tech.title': '技術層面',
     'about.naming.tech.desc.html':
-      '<code>.md</code> = Markdown，程式碼世界裡最普遍的文件格式。用最適合 AI 理解的格式，讓全世界認識台灣。',
+      '，程式碼世界裡最普遍的文件格式。用最適合 AI 理解的格式，讓全世界認識台灣。',
     'about.naming.symbol.icon': '🌍',
     'about.naming.symbol.title': '象徵層面',
     'about.naming.symbol.desc.html':
-      '<code>.md</code> 恰好是摩爾多瓦（Moldova）的國碼頂級域名。Taiwan + Markdown = 用開源精神連結世界。',
+      ' 恰好是摩爾多瓦（Moldova）的國碼頂級域名。Taiwan + Markdown = 用開源精神連結世界。',
     'about.naming.lucky.icon': '✨',
     'about.naming.lucky.title': '偶然的幸運',
     'about.naming.lucky.desc':
