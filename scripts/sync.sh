@@ -16,6 +16,7 @@ echo "🔄 步驟 1/2: 同步 knowledge/ → src/content/..."
 echo "📁 建立目錄結構..."
 mkdir -p src/content/zh-TW/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 mkdir -p src/content/en/{about,food,history,nature,society,technology,resources}
+mkdir -p src/content/es/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 
 # 統計初始檔案數
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
@@ -97,6 +98,26 @@ if [ -d "knowledge/en" ]; then
       fi
     done
   fi
+fi
+
+# 同步西班牙文內容
+echo "🇪🇸 同步西班牙文內容..."
+if [ -d "knowledge/es" ]; then
+  for category in About Art Culture Economy Food Geography History Lifestyle Music Nature People Society Technology; do
+    if [ -d "knowledge/es/$category" ]; then
+      lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
+      mkdir -p "src/content/es/$lowercase_category"
+      for file in knowledge/es/$category/*.md; do
+        if [ -f "$file" ]; then
+          filename=$(basename "$file")
+          target_file="src/content/es/$lowercase_category/$filename"
+          cp "$file" "$target_file"
+          echo "  ✅ es/$category/$filename"
+          ((SYNCED_COUNT++))
+        fi
+      done
+    fi
+  done
 fi
 
 # 統計中間結果

@@ -8,25 +8,16 @@
 astro.config.mjs @frank890417
 .github/ @frank890417
 
-# Frontend / CSS / Components
-src/layouts/ @frank890417 @fredchu @YenTingWu
-src/components/ @frank890417 @fredchu @YenTingWu
-src/pages/en/ @frank890417 @fredchu @YenTingWu
+# Frontend / CSS / Components — fredchu co-reviews
+src/layouts/ @frank890417 @fredchu
+src/components/ @frank890417 @fredchu
+src/pages/en/ @frank890417 @fredchu
 
-# Templates / i18n
-src/templates/ @frank890417 @YenTingWu
-src/i18n/ @frank890417 @YenTingWu
+# 中文內容（owner 審核）
+knowledge/ @frank890417
 
-# 中文內容
-knowledge/ @frank890417 @fredchu
-
-# 多語系內容
-knowledge/en/ @frank890417 @fredchu @YenTingWu
-knowledge/es/ @frank890417 @YenTingWu
-knowledge/ja/ @frank890417 @YenTingWu
-
-# 圖片資源
-public/images/ @frank890417 @fredchu
+# 英文翻譯 — fredchu co-reviews (i18n expertise)
+knowledge/en/ @frank890417 @fredchu
 
 # 腳本與工具
-scripts/ @frank890417 @fredchu
+scripts/ @frank890417
