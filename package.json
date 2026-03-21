@@ -16,10 +16,7 @@
     "check-images": "node scripts/check-images.mjs",
     "sanitize": "node scripts/sanitize-content.mjs",
     "translate:es": "node scripts/translate-to-es.mjs",
-    "astro": "astro",
-    "format::check": "prettier --check .",
-    "format::write": "prettier --write .",
-    "prepare": "husky"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.1",
@@ -38,10 +35,6 @@
     "@types/dompurify": "^3.2.0",
     "@types/leaflet": "^1.9.16",
     "autoprefixer": "^10.4.20",
-    "husky": "^9.1.7",
-    "lint-staged": "^16.4.0",
-    "postcss": "^8.4.49",
-    "prettier": "3.8.1",
-    "prettier-plugin-astro": "0.14.1"
+    "postcss": "^8.4.49"
   }
 }
