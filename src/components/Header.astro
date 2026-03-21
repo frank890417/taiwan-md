@@ -15,9 +15,9 @@ const translatePath = useTranslatedPath(lang);
 const { zhLink, enLink } = await getLangSwitchPath(currentPath);
 
 const navConfig = [
+  { path: '/about', label: t('nav.about') },
   { path: '/#categories', label: t('nav.explore') },
   { path: '/map', label: t('nav.map') },
-  { path: '/about', label: t('nav.about') },
   { path: '/data', label: t('nav.data') },
   { path: '/resources', label: t('nav.resources') },
   { path: '/contribute', label: t('nav.contribute') },
