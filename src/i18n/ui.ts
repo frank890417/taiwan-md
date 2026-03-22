@@ -2,6 +2,7 @@ import type { Lang } from '../types';
 import { homeUI } from './home';
 import { aboutUI } from './about';
 import { dataUI } from './data';
+import { changelogUI } from './changelog';
 
 export const languages: Record<Lang, string> = {
   en: 'English',
@@ -16,6 +17,7 @@ export const ui = {
     ...homeUI.en,
     ...aboutUI.en,
     ...dataUI.en,
+    ...changelogUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -108,6 +110,7 @@ export const ui = {
     ...homeUI['zh-TW'],
     ...aboutUI['zh-TW'],
     ...dataUI['zh-TW'],
+    ...changelogUI['zh-TW'],
     'nav.aria-home': 'Taiwan.md 首頁',
     'nav.aria-img-label': 'Taiwan.md 標誌圖示',
     'nav.aria-toggle-menu': '開啟/關閉導航選單',
