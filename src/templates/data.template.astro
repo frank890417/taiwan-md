@@ -24,7 +24,10 @@ const dataCategories = getCategories(t);
   <main class="data-hub">
     <!-- Hero -->
     <section class="hero">
-      <h1 class="hero-title"><span class="hero-emoji">📊</span> {t('data.hero.title')}</h1>
+      <h1 class="hero-title">
+        <span class="hero-emoji">📊</span>
+        {t('data.hero.title')}
+      </h1>
       <p class="hero-subtitle">{t('data.hero.subtitle')}</p>
       <p class="hero-desc">{t('data.hero.description')}</p>
     </section>
@@ -60,30 +63,54 @@ const dataCategories = getCategories(t);
 
         <div class="comparison-card">
           <div class="card-emoji">🏭</div>
-          <div class="card-number">{t('data.taiwanVsWorld.semiconductor.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.semiconductor.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.semiconductor.context')}</div>
+          <div class="card-number">
+            {t('data.taiwanVsWorld.semiconductor.number')}
+          </div>
+          <div class="card-label">
+            {t('data.taiwanVsWorld.semiconductor.label')}
+          </div>
+          <div class="card-context">
+            {t('data.taiwanVsWorld.semiconductor.context')}
+          </div>
         </div>
 
         <div class="comparison-card">
           <div class="card-emoji">🗳️</div>
-          <div class="card-number">{t('data.taiwanVsWorld.democracy.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.democracy.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.democracy.context')}</div>
+          <div class="card-number">
+            {t('data.taiwanVsWorld.democracy.number')}
+          </div>
+          <div class="card-label">
+            {t('data.taiwanVsWorld.democracy.label')}
+          </div>
+          <div class="card-context">
+            {t('data.taiwanVsWorld.democracy.context')}
+          </div>
         </div>
 
         <div class="comparison-card">
           <div class="card-emoji">👶</div>
-          <div class="card-number">{t('data.taiwanVsWorld.birthRate.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.birthRate.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.birthRate.context')}</div>
+          <div class="card-number">
+            {t('data.taiwanVsWorld.birthRate.number')}
+          </div>
+          <div class="card-label">
+            {t('data.taiwanVsWorld.birthRate.label')}
+          </div>
+          <div class="card-context">
+            {t('data.taiwanVsWorld.birthRate.context')}
+          </div>
         </div>
 
         <div class="comparison-card">
           <div class="card-emoji">🏪</div>
-          <div class="card-number">{t('data.taiwanVsWorld.convenience.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.convenience.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.convenience.context')}</div>
+          <div class="card-number">
+            {t('data.taiwanVsWorld.convenience.number')}
+          </div>
+          <div class="card-label">
+            {t('data.taiwanVsWorld.convenience.label')}
+          </div>
+          <div class="card-context">
+            {t('data.taiwanVsWorld.convenience.context')}
+          </div>
         </div>
 
         <div class="comparison-card">
@@ -95,9 +122,15 @@ const dataCategories = getCategories(t);
 
         <div class="comparison-card">
           <div class="card-emoji">🏥</div>
-          <div class="card-number">{t('data.taiwanVsWorld.healthcare.number')}</div>
-          <div class="card-label">{t('data.taiwanVsWorld.healthcare.label')}</div>
-          <div class="card-context">{t('data.taiwanVsWorld.healthcare.context')}</div>
+          <div class="card-number">
+            {t('data.taiwanVsWorld.healthcare.number')}
+          </div>
+          <div class="card-label">
+            {t('data.taiwanVsWorld.healthcare.label')}
+          </div>
+          <div class="card-context">
+            {t('data.taiwanVsWorld.healthcare.context')}
+          </div>
         </div>
       </div>
     </section>
@@ -111,8 +144,17 @@ const dataCategories = getCategories(t);
       <div class="story-intro">
         <h2 class="section-title">📈 內容成長分析</h2>
         <div class="story-text">
-          <p>Taiwan.md 的成長軌跡見證了開源知識庫的力量。從零開始到現在涵蓋 {Object.values(contentStats.categories).reduce((sum, count) => sum + count, 0)} 篇文章，每一篇都代表著台灣故事的一部分。</p>
-          <p>這些數據不只是數字，而是全球貢獻者對台灣認識的渴望，以及我們用知識連結世界的使命。</p>
+          <p>
+            Taiwan.md 的成長軌跡見證了開源知識庫的力量。從零開始到現在涵蓋 {
+              Object.values(contentStats.categories).reduce(
+                (sum, count) => sum + count,
+                0,
+              )
+            } 篇文章，每一篇都代表著台灣故事的一部分。
+          </p>
+          <p>
+            這些數據不只是數字，而是全球貢獻者對台灣認識的渴望，以及我們用知識連結世界的使命。
+          </p>
         </div>
       </div>
 
@@ -137,15 +179,26 @@ const dataCategories = getCategories(t);
       <!-- Stats Summary -->
       <div class="stats-summary">
         <div class="stat-item">
-          <div class="stat-number">{Object.values(contentStats.categories).reduce((sum, count) => sum + count, 0)}</div>
+          <div class="stat-number">
+            {
+              Object.values(contentStats.categories).reduce(
+                (sum, count) => sum + count,
+                0,
+              )
+            }
+          </div>
           <div class="stat-label">篇文章</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">{Object.keys(contentStats.categories).length}</div>
+          <div class="stat-number">
+            {Object.keys(contentStats.categories).length}
+          </div>
           <div class="stat-label">個分類</div>
         </div>
         <div class="stat-item">
-          <div class="stat-number">{contentStats.dailyGrowth.reduce((sum, day) => sum + day.count, 0)}</div>
+          <div class="stat-number">
+            {contentStats.dailyGrowth.reduce((sum, day) => sum + day.count, 0)}
+          </div>
           <div class="stat-label">次貢獻</div>
         </div>
         <div class="stat-item">
@@ -172,7 +225,7 @@ const dataCategories = getCategories(t);
       <!-- Population Pyramid Chart -->
       <div class="pyramid-container">
         <div id="population-pyramid"></div>
-        
+
         <!-- Year Slider -->
         <div class="year-slider-container">
           <div class="slider-track">
@@ -196,28 +249,36 @@ const dataCategories = getCategories(t);
               {t('data.population.insights.card1.title')}
             </div>
             <div class="insight-number" id="insightValue1">43</div>
-            <div class="insight-detail" id="insightUnit1">{t('data.population.insights.card1.subtitle')}</div>
+            <div class="insight-detail" id="insightUnit1">
+              {t('data.population.insights.card1.subtitle')}
+            </div>
           </div>
           <div class="insight-card">
             <div class="insight-label" id="insightLabel2">
               {t('data.population.insights.card2.title')}
             </div>
             <div class="insight-number" id="insightValue2">0.87</div>
-            <div class="insight-detail" id="insightUnit2">{t('data.population.insights.card2.subtitle')}</div>
+            <div class="insight-detail" id="insightUnit2">
+              {t('data.population.insights.card2.subtitle')}
+            </div>
           </div>
           <div class="insight-card">
             <div class="insight-label" id="insightLabel3">
               {t('data.population.insights.card3.title')}
             </div>
             <div class="insight-number" id="insightValue3">18%</div>
-            <div class="insight-detail" id="insightUnit3">{t('data.population.insights.card3.subtitle')}</div>
+            <div class="insight-detail" id="insightUnit3">
+              {t('data.population.insights.card3.subtitle')}
+            </div>
           </div>
           <div class="insight-card">
             <div class="insight-label" id="insightLabel4">
               {t('data.population.insights.card4.title')}
             </div>
             <div class="insight-number" id="insightValue4">2,340</div>
-            <div class="insight-detail" id="insightUnit4">{t('data.population.insights.card4.subtitle')}</div>
+            <div class="insight-detail" id="insightUnit4">
+              {t('data.population.insights.card4.subtitle')}
+            </div>
           </div>
         </div>
       </div>
@@ -243,7 +304,10 @@ const dataCategories = getCategories(t);
         <div class="comparison-grid">
           <div class="comparison-item wrong">
             <div class="svg-container">
-              <img src="/assets/svg/ai-taiwan-wrong.svg" alt="AI Generated Taiwan (Wrong)" />
+              <img
+                src="/assets/svg/ai-taiwan-wrong.svg"
+                alt="AI Generated Taiwan (Wrong)"
+              />
             </div>
             <div class="comparison-label wrong">
               {t('data.taiwanComparison.aiGenerated')}
@@ -252,7 +316,10 @@ const dataCategories = getCategories(t);
           <div class="comparison-vs">VS</div>
           <div class="comparison-item correct">
             <div class="svg-container">
-              <img src="/assets/svg/taiwan-icon-wiki.svg" alt="Correct Taiwan Shape" />
+              <img
+                src="/assets/svg/taiwan-icon-wiki.svg"
+                alt="Correct Taiwan Shape"
+              />
             </div>
             <div class="comparison-label correct">
               {t('data.taiwanComparison.correct')}
@@ -516,7 +583,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
       <!-- Open Data Categories (3-column grid) -->
       <div class="open-data-section" id="opendata">
-        <h3 class="section-title" style="margin-top: 5rem; margin-bottom: 2rem;">📊 開放資料</h3>
+        <h3
+          class="section-title"
+          style="margin-top: 5rem; margin-bottom: 2rem;"
+        >
+          📊 開放資料
+        </h3>
         <div class="data-categories-grid">
           {
             dataCategories.map((cat) => (
@@ -658,12 +730,6 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         </div>
       </div>
     </section>
-
-
-
-
-
-
 
     <!-- Footer -->
     <footer class="data-footer">
@@ -873,7 +939,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
             window.location.href = d.articleUrl;
           }
         })
-        .style('cursor', (d) => d.articleUrl ? 'pointer' : 'default');
+        .style('cursor', (d) => (d.articleUrl ? 'pointer' : 'default'));
 
       simulation.on('tick', () => {
         nodes.attr('transform', (d) => {
@@ -950,42 +1016,90 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     // Population data (estimated based on research)
     const populationData = {
       2000: {
-        male: [650000, 680000, 720000, 750000, 800000, 820000, 750000, 680000, 620000, 550000, 480000, 420000, 350000, 280000, 220000, 160000, 120000, 80000],
-        female: [620000, 650000, 680000, 710000, 760000, 780000, 720000, 650000, 590000, 530000, 460000, 400000, 340000, 280000, 230000, 180000, 140000, 100000],
+        male: [
+          650000, 680000, 720000, 750000, 800000, 820000, 750000, 680000,
+          620000, 550000, 480000, 420000, 350000, 280000, 220000, 160000,
+          120000, 80000,
+        ],
+        female: [
+          620000, 650000, 680000, 710000, 760000, 780000, 720000, 650000,
+          590000, 530000, 460000, 400000, 340000, 280000, 230000, 180000,
+          140000, 100000,
+        ],
         totalPop: 22270000,
         medianAge: 30,
         elderlyRatio: 8.6,
-        youthRatio: 20.1
+        youthRatio: 20.1,
       },
       2010: {
-        male: [520000, 540000, 580000, 650000, 720000, 750000, 820000, 800000, 750000, 680000, 620000, 550000, 480000, 420000, 350000, 280000, 220000, 160000],
-        female: [490000, 510000, 550000, 620000, 680000, 720000, 780000, 760000, 720000, 650000, 590000, 530000, 460000, 400000, 340000, 280000, 230000, 180000],
+        male: [
+          520000, 540000, 580000, 650000, 720000, 750000, 820000, 800000,
+          750000, 680000, 620000, 550000, 480000, 420000, 350000, 280000,
+          220000, 160000,
+        ],
+        female: [
+          490000, 510000, 550000, 620000, 680000, 720000, 780000, 760000,
+          720000, 650000, 590000, 530000, 460000, 400000, 340000, 280000,
+          230000, 180000,
+        ],
         totalPop: 23160000,
         medianAge: 37,
         elderlyRatio: 10.7,
-        youthRatio: 15.6
+        youthRatio: 15.6,
       },
       2025: {
-        male: [420000, 450000, 480000, 520000, 580000, 650000, 720000, 750000, 820000, 800000, 750000, 680000, 620000, 550000, 480000, 420000, 350000, 280000],
-        female: [400000, 430000, 460000, 490000, 550000, 620000, 680000, 720000, 780000, 760000, 720000, 650000, 590000, 530000, 460000, 400000, 340000, 280000],
+        male: [
+          420000, 450000, 480000, 520000, 580000, 650000, 720000, 750000,
+          820000, 800000, 750000, 680000, 620000, 550000, 480000, 420000,
+          350000, 280000,
+        ],
+        female: [
+          400000, 430000, 460000, 490000, 550000, 620000, 680000, 720000,
+          780000, 760000, 720000, 650000, 590000, 530000, 460000, 400000,
+          340000, 280000,
+        ],
         totalPop: 23300000,
         medianAge: 43,
         elderlyRatio: 18.0,
-        youthRatio: 11.5
+        youthRatio: 11.5,
       },
       2050: {
-        male: [320000, 340000, 360000, 380000, 420000, 480000, 520000, 580000, 650000, 720000, 750000, 820000, 800000, 750000, 680000, 620000, 550000, 480000],
-        female: [300000, 320000, 340000, 360000, 400000, 460000, 490000, 550000, 620000, 680000, 720000, 780000, 760000, 720000, 650000, 590000, 530000, 460000],
+        male: [
+          320000, 340000, 360000, 380000, 420000, 480000, 520000, 580000,
+          650000, 720000, 750000, 820000, 800000, 750000, 680000, 620000,
+          550000, 480000,
+        ],
+        female: [
+          300000, 320000, 340000, 360000, 400000, 460000, 490000, 550000,
+          620000, 680000, 720000, 780000, 760000, 720000, 650000, 590000,
+          530000, 460000,
+        ],
         totalPop: 19800000,
         medianAge: 57,
         elderlyRatio: 38.0,
-        youthRatio: 9.2
-      }
+        youthRatio: 9.2,
+      },
     };
 
     const ageGroups = [
-      '0-4', '5-9', '10-14', '15-19', '20-24', '25-29', '30-34', '35-39',
-      '40-44', '45-49', '50-54', '55-59', '60-64', '65-69', '70-74', '75-79', '80-84', '85+'
+      '0-4',
+      '5-9',
+      '10-14',
+      '15-19',
+      '20-24',
+      '25-29',
+      '30-34',
+      '35-39',
+      '40-44',
+      '45-49',
+      '50-54',
+      '55-59',
+      '60-64',
+      '65-69',
+      '70-74',
+      '75-79',
+      '80-84',
+      '85+',
     ];
 
     // Load D3 and initialize population pyramid
@@ -1017,16 +1131,17 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       const chartHeight = height - margin.top - margin.bottom;
 
       // Scales
-      const xScale = d3.scaleLinear()
-        .range([0, chartWidth / 2]);
+      const xScale = d3.scaleLinear().range([0, chartWidth / 2]);
 
-      const yScale = d3.scaleBand()
+      const yScale = d3
+        .scaleBand()
         .domain(ageGroups)
         .range([chartHeight, 0])
         .padding(0.1);
 
       // Create gradient colors for age groups
-      const ageColorScale = d3.scaleSequential()
+      const ageColorScale = d3
+        .scaleSequential()
         .domain([0, ageGroups.length - 1])
         .interpolator(d3.interpolateViridis);
 
@@ -1042,7 +1157,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         .data(ageGroups)
         .join('rect')
         .attr('class', 'male-bar')
-        .attr('y', d => yScale(d))
+        .attr('y', (d) => yScale(d))
         .attr('height', yScale.bandwidth())
         .attr('fill', (d, i) => ageColorScale(i))
         .attr('opacity', 0.8);
@@ -1054,7 +1169,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         .join('rect')
         .attr('class', 'female-bar')
         .attr('x', chartWidth / 2)
-        .attr('y', d => yScale(d))
+        .attr('y', (d) => yScale(d))
         .attr('height', yScale.bandwidth())
         .attr('fill', (d, i) => ageColorScale(i))
         .attr('opacity', 0.8);
@@ -1102,7 +1217,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       function updatePyramid(year) {
         const data = populationData[year];
         const maxPop = Math.max(...data.male, ...data.female);
-        
+
         xScale.domain([0, maxPop]);
 
         // Update male bars
@@ -1119,10 +1234,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           .attr('width', (d, i) => xScale(data.female[i]));
 
         // Update Y axis
-        yAxis
-          .selectAll('text')
-          .remove();
-        
+        yAxis.selectAll('text').remove();
+
         yAxis
           .selectAll('.age-label')
           .data(ageGroups)
@@ -1130,15 +1243,15 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           .attr('class', 'age-label')
           .attr('text-anchor', 'middle')
           .attr('x', 0)
-          .attr('y', d => yScale(d) + yScale.bandwidth() / 2)
+          .attr('y', (d) => yScale(d) + yScale.bandwidth() / 2)
           .attr('dy', '0.35em')
           .attr('fill', '#cbd5e1')
           .attr('font-size', '11px')
-          .text(d => d);
+          .text((d) => d);
 
         // Update info box
         infoText.selectAll('*').remove();
-        
+
         infoText
           .append('tspan')
           .attr('x', 10)
@@ -1146,25 +1259,25 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           .attr('font-weight', 'bold')
           .attr('fill', '#60a5fa')
           .text(`${year} 年`);
-        
+
         infoText
           .append('tspan')
           .attr('x', 10)
           .attr('dy', 18)
           .text(`總人口：${(data.totalPop / 10000).toFixed(0)}萬人`);
-        
+
         infoText
           .append('tspan')
           .attr('x', 10)
           .attr('dy', 15)
           .text(`中位數年齡：${data.medianAge}歲`);
-        
+
         infoText
           .append('tspan')
           .attr('x', 10)
           .attr('dy', 15)
           .text(`老年佔比：${data.elderlyRatio}%`);
-        
+
         infoText
           .append('tspan')
           .attr('x', 10)
@@ -1174,13 +1287,35 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
       // Insight card data per year
       const insightData = {
-        2000: { medianAge: '30', birthRate: '1.68', elderlyPct: '8.6%', totalPop: '2,227' },
-        2010: { medianAge: '37', birthRate: '0.90', elderlyPct: '10.7%', totalPop: '2,316' },
-        2025: { medianAge: '43', birthRate: '0.87', elderlyPct: '18%', totalPop: '2,340' },
-        2050: { medianAge: '57', birthRate: '0.74', elderlyPct: '38%', totalPop: '<2,000' }
+        2000: {
+          medianAge: '30',
+          birthRate: '1.68',
+          elderlyPct: '8.6%',
+          totalPop: '2,227',
+        },
+        2010: {
+          medianAge: '37',
+          birthRate: '0.90',
+          elderlyPct: '10.7%',
+          totalPop: '2,316',
+        },
+        2025: {
+          medianAge: '43',
+          birthRate: '0.87',
+          elderlyPct: '18%',
+          totalPop: '2,340',
+        },
+        2050: {
+          medianAge: '57',
+          birthRate: '0.74',
+          elderlyPct: '38%',
+          totalPop: '<2,000',
+        },
       };
 
-      const langIsEn = document.documentElement.lang === 'en' || window.location.pathname.startsWith('/en');
+      const langIsEn =
+        document.documentElement.lang === 'en' ||
+        window.location.pathname.startsWith('/en');
       const unitAge = langIsEn ? ' yrs' : ' 歲';
       const unitPop = langIsEn ? ' (10K)' : ' 萬人';
 
@@ -1208,7 +1343,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       const thumb = document.getElementById('yearThumb');
       const currentYearLabel = document.getElementById('currentYear');
       const years = [2000, 2010, 2025, 2050];
-      
+
       let isDragging = false;
       let sliderRect;
 
@@ -1221,10 +1356,13 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
       function handleSliderUpdate(clientX) {
         const rect = sliderRect || slider.getBoundingClientRect();
-        const percentage = Math.max(0, Math.min(1, (clientX - rect.left) / rect.width));
+        const percentage = Math.max(
+          0,
+          Math.min(1, (clientX - rect.left) / rect.width),
+        );
         const yearIndex = Math.round(percentage * (years.length - 1));
         const newYear = years[yearIndex];
-        
+
         if (newYear !== currentYear) {
           currentYear = newYear;
           updateSliderPosition();
@@ -1315,7 +1453,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
   <script define:vars={{ contentStats, lang }}>
     // Load Chart.js
     const chartScript = document.createElement('script');
-    chartScript.src = 'https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js';
+    chartScript.src =
+      'https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js';
     chartScript.onload = () => initContentCharts();
     document.head.appendChild(chartScript);
 
@@ -1329,22 +1468,36 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         const categoryData = Object.entries(stats.categories)
           .filter(([cat]) => cat !== 'root')
           .sort((a, b) => b[1] - a[1]);
-        
+
         new Chart(categoryCtx, {
           type: 'doughnut',
           data: {
             labels: categoryData.map(([cat]) => cat),
-            datasets: [{
-              data: categoryData.map(([, count]) => count),
-              backgroundColor: [
-                '#3b82f6', '#8b5cf6', '#ec4899', '#f59e0b', '#10b981',
-                '#06b6d4', '#84cc16', '#f97316', '#ef4444', '#6366f1',
-                '#8b5cf6', '#ec4899', '#f59e0b', '#10b981', '#06b6d4'
-              ],
-              borderWidth: 2,
-              borderColor: '#1e293b',
-              hoverBorderWidth: 3
-            }]
+            datasets: [
+              {
+                data: categoryData.map(([, count]) => count),
+                backgroundColor: [
+                  '#3b82f6',
+                  '#8b5cf6',
+                  '#ec4899',
+                  '#f59e0b',
+                  '#10b981',
+                  '#06b6d4',
+                  '#84cc16',
+                  '#f97316',
+                  '#ef4444',
+                  '#6366f1',
+                  '#8b5cf6',
+                  '#ec4899',
+                  '#f59e0b',
+                  '#10b981',
+                  '#06b6d4',
+                ],
+                borderWidth: 2,
+                borderColor: '#1e293b',
+                hoverBorderWidth: 3,
+              },
+            ],
           },
           options: {
             responsive: true,
@@ -1356,8 +1509,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
                   color: '#e2e8f0',
                   font: { size: 11 },
                   padding: 12,
-                  usePointStyle: true
-                }
+                  usePointStyle: true,
+                },
               },
               tooltip: {
                 backgroundColor: 'rgba(0, 0, 0, 0.8)',
@@ -1366,15 +1519,18 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
                 borderColor: 'rgba(255, 255, 255, 0.1)',
                 borderWidth: 1,
                 callbacks: {
-                  label: function(context) {
-                    const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                  label: function (context) {
+                    const total = context.dataset.data.reduce(
+                      (a, b) => a + b,
+                      0,
+                    );
                     const percentage = ((context.raw / total) * 100).toFixed(1);
                     return `${context.label}: ${context.raw} 篇 (${percentage}%)`;
-                  }
-                }
-              }
-            }
-          }
+                  },
+                },
+              },
+            },
+          },
         });
       }
 
@@ -1382,68 +1538,70 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       const growthCtx = document.getElementById('growthChart');
       if (growthCtx) {
         const growthData = stats.dailyGrowth || [];
-        
+
         new Chart(growthCtx, {
           type: 'line',
           data: {
-            labels: growthData.map(d => d.date),
-            datasets: [{
-              label: isEn ? 'Articles Added' : '新增文章',
-              data: growthData.map(d => d.count),
-              borderColor: '#3b82f6',
-              backgroundColor: 'rgba(59, 130, 246, 0.1)',
-              borderWidth: 3,
-              fill: true,
-              tension: 0.4,
-              pointBackgroundColor: '#3b82f6',
-              pointBorderColor: '#1e293b',
-              pointBorderWidth: 2,
-              pointRadius: 5,
-              pointHoverRadius: 7
-            }]
+            labels: growthData.map((d) => d.date),
+            datasets: [
+              {
+                label: isEn ? 'Articles Added' : '新增文章',
+                data: growthData.map((d) => d.count),
+                borderColor: '#3b82f6',
+                backgroundColor: 'rgba(59, 130, 246, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointBackgroundColor: '#3b82f6',
+                pointBorderColor: '#1e293b',
+                pointBorderWidth: 2,
+                pointRadius: 5,
+                pointHoverRadius: 7,
+              },
+            ],
           },
           options: {
             responsive: true,
             maintainAspectRatio: false,
             scales: {
               x: {
-                ticks: { 
+                ticks: {
                   color: '#94a3b8',
-                  font: { size: 11 }
+                  font: { size: 11 },
                 },
-                grid: { 
-                  color: 'rgba(148, 163, 184, 0.1)' 
-                }
+                grid: {
+                  color: 'rgba(148, 163, 184, 0.1)',
+                },
               },
               y: {
                 beginAtZero: true,
-                ticks: { 
+                ticks: {
                   color: '#94a3b8',
-                  font: { size: 11 }
+                  font: { size: 11 },
                 },
-                grid: { 
-                  color: 'rgba(148, 163, 184, 0.1)' 
-                }
-              }
+                grid: {
+                  color: 'rgba(148, 163, 184, 0.1)',
+                },
+              },
             },
             plugins: {
               legend: {
-                display: false
+                display: false,
               },
               tooltip: {
                 backgroundColor: 'rgba(0, 0, 0, 0.8)',
                 titleColor: '#e2e8f0',
                 bodyColor: '#e2e8f0',
                 borderColor: 'rgba(255, 255, 255, 0.1)',
-                borderWidth: 1
-              }
+                borderWidth: 1,
+              },
             },
             elements: {
               point: {
-                hoverBackgroundColor: '#60a5fa'
-              }
-            }
-          }
+                hoverBackgroundColor: '#60a5fa',
+              },
+            },
+          },
         });
       }
     }
@@ -2103,17 +2261,39 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       cursor: pointer;
     }
 
-    .timeline-horizontal .timeline-item[data-year="1997"] { left: 5%; }
-    .timeline-horizontal .timeline-item[data-year="2003"] { left: 14%; }
-    .timeline-horizontal .timeline-item[data-year="2012"] { left: 23%; }
-    .timeline-horizontal .timeline-item[data-year="2013"] { left: 32%; }
-    .timeline-horizontal .timeline-item[data-year="2014"] { left: 41%; }
-    .timeline-horizontal .timeline-item[data-year="2015"] { left: 50%; }
-    .timeline-horizontal .timeline-item[data-year="2016"] { left: 59%; }
-    .timeline-horizontal .timeline-item[data-year="2020"] { left: 68%; }
-    .timeline-horizontal .timeline-item[data-year="2022"] { left: 77%; }
-    .timeline-horizontal .timeline-item[data-year="2023"] { left: 86%; }
-    .timeline-horizontal .timeline-item[data-year="2024"] { left: 95%; }
+    .timeline-horizontal .timeline-item[data-year='1997'] {
+      left: 5%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2003'] {
+      left: 14%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2012'] {
+      left: 23%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2013'] {
+      left: 32%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2014'] {
+      left: 41%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2015'] {
+      left: 50%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2016'] {
+      left: 59%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2020'] {
+      left: 68%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2022'] {
+      left: 77%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2023'] {
+      left: 86%;
+    }
+    .timeline-horizontal .timeline-item[data-year='2024'] {
+      left: 95%;
+    }
 
     .timeline-dot {
       width: 12px;
@@ -2122,13 +2302,14 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       border: 3px solid #0f172a;
       border-radius: 50%;
       position: relative;
+      transform: translateX(-50%);
       transition: all 0.3s ease;
       z-index: 2;
     }
 
     .timeline-item:hover .timeline-dot {
       background: #60a5fa;
-      transform: scale(1.3);
+      transform: translateX(-50%) scale(1.3);
       box-shadow: 0 0 15px rgba(96, 165, 250, 0.6);
     }
 
@@ -2897,12 +3078,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         flex-direction: column;
         gap: 1rem;
       }
-      
+
       .comparison-vs {
         margin: 0;
         transform: rotate(90deg);
       }
-      
+
       .svg-container {
         width: 120px;
         height: 120px;

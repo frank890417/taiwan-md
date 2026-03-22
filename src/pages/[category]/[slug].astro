@@ -779,13 +779,12 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
 <script>
   // Enhanced Markdown rendering detection script
-  document.addEventListener('DOMContentLoaded', function() {
-    
+  document.addEventListener('DOMContentLoaded', function () {
     // 1. Callout detection (GitHub-style callouts)
-    document.querySelectorAll('.content blockquote').forEach(bq => {
+    document.querySelectorAll('.content blockquote').forEach((bq) => {
       const strong = bq.querySelector('strong:first-child');
       if (!strong) return;
-      
+
       const text = strong.textContent;
       if (text.includes('📝')) {
         bq.dataset.callout = 'note';
@@ -801,14 +800,14 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     });
 
     // 2. Timeline detection (ordered list with bold dates)
-    document.querySelectorAll('.content ol').forEach(ol => {
+    document.querySelectorAll('.content ol').forEach((ol) => {
       const items = ol.querySelectorAll('li');
       if (items.length < 2) return;
-      
+
       let isTimeline = true;
       let timelineCount = 0;
-      
-      items.forEach(li => {
+
+      items.forEach((li) => {
         const strong = li.querySelector('strong:first-child');
         if (strong && /\d{4}/.test(strong.textContent)) {
           timelineCount++;
@@ -816,42 +815,48 @@ const processedContent = marked.parse(resolvedContent, { renderer });
           isTimeline = false;
         }
       });
-      
+
       if (isTimeline && timelineCount >= 2) {
         ol.dataset.timeline = 'true';
       }
     });
 
     // 3. Stat table detection
-    document.querySelectorAll('.content table').forEach(table => {
+    document.querySelectorAll('.content table').forEach((table) => {
       const rows = table.querySelectorAll('tr');
       if (rows.length !== 2) return;
-      
+
       const firstRow = rows[0].querySelectorAll('th, td');
       const secondRow = rows[1].querySelectorAll('th, td');
-      
+
       if (firstRow.length !== secondRow.length) return;
-      
+
       // Check if first row contains numbers/percentages/arrows
-      const hasNumbers = [...firstRow].some(cell => 
-        /[\d%→↑↓]/.test(cell.textContent)
+      const hasNumbers = [...firstRow].some((cell) =>
+        /[\d%→↑↓]/.test(cell.textContent),
       );
-      
+
       if (hasNumbers && firstRow.length <= 4) {
         table.dataset.stat = 'true';
       }
     });
 
     // 4. Compare table detection
-    document.querySelectorAll('.content table').forEach(table => {
+    document.querySelectorAll('.content table').forEach((table) => {
       if (table.dataset.stat) return; // Skip stat tables
-      
-      const headers = table.querySelectorAll('thead th, tr:first-child th, tr:first-child td');
+
+      const headers = table.querySelectorAll(
+        'thead th, tr:first-child th, tr:first-child td',
+      );
       if (headers.length !== 2) return;
-      
-      const text = [...headers].map(h => h.textContent.toLowerCase()).join(' ');
-      
-      if (/vs|versus|正|反|支持|反對|before|after|優|缺|左|右|新|舊/.test(text)) {
+
+      const text = [...headers]
+        .map((h) => h.textContent.toLowerCase())
+        .join(' ');
+
+      if (
+        /vs|versus|正|反|支持|反對|before|after|優|缺|左|右|新|舊/.test(text)
+      ) {
         table.dataset.compare = 'true';
       }
     });
@@ -864,7 +869,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     }
 
     // Style footnote references
-    document.querySelectorAll('.content sup a[href^="#fn"]').forEach(sup => {
+    document.querySelectorAll('.content sup a[href^="#fn"]').forEach((sup) => {
       sup.classList.add('footnote-ref');
     });
   });
@@ -1414,28 +1419,28 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   /* ===== NEW ENHANCED MARKDOWN STYLES ===== */
 
   /* 1. GitHub-style Callouts */
-  .content blockquote[data-callout="note"] {
+  .content blockquote[data-callout='note'] {
     border-left-color: #3b82f6;
     background: linear-gradient(to right, rgba(59, 130, 246, 0.1), transparent);
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(59, 130, 246, 0.1);
   }
 
-  .content blockquote[data-callout="warning"] {
+  .content blockquote[data-callout='warning'] {
     border-left-color: #f59e0b;
     background: linear-gradient(to right, rgba(245, 158, 11, 0.1), transparent);
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(245, 158, 11, 0.1);
   }
 
-  .content blockquote[data-callout="tip"] {
+  .content blockquote[data-callout='tip'] {
     border-left-color: #10b981;
     background: linear-gradient(to right, rgba(16, 185, 129, 0.1), transparent);
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(16, 185, 129, 0.1);
   }
 
-  .content blockquote[data-callout="data"] {
+  .content blockquote[data-callout='data'] {
     border-left-color: #8b5cf6;
     background: linear-gradient(to right, rgba(139, 92, 246, 0.1), transparent);
     border-radius: 8px;
@@ -1443,7 +1448,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   /* 2. Pull Quote styling */
-  .content blockquote[data-callout="pullquote"] {
+  .content blockquote[data-callout='pullquote'] {
     border-left: none;
     background: none;
     text-align: center;
@@ -1461,7 +1466,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     letter-spacing: 0.02em;
   }
 
-  .content blockquote[data-callout="pullquote"]::before {
+  .content blockquote[data-callout='pullquote']::before {
     content: '"';
     font-size: 4rem;
     color: var(--categoryColor);
@@ -1473,7 +1478,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     opacity: 0.3;
   }
 
-  .content blockquote[data-callout="pullquote"]::after {
+  .content blockquote[data-callout='pullquote']::after {
     content: '"';
     font-size: 4rem;
     color: var(--categoryColor);
@@ -1485,30 +1490,36 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     opacity: 0.3;
   }
 
-  .content blockquote[data-callout="pullquote"] strong {
+  .content blockquote[data-callout='pullquote'] strong {
     display: none; /* Hide the ✦ marker */
   }
 
   /* 3. Timeline styling */
-  .content ol[data-timeline="true"] {
+  .content ol[data-timeline='true'] {
+    --tl-line-left: 1.5rem;
+    --tl-dot-size: 12px;
     list-style: none;
     padding-left: 0;
     position: relative;
     margin: 3rem 0;
   }
 
-  .content ol[data-timeline="true"]::before {
+  .content ol[data-timeline='true']::before {
     content: '';
     position: absolute;
-    left: 1.5rem;
+    left: var(--tl-line-left);
     top: 0;
     bottom: 0;
     width: 2px;
-    background: linear-gradient(to bottom, var(--categoryColor), rgba(0,0,0,0.1));
+    background: linear-gradient(
+      to bottom,
+      var(--categoryColor),
+      rgba(0, 0, 0, 0.1)
+    );
     border-radius: 1px;
   }
 
-  .content ol[data-timeline="true"] li {
+  .content ol[data-timeline='true'] li {
     position: relative;
     padding-left: 4rem;
     margin-bottom: 2rem;
@@ -1519,13 +1530,13 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     border: 1px solid rgba(0, 0, 0, 0.05);
   }
 
-  .content ol[data-timeline="true"] li::before {
+  .content ol[data-timeline='true'] li::before {
     content: '';
     position: absolute;
-    left: -6px;
+    left: calc(var(--tl-line-left) + 1px - var(--tl-dot-size) / 2);
     top: 1.5rem;
-    width: 12px;
-    height: 12px;
+    width: var(--tl-dot-size);
+    height: var(--tl-dot-size);
     background: var(--categoryColor);
     border-radius: 50%;
     border: 3px solid white;
@@ -1533,14 +1544,14 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     z-index: 1;
   }
 
-  .content ol[data-timeline="true"] li strong {
+  .content ol[data-timeline='true'] li strong {
     color: var(--categoryColor);
     font-weight: 700;
     font-size: 1.1em;
   }
 
   /* 4. Stat Block styling */
-  .content table[data-stat="true"] {
+  .content table[data-stat='true'] {
     border: none;
     background: none;
     margin: 3rem 0;
@@ -1549,17 +1560,17 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     overflow: visible;
   }
 
-  .content table[data-stat="true"] tbody {
+  .content table[data-stat='true'] tbody {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1.5rem;
   }
 
-  .content table[data-stat="true"] tr {
+  .content table[data-stat='true'] tr {
     display: contents;
   }
 
-  .content table[data-stat="true"] td {
+  .content table[data-stat='true'] td {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1569,15 +1580,17 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     padding: 2rem 1.5rem;
     border: 2px solid rgba(0, 0, 0, 0.06);
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
   }
 
-  .content table[data-stat="true"] td:hover {
+  .content table[data-stat='true'] td:hover {
     transform: translateY(-3px);
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   }
 
-  .content table[data-stat="true"] tr:first-child td {
+  .content table[data-stat='true'] tr:first-child td {
     font-size: 2.5rem;
     font-weight: 800;
     color: var(--categoryColor);
@@ -1585,14 +1598,14 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin-bottom: 0.5rem;
   }
 
-  .content table[data-stat="true"] tr:last-child td {
+  .content table[data-stat='true'] tr:last-child td {
     font-size: 0.95rem;
     color: #666;
     font-weight: 500;
     line-height: 1.4;
   }
 
-  .content table[data-stat="true"] thead {
+  .content table[data-stat='true'] thead {
     display: none;
   }
 
@@ -1606,7 +1619,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   .content .footnotes-enhanced::before {
-    content: "註釋";
+    content: '註釋';
     display: block;
     font-weight: 700;
     color: #1a1a1a;
@@ -1633,7 +1646,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   }
 
   /* 6. Compare Block styling */
-  .content table[data-compare="true"] {
+  .content table[data-compare='true'] {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
@@ -1643,35 +1656,43 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin: 3rem 0;
   }
 
-  .content table[data-compare="true"] thead {
+  .content table[data-compare='true'] thead {
     display: contents;
   }
 
-  .content table[data-compare="true"] tbody {
+  .content table[data-compare='true'] tbody {
     display: contents;
   }
 
-  .content table[data-compare="true"] tr {
+  .content table[data-compare='true'] tr {
     display: contents;
   }
 
-  .content table[data-compare="true"] th:first-child,
-  .content table[data-compare="true"] td:first-child {
-    background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(16, 185, 129, 0.05));
+  .content table[data-compare='true'] th:first-child,
+  .content table[data-compare='true'] td:first-child {
+    background: linear-gradient(
+      135deg,
+      rgba(16, 185, 129, 0.1),
+      rgba(16, 185, 129, 0.05)
+    );
     border: 2px solid rgba(16, 185, 129, 0.2);
     border-radius: 12px;
     padding: 1.5rem;
   }
 
-  .content table[data-compare="true"] th:last-child,
-  .content table[data-compare="true"] td:last-child {
-    background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(239, 68, 68, 0.05));
+  .content table[data-compare='true'] th:last-child,
+  .content table[data-compare='true'] td:last-child {
+    background: linear-gradient(
+      135deg,
+      rgba(239, 68, 68, 0.1),
+      rgba(239, 68, 68, 0.05)
+    );
     border: 2px solid rgba(239, 68, 68, 0.2);
     border-radius: 12px;
     padding: 1.5rem;
   }
 
-  .content table[data-compare="true"] th {
+  .content table[data-compare='true'] th {
     font-weight: 700;
     text-align: center;
     font-size: 1.1rem;
@@ -1679,11 +1700,11 @@ const processedContent = marked.parse(resolvedContent, { renderer });
     margin-bottom: 1rem;
   }
 
-  .content table[data-compare="true"] th:first-child {
+  .content table[data-compare='true'] th:first-child {
     color: #059669;
   }
 
-  .content table[data-compare="true"] th:last-child {
+  .content table[data-compare='true'] th:last-child {
     color: #dc2626;
   }
 

@@ -89,40 +89,47 @@ const translations = {
 
     <div class="changelog-timeline">
       {
-        sortedDays.map((day) => (
+        sortedDays.map((day, i) => (
           <div class="changelog-day">
-            <div class="day-header">
-              <span class="day-dot" />
-              <h2>{formatDate(day)}</h2>
-              <span class="day-count">
-                {grouped[day].length} {t('changelog.day.updates')}
-              </span>
+            <div class="day-indicator">
+              <div class="day-dot" />
+              <div class="day-line" />
             </div>
-            <div class="day-commits">
-              {grouped[day].map((commit) => (
-                <div class="commit-item">
-                  <span class="commit-icon">{commitIcon(commit.message)}</span>
-                  <div class="commit-content">
-                    <p class="commit-message">{commit.message}</p>
-                    <div class="commit-meta">
-                      <span class="commit-author">{commit.author}</span>
-                      <span class="commit-time" data-date={commit.date}>
-                        {new Date(commit.date).toLocaleTimeString([], {
-                          hour: '2-digit',
-                          minute: '2-digit',
-                        })}
-                      </span>
-                      <a
-                        href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`}
-                        target="_blank"
-                        class="commit-hash"
-                      >
-                        {commit.hash.slice(0, 7)}
-                      </a>
+            <div class="day-body">
+              <div class="day-header">
+                <h2>{formatDate(day)}</h2>
+                <span class="day-count">
+                  {grouped[day].length} {t('changelog.day.updates')}
+                </span>
+              </div>
+              <div class="day-commits">
+                {grouped[day].map((commit) => (
+                  <div class="commit-item">
+                    <span class="commit-icon">
+                      {commitIcon(commit.message)}
+                    </span>
+                    <div class="commit-content">
+                      <p class="commit-message">{commit.message}</p>
+                      <div class="commit-meta">
+                        <span class="commit-author">{commit.author}</span>
+                        <span class="commit-time" data-date={commit.date}>
+                          {new Date(commit.date).toLocaleTimeString([], {
+                            hour: '2-digit',
+                            minute: '2-digit',
+                          })}
+                        </span>
+                        <a
+                          href={`https://github.com/frank890417/taiwan-md/commit/${commit.hash}`}
+                          target="_blank"
+                          class="commit-hash"
+                        >
+                          {commit.hash.slice(0, 7)}
+                        </a>
+                      </div>
                     </div>
                   </div>
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
           </div>
         ))
@@ -207,22 +214,43 @@ const translations = {
 
   /* Timeline */
   .changelog-timeline {
-    position: relative;
-    padding-left: 2rem;
-  }
-
-  .changelog-timeline::before {
-    content: '';
-    position: absolute;
-    left: 0.45rem;
-    top: 0.5rem;
-    bottom: 0;
-    width: 2px;
-    background: linear-gradient(180deg, #22c55e, #3b82f6, #e2e8f0);
+    display: flex;
+    flex-direction: column;
   }
 
   .changelog-day {
-    margin-bottom: 2.5rem;
+    display: grid;
+    grid-template-columns: 32px 1fr;
+    gap: 0 1rem;
+  }
+
+  .day-indicator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .day-dot {
+    width: 12px;
+    height: 12px;
+    background: #22c55e;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    outline: 2px solid #22c55e;
+    flex-shrink: 0;
+    margin-top: 0.3rem;
+  }
+
+  .day-line {
+    width: 2px;
+    flex: 1;
+    background: linear-gradient(180deg, #22c55e, #e2e8f0);
+    margin-top: 4px;
+    min-height: 1rem;
+  }
+
+  .day-body {
+    padding-bottom: 2rem;
   }
 
   .day-header {
@@ -230,18 +258,6 @@ const translations = {
     align-items: center;
     gap: 0.75rem;
     margin-bottom: 1rem;
-    position: relative;
-  }
-
-  .day-dot {
-    position: absolute;
-    left: -1.7rem;
-    width: 12px;
-    height: 12px;
-    background: #22c55e;
-    border-radius: 50%;
-    border: 2px solid #fff;
-    box-shadow: 0 0 0 2px #22c55e;
   }
 
   .day-header h2 {
@@ -332,16 +348,6 @@ const translations = {
 
     .changelog-header h1 {
       font-size: 2rem;
-    }
-
-    .changelog-timeline {
-      padding-left: 1.5rem;
-    }
-
-    .day-dot {
-      left: -1.2rem;
-      width: 10px;
-      height: 10px;
     }
 
     .commit-item {
