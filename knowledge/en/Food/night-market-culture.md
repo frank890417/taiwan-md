@@ -1,234 +1,178 @@
 ---
-title: 'night-market-culture'
-date: 2026-03-17
-tags: [food, night market, street food, culture, tourism]
-description: "Night market culture is one of Taiwan's most distinctive cultural symbols. It not only preserves the essence of traditio"
+title: "Night Market Culture"
+description: "164 official night markets, Tainan averages one night market per 38,000 people — from temple plazas to international tourist attractions"
+date: 2026-03-21
+tags: ["night market", "street food", "culture", "tourism", "grassroots life"]
+category: "Food"
+author: "Taiwan.md"
+featured: false
+lastVerified: 2026-03-21
+lastHumanReview: true
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
+imageAlt: "Taiwan Night Market Culture"
+imageCredit: "Wikimedia Commons, CC BY-SA"
 ---
 
-# Taiwan's Night Market Culture
+# Taiwan Night Market Culture
 
-> **30-second overview:** Taiwan's night markets are the most representative form of grassroots food culture, combining dining, shopping, and entertainment. Developed over more than 100 years since the Japanese colonial period, Taiwan now has over 300 night markets. They serve not only as important places in Taiwanese daily life but also as must-visit destinations for foreign tourists experiencing Taiwanese culture.
+> **30-Second Overview:** Taiwan has 164 official night markets as of 2023, with Tainan alone hosting 49 of them—averaging one night market per 38,000 residents, the highest density globally. From Qing Dynasty kerosene lamp markets in Dadaocheng to today's international tourist destinations, Taiwan's night markets span 150 years of history. Behind a 50-NT dollar oyster omelet lies a microcosm of grassroots island life and a demonstration of soft power that attracts millions of tourists annually.
 
-## Why It Matters
+## From Kerosene Lamps to Neon Lights: 150 Years of Evolution
 
-Night market culture is one of Taiwan's most distinctive cultural symbols. It not only preserves the essence of traditional Taiwanese snacks but also embodies grassroots living culture. Night markets provide a populist, approachable social space where people of different classes and ages can enjoy food, shopping, and entertainment together. For foreign tourists, night markets offer the most direct way to experience "authentic Taiwan flavor."
+In 1870s Dadaocheng, Taipei, the night wasn't silent after sunset. Shop assistants lit kerosene lamps to continue inventory work, while dan-zai noodle (dànzǎi miàn) and meat ball vendors also lit up their stalls to provide hot dinners for night-shift workers and passing merchants. This was likely the earliest prototype of Taiwan's "night markets."
 
-## Historical Development
+The first documented night market appeared in 1908. *Taiwan Daily News* recorded a night market in the open space in front of Tianhou Temple in Qijin, Kaohsiung, operating from 6 PM to midnight, selling snacks and sundries. The Japanese colonial period's "evening cooling gatherings" (納涼會) also helped—people gathered on summer nights to enjoy the cool air and watch performances, naturally attracting vendors.
 
-### Origins and Early Development
+The post-war 1950s was the explosive period for night market culture. In economically difficult times, small-scale businesses became many people's livelihood. Temple forecourts and spaces left empty after wet markets closed were occupied by vendors. With urbanization, these scattered vendors gradually concentrated, forming the night markets we know today.
 
-- **Japanese Colonial Period (1908)**: First recorded in the _Taiwan Daily News_, a night market operated at the open space in front of Tianhou Temple in Qijin, Fengshan Prefecture, from 18:00-24:00
-- **Influence of Evening Cool-Off Events**: Japanese-era _nōryōkai_ (evening cool-off gatherings) influenced the development of Taiwan's night market format
-- **Temple Gatherings**: Early night markets often formed in temple courtyards due to crowd gatherings
+## The Truth Behind 164 Night Markets
 
-### Modern Development
+According to 2023 statistics from the Ministry of Economic Affairs Central Region Office, Taiwan has **164 official night markets**. This number doesn't include unlicensed small night markets and mobile vendors—the actual number may exceed 300.
 
-- **Post-War Prosperity**: After the 1950s, night market culture flourished with economic recovery
-- **Urbanization Impact**: With urbanization, night markets evolved from rural temple fairs to important urban commercial districts
-- **Tourism Development**: From the 1980s onward, they became important tourist attractions, with government planning and guidance
+**Tainan is the night market kingdom**, with 49 night markets accounting for nearly one-third of Taiwan's total. Do the math: with a population of 1.85 million, Tainan averages one night market per 38,000 people. This density is unmatched anywhere else in the world. Tainan residents' life philosophy seems to be: "Which night market should we visit today?"
 
-## Types of Night Markets
+In contrast, Taipei City has only 11 official night markets, but they're larger and more famous. **Shilin Night Market** can attract 100,000 visitors on weekends, equivalent to an entire small city's population flooding in.
 
-### Tourist Night Markets
+## Three Legendary Night Markets: Past and Present
 
-- **Features**: Government-planned with complete facilities and international recognition
-- **Examples**: Shilin Night Market (士林夜市), Liuhe Night Market (六合夜市), Fengjia Night Market (逢甲夜市)
-- **Advantages**: Well-organized, convenient transportation, quality assurance
+### Shilin Night Market: From Wet Market to International Brand
 
-### Street-Type Night Markets (Commercial District)
+Shilin Night Market's predecessor was Shilin Market, established in 1909. From the 1950s, vendors began gathering outside the market, gradually forming a night market. In 1983, the Jihe Road underground food court opened, officially establishing Shilin Night Market's scale.
 
-- **Features**: Extended operating hours in existing commercial areas, mixing shops and stalls
-- **Examples**: Ningxia Night Market (寧夏夜市), Huaxi Street Night Market (華西街夜市), Gongguan Night Market (公館夜市)
-- **Characteristics**: Integrated into community life with strong local atmosphere
+Today's Shilin Night Market consists of two parts: the above-ground area around Yangming Theater selling clothing and sundries, and the underground food court specializing in snacks. **Large fried chicken cutlet** (大雞排) is the signature here—the first "XXL Fried Chicken" opened in 1988, creating the legend of chicken cutlets bigger than your face. At 90 NT dollars per cutlet, it sounds expensive, but queues never stop.
 
-### Mall-Type Night Markets
+### Liuhe Night Market: Pioneer of International Tourism
 
-- **Features**: Concentrated in large buildings with air conditioning
-- **Examples**: Linjiang Street Night Market food courts, department store food courts
-- **Advantages**: Comfortable environment, weather-independent
+Liuhe Night Market began with vendor gatherings in the Dagangpu open space in the early 1950s. In 1987, Kaohsiung City government designated a 200-meter section of Liuhe Road as a pedestrian-only zone, making it Taiwan's first government-planned tourist night market.
 
-### Mobile Night Markets
+The **seafood porridge** here uses generous ingredients: shrimp, crab, oysters, and fish all in one bowl for 120 NT dollars, a favorite among foreign tourists. CNN once rated Liuhe Night Market as a "world must-visit night market," mainly for these seafood dishes.
 
-- **Features**: Operate periodically in open spaces, all vendors use stalls
-- **Operation**: Set up at dusk, dismantle after midnight, with rotating characteristics
-- **Significance**: Reach rural towns, serving remote communities
+### Fengjia Night Market: Laboratory of Innovative Snacks
 
-## Famous Night Market Rankings
+Fengjia Night Market rose in the 1960s but truly exploded in the 1990s. With many Fengjia University students and strong spending power, plus young people's love for trying new things, this became the birthplace of innovative snacks.
 
-### Top 5 from 2010 Tourism Bureau Poll
+**Takoyaki** was Fengjia Night Market's innovation. In the 1990s, the first takoyaki stall introduced Japanese methods but added Taiwanese mayonnaise and seaweed powder, creating "Taiwanese-style takoyaki." Now takoyaki can be found in night markets across Taiwan, all originating from Fengjia.
 
-1. **Kaohsiung Liuhe Night Market**: Highest international recognition
-2. **Taipei Shilin Night Market**: Largest scale, most visitors
-3. **Yilan Luodong Night Market**: Representative of eastern region
-4. **Tainan Garden Night Market**: Rich variety of cuisine
-5. **Taichung Fengjia Night Market**: Birthplace of innovative snacks
+## The Industry Chain Behind an Oyster Omelet
 
-### Featured Night Market Introductions
+Seemingly simple night market snacks have massive industry chains behind them. Take oyster omelet (蚵仔煎) as an example:
 
-**Shilin Night Market (士林夜市)**
+**Oysters** mainly come from aquaculture farms along Yunlin and Chiayi coasts. Taiwan oyster farmers produce about 20,000 tons annually, with one-third entering night markets. A fresh oyster travels from seaside to night market stall through harvesting, cleaning, transport, and wholesale—reaching customers within 24 hours at fastest.
 
-- Taiwan's largest night market, must-visit for international tourists
-- Famous snacks: XXL Fried Chicken, herbal pork rib soup, Shilin sausage
+**Sweet potato starch** comes from sweet potato fields in places like Erlin, Changhua. Night market oyster omelets don't use regular potato starch but sweet potato starch batter, giving the fried egg a special chewy texture.
 
-**Liuhe Night Market (六合夜市)**
+**Vegetables** are usually baby bok choy or chrysanthemum greens, mostly from farmers in Yunlin and Changhua. One oyster omelet stall can sell 200 portions daily, requiring 10 jin (斤, ~5kg) of oysters, 5 jin of vegetables, and 50 eggs, connecting to dozens of farmers and fishermen's livelihoods.
 
-- Kaohsiung's most famous night market, abundant seafood snacks
-- Specialties: Papaya milk, seafood porridge, eel noodles
+## Innovation Code of Night Market Snacks
 
-**Fengjia Night Market (逢甲夜市)**
+Taiwan night markets excel at "localized innovation." Foreign foods entering Taiwan inevitably change.
 
-- Cradle of innovative snacks, youth gathering place
-- Innovative foods: Takoyaki, crepes, creative beverages
+**Pepper buns** (胡椒餅) originated as Fuzhou snacks, but Taiwanese versions use black pepper and add scallions for stronger flavor. **Gua bao** (刈包) learned from Fujian, but Taiwan added pickled vegetables, peanut powder, and cilantro for richer layers.
 
-## Night Market Food Culture
+**Bubble tea** (珍珠奶茶) is purely Taiwanese invention. In the 1980s, Chun Shui Tang in Taichung added tapioca pearls to milk tea, creating the globally popular beverage. Bubble tea is called "Taiwan milk tea" in Japan and "Bubble Tea" in America, both indicating Taiwanese origins.
 
-### Classic Snacks (Enduring Popularity)
+**Wheel cakes** (車輪餅) are also Taiwanese innovation. Japanese versions only had red bean filling, but Taiwan invented dozens of fillings including cream, chocolate, taro, and matcha. One wheel cake stall can offer 20 flavors—a nightmare for people with choice paralysis.
 
-- **Oyster Omelette (蚵仔煎)**: Taiwan's most representative snack
-- **Fried Chicken Cutlet (雞排)**: Fragrant fried chicken became Taiwan's street food icon
-- **Bubble Tea (珍珠奶茶)**: Taiwan original, global phenomenon
-- **Stinky Tofu (臭豆腐)**: Unique flavor that foreigners love and fear
-- **Grilled Sausage (烤香腸)**: Taiwanese BBQ representative
-- **Pig Blood Cake (米血糕)**: Taiwan's unique blood product snack
+## The Touring Life of Mobile Night Markets
 
-### Regional Specialty Snacks
+Besides fixed night markets, Taiwan has about 100 "mobile night markets." These vendors form convoys, visiting Town A on Monday, Town B on Tuesday, covering 5-6 locations weekly.
 
-- **Tainan**: Dan-zai noodles (擔仔麵), coffin bread (棺材板), milkfish soup (虱目魚湯)
-- **Taichung**: Sun cakes (太陽餅), thick noodle soup (大麵羹)
-- **Kaohsiung**: Papaya milk (木瓜牛奶), eel noodles (鱔魚意麵)
-- **Yilan**: Scallion pancakes (蔥餅), fried cake (糕渣)
+**Nantou Caotun Mobile Night Market** is representative. Forty vendor trucks form a convoy: Caotun on Monday, Mingjian on Tuesday, Zhushan on Wednesday, Jiji on Thursday, Shuili on Friday. They set up in open spaces at each location, dismantle after midnight, then move to the next township.
 
-### 2017 Taipei Night Market Top 10 Foods Poll
+This business model solves insufficient commercial functions in rural areas. For rural elderly, mobile night markets aren't just shopping venues but weekly social gatherings. Vendor owners recognize regular customers, knowing who likes what and what's happening in whose family.
 
-1. **Stinky Tofu**: Most characteristic of Taiwan
-2. **Oyster Omelette**: Classic Taiwanese pancake
-3. **Fried Chicken**: Youth favorite
+## Night Market Economics: How Does a 50 NT Dollar Oyster Omelet Make Money?
 
-## Night Market Cultural Characteristics
+An oyster omelet selling for 50 NT dollars has roughly this cost structure:
+- Oysters: 15 NT (6-8 pieces)
+- Egg: 5 NT (1 piece)
+- Vegetables: 3 NT
+- Sweet potato starch, seasonings: 2 NT
+- Stall rent (allocated): 8 NT
+- Gas, electricity: 2 NT
+- **Total cost ~35 NT, gross profit 15 NT**
 
-### Food Culture
+The profit seems slim, but a popular stall can sell 200 portions nightly, earning 3,000 NT gross profit. Minus labor costs, a couple running an oyster omelet stall can earn 50,000-80,000 NT monthly.
 
-- **Populist**: Affordable prices accessible to everyone
-- **Diverse**: Various regional snacks gathered, rich choices
-- **Innovative**: Constantly new flavors and combinations emerge
-- **Fresh Made**: Hot and fresh, optimal taste
+Of course, this is ideal conditions. Reality involves weather, competition, and ingredient price inflation risks. In 2022, oyster production decreased 30% due to climate anomalies, forcing many vendors to reduce oyster usage or raise prices.
 
-### Social Functions
+## Taiwan's Business Card for International Tourism
 
-- **Dating Destination**: Popular choice for couples
-- **Family Dining**: Everyone in the family can find favorite foods
-- **Friend Gatherings**: Eating while walking and chatting, relaxed atmosphere
-- **Intergenerational Exchange**: Public space suitable for all ages
+For foreign tourists, night markets are the most direct way to experience Taiwan. Before the 2019 pandemic, Shilin Night Market attracted over 10 million tourists annually, one-third of them foreign.
 
-### Entertainment Elements
+**Netflix food shows**, **Anthony Bourdain documentaries**, and **CNN travel reports** all list Taiwan night markets as must-visit destinations. When the 2018 Michelin Guide first came to Taiwan, it included multiple night market stalls, putting Taiwanese snacks on the international stage.
 
-- **Game Stalls**: Ring toss, dart throwing, goldfish scooping, claw machines
-- **Small Performances**: Street artists, singing performances
-- **Shopping Fun**: Cheap clothing, accessories, souvenirs
+But internationalization brings challenges. To cater to foreign tourists, some night market stalls began adjusting flavors, raising prices, and adding English menus. The result: foreigners find it inauthentic, locals find it too expensive, pleasing neither side.
 
-## Economic Value
+## Second-Generation Vendors' Innovation Challenge
 
-### Tourism Industry
+Night markets face generational transition. Many first-generation vendors are aging, but second-generation aren't necessarily willing to take over.
 
-- **International Recognition**: Featured by international media like CNN, BBC
-- **Tourism Revenue**: Attracts large numbers of domestic and foreign tourists annually
-- **Cultural Export**: Important demonstration of Taiwan's soft power
+**Lin Family Stinky Tofu** is a Shilin Night Market institution. First-generation owner Lin Chunsheng started selling stinky tofu in 1975. His son Lin Zhihong worked at a tech company after college graduation, returning to take over the stall in 2015. He introduced POS systems, developed delivery services, and managed social media, growing annual revenue from 2 million to 5 million NT.
 
-### Employment Opportunities
+But more second-generation choose to leave. Night market work is tough—preparing ingredients at 4 PM, closing at 1 AM, only resting a few days during Chinese New Year. Young people prefer office jobs over this lifestyle.
 
-- **Vendor Economy**: Provides numerous job opportunities
-- **Flexible Work**: Suitable for part-time work and entrepreneurship
-- **Skill Inheritance**: Preservation and development of traditional crafts
+The result is vendor aging and insufficient innovation. Many stalls haven't changed menus in 20 years, business models still stuck in cash transactions and handwritten bookkeeping.
 
-### Supply Chain Effects
+## Digital Transformation Growing Pains
 
-- **Ingredient Supply**: Drives agricultural products and wholesale food industry
-- **Equipment Manufacturing**: Stalls, kitchen equipment, packaging supplies
-- **Supporting Services**: Parking, cleaning, management and other service industries
+The pandemic accelerated night market digitization. Food delivery platforms entered, mobile payments spread, online ordering rose—traditional vendors were forced to learn new technology.
 
-## Modern Challenges and Development
+**Ningxia Night Market** is a transformation model. In 2020, it launched "Ningxia Night Market Online Ordering," allowing customers to order online and pick up on-site, avoiding queues. The same year, it introduced "Taipei Pass" digital payment, letting tourists pay with EasyCard or credit cards.
 
-### Current Challenges
+**Fengjia Night Market** partnered with Uber Eats and foodpanda, letting consumers enjoy night market food at home. During the pandemic, delivery revenue accounted for 20-30% of total income, with some vendors even increasing revenue.
 
-- **Food Safety**: Supervision of ingredient sources and hygiene environment
-- **Traffic Congestion**: Transportation problems caused by excessive crowds
-- **Environmental Hygiene**: Waste disposal, oil smoke pollution
-- **Homogenization**: Night markets in different locations becoming similar
+But digitization has costs. Delivery platforms take 25-30% commission, significantly compressing profits. Mobile payments require equipment investment and transaction fees. For elderly vendors, learning new technology itself is a challenge.
 
-### Innovation Development
+## Food Safety and Environmental Dilemma
 
-- **Digitalization**: Mobile payments, online ordering services
-- **Branding**: Famous stalls developing chain operations
-- **Theming**: Specialty night markets, cultural creative night markets
-- **Internationalization**: Taiwan night market brands expanding overseas
+Night market food safety incidents occur periodically. In 2019, a Changhua night market food poisoning incident hospitalized over 40 people from contaminated seafood. In 2021, a Taipei night market was found using expired ingredients.
 
-## Cultural Significance and Value
+The problem lies in monitoring difficulties. Night market vendors are numerous and highly mobile, while health departments have limited manpower. Plus small-scale operations pursuing low costs make ingredient sources and storage conditions hard to control.
 
-### Symbol of Grassroots Culture
+Environmental pressure is also increasing. Night markets heavily use disposable utensils, generating considerable waste. Taipei City required night markets to provide reusable utensil rental services in 2020, but implementation effects were limited—consumers found it troublesome, vendors found it cost-increasing.
 
-- **Egalitarian Space**: Place accessible regardless of social class
-- **Living Aesthetics**: Turning dining into enjoyment
-- **Human Touch**: Warm interactions between vendors and customers
-- **Creative Expression**: Small businesses can still display creativity
+## Post-Pandemic Night Market New Look
 
-### Cultural Preservation Function
+The pandemic changed night market ecology. Crowd control, real-name registration, social distancing made originally bustling crowded night markets quiet. Many old vendors couldn't survive the pandemic and closed, while new blood took advantage to enter.
 
-- **Traditional Crafts**: Preserving traditional cooking techniques
-- **Local Flavors**: Maintaining regional culinary characteristics
-- **Generational Inheritance**: Family businesses passed down through generations
-- **Cultural Memory**: Carrying collective memory of Taiwanese people
+**Younger demographics** is an obvious trend. New vendors are mostly 30-40 years old with decent educational backgrounds who understand social media marketing. Their stalls have more modern designs, more diverse menus, and higher prices.
 
-### Social Integration Role
+**Boutique-ization** is also happening. Some night market stalls began emphasizing organic ingredients, handmade production, and no additives, taking high-priced refined routes. A bowl of "boutique beef noodles" can sell for 200 NT, targeting consumers willing to pay for quality.
 
-- **Ethnic Fusion**: Exchange of various ethnic food cultures
-- **Intergenerational Dialogue**: Activity space shared by three generations
-- **Urban-Rural Connection**: Bringing rural cuisine to urban areas
+**Thematic development** is another trend. New Taipei Tamsui "Sunset Market Night Market" features cultural creativity, combining art performances with food. Tainan "Dadong Night Market" plans international food zones, introducing Thai, Japanese, and Korean cuisine.
 
-## International Influence and Recognition
+## Tainan Night Markets' Alternative Life Philosophy
 
-### International Media Coverage
+Returning to the opening numbers: Tainan has 49 night markets, highest density in Taiwan. But careful observation reveals Tainan night markets have a feature—many don't operate daily.
 
-- CNN selected Taiwan night markets as "Top 10 Must-Visit Night Markets in the World"
-- Michelin Guide includes Taiwan night market cuisine
-- Various international food programs compete to feature Taiwan night markets
+**Garden Night Market** operates Thursday, Saturday, Sunday; **Dadong Night Market** operates Monday, Tuesday, Friday; **Wusheng Night Market** operates Wednesday, Saturday. Tainan people invented "night market shift system," letting vendors tour and consumers have night markets to visit daily.
 
-### Cultural Export
+This model reflects Tainan people's life rhythm. Unlike hurried Taipei people, Tainan people have time to slowly enjoy. Today visit Garden Night Market for fish soup, tomorrow Dadong Night Market to buy clothes, day after tomorrow browse Wusheng Night Market—a full week without rush.
 
-- **Overseas Taiwanese**: Establishing Taiwan-style night markets worldwide
-- **Tourism Promotion**: Main selling point for Taiwan tourism
-- **Culinary Diplomacy**: Showcasing Taiwanese culture through night market cuisine
+Tainan night markets have another feature—many stalls sell only one item. **A-Mei Hibiscus Egg** only sells hibiscus eggs, **Spring Roll Stall** only sells spring rolls, **Rice Cake Stall** only sells rice cakes. Specializing in one item results in extremely high quality, with each stall having loyal customers.
 
-## Statistical Data
+## Future Vision of Night Market Culture
 
-### Scale Data
+Taiwan night markets have evolved beyond eating places to cultural symbols. They represent common people's food, grassroots life, and Taiwanese human warmth. But facing changing times, night markets must also change.
 
-- **Number of Night Markets**: Over 300 night markets across Taiwan
-- **Personnel**: Over 100,000 people engaged in related industries
-- **Annual Output Value**: Estimated over NT$100 billion
-- **Tourists**: Attracts over 10 million visits annually
+**Sustainable management** is key. Reducing disposable utensils, supporting local ingredients, lowering environmental impact. Some night markets began promoting "green night market" plans, encouraging vendors to use reusable utensils, set up recycling stations, and reduce food waste.
 
-### Famous Night Market Information
+**Cultural preservation** is equally important. Night markets can't just remain commercial—they must retain cultural content. Recording old vendors' stories, inheriting traditional crafts, maintaining local characteristics prevent night markets from becoming just another shopping center.
 
-- **Shilin Night Market**: Daily average of 50,000-100,000 visitors
-- **Fengjia Night Market**: Weekend crowds can reach 200,000 people
-- **Operating Hours**: Most night markets operate 17:00-01:00
+**Innovation and change** are also necessary. Combining technology to improve efficiency, developing new service types, expanding international markets. But innovation can't lose fundamentals—night market charm lies in warm human interactions, not cold automation.
 
-## Further Reading
+## Seeing Taiwan Through Night Markets
 
-- "Taiwan Night Market Complete Guide" - Tourism Bureau publication
-- "Old Times" - Chen Roujin (Night market history)
-- "Island Floating World" - Jiang Zhushan
-- [Taiwan Tourism Bureau Night Market Tour](https://www.taiwan.net.tw/m1.aspx)
-- [Taipei City Night Market Guide](http://english.gov.taipei/)
+Every Taiwanese has their own night market memories. Student days wandering Shilin Night Market with classmates, dating at Fengjia Night Market, taking parents to local night markets for familiar flavors. Night markets are Taiwanese people's shared memory bank and foreign friends' window into Taiwan.
 
-## Related Topics
+A 50 NT oyster omelet, 30 NT bubble tea, 90 NT fried chicken cutlet—behind them lie not just taste enjoyment but Taiwanese life wisdom, innovative spirit, and human warmth. Night market culture's survival and global reach proves Taiwan's soft power.
 
-- [[Taiwan Street Food]]: Detailed introduction to night market cuisine
-- [[Tea Culture]]: Bubble tea and other beverage culture
-- [[Lifestyle Hub|Lifestyle]]: Role of night markets in Taiwanese daily life
-- [[Economy Hub|Economy]]: Night markets' contribution to Taiwan's economy
-- [[Society Hub|Society]]: Social functions and significance of night markets
+In globalization waves, night markets help Taiwan maintain uniqueness. In rapidly changing times, night markets remind people of slow living's beauty. In the digital world, night markets provide real human warmth. This is Taiwan night market culture's precious value—in small stalls, seeing an island's soul.
 
----
+## References
 
-_Taiwan's night markets are not just places to find food, but the best venues to experience Taiwanese grassroots culture and feel human warmth._
+- [Ministry of Economic Affairs Central Region Office - Night Market Management Regulations](https://www.moea.gov.tw/)
+- [Ministry of Foreign Affairs - Night Market Feature Report](https://nspp.mofa.gov.tw/nspp/news.php?unit=406&post=234073)
+- [Tourism Bureau, MOTC - Taiwan Night Market Guide](https://www.taiwan.net.tw/)
+- [Food Network - Taiwan Night Market Operating Hours Guide](https://supertaste.tvbs.com.tw/pack/320927)
