@@ -90,34 +90,15 @@ import markersData from '../data/map-markers.json';
               <span class="stat-label">個知識節點</span>
             </div>
             <div class="stat-item">
-              <span class="stat-number">9</span>
+              <span class="stat-number" id="totalCategories">9</span>
               <span class="stat-label">個分類</span>
             </div>
           </div>
 
           <div class="category-distribution">
             <h4>分類分布</h4>
-            <div class="category-list">
-              <div class="category-item">
-                <span class="category-color" style="background: #27ae60;"></span>
-                <span>自然 (5)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #e74c3c;"></span>
-                <span>歷史 (3)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #9b59b6;"></span>
-                <span>文化 (3)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #ff5722;"></span>
-                <span>經濟 (2)</span>
-              </div>
-              <div class="category-item">
-                <span class="category-color" style="background: #f39c12;"></span>
-                <span>美食 (2)</span>
-              </div>
+            <div class="category-list" id="categoryStats">
+              <!-- 動態生成 -->
             </div>
           </div>
 
@@ -323,7 +304,19 @@ import markersData from '../data/map-markers.json';
       const projection = d3.geoMercator().fitSize([800, 1000], geojson);
       const pathGenerator = d3.geoPath().projection(projection);
 
-      // 畫縣市
+      // 縣市名對照
+      const countyToRegion = {
+        '臺北市': 'north', '新北市': 'north', '基隆市': 'north',
+        '桃園市': 'north', '新竹市': 'north', '新竹縣': 'north', '宜蘭縣': 'north',
+        '臺中市': 'central', '彰化縣': 'central', '南投縣': 'central',
+        '雲林縣': 'central', '苗栗縣': 'central',
+        '嘉義市': 'south', '嘉義縣': 'south', '臺南市': 'south',
+        '高雄市': 'south', '屏東縣': 'south',
+        '花蓮縣': 'east', '臺東縣': 'east',
+        '澎湖縣': 'islands', '金門縣': 'islands', '連江縣': 'islands'
+      };
+
+      // 畫縣市 + 熱力圖
       const group = document.getElementById('taiwanCounties');
       geojson.features.forEach((feature) => {
         const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
@@ -331,9 +324,43 @@ import markersData from '../data/map-markers.json';
         if (!d) return;
         path.setAttribute('d', d);
         path.setAttribute('class', 'county');
-        path.setAttribute('fill', '#bbf7d0');
+        
+        // 計算該縣市的 marker 數
+        const countyName = feature.properties.COUNTYNAME;
+        const region = countyToRegion[countyName];
+        const markerCount = markersData.filter(m => m.city && countyName.includes(m.city.replace('台', '臺'))).length;
+        
+        // 熱力圖：marker 越多顏色越深
+        const intensity = Math.min(markerCount / 15, 1); // 15 markers = 最深
+        const green = Math.round(247 - intensity * 100);
+        path.setAttribute('fill', `rgb(${187 - intensity * 80}, ${green}, ${208 - intensity * 80})`);
+        
         path.setAttribute('stroke', '#4ade80');
         path.setAttribute('stroke-width', '0.8');
+        path.setAttribute('data-county', countyName);
+        path.setAttribute('data-count', markerCount);
+        
+        // Hover 效果
+        path.addEventListener('mouseenter', () => {
+          path.style.opacity = '0.8';
+          path.style.cursor = 'pointer';
+          const tooltip = document.getElementById('tooltip');
+          tooltip.querySelector('.tooltip-title').textContent = countyName;
+          tooltip.querySelector('.tooltip-category').textContent = `${markerCount} 篇相關文章`;
+          tooltip.querySelector('.tooltip-desc').textContent = '點擊篩選此區域';
+          tooltip.style.opacity = '1';
+        });
+        
+        path.addEventListener('mouseleave', () => {
+          path.style.opacity = '1';
+          document.getElementById('tooltip').style.opacity = '0';
+        });
+        
+        // Click 篩選該縣市
+        path.addEventListener('click', () => {
+          showCountyArticles(countyName, region);
+        });
+        
         group.appendChild(path);
       });
 
@@ -344,7 +371,7 @@ import markersData from '../data/map-markers.json';
         const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
         circle.setAttribute('cx', String(x));
         circle.setAttribute('cy', String(y));
-        circle.setAttribute('r', '8');
+        circle.setAttribute('r', '5');
         circle.setAttribute('class', 'marker');
         circle.setAttribute('fill', categoryColors[m.category] || '#16a34a');
         circle.setAttribute('data-region', m.region);
@@ -364,7 +391,7 @@ import markersData from '../data/map-markers.json';
           document.getElementById('zoomGroup').setAttribute('transform', event.transform);
           const scale = event.transform.k;
           document.querySelectorAll('.marker').forEach((marker) => {
-            const originalR = 8;
+            const originalR = 5;
             marker.setAttribute('r', String(originalR / scale));
           });
         });
@@ -493,8 +520,50 @@ import markersData from '../data/map-markers.json';
     document.getElementById('articleContent').style.display = 'block';
   }
 
+  function showCountyArticles(countyName, region) {
+    // 將該縣市的區域設為篩選器
+    if (region) {
+      activeRegionFilter = region;
+      
+      // 更新UI
+      document.querySelectorAll('#regionFilters .filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('data-filter') === region) {
+          btn.classList.add('active');
+        }
+      });
+      
+      applyFilters();
+    }
+  }
+
+  function updateStatistics() {
+    // 計算分類統計
+    const categoryStats = {};
+    markersData.forEach(marker => {
+      categoryStats[marker.category] = (categoryStats[marker.category] || 0) + 1;
+    });
+    
+    // 排序並顯示前5個分類
+    const sortedCategories = Object.entries(categoryStats)
+      .sort(([,a], [,b]) => b - a)
+      .slice(0, 5);
+    
+    const categoryStatsEl = document.getElementById('categoryStats');
+    categoryStatsEl.innerHTML = sortedCategories.map(([category, count]) => `
+      <div class="category-item">
+        <span class="category-color" style="background: ${categoryColors[category] || '#16a34a'};"></span>
+        <span>${categoryNames[category] || category} (${count})</span>
+      </div>
+    `).join('');
+    
+    // 更新總分類數
+    document.getElementById('totalCategories').textContent = Object.keys(categoryStats).length;
+  }
+
   document.addEventListener('DOMContentLoaded', async () => {
     await drawTaiwanMap();
     initMap();
+    updateStatistics();
   });
 </script>

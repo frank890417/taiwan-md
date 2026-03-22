@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-api.js",
+    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js",
     "build": "astro build",
     "preview": "astro preview",
     "sync": "bash scripts/sync.sh",
