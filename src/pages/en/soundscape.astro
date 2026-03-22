@@ -1,0 +1,301 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const sounds = [
+  {
+    file: 'taichung-green-museumbrary-crickets.mp3',
+    location: 'Taichung Green Museumbrary',
+    description: 'Evening cricket chorus',
+    contributor: 'bugnimusic',
+    date: '2026-03',
+    icon: '🦗',
+  },
+  {
+    file: 'taipei-nangang-garbage-truck-melody-maidens-prayer.mp3',
+    location: 'Taipei Nangang',
+    description: "Garbage truck melody (Maiden's Prayer)",
+    contributor: 'x1001000',
+    date: '2021-03',
+    icon: '🚛',
+  },
+];
+
+const wishlist = [
+  { icon: '🚛', text: 'Garbage truck melodies (regional variations)' },
+  { icon: '🏯', text: 'Temple Beiguan drums' },
+  { icon: '🌊', text: 'East coast waves' },
+  { icon: '🏙️', text: 'Night market vendors' },
+  { icon: '🐦', text: 'Mountain birdsong' },
+  { icon: '🦗', text: 'Insect choruses across Taiwan' },
+  { icon: '🚂', text: 'Train station jingles' },
+];
+---
+
+<Layout
+  title="Taiwan Soundscape — Taiwan.md"
+  description="Discover Taiwan through your ears — a field recording collection featuring crickets, garbage trucks, temple festivals, ocean waves, and other uniquely Taiwanese sounds"
+  lang="en"
+>
+  <div class="soundscape-page">
+
+    <section class="hero">
+      <div class="hero-inner">
+        <p class="hero-kicker">🎧 Soundscape</p>
+        <h1>Taiwan Soundscape</h1>
+        <p class="hero-subtitle">
+          Some stories are best told through ears.
+        </p>
+        <p class="hero-count">{sounds.length} recordings collected</p>
+      </div>
+    </section>
+
+    <section class="sound-library">
+      <div class="section-inner">
+        <h2>🎙️ Sound Library</h2>
+        <div class="sound-grid">
+          {sounds.map((sound) => (
+            <div class="sound-card">
+              <div class="sound-icon">{sound.icon}</div>
+              <div class="sound-info">
+                <h3>{sound.location}</h3>
+                <p class="sound-desc">{sound.description}</p>
+                <div class="sound-meta">
+                  <a href={`https://github.com/${sound.contributor}`} target="_blank" rel="noopener" class="contributor">
+                    @{sound.contributor}
+                  </a>
+                  <span class="sound-date">{sound.date}</span>
+                </div>
+              </div>
+              <audio controls preload="none" class="sound-player">
+                <source src={`/assets/sounds/${sound.file}`} type="audio/mpeg" />
+              </audio>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="wishlist">
+      <div class="section-inner">
+        <h2>📋 Wishlist</h2>
+        <p class="wishlist-intro">
+          These are the Taiwan soundscapes we'd love to collect. If you happen to have one nearby, record it and contribute!
+        </p>
+        <div class="wishlist-grid">
+          {wishlist.map((item) => (
+            <div class="wishlist-card">
+              <span class="wishlist-icon">{item.icon}</span>
+              <p class="wishlist-text">{item.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="contribute-cta">
+      <div class="section-inner">
+        <h2>🎤 Contribute Your Recordings</h2>
+        <p>
+          Record 30 seconds to 2 minutes of Taiwan soundscape with your phone, convert to MP3, and open a PR.<br />
+          Not familiar with GitHub? Just <a href="mailto:cheyu.wu@monoame.com">email us</a> with the recording and location description.
+        </p>
+        <div class="cta-steps">
+          <div class="step"><span class="step-num">1</span> Record the sound (30s – 2min)</div>
+          <div class="step"><span class="step-num">2</span> Convert to MP3 (128kbps+)</div>
+          <div class="step"><span class="step-num">3</span> Open a PR or email us</div>
+        </div>
+        <a href="/en/contribute" class="cta-btn">Go to Contribution Page →</a>
+      </div>
+    </section>
+
+  </div>
+</Layout>
+
+<style>
+  .soundscape-page {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5rem 4rem;
+  }
+
+  /* Hero */
+  .hero {
+    text-align: center;
+    padding: 4rem 0 3rem;
+  }
+  .hero-kicker {
+    font-size: 0.9rem;
+    color: #ABC468;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+  .hero h1 {
+    font-size: 2.8rem;
+    margin: 0.3rem 0;
+  }
+  .hero-subtitle {
+    font-size: 1.15rem;
+    color: #a1a1aa;
+    line-height: 1.8;
+    margin-top: 0.8rem;
+  }
+  .hero-count {
+    margin-top: 1rem;
+    font-size: 0.85rem;
+    color: #52525b;
+    letter-spacing: 0.1em;
+  }
+
+  /* Section */
+  .section-inner {
+    margin-bottom: 3rem;
+  }
+  .section-inner h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  /* Sound Grid */
+  .sound-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+  }
+  .sound-card {
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 12px;
+    padding: 1.5rem;
+    transition: border-color 0.2s;
+  }
+  .sound-card:hover {
+    border-color: rgba(171, 196, 104, 0.3);
+  }
+  .sound-icon {
+    font-size: 2rem;
+    margin-bottom: 0.8rem;
+  }
+  .sound-info h3 {
+    font-size: 1.2rem;
+    margin: 0 0 0.3rem;
+  }
+  .sound-desc {
+    color: #d4d4d8;
+    margin: 0 0 0.8rem;
+  }
+  .sound-meta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.85rem;
+    margin-bottom: 1rem;
+  }
+  .contributor {
+    color: #ABC468;
+    text-decoration: none;
+  }
+  .contributor:hover {
+    text-decoration: underline;
+  }
+  .sound-date {
+    color: #52525b;
+  }
+  .sound-player {
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+  }
+  .sound-player::-webkit-media-controls-panel {
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  /* Wishlist */
+  .wishlist-intro {
+    color: #a1a1aa;
+    margin-bottom: 1.2rem;
+  }
+  .wishlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 0.8rem;
+  }
+  .wishlist-card {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .wishlist-icon {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+  }
+  .wishlist-text {
+    margin: 0;
+    color: #d4d4d8;
+  }
+
+  /* CTA */
+  .contribute-cta {
+    text-align: center;
+    padding: 2rem 0;
+  }
+  .contribute-cta p {
+    color: #a1a1aa;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+  .contribute-cta a:not(.cta-btn) {
+    color: #ABC468;
+  }
+  .cta-steps {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+  }
+  .step {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #d4d4d8;
+    font-size: 0.95rem;
+  }
+  .step-num {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    background: rgba(171, 196, 104, 0.15);
+    color: #ABC468;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    font-weight: 600;
+    flex-shrink: 0;
+  }
+  .cta-btn {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background: rgba(171, 196, 104, 0.12);
+    border: 1px solid rgba(171, 196, 104, 0.3);
+    border-radius: 8px;
+    color: #ABC468;
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: all 0.2s;
+  }
+  .cta-btn:hover {
+    background: rgba(171, 196, 104, 0.2);
+    border-color: rgba(171, 196, 104, 0.5);
+  }
+
+  @media (max-width: 600px) {
+    .hero h1 { font-size: 2rem; }
+    .cta-steps { flex-direction: column; align-items: center; }
+  }
+</style>
