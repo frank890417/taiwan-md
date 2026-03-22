@@ -1949,19 +1949,17 @@ import i18nProgress from '../data/i18n-progress.json';
 </style>
 
 <script is:inline>
-function copyPrompt() {
-  const code = document.querySelector('#translate-prompt code');
-  if (!code) return;
-  navigator.clipboard.writeText(code.textContent).then(() => {
-    const btn = document.querySelector('.copy-btn');
+function copyTranslatePrompt() {
+  const text = '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。';
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = event.target;
     btn.textContent = '✅ 已複製！';
-    setTimeout(() => { btn.textContent = '📋 複製 Prompt'; }, 2000);
+    setTimeout(() => { btn.textContent = '📋 複製'; }, 2000);
   });
 }
 
 function copyOneLine() {
   const command = 'bash <(curl -s https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)';
-  
   navigator.clipboard.writeText(command).then(() => {
     const btn = event.target;
     btn.textContent = '✅ 已複製！';
