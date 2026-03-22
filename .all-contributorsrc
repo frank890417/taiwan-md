@@ -245,6 +245,33 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "gn00295120",
+      "name": "Lucas Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30173341?v=4",
+      "profile": "https://github.com/gn00295120",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "alstontsai0816",
+      "name": "我們一家都很蔡",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194244853?v=4",
+      "profile": "https://github.com/alstontsai0816",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "BrianHuang813",
+      "name": "Brian Huang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66238110?v=4",
+      "profile": "https://github.com/BrianHuang813",
+      "contributions": [
+        "ideas"
+      ]
     }
   ]
 }

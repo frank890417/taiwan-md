@@ -185,6 +185,22 @@
     "path": "People/方序中.md"
   },
   {
+    "title": "日本統治時代",
+    "description": "1895年から1945年の50年間に及ぶ日本の台湾統治。全面的な近代化建設と制度化された管理を推進する一方、同化政策を実施し、台湾社会の発展に深い影響を与えた",
+    "category": "ja",
+    "tags": [
+      "History",
+      "日本統治",
+      "近代化",
+      "皇民化運動"
+    ],
+    "url": "https://taiwan.md/ja/History/japanese-colonial-era",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "ja/History/japanese-colonial-era.md"
+  },
+  {
     "title": "日治時期",
     "description": "1895-1945年日本統治台灣50年，帶來全面現代化建設與制度化管理，同時實施同化政策，深刻影響台灣社會發展",
     "category": "History",
@@ -374,6 +390,25 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "History/台海危機與兩岸關係發展.md"
+  },
+  {
+    "title": "台湾の宗教と寺廟文化",
+    "description": "媽祖巡行から仏道融合まで——台湾の寺廟がいかに信仰・コミュニティ・文化の生活の中心となっているか",
+    "category": "ja",
+    "tags": [
+      "宗教",
+      "寺廟",
+      "民間信仰",
+      "媽祖",
+      "仏教",
+      "道教",
+      "おみくじ"
+    ],
+    "url": "https://taiwan.md/ja/Culture/taiwan-religion-and-temple-culture",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "ja/Culture/taiwan-religion-and-temple-culture.md"
   },
   {
     "title": "台灣5G網路建設與數位轉型",
@@ -3719,7 +3754,7 @@
   },
   {
     "title": "呂秀蓮",
-    "description": "台灣女權運動先驅，華人世界首位女性副總統",
+    "description": "從叛亂犯到副總統：華人世界第一位女性副總統的傳奇人生",
     "category": "People",
     "tags": [
       "人物",
@@ -3731,7 +3766,7 @@
     "url": "https://taiwan.md/People/%E5%91%82%E7%A7%80%E8%93%AE",
     "readingTime": 12,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-22",
     "path": "People/呂秀蓮.md"
   },
   {
@@ -3880,7 +3915,7 @@
   },
   {
     "title": "李登輝",
-    "description": "台灣民主化推手，被譽為「民主先生」",
+    "description": "從農業經濟學者到華人世界第一位民主領袖的反差人生",
     "category": "People",
     "tags": [
       "人物",
@@ -3889,9 +3924,9 @@
       "總統"
     ],
     "url": "https://taiwan.md/People/%E6%9D%8E%E7%99%BB%E8%BC%9D",
-    "readingTime": 7,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-22",
     "path": "People/李登輝.md"
   },
   {
@@ -3984,6 +4019,23 @@
     "path": "Economy/台灣企業：和碩聯合.md"
   },
   {
+    "title": "国家公園",
+    "description": "台湾9つの国家公園の生態系の宝庫——玉山の頂から海底世界まで、完全な保全体系",
+    "category": "ja",
+    "tags": [
+      "自然",
+      "国家公園",
+      "生態保全",
+      "観光",
+      "環境保護"
+    ],
+    "url": "https://taiwan.md/ja/Nature/national-parks",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "ja/Nature/national-parks.md"
+  },
+  {
     "title": "夜市文化",
     "description": "164個列管夜市、台南平均3.8萬人擁有一個夜市，從廟埕到國際觀光景點",
     "category": "Food",
@@ -3999,6 +4051,23 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "Food/夜市文化.md"
+  },
+  {
+    "title": "夜市文化",
+    "description": "164の公認夜市、台南では平均3.8万人に1つの夜市——廟の前庭から国際観光スポットへ",
+    "category": "ja",
+    "tags": [
+      "夜市",
+      "屋台グルメ",
+      "文化",
+      "観光",
+      "庶民の暮らし"
+    ],
+    "url": "https://taiwan.md/ja/Food/night-market-culture",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "ja/Food/night-market-culture.md"
   },
   {
     "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
@@ -4398,18 +4467,19 @@
   },
   {
     "title": "施振榮",
-    "description": "宏碁電腦創辦人，微笑曲線理論提出者",
+    "description": "承認虧損千億的創業導師，微笑曲線背後的失敗哲學",
     "category": "People",
     "tags": [
       "人物",
       "企業家",
       "科技",
-      "管理"
+      "宏碁",
+      "微笑曲線"
     ],
     "url": "https://taiwan.md/People/%E6%96%BD%E6%8C%AF%E6%A6%AE",
-    "readingTime": 7,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-22",
     "path": "People/施振榮.md"
   },
   {
@@ -4826,7 +4896,7 @@
   },
   {
     "title": "國家公園",
-    "description": "台灣9座國家公園的生態寶庫，從玉山之巔到海底世界的完整保育體系",
+    "description": "36,197 平方公里塞進 9 座國家公園，密度世界第一的保育奇蹟",
     "category": "Nature",
     "tags": [
       "自然",
@@ -4836,7 +4906,7 @@
       "環境保護"
     ],
     "url": "https://taiwan.md/Nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
-    "readingTime": 17,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-17",
     "path": "Nature/國家公園.md"
@@ -6647,6 +6717,23 @@
     "path": "en/People/annette-lu.md"
   },
   {
+    "title": "Annette Lu Hsiu-lien",
+    "description": "From political prisoner to vice president: The first female vice president in the Chinese-speaking world",
+    "category": "en",
+    "tags": [
+      "person",
+      "politician",
+      "feminism",
+      "vice president",
+      "Kaohsiung Incident"
+    ],
+    "url": "https://taiwan.md/en/People/%E5%91%82%E7%A7%80%E8%93%AE",
+    "readingTime": 40,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/People/呂秀蓮.md"
+  },
+  {
     "title": "Audrey Tang",
     "description": "World's first transgender cabinet minister and pioneering practitioner of open government and digital democracy",
     "category": "en",
@@ -7107,6 +7194,22 @@
     "path": "es/Food/taiwanese-street-food.md"
   },
   {
+    "title": "Compal Electronics",
+    "description": "The world's second-largest laptop ODM manufacturer and a key driver of Taiwan's ODM industry",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Enterprise",
+      "Electronic Manufacturing",
+      "ODM"
+    ],
+    "url": "https://taiwan.md/en/Economy/compal-electronics-global-odm-leader",
+    "readingTime": 54,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/compal-electronics-global-odm-leader.md"
+  },
+  {
     "title": "Comunidad de código abierto y g0v",
     "description": "La próspera comunidad de software de código abierto de Taiwán y g0v gov-zero, promoviendo prácticas innovadoras en tecnología cívica y gobierno abierto",
     "category": "es",
@@ -7481,6 +7584,22 @@
     "path": "en/History/dutch-spanish-and-koxinga-era.md"
   },
   {
+    "title": "E.SUN Financial Holding: From Credit Card Specialist to Digital Banking Pioneer",
+    "description": "From Taiwan's first specialized credit card bank to digital financial leader, the breakthrough story of Taiwan's youngest financial holding CEO at age 43",
+    "category": "en",
+    "tags": [
+      "economy",
+      "companies",
+      "financial-services",
+      "digital-transformation"
+    ],
+    "url": "https://taiwan.md/en/Economy/esun-financial-holding-digital-banking-pioneer",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/esun-financial-holding-digital-banking-pioneer.md"
+  },
+  {
     "title": "Economic Miracle",
     "description": "Taiwan's economic development journey from agricultural society to high-tech industrial powerhouse, known as the \"Taiwan Economic Miracle\"",
     "category": "en",
@@ -7732,6 +7851,25 @@
     "path": "en/About/founder.md"
   },
   {
+    "title": "Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire",
+    "description": "How a betrayed Taiwanese manufacturer transformed from assembly slave into the hidden empire that sets global cycling standards",
+    "category": "en",
+    "tags": [
+      "economy",
+      "companies",
+      "giant-manufacturing",
+      "manufacturing",
+      "brand-transformation",
+      "a-team",
+      "electric-bikes"
+    ],
+    "url": "https://taiwan.md/en/Economy/giant-manufacturing-taiwan-bicycle-empire",
+    "readingTime": 81,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/Economy/giant-manufacturing-taiwan-bicycle-empire.md"
+  },
+  {
     "title": "Gobierno de la Dinastía Qing",
     "description": "1683-1895 La Dinastía Qing gobernó Taiwán durante 212 años, desde el gobierno pasivo hasta la construcción activa, estableciendo la base de las divisiones administrativas modernas de Taiwán y la sociedad china han",
     "category": "es",
@@ -7955,6 +8093,24 @@
     "path": "en/People/hsu-shu-ching-olympic-weightlifting-champion.md"
   },
   {
+    "title": "HTC: From Android Pioneer to VR Transformation",
+    "description": "Founded by Cher Wang in 1997, HTC created the world's first Android phone and saw its stock price soar above NT$1,000 in 2011, surpassing Nokia. After smartphone market setbacks, it pivoted to VR in 2015 with VIVE, redefining the virtual reality industry",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Business",
+      "Technology",
+      "VR",
+      "Smartphones",
+      "Innovation"
+    ],
+    "url": "https://taiwan.md/en/Economy/htc-android-pioneer-vr-transformation",
+    "readingTime": 48,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/htc-android-pioneer-vr-transformation.md"
+  },
+  {
     "title": "HTC：從Android開路先鋒到VR轉型之路",
     "description": "1997年王雪紅創立，製造全球第一支Android手機，2011年股價飆破千元超越諾基亞。智慧手機市場失利後，2015年轉戰VR領域，以VIVE重新定義虛擬實境產業",
     "category": "Economy",
@@ -7990,6 +8146,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/huang-chun-ming-taiwanese-literary-master.md"
+  },
+  {
+    "title": "Huang Kuo-chen: Teaching Taiwan's Children to \"Understand\" Not Just \"Finish Reading\"",
+    "description": "Founder of Pin Xue Tang, promoting reading literacy education in Taiwan, working to change the educational predicament of \"good at tests but bad at thinking\"",
+    "category": "en",
+    "tags": [
+      "Education",
+      "Reading Literacy",
+      "Pin Xue Tang",
+      "Reading Comprehension",
+      "Educational Innovation",
+      "Literacy Education"
+    ],
+    "url": "https://taiwan.md/en/People/huang-kuo-chen",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/People/huang-kuo-chen.md"
   },
   {
     "title": "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan\\'s Living History Source",
@@ -8481,6 +8655,22 @@
     "path": "en/People/lee-teng-hui.md"
   },
   {
+    "title": "Lee Teng-hui",
+    "description": "From agricultural economist to the first democratic leader in the Chinese-speaking world",
+    "category": "en",
+    "tags": [
+      "People",
+      "Politics",
+      "Democratization",
+      "President"
+    ],
+    "url": "https://taiwan.md/en/People/%E6%9D%8E%E7%99%BB%E8%BC%9D",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/People/李登輝.md"
+  },
+  {
     "title": "Lee Yuan-tseh",
     "description": "",
     "category": "en",
@@ -8844,6 +9034,40 @@
     "path": "en/Society/media-and-press-freedom-in-taiwan.md"
   },
   {
+    "title": "Mega Financial Holding: From Colonial Bank to Taiwan's Global Banking Partner",
+    "description": "Inheriting the bloodline of Bank of Taiwan since 1897, through three name changes and two mergers, Mega Financial built a network across 38 countries over 127 years, becoming Taiwan businesses' key partner for global expansion",
+    "category": "en",
+    "tags": [
+      "economy",
+      "companies",
+      "financial-services",
+      "state-owned-banks",
+      "international-banking"
+    ],
+    "url": "https://taiwan.md/en/Economy/mega-financial-holding-taiwan-global-banking",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/mega-financial-holding-taiwan-global-banking.md"
+  },
+  {
+    "title": "Mega Financial Holding: From Japanese Colonial Bank to Global Financial Partner for Taiwanese Businesses",
+    "description": "Inheriting the legacy of Taiwan Bank established in 1897, Mega Financial Holding has built a financial network across 38 countries in 127 years, becoming a crucial supporter for Taiwanese businesses going global",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Enterprise",
+      "Financial Industry",
+      "State-Owned Bank",
+      "International Finance"
+    ],
+    "url": "https://taiwan.md/en/Economy/mega-financial-holding-global-banking-network",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/mega-financial-holding-global-banking-network.md"
+  },
+  {
     "title": "Metamorphosis of an Island: Taiwan's Industrial Transformation",
     "description": "From an agrarian society to one of the Four Asian Tigers, and eventually a global technology hub—the story of Taiwan's economic evolution.",
     "category": "en",
@@ -8963,6 +9187,23 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Lifestyle/national-health-insurance.md"
+  },
+  {
+    "title": "National Parks",
+    "description": "How Taiwan crammed 9 national parks into 36,197 sq km and created the world's most successful high-density conservation miracle",
+    "category": "en",
+    "tags": [
+      "nature",
+      "national parks",
+      "conservation",
+      "tourism",
+      "environment"
+    ],
+    "url": "https://taiwan.md/en/Nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "en/Nature/國家公園.md"
   },
   {
     "title": "National Scenic Area System",
@@ -9528,6 +9769,23 @@
     "path": "en/People/stan-lai-theater-innovation-master.md"
   },
   {
+    "title": "Stan Shih",
+    "description": "The entrepreneur who admitted to losing billions yet became Taiwan business guru",
+    "category": "en",
+    "tags": [
+      "People",
+      "Entrepreneur",
+      "Technology",
+      "Acer",
+      "Smiling Curve"
+    ],
+    "url": "https://taiwan.md/en/People/%E6%96%BD%E6%8C%AF%E6%A6%AE",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "en/People/施振榮.md"
+  },
+  {
     "title": "Stan Shih (施振榮)",
     "description": "Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation",
     "category": "en",
@@ -9885,6 +10143,21 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Art/contemporary-art.md"
+  },
+  {
+    "title": "Taiwan Democratization",
+    "description": "The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan\\'s democratic transition—but at what cost of youth and freedom?",
+    "category": "en",
+    "tags": [
+      "history",
+      "democratization",
+      "politics"
+    ],
+    "url": "https://taiwan.md/en/History/taiwan-democratization",
+    "readingTime": 49,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "en/History/taiwan-democratization.md"
   },
   {
     "title": "Taiwan Digital Imaging and Animation Industry",
@@ -10431,26 +10704,6 @@
     "path": "en/Geography/taiwan-transportation-network.md"
   },
   {
-    "title": "Taiwan: The Fruit Kingdom",
-    "description": "From mangoes and lychees to sugar apples and wax apples, the sweet story of tropical fruit diversity and agricultural innovation",
-    "category": "en",
-    "tags": [
-      "fruit",
-      "mango",
-      "lychee",
-      "sugar apple",
-      "wax apple",
-      "agricultural technology",
-      "Yujing",
-      "fruit exports"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-fruit-kingdom",
-    "readingTime": 66,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Food/taiwan-fruit-kingdom.md"
-  },
-  {
     "title": "Taiwan's 16 Indigenous Peoples: A Cultural Map",
     "description": "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations",
     "category": "en",
@@ -10811,6 +11064,26 @@
     "featured": true,
     "date": "2026-03-20",
     "path": "en/Nature/taiwan-forest-ecosystems.md"
+  },
+  {
+    "title": "Taiwan's Fruit Kingdom",
+    "description": "From mangoes and lychees to sugar apples and wax apples, the sweet legacy of tropical fruit diversity and agricultural innovation",
+    "category": "en",
+    "tags": [
+      "fruits",
+      "mango",
+      "lychee",
+      "sugar apple",
+      "wax apple",
+      "agricultural technology",
+      "Yujing",
+      "fruit export"
+    ],
+    "url": "https://taiwan.md/en/Food/taiwan-fruit-kingdom",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "en/Food/taiwan-fruit-kingdom.md"
   },
   {
     "title": "Taiwan's Geography and Geology",
@@ -11826,6 +12099,23 @@
     "path": "en/Food/taiwanese-street-food.md"
   },
   {
+    "title": "Taiwanese Tea Ceremony and Aesthetic Living",
+    "description": "On the opening night of Wistaria Tea House in 1981, opposition politicians and literati gathered for tea—this wasn\\'t just a tearoom, but a secret base for Taiwan\\'s resistance movement",
+    "category": "en",
+    "tags": [
+      "tea culture",
+      "tea ceremony",
+      "lifestyle aesthetics",
+      "Wistaria Tea House",
+      "tea art"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwanese-tea-ceremony-and-aesthetic-living",
+    "readingTime": 45,
+    "featured": true,
+    "date": "2026-03-18",
+    "path": "en/Culture/taiwanese-tea-ceremony-and-aesthetic-living.md"
+  },
+  {
     "title": "Taiwanese Tea Ceremony and Lifestyle Aesthetics",
     "description": "When Wistaria House opened in 1981, opposition figures and intellectuals gathered for tea. This wasn't just a teahouse—it was a secret base for the democracy movement",
     "category": "en",
@@ -12339,6 +12629,24 @@
     "path": "en/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
+    "title": "TSMC: The World's Most Important Company You've Never Heard Of",
+    "description": "How a Taiwanese chipmaker became the linchpin of global digital civilization",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Business",
+      "Semiconductors",
+      "Technology",
+      "Manufacturing",
+      "TSMC"
+    ],
+    "url": "https://taiwan.md/en/Economy/tsmc",
+    "readingTime": 38,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "en/Economy/tsmc.md"
+  },
+  {
     "title": "Tung Tzu-hsien (童子賢)",
     "description": "Chairman and CEO of Pegatron Corporation, a tech industry leader who bridges technology and humanities, and key supporter of Taiwan's Eslite Bookstore",
     "category": "en",
@@ -12756,5 +13064,23 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/zoo-and-exhibition-animal-ethics.md"
+  },
+  {
+    "title": "タピオカミルクティー",
+    "description": "台湾の夜市の小さな屋台から世界的な飲料帝国へ——タピオカミルクティーの起源論争と文化征服の道のり",
+    "category": "ja",
+    "tags": [
+      "グルメ",
+      "タピオカミルクティー",
+      "ハンドシェイクドリンク",
+      "グローバル化",
+      "ソフトパワー",
+      "文化外交"
+    ],
+    "url": "https://taiwan.md/ja/Food/bubble-tea",
+    "readingTime": 23,
+    "featured": false,
+    "date": "2026-03-22",
+    "path": "ja/Food/bubble-tea.md"
   }
 ]

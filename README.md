@@ -284,6 +284,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://andywangtw.dev/"><img src="https://avatars.githubusercontent.com/u/71600455?v=4?s=80" width="80px;" alt="Andy Wang"/><br /><sub><b>Andy Wang</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/commits?author=AndyWang505" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://penchan.co/"><img src="https://avatars.githubusercontent.com/u/5032148?v=4?s=80" width="80px;" alt="Penchan"/><br /><sub><b>Penchan</b></sub></a><br /><a href="#content-p3nchan" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gn00295120"><img src="https://avatars.githubusercontent.com/u/30173341?v=4?s=80" width="80px;" alt="Lucas Wang"/><br /><sub><b>Lucas Wang</b></sub></a><br /><a href="#translation-gn00295120" title="Translation">🌍</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/alstontsai0816"><img src="https://avatars.githubusercontent.com/u/194244853?v=4?s=80" width="80px;" alt="我們一家都很蔡"/><br /><sub><b>我們一家都很蔡</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/issues?q=author%3Aalstontsai0816" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4?s=80" width="80px;" alt="Brian Huang"/><br /><sub><b>Brian Huang</b></sub></a><br /><a href="#ideas-BrianHuang813" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>
