@@ -57,15 +57,21 @@ const quotes = [
     </p>
     <div class="quotes-timeline">
       {
-        quotes.map((q) => (
+        quotes.map((q, i) => (
           <div class="quote-era">
-            <span class="era-label">
-              {'eraKey' in q && q.eraKey ? t(q.eraKey) : q.era}
-            </span>
-            <blockquote>
-              {t(q.quoteKey)}
-              <cite>{t(q.citeKey)}</cite>
-            </blockquote>
+            <div class="quote-indicator">
+              <div class="quote-dot" />
+              {i < quotes.length - 1 && <div class="quote-line" />}
+            </div>
+            <div class="quote-body">
+              <span class="era-label">
+                {'eraKey' in q && q.eraKey ? t(q.eraKey) : q.era}
+              </span>
+              <blockquote>
+                {t(q.quoteKey)}
+                <cite>{t(q.citeKey)}</cite>
+              </blockquote>
+            </div>
           </div>
         ))
       }
@@ -113,44 +119,55 @@ const quotes = [
     font-weight: 600;
   }
   .quotes-timeline {
-    position: relative;
-    padding-left: 3rem;
-  }
-  .quotes-timeline::before {
-    content: '';
-    position: absolute;
-    left: 0.75rem;
-    top: 0;
-    bottom: 0;
-    width: 2px;
-    background: linear-gradient(180deg, #e2e8f0, #3b82f6, #059669, #e2e8f0);
+    display: flex;
+    flex-direction: column;
   }
   .quote-era {
-    position: relative;
-    margin-bottom: 2.5rem;
+    display: grid;
+    grid-template-columns: 28px 1fr;
+    gap: 0 1rem;
+    margin-bottom: 0;
   }
-  .quote-era::before {
-    content: '';
-    position: absolute;
-    left: -2.35rem;
-    top: 0.5rem;
-    width: 10px;
-    height: 10px;
-    background: #3b82f6;
+  .quote-indicator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .quote-dot {
+    width: 12px;
+    height: 12px;
     border-radius: 50%;
+    background: #3b82f6;
     border: 2px solid #fff;
-    box-shadow: 0 0 0 2px #3b82f6;
+    outline: 2px solid #3b82f6;
+    flex-shrink: 0;
+    margin-top: 0.35rem;
   }
-  .quote-era:nth-child(even)::before {
+  .quote-line {
+    width: 2px;
+    flex: 1;
+    background: linear-gradient(180deg, #3b82f6, #e2e8f0);
+    margin-top: 4px;
+    min-height: 2rem;
+  }
+  .quote-era:nth-child(even) .quote-dot {
     background: #059669;
-    box-shadow: 0 0 0 2px #059669;
+    outline-color: #059669;
   }
-  .quote-era:last-child::before {
+  .quote-era:nth-child(even) .quote-line {
+    background: linear-gradient(180deg, #059669, #e2e8f0);
+  }
+  .quote-era:last-child .quote-dot {
     background: #fbbf24;
-    box-shadow: 0 0 0 2px #fbbf24;
+    outline-color: #fbbf24;
+  }
+  .quote-body {
+    padding-bottom: 2rem;
   }
   .era-label {
     display: inline-block;
+    font-family:
+      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
     font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0;
@@ -180,6 +197,8 @@ const quotes = [
   }
   .quote-era cite {
     display: block;
+    font-family:
+      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
     font-size: 0.8rem;
     color: #94a3b8;
     font-style: normal;

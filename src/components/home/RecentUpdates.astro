@@ -103,8 +103,9 @@ const translatePath = useTranslatedPath(lang);
     margin: 0 auto;
   }
   .update-item {
-    display: flex;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1.5rem 1fr auto;
+    align-items: baseline;
     gap: 0.75rem;
     padding: 0.75rem 1rem;
     background: white;
@@ -121,10 +122,9 @@ const translatePath = useTranslatedPath(lang);
   }
   .update-icon {
     font-size: 1rem;
-    flex-shrink: 0;
+    text-align: center;
   }
   .update-message {
-    flex: 1;
     font-size: 0.9rem;
     color: #1f2937;
     font-weight: 600;
@@ -134,7 +134,6 @@ const translatePath = useTranslatedPath(lang);
     white-space: nowrap;
   }
   .update-time {
-    flex-shrink: 0;
     font-size: 0.78rem;
     color: #94a3b8;
     font-weight: 500;
