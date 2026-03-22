@@ -4,6 +4,7 @@ import { aboutUI } from './about';
 import { dataUI } from './data';
 import { contributeUI } from './contribute';
 import { changelogUI } from './changelog';
+import { resourcesUI } from './resources';
 
 export const languages: Record<Lang, string> = {
   en: 'English',
@@ -20,6 +21,7 @@ export const ui = {
     ...dataUI.en,
     ...contributeUI.en,
     ...changelogUI.en,
+    ...resourcesUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -114,6 +116,7 @@ export const ui = {
     ...dataUI['zh-TW'],
     ...contributeUI['zh-TW'],
     ...changelogUI['zh-TW'],
+    ...resourcesUI['zh-TW'],
     'nav.aria-home': 'Taiwan.md 首頁',
     'nav.aria-img-label': 'Taiwan.md 標誌圖示',
     'nav.aria-toggle-menu': '開啟/關閉導航選單',
