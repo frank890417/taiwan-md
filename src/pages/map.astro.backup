@@ -1,12 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import markersData from '../data/map-markers.json';
+import routesData from '../data/map-routes.json';
 ---
 
 <Layout title="台灣地圖 Map" description="以地圖視角探索 Taiwan.md 的內容脈絡">
   <div class="map-page">
 
-    <div id="mapData" data-markers={JSON.stringify(markersData)} style="display:none"></div>
+    <div id="mapData" data-markers={JSON.stringify(markersData)} data-routes={JSON.stringify(routesData)} style="display:none"></div>
 
     <section class="map-hero">
       <div class="hero-inner">
@@ -50,6 +51,20 @@ import markersData from '../data/map-markers.json';
       </div>
     </section>
 
+    <section class="route-section">
+      <div class="route-inner">
+        <h3>🗺️ 策展路線</h3>
+        <div class="route-buttons" id="routeButtons">
+          <button class="route-btn active" data-route="none">一般模式</button>
+          <!-- 動態生成 route buttons -->
+        </div>
+        <div class="route-info" id="routeInfo" style="display:none">
+          <p class="route-desc" id="routeDesc"></p>
+          <div class="route-stops" id="routeStops"></div>
+        </div>
+      </div>
+    </section>
+
     <section class="map-body">
       <div class="map-canvas">
         <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
@@ -81,6 +96,7 @@ import markersData from '../data/map-markers.json';
         </div>
       </div>
 
+      <div class="mobile-overlay" id="mobileOverlay"></div>
       <aside class="map-panel" id="infoPanel">
         <div class="panel-content" id="defaultContent">
           <h3>台灣知識地圖</h3>
@@ -257,15 +273,152 @@ import markersData from '../data/map-markers.json';
   }
   .read-more-btn:hover { background: #15803d; }
 
+  /* Route section styles */
+  .route-section {
+    padding: 1rem 1.5rem;
+    background: #fafdf6;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .route-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .route-section h3 {
+    font-size: 1rem;
+    color: #2d5016;
+    margin-bottom: 0.75rem;
+  }
+  .route-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+  }
+  .route-btn {
+    padding: 0.5rem 1rem;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    background: white;
+    font-size: 0.85rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    white-space: nowrap;
+  }
+  .route-btn:hover { 
+    background: #f0f7e6; 
+  }
+  .route-btn.active { 
+    background: #2d5016; 
+    color: white; 
+    border-color: #2d5016; 
+  }
+
+  .route-info {
+    margin-top: 1rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+  }
+  .route-desc {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+  .route-stop-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 0.5rem 0;
+    cursor: pointer;
+    border-bottom: 1px solid #f0f0f0;
+    transition: background 0.2s;
+  }
+  .route-stop-item:hover { 
+    background: #fafdf6; 
+  }
+  .stop-number {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.75rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .stop-info strong { 
+    font-size: 0.9rem; 
+    color: #333; 
+  }
+  .stop-info p { 
+    font-size: 0.8rem; 
+    color: #888; 
+    margin-top: 0.25rem; 
+  }
+
+  /* Cluster and route line styles */
+  :global(.route-line) {
+    pointer-events: none;
+  }
+  :global(.cluster-circle) {
+    transition: r 0.2s ease;
+    cursor: pointer;
+  }
+  :global(.cluster-group:hover .cluster-circle) {
+    fill: #4a7c59;
+  }
+
   @media (max-width: 1024px) {
     .controls-inner { grid-template-columns: 1fr; gap: 1.5rem; }
     .map-body { grid-template-columns: 1fr; }
     .map-panel { position: relative; top: auto; }
   }
   @media (max-width: 768px) {
+    .map-hero { padding: 2rem 1rem 1.5rem; }
     .map-hero h1 { font-size: 2.2rem; }
     .filter-buttons { justify-content: center; }
     .filter-btn { font-size: 0.8rem; padding: 0.4rem 0.8rem; }
+    .route-section { padding: 0.75rem 1rem; }
+    .route-buttons { flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch; gap: 0.4rem; }
+    .route-btn { font-size: 0.78rem; padding: 0.4rem 0.75rem; flex-shrink: 0; }
+    .route-info { max-height: 50vh; overflow-y: auto; }
+
+    /* 手機版：浮動文章面板 */
+    .map-panel {
+      position: fixed;
+      bottom: 0; left: 0; right: 0;
+      z-index: 1000;
+      border-radius: 16px 16px 0 0;
+      box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
+      max-height: 60vh;
+      overflow-y: auto;
+      transform: translateY(100%);
+      transition: transform 0.3s ease;
+    }
+    .map-panel.mobile-show {
+      transform: translateY(0);
+    }
+    /* 手機版遮罩 */
+    .mobile-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.3);
+      z-index: 999;
+    }
+    .mobile-overlay.active { display: block; }
+    .mobile-article-list { display: flex; flex-direction: column; gap: 0.5rem; }
+    .mobile-article-item {
+      display: flex; align-items: center; gap: 0.5rem;
+      padding: 0.6rem 0.5rem; background: #f9fafb; border-radius: 8px;
+      text-decoration: none; color: #333; font-size: 0.9rem;
+    }
+    .mobile-article-item:active { background: #e5e7eb; }
+    .mobile-article-title { flex: 1; }
   }
 </style>
 
@@ -275,6 +428,9 @@ import markersData from '../data/map-markers.json';
 <script is:inline>
   const markersData = JSON.parse(
     document.getElementById('mapData').getAttribute('data-markers')
+  );
+  const routesData = JSON.parse(
+    document.getElementById('mapData').getAttribute('data-routes')
   );
 
   const categoryColors = {
@@ -293,6 +449,7 @@ import markersData from '../data/map-markers.json';
   let activeCategoryFilter = 'all';
   let mapZoom = null;
   let svgSelection = null;
+  let activeRoute = null;
 
   async function drawTaiwanMap() {
     try {
@@ -303,6 +460,9 @@ import markersData from '../data/map-markers.json';
       const geojson = topojson.feature(topology, topology.objects.counties);
       const projection = d3.geoMercator().fitSize([800, 1000], geojson);
       const pathGenerator = d3.geoPath().projection(projection);
+      
+      // 保存 projection 到全域（供路線使用）
+      window._mapProjection = projection;
 
       // 縣市名對照
       const countyToRegion = {
@@ -394,6 +554,8 @@ import markersData from '../data/map-markers.json';
             const originalR = 5;
             marker.setAttribute('r', String(originalR / scale));
           });
+          // 更新 clusters
+          updateClusters(event.transform.k);
         });
       svgSelection.call(mapZoom);
 
@@ -470,6 +632,7 @@ import markersData from '../data/map-markers.json';
       e.target.classList.add('active');
       activeRegionFilter = e.target.getAttribute('data-filter');
       applyFilters();
+      updateURL('region', activeRegionFilter);
     });
 
     // Category filter
@@ -479,12 +642,30 @@ import markersData from '../data/map-markers.json';
       e.target.classList.add('active');
       activeCategoryFilter = e.target.getAttribute('data-filter');
       applyFilters();
+      updateURL('category', activeCategoryFilter);
     });
 
     document.getElementById('backBtn').addEventListener('click', () => {
       document.getElementById('defaultContent').style.display = 'block';
       document.getElementById('articleContent').style.display = 'none';
+      closeMobilePanel();
     });
+
+    // 手機版遮罩點擊關閉
+    document.getElementById('mobileOverlay').addEventListener('click', () => {
+      closeMobilePanel();
+    });
+  }
+
+  function openMobilePanel() {
+    if (window.innerWidth <= 768) {
+      document.getElementById('infoPanel').classList.add('mobile-show');
+      document.getElementById('mobileOverlay').classList.add('active');
+    }
+  }
+  function closeMobilePanel() {
+    document.getElementById('infoPanel').classList.remove('mobile-show');
+    document.getElementById('mobileOverlay').classList.remove('active');
   }
 
   function applyFilters() {
@@ -518,6 +699,7 @@ import markersData from '../data/map-markers.json';
 
     document.getElementById('defaultContent').style.display = 'none';
     document.getElementById('articleContent').style.display = 'block';
+    openMobilePanel();
   }
 
   function showCountyArticles(countyName, region) {
@@ -534,6 +716,41 @@ import markersData from '../data/map-markers.json';
       });
       
       applyFilters();
+    }
+
+    // 手機版：顯示該區域的文章列表
+    if (window.innerWidth <= 768) {
+      const regionMarkers = markersData.filter(m => m.region === region);
+      const defaultContent = document.getElementById('defaultContent');
+      const articleContent = document.getElementById('articleContent');
+      
+      defaultContent.style.display = 'block';
+      articleContent.style.display = 'none';
+      
+      // 更新側欄內容為文章列表
+      const statsEl = defaultContent.querySelector('.stats');
+      const catDist = defaultContent.querySelector('.category-distribution');
+      const panelLinks = defaultContent.querySelector('.panel-links');
+      
+      if (statsEl) statsEl.style.display = 'none';
+      if (catDist) {
+        const regionName = { north: '北部', central: '中部', south: '南部', east: '東部', islands: '離島' }[region] || region;
+        catDist.innerHTML = `
+          <h4>${regionName}文章（${regionMarkers.length} 篇）</h4>
+          <div class="mobile-article-list">
+            ${regionMarkers.slice(0, 15).map(m => `
+              <a href="${m.link}" class="mobile-article-item">
+                <span class="category-color" style="background: ${categoryColors[m.category] || '#16a34a'}"></span>
+                <span class="mobile-article-title">${m.title}</span>
+              </a>
+            `).join('')}
+            ${regionMarkers.length > 15 ? `<p style="color:#999;font-size:0.8rem;margin-top:0.5rem">⋯及其他 ${regionMarkers.length - 15} 篇</p>` : ''}
+          </div>
+        `;
+      }
+      if (panelLinks) panelLinks.style.display = 'none';
+      
+      openMobilePanel();
     }
   }
 
@@ -561,9 +778,333 @@ import markersData from '../data/map-markers.json';
     document.getElementById('totalCategories').textContent = Object.keys(categoryStats).length;
   }
 
+  // Phase 3: Smart Clustering
+  function updateClusters(zoomScale) {
+    const markersGroup = document.getElementById('markers');
+    const allMarkers = markersGroup.querySelectorAll('.marker');
+    const allClusters = markersGroup.querySelectorAll('.cluster-group');
+    
+    // 清除舊 clusters
+    allClusters.forEach(c => c.remove());
+    
+    // Route 啟用時不做 cluster（避免衝突）
+    if (activeRoute || zoomScale > 2.5) {
+      // Zoom in 夠多，顯示個別 markers
+      allMarkers.forEach(m => m.style.display = '');
+      return;
+    }
+    
+    // Grid clustering
+    const cellSize = 60 / zoomScale; // 動態 cell size
+    const cells = {};
+    
+    allMarkers.forEach(marker => {
+      // 只 cluster 可見的 markers
+      if (marker.style.display === 'none' || marker.classList.contains('hidden')) return;
+      
+      const cx = parseFloat(marker.getAttribute('cx'));
+      const cy = parseFloat(marker.getAttribute('cy'));
+      const cellKey = `${Math.floor(cx/cellSize)}_${Math.floor(cy/cellSize)}`;
+      
+      if (!cells[cellKey]) cells[cellKey] = [];
+      cells[cellKey].push({ marker, cx, cy });
+    });
+    
+    for (const [key, items] of Object.entries(cells)) {
+      if (items.length <= 1) continue; // 不需要 cluster
+      
+      // 隱藏個別 markers
+      items.forEach(item => item.marker.style.display = 'none');
+      
+      // 計算 cluster 中心
+      const avgX = items.reduce((s, i) => s + i.cx, 0) / items.length;
+      const avgY = items.reduce((s, i) => s + i.cy, 0) / items.length;
+      
+      // 建立 cluster 元素
+      const g = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+      g.setAttribute('class', 'cluster-group');
+      g.setAttribute('transform', `translate(${avgX}, ${avgY})`);
+      
+      const radius = Math.min(8 + items.length * 0.5, 20) / zoomScale;
+      
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('r', String(radius));
+      circle.setAttribute('fill', '#2d5016');
+      circle.setAttribute('fill-opacity', '0.85');
+      circle.setAttribute('stroke', 'white');
+      circle.setAttribute('stroke-width', String(1.5 / zoomScale));
+      circle.setAttribute('class', 'cluster-circle');
+      
+      const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      text.setAttribute('text-anchor', 'middle');
+      text.setAttribute('dy', '0.35em');
+      text.setAttribute('fill', 'white');
+      text.setAttribute('font-size', String(Math.max(8, 11) / zoomScale));
+      text.setAttribute('font-weight', '700');
+      text.textContent = String(items.length);
+      
+      g.appendChild(circle);
+      g.appendChild(text);
+      
+      // Click cluster → zoom in
+      g.style.cursor = 'pointer';
+      g.addEventListener('click', () => {
+        if (svgSelection && mapZoom) {
+          const svg = document.getElementById('taiwanMap');
+          const [w, h] = [800, 1000];
+          svgSelection.transition().duration(500).call(
+            mapZoom.transform,
+            d3.zoomIdentity.translate(w/2, h/2).scale(3.5).translate(-avgX, -avgY)
+          );
+        }
+      });
+      
+      markersGroup.appendChild(g);
+    }
+  }
+
+  // Phase 4: Route Drawing
+  function drawRoute(route) {
+    const markersGroup = document.getElementById('markers');
+    
+    // 清除舊路線
+    markersGroup.querySelectorAll('.route-line, .route-stop, .route-label').forEach(el => el.remove());
+    
+    if (!route) {
+      activeRoute = null;
+      // 恢復所有 markers
+      markersGroup.querySelectorAll('.marker').forEach(m => m.style.opacity = '1');
+      return;
+    }
+    
+    activeRoute = route;
+    
+    // 淡化非路線 markers
+    markersGroup.querySelectorAll('.marker').forEach(m => m.style.opacity = '0.15');
+    
+    if (!window._mapProjection) {
+      console.warn('Projection not available, route drawing skipped');
+      return;
+    }
+    
+    // 用 projection 轉換座標
+    const points = route.stops.map(stop => {
+      return window._mapProjection([stop.lng, stop.lat]);
+    });
+    
+    // 畫連線（曲線）
+    if (points.length > 1) {
+      const lineGenerator = d3.line().curve(d3.curveCatmullRom.alpha(0.5));
+      const pathD = lineGenerator(points);
+      
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+      line.setAttribute('d', pathD);
+      line.setAttribute('class', 'route-line');
+      line.setAttribute('fill', 'none');
+      line.setAttribute('stroke', route.color);
+      line.setAttribute('stroke-width', '3');
+      line.setAttribute('stroke-dasharray', '8,4');
+      line.setAttribute('stroke-opacity', '0.8');
+      markersGroup.appendChild(line);
+    }
+    
+    // 畫站點
+    route.stops.forEach((stop, i) => {
+      const [x, y] = points[i];
+      
+      // 站點圓
+      const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+      circle.setAttribute('cx', String(x));
+      circle.setAttribute('cy', String(y));
+      circle.setAttribute('r', '10');
+      circle.setAttribute('class', 'route-stop');
+      circle.setAttribute('fill', route.color);
+      circle.setAttribute('stroke', 'white');
+      circle.setAttribute('stroke-width', '2');
+      circle.style.cursor = 'pointer';
+      
+      // 序號
+      const num = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      num.setAttribute('x', String(x));
+      num.setAttribute('y', String(y));
+      num.setAttribute('text-anchor', 'middle');
+      num.setAttribute('dy', '0.35em');
+      num.setAttribute('fill', 'white');
+      num.setAttribute('font-size', '9');
+      num.setAttribute('font-weight', '700');
+      num.setAttribute('class', 'route-label');
+      num.textContent = String(i + 1);
+      
+      // Click → 顯示 stop 資訊
+      circle.addEventListener('click', () => {
+        showRouteStop(route, stop, i);
+      });
+      
+      // Tooltip
+      circle.addEventListener('mouseenter', (e) => {
+        const tooltip = document.getElementById('tooltip');
+        tooltip.querySelector('.tooltip-title').textContent = `${i+1}. ${stop.name}`;
+        tooltip.querySelector('.tooltip-category').textContent = route.name;
+        tooltip.querySelector('.tooltip-desc').textContent = stop.note;
+        tooltip.style.opacity = '1';
+      });
+      
+      markersGroup.appendChild(circle);
+      markersGroup.appendChild(num);
+    });
+    
+    // 更新側欄
+    showRouteInfo(route);
+  }
+  
+  function showRouteInfo(route) {
+    const info = document.getElementById('routeInfo');
+    const desc = document.getElementById('routeDesc');
+    const stops = document.getElementById('routeStops');
+    
+    info.style.display = 'block';
+    desc.textContent = route.description;
+    
+    stops.innerHTML = route.stops.map((stop, i) => `
+      <div class="route-stop-item" data-index="${i}">
+        <span class="stop-number" style="background:${route.color}">${i+1}</span>
+        <div class="stop-info">
+          <strong>${stop.name}</strong>
+          <p>${stop.note}</p>
+        </div>
+      </div>
+    `).join('');
+    
+    // 點擊 stop item → zoom 到該點
+    stops.querySelectorAll('.route-stop-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const idx = parseInt(item.dataset.index);
+        const stop = route.stops[idx];
+        const [x, y] = window._mapProjection([stop.lng, stop.lat]);
+        if (svgSelection && mapZoom) {
+          svgSelection.transition().duration(500).call(
+            mapZoom.transform,
+            d3.zoomIdentity.translate(400, 500).scale(4).translate(-x, -y)
+          );
+        }
+      });
+    });
+  }
+  
+  function showRouteStop(route, stop, index) {
+    const panel = document.getElementById('infoPanel');
+    document.getElementById('defaultContent').style.display = 'none';
+    document.getElementById('articleContent').style.display = 'block';
+    
+    document.getElementById('articleTitle').textContent = `${index+1}. ${stop.name}`;
+    document.getElementById('articleDesc').textContent = stop.note;
+    document.getElementById('articleLink').href = stop.link;
+    
+    const categoryEl = document.getElementById('articleCategory');
+    categoryEl.textContent = route.name;
+    categoryEl.style.background = route.color + '20';
+    categoryEl.style.color = route.color;
+  }
+  
+  function initRoutes() {
+    const container = document.getElementById('routeButtons');
+    routesData.forEach(route => {
+      const btn = document.createElement('button');
+      btn.className = 'route-btn';
+      btn.dataset.route = route.id;
+      btn.style.borderColor = route.color;
+      btn.textContent = route.name;
+      container.appendChild(btn);
+    });
+    
+    container.addEventListener('click', (e) => {
+      if (!e.target.classList.contains('route-btn')) return;
+      container.querySelectorAll('.route-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      
+      const routeId = e.target.dataset.route;
+      if (routeId === 'none') {
+        drawRoute(null);
+        document.getElementById('routeInfo').style.display = 'none';
+        updateURL('route', null);
+      } else {
+        const route = routesData.find(r => r.id === routeId);
+        if (route) {
+          drawRoute(route);
+          updateURL('route', routeId);
+        }
+      }
+    });
+  }
+  
+  // Phase 5: URL Routing
+  function updateURL(key, value) {
+    const url = new URL(window.location);
+    if (value && value !== 'all' && value !== 'none') {
+      url.searchParams.set(key, value);
+    } else {
+      url.searchParams.delete(key);
+    }
+    history.replaceState(null, '', url);
+  }
+  
+  function applyURLParams() {
+    const params = new URLSearchParams(window.location.search);
+    
+    // Route
+    const routeId = params.get('route');
+    if (routeId) {
+      const route = routesData.find(r => r.id === routeId);
+      if (route) {
+        drawRoute(route);
+        // 也 activate 對應按鈕
+        document.querySelector(`[data-route="${routeId}"]`)?.classList.add('active');
+        document.querySelector(`[data-route="none"]`)?.classList.remove('active');
+      }
+    }
+    
+    // Region filter
+    const region = params.get('region');
+    if (region) {
+      activeRegionFilter = region;
+      document.querySelectorAll('#regionFilters .filter-btn').forEach(btn => {
+        btn.classList.remove('active');
+        if (btn.getAttribute('data-filter') === region) {
+          btn.classList.add('active');
+        }
+      });
+      applyFilters();
+    }
+    
+    // Highlight specific marker
+    const highlight = params.get('highlight');
+    if (highlight) {
+      const marker = document.querySelector(`.marker[data-title="${highlight}"]`);
+      if (marker) {
+        marker.setAttribute('r', '12');
+        marker.setAttribute('stroke', '#ff0000');
+        marker.setAttribute('stroke-width', '3');
+        // Zoom to it
+        const cx = parseFloat(marker.getAttribute('cx'));
+        const cy = parseFloat(marker.getAttribute('cy'));
+        setTimeout(() => {
+          if (svgSelection && mapZoom) {
+            svgSelection.transition().duration(800).call(
+              mapZoom.transform,
+              d3.zoomIdentity.translate(400, 500).scale(4).translate(-cx, -cy)
+            );
+          }
+        }, 500);
+      }
+    }
+  }
+
   document.addEventListener('DOMContentLoaded', async () => {
     await drawTaiwanMap();
     initMap();
+    initRoutes();
     updateStatistics();
+    updateClusters(1); // 初始化 clusters
+    applyURLParams(); // 處理 URL 參數
   });
 </script>

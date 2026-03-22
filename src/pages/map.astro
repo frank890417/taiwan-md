@@ -66,74 +66,96 @@ import routesData from '../data/map-routes.json';
     </section>
 
     <section class="map-body">
-      <div class="map-canvas">
-        <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
-          <defs>
-            <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-              <stop offset="0%" stop-color="#dcfce7"></stop>
-              <stop offset="50%" stop-color="#bbf7d0"></stop>
-              <stop offset="100%" stop-color="#86efac"></stop>
-            </linearGradient>
-          </defs>
-          <!-- zoom group wraps both counties and markers -->
-          <g id="zoomGroup">
-            <g id="taiwanCounties"></g>
-            <g id="markers"></g>
-          </g>
-        </svg>
+      <div class="map-layout">
+        <!-- 左側地圖面板 (60%) -->
+        <div class="map-panel">
+          <div class="map-canvas">
+            <svg id="taiwanMap" viewBox="0 0 800 1000" class="taiwan-svg">
+              <defs>
+                <linearGradient id="taiwanGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#dcfce7"></stop>
+                  <stop offset="50%" stop-color="#bbf7d0"></stop>
+                  <stop offset="100%" stop-color="#86efac"></stop>
+                </linearGradient>
+              </defs>
+              <!-- zoom group wraps both counties and markers -->
+              <g id="zoomGroup">
+                <g id="taiwanCounties"></g>
+                <g id="markers"></g>
+              </g>
+            </svg>
 
-        <!-- Zoom controls -->
-        <div class="zoom-controls">
-          <button class="zoom-btn" id="zoomIn">＋</button>
-          <button class="zoom-btn" id="zoomOut">－</button>
-          <button class="zoom-btn" id="resetZoom">⌂</button>
+            <!-- Zoom controls -->
+            <div class="zoom-controls">
+              <button class="zoom-btn" id="zoomIn">＋</button>
+              <button class="zoom-btn" id="zoomOut">－</button>
+              <button class="zoom-btn" id="resetZoom">⌂</button>
+            </div>
+
+            <!-- Marker tooltip -->
+            <div id="marker-tooltip" class="marker-tooltip">
+              <h4 class="tooltip-title"></h4>
+              <span class="tooltip-meta"></span>
+              <p class="tooltip-desc"></p>
+            </div>
+
+            <div id="tooltip" class="tooltip">
+              <div class="tooltip-title"></div>
+              <div class="tooltip-category"></div>
+              <div class="tooltip-desc"></div>
+            </div>
+          </div>
         </div>
 
-        <div id="tooltip" class="tooltip">
-          <div class="tooltip-title"></div>
-          <div class="tooltip-category"></div>
-          <div class="tooltip-desc"></div>
+        <!-- 右側文章列表面板 (40%) -->
+        <div class="sidebar-panel">
+          <div id="sidebar-content">
+            <!-- 預設狀態：探索提示 + 全部文章 -->
+            <div class="sidebar-default" id="sidebarDefault">
+              <div class="sidebar-header">
+                <h3>📍 探索台灣文章</h3>
+                <p class="sidebar-hint">點擊地圖上的縣市或標記來探索文章</p>
+              </div>
+              
+              <div class="articles-by-category" id="articlesByCategory">
+                <!-- 動態生成分類文章列表 -->
+              </div>
+            </div>
+
+            <!-- 縣市篩選狀態：該縣市文章列表 -->
+            <div class="sidebar-county" id="sidebarCounty" style="display: none;">
+              <div class="sidebar-header">
+                <button class="clear-selection-btn" id="clearSelectionBtn">✕ 清除選擇</button>
+                <h3 id="selectedCountyName">縣市名稱</h3>
+                <p class="county-article-count" id="countyArticleCount">0 篇文章</p>
+              </div>
+              
+              <div class="county-articles" id="countyArticles">
+                <!-- 動態生成該縣市文章 -->
+              </div>
+            </div>
+
+            <!-- 單篇文章詳情 -->
+            <div class="sidebar-article" id="sidebarArticle" style="display: none;">
+              <div class="sidebar-header">
+                <button class="back-btn" id="backBtn">← 返回</button>
+                <h3 id="articleTitle"></h3>
+                <div class="article-meta">
+                  <span class="article-category" id="articleCategory"></span>
+                </div>
+              </div>
+              
+              <div class="article-content">
+                <p id="articleDesc"></p>
+                <a id="articleLink" class="read-more-btn" target="_blank">閱讀全文 →</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
+      <!-- 手機版遮罩 -->
       <div class="mobile-overlay" id="mobileOverlay"></div>
-      <aside class="map-panel" id="infoPanel">
-        <div class="panel-content" id="defaultContent">
-          <h3>台灣知識地圖</h3>
-          <div class="stats">
-            <div class="stat-item">
-              <span class="stat-number" id="totalMarkers">{markersData.length}</span>
-              <span class="stat-label">個知識節點</span>
-            </div>
-            <div class="stat-item">
-              <span class="stat-number" id="totalCategories">{[...new Set(markersData.map((m: any) => m.category))].length}</span>
-              <span class="stat-label">個分類</span>
-            </div>
-          </div>
-
-          <div class="category-distribution">
-            <h4>分類分布</h4>
-            <div class="category-list" id="categoryStats">
-              <!-- 動態生成 -->
-            </div>
-          </div>
-
-          <div class="panel-links">
-            <a class="panel-link" href="/graph">🕸️ 知識圖譜</a>
-            <a class="panel-link" href="/">🏠 首頁分類</a>
-          </div>
-        </div>
-
-        <div class="panel-content article-content" id="articleContent" style="display: none;">
-          <button class="back-btn" id="backBtn">← 返回</button>
-          <h3 id="articleTitle"></h3>
-          <div class="article-meta">
-            <span class="article-category" id="articleCategory"></span>
-          </div>
-          <p id="articleDesc"></p>
-          <a id="articleLink" class="read-more-btn">閱讀全文 →</a>
-        </div>
-      </aside>
     </section>
   </div>
 </Layout>
@@ -172,15 +194,43 @@ import routesData from '../data/map-routes.json';
   .filter-btn.active { background: #16a34a; border-color: #16a34a; color: white; }
 
   .map-body {
-    max-width: 1200px; margin: 0 auto; padding: 2rem 1rem;
-    display: grid; grid-template-columns: 2fr 1fr; gap: 2rem; align-items: start;
+    max-width: 1400px; margin: 0 auto; padding: 2rem 1rem;
   }
+  
+  .map-layout {
+    display: flex;
+    gap: 24px;
+    min-height: 80vh;
+  }
+
+  .map-panel {
+    flex: 0 0 60%;
+    position: sticky;
+    top: 80px;
+    height: calc(100vh - 100px);
+    overflow: hidden;
+  }
+
+  .sidebar-panel {
+    flex: 0 0 38%;
+    overflow-y: auto;
+    max-height: calc(100vh - 100px);
+    position: sticky;
+    top: 80px;
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 16px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+  }
+  
   .map-canvas {
     position: relative; background: #ffffff; border: 1px solid #e5e7eb;
     border-radius: 16px; padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+    width: 100%; height: 100%;
   }
   .taiwan-svg {
-    width: 100%; height: auto; max-height: 700px;
+    width: 100%; height: 100%;
     cursor: grab;
   }
   .taiwan-svg:active { cursor: grabbing; }
@@ -226,52 +276,192 @@ import routesData from '../data/map-routes.json';
   .tooltip-category { font-size: 0.75rem; opacity: 0.8; margin-bottom: 0.25rem; }
   .tooltip-desc { font-size: 0.75rem; line-height: 1.3; }
 
-  .map-panel {
-    background: #ffffff; border: 1px solid #e5e7eb; border-radius: 16px;
-    padding: 1.5rem; box-shadow: 0 4px 20px rgba(0,0,0,0.05); position: sticky; top: 2rem;
+  /* 側欄樣式 */
+  .sidebar-header {
+    margin-bottom: 1.5rem;
   }
-  .panel-content h3 {
-    font-size: 1.3rem; color: #2d5016; margin-bottom: 1rem;
+  
+  .sidebar-header h3 {
+    font-size: 1.3rem; color: #2d5016; margin-bottom: 0.5rem;
     font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
   }
-  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem; }
-  .stat-item { text-align: center; padding: 1rem; background: #f9fafb; border-radius: 8px; }
-  .stat-number { display: block; font-size: 1.8rem; font-weight: 700; color: #16a34a; }
-  .stat-label { font-size: 0.85rem; color: #6b7280; }
-
-  .category-distribution h4 { font-size: 1rem; margin-bottom: 0.75rem; color: #374151; }
-  .category-list { display: flex; flex-direction: column; gap: 0.5rem; }
-  .category-item { display: flex; align-items: center; gap: 0.5rem; font-size: 0.85rem; }
-  .category-color { width: 12px; height: 12px; border-radius: 50%; }
-
-  .panel-links { margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.5rem; }
-  .panel-link {
-    padding: 0.75rem; background: #f3f4f6; border-radius: 8px; text-decoration: none;
-    color: #374151; font-weight: 500; text-align: center; transition: background 0.2s;
+  
+  .sidebar-hint {
+    font-size: 0.9rem; color: #6b7280; margin-bottom: 0;
   }
-  .panel-link:hover { background: #e5e7eb; }
+  
+  .clear-selection-btn, .back-btn {
+    background: none; border: none; color: #6b7280; cursor: pointer;
+    font-size: 0.9rem; margin-bottom: 1rem; padding: 0.5rem 0;
+    transition: color 0.2s;
+  }
+  .clear-selection-btn:hover, .back-btn:hover { color: #16a34a; }
+  
+  .county-article-count {
+    font-size: 0.9rem; color: #16a34a; font-weight: 500;
+  }
 
-  .article-content { animation: fadeIn 0.3s ease; }
+  /* 文章項目樣式 */
+  .sidebar-article-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid #f3f4f6;
+    cursor: pointer;
+    transition: background 0.2s;
+    text-decoration: none;
+    color: inherit;
+  }
+  .sidebar-article-item:hover {
+    background: #fafdf6;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    border-radius: 8px;
+  }
+  
+  .article-category-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    margin-top: 6px;
+  }
+  
+  .article-info {
+    flex: 1;
+    min-width: 0;
+  }
+  
+  .article-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin: 0 0 4px 0;
+    line-height: 1.3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  
+  .article-desc {
+    font-size: 0.8rem;
+    color: #666;
+    line-height: 1.4;
+    margin: 0 0 6px 0;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  
+  .article-meta {
+    font-size: 0.75rem;
+    color: #888;
+  }
+
+  /* 分類分組樣式 */
+  .category-group {
+    margin-bottom: 1.5rem;
+  }
+  
+  .category-group-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .category-group-title {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #374151;
+  }
+  
+  .category-group-count {
+    font-size: 0.8rem;
+    color: #6b7280;
+    background: #f3f4f6;
+    padding: 2px 6px;
+    border-radius: 10px;
+  }
+
+  /* Marker tooltip 樣式 */
+  .marker-tooltip {
+    position: absolute;
+    background: white;
+    border-radius: 8px;
+    padding: 12px 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    max-width: 280px;
+    z-index: 1000;
+    pointer-events: none;
+    font-size: 14px;
+    opacity: 0;
+    transition: opacity 0.2s;
+    border: 1px solid #e5e7eb;
+  }
+  
+  .marker-tooltip h4 {
+    margin: 0 0 4px;
+    font-size: 15px;
+    color: #1a1a1a;
+    line-height: 1.3;
+  }
+  
+  .marker-tooltip .tooltip-meta {
+    font-size: 12px;
+    color: #16a34a;
+    font-weight: 500;
+    margin-bottom: 6px;
+    display: block;
+  }
+  
+  .marker-tooltip p {
+    margin: 0;
+    color: #666;
+    font-size: 13px;
+    line-height: 1.4;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  /* 文章詳情樣式 */
+  .article-content { 
+    animation: fadeIn 0.3s ease; 
+    line-height: 1.6;
+  }
   @keyframes fadeIn {
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
   }
-  .back-btn {
-    background: none; border: none; color: #6b7280; cursor: pointer;
-    font-size: 0.9rem; margin-bottom: 1rem; padding: 0.5rem 0;
-  }
-  .back-btn:hover { color: #16a34a; }
-  .article-meta { margin-bottom: 1rem; }
+  
   .article-category {
     display: inline-block; padding: 0.25rem 0.75rem; background: #f0fdf4;
     color: #16a34a; border-radius: 20px; font-size: 0.8rem; font-weight: 500;
+    margin-bottom: 1rem;
   }
+  
   .read-more-btn {
     display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem;
     background: #16a34a; color: white; text-decoration: none;
     border-radius: 8px; font-weight: 500; transition: background 0.2s;
   }
   .read-more-btn:hover { background: #15803d; }
+
+  /* 無文章狀態 */
+  .no-articles {
+    text-align: center;
+    padding: 2rem 0;
+    color: #6b7280;
+    font-size: 0.9rem;
+  }
 
   /* Route section styles */
   .route-section {
@@ -374,9 +564,21 @@ import routesData from '../data/map-routes.json';
 
   @media (max-width: 1024px) {
     .controls-inner { grid-template-columns: 1fr; gap: 1.5rem; }
-    .map-body { grid-template-columns: 1fr; }
-    .map-panel { position: relative; top: auto; }
+    .map-layout { flex-direction: column; }
+    .map-panel { 
+      flex: none; 
+      position: relative; 
+      top: auto; 
+      height: 60vh;
+    }
+    .sidebar-panel { 
+      flex: none; 
+      position: relative; 
+      top: auto; 
+      max-height: none;
+    }
   }
+  
   @media (max-width: 768px) {
     .map-hero { padding: 2rem 1rem 1.5rem; }
     .map-hero h1 { font-size: 2.2rem; }
@@ -387,8 +589,22 @@ import routesData from '../data/map-routes.json';
     .route-btn { font-size: 0.78rem; padding: 0.4rem 0.75rem; flex-shrink: 0; }
     .route-info { max-height: 50vh; overflow-y: auto; }
 
-    /* 手機版：浮動文章面板 */
+    /* 手機版：上下佈局 */
+    .map-layout {
+      flex-direction: column;
+      gap: 16px;
+    }
+    
     .map-panel {
+      flex: none;
+      position: relative;
+      top: auto;
+      height: 50vh;
+      overflow: visible;
+    }
+    
+    .sidebar-panel {
+      flex: none;
       position: fixed;
       bottom: 0; left: 0; right: 0;
       z-index: 1000;
@@ -398,10 +614,13 @@ import routesData from '../data/map-routes.json';
       overflow-y: auto;
       transform: translateY(100%);
       transition: transform 0.3s ease;
+      top: auto;
     }
-    .map-panel.mobile-show {
+    
+    .sidebar-panel.mobile-show {
       transform: translateY(0);
     }
+    
     /* 手機版遮罩 */
     .mobile-overlay {
       display: none;
@@ -411,14 +630,26 @@ import routesData from '../data/map-routes.json';
       z-index: 999;
     }
     .mobile-overlay.active { display: block; }
-    .mobile-article-list { display: flex; flex-direction: column; gap: 0.5rem; }
-    .mobile-article-item {
-      display: flex; align-items: center; gap: 0.5rem;
-      padding: 0.6rem 0.5rem; background: #f9fafb; border-radius: 8px;
-      text-decoration: none; color: #333; font-size: 0.9rem;
+    
+    /* 手機版文章項目簡化 */
+    .sidebar-article-item {
+      padding: 10px 0;
+      gap: 10px;
     }
-    .mobile-article-item:active { background: #e5e7eb; }
-    .mobile-article-title { flex: 1; }
+    
+    .article-title {
+      font-size: 0.85rem;
+      -webkit-line-clamp: 1;
+    }
+    
+    .article-desc {
+      font-size: 0.75rem;
+      -webkit-line-clamp: 1;
+    }
+    
+    .category-group {
+      margin-bottom: 1rem;
+    }
   }
 </style>
 
@@ -686,8 +917,81 @@ import routesData from '../data/map-routes.json';
     document.getElementById('totalMarkers').textContent = visibleCount;
   }
 
+  function showDefaultSidebar() {
+    const defaultSidebar = document.getElementById('sidebarDefault');
+    const countySidebar = document.getElementById('sidebarCounty');
+    const articleSidebar = document.getElementById('sidebarArticle');
+    
+    // 顯示預設面板，隱藏其他
+    defaultSidebar.style.display = 'block';
+    countySidebar.style.display = 'none';
+    articleSidebar.style.display = 'none';
+    
+    // 生成按分類分組的文章列表
+    generateCategoryArticles();
+  }
+
+  function generateCategoryArticles() {
+    const container = document.getElementById('articlesByCategory');
+    
+    // 按分類分組文章
+    const articlesByCategory = {};
+    markersData.forEach(marker => {
+      const category = marker.category;
+      if (!articlesByCategory[category]) {
+        articlesByCategory[category] = [];
+      }
+      articlesByCategory[category].push(marker);
+    });
+    
+    // 按分類文章數量排序
+    const sortedCategories = Object.entries(articlesByCategory)
+      .sort(([,a], [,b]) => b.length - a.length)
+      .slice(0, 6); // 只顯示前6個分類，避免太長
+    
+    container.innerHTML = sortedCategories.map(([category, articles]) => `
+      <div class="category-group">
+        <div class="category-group-header">
+          <span class="article-category-dot" style="background: ${categoryColors[category] || '#16a34a'}"></span>
+          <span class="category-group-title">${categoryNames[category] || category}</span>
+          <span class="category-group-count">${articles.length}</span>
+        </div>
+        ${articles.slice(0, 4).map(article => `
+          <div class="sidebar-article-item" data-link="${article.link}" data-title="${article.title}" 
+               data-desc="${article.desc}" data-category="${article.category}">
+            <span class="article-category-dot" style="background: ${categoryColors[article.category] || '#16a34a'}"></span>
+            <div class="article-info">
+              <h4 class="article-title">${article.title}</h4>
+              <p class="article-desc">${article.desc.substring(0, 50)}${article.desc.length > 50 ? '...' : ''}</p>
+              <span class="article-meta">${categoryNames[article.category] || article.category}</span>
+            </div>
+          </div>
+        `).join('')}
+        ${articles.length > 4 ? `<div style="color:#999;font-size:0.8rem;margin:8px 0;">⋯及其他 ${articles.length - 4} 篇</div>` : ''}
+      </div>
+    `).join('');
+    
+    // 添加點擊事件
+    container.querySelectorAll('.sidebar-article-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const link = item.getAttribute('data-link');
+        window.open(link, '_blank');
+      });
+    });
+  }
+
   function showArticleInfo(marker) {
     const category = marker.getAttribute('data-category');
+    
+    // 顯示文章詳情側欄
+    const defaultSidebar = document.getElementById('sidebarDefault');
+    const countySidebar = document.getElementById('sidebarCounty');
+    const articleSidebar = document.getElementById('sidebarArticle');
+    
+    defaultSidebar.style.display = 'none';
+    countySidebar.style.display = 'none';
+    articleSidebar.style.display = 'block';
+    
     document.getElementById('articleTitle').textContent = marker.getAttribute('data-title');
     document.getElementById('articleDesc').textContent = marker.getAttribute('data-desc');
     document.getElementById('articleLink').href = marker.getAttribute('data-link');
@@ -697,61 +1001,107 @@ import routesData from '../data/map-routes.json';
     categoryEl.style.background = (categoryColors[category] || '#16a34a') + '20';
     categoryEl.style.color = categoryColors[category] || '#16a34a';
 
-    document.getElementById('defaultContent').style.display = 'none';
-    document.getElementById('articleContent').style.display = 'block';
-    openMobilePanel();
+    // 手機版打開面板
+    if (window.innerWidth <= 768) {
+      openMobilePanel();
+    }
   }
 
   function showCountyArticles(countyName, region) {
-    // 將該縣市的區域設為篩選器
-    if (region) {
-      activeRegionFilter = region;
-      
-      // 更新UI
-      document.querySelectorAll('#regionFilters .filter-btn').forEach(btn => {
-        btn.classList.remove('active');
-        if (btn.getAttribute('data-filter') === region) {
-          btn.classList.add('active');
-        }
-      });
-      
-      applyFilters();
-    }
+    // 過濾該縣市的文章
+    const countyArticles = markersData.filter(m => {
+      // 精確匹配城市或縣市名稱
+      const cityMatch = m.city && (
+        countyName.includes(m.city.replace('台', '臺')) || 
+        m.city.replace('台', '臺').includes(countyName.replace('台', '臺'))
+      );
+      // 也用 region 作為 fallback
+      const regionMatch = m.region === region;
+      return cityMatch || (regionMatch && !m.city);
+    });
 
-    // 手機版：顯示該區域的文章列表
-    if (window.innerWidth <= 768) {
-      const regionMarkers = markersData.filter(m => m.region === region);
-      const defaultContent = document.getElementById('defaultContent');
-      const articleContent = document.getElementById('articleContent');
-      
-      defaultContent.style.display = 'block';
-      articleContent.style.display = 'none';
-      
-      // 更新側欄內容為文章列表
-      const statsEl = defaultContent.querySelector('.stats');
-      const catDist = defaultContent.querySelector('.category-distribution');
-      const panelLinks = defaultContent.querySelector('.panel-links');
-      
-      if (statsEl) statsEl.style.display = 'none';
-      if (catDist) {
-        const regionName = { north: '北部', central: '中部', south: '南部', east: '東部', islands: '離島' }[region] || region;
-        catDist.innerHTML = `
-          <h4>${regionName}文章（${regionMarkers.length} 篇）</h4>
-          <div class="mobile-article-list">
-            ${regionMarkers.slice(0, 15).map(m => `
-              <a href="${m.link}" class="mobile-article-item">
-                <span class="category-color" style="background: ${categoryColors[m.category] || '#16a34a'}"></span>
-                <span class="mobile-article-title">${m.title}</span>
-              </a>
-            `).join('')}
-            ${regionMarkers.length > 15 ? `<p style="color:#999;font-size:0.8rem;margin-top:0.5rem">⋯及其他 ${regionMarkers.length - 15} 篇</p>` : ''}
-          </div>
-        `;
+    // 高亮該縣市
+    document.querySelectorAll('.county').forEach(path => {
+      if (path.getAttribute('data-county') === countyName) {
+        path.style.fill = '#22c55e'; // 更深的綠色
+        path.style.stroke = '#16a34a';
+        path.style.strokeWidth = '2';
+      } else {
+        // 重置其他縣市
+        const markerCount = parseInt(path.getAttribute('data-count') || 0);
+        const intensity = Math.min(markerCount / 15, 1);
+        const green = Math.round(247 - intensity * 100);
+        path.style.fill = `rgb(${187 - intensity * 80}, ${green}, ${208 - intensity * 80})`;
+        path.style.stroke = '#4ade80';
+        path.style.strokeWidth = '0.8';
       }
-      if (panelLinks) panelLinks.style.display = 'none';
-      
+    });
+
+    // 顯示縣市文章側欄
+    showCountySidebar(countyName, countyArticles);
+    
+    // 手機版打開面板
+    if (window.innerWidth <= 768) {
       openMobilePanel();
     }
+  }
+
+  function showCountySidebar(countyName, articles) {
+    const defaultSidebar = document.getElementById('sidebarDefault');
+    const countySidebar = document.getElementById('sidebarCounty');
+    const articleSidebar = document.getElementById('sidebarArticle');
+    
+    // 隱藏其他面板，顯示縣市面板
+    defaultSidebar.style.display = 'none';
+    articleSidebar.style.display = 'none';
+    countySidebar.style.display = 'block';
+    
+    // 更新縣市資訊
+    document.getElementById('selectedCountyName').textContent = countyName;
+    document.getElementById('countyArticleCount').textContent = `${articles.length} 篇文章`;
+    
+    // 生成文章列表
+    const articlesContainer = document.getElementById('countyArticles');
+    
+    if (articles.length === 0) {
+      articlesContainer.innerHTML = '<div class="no-articles">此區域尚無文章</div>';
+      return;
+    }
+    
+    articlesContainer.innerHTML = articles.map(article => `
+      <div class="sidebar-article-item" data-link="${article.link}" data-title="${article.title}" 
+           data-desc="${article.desc}" data-category="${article.category}">
+        <span class="article-category-dot" style="background: ${categoryColors[article.category] || '#16a34a'}"></span>
+        <div class="article-info">
+          <h4 class="article-title">${article.title}</h4>
+          <p class="article-desc">${article.desc.substring(0, 60)}${article.desc.length > 60 ? '...' : ''}</p>
+          <span class="article-meta">${categoryNames[article.category] || article.category} · ${Math.ceil(article.desc.length / 100)}分鐘</span>
+        </div>
+      </div>
+    `).join('');
+    
+    // 添加點擊事件
+    articlesContainer.querySelectorAll('.sidebar-article-item').forEach(item => {
+      item.addEventListener('click', () => {
+        const link = item.getAttribute('data-link');
+        window.open(link, '_blank');
+      });
+    });
+  }
+
+  function clearCountySelection() {
+    // 重置所有縣市樣式
+    document.querySelectorAll('.county').forEach(path => {
+      const markerCount = parseInt(path.getAttribute('data-count') || 0);
+      const intensity = Math.min(markerCount / 15, 1);
+      const green = Math.round(247 - intensity * 100);
+      path.style.fill = `rgb(${187 - intensity * 80}, ${green}, ${208 - intensity * 80})`;
+      path.style.stroke = '#4ade80';
+      path.style.strokeWidth = '0.8';
+    });
+    
+    // 回到預設側欄
+    showDefaultSidebar();
   }
 
   function updateStatistics() {

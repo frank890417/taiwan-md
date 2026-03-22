@@ -56,6 +56,9 @@ export async function getStaticPaths() {
           featured: frontmatter.featured || false,
           tags: frontmatter.tags || [],
           lang: 'zh-TW',
+          image: frontmatter.image || null,
+          imageAlt: frontmatter.imageAlt || '',
+          imageCredit: frontmatter.imageCredit || '',
         });
       }
     } catch {}
@@ -356,12 +359,22 @@ const otherCategories = categories
                   data-lang={article.lang}
                 >
                   <a href={`/${category}/${article.slug}`} class="card-link">
-                    <div
-                      class="card-image-placeholder"
-                      style={`background: ${categoryInfo.gradient};`}
-                    >
-                      <div class="card-image-icon">{categoryInfo.icon}</div>
-                    </div>
+                    {article.image ? (
+                      <div class="card-image">
+                        <img 
+                          src={article.image} 
+                          alt={article.imageAlt || article.title} 
+                          loading="lazy" 
+                        />
+                      </div>
+                    ) : (
+                      <div
+                        class="card-image-placeholder"
+                        style={`background: ${categoryInfo.gradient};`}
+                      >
+                        <div class="card-image-icon">{categoryInfo.icon}</div>
+                      </div>
+                    )}
 
                     <div class="card-content">
                       <div class="card-header">
@@ -1013,7 +1026,29 @@ const otherCategories = categories
     position: relative;
   }
 
+  .card-image {
+    height: 160px;
+    overflow: hidden;
+    border-radius: 22px 22px 0 0;
+    position: relative;
+  }
+
+  .card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+
+  .article-card:hover .card-image img {
+    transform: scale(1.05);
+  }
+
   .featured-card .card-image-placeholder {
+    height: 200px;
+  }
+
+  .featured-card .card-image {
     height: 200px;
   }
 

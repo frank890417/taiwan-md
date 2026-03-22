@@ -789,56 +789,36 @@ import i18nProgress from '../data/i18n-progress.json';
           <strong>用 10 分鐘，幫 Taiwan.md 多一個語言版本。</strong>
         </p>
 
-        <!-- 一鍵自動化 -->
+        <!-- AI 翻譯助手（主要路線） -->
         <div class="one-line-system">
-          <h3>🚀 一行腳本自動化（最新）</h3>
-          <p>全流程自動化：掃描→選文章→生成Prompt→收集翻譯→提交PR</p>
+          <h3>🤖 跟你的 AI 說（推薦）</h3>
+          <p>一行指令，你的 AI 會自動讀取翻譯規範、選文章、引導你完成翻譯並提交：</p>
           
-          <div class="one-line-code">
-            <code>bash &lt;(curl -s https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)</code>
-            <button class="copy-btn" onclick="copyOneLine()">📋 複製</button>
+          <div class="ai-prompt">
+            <code>讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。</code>
+            <button class="copy-btn" onclick="copyTranslatePrompt()">📋 複製</button>
           </div>
           
           <div class="one-line-features">
             <ul>
-              <li>✅ 零安裝，任何有 bash 的環境都能跑</li>
-              <li>✅ 自動掃描待翻譯文章，按優先序排列</li>
-              <li>✅ 生成完整 Prompt（含翻譯規範），自動複製到剪貼簿</li>
-              <li>✅ 接收翻譯結果，自動建檔 + git commit + 開 PR</li>
-              <li>✅ 互動式 UI，一步步引導，不會迷路</li>
+              <li>✅ AI 自動讀取最新翻譯規範和風格指南</li>
+              <li>✅ 引導你選文章、確認目標語言</li>
+              <li>✅ 重寫式翻譯，不是逐字翻譯</li>
+              <li>✅ 產出可直接 PR 的 Markdown 檔案</li>
+              <li>✅ ChatGPT / Claude / Gemini 都支援</li>
             </ul>
           </div>
 
-          <p class="one-line-note">
-            <strong>適用對象：</strong>想貢獻但不熟悉 GitHub 操作的人，或想快速批次翻譯的貢獻者。
-            腳本會自動處理所有技術細節，你只要專心翻譯就好。
-          </p>
+          <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md" target="_blank" class="path-btn secondary">看完整翻譯 Prompt →</a>
         </div>
 
-        <!-- 傳統手動流程 -->
+        <!-- 進階：腳本自動化 -->
         <div class="manual-process">
-          <h3>📝 手動流程（如果你偏好手動操作）</h3>
-          <div class="token-steps">
-            <div class="token-step">
-              <div class="step-number">1</div>
-              <h3>選一篇文章</h3>
-              <p>到 <a href="/">taiwan.md</a> 找一篇你想翻譯的文章，點右下角 <strong>.md</strong> 按鈕複製原始 Markdown 內容。</p>
-            </div>
-            <div class="token-step">
-              <div class="step-number">2</div>
-              <h3>複製 Prompt</h3>
-              <p>把下方的翻譯 Prompt 貼到你的 AI 對話中，接著貼上文章內容。</p>
-            </div>
-            <div class="token-step">
-              <div class="step-number">3</div>
-              <h3>提交 PR</h3>
-              <p>把翻譯結果存為 <code>knowledge/{"目標語言"}/{"Category"}/{"檔名"}.md</code>，透過 <a href="https://github.com/frank890417/taiwan-md/pulls">GitHub PR</a> 提交。</p>
-            </div>
-            <div class="token-step">
-              <div class="step-number">4</div>
-              <h3>母語者審核</h3>
-              <p>我們會請該語言的母語 reviewer 審核品質，通過後 merge。</p>
-            </div>
+          <h3>⚡ 進階：腳本自動化（開發者適用）</h3>
+          <p>如果你熟悉命令列，可以用一行腳本自動掃描待翻譯文章、生成 Prompt、提交 PR：</p>
+          <div class="one-line-code">
+            <code>bash &lt;(curl -s https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)</code>
+            <button class="copy-btn" onclick="copyOneLine()">📋 複製</button>
           </div>
         </div>
 

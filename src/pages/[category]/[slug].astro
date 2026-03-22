@@ -301,6 +301,7 @@ const processedContent = marked.parse(resolvedContent, { renderer });
   title={title}
   description={description}
   type="article"
+  image={frontmatter.image}
   datePublished={frontmatter.date || new Date().toISOString()}
   dateModified={frontmatter.modified ||
     frontmatter.date ||
