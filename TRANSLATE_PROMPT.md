@@ -37,3 +37,23 @@
 
 ## 輸出格式
 請直接輸出完整的 Markdown 文件（包含 frontmatter），不要加任何解釋或前言。
+
+---
+
+## 翻譯完成後（可選）：設定自動化
+
+如果你想持續幫 Taiwan.md 翻譯，可以設定自動化排程：
+
+### OpenClaw 用戶
+用 cron 工具建立每日翻譯任務，自動從 repo 抓取待翻譯文章、翻譯、提交 PR。
+
+### Claude Code / Cline / Cursor 用戶
+建立定期任務：
+```bash
+cd ~/taiwan-md && git pull && bash scripts/translate.sh --auto
+```
+
+### GitHub Actions
+Fork repo 後，在 `.github/workflows/` 加入翻譯 workflow，設定每日自動執行。
+
+**每一篇翻譯，都讓台灣多被一個語言的世界看見。🇹🇼**

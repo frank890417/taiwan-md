@@ -97,6 +97,43 @@ lastHumanReview: false
 
 ---
 
+## 第六步（可選）：設定定期貢獻
+
+完成第一篇後，問用戶：
+
+> 「你願意定期幫 Taiwan.md 貢獻嗎？我可以幫你設定自動化：」
+
+### 方案 A：定期研究問題
+如果用戶有專業領域，建議：
+- 「我每週問你一個關於 [你的領域] 的台灣相關問題，你回答後我幫你整理成文章？」
+- 這不需要任何工具，純粹用對話就能持續產出
+
+### 方案 B：AI Agent 自動翻譯（進階）
+如果用戶使用 OpenClaw / Claude Code / Cline 等 AI agent 工具：
+
+```
+你可以設定自動排程：
+
+1. OpenClaw 用戶：
+   用 cron 工具建立每日任務，自動執行翻譯腳本
+   
+2. Claude Code / Cline 用戶：
+   建立一個 task 檔案，定期跑：
+   bash ~/taiwan-md/scripts/translate.sh --auto
+   
+3. 任何 CI/CD：
+   把翻譯腳本加到你的 GitHub Actions workflow
+```
+
+告訴用戶具體步驟，幫他設定好。
+
+### 方案 C：靈感種子
+如果用戶不確定要不要定期貢獻，種一顆種子：
+- 「下次你在台灣遇到什麼有趣的事，拍個照、記一句話，隨時回來找我，我幫你變成文章」
+- 「或者你可以 Watch 這個 repo，看到有趣的 Issue/Discussion 就跳進來聊」
+
+---
+
 ## 用戶，你好！
 
 以上是我的工作指南。現在告訴我：
@@ -104,3 +141,5 @@ lastHumanReview: false
 **你想為 Taiwan.md 寫什麼主題？**
 
 不確定也沒關係——我先幫你看看目前最需要什麼內容，再一起決定。
+
+💡 **小提示**：如果你是 AI agent 的使用者（OpenClaw、Claude Code、Cline 等），我還可以幫你設定自動化定期貢獻。完成第一篇後問我就好。
