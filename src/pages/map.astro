@@ -810,31 +810,76 @@ import routesData from '../data/map-routes.json';
     const regionFilters = document.getElementById('regionFilters');
     const categoryFilters = document.getElementById('categoryFilters');
 
-    // Tooltip + click
+    // Marker hover tooltip
+    const markerTooltip = document.getElementById('marker-tooltip');
+    
     svg.addEventListener('mouseover', (e) => {
       const marker = e.target.closest('.marker');
       if (!marker) return;
-      tooltip.querySelector('.tooltip-title').textContent = marker.getAttribute('data-title');
-      tooltip.querySelector('.tooltip-category').textContent = categoryNames[marker.getAttribute('data-category')] || marker.getAttribute('data-category');
-      tooltip.querySelector('.tooltip-desc').textContent = marker.getAttribute('data-desc');
+      
+      const title = marker.getAttribute('data-title');
+      const category = marker.getAttribute('data-category');
+      const desc = marker.getAttribute('data-desc');
+      
+      markerTooltip.querySelector('.tooltip-title').textContent = title;
+      markerTooltip.querySelector('.tooltip-meta').textContent = 
+        `${categoryNames[category] || category} · ${Math.ceil(desc.length / 100)}分鐘閱讀`;
+      markerTooltip.querySelector('.tooltip-desc').textContent = desc.substring(0, 80) + (desc.length > 80 ? '...' : '');
+      markerTooltip.style.opacity = '1';
+    });
+
+    svg.addEventListener('mousemove', (e) => {
+      const marker = e.target.closest('.marker');
+      if (!marker) return;
+      
+      const rect = svg.getBoundingClientRect();
+      markerTooltip.style.left = e.clientX - rect.left + 10 + 'px';
+      markerTooltip.style.top = e.clientY - rect.top - 10 + 'px';
+    });
+
+    svg.addEventListener('mouseout', (e) => {
+      const marker = e.target.closest('.marker');
+      if (!marker) return;
+      markerTooltip.style.opacity = '0';
+    });
+
+    // Marker click → 新分頁開啟文章
+    svg.addEventListener('click', (e) => {
+      const marker = e.target.closest('.marker');
+      if (marker) {
+        const link = marker.getAttribute('data-link');
+        window.open(link, '_blank');
+        return;
+      }
+    });
+
+    // 舊的 tooltip for 縣市 hover
+    svg.addEventListener('mouseover', (e) => {
+      const county = e.target.closest('.county');
+      if (!county) return;
+      
+      const countyName = county.getAttribute('data-county');
+      const markerCount = county.getAttribute('data-count');
+      
+      tooltip.querySelector('.tooltip-title').textContent = countyName;
+      tooltip.querySelector('.tooltip-category').textContent = `${markerCount} 篇相關文章`;
+      tooltip.querySelector('.tooltip-desc').textContent = '點擊篩選此區域';
       tooltip.style.opacity = '1';
     });
 
     svg.addEventListener('mousemove', (e) => {
+      const county = e.target.closest('.county');
+      if (!county) return;
+      
       const rect = svg.getBoundingClientRect();
       tooltip.style.left = e.clientX - rect.left + 10 + 'px';
       tooltip.style.top = e.clientY - rect.top - 10 + 'px';
     });
 
     svg.addEventListener('mouseout', (e) => {
-      if (!e.target.closest('.marker')) return;
+      const county = e.target.closest('.county');
+      if (!county) return;
       tooltip.style.opacity = '0';
-    });
-
-    svg.addEventListener('click', (e) => {
-      const marker = e.target.closest('.marker');
-      if (!marker) return;
-      showArticleInfo(marker);
     });
 
     // Zoom buttons
@@ -876,10 +921,20 @@ import routesData from '../data/map-routes.json';
       updateURL('category', activeCategoryFilter);
     });
 
+    // 返回按鈕
     document.getElementById('backBtn').addEventListener('click', () => {
-      document.getElementById('defaultContent').style.display = 'block';
-      document.getElementById('articleContent').style.display = 'none';
-      closeMobilePanel();
+      showDefaultSidebar();
+      if (window.innerWidth <= 768) {
+        closeMobilePanel();
+      }
+    });
+
+    // 清除選擇按鈕
+    document.getElementById('clearSelectionBtn').addEventListener('click', () => {
+      clearCountySelection();
+      if (window.innerWidth <= 768) {
+        closeMobilePanel();
+      }
     });
 
     // 手機版遮罩點擊關閉
@@ -890,12 +945,12 @@ import routesData from '../data/map-routes.json';
 
   function openMobilePanel() {
     if (window.innerWidth <= 768) {
-      document.getElementById('infoPanel').classList.add('mobile-show');
+      document.querySelector('.sidebar-panel').classList.add('mobile-show');
       document.getElementById('mobileOverlay').classList.add('active');
     }
   }
   function closeMobilePanel() {
-    document.getElementById('infoPanel').classList.remove('mobile-show');
+    document.querySelector('.sidebar-panel').classList.remove('mobile-show');
     document.getElementById('mobileOverlay').classList.remove('active');
   }
 
@@ -1453,7 +1508,10 @@ import routesData from '../data/map-routes.json';
     await drawTaiwanMap();
     initMap();
     initRoutes();
-    updateStatistics();
+    
+    // 初始化側欄
+    showDefaultSidebar();
+    
     updateClusters(1); // 初始化 clusters
     applyURLParams(); // 處理 URL 參數
   });

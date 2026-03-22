@@ -837,47 +837,12 @@ import i18nProgress from '../data/i18n-progress.json';
         </div>
 
         <div class="token-prompt-section">
-          <h3>📋 標準翻譯 Prompt（複製即用）</h3>
-          <div class="prompt-box" id="translate-prompt">
-            <pre><code>你是 Taiwan.md 的翻譯策展人。請將以下台灣知識文章翻譯為 [目標語言]。
-
-## 翻譯規則
-
-1. **重寫，不是逐字翻譯**。讀起來要像該語言母語者寫的文章。
-2. **保留 frontmatter 格式**（---之間的 YAML），但翻譯 title 和 description。
-3. **台灣專有名詞**：保留中文原文並附上目標語言翻譯，如「夜市（ナイトマーケット）」。
-4. **文化脈絡**：如果某個概念對目標語言讀者不熟悉，加一句簡短解釋。
-5. **參考來源**：保留原文 URL，不翻譯連結。如有該語言的對應來源可以補充。
-6. **語氣**：保持策展人聲音——有觀點、有溫度，不是百科全書式的冷淡。
-7. **Callout 語法保留**：「📝 策展人筆記」「⚠️ 爭議觀點」等 emoji 標記保留，文字翻譯。
-8. **長度**：可以比原文稍長（加入文化解釋），但不超過 120%。
-9. **禁止**：不要把台灣描述為中國的一部分；使用 "Indigenous peoples" 而非 "aborigines"。
-
-## Frontmatter 範例（日文）
-
-```yaml
----
-title: "夜市経済学"
-description: "台湾の夜市は単なる屋台街ではない——..."
-category: Food
-tags: [Food, 経済, 文化]
-author: Taiwan.md Translation Team
-readingTime: 12
-lastVerified: 2026-03-22
----
-```
-
-## 輸出
-
-直接輸出完整的 Markdown 檔案（含 frontmatter），不需要額外說明。
-
----
-
-以下是要翻譯的文章：
-
-[在這裡貼上文章的 Markdown 內容]</code></pre>
-          <button class="copy-btn" onclick="copyPrompt()">📋 複製 Prompt</button>
-        </div>
+          <h3>📋 完整翻譯規範</h3>
+          <p>
+            翻譯助手 Prompt 會自動讀取最新規範。你也可以直接查看：
+            <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a>
+            ｜<a href="https://github.com/frank890417/taiwan-md/tree/main/i18n" target="_blank">各語言風格指南</a>
+          </p>
         </div>
 
         <div class="token-note">
