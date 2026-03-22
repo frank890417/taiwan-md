@@ -13,12 +13,14 @@
     "sync": "bash scripts/sync.sh",
     "sync:build": "bash scripts/sync.sh && astro build",
     "check-images": "node scripts/check-images.mjs",
+    "check-links": "bash scripts/check-links.sh",
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
     "prepare": "husky"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.17",
     "@astrojs/sitemap": "^3.7.1",
     "astro": "^6.0.5",
     "gray-matter": "^4.0.3",
