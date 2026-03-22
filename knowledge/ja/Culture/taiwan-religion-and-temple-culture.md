@@ -7,7 +7,7 @@ tags: ['宗教', '寺廟', '民間信仰', '媽祖', '仏教', '道教', 'おみ
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
 readingTime: 12
-featured: true
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 ---
