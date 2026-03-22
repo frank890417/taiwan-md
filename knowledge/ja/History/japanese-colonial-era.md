@@ -6,7 +6,7 @@ description: 1895年から1945年の50年間に及ぶ日本の台湾統治。全
 date: 2026-03-22
 author: Taiwan.md Translation Team
 readingTime: 12
-featured: true
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 ---

@@ -3,7 +3,7 @@ title: 'タピオカミルクティー'
 description: '台湾の夜市の小さな屋台から世界的な飲料帝国へ——タピオカミルクティーの起源論争と文化征服の道のり'
 date: 2026-03-22
 tags: [グルメ, タピオカミルクティー, ハンドシェイクドリンク, グローバル化, ソフトパワー, 文化外交]
-featured: true
+featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 image: "https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg"

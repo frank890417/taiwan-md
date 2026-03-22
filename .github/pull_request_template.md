@@ -14,6 +14,7 @@
 ## ✅ 自我檢查
 
 - [ ] 文章有完整的 frontmatter（title, description, date, tags, category）
+- [ ] `featured: false`（featured 由維護者統一管理，請勿設為 true）
 - [ ] 內容有附上可查證的參考資料來源
 - [ ] 沒有抄襲或版權問題
 - [ ] 在本地 build 測試通過（`npm run build`，非必要但建議）
