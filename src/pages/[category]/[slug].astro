@@ -1420,31 +1420,100 @@ const processedContent = marked.parse(resolvedContent, { renderer });
 
   /* 1. GitHub-style Callouts */
   .content blockquote[data-callout='note'] {
-    border-left-color: #3b82f6;
-    background: linear-gradient(to right, rgba(59, 130, 246, 0.1), transparent);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.1);
+    border-left: 4px solid #6366f1;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.06), rgba(139, 92, 246, 0.03));
+    border-radius: 0 12px 12px 0;
+    box-shadow: 0 2px 12px rgba(99, 102, 241, 0.08);
+    padding: 1.5rem 2rem;
+    font-style: normal;
+    color: #374151;
+    position: relative;
+    font-family: 'jf-lanyangming', var(--font-quote);
+    line-height: 1.9;
+  }
+
+  .content blockquote[data-callout='note'] strong:first-child {
+    display: block;
+    font-family: 'jf-lanyanghei', var(--font-editorial);
+    color: #6366f1;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    font-style: normal;
+    opacity: 0.85;
+  }
+
+  .content blockquote[data-callout='note'] p:first-child {
+    margin-bottom: 0.5rem;
   }
 
   .content blockquote[data-callout='warning'] {
-    border-left-color: #f59e0b;
-    background: linear-gradient(to right, rgba(245, 158, 11, 0.1), transparent);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(245, 158, 11, 0.1);
+    border-left: 4px solid #d97706;
+    background: linear-gradient(135deg, rgba(217, 119, 6, 0.06), rgba(245, 158, 11, 0.03));
+    border-radius: 0 12px 12px 0;
+    box-shadow: 0 2px 12px rgba(217, 119, 6, 0.08);
+    padding: 1.5rem 2rem;
+    font-style: normal;
+    color: #374151;
+    font-family: 'jf-lanyangming', var(--font-quote);
+    line-height: 1.9;
+  }
+
+  .content blockquote[data-callout='warning'] strong:first-child {
+    display: block;
+    font-family: 'jf-lanyanghei', var(--font-editorial);
+    color: #d97706;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    font-style: normal;
+    opacity: 0.85;
   }
 
   .content blockquote[data-callout='tip'] {
-    border-left-color: #10b981;
-    background: linear-gradient(to right, rgba(16, 185, 129, 0.1), transparent);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(16, 185, 129, 0.1);
+    border-left: 4px solid #059669;
+    background: linear-gradient(135deg, rgba(5, 150, 105, 0.06), rgba(16, 185, 129, 0.03));
+    border-radius: 0 12px 12px 0;
+    box-shadow: 0 2px 12px rgba(5, 150, 105, 0.08);
+    padding: 1.5rem 2rem;
+    font-style: normal;
+    color: #374151;
+    font-family: 'jf-lanyangming', var(--font-quote);
+    line-height: 1.9;
+  }
+
+  .content blockquote[data-callout='tip'] strong:first-child {
+    display: block;
+    font-family: 'jf-lanyanghei', var(--font-editorial);
+    color: #059669;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    font-style: normal;
+    opacity: 0.85;
   }
 
   .content blockquote[data-callout='data'] {
-    border-left-color: #8b5cf6;
-    background: linear-gradient(to right, rgba(139, 92, 246, 0.1), transparent);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(139, 92, 246, 0.1);
+    border-left: 4px solid #7c3aed;
+    background: linear-gradient(135deg, rgba(124, 58, 237, 0.06), rgba(139, 92, 246, 0.03));
+    border-radius: 0 12px 12px 0;
+    box-shadow: 0 2px 12px rgba(124, 58, 237, 0.08);
+    padding: 1.5rem 2rem;
+    font-style: normal;
+    color: #374151;
+    font-family: 'jf-lanyangming', var(--font-quote);
+    line-height: 1.9;
+  }
+
+  .content blockquote[data-callout='data'] strong:first-child {
+    display: block;
+    font-family: 'jf-lanyanghei', var(--font-editorial);
+    color: #7c3aed;
+    font-size: 0.8rem;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+    font-style: normal;
+    opacity: 0.85;
   }
 
   /* 2. Pull Quote styling */

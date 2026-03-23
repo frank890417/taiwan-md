@@ -29,7 +29,8 @@ But Taiwan engineers were determined to prove that **earthquake zones aren't obs
 
 The secret weapon is the **660-ton Tuned Mass Damper (TMD)** suspended between floors 87-92—the world's largest and heaviest building "shock absorber." This golden sphere, 5.5 meters in diameter, swings in the opposite direction during strong winds or earthquakes, reducing building sway by 40%. When Typhoon Soudelor ravaged Taipei in 2015, Taipei 101 swayed only 1 meter, far below the design standard of 1.5 meters.
 
-**Curator's Note:** What's most moving about Taipei 101 isn't how tall it is, but that it dares to stand tall on shaking ground. This "knowing there are tigers in the mountain yet heading toward the mountain" spirit of Taiwan was later embodied in Honnold's free solo climb.
+> **📝 Curator's Note**
+> What's most moving about Taipei 101 isn't how tall it is, but that it dares to stand tall on shaking ground. This "knowing there are tigers in the mountain yet heading toward the mountain" spirit of Taiwan was later embodied in Honnold's free solo climb.
 
 ## From Rice Fields to Skyline: Xinyi District's Spectacular Transformation
 
@@ -91,7 +92,8 @@ In 2010, Dubai's Burj Khalifa (828 meters) was completed, officially ending Taip
 
 **Extreme Sports Mecca:** Honnold's climb gave 101 a new identity—no longer pursuing "tallest" but becoming a symbol of "most daring to challenge." Vertical marathon, base jumping (Skyline 460), and urban climbing have made this a pilgrimage site for extreme sports enthusiasts.
 
-**Curator's Note:** Truly great architecture isn't measured by height but by how many dreams and stories it carries. 101's transformation from world's tallest to world's most unique makes it even more precious.
+> **📝 Curator's Note**
+> Truly great architecture isn't measured by height but by how many dreams and stories it carries. 101's transformation from world's tallest to world's most unique makes it even more precious.
 
 ## Real-World Challenges: The Operational Test Behind the Glory
 
