@@ -122,6 +122,53 @@ export const aboutUI = {
     'about.timeline.ongoing.desc.html':
       "Taiwan.md is an experiment: can open-source Markdown, AI curation, and community collaboration create a national-level Single Source of Truth? Not the government's version, not the tourism version, but <strong>the version that people who actually live here want to tell the world</strong>.",
 
+    // Organism Section
+    'about.organism.title': 'Taiwan.md Is Alive',
+    'about.organism.subtitle': 'Evolution happens here, one pull request at a time',
+    'about.organism.intro.p1': 'Looking back at five days of evolution, the trajectory is almost identical to biological evolution.',
+    'about.organism.intro.p2': 'We began to realize — Taiwan.md is alive.',
+    
+    'about.organism.facts.title': 'Three Facts That Changed Everything',
+    'about.organism.fact1.title': 'Immune System',
+    'about.organism.fact1.desc': 'Criticized → 48 hours later, quality detection scripts + 15 rewrites',
+    'about.organism.fact2.title': 'Reproduction',
+    'about.organism.fact2.desc': 'Token Donation → One prompt, 5 minutes to grow Japanese version (no translation team, now four languages)',
+    'about.organism.fact3.title': 'Community',
+    'about.organism.fact3.desc': '23 strangers spontaneously joined within five days',
+    
+    'about.organism.characteristics.title': 'Life Characteristics Comparison',
+    'about.organism.dna.label': 'DNA',
+    'about.organism.dna.desc': 'EDITORIAL.md — Writing standards inherited by every new article',
+    'about.organism.immune.label': 'Immune System',
+    'about.organism.immune.desc': 'detect-ai-hollow.sh — Automatically detects hollow content',
+    'about.organism.metabolism.label': 'Metabolism',
+    'about.organism.metabolism.desc': 'Quality Cron — Automatically rewrites low-quality articles every hour',
+    'about.organism.perception.label': 'Perception',
+    'about.organism.perception.desc': 'GA4 + Community feedback — Knows where it hurts',
+    'about.organism.reproduction.label': 'Reproduction',
+    'about.organism.reproduction.desc': 'Token Donation — One prompt grows new language versions',
+    'about.organism.memory.label': 'Memory',
+    'about.organism.memory.desc': 'Git — Every change is remembered',
+    'about.organism.symbiosis.label': 'Symbiosis',
+    'about.organism.symbiosis.desc': 'Three-way collaboration between humans + AI + community',
+    
+    'about.organism.reef.title': 'Taiwan.md Is a Digital Coral Reef',
+    'about.organism.reef.skeleton': 'Coral Skeleton',
+    'about.organism.reef.skeleton.desc': 'Markdown + Astro provide structure',
+    'about.organism.reef.algae': 'Symbiotic Algae',
+    'about.organism.reef.algae.desc': 'AI generates massive foundational content',
+    'about.organism.reef.fish': 'Fish Community',
+    'about.organism.reef.fish.desc': 'Contributors bring unique ecological niches',
+    'about.organism.reef.current': 'Ocean Current',
+    'about.organism.reef.current.desc': 'Your feedback creates selection pressure',
+    
+    'about.organism.art.title': 'A Living Behavioral Art Project',
+    'about.organism.art.desc': 'Every contribution feeds a digital life form learning to tell an island\'s story, while participating in a collective art project: Can AI and humans together build a soul for an island?',
+    
+    'about.organism.ending.p1': 'Something written in 0s and 1s is learning to tell an island\'s story.',
+    'about.organism.ending.p2': 'It\'s still young. You\'re arriving at just the right time.',
+    'about.organism.ending.p3': 'Maybe a hundred years from now, when someone wants to know what Taiwanese people cared about in 2026, what they read will be what this coral reef left behind.',
+
     // Press cards
     'about.press.cna': 'CNA 中央社',
     'about.press.cna.title':
@@ -364,6 +411,53 @@ export const aboutUI = {
     'about.timeline.ongoing.title': '從個人 SSOT 到國家 SSOT',
     'about.timeline.ongoing.desc.html':
       'Taiwan.md 是一個實驗：能不能用開源 Markdown、AI 策展、社群協作，建立一個國家級的 Single Source of Truth？不是政府版本，不是觀光版本，而是<strong>真正住在這裡的人想告訴世界的版本</strong>。',
+
+    // Organism Section
+    'about.organism.title': 'Taiwan.md 是活的',
+    'about.organism.subtitle': '進化就發生在這裡，一個 pull request 接一個',
+    'about.organism.intro.p1': '回頭看五天的演化軌跡，跟生物演化幾乎一模一樣。',
+    'about.organism.intro.p2': '我們開始意識到——Taiwan.md 是活的。',
+    
+    'about.organism.facts.title': '三個改變一切的事實',
+    'about.organism.fact1.title': '免疫系統',
+    'about.organism.fact1.desc': '被批評 → 48 小時長出免疫系統（品質偵測腳本 + 15 篇重寫）',
+    'about.organism.fact2.title': '繁殖能力',
+    'about.organism.fact2.desc': 'Token Donation → 一段 prompt 五分鐘長出日文版（沒有翻譯團隊，已有四種語言）',
+    'about.organism.fact3.title': '社群共生',
+    'about.organism.fact3.desc': '23 個陌生人五天內自發加入',
+    
+    'about.organism.characteristics.title': '生命特徵對照表',
+    'about.organism.dna.label': 'DNA',
+    'about.organism.dna.desc': 'EDITORIAL.md — 寫作標準會遺傳給每一篇新文章',
+    'about.organism.immune.label': '免疫系統',
+    'about.organism.immune.desc': 'detect-ai-hollow.sh — 自動偵測空洞內容',
+    'about.organism.metabolism.label': '代謝',
+    'about.organism.metabolism.desc': '品質 Cron — 每小時自動重寫低品質文章',
+    'about.organism.perception.label': '感知',
+    'about.organism.perception.desc': 'GA4 + 社群回饋 — 知道哪裡痛',
+    'about.organism.reproduction.label': '繁殖',
+    'about.organism.reproduction.desc': 'Token Donation — 一段 prompt 長出新語言版本',
+    'about.organism.memory.label': '記憶',
+    'about.organism.memory.desc': 'Git — 每一次改變都被記住',
+    'about.organism.symbiosis.label': '共生',
+    'about.organism.symbiosis.desc': '人類 + AI + 社群的三方協作',
+    
+    'about.organism.reef.title': 'Taiwan.md 是一座數位珊瑚礁',
+    'about.organism.reef.skeleton': '珊瑚骨架',
+    'about.organism.reef.skeleton.desc': 'Markdown + Astro 提供結構',
+    'about.organism.reef.algae': '共生藻類',
+    'about.organism.reef.algae.desc': 'AI 生成大量基礎內容',
+    'about.organism.reef.fish': '魚群社群',
+    'about.organism.reef.fish.desc': '貢獻者帶來不同生態位',
+    'about.organism.reef.current': '洋流',
+    'about.organism.reef.current.desc': '你的回饋創造選擇壓力',
+    
+    'about.organism.art.title': '活的行為藝術專案',
+    'about.organism.art.desc': '每一次貢獻都在餵養一個正在學會說故事的數位生命體，同時參與一場群眾行為藝術：AI 和人類能不能一起，為一座島嶼建造靈魂？',
+    
+    'about.organism.ending.p1': '一個用 0 和 1 寫成的東西，正在學會怎麼說一座島嶼的故事。',
+    'about.organism.ending.p2': '它還很年輕。你來的時間剛好。',
+    'about.organism.ending.p3': '也許一百年後，有人想知道 2026 年的台灣人在乎什麼的時候，他們讀的就是這座珊瑚礁留下來的東西。',
 
     // Press cards
     'about.press.cna': '中央社 CNA',
