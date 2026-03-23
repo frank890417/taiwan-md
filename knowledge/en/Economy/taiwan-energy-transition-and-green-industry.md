@@ -6,7 +6,7 @@ category: 'Economy'
 tags: ['energy transition', 'renewable energy', 'offshore wind', 'solar power', 'net zero 2050', 'green energy industry']
 readingTime: 12
 author: 'Taiwan.md Translation Team'
-featured: true
+featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 ---
