@@ -82,11 +82,11 @@ export const contributeUI = {
     'contribute.roles.translator.icon': '🌍',
     'contribute.roles.translator.title': 'Translators',
     'contribute.roles.translator.desc':
-      "Help the world understand Taiwan. Chinese to English, Chinese to Japanese, or any language — every translation expands Taiwan's visibility.",
+      "Help the world understand Taiwan. Paste our AI prompt, translate one article, open a PR. Your AI subscription = one compute node in our distributed translation network.",
     'contribute.roles.translator.action1.html':
-      '→ Pick an article from <code>knowledge/</code> and translate to <code>knowledge/en/</code>',
+      '→ See what needs translating on <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">Translation Board</a>',
     'contribute.roles.translator.action2':
-      '→ Japanese version is in planning, welcome to join',
+      '→ 4 languages live (en/es/ja), 7+ more welcome — you could be the first!',
 
     // Role: Photographer
     'contribute.roles.photographer.icon': '📸',
@@ -533,10 +533,10 @@ export const contributeUI = {
     'contribute.roles.translator.icon': '🌍',
     'contribute.roles.translator.title': '翻譯者',
     'contribute.roles.translator.desc':
-      '讓世界讀懂台灣。中翻英、中翻日、或任何語言，每一篇翻譯都在拓展台灣的能見度。',
+      '讓世界讀懂台灣。貼一段 AI prompt，翻譯一篇文章，開一個 PR。你的 AI 訂閱 = 分散式翻譯網絡的一個運算節點。',
     'contribute.roles.translator.action1.html':
-      '→ 從 <code>knowledge/</code> 挑一篇翻譯到 <code>knowledge/en/</code>',
-    'contribute.roles.translator.action2': '→ 日文版正在籌備中，歡迎加入',
+      '→ 查看 <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">翻譯任務看板</a> 認領文章',
+    'contribute.roles.translator.action2': '→ 已有 4 語（中/英/西/日），歡迎開拓更多語言！',
 
     // Role: Photographer
     'contribute.roles.photographer.icon': '📸',
