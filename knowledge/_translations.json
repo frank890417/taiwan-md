@@ -122,7 +122,7 @@
   "en/Food/taiwan-breakfast-culture.md": "Food/台灣早餐文化.md",
   "en/Food/taiwan-coffee-industry.md": "Food/台灣咖啡產業.md",
   "en/Food/taiwan-fermented-and-pickled-foods.md": "Food/台灣發酵食品與醃製文化.md",
-  "en/Food/taiwan-fruit-kingdom.md": "台灣水果王國.md",
+  "en/Food/taiwan-fruit-kingdom.md": "Food/台灣水果王國.md",
   "en/Food/taiwan-ice-culture.md": "Food/台灣冰品文化.md",
   "en/Food/taiwan-indigenous-foodways.md": "Food/台灣原住民飲食文化.md",
   "en/Food/taiwan-michelin-fine-dining.md": "Food/台灣米其林與精緻餐飲.md",
@@ -400,5 +400,7 @@
   "ja/Food/bubble-tea.md": "Food/珍珠奶茶.md",
   "ja/Food/night-market-culture.md": "Food/夜市文化.md",
   "ja/History/japanese-colonial-era.md": "History/日治時期.md",
-  "ja/Nature/national-parks.md": "Nature/國家公園.md"
+  "ja/Nature/national-parks.md": "Nature/國家公園.md",
+  "en/resources/mini-taiwan-pulse.md": "resources/mini-taiwan-pulse.md",
+  "en/Technology/digital-identity-and-digital-government.md": "數位身分證與數位政府.md"
 }
