@@ -1,12 +1,12 @@
 {
-  "totalArticles": 848,
-  "totalCategories": 28,
-  "estimatedContributors": 57,
-  "totalTags": 2153,
+  "totalArticles": 888,
+  "totalCategories": 27,
+  "estimatedContributors": 60,
+  "totalTags": 2292,
   "categories": [
     {
       "name": "en",
-      "count": 421
+      "count": 457
     },
     {
       "name": "History",
@@ -14,11 +14,11 @@
     },
     {
       "name": "Culture",
-      "count": 27
+      "count": 29
     },
     {
       "name": "Society",
-      "count": 21
+      "count": 22
     },
     {
       "name": "Economy",
@@ -54,7 +54,7 @@
     },
     {
       "name": "Nature",
-      "count": 21
+      "count": 23
     },
     {
       "name": "Geography",
@@ -63,10 +63,6 @@
     {
       "name": "Lifestyle",
       "count": 16
-    },
-    {
-      "name": "台灣水果王國.md",
-      "count": 1
     },
     {
       "name": "Music",
@@ -120,7 +116,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 51
+      "count": 59
     },
     {
       "name": "人物",
@@ -136,7 +132,7 @@
     },
     {
       "name": "台灣",
-      "count": 18
+      "count": 17
     },
     {
       "name": "半導體",
@@ -144,11 +140,11 @@
     },
     {
       "name": "原住民",
-      "count": 12
+      "count": 13
     },
     {
       "name": "literature",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Taiwan",
@@ -179,29 +175,29 @@
       "count": 11
     },
     {
+      "name": "culture",
+      "count": 11
+    },
+    {
+      "name": "Technology",
+      "count": 11
+    },
+    {
+      "name": "ODM",
+      "count": 10
+    },
+    {
       "name": "奧運",
       "count": 10
     },
     {
-      "name": "教育",
+      "name": "TSMC",
       "count": 10
-    },
-    {
-      "name": "culture",
-      "count": 10
-    },
-    {
-      "name": "Technology",
-      "count": 10
-    },
-    {
-      "name": "民主化",
-      "count": 9
     }
   ],
   "languageDistribution": {
-    "zh-TW": 848,
+    "zh-TW": 888,
     "en": 0
   },
-  "lastUpdated": "2026-03-22T17:57:30.773Z"
+  "lastUpdated": "2026-03-23T04:49:00.821Z"
 }
