@@ -50,7 +50,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 | 🏛️ Hub pages             | 12    |
 | 🕸️ Knowledge graph nodes | 220+  |
 | 🔗 Resource websites     | 146+  |
-| 👥 Contributors          | 23    |
+| 👥 Contributors          | 24    |
 
 ---
 
@@ -289,6 +289,9 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrianHuang813"><img src="https://avatars.githubusercontent.com/u/66238110?v=4?s=80" width="80px;" alt="Brian Huang"/><br /><sub><b>Brian Huang</b></sub></a><br /><a href="#ideas-BrianHuang813" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Lisa123wang"><img src="https://avatars.githubusercontent.com/u/103297468?v=4?s=80" width="80px;" alt="Lisa"/><br /><sub><b>Lisa</b></sub></a><br /><a href="#translation-Lisa123wang" title="Translation">🌍</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/simanglam"><img src="https://avatars.githubusercontent.com/u/90334583?v=4?s=80" width="80px;" alt="Si manglam"/><br /><sub><b>Si manglam</b></sub></a><br /><a href="https://github.com/frank890417/taiwan-md/issues?q=author%3Asimanglam" title="Bug reports">🐛</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/tboydar-agent"><img src="https://avatars.githubusercontent.com/u/265199589?v=4?s=80" width="80px;" alt="tboydar-agent"/><br /><sub><b>tboydar-agent</b></sub></a><br /><a href="#content-tboydar-agent" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
