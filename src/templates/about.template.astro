@@ -10,7 +10,7 @@ const t = useTranslations(lang);
 <Layout title={t('about.meta.title')} description={t('about.meta.description')}>
   <div class="about-page">
     <!-- Section 1: 為什麼叫 Taiwan.md？ -->
-    <section class="naming-section">
+    <section class="naming-section" id="story">
       <div class="section-inner">
         <h1 class="section-title">{t('about.naming.title')}</h1>
         <p class="section-subtitle">{t('about.naming.subtitle')}</p>
@@ -331,7 +331,7 @@ const t = useTranslations(lang);
     </section>
 
     <!-- Section 3: 創辦人與協作團隊 -->
-    <section class="team-section">
+    <section class="team-section" id="team">
       <div class="section-inner">
         <h2 class="section-title">{t('about.team.title')}</h2>
         <p class="section-subtitle">{t('about.team.subtitle')}</p>
