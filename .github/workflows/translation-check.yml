@@ -16,22 +16,31 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write
+      issues: write
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
       - name: Auto-label translation PR
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
         uses: actions/github-script@v7
         with:
           script: |
-            await github.rest.issues.addLabels({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              labels: ['translation']
-            });
+            try {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: ['translation']
+              });
+            } catch (error) {
+              if (error.status === 403) {
+                core.warning('Skipping auto-label due token scope for forked PR');
+              } else {
+                throw error;
+              }
+            }
 
       - name: Check translation format
         run: |
