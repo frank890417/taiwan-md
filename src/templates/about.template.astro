@@ -263,136 +263,47 @@ const t = useTranslations(lang);
     </section>
 
     <!-- Section 2.5: Taiwan.md 是活的 -->
-    <section class="organism-section">
+    <section class="organism-section" id="organism">
       <div class="section-inner">
         <h2 class="section-title">{t('about.organism.title')}</h2>
-        <p class="section-subtitle">{t('about.organism.subtitle')}</p>
 
-        <!-- 開場觀察 -->
-        <div class="organism-intro">
-          <p>{t('about.organism.intro.p1')}</p>
+        <!-- 三個事實直接開場，不要小標題 -->
+        <div class="organism-narrative">
+          <p>{t('about.organism.fact1.desc')}</p>
+          <p>{t('about.organism.fact2.desc')}</p>
+          <p>{t('about.organism.fact3.desc')}</p>
           <p class="organism-highlight">{t('about.organism.intro.p2')}</p>
         </div>
 
-        <!-- 三個事實 -->
-        <div class="organism-facts">
-          <h3>{t('about.organism.facts.title')}</h3>
-          <div class="facts-grid">
-            <div class="fact-card">
-              <div class="fact-icon">🛡️</div>
-              <h4>{t('about.organism.fact1.title')}</h4>
-              <p>{t('about.organism.fact1.desc')}</p>
-            </div>
-            <div class="fact-card">
-              <div class="fact-icon">🌱</div>
-              <h4>{t('about.organism.fact2.title')}</h4>
-              <p>{t('about.organism.fact2.desc')}</p>
-            </div>
-            <div class="fact-card">
-              <div class="fact-icon">🤝</div>
-              <h4>{t('about.organism.fact3.title')}</h4>
-              <p>{t('about.organism.fact3.desc')}</p>
-            </div>
-          </div>
+        <!-- 生命特徵 — 緊湊的單行列表，不是分散的 cards -->
+        <div class="organism-traits-compact">
+          <div class="trait-row"><span class="trait-icon">🧬</span><span class="trait-label">{t('about.organism.dna.label')}</span><span class="trait-desc">{t('about.organism.dna.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">🛡️</span><span class="trait-label">{t('about.organism.immune.label')}</span><span class="trait-desc">{t('about.organism.immune.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">🔄</span><span class="trait-label">{t('about.organism.metabolism.label')}</span><span class="trait-desc">{t('about.organism.metabolism.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">👁️</span><span class="trait-label">{t('about.organism.perception.label')}</span><span class="trait-desc">{t('about.organism.perception.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">🌱</span><span class="trait-label">{t('about.organism.reproduction.label')}</span><span class="trait-desc">{t('about.organism.reproduction.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">🧠</span><span class="trait-label">{t('about.organism.memory.label')}</span><span class="trait-desc">{t('about.organism.memory.desc')}</span></div>
+          <div class="trait-row"><span class="trait-icon">🤝</span><span class="trait-label">{t('about.organism.symbiosis.label')}</span><span class="trait-desc">{t('about.organism.symbiosis.desc')}</span></div>
         </div>
 
-        <!-- 生命特徵對照表 -->
-        <div class="organism-characteristics">
-          <h3>{t('about.organism.characteristics.title')}</h3>
-          <div class="characteristics-grid">
-            <div class="characteristic-card">
-              <div class="char-icon">🧬</div>
-              <div class="char-content">
-                <h4>{t('about.organism.dna.label')}</h4>
-                <p>{t('about.organism.dna.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">🛡️</div>
-              <div class="char-content">
-                <h4>{t('about.organism.immune.label')}</h4>
-                <p>{t('about.organism.immune.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">🔄</div>
-              <div class="char-content">
-                <h4>{t('about.organism.metabolism.label')}</h4>
-                <p>{t('about.organism.metabolism.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">👁️</div>
-              <div class="char-content">
-                <h4>{t('about.organism.perception.label')}</h4>
-                <p>{t('about.organism.perception.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">🌱</div>
-              <div class="char-content">
-                <h4>{t('about.organism.reproduction.label')}</h4>
-                <p>{t('about.organism.reproduction.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">🧠</div>
-              <div class="char-content">
-                <h4>{t('about.organism.memory.label')}</h4>
-                <p>{t('about.organism.memory.desc')}</p>
-              </div>
-            </div>
-            <div class="characteristic-card">
-              <div class="char-icon">🤝</div>
-              <div class="char-content">
-                <h4>{t('about.organism.symbiosis.label')}</h4>
-                <p>{t('about.organism.symbiosis.desc')}</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <!-- 珊瑚礁比喻 -->
-        <div class="organism-reef">
+        <!-- 珊瑚礁 + 行為藝術 — 合成一段 -->
+        <div class="organism-reef-art">
           <h3>{t('about.organism.reef.title')}</h3>
-          <div class="reef-comparison">
-            <div class="reef-element">
-              <div class="reef-icon">🏗️</div>
-              <h4>{t('about.organism.reef.skeleton')}</h4>
-              <p>{t('about.organism.reef.skeleton.desc')}</p>
-            </div>
-            <div class="reef-element">
-              <div class="reef-icon">🌿</div>
-              <h4>{t('about.organism.reef.algae')}</h4>
-              <p>{t('about.organism.reef.algae.desc')}</p>
-            </div>
-            <div class="reef-element">
-              <div class="reef-icon">🐠</div>
-              <h4>{t('about.organism.reef.fish')}</h4>
-              <p>{t('about.organism.reef.fish.desc')}</p>
-            </div>
-            <div class="reef-element">
-              <div class="reef-icon">🌊</div>
-              <h4>{t('about.organism.reef.current')}</h4>
-              <p>{t('about.organism.reef.current.desc')}</p>
-            </div>
-          </div>
+          <p class="reef-text">
+            🏗️ {t('about.organism.reef.skeleton')} — {t('about.organism.reef.skeleton.desc')}。
+            🌿 {t('about.organism.reef.algae')} — {t('about.organism.reef.algae.desc')}。
+            🐠 {t('about.organism.reef.fish')} — {t('about.organism.reef.fish.desc')}。
+            🌊 {t('about.organism.reef.current')} — {t('about.organism.reef.current.desc')}。
+          </p>
+          <p class="art-text">{t('about.organism.art.desc')}</p>
         </div>
 
-        <!-- 行為藝術定位 -->
-        <div class="organism-art">
-          <h3>{t('about.organism.art.title')}</h3>
-          <p class="art-description">{t('about.organism.art.desc')}</p>
-        </div>
-
-        <!-- 詩意收尾 -->
-        <div class="organism-ending">
-          <blockquote class="organism-quote">
-            <p>{t('about.organism.ending.p1')}</p>
-            <p>{t('about.organism.ending.p2')}</p>
-            <p>{t('about.organism.ending.p3')}</p>
-          </blockquote>
-        </div>
+        <!-- 收尾 -->
+        <blockquote class="organism-quote">
+          <p>{t('about.organism.ending.p1')}</p>
+          <p>{t('about.organism.ending.p2')}</p>
+          <p class="quote-future">{t('about.organism.ending.p3')}</p>
+        </blockquote>
       </div>
     </section>
 
@@ -1378,291 +1289,98 @@ const t = useTranslations(lang);
     border-radius: 12px;
   }
 
-  /* ===== Section 2.5: Taiwan.md 是活的 (Organism) ===== */
+  /* ===== Section 2.5: Taiwan.md 是活的 (Organism) — 濃縮版 ===== */
   .organism-section {
     padding: 4rem 0;
-    background: linear-gradient(135deg, #e6fffa, #f0fdfa);
+    background: linear-gradient(135deg, #0a2e2e 0%, #0d3b3b 50%, #0a2e2e 100%);
+    color: #e0f0f0;
     margin: 0;
     padding-left: 1rem;
     padding-right: 1rem;
   }
-
-  /* Intro */
-  .organism-intro {
-    text-align: center;
-    margin-bottom: 3rem;
+  .organism-section .section-title { color: #5fd4d4; }
+  .organism-narrative {
+    max-width: 680px;
+    margin: 0 auto 2rem;
   }
-
-  .organism-intro p {
-    font-size: 1.15rem;
-    color: #374151;
-    line-height: 1.8;
+  .organism-narrative p {
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: #c0dede;
     margin-bottom: 1rem;
-    max-width: 640px;
-    margin-left: auto;
-    margin-right: auto;
   }
-
   .organism-highlight {
+    font-size: 1.3rem;
     font-weight: 600;
-    color: #065f46 !important;
-    font-size: 1.25rem !important;
-  }
-
-  /* Facts Grid */
-  .organism-facts {
-    margin-bottom: 4rem;
-  }
-
-  .organism-facts h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
+    color: #5fd4d4;
     text-align: center;
-    color: #065f46;
-    margin-bottom: 2rem;
+    margin: 2rem 0;
   }
-
-  .facts-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-  }
-
-  .fact-card {
-    background: white;
-    padding: 2rem 1.5rem;
-    border-radius: 16px;
-    text-align: center;
-    border: 1px solid #a7f3d0;
-    transition: all 0.3s ease;
-  }
-
-  .fact-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(6, 95, 70, 0.15);
-    border-color: #10b981;
-  }
-
-  .fact-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-
-  .fact-card h4 {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #065f46;
-    margin-bottom: 0.75rem;
-  }
-
-  .fact-card p {
-    font-size: 0.95rem;
-    color: #4b5563;
-    line-height: 1.6;
-  }
-
-  /* Characteristics Grid */
-  .organism-characteristics {
-    margin-bottom: 4rem;
-  }
-
-  .organism-characteristics h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    text-align: center;
-    color: #065f46;
-    margin-bottom: 2rem;
-  }
-
-  .characteristics-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-  }
-
-  .characteristic-card {
+  .organism-traits-compact {
+    max-width: 680px;
+    margin: 0 auto 2.5rem;
     display: flex;
-    align-items: center;
-    gap: 1.25rem;
-    background: white;
-    padding: 1.5rem;
-    border-radius: 12px;
-    border: 1px solid #a7f3d0;
-    transition: all 0.2s ease;
+    flex-direction: column;
+    gap: 0.6rem;
   }
-
-  .characteristic-card:hover {
-    border-color: #10b981;
-    box-shadow: 0 4px 12px rgba(6, 95, 70, 0.1);
-  }
-
-  .char-icon {
-    font-size: 2rem;
-    flex-shrink: 0;
-  }
-
-  .char-content h4 {
-    font-size: 1rem;
-    font-weight: 600;
-    color: #065f46;
-    margin-bottom: 0.5rem;
-  }
-
-  .char-content p {
-    font-size: 0.9rem;
-    color: #4b5563;
-    line-height: 1.5;
-    margin: 0;
-  }
-
-  /* Reef Comparison */
-  .organism-reef {
-    margin-bottom: 4rem;
-  }
-
-  .organism-reef h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    text-align: center;
-    color: #065f46;
-    margin-bottom: 2rem;
-  }
-
-  .reef-comparison {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 2rem;
-  }
-
-  .reef-element {
-    text-align: center;
-    background: white;
-    padding: 2rem 1.5rem;
-    border-radius: 16px;
-    border: 1px solid #a7f3d0;
-    transition: all 0.3s ease;
-  }
-
-  .reef-element:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(6, 95, 70, 0.12);
-    border-color: #10b981;
-  }
-
-  .reef-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-
-  .reef-element h4 {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #065f46;
-    margin-bottom: 0.75rem;
-  }
-
-  .reef-element p {
+  .trait-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
     font-size: 0.95rem;
-    color: #4b5563;
     line-height: 1.6;
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(95, 212, 212, 0.1);
   }
-
-  /* Art Project */
-  .organism-art {
-    margin-bottom: 4rem;
+  .trait-icon { flex-shrink: 0; font-size: 1.1rem; }
+  .trait-label { font-weight: 600; color: #5fd4d4; white-space: nowrap; min-width: 4em; }
+  .trait-desc { color: #a0c8c8; }
+  .organism-reef-art {
+    max-width: 680px;
+    margin: 0 auto 2.5rem;
+  }
+  .organism-reef-art h3 {
+    font-size: 1.3rem;
+    color: #5fd4d4;
+    margin-bottom: 1rem;
     text-align: center;
   }
-
-  .organism-art h3 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    color: #065f46;
+  .reef-text {
+    font-size: 0.95rem;
+    line-height: 2;
+    color: #a0c8c8;
     margin-bottom: 1.5rem;
   }
-
-  .art-description {
-    font-size: 1.1rem;
-    color: #374151;
-    line-height: 1.8;
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 1.5rem 2rem;
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 12px;
-    border: 1px solid #a7f3d0;
+  .art-text {
+    font-size: 1.05rem;
+    line-height: 1.9;
+    color: #c0dede;
   }
-
-  /* Ending Quote */
-  .organism-ending {
-    text-align: center;
-  }
-
   .organism-quote {
-    background: linear-gradient(135deg, #064e3b, #065f46);
-    color: white;
-    padding: 3rem 2.5rem;
-    border-radius: 20px;
-    font-style: normal;
-    border: none;
-    box-shadow: 0 8px 32px rgba(6, 95, 70, 0.2);
-    max-width: 800px;
+    max-width: 680px;
     margin: 0 auto;
+    text-align: center;
+    padding: 2rem 0;
+    border-top: 1px solid rgba(95, 212, 212, 0.2);
+    font-style: normal;
+    border-left: none;
+    background: none;
   }
-
   .organism-quote p {
-    font-size: 1.2rem;
-    line-height: 1.8;
-    margin-bottom: 1.5rem;
-    font-weight: 400;
+    font-size: 1.15rem;
+    line-height: 2;
+    color: #e0f0f0;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-quote, serif);
   }
-
-  .organism-quote p:last-child {
-    margin-bottom: 0;
-    font-weight: 500;
-    font-size: 1.25rem;
+  .quote-future {
+    font-size: 0.95rem !important;
+    color: #80b8b8 !important;
+    margin-top: 0.8rem !important;
   }
-
-  /* Responsive for Organism Section */
   @media (max-width: 768px) {
-    .facts-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .characteristics-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .reef-comparison {
-      grid-template-columns: 1fr;
-    }
-
-    .organism-quote {
-      padding: 2rem 1.5rem;
-    }
-
-    .organism-quote p {
-      font-size: 1.1rem;
-    }
-
-    .organism-quote p:last-child {
-      font-size: 1.15rem;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .characteristic-card {
-      flex-direction: column;
-      text-align: center;
-      gap: 1rem;
-    }
-
-    .char-content {
-      text-align: center;
-    }
-
-    .organism-quote {
-      padding: 1.5rem 1rem;
-    }
+    .trait-row { flex-wrap: wrap; }
+    .trait-label { min-width: auto; }
   }
 
   /* ===== Section 3: 創辦人 ===== */
