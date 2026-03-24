@@ -250,9 +250,10 @@ const categoryList = [
           if (item.path === '/assets') {
             return null;
           }
+          const mobileHref = item.path === '/#categories' ? translatePath('/graph') : item.fullPath;
           return (
             <a
-              href={item.fullPath}
+              href={mobileHref}
               class:list={['nav-link', { active: item.active }]}
               onclick="document.querySelector('.nav-mobile').classList.remove('open')"
             >
