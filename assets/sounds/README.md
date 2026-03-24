@@ -18,6 +18,7 @@ Field recordings capturing the sounds of Taiwan — because some stories are bes
 | ----------------------------------------- | ------------------------------------- | --------------------------------- | ----------- | ------- |
 | `taichung-green-museumbrary-crickets.mp3` | 台中綠美圖 Taichung Green Museumbrary | 夜晚蟋蟀聲 Evening cricket chorus | @bugnimusic | 2026-03 |
 | `taipei-nangang-garbage-truck-melody-maidens-prayer.mp3` | 台北南港 Taipei Nangang | 垃圾車音樂（少女的祈禱）Garbage truck melody (Maiden's Prayer) | @x1001000 | 2021-03 |
+| `new-taipei-banqiao-garbage-truck-melody-fur-elise.mp3` | 新北板橋 New Taipei Banqiao | 垃圾車音樂（給愛麗絲）Garbage truck melody (Fur Elise) | @x1001000 | 2026-03 |
 
 ## Guidelines / 規範
 
