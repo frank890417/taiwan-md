@@ -1,6 +1,15 @@
 import { useTranslations } from '../i18n/utils';
 
 export const getCategoryConfigs = (t: ReturnType<typeof useTranslations>) => ({
+  about: {
+    name: 'About',
+    description: 'About Taiwan.md - Origin story, team, and mission',
+    icon: '📖',
+    color: '#4b5563',
+    colorLight: '#4b556320',
+    gradient: 'linear-gradient(135deg, #4b5563, #6b7280)',
+    cover: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Taroko_national_park.jpg/640px-Taroko_national_park.jpg',
+  },
   history: {
     name: t('categoryConfig.history'),
     description: t('categoryConfig.history.description'),

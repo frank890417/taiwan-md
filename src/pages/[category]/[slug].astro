@@ -82,6 +82,7 @@ function getGitInfo(filePath: string) {
 // ── Category → folder mapping ─────────────────────────────────────────────────
 // Defined at module scope so it's available in both getStaticPaths and the template
 const categoryMapping: Record<string, string> = {
+  about: 'About',
   history: 'History',
   geography: 'Geography',
   culture: 'Culture',
@@ -99,6 +100,7 @@ const categoryMapping: Record<string, string> = {
 // ── getStaticPaths ────────────────────────────────────────────────────────────
 export async function getStaticPaths() {
   const _categoryMapping: Record<string, string> = {
+    about: 'About',
     history: 'History',
     geography: 'Geography',
     culture: 'Culture',
