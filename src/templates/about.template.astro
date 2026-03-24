@@ -251,6 +251,17 @@ const t = useTranslations(lang);
           </div>
 
           <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">
+              {t('about.timeline.2026-03-24.date')}
+            </div>
+            <div class="timeline-content">
+              <h3>{t('about.timeline.2026-03-24.title')}</h3>
+              <p set:html={t('about.timeline.2026-03-24.desc.html')} />
+            </div>
+          </div>
+
+          <div class="timeline-item">
             <div class="timeline-marker pulse"></div>
             <div class="timeline-date">{t('about.timeline.ongoing.date')}</div>
             <div class="timeline-content">

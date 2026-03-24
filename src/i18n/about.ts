@@ -23,13 +23,13 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '830+',
+    'about.stats.pages.number': '960+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
-    'about.stats.stars.number': '720+',
+    'about.stats.stars.number': '837+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '24+',
+    'about.stats.contributors.number': '40+',
     'about.stats.contributors.label': 'Contributors',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': 'Users',
@@ -116,6 +116,12 @@ export const aboutUI = {
       '📖 Wikipedia Article Created・Four Languages・Quality Automation',
     'about.timeline.2026-03-22b.desc.html':
       'Taiwan.md received its own <strong><a href="https://zh.wikipedia.org/wiki/Taiwan.md" target="_blank">Chinese Wikipedia article</a></strong> — written entirely by the community, with 6 independent sources (CNA, INSIDE, FTNN, UPMedia, ABMedia, Big Media). Only 5 days after launch. The project entered <strong>four-language era</strong>: Chinese (385), English (407), Spanish (46), Japanese (5). An automated <strong>EDITORIAL v2 quality rewrite system</strong> launched — rewriting one article per hour to meet editorial standards with 10+ verified sources.',
+
+    'about.timeline.2026-03-24.date': '2026 / 03 / 24',
+    'about.timeline.2026-03-24.title':
+      '🌊 837 Stars ・ 40 Contributors ・ 960+ Pages ・ Expert Fact-Checks',
+    'about.timeline.2026-03-24.desc.html':
+      'One week after launch. <strong>40 contributors</strong> from around the world. <strong>960+ pages</strong> across four languages (424 Chinese + 491 English + 46 Spanish + 7 Japanese). A professional ecologist submitted 5 fact-corrections with academic citations — the self-correcting knowledge ecosystem is working. New deep-research articles: <strong>Taiwanese traditional orchestra (國樂)</strong>, <strong>Penghu folk culture</strong>, <strong>disaster volunteerism</strong>, and more. Community feedback marquee on homepage now features <strong>100+ voices</strong>.',
 
     'about.timeline.ongoing.date': 'Ongoing',
     'about.timeline.ongoing.title': 'From Personal SSOT to National SSOT',
@@ -318,13 +324,13 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '830+',
+    'about.stats.pages.number': '960+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
-    'about.stats.stars.number': '720+',
+    'about.stats.stars.number': '837+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '24+',
+    'about.stats.contributors.number': '40+',
     'about.stats.contributors.label': '貢獻者',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': '使用者',
@@ -405,6 +411,12 @@ export const aboutUI = {
       '📖 維基百科條目建立 ・ 四語並行 ・ 品質自動化',
     'about.timeline.2026-03-22b.desc.html':
       'Taiwan.md 獲得了自己的<strong><a href="https://zh.wikipedia.org/wiki/Taiwan.md" target="_blank">中文維基百科條目</a></strong>——完全由社群自發撰寫，引用 6 個獨立來源（中央社、INSIDE、FTNN、上報、動區、大媒體）。上線僅 5 天。專案進入<strong>四語時代</strong>：中文（385）、英文（407）、西班牙文（46）、日文（5）。<strong>EDITORIAL v2 品質自動改寫系統</strong>上線——每小時自動重寫一篇文章，每篇需通過 10+ 來源驗證。',
+
+    'about.timeline.2026-03-24.date': '2026 / 03 / 24',
+    'about.timeline.2026-03-24.title':
+      '🌊 837 Stars ・ 40 位貢獻者 ・ 960+ 頁面 ・ 專家事實查核',
+    'about.timeline.2026-03-24.desc.html':
+      '上線一週。<strong>40 位貢獻者</strong>來自世界各地。<strong>960+ 頁面</strong>橫跨四種語言（424 中文 + 491 英文 + 46 西班牙文 + 7 日文）。一位專業生態顧問提交了 5 項事實修正並附學術引用——自我修正的知識生態系統正在運作。新增深度研究文章：<strong>台灣國樂</strong>、<strong>澎湖民俗文化</strong>、<strong>災難志工文化</strong>等。首頁社群回饋跑馬燈已收錄 <strong>100+ 則聲音</strong>。',
 
     'about.timeline.ongoing.date': '持續進行中',
     'about.timeline.ongoing.title': '從個人 SSOT 到國家 SSOT',
