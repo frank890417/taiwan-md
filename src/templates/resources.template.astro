@@ -234,783 +234,1468 @@ const heroData = {
   ],
 };
 
-// Chapter 1: 政府入口 - Government Gateway
-const governmentSites = [
-  {
-    name: lang === 'en' ? 'Office of the President' : '中華民國總統府',
-    url: 'https://www.president.gov.tw/',
-    domain: 'president.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Executive Yuan' : '行政院',
-    url: 'https://www.ey.gov.tw/',
-    domain: 'ey.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Legislative Yuan' : '立法院',
-    url: 'https://www.ly.gov.tw/',
-    domain: 'ly.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Judicial Yuan' : '司法院',
-    url: 'https://www.judicial.gov.tw/',
-    domain: 'judicial.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Examination Yuan' : '考試院',
-    url: 'https://www.exam.gov.tw/',
-    domain: 'exam.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Control Yuan' : '監察院',
-    url: 'https://www.cy.gov.tw/',
-    domain: 'cy.gov.tw',
-  },
-  // Central Government Ministries
-  {
-    name: lang === 'en' ? 'Ministry of Interior' : '內政部',
-    url: 'https://www.moi.gov.tw/',
-    domain: 'moi.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Foreign Affairs' : '外交部',
-    url: 'https://www.mofa.gov.tw/',
-    domain: 'mofa.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of National Defense' : '國防部',
-    url: 'https://www.mnd.gov.tw/',
-    domain: 'mnd.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Finance' : '財政部',
-    url: 'https://www.mof.gov.tw/',
-    domain: 'mof.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Education' : '教育部',
-    url: 'https://www.moe.gov.tw/',
-    domain: 'moe.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Justice' : '法務部',
-    url: 'https://www.moj.gov.tw/',
-    domain: 'moj.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Economic Affairs' : '經濟部',
-    url: 'https://www.moea.gov.tw/',
-    domain: 'moea.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Transportation' : '交通部',
-    url: 'https://www.motc.gov.tw/',
-    domain: 'motc.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Culture' : '文化部',
-    url: 'https://www.moc.gov.tw/',
-    domain: 'moc.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Health and Welfare' : '衛生福利部',
-    url: 'https://www.mohw.gov.tw/',
-    domain: 'mohw.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Environment' : '環境部',
-    url: 'https://www.moenv.gov.tw/',
-    domain: 'moenv.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Labor' : '勞動部',
-    url: 'https://www.mol.gov.tw/',
-    domain: 'mol.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Science and Technology' : '國家科學及技術委員會',
-    url: 'https://www.nstc.gov.tw/',
-    domain: 'nstc.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Ministry of Digital Affairs' : '數位發展部',
-    url: 'https://moda.gov.tw/',
-    domain: 'moda.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Council of Indigenous Peoples' : '原住民族委員會',
-    url: 'https://www.cip.gov.tw/',
-    domain: 'cip.gov.tw',
-  },
-  // Local Governments
-  {
-    name: lang === 'en' ? 'Taipei City Government' : '台北市政府',
-    url: 'https://www.gov.taipei/',
-    domain: 'gov.taipei',
-  },
-  {
-    name: lang === 'en' ? 'New Taipei City Government' : '新北市政府',
-    url: 'https://www.ntpc.gov.tw/',
-    domain: 'ntpc.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taichung City Government' : '台中市政府',
-    url: 'https://www.taichung.gov.tw/',
-    domain: 'taichung.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Kaohsiung City Government' : '高雄市政府',
-    url: 'https://www.kcg.gov.tw/',
-    domain: 'kcg.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Tainan City Government' : '台南市政府',
-    url: 'https://www.tainan.gov.tw/',
-    domain: 'tainan.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taoyuan City Government' : '桃園市政府',
-    url: 'https://www.tycg.gov.tw/',
-    domain: 'tycg.gov.tw',
-  },
-];
-
-// Chapter 2: 文化知識殿堂 - Cultural & Academic Institutions  
-const culturalSites = [
-  // Universities
-  {
-    name: lang === 'en' ? 'National Taiwan University' : '國立台灣大學',
-    url: 'https://www.ntu.edu.tw/',
-    domain: 'ntu.edu.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Tsing Hua University' : '國立清華大學',
-    url: 'https://www.nthu.edu.tw/',
-    domain: 'nthu.edu.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Yang Ming Chiao Tung University' : '國立陽明交通大學',
-    url: 'https://www.nycu.edu.tw/',
-    domain: 'nycu.edu.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Cheng Kung University' : '國立成功大學',
-    url: 'https://www.ncku.edu.tw/',
-    domain: 'ncku.edu.tw',
-  },
-  // Cultural Institutions
-  {
-    name: lang === 'en' ? 'National Palace Museum' : '國立故宮博物院',
-    url: 'https://www.npm.gov.tw/',
-    domain: 'npm.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Central Library' : '國立國家圖書館',
-    url: 'https://www.ncl.edu.tw/',
-    domain: 'ncl.edu.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Taiwan Museum' : '國立台灣博物館',
-    url: 'https://www.ntm.gov.tw/',
-    domain: 'ntm.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Museum of Taiwan History' : '國立台灣歷史博物館',
-    url: 'https://www.nmth.gov.tw/',
-    domain: 'nmth.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Museum of Taiwan Literature' : '國立台灣文學館',
-    url: 'https://www.nmtl.gov.tw/',
-    domain: 'nmtl.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Theatre & Concert Hall' : '國立兩廳院',
-    url: 'https://www.ntch.edu.tw/',
-    domain: 'ntch.edu.tw',
-  },
-  // National Parks
-  {
-    name: lang === 'en' ? 'Yangmingshan National Park' : '陽明山國家公園',
-    url: 'https://www.ymsnp.gov.tw/',
-    domain: 'ymsnp.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taroko National Park' : '太魯閣國家公園',
-    url: 'https://www.taroko.gov.tw/',
-    domain: 'taroko.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Yushan National Park' : '玉山國家公園',
-    url: 'https://www.ysnp.gov.tw/',
-    domain: 'ysnp.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Alishan National Scenic Area' : '阿里山國家風景區',
-    url: 'https://www.ali-nsa.net/',
-    domain: 'ali-nsa.net',
-  },
-];
-
-// Chapter 3: 台灣之聲 - Media & Civil Society
-const mediaSites = [
-  // News Media
-  {
-    name: lang === 'en' ? 'Central News Agency' : '中央通訊社',
-    url: 'https://www.cna.com.tw',
-    domain: 'cna.com.tw',
-  },
-  {
-    name: lang === 'en' ? 'Public Television Service' : '公共電視',
-    url: 'https://www.pts.org.tw/',
-    domain: 'pts.org.tw',
-  },
-  {
-    name: lang === 'en' ? 'The Reporter' : '報導者',
-    url: 'https://www.twreporter.org/',
-    domain: 'twreporter.org',
-  },
-  {
-    name: 'Taiwan News',
-    url: 'https://www.taiwannews.com.tw/',
-    domain: 'taiwannews.com.tw',
-  },
-  {
-    name: lang === 'en' ? 'United Daily News' : '聯合新聞網',
-    url: 'https://udn.com/',
-    domain: 'udn.com',
-  },
-  {
-    name: lang === 'en' ? 'Liberty Times Net' : '自由時報',
-    url: 'https://www.ltn.com.tw/',
-    domain: 'ltn.com.tw',
-  },
-  // Digital Culture
-  {
-    name: 'PTT',
-    url: 'https://www.ptt.cc/',
-    domain: 'ptt.cc',
-  },
-  {
-    name: lang === 'en' ? 'g0v Taiwan' : 'g0v 零時政府',
-    url: 'https://g0v.tw/',
-    domain: 'g0v.tw',
-  },
-  {
-    name: lang === 'en' ? 'Open Culture Foundation' : '開放文化基金會',
-    url: 'https://ocf.tw/',
-    domain: 'ocf.tw',
-  },
-  // NGO & Civil Society
-  {
-    name: lang === 'en' ? 'Taiwan Association for Human Rights' : '台灣人權促進會',
-    url: 'https://www.tahr.org.tw/',
-    domain: 'tahr.org.tw',
-  },
-  {
-    name: lang === 'en' ? 'Civic Technology Foundation' : '開放知識基金會',
-    url: 'https://okfn.tw/',
-    domain: 'okfn.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taiwan Environmental Information Center' : '台灣環境資訊協會',
-    url: 'https://e-info.org.tw/',
-    domain: 'e-info.org.tw',
-  },
-];
-
-// Chapter 4: 經濟引擎 - Economic Engine
-const economicSites = [
-  // Major Corporations
-  {
-    name: lang === 'en' ? 'Taiwan Semiconductor (TSMC)' : '台灣積體電路',
-    url: 'https://www.tsmc.com/chinese',
-    domain: 'tsmc.com',
-  },
-  {
-    name: lang === 'en' ? 'Foxconn' : '鴻海集團',
-    url: 'https://www.foxconn.com/',
-    domain: 'foxconn.com',
-  },
-  {
-    name: lang === 'en' ? 'MediaTek' : '聯發科技',
-    url: 'https://www.mediatek.com/',
-    domain: 'mediatek.com',
-  },
-  // Transportation
-  {
-    name: lang === 'en' ? 'Taiwan High Speed Rail' : '台灣高鐵',
-    url: 'https://www.thsrc.com.tw/',
-    domain: 'thsrc.com.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taiwan Railways' : '台灣鐵路',
-    url: 'https://www.railway.gov.tw/',
-    domain: 'railway.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Taipei Metro' : '台北捷運',
-    url: 'https://www.metro.taipei/',
-    domain: 'metro.taipei',
-  },
-  {
-    name: lang === 'en' ? 'Kaohsiung Metro' : '高雄捷運',
-    url: 'https://www.krtc.com.tw/',
-    domain: 'krtc.com.tw',
-  },
-  // Healthcare
-  {
-    name: lang === 'en' ? 'National Taiwan University Hospital' : '台大醫院',
-    url: 'https://www.ntuh.gov.tw/',
-    domain: 'ntuh.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Chang Gung Memorial Hospital' : '長庚醫療財團法人',
-    url: 'https://www.cgmh.org.tw/',
-    domain: 'cgmh.org.tw',
-  },
-  {
-    name: lang === 'en' ? 'Mackay Memorial Hospital' : '馬偕醫院',
-    url: 'https://www.mmh.org.tw/',
-    domain: 'mmh.org.tw',
-  },
-  // Economic Data
-  {
-    name: lang === 'en' ? 'Taiwan Stock Exchange' : '臺灣證券交易所',
-    url: 'https://www.twse.com.tw/',
-    domain: 'twse.com.tw',
-  },
-  {
-    name: lang === 'en' ? 'National Statistics' : '國家統計',
-    url: 'https://www.stat.gov.tw/',
-    domain: 'stat.gov.tw',
-  },
-  {
-    name: lang === 'en' ? 'Central Bank of Taiwan' : '中央銀行',
-    url: 'https://www.cbc.gov.tw/',
-    domain: 'cbc.gov.tw',
-  },
-];
-
-// Chapter 5: 社群專案 (keep existing)
-const communityProjects = [
-  {
-    title: '🍔 美食地圖',
-    projects: [
+// Section data (其他網站，分為多個 section)
+const sectionData = {
+  localGov: {
+    title: t('resources.section.localGov.title'),
+    description: t('resources.section.localGov.desc'),
+    sites: [
       {
-        name: '台北漢堡地圖',
-        desc: '互動式台北漢堡餐廳排名地圖，依品質分級（T0-T6），可依行政區篩選',
-        tech: 'JavaScript / Leaflet',
-        url: 'https://taipei-burger-map.netlify.app/',
-        github: 'https://github.com/frank890417/taipei-burger-tier-map',
+        name: lang === 'en' ? 'Taipei City Government' : '台北市政府',
+        url: 'https://www.gov.taipei/',
+        domain: 'gov.taipei',
+      },
+      {
+        name: lang === 'en' ? 'New Taipei City Government' : '新北市政府',
+        url: 'https://www.ntpc.gov.tw/',
+        domain: 'ntpc.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taichung City Government' : '台中市政府',
+        url: 'https://www.taichung.gov.tw/',
+        domain: 'taichung.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Kaohsiung City Government' : '高雄市政府',
+        url: 'https://www.kcg.gov.tw/',
+        domain: 'kcg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Tainan City Government' : '台南市政府',
+        url: 'https://www.tainan.gov.tw/',
+        domain: 'tainan.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taoyuan City Government' : '桃園市政府',
+        url: 'https://www.tycg.gov.tw/',
+        domain: 'tycg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Keelung City Government' : '基隆市政府',
+        url: 'https://www.klcg.gov.tw/',
+        domain: 'klcg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Hsinchu City Government' : '新竹市政府',
+        url: 'https://www.hccg.gov.tw/',
+        domain: 'hccg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Chiayi City Government' : '嘉義市政府',
+        url: 'https://www.chiayi.gov.tw/',
+        domain: 'chiayi.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Yilan County Government' : '宜蘭縣政府',
+        url: 'https://www.e-land.gov.tw/',
+        domain: 'e-land.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Hsinchu County Government' : '新竹縣政府',
+        url: 'https://www.hsinchu.gov.tw/',
+        domain: 'hsinchu.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Miaoli County Government' : '苗栗縣政府',
+        url: 'https://www.miaoli.gov.tw/',
+        domain: 'miaoli.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Changhua County Government' : '彰化縣政府',
+        url: 'https://www.chcg.gov.tw/',
+        domain: 'chcg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Nantou County Government' : '南投縣政府',
+        url: 'https://www.nantou.gov.tw/',
+        domain: 'nantou.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Yunlin County Government' : '雲林縣政府',
+        url: 'https://www.yunlin.gov.tw/',
+        domain: 'yunlin.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Chiayi County Government' : '嘉義縣政府',
+        url: 'https://www.cyhg.gov.tw/',
+        domain: 'cyhg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Pingtung County Government' : '屏東縣政府',
+        url: 'https://www.pthg.gov.tw/',
+        domain: 'pthg.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taitung County Government' : '台東縣政府',
+        url: 'https://www.taitung.gov.tw/',
+        domain: 'taitung.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Hualien County Government' : '花蓮縣政府',
+        url: 'https://www.hl.gov.tw/',
+        domain: 'hl.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Penghu County Government' : '澎湖縣政府',
+        url: 'https://www.penghu.gov.tw/',
+        domain: 'penghu.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Kinmen County Government' : '金門縣政府',
+        url: 'https://www.kinmen.gov.tw/',
+        domain: 'kinmen.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Lienchiang County Government' : '連江縣政府',
+        url: 'https://www.matsu.gov.tw/',
+        domain: 'matsu.gov.tw',
       },
     ],
   },
-  {
-    title: '🌙 夜市導覽',
-    projects: [
+  universities: {
+    title: t('resources.section.universities.title'),
+    description: t('resources.section.universities.desc'),
+    sites: [
       {
-        name: '夜市地圖',
-        desc: '台灣夜市分布互動地圖，提供營業時間與特色小吃資訊',
-        tech: 'Vue.js / Leaflet',
-        url: 'https://nightmarket-map.netlify.app/',
-        github: 'https://github.com/frank890417/taiwan-night-market-map',
+        name: lang === 'en' ? 'National Taiwan University' : '國立台灣大學',
+        url: 'https://www.ntu.edu.tw/',
+        domain: 'ntu.edu.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Tsing Hua University' : '國立清華大學',
+        url: 'https://www.nthu.edu.tw/',
+        domain: 'nthu.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Yang Ming Chiao Tung University'
+            : '國立陽明交通大學',
+        url: 'https://www.nycu.edu.tw/',
+        domain: 'nycu.edu.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Cheng Kung University' : '國立成功大學',
+        url: 'https://web.ncku.edu.tw/',
+        domain: 'ncku.edu.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Chengchi University' : '國立政治大學',
+        url: 'https://www.nccu.edu.tw/',
+        domain: 'nccu.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Taiwan Normal University'
+            : '國立台灣師範大學',
+        url: 'https://www.ntnu.edu.tw/',
+        domain: 'ntnu.edu.tw',
+      },
+      {
+        name: lang === 'en' ? 'Academia Sinica' : '中央研究院',
+        url: 'https://www.sinica.edu.tw/',
+        domain: 'sinica.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Empirical Survey Data Platform'
+            : '臺灣經驗實證調查資料平台',
+        url: 'https://tesd.survey.sinica.edu.tw/',
+        domain: 'tesd.survey.sinica.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Communication Survey (TCS)'
+            : '臺灣傳播調查資料庫',
+        url: 'https://crctaiwan.dcat.nycu.edu.tw/index.asp',
+        domain: 'crctaiwan.dcat.nycu.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Brill Encyclopedia of Taiwan Studies'
+            : 'Brill 台灣研究百科全書',
+        url: 'https://referenceworks.brill.com/display/db/etso',
+        domain: 'referenceworks.brill.com',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Science and Technology Council'
+            : '國家科學及技術委員會',
+        url: 'https://www.nstc.gov.tw/',
+        domain: 'nstc.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'Industrial Technology Research Institute' : '工研院',
+        url: 'https://www.itri.org.tw/',
+        domain: 'itri.org.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Applied Research Laboratories'
+            : '國家實驗研究院',
+        url: 'https://www.niar.org.tw/',
+        domain: 'niar.org.tw',
       },
     ],
   },
-  {
-    title: '🚌 交通資訊',
-    projects: [
+  nationalParks: {
+    title: t('resources.section.nationalParks.title'),
+    description: t('resources.section.nationalParks.desc'),
+    sites: [
       {
-        name: '即時公車',
-        desc: '整合各縣市公車動態資訊，提供路線規劃與到站時間預估',
-        tech: 'React / TDX API',
-        url: 'https://bus.taiwan.md/',
-        github: 'https://github.com/frank890417/taiwan-bus-realtime',
+        name: lang === 'en' ? 'Yushan National Park' : '玉山國家公園',
+        url: 'https://www.ysnp.gov.tw/',
+        domain: 'ysnp.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taroko National Park' : '太魯閣國家公園',
+        url: 'https://www.taroko.gov.tw/',
+        domain: 'taroko.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Kenting National Park' : '墾丁國家公園',
+        url: 'https://www.ktnp.gov.tw/',
+        domain: 'ktnp.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Shei-Pa National Park' : '雪霸國家公園',
+        url: 'https://www.spnp.gov.tw/',
+        domain: 'spnp.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Yangmingshan National Park' : '陽明山國家公園',
+        url: 'https://www.ymsnp.gov.tw/',
+        domain: 'ymsnp.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Kinmen National Park' : '金門國家公園',
+        url: 'https://www.kmnp.gov.tw/',
+        domain: 'kmnp.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taijiang National Park' : '台江國家公園',
+        url: 'https://www.tjnp.gov.tw/',
+        domain: 'tjnp.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'Dongsha Atoll National Park' : '東沙環礁國家公園',
+        url: 'https://www.marine.gov.tw/',
+        domain: 'marine.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'South Penghu Marine National Park'
+            : '澎湖南方四島國家公園',
+        url: 'https://www.marine.gov.tw/',
+        domain: 'marine.gov.tw',
       },
     ],
   },
-  {
-    title: '📊 開放資料',
-    projects: [
+  artsCulture: {
+    title: t('resources.section.artsCulture.title'),
+    description: t('resources.section.artsCulture.desc'),
+    sites: [
       {
-        name: 'g0v',
-        desc: '台灣最大公民科技社群，推動開放政府與透明治理',
-        tech: 'Multi-stack',
-        url: 'https://g0v.tw/',
-        github: 'https://github.com/g0v',
+        name: lang === 'en' ? 'Taipei Fine Arts Museum' : '台北市立美術館',
+        url: 'https://www.tfam.museum/',
+        domain: 'tfam.museum',
       },
       {
-        name: 'Cofacts',
-        desc: '群眾協作事實查核機器人，對抗LINE上的不實訊息',
-        tech: 'JavaScript / GraphQL',
-        url: 'https://cofacts.tw/',
-        github: 'https://github.com/cofacts',
+        name:
+          lang === 'en' ? 'Kaohsiung Museum of Fine Arts' : '高雄市立美術館',
+        url: 'https://www.kmfa.gov.tw/',
+        domain: 'kmfa.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Taichung Theater' : '台中國家歌劇院',
+        url: 'https://www.npac-ntt.org/',
+        domain: 'npac-ntt.org',
+      },
+      {
+        name: lang === 'en' ? 'National Theater & Concert Hall' : '國家兩廳院',
+        url: 'https://npac-ntch.org/zh',
+        domain: 'npac-ntch.org',
+      },
+      {
+        name: lang === 'en' ? 'Weiwuying Arts Center' : '衛武營藝術中心',
+        url: 'https://www.npac-weiwuying.org/',
+        domain: 'npac-weiwuying.org',
+      },
+      {
+        name: lang === 'en' ? 'Songshan Cultural Park' : '松山文創園區',
+        url: 'https://www.songshanculturalpark.org/',
+        domain: 'songshanculturalpark.org',
+      },
+      {
+        name: lang === 'en' ? 'Huashan Creative Park' : '華山文創園區',
+        url: 'https://www.huashan1914.com/',
+        domain: 'huashan1914.com',
+      },
+      {
+        name: lang === 'en' ? 'Pier-2 Art Center' : '駁二藝術特區',
+        url: 'https://pier2.org/',
+        domain: 'pier2.org',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Taiwan Museum of Fine Arts'
+            : '國立台灣美術館',
+        url: 'https://www.ntmofa.gov.tw/',
+        domain: 'ntmofa.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Museum of Taiwan History'
+            : '國立臺灣歷史博物館',
+        url: 'https://www.nmth.gov.tw/',
+        domain: 'nmth.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Museum of Natural Science'
+            : '國立自然科學博物館',
+        url: 'https://www.nmns.edu.tw/ch/',
+        domain: 'nmns.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Museum of Marine Biology'
+            : '國立海洋生物博物館',
+        url: 'https://www.nmmba.gov.tw/',
+        domain: 'nmmba.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Museum of Taiwan Literature'
+            : '國立台灣文學館',
+        url: 'https://www.nmtl.gov.tw/',
+        domain: 'nmtl.gov.tw',
       },
     ],
   },
-  {
-    title: '🈶 語言學習',
-    projects: [
+  healthcare: {
+    title: t('resources.section.healthcare.title'),
+    description: t('resources.section.healthcare.desc'),
+    sites: [
       {
-        name: 'iTaigi 愛台語',
-        desc: '台語學習與發音練習平台，收錄台語詞彙與語音',
-        tech: 'Django / React',
-        url: 'https://itaigi.tw/',
-        github: 'https://github.com/i3thuan5/itaigi',
+        name: lang === 'en' ? 'Centers for Disease Control' : '疾病管制署',
+        url: 'https://www.cdc.gov.tw/',
+        domain: 'cdc.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'National Health Insurance Administration'
+            : '中央健康保險署',
+        url: 'https://www.nhi.gov.tw/',
+        domain: 'nhi.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of Health and Welfare' : '衛生福利部',
+        url: 'https://www.mohw.gov.tw/',
+        domain: 'mohw.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'National Taiwan University Hospital' : '台大醫院',
+        url: 'https://www.ntuh.gov.tw/ntuh/Index.action',
+        domain: 'ntuh.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'Taipei Veterans General Hospital' : '台北榮民總醫院',
+        url: 'https://www.vghtpe.gov.tw/',
+        domain: 'vghtpe.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Chang Gung Medical Foundation' : '長庚醫療體系',
+        url: 'https://www.cgmh.org.tw/',
+        domain: 'cgmh.org.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'China Medical University Hospital'
+            : '中國醫藥大學附設醫院',
+        url: 'https://www.cmuh.cmu.edu.tw/',
+        domain: 'cmuh.cmu.edu.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Kaohsiung Medical University Hospital'
+            : '高雄醫學大學附設醫院',
+        url: 'https://www.kmuh.org.tw/',
+        domain: 'kmuh.org.tw',
       },
     ],
   },
-];
+  ngoSociety: {
+    title: t('resources.section.ngoSociety.title'),
+    description: t('resources.section.ngoSociety.desc'),
+    sites: [
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Association for Human Rights'
+            : '台灣人權促進會',
+        url: 'https://www.tahr.org.tw/',
+        domain: 'tahr.org.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Environmental Information Association'
+            : '台灣環境資訊協會',
+        url: 'https://teia.tw/',
+        domain: 'teia.tw',
+      },
+      {
+        name: lang === 'en' ? 'Society of Wilderness' : '荒野保護協會',
+        url: 'https://www.sow.org.tw/',
+        domain: 'sow.org.tw',
+      },
+      {
+        name: lang === 'en' ? 'Open Culture Foundation' : '開放文化基金會',
+        url: 'https://ocf.tw/',
+        domain: 'ocf.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taiwan FactCheck Center' : '台灣事實查核中心',
+        url: 'https://tfc-taiwan.org.tw/',
+        domain: 'tfc-taiwan.org.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Network Information Center'
+            : '財團法人台灣網路資訊中心',
+        url: 'https://www.twnic.net.tw/',
+        domain: 'twnic.net.tw',
+      },
+      {
+        name: lang === 'en' ? 'Wikimedia Taiwan' : '台灣維基媒體協會',
+        url: 'https://wikimedia.tw/',
+        domain: 'wikimedia.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Taiwan Digital Diplomacy Association'
+            : '台灣數位外交協會',
+        url: 'https://www.digitaldiplomacy.tw/',
+        domain: 'digitaldiplomacy.tw',
+      },
+    ],
+  },
+  ministries: {
+    title: t('resources.section.ministries.title'),
+    description: t('resources.section.ministries.desc'),
+    sites: [
+      {
+        name: lang === 'en' ? 'Ministry of the Interior' : '內政部',
+        url: 'https://www.moi.gov.tw/',
+        domain: 'moi.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Judicial Yuan' : '司法院',
+        url: 'https://www.judicial.gov.tw/',
+        domain: 'judicial.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Development Council' : '國家發展委員會',
+        url: 'https://www.ndc.gov.tw/',
+        domain: 'ndc.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Mainland Affairs Council' : '大陸委員會',
+        url: 'https://www.mac.gov.tw/',
+        domain: 'mac.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of Labor' : '勞動部',
+        url: 'https://www.mol.gov.tw/',
+        domain: 'mol.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of Environment' : '環境部',
+        url: 'https://www.moenv.gov.tw/',
+        domain: 'moenv.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of Agriculture' : '農業部',
+        url: 'https://www.moa.gov.tw/',
+        domain: 'moa.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of National Defense' : '國防部',
+        url: 'https://www.mnd.gov.tw/',
+        domain: 'mnd.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Ministry of Justice' : '法務部',
+        url: 'https://www.moj.gov.tw/',
+        domain: 'moj.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Bureau of Foreign Trade' : '經濟部國際貿易署',
+        url: 'https://www.trade.gov.tw/',
+        domain: 'trade.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Small and Medium Enterprise Administration'
+            : '中小及新創企業署',
+        url: 'https://www.sme.gov.tw/',
+        domain: 'sme.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'Intellectual Property Office' : '經濟部智慧財產局',
+        url: 'https://www.tipo.gov.tw/',
+        domain: 'tipo.gov.tw',
+      },
+      {
+        name:
+          lang === 'en'
+            ? 'Financial Supervisory Commission'
+            : '金融監督管理委員會',
+        url: 'https://www.fsc.gov.tw/',
+        domain: 'fsc.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Invest Taiwan' : '投資台灣',
+        url: 'https://investtaiwan.nat.gov.tw/',
+        domain: 'investtaiwan.nat.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'National Immigration Agency' : '內政部移民署',
+        url: 'https://www.immigration.gov.tw/',
+        domain: 'immigration.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Central Weather Administration' : '中央氣象署',
+        url: 'https://www.cwa.gov.tw/',
+        domain: 'cwa.gov.tw',
+      },
+    ],
+  },
+  companies: {
+    title: t('resources.section.companies.title'),
+    description: t('resources.section.companies.desc'),
+    sites: [
+      {
+        name:
+          lang === 'en' ? 'United Microelectronics Corporation' : '聯華電子',
+        url: 'https://www.umc.com/',
+        domain: 'umc.com',
+      },
+      {
+        name: lang === 'en' ? 'Foxconn Technology' : '鴻海科技',
+        url: 'https://www.foxconn.com/',
+        domain: 'foxconn.com',
+      },
+      {
+        name: lang === 'en' ? 'Delta Electronics' : '台達電子',
+        url: 'https://www.deltaww.com/',
+        domain: 'deltaww.com',
+      },
+      {
+        name: 'Taiwan Excellence',
+        url: 'https://www.taiwanexcellence.org/en',
+        domain: 'taiwanexcellence.org',
+      },
+      {
+        name: lang === 'en' ? 'Taipei Exchange' : '櫃檯買賣中心',
+        url: 'https://www.tpex.org.tw/',
+        domain: 'tpex.org.tw',
+      },
+      {
+        name: lang === 'en' ? 'Chunghwa Telecom' : '中華電信',
+        url: 'https://www.cht.com.tw/',
+        domain: 'cht.com.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taiwan Power Company' : '台灣電力公司',
+        url: 'https://www.taipower.com.tw/',
+        domain: 'taipower.com.tw',
+      },
+    ],
+  },
+  mediaExtra: {
+    title: t('resources.section.mediaExtra.title'),
+    description: t('resources.section.mediaExtra.desc'),
+    sites: [
+      {
+        name: 'Focus Taiwan',
+        url: 'https://focustaiwan.tw/',
+        domain: 'focustaiwan.tw',
+      },
+      {
+        name: 'Taiwan Today',
+        url: 'https://www.taiwantoday.tw/',
+        domain: 'taiwantoday.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taiwan Panorama Magazine' : '台灣光華雜誌',
+        url: 'https://www.taiwan-panorama.com/',
+        domain: 'taiwan-panorama.com',
+      },
+      {
+        name: lang === 'en' ? 'Radio Taiwan International' : '中央廣播電台',
+        url: 'https://www.rti.org.tw/',
+        domain: 'rti.org.tw',
+      },
+      {
+        name: lang === 'en' ? 'United Daily News' : '聯合新聞網',
+        url: 'https://udn.com/',
+        domain: 'udn.com',
+      },
+      {
+        name: lang === 'en' ? 'Liberty Times' : '自由時報',
+        url: 'https://www.ltn.com.tw/',
+        domain: 'ltn.com.tw',
+      },
+      {
+        name: lang === 'en' ? 'TVBS News' : 'TVBS新聞網',
+        url: 'https://news.tvbs.com.tw/',
+        domain: 'news.tvbs.com.tw',
+      },
+      {
+        name: lang === 'en' ? 'SET News' : '三立新聞網',
+        url: 'https://www.setn.com/',
+        domain: 'setn.com',
+      },
+      {
+        name: lang === 'en' ? 'EBC News' : '東森新聞',
+        url: 'https://news.ebc.net.tw/',
+        domain: 'news.ebc.net.tw',
+      },
+      {
+        name: lang === 'en' ? 'The News Lens' : '關鍵評論網',
+        url: 'https://www.thenewslens.com/',
+        domain: 'thenewslens.com',
+      },
+      {
+        name: lang === 'en' ? 'CommonWealth Magazine' : '天下雜誌',
+        url: 'https://www.cw.com.tw/',
+        domain: 'cw.com.tw',
+      },
+    ],
+  },
+  transportation: {
+    title: t('resources.section.transportation.title'),
+    description: t('resources.section.transportation.desc'),
+    sites: [
+      {
+        name: lang === 'en' ? 'Taiwan Railway' : '台灣鐵路',
+        url: 'https://www.railway.gov.tw/tra-tip-web/tip',
+        domain: 'railway.gov.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taiwan High Speed Rail' : '台灣高速鐵路',
+        url: 'https://www.thsrc.com.tw/',
+        domain: 'thsrc.com.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taiwan Tourist Shuttle' : '台灣好行',
+        url: 'https://www.taiwantrip.com.tw/',
+        domain: 'taiwantrip.com.tw',
+      },
+      {
+        name: lang === 'en' ? 'Taoyuan International Airport' : '桃園國際機場',
+        url: 'https://www.taoyuan-airport.com/',
+        domain: 'taoyuan-airport.com',
+      },
+      {
+        name: lang === 'en' ? 'Taipei Metro' : '台北捷運',
+        url: 'https://www.metro.taipei/',
+        domain: 'metro.taipei',
+      },
+      {
+        name: lang === 'en' ? 'Kaohsiung Metro' : '高雄捷運',
+        url: 'https://www.krtco.com.tw/',
+        domain: 'krtco.com.tw',
+      },
+    ],
+  },
+  digitalCulture: {
+    title: t('resources.section.digitalCulture.title'),
+    description: t('resources.section.digitalCulture.desc'),
+    sites: [
+      {
+        name: lang === 'en' ? 'Digital Taiwan' : '典藏台灣',
+        url: 'https://digitalarchives.tw/',
+        domain: 'digitalarchives.tw',
+      },
+      {
+        name: lang === 'en' ? 'SciTech Vista' : '科技大觀園',
+        url: 'https://scitechvista.nat.gov.tw/',
+        domain: 'scitechvista.nat.gov.tw',
+      },
+      {
+        name:
+          lang === 'en' ? 'National Cultural Memory Bank' : '國家文化記憶庫',
+        url: 'https://tcmb.culture.tw/zh-tw',
+        domain: 'tcmb.culture.tw',
+      },
+      {
+        name: lang === 'en' ? 'TAICCA' : '文策院 TAICCA',
+        url: 'https://taicca.tw/',
+        domain: 'taicca.tw',
+      },
+    ],
+  },
+};
 
-// Build mindmap data for D3.js
-const mindmapNodes = [
+type MindMapNode = {
+  id: string;
+  label: string;
+  group: string;
+  size: number;
+  color: string;
+  url?: string;
+};
+
+// Build hero mindmap data
+const mindmapNodes: MindMapNode[] = [
   {
-    id: 'center',
-    name: '🇹🇼 Taiwan Resources',
-    label: '🇹🇼 Taiwan Resources',
+    id: 'taiwan',
+    label: t('resources.mindmap.root.label'),
     group: 'center',
-    size: 20,
+    size: 26,
     color: '#065f46',
   },
 ];
 
-heroData.categories.forEach((cat) => {
-  mindmapNodes.push({
-    id: cat.id,
-    name: cat.label,
-    label: cat.label,
-    group: cat.id,
-    size: 15,
-    color: cat.color,
-    url: '',
-  });
+const mindmapEdges: { source: string; target: string }[] = [];
 
-  cat.sites.forEach((site, index) => {
+// Add category nodes and edges (only hero data)
+heroData.categories.forEach((category) => {
+  mindmapNodes.push({
+    id: category.id,
+    label: category.label,
+    group: category.id,
+    size: 16,
+    color: category.color,
+  });
+  mindmapEdges.push({ source: 'taiwan', target: category.id });
+
+  // Add site nodes
+  category.sites.forEach((site, index) => {
+    const nodeId = `${category.id}_${index}`;
     mindmapNodes.push({
-      id: `${cat.id}_${index}`,
-      name: site.name,
+      id: nodeId,
       label: site.name,
-      group: cat.id,
+      group: category.id,
       size: 8,
-      color: cat.color,
+      color: category.color,
       url: site.url,
     });
+    mindmapEdges.push({ source: category.id, target: nodeId });
   });
 });
 
 const mindmapData = JSON.stringify({
   nodes: mindmapNodes,
-  links: [], // D3.js will generate links based on hierarchy
+  edges: mindmapEdges,
 });
 ---
 
-<Layout title={t('resources.meta.title')} description={t('resources.meta.description')}>
-  <main class="resources-hub">
-    <!-- Hero Section with Mindmap -->
-    <section class="hero">
+<Layout
+  title={t('resources.meta.title')}
+  description={t('resources.meta.description')}
+  lang={lang}
+>
+  <main class="resources-page">
+    <div class="container">
+      <!-- Hero Section -->
+      <section class="hero">
+        <div class="hero-content">
+          <h1 class="hero-title">{t('resources.hero.title')}</h1>
+          <p
+            class="hero-subtitle"
+            set:html={t('resources.hero.subtitle.html')}
+          />
+        </div>
+
+        <!-- Resources Mindmap -->
+        <div class="resources-mindmap">
+          <div id="resources-graph"></div>
+        </div>
+      </section>
+
+      <!-- Breadcrumb -->
       <nav class="breadcrumb">
         <a href={translatePath('/')}>{t('resources.breadcrumb.home')}</a>
-        <span class="separator">→</span>
+        <span class="separator">›</span>
         <span class="current">{t('resources.breadcrumb.current')}</span>
       </nav>
 
-      <h1 class="hero-title">
-        <span class="hero-emoji">📚</span>
-        {t('resources.hero.title')}
-      </h1>
-      
-      <div class="hero-subtitle" set:html={t('resources.hero.subtitle.html')} />
-
-      <!-- Interactive Mindmap -->
-      <div class="mindmap-container">
-        <div id="resources-graph"></div>
-      </div>
-    </section>
-
-    <!-- Chapter 1: 政府入口 -->
-    <section class="chapter-section" id="government">
-      <div class="section-divider">
-        <div class="divider-line"></div>
+      <!-- 核心精選 Section (來自心智圖) -->
+      <div class="core-header">
+        <h2 class="NotoSerif">{t('resources.core.title')}</h2>
+        <p class="section-desc">{t('resources.core.desc')}</p>
       </div>
 
-      <div class="story-intro">
-        <h2 class="section-title">📋 走進台灣的起點</h2>
-        <div class="story-text">
-          <p>如果你想真正了解一個國家，從它的政府網站開始。台灣的數位政府不只是政務數位化，更是民主透明的具體實踐。</p>
-          <p>從總統府到各部會，從中央到地方，每一個官方網站都承載著治理的智慧與人民的期待。這裡是了解台灣政策脈動、掌握官方資訊的第一站。</p>
-        </div>
-      </div>
-
-      <!-- Insight Cards -->
-      <div class="insight-grid">
-        <div class="insight-card">
-          <div class="card-emoji">🏛️</div>
-          <div class="card-number">5</div>
-          <div class="card-label">院級機關</div>
-          <div class="card-context">總統府及五院體制</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🏢</div>
-          <div class="card-number">20+</div>
-          <div class="card-label">各部會署</div>
-          <div class="card-context">完整行政體系</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🏙️</div>
-          <div class="card-number">22</div>
-          <div class="card-label">縣市政府</div>
-          <div class="card-context">地方治理網絡</div>
-        </div>
-      </div>
-
-      <!-- Sites Grid -->
-      <div class="sites-grid">
-        {governmentSites.map((site) => (
-          <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
-            <div class="site-header">
-              <h3 class="site-name">{site.name}</h3>
-              <div class="site-domain">{site.domain}</div>
-            </div>
-            <div class="site-arrow">→</div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <!-- Chapter 2: 文化與知識殿堂 -->
-    <section class="chapter-section" id="culture">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">🎭 文化與知識殿堂</h2>
-        <div class="story-text">
-          <p>台灣每 23 公里就有一座博物館，高等教育密度更是全球之冠。從故宮的華夏文明到台大的學術殿堂，從國家公園的自然瑰寶到兩廳院的藝術舞台。</p>
-          <p>這裡匯聚的不只是知識的寶庫，更是台灣文化底蘊的精華展現。無論你是學者、藝術愛好者，還是好奇的旅人，都能在這片文化沃土中找到養分。</p>
-        </div>
-      </div>
-
-      <!-- Insight Cards -->
-      <div class="insight-grid">
-        <div class="insight-card">
-          <div class="card-emoji">🎓</div>
-          <div class="card-number">159</div>
-          <div class="card-label">所大學</div>
-          <div class="card-context">高教密度全球最高</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🏛️</div>
-          <div class="card-number">500+</div>
-          <div class="card-label">座博物館</div>
-          <div class="card-context">每23公里一座</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🏔️</div>
-          <div class="card-number">9</div>
-          <div class="card-label">座國家公園</div>
-          <div class="card-context">覆蓋國土8.6%</div>
-        </div>
-      </div>
-
-      <!-- Sites Grid -->
-      <div class="sites-grid">
-        {culturalSites.map((site) => (
-          <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
-            <div class="site-header">
-              <h3 class="site-name">{site.name}</h3>
-              <div class="site-domain">{site.domain}</div>
-            </div>
-            <div class="site-arrow">→</div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <!-- Chapter 3: 聽見台灣的聲音 -->
-    <section class="chapter-section" id="media">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">📰 聽見台灣的聲音</h2>
-        <div class="story-text">
-          <p>從傳統媒體到數位原生，從PTT的鄉民文化到g0v的公民科技，台灣的公共討論從未停止。這是一個多元聲音並存、民主對話蓬勃的社會縮影。</p>
-          <p>在這裡，你可以聽見最即時的新聞脈動，感受最真實的民意流向，也能參與最前沿的公民運動。每一個聲音都值得被聽見，每一份關懷都推動著社會向前。</p>
-        </div>
-      </div>
-
-      <!-- Insight Cards -->
-      <div class="insight-grid">
-        <div class="insight-card">
-          <div class="card-emoji">💬</div>
-          <div class="card-number">20萬</div>
-          <div class="card-label">PTT日活躍</div>
-          <div class="card-context">最大討論板平台</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">📺</div>
-          <div class="card-number">100+</div>
-          <div class="card-label">家媒體機構</div>
-          <div class="card-context">多元資訊來源</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🤝</div>
-          <div class="card-number">1000+</div>
-          <div class="card-label">個NGO組織</div>
-          <div class="card-context">活躍公民社會</div>
-        </div>
-      </div>
-
-      <!-- Sites Grid -->
-      <div class="sites-grid">
-        {mediaSites.map((site) => (
-          <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
-            <div class="site-header">
-              <h3 class="site-name">{site.name}</h3>
-              <div class="site-domain">{site.domain}</div>
-            </div>
-            <div class="site-arrow">→</div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <!-- Chapter 4: 台灣的經濟引擎 -->
-    <section class="chapter-section" id="economy">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">🏢 台灣的經濟引擎</h2>
-        <div class="story-text">
-          <p>從台積電的全球晶片霸主地位到高鐵的99.5%準點率，從健保制度的全民覆蓋到捷運系統的便民設計，這些企業與機構共同定義了現代台灣的面貌。</p>
-          <p>台灣經濟的韌性不只來自科技創新，更來自對品質的堅持與對服務的用心。在這裡，你能看見台灣如何在全球產業鏈中佔據關鍵地位，也能體驗到讓生活更美好的各種服務。</p>
-        </div>
-      </div>
-
-      <!-- Insight Cards -->
-      <div class="insight-grid">
-        <div class="insight-card">
-          <div class="card-emoji">💎</div>
-          <div class="card-number">92%</div>
-          <div class="card-label">全球晶片市占</div>
-          <div class="card-context">台積電先進製程</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🚄</div>
-          <div class="card-number">99.5%</div>
-          <div class="card-label">高鐵準點率</div>
-          <div class="card-context">世界級運輸品質</div>
-        </div>
-        <div class="insight-card">
-          <div class="card-emoji">🏥</div>
-          <div class="card-number">99.9%</div>
-          <div class="card-label">健保覆蓋率</div>
-          <div class="card-context">全民醫療保障</div>
-        </div>
-      </div>
-
-      <!-- Sites Grid -->
-      <div class="sites-grid">
-        {economicSites.map((site) => (
-          <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card">
-            <div class="site-header">
-              <h3 class="site-name">{site.name}</h3>
-              <div class="site-domain">{site.domain}</div>
-            </div>
-            <div class="site-arrow">→</div>
-          </a>
-        ))}
-      </div>
-    </section>
-
-    <!-- Chapter 5: 社群專案 -->
-    <section class="chapter-section" id="community">
-      <div class="section-divider">
-        <div class="divider-line"></div>
-      </div>
-
-      <div class="story-intro">
-        <h2 class="section-title">🚀 社群專案</h2>
-        <div class="story-text">
-          <p>來自社群的創意與熱情，用程式碼認識台灣。這些由開發者、設計師、數據科學家共同打造的專案，用不同的視角詮釋著寶島的美好。</p>
-          <p>從美食地圖到交通資訊，從開放資料到語言學習，每一個專案都承載著創作者對台灣的愛與對技術的熱忱。開源協作的精神在這裡發光發熱。</p>
-        </div>
-      </div>
-
-      <!-- Community Projects -->
-      <div class="projects-container">
-        {communityProjects.map((category) => (
-          <div class="project-category">
-            <h3 class="category-title">{category.title}</h3>
-            <div class="projects-grid">
-              {category.projects.map((project) => (
-                <div class="project-card">
-                  <div class="project-header">
-                    <h4 class="project-name">{project.name}</h4>
-                    <div class="project-tech">{project.tech}</div>
+      {
+        heroData.categories.map((category) => (
+          <section class="resource-section">
+            <h3>{category.label}</h3>
+            <div class="site-grid">
+              {category.sites.map((site) => (
+                <a
+                  href={site.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="site-card"
+                >
+                  <img
+                    src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                    alt=""
+                    class="site-favicon"
+                    loading="lazy"
+                    onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                  />
+                  <div class="site-info">
+                    <div class="site-name">{site.name}</div>
+                    <div class="site-domain">{site.domain}</div>
                   </div>
-                  <p class="project-desc">{project.desc}</p>
-                  <div class="project-actions">
-                    <a href={project.url} target="_blank" rel="noopener noreferrer" class="project-action-primary">
-                      <span>訪問</span>
-                      <span>→</span>
-                    </a>
-                    <a href={project.github} target="_blank" rel="noopener noreferrer" class="project-action-secondary">
-                      <span>GitHub</span>
-                    </a>
-                  </div>
-                </div>
+                </a>
               ))}
             </div>
+          </section>
+        ))
+      }
+
+      <div class="more-header">
+        <h2 class="NotoSerif">{t('resources.more.title')}</h2>
+        <p class="section-desc">{t('resources.more.desc')}</p>
+      </div>
+
+      <!-- 地方政府 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.localGov.title}</h2>
+        <p class="section-desc">{sectionData.localGov.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.localGov.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 大學與研究機構 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.universities.title}</h2>
+        <p class="section-desc">{sectionData.universities.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.universities.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 國家公園 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.nationalParks.title}</h2>
+        <p class="section-desc">{sectionData.nationalParks.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.nationalParks.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 藝文場館 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.artsCulture.title}</h2>
+        <p class="section-desc">{sectionData.artsCulture.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.artsCulture.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 醫療健康 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.healthcare.title}</h2>
+        <p class="section-desc">{sectionData.healthcare.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.healthcare.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- NGO / 公民社會 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.ngoSociety.title}</h2>
+        <p class="section-desc">{sectionData.ngoSociety.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.ngoSociety.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 各部會署 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.ministries.title}</h2>
+        <p class="section-desc">{sectionData.ministries.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.ministries.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 重要企業 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.companies.title}</h2>
+        <p class="section-desc">{sectionData.companies.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.companies.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 傳統媒體 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.mediaExtra.title}</h2>
+        <p class="section-desc">{sectionData.mediaExtra.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.mediaExtra.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 交通運輸 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.transportation.title}</h2>
+        <p class="section-desc">{sectionData.transportation.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.transportation.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 數位文化 Section -->
+      <section class="resource-section">
+        <h2>{sectionData.digitalCulture.title}</h2>
+        <p class="section-desc">{sectionData.digitalCulture.description}</p>
+        <div class="site-grid">
+          {
+            sectionData.digitalCulture.sites.map((site) => (
+              <a
+                href={site.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="site-card"
+              >
+                <img
+                  src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=64`}
+                  alt=""
+                  class="site-favicon"
+                  loading="lazy"
+                  onerror="this.onerror=null;this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>';"
+                />
+                <div class="site-info">
+                  <div class="site-name">{site.name}</div>
+                  <div class="site-domain">{site.domain}</div>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+
+      <!-- 🚀 社群專案 Section -->
+      <div id="projects" class="core-header">
+        <h2 class="NotoSerif">{t('resources.projects.title')}</h2>
+        <p class="section-desc">{t('resources.projects.desc')}</p>
+      </div>
+
+      <div class="projects-grid">
+        <div class="project-category">
+          <h3
+            class="project-cat-title"
+            style="border-left: 4px solid #e11d48; padding-left: 0.75rem;"
+          >
+            {t('resources.projects.food.title')}
+          </h3>
+          <div class="project-card">
+            <div class="card-header">
+              <h3 class="project-name">
+                <a
+                  href="https://hsieh-george.github.io/taipei-burger-map/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('resources.projects.food.burger.name')}
+                </a>
+              </h3>
+            </div>
+            <div class="project-tech">
+              {t('resources.projects.food.burger.tech')}
+            </div>
+            <div class="project-desc">
+              {t('resources.projects.food.burger.desc')}
+            </div>
+            <div class="card-footer">
+              <a
+                href="https://github.com/hsieh-george/taipei-burger-map"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="project-action project-action-secondary"
+                aria-label={lang === 'en'
+                  ? 'View GitHub repository'
+                  : '查看 GitHub 專案'}
+              >
+                {t('resources.projects.github.link')}
+              </a>
+            </div>
           </div>
-        ))}
+        </div>
+
+        <div class="project-category">
+          <h3
+            class="project-cat-title"
+            style="border-left: 4px solid #7c3aed; padding-left: 0.75rem;"
+          >
+            {t('resources.projects.nightmarket.title')}
+          </h3>
+          <div class="project-card">
+            <div class="card-header">
+              <h3 class="project-name">
+                <a
+                  href="https://github.com/hsiu0305/NightMarketSwift"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  {t('resources.projects.nightmarket.app.name')}
+                </a>
+              </h3>
+            </div>
+            <div class="project-tech">
+              {t('resources.projects.nightmarket.app.tech')}
+            </div>
+            <div class="project-desc">
+              {t('resources.projects.nightmarket.app.desc')}
+            </div>
+          </div>
+        </div>
+
+        <div class="project-category">
+          <h3
+            class="project-cat-title"
+            style="border-left: 4px solid #059669; padding-left: 0.75rem;"
+          >
+            {t('resources.projects.civictech.title')}
+          </h3>
+          <div class="project-list">
+            <div class="project-card">
+              <div class="card-header">
+                <h3 class="project-name">
+                  <a
+                    href="https://g0v.tw/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {t('resources.projects.civictech.g0v.name')}
+                  </a>
+                </h3>
+              </div>
+              <div class="project-tech">
+                {t('resources.projects.civictech.g0v.tech')}
+              </div>
+              <div class="project-desc">
+                {t('resources.projects.civictech.g0v.desc')}
+              </div>
+              <div class="card-footer">
+                <a
+                  href="https://github.com/g0v"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="project-action project-action-secondary"
+                  aria-label={lang === 'en'
+                    ? 'View GitHub repository'
+                    : '查看 GitHub 專案'}
+                >
+                  {t('resources.projects.github.link')}
+                </a>
+              </div>
+            </div>
+            <div class="project-card">
+              <div class="card-header">
+                <h3 class="project-name">
+                  <a
+                    href="https://cofacts.tw/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {t('resources.projects.civictech.cofacts.name')}
+                  </a>
+                </h3>
+              </div>
+              <div class="project-tech">
+                {t('resources.projects.civictech.cofacts.tech')}
+              </div>
+              <div class="project-desc">
+                {t('resources.projects.civictech.cofacts.desc')}
+              </div>
+              <div class="card-footer">
+                <a
+                  href="https://github.com/cofacts"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="project-action project-action-secondary"
+                  aria-label={lang === 'en'
+                    ? 'View GitHub repository'
+                    : '查看 GitHub 專案'}
+                >
+                  {t('resources.projects.github.link')}
+                </a>
+              </div>
+            </div>
+            <div class="project-card">
+              <div class="card-header">
+                <h3 class="project-name">
+                  <a
+                    href="https://disfactory.tw/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {t('resources.projects.civictech.disfactory.name')}
+                  </a>
+                </h3>
+              </div>
+              <div class="project-tech">
+                {t('resources.projects.civictech.disfactory.tech')}
+              </div>
+              <div class="project-desc">
+                {t('resources.projects.civictech.disfactory.desc')}
+              </div>
+              <div class="card-footer">
+                <a
+                  href="https://github.com/Disfactory"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="project-action project-action-secondary"
+                  aria-label={lang === 'en'
+                    ? 'View GitHub repository'
+                    : '查看 GitHub 專案'}
+                >
+                  {t('resources.projects.github.link')}
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <div class="projects-cta">
-        有很棒的專案想要推薦？<a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">在 GitHub 上提交建議</a>！
+        <p set:html={t('resources.projects.cta.html')} />
       </div>
-    </section>
+
+      <!-- Back to Home -->
+      <div class="back-to-home">
+        <a href={translatePath('/')} class="btn-primary">
+          {t('resources.backToHome')}
+        </a>
+      </div>
+    </div>
   </main>
 </Layout>
 
 <style>
-  .resources-hub {
+  .resources-page {
     min-height: 100vh;
-    background: #f8fafc;
-    color: #1a1a2e;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
   }
 
   /* Hero Section */
   .hero {
     text-align: center;
-    padding: 2rem 2rem 3rem;
-    max-width: 1400px;
-    margin: 0 auto;
-    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+    margin-bottom: 3rem;
+    padding: 4rem 0;
   }
 
+  /* Resources Mindmap */
+  .resources-mindmap {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 50%, #a7f3d0 100%);
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+
+  #resources-graph {
+    overflow: visible;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    height: auto;
+    min-height: 700px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 900;
+    background: linear-gradient(135deg, #065f46, #059669, #10b981);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+
+  .hero-subtitle {
+    font-size: 1.3rem;
+    color: #64748b;
+    line-height: 1.7;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* Breadcrumb */
   .breadcrumb {
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 0.5rem;
-    margin-bottom: 2rem;
-    font-size: 0.9rem;
+    margin-bottom: 3rem;
+    font-size: 0.95rem;
     color: #64748b;
   }
 
   .breadcrumb a {
-    color: #3b82f6;
+    color: #059669;
     text-decoration: none;
+    transition: color 0.2s ease;
   }
 
   .breadcrumb a:hover {
-    text-decoration: underline;
+    color: #065f46;
   }
 
   .separator {
@@ -1019,306 +1704,311 @@ const mindmapData = JSON.stringify({
 
   .current {
     font-weight: 600;
-    color: #1a1a2e;
+    color: #374151;
   }
 
-  .hero-title {
-    font-size: clamp(2.5rem, 6vw, 4rem);
-    font-weight: 900;
-    background: linear-gradient(135deg, #3b82f6, #6366f1, #8b5cf6);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 1rem;
+  /* Section Styling */
+  .core-header,
+  .more-header {
+    margin: 4rem 0 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid #e2e8f0;
   }
-
-  .hero-emoji {
-    -webkit-text-fill-color: initial;
-    background: none;
-    -webkit-background-clip: initial;
-    background-clip: initial;
+  .core-header h2,
+  .more-header h2 {
+    font-size: 2rem;
+    color: #065f46;
+    margin-bottom: 0.5rem;
   }
-
-  .hero-subtitle {
-    font-size: clamp(1.1rem, 3vw, 1.3rem);
+  .resource-section h3 {
+    font-size: 1.25rem;
     color: #475569;
+    margin-bottom: 1.5rem;
+    padding-left: 0.75rem;
+    border-left: 4px solid #065f46;
+  }
+  .resource-section {
+    margin-bottom: 4rem;
+  }
+
+  .resource-section h2 {
+    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #065f46;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .section-desc {
+    font-size: 1.1rem;
+    color: #64748b;
     margin-bottom: 2rem;
-    font-weight: 500;
     line-height: 1.6;
   }
 
-  /* Mindmap */
-  .mindmap-container {
-    margin: 2rem 0;
-    background: white;
-    border-radius: 16px;
-    border: 1px solid #e2e8f0;
-    overflow: hidden;
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  }
-
-  #resources-graph {
-    width: 100%;
-    height: 500px;
-    position: relative;
-  }
-
-  /* Section Structure */
-  .chapter-section {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 2rem;
-  }
-
-  .section-divider {
-    padding: 3rem 0 2rem;
-    display: flex;
-    justify-content: center;
-  }
-
-  .divider-line {
-    width: 100px;
-    height: 3px;
-    background: linear-gradient(90deg, transparent, #3b82f6, transparent);
-    border-radius: 2px;
-  }
-
-  .story-intro {
-    margin-bottom: 3rem;
-  }
-
-  .section-title {
-    font-size: 2.2rem;
-    font-weight: 800;
-    color: #1a1a2e;
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-
-  .story-text {
-    background: white;
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 2rem;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  }
-
-  .story-text p {
-    color: #475569;
-    line-height: 1.8;
-    margin-bottom: 1rem;
-    font-size: 1rem;
-  }
-
-  .story-text p:first-child {
-    font-size: 1.1rem;
-    color: #3b82f6;
-    font-weight: 600;
-  }
-
-  .story-text p:last-child {
-    margin-bottom: 0;
-  }
-
-  /* Insight Cards */
-  .insight-grid {
+  /* Site Grid */
+  .site-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 1.5rem;
-    margin-bottom: 3rem;
-  }
-
-  .insight-card {
-    background: white;
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 2rem;
-    text-align: center;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-  }
-
-  .insight-card:hover {
-    border-color: #3b82f6;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px 0 rgba(59, 130, 246, 0.15);
-  }
-
-  .card-emoji {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
-
-  .card-number {
-    font-size: 2.2rem;
-    font-weight: 900;
-    color: #3b82f6;
-    margin-bottom: 0.5rem;
-    line-height: 1;
-  }
-
-  .card-label {
-    font-size: 1rem;
-    font-weight: 700;
-    color: #1a1a2e;
-    margin-bottom: 0.25rem;
-  }
-
-  .card-context {
-    font-size: 0.85rem;
-    color: #64748b;
-  }
-
-  /* Sites Grid */
-  .sites-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1rem;
-    margin-bottom: 4rem;
   }
 
   .site-card {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 1.2rem 1.5rem;
+    gap: 0.75rem;
+    padding: 1.25rem;
     background: white;
-    border: 1px solid #e2e8f0;
     border-radius: 12px;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e5e7eb;
     text-decoration: none;
-    color: inherit;
-    transition: all 0.2s ease;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
   }
 
   .site-card:hover {
-    border-color: #3b82f6;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px 0 rgba(59, 130, 246, 0.15);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.1);
+    border-color: #d1fae5;
   }
 
-  .site-header {
+  .site-favicon {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+  }
+
+  .site-info {
     flex: 1;
+    min-width: 0;
   }
 
   .site-name {
     font-size: 1rem;
     font-weight: 600;
-    color: #1a1a2e;
+    color: #059669;
     margin-bottom: 0.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .site-domain {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     color: #64748b;
-    font-family: 'Courier New', monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
-  .site-arrow {
-    font-size: 1.2rem;
-    color: #3b82f6;
-    margin-left: 1rem;
-    transition: transform 0.2s ease;
-  }
-
-  .site-card:hover .site-arrow {
-    transform: translateX(3px);
-  }
-
-  /* Community Projects */
-  .projects-container {
-    margin-bottom: 3rem;
-  }
-
-  .project-category {
-    margin-bottom: 3rem;
-  }
-
-  .category-title {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #1a1a2e;
-    margin-bottom: 1.5rem;
+  /* Back to Home */
+  .back-to-home {
     text-align: center;
+    margin-top: 4rem;
+    padding-top: 3rem;
+    border-top: 2px solid #e5e7eb;
   }
 
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2.5rem;
+    background: linear-gradient(135deg, #065f46, #059669);
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.05rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+
+  .btn-primary:hover {
+    background: linear-gradient(135deg, #064e3b, #047857);
+    transform: translateY(-1px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .container {
+      padding: 1rem;
+    }
+
+    .hero {
+      padding: 2rem 0;
+    }
+
+    .hero-title {
+      font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+
+    .resource-section h2 {
+      font-size: 1.8rem;
+    }
+
+    .site-grid {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+
+    .site-card {
+      padding: 1rem;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 0.75rem;
+    }
+
+    .hero-title {
+      font-size: 2rem;
+    }
+
+    .resource-section h2 {
+      font-size: 1.5rem;
+    }
+
+    .site-card {
+      padding: 0.875rem;
+    }
+
+    .site-name {
+      font-size: 0.9rem;
+    }
+
+    .site-domain {
+      font-size: 0.8rem;
+    }
+  }
+
+  /* Projects Section */
   .projects-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .project-cat-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #1e293b;
+    margin-bottom: 1rem;
+  }
+
+  .project-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
   }
 
   .project-card {
     background: white;
-    border: 1px solid #e2e8f0;
-    border-radius: 16px;
-    padding: 2rem;
-    box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
+    border-radius: 12px;
+    padding: 1.25rem;
+    box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.08);
+    border: 1px solid #e5e7eb;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
   }
 
   .project-card:hover {
-    border-color: #3b82f6;
     transform: translateY(-2px);
-    box-shadow: 0 8px 25px 0 rgba(59, 130, 246, 0.15);
+    box-shadow: 0 8px 20px -4px rgba(0, 0, 0, 0.1);
+    border-color: #c4b5fd;
   }
 
-  .project-header {
-    margin-bottom: 1rem;
+  .card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.9rem;
   }
 
   .project-name {
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     font-weight: 700;
-    color: #1a1a2e;
-    margin-bottom: 0.5rem;
+    color: #1e293b;
+    margin: 0;
+    line-height: 1.35;
   }
 
-  .project-tech {
-    font-size: 0.8rem;
-    color: #64748b;
-    font-family: 'Courier New', monospace;
-    background: #f1f5f9;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
-    display: inline-block;
+  .project-name a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid #cbd5e1;
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease;
+  }
+
+  .project-name a:hover {
+    color: #3b82f6;
+    border-color: #94a3b8;
   }
 
   .project-desc {
-    color: #475569;
-    line-height: 1.6;
-    margin-bottom: 1.5rem;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
+    color: #64748b;
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
   }
 
-  .project-actions {
-    display: flex;
-    gap: 0.75rem;
-  }
-
-  .project-action-primary,
-  .project-action-secondary {
+  .card-footer {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.6rem 1.2rem;
+    justify-content: flex-end;
+    gap: 0.75rem;
+    margin-top: auto;
+  }
+
+  .card-footer-end {
+    justify-content: flex-end;
+  }
+
+  .project-tech {
+    width: fit-content;
+    background: #fdf2f8;
+    color: #e11d48;
+    padding: 0.45rem 0.9rem;
     border-radius: 8px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.2;
+    flex-shrink: 0;
+  }
+
+  .project-action {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.4rem;
+    height: 2.4rem;
+    padding: 0 0.9rem;
+    border-radius: 10px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 0.9rem;
-    transition: all 0.2s ease;
-  }
-
-  .project-action-primary {
-    background: #3b82f6;
-    color: white;
-    flex: 1;
-    justify-content: center;
-  }
-
-  .project-action-primary:hover {
-    background: #2563eb;
-    transform: translateY(-1px);
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease,
+      background-color 0.2s ease,
+      color 0.2s ease;
   }
 
   .project-action-secondary {
@@ -1329,79 +2019,19 @@ const mindmapData = JSON.stringify({
 
   .project-action-secondary:hover {
     background: #f1f5f9;
-    border-color: #cbd5e1;
   }
 
   .projects-cta {
     text-align: center;
-    margin-top: 2rem;
+    margin-bottom: 3rem;
     padding: 1rem;
     color: #64748b;
     font-size: 0.95rem;
   }
 
   .projects-cta a {
-    color: #3b82f6;
+    color: #7c3aed;
     text-decoration: underline;
-  }
-
-  /* Responsive */
-  @media (max-width: 768px) {
-    .hero {
-      padding: 2rem 1rem;
-    }
-
-    .chapter-section {
-      padding: 0 1rem;
-    }
-
-    .story-text {
-      padding: 1.5rem;
-    }
-
-    .section-title {
-      font-size: 1.8rem;
-    }
-
-    .insight-grid {
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1rem;
-    }
-
-    .sites-grid {
-      grid-template-columns: 1fr;
-      gap: 0.75rem;
-    }
-
-    .projects-grid {
-      grid-template-columns: 1fr;
-    }
-
-    #resources-graph {
-      height: 400px;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .insight-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .insight-card {
-      padding: 1.5rem;
-    }
-
-    .site-card {
-      padding: 1rem;
-    }
-
-    .project-card {
-      padding: 1.5rem;
-    }
-
-    .project-actions {
-      flex-direction: column;
-    }
   }
 </style>
 
