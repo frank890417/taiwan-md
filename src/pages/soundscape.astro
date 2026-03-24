@@ -22,6 +22,16 @@ const categories = [
         date: '2021-03',
         icon: '🚛',
       },
+      {
+        file: 'new-taipei-banqiao-garbage-truck-melody-fur-elise.mp3',
+        location: '新北板橋',
+        locationEn: 'New Taipei Banqiao',
+        description: '垃圾車音樂（給愛麗絲）',
+        descriptionEn: 'Garbage truck melody (Für Elise)',
+        contributor: 'yuweichen1008',
+        date: '2026-03',
+        icon: '🚛',
+      },
     ],
     wishlist: [
       { icon: '🚛', text: '各縣市垃圾車音樂', textEn: 'Garbage truck melodies (regional variations)' },
@@ -225,7 +235,7 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .hero-kicker {
     font-size: 0.9rem;
-    color: #ABC468;
+    color: #3b82f6;
     letter-spacing: 0.15em;
     text-transform: uppercase;
     margin-bottom: 0.5rem;
@@ -236,19 +246,19 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .hero-subtitle {
     font-size: 1.15rem;
-    color: #a1a1aa;
+    color: #475569;
     line-height: 1.8;
     margin-top: 0.8rem;
   }
   .hero-subtitle-en {
     font-size: 0.95rem;
-    color: #71717a;
+    color: #64748b;
     font-style: italic;
   }
   .hero-count {
     margin-top: 1rem;
     font-size: 0.85rem;
-    color: #52525b;
+    color: #64748b;
     letter-spacing: 0.1em;
   }
   .hero-article {
@@ -256,9 +266,9 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     font-size: 0.9rem;
   }
   .hero-article a {
-    color: #ABC468;
+    color: #3b82f6;
     text-decoration: none;
-    border-bottom: 1px dashed rgba(171, 196, 104, 0.4);
+    border-bottom: 1px dashed rgba(59, 130, 246, 0.4);
   }
   .hero-article a:hover {
     border-bottom-style: solid;
@@ -267,7 +277,7 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   .category-section {
     margin-bottom: 1rem;
     padding-bottom: 2rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+    border-bottom: 1px solid #e2e8f0;
   }
   .category-section:last-of-type {
     border-bottom: none;
@@ -289,7 +299,7 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .section-label {
     font-size: 0.85rem;
-    color: #71717a;
+    color: #64748b;
     font-weight: 400;
   }
 
@@ -300,14 +310,14 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     margin-bottom: 1.5rem;
   }
   .sound-card {
-    background: rgba(255, 255, 255, 0.03);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
     border-radius: 12px;
     padding: 1.5rem;
     transition: border-color 0.2s;
   }
   .sound-card:hover {
-    border-color: rgba(171, 196, 104, 0.3);
+    border-color: #3b82f6;
   }
   .sound-icon {
     font-size: 2rem;
@@ -319,16 +329,16 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .sound-location-en {
     font-size: 0.85rem;
-    color: #71717a;
+    color: #64748b;
     margin: 0 0 0.6rem;
   }
   .sound-desc {
-    color: #d4d4d8;
+    color: #334155;
     margin: 0 0 0.15rem;
   }
   .sound-desc-en {
     font-size: 0.85rem;
-    color: #71717a;
+    color: #64748b;
     margin: 0 0 0.8rem;
   }
   .sound-meta {
@@ -339,14 +349,14 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     margin-bottom: 1rem;
   }
   .contributor {
-    color: #ABC468;
+    color: #3b82f6;
     text-decoration: none;
   }
   .contributor:hover {
     text-decoration: underline;
   }
   .sound-date {
-    color: #52525b;
+    color: #64748b;
   }
   .sound-player {
     width: 100%;
@@ -355,15 +365,15 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
 
   .empty-state {
-    background: rgba(255, 255, 255, 0.02);
-    border: 1px dashed rgba(255, 255, 255, 0.1);
+    background: #f8fafc;
+    border: 1px dashed #cbd5e1;
     border-radius: 12px;
     padding: 2rem;
     text-align: center;
     margin-bottom: 1.5rem;
   }
   .empty-state p {
-    color: #71717a;
+    color: #64748b;
     margin: 0;
   }
   .empty-en {
@@ -377,7 +387,8 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .wishlist-inline h4 {
     font-size: 1rem;
-    color: #a1a1aa;
+    color: #334155;
+    font-weight: 600;
     margin-bottom: 0.8rem;
   }
   .wishlist-grid {
@@ -389,8 +400,8 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     display: flex;
     align-items: flex-start;
     gap: 0.6rem;
-    background: rgba(255, 255, 255, 0.02);
-    border: 1px solid rgba(255, 255, 255, 0.06);
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
     border-radius: 8px;
     padding: 0.8rem;
   }
@@ -400,26 +411,26 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   }
   .wishlist-text {
     margin: 0;
-    color: #d4d4d8;
+    color: #1a1a2e;
     font-size: 0.9rem;
+    font-weight: 500;
   }
   .wishlist-text-en {
     margin: 0.15rem 0 0;
     font-size: 0.78rem;
-    color: #71717a;
+    color: #475569;
   }
 
   .read-more {
     display: inline-block;
     margin-top: 0.5rem;
-    color: #ABC468;
+    color: #3b82f6;
     text-decoration: none;
     font-size: 0.9rem;
-    opacity: 0.8;
-    transition: opacity 0.2s;
+    transition: color 0.2s;
   }
   .read-more:hover {
-    opacity: 1;
+    color: #2563eb;
   }
 
   .contribute-cta {
@@ -427,12 +438,12 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     padding: 2rem 0;
   }
   .contribute-cta p {
-    color: #a1a1aa;
+    color: #475569;
     line-height: 1.8;
     margin-bottom: 1.5rem;
   }
   .contribute-cta a:not(.cta-btn) {
-    color: #ABC468;
+    color: #3b82f6;
   }
   .cta-steps {
     display: flex;
@@ -445,15 +456,15 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    color: #d4d4d8;
+    color: #334155;
     font-size: 0.95rem;
   }
   .step-num {
     width: 28px;
     height: 28px;
     border-radius: 50%;
-    background: rgba(171, 196, 104, 0.15);
-    color: #ABC468;
+    background: rgba(59, 130, 246, 0.1);
+    color: #3b82f6;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -464,17 +475,18 @@ const totalWishlist = categories.reduce((sum, cat) => sum + cat.wishlist.length,
   .cta-btn {
     display: inline-block;
     padding: 0.75rem 2rem;
-    background: rgba(171, 196, 104, 0.12);
-    border: 1px solid rgba(171, 196, 104, 0.3);
+    background: rgba(59, 130, 246, 0.08);
+    border: 1px solid rgba(59, 130, 246, 0.3);
     border-radius: 8px;
-    color: #ABC468;
+    color: #3b82f6;
     text-decoration: none;
     font-size: 0.95rem;
+    font-weight: 500;
     transition: all 0.2s;
   }
   .cta-btn:hover {
-    background: rgba(171, 196, 104, 0.2);
-    border-color: rgba(171, 196, 104, 0.5);
+    background: rgba(59, 130, 246, 0.15);
+    border-color: rgba(59, 130, 246, 0.5);
   }
 
   @media (max-width: 600px) {
