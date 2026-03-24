@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js",
+    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js && node scripts/build-search-index.mjs",
     "build": "astro build",
     "preview": "astro preview",
     "sync": "bash scripts/sync.sh",
@@ -25,6 +25,7 @@
     "astro": "^6.0.5",
     "gray-matter": "^4.0.3",
     "marked": "^17.0.4",
+    "minisearch": "^7.2.0",
     "rehype-external-links": "^3.0.0",
     "remark-wiki-link": "^2.0.1",
     "unist-util-visit": "^5.1.0"

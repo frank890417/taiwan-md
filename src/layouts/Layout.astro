@@ -291,16 +291,130 @@ const jfClass = [
     <Header />
 
     <script is:inline>
-      var _searchIdx = null;
-      async function _loadSearchIndex() {
-        if (_searchIdx) return _searchIdx;
-        try {
-          var res = await fetch('/api/search-index.json');
-          if (res.ok) _searchIdx = await res.json();
-          else _searchIdx = [];
-        } catch(e) { _searchIdx = []; }
-        return _searchIdx;
+      // ── CJK bigram query tokenizer ──
+      var _STOP_BIGRAMS = new Set([
+        "不是","不用","不會","也不","也有","也是","他的","他們","但是",
+        "你的","到了","到的","到這","們的","在這","她的","就是","我的",
+        "我們","是不","是我","是有","是在","是這","有的","的不","的是",
+        "用的","而是","都不","都有","都是","這是","為了",
+        "這個","那個","這些","這樣","這麼","那麼","這裡","這次","這篇",
+        "什麼","自己","己的","其他","其中",
+        "可以","因為","所以","因此","沒有","不過","還是","如果",
+        "雖然","而且","或是","或許","除了","對於",
+        "已經","可能","應該","需要","比較","目前","真的","還有",
+        "只是","一個","一些","一下","有一","了一","是一","的一",
+        "覺得","起來","出來","就可","也可","是可","是很","算是",
+        "上的","中的","來的","面的","樣的","關的","趣的","多的",
+        "大的","好的","單的","類的","子的","人的","本的","要的"
+      ]);
+
+      function _isCJK(ch) {
+        var cp = ch.codePointAt(0);
+        return (cp >= 0x4e00 && cp <= 0x9fff) || (cp >= 0x3400 && cp <= 0x4dbf);
       }
+
+      function _queryBigrams(text) {
+        var normalized = text.toLowerCase().normalize('NFKC').trim();
+        var segments = normalized.split(/\s+/).filter(Boolean);
+        var allTokens = [];
+        var filtered = [];
+        for (var s = 0; s < segments.length; s++) {
+          var seg = segments[s];
+          var chars = Array.from(seg);
+          var hasCJK = chars.some(function(ch) { return _isCJK(ch); });
+          if (!hasCJK) {
+            allTokens.push(seg);
+            filtered.push(seg);
+            continue;
+          }
+          if (chars.length === 1) {
+            allTokens.push(chars[0]);
+            filtered.push(chars[0]);
+          } else {
+            for (var i = 0; i < chars.length - 1; i++) {
+              var bigram = chars[i] + chars[i + 1];
+              allTokens.push(bigram);
+              if (!_STOP_BIGRAMS.has(bigram)) filtered.push(bigram);
+            }
+          }
+        }
+        return filtered.length > 0 ? filtered : allTokens;
+      }
+
+      // ── Search engine (MiniSearch with fallback) ──
+      var _searchEngine = null;
+      var _searchMode = 'loading';
+      var _fallbackIdx = null;
+
+      async function _initSearchEngine() {
+        try {
+          var res = await fetch('/api/search-minisearch.json');
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          var data = await res.json();
+          var MiniSearch = (await import('https://cdn.jsdelivr.net/npm/minisearch@7/dist/es/index.min.js')).default;
+          _searchEngine = MiniSearch.loadJSON(JSON.stringify(data), {
+            idField: 'id',
+            fields: ['title_bigram', 'desc_bigram', 'tags_bigram'],
+            storeFields: ['t', 'd', 'u', 'tags', 'lang'],
+            tokenize: function(text) { return text.split(/\s+/).filter(Boolean); },
+            searchOptions: {
+              boost: { title_bigram: 6, tags_bigram: 4, desc_bigram: 2 },
+              prefix: true
+            }
+          });
+          _searchMode = 'minisearch';
+        } catch (e) {
+          console.warn('[search] MiniSearch failed, falling back to indexOf:', e);
+          try {
+            var res2 = await fetch('/api/search-index.json');
+            if (res2.ok) _fallbackIdx = await res2.json();
+            else _fallbackIdx = [];
+          } catch(e2) { _fallbackIdx = []; }
+          _searchMode = 'fallback';
+        }
+      }
+
+      function _doSearch(q, lang) {
+        if (_searchMode === 'minisearch' && _searchEngine) {
+          var bigrams = _queryBigrams(q);
+          var raw = _searchEngine.search(bigrams.join(' '), { limit: 200 });
+          var topScore = raw.length > 0 ? raw[0].score : 0;
+          var cutoff = topScore * 0.02;
+          var matches = raw.filter(function(r) { return r.score >= cutoff; }).slice(0, 30);
+          // Sort: current language first
+          matches.sort(function(a, b) {
+            var aLang = a.lang === lang ? 0 : 1;
+            var bLang = b.lang === lang ? 0 : 1;
+            return aLang - bLang;
+          });
+          return matches;
+        }
+        // Fallback: indexOf
+        var idx = _fallbackIdx || [];
+        var lq = q.toLowerCase();
+        var matches = idx.filter(function(item) {
+          return item.t.toLowerCase().indexOf(lq) !== -1 ||
+            item.d.toLowerCase().indexOf(lq) !== -1 ||
+            item.tags.some(function(tag) { return String(tag).toLowerCase().indexOf(lq) !== -1; });
+        });
+        matches.sort(function(a, b) {
+          return (a.lang === lang ? 0 : 1) - (b.lang === lang ? 0 : 1);
+        });
+        return matches;
+      }
+
+      function _renderResult(item) {
+        var langBadge = item.lang === 'en' ? 'EN' : '中';
+        var title = item.t || '';
+        var desc = item.d || '';
+        return '<a class="search-item" href="' + item.u + '">' +
+          '<span class="search-item-lang">' + langBadge + '</span>' +
+          '<div class="search-item-text">' +
+          '<span class="search-item-title">' + title + '</span>' +
+          (desc ? '<span class="search-item-desc">' + desc + '</span>' : '') +
+          '</div></a>';
+      }
+
       function initSearch() {
         var isEn = document.documentElement.lang === 'en';
         var lang = isEn ? 'en' : 'zh-TW';
@@ -308,96 +422,54 @@ const jfClass = [
         if (!input) return;
         var results = document.getElementById('search-results');
         var modal = document.getElementById('search-modal');
+        var hintEmpty = isEn ? 'Type to search across all articles' : '輸入關鍵字搜尋所有文章';
+        var hintNone = isEn ? 'No results found' : '找不到相關文章';
 
-        // Preload search index when modal opens
-        _loadSearchIndex();
+        _initSearchEngine();
 
-        input.addEventListener('input', async function () {
-          var q = this.value.trim().toLowerCase();
+        input.addEventListener('input', function() {
+          var q = this.value.trim();
           if (!q) {
-            results.innerHTML =
-              '<div class="search-hint">' +
-              (isEn
-                ? 'Type to search across all articles'
-                : '輸入關鍵字搜尋所有文章') +
-              '</div>';
+            results.innerHTML = '<div class="search-hint">' + hintEmpty + '</div>';
             return;
           }
-          var idx = await _loadSearchIndex();
-          var matches = idx.filter(function (item) {
-            return (
-              item.t.toLowerCase().indexOf(q) !== -1 ||
-              item.d.toLowerCase().indexOf(q) !== -1 ||
-              item.tags.some(function (tag) {
-                return String(tag).toLowerCase().indexOf(q) !== -1;
-              })
-            );
-          });
-          // Prefer current language, then show others
-          matches.sort(function (a, b) {
-            var aLang = a.lang === lang ? 0 : 1;
-            var bLang = b.lang === lang ? 0 : 1;
-            return aLang - bLang;
-          });
+          // Require at least 2 chars to search (avoids noisy single-char queries)
+          if (q.length < 2) {
+            results.innerHTML = '<div class="search-hint">' + hintEmpty + '</div>';
+            return;
+          }
+          if (_searchMode === 'loading') {
+            results.innerHTML = '<div class="search-hint">' + (isEn ? 'Loading...' : '載入中...') + '</div>';
+            return;
+          }
+          var matches = _doSearch(q, lang);
           if (matches.length === 0) {
-            results.innerHTML =
-              '<div class="search-hint">' +
-              (isEn ? 'No results found' : '找不到相關文章') +
-              '</div>';
+            results.innerHTML = '<div class="search-hint">' + hintNone + '</div>';
             return;
           }
-          var html = matches
-            .slice(0, 12)
-            .map(function (item) {
-              var langBadge = item.lang === 'en' ? 'EN' : '中';
-              return (
-                '<a class="search-item" href="' +
-                item.u +
-                '">' +
-                '<span class="search-item-lang">' +
-                langBadge +
-                '</span>' +
-                '<div class="search-item-text">' +
-                '<span class="search-item-title">' +
-                item.t +
-                '</span>' +
-                (item.d
-                  ? '<span class="search-item-desc">' + item.d + '</span>'
-                  : '') +
-                '</div>' +
-                '</a>'
-              );
-            })
-            .join('');
+          var html = matches.slice(0, 12).map(_renderResult).join('');
           if (matches.length > 12) {
-            html +=
-              '<div class="search-hint">' +
-              (isEn
-                ? '...and ' + (matches.length - 12) + ' more'
-                : '...還有 ' + (matches.length - 12) + ' 篇') +
+            html += '<div class="search-hint">' +
+              (isEn ? '...and ' + (matches.length - 12) + ' more' : '...還有 ' + (matches.length - 12) + ' 篇') +
               '</div>';
           }
           results.innerHTML = html;
         });
 
-        // ESC to close
-        document.addEventListener('keydown', function (e) {
+        document.addEventListener('keydown', function(e) {
           if (e.key === 'Escape' && modal.classList.contains('open')) {
             modal.classList.remove('open');
           }
-          // Cmd/Ctrl+K to open
           if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
             e.preventDefault();
             modal.classList.toggle('open');
             if (modal.classList.contains('open')) {
-              setTimeout(function () {
-                input.focus();
-              }, 100);
+              setTimeout(function() { input.focus(); }, 100);
             }
           }
         });
       }
-      // Bind search after DOM is ready — handles both SSR and CSR timing
+
       function _tryInit() {
         if (document.getElementById('search-input')) {
           initSearch();
