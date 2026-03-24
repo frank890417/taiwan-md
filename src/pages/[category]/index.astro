@@ -24,6 +24,18 @@ const safeMatter = (fileContent: string) => {
 };
 
 export async function getStaticPaths() {
+  const safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      const stripped = fileContent.replace(
+        /^---\s*\n[\s\S]*?\n---\s*\n/,
+        '',
+      );
+      return { data: {}, content: stripped };
+    }
+  };
+
   const categoryMapping: Record<string, string> = {
     history: 'History',
     geography: 'Geography',
@@ -73,7 +85,9 @@ export async function getStaticPaths() {
           imageCredit: frontmatter.imageCredit || '',
         });
       }
-    } catch {}
+    } catch (err) {
+      console.error(`[category/index] Error loading "${category}":`, (err as Error).message);
+    }
 
     let hubContent = '';
     try {

@@ -109,6 +109,18 @@ const categoryMapping: Record<string, string> = {
 
 // ── getStaticPaths ────────────────────────────────────────────────────────────
 export async function getStaticPaths() {
+  const safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      const stripped = fileContent.replace(
+        /^---\s*\n[\s\S]*?\n---\s*\n/,
+        '',
+      );
+      return { data: {}, content: stripped };
+    }
+  };
+
   const _categoryMapping: Record<string, string> = {
     history: 'History',
     geography: 'Geography',
@@ -205,7 +217,12 @@ export async function getStaticPaths() {
           },
         });
       }
-    } catch {}
+    } catch (err) {
+      console.error(`[en/getStaticPaths] Error processing category "${categorySlug}":`, (err as Error).message);
+    }
+  }
+  if (paths.length === 0) {
+    throw new Error('[en/getStaticPaths] Generated 0 paths — all categories failed.');
   }
   return paths;
 }

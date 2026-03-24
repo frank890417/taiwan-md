@@ -1,12 +1,12 @@
 {
-  "totalArticles": 933,
+  "totalArticles": 934,
   "totalCategories": 17,
   "estimatedContributors": 63,
-  "totalTags": 2541,
+  "totalTags": 2549,
   "categories": [
     {
       "name": "en",
-      "count": 488
+      "count": 489
     },
     {
       "name": "History",
@@ -92,7 +92,7 @@
     },
     {
       "name": "台灣",
-      "count": 17
+      "count": 16
     },
     {
       "name": "literature",
@@ -113,6 +113,10 @@
     {
       "name": "原住民",
       "count": 13
+    },
+    {
+      "name": "Technology",
+      "count": 12
     },
     {
       "name": "歷史",
@@ -143,10 +147,6 @@
       "count": 11
     },
     {
-      "name": "Technology",
-      "count": 11
-    },
-    {
       "name": "文學",
       "count": 10
     },
@@ -156,8 +156,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 933,
+    "zh-TW": 934,
     "en": 0
   },
-  "lastUpdated": "2026-03-24T17:32:59.772Z"
+  "lastUpdated": "2026-03-24T23:07:30.435Z"
 }

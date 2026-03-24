@@ -965,7 +965,7 @@
   },
   {
     "title": "台灣企業：台積電",
-    "description": "全球晶片代工龍頭，掌握人類數位文明的關鍵命脈",
+    "description": "一個 56 歲的人在 1987 年創辦了一種「全世界沒人做過」的公司，然後它變成了地球上最重要的工廠",
     "category": "Economy",
     "tags": [
       "Economy",
@@ -976,9 +976,9 @@
       "台積電"
     ],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-    "readingTime": 13,
-    "featured": false,
-    "date": "2026-03-20",
+    "readingTime": 19,
+    "featured": true,
+    "date": "2026-03-25",
     "path": "Economy/台灣企業：台積電.md"
   },
   {
@@ -1140,7 +1140,7 @@
   },
   {
     "title": "台灣企業：聯發科技",
-    "description": "全球手機晶片挑戰者，從山寨機推手到AI晶片新星",
+    "description": "被嘲笑為山寨機之王的公司，如今手機晶片市占率是高通的1.5倍",
     "category": "Economy",
     "tags": [
       "Economy",
@@ -1151,9 +1151,9 @@
       "聯發科"
     ],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E8%81%AF%E7%99%BC%E7%A7%91%E6%8A%80",
-    "readingTime": 15,
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-25",
     "path": "Economy/台灣企業：聯發科技.md"
   },
   {
@@ -2165,20 +2165,19 @@
   },
   {
     "title": "台灣茶道與生活美學",
-    "description": "從功夫茶到茶席美學，探索台灣如何將東方茶文化與在地生活美學融合創新",
+    "description": "一隻蟲咬出的蜜香、一棟日式老屋裡的民主運動、一杯珍奶征服的全球市場——台灣茶文化如何從殖民遺產長成獨特的生活美學",
     "category": "Culture",
     "tags": [
       "茶文化",
       "茶道",
       "生活美學",
-      "工藝美學",
-      "侘寂",
-      "慢活文化"
+      "東方美人茶",
+      "紫藤廬"
     ],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%8C%B6%E9%81%93%E8%88%87%E7%94%9F%E6%B4%BB%E7%BE%8E%E5%AD%B8",
-    "readingTime": 20,
+    "readingTime": 16,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-25",
     "path": "Culture/台灣茶道與生活美學.md"
   },
   {
@@ -3167,21 +3166,22 @@
   },
   {
     "title": "台灣機車文化",
-    "description": "摩托車密度全球前列的島嶼王國，從通勤工具到生活方式的文化演進",
+    "description": "全球機車密度最高的國家不是因為愛騎車——是因為沒有別的選擇。現在它意外成了電動二輪的全球實驗場。",
     "category": "Lifestyle",
     "tags": [
       "生活",
       "機車",
       "摩托車",
-      "通勤文化",
       "Gogoro",
-      "改裝車",
+      "光陽",
+      "三陽",
+      "電動機車",
       "交通"
     ],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E6%A9%9F%E8%BB%8A%E6%96%87%E5%8C%96",
     "readingTime": 20,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-25",
     "path": "Lifestyle/台灣機車文化.md"
   },
   {
@@ -5723,7 +5723,7 @@
   },
   {
     "title": "黃仁勳",
-    "description": "NVIDIA 共同創辦人暨執行長，AI 教父，引領全球 GPU 與人工智慧革命",
+    "description": "從肯塔基問題少年感化學校到五兆美元帝國——一個掃廁所的台南男孩如何押注十年後才到來的未來",
     "category": "People",
     "tags": [
       "人物",
@@ -5732,13 +5732,13 @@
       "AI",
       "半導體",
       "科技",
-      "台灣",
-      "台南"
+      "台南",
+      "GPU"
     ],
     "url": "https://taiwan.md/People/%E9%BB%83%E4%BB%81%E5%8B%B3",
-    "readingTime": 10,
+    "readingTime": 21,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-25",
     "path": "People/黃仁勳.md"
   },
   {
@@ -7509,7 +7509,7 @@
   },
   {
     "title": "Chi Po-lin",
-    "description": "How a government clerk who couldn\\'t afford helicopters on his salary mortgaged his house to create Taiwan\\'s most successful documentary",
+    "description": "How a government clerk who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary",
     "category": "en",
     "tags": [
       "People",
@@ -8815,7 +8815,7 @@
   },
   {
     "title": "Huang Chun-ming: Master of Taiwanese Literary Humanism",
-    "description": "Author of \"The Sandwich Man\" and \"The Days of Looking at the Sea,\" representative writer of Yilan nativist literature and chronicler of ordinary people\\'s lives",
+    "description": "Author of \"The Sandwich Man\" and \"The Days of Looking at the Sea,\" representative writer of Yilan nativist literature and chronicler of ordinary people''s lives",
     "category": "en",
     "tags": [
       "people",
@@ -8833,8 +8833,8 @@
     "path": "en/People/huang-chun-ming-taiwanese-literary-master.md"
   },
   {
-    "title": "Huang Kuo-chen: Teaching Taiwan's Children to \"Understand\" Not Just \"Finish Reading\"",
-    "description": "Founder of Pin Xue Tang, promoting reading literacy education in Taiwan, working to change the educational predicament of \"good at tests but bad at thinking\"",
+    "title": "Huang Kuo-chen: Teaching Taiwan's Children to 'Understand' Not Just 'Finish Reading'",
+    "description": "Founder of Pin Xue Tang, promoting reading literacy education in Taiwan, working to change the educational predicament of 'good at tests but bad at thinking'",
     "category": "en",
     "tags": [
       "Education",
@@ -8851,8 +8851,8 @@
     "path": "en/People/huang-kuo-chen.md"
   },
   {
-    "title": "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan\\'s Living History Source",
-    "description": "Huang Zhen-nan is a Taiwanese cultural historian, book collector, and writer who gained fame through his PTT username Sizumaru and runs the \"Living Water Bookstore\" social media presence sharing Taiwan history and antiquarian book culture. Author of \"The Most Entertaining Taiwan History Ever,\" he\\'s dubbed \"the Takenouchi Yutaka of book collecting\" for making serious Taiwan history accessible and engaging.",
+    "title": "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan's Living History Source",
+    "description": "Huang Zhen-nan is a Taiwanese cultural historian, book collector, and writer who gained fame through his PTT username Sizumaru and runs the \"Living Water Bookstore\" social media presence sharing Taiwan history and antiquarian book culture. Author of \"The Most Entertaining Taiwan History Ever,\" he''s dubbed \"the Takenouchi Yutaka of book collecting\" for making serious Taiwan history accessible and engaging.",
     "category": "en",
     "tags": [
       "Taiwan history",
@@ -9162,13 +9162,22 @@
   },
   {
     "title": "Jensen Huang",
-    "description": "Co-founder and CEO of NVIDIA, the ‘godfather of AI,’ whose vision and Taiwan ties reshaped global computing",
+    "description": "From a Kentucky reform school for troubled youth to history's first $5 trillion company — how a toilet-scrubbing boy from Tainan bet on a future that took a decade to arrive",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "People",
+      "Jensen Huang",
+      "NVIDIA",
+      "AI",
+      "Semiconductors",
+      "Technology",
+      "Tainan",
+      "GPU"
+    ],
     "url": "https://taiwan.md/en/People/jensen-huang",
-    "readingTime": 26,
+    "readingTime": 48,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-25",
     "path": "en/People/jensen-huang.md"
   },
   {
@@ -9862,6 +9871,23 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/media-and-press-freedom-in-taiwan.md"
+  },
+  {
+    "title": "MediaTek: From Shanzhai King to Chip Throne",
+    "description": "The company mocked as the 'king of knockoff phones' now outsells Qualcomm in smartphone chips by a factor of 1.5",
+    "category": "en",
+    "tags": [
+      "Economy",
+      "Business",
+      "Semiconductors",
+      "IC Design",
+      "MediaTek"
+    ],
+    "url": "https://taiwan.md/en/Economy/mediatek",
+    "readingTime": 39,
+    "featured": false,
+    "date": "2026-03-25",
+    "path": "en/Economy/mediatek.md"
   },
   {
     "title": "Mega Financial Holding: From Colonial Bank to Taiwan's Global Banking Partner",
@@ -11211,24 +11237,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/foxconn-precision-industry.md"
-  },
-  {
-    "title": "Taiwan Corporation: MediaTek",
-    "description": "Global mobile chip challenger: From enabling knockoff phones to AI chip rising star",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Corporations",
-      "Semiconductors",
-      "Chip Design",
-      "IC Design",
-      "MediaTek"
-    ],
-    "url": "https://taiwan.md/en/Economy/mediatek",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Economy/mediatek.md"
   },
   {
     "title": "Taiwan Democratization",
@@ -13115,14 +13123,23 @@
     "path": "en/Technology/science-park-development.md"
   },
   {
-    "title": "Taiwan’s Scooter Culture",
-    "description": "An island of scooters, where everyday mobility becomes identity, memory, and a quiet kind of freedom",
+    "title": "Taiwan's Scooter Culture",
+    "description": "The country with the world's highest scooter density didn't choose scooters — it never had another option. Now it's accidentally become the global laboratory for electric two-wheelers.",
     "category": "en",
-    "tags": [],
+    "tags": [
+      "lifestyle",
+      "scooters",
+      "motorcycles",
+      "Gogoro",
+      "KYMCO",
+      "SYM",
+      "electric vehicles",
+      "transportation"
+    ],
     "url": "https://taiwan.md/en/Lifestyle/taiwan-scooter-culture",
-    "readingTime": 26,
+    "readingTime": 47,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-25",
     "path": "en/Lifestyle/taiwan-scooter-culture.md"
   },
   {
@@ -13869,6 +13886,23 @@
     "path": "en/Culture/taiwanese-tea-ceremony-and-lifestyle-aesthetics.md"
   },
   {
+    "title": "Taiwanese Tea Culture and Living Aesthetics",
+    "description": "A bug-bitten honey aroma, a democracy movement in a Japanese wooden house, and a global bubble tea conquest — how Taiwan turned tea into an entire philosophy of living",
+    "category": "en",
+    "tags": [
+      "tea culture",
+      "tea ceremony",
+      "living aesthetics",
+      "Oriental Beauty",
+      "Wistaria Tea House"
+    ],
+    "url": "https://taiwan.md/en/Culture/taiwanese-tea-culture-and-living-aesthetics",
+    "readingTime": 40,
+    "featured": true,
+    "date": "2026-03-25",
+    "path": "en/Culture/taiwanese-tea-culture-and-living-aesthetics.md"
+  },
+  {
     "title": "Taiwanese Theater and Performing Arts",
     "description": "",
     "category": "en",
@@ -14393,8 +14427,8 @@
     "path": "en/People/tsai-ming-liang.md"
   },
   {
-    "title": "TSMC: The World's Most Important Company You've Never Heard Of",
-    "description": "How a small Taiwanese company became the invisible foundation of global digital civilization",
+    "title": "TSMC: The Factory the World Can't Live Without",
+    "description": "A 56-year-old man founded a company built on an idea nobody believed in. It now manufactures the chips inside every iPhone, every AI server, and every geopolitical argument about Taiwan.",
     "category": "en",
     "tags": [
       "Economy",
@@ -14405,9 +14439,9 @@
       "TSMC"
     ],
     "url": "https://taiwan.md/en/Economy/tsmc-taiwan-semiconductor",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-20",
+    "readingTime": 43,
+    "featured": true,
+    "date": "2026-03-25",
     "path": "en/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
