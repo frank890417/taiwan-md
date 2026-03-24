@@ -1,11 +1,10 @@
 ---
-title: Post-Martial Law Taiwanese Literature: An Explosion of Freedom
+title: "Post-Martial Law Taiwanese Literature: An Explosion of Freedom"
 category: Art
 tags: [Literature, Martial Law, Localization]
 date: 2026-03-20
 lastVerified: 2026-03-20
 ---
-
 # Post-Martial Law Taiwanese Literature: An Explosion of Freedom
 
 On July 15, 1987, Taiwan declared the end of **Martial Law** (戒嚴, _jièyán_). This was not only a watershed in political history but also a crucial turning point in the history of literary creation. The end of the 38-year Martial Law system was like the sudden release of energy that had been sealed for a long time, ushering in an era of unprecedented freedom for literary expression.

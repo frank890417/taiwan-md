@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Coffee Industry'
-description: 'From Tait & Co.\'s 100 seedlings in 1884 to hosting the first Cup of Excellence in 2024, how an island built a coffee empire importing 43,000 tons annually in 140 years'
+description: "From Tait & Co.'s 100 seedlings in 1884 to hosting the first Cup of Excellence in 2024, how an island built a coffee empire importing 43,000 tons annually in 140 years"
 date: 2026-03-23
 tags: ['coffee', 'Gukeng coffee', 'Alishan coffee', 'Simple Kaffa', 'third wave coffee', 'Cup of Excellence', 'convenience store coffee']
 author: 'Taiwan.md'
@@ -8,7 +8,6 @@ category: 'Food'
 lastVerified: 2026-03-23
 lastHumanReview: true
 ---
-
 # Taiwan Coffee Industry
 
 > **30-Second Overview:** Taiwan imports 43,000 tons of coffee beans annually but produces only 700-1,100 tons domestically—yet this "99% import-dependent" island has nurtured a World Barista Championship winner and became the 17th country globally to host the Cup of Excellence specialty coffee competition in 2024. Starting with Tait & Co.'s 100 seedlings in 1884, Taiwan spent 140 years proving one thing: expertise in drinking coffee matters more than growing it.

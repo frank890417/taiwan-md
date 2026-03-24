@@ -1,6 +1,6 @@
 ---
-title: 'The Evolution of Taiwan's Independent Music Scene'
-description: 'From underground bands to a full indie ecosystem, how Taiwan's non-mainstream music grew over four decades-and what it says about society'
+title: "The Evolution of Taiwan's Independent Music Scene"
+description: "From underground bands to a full indie ecosystem, how Taiwan's non-mainstream music grew over four decades-and what it says about society"
 date: 2026-03-18
 tags:
   [
@@ -17,7 +17,6 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-19
 ---
-
 # The Evolution of Taiwan's Independent Music Scene
 
 ## 30-Second Overview

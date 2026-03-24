@@ -1,11 +1,10 @@
 ---
-title: Taiwanese Theater and Performing Arts: Island Stage
+title: "Taiwanese Theater and Performing Arts: Island Stage"
 category: Art
 tags: [theater, performing arts, dance]
 date: 2026-03-18
 lastVerified: 2026-03-19
 ---
-
 # Taiwanese Theater and Performing Arts: Island Stage
 
 The development of Taiwanese theater and performing arts is a moving epic about cultural innovation, identity exploration, and international exchange. From Cloud Gate Dance Theatre's modern dance revolution to Contemporary Legend Theatre's operatic innovation, from the experimental spirit of the little theater movement to the establishment of national-level performance venues, Taiwan has created a rich and diverse performing arts ecosystem within its limited geographical space.

@@ -1,6 +1,6 @@
 ---
 title: 'Digital Identity and Digital Government'
-description: 'From the NT$526 million New eID compensation storm to the establishment of the Ministry of Digital Affairs: Taiwan\'s 20-year journey of rebuilding trust in digital governance'
+description: "From the NT$526 million New eID compensation storm to the establishment of the Ministry of Digital Affairs: Taiwan's 20-year journey of rebuilding trust in digital governance"
 date: 2026-03-18
 tags:
   [
@@ -19,7 +19,6 @@ category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
 ---
-
 # Digital Identity and Digital Government
 
 > **30-second overview:** After Taiwan suspended its digital identity card program in 2021, contractors sought NT$526 million in compensation, plus machine equipment costs totaling NT$1.05 billion in losses. The Ministry of Digital Affairs was established in 2022 to rebuild trust in digital government. Currently, "MyEGov" integrates over 2,700 online services, but New eID still has no revival timeline.

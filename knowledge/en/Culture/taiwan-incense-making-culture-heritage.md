@@ -1,5 +1,5 @@
 ---
-title: 'Taiwan's Incense-Making Culture and Heritage'
+title: "Taiwan's Incense-Making Culture and Heritage"
 description: 'From the century-old incense stick craft in Chiayi Yunxiao Community to the incense industry across Taiwan—an ancient trade about devotion, craftsmanship, and persistence.'
 date: 2026-03-18
 category: 'Culture'
@@ -11,7 +11,6 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 ---
-
 # Taiwan's Incense-Making Culture and Heritage
 
 ## 30-Second Overview

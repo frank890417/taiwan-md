@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Blue Magpie: The Blue Gang of the Mountains'
-description: 'A gemlike endemic species that leads one of the most sophisticated "family gang" societies in Taiwan's forests.'
+description: "A gemlike endemic species that leads one of the most sophisticated \"family gang\" societies in Taiwan's forests."
 date: 2026-03-23
 tags: ['endemic species', 'conservation', 'birds', 'ecology', 'mountain jewel']
 category: 'Nature'
@@ -10,7 +10,6 @@ lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
 ---
-
 > **30-second overview:**
 > The Taiwan Blue Magpie (Urocissa caerulea) is one of Taiwan's most iconic endemic birds, famous for its sapphire-blue plumage and spectacular long tail.
 > But don't let its beauty fool you—this species operates one of the most sophisticated "family gang" systems in the animal kingdom,

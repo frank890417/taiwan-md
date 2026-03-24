@@ -1,11 +1,10 @@
 ---
-title: Taiwanese Prose: The Depth of the Everyday
+title: "Taiwanese Prose: The Depth of the Everyday"
 category: Art
 tags: [Literature, Prose, Life Writing]
 date: 2026-03-20
 lastVerified: 2026-03-20
 ---
-
 # Taiwanese Prose: The Depth of the Everyday
 
 Prose (散文, _sànwén_), as the literary form most intimately connected to daily life, holds a unique and significant position in Taiwan's literary landscape. Distinct from the fictional nature of novels or the abstract compression of poetry, Taiwanese prose is characterized by its **authenticity**, **intimacy**, and **diversity**. It serves as a vital medium for writers to express cultural observations, emotional reflections, and insights into the human condition. From the nostalgic writings of the early post-war period to contemporary explorations of diverse themes, Taiwanese prose reflects a profound humanistic concern and a rich, evolving aesthetic.

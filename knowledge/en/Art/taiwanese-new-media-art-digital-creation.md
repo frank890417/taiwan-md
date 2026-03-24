@@ -1,10 +1,9 @@
 ---
-title: New Media Art in Taiwan: Digital Creation
+title: "New Media Art in Taiwan: Digital Creation"
 category: Art
 tags: [new-media-art, digital-art, tech-art, generative-art]
 date: 2026-03-20
 ---
-
 # New Media Art in Taiwan: Digital Creation on an Island
 
 Deep in the azure of the Pacific, there is an island whose heart beats with the rhythm of semiconductors and whose veins flow with the brilliance of fiber optics. This island is not only a hub in the global technology supply chain but also a unique artistic laboratory—where millennia-old Eastern aesthetics meet contemporary digital technology, giving birth to a world-renowned new media art wave.

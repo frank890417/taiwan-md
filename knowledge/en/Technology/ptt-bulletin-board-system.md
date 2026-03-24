@@ -1,6 +1,6 @@
 ---
-title: 'PTT Bulletin Board System: Taiwan\'s Most Stubborn Public Square'
-description: 'A BBS built in a dorm room in 1995 still operates with pure text interfaces 30 years later, yet has profoundly shaped Taiwan\'s internet language, political discourse, and collective memory'
+title: "PTT Bulletin Board System: Taiwan's Most Stubborn Public Square"
+description: "A BBS built in a dorm room in 1995 still operates with pure text interfaces 30 years later, yet has profoundly shaped Taiwan's internet language, political discourse, and collective memory"
 date: 2026-03-21
 tags: ['PTT', 'BBS', 'internet culture', 'netizen culture', 'digital democracy', 'social media']
 author: 'p3nchan'
@@ -10,7 +10,6 @@ category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
 ---
-
 # PTT Bulletin Board System: Taiwan's Most Stubborn Public Square
 
 ## 30-Second Overview

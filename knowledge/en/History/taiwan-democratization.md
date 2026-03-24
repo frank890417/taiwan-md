@@ -2,12 +2,11 @@
 title: 'Taiwan Democratization'
 date: 2026-03-17
 tags: [history, democratization, politics]
-description: 'The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan\'s democratic transition—but at what cost of youth and freedom?'
+description: "The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan's democratic transition—but at what cost of youth and freedom?"
 featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
 ---
-
 # Taiwan Democratization
 
 > **30-second overview:** On July 15, 1987, at midnight, Taiwan's martial law—lasting 38 years—officially lifted. This moment's arrival stemmed from the 1979 Kaohsiung Incident's confrontation, the 1990 Wild Lily student movement's catalysis, and countless political prisoners trading their youth for freedom. Taiwan's journey from authoritarianism to democracy wasn't a gift from heaven but a generation's blood-and-tear struggle for resistance.

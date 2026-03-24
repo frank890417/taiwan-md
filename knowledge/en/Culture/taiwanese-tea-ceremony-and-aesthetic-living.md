@@ -1,6 +1,6 @@
 ---
 title: 'Taiwanese Tea Ceremony and Aesthetic Living'
-description: 'On the opening night of Wistaria Tea House in 1981, opposition politicians and literati gathered for tea—this wasn\'t just a tearoom, but a secret base for Taiwan\'s resistance movement'
+description: "On the opening night of Wistaria Tea House in 1981, opposition politicians and literati gathered for tea—this wasn't just a tearoom, but a secret base for Taiwan's resistance movement"
 date: 2026-03-18
 category: 'Culture'
 tags: ['tea culture', 'tea ceremony', 'lifestyle aesthetics', 'Wistaria Tea House', 'tea art']
@@ -11,7 +11,6 @@ featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
 ---
-
 # Taiwanese Tea Ceremony and Aesthetic Living
 
 > **30-second overview:** After Taiwan's economic takeoff in the 1970s, a "tea culture renaissance movement" quietly unfolded. From the opening of Taipei's first "Chinese Tea House" in 1974 to Wistaria Tea House becoming an opposition gathering place in 1981, Taiwanese tea art sought spiritual freedom during the authoritarian era. This wasn't merely a change in tea-drinking methods—it was a cultural revolution redefining Taiwan's concepts of "slow living" and "elegance."

@@ -1,11 +1,10 @@
 ---
-title: Taiwanese New Media Art: Island Creativity in the Digital Age
+title: "Taiwanese New Media Art: Island Creativity in the Digital Age"
 category: Art
 tags: [New Media Art, Digital Art, Technology Art, Generative Art, VR, p5.js]
 date: 2026-03-20
 lastVerified: 2026-03-20
 ---
-
 # Taiwanese New Media Art: Island Creativity in the Digital Age
 
 Deep in the azure of the Pacific lies an island whose heart beats with the rhythm of semiconductors and whose veins flow with the light of optical fibers. This island is not only a hub for the global technology supply chain but also a unique artistic laboratory—where millennia-old Eastern aesthetics meet contemporary digital technology, giving birth to a world-renowned wave of New Media Art.

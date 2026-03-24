@@ -1,10 +1,9 @@
 ---
-title: Taiwanese Modern Poetry: Island Lyricism
+title: "Taiwanese Modern Poetry: Island Lyricism"
 category: Art
 tags: [literature, poetry, modern-poetry]
 date: 2026-03-20
 ---
-
 # Taiwanese Modern Poetry: Island Lyricism
 
 The development of Taiwanese modern poetry is like a winding river, starting from its budding in the 1950s, passing through various periods of change and evolution, and finally converging into today's rich and diverse poetic landscape. This poetic path has not only witnessed the growth of Taiwanese literature but also reflected the spiritual face and cultural pursuits of an island amidst historical changes.

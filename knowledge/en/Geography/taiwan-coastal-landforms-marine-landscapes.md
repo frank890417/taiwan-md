@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Coastal Landforms and Marine Landscapes'
-description: 'The Yehliu Queen\'s Head is thinning at 0.2cm per year and will eventually collapse—this is both the fate and beauty of Taiwan\'s coastal landforms'
+description: "The Yehliu Queen's Head is thinning at 0.2cm per year and will eventually collapse—this is both the fate and beauty of Taiwan's coastal landforms"
 date: 2026-03-19
 tags: ['coastal landforms', 'geology', 'Qingshui Cliffs', 'Yehliu', 'plate tectonics']
 category: 'Geography'
@@ -11,7 +11,6 @@ featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
 ---
-
 # Taiwan Coastal Landforms and Marine Landscapes
 
 > **30-Second Overview:** Along Taiwan's 1,600-kilometer coastline, Qingshui Cliffs plunge 800 meters straight into the Pacific, Yehliu's Queen's Head thins by 0.2cm annually, and Kenting's coral reefs struggle under rising sea level threats. These landscapes aren't just beautiful—they're witnesses to 9 million years of tectonic plate collisions.

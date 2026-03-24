@@ -1,6 +1,6 @@
 ---
-title: 'The Love Story of Mazu and Dadaogong: Taiwan\'s Most Romantic Weather Forecast'
-description: '"Dadaogong Wind, Mazu Rain" isn\'t just a weather saying—it hides a tale of divine love and revenge between two deities'
+title: "The Love Story of Mazu and Dadaogong: Taiwan's Most Romantic Weather Forecast"
+description: "\"Dadaogong Wind, Mazu Rain\" isn't just a weather saying—it hides a tale of divine love and revenge between two deities"
 date: 2026-03-21
 tags: ['Taiwanese culture', 'folk beliefs', 'Mazu', 'Baosheng Dadi', 'weather proverbs']
 category: 'Culture'
@@ -9,7 +9,6 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 ---
-
 > **30-second overview**: Every year on the 15th day of the third lunar month (Baosheng Dadi's birthday), strong winds blow. On the 23rd day (Mazu's birthday), heavy rains fall. Taiwanese use the proverb "Dadaogong Wind, Mazu Rain" to record a thousand-year weather pattern. But folk legend says this happens because of an unfinished love story between two deities.
 
 In Taiwan, there's an age-old weather proverb: "Dadaogong Wind, Mazu Rain" (大道公風、媽祖婆雨). This saying isn't just about observing weather patterns—it carries the most touching love story in Taiwanese folk religion: a tale of love, rejection, and divine revenge that still plays out every spring through wind and rain.

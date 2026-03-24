@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan's Marriage Revolution: How One Man's 33-Year Fight Rewrote Love's Definition'
-description: 'From martial law prison to Asia's first same-sex marriage law—the extraordinary story of Taiwan becoming Asia's rainbow capital'
+title: "Taiwan's Marriage Revolution: How One Man's 33-Year Fight Rewrote Love's Definition"
+description: "From martial law prison to Asia's first same-sex marriage law—the extraordinary story of Taiwan becoming Asia's rainbow capital"
 date: 2026-03-22
 category: 'Society'
 tags: ['Same-sex marriage', 'Gender equality', 'Human rights', 'Judicial', 'Asia first', 'Chi Chia-wei', 'LGBTQ+']
@@ -11,7 +11,6 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 ---
-
 # Taiwan's Marriage Revolution: How One Man's 33-Year Fight Rewrote Love's Definition
 
 > **30-Second Overview:** In 1986, Chi Chia-wei was imprisoned for five months under martial law for coming out publicly. On May 17, 2019, the same man's constitutional petition made Taiwan Asia's first country with legal same-sex marriage. This isn't a story about law—it's a story about 33 years of refusing to give up. A story of how one person society labeled a "monster" eventually made that same society redefine love itself.

@@ -1,12 +1,11 @@
 ---
-title: Theater and Performing Arts in Taiwan: An Island on Stage
+title: "Theater and Performing Arts in Taiwan: An Island on Stage"
 category: Art
 tags: [Theater, Performing Arts, Dance, Modern Dance, Traditional Opera]
 date: 2026-03-20
 lastVerified: 2026-03-20
-description: An exploration of Taiwan's vibrant performing arts scene, from the modern dance revolution of Cloud Gate to the cross-cultural innovations of Contemporary Legend Theatre.
+description: "An exploration of Taiwan's vibrant performing arts scene, from the modern dance revolution of Cloud Gate to the cross-cultural innovations of Contemporary Legend Theatre."
 ---
-
 # Theater and Performing Arts in Taiwan: An Island on Stage
 
 The development of theater and performing arts in Taiwan is a moving epic of cultural innovation, identity exploration, and international exchange. From the modern dance revolution sparked by **Cloud Gate Dance Theatre** to the operatic reinventions of **Contemporary Legend Theatre**, and from the experimental spirit of the Little Theatre Movement to the establishment of world-class national venues, Taiwan has cultivated a rich and diverse performing arts ecosystem within its limited geographical space.

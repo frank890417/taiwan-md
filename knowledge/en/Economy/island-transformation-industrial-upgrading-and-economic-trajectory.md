@@ -1,6 +1,6 @@
 ---
-title: 'An Island's Transformation: Taiwan's Industrial Upgrading and Economic Trajectory'
-description: 'From agrarian base to global tech hub, this is Taiwan's half-century journey through export-led growth, industrial upgrading, and the rise of the 'Silicon Shield.''
+title: "An Island's Transformation: Taiwan's Industrial Upgrading and Economic Trajectory"
+description: "From agrarian base to global tech hub, this is Taiwan's half-century journey through export-led growth, industrial upgrading, and the rise of the 'Silicon Shield.'"
 date: 2026-03-19
 tags:
   [
@@ -16,7 +16,6 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 ---
-
 # An Island's Transformation: Taiwan's Industrial Upgrading and Economic Trajectory
 
 ## 30-second overview

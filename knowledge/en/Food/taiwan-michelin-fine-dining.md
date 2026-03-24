@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Michelin Guide and Fine Dining'
-description: 'In 2018, the red cover of the Michelin Guide was first printed with "TAIPEI," marking Taiwan\'s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan\'s culinary culture showcases its captivating blend of tradition and innovation on the international stage.'
+description: "In 2018, the red cover of the Michelin Guide was first printed with \"TAIPEI,\" marking Taiwan's official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan's culinary culture showcases its captivating blend of tradition and innovation on the international stage."
 date: 2026-03-20
 tags: [Michelin, fine dining, starred restaurants, Taiwanese cuisine, internationalization]
 author: 'Taiwan.md Editorial Team'
@@ -10,7 +10,6 @@ category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
 ---
-
 # Taiwan Michelin Guide and Fine Dining
 
 > "In Taiwan, we witness the most spectacular fusion of culinary cultures. From the folk wisdom of street stalls to the refined craftsmanship of starred restaurants, the chefs here are telling Taiwan's gastronomic story in an international language."

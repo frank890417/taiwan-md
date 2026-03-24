@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Healthcare and National Health Insurance'
-description: 'The paradox of 99.9% coverage: How the world\'s cheapest healthcare system forces three-quarters of hospitals to operate at a loss'
+description: "The paradox of 99.9% coverage: How the world's cheapest healthcare system forces three-quarters of hospitals to operate at a loss"
 date: 2026-03-24
 tags:
   [
@@ -17,7 +17,6 @@ readingTime: 8
 lastVerified: 2026-03-24
 lastHumanReview: false
 ---
-
 # Taiwan Healthcare and National Health Insurance
 
 > **30-second overview:** Taiwan launched National Health Insurance in 1995, achieving a world-record 99.9% coverage rate.

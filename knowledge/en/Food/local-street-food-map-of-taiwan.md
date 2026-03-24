@@ -1,6 +1,6 @@
 ---
 title: 'Local Street Food Map of Taiwan'
-description: 'From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island.'
+description: "From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island."
 date: 2026-03-20
 tags: [local delicacies, indigenous cuisine, regional specialties, Taiwan food map, folk culture]
 author: 'Taiwan.md Editorial Team'
@@ -10,7 +10,6 @@ category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
 ---
-
 # Local Street Food Map of Taiwan
 
 > "The most beautiful scenery in Taiwan is its people; the deepest culture lies in its street food. In the depths of every city's alleys, there are taste codes that belong exclusively to this land."

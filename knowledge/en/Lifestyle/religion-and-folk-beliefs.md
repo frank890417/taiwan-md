@@ -1,6 +1,6 @@
 ---
 title: 'Religion and Folk Beliefs'
-description: 'From Fear Management to Faith Empire: How Taiwan Created the World's Most Dense Yet Freest Religious Ecosystem'
+description: "From Fear Management to Faith Empire: How Taiwan Created the World's Most Dense Yet Freest Religious Ecosystem"
 date: 2026-03-22
 category: lifestyle
 tags: [lifestyle, religion, Mazu, folk beliefs, temple culture, Wangye worship, religious freedom, pragmatism]
@@ -9,7 +9,6 @@ readingTime: 16
 lastVerified: 2026-03-22
 lastHumanReview: false
 ---
-
 # Religion and Folk Beliefs: From Fear Management to Faith Empire
 
 Taiwan hosts 11,691 temples with an average of one temple per 2,026 people—the world's highest temple density. Among these, 1,330 Wangye (Royal Lord) temples outnumber 672 Mazu temples, making Wangye Taiwan's largest deity worship. The annual Dajia Mazu pilgrimage attracts 4 million participants, generating NT$5 billion in economic impact. While 93% of Taiwanese hold religious beliefs, Taiwan consistently scores top marks in international religious freedom evaluations.

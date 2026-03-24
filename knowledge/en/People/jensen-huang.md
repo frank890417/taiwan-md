@@ -1,6 +1,6 @@
 ---
 title: 'Jensen Huang'
-description: 'From a Kentucky reform school for troubled youth to history's first $5 trillion company — how a toilet-scrubbing boy from Tainan bet on a future that took a decade to arrive'
+description: "From a Kentucky reform school for troubled youth to history's first $5 trillion company — how a toilet-scrubbing boy from Tainan bet on a future that took a decade to arrive"
 date: 2026-03-25
 tags: [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Tainan, GPU]
 category: 'People'
@@ -10,7 +10,6 @@ featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
 ---
-
 # Jensen Huang (黃仁勳)
 
 > **30-Second Overview:** In 1973, ten-year-old Jensen Huang was enrolled in a Kentucky reform academy for troubled youth, where he scrubbed toilets daily and shared a room with a knife-scarred seventeen-year-old. Fifty years later, his company NVIDIA became the first in history to surpass $5 trillion in market capitalization. His decisive gamble wasn't the GPU — it was CUDA in 2006, a platform everyone thought was insane, which wouldn't prove its worth until the AI revolution a decade later.
