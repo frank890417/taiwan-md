@@ -1,8 +1,8 @@
 {
   "version": "2.0",
-  "timestamp": "2026-03-24T20:52:34Z",
+  "timestamp": "2026-03-24T21:54:28Z",
   "total": 439,
-  "flagged": 146,
+  "flagged": 145,
   "files": [
     {"file": "_Home.md", "score": 9},
     {"file": "about/台灣官方網站資源.md", "score": 8},
@@ -135,7 +135,6 @@
     {"file": "people/陳樹菊.md", "score": 4},
     {"file": "people/陳玉勳.md", "score": 6},
     {"file": "people/魏德聖.md", "score": 5},
-    {"file": "people/黃仁勳.md", "score": 7},
     {"file": "people/黃國珍.md", "score": 5},
     {"file": "resources/mini-taiwan-pulse.md", "score": 4},
     {"file": "society/人權與性別平等.md", "score": 5},

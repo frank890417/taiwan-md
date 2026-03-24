@@ -1,67 +1,139 @@
 ---
 title: 'Jensen Huang'
-description: 'Co-founder and CEO of NVIDIA, the ‘godfather of AI,’ whose vision and Taiwan ties reshaped global computing'
-date: 2026-03-19
-tags:
-subcategory: 'Tech & Business'
-  [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Taiwan, Tainan]
-lastVerified: 2026-03-19
+description: 'From a Kentucky reform school for troubled youth to history's first $5 trillion company — how a toilet-scrubbing boy from Tainan bet on a future that took a decade to arrive'
+date: 2026-03-25
+tags: [People, Jensen Huang, NVIDIA, AI, Semiconductors, Technology, Tainan, GPU]
+category: 'People'
+subcategory: 'Technology & Business'
+author: 'Taiwan.md'
 featured: true
+lastVerified: 2026-03-25
+lastHumanReview: false
 ---
 
 # Jensen Huang (黃仁勳)
 
-In June 2024, Taipei’s Computex felt less like a trade show and more like a pop concert. A man in a signature black leather jacket strolled through night markets, speaking warm, casual 台語 (Taiwanese Hokkien), eating oyster omelets (蚵仔煎) and candied fruit on skewers (糖葫蘆). For a few days, the island was swept by “仁來瘋” (Jensen‑mania). That man was Jensen Huang (黃仁勳), co‑founder and CEO of NVIDIA.
+> **30-Second Overview:** In 1973, ten-year-old Jensen Huang was enrolled in a Kentucky reform academy for troubled youth, where he scrubbed toilets daily and shared a room with a knife-scarred seventeen-year-old. Fifty years later, his company NVIDIA became the first in history to surpass $5 trillion in market capitalization. His decisive gamble wasn't the GPU — it was CUDA in 2006, a platform everyone thought was insane, which wouldn't prove its worth until the AI revolution a decade later.
 
-To the global tech industry he is a visionary who bet early on GPU computing and helped ignite the AI revolution. To Taiwan, he is both a hometown son and a living symbol of the island’s semiconductor power. His story is not simply one of business success; it is a bridge that connects a small island’s supply chain to a world‑shaping technological transformation.
+In the fall of 1973, an undersized Taiwanese boy who spoke no English walked into the Oneida Baptist Institute in Clay County, Kentucky. This wasn't an elite boarding school — it was a reform academy for troubled youth, where students worked on tobacco farms by day. Huang's aunt and uncle, recent immigrants to Washington state, had mistaken it for a prestigious prep school. His parents sold nearly everything they owned to cover tuition.
 
-## A Taiwanese childhood, an American trial by fire
+His assigned roommate was, in Huang's later words, "a seventeen-year-old covered in tattoos and knife scars" (as recalled in a 2002 *Sports Illustrated* feature). Huang cleaned the boys' dormitory toilets every day and was frequently bullied. But he struck a deal with his roommate: he taught the older boy to read; the roommate taught him to bench press.
 
-Born in 1963 in Taitung and raised in Tainan, Jensen Huang left Taiwan at the age of nine to join relatives in the United States. He was sent to a boarding school in Kentucky and, as one of the few Asian students, learned survival the hard way. Huang has recalled being assigned to clean the school’s bathrooms—an unglamorous task that taught him discipline and self‑reliance. “I learned how to work and finish things even when no one was watching,” he later said.
+Fifty-two years later, in October 2025, NVIDIA's market capitalization broke $5 trillion — the first company in human history to reach that number. Huang's net worth stood at $164.1 billion, making him the world's seventh-richest person.
 
-He studied electrical engineering at Oregon State University, where he met his wife Lori, and earned a master’s degree at Stanford University. Early in his career, he worked at LSI Logic and AMD, building the technical foundation that would later shape his own company.
+> **📝 Curator's Note**
+> What separates Huang's story from a standard rags-to-riches narrative is that the path was not linear. Between scrubbing toilets and betting on CUDA, he came within weeks of bankruptcy at least three times. This isn't a story about hard work paying off. It's a story about staying the course when every rational voice says you're wrong.
 
-## The Denny’s origin story and the birth of the GPU
+## Tainan, Bangkok, Kentucky: A Misrouted Childhood
 
-On his 30th birthday in 1993, Huang sat with two friends—Chris Malachowsky and Curtis Priem—at a Denny’s restaurant and decided to start a company. Their goal seemed modest: improve 3D graphics. The gaming market was niche, the risks enormous. Huang joked that the real dream was to make games look better.
+Jensen Huang was born in Taipei in 1963 and grew up in Tainan. His father, Huang Hsing-tai, was a chemical engineer at an oil refinery; his mother, Lo Tsai-hsiu, was a schoolteacher. They were a middle-class, Taiwanese Hokkien-speaking family. Every day, his mother picked ten random words from an English dictionary to teach her two sons.
 
-The early years were brutal. NVIDIA nearly went under multiple times. Then in 1999 the company released the GeForce 256 and coined the term “GPU” (Graphics Processing Unit). It transformed gaming graphics and, more importantly, introduced a specialized chip architecture built for massive parallel processing.
+When Jensen was five, the family moved to Thailand for his father's work. He attended Ruamrudee International School in Bangkok. In 1973, as Thailand erupted in political upheaval, his parents sent both brothers to the United States to live with relatives in Tacoma, Washington — relatives who accidentally enrolled them in a reform school.
 
-Huang’s most consequential gamble came in 2006: CUDA, a software platform that enabled developers to use GPUs for non‑graphics computation. At the time, it was seen as an expensive, even reckless investment. Costs soared; the stock suffered. But Huang believed the future of computing was parallel—and he was willing to wait.
+> **💡 Did You Know?**
+> At age fourteen, Huang appeared in *Sports Illustrated* as a table-tennis player. At the reform academy, he'd joined the swim team and picked up table tennis — sports became his survival strategy in a hostile environment.
 
-## The AI inflection point
+Two years later, his parents immigrated to Beaverton, Oregon, and the brothers finally left Kentucky. Huang entered Aloha High School, skipped two grades, graduated at sixteen, and became a nationally ranked table-tennis player. In 2002, he said: "I remember my life in Kentucky more vividly than just about any other."
 
-About a decade later, deep learning ignited a new era. Neural networks required large‑scale matrix operations, and GPUs—paired with CUDA—were uniquely suited for the task. NVIDIA’s chips became the engines behind breakthroughs in image recognition, autonomous driving, and large language models. From ChatGPT to self‑driving systems, the underlying compute is often NVIDIA’s.
+## The Denny's Dishwasher Who Founded a Company at Denny's
 
-This pivot turned NVIDIA from a graphics company into the beating heart of global AI infrastructure. Huang, once a niche hardware CEO, became the face of an epochal shift.
+Starting at fifteen, Huang worked the graveyard shift at a Denny's in Oregon — dishwasher, busboy, waiter — for five years (1978–1983). He later said the job cured his shyness. After high school, he chose Oregon State University for its cheap in-state tuition, graduating in 1984 with highest honors in electrical engineering. He was the youngest student in every class, and "the only one who looked like a child."
 
-## Taiwan, TSMC, and the “silicon shield”
+After stints designing chips at AMD and LSI Logic in Silicon Valley — where he met engineers Chris Malachowsky and Curtis Priem — the three began meeting in 1992 at a roadside Denny's in East San Jose to draw up a business plan. Huang picked Denny's because "it was quieter than home and had cheap coffee."
 
-Huang’s Taiwan connection is not only emotional but strategic. He has long credited 台積電 (TSMC) as essential to NVIDIA’s success and has a decades‑long friendship with TSMC founder [[張忠謀]]. “Without TSMC, there would be no NVIDIA,” he has said.
+On April 5, 1993, they formally incorporated NVIDIA. The company name derived from the Latin word *invidia* (envy), because Priem wanted competitors to turn "green with envy." Their startup capital: $600 — $200 each.
 
-At Computex 2024, Huang showed a Taiwan map crowded with partner logos and called the island “a world hero.” His words were more than praise: they underscored Taiwan’s role as the global semiconductor backbone—sometimes referred to as the “silicon shield” (矽盾), a geopolitical reality shaped by the world’s reliance on Taiwan’s chip manufacturing capacity.
+> **✦** "Huang washed dishes at Denny's at fifteen. At thirty, he founded what would become the world's most valuable company — at a Denny's."
 
-In the wake of the generative AI boom, NVIDIA’s market value surged beyond three trillion dollars, briefly making it the most valuable company on Earth. Yet Huang’s public persona remained strikingly informal: he chatted with street vendors, posed with fans in night markets, and sprinkled speeches with Taiwanese Hokkien. That mix of global stature and local warmth turned him into a folk hero on the island.
+## Thirty Days from Going Out of Business
 
-## “Sovereign AI” and the next decade
+NVIDIA's early years were not a success story. They were a near-death story.
 
-Huang frames the current moment as the biggest technological shift since the Industrial Revolution. In his view, anything that moves will become autonomous, and AI will be the core of productivity. He has championed the idea of “Sovereign AI”—encouraging nations to build their own AI compute centers and protect data sovereignty.
+The three co-founders later admitted they "had no idea how to start a company" (as cited by journalist Sam Whitaker). Huang's pitch to legendary venture capitalist Don Valentine reportedly went badly — but Sequoia Capital invested anyway, on the strength of LSI Logic CEO Wilfred Corrigan's endorsement.
 
-This concept resonates in Taiwan, where digital governance and openness are part of the national conversation. It also intersects with the work of figures like [[唐鳳]], who have pushed for a transparent, democratic approach to technology.
+NVIDIA initially chose quadrilateral-based rendering instead of the industry-standard triangles — a technical bet that nearly killed the company. When cash ran critically low, Japanese gaming giant Sega injected $5 million to keep them alive long enough to pivot. When the RIVA 128 graphics card shipped in August 1997, NVIDIA had exactly one month of payroll left.
 
-Despite his techno‑optimism, Huang has consistently acknowledged the ethical and societal stakes of AI. He has invested in education partnerships and research in Taiwan, urging young people to “run, don’t walk” toward the future—an exhortation that has become part of his public myth.
+"Our company is thirty days from going out of business" became the unofficial company motto. Huang opened internal presentations with those words for years.
 
-In 2024, _Time_ named him one of the world’s 100 most influential people. The black leather jacket has become more than a fashion choice; it is a symbol of relentless iteration—an insistence on pushing forward even when the future looks uncertain.
+| $600 | $5,000,000,000,000+ |
+|---|---|
+| NVIDIA's founding capital (1993) | NVIDIA market cap milestone (October 2025) |
 
-## A bridge between Taiwan and the world
+## Inventing a Word in 1999, Betting on a Decade-Away Future in 2006
 
-Jensen Huang’s story begins with a Taiwanese boy navigating life in a foreign land. It becomes the tale of a founder who reframed what a computer chip could do. And it ends—at least for now—with a global AI wave where Taiwan’s chips and talent power the transformation.
+In 1999, NVIDIA released the GeForce 256, and Huang coined the term "GPU" (Graphics Processing Unit). The company went public the same year.
 
-For Taiwan, Huang is not only a successful entrepreneur; he is a living bridge between the island and the world’s technological frontier. His career helps the world understand that this small island is not a peripheral player but a crucial engine in humanity’s next leap.
+But the decision that changed everything came in 2006.
 
-## Further Reading
+Huang launched CUDA (Compute Unified Device Architecture) — a platform that let GPUs handle general-purpose scientific computing, not just graphics. Wall Street was skeptical. R&D costs surged. The stock dropped. Who needed a graphics card to do math?
 
-- [[張忠謀]] — TSMC founder and Huang’s long‑time partner in the semiconductor ecosystem
-- [[唐鳳]] — digital leader shaping Taiwan’s technology‑democracy dialogue
-- [[江振誠]] — another Taiwanese figure who redefined local value after global success
-- [[吳哲宇]] — an artist using NVIDIA tech in algorithmic art, representing a new aesthetic frontier
+> **📝 Curator's Note**
+> CUDA is the narrative heart of the Huang story. He made a bet in 2006 that wouldn't begin to pay off until 2012, when deep learning researchers discovered that GPU parallel processing was the ideal architecture for training neural networks. This wasn't foresight in the visionary sense — it was doing the right thing at the wrong time, and surviving long enough for time to catch up.
+
+Around 2012, deep learning exploded in academia. Researchers found that the most efficient hardware for training neural networks was NVIDIA's GPUs running CUDA. Overnight, NVIDIA transformed from "a graphics card company" into the beating heart of global AI compute — from ChatGPT to autonomous vehicles, the engine is almost always NVIDIA.
+
+## "Jensanity" and Taiwan's Silicon Shield
+
+In June 2024, Huang appeared at Computex in Taipei. He wasn't on the official program, but the city went wild. Fans and paparazzi trailed him everywhere. Taiwanese media dubbed it "Jensanity," echoing the "Linsanity" craze of 2012 surrounding basketball player Jeremy Lin.
+
+He wore his signature black leather jacket to night markets, chatted with vendors in Taiwanese Hokkien, and posed with strangers. Mark Zuckerberg posted a photo on Instagram of the two wearing each other's jackets, writing: "He's like Taylor Swift, but for tech." (Instagram, March 2024)
+
+But Huang's significance to Taiwan extends far beyond celebrity. NVIDIA's most advanced AI chips are manufactured by [[TSMC]]. Huang and TSMC founder [[Morris Chang]] share a partnership spanning over three decades. At Computex, Huang displayed a map of Taiwan covered with NVIDIA's supply-chain partners and declared: "Taiwan is a world hero."
+
+This wasn't flattery. NVIDIA needs TSMC's cutting-edge fabrication; TSMC needs NVIDIA's orders to fill its most advanced production lines. Their fates are bound together — and that bond runs through an island that averages 3.7 earthquakes per year and gets swept by typhoons on a regular basis.
+
+| 3.6% | ~60 |
+|---|---|
+| Huang's ownership stake in NVIDIA | Number of direct reports to the CEO |
+
+## The CEO Who Doesn't Wear a Watch
+
+Huang's management style defies Silicon Valley norms. He has no fixed office, roaming NVIDIA's headquarters and settling into conference rooms as needed. He maintains roughly sixty direct reports — most CEOs have six to eight. His reasoning: "People reporting directly to me should be at the top of their game and require the least amount of pampering."
+
+He doesn't wear a watch. When asked why: "Because now is the most important time." (*The Wall Street Journal*, February 2024)
+
+He's candid about the cost of NVIDIA's success. "Building Nvidia turned out to have been a million times harder than we expected," he once said. "If we had realized the pain and suffering, the embarrassment and the shame, and the list of all the things that would go wrong — we probably would not have done it." Yet he believes those near-death years were essential, because they forced him to become a better leader.
+
+> **💡 Did You Know?**
+> NVIDIA co-founder Curtis Priem recalled: "We basically deferred to Jensen on day one. We told him, 'You're in charge of running the company — all the stuff Chris and I don't know how to do.'" Huang was thirty at the time — younger than both his co-founders.
+
+## One Family, Two Chip Empires
+
+There's a family detail often overlooked: AMD CEO Lisa Su is Huang's cousin. The two lead the world's top two GPU companies — NVIDIA and AMD — and both rely on the same Taiwanese foundry, [[TSMC]], to manufacture their chips.
+
+The symmetry is striking: two people who trace their roots to Taiwan built the world's most important AI chip companies in America, then sent the most critical manufacturing step back to the island where they were born.
+
+1. **1963** — Born in Taipei, raised in Tainan
+2. **1973** — Sent to the U.S.; enrolled in a Kentucky reform academy
+3. **1993/4/5** — Co-founded NVIDIA at a Denny's, starting capital $600
+4. **1997** — RIVA 128 saved the company with one month of payroll left
+5. **1999** — Coined the term "GPU"; NVIDIA went public
+6. **2006** — Launched CUDA; Wall Street called it a waste
+7. **2012** — Deep learning exploded; CUDA's value was finally proven
+8. **2024/6** — "Jensanity" swept Computex; NVIDIA market cap hit $3 trillion
+9. **2025/10** — NVIDIA became the first company to surpass $5 trillion
+
+## The Toilet Scrubber and His NVIDIA Tattoo
+
+In 2024, Huang received an honorary doctorate from National Taiwan University, was named CEO of the Year by *The Economist*, and appeared on TIME's 100 Most Influential People list. In 2025, he won the Queen Elizabeth Prize for Engineering alongside AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li.
+
+But beyond all the titles, one detail may say the most about who he is. When NVIDIA's market cap crossed $1 trillion, Huang honored a bet with employees — he got the NVIDIA logo tattooed on his arm.
+
+Jensen Huang now has a corporate logo permanently inked on his skin. His NVIDIA tattoo sits fifty years removed from the tattoos covering his roommate in that Kentucky dormitory. That roommate taught him to lift weights; he taught the roommate to read. In terms of return on investment, it may have been the best deal he ever made.
+
+## References
+
+- [Jensen Huang — Wikipedia](https://en.wikipedia.org/wiki/Jensen_Huang) (secondary; indexes numerous primary sources)
+- [Jensen Huang — Forbes Profile](https://www.forbes.com/profile/jensen-huang/) (primary; real-time wealth data)
+- [Stephen Witt, *The Nvidia Way* (2025)](https://www.simonandschuster.com/books/The-Nvidia-Way/Stephen-Witt/9781668096048) (primary; in-depth biography)
+- [Tae Kim, *The Jensen Huang Story* (2024)](https://www.harpercollins.com/products/the-jensen-huang-story) (primary; biography)
+- [NVIDIA Computex 2024 Keynote — NVIDIA Official](https://www.nvidia.com/en-us/events/computex/) (primary)
+- [Mark Zuckerberg Instagram post on Jensen Huang, March 2024](https://www.instagram.com/zuck/) (primary)
+- [The Wall Street Journal — Jensen Huang Profile, February 2024](https://www.wsj.com/tech/ai/nvidia-ceo-jensen-huang-ai-8a5fd5b0) (secondary)
+- [NVIDIA Articles of Incorporation, April 5, 1993 — SEC EDGAR](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1045810) (primary)
+
+## See Also
+
+- [[Morris Chang]]: NVIDIA's most critical partner, founder of TSMC
+- [[TSMC]]: Manufacturer of the world's most advanced AI chips
+- [[Science Parks]]: The foundation of Taiwan's semiconductor ecosystem
