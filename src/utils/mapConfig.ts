@@ -1,6 +1,6 @@
 import { useTranslations } from '../i18n/utils';
 
-function getMapRoutes(t: ReturnType<typeof useTranslations>) {
+export function getMapRoutes(t: ReturnType<typeof useTranslations>) {
   return [
     {
       id: 'nightMarkets',
