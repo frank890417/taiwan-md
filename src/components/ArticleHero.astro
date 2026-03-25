@@ -5,7 +5,8 @@
  * Fully i18n-aware: breadcrumb labels and URLs adapt to lang.
  */
 import TextToSpeech from './TextToSpeech.astro';
-import { t, getLangPrefix } from '../i18n/ui';
+
+import { useTranslations, useTranslatedPath } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
 
 interface Props {
@@ -26,14 +27,15 @@ const {
   categoryName,
   categoryColor,
   coverImage,
-  slug,
   lang = 'zh-TW',
 } = Astro.props;
 
-const langPrefix = getLangPrefix(lang);
-const homeLabel = t('article.home', lang);
-const homeUrl = langPrefix ? `${langPrefix}/` : '/';
-const categoryUrl = `${langPrefix}/${category}`;
+const t = useTranslations(lang);
+const translatePath = useTranslatedPath(lang);
+
+const homeLabel = t('article.home');
+const homeUrl = translatePath('/');
+const categoryUrl = translatePath(`/${category}`);
 ---
 
 <section
