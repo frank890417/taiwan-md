@@ -77,8 +77,8 @@ const isEn = lang === 'en';
   .section-divider {
     display: flex;
     align-items: center;
-    margin: 4rem auto;
-    max-width: 600px;
+    margin: 3rem auto 2rem;
+    max-width: 800px;
     padding: 0 2rem;
   }
   .divider-line {
@@ -87,11 +87,13 @@ const isEn = lang === 'en';
     background: linear-gradient(90deg, transparent, #d1d5db, transparent);
   }
   .divider-text {
-    padding: 0 2rem;
-    color: #6b7280;
-    font-size: 0.9rem;
-    font-weight: 500;
+    padding: 0 1.5rem;
+    font-family: var(--font-title, 'Noto Serif TC', serif);
+    color: #1a3c34;
+    font-size: 1.3rem;
+    font-weight: 700;
     white-space: nowrap;
+    letter-spacing: 0.05em;
   }
   @media (max-width: 480px) {
     .explore-prose {

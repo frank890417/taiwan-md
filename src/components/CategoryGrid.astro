@@ -229,13 +229,13 @@ const categories = [
   }
 
   .category-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 20px 45px rgba(15, 23, 42, 0.1);
-    border-color: rgba(148, 163, 184, 0.4);
+    transform: translateY(-6px);
+    box-shadow: 0 24px 50px rgba(15, 23, 42, 0.18), 0 8px 16px rgba(0, 0, 0, 0.06);
+    border-color: rgba(148, 163, 184, 0.5);
   }
 
   .category-card:hover .category-gradient {
-    opacity: 0.2;
+    opacity: 0.35;
   }
 
   .category-card:hover .category-icon {
@@ -277,7 +277,6 @@ const categories = [
     z-index: 0;
     mask-image: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
     -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
-    transition: opacity 0.4s ease;
   }
 
   /* Article count — TopicCard style */

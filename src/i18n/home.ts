@@ -58,7 +58,7 @@ export const homeUI = {
     'home.random.description':
       "Don't know what to read? Let us guide you to Taiwan's hidden treasures!",
     'home.categories.heading': 'Discover Taiwan',
-    'home.categories.divider': 'Quick Navigation',
+    'home.categories.divider': '12 Topics',
     'home.lang.heading': '🖊️ Why Traditional Chinese?',
     'home.lang.p1':
       "Taiwan.md chooses <strong>Traditional Chinese</strong> as the default language - this is not just a technical decision, it's a cultural statement.",
@@ -155,7 +155,7 @@ export const homeUI = {
     'home.random.subtitle': '探索意想不到的故事',
     'home.random.description': '不知道該看什麼？讓我們帶你發現台灣的隱藏寶藏！',
     'home.categories.heading': '認識台灣',
-    'home.categories.divider': '快速導航',
+    'home.categories.divider': '12 大主題',
     'home.lang.heading': '🖊️ 為什麼用繁體中文？',
     'home.lang.p1':
       'Taiwan.md 選擇以<strong>繁體中文</strong>作為預設語言，這不只是技術決定——這是一種文化宣言。',
