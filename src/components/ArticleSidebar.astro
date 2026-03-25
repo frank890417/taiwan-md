@@ -3,7 +3,7 @@
  * ArticleSidebar — Right sidebar with reading time, tags, share buttons.
  * Fully i18n-aware: date formatting, reading time label, share labels.
  */
-import { getLangPrefix, t } from '../i18n/ui';
+import { useTranslatedPath, useTranslations } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
 
 interface Props {
@@ -28,20 +28,20 @@ const {
   lastModified,
   contributors = [],
   category,
-  categoryName,
   categoryColor,
   slug,
   lang = 'zh-TW',
 } = Astro.props;
 
-const langPrefix = getLangPrefix(lang);
+const t = useTranslations(lang);
+const translatePath = useTranslatedPath(lang);
+const langPrefix = translatePath(lang);
 const articleUrl = `https://taiwan.md${langPrefix}/${category}/${slug}`;
 const encodedUrl = encodeURIComponent(articleUrl);
 const encodedTitle = encodeURIComponent(title);
 
 // Locale-aware date formatting
-const dateLocale =
-  lang === 'zh-TW' ? 'zh-TW' : lang === 'es' ? 'es-ES' : 'en-US';
+const dateLocale = lang === 'zh-TW' ? 'zh-TW' : 'en-US';
 const dateOpts: Intl.DateTimeFormatOptions = {
   year: 'numeric',
   month: 'long',
@@ -57,38 +57,17 @@ const displayModified = lastModified
 
 // i18n labels
 const readingTimeLabel =
-  lang === 'zh-TW'
-    ? `${readingTime} 分鐘閱讀`
-    : lang === 'es'
-      ? `${readingTime} min de lectura`
-      : `${readingTime} min read`;
+  lang === 'zh-TW' ? `${readingTime} 分鐘閱讀` : `${readingTime} min read`;
 
-const updatedLabel =
-  lang === 'zh-TW' ? '更新於' : lang === 'es' ? 'Actualizado' : 'Updated';
-const keywordsLabel =
-  lang === 'zh-TW' ? '關鍵詞' : lang === 'es' ? 'Etiquetas' : 'Tags';
-const shareLabel = t('article.share', lang);
-const copyLinkLabel = t('article.copyLink', lang);
-const copiedLabel = t('article.copied', lang);
+const updatedLabel = lang === 'zh-TW' ? '更新於' : 'Updated';
+const keywordsLabel = lang === 'zh-TW' ? '關鍵詞' : 'Tags';
+const shareLabel = t('article.share');
+const copyLinkLabel = t('article.copyLink');
+const copiedLabel = t('article.copied');
 
-const shareXLabel =
-  lang === 'zh-TW'
-    ? '分享到 X'
-    : lang === 'es'
-      ? 'Compartir en X'
-      : 'Share on X';
-const shareFBLabel =
-  lang === 'zh-TW'
-    ? '分享到 Facebook'
-    : lang === 'es'
-      ? 'Compartir en Facebook'
-      : 'Share on Facebook';
-const shareLINELabel =
-  lang === 'zh-TW'
-    ? '分享到 LINE'
-    : lang === 'es'
-      ? 'Compartir en LINE'
-      : 'Share on LINE';
+const shareXLabel = lang === 'zh-TW' ? '分享到 X' : 'Share on X';
+const shareFBLabel = lang === 'zh-TW' ? '分享到 Facebook' : 'Share on Facebook';
+const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
 ---
 
 <aside class="article-sidebar">

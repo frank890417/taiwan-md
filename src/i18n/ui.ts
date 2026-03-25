@@ -249,34 +249,3 @@ export const ui = {
     'CategoryGrid.alt-category-image-suffix': '主題相關圖片',
   },
 } as const;
-
-// ── Helper utilities ──────────────────────────────────────────────────────────
-
-export function getLangPrefix(lang: Lang): string {
-  if (lang === 'zh-TW') return '';
-  return `/${lang}`;
-}
-
-export function getLocaleFromPath(path: string): Lang {
-  if (path.startsWith('/en')) return 'en';
-  if (path.startsWith('/es')) return 'es';
-  return 'zh-TW';
-}
-
-export function getActiveLocales(): Lang[] {
-  return ['zh-TW', 'en'];
-}
-
-export function t(key: string, lang: Lang = defaultLang): string {
-  const localeStrings = ui[lang] as Record<string, string> | undefined;
-  if (localeStrings && key in localeStrings) {
-    return localeStrings[key];
-  }
-  if (lang !== 'en' && key in ui.en) {
-    return ui.en[key as keyof typeof ui.en];
-  }
-  if (key in ui['zh-TW']) {
-    return ui['zh-TW'][key as keyof (typeof ui)['zh-TW']];
-  }
-  return key;
-}

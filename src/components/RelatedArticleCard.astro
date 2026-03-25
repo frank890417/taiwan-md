@@ -3,7 +3,8 @@
  * RelatedArticleCard — Premium card with cover image, category badge, title, description.
  * Used in the related articles grid below the article body.
  */
-import { getLangPrefix, t } from '../i18n/ui';
+
+import { useTranslatedPath } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
 
 interface Props {
@@ -30,10 +31,10 @@ const {
   lang = 'zh-TW',
 } = Astro.props;
 
-const langPrefix = getLangPrefix(lang);
-const articleHref = `${langPrefix}/${category}/${slug}`;
-const readMoreLabel =
-  lang === 'es' ? 'Leer artículo' : lang === 'en' ? 'Read article' : '閱讀全文';
+const translatePath = useTranslatedPath(lang);
+
+const articleHref = translatePath(`/${category}/${slug}`);
+const readMoreLabel = lang === 'en' ? 'Read article' : '閱讀全文';
 ---
 
 <a href={articleHref} class="related-card" aria-label={title}>
