@@ -35,15 +35,19 @@ export const GET: APIRoute = async () => {
       for (const file of files.filter(
         (f) => f.endsWith('.md') && !f.startsWith('_'),
       )) {
-        const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
-        const name = basename(file, '.md');
-        searchIndex.push({
-          t: data.title || name,
-          d: data.description || '',
-          u: `/${slug}/${name}`,
-          tags: data.tags || [],
-          lang: 'zh-TW',
-        });
+        try {
+          const { data } = matter(await readFile(join(zhPath, file), 'utf-8'));
+          const name = basename(file, '.md');
+          searchIndex.push({
+            t: data.title || name,
+            d: data.description || '',
+            u: `/${slug}/${name}`,
+            tags: data.tags || [],
+            lang: 'zh-TW',
+          });
+        } catch {
+          // YAML parse error, skip this file
+        }
       }
     } catch {}
     // English articles
@@ -53,15 +57,19 @@ export const GET: APIRoute = async () => {
       for (const file of files.filter(
         (f) => f.endsWith('.md') && !f.startsWith('_'),
       )) {
-        const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
-        const name = basename(file, '.md');
-        searchIndex.push({
-          t: data.title || name,
-          d: data.description || '',
-          u: `/en/${slug}/${name}`,
-          tags: data.tags || [],
-          lang: 'en',
-        });
+        try {
+          const { data } = matter(await readFile(join(enPath, file), 'utf-8'));
+          const name = basename(file, '.md');
+          searchIndex.push({
+            t: data.title || name,
+            d: data.description || '',
+            u: `/en/${slug}/${name}`,
+            tags: data.tags || [],
+            lang: 'en',
+          });
+        } catch {
+          // YAML parse error, skip this file
+        }
       }
     } catch {}
   }

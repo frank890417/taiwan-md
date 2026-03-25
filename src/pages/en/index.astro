@@ -45,14 +45,18 @@ for (const cat of categories) {
     );
 
     for (const file of mdFiles) {
-      const content = await readFile(join(folderPath, file), 'utf-8');
-      const { data: frontmatter } = matter(content);
-      const slug = basename(file, '.md');
-      allArticles.push({
-        title: frontmatter.title || slug,
-        url: `/en/${cat.id}/${slug}`,
-        category: cat.name,
-      });
+      try {
+        const content = await readFile(join(folderPath, file), 'utf-8');
+        const { data: frontmatter } = matter(content);
+        const slug = basename(file, '.md');
+        allArticles.push({
+          title: frontmatter.title || slug,
+          url: `/en/${cat.id}/${slug}`,
+          category: cat.name,
+        });
+      } catch {
+        // YAML parse error in this file, skip it
+      }
     }
   } catch {
     // folder doesn't exist, skip
