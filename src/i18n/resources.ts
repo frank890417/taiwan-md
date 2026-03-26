@@ -354,6 +354,8 @@ export const resourcesUI = {
     'resources.site.brill': 'Brill Encyclopedia of Taiwan Studies',
     'resources.site.itri': 'Industrial Technology Research Institute',
     'resources.site.niar': 'National Applied Research Laboratories',
+    'resources.site.airitilibrary': 'airiti Library',
+    'resources.site.ndltd': 'National Digital Library of Theses and Dissertations in Taiwan',
 
     'resources.site.ncl': 'National Central Library',
     'resources.site.npm': 'National Palace Museum',
@@ -401,11 +403,15 @@ export const resourcesUI = {
     'resources.site.tvbs': 'TVBS News',
     'resources.site.setn': 'SET News',
     'resources.site.ebc': 'EBC News',
+    'resources.site.commonwealth': 'CommonWealth Magazine',
+    'resources.site.businesstoday': 'Business Today',
+    'resources.site.businessweekly': 'Business Weekly',
 
     'resources.site.twreporter': 'The Reporter',
     'resources.site.taiwanNews': 'Taiwan News',
     'resources.site.thenewslens': 'The News Lens',
-    'resources.site.commonwealth': 'CommonWealth Magazine',
+    'resources.site.upmedia': 'The Storm Media',
+    'resources.site.storm': 'The Up Media',
 
     'resources.site.tahr': 'Taiwan Association for Human Rights',
     'resources.site.teia': 'Taiwan Environmental Information Association',
@@ -806,6 +812,8 @@ export const resourcesUI = {
     'resources.site.brill': 'Brill 台灣研究百科全書',
     'resources.site.itri': '工研院',
     'resources.site.niar': '國家實驗研究院',
+    'resources.site.airitilibrary': '華藝線上圖書館',
+    'resources.site.ndltd': '臺灣博碩士論文知識加值系統',
 
     'resources.site.ncl': '國立國家圖書館',
     'resources.site.npm': '國立故宮博物院',
@@ -853,11 +861,15 @@ export const resourcesUI = {
     'resources.site.tvbs': 'TVBS新聞網',
     'resources.site.setn': '三立新聞網',
     'resources.site.ebc': '東森新聞',
+    'resources.site.commonwealth': '天下雜誌',
+    'resources.site.businesstoday': '今週刊',
+    'resources.site.businessweekly': '商業週刊',
 
     'resources.site.twreporter': '報導者',
     'resources.site.taiwanNews': 'Taiwan News',
     'resources.site.thenewslens': '關鍵評論網',
-    'resources.site.commonwealth': '天下雜誌',
+    'resources.site.upmedia': '風傳媒',
+    'resources.site.storm': '上報',
 
     'resources.site.tahr': '台灣人權促進會',
     'resources.site.teia': '台灣環境資訊協會',

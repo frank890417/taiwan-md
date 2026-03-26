@@ -182,6 +182,8 @@ export const cultureUniversities: ResourceSite[] = [
   { nameKey: 'resources.site.brill', url: 'https://referenceworks.brill.com/display/db/etso', domain: 'referenceworks.brill.com' },
   { nameKey: 'resources.site.itri', url: 'https://www.itri.org.tw/', domain: 'itri.org.tw' },
   { nameKey: 'resources.site.niar', url: 'https://www.niar.org.tw/', domain: 'niar.org.tw' },
+  { nameKey: 'resources.site.airitilibrary', url: 'https://www.airitilibrary.com/', domain: 'airitilibrary.com' },
+  { nameKey: 'resources.site.ndltd', url: 'https://ndltd.ncl.edu.tw', domain: 'ndltd.ncl.edu.tw' },
 ];
 
 export const cultureMuseums: ResourceSite[] = [
@@ -240,6 +242,9 @@ export const mediaMainstream: ResourceSite[] = [
   { nameKey: 'resources.site.tvbs', url: 'https://news.tvbs.com.tw/', domain: 'news.tvbs.com.tw' },
   { nameKey: 'resources.site.setn', url: 'https://www.setn.com/', domain: 'setn.com' },
   { nameKey: 'resources.site.ebc', url: 'https://news.ebc.net.tw/', domain: 'news.ebc.net.tw' },
+  { nameKey: 'resources.site.commonwealth', url: 'https://www.cw.com.tw/', domain: 'cw.com.tw' },
+  { nameKey: 'resources.site.businesstoday', url: 'https://www.businesstoday.com.tw/', domain: 'businesstoday.com.tw' },
+  { nameKey: 'resources.site.businessweekly', url: 'https://www.businessweekly.com.tw/', domain: 'businessweekly.com.tw' },
 ];
 
 export const mediaDigital: ResourceSite[] = [
@@ -247,7 +252,8 @@ export const mediaDigital: ResourceSite[] = [
   { nameKey: 'resources.site.ptt', url: 'https://www.ptt.cc/', domain: 'ptt.cc', featured: true, descKey: 'resources.featured.ptt' },
   { nameKey: 'resources.site.taiwanNews', url: 'https://www.taiwannews.com.tw/', domain: 'taiwannews.com.tw' },
   { nameKey: 'resources.site.thenewslens', url: 'https://www.thenewslens.com/', domain: 'thenewslens.com' },
-  { nameKey: 'resources.site.commonwealth', url: 'https://www.cw.com.tw/', domain: 'cw.com.tw' },
+  { nameKey: 'resources.site.upmedia', url: 'http://www.upmedia.mg/', domain: 'upmedia.mg' },
+  { nameKey: 'resources.site.storm', url: 'https://www.storm.mg/', domain: 'storm.mg' },
 ];
 
 export const mediaNgo: ResourceSite[] = [
