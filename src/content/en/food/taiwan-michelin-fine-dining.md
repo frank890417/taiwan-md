@@ -1,8 +1,15 @@
 ---
 title: 'Taiwan Michelin Guide and Fine Dining'
-description: 'In 2018, the red cover of the Michelin Guide was first printed with "TAIPEI," marking Taiwan\'s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan\'s culinary culture showcases its captivating blend of tradition and innovation on the international stage.'
+description: 'In 2018, the red cover of the Michelin Guide was first printed with "TAIPEI," marking Taiwan''s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan''s culinary culture showcases its captivating blend of tradition and innovation on the international stage.'
 date: 2026-03-20
-tags: [Michelin, fine dining, starred restaurants, Taiwanese cuisine, internationalization]
+tags:
+  [
+    Michelin,
+    fine dining,
+    starred restaurants,
+    Taiwanese cuisine,
+    internationalization,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 8
 featured: true
@@ -14,7 +21,7 @@ lastHumanReview: false
 # Taiwan Michelin Guide and Fine Dining
 
 > "In Taiwan, we witness the most spectacular fusion of culinary cultures. From the folk wisdom of street stalls to the refined craftsmanship of starred restaurants, the chefs here are telling Taiwan's gastronomic story in an international language."
-> 
+>
 > —— Gwendal Poullennec, International Director of Michelin Guides
 
 On March 14, 2018, the ballroom of the Grand Hyatt Taipei was ablaze with lights. When the International Director of Michelin Guides announced the official release of "Michelin Guide Taipei," Taiwan's culinary industry welcomed a historic moment. From then on, this French brand that started with tires began using its stars to give voice to Taiwanese cuisine on the international stage.
@@ -137,7 +144,7 @@ Michelin evaluation's commercial influence sometimes creates tension with cultur
 
 As Michelin guides take root in Taiwan, we see more chefs considering an important question: How to express Taiwan's taste culture in an international language?
 
-**[[RAW]]**'s chef [[André Chiang]] provides a direction for thinking. He doesn't deliberately promote "Taiwanese cuisine" but uses modern cooking techniques to interpret Taiwan's ingredients and taste memories. When foreign guests taste his cuisine, they feel Taiwan's terroir rather than specific Taiwanese dish names.
+**[[RAW]]**'s chef [[andre-chiang-taiwanese-culinary-innovator]] provides a direction for thinking. He doesn't deliberately promote "Taiwanese cuisine" but uses modern cooking techniques to interpret Taiwan's ingredients and taste memories. When foreign guests taste his cuisine, they feel Taiwan's terroir rather than specific Taiwanese dish names.
 
 This "de-labeling" expression of Taiwan flavors might be a future trend. What matters isn't what the dish is called but whether it can convey Taiwan's unique cultural content.
 

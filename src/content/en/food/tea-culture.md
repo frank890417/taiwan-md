@@ -10,9 +10,9 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 category: Food
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg"
-imageAlt: "Taiwan Oolong Tea package with Formosa Oolong Tea branding"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
+imageAlt: 'Taiwan Oolong Tea package with Formosa Oolong Tea branding'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 ---
 
 # Echoes of the Golden Age：Taiwan Tea Culture Evolution and Craftsmanship
@@ -127,4 +127,4 @@ This isn't just the story of a cup of tea—it's the story of how an island main
 - [[Food/Taiwan Street Food]]
 - [[Food/Night Market Culture and Street Food]]
 - [[Culture/Ethnic Culture]]
-- [[Economy/Economic Miracle]]
+- [[economic-miracle]]

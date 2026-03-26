@@ -1,5 +1,5 @@
 ---
-title: Post-Martial Law Taiwanese Literature: An Explosion of Freedom
+title: 'Post-Martial Law Taiwanese Literature: An Explosion of Freedom'
 category: Art
 tags: [Literature, Martial Law, Localization]
 date: 2026-03-20

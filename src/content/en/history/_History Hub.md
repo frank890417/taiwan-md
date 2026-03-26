@@ -24,31 +24,31 @@ If history is humanity's collective memory, then Taiwan is one of the richest re
 
 Six thousand years ago, when humans elsewhere were still learning agriculture, Taiwan was already the cradle of Austronesian civilization. These brave oceanic peoples set forth from Taiwan in outrigger canoes to conquer the entire Pacific, establishing the most geographically dispersed language family empire from Easter Island to Madagascar. Taiwan was not the world's periphery, but the launching point of humanity's greatest maritime adventure. However, when European powers of the Age of Exploration arrived, Taiwan's indigenous peoples faced their first civilizational shock. Dutch, Spanish, and Ming loyalist forces competed here, each trying to redefine this island according to their own logic. This was Taiwan's first lesson in "multi-rule adaptation."
 
-[[Prehistoric Era and Indigenous Peoples]] | [[History of Taiwan's Indigenous Peoples and Name Recognition Movement]] | [[Dutch-Spanish-Ming Loyalist Period]] | [[Qing Period]]
+[[prehistoric-era-and-indigenous-peoples]] | [[History of Taiwan's Indigenous Peoples and Name Recognition Movement]] | [[Dutch-Spanish-Ming Loyalist Period]] | [[Qing Period]]
 
 ## ⚔️ Imperial Ambitions and Modernization Experiments
 
 In 1895, the Treaty of Shimonoseki transformed Taiwan from Qing's "outer territory" into the Japanese Empire's "model colony." The following fifty years marked Taiwan's most contradictory golden age. The Japanese conducted Asia's largest-scale modernization experiment in Taiwan: building the island-spanning railway, establishing modern healthcare systems, creating the Imperial University, and implementing compulsory education. When Alishan's cypress logs rolled down the mountain, they carried not just timber, but the dreams of an agricultural society's transformation into an industrial one. The price was cultural suppression and war mobilization. The Kominka movement attempted to transform Taiwanese into Japanese, yet paradoxically birthed modern Taiwanese consciousness. This history teaches us that modernization and colonialism can coexist, but modernized people won't remain silent forever.
 
-[[Japanese Colonial Period]] | [[Taiwan Railway History]]
+[[Japanese Colonial Period]] | [[taiwan-railway-history]]
 
 ## 🔇 Authoritarian Curtains and Traumatic Memories
 
 On February 27, 1947, a gunshot on Taipei's streets opened Taiwan's darkest postwar chapter. The February 28 Incident was the first direct confrontation between Taiwanese and the KMT government, marking the beginning of Taiwan's modern political trauma. The following thirty-eight years of martial law saw Taiwan endure political repression under the glow of economic miracle. White Terror gunshots echoed on Green Island, military dependents' villages nursed homesickness during Chinese New Year, yet democratic seeds quietly sprouted in the most unlikely places. Authoritarian rule's contradiction lies in needing to cultivate modern citizens to support a modern state, yet modern citizens inevitably question authoritarian legitimacy. Taiwan's democratic transition wasn't a gift from heaven, but an inevitable result growing in authoritarian cracks.
 
-[[February 28 Incident]] | [[White Terror in Taiwan]] | [[Martial Law Period]] | [[KMT Retreat to Taiwan and Postwar Reconstruction]] | [[Military Dependents' Village History]]
+[[february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory]] | [[White Terror in Taiwan]] | [[Martial Law Period]] | [[KMT Retreat to Taiwan and Postwar Reconstruction]] | [[Military Dependents' Village History]]
 
 ## 🗳️ Quiet Revolution and Political Breakthrough
 
 On September 28, 1986, the Democratic Progressive Party was founded at the Grand Hotel Taipei—the first organization to openly challenge KMT one-party rule during martial law. From that moment, Taiwan's politics entered an irreversible democratization process. Lifting of martial law in 1987, direct presidential elections in 1996, and party alternation in 2000—Taiwan completed in fourteen years what might take other countries decades. More importantly, this revolution was so quiet that many forgot how incredible it once seemed. The night Chiang Ching-kuo announced he wouldn't seek re-election, there were no military mutinies, political assassinations, or even large demonstrations. Taiwanese seemed to already know democracy would come, patiently waiting for it to happen naturally. Where did this political maturity come from? Perhaps precisely because Taiwanese had witnessed too many regime changes to take any political promises too seriously.
 
-[[Democratization]] | [[Taiwan Democracy Movement]] | [[Taiwan Elections and Party Politics]]
+[[democratization]] | [[Taiwan Democracy Movement]] | [[taiwan-elections-and-party-politics]]
 
 ## 🌊 Economic Leap and Geopolitical Games
 
 Postwar Taiwan's greatest mystery isn't political transition, but economic miracle. How did a small island lacking natural resources, densely populated, and politically turbulent leap from agricultural society to industrial powerhouse within thirty years? The answer lies in Taiwanese oceanic genes. From being a 17th-century international trade hub to developing a 20th-century export-oriented economy, Taiwanese inherently knew how to do business with the world. Even during the most isolated martial law years, Taiwan's economic tentacles extended to every corner of the globe. Yet economic achievements cannot escape geopolitical realities. Taiwan Strait crises, cross-strait division, and international isolation are structural challenges Taiwan must face. Taiwan's history teaches us that small nations' survival depends not on resisting great powers, but on creating their own irreplaceability.
 
-[[Taiwan's Economic Miracle: From Agricultural Society to Asian Tiger]] | [[Postwar Economic Development]] | [[Taiwan Maritime Trade History]] | [[Taiwan Strait Crises and Cross-Strait Relations]]
+[[taiwan-economic-miracle-from-agriculture-to-asian-tiger]] | [[postwar-economic-development]] | [[taiwan-maritime-trade-history]] | [[taiwan-strait-crises-and-cross-strait-relations]]
 
 ![Chiang Kai-shek Memorial Hall](/images/wiki/aeba97222b07.jpg)
 _Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | Photo: Andreas Krebs_
@@ -56,9 +56,11 @@ _Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taip
 ## Further Reading
 
 ### Trauma and Reconciliation
-[[February 28 Incident and White Terror: Trauma and Memory under Taiwan's Authoritarian Rule]] — In-depth exploration of political persecution during the authoritarian period and transitional justice
+
+[[february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory]] — In-depth exploration of political persecution during the authoritarian period and transitional justice
 
 ### Cross-Era Topics
+
 A complete Taiwan historical narrative requires understanding how different eras influenced contemporary Taiwan. Each historical period left indelible cultural genes that constitute today's complex and rich civilizational foundation of Taiwan.
 
 ---

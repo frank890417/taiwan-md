@@ -2,7 +2,7 @@
 title: 'Taiwan Democratization'
 date: 2026-03-17
 tags: [history, democratization, politics]
-description: 'The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan\'s democratic transition—but at what cost of youth and freedom?'
+description: "The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan's democratic transition—but at what cost of youth and freedom?"
 featured: true
 lastVerified: 2026-03-20
 lastHumanReview: true
@@ -18,7 +18,7 @@ But behind this "miracle" lay decades of Taiwan society's painful struggles. Fro
 
 ## The Kaohsiung Incident: Blood and Tears on the Democratic Path
 
-December 10, 1979, International Human Rights Day. Tens of thousands gathered on Kaohsiung streets to attend a human rights event organized by *Formosa Magazine* (美麗島雜誌). But this seemingly peaceful assembly ultimately escalated into violent police-civilian clashes.
+December 10, 1979, International Human Rights Day. Tens of thousands gathered on Kaohsiung streets to attend a human rights event organized by _Formosa Magazine_ (美麗島雜誌). But this seemingly peaceful assembly ultimately escalated into violent police-civilian clashes.
 
 The incident's trigger was seemingly minor: police prohibited citizens from carrying torches, and conflict erupted during pushing and shoving. But the underlying cause ran deep: people's long-suppressed political demands under martial law finally found an outlet.
 
@@ -34,7 +34,7 @@ After the Kaohsiung Incident, Taiwan's politics reached a crossroads. Chiang Chi
 
 Choosing reform wasn't easy. Conservative factions within the KMT strongly opposed it, and the military also harbored doubts. Chiang Ching-kuo's internal struggles are visible in a 1986 remark: "Times are changing, environments are changing, trends are also changing. In response to these changes, the ruling party must use new concepts and new methods to promote reform measures on the foundation of democratic constitutionalism."
 
-Factors pushing Chiang Ching-kuo toward reform were complex. Internationally, Cold War patterns were shifting, and the United States began emphasizing human rights issues; domestically, rapid economic development led the middle class to demand more political participation; pressure from the *tangwai* (黨外, "outside the party") movement also grew. Most crucially, Chiang Ching-kuo realized that without proactive reform, the KMT regime might face an even greater crisis.
+Factors pushing Chiang Ching-kuo toward reform were complex. Internationally, Cold War patterns were shifting, and the United States began emphasizing human rights issues; domestically, rapid economic development led the middle class to demand more political participation; pressure from the _tangwai_ (黨外, "outside the party") movement also grew. Most crucially, Chiang Ching-kuo realized that without proactive reform, the KMT regime might face an even greater crisis.
 
 In September 1986, the Democratic Progressive Party (DPP) was "illegally established" under martial law, yet Chiang Ching-kuo chose "extralegal clemency," not suppressing this opposition party. This decision sent a clear signal: the era of political pluralization had arrived.
 

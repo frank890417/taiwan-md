@@ -2,16 +2,23 @@
 title: 'Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood'
 description: 'A bowl of Keelung ding-bian-cu chronicles the wandering of Fujian fishermen; a Changhua ba-wan witnesses Qing Dynasty settlers innovation. 22 counties, 22 survival wisdoms—Taiwan regional food is not just cuisine, its a migration history carved into the land.'
 date: 2026-03-24
-tags: [Regional Food, Migration Culture, Ethnic Fusion, Taiwan Culinary History, Cultural Geography]
+tags:
+  [
+    Regional Food,
+    Migration Culture,
+    Ethnic Fusion,
+    Taiwan Culinary History,
+    Cultural Geography,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 15
 featured: true
 category: 'Food'
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/DuSiaoYue_danzai_noodle_by_Prince_Roy_in_Tainan%2C_Taiwan.jpg"
-imageAlt: "Tainan Dan-Zai Noodles"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/DuSiaoYue_danzai_noodle_by_Prince_Roy_in_Tainan%2C_Taiwan.jpg'
+imageAlt: 'Tainan Dan-Zai Noodles'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 ---
 
 # Taiwan Regional Street Food Map: Flavor Codes in Migrant Blood
@@ -178,10 +185,10 @@ This is a living map, a migration history still being written, a cultural geneti
 
 ## Further Reading
 
-- [[Taiwan Night Market Culture]] — Taiwan Street Food Theater and Social Life Microcosm  
+- [[taiwan-night-market-culture]] — Taiwan Street Food Theater and Social Life Microcosm
 - [[Taiwan Street Food]] — Rich Street Food Varieties and Folk Wisdom
 - [[Taiwan Indigenous Food Culture]] — Traditional Cuisines of Various Indigenous Groups
-- [[Hakka Food Culture]] — Unique Culinary Traditions of Hakka Groups
+- [[hakka-food-culture]] — Unique Culinary Traditions of Hakka Groups
 - [[Taiwan Military Dependents Village Cuisine]] — Homesickness Map and Cultural Adaptation of Mainlander Migrants
 
 ## References

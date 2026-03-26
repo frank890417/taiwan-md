@@ -3,7 +3,6 @@ title: 'Gwei Lun-Mei'
 description: "From 'Secret' to international film festivals, a low-key method actress who represents Taiwan's new generation of cinema talent"
 date: 2026-03-20
 tags:
-subcategory: 'Film & Theater'
   [
     'Gwei Lun-Mei',
     'actress',
@@ -11,6 +10,7 @@ subcategory: 'Film & Theater'
     'international film festivals',
     'method acting',
   ]
+subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
 ---
 

@@ -138,7 +138,7 @@ This period also established patterns that would characterize Taiwan throughout 
 
 ## Related Topics
 
-- [[History/Prehistoric Era and Indigenous Peoples]]
-- [[History/Qing Dynasty Rule]]
+- [[prehistoric-era-and-indigenous-peoples]]
+- [[qing-dynasty-rule]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[Technology/Open Source Community and g0v]]
+- [[open-source-and-g0v]]

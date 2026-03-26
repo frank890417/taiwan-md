@@ -3,8 +3,8 @@ title: 'A‑Mei (張惠妹)'
 description: 'A Puyuma (卑南) powerhouse whose voice reshaped Mandopop and whose advocacy made her a symbol of Indigenous pride and LGBTQ+ allyship in Taiwan.'
 date: 2026-03-19
 tags:
-subcategory: 'Music'
   ['music', 'indigenous', 'Puyuma', 'Mandopop', 'LGBTQ+ ally', 'performance']
+subcategory: 'Music'
 lastVerified: 2026-03-19
 ---
 

@@ -5,7 +5,6 @@ category: 'People'
 date: '2026-03-19'
 author: 'Taiwan.md'
 tags:
-subcategory: 'Politics & Democracy'
   [
     'President',
     'Physician',
@@ -14,6 +13,7 @@ subcategory: 'Politics & Democracy'
     'Public Health',
     'Tainan',
   ]
+subcategory: 'Politics & Democracy'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19

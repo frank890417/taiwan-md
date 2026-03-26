@@ -1,8 +1,163 @@
 {
-  "stars": 865,
-  "forks": 113,
-  "contributors": 30,
-  "zhPages": 450,
-  "enPages": 489,
-  "totalPages": 939
+  "totalArticles": 940,
+  "totalCategories": 17,
+  "estimatedContributors": 63,
+  "totalTags": 2500,
+  "categories": [
+    {
+      "name": "en",
+      "count": 489
+    },
+    {
+      "name": "History",
+      "count": 23
+    },
+    {
+      "name": "Culture",
+      "count": 34
+    },
+    {
+      "name": "Society",
+      "count": 25
+    },
+    {
+      "name": "Economy",
+      "count": 47
+    },
+    {
+      "name": "People",
+      "count": 115
+    },
+    {
+      "name": "Lifestyle",
+      "count": 17
+    },
+    {
+      "name": "ja",
+      "count": 7
+    },
+    {
+      "name": "Art",
+      "count": 26
+    },
+    {
+      "name": "Food",
+      "count": 30
+    },
+    {
+      "name": "Technology",
+      "count": 22
+    },
+    {
+      "name": "Nature",
+      "count": 25
+    },
+    {
+      "name": "Geography",
+      "count": 18
+    },
+    {
+      "name": "Music",
+      "count": 20
+    },
+    {
+      "name": "About",
+      "count": 6
+    },
+    {
+      "name": "es",
+      "count": 34
+    },
+    {
+      "name": "resources",
+      "count": 2
+    }
+  ],
+  "topTags": [
+    {
+      "name": "Economy",
+      "count": 58
+    },
+    {
+      "name": "人物",
+      "count": 49
+    },
+    {
+      "name": "企業",
+      "count": 30
+    },
+    {
+      "name": "people",
+      "count": 20
+    },
+    {
+      "name": "台灣",
+      "count": 16
+    },
+    {
+      "name": "literature",
+      "count": 16
+    },
+    {
+      "name": "半導體",
+      "count": 14
+    },
+    {
+      "name": "原住民",
+      "count": 13
+    },
+    {
+      "name": "culture",
+      "count": 13
+    },
+    {
+      "name": "Taiwan",
+      "count": 12
+    },
+    {
+      "name": "金曲獎",
+      "count": 11
+    },
+    {
+      "name": "ODM",
+      "count": 11
+    },
+    {
+      "name": "History",
+      "count": 11
+    },
+    {
+      "name": "數位轉型",
+      "count": 11
+    },
+    {
+      "name": "音樂",
+      "count": 11
+    },
+    {
+      "name": "體育",
+      "count": 11
+    },
+    {
+      "name": "Technology",
+      "count": 11
+    },
+    {
+      "name": "歷史",
+      "count": 10
+    },
+    {
+      "name": "文學",
+      "count": 10
+    },
+    {
+      "name": "文化",
+      "count": 10
+    }
+  ],
+  "languageDistribution": {
+    "zh-TW": 940,
+    "en": 0
+  },
+  "lastUpdated": "2026-03-26T03:53:25.227Z"
 }

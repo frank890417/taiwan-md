@@ -3,7 +3,6 @@ title: 'Jimmy Liao'
 description: 'Taiwan’s most internationally recognized picture‑book artist, whose poetic illustrations turned ‘繪本’ (picture books) into a bridge between childhood and adult emotion.'
 date: 2026-03-19
 tags:
-subcategory: 'Arts & Design'
   [
     'people',
     'illustration',
@@ -12,6 +11,7 @@ subcategory: 'Arts & Design'
     'yilan',
     'visual culture',
   ]
+subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 ---
 

@@ -66,7 +66,7 @@ Active participation in global trade and attracting foreign investment, successf
 
 ## Related Topics
 
-- [[Technology/Semiconductor Industry]]
-- [[Lifestyle/convenience-store-culture]]
-- [[Society/democratic-system]]
-- [[History/democratization]]
+- [[semiconductor-industry]]
+- [[convenience-store-culture]]
+- [[democratic-system]]
+- [[democratization]]

@@ -1,8 +1,15 @@
 ---
-title: 'The Love Story of Mazu and Dadaogong: Taiwan\'s Most Romantic Weather Forecast'
-description: '"Dadaogong Wind, Mazu Rain" isn\'t just a weather saying—it hides a tale of divine love and revenge between two deities'
+title: "The Love Story of Mazu and Dadaogong: Taiwan's Most Romantic Weather Forecast"
+description: '"Dadaogong Wind, Mazu Rain" isn''t just a weather saying—it hides a tale of divine love and revenge between two deities'
 date: 2026-03-21
-tags: ['Taiwanese culture', 'folk beliefs', 'Mazu', 'Baosheng Dadi', 'weather proverbs']
+tags:
+  [
+    'Taiwanese culture',
+    'folk beliefs',
+    'Mazu',
+    'Baosheng Dadi',
+    'weather proverbs',
+  ]
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

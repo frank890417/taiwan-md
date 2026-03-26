@@ -9,7 +9,7 @@ tags:
     Martial Law,
     Political Persecution,
     Transitional Justice,
-    "228",
+    '228',
     Democratization,
   ]
 author: 'Taiwan.md'
@@ -32,7 +32,7 @@ The White Terror is not merely political history—it is human history. It teste
 ### The Chinese Civil War and Government Relocation
 
 **Historical Context:**
-In 1945, Japan surrendered and the Republic of China government took over Taiwan. However, just four years later, with the Chinese Civil War turning against the Kuomintang (KMT), the ROC government was forced to relocate to Taiwan. The [[February 28 Incident]] had already laid the groundwork for the subsequent White Terror.
+In 1945, Japan surrendered and the Republic of China government took over Taiwan. However, just four years later, with the Chinese Civil War turning against the Kuomintang (KMT), the ROC government was forced to relocate to Taiwan. The [[february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory]] had already laid the groundwork for the subsequent White Terror.
 
 **Declaration of Martial Law:**
 On May 19, 1949, Taiwan Provincial Governor [[Chen Cheng]] declared martial law in Taiwan, ostensibly in response to the "wartime situation" and "communist rebellion." This measure, intended to be temporary, lasted for 38 years and 56 days, becoming the longest period of martial law in world history.
@@ -132,7 +132,7 @@ The Garrison Command conducted large-scale arrests in the Luku mountain area nea
 [[Lei Chen]], publisher of _Free China_ magazine, and others were arrested and sentenced for criticizing authoritarian rule, marking a major setback for liberal intellectuals.
 
 **Formosa Incident (1979):**
-Democratic movement leaders including [[Shih Ming-te]], [[Huang Hsin-chieh]], and [[Chen Chu]] were arrested for participating in _Formosa_ magazine activities, becoming a crucial turning point in Taiwan's democracy movement.
+Democratic movement leaders including [[shih-ming-te]], [[Huang Hsin-chieh]], and [[chen-chun-liang-design-poet]] were arrested for participating in _Formosa_ magazine activities, becoming a crucial turning point in Taiwan's democracy movement.
 
 **Chen Wen-chen Incident (1981):**
 Scholar [[Chen Wen-chen]], who had returned from studying in the US, was found dead on the National Taiwan University campus after being questioned, shocking Taiwanese communities worldwide.

@@ -1,9 +1,16 @@
 ---
-title: 'Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan\'s Living History Source'
-description: 'Huang Zhen-nan is a Taiwanese cultural historian, book collector, and writer who gained fame through his PTT username Sizumaru and runs the "Living Water Bookstore" social media presence sharing Taiwan history and antiquarian book culture. Author of "The Most Entertaining Taiwan History Ever," he\'s dubbed "the Takenouchi Yutaka of book collecting" for making serious Taiwan history accessible and engaging.'
+title: "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan's Living History Source"
+description: 'Huang Zhen-nan is a Taiwanese cultural historian, book collector, and writer who gained fame through his PTT username Sizumaru and runs the "Living Water Bookstore" social media presence sharing Taiwan history and antiquarian book culture. Author of "The Most Entertaining Taiwan History Ever," he''s dubbed "the Takenouchi Yutaka of book collecting" for making serious Taiwan history accessible and engaging.'
 date: 2026-03-20T00:00:00Z
 updated: 2026-03-20T00:00:00Z
-tags: ['Taiwan history', 'book collector', 'Huang Zhen-nan', 'Taiwanese history', 'Living Water Bookstore']
+tags:
+  [
+    'Taiwan history',
+    'book collector',
+    'Huang Zhen-nan',
+    'Taiwanese history',
+    'Living Water Bookstore',
+  ]
 subcategory: 'Literature'
 author: 'Taiwan.md Contributors (sourced from Wikipedia and public reports)'
 difficulty: 'intermediate'

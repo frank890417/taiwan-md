@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Cinema: From New Wave to International Recognition
+title: 'Taiwanese Cinema: From New Wave to International Recognition'
 category: Art
 tags: [cinema, new wave, art]
 date: 2026-03-18

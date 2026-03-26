@@ -1,9 +1,19 @@
 ---
 title: 'Religion and Folk Beliefs'
-description: 'From Fear Management to Faith Empire: How Taiwan Created the World's Most Dense Yet Freest Religious Ecosystem'
+description: "From Fear Management to Faith Empire: How Taiwan Created the World's Most Dense Yet Freest Religious Ecosystem"
 date: 2026-03-22
 category: lifestyle
-tags: [lifestyle, religion, Mazu, folk beliefs, temple culture, Wangye worship, religious freedom, pragmatism]
+tags:
+  [
+    lifestyle,
+    religion,
+    Mazu,
+    folk beliefs,
+    temple culture,
+    Wangye worship,
+    religious freedom,
+    pragmatism,
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 16
 lastVerified: 2026-03-22
@@ -183,7 +193,7 @@ When you next see flourishing temples on Taiwan streets, feel not just religious
 ## Further Reading
 
 - [[Taiwan Immigrant Society Development]]：Understanding how early immigrants established protection deity worship
-- [[Taiwan Tourism Industry]]：Religious tourism's important position in Taiwan's travel industry  
+- [[Taiwan Tourism Industry]]：Religious tourism's important position in Taiwan's travel industry
 - [[Taiwan Cultural Creative Industry]]：Modern innovative applications of traditional religious elements
 - [[Taiwan Social Change]]：How religious beliefs adapt to modern social transformation
 - [[Taiwan Soft Power]]：Religious culture as important resource for international exchange

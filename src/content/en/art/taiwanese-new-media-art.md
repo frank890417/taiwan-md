@@ -1,5 +1,5 @@
 ---
-title: Taiwanese New Media Art: Island Creativity in the Digital Age
+title: 'Taiwanese New Media Art: Island Creativity in the Digital Age'
 category: Art
 tags: [New Media Art, Digital Art, Technology Art, Generative Art, VR, p5.js]
 date: 2026-03-20

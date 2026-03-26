@@ -1,5 +1,5 @@
 ---
-title: New Media Art in Taiwan: Digital Creation
+title: 'New Media Art in Taiwan: Digital Creation'
 category: Art
 tags: [new-media-art, digital-art, tech-art, generative-art]
 date: 2026-03-20

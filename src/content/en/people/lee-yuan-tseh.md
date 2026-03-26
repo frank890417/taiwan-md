@@ -2,7 +2,6 @@
 title: 'Lee Yuan-tseh'
 category: People
 tags:
-subcategory: 'Science & Academia'
   [
     person,
     Lee Yuan-tseh,
@@ -12,6 +11,7 @@ subcategory: 'Science & Academia'
     Academia Sinica,
     Taiwan,
   ]
+subcategory: 'Science & Academia'
 date: 2026-03-17
 ---
 

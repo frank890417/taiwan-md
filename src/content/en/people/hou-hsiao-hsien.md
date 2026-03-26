@@ -2,7 +2,6 @@
 title: 'Hou Hsiao-hsien'
 category: People
 tags:
-subcategory: 'Film & Theater'
   [
     person,
     Hou Hsiao-hsien,
@@ -12,6 +11,7 @@ subcategory: 'Film & Theater'
     Cannes Film Festival,
     cinema art,
   ]
+subcategory: 'Film & Theater'
 date: 2026-03-17
 ---
 

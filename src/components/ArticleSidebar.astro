@@ -12,6 +12,8 @@ interface Props {
   readingTime?: number;
   date?: string;
   lastModified?: string;
+  commitHash?: string;
+  revisionCount?: number;
   contributors?: string[];
   category: string;
   categoryName: string;
@@ -26,6 +28,8 @@ const {
   readingTime,
   date,
   lastModified,
+  commitHash = '',
+  revisionCount = 0,
   contributors = [],
   category,
   categoryColor,
@@ -64,6 +68,13 @@ const keywordsLabel = lang === 'zh-TW' ? '關鍵詞' : 'Tags';
 const shareLabel = t('article.share');
 const copyLinkLabel = t('article.copyLink');
 const copiedLabel = t('article.copied');
+
+const revisionLabel =
+  lang === 'zh-TW' ? `修訂 ${revisionCount} 次` : `${revisionCount} Revisions`;
+const hashLabel =
+  lang === 'zh-TW'
+    ? `版本 ${commitHash.substring(0, 7)}`
+    : `Commit ${commitHash.substring(0, 7)}`;
 
 const shareXLabel = lang === 'zh-TW' ? '分享到 X' : 'Share on X';
 const shareFBLabel = lang === 'zh-TW' ? '分享到 Facebook' : 'Share on Facebook';
@@ -137,6 +148,58 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
           <span>
             {updatedLabel} {displayModified}
           </span>
+        </div>
+      )
+    }
+    {
+      revisionCount > 0 && (
+        <div class="meta-row meta-row--subtle">
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            aria-hidden="true"
+          >
+            <>
+              <circle cx="18" cy="18" r="3" />
+              <circle cx="6" cy="6" r="3" />
+              <path d="M6 9v12" />
+              <path d="M18 15V9a6 6 0 0 0-6-6" />
+            </>
+          </svg>
+          <span>{revisionLabel}</span>
+        </div>
+      )
+    }
+    {
+      commitHash && (
+        <div class="meta-row meta-row--subtle">
+          <svg
+            width="14"
+            height="14"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            aria-hidden="true"
+          >
+            <>
+              <circle cx="12" cy="12" r="3" />
+              <line x1="3" y1="12" x2="9" y2="12" />
+              <line x1="15" y1="12" x2="21" y2="12" />
+            </>
+          </svg>
+          <a
+            href={`https://github.com/frank890417/taiwan-md/commit/${commitHash}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="commit-link"
+          >
+            {hashLabel}
+          </a>
         </div>
       )
     }
@@ -314,6 +377,15 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
   }
   .meta-row--subtle {
     color: #7a8b7e;
+  }
+  .commit-link {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.15s;
+  }
+  .commit-link:hover {
+    color: #1a3c34;
+    text-decoration: underline;
   }
 
   /* Tags */

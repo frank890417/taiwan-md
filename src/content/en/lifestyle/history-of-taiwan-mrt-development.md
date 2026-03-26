@@ -1,8 +1,19 @@
 ---
 title: 'History of Taiwan MRT Development'
-description: 'From the 1996 Muzha Line opening to driverless circular lines, how Taiwan\'s MRT systems transformed urban landscapes and lifestyles'
+description: "From the 1996 Muzha Line opening to driverless circular lines, how Taiwan's MRT systems transformed urban landscapes and lifestyles"
 date: 2026-03-20
-tags: [MRT, mass rapid transit, transportation, Taipei, Kaohsiung, Taoyuan, Taichung, urban development, lifestyle]
+tags:
+  [
+    MRT,
+    mass rapid transit,
+    transportation,
+    Taipei,
+    Kaohsiung,
+    Taoyuan,
+    Taichung,
+    urban development,
+    lifestyle,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 15
 featured: true
@@ -118,9 +129,9 @@ Thirty years ago, Taiwan didn't have a single kilometer of MRT. Today, MRT repre
 ## Further Reading
 
 - [[Taiwan Transportation System]] — Complete transport landscape including HSR, TRA, and buses
-- [[Taiwan Scooter Culture]] — MRT's biggest competitor
-- [[Taiwan Convenience Store Culture]] — Another infrastructure that transformed urban life
-- [[Taiwan Urban Development and Rural-Urban Divide]] — How MRT exacerbates or alleviates urban-rural gaps
+- [[taiwan-scooter-culture]] — MRT's biggest competitor
+- [[taiwan-convenience-store-culture]] — Another infrastructure that transformed urban life
+- [[taiwan-urban-development-and-rural-urban-divide]] — How MRT exacerbates or alleviates urban-rural gaps
 
 ## References
 

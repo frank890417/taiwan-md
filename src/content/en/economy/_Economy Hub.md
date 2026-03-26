@@ -1,5 +1,5 @@
 ---
-title: "Economy"
+title: 'Economy'
 date: 2026-03-17
 tags: [economy, Hub]
 description: "Taiwan developed from one of Asia's 'Four Little Dragons' to the world's 22nd largest economy with per capita GDP reaching $30,000, creating the 'Taiwan Economic Miracle.' The semiconductor industry became the economic pillar, accounting for 18% of GDP — TSMC alone contributes 7.9% of Taiwan's GDP, demonstrating the powerful economic influence of the 'Silicon Island' status."
@@ -10,7 +10,7 @@ In the 1960s, when World Bank experts came to Taiwan for economic surveys, they 
 Today, when you swipe your smartphone screen, when you work on a laptop, when the advanced chips in an electric vehicle spring to life, you are very likely using semiconductors made in Taiwan. This island occupying just 0.025% of Earth's land area controls over 60% of global semiconductor production capacity, becoming the indispensable "silicon shield" of the digital world. From a poor agricultural society to a wealthy technological power, Taiwan's economic metamorphosis is one of the most compelling chapters in all of human development history.
 
 ![TSMC fab](/images/wiki/taiwan-coast-landscape.jpg)
-*Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG) | CC BY-SA 3.0 | Photographer: Walter Siegmund*
+_Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG) | CC BY-SA 3.0 | Photographer: Walter Siegmund_
 
 ## Miraculous Years from Zero to Hero
 
@@ -26,7 +26,7 @@ In the late 1980s, when traditional manufacturing faced rising labor costs and i
 
 Morris Chang founded TSMC, pioneering the pure-play foundry business model and redefining the global semiconductor industry's division of labor. Today TSMC's market capitalization is equivalent to 99% of Taiwan's entire annual GDP. The semiconductor industry's success drove an entire technology ecosystem: MediaTek competes with Qualcomm across the global smartphone chip market; ASE is the world's number one in semiconductor packaging and testing; UMC holds a unique position in specialty processes. From IC design through wafer fabrication to packaging and testing — Taiwan built the world's most complete semiconductor supply chain. "Silicon Island" is not a romantic metaphor but a serious geopolitical reality with profound implications for global security.
 
-📖 Further Reading: [[Morris Chang]] | [[Semiconductor Industry]]
+📖 Further Reading: [[tsmc-morris-chang]] | [[semiconductor-industry]]
 
 ## Science Park Innovation Miracle
 
@@ -34,7 +34,7 @@ Hsinchu Science Park is not merely an industrial zone — it is the living symbo
 
 The industrial cluster effect creates efficiencies that stun global competitors: a chip's design, manufacturing, packaging, and testing can all be completed within a 10-kilometer radius. When Apple needs its latest processors delivered at the frontier of possibility, only Taiwan can provide highest quality on the shortest timeline. When NVIDIA launches its next generation of AI chips, the first and most critical cooperation partner is TSMC. Central and Southern Science Parks extended this north-to-south tech corridor, with Taichung's precision machinery, Tainan's optoelectronics, and Hsinchu's semiconductors forming a perfectly complementary supply chain. Despite its small area, Taiwan has assembled the world's most complete technology industrial ecosystem.
 
-📖 Further Reading: [[Science Park Development]]
+📖 Further Reading: [[science-park-development]]
 
 ## Service Economy Transformation and Upgrade
 
@@ -46,7 +46,7 @@ Logistics leverage Taiwan's geographic advantage as an Asia-Pacific transshipmen
 
 Taiwan is actively building a startup ecosystem capable of competing on the global stage. The government's "5+2 Industrial Innovation Plan" targets Asia Silicon Valley, biomedical innovation, green energy, smart machinery, defense, new agriculture, and the circular economy as priority development areas. Gogoro's electric scooter and battery-swap network not only transformed Taiwan's transportation ecology but exported an innovative business model now operating in cities across Asia. 91APP became one of Asia's largest retail technology platforms, serving over 20,000 brands. Accelerators like AppWorks provide capital, mentorship, and community from the earliest idea stage through to IPO.
 
-📖 Further Reading: [[Startup Ecosystem]] | [[Taiwan SMEs and Hidden Champions]]
+📖 Further Reading: [[startup-ecosystem]] | [[Taiwan SMEs and Hidden Champions]]
 
 ## Trade-Oriented Nation's Global Layout
 
@@ -69,19 +69,25 @@ World Bank experts viewing Taiwan again see a magnificent transformation from ai
 In an era of global supply chain reorganization, the rise of the digital economy, and the intensifying pressure of climate change, the world needs Taiwan's wisdom and experience more than ever. How this small island maintains creative vitality in changing times, maintains cooperative spirit in competition, and persists in sustainability while growing — these are questions all of humanity faces together. Taiwan economy's next chapter is not just Taiwan's story; it is the world's story.
 
 ![Taipei 101](/images/wiki/e78df09feea3.jpg)
-*Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg) | CC BY-SA 3.0 | Photographer: Andreas Krebs*
+_Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taipei_101_2009_amk.jpg) | CC BY-SA 3.0 | Photographer: Andreas Krebs_
 
 ## Further Reading
 
-- [[Semiconductor Industry]]
-- [[Morris Chang]]
-- [[TSMC]]
-- [[Science Park Development]]
-- [[Taiwan Economic Miracle]]
-- [[Startup Ecosystem]]
+- [[semiconductor-industry]]
+- [[tsmc-morris-chang]]
+- [[tsmc]]
+- [[science-park-development]]
+- [[taiwan-economic-miracle-from-agriculture-to-asian-tiger]]
+- [[startup-ecosystem]]
+- [[semiconductor-industry]]
+- [[tsmc-morris-chang]]
+- [[tsmc]]
+- [[science-park-development]]
+- [[taiwan-economic-miracle-from-agriculture-to-asian-tiger]]
+- [[startup-ecosystem]]
 - [[Taiwan SMEs and Hidden Champions]]
 - [[Hsinchu Science Park]]
 
 ---
 
-*Taiwan's economic miracle lies in using island wisdom to conquer the seas, using innovative courage to earn the world's respect.*
+_Taiwan's economic miracle lies in using island wisdom to conquer the seas, using innovative courage to earn the world's respect._

@@ -1,8 +1,17 @@
 ---
 title: Taiwan New Media Art
-description: When Huang Hsin-chien's VR work won the Best VR Experience Award at Venice, few knew the truth: this revolution wasn't driven by tech companies, but by artists who write poetry with code. Taiwan's 20-year new media art development reveals another possibility of combining technology with humanities.
+description: "When Huang Hsin-chien's VR work won the Best VR Experience Award at Venice, few knew the truth: this revolution wasn't driven by tech companies, but by artists who write poetry with code. Taiwan's 20-year new media art development reveals another possibility of combining technology with humanities."
 category: Art
-tags: [new media art, digital art, Huang Hsin-chien, LuxuryLogico, Venice Biennale, Taipei Digital Art Festival, tech art]
+tags:
+  [
+    new media art,
+    digital art,
+    Huang Hsin-chien,
+    LuxuryLogico,
+    Venice Biennale,
+    Taipei Digital Art Festival,
+    tech art,
+  ]
 date: 2026-03-24
 lastVerified: 2026-03-24
 lastHumanReview: false
@@ -159,6 +168,7 @@ In this age when AI is about to reshape everything, Taiwan new media art proves 
 ## Further Reading
 
 **Important Works & Exhibitions:**
+
 - [Huang Hsin-chien Official Site](https://www.storynest.com/2_cv.php?lang=ch) — Complete works and VR experiences
 - [LuxuryLogico Official Website](https://luxurylogico.tv/) — Mechanical poetics works collection
 - [Taipei Digital Art Center](https://dac.taipei/) — Important base for Taiwan new media art development
@@ -166,6 +176,7 @@ In this age when AI is about to reshape everything, Taiwan new media art proves 
 - [Wu Che-yu Portfolio](https://www.cheyuwu.com/) — Generative art and algorithmic aesthetics
 
 **Academic Resources:**
+
 - [Venice Biennale Taiwan Pavilion Records](https://www.taiwaninvenice.org/) — Taiwan new media art internationalization history
 - [fxHash Taiwan Artists Works](https://www.fxhash.xyz/) — Decentralized generative art platform
 - [IRCAM Forum Taipei](https://ircam.fr/) — International music technology collaboration

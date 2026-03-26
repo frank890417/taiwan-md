@@ -3,7 +3,6 @@ title: 'Cho-yun Hsu: Bridging East and West as a Master Historian'
 description: 'Master historian, author of The Course of Chinese History, Professor Emeritus at University of Pittsburgh'
 date: 2026-03-20
 tags:
-subcategory: 'Science & Academia'
   [
     'historian',
     'historiography',
@@ -11,6 +10,7 @@ subcategory: 'Science & Academia'
     'cultural history',
     'scholar',
   ]
+subcategory: 'Science & Academia'
 lastVerified: 2026-03-20
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "MediaTek: From Shanzhai King to Chip Throne"
+title: 'MediaTek: From Shanzhai King to Chip Throne'
 description: "The company mocked as the 'king of knockoff phones' now outsells Qualcomm in smartphone chips by a factor of 1.5"
 date: 2026-03-25
 tags: [Economy, Business, Semiconductors, IC Design, MediaTek]
@@ -41,16 +41,16 @@ Tsai made two moves. First, a "technology democratization" strategy: pack flagsh
 
 > **Key Numbers**
 >
-> | Metric | Figure |
-> |--------|--------|
-> | 2024 Revenue | US$16.5 billion (+19% YoY) |
-> | TTM Revenue (2025) | US$19.1 billion |
-> | Global Smartphone Chip Share | 39% (Qualcomm: 25.7%) |
-> | Global IC Design Rank | #5 (TrendForce, 2024) |
-> | 6-Year R&D Spend | Over NT$500 billion (~US$16B) |
-> | Employees with Master's/PhD | 81.8% |
+> | Metric                       | Figure                        |
+> | ---------------------------- | ----------------------------- |
+> | 2024 Revenue                 | US$16.5 billion (+19% YoY)    |
+> | TTM Revenue (2025)           | US$19.1 billion               |
+> | Global Smartphone Chip Share | 39% (Qualcomm: 25.7%)         |
+> | Global IC Design Rank        | #5 (TrendForce, 2024)         |
+> | 6-Year R&D Spend             | Over NT$500 billion (~US$16B) |
+> | Employees with Master's/PhD  | 81.8%                         |
 >
-> *Sources: [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [TrendForce](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)*
+> _Sources: [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [TrendForce](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
 
 ## The Dimensity Counterattack
 
@@ -97,7 +97,7 @@ In early 2025, MediaTek appeared on TSMC's customer list for its upcoming 2nm pr
 ## See Also
 
 - [[Taiwan Semiconductor Industry]]
-- [[TSMC]]
+- [[tsmc]]
 - [[Science Parks and Tech Development]]
 
 ---

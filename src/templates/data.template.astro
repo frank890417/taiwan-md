@@ -1110,25 +1110,48 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
 
     function initPopulationPyramid() {
       const container = document.getElementById('population-pyramid');
-      const width = Math.min(container.clientWidth, 800);
       const height = 600;
-      const margin = { top: 20, right: 40, bottom: 60, left: 100 };
+      const maxWidth = 800;
+      let width = Math.min(container.clientWidth, maxWidth);
+      let margin = getPyramidMargin(width);
+      let chartWidth = width - margin.left - margin.right;
+      let chartHeight = height - margin.top - margin.bottom;
 
       let currentYear = 2025;
+
+      function getPyramidMargin(containerWidth) {
+        if (containerWidth <= 480) {
+          return { top: 68, right: 16, bottom: 20, left: 16 };
+        }
+
+        if (containerWidth <= 768) {
+          return { top: 64, right: 24, bottom: 24, left: 24 };
+        }
+
+        return { top: 64, right: 40, bottom: 28, left: 100 };
+      }
+
+      function getInfoBoxMetrics(innerWidth) {
+        const boxWidth = Math.max(136, Math.min(180, innerWidth * 0.28));
+        const boxHeight = innerWidth <= 480 ? 92 : 100;
+        const boxX = Math.max(innerWidth - boxWidth - 8, innerWidth / 2 + 8);
+        const fontSize = innerWidth <= 480 ? 10 : 12;
+        const lineStep = innerWidth <= 480 ? 13 : 15;
+
+        return { boxWidth, boxHeight, boxX, fontSize, lineStep };
+      }
 
       const svg = d3
         .select('#population-pyramid')
         .append('svg')
         .attr('width', width)
         .attr('height', height)
-        .attr('viewBox', `0 0 ${width} ${height}`);
+        .attr('viewBox', `0 0 ${width} ${height}`)
+        .attr('preserveAspectRatio', 'xMidYMid meet');
 
       const pyramidGroup = svg
         .append('g')
         .attr('transform', `translate(${margin.left}, ${margin.top})`);
-
-      const chartWidth = width - margin.left - margin.right;
-      const chartHeight = height - margin.top - margin.bottom;
 
       // Scales
       const xScale = d3.scaleLinear().range([0, chartWidth / 2]);
@@ -1175,20 +1198,22 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         .attr('opacity', 0.8);
 
       // Labels for male/female
-      pyramidGroup
+      const maleTitle = pyramidGroup
         .append('text')
+        .attr('class', 'male-title')
         .attr('text-anchor', 'middle')
         .attr('x', chartWidth / 4)
-        .attr('y', -5)
+        .attr('y', -20)
         .attr('fill', '#cbd5e1')
         .attr('font-weight', 'bold')
         .text('男性 Male');
 
-      pyramidGroup
+      const femaleTitle = pyramidGroup
         .append('text')
+        .attr('class', 'female-title')
         .attr('text-anchor', 'middle')
         .attr('x', (chartWidth / 4) * 3)
-        .attr('y', -5)
+        .attr('y', -20)
         .attr('fill', '#cbd5e1')
         .attr('font-weight', 'bold')
         .text('女性 Female');
@@ -1197,12 +1222,10 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       const infoBox = pyramidGroup
         .append('g')
         .attr('class', 'info-box')
-        .attr('transform', `translate(${chartWidth - 200}, 20)`);
+        .attr('transform', 'translate(0, 20)');
 
-      infoBox
+      const infoBoxRect = infoBox
         .append('rect')
-        .attr('width', 180)
-        .attr('height', 100)
         .attr('fill', 'rgba(255, 255, 255, 0.05)')
         .attr('stroke', 'rgba(255, 255, 255, 0.1)')
         .attr('rx', 8);
@@ -1211,12 +1234,46 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         .append('text')
         .attr('x', 10)
         .attr('y', 20)
-        .attr('fill', '#e2e8f0')
-        .attr('font-size', '12px');
+        .attr('fill', '#e2e8f0');
+
+      function applyPyramidLayout() {
+        width = Math.min(container.clientWidth, maxWidth);
+        margin = getPyramidMargin(width);
+        chartWidth = width - margin.left - margin.right;
+        chartHeight = height - margin.top - margin.bottom;
+
+        svg
+          .attr('width', width)
+          .attr('height', height)
+          .attr('viewBox', `0 0 ${width} ${height}`);
+
+        pyramidGroup.attr(
+          'transform',
+          `translate(${margin.left}, ${margin.top})`,
+        );
+
+        xScale.range([0, chartWidth / 2]);
+        yScale.range([chartHeight, 0]);
+
+        yAxis.attr('transform', `translate(${chartWidth / 2}, 0)`);
+        femaleBars.attr('x', chartWidth / 2);
+
+        maleTitle.attr('x', chartWidth / 4).attr('y', -20);
+
+        femaleTitle.attr('x', (chartWidth / 4) * 3).attr('y', -20);
+
+        const infoMetrics = getInfoBoxMetrics(chartWidth);
+        infoBox.attr('transform', `translate(${infoMetrics.boxX}, 20)`);
+        infoBoxRect
+          .attr('width', infoMetrics.boxWidth)
+          .attr('height', infoMetrics.boxHeight);
+        infoText.attr('font-size', `${infoMetrics.fontSize}px`);
+      }
 
       function updatePyramid(year) {
         const data = populationData[year];
         const maxPop = Math.max(...data.male, ...data.female);
+        const infoMetrics = getInfoBoxMetrics(chartWidth);
 
         xScale.domain([0, maxPop]);
 
@@ -1224,6 +1281,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         maleBars
           .transition()
           .duration(500)
+          .attr('y', (d) => yScale(d))
+          .attr('height', yScale.bandwidth())
           .attr('x', (d, i) => chartWidth / 2 - xScale(data.male[i]))
           .attr('width', (d, i) => xScale(data.male[i]));
 
@@ -1231,6 +1290,9 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
         femaleBars
           .transition()
           .duration(500)
+          .attr('x', chartWidth / 2)
+          .attr('y', (d) => yScale(d))
+          .attr('height', yScale.bandwidth())
           .attr('width', (d, i) => xScale(data.female[i]));
 
         // Update Y axis
@@ -1246,7 +1308,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           .attr('y', (d) => yScale(d) + yScale.bandwidth() / 2)
           .attr('dy', '0.35em')
           .attr('fill', '#cbd5e1')
-          .attr('font-size', '11px')
+          .attr('font-size', chartWidth <= 360 ? '10px' : '11px')
           .text((d) => d);
 
         // Update info box
@@ -1264,24 +1326,25 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
           .append('tspan')
           .attr('x', 10)
           .attr('dy', 18)
+          .attr('fill', '#f8fafc')
           .text(`總人口：${(data.totalPop / 10000).toFixed(0)}萬人`);
 
         infoText
           .append('tspan')
           .attr('x', 10)
-          .attr('dy', 15)
+          .attr('dy', infoMetrics.lineStep)
           .text(`中位數年齡：${data.medianAge}歲`);
 
         infoText
           .append('tspan')
           .attr('x', 10)
-          .attr('dy', 15)
+          .attr('dy', infoMetrics.lineStep)
           .text(`老年佔比：${data.elderlyRatio}%`);
 
         infoText
           .append('tspan')
           .attr('x', 10)
-          .attr('dy', 15)
+          .attr('dy', infoMetrics.lineStep)
           .text(`幼年佔比：${data.youthRatio}%`);
       }
 
@@ -1335,6 +1398,7 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       }
 
       // Initialize with 2025 data
+      applyPyramidLayout();
       updatePyramid(currentYear);
       updateInsightCards(currentYear);
 
@@ -1422,6 +1486,8 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       // Responsive handling
       window.addEventListener('resize', () => {
         sliderRect = null;
+        applyPyramidLayout();
+        updatePyramid(currentYear);
       });
     }
   </script>
@@ -2038,6 +2104,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
       border: 1px solid rgba(255, 255, 255, 0.08);
       border-radius: 16px;
       overflow: hidden;
+    }
+
+    #population-pyramid :global(svg) {
+      display: block;
+      width: 100%;
+      height: auto;
     }
 
     .year-slider-container {

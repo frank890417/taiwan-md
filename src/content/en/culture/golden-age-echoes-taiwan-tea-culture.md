@@ -1,8 +1,16 @@
 ---
 title: 'Echoes of a Golden Age: The Evolution and Craft of Taiwanese Tea'
-description: 'In the 1930s, global powers signed a tea restriction pact and left Taiwan out. Taiwan''s tea exports exploded. Ninety years later, the island opens a new bubble tea shop every 12 hours.'
+description: "In the 1930s, global powers signed a tea restriction pact and left Taiwan out. Taiwan's tea exports exploded. Ninety years later, the island opens a new bubble tea shop every 12 hours."
 date: 2026-03-24
-tags: ['tea culture', 'Dong Ding oolong', 'high mountain tea', 'bubble tea', 'boba', 'agriculture']
+tags:
+  [
+    'tea culture',
+    'Dong Ding oolong',
+    'high mountain tea',
+    'bubble tea',
+    'boba',
+    'agriculture',
+  ]
 category: 'Culture'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
@@ -22,8 +30,8 @@ In 1869, Scottish merchant John Dodd did something nobody thought would work: he
 
 The crates were stamped "Formosa Oolong Tea" — the first time Taiwanese tea appeared on the international market under its own name. Before Dodd, Taiwan's tea had to be shipped to Fujian for finishing, then exported as "Fujian tea." Dodd set up a processing facility in Dadaocheng and turned Taiwan from a contract grower into a brand.
 
-| 1869 | 2024 |
-|---|---|
+| 1869                                             | 2024                                       |
+| ------------------------------------------------ | ------------------------------------------ |
 | Dodd's first Formosa Oolong shipment to New York | Bubble tea industry: NT$133.1 billion/year |
 
 The impact went beyond commerce. Dadaocheng became Taiwan's most prosperous commercial district — tea merchants, foreign trading houses, and dry goods dealers clustering together. By 1885, when Liu Mingchuan established Taiwan as a province, tea accounted for over half of the island's total exports.
@@ -48,7 +56,7 @@ The man behind this golden era was Arai Kōkichirō, a Japanese agricultural eng
 
 The most popular origin story goes like this: in 1855, a man named Lin Fengchi from Lugu traveled to Fujian for the imperial examinations, passed, and brought back 36 oolong tea seedlings. Lin Sanxian planted them on Dong Ding Mountain near Qilin Lake.
 
-But that's only one version. The Su family claims their ancestors brought tea from Fujian as early as 1684, citing the *Dong Ding Su Family Genealogy* as proof. Historian Lian Heng wrote in his 1908 *General History of Taiwan* that Dong Ding tea was an indigenous "Shuishalian" variety.
+But that's only one version. The Su family claims their ancestors brought tea from Fujian as early as 1684, citing the _Dong Ding Su Family Genealogy_ as proof. Historian Lian Heng wrote in his 1908 _General History of Taiwan_ that Dong Ding tea was an indigenous "Shuishalian" variety.
 
 Regardless of origin, Dong Ding oolong became synonymous with Taiwanese tea in the 1970s. The Lugu tea region — 600 to 1,200 meters elevation — developed a signature charcoal-roasting technique: low temperature, long duration, producing layers of caramel and ripe fruit. "Dong Ding in the south, Baozhong in the north" became the canonical geography of Taiwanese oolong.
 
@@ -94,7 +102,7 @@ The government's countermeasure: geographical indication certifications for Alis
 
 Taiwanese tea, at its core, is a story about time.
 
-Dong Ding oolong's charcoal roasting takes 6 to 8 hours of low heat. High mountain tea's sweetness comes from clouds lingering at 2,000 meters day and night. Spring Water Hall's [[bubble tea]] cooks 30 seconds of chewiness into each tapioca ball. Lugu's tea farmers wait an entire year for two harvests — spring and winter.
+Dong Ding oolong's charcoal roasting takes 6 to 8 hours of low heat. High mountain tea's sweetness comes from clouds lingering at 2,000 meters day and night. Spring Water Hall's [[bubble-tea]] cooks 30 seconds of chewiness into each tapioca ball. Lugu's tea farmers wait an entire year for two harvests — spring and winter.
 
 When Dodd loaded the first crates of Formosa Oolong in 1869, he couldn't have imagined that 157 years later, people on this island would be putting tea into plastic cups, jabbing fat straws through the lids, and queuing 30 minutes for one serving. But tea is still tea. The drinking method changed; the drinkers changed. The island didn't.
 

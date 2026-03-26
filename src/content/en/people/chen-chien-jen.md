@@ -3,8 +3,8 @@ title: 'Chen Chien-jen'
 description: 'An epidemiologist-turned-statesman who helped steer Taiwan through SARS and COVID-19'
 date: 2026-03-19
 tags:
-subcategory: 'Politics & Democracy'
   [people, Chen Chien-jen, epidemiology, public health, vice president, premier]
+subcategory: 'Politics & Democracy'
 translatedFrom: 'knowledge/People/陳建仁.md'
 ---
 

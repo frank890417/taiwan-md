@@ -3,7 +3,6 @@ title: 'Brigitte Lin: From Romance Icon to Martial Arts Legend'
 description: "The legendary actress who dominated both Qiong Yao romance films and Tsui Hark's martial arts cinema, becoming an eternal icon of Chinese cinema"
 date: 2026-03-20
 tags:
-subcategory: 'Film & Theater'
   [
     'Brigitte Lin',
     'actress',
@@ -11,6 +10,7 @@ subcategory: 'Film & Theater'
     'The Swordsman II',
     'Chinese cinema',
   ]
+subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
 ---
 

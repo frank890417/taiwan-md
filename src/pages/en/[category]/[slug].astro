@@ -20,10 +20,7 @@ const safeMatter = (fileContent: string) => {
   try {
     return matter(fileContent);
   } catch {
-    const stripped = fileContent.replace(
-      /^---\s*\n[\s\S]*?\n---\s*\n/,
-      '',
-    );
+    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
     return { data: {}, content: stripped };
   }
 };
@@ -113,10 +110,7 @@ export async function getStaticPaths() {
     try {
       return matter(fileContent);
     } catch {
-      const stripped = fileContent.replace(
-        /^---\s*\n[\s\S]*?\n---\s*\n/,
-        '',
-      );
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
       return { data: {}, content: stripped };
     }
   };
@@ -139,48 +133,50 @@ export async function getStaticPaths() {
   // Build git cache for this function scope
   let __gitCache: Map<
     string,
-    { contributors: string[]; lastModified: string }
+    {
+      contributors: string[];
+      lastModified: string;
+      commitHash: string;
+      revisionCount: number;
+    }
   > | null = null;
   function _buildGitCache() {
     if (__gitCache) return __gitCache;
     __gitCache = new Map();
     try {
       const logOutput = execSync(
-        `git -c core.quotePath=false log --name-only --format="COMMIT_BY:%an" -- "knowledge/en/"`,
+        `git log -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/en/"`,
         { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
       );
-      let currentAuthor = '';
-      for (const line of logOutput.split('\n')) {
-        if (line.startsWith('COMMIT_BY:')) currentAuthor = line.slice(10);
-        else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
-          const key = resolve(process.cwd(), line);
-          const entry = __gitCache.get(key) || {
-            contributors: [],
-            lastModified: '',
-          };
-          if (!entry.contributors.includes(currentAuthor))
-            entry.contributors.push(currentAuthor);
-          __gitCache.set(key, entry);
-        }
-      }
-      const dateOutput = execSync(
-        `git -c core.quotePath=false log --format="COMMIT_DATE:%aI" --name-only -- "knowledge/en/"`,
-        { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
-      );
+      let currentHash = '';
       let currentDate = '';
-      const seen = new Set<string>();
-      for (const line of dateOutput.split('\n')) {
-        if (line.startsWith('COMMIT_DATE:')) currentDate = line.slice(12);
-        else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
-          const key = resolve(process.cwd(), line);
-          if (!seen.has(key)) {
-            seen.add(key);
-            const entry = __gitCache.get(key) || {
+      let currentAuthor = '';
+
+      // git log -z: commit headers and filenames are SEPARATE NUL-terminated tokens.
+      for (let token of logOutput.split('\0')) {
+        token = token.replace(/^\n+/, '').trim();
+        if (!token) continue;
+
+        if (token.startsWith('COMMIT|')) {
+          const parts = token.split('|');
+          currentHash = parts[1] || '';
+          currentDate = parts[2] || '';
+          currentAuthor = parts[3] || '';
+        } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
+          const key = resolve(process.cwd(), token).normalize('NFC');
+          let entry = __gitCache.get(key);
+          if (!entry) {
+            entry = {
               contributors: [],
-              lastModified: '',
+              lastModified: currentDate,
+              commitHash: currentHash,
+              revisionCount: 0,
             };
-            entry.lastModified = currentDate;
             __gitCache.set(key, entry);
+          }
+          entry.revisionCount += 1;
+          if (currentAuthor && !entry.contributors.includes(currentAuthor)) {
+            entry.contributors.push(currentAuthor);
           }
         }
       }
@@ -196,11 +192,16 @@ export async function getStaticPaths() {
       for (const file of files.filter(
         (f) => f.endsWith('.md') && !f.startsWith('_'),
       )) {
-        const filePath = join(folderPath, file);
+        const filePath = join(folderPath, file).normalize('NFC');
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter, content } = safeMatter(fileContent);
         const slug = basename(file, '.md');
-        let gitInfo = { contributors: [] as string[], lastModified: '' };
+        let gitInfo = {
+          contributors: [] as string[],
+          lastModified: '',
+          commitHash: '',
+          revisionCount: 0,
+        };
         try {
           gitInfo = _buildGitCache().get(filePath) || gitInfo;
         } catch {}
@@ -214,15 +215,22 @@ export async function getStaticPaths() {
             lang: 'en',
             contributors: gitInfo.contributors,
             lastModified: gitInfo.lastModified,
+            commitHash: gitInfo.commitHash,
+            revisionCount: gitInfo.revisionCount,
           },
         });
       }
     } catch (err) {
-      console.error(`[en/getStaticPaths] Error processing category "${categorySlug}":`, (err as Error).message);
+      console.error(
+        `[en/getStaticPaths] Error processing category "${categorySlug}":`,
+        (err as Error).message,
+      );
     }
   }
   if (paths.length === 0) {
-    throw new Error('[en/getStaticPaths] Generated 0 paths — all categories failed.');
+    throw new Error(
+      '[en/getStaticPaths] Generated 0 paths — all categories failed.',
+    );
   }
   return paths;
 }
@@ -235,6 +243,8 @@ const {
   frontmatter,
   contributors = [],
   lastModified = '',
+  commitHash = '',
+  revisionCount = 0,
 } = Astro.props;
 const { category, slug } = Astro.params;
 const lang = 'en';
@@ -650,6 +660,8 @@ const encodedTitle = encodeURIComponent(title);
           readingTime={estimatedReadingTime}
           date={frontmatter.date}
           lastModified={lastModified || frontmatter.modified}
+          commitHash={commitHash}
+          revisionCount={revisionCount}
           contributors={contributors}
           category={category}
           categoryName={categoryNameEn}

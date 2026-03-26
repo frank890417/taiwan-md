@@ -3,7 +3,14 @@ title: 'Taiwanese Tea Culture and Living Aesthetics'
 description: 'A bug-bitten honey aroma, a democracy movement in a Japanese wooden house, and a global bubble tea conquest — how Taiwan turned tea into an entire philosophy of living'
 date: 2026-03-25
 category: 'Culture'
-tags: ['tea culture', 'tea ceremony', 'living aesthetics', 'Oriental Beauty', 'Wistaria Tea House']
+tags:
+  [
+    'tea culture',
+    'tea ceremony',
+    'living aesthetics',
+    'Oriental Beauty',
+    'Wistaria Tea House',
+  ]
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
@@ -14,7 +21,7 @@ lastHumanReview: false
 
 # Taiwanese Tea Culture and Living Aesthetics
 
-> **30-Second Overview:** Taiwan's most prized tea is made from damaged leaves. Oriental Beauty oolong gets its honey aroma from the bite of the tea jassid (*Jacobiasca formosana*) — the plant's chemical defense response becomes the flavor. This "defect-as-value" logic captures something essential about Taiwanese tea culture. From 1867, when Scottish merchant John Dodd shipped the first "Formosa Oolong" to New York, to the 1980s invention of bubble tea that conquered the globe, Taiwan spent 150 years transforming tea from a colonial export commodity into a complete philosophy of living.
+> **30-Second Overview:** Taiwan's most prized tea is made from damaged leaves. Oriental Beauty oolong gets its honey aroma from the bite of the tea jassid (_Jacobiasca formosana_) — the plant's chemical defense response becomes the flavor. This "defect-as-value" logic captures something essential about Taiwanese tea culture. From 1867, when Scottish merchant John Dodd shipped the first "Formosa Oolong" to New York, to the 1980s invention of bubble tea that conquered the globe, Taiwan spent 150 years transforming tea from a colonial export commodity into a complete philosophy of living.
 
 ---
 
@@ -32,9 +39,9 @@ Competition was fierce. In the late 1800s, Ceylon tea merchants spread rumors in
 
 ## The Tea That Needs to Be Bitten
 
-Taiwan's most dramatic tea story belongs to Oriental Beauty (東方美人, also called *pengfeng cha* — "braggart's tea" in Hakka).
+Taiwan's most dramatic tea story belongs to Oriental Beauty (東方美人, also called _pengfeng cha_ — "braggart's tea" in Hakka).
 
-In the low hillside tea gardens of Beipu and Emei in Hsinchu County, the tea jassid (*Jacobiasca formosana*) feeds on young shoots every summer. The bitten leaves trigger a defense response, releasing monoterpene diol and hotrienol — compounds that give the tea its signature honey and fruit aroma. This isn't added flavor. It's the plant fighting for survival.
+In the low hillside tea gardens of Beipu and Emei in Hsinchu County, the tea jassid (_Jacobiasca formosana_) feeds on young shoots every summer. The bitten leaves trigger a defense response, releasing monoterpene diol and hotrienol — compounds that give the tea its signature honey and fruit aroma. This isn't added flavor. It's the plant fighting for survival.
 
 > **The name "pengfeng" — Hakka for "bragging" — supposedly originated when a farmer brought his insect-bitten tea to market, named a high price, and was laughed at by neighbors for bluffing. The tea sold.**
 
@@ -48,7 +55,7 @@ To attract the jassids, farmers must avoid insecticides entirely. This makes Ori
 
 On Xinsheng South Road in Taipei stands a Japanese-style wooden house built in the 1920s. Under Japanese rule, it was the residence of a colonial customs official. In the 1950s, Zhou Dewei, then head of Taiwan's Customs Bureau, moved his family in and turned it into a clandestine salon for liberal intellectuals. During the White Terror era, scholars like Yin Haiguang and Zhang Foquan gathered here to discuss Hayek and free markets. The 1958 foreign exchange reform plan was drafted in this living room.
 
-In 1981, Zhou's son Zhou Yu converted the house into a teahouse, planted three wisteria vines in the courtyard, and named it Wistaria Tea House (紫藤廬). It quickly became the meeting ground for *dangwai* (opposition movement) activists, writers, and artists. In 1997, the Taipei government designated it a historic monument but allowed Zhou Yu to continue operations.
+In 1981, Zhou's son Zhou Yu converted the house into a teahouse, planted three wisteria vines in the courtyard, and named it Wistaria Tea House (紫藤廬). It quickly became the meeting ground for _dangwai_ (opposition movement) activists, writers, and artists. In 1997, the Taipei government designated it a historic monument but allowed Zhou Yu to continue operations.
 
 Wistaria remains Taipei's most iconic cultural teahouse — a place where you sit on tatami, surrounded by calligraphy, drinking oolong alongside university professors.
 
@@ -72,13 +79,13 @@ In the 1980s, someone dropped tapioca balls into iced milk tea. Whether it was L
 
 The irony: Taiwan spent a century building an international reputation for refined oolong, and what made the world associate "Taiwanese tea" with anything was a sweetened drink with chewy balls in it.
 
-But bubble tea accomplished something traditional tea arts couldn't — it turned "tea" from a cultural practice requiring specialized knowledge into an everyday experience anyone can enjoy. In a way, this aligns with Taiwanese tea culture's fundamental character: not the strict ritualism of Japanese *chadō*, but an attitude of "enjoy it however you like."
+But bubble tea accomplished something traditional tea arts couldn't — it turned "tea" from a cultural practice requiring specialized knowledge into an everyday experience anyone can enjoy. In a way, this aligns with Taiwanese tea culture's fundamental character: not the strict ritualism of Japanese _chadō_, but an attitude of "enjoy it however you like."
 
 ---
 
 ## Wabi-Sabi on the Tea Table
 
-Contemporary Taiwanese tea table aesthetics blend Chinese literati tradition with Japanese *wabi-sabi* sensibility.
+Contemporary Taiwanese tea table aesthetics blend Chinese literati tradition with Japanese _wabi-sabi_ sensibility.
 
 A typical Taiwanese tea setting: a muted cotton-linen cloth as base, a Yixing clay or handmade ceramic teapot at center, a few asymmetrical cups beside it, a single seasonal wildflower in a rough ceramic vase, a stick of agarwood incense. No rigid Japanese ceremony, no ornate English silver. Taiwanese tea practitioners seek a quality best described as "just enough" — the tools needn't be expensive but must feel right; the space needn't be exquisite but must quiet the mind.
 
@@ -109,12 +116,12 @@ The wisteria at Wistaria Tea House blooms every spring. Zhou Yu, now in his eigh
 - [Dongfang meiren (Oriental Beauty) — Wikipedia](https://en.wikipedia.org/wiki/Dongfang_meiren)
 - [紫藤廬 — Wikipedia (Chinese)](https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%97%A4%E5%BB%AC)
 - [Wistaria Tea House — Wikipedia](https://en.wikipedia.org/wiki/Wistaria_Tea_House)
-- [John Dodd (tea merchant) — Wikipedia](https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant))
+- [John Dodd (tea merchant) — Wikipedia](<https://en.wikipedia.org/wiki/John_Dodd_(tea_merchant)>)
 - [Bubble tea — Wikipedia](https://en.wikipedia.org/wiki/Bubble_tea)
 - [Tea Research and Extension Station (TRES)](https://www.tres.gov.tw/)
 
 ## Further Reading
 
-- [[taiwanese-tea-culture]] - Deep dive into tea varieties and regions
+- [[tea-culture]] - Deep dive into tea varieties and regions
 - [[hakka-culture-and-language]] - Oriental Beauty and Hakka tea country
 - [[traditional-festivals-and-celebrations]] - Tea's role in festivals

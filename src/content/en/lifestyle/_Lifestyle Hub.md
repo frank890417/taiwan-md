@@ -1,8 +1,8 @@
 ---
-title: "Lifestyle"
+title: 'Lifestyle'
 date: 2026-03-23
 tags: [lifestyle, Hub]
-description: "What happens when an island pushes convenience to the absolute limit? In a space cramming 280 people per square kilometer, Taiwan created the highest density of happiness: 99.9% health insurance coverage made unaffordable healthcare history, 11,000 convenience stores turned midnight pharmacy runs into routine, 678 motorcycles per thousand people transformed the entire island into a 30-minute life circle."
+description: 'What happens when an island pushes convenience to the absolute limit? In a space cramming 280 people per square kilometer, Taiwan created the highest density of happiness: 99.9% health insurance coverage made unaffordable healthcare history, 11,000 convenience stores turned midnight pharmacy runs into routine, 678 motorcycles per thousand people transformed the entire island into a 30-minute life circle.'
 ---
 
 # Taiwan Lifestyle 🏠
@@ -47,7 +47,7 @@ At 3 AM on Taipei streets, neon-lit convenience stores provide the city's warmes
 
 Convenience stores also carry Taiwan's human warmth. Late-night staff know regular customers' preferences. Store managers insisting on typhoon-day operations become community guardians. Outside emergency rooms, at train stations, in remote mountain towns, convenience store lights symbolize security.
 
-[[便利商店文化]] | [[台灣咖啡文化]] | [[24小時營業的社會意義]]
+[[台灣便利商店文化]] | [[台灣咖啡文化]] | [[24小時營業的社會意義]]
 
 ## 🚌 Transportation: From Buses to Motorcycles, Mobility Democratization
 
@@ -121,4 +121,4 @@ Tzu Chi environmental volunteers symbolize this movement's spirit. Over 50,000 e
 
 ---
 
-*Taiwan life's charm lies in creating infinite convenience within limited space, maintaining human warmth amid busyness, preserving traditional wisdom while embracing modernity. This balance and inclusiveness represent Taiwan's most precious soft power.*
+_Taiwan life's charm lies in creating infinite convenience within limited space, maintaining human warmth amid busyness, preserving traditional wisdom while embracing modernity. This balance and inclusiveness represent Taiwan's most precious soft power._

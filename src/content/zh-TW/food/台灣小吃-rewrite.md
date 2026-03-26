@@ -10,9 +10,9 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Xiaolongbao_Shanghai.jpg/960px-Xiaolongbao_Shanghai.jpg"
-imageAlt: "台灣小吃代表：小籠包"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Xiaolongbao_Shanghai.jpg/960px-Xiaolongbao_Shanghai.jpg'
+imageAlt: '台灣小吃代表：小籠包'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 ---
 
 # 台灣小吃
@@ -41,11 +41,11 @@ imageCredit: "Wikimedia Commons, CC BY-SA"
 
 更神奇的是，這些原本可能產生文化衝突的飲食傳統，在台灣找到了共存的方式。走進任何一個夜市，你可以在 50 公尺內買到閩南蚵仔煎、外省牛肉麵、客家粄條、日式章魚燒，而且沒有人覺得這有什麼問題。
 
-| 支持多元 | 反對混雜 |
-|---|---|
+| 支持多元                 | 反對混雜                 |
+| ------------------------ | ------------------------ |
 | 豐富選擇滿足不同族群需求 | 缺乏統一標準影響品質控制 |
-| 文化交流促進創新融合 | 傳統技藝在競爭中流失 |
-| 夜市成為族群和諧象徵 | 商業化削弱文化內涵 |
+| 文化交流促進創新融合     | 傳統技藝在競爭中流失     |
+| 夜市成為族群和諧象徵     | 商業化削弱文化內涵       |
 
 ## 從路邊攤到全球珍奶帝國
 
@@ -63,11 +63,11 @@ imageCredit: "Wikimedia Commons, CC BY-SA"
 
 台灣小吃產業的真實規模遠超想像：
 
-| 項目 | 數據 | 意義 |
-|------|------|------|
-| 夜市數量 | 300+ | 密度全球第一 |
-| 攤販總數 | 約 10 萬+ | 相當於一個中型城市人口 |
-| 單價範圍 | 15-150 元 | 真正的平民美食 |
+| 項目     | 數據       | 意義                   |
+| -------- | ---------- | ---------------------- |
+| 夜市數量 | 300+       | 密度全球第一           |
+| 攤販總數 | 約 10 萬+  | 相當於一個中型城市人口 |
+| 單價範圍 | 15-150 元  | 真正的平民美食         |
 | 海外據點 | 遍布五大洲 | 台灣品牌全球化成功案例 |
 
 但更重要的數字是：**超過 200 種經典小吃品項**，這個數量在全球任何單一國家都是驚人的。法國有多少經典料理？日本有多少經典小食？台灣面積只有 3.6 萬平方公里，卻發展出如此豐富的小吃生態系統。
@@ -106,7 +106,7 @@ imageCredit: "Wikimedia Commons, CC BY-SA"
 
 ## 相關主題
 
-- [[Food/夜市文化]]
-- [[Food/茶文化]]
+- [[夜市文化]]
+- [[茶文化]]
 - [[Culture/多元族群融合]]
 - [[Economy/文化軟實力]]

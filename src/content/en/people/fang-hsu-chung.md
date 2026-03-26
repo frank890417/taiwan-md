@@ -3,7 +3,6 @@ title: 'Fang Hsu-Chung (方序中)'
 description: 'The designer behind the Golden Melody and Golden Horse visual identities, founder of The Good Design Company, and a leading voice in Taiwan’s branding scene'
 date: 2026-03-19
 tags:
-subcategory: 'Arts & Design'
   [
     'designer',
     'visual identity',
@@ -11,6 +10,7 @@ subcategory: 'Arts & Design'
     'Golden Melody Awards',
     'Golden Horse Awards',
   ]
+subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 ---
 

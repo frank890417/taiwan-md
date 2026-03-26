@@ -1,8 +1,17 @@
 ---
 title: 'Huang Chun-ming: Master of Taiwanese Literary Humanism'
-description: 'Author of "The Sandwich Man" and "The Days of Looking at the Sea," representative writer of Yilan nativist literature and chronicler of ordinary people\'s lives'
+description: 'Author of "The Sandwich Man" and "The Days of Looking at the Sea," representative writer of Yilan nativist literature and chronicler of ordinary people''s lives'
 date: 2026-03-19
-tags: [people, Huang Chun-ming, The Sandwich Man, The Days of Looking at the Sea, nativist literature, Yilan, ordinary people]
+tags:
+  [
+    'people',
+    'Huang Chun-ming',
+    'The Sandwich Man',
+    'The Days of Looking at the Sea',
+    'nativist literature',
+    'Yilan',
+    'ordinary people',
+  ]
 subcategory: 'Literature'
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -46,7 +55,7 @@ The novel's title "The Days of Looking at the Sea" carries profound symbolic mea
 
 ## Important Standard-Bearer of the Nativist Literature Movement
 
-In the 1970s, Taiwan's literary scene saw the rise of the nativist literature movement, with Huang Chun-ming becoming an important representative figure. Unlike [[Zhong Lihe]]'s pioneering rural writing, Huang Chun-ming focused more on the survival conditions of rural and urban marginalized groups under modernization's impact. His works reflected the complex face of Taiwan society's transitional period.
+In the 1970s, Taiwan's literary scene saw the rise of the nativist literature movement, with Huang Chun-ming becoming an important representative figure. Unlike [[zhong-lihe-nativeland-eternal-seeker]]'s pioneering rural writing, Huang Chun-ming focused more on the survival conditions of rural and urban marginalized groups under modernization's impact. His works reflected the complex face of Taiwan society's transitional period.
 
 The nativist literature movement emphasized that literature should reflect local reality and care for the lives of ordinary people. Huang Chun-ming's creations completely met these requirements; he never deliberately avoided social problems but revealed their complexity through vivid stories. His characters often existed on society's margins, yet they all possessed qualities worthy of respect.
 
@@ -62,11 +71,11 @@ Huang Chun-ming has deep feelings for this Yilan land, always believing that wri
 
 ## Literary Achievements and Contemporary Influence
 
-Huang Chun-ming's works occupy an important position in Taiwan literary history. Together with writers like [[Pai Hsien-yung]] and [[Wang Wen-hsing]], he constitutes an important map of Taiwan's modern literature. The difference is that while [[Pai Hsien-yung]] focused on urban intellectuals' spiritual worlds, Huang Chun-ming concentrated on ordinary people's survival realities.
+Huang Chun-ming's works occupy an important position in Taiwan literary history. Together with writers like [[pai-hsien-yung-literary-master]] and [[Wang Wen-hsing]], he constitutes an important map of Taiwan's modern literature. The difference is that while [[pai-hsien-yung-literary-master]] focused on urban intellectuals' spiritual worlds, Huang Chun-ming concentrated on ordinary people's survival realities.
 
 His novel language is simple and vivid, filled with Taiwan's local life atmosphere. He skillfully uses dialects and colloquialisms, making character dialogue feel authentic. Simultaneously, he excels at using symbolism and metaphor, endowing works with deeper meaning. This writing style that appeals to both refined and popular tastes makes his works both literarily valuable and widely accessible to readers.
 
-Many of Huang Chun-ming's works have been adapted into films and television dramas, most famously [[Hou Hsiao-hsien]]'s film "The Sandwich Man." The success of these audiovisual works further expanded his influence, introducing more people to the charm of Taiwan nativist literature.
+Many of Huang Chun-ming's works have been adapted into films and television dramas, most famously [[hou-hsiao-hsien]]'s film "The Sandwich Man." The success of these audiovisual works further expanded his influence, introducing more people to the charm of Taiwan nativist literature.
 
 In recent years, though advanced in age, Huang Chun-ming remains active in literary circles. He continues creating new works and participating in various literary activities. His creative spirit and humanistic concern continue moving new generations of readers, proving that truly excellent literary works possess value that transcends eras.
 
@@ -76,13 +85,13 @@ Huang Chun-ming's literary legacy extends far beyond his individual works. He es
 
 His works continue to resonate with contemporary readers because the fundamental issues he addressed—economic inequality, social transformation, human dignity in the face of modernization—remain relevant today. Young writers in Taiwan and beyond continue to draw inspiration from his example of how to write about local experiences while addressing universal human concerns.
 
-The success of film adaptations of his works, particularly those by New Taiwan Cinema directors like [[Hou Hsiao-hsien]], has ensured that Huang Chun-ming's vision reaches audiences beyond the literary community. This multimedia legacy helps preserve and propagate the humanistic values he championed throughout his career.
+The success of film adaptations of his works, particularly those by New Taiwan Cinema directors like [[hou-hsiao-hsien]], has ensured that Huang Chun-ming's vision reaches audiences beyond the literary community. This multimedia legacy helps preserve and propagate the humanistic values he championed throughout his career.
 
 ## Further Reading
 
-- [[Pai Hsien-yung]]: Contemporary Taiwanese literary master known for urban themes
-- [[Zhong Lihe]]: Pioneer of Taiwanese nativist literature
-- [[Hou Hsiao-hsien]]: Director who adapted Huang Chun-ming's works into acclaimed films
+- [[pai-hsien-yung-literary-master]]: Contemporary Taiwanese literary master known for urban themes
+- [[zhong-lihe-nativeland-eternal-seeker]]: Pioneer of Taiwanese nativist literature
+- [[hou-hsiao-hsien]]: Director who adapted Huang Chun-ming's works into acclaimed films
 - [[Taiwan New Cinema Movement]]: Cinematic movement that embraced nativist themes
 
 ## References

@@ -1,8 +1,9 @@
 ---
-title: 'Taiwan's Kuai Kuai Culture: How Green Snacks Became the Tech Industry's Guardian Spirit'
-description: 'From graduate students' computers to TSMC production lines, why do Taiwanese people believe green Kuai Kuai snacks keep machines running smoothly?'
+title: "Taiwan's Kuai Kuai Culture: How Green Snacks Became the Tech Industry's Guardian Spirit"
+description: "From graduate students' computers to TSMC production lines, why do Taiwanese people believe green Kuai Kuai snacks keep machines running smoothly?"
 date: 2026-03-21
-tags: ['Taiwanese Culture', 'Folk Beliefs', 'Technology Industry', 'Urban Legends']
+tags:
+  ['Taiwanese Culture', 'Folk Beliefs', 'Technology Industry', 'Urban Legends']
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false
@@ -18,7 +19,7 @@ Walk into any server room in Taiwan, and you'll likely witness an intriguing sig
 
 This peculiar custom can be traced back to before 1998 at National Chiao Tung University. According to a 2011 recollection by Director Lu of the Information Technology Center at Minghsin University of Science and Technology, he had been "placing green Kuai Kuai in the research lab since his doctoral studies." Calculating backwards, the practice of "placing Kuai Kuai on machines" existed at Chiao Tung University before 1998.
 
-The earliest public record appeared in 2003, when the *China Times* supplement published an article titled "Afraid of System Crashes? Here, Place a Pack of Kuai Kuai," describing how "many Taiwanese companies' server rooms commonly place a pack of Kuai Kuai on servers to reduce server failure rates."
+The earliest public record appeared in 2003, when the _China Times_ supplement published an article titled "Afraid of System Crashes? Here, Place a Pack of Kuai Kuai," describing how "many Taiwanese companies' server rooms commonly place a pack of Kuai Kuai on servers to reduce server failure rates."
 
 The story that truly popularized this custom involved a graduate student. According to Kuai Kuai company CEO Liao Yu-chi's account to the BBC, a graduate student was writing his thesis but faced frequent computer crashes. He thought the equipment might need some kind of "charm," and "Kuai Kuai" perfectly suited his needs—the name meant "behave well," while the green packaging symbolized the "go" signal of traffic lights. After placing the green Kuai Kuai, his computer ran normally and his thesis was completed successfully.
 
@@ -50,7 +51,7 @@ This phenomenon even extended to the aviation industry. STARLUX Airlines Chairma
 
 In this age of logic and data, why do even engineers believe in Kuai Kuai's divine power? The answer perhaps lies in cost-benefit calculations. Compared to the enormous losses "computer failure" could bring, buying a pack of Kuai Kuai for protection costs virtually nothing. As engineers often say: "Even if there's only a one-in-ten-thousand chance it works, it's worth trying."
 
-This mentality of "better to believe than not" has made Kuai Kuai the most influential "deity" in Taiwan's tech industry. As *The Encyclopedia of Taiwanese Urban Legends* states: "As long as people cannot solve the problem of computers failing inexplicably, the Kuai Kuai deity will continue to exist."
+This mentality of "better to believe than not" has made Kuai Kuai the most influential "deity" in Taiwan's tech industry. As _The Encyclopedia of Taiwanese Urban Legends_ states: "As long as people cannot solve the problem of computers failing inexplicably, the Kuai Kuai deity will continue to exist."
 
 And making computers never fail is virtually impossible. Therefore, on this island where technology and faith intertwine, green Kuai Kuai will continue guarding those precision machines, witnessing the most fascinating balance between rationality and superstition.
 

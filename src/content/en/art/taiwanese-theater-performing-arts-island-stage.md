@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Theater and Performing Arts: Island Stage
+title: 'Taiwanese Theater and Performing Arts: Island Stage'
 category: Art
 tags: [theater, performing arts, dance]
 date: 2026-03-18

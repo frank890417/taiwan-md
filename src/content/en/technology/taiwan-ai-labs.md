@@ -71,7 +71,7 @@ Taiwan AI Labs has proven three key points:
 
 ## Further Reading
 
-- [[Audrey Tang]] — Key figure promoting Taiwan's digital governance
+- [[audrey-tang]] — Key figure promoting Taiwan's digital governance
 - [[Taiwan Semiconductor Industry]] — Industrial foundation supporting AI hardware
 
 ## References

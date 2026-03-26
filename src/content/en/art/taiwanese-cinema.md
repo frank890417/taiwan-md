@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Cinema: From the New Wave to the Global Stage
+title: 'Taiwanese Cinema: From the New Wave to the Global Stage'
 category: Art
 tags: [Cinema, New Wave, Art, Hou Hsiao-hsien, Edward Yang, Ang Lee]
 date: 2026-03-20

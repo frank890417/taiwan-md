@@ -3,7 +3,6 @@ title: 'Chen Shui-bian: The Controversial Pioneer of Democratic Transition'
 description: "Taiwan's 10th and 11th President, central figure in the historic 2000 power transition, a polarizing leader in Taiwan's democratization"
 date: 2026-03-20
 tags:
-subcategory: 'Politics & Democracy'
   [
     'president',
     'power transition',
@@ -11,6 +10,7 @@ subcategory: 'Politics & Democracy'
     'Taipei mayor',
     'corruption case',
   ]
+subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-20
 ---
 
@@ -40,7 +40,7 @@ The mayorship served as crucial preparation for higher office, demonstrating his
 
 ## The Historic 2000 Presidential Victory
 
-In 1999, Chen secured the DPP nomination for president, running with [[Annette Lu]] as his vice-presidential candidate. Benefiting from a split in the KMT (with [[Lien Chan]] and [[James Soong]] running separately), he successfully consolidated pan-Green support and won the presidency with 39.3% of the vote, achieving Taiwan's first democratic power transition.
+In 1999, Chen secured the DPP nomination for president, running with [[annette-lu]] as his vice-presidential candidate. Benefiting from a split in the KMT (with [[Lien Chan]] and [[James Soong]] running separately), he successfully consolidated pan-Green support and won the presidency with 39.3% of the vote, achieving Taiwan's first democratic power transition.
 
 This victory held immense historical significance, proving Taiwan's democratic maturity and the possibility of peaceful power transfer. In his inaugural address, Chen proposed the "Four Nos and One Without" (四不一沒有) commitment, attempting to reassure various constituencies and demonstrate democratic statesmanship. The peaceful transfer of power from KMT to DPP after 55 years of rule marked a watershed moment in Taiwan's democratization.
 
@@ -52,7 +52,7 @@ In cross-strait relations, he articulated the "One Country on Each Side" (一邊
 
 ## 2004 Re-election and the "319 Shooting Incident"
 
-The 2004 presidential election saw Chen and [[Annette Lu]] seeking re-election against the [[Lien Chan]]-[[James Soong]] ticket. The day before the election, the shocking "319 Shooting Incident" occurred—Chen and Lu were shot and wounded while campaigning in Tainan.
+The 2004 presidential election saw Chen and [[annette-lu]] seeking re-election against the [[Lien Chan]]-[[James Soong]] ticket. The day before the election, the shocking "319 Shooting Incident" occurred—Chen and Lu were shot and wounded while campaigning in Tainan.
 
 Chen ultimately won re-election by a razor-thin 0.2% margin, but the shooting incident's circumstances triggered strong opposition doubts about election integrity, leading to demands for recounts. This event became one of Taiwan's most controversial political incidents, with interpretations remaining disputed to this day.
 

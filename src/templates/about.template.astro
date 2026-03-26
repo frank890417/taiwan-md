@@ -924,6 +924,253 @@ const t = useTranslations(lang);
         </div>
       </div>
     </section>
+
+    <section class="sponsors-section">
+      <div class="sponsors-inner">
+        <h2 class="section-title">{t('about.sponsors.title')}</h2>
+        <p class="sponsors-desc" set:html={t('about.sponsors.desc.html')} />
+
+        <div class="sponsor-tiers">
+          <div class="tier">
+            <h3 class="tier-name gold">{t('about.sponsors.tier.core.name')}</h3>
+            <p class="tier-desc">{t('about.sponsors.tier.core.desc')}</p>
+            <p class="tier-perks">{t('about.sponsors.tier.core.perks')}</p>
+            <div class="tier-logos">
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.core.placeholder')}
+              </div>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name curation">
+              {t('about.sponsors.tier.curation.name')}
+            </h3>
+            <p class="tier-desc">{t('about.sponsors.tier.curation.desc')}</p>
+            <p class="tier-perks">{t('about.sponsors.tier.curation.perks')}</p>
+            <div class="tier-logos">
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.curation.placeholder')}
+              </div>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name professional">
+              {t('about.sponsors.tier.professional.name')}
+            </h3>
+            <p class="tier-desc">
+              {t('about.sponsors.tier.professional.desc')}
+            </p>
+            <p class="tier-perks">
+              {t('about.sponsors.tier.professional.perks')}
+            </p>
+            <div class="tier-logos">
+              <div class="sponsor-card">
+                <a
+                  href="https://justfont.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="sponsor-logo-link"
+                >
+                  <img
+                    src="/images/justfont-logo.svg"
+                    alt="justfont"
+                    class="sponsor-logo-img"
+                    style="height: 28px;"
+                  />
+                </a>
+                <div class="sponsor-story">
+                  <p class="sponsor-contribution-title">
+                    {t('about.sponsors.justfont.story.title')}
+                  </p>
+                  <p class="sponsor-contribution">
+                    {t('about.sponsors.justfont.story.desc')}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name bronze">
+              {t('about.sponsors.tier.community.name')}
+            </h3>
+            <p class="tier-desc">{t('about.sponsors.tier.community.desc')}</p>
+            <p class="tier-perks">{t('about.sponsors.tier.community.perks')}</p>
+            <div class="tier-logos">
+              <a
+                href="https://protico.io"
+                target="_blank"
+                class="supporter-link"
+              >
+                <span set:html={t('about.sponsors.protico.text.html')} />
+              </a>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name community">
+              {t('about.sponsors.tier.individual.name')}
+            </h3>
+            <p class="tier-desc">{t('about.sponsors.tier.individual.desc')}</p>
+            <p class="tier-perks">
+              {t('about.sponsors.tier.individual.perks')}
+            </p>
+            <div class="tier-logos">
+              <a
+                href="https://github.com/howieyoung"
+                target="_blank"
+                class="supporter-link"
+              >
+                <span set:html={t('about.sponsors.howie.text.html')} />
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="sponsor-cta">
+          <h3>{t('about.sponsors.cta.title')}</h3>
+          <p set:html={t('about.sponsors.cta.desc.html')} />
+          <div class="sponsor-contact">
+            <a
+              href={`mailto:cheyu.wu@monoame.com?subject=Taiwan.md 贊助合作詢問`}
+              class="btn btn-primary"
+            >
+              {t('about.sponsors.cta.contact')}
+            </a>
+            <a
+              href="https://github.com/sponsors/frank890417"
+              target="_blank"
+              class="btn btn-outline"
+            >
+              {t('about.sponsors.cta.github')}
+            </a>
+          </div>
+          <div class="eth-donate">
+            <p class="eth-label">{t('about.sponsors.eth.label')}</p>
+            <div class="eth-address-box">
+              <span class="eth-icon">
+                <svg
+                  width="16"
+                  height="16"
+                  viewBox="0 0 256 417"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M127.961 0l-2.795 9.5v275.668l2.795 2.79 127.962-75.638z"
+                    fill="#343434"></path>
+                  <path
+                    d="M127.962 0L0 212.32l127.962 75.639V154.158z"
+                    fill="#8C8C8C"></path>
+                  <path
+                    d="M127.961 312.187l-1.575 1.92v98.199l1.575 4.6L256 236.587z"
+                    fill="#3C3C3B"></path>
+                  <path d="M127.962 416.905v-104.72L0 236.585z" fill="#8C8C8C"
+                  ></path>
+                  <path
+                    d="M127.961 287.958l127.96-75.637-127.96-58.162z"
+                    fill="#141414"></path>
+                  <path d="M0 212.32l127.96 75.638V154.159z" fill="#393939"
+                  ></path>
+                </svg>
+              </span>
+              <code class="eth-address" id="eth-address"
+                >{t('about.sponsors.eth.address')}</code
+              >
+              <button
+                class="eth-copy-btn"
+                onclick={`navigator.clipboard.writeText('${t('about.sponsors.eth.address')}').then(()=>{this.textContent='${t('about.sponsors.eth.copied')}';setTimeout(()=>{this.textContent='${t('about.sponsors.eth.copy')}'},1500)})`}
+                title={t('about.sponsors.eth.copy')}
+                >{t('about.sponsors.eth.copy')}</button
+              >
+            </div>
+            <p class="eth-note">{t('about.sponsors.eth.note')}</p>
+          </div>
+          <p
+            class="sponsor-note"
+            set:html={t('about.sponsors.reference.note.html')}
+          />
+        </div>
+      </div>
+    </section>
+
+    <!-- Section: Contact -->
+
+    <section class="contact-section">
+      <div class="section-inner">
+        <h2 class="section-title">{t('about.contact.title')}</h2>
+        <p class="section-subtitle">{t('about.contact.subtitle')}</p>
+
+        <div class="contact-grid">
+          <div class="contact-card">
+            <div class="contact-icon">
+              {t('about.contact.collaboration.icon')}
+            </div>
+            <h4>{t('about.contact.collaboration.title')}</h4>
+            <a href={`mailto:${t('about.contact.collaboration.email')}`}>
+              {t('about.contact.collaboration.email')}
+            </a>
+          </div>
+          <div class="contact-card">
+            <div class="contact-icon">{t('about.contact.opensource.icon')}</div>
+            <h4>{t('about.contact.opensource.title')}</h4>
+            <a
+              href={`https://github.com/${t('about.contact.opensource.link')}`}
+              target="_blank"
+            >
+              {t('about.contact.opensource.link')}
+            </a>
+          </div>
+          <div class="contact-card">
+            <div class="contact-icon">{t('about.contact.license.icon')}</div>
+            <h4>{t('about.contact.license.title')}</h4>
+            <a
+              href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-tw"
+              target="_blank"
+            >
+              {t('about.contact.license.link')}
+            </a>
+            <p class="contact-note">{t('about.contact.license.note')}</p>
+          </div>
+        </div>
+
+        <div class="contact-cta">
+          <p>{t('about.contact.cta.text')}</p>
+          <div class="cta-buttons">
+            <a href="/contributing" class="btn btn-primary"
+              >{t('about.contact.cta.guide')}</a
+            >
+            <a
+              href="https://github.com/frank890417/taiwan-md"
+              target="_blank"
+              class="btn btn-outline"
+            >
+              {t('about.contact.cta.github')}
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Protico Community Chat Bubble — sponsored by Howie Young -->
+  <ProticoScript />
+</Layout>
+
+<style>
+  /* ===== Global ===== */
+  .about-page {
+    padding-bottom: 0;
+  }
+
+  .section-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
   </div>
 
   <!-- Protico Community Chat Bubble — sponsored by Howie Young -->
@@ -2014,13 +2261,20 @@ const t = useTranslations(lang);
     margin-bottom: 0.25rem;
     font-size: 1.1rem;
   }
-  .tier-name.gold {
+  .tier-name.curation {
+    color: #7c3aed;
+  }
+
+  .tier-name.gold,
+  .tier-name.core {
     color: #b45309;
   }
-  .tier-name.silver {
+  .tier-name.silver,
+  .tier-name.professional {
     color: #64748b;
   }
-  .tier-name.bronze {
+  .tier-name.bronze,
+  .tier-name.community-tier {
     color: #92400e;
   }
   .tier-name.community {
