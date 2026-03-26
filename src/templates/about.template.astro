@@ -943,7 +943,20 @@ const t = useTranslations(lang);
           </div>
 
           <div class="tier">
-            <h3 class="tier-name silver">
+            <h3 class="tier-name curation">
+              {t('about.sponsors.tier.curation.name')}
+            </h3>
+            <p class="tier-desc">{t('about.sponsors.tier.curation.desc')}</p>
+            <p class="tier-perks">{t('about.sponsors.tier.curation.perks')}</p>
+            <div class="tier-logos">
+              <div class="logo-placeholder">
+                {t('about.sponsors.tier.curation.placeholder')}
+              </div>
+            </div>
+          </div>
+
+          <div class="tier">
+            <h3 class="tier-name professional">
               {t('about.sponsors.tier.professional.name')}
             </h3>
             <p class="tier-desc">
@@ -2248,13 +2261,20 @@ const t = useTranslations(lang);
     margin-bottom: 0.25rem;
     font-size: 1.1rem;
   }
-  .tier-name.gold {
+  .tier-name.curation {
+    color: #7c3aed;
+  }
+
+  .tier-name.gold,
+  .tier-name.core {
     color: #b45309;
   }
-  .tier-name.silver {
+  .tier-name.silver,
+  .tier-name.professional {
     color: #64748b;
   }
-  .tier-name.bronze {
+  .tier-name.bronze,
+  .tier-name.community-tier {
     color: #92400e;
   }
   .tier-name.community {
