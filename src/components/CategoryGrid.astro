@@ -180,11 +180,21 @@ const categories = [
             <div class="category-body">
               <div class="card-title-row">
                 <h3 class="category-name">{category.name}</h3>
-                <span class="card-meta"><span class="card-count">{count}</span> <span class="card-label">{count > 1 ? t('CategoryGrid.articles') : t('CategoryGrid.article')}</span></span>
+                <span class="card-meta">
+                  <span class="card-count">{count}</span>{' '}
+                  <span class="card-label">
+                    {count > 1
+                      ? t('CategoryGrid.articles')
+                      : t('CategoryGrid.article')}
+                  </span>
+                </span>
               </div>
               <p class="category-description">{category.description}</p>
               <div class="category-footer">
-                <span class="explore-link">{t('CategoryGrid.explore')}<span class="cta-arrow">→</span></span>
+                <span class="explore-link">
+                  {t('CategoryGrid.explore')}
+                  <span class="cta-arrow">→</span>
+                </span>
               </div>
             </div>
           </a>
@@ -196,18 +206,56 @@ const categories = [
 
 <style>
   .category-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: 1fr;
-    gap: 1.5rem;
+    columns: 3;
+    column-gap: 1.5rem;
     margin: 3rem auto;
     max-width: var(--container-wide);
-    padding: 0;
+    padding: 0 clamp(1.5rem, 5vw, 5rem);
   }
 
   .category-grid article {
+    break-inside: avoid;
+    margin-bottom: 1.5rem;
     display: flex;
   }
+
+  /* Varied image heights to create natural waterfall rhythm */
+  .category-grid article:nth-child(1) .category-header {
+    height: 200px;
+  } /* history - tall */
+  .category-grid article:nth-child(2) .category-header {
+    height: 110px;
+  } /* geography - short */
+  .category-grid article:nth-child(3) .category-header {
+    height: 160px;
+  } /* culture - medium */
+  .category-grid article:nth-child(4) .category-header {
+    height: 185px;
+  } /* food - tall */
+  .category-grid article:nth-child(5) .category-header {
+    height: 105px;
+  } /* art - short */
+  .category-grid article:nth-child(6) .category-header {
+    height: 165px;
+  } /* music - medium */
+  .category-grid article:nth-child(7) .category-header {
+    height: 115px;
+  } /* technology - short */
+  .category-grid article:nth-child(8) .category-header {
+    height: 195px;
+  } /* nature - tall */
+  .category-grid article:nth-child(9) .category-header {
+    height: 150px;
+  } /* economy - medium */
+  .category-grid article:nth-child(10) .category-header {
+    height: 175px;
+  } /* people - tall */
+  .category-grid article:nth-child(11) .category-header {
+    height: 108px;
+  } /* society - short */
+  .category-grid article:nth-child(12) .category-header {
+    height: 155px;
+  } /* lifestyle - medium */
 
   .category-card {
     background: rgba(255, 255, 255, 0.92);
@@ -230,7 +278,9 @@ const categories = [
 
   .category-card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 24px 50px rgba(15, 23, 42, 0.18), 0 8px 16px rgba(0, 0, 0, 0.06);
+    box-shadow:
+      0 24px 50px rgba(15, 23, 42, 0.18),
+      0 8px 16px rgba(0, 0, 0, 0.06);
     border-color: rgba(148, 163, 184, 0.5);
   }
 
@@ -275,8 +325,16 @@ const categories = [
     bottom: 0;
     opacity: 1;
     z-index: 0;
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
-    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0) 70%);
+    mask-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.15) 0%,
+      rgba(0, 0, 0, 0) 70%
+    );
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.15) 0%,
+      rgba(0, 0, 0, 0) 70%
+    );
   }
 
   /* Article count — TopicCard style */
@@ -437,16 +495,15 @@ const categories = [
     transform: translateX(4px);
   }
 
-  @media (max-width: 1200px) {
+  @media (max-width: 1024px) {
     .category-grid {
-      grid-template-columns: repeat(3, 1fr);
+      columns: 2;
     }
   }
 
   @media (max-width: 768px) {
     .category-grid {
-      grid-template-columns: 1fr;
-      gap: 1rem;
+      columns: 1;
       margin: 2rem 1rem;
     }
 
