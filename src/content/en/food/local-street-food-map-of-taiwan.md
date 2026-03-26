@@ -1,8 +1,15 @@
 ---
 title: 'Local Street Food Map of Taiwan'
-description: 'From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island.'
+description: "From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island."
 date: 2026-03-20
-tags: [local delicacies, indigenous cuisine, regional specialties, Taiwan food map, folk culture]
+tags:
+  [
+    local delicacies,
+    indigenous cuisine,
+    regional specialties,
+    Taiwan food map,
+    folk culture,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 12
 featured: true
@@ -235,11 +242,11 @@ When we taste these local street foods, we're not just satisfying our taste buds
 
 ## Further Reading
 
-- [[Night Market Culture]] — Stage of Taiwan folk food and microcosm of social life
-- [[Taiwanese Street Food]] — Rich variety of street food and folk wisdom  
+- [[night-market-culture]] — Stage of Taiwan folk food and microcosm of social life
+- [[taiwanese-street-food]] — Rich variety of street food and folk wisdom
 - [[Taiwanese Indigenous Foodways]] — Traditional delicacies of various indigenous groups
-- [[Hakka Food Culture]] — Unique culinary traditions of Hakka people
-- [[Military Dependents' Village Cuisine]] — Homesickness map and cultural adaptation of mainland immigrants
+- [[hakka-food-culture]] — Unique culinary traditions of Hakka people
+- [[military-dependents-village-cuisine]] — Homesickness map and cultural adaptation of mainland immigrants
 
 ## References
 

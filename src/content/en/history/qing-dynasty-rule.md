@@ -134,7 +134,7 @@ The **demographic transformation** was profound: Taiwan's population grew from a
 
 ## Related Topics
 
-- [[History/Dutch, Spanish and Koxinga Era]]
+- [[dutch-spanish-and-koxinga-era]]
 - [[History/Japanese Colonial Period]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[Economy/Economic Miracle]]
+- [[economic-miracle]]

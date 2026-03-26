@@ -165,6 +165,6 @@ In this rapidly changing era, Taiwan's religious culture might remind us: true m
 
 ## Further Reading
 
-- [[Traditional Festivals and Celebrations]] - Understanding specific practices of religious festivals
+- [[traditional-festivals-and-celebrations]] - Understanding specific practices of religious festivals
 - [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]] - Exploring religious characteristics of different ethnic groups
-- [[Taiwan Tea Ceremony and Aesthetic Living]] - Experiencing aesthetic living under religious influence
+- [[taiwan-tea-ceremony-and-aesthetic-living]] - Experiencing aesthetic living under religious influence

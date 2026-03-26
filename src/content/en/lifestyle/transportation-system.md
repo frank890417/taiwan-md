@@ -118,7 +118,7 @@ The transportation system is more than infrastructure — it's the circulatory s
 
 ## Extended Reading
 
-- [[Convenience Store Culture]]: Understanding infrastructure that supports 24-hour living
-- [[National Health Insurance]]: Seeing Taiwan's public service design thinking
-- [[Nightlife and KTV Culture]]: How night transportation supports nightlife
-- [[Taiwan Coffee Culture]]: Coffee shops as life nodes around metro stations
+- [[convenience-store-culture]]: Understanding infrastructure that supports 24-hour living
+- [[national-health-insurance]]: Seeing Taiwan's public service design thinking
+- [[nightlife-and-ktv-culture]]: How night transportation supports nightlife
+- [[taiwan-coffee-culture]]: Coffee shops as life nodes around metro stations

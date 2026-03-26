@@ -54,11 +54,11 @@ Even more stunning is bubble tea's "reverse colonization" effect: Starbucks laun
 
 Taiwan's street food industry scale exceeds imagination:
 
-| Category | Data | Significance |
-|----------|------|-------------|
-| Night Markets | 300+ | World's highest density |
-| Total Vendors | ~100,000+ | Equivalent to medium city population |
-| Price Range | NT$15-150 | True commoner cuisine |
+| Category           | Data                | Significance                          |
+| ------------------ | ------------------- | ------------------------------------- |
+| Night Markets      | 300+                | World's highest density               |
+| Total Vendors      | ~100,000+           | Equivalent to medium city population  |
+| Price Range        | NT$15-150           | True commoner cuisine                 |
 | Overseas Locations | All five continents | Taiwanese brand globalization success |
 
 But the more important number: **over 200 classic street food varieties**—a quantity stunning for any single nation globally. How many classic dishes does France have? How many classic snacks does Japan offer? Taiwan covers only 36,000 square kilometers yet developed such a rich street food ecosystem.
@@ -96,7 +96,7 @@ When the world sees Taiwanese street food, it sees not just cuisine but how an i
 
 ## Related Topics
 
-- [[Food/Night Market Culture]]
-- [[Food/Tea Culture]]
+- [[night-market-culture]]
+- [[tea-culture]]
 - [[Culture/Multicultural Integration]]
 - [[Economy/Cultural Soft Power]]

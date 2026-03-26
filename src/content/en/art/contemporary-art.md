@@ -67,7 +67,7 @@ Despite geographical limitations, Taiwan artists actively participate in interna
 
 ## Related Topics
 
-- [[Music/pop-music-and-golden-melody-awards]]
-- [[Culture/ethnic-groups]]
-- [[Technology/open-source-and-g0v]]
-- [[History/democratization]]
+- [[pop-music-and-golden-melody-awards]]
+- [[ethnic-groups]]
+- [[open-source-and-g0v]]
+- [[democratization]]

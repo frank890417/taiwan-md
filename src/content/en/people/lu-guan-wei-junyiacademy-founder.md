@@ -1,8 +1,16 @@
 ---
 title: 'Lu Guan-wei: From Medical School to Education Revolutionary'
-description: 'Founder of Taiwan's Khan Academy - how a doctor gave up medicine to democratize education'
+description: "Founder of Taiwan's Khan Academy - how a doctor gave up medicine to democratize education"
 date: 2026-03-20
-tags: ['Education', 'Junyi Academy', 'Online learning', 'Educational technology', 'Social enterprise', 'Rural education']
+tags:
+  [
+    'Education',
+    'Junyi Academy',
+    'Online learning',
+    'Educational technology',
+    'Social enterprise',
+    'Rural education',
+  ]
 subcategory: 'Education & Society'
 author: 'Taiwan.md'
 readingTime: 5
@@ -27,9 +35,10 @@ The name "Junyi" (均一) combines "equal" (均等) and "first-class" (一流)�
 ## The Platform That Changed Taiwan's Learning Landscape
 
 Today, Junyi Academy features:
+
 - **Over 10,000 instructional videos** covering core subjects
 - **Hundreds of thousands of practice problems** with instant feedback
-- **Over 3.5 million registered users** 
+- **Over 3.5 million registered users**
 - **Coverage of more than half** of Taiwan's elementary and middle schools
 
 The platform has become Taiwan's largest educational technology success story, proving that homegrown innovation could compete with global edtech giants.
@@ -81,6 +90,7 @@ Lu faces ongoing challenges:
 ## International Recognition
 
 Junyi Academy's success has earned international attention:
+
 - Partnership with Khan Academy for content exchange
 - Case study in Harvard Education School programs
 - Featured in UNESCO reports on educational technology innovation
@@ -91,6 +101,7 @@ Lu frequently speaks at international education conferences, representing Taiwan
 ## The Broader Movement
 
 Lu's work catalyzed broader educational transformation in Taiwan:
+
 - **Government digitalization initiatives** now reference Junyi's model
 - **Teacher training programs** incorporate adaptive learning principles
 - **Publishing companies** have shifted toward interactive digital content
@@ -116,7 +127,7 @@ His work continues expanding, always guided by the original vision: ensuring eve
 
 ## See Also
 
-- [[Yeh Ping-cheng]]: PaGamO gamified learning platform, another path for educational innovation
-- [[Huang Kuo-chen]]: Pin Xue Tang reading literacy education, cultivating thinking rather than memorization  
+- [[yeh-ping-cheng-education-innovator]]: PaGamO gamified learning platform, another path for educational innovation
+- [[huang-kuo-chen]]: Pin Xue Tang reading literacy education, cultivating thinking rather than memorization
 - [[Yen Chang-shou]]: Tourism magnate turned rural education advocate
-- [[Audrey Tang]]: Digital governance and educational technology convergence
+- [[audrey-tang]]: Digital governance and educational technology convergence

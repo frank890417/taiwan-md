@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Photography: Light and Shadow of the Island
+title: 'Taiwanese Photography: Light and Shadow of the Island'
 category: Art
 tags: [Photography, Visual Arts, Documentary]
 date: 2026-03-20

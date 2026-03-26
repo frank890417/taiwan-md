@@ -1,7 +1,19 @@
 ---
-title: Modern Taiwanese Poetry: The Island's Lyricism
+title: "Modern Taiwanese Poetry: The Island's Lyricism"
 category: Art
-tags: [Literature, Poetry, Modern Poetry, Lyricism, Chi Hsien, Yu Kwang-chung, Lome, Wu Sheng, Xiang Yang, Chen Li]
+tags:
+  [
+    Literature,
+    Poetry,
+    Modern Poetry,
+    Lyricism,
+    Chi Hsien,
+    Yu Kwang-chung,
+    Lome,
+    Wu Sheng,
+    Xiang Yang,
+    Chen Li,
+  ]
 date: 2026-03-20
 lastVerified: 2026-03-20
 ---

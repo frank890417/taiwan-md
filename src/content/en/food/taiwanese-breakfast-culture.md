@@ -153,7 +153,7 @@ Taiwanese breakfast is more than food. It’s a daily cultural performance—rea
 
 ## Further Reading
 
-- [[Night Market Culture]] — another key food landscape
-- [[Taiwanese Street Food]] — more local classics
-- [[Convenience Store Culture]] — modern everyday eating
-- [[Tea Culture]] — Taiwan’s signature drink tradition
+- [[night-market-culture]] — another key food landscape
+- [[taiwanese-street-food]] — more local classics
+- [[convenience-store-culture]] — modern everyday eating
+- [[tea-culture]] — Taiwan’s signature drink tradition

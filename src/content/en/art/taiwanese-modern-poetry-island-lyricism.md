@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Modern Poetry: Island Lyricism
+title: 'Taiwanese Modern Poetry: Island Lyricism'
 category: Art
 tags: [literature, poetry, modern-poetry]
 date: 2026-03-20

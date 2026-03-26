@@ -2,7 +2,14 @@
 title: 'Local Taiwanese Street Food Map'
 description: 'From Keelung Miaokou''s "ding bian cu" (rice noodle soup) to Pingtung Wanluan''s braised pork knuckle, from Hsinchu''s fish balls to Taitung''s custard apple, each city has its own unique culinary DNA. Follow the footsteps of locals to discover the most representative local street foods of Taiwan''s 22 counties and cities, savoring the island''s most authentic folk culture.'
 date: 2026-03-20
-tags: [local street food, regional cuisine, city specialties, Taiwan food map, folk culture]
+tags:
+  [
+    local street food,
+    regional cuisine,
+    city specialties,
+    Taiwan food map,
+    folk culture,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 12
 featured: true
@@ -87,7 +94,7 @@ Yilan's geographical environment creates unique food culture.
 
 **Signature Dishes: Sun Cakes, Dong Quan Chili Sauce, Big Noodle Soup**
 
-Taichung is an important birthplace of Taiwan's creative snacks—[[bubble tea]] was invented here.
+Taichung is an important birthplace of Taiwan's creative snacks—[[bubble-tea]] was invented here.
 
 **Sun Cakes** are Taichung's most famous souvenir. Paper-thin crispy skin wraps maltose filling that melts in your mouth, creating unforgettable texture. Sun cake shops along [[Ziyou Road]] compete intensely, each with secret recipes, with [[Sun Hall]] being one of the oldest establishments.
 
@@ -235,16 +242,16 @@ When we taste these local snacks, we're not just satisfying our taste buds—we'
 
 ## Further Reading
 
-- [[Night Market Culture]] — Stage for Taiwan's folk cuisine and microcosm of social life
-- [[Taiwanese Street Food]] — Rich varieties of street food and folk wisdom
+- [[night-market-culture]] — Stage for Taiwan's folk cuisine and microcosm of social life
+- [[taiwanese-street-food]] — Rich varieties of street food and folk wisdom
 - [[Taiwan Indigenous Food Culture]] — Traditional cuisines of various indigenous groups
-- [[Hakka Food Culture]] — Unique culinary traditions of Hakka people
-- [[Military Dependents' Village Cuisine]] — Nostalgia map and cultural adaptation of Mainland immigrants
+- [[hakka-food-culture]] — Unique culinary traditions of Hakka people
+- [[military-dependents-village-cuisine]] — Nostalgia map and cultural adaptation of Mainland immigrants
 
 ## References
 
 1. Tourism bureau food materials from various counties and cities
-2. Taiwan street food culture research monographs  
+2. Taiwan street food culture research monographs
 3. Field surveys of local specialty snack shops
 4. Taiwan culinary culture historical documents
 5. Local food blogs and travel guides

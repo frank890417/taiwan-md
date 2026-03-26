@@ -1,8 +1,19 @@
 ---
 title: 'Wang Chi-lin and Lee Yang (The Lin-Yang Duo)'
-description: 'Taiwanese men''s badminton doubles pair, 2021 Tokyo Olympic gold medalists, Taiwan''s first Olympic gold medal in badminton history'
+description: "Taiwanese men's badminton doubles pair, 2021 Tokyo Olympic gold medalists, Taiwan's first Olympic gold medal in badminton history"
 date: 2026-03-19
-tags: [people, Wang Chi-lin, Lee Yang, Lin-Yang Duo, badminton, Olympics, gold medal, athletes, Taiwan]
+tags:
+  [
+    people,
+    Wang Chi-lin,
+    Lee Yang,
+    Lin-Yang Duo,
+    badminton,
+    Olympics,
+    gold medal,
+    athletes,
+    Taiwan,
+  ]
 subcategory: 'Sports'
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -10,7 +21,7 @@ lastHumanReview: false
 
 # Wang Chi-lin and Lee Yang (The Lin-Yang Duo)
 
-On the evening of July 31, 2021, inside Tokyo's Musashino Forest Sport Plaza, Wang Chi-lin delivered a crushing smash that hit the court floor, finalizing the score at 2-0. He and Lee Yang embraced in tears as cheers erupted simultaneously from television screens across Taiwan—this was Taiwan's first Olympic gold medal in badminton history, written by two young men with completely different styles. At that moment, the name "Lin-Yang Duo" (麟洋配, *línyang pèi*) was officially inscribed in Taiwan's sports history.
+On the evening of July 31, 2021, inside Tokyo's Musashino Forest Sport Plaza, Wang Chi-lin delivered a crushing smash that hit the court floor, finalizing the score at 2-0. He and Lee Yang embraced in tears as cheers erupted simultaneously from television screens across Taiwan—this was Taiwan's first Olympic gold medal in badminton history, written by two young men with completely different styles. At that moment, the name "Lin-Yang Duo" (麟洋配, _línyang pèi_) was officially inscribed in Taiwan's sports history.
 
 ## Two Different Badminton Journeys
 
@@ -50,7 +61,7 @@ When Wang Chi-lin's final smash hit the court, the two embraced excitedly. This 
 
 ## The Deeper Meaning Behind Gold
 
-The Lin-Yang Duo's success carries profound significance. First, they proved Taiwan badminton's strength. For a long time, [[Tai Tzu-ying]]'s achievements in women's singles brought attention to Taiwan badminton, but men's doubles had always been Taiwan's relatively weak discipline. The Lin-Yang Duo's breakthrough proved Taiwan badminton's comprehensive development.
+The Lin-Yang Duo's success carries profound significance. First, they proved Taiwan badminton's strength. For a long time, [[tai-tzu-ying]]'s achievements in women's singles brought attention to Taiwan badminton, but men's doubles had always been Taiwan's relatively weak discipline. The Lin-Yang Duo's breakthrough proved Taiwan badminton's comprehensive development.
 
 Second, their success model provided new thinking for Taiwan sports. Two stylistically different athletes achieved success on the world's highest stage through scientific pairing and long-term coordination, demonstrating the "1+1>2" effect worth emulating across other disciplines.
 
@@ -76,7 +87,7 @@ And this chemistry and cooperation might be exactly the spirit Taiwan society ne
 
 ## Further Reading
 
-- [[Tai Tzu-ying]]: Taiwan's badminton queen, world number one record holder
-- [[Kuo Hsing-chun]]: Fellow Tokyo Olympic gold medalist  
-- [[Yang Yung-wei]]: Tokyo Olympic judo silver medalist
+- [[tai-tzu-ying]]: Taiwan's badminton queen, world number one record holder
+- [[kuo-hsing-chun-olympic-weightlifting-champion]]: Fellow Tokyo Olympic gold medalist
+- [[yang-yung-wei-judo-olympic-silver]]: Tokyo Olympic judo silver medalist
 - [[Lee Chih-kai]]: Tokyo Olympic gymnastics pommel horse silver medalist

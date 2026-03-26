@@ -25,7 +25,7 @@ When the Philippine Sea Plate encounters the Eurasian Continental Plate at Taiwa
 
 Behind Alishan's sunrise and sea of clouds lies geological testimony to millions of years of plate compression; the Coastal Range's Dulan Mountain records the complex history of island arc collision. From Yehliu's Queen's Head to Taroko's marble gorges, from Penghu's columnar basalt to Green Island's wave-cut platforms, Taiwan's topography and geology resemble Earth's natural museum, displaying all possibilities of volcanism, marine erosion, fluvial erosion, and tectonic movement. These aren't static landscapes but living textbooks of geodynamics.
 
-[[Formation and Geographic Features of Taiwan Island]] | [[Taiwan's Five Major Landforms and Geographic Structure]] | [[Topography and Geology]] | [[Taiwan's Plate Tectonics and Seismic Activity]] | [[Qieding Mountain]] | [[Taiwan's Coastal Topography and Marine Landscapes]] | [[Taiwan's Hot Spring Landscapes]]
+[[Formation and Geographic Features of Taiwan Island]] | [[Taiwan's Five Major Landforms and Geographic Structure]] | [[地形與地質]] | [[Taiwan's Plate Tectonics and Seismic Activity]] | [[Qieding Mountain]] | [[Taiwan's Coastal Topography and Marine Landscapes]] | [[Taiwan's Hot Spring Landscapes]]
 
 ## 🌊 Hydrology & Climate — Climate Laboratory on the Tropic of Cancer
 
@@ -33,7 +33,7 @@ Taiwan possesses the world's most spectacular vertical climate zone distribution
 
 The Zhuoshui River carries snow and rainwater from the Central Mountains, depositing vast alluvial fans along Changhua's coast; the Tamsui River system shaped Taipei Basin's topography while creating Taiwan's most important metropolitan area. Shimen, Feitsui, Zengwen, and other reservoirs aren't merely water resource facilities but crystallizations of Taiwanese wisdom in negotiating with monsoon climate. When northeastern monsoons bring abundant rainfall, reservoirs store water; when southern typhoons threaten, reservoirs control floods. This water resource management synchronized with natural rhythms reflects Taiwan's geographical environment complexity and human adaptability wisdom.
 
-[[Climate]] | [[Taiwan's River Systems and Hydrological Features]] | [[Taiwan's Reservoirs and Water Resource Management]]
+[[climate]] | [[Taiwan's River Systems and Hydrological Features]] | [[taiwan-reservoirs-and-water-resource-management]]
 
 ## 🏙️ Urban & Regional — Human Landscapes from Basins to Plains
 
@@ -41,7 +41,7 @@ Taiwan's human geographical story begins with topography. Taipei Basin's formati
 
 Taipei 101's skyscraper cluster symbolizes Taiwan's modernization progress, but their deep foundation engineering better reflects Taipei Basin's soft geology challenges. Kaohsiung's petrochemical industrial zone chose the Pingtung Plain site, utilizing geographical advantages of flat terrain and deep-water ports; Hsinchu Science Park's establishment leveraged the Touqian River's water resources and flat terrain advantages. Cities aren't merely gathering places for human activities but spatial art mutually shaped by geographical environment and human wisdom.
 
-[[Taiwan's Urban Development and Urban-Rural Divide]] | [[Urban Characteristics and Regional Culture]] | [[Taipei 101]] | [[Taiwan's Agricultural Landscapes and Industrial Distribution]]
+[[Taiwan's Urban Development and Urban-Rural Divide]] | [[Urban Characteristics and Regional Culture]] | [[taipei-101]] | [[Taiwan's Agricultural Landscapes and Industrial Distribution]]
 
 ## 🚗 Transportation — Networks Crossing Mountains and Seas
 
@@ -57,7 +57,7 @@ Taiwan's geographical diversity creates biodiversity miracles. On this island co
 
 From Kenting's coral reef ecosystems to Yushan's alpine grasslands, from Taijiang's wetland migratory birds to Taroko's canyon ecology, every landform in Taiwan nurtures unique biological communities. National park system establishment isn't merely ecological conservation but tribute to Taiwan's geographical diversity. Yangmingshan National Park protects volcanic topography ecology, Taroko National Park guards canyon geological landscapes, Yushan National Park maintains alpine ecosystems, and Kenting National Park manages tropical coastal environments. These national parks resemble Taiwan geography's living museums, displaying life miracles nurtured by different topographical environments.
 
-[[Taiwan's Biodiversity Hotspots]] | [[Taiwan's National Scenic Area System]] | [[Outlying Islands and Maritime Culture]]
+[[taiwan-biodiversity-hotspots]] | [[Taiwan's National Scenic Area System]] | [[Outlying Islands and Maritime Culture]]
 
 ---
 

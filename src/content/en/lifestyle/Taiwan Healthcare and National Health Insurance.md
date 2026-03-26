@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Healthcare and National Health Insurance'
-description: 'The paradox of 99.9% coverage: How the world\'s cheapest healthcare system forces three-quarters of hospitals to operate at a loss'
+description: "The paradox of 99.9% coverage: How the world's cheapest healthcare system forces three-quarters of hospitals to operate at a loss"
 date: 2026-03-24
 tags:
   [
@@ -76,11 +76,11 @@ This system was praised by the World Health Organization as exemplary. The US, J
 
 Just how cheap is Taiwan's health insurance? The numbers will shock you:
 
-| Item | Taiwan | Comparison |
-|------|--------|------------|
-| GDP percentage | 6.2% | US 17.8%, Germany 10.7% |
-| Outpatient registration | NT$50-420 | US emergency $1,000-3,000 |
-| Hospital ward fee | NT$598/day | Budget hotels NT$800-1,200/day |
+| Item                    | Taiwan     | Comparison                     |
+| ----------------------- | ---------- | ------------------------------ |
+| GDP percentage          | 6.2%       | US 17.8%, Germany 10.7%        |
+| Outpatient registration | NT$50-420  | US emergency $1,000-3,000      |
+| Hospital ward fee       | NT$598/day | Budget hotels NT$800-1,200/day |
 
 What do these numbers mean? Taiwan medical center ward fees cost half what downtown business hotels charge. Nursing fees are NT$561 per day—8 hours of professional nursing care costs less than a Taipei dinner.
 
@@ -89,16 +89,19 @@ What do these numbers mean? Taiwan medical center ward fees cost half what downt
 The price of "cheap" is healthcare system over-exploitation:
 
 **Doctor's dilemma:**
+
 - Consultation fee: NT$2/person in hospitals, NT$385/person in clinics
 - Discounts start after 40 patients, minimum NT$40
 - Result: Doctors see 50-80 patients per session, 3-5 minutes each
 
 **Nurse's dilemma:**
+
 - Low hospital reimbursement forces reduced nursing staff
 - Imbalanced nurse-to-patient ratios: one nurse for 15-20 patients
 - High turnover: over 50% of nurses leave within three years
 
 **Hospital's dilemma:**
+
 - All inpatient departments lose money, subsidized by outpatient and pharmaceutical margins
 - Large hospitals rely on food courts and parking fees
 - Emergency rooms always have long waiting lines for beds
@@ -113,6 +116,7 @@ The price of "cheap" is healthcare system over-exploitation:
 ### The Beauty and Sorrow of World Number One
 
 International media praise Taiwan's NHI:
+
 - **New York Times**: "World's most efficient health insurance system"
 - **The Economist**: "Medical miracle on a small island"
 - **Journal of American Medical Association**: "99.9% coverage, world record"
@@ -120,16 +124,19 @@ International media praise Taiwan's NHI:
 But internal reports for the same system are filled with warnings:
 
 **Public overuse:**
+
 - Average 14 visits per year (UK: 5, US: 4)
 - Visiting three hospitals to "compare" for a cold
 - Chronic patients hoarding duplicate medications
 
 **Medical quality concerns:**
+
 - Short consultations can't handle complex problems
 - Doctors can only treat symptoms, not root causes
 - Shallow doctor-patient relationships, lacking continuity of care
 
 **Financial sustainability crisis:**
+
 - Aging society with exploding medical demand
 - Expensive new drugs and technologies beyond NHI budget
 - Decreasing premium payers, increasing users
@@ -140,12 +147,12 @@ But internal reports for the same system are filled with warnings:
 
 Taiwan faces a "perfect storm":
 
-| Challenge | 2026 Status | 2030 Projection |
-|-----------|-------------|-----------------|
-| Population 65+ | 18.1% | 23.8% |
-| Dependency ratio | 42.9 | 50.3 |
-| NHI expenditure growth | 4.8% | Est. 6-7% |
-| Premium income growth | 2.3% | Est. 1-2% |
+| Challenge              | 2026 Status | 2030 Projection |
+| ---------------------- | ----------- | --------------- |
+| Population 65+         | 18.1%       | 23.8%           |
+| Dependency ratio       | 42.9        | 50.3            |
+| NHI expenditure growth | 4.8%        | Est. 6-7%       |
+| Premium income growth  | 2.3%        | Est. 1-2%       |
 
 **What does this mean?**
 
@@ -160,12 +167,14 @@ Meanwhile, young premium payers are shrinking. Taiwan's declining birth rate mea
 Facing challenges, Taiwan didn't just wait. In 2013, it launched the "NHI Medical Information Cloud Query System":
 
 **Functional innovation:**
+
 - **Cloud-based medication records**: Doctors can query 3 months of patient drug history
 - **Shared medical imaging**: X-rays, CTs, MRIs accessible across hospitals
 - **Chronic disease management**: Data tracking for diabetes and hypertension patients
 - **Duplicate test warnings**: Preventing unnecessary repeat examinations
 
 **Amazing results:**
+
 - 15% reduction in duplicate tests
 - 20% reduction in duplicate prescriptions
 - Annual NHI savings of approximately NT$5 billion
@@ -198,16 +207,19 @@ The result is absurd theater: seeing major hospitals for colds, health checks at
 The government promotes tiered medical care, centered on rebuilding the "family physician" concept:
 
 **Referral incentive system:**
+
 - Lower co-payments for referrals to major hospitals
 - Higher fees for direct visits to major hospitals without referral
 - Electronic referral systems to simplify processes
 
 **Bidirectional referral mechanism:**
+
 - Acute phase treatment at major hospitals
 - Stable phase transfer back to primary care
 - Follow-up phase by family physicians
 
 **Integrated care:**
+
 - Family physicians coordinate all patient medical needs
 - Prevention over treatment
 - Building long-term doctor-patient relationships
@@ -218,15 +230,16 @@ But implementation faces difficulties. People maintain the "major hospital = qua
 
 ### Five Models' Pros and Cons
 
-| Model | Representative Country | Advantages | Disadvantages |
-|-------|------------------------|------------|---------------|
-| **Public system** | UK NHS | Universal free access, cost control | Long waiting times, limited choices |
-| **Social insurance** | Germany | High quality, multiple insurers | Heavy premium burden, administrative complexity |
-| **Private insurance dominant** | USA | Many choices, fast innovation | Low coverage, expensive |
-| **Provincial systems** | Canada | Local adaptation, democratic participation | Uneven quality, resource duplication |
-| **Single payer** | Taiwan | High coverage, low administrative costs | Payment pressure, sustainability concerns |
+| Model                          | Representative Country | Advantages                                 | Disadvantages                                   |
+| ------------------------------ | ---------------------- | ------------------------------------------ | ----------------------------------------------- |
+| **Public system**              | UK NHS                 | Universal free access, cost control        | Long waiting times, limited choices             |
+| **Social insurance**           | Germany                | High quality, multiple insurers            | Heavy premium burden, administrative complexity |
+| **Private insurance dominant** | USA                    | Many choices, fast innovation              | Low coverage, expensive                         |
+| **Provincial systems**         | Canada                 | Local adaptation, democratic participation | Uneven quality, resource duplication            |
+| **Single payer**               | Taiwan                 | High coverage, low administrative costs    | Payment pressure, sustainability concerns       |
 
 **Taiwan model's uniqueness:**
+
 - World's highest coverage (99.9%)
 - World's lowest administrative costs (<2%)
 - Extremely high medical accessibility (no referral restrictions)
@@ -241,6 +254,7 @@ But it faces challenges other countries don't: world's fastest population aging,
 Taiwan's medical quality enjoys international reputation, attracting about 600,000 foreign patients annually:
 
 **Advantages in medical specialties:**
+
 - **Cardiovascular surgery**: 98.5% coronary bypass success rate
 - **Cancer treatment**: Advanced proton therapy and immunotherapy
 - **Organ transplantation**: Asia's highest living donor liver transplant success rate
@@ -248,6 +262,7 @@ Taiwan's medical quality enjoys international reputation, attracting about 600,0
 - **Cosmetic surgery**: Leading Asian medical aesthetics technology
 
 **International patient sources:**
+
 - Mainland China (35%)
 - Southeast Asia (28%)
 - Europe and America (20%)
@@ -262,6 +277,7 @@ Three main reasons foreign patients choose Taiwan:
 3. **Quality service**: Humanized care, convenient Chinese-English communication
 
 **Amazing economic benefits:**
+
 - Annual output value approximately NT$18 billion
 - Creating linked consumption in medical, accommodation, and shopping
 - Enhancing Taiwan's international image
@@ -273,16 +289,19 @@ But medical tourism also brings controversy: foreign patients crowding out local
 ### Three Keys to Financial Sustainability
 
 **Diversified financing:**
+
 - Tobacco and alcohol health tax contributions
 - Long-term care fund diversion for chronic disease care
 - Government budget proportion increased to 30%
 
 **Payment system reform:**
+
 - Pay-for-performance: Combining medical quality with payments
 - Capitation: Payment by number of people cared for, not visits
 - Bundled payments: Integrated payments for specific diseases
 
 **Fee adjustment mechanism:**
+
 - Establishing automatic fee adjustment mechanisms
 - Linking to economic growth rates and price indices
 - Ensuring intergenerational burden equity
@@ -292,17 +311,20 @@ But medical tourism also brings controversy: foreign patients crowding out local
 Taiwan is actively introducing AI technology to improve NHI efficiency:
 
 **AI application areas:**
+
 - **Diagnostic assistance**: AI interpretation of medical images
 - **Drug review**: Automatic detection of inappropriate medication
 - **Fraud detection**: Abnormal medical behavior warnings
 - **Resource allocation**: Predicting medical demand distribution
 
 **Online achievements:**
+
 - AI screening for diabetic retinopathy through fundus photography
 - AI-assisted chest X-ray tuberculosis screening
 - AI prescription review for inappropriate medication
 
 **Future vision:**
+
 - Personalized medicine: Genetic testing combined with AI medication recommendations
 - Predictive medicine: AI predicting disease risks for early intervention
 - Precision payments: AI analyzing cost-effectiveness to optimize resource allocation
@@ -314,16 +336,19 @@ Taiwan is actively introducing AI technology to improve NHI efficiency:
 Taiwan's NHI isn't just an insurance system—it's concrete implementation of social values:
 
 **Fairness and justice:**
+
 - Equal medical rights regardless of occupation or income
 - Government pays premiums for disadvantaged groups
 - Major illness exemptions from co-payments
 
 **Social solidarity:**
+
 - Healthy people help sick people
 - Young generations support elderly generations
 - High-income earners subsidize low-income earners
 
 **Human rights protection:**
+
 - Transforming "health" from privilege to right
 - Preventing social tragedies of poverty due to illness
 - Maintaining basic human dignity

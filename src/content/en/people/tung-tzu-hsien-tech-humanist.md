@@ -3,8 +3,8 @@ title: 'Tung Tzu-hsien (童子賢)'
 description: "Chairman and CEO of Pegatron Corporation, a tech industry leader who bridges technology and humanities, and key supporter of Taiwan's Eslite Bookstore"
 date: 2026-03-20
 tags:
-subcategory: 'Tech & Business'
   [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
+subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
 ---
 
@@ -68,7 +68,7 @@ His success in maintaining Pegatron's competitiveness while pursuing social goal
 
 ## Further Reading
 
-- [[Stan Shih (施振榮)]] - ASUS founder who pioneered Taiwan's transition from manufacturing to innovation
+- [[stan-shih]] - ASUS founder who pioneered Taiwan's transition from manufacturing to innovation
 - [[Terry Gou (郭台銘)]] - Foxconn founder whose manufacturing empire shaped Taiwan's tech industry
 - [[Morris Chang (張忠謀)]] - TSMC founder who created Taiwan's semiconductor leadership
 - [[Audrey Tang (唐鳳)]] - Digital minister who embodies tech-government collaboration

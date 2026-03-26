@@ -3,7 +3,6 @@ title: 'Fang-Yi Sheu (許芳宜)'
 description: "From a small-town girl in Yilan to principal dancer at Martha Graham Dance Company and founder of LAFA — she tells Taiwan's most powerful stories through movement"
 date: 2026-03-19
 tags:
-subcategory: 'Arts & Design'
   [
     'dance',
     'performing arts',
@@ -12,6 +11,7 @@ subcategory: 'Arts & Design'
     'modern dance',
     'contemporary dance',
   ]
+subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 ---
 
@@ -37,11 +37,11 @@ In 2008, after establishing herself firmly in New York, Fang-Yi Sheu chose to re
 
 Her decision to return to Taiwan sparked considerable debate. Many thought she was making a mistake—why give up her position as a principal dancer in New York? But Fang-Yi's answer was simple: "Taiwan needs someone to do this work." She wanted Taiwanese people to understand that the body is not merely a tool—the body itself is a language.
 
-She and [[Lin Hwai-min]] represent two extremes in Taiwan's modern dance scene: Lin Hwai-min constructs systems using Eastern philosophy, while Fang-Yi uses Western training to respond to Asian bodies. Their combined presence makes Taiwan an undeniable coordinate on the Asian modern dance map.
+She and [[lin-hwai-min]] represent two extremes in Taiwan's modern dance scene: Lin Hwai-min constructs systems using Eastern philosophy, while Fang-Yi uses Western training to respond to Asian bodies. Their combined presence makes Taiwan an undeniable coordinate on the Asian modern dance map.
 
 ## Cross-Disciplinary Work and Cultural Impact
 
-Fang-Yi Sheu refuses to confine herself to stage performances alone. She has appeared in films by [[Ang Lee]], collaborated with Cloud Gate 2, delivered TEDx talks, and promoted body education in schools. In 2020, her documentary "Me & My Body" was released, introducing more Taiwanese audiences to this Yilan girl who shines on the international dance stage.
+Fang-Yi Sheu refuses to confine herself to stage performances alone. She has appeared in films by [[ang-lee]], collaborated with Cloud Gate 2, delivered TEDx talks, and promoted body education in schools. In 2020, her documentary "Me & My Body" was released, introducing more Taiwanese audiences to this Yilan girl who shines on the international dance stage.
 
 One of her widely quoted statements captures her philosophy: "Your body is your story."
 

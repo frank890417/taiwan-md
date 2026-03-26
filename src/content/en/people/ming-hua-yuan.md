@@ -3,8 +3,8 @@ title: 'Ming Hua Yuan'
 description: 'From outdoor temple stages to the Taipei Arena, Taiwan’s leading gezai opera troupe proves that tradition is not the past—it is a living present'
 date: 2026-03-19
 tags:
-subcategory: 'Arts & Design'
   [gezai-opera, traditional-arts, performing-arts, ming-hua-yuan, chen-sheng-fu]
+subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 translatedFrom: 'People/明華園.md'
 sourceHash: 'bfd12b'

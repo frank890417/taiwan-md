@@ -136,7 +136,7 @@ If Taiwan can treat hot springs as a renewable cultural and ecological resourceâ
 ## Further Reading
 
 - [[Taiwan Mountains and Hiking Culture]]
-- [[Taiwan Marine Ecology]]
+- [[taiwan-marine-ecology]]
 - [[Taiwan Geology and Landforms]]
 - [[Indigenous Cultures]]
 - [[Japaneseâ€‘Era Architectural Heritage]]

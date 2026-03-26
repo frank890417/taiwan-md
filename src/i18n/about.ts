@@ -23,11 +23,11 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '933+',
+    'about.stats.pages.number': '939+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
-    'about.stats.stars.number': '840+',
+    'about.stats.stars.number': '860+',
     'about.stats.stars.label': 'GitHub Stars',
     'about.stats.contributors.number': '30+',
     'about.stats.contributors.label': 'Contributors',
@@ -275,18 +275,24 @@ export const aboutUI = {
     'about.sponsors.title': '🤝 Sponsors & Partners',
     'about.sponsors.desc.html':
       'Taiwan.md is a non-profit, community-driven open-source project.<br />We believe every contribution is a way to let the world know Taiwan.',
-    'about.sponsors.tier.core.name': '🥇 Core Partner',
+    'about.sponsors.tier.core.name': '🏛️ Core Partner',
     'about.sponsors.tier.core.desc':
       'Deep involvement in project development, providing key infrastructure or long-term resource support',
     'about.sponsors.tier.core.perks':
       'Large logo on About page・README featured section・Social media acknowledgment・Quarterly impact reports',
     'about.sponsors.tier.core.placeholder': 'Be the First Core Partner',
-    'about.sponsors.tier.professional.name': '🥈 Professional Partner',
+    'about.sponsors.tier.curation.name': '📚 Content Curation Partner',
+    'about.sponsors.tier.curation.desc':
+      'Professional organizations contributing domain expertise — injecting specialized knowledge or providing expert review for content accuracy',
+    'about.sponsors.tier.curation.perks':
+      'Logo on About page・"Curated by" credit on articles・README acknowledgment・Co-branded content series',
+    'about.sponsors.tier.curation.placeholder': 'Be the First Curation Partner',
+    'about.sponsors.tier.professional.name': '🔧 Professional Partner',
     'about.sponsors.tier.professional.desc':
       "Directly enhancing Taiwan.md's quality and experience through professional capabilities or services",
     'about.sponsors.tier.professional.perks':
       'Logo on About page・README acknowledgment・Contribution story column',
-    'about.sponsors.tier.community.name': '🥉 Community Partner',
+    'about.sponsors.tier.community.name': '🌱 Community Partner',
     'about.sponsors.tier.community.desc':
       'Supporting community operations and user experience with tools, services, or resources',
     'about.sponsors.tier.community.perks':
@@ -344,11 +350,11 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '933+',
+    'about.stats.pages.number': '939+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
-    'about.stats.stars.number': '840+',
+    'about.stats.stars.number': '860+',
     'about.stats.stars.label': 'GitHub Stars',
     'about.stats.contributors.number': '30+',
     'about.stats.contributors.label': '貢獻者',
@@ -580,18 +586,25 @@ export const aboutUI = {
     'about.sponsors.title': '🤝 贊助與合作夥伴',
     'about.sponsors.desc.html':
       'Taiwan.md 是非營利的社群開源專案。<br />我們相信，每一種貢獻都是讓世界認識台灣的方式。',
-    'about.sponsors.tier.core.name': '🥇 核心夥伴 Core Partner',
+    'about.sponsors.tier.core.name': '🏛️ 核心夥伴 Core Partner',
     'about.sponsors.tier.core.desc':
       '深度參與專案發展，提供關鍵基礎設施或長期資源支持',
     'about.sponsors.tier.core.perks':
       'About 頁大 Logo・README 專區・社群媒體致謝・季度影響力報告',
     'about.sponsors.tier.core.placeholder': '成為第一位核心夥伴',
-    'about.sponsors.tier.professional.name': '🥈 專業夥伴 Professional Partner',
+    'about.sponsors.tier.curation.name':
+      '📚 專業資料策展夥伴 Content Curation Partner',
+    'about.sponsors.tier.curation.desc':
+      '專業領域團體或機構，以知識庫灌注或專業審閱，確保內容的深度與準確性',
+    'about.sponsors.tier.curation.perks':
+      'About 頁 Logo・文章「策展單位」署名・README 致謝・聯名內容系列',
+    'about.sponsors.tier.curation.placeholder': '成為第一位策展夥伴',
+    'about.sponsors.tier.professional.name': '🔧 專業夥伴 Professional Partner',
     'about.sponsors.tier.professional.desc':
       '以專業能力或產品服務，直接提升 Taiwan.md 的品質與體驗',
     'about.sponsors.tier.professional.perks':
       'About 頁 Logo・README 致謝・貢獻故事專欄',
-    'about.sponsors.tier.community.name': '🥉 社群夥伴 Community Partner',
+    'about.sponsors.tier.community.name': '🌱 社群夥伴 Community Partner',
     'about.sponsors.tier.community.desc':
       '以工具、服務或資源支持社群運作與使用者體驗',
     'about.sponsors.tier.community.perks': 'About 頁文字致謝・README 列名',

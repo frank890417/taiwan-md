@@ -2,8 +2,8 @@
 title: 'Tai Tzu-ying'
 category: People
 tags:
-subcategory: 'Sports'
   [person, Tai Tzu-ying, badminton, world number one, Olympics, athlete, Taiwan]
+subcategory: 'Sports'
 date: 2026-03-17
 ---
 

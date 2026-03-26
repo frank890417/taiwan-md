@@ -1,0 +1,186 @@
+name: PR Content Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Get changed files
+        id: files
+        run: |
+          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+          echo "all_files<<EOF" >> $GITHUB_OUTPUT
+          echo "$FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+          # Classify PR type
+          CONTENT_ONLY=true
+          TRANSLATION_ONLY=true
+          HAS_CONTENT=false
+          HAS_ENGINEERING=false
+
+          while IFS= read -r f; do
+            [[ -z "$f" ]] && continue
+            if [[ "$f" =~ ^knowledge/.*\.md$ ]] || [[ "$f" =~ ^src/content/.*\.md$ ]]; then
+              HAS_CONTENT=true
+              # Check if it's translation (en/ja/es subdir)
+              if [[ ! "$f" =~ /en/|/ja/|/es/ ]]; then
+                TRANSLATION_ONLY=false
+              fi
+            else
+              CONTENT_ONLY=false
+              TRANSLATION_ONLY=false
+              HAS_ENGINEERING=true
+            fi
+          done <<< "$FILES"
+
+          if [[ "$CONTENT_ONLY" == "true" ]] && [[ "$HAS_CONTENT" == "true" ]]; then
+            if [[ "$TRANSLATION_ONLY" == "true" ]]; then
+              echo "pr_type=translation" >> $GITHUB_OUTPUT
+            else
+              echo "pr_type=content" >> $GITHUB_OUTPUT
+            fi
+          elif [[ "$HAS_CONTENT" == "true" ]] && [[ "$HAS_ENGINEERING" == "true" ]]; then
+            echo "pr_type=mixed" >> $GITHUB_OUTPUT
+          else
+            echo "pr_type=engineering" >> $GITHUB_OUTPUT
+          fi
+
+          # Content files only (for review script)
+          CONTENT_FILES=$(echo "$FILES" | grep -E '^(knowledge|src/content)/.*\.md$' || echo "")
+          echo "content_files<<EOF" >> $GITHUB_OUTPUT
+          echo "$CONTENT_FILES" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Label PR type
+        if: steps.files.outputs.pr_type == 'mixed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: ['mixed-pr']
+            });
+
+      - name: Skip non-content PRs
+        if: steps.files.outputs.pr_type == 'engineering'
+        run: echo "⏭️ Engineering PR — skipping content review"
+
+      - name: Run content review
+        if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
+        id: review
+        run: |
+          chmod +x scripts/review-pr.sh
+          CONTENT_FILES="${{ steps.files.outputs.content_files }}"
+          
+          # Convert newlines to space for script args
+          ARGS=$(echo "$CONTENT_FILES" | tr '\n' ' ')
+          
+          # Run review (capture output, don't fail yet)
+          set +e
+          RESULT=$(bash scripts/review-pr.sh $ARGS 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
+          EXIT_CODE=$?
+          set -e
+          
+          echo "exit_code=$EXIT_CODE" >> $GITHUB_OUTPUT
+          
+          # Determine status for labeling
+          if echo "$RESULT" | grep -q '🔴 FAIL'; then
+            echo "status=fail" >> $GITHUB_OUTPUT
+          elif echo "$RESULT" | grep -q '🟡 WARNING'; then
+            echo "status=warning" >> $GITHUB_OUTPUT
+          else
+            echo "status=pass" >> $GITHUB_OUTPUT
+          fi
+          
+          # Save result for comment
+          echo "result<<EOF" >> $GITHUB_OUTPUT
+          echo "$RESULT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Comment review result
+        if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const result = `${{ steps.review.outputs.result }}`;
+            const status = '${{ steps.review.outputs.status }}';
+            
+            let header = '';
+            if (status === 'pass') header = '## ✅ 自動審核通過';
+            else if (status === 'warning') header = '## 🟡 自動審核通過（有建議）';
+            else header = '## 🔴 自動審核未通過';
+            
+            const body = `${header}\n\n\`\`\`\n${result}\n\`\`\`\n\n---\n*Taiwan.md PR Review Bot • 四層免疫系統*`;
+            
+            // Find and update existing bot comment, or create new
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+            const botComment = comments.find(c => c.body.includes('Taiwan.md PR Review Bot'));
+            
+            if (botComment) {
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: botComment.id,
+                body,
+              });
+            } else {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body,
+              });
+            }
+
+      - name: Label result
+        if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const status = '${{ steps.review.outputs.status }}';
+            const labels = {
+              pass: 'ready-for-review',
+              warning: 'needs-review',
+              fail: 'needs-work'
+            };
+            const removeLabels = ['ready-for-review', 'needs-review', 'needs-work'];
+            
+            // Remove old labels
+            for (const label of removeLabels) {
+              try {
+                await github.rest.issues.removeLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: context.issue.number,
+                  name: label,
+                });
+              } catch (e) { /* label not present */ }
+            }
+            
+            // Add new label
+            await github.rest.issues.addLabels({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              labels: [labels[status]],
+            });

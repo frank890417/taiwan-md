@@ -3,7 +3,6 @@ title: 'Kuo Hsing-chun'
 description: "Taiwan's weightlifting goddess, Tokyo 2021 Olympic gold medalist, triple Olympic record holder in the 59kg category"
 date: 2026-03-19
 tags:
-subcategory: 'Sports'
   [
     People,
     Kuo Hsing-chun,
@@ -13,6 +12,7 @@ subcategory: 'Sports'
     Athletes,
     Taiwan,
   ]
+subcategory: 'Sports'
 lastVerified: 2026-03-20
 ---
 
@@ -74,7 +74,7 @@ From an Amis girl in Taitung to Olympic gold medalist, from the despair of sever
 
 ## Further Reading
 
-- [[Tai Tzu-ying]]: Another standout athlete from Taiwan's Tokyo Olympics delegation
-- [[Yang Yung-wei]]: Taiwan's first Olympic judo medalist in Tokyo
+- [[tai-tzu-ying]]: Another standout athlete from Taiwan's Tokyo Olympics delegation
+- [[yang-yung-wei-judo-olympic-silver]]: Taiwan's first Olympic judo medalist in Tokyo
 - [[Lee Chih-kai]]: Tokyo Olympics silver medalist in gymnastics pommel horse
 - [[Wang Chi-lin and Lee Yang (Lee Yang Wang)]]: Tokyo Olympics badminton men's doubles gold medal pair

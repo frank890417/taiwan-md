@@ -281,4 +281,4 @@ In this process, we see not only the cultural revitalization of ethnic groups bu
 
 - [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]] - Understanding the position of indigenous peoples among diverse ethnic groups
 - [[Language Diversity and Mother Tongue Culture]] - Exploring relationships between indigenous languages and other mother tongues
-- [[Traditional Festivals and Celebrations]] - Understanding the significance of indigenous festivals in Taiwan's festival culture
+- [[traditional-festivals-and-celebrations]] - Understanding the significance of indigenous festivals in Taiwan's festival culture

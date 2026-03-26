@@ -1,6 +1,6 @@
 ---
 title: 'Religion and Folk Beliefs'
-description: 'From survival pragmatism to spiritual homeland: How Taiwan built the world's densest temple network'
+description: "From survival pragmatism to spiritual homeland: How Taiwan built the world's densest temple network"
 date: 2026-03-21
 category: lifestyle
 tags: [lifestyle, religion, Mazu, folk beliefs, temple culture, Wang Ye worship]

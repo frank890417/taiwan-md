@@ -135,7 +135,7 @@ Taiwan’s ban‑zhuo culture may no longer dominate daily life, but it remains 
 
 ## Further Reading
 
-- [[Night Market Culture]] — another core food tradition
-- [[Taiwanese Street Food]] — local culinary classics
-- [[Tea Culture]] — Taiwan’s signature drink culture
-- [[Religion and Folk Beliefs]] — many ban‑zhuo events are tied to temples
+- [[night-market-culture]] — another core food tradition
+- [[taiwanese-street-food]] — local culinary classics
+- [[tea-culture]] — Taiwan’s signature drink culture
+- [[religion-folk-beliefs]] — many ban‑zhuo events are tied to temples

@@ -1,9 +1,16 @@
 ---
 title: 'Taiwanese Tea Ceremony and Lifestyle Aesthetics'
-description: 'When Wistaria House opened in 1981, opposition figures and intellectuals gathered for tea. This wasn't just a teahouse—it was a secret base for the democracy movement'
+description: "When Wistaria House opened in 1981, opposition figures and intellectuals gathered for tea. This wasn't just a teahouse—it was a secret base for the democracy movement"
 date: 2026-03-18
 category: 'Culture'
-tags: ['tea culture', 'tea ceremony', 'lifestyle aesthetics', 'Wistaria House', 'teahouses']
+tags:
+  [
+    'tea culture',
+    'tea ceremony',
+    'lifestyle aesthetics',
+    'Wistaria House',
+    'teahouses',
+  ]
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 8

@@ -1,8 +1,9 @@
 ---
 created: 2026-03-17
-tags: [Nature, Endemic Species, Biodiversity, Taiwanese Black Bear, Sakura Trout]
+tags:
+  [Nature, Endemic Species, Biodiversity, Taiwanese Black Bear, Sakura Trout]
 title: 'Endemic Species'
-description: 'Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and their conservation importance'
+description: "Taiwan's rich endemic species showcase the evolutionary miracles of island biogeography and their conservation importance"
 date: 2026-03-17
 author: Taiwan.md
 readingTime: 9
@@ -97,6 +98,6 @@ Taiwan's endemic species conservation experience holds important value for globa
 ## Related Topics
 
 - [[Geography/Topography and Climate]]
-- [[History/Prehistoric Era and Indigenous Peoples]]
-- [[Lifestyle/Convenience Store Culture]]
+- [[prehistoric-era-and-indigenous-peoples]]
+- [[convenience-store-culture]]
 - [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainland Chinese, New Immigrants)]]

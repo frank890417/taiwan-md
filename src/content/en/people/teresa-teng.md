@@ -3,7 +3,6 @@ title: 'Teresa Teng — The Voice That United Asia'
 description: "From Taiwan's countryside to Asian superstardom: How Teresa Teng's voice transcended political boundaries and created the first pan-Asian pop culture phenomenon"
 date: 2026-03-17
 tags:
-subcategory: 'Music'
   [
     'music',
     'singer',
@@ -12,6 +11,7 @@ subcategory: 'Music'
     'mandarin-pop',
     'cultural-diplomacy',
   ]
+subcategory: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 16
 featured: true
@@ -266,7 +266,7 @@ Teresa Teng proved that a voice from a small island could touch hearts across a 
 
 ## Related Topics
 
-- [[Music/pop-music-and-golden-melody-awards]]
-- [[Culture/ethnic-groups]]
-- [[History/democratization]]
-- [[People/ang-lee]]
+- [[pop-music-and-golden-melody-awards]]
+- [[ethnic-groups]]
+- [[democratization]]
+- [[ang-lee]]

@@ -40,6 +40,6 @@ His story touches people's hearts not only because of his championship title, bu
 
 ## Further Reading
 
-- [[Andre Chiang]]: Another Taiwanese chef who shines on the international culinary stage  
+- [[andre-chiang-taiwanese-culinary-innovator]]: Another Taiwanese chef who shines on the international culinary stage
 - [Night Market Culture](/en/food/night-market-culture): The foundation of Taiwan's popular food culture
 - [Taiwanese Street Food](/en/food/taiwanese-street-food): From street corners to the world, the taste of Taiwan

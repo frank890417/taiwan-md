@@ -1,8 +1,17 @@
 ---
 title: 'Taiwan Coffee Industry'
-description: 'From Tait & Co.\'s 100 seedlings in 1884 to hosting the first Cup of Excellence in 2024, how an island built a coffee empire importing 43,000 tons annually in 140 years'
+description: "From Tait & Co.'s 100 seedlings in 1884 to hosting the first Cup of Excellence in 2024, how an island built a coffee empire importing 43,000 tons annually in 140 years"
 date: 2026-03-23
-tags: ['coffee', 'Gukeng coffee', 'Alishan coffee', 'Simple Kaffa', 'third wave coffee', 'Cup of Excellence', 'convenience store coffee']
+tags:
+  [
+    'coffee',
+    'Gukeng coffee',
+    'Alishan coffee',
+    'Simple Kaffa',
+    'third wave coffee',
+    'Cup of Excellence',
+    'convenience store coffee',
+  ]
 author: 'Taiwan.md'
 category: 'Food'
 lastVerified: 2026-03-23
@@ -92,13 +101,13 @@ Starbucks, 85°C, Louisa Coffee, cama, and other chain brands' proliferation tra
 
 **7-Eleven's City Cafe sells 280 million cups annually, generating over 15 billion NT$ in revenue**. Average stores sell 150+ cups daily. FamilyMart's Let's Cafe and Hi-Life's Hi Cafe—these affordable fresh-brewed coffees significantly lowered consumption barriers. Though quality trails professional coffee shops, NT$35-50 pricing and ubiquitous availability helped more people develop coffee habits.
 
-| **Brand** | **Store Count** | **Positioning** |
-|-----------|----------------|----------------|
-| Louisa Coffee | 524 stores | Affordable specialty |
-| Starbucks | 500 stores | Third place experience |
-| 85°C | 435 stores | Coffee + bakery complex |
-| cama | 151 stores | Specialty takeaway |
-| 7-11 City Cafe | 5,000+ stores | Convenience store access |
+| **Brand**      | **Store Count** | **Positioning**          |
+| -------------- | --------------- | ------------------------ |
+| Louisa Coffee  | 524 stores      | Affordable specialty     |
+| Starbucks      | 500 stores      | Third place experience   |
+| 85°C           | 435 stores      | Coffee + bakery complex  |
+| cama           | 151 stores      | Specialty takeaway       |
+| 7-11 City Cafe | 5,000+ stores   | Convenience store access |
 
 Hand-shake drink culture indirectly promoted coffee consumption. Taiwanese habits of "grabbing drinks anytime" naturally included coffee as an option. Many bubble tea shops also began selling coffee drinks, blurring boundaries between coffee and tea beverages.
 

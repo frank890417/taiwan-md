@@ -1,8 +1,9 @@
 ---
-title: 'Taiwan's Specialty Home Cooking (Shǒulù Cài): The Disappearing Taste Memory'
-description: 'From Chiayi mint chicken to soup made from banquet leftovers, grandmothers' signature dishes carry family memories but are slowly being lost in the tide of modernization.'
+title: "Taiwan's Specialty Home Cooking (Shǒulù Cài): The Disappearing Taste Memory"
+description: "From Chiayi mint chicken to soup made from banquet leftovers, grandmothers' signature dishes carry family memories but are slowly being lost in the tide of modernization."
 date: 2026-03-21
-tags: ['Taiwanese Cuisine', 'Traditional Cooking', 'Family Memory', 'Home Cooking']
+tags:
+  ['Taiwanese Cuisine', 'Traditional Cooking', 'Family Memory', 'Home Cooking']
 category: 'Food'
 author: 'Taiwan.md'
 featured: false

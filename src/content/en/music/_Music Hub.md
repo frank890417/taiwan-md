@@ -1,5 +1,5 @@
 ---
-title: "Music"
+title: 'Music'
 date: 2026-03-23
 tags: [music, Hub]
 description: "How did a seemingly peripheral island claim a central position in the Mandarin music landscape? From experimental noise in underground live houses to ten-thousand-voice choruses at Golden Melody Awards, Taiwan's music scene displays astonishing creative density and cultural penetration."
@@ -18,7 +18,7 @@ When Spotify statistics show Taiwanese artists accounting for over 60% of Asian 
 The true power of Taiwan music doesn't lie in how "rich and diverse" it is (anyone can say that), but in how it found an almost impossible balance point between tradition and innovation, local and international, mainstream and underground. This is home to Asia's densest live house culture, complete music festival ecosystems from Hohaiyan Rock Festival to Megaport Festival, digital music infrastructure from StreetVoice to KKBOX, and most importantly, a group of musicians who refuse to be bound by any framework.
 
 ![Mayday concert](/images/wiki/ddb5b26935ba.jpg)
-*Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0*
+_Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mayday_on_Mercuries_Life_press_conference_at_Red_House_Theater_20131125.jpg) | CC BY-SA 3.0_
 
 ## 🎤 Mandarin Pop Music Powerhouse
 
@@ -26,7 +26,7 @@ If we had to describe 2000s Taiwan pop music's status in one word, it would be "
 
 These names aren't just Taiwan's pride; they redrew the boundaries of Mandarin music entirely. The thirty-four-year history of the Golden Melody Awards since 1990 chronicles Mandarin music's journey from periphery to center. When this ceremony earned the title "Grammy of Chinese-language music," it carries more than recognition for excellent works — it became the compass for the entire Chinese music world.
 
-[[Mandarin Pop and Golden Melody Awards]] | [[Jay Chou]] | [[Mayday]] | [[Jolin Tsai]] | [[A-Mei]] | [[Yoga Lin]] | [[Hebe Tien]]
+[[Mandarin Pop and Golden Melody Awards]] | [[jay-chou]] | [[mayday]] | [[蔡依林]] | [[a-mei]] | [[Yoga Lin]] | [[Hebe Tien]]
 
 ## 🎸 Independent & Rock's Rebellious Blood
 
@@ -36,7 +36,7 @@ Accusefive wraps rock cores in folk packaging, Eggplantman transforms Taiwanese 
 
 More importantly, live house culture flourishes. River Bank Live House, The Wall, Legacy — these aren't just venue names but the nurseries of independent music, universities for musicians, secret bases of Taiwan's musical creativity.
 
-[[Taiwan Independent Music Scene Evolution]] | [[Taiwan Rock Development History]] | [[Independent Music Scene]] | [[Taiwan Hip-Hop and Rap Development]] | [[Taiwan Electronic Music and Party Culture]] | [[Taiwan Music Festival Culture]]
+[[taiwan-independent-music-scene-evolution]] | [[Taiwan Rock Development History]] | [[Independent Music Scene]] | [[Taiwan Hip-Hop and Rap Development]] | [[taiwan-electronic-music-and-party-culture]] | [[taiwan-music-festival-culture]]
 
 ## 🎵 Traditional & Folk's Contemporary Dialogue
 
@@ -46,7 +46,7 @@ The profound influence of the 1970s folk song movement cannot be ignored. From Y
 
 This spirit continues today, whether in Chairman's taiwanese rock or Xie Ming-you's Tainan folk songs, proving the dialogue between tradition and modernity never ends.
 
-[[Taiwan Folk Song Movement]] | [[Taiwan Taiwanese Song Evolution]] | [[Taiwan Hakka Music]] | [[Taiwan Folk and Ballads]] | [[Golden Melody Heritage: Taiwan Pop Music's History and Cultural Status]]
+[[Taiwan Folk Song Movement]] | [[Taiwan Taiwanese Song Evolution]] | [[taiwan-hakka-music-from-mountain-songs-to-rock]] | [[Taiwan Folk and Ballads]] | [[Golden Melody Heritage: Taiwan Pop Music's History and Cultural Status]]
 
 ## 🪶 Indigenous Music & Cultural Roots
 
@@ -56,7 +56,7 @@ Atayal mouth harps, Thao pestle music, Amis harvest festival songs and dances �
 
 Most importantly, this music reminds us: Taiwan's cultural roots run far deeper than imagined. Before all the modernization, internationalization, globalization — this land already had its own voice. Those voices remain vibrant today, still moving hearts, still telling the world what true "Taiwan originality" means.
 
-[[Taiwan Indigenous Music Traditions]] | [[Contemporary Indigenous Singer-Songwriters]] | [[A-Mei]] | [[Jia Jia]] | [[Haowen]]
+[[Taiwan Indigenous Music Traditions]] | [[contemporary-indigenous-singer-songwriters]] | [[a-mei]] | [[Jia Jia]] | [[Haowen]]
 
 ## 🎬 Industry & Innovation's Digital Transformation
 
@@ -66,7 +66,7 @@ StreetVoice grew from an independent music platform into a crucial Chinese music
 
 These innovations didn't just change Taiwan music's face but influenced the entire Chinese music world's development direction. When discussing Taiwan music's international influence, we're talking not just about singers or songs but a complete innovative music industry model.
 
-[[Taiwan Music Industry and Streaming Era]] | [[Taiwan Music Festival Culture]] | [[Taiwan Film and TV Soundtracks]] | [[Taiwan Musical Instrument Manufacturing]] | [[Taiwan Soundscape]] | [[Taiwan KTV Culture]]
+[[Taiwan Music Industry and Streaming Era]] | [[taiwan-music-festival-culture]] | [[Taiwan Film and TV Soundtracks]] | [[Taiwan Musical Instrument Manufacturing]] | [[taiwan-soundscape]] | [[Taiwan KTV Culture]]
 
 ## Amazing Facts
 

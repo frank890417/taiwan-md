@@ -80,7 +80,7 @@ Encouraging citizens to download the "Health Passbook" app to grasp personal med
 
 ## Related Topics
 
-- [[Lifestyle/convenience-store-culture]]
-- [[Society/Human Rights and Gender Equality]]
-- [[Technology/open-source-and-g0v]]
-- [[Economy/economic-miracle]]
+- [[convenience-store-culture]]
+- [[human-rights-and-gender-equality]]
+- [[open-source-and-g0v]]
+- [[economic-miracle]]

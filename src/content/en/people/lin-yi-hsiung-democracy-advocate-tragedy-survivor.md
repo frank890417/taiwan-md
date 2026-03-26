@@ -3,7 +3,6 @@ title: 'Lin Yi-hsiung'
 description: "Pioneer of Taiwan's democracy movement, survivor of the Lin family massacre, anti-nuclear activist who exemplifies resilience in tragedy"
 date: 2026-03-19
 tags:
-subcategory: 'Politics & Democracy'
   [
     'democracy movement',
     'Lin family massacre',
@@ -11,6 +10,7 @@ subcategory: 'Politics & Democracy'
     'political victim',
     'Tzulin Foundation',
   ]
+subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
 ---
 

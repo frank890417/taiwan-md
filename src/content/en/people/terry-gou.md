@@ -47,7 +47,7 @@ Electric vehicles represent an important direction for Hon Hai's transformation.
 
 ## Symbol of Taiwan Manufacturing
 
-Gou's success represents both personal achievement and Taiwan manufacturing's important position in the global value chain. He demonstrated that Taiwan enterprises could develop from small factories into world-class companies, providing a model for countless Taiwan businesses expanding into mainland markets. [[Stan Shih]] once said Gou realized the manufacturing advantages at the right end of the smile curve—the most apt evaluation of him.
+Gou's success represents both personal achievement and Taiwan manufacturing's important position in the global value chain. He demonstrated that Taiwan enterprises could develop from small factories into world-class companies, providing a model for countless Taiwan businesses expanding into mainland markets. [[施振榮]] once said Gou realized the manufacturing advantages at the right end of the smile curve—the most apt evaluation of him.
 
 Hon Hai's success also drove Taiwan's entire electronics industry development. Many Taiwan enterprises benefited from Hon Hai's supply chain system, forming complete industrial clusters. Although manufacturing centers later shifted to mainland China, technology R&D and key components remained in Taiwan, maintaining Taiwan's important position in the global electronics industry.
 
@@ -71,7 +71,7 @@ Today, as Hon Hai pivots toward electric vehicles, artificial intelligence, and 
 
 ## Further Reading
 
-- [[Stan Shih]]: Acer founder and advocate of the "smile curve" theory
-- [[Morris Chang]]: TSMC founder and semiconductor industry pioneer
-- [[Jensen Huang]]: NVIDIA founder and AI chip leader
-- [[Mark Liu]]: TSMC chairman and semiconductor technology leader
+- [[施振榮]]: Acer founder and advocate of the "smile curve" theory
+- [[tsmc-morris-chang]]: TSMC founder and semiconductor industry pioneer
+- [[jensen-huang]]: NVIDIA founder and AI chip leader
+- [[mark-liu]]: TSMC chairman and semiconductor technology leader

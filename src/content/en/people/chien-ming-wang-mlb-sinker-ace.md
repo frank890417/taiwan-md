@@ -3,8 +3,8 @@ title: "Chien-Ming Wang: Taiwan's Sinker Ball Ace Who Conquered MLB"
 description: 'The Taiwanese pitcher whose devastating sinker ball dominated Major League Baseball, creating a nationwide phenomenon and inspiring a generation'
 date: 2026-03-20
 tags:
-subcategory: 'Sports'
   ['Chien-Ming Wang', 'baseball', 'MLB', 'New York Yankees', 'Taiwan sports']
+subcategory: 'Sports'
 lastVerified: 2026-03-20
 ---
 

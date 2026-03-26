@@ -2,7 +2,15 @@
 title: 'Shen Sheng-Po'
 description: 'Trained in computer science, Shen Sheng-Po brought code into Taiwan’s contemporary art scene. In just 34 years, he left behind not only digital artworks, but also a way of treating programming as lived experience and free software as an artistic ethic.'
 date: 2026-03-24
-tags: ['People', 'Digital Art', 'New Media Art', 'FLOSS+ART', 'OpenLab.Taipei', 'Taiwan']
+tags:
+  [
+    'People',
+    'Digital Art',
+    'New Media Art',
+    'FLOSS+ART',
+    'OpenLab.Taipei',
+    'Taiwan',
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
@@ -39,11 +47,11 @@ That is why Shen’s work does not feel dated even more than a decade later. He 
 
 ## Not Decoration, but the Visibility of Rules
 
-Public records show Shen exhibiting continuously between 2008 and 2013. His works included *Once There Was a Tree*, *Where Are You?*, *texture*, *meta-*, and *pin shadow*. He also appeared in major contexts such as the Taipei Digital Art Festival and the National Taiwan Museum of Fine Arts’ Digital Ark exhibitions.
+Public records show Shen exhibiting continuously between 2008 and 2013. His works included _Once There Was a Tree_, _Where Are You?_, _texture_, _meta-_, and _pin shadow_. He also appeared in major contexts such as the Taipei Digital Art Festival and the National Taiwan Museum of Fine Arts’ Digital Ark exhibitions.
 
 Even the titles suggest a pattern. These works do not usually present fully narrated stories. They feel more like attempts to capture a state, a rule in operation, or a tension between perception and system. That already separates Shen from more narrative or symbol-driven traditions of art-making. He often seems less interested in representation than in translating the feel of algorithmic structures into perceptual experience.
 
-That becomes especially clear in works such as *pin shadow* and *texture*. Art critic Chiu Chih-Yung has argued that Shen’s work simultaneously explores the structural logic of the digital realm while retaining a palpable emotional “temperature” inside that logic. In that reading, *pin shadow* and *texture* are not simply elegant image-based installations. They construct altered experiences of time and space — experiences that feel internally coherent, yet never fully stable or fully real.
+That becomes especially clear in works such as _pin shadow_ and _texture_. Art critic Chiu Chih-Yung has argued that Shen’s work simultaneously explores the structural logic of the digital realm while retaining a palpable emotional “temperature” inside that logic. In that reading, _pin shadow_ and _texture_ are not simply elegant image-based installations. They construct altered experiences of time and space — experiences that feel internally coherent, yet never fully stable or fully real.
 
 In other words, Shen did not treat technology as futuristic spectacle. He treated it as an environment that changes how humans sense and inhabit the world.
 
@@ -77,13 +85,13 @@ If OpenLab.Taipei represented networked community, Youwei Space represented grou
 
 Shen was diagnosed with colorectal cancer in 2009 and died in 2014 at the age of 34.
 
-Retrospective coverage suggests that illness did not stop his work. If anything, it pushed it further inward. His attention gradually shifted away from more overtly personal memory and feeling toward questions of life’s rhythms, change, temporality, and control. Works such as *pin shadow* used code and mathematical logic to give objects virtual shadows and organic transformation, almost as if rule-based systems could offer a way to think through bodily vulnerability and diminishing control.
+Retrospective coverage suggests that illness did not stop his work. If anything, it pushed it further inward. His attention gradually shifted away from more overtly personal memory and feeling toward questions of life’s rhythms, change, temporality, and control. Works such as _pin shadow_ used code and mathematical logic to give objects virtual shadows and organic transformation, almost as if rule-based systems could offer a way to think through bodily vulnerability and diminishing control.
 
 That gives Shen’s work an unusual emotional tension. He was not using technology to escape life. At one of life’s most fragile points, he used technology and formal logic to move closer to fundamental human questions: how people face change, instability, loss of control, and time itself.
 
 If one looks only at the chronology, his career appears tragically brief. But if one looks at the traces he left behind, his weight does not depend simply on the number of works produced. It depends on the kind of figure he modeled — still rare in Taiwan then, but increasingly important now.
 
-The National Culture and Arts Foundation’s archive, in describing *Round 3 — Shen Sheng-Po Memorial Exhibition*, directly referred to him as **“an artist who promoted open-source software creation in Taiwan.”** That phrasing is significant. It places Shen not merely as an individual artist, but as someone who advanced methods and culture within Taiwanese digital art more broadly. His legacy is not only that his works were remembered, but that restoration, re-exhibition, workshops, documentation, and teaching around his work came to be seen as worth continuing.
+The National Culture and Arts Foundation’s archive, in describing _Round 3 — Shen Sheng-Po Memorial Exhibition_, directly referred to him as **“an artist who promoted open-source software creation in Taiwan.”** That phrasing is significant. It places Shen not merely as an individual artist, but as someone who advanced methods and culture within Taiwanese digital art more broadly. His legacy is not only that his works were remembered, but that restoration, re-exhibition, workshops, documentation, and teaching around his work came to be seen as worth continuing.
 
 Seen together, these clues make the picture clearer: Shen Sheng-Po matters not simply because he died young, but because within a very short life he pushed an emerging creative culture far enough that others could continue it.
 
@@ -118,11 +126,11 @@ That attitude still does not feel outdated.
 - [shengpo on GitHub](https://github.com/shengpo)
 - [Memorial Exhibition: Opening New Life with Code (Art Emperor)](https://artemperor.tw/focus/1221)
 - [Round 3 — Shen Sheng-Po Memorial Exhibition (NCAF archive)](https://archive.ncafroc.org.tw/result?id=b9c7810cda4f41b9994aa2d81925be02)
-- [Purity within Technological Warmth: Shen Sheng-Po’s *pin shadow* and *texture*](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
+- [Purity within Technological Warmth: Shen Sheng-Po’s _pin shadow_ and _texture_](https://atatw.org/hta-archive/%E7%A7%91%E6%8A%80%E6%BA%AB%E5%BA%A6%E4%B8%AD%E7%9A%84%E9%AB%98%E5%B0%9A%E7%B4%94%E6%BD%94%EF%BC%9A%E6%B2%88%E8%81%96%E5%8D%9A%E7%9A%84%E3%80%8Apin-shadow%E3%80%8B%E8%88%87%E3%80%8Atexture%E3%80%8B/)
 
 ## Related Topics
 
 - [[Wu Che-Yu]]: another Taiwanese path from code into art
-- [[Audrey Tang]]: how technical thinking enters the public sphere
+- [[audrey-tang]]: how technical thinking enters the public sphere
 - [[Taiwan’s Digital Art Development]]: the broader context of installation, algorithms, and new media in Taiwan
-- [[Open Source Community and g0v]]: how open culture reshaped Taiwan’s technical and creative ecosystems
+- [[open-source-and-g0v]]: how open culture reshaped Taiwan’s technical and creative ecosystems

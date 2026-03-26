@@ -1,4 +1,5 @@
 ---
+import Banner from './Banner.astro';
 import {
   useTranslations,
   getLangFromUrl,
@@ -99,311 +100,331 @@ const categoryList = [
 ];
 ---
 
-<header
-  id="main-header"
-  role="banner"
-  data-hero={isHome ? '' : undefined}
-  class:list={[{ scrolled: !isHome }]}
->
-  <div class="header-inner">
-    <a href={translatePath('/')} class="logo" aria-label={t('nav.aria-home')}>
-      <img
-        src="/favicon.png"
-        alt={t('nav.aria-img-label')}
-        class="logo-icon"
-        width="24"
-        height="24"
-      />
-      <span class="logo-text">Taiwan<span class="logo-dot">.md</span></span>
-    </a>
-
-    <nav class="nav-desktop" aria-label={t('nav.aria-main-navigation')}>
-      {
-        navConfig.map((item, index) => {
-          const showSep = index === 3 || index === 6;
-
-          if (item.path === '/about') {
-            return (
-              <Fragment>
-                {showSep && <span class="nav-sep" />}
-                <div class="nav-dropdown">
-                  <a
-                    href={item.fullPath}
-                    class:list={['nav-link', { active: item.active }]}
-                  >
-                    {item.label} <span class="dropdown-arrow">▾</span>
-                  </a>
-                  <div class="dropdown-menu">
-                    <a
-                      href={`${translatePath('/about')}#story`}
-                      class="dropdown-item"
-                    >
-                      📖 {lang === 'en' ? 'Our Story' : '我們的故事'}
-                    </a>
-                    <a
-                      href={`${translatePath('/about')}#organism`}
-                      class="dropdown-item"
-                    >
-                      🧬 {lang === 'en' ? 'Digital Organism' : '數位生命體'}
-                    </a>
-                    <a
-                      href={`${translatePath('/about')}#team`}
-                      class="dropdown-item"
-                    >
-                      👥 {lang === 'en' ? 'Team' : '團隊'}
-                    </a>
-                    <a href={translatePath('/changelog')} class="dropdown-item">
-                      📝 {lang === 'en' ? 'Changelog' : '更新日誌'}
-                    </a>
-                  </div>
-                </div>
-              </Fragment>
-            );
-          }
-          if (item.path === '/#categories') {
-            return (
-              <Fragment>
-                {showSep && <span class="nav-sep" />}
-                <div class="nav-dropdown">
-                  <a
-                    href={item.fullPath}
-                    class:list={['nav-link', { active: item.active }]}
-                  >
-                    {item.label} <span class="dropdown-arrow">▾</span>
-                  </a>
-                  <div class="dropdown-menu">
-                    <a
-                      href={translatePath('/graph')}
-                      class="dropdown-item dropdown-section-header"
-                    >
-                      🕸️ {t('nav.graph-view')}
-                    </a>
-                    <div class="dropdown-divider" />
-                    {categoryList.map((category) => (
-                      <a href={category.path} class="dropdown-item">
-                        {category.emoji} {category.label}
-                      </a>
-                    ))}
-                  </div>
-                </div>
-              </Fragment>
-            );
-          }
-          if (item.path === '/data') {
-            return (
-              <Fragment>
-                {showSep && <span class="nav-sep" />}
-                <div class="nav-dropdown">
-                  <a
-                    href={item.fullPath}
-                    class:list={['nav-link', { active: item.active }]}
-                  >
-                    {item.label} <span class="dropdown-arrow">▾</span>
-                  </a>
-                  <div class="dropdown-menu">
-                    <a
-                      href={`${translatePath('/data')}#global`}
-                      class="dropdown-item"
-                    >
-                      🌏 {lang === 'en' ? 'Taiwan vs World' : '台灣 vs 世界'}
-                    </a>
-                    <a
-                      href={`${translatePath('/data')}#shape`}
-                      class="dropdown-item"
-                    >
-                      🗺️ {lang === 'en' ? "Taiwan's Shape" : '台灣的形狀'}
-                    </a>
-                    <a
-                      href={`${translatePath('/data')}#democracy`}
-                      class="dropdown-item"
-                    >
-                      📡 {lang === 'en' ? 'Digital Democracy' : '數位民主'}
-                    </a>
-                    <a
-                      href={`${translatePath('/data')}#opendata`}
-                      class="dropdown-item"
-                    >
-                      📊 {lang === 'en' ? 'Open Data' : '開放資料'}
-                    </a>
-                    <a
-                      href={`${translatePath('/data')}#enterprise`}
-                      class="dropdown-item"
-                    >
-                      🏢 {lang === 'en' ? 'Enterprise Map' : '企業版圖'}
-                    </a>
-                  </div>
-                </div>
-              </Fragment>
-            );
-          }
-          if (item.path === '/contribute') {
-            return (
-              <Fragment>
-                {showSep && <span class="nav-sep" />}
-                <div class="nav-dropdown">
-                  <a
-                    href={item.fullPath}
-                    class:list={['nav-link', { active: item.active }]}
-                  >
-                    {item.label} <span class="dropdown-arrow">▾</span>
-                  </a>
-                  <div class="dropdown-menu">
-                    <a
-                      href={`${translatePath('/contribute')}#form`}
-                      class="dropdown-item"
-                    >
-                      📝 {lang === 'en' ? 'Submit Article' : '投稿文章'}
-                    </a>
-                    <a
-                      href={`${translatePath('/contribute')}#token-donation`}
-                      class="dropdown-item"
-                    >
-                      🪙{' '}
-                      {lang === 'en' ? 'Donate AI Tokens' : '捐出你的 AI 額度'}
-                    </a>
-                    <a
-                      href={`${translatePath('/contribute')}#organism`}
-                      class="dropdown-item"
-                    >
-                      🧬 {lang === 'en' ? 'Why Contribute' : '為什麼參與'}
-                    </a>
-                    <a
-                      href="https://github.com/frank890417/taiwan-md"
-                      target="_blank"
-                      class="dropdown-item"
-                    >
-                      🐙 GitHub
-                    </a>
-                  </div>
-                </div>
-              </Fragment>
-            );
-          }
-          return (
-            <Fragment>
-              {showSep && <span class="nav-sep" />}
-              <a
-                href={item.fullPath}
-                class:list={['nav-link', { active: item.active }]}
-              >
-                {item.label}
-              </a>
-            </Fragment>
-          );
-        })
-      }
-    </nav>
-
-    <!-- Search -->
-    <button
-      class="search-toggle"
-      aria-label={t('nav.aria-search')}
-      onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)"
+<div id="header-container">
+  <div id="header-inner-container">
+    <Banner />
+    <header
+      id="main-header"
+      role="banner"
+      data-hero={isHome ? '' : undefined}
+      class:list={[{ scrolled: !isHome }]}
     >
-      <svg
-        width="15"
-        height="15"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="2.5"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        ><circle cx="11" cy="11" r="8"></circle><line
-          x1="21"
-          y1="21"
-          x2="16.65"
-          y2="16.65"></line></svg
-      >
-      <kbd>/</kbd>
-    </button>
-
-    <!-- GitHub -->
-    <a
-      href="https://github.com/frank890417/taiwan-md"
-      target="_blank"
-      class="gh-link"
-      aria-label="GitHub"
-    >
-      <svg viewBox="0 0 16 16" fill="currentColor"
-        ><path
-          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
-        ></path></svg
-      >
-    </a>
-
-    <!-- Mobile hamburger -->
-    <button
-      class="menu-toggle"
-      aria-label={t('nav.aria-toggle-menu')}
-      onclick="document.querySelector('.nav-mobile').classList.toggle('open')"
-      >☰</button
-    >
-
-    <!-- Lang toggle -->
-    <div
-      class="lang-toggle"
-      role="group"
-      aria-label={t('nav.aria-language-selection')}
-    >
-      <a
-        href={zhLink}
-        class:list={['lang-btn', { active: !currentPath.startsWith('/en') }]}
-        aria-label={t('nav.aria-switch-to-zh-tw')}>中文</a
-      >
-      <a
-        href={enLink}
-        class:list={['lang-btn', { active: currentPath.startsWith('/en') }]}
-        aria-label={t('nav.aria-switch-to-en')}>EN</a
-      >
-    </div>
-  </div>
-
-  <!-- Mobile Nav -->
-  <nav class="nav-mobile" aria-label={t('nav.aria-mobile-navigation')}>
-    {
-      navConfig.map((item) => (
+      <div class="header-inner">
         <a
-          href={item.fullPath}
-          class:list={['nav-link', { active: item.active }]}
-          onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+          href={translatePath('/')}
+          class="logo"
+          aria-label={t('nav.aria-home')}
         >
-          {item.label}
+          <img
+            src="/favicon.png"
+            alt={t('nav.aria-img-label')}
+            class="logo-icon"
+            width="24"
+            height="24"
+          />
+          <span class="logo-text">Taiwan<span class="logo-dot">.md</span></span>
         </a>
-      ))
-    }
-    <a
-      href="https://github.com/frank890417/taiwan-md"
-      target="_blank"
-      class="nav-link"
-      onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-      >GitHub</a
-    >
-    <div class="mobile-lang-toggle">
-      <span class="mobile-lang-label">{`🌐 ${t('nav.language-switch')}:`}</span>
-      <div class="mobile-lang-buttons">
-        <a
-          href={zhLink}
-          class:list={[
-            'mobile-lang-btn',
-            { active: !currentPath.startsWith('/en') },
-          ]}
-          onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-          >中文</a
+
+        <nav class="nav-desktop" aria-label={t('nav.aria-main-navigation')}>
+          {
+            navConfig.map((item, index) => {
+              const showSep = index === 3 || index === 6;
+
+              if (item.path === '/about') {
+                return (
+                  <Fragment>
+                    {showSep && <span class="nav-sep" />}
+                    <div class="nav-dropdown">
+                      <a
+                        href={item.fullPath}
+                        class:list={['nav-link', { active: item.active }]}
+                      >
+                        {item.label} <span class="dropdown-arrow">▾</span>
+                      </a>
+                      <div class="dropdown-menu">
+                        <a
+                          href={`${translatePath('/about')}#story`}
+                          class="dropdown-item"
+                        >
+                          📖 {lang === 'en' ? 'Our Story' : '我們的故事'}
+                        </a>
+                        <a
+                          href={`${translatePath('/about')}#organism`}
+                          class="dropdown-item"
+                        >
+                          🧬 {lang === 'en' ? 'Digital Organism' : '數位生命體'}
+                        </a>
+                        <a
+                          href={`${translatePath('/about')}#team`}
+                          class="dropdown-item"
+                        >
+                          👥 {lang === 'en' ? 'Team' : '團隊'}
+                        </a>
+                        <a
+                          href={translatePath('/changelog')}
+                          class="dropdown-item"
+                        >
+                          📝 {lang === 'en' ? 'Changelog' : '更新日誌'}
+                        </a>
+                      </div>
+                    </div>
+                  </Fragment>
+                );
+              }
+              if (item.path === '/#categories') {
+                return (
+                  <Fragment>
+                    {showSep && <span class="nav-sep" />}
+                    <div class="nav-dropdown">
+                      <a
+                        href={item.fullPath}
+                        class:list={['nav-link', { active: item.active }]}
+                      >
+                        {item.label} <span class="dropdown-arrow">▾</span>
+                      </a>
+                      <div class="dropdown-menu">
+                        <a
+                          href={translatePath('/graph')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          🕸️ {t('nav.graph-view')}
+                        </a>
+                        <div class="dropdown-divider" />
+                        {categoryList.map((category) => (
+                          <a href={category.path} class="dropdown-item">
+                            {category.emoji} {category.label}
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  </Fragment>
+                );
+              }
+              if (item.path === '/data') {
+                return (
+                  <Fragment>
+                    {showSep && <span class="nav-sep" />}
+                    <div class="nav-dropdown">
+                      <a
+                        href={item.fullPath}
+                        class:list={['nav-link', { active: item.active }]}
+                      >
+                        {item.label} <span class="dropdown-arrow">▾</span>
+                      </a>
+                      <div class="dropdown-menu">
+                        <a
+                          href={`${translatePath('/data')}#global`}
+                          class="dropdown-item"
+                        >
+                          🌏{' '}
+                          {lang === 'en' ? 'Taiwan vs World' : '台灣 vs 世界'}
+                        </a>
+                        <a
+                          href={`${translatePath('/data')}#shape`}
+                          class="dropdown-item"
+                        >
+                          🗺️ {lang === 'en' ? "Taiwan's Shape" : '台灣的形狀'}
+                        </a>
+                        <a
+                          href={`${translatePath('/data')}#democracy`}
+                          class="dropdown-item"
+                        >
+                          📡 {lang === 'en' ? 'Digital Democracy' : '數位民主'}
+                        </a>
+                        <a
+                          href={`${translatePath('/data')}#opendata`}
+                          class="dropdown-item"
+                        >
+                          📊 {lang === 'en' ? 'Open Data' : '開放資料'}
+                        </a>
+                        <a
+                          href={`${translatePath('/data')}#enterprise`}
+                          class="dropdown-item"
+                        >
+                          🏢 {lang === 'en' ? 'Enterprise Map' : '企業版圖'}
+                        </a>
+                      </div>
+                    </div>
+                  </Fragment>
+                );
+              }
+              if (item.path === '/contribute') {
+                return (
+                  <Fragment>
+                    {showSep && <span class="nav-sep" />}
+                    <div class="nav-dropdown">
+                      <a
+                        href={item.fullPath}
+                        class:list={['nav-link', { active: item.active }]}
+                      >
+                        {item.label} <span class="dropdown-arrow">▾</span>
+                      </a>
+                      <div class="dropdown-menu">
+                        <a
+                          href={`${translatePath('/contribute')}#form`}
+                          class="dropdown-item"
+                        >
+                          📝 {lang === 'en' ? 'Submit Article' : '投稿文章'}
+                        </a>
+                        <a
+                          href={`${translatePath('/contribute')}#token-donation`}
+                          class="dropdown-item"
+                        >
+                          🪙{' '}
+                          {lang === 'en'
+                            ? 'Donate AI Tokens'
+                            : '捐出你的 AI 額度'}
+                        </a>
+                        <a
+                          href={`${translatePath('/contribute')}#organism`}
+                          class="dropdown-item"
+                        >
+                          🧬 {lang === 'en' ? 'Why Contribute' : '為什麼參與'}
+                        </a>
+                        <a
+                          href="https://github.com/frank890417/taiwan-md"
+                          target="_blank"
+                          class="dropdown-item"
+                        >
+                          🐙 GitHub
+                        </a>
+                      </div>
+                    </div>
+                  </Fragment>
+                );
+              }
+              return (
+                <Fragment>
+                  {showSep && <span class="nav-sep" />}
+                  <a
+                    href={item.fullPath}
+                    class:list={['nav-link', { active: item.active }]}
+                  >
+                    {item.label}
+                  </a>
+                </Fragment>
+              );
+            })
+          }
+        </nav>
+
+        <!-- Search -->
+        <button
+          class="search-toggle"
+          aria-label={t('nav.aria-search')}
+          onclick="document.getElementById('search-modal').classList.add('open');setTimeout(()=>document.getElementById('search-input').focus(),100)"
         >
+          <svg
+            width="15"
+            height="15"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            ><circle cx="11" cy="11" r="8"></circle><line
+              x1="21"
+              y1="21"
+              x2="16.65"
+              y2="16.65"></line></svg
+          >
+          <kbd>/</kbd>
+        </button>
+
+        <!-- GitHub -->
         <a
-          href={enLink}
-          class:list={[
-            'mobile-lang-btn',
-            { active: currentPath.startsWith('/en') },
-          ]}
-          onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-          >English</a
+          href="https://github.com/frank890417/taiwan-md"
+          target="_blank"
+          class="gh-link"
+          aria-label="GitHub"
         >
+          <svg viewBox="0 0 16 16" fill="currentColor"
+            ><path
+              d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+            ></path></svg
+          >
+        </a>
+
+        <!-- Mobile hamburger -->
+        <button
+          class="menu-toggle"
+          aria-label={t('nav.aria-toggle-menu')}
+          onclick="document.querySelector('.nav-mobile').classList.toggle('open')"
+          >☰</button
+        >
+
+        <!-- Lang toggle -->
+        <div
+          class="lang-toggle"
+          role="group"
+          aria-label={t('nav.aria-language-selection')}
+        >
+          <a
+            href={zhLink}
+            class:list={[
+              'lang-btn',
+              { active: !currentPath.startsWith('/en') },
+            ]}
+            aria-label={t('nav.aria-switch-to-zh-tw')}>中文</a
+          >
+          <a
+            href={enLink}
+            class:list={['lang-btn', { active: currentPath.startsWith('/en') }]}
+            aria-label={t('nav.aria-switch-to-en')}>EN</a
+          >
+        </div>
       </div>
-    </div>
-  </nav>
-</header>
+
+      <!-- Mobile Nav -->
+      <nav class="nav-mobile" aria-label={t('nav.aria-mobile-navigation')}>
+        {
+          navConfig.map((item) => (
+            <a
+              href={item.fullPath}
+              class:list={['nav-link', { active: item.active }]}
+              onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+            >
+              {item.label}
+            </a>
+          ))
+        }
+        <a
+          href="https://github.com/frank890417/taiwan-md"
+          target="_blank"
+          class="nav-link"
+          onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+          >GitHub</a
+        >
+        <div class="mobile-lang-toggle">
+          <span class="mobile-lang-label"
+            >{`🌐 ${t('nav.language-switch')}:`}</span
+          >
+          <div class="mobile-lang-buttons">
+            <a
+              href={zhLink}
+              class:list={[
+                'mobile-lang-btn',
+                { active: !currentPath.startsWith('/en') },
+              ]}
+              onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+              >中文</a
+            >
+            <a
+              href={enLink}
+              class:list={[
+                'mobile-lang-btn',
+                { active: currentPath.startsWith('/en') },
+              ]}
+              onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+              >English</a
+            >
+          </div>
+        </div>
+      </nav>
+    </header>
+  </div>
+</div>
 
 <!-- Search Modal -->
 <div id="search-modal" class="search-modal">
@@ -460,7 +481,7 @@ const categoryList = [
       });
     });
 
-    // If banner is visible on homepage, offset the fixed header below it
+    // Keep the header below the language banner on homepage only.
     const isHero = header.hasAttribute('data-hero');
     if (isHero) {
       const banner = document.getElementById('lang-banner');
@@ -477,6 +498,21 @@ const categoryList = [
 </script>
 
 <style>
+  #header-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    width: 100%;
+  }
+
+  #header-inner-container {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
   /* =============================================
      JADE PALETTE + GLASS TOKEN SYSTEM
      Transparent state (top) → Scrolled state (white glass)
@@ -555,12 +591,9 @@ const categoryList = [
   }
 
   /* =============================================
-     HEADER — FIXED OVERLAY
+     HEADER — GLOBAL FIXED BAR
   ============================================= */
   header {
-    position: sticky;
-    top: 0;
-    z-index: 100;
     background: var(--header-bg);
     backdrop-filter: blur(var(--header-blur));
     -webkit-backdrop-filter: blur(var(--header-blur));
@@ -570,12 +603,6 @@ const categoryList = [
       backdrop-filter 0.45s cubic-bezier(0.4, 0, 0.2, 1),
       border-color 0.45s cubic-bezier(0.4, 0, 0.2, 1),
       box-shadow 0.45s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-  /* Homepage: fixed overlay so hero flows behind */
-  header[data-hero] {
-    position: fixed;
-    left: 0;
-    right: 0;
   }
   .header-inner {
     max-width: var(--container-wide);

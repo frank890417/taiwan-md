@@ -1,6 +1,5 @@
 ---
 import SEO from '../components/SEO.astro';
-import Banner from '../components/Banner.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
@@ -36,10 +35,13 @@ const {
 // Search index now loaded via /api/search-index.json (fetch API)
 const isEn = lang === 'en';
 const categorySlug = category?.toLowerCase() || '';
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+const isHome = currentPath === '/' || currentPath === '/en';
 // justfont: only put the body font class on <body> to avoid rate-limit.
 // Other font classes go on specific elements (h1-h6, blockquote, nav, etc.)
 const jfClass = [
   'jf-jinxuanlatte-regular',
+  isHome ? 'page-home' : 'page-default',
   categorySlug ? `jf-${categorySlug}` : '',
 ]
   .filter(Boolean)
@@ -297,7 +299,6 @@ const jfClass = [
     </script>
   </head>
   <body class={jfClass}>
-    <Banner />
     <Header />
 
     <script is:inline>
@@ -487,7 +488,10 @@ const jfClass = [
       function _doSearch(q, lang) {
         if (_searchMode === 'minisearch' && _searchEngine) {
           var bigrams = _queryBigrams(q);
-          var raw = _searchEngine.search(bigrams.join(' '), { limit: 200 });
+          var raw = _searchEngine.search(bigrams.join(' '), {
+            prefix: true,
+            limit: 200,
+          });
           var topScore = raw.length > 0 ? raw[0].score : 0;
           var cutoff = topScore * 0.02;
           var matches = raw
@@ -562,12 +566,7 @@ const jfClass = [
               '<div class="search-hint">' + hintEmpty + '</div>';
             return;
           }
-          // Require at least 2 chars to search (avoids noisy single-char queries)
-          if (q.length < 2) {
-            results.innerHTML =
-              '<div class="search-hint">' + hintEmpty + '</div>';
-            return;
-          }
+          // Single-char queries are handled by prefix match
           if (_searchMode === 'loading') {
             results.innerHTML =
               '<div class="search-hint">' +
@@ -888,6 +887,12 @@ const jfClass = [
     max-width: 100vw;
     overflow-x: hidden;
   }
+  body.page-default main {
+    padding-top: 56px;
+  }
+  body.page-default main.article-page {
+    padding-top: 0;
+  }
   main img {
     max-width: 100%;
     max-height: 400px;
@@ -957,6 +962,12 @@ const jfClass = [
   @media (max-width: 768px) {
     html {
       font-size: 100%;
+    }
+    body.page-default main {
+      padding-top: 52px;
+    }
+    body.page-default main.article-page {
+      padding-top: 0;
     }
     .floating-md {
       bottom: 1rem;

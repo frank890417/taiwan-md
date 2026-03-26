@@ -1,8 +1,18 @@
 ---
 title: 'Chi Po-lin'
-description: 'How a government clerk who couldn\'t afford helicopters on his salary mortgaged his house to create Taiwan\'s most successful documentary'
+description: "How a government clerk who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary"
 date: 2026-03-23
-tags: ['People', 'Chi Po-lin', 'Documentary', 'Beyond Beauty Taiwan', 'Director', 'Photographer', 'Aerial Photography', 'Environment']
+tags:
+  [
+    'People',
+    'Chi Po-lin',
+    'Documentary',
+    'Beyond Beauty Taiwan',
+    'Director',
+    'Photographer',
+    'Aerial Photography',
+    'Environment',
+  ]
 subcategory: 'Arts and Creativity'
 category: 'People'
 author: 'Taiwan.md'
@@ -85,8 +95,8 @@ On June 8, 2017, Chi Po-lin held the opening ceremony for "Beyond Beauty - Taiwa
 
 Two days later, at dawn, Chi Po-lin boarded a helicopter from Hualien Airport for his third aerial reconnaissance trip. The aircraft carried his latest 6K camera equipment, specially purchased for the new film.
 
-| 10:45 | 11:54 |
-|---|---|
+| 10:45                               | 11:54                    |
+| ----------------------------------- | ------------------------ |
 | Took off from Chishang Falin Temple | Lost contact with ground |
 
 At 10:45 AM, the helicopter took off from Chishang, heading to Yuli, Ruisui, and Fengbin areas for aerial operations. At 11:54 AM, the aircraft lost contact with ground control. Investigation found that the cause included pilot Zhang Zhiguang's use of antihistamine medication affecting his reactions, overwork from three flights the previous day, and possible mechanical failure.
@@ -118,7 +128,7 @@ Whenever we look up at the sky, we can imagine that figure flying among the clou
 
 ## References
 
-- [Chi Po-lin (Taiwan) - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3))
+- [Chi Po-lin (Taiwan) - Wikipedia](<https://zh.wikipedia.org/zh-tw/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)>)
 - [Beyond Beauty - Taiwan from Above - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3)
 - [Chi Po-lin's "Beyond Beauty" breaks NT$220 million at box office, wins Golden Horse Best Documentary - China Times](https://www.chinatimes.com/realtimenews/20170610002672-260404)
 - [Chi Po-lin helicopter crash investigation released - The News Lens](https://www.thenewslens.com/article/107206)

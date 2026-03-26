@@ -2,7 +2,6 @@
 title: 'Wu Ming-Yi'
 category: People
 tags:
-subcategory: 'Literature'
   [
     person,
     Wu Ming-Yi,
@@ -12,6 +11,7 @@ subcategory: 'Literature'
     Man Booker Prize,
     novelist,
   ]
+subcategory: 'Literature'
 date: 2026-03-17
 ---
 

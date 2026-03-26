@@ -3,7 +3,6 @@ title: 'Deng Yu-xian'
 description: "Father of Taiwanese songs, composer of classics like 'Longing for Spring Breeze,' 'Rainy Night Flower,' and 'Moonlit Night Sorrow'"
 date: 2026-03-20
 tags:
-subcategory: 'Music'
   [
     'music',
     'taiwanese-songs',
@@ -12,6 +11,7 @@ subcategory: 'Music'
     'classical-music',
     'taoyuan',
   ]
+subcategory: 'Music'
 lastVerified: 2026-03-20
 ---
 
@@ -51,7 +51,7 @@ In 1944, Deng Yu-xian died of tuberculosis in Taipei at the young age of 38. Tho
 
 ## Lasting Influence and Cultural Legacy
 
-Deng Yu-xian's musical works were not only popular in their time but have become timeless classics transcending generations. Later singers such as [[Teresa Teng]], [[Jiang Hui]], and [[Ye Qi-tian]] have all performed his works, with each new interpretation breathing fresh life into these classic songs.
+Deng Yu-xian's musical works were not only popular in their time but have become timeless classics transcending generations. Later singers such as [[teresa-teng]], [[Jiang Hui]], and [[Ye Qi-tian]] have all performed his works, with each new interpretation breathing fresh life into these classic songs.
 
 In 2006, marking the centenary of Deng Yu-xian's birth, memorial activities were held throughout Taiwan. Taoyuan County Government established the Deng Yu-xian Music and Culture Park to honor this pioneer of Taiwanese music. His story and music continue to inspire subsequent creators, proving that excellent artistic works possess eternal value.
 

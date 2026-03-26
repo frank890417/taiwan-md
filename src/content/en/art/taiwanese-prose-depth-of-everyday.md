@@ -1,5 +1,5 @@
 ---
-title: Taiwanese Prose: The Depth of the Everyday
+title: 'Taiwanese Prose: The Depth of the Everyday'
 category: Art
 tags: [Literature, Prose, Life Writing]
 date: 2026-03-20

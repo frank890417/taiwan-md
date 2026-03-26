@@ -3,7 +3,6 @@ title: 'Lung Ying-tai'
 description: "Author of 'Wild Fire,' one of the most influential essayists in the Chinese-speaking world and former Taiwan Minister of Culture"
 date: 2026-03-20
 tags:
-subcategory: 'Literature'
   [
     people,
     Lung Ying-tai,
@@ -13,6 +12,7 @@ subcategory: 'Literature'
     Minister of Culture,
     public intellectual,
   ]
+subcategory: 'Literature'
 lastVerified: 2026-03-20
 ---
 
@@ -58,7 +58,7 @@ Lung Ying-tai's influence extends beyond the Chinese-speaking world. Her works h
 
 As a public intellectual, Lung has long been concerned with cross-strait relations and Chinese society development. She advocates replacing emotional confrontation with rational dialogue and promoting mutual understanding through cultural exchange. This moderate, rational stance, while sometimes criticized by people of different political positions, has also won many people's respect.
 
-She has engaged in deep cultural dialogues with other renowned cultural figures like [[Pai Hsien-yung]] and Yu Qiuyu, jointly promoting Chinese culture development. Her articles are frequently published in major media across the Taiwan Strait and Hong Kong, influencing new generation intellectuals' thinking directions.
+She has engaged in deep cultural dialogues with other renowned cultural figures like [[pai-hsien-yung-literary-master]] and Yu Qiuyu, jointly promoting Chinese culture development. Her articles are frequently published in major media across the Taiwan Strait and Hong Kong, influencing new generation intellectuals' thinking directions.
 
 ## Literary Philosophy and Cultural Vision
 
@@ -84,7 +84,7 @@ Lung Ying-tai's career demonstrates the power of literature to influence society
 
 ## Further Reading
 
-- [[Pai Hsien-yung]]: Renowned Taiwan writer and cultural figure
-- [[Wu Ming-yi]]: Contemporary Taiwan writer concerned with environmental and social issues
-- [[Li Ang]]: Taiwan feminist writer and social commentator
+- [[pai-hsien-yung-literary-master]]: Renowned Taiwan writer and cultural figure
+- [[wu-ming-yi]]: Contemporary Taiwan writer concerned with environmental and social issues
+- [[li-ang]]: Taiwan feminist writer and social commentator
 - [[Chen Ying-zhen]]: Influential Taiwan writer and social critic

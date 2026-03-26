@@ -208,7 +208,7 @@ TSMC's technological advantage creates a "Silicon Shield":
 
 ## Related Topics
 
-- [[Open Source Community and g0v]]: Taiwan's tech innovation culture
+- [[open-source-and-g0v]]: Taiwan's tech innovation culture
 - [[Digital Democracy]]: How technology changes democratic participation
 - [[Economy Hub|Economy]]: Semiconductor industry's contribution to Taiwan's economy
 - [[Society Hub|Society]]: Technology development's impact on society

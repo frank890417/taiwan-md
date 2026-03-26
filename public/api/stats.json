@@ -1,8 +1,8 @@
 {
-  "totalArticles": 934,
+  "totalArticles": 940,
   "totalCategories": 17,
   "estimatedContributors": 63,
-  "totalTags": 2549,
+  "totalTags": 2500,
   "categories": [
     {
       "name": "en",
@@ -10,11 +10,11 @@
     },
     {
       "name": "History",
-      "count": 22
+      "count": 23
     },
     {
       "name": "Culture",
-      "count": 33
+      "count": 34
     },
     {
       "name": "Society",
@@ -25,12 +25,12 @@
       "count": 47
     },
     {
-      "name": "Lifestyle",
-      "count": 17
+      "name": "People",
+      "count": 115
     },
     {
-      "name": "People",
-      "count": 112
+      "name": "Lifestyle",
+      "count": 17
     },
     {
       "name": "ja",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Nature",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Geography",
@@ -80,7 +80,7 @@
     },
     {
       "name": "人物",
-      "count": 48
+      "count": 49
     },
     {
       "name": "企業",
@@ -88,7 +88,7 @@
     },
     {
       "name": "people",
-      "count": 22
+      "count": 20
     },
     {
       "name": "台灣",
@@ -103,24 +103,16 @@
       "count": 14
     },
     {
-      "name": "culture",
-      "count": 14
-    },
-    {
-      "name": "Taiwan",
-      "count": 14
-    },
-    {
       "name": "原住民",
       "count": 13
     },
     {
-      "name": "Technology",
-      "count": 12
+      "name": "culture",
+      "count": 13
     },
     {
-      "name": "歷史",
-      "count": 11
+      "name": "Taiwan",
+      "count": 12
     },
     {
       "name": "金曲獎",
@@ -147,6 +139,14 @@
       "count": 11
     },
     {
+      "name": "Technology",
+      "count": 11
+    },
+    {
+      "name": "歷史",
+      "count": 10
+    },
+    {
       "name": "文學",
       "count": 10
     },
@@ -156,8 +156,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 934,
+    "zh-TW": 940,
     "en": 0
   },
-  "lastUpdated": "2026-03-24T23:17:07.321Z"
+  "lastUpdated": "2026-03-26T03:53:25.227Z"
 }

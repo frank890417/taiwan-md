@@ -3,14 +3,15 @@
  * TextToSpeech — Browser SpeechSynthesis TTS button for articles
  * Language-aware: picks appropriate voice for zh-TW, en, es
  */
-import { t, getLocaleFromPath } from '../i18n/ui';
+import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
 
 interface Props {
   lang?: Locale;
 }
 
-const { lang = getLocaleFromPath(Astro.url.pathname) } = Astro.props;
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 const speechLangMap: Record<string, string> = {
   'zh-TW': 'zh-TW',
@@ -24,8 +25,8 @@ const speechLang = speechLangMap[lang] || 'en-US';
   <button
     class="btn-ghost"
     id="tts-play"
-    aria-label={t('article.tts.play', lang)}
-    title={t('article.tts.play', lang)}
+    aria-label={t('article.tts.play')}
+    title={t('article.tts.play')}
   >
     <svg
       class="tts-icon"
@@ -54,13 +55,13 @@ const speechLang = speechLangMap[lang] || 'en-US';
         stroke-linejoin="round"
         d="M10 9v6m4-6v6m7-3a9 9 0 11-18 0 9 9 0 0118 0z"></path>
     </svg>
-    <span id="tts-label">{t('article.tts.play', lang)}</span>
+    <span id="tts-label">{t('article.tts.play')}</span>
   </button>
   <button
     class="btn-ghost tts-hidden"
     id="tts-stop"
-    aria-label={t('article.tts.stop', lang)}
-    title={t('article.tts.stop', lang)}
+    aria-label={t('article.tts.stop')}
+    title={t('article.tts.stop')}
   >
     <svg
       class="tts-icon"

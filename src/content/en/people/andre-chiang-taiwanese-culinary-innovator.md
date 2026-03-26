@@ -3,8 +3,8 @@ title: 'André Chiang: Taiwanese Culinary Innovator'
 description: "Taiwan's international celebrity chef, top 50 world restaurants chef, RAW founder, globally renowned for his 'Octaphilosophy'"
 date: 2026-03-19
 tags:
-subcategory: 'Food & Craft'
   ['People', 'André Chiang', 'Chef', 'Michelin', 'RAW', 'Culinary', 'Taiwan']
+subcategory: 'Food & Craft'
 lastVerified: 2026-03-19
 ---
 
@@ -55,4 +55,4 @@ His story tells us that a person's profession can transcend borders, but their s
 - [[Aaron Nieh (聶永真)]]: Designed visuals for multiple high-end brands, sharing André's pursuit of extreme aesthetics
 - [[Jensen Huang (黃仁勳)]]: Another outstanding person with Taiwan background who reached the pinnacle of international stage and actively gives back to Taiwan
 - [[Ang Lee (李安)]]: Pioneer in interpreting Eastern emotions through Western language on the international stage
-- [[Che-Yu Wu (吳哲宇)]]: Dedicated to integrating technology and art, also concerned with Taiwan talent cultivation among the new generation of creators
+- [[che-yu-wu]]: Dedicated to integrating technology and art, also concerned with Taiwan talent cultivation among the new generation of creators

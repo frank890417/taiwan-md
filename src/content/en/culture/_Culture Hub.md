@@ -9,7 +9,7 @@ description: 'A Stanford anthropologist spent three years trying to identify the
 
 ## Opening: The Feature of No Features
 
-In 2023, Stanford anthropologist Jennifer Clark arrived in Taiwan with an ambitious research project: to spend three years identifying the "core features" of Taiwanese culture. She attended temple festivals in Taipei, documented puppetry performances in Chiayi, delved deep into tribal ceremonies in Hualien, and compiled twelve thick volumes of field notes. Three years later, she published a groundbreaking paper in the *American Journal of Anthropology* that shocked the academic world: "The Feature of No Features: Taiwan's Cultural Paradox."
+In 2023, Stanford anthropologist Jennifer Clark arrived in Taiwan with an ambitious research project: to spend three years identifying the "core features" of Taiwanese culture. She attended temple festivals in Taipei, documented puppetry performances in Chiayi, delved deep into tribal ceremonies in Hualien, and compiled twelve thick volumes of field notes. Three years later, she published a groundbreaking paper in the _American Journal of Anthropology_ that shocked the academic world: "The Feature of No Features: Taiwan's Cultural Paradox."
 
 Her conclusion overturned traditional assumptions in cultural studies: "Taiwan culture's greatest characteristic is having no fixed characteristics. It is a cultural 'frequency converter' capable of simultaneously receiving, transforming, and transmitting multiple cultural signals without ever malfunctioning due to frequency conflicts."
 
@@ -29,7 +29,7 @@ For six thousand years, Taiwan's most ancient voices have never been silenced.
 
 When the Bunun eight-part harmony resonates at the foot of Yushan, it's not just singing—it's the most primitive cosmology of the Austronesian peoples resonating. Each note connects to land, ancestral spirits, and seasonal cycles; each harmony tells of ancient wisdom about human-nature symbiosis. This "unity of heaven and humanity" worldview is particularly precious amid modern environmental crises—indigenous peoples have long known ways of life that the UN now calls "sustainable development exemplars."
 
-[[Taiwan Indigenous Culture]] is not museum display material but a modern force living in the present. From Hu Defu's "Formosa" to A-Mei's heavenly voice, from Cloud Gate Dance Theatre's "Legacy" to Indigenous Television programming, indigenous culture speaks to the world in innovative ways. More importantly, the cultural revitalization movements of sixteen tribes prove that tradition and modernity aren't opposing forces—you can work in cities while maintaining tribal cultural identity; you can use technology while inheriting ancestral wisdom.
+[[taiwan-indigenous-cultures]] is not museum display material but a modern force living in the present. From Hu Defu's "Formosa" to A-Mei's heavenly voice, from Cloud Gate Dance Theatre's "Legacy" to Indigenous Television programming, indigenous culture speaks to the world in innovative ways. More importantly, the cultural revitalization movements of sixteen tribes prove that tradition and modernity aren't opposing forces—you can work in cities while maintaining tribal cultural identity; you can use technology while inheriting ancestral wisdom.
 
 [[Taiwan's 16 Indigenous Tribes Cultural Map]] | [[Taiwan Indigenous Language Revitalization Movement]]
 
@@ -39,9 +39,9 @@ If you want to understand Taiwanese character, visiting a traditional market is 
 
 The vegetable vendor auntie shouting in vibrant Taiwanese "Fresh vegetables and fruits!" carries the blood of ancestors who risked crossing the treacherous strait three centuries ago. They brought not just Hoklo language and traditional crafts, but an oceanic character of "three parts destiny, seven parts hard work": directness, resilience, informality, yet full of tolerance and adaptability. This grassroots cultural vitality is everywhere in Taiwan's folk life.
 
-Night markets are the most vivid showcase of Hoklo culture. Here, culture isn't lofty artwork but the steaming aroma of oyster omelets, the chewy texture of bubble tea, and the bustling din of crowds. [[Taiwan Night Market Culture and Street Food]] shows us how Taiwanese people have turned daily life into a never-ending carnival. This ability to "festivalize" everyday life is Hoklo culture's deepest influence on Taiwan.
+Night markets are the most vivid showcase of Hoklo culture. Here, culture isn't lofty artwork but the steaming aroma of oyster omelets, the chewy texture of bubble tea, and the bustling din of crowds. [[taiwan-night-market-culture-and-street-food]] shows us how Taiwanese people have turned daily life into a never-ending carnival. This ability to "festivalize" everyday life is Hoklo culture's deepest influence on Taiwan.
 
-Temple festival culture embodies the concentrated essence of Hoklo spirit. [[Taiwan Religion and Temple Culture]] | [[Taiwan Temple Festivals and Folk Performance Culture]] | [[Legends of Mazu and Baosheng Dadi]]
+Temple festival culture embodies the concentrated essence of Hoklo spirit. [[taiwan-religion-and-temple-culture]] | [[Taiwan Temple Festivals and Folk Performance Culture]] | [[Legends of Mazu and Baosheng Dadi]]
 
 ## 🏔️ The Mountain's Persistence: Hakka Culture's Scholarly-Martial Balance
 
@@ -49,7 +49,7 @@ Hakka people often call themselves "hard-necked," but this stubbornness isn't ob
 
 In Meinong's Hakka villages, you can still see the "farming and reading family tradition" philosophy in practice: sweating in the fields by day, studying by lamplight at night. This scholarly-martial tradition has enabled Hakka people to excel in all fields in Taiwan—from early doctors and teachers to today's tech entrepreneurs and political leaders. More importantly, Hakka culture's emphasis on education became a crucial driving force for Taiwan society's upward mobility.
 
-[[Hakka Culture and Language]] holds a special position in Taiwan. Though Hakka population percentage isn't high, their influence runs deep. From Deng Yuxian's "Rain Night Flower" to Lo Tayu's nostalgic sentiments, from Lin Hwai-min's dance aesthetics to Hou Hsiao-hsien's cinematic poetry, Hakka literati have infused Taiwan culture with depth and substance. Hakka cuisine's "salty, fatty, fragrant" trinity has long been integrated into Taiwanese taste memory. [[Taiwan Floral Fabric]]'s bold red and green floral patterns have become classic symbols of Taiwan aesthetics.
+[[客家文化與語言]] holds a special position in Taiwan. Though Hakka population percentage isn't high, their influence runs deep. From Deng Yuxian's "Rain Night Flower" to Lo Tayu's nostalgic sentiments, from Lin Hwai-min's dance aesthetics to Hou Hsiao-hsien's cinematic poetry, Hakka literati have infused Taiwan culture with depth and substance. Hakka cuisine's "salty, fatty, fragrant" trinity has long been integrated into Taiwanese taste memory. [[taiwan-floral-fabric]]'s bold red and green floral patterns have become classic symbols of Taiwan aesthetics.
 
 [[Taiwan Tea Ceremony and Living Aesthetics]] | [[Golden Age Echoes: The Evolution and Craft of Taiwan Tea Culture]]
 
@@ -77,19 +77,19 @@ Taiwan holds a world record: 0.76 temples per square kilometer, the world's high
 
 In Taiwan's traditional temples, Taoist deities, Buddhist bodhisattvas, folk Earth Gods, and Confucian Confucius often harmoniously coexist in the same space. This "pantheon alliance" phenomenon embodies Taiwan culture's most precious trait: inclusiveness. No religious wars, no sectarian conflicts—people of different faiths can pray for blessings in the same temple and participate in each other's religious festivals.
 
-[[Taiwan Religion and Temple Culture]] demonstrates Taiwan religion's modern vitality. From Dajia Mazu Pilgrimage's 2 million participants to Tzu Chi's global charity network, from Fo Guang Shan's educational endeavors to Presbyterian Church's social concern, religion in Taiwan isn't an escapist refuge but an active force engaging society. [[Traditional Festivals and Celebrations]] are important carriers of Taiwan cultural transmission—each festival is a collective review of cultural memory.
+[[taiwan-religion-and-temple-culture]] demonstrates Taiwan religion's modern vitality. From Dajia Mazu Pilgrimage's 2 million participants to Tzu Chi's global charity network, from Fo Guang Shan's educational endeavors to Presbyterian Church's social concern, religion in Taiwan isn't an escapist refuge but an active force engaging society. [[traditional-festivals-and-celebrations]] are important carriers of Taiwan cultural transmission—each festival is a collective review of cultural memory.
 
-[[Taiwan New Religious Movements and Spiritual Culture]] | [[Taiwan Wedding, Funeral, and Life Ceremony Customs]] | [[Taiwan Incense Making Culture and Incense Stick Origins]]
+[[taiwan-new-religious-movements-and-spiritual-culture]] | [[Taiwan Wedding, Funeral, and Life Ceremony Customs]] | [[Taiwan Incense Making Culture and Incense Stick Origins]]
 
 ## 🎨 Living Aesthetics: Contemporary Culture's Innovation Wave
 
 Taiwan culture's most charming aspect lies in its seamless fusion of tradition and modernity, local and international, highbrow and popular.
 
-[[Taiwan Street Art and Graffiti Culture]] transforms urban walls into artistic canvases, [[Taiwan Comics and Animation Culture]] reinterprets modern stories with Eastern aesthetics, and [[Taiwan Cultural and Creative Park Development]] breathes new creative life into old spaces. More interestingly, Taiwanese people's unique "homophone culture" creates distinctive language games: [[Taiwan Homophone Taboo Culture]] and [[Taiwan Kuai Kuai Culture]]—these seemingly lighthearted cultural phenomena actually reflect Taiwanese talent for linguistic creativity.
+[[taiwan-street-art-and-graffiti-culture]] transforms urban walls into artistic canvases, [[taiwan-comics-and-animation-culture]] reinterprets modern stories with Eastern aesthetics, and [[Taiwan Cultural and Creative Park Development]] breathes new creative life into old spaces. More interestingly, Taiwanese people's unique "homophone culture" creates distinctive language games: [[Taiwan Homophone Taboo Culture]] and [[Taiwan Kuai Kuai Culture]]—these seemingly lighthearted cultural phenomena actually reflect Taiwanese talent for linguistic creativity.
 
 [[Taiwan Sensibility]] identifies a deep quality of Taiwan culture: a unique aesthetic mixing island experience, historical memory, and modern urban sensibility. This "Taiwan sensibility" appears not only in artistic works but in every detail of daily life: from convenience store thoughtful service to taxi driver warmth, from night market queueing culture to netizen humor and creativity.
 
-[[The Journalist Magazine]] | [[Taiwan Baseball Culture]] | [[Taiwan Old Street Culture and Commercial Districts]] | [[Language Diversity and Mother Tongue Culture]]
+[[The Journalist Magazine]] | [[taiwan-baseball-culture]] | [[Taiwan Old Street Culture and Commercial Districts]] | [[Language Diversity and Mother Tongue Culture]]
 
 ---
 
