@@ -2,16 +2,16 @@
   "languages": ["zh-TW", "en", "es", "ja"],
   "summary": {
     "zh-TW": {
-      "total": 415,
+      "total": 411,
       "percentage": 100
     },
     "en": {
-      "total": 485,
-      "percentage": 116.9
+      "total": 479,
+      "percentage": 116.5
     },
     "es": {
       "total": 34,
-      "percentage": 8.2
+      "percentage": 8.3
     },
     "ja": {
       "total": 10,
@@ -32,8 +32,8 @@
       "ja": 0
     },
     "culture": {
-      "zh-TW": 37,
-      "en": 42,
+      "zh-TW": 36,
+      "en": 41,
       "es": 0,
       "ja": 2
     },
@@ -44,8 +44,8 @@
       "ja": 1
     },
     "food": {
-      "zh-TW": 30,
-      "en": 39,
+      "zh-TW": 27,
+      "en": 34,
       "es": 5,
       "ja": 3
     },
@@ -100,6 +100,8 @@
   },
   "missing": {
     "en": [
+      "Food/台灣小吃.md",
+      "Music/流行音樂與金曲獎.md",
       "Culture/九天玄女：從黃帝的軍師到台灣陣頭少年的守護神.md",
       "Culture/巧固球：台灣隱形的43年世界冠軍.md",
       "Culture/擲筊：在 50% 的機率背後，聽見神明的聲音.md",
@@ -142,8 +144,6 @@
       "Economy/遠東集團：從上海紡織廠到台灣最多元化商業帝國.md",
       "Economy/台灣企業：長榮海運.md",
       "Economy/台灣動畫代工.md",
-      "Food/台灣地方小吃地圖：移民血脈中的味覺密碼.md",
-      "Food/台灣小吃.md",
       "Food/台灣水果王國.md",
       "Food/台灣麵食文化.md",
       "Geography/台灣海岸地形與海洋地景.md",
@@ -174,7 +174,6 @@
       "Culture/無名小站：從學生宿舍到台灣網路記憶的守護者.md",
       "Economy/經濟奇蹟.md",
       "Food/台灣咖啡產業.md",
-      "Food/台灣夜市小吃圖鑑.md",
       "Food/台灣米其林：星光下的代價與重新定義.md",
       "Food/台灣米食文化.md",
       "Food/台灣辦桌文化.md",
@@ -188,7 +187,6 @@
       "Lifestyle/台灣捷運發展史：一部用血與錢寫成的城市進化論.md",
       "Lifestyle/台灣教育制度：從聯考地獄到多元迷宮的島嶼實驗.md",
       "Music/台灣民謠與歌謠：從被盜用到被世界聽見.md",
-      "Music/流行音樂與金曲獎.md",
       "Nature/台灣森林生態系.md",
       "Nature/台灣海洋生態.md",
       "Nature/台灣溫泉與地熱.md",
@@ -421,7 +419,6 @@
       "Art/日治時期台灣文學.md",
       "Art/解嚴後台灣文學.md",
       "Culture/台灣原住民文化.md",
-      "Culture/台灣夜市文化與小吃風情.md",
       "Culture/台灣婚喪喜慶與人生禮俗.md",
       "Culture/台灣宗教與寺廟文化.md",
       "Culture/台灣感性：韓國人眼中的台式美學.md",
@@ -480,7 +477,6 @@
       "About/緣起故事 — Taiwan.md 的誕生.md",
       "Art/台灣當代藝術.md",
       "Culture/族群（閩南客家原住民外省新住民）.md",
-      "Food/台灣小吃.md",
       "Food/牛肉麵.md",
       "Geography/氣候.md",
       "History/史前時代與原住民.md",
@@ -509,6 +505,8 @@
       "Society/台灣社區與里文化.md"
     ],
     "es": [
+      "Food/台灣小吃.md",
+      "Music/流行音樂與金曲獎.md",
       "Culture/九天玄女：從黃帝的軍師到台灣陣頭少年的守護神.md",
       "Culture/巧固球：台灣隱形的43年世界冠軍.md",
       "Culture/擲筊：在 50% 的機率背後，聽見神明的聲音.md",
@@ -551,8 +549,6 @@
       "Economy/遠東集團：從上海紡織廠到台灣最多元化商業帝國.md",
       "Economy/台灣企業：長榮海運.md",
       "Economy/台灣動畫代工.md",
-      "Food/台灣地方小吃地圖：移民血脈中的味覺密碼.md",
-      "Food/台灣小吃.md",
       "Food/台灣水果王國.md",
       "Food/台灣麵食文化.md",
       "Geography/台灣海岸地形與海洋地景.md",
@@ -583,7 +579,6 @@
       "Culture/無名小站：從學生宿舍到台灣網路記憶的守護者.md",
       "Economy/經濟奇蹟.md",
       "Food/台灣咖啡產業.md",
-      "Food/台灣夜市小吃圖鑑.md",
       "Food/台灣米其林：星光下的代價與重新定義.md",
       "Food/台灣米食文化.md",
       "Food/台灣辦桌文化.md",
@@ -597,7 +592,6 @@
       "Lifestyle/台灣捷運發展史：一部用血與錢寫成的城市進化論.md",
       "Lifestyle/台灣教育制度：從聯考地獄到多元迷宮的島嶼實驗.md",
       "Music/台灣民謠與歌謠：從被盜用到被世界聽見.md",
-      "Music/流行音樂與金曲獎.md",
       "Nature/台灣森林生態系.md",
       "Nature/台灣海洋生態.md",
       "Nature/台灣溫泉與地熱.md",
@@ -832,7 +826,6 @@
       "Art/日治時期台灣文學.md",
       "Art/解嚴後台灣文學.md",
       "Culture/台灣原住民文化.md",
-      "Culture/台灣夜市文化與小吃風情.md",
       "Culture/台灣婚喪喜慶與人生禮俗.md",
       "Culture/台灣宗教與寺廟文化.md",
       "Culture/台灣感性：韓國人眼中的台式美學.md",
@@ -892,7 +885,6 @@
       "Art/新媒體藝術.md",
       "Art/台灣當代藝術.md",
       "Culture/族群（閩南客家原住民外省新住民）.md",
-      "Food/台灣小吃.md",
       "Geography/氣候.md",
       "History/史前時代與原住民.md",
       "History/戒嚴時期.md",
@@ -921,6 +913,8 @@
       "Society/台灣社區與里文化.md"
     ],
     "ja": [
+      "Food/台灣小吃.md",
+      "Music/流行音樂與金曲獎.md",
       "Culture/九天玄女：從黃帝的軍師到台灣陣頭少年的守護神.md",
       "Culture/巧固球：台灣隱形的43年世界冠軍.md",
       "Culture/擲筊：在 50% 的機率背後，聽見神明的聲音.md",
@@ -964,8 +958,6 @@
       "Economy/遠東集團：從上海紡織廠到台灣最多元化商業帝國.md",
       "Economy/台灣企業：長榮海運.md",
       "Economy/台灣動畫代工.md",
-      "Food/台灣地方小吃地圖：移民血脈中的味覺密碼.md",
-      "Food/台灣小吃.md",
       "Food/台灣水果王國.md",
       "Food/台灣麵食文化.md",
       "Geography/台灣海岸地形與海洋地景.md",
@@ -996,7 +988,6 @@
       "Culture/無名小站：從學生宿舍到台灣網路記憶的守護者.md",
       "Economy/經濟奇蹟.md",
       "Food/台灣咖啡產業.md",
-      "Food/台灣夜市小吃圖鑑.md",
       "Food/台灣米其林：星光下的代價與重新定義.md",
       "Food/台灣米食文化.md",
       "Food/台灣辦桌文化.md",
@@ -1010,7 +1001,6 @@
       "Lifestyle/台灣捷運發展史：一部用血與錢寫成的城市進化論.md",
       "Lifestyle/台灣教育制度：從聯考地獄到多元迷宮的島嶼實驗.md",
       "Music/台灣民謠與歌謠：從被盜用到被世界聽見.md",
-      "Music/流行音樂與金曲獎.md",
       "Nature/台灣森林生態系.md",
       "Nature/台灣海洋生態.md",
       "Nature/台灣溫泉與地熱.md",
@@ -1247,7 +1237,6 @@
       "Art/日治時期台灣文學.md",
       "Art/解嚴後台灣文學.md",
       "Culture/台灣原住民文化.md",
-      "Culture/台灣夜市文化與小吃風情.md",
       "Culture/台灣婚喪喜慶與人生禮俗.md",
       "Culture/台灣宗教與寺廟文化.md",
       "Culture/台灣感性：韓國人眼中的台式美學.md",
@@ -1307,7 +1296,6 @@
       "Art/新媒體藝術.md",
       "Art/台灣當代藝術.md",
       "Culture/族群（閩南客家原住民外省新住民）.md",
-      "Food/台灣小吃.md",
       "Food/牛肉麵.md",
       "Food/珍珠奶茶.md",
       "Geography/氣候.md",

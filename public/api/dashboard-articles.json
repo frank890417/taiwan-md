@@ -1,5 +1,53 @@
 [
   {
+    "title": "台灣小吃",
+    "slug": "台灣小吃",
+    "category": "food",
+    "date": "2026-03-28",
+    "lastVerified": "2026-03-28",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3536,
+    "tagCount": 7,
+    "tags": [
+      "Food",
+      "小吃",
+      "街頭美食",
+      "夜市",
+      "台灣料理",
+      "文化軟實力",
+      "移民飲食"
+    ],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 10,
+    "commitHash": "cbd88cc3",
+    "description": "1987年春水堂的一個失誤，讓珍珠奶茶走進60國市場。台灣小吃從清代移民的生存工具，到今天23.3萬個攤位撐起的4000億產業：它的成功方程式不是精緻化，而是那種「管它的，先試試看」的草根勇氣。"
+  },
+  {
+    "title": "流行音樂與金曲獎",
+    "slug": "流行音樂與金曲獎",
+    "category": "music",
+    "date": "2026-03-28",
+    "lastVerified": "2026-03-28",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2989,
+    "tagCount": 5,
+    "tags": ["金曲獎", "流行音樂", "獨立音樂", "原住民音樂", "華語音樂"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "b8d8ae63",
+    "description": "1982年，蔡琴寫了封8頁的信給宋楚瑜，把獎項類別都列好了。八年後金曲獎誕生。34年後，一個排灣族語專輯打敗所有人拿下年度最佳——那不是一個關於獎項的故事，而是一個關於什麼聲音值得被聽見的故事。"
+  },
+  {
     "title": "九天玄女：從黃帝的軍師到台灣陣頭少年的守護神",
     "slug": "九天玄女信仰",
     "category": "culture",
@@ -990,46 +1038,6 @@
     "description": "台灣曾是全球動畫外包重鎮，宏廣卡通包辦好萊塢經典動畫製作，高峰期產值佔全球三分之一"
   },
   {
-    "title": "台灣地方小吃地圖：移民血脈中的味覺密碼",
-    "slug": "台灣地方小吃地圖",
-    "category": "food",
-    "date": "2026-03-24",
-    "lastVerified": "2026-03-24",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2792,
-    "tagCount": 5,
-    "tags": ["地方小吃", "移民文化", "族群融合", "台灣美食史", "文化地理"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 4,
-    "commitHash": "7ba56560",
-    "description": "一碗基隆鼎邊糊記錄著福州漁民的流浪，一個彰化肉圓見證了清代移民的創新。22個縣市，22種生存智慧——台灣地方小吃不只是美食，是刻在土地上的民族遷徙史。"
-  },
-  {
-    "title": "台灣小吃",
-    "slug": "台灣小吃-rewrite",
-    "category": "food",
-    "date": "2026-03-24",
-    "lastVerified": "2026-03-24",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2012,
-    "tagCount": 6,
-    "tags": ["Food", "小吃", "街頭美食", "夜市", "台灣料理", "文化軟實力"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 2,
-    "commitHash": "cbd88cc3",
-    "description": "從田邊挑夫到全球珍奶帝國——島嶼多元文化在一口一口中完成最成功的融合實驗"
-  },
-  {
     "title": "台灣水果王國",
     "slug": "台灣水果王國",
     "category": "food",
@@ -1717,26 +1725,6 @@
     "description": "從德記洋行1884年的100株苗木到2024年首屆CoE卓越盃，一個島嶼如何在140年間打造出年進口4.3萬公噸的咖啡王國"
   },
   {
-    "title": "台灣夜市小吃圖鑑",
-    "slug": "台灣夜市小吃圖鑑",
-    "category": "food",
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": true,
-    "featured": false,
-    "wordCount": 5219,
-    "tagCount": 5,
-    "tags": ["夜市", "小吃", "街頭美食", "庶民文化", "台灣味"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "5877d817",
-    "description": "當天色暗下，摩托車引擎聲消失在巷弄裡時，另一座城市開始甦醒——這是臭豆腐、蚵仔煎與人情味交織的療癒宇宙"
-  },
-  {
     "title": "台灣米其林：星光下的代價與重新定義",
     "slug": "台灣米其林與精緻餐飲",
     "category": "food",
@@ -2067,26 +2055,6 @@
     "revision": 6,
     "commitHash": "56fb9cf8",
     "description": "1996年奧運開幕式響起台灣阿美族長者的古老吟唱，但郭英男本人透過訴訟才知道被全世界聽見。這個荒謬故事映射了台灣民謠的命運——從被消音到重新定義自己的聲音"
-  },
-  {
-    "title": "流行音樂與金曲獎",
-    "slug": "流行音樂與金曲獎",
-    "category": "music",
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": true,
-    "featured": false,
-    "wordCount": 3748,
-    "tagCount": 5,
-    "tags": ["金曲獎", "流行音樂", "獨立音樂", "原住民音樂", "華語音樂"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "5d148a18",
-    "description": "1990年第一屆金曲獎只有12個獎項，沒有紅毯、沒有直播，在台視攝影棚匆匆頒完獎就結束。34年後，金曲獎變成「華語葛萊美」，一張門票炒到10萬元。但真正改變台灣音樂的不是獎項，而是那些在小pub裡演出的獨立樂團，和夜市攤位上播放的台語歌。"
   },
   {
     "title": "台灣森林生態系",
@@ -7253,26 +7221,6 @@
     "description": "從十六族的多元傳統到當代藝術復振，探索台灣原住民文化的深厚底蘊與現代轉化"
   },
   {
-    "title": "台灣夜市文化與小吃風情",
-    "slug": "台灣夜市文化與小吃風情",
-    "category": "culture",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4022,
-    "tagCount": 6,
-    "tags": ["夜市", "小吃", "庶民文化", "飲食文化", "觀夜生活", "社交文化"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 5,
-    "commitHash": "3c599304",
-    "description": "深度探索台灣夜市文化的形成背景、獨特魅力，以及代表性小吃的歷史故事與文化意義"
-  },
-  {
     "title": "台灣婚喪喜慶與人生禮俗",
     "slug": "台灣婚喪喜慶與人生禮俗",
     "category": "culture",
@@ -8575,26 +8523,6 @@
     "revision": 9,
     "commitHash": "d273ee89",
     "description": "台灣的族群多元性不僅是歷史發展的結果，更是理解當代台灣社會的關鍵。這種多元共存的社會結構，既是台灣文化創意的源泉，也是民主政治發展的重要基礎。如何在尊重各族群文化特色的同時，建構共同的台灣認同，是台灣社會持續面對的重要課題。"
-  },
-  {
-    "title": "台灣小吃",
-    "slug": "台灣小吃",
-    "category": "food",
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1611,
-    "tagCount": 5,
-    "tags": ["Food", "小吃", "街頭美食", "夜市", "台灣料理"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 10,
-    "commitHash": "cbd88cc3",
-    "description": "豐富多元的台灣小吃文化，融合閩南、客家、外省、原住民與現代創新的美食傳統"
   },
   {
     "title": "牛肉麵",

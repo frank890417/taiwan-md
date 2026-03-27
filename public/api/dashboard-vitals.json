@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-03-27T16:30:27.207Z",
-  "totalArticles": 415,
-  "articlesLast7Days": 201,
-  "articlesLast30Days": 410,
-  "humanReviewedPercent": 13.3,
-  "featuredPercent": 31.1,
+  "lastUpdated": "2026-03-27T17:22:28.383Z",
+  "totalArticles": 411,
+  "articlesLast7Days": 199,
+  "articlesLast30Days": 406,
+  "humanReviewedPercent": 12.9,
+  "featuredPercent": 30.4,
   "avgRevision": 4.8,
   "languageCoverage": {
-    "zh-TW": 415,
-    "en": 485,
+    "zh-TW": 411,
+    "en": 479,
     "es": 34,
     "ja": 10
   }
