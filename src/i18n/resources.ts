@@ -129,15 +129,20 @@ export const resourcesUI = {
 
     // Chapter titles & stories
     'resources.chapter.government.title': 'Gateway to National Governance',
-    'resources.chapter.government.story': "In February 2020, Taiwanese engineers built a real-time mask availability map over a single weekend, connecting 6,000 pharmacies. One person, one laptop, 72 hours — possible because data.gov.tw offers 50,000+ government datasets ready for anyone to use at any time. Taiwan wrote 'governance transparency' into every downloadable API.",
+    'resources.chapter.government.story':
+      "In February 2020, Taiwanese engineers built a real-time mask availability map over a single weekend, connecting 6,000 pharmacies. One person, one laptop, 72 hours — possible because data.gov.tw offers 50,000+ government datasets ready for anyone to use at any time. Taiwan wrote 'governance transparency' into every downloadable API.",
     'resources.chapter.culture.title': 'Culture & Knowledge',
-    'resources.chapter.culture.story': "On less than 36,000 square kilometers, Taiwan houses 159 universities, over 500 museums, 9 national parks, from the 3,952-meter Jade Mountain to coral reef coastlines. The National Palace Museum holds nearly 700,000 Chinese cultural treasures, while neighborhood temple festivals are equally living cultural heritage. This island's cultural density far exceeds its size on a map.",
+    'resources.chapter.culture.story':
+      "On less than 36,000 square kilometers, Taiwan houses 159 universities, over 500 museums, 9 national parks, from the 3,952-meter Jade Mountain to coral reef coastlines. The National Palace Museum holds nearly 700,000 Chinese cultural treasures, while neighborhood temple festivals are equally living cultural heritage. This island's cultural density far exceeds its size on a map.",
     'resources.chapter.media.title': 'Voices of Taiwan',
-    'resources.chapter.media.story': "In 1995, NTU students set up a BBS server in their dorm, naming it PTT. Thirty years later, this plain-text forum remains Taiwan's most influential public discussion platform — during the 2014 Sunflower Movement, PTT was the fastest, most complete real-time information source. Taiwan's media ecosystem, from mainstream newspapers to netizen forums, fights for democracy's voice at every level.",
+    'resources.chapter.media.story':
+      "In 1995, NTU students set up a BBS server in their dorm, naming it PTT. Thirty years later, this plain-text forum remains Taiwan's most influential public discussion platform — during the 2014 Sunflower Movement, PTT was the fastest, most complete real-time information source. Taiwan's media ecosystem, from mainstream newspapers to netizen forums, fights for democracy's voice at every level.",
     'resources.chapter.economy.title': 'Economy & Life Engine',
-    'resources.chapter.economy.story': "Every two smartphones in the world contain a chip made by TSMC — geopolitical scholars call it the 'silicon shield.' But chips are just the tip of the iceberg: 99.9% universal healthcare coverage, a convenience store every 2.3 square kilometers, 90-minute bullet trains from Taipei to Kaohsiung. What sustains 23 million daily lives is a precision system so seamless you barely notice it's there.",
+    'resources.chapter.economy.story':
+      "Every two smartphones in the world contain a chip made by TSMC — geopolitical scholars call it the 'silicon shield.' But chips are just the tip of the iceberg: 99.9% universal healthcare coverage, a convenience store every 2.3 square kilometers, 90-minute bullet trains from Taipei to Kaohsiung. What sustains 23 million daily lives is a precision system so seamless you barely notice it's there.",
     'resources.chapter.community.title': 'Civic Tech & Community',
-    'resources.chapter.community.story': "g0v's motto: 'Don't ask why nobody is doing this — you are that nobody.' Mask maps, fact-checking bots, election promise trackers — all born from weekend hackathons. In Taiwan, civic participation looks like this: writing code, opening issues, submitting pull requests. Taiwan.md is a product of this very spirit.",
+    'resources.chapter.community.story':
+      "g0v's motto: 'Don't ask why nobody is doing this — you are that nobody.' Mask maps, fact-checking bots, election promise trackers — all born from weekend hackathons. In Taiwan, civic participation looks like this: writing code, opening issues, submitting pull requests. Taiwan.md is a product of this very spirit.",
 
     // Insight cards
     'resources.insight.gov.branches.number': '5',
@@ -177,35 +182,50 @@ export const resourcesUI = {
 
     // Subcategory titles
     'resources.sub.fiveYuan': 'Constitutional Branches',
-    'resources.sub.fiveYuan.desc': 'These five branches form Taiwan\'s unique pentapartite system — the only one of its kind in the world.',
+    'resources.sub.fiveYuan.desc':
+      "These five branches form Taiwan's unique pentapartite system — the only one of its kind in the world.",
     'resources.sub.ministries': 'Ministries & Agencies',
-    'resources.sub.ministries.desc': 'From the Ministry of Digital Affairs to the Council of Indigenous Peoples, every ministry maintains its own open data portal.',
+    'resources.sub.ministries.desc':
+      'From the Ministry of Digital Affairs to the Council of Indigenous Peoples, every ministry maintains its own open data portal.',
     'resources.sub.localGov': 'Local Governments',
-    'resources.sub.localGov.desc': '22 counties and cities, 22 styles of local governance. The smart city race among the six special municipalities is redefining public services.',
+    'resources.sub.localGov.desc':
+      '22 counties and cities, 22 styles of local governance. The smart city race among the six special municipalities is redefining public services.',
     'resources.sub.openData': 'Open Data',
-    'resources.sub.openData.desc': 'This is where Taiwan\'s civic tech miracles begin. Mask maps, vaccine booking, air quality monitoring — all started from these platforms.',
+    'resources.sub.openData.desc':
+      "This is where Taiwan's civic tech miracles begin. Mask maps, vaccine booking, air quality monitoring — all started from these platforms.",
     'resources.sub.universities': 'Top Universities & Research',
-    'resources.sub.universities.desc': 'Taiwan\'s universities don\'t just teach — NTU\'s quantum computing lab and NCKU\'s semiconductor research center are vital nodes in the global academic network.',
+    'resources.sub.universities.desc':
+      "Taiwan's universities don't just teach — NTU's quantum computing lab and NCKU's semiconductor research center are vital nodes in the global academic network.",
     'resources.sub.museums': 'Museums & Libraries',
-    'resources.sub.museums.desc': 'From the National Palace Museum\'s Jadeite Cabbage to the Chimei Museum\'s violin collection, Taiwan\'s museums are portals through time and space.',
+    'resources.sub.museums.desc':
+      "From the National Palace Museum's Jadeite Cabbage to the Chimei Museum's violin collection, Taiwan's museums are portals through time and space.",
     'resources.sub.venues': 'Arts & Cultural Venues',
-    'resources.sub.venues.desc': 'Taiwan\'s arts ecosystem is taking flight. C-LAB, National Theater, Weiwuying — a concentration of world-class venues that rivals New York.',
+    'resources.sub.venues.desc':
+      "Taiwan's arts ecosystem is taking flight. C-LAB, National Theater, Weiwuying — a concentration of world-class venues that rivals New York.",
     'resources.sub.parks': 'National Parks & Scenic Areas',
-    'resources.sub.parks.desc': 'From sea level to 3,952 meters, Taiwan\'s 9 national parks span every climate zone on Earth. In a single day, you can go from tropical coral reefs to alpine snowlines.',
+    'resources.sub.parks.desc':
+      "From sea level to 3,952 meters, Taiwan's 9 national parks span every climate zone on Earth. In a single day, you can go from tropical coral reefs to alpine snowlines.",
     'resources.sub.mainstream': 'Mainstream Media',
-    'resources.sub.mainstream.desc': 'From the lifting of press bans after martial law ended in 1988, to today\'s 24-hour news channel competition — Taiwan\'s press freedom was hard-won.',
+    'resources.sub.mainstream.desc':
+      "From the lifting of press bans after martial law ended in 1988, to today's 24-hour news channel competition — Taiwan's press freedom was hard-won.",
     'resources.sub.digital': 'Digital Native Media',
-    'resources.sub.digital.desc': 'While traditional media struggles, Taiwan\'s digital-native outlets are redefining journalism. The Reporter\'s nonprofit model proves that investigative reporting can survive without advertising.',
+    'resources.sub.digital.desc':
+      "While traditional media struggles, Taiwan's digital-native outlets are redefining journalism. The Reporter's nonprofit model proves that investigative reporting can survive without advertising.",
     'resources.sub.ngo': 'Civil Society & NGOs',
-    'resources.sub.ngo.desc': 'Taiwan has Asia\'s highest NGO density. From environment to human rights, these organizations don\'t just watch the government — they often lead the way.',
+    'resources.sub.ngo.desc':
+      "Taiwan has Asia's highest NGO density. From environment to human rights, these organizations don't just watch the government — they often lead the way.",
     'resources.sub.companies': 'Industry Leaders',
-    'resources.sub.companies.desc': 'From TSMC to Foxconn, these companies appear in supply chain reports worldwide.',
+    'resources.sub.companies.desc':
+      'From TSMC to Foxconn, these companies appear in supply chain reports worldwide.',
     'resources.sub.transport': 'Transportation',
-    'resources.sub.transport.desc': 'Taiwan\'s HSR connects Taipei to Kaohsiung in just 90 minutes. Add the metro, real-time bus systems, and YouBike — Taiwan\'s public transit is Asia\'s hidden champion.',
+    'resources.sub.transport.desc':
+      "Taiwan's HSR connects Taipei to Kaohsiung in just 90 minutes. Add the metro, real-time bus systems, and YouBike — Taiwan's public transit is Asia's hidden champion.",
     'resources.sub.healthcare': 'Healthcare',
-    'resources.sub.healthcare.desc': 'Universal health insurance: one card, 99.9% coverage, 15-minute average wait time. Even the US is studying how Taiwan does it.',
+    'resources.sub.healthcare.desc':
+      'Universal health insurance: one card, 99.9% coverage, 15-minute average wait time. Even the US is studying how Taiwan does it.',
     'resources.sub.finance': 'Finance & Data',
-    'resources.sub.finance.desc': 'TWSE is one of Asia\'s most transparent markets. From listed company financials to real-time trading data, everything is publicly accessible.',
+    'resources.sub.finance.desc':
+      "TWSE is one of Asia's most transparent markets. From listed company financials to real-time trading data, everything is publicly accessible.",
     'resources.sub.civicTech': 'Civic Tech Projects',
     'resources.sub.foodMaps': 'Food & Culture Maps',
 
@@ -242,35 +262,56 @@ export const resourcesUI = {
 
     // Reading Guide
     'resources.guide.title': 'Where to Start',
-    'resources.guide.desc': 'Imagine landing in Taiwan with no guidebook. Governance shows you the operating system — how a young democracy runs on radical transparency. Culture is the soul — 500 museums, 15,000 annual temple festivals, and 16 indigenous languages on an island smaller than Switzerland. Media reveals the conversation — from a 30-year-old plain-text forum that still shapes elections, to Asia\'s boldest nonprofit newsroom. Economy is the heartbeat — one company makes 92% of the world\'s advanced chips, and universal healthcare costs less than your phone bill. Community is the invitation — join the open-source citizens who build civic tools over weekend hackathons.',
+    'resources.guide.desc':
+      "Imagine landing in Taiwan with no guidebook. Governance shows you the operating system — how a young democracy runs on radical transparency. Culture is the soul — 500 museums, 15,000 annual temple festivals, and 16 indigenous languages on an island smaller than Switzerland. Media reveals the conversation — from a 30-year-old plain-text forum that still shapes elections, to Asia's boldest nonprofit newsroom. Economy is the heartbeat — one company makes 92% of the world's advanced chips, and universal healthcare costs less than your phone bill. Community is the invitation — join the open-source citizens who build civic tools over weekend hackathons.",
 
     // Curator Notes
-    'resources.curator.government': '🔍 During COVID-19, Taiwanese civic developers shipped mask maps and vaccine booking systems within 72 hours. Behind that speed: a top-3 globally ranked open data platform — 50,000+ datasets, real-time APIs, accessible to anyone. While developers elsewhere waited for government press conferences, Taiwan\'s were already writing code.',
-    'resources.curator.culture': '🔍 Few know that Taiwan has one of the highest museum densities in Asia. But numbers only tell the surface — what\'s truly special is the \'living\' culture: over 15,000 annual temple festivals, 16 indigenous languages, Hakka mountain song competitions. Taiwan\'s culture isn\'t just behind glass — it walks the streets.',
-    'resources.curator.media': '🔍 How influential is PTT? During the 2018 referendum, discussion volume on PTT\'s Gossiping board directly correlated with voter turnout. The Reporter is equally remarkable: a donation-funded investigative outlet that has been nominated for Asian journalism awards for consecutive years. In an era of misinformation, Taiwan simultaneously has the most active netizen culture and the most dedicated fact-checking community — this contradiction itself is democratic vitality.',
-    'resources.curator.economy': '🔍 While nations debate how much to spend on CHIPS Acts, Taiwan already wrote the answer on silicon wafers over 30 years: a small island with no oil, no iron ore, holds 92% of global advanced chip production through sheer talent and nanometer-precision engineering. That number earned a new word in Pentagon reports — \"silicon shield.\"',
-    'resources.curator.community': '🔍 g0v\'s bimonthly hackathons have run 60+ times, each drawing hundreds of volunteer engineers, designers, and NGO workers. No pay, no boss — just a laptop and a problem to solve. The mask map was born this way: one weekend, a few engineers, real-time data from 6,000 pharmacies. Silicon Valley talks about changing the world. Taiwan\'s open-source community just ships it.',
+    'resources.curator.government':
+      "🔍 During COVID-19, Taiwanese civic developers shipped mask maps and vaccine booking systems within 72 hours. Behind that speed: a top-3 globally ranked open data platform — 50,000+ datasets, real-time APIs, accessible to anyone. While developers elsewhere waited for government press conferences, Taiwan's were already writing code.",
+    'resources.curator.culture':
+      "🔍 Few know that Taiwan has one of the highest museum densities in Asia. But numbers only tell the surface — what's truly special is the 'living' culture: over 15,000 annual temple festivals, 16 indigenous languages, Hakka mountain song competitions. Taiwan's culture isn't just behind glass — it walks the streets.",
+    'resources.curator.media':
+      "🔍 How influential is PTT? During the 2018 referendum, discussion volume on PTT's Gossiping board directly correlated with voter turnout. The Reporter is equally remarkable: a donation-funded investigative outlet that has been nominated for Asian journalism awards for consecutive years. In an era of misinformation, Taiwan simultaneously has the most active netizen culture and the most dedicated fact-checking community — this contradiction itself is democratic vitality.",
+    'resources.curator.economy':
+      '🔍 While nations debate how much to spend on CHIPS Acts, Taiwan already wrote the answer on silicon wafers over 30 years: a small island with no oil, no iron ore, holds 92% of global advanced chip production through sheer talent and nanometer-precision engineering. That number earned a new word in Pentagon reports — \"silicon shield.\"',
+    'resources.curator.community':
+      "🔍 g0v's bimonthly hackathons have run 60+ times, each drawing hundreds of volunteer engineers, designers, and NGO workers. No pay, no boss — just a laptop and a problem to solve. The mask map was born this way: one weekend, a few engineers, real-time data from 6,000 pharmacies. Silicon Valley talks about changing the world. Taiwan's open-source community just ships it.",
 
     // Featured site descriptions
-    'resources.featured.dataGov': 'Ranked #1 globally for government open data — over 50,000 datasets from air quality to real-time bus locations, all freely downloadable.',
-    'resources.featured.g0vGov': 'Gov-zero: the civic tech community that rewrites governance — from mask maps to vTaiwan, blurring the line between hacker and policymaker.',
-    'resources.featured.legislativeYuan': 'Taiwan\'s parliament — live-streamed sessions, bill tracking, and the frontline of democratic deliberation.',
+    'resources.featured.dataGov':
+      'Ranked #1 globally for government open data — over 50,000 datasets from air quality to real-time bus locations, all freely downloadable.',
+    'resources.featured.g0vGov':
+      'Gov-zero: the civic tech community that rewrites governance — from mask maps to vTaiwan, blurring the line between hacker and policymaker.',
+    'resources.featured.legislativeYuan':
+      "Taiwan's parliament — live-streamed sessions, bill tracking, and the frontline of democratic deliberation.",
 
-    'resources.featured.npm': 'Home to 700,000+ artifacts spanning 8,000 years — one of the world\'s greatest collections of Chinese art, now with cutting-edge digital exhibitions.',
-    'resources.featured.ncl': 'Taiwan\'s national library and legal deposit center — the definitive archive of the nation\'s published knowledge.',
-    'resources.featured.npgov': 'Gateway to 9 national parks — from 3,000m peaks to coral reefs, covering Taiwan\'s extraordinary biodiversity in 36,000 km².',
+    'resources.featured.npm':
+      "Home to 700,000+ artifacts spanning 8,000 years — one of the world's greatest collections of Chinese art, now with cutting-edge digital exhibitions.",
+    'resources.featured.ncl':
+      "Taiwan's national library and legal deposit center — the definitive archive of the nation's published knowledge.",
+    'resources.featured.npgov':
+      "Gateway to 9 national parks — from 3,000m peaks to coral reefs, covering Taiwan's extraordinary biodiversity in 36,000 km².",
 
-    'resources.featured.twreporter': 'Pioneering nonprofit investigative journalism in the Chinese-speaking world — deep dives into environmental, social, and political issues.',
-    'resources.featured.ptt': 'Taiwan\'s largest online forum — 200K daily active users driving a unique "netizen-powered democracy" since 1995.',
-    'resources.featured.ptsNews': 'Taiwan\'s public television news — independent, unbiased reporting and the gold standard for public interest journalism.',
+    'resources.featured.twreporter':
+      'Pioneering nonprofit investigative journalism in the Chinese-speaking world — deep dives into environmental, social, and political issues.',
+    'resources.featured.ptt':
+      'Taiwan\'s largest online forum — 200K daily active users driving a unique "netizen-powered democracy" since 1995.',
+    'resources.featured.ptsNews':
+      "Taiwan's public television news — independent, unbiased reporting and the gold standard for public interest journalism.",
 
-    'resources.featured.tsmc': 'The world\'s most valuable semiconductor company, manufacturing 92% of the most advanced chips powering AI, smartphones, and supercomputers.',
-    'resources.featured.twse': 'The core of Taiwan\'s capital market — home to TSMC, Foxconn, and the engine of Asia\'s most dynamic tech economy.',
-    'resources.featured.nhi': 'Universal healthcare covering 99.9% of the population at 6.6% of GDP — a model studied by health policy experts worldwide.',
+    'resources.featured.tsmc':
+      "The world's most valuable semiconductor company, manufacturing 92% of the most advanced chips powering AI, smartphones, and supercomputers.",
+    'resources.featured.twse':
+      "The core of Taiwan's capital market — home to TSMC, Foxconn, and the engine of Asia's most dynamic tech economy.",
+    'resources.featured.nhi':
+      'Universal healthcare covering 99.9% of the population at 6.6% of GDP — a model studied by health policy experts worldwide.',
 
-    'resources.featured.g0v': 'The world\'s most impactful civic tech community — spawning the COVID mask map, vTaiwan deliberation platform, and a Digital Minister.',
-    'resources.featured.cofacts': 'Crowdsourced fact-checking on LINE — millions of users fighting misinformation with AI-assisted verification.',
-    'resources.featured.taiwanmd': 'The project you\'re reading right now — an open-source, community-curated encyclopedia of Taiwan.',
+    'resources.featured.g0v':
+      "The world's most impactful civic tech community — spawning the COVID mask map, vTaiwan deliberation platform, and a Digital Minister.",
+    'resources.featured.cofacts':
+      'Crowdsourced fact-checking on LINE — millions of users fighting misinformation with AI-assisted verification.',
+    'resources.featured.taiwanmd':
+      "The project you're reading right now — an open-source, community-curated encyclopedia of Taiwan.",
 
     // Section footer
     'resources.section.footer.verified': 'Last verified: 2026-03-24',
@@ -279,7 +320,8 @@ export const resourcesUI = {
     // Footer / Last updated
     'resources.footer.lastUpdated': 'Last updated: March 2026',
     'resources.footer.report': 'Report broken links',
-    'resources.footer.reportUrl': 'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
     'resources.footer.stats.total': '200+',
 
     // Site names
@@ -355,7 +397,8 @@ export const resourcesUI = {
     'resources.site.itri': 'Industrial Technology Research Institute',
     'resources.site.niar': 'National Applied Research Laboratories',
     'resources.site.airitilibrary': 'airiti Library',
-    'resources.site.ndltd': 'National Digital Library of Theses and Dissertations in Taiwan',
+    'resources.site.ndltd':
+      'National Digital Library of Theses and Dissertations in Taiwan',
 
     'resources.site.ncl': 'National Central Library',
     'resources.site.npm': 'National Palace Museum',
@@ -410,8 +453,8 @@ export const resourcesUI = {
     'resources.site.twreporter': 'The Reporter',
     'resources.site.taiwanNews': 'Taiwan News',
     'resources.site.thenewslens': 'The News Lens',
-    'resources.site.upmedia': 'The Storm Media',
-    'resources.site.storm': 'The Up Media',
+    'resources.site.upmedia': 'The Up Media',
+    'resources.site.storm': 'The Storm Media',
 
     'resources.site.tahr': 'Taiwan Association for Human Rights',
     'resources.site.teia': 'Taiwan Environmental Information Association',
@@ -587,15 +630,20 @@ export const resourcesUI = {
 
     // Chapter titles & stories
     'resources.chapter.government.title': '國家治理入口',
-    'resources.chapter.government.story': '2020 年 2 月，台灣工程師用一個週末串接 6,000 間藥局的即時口罩庫存。一個人、一台筆電、72 小時。之所以可能，是因為 data.gov.tw 上 50,000+ 筆政府資料集隨時等著被任何人取用。台灣把「治理透明」寫進了每一個可下載的 API。',
+    'resources.chapter.government.story':
+      '2020 年 2 月，台灣工程師用一個週末串接 6,000 間藥局的即時口罩庫存。一個人、一台筆電、72 小時。之所以可能，是因為 data.gov.tw 上 50,000+ 筆政府資料集隨時等著被任何人取用。台灣把「治理透明」寫進了每一個可下載的 API。',
     'resources.chapter.culture.title': '文化與知識殿堂',
-    'resources.chapter.culture.story': '在不到 36,000 平方公里的面積上，台灣擁有 159 所大學、超過 500 間博物館、9 座國家公園、從 3,952 公尺的玉山到珊瑚礁海岸。國立故宮博物院收藏近 70 萬件中華文化瑰寶，而巷口的廟宇祭典同樣是活著的文化資產。這座島的文化密度，遠超過它在地圖上的大小。',
+    'resources.chapter.culture.story':
+      '在不到 36,000 平方公里的面積上，台灣擁有 159 所大學、超過 500 間博物館、9 座國家公園、從 3,952 公尺的玉山到珊瑚礁海岸。國立故宮博物院收藏近 70 萬件中華文化瑰寶，而巷口的廟宇祭典同樣是活著的文化資產。這座島的文化密度，遠超過它在地圖上的大小。',
     'resources.chapter.media.title': '聽見台灣的聲音',
-    'resources.chapter.media.story': '1995 年，台大學生在宿舍架了一台 BBS 伺服器，取名 PTT。30 年後，這個純文字介面的論壇仍然是台灣最具影響力的公共討論平台。2014 年太陽花運動期間，PTT 是最快、最完整的即時資訊來源。台灣的媒體生態，從主流報紙到鄉民論壇，每一層都在爭奪民主的發言權。',
+    'resources.chapter.media.story':
+      '1995 年，台大學生在宿舍架了一台 BBS 伺服器，取名 PTT。30 年後，這個純文字介面的論壇仍然是台灣最具影響力的公共討論平台。2014 年太陽花運動期間，PTT 是最快、最完整的即時資訊來源。台灣的媒體生態，從主流報紙到鄉民論壇，每一層都在爭奪民主的發言權。',
     'resources.chapter.economy.title': '經濟與生活引擎',
-    'resources.chapter.economy.story': '全世界每兩支手機，就有一支使用台積電製造的晶片，地緣政治學者稱之為「矽盾」。但晶片只是冰山一角：99.9% 覆蓋率的全民健保、每 2.3 平方公里一間便利商店、台北到高雄 90 分鐘的高鐵。撐起 2,300 萬人日常的，是一套你幾乎感覺不到、卻無處不在的精密系統。',
+    'resources.chapter.economy.story':
+      '全世界每兩支手機，就有一支使用台積電製造的晶片，地緣政治學者稱之為「矽盾」。但晶片只是冰山一角：99.9% 覆蓋率的全民健保、每 2.3 平方公里一間便利商店、台北到高雄 90 分鐘的高鐵。撐起 2,300 萬人日常的，是一套你幾乎感覺不到、卻無處不在的精密系統。',
     'resources.chapter.community.title': '公民科技與社群',
-    'resources.chapter.community.story': 'g0v 零時政府的 motto 是「不要問為什麼沒有人做這個，因為你就是那個『沒有人』。」口罩地圖、假新聞查核機器人、選舉承諾追蹤器，全部出自週末黑客松。在台灣，公民參與長這樣：寫程式、開 Issue、發 Pull Request。Taiwan.md 也是這個精神的產物。',
+    'resources.chapter.community.story':
+      'g0v 零時政府的 motto 是「不要問為什麼沒有人做這個，因為你就是那個『沒有人』。」口罩地圖、假新聞查核機器人、選舉承諾追蹤器，全部出自週末黑客松。在台灣，公民參與長這樣：寫程式、開 Issue、發 Pull Request。Taiwan.md 也是這個精神的產物。',
 
     // Insight cards
     'resources.insight.gov.branches.number': '5',
@@ -635,35 +683,50 @@ export const resourcesUI = {
 
     // Subcategory titles
     'resources.sub.fiveYuan': '五院核心',
-    'resources.sub.fiveYuan.desc': '這五個院構成了台灣獨特的五權分立制度，全球僅此一家。',
+    'resources.sub.fiveYuan.desc':
+      '這五個院構成了台灣獨特的五權分立制度，全球僅此一家。',
     'resources.sub.ministries': '各部會署',
-    'resources.sub.ministries.desc': '從數位發展部到原住民族委員會，每個部會都有自己的開放資料專區。',
+    'resources.sub.ministries.desc':
+      '從數位發展部到原住民族委員會，每個部會都有自己的開放資料專區。',
     'resources.sub.localGov': '地方政府',
-    'resources.sub.localGov.desc': '22 個縣市，22 種在地治理風格。六都的智慧城市競賽正在重新定義市民服務。',
+    'resources.sub.localGov.desc':
+      '22 個縣市，22 種在地治理風格。六都的智慧城市競賽正在重新定義市民服務。',
     'resources.sub.openData': '開放資料',
-    'resources.sub.openData.desc': '這裡是台灣公民科技奇蹟的起點。口罩地圖、疫苗預約、空氣品質監測，都從這些平台開始。',
+    'resources.sub.openData.desc':
+      '這裡是台灣公民科技奇蹟的起點。口罩地圖、疫苗預約、空氣品質監測，都從這些平台開始。',
     'resources.sub.universities': '頂尖大學與研究機構',
-    'resources.sub.universities.desc': '台灣的大學不只教書。台大的量子計算實驗室、成大的半導體研究中心，都是全球學術網絡的重要節點。',
+    'resources.sub.universities.desc':
+      '台灣的大學不只教書。台大的量子計算實驗室、成大的半導體研究中心，都是全球學術網絡的重要節點。',
     'resources.sub.museums': '博物館與圖書館',
-    'resources.sub.museums.desc': '從故宮的翠玉白菜到奇美博物館的小提琴收藏，台灣的博物館是穿越時空的任意門。',
+    'resources.sub.museums.desc':
+      '從故宮的翠玉白菜到奇美博物館的小提琴收藏，台灣的博物館是穿越時空的任意門。',
     'resources.sub.venues': '藝文場館與文創',
-    'resources.sub.venues.desc': '台灣的藝文生態正在起飛。C-LAB、兩廳院、高雄衛武營，世界級場館密度讓紐約都嫉妒。',
+    'resources.sub.venues.desc':
+      '台灣的藝文生態正在起飛。C-LAB、兩廳院、高雄衛武營，世界級場館密度讓紐約都嫉妒。',
     'resources.sub.parks': '國家公園與風景區',
-    'resources.sub.parks.desc': '從海拔 0 到 3,952 公尺，台灣的 9 座國家公園涵蓋了地球上所有的氣候帶。一天之內你可以從熱帶珊瑚礁走到高山雪線。',
+    'resources.sub.parks.desc':
+      '從海拔 0 到 3,952 公尺，台灣的 9 座國家公園涵蓋了地球上所有的氣候帶。一天之內你可以從熱帶珊瑚礁走到高山雪線。',
     'resources.sub.mainstream': '主流媒體',
-    'resources.sub.mainstream.desc': '從 1988 年解嚴後的報禁開放，到今天的 24 小時新聞台競爭，台灣的媒體自由來之不易。',
+    'resources.sub.mainstream.desc':
+      '從 1988 年解嚴後的報禁開放，到今天的 24 小時新聞台競爭，台灣的媒體自由來之不易。',
     'resources.sub.digital': '數位原生媒體',
-    'resources.sub.digital.desc': '當傳統媒體在掙扎，台灣的數位原生媒體正在重新定義新聞。報導者的非營利模式證明了深度報導可以不靠廣告生存。',
+    'resources.sub.digital.desc':
+      '當傳統媒體在掙扎，台灣的數位原生媒體正在重新定義新聞。報導者的非營利模式證明了深度報導可以不靠廣告生存。',
     'resources.sub.ngo': '公民社會與 NGO',
-    'resources.sub.ngo.desc': '台灣的 NGO 密度是亞洲最高。從環保到人權，這些組織不只監督政府，它們常常走在政策前面。',
+    'resources.sub.ngo.desc':
+      '台灣的 NGO 密度是亞洲最高。從環保到人權，這些組織不只監督政府，它們常常走在政策前面。',
     'resources.sub.companies': '產業龍頭',
-    'resources.sub.companies.desc': '從台積電到鴻海，這些公司的名字出現在全世界的供應鏈報告裡。',
+    'resources.sub.companies.desc':
+      '從台積電到鴻海，這些公司的名字出現在全世界的供應鏈報告裡。',
     'resources.sub.transport': '交通運輸',
-    'resources.sub.transport.desc': '台灣高鐵讓台北到高雄只要 90 分鐘。加上捷運、公車即時系統和 YouBike，台灣的公共運輸是亞洲的隱藏冠軍。',
+    'resources.sub.transport.desc':
+      '台灣高鐵讓台北到高雄只要 90 分鐘。加上捷運、公車即時系統和 YouBike，台灣的公共運輸是亞洲的隱藏冠軍。',
     'resources.sub.healthcare': '醫療健康',
-    'resources.sub.healthcare.desc': '全民健保：一張卡片、99.9% 覆蓋率、平均等待時間 15 分鐘。連美國都在研究台灣怎麼做到的。',
+    'resources.sub.healthcare.desc':
+      '全民健保：一張卡片、99.9% 覆蓋率、平均等待時間 15 分鐘。連美國都在研究台灣怎麼做到的。',
     'resources.sub.finance': '金融與數據',
-    'resources.sub.finance.desc': '台灣證交所是亞洲最透明的市場之一。從上市公司財報到即時交易數據，一切公開可查。',
+    'resources.sub.finance.desc':
+      '台灣證交所是亞洲最透明的市場之一。從上市公司財報到即時交易數據，一切公開可查。',
     'resources.sub.civicTech': '公民科技專案',
     'resources.sub.foodMaps': '美食與文化地圖',
 
@@ -700,35 +763,55 @@ export const resourcesUI = {
 
     // Reading Guide
     'resources.guide.title': '從哪裡開始',
-    'resources.guide.desc': '想像你剛降落在台灣，沒有旅遊書。「治理」讓你看到作業系統：一個年輕民主國家如何用激進的透明度運作。「文化」是靈魂：500 間博物館、每年 15,000 場廟會、16 種原住民語言，全擠在一座比瑞士還小的島上。「媒體」揭開對話：一個 30 年歷史的純文字論壇至今左右選舉，亞洲最大膽的非營利新聞室就在這裡。「經濟」是心跳：一家公司生產全球 92% 的先進晶片，全民健保費用比你的手機帳單還便宜。「社群」是邀請函：加入那群用週末黑客松打造公民工具的開源公民。',
+    'resources.guide.desc':
+      '想像你剛降落在台灣，沒有旅遊書。「治理」讓你看到作業系統：一個年輕民主國家如何用激進的透明度運作。「文化」是靈魂：500 間博物館、每年 15,000 場廟會、16 種原住民語言，全擠在一座比瑞士還小的島上。「媒體」揭開對話：一個 30 年歷史的純文字論壇至今左右選舉，亞洲最大膽的非營利新聞室就在這裡。「經濟」是心跳：一家公司生產全球 92% 的先進晶片，全民健保費用比你的手機帳單還便宜。「社群」是邀請函：加入那群用週末黑客松打造公民工具的開源公民。',
 
     // Curator Notes
-    'resources.curator.government': '🔍 COVID-19 期間，台灣民間開發者 72 小時內做出口罩地圖和疫苗預約系統。這種速度背後是全球排名前三的政府開放資料平台，50,000+ 筆資料集、即時 API、任何人都能取用。當其他國家的開發者還在等政府開記者會，台灣的開發者已經在寫 code 了。',
-    'resources.curator.culture': '🔍 很少人知道，台灣的博物館密度是亞洲最高之一。但數字只是表面，真正特別的是「活」的文化：每年超過 15,000 場廟會祭典、原住民族的 16 種語言、客家的山歌競賽。台灣的文化不只在玻璃櫃裡，它在街上走路。',
-    'resources.curator.media': '🔍 PTT 的影響力有多大？2018 年公投期間，PTT 八卦板的討論量直接影響了投票率。而報導者（The Reporter）的存在更令人驚嘆：一個完全靠捐款運作的調查媒體，連續多年入圍亞洲新聞獎。在假新聞氾濫的時代，台灣同時擁有最活躍的鄉民文化和最認真的事實查核社群。這種矛盾本身就是民主的活力。',
-    'resources.curator.economy': '🔍 當各國在爭論「晶片法案」要補貼多少錢時，台灣已經花了 30 年把答案寫在晶圓上：一個沒有石油、沒有鐵礦的小島，靠人才和奈米級製程掌握了全球 92% 的先進晶片產能。這個數字讓五角大廈的報告裡多了一個詞：「矽盾」。',
-    'resources.curator.community': '🔍 g0v 的雙月黑客松已經舉辦超過 60 場，每次上百位工程師、設計師、NGO 工作者自願報到。沒有報酬、沒有老闆，只有一台筆電和一個想解決的問題。口罩地圖就是這樣誕生的：一個週末，幾個工程師，六千間藥局的即時數據。矽谷喊「改變世界」，台灣的開源社群直接做給你看。',
+    'resources.curator.government':
+      '🔍 COVID-19 期間，台灣民間開發者 72 小時內做出口罩地圖和疫苗預約系統。這種速度背後是全球排名前三的政府開放資料平台，50,000+ 筆資料集、即時 API、任何人都能取用。當其他國家的開發者還在等政府開記者會，台灣的開發者已經在寫 code 了。',
+    'resources.curator.culture':
+      '🔍 很少人知道，台灣的博物館密度是亞洲最高之一。但數字只是表面，真正特別的是「活」的文化：每年超過 15,000 場廟會祭典、原住民族的 16 種語言、客家的山歌競賽。台灣的文化不只在玻璃櫃裡，它在街上走路。',
+    'resources.curator.media':
+      '🔍 PTT 的影響力有多大？2018 年公投期間，PTT 八卦板的討論量直接影響了投票率。而報導者（The Reporter）的存在更令人驚嘆：一個完全靠捐款運作的調查媒體，連續多年入圍亞洲新聞獎。在假新聞氾濫的時代，台灣同時擁有最活躍的鄉民文化和最認真的事實查核社群。這種矛盾本身就是民主的活力。',
+    'resources.curator.economy':
+      '🔍 當各國在爭論「晶片法案」要補貼多少錢時，台灣已經花了 30 年把答案寫在晶圓上：一個沒有石油、沒有鐵礦的小島，靠人才和奈米級製程掌握了全球 92% 的先進晶片產能。這個數字讓五角大廈的報告裡多了一個詞：「矽盾」。',
+    'resources.curator.community':
+      '🔍 g0v 的雙月黑客松已經舉辦超過 60 場，每次上百位工程師、設計師、NGO 工作者自願報到。沒有報酬、沒有老闆，只有一台筆電和一個想解決的問題。口罩地圖就是這樣誕生的：一個週末，幾個工程師，六千間藥局的即時數據。矽谷喊「改變世界」，台灣的開源社群直接做給你看。',
 
     // Featured site descriptions
-    'resources.featured.dataGov': '全球排名第一的政府開放資料平台，超過 50,000 筆資料集，從空氣品質到即時公車位置，全部免費下載。',
-    'resources.featured.g0vGov': '零時政府：改寫治理的公民科技社群。從口罩地圖到 vTaiwan，模糊了黑客與政策制定者的界線。',
-    'resources.featured.legislativeYuan': '台灣的國會，議事直播、法案追蹤，民主審議的最前線。',
+    'resources.featured.dataGov':
+      '全球排名第一的政府開放資料平台，超過 50,000 筆資料集，從空氣品質到即時公車位置，全部免費下載。',
+    'resources.featured.g0vGov':
+      '零時政府：改寫治理的公民科技社群。從口罩地圖到 vTaiwan，模糊了黑客與政策制定者的界線。',
+    'resources.featured.legislativeYuan':
+      '台灣的國會，議事直播、法案追蹤，民主審議的最前線。',
 
-    'resources.featured.npm': '收藏超過 70 萬件橫跨 8000 年的文物，世界最偉大的中華藝術收藏之一，現已推出數位展覽。',
-    'resources.featured.ncl': '台灣的國家圖書館暨法定送存中心，國家出版知識的典藏中心。',
-    'resources.featured.npgov': '9 座國家公園的入口，從三千公尺高山到珊瑚礁，涵蓋台灣 36,000 平方公里的非凡生物多樣性。',
+    'resources.featured.npm':
+      '收藏超過 70 萬件橫跨 8000 年的文物，世界最偉大的中華藝術收藏之一，現已推出數位展覽。',
+    'resources.featured.ncl':
+      '台灣的國家圖書館暨法定送存中心，國家出版知識的典藏中心。',
+    'resources.featured.npgov':
+      '9 座國家公園的入口，從三千公尺高山到珊瑚礁，涵蓋台灣 36,000 平方公里的非凡生物多樣性。',
 
-    'resources.featured.twreporter': '華語世界非營利調查報導的先驅，深入探討環境、社會與政治議題。',
-    'resources.featured.ptt': '台灣最大的網路論壇。自 1995 年以來，每日 20 萬活躍用戶驅動獨特的「鄉民民主」。',
-    'resources.featured.ptsNews': '台灣公共電視新聞，獨立、公正的報導，公共利益新聞的黃金標準。',
+    'resources.featured.twreporter':
+      '華語世界非營利調查報導的先驅，深入探討環境、社會與政治議題。',
+    'resources.featured.ptt':
+      '台灣最大的網路論壇。自 1995 年以來，每日 20 萬活躍用戶驅動獨特的「鄉民民主」。',
+    'resources.featured.ptsNews':
+      '台灣公共電視新聞，獨立、公正的報導，公共利益新聞的黃金標準。',
 
-    'resources.featured.tsmc': '全球最有價值的半導體公司，生產 92% 驅動 AI、智慧手機與超級電腦的最先進晶片。',
+    'resources.featured.tsmc':
+      '全球最有價值的半導體公司，生產 92% 驅動 AI、智慧手機與超級電腦的最先進晶片。',
     'resources.featured.twse': '台灣資本市場的核心，台積電、鴻海的上市地。',
-    'resources.featured.nhi': '覆蓋 99.9% 人口、僅佔 GDP 6.6% 的全民健保，全球衛生政策專家研究的典範。',
+    'resources.featured.nhi':
+      '覆蓋 99.9% 人口、僅佔 GDP 6.6% 的全民健保，全球衛生政策專家研究的典範。',
 
-    'resources.featured.g0v': '全球最具影響力的公民科技社群，催生 COVID 口罩地圖、vTaiwan 審議平台，以及一位數位部長。',
-    'resources.featured.cofacts': 'LINE 上的群眾協作事實查核，數百萬用戶以 AI 輔助驗證對抗假訊息。',
-    'resources.featured.taiwanmd': '你現在正在看的這個專案，開源、社群協作的台灣百科全書。',
+    'resources.featured.g0v':
+      '全球最具影響力的公民科技社群，催生 COVID 口罩地圖、vTaiwan 審議平台，以及一位數位部長。',
+    'resources.featured.cofacts':
+      'LINE 上的群眾協作事實查核，數百萬用戶以 AI 輔助驗證對抗假訊息。',
+    'resources.featured.taiwanmd':
+      '你現在正在看的這個專案，開源、社群協作的台灣百科全書。',
 
     // Section footer
     'resources.section.footer.verified': '最後驗證：2026-03-24',
@@ -737,7 +820,8 @@ export const resourcesUI = {
     // Footer / Last updated
     'resources.footer.lastUpdated': '最後更新：2026 年 3 月',
     'resources.footer.report': '回報失效連結',
-    'resources.footer.reportUrl': 'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
     'resources.footer.stats.total': '200+',
 
     // Site names
@@ -868,8 +952,8 @@ export const resourcesUI = {
     'resources.site.twreporter': '報導者',
     'resources.site.taiwanNews': 'Taiwan News',
     'resources.site.thenewslens': '關鍵評論網',
-    'resources.site.upmedia': '風傳媒',
-    'resources.site.storm': '上報',
+    'resources.site.upmedia': '上報',
+    'resources.site.storm': '風傳媒',
 
     'resources.site.tahr': '台灣人權促進會',
     'resources.site.teia': '台灣環境資訊協會',
