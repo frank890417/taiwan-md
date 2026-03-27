@@ -1,0 +1,55 @@
+{
+  "lastUpdated": "2026-03-27T16:30:27.207Z",
+  "organs": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "nameZh": "心臟",
+      "metaphor": "內容引擎",
+      "emoji": "🫀",
+      "score": 90,
+      "trend": "up",
+      "metrics": {
+        "articlesLast7Days": 201,
+        "articlesLast30Days": 410,
+        "totalArticles": 415
+      }
+    },
+    {
+      "id": "immune",
+      "name": "Immune",
+      "nameZh": "免疫系統",
+      "metaphor": "品質防禦",
+      "emoji": "🛡️",
+      "score": 13,
+      "trend": "stable",
+      "metrics": {
+        "humanReviewedCount": 55,
+        "totalArticles": 415,
+        "humanReviewedPercent": 13.3
+      }
+    },
+    {
+      "id": "dna",
+      "name": "DNA",
+      "nameZh": "遺傳密碼",
+      "metaphor": "品質基因",
+      "emoji": "🧬",
+      "score": 95,
+      "trend": "up",
+      "metrics": {
+        "editorialLastModified": "2026-03-24T15:24:53.000Z"
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "nameZh": "骨骼系統",
+      "metaphor": "技術架構",
+      "emoji": "🦴",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {}
+    }
+  ]
+}

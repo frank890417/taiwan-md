@@ -1,0 +1,1134 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const isEn = lang === 'en';
+---
+
+<Layout
+  title={t('dashboard.meta.title')}
+  description={t('dashboard.meta.description')}
+>
+  <main class="dashboard">
+    <!-- Hero -->
+    <section class="hero">
+      <h1 class="hero-title">
+        <span class="hero-emoji">🔬</span>
+        {t('dashboard.hero.title')}
+      </h1>
+      <p class="hero-subtitle">{t('dashboard.hero.subtitle')}</p>
+      <p class="hero-desc">{t('dashboard.hero.description')}</p>
+    </section>
+
+    <!-- Vital Signs -->
+    <section class="section" id="vitals">
+      <h2 class="section-title">{t('dashboard.vitals.title')}</h2>
+      <div class="vitals-grid" id="vitals-grid">
+        <div class="vital-card">
+          <div class="vital-emoji">💓</div>
+          <div class="vital-value" id="vital-heartbeat">—</div>
+          <div class="vital-label">{t('dashboard.vitals.heartbeat')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.heartbeat.desc')}</div>
+        </div>
+        <div class="vital-card">
+          <div class="vital-emoji">🧫</div>
+          <div class="vital-value" id="vital-cells">—</div>
+          <div class="vital-label">{t('dashboard.vitals.cells')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.cells.desc')}</div>
+        </div>
+        <div class="vital-card">
+          <div class="vital-emoji">🛡️</div>
+          <div class="vital-value" id="vital-immunity">—</div>
+          <div class="vital-label">{t('dashboard.vitals.immunity')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.immunity.desc')}</div>
+        </div>
+        <div class="vital-card">
+          <div class="vital-emoji">🧬</div>
+          <div class="vital-value" id="vital-dna">—</div>
+          <div class="vital-label">{t('dashboard.vitals.dna')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.dna.desc')}</div>
+        </div>
+        <div class="vital-card">
+          <div class="vital-emoji">📐</div>
+          <div class="vital-value" id="vital-revision">—</div>
+          <div class="vital-label">{t('dashboard.vitals.revision')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.revision.desc')}</div>
+        </div>
+        <div class="vital-card">
+          <div class="vital-emoji">⭐</div>
+          <div class="vital-value" id="vital-featured">—</div>
+          <div class="vital-label">{t('dashboard.vitals.featured')}</div>
+          <div class="vital-desc">{t('dashboard.vitals.featured.desc')}</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Article Registry -->
+    <section class="section" id="registry">
+      <h2 class="section-title">{t('dashboard.registry.title')}</h2>
+      <p class="section-subtitle">{t('dashboard.registry.subtitle')}</p>
+
+      <div class="registry-controls">
+        <input
+          type="text"
+          id="registry-search"
+          class="registry-search"
+          placeholder={t('dashboard.registry.search')}
+        />
+        <div class="registry-filters">
+          <select id="filter-category" class="registry-filter">
+            <option value="">{t('dashboard.registry.filter.all')}</option>
+          </select>
+          <select id="filter-reviewed" class="registry-filter">
+            <option value="">{t('dashboard.registry.filter.reviewed')}</option>
+            <option value="true"
+              >{t('dashboard.registry.filter.reviewed.yes')}</option
+            >
+            <option value="false"
+              >{t('dashboard.registry.filter.reviewed.no')}</option
+            >
+          </select>
+          <select id="filter-featured" class="registry-filter">
+            <option value="">{t('dashboard.registry.filter.featured')}</option>
+            <option value="true">⭐</option>
+            <option value="false">—</option>
+          </select>
+          <select id="filter-translation" class="registry-filter">
+            <option value=""
+              >{t('dashboard.registry.filter.translation')}</option
+            >
+            <option value="has-en"
+              >{t('dashboard.registry.filter.translation.has-en')}</option
+            >
+            <option value="missing-en"
+              >{t('dashboard.registry.filter.translation.missing-en')}</option
+            >
+          </select>
+        </div>
+      </div>
+
+      <div class="registry-summary" id="registry-summary"></div>
+
+      <div class="registry-table-wrapper">
+        <table class="registry-table" id="registry-table">
+          <thead>
+            <tr>
+              <th class="sortable" data-sort="title"
+                >{t('dashboard.registry.col.title')}</th
+              >
+              <th class="sortable" data-sort="category"
+                >{t('dashboard.registry.col.category')}</th
+              >
+              <th class="sortable" data-sort="date"
+                >{t('dashboard.registry.col.date')}</th
+              >
+              <th class="sortable" data-sort="reviewed"
+                >{t('dashboard.registry.col.reviewed')}</th
+              >
+              <th class="sortable" data-sort="wordCount"
+                >{t('dashboard.registry.col.words')}</th
+              >
+              <th class="sortable" data-sort="tagCount"
+                >{t('dashboard.registry.col.tags')}</th
+              >
+              <th>{t('dashboard.registry.col.translations')}</th>
+              <th class="sortable" data-sort="revision"
+                >{t('dashboard.registry.col.revisions')}</th
+              >
+            </tr>
+          </thead>
+          <tbody id="registry-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Organism Anatomy -->
+    <section class="section" id="organism">
+      <h2 class="section-title">{t('dashboard.organism.title')}</h2>
+      <p class="section-subtitle">{t('dashboard.organism.subtitle')}</p>
+      <div class="organ-grid" id="organ-grid"></div>
+    </section>
+
+    <!-- Translation Coverage -->
+    <section class="section" id="translation">
+      <h2 class="section-title">{t('dashboard.translation.title')}</h2>
+      <p class="section-subtitle">{t('dashboard.translation.subtitle')}</p>
+      <div class="translation-bars" id="translation-bars"></div>
+      <div class="translation-matrix-wrapper">
+        <table class="translation-matrix" id="translation-matrix">
+          <thead id="translation-matrix-head"></thead>
+          <tbody id="translation-matrix-body"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Immune System -->
+    <section class="section" id="immune">
+      <h2 class="section-title">{t('dashboard.immune.title')}</h2>
+      <p class="section-subtitle">{t('dashboard.immune.subtitle')}</p>
+
+      <div class="immune-overview" id="immune-overview"></div>
+
+      <h3 class="subsection-title">{t('dashboard.immune.defense.title')}</h3>
+      <div class="defense-lines">
+        <div class="defense-line">
+          <span class="defense-status active">🟢</span>
+          <strong>{t('dashboard.immune.defense.line1')}</strong>
+          <span class="defense-desc"
+            >{t('dashboard.immune.defense.line1.desc')}</span
+          >
+        </div>
+        <div class="defense-line">
+          <span class="defense-status active">🟢</span>
+          <strong>{t('dashboard.immune.defense.line2')}</strong>
+          <span class="defense-desc"
+            >{t('dashboard.immune.defense.line2.desc')}</span
+          >
+        </div>
+        <div class="defense-line">
+          <span class="defense-status manual">🟡</span>
+          <strong>{t('dashboard.immune.defense.line3')}</strong>
+          <span class="defense-desc"
+            >{t('dashboard.immune.defense.line3.desc')}</span
+          >
+        </div>
+        <div class="defense-line">
+          <span class="defense-status active">🟢</span>
+          <strong>{t('dashboard.immune.defense.line4')}</strong>
+          <span class="defense-desc"
+            >{t('dashboard.immune.defense.line4.desc')}</span
+          >
+        </div>
+      </div>
+
+      <h3 class="subsection-title">{t('dashboard.immune.queue.title')}</h3>
+      <p class="queue-desc">{t('dashboard.immune.queue.desc')}</p>
+      <div class="immune-queue" id="immune-queue"></div>
+    </section>
+
+    <!-- Growth Timeline -->
+    <section class="section" id="growth">
+      <h2 class="section-title">{t('dashboard.growth.title')}</h2>
+      <p class="section-subtitle">{t('dashboard.growth.subtitle')}</p>
+      <div class="growth-chart" id="growth-chart"></div>
+    </section>
+  </main>
+</Layout>
+
+<script define:vars={{ lang }}>
+  const isEn = lang === 'en';
+  const categoryLabels = {
+    about: isEn ? 'About' : '關於',
+    art: isEn ? 'Art' : '藝術',
+    culture: isEn ? 'Culture' : '文化',
+    economy: isEn ? 'Economy' : '經濟',
+    food: isEn ? 'Food' : '美食',
+    geography: isEn ? 'Geography' : '地理',
+    history: isEn ? 'History' : '歷史',
+    lifestyle: isEn ? 'Lifestyle' : '生活',
+    music: isEn ? 'Music' : '音樂',
+    nature: isEn ? 'Nature' : '自然',
+    people: isEn ? 'People' : '人物',
+    society: isEn ? 'Society' : '社會',
+    technology: isEn ? 'Technology' : '科技',
+  };
+
+  const langPrefix = isEn ? '/en' : '';
+
+  let allArticles = [];
+  let sortField = 'date';
+  let sortDir = -1; // -1 = desc
+
+  // ── Fetch all data ──
+  Promise.all([
+    fetch('/api/dashboard-articles.json').then((r) => r.json()),
+    fetch('/api/dashboard-vitals.json').then((r) => r.json()),
+    fetch('/api/dashboard-organism.json').then((r) => r.json()),
+    fetch('/api/dashboard-translations.json').then((r) => r.json()),
+  ]).then(([articles, vitals, organism, translations]) => {
+    allArticles = articles;
+    renderVitals(vitals);
+    renderRegistry(articles);
+    renderOrganism(organism);
+    renderTranslations(translations, vitals);
+    renderImmune(articles, vitals);
+    renderGrowth(articles);
+  });
+
+  // ── Vital Signs ──
+  function renderVitals(v) {
+    setText('vital-heartbeat', v.articlesLast7Days);
+    setText('vital-cells', v.totalArticles);
+    setText('vital-immunity', v.humanReviewedPercent + '%');
+    setText(
+      'vital-dna',
+      `${Object.keys(v.languageCoverage).length} ${isEn ? 'langs' : '語言'}`,
+    );
+    setText('vital-revision', '×' + v.avgRevision);
+    setText('vital-featured', v.featuredPercent + '%');
+  }
+
+  // ── Article Registry ──
+  function renderRegistry(articles) {
+    // Populate category filter
+    const cats = [...new Set(articles.map((a) => a.category))].sort();
+    const catSelect = document.getElementById('filter-category');
+    cats.forEach((c) => {
+      const opt = document.createElement('option');
+      opt.value = c;
+      opt.textContent = categoryLabels[c] || c;
+      catSelect.appendChild(opt);
+    });
+
+    renderTable(articles);
+    bindRegistryEvents();
+  }
+
+  function renderTable(articles) {
+    const tbody = document.getElementById('registry-body');
+    const sorted = [...articles].sort((a, b) => {
+      let va = a[sortField],
+        vb = b[sortField];
+      if (va == null) va = '';
+      if (vb == null) vb = '';
+      if (typeof va === 'string') return va.localeCompare(vb) * sortDir;
+      return (va > vb ? 1 : va < vb ? -1 : 0) * sortDir;
+    });
+
+    tbody.innerHTML = sorted
+      .map((a) => {
+        const catLabel = categoryLabels[a.category] || a.category;
+        const date = a.date || '—';
+        const reviewed = a.lastHumanReview ? '✅' : '—';
+        const langs = ['en', 'es', 'ja']
+          .map(
+            (l) =>
+              `<span class="lang-dot ${a.translations[l] ? 'has' : 'missing'}" title="${l.toUpperCase()}">${l.toUpperCase()}</span>`,
+          )
+          .join('');
+        const articleUrl = `${langPrefix}/${a.category}/${a.slug}`;
+        return `<tr class="registry-row" data-url="${articleUrl}" title="${(a.description || '').replace(/"/g, '&quot;')}">
+          <td class="col-title"><a href="${articleUrl}">${a.title}</a>${a.featured ? ' ⭐' : ''}</td>
+          <td><span class="cat-badge cat-${a.category}">${catLabel}</span></td>
+          <td>${date}</td>
+          <td class="col-center">${reviewed}</td>
+          <td class="col-right">${(a.wordCount || 0).toLocaleString()}</td>
+          <td class="col-center">${a.tagCount || 0}</td>
+          <td class="col-langs">${langs}</td>
+          <td class="col-center">${a.revision || 0}</td>
+        </tr>`;
+      })
+      .join('');
+
+    document.getElementById('registry-summary').textContent =
+      `${isEn ? 'Showing' : '顯示'} ${sorted.length} / ${allArticles.length} ${isEn ? 'articles' : '篇文章'}`;
+  }
+
+  function bindRegistryEvents() {
+    // Sort
+    document.querySelectorAll('.sortable').forEach((th) => {
+      th.addEventListener('click', () => {
+        const field = th.dataset.sort;
+        if (sortField === field) sortDir *= -1;
+        else {
+          sortField = field;
+          sortDir = -1;
+        }
+        document
+          .querySelectorAll('.sortable')
+          .forEach((h) => h.classList.remove('sort-asc', 'sort-desc'));
+        th.classList.add(sortDir === 1 ? 'sort-asc' : 'sort-desc');
+        applyFilters();
+      });
+    });
+
+    // Filters
+    [
+      'registry-search',
+      'filter-category',
+      'filter-reviewed',
+      'filter-featured',
+      'filter-translation',
+    ].forEach((id) => {
+      const el = document.getElementById(id);
+      el.addEventListener(
+        id === 'registry-search' ? 'input' : 'change',
+        debounce(applyFilters, 150),
+      );
+    });
+  }
+
+  function applyFilters() {
+    const search = document
+      .getElementById('registry-search')
+      .value.toLowerCase();
+    const cat = document.getElementById('filter-category').value;
+    const rev = document.getElementById('filter-reviewed').value;
+    const feat = document.getElementById('filter-featured').value;
+    const trans = document.getElementById('filter-translation').value;
+
+    const filtered = allArticles.filter((a) => {
+      if (
+        search &&
+        !a.title.toLowerCase().includes(search) &&
+        !(a.description || '').toLowerCase().includes(search) &&
+        !(a.tags || []).some((t) => t.toLowerCase().includes(search))
+      )
+        return false;
+      if (cat && a.category !== cat) return false;
+      if (rev === 'true' && !a.lastHumanReview) return false;
+      if (rev === 'false' && a.lastHumanReview) return false;
+      if (feat === 'true' && !a.featured) return false;
+      if (feat === 'false' && a.featured) return false;
+      if (trans === 'has-en' && !a.translations.en) return false;
+      if (trans === 'missing-en' && a.translations.en) return false;
+      return true;
+    });
+    renderTable(filtered);
+  }
+
+  // ── Organism Anatomy ──
+  function renderOrganism(data) {
+    const grid = document.getElementById('organ-grid');
+    grid.innerHTML = data.organs
+      .map((o) => {
+        const color =
+          o.score >= 70 ? '#4ade80' : o.score >= 40 ? '#facc15' : '#f87171';
+        const trendIcon =
+          o.trend === 'up' ? '↑' : o.trend === 'down' ? '↓' : '→';
+        const trendClass = o.trend;
+        return `<div class="organ-card">
+          <div class="organ-header">
+            <span class="organ-emoji">${o.emoji}</span>
+            <span class="organ-name">${isEn ? o.name : o.nameZh}</span>
+          </div>
+          <div class="organ-metaphor">${o.metaphor}</div>
+          <div class="organ-score-row">
+            <div class="organ-score" style="color:${color}">${o.score}</div>
+            <span class="organ-trend ${trendClass}">${trendIcon}</span>
+          </div>
+          <div class="organ-bar"><div class="organ-bar-fill" style="width:${o.score}%;background:${color}"></div></div>
+        </div>`;
+      })
+      .join('');
+  }
+
+  // ── Translation Coverage ──
+  function renderTranslations(data, vitals) {
+    const bars = document.getElementById('translation-bars');
+    const langNames = {
+      'zh-TW': '中文',
+      en: 'English',
+      es: 'Español',
+      ja: '日本語',
+    };
+    const langLabels = { 'zh-TW': 'SSOT', en: '', es: '', ja: '' };
+    const maxTotal = vitals.totalArticles;
+
+    bars.innerHTML = data.languages
+      .map((l) => {
+        const s = data.summary[l];
+        const pct = Math.min(s.percentage, 100);
+        const label =
+          langLabels[l] ||
+          (pct >= 90
+            ? isEn
+              ? 'Full'
+              : '完整'
+            : pct >= 20
+              ? isEn
+                ? 'Growing'
+                : '成長中'
+              : isEn
+                ? 'Seedling'
+                : '萌芽');
+        return `<div class="trans-bar-row">
+          <div class="trans-lang">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
+          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%"></div></div>
+          <div class="trans-count">${s.total} / ${maxTotal} (${s.percentage}%)</div>
+        </div>`;
+      })
+      .join('');
+
+    // Matrix
+    const cats = Object.keys(data.matrix)
+      .filter((c) => c !== 'about')
+      .sort();
+    const thead = document.getElementById('translation-matrix-head');
+    thead.innerHTML = `<tr><th>${isEn ? 'Category' : '分類'}</th>${data.languages.map((l) => `<th>${l}</th>`).join('')}</tr>`;
+    const tbody = document.getElementById('translation-matrix-body');
+    tbody.innerHTML = cats
+      .map((cat) => {
+        const row = data.matrix[cat];
+        const zhCount = row['zh-TW'] || 0;
+        return `<tr>
+          <td><strong>${categoryLabels[cat] || cat}</strong></td>
+          ${data.languages
+            .map((l) => {
+              const count = row[l] || 0;
+              const pct = zhCount > 0 ? Math.round((count / zhCount) * 100) : 0;
+              const cls =
+                l === 'zh-TW'
+                  ? 'cell-ssot'
+                  : pct >= 90
+                    ? 'cell-full'
+                    : pct >= 50
+                      ? 'cell-partial'
+                      : pct > 0
+                        ? 'cell-low'
+                        : 'cell-none';
+              return `<td class="matrix-cell ${cls}">${count}</td>`;
+            })
+            .join('')}
+        </tr>`;
+      })
+      .join('');
+  }
+
+  // ── Immune System ──
+  function renderImmune(articles, vitals) {
+    const overview = document.getElementById('immune-overview');
+    const reviewedCount = articles.filter((a) => a.lastHumanReview).length;
+    const featuredCount = articles.filter((a) => a.featured).length;
+    const verifiedCount = articles.filter((a) => a.lastVerified).length;
+    const total = articles.length;
+
+    overview.innerHTML = [
+      {
+        label: isEn ? 'Human Reviewed' : '人工審閱',
+        count: reviewedCount,
+        total,
+        color: '#4ade80',
+      },
+      {
+        label: isEn ? 'Featured' : '精選文章',
+        count: featuredCount,
+        total,
+        color: '#facc15',
+      },
+      {
+        label: isEn ? 'Verified' : '已驗證',
+        count: verifiedCount,
+        total,
+        color: '#60a5fa',
+      },
+    ]
+      .map((m) => {
+        const pct = Math.round((m.count / m.total) * 100);
+        return `<div class="immune-metric">
+        <div class="immune-metric-header"><span>${m.label}</span><span>${pct}% (${m.count}/${m.total})</span></div>
+        <div class="immune-bar"><div class="immune-bar-fill" style="width:${pct}%;background:${m.color}"></div></div>
+      </div>`;
+      })
+      .join('');
+
+    // Queue: unreviewed articles, oldest first
+    const queue = articles
+      .filter((a) => !a.lastHumanReview)
+      .sort((a, b) => (a.date || '').localeCompare(b.date || ''))
+      .slice(0, 15);
+
+    document.getElementById('immune-queue').innerHTML = queue
+      .map(
+        (
+          a,
+        ) => `<a href="${langPrefix}/${a.category}/${a.slug}" class="queue-item">
+        <span class="queue-cat cat-${a.category}">${categoryLabels[a.category] || a.category}</span>
+        <span class="queue-title">${a.title}</span>
+        <span class="queue-date">${a.date || '—'}</span>
+      </a>`,
+      )
+      .join('');
+  }
+
+  // ── Growth Timeline (simple bar chart) ──
+  function renderGrowth(articles) {
+    const chart = document.getElementById('growth-chart');
+    // Group by date
+    const byDate = {};
+    articles.forEach((a) => {
+      if (a.date) byDate[a.date] = (byDate[a.date] || 0) + 1;
+    });
+    const dates = Object.keys(byDate).sort();
+    if (dates.length === 0) {
+      chart.textContent = 'No data';
+      return;
+    }
+
+    const maxDaily = Math.max(...Object.values(byDate));
+    let cumulative = 0;
+
+    chart.innerHTML = `<div class="growth-bars">${dates
+      .map((d) => {
+        cumulative += byDate[d];
+        const h = Math.max(4, (byDate[d] / maxDaily) * 120);
+        return `<div class="growth-bar-col" title="${d}: +${byDate[d]} (${isEn ? 'total' : '累計'}: ${cumulative})">
+        <div class="growth-bar-value">${byDate[d]}</div>
+        <div class="growth-bar-bar" style="height:${h}px"></div>
+        <div class="growth-bar-date">${d.slice(5)}</div>
+      </div>`;
+      })
+      .join('')}</div>`;
+  }
+
+  // ── Utils ──
+  function setText(id, val) {
+    const el = document.getElementById(id);
+    if (el) el.textContent = val;
+  }
+
+  function debounce(fn, ms) {
+    let t;
+    return (...args) => {
+      clearTimeout(t);
+      t = setTimeout(() => fn(...args), ms);
+    };
+  }
+</script>
+
+<style>
+  /* ── Base ── */
+  .dashboard {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+  }
+
+  .hero {
+    text-align: center;
+    padding: 3rem 0 2rem;
+  }
+  .hero-title {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  .hero-emoji {
+    font-size: 1.8rem;
+  }
+  .hero-subtitle {
+    font-size: 1.1rem;
+    opacity: 0.7;
+    margin-bottom: 0.3rem;
+  }
+  .hero-desc {
+    opacity: 0.5;
+    font-size: 0.9rem;
+  }
+
+  .section {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  .section-title {
+    font-size: 1.5rem;
+    margin-bottom: 0.3rem;
+  }
+  .section-subtitle {
+    opacity: 0.6;
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+  }
+  .subsection-title {
+    font-size: 1.1rem;
+    margin: 1.5rem 0 0.8rem;
+  }
+
+  /* ── Vital Signs ── */
+  .vitals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+  }
+  .vital-card {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 1.2rem;
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  .vital-card:hover {
+    transform: translateY(-2px);
+  }
+  .vital-emoji {
+    font-size: 1.6rem;
+    margin-bottom: 0.4rem;
+  }
+  .vital-value {
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  .vital-label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-top: 0.3rem;
+  }
+  .vital-desc {
+    font-size: 0.75rem;
+    opacity: 0.5;
+    margin-top: 0.2rem;
+  }
+
+  /* ── Registry ── */
+  .registry-controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  .registry-search {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.6rem 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    font-size: 0.9rem;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(8px);
+  }
+  .registry-search:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+  }
+  .registry-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .registry-filter {
+    padding: 0.5rem 0.8rem;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-size: 0.8rem;
+    background: rgba(255, 255, 255, 0.6);
+    cursor: pointer;
+  }
+  .registry-summary {
+    font-size: 0.85rem;
+    opacity: 0.6;
+    margin-bottom: 0.8rem;
+  }
+  .registry-table-wrapper {
+    overflow-x: auto;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+  .registry-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  .registry-table thead {
+    background: rgba(0, 0, 0, 0.03);
+    position: sticky;
+    top: 0;
+  }
+  .registry-table th {
+    padding: 0.7rem 0.8rem;
+    text-align: left;
+    font-weight: 600;
+    font-size: 0.8rem;
+    white-space: nowrap;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+  }
+  .registry-table td {
+    padding: 0.55rem 0.8rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+  }
+  .registry-table tbody tr:hover {
+    background: rgba(59, 130, 246, 0.04);
+  }
+  .sortable {
+    cursor: pointer;
+    user-select: none;
+  }
+  .sortable:hover {
+    color: #3b82f6;
+  }
+  .sortable::after {
+    content: ' ↕';
+    opacity: 0.3;
+    font-size: 0.7rem;
+  }
+  .sortable.sort-asc::after {
+    content: ' ↑';
+    opacity: 1;
+  }
+  .sortable.sort-desc::after {
+    content: ' ↓';
+    opacity: 1;
+  }
+  .col-title a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .col-title a:hover {
+    color: #3b82f6;
+    text-decoration: underline;
+  }
+  .col-center {
+    text-align: center;
+  }
+  .col-right {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .cat-badge {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    background: rgba(0, 0, 0, 0.05);
+    white-space: nowrap;
+  }
+  .col-langs {
+    display: flex;
+    gap: 0.3rem;
+  }
+  .lang-dot {
+    font-size: 0.6rem;
+    padding: 0.1rem 0.3rem;
+    border-radius: 3px;
+    font-weight: 600;
+  }
+  .lang-dot.has {
+    background: #dcfce7;
+    color: #166534;
+  }
+  .lang-dot.missing {
+    background: rgba(0, 0, 0, 0.04);
+    color: rgba(0, 0, 0, 0.2);
+  }
+
+  /* ── Organism ── */
+  .organ-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+  }
+  .organ-card {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 1.2rem;
+    transition: transform 0.2s;
+  }
+  .organ-card:hover {
+    transform: translateY(-2px);
+  }
+  .organ-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.3rem;
+  }
+  .organ-emoji {
+    font-size: 1.5rem;
+  }
+  .organ-name {
+    font-weight: 700;
+    font-size: 1.1rem;
+  }
+  .organ-metaphor {
+    font-size: 0.8rem;
+    opacity: 0.5;
+    margin-bottom: 0.8rem;
+  }
+  .organ-score-row {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .organ-score {
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+  .organ-trend {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .organ-trend.up {
+    color: #4ade80;
+  }
+  .organ-trend.down {
+    color: #f87171;
+  }
+  .organ-trend.stable {
+    color: #94a3b8;
+  }
+  .organ-bar {
+    height: 6px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 3px;
+    overflow: hidden;
+  }
+  .organ-bar-fill {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.6s ease;
+  }
+
+  /* ── Translation ── */
+  .trans-bar-row {
+    display: grid;
+    grid-template-columns: 140px 1fr 140px;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.6rem;
+  }
+  .trans-lang {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+  .trans-badge {
+    font-size: 0.7rem;
+    font-weight: 400;
+    opacity: 0.5;
+    margin-left: 0.3rem;
+  }
+  .trans-bar {
+    height: 20px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .trans-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+    border-radius: 4px;
+    transition: width 0.6s ease;
+  }
+  .trans-count {
+    font-size: 0.8rem;
+    opacity: 0.6;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  .translation-matrix-wrapper {
+    overflow-x: auto;
+    margin-top: 1.5rem;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+  }
+  .translation-matrix {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+  .translation-matrix th,
+  .translation-matrix td {
+    padding: 0.5rem 0.8rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+  }
+  .translation-matrix th {
+    background: rgba(0, 0, 0, 0.03);
+    font-weight: 600;
+  }
+  .translation-matrix td:first-child {
+    text-align: left;
+  }
+  .matrix-cell.cell-ssot {
+    background: rgba(59, 130, 246, 0.08);
+    font-weight: 600;
+  }
+  .matrix-cell.cell-full {
+    background: rgba(74, 222, 128, 0.12);
+    color: #166534;
+  }
+  .matrix-cell.cell-partial {
+    background: rgba(250, 204, 21, 0.12);
+    color: #854d0e;
+  }
+  .matrix-cell.cell-low {
+    background: rgba(248, 113, 113, 0.08);
+    color: #991b1b;
+  }
+  .matrix-cell.cell-none {
+    opacity: 0.2;
+  }
+
+  /* ── Immune ── */
+  .immune-overview {
+    display: grid;
+    gap: 0.8rem;
+    margin-bottom: 1.5rem;
+  }
+  .immune-metric-header {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    margin-bottom: 0.3rem;
+  }
+  .immune-bar {
+    height: 8px;
+    background: rgba(0, 0, 0, 0.06);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .immune-bar-fill {
+    height: 100%;
+    border-radius: 4px;
+    transition: width 0.6s ease;
+  }
+  .defense-lines {
+    display: grid;
+    gap: 0.6rem;
+  }
+  .defense-line {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0.8rem;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    font-size: 0.85rem;
+  }
+  .defense-desc {
+    opacity: 0.5;
+    margin-left: auto;
+    font-size: 0.8rem;
+  }
+  .queue-desc {
+    font-size: 0.85rem;
+    opacity: 0.5;
+    margin-bottom: 0.8rem;
+  }
+  .immune-queue {
+    display: grid;
+    gap: 0.3rem;
+  }
+  .queue-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.5rem 0.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    font-size: 0.85rem;
+    border: 1px solid rgba(0, 0, 0, 0.04);
+    transition: background 0.15s;
+  }
+  .queue-item:hover {
+    background: rgba(59, 130, 246, 0.05);
+  }
+  .queue-cat {
+    font-size: 0.7rem;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0.05);
+    white-space: nowrap;
+  }
+  .queue-title {
+    flex: 1;
+  }
+  .queue-date {
+    opacity: 0.4;
+    font-size: 0.8rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ── Growth ── */
+  .growth-chart {
+    overflow-x: auto;
+  }
+  .growth-bars {
+    display: flex;
+    align-items: flex-end;
+    gap: 3px;
+    min-height: 160px;
+    padding-top: 20px;
+  }
+  .growth-bar-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+    min-width: 24px;
+  }
+  .growth-bar-value {
+    font-size: 0.65rem;
+    opacity: 0.5;
+    margin-bottom: 2px;
+    font-variant-numeric: tabular-nums;
+  }
+  .growth-bar-bar {
+    width: 100%;
+    max-width: 36px;
+    background: linear-gradient(180deg, #3b82f6, #8b5cf6);
+    border-radius: 3px 3px 0 0;
+    transition: height 0.4s ease;
+  }
+  .growth-bar-date {
+    font-size: 0.6rem;
+    opacity: 0.4;
+    margin-top: 4px;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    .dashboard {
+      padding: 1rem;
+    }
+    .hero-title {
+      font-size: 1.5rem;
+    }
+    .vitals-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .registry-controls {
+      flex-direction: column;
+    }
+    .registry-filters {
+      flex-wrap: wrap;
+    }
+    .trans-bar-row {
+      grid-template-columns: 100px 1fr 80px;
+      gap: 0.5rem;
+    }
+    .organ-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .defense-line {
+      flex-wrap: wrap;
+    }
+    .defense-desc {
+      margin-left: 0;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .vitals-grid {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0.6rem;
+    }
+    .vital-value {
+      font-size: 1.4rem;
+    }
+    .organ-grid {
+      grid-template-columns: 1fr;
+    }
+    .trans-bar-row {
+      grid-template-columns: 1fr;
+      gap: 0.2rem;
+    }
+    .trans-count {
+      text-align: left;
+    }
+  }
+</style>

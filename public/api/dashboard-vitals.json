@@ -1,0 +1,15 @@
+{
+  "lastUpdated": "2026-03-27T16:30:27.207Z",
+  "totalArticles": 415,
+  "articlesLast7Days": 201,
+  "articlesLast30Days": 410,
+  "humanReviewedPercent": 13.3,
+  "featuredPercent": 31.1,
+  "avgRevision": 4.8,
+  "languageCoverage": {
+    "zh-TW": 415,
+    "en": 485,
+    "es": 34,
+    "ja": 10
+  }
+}
