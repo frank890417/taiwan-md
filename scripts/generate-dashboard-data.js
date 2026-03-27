@@ -549,6 +549,46 @@ async function main() {
   // Skeleton: always 90
   const skeletonScore = 90;
 
+  // Breath (CI/CD): check if GitHub Actions workflows exist and are configured
+  const workflowDir = path.join(PROJECT_ROOT, '.github/workflows');
+  const workflowCount = fs.existsSync(workflowDir)
+    ? fs.readdirSync(workflowDir).filter((f) => f.endsWith('.yml')).length
+    : 0;
+  const breathScore = workflowCount >= 3 ? 85 : workflowCount >= 1 ? 60 : 20;
+
+  // Reproduce (community): count recent PRs/contributors via git shortlog
+  let recentContributors = 0;
+  try {
+    const shortlog = execSync('git shortlog -sn --since="30 days ago" HEAD', {
+      cwd: PROJECT_ROOT,
+      encoding: 'utf8',
+    });
+    recentContributors = shortlog.trim().split('\n').filter(Boolean).length;
+  } catch {}
+  const reproduceScore =
+    recentContributors >= 5
+      ? 85
+      : recentContributors >= 2
+        ? 60
+        : recentContributors >= 1
+          ? 40
+          : 15;
+
+  // Senses (perception): check if GA4, social links, issues templates exist
+  const hasGA = fs.existsSync(
+    path.join(PROJECT_ROOT, 'src/layouts/Layout.astro'),
+  );
+  const hasIssueTemplates = fs.existsSync(
+    path.join(PROJECT_ROOT, '.github/ISSUE_TEMPLATE'),
+  );
+  const sensesScore = (hasGA ? 40 : 0) + (hasIssueTemplates ? 30 : 0) + 20; // base 20 for git stars
+
+  // Translation coverage as a score
+  const translationPct = Math.round(
+    (languageCoverage.en / articles.length) * 100,
+  );
+  const translationScore = Math.min(translationPct, 100);
+
   const organism = {
     lastUpdated: now.toISOString(),
     organs: [
@@ -603,6 +643,46 @@ async function main() {
         score: skeletonScore,
         trend: 'stable',
         metrics: {},
+      },
+      {
+        id: 'breath',
+        name: 'Breath',
+        nameZh: '呼吸系統',
+        metaphor: '自動化循環',
+        emoji: '🫁',
+        score: breathScore,
+        trend: 'stable',
+        metrics: { workflowCount },
+      },
+      {
+        id: 'reproduce',
+        name: 'Reproduce',
+        nameZh: '繁殖系統',
+        metaphor: '社群繁殖力',
+        emoji: '🧫',
+        score: reproduceScore,
+        trend: recentContributors >= 3 ? 'up' : 'stable',
+        metrics: { recentContributors },
+      },
+      {
+        id: 'senses',
+        name: 'Senses',
+        nameZh: '感知器官',
+        metaphor: '外部感知',
+        emoji: '👁️',
+        score: sensesScore,
+        trend: 'stable',
+        metrics: { hasGA, hasIssueTemplates },
+      },
+      {
+        id: 'translation',
+        name: 'Translation',
+        nameZh: '語言器官',
+        metaphor: '多語言複製',
+        emoji: '🌐',
+        score: translationScore,
+        trend: translationPct >= 90 ? 'up' : 'stable',
+        metrics: { languageCoverage, translationPct },
       },
     ],
   };

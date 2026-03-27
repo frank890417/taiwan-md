@@ -214,6 +214,9 @@ const isEn = lang === 'en';
       <p class="section-subtitle">{t('dashboard.growth.subtitle')}</p>
       <div class="growth-chart" id="growth-chart"></div>
     </section>
+
+    <!-- Footer timestamp -->
+    <footer class="dashboard-footer" id="dashboard-footer"></footer>
   </main>
 </Layout>
 
@@ -255,6 +258,7 @@ const isEn = lang === 'en';
     renderTranslations(translations, vitals);
     renderImmune(articles, vitals);
     renderGrowth(articles);
+    renderFooter(vitals);
   });
 
   // ── Vital Signs ──
@@ -272,13 +276,17 @@ const isEn = lang === 'en';
 
   // ── Article Registry ──
   function renderRegistry(articles) {
-    // Populate category filter
-    const cats = [...new Set(articles.map((a) => a.category))].sort();
+    // Populate category filter with counts
+    const catCounts = {};
+    articles.forEach((a) => {
+      catCounts[a.category] = (catCounts[a.category] || 0) + 1;
+    });
+    const cats = Object.keys(catCounts).sort();
     const catSelect = document.getElementById('filter-category');
     cats.forEach((c) => {
       const opt = document.createElement('option');
       opt.value = c;
-      opt.textContent = categoryLabels[c] || c;
+      opt.textContent = `${categoryLabels[c] || c} (${catCounts[c]})`;
       catSelect.appendChild(opt);
     });
 
@@ -431,13 +439,14 @@ const isEn = lang === 'en';
       .map((l) => {
         const s = data.summary[l];
         const pct = Math.min(s.percentage, 100);
+        const displayPct = s.percentage > 100 ? '100%+' : s.percentage + '%';
         const label =
           langLabels[l] ||
-          (pct >= 90
+          (s.percentage >= 90
             ? isEn
-              ? 'Full'
-              : '完整'
-            : pct >= 20
+              ? 'Full Coverage'
+              : '完整覆蓋'
+            : s.percentage >= 20
               ? isEn
                 ? 'Growing'
                 : '成長中'
@@ -447,7 +456,7 @@ const isEn = lang === 'en';
         return `<div class="trans-bar-row">
           <div class="trans-lang">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
           <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%"></div></div>
-          <div class="trans-count">${s.total} / ${maxTotal} (${s.percentage}%)</div>
+          <div class="trans-count">${s.total} / ${maxTotal} (${displayPct})</div>
         </div>`;
       })
       .join('');
@@ -525,10 +534,15 @@ const isEn = lang === 'en';
       .join('');
 
     // Queue: unreviewed articles, oldest first
-    const queue = articles
-      .filter((a) => !a.lastHumanReview)
+    const unreviewed = articles.filter((a) => !a.lastHumanReview);
+    const queue = [...unreviewed]
       .sort((a, b) => (a.date || '').localeCompare(b.date || ''))
       .slice(0, 15);
+
+    const queueHeader = document.querySelector('.queue-desc');
+    if (queueHeader) {
+      queueHeader.textContent += ` (${unreviewed.length} ${isEn ? 'total' : '篇待審'})`;
+    }
 
     document.getElementById('immune-queue').innerHTML = queue
       .map(
@@ -571,6 +585,21 @@ const isEn = lang === 'en';
       </div>`;
       })
       .join('')}</div>`;
+  }
+
+  // ── Footer ──
+  function renderFooter(vitals) {
+    const el = document.getElementById('dashboard-footer');
+    if (!el) return;
+    const d = new Date(vitals.lastUpdated || Date.now());
+    const formatted = d.toLocaleDateString(isEn ? 'en-US' : 'zh-TW', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+    });
+    el.textContent = `${isEn ? 'Data generated' : '數據產生於'} ${formatted}`;
   }
 
   // ── Utils ──
@@ -716,6 +745,8 @@ const isEn = lang === 'en';
   }
   .registry-table-wrapper {
     overflow-x: auto;
+    max-height: 70vh;
+    overflow-y: auto;
     border-radius: 12px;
     border: 1px solid rgba(0, 0, 0, 0.06);
   }
@@ -725,9 +756,11 @@ const isEn = lang === 'en';
     font-size: 0.85rem;
   }
   .registry-table thead {
-    background: rgba(0, 0, 0, 0.03);
+    background: rgba(245, 245, 245, 0.95);
+    backdrop-filter: blur(8px);
     position: sticky;
     top: 0;
+    z-index: 1;
   }
   .registry-table th {
     padding: 0.7rem 0.8rem;
@@ -1077,6 +1110,14 @@ const isEn = lang === 'en';
     margin-top: 4px;
     writing-mode: vertical-rl;
     text-orientation: mixed;
+  }
+
+  /* ── Footer ── */
+  .dashboard-footer {
+    text-align: center;
+    padding: 2rem 0 0;
+    font-size: 0.8rem;
+    opacity: 0.35;
   }
 
   /* ── Responsive ── */

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T16:30:27.207Z",
+  "lastUpdated": "2026-03-27T16:43:25.228Z",
   "organs": [
     {
       "id": "heart",
@@ -50,6 +50,61 @@
       "score": 90,
       "trend": "stable",
       "metrics": {}
+    },
+    {
+      "id": "breath",
+      "name": "Breath",
+      "nameZh": "呼吸系統",
+      "metaphor": "自動化循環",
+      "emoji": "🫁",
+      "score": 85,
+      "trend": "stable",
+      "metrics": {
+        "workflowCount": 3
+      }
+    },
+    {
+      "id": "reproduce",
+      "name": "Reproduce",
+      "nameZh": "繁殖系統",
+      "metaphor": "社群繁殖力",
+      "emoji": "🧫",
+      "score": 85,
+      "trend": "up",
+      "metrics": {
+        "recentContributors": 46
+      }
+    },
+    {
+      "id": "senses",
+      "name": "Senses",
+      "nameZh": "感知器官",
+      "metaphor": "外部感知",
+      "emoji": "👁️",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {
+        "hasGA": true,
+        "hasIssueTemplates": true
+      }
+    },
+    {
+      "id": "translation",
+      "name": "Translation",
+      "nameZh": "語言器官",
+      "metaphor": "多語言複製",
+      "emoji": "🌐",
+      "score": 100,
+      "trend": "up",
+      "metrics": {
+        "languageCoverage": {
+          "zh-TW": 415,
+          "en": 485,
+          "es": 34,
+          "ja": 10
+        },
+        "translationPct": 117
+      }
     }
   ]
 }
