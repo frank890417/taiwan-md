@@ -98,7 +98,7 @@ Taiwán tiene un desempeño excelente en las clasificaciones internacionales de 
 
 - [[democratic-system]]
 - [[Martial Law Period]]
-- [[democracy-and-democratization]]
+- [[taiwan-democratization]]
 - [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrants)]]
 
 ---

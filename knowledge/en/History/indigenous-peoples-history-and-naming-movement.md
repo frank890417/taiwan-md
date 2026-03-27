@@ -2,11 +2,18 @@
 title: "Indigenous Peoples' History and Naming Rights Movement"
 description: "From 'barbarians' to 'Indigenous peoples' - a centuries-long struggle for identity recognition and dignity"
 date: 2026-03-20
-tags: ["Indigenous peoples", "naming rights movement", "identity", "social movements", "cultural preservation"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'Indigenous peoples',
+    'naming rights movement',
+    'identity',
+    'social movements',
+    'cultural preservation',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
@@ -91,6 +98,7 @@ But naming is only the first step. True equality and respect require everyone's 
 ---
 
 Further Reading:
-- [Martial Law Period](/en/history/martial-law-era) 
-- [Democratization](/en/history/democracy-and-democratization)
+
+- [Martial Law Period](/en/history/martial-law-era)
+- [Democratization](/en/history/taiwan-democratization)
 - [Taiwan's Five Major Landforms and Geographic Structure](/en/geography/taiwan-five-major-landforms-and-geographic-structure)

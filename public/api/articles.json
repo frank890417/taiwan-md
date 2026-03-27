@@ -17,6 +17,24 @@
     "path": "en/History/228-incident.md"
   },
   {
+    "title": "九天玄女：從黃帝的軍師到台灣陣頭少年的守護神",
+    "description": "一個高中畢業的廟會團長，被文建會評審羞辱了十幾年，花11年拿到博士，只為證明帶中輟生打鼓也是藝術。他背後站的，是一位四千年前教黃帝打仗的女神。",
+    "category": "Culture",
+    "tags": [
+      "九天玄女",
+      "陣頭",
+      "九天民俗技藝團",
+      "民間信仰",
+      "廟宇文化",
+      "許振榮"
+    ],
+    "url": "https://taiwan.md/Culture/%E4%B9%9D%E5%A4%A9%E7%8E%84%E5%A5%B3%E4%BF%A1%E4%BB%B0",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "Culture/九天玄女信仰.md"
+  },
+  {
     "title": "二二八事件",
     "description": "一個寡婦的私菸攤，如何點燃一座島嶼38年的沉默——1947年改變台灣命運的十天",
     "category": "History",
@@ -93,7 +111,7 @@
     "category": "Lifestyle",
     "tags": ["小綠人", "行人號誌", "交通設計", "台灣文化", "都市設計"],
     "url": "https://taiwan.md/Lifestyle/%E5%B0%8F%E7%B6%A0%E4%BA%BA",
-    "readingTime": 9,
+    "readingTime": 10,
     "featured": false,
     "date": "2026-03-24",
     "path": "Lifestyle/小綠人.md"
@@ -248,6 +266,24 @@
     "path": "People/麟洋配.md"
   },
   {
+    "title": "半導体産業",
+    "description": "モリス・チャンの歴史的な賭けから2ナノメートル時代へ：TSMCはいかにして台湾を世界の技術的命脈にしたか",
+    "category": "ja",
+    "tags": [
+      "半導体",
+      "TSMC",
+      "台積電",
+      "先端プロセス",
+      "テックアイランド",
+      "シリコンシールド"
+    ],
+    "url": "https://taiwan.md/ja/Technology/semiconductor-industry",
+    "readingTime": 31,
+    "featured": true,
+    "date": "2026-03-17",
+    "path": "ja/Technology/semiconductor-industry.md"
+  },
+  {
     "title": "半導體產業",
     "description": "從張忠謀的歷史賭注到2奈米時代：台積電如何讓台灣成為全球科技命脈",
     "category": "Technology",
@@ -292,6 +328,17 @@
     "path": "ja/Food/beef-noodle-soup.md"
   },
   {
+    "title": "台湾企業：TSMC（台湾積体電路製造）",
+    "description": "56歳の男が1987年に「世界誰も試みたことのない」会社を創業し、それが地球上で最も重要な工場になるまで",
+    "category": "ja",
+    "tags": ["Economy", "企業", "半導体", "テクノロジー", "製造業", "TSMC"],
+    "url": "https://taiwan.md/ja/Economy/tsmc-taiwan-semiconductor",
+    "readingTime": 29,
+    "featured": true,
+    "date": "2026-03-25",
+    "path": "ja/Economy/tsmc-taiwan-semiconductor.md"
+  },
+  {
     "title": "台湾の宗教と寺廟文化",
     "description": "媽祖巡行から仏道融合まで——台湾の寺廟がいかに信仰・コミュニティ・文化の生活の中心となっているか",
     "category": "ja",
@@ -326,24 +373,21 @@
   },
   {
     "title": "台灣小吃",
-    "description": "從田邊挑夫到全球珍奶帝國——島嶼多元文化在一口一口中完成最成功的融合實驗",
+    "description": "1987年春水堂的一個失誤，讓珍珠奶茶走進60國市場。台灣小吃從清代移民的生存工具，到今天23.3萬個攤位撐起的4000億產業：它的成功方程式不是精緻化，而是那種「管它的，先試試看」的草根勇氣。",
     "category": "Food",
-    "tags": ["Food", "小吃", "街頭美食", "夜市", "台灣料理", "文化軟實力"],
-    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83-rewrite",
-    "readingTime": 12,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "Food/台灣小吃-rewrite.md"
-  },
-  {
-    "title": "台灣小吃",
-    "description": "豐富多元的台灣小吃文化，融合閩南、客家、外省、原住民與現代創新的美食傳統",
-    "category": "Food",
-    "tags": ["Food", "小吃", "街頭美食", "夜市", "台灣料理"],
+    "tags": [
+      "Food",
+      "小吃",
+      "街頭美食",
+      "夜市",
+      "台灣料理",
+      "文化軟實力",
+      "移民飲食"
+    ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83",
-    "readingTime": 8,
-    "featured": true,
-    "date": "2026-03-17",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-28",
     "path": "Food/台灣小吃.md"
   },
   {
@@ -918,17 +962,6 @@
     "path": "Society/台灣在國際標準中的標示問題.md"
   },
   {
-    "title": "台灣地方小吃地圖：移民血脈中的味覺密碼",
-    "description": "一碗基隆鼎邊糊記錄著福州漁民的流浪，一個彰化肉圓見證了清代移民的創新。22個縣市，22種生存智慧——台灣地方小吃不只是美食，是刻在土地上的民族遷徙史。",
-    "category": "Food",
-    "tags": ["地方小吃", "移民文化", "族群融合", "台灣美食史", "文化地理"],
-    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%96%B9%E5%B0%8F%E5%90%83%E5%9C%B0%E5%9C%96",
-    "readingTime": 14,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "Food/台灣地方小吃地圖.md"
-  },
-  {
     "title": "台灣早餐文化",
     "description": "從蛋餅燒餅油條到永和豆漿的全球擴張，早餐店阿姨與台灣人的晨間儀式",
     "category": "Food",
@@ -1064,28 +1097,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Food/台灣咖啡產業.md"
-  },
-  {
-    "title": "台灣夜市小吃圖鑑",
-    "description": "當天色暗下，摩托車引擎聲消失在巷弄裡時，另一座城市開始甦醒——這是臭豆腐、蚵仔煎與人情味交織的療癒宇宙",
-    "category": "Food",
-    "tags": ["夜市", "小吃", "街頭美食", "庶民文化", "台灣味"],
-    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82%E5%B0%8F%E5%90%83%E5%9C%96%E9%91%91",
-    "readingTime": 29,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "Food/台灣夜市小吃圖鑑.md"
-  },
-  {
-    "title": "台灣夜市文化與小吃風情",
-    "description": "深度探索台灣夜市文化的形成背景、獨特魅力，以及代表性小吃的歷史故事與文化意義",
-    "category": "Culture",
-    "tags": ["夜市", "小吃", "庶民文化", "飲食文化", "觀夜生活", "社交文化"],
-    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%A4%9C%E5%B8%82%E6%96%87%E5%8C%96%E8%88%87%E5%B0%8F%E5%90%83%E9%A2%A8%E6%83%85",
-    "readingTime": 20,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "Culture/台灣夜市文化與小吃風情.md"
   },
   {
     "title": "台灣宗教與寺廟文化",
@@ -1912,17 +1923,9 @@
     "title": "台灣森林開發史：從資源榨取到國土保安的世紀轉向",
     "description": "從清領時期的樟腦煙雲，到日治時期的鋼軌鳴響，再到戰後震撼山壑的大伐木時代。本文梳理台灣森林開發政策背後的全球地緣政治邏輯，並以數據釐清百年林業的真實真相。",
     "category": "History",
-    "tags": [
-      "林業政策",
-      "森林鐵路",
-      "以林養政",
-      "樟腦",
-      "禁伐政策",
-      "世界史觀",
-      "地緣政治"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E9%96%8B%E7%99%BC%E5%8F%B2",
-    "readingTime": 9,
+    "readingTime": 13,
     "featured": false,
     "date": "2026-03-25",
     "path": "History/台灣森林開發史.md"
@@ -2712,14 +2715,32 @@
     "path": "History/史前時代與原住民.md"
   },
   {
+    "title": "巧固球：台灣隱形的43年世界冠軍",
+    "description": "1977年一位台灣教授從英國帶回一組網架，意外讓瑞士發明的「君子球」在台灣校園生根。40多年後，台灣隊穩居世界第一、國際總會設在高雄，卻仍是大多數台灣人陌生的冷門運動。",
+    "category": "Culture",
+    "tags": [
+      "巧固球",
+      "Tchoukball",
+      "台灣運動",
+      "君子球",
+      "世界冠軍",
+      "校園體育"
+    ],
+    "url": "https://taiwan.md/Culture/%E5%B7%A7%E5%9B%BA%E7%90%83",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "Culture/巧固球.md"
+  },
+  {
     "title": "民主化",
-    "description": "1987年蔣經國一句「我是中國人，但我也是台灣人」，配上解嚴令，讓這座島嶼從38年戒嚴走向自由民主。但真正讓人驚訝的不是這個轉變有多快，而是它竟然沒有流血。在東歐革命、阿拉伯之春都伴隨暴力的年代，台灣憑什麼做到「寧靜革命」？",
+    "description": "1980年3月18日，高雄軍事法庭上，施明德放棄了六萬字答辯書，改口要求法官判他死刑。同一場審判中，替被告辯護的年輕律師陳水扁、謝長廷、蘇貞昌，二十年後全部當上了總統或行政院長。一場本該殺雞儆猴的審判，意外製造了台灣下一個世代的政治領袖。",
     "category": "History",
-    "tags": ["歷史", "民主化", "政治"],
+    "tags": ["歷史", "民主化", "政治", "美麗島事件", "野百合學運"],
     "url": "https://taiwan.md/History/%E6%B0%91%E4%B8%BB%E5%8C%96",
-    "readingTime": 16,
+    "readingTime": 20,
     "featured": true,
-    "date": "2026-03-23",
+    "date": "2026-03-27",
     "path": "History/民主化.md"
   },
   {
@@ -3309,6 +3330,17 @@
     "path": "People/林百里.md"
   },
   {
+    "title": "林良：永遠的小太陽",
+    "description": "一位帶著廈門口音的國語推行員，如何在《國語日報》深耕 57 年，用「淺語的藝術」為台灣孩子織出一塊溫柔的底布？",
+    "category": "People",
+    "tags": ["兒童文學", "作家", "國語日報", "親子", "文化開創者", "小太陽"],
+    "url": "https://taiwan.md/People/%E6%9E%97%E8%89%AF",
+    "readingTime": 6,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "People/林良.md"
+  },
+  {
     "title": "林青霞",
     "description": "瓊瑤電影女王轉型武俠經典，華語影壇傳奇女星",
     "category": "People",
@@ -3512,14 +3544,34 @@
     "path": "People/施振榮.md"
   },
   {
+    "title": "洪醒夫：提早隕落的鄉土文學巨星",
+    "description": "1949年出生於彰化二林貧苦農家的洪醒夫，18歲發表第一篇小說，33歲因車禍離世前以小學教師身份創作鄉土文學，用短短15年寫出《黑面慶仔》、《吾土》、《散戲》等經典，捕捉台灣農村從農業到工商轉型的真實面貌，被文友戲稱「洪醒夫斯基」，成為戰後台灣文學不可磨滅的田莊之聲。",
+    "category": "People",
+    "tags": [
+      "鄉土文學",
+      "作家",
+      "小說家",
+      "彰化",
+      "農村文學",
+      "台灣文學",
+      "田莊人",
+      "教師作家"
+    ],
+    "url": "https://taiwan.md/People/%E6%B4%AA%E9%86%92%E5%A4%AB",
+    "readingTime": 4,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "People/洪醒夫.md"
+  },
+  {
     "title": "流行音樂與金曲獎",
-    "description": "1990年第一屆金曲獎只有12個獎項，沒有紅毯、沒有直播，在台視攝影棚匆匆頒完獎就結束。34年後，金曲獎變成「華語葛萊美」，一張門票炒到10萬元。但真正改變台灣音樂的不是獎項，而是那些在小pub裡演出的獨立樂團，和夜市攤位上播放的台語歌。",
+    "description": "1982年，蔡琴寫了封8頁的信給宋楚瑜，把獎項類別都列好了。八年後金曲獎誕生。34年後，一個排灣族語專輯打敗所有人拿下年度最佳——那不是一個關於獎項的故事，而是一個關於什麼聲音值得被聽見的故事。",
     "category": "Music",
     "tags": ["金曲獎", "流行音樂", "獨立音樂", "原住民音樂", "華語音樂"],
     "url": "https://taiwan.md/Music/%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E8%88%87%E9%87%91%E6%9B%B2%E7%8D%8E",
-    "readingTime": 21,
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-03-23",
+    "date": "2026-03-28",
     "path": "Music/流行音樂與金曲獎.md"
   },
   {
@@ -4747,6 +4799,17 @@
     "path": "Nature/臺灣的鯨豚.md"
   },
   {
+    "title": "臺灣島史觀：被反覆統治的島，如何發明自己的主體性",
+    "description": "台灣不是大陸帝國的最後一片拼圖，而是太平洋海洋網絡的第一塊基石。從曹永和的「以地範史」出發，重新理解這座島嶼的生命力。",
+    "category": "History",
+    "tags": ["歷史", "島嶼", "史觀", "曹永和", "海洋"],
+    "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80",
+    "readingTime": 17,
+    "featured": true,
+    "date": "2026-03-27",
+    "path": "History/台灣島史觀.md"
+  },
+  {
     "title": "語言多樣性與母語文化",
     "description": "從台語、客家話到原住民語，台灣如何在多語社會中保存與發展母語文化",
     "category": "Culture",
@@ -4767,6 +4830,17 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "Economy/台灣企業：遠東集團.md"
+  },
+  {
+    "title": "関聖帝君：敗れた将軍はいかにして台湾の万能神となったか",
+    "description": "三国時代の武将・関羽は戦に敗れ斬首されたにもかかわらず、台湾では世界に類を見ない「恩主公（エンジュコン）」信仰へと進化した。そして全台湾でもっとも賑わう関帝廟は、線香を一本も焚かせない。",
+    "category": "ja",
+    "tags": ["関聖帝君", "恩主公", "行天宮", "民間信仰", "廟宇文化"],
+    "url": "https://taiwan.md/ja/Culture/guan-sheng-di-jun-belief",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-26",
+    "path": "ja/Culture/guan-sheng-di-jun-belief.md"
   },
   {
     "title": "齊柏林",
@@ -4927,6 +5001,24 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/鄭兆村.md"
+  },
+  {
+    "title": "鄭成功",
+    "description": "一個中日混血海盜之子，用十六年抗清、九個月攻台、五個月建國，然後在三十七歲暴斃——他的名字至今被四個政權爭相認領",
+    "category": "People",
+    "tags": [
+      "鄭成功",
+      "明鄭",
+      "荷蘭東印度公司",
+      "台灣歷史",
+      "海上帝國",
+      "熱蘭遮城"
+    ],
+    "url": "https://taiwan.md/People/%E9%84%AD%E6%88%90%E5%8A%9F",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "People/鄭成功.md"
   },
   {
     "title": "鄭南榕",
@@ -5098,7 +5190,7 @@
       "肉牛產業"
     ],
     "url": "https://taiwan.md/History/%E6%BA%90%E8%88%88%E7%89%9B%E8%88%87%E7%89%9B%E8%82%89%E6%B9%AF%E7%9A%84%E6%AD%B7%E5%8F%B2",
-    "readingTime": 17,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-25",
     "path": "History/源興牛與牛肉湯的歷史.md"
@@ -5164,6 +5256,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/鍾理和.md"
+  },
+  {
+    "title": "擲筊：在 50% 的機率背後，聽見神明的聲音",
+    "description": "從嘉義竹頭筊職人黃奕薰的堅持，到屏東慈天宮 20 個聖筊的 300 萬傳奇，探討台灣人與神明溝通的機率與溫度。",
+    "category": "Culture",
+    "tags": ["民間信仰", "傳統工藝", "擲筊"],
+    "url": "https://taiwan.md/Culture/%E6%93%B2%E7%AD%8A",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "Culture/擲筊.md"
   },
   {
     "title": "簡立峰",
@@ -6261,17 +6364,6 @@
     "path": "en/Economy/delta-electronics-taiwan-power-giant.md"
   },
   {
-    "title": "democracy-and-democratization",
-    "description": "Taiwan's successful democratization holds significant historical and contemporary importance. It proves that Chinese soc",
-    "category": "en",
-    "tags": ["history", "democratization", "politics"],
-    "url": "https://taiwan.md/en/History/democracy-and-democratization",
-    "readingTime": 30,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/History/democracy-and-democratization.md"
-  },
-  {
     "title": "Democratic System",
     "description": "Taiwan's journey from authoritarian rule to democratic institutions, establishing a complete democratic system through lifting martial law, presidential direct elections, and other phases",
     "category": "en",
@@ -6770,6 +6862,17 @@
     "path": "es/History/qing-dynasty-rule.md"
   },
   {
+    "title": "Guan Sheng Di Jun: How a Defeated General Became Taiwan's God of Everything",
+    "description": "Three Kingdoms warrior Guan Yu died a prisoner, his head taken by an enemy. Seventeen centuries later, he commands the most-visited temple in Taiwan — one that banned incense. How a Chinese general became a uniquely Taiwanese deity.",
+    "category": "en",
+    "tags": ["關聖帝君", "恩主公", "行天宮", "民間信仰", "廟宇文化"],
+    "url": "https://taiwan.md/en/Culture/guan-sheng-di-jun-belief",
+    "readingTime": 65,
+    "featured": false,
+    "date": "2026-03-26",
+    "path": "en/Culture/guan-sheng-di-jun-belief.md"
+  },
+  {
     "title": "Gwei Lun-Mei",
     "description": "From 'Secret' to international film festivals, a low-key method actress who represents Taiwan's new generation of cinema talent",
     "category": "en",
@@ -7203,13 +7306,7 @@
     "title": "Indigenous Peoples' History and Naming Rights Movement",
     "description": "From 'barbarians' to 'Indigenous peoples' - a centuries-long struggle for identity recognition and dignity",
     "category": "en",
-    "tags": [
-      "Indigenous peoples",
-      "naming rights movement",
-      "identity",
-      "social movements",
-      "cultural preservation"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/en/History/indigenous-peoples-history-and-naming-movement",
     "readingTime": 33,
     "featured": false,
@@ -7386,6 +7483,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/jimmy-liao.md"
+  },
+  {
+    "title": "Jiutian Xuannu: The War Goddess Who Became a Patron of Teenage Dropouts",
+    "description": "A temple troupe leader with only a high school diploma spent 11 years earning a PhD — because government reviewers kept telling him that teaching dropout kids to drum was not art. Behind him stood a goddess who taught the Yellow Emperor how to win a war.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Culture/jiutian-xuannu-belief",
+    "readingTime": 47,
+    "featured": false,
+    "date": "2026-03-27",
+    "path": "en/Culture/jiutian-xuannu-belief.md"
   },
   {
     "title": "JJ Lin (Lin Jun Jie)",
@@ -7783,28 +7891,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "en/Culture/loanwords-and-language-contact-in-taiwan.md"
-  },
-  {
-    "title": "Local Street Food Map of Taiwan",
-    "description": "From Keelung temple mouths ding-bian-hu to Pingtung Wanluan pig knuckles, from Hsinchu meatballs to Taitung custard apples, every city has its unique culinary DNA. Follow the footsteps of locals to explore the most representative local delicacies of Taiwan's 22 counties and cities, savoring the most authentic folk culture of this island.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/local-street-food-map-of-taiwan",
-    "readingTime": 73,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Food/local-street-food-map-of-taiwan.md"
-  },
-  {
-    "title": "Local Taiwanese Street Food Map",
-    "description": "From Keelung Miaokou''s \"ding bian cu\" (rice noodle soup) to Pingtung Wanluan''s braised pork knuckle, from Hsinchu''s fish balls to Taitung''s custard apple, each city has its own unique culinary DNA. Follow the footsteps of locals to discover the most representative local street foods of Taiwan''s 22 counties and cities, savoring the island''s most authentic folk culture.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/local-taiwanese-street-food-map",
-    "readingTime": 72,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Food/local-taiwanese-street-food-map.md"
   },
   {
     "title": "Lu Guan-wei: From Medical School to Education Revolutionary",
@@ -9198,13 +9284,13 @@
   },
   {
     "title": "Taiwan Democratization",
-    "description": "The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan's democratic transition—but at what cost of youth and freedom?",
+    "description": "On March 18, 1980, Shih Ming-teh abandoned his 60,000-character defense statement in a Kaohsiung military court and asked the judge to sentence him to death. The young lawyers defending the accused—Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang—all became president or premier within twenty years. A show trial meant to crush dissent accidentally manufactured Taiwan's next generation of political leaders.",
     "category": "en",
-    "tags": ["history", "democratization", "politics"],
+    "tags": [],
     "url": "https://taiwan.md/en/History/taiwan-democratization",
-    "readingTime": 49,
+    "readingTime": 56,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-03-27",
     "path": "en/History/taiwan-democratization.md"
   },
   {
@@ -9619,6 +9705,17 @@
     "path": "en/Food/taiwan-indigenous-foodways.md"
   },
   {
+    "title": "Taiwan Island Historiography: The Island that Learned to Invent Its Own Subjectivity",
+    "description": "Not the last puzzle piece of a continent, but the first node of a maritime network: Ts’ao Yung-ho’s island-centered lens reframes Taiwan’s history.",
+    "category": "en",
+    "tags": ["history", "island", "historiography", "maritime", "tsao-yung-ho"],
+    "url": "https://taiwan.md/en/History/taiwan-island-historiography",
+    "readingTime": 29,
+    "featured": true,
+    "date": "2026-03-27",
+    "path": "en/History/taiwan-island-historiography.md"
+  },
+  {
     "title": "Taiwan Leopard Cat Conservation",
     "description": "Taiwan’s last native wild cat is down to fewer than 500 individuals—an urgent test of whether development can coexist with biodiversity",
     "category": "en",
@@ -9805,68 +9902,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Art/new-media-art-in-taiwan.md"
-  },
-  {
-    "title": "Taiwan Night Market Culture",
-    "description": "164 official night markets, Tainan averaging one night market per 38,000 people - from temple courtyards to international tourist attractions",
-    "category": "en",
-    "tags": [
-      "Night Markets",
-      "Street Food",
-      "Culture",
-      "Tourism",
-      "Grassroots Life"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-night-market-culture",
-    "readingTime": 66,
-    "featured": false,
-    "date": "2026-03-21",
-    "path": "en/Food/taiwan-night-market-culture.md"
-  },
-  {
-    "title": "Taiwan Night Market Culture and Street Food",
-    "description": "Deep exploration of Taiwan night market culture formation, unique charm, and historical stories and cultural significance of representative street foods",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-night-market-culture-and-street-food",
-    "readingTime": 67,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-night-market-culture-and-street-food.md"
-  },
-  {
-    "title": "Taiwan Night Market Food Guide",
-    "description": "When the sun sets and motorcycle engines fade into alleys, another city awakens—a healing universe where stinky tofu, oyster omelets, and human warmth converge",
-    "category": "en",
-    "tags": [
-      "night market",
-      "street food",
-      "taiwanese cuisine",
-      "food culture",
-      "local delicacy"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-night-market-food-guide",
-    "readingTime": 88,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "en/Food/taiwan-night-market-food-guide.md"
-  },
-  {
-    "title": "Taiwan Night Market Street Food Guide",
-    "description": "Stinky tofu, large sausage wrapping small sausage, fried chicken, sweet potato balls and other night market classics showcase Taiwan's grassroots culinary creativity and vitality",
-    "category": "en",
-    "tags": [
-      "Night Markets",
-      "Street Food",
-      "Street Snacks",
-      "Grassroots Culture",
-      "Taiwanese Flavors"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-night-market-street-food-guide",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwan-night-market-street-food-guide.md"
   },
   {
     "title": "Taiwan Official Website Resources",

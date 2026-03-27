@@ -196,6 +196,6 @@ Although starting later than some peers, Taiwan relies on its solid technical fo
 
 _Read More:_
 
-- [Economic Miracle](../Economy/economic-miracle.md)
-- [Science Park Development](../Technology/science-park-development.md)
-- [AI Industry](../Technology/artificial-intelligence-industry.md)
+- [[Economic Miracle]]
+- [[Science Park Development]]
+- [[AI and Artificial Intelligence Industry]]

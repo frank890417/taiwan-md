@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js && node scripts/build-search-index.mjs",
+    "prebuild": "node scripts/generate-api.js && node scripts/generate-map-markers.js && node scripts/build-search-index.mjs && node scripts/generate-dashboard-data.js",
     "build": "astro build",
     "test": "node scripts/test-frontmatter.mjs",
     "test:ci": "node scripts/test-frontmatter.mjs --ci",

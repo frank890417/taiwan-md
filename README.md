@@ -43,17 +43,17 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 | Metric                   | Count |
 | ------------------------ | ----- |
-| 📄 Total articles        | 930+  |
-| 🇹🇼 Chinese (zh-TW)       | 403   |
-| 🇺🇸 English (en)          | 489   |
+| 📄 Total articles        | 970+  |
+| 🇹🇼 Chinese (zh-TW)       | 453   |
+| 🇺🇸 English (en)          | 518   |
 | 🇪🇸 Español (es)          | 34    |
 | 🇯🇵 日本語 (ja)           | 7     |
 | 📂 Categories            | 13    |
 | 🕸️ Knowledge graph nodes | 220+  |
 | 🔗 Resource websites     | 146+  |
-| 👥 Contributors          | 30    |
-| ⭐ GitHub Stars          | 854   |
-| 🍴 Forks                 | 109   |
+| 👥 Contributors          | 40+   |
+| ⭐ GitHub Stars          | 888   |
+| 🍴 Forks                 | 120   |
 
 ---
 
@@ -385,6 +385,8 @@ Thanks to these wonderful people ([emoji key](https://allcontributors.org/docs/e
   <tr>
     <td align="center"><a href="https://github.com/AgendaLu"><img src="https://avatars.githubusercontent.com/u/43836432?v=4" width="100px;" alt=""/><br /><sub><b>YiChengLu</b></sub></a><br />🖋️</td>
     <td align="center"><a href="https://github.com/iigmir"><img src="https://avatars.githubusercontent.com/u/11061770?v=4" width="100px;" alt=""/><br /><sub><b>iigmir</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/joe32140"><img src="https://avatars.githubusercontent.com/joe32140" width="100px;" alt=""/><br /><sub><b>Chao-Chun Hsu</b></sub></a><br />💻</td>
+    <td align="center"><a href="https://github.com/tboydar"><img src="https://avatars.githubusercontent.com/tboydar" width="100px;" alt=""/><br /><sub><b>Dar</b></sub></a><br />🖋️ 🌍</td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->

@@ -1,20 +1,20 @@
 {
-  "totalArticles": 940,
+  "totalArticles": 942,
   "totalCategories": 17,
   "estimatedContributors": 63,
-  "totalTags": 2500,
+  "totalTags": 2516,
   "categories": [
     {
       "name": "en",
-      "count": 489
-    },
-    {
-      "name": "History",
-      "count": 23
+      "count": 485
     },
     {
       "name": "Culture",
-      "count": 34
+      "count": 36
+    },
+    {
+      "name": "History",
+      "count": 24
     },
     {
       "name": "Society",
@@ -26,7 +26,7 @@
     },
     {
       "name": "People",
-      "count": 115
+      "count": 118
     },
     {
       "name": "Lifestyle",
@@ -34,7 +34,7 @@
     },
     {
       "name": "ja",
-      "count": 7
+      "count": 10
     },
     {
       "name": "Art",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Food",
-      "count": 30
+      "count": 27
     },
     {
       "name": "Technology",
@@ -76,7 +76,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 58
+      "count": 59
     },
     {
       "name": "人物",
@@ -84,7 +84,7 @@
     },
     {
       "name": "企業",
-      "count": 30
+      "count": 31
     },
     {
       "name": "people",
@@ -115,6 +115,10 @@
       "count": 12
     },
     {
+      "name": "歷史",
+      "count": 11
+    },
+    {
       "name": "金曲獎",
       "count": 11
     },
@@ -143,21 +147,17 @@
       "count": 11
     },
     {
-      "name": "歷史",
+      "name": "民間信仰",
       "count": 10
     },
     {
       "name": "文學",
       "count": 10
-    },
-    {
-      "name": "文化",
-      "count": 10
     }
   ],
   "languageDistribution": {
-    "zh-TW": 940,
+    "zh-TW": 942,
     "en": 0
   },
-  "lastUpdated": "2026-03-26T03:53:25.227Z"
+  "lastUpdated": "2026-03-27T17:22:27.954Z"
 }

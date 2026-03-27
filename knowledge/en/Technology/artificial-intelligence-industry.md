@@ -127,6 +127,6 @@ In this era where AI defines the future, Taiwan stands at a historical turning p
 
 _Further Reading:_
 
-- [Semiconductor Industry](../Technology/semiconductor-industry.md)
-- [Open Source Communities and g0v](../Technology/open-source-and-g0v.md)
-- [Economic Miracle](../Economy/economic-miracle.md)
+- [[Semiconductor Industry]]
+- [[Open Source Communities and g0v]]
+- [[Economic Miracle]]

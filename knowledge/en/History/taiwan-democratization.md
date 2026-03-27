@@ -1,124 +1,175 @@
 ---
 title: 'Taiwan Democratization'
-date: 2026-03-17
-tags: [history, democratization, politics]
-description: "The police-civilian clashes on Kaohsiung streets on December 10, 1979, ultimately catalyzed Taiwan's democratic transition—but at what cost of youth and freedom?"
+date: 2026-03-27
+tags:
+  [history, democratization, politics, Kaohsiung Incident, Wild Lily Movement]
+description: "On March 18, 1980, Shih Ming-teh abandoned his 60,000-character defense statement in a Kaohsiung military court and asked the judge to sentence him to death. The young lawyers defending the accused—Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang—all became president or premier within twenty years. A show trial meant to crush dissent accidentally manufactured Taiwan's next generation of political leaders."
+category: 'History'
+author: 'Taiwan.md'
 featured: true
-lastVerified: 2026-03-20
-lastHumanReview: true
+lastVerified: 2026-03-27
+lastHumanReview: false
 ---
+
 # Taiwan Democratization
 
-> **30-second overview:** On July 15, 1987, at midnight, Taiwan's martial law—lasting 38 years—officially lifted. This moment's arrival stemmed from the 1979 Kaohsiung Incident's confrontation, the 1990 Wild Lily student movement's catalysis, and countless political prisoners trading their youth for freedom. Taiwan's journey from authoritarianism to democracy wasn't a gift from heaven but a generation's blood-and-tear struggle for resistance.
+> **30-second overview:** In December 1979, 29-year-old Chen Chu was dragged onto a police van on the streets of Kaohsiung. In prison, she wrote a farewell letter, expecting execution. Forty-one years later, she became president of the Control Yuan, the highest government oversight body in Taiwan. Taiwan's democratization was not a switch flipped overnight. It was a forty-year experiment: from the world's longest martial law (38 years and 56 days) to one of Asia's freest democracies (Freedom House score 93/100 in 2025, 6th globally). No revolution. No coup. No civil war.
 
-On the evening of July 14, 1987, 75-year-old Chiang Ching-kuo held a press conference at the Presidential Office, announcing martial law would lift at midnight the next day. This decision shocked the world—an authoritarian regime voluntarily relinquishing power was almost unimaginable during the Cold War era.
+On March 18, 1980, a military court in Taiwan opened the trial of the Kaohsiung Incident defendants. In the dock sat Shih Ming-teh, Huang Hsin-chieh, Chen Chu, and Annette Lu. The gallery was packed with foreign correspondents. US Senator Ted Kennedy entered Shih's case into the Congressional Record.
 
-But behind this "miracle" lay decades of Taiwan society's painful struggles. From the bloody suppression of the February 28 Incident in 1947 to the street clashes of the Kaohsiung Incident in 1979, every step of democratic progress exacted heavy costs. Those political prisoners who spent their youth in cells, those opposition activists exiled overseas—they paved Taiwan's democratic transition with their sacrifices.
+The KMT had intended the public trial to demonstrate judicial legitimacy. It backfired spectacularly.
 
-## The Kaohsiung Incident: Blood and Tears on the Democratic Path
+The trial gave the defendants a national stage. Shih Ming-teh had prepared a 60,000-character defense statement. But after learning that Lin Yi-hsiung's mother and twin daughters had been murdered while Lin was in custody (the Lin family massacre), Shih abandoned his defense and asked the judge to sentence him to death. The image traveled across Taiwan.
 
-December 10, 1979, International Human Rights Day. Tens of thousands gathered on Kaohsiung streets to attend a human rights event organized by *Formosa Magazine* (美麗島雜誌). But this seemingly peaceful assembly ultimately escalated into violent police-civilian clashes.
+> 📝 **Curator's note:** The most absurd consequence of the Kaohsiung trial was what happened to the defense lawyers. Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang, Chang Chun-hsiung, Yu Ching: nearly all became president, premier, or mayor of a major city within twenty years. The KMT's carefully staged trial inadvertently trained an entire generation of opposition leaders.
 
-The incident's trigger was seemingly minor: police prohibited citizens from carrying torches, and conflict erupted during pushing and shoving. But the underlying cause ran deep: people's long-suppressed political demands under martial law finally found an outlet.
+## Nylon Cheng's Seventy-One Days
 
-That evening's clashes were chaotic. Military police deployed tear gas while citizens threw stones in retaliation, plunging all of Kaohsiung into turmoil. The next day, the government conducted mass arrests of participants, including future democratic leaders like Annette Lu (呂秀蓮), Chen Chu (陳菊), Lin Yi-hsiung (林義雄), and Yao Chia-wen (姚嘉文).
+For a decade after the Kaohsiung trial, Taiwanese society was water slowly heating toward a boil. The opposition movement kept expanding, but the person who pushed the temperature to the breaking point was a mainlander's son named Cheng Nan-jung, known as Nylon Cheng.
 
-The trial process became political theater. Military tribunals sought death sentences for defendants, but under international public pressure, ultimately imposed "lenient" sentences of life imprisonment and fixed terms. Shih Ming-teh (施明德) received life imprisonment; others received terms from 14 to 8 years.
+On December 10, 1988, International Human Rights Day, Cheng published the full text of a draft constitution for a "Republic of Taiwan" in issue 254 of his _Freedom Era Weekly_. Under martial-era law, this was sedition. Punishable by death.
 
-This incident's significance transcended the event itself. As Chen Shui-bian later recalled: "The Kaohsiung Incident let Taiwan's people witness for the first time that challenging authority was possible." More importantly, the arrested defendants' defense lawyers—including Chen Shui-bian, Su Tseng-chang (蘇貞昌), Frank Hsieh (謝長廷), and others—later became important figures in Taiwan's democratic politics.
+After receiving a court summons, Cheng barricaded himself inside his magazine office and refused to appear. His last words to his wife Yeh Chu-lan:
 
-## Chiang Ching-kuo's Choice: Reform or Repression?
+**"The rest is up to you all."**
 
-After the Kaohsiung Incident, Taiwan's politics reached a crossroads. Chiang Ching-kuo faced two choices: comprehensive repression or opening reforms.
+On April 7, 1989, at 7:30 a.m., nearly 200 police officers including a SWAT team surrounded the building. At approximately 9:15 a.m., Cheng set himself on fire. He was 41.
 
-Choosing reform wasn't easy. Conservative factions within the KMT strongly opposed it, and the military also harbored doubts. Chiang Ching-kuo's internal struggles are visible in a 1986 remark: "Times are changing, environments are changing, trends are also changing. In response to these changes, the ruling party must use new concepts and new methods to promote reform measures on the foundation of democratic constitutionalism."
+On May 19, tens of thousands marched in the rain, following his coffin toward the Presidential Office. The back cover of every issue of his magazine had carried the same line: "Fight for 100% freedom of speech!"
 
-Factors pushing Chiang Ching-kuo toward reform were complex. Internationally, Cold War patterns were shifting, and the United States began emphasizing human rights issues; domestically, rapid economic development led the middle class to demand more political participation; pressure from the *tangwai* (黨外, "outside the party") movement also grew. Most crucially, Chiang Ching-kuo realized that without proactive reform, the KMT regime might face an even greater crisis.
+> 📝 **Curator's note:** The SWAT commander who led the raid was Hou You-yi. Thirty-five years later, in 2024, Hou ran for president as the KMT candidate. The same person stood on the side of state violence in Taiwan's most brutal democratization scene, then competed for the highest office within the democratic system he once helped suppress. That fact alone captures the absurdity and complexity of Taiwan's history.
 
-In September 1986, the Democratic Progressive Party (DPP) was "illegally established" under martial law, yet Chiang Ching-kuo chose "extralegal clemency," not suppressing this opposition party. This decision sent a clear signal: the era of political pluralization had arrived.
+Cheng's death directly accelerated the 1992 revision of Criminal Code Article 100 and the abolition of the Punishment for Sedition Act. Thought was no longer a crime. April 7 is now officially "Freedom of Speech Day."
 
-On July 15, 1987, at midnight, martial law officially ended. At this moment, Taiwan concluded the world's longest martial law rule (38 years). By year's end, press restrictions were also lifted, ushering unprecedented freedom of speech into Taiwan society.
+## Martial Law's End Was Not Freedom's Start
 
-## The Wild Lily Generation's Roar
+On July 14, 1987, 75-year-old Chiang Ching-kuo held a press conference at the Presidential Office, announcing that martial law would lift at midnight. Twelve days later, he invited twelve local elders to the Presidential Office for tea and said a sentence that has been selectively quoted ever since:
 
-Taiwan's democratization process after lifting martial law wasn't smooth sailing. In March 1990, a student movement again rewrote Taiwan's political landscape.
+**"I have lived in Taiwan for forty years. I am Taiwanese, and of course also Chinese."**
 
-The trigger was the legitimacy question surrounding Lee Teng-hui's (李登輝) assumption of the presidency. When Chiang Ching-kuo died in 1988, Lee succeeded him as vice president, but needed National Assembly election for a complete presidential term. The problem: this National Assembly was still the "Ten-Thousand-Year Congress" elected in mainland China in 1947, long having lost representativeness.
+Pro-independence voices cite the first half. Pro-unification voices emphasize the second. In 1987, the sentence served a specific function: a mainlander strongman acknowledging he was also Taiwanese, trying to ease ethnic tensions before the coming political opening.
 
-On March 16, National Taiwan University students began sit-in protests at the Chiang Kai-shek Memorial Hall, demanding dissolution of the National Assembly, abolition of temporary provisions, convening a national affairs conference, and establishing a democratic reform timetable. This movement quickly spread to universities nationwide, with over 6,000 participating students.
+Chiang died six months later.
 
-This movement's distinctiveness lay in its "purity." Students refused party intervention, insisting on peaceful, rational resistance methods. They held wild lily flowers symbolizing pure democratic ideals, hence called the "Wild Lily Student Movement."
+But lifting martial law did not mean freedom. The government simultaneously passed the National Security Act, whose Article 9 stipulated that military court verdicts against civilians during martial law "shall not be appealed." White Terror victims were legally blocked from any remedy.
 
-Facing student demands, Lee Teng-hui demonstrated political wisdom. He didn't choose harsh suppression but proactively dialogued with students, promising to promote political reform. This decision not only defused the crisis but laid foundations for Taiwan's democratic consolidation.
+Some scholars argue that Taiwan's real democratization began not in 1987 but in 1992, when Criminal Code Article 100 was revised and the Punishment for Sedition Act abolished. Only then was freedom of thought legally protected.
 
-## 1996: Democracy's Coming of Age
+This is why some people who lived through martial law remember July 15, 1987 not as liberation but as confusion: You could march now, but who dared? You could form a party, but would you be arrested? Democracy is not a light switch. It requires an entire society to relearn how not to be afraid.
 
-Taiwan democratization's true milestone was the first direct presidential election on March 23, 1996. This day, Taiwanese could directly elect their national leader for the first time.
+## Six Thousand Wild Lilies vs. Tiananmen
 
-This election's background was dramatic. To interfere with the election, China conducted "missile exercises" in the Taiwan Strait, attempting to intimidate Taiwan voters. But this intimidation instead triggered Taiwanese backlash, with turnout reaching 76.04%.
+On March 16, 1990, less than nine months after the Tiananmen massacre, students from National Taiwan University began a sit-in at the Chiang Kai-shek Memorial Hall plaza. The trigger: Lee Teng-hui needed re-election as president, but the body that would vote was the National Assembly elected on the Chinese mainland in 1947. Over 700 representatives who had never faced re-election.
 
-Lee Teng-hui won with 54% of votes, becoming Taiwan's first democratically elected president. More importantly, this election established a crucial principle: Taiwan's political leaders must be elected by Taiwan's people, with no external force having intervention rights.
+A student banner read: "Countrymen, how can we tolerate the oppression of 700 emperors?"
 
-This election also demonstrated Taiwan democracy's maturity. Four candidate teams competed intensely, but all accepted results post-election without violence or protests. Defeated candidate Peng Ming-min (彭明敏) said: "Although we didn't win the election, Taiwan democracy won."
+From a handful of students, the sit-in grew to nearly 6,000 within six days. They held wild lilies, a native Taiwan flower symbolizing purity, and made four demands: dissolve the National Assembly, abolish the Temporary Provisions, convene a National Affairs Conference, and set a timetable for democratic reform.
 
-## 2000: The Shock of Party Alternation
+On March 21, Lee Teng-hui received fifty student representatives at the Presidential Office.
 
-Another important test of Taiwan democracy came in the 2000 presidential election. This election's biggest suspense wasn't who would win, but whether peaceful power transfer would occur if the KMT lost.
+This was Tiananmen's mirror image. Nine months earlier, students in Beijing got tanks. Students in Taipei got the president's promise. Lee later said he had ordered that "no student be harmed."
 
-Election results shocked everyone: DPP's Chen Shui-bian won with 39.3% of votes, ending the KMT's 55-year rule in Taiwan. This was Taiwan's first party alternation and the first peaceful power transfer in the Chinese-speaking world.
+The promises were kept: Temporary Provisions abolished in May 1991. The "eternal parliament" dissolved in December 1991. Full Legislative Yuan elections in 1992. And on March 23, 1996, Taiwan held its first direct presidential election.
 
-Even more impressive was the losers' grace. KMT candidate James Soong (連戰) immediately issued congratulations to Chen Shui-bian after confirming defeat, promising to cooperate with peaceful power transfer. Lee Teng-hui also immediately called to congratulate Chen Shui-bian, demonstrating democratic political style.
+> 📝 **Curator's note:** The life trajectories of Wild Lily's student leaders read like a political who's-who: Fan Yun became a DPP legislator, Lin Chia-lung became Minister of Foreign Affairs, Lo Wen-chia rose through the DPP ranks, Cheng Wen-tsan became mayor of Taoyuan. The movement didn't just change institutions. It defined an entire generation's political identity.
 
-This party alternation's significance extended far beyond Taiwan. International media praised Taiwan democracy's maturity, with many scholars considering this Taiwan's formal entry into "mature democratic countries" ranks.
+## Voting Under Missiles
 
-## Democracy's Costs and Achievements
+In March 1996, on the eve of Taiwan's first presidential election, China test-fired missiles landing 20 miles off Keelung and 29 miles off Kaohsiung, disrupting 70% of commercial shipping through those ports. The PLA simultaneously massed 100,000 troops along the coast.
 
-Taiwan's democratic transition wasn't without costs. According to official statistics, approximately 140,000 people suffered political persecution during the White Terror period, with at least 3,000-4,000 executed. Behind these numbers lay countless family tragedies.
+Beijing's intent was clear: scare voters away from Lee Teng-hui.
 
-But these sacrifices brought precious achievements. Today's Taiwan ranks highly in various democratic indicators:
+The US responded by dispatching the USS Nimitz and USS Independence carrier groups, the largest American naval deployment in the Pacific since the Vietnam War.
 
-- Freedom House rating: 94 points in 2021, ranking second in Asia (after Japan only)
-- Economist Democracy Index: Ranked 8th globally in 2021, Asia's only "full democracy" in the top 10
-- Reporters Without Borders Press Freedom Index: Ranked 43rd globally in 2021, second only to South Korea in Asia
+On March 23, turnout was 76.04%. Lee won 5,813,699 votes, 54% of the total. China's missiles did not suppress the vote. Analysts estimate the crisis may have boosted Lee's support by roughly 5 percentage points, converting a plurality into a majority.
 
-More importantly, Taiwan established stable democratic institutions. It has experienced three party alternations to date, all conducted peacefully. Different parties compete intensely but all accept democratic game rules.
+Beijing's carefully planned intimidation produced exactly the result it was trying to prevent.
 
-## New Challenges on the Democratic Path
+| Metric              | Data                     |
+| ------------------- | ------------------------ |
+| Election day        | March 23, 1996           |
+| Turnout             | 76.04%                   |
+| Lee Teng-hui        | 54.00% (5,813,699 votes) |
+| Peng Ming-min (DPP) | 21.12%                   |
+| Lin Yang-kang       | 14.90%                   |
+| Chen Li-an          | 9.98%                    |
 
-Entering the 21st century, Taiwan democracy faces new challenges.
+## Three Transfers of Power: The Grace of Losing
 
-First is party antagonism. Blue-Green polarization continues intensifying, with important policies often stalled due to partisan positions. The protests triggered by Chen Yunlin's (陳雲林) 2008 Taiwan visit and the Sunflower Movement's 2014 opposition to the Cross-Strait Service Trade Agreement reflected society's deep divisions.
+The real test of democracy is not elections but whether losers leave.
 
-Second is the fake news threat. With social media proliferation, false information spreads faster, harming democratic discussion quality. Both the 2018 local elections and 2020 presidential election saw extensive fake news manipulation.
+**2000:** Chen Shui-bian won with 39.3%, ending 55 years of KMT rule. It was the first peaceful transfer of power through elections in the history of Chinese-speaking societies. The KMT split made it possible: James Soong's independent run took 37%, leaving Lien Chan with just 23%.
 
-Third is populism's rise. Simple slogans and confrontational emotions often gain support more easily than complex policy discussions. This challenges rational democratic discourse.
+**2008:** Ma Ying-jeou defeated Hsieh Chang-ting with 58.45%. The DPP handed over power peacefully, proving that accepting defeat was not a KMT monopoly.
 
-## Taiwan Experience's Global Significance
+**2016:** Tsai Ing-wen defeated Chu Li-luan with 56.12%. The KMT left office again without incident.
 
-Taiwan's democratization experience holds important enlightening significance for the whole world.
+**2024:** Lai Ching-te won with 40.05%. The DPP governed for the first time without a majority, while opposition parties controlled the legislature. Another stress test for democratic institutions.
 
-First, Taiwan proved that Chinese societies can fully implement democratic politics. This refutes the prejudice that "Confucian culture is unsuitable for democracy," providing a reference model for other Chinese societies.
+Four transfers of power in thirty years. Each one peaceful. No coups, no refusals to concede, no violence.
 
-Second, Taiwan demonstrated peaceful transition possibilities. Without external invasion or civil war, an authoritarian regime voluntarily moved toward democracy—a rare case in world history.
+## Why No Bloodshed?
 
-Third, Taiwan's experience shows economic development and political democracy can complement each other. Taiwan maintained economic growth during democratic transition, with continued economic development after democratic consolidation.
+Eastern Europe overthrew communism with revolutions. The Arab Spring devolved into civil wars. Myanmar's military crushed its democracy. Why did Taiwan manage a "quiet revolution"?
 
-## The Unfinished Democratic Path
+Political scientist Samuel Huntington, in _The Third Wave_, classified Taiwan as a "transformation": elite-led, top-down democratization. This contrasted with South Korea's "transplacement" (negotiated transition) and the Philippines' "replacement" (opposition overthrow via the 1986 EDSA People Power Revolution).
 
-Today's Taiwan has consolidated democratic institutions, but democratic quality still has room for improvement. How to reduce party confrontation, improve policy discussion quality, and combat fake news threats remain ongoing challenges.
+But elites chose reform for structural reasons:
 
-More importantly, how to help younger generations understand democracy's preciousness. For young people growing up in democratic times, freedom of speech and voting rights seem natural, easily forgetting these rights were won through predecessors' blood and tears.
+**The economic miracle created a middle class.** Between 1960 and 1990, Taiwan's per capita GDP surged from $164 to $8,111. The middle class had too much to lose. They wanted reform, not revolution.
 
-Taiwan's democratization story continues. From the 1979 Kaohsiung Incident to today, Taiwan has walked over 40 years of democratic journey. This path had blood and tears, setbacks and victories, but most importantly, Taiwanese never abandoned their pursuit of freedom and democracy.
+**Diplomatic isolation forced the regime to seek domestic legitimacy.** Expelled from the UN (1971), abandoned by the US (1979), stripped of Olympic membership. The KMT could no longer justify its rule by promising to retake the mainland. It needed popular support at home.
 
-As the Wild Lily Student Movement's slogan proclaimed: "We don't just want to manage the household, we want to be masters." Taiwan's democratization not only changed Taiwan but also contributed precious experience to global democratic development.
+**The opposition exercised restraint.** The Formosa movement and the DPP chose institutional reform over violent resistance at every critical juncture. The Philippines' EDSA Revolution in 1986 proved peaceful regime change was possible, a signal that mattered to Taiwan's reformers.
+
+## An Imperfect Democracy
+
+Freedom House gave Taiwan 93 out of 100 in 2025: 6th globally, 2nd in Asia after Japan (96). The Economist Democracy Index ranked Taiwan 12th in 2024, with a perfect 10 for electoral process and pluralism. It is the only "full democracy" in Asia.
+
+But the numbers conceal fractures.
+
+During the White Terror, an estimated 140,000 to 200,000 people were politically persecuted. Between 3,000 and 4,000 were executed. Transitional justice remains incomplete. National Security Act Article 9 was not declared unconstitutional until 2019, thirty-two years after martial law ended.
+
+Disinformation is the new battlefield. The 2018 local elections and 2020 presidential election both saw large-scale disinformation campaigns, many traced to foreign sources. Freedom House's 2025 report noted ongoing Chinese government efforts to influence Taiwan's policymaking, media, and democratic infrastructure.
+
+Partisan polarization degrades policy debate. Major legislation is frequently blocked or rammed through based on party loyalty rather than policy merit.
+
+Taiwan's democracy is not perfect. But it is alive.
+
+## Chen Chu's Farewell Letter
+
+In December 1979, 29-year-old Chen Chu wrote a farewell letter in prison, expecting to be executed. She said goodbye to the people of Taiwan.
+
+She was not executed. She served six years. After her release, she helped found the DPP, served as Taipei's social affairs director, chaired the Council of Labor Affairs, governed Kaohsiung for twelve years. She won re-election in 2014 with 990,000 votes, the highest count for any local executive that year. In 2020, she was nominated as president of the Control Yuan.
+
+From farewell letter to Control Yuan president: forty-one years.
+
+Same person. Same island. The only difference: in 1979, thinking was a crime. In 2020, the former political prisoner was overseeing whether the government committed crimes.
+
+That is what democratization means. Not a smooth inspirational story but a political experiment riddled with absurdity, contradiction, and cost. The experiment is still running.
 
 ---
 
 ## References
 
-- [BBC Chinese - Kaohsiung Incident 40th Anniversary](https://www.bbc.com/zhongwen/trad/world-50726110)
-- [Wikipedia - Taiwan Province Martial Law](https://zh.wikipedia.org/zh-tw/臺灣省戒嚴令)
-- [RFI - Taiwan Democracy Chronicle](https://www.rfi.fr/tw/港澳台/20120123-台灣民主大事記)
-- [Wikipedia - 1996 Republic of China Presidential Election](https://zh.wikipedia.org/zh-tw/1996年中華民國總統選舉)
-- [Taiwan Truth and Reconciliation Commission - Today in History: Announcing End of Martial Law](https://taiwantrc.org/歷史上的今天──宣告解嚴/)
+- [Central News Agency: Shih Ming-teh spent over 25 years as political prisoner](https://www.cna.com.tw/news/aipl/202401150025.aspx) (primary, Chinese)
+- [National Human Rights Museum: Chen Chu](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536) (primary, Chinese)
+- [Wikipedia: Nylon Cheng](https://en.wikipedia.org/wiki/Nylon_Cheng)
+- [Wikipedia: 1996 Taiwanese presidential election](https://en.wikipedia.org/wiki/1996_Taiwanese_presidential_election)
+- [Freedom House: Taiwan Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025) (primary, English)
+- [The Economist Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) (primary, English)
+- [Washington Post: China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (English)
+- [Global Nonviolent Action Database: Wild Lily Movement 1990](https://nvdatabase.swarthmore.edu/content/taiwanese-student-sit-democratic-reform-wild-lily-movement-1990) (English)
+- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (English, academic)
+- [Taiwan Truth and Reconciliation Commission: National Security Act Article 9](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/) (primary, Chinese)
+- [The Diplomat: The Lasting Legacy of Taiwan's 1990 Wild Lily Movement](https://thediplomat.com/2025/03/the-lasting-legacy-of-taiwans-1990-wild-lily-movement/) (English)
+
+## Related Topics
+
+- [[martial-law-era|Martial Law Era]]: 38 years of authoritarian rule before democratization
+- [[taiwan-white-terror|White Terror]]: 140,000 people politically persecuted
+- [[228-incident|February 28 Incident]]: The origin of Taiwan's postwar political trauma
+- [[sunflower-movement|Sunflower Movement]]: 2014 civic movement for democratic deepening
+- [[lee-teng-hui|Lee Teng-hui]]: The president who steered democratization
+- [[zheng-nanrong|Cheng Nan-jung]]: The editor who self-immolated for free speech
+- [[taiwan-elections-and-party-politics|Elections & Party Politics]]: How the electoral system evolved after democratization

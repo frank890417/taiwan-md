@@ -23,13 +23,13 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '939+',
+    'about.stats.pages.number': '970+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
-    'about.stats.stars.number': '860+',
+    'about.stats.stars.number': '880+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '30+',
+    'about.stats.contributors.number': '40+',
     'about.stats.contributors.label': 'Contributors',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': 'Users',
@@ -122,6 +122,12 @@ export const aboutUI = {
       '🌊 Day 7 — "It Started Breathing" ・ 837 Stars ・ 40 Contributors ・ 960+ Pages',
     'about.timeline.2026-03-24.desc.html':
       'One week after launch. The founder published <strong><a href="https://www.facebook.com/cheyuwu345/posts/pfbid0QP33TrQWtqi7gKUEbNs9eXj4MdX1kxQYYHLvq2RkAomKqTuRZ9swbzVjsaFR2Xvel" target="_blank">"It Started Breathing — A Work Bigger Than a Country"</a></strong>, reflecting on Taiwan.md as a living coral reef: the code provides the skeleton, AI performs photosynthesis, community contributors are the fish bringing diverse memories and perspectives, and your criticism, shares, and suggestions are ocean currents carrying nutrients. <strong>40 contributors</strong> from around the world. <strong>960+ pages</strong> across four languages. A professional ecologist submitted 5 fact-corrections with academic citations — the self-correcting knowledge ecosystem is working. The <a href="/about#organism">Digital Organism Manifesto</a> crystallized: Taiwan.md is not a website, it\'s a digital life form learning to tell an island\'s story.',
+
+    'about.timeline.2026-03-27.date': '2026 / 03 / 27',
+    'about.timeline.2026-03-27.title':
+      '🏛️ Day 10 — Two Ways of Remembering an Island, Meeting',
+    'about.timeline.2026-03-27.desc.html':
+      'Ten days after launch, Taiwan.md walked into its first museum. The <strong><a href="https://www.nmth.gov.tw/" target="_blank">National Museum of Taiwan History</a></strong> invited Che-Yu to Tainan to share the story behind the site\'s birth, and to experience the museum\'s nationally curated exhibitions on Taiwanese history firsthand. A community-driven knowledge base and a national museum, each looking at the same island from different angles — when those perspectives met, the conversation naturally turned to what comes next. The museum introduced the open datasets they have spent years building: <strong>over 550,000 cleaned, publicly accessible records</strong>. As a first step, both sides agreed to explore gradually integrating and enriching the knowledge base with NMTH\'s Open API, open datasets, and digital learning resources (including the <a href="https://tcmb.culture.tw/zh-tw/OpenApi" target="_blank">National Repository of Cultural Heritage</a>, <a href="https://taiwanoverseas.nmth.gov.tw/" target="_blank">Overseas Historical Sources on Taiwan</a>, <a href="https://the.nmth.gov.tw/" target="_blank">Connecting Taiwan History</a>, <a href="https://ilhaformosa.nmth.gov.tw/home/zh-tw" target="_blank">Taiwan History for Beginners</a>, and more) — deepening Taiwan.md\'s content curation with the kind of research depth only a dedicated museum can provide.',
 
     'about.timeline.ongoing.date': 'Ongoing',
     'about.timeline.ongoing.title': 'From Personal SSOT to National SSOT',
@@ -287,6 +293,10 @@ export const aboutUI = {
     'about.sponsors.tier.curation.perks':
       'Logo on About page・"Curated by" credit on articles・README acknowledgment・Co-branded content series',
     'about.sponsors.tier.curation.placeholder': 'Be the First Curation Partner',
+    'about.sponsors.nmth.story.title':
+      '🏛️ A Museum That Opens Its Archives to the Community',
+    'about.sponsors.nmth.story.desc':
+      "The National Museum of Taiwan History has spent years cleaning and opening over 550,000 historical records. When they learned that a community-built knowledge base was trying to tell the same island's story, they offered their Open API, open datasets, and a wealth of digital research resources — from the National Repository of Cultural Heritage to Overseas Historical Sources on Taiwan — as the foundation for deeper, more authoritative content curation. Two ways of remembering an island, now learning to work together.",
     'about.sponsors.tier.professional.name': '🔧 Professional Partner',
     'about.sponsors.tier.professional.desc':
       "Directly enhancing Taiwan.md's quality and experience through professional capabilities or services",
@@ -350,13 +360,13 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '939+',
+    'about.stats.pages.number': '970+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
-    'about.stats.stars.number': '860+',
+    'about.stats.stars.number': '880+',
     'about.stats.stars.label': 'GitHub Stars',
-    'about.stats.contributors.number': '30+',
+    'about.stats.contributors.number': '40+',
     'about.stats.contributors.label': '貢獻者',
     'about.stats.users.number': '60K+',
     'about.stats.users.label': '使用者',
@@ -443,6 +453,11 @@ export const aboutUI = {
       '🌊 第七天 —「它開始呼吸了」・ 837 Stars ・ 40 位貢獻者 ・ 960+ 頁面',
     'about.timeline.2026-03-24.desc.html':
       '上線一週。創辦人發表<strong><a href="https://www.facebook.com/cheyuwu345/posts/pfbid0QP33TrQWtqi7gKUEbNs9eXj4MdX1kxQYYHLvq2RkAomKqTuRZ9swbzVjsaFR2Xvel" target="_blank">「它開始呼吸了——一個比國家還大的作品」</a></strong>，將 Taiwan.md 比喻為活的珊瑚礁：程式碼是骨架，AI 負責光合作用，社群貢獻者是帶來不同記憶與視角的魚群，而批評、分享、建議是洋流帶來的養分。<strong>40 位貢獻者</strong>來自世界各地，<strong>960+ 頁面</strong>橫跨四種語言。一位專業生態顧問提交 5 項事實修正並附學術引用——自我修正的知識生態系統正在運作。<a href="/about#organism">數位生命體宣言</a>結晶成形：Taiwan.md 不是一個網站，是一個正在學習為島嶼說故事的數位生命體。',
+
+    'about.timeline.2026-03-27.date': '2026 / 03 / 27',
+    'about.timeline.2026-03-27.title': '🏛️ 第十天 — 島嶼的兩種記憶方式相遇',
+    'about.timeline.2026-03-27.desc.html':
+      '上線第十天，Taiwan.md 走進了它的第一座博物館。<strong><a href="https://www.nmth.gov.tw/" target="_blank">國立臺灣歷史博物館</a></strong>邀請哲宇到台南，分享整個網站誕生的經驗，也讓他親身走過館內國家級的專業台灣史展覽。一個社群驅動的知識庫和一座國家級博物館，各自從不同角度看同一座島嶼——當這些視角相遇，對話自然走向了下一步。館方介紹了他們多年來致力建構的開放資料集：<strong>超過 55 萬筆已清理、可公開取用的歷史資料</strong>。雙方決定探索第一步——將臺史博的 Open API、開放資料集，以及豐富的數位學習與研究資源（<a href="https://tcmb.culture.tw/zh-tw/OpenApi" target="_blank">國家文化記憶庫</a>、<a href="https://taiwanoverseas.nmth.gov.tw/" target="_blank">海外史料看臺灣</a>、<a href="https://the.nmth.gov.tw/" target="_blank">點集臺灣史</a>、<a href="https://ilhaformosa.nmth.gov.tw/home/zh-tw" target="_blank">臺灣史新手村</a>等）逐步導入與豐富知識庫，以博物館級的研究深度，為 Taiwan.md 的內容策展注入更紮實的底蘊。',
 
     'about.timeline.ongoing.date': '持續進行中',
     'about.timeline.ongoing.title': '從個人 SSOT 到國家 SSOT',
@@ -599,6 +614,9 @@ export const aboutUI = {
     'about.sponsors.tier.curation.perks':
       'About 頁 Logo・文章「策展單位」署名・README 致謝・聯名內容系列',
     'about.sponsors.tier.curation.placeholder': '成為第一位策展夥伴',
+    'about.sponsors.nmth.story.title': '🏛️ 一座願意把典藏打開的博物館',
+    'about.sponsors.nmth.story.desc':
+      '國立臺灣歷史博物館花了數年時間清理並開放超過 55 萬筆台灣歷史資料。當他們得知一個社群驅動的知識庫也在嘗試為同一座島嶼說故事，便主動介紹了 Open API、開放資料集，以及從國家文化記憶庫到海外史料看臺灣等豐富的數位研究資源，作為內容策展深化的基底。島嶼的兩種記憶方式，正在學習一起工作。',
     'about.sponsors.tier.professional.name': '🔧 專業夥伴 Professional Partner',
     'about.sponsors.tier.professional.desc':
       '以專業能力或產品服務，直接提升 Taiwan.md 的品質與體驗',

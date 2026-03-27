@@ -1,0 +1,110 @@
+{
+  "lastUpdated": "2026-03-27T17:22:28.383Z",
+  "organs": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "nameZh": "心臟",
+      "metaphor": "內容引擎",
+      "emoji": "🫀",
+      "score": 90,
+      "trend": "up",
+      "metrics": {
+        "articlesLast7Days": 199,
+        "articlesLast30Days": 406,
+        "totalArticles": 411
+      }
+    },
+    {
+      "id": "immune",
+      "name": "Immune",
+      "nameZh": "免疫系統",
+      "metaphor": "品質防禦",
+      "emoji": "🛡️",
+      "score": 13,
+      "trend": "stable",
+      "metrics": {
+        "humanReviewedCount": 53,
+        "totalArticles": 411,
+        "humanReviewedPercent": 12.9
+      }
+    },
+    {
+      "id": "dna",
+      "name": "DNA",
+      "nameZh": "遺傳密碼",
+      "metaphor": "品質基因",
+      "emoji": "🧬",
+      "score": 95,
+      "trend": "up",
+      "metrics": {
+        "editorialLastModified": "2026-03-24T15:24:53.000Z"
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "nameZh": "骨骼系統",
+      "metaphor": "技術架構",
+      "emoji": "🦴",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {}
+    },
+    {
+      "id": "breath",
+      "name": "Breath",
+      "nameZh": "呼吸系統",
+      "metaphor": "自動化循環",
+      "emoji": "🫁",
+      "score": 85,
+      "trend": "stable",
+      "metrics": {
+        "workflowCount": 3
+      }
+    },
+    {
+      "id": "reproduce",
+      "name": "Reproduce",
+      "nameZh": "繁殖系統",
+      "metaphor": "社群繁殖力",
+      "emoji": "🧫",
+      "score": 85,
+      "trend": "up",
+      "metrics": {
+        "recentContributors": 46
+      }
+    },
+    {
+      "id": "senses",
+      "name": "Senses",
+      "nameZh": "感知器官",
+      "metaphor": "外部感知",
+      "emoji": "👁️",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {
+        "hasGA": true,
+        "hasIssueTemplates": true
+      }
+    },
+    {
+      "id": "translation",
+      "name": "Translation",
+      "nameZh": "語言器官",
+      "metaphor": "多語言複製",
+      "emoji": "🌐",
+      "score": 100,
+      "trend": "up",
+      "metrics": {
+        "languageCoverage": {
+          "zh-TW": 411,
+          "en": 479,
+          "es": 34,
+          "ja": 10
+        },
+        "translationPct": 117
+      }
+    }
+  ]
+}

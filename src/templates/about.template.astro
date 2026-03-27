@@ -262,6 +262,17 @@ const t = useTranslations(lang);
           </div>
 
           <div class="timeline-item">
+            <div class="timeline-marker"></div>
+            <div class="timeline-date">
+              {t('about.timeline.2026-03-27.date')}
+            </div>
+            <div class="timeline-content">
+              <h3>{t('about.timeline.2026-03-27.title')}</h3>
+              <p set:html={t('about.timeline.2026-03-27.desc.html')} />
+            </div>
+          </div>
+
+          <div class="timeline-item">
             <div class="timeline-marker pulse"></div>
             <div class="timeline-date">{t('about.timeline.ongoing.date')}</div>
             <div class="timeline-content">
@@ -949,8 +960,27 @@ const t = useTranslations(lang);
             <p class="tier-desc">{t('about.sponsors.tier.curation.desc')}</p>
             <p class="tier-perks">{t('about.sponsors.tier.curation.perks')}</p>
             <div class="tier-logos">
-              <div class="logo-placeholder">
-                {t('about.sponsors.tier.curation.placeholder')}
+              <div class="sponsor-card">
+                <a
+                  href="https://www.nmth.gov.tw/"
+                  target="_blank"
+                  rel="noopener"
+                  class="sponsor-logo-link"
+                >
+                  <img
+                    src="/images/nmth-logo.png"
+                    alt="國立臺灣歷史博物館 NMTH"
+                    class="sponsor-logo-img"
+                  />
+                </a>
+                <div class="sponsor-story">
+                  <p class="sponsor-contribution-title">
+                    {t('about.sponsors.nmth.story.title')}
+                  </p>
+                  <p class="sponsor-contribution">
+                    {t('about.sponsors.nmth.story.desc')}
+                  </p>
+                </div>
               </div>
             </div>
           </div>

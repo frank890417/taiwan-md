@@ -452,6 +452,6 @@ Facing intense international competition, Taiwan must continue investing in R&D,
 
 _Further Reading:_
 
-- [Semiconductor Industry](../Technology/semiconductor-industry.md)
-- [AI and Artificial Intelligence Industry](../Technology/artificial-intelligence-industry.md)
-- [Science Park Development](../Technology/science-park-development.md)
+- [[Semiconductor Industry]]
+- [[AI and Artificial Intelligence Industry]]
+- [[Science Park Development]]

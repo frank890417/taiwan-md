@@ -1,0 +1,375 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+---
+
+<Layout
+  title={t('assets.meta.title')}
+  description={t('assets.meta.description')}
+  lang={lang}
+  noindex={true}
+>
+  <main class="assets-page">
+    <section class="hero">
+      <h1>{t('assets.hero.title')}</h1>
+      <p class="subtitle">{t('assets.hero.subtitle')}</p>
+    </section>
+
+    <section class="problem">
+      <h2>{t('assets.problem.title')}</h2>
+      <p>
+        {t('assets.problem.p1')}
+      </p>
+      <p set:html={t('assets.problem.p2.html')} />
+    </section>
+
+    <section class="svg-cards">
+      <div class="card">
+        <div class="card-preview">
+          <img src="/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan Icon" />
+        </div>
+        <div class="card-info">
+          <h3>{t('assets.card1.title')}</h3>
+          <p class="card-desc">{t('assets.card1.desc')}</p>
+          <p class="card-meta">{t('assets.card1.meta')}</p>
+          <div class="card-actions">
+            <a
+              href="/assets/svg/taiwan-icon-wiki.svg"
+              download
+              class="btn btn-primary">{t('assets.btn.download')}</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-icon-wiki.svg', this)"
+              data-orig-text={t('assets.btn.copy')}
+              data-copied-text={t('assets.script.copied')}
+              data-failed-text={t('assets.script.failed')}
+              >{t('assets.btn.copy')}</button
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-preview">
+          <img
+            src="/assets/svg/taiwan-simplemaps.svg"
+            alt="Taiwan SimpleMaps"
+          />
+        </div>
+        <div class="card-info">
+          <h3>{t('assets.card2.title')}</h3>
+          <p class="card-desc">{t('assets.card2.desc')}</p>
+          <p class="card-meta">{t('assets.card2.meta')}</p>
+          <div class="card-actions">
+            <a
+              href="/assets/svg/taiwan-simplemaps.svg"
+              download
+              class="btn btn-primary">{t('assets.btn.download')}</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-simplemaps.svg', this)"
+              data-orig-text={t('assets.btn.copy')}
+              data-copied-text={t('assets.script.copied')}
+              data-failed-text={t('assets.script.failed')}
+              >{t('assets.btn.copy')}</button
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-preview">
+          <img
+            src="/assets/svg/taiwan-location-map.svg"
+            alt="Taiwan Location Map"
+          />
+        </div>
+        <div class="card-info">
+          <h3>{t('assets.card3.title')}</h3>
+          <p class="card-desc">{t('assets.card3.desc')}</p>
+          <p class="card-meta">{t('assets.card3.meta')}</p>
+          <div class="card-actions">
+            <a
+              href="/assets/svg/taiwan-location-map.svg"
+              download
+              class="btn btn-primary">{t('assets.btn.download')}</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-location-map.svg', this)"
+              data-orig-text={t('assets.btn.copy')}
+              data-copied-text={t('assets.script.copied')}
+              data-failed-text={t('assets.script.failed')}
+              >{t('assets.btn.copy')}</button
+            >
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="card-preview">
+          <img
+            src="/assets/svg/taiwan-political-division.svg"
+            alt="Taiwan Political Division Map"
+          />
+        </div>
+        <div class="card-info">
+          <h3>{t('assets.card4.title')}</h3>
+          <p class="card-desc">{t('assets.card4.desc')}</p>
+          <p class="card-meta">{t('assets.card4.meta')}</p>
+          <div class="card-actions">
+            <a
+              href="/assets/svg/taiwan-political-division.svg"
+              download
+              class="btn btn-primary">{t('assets.btn.download')}</a
+            >
+            <button
+              class="btn btn-outline"
+              onclick="copySVG('taiwan-political-division.svg', this)"
+              data-orig-text={t('assets.btn.copy')}
+              data-copied-text={t('assets.script.copied')}
+              data-failed-text={t('assets.script.failed')}
+              >{t('assets.btn.copy')}</button
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="usage">
+      <h2>{t('assets.usage.title')}</h2>
+      <div class="code-block">
+        <pre><code>{t('assets.usage.code')}</code></pre>
+      </div>
+    </section>
+
+    <section class="license">
+      <h2>{t('assets.license.title')}</h2>
+      <p set:html={t('assets.license.intro.html')} />
+
+      <h3>{t('assets.license.sources.title')}</h3>
+      <ul class="source-list">
+        <li set:html={t('assets.license.source1.html')} />
+        <li set:html={t('assets.license.source2.html')} />
+        <li set:html={t('assets.license.source3.html')} />
+        <li set:html={t('assets.license.source4.html')} />
+      </ul>
+    </section>
+
+    <section class="cta">
+      <p>{t('assets.cta.text')}</p>
+      <a
+        href="https://github.com/frank890417/taiwan-md"
+        target="_blank"
+        class="btn btn-primary">{t('assets.cta.btn')}</a
+      >
+    </section>
+  </main>
+
+  <script is:inline>
+    async function copySVG(filename, btn) {
+      try {
+        const res = await fetch('/assets/svg/' + filename);
+        const text = await res.text();
+        await navigator.clipboard.writeText(text);
+        const orig = btn.dataset.origText;
+        const copied = btn.dataset.copiedText;
+        btn.textContent = copied;
+        setTimeout(() => (btn.textContent = orig), 2000);
+      } catch (e) {
+        const orig = btn.dataset.origText;
+        const failed = btn.dataset.failedText;
+        btn.textContent = failed;
+        setTimeout(() => (btn.textContent = orig), 2000);
+      }
+    }
+  </script>
+
+  <style>
+    .assets-page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 3rem 0 2rem;
+    }
+    .hero h1 {
+      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      font-size: 2.2rem;
+      color: #2d5016;
+      margin-bottom: 0.5rem;
+    }
+    .subtitle {
+      font-size: 1.2rem;
+      color: #666;
+    }
+
+    .problem {
+      margin: 2rem 0;
+      line-height: 1.8;
+    }
+    .problem h2 {
+      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      color: #2d5016;
+      margin-bottom: 1rem;
+    }
+
+    .svg-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      margin: 2.5rem 0;
+    }
+
+    .card {
+      display: flex;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+      transition: box-shadow 0.2s;
+    }
+    .card:hover {
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+    }
+
+    .card-preview {
+      flex: 0 0 200px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      background: #f8faf5;
+    }
+    .card-preview img {
+      max-height: 200px;
+      max-width: 120px;
+    }
+
+    .card-info {
+      padding: 1.5rem 2rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .card-info h3 {
+      font-family: 'Courier New', monospace;
+      font-size: 1rem;
+      color: #333;
+      margin-bottom: 0.5rem;
+    }
+    .card-desc {
+      color: #555;
+      margin-bottom: 0.25rem;
+    }
+    .card-meta {
+      color: #999;
+      font-size: 0.85rem;
+      margin-bottom: 1rem;
+    }
+
+    .card-actions {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 0.5rem 1.2rem;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      font-family: inherit;
+      transition: all 0.2s;
+    }
+    .btn-primary {
+      background: #2d5016;
+      color: #fff;
+    }
+    .btn-primary:hover {
+      background: #3d6b1e;
+    }
+    .btn-outline {
+      background: transparent;
+      color: #2d5016;
+      border: 1.5px solid #2d5016;
+    }
+    .btn-outline:hover {
+      background: #f0f5eb;
+    }
+
+    .usage {
+      margin: 3rem 0 2rem;
+    }
+    .usage h2 {
+      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      color: #2d5016;
+      margin-bottom: 1rem;
+    }
+    .code-block {
+      background: #1e1e1e;
+      border-radius: 12px;
+      padding: 1.5rem;
+      overflow-x: auto;
+    }
+    .code-block code {
+      color: #d4d4d4;
+      font-size: 0.85rem;
+      line-height: 1.6;
+      white-space: pre;
+    }
+
+    .license {
+      margin: 2rem 0;
+    }
+    .license h2 {
+      font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+      color: #2d5016;
+      margin-bottom: 0.5rem;
+    }
+    .license a {
+      color: #2d5016;
+      text-decoration: underline;
+    }
+
+    .cta {
+      text-align: center;
+      margin: 3rem 0 1rem;
+    }
+    .cta p {
+      margin-bottom: 1rem;
+      color: #666;
+    }
+
+    @media (max-width: 640px) {
+      .card {
+        flex-direction: column;
+      }
+      .card-preview {
+        flex: none;
+        padding: 1.5rem;
+      }
+      .card-preview img {
+        max-height: 150px;
+      }
+      .card-info {
+        padding: 1rem 1.5rem 1.5rem;
+      }
+      .hero h1 {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</Layout>
