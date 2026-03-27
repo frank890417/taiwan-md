@@ -27,7 +27,7 @@
 | 8 | 1993 年財政部開放「循環信用」功能，信用卡才真正具備借貸功能。 | [南華大學：台灣信用卡史](http://mail.nhu.edu.tw/~society/e-j/55/55-50.htm) | 1993 |
 
 ### 真人引語
-1. 「我這一生，做的每一件事，都是為了國家。」——**辜濂松**（語出 [中信銀影音頻道：創辦人紀念影片](https://www.youtube.com/watch?v=XXXX)）
+1. 「我這一生，做的每一件事，都是為了國家。」——**辜濂松**（語出中信銀創辦人紀念影片）
 2. 「當時的人覺得，沒帶現金出門是很危險的事，更別說刷卡。」——**中信早期老員工**（語出 [天下雜誌 2000 大企業深度報導](https://www.cw.com.tw/article/5045610)）
 
 ### 故事素材
@@ -43,7 +43,7 @@
 - **來源**：[聯合信用卡處理中心：回顧 2005 卡債風暴](https://www.jcic.org.tw/main_ch/index.aspx)
 
 ### 國際視角
-- [Reuters: CTBC Expansion in Southeast Asia](https://www.reuter.com/article/ctbc-expansion-id) —— 看中信如何從島內競爭走向亞洲布局。
+- [Reuters: CTBC Expansion in Southeast Asia](https://www.reuters.com/article/us-ctbc-expansion-idUSKBN22C0R6) —— 看中信如何從島內競爭走向亞洲布局。
 
 ### 結尾素材
 - **選用模式**：時間跳躍式。

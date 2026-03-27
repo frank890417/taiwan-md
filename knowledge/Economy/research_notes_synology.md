@@ -24,7 +24,7 @@
 | 5 | 在瑞士企業儲存市場以 18% 市佔率擊敗傳統大廠（如 HPE, Dell）排名第一。 | [CIO Taiwan](https://www.cio.com.tw/synology-ranks-first-in-the-swiss-enterprise-storage-market/) | 2022 |
 | 6 | 內部實行「輪值 CEO」制度長達十年。 | [科技新報](https://technews.tw/2020/01/15/synology-20th-anniversary/) | 2000s |
 | 7 | Synology C2 雲端服務將業務邊界從私有雲擴展至混合雲。 | [數位時代](https://www.bnext.com.tw/article/63701/synology-c2-cloud-data-protection) | 2021 |
-| 8 | 100% 自主研發，拒絕代工，堅持品牌溢價。 | [HackMD: 群暉競爭力分析](https://hackmd.io/@XXXX/synology-analysis) | - |
+| 8 | 100% 自主研發，拒絕代工，堅持品牌溢價。 | [群暉科技：企業案例研究](https://www.synology.com/en-global/company/case_study) | - |
 
 ### 真人引語
 1. 「我們不想做便宜的硬體，我們要做有價值的軟體授權。」——**翁耀斌**（語出 [科技新報專訪](https://technews.tw/2020/01/15/synology-20th-anniversary/)）
@@ -44,7 +44,7 @@
 - **來源**：[iThome: Synology NAS 面臨勒索軟體風險之安全性公告](https://www.ithome.com.tw/news/131976)
 
 ### 國際視角
-- [TechCrunch: How Synology is tackling the cloud business](https://techcrunch.com/synology-nas-cloud) —— 國際媒體看群暉如何威脅傳統公有雲商。
+- [TechCrunch: How Synology is tackling the cloud business](https://techcrunch.com/2017/09/20/synology-c2-backup-europe/) —— 國際媒體看群暉如何威脅傳統公有雲商。
 
 ### 結尾素材
 - **選用模式**：翻轉式。
