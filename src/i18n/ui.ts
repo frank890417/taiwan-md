@@ -8,6 +8,7 @@ import { contributeUI } from './contribute';
 import { changelogUI } from './changelog';
 import { resourcesUI } from './resources';
 import { mapUI } from './map';
+import { assetsUI } from './assets';
 
 export const languages: Record<Lang, string> = {
   en: 'English',
@@ -26,6 +27,7 @@ export const ui = {
     ...changelogUI.en,
     ...resourcesUI.en,
     ...mapUI.en,
+    ...assetsUI.en,
     'nav.aria-home': 'Taiwan.md Home',
     'nav.aria-img-label': 'Taiwan.md logo',
     'nav.aria-toggle-menu': 'Toggle navigation menu',
@@ -148,6 +150,7 @@ export const ui = {
     ...changelogUI['zh-TW'],
     ...resourcesUI['zh-TW'],
     ...mapUI['zh-TW'],
+    ...assetsUI['zh-TW'],
     'nav.aria-home': 'Taiwan.md 首頁',
     'nav.aria-img-label': 'Taiwan.md 標誌圖示',
     'nav.aria-toggle-menu': '開啟/關閉導航選單',
