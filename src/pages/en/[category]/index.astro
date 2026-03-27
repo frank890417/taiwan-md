@@ -214,7 +214,7 @@ function enrichBlockquotes(html: string): string {
   );
 }
 
-const rawHubHtml = resolvedContent ? marked.parse(resolvedContent, { renderer: hubRenderer }) : '';
+const rawHubHtml = resolvedContent ? marked.parse(resolvedContent, { renderer: hubRenderer, breaks: true }) : '';
 const hubHtml = enrichBlockquotes(rawHubHtml as string);
 
 const lang = getLangFromUrl(Astro.url);
@@ -519,10 +519,10 @@ const otherCategories = categories
     max-width: 720px;
     margin: 0 auto;
   }
-  .hub-prose > h1:first-child {
+  .hub-prose :global(h1:first-child) {
     display: none;
   }
-  .hub-prose > blockquote:first-child {
+  .hub-prose :global(blockquote:first-child) {
     font-size: 1.15rem;
     font-style: normal;
     font-weight: 600;
@@ -534,7 +534,7 @@ const otherCategories = categories
     color: #2d5016;
     line-height: 1.9;
   }
-  .hub-prose blockquote {
+  .hub-prose :global(blockquote) {
     border-left: 4px solid #4a7c28;
     background: linear-gradient(to right, rgba(26, 60, 52, 0.04), transparent);
     margin: 2.5rem 0;
@@ -544,7 +544,7 @@ const otherCategories = categories
     color: #3a4f44;
     font-size: 1.05rem;
   }
-  .hub-prose blockquote p {
+  .hub-prose :global(blockquote p) {
     margin-bottom: 0;
   }
 
@@ -626,7 +626,7 @@ const otherCategories = categories
     color: #2d5016;
   }
 
-  .hub-prose h2 {
+  .hub-prose :global(h2) {
     font-size: 1.5rem;
     font-weight: 700;
     margin: 4rem 0 1.2rem;
@@ -635,38 +635,38 @@ const otherCategories = categories
     border-bottom: 2px solid #e2e8f0;
     letter-spacing: 0.02em;
   }
-  .hub-prose h3 {
+  .hub-prose :global(h3) {
     font-size: 1.2rem;
     font-weight: 600;
     margin: 3rem 0 0.75rem;
     color: #334155;
   }
-  .hub-prose p {
+  .hub-prose :global(p) {
     margin: 1.2rem 0;
     text-align: justify;
   }
-  .hub-prose ul,
-  .hub-prose ol {
+  .hub-prose :global(ul),
+  .hub-prose :global(ol) {
     padding-left: 2rem;
     margin: 1rem 0;
     list-style-position: inside;
   }
-  .hub-prose li {
+  .hub-prose :global(li) {
     margin: 0.5rem 0;
     line-height: 1.8;
   }
-  .hub-prose a {
+  .hub-prose :global(a) {
     color: #334155;
     text-decoration: none;
     border-bottom: 1.5px solid #94a3b8;
     padding-bottom: 1px;
     transition: all 0.2s;
   }
-  .hub-prose a:hover {
+  .hub-prose :global(a:hover) {
     color: #1a1a2e;
     border-bottom-color: #1a1a2e;
   }
-  .hub-prose img {
+  .hub-prose :global(img) {
     max-width: 100%;
     max-height: 400px;
     object-fit: cover;
@@ -675,37 +675,37 @@ const otherCategories = categories
     display: block;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
-  .hub-prose em {
+  .hub-prose :global(em) {
     font-size: 0.85rem;
     color: #64748b;
     display: block;
     text-align: center;
     margin: -1rem 0 1.5rem;
   }
-  .hub-prose table {
+  .hub-prose :global(table) {
     width: 100%;
     border-collapse: collapse;
     margin: 1.5rem 0;
     font-size: 0.95rem;
   }
-  .hub-prose th,
-  .hub-prose td {
+  .hub-prose :global(th),
+  .hub-prose :global(td) {
     padding: 0.75rem 1rem;
     border: 1px solid #e2e8f0;
     text-align: left;
   }
-  .hub-prose th {
+  .hub-prose :global(th) {
     background: #f8fafc;
     font-weight: 600;
     color: #1e293b;
   }
-  .hub-prose tr:hover {
+  .hub-prose :global(tr:hover) {
     background: #f8fafc;
   }
-  .hub-prose strong {
+  .hub-prose :global(strong) {
     color: #1e293b;
   }
-  .hub-prose hr {
+  .hub-prose :global(hr) {
     border: none;
     border-top: 1px solid #e2e8f0;
     margin: 2.5rem 0;

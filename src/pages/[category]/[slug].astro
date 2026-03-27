@@ -311,6 +311,7 @@ renderer.image = ({ href, title, text }) => {
 
 const processedContent = marked.parse(resolveWikilinks(content), {
   renderer,
+  breaks: true,
 }) as string;
 
 // ── Estimate reading time if not in frontmatter ────────────────────────────────

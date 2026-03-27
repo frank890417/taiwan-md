@@ -352,6 +352,7 @@ renderer.image = ({ href, title, text }) => {
 
 const processedContent = marked.parse(resolveWikilinks(content), {
   renderer,
+  breaks: true,
 }) as string;
 
 // ── Reading time ───────────────────────────────────────────────────────────────

@@ -223,7 +223,7 @@ hubRenderer.link = ({ href, title, text }) => {
   return `<a href="${h}"${titleAttr}>${text}</a>`;
 };
 const rawHubHtml = resolvedContent
-  ? marked.parse(resolvedContent, { renderer: hubRenderer })
+  ? marked.parse(resolvedContent, { renderer: hubRenderer, breaks: true })
   : '';
 
 // Post-process: add callout/pull-quote classes to blockquotes
@@ -813,10 +813,10 @@ const otherCategories = categories
     max-width: 840px;
     margin: 0 auto;
   }
-  .hub-prose > h1:first-child {
+  .hub-prose :global(h1:first-child) {
     display: none;
   }
-  .hub-prose > blockquote:first-child {
+  .hub-prose :global(blockquote:first-child) {
     font-size: 1.15rem;
     font-style: normal;
     font-weight: 600;
@@ -828,7 +828,7 @@ const otherCategories = categories
     color: #2d5016;
     line-height: 1.9;
   }
-  .hub-prose blockquote {
+  .hub-prose :global(blockquote) {
     border-left: 4px solid #4a7c28;
     background: linear-gradient(to right, rgba(26, 60, 52, 0.04), transparent);
     margin: 2.5rem 0;
@@ -838,7 +838,7 @@ const otherCategories = categories
     color: #3a4f44;
     font-size: 1.05rem;
   }
-  .hub-prose blockquote p {
+  .hub-prose :global(blockquote p) {
     margin-bottom: 0;
   }
 
@@ -898,7 +898,7 @@ const otherCategories = categories
     border-radius: 2px;
   }
 
-  .hub-prose h2 {
+  .hub-prose :global(h2) {
     font-size: var(--title-subsection-size);
     font-weight: 800;
     margin: 4rem 0 1.2rem;
@@ -909,7 +909,7 @@ const otherCategories = categories
     line-height: var(--title-line-height);
     font-family: var(--font-editorial);
   }
-  .hub-prose h3 {
+  .hub-prose :global(h3) {
     font-size: var(--title-minor-size);
     font-weight: 700;
     margin: 3rem 0 0.75rem;
@@ -918,33 +918,33 @@ const otherCategories = categories
     letter-spacing: 0.02em;
     font-family: var(--font-editorial);
   }
-  .hub-prose p {
+  .hub-prose :global(p) {
     margin: 1.1rem 0;
     text-align: justify;
     color: #2c2c2c;
   }
-  .hub-prose ul {
+  .hub-prose :global(ul) {
     list-style: disc;
     padding-left: 1.5rem;
     margin-bottom: 1.1rem;
   }
-  .hub-prose ol {
+  .hub-prose :global(ol) {
     list-style: decimal;
     padding-left: 1.5rem;
     margin-bottom: 1.1rem;
   }
-  .hub-prose li {
+  .hub-prose :global(li) {
     margin-bottom: 0.3rem;
     line-height: 1.65;
   }
-  .hub-prose a {
+  .hub-prose :global(a) {
     color: #334155;
     text-decoration: none;
     border-bottom: 1.5px solid #94a3b8;
     padding-bottom: 1px;
     transition: all 0.2s;
   }
-  .hub-prose a:hover {
+  .hub-prose :global(a:hover) {
     color: #1a1a2e;
     border-bottom-color: #1a1a2e;
   }
@@ -995,7 +995,7 @@ const otherCategories = categories
     font-size: inherit;
   }
 
-  .hub-prose img {
+  .hub-prose :global(img) {
     width: 100%;
     max-height: 480px;
     object-fit: cover;
@@ -1003,26 +1003,26 @@ const otherCategories = categories
     margin: 2rem 0;
     box-shadow: 0 4px 24px rgba(26, 60, 52, 0.1);
   }
-  .hub-prose img.img-broken {
+  .hub-prose :global(img.img-broken) {
     min-height: 120px;
     background: rgba(26, 60, 52, 0.04);
     border: 2px dashed rgba(26, 60, 52, 0.15);
     border-radius: 12px;
   }
-  .hub-prose em {
+  .hub-prose :global(em) {
     font-size: 0.85rem;
     color: #64748b;
     display: block;
     text-align: center;
     margin: -1rem 0 1.5rem;
   }
-  .hub-prose table {
+  .hub-prose :global(table) {
     width: 100%;
     border-collapse: collapse;
     margin: 2rem 0;
     font-size: 0.9rem;
   }
-  .hub-prose th {
+  .hub-prose :global(th) {
     background: rgba(26, 60, 52, 0.05);
     color: #1a3c34;
     font-weight: 600;
@@ -1030,19 +1030,19 @@ const otherCategories = categories
     padding: 0.75rem 1rem;
     border-bottom: 2px solid rgba(26, 60, 52, 0.12);
   }
-  .hub-prose td {
+  .hub-prose :global(td) {
     padding: 0.65rem 1rem;
     border-bottom: 1px solid rgba(26, 60, 52, 0.06);
     color: #3a4f44;
   }
-  .hub-prose tr:hover td {
+  .hub-prose :global(tr:hover td) {
     background: rgba(26, 60, 52, 0.02);
   }
-  .hub-prose strong {
+  .hub-prose :global(strong) {
     font-weight: 700;
     color: #1a3c34;
   }
-  .hub-prose hr {
+  .hub-prose :global(hr) {
     border: none;
     border-top: 1px solid rgba(26, 60, 52, 0.1);
     margin: 3rem 0;
