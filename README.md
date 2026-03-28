@@ -77,6 +77,29 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ---
 
+## 📚 Sub-Category — 圖書館編目系統
+
+Like a well-organized library, every article in Taiwan.md is classified into a **subcategory** — a second-level taxonomy within each of the 13 main categories. This system is inspired by museum taxonomy and library classification:
+
+- **98% coverage** — 409 of 417 Chinese articles carry a `subcategory` frontmatter field
+- **~100 subcategories** across 13 categories, following MECE principles (Mutually Exclusive, Collectively Exhaustive)
+- **Reader-oriented** — organized by "what would I want to explore?" rather than academic hierarchy
+- **Machine-readable** — the `subcategory` field powers the knowledge graph clustering and Hub page navigation
+
+**Example subcategories:**
+
+| Category   | Subcategories                                                                   |
+| ---------- | ------------------------------------------------------------------------------- |
+| 📜 History | 史前與原住民 · 殖民與帝國 · 戰後與威權 · 民主與治理 · 經濟發展史 · 社會與日常史 |
+| 🎨 Art     | 文學 · 電影與戲劇 · 藝術與設計 · 新媒體                                         |
+| 👤 People  | 政治與民主 · 科技與企業 · 音樂 · 體育 · 文學 · 藝術與設計                       |
+| 🧋 Food    | 米麵主食 · 飲品文化 · 飲食場景 · 族群飲食 · 甜點與烘焙                          |
+| 🌿 Nature  | 野生動物 · 國家公園與步道 · 海洋生態 · 高山與森林                               |
+
+> Full taxonomy: **[SUBCATEGORY.md](./SUBCATEGORY.md)** — the complete classification reference with design principles and per-category breakdown.
+
+---
+
 ## 🤝 How to Contribute
 
 ### 🤖 AI 輔助貢獻（最簡單）
