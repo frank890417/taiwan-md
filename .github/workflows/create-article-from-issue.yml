@@ -35,13 +35,29 @@ jobs:
           fi
           rm -f "$error_log"
 
+      - name: Sanitize article title
+        id: sanitize-title
+        uses: actions/github-script@v7
+        env:
+          ARTICLE_TITLE: ${{ steps.extract.outputs.article_title }}
+        with:
+          script: |
+            const rawTitle = process.env.ARTICLE_TITLE ?? '';
+            const sanitizedTitle = rawTitle
+              .replace(/[\r\n]+/g, ' ')
+              .replace(/[\u0000-\u001F\u007F]/g, '')
+              .replace(/\s+/g, ' ')
+              .trim() || 'untitled';
+
+            core.setOutput('article_title', sanitizedTitle);
+
       - name: Create pull request
         id: create-pull-request
         uses: peter-evans/create-pull-request@v6
         with:
           branch: ${{ steps.extract.outputs.branch }}
-          commit-message: "article: ${{ steps.extract.outputs.article_title }}"
-          title: "article: ${{ steps.extract.outputs.article_title }}"
+          commit-message: "article: ${{ steps.sanitize-title.outputs.article_title }}"
+          title: "article: ${{ steps.sanitize-title.outputs.article_title }}"
           body: |
             此 PR 由內容提案 issue 自動產生。
 
