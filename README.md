@@ -96,7 +96,7 @@ Like a well-organized library, every article in Taiwan.md is classified into a *
 | 🧋 Food    | 米麵主食 · 飲品文化 · 飲食場景 · 族群飲食 · 甜點與烘焙                          |
 | 🌿 Nature  | 野生動物 · 國家公園與步道 · 海洋生態 · 高山與森林                               |
 
-> Full taxonomy: **[SUBCATEGORY.md](./SUBCATEGORY.md)** — the complete classification reference with design principles and per-category breakdown.
+> Full taxonomy: **[SUBCATEGORY.md](./docs/taxonomy/SUBCATEGORY.md)** — the complete classification reference with design principles and per-category breakdown.
 
 ---
 
@@ -108,11 +108,11 @@ Like a well-organized library, every article in Taiwan.md is classified into a *
 
 **寫文章：**
 
-> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/CONTRIBUTE_PROMPT.md ，然後引導我為 Taiwan.md 撰寫一篇台灣主題文章。
+> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/CONTRIBUTE_PROMPT.md ，然後引導我為 Taiwan.md 撰寫一篇台灣主題文章。
 
 **翻譯：**
 
-> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md ，然後協助我翻譯一篇 Taiwan.md 的文章。
+> 請閱讀 https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/TRANSLATE_PROMPT.md ，然後協助我翻譯一篇 Taiwan.md 的文章。
 
 ### All paths, from zero-code to full PR:
 
@@ -129,7 +129,7 @@ Like a well-organized library, every article in Taiwan.md is classified into a *
 
 ## 🖊️ Writing Style & Terminology
 
-We maintain a **[TERMINOLOGY.md](./TERMINOLOGY.md)** to ensure consistent, respectful language across all articles. Key principles:
+We maintain a **[TERMINOLOGY.md](./docs/editorial/TERMINOLOGY.md)** to ensure consistent, respectful language across all articles. Key principles:
 
 | Guideline                 | Rule                                                     | Example                          |
 | ------------------------- | -------------------------------------------------------- | -------------------------------- |
@@ -138,7 +138,7 @@ We maintain a **[TERMINOLOGY.md](./TERMINOLOGY.md)** to ensure consistent, respe
 | 👵 **台文正字**           | Use 「阿媽」(a-má) not 「阿嬤」                          | 台文正字，非國語系統用字         |
 | 🗣️ **Language naming**    | Use 「台語」not 「閩南語」(per 國家語言發展法)           | 語言學語境可用「台語（閩南語）」 |
 
-> **Contributors**: Please read [TERMINOLOGY.md](./TERMINOLOGY.md) and [EDITORIAL.md](./EDITORIAL.md) before writing or reviewing articles.
+> **Contributors**: Please read [TERMINOLOGY.md](./docs/editorial/TERMINOLOGY.md) and [EDITORIAL.md](./EDITORIAL.md) before writing or reviewing articles.
 
 ### 📐 Editorial Standards
 
@@ -194,60 +194,60 @@ Every `.md` file in the root directory is an organ of this organism. Together, t
 
 ### 🧠 The Organism's Organs
 
-| File                                               | Role                                                            | When to read                                                                                                                                                   |
-| -------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[EDITORIAL.md](./EDITORIAL.md)**                 | 🫀 **Heart** — Writing methodology & quality standard (v4)      | Before writing or reviewing any article. Defines what a "good article" looks like: 切入人物、挖引語制度、因果鏈、五種開場/結尾模式、塑膠偵測                   |
-| **[REWRITE-PIPELINE.md](./REWRITE-PIPELINE.md)**   | 🔄 **Circulatory system** — Three-stage quality pipeline (v2.1) | Before rewriting existing articles. Orchestrates four files: Research → Write → Verify, with quality gates at each stage                                       |
-| **[RESEARCH-TEMPLATE.md](./RESEARCH-TEMPLATE.md)** | 🔬 **Sensory system** — Pre-writing research template           | During Stage 1 of the rewrite pipeline. Structured template for gathering facts, finding a 切入人物, collecting 真人引語, and preparing endings before writing |
-| **[QUALITY-CHECKLIST.md](./QUALITY-CHECKLIST.md)** | 🛡️ **Immune checkpoint** — Post-writing verification checklist  | During Stage 3 of the rewrite pipeline. Five-step verification: 五指檢測 → 結構驗證 → 塑膠掃描 → 自動驗證 → commit                                             |
-| **[TERMINOLOGY.md](./TERMINOLOGY.md)**             | 🗣️ **Voice** — Language & naming conventions                    | Before writing. Covers national identity terms, Taiwanese language naming, geographic conventions, respectful language for indigenous peoples                  |
-| **[CONTRIBUTING.md](./CONTRIBUTING.md)**           | 🚪 **Front door** — How to contribute                           | First time contributing. Four paths from zero-code to full PR, plus article templates and submission guidelines                                                |
-| **[CONTRIBUTE_PROMPT.md](./CONTRIBUTE_PROMPT.md)** | 🤖 **AI onboarding** — Prompt for AI-assisted writing           | When using ChatGPT/Claude/Gemini to write an article. Paste this to your AI and it guides the process                                                          |
-| **[TRANSLATE_PROMPT.md](./TRANSLATE_PROMPT.md)**   | 🌐 **Translation guide** — Prompt for AI-assisted translation   | When translating zh-TW → en. Not word-for-word translation; recreates the article for English readers                                                          |
-| **[GOVERNANCE.md](./GOVERNANCE.md)**               | ⚖️ **Constitution** — Decision-making & roles                   | When proposing structural changes. Defines maintainer roles, merge policies, dispute resolution                                                                |
-| **[REVIEWERS.md](./REVIEWERS.md)**                 | 👁️ **Immune system** — PR review guidelines                     | Before reviewing a PR. Quality checklist, common rejection reasons, how to give constructive feedback                                                          |
-| **[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)**     | 🤝 **Social contract** — Community behavior standards           | When joining the community. Based on Contributor Covenant                                                                                                      |
-| **[ROADMAP.md](./ROADMAP.md)**                     | 🗺️ **Growth plan** — Feature & content roadmap                  | When planning contributions or looking for things to work on                                                                                                   |
-| **[HUB-EDITORIAL.md](./HUB-EDITORIAL.md)**         | 📐 **Hub blueprint** — Standards for category hub pages         | When writing or redesigning a Hub page (e.g., `_Hub.md`). Hub pages are literary curatorial essays, not index lists                                            |
-| **[TRANSLATION-BOARD.md](./TRANSLATION-BOARD.md)** | 📋 **Translation tracker** — i18n coverage dashboard            | When looking for untranslated articles to work on                                                                                                              |
-| **[SECURITY.md](./SECURITY.md)**                   | 🔒 **Security policy** — Vulnerability reporting                | When discovering a security issue                                                                                                                              |
+| File                                                              | Role                                                            | When to read                                                                                                                                                   |
+| ----------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[EDITORIAL.md](./EDITORIAL.md)**                                | 🫀 **Heart** — Writing methodology & quality standard (v4)      | Before writing or reviewing any article. Defines what a "good article" looks like: 切入人物、挖引語制度、因果鏈、五種開場/結尾模式、塑膠偵測                   |
+| **[REWRITE-PIPELINE.md](./docs/editorial/REWRITE-PIPELINE.md)**   | 🔄 **Circulatory system** — Three-stage quality pipeline (v2.1) | Before rewriting existing articles. Orchestrates four files: Research → Write → Verify, with quality gates at each stage                                       |
+| **[RESEARCH-TEMPLATE.md](./docs/editorial/RESEARCH-TEMPLATE.md)** | 🔬 **Sensory system** — Pre-writing research template           | During Stage 1 of the rewrite pipeline. Structured template for gathering facts, finding a 切入人物, collecting 真人引語, and preparing endings before writing |
+| **[QUALITY-CHECKLIST.md](./docs/editorial/QUALITY-CHECKLIST.md)** | 🛡️ **Immune checkpoint** — Post-writing verification checklist  | During Stage 3 of the rewrite pipeline. Five-step verification: 五指檢測 → 結構驗證 → 塑膠掃描 → 自動驗證 → commit                                             |
+| **[TERMINOLOGY.md](./docs/editorial/TERMINOLOGY.md)**             | 🗣️ **Voice** — Language & naming conventions                    | Before writing. Covers national identity terms, Taiwanese language naming, geographic conventions, respectful language for indigenous peoples                  |
+| **[CONTRIBUTING.md](./CONTRIBUTING.md)**                          | 🚪 **Front door** — How to contribute                           | First time contributing. Four paths from zero-code to full PR, plus article templates and submission guidelines                                                |
+| **[CONTRIBUTE_PROMPT.md](./docs/prompts/CONTRIBUTE_PROMPT.md)**   | 🤖 **AI onboarding** — Prompt for AI-assisted writing           | When using ChatGPT/Claude/Gemini to write an article. Paste this to your AI and it guides the process                                                          |
+| **[TRANSLATE_PROMPT.md](./docs/prompts/TRANSLATE_PROMPT.md)**     | 🌐 **Translation guide** — Prompt for AI-assisted translation   | When translating zh-TW → en. Not word-for-word translation; recreates the article for English readers                                                          |
+| **[GOVERNANCE.md](./docs/community/GOVERNANCE.md)**               | ⚖️ **Constitution** — Decision-making & roles                   | When proposing structural changes. Defines maintainer roles, merge policies, dispute resolution                                                                |
+| **[REVIEWERS.md](./docs/community/REVIEWERS.md)**                 | 👁️ **Immune system** — PR review guidelines                     | Before reviewing a PR. Quality checklist, common rejection reasons, how to give constructive feedback                                                          |
+| **[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)**                    | 🤝 **Social contract** — Community behavior standards           | When joining the community. Based on Contributor Covenant                                                                                                      |
+| **[ROADMAP.md](./ROADMAP.md)**                                    | 🗺️ **Growth plan** — Feature & content roadmap                  | When planning contributions or looking for things to work on                                                                                                   |
+| **[HUB-EDITORIAL.md](./docs/editorial/HUB-EDITORIAL.md)**         | 📐 **Hub blueprint** — Standards for category hub pages         | When writing or redesigning a Hub page (e.g., `_Hub.md`). Hub pages are literary curatorial essays, not index lists                                            |
+| **[TRANSLATION-BOARD.md](./docs/community/TRANSLATION-BOARD.md)** | 📋 **Translation tracker** — i18n coverage dashboard            | When looking for untranslated articles to work on                                                                                                              |
+| **[SECURITY.md](./SECURITY.md)**                                  | 🔒 **Security policy** — Vulnerability reporting                | When discovering a security issue                                                                                                                              |
 
 ### 🛡️ Quality Immune System
 
 The organism has an automated immune system that detects and fights "hollow AI content" — articles that look polished but carry no real substance:
 
-| Tool                                         | Function                                                                                                                                                                 |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `tools/detect-ai-hollow.sh`                  | Scans all articles for 7 hollow-content indicators: bullet padding, missing dates, no sources, empty modifiers, repetitive structure, thin paragraphs, no human review   |
-| `tools/detect-ai-hollow.sh --diff`           | Compares against baseline to show which articles improved or degraded since last scan                                                                                    |
-| `tools/detect-ai-hollow.sh --fix`            | Auto-suggests fixes for flagged articles                                                                                                                                 |
-| [EDITORIAL.md §塑膠偵測](./EDITORIAL.md)     | Human-readable guide to detecting "plastic" writing — five species of hollow sentences that AI loves to generate                                                         |
-| [REWRITE-PIPELINE.md](./REWRITE-PIPELINE.md) | Four-file orchestration pipeline that prevents quality collapse: Pipeline (flow) → RESEARCH-TEMPLATE (research) → EDITORIAL (writing) → QUALITY-CHECKLIST (verification) |
+| Tool                                                        | Function                                                                                                                                                                 |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `tools/detect-ai-hollow.sh`                                 | Scans all articles for 7 hollow-content indicators: bullet padding, missing dates, no sources, empty modifiers, repetitive structure, thin paragraphs, no human review   |
+| `tools/detect-ai-hollow.sh --diff`                          | Compares against baseline to show which articles improved or degraded since last scan                                                                                    |
+| `tools/detect-ai-hollow.sh --fix`                           | Auto-suggests fixes for flagged articles                                                                                                                                 |
+| [EDITORIAL.md §塑膠偵測](./EDITORIAL.md)                    | Human-readable guide to detecting "plastic" writing — five species of hollow sentences that AI loves to generate                                                         |
+| [REWRITE-PIPELINE.md](./docs/editorial/REWRITE-PIPELINE.md) | Four-file orchestration pipeline that prevents quality collapse: Pipeline (flow) → RESEARCH-TEMPLATE (research) → EDITORIAL (writing) → QUALITY-CHECKLIST (verification) |
 
 ### 🌱 How the Organism Evolves
 
 ```
 New knowledge discovered
        ↓
-  REWRITE-PIPELINE.md ← 指揮官 (orchestrates everything)
+  docs/editorial/REWRITE-PIPELINE.md ← 指揮官 (orchestrates everything)
        │
-       ├─ Stage 1: RESEARCH-TEMPLATE.md (structured research)
+       ├─ Stage 1: docs/editorial/RESEARCH-TEMPLATE.md (structured research)
        │     → 切入人物、反直覺核心句、真人引語、結尾素材
        │
        ├─ Stage 2: EDITORIAL.md (quality standard)
        │     → 五種開場、因果鏈、塑膠偵測、結尾模式庫
        │
-       └─ Stage 3: QUALITY-CHECKLIST.md (verification)
+       └─ Stage 3: docs/editorial/QUALITY-CHECKLIST.md (verification)
              → 五指檢測 → 結構驗證 → 塑膠掃描 → detect-ai-hollow.sh
                     ↓
-              REVIEWERS.md (human review)
+              docs/community/REVIEWERS.md (human review)
                     ↓
               Article published → feeds back into knowledge graph
                     ↓
               ROADMAP.md (plans next evolution)
 ```
 
-Every article that passes through this four-file system makes the organism smarter. Every quality failure that gets caught teaches the immune system a new pattern. The `.md` files evolve independently — update EDITORIAL.md's writing standards without touching the pipeline flow, or add new verification steps to QUALITY-CHECKLIST.md without rewriting the research template.
+Every article that passes through this four-file system makes the organism smarter. Every quality failure that gets caught teaches the immune system a new pattern. The `.md` files evolve independently — update EDITORIAL.md's writing standards without touching the pipeline flow, or add new verification steps to docs/editorial/QUALITY-CHECKLIST.md without rewriting the research template.
 
 > _"Taiwan.md is not a project that will be 'finished.' It's a living thing that grows, adapts, and occasionally gets sick — but it has an immune system, and it heals."_
 

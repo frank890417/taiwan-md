@@ -244,9 +244,9 @@ get_translation_prompt() {
     local style_content="$2"
     
     # Check if TRANSLATE_PROMPT.md exists
-    if [[ -f "TRANSLATE_PROMPT.md" ]]; then
+    if [[ -f "docs/prompts/TRANSLATE_PROMPT.md" ]]; then
         # Use existing template and replace placeholder
-        sed "s|{ARTICLE_CONTENT}|$article_content|g" TRANSLATE_PROMPT.md
+        sed "s|{ARTICLE_CONTENT}|$article_content|g" docs/prompts/TRANSLATE_PROMPT.md
     else
         # Generate prompt inline (fallback)
         cat << EOF

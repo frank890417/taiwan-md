@@ -16,6 +16,7 @@
 3. **翻譯看板**：讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATION-BOARD.md
 
 讀完後，告訴用戶：
+
 - 目前有幾篇文章、幾個分類
 - 翻譯看板上最需要翻譯的文章
 - 推薦 3 篇高流量 + 好翻譯的文章
@@ -23,20 +24,24 @@
 ## 第二步：確認翻譯方向
 
 問用戶：
+
 1. 「你想翻譯成什麼語言？」（英文 / 日文 / 韓文 / 西班牙文 / 法文 / 德文 / 越南文 / 其他）
 2. 「你想翻譯哪篇文章？」（如果不確定，從看板推薦）
 3. 「你是這個語言的母語者嗎？」（影響翻譯策略）
 
 如果用戶選的語言已有風格指南，讀取：
+
 - 英文：https://raw.githubusercontent.com/frank890417/taiwan-md/main/i18n/en/STYLE.md
 - 日文：https://raw.githubusercontent.com/frank890417/taiwan-md/main/i18n/ja/STYLE.md
 
 ## 第三步：讀取原文
 
 根據用戶選的文章，讀取中文原文：
+
 - URL 格式：`https://raw.githubusercontent.com/frank890417/taiwan-md/main/knowledge/{Category}/{文章名}.md`
 
 讀完後，跟用戶確認：
+
 - 「這篇文章有 X 行 / 大約 X 字」
 - 「預計翻譯後的長度」
 - 「有什麼文化概念需要特別注意？」
@@ -44,6 +49,7 @@
 ## 第四步：翻譯
 
 ### 核心原則
+
 - **重寫式翻譯**：讀起來像目標語言母語者寫的策展文章
 - **台灣專有名詞**：保留中文 + 目標語言解釋（例：夜市 (night market) / 夜市（ナイトマーケット））
 - **文化脈絡**：不熟悉的概念加簡短解釋
@@ -51,6 +57,7 @@
 - **長度**：可比原文稍長（文化解釋需要），但不超過 120%
 
 ### 格式要求
+
 - 保留 frontmatter（`---` 區塊），翻譯 title 和 description
 - 保留所有 emoji（📝 ⚠️ 等），翻譯後面的文字
 - 保留所有 URL 參考資料連結
@@ -58,6 +65,7 @@
 - `author` 改為 `"Taiwan.md Translation Team"`
 
 ### 禁止事項
+
 - ❌ 不要把台灣描述為中國的一部分
 - ❌ 不要用 "aborigines"，用 "Indigenous peoples"
 - ❌ 不要用過度正式的學術語氣
@@ -65,6 +73,7 @@
 - ❌ 不要翻譯 URL 連結
 
 ### 英文檔名規則
+
 - 用 kebab-case（例：`night-market-culture.md`）
 - 不要用中文拼音
 
@@ -79,6 +88,7 @@ knowledge/{lang}/{Category}/{slug}.md
 ```
 
 範例：
+
 - 英文：`knowledge/en/Food/beef-noodle-soup.md`
 - 日文：`knowledge/ja/Food/beef-noodle-soup.md`
 - 西班牙文：`knowledge/es/Food/bubble-tea.md`
@@ -106,6 +116,7 @@ knowledge/{lang}/{Category}/{slug}.md
 #### 🥈 方式二：GitHub Issue（不會 Git 也能貢獻）
 
 如果你不熟悉 PR 流程：
+
 1. 到 https://github.com/frank890417/taiwan-md/issues/new
 2. 標題：`translate(ja): 牛肉麵 beef-noodle-soup`
 3. 內容：直接貼完整翻譯的 `.md` 檔案
@@ -115,6 +126,7 @@ knowledge/{lang}/{Category}/{slug}.md
 #### 🥉 方式三：Email（最後手段）
 
 如果以上都不方便：
+
 - 寄到 cheyu.wu@monoame.com
 - 主旨：`Taiwan.md 翻譯 — {語言} — {文章名}`
 - 附上完整 `.md` 檔案
@@ -122,6 +134,7 @@ knowledge/{lang}/{Category}/{slug}.md
 ### 3. 自我檢查清單
 
 提交前確認：
+
 - [ ] 讀起來像母語者寫的嗎？還是翻譯腔？
 - [ ] 台灣專有名詞有保留中文嗎？
 - [ ] 文化概念有加解釋嗎？
@@ -142,15 +155,19 @@ knowledge/{lang}/{Category}/{slug}.md
 ## 常見問題
 
 ### Q: 我不確定某個名詞怎麼翻
+
 A: 保留中文原文 + 括號內加翻譯或解釋。例：「滷肉飯 (braised pork rice)」
 
 ### Q: 原文有錯誤怎麼辦？
+
 A: 翻譯時修正，並在 PR 描述中說明。
 
 ### Q: 一篇文章可以兩個人翻嗎？
+
 A: 可以！先開 PR 的優先，但如果兩份品質都好，我們會取最佳版本。
 
 ### Q: 我翻的語言還沒有資料夾
+
 A: 沒關係！直接建立 `knowledge/{lang-code}/` 資料夾。你就是那個語言的開拓者。
 
 ---

@@ -84,7 +84,7 @@ export const contributeUI = {
     'contribute.roles.translator.desc':
       'Help the world understand Taiwan. Paste our AI prompt, translate one article, open a PR. Your AI subscription = one compute node in our distributed translation network.',
     'contribute.roles.translator.action1.html':
-      '→ See what needs translating on <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">Translation Board</a>',
+      '→ See what needs translating on <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/community/TRANSLATION-BOARD.md">Translation Board</a>',
     'contribute.roles.translator.action2':
       '→ 4 languages live (en/es/ja), 7+ more welcome — you could be the first!',
 
@@ -247,7 +247,7 @@ export const contributeUI = {
       'Copy AI output directly without adding personal curation',
     'contribute.guides.ai.prompt': '📋 One-Click Copy Prompt',
     'contribute.guides.ai.prompt.text':
-      'Read the complete content of https://raw.githubusercontent.com/frank890417/taiwan-md/main/CONTRIBUTE_PROMPT.md and then guide me step by step to contribute an article to Taiwan.md following those instructions.',
+      'Read the complete content of https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/CONTRIBUTE_PROMPT.md and then guide me step by step to contribute an article to Taiwan.md following those instructions.',
     'contribute.guides.ai.prompt.features':
       '🚀 This prompt will auto-read latest guidelines, analyze content gaps, guide you through research, and help you write curator-level articles.',
 
@@ -259,9 +259,9 @@ export const contributeUI = {
       'Translation is now fully systematized. Use our AI-powered workflow for best results.',
     'contribute.guides.translation.board': '📋 Translation Board + AI Prompt',
     'contribute.guides.translation.board.check':
-      '<strong>Check the board:</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">TRANSLATION-BOARD.md</a> shows exactly what needs translating',
+      '<strong>Check the board:</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/community/TRANSLATION-BOARD.md">TRANSLATION-BOARD.md</a> shows exactly what needs translating',
     'contribute.guides.translation.board.prompt':
-      '<strong>Copy the prompt:</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — paste to your AI and it guides you through everything',
+      '<strong>Copy the prompt:</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — paste to your AI and it guides you through everything',
     'contribute.guides.translation.board.submit':
       '<strong>Submit via PR:</strong> AI helps you create PR-ready Markdown files',
     'contribute.guides.translation.languages': '🌏 Expanding Beyond English',
@@ -482,7 +482,7 @@ export const contributeUI = {
     'contribute.token.oneline.desc':
       'One command, your AI will automatically read translation guidelines, select articles, guide you through translation and submission:',
     'contribute.token.oneline.prompt':
-      'Read the complete content of https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md, then guide me to translate a Taiwan.md article following the instructions.',
+      'Read the complete content of https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/TRANSLATE_PROMPT.md, then guide me to translate a Taiwan.md article following the instructions.',
     'contribute.token.oneline.feature1':
       '✅ AI automatically reads latest translation guidelines and style guides',
     'contribute.token.oneline.feature2':
@@ -508,7 +508,7 @@ export const contributeUI = {
     'contribute.token.lang.thai': '🇹🇭 ภาษาไทย',
     'contribute.token.guidelines.title': '📋 Complete Translation Guidelines',
     'contribute.token.guidelines.desc.html':
-      'Translation helper Prompt will automatically read the latest guidelines. You can also view directly: <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a> | <a href="https://github.com/frank890417/taiwan-md/tree/main/i18n" target="_blank">Language-specific Style Guides</a>',
+      'Translation helper Prompt will automatically read the latest guidelines. You can also view directly: <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a> | <a href="https://github.com/frank890417/taiwan-md/tree/main/i18n" target="_blank">Language-specific Style Guides</a>',
     'contribute.token.note.p1.html':
       '💡 Each language has a dedicated <a href="https://github.com/frank890417/taiwan-md/tree/main/i18n">Style Guide</a>, recording translation experience and common errors. Every correction from reviewers is written back to the Style Guide, continuously improving translation quality.',
     'contribute.token.note.p2':
@@ -620,7 +620,7 @@ export const contributeUI = {
     'contribute.roles.translator.desc':
       '讓世界讀懂台灣。貼一段 AI prompt，翻譯一篇文章，開一個 PR。你的 AI 訂閱 = 分散式翻譯網絡的一個運算節點。',
     'contribute.roles.translator.action1.html':
-      '→ 查看 <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">翻譯任務看板</a> 認領文章',
+      '→ 查看 <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/community/TRANSLATION-BOARD.md">翻譯任務看板</a> 認領文章',
     'contribute.roles.translator.action2':
       '→ 已有 4 語（中/英/西/日），歡迎開拓更多語言！',
 
@@ -776,7 +776,7 @@ export const contributeUI = {
     'contribute.guides.ai.wrong.copy': '直接複製AI輸出而不加入個人策展',
     'contribute.guides.ai.prompt': '📋 一鍵複製Prompt',
     'contribute.guides.ai.prompt.text':
-      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/CONTRIBUTE_PROMPT.md 的完整內容，然後按照裡面的指示引導我為Taiwan.md貢獻一篇文章。',
+      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/CONTRIBUTE_PROMPT.md 的完整內容，然後按照裡面的指示引導我為Taiwan.md貢獻一篇文章。',
     'contribute.guides.ai.prompt.features':
       '🚀 這個prompt會自動讀取最新編輯方針，分析內容缺口，引導你做研究，協助撰寫策展級文章。',
 
@@ -788,9 +788,9 @@ export const contributeUI = {
       '翻譯已完全系統化。使用我們的AI驅動流程，效果最佳。',
     'contribute.guides.translation.board': '📋 翻譯看板 + AI Prompt',
     'contribute.guides.translation.board.check':
-      '<strong>看任務看板：</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATION-BOARD.md">TRANSLATION-BOARD.md</a> 精準顯示需要翻譯什麼',
+      '<strong>看任務看板：</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/community/TRANSLATION-BOARD.md">TRANSLATION-BOARD.md</a> 精準顯示需要翻譯什麼',
     'contribute.guides.translation.board.prompt':
-      '<strong>複製prompt：</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — 貼給AI就會引導你完成所有步驟',
+      '<strong>複製prompt：</strong> <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md">TRANSLATE_PROMPT.md</a> — 貼給AI就會引導你完成所有步驟',
     'contribute.guides.translation.board.submit':
       '<strong>透過PR提交：</strong> AI幫你產出可直接提交的Markdown檔案',
     'contribute.guides.translation.languages': '🌏 擴展到4+語言',
@@ -907,7 +907,7 @@ export const contributeUI = {
     'contribute.paths.ai.desc':
       '一行指令，你的 AI 會自動讀取專案規範、找出最需要的主題、引導你寫出策展級文章：',
     'contribute.paths.ai.prompt':
-      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/CONTRIBUTE_PROMPT.md 的完整內容，然後按照裡面的指示引導我為 Taiwan.md 貢獻一篇文章。',
+      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/CONTRIBUTE_PROMPT.md 的完整內容，然後按照裡面的指示引導我為 Taiwan.md 貢獻一篇文章。',
     'contribute.paths.ai.feature1': '✅ AI 自動讀取最新編輯方針和缺口分析',
     'contribute.paths.ai.feature2': '✅ 引導你做研究、找反直覺角度',
     'contribute.paths.ai.feature3': '✅ 產出可直接 PR 的 Markdown 檔案',
@@ -998,7 +998,7 @@ export const contributeUI = {
     'contribute.token.oneline.desc':
       '一行指令，你的 AI 會自動讀取翻譯規範、選文章、引導你完成翻譯並提交：',
     'contribute.token.oneline.prompt':
-      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。',
+      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/docs/prompts/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。',
     'contribute.token.oneline.feature1': '✅ AI 自動讀取最新翻譯規範和風格指南',
     'contribute.token.oneline.feature2': '✅ 引導你選文章、確認目標語言',
     'contribute.token.oneline.feature3': '✅ 重寫式翻譯，不是逐字翻譯',
@@ -1019,7 +1019,7 @@ export const contributeUI = {
     'contribute.token.lang.thai': '🇹🇭 ภาษาไทย',
     'contribute.token.guidelines.title': '📋 完整翻譯規範',
     'contribute.token.guidelines.desc.html':
-      '翻譯助手 Prompt 會自動讀取最新規範。你也可以直接查看：<a href="https://github.com/frank890417/taiwan-md/blob/main/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a>｜<a href="https://github.com/frank890417/taiwan-md/tree/main/i18n" target="_blank">各語言風格指南</a>',
+      '翻譯助手 Prompt 會自動讀取最新規範。你也可以直接查看：<a href="https://github.com/frank890417/taiwan-md/blob/main/docs/prompts/TRANSLATE_PROMPT.md" target="_blank">TRANSLATE_PROMPT.md</a>｜<a href="https://github.com/frank890417/taiwan-md/tree/main/i18n" target="_blank">各語言風格指南</a>',
     'contribute.token.note.p1.html':
       '💡 每個語言有專屬的 <a href="https://github.com/frank890417/taiwan-md/tree/main/i18n">Style Guide</a>，記錄翻譯經驗與常見錯誤。Reviewer 的每次糾正都會回寫到 Style Guide，讓翻譯品質持續進化。',
     'contribute.token.note.p2':

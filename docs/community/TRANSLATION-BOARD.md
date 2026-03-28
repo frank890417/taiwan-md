@@ -14,12 +14,12 @@
 
 ### 路徑規則
 
-| 語言 | 資料夾 | 範例 |
-|------|--------|------|
-| 英文 | `knowledge/en/{Category}/` | `knowledge/en/Food/beef-noodle-soup.md` |
-| 西班牙文 | `knowledge/es/{Category}/` | `knowledge/es/Food/beef-noodle-soup.md` |
-| 日文 | `knowledge/ja/{Category}/` | `knowledge/ja/Food/beef-noodle-soup.md` |
-| 其他語言 | `knowledge/{lang-code}/{Category}/` | 歡迎開拓新語言！ |
+| 語言     | 資料夾                              | 範例                                    |
+| -------- | ----------------------------------- | --------------------------------------- |
+| 英文     | `knowledge/en/{Category}/`          | `knowledge/en/Food/beef-noodle-soup.md` |
+| 西班牙文 | `knowledge/es/{Category}/`          | `knowledge/es/Food/beef-noodle-soup.md` |
+| 日文     | `knowledge/ja/{Category}/`          | `knowledge/ja/Food/beef-noodle-soup.md` |
+| 其他語言 | `knowledge/{lang-code}/{Category}/` | 歡迎開拓新語言！                        |
 
 ### 品質要求
 
@@ -34,15 +34,15 @@
 
 ## 📊 翻譯進度
 
-| 語言 | 完成度 | 最需要的分類 |
-|------|--------|-------------|
-| 🇬🇧 English | ~95% | Art, Economy |
-| 🇪🇸 Español | ~8% | 所有分類都需要！ |
-| 🇯🇵 日本語 | ~1% | 所有分類都需要！ |
-| 🇫🇷 Français | 0% | 等你來開拓 |
-| 🇩🇪 Deutsch | 0% | 等你來開拓 |
-| 🇰🇷 한국어 | 0% | 等你來開拓 |
-| 🇻🇳 Tiếng Việt | 0% | 等你來開拓 |
+| 語言          | 完成度 | 最需要的分類     |
+| ------------- | ------ | ---------------- |
+| 🇬🇧 English    | ~95%   | Art, Economy     |
+| 🇪🇸 Español    | ~8%    | 所有分類都需要！ |
+| 🇯🇵 日本語     | ~1%    | 所有分類都需要！ |
+| 🇫🇷 Français   | 0%     | 等你來開拓       |
+| 🇩🇪 Deutsch    | 0%     | 等你來開拓       |
+| 🇰🇷 한국어     | 0%     | 等你來開拓       |
+| 🇻🇳 Tiếng Việt | 0%     | 等你來開拓       |
 
 ---
 
@@ -74,6 +74,7 @@
 > 💡 **認領方式**：直接開 PR，或在 [Discussions](https://github.com/frank890417/taiwan-md/discussions) 留言說你想翻哪篇。
 
 ### Art 🎨
+
 - [ ] 台灣電影
 - [ ] 台灣建築
 - [ ] 台灣攝影
@@ -88,6 +89,7 @@
 - [ ] 金馬賓館當代美術館
 
 ### Culture 🎭
+
 - [ ] 台灣宗教與寺廟文化
 - [ ] 台灣原住民文化
 - [ ] 台灣原住民族16族文化地圖
@@ -100,6 +102,7 @@
 - [ ] 台灣花布
 
 ### Food 🍜
+
 - [ ] 台灣辦桌文化
 - [ ] 台灣早餐文化
 - [ ] 客家飲食文化
@@ -109,6 +112,7 @@
 - [ ] 台灣發酵食品與醃製文化
 
 ### Economy 💰
+
 - [ ] 30 篇企業文章（台積電、鴻海、聯發科等）
 - [ ] 夜市經濟學
 - [ ] 台灣循環經濟與資源再利用
@@ -146,6 +150,7 @@
 如果你有 AI 訂閱（Claude Pro / ChatGPT Plus / Gemini Advanced），每個月用不完的 token 可以拿來翻譯台灣文章。
 
 這不是眾包翻譯，是**分散式運算**：
+
 - 你的 AI 訂閱 = 一個運算節點
 - TRANSLATE_PROMPT.md = 通訊協議
 - PR = 輸出結果
@@ -155,4 +160,4 @@
 
 ---
 
-*這份看板由腳本自動更新。最後更新：2026-03-23*
+_這份看板由腳本自動更新。最後更新：2026-03-23_
