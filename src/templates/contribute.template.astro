@@ -538,7 +538,7 @@ const t = useTranslations(lang);
 
         <div class="ai-prompt">
           <code>{t('contribute.token.oneline.prompt')}</code>
-          <button class="copy-btn" onclick="copyTranslatePrompt()"
+          <button class="copy-btn" data-copy="translate-prompt"
             >{t('contribute.copy.button')}</button
           >
         </div>
@@ -570,7 +570,7 @@ const t = useTranslations(lang);
             >bash &lt;(curl -s
             https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)</code
           >
-          <button class="copy-btn" onclick="copyOneLine()"
+          <button class="copy-btn" data-copy="one-line-command"
             >{t('contribute.copy.button')}</button
           >
         </div>
@@ -705,29 +705,29 @@ const t = useTranslations(lang);
 
 <script is:inline define:vars={{ copiedText: '✅ 已複製', copyText: '📋 複製' }}
 >
-  function copyTranslatePrompt() {
-    const text =
-      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。';
-    navigator.clipboard.writeText(text).then(() => {
-      const btn = event.target;
-      btn.textContent = copiedText;
-      setTimeout(() => {
-        btn.textContent = copyText;
-      }, 2000);
-    });
-  }
+  const copyTextMap = {
+    'translate-prompt':
+      '讀取 https://raw.githubusercontent.com/frank890417/taiwan-md/main/TRANSLATE_PROMPT.md 的完整內容，然後按照裡面的指示引導我翻譯一篇 Taiwan.md 文章。',
+    'one-line-command':
+      'bash <(curl -s https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)',
+  };
 
-  function copyOneLine() {
-    const command =
-      'bash <(curl -s https://raw.githubusercontent.com/frank890417/taiwan-md/main/scripts/translate.sh)';
-    navigator.clipboard.writeText(command).then(() => {
-      const btn = event.target;
-      btn.textContent = copiedText;
+  document.querySelectorAll('[data-copy]').forEach((button) => {
+    button.addEventListener('click', async () => {
+      const text = copyTextMap[button.dataset.copy];
+
+      if (!text) {
+        return;
+      }
+
+      await navigator.clipboard.writeText(text);
+      button.textContent = copiedText;
+
       setTimeout(() => {
-        btn.textContent = copyText;
+        button.textContent = copyText;
       }, 2000);
     });
-  }
+  });
 </script>
 
 <style>
