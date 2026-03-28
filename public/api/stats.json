@@ -1,8 +1,167 @@
 {
-  "stars": 895,
-  "forks": 122,
-  "contributors": 30,
-  "zhPages": 462,
-  "enPages": 485,
-  "totalPages": 947
+  "totalArticles": 947,
+  "totalCategories": 18,
+  "estimatedContributors": 64,
+  "totalTags": 2442,
+  "categories": [
+    {
+      "name": "en",
+      "count": 485
+    },
+    {
+      "name": "Culture",
+      "count": 36
+    },
+    {
+      "name": "History",
+      "count": 24
+    },
+    {
+      "name": "Society",
+      "count": 25
+    },
+    {
+      "name": "Economy",
+      "count": 47
+    },
+    {
+      "name": "People",
+      "count": 122
+    },
+    {
+      "name": "Lifestyle",
+      "count": 17
+    },
+    {
+      "name": "ja",
+      "count": 12
+    },
+    {
+      "name": "Art",
+      "count": 24
+    },
+    {
+      "name": "Food",
+      "count": 27
+    },
+    {
+      "name": "Technology",
+      "count": 22
+    },
+    {
+      "name": "Nature",
+      "count": 25
+    },
+    {
+      "name": "Geography",
+      "count": 18
+    },
+    {
+      "name": "Music",
+      "count": 20
+    },
+    {
+      "name": "About",
+      "count": 6
+    },
+    {
+      "name": "Language",
+      "count": 1
+    },
+    {
+      "name": "es",
+      "count": 34
+    },
+    {
+      "name": "resources",
+      "count": 2
+    }
+  ],
+  "topTags": [
+    {
+      "name": "Economy",
+      "count": 59
+    },
+    {
+      "name": "人物",
+      "count": 49
+    },
+    {
+      "name": "企業",
+      "count": 31
+    },
+    {
+      "name": "people",
+      "count": 20
+    },
+    {
+      "name": "台灣",
+      "count": 16
+    },
+    {
+      "name": "literature",
+      "count": 16
+    },
+    {
+      "name": "半導體",
+      "count": 14
+    },
+    {
+      "name": "原住民",
+      "count": 13
+    },
+    {
+      "name": "culture",
+      "count": 13
+    },
+    {
+      "name": "金曲獎",
+      "count": 12
+    },
+    {
+      "name": "Taiwan",
+      "count": 12
+    },
+    {
+      "name": "ODM",
+      "count": 11
+    },
+    {
+      "name": "History",
+      "count": 11
+    },
+    {
+      "name": "數位轉型",
+      "count": 11
+    },
+    {
+      "name": "音樂",
+      "count": 11
+    },
+    {
+      "name": "體育",
+      "count": 11
+    },
+    {
+      "name": "Technology",
+      "count": 11
+    },
+    {
+      "name": "民間信仰",
+      "count": 10
+    },
+    {
+      "name": "歷史",
+      "count": 10
+    },
+    {
+      "name": "TSMC",
+      "count": 10
+    }
+  ],
+  "languageDistribution": {
+    "zh-TW": 947,
+    "en": 0
+  },
+  "lastUpdated": "2026-03-28T14:58:57.498Z"
 }
