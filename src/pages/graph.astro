@@ -53,6 +53,7 @@ const categoryNames: Record<string, string> = {
 const nodes: any[] = [];
 const edges: any[] = [];
 const tagMap: Record<string, string[]> = {}; // tag → article ids
+const articlesByCategory: Record<string, { nodes: any[]; edges: any[] }> = {};
 
 // Pre-fetch all collections
 let allZhArticles: any[] = [];
@@ -180,26 +181,33 @@ for (const cat of categories) {
 }
 
 for (const cat of categories) {
-  // Category node
-  nodes.push({
-    id: cat,
-    label: categoryNames[cat] || cat,
-    group: cat,
-    color: categoryColors[cat],
-    size: 20,
-    url: `/${cat}`,
-  });
-  edges.push({ source: 'taiwan', target: cat });
-
   // Chinese article nodes (filter from pre-fetched collection)
   const catArticles = allZhArticles.filter((a) => {
     const parts = a.id.split('/');
     return parts[0] === cat && !parts[parts.length - 1].startsWith('_');
   });
+
+  // Category node (with article count)
+  nodes.push({
+    id: cat,
+    label: `${categoryNames[cat] || cat} (${catArticles.length})`,
+    group: cat,
+    color: categoryColors[cat],
+    size: 20,
+    url: `/${cat}`,
+    isCategory: true,
+    articleCount: catArticles.length,
+  });
+  edges.push({ source: 'taiwan', target: cat });
+
+  // Collect article nodes/edges per category (for dynamic expand/collapse)
+  const catNodes: any[] = [];
+  const catEdges: any[] = [];
+
   for (const article of catArticles) {
     const slug = article.id.split('/').slice(1).join('/').replace(/\.md$/, '');
     const nodeId = `${cat}/${slug}`;
-    nodes.push({
+    catNodes.push({
       id: nodeId,
       label: article.data.title,
       group: cat,
@@ -207,7 +215,7 @@ for (const cat of categories) {
       size: 10,
       url: `/${cat}/${encodeURIComponent(slug)}`,
     });
-    edges.push({ source: cat, target: nodeId });
+    catEdges.push({ source: cat, target: nodeId });
 
     // Build tag connections
     if (article.data.tags) {
@@ -218,20 +226,24 @@ for (const cat of categories) {
     }
   }
 
+  articlesByCategory[cat] = { nodes: catNodes, edges: catEdges };
+
   // English article nodes — only show in /en/graph
   // (removed from zh-TW graph to reduce clutter)
 }
 
-// Cross-category edges via shared tags
+// Cross-category edges via shared tags (max 3 per tag to limit O(n²) explosion)
+const tagEdges: any[] = [];
 for (const [tag, articleIds] of Object.entries(tagMap)) {
   if (articleIds.length >= 2) {
-    for (let i = 0; i < articleIds.length - 1; i++) {
-      for (let j = i + 1; j < articleIds.length; j++) {
-        // Only connect across different categories
+    let count = 0;
+    for (let i = 0; i < articleIds.length - 1 && count < 3; i++) {
+      for (let j = i + 1; j < articleIds.length && count < 3; j++) {
         const catA = articleIds[i].split('/')[0];
         const catB = articleIds[j].split('/')[0];
         if (catA !== catB) {
-          edges.push({ source: articleIds[i], target: articleIds[j] });
+          tagEdges.push({ source: articleIds[i], target: articleIds[j] });
+          count++;
         }
       }
     }
@@ -308,7 +320,12 @@ for (const [cat, folder] of Object.entries(categoryMapping)) {
   } catch {}
 }
 
-const graphData = JSON.stringify({ nodes, edges });
+const graphData = JSON.stringify({
+  nodes,
+  edges,
+  articlesByCategory,
+  tagEdges,
+});
 ---
 
 <Layout title="🕸️ 知識圖譜 — Taiwan.md">
@@ -353,6 +370,9 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('height', height);
 
     const g = svg.append('g');
+    const linkGroup = g.append('g');
+    const nodeGroup = g.append('g');
+    const labelGroup = g.append('g');
 
     // Zoom
     const zoomBehavior = d3.zoom().on('zoom', (event) => {
@@ -363,17 +383,12 @@ const graphData = JSON.stringify({ nodes, edges });
     // Fit all nodes after simulation settles
     function zoomToFit() {
       const bounds = g.node().getBBox();
-      const fullWidth = width;
-      const fullHeight = height;
       const bWidth = bounds.width;
       const bHeight = bounds.height;
       const midX = bounds.x + bWidth / 2;
       const midY = bounds.y + bHeight / 2;
-      const scale = 0.85 / Math.max(bWidth / fullWidth, bHeight / fullHeight);
-      const translate = [
-        fullWidth / 2 - scale * midX,
-        fullHeight / 2 - scale * midY,
-      ];
+      const scale = 0.85 / Math.max(bWidth / width, bHeight / height);
+      const translate = [width / 2 - scale * midX, height / 2 - scale * midY];
       svg
         .transition()
         .duration(750)
@@ -383,118 +398,303 @@ const graphData = JSON.stringify({ nodes, edges });
         );
     }
 
-    // Fix taiwan node at center
-    const taiwanNode = data.nodes.find((n) => n.id === 'taiwan');
-    if (taiwanNode) {
-      taiwanNode.fx = width / 2;
-      taiwanNode.fy = height / 2;
+    // State: which categories are expanded
+    const expandedCategories = new Set();
+
+    // Build current visible nodes/edges based on expanded state
+    function buildVisibleData() {
+      const visibleNodes = [...data.nodes];
+      const visibleEdges = [...data.edges];
+      const visibleArticleIds = new Set();
+
+      for (const cat of expandedCategories) {
+        const catData = data.articlesByCategory[cat];
+        if (!catData) continue;
+        for (const n of catData.nodes) visibleNodes.push(n);
+        for (const e of catData.edges) visibleEdges.push(e);
+        for (const n of catData.nodes) visibleArticleIds.add(n.id);
+      }
+
+      // Add tag edges where both endpoints are visible
+      for (const e of data.tagEdges) {
+        if (
+          visibleArticleIds.has(e.source) &&
+          visibleArticleIds.has(e.target)
+        ) {
+          visibleEdges.push(e);
+        }
+      }
+
+      return { nodes: visibleNodes, edges: visibleEdges };
     }
 
-    const simulation = d3
-      .forceSimulation(data.nodes)
-      .force(
-        'link',
-        d3
-          .forceLink(data.edges)
-          .id((d) => d.id)
-          .distance((d) => {
-            if (d.source.id === 'taiwan') return 700;
-            // Same category = close, cross-category = far
-            if (
-              d.source.group &&
-              d.target.group &&
-              d.source.group === d.target.group
-            )
-              return 50;
-            return 250;
-          })
-          .strength(1),
-      )
-      .force('charge', d3.forceManyBody().strength(-180))
-      .force('center', d3.forceCenter(width / 2, height / 2))
-      .force(
-        'collision',
-        d3.forceCollide().radius((d) => d.size + 4),
-      );
+    let simulation;
+    let currentSearchQuery = '';
 
-    // Links
-    const link = g
-      .append('g')
-      .selectAll('line')
-      .data(data.edges)
-      .join('line')
-      .attr('stroke', '#ddd')
-      .attr('stroke-width', 1)
-      .attr('stroke-opacity', 0.6);
+    function updateGraph() {
+      const visible = buildVisibleData();
 
-    // Nodes
-    const node = g
-      .append('g')
-      .selectAll('circle')
-      .data(data.nodes)
-      .join('circle')
-      .attr('r', (d) => d.size)
-      .attr(
-        'fill',
-        (d) => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'),
-      )
-      .attr('stroke', '#fff')
-      .attr('stroke-width', 2)
-      .attr('cursor', 'pointer')
-      .call(
-        d3
-          .drag()
-          .on('start', (event, d) => {
-            if (!event.active) simulation.alphaTarget(0.3).restart();
-            d.fx = d.x;
-            d.fy = d.y;
-          })
-          .on('drag', (event, d) => {
-            d.fx = event.x;
-            d.fy = event.y;
-          })
-          .on('end', (event, d) => {
-            if (!event.active) simulation.alphaTarget(0);
-            d.fx = null;
-            d.fy = null;
-          }),
-      );
+      // Preserve positions of existing nodes
+      const posMap = {};
+      if (simulation) {
+        for (const n of simulation.nodes()) {
+          posMap[n.id] = { x: n.x, y: n.y, vx: n.vx, vy: n.vy };
+        }
+      }
 
-    // Labels
-    const label = g
-      .append('g')
-      .selectAll('text')
-      .data(data.nodes)
-      .join('text')
-      .text((d) => d.label)
-      .attr('font-size', (d) => {
-        if (d.group === 'center') return isCompact ? '14px' : '16px';
-        if (d.size >= 15) return isCompact ? '12px' : '13px';
-        return isCompact ? '11px' : '10px';
-      })
-      .attr('font-weight', (d) => (d.size > 15 ? 'bold' : 'normal'))
-      .attr('text-anchor', 'middle')
-      .attr('dy', (d) => d.size + 14)
-      .attr('fill', '#333')
-      .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
-      .attr('pointer-events', 'none');
+      for (const n of visible.nodes) {
+        if (posMap[n.id]) {
+          n.x = posMap[n.id].x;
+          n.y = posMap[n.id].y;
+          n.vx = posMap[n.id].vx;
+          n.vy = posMap[n.id].vy;
+        }
+      }
 
-    const searchInput = document.getElementById('graph-search');
-    const searchCount = document.getElementById('search-count');
+      // Fix taiwan node at center
+      const taiwanNode = visible.nodes.find((n) => n.id === 'taiwan');
+      if (taiwanNode) {
+        taiwanNode.fx = width / 2;
+        taiwanNode.fy = height / 2;
+      }
 
+      // Position new article nodes near their category parent
+      for (const n of visible.nodes) {
+        if (!posMap[n.id] && n.group && !n.isCategory) {
+          const parent = visible.nodes.find(
+            (p) => p.id === n.group && p.isCategory,
+          );
+          if (parent && parent.x != null) {
+            n.x = parent.x + (Math.random() - 0.5) * 80;
+            n.y = parent.y + (Math.random() - 0.5) * 80;
+          }
+        }
+      }
+
+      if (simulation) simulation.stop();
+
+      simulation = d3
+        .forceSimulation(visible.nodes)
+        .force(
+          'link',
+          d3
+            .forceLink(visible.edges)
+            .id((d) => d.id)
+            .distance((d) => {
+              if (d.source.id === 'taiwan' || d.target.id === 'taiwan')
+                return 700;
+              if (
+                d.source.group &&
+                d.target.group &&
+                d.source.group === d.target.group
+              )
+                return 50;
+              return 250;
+            })
+            .strength(1),
+        )
+        .force('charge', d3.forceManyBody().strength(-180))
+        .force('center', d3.forceCenter(width / 2, height / 2))
+        .force(
+          'collision',
+          d3.forceCollide().radius((d) => d.size + 4),
+        );
+
+      // Links
+      const link = linkGroup
+        .selectAll('line')
+        .data(visible.edges, (d) => {
+          const s = typeof d.source === 'object' ? d.source.id : d.source;
+          const t = typeof d.target === 'object' ? d.target.id : d.target;
+          return s + '->' + t;
+        })
+        .join('line')
+        .attr('stroke', '#ddd')
+        .attr('stroke-width', 1)
+        .attr('stroke-opacity', 0.6);
+
+      // Nodes
+      const node = nodeGroup
+        .selectAll('circle')
+        .data(visible.nodes, (d) => d.id)
+        .join('circle')
+        .attr('r', (d) => d.size)
+        .attr(
+          'fill',
+          (d) => d.color || (d.group === 'center' ? '#1a1a2e' : '#ccc'),
+        )
+        .attr('stroke', (d) =>
+          d.isCategory && expandedCategories.has(d.id) ? '#3b82f6' : '#fff',
+        )
+        .attr('stroke-width', (d) =>
+          d.isCategory && expandedCategories.has(d.id) ? 3 : 2,
+        )
+        .attr('cursor', 'pointer')
+        .call(
+          d3
+            .drag()
+            .on('start', (event, d) => {
+              if (!event.active) simulation.alphaTarget(0.3).restart();
+              d.fx = d.x;
+              d.fy = d.y;
+            })
+            .on('drag', (event, d) => {
+              d.fx = event.x;
+              d.fy = event.y;
+            })
+            .on('end', (event, d) => {
+              if (!event.active) simulation.alphaTarget(0);
+              if (d.id !== 'taiwan') {
+                d.fx = null;
+                d.fy = null;
+              }
+            }),
+        );
+
+      // Labels
+      const label = labelGroup
+        .selectAll('text')
+        .data(visible.nodes, (d) => d.id)
+        .join('text')
+        .text((d) => d.label)
+        .attr('font-size', (d) => {
+          if (d.group === 'center') return isCompact ? '14px' : '16px';
+          if (d.size >= 15) return isCompact ? '12px' : '13px';
+          return isCompact ? '11px' : '10px';
+        })
+        .attr('font-weight', (d) => (d.size > 15 ? 'bold' : 'normal'))
+        .attr('text-anchor', 'middle')
+        .attr('dy', (d) => d.size + 14)
+        .attr('fill', '#333')
+        .attr('filter', 'drop-shadow(0 1px 2px rgba(255,255,255,0.8))')
+        .attr('pointer-events', 'none');
+
+      // Click: category toggle or navigate
+      node.on('click', (event, d) => {
+        if (d.isCategory) {
+          if (expandedCategories.has(d.id)) {
+            expandedCategories.delete(d.id);
+          } else {
+            expandedCategories.add(d.id);
+          }
+          updateGraph();
+          // Re-apply search highlight if active
+          if (currentSearchQuery) applySearch(currentSearchQuery);
+        } else if (d.url) {
+          window.location.href = d.url;
+        }
+      });
+
+      // Hover
+      const tooltip = document.getElementById('tooltip');
+      node
+        .on('mouseover', (event, d) => {
+          let tip = d.label;
+          if (d.isCategory) {
+            tip += expandedCategories.has(d.id) ? ' (點擊收合)' : ' (點擊展開)';
+          }
+          tooltip.textContent = tip;
+          tooltip.style.display = 'block';
+          tooltip.style.left = event.pageX + 10 + 'px';
+          tooltip.style.top = event.pageY - 10 + 'px';
+          if (!(d.isCategory && expandedCategories.has(d.id))) {
+            d3.select(event.target)
+              .attr('stroke', '#3b82f6')
+              .attr('stroke-width', 3);
+          }
+        })
+        .on('mouseout', (event, d) => {
+          tooltip.style.display = 'none';
+          if (d.isCategory && expandedCategories.has(d.id)) {
+            d3.select(event.target)
+              .attr('stroke', '#3b82f6')
+              .attr('stroke-width', 3);
+          } else {
+            d3.select(event.target)
+              .attr('stroke', '#fff')
+              .attr('stroke-width', 2);
+          }
+        });
+
+      let ticked = 0;
+      simulation.on('tick', () => {
+        link
+          .attr('x1', (d) => d.source.x)
+          .attr('y1', (d) => d.source.y)
+          .attr('x2', (d) => d.target.x)
+          .attr('y2', (d) => d.target.y);
+        node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
+        label.attr('x', (d) => d.x).attr('y', (d) => d.y);
+        ticked++;
+        if (ticked === 100) zoomToFit();
+      });
+    }
+
+    // Search: matches against ALL articles (including collapsed), auto-expands
     function applySearch(query) {
+      currentSearchQuery = query;
       const normalized = query.trim().toLowerCase();
 
       if (!normalized) {
-        node.attr('opacity', 1).attr('stroke', '#fff').attr('stroke-width', 2);
-        link.attr('opacity', 0.6);
-        label.attr('opacity', 1);
+        // Reset: collapse search-expanded categories? No — leave as-is.
+        nodeGroup
+          .selectAll('circle')
+          .attr('opacity', 1)
+          .attr('stroke', (d) =>
+            d.isCategory && expandedCategories.has(d.id) ? '#3b82f6' : '#fff',
+          )
+          .attr('stroke-width', (d) =>
+            d.isCategory && expandedCategories.has(d.id) ? 3 : 2,
+          );
+        linkGroup.selectAll('line').attr('opacity', 0.6);
+        labelGroup.selectAll('text').attr('opacity', 1);
+        const searchCount = document.getElementById('search-count');
         if (searchCount) searchCount.textContent = '';
         return;
       }
 
+      // Search across ALL articles (including collapsed ones)
+      let totalMatches = 0;
+      const categoriesToExpand = new Set();
+
+      for (const [cat, catData] of Object.entries(data.articlesByCategory)) {
+        for (const n of catData.nodes) {
+          if (
+            String(n.label || '')
+              .toLowerCase()
+              .includes(normalized)
+          ) {
+            totalMatches++;
+            if (!expandedCategories.has(cat)) {
+              categoriesToExpand.add(cat);
+            }
+          }
+        }
+      }
+
+      // Also count matches in always-visible nodes
+      for (const n of data.nodes) {
+        if (
+          String(n.label || '')
+            .toLowerCase()
+            .includes(normalized)
+        ) {
+          totalMatches++;
+        }
+      }
+
+      // Auto-expand categories with matches
+      if (categoriesToExpand.size > 0) {
+        for (const cat of categoriesToExpand) {
+          expandedCategories.add(cat);
+        }
+        updateGraph();
+      }
+
+      // Now highlight
+      const visibleNodes = nodeGroup.selectAll('circle').data();
       const matchedIds = new Set(
-        data.nodes
+        visibleNodes
           .filter((item) =>
             String(item.label || '')
               .toLowerCase()
@@ -503,16 +703,19 @@ const graphData = JSON.stringify({ nodes, edges });
           .map((item) => item.id),
       );
 
-      node
+      nodeGroup
+        .selectAll('circle')
         .attr('opacity', (item) => (matchedIds.has(item.id) ? 1 : 0.14))
         .attr('stroke', (item) =>
           matchedIds.has(item.id) ? '#3b82f6' : '#fff',
         )
         .attr('stroke-width', (item) => (matchedIds.has(item.id) ? 3 : 2));
 
-      label.attr('opacity', (item) => (matchedIds.has(item.id) ? 1 : 0.18));
+      labelGroup
+        .selectAll('text')
+        .attr('opacity', (item) => (matchedIds.has(item.id) ? 1 : 0.18));
 
-      link.attr('opacity', (item) => {
+      linkGroup.selectAll('line').attr('opacity', (item) => {
         const sourceId =
           typeof item.source === 'object' ? item.source.id : item.source;
         const targetId =
@@ -522,52 +725,22 @@ const graphData = JSON.stringify({ nodes, edges });
           : 0.08;
       });
 
+      const searchCount = document.getElementById('search-count');
       if (searchCount) {
         searchCount.textContent =
-          matchedIds.size > 0 ? `${matchedIds.size} 個結果` : '無結果';
+          totalMatches > 0 ? `${totalMatches} 個結果` : '無結果';
       }
     }
 
+    const searchInput = document.getElementById('graph-search');
     if (searchInput) {
       searchInput.addEventListener('input', (event) => {
         applySearch(event.target.value);
       });
     }
 
-    // Click to navigate
-    node.on('click', (event, d) => {
-      if (d.url) window.location.href = d.url;
-    });
-
-    // Hover
-    const tooltip = document.getElementById('tooltip');
-    node
-      .on('mouseover', (event, d) => {
-        tooltip.textContent = d.label;
-        tooltip.style.display = 'block';
-        tooltip.style.left = event.pageX + 10 + 'px';
-        tooltip.style.top = event.pageY - 10 + 'px';
-        d3.select(event.target)
-          .attr('stroke', '#3b82f6')
-          .attr('stroke-width', 3);
-      })
-      .on('mouseout', (event) => {
-        tooltip.style.display = 'none';
-        d3.select(event.target).attr('stroke', '#fff').attr('stroke-width', 2);
-      });
-
-    let ticked = 0;
-    simulation.on('tick', () => {
-      link
-        .attr('x1', (d) => d.source.x)
-        .attr('y1', (d) => d.source.y)
-        .attr('x2', (d) => d.target.x)
-        .attr('y2', (d) => d.target.y);
-      node.attr('cx', (d) => d.x).attr('cy', (d) => d.y);
-      label.attr('x', (d) => d.x).attr('y', (d) => d.y);
-      ticked++;
-      if (ticked === 100) zoomToFit();
-    });
+    // Initial render (collapsed state)
+    updateGraph();
   }
 </script>
 
