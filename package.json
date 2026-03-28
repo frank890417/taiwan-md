@@ -11,6 +11,7 @@
     "build": "astro build",
     "test": "node scripts/test-frontmatter.mjs",
     "test:ci": "node scripts/test-frontmatter.mjs --ci",
+    "test:actions": "node --test .github/scripts/create-article-from-issue.test.js",
     "postbuild": "node scripts/post-build-check.mjs",
     "preview": "astro preview",
     "sync": "bash scripts/sync.sh",

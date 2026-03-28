@@ -41,19 +41,9 @@ jobs:
 
       - name: Sanitize article title
         id: sanitize-title
-        uses: actions/github-script@v7
         env:
           ARTICLE_TITLE: ${{ steps.extract.outputs.article_title }}
-        with:
-          script: |
-            const rawTitle = process.env.ARTICLE_TITLE ?? '';
-            const sanitizedTitle = rawTitle
-              .replace(/[\r\n]+/g, ' ')
-              .replace(/[\u0000-\u001F\u007F]/g, '')
-              .replace(/\s+/g, ' ')
-              .trim() || 'untitled';
-
-            core.setOutput('article_title', sanitizedTitle);
+        run: node .github/scripts/sanitize-article-title.js
 
       - name: Create pull request
         id: create-pull-request
