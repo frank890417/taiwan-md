@@ -139,6 +139,11 @@ const isEn = lang === 'en';
 
       <div class="registry-summary" id="registry-summary"></div>
 
+      <div class="registry-table-controls">
+        <button class="column-toggle-btn" id="column-toggle-btn">
+          {isEn ? '⚙️ Show all columns' : '⚙️ 顯示所有欄位'}
+        </button>
+      </div>
       <div class="registry-table-wrapper">
         <table class="registry-table" id="registry-table">
           <thead>
@@ -158,13 +163,14 @@ const isEn = lang === 'en';
               <th class="sortable" data-sort="wordCount"
                 >{t('dashboard.registry.col.words')}</th
               >
-              <th class="sortable" data-sort="tagCount"
+              <th class="sortable col-hideable" data-sort="tagCount"
                 >{t('dashboard.registry.col.tags')}</th
               >
               <th>{t('dashboard.registry.col.translations')}</th>
-              <th class="sortable" data-sort="revision"
+              <th class="sortable col-hideable" data-sort="revision"
                 >{t('dashboard.registry.col.revisions')}</th
               >
+              <th class="col-edit-header"></th>
             </tr>
           </thead>
           <tbody id="registry-body"></tbody>
@@ -444,15 +450,17 @@ const isEn = lang === 'en';
           )
           .join('');
         const articleUrl = `${langPrefix}/${a.category}/${a.slug}`;
+        const editUrl = `https://github.com/frank890417/taiwan-md/edit/main/knowledge/${a.category}/${a.slug}.md`;
         return `<tr class="registry-row" data-url="${articleUrl}" title="${(a.description || '').replace(/"/g, '&quot;')}">
           <td class="col-title"><a href="${articleUrl}">${a.title}</a>${a.featured ? ' ⭐' : ''}</td>
           <td><span class="cat-badge cat-${a.category}">${catLabel}</span></td>
           <td>${date}</td>
           <td class="col-center">${reviewed}</td>
           <td class="col-right">${(a.wordCount || 0).toLocaleString()}</td>
-          <td class="col-center">${a.tagCount || 0}</td>
+          <td class="col-center col-hideable">${a.tagCount || 0}</td>
           <td class="col-langs">${langs}</td>
-          <td class="col-center">${a.revision || 0}</td>
+          <td class="col-center col-hideable">${a.revision || 0}</td>
+          <td class="col-edit"><a href="${editUrl}" class="edit-link" target="_blank" rel="noopener" title="${isEn ? 'Edit on GitHub' : '在 GitHub 編輯'}">✏️</a></td>
         </tr>`;
       })
       .join('');
@@ -462,6 +470,20 @@ const isEn = lang === 'en';
   }
 
   function bindRegistryEvents() {
+    // Column toggle
+    const colToggleBtn = document.getElementById('column-toggle-btn');
+    colToggleBtn.addEventListener('click', function () {
+      const table = document.getElementById('registry-table');
+      const expanded = table.classList.toggle('show-all-columns');
+      this.textContent = expanded
+        ? isEn
+          ? '⚙️ Hide extra columns'
+          : '⚙️ 隱藏額外欄位'
+        : isEn
+          ? '⚙️ Show all columns'
+          : '⚙️ 顯示所有欄位';
+    });
+
     // Sort
     document.querySelectorAll('.sortable').forEach((th) => {
       th.addEventListener('click', () => {
@@ -729,47 +751,190 @@ const isEn = lang === 'en';
       queueHeader.textContent += ` (${unreviewed.length} ${isEn ? 'total' : '篇待審'})`;
     }
 
-    document.getElementById('immune-queue').innerHTML = queue
-      .map(
-        (
-          a,
-        ) => `<a href="${langPrefix}/${a.category}/${a.slug}" class="queue-item">
+    const QUEUE_COLLAPSE_LIMIT = 5;
+    const queueEl = document.getElementById('immune-queue');
+    const queueItems = queue.map(
+      (
+        a,
+      ) => `<a href="${langPrefix}/${a.category}/${a.slug}" class="queue-item">
         <span class="queue-cat cat-${a.category}">${categoryLabels[a.category] || a.category}</span>
         <span class="queue-title">${a.title}</span>
         <span class="queue-date">${a.date || '—'}</span>
       </a>`,
-      )
-      .join('');
+    );
+
+    if (queue.length > QUEUE_COLLAPSE_LIMIT) {
+      const visibleItems = queueItems.slice(0, QUEUE_COLLAPSE_LIMIT).join('');
+      const hiddenItems = queueItems.slice(QUEUE_COLLAPSE_LIMIT).join('');
+      queueEl.innerHTML =
+        visibleItems +
+        `<div class="queue-hidden" id="queue-hidden" style="display:none">${hiddenItems}</div>` +
+        `<button class="queue-toggle-btn" id="queue-toggle-btn">${isEn ? 'Show all (' + queue.length + ' total)' : '顯示全部 (' + queue.length + ' 篇)'}</button>`;
+
+      document
+        .getElementById('queue-toggle-btn')
+        .addEventListener('click', function () {
+          const hidden = document.getElementById('queue-hidden');
+          const expanded = hidden.style.display !== 'none';
+          hidden.style.display = expanded ? 'none' : 'grid';
+          this.textContent = expanded
+            ? isEn
+              ? 'Show all (' + queue.length + ' total)'
+              : '顯示全部 (' + queue.length + ' 篇)'
+            : isEn
+              ? 'Collapse'
+              : '收合';
+          this.classList.toggle('expanded', !expanded);
+        });
+    } else {
+      queueEl.innerHTML = queueItems.join('');
+    }
   }
 
-  // ── Growth Timeline (simple bar chart) ──
+  // ── Growth Timeline (SVG area chart) ──
   function renderGrowth(articles) {
-    const chart = document.getElementById('growth-chart');
-    // Group by date
+    const container = document.getElementById('growth-chart');
     const byDate = {};
     articles.forEach((a) => {
       if (a.date) byDate[a.date] = (byDate[a.date] || 0) + 1;
     });
     const dates = Object.keys(byDate).sort();
     if (dates.length === 0) {
-      chart.textContent = 'No data';
+      container.textContent = 'No data';
       return;
     }
 
-    const maxDaily = Math.max(...Object.values(byDate));
+    // Build cumulative data
+    const data = [];
     let cumulative = 0;
+    dates.forEach((d) => {
+      cumulative += byDate[d];
+      data.push({ date: d, daily: byDate[d], cumulative });
+    });
 
-    chart.innerHTML = `<div class="growth-bars">${dates
-      .map((d) => {
-        cumulative += byDate[d];
-        const h = Math.max(4, (byDate[d] / maxDaily) * 120);
-        return `<div class="growth-bar-col" title="${d}: +${byDate[d]} (${isEn ? 'total' : '累計'}: ${cumulative})">
-        <div class="growth-bar-value">${byDate[d]}</div>
-        <div class="growth-bar-bar" style="height:${h}px"></div>
-        <div class="growth-bar-date">${d.slice(5)}</div>
+    const milestones = [
+      { date: '2025-03-17', emoji: '🚀', label: isEn ? 'Launch' : '上線' },
+      { date: '2025-03-18', emoji: '📰', label: isEn ? 'Media' : '媒體報導' },
+      { date: '2025-03-19', emoji: '📈', label: isEn ? 'Peak' : '高峰' },
+      {
+        date: '2025-03-21',
+        emoji: '🌱',
+        label: isEn ? 'Gardener' : '園丁模式',
+      },
+    ];
+
+    const chartH = 280;
+    const padL = 52,
+      padR = 16,
+      padT = 30,
+      padB = 40;
+    const w = container.clientWidth || 800;
+    const plotW = w - padL - padR;
+    const plotH = chartH - padT - padB;
+    const maxY = data[data.length - 1].cumulative;
+    const n = data.length;
+
+    // Determine nice Y ticks
+    const yTickCount = 5;
+    const yStep = Math.ceil(maxY / yTickCount / 10) * 10 || 1;
+    const yMax = yStep * yTickCount;
+
+    function xPos(i) {
+      return padL + (i / Math.max(n - 1, 1)) * plotW;
+    }
+    function yPos(v) {
+      return padT + plotH - (v / yMax) * plotH;
+    }
+
+    // Build line path and area path
+    const linePoints = data.map(
+      (d, i) => `${xPos(i).toFixed(1)},${yPos(d.cumulative).toFixed(1)}`,
+    );
+    const linePath = 'M' + linePoints.join(' L');
+    const areaPath =
+      linePath +
+      ` L${xPos(n - 1).toFixed(1)},${(padT + plotH).toFixed(1)} L${xPos(0).toFixed(1)},${(padT + plotH).toFixed(1)} Z`;
+
+    // X labels: show every Nth to avoid crowding
+    const isMobile = window.innerWidth < 600;
+    const labelEvery = isMobile ? Math.ceil(n / 6) : Math.ceil(n / 12);
+
+    let xLabels = '';
+    data.forEach((d, i) => {
+      if (i % labelEvery === 0 || i === n - 1) {
+        const mmdd = d.date.slice(5).replace('-', '/');
+        xLabels += `<text x="${xPos(i).toFixed(1)}" y="${chartH - 4}" text-anchor="middle" class="growth-svg-label">${mmdd}</text>`;
+      }
+    });
+
+    // Y axis ticks
+    let yLabels = '';
+    for (let t = 0; t <= yTickCount; t++) {
+      const val = t * yStep;
+      const y = yPos(val);
+      yLabels += `<line x1="${padL}" x2="${w - padR}" y1="${y.toFixed(1)}" y2="${y.toFixed(1)}" stroke="rgba(0,0,0,0.06)" />`;
+      yLabels += `<text x="${padL - 8}" y="${(y + 4).toFixed(1)}" text-anchor="end" class="growth-svg-label">${val}</text>`;
+    }
+
+    // Data point circles + invisible hover targets
+    let circles = '';
+    data.forEach((d, i) => {
+      const cx = xPos(i).toFixed(1);
+      const cy = yPos(d.cumulative).toFixed(1);
+      circles += `<circle cx="${cx}" cy="${cy}" r="3" fill="#8b5cf6" class="growth-dot" />`;
+      circles += `<circle cx="${cx}" cy="${cy}" r="12" fill="transparent" class="growth-dot-hover" data-idx="${i}" />`;
+    });
+
+    // Milestone markers
+    let milestonesSvg = '';
+    milestones.forEach((m, mi) => {
+      const idx = data.findIndex((d) => d.date === m.date);
+      if (idx === -1) return;
+      const cx = xPos(idx).toFixed(1);
+      const cy = yPos(data[idx].cumulative).toFixed(1);
+      const labelY = Math.max(padT + 10, parseFloat(cy) - 18 - (mi % 2) * 18);
+      milestonesSvg += `<circle cx="${cx}" cy="${cy}" r="5" fill="#8b5cf6" stroke="#fff" stroke-width="2" />`;
+      milestonesSvg += `<text x="${cx}" y="${labelY}" text-anchor="middle" class="growth-milestone-label">${m.emoji} ${m.label}</text>`;
+    });
+
+    // Tooltip element (HTML overlay)
+    container.innerHTML = `
+      <div class="growth-area-wrapper" style="position:relative">
+        <svg viewBox="0 0 ${w} ${chartH}" width="100%" height="${chartH}" class="growth-svg">
+          <defs>
+            <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="rgba(139,92,246,0.3)" />
+              <stop offset="100%" stop-color="rgba(139,92,246,0.02)" />
+            </linearGradient>
+          </defs>
+          ${yLabels}
+          <path d="${areaPath}" fill="url(#areaGrad)" />
+          <path d="${linePath}" fill="none" stroke="#8b5cf6" stroke-width="2" stroke-linejoin="round" />
+          ${circles}
+          ${milestonesSvg}
+          ${xLabels}
+        </svg>
+        <div class="growth-tooltip" id="growth-tooltip" style="display:none"></div>
       </div>`;
-      })
-      .join('')}</div>`;
+
+    // Tooltip interaction
+    const tooltip = document.getElementById('growth-tooltip');
+    container.querySelectorAll('.growth-dot-hover').forEach((el) => {
+      el.addEventListener('mouseenter', function (e) {
+        const idx = parseInt(this.dataset.idx, 10);
+        const d = data[idx];
+        const mmdd = d.date.slice(5).replace('-', '/');
+        tooltip.innerHTML = `<strong>${mmdd}</strong><br>+${d.daily} ${isEn ? 'new' : '新增'}<br>${isEn ? 'Total' : '累計'}: ${d.cumulative}`;
+        tooltip.style.display = 'block';
+        const cx = xPos(idx);
+        const cy = yPos(d.cumulative);
+        tooltip.style.left = Math.min(cx, w - 100) + 'px';
+        tooltip.style.top = cy - 60 + 'px';
+      });
+      el.addEventListener('mouseleave', () => {
+        tooltip.style.display = 'none';
+      });
+    });
   }
 
   // ── Footer ──
@@ -1079,6 +1244,53 @@ const isEn = lang === 'en';
     color: #3b82f6;
     text-decoration: underline;
   }
+  .registry-table-controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.5rem;
+  }
+  .column-toggle-btn {
+    padding: 0.35rem 0.8rem;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    font-size: 0.78rem;
+    color: #64748b;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .column-toggle-btn:hover {
+    border-color: #8b5cf6;
+    color: #8b5cf6;
+  }
+  .col-hideable {
+    display: none;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .registry-table.show-all-columns .col-hideable {
+    display: table-cell;
+    opacity: 1;
+  }
+  .col-title {
+    min-width: 200px;
+  }
+  .col-edit {
+    width: 30px;
+    padding: 0 0.4rem !important;
+  }
+  .col-edit-header {
+    width: 30px;
+  }
+  .edit-link {
+    opacity: 0;
+    text-decoration: none;
+    font-size: 0.8rem;
+    transition: opacity 0.2s;
+  }
+  .registry-row:hover .edit-link {
+    opacity: 1;
+  }
   .col-center {
     text-align: center;
   }
@@ -1345,44 +1557,74 @@ const isEn = lang === 'en';
     font-size: 0.8rem;
     font-variant-numeric: tabular-nums;
   }
+  .queue-hidden {
+    display: grid;
+    gap: 0.3rem;
+  }
+  .queue-toggle-btn {
+    display: block;
+    margin: 0.6rem auto 0;
+    padding: 0.45rem 1.2rem;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    font-size: 0.82rem;
+    color: #64748b;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .queue-toggle-btn:hover {
+    border-color: #8b5cf6;
+    color: #8b5cf6;
+    background: rgba(139, 92, 246, 0.04);
+  }
+  .queue-toggle-btn.expanded {
+    border-color: rgba(0, 0, 0, 0.08);
+  }
 
-  /* ── Growth ── */
+  /* ── Growth Area Chart ── */
   .growth-chart {
     overflow-x: auto;
   }
-  .growth-bars {
-    display: flex;
-    align-items: flex-end;
-    gap: 3px;
-    min-height: 160px;
-    padding-top: 20px;
+  .growth-area-wrapper {
+    position: relative;
   }
-  .growth-bar-col {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    flex: 1;
-    min-width: 24px;
+  .growth-svg {
+    display: block;
   }
-  .growth-bar-value {
-    font-size: 0.65rem;
-    opacity: 0.5;
-    margin-bottom: 2px;
-    font-variant-numeric: tabular-nums;
+  .growth-svg-label {
+    font-size: 11px;
+    fill: rgba(0, 0, 0, 0.4);
+    font-family: inherit;
   }
-  .growth-bar-bar {
-    width: 100%;
-    max-width: 36px;
-    background: linear-gradient(180deg, #3b82f6, #8b5cf6);
-    border-radius: 3px 3px 0 0;
-    transition: height 0.4s ease;
+  .growth-dot {
+    transition: r 0.15s;
   }
-  .growth-bar-date {
-    font-size: 0.6rem;
-    opacity: 0.4;
-    margin-top: 4px;
-    writing-mode: vertical-rl;
-    text-orientation: mixed;
+  .growth-dot-hover:hover + .growth-dot,
+  .growth-dot-hover:hover ~ .growth-dot {
+    r: 5;
+  }
+  .growth-dot-hover {
+    cursor: pointer;
+  }
+  .growth-milestone-label {
+    font-size: 11px;
+    fill: #6d28d9;
+    font-weight: 600;
+    font-family: inherit;
+  }
+  .growth-tooltip {
+    position: absolute;
+    background: rgba(30, 41, 59, 0.92);
+    color: #fff;
+    padding: 0.5rem 0.7rem;
+    border-radius: 8px;
+    font-size: 0.78rem;
+    line-height: 1.4;
+    pointer-events: none;
+    z-index: 10;
+    white-space: nowrap;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
 
   /* ── Organ Heart Pulse ── */
