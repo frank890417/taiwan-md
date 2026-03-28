@@ -4,6 +4,10 @@ on:
   issues:
     types: [opened, edited]
 
+concurrency:
+  group: create-article-from-issue-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pull-requests: write
