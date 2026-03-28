@@ -192,7 +192,7 @@ for (const cat of categories) {
           label: subcat,
           group: cat,
           color: categoryColors[cat],
-          size: 14,
+          size: 5,
           isSubcategory: true,
         });
         edges.push({ source: cat, target: subcatId });
@@ -432,7 +432,7 @@ const graphData = JSON.stringify({ nodes, edges });
         return d.color || '#ccc';
       })
       .attr('stroke', (d) => (d.isSubcategory ? d.color : '#fff'))
-      .attr('stroke-width', (d) => (d.isSubcategory ? 2.5 : 2))
+      .attr('stroke-width', (d) => (d.isSubcategory ? 1.5 : 2))
       .attr('cursor', 'pointer')
       .call(
         d3
@@ -465,7 +465,7 @@ const graphData = JSON.stringify({ nodes, edges });
       .attr('font-size', (d) => {
         if (d.group === 'center') return isCompact ? '14px' : '16px';
         if (d.size >= 20) return isCompact ? '12px' : '13px';
-        if (d.isSubcategory) return isCompact ? '10px' : '11px';
+        if (d.isSubcategory) return isCompact ? '7px' : '8px';
         return isCompact ? '9px' : '9px';
       })
       .attr('font-weight', (d) => (d.size >= 14 ? 'bold' : 'normal'))
@@ -496,7 +496,7 @@ const graphData = JSON.stringify({ nodes, edges });
         tooltip.style.display = 'none';
         d3.select(event.target)
           .attr('stroke', d.isSubcategory ? d.color : '#fff')
-          .attr('stroke-width', d.isSubcategory ? 2.5 : 2);
+          .attr('stroke-width', d.isSubcategory ? 1.5 : 2);
       });
 
     // Search
@@ -509,7 +509,7 @@ const graphData = JSON.stringify({ nodes, edges });
         node
           .attr('opacity', 1)
           .attr('stroke', (d) => (d.isSubcategory ? d.color : '#fff'))
-          .attr('stroke-width', (d) => (d.isSubcategory ? 2.5 : 2));
+          .attr('stroke-width', (d) => (d.isSubcategory ? 1.5 : 2));
         link.attr('opacity', 0.5);
         label.attr('opacity', 1);
         if (searchCount) searchCount.textContent = '';
