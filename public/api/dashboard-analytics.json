@@ -1,0 +1,273 @@
+{
+  "lastUpdated": "2026-03-28T08:48:05.830Z",
+  "dateRange": "30d",
+  "totals": {
+    "pageViews": 195565,
+    "activeUsers": 79216,
+    "sessions": 96888,
+    "newUsers": 79246,
+    "avgSessionDuration": "110.9",
+    "bounceRate": "55.6"
+  },
+  "topPages": [
+    {
+      "path": "/",
+      "pageViews": 99167,
+      "users": 68938
+    },
+    {
+      "path": "/en/",
+      "pageViews": 12040,
+      "users": 9241
+    },
+    {
+      "path": "/graph/",
+      "pageViews": 6938,
+      "users": 5054
+    },
+    {
+      "path": "/history/",
+      "pageViews": 5465,
+      "users": 4667
+    },
+    {
+      "path": "/about/",
+      "pageViews": 5382,
+      "users": 3671
+    },
+    {
+      "path": "/contribute/",
+      "pageViews": 4384,
+      "users": 3167
+    },
+    {
+      "path": "/food/",
+      "pageViews": 4178,
+      "users": 3702
+    },
+    {
+      "path": "/geography/",
+      "pageViews": 3836,
+      "users": 3439
+    },
+    {
+      "path": "/resources/",
+      "pageViews": 2621,
+      "users": 1996
+    },
+    {
+      "path": "/culture/",
+      "pageViews": 2594,
+      "users": 2277
+    },
+    {
+      "path": "/data/",
+      "pageViews": 2587,
+      "users": 1851
+    },
+    {
+      "path": "/people/",
+      "pageViews": 1984,
+      "users": 1720
+    },
+    {
+      "path": "/map/",
+      "pageViews": 1965,
+      "users": 1198
+    },
+    {
+      "path": "/history/民主化/",
+      "pageViews": 1668,
+      "users": 1508
+    },
+    {
+      "path": "/technology/半導體產業/",
+      "pageViews": 1597,
+      "users": 1425
+    },
+    {
+      "path": "/lifestyle/",
+      "pageViews": 1578,
+      "users": 1373
+    },
+    {
+      "path": "/art/",
+      "pageViews": 1536,
+      "users": 1356
+    },
+    {
+      "path": "/music/",
+      "pageViews": 1492,
+      "users": 1354
+    },
+    {
+      "path": "/nature/",
+      "pageViews": 1325,
+      "users": 1161
+    },
+    {
+      "path": "/technology/",
+      "pageViews": 1270,
+      "users": 1118
+    }
+  ],
+  "countries": [
+    {
+      "country": "Taiwan",
+      "users": 64769
+    },
+    {
+      "country": "United States",
+      "users": 4914
+    },
+    {
+      "country": "Japan",
+      "users": 1969
+    },
+    {
+      "country": "Australia",
+      "users": 900
+    },
+    {
+      "country": "Singapore",
+      "users": 853
+    },
+    {
+      "country": "Hong Kong",
+      "users": 807
+    },
+    {
+      "country": "Canada",
+      "users": 744
+    },
+    {
+      "country": "United Kingdom",
+      "users": 666
+    },
+    {
+      "country": "Germany",
+      "users": 612
+    },
+    {
+      "country": "China",
+      "users": 495
+    },
+    {
+      "country": "Malaysia",
+      "users": 374
+    },
+    {
+      "country": "France",
+      "users": 355
+    },
+    {
+      "country": "Netherlands",
+      "users": 330
+    },
+    {
+      "country": "New Zealand",
+      "users": 210
+    },
+    {
+      "country": "Thailand",
+      "users": 164
+    },
+    {
+      "country": "Vietnam",
+      "users": 159
+    },
+    {
+      "country": "Sweden",
+      "users": 149
+    },
+    {
+      "country": "South Korea",
+      "users": 137
+    },
+    {
+      "country": "India",
+      "users": 94
+    },
+    {
+      "country": "Switzerland",
+      "users": 84
+    }
+  ],
+  "sources": [
+    {
+      "source": "(direct)",
+      "medium": "(none)",
+      "sessions": 33474
+    },
+    {
+      "source": "m.facebook.com",
+      "medium": "referral",
+      "sessions": 22012
+    },
+    {
+      "source": "l.facebook.com",
+      "medium": "referral",
+      "sessions": 13464
+    },
+    {
+      "source": "lm.facebook.com",
+      "medium": "referral",
+      "sessions": 5692
+    },
+    {
+      "source": "github.com",
+      "medium": "referral",
+      "sessions": 4821
+    },
+    {
+      "source": "l.threads.com",
+      "medium": "referral",
+      "sessions": 4803
+    },
+    {
+      "source": "t.co",
+      "medium": "referral",
+      "sessions": 4411
+    },
+    {
+      "source": "google",
+      "medium": "organic",
+      "sessions": 1734
+    },
+    {
+      "source": "ig_text_feed_timeline",
+      "medium": "referral",
+      "sessions": 1333
+    },
+    {
+      "source": "facebook.com",
+      "medium": "referral",
+      "sessions": 1030
+    },
+    {
+      "source": "l.instagram.com",
+      "medium": "referral",
+      "sessions": 715
+    },
+    {
+      "source": "ig_text_post_permalink",
+      "medium": "referral",
+      "sessions": 591
+    },
+    {
+      "source": "ig_text_feed_timeline",
+      "medium": "(not set)",
+      "sessions": 525
+    },
+    {
+      "source": "(not set)",
+      "medium": "(not set)",
+      "sessions": 473
+    },
+    {
+      "source": "plurk.com",
+      "medium": "referral",
+      "sessions": 328
+    }
+  ]
+}

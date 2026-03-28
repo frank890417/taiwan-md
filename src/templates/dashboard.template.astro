@@ -162,6 +162,9 @@ const isEn = lang === 'en';
               <th class="sortable" data-sort="category"
                 >{t('dashboard.registry.col.category')}</th
               >
+              <th class="sortable" data-sort="subcategory"
+                >{isEn ? 'Subcategory' : '子分類'}</th
+              >
               <th class="sortable" data-sort="date"
                 >{t('dashboard.registry.col.date')}</th
               >
@@ -287,6 +290,28 @@ const isEn = lang === 'en';
       </div>
     </section>
 
+    <!-- GA4 Analytics -->
+    <section class="section" id="analytics">
+      <h2 class="section-title">
+        {isEn ? '📡 Live Pulse' : '📡 即時脈搏'}
+      </h2>
+      <p class="section-subtitle">
+        {
+          isEn
+            ? 'Traffic & audience insights (last 30 days)'
+            : '流量與受眾洞察（近 30 天）'
+        }
+      </p>
+      <div class="analytics-grid">
+        <div class="analytics-totals" id="analytics-totals"></div>
+        <div class="analytics-sources" id="analytics-sources"></div>
+      </div>
+      <div class="analytics-detail-grid">
+        <div class="analytics-pages" id="analytics-pages"></div>
+        <div class="analytics-countries" id="analytics-countries"></div>
+      </div>
+    </section>
+
     <!-- Next Steps -->
     <section class="section" id="next-steps">
       <h2 class="section-title">{isEn ? '🎯 Next Steps' : '🎯 下一步'}</h2>
@@ -331,7 +356,10 @@ const isEn = lang === 'en';
     fetch('/api/dashboard-vitals.json').then((r) => r.json()),
     fetch('/api/dashboard-organism.json').then((r) => r.json()),
     fetch('/api/dashboard-translations.json').then((r) => r.json()),
-  ]).then(([articles, vitals, organism, translations]) => {
+    fetch('/api/dashboard-analytics.json')
+      .then((r) => r.json())
+      .catch(() => null),
+  ]).then(([articles, vitals, organism, translations, analytics]) => {
     allArticles = articles;
     renderVitals(vitals);
     renderActivityFeed(articles);
@@ -342,6 +370,7 @@ const isEn = lang === 'en';
     renderImmune(articles, vitals);
     renderGrowth(articles);
     renderContentAnalysis(articles);
+    if (analytics) renderAnalytics(analytics);
     renderNextSteps(articles, translations);
     renderFooter(vitals);
   });
@@ -475,26 +504,19 @@ const isEn = lang === 'en';
     feed.innerHTML = recent
       .map((a) => {
         const emoji = (a.revision || 0) > 1 ? '✏️' : '📄';
-        const catLabel = categoryLabels[a.category] || a.category;
         const articleUrl = langPrefix + '/' + a.category + '/' + a.slug;
         const dateStr = a.date || '';
         return (
-          '<div class="activity-item">' +
-          '<span class="activity-dot"></span>' +
-          '<span class="activity-emoji">' +
+          '<div class="feed-item">' +
+          '<span class="feed-emoji">' +
           emoji +
           '</span>' +
           '<a href="' +
           articleUrl +
-          '" class="activity-title">' +
+          '" target="_blank" rel="noopener" class="feed-title">' +
           a.title +
           '</a>' +
-          '<span class="activity-cat cat-badge cat-' +
-          a.category +
-          '">' +
-          catLabel +
-          '</span>' +
-          '<span class="activity-date">' +
+          '<span class="feed-date">' +
           dateStr +
           '</span>' +
           '</div>'
@@ -534,11 +556,29 @@ const isEn = lang === 'en';
       return (va > vb ? 1 : va < vb ? -1 : 0) * sortDir;
     });
 
+    const categoryColors = {
+      about: '#6366f1',
+      art: '#ec4899',
+      culture: '#f59e0b',
+      economy: '#10b981',
+      food: '#f97316',
+      geography: '#06b6d4',
+      history: '#8b5cf6',
+      lifestyle: '#84cc16',
+      music: '#a855f7',
+      nature: '#14b8a6',
+      people: '#3b82f6',
+      society: '#ef4444',
+      technology: '#0ea5e9',
+    };
+
     tbody.innerHTML = sorted
       .map((a) => {
         const catLabel = categoryLabels[a.category] || a.category;
+        const catColor = categoryColors[a.category] || '#64748b';
         const date = a.date || '—';
         const reviewed = a.lastHumanReview ? '✅' : '—';
+        const subcategory = a.subcategory || '—';
         const langs = ['en', 'es', 'ja']
           .map(
             (l) =>
@@ -549,7 +589,8 @@ const isEn = lang === 'en';
         const editUrl = `https://github.com/frank890417/taiwan-md/edit/main/knowledge/${a.category}/${a.slug}.md`;
         return `<tr class="registry-row" data-url="${articleUrl}" title="${(a.description || '').replace(/"/g, '&quot;')}">
           <td class="col-title"><a href="${articleUrl}">${a.title}</a>${a.featured ? ' ⭐' : ''}</td>
-          <td><span class="cat-badge cat-${a.category}">${catLabel}</span></td>
+          <td><span class="cat-tag" style="background:${catColor}15;color:${catColor};border:1px solid ${catColor}30">${catLabel}</span></td>
+          <td>${subcategory}</td>
           <td>${date}</td>
           <td class="col-center">${reviewed}</td>
           <td class="col-right">${(a.wordCount || 0).toLocaleString()}</td>
@@ -1370,6 +1411,160 @@ const isEn = lang === 'en';
   }
 
   // ── Next Steps ──
+  // ── GA4 Analytics ──
+  function renderAnalytics(data) {
+    const totalsEl = document.getElementById('analytics-totals');
+    const sourcesEl = document.getElementById('analytics-sources');
+    const pagesEl = document.getElementById('analytics-pages');
+    const countriesEl = document.getElementById('analytics-countries');
+    if (!totalsEl) return;
+
+    const t = data.totals;
+    const fmtNum = (n) => (typeof n === 'number' ? n.toLocaleString() : n);
+
+    // Totals row
+    totalsEl.innerHTML = [
+      {
+        icon: '👁️',
+        value: fmtNum(t.pageViews),
+        label: isEn ? 'Page Views' : '頁面瀏覽',
+      },
+      {
+        icon: '👤',
+        value: fmtNum(t.activeUsers),
+        label: isEn ? 'Visitors' : '訪客',
+      },
+      {
+        icon: '🔄',
+        value: fmtNum(t.sessions),
+        label: isEn ? 'Sessions' : '工作階段',
+      },
+      {
+        icon: '🆕',
+        value: fmtNum(t.newUsers),
+        label: isEn ? 'New Users' : '新訪客',
+      },
+      {
+        icon: '⏱️',
+        value: Math.round(parseFloat(t.avgSessionDuration)) + 's',
+        label: isEn ? 'Avg Duration' : '平均停留',
+      },
+      {
+        icon: '↩️',
+        value: t.bounceRate + '%',
+        label: isEn ? 'Bounce Rate' : '跳出率',
+      },
+    ]
+      .map(
+        (m) => `<div class="ga-stat-card">
+      <div class="ga-stat-icon">${m.icon}</div>
+      <div class="ga-stat-value" data-count="${typeof m.value === 'string' ? m.value.replace(/[^0-9.]/g, '') : m.value}">${m.value}</div>
+      <div class="ga-stat-label">${m.label}</div>
+    </div>`,
+      )
+      .join('');
+
+    // Traffic sources
+    if (sourcesEl && data.sources) {
+      const maxSessions = data.sources[0]?.sessions || 1;
+      sourcesEl.innerHTML =
+        `<h3 class="subsection-title">${isEn ? '🔗 Traffic Sources' : '🔗 流量來源'}</h3>` +
+        data.sources
+          .slice(0, 8)
+          .map((s) => {
+            const pct = ((s.sessions / maxSessions) * 100).toFixed(0);
+            const label =
+              s.source === '(direct)'
+                ? isEn
+                  ? 'Direct'
+                  : '直接造訪'
+                : s.source;
+            return `<div class="ga-source-row">
+            <span class="ga-source-name">${label}</span>
+            <div class="ga-source-bar-track">
+              <div class="ga-source-bar-fill" style="width:${pct}%"></div>
+            </div>
+            <span class="ga-source-count">${s.sessions.toLocaleString()}</span>
+          </div>`;
+          })
+          .join('');
+    }
+
+    // Top pages
+    if (pagesEl && data.topPages) {
+      pagesEl.innerHTML =
+        `<h3 class="subsection-title">${isEn ? '🏆 Popular Pages' : '🏆 熱門頁面'}</h3>` +
+        '<div class="ga-pages-list">' +
+        data.topPages
+          .slice(0, 12)
+          .map((p, i) => {
+            const name =
+              p.path === '/'
+                ? isEn
+                  ? 'Home'
+                  : '首頁'
+                : decodeURIComponent(p.path.replace(/^\/|\/$/g, ''));
+            return `<div class="ga-page-row">
+            <span class="ga-page-rank">${i + 1}</span>
+            <a href="${p.path}" target="_blank" rel="noopener" class="ga-page-name">${name}</a>
+            <span class="ga-page-pv">${p.pageViews.toLocaleString()} PV</span>
+          </div>`;
+          })
+          .join('') +
+        '</div>';
+    }
+
+    // Countries
+    if (countriesEl && data.countries) {
+      const countryFlags = {
+        Taiwan: '🇹🇼',
+        'United States': '🇺🇸',
+        Japan: '🇯🇵',
+        Australia: '🇦🇺',
+        Singapore: '🇸🇬',
+        Canada: '🇨🇦',
+        'Hong Kong': '🇭🇰',
+        'United Kingdom': '🇬🇧',
+        Germany: '🇩🇪',
+        Malaysia: '🇲🇾',
+        France: '🇫🇷',
+        'South Korea': '🇰🇷',
+        Thailand: '🇹🇭',
+        Netherlands: '🇳🇱',
+        Indonesia: '🇮🇩',
+        Philippines: '🇵🇭',
+        Brazil: '🇧🇷',
+        India: '🇮🇳',
+        Vietnam: '🇻🇳',
+        'New Zealand': '🇳🇿',
+        China: '🇨🇳',
+        Mexico: '🇲🇽',
+        Spain: '🇪🇸',
+        Italy: '🇮🇹',
+      };
+      const maxUsers = data.countries[0]?.users || 1;
+      countriesEl.innerHTML =
+        `<h3 class="subsection-title">${isEn ? '🌍 Visitor Geography' : '🌍 訪客地理分布'}</h3>` +
+        '<div class="ga-countries-list">' +
+        data.countries
+          .slice(0, 12)
+          .map((c) => {
+            const flag = countryFlags[c.country] || '🌐';
+            const pct = ((c.users / maxUsers) * 100).toFixed(0);
+            return `<div class="ga-country-row">
+            <span class="ga-country-flag">${flag}</span>
+            <span class="ga-country-name">${c.country}</span>
+            <div class="ga-country-bar-track">
+              <div class="ga-country-bar-fill" style="width:${pct}%"></div>
+            </div>
+            <span class="ga-country-count">${c.users.toLocaleString()}</span>
+          </div>`;
+          })
+          .join('') +
+        '</div>';
+    }
+  }
+
   function renderNextSteps(articles, translations) {
     const grid = document.getElementById('nextsteps-grid');
 
@@ -1629,15 +1824,15 @@ const isEn = lang === 'en';
   /* ── Vital Signs ── */
   .vitals-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 0.8rem;
   }
   .vital-card {
     background: rgba(255, 255, 255, 0.6);
     backdrop-filter: blur(12px);
     border: 1px solid rgba(0, 0, 0, 0.06);
     border-radius: 12px;
-    padding: 1.2rem;
+    padding: 1rem 1.2rem;
     text-align: center;
     transition:
       transform 0.2s,
@@ -1667,11 +1862,11 @@ const isEn = lang === 'en';
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
   }
   .vital-emoji {
-    font-size: 1.6rem;
-    margin-bottom: 0.4rem;
+    font-size: 1.5rem;
+    margin-bottom: 0.2rem;
   }
   .vital-value {
-    font-size: 2.5rem;
+    font-size: 2rem;
     font-weight: 700;
     line-height: 1.2;
     font-variant-numeric: tabular-nums;
@@ -1679,7 +1874,7 @@ const isEn = lang === 'en';
   .vital-label {
     font-size: 0.85rem;
     font-weight: 600;
-    margin-top: 0.3rem;
+    margin-top: 0.2rem;
   }
   .vital-desc {
     font-size: 0.75rem;
@@ -1853,6 +2048,14 @@ const isEn = lang === 'en';
     border-radius: 4px;
     font-size: 0.75rem;
     background: rgba(0, 0, 0, 0.05);
+    white-space: nowrap;
+  }
+  .cat-tag {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
     white-space: nowrap;
   }
   .col-langs {
@@ -2374,8 +2577,6 @@ const isEn = lang === 'en';
   /* ── Activity Feed ── */
   .activity-feed {
     position: relative;
-    padding-left: 1.5rem;
-    border-left: 2px solid rgba(139, 92, 246, 0.15);
     max-height: 300px;
     overflow-y: auto;
   }
@@ -2422,6 +2623,36 @@ const isEn = lang === 'en';
     font-size: 0.78rem;
     opacity: 0.4;
     font-variant-numeric: tabular-nums;
+  }
+  /* ── Activity Feed (new style) ── */
+  .feed-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.4rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+  }
+  .feed-emoji {
+    flex-shrink: 0;
+  }
+  .feed-title {
+    flex: 1;
+    color: #1e293b;
+    text-decoration: none;
+    font-size: 0.9rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .feed-title:hover {
+    color: #8b5cf6;
+    text-decoration: underline;
+  }
+  .feed-date {
+    font-size: 0.75rem;
+    color: #94a3b8;
+    white-space: nowrap;
+    flex-shrink: 0;
   }
 
   /* ── Footer ── */
@@ -2497,6 +2728,153 @@ const isEn = lang === 'en';
     .donut-chart {
       width: 80px;
       height: 80px;
+    }
+  }
+
+  /* ── GA4 Analytics ── */
+  .analytics-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .analytics-totals {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 0.8rem;
+  }
+  .ga-stat-card {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+  }
+  .ga-stat-icon {
+    font-size: 1.3rem;
+    margin-bottom: 0.3rem;
+  }
+  .ga-stat-value {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #1e293b;
+    line-height: 1.2;
+  }
+  .ga-stat-label {
+    font-size: 0.75rem;
+    color: #94a3b8;
+    margin-top: 0.2rem;
+  }
+  .analytics-detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+  .analytics-pages,
+  .analytics-countries,
+  .analytics-sources {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 1.2rem;
+  }
+  .ga-source-row,
+  .ga-country-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0;
+    font-size: 0.85rem;
+  }
+  .ga-source-name,
+  .ga-country-name {
+    width: 120px;
+    flex-shrink: 0;
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .ga-source-bar-track,
+  .ga-country-bar-track {
+    flex: 1;
+    height: 8px;
+    background: rgba(0, 0, 0, 0.04);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .ga-source-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #8b5cf6, #6366f1);
+    border-radius: 4px;
+    transition: width 0.8s ease;
+  }
+  .ga-country-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, #06b6d4, #3b82f6);
+    border-radius: 4px;
+    transition: width 0.8s ease;
+  }
+  .ga-source-count,
+  .ga-country-count {
+    width: 60px;
+    text-align: right;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #64748b;
+    flex-shrink: 0;
+  }
+  .ga-country-flag {
+    font-size: 1.1rem;
+    flex-shrink: 0;
+  }
+  .ga-page-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.04);
+  }
+  .ga-page-rank {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    background: rgba(139, 92, 246, 0.1);
+    color: #8b5cf6;
+    font-size: 0.7rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+  .ga-page-name {
+    flex: 1;
+    font-size: 0.85rem;
+    color: #1e293b;
+    text-decoration: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .ga-page-name:hover {
+    color: #8b5cf6;
+    text-decoration: underline;
+  }
+  .ga-page-pv {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #64748b;
+    flex-shrink: 0;
+  }
+  @media (max-width: 768px) {
+    .analytics-detail-grid {
+      grid-template-columns: 1fr;
+    }
+    .analytics-totals {
+      grid-template-columns: repeat(3, 1fr);
     }
   }
 </style>
