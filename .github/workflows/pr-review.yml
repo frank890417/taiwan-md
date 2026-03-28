@@ -85,7 +85,7 @@ jobs:
         if: steps.files.outputs.pr_type == 'content' || steps.files.outputs.pr_type == 'mixed'
         id: review
         run: |
-          chmod +x scripts/review-pr.sh
+          chmod +x scripts/tools/review-pr.sh
           CONTENT_FILES="${{ steps.files.outputs.content_files }}"
           
           # Convert newlines to space for script args
@@ -93,7 +93,7 @@ jobs:
           
           # Run review (capture output, don't fail yet)
           set +e
-          RESULT=$(bash scripts/review-pr.sh $ARGS 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
+          RESULT=$(bash scripts/tools/review-pr.sh $ARGS 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
           EXIT_CODE=$?
           set -e
           

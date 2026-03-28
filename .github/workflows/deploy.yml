@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Validate frontmatter (changed files)
-        run: node scripts/test-frontmatter.mjs --ci
+        run: node scripts/core/test-frontmatter.mjs --ci
       - name: Build
         run: npm run build
       - name: Upload artifact

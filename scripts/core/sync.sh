@@ -112,9 +112,9 @@ echo ""
 echo "🔧 步驟 2/2: 修復 frontmatter..."
 
 # 使用 Python 腳本修復 frontmatter
-if [ -f "scripts/fix-all-frontmatter.py" ]; then
+if [ -f "scripts/utils/fix-all-frontmatter.py" ]; then
     echo "🐍 執行 frontmatter 修復..."
-    python3 scripts/fix-all-frontmatter.py
+    python3 scripts/utils/fix-all-frontmatter.py
     echo "  ✅ frontmatter 修復完成"
 else
     echo "  ⚠️  找不到 fix-all-frontmatter.py，跳過 frontmatter 修復"
@@ -136,7 +136,7 @@ echo "🔧 frontmatter 格式已統一修復"
 # 3. 圖片健康檢查
 echo ""
 echo "🖼️ 步驟 3: 圖片健康檢查..."
-node scripts/check-images.mjs || echo "  ⚠️  有缺失圖片，請執行 npm run check-images 查看細節"
+node scripts/utils/check-images.mjs || echo "  ⚠️  有缺失圖片，請執行 npm run check-images 查看細節"
 
 echo ""
 echo "▶️  下一步：執行 npm run build 建構網站"

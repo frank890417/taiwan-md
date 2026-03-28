@@ -62,7 +62,7 @@ print("✅ stats.json updated")
 PYEOF
 
 # 5. Generate content stats
-node scripts/generate-content-stats.js 2>/dev/null || true
+node scripts/tools/generate-content-stats.js 2>/dev/null || true
 
 echo "✅ Stats updated: ⭐${STARS} 🍴${FORKS} 👥${CONTRIBUTORS} 📄${TOTAL_PAGES}"
 echo ""

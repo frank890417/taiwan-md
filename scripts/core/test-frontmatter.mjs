@@ -1,6 +1,6 @@
 /**
  * Frontmatter YAML validation for Taiwan.md
- * 
+ *
  * Scans all .md files in knowledge/ and validates:
  * - YAML parses without error (gray-matter)
  * - Required fields exist: title, description, date, tags
@@ -8,7 +8,7 @@
  * - date is a valid date
  * - No duplicate slugs within a category
  * - File naming conventions (no spaces in en/, lowercase)
- * 
+ *
  * Run: node scripts/test-frontmatter.mjs
  * Exit 1 = validation failed (block commit/deploy)
  */
@@ -19,8 +19,19 @@ import matter from 'gray-matter';
 
 const KNOWLEDGE = resolve(process.cwd(), 'knowledge');
 const CATEGORIES = [
-  'About', 'History', 'Geography', 'Culture', 'Food', 'Art',
-  'Music', 'Technology', 'Nature', 'People', 'Society', 'Economy', 'Lifestyle'
+  'About',
+  'History',
+  'Geography',
+  'Culture',
+  'Food',
+  'Art',
+  'Music',
+  'Technology',
+  'Nature',
+  'People',
+  'Society',
+  'Economy',
+  'Lifestyle',
 ];
 const LANGS = ['', 'en', 'es', 'ja']; // '' = zh-TW root
 
@@ -49,7 +60,9 @@ if (CI_MODE || STAGED_MODE) {
     changedFiles = new Set(diff.trim().split('\n').filter(Boolean));
     const mode = STAGED_MODE ? 'Staged' : 'CI';
     if (changedFiles.size === 0) {
-      console.log(`🔍 ${mode} mode: no knowledge/ .md files changed, skipping.\n`);
+      console.log(
+        `🔍 ${mode} mode: no knowledge/ .md files changed, skipping.\n`,
+      );
       process.exit(0);
     }
     console.log(`🔍 ${mode} mode: checking ${changedFiles.size} file(s)\n`);
@@ -68,7 +81,7 @@ function isValidDate(val) {
 }
 
 function isArrayOfStrings(val) {
-  return Array.isArray(val) && val.every(v => typeof v === 'string');
+  return Array.isArray(val) && val.every((v) => typeof v === 'string');
 }
 
 // ── Scan ──
@@ -78,7 +91,9 @@ for (const lang of LANGS) {
     const dir = lang ? join(KNOWLEDGE, lang, cat) : join(KNOWLEDGE, cat);
     let files;
     try {
-      files = (await readdir(dir)).filter(f => f.endsWith('.md') && !f.startsWith('_'));
+      files = (await readdir(dir)).filter(
+        (f) => f.endsWith('.md') && !f.startsWith('_'),
+      );
     } catch {
       // Category doesn't exist for this language — OK
       continue;
@@ -88,7 +103,9 @@ for (const lang of LANGS) {
 
     for (const file of files) {
       const filePath = join(dir, file);
-      const relPath = lang ? `knowledge/${lang}/${cat}/${file}` : `knowledge/${cat}/${file}`;
+      const relPath = lang
+        ? `knowledge/${lang}/${cat}/${file}`
+        : `knowledge/${cat}/${file}`;
       const label = lang ? `${lang}/${cat}/${file}` : `${cat}/${file}`;
       const slug = basename(file, '.md');
 
@@ -105,7 +122,9 @@ for (const lang of LANGS) {
         fm = parsed.data;
       } catch (err) {
         // YAML parse errors are always critical — they crash getStaticPaths
-        errors.push(`${label}: YAML parse error — ${err.message.split('\n')[0]}`);
+        errors.push(
+          `${label}: YAML parse error — ${err.message.split('\n')[0]}`,
+        );
         continue;
       }
 
@@ -125,12 +144,16 @@ for (const lang of LANGS) {
       if (!fm.tags) {
         warnings.push(`${label}: missing 'tags' (should be an array)`);
       } else if (!isArrayOfStrings(fm.tags)) {
-        errors.push(`${label}: 'tags' must be an array of strings, got ${typeof fm.tags}: ${JSON.stringify(fm.tags).slice(0, 80)}`);
+        errors.push(
+          `${label}: 'tags' must be an array of strings, got ${typeof fm.tags}: ${JSON.stringify(fm.tags).slice(0, 80)}`,
+        );
       }
 
       // 3. Duplicate slug detection
       if (slugs.has(slug)) {
-        errors.push(`${label}: duplicate slug '${slug}' (also: ${slugs.get(slug)})`);
+        errors.push(
+          `${label}: duplicate slug '${slug}' (also: ${slugs.get(slug)})`,
+        );
       }
       slugs.set(slug, file);
 
@@ -153,17 +176,22 @@ console.log(`\n📋 Frontmatter validation: ${totalFiles} files scanned\n`);
 
 if (warnings.length > 0) {
   console.log(`⚠️  ${warnings.length} warning(s):`);
-  warnings.slice(0, 20).forEach(w => console.log(`   - ${w}`));
-  if (warnings.length > 20) console.log(`   ... and ${warnings.length - 20} more`);
+  warnings.slice(0, 20).forEach((w) => console.log(`   - ${w}`));
+  if (warnings.length > 20)
+    console.log(`   ... and ${warnings.length - 20} more`);
   console.log('');
 }
 
 if (errors.length > 0) {
   console.log(`🔴 ${errors.length} error(s):`);
-  errors.slice(0, 30).forEach(e => console.log(`   - ${e}`));
+  errors.slice(0, 30).forEach((e) => console.log(`   - ${e}`));
   if (errors.length > 30) console.log(`   ... and ${errors.length - 30} more`);
-  console.log(`\n❌ Frontmatter validation FAILED (${errors.length} errors in ${totalFiles} files)`);
+  console.log(
+    `\n❌ Frontmatter validation FAILED (${errors.length} errors in ${totalFiles} files)`,
+  );
   process.exit(1);
 } else {
-  console.log(`✅ Frontmatter validation passed: ${passedFiles}/${totalFiles} files OK${warnings.length ? ` (${warnings.length} warnings)` : ''}`);
+  console.log(
+    `✅ Frontmatter validation passed: ${passedFiles}/${totalFiles} files OK${warnings.length ? ` (${warnings.length} warnings)` : ''}`,
+  );
 }

@@ -28,17 +28,25 @@ let dailyGrowth = [];
 try {
   const log = execSync(
     'git log --format="%ai" --diff-filter=A -- "knowledge/*.md" "knowledge/**/*.md" | cut -d" " -f1 | sort | uniq -c | sort -k2',
-    { cwd: path.join(__dirname, '..'), encoding: 'utf-8' }
+    { cwd: path.join(__dirname, '..'), encoding: 'utf-8' },
   );
-  dailyGrowth = log.trim().split('\n').filter(Boolean).map(line => {
-    const [count, date] = line.trim().split(/\s+/);
-    return { date, count: parseInt(count) };
-  });
+  dailyGrowth = log
+    .trim()
+    .split('\n')
+    .filter(Boolean)
+    .map((line) => {
+      const [count, date] = line.trim().split(/\s+/);
+      return { date, count: parseInt(count) };
+    });
 } catch (e) {
   console.error('Git log failed:', e.message);
 }
 
-const stats = { categories, dailyGrowth, updated: new Date().toISOString().slice(0, 10) };
+const stats = {
+  categories,
+  dailyGrowth,
+  updated: new Date().toISOString().slice(0, 10),
+};
 const out = path.join(__dirname, '..', 'src', 'data', 'content-stats.json');
 fs.writeFileSync(out, JSON.stringify(stats, null, 2));
 console.log('✅ content-stats.json generated');

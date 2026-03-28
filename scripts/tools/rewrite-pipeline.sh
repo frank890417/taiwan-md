@@ -22,7 +22,7 @@
 #   Step 0: 讀 EDITORIAL.md 確認品質標準
 #   Step 1: 深度研究（至少 8+ 來源，含一手、英文、時間跨度）
 #   Step 2: 寫入 knowledge/{Category}/{主題}.md
-#   Step 3: bash scripts/sync.sh
+#   Step 3: bash scripts/core/sync.sh
 #   Step 4: npm run build（驗證 frontmatter）
 #   Step 5: bash tools/detect-ai-hollow.sh（分數 ≤ 3）
 #   Step 6: git add -A && git commit && git push
@@ -78,7 +78,7 @@ echo ""
 
 # Step 3: Sync
 echo "🔄 Step 3/6: 同步 knowledge/ → src/content/..."
-bash scripts/sync.sh
+bash scripts/core/sync.sh
 echo ""
 
 # Step 4: Build
