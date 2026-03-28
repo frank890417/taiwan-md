@@ -93,6 +93,14 @@ const isEn = lang === 'en';
       </div>
     </section>
 
+    <!-- Recent Activity -->
+    <section class="section" id="activity">
+      <h2 class="section-title">
+        {isEn ? '🔔 Recent Activity' : '🔔 最近活動'}
+      </h2>
+      <div class="activity-feed" id="activity-feed"></div>
+    </section>
+
     <!-- Article Registry -->
     <section class="section" id="registry">
       <h2 class="section-title">{t('dashboard.registry.title')}</h2>
@@ -308,6 +316,7 @@ const isEn = lang === 'en';
   ]).then(([articles, vitals, organism, translations]) => {
     allArticles = articles;
     renderVitals(vitals);
+    renderActivityFeed(articles);
     renderRegistry(articles);
     renderHealthDistribution(articles);
     renderOrganism(organism);
@@ -428,6 +437,51 @@ const isEn = lang === 'en';
         }, i * 100);
       }
     });
+  }
+
+  // ── Activity Feed ──
+  function renderActivityFeed(articles) {
+    const feed = document.getElementById('activity-feed');
+    // Sort by date descending, take top 10
+    const recent = [...articles]
+      .filter((a) => a.date)
+      .sort((a, b) => b.date.localeCompare(a.date))
+      .slice(0, 10);
+
+    if (recent.length === 0) {
+      feed.textContent = isEn ? 'No recent activity' : '暫無最近活動';
+      return;
+    }
+
+    feed.innerHTML = recent
+      .map((a) => {
+        const emoji = (a.revision || 0) > 1 ? '✏️' : '📄';
+        const catLabel = categoryLabels[a.category] || a.category;
+        const articleUrl = langPrefix + '/' + a.category + '/' + a.slug;
+        const dateStr = a.date || '';
+        return (
+          '<div class="activity-item">' +
+          '<span class="activity-dot"></span>' +
+          '<span class="activity-emoji">' +
+          emoji +
+          '</span>' +
+          '<a href="' +
+          articleUrl +
+          '" class="activity-title">' +
+          a.title +
+          '</a>' +
+          '<span class="activity-cat cat-badge cat-' +
+          a.category +
+          '">' +
+          catLabel +
+          '</span>' +
+          '<span class="activity-date">' +
+          dateStr +
+          '</span>' +
+          '</div>'
+        );
+      })
+      .join('');
   }
 
   // ── Article Registry ──
@@ -630,7 +684,8 @@ const isEn = lang === 'en';
             : o.score >= 70
               ? 'background:rgba(74,222,128,0.04);'
               : '';
-        return `<div class="organ-card${heartClass}" style="${scoreTint}">
+        const topBorder = 'border-top:3px solid ' + barColor + ';';
+        return `<div class="organ-card${heartClass}" style="${topBorder}${scoreTint}">
           <div class="organ-header">
             <span class="organ-emoji">${o.emoji}</span>
             <span class="organ-name">${isEn ? o.name : o.nameZh}</span>
@@ -683,10 +738,19 @@ const isEn = lang === 'en';
               : isEn
                 ? 'Seedling'
                 : '萌芽');
+        const pctInside = pct > 30;
+        const pctTextInside =
+          '<span class="trans-pct trans-pct-inside">' + displayPct + '</span>';
+        const pctTextOutside =
+          '<span class="trans-pct trans-pct-outside" style="left:' +
+          (pct + 1) +
+          '%">' +
+          displayPct +
+          '</span>';
         return `<div class="trans-bar-row">
           <div class="trans-lang">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
-          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%"></div></div>
-          <div class="trans-count">${s.total} / ${maxTotal} (${displayPct})</div>
+          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%">${pctInside ? pctTextInside : ''}</div>${!pctInside ? pctTextOutside : ''}</div>
+          <div class="trans-count">${s.total} / ${maxTotal}</div>
         </div>`;
       })
       .join('');
@@ -819,7 +883,10 @@ const isEn = lang === 'en';
     const container = document.getElementById('growth-chart');
     const byDate = {};
     articles.forEach((a) => {
-      if (a.date) byDate[a.date] = (byDate[a.date] || 0) + 1;
+      if (a.date) {
+        const dateKey = a.date.slice(0, 10);
+        byDate[dateKey] = (byDate[dateKey] || 0) + 1;
+      }
     });
     const dates = Object.keys(byDate).sort();
     if (dates.length === 0) {
@@ -1491,6 +1558,9 @@ const isEn = lang === 'en';
     padding: 0.55rem 0.8rem;
     border-bottom: 1px solid rgba(0, 0, 0, 0.04);
   }
+  .registry-table tbody tr:nth-child(even) {
+    background: rgba(0, 0, 0, 0.02);
+  }
   .registry-table tbody tr:hover {
     background: rgba(59, 130, 246, 0.04);
   }
@@ -1697,13 +1767,33 @@ const isEn = lang === 'en';
     height: 20px;
     background: rgba(0, 0, 0, 0.05);
     border-radius: 4px;
-    overflow: hidden;
+    overflow: visible;
+    position: relative;
   }
   .trans-bar-fill {
     height: 100%;
     background: linear-gradient(90deg, #3b82f6, #8b5cf6);
     border-radius: 4px;
     transition: width 0.6s ease;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 0.4rem;
+    overflow: hidden;
+  }
+  .trans-pct {
+    font-size: 0.7rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .trans-pct-inside {
+    color: #fff;
+  }
+  .trans-pct-outside {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #64748b;
   }
   .trans-count {
     font-size: 0.8rem;
@@ -2004,6 +2094,59 @@ const isEn = lang === 'en';
     50% {
       transform: scale(1.02);
     }
+  }
+
+  /* ── Activity Feed ── */
+  .activity-feed {
+    position: relative;
+    padding-left: 1.5rem;
+    border-left: 2px solid rgba(139, 92, 246, 0.15);
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  .activity-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 0;
+    position: relative;
+    font-size: 0.85rem;
+  }
+  .activity-dot {
+    position: absolute;
+    left: -1.75rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #8b5cf6;
+    border: 2px solid #fafbfc;
+  }
+  .activity-emoji {
+    flex-shrink: 0;
+  }
+  .activity-title {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 500;
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .activity-title:hover {
+    color: #3b82f6;
+    text-decoration: underline;
+  }
+  .activity-cat {
+    flex-shrink: 0;
+    font-size: 0.7rem;
+  }
+  .activity-date {
+    flex-shrink: 0;
+    font-size: 0.78rem;
+    opacity: 0.4;
+    font-variant-numeric: tabular-nums;
   }
 
   /* ── Footer ── */

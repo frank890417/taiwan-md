@@ -454,9 +454,23 @@ async function main() {
     );
   }
 
+  // Count unique git contributors
+  let contributors = 0;
+  try {
+    const authorList = execSync('git log --format="%aN" | sort -u', {
+      cwd: PROJECT_ROOT,
+      encoding: 'utf8',
+      stdio: ['pipe', 'pipe', 'pipe'],
+    });
+    contributors = authorList.trim().split('\n').filter(Boolean).length;
+  } catch {
+    contributors = 0;
+  }
+
   const vitals = {
     lastUpdated: now.toISOString(),
     totalArticles: articles.length,
+    contributors,
     articlesLast7Days,
     articlesLast30Days,
     humanReviewedPercent:
