@@ -1270,8 +1270,7 @@ export const mapUI = {
     'map.markers.taiwanMusicIndustry.title': '國家公園',
     'map.markers.taiwanMusicIndustry.desc':
       '36,197 平方公里塞進 9 座國家公園，密度世界第一的保育奇蹟',
-    'map.markers.mandarinPopMusic.title':
-      '島嶼的山海之巔：台灣國家公園的生態與地景',
+    'map.markers.mandarinPopMusic.title': '台灣國家公園',
     'map.markers.mandarinPopMusic.desc':
       '探索台灣九座國家公園的獨特生態系統與保育價值，從亞熱帶海岸到高山雪線的完整地景',
     'map.markers.taiwaneseIndieMusic.title': '特有種',

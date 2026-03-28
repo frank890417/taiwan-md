@@ -39,20 +39,57 @@ const chapters = [
     titleKey: 'resources.chapter.government.title' as const,
     storyKey: 'resources.chapter.government.story' as const,
     curatorKey: 'resources.curator.government' as const,
-    featured: [...governmentFiveYuan, ...governmentMinistries, ...governmentOpenData].filter((s) => s.featured),
+    featured: [
+      ...governmentFiveYuan,
+      ...governmentMinistries,
+      ...governmentOpenData,
+    ].filter((s) => s.featured),
     insights: [
-      { numKey: 'resources.insight.gov.branches.number' as const, labelKey: 'resources.insight.gov.branches.label' as const },
-      { numKey: 'resources.insight.gov.ministries.number' as const, labelKey: 'resources.insight.gov.ministries.label' as const },
-      { numKey: 'resources.insight.gov.local.number' as const, labelKey: 'resources.insight.gov.local.label' as const },
+      {
+        numKey: 'resources.insight.gov.branches.number' as const,
+        labelKey: 'resources.insight.gov.branches.label' as const,
+      },
+      {
+        numKey: 'resources.insight.gov.ministries.number' as const,
+        labelKey: 'resources.insight.gov.ministries.label' as const,
+      },
+      {
+        numKey: 'resources.insight.gov.local.number' as const,
+        labelKey: 'resources.insight.gov.local.label' as const,
+      },
     ],
     subcategories: [
-      { titleKey: 'resources.sub.fiveYuan' as const, descKey: 'resources.sub.fiveYuan.desc' as const, sites: governmentFiveYuan },
-      { titleKey: 'resources.sub.ministries' as const, descKey: 'resources.sub.ministries.desc' as const, sites: governmentMinistries },
-      { titleKey: 'resources.sub.localGov' as const, descKey: 'resources.sub.localGov.desc' as const, sites: governmentLocalGov },
-      { titleKey: 'resources.sub.openData' as const, descKey: 'resources.sub.openData.desc' as const, sites: governmentOpenData },
+      {
+        titleKey: 'resources.sub.fiveYuan' as const,
+        descKey: 'resources.sub.fiveYuan.desc' as const,
+        sites: governmentFiveYuan,
+      },
+      {
+        titleKey: 'resources.sub.ministries' as const,
+        descKey: 'resources.sub.ministries.desc' as const,
+        sites: governmentMinistries,
+      },
+      {
+        titleKey: 'resources.sub.localGov' as const,
+        descKey: 'resources.sub.localGov.desc' as const,
+        sites: governmentLocalGov,
+      },
+      {
+        titleKey: 'resources.sub.openData' as const,
+        descKey: 'resources.sub.openData.desc' as const,
+        sites: governmentOpenData,
+      },
     ],
-    relatedKeys: ['resources.related.government.1' as const, 'resources.related.government.2' as const, 'resources.related.government.3' as const],
-    relatedPaths: ['/history/台灣民主轉型/', '/society/台灣政治環境與選舉制度/', '/technology/開源社群與g0v/'],
+    relatedKeys: [
+      'resources.related.government.1' as const,
+      'resources.related.government.2' as const,
+      'resources.related.government.3' as const,
+    ],
+    relatedPaths: [
+      '/history/台灣民主轉型/',
+      '/society/台灣政治環境與選舉制度/',
+      '/technology/開源社群與g0v/',
+    ],
   },
   {
     id: 'culture',
@@ -60,20 +97,57 @@ const chapters = [
     titleKey: 'resources.chapter.culture.title' as const,
     storyKey: 'resources.chapter.culture.story' as const,
     curatorKey: 'resources.curator.culture' as const,
-    featured: [...cultureMuseums, ...cultureUniversities, ...cultureParks].filter((s) => s.featured),
+    featured: [
+      ...cultureMuseums,
+      ...cultureUniversities,
+      ...cultureParks,
+    ].filter((s) => s.featured),
     insights: [
-      { numKey: 'resources.insight.culture.universities.number' as const, labelKey: 'resources.insight.culture.universities.label' as const },
-      { numKey: 'resources.insight.culture.museums.number' as const, labelKey: 'resources.insight.culture.museums.label' as const },
-      { numKey: 'resources.insight.culture.parks.number' as const, labelKey: 'resources.insight.culture.parks.label' as const },
+      {
+        numKey: 'resources.insight.culture.universities.number' as const,
+        labelKey: 'resources.insight.culture.universities.label' as const,
+      },
+      {
+        numKey: 'resources.insight.culture.museums.number' as const,
+        labelKey: 'resources.insight.culture.museums.label' as const,
+      },
+      {
+        numKey: 'resources.insight.culture.parks.number' as const,
+        labelKey: 'resources.insight.culture.parks.label' as const,
+      },
     ],
     subcategories: [
-      { titleKey: 'resources.sub.universities' as const, descKey: 'resources.sub.universities.desc' as const, sites: cultureUniversities },
-      { titleKey: 'resources.sub.museums' as const, descKey: 'resources.sub.museums.desc' as const, sites: cultureMuseums },
-      { titleKey: 'resources.sub.venues' as const, descKey: 'resources.sub.venues.desc' as const, sites: cultureVenues },
-      { titleKey: 'resources.sub.parks' as const, descKey: 'resources.sub.parks.desc' as const, sites: cultureParks },
+      {
+        titleKey: 'resources.sub.universities' as const,
+        descKey: 'resources.sub.universities.desc' as const,
+        sites: cultureUniversities,
+      },
+      {
+        titleKey: 'resources.sub.museums' as const,
+        descKey: 'resources.sub.museums.desc' as const,
+        sites: cultureMuseums,
+      },
+      {
+        titleKey: 'resources.sub.venues' as const,
+        descKey: 'resources.sub.venues.desc' as const,
+        sites: cultureVenues,
+      },
+      {
+        titleKey: 'resources.sub.parks' as const,
+        descKey: 'resources.sub.parks.desc' as const,
+        sites: cultureParks,
+      },
     ],
-    relatedKeys: ['resources.related.culture.1' as const, 'resources.related.culture.2' as const, 'resources.related.culture.3' as const],
-    relatedPaths: ['/culture/台灣原住民文化/', '/lifestyle/台灣教育制度/', '/nature/島嶼的山海之巔：台灣國家公園的生態與地景/'],
+    relatedKeys: [
+      'resources.related.culture.1' as const,
+      'resources.related.culture.2' as const,
+      'resources.related.culture.3' as const,
+    ],
+    relatedPaths: [
+      '/culture/台灣原住民文化/',
+      '/lifestyle/台灣教育制度/',
+      '/nature/台灣國家公園/',
+    ],
   },
   {
     id: 'media',
@@ -83,17 +157,46 @@ const chapters = [
     curatorKey: 'resources.curator.media' as const,
     featured: [...mediaMainstream, ...mediaDigital].filter((s) => s.featured),
     insights: [
-      { numKey: 'resources.insight.media.ptt.number' as const, labelKey: 'resources.insight.media.ptt.label' as const },
-      { numKey: 'resources.insight.media.outlets.number' as const, labelKey: 'resources.insight.media.outlets.label' as const },
-      { numKey: 'resources.insight.media.ngo.number' as const, labelKey: 'resources.insight.media.ngo.label' as const },
+      {
+        numKey: 'resources.insight.media.ptt.number' as const,
+        labelKey: 'resources.insight.media.ptt.label' as const,
+      },
+      {
+        numKey: 'resources.insight.media.outlets.number' as const,
+        labelKey: 'resources.insight.media.outlets.label' as const,
+      },
+      {
+        numKey: 'resources.insight.media.ngo.number' as const,
+        labelKey: 'resources.insight.media.ngo.label' as const,
+      },
     ],
     subcategories: [
-      { titleKey: 'resources.sub.mainstream' as const, descKey: 'resources.sub.mainstream.desc' as const, sites: mediaMainstream },
-      { titleKey: 'resources.sub.digital' as const, descKey: 'resources.sub.digital.desc' as const, sites: mediaDigital },
-      { titleKey: 'resources.sub.ngo' as const, descKey: 'resources.sub.ngo.desc' as const, sites: mediaNgo },
+      {
+        titleKey: 'resources.sub.mainstream' as const,
+        descKey: 'resources.sub.mainstream.desc' as const,
+        sites: mediaMainstream,
+      },
+      {
+        titleKey: 'resources.sub.digital' as const,
+        descKey: 'resources.sub.digital.desc' as const,
+        sites: mediaDigital,
+      },
+      {
+        titleKey: 'resources.sub.ngo' as const,
+        descKey: 'resources.sub.ngo.desc' as const,
+        sites: mediaNgo,
+      },
     ],
-    relatedKeys: ['resources.related.media.1' as const, 'resources.related.media.2' as const, 'resources.related.media.3' as const],
-    relatedPaths: ['/society/太陽花學運/', '/society/台灣媒體與新聞自由/', '/technology/PTT批踢踢/'],
+    relatedKeys: [
+      'resources.related.media.1' as const,
+      'resources.related.media.2' as const,
+      'resources.related.media.3' as const,
+    ],
+    relatedPaths: [
+      '/society/太陽花學運/',
+      '/society/台灣媒體與新聞自由/',
+      '/technology/PTT批踢踢/',
+    ],
   },
   {
     id: 'economy',
@@ -101,20 +204,58 @@ const chapters = [
     titleKey: 'resources.chapter.economy.title' as const,
     storyKey: 'resources.chapter.economy.story' as const,
     curatorKey: 'resources.curator.economy' as const,
-    featured: [...econCompanies, ...econTransport, ...econHealth, ...econFinance].filter((s) => s.featured),
+    featured: [
+      ...econCompanies,
+      ...econTransport,
+      ...econHealth,
+      ...econFinance,
+    ].filter((s) => s.featured),
     insights: [
-      { numKey: 'resources.insight.econ.tsmc.number' as const, labelKey: 'resources.insight.econ.tsmc.label' as const },
-      { numKey: 'resources.insight.econ.hsr.number' as const, labelKey: 'resources.insight.econ.hsr.label' as const },
-      { numKey: 'resources.insight.econ.nhi.number' as const, labelKey: 'resources.insight.econ.nhi.label' as const },
+      {
+        numKey: 'resources.insight.econ.tsmc.number' as const,
+        labelKey: 'resources.insight.econ.tsmc.label' as const,
+      },
+      {
+        numKey: 'resources.insight.econ.hsr.number' as const,
+        labelKey: 'resources.insight.econ.hsr.label' as const,
+      },
+      {
+        numKey: 'resources.insight.econ.nhi.number' as const,
+        labelKey: 'resources.insight.econ.nhi.label' as const,
+      },
     ],
     subcategories: [
-      { titleKey: 'resources.sub.companies' as const, descKey: 'resources.sub.companies.desc' as const, sites: econCompanies },
-      { titleKey: 'resources.sub.transport' as const, descKey: 'resources.sub.transport.desc' as const, sites: econTransport },
-      { titleKey: 'resources.sub.healthcare' as const, descKey: 'resources.sub.healthcare.desc' as const, sites: econHealth },
-      { titleKey: 'resources.sub.finance' as const, descKey: 'resources.sub.finance.desc' as const, sites: econFinance },
+      {
+        titleKey: 'resources.sub.companies' as const,
+        descKey: 'resources.sub.companies.desc' as const,
+        sites: econCompanies,
+      },
+      {
+        titleKey: 'resources.sub.transport' as const,
+        descKey: 'resources.sub.transport.desc' as const,
+        sites: econTransport,
+      },
+      {
+        titleKey: 'resources.sub.healthcare' as const,
+        descKey: 'resources.sub.healthcare.desc' as const,
+        sites: econHealth,
+      },
+      {
+        titleKey: 'resources.sub.finance' as const,
+        descKey: 'resources.sub.finance.desc' as const,
+        sites: econFinance,
+      },
     ],
-    relatedKeys: ['resources.related.economy.1' as const, 'resources.related.economy.2' as const, 'resources.related.economy.3' as const],
-    relatedPaths: ['/economy/台灣企業：台積電/', '/technology/半導體產業/', '/lifestyle/台灣醫療與全民健保/'],
+    relatedKeys: [
+      'resources.related.economy.1' as const,
+      'resources.related.economy.2' as const,
+      'resources.related.economy.3' as const,
+    ],
+    relatedPaths: [
+      '/economy/台灣企業：台積電/',
+      '/technology/半導體產業/',
+      '/lifestyle/台灣醫療與全民健保/',
+    ],
   },
   {
     id: 'community',
@@ -124,52 +265,122 @@ const chapters = [
     curatorKey: 'resources.curator.community' as const,
     featured: communityProjects.filter((s) => s.featured),
     insights: [
-      { numKey: 'resources.insight.community.g0v.number' as const, labelKey: 'resources.insight.community.g0v.label' as const },
-      { numKey: 'resources.insight.community.contributors.number' as const, labelKey: 'resources.insight.community.contributors.label' as const },
-      { numKey: 'resources.insight.community.projects.number' as const, labelKey: 'resources.insight.community.projects.label' as const },
+      {
+        numKey: 'resources.insight.community.g0v.number' as const,
+        labelKey: 'resources.insight.community.g0v.label' as const,
+      },
+      {
+        numKey: 'resources.insight.community.contributors.number' as const,
+        labelKey: 'resources.insight.community.contributors.label' as const,
+      },
+      {
+        numKey: 'resources.insight.community.projects.number' as const,
+        labelKey: 'resources.insight.community.projects.label' as const,
+      },
     ],
     subcategories: [
-      { titleKey: 'resources.sub.civicTech' as const, sites: communityProjects },
+      {
+        titleKey: 'resources.sub.civicTech' as const,
+        sites: communityProjects,
+      },
       { titleKey: 'resources.sub.foodMaps' as const, sites: communityFood },
     ],
-    relatedKeys: ['resources.related.community.1' as const, 'resources.related.community.2' as const, 'resources.related.community.3' as const],
-    relatedPaths: ['/technology/開源社群與g0v/', '/society/社會運動與公民參與/', '/technology/數位身分證與數位政府/'],
+    relatedKeys: [
+      'resources.related.community.1' as const,
+      'resources.related.community.2' as const,
+      'resources.related.community.3' as const,
+    ],
+    relatedPaths: [
+      '/technology/開源社群與g0v/',
+      '/society/社會運動與公民參與/',
+      '/technology/數位身分證與數位政府/',
+    ],
   },
 ];
 
 const allSites = [
-  ...governmentFiveYuan, ...governmentMinistries, ...governmentLocalGov, ...governmentOpenData,
-  ...cultureUniversities, ...cultureMuseums, ...cultureVenues, ...cultureParks,
-  ...mediaMainstream, ...mediaDigital, ...mediaNgo,
-  ...econCompanies, ...econTransport, ...econHealth, ...econFinance,
-  ...communityProjects, ...communityFood,
+  ...governmentFiveYuan,
+  ...governmentMinistries,
+  ...governmentLocalGov,
+  ...governmentOpenData,
+  ...cultureUniversities,
+  ...cultureMuseums,
+  ...cultureVenues,
+  ...cultureParks,
+  ...mediaMainstream,
+  ...mediaDigital,
+  ...mediaNgo,
+  ...econCompanies,
+  ...econTransport,
+  ...econHealth,
+  ...econFinance,
+  ...communityProjects,
+  ...communityFood,
 ];
 const totalCount = allSites.length;
 
-type MindMapNode = { id: string; label: string; group: string; size: number; color: string; url?: string };
-const mindmapNodes: MindMapNode[] = [{ id: 'taiwan', label: t('resources.mindmap.root.label'), group: 'center', size: 26, color: '#065f46' }];
+type MindMapNode = {
+  id: string;
+  label: string;
+  group: string;
+  size: number;
+  color: string;
+  url?: string;
+};
+const mindmapNodes: MindMapNode[] = [
+  {
+    id: 'taiwan',
+    label: t('resources.mindmap.root.label'),
+    group: 'center',
+    size: 26,
+    color: '#065f46',
+  },
+];
 const mindmapEdges: { source: string; target: string }[] = [];
 
 heroCategories.forEach((category) => {
-  mindmapNodes.push({ id: category.id, label: t(category.labelKey as any), group: category.id, size: 16, color: category.color });
+  mindmapNodes.push({
+    id: category.id,
+    label: t(category.labelKey as any),
+    group: category.id,
+    size: 16,
+    color: category.color,
+  });
   mindmapEdges.push({ source: 'taiwan', target: category.id });
   category.sites.forEach((site, index) => {
     const nodeId = `${category.id}_${index}`;
-    mindmapNodes.push({ id: nodeId, label: t(site.nameKey as any), group: category.id, size: 8, color: category.color, url: site.url });
+    mindmapNodes.push({
+      id: nodeId,
+      label: t(site.nameKey as any),
+      group: category.id,
+      size: 8,
+      color: category.color,
+      url: site.url,
+    });
     mindmapEdges.push({ source: category.id, target: nodeId });
   });
 });
 
-const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges });
+const mindmapData = JSON.stringify({
+  nodes: mindmapNodes,
+  edges: mindmapEdges,
+});
 ---
 
-<Layout title={t('resources.meta.title')} description={t('resources.meta.description')} lang={lang}>
+<Layout
+  title={t('resources.meta.title')}
+  description={t('resources.meta.description')}
+  lang={lang}
+>
   <main class="resources-page">
     <div class="container">
       <section class="hero">
         <div class="hero-content">
           <h1 class="hero-title">{t('resources.hero.title')}</h1>
-          <p class="hero-subtitle" set:html={t('resources.hero.subtitle.html')} />
+          <p
+            class="hero-subtitle"
+            set:html={t('resources.hero.subtitle.html')}
+          />
         </div>
         <!-- Mindmap hidden for now
         <div class="resources-mindmap">
@@ -187,273 +398,947 @@ const mindmapData = JSON.stringify({ nodes: mindmapNodes, edges: mindmapEdges })
 
       <nav class="chapter-nav" id="chapter-nav">
         <div class="chapter-nav-inner">
-          {chapters.map((ch) => (
-            <a href={`#${ch.id}`} class="chapter-link" data-chapter={ch.id}>{t(ch.navKey)}</a>
-          ))}
+          {
+            chapters.map((ch) => (
+              <a href={`#${ch.id}`} class="chapter-link" data-chapter={ch.id}>
+                {t(ch.navKey)}
+              </a>
+            ))
+          }
           <div class="chapter-search">
-            <input type="text" id="resources-search" placeholder={t('resources.search.placeholder')} class="search-input" />
+            <input
+              type="text"
+              id="resources-search"
+              placeholder={t('resources.search.placeholder')}
+              class="search-input"
+            />
           </div>
         </div>
       </nav>
 
-      {chapters.map((chapter) => (
-        <section class="chapter-section" id={chapter.id}>
-          <h2 class="chapter-title NotoSerif">{t(chapter.titleKey)}</h2>
-          <p class="story-text">{t(chapter.storyKey)}</p>
-          <div class="curator-note"><p>{t(chapter.curatorKey)}</p></div>
-
-          {chapter.featured.length > 0 && (
-            <div class="featured-section">
-              <div class="featured-grid">
-                {chapter.featured.slice(0, 3).map((site: ResourceSite) => (
-                  <a href={site.url} target="_blank" rel="noopener noreferrer" class="featured-card site-card" data-search={`${t(site.nameKey as any)} ${site.domain}`}>
-                    <div class="featured-star">&#11088;</div>
-                    <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`} alt="" class="site-favicon" loading="lazy" />
-                    <div class="site-info">
-                      <div class="site-name">{t(site.nameKey as any)}</div>
-                      <div class="site-domain">{site.domain}</div>
-                      {site.descKey && <div class="featured-desc">{t(site.descKey as any)}</div>}
-                    </div>
-                  </a>
-                ))}
-              </div>
+      {
+        chapters.map((chapter) => (
+          <section class="chapter-section" id={chapter.id}>
+            <h2 class="chapter-title NotoSerif">{t(chapter.titleKey)}</h2>
+            <p class="story-text">{t(chapter.storyKey)}</p>
+            <div class="curator-note">
+              <p>{t(chapter.curatorKey)}</p>
             </div>
-          )}
 
-          <div class="insight-cards">
-            {chapter.insights.map((ins) => (
-              <div class="insight-card">
-                <div class="insight-number">{t(ins.numKey)}</div>
-                <div class="insight-label">{t(ins.labelKey)}</div>
+            {chapter.featured.length > 0 && (
+              <div class="featured-section">
+                <div class="featured-grid">
+                  {chapter.featured.slice(0, 3).map((site: ResourceSite) => (
+                    <a
+                      href={site.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="featured-card site-card"
+                      data-search={`${t(site.nameKey as any)} ${site.domain}`}
+                    >
+                      <div class="featured-star">&#11088;</div>
+                      <img
+                        src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`}
+                        alt=""
+                        class="site-favicon"
+                        loading="lazy"
+                      />
+                      <div class="site-info">
+                        <div class="site-name">{t(site.nameKey as any)}</div>
+                        <div class="site-domain">{site.domain}</div>
+                        {site.descKey && (
+                          <div class="featured-desc">
+                            {t(site.descKey as any)}
+                          </div>
+                        )}
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            <div class="insight-cards">
+              {chapter.insights.map((ins) => (
+                <div class="insight-card">
+                  <div class="insight-number">{t(ins.numKey)}</div>
+                  <div class="insight-label">{t(ins.labelKey)}</div>
+                </div>
+              ))}
+            </div>
+
+            {chapter.subcategories.map((sub) => (
+              <div class="subcategory">
+                <h3 class="subcategory-title">{t(sub.titleKey)}</h3>
+                {sub.descKey && (
+                  <p class="subcategory-desc">{t(sub.descKey as any)}</p>
+                )}
+                <div class="site-grid">
+                  {sub.sites.map((site: ResourceSite) => (
+                    <a
+                      href={site.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="site-card"
+                      data-search={`${t(site.nameKey as any)} ${site.domain}`}
+                    >
+                      <img
+                        src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`}
+                        alt=""
+                        class="site-favicon"
+                        loading="lazy"
+                      />
+                      <div class="site-info">
+                        <div class="site-name">{t(site.nameKey as any)}</div>
+                        <div class="site-domain">{site.domain}</div>
+                      </div>
+                    </a>
+                  ))}
+                </div>
               </div>
             ))}
-          </div>
 
-          {chapter.subcategories.map((sub) => (
-            <div class="subcategory">
-              <h3 class="subcategory-title">{t(sub.titleKey)}</h3>
-              {sub.descKey && <p class="subcategory-desc">{t(sub.descKey as any)}</p>}
-              <div class="site-grid">
-                {sub.sites.map((site: ResourceSite) => (
-                  <a href={site.url} target="_blank" rel="noopener noreferrer" class="site-card" data-search={`${t(site.nameKey as any)} ${site.domain}`}>
-                    <img src={`https://www.google.com/s2/favicons?domain=${site.domain}&sz=32`} alt="" class="site-favicon" loading="lazy" />
-                    <div class="site-info">
-                      <div class="site-name">{t(site.nameKey as any)}</div>
-                      <div class="site-domain">{site.domain}</div>
-                    </div>
+            <div class="related-articles">
+              <span class="related-label">{t('resources.related.label')}:</span>
+              {chapter.relatedKeys.map((key, i) => (
+                <Fragment>
+                  <a
+                    href={translatePath(chapter.relatedPaths?.[i] || '/')}
+                    class="related-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {t(key)}
                   </a>
-                ))}
-              </div>
+                  {i < chapter.relatedKeys.length - 1 ? ' · ' : ''}
+                </Fragment>
+              ))}
             </div>
-          ))}
 
-          <div class="related-articles">
-            <span class="related-label">{t('resources.related.label')}:</span>
-            {chapter.relatedKeys.map((key, i) => (
-              <Fragment>
-                <a href={translatePath(chapter.relatedPaths?.[i] || '/')} class="related-link" target="_blank" rel="noopener noreferrer">{t(key)}</a>{i < chapter.relatedKeys.length - 1 ? ' · ' : ''}
-              </Fragment>
-            ))}
-          </div>
-
-          <div class="section-footer">
-            <span>📅 {t('resources.section.footer.verified')}</span>
-            <span class="report-link-separator">｜</span>
-            <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer" class="report-link">🔗 {t('resources.section.footer.reportLink')}</a>
-          </div>
-        </section>
-      ))}
+            <div class="section-footer">
+              <span>📅 {t('resources.section.footer.verified')}</span>
+              <span class="report-link-separator">｜</span>
+              <a
+                href="https://github.com/frank890417/taiwan-md/issues"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="report-link"
+              >
+                🔗 {t('resources.section.footer.reportLink')}
+              </a>
+            </div>
+          </section>
+        ))
+      }
 
       <div class="footer-stats">
-        <div class="stat-item"><span class="stat-number">{totalCount}+</span><span class="stat-label">{t('resources.stats.collected')}</span></div>
-        <div class="stat-item"><span class="stat-number">5</span><span class="stat-label">{t('resources.stats.chapters')}</span></div>
-        <div class="stat-item"><span class="stat-number">15+</span><span class="stat-label">{t('resources.stats.subcategories')}</span></div>
+        <div class="stat-item">
+          <span class="stat-number">{totalCount}+</span><span class="stat-label"
+            >{t('resources.stats.collected')}</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">5</span><span class="stat-label"
+            >{t('resources.stats.chapters')}</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-number">15+</span><span class="stat-label"
+            >{t('resources.stats.subcategories')}</span>
+        </div>
       </div>
 
       <div class="back-to-home">
-        <a href={translatePath('/')} class="btn-primary">{t('resources.backToHome')}</a>
+        <a href={translatePath('/')} class="btn-primary"
+          >{t('resources.backToHome')}</a
+        >
       </div>
     </div>
   </main>
 </Layout>
 
 <style>
-  .resources-page { min-height: 100vh; background: #ffffff; font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif; }
-  .container { max-width: 1200px; margin: 0 auto; padding: 2rem; }
-  .hero { text-align: center; margin-bottom: 3rem; padding: 4rem 0; }
-  .hero-title { font-size: 3.5rem; font-weight: 900; background: linear-gradient(135deg, #065f46, #059669, #10b981); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem; letter-spacing: -0.02em; }
-  .hero-subtitle { font-size: 1.3rem; color: #64748b; line-height: 1.7; max-width: 600px; margin: 0 auto; }
-  .resources-mindmap { margin-top: 3rem; padding: 2rem; background: #fafffe; border-radius: 16px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
-  #resources-graph { overflow: visible; width: 100%; max-width: 1400px; margin: 0 auto; height: auto; min-height: 700px; border-radius: 12px; background: rgba(255,255,255,0.3); backdrop-filter: blur(10px); position: relative; overflow: hidden; }
-  .breadcrumb { display: flex; align-items: center; gap: 0.5rem; margin-bottom: 2rem; font-size: 0.95rem; color: #64748b; }
-  .breadcrumb a { color: #059669; text-decoration: none; border-bottom: none !important; padding-bottom: 0 !important; transition: color 0.2s ease; }
-  .breadcrumb a:hover { color: #065f46; }
-  .separator { color: #94a3b8; }
-  .current { font-weight: 600; color: #374151; }
-  .reading-guide { background: #ecfdf5; border: 1px solid #d1fae5; border-radius: 12px; padding: 1.5rem 2rem; margin-bottom: 2rem; }
-  .reading-guide-title { font-size: 1.2rem; font-weight: 700; color: #065f46; margin-bottom: 0.5rem; }
-  .reading-guide-desc { font-size: 0.95rem; color: #047857; line-height: 1.6; margin: 0; }
-  .chapter-nav { position: sticky; top: 0; z-index: 100; background: #ecfdf5; width: 100vw; margin-left: calc(-50vw + 50%); padding: 0.75rem 0; box-shadow: 0 2px 8px -2px rgba(0,0,0,0.1); transition: top 0.3s ease; }
-  .chapter-nav-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 0; padding: 0 2rem; }
-  .chapter-link { flex: 1; text-align: center; padding: 0.5rem 0.75rem; color: #065f46; text-decoration: none !important; font-weight: 600; font-size: 0.95rem; border-radius: 8px; transition: all 0.2s ease; border-bottom: none !important; padding-bottom: 0.5rem !important; white-space: nowrap; }
-  .chapter-link:hover { background: #d1fae5; color: #065f46; }
-  .chapter-link.active, .chapter-link.active:hover, .chapter-link.active:visited { background: #065f46 !important; color: #ffffff !important; }
-  .chapter-search { flex: 0 0 auto; margin-left: 1rem; }
-  .search-input { padding: 0.5rem 1rem; border: 1px solid #d1fae5; border-radius: 8px; font-size: 0.9rem; background: #ffffff; color: #374151; width: 200px; outline: none; transition: border-color 0.2s ease; }
-  .search-input:focus { border-color: #059669; box-shadow: 0 0 0 2px rgba(5,150,105,0.15); }
-  .chapter-section { margin-bottom: 5rem; padding-top: 5rem; }
-  .chapter-title { font-size: 2.5rem; font-weight: 800; color: #065f46; margin-bottom: 1rem; }
-  .story-text { font-size: 1.15rem; color: #475569; line-height: 1.8; margin-bottom: 1.5rem; max-width: 800px; }
-  .curator-note { background: #f0fdf4; border-left: 4px solid #059669; padding: 1.25rem 1.5rem; margin-bottom: 2rem; border-radius: 0 8px 8px 0; }
-  .curator-note p { font-size: 0.95rem; color: #374151; line-height: 1.7; margin: 0; }
-  .featured-section { margin-bottom: 2.5rem; }
-  .featured-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
-  .featured-card { position: relative; padding: 0.625rem 1rem !important; background: #f0fdf4 !important; border: 1px solid #d1fae5 !important; border-left: 4px solid #059669 !important; border-radius: 12px; min-height: auto; flex-direction: row; box-shadow: 0 2px 8px -2px rgba(5,150,105,0.12); }
-  .featured-card:hover { border-color: #059669 !important; transform: translateY(-2px); box-shadow: 0 8px 25px -5px rgba(0,0,0,0.1); }
-  .featured-card .site-name { color: #059669; }
-  .featured-star { display: none; }
-  .featured-desc { font-size: 0.85rem; color: #475569; line-height: 1.5; margin-top: 0.5rem; }
-  .insight-cards { display: flex; gap: 1.5rem; margin-bottom: 2.5rem; }
-  .insight-card { flex: 1; text-align: center; padding: 1.25rem; background: #ffffff; border: 1px solid #d1fae5; border-radius: 12px; }
-  .insight-number { font-size: 2rem; font-weight: 800; color: #059669; margin-bottom: 0.25rem; }
-  .insight-label { font-size: 0.9rem; color: #64748b; font-weight: 500; }
-  .subcategory { margin-bottom: 2.5rem; }
-  .subcategory-title { font-size: 1.25rem; color: #065f46; margin-bottom: 0.5rem; padding-left: 0.75rem; border-left: 4px solid #10b981; font-weight: 700; }
-  .subcategory-desc { font-size: 0.95rem; color: #475569; line-height: 1.6; margin: 0 0 1.25rem 0.75rem; padding-left: 0.75rem; }
-  .site-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
-  .site-card { display: flex; align-items: center; gap: 0.75rem; padding: 0.75rem 1rem; background: #ffffff; border-radius: 12px; box-shadow: 0 2px 4px -1px rgba(0,0,0,0.06); border: 1px solid #e5e7eb !important; text-decoration: none !important; transition: all 0.3s ease; border-bottom: 1px solid #e5e7eb !important; padding-bottom: 0.75rem !important; }
-  .site-card:hover { transform: translateY(-2px); box-shadow: 0 8px 25px -5px rgba(0,0,0,0.1); border-color: #d1fae5 !important; }
-  .site-favicon { width: 20px; height: 20px; border-radius: 4px; flex-shrink: 0; background: #f8f9fa; border: 1px solid #e9ecef; }
-  .site-info { flex: 1; min-width: 0; }
-  .site-name { font-size: 0.95rem; font-weight: 600; color: #1a1a2e; margin-bottom: 0; line-height: 1.3; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-  .site-domain { font-size: 0.8rem; color: #64748b; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 1.2; margin-top: 2px; }
-  .related-articles { margin-top: 2rem; padding: 1rem 1.25rem; background: #f0fdf4; border-radius: 8px; font-size: 0.9rem; color: #475569; }
-  .related-label { font-weight: 700; color: #065f46; }
-  .related-link { color: #059669; }
-  .section-footer { margin-top: 1.5rem; font-size: 0.85rem; color: #94a3b8; display: flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1rem; background: #fafafa; border-radius: 8px; }
-  .report-link-separator { color: #d1d5db; }
-  .report-link { color: #059669; text-decoration: none; border-bottom: none !important; padding-bottom: 0 !important; }
-  .report-link:hover { color: #065f46; text-decoration: underline; }
-  .footer-stats { display: flex; justify-content: center; gap: 3rem; padding: 3rem 0; border-top: 2px solid #d1fae5; margin-top: 2rem; }
-  .stat-item { text-align: center; }
-  .stat-number { display: block; font-size: 2rem; font-weight: 800; color: #059669; }
-  .stat-label { font-size: 0.9rem; color: #64748b; }
-  .back-to-home { text-align: center; margin-top: 2rem; padding-bottom: 3rem; }
-  .btn-primary { display: inline-flex; align-items: center; gap: 0.75rem; padding: 1rem 2.5rem; background: linear-gradient(135deg, #065f46, #059669); color: white; text-decoration: none !important; border-radius: 12px; font-weight: 600; font-size: 1.05rem; transition: all 0.3s ease; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border-bottom: none !important; }
-  .btn-primary:hover { background: linear-gradient(135deg, #064e3b, #047857); transform: translateY(-1px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+  .resources-page {
+    min-height: 100vh;
+    background: #ffffff;
+    font-family: 'jf-jinxuanlatte', 'Noto Sans TC', sans-serif;
+  }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  .hero {
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 4rem 0;
+  }
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 900;
+    background: linear-gradient(135deg, #065f46, #059669, #10b981);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+  .hero-subtitle {
+    font-size: 1.3rem;
+    color: #64748b;
+    line-height: 1.7;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .resources-mindmap {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: #fafffe;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+  #resources-graph {
+    overflow: visible;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    height: auto;
+    min-height: 700px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+  }
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    font-size: 0.95rem;
+    color: #64748b;
+  }
+  .breadcrumb a {
+    color: #059669;
+    text-decoration: none;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    transition: color 0.2s ease;
+  }
+  .breadcrumb a:hover {
+    color: #065f46;
+  }
+  .separator {
+    color: #94a3b8;
+  }
+  .current {
+    font-weight: 600;
+    color: #374151;
+  }
+  .reading-guide {
+    background: #ecfdf5;
+    border: 1px solid #d1fae5;
+    border-radius: 12px;
+    padding: 1.5rem 2rem;
+    margin-bottom: 2rem;
+  }
+  .reading-guide-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #065f46;
+    margin-bottom: 0.5rem;
+  }
+  .reading-guide-desc {
+    font-size: 0.95rem;
+    color: #047857;
+    line-height: 1.6;
+    margin: 0;
+  }
+  .chapter-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #ecfdf5;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    padding: 0.75rem 0;
+    box-shadow: 0 2px 8px -2px rgba(0, 0, 0, 0.1);
+    transition: top 0.3s ease;
+  }
+  .chapter-nav-inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 0;
+    padding: 0 2rem;
+  }
+  .chapter-link {
+    flex: 1;
+    text-align: center;
+    padding: 0.5rem 0.75rem;
+    color: #065f46;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 0.95rem;
+    border-radius: 8px;
+    transition: all 0.2s ease;
+    border-bottom: none !important;
+    padding-bottom: 0.5rem !important;
+    white-space: nowrap;
+  }
+  .chapter-link:hover {
+    background: #d1fae5;
+    color: #065f46;
+  }
+  .chapter-link.active,
+  .chapter-link.active:hover,
+  .chapter-link.active:visited {
+    background: #065f46 !important;
+    color: #ffffff !important;
+  }
+  .chapter-search {
+    flex: 0 0 auto;
+    margin-left: 1rem;
+  }
+  .search-input {
+    padding: 0.5rem 1rem;
+    border: 1px solid #d1fae5;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    background: #ffffff;
+    color: #374151;
+    width: 200px;
+    outline: none;
+    transition: border-color 0.2s ease;
+  }
+  .search-input:focus {
+    border-color: #059669;
+    box-shadow: 0 0 0 2px rgba(5, 150, 105, 0.15);
+  }
+  .chapter-section {
+    margin-bottom: 5rem;
+    padding-top: 5rem;
+  }
+  .chapter-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #065f46;
+    margin-bottom: 1rem;
+  }
+  .story-text {
+    font-size: 1.15rem;
+    color: #475569;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    max-width: 800px;
+  }
+  .curator-note {
+    background: #f0fdf4;
+    border-left: 4px solid #059669;
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 0 8px 8px 0;
+  }
+  .curator-note p {
+    font-size: 0.95rem;
+    color: #374151;
+    line-height: 1.7;
+    margin: 0;
+  }
+  .featured-section {
+    margin-bottom: 2.5rem;
+  }
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .featured-card {
+    position: relative;
+    padding: 0.625rem 1rem !important;
+    background: #f0fdf4 !important;
+    border: 1px solid #d1fae5 !important;
+    border-left: 4px solid #059669 !important;
+    border-radius: 12px;
+    min-height: auto;
+    flex-direction: row;
+    box-shadow: 0 2px 8px -2px rgba(5, 150, 105, 0.12);
+  }
+  .featured-card:hover {
+    border-color: #059669 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.1);
+  }
+  .featured-card .site-name {
+    color: #059669;
+  }
+  .featured-star {
+    display: none;
+  }
+  .featured-desc {
+    font-size: 0.85rem;
+    color: #475569;
+    line-height: 1.5;
+    margin-top: 0.5rem;
+  }
+  .insight-cards {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
+  }
+  .insight-card {
+    flex: 1;
+    text-align: center;
+    padding: 1.25rem;
+    background: #ffffff;
+    border: 1px solid #d1fae5;
+    border-radius: 12px;
+  }
+  .insight-number {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #059669;
+    margin-bottom: 0.25rem;
+  }
+  .insight-label {
+    font-size: 0.9rem;
+    color: #64748b;
+    font-weight: 500;
+  }
+  .subcategory {
+    margin-bottom: 2.5rem;
+  }
+  .subcategory-title {
+    font-size: 1.25rem;
+    color: #065f46;
+    margin-bottom: 0.5rem;
+    padding-left: 0.75rem;
+    border-left: 4px solid #10b981;
+    font-weight: 700;
+  }
+  .subcategory-desc {
+    font-size: 0.95rem;
+    color: #475569;
+    line-height: 1.6;
+    margin: 0 0 1.25rem 0.75rem;
+    padding-left: 0.75rem;
+  }
+  .site-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+  }
+  .site-card {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem;
+    background: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    border: 1px solid #e5e7eb !important;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid #e5e7eb !important;
+    padding-bottom: 0.75rem !important;
+  }
+  .site-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.1);
+    border-color: #d1fae5 !important;
+  }
+  .site-favicon {
+    width: 20px;
+    height: 20px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    background: #f8f9fa;
+    border: 1px solid #e9ecef;
+  }
+  .site-info {
+    flex: 1;
+    min-width: 0;
+  }
+  .site-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #1a1a2e;
+    margin-bottom: 0;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .site-domain {
+    font-size: 0.8rem;
+    color: #64748b;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.2;
+    margin-top: 2px;
+  }
+  .related-articles {
+    margin-top: 2rem;
+    padding: 1rem 1.25rem;
+    background: #f0fdf4;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: #475569;
+  }
+  .related-label {
+    font-weight: 700;
+    color: #065f46;
+  }
+  .related-link {
+    color: #059669;
+  }
+  .section-footer {
+    margin-top: 1.5rem;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1rem;
+    background: #fafafa;
+    border-radius: 8px;
+  }
+  .report-link-separator {
+    color: #d1d5db;
+  }
+  .report-link {
+    color: #059669;
+    text-decoration: none;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+  }
+  .report-link:hover {
+    color: #065f46;
+    text-decoration: underline;
+  }
+  .footer-stats {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 3rem 0;
+    border-top: 2px solid #d1fae5;
+    margin-top: 2rem;
+  }
+  .stat-item {
+    text-align: center;
+  }
+  .stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 800;
+    color: #059669;
+  }
+  .stat-label {
+    font-size: 0.9rem;
+    color: #64748b;
+  }
+  .back-to-home {
+    text-align: center;
+    margin-top: 2rem;
+    padding-bottom: 3rem;
+  }
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 1rem 2.5rem;
+    background: linear-gradient(135deg, #065f46, #059669);
+    color: white;
+    text-decoration: none !important;
+    border-radius: 12px;
+    font-weight: 600;
+    font-size: 1.05rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    border-bottom: none !important;
+  }
+  .btn-primary:hover {
+    background: linear-gradient(135deg, #064e3b, #047857);
+    transform: translateY(-1px);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+  }
   @media (max-width: 768px) {
-    .container { padding: 1rem; }
-    .hero { padding: 2rem 0; }
-    .hero-title { font-size: 2.5rem; }
-    .hero-subtitle { font-size: 1.1rem; }
-    .chapter-title { font-size: 1.8rem; }
-    .chapter-nav-inner { flex-wrap: wrap; gap: 0.25rem; padding: 0 1rem; }
-    .chapter-link { flex: 0 0 auto; font-size: 0.85rem; padding: 0.4rem 0.6rem; }
-    .chapter-search { width: 100%; margin-left: 0; margin-top: 0.5rem; }
-    .search-input { width: 100%; }
-    .featured-grid { grid-template-columns: 1fr; }
-    .insight-cards { flex-direction: column; gap: 0.75rem; }
-    .site-grid { grid-template-columns: 1fr; gap: 0.75rem; }
-    .site-card { padding: 0.875rem 1rem; }
-    .footer-stats { gap: 1.5rem; }
+    .container {
+      padding: 1rem;
+    }
+    .hero {
+      padding: 2rem 0;
+    }
+    .hero-title {
+      font-size: 2.5rem;
+    }
+    .hero-subtitle {
+      font-size: 1.1rem;
+    }
+    .chapter-title {
+      font-size: 1.8rem;
+    }
+    .chapter-nav-inner {
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      padding: 0 1rem;
+    }
+    .chapter-link {
+      flex: 0 0 auto;
+      font-size: 0.85rem;
+      padding: 0.4rem 0.6rem;
+    }
+    .chapter-search {
+      width: 100%;
+      margin-left: 0;
+      margin-top: 0.5rem;
+    }
+    .search-input {
+      width: 100%;
+    }
+    .featured-grid {
+      grid-template-columns: 1fr;
+    }
+    .insight-cards {
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+    .site-grid {
+      grid-template-columns: 1fr;
+      gap: 0.75rem;
+    }
+    .site-card {
+      padding: 0.875rem 1rem;
+    }
+    .footer-stats {
+      gap: 1.5rem;
+    }
   }
   @media (max-width: 480px) {
-    .container { padding: 0.75rem; }
-    .hero-title { font-size: 2rem; }
-    .chapter-title { font-size: 1.5rem; }
-    .site-name { font-size: 0.9rem; }
-    .site-domain { font-size: 0.8rem; }
+    .container {
+      padding: 0.75rem;
+    }
+    .hero-title {
+      font-size: 2rem;
+    }
+    .chapter-title {
+      font-size: 1.5rem;
+    }
+    .site-name {
+      font-size: 0.9rem;
+    }
+    .site-domain {
+      font-size: 0.8rem;
+    }
   }
-  .site-card.hidden, .featured-card.hidden { display: none; }
-  .subcategory.all-hidden .subcategory-title { display: none; }
+  .site-card.hidden,
+  .featured-card.hidden {
+    display: none;
+  }
+  .subcategory.all-hidden .subcategory-title {
+    display: none;
+  }
 </style>
 
 <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
 <script is:inline define:vars={{ mindmapData }}>
-document.addEventListener('DOMContentLoaded', function () {
-  var container = document.getElementById('resources-graph');
-  if (container) {
-    var data = JSON.parse(mindmapData);
-    var categories = []; var catMap = {};
-    data.nodes.forEach(function(n) { if (n.group === 'center') return; if (n.size > 10) { var cat = Object.assign({}, n, { children: [] }); catMap[n.id] = cat; categories.push(cat); } });
-    data.nodes.forEach(function(n) { if (n.size <= 10 && n.group !== 'center') { var parentId = n.id.split('_')[0]; if (catMap[parentId]) catMap[parentId].children.push(n); } });
-    var half = Math.ceil(categories.length / 2);
-    var rightRoot = { id: 'r', label: '', children: categories.slice(0, half) };
-    var leftRoot = { id: 'l', label: '', children: categories.slice(half) };
-    var treeLayout = d3.tree().nodeSize([22, 160]);
-    var rightH = d3.hierarchy(rightRoot); treeLayout(rightH);
-    var leftH = d3.hierarchy(leftRoot); treeLayout(leftH);
-    leftH.each(function(d) { d.y = -d.y; });
-    var allNodes = []; var allLinks = [];
-    var rootNode = { x: 0, y: 0, depth: 0, data: data.nodes.find(function(n) { return n.group === 'center'; }), _side: 'center' };
-    allNodes.push(rootNode);
-    rightH.each(function(d) { if (d.depth === 0) return; d._side = 'right'; allNodes.push(d); });
-    rightH.links().forEach(function(link) { allLinks.push(link.source.depth === 0 ? { source: rootNode, target: link.target } : link); });
-    leftH.each(function(d) { if (d.depth === 0) return; d._side = 'left'; allNodes.push(d); });
-    leftH.links().forEach(function(link) { allLinks.push(link.source.depth === 0 ? { source: rootNode, target: link.target } : link); });
-    var x0=-100, x1=100, y0=-500, y1=500;
-    allNodes.forEach(function(d) { var nx=d.x||0, ny=d.y||0; if(nx<x0) x0=nx; if(nx>x1) x1=nx; if(ny<y0) y0=ny; if(ny>y1) y1=ny; });
-    var width = container.clientWidth; var padding = 120;
-    var svgH = Math.max(700, x1 - x0 + padding * 2);
-    var centerX = width / 2; var centerY = svgH / 2;
-    var svg = d3.select('#resources-graph').append('svg').attr('width', width).attr('height', svgH);
-    var g = svg.append('g').attr('transform', 'translate(' + centerX + ',' + centerY + ')');
-    svg.call(d3.zoom().scaleExtent([0.3, 2.5]).on('zoom', function(event) { g.attr('transform', event.transform); }))
-       .call(d3.zoom().transform, d3.zoomIdentity.translate(centerX, centerY).scale(0.9));
-    g.append('g').attr('fill', 'none').selectAll('path').data(allLinks).join('path')
-      .attr('d', function(d) { var sy=d.source.y||0,sx=d.source.x||0,ty=d.target.y||0,tx=d.target.x||0,my=(sy+ty)/2; return 'M'+sy+','+sx+' C'+my+','+sx+' '+my+','+tx+' '+ty+','+tx; })
-      .attr('stroke', function(d) { return d.target.data.color || '#94a3b8'; })
-      .attr('stroke-width', function(d) { return (d.target.depth||0) <= 1 ? 2 : 1.2; })
-      .attr('stroke-opacity', 0.5);
-    var nodeG = g.append('g').selectAll('g').data(allNodes).join('g')
-      .attr('transform', function(d) { return 'translate(' + (d.y||0) + ',' + (d.x||0) + ')'; })
-      .attr('cursor', function(d) { return d.data.url ? 'pointer' : 'default'; });
-    nodeG.append('circle')
-      .attr('r', function(d) { if ((d.depth||0)===0) return 10; if ((d.depth||0)===1) return 6; return 3.5; })
-      .attr('fill', function(d) { return d.data.color || '#94a3b8'; }).attr('stroke', '#fff').attr('stroke-width', 1.5);
-    nodeG.append('text').attr('dy', '0.32em')
-      .attr('x', function(d) { if ((d.depth||0)===0) return 0; if (d._side==='left') return d.children ? 10 : -8; return d.children ? -10 : 8; })
-      .attr('text-anchor', function(d) { if ((d.depth||0)===0) return 'middle'; if (d._side==='left') return d.children ? 'start' : 'end'; return d.children ? 'end' : 'start'; })
-      .attr('font-size', function(d) { if ((d.depth||0)===0) return '14px'; if ((d.depth||0)===1) return '12px'; return '10px'; })
-      .attr('font-weight', function(d) { return (d.depth||0) <= 1 ? '700' : '400'; })
-      .attr('fill', function(d) { if ((d.depth||0)===0) return '#065f46'; if ((d.depth||0)===1) return '#1a1a1a'; return '#555'; })
-      .text(function(d) { return d.data.label || d.data.name || ''; });
-    nodeG.on('click', function(event, d) { if (d.data.url) window.open(d.data.url, '_blank', 'noopener noreferrer'); });
-    nodeG.on('mouseover', function() {
-      d3.select(this).select('circle').transition().duration(150).attr('stroke', '#059669').attr('stroke-width', 3);
-      d3.select(this).select('text').transition().duration(150).attr('fill', '#065f46').attr('font-weight', '700');
-    }).on('mouseout', function(event, d) {
-      d3.select(this).select('circle').transition().duration(150).attr('stroke', '#fff').attr('stroke-width', 1.5);
-      d3.select(this).select('text').transition().duration(150)
-        .attr('fill', (d.depth||0)===0 ? '#065f46' : (d.depth||0)===1 ? '#1a1a1a' : '#555')
-        .attr('font-weight', (d.depth||0) <= 1 ? '700' : '400');
+  document.addEventListener('DOMContentLoaded', function () {
+    var container = document.getElementById('resources-graph');
+    if (container) {
+      var data = JSON.parse(mindmapData);
+      var categories = [];
+      var catMap = {};
+      data.nodes.forEach(function (n) {
+        if (n.group === 'center') return;
+        if (n.size > 10) {
+          var cat = Object.assign({}, n, { children: [] });
+          catMap[n.id] = cat;
+          categories.push(cat);
+        }
+      });
+      data.nodes.forEach(function (n) {
+        if (n.size <= 10 && n.group !== 'center') {
+          var parentId = n.id.split('_')[0];
+          if (catMap[parentId]) catMap[parentId].children.push(n);
+        }
+      });
+      var half = Math.ceil(categories.length / 2);
+      var rightRoot = {
+        id: 'r',
+        label: '',
+        children: categories.slice(0, half),
+      };
+      var leftRoot = { id: 'l', label: '', children: categories.slice(half) };
+      var treeLayout = d3.tree().nodeSize([22, 160]);
+      var rightH = d3.hierarchy(rightRoot);
+      treeLayout(rightH);
+      var leftH = d3.hierarchy(leftRoot);
+      treeLayout(leftH);
+      leftH.each(function (d) {
+        d.y = -d.y;
+      });
+      var allNodes = [];
+      var allLinks = [];
+      var rootNode = {
+        x: 0,
+        y: 0,
+        depth: 0,
+        data: data.nodes.find(function (n) {
+          return n.group === 'center';
+        }),
+        _side: 'center',
+      };
+      allNodes.push(rootNode);
+      rightH.each(function (d) {
+        if (d.depth === 0) return;
+        d._side = 'right';
+        allNodes.push(d);
+      });
+      rightH.links().forEach(function (link) {
+        allLinks.push(
+          link.source.depth === 0
+            ? { source: rootNode, target: link.target }
+            : link,
+        );
+      });
+      leftH.each(function (d) {
+        if (d.depth === 0) return;
+        d._side = 'left';
+        allNodes.push(d);
+      });
+      leftH.links().forEach(function (link) {
+        allLinks.push(
+          link.source.depth === 0
+            ? { source: rootNode, target: link.target }
+            : link,
+        );
+      });
+      var x0 = -100,
+        x1 = 100,
+        y0 = -500,
+        y1 = 500;
+      allNodes.forEach(function (d) {
+        var nx = d.x || 0,
+          ny = d.y || 0;
+        if (nx < x0) x0 = nx;
+        if (nx > x1) x1 = nx;
+        if (ny < y0) y0 = ny;
+        if (ny > y1) y1 = ny;
+      });
+      var width = container.clientWidth;
+      var padding = 120;
+      var svgH = Math.max(700, x1 - x0 + padding * 2);
+      var centerX = width / 2;
+      var centerY = svgH / 2;
+      var svg = d3
+        .select('#resources-graph')
+        .append('svg')
+        .attr('width', width)
+        .attr('height', svgH);
+      var g = svg
+        .append('g')
+        .attr('transform', 'translate(' + centerX + ',' + centerY + ')');
+      svg
+        .call(
+          d3
+            .zoom()
+            .scaleExtent([0.3, 2.5])
+            .on('zoom', function (event) {
+              g.attr('transform', event.transform);
+            }),
+        )
+        .call(
+          d3.zoom().transform,
+          d3.zoomIdentity.translate(centerX, centerY).scale(0.9),
+        );
+      g.append('g')
+        .attr('fill', 'none')
+        .selectAll('path')
+        .data(allLinks)
+        .join('path')
+        .attr('d', function (d) {
+          var sy = d.source.y || 0,
+            sx = d.source.x || 0,
+            ty = d.target.y || 0,
+            tx = d.target.x || 0,
+            my = (sy + ty) / 2;
+          return (
+            'M' +
+            sy +
+            ',' +
+            sx +
+            ' C' +
+            my +
+            ',' +
+            sx +
+            ' ' +
+            my +
+            ',' +
+            tx +
+            ' ' +
+            ty +
+            ',' +
+            tx
+          );
+        })
+        .attr('stroke', function (d) {
+          return d.target.data.color || '#94a3b8';
+        })
+        .attr('stroke-width', function (d) {
+          return (d.target.depth || 0) <= 1 ? 2 : 1.2;
+        })
+        .attr('stroke-opacity', 0.5);
+      var nodeG = g
+        .append('g')
+        .selectAll('g')
+        .data(allNodes)
+        .join('g')
+        .attr('transform', function (d) {
+          return 'translate(' + (d.y || 0) + ',' + (d.x || 0) + ')';
+        })
+        .attr('cursor', function (d) {
+          return d.data.url ? 'pointer' : 'default';
+        });
+      nodeG
+        .append('circle')
+        .attr('r', function (d) {
+          if ((d.depth || 0) === 0) return 10;
+          if ((d.depth || 0) === 1) return 6;
+          return 3.5;
+        })
+        .attr('fill', function (d) {
+          return d.data.color || '#94a3b8';
+        })
+        .attr('stroke', '#fff')
+        .attr('stroke-width', 1.5);
+      nodeG
+        .append('text')
+        .attr('dy', '0.32em')
+        .attr('x', function (d) {
+          if ((d.depth || 0) === 0) return 0;
+          if (d._side === 'left') return d.children ? 10 : -8;
+          return d.children ? -10 : 8;
+        })
+        .attr('text-anchor', function (d) {
+          if ((d.depth || 0) === 0) return 'middle';
+          if (d._side === 'left') return d.children ? 'start' : 'end';
+          return d.children ? 'end' : 'start';
+        })
+        .attr('font-size', function (d) {
+          if ((d.depth || 0) === 0) return '14px';
+          if ((d.depth || 0) === 1) return '12px';
+          return '10px';
+        })
+        .attr('font-weight', function (d) {
+          return (d.depth || 0) <= 1 ? '700' : '400';
+        })
+        .attr('fill', function (d) {
+          if ((d.depth || 0) === 0) return '#065f46';
+          if ((d.depth || 0) === 1) return '#1a1a1a';
+          return '#555';
+        })
+        .text(function (d) {
+          return d.data.label || d.data.name || '';
+        });
+      nodeG.on('click', function (event, d) {
+        if (d.data.url)
+          window.open(d.data.url, '_blank', 'noopener noreferrer');
+      });
+      nodeG
+        .on('mouseover', function () {
+          d3.select(this)
+            .select('circle')
+            .transition()
+            .duration(150)
+            .attr('stroke', '#059669')
+            .attr('stroke-width', 3);
+          d3.select(this)
+            .select('text')
+            .transition()
+            .duration(150)
+            .attr('fill', '#065f46')
+            .attr('font-weight', '700');
+        })
+        .on('mouseout', function (event, d) {
+          d3.select(this)
+            .select('circle')
+            .transition()
+            .duration(150)
+            .attr('stroke', '#fff')
+            .attr('stroke-width', 1.5);
+          d3.select(this)
+            .select('text')
+            .transition()
+            .duration(150)
+            .attr(
+              'fill',
+              (d.depth || 0) === 0
+                ? '#065f46'
+                : (d.depth || 0) === 1
+                  ? '#1a1a1a'
+                  : '#555',
+            )
+            .attr('font-weight', (d.depth || 0) <= 1 ? '700' : '400');
+        });
+    }
+    document.querySelectorAll('.site-favicon').forEach(function (img) {
+      img.addEventListener('error', function () {
+        this.onerror = null;
+        this.src =
+          "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>";
+      });
     });
-  }
-  document.querySelectorAll('.site-favicon').forEach(function(img) {
-    img.addEventListener('error', function() { this.onerror = null; this.src = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌐</text></svg>"; });
+    var nav = document.getElementById('chapter-nav');
+    if (nav) {
+      var header = document.querySelector('header');
+      if (header) {
+        nav.style.top = header.getBoundingClientRect().height + 'px';
+      }
+    }
+    var chapterSections = document.querySelectorAll('.chapter-section');
+    var chapterLinks = document.querySelectorAll('.chapter-link');
+    if (chapterSections.length > 0 && chapterLinks.length > 0) {
+      var observer = new IntersectionObserver(
+        function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              var id = entry.target.id;
+              chapterLinks.forEach(function (link) {
+                link.classList.toggle(
+                  'active',
+                  link.getAttribute('data-chapter') === id,
+                );
+              });
+            }
+          });
+        },
+        { rootMargin: '-20% 0px -60% 0px', threshold: 0 },
+      );
+      chapterSections.forEach(function (section) {
+        observer.observe(section);
+      });
+    }
+    var searchInput = document.getElementById('resources-search');
+    if (searchInput) {
+      searchInput.addEventListener('input', function () {
+        var query = this.value.toLowerCase().trim();
+        document.querySelectorAll('.site-card').forEach(function (card) {
+          var searchData = (
+            card.getAttribute('data-search') || ''
+          ).toLowerCase();
+          if (!query || searchData.indexOf(query) !== -1) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+        document.querySelectorAll('.subcategory').forEach(function (sub) {
+          sub.classList.toggle(
+            'all-hidden',
+            sub.querySelectorAll('.site-card:not(.hidden)').length === 0,
+          );
+        });
+      });
+    }
   });
-  var nav = document.getElementById('chapter-nav');
-  if (nav) { var header = document.querySelector('header'); if (header) { nav.style.top = header.getBoundingClientRect().height + 'px'; } }
-  var chapterSections = document.querySelectorAll('.chapter-section');
-  var chapterLinks = document.querySelectorAll('.chapter-link');
-  if (chapterSections.length > 0 && chapterLinks.length > 0) {
-    var observer = new IntersectionObserver(function(entries) {
-      entries.forEach(function(entry) { if (entry.isIntersecting) { var id = entry.target.id; chapterLinks.forEach(function(link) { link.classList.toggle('active', link.getAttribute('data-chapter') === id); }); } });
-    }, { rootMargin: '-20% 0px -60% 0px', threshold: 0 });
-    chapterSections.forEach(function(section) { observer.observe(section); });
-  }
-  var searchInput = document.getElementById('resources-search');
-  if (searchInput) {
-    searchInput.addEventListener('input', function() {
-      var query = this.value.toLowerCase().trim();
-      document.querySelectorAll('.site-card').forEach(function(card) {
-        var searchData = (card.getAttribute('data-search') || '').toLowerCase();
-        if (!query || searchData.indexOf(query) !== -1) { card.classList.remove('hidden'); } else { card.classList.add('hidden'); }
-      });
-      document.querySelectorAll('.subcategory').forEach(function(sub) {
-        sub.classList.toggle('all-hidden', sub.querySelectorAll('.site-card:not(.hidden)').length === 0);
-      });
-    });
-  }
-});
 </script>
