@@ -90,4 +90,4 @@ And if she calls you "Handsome," just smile and say thanks. She already knows yo
 
 ---
 
-_Visit the [Taiwan Breakfast Culture](/zh-tw/food/台灣早餐文化) page to learn more about the menu items mentioned here._
+_Visit the [Taiwan Breakfast Culture](/food/台灣早餐文化) page to learn more about the menu items mentioned here._

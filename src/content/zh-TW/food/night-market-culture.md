@@ -151,9 +151,9 @@ featured: true
 
 ### 相關主題
 
-- **→ [台灣小吃的演化史](/zh-tw/food/taiwanese-snacks-evolution)**
-- **→ [庶民經濟與非正式部門](/zh-tw/economy/informal-economy)**
-- **→ [台灣都市發展史](/zh-tw/geography/urban-development)**
+- **→ [[台灣小吃]]**
+- **→ [[台灣經濟發展]]**
+- **→ [[台灣都市發展與城鄉差距]]**
 
 ---
 
