@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import { randomUUID } from 'node:crypto';
+import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ALLOWED_CATEGORIES = new Set([
@@ -16,6 +17,36 @@ const ALLOWED_CATEGORIES = new Set([
   'Society',
   'Technology',
 ]);
+const KNOWLEDGE_ROOT = 'knowledge';
+
+function resolveKnowledgeFilePath(filepath) {
+  if (typeof filepath !== 'string' || !filepath.trim()) {
+    fail('文章檔案路徑無效');
+  }
+
+  if (path.isAbsolute(filepath)) {
+    failValidation([`文章檔案路徑不可為絕對路徑：${filepath}`]);
+  }
+
+  const pathSegments = filepath.split(/[\\/]+/).filter(Boolean);
+  if (pathSegments.some((segment) => segment === '..')) {
+    failValidation([`文章檔案路徑不可包含 ..：${filepath}`]);
+  }
+
+  const knowledgeRoot = path.resolve(KNOWLEDGE_ROOT);
+  const resolvedPath = path.resolve(filepath);
+  const relativePath = path.relative(knowledgeRoot, resolvedPath);
+
+  if (
+    relativePath.startsWith('..') ||
+    path.isAbsolute(relativePath) ||
+    relativePath === ''
+  ) {
+    failValidation([`文章檔案路徑必須位於 ${KNOWLEDGE_ROOT}/ 內：${filepath}`]);
+  }
+
+  return resolvedPath;
+}
 
 function getTodayDate() {
   return new Date().toISOString().slice(0, 10);
@@ -37,8 +68,9 @@ function ensureDirectoryForFile(filepath) {
 }
 
 function writeArticleFile(filepath, content) {
-  ensureDirectoryForFile(filepath);
-  fs.writeFileSync(filepath, content, 'utf8');
+  const resolvedPath = resolveKnowledgeFilePath(filepath);
+  ensureDirectoryForFile(resolvedPath);
+  fs.writeFileSync(resolvedPath, content, 'utf8');
 }
 
 function fail(message) {
@@ -401,12 +433,13 @@ function extractArticleFromIssue(issue) {
   const content = normalizedArticle.content;
   const articleTitle = normalizedArticle.articleTitle;
   const slug = slugifyArticleTitle(articleTitle, `article-${issue.number}`);
-  const dir = `knowledge/${normalizedArticle.category}`;
+  const dir = `${KNOWLEDGE_ROOT}/${normalizedArticle.category}`;
   const filename = `${slug}.md`;
   const filepath = `${dir}/${filename}`;
   const branch = `content/issue-${issue.number}-article`;
+  const resolvedFilepath = resolveKnowledgeFilePath(filepath);
 
-  if (fs.existsSync(filepath)) {
+  if (fs.existsSync(resolvedFilepath)) {
     failValidation([`檔案已存在，無法建立：${filepath}`]);
   }
 
