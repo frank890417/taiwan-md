@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 const dryRun = process.argv.includes('--dry-run');
-const knowledgeDir = path.resolve(__dirname, '..', 'knowledge');
+const knowledgeDir = path.resolve(__dirname, '../..', 'knowledge');
 
 // Definitive mapping: category → { keyword patterns → subcategory }
 const mapping = {

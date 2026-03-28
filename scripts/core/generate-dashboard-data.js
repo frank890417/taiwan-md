@@ -15,7 +15,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Path configuration
-const PROJECT_ROOT = path.join(__dirname, '..');
+const PROJECT_ROOT = path.join(__dirname, '../..');
 const KNOWLEDGE_DIR = path.join(PROJECT_ROOT, 'knowledge');
 const OUTPUT_DIR = path.join(PROJECT_ROOT, 'public/api');
 const EDITORIAL_PATH = path.join(PROJECT_ROOT, 'EDITORIAL.md');

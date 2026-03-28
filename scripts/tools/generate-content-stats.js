@@ -6,7 +6,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const knowledgeDir = path.join(__dirname, '..', 'knowledge');
+const knowledgeDir = path.join(__dirname, '../..', 'knowledge');
 
 // 分類統計
 const categories = {};
@@ -28,7 +28,7 @@ let dailyGrowth = [];
 try {
   const log = execSync(
     'git log --format="%ai" --diff-filter=A -- "knowledge/*.md" "knowledge/**/*.md" | cut -d" " -f1 | sort | uniq -c | sort -k2',
-    { cwd: path.join(__dirname, '..'), encoding: 'utf-8' },
+    { cwd: path.join(__dirname, '../..'), encoding: 'utf-8' },
   );
   dailyGrowth = log
     .trim()

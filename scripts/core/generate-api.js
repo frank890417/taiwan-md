@@ -14,8 +14,8 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // 路徑配置
-const KNOWLEDGE_DIR = path.join(__dirname, '../knowledge');
-const OUTPUT_DIR = path.join(__dirname, '../public/api');
+const KNOWLEDGE_DIR = path.join(__dirname, '../../knowledge');
+const OUTPUT_DIR = path.join(__dirname, '../../public/api');
 const BASE_URL = 'https://taiwan.md';
 
 // 確保輸出目錄存在

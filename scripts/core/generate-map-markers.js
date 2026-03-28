@@ -12,7 +12,7 @@ console.log('🗺️ Taiwan.md Map Marker Generation Script');
 // 讀取 geocode 對照表
 const geocodeData = JSON.parse(
   fs.readFileSync(
-    path.join(__dirname, '../src/data/taiwan-geocode.json'),
+    path.join(__dirname, '../../src/data/taiwan-geocode.json'),
     'utf8',
   ),
 );
@@ -377,7 +377,7 @@ function generateMarkers() {
     return files;
   }
 
-  const knowledgeDir = path.join(__dirname, '../knowledge');
+  const knowledgeDir = path.join(__dirname, '../../knowledge');
   const markdownFiles = getAllMarkdownFiles(knowledgeDir);
 
   console.log(`📄 找到 ${markdownFiles.length} 個 markdown 檔案`);
@@ -498,7 +498,7 @@ function generateMarkers() {
   });
 
   // 保存到檔案
-  const outputPath = path.join(__dirname, '../src/data/map-markers.json');
+  const outputPath = path.join(__dirname, '../../src/data/map-markers.json');
   fs.writeFileSync(outputPath, JSON.stringify(markers, null, 2));
 
   console.log(`\n💾 已保存到: ${outputPath}`);
