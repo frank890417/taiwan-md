@@ -24,10 +24,11 @@ jobs:
         run: |
           error_log="$(mktemp)"
           if ! node .github/scripts/extract-article.js 2>"$error_log"; then
+            delimiter="OUTPUT_$(uuidgen)"
             {
-              echo "message<<EOF"
+              echo "message<<$delimiter"
               cat "$error_log"
-              echo "EOF"
+              echo "$delimiter"
             } >> "$GITHUB_OUTPUT"
             rm -f "$error_log"
             exit 1

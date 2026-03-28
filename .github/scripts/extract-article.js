@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import { randomUUID } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const ALLOWED_CATEGORIES = new Set([
@@ -21,7 +22,11 @@ function getTodayDate() {
 }
 
 function setOutput(name, value) {
-  fs.appendFileSync(process.env.GITHUB_OUTPUT, `${name}<<EOF\n${value}\nEOF\n`);
+  const delimiter = `OUTPUT_${randomUUID()}`;
+  fs.appendFileSync(
+    process.env.GITHUB_OUTPUT,
+    `${name}<<${delimiter}\n${value}\n${delimiter}\n`,
+  );
 }
 
 function ensureDirectoryForFile(filepath) {
