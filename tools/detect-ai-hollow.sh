@@ -45,6 +45,14 @@ for arg in "$@"; do
   [[ "$arg" == "--sort" ]] && SORT_MODE=true
 done
 
+SINGLE_FILE=""
+for arg in "$@"; do
+  # If arg is a .md file path, treat as single-file mode
+  if [[ "$arg" == *.md ]] && [[ -f "$arg" ]]; then
+    SINGLE_FILE="$arg"
+  fi
+done
+
 TOTAL=0
 SUSPECT=0
 declare -a FLAGGED_FILES=()
@@ -260,18 +268,27 @@ scan_file() {
 
 echo ""
 if [[ "$JSON_MODE" == false ]]; then
-  echo "🔍 detect-ai-hollow v2.0 — 掃描 src/content/zh-TW/"
+  if [[ -n "$SINGLE_FILE" ]]; then
+    echo "🔍 detect-ai-hollow v2.0 — 掃描單一檔案: $SINGLE_FILE"
+  else
+    echo "🔍 detect-ai-hollow v2.0 — 掃描 src/content/zh-TW/"
+  fi
   echo "   評分: 0-3 ✅ OK | 4-7 ⚠️ 可疑 | 8+ 🔴 高度可疑"
   echo "   維度: 原7項 + 塑膠句式 + 結構品質（開場/結尾/H2）"
   echo ""
 fi
 
-# Scan all zh-TW articles
-while IFS= read -r -d '' file; do
-  scan_file "$file"
-done < <(find src/content/zh-TW -name '*.md' -print0 | sort -z)
+# Scan: single file or all zh-TW articles
+if [[ -n "$SINGLE_FILE" ]]; then
+  scan_file "$SINGLE_FILE"
+else
+  while IFS= read -r -d '' file; do
+    scan_file "$file"
+  done < <(find src/content/zh-TW -name '*.md' -print0 | sort -z)
+fi
 
 # ── Sort by score (descending) if requested ──
+sorted_indices=()
 if [[ "$SORT_MODE" == true ]] && [[ ${#SCORES[@]} -gt 0 ]]; then
   # Build index array sorted by score descending
   sorted_indices=()
@@ -282,8 +299,7 @@ if [[ "$SORT_MODE" == true ]] && [[ ${#SCORES[@]} -gt 0 ]]; then
       echo "$i ${SCORES[$i]}"
     done | sort -k2 -nr | awk '{print $1}'
   )
-else
-  sorted_indices=()
+elif [[ ${#SCORES[@]} -gt 0 ]]; then
   for i in "${!SCORES[@]}"; do
     sorted_indices+=("$i")
   done
@@ -322,7 +338,7 @@ if [[ "$JSON_MODE" == false ]]; then
   improved_count=0
   worsened_count=0
   
-  for idx in "${sorted_indices[@]}"; do
+  for idx in ${sorted_indices[@]+"${sorted_indices[@]}"}; do
     rel="${FLAGGED_FILES[$idx]}"
     sc="${SCORES[$idx]}"
     rs="${REASONS[$idx]}"
@@ -360,7 +376,7 @@ if [[ "$JSON_MODE" == false ]]; then
   if [[ $SUSPECT -gt 0 ]]; then
     red_count=0
     yellow_count=0
-    for sc in "${SCORES[@]}"; do
+    for sc in ${SCORES[@]+"${SCORES[@]}"}; do
       [[ $sc -ge 8 ]] && red_count=$((red_count + 1))
       [[ $sc -ge 4 && $sc -lt 8 ]] && yellow_count=$((yellow_count + 1))
     done
@@ -402,11 +418,11 @@ if [[ "$JSON_MODE" == true ]]; then
   echo "  \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\","
   echo "  \"total\": $TOTAL,"
   echo "  \"flagged\": $SUSPECT,"
-  echo "  \"red\": $(printf '%s\n' "${SCORES[@]}" | awk '$1>=8' | wc -l | tr -d '[:space:]'),"
-  echo "  \"yellow\": $(printf '%s\n' "${SCORES[@]}" | awk '$1>=4 && $1<8' | wc -l | tr -d '[:space:]'),"
+  echo "  \"red\": $(printf '%s\n' ${SCORES[@]+"${SCORES[@]}"} | awk '$1>=8' | wc -l | tr -d '[:space:]'),"
+  echo "  \"yellow\": $(printf '%s\n' ${SCORES[@]+"${SCORES[@]}"} | awk '$1>=4 && $1<8' | wc -l | tr -d '[:space:]'),"
   echo "  \"files\": ["
   first=true
-  for idx in "${sorted_indices[@]}"; do
+  for idx in ${sorted_indices[@]+"${sorted_indices[@]}"}; do
     [[ "$first" == true ]] && first=false || echo ","
     printf '    {"file": "%s", "score": %s, "reasons": "%s"}' \
       "${FLAGGED_FILES[$idx]}" "${SCORES[$idx]}" "$(echo "${REASONS[$idx]}" | sed 's/ *$//')"
@@ -425,7 +441,7 @@ fi
   echo "  \"flagged\": $SUSPECT,"
   echo "  \"files\": ["
   first=true
-  for idx in "${sorted_indices[@]}"; do
+  for idx in ${sorted_indices[@]+"${sorted_indices[@]}"}; do
     [[ "$first" == true ]] && first=false || echo ","
     printf '    {"file": "%s", "score": %s}' "${FLAGGED_FILES[$idx]}" "${SCORES[$idx]}"
   done

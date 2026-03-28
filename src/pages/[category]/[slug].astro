@@ -361,7 +361,7 @@ const encodedTitle = encodeURIComponent(title);
 
       <!-- Center: Article content -->
       <article class="col-body" data-pagefind-body>
-        <!-- Status / date strip -->
+        <!-- Status / subcategory strip -->
         <div class="article-meta-strip">
           {
             frontmatter.status && (
@@ -373,18 +373,19 @@ const encodedTitle = encodeURIComponent(title);
               </span>
             )
           }
+          <a href={`/${category}`} class="meta-category-link" style={`color:${categoryInfo.color};`}>
+            {categoryInfo.name}
+          </a>
           {
-            frontmatter.date && (
-              <time class="meta-date" datetime={frontmatter.date}>
-                {new Date(frontmatter.date).toLocaleDateString('zh-TW', {
-                  year: 'numeric',
-                  month: 'long',
-                  day: 'numeric',
-                })}
-              </time>
+            frontmatter.subcategory && (
+              <>
+                <span class="meta-separator">›</span>
+                <span class="meta-subcategory" style={`color:${categoryInfo.color}; background:${categoryInfo.colorLight};`}>
+                  {frontmatter.subcategory}
+                </span>
+              </>
             )
           }
-          <span class="meta-lang">繁體中文</span>
         </div>
 
         <!-- Prose body -->
@@ -624,6 +625,7 @@ const encodedTitle = encodeURIComponent(title);
           categoryName={categoryInfo.name}
           categoryColor={categoryInfo.color}
           slug={slug}
+          lang="zh-TW"
         />
       </div>
     </div><!-- /article-shell -->
@@ -872,20 +874,26 @@ const encodedTitle = encodeURIComponent(title);
     border-radius: 100px;
   }
 
-  .meta-date {
+  .meta-category-link {
     font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.8rem;
-    color: #7a8b7e;
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition: opacity 0.15s;
+  }
+  .meta-category-link:hover { opacity: 0.7; }
+
+  .meta-separator {
+    font-size: 0.85rem;
+    color: #b0bdb4;
   }
 
-  .meta-lang {
+  .meta-subcategory {
     font-family: 'Inter', system-ui, sans-serif;
     font-size: 0.75rem;
-    color: #9aa89e;
-    border: 1px solid rgba(26, 60, 52, 0.12);
-    padding: 0.2rem 0.6rem;
+    font-weight: 500;
+    padding: 0.2rem 0.7rem;
     border-radius: 100px;
-    margin-left: auto;
   }
 
   /* ── Prose (article body) ──────────────────────────────────────────────── */
