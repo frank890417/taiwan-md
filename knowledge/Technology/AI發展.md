@@ -5,6 +5,7 @@ category: 'Technology'
 date: '2026-03-19'
 author: 'Taiwan.md'
 tags: ['人工智慧', 'AI政策', '半導體', '科技政策', '數位轉型', '創新']
+subcategory: '人工智慧'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19

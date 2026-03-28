@@ -3,6 +3,7 @@ title: '台灣VTuber'
 description: '一個不賣廣告、用台語唱歌的虛擬主播，如何在萬物皆可虛擬的時代重新定義台灣流行文化'
 date: 2026-03-23
 tags: ['文化', '科技', '直播', '虛擬偶像']
+subcategory: '網路文化'
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false

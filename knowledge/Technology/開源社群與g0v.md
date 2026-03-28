@@ -2,6 +2,7 @@
 title: 開源社群與g0v
 category: Technology
 tags: [Technology, 開源社群, g0v, 公民科技]
+subcategory: '開源社群'
 date: 2026-03-23
 description: '2020年2月，當全世界還在搶購口罩時，台灣一群程式設計師花了72小時就讓13,000家便利商店都能查詢口罩庫存。沒有政府命令、沒有預算支持，只有一個信念：用程式碼改變社會。這就是g0v零時政府，一個「fork政府」的奇妙實驗。'
 lastVerified: 2026-03-23

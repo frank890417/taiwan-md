@@ -1,8 +1,9 @@
 ---
-title: "AI人工智慧產業"
-description: "從製造NVIDIA晶片到打造AI生態系，台灣如何在AI時代找到自己的定位"
+title: 'AI人工智慧產業'
+description: '從製造NVIDIA晶片到打造AI生態系，台灣如何在AI時代找到自己的定位'
 date: 2026-03-20
 tags: ['Technology', 'AI', '人工智慧', '科技產業']
+subcategory: '人工智慧'
 category: 'Technology'
 author: 'Taiwan.md'
 featured: false
