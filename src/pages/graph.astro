@@ -325,7 +325,6 @@ const graphData = JSON.stringify({ nodes, edges });
         />
         <span id="search-count" class="search-count"></span>
       </div>
-      <a href="/" class="back">← 回首頁</a>
     </div>
     <div id="graph-container"></div>
     <div id="tooltip" class="tooltip"></div>
@@ -634,11 +633,6 @@ const graphData = JSON.stringify({ nodes, edges });
     font-size: 0.8rem;
     white-space: nowrap;
   }
-  .back {
-    color: #3b82f6;
-    text-decoration: none;
-    font-size: 0.9rem;
-  }
   #graph-container {
     flex: 1;
     background: #fafafa;
@@ -677,11 +671,6 @@ const graphData = JSON.stringify({ nodes, edges });
     }
     #graph-search {
       width: 100%;
-    }
-    .back {
-      margin-left: 0;
-      order: 5;
-      font-size: 0.85rem;
     }
   }
 </style>
