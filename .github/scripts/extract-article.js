@@ -18,6 +18,15 @@ const ALLOWED_CATEGORIES = new Set([
   'Technology',
 ]);
 const KNOWLEDGE_ROOT = 'knowledge';
+const UNEXPECTED_ERROR_MESSAGE =
+  '建立文章失敗，請檢查 issue 內容是否符合格式要求後重新儲存。若問題持續，請查看 GitHub Actions 執行紀錄。';
+
+class ArticleExtractionError extends Error {
+  constructor(message) {
+    super(message);
+    this.name = 'ArticleExtractionError';
+  }
+}
 
 function resolveKnowledgeFilePath(filepath) {
   if (typeof filepath !== 'string' || !filepath.trim()) {
@@ -74,7 +83,7 @@ function writeArticleFile(filepath, content) {
 }
 
 function fail(message) {
-  throw new Error(message);
+  throw new ArticleExtractionError(message);
 }
 
 function failValidation(messages) {
@@ -473,7 +482,11 @@ function main() {
     setOutput('filepath', extracted.filepath);
     setOutput('branch', extracted.branch);
   } catch (error) {
-    console.error(error.message || error);
+    if (error instanceof ArticleExtractionError) {
+      console.error(error.message);
+    } else {
+      console.error(UNEXPECTED_ERROR_MESSAGE);
+    }
     process.exit(1);
   }
 }
