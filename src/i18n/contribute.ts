@@ -379,7 +379,7 @@ export const contributeUI = {
     'contribute.paths.ai.desc':
       'Paste the following to ChatGPT, Claude, or Gemini, and your AI will guide you step by step to complete your contribution:',
     'contribute.paths.ai.prompt':
-      'I want to contribute content to Taiwan.md (taiwan.md) open Taiwan knowledge base. Please first read https://taiwan.md/llms.txt and https://taiwan.md/contributing to understand the project structure and editorial guidelines, then guide me step by step to turn my Taiwan knowledge into a Markdown article. The topic I want to write about is: ______',
+      'I want to contribute content to Taiwan.md (taiwan.md) open Taiwan knowledge base. Please first read https://taiwan.md/llms.txt and https://taiwan.md/contribute to understand the project structure and editorial guidelines, then guide me step by step to turn my Taiwan knowledge into a Markdown article. The topic I want to write about is: ______',
     'contribute.paths.ai.feature1': '✅ No programming skills needed',
     'contribute.paths.ai.feature2': '✅ AI will help format into Markdown',
     'contribute.paths.ai.feature3':
@@ -393,7 +393,7 @@ export const contributeUI = {
     'contribute.paths.dev.desc.html':
       'You know Git? Great. Just add articles directly in the <code>knowledge/</code> directory.',
     'contribute.paths.dev.guide.html':
-      '📖 <a href="/en/contributing">Contributing Guidelines</a>',
+      '📖 <a href="/en/contribute">Contributing Guidelines</a>',
     'contribute.paths.dev.editorial.html':
       '📝 <a href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md" target="_blank">Editorial Guidelines</a>',
     'contribute.paths.dev.button': 'Go to GitHub →',
@@ -919,8 +919,7 @@ export const contributeUI = {
     'contribute.paths.dev.title': 'Fork & PR',
     'contribute.paths.dev.desc.html':
       '你會 Git？太好了。直接在 <code>knowledge/</code> 目錄新增文章。',
-    'contribute.paths.dev.guide.html':
-      '📖 <a href="/contributing">貢獻指南</a>',
+    'contribute.paths.dev.guide.html': '📖 <a href="/contribute">貢獻指南</a>',
     'contribute.paths.dev.editorial.html':
       '📝 <a href="https://github.com/frank890417/taiwan-md/blob/main/EDITORIAL.md" target="_blank">編輯方針</a>',
     'contribute.paths.dev.button': '前往 GitHub →',
