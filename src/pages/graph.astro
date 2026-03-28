@@ -127,16 +127,6 @@ if (allEnArticles.length === 0) {
 // Center node
 nodes.push({ id: 'taiwan', label: 'Taiwan.md', group: 'center', size: 30 });
 
-// SSOT concept node
-nodes.push({
-  id: 'ssot',
-  label: '📐 SSOT\n(Single Source of Truth)',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 16,
-});
-edges.push({ source: 'taiwan', target: 'ssot' });
-
 // Special nodes
 nodes.push({
   id: 'about',
@@ -154,37 +144,8 @@ nodes.push({
   size: 14,
   url: '/contribute',
 });
-nodes.push({
-  id: 'quotes',
-  label: '✨ 看見台灣\n引言集',
-  group: 'special',
-  color: '#f59e0b',
-  size: 12,
-  url: '/about',
-});
-nodes.push({
-  id: 'editorial',
-  label: '📋 編輯方針',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 10,
-});
-nodes.push({
-  id: 'llms',
-  label: '🤖 AI-Friendly\n(llms.txt)',
-  group: 'meta',
-  color: '#8b5cf6',
-  size: 10,
-});
 edges.push({ source: 'taiwan', target: 'about' });
 edges.push({ source: 'taiwan', target: 'contribute' });
-edges.push({ source: 'about', target: 'quotes' });
-edges.push({ source: 'ssot', target: 'editorial' });
-edges.push({ source: 'ssot', target: 'llms' });
-// SSOT connects to all categories (knowledge/ is the source)
-for (const cat of categories) {
-  edges.push({ source: 'ssot', target: cat });
-}
 
 for (const cat of categories) {
   // Chinese article nodes (filter from pre-fetched collection)
