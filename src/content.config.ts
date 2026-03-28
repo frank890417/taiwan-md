@@ -20,6 +20,7 @@ const baseContentSchema = z.object({
   lastUpdated: z.coerce.date().optional(),
   relatedTopics: z.array(z.string()).optional().default([]),
   sources: z.array(z.string()).optional().default([]),
+  subcategory: z.string().optional().default(''),
 });
 
 // 中文內容 collection
