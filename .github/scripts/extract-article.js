@@ -109,20 +109,6 @@ function extractSection(bodyText, label, nextLabels = []) {
   return match ? match[1].trim() : '';
 }
 
-function extractFrontmatterTitle(markdown) {
-  const normalized = markdown.replace(/\r\n/g, '\n');
-  const frontmatterMatch = normalized.match(/^---\n([\s\S]*?)\n---/);
-
-  if (!frontmatterMatch) {
-    return '';
-  }
-
-  const titleMatch = frontmatterMatch[1].match(
-    /^title:\s*["']?(.+?)["']?\s*$/m,
-  );
-  return titleMatch ? titleMatch[1].trim() : '';
-}
-
 function unquote(value) {
   const trimmed = value.trim();
   if (
@@ -496,7 +482,6 @@ export {
   ensureDirectoryForFile,
   extractArticleFromIssue,
   extractSection,
-  extractFrontmatterTitle,
   normalizeArticleContent,
   normalizeCategory,
   parseTagsValue,
