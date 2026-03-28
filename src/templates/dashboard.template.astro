@@ -720,38 +720,59 @@ const isEn = lang === 'en';
     const langLabels = { 'zh-TW': 'SSOT', en: '', es: '', ja: '' };
     const maxTotal = vitals.totalArticles;
 
-    bars.innerHTML = data.languages
-      .map((l) => {
-        const s = data.summary[l];
-        const pct = Math.min(s.percentage, 100);
-        const displayPct = s.percentage > 100 ? '100%+' : s.percentage + '%';
-        const label =
-          langLabels[l] ||
-          (s.percentage >= 90
-            ? isEn
-              ? 'Full Coverage'
-              : '完整覆蓋'
-            : s.percentage >= 20
+    const langColors = {
+      'zh-TW': '#3b82f6',
+      en: '#4ade80',
+      es: '#f59e0b',
+      ja: '#ec4899',
+    };
+
+    bars.innerHTML =
+      '<div class="donut-row">' +
+      data.languages
+        .map((l) => {
+          const s = data.summary[l];
+          const pct = Math.min(s.percentage, 100);
+          const displayPct =
+            s.percentage > 100 ? s.percentage + '%' : s.percentage + '%';
+          const label =
+            langLabels[l] ||
+            (s.percentage >= 90
               ? isEn
-                ? 'Growing'
-                : '成長中'
-              : isEn
-                ? 'Seedling'
-                : '萌芽');
-        const pctInside = pct > 30;
-        const pctText =
-          '<span class="trans-pct ' +
-          (pctInside ? 'trans-pct-inside' : 'trans-pct-outside') +
-          '">' +
-          displayPct +
-          '</span>';
-        return `<div class="trans-bar-row">
-          <div class="trans-lang">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
-          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%">${pctText}</div></div>
-          <div class="trans-count">${s.total} / ${maxTotal}</div>
+                ? 'Full Coverage'
+                : '完整覆蓋'
+              : s.percentage >= 20
+                ? isEn
+                  ? 'Growing'
+                  : '成長中'
+                : isEn
+                  ? 'Seedling'
+                  : '萌芽');
+          const color = langColors[l] || '#3b82f6';
+          return `<div class="donut-item">
+          <svg viewBox="0 0 36 36" class="donut-chart">
+            <circle cx="18" cy="18" r="15.9" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="3"/>
+            <circle cx="18" cy="18" r="15.9" fill="none" stroke="${color}" stroke-width="3"
+              stroke-dasharray="0, 100" data-target="${pct}" stroke-dashoffset="25"
+              stroke-linecap="round" class="donut-fill"/>
+            <text x="18" y="20.5" text-anchor="middle" font-size="8" font-weight="700" fill="#1e293b">${displayPct}</text>
+          </svg>
+          <div class="donut-label">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
+          <div class="donut-count">${s.total} / ${maxTotal}</div>
         </div>`;
-      })
-      .join('');
+        })
+        .join('') +
+      '</div>';
+
+    // Animate donut fills
+    requestAnimationFrame(() => {
+      bars.querySelectorAll('.donut-fill').forEach((el) => {
+        const target = el.getAttribute('data-target');
+        requestAnimationFrame(() => {
+          el.style.strokeDasharray = target + ', 100';
+        });
+      });
+    });
 
     // Matrix
     const cats = Object.keys(data.matrix)
@@ -796,7 +817,7 @@ const isEn = lang === 'en';
     const verifiedCount = articles.filter((a) => a.lastVerified).length;
     const total = articles.length;
 
-    overview.innerHTML = [
+    const immuneMetrics = [
       {
         label: isEn ? 'Human Reviewed' : '人工審閱',
         count: reviewedCount,
@@ -807,23 +828,45 @@ const isEn = lang === 'en';
         label: isEn ? 'Featured' : '精選文章',
         count: featuredCount,
         total,
-        color: '#facc15',
+        color: '#f59e0b',
       },
       {
         label: isEn ? 'Verified' : '已驗證',
         count: verifiedCount,
         total,
-        color: '#60a5fa',
+        color: '#3b82f6',
       },
-    ]
-      .map((m) => {
-        const pct = Math.round((m.count / m.total) * 100);
-        return `<div class="immune-metric">
-        <div class="immune-metric-header"><span>${m.label}</span><span>${pct}% (${m.count}/${m.total})</span></div>
-        <div class="immune-bar"><div class="immune-bar-fill" style="width:${pct}%;background:${m.color}"></div></div>
-      </div>`;
-      })
-      .join('');
+    ];
+
+    overview.innerHTML =
+      '<div class="donut-row">' +
+      immuneMetrics
+        .map((m) => {
+          const pct = Math.round((m.count / m.total) * 100);
+          return `<div class="donut-item">
+          <svg viewBox="0 0 36 36" class="donut-chart">
+            <circle cx="18" cy="18" r="15.9" fill="none" stroke="rgba(0,0,0,0.06)" stroke-width="3"/>
+            <circle cx="18" cy="18" r="15.9" fill="none" stroke="${m.color}" stroke-width="3"
+              stroke-dasharray="0, 100" data-target="${pct}" stroke-dashoffset="25"
+              stroke-linecap="round" class="donut-fill"/>
+            <text x="18" y="20.5" text-anchor="middle" font-size="8" font-weight="700" fill="#1e293b">${pct}%</text>
+          </svg>
+          <div class="donut-label">${m.label}</div>
+          <div class="donut-count">${m.count} / ${m.total}</div>
+        </div>`;
+        })
+        .join('') +
+      '</div>';
+
+    // Animate donut fills
+    requestAnimationFrame(() => {
+      overview.querySelectorAll('.donut-fill').forEach((el) => {
+        const target = el.getAttribute('data-target');
+        requestAnimationFrame(() => {
+          el.style.strokeDasharray = target + ', 100';
+        });
+      });
+    });
 
     // Queue: unreviewed articles, oldest first
     const unreviewed = articles.filter((a) => !a.lastHumanReview);
@@ -1315,7 +1358,7 @@ const isEn = lang === 'en';
   }
 </script>
 
-<style>
+<style is:global>
   /* ── Base ── */
   .dashboard {
     max-width: 1200px;
@@ -1748,58 +1791,44 @@ const isEn = lang === 'en';
   }
 
   /* ── Translation ── */
-  .trans-bar-row {
-    display: grid;
-    grid-template-columns: 140px 1fr 140px;
-    align-items: center;
-    gap: 1rem;
-    margin-bottom: 0.6rem;
-  }
-  .trans-lang {
-    font-weight: 600;
-    font-size: 0.9rem;
-  }
   .trans-badge {
     font-size: 0.7rem;
     font-weight: 400;
     opacity: 0.5;
     margin-left: 0.3rem;
   }
-  .trans-bar {
-    height: 20px;
-    background: rgba(0, 0, 0, 0.05);
-    border-radius: 4px;
-    overflow: visible;
-    position: relative;
+
+  /* ── Donut Charts ── */
+  .donut-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
   }
-  .trans-bar-fill {
-    height: 100%;
-    background: linear-gradient(90deg, #3b82f6, #8b5cf6);
-    border-radius: 4px;
-    transition: width 0.6s ease;
-    position: relative;
-    overflow: visible;
+  .donut-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
   }
-  .trans-pct {
-    font-size: 0.7rem;
+  .donut-chart {
+    width: 100px;
+    height: 100px;
+    max-width: 100px;
+    flex-shrink: 0;
+  }
+  .donut-fill {
+    transition: stroke-dasharray 1s ease;
+  }
+  .donut-label {
+    font-size: 0.85rem;
     font-weight: 600;
-    white-space: nowrap;
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    text-align: center;
   }
-  .trans-pct-inside {
-    color: #fff;
-    right: 0.4rem;
-  }
-  .trans-pct-outside {
-    left: calc(100% + 0.4rem);
-    color: #64748b;
-  }
-  .trans-count {
+  .donut-count {
     font-size: 0.8rem;
     opacity: 0.6;
-    text-align: right;
     font-variant-numeric: tabular-nums;
   }
   .translation-matrix-wrapper {
@@ -1855,26 +1884,7 @@ const isEn = lang === 'en';
 
   /* ── Immune ── */
   .immune-overview {
-    display: grid;
-    gap: 0.8rem;
     margin-bottom: 1.5rem;
-  }
-  .immune-metric-header {
-    display: flex;
-    justify-content: space-between;
-    font-size: 0.85rem;
-    margin-bottom: 0.3rem;
-  }
-  .immune-bar {
-    height: 8px;
-    background: rgba(0, 0, 0, 0.06);
-    border-radius: 4px;
-    overflow: hidden;
-  }
-  .immune-bar-fill {
-    height: 100%;
-    border-radius: 4px;
-    transition: width 0.6s ease;
   }
   .defense-lines {
     display: grid;
@@ -2188,10 +2198,6 @@ const isEn = lang === 'en';
     .registry-filters {
       flex-wrap: wrap;
     }
-    .trans-bar-row {
-      grid-template-columns: 100px 1fr 80px;
-      gap: 0.5rem;
-    }
     .organ-grid {
       grid-template-columns: repeat(2, 1fr);
     }
@@ -2225,12 +2231,12 @@ const isEn = lang === 'en';
     .organ-grid {
       grid-template-columns: 1fr;
     }
-    .trans-bar-row {
-      grid-template-columns: 1fr;
-      gap: 0.2rem;
+    .donut-row {
+      gap: 1rem;
     }
-    .trans-count {
-      text-align: left;
+    .donut-chart {
+      width: 80px;
+      height: 80px;
     }
   }
 </style>
