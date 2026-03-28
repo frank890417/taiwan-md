@@ -1,4 +1,5 @@
-const fs = require('fs');
+import fs from 'node:fs';
+import { fileURLToPath } from 'node:url';
 
 const ALLOWED_CATEGORIES = new Set([
   'Art',
@@ -21,6 +22,18 @@ function getTodayDate() {
 
 function setOutput(name, value) {
   fs.appendFileSync(process.env.GITHUB_OUTPUT, `${name}<<EOF\n${value}\nEOF\n`);
+}
+
+function ensureDirectoryForFile(filepath) {
+  const directory = filepath.includes('/')
+    ? filepath.slice(0, filepath.lastIndexOf('/'))
+    : '.';
+  fs.mkdirSync(directory, { recursive: true });
+}
+
+function writeArticleFile(filepath, content) {
+  ensureDirectoryForFile(filepath);
+  fs.writeFileSync(filepath, content, 'utf8');
 }
 
 function fail(message) {
@@ -413,7 +426,8 @@ function main() {
     const event = JSON.parse(fs.readFileSync(issuePath, 'utf8'));
     const extracted = extractArticleFromIssue(event.issue);
 
-    setOutput('content', extracted.content);
+    writeArticleFile(extracted.filepath, extracted.content);
+
     setOutput('article_title', extracted.articleTitle);
     setOutput('category', extracted.category);
     setOutput('dir', extracted.dir);
@@ -426,8 +440,9 @@ function main() {
   }
 }
 
-module.exports = {
+export {
   ALLOWED_CATEGORIES,
+  ensureDirectoryForFile,
   extractArticleFromIssue,
   extractSection,
   extractFrontmatterTitle,
@@ -435,8 +450,9 @@ module.exports = {
   normalizeCategory,
   parseTagsValue,
   slugifyArticleTitle,
+  writeArticleFile,
 };
 
-if (require.main === module) {
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main();
 }

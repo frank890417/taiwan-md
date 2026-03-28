@@ -34,13 +34,6 @@ jobs:
           fi
           rm -f "$error_log"
 
-      - name: Create markdown file
-        run: |
-          mkdir -p "${{ steps.extract.outputs.dir }}"
-          cat > "${{ steps.extract.outputs.filepath }}" <<'EOF'
-          ${{ steps.extract.outputs.content }}
-          EOF
-
       - name: Create pull request
         id: create-pull-request
         uses: peter-evans/create-pull-request@v6
