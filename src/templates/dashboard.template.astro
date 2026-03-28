@@ -739,17 +739,15 @@ const isEn = lang === 'en';
                 ? 'Seedling'
                 : '萌芽');
         const pctInside = pct > 30;
-        const pctTextInside =
-          '<span class="trans-pct trans-pct-inside">' + displayPct + '</span>';
-        const pctTextOutside =
-          '<span class="trans-pct trans-pct-outside" style="left:' +
-          (pct + 1) +
-          '%">' +
+        const pctText =
+          '<span class="trans-pct ' +
+          (pctInside ? 'trans-pct-inside' : 'trans-pct-outside') +
+          '">' +
           displayPct +
           '</span>';
         return `<div class="trans-bar-row">
           <div class="trans-lang">${langNames[l] || l} <span class="trans-badge">${label}</span></div>
-          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%">${pctInside ? pctTextInside : ''}</div>${!pctInside ? pctTextOutside : ''}</div>
+          <div class="trans-bar"><div class="trans-bar-fill" style="width:${pct}%">${pctText}</div></div>
           <div class="trans-count">${s.total} / ${maxTotal}</div>
         </div>`;
       })
@@ -947,7 +945,7 @@ const isEn = lang === 'en';
 
     // X labels: show every Nth to avoid crowding
     const isMobile = window.innerWidth < 600;
-    const labelEvery = isMobile ? Math.ceil(n / 6) : Math.ceil(n / 12);
+    const labelEvery = isMobile ? 4 : 3;
 
     let xLabels = '';
     data.forEach((d, i) => {
@@ -977,12 +975,16 @@ const isEn = lang === 'en';
 
     // Milestone markers
     let milestonesSvg = '';
+    const milestoneOffsets = [-40, -60, -40, -60];
     milestones.forEach((m, mi) => {
       const idx = data.findIndex((d) => d.date === m.date);
       if (idx === -1) return;
       const cx = xPos(idx).toFixed(1);
-      const cy = yPos(data[idx].cumulative).toFixed(1);
-      const labelY = Math.max(padT + 10, parseFloat(cy) - 18 - (mi % 2) * 18);
+      const cy = parseFloat(yPos(data[idx].cumulative).toFixed(1));
+      const offset = milestoneOffsets[mi] || -40;
+      const labelY = Math.max(padT + 6, cy + offset);
+      const lineEndY = labelY + 6;
+      milestonesSvg += `<line x1="${cx}" y1="${lineEndY}" x2="${cx}" y2="${cy - 6}" stroke="#8b5cf6" stroke-width="1" stroke-dasharray="3,2" opacity="0.5" />`;
       milestonesSvg += `<circle cx="${cx}" cy="${cy}" r="5" fill="#8b5cf6" stroke="#fff" stroke-width="2" />`;
       milestonesSvg += `<text x="${cx}" y="${labelY}" text-anchor="middle" class="growth-milestone-label">${m.emoji} ${m.label}</text>`;
     });
@@ -1775,24 +1777,23 @@ const isEn = lang === 'en';
     background: linear-gradient(90deg, #3b82f6, #8b5cf6);
     border-radius: 4px;
     transition: width 0.6s ease;
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    padding-right: 0.4rem;
-    overflow: hidden;
+    position: relative;
+    overflow: visible;
   }
   .trans-pct {
     font-size: 0.7rem;
     font-weight: 600;
     white-space: nowrap;
-  }
-  .trans-pct-inside {
-    color: #fff;
-  }
-  .trans-pct-outside {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+  }
+  .trans-pct-inside {
+    color: #fff;
+    right: 0.4rem;
+  }
+  .trans-pct-outside {
+    left: calc(100% + 0.4rem);
     color: #64748b;
   }
   .trans-count {
@@ -1824,25 +1825,32 @@ const isEn = lang === 'en';
   }
   .translation-matrix td:first-child {
     text-align: left;
+    min-width: 120px;
+  }
+  .matrix-cell {
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
   }
   .matrix-cell.cell-ssot {
-    background: rgba(59, 130, 246, 0.08);
-    font-weight: 600;
+    background: rgba(59, 130, 246, 0.15);
+    color: #1e40af;
+    font-weight: 700;
   }
   .matrix-cell.cell-full {
-    background: rgba(74, 222, 128, 0.12);
-    color: #166534;
+    background: rgba(34, 197, 94, 0.2);
+    color: #14532d;
   }
   .matrix-cell.cell-partial {
-    background: rgba(250, 204, 21, 0.12);
-    color: #854d0e;
+    background: rgba(250, 204, 21, 0.2);
+    color: #713f12;
   }
   .matrix-cell.cell-low {
-    background: rgba(248, 113, 113, 0.08);
-    color: #991b1b;
+    background: rgba(239, 68, 68, 0.15);
+    color: #7f1d1d;
   }
   .matrix-cell.cell-none {
-    opacity: 0.2;
+    background: rgba(0, 0, 0, 0.03);
+    color: #94a3b8;
   }
 
   /* ── Immune ── */
@@ -1977,7 +1985,7 @@ const isEn = lang === 'en';
     cursor: pointer;
   }
   .growth-milestone-label {
-    font-size: 11px;
+    font-size: 0.65rem;
     fill: #6d28d9;
     font-weight: 600;
     font-family: inherit;
