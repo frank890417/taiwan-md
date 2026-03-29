@@ -9,7 +9,7 @@
 ### 最簡單的方式（3 步驟）
 
 1. **挑一篇** — 從下面的「待翻譯」清單選一篇你有興趣的
-2. **丟給 AI** — 把 [TRANSLATE_PROMPT.md](TRANSLATE_PROMPT.md) 貼給你的 AI，告訴它你要翻譯哪篇
+2. **丟給 AI** — 把 [TRANSLATE_PROMPT.md](../prompts/TRANSLATE_PROMPT.md) 貼給你的 AI，告訴它你要翻譯哪篇
 3. **提交 PR** — 把翻譯好的 `.md` 檔案放到對應語言資料夾，開 PR
 
 ### 路徑規則
