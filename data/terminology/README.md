@@ -30,9 +30,37 @@
 - `names/` — 國名/人名翻譯
 - `internet/` — 網路時代新詞（2000s+）
 
-## 來源
+## 來源資料庫
 
-- 《大陸用語檢索手冊》（竺家寧等，行政院大陸委員會，1997）
-- 中華語文知識庫（chinese-linguipedia.org）
-- 維基百科 NoteTA 轉換表
-- Taiwan.md 社群觀察
+### 已萃取（`_sources/` 目錄）
+
+| 來源 | 詞對數 | 強項 | URL |
+|------|--------|------|-----|
+| 藍光濾波研究所 | ~1,089 | IT/電腦（含維基百科 CGroup/IT） | https://corettainformation.blogspot.com/p/blog-page_15.html |
+| ThunderKO C2T | ~500 | IT + 商務 + 學術論文 | https://thunderko.com/c2t/ |
+| 《大陸用語檢索手冊》1997 | ~250 | 日常/教育/經濟/國名（歷史快照） | http://www.hintoninfo.com.tw/Upload/mag/words.pdf |
+
+### 開源工具（可整合詞庫）
+
+| 名稱 | 說明 | URL |
+|------|------|-----|
+| **OpenCC** | 中文簡繁轉換開源標準，支援台灣正體 + 地區詞彙轉換（`s2twp.json`），8.5k⭐ | https://github.com/BYVoid/OpenCC |
+| wasm-opencc | OpenCC 的 WebAssembly 版本，可在瀏覽器/Node 直接執行 | https://github.com/oyyd/wasm-opencc |
+| cn2tw4programmer | Chrome 擴充：簡中 CS 詞彙→繁中詞彙（數組→陣列等） | https://github.com/pjchender/cn2tw4programmer |
+| 繁化姬 zhconvert | 繁簡轉換 + 台灣化，支援詞語模組、差異比較 | https://zhconvert.org/ |
+
+### 官方/學術資源
+
+| 名稱 | 說明 | URL |
+|------|------|-----|
+| **國家教育研究院雙語詞彙** | 學術名詞對照下載（教育/科技/社會科學） | https://terms.naer.edu.tw/download/ |
+| 中華語文知識庫 | 教育部兩岸詞典（需 JS 瀏覽器批次萃取） | https://chinese-linguipedia.org/ |
+| 維基百科 NoteTA/CGroup | IT 轉換表（已整合至藍光濾波資料集） | Wikipedia CGroup |
+
+### 社群討論
+
+| 名稱 | 說明 | URL |
+|------|------|-----|
+| Yukaii open-source-ideas #14 | 中→台用語轉換 Chrome 擴充企劃（含完整詞庫連結列表） | https://github.com/Yukaii/open-source-ideas/issues/14 |
+| Dcard「想避免中國用語的人請進」 | 200+ 民間用語整理 | Dcard |
+| Taiwan.md 社群觀察 | 本專案自建 | — |
