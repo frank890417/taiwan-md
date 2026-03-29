@@ -133,6 +133,124 @@ const cards: CardData[] = terms.map((t) => {
 
 // Serialize for client-side JS
 const termsJSON = JSON.stringify(terms);
+
+// ── Fork Graph data ────────────────────────────────────────────────────────
+interface ForkEntry {
+  id: string;
+  origin: string;
+  originYear: number;
+  forkYear: number;
+  taiwan: string;
+  china: string;
+  type: string;
+  note: string;
+  onlyTaiwan?: boolean;
+}
+
+const forkData: ForkEntry[] = [
+  {
+    id: 'bentou',
+    origin: '弁当（日語）',
+    originYear: 1895,
+    forkYear: 1949,
+    taiwan: '便當',
+    china: '盒飯',
+    type: 'A',
+    note: '日治時期引入，台灣沿用至今。池上便當、鐵路便當已是文化符號。',
+  },
+  {
+    id: 'quality',
+    origin: '品質（日語 ひんしつ）',
+    originYear: 1895,
+    forkYear: 1950,
+    taiwan: '品質',
+    china: '質量',
+    type: 'A',
+    note: '台灣保留日語漢字直譯，中國改用「質量」，常與物理 mass 混淆。',
+  },
+  {
+    id: 'wassi',
+    origin: 'gas → ガス（荷→日）',
+    originYear: 1895,
+    forkYear: 1949,
+    taiwan: '瓦斯',
+    china: '煤氣',
+    type: 'A',
+    note: '保留了荷蘭語→日語→台灣的完整借詞鏈。中國自創「煤氣/天然氣」。',
+  },
+  {
+    id: 'obasang',
+    origin: 'おばさん（日語）',
+    originYear: 1895,
+    forkYear: 1949,
+    taiwan: '歐巴桑',
+    china: '大媽',
+    type: 'A',
+    note: '日語親屬稱謂借詞，台灣語感中性親暱；中國「大媽」近年帶有刻板印象。',
+  },
+  {
+    id: 'software',
+    origin: 'software（英語）',
+    originYear: 1960,
+    forkYear: 1980,
+    taiwan: '軟體',
+    china: '軟件',
+    type: 'B',
+    note: '台灣用「體」統一術語（軟體、硬體、韌體），中國用「件」（軟件、硬件）。',
+  },
+  {
+    id: 'jieyun',
+    origin: 'MRT / metro（英語）',
+    originYear: 1960,
+    forkYear: 1977,
+    taiwan: '捷運',
+    china: '地鐵',
+    type: 'B',
+    note: '台灣規劃時自製「捷運」，因有大量高架路段，不適合稱「地下鐵」。',
+  },
+  {
+    id: 'algorithm',
+    origin: 'algorithm（英語）',
+    originYear: 1960,
+    forkYear: 1980,
+    taiwan: '演算法',
+    china: '算法',
+    type: 'B',
+    note: '台灣強調「演算過程」，保留「演」字；中國偏好簡潔的「算法」。',
+  },
+  {
+    id: 'video',
+    origin: 'video（英語）',
+    originYear: 1990,
+    forkYear: 2005,
+    taiwan: '影片',
+    china: '視頻',
+    type: 'C',
+    note: '「視頻」隨優酷等平台在中國崛起，台灣仍用源自電影膠片時代的「影片」。',
+  },
+  {
+    id: 'like',
+    origin: 'Like（Facebook 2009）',
+    originYear: 2009,
+    forkYear: 2010,
+    taiwan: '按讚',
+    china: '點贊',
+    type: 'C',
+    note: '繁簡字差異（讚 vs 贊）加上 UI 翻譯分歧：台灣「按」+「讚」，中國「點」+「贊」。',
+  },
+  {
+    id: 'renshe',
+    origin: 'ACG 人物設定',
+    originYear: 2015,
+    forkYear: 2020,
+    taiwan: '（形象）',
+    china: '人設',
+    type: 'E',
+    note: '中國原生 ACG 用語，2020 年前後滲透台灣年輕族群，正式媒體仍用「形象」。',
+    onlyTaiwan: false,
+  },
+];
+const forkDataJSON = JSON.stringify(forkData);
 ---
 
 <Layout title="📖 用語保存計畫 — Taiwan.md">
@@ -153,6 +271,24 @@ const termsJSON = JSON.stringify(terms);
         </div>
       </div>
     </div>
+
+    <!-- ── Fork Graph ────────────────────────────────────────── -->
+    <section class="fork-graph-section" aria-label="語言分支樹">
+      <div class="fork-graph-header">
+        <h2>🌿 語言分支樹 — 一個詞如何走出兩條路</h2>
+        <p class="fork-graph-sub">從共同詞源到兩岸分歧，每條分支都是真實生活的選擇</p>
+      </div>
+      <div class="fork-graph-wrap">
+        <svg id="fork-graph-svg" aria-label="語言分歧分支圖"></svg>
+        <div id="fork-tooltip" class="fork-tooltip" role="tooltip" aria-hidden="true"></div>
+      </div>
+      <p class="fork-graph-caption">
+        橫軸為時間，每行代表一個詞的分歧歷程。<span class="legend-tw">■ 台灣用法</span>
+        <span class="legend-cn">■ 中國用法</span>
+        <span class="legend-origin">● 詞源</span>
+        — Hover 節點查看詳情。
+      </p>
+    </section>
 
     <!-- ── Filter bar ─────────────────────────────────────────── -->
     <div class="filter-bar">
@@ -297,6 +433,236 @@ const termsJSON = JSON.stringify(terms);
   </main>
 </Layout>
 
+<script define:vars={{ forkDataJSON }}>
+// ── Fork Graph (D3.js) ────────────────────────────────────────────────────
+(function () {
+  const forkData = JSON.parse(forkDataJSON);
+
+  function loadD3(callback) {
+    if (window.d3) { callback(); return; }
+    const s = document.createElement('script');
+    s.src = 'https://d3js.org/d3.v7.min.js';
+    s.onload = callback;
+    document.head.appendChild(s);
+  }
+
+  function drawGraph() {
+    const d3 = window.d3;
+    const wrap = document.querySelector('.fork-graph-wrap');
+    const svg = d3.select('#fork-graph-svg');
+    if (!wrap || svg.empty()) return;
+
+    const ROW_H = 56;
+    const PAD_T = 30;
+    const PAD_B = 36;
+    const PAD_L = 20;
+    const PAD_R = 20;
+    const LABEL_W = 130;   // origin label width
+    const RESULT_W = 100;  // result label area
+
+    const totalW = Math.max(wrap.clientWidth, 680);
+    const graphW = totalW - PAD_L - PAD_R - LABEL_W - RESULT_W;
+    const totalH = forkData.length * ROW_H + PAD_T + PAD_B;
+
+    svg.attr('width', totalW).attr('height', totalH);
+
+    // Time scale
+    const minYear = 1890;
+    const maxYear = 2030;
+    const xScale = d3.scaleLinear()
+      .domain([minYear, maxYear])
+      .range([LABEL_W + PAD_L, LABEL_W + PAD_L + graphW]);
+
+    // Axis years
+    const axisTicks = [1895, 1945, 1949, 1980, 2000, 2010, 2026];
+
+    // Clear
+    svg.selectAll('*').remove();
+    const g = svg.append('g');
+
+    // ── Grid lines (vertical) ──────────────────────────────────────────
+    axisTicks.forEach((yr) => {
+      g.append('line')
+        .attr('x1', xScale(yr)).attr('x2', xScale(yr))
+        .attr('y1', PAD_T).attr('y2', totalH - PAD_B)
+        .attr('stroke', '#e0e0e0').attr('stroke-width', 1)
+        .attr('stroke-dasharray', '4,3');
+    });
+
+    // ── Time axis labels ──────────────────────────────────────────────
+    axisTicks.forEach((yr) => {
+      g.append('text')
+        .attr('x', xScale(yr)).attr('y', totalH - PAD_B + 16)
+        .attr('text-anchor', 'middle')
+        .attr('font-size', 11).attr('fill', '#aaa')
+        .text(yr);
+    });
+
+    // ── Per-row drawing ───────────────────────────────────────────────
+    const tooltip = document.getElementById('fork-tooltip');
+
+    function showTip(html, event) {
+      if (!tooltip) return;
+      tooltip.innerHTML = html;
+      tooltip.classList.add('visible');
+      tooltip.setAttribute('aria-hidden', 'false');
+      moveTip(event);
+    }
+    function moveTip(event) {
+      if (!tooltip) return;
+      const ttW = 270, ttH = 90;
+      let x = event.clientX + 14;
+      let y = event.clientY - 14;
+      if (x + ttW > window.innerWidth) x = event.clientX - ttW - 14;
+      if (y + ttH > window.innerHeight) y = event.clientY - ttH;
+      tooltip.style.left = x + 'px';
+      tooltip.style.top = y + 'px';
+    }
+    function hideTip() {
+      if (!tooltip) return;
+      tooltip.classList.remove('visible');
+      tooltip.setAttribute('aria-hidden', 'true');
+    }
+
+    forkData.forEach((d, i) => {
+      const cy = PAD_T + i * ROW_H + ROW_H / 2;
+      const forkX = xScale(d.forkYear);
+      const originX = xScale(d.originYear);
+      const endX = xScale(2027);
+
+      const twColor = '#e74c3c';
+      const cnColor = '#3498db';
+      const originColor = '#888';
+
+      const row = g.append('g').attr('class', 'fork-row');
+
+      // ── horizontal stem: origin → fork ──────────────────────────
+      row.append('line')
+        .attr('x1', originX).attr('x2', forkX)
+        .attr('y1', cy).attr('y2', cy)
+        .attr('stroke', originColor).attr('stroke-width', 2);
+
+      // ── Taiwan branch: fork → end (upper) ───────────────────────
+      const twY = cy - 14;
+      const twPath = `M${forkX},${cy} C${forkX + 28},${cy} ${forkX + 35},${twY} ${forkX + 50},${twY} L${endX},${twY}`;
+      row.append('path')
+        .attr('d', twPath)
+        .attr('fill', 'none').attr('stroke', twColor).attr('stroke-width', 2)
+        .style('opacity', 0)
+        .transition().delay(i * 80).duration(600).ease(d3.easeCubicOut)
+        .style('opacity', 1);
+
+      // ── China branch: fork → end (lower, or inline for type E) ──
+      const isOneway = d.type === 'E';
+      const cnY = isOneway ? cy + 14 : cy + 14;
+      const cnPath = `M${forkX},${cy} C${forkX + 28},${cy} ${forkX + 35},${cnY} ${forkX + 50},${cnY} L${endX},${cnY}`;
+      row.append('path')
+        .attr('d', cnPath)
+        .attr('fill', 'none').attr('stroke', cnColor).attr('stroke-width', 2)
+        .style('opacity', 0)
+        .transition().delay(i * 80 + 100).duration(600).ease(d3.easeCubicOut)
+        .style('opacity', 1);
+
+      // ── Origin node ───────────────────────────────────────────────
+      const originNode = row.append('circle')
+        .attr('cx', originX).attr('cy', cy).attr('r', 5)
+        .attr('fill', originColor).attr('stroke', '#fff').attr('stroke-width', 1.5)
+        .style('cursor', 'pointer');
+
+      // ── Fork point node ───────────────────────────────────────────
+      const forkNode = row.append('circle')
+        .attr('cx', forkX).attr('cy', cy).attr('r', 7)
+        .attr('fill', '#fff').attr('stroke', '#888').attr('stroke-width', 2)
+        .style('cursor', 'pointer');
+
+      // ── Taiwan end node ───────────────────────────────────────────
+      const twNode = row.append('circle')
+        .attr('cx', endX).attr('cy', twY).attr('r', 5)
+        .attr('fill', twColor).attr('stroke', '#fff').attr('stroke-width', 1.5)
+        .style('cursor', 'pointer')
+        .style('opacity', 0)
+        .transition().delay(i * 80 + 600).duration(200)
+        .style('opacity', 1);
+
+      // ── China end node ────────────────────────────────────────────
+      const cnNode = row.append('circle')
+        .attr('cx', endX).attr('cy', cnY).attr('r', 5)
+        .attr('fill', cnColor).attr('stroke', '#fff').attr('stroke-width', 1.5)
+        .style('cursor', 'pointer')
+        .style('opacity', 0)
+        .transition().delay(i * 80 + 700).duration(200)
+        .style('opacity', 1);
+
+      // ── Origin label (left side) ──────────────────────────────────
+      g.append('text')
+        .attr('x', PAD_L + 6).attr('y', cy + 4)
+        .attr('font-size', 11).attr('fill', '#999')
+        .attr('font-family', 'system-ui, sans-serif')
+        .text(d.origin.length > 10 ? d.origin.slice(0, 10) + '…' : d.origin);
+
+      // ── Taiwan result label (right side) ─────────────────────────
+      g.append('text')
+        .attr('x', endX + 10).attr('y', twY + 4)
+        .attr('font-size', 12).attr('fill', twColor).attr('font-weight', '600')
+        .attr('font-family', 'system-ui, sans-serif')
+        .text(d.taiwan);
+
+      // ── China result label (right side) ──────────────────────────
+      g.append('text')
+        .attr('x', endX + 10).attr('y', cnY + 4)
+        .attr('font-size', 12).attr('fill', cnColor).attr('font-weight', '600')
+        .attr('font-family', 'system-ui, sans-serif')
+        .text(d.china.length > 8 ? d.china.slice(0, 8) + '…' : d.china);
+
+      // ── Tooltip interactions ──────────────────────────────────────
+      const baseHtml = `<strong>${d.taiwan} / ${d.china}</strong>${d.note}<br><span style="opacity:.7;font-size:.78rem">分歧：${d.forkYear}年 · 類型 ${d.type}</span>`;
+      const originHtml = `<strong>詞源</strong>${d.origin}<br><span style="opacity:.7;font-size:.78rem">起源：${d.originYear}年代</span>`;
+
+      [originNode, forkNode].forEach((node) => {
+        node.on('mousemove', (event) => { showTip(originHtml, event); moveTip(event); })
+            .on('mouseleave', hideTip);
+      });
+
+      // Attach tooltip to real DOM circles (after transition)
+      setTimeout(() => {
+        const circles = document.querySelectorAll(`#fork-graph-svg circle`);
+        // Just re-bind on the SVG level once
+      }, 1000);
+    });
+
+    // Bind tooltip events via SVG mousemove delegation (fallback)
+    svg.on('mousemove', (event) => {
+      const target = event.target;
+      if (target.tagName === 'circle') moveTip(event);
+    });
+
+    // Row separator lines
+    forkData.forEach((d, i) => {
+      if (i === 0) return;
+      const lineY = PAD_T + i * ROW_H;
+      g.append('line')
+        .attr('x1', PAD_L).attr('x2', totalW - PAD_R)
+        .attr('y1', lineY).attr('y2', lineY)
+        .attr('stroke', '#f0f0f0').attr('stroke-width', 1);
+    });
+  }
+
+  // Init on load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => loadD3(drawGraph));
+  } else {
+    loadD3(drawGraph);
+  }
+
+  // Redraw on resize
+  let resizeTimer;
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(drawGraph, 200);
+  });
+})();
+</script>
+
 <script define:vars={{ termsJSON }}>
   const terms = JSON.parse(termsJSON);
   const grid = document.getElementById('terms-grid');
@@ -392,6 +758,78 @@ const termsJSON = JSON.stringify(terms);
 </script>
 
 <style>
+  /* ── Fork Graph ───────────────────────────────────────────────── */
+  .fork-graph-section {
+    max-width: 1100px;
+    margin: 0 auto 2.5rem;
+    padding: 0 1.5rem;
+  }
+  .fork-graph-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .fork-graph-header h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin: 0 0 0.4rem;
+  }
+  .fork-graph-sub {
+    color: #666;
+    font-size: 0.95rem;
+    margin: 0;
+  }
+  .fork-graph-wrap {
+    position: relative;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    background: #fafafa;
+    border: 1px solid #e8e8e8;
+    border-radius: 12px;
+  }
+  #fork-graph-svg {
+    display: block;
+    min-width: 640px;
+  }
+  .fork-tooltip {
+    position: fixed;
+    background: rgba(20, 20, 40, 0.93);
+    color: #fff;
+    padding: 0.6rem 0.9rem;
+    border-radius: 8px;
+    font-size: 0.82rem;
+    line-height: 1.5;
+    max-width: 260px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 9999;
+    white-space: normal;
+  }
+  .fork-tooltip.visible {
+    opacity: 1;
+  }
+  .fork-tooltip strong {
+    display: block;
+    font-size: 0.95rem;
+    margin-bottom: 0.25rem;
+  }
+  .fork-graph-caption {
+    text-align: center;
+    font-size: 0.83rem;
+    color: #888;
+    margin-top: 0.75rem;
+  }
+  .legend-tw { color: #e74c3c; font-weight: 600; }
+  .legend-cn { color: #3498db; font-weight: 600; margin-left: 0.5rem; }
+  .legend-origin { color: #888; margin-left: 0.5rem; }
+
+  @media (max-width: 640px) {
+    .fork-graph-header h2 { font-size: 1.15rem; }
+    .fork-graph-section { padding: 0 0.75rem; }
+  }
+
   /* ── Page layout ──────────────────────────────────────────────── */
   .term-page {
     min-height: 100vh;
