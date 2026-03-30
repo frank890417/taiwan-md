@@ -1,12 +1,12 @@
 {
-  "totalArticles": 947,
+  "totalArticles": 957,
   "totalCategories": 18,
-  "estimatedContributors": 30,
-  "totalTags": 2442,
+  "estimatedContributors": 64,
+  "totalTags": 2469,
   "categories": [
     {
       "name": "en",
-      "count": 485
+      "count": 488
     },
     {
       "name": "Culture",
@@ -18,27 +18,27 @@
     },
     {
       "name": "Society",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Economy",
-      "count": 47
+      "count": 48
     },
     {
       "name": "People",
-      "count": 122
+      "count": 124
     },
     {
       "name": "Lifestyle",
-      "count": 17
+      "count": 16
     },
     {
       "name": "ja",
-      "count": 12
+      "count": 13
     },
     {
       "name": "Art",
-      "count": 24
+      "count": 25
     },
     {
       "name": "Food",
@@ -46,7 +46,7 @@
     },
     {
       "name": "Technology",
-      "count": 22
+      "count": 25
     },
     {
       "name": "Nature",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Music",
-      "count": 20
+      "count": 19
     },
     {
       "name": "About",
@@ -84,7 +84,7 @@
     },
     {
       "name": "人物",
-      "count": 49
+      "count": 51
     },
     {
       "name": "企業",
@@ -105,10 +105,6 @@
     {
       "name": "半導體",
       "count": 14
-    },
-    {
-      "name": "原住民",
-      "count": 13
     },
     {
       "name": "culture",
@@ -135,10 +131,6 @@
       "count": 11
     },
     {
-      "name": "音樂",
-      "count": 11
-    },
-    {
       "name": "體育",
       "count": 11
     },
@@ -157,16 +149,19 @@
     {
       "name": "TSMC",
       "count": 10
+    },
+    {
+      "name": "製造業",
+      "count": 10
+    },
+    {
+      "name": "音樂",
+      "count": 10
     }
   ],
   "languageDistribution": {
-    "zh-TW": 947,
+    "zh-TW": 957,
     "en": 0
   },
-  "lastUpdated": "2026-03-28T14:58:57.498Z",
-  "stars": 895,
-  "forks": 122,
-  "zhPages": 469,
-  "enPages": 490,
-  "totalPages": 959
+  "lastUpdated": "2026-03-30T09:11:49.414Z"
 }

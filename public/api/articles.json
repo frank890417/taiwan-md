@@ -492,14 +492,14 @@
     "path": "Lifestyle/台灣公園與日常休閒.md"
   },
   {
-    "title": "台灣太空產業發展：從福衛計畫到商業太空時代",
-    "description": "台灣太空產業從早期福衛衛星發展，到近年福衛八號量產化，以及立方衛星計畫推動商業太空供應鏈的發展歷程",
+    "title": "台灣太空產業發展：衛星製造大國，卻沒有自己的火箭",
+    "description": "台灣每年幫全球組裝數百億元的電子零件，卻直到2025年才把第一顆次米解析度衛星送上軌道——一個關於技術自主、國際現實與商業太空夢的故事",
     "category": "Technology",
     "tags": ["太空產業", "衛星", "TASA", "福衛", "太空科技", "商業太空"],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E5%A4%AA%E7%A9%BA%E7%94%A2%E6%A5%AD%E7%99%BC%E5%B1%95",
-    "readingTime": 20,
+    "readingTime": 22,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-29",
     "path": "Technology/台灣太空產業發展.md"
   },
   {
@@ -709,7 +709,7 @@
     "category": "Nature",
     "tags": ["石虎", "保育", "路殺", "棲地", "苗栗", "瀕危物種", "生態"],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%9F%B3%E8%99%8E%E4%BF%9D%E8%82%B2",
-    "readingTime": 15,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-18",
     "path": "Nature/台灣石虎保育.md"
@@ -726,8 +726,8 @@
     "path": "Lifestyle/台灣交通系統.md"
   },
   {
-    "title": "台灣交通運輸網絡",
-    "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網絡",
+    "title": "台灣交通運輸網路",
+    "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網路",
     "category": "Geography",
     "tags": ["交通運輸", "高鐵", "捷運", "公路", "航空", "港口"],
     "url": "https://taiwan.md/Geography/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E9%81%8B%E8%BC%B8%E7%B6%B2%E7%B5%A1",
@@ -972,7 +972,7 @@
   },
   {
     "title": "台灣在國際標準中的標示問題",
-    "description": "從 ISO 代碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
+    "description": "從 ISO 程式碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
     "category": "Society",
     "tags": ["ISO 3166", "國際標準", "開源軟體", "g0v", "數位主權", "台灣標示"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%9C%A8%E5%9C%8B%E9%9A%9B%E6%A8%99%E6%BA%96%E4%B8%AD%E7%9A%84%E6%A8%99%E7%A4%BA%E5%95%8F%E9%A1%8C",
@@ -1034,6 +1034,17 @@
     "path": "Culture/台灣老街文化與商業街區.md"
   },
   {
+    "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
+    "description": "市場不到美國 1%，平台卻多一倍——台灣創作者怎麼活下來的？",
+    "category": "Economy",
+    "tags": ["自媒體", "創作者經濟", "KOL", "網紅", "聯盟行銷"],
+    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E8%87%AA%E5%AA%92%E9%AB%94%E5%89%B5%E4%BD%9C%E8%80%85%E7%B6%93%E6%BF%9F",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Economy/台灣自媒體創作者經濟.md"
+  },
+  {
     "title": "台灣志工文化與公益參與：一個島嶼的日常善意",
     "description": "30 個家庭主婦每天存五��錢，60 年後變成橫跨 128 國的慈善帝國——台灣的志工文化不是口號，是寫在日常裡的集體DNA",
     "category": "Society",
@@ -1057,13 +1068,13 @@
   },
   {
     "title": "台灣豆漿與早餐店",
-    "description": "從永和豆漿的起源神話到美而美加盟王國，探索台灣早餐店的密度傳奇",
+    "description": "一群山東老兵在永和橋頭推攤車賣豆漿，70 年後「永和」成了全球華人早餐的代名詞。但它從來不是一個品牌，是一個地名",
     "category": "Food",
-    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "美而美"],
+    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "蛋餅", "眷村飲食"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E8%B1%86%E6%BC%BF%E8%88%87%E6%97%A9%E9%A4%90%E5%BA%97",
-    "readingTime": 10,
+    "readingTime": 19,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-29",
     "path": "Food/台灣豆漿與早餐店.md"
   },
   {
@@ -1173,6 +1184,39 @@
     "path": "Geography/台灣河川系統與水文特色.md"
   },
   {
+    "title": "台灣的 AI 日常——當人工智慧走進街頭巷尾",
+    "description": "台灣人每天跟 AI 互動十幾次，但多數人不知道自己在跟 AI 說話",
+    "category": "Technology",
+    "tags": ["AI", "人工智慧", "LINE", "智慧醫療", "智慧農業", "日常科技"],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3AI%E6%97%A5%E5%B8%B8",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Technology/台灣AI日常.md"
+  },
+  {
+    "title": "台灣的斜槓世代——一人多職的生存與選擇",
+    "description": "當碩士學歷只換得來一間台北套房的租金，斜槓不是選擇，是活下去的數學題",
+    "category": "Society",
+    "tags": ["斜槓", "零工經濟", "薪資", "房價", "青年就業"],
+    "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E6%96%9C%E6%A7%93%E4%B8%96%E4%BB%A3",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Society/台灣斜槓世代.md"
+  },
+  {
+    "title": "台灣的開源精神——用愛發電的工程師們",
+    "description": "台灣最有影響力的開源專案不是一個軟體，是一群工程師在 hackathon 上對政府說「你做不好，我們來做」。",
+    "category": "Technology",
+    "tags": ["開源", "g0v", "COSCUP", "GitHub", "公民科技", "自由軟體"],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%96%8B%E6%BA%90%E7%B2%BE%E7%A5%9E",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Technology/台灣開源精神.md"
+  },
+  {
     "title": "台灣社區與里文化",
     "description": "從最基層的民主實踐到社區營造的社會創新",
     "category": "Society",
@@ -1252,9 +1296,9 @@
     "category": "Art",
     "tags": ["建築", "文化", "歷史", "原住民", "日治"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E5%BB%BA%E7%AF%89",
-    "readingTime": 11,
+    "readingTime": 28,
     "featured": true,
-    "date": "2026-03-21",
+    "date": "2026-03-28",
     "path": "Art/台灣建築.md"
   },
   {
@@ -1328,8 +1372,8 @@
     "path": "Music/台灣音樂產業與串流時代.md"
   },
   {
-    "title": "台灣音樂祭文化：從春天吶喊到遍地開花的青年文化載體",
-    "description": "探索台灣音樂祭從春吶、海洋音樂祭到大港開唱的發展歷程，如何成為獨立樂團孵化器與青年文化的核心表達平台",
+    "title": "台灣音樂祭文化：一座島嶼為什麼需要這麼多場戶外派對",
+    "description": "從 1995 年墾丁沙灘上兩個美國人架起的舞台，到每年超過 50 場遍布全島的音樂祭。台灣的音樂祭密度可能是全世界最高，而開山鼻祖不是台灣人",
     "category": "Music",
     "tags": [
       "音樂祭",
@@ -1340,9 +1384,9 @@
       "青年文化"
     ],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E9%9F%B3%E6%A8%82%E7%A5%AD%E6%96%87%E5%8C%96",
-    "readingTime": 12,
+    "readingTime": 22,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-29",
     "path": "Music/台灣音樂祭文化.md"
   },
   {
@@ -1355,24 +1399,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "Technology/台灣音響產業發展.md"
-  },
-  {
-    "title": "台灣原住民文化",
-    "description": "從十六族的多元傳統到當代藝術復振，探索台灣原住民文化的深厚底蘊與現代轉化",
-    "category": "Culture",
-    "tags": [
-      "原住民",
-      "族群文化",
-      "傳統藝術",
-      "正名運動",
-      "當代創作",
-      "語言復振"
-    ],
-    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%8C%96",
-    "readingTime": 23,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "Culture/台灣原住民文化.md"
   },
   {
     "title": "台灣原住民生態智慧與環境保育",
@@ -1406,13 +1432,13 @@
   },
   {
     "title": "台灣原住民族16族文化地圖",
-    "description": "探索台灣16個原住民族的分布區域、語言系統、重要祭典與當代創作發展，了解台灣原住民族的多元文化面貌",
+    "description": "「16」不是自然生成的數字，是談判的結果。從21萬阿美族到441人的卡那卡那富族，台灣原住民族的文化厚度遠超過任何一份官方名冊。",
     "category": "Culture",
     "tags": ["原住民族", "文化", "祭典", "語言", "當代創作"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F16%E6%97%8F%E6%96%87%E5%8C%96%E5%9C%B0%E5%9C%96",
-    "readingTime": 10,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-29",
     "path": "Culture/台灣原住民族16族文化地圖.md"
   },
   {
@@ -1428,31 +1454,31 @@
       "土地權利"
     ],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E5%9C%9F%E5%9C%B0%E6%AD%A3%E7%BE%A9%E8%88%87%E5%82%B3%E7%B5%B1%E9%A0%98%E5%9F%9F",
-    "readingTime": 16,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-03-20",
     "path": "Society/台灣原住民族土地正義與傳統領域.md"
   },
   {
     "title": "台灣原住民族歷史與正名運動",
-    "description": "從「番」到「原住民族」的正名歷程，一場持續數百年的身份認同與尊嚴之戰",
+    "description": "1987年，一個19歲的鄒族青年在台北刑場被槍決。他的死，點燃了正名運動最初的火。",
     "category": "History",
     "tags": ["原住民族", "正名運動", "身份認同", "社會運動", "文化保存"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%B7%E5%8F%B2%E8%88%87%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95",
-    "readingTime": 9,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-29",
     "path": "History/台灣原住民族歷史與正名運動.md"
   },
   {
     "title": "台灣原住民飲食文化",
-    "description": "從小米到野菜，探索台灣原住民族傳統飲食智慧與文化傳承",
+    "description": "從 AKAME 的火焰到阿美族的野菜宇宙——台灣原住民飲食如何在三千年後重新點燃世界的目光",
     "category": "Food",
-    "tags": ["原住民", "飲食文化", "小米", "野菜", "傳統料理", "部落美食"],
+    "tags": [],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E9%A3%B2%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 13,
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-03-29",
     "path": "Food/台灣原住民飲食文化.md"
   },
   {
@@ -1460,7 +1486,7 @@
     "description": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
     "category": "Art",
     "tags": [
-      "原住民藝術",
+      "原住民族",
       "當代藝術",
       "傳統工藝",
       "身份認同",
@@ -1475,13 +1501,13 @@
   },
   {
     "title": "台灣原住民語言復振運動",
-    "description": "從語言流失危機到復振行動，探討台灣原住民族語言保存的挑戰、政策發展與社區實踐成果",
+    "description": "台灣邵族只剩 4 位母語者，卻誕生出全球最密集的語言復振實驗之一。從 2017 年《原住民族語言發展法》到數位族語平台，一場靜默的搶救正在加速進行。",
     "category": "Culture",
-    "tags": ["原住民族語言", "語言復振", "族語教育", "語言政策", "文化傳承"],
+    "tags": ["原住民族", "語言復振", "族語教育", "語言政策", "文化傳承"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E8%AA%9E%E8%A8%80%E5%BE%A9%E6%8C%AF%E9%81%8B%E5%8B%95",
-    "readingTime": 11,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-03-29",
     "path": "Culture/台灣原住民語言復振運動.md"
   },
   {
@@ -1910,7 +1936,7 @@
   },
   {
     "title": "台灣森林開發史：從資源榨取到國土保安的世紀轉向",
-    "description": "從清領時期的樟腦煙雲，到日治時期的鋼軌鳴響，再到戰後震撼山壑的大伐木時代。本文梳理台灣森林開發政策背後的全球地緣政治邏輯，並以數據釐清百年林業的真實真相。",
+    "description": "從清領時期的樟腦煙雲，到日治時期的鋼軌鳴響，再到戰後震撼山壑的大伐木時代。本文梳理台灣森林開發政策背後的全球地緣政治邏輯，並以資料釐清百年林業的真實真相。",
     "category": "History",
     "tags": [],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E6%A3%AE%E6%9E%97%E9%96%8B%E7%99%BC%E5%8F%B2",
@@ -1948,6 +1974,17 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "Art/台灣策展人與藝術文化建構.md"
+  },
+  {
+    "title": "台灣華語的演化——四百年的語言地層學",
+    "description": "一個便當裡藏著多少段歷史？跟著這個詞的旅行，探索四百年來在這座島上自然長出的語言",
+    "category": "Culture",
+    "tags": ["台灣華語", "語言演化", "日語借詞", "兩岸用語", "語言認同"],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E8%8F%AF%E8%AA%9E%E7%9A%84%E6%BC%94%E5%8C%96",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Culture/台灣華語的演化.md"
   },
   {
     "title": "台灣街頭藝術與塗鴉文化",
@@ -2293,6 +2330,25 @@
     "path": "Art/台灣漫畫與插畫.md"
   },
   {
+    "title": "台灣網路社群三十年——從 BBS 到 Threads 的遷徙史",
+    "description": "台灣人每五年集體搬家一次，每次都丟掉上一代的記憶",
+    "category": "Technology",
+    "tags": [
+      "BBS",
+      "無名小站",
+      "Facebook",
+      "LINE",
+      "Threads",
+      "網路文化",
+      "社群平台"
+    ],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%B7%E5%BE%99%E5%8F%B2",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "Technology/台灣網路社群遷徙史.md"
+  },
+  {
     "title": "台灣製香文化與香腳原鄉",
     "description": "從嘉義雲霄社區的百年香腳技藝，到台灣遍布全島的製香產業——一門關於虔誠、手藝與堅持的古老行業",
     "category": "Culture",
@@ -2397,15 +2453,22 @@
     "path": "Lifestyle/台灣機車文化.md"
   },
   {
-    "title": "台灣獨立音樂場景演變",
-    "description": "從地下樂團到獨立音樂，探索台灣非主流音樂三十年發展軌跡與文化意義",
+    "title": "台灣獨立音樂：一間發不出薪水的唱片行，如何替一座島嶼打開耳朵",
+    "description": "從水晶唱片負債三十萬頂下來的冒險，到草東沒有派對在咖啡店賣光首刷。台灣獨立音樂 35 年不是逆襲故事，是一群人堅持讓「沒被看見的聲音被聽見」的漫長賭局",
     "category": "Music",
-    "tags": ["獨立音樂", "地下樂團", "搖滾樂", "音樂產業", "次文化"],
-    "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%A0%B4%E6%99%AF%E6%BC%94%E8%AE%8A",
-    "readingTime": 26,
+    "tags": [
+      "獨立音樂",
+      "地下樂團",
+      "搖滾樂",
+      "live house",
+      "獨立廠牌",
+      "音樂產業"
+    ],
+    "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82",
+    "readingTime": 48,
     "featured": true,
-    "date": "2026-03-18",
-    "path": "Music/台灣獨立音樂場景演變.md"
+    "date": "2026-03-29",
+    "path": "Music/台灣獨立音樂.md"
   },
   {
     "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
@@ -2420,13 +2483,13 @@
   },
   {
     "title": "台灣辦桌文化",
-    "description": "一個無法量化的產業，如何成為台灣最具韌性的文化載體？從康熙年間到疫情寒冬的辦桌傳奇",
+    "description": "一個清朝就存在的產業，在台灣最貧瘠的土地上養出全球密度最高的總鋪師。疫情讓訂單蒸發九成，但真正讓行家憂心的，從來不是失業——是失傳。",
     "category": "Food",
     "tags": [],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
-    "readingTime": 21,
+    "readingTime": 17,
     "featured": false,
-    "date": "2026-03-23",
+    "date": "2026-03-30",
     "path": "Food/台灣辦桌文化.md"
   },
   {
@@ -2493,13 +2556,13 @@
   },
   {
     "title": "台灣醫療與全民健保",
-    "description": "99.9% 覆蓋率的矛盾奇蹟：全世界最便宜的健保制度，為何讓四分之三醫院虧本經營？",
+    "description": "99% 覆蓋率的矛盾奇蹟：Numbeo 連六年全球第一的健保制度，為何讓醫護人員以血汗支撐？",
     "category": "Lifestyle",
     "tags": [],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E9%86%AB%E7%99%82%E8%88%87%E5%85%A8%E6%B0%91%E5%81%A5%E4%BF%9D",
-    "readingTime": 23,
-    "featured": false,
-    "date": "2026-03-24",
+    "readingTime": 12,
+    "featured": true,
+    "date": "2026-03-30",
     "path": "Lifestyle/台灣醫療與全民健保.md"
   },
   {
@@ -2733,7 +2796,7 @@
   },
   {
     "title": "兆豐金控：從日治官銀到台商全球金融夥伴",
-    "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網絡，成為台商走向世界的重要推手",
+    "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網路，成為台商走向世界的重要推手",
     "category": "Economy",
     "tags": ["Economy", "企業", "金融業", "公營銀行", "國際金融"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%85%86%E8%B1%90%E9%87%91%E6%8E%A7",
@@ -2774,7 +2837,7 @@
       "人情味",
       "便利商店",
       "日常生活",
-      "社區網絡"
+      "社區網路"
     ],
     "url": "https://taiwan.md/Society/%E6%97%A9%E9%A4%90%E5%BA%97%E9%98%BF%E5%A7%A8%E8%88%87%E7%A4%BE%E5%8D%80%E6%83%85%E5%A0%B1%E7%B6%B2",
     "readingTime": 13,
@@ -2825,13 +2888,13 @@
   },
   {
     "title": "江振誠",
-    "description": "台灣國際名廚，世界 50 大餐廳主廚，RAW 創辦人，以「八角哲學」聞名全球",
+    "description": "從淡水商工到世界第14、塞舌爾的頓悟到台北大直的回歸，André Chiang 以八角哲學在國際餐飲界為台灣廚師確立了一個新座標",
     "category": "People",
     "tags": ["人物", "江振誠", "名廚", "米其林", "RAW", "餐飲", "台灣"],
     "url": "https://taiwan.md/People/%E6%B1%9F%E6%8C%AF%E8%AA%A0",
-    "readingTime": 10,
+    "readingTime": 19,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-30",
     "path": "People/江振誠.md"
   },
   {
@@ -3019,6 +3082,17 @@
     "path": "People/李昂.md"
   },
   {
+    "title": "李昌鈺",
+    "description": "靠一把碎骨建立鑑識傳奇，卻因一條毛巾上的「血跡」讓兩人蹲了三十年冤獄",
+    "category": "People",
+    "tags": ["人物", "鑑識科學", "台裔美國人", "刑事調查"],
+    "url": "https://taiwan.md/People/%E6%9D%8E%E6%98%8C%E9%88%BA",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "People/李昌鈺.md"
+  },
+  {
     "title": "李國修",
     "description": "屏風表演班創辦人，台灣喜劇之王，2013年病逝",
     "category": "People",
@@ -3084,13 +3158,13 @@
   },
   {
     "title": "杜奕瑾",
-    "description": "PTT 創辦人、微軟 AI 研發主管、台灣人工智慧實驗室創辦人——從 BBS 言論自由到 AI 科技向善的台灣數位先驅",
+    "description": "用一台 486 電腦架起台灣最大論壇、在微軟帶領 Cortana 問世，然後放棄高薪回台做非營利 AI——PTT 創世神的三十年數位史",
     "category": "People",
     "tags": ["杜奕瑾", "PTT", "Taiwan AI Labs", "數位民主", "人工智慧"],
     "url": "https://taiwan.md/People/%E6%9D%9C%E5%A5%95%E7%91%BE",
-    "readingTime": 5,
+    "readingTime": 18,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-03-30",
     "path": "People/杜奕瑾.md"
   },
   {
@@ -3467,6 +3541,24 @@
     "path": "Food/客家飲食文化.md"
   },
   {
+    "title": "客家の食文化",
+    "description": "客家の食文化は、擂茶の香ばしい深みから野姜花粽の山の気配まで、倹約を重んじ、土地の恵みを生かしてきた暮らしの知恵を映し出しています。",
+    "category": "ja",
+    "tags": [
+      "客家",
+      "擂茶",
+      "野姜花粽",
+      "伝統料理",
+      "エスニック文化",
+      "グルメ"
+    ],
+    "url": "https://taiwan.md/ja/Food/hakka-food-culture",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "ja/Food/hakka-food-culture.md"
+  },
+  {
     "title": "施明德",
     "description": "美麗島事件領袖，民主運動先驅，坐牢25年的政治受難者",
     "category": "People",
@@ -3487,6 +3579,17 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "People/施振榮.md"
+  },
+  {
+    "title": "柯文哲",
+    "description": "從葉克膜 SOP 建立者到第三勢力旗手，台灣第一位無黨籍台北市長的跌宕政治史",
+    "category": "People",
+    "tags": ["人物", "政治", "台北市長", "台灣民眾黨", "醫師", "第三勢力"],
+    "url": "https://taiwan.md/People/%E6%9F%AF%E6%96%87%E5%93%B2",
+    "readingTime": 14,
+    "featured": false,
+    "date": "2026-03-30",
+    "path": "People/柯文哲.md"
   },
   {
     "title": "洪醒夫：提早隕落的鄉土文學巨星",
@@ -3532,13 +3635,13 @@
   },
   {
     "title": "珍珠奶茶",
-    "description": "從台灣夜市小攤到全球飲品帝國，珍珠奶茶的起源爭議與文化征服之路",
+    "description": "1987 年台中的一次員工會議，一個不經意的動作，讓一杯飲料征服了全球。珍珠奶茶的起源爭議、文化政治、與一杯 500 大卡的健康辯論。",
     "category": "Food",
     "tags": ["美食", "珍珠奶茶", "手搖飲", "全球化", "軟實力", "文化外交"],
     "url": "https://taiwan.md/Food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6",
-    "readingTime": 16,
+    "readingTime": 18,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-03-30",
     "path": "Food/珍珠奶茶.md"
   },
   {
@@ -3811,13 +3914,13 @@
   },
   {
     "title": "馬英九",
-    "description": "第十二、十三任總統，兩岸關係破冰推手，ECFA簽署者",
+    "description": "中華民國第十二、十三任總統，兩岸破冰政策的推手，也是22K薪資停滯與太陽花學運的執政背景",
     "category": "People",
     "tags": ["總統", "國民黨", "兩岸關係", "ECFA", "台北市長"],
     "url": "https://taiwan.md/People/%E9%A6%AC%E8%8B%B1%E4%B9%9D",
-    "readingTime": 11,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-30",
     "path": "People/馬英九.md"
   },
   {
@@ -3839,17 +3942,6 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "People/高俊明.md"
-  },
-  {
-    "title": "健保制度",
-    "description": "台灣全民健康保險（NHI）制度，提供覆蓋全民、價格低廉且高品質的醫療服務，是全球公認的優良健保體系",
-    "category": "Lifestyle",
-    "tags": ["Lifestyle", "健保", "醫療制度", "公共衛生", "社會福利"],
-    "url": "https://taiwan.md/Lifestyle/%E5%81%A5%E4%BF%9D%E5%88%B6%E5%BA%A6",
-    "readingTime": 6,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "Lifestyle/健保制度.md"
   },
   {
     "title": "動物園與展演動物倫理",
@@ -3956,22 +4048,13 @@
   },
   {
     "title": "族群（閩南客家原住民外省新住民）",
-    "description": "台灣的族群多元性不僅是歷史發展的結果，更是理解當代台灣社會的關鍵。這種多元共存的社會結構，既是台灣文化創意的源泉，也是民主政治發展的重要基礎。如何在尊重各族群文化特色的同時，建構共同的台灣認同，是台灣社會持續面對的重要課題。",
+    "description": "一場道歉儀式、一萬人的遊行、57萬個新來的家庭——台灣族群的故事，比「多元共融」四個字複雜得多。",
     "category": "Culture",
-    "tags": [
-      "文化",
-      "族群",
-      "多元性",
-      "原住民",
-      "客家",
-      "閩南",
-      "外省",
-      "新住民"
-    ],
+    "tags": ["文化", "族群", "原住民族", "客家", "閩南", "外省", "新住民"],
     "url": "https://taiwan.md/Culture/%E6%97%8F%E7%BE%A4%EF%BC%88%E9%96%A9%E5%8D%97%E5%AE%A2%E5%AE%B6%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%A4%96%E7%9C%81%E6%96%B0%E4%BD%8F%E6%B0%91%EF%BC%89",
-    "readingTime": 16,
+    "readingTime": 18,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-30",
     "path": "Culture/族群（閩南客家原住民外省新住民）.md"
   },
   {
@@ -4119,13 +4202,13 @@
   },
   {
     "title": "陳水扁",
-    "description": "第十、十一任總統，2000年首次政黨輪替主角，台灣民主化重要人物",
+    "description": "台灣第十、十一任總統，2000年首次政黨輪替實現者，公投法與原住民族基本法的推動者",
     "category": "People",
-    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "貪污案"],
+    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "民主化", "人權立法"],
     "url": "https://taiwan.md/People/%E9%99%B3%E6%B0%B4%E6%89%81",
-    "readingTime": 10,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-30",
     "path": "People/陳水扁.md"
   },
   {
@@ -4272,6 +4355,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/曾雅妮.md"
+  },
+  {
+    "title": "植劇場：一個做筆電的人，如何種下台劇復興的種子",
+    "description": "2016年，科技業大老闆童子賢掏出資金，讓王小棣帶著台灣最頂尖的導演們做一件反商業邏輯的事：不拍大片，只帶新人。",
+    "category": "Art",
+    "tags": ["植劇場", "台灣電視劇", "王小棣", "許光漢", "金鐘獎"],
+    "url": "https://taiwan.md/Art/%E6%A4%8D%E5%8A%87%E5%A0%B4",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-30",
+    "path": "Art/植劇場.md"
   },
   {
     "title": "測試文章",
@@ -4557,24 +4651,6 @@
     "path": "Art/當代台灣文學.md"
   },
   {
-    "title": "當代台灣獨立音樂場景",
-    "description": "從地下展演到產業矩陣，解析現代台灣獨立音樂生態圈的發展脈絡與文化影響力",
-    "category": "Music",
-    "tags": [
-      "音樂",
-      "獨立音樂",
-      "live house",
-      "音樂節",
-      "地下音樂",
-      "獨立廠牌"
-    ],
-    "url": "https://taiwan.md/Music/%E7%8D%A8%E7%AB%8B%E9%9F%B3%E6%A8%82%E5%A0%B4%E6%99%AF",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "Music/獨立音樂場景.md"
-  },
-  {
     "title": "當代原住民創作歌手",
     "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
     "category": "Music",
@@ -4726,7 +4802,7 @@
   },
   {
     "title": "臺灣島史觀：被反覆統治的島，如何發明自己的主體性",
-    "description": "台灣不是大陸帝國的最後一片拼圖，而是太平洋海洋網絡的第一塊基石。從曹永和的「以地範史」出發，重新理解這座島嶼的生命力。",
+    "description": "台灣不是大陸帝國的最後一片拼圖，而是太平洋海洋網路的第一塊基石。從曹永和的「以地範史」出發，重新理解這座島嶼的生命力。",
     "category": "History",
     "tags": ["歷史", "島嶼", "史觀", "曹永和", "海洋"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80",
@@ -5398,6 +5474,17 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "Technology/台灣人工智慧發展與未來策略.md"
+  },
+  {
+    "title": "AI in Taiwan's Daily Life — When Artificial Intelligence Moves Into Every Street Corner",
+    "description": "Taiwanese people interact with AI dozens of times a day, but most have no idea they're talking to a machine",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Technology/taiwan-ai-in-daily-life",
+    "readingTime": 59,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Technology/taiwan-ai-in-daily-life.md"
   },
   {
     "title": "AI人工智慧產業",
@@ -7533,6 +7620,17 @@
     "path": "en/History/kmt-government-relocation-and-postwar-reconstruction.md"
   },
   {
+    "title": "Ko Wen-je",
+    "description": "The surgeon who rewrote Taiwan's political script — from ECMO pioneer to third-party presidential candidate",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/ko-wen-je",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/People/ko-wen-je.md"
+  },
+  {
     "title": "Kuo Hsing-chun",
     "description": "Taiwan's weightlifting goddess, Tokyo 2021 Olympic gold medalist, triple Olympic record holder in the 59kg category",
     "category": "en",
@@ -8150,17 +8248,6 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "es/People/tsmc-morris-chang.md"
-  },
-  {
-    "title": "National Health Insurance",
-    "description": "Taiwan's National Health Insurance (NHI) system provides universal, affordable, and high-quality medical services, recognized globally as an excellent healthcare system",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/national-health-insurance",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Lifestyle/national-health-insurance.md"
   },
   {
     "title": "National Parks",
@@ -9591,17 +9678,6 @@
     "path": "en/Culture/taiwan-incense-making-culture-and-heritage.md"
   },
   {
-    "title": "Taiwan Indigenous Cultures",
-    "description": "From sixteen recognized tribes to contemporary artistic revival, exploring the profound heritage and modern transformation of Taiwan's indigenous cultures",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-indigenous-cultures",
-    "readingTime": 82,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-indigenous-cultures.md"
-  },
-  {
     "title": "Taiwan Indigenous Foodways",
     "description": "From millet to wild greens, the ecological wisdom and living heritage of Indigenous cuisines",
     "category": "en",
@@ -9622,17 +9698,6 @@
     "featured": true,
     "date": "2026-03-27",
     "path": "en/History/taiwan-island-historiography.md"
-  },
-  {
-    "title": "Taiwan Leopard Cat Conservation",
-    "description": "Taiwan’s last native wild cat is down to fewer than 500 individuals—an urgent test of whether development can coexist with biodiversity",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Nature/taiwan-leopard-cat-conservation",
-    "readingTime": 29,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Nature/taiwan-leopard-cat-conservation.md"
   },
   {
     "title": "Taiwan Long-term Care Development",
@@ -10356,6 +10421,17 @@
     "path": "en/Lifestyle/taiwan-convenience-store-culture.md"
   },
   {
+    "title": "Taiwan's Creator Economy: A Fragmented Battlefield of 23 Million",
+    "description": "The market is less than 1% of America's, yet creators juggle twice as many platforms — how do they survive?",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/taiwan-creator-economy",
+    "readingTime": 63,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Economy/taiwan-creator-economy.md"
+  },
+  {
     "title": "Taiwan's Cultural Creative Park Development",
     "description": "From historic building revitalization to creative clusters: Taiwan's cultural creative park development journey and innovative models",
     "category": "en",
@@ -10839,6 +10915,24 @@
     "path": "en/Culture/taiwan-new-religious-movements-and-spiritual-culture.md"
   },
   {
+    "title": "Taiwan's Open Source Spirit — The Engineers Powered by Love",
+    "description": "Taiwan's most influential open source project isn't a piece of software. It's a group of engineers who showed up at a hackathon and told their government: 'You're doing it wrong. We'll do it ourselves.'",
+    "category": "en",
+    "tags": [
+      "open source",
+      "g0v",
+      "COSCUP",
+      "GitHub",
+      "civic tech",
+      "free software"
+    ],
+    "url": "https://taiwan.md/en/Technology/taiwan-open-source-spirit",
+    "readingTime": 49,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Technology/taiwan-open-source-spirit.md"
+  },
+  {
     "title": "Taiwan’s Parks and Everyday Leisure",
     "description": "From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.",
     "category": "en",
@@ -10995,6 +11089,17 @@
     "path": "en/Food/taiwan-seafood-culture.md"
   },
   {
+    "title": "Taiwan's Slash Generation — Surviving on Multiple Jobs",
+    "description": "When a master's degree barely covers rent on a Taipei studio, juggling side hustles isn't a lifestyle choice — it's arithmetic",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Society/taiwan-slash-generation",
+    "readingTime": 50,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Society/taiwan-slash-generation.md"
+  },
+  {
     "title": "Taiwan's SMEs and Hidden Champions",
     "description": "The true backbone of Taiwan's economy: transformation stories of small and medium enterprises evolving from traditional factories to key links in global supply chains",
     "category": "en",
@@ -11028,14 +11133,14 @@
     "path": "en/Music/taiwan-soundscape.md"
   },
   {
-    "title": "Taiwan's Space Industry Development: From FORMOSAT to Commercial Space Era",
-    "description": "Taiwan's space industry evolution from early FORMOSAT satellite development to the recent FORMOSAT-8 mass production and CubeSat programs driving commercial space supply chains",
+    "title": "Taiwan's Space Industry: A Satellite Powerhouse Without a Rocket",
+    "description": "Taiwan assembles hundreds of billions in electronics for the world, yet only launched its first sub-meter resolution satellite in 2025 — a story of technological sovereignty, geopolitical reality, and a commercial space dream still in progress.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Technology/taiwan-space-industry-development",
-    "readingTime": 58,
+    "readingTime": 47,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-03-29",
     "path": "en/Technology/taiwan-space-industry-development.md"
   },
   {
@@ -11999,8 +12104,19 @@
     "path": "en/Geography/taipei-101.md"
   },
   {
+    "title": "Thirty Years of Platform Hopping: How Taiwan Keeps Moving — and Forgetting",
+    "description": "Every five years, Taiwan collectively packs up and moves to a new platform. Every time, they leave a generation of memories behind.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Technology/taiwan-online-community-migration",
+    "readingTime": 60,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "en/Technology/taiwan-online-community-migration.md"
+  },
+  {
     "title": "Threads 在台灣：從 Twitter 代餐到「脆」文化主戰場",
-    "description": "當全球用戶對 Threads 熱情冷卻，台灣卻走出截然不同的路——350 萬用戶、全球第二大市場、使用時間居冠。這裡成為 Z 世代真實發聲、政治人物「下凡」、迷因狂歡的數位公共廣場，重新定義了台灣的社群媒體生態。",
+    "description": "當全球使用者對 Threads 熱情冷卻，台灣卻走出截然不同的路——350 萬使用者、全球第二大市場、使用時間居冠。這裡成為 Z 世代真實發聲、政治人物「下凡」、迷因狂歡的數位公共廣場，重新定義了台灣的社群媒體生態。",
     "category": "Technology",
     "tags": [
       "社群媒體",

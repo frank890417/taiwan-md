@@ -131,6 +131,8 @@ const rulesJSON = JSON.stringify(rules);
             <span id="analysis-title" class="analysis-title"></span>
           </div>
 
+          <div id="opencc-status" class="opencc-status-row" hidden></div>
+
           <div id="must-change" class="analysis-section" hidden>
             <div class="section-label label-red">🔴 必換（A / B 類）</div>
             <ul id="must-list" class="change-list"></ul>
@@ -158,6 +160,35 @@ const rulesJSON = JSON.stringify(rules);
     const GITHUB_BASE =
       'https://github.com/frank890417/taiwan-md/blob/main/data/terminology/';
 
+    // ── OpenCC (簡→繁) setup ─────────────────────────────────────────────────
+    let openccConverter = null;
+    let openccStatus = 'loading'; // 'loading' | 'ready' | 'failed'
+
+    async function initOpenCC() {
+      try {
+        const OpenCC =
+          await import('https://cdn.jsdelivr.net/npm/opencc-js@1/dist/esm/cn2t.js');
+        openccConverter = OpenCC.ConverterFactory(
+          OpenCC.Locale.from.cn,
+          OpenCC.Locale.to.tw,
+        );
+        openccStatus = 'ready';
+      } catch (e) {
+        console.warn('OpenCC 載入失敗，僅做用語轉換', e);
+        openccStatus = 'failed';
+      }
+    }
+    initOpenCC();
+
+    // Apply OpenCC to text outside of HTML tags
+    function applyOpenCC(html) {
+      if (!openccConverter) return html;
+      // Replace text nodes (content between tags) but skip content inside tags themselves
+      return html.replace(/>([^<]+)</g, (match, text) => {
+        return '>' + openccConverter(text) + '<';
+      });
+    }
+
     // ── DOM refs ────────────────────────────────────────────────────────────
     const inputEl = document.getElementById('input-text');
     const outputEl = document.getElementById('output-text');
@@ -166,6 +197,7 @@ const rulesJSON = JSON.stringify(rules);
     const btnCopy = document.getElementById('btn-copy');
     const analysisEl = document.getElementById('analysis');
     const analysisTitleEl = document.getElementById('analysis-title');
+    const openccStatusEl = document.getElementById('opencc-status');
     const mustSection = document.getElementById('must-change');
     const mustList = document.getElementById('must-list');
     const suggestSection = document.getElementById('suggest-change');
@@ -210,6 +242,12 @@ const rulesJSON = JSON.stringify(rules);
         }
       }
 
+      // Step 2: Apply OpenCC to convert remaining simplified Chinese to traditional
+      // Markers (null-byte sequences) are not Chinese characters, so OpenCC won't touch them
+      if (openccConverter) {
+        text = openccConverter(text);
+      }
+
       // Escape HTML in the modified text
       let escaped = text
         .replace(/&/g, '&amp;')
@@ -218,10 +256,8 @@ const rulesJSON = JSON.stringify(rules);
         .replace(/\n/g, '<br>');
 
       // Replace markers with highlighted spans
+      // (targets are already traditional Chinese Taiwan terms)
       for (const { marker, target } of placeholders) {
-        const escapedMarker = marker.replace(/\x00/g, '\\x00');
-        // Use a regex to replace the null-byte markers
-        const safeMarker = marker.replace(/\x00(\d+)\x00/, '\x00$1\x00');
         escaped = escaped
           .split(marker)
           .join(`<mark class="replaced-word">${target}</mark>`);
@@ -244,15 +280,43 @@ const rulesJSON = JSON.stringify(rules);
       return { before, after: 100 };
     }
 
+    // ── Render OpenCC status ────────────────────────────────────────────────
+    function renderOpenCCStatus(hasMatches) {
+      if (!openccStatusEl) return;
+      if (openccStatus === 'ready') {
+        openccStatusEl.hidden = false;
+        openccStatusEl.className = 'opencc-status-row opencc-ready';
+        openccStatusEl.textContent = '🔤 簡體→繁體字形轉換：已套用 OpenCC';
+      } else if (openccStatus === 'failed') {
+        openccStatusEl.hidden = false;
+        openccStatusEl.className = 'opencc-status-row opencc-failed';
+        openccStatusEl.textContent = '⚠️ 字形轉換不可用，僅做用語替換';
+      } else {
+        openccStatusEl.hidden = true;
+      }
+    }
+
     // ── Render analysis report ──────────────────────────────────────────────
     function renderAnalysis(matches) {
       if (matches.length === 0) {
-        analysisEl.hidden = true;
+        // Still show analysis box if OpenCC info is relevant
+        const showForOpenCC =
+          openccStatus === 'ready' || openccStatus === 'failed';
+        if (!showForOpenCC) {
+          analysisEl.hidden = true;
+          return;
+        }
+        analysisEl.hidden = false;
+        analysisTitleEl.textContent = `✅ 未偵測到中國用語`;
+        renderOpenCCStatus(false);
+        mustSection.hidden = true;
+        suggestSection.hidden = true;
         return;
       }
 
       analysisEl.hidden = false;
       analysisTitleEl.textContent = `偵測到 ${matches.length} 個中國用語`;
+      renderOpenCCStatus(true);
 
       const mustMatches = matches.filter(
         (m) => m.forkType === 'A' || m.forkType === 'B',
@@ -312,7 +376,7 @@ const rulesJSON = JSON.stringify(rules);
     // ── Main run ────────────────────────────────────────────────────────────
     let lastHtml = '';
 
-    function run() {
+    async function run() {
       const input = inputEl.value;
       if (!input.trim()) {
         outputEl.innerHTML =
@@ -321,6 +385,14 @@ const rulesJSON = JSON.stringify(rules);
         btnCopy.disabled = true;
         lastHtml = '';
         return;
+      }
+
+      // If OpenCC is still loading, wait a bit and retry
+      if (openccStatus === 'loading') {
+        outputEl.innerHTML =
+          '<span class="output-placeholder">⏳ 正在載入字形轉換模組…</span>';
+        await new Promise((resolve) => setTimeout(resolve, 800));
+        // If still loading, proceed anyway (may use plain term replacement)
       }
 
       const { html, matches } = convertText(input);
@@ -723,6 +795,25 @@ const rulesJSON = JSON.stringify(rules);
   }
   .github-link:hover {
     opacity: 1;
+  }
+
+  /* ── OpenCC status row ─────────────────────────────────────────── */
+  .opencc-status-row {
+    font-size: 0.88rem;
+    font-weight: 600;
+    padding: 0.4rem 0.75rem;
+    border-radius: 6px;
+    margin-bottom: 0.25rem;
+  }
+  .opencc-ready {
+    background: #eafaf1;
+    color: #1e8449;
+    border: 1px solid #a9dfbf;
+  }
+  .opencc-failed {
+    background: #fef9e7;
+    color: #9a7d0a;
+    border: 1px solid #f9e79f;
   }
 
   /* ── Taiwan index row ──────────────────────────────────────────── */

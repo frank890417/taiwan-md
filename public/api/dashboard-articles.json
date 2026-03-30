@@ -1,5 +1,599 @@
 [
   {
+    "title": "植劇場：一個做筆電的人，如何種下台劇復興的種子",
+    "slug": "植劇場",
+    "category": "art",
+    "subcategory": "電影",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3579,
+    "tagCount": 5,
+    "tags": ["植劇場", "台灣電視劇", "王小棣", "許光漢", "金鐘獎"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 2,
+    "commitHash": "2b1ba281",
+    "description": "2016年，科技業大老闆童子賢掏出資金，讓王小棣帶著台灣最頂尖的導演們做一件反商業邏輯的事：不拍大片，只帶新人。",
+    "healthScore": 56
+  },
+  {
+    "title": "族群（閩南客家原住民外省新住民）",
+    "slug": "族群閩南客家原住民外省新住民",
+    "category": "culture",
+    "subcategory": "族群文化",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3319,
+    "tagCount": 7,
+    "tags": ["文化", "族群", "原住民族", "客家", "閩南", "外省", "新住民"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 11,
+    "commitHash": "837f703b",
+    "description": "一場道歉儀式、一萬人的遊行、57萬個新來的家庭——台灣族群的故事，比「多元共融」四個字複雜得多。",
+    "healthScore": 65
+  },
+  {
+    "title": "台灣辦桌文化",
+    "slug": "台灣辦桌文化",
+    "category": "food",
+    "subcategory": "飲食場景",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3043,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 12,
+    "commitHash": "837f703b",
+    "description": "一個清朝就存在的產業，在台灣最貧瘠的土地上養出全球密度最高的總鋪師。疫情讓訂單蒸發九成，但真正讓行家憂心的，從來不是失業——是失傳。",
+    "healthScore": 55
+  },
+  {
+    "title": "珍珠奶茶",
+    "slug": "珍珠奶茶",
+    "category": "food",
+    "subcategory": "飲品文化",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 3268,
+    "tagCount": 6,
+    "tags": ["美食", "珍珠奶茶", "手搖飲", "全球化", "軟實力", "文化外交"],
+    "translations": {
+      "en": true,
+      "es": true,
+      "ja": false
+    },
+    "revision": 15,
+    "commitHash": "84e04168",
+    "description": "1987 年台中的一次員工會議，一個不經意的動作，讓一杯飲料征服了全球。珍珠奶茶的起源爭議、文化政治、與一杯 500 大卡的健康辯論。",
+    "healthScore": 75
+  },
+  {
+    "title": "台灣醫療與全民健保",
+    "slug": "台灣醫療與全民健保",
+    "category": "lifestyle",
+    "subcategory": "醫療與健保",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 1963,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "c1ea3be8",
+    "description": "99% 覆蓋率的矛盾奇蹟：Numbeo 連六年全球第一的健保制度，為何讓醫護人員以血汗支撐？",
+    "healthScore": 56
+  },
+  {
+    "title": "杜奕瑾",
+    "slug": "杜奕瑾",
+    "category": "people",
+    "subcategory": "科技與企業",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 3073,
+    "tagCount": 5,
+    "tags": ["杜奕瑾", "PTT", "Taiwan AI Labs", "數位民主", "人工智慧"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "84e04168",
+    "description": "用一台 486 電腦架起台灣最大論壇、在微軟帶領 Cortana 問世，然後放棄高薪回台做非營利 AI——PTT 創世神的三十年數位史",
+    "healthScore": 75
+  },
+  {
+    "title": "柯文哲",
+    "slug": "柯文哲",
+    "category": "people",
+    "subcategory": "政治與民主",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2574,
+    "tagCount": 6,
+    "tags": ["人物", "政治", "台北市長", "台灣民眾黨", "醫師", "第三勢力"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 5,
+    "commitHash": "84e04168",
+    "description": "從葉克膜 SOP 建立者到第三勢力旗手，台灣第一位無黨籍台北市長的跌宕政治史",
+    "healthScore": 61
+  },
+  {
+    "title": "江振誠",
+    "slug": "江振誠",
+    "category": "people",
+    "subcategory": "餐飲與職人",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2911,
+    "tagCount": 7,
+    "tags": ["人物", "江振誠", "名廚", "米其林", "RAW", "餐飲", "台灣"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "a7aaedcc",
+    "description": "從淡水商工到世界第14、塞舌爾的頓悟到台北大直的回歸，André Chiang 以八角哲學在國際餐飲界為台灣廚師確立了一個新座標",
+    "healthScore": 64
+  },
+  {
+    "title": "陳水扁",
+    "slug": "陳水扁",
+    "category": "people",
+    "subcategory": "政治與民主",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2866,
+    "tagCount": 6,
+    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "民主化", "人權立法"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 6,
+    "commitHash": "087090ac",
+    "description": "台灣第十、十一任總統，2000年首次政黨輪替實現者，公投法與原住民族基本法的推動者",
+    "healthScore": 64
+  },
+  {
+    "title": "馬英九",
+    "slug": "馬英九",
+    "category": "people",
+    "subcategory": "政治與民主",
+    "date": "2026-03-30",
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3048,
+    "tagCount": 5,
+    "tags": ["總統", "國民黨", "兩岸關係", "ECFA", "台北市長"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "087090ac",
+    "description": "中華民國第十二、十三任總統，兩岸破冰政策的推手，也是22K薪資停滯與太陽花學運的執政背景",
+    "healthScore": 65
+  },
+  {
+    "title": "台灣原住民族16族文化地圖",
+    "slug": "台灣原住民族16族文化地圖",
+    "category": "culture",
+    "subcategory": "族群文化",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2983,
+    "tagCount": 5,
+    "tags": ["原住民族", "文化", "祭典", "語言", "當代創作"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 6,
+    "commitHash": "84e04168",
+    "description": "「16」不是自然生成的數字，是談判的結果。從21萬阿美族到441人的卡那卡那富族，台灣原住民族的文化厚度遠超過任何一份官方名冊。",
+    "healthScore": 65
+  },
+  {
+    "title": "台灣原住民語言復振運動",
+    "slug": "台灣原住民語言復振運動",
+    "category": "culture",
+    "subcategory": "語言與文字",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2733,
+    "tagCount": 5,
+    "tags": ["原住民族", "語言復振", "族語教育", "語言政策", "文化傳承"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 6,
+    "commitHash": "84e04168",
+    "description": "台灣邵族只剩 4 位母語者，卻誕生出全球最密集的語言復振實驗之一。從 2017 年《原住民族語言發展法》到數位族語平台，一場靜默的搶救正在加速進行。",
+    "healthScore": 63
+  },
+  {
+    "title": "台灣華語的演化——四百年的語言地層學",
+    "slug": "台灣華語的演化",
+    "category": "culture",
+    "subcategory": "語言與文字",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3155,
+    "tagCount": 5,
+    "tags": ["台灣華語", "語言演化", "日語借詞", "兩岸用語", "語言認同"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 1,
+    "commitHash": "62a1e48f",
+    "description": "一個便當裡藏著多少段歷史？跟著這個詞的旅行，探索四百年來在這座島上自然長出的語言",
+    "healthScore": 53
+  },
+  {
+    "title": "台灣自媒體創作者經濟：2,300 萬人的碎片戰場",
+    "slug": "台灣自媒體創作者經濟",
+    "category": "economy",
+    "subcategory": "產業與經濟",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3168,
+    "tagCount": 5,
+    "tags": ["自媒體", "創作者經濟", "KOL", "網紅", "聯盟行銷"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 3,
+    "commitHash": "84e04168",
+    "description": "市場不到美國 1%，平台卻多一倍——台灣創作者怎麼活下來的？",
+    "healthScore": 59
+  },
+  {
+    "title": "台灣原住民飲食文化",
+    "slug": "台灣原住民飲食文化",
+    "category": "food",
+    "subcategory": "族群飲食",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3137,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 12,
+    "commitHash": "0ae179a8",
+    "description": "從 AKAME 的火焰到阿美族的野菜宇宙——台灣原住民飲食如何在三千年後重新點燃世界的目光",
+    "healthScore": 55
+  },
+  {
+    "title": "台灣豆漿與早餐店",
+    "slug": "台灣豆漿與早餐店",
+    "category": "food",
+    "subcategory": "飲品文化",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 3671,
+    "tagCount": 6,
+    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "蛋餅", "眷村飲食"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 7,
+    "commitHash": "dd41d207",
+    "description": "一群山東老兵在永和橋頭推攤車賣豆漿，70 年後「永和」成了全球華人早餐的代名詞。但它從來不是一個品牌，是一個地名",
+    "healthScore": 75
+  },
+  {
+    "title": "台灣原住民族歷史與正名運動",
+    "slug": "台灣原住民族歷史與正名運動",
+    "category": "history",
+    "subcategory": "史前與原住民",
+    "date": "2026-03-29",
+    "lastVerified": null,
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2603,
+    "tagCount": 5,
+    "tags": ["原住民族", "正名運動", "身份認同", "社會運動", "文化保存"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 5,
+    "commitHash": "0ae179a8",
+    "description": "1987年，一個19歲的鄒族青年在台北刑場被槍決。他的死，點燃了正名運動最初的火。",
+    "healthScore": 52
+  },
+  {
+    "title": "台灣獨立音樂：一間發不出薪水的唱片行，如何替一座島嶼打開耳朵",
+    "slug": "台灣獨立音樂",
+    "category": "music",
+    "subcategory": "獨立與搖滾",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 8913,
+    "tagCount": 6,
+    "tags": [
+      "獨立音樂",
+      "地下樂團",
+      "搖滾樂",
+      "live house",
+      "獨立廠牌",
+      "音樂產業"
+    ],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 3,
+    "commitHash": "84e04168",
+    "description": "從水晶唱片負債三十萬頂下來的冒險，到草東沒有派對在咖啡店賣光首刷。台灣獨立音樂 35 年不是逆襲故事，是一群人堅持讓「沒被看見的聲音被聽見」的漫長賭局",
+    "healthScore": 69
+  },
+  {
+    "title": "台灣音樂祭文化：一座島嶼為什麼需要這麼多場戶外派對",
+    "slug": "台灣音樂祭文化",
+    "category": "music",
+    "subcategory": "獨立與搖滾",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 4012,
+    "tagCount": 6,
+    "tags": [
+      "音樂祭",
+      "春天吶喊",
+      "海洋音樂祭",
+      "大港開唱",
+      "獨立音樂",
+      "青年文化"
+    ],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 5,
+    "commitHash": "59ebe9d9",
+    "description": "從 1995 年墾丁沙灘上兩個美國人架起的舞台，到每年超過 50 場遍布全島的音樂祭。台灣的音樂祭密度可能是全世界最高，而開山鼻祖不是台灣人",
+    "healthScore": 75
+  },
+  {
+    "title": "李昌鈺",
+    "slug": "李昌鈺",
+    "category": "people",
+    "subcategory": "科學與學術",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2630,
+    "tagCount": 4,
+    "tags": ["人物", "鑑識科學", "台裔美國人", "刑事調查"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 1,
+    "commitHash": "f0c42df2",
+    "description": "靠一把碎骨建立鑑識傳奇，卻因一條毛巾上的「血跡」讓兩人蹲了三十年冤獄",
+    "healthScore": 48
+  },
+  {
+    "title": "台灣的斜槓世代——一人多職的生存與選擇",
+    "slug": "台灣斜槓世代",
+    "category": "society",
+    "subcategory": "世代與社會",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2939,
+    "tagCount": 5,
+    "tags": ["斜槓", "零工經濟", "薪資", "房價", "青年就業"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 2,
+    "commitHash": "93c41024",
+    "description": "當碩士學歷只換得來一間台北套房的租金，斜槓不是選擇，是活下去的數學題",
+    "healthScore": 55
+  },
+  {
+    "title": "台灣的 AI 日常——當人工智慧走進街頭巷尾",
+    "slug": "台灣ai日常",
+    "category": "technology",
+    "subcategory": "社群與數位文化",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3401,
+    "tagCount": 6,
+    "tags": ["AI", "人工智慧", "LINE", "智慧醫療", "智慧農業", "日常科技"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 3,
+    "commitHash": "84e04168",
+    "description": "台灣人每天跟 AI 互動十幾次，但多數人不知道自己在跟 AI 說話",
+    "healthScore": 59
+  },
+  {
+    "title": "台灣太空產業發展：衛星製造大國，卻沒有自己的火箭",
+    "slug": "台灣太空產業發展",
+    "category": "technology",
+    "subcategory": "太空與前沿",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 3767,
+    "tagCount": 6,
+    "tags": ["太空產業", "衛星", "TASA", "福衛", "太空科技", "商業太空"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 9,
+    "commitHash": "84e04168",
+    "description": "台灣每年幫全球組裝數百億元的電子零件，卻直到2025年才把第一顆次米解析度衛星送上軌道——一個關於技術自主、國際現實與商業太空夢的故事",
+    "healthScore": 75
+  },
+  {
+    "title": "台灣網路社群三十年——從 BBS 到 Threads 的遷徙史",
+    "slug": "台灣網路社群遷徙史",
+    "category": "technology",
+    "subcategory": "社群與數位文化",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3261,
+    "tagCount": 7,
+    "tags": [
+      "BBS",
+      "無名小站",
+      "Facebook",
+      "LINE",
+      "Threads",
+      "網路文化",
+      "社群平台"
+    ],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 3,
+    "commitHash": "84e04168",
+    "description": "台灣人每五年集體搬家一次，每次都丟掉上一代的記憶",
+    "healthScore": 59
+  },
+  {
+    "title": "台灣的開源精神——用愛發電的工程師們",
+    "slug": "台灣開源精神",
+    "category": "technology",
+    "subcategory": "社群與數位文化",
+    "date": "2026-03-29",
+    "lastVerified": "2026-03-29",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 2625,
+    "tagCount": 6,
+    "tags": ["開源", "g0v", "COSCUP", "GitHub", "公民科技", "自由軟體"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 2,
+    "commitHash": "93c41024",
+    "description": "台灣最有影響力的開源專案不是一個軟體，是一群工程師在 hackathon 上對政府說「你做不好，我們來做」。",
+    "healthScore": 53
+  },
+  {
+    "title": "台灣建築",
+    "slug": "台灣建築",
+    "category": "art",
+    "subcategory": "建築",
+    "date": "2026-03-28",
+    "lastVerified": "2026-03-28",
+    "lastHumanReview": true,
+    "featured": true,
+    "wordCount": 5703,
+    "tagCount": 5,
+    "tags": ["建築", "文化", "歷史", "原住民", "日治"],
+    "translations": {
+      "en": false,
+      "es": false,
+      "ja": false
+    },
+    "revision": 9,
+    "commitHash": "9644c201",
+    "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
+    "healthScore": 100
+  },
+  {
     "title": "台灣新媒體藝術",
     "slug": "台灣新媒體藝術",
     "category": "art",
@@ -16,8 +610,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "6dd5d987",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從1980年代錄像先驅到威尼斯VR大獎，16位關鍵藝術家與40年數位藝術革命的完整脈絡。台灣如何用程式碼寫詩，在國際藝術版圖刻下自己的名字。",
     "healthScore": 65
   },
@@ -47,7 +641,7 @@
       "ja": false
     },
     "revision": 12,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1987年春水堂的一個失誤，讓珍珠奶茶走進60國市場。台灣小吃從清代移民的生存工具，到今天23.3萬個攤位撐起的4000億產業：它的成功方程式不是精緻化，而是那種「管它的，先試試看」的草根勇氣。",
     "healthScore": 65
   },
@@ -68,8 +662,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "1982年，蔡琴寫了封8頁的信給宋楚瑜，把獎項類別都列好了。八年後金曲獎誕生。34年後，一個排灣族語專輯打敗所有人拿下年度最佳——那不是一個關於獎項的故事，而是一個關於什麼聲音值得被聽見的故事。",
     "healthScore": 65
   },
@@ -91,7 +685,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從星光冠軍到實驗音樂人，林宥嘉在人生最幸福的時刻經歷了長達八年的病痛與沉寂，最終學會放下執念，讓愛稱王。",
     "healthScore": 45
   },
@@ -113,7 +707,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從 10 歲在北投酒家走唱，到創下百萬銷量的台語歌后，江蕙用歌聲改寫了台灣庶民文化的地位，卻在巔峰時因一場秘密的抗癌戰爭選擇封麥。",
     "healthScore": 44
   },
@@ -135,7 +729,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "5619a5ef",
+    "commitHash": "1f2fde8b",
     "description": "將軍之子變叛逆少年，叛逆少年變台灣電視劇教母——王小棣用四十年證明，拍電視可以是一種社會運動",
     "healthScore": 78
   },
@@ -156,8 +750,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "ae381178",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "30 個家庭主婦每天存五��錢，60 年後變成橫跨 128 國的慈善帝國——台灣的志工文化不是口號，是寫在日常裡的集體DNA",
     "healthScore": 84
   },
@@ -186,7 +780,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一個高中畢業的廟會團長，被文建會評審羞辱了十幾年，花11年拿到博士，只為證明帶中輟生打鼓也是藝術。他背後站的，是一位四千年前教黃帝打仗的女神。",
     "healthScore": 56
   },
@@ -215,7 +809,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1977年一位台灣教授從英國帶回一組網架，意外讓瑞士發明的「君子球」在台灣校園生根。40多年後，台灣隊穩居世界第一、國際總會設在高雄，卻仍是大多數台灣人陌生的冷門運動。",
     "healthScore": 45
   },
@@ -237,7 +831,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從嘉義竹頭筊職人黃奕薰的堅持，到屏東慈天宮 20 個聖筊的 300 萬傳奇，探討台灣人與神明溝通的機率與溫度。",
     "healthScore": 39
   },
@@ -258,10 +852,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "e3056e83",
-    "description": "台灣不是大陸帝國的最後一片拼圖，而是太平洋海洋網絡的第一塊基石。從曹永和的「以地範史」出發，重新理解這座島嶼的生命力。",
-    "healthScore": 91
+    "revision": 4,
+    "commitHash": "84e04168",
+    "description": "台灣不是大陸帝國的最後一片拼圖，而是太平洋海洋網路的第一塊基石。從曹永和的「以地範史」出發，重新理解這座島嶼的生命力。",
+    "healthScore": 94
   },
   {
     "title": "民主化",
@@ -280,8 +874,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 12,
-    "commitHash": "42643155",
+    "revision": 13,
+    "commitHash": "84e04168",
     "description": "1980年3月18日，高雄軍事法庭上，施明德放棄了六萬字答辯書，改口要求法官判他死刑。同一場審判中，替被告辯護的年輕律師陳水扁、謝長廷、蘇貞昌，二十年後全部當上了總統或行政院長。一場本該殺雞儆猴的審判，意外製造了台灣下一個世代的政治領袖。",
     "healthScore": 75
   },
@@ -303,7 +897,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一位帶著廈門口音的國語推行員，如何在《國語日報》深耕 57 年，用「淺語的藝術」為台灣孩子織出一塊溫柔的底布？",
     "healthScore": 42
   },
@@ -334,7 +928,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1949年出生於彰化二林貧苦農家的洪醒夫，18歲發表第一篇小說，33歲因車禍離世前以小學教師身份創作鄉土文學，用短短15年寫出《黑面慶仔》、《吾土》、《散戲》等經典，捕捉台灣農村從農業到工商轉型的真實面貌，被文友戲稱「洪醒夫斯基」，成為戰後台灣文學不可磨滅的田莊之聲。",
     "healthScore": 62
   },
@@ -362,8 +956,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "一個中日混血海盜之子，用十六年抗清、九個月攻台、五個月建國，然後在三十七歲暴斃——他的名字至今被四個政權爭相認領",
     "healthScore": 65
   },
@@ -384,10 +978,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "三國武將關羽兵敗被斬首，卻在台灣演化出全球獨有的「恩主公」信仰體系——而全台最繁忙的關帝廟，連一炷香都不讓你燒。",
-    "healthScore": 53
+    "healthScore": 56
   },
   {
     "title": "何飛鵬",
@@ -407,7 +1001,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "c27c51c2",
+    "commitHash": "8ccbbadc",
     "description": "一個領先市場八年、連賠七年，最後創立台灣最大出版集團的媒體人。",
     "healthScore": 47
   },
@@ -428,10 +1022,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "8b9bd4b6",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "1999年生的歌星、韓國K-POP樂團TWICE的忙內",
-    "healthScore": 56
+    "healthScore": 59
   },
   {
     "title": "莫那·魯道",
@@ -451,7 +1045,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "賽德克族馬赫坡社頭目莫那·魯道於1930年領導霧社事件，以300多名勇士反抗日本殖民壓迫，雖以悲劇收場，卻成為台灣原住民不屈抗爭的永恆象徵。",
     "healthScore": 33
   },
@@ -472,8 +1066,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "一隻蟲咬出的蜜香、一棟日式老屋裡的民主運動、一杯珍奶征服的全球市場——台灣茶文化如何從殖民遺產長成獨特的生活美學",
     "healthScore": 73
   },
@@ -495,7 +1089,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一個 56 歲的人在 1987 年創辦了一種「全世界沒人做過」的公司，然後它變成了地球上最重要的工廠",
     "healthScore": 72
   },
@@ -516,8 +1110,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "被嘲笑為山寨機之王的公司，如今手機晶片市占率是高通的1.5倍",
     "healthScore": 60
   },
@@ -546,8 +1140,8 @@
       "es": true,
       "ja": false
     },
-    "revision": 10,
-    "commitHash": "42643155",
+    "revision": 11,
+    "commitHash": "84e04168",
     "description": "一個寡婦的私菸攤，如何點燃一座島嶼38年的沉默——1947年改變台灣命運的十天",
     "healthScore": 70
   },
@@ -568,9 +1162,9 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
-    "description": "從清領時期的樟腦煙雲，到日治時期的鋼軌鳴響，再到戰後震撼山壑的大伐木時代。本文梳理台灣森林開發政策背後的全球地緣政治邏輯，並以數據釐清百年林業的真實真相。",
+    "revision": 8,
+    "commitHash": "84e04168",
+    "description": "從清領時期的樟腦煙雲，到日治時期的鋼軌鳴響，再到戰後震撼山壑的大伐木時代。本文梳理台灣森林開發政策背後的全球地緣政治邏輯，並以資料釐清百年林業的真實真相。",
     "healthScore": 48
   },
   {
@@ -598,10 +1192,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "台灣牛肉自給率僅4.6%，卻在2024年誕生全國第一個民間認證牛品種。源興牛的故事，是一個94歲的老人、19頭野生黑牛、和一碗凌晨的溫體湯共同寫成的產業突圍劇本。",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "台灣機車文化",
@@ -630,7 +1224,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "全球機車密度最高的國家不是因為愛騎車——是因為沒有別的選擇。現在它意外成了電動二輪的全球實驗場。",
     "healthScore": 75
   },
@@ -651,10 +1245,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從冰河時期的陸橋遷徙到南島語族的構樹基因，台灣不僅是生物的避難所，更是演化的十字路口。透過博物學家的雙眼，重新發現這座島嶼如何與世界進行生命對話。",
-    "healthScore": 35
+    "healthScore": 38
   },
   {
     "title": "郁永河",
@@ -683,7 +1277,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "6d250c18",
+    "commitHash": "387977cb",
     "description": "1697年，一個杭州書生自願跑到瘴癘之地台灣採硫磺，從台南徒步走到北投，寫下台灣最早的北部紀實文學",
     "healthScore": 83
   },
@@ -712,7 +1306,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "3649f271",
+    "commitHash": "905dadba",
     "description": "他在創刊前就準備了24張雜誌執照，因為他知道政府會一直關他的刊——一個「外省囝仔」如何為整座島嶼的言論自由而死",
     "healthScore": 67
   },
@@ -733,8 +1327,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "cbd88cc3",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從肯塔基問題少年感化學校到五兆美元帝國——一個掃廁所的台南男孩如何押注十年後才到來的未來",
     "healthScore": 75
   },
@@ -765,7 +1359,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "1aa787f5",
+    "commitHash": "a203b931",
     "description": "一個公務員薪水養不起直升機的人，如何用抵押房子的錢拍出台灣紀錄片史上最成功的作品",
     "healthScore": 90
   },
@@ -787,7 +1381,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從一座稻田上的賭注到年產值五兆的矽盾——台灣三大科學園區如何用四十五年改寫全球科技地圖",
     "healthScore": 65
   },
@@ -809,7 +1403,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "8b9bd4b6",
+    "commitHash": "bd7dc5a5",
     "description": "1988年從華視選秀節目中誕生的小虎隊，由吳奇隆、陳志朋、蘇有朋組成，憑藉陽光活力形象與勵志舞曲，成為台灣第一個男子偶像團體，開啟華語流行音樂的青春偶像時代，並成為兩岸三地共同的青春記憶。",
     "healthScore": 36
   },
@@ -839,7 +1433,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "41966141",
+    "commitHash": "77156c9e",
     "description": "一位離職醫師如何用一面壓線球國旗，開啟台灣 Web3 公益的全新想像。FAB DAO 與百岳計畫重新定義了捐款的本質：收藏即捐款，藝術即社會行動。",
     "healthScore": 48
   },
@@ -860,8 +1454,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從無字的歌聲到書面創作，一段橫跨千年的文學演化史",
     "healthScore": 64
   },
@@ -890,8 +1484,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "21世紀最大的文化產業奇蹟：年產值千億的霹靂布袋戲帝國，如何從鄉間謝神小戲變成征服全球的文化軟實力？",
     "healthScore": 75
   },
@@ -912,8 +1506,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從外省懷鄉到本土認同，從男性文人到女性主導的文學風景。半世紀來最親近生活卻最難定義的文學形式，如何成為台灣人情感記憶的承載者？",
     "healthScore": 74
   },
@@ -935,7 +1529,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從被質疑「台灣有文學嗎？」到楊逵首次在日本獲獎，從語言禁錮到多重聲音復甦——一部關於聲音尋找文字、文字尋找家園的四百年史詩",
     "healthScore": 65
   },
@@ -957,7 +1551,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "ca63a7bc",
+    "commitHash": "b2b2903a",
     "description": "從 1990 年代初的機構萌芽到今日的國際平台，台灣策展人如何在全球化浪潮中建構本土藝術論述，又如何在國際雙年展體系中找到自己的聲音？一段關於文化身份認同與專業建制的 30 年演化史。",
     "healthScore": 73
   },
@@ -978,8 +1572,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從語言失語到多元爆發，戰後台灣文學如何在身份認同的漩渦中找到自己的聲音？",
     "healthScore": 65
   },
@@ -1000,8 +1594,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "",
     "healthScore": 63
   },
@@ -1022,8 +1616,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "一個為對抗瘟疫而燃放鞭炮的小鎮儀式，140年後成為全球最危險的民俗慶典",
     "healthScore": 73
   },
@@ -1044,10 +1638,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "e3056e83",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "1930年代列強簽了限產協定把台灣排除在外，結果台灣紅茶趁勢暴衝——從329萬公斤到580萬。90年後，同一座島嶼每30分鐘開一家手搖飲店。",
-    "healthScore": 60
+    "healthScore": 63
   },
   {
     "title": "當社會傷口變成集體療癒：台灣迷因文化的社會安全閥機制",
@@ -1067,7 +1661,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "46b3afe7",
+    "commitHash": "2335911b",
     "description": "從杰哥不要到統神端火鍋，台灣迷因不只是娛樂，而是一套精巧的社會解壓系統，將尷尬、創傷與焦慮轉化為集體的治癒儀式。",
     "healthScore": 47
   },
@@ -1088,8 +1682,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "硬頸精神與天穿日：一個被誤解為「頑固」的族群，如何成為台灣最會適應的文化群體",
     "healthScore": 65
   },
@@ -1111,7 +1705,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "6de879dc",
+    "commitHash": "b9e352f4",
     "description": "探索澎湖獨特的元宵節乞龜文化，從250年歷史中窺見海島子民的智慧與信仰，以及風沙塑造的獨特民俗傳統",
     "healthScore": 53
   },
@@ -1140,8 +1734,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "真正支撐台灣經濟的不是護國神山，而是171萬家看似平凡、卻創造79%就業機會的隱形冠軍。從1960年代黑手師傅起家，到今日掌控全球利基市場的精密製造王國。",
     "healthScore": 69
   },
@@ -1162,8 +1756,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "87年前上海的一間小紡織廠，如何演變成跨越十大產業、資產逾3兆的台灣商業帝國？遠東集團的發展史，見證了台商從榮耀到政治風險的完整軌跡",
     "healthScore": 65
   },
@@ -1184,10 +1778,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "一艘 15 年船齡的二手貨輪，17 年後登頂世界第一——然後創辦人的遺囑，撕開了一個帝國",
-    "healthScore": 56
+    "healthScore": 59
   },
   {
     "title": "台灣動畫代工",
@@ -1206,10 +1800,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "e6d88028",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "台灣曾是全球動畫外包重鎮，宏廣卡通包辦好萊塢經典動畫製作，高峰期產值佔全球三分之一",
-    "healthScore": 43
+    "healthScore": 46
   },
   {
     "title": "台灣水果王國",
@@ -1228,8 +1822,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "水果王國的光環下，進口水果年產值破302億創新高，本土產量卻10年下滑2成——甜美名聲背後的殘酷真相",
     "healthScore": 65
   },
@@ -1259,7 +1853,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "173d2360",
+    "commitHash": "6a31f0b6",
     "description": "從戰後眷村到國際舞台，台灣麵食在七十年間從美援麵粉開始，融合省籍記憶與本土創新，寫下一部移民與原鄉的飲食史詩",
     "healthScore": 100
   },
@@ -1280,8 +1874,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "在地球上，很少有地方能讓你從近4,000公尺的山頂出發，不到150公里就墜入7,500公尺深的海溝。台灣可以。這座島嶼的海岸線，是一場仍在進行的車禍現場——美到令人窒息。",
     "healthScore": 93
   },
@@ -1302,10 +1896,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "337baf3b",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "一個島嶼如何在不流血的情況下，從38年戒嚴走向亞洲最自由的民主。這不是被給予的恩惠，而是一代又一代人用勇氣換來的自由。",
-    "healthScore": 63
+    "healthScore": 66
   },
   {
     "title": "History of Railways in Taiwan",
@@ -1324,10 +1918,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "How a railway the Japanese called a 'consumptive railroad' became a 300 km/h artery carrying 21 million passengers a day",
-    "healthScore": 36
+    "healthScore": 39
   },
   {
     "title": "台灣鐵道史",
@@ -1354,8 +1948,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "一條被日本人罵是「肺病鐵道」的爛路，如何在一百多年間變成每天載運二十萬人的高速動脈",
     "healthScore": 65
   },
@@ -1376,10 +1970,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "e3056e83",
+    "revision": 2,
+    "commitHash": "c8a997a5",
     "description": "淡江中學最值得寫的，不是它夠老，而是它把宣教、女子教育與殖民體制的拉扯，都留在同一座校園裡。",
-    "healthScore": 50
+    "healthScore": 53
   },
   {
     "title": "勝利路的兩面：從裝甲兵政變到「大停車場」的湖口記憶",
@@ -1406,7 +2000,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "3199010d",
+    "commitHash": "b1f05c3d",
     "description": "在新竹湖口勝利路上，營區圍牆的一側是戰車與政治風暴，另一側則是民居、福利社與消失的電影院。這是一段關於鄰里、意外與社會正義的在地史。",
     "healthScore": 35
   },
@@ -1428,31 +2022,9 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "9fdb834f",
+    "commitHash": "c71f1568",
     "description": "外國人聽到垃圾車播貝多芬的震驚表情，背後是台灣從「垃圾島」蛻變成環保模範的神奇故事",
     "healthScore": 48
-  },
-  {
-    "title": "台灣醫療與全民健保",
-    "slug": "台灣醫療與全民健保",
-    "category": "lifestyle",
-    "subcategory": "醫療與健保",
-    "date": "2026-03-24",
-    "lastVerified": "2026-03-24",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 3698,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "42643155",
-    "description": "99.9% 覆蓋率的矛盾奇蹟：全世界最便宜的健保制度，為何讓四分之三醫院虧本經營？",
-    "healthScore": 55
   },
   {
     "title": "小綠人：從交通號誌到國家符號的25年傳奇",
@@ -1472,7 +2044,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "faa13811",
+    "commitHash": "3c64c560",
     "description": "一位東京觀光客驚訝地停下腳步，目睹台北街頭的奇蹟——會跑步的紅綠燈。25年來，這個看似平凡的小綠人，如何從松智路的一盞燈，成為讓全世界為之驚艷的台灣文化符號？",
     "healthScore": 46
   },
@@ -1494,7 +2066,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "930ba5a3",
+    "commitHash": "1c73bd77",
     "description": "台灣國樂不只是中國民樂的分支，而是在島嶼環境下獨立演化的文化新物種，融合本土元素與創新實驗，形成獨特的音樂語言。",
     "healthScore": 53
   },
@@ -1516,7 +2088,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "cbd88cc3",
+    "commitHash": "f2d8b623",
     "description": "探索台灣校園與公園最常見的「大笨鳥」黑冠麻鷺，了解牠如何從深山隱士轉化為都市共生者的傳奇故事。",
     "healthScore": 36
   },
@@ -1545,7 +2117,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "a1f87787",
+    "commitHash": "cc6cd658",
     "description": "拒絕特寫鏡頭卻征服世界的電影詩人——一個反電影語法的影像革命者",
     "healthScore": 73
   },
@@ -1567,7 +2139,7 @@
       "ja": false
     },
     "revision": 11,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從台灣走向威尼斯雙年展、Art Basel Miami 的生成藝術先驅，用演算法在數位世界中鍛造永恆",
     "healthScore": 88
   },
@@ -1589,7 +2161,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "3f6d9087",
+    "commitHash": "54244b39",
     "description": "探討 1721 年朱一貴事件的始末，從一位養鴨人家到自立為王的傳奇歷程，以及此事件對清代台灣治理政策的深遠影響。",
     "healthScore": 35
   },
@@ -1611,7 +2183,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "ca519cec",
+    "commitHash": "7d30e309",
     "description": "不是天才的天后——被舞蹈老師說「不是跳舞的料」，二十五年後成為金曲獎史上獲獎最多的唱跳歌手",
     "healthScore": 59
   },
@@ -1632,10 +2204,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "1abddfb1",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "當全世界最不想生孩子的地方，同時也是最愛孩子的地方——台灣0.87的生育率數字背後，是整個社會結構的系統性崩解",
-    "healthScore": 53
+    "healthScore": 56
   },
   {
     "title": "鏟子超人與島嶼共時性：台灣災難志工文化如何形塑國族認同",
@@ -1662,10 +2234,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "aa2fd596",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "以2025年花蓮光復鄉水災為鏡，探討台灣獨特的災難志工動員模式如何透過社群媒體重新定義島嶼共同體意識，從921地震到花蓮水災的社會韌性演化軌跡。",
-    "healthScore": 53
+    "healthScore": 56
   },
   {
     "title": "Threads 在台灣：從 Twitter 代餐到「脆」文化主戰場",
@@ -1676,7 +2248,7 @@
     "lastVerified": "2026-03-24",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3837,
+    "wordCount": 3865,
     "tagCount": 6,
     "tags": [
       "社群媒體",
@@ -1691,10 +2263,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "5aaa1b66",
-    "description": "當全球用戶對 Threads 熱情冷卻，台灣卻走出截然不同的路——350 萬用戶、全球第二大市場、使用時間居冠。這裡成為 Z 世代真實發聲、政治人物「下凡」、迷因狂歡的數位公共廣場，重新定義了台灣的社群媒體生態。",
-    "healthScore": 72
+    "revision": 5,
+    "commitHash": "84e04168",
+    "description": "當全球使用者對 Threads 熱情冷卻，台灣卻走出截然不同的路——350 萬使用者、全球第二大市場、使用時間居冠。這裡成為 Z 世代真實發聲、政治人物「下凡」、迷因狂歡的數位公共廣場，重新定義了台灣的社群媒體生態。",
+    "healthScore": 75
   },
   {
     "title": "當地震來襲時，誰在值班？台灣災難醫療體系的制度密碼",
@@ -1713,10 +2285,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "397e77eb",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "從921地震到花蓮強震，台灣如何建構出以急診科為核心的災難醫療網？制度設計的精妙之處不在設備，而在「誰值班」的巧思。",
-    "healthScore": 49
+    "healthScore": 52
   },
   {
     "title": "台灣官方網站資源：從25個網站到數位政府強國的30年奇蹟",
@@ -1742,10 +2314,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "3dbb33b3",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "1996年，台灣為了參加網際網路世界博覽會，25個政府機關建置了第一批官方網站。30年後的今天，這座島嶼成為全球數位政府的典範——從網路報稅到單一入口網站，從開放資料到AI語料庫，探索台灣如何用官方網站寫下數位轉型的傳奇。",
-    "healthScore": 63
+    "healthScore": 66
   },
   {
     "title": "台灣現代詩",
@@ -1765,7 +2337,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從三個書房走出的現代主義實驗，如何意外催生最鄉土的詩歌革命",
     "healthScore": 55
   },
@@ -1786,8 +2358,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "年產不到20部電影的台灣，如何培育出三位世界級導演，創造了比好萊塢更深遠的藝術影響？",
     "healthScore": 65
   },
@@ -1808,10 +2380,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "一個不賣廣告、用台語唱歌的虛擬主播，如何在萬物皆可虛擬的時代重新定義台灣流行文化",
-    "healthScore": 77
+    "healthScore": 80
   },
   {
     "title": "台灣YouTuber產業與文化：從蔡阿嘎到奇軒，一個島嶼的數位文化進化史",
@@ -1830,10 +2402,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "一個從魔術起家的創作者如何成為台灣首位千萬訂閱YouTuber？這背後是台灣網路影音文化從本土娛樂進化為國際輸出的完整故事",
-    "healthScore": 55
+    "healthScore": 58
   },
   {
     "title": "台灣外來語與語言接觸現象",
@@ -1853,7 +2425,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從便當到視頻：一座島嶼的語言接觸史，揭示台灣如何成為全世界最成功的外來語融合實驗室",
     "healthScore": 56
   },
@@ -1874,10 +2446,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "一個被「撿破爛」起家的學生專案，如何成為影響整整一代台灣人的社群平台？",
-    "healthScore": 49
+    "healthScore": 52
   },
   {
     "title": "經濟奇蹟",
@@ -1897,7 +2469,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1952年，台灣人均GDP只有196美元，比海地還窮。40年後，台灣成為「亞洲四小龍」之首，人均GDP超過1萬美元。但這個「奇蹟」的代價是什麼？當我們讚美台灣錢淹腳目的年代時，很少人談起那些在加工出口區裡每天工作12小時的女工，和那些把一生積蓄押在小工廠裡的老闆們。",
     "healthScore": 90
   },
@@ -1918,8 +2490,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "從德記洋行1884年的100株苗木到2024年首屆CoE卓越盃，一個島嶼如何在140年間打造出年進口4.3萬公噸的咖啡王國",
     "healthScore": 80
   },
@@ -1941,7 +2513,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "2018 年米其林登陸台灣，表面上是國際認證的榮耀，實際上重新劃分了餐飲業的生存規則——「幾乎夠格」的餐廳，反而成了最大受害者。",
     "healthScore": 75
   },
@@ -1962,32 +2534,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從年吃 85 公斤到 42 公斤：一個稻米島國的飲食革命與文化堅持",
     "healthScore": 62
-  },
-  {
-    "title": "台灣辦桌文化",
-    "slug": "台灣辦桌文化",
-    "category": "food",
-    "subcategory": "飲食場景",
-    "date": "2026-03-23",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 4133,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 11,
-    "commitHash": "42643155",
-    "description": "一個無法量化的產業，如何成為台灣最具韌性的文化載體？從康熙年間到疫情寒冬的辦桌傳奇",
-    "healthScore": 55
   },
   {
     "title": "台灣茶文化",
@@ -2006,8 +2556,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 13,
-    "commitHash": "e3056e83",
+    "revision": 14,
+    "commitHash": "84e04168",
     "description": "一個被國際茶業列強排除在限產協定之外的小島，卻因此創造了茶業黃金時代，最後用一杯加了「小點心」的奶茶征服全世界",
     "healthScore": 68
   },
@@ -2028,10 +2578,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "距離活動斷層僅 200 公尺，台灣人偏要在最不穩定的土地上建出世界最高樓——然後有個瘋子花 91 分鐘徒手爬了上去。",
-    "healthScore": 52
+    "healthScore": 55
   },
   {
     "title": "台灣國家風景區系統",
@@ -2050,8 +2600,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "一個「國家級」標籤下的觀光優先實驗：13處風景區如何在保育與開發間走鋼索",
     "healthScore": 71
   },
@@ -2072,10 +2622,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "從『女巫湯』到全球前15溫泉王國，板塊碰撞如何煮出這座島的療癒密碼",
-    "healthScore": 62
+    "healthScore": 65
   },
   {
     "title": "地形與地質",
@@ -2094,8 +2644,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 11,
-    "commitHash": "42643155",
+    "revision": 12,
+    "commitHash": "84e04168",
     "description": "600萬年的島嶼，藏著2億年的古老記憶 — 全球最年輕造山帶與最劇烈板塊碰撞的奇蹟",
     "healthScore": 63
   },
@@ -2126,7 +2676,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "台灣最靠近海濱的泥火山惡地形，前軍事要塞今為自然公園，擁有活躍噴泥口與絕美海景步道。",
     "healthScore": 29
   },
@@ -2148,7 +2698,7 @@
       "ja": false
     },
     "revision": 10,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一個1990年代有400座快滿的掩埋場、被國際媒體稱為「垃圾島」的地方，用貝多芬的音樂讓2,300萬人每天追垃圾車，30年後資源回收率超越多數歐洲國家",
     "healthScore": 73
   },
@@ -2181,8 +2731,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "209 噸鋼梁從天而降奪走 4 條人命，16.4 億賠款，台北捷運本業至今仍在虧錢——全台捷運背後的真實代價",
     "healthScore": 75
   },
@@ -2212,8 +2762,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "台灣花30年想破除聯考制度，結果最新的分科測驗讓重考班招生暴增一倍。一個島嶼如何在升學壓力與教育公平之間，反覆進行社會實驗？",
     "healthScore": 75
   },
@@ -2243,8 +2793,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "1996年奧運開幕式響起台灣阿美族長者的古老吟唱，但郭英男本人透過訴訟才知道被全世界聽見。這個荒謬故事映射了台灣民謠的命運——從被消音到重新定義自己的聲音",
     "healthScore": 64
   },
@@ -2265,8 +2815,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 10,
-    "commitHash": "42643155",
+    "revision": 11,
+    "commitHash": "84e04168",
     "description": "一趟從海平面到玉山頂峰的垂直旅行，穿越地球上最密集的森林光譜",
     "healthScore": 90
   },
@@ -2287,8 +2837,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "達悟族用禁忌守護的海域，如今在高溫與水下噪音中白化：當數千年生態智慧遇上現代海洋危機",
     "healthScore": 55
   },
@@ -2309,8 +2859,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從 30 年前失敗的地熱電廠到世界唯一北投石：一座島嶼如何把地底之火變成療癒與綠電",
     "healthScore": 55
   },
@@ -2331,10 +2881,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "一身華麗如寶石的台灣特有種，卻擁有極其強悍的「家族幫派」社會性與護巢本能。",
-    "healthScore": 39
+    "healthScore": 42
   },
   {
     "title": "台灣鳥類窗殺議題：隱形的都市殺手",
@@ -2354,7 +2904,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "深度探討台灣野鳥因撞擊建築玻璃而傷亡的現況、科學原理、季節性影響與防治案例，並分析台灣友善鳥類建築的法規進展。",
     "healthScore": 32
   },
@@ -2383,10 +2933,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "980d37b5",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "2005年出生的台灣高中生許宸睿，在日本修學旅行時一句「My name is Ray, I'm from Taiwan」爆紅。目前Twitch超過270萬追隨者、YouTube 143萬訂閱，他把台灣護照、牛肉麵、珍奶帶進美國GQ熱門影片，還簽約Adidas推出個人品牌RUEI，後來宣布退休轉投資牙醫診所，讓世界看見台灣年輕人的可能性。",
-    "healthScore": 40
+    "healthScore": 43
   },
   {
     "title": "五月天",
@@ -2413,8 +2963,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "bae31ca9",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "一個高中生樂團，用30年時間重新定義了亞洲的演唱會經濟學",
     "healthScore": 58
   },
@@ -2436,7 +2986,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "fc8c0b0f",
+    "commitHash": "247416db",
     "description": "1997 年一個害羞的 18 歲男孩改寫了華語流行音樂的歷史",
     "healthScore": 60
   },
@@ -2458,7 +3008,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "892c20cb",
+    "commitHash": "de0f1afa",
     "description": "一位畫家花了36年建一座廟，把學院派美學搬進民間信仰",
     "healthScore": 44
   },
@@ -2480,7 +3030,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "d091439f",
+    "commitHash": "1ce3433e",
     "description": "一個小說家創造了華語世界第一個現代舞團，並讓它活過50年",
     "healthScore": 85
   },
@@ -2508,8 +3058,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "50e61b06",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "主修電腦科學，卻把程式語言帶進台灣當代藝術現場。沈聖博短短三十四年的人生，留下的不只是數位藝術作品，更是一種把程式視為生活、把自由軟體視為創作倫理的實驗精神。",
     "healthScore": 65
   },
@@ -2531,7 +3081,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "892c20cb",
+    "commitHash": "de0f1afa",
     "description": "一個機械系畢業生，為什麼會成為最激進的台語文運動推行者？從 2011 年舉牌抗議黃春明到成為越南研究專家，蔣為文用行動詮釋語言即認同的終極信念。",
     "healthScore": 69
   },
@@ -2553,7 +3103,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "a5ace26b",
+    "commitHash": "7046208a",
     "description": "從踢館魔王到金曲歌王，一個創造「雨神」傳說的台灣聲音",
     "healthScore": 89
   },
@@ -2574,10 +3124,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "從家庭視角觀察台灣社會如何透過人情味與共融設施，在邁向超高齡社會的路上，重新定義「一家人一起旅行」的意義。",
-    "healthScore": 51
+    "healthScore": 54
   },
   {
     "title": "野百合學運",
@@ -2596,10 +3146,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "一群大學生在中正紀念堂靜坐七天，最後逼得一個拖了四十多年的政治體制開始鬆動。野百合學運真正改變的，不只是國是會議，而是台灣人第一次清楚看見：學生可以直接改寫憲政改革的時間表。 ",
-    "healthScore": 56
+    "healthScore": 59
   },
   {
     "title": "開源社群與g0v",
@@ -2618,8 +3168,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "2020年2月，當全世界還在搶購口罩時，台灣一群程式設計師花了72小時就讓13,000家便利商店都能查詢口罩庫存。沒有政府命令、沒有預算支持，只有一個信念：用程式碼改變社會。這就是g0v零時政府，一個「fork政府」的奇妙實驗。",
     "healthScore": 88
   },
@@ -2641,7 +3191,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一個26歲文學青年如何創造華語世界第一個當代舞團，一群京劇演員如何讓莎士比亞說中文",
     "healthScore": 61
   },
@@ -2663,7 +3213,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "一座見證離別與重逢的冷戰軍事驛站，沉睡二十年後被一對父女喚醒，成為《孤獨星球》推薦的高雄首選美術館。",
     "healthScore": 41
   },
@@ -2684,8 +3234,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "13 歲戰亂孤兒變身太空傳奇：30 萬台幣如何重新定義全球電力產業",
     "healthScore": 75
   },
@@ -2714,10 +3264,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "擁有全球最強塑膠鏡頭技術的台灣隱形冠軍，為何在技術最領先時被中國對手搶走iPhone訂單？",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "台灣企業：富邦金控",
@@ -2728,7 +3278,7 @@
     "lastVerified": "2026-03-22",
     "lastHumanReview": true,
     "featured": false,
-    "wordCount": 3988,
+    "wordCount": 3989,
     "tagCount": 7,
     "tags": [
       "經濟",
@@ -2744,10 +3294,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "10人到60,000人：蔡家兄弟如何用60年建造台灣最大金融帝國",
-    "healthScore": 84
+    "healthScore": 87
   },
   {
     "title": "台灣企業：巨大機械",
@@ -2775,10 +3325,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從被美國大廠拋棄的代工奴隸，到制定全球自行車技術標準的隱形帝國",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "離島與海洋文化：從石滬密度世界第一到飛魚季生態法律",
@@ -2798,7 +3348,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "全世界石滬不到600座，澎湖就有574座。一個專門抓飛魚的島嶼民族，把禁忌變成了最精密的海洋資源管理系統",
     "healthScore": 65
   },
@@ -2819,10 +3369,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "從緬甸孤軍到竹籬笆王國，120萬大遷徙如何重新定義「家」",
-    "healthScore": 72
+    "healthScore": 75
   },
   {
     "title": "宗教與民間信仰：從恐懼管理到信仰帝國",
@@ -2833,7 +3383,7 @@
     "lastVerified": "2026-03-22",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2992,
+    "wordCount": 2993,
     "tagCount": 8,
     "tags": [
       "生活",
@@ -2850,8 +3400,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 11,
-    "commitHash": "42643155",
+    "revision": 12,
+    "commitHash": "84e04168",
     "description": "台灣有全球最高廟宇密度，卻也是宗教自由世界第一——這套矛盾背後隱藏17世紀軍事移民的生存智慧",
     "healthScore": 65
   },
@@ -2881,8 +3431,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從軍事療養到世界三大泥泉：台灣意外成為溫泉王國的故事",
     "healthScore": 65
   },
@@ -2903,8 +3453,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "980d37b5",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從叛亂犯到副總統：華人世界第一位女性副總統的傳奇人生",
     "healthScore": 59
   },
@@ -2925,8 +3475,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "980d37b5",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "承認虧損千億的創業導師，微笑曲線背後的失敗哲學",
     "healthScore": 60
   },
@@ -2947,8 +3497,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "980d37b5",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從農業經濟學者到華人世界第一位民主領袖的反差人生",
     "healthScore": 63
   },
@@ -2977,7 +3527,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從被田徑隊拒絕的瘦小孩，到徒步橫越撒哈拉沙漠創造歷史的極地跑者",
     "healthScore": 57
   },
@@ -3007,8 +3557,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "c3290b12",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "簽下25億台幣史上最高合約，但只拿到47%的左投手",
     "healthScore": 55
   },
@@ -3038,8 +3588,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "980d37b5",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "一個從未見過面的陌生人，讓牧師賭上生命與教會——美麗島事件背後的信仰抉擇",
     "healthScore": 62
   },
@@ -3068,10 +3618,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "從戒嚴期的監獄囚犯到亞洲第一部同婚法，一個男人的30年奮鬥如何改寫島嶼的愛情定義",
-    "healthScore": 66
+    "healthScore": 69
   },
   {
     "title": "台灣長期照顧制度發展",
@@ -3090,8 +3640,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "全世界最先進的長照制度，卻同時存在著最大的隱形照顧體系",
     "healthScore": 65
   },
@@ -3112,10 +3662,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "一個30秒的麥克風宣布，最終讓台灣對中貿易依存度從42%跌至32%——十年後回望，這場佔領運動真正改變的不是任何法案，而是台灣的經濟命運",
-    "healthScore": 69
+    "healthScore": 72
   },
   {
     "title": "自助餐阿姨的謎之目測精算能力",
@@ -3134,8 +3684,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "1962年的台灣第一間自助餐廳只活了兩年，但它留下的目測定價技術至今仍是AI最難複製的人類技能",
     "healthScore": 44
   },
@@ -3156,32 +3706,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "5a5e1eab",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "從程式碼到詩意：一位台灣藝術家的國際突破之路",
     "healthScore": 81
-  },
-  {
-    "title": "台灣建築",
-    "slug": "台灣建築",
-    "category": "art",
-    "subcategory": "建築",
-    "date": "2026-03-21",
-    "lastVerified": "2026-03-21",
-    "lastHumanReview": true,
-    "featured": true,
-    "wordCount": 1987,
-    "tagCount": 5,
-    "tags": ["建築", "文化", "歷史", "原住民", "日治"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 7,
-    "commitHash": "42643155",
-    "description": "從石板屋到摩天樓：一座島嶼的建築時光之旅",
-    "healthScore": 92
   },
   {
     "title": "台灣乖乖文化：綠色零食如何成為科技業守護神",
@@ -3200,10 +3728,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "從研究生的電腦到台積電機台，為什麼台灣人相信綠色乖乖能讓機器乖乖運作？",
-    "healthScore": 40
+    "healthScore": 43
   },
   {
     "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
@@ -3223,7 +3751,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從醫院沒有四樓到車牌8888天價標售，台灣人對諧音的敏感程度堪稱世界之最",
     "healthScore": 42
   },
@@ -3245,7 +3773,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "「媽祖婆雨、大道公風」不只是氣象諺語，背後藏著一段神明間的愛恨情仇",
     "healthScore": 45
   },
@@ -3266,10 +3794,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從工廠火災到全球筆電王，林百里如何建造AI時代的新帝國？",
-    "healthScore": 78
+    "healthScore": 81
   },
   {
     "title": "台灣企業：日月光半導體",
@@ -3288,10 +3816,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "全球第一大封測廠，建設公司老闆為何轉戰半導體？",
-    "healthScore": 76
+    "healthScore": 79
   },
   {
     "title": "台灣企業：統一企業",
@@ -3310,10 +3838,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "38歲高清愿從零開始，13歲童工如何打造6,576億營收帝國",
-    "healthScore": 73
+    "healthScore": 76
   },
   {
     "title": "夜市經濟學：一場沒有品牌的商業奇蹟",
@@ -3332,8 +3860,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "探索台灣夜市如何在沒有品牌、裝潢和固定地點的情況下，創造年產值近4000億的經濟奇蹟",
     "healthScore": 51
   },
@@ -3355,7 +3883,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從嘉義薄荷雞到菜尾湯，阿嬤的拿手好菜承載著家族記憶，卻正在時代變遷中慢慢失傳",
     "healthScore": 52
   },
@@ -3377,7 +3905,7 @@
       "ja": false
     },
     "revision": 14,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "164個列管夜市、台南平均3.8萬人擁有一個夜市，從廟埕到國際觀光景點",
     "healthScore": 90
   },
@@ -3398,10 +3926,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "3.6 萬平方公里島嶼擠下 5.9 萬種生物，密度是全球平均值的 100 倍",
-    "healthScore": 83
+    "healthScore": 86
   },
   {
     "title": "台灣都市發展與城鄉差距",
@@ -3421,7 +3949,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "70年從農業島變都市島，六都集中7成人口的光與影：繁榮台中vs凋零雲林的殘酷對比",
     "healthScore": 87
   },
@@ -3442,8 +3970,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣面積僅佔全球0.025%，卻擁有超過5萬種生物，森林覆蓋率60.71%排名全球第33位",
     "healthScore": 90
   },
@@ -3473,7 +4001,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "首位入圍國際曼布克獎的台灣作家，用複眼視野編織自然與歷史的文學詩篇",
     "healthScore": 86
   },
@@ -3504,7 +4032,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "8歲停學自學程式設計，全球首位跨性別部長，用開源精神重新定義數位民主",
     "healthScore": 97
   },
@@ -3526,7 +4054,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "214週世界球后紀錄保持者，從高雄前鎮到奧運銀牌的台灣羽球女王",
     "healthScore": 100
   },
@@ -3548,7 +4076,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從維也納歸來的打擊樂拓荒者，40 年來將冷門藝術轉為全民音樂",
     "healthScore": 90
   },
@@ -3579,7 +4107,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從《翻滾吧！男孩》的菜市場凱到奧運銀牌，台灣鞍馬王子十六年的翻滾人生",
     "healthScore": 90
   },
@@ -3601,7 +4129,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "1986 年諾貝爾化學獎得主，以交叉分子束技術開創化學動力學新領域，台灣首位諾貝爾科學獎得主",
     "healthScore": 90
   },
@@ -3633,7 +4161,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "2021 東京奧運柔道 60 公斤級銀牌，台灣史上首位奧運柔道獎牌得主，同年 11 月登上世界第一",
     "healthScore": 89
   },
@@ -3664,7 +4192,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "2012 年首位加入 AGI 的台灣設計師，操刀蔡英文兩次總統競選視覺、三獲金曲獎最佳專輯包裝",
     "healthScore": 87
   },
@@ -3685,8 +4213,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從煙囪之島到淨零台灣：40年環保運動的覺醒之路",
     "healthScore": 98
   },
@@ -3699,7 +4227,7 @@
     "lastVerified": "2026-03-21",
     "lastHumanReview": true,
     "featured": true,
-    "wordCount": 1972,
+    "wordCount": 1981,
     "tagCount": 6,
     "tags": ["PTT", "BBS", "網路文化", "鄉民", "數位民主", "社群媒體"],
     "translations": {
@@ -3707,10 +4235,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "一個 1995 年架在宿舍裡的 BBS，三十年後依然用純文字介面運作，卻深刻塑造了台灣的網路語言、政治討論與集體記憶",
-    "healthScore": 82
+    "healthScore": 86
   },
   {
     "title": "楊右任：從街頭塗鴉中輟生到非洲舊鞋救命的台灣青年英雄",
@@ -3736,8 +4264,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "55a64bba",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "楊右任是台灣社會創業家與人道救援工作者，舊鞋救命國際基督關懷協會創辦人。以一張海報號召20萬人捐鞋援助東非肯亞兒童免受沙蚤侵害，獲2017年十大傑出青年。他從澳洲街頭混混轉變為宣教士，將物資援助升級為永續社區計畫，讓台灣青年看到『小行動、大改變』的可能。",
     "healthScore": 52
   },
@@ -3759,7 +4287,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "93b360af",
+    "commitHash": "897d485e",
     "description": "黃震南是台灣文史工作者、藏書家與作家，以PTT暱稱Sizumaru起家，經營「活水來冊房」專頁分享台灣歷史與舊書文化。著有《台灣史上最有梗的台灣史》等書，被譽為藏書界的竹野內豐。他從嘉義六腳書香家庭出發，父子南北分工蒐集文獻，致力讓嚴肅台灣史變得有趣親民。",
     "healthScore": 50
   },
@@ -3772,10 +4300,10 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3753,
+    "wordCount": 3831,
     "tagCount": 6,
     "tags": [
-      "原住民藝術",
+      "原住民族",
       "當代藝術",
       "傳統工藝",
       "身份認同",
@@ -3787,8 +4315,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從傳統工藝到當代創作，探索台灣原住民藝術家如何在全球藝術舞台上發聲，重新定義原住民身份與當代藝術的對話",
     "healthScore": 65
   },
@@ -3810,7 +4338,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從張照堂1965年引領現代攝影革命，到阮義忠《人與土地》定義紀實美學，台灣攝影在光影中記錄島嶼故事",
     "healthScore": 86
   },
@@ -3832,53 +4360,9 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從鄭問征服日本成為「亞洲至寶」，到蔡志忠用漫畫詮釋古典哲學，台灣漫畫在世界舞台展現獨特文化魅力",
     "healthScore": 83
-  },
-  {
-    "title": "台灣原住民族16族文化地圖",
-    "slug": "台灣原住民族16族文化地圖",
-    "category": "culture",
-    "subcategory": "族群文化",
-    "date": "2026-03-20",
-    "lastVerified": "2026-03-20",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1918,
-    "tagCount": 5,
-    "tags": ["原住民族", "文化", "祭典", "語言", "當代創作"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 3,
-    "commitHash": "42643155",
-    "description": "探索台灣16個原住民族的分布區域、語言系統、重要祭典與當代創作發展，了解台灣原住民族的多元文化面貌",
-    "healthScore": 50
-  },
-  {
-    "title": "台灣原住民語言復振運動",
-    "slug": "台灣原住民語言復振運動",
-    "category": "culture",
-    "subcategory": "族群文化",
-    "date": "2026-03-20",
-    "lastVerified": "2026-03-20",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 2278,
-    "tagCount": 5,
-    "tags": ["原住民族語言", "語言復振", "族語教育", "語言政策", "文化傳承"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 3,
-    "commitHash": "42643155",
-    "description": "從語言流失危機到復振行動，探討台灣原住民族語言保存的挑戰、政策發展與社區實踐成果",
-    "healthScore": 53
   },
   {
     "title": "台灣廟會與陣頭文化",
@@ -3897,10 +4381,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "八家將的威武，電音三太子的創新，媽祖遶境的虔誠——台灣廟會是信仰與狂歡的完美結合",
-    "healthScore": 81
+    "healthScore": 84
   },
   {
     "title": "台灣漫畫與動漫文化",
@@ -3919,10 +4403,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從漫畫王的黃金年代到CCC創作集的文創復興，台灣漫畫如何在日漫夾擊下找到自己的聲音",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "台灣老街文化與商業街區",
@@ -3942,7 +4426,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從清代港口繁華到日治巴洛克洋樓，台灣老街是一部用磚瓦寫成的庶民史",
     "healthScore": 90
   },
@@ -3964,7 +4448,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從地下塗鴉到合法彩繪，城市牆面如何成為台灣藝術家的創作舞台",
     "healthScore": 59
   },
@@ -3977,7 +4461,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 2557,
+    "wordCount": 2560,
     "tagCount": 5,
     "tags": ["Economy", "企業", "電信業", "數位轉型", "國營企業民營化"],
     "translations": {
@@ -3985,10 +4469,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "台灣最大電信業者，從國營壟斷到數位轉型的領航者",
-    "healthScore": 55
+    "healthScore": 58
   },
   {
     "title": "中鋼：鐵頭部長與十大建設的鋼鐵傳奇",
@@ -4007,10 +4491,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從趙耀東歐美談判智取技術，到高雄小港升起的第一縷白煙，中鋼用50年打造台灣重工業脊樑，是十大建設最成功的明珠",
-    "healthScore": 75
+    "healthScore": 78
   },
   {
     "title": "仁寶電腦",
@@ -4029,10 +4513,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "全球第二大筆電代工龍頭，台灣ODM產業的重要推手",
-    "healthScore": 57
+    "healthScore": 60
   },
   {
     "title": "兆豐金控：從日治官銀到台商全球金融夥伴",
@@ -4051,10 +4535,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
-    "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網絡，成為台商走向世界的重要推手",
-    "healthScore": 77
+    "revision": 4,
+    "commitHash": "84e04168",
+    "description": "承襲1897年台灣銀行血脈，歷經三次改名兩次合併，兆豐金控用127年時間在38國建立金融網路，成為台商走向世界的重要推手",
+    "healthScore": 80
   },
   {
     "title": "台灣企業：台塑集團",
@@ -4073,10 +4557,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "台灣經營之神王永慶打造的石化王國，台塑四寶的製造傳奇",
-    "healthScore": 56
+    "healthScore": 59
   },
   {
     "title": "台泥：台灣第一上市公司的綠色轉型傳奇",
@@ -4096,7 +4580,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1962年台灣證交所為它而生，股票代號1101象徵台股起源。從辜家三代經營76年，台泥用一座座水泥窯見證台灣建設奇蹟，如今轉型綠色企業迎戰碳中和時代",
     "healthScore": 79
   },
@@ -4118,7 +4602,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從華碩分拆而生的代工巨頭，是 iPhone、遊戲機、筆電背後的隱形製造者，「電子五哥」之一",
     "healthScore": 58
   },
@@ -4139,10 +4623,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "台灣最大金控集團，霖園集團打造的金融帝國",
-    "healthScore": 57
+    "healthScore": 60
   },
   {
     "title": "奇美實業：許文龍的壓克力王國與博物館夢想",
@@ -4161,10 +4645,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從1960年台南仁德小工廠起步，許文龍用一生打造亞洲最大ABS材料王國，更創建奇美博物館回饋社會。證明台灣企業可以兼顧商業成功與人文關懷",
-    "healthScore": 79
+    "healthScore": 82
   },
   {
     "title": "宏碁集團 (Acer) - PC 產業的變革先驅",
@@ -4183,10 +4667,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從台灣桃園起家的個人電腦先驅，創造「多品牌、多通路」商業模式，成為全球 PC 產業的變革引擎",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "HTC：從Android開路先鋒到VR轉型之路",
@@ -4205,10 +4689,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "1997年王雪紅創立，製造全球第一支Android手機，2011年股價飆破千元超越諾基亞。智慧手機市場失利後，2015年轉戰VR領域，以VIVE重新定義虛擬實境產業",
-    "healthScore": 83
+    "healthScore": 86
   },
   {
     "title": "台灣企業：玉山金控",
@@ -4227,10 +4711,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "從信用卡專業銀行到數位金融先鋒，43歲最年輕金控總經理的突破故事",
-    "healthScore": 68
+    "healthScore": 71
   },
   {
     "title": "台灣企業：瑞昱半導體",
@@ -4250,7 +4734,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "七個工程師200萬創業，讓小螃蟹爬進全世界每台電腦的傳奇故事",
     "healthScore": 70
   },
@@ -4271,10 +4755,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "全球工業電腦領導廠商，從台灣起家的物聯網智能系統先驅",
-    "healthScore": 53
+    "healthScore": 56
   },
   {
     "title": "緯創資通 (Wistron) - 全球代工的變革先鋒",
@@ -4293,10 +4777,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從宏碁分拆而生的製造巨擘，年營收破兆的全球第四大電子代工廠，iPhone與 Dell 電腦背後的隱形推手",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "聯華電子 (UMC) - 台灣晶圓代工的開拓者",
@@ -4315,10 +4799,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "台灣第一家晶圓代工廠，半世紀來見證並推動台灣半導體產業從無到有的奇蹟征程",
-    "healthScore": 53
+    "healthScore": 56
   },
   {
     "title": "華碩電腦 (ASUS) - 主機板起家的科技巨人",
@@ -4337,10 +4821,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從台灣新竹起步的主機板小廠，蛻變為全球第五大個人電腦品牌的勵志傳奇",
-    "healthScore": 57
+    "healthScore": 60
   },
   {
     "title": "台灣企業：長春石化",
@@ -4360,7 +4844,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1949年台南小工廠到全球化工巨頭，「不上市不借錢」的隱形冠軍故事",
     "healthScore": 70
   },
@@ -4381,10 +4865,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "全球最大電子代工帝國，iPhone 背後的隱形冠軍",
-    "healthScore": 55
+    "healthScore": 58
   },
   {
     "title": "台灣新住民美食融合",
@@ -4404,7 +4888,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "當泰式酸辣遇上台灣甜鹹、當越南河粉邂逅台式滷味、當印尼香料擁抱本土食材，一場跨越國界的味覺革命正在台灣悄然發生。新住民帶來的不只是故鄉的料理，更是豐富台灣美食文化的全新可能。",
     "healthScore": 72
   },
@@ -4426,7 +4910,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "漁港新鮮直送、海鮮餐廳文化、蚵仔煎等海味料理，展現台灣四面環海的島嶼特色與豐富的海鮮飲食傳統",
     "healthScore": 56
   },
@@ -4448,12 +4932,12 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "醬油膏、沙茶醬、甜辣醬、豆瓣醬等台灣特色調味料，構成了島嶼獨特風味的基底，反映多元文化融合的調味哲學",
     "healthScore": 54
   },
   {
-    "title": "台灣交通運輸網絡",
+    "title": "台灣交通運輸網路",
     "slug": "台灣交通運輸網絡",
     "category": "geography",
     "subcategory": "交通與基礎設施",
@@ -4469,9 +4953,9 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
-    "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網絡",
+    "revision": 6,
+    "commitHash": "84e04168",
+    "description": "高鐵、捷運、公路、航空，編織移動台灣的立體交通網路",
     "healthScore": 65
   },
   {
@@ -4483,7 +4967,7 @@
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 4787,
+    "wordCount": 4788,
     "tagCount": 5,
     "tags": ["水資源", "水庫", "缺水", "水利工程", "氣候變遷"],
     "translations": {
@@ -4491,32 +4975,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "從缺水危機到水庫淤積，台灣水資源的挑戰與南北分配不均的困境",
-    "healthScore": 59
-  },
-  {
-    "title": "台灣原住民族歷史與正名運動",
-    "slug": "台灣原住民族歷史與正名運動",
-    "category": "history",
-    "subcategory": "史前與原住民",
-    "date": "2026-03-20",
-    "lastVerified": "2026-03-20",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1718,
-    "tagCount": 5,
-    "tags": ["原住民族", "正名運動", "身份認同", "社會運動", "文化保存"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 3,
-    "commitHash": "42643155",
-    "description": "從「番」到「原住民族」的正名歷程，一場持續數百年的身份認同與尊嚴之戰",
-    "healthScore": 48
+    "healthScore": 62
   },
   {
     "title": "台灣海洋貿易史",
@@ -4535,10 +4997,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "84e04168",
     "description": "大航海時代的台灣，從國際貿易中心到海盜王國的興衰傳奇",
-    "healthScore": 52
+    "healthScore": 55
   },
   {
     "title": "台灣選舉與政黨政治",
@@ -4558,7 +5020,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從黨外運動到多黨民主，台灣如何從威權走向民主的選舉文化演變",
     "healthScore": 59
   },
@@ -4580,7 +5042,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "遮風避雨的生活廊道，機車、攤販與人情味交織的台灣街頭記憶",
     "healthScore": 81
   },
@@ -4588,12 +5050,12 @@
     "title": "台灣原住民生態智慧與環境保育",
     "slug": "台灣原住民生態智慧與環境保育",
     "category": "nature",
-    "subcategory": "保育與環境",
+    "subcategory": "原住民生態智慧",
     "date": "2026-03-20",
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 4307,
+    "wordCount": 4380,
     "tagCount": 7,
     "tags": [
       "原住民族",
@@ -4609,10 +5071,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "探討台灣原住民族數千年來累積的傳統生態知識，以及在現代環境保育中的重要價值與實踐方式",
-    "healthScore": 59
+    "healthScore": 65
   },
   {
     "title": "台灣氣候變遷與淨零轉型",
@@ -4638,10 +5100,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "台灣面臨氣候變遷衝擊，從極端氣候頻繁發生到2050淨零碳排目標的政策規劃，探討能源轉型過程中的機會與挑戰",
-    "healthScore": 56
+    "healthScore": 59
   },
   {
     "title": "台灣海洋生態與珊瑚礁保育",
@@ -4660,10 +5122,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "台灣四面環海擁有豐富海洋生態，從珊瑚礁白化危機到鯨豚保育，探討海洋國家公園的保護成效與未來挑戰",
-    "healthScore": 46
+    "healthScore": 49
   },
   {
     "title": "台灣環境運動史",
@@ -4689,10 +5151,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "台灣環境運動從1980年代反污染抗爭到近年減塑運動的發展軌跡，見證台灣社會對環境意識的覺醒與民主化進程的交織",
-    "healthScore": 50
+    "healthScore": 53
   },
   {
     "title": "台灣高山生態系與冰河孑遺",
@@ -4719,7 +5181,7 @@
       "ja": false
     },
     "revision": 2,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探討台灣3000公尺以上高山環境的獨特生態系統，從台灣杉、玉山杜鵑到冰河時期孑遺物種的珍貴生物多樣性",
     "healthScore": 56
   },
@@ -4741,7 +5203,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "c3290b12",
+    "commitHash": "b7c40b44",
     "description": "世界麵包大賽冠軍，以荔枝玫瑰麵包驚艷國際，從屏東鄉下到世界頂尖烘焙職人",
     "healthScore": 39
   },
@@ -4770,7 +5232,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "c3290b12",
+    "commitHash": "b7c40b44",
     "description": "均一教育平台創辦人，台灣版可汗學院，致力以科技消弭城鄉教育落差",
     "healthScore": 40
   },
@@ -4792,7 +5254,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "c3290b12",
+    "commitHash": "b7c40b44",
     "description": "台大電機系教授、翻轉教育推手，開發 PaGamO 遊戲化學習平台，將台灣教育創新帶上國際舞台",
     "healthScore": 39
   },
@@ -4814,7 +5276,7 @@
       "ja": false
     },
     "revision": 3,
-    "commitHash": "c3290b12",
+    "commitHash": "b7c40b44",
     "description": "品學堂創辦人，推動台灣閱讀素養教育，致力改變「會考試但不會思考」的教育困境",
     "healthScore": 38
   },
@@ -4822,12 +5284,12 @@
     "title": "台灣原住民族土地正義與傳統領域",
     "slug": "台灣原住民族土地正義與傳統領域",
     "category": "society",
-    "subcategory": "社會運動",
+    "subcategory": "人權與平等",
     "date": "2026-03-20",
     "lastVerified": "2026-03-20",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3387,
+    "wordCount": 3459,
     "tagCount": 6,
     "tags": [
       "原住民族",
@@ -4842,10 +5304,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 3,
-    "commitHash": "42643155",
+    "revision": 4,
+    "commitHash": "9e563072",
     "description": "探討台灣原住民族土地權利的歷史脈絡、法律發展、傳統領域劃設爭議與原住民族轉型正義委員會的工作成果",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "台灣環境正義與鄰避爭議",
@@ -4864,10 +5326,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 2,
-    "commitHash": "42643155",
+    "revision": 3,
+    "commitHash": "84e04168",
     "description": "探討台灣環境負擔分配不均現象，從焚化爐、核廢料到石化業的鄰避衝突，分析環境不平等問題與社會公義議題",
-    "healthScore": 46
+    "healthScore": 49
   },
   {
     "title": "AI人工智慧產業",
@@ -4887,7 +5349,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從製造NVIDIA晶片到打造AI生態系，台灣如何在AI時代找到自己的定位",
     "healthScore": 82
   },
@@ -4909,7 +5371,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從全球最大動畫代工王國到原創內容新勢力，台灣數位影像產業半世紀的蛻變之路",
     "healthScore": 84
   },
@@ -4930,8 +5392,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "3c599304",
+    "revision": 6,
+    "commitHash": "c8a997a5",
     "description": "當 AI 模型用人類的語言說著別人寫的故事，台灣人要怎麼確保自己的故事不被改寫？",
     "healthScore": 55
   },
@@ -4953,7 +5415,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從日治時期石川欽一郎的啟蒙，到當代簡忠威揚名國際，台灣水彩畫走過百年歷程，成為亞洲最活躍的水彩創作重鎮。",
     "healthScore": 55
   },
@@ -4974,8 +5436,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從師範體系到專業藝術大學，台灣藝術教育的體制變革與人才培育",
     "healthScore": 75
   },
@@ -4997,7 +5459,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "47 期，四年，一場用攝影和文字發動的安靜革命——台灣報導文學的起點",
     "healthScore": 54
   },
@@ -5018,8 +5480,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從舊建築活化到創意聚落，台灣文化創意園區的發展歷程與創新模式",
     "healthScore": 65
   },
@@ -5041,7 +5503,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從日治時期工廠製品到本土文化象徵，台灣花布的身份認同之旅",
     "healthScore": 65
   },
@@ -5063,7 +5525,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "e3056e83",
+    "commitHash": "0f3b6505",
     "description": "台灣作為貿易導向經濟體，積極推動CPTPP入會、新南向政策等多元化貿易戰略，在地緣政治限制下尋求國際經貿空間突破。",
     "healthScore": 59
   },
@@ -5084,10 +5546,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "e3056e83",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "台灣產業結構從勞力密集轉向知識密集，透過5+2產業創新、6大核心戰略產業等政策，推動傳統製造業升級與新興產業發展。",
-    "healthScore": 62
+    "healthScore": 65
   },
   {
     "title": "島嶼的蛻變：台灣產業轉型與經濟發展軌跡",
@@ -5113,8 +5575,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從農業社會到科技島國，台灣70年產業轉型的完整軌跡與經濟奇蹟密碼",
     "healthScore": 75
   },
@@ -5142,8 +5604,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從農業社會到亞洲四小龍，再到科技島的三次華麗轉身，台灣產業轉型的完整故事",
     "healthScore": 75
   },
@@ -5164,8 +5626,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從農業社會到科技島國，探索台灣如何在短短半世紀內實現經濟奇蹟，成為全球高科技產業的關鍵樞紐",
     "healthScore": 72
   },
@@ -5187,7 +5649,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從玉井芒果冰到雪花冰革命，探索台灣人冬天也要吃冰的獨特文化",
     "healthScore": 57
   },
@@ -5208,8 +5670,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "從珍珠奶茶到精品茶飲，台灣手搖飲文化的崛起與全球擴張",
     "healthScore": 72
   },
@@ -5231,7 +5693,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
     "healthScore": 62
   },
@@ -5253,7 +5715,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "1949大遷移帶來的各省味道，從竹籬笆內的廚房到眷村拆遷後的味覺保存",
     "healthScore": 59
   },
@@ -5274,32 +5736,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "台灣素食人口比例全球前三，從佛教素食傳統到現代素料創新的文化演進",
     "healthScore": 59
-  },
-  {
-    "title": "台灣豆漿與早餐店",
-    "slug": "台灣豆漿與早餐店",
-    "category": "food",
-    "subcategory": "飲品文化",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2035,
-    "tagCount": 5,
-    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "美而美"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "42643155",
-    "description": "從永和豆漿的起源神話到美而美加盟王國，探索台灣早餐店的密度傳奇",
-    "healthScore": 67
   },
   {
     "title": "台灣鹹酥雞",
@@ -5319,7 +5759,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "台灣最普遍的宵夜文化，從鹹酥雞攤的社會學到炸物美學的進化",
     "healthScore": 64
   },
@@ -5341,7 +5781,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從吳寶春的世界冠軍到85度C的國際擴張，探索台式麵包的獨特魅力",
     "healthScore": 58
   },
@@ -5363,7 +5803,7 @@
       "ja": false
     },
     "revision": 10,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "客家人豐富多元的飲食文化，從擂茶的醇厚香味到野薑花粽的山林風情，展現客家族群勤儉持家與就地取材的生活智慧",
     "healthScore": 63
   },
@@ -5392,8 +5832,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "1949-1987戒嚴時期的政治迫害、文學禁書，以及民主化後的平反與轉型正義",
     "healthScore": 75
   },
@@ -5421,10 +5861,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "e3056e83",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "1960-1990年代台灣創造了舉世矚目的經濟奇蹟，從農業社會轉型為工業化國家，與韓國、香港、新加坡並列亞洲四小龍。",
-    "healthScore": 63
+    "healthScore": 66
   },
   {
     "title": "台灣便利商店文化",
@@ -5451,8 +5891,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "密度世界第一的便利商店王國，7-11與全家的在地化創新，重新定義現代生活方式",
     "healthScore": 73
   },
@@ -5473,10 +5913,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "探索台灣KTV文化的發展歷程，從日本引進的卡拉OK到本土化的包廂文化，好樂迪與錢櫃的競爭時代，點歌排行榜如何成為流行文化指標，以及疫情後的產業轉型挑戰",
-    "healthScore": 62
+    "healthScore": 65
   },
   {
     "title": "台灣台語歌曲演進：從阿伯歌到文青新寵的身份翻轉",
@@ -5496,7 +5936,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "追溯台灣台語歌曲從那卡西、洪一峰、江蕙時代到茄子蛋、拍謝少年等新世代樂團的演變歷程，探索台語音樂如何重新獲得年輕世代認同",
     "healthScore": 62
   },
@@ -5517,8 +5957,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從大支、熱狗到頑童MJ116，蛋堡、Leo王，台灣嘻哈文化的在地化與金曲獎認可",
     "healthScore": 75
   },
@@ -5540,7 +5980,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣客家音樂從傳統山歌、客家八音到林生祥、交工樂隊等現代音樂人的創新歷程，以及金曲獎客語專輯的重要里程碑",
     "healthScore": 58
   },
@@ -5562,7 +6002,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣影視配樂的發展軌跡，從侯孝賢與林強的合作到魏德聖與范宗沛的史詩配樂，再到雷亞遊戲的電玩音樂創新，台灣如何建立獨特的影像聲音語言",
     "healthScore": 65
   },
@@ -5590,10 +6030,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "探索台灣樂器製造業的發展歷程，從后里薩克斯風的全球霸主地位到吉他代工王國，再到音樂盒製造的精密工藝，台灣如何從代工走向自有品牌",
-    "healthScore": 72
+    "healthScore": 75
   },
   {
     "title": "黃金旋律的傳承：台灣流行音樂的歷史與文化地位",
@@ -5620,7 +6060,7 @@
       "ja": false
     },
     "revision": 1,
-    "commitHash": "e3056e83",
+    "commitHash": "0f3b6505",
     "description": "從民歌音樂運動到周杰倫現象，探索台灣流行音樂如何塑造華語音樂版圖",
     "healthScore": 63
   },
@@ -5641,10 +6081,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "從1990年代 Rave 派對文化到 Road to Ultra 電音節，台灣電子音樂如何從地下走向主流，孕育出國際級 DJ 與獨立電子廠牌",
-    "healthScore": 61
+    "healthScore": 64
   },
   {
     "title": "台灣音樂產業與串流時代：從唱片行到數位平台的轉型之路",
@@ -5655,7 +6095,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3225,
+    "wordCount": 3231,
     "tagCount": 6,
     "tags": ["音樂產業", "串流音樂", "KKBOX", "數位音樂", "唱片行", "獨立音樂"],
     "translations": {
@@ -5663,39 +6103,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "42643155",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "探討台灣音樂產業如何從唱片行黃金時代走過盜版危機，率先發展出KKBOX全球首個合法串流平台，到今日與Spotify、Apple Music並存的數位音樂生態",
-    "healthScore": 72
-  },
-  {
-    "title": "台灣音樂祭文化：從春天吶喊到遍地開花的青年文化載體",
-    "slug": "台灣音樂祭文化",
-    "category": "music",
-    "subcategory": "獨立與搖滾",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2168,
-    "tagCount": 6,
-    "tags": [
-      "音樂祭",
-      "春天吶喊",
-      "海洋音樂祭",
-      "大港開唱",
-      "獨立音樂",
-      "青年文化"
-    ],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 4,
-    "commitHash": "42643155",
-    "description": "探索台灣音樂祭從春吶、海洋音樂祭到大港開唱的發展歷程，如何成為獨立樂團孵化器與青年文化的核心表達平台",
-    "healthScore": 65
+    "healthScore": 75
   },
   {
     "title": "島嶼的山海之巔：台灣國家公園的生態與地景",
@@ -5714,10 +6125,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 1,
-    "commitHash": "e3056e83",
+    "revision": 2,
+    "commitHash": "84e04168",
     "description": "探索台灣九座國家公園的獨特生態系統與保育價值，從亞熱帶海岸到高山雪線的完整地景",
-    "healthScore": 59
+    "healthScore": 62
   },
   {
     "title": "台灣步道文化與公民守護",
@@ -5736,8 +6147,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從千里步道協會到iTrail平台，探索台灣獨特的步道守護文化與公民科學精神",
     "healthScore": 63
   },
@@ -5758,8 +6169,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "全世界最大的蛾，翅膀展開如一本攤開的書——牠一生不吃東西，只為飛一趟",
     "healthScore": 61
   },
@@ -5780,8 +6191,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "全世界被走私最多的哺乳動物，在台灣找到了一個安全的家",
     "healthScore": 58
   },
@@ -5812,7 +6223,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "全球三分之一鯨豚物種的棲息地——從昔日捕鯨到今日賞鯨，臺灣如何轉身成為海洋生態研究重鎮？",
     "healthScore": 54
   },
@@ -5834,7 +6245,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣搖滾國寶，本土搖滾樂的代名詞，以《挪威的森林》等作品奠定搖滾地位",
     "healthScore": 49
   },
@@ -5856,7 +6267,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台積電董事長，張忠謀接班人，地緣政治中的半導體外交家",
     "healthScore": 48
   },
@@ -5878,7 +6289,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "理論物理學家，被譽為中國物理學之父",
     "healthScore": 60
   },
@@ -5899,8 +6310,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "台灣觀光教父，從亞都麗緻總裁到偏鄉教育推動者",
     "healthScore": 57
   },
@@ -5930,7 +6341,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《七里香》《無怨的青春》作者，華語詩壇最暢銷詩人，蒙古族",
     "healthScore": 61
   },
@@ -5952,7 +6363,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "用繪本溫暖世界的插畫詩人，讓台灣繪本走上國際舞台",
     "healthScore": 53
   },
@@ -5974,7 +6385,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "卑南族天后，華語流行音樂最高銷量天后之一，同志平權代言人",
     "healthScore": 49
   },
@@ -5996,7 +6407,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "趨勢科技創辦人，全球資安產業先驅，台灣軟體業國際化典範",
     "healthScore": 49
   },
@@ -6018,7 +6429,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "華語影壇多棲女王，集導演、演員、歌手、編劇於一身",
     "healthScore": 48
   },
@@ -6040,7 +6451,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "金曲獎金馬獎視覺設計操刀者，究方社創辦人，台灣視覺識別設計領軍人物",
     "healthScore": 58
   },
@@ -6061,8 +6472,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "980d37b5",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "美麗島事件領袖，民主運動先驅，坐牢25年的政治受難者",
     "healthScore": 55
   },
@@ -6084,7 +6495,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從戶外野台到小巨蛋，台灣歌仔戲第一品牌用四代人的堅持證明：傳統不是過去式，是進行式",
     "healthScore": 47
   },
@@ -6106,7 +6517,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "世界高爾夫球后，LPGA15座冠軍，曾連續109週世界第一",
     "healthScore": 53
   },
@@ -6136,7 +6547,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "侯孝賢御用編劇，《荒人手記》作者，文學世家朱西甯之女",
     "healthScore": 56
   },
@@ -6157,8 +6568,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "980d37b5",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "超導體物理學家，1987年液氮溫度超導突破的領導者",
     "healthScore": 61
   },
@@ -6180,7 +6591,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "屏風表演班創辦人，台灣喜劇之王，2013年病逝",
     "healthScore": 61
   },
@@ -6209,7 +6620,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "華語流行音樂教父級製作人，以《山丘》《給自己的歌》等作品詮釋人生",
     "healthScore": 53
   },
@@ -6239,31 +6650,9 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《殺夫》《迷園》作者，台灣女性主義文學先鋒",
     "healthScore": 60
-  },
-  {
-    "title": "杜奕瑾",
-    "slug": "杜奕瑾",
-    "category": "people",
-    "subcategory": "科技與企業",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 814,
-    "tagCount": 5,
-    "tags": ["杜奕瑾", "PTT", "Taiwan AI Labs", "數位民主", "人工智慧"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 5,
-    "commitHash": "cbd88cc3",
-    "description": "PTT 創辦人、微軟 AI 研發主管、台灣人工智慧實驗室創辦人——從 BBS 言論自由到 AI 科技向善的台灣數位先驅",
-    "healthScore": 57
   },
   {
     "title": "杜聰明",
@@ -6283,7 +6672,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣第一位醫學博士，台灣現代醫學之父",
     "healthScore": 53
   },
@@ -6305,7 +6694,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "新加坡出生台灣發展的華語創作天王，以《江南》等作品風靡華人世界",
     "healthScore": 51
   },
@@ -6326,8 +6715,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "980d37b5",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從哈佛學霸到NBA總冠軍，引爆全球林來瘋的台裔美國球員",
     "healthScore": 64
   },
@@ -6349,7 +6738,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "廣達電腦創辦人，筆記型電腦代工之王，AI時代的轉型先鋒",
     "healthScore": 46
   },
@@ -6377,7 +6766,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "民主運動先驅，林宅血案受害者，反核四運動領袖",
     "healthScore": 57
   },
@@ -6399,7 +6788,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "瓊瑤電影女王轉型武俠經典，華語影壇傳奇女星",
     "healthScore": 60
   },
@@ -6420,8 +6809,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從《不能說的秘密》到國際影展常客，低調演技派女星",
     "healthScore": 59
   },
@@ -6443,7 +6832,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "亞洲鐵人，1960羅馬奧運十項全能銀牌，台灣首位奧運獎牌得主",
     "healthScore": 51
   },
@@ -6465,31 +6854,9 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣新電影運動核心人物，坎城最佳導演，都市疏離的詩人",
     "healthScore": 65
-  },
-  {
-    "title": "江振誠",
-    "slug": "江振誠",
-    "category": "people",
-    "subcategory": "餐飲與職人",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1758,
-    "tagCount": 7,
-    "tags": ["人物", "江振誠", "名廚", "米其林", "RAW", "餐飲", "台灣"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "980d37b5",
-    "description": "台灣國際名廚，世界 50 大餐廳主廚，RAW 創辦人，以「八角哲學」聞名全球",
-    "healthScore": 55
   },
   {
     "title": "王建民",
@@ -6509,7 +6876,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣旅美棒球投手，伸卡球威震大聯盟",
     "healthScore": 52
   },
@@ -6531,7 +6898,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台塑集團創辦人，從米店起家到石化帝國的經營之神",
     "healthScore": 45
   },
@@ -6561,7 +6928,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《台北人》作者，現代文學大師與崑曲復興推手",
     "healthScore": 62
   },
@@ -6592,7 +6959,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣創作歌手、演員，三金得主（金曲、金鐘、金馬），以草根親切形象與獨特唱腔聞名",
     "healthScore": 55
   },
@@ -6614,7 +6981,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣網球一哥，2010溫布頓八強，四屆奧運代表",
     "healthScore": 52
   },
@@ -6636,7 +7003,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "和碩聯合科技董事長，科技與人文的跨界思想家，誠品書店重要支持者",
     "healthScore": 48
   },
@@ -6658,7 +7025,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "Google台灣前董事總經理，台灣AI產業推手，科技人才培育先行者",
     "healthScore": 51
   },
@@ -6680,7 +7047,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "飛躍的羚羊，1968墨西哥奧運80公尺跨欄銅牌得主",
     "healthScore": 47
   },
@@ -6702,7 +7069,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "華語流行音樂教父，以《鹿港小鎮》《童年》等經典作品影響華人世界",
     "healthScore": 48
   },
@@ -6723,8 +7090,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "醣化學世界權威，中研院前院長，諾貝爾獎候選人",
     "healthScore": 49
   },
@@ -6746,7 +7113,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "桌球教父，四屆奧運代表，獨自苦練的孤獨英雄",
     "healthScore": 52
   },
@@ -6767,8 +7134,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "英業達集團創辦人，台灣電子代工產業先驅，筆記型電腦製造巨擘",
     "healthScore": 50
   },
@@ -6790,7 +7157,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "5a5e1eab",
+    "commitHash": "5a2b435c",
     "description": "威尼斯金獅獎得主，馬來西亞華人，慢電影美學大師",
     "healthScore": 71
   },
@@ -6812,7 +7179,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "四度入圍葛萊美獎最佳專輯包裝設計的台灣視覺設計師",
     "healthScore": 57
   },
@@ -6834,7 +7201,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "史學大師，《萬古江河》作者，匹茲堡大學榮休教授",
     "healthScore": 53
   },
@@ -6856,7 +7223,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "奇美集團創辦人，企業家、小提琴家、藝術收藏家的三重身份，奇美博物館創建者",
     "healthScore": 51
   },
@@ -6877,8 +7244,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "2012倫敦奧運舉重銀牌遞補金牌，2016里約奧運金牌",
     "healthScore": 55
   },
@@ -6900,7 +7267,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從宜蘭女孩到瑪乘舞團首席，再回台灣創立拉芳舞團——她用身體說出台灣最有力量的故事",
     "healthScore": 47
   },
@@ -6922,7 +7289,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "2013溫布頓女雙冠軍，台灣首位大滿貫冠軍",
     "healthScore": 53
   },
@@ -6944,7 +7311,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣秀場文化代表，國民喜劇演員，2017年病逝",
     "healthScore": 58
   },
@@ -6965,8 +7332,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "980d37b5",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "台灣第16任總統，中華民國憲政史上首位以副總統身分參選並成功當選的政治人物",
     "healthScore": 71
   },
@@ -6988,7 +7355,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "5a5e1eab",
+    "commitHash": "5a2b435c",
     "description": "表演工作坊創辦人，《暗戀桃花源》原創者，華語劇場教父",
     "healthScore": 61
   },
@@ -7010,7 +7377,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "鴻海精密創辦人，全球電子製造服務龍頭",
     "healthScore": 53
   },
@@ -7032,7 +7399,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣舉重女神，2021 東京奧運金牌得主，59 公斤級三項奧運紀錄保持人",
     "healthScore": 57
   },
@@ -7054,7 +7421,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "左投悍將，MLB洛杉磯道奇隊，台灣棒球驕傲",
     "healthScore": 53
   },
@@ -7076,7 +7443,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣歌謠之父，創作《望春風》《雨夜花》《月夜愁》等經典台語歌謠",
     "healthScore": 51
   },
@@ -7098,7 +7465,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "標槍好手，2017世大運91.36公尺亞洲紀錄",
     "healthScore": 55
   },
@@ -7120,7 +7487,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《艋舺》導演，從演員轉型導演，含爭議面向的電影人",
     "healthScore": 59
   },
@@ -7149,7 +7516,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《原鄉人》作者，台灣文學之父，貧病交加仍堅持創作的文學鬥士",
     "healthScore": 57
   },
@@ -7171,7 +7538,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "「設計詩人」，自由落體設計教室創辦人，台灣平面設計界先驅",
     "healthScore": 59
   },
@@ -7193,7 +7560,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "流行病學家，前副總統與行政院長，SARS與COVID-19抗疫功臣",
     "healthScore": 51
   },
@@ -7215,7 +7582,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "獨立音樂先驅，跨年演唱會連唱30年傳奇，華語樂壇的創作鬼才",
     "healthScore": 51
   },
@@ -7245,7 +7612,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《將軍族》《山路》作者，台灣社會寫實主義文學旗手",
     "healthScore": 62
   },
@@ -7267,31 +7634,9 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台東菜販的平凡善舉，用一生詮釋什麼是真正的富有",
     "healthScore": 53
-  },
-  {
-    "title": "陳水扁",
-    "slug": "陳水扁",
-    "category": "people",
-    "subcategory": "政治與民主",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1971,
-    "tagCount": 5,
-    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "貪污案"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 5,
-    "commitHash": "980d37b5",
-    "description": "第十、十一任總統，2000年首次政黨輪替主角，台灣民主化重要人物",
-    "healthScore": 56
   },
   {
     "title": "陳玉勳",
@@ -7311,7 +7656,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台灣喜劇電影導演，《熱帶魚》《總鋪師》《消失的情人節》創作者",
     "healthScore": 59
   },
@@ -7332,32 +7677,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "980d37b5",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "日職巨人隊外野手，台灣旅日棒球代表",
     "healthScore": 54
-  },
-  {
-    "title": "馬英九",
-    "slug": "馬英九",
-    "category": "people",
-    "subcategory": "政治與民主",
-    "date": "2026-03-19",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 2203,
-    "tagCount": 5,
-    "tags": ["總統", "國民黨", "兩岸關係", "ECFA", "台北市長"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 6,
-    "commitHash": "980d37b5",
-    "description": "第十二、十三任總統，兩岸關係破冰推手，ECFA簽署者",
-    "healthScore": 58
   },
   {
     "title": "魏哲家",
@@ -7377,7 +7700,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "台積電總裁，3奈米製程技術推手，半導體製造工藝大師",
     "healthScore": 47
   },
@@ -7407,7 +7730,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "用電影書寫台灣史詩，從《海角七號》到《賽德克・巴萊》的夢想實踐者",
     "healthScore": 53
   },
@@ -7428,8 +7751,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從國中同學到奧運金牌：「麟洋配」34分鐘內直落二擊敗中國，寫下台灣羽球史上第一面奧運金牌",
     "healthScore": 87
   },
@@ -7459,7 +7782,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《兒子的大玩偶》《看海的日子》作者，宜蘭鄉土文學代表作家",
     "healthScore": 60
   },
@@ -7489,7 +7812,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "《野火集》作者，華語世界最具影響力的散文家與前台灣文化部長",
     "healthScore": 55
   },
@@ -7511,7 +7834,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從 70 國到 12 國，台灣如何在沒有聯合國席位的情況下維持國際存在感",
     "healthScore": 67
   },
@@ -7532,8 +7855,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從AlphaGo震撼到生成式AI浪潮，台灣如何以「小國大戰略」在人工智慧領域找到獨特定位",
     "healthScore": 75
   },
@@ -7554,8 +7877,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "由「PTT之父」杜奕瑾創立的非營利 AI 研究機構，專注智慧醫療、智慧城市與假訊息防制，推動科技向善與開源精神",
     "healthScore": 58
   },
@@ -7576,8 +7899,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣從AlphaGo震撼到生成式AI時代，如何運用半導體優勢打造AI生態系，成為全球AI發展的關鍵力量",
     "healthScore": 75
   },
@@ -7590,7 +7913,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 4054,
+    "wordCount": 4055,
     "tagCount": 5,
     "tags": ["新創企業", "創業生態系", "創投基金", "加速器", "創新育成"],
     "translations": {
@@ -7598,8 +7921,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從代工思維到創新驅動，台灣如何建構完整的新創創業生態系統",
     "healthScore": 75
   },
@@ -7621,7 +7944,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從政府政策到民間創新，台灣如何在全球網路威脅中建構完整的資訊安全產業生態系",
     "healthScore": 75
   },
@@ -7643,7 +7966,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從 OEM 代工到自有品牌，台灣音響產業的技術實力與全球市場地位",
     "healthScore": 57
   },
@@ -7656,7 +7979,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3403,
+    "wordCount": 3405,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -7664,8 +7987,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "當全世界的鍵盤都長一樣，不同文明如何把自己的文字塞進 26 個英文字母裡？從台灣注音到韓國二伐式，輸入法是一場靜默的文化保衛戰",
     "healthScore": 65
   },
@@ -7694,7 +8017,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣戰後至今的文學發展脈絡，從現代主義到本土文學，從鄉土文學論戰到多元文化書寫",
     "healthScore": 75
   },
@@ -7715,8 +8038,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從楊英風、朱銘到新世代，探索台灣雕塑藝術的演變軌跡與創作精神",
     "healthScore": 55
   },
@@ -7738,7 +8061,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "",
     "healthScore": 61
   },
@@ -7760,38 +8083,9 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "三十八年禁錮一夕解除，文學創作迎來大爆發——但自由不等於無拘束，新的挑戰悄然而至",
     "healthScore": 65
-  },
-  {
-    "title": "台灣原住民文化",
-    "slug": "台灣原住民文化",
-    "category": "culture",
-    "subcategory": "族群文化",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4542,
-    "tagCount": 6,
-    "tags": [
-      "原住民",
-      "族群文化",
-      "傳統藝術",
-      "正名運動",
-      "當代創作",
-      "語言復振"
-    ],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 7,
-    "commitHash": "42643155",
-    "description": "從十六族的多元傳統到當代藝術復振，探索台灣原住民文化的深厚底蘊與現代轉化",
-    "healthScore": 75
   },
   {
     "title": "台灣婚喪喜慶與人生禮俗",
@@ -7810,8 +8104,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從訂婚十二禮到辦桌文化，探索台灣人生禮俗如何在傳統與現代間找到平衡",
     "healthScore": 75
   },
@@ -7833,7 +8127,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從媽祖遶境到佛道融合，探索台灣寺廟如何成為信仰、社群與文化的生活中心",
     "healthScore": 72
   },
@@ -7862,8 +8156,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 11,
-    "commitHash": "8b9bd4b6",
+    "revision": 12,
+    "commitHash": "84e04168",
     "description": "從 K-pop MV 到首爾書展，「대만감성」如何讓台灣的日常街景成為亞洲最迷人的美學符號",
     "healthScore": 65
   },
@@ -7884,8 +8178,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探討戰後台灣新興宗教的興起與發展，包括佛教四大山頭、一貫道等宗教團體對社會文化的深遠影響",
     "healthScore": 75
   },
@@ -7915,7 +8209,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從紅葉少棒的傳奇到中華職棒的淚與汗——棒球如何成為台灣的「國球」",
     "healthScore": 65
   },
@@ -7936,8 +8230,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從嘉義雲霄社區的百年香腳技藝，到台灣遍布全島的製香產業——一門關於虔誠、手藝與堅持的古老行業",
     "healthScore": 62
   },
@@ -7959,7 +8253,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "全世界只有台灣還在日常使用的拼音系統——注音符號如何從百年前的古文字簡化方案，成為 2300 萬人的共同密碼",
     "healthScore": 71
   },
@@ -7980,8 +8274,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從台語、客家話到原住民語，台灣如何在多語社會中保存與發展母語文化",
     "healthScore": 72
   },
@@ -8010,8 +8304,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從出口導向到供應鏈關鍵節點：台灣如何在美中對抗中維持貿易優勢",
     "healthScore": 63
   },
@@ -8032,8 +8326,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從線性經濟轉向循環經濟，探索台灣資源回收、廢棄物處理與永續發展模式",
     "healthScore": 53
   },
@@ -8061,8 +8355,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從核能依賴到再生能源多元化，台灣如何在2050淨零目標下重塑能源結構",
     "healthScore": 73
   },
@@ -8083,8 +8377,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探討台灣從傳統農業轉型為現代精緻農業的歷程，包括有機農業、農村再生、休閒農業等創新發展模式",
     "healthScore": 75
   },
@@ -8113,8 +8407,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從稻米王國到精緻農業：台灣農業轉型與農村社區重生的故事",
     "healthScore": 61
   },
@@ -8127,7 +8421,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 3826,
+    "wordCount": 3831,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -8135,8 +8429,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從監管沙盒到數位銀行，探索台灣FinTech生態系統的發展歷程與創新成果",
     "healthScore": 55
   },
@@ -8149,7 +8443,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 2280,
+    "wordCount": 2281,
     "tagCount": 6,
     "tags": ["新創", "創業", "創投", "加速器", "AppWorks", "獨角獸"],
     "translations": {
@@ -8157,8 +8451,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "台灣新創生態的發展歷程，從早期挑戰到現今的加速器、創投環境與獨角獸追求",
     "healthScore": 69
   },
@@ -8179,32 +8473,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "台灣如何從傳統農業轉型為高科技精緻農業，創造農業奇蹟",
     "healthScore": 65
-  },
-  {
-    "title": "台灣原住民飲食文化",
-    "slug": "台灣原住民飲食文化",
-    "category": "food",
-    "subcategory": "族群飲食",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 2276,
-    "tagCount": 6,
-    "tags": ["原住民", "飲食文化", "小米", "野菜", "傳統料理", "部落美食"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 9,
-    "commitHash": "42643155",
-    "description": "從小米到野菜，探索台灣原住民族傳統飲食智慧與文化傳承",
-    "healthScore": 59
   },
   {
     "title": "台灣早餐文化",
@@ -8231,8 +8503,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "從蛋餅燒餅油條到永和豆漿的全球擴張，早餐店阿姨與台灣人的晨間儀式",
     "healthScore": 65
   },
@@ -8261,8 +8533,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從臭豆腐到豆腐乳，探索台灣獨特的發酵技術與醃製文化傳統",
     "healthScore": 62
   },
@@ -8284,7 +8556,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣獨特的地理結構，從中央山脈到西部平原，認識這座島嶼的地形多樣性",
     "healthScore": 72
   },
@@ -8305,8 +8577,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探索台灣獨特的島嶼地理特色，從板塊運動到地形結構，了解福爾摩沙島的自然奧秘",
     "healthScore": 60
   },
@@ -8327,8 +8599,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探討台灣位於歐亞板塊與菲律賓海板塊交界的地質特性，以及造成頻繁地震活動的原因",
     "healthScore": 75
   },
@@ -8350,7 +8622,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣獨特的河川系統，從濁水溪到高屏溪，了解島嶼地形如何塑造台灣的水文特色",
     "healthScore": 75
   },
@@ -8372,7 +8644,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從北到南的農業地景變化，彰顯台灣從「台灣穀倉」到「精緻農業」的轉型之路",
     "healthScore": 54
   },
@@ -8393,8 +8665,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從台北的國際都會到台南的古都風情，台灣各城市如何形塑獨特的地方認同",
     "healthScore": 75
   },
@@ -8415,8 +8687,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "從金門阿嬤的砲彈記憶到台北年輕人的佛系日常，七十年台海危機如何塑造了台灣人的集體心理",
     "healthScore": 65
   },
@@ -8444,8 +8716,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探討1949年國民政府遷台的歷史背景、過程與影響，以及戰後台灣的政治、經濟與社會重建",
     "healthScore": 75
   },
@@ -8467,7 +8739,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "探索台灣 16 族原住民豐富的音樂文化，從古調吟唱到傳統樂器，見證數千年文化傳承",
     "healthScore": 73
   },
@@ -8489,7 +8761,7 @@
       "ja": false
     },
     "revision": 9,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從1980年代地下搖滾到1990年代樂團興起，台灣搖滾樂如何從邊緣走向主流，成為華語搖滾重要力量",
     "healthScore": 70
   },
@@ -8511,60 +8783,9 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從「唱自己的歌」到改變整個華語音樂圈——1970年代那場屬於年輕人的文化革命",
     "healthScore": 52
-  },
-  {
-    "title": "台灣獨立音樂場景演變",
-    "slug": "台灣獨立音樂場景演變",
-    "category": "music",
-    "subcategory": "獨立與搖滾",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 4040,
-    "tagCount": 5,
-    "tags": ["獨立音樂", "地下樂團", "搖滾樂", "音樂產業", "次文化"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 7,
-    "commitHash": "42643155",
-    "description": "從地下樂團到獨立音樂，探索台灣非主流音樂三十年發展軌跡與文化意義",
-    "healthScore": 75
-  },
-  {
-    "title": "當代台灣獨立音樂場景",
-    "slug": "獨立音樂場景",
-    "category": "music",
-    "subcategory": "獨立與搖滾",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 5364,
-    "tagCount": 6,
-    "tags": [
-      "音樂",
-      "獨立音樂",
-      "live house",
-      "音樂節",
-      "地下音樂",
-      "獨立廠牌"
-    ],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 11,
-    "commitHash": "42643155",
-    "description": "從地下展演到產業矩陣，解析現代台灣獨立音樂生態圈的發展脈絡與文化影響力",
-    "healthScore": 65
   },
   {
     "title": "當代原住民創作歌手",
@@ -8584,7 +8805,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從張惠妹到舒米恩、桑布伊，台灣原住民歌手如何在現代音樂中傳承古老靈魂，創造獨特的當代原住民音樂風景",
     "healthScore": 75
   },
@@ -8614,8 +8835,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "268座三千公尺高山與百岳文化：台灣登山運動的發展與山岳保育挑戰",
     "healthScore": 65
   },
@@ -8636,8 +8857,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "2020年，台灣海域經歷史上最大規模珊瑚白化。從小琉球到東沙環礁，連保護區內的珊瑚都在高溫中死去。這暴露了什麼問題？",
     "healthScore": 72
   },
@@ -8658,8 +8879,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "面對海洋廢棄物、過度捕撈與氣候變遷，探討台灣海洋保育的現況、挑戰與創新解決方案",
     "healthScore": 75
   },
@@ -8669,10 +8890,10 @@
     "category": "nature",
     "subcategory": "野生動物",
     "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
+    "lastVerified": "2026-03-30",
+    "lastHumanReview": true,
     "featured": false,
-    "wordCount": 2737,
+    "wordCount": 2746,
     "tagCount": 7,
     "tags": ["石虎", "保育", "路殺", "棲地", "苗栗", "瀕危物種", "生態"],
     "translations": {
@@ -8680,10 +8901,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "942dc34a",
     "description": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
-    "healthScore": 63
+    "healthScore": 88
   },
   {
     "title": "台灣黑熊",
@@ -8711,7 +8932,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "胸前的白色 V 字是牠的簽名——台灣山林最後的王者，與牠未完的保育戰",
     "healthScore": 65
   },
@@ -8733,7 +8954,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從鐵籠裡的大象到 Xpark 的水母牆——台灣正在重新定義人與被展示動物的關係",
     "healthScore": 55
   },
@@ -8746,7 +8967,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": false,
-    "wordCount": 1498,
+    "wordCount": 1501,
     "tagCount": 6,
     "tags": ["ISO 3166", "國際標準", "開源軟體", "g0v", "數位主權", "台灣標示"],
     "translations": {
@@ -8754,10 +8975,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
-    "description": "從 ISO 代碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
-    "healthScore": 52
+    "revision": 6,
+    "commitHash": "84e04168",
+    "description": "從 ISO 程式碼到開源軟體——台灣的名字如何在全球數位基礎設施中被書寫、爭議與修正",
+    "healthScore": 53
   },
   {
     "title": "台灣媒體與新聞自由",
@@ -8777,7 +8998,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從黨國控制到媒體戰國時代：台灣新聞自由的民主化歷程與數位轉型挑戰",
     "healthScore": 61
   },
@@ -8805,8 +9026,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "從憲法架構、中央與地方選舉機制，到深層的政黨政治文化，全面解析台灣如何在複雜的地緣政治中，維繫一個活力四射且制度嚴謹的民主社會",
     "healthScore": 50
   },
@@ -8835,8 +9056,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從十二夜的眼淚到零撲殺的承諾——一座島嶼如何重新學會對待街上的生命",
     "healthScore": 65
   },
@@ -8858,7 +9079,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從聯考制度到十二年國教，台灣教育如何在競爭與多元之間尋求平衡",
     "healthScore": 75
   },
@@ -8879,15 +9100,15 @@
       "人情味",
       "便利商店",
       "日常生活",
-      "社區網絡"
+      "社區網路"
     ],
     "translations": {
       "en": false,
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "8b9bd4b6",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "真的假的我以為阿姨只會叫人家帥哥而已——寫早餐店阿姨如何成為整個社區的情報中心",
     "healthScore": 59
   },
@@ -8908,8 +9129,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "台灣如何透過社會住宅政策實現居住正義，讓每個人都有安身立命的地方",
     "healthScore": 65
   },
@@ -8937,8 +9158,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從野百合到太陽花，台灣如何透過社會運動實踐民主與推動社會進步",
     "healthScore": 75
   },
@@ -8951,7 +9172,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3552,
+    "wordCount": 3556,
     "tagCount": 5,
     "tags": ["5G", "數位轉型", "數位發展部", "智慧城市", "電信產業"],
     "translations": {
@@ -8959,31 +9180,9 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
-    "description": "台灣從4G領先到5G布局，探索數位轉型國家戰略與智慧應用發展歷程",
-    "healthScore": 75
-  },
-  {
-    "title": "台灣太空產業發展：從福衛計畫到商業太空時代",
-    "slug": "台灣太空產業發展",
-    "category": "technology",
-    "subcategory": "太空與前沿",
-    "date": "2026-03-18",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 3199,
-    "tagCount": 6,
-    "tags": ["太空產業", "衛星", "TASA", "福衛", "太空科技", "商業太空"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
     "revision": 6,
-    "commitHash": "42643155",
-    "description": "台灣太空產業從早期福衛衛星發展，到近年福衛八號量產化，以及立方衛星計畫推動商業太空供應鏈的發展歷程",
+    "commitHash": "84e04168",
+    "description": "台灣從4G領先到5G布局，探索數位轉型國家戰略與智慧應用發展歷程",
     "healthScore": 75
   },
   {
@@ -9004,7 +9203,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從代工思維到軟體創新，台灣如何在後半導體時代找到新定位",
     "healthScore": 61
   },
@@ -9025,8 +9224,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從早期代理商到原創開發商，台灣如何在全球遊戲市場中找到自己的聲音",
     "healthScore": 68
   },
@@ -9039,7 +9238,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 4380,
+    "wordCount": 4382,
     "tagCount": 5,
     "tags": ["電動車", "電池技術", "充電基礎設施", "淨零轉型", "綠色運輸"],
     "translations": {
@@ -9047,8 +9246,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從電池技術到充電基礎設施，探索台灣電動車產業的完整生態系與2030淨零轉型策略",
     "healthScore": 75
   },
@@ -9069,8 +9268,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "一張還沒發出去的晶片卡，花了 2.8 億賠償金——台灣數位政府的故事，是信任比技術更難 build 的證明",
     "healthScore": 65
   },
@@ -9083,7 +9282,7 @@
     "lastVerified": "2026-03-19",
     "lastHumanReview": false,
     "featured": true,
-    "wordCount": 3383,
+    "wordCount": 3397,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -9091,8 +9290,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "探索台灣電子商務20年發展歷程，以及數位支付如何重塑消費生活",
     "healthScore": 65
   },
@@ -9114,7 +9313,7 @@
       "ja": false
     },
     "revision": 5,
-    "commitHash": "b5e87a59",
+    "commitHash": "1a5fc7a9",
     "description": "從大航海時代到當代，各時代各民族如何看見這座島嶼",
     "healthScore": 66
   },
@@ -9136,7 +9335,7 @@
       "ja": false
     },
     "revision": 4,
-    "commitHash": "3c599304",
+    "commitHash": "b88d3899",
     "description": "從街頭散步的靈感，到為世界策展台灣的完整入口",
     "healthScore": 48
   },
@@ -9157,41 +9356,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從北美館到威尼斯雙年展台灣館，台灣當代藝術在全球舞台的獨特位置",
     "healthScore": 49
-  },
-  {
-    "title": "族群（閩南客家原住民外省新住民）",
-    "slug": "族群閩南客家原住民外省新住民",
-    "category": "culture",
-    "subcategory": "族群文化",
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-25",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 2666,
-    "tagCount": 8,
-    "tags": [
-      "文化",
-      "族群",
-      "多元性",
-      "原住民",
-      "客家",
-      "閩南",
-      "外省",
-      "新住民"
-    ],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 10,
-    "commitHash": "42643155",
-    "description": "台灣的族群多元性不僅是歷史發展的結果，更是理解當代台灣社會的關鍵。這種多元共存的社會結構，既是台灣文化創意的源泉，也是民主政治發展的重要基礎。如何在尊重各族群文化特色的同時，建構共同的台灣認同，是台灣社會持續面對的重要課題。",
-    "healthScore": 62
   },
   {
     "title": "牛肉麵",
@@ -9211,31 +9379,9 @@
       "ja": false
     },
     "revision": 12,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
     "healthScore": 75
-  },
-  {
-    "title": "珍珠奶茶",
-    "slug": "珍珠奶茶",
-    "category": "food",
-    "subcategory": "飲食場景",
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 2804,
-    "tagCount": 6,
-    "tags": ["美食", "珍珠奶茶", "手搖飲", "全球化", "軟實力", "文化外交"],
-    "translations": {
-      "en": true,
-      "es": true,
-      "ja": false
-    },
-    "revision": 13,
-    "commitHash": "42643155",
-    "description": "從台灣夜市小攤到全球飲品帝國，珍珠奶茶的起源爭議與文化征服之路",
-    "healthScore": 73
   },
   {
     "title": "氣候",
@@ -9255,7 +9401,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "台灣多樣的亞熱帶季風氣候，從季風系統到颱風，影響島嶼生活的天氣密碼",
     "healthScore": 61
   },
@@ -9277,7 +9423,7 @@
       "ja": false
     },
     "revision": 11,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "台灣史前時代與原住民族是理解台灣身份認同的關鍵起點。作為南島語族可能的發源地，台灣不僅是太平洋島嶼文明的搖籃，更是多元文化台灣的根基。這段歷史證明了台灣自古即為多族群共存的島嶼，為現代多元社會奠定基礎。",
     "healthScore": 53
   },
@@ -9298,8 +9444,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "戒嚴時期是理解現代台灣政治發展的關鍵階段。這段威權統治的歷史，不僅深刻影響了台灣社會的政治文化，也為後來的民主化轉型奠定了對比基礎。戒嚴期間的政治迫害與人權侵犯，成為台灣追求民主自由的重要動力，同時也是轉型正義必須面對的歷史遺產。",
     "healthScore": 53
   },
@@ -9320,8 +9466,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "台灣從農業社會躍升為亞洲四小龍之一的經濟奇蹟發展歷程",
     "healthScore": 57
   },
@@ -9342,8 +9488,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "1895-1945年日本統治台灣50年，帶來全面現代化建設與制度化管理，同時實施同化政策，深刻影響台灣社會發展",
     "healthScore": 59
   },
@@ -9364,8 +9510,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "1683-1895年清朝統治台灣約212年，從消極治理到積極建設，奠定現代台灣行政區劃與漢人社會基礎",
     "healthScore": 48
   },
@@ -9386,32 +9532,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣歷史上首次有系統性的殖民統治，從荷蘭人建立熱蘭遮城到鄭成功開台，奠定漢人移居與政治制度基礎",
     "healthScore": 47
-  },
-  {
-    "title": "健保制度",
-    "slug": "健保制度",
-    "category": "lifestyle",
-    "subcategory": "醫療與健保",
-    "date": "2026-03-17",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 1013,
-    "tagCount": 5,
-    "tags": ["Lifestyle", "健保", "醫療制度", "公共衛生", "社會福利"],
-    "translations": {
-      "en": false,
-      "es": false,
-      "ja": false
-    },
-    "revision": 9,
-    "commitHash": "42643155",
-    "description": "台灣全民健康保險（NHI）制度，提供覆蓋全民、價格低廉且高品質的醫療服務，是全球公認的優良健保體系",
-    "healthScore": 58
   },
   {
     "title": "台灣交通系統",
@@ -9430,8 +9554,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "高鐵 90 分鐘縱貫南北，捷運密織都市血脈，機車穿梭巷弄間",
     "healthScore": 69
   },
@@ -9453,7 +9577,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "獨立咖啡廳密度世界前三，從阿里山豆到咖啡廳辦公的島嶼咖啡學",
     "healthScore": 64
   },
@@ -9475,7 +9599,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從錢櫃包廂到深夜食堂，24 小時不打烊的島嶼夜生活",
     "healthScore": 61
   },
@@ -9497,7 +9621,7 @@
       "ja": false
     },
     "revision": 6,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "從垃圾車的致愛麗絲到布農族八部合音——用耳朵認識台灣",
     "healthScore": 55
   },
@@ -9518,8 +9642,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 8,
-    "commitHash": "42643155",
+    "revision": 9,
+    "commitHash": "84e04168",
     "description": "36,197 平方公里塞進 9 座國家公園，密度世界第一的保育奇蹟",
     "healthScore": 64
   },
@@ -9540,8 +9664,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
     "healthScore": 53
   },
@@ -9570,8 +9694,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "980d37b5",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
     "healthScore": 75
   },
@@ -9593,7 +9717,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "從台灣到好萊塢，征服世界的跨文化敘事大師與電影技術革新者",
     "healthScore": 75
   },
@@ -9614,8 +9738,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "980d37b5",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣第一位女總統，從學者到政治領袖的民主象徵與歷史開創者",
     "healthScore": 65
   },
@@ -9645,7 +9769,7 @@
       "ja": false
     },
     "revision": 7,
-    "commitHash": "980d37b5",
+    "commitHash": "812e7574",
     "description": "永遠的亞洲歌后，用歌聲跨越政治藩籬的冷戰時代文化使者",
     "healthScore": 75
   },
@@ -9666,8 +9790,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 7,
-    "commitHash": "42643155",
+    "revision": 8,
+    "commitHash": "84e04168",
     "description": "台灣在人權保障與性別平等方面的進步歷程，從威權體制下的人權侵害到成為亞洲人權先驅",
     "healthScore": 53
   },
@@ -9689,7 +9813,7 @@
       "ja": false
     },
     "revision": 8,
-    "commitHash": "42643155",
+    "commitHash": "221b1708",
     "description": "台灣從威權統治走向民主制度的歷程，透過解嚴、總統直選等階段建立完整的民主體制",
     "healthScore": 49
   },
@@ -9710,8 +9834,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 9,
-    "commitHash": "42643155",
+    "revision": 10,
+    "commitHash": "84e04168",
     "description": "從張忠謀的歷史賭注到2奈米時代：台積電如何讓台灣成為全球科技命脈",
     "healthScore": 100
   },
@@ -9732,10 +9856,10 @@
       "es": false,
       "ja": false
     },
-    "revision": 4,
-    "commitHash": "49871150",
+    "revision": 5,
+    "commitHash": "84e04168",
     "description": "",
-    "healthScore": 26
+    "healthScore": 29
   },
   {
     "title": "台灣公園與日常休閒",
@@ -9754,8 +9878,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從清晨太極到夜間散步——台灣公園作為跨世代社交場域的文化觀察",
     "healthScore": 62
   },
@@ -9776,8 +9900,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 6,
-    "commitHash": "42643155",
+    "revision": 7,
+    "commitHash": "84e04168",
     "description": "從庶民生活的縮影，看見台灣社會的韌性與轉型",
     "healthScore": 65
   },
@@ -9798,8 +9922,8 @@
       "es": false,
       "ja": false
     },
-    "revision": 5,
-    "commitHash": "42643155",
+    "revision": 6,
+    "commitHash": "84e04168",
     "description": "從最基層的民主實踐到社區營造的社會創新",
     "healthScore": 65
   }
