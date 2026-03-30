@@ -1,7 +1,7 @@
 id: 開放原始碼
 category: daily
 subcategory: 日常生活
-fork_type: B
+fork_type: C
 
 display:
   taiwan: 開放原始碼
@@ -13,7 +13,7 @@ etymology:
   china_path: 中國用法
   fork_point: ""
 
-notes: ""
+notes: "台灣開源社群也廣泛使用「開源」一詞（如開放文化基金會 OCF）。兩岸皆通用，非單向差異。"
 
 sources:
   - "ThunderKO C2T / 《大陸用語檢索手冊》1997"

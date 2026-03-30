@@ -93,8 +93,9 @@ for (const file of files) {
       // Step 1: Clean the raw china value (strip annotations, take first slash variant)
       const chinaCleaned = cleanChinaSource(chinaRaw);
 
-      // Skip if cleaned value equals taiwan (no useful conversion)
+      // Skip if value is N/A, （無直接對應）, or cleaned result equals taiwan
       if (!chinaCleaned || chinaCleaned === target) continue;
+      if (chinaCleaned.startsWith('N/A') || chinaCleaned.startsWith('（無')) continue;
 
       // Step 2: Normalize to traditional Chinese so it matches
       // the frontend's OpenCC-converted input text
