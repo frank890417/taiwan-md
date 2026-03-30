@@ -155,18 +155,29 @@ cat EDITORIAL.md
 
 ### 3d. URL 編碼
 
-**鐵律：中文 slug 必須 URL encode。**
+> ⚠️ **鐵律：所有孢子中的 URL，中文部分必須 URL encode。沒有例外。**
+> Threads/X/Facebook 對中文 URL 的解析極不穩定，未 encode 的中文連結會被截斷或變成死連結。
+
+**每次產出孢子時，必須用以下指令生成 URL（不要手打）：**
 
 ```bash
-# 生成 encoded URL
+# 生成 encoded URL（複製貼上即可）
 python3 -c "import urllib.parse; print('https://taiwan.md/<category>/' + urllib.parse.quote('<slug>') + '/')"
+
+# 範例：
+python3 -c "import urllib.parse; print('https://taiwan.md/food/' + urllib.parse.quote('珍珠奶茶') + '/')"
+# → https://taiwan.md/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6/
 ```
 
 格式：`完整故事 👉 https://taiwan.md/<category>/<encoded-slug>/`
 
 - ✅ `https://taiwan.md/music/%E5%8F%B0%E7%81%A3%E6%B0%91%E6%AD%8C%E9%81%8B%E5%8B%95/`
+- ✅ `https://taiwan.md/food/%E7%8F%8D%E7%8F%A0%E5%A5%B6%E8%8C%B6/`
 - ❌ `taiwan.md/music/台灣民歌運動/`（Threads 會斷開連結）
+- ❌ `taiwan.md/food/珍珠奶茶/`（中文未 encode = 死連結）
 - ❌ `taiwan.md/peopl…`（被截斷 = 死連結）
+
+**AI 自檢規則：** 孢子寫完後，掃描最後一行 URL，若包含任何中文字元 → 停下來，重新用 python3 encode。
 
 ### 3e. 配圖：OG Card 頁面
 
@@ -206,7 +217,7 @@ https://taiwan.md/og/<category>/<slug>/
 - [ ] **獨立存活**：不點連結，這篇本身有價值嗎？
 - [ ] **情感收尾**：最後一句是讓人「停一下」還是「嗯知道了」？
 - [ ] **長度**：150-300 字（Threads 最佳閱讀長度）
-- [ ] **URL 可點**：連結完整、中文已 encode、末尾有 `/`
+- [ ] **URL 可點**：連結完整、**中文已 URL encode（不含任何中文字元）**、末尾有 `/`
 - [ ] **不重複**：查 SPORE-LOG.md 確認 ≥ 2 週未發過
 
 ### 發文
@@ -261,7 +272,8 @@ https://taiwan.md/og/<category>/<slug>/
 | 陷阱       | 症狀                    | 解法                         |
 | ---------- | ----------------------- | ---------------------------- |
 | 原文品質差 | 孢子寫出來也空洞        | 先過品質關卡，不合格就回爐   |
-| URL 被截斷 | `taiwan.md/peopl…`      | 中文 slug 必須 URL encode    |
+| URL 被截斷 | `taiwan.md/peopl…`      | 中文 slug 必須 URL encode（用 python3 指令，不要手打） |
+| URL 含中文 | `taiwan.md/food/珍珠奶茶/` | Threads/X 會斷開，必須 encode 成 `%E7%8F%8D...` |
 | 貪心塞太多 | 300+ 字、多條故事線     | 一篇一個弧線，多故事就分多篇 |
 | 百科式開場 | 「台灣的 X 是…」        | 用場景/數字/反差開場         |
 | 結尾罐頭   | 「值得我們紀念」        | 用情感畫面收尾               |
