@@ -374,24 +374,40 @@ const rulesJSON = JSON.stringify(rules);
     }
 
     // ── Highlight source (original) text — mark matched china terms ─────────
+    // Build a reverse lookup: traditional source → simplified source
+    const tradToSimp = {};
+    for (const rule of RULES) {
+      if (rule.id.endsWith('_simp')) continue;
+      const simpRule = RULES.find(r => r.id === rule.id + '_simp');
+      if (simpRule) {
+        tradToSimp[rule.source] = simpRule.source;
+      }
+    }
+
     function highlightSource(input, matches) {
       if (!input.trim() || matches.length === 0) return '';
 
-      // Apply OpenCC first (same as convertText) so we match against traditional
+      // Work on the ORIGINAL input (no OpenCC) so positions match the textarea
       let text = input;
-      if (openccConverter) {
-        text = openccConverter(text);
-      }
 
-      // Use marker system identical to convertText
       const placeholders = [];
       let markerIdx = 0;
       for (const m of matches) {
-        const escaped = m.source.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-        const marker = `\x00S${markerIdx}\x00`;
-        text = text.replace(new RegExp(escaped, 'g'), marker);
-        placeholders.push({ marker, source: m.source });
-        markerIdx++;
+        // Try simplified form first (matches original input), fall back to traditional
+        const simpSource = tradToSimp[m.source] || m.source;
+        // Try both: simplified first, then traditional (in case input is already traditional)
+        let matched = false;
+        for (const src of [simpSource, m.source]) {
+          if (text.includes(src)) {
+            const escaped = src.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const marker = `\x00S${markerIdx}\x00`;
+            text = text.replace(new RegExp(escaped, 'g'), marker);
+            placeholders.push({ marker, source: src });
+            markerIdx++;
+            matched = true;
+            break;
+          }
+        }
       }
 
       // Escape HTML
