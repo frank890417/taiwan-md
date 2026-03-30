@@ -209,6 +209,19 @@ const termsJSON = JSON.stringify(terms);
                 {c.hongkong && <span class="hk-word">港：{c.hongkong}</span>}
               </div>
               <div class="card-meta">
+                <button
+                  class="fork-tree-btn"
+                  title="查看語言分支樹"
+                  aria-label={`查看「${c.taiwan}」的語言分支樹`}
+                  data-tw={c.taiwan}
+                  data-cn={c.china || c.taiwan}
+                  data-origin={c.origin || ''}
+                  data-fork-point={c.fork_point || ''}
+                  data-fork-type={c.fork_type}
+                  data-fork-color={c.fork_color}
+                  data-tw-path={c.taiwan_path || ''}
+                  data-cn-path={c.china_path || ''}
+                >🌿</button>
                 <span
                   class="fork-badge"
                   style={`background: ${c.fork_color}22; color: ${c.fork_color}; border-color: ${c.fork_color}44`}
@@ -298,6 +311,17 @@ const termsJSON = JSON.stringify(terms);
         <p class="footer-note">
           用語保存計畫持續收錄中。每個詞條都有詞源考據與使用建議。
         </p>
+      </div>
+    </div>
+    <!-- ── Fork Tree Popup ────────────────────────────────────── -->
+    <div class="fork-popup-overlay" id="fork-popup" aria-hidden="true">
+      <div class="fork-popup-box">
+        <button class="fork-popup-close" aria-label="關閉">✕</button>
+        <h3 class="fork-popup-title" id="fork-popup-title"></h3>
+        <div class="fork-popup-graph">
+          <svg id="fork-popup-svg" width="100%" height="180"></svg>
+        </div>
+        <div class="fork-popup-info" id="fork-popup-info"></div>
       </div>
     </div>
   </main>
@@ -394,6 +418,101 @@ const termsJSON = JSON.stringify(terms);
         toggleCard(card);
       }
     });
+  });
+
+  // ── Fork Tree Popup ──────────────────────────────────────────
+  const popup = document.getElementById('fork-popup');
+  const popupTitle = document.getElementById('fork-popup-title');
+  const popupInfo = document.getElementById('fork-popup-info');
+  const popupSvg = document.getElementById('fork-popup-svg');
+  const popupClose = popup?.querySelector('.fork-popup-close');
+
+  function openForkPopup(btn) {
+    const tw = btn.dataset.tw;
+    const cn = btn.dataset.cn;
+    const origin = btn.dataset.origin;
+    const forkPoint = btn.dataset.forkPoint;
+    const forkType = btn.dataset.forkType;
+    const forkColor = btn.dataset.forkColor;
+    const twPath = btn.dataset.twPath;
+    const cnPath = btn.dataset.cnPath;
+
+    popupTitle.textContent = `🌿 ${tw}${cn && cn !== tw ? ` / ${cn}` : ''}`;
+
+    // Draw mini fork tree with SVG (no D3 needed for single term)
+    const W = 500, H = 160;
+    const sameTerm = (!cn || cn === tw);
+    popupSvg.setAttribute('viewBox', `0 0 ${W} ${H}`);
+    popupSvg.innerHTML = '';
+
+    // Layout: origin node left → fork point center → two branches right
+    const ox = 60, oy = H / 2;
+    const fx = W * 0.45, fy = H / 2;
+    const twX = W - 80, twY = 50;
+    const cnX = W - 80, cnY = H - 50;
+
+    // Path: origin → fork
+    const pathOriginFork = `M${ox},${oy} C${fx - 40},${oy} ${fx - 40},${fy} ${fx},${fy}`;
+    // Path: fork → taiwan
+    const pathTW = `M${fx},${fy} C${fx + 60},${fy} ${twX - 60},${twY} ${twX},${twY}`;
+    // Path: fork → china
+    const pathCN = sameTerm ? '' : `M${fx},${fy} C${fx + 60},${fy} ${cnX - 60},${cnY} ${cnX},${cnY}`;
+
+    const twColor = '#e74c3c';
+    const cnColor = '#3498db';
+    const originColor = '#888';
+
+    let svg = `
+      <path d="${pathOriginFork}" fill="none" stroke="${originColor}" stroke-width="2" stroke-dasharray="6,3"/>
+      <path d="${pathTW}" fill="none" stroke="${twColor}" stroke-width="2.5"/>
+      ${!sameTerm ? `<path d="${pathCN}" fill="none" stroke="${cnColor}" stroke-width="2.5"/>` : ''}
+      <circle cx="${ox}" cy="${oy}" r="6" fill="${originColor}"/>
+      <circle cx="${fx}" cy="${fy}" r="5" fill="#555"/>
+      <circle cx="${twX}" cy="${twY}" r="7" fill="${twColor}"/>
+      ${!sameTerm ? `<circle cx="${cnX}" cy="${cnY}" r="7" fill="${cnColor}"/>` : ''}
+      <text x="${ox}" y="${oy - 14}" text-anchor="middle" font-size="11" fill="#888">詞源</text>
+      <text x="${fx}" y="${fy - 14}" text-anchor="middle" font-size="10" fill="#888">${forkPoint || '分歧點'}</text>
+      <text x="${twX}" y="${twY - 14}" text-anchor="middle" font-size="12" font-weight="700" fill="${twColor}">🇹🇼 ${tw}</text>
+      ${!sameTerm ? `<text x="${cnX}" y="${cnY + 22}" text-anchor="middle" font-size="12" font-weight="700" fill="${cnColor}">🇨🇳 ${cn}</text>` : ''}
+    `;
+
+    if (sameTerm) {
+      // F type: same word, different feel
+      svg += `<text x="${twX}" y="${twY + 20}" text-anchor="middle" font-size="10" fill="#888">同詞不同語感</text>`;
+    }
+
+    popupSvg.innerHTML = svg;
+
+    // Info section
+    let info = '';
+    if (origin) info += `<div class="info-row"><span class="info-label">詞源</span><span>${origin}</span></div>`;
+    if (twPath) info += `<div class="info-row"><span class="info-label">🇹🇼 台灣</span><span>${twPath}</span></div>`;
+    if (cnPath) info += `<div class="info-row"><span class="info-label">🇨🇳 中國</span><span>${cnPath}</span></div>`;
+    popupInfo.innerHTML = info;
+
+    popup.classList.add('visible');
+    popup.setAttribute('aria-hidden', 'false');
+  }
+
+  function closeForkPopup() {
+    popup.classList.remove('visible');
+    popup.setAttribute('aria-hidden', 'true');
+  }
+
+  // Bind click events
+  document.querySelectorAll('.fork-tree-btn').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      openForkPopup(btn);
+    });
+  });
+
+  popupClose?.addEventListener('click', closeForkPopup);
+  popup?.addEventListener('click', (e) => {
+    if (e.target === popup) closeForkPopup();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && popup?.classList.contains('visible')) closeForkPopup();
   });
 </script>
 
@@ -633,6 +752,93 @@ const termsJSON = JSON.stringify(terms);
     gap: 0.3rem;
     flex-shrink: 0;
   }
+  .fork-tree-btn {
+    background: none;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    padding: 0.15rem 0.35rem;
+    line-height: 1;
+    transition: background 0.15s, border-color 0.15s;
+    opacity: 0.6;
+  }
+  .fork-tree-btn:hover {
+    background: #f0f7f0;
+    border-color: #4a9;
+    opacity: 1;
+  }
+
+  /* ── Fork Popup ──────────────────────────────────────────── */
+  .fork-popup-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    background: rgba(0,0,0,0.5);
+    backdrop-filter: blur(4px);
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+  }
+  .fork-popup-overlay.visible {
+    display: flex;
+  }
+  .fork-popup-box {
+    background: white;
+    border-radius: 16px;
+    padding: 1.5rem;
+    max-width: 560px;
+    width: 100%;
+    position: relative;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.2);
+    max-height: 90vh;
+    overflow-y: auto;
+  }
+  .fork-popup-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    background: #f0f0f0;
+    border: none;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s;
+  }
+  .fork-popup-close:hover { background: #ddd; }
+  .fork-popup-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin: 0 0 1rem;
+    color: #1a1a2e;
+  }
+  .fork-popup-graph {
+    margin-bottom: 1rem;
+    overflow-x: auto;
+  }
+  .fork-popup-info {
+    font-size: 0.85rem;
+    color: #555;
+    line-height: 1.6;
+  }
+  .fork-popup-info .info-row {
+    display: flex;
+    gap: 0.5rem;
+    margin-bottom: 0.4rem;
+  }
+  .fork-popup-info .info-label {
+    font-weight: 600;
+    color: #333;
+    white-space: nowrap;
+    min-width: 3.5rem;
+  }
+
   .fork-badge {
     font-size: 0.72rem;
     padding: 0.2rem 0.55rem;
