@@ -6,15 +6,16 @@
     "Economy": 49,
     "Food": 40,
     "Geography": 18,
-    "History": 33,
+    "History": 35,
     "Language": 1,
     "Lifestyle": 22,
-    "Music": 19,
+    "Music": 20,
     "Nature": 26,
-    "People": 134,
-    "Society": 29,
-    "Technology": 28,
-    "resources": 2
+    "People": 137,
+    "Society": 30,
+    "Technology": 30,
+    "resources": 2,
+    "people": 2
   },
   "dailyGrowth": [
     {
@@ -72,7 +73,11 @@
     {
       "date": "2026-03-30",
       "count": 3
+    },
+    {
+      "date": "2026-03-31",
+      "count": 11
     }
   ],
-  "updated": "2026-03-30"
+  "updated": "2026-03-31"
 }

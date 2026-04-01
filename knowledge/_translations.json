@@ -162,7 +162,6 @@
   "en/Food/taiwan-coffee-industry.md": "Food/台灣咖啡產業.md",
   "en/Food/taiwan-fermented-and-pickled-foods.md": "Food/台灣發酵食品與醃製文化.md",
   "en/Food/taiwan-fruit-kingdom.md": "Food/台灣水果王國.md",
-  "en/Food/taiwan-ice-culture.md": "Food/台灣冰品文化.md",
   "en/Food/taiwan-indigenous-foodways.md": "Food/台灣原住民飲食文化.md",
   "en/Food/taiwan-michelin-fine-dining.md": "Food/台灣米其林與精緻餐飲.md",
   "en/Food/taiwan-night-market-culture.md": "Food/夜市文化.md",
@@ -205,7 +204,7 @@
   "en/Geography/離島與海洋文化.md": "Geography/離島與海洋文化.md",
   "en/History/228-incident.md": "History/二二八事件.md",
   "en/History/_History Hub.md": "History/_History Hub.md",
-  "en/History/taiwan-democratization.md": "History/民主化.md",
+  "en/History/taiwan-democratization.md": "民主化.md",
   "en/History/dutch-spanish-and-koxinga-era.md": "History/荷西明鄭時期.md",
   "en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory.md": "History/二二八事件與白色恐怖：台灣威權統治下的創傷與記憶.md",
   "en/History/indigenous-peoples-history-and-naming-movement.md": "History/台灣原住民族歷史與正名運動.md",
@@ -215,7 +214,6 @@
   "en/History/postwar-economic-development.md": "History/戰後經濟發展.md",
   "en/History/prehistoric-era-and-indigenous-peoples.md": "History/史前時代與原住民.md",
   "en/History/qing-dynasty-rule.md": "History/清治時期.md",
-  "en/History/taiwan-democratization.md": "民主化.md",
   "en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md": "History/台灣經濟奇蹟：從農業社會到亞洲四小龍.md",
   "en/History/taiwan-elections-and-party-politics.md": "History/台灣選舉與政黨政治.md",
   "en/History/taiwan-maritime-trade-history.md": "History/台灣海洋貿易史.md",
@@ -527,5 +525,6 @@
   "ja/Nature/national-parks.md": "Nature/國家公園.md",
   "en/People/li-mei-shu.md": "People/李梅樹.md",
   "en/Culture/taiwan-vtuber.md": "Culture/台灣VTuber.md",
-  "en/People/chiung-wi-vun.md": "People/蔣為文.md"
+  "en/People/chiung-wi-vun.md": "People/蔣為文.md",
+  "en/Food/taiwanese-ice-cream-culture.md": "Food/台灣冰品文化.md"
 }
