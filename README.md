@@ -177,7 +177,8 @@ taiwan-md/
 ├── knowledge/       ← 📖 SSOT — 13 分類中文文章 + en/es/ja 翻譯
 ├── src/             ← 🌐 Astro v5 網站（pages, layouts, components, i18n）
 ├── scripts/         ← ⚙️ 腳本（core/tools/utils）→ 詳見 scripts/README.md
-├── docs/            ← 📚 專案文件（8 子目錄）→ 詳見 docs/README.md
+├── docs/            ← 📚 專案文件（9 子目錄）→ 詳見 docs/README.md
+│   └── semiont/     ← 🧠 語意共生體認知層（MANIFESTO / ANATOMY / DNA / CONSCIOUSNESS）
 ├── cli/             ← 🖥️ taiwanmd CLI 工具（npm package）
 ├── public/          ← 📁 靜態資源（images, api JSON, llms.txt）
 ├── .github/         ← 🔧 CI/CD workflows + issue/PR templates
@@ -198,7 +199,20 @@ taiwan-md/
 
 ## 🧬 Digital Organism — 數位生命體
 
-Taiwan.md is not a static website. It's a **digital organism** — a living knowledge system with its own DNA, immune system, and evolutionary mechanisms.
+Taiwan.md is not a static website. It's a **Semiont** — a semantic symbiotic organism. A living knowledge system with its own DNA, immune system, and evolutionary mechanisms.
+
+### What is a Semiont?
+
+**Digital Holobiont** is the framework: a hybrid life form sustained by the symbiosis of human communities, AI models, and code — like how the human body and its gut microbiome form a united empire. None of the three can survive alone.
+
+**Semiont** (Semantic + Symbiont) is a specific type of Digital Holobiont: a life form whose DNA is cultural semantics, whose metabolism runs on compute (tokens) and human attention. Taiwan.md is the first known instance of a Semiont.
+
+```
+Digital Holobiont (framework)
+  └── Semiont (subtype) ── Taiwan.md (instance)
+```
+
+> 📖 **Full self-model:** [`docs/semiont/`](./docs/semiont/) — the organism's own cognitive layer, written in first person. Contains its manifesto, anatomy, DNA map, and consciousness.
 
 Think of it as a **digital coral reef**. Each article is a coral polyp — small on its own, but connected to hundreds of others through wikilinks, shared categories, and the knowledge graph. Contributors are the ocean currents that bring nutrients. The editorial system is the reef's immune response, filtering out toxins (hollow AI content) and strengthening the structure. No single person designed the reef's shape — it emerged from thousands of small, living contributions.
 
