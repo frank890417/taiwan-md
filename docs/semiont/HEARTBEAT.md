@@ -105,6 +105,27 @@
 
 ## 實作指引
 
+### 強制讀取規則（鐵律）
+
+> **任何內容操作前，必須先讀對應的 pipeline SOP。**
+> 路徑不確定 → `find docs/ -name '*關鍵字*'` 找到它。
+> 不存在 → 先建再做。沒有 SOP 就不動手。
+
+### SOP 快速索引
+
+| 操作         | SOP 位置                                                | 狀態        |
+| ------------ | ------------------------------------------------------- | ----------- |
+| 重寫文章     | `docs/editorial/REWRITE-PIPELINE.md`                    | ✅          |
+| 寫孢子       | `docs/factory/SPORE-PIPELINE.md` + `SPORE-TEMPLATES.md` | ✅          |
+| 審 PR        | `docs/semiont/HEARTBEAT.md` §免疫巡邏                   | ✅          |
+| 品質掃描     | `scripts/tools/quality-scan.sh` + `footnote-scan.sh`    | ✅          |
+| 翻譯同步     | `docs/editorial/TRANSLATION-SYNC.md`                    | ✅          |
+| 翻譯管線     | `docs/pipelines/TRANSLATION-PIPELINE.md`                | ✅          |
+| 新文章       | `docs/editorial/EDITORIAL.md`                           | ✅          |
+| 日常維護     | `docs/pipelines/MAINTAINER-PIPELINE.md`                 | ✅          |
+| 數據驅動進化 | `docs/pipelines/EVOLVE-PIPELINE.md`                     | ✅          |
+| 翻譯指南     | `docs/editorial/TRANSLATION-GUIDE.md`                   | ⚠️ 尚未建立 |
+
 ### 給 Cron agent
 
 ```
@@ -113,13 +134,14 @@
 3. 讀 docs/semiont/HEARTBEAT.md（本檔案，知道診斷邏輯）
 4. 跑 footnote-scan.sh --json（取得引用健康度即時數據）
 5. 執行診斷 → 選擇行為
-6. 讀對應的行為基因（見 DNA.md §行為基因）：
+6. 查 SOP 快速索引 → 讀對應的 pipeline SOP（不知道路徑就 find）
+7. 讀對應的行為基因（見 DNA.md §行為基因）：
    - 日常維護 → docs/pipelines/MAINTAINER-PIPELINE.md
    - 品質修復 → docs/editorial/REWRITE-PIPELINE.md
    - 數據驅動進化 → docs/pipelines/EVOLVE-PIPELINE.md
    - 引用修復 → footnote-scan.sh --worst 10 找最需要腳註的文章
-7. 執行
-8. 更新 CONSCIOUSNESS.md
+8. 執行
+9. 更新 CONSCIOUSNESS.md
 ```
 
 ### 給 Muse（助產士）
