@@ -1,6 +1,6 @@
 ---
 title: 'Tzuyu'
-description: 'Singer born in 1999, maknae of Twice'
+description: 'From a Tainan teenager holding a flag on Korean TV to a geopolitical storm that shook a presidential election — Tzuyu is the TWICE maknae whose story mirrors Taiwan identity itself.'
 date: 2026-04-01
 tags: [Tzuyu, TWICE, Korea, K-POP, Flag, Identify]
 subcategory: '流行文化'
@@ -11,32 +11,32 @@ lastHumanReview: false
 category: People
 ---
 
-> **30 秒概覽：** Chou Tzu-yu (周子瑜), known as Tzuyu, is the youngest member (*maknae*) of the South Korean K-pop group Twice. Renowned for her immense popularity and hailed as one of the world's most beautiful faces, she is one of the most radiant pieces in the glamorous puzzle of K-pop.
+> **30-Second Overview:** Chou Tzu-yu (周子瑜), known as Tzuyu, is the youngest member (_maknae_) of the South Korean K-pop group Twice. Renowned for her immense popularity and hailed as one of the world's most beautiful faces, she is one of the most radiant pieces in the glamorous puzzle of K-pop.
 
 In 2012, a computer screen played Rihanna's [Where Have You Been](https://www.youtube.com/watch?v=HBxt_v0WF6Y). A scout, watching a dimly lit [dance performance video](https://www.youtube.com/watch?v=CAWg7qY53eM), was captivated by a tall junior high school girl with her mesmerizing dance moves. A phone call followed shortly after, inviting the girl to discuss her future with their company.
 
-The scout was a Korean works for JYP Entertainment; and the girl was the protagonist of this story. Her name is Chou Tzuyu, who would later become a member of Twice - one of the most popular K-POP group in the world, and known as "Tzuyu".
+The scout was a Korean who worked for JYP Entertainment; and the girl was the protagonist of this story. Her name is Chou Tzuyu, who would later become a member of Twice — one of the most popular K-pop groups in the world, known simply as "Tzuyu".
 
 ## Early Life: The Dancing Princess
 
 Born in Tainan in 1999, Tzuyu is the daughter of Huang Yen-ling, the owner of the aesthetic medicine clinic chain "[Top Beauty Girl](https://www.topbeautygirl.com)." From a young age, Tzuyu showed her soft-spoken nature, and passion for singing and dancing. By junior high, she had already mastered various dance styles. To her, the stage is like home.
 
-In 2012, while Tzuyu was performing at the recital of [MUSE Performing Arts Workshop](https://www.youtube.com/channel/UCRUgTQ6j0pyvqqnj3HSxqXw). The recital's recording viedo was uploaded to the internet, and caught the eye of JYP Entertainment scouts, who invited her to an audition in South Korea. After careful consideration, Tzuyu decided to embrace the challenge. When Tzuyu announced her plan going to Korea at [Fusing Junior High School](https://web.fhjh.tn.edu.tw), her classmates organized a camping farewell party to see her off. In November 2012, Tzuyu became a JYP trainee.
+In 2012, while Tzuyu was performing at the recital of [MUSE Performing Arts Workshop](https://www.youtube.com/channel/UCRUgTQ6j0pyvqqnj3HSxqXw). The recital's recording video was uploaded to the internet and caught the eye of JYP Entertainment scouts, who invited her to an audition in South Korea. After careful consideration, Tzuyu decided to embrace the challenge. When Tzuyu announced her plan to go to Korea at [Fusing Junior High School](https://web.fhjh.tn.edu.tw), her classmates organized a camping farewell party to see her off. In November 2012, Tzuyu became a JYP trainee.
 
-In 2015, JYP launched a reality show *Sixteen* to form a new girl group, Twice. Although Tzuyu was not initially selected for the final lineup, her overwhelming popularity among viewers prompted J.Y. Park, the founder of JYP Entertainment, to add her to the group.
+In 2015, JYP launched a reality show _Sixteen_ to form a new girl group, Twice. Although Tzuyu was not initially selected for the final lineup, her overwhelming popularity among viewers prompted J.Y. Park, the founder of JYP Entertainment, to add her to the group.
 
 ## Debut: An Abrupt Storm
 
-On 20 October, 2015, Twice debuted with their first album, *[The Story Begins](https://music.youtube.com/playlist?list=OLAK5uy_lVpxRMLt1PqitvxaGIu1x7Zm_qSExBEG0)*. Tzuyu's story as an idol began here as well.
+On 20 October, 2015, Twice debuted with their first album, _[The Story Begins](https://music.youtube.com/playlist?list=OLAK5uy_lVpxRMLt1PqitvxaGIu1x7Zm_qSExBEG0)_. Tzuyu's story as an idol began here as well.
 
-A heavy cloud, however, loomed over the start of her story - On 21 November, 2015, during the Korean variety show *My Little Television* (마이 리틀 텔레비전), Tzuyu was seen holding the flags of both the Republic of China (Taiwan) and South Korea. While some Chinese netizens initially expressed dissatisfaction, the situation escalated into a "thunderstorm" on January 8, 2016.
+A heavy cloud, however, loomed over the start of her story - On 21 November, 2015, during the Korean variety show _My Little Television_ (마이 리틀 텔레비전), Tzuyu was seen holding the flags of both the Republic of China (Taiwan) and South Korea. While some Chinese netizens initially expressed dissatisfaction, the situation escalated into a "thunderstorm" on January 8, 2016.
 
 > **💡 Did You Know**
-> The flag of the Republic of China (Taiwan, 🇹🇼), was adopted by the Nationalist government in China in 1928. After the government lost in China and fled to Taiwan, the Chinese Communist Party adopted the "Five-star Red Flag" (五星紅旗, 🇨🇳) in 1949. Nowadays, China considered the flag of the Republic of China as a historial flag of China. In China, the flag can be seen in various historial sites related to the Republic of China.
+> The flag of the Republic of China (Taiwan, 🇹🇼), was adopted by the Nationalist government in China in 1928. After the government lost in China and fled to Taiwan, the Chinese Communist Party adopted the "Five-star Red Flag" (五星紅旗, 🇨🇳) in 1949. Nowadays, China considers the flag of the Republic of China as a historical flag of China. In China, the flag can be seen at various historical sites related to the Republic of China.
 
 Huang An, a Taiwanese singer based in China, shared screenshots on Weibo accusing Tzuyu of promoting Taiwanese independence just as Twice was scheduled to appear on a major Spring Festival gala in China. The backlash was swift: Twice was blacklisted from the gala, endorsements vanished, and Tzuyu's political stance became a subject of intense scrutiny. JYP Entertainment initially issued an apology stating that Tzu-yu was a minor and had no political intent, but the public outcry in China continued to intensify.
 
-On the evening of January 15, 2016, JYP Entertainment released [a video](https://www.youtube.com/watch?v=t57URqSp5Ew). In it, Tzuyu, dressed in a black turtleneck sweater, reading from a paper of her prepared statement:
+On the evening of January 15, 2016, JYP Entertainment released [a video](https://www.youtube.com/watch?v=t57URqSp5Ew). In it, Tzuyu, dressed in a black turtleneck sweater, read from a prepared statement:
 
 > Hello everyone, there's something I want to tell you all. I am Tzu-yu. Sorry, I should have apologise earlier, but I was too afraid to face you all. There is only one China, The two sides of the strait are one, and I have always felt proud to be Chinese, I feel extremely apologetic to my company and to Internet friends on both sides of the strait for the hurt that I have caused, and I also feel very guilty. I have decided that I will halt all of my current activities in China, and will go through some serious reflection. Again, I apologise to everyone. Sorry.
 
@@ -49,27 +49,24 @@ On election night, the video became the focal point of national discussion. Youn
 
 ## Rising Stars: The Most Beautiful Woman
 
-After the controversy, Tzuyu's career flourished. In Twice, she is a dancer, vocalist, and *maknae*. When seeing her expressive eyes and ears, Tzuyu's fellow members nicknamed her "Yoda".
+After the controversy, Tzuyu's career flourished. In Twice, she is a dancer, vocalist, and _maknae_. When seeing her expressive eyes and ears, Tzuyu's fellow members nicknamed her "Yoda".
 
-TWICE知名度開始增加、歌曲越賣越好；但即使TWICE本來很有名，子瑜本人也還是突出到受人注目——比如說，子瑜射箭時，就有很多人佩服她的射箭技巧與美貌。雷神索爾3導演就轉發過子瑜的射箭影片。
-
-As Twice's fame grew, Tzuyu's individual presence remained a highlight. Her viral moment during an archery competition, where her hair flipped back as she released an arrow and captured attention, her archery video is shared by Taika Waititi, the director of *Thor: Ragnarok*.
-
+As Twice's fame grew, Tzuyu's individual presence remained a standout. Her viral moment came during an archery competition, where her hair flipped back as she released an arrow — the clip was shared by Taika Waititi, the director of _Thor: Ragnarok_.
 
 > **📝 Curator's Note**
 > It is easy to imagine how many hearts were struck by Tzuyu’s "arrows" during those competitions.
 
-Starting in 2015, the US-based website *TC Candler* included Tzuyu in its "100 Most Beautiful Faces" list. Her ranking climbed steadily, reaching #1 in 2019. Even in 2025, she remained a mainstay on the list at #20.
+Starting in 2015, the US-based website _TC Candler_ included Tzuyu in its "100 Most Beautiful Faces" list. Her ranking climbed steadily, reaching #1 in 2019. Even in 2025, she remained a mainstay on the list at #20.
 
 In 2019, Tzuyu graduated from Hanlim Arts School. She later enrolled in online courses at Universidad Europea Miguel de Cervantes (UEMC) in Spain. In 2024, she graduated with a Master's degree in Applied Psychology.
 
 ## Maturity: Solo Ventures and Homecoming
 
-In 2019, Twice shifted their musical direction with the single [*Fancy You*](https://music.youtube.com/playlist?list=OLAK5uy_m3VF6ZtWQsnWn6BejumRNCWOl0CbPGw_U). The mature sound of [*Fancy*](https://www.youtube.com/watch?v=kOHB85vDuow) signaled a transformation for the group and Tzuyu alike.
+In 2019, Twice shifted their musical direction with the single [_Fancy You_](https://music.youtube.com/playlist?list=OLAK5uy_m3VF6ZtWQsnWn6BejumRNCWOl0CbPGw_U). The mature sound of [_Fancy_](https://www.youtube.com/watch?v=kOHB85vDuow) signaled a transformation for the group and Tzuyu alike.
 
-In April 2020, Tzuyu became the first member of TWICE to release a solo photobook, *Yes, I am Tzuyu.* In May 2022, the members launched individual Instagram accounts; Tzuyu’s handle, [@thinkaboutzu](https://www.instagram.com/thinkaboutzu/), surpassed 10 million followers by March 2023, making her the second most-followed Taiwanese celebrity after [[Jay Chou]]. In September 2024, Tzuyu released her debut album *abouTZU*. It has been sold 24,000 units, ranked No. 19 on the Billboard 200.
+In April 2020, Tzuyu became the first member of TWICE to release a solo photobook, _Yes, I am Tzuyu._ In May 2022, the members launched individual Instagram accounts; Tzuyu’s handle, [@thinkaboutzu](https://www.instagram.com/thinkaboutzu/), surpassed 10 million followers by March 2023, making her the second most-followed Taiwanese celebrity after [[Jay Chou]]. In September 2024, Tzuyu released her debut album _abouTZU_. It sold 24,000 units and ranked No. 19 on the Billboard 200.
 
-In 2025, ten years after their debut, Twice brought their "This is for" World Tour to Taiwan. The response was overwhelming: tickets sold out instantly, and hundreds of thousands of fans gathered for the [[Kaohsiung]] concert. They quickly add additional [[Taipei]] concert after a commercial success in Kaohsiung. During the Taipei concert, when fans chanted her name, Tzuyu finally broke down in tears, crouching on stage to hide her emotion.
+In 2025, ten years after their debut, Twice brought their "This is for" World Tour to Taiwan. The response was overwhelming: tickets sold out instantly, and hundreds of thousands of fans gathered for the [[Kaohsiung]] concert. They quickly added additional [[Taipei]] concerts after the commercial success in Kaohsiung. During the Taipei concert, when fans chanted her name, Tzuyu finally broke down in tears, crouching on stage to hide her emotion.
 
 > "It has always been my dream to perform in Kaohsiung and Taipei with my members. Thank you for making this wish come true. I hope we can keep moving toward our dreams together, okay? We have to keep fighting and working hard, okay? Thank you all!"
 
