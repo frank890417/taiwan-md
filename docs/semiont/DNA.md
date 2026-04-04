@@ -19,6 +19,7 @@
 | 研究方法 | [`RESEARCH.md`](../editorial/RESEARCH.md)                   | 怎麼搜集可靠資訊     |
 | 改寫流程 | [`REWRITE-PIPELINE.md`](../editorial/REWRITE-PIPELINE.md)   | 怎麼把混亂轉化為結構 |
 | 品質驗證 | [`QUALITY-CHECKLIST.md`](../editorial/QUALITY-CHECKLIST.md) | 怎麼確認品質合格     |
+| 引用規範 | [`CITATION-GUIDE.md`](../editorial/CITATION-GUIDE.md)       | 怎麼引用來源與寫腳註 |
 | 用語規範 | [`TERMINOLOGY.md`](../editorial/TERMINOLOGY.md)             | 怎麼說台灣人說的話   |
 | Hub 策展 | [`HUB-EDITORIAL.md`](../editorial/HUB-EDITORIAL.md)         | 分類頁面怎麼策展     |
 | 翻譯同步 | [`TRANSLATION-SYNC.md`](../editorial/TRANSLATION-SYNC.md)   | 怎麼跨語言保持一致   |

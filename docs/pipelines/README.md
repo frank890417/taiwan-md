@@ -23,10 +23,10 @@
 
 ## Archived（Cron 暫停，知識保留）
 
-| Pipeline                                             | Cron                    | 狀態               |
-| ---------------------------------------------------- | ----------------------- | ------------------ |
-| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)   | EN Translation          | 等 v2 設計         |
-| [REWRITE-PIPELINE-CRON.md](REWRITE-PIPELINE-CRON.md) | Article Quality Rewrite | 等品質革命 Phase 1 |
+| Pipeline                                                | Cron                    | 狀態               |
+| ------------------------------------------------------- | ----------------------- | ------------------ |
+| [TRANSLATION-PIPELINE.md](TRANSLATION-PIPELINE.md)      | EN Translation          | 等 v2 設計         |
+| [REWRITE-PIPELINE.md](../editorial/REWRITE-PIPELINE.md) | Article Quality Rewrite | 等品質革命 Phase 1 |
 
 ## 設計原則
 

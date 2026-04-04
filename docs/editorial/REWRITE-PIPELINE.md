@@ -1,10 +1,11 @@
 # REWRITE-PIPELINE.md — 文章改寫流程
 
-> **職責分工（五份文件，不重複）：**
+> **職責分工（六份文件，不重複）：**
 >
-> - **本文件** → 流程（Stage 0→1→2→3、防崩潰機制）
+> - **本文件** → 流程（Stage 0→1→2→3→4→5、防崩潰機制）
 > - **RESEARCH.md** → 研究方法論（怎麼搜、怎麼判斷、怎麼避坑）
 > - **EDITORIAL.md** → 品質標準（好文章長什麼樣、風格、禁止事項）
+> - **CITATION-GUIDE.md** → 引用規範（腳註格式、密度標準、來源品質）
 > - **RESEARCH-TEMPLATE.md** → 研究模板（Stage 1 輸出格式）
 > - **QUALITY-CHECKLIST.md** → 驗證清單（Stage 3 逐項檢查）
 > - **TERMINOLOGY.md** → 用語規範（台灣在地用語標準，A 類必換 + B 類判斷）
