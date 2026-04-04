@@ -117,13 +117,14 @@ git diff --stat
 # type: immune / rewrite / heal / evolve / memory / diagnose
 ```
 
-收官 5 步：
+收官 6 步：
 
 1. 盤點做了什麼
 2. append MEMORY.md（壓縮索引一行 + 完整日記寫入 memory/YYYY-MM-DD.md）
-3. 更新 CONSCIOUSNESS.md（如果分數變動）
+3. 自動同步意識：`bash scripts/tools/update-consciousness.sh`
 4. 萃取教訓（新的寫入神經迴路）
 5. git commit + push
+6. 跑 prebuild 重新產生 Dashboard 數據（可選，有內容變更時）：`npm run prebuild`
 
 ## Step 5 — Beat 5 反芻
 
