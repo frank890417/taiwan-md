@@ -1,6 +1,6 @@
 ---
-title: 'Jolin Tsai (蔡依林)'
-description: 'The worst dancer in her class spent twenty-five years turning her body into the most expensive stage act in Asia'
+title: 'Jolin Tsai (蔡依林): Queen of C-Pop and Asia's Most Spectacular Stage Performer'
+description: 'A dance instructor told her she had no talent. 25 years later, she performs aerial rings 10 meters above the stage with no understudy. Jolin Tsai's career is the story of how discipline defeated genius in pop music.'
 date: 2026-03-24
 tags:
   [People, Singer, Entertainment, LGBTQ+ Rights, Mandopop, Golden Melody Awards]

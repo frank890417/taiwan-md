@@ -1,6 +1,6 @@
 ---
-title: 'Mayday'
-description: 'How five high school students revolutionized the economics of live concerts in Asia'
+title: 'Mayday (五月天): How Five High School Students Built Asia's Biggest Concert Empire'
+description: '30 concerts at Beijing's Bird's Nest. 21 million tickets sold. From a 1997 BBS nickname to a band that fills stadiums across Asia — Mayday rewrote what a rock concert means in the Chinese-speaking world.'
 date: 2026-03-23
 tags: [people, band, rock, mandarin-music, golden-melody-awards, concerts, music-industry]
 subcategory: 'Music & Performance'

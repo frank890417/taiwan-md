@@ -1,5 +1,5 @@
 ---
-title: 'Ethnic Groups (Minnan, Hakka, Indigenous, Mainlanders, New Immigrants)'
+title: "Taiwan's 5 Ethnic Groups: Minnan, Hakka, Indigenous, Mainlanders & New Immigrants"
 description: "An apology ceremony, a march of ten thousand, 570,000 families who arrived by marriage — Taiwan's ethnic story is far more complicated than 'multicultural harmony' suggests."
 date: 2026-03-31
 tags:
