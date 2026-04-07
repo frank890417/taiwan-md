@@ -1,7 +1,7 @@
 {
   "version": "3.2",
-  "timestamp": "2026-04-07T05:02:56Z",
+  "timestamp": "2026-04-07T08:47:09Z",
   "total": 1,
-  "flagged": 0,
-  "files": []
+  "flagged": 1,
+  "files": [{ "file": "knowledge/Culture/澎湖民俗文化.md", "score": 4 }]
 }

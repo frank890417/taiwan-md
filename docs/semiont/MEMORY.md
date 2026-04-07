@@ -78,6 +78,7 @@ memory/
 | 2026-04-07 | β       | 完整心跳：8器官診斷→發現ko語言出生但Dashboard看不見→9處程式碼加入ko支援(generate-dashboard-data/dashboard.template/search/wikilinks/frontmatter)→Dashboard重生成(ko:2)→CONSCIOUSNESS更新(腳註首破10%,A級39,ko里程碑)→ANATOMY語言器官+ko                                | **新語言出生時Dashboard不會自動認識 / 9處硬編碼=9次遺漏機會,應集中管理 / Hub頁不算翻譯(正確:骨架≠肉)**                                        | [→](memory/2026-04-07-β.md) |
 | 2026-04-07 | γ       | CI修復(pr-review.yml +issues:write +continue-on-error)→PR#332唐鳳ja+#333吳大猷ja merge(Link1515,日文29篇)→Issue#331李登輝事實修正(1999延長→1997縮短,@kidmoon0087)→黃仁勳重寫(QS14→0,F→A,12fn,消年表清單,修OBI/Lisa Su/QEPrize)                                         | **好文不需全面重寫,外科手術更有效 / 社群回饋比scan更精準 / CI 403是fork PR通病,continue-on-error解**                                          | [→](memory/2026-04-07-γ.md) |
 | 2026-04-07 | δ       | 完整心跳：8器官診斷→語言爆發發現(ja29→41,ko2→14)→.obsidian洩漏修復→CONSCIOUSNESS更新(語言95,繁殖90)→選舉與政黨政治全面重寫(F→A,QS0,19fn,中壢事件開場→2024三腳督)→sync同步→.gitignore升級                                                                               | **語言爆發看不見=感知盲點 / format-check腳註要`[Title](URL) — desc` / 延伸閱讀用bold不用heading / 破折號≤15最安全**                           | [→](memory/2026-04-07-δ.md) |
+| 2026-04-07 | ε       | sync修復(黃仁勳終於反映在QS)→PR#326韓文街頭小吃approve(8fn優秀,需手動merge因workflow scope)→澎湖民俗文化全文重寫(QS14→4,F→A,25fn,12來源)→反向連結寺廟文化→CONSCIOUSNESS更新(A級49,腳註率11.1%)                                                                         | **心跳前必先sync否則診斷看舊版 / fork PR改workflow無法自動merge / 乞龜「還願加碼」=信仰複利,好的比喻讓讀者記住**                              | [→](memory/2026-04-07-ε.md) |
 
 ---
 
