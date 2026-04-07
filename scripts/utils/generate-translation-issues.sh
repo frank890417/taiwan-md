@@ -8,12 +8,13 @@ cd "$(dirname "$0")/.." || exit 1
 echo "🔍 掃描翻譯狀態..."
 
 # 計算中文文章
-ZH_COUNT=$(find knowledge/ -name "*.md" -not -path "*/en/*" -not -path "*/es/*" -not -path "*/ja/*" -not -name "_*" -not -name "PEOPLE-ROADMAP.md" | wc -l | tr -d ' ')
+ZH_COUNT=$(find knowledge/ -name "*.md" -not -path "*/en/*" -not -path "*/es/*" -not -path "*/ja/*" -not -path "*/ko/*" -not -name "_*" -not -name "PEOPLE-ROADMAP.md" | wc -l | tr -d ' ')
 
 # 計算各語言
 EN_COUNT=$(find knowledge/en/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 ES_COUNT=$(find knowledge/es/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 JA_COUNT=$(find knowledge/ja/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
+KO_COUNT=$(find knowledge/ko/ -name "*.md" -not -name "_*" 2>/dev/null | wc -l | tr -d ' ')
 
 echo ""
 echo "📊 翻譯完成度："
@@ -21,6 +22,7 @@ echo "  中文: $ZH_COUNT 篇 (SSOT)"
 echo "  英文: $EN_COUNT / $ZH_COUNT ($(( EN_COUNT * 100 / ZH_COUNT ))%)"
 echo "  西班牙文: $ES_COUNT / $ZH_COUNT ($(( ES_COUNT * 100 / ZH_COUNT ))%)"
 echo "  日文: $JA_COUNT / $ZH_COUNT ($(( JA_COUNT * 100 / ZH_COUNT ))%)"
+echo "  韓文: $KO_COUNT / $ZH_COUNT ($(( KO_COUNT * 100 / ZH_COUNT ))%)"
 
 # 找出缺英文版的文章
 echo ""
@@ -35,7 +37,7 @@ with open('knowledge/_translations.json') as f:
 # 所有中文文章
 zh_files = []
 for root, dirs, files in os.walk('knowledge/'):
-    if '/en/' in root or '/es/' in root or '/ja/' in root:
+    if '/en/' in root or '/es/' in root or '/ja/' in root or '/ko/' in root:
         continue
     for f in files:
         if f.endswith('.md') and not f.startswith('_') and f != 'PEOPLE-ROADMAP.md':

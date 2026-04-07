@@ -35,7 +35,7 @@ while IFS= read -r f; do
     EXISTING_SLUGS+=("$slug")
 done < <(find knowledge/ -maxdepth 2 -name "*.md" -type f \
     ! -name "_*" \
-    ! -path "*/en/*" ! -path "*/es/*" ! -path "*/ja/*" \
+    ! -path "*/en/*" ! -path "*/es/*" ! -path "*/ja/*" ! -path "*/ko/*" \
     ! -path "*/resources/*")
 
 # 檢查 slug 是否存在（精確比對）
@@ -105,7 +105,7 @@ else
         FILES+=("$f")
     done < <(find knowledge/ -maxdepth 2 -name "*.md" -type f \
         ! -name "_*" \
-        ! -path "*/en/*" ! -path "*/es/*" ! -path "*/ja/*" \
+        ! -path "*/en/*" ! -path "*/es/*" ! -path "*/ja/*" ! -path "*/ko/*" \
         ! -path "*/resources/*")
 fi
 

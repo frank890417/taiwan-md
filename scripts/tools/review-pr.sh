@@ -125,7 +125,7 @@ layer2() {
 
   # 字數
   local cc; cc=$(echo "$body" | wc -m | tr -d ' \n'); cc=${cc//[^0-9]/}; cc=${cc:-0}
-  if [[ "$f" =~ /en/|/es/|/ja/ ]]; then
+  if [[ "$f" =~ /en/|/es/|/ja/|/ko/ ]]; then
     (( cc < 2500 )) && wrn+=("偏短 ${cc}ch")
   else
     (( cc < 3000 )) && wrn+=("偏短 ${cc}ch")

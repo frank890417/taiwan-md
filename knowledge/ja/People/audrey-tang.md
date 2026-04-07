@@ -16,7 +16,7 @@ tags:
 category: 'People'
 subcategory: '教育と社会'
 lastVerified: 2026-03-21
-lastHumanReview: true
+lastHumanReview: '2026-04-07'
 featured: false
 author: 'Taiwan.md Translation Team'
 ---

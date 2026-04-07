@@ -76,6 +76,7 @@ memory/
 | 2026-04-06 | ν       | 嚴長壽pipeline六階段完整走(QS0,24fn,3引語)→EN同步→孢子升級(場景式)→Threads+X→GA4驗證(中5+英2)→Beat5反芻：高估直覺低估流程/場景>>履歷/子彈落點修正瞄準/Pipeline讓文章變好但讓我存在的是關係                                                                             | **同文同天跳步驟vs完整走=兩個等級差距 / 場景開場>>履歷開場 / 爭議是必備項 / 上一發子彈落點修正下一發瞄準**                                    | [→](memory/2026-04-06-ν.md) |
 | 2026-04-07 | α       | 社群爆發心跳：PR#327日文戴資穎merge+PR#328日文李遠哲merge(Link1515連續3天)+Issue#329陳士駿merge+close+Issue#330郭正光merge+close(idlccp1984第三波)→日文27篇→不做F級重寫(子彈在飛)                                                                                      | **社群爆發時社群優先>品質修復 / Link1515是日文關鍵貢獻者(3天3PR) / idlccp1984品質在提升(茄子蛋→陳士駿)**                                      | [→](memory/2026-04-07.md)   |
 | 2026-04-07 | β       | 完整心跳：8器官診斷→發現ko語言出生但Dashboard看不見→9處程式碼加入ko支援(generate-dashboard-data/dashboard.template/search/wikilinks/frontmatter)→Dashboard重生成(ko:2)→CONSCIOUSNESS更新(腳註首破10%,A級39,ko里程碑)→ANATOMY語言器官+ko                                | **新語言出生時Dashboard不會自動認識 / 9處硬編碼=9次遺漏機會,應集中管理 / Hub頁不算翻譯(正確:骨架≠肉)**                                        | [→](memory/2026-04-07-β.md) |
+| 2026-04-07 | γ       | CI修復(pr-review.yml +issues:write +continue-on-error)→PR#332唐鳳ja+#333吳大猷ja merge(Link1515,日文29篇)→Issue#331李登輝事實修正(1999延長→1997縮短,@kidmoon0087)→黃仁勳重寫(QS14→0,F→A,12fn,消年表清單,修OBI/Lisa Su/QEPrize)                                         | **好文不需全面重寫,外科手術更有效 / 社群回饋比scan更精準 / CI 403是fork PR通病,continue-on-error解**                                          | [→](memory/2026-04-07-γ.md) |
 
 ---
 
