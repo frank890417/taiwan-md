@@ -36,8 +36,12 @@ jobs:
             [[ -z "$f" ]] && continue
             if [[ "$f" =~ ^knowledge/.*\.md$ ]] || [[ "$f" =~ ^src/content/.*\.md$ ]]; then
               HAS_CONTENT=true
-              # Check if it's translation (en/ja/es subdir)
-              if [[ ! "$f" =~ /en/|/ja/|/es/ ]]; then
+              # Translation locale segment (knowledge/<lang>/… or src/content/<lang>/…)
+              # Keep locales in sync with .github/workflows/translation-check.yml (+ pt/th/id/ar from its validator)
+              if [[ "$f" =~ ^knowledge/(en|es|ja|ko|fr|de|vi|pt|th|id|ar)/ ]] || \
+                 [[ "$f" =~ ^src/content/(en|es|ja|ko|fr|de|vi|pt|th|id|ar)/ ]]; then
+                :
+              else
                 TRANSLATION_ONLY=false
               fi
             else
