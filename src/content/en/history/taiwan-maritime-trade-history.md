@@ -105,6 +105,3 @@ Facing 21st-century challenges, Taiwan should perhaps reconsider its maritime id
 ---
 
 Further Reading:
-- [Dutch, Spanish and Koxinga Era](/en/history/dutch-spanish-and-koxinga-era)
-- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) 
-- [Taiwan Coastal Landforms and Seascapes](/en/geography/taiwan-coastal-landforms-and-seascapes)

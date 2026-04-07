@@ -31,7 +31,7 @@ const CATEGORIES = [
   'Society',
   'Technology',
 ];
-const LANGS = ['', 'en', 'es', 'ja'];
+const LANGS = ['', 'en', 'es', 'ja', 'ko'];
 
 // ── Build comprehensive article index ──
 const exactMatch = new Set(); // exact filename (no .md)

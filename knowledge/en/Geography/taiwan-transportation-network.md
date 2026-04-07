@@ -308,6 +308,3 @@ Future Taiwan transportation will be more intelligent, greener, and more human-c
 ---
 
 Further Reading:
-- [Taiwan Railway History](/en/History/taiwan-railway-history)
-- [Taiwan Urban Development and Rural-Urban Divide](/en/Geography/taiwan-urban-development-and-rural-urban-divide)
-- [Taiwan Island Geographic Features and Formation](/en/Geography/geography-and-geology)

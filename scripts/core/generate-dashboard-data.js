@@ -18,7 +18,18 @@ const __dirname = path.dirname(__filename);
 const PROJECT_ROOT = path.join(__dirname, '../..');
 const KNOWLEDGE_DIR = path.join(PROJECT_ROOT, 'knowledge');
 const OUTPUT_DIR = path.join(PROJECT_ROOT, 'public/api');
-const EDITORIAL_PATH = path.join(PROJECT_ROOT, 'docs', 'editorial', 'EDITORIAL.md');
+const EDITORIAL_PATH = path.join(
+  PROJECT_ROOT,
+  'docs',
+  'editorial',
+  'EDITORIAL.md',
+);
+const QUALITY_BASELINE_PATH = path.join(
+  PROJECT_ROOT,
+  'scripts',
+  'tools',
+  '.quality-baseline.json',
+);
 
 // PascalCase category directories (zh-TW SSOT)
 const CATEGORIES = [
@@ -38,7 +49,7 @@ const CATEGORIES = [
 ];
 
 // Translation language directories
-const TRANSLATION_LANGS = ['en', 'es', 'ja'];
+const TRANSLATION_LANGS = ['en', 'es', 'ja', 'ko'];
 
 // Ensure output directory exists
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -160,32 +171,109 @@ function countWords(text) {
 }
 
 // ---------------------------------------------------------------------------
-// Git helpers
+// Git helpers — batch cache (1 exec for all files, not N×2)
 // ---------------------------------------------------------------------------
-function getGitRevisionCount(filePath) {
+let _gitCache = null;
+
+function buildGitCache() {
+  if (_gitCache) return _gitCache;
+  _gitCache = new Map();
+
+  // Threshold: commits touching more than this many knowledge/ files are
+  // considered "batch fixes" (format corrections, bulk link repairs, etc.)
+  // and should NOT count as "last modified" for the Activity Feed.
+  const BATCH_THRESHOLD = 50;
+
   try {
-    const result = execSync(`git rev-list --count HEAD -- "${filePath}"`, {
-      cwd: PROJECT_ROOT,
-      encoding: 'utf8',
-      stdio: ['pipe', 'pipe', 'pipe'],
-    });
-    return parseInt(result.trim(), 10) || 0;
-  } catch {
-    return 0;
+    const logOutput = execSync(
+      'git log -z --name-only --format="COMMIT|%H|%aI|%an|%s" -- "knowledge/"',
+      { cwd: PROJECT_ROOT, encoding: 'utf8', maxBuffer: 10 * 1024 * 1024 },
+    );
+
+    // --- Pass 1: parse all commits and their files ---
+    const commits = []; // { hash, date, author, files: string[] }
+    let cur = null;
+
+    for (let token of logOutput.split('\0')) {
+      token = token.replace(/^\n+/, '').trim();
+      if (!token) continue;
+
+      if (token.startsWith('COMMIT|')) {
+        if (cur) commits.push(cur);
+        const parts = token.split('|');
+        cur = {
+          hash: parts[1] || '',
+          date: parts[2] || '',
+          author: parts[3] || '',
+          subject: parts[4] || '',
+          files: [],
+        };
+      } else if (
+        cur &&
+        token.startsWith('knowledge/') &&
+        token.endsWith('.md')
+      ) {
+        cur.files.push(token);
+      }
+    }
+    if (cur) commits.push(cur);
+
+    // --- Pass 2: build per-file cache, skipping batch commits for lastModified ---
+    // Batch = touches many files AND is not a content rewrite
+    const BATCH_SUBJECT_OK = /rewrite:|feat\(|feat:/i; // these are real content changes
+    const batchHashes = new Set();
+    for (const c of commits) {
+      if (c.files.length > BATCH_THRESHOLD) {
+        batchHashes.add(c.hash);
+      } else if (c.files.length > 5 && !BATCH_SUBJECT_OK.test(c.subject)) {
+        // 5-50 files: only skip if subject looks like batch fix/heal/evolve/cross-link
+        batchHashes.add(c.hash);
+      }
+    }
+
+    for (const c of commits) {
+      const isBatch = batchHashes.has(c.hash);
+      for (const file of c.files) {
+        const key = path.resolve(PROJECT_ROOT, file);
+        let entry = _gitCache.get(key);
+        if (!entry) {
+          entry = {
+            lastModified: isBatch ? '' : c.date, // defer if batch
+            commitHash: isBatch ? '' : c.hash.slice(0, 8),
+            commitSubject: isBatch ? '' : c.subject,
+            revisionCount: 0,
+            contributors: [],
+          };
+          _gitCache.set(key, entry);
+        } else if (!entry.lastModified && !isBatch) {
+          // Fill in from the first non-batch commit
+          entry.lastModified = c.date;
+          entry.commitHash = c.hash.slice(0, 8);
+          entry.commitSubject = c.subject;
+        }
+        // Always count revisions and contributors (batch or not)
+        entry.revisionCount += 1;
+        if (c.author && !entry.contributors.includes(c.author)) {
+          entry.contributors.push(c.author);
+        }
+      }
+    }
+  } catch (e) {
+    console.error('Git cache error:', e.message);
   }
+  return _gitCache;
 }
 
-function getGitCommitHash(filePath) {
-  try {
-    const result = execSync(`git log -1 --format="%h" -- "${filePath}"`, {
-      cwd: PROJECT_ROOT,
-      encoding: 'utf8',
-      stdio: ['pipe', 'pipe', 'pipe'],
-    });
-    return result.trim() || '';
-  } catch {
-    return '';
-  }
+function getGitInfo(filePath) {
+  const resolved = path.resolve(filePath);
+  return (
+    buildGitCache().get(resolved) || {
+      lastModified: '',
+      commitHash: '',
+      revisionCount: 0,
+      contributors: [],
+    }
+  );
 }
 
 // ---------------------------------------------------------------------------
@@ -199,6 +287,25 @@ function deriveSlug(fileName) {
     .replace(/[^a-z0-9\u4e00-\u9fff\u3400-\u4dbf-]/g, '')
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '');
+}
+
+// ---------------------------------------------------------------------------
+// Quality score cache (from quality-scan --json)
+// ---------------------------------------------------------------------------
+function loadQualityScores() {
+  const scores = new Map();
+  try {
+    if (fs.existsSync(QUALITY_BASELINE_PATH)) {
+      const data = JSON.parse(fs.readFileSync(QUALITY_BASELINE_PATH, 'utf8'));
+      for (const f of data.files || []) {
+        // f.file is like "People/郭婞淳.md" — match by filename
+        scores.set(f.file, { score: f.score, reasons: f.reasons || '' });
+      }
+    }
+  } catch (e) {
+    console.error('Quality baseline load error:', e.message);
+  }
+  return scores;
 }
 
 // ---------------------------------------------------------------------------
@@ -302,11 +409,14 @@ function countTranslationsByCategory() {
 // ---------------------------------------------------------------------------
 function getEditorialLastModified() {
   try {
-    const result = execSync(`git log -1 --format="%aI" -- docs/editorial/EDITORIAL.md`, {
-      cwd: PROJECT_ROOT,
-      encoding: 'utf8',
-      stdio: ['pipe', 'pipe', 'pipe'],
-    });
+    const result = execSync(
+      `git log -1 --format="%aI" -- docs/editorial/EDITORIAL.md`,
+      {
+        cwd: PROJECT_ROOT,
+        encoding: 'utf8',
+        stdio: ['pipe', 'pipe', 'pipe'],
+      },
+    );
     return result.trim() ? new Date(result.trim()) : null;
   } catch {
     return null;
@@ -321,6 +431,9 @@ async function main() {
 
   // Build translation lookup
   const translationMap = buildTranslationMap();
+
+  // Load quality scores cache
+  const qualityScores = loadQualityScores();
 
   // Get all zh-TW articles
   const rawArticles = getZhTwArticles();
@@ -345,13 +458,18 @@ async function main() {
       }
 
       const slug = frontmatter.slug || deriveSlug(fileName);
-      const revision = getGitRevisionCount(raw.filePath);
-      const commitHash = getGitCommitHash(raw.filePath);
+      const gitInfo = getGitInfo(raw.filePath);
+      const revision = gitInfo.revisionCount;
+      const commitHash = gitInfo.commitHash;
+      const commitSubject = gitInfo.commitSubject || '';
+      const lastModified = gitInfo.lastModified
+        ? gitInfo.lastModified.slice(0, 10)
+        : null;
 
       const wordCount = countWords(body);
-      const lastHumanReview =
-        frontmatter.lastHumanReview === true ||
-        frontmatter.lastHumanReview === 'true';
+      const lastHumanReview = frontmatter.lastHumanReview
+        ? String(frontmatter.lastHumanReview)
+        : false;
       const featured =
         frontmatter.featured === true || frontmatter.featured === 'true';
       const tagCount = tags.length;
@@ -374,12 +492,32 @@ async function main() {
           (featured ? 10 : 0),
       );
 
+      // Quality score from cached quality-scan baseline (keys are lowercase)
+      const qKey = raw.relativePath.toLowerCase();
+      const qData = qualityScores.get(qKey);
+      const qualityScore = qData ? qData.score : 0; // 0 = passed (not in flagged list)
+
+      // Format check (lightweight inline — mirrors format-check.sh core checks)
+      const hasOverview =
+        />\s*\*\*30\s*秒概覽|^## 30 秒概覽|>\s*\*\*30-Second Overview/m.test(
+          body,
+        );
+      const hasReading = /^\*\*延伸閱讀\*\*/m.test(body);
+      const hasRefHeading = /^## 參考資料/m.test(body);
+      const fnCount = (body.match(/^\[\^[0-9a-zA-Z_-]+\]:/gm) || []).length;
+      const formatIssues =
+        (hasOverview ? 0 : 1) +
+        (hasReading ? 0 : 1) +
+        (fnCount > 0 && !hasRefHeading ? 1 : 0);
+      // 0 = pass, 1 = warn, 2-3 = fail
+
       articles.push({
         title: frontmatter.title || fileName,
         slug,
         category: raw.category,
         subcategory: frontmatter.subcategory || null,
         date: frontmatter.date || null,
+        lastModified,
         lastVerified,
         lastHumanReview,
         featured,
@@ -389,20 +527,26 @@ async function main() {
         translations,
         revision,
         commitHash,
+        commitSubject,
         description: frontmatter.description || '',
         healthScore,
+        qualityScore,
+        formatIssues,
+        hasOverview,
+        hasReading,
+        fnCount,
       });
     } catch (err) {
       console.error(`Error processing ${raw.filePath}: ${err.message}`);
     }
   }
 
-  // Sort by date descending (newest first)
+  // Sort by lastModified descending (most recently changed first)
   articles.sort((a, b) => {
-    if (!a.date && !b.date) return 0;
-    if (!a.date) return 1;
-    if (!b.date) return -1;
-    return b.date.localeCompare(a.date);
+    if (!a.lastModified && !b.lastModified) return 0;
+    if (!a.lastModified) return 1;
+    if (!b.lastModified) return -1;
+    return b.lastModified.localeCompare(a.lastModified);
   });
 
   // =========================================================================
@@ -426,10 +570,10 @@ async function main() {
   const thirtyDaysStr = thirtyDaysAgo.toISOString().slice(0, 10);
 
   const articlesLast7Days = articles.filter(
-    (a) => a.date && a.date >= sevenDaysStr,
+    (a) => a.lastModified && a.lastModified >= sevenDaysStr,
   ).length;
   const articlesLast30Days = articles.filter(
-    (a) => a.date && a.date >= thirtyDaysStr,
+    (a) => a.lastModified && a.lastModified >= thirtyDaysStr,
   ).length;
 
   const humanReviewedCount = articles.filter((a) => a.lastHumanReview).length;

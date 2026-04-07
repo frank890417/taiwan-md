@@ -28,7 +28,7 @@ const CATEGORIES = [
   'Society',
   'Technology',
 ];
-const LANGS = ['', 'en', 'es', 'ja'];
+const LANGS = ['', 'en', 'es', 'ja', 'ko'];
 
 // Parse args
 const args = process.argv.slice(2);

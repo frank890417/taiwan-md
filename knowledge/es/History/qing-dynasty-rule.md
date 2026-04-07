@@ -134,7 +134,5 @@ La **síntesis cultural** creó tradiciones distintivamente taiwanesas que combi
 
 ## Temas Relacionados
 
-- [[dutch-spanish-and-koxinga-era]]
-- [[History/Japanese Colonial Period]]
-- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[economic-miracle]]
+- [dutch-spanish-and-koxinga-era](/history/dutch-spanish-and-koxinga-era)
+- [economic-miracle](/economy/economic-miracle)

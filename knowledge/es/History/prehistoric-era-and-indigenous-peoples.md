@@ -130,8 +130,6 @@ La era prehistórica y los pueblos indígenas de Taiwán representan un capítul
 
 ## Temas Relacionados
 
-- [[dutch-spanish-and-koxinga-era]]
-- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[endemic-species]]
-- [[Music/Popular Music and Golden Melody Awards]]
-- [[contemporary-art]]
+- [dutch-spanish-and-koxinga-era](/history/dutch-spanish-and-koxinga-era)
+- [endemic-species](/nature/endemic-species)
+- [contemporary-art](/art/contemporary-art)

@@ -115,7 +115,3 @@ Las plataformas de aprendizaje digital se desarrollan rápidamente. Durante la p
 
 ## Temas Relacionados
 
-- [[Sistema de Transporte de Taiwán]]: Cómo la cultura de desplazamiento influye en los patrones de aprendizaje
-- [[Religión y Creencias Populares]]: El papel de la educación cultural tradicional en la educación moderna
-- [[Cultura de Tiendas de Conveniencia]]: Cómo la cultura de conveniencia afecta los hábitos de estudio
-- [[Cultura del Café de Taiwán]]: El fenómeno de las cafeterías convirtiéndose en espacios de estudio

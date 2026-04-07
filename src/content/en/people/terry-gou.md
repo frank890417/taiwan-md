@@ -71,7 +71,7 @@ Today, as Hon Hai pivots toward electric vehicles, artificial intelligence, and 
 
 ## Further Reading
 
-- [[施振榮]]: Acer founder and advocate of the "smile curve" theory
-- [[tsmc-morris-chang]]: TSMC founder and semiconductor industry pioneer
-- [[jensen-huang]]: NVIDIA founder and AI chip leader
-- [[mark-liu]]: TSMC chairman and semiconductor technology leader
+- [施振榮](/people/施振榮): Acer founder and advocate of the "smile curve" theory
+- [tsmc-morris-chang](/people/tsmc-morris-chang): TSMC founder and semiconductor industry pioneer
+- [jensen-huang](/people/jensen-huang): NVIDIA founder and AI chip leader
+- [mark-liu](/people/mark-liu): TSMC chairman and semiconductor technology leader

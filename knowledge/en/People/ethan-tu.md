@@ -84,8 +84,8 @@ In a region where authoritarian surveillance tools often masquerade as innovatio
 
 ## Further Reading
 
-- [[唐鳳]] — a fellow architect of Taiwan’s digital democracy
-- [[半導體產業]] — the hardware ecosystem supporting AI development
+- [唐鳳](/people/唐鳳) — a fellow architect of Taiwan’s digital democracy
+- [半導體產業](/technology/半導體產業) — the hardware ecosystem supporting AI development
 
 ## References
 

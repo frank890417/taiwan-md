@@ -201,7 +201,6 @@ His ongoing commitment to technological innovation ensures that his influence wi
 
 ## Related Topics
 
-- [[contemporary-art]]
-- [[ethnic-groups]]
-- [[democratization]]
-- [[teresa-teng]] _(coming soon)_
+- [contemporary-art](/art/contemporary-art)
+- [ethnic-groups](/culture/ethnic-groups)
+- [teresa-teng](/people/teresa-teng) _(coming soon)_

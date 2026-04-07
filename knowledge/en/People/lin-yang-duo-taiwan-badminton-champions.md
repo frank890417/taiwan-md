@@ -87,7 +87,6 @@ And this chemistry and cooperation might be exactly the spirit Taiwan society ne
 
 ## Further Reading
 
-- [[tai-tzu-ying]]: Taiwan's badminton queen, world number one record holder
-- [[kuo-hsing-chun-olympic-weightlifting-champion]]: Fellow Tokyo Olympic gold medalist
-- [[yang-yung-wei-judo-olympic-silver]]: Tokyo Olympic judo silver medalist
-- [[Lee Chih-kai]]: Tokyo Olympic gymnastics pommel horse silver medalist
+- [tai-tzu-ying](/people/tai-tzu-ying): Taiwan's badminton queen, world number one record holder
+- [kuo-hsing-chun-olympic-weightlifting-champion](/people/kuo-hsing-chun-olympic-weightlifting-champion): Fellow Tokyo Olympic gold medalist
+- [yang-yung-wei-judo-olympic-silver](/people/yang-yung-wei-judo-olympic-silver): Tokyo Olympic judo silver medalist

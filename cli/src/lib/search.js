@@ -154,7 +154,7 @@ function categoryFromUrl(url) {
   if (!url) return '';
   const parts = url.replace(/^\//, '').split('/');
   // Skip "en"/"es"/"ja" prefix
-  if (['en', 'es', 'ja'].includes(parts[0]) && parts.length > 1) {
+  if (['en', 'es', 'ja', 'ko'].includes(parts[0]) && parts.length > 1) {
     return parts[1];
   }
   return parts[0] || '';

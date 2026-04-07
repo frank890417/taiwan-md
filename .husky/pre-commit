@@ -1,4 +1,38 @@
+# 確保 node / bun 在 PATH 中（husky 環境 PATH 比 shell 環境窄）
+export PATH="$PATH:/usr/local/bin:/Users/cheyuwu/.bun/bin"
+
 bunx lint-staged
 
 # Validate frontmatter on staged .md files in knowledge/
 node scripts/core/test-frontmatter.mjs --staged
+
+# Validate format (延伸閱讀格式 + [[wikilink]] 殘留 + 斷連結) on staged knowledge/*.md
+# 為什麼：「規則在文件裡」≠「規則被執行」。2026-04-04 session η 的教訓。
+staged_md=$(git diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -v '^knowledge/en/' | grep -v '^knowledge/es/' | grep -v '^knowledge/ja/' || true)
+if [ -n "$staged_md" ]; then
+  format_fail=0
+  link_fail=0
+  for f in $staged_md; do
+    # 忽略 _Hub 檔案
+    [[ "$(basename "$f")" == _* ]] && continue
+    # 檢查列表項目中的 [[wikilink]] 殘留（Astro 不渲染）
+    if grep -n '^\s*- \[\[' "$f" > /dev/null 2>&1; then
+      echo "❌ $f: 列表中有 [[wikilink]] 殘留（Astro 不渲染）"
+      grep -n '^\s*- \[\[' "$f" | head -3
+      echo "   修正: [[X]] → [X](/category/slug)"
+      format_fail=1
+    fi
+    # 驗證所有 [[wikilink]] 目標存在
+    broken=$(bash scripts/tools/wikilink-validate.sh "$f" 2>&1 | grep -c '❌' || true)
+    if [ "$broken" -gt 0 ]; then
+      echo "❌ $f: $broken 個斷裂 wikilink（目標不存在）"
+      bash scripts/tools/wikilink-validate.sh "$f" 2>&1 | grep '❌' | head -3
+      link_fail=1
+    fi
+  done
+  if [ "$format_fail" = "1" ] || [ "$link_fail" = "1" ]; then
+    echo ""
+    echo "💡 跳過此檢查（緊急修復）: git commit --no-verify"
+    exit 1
+  fi
+fi

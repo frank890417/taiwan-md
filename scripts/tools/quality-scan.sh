@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# quality-scan.sh v3.0 — 偵測疑似 AI 空洞模板的文章
-# 用法: bash tools/quality-scan.sh [--fix] [--json] [--diff] [--sort]
+# quality-scan.sh v3.3 — 偵測疑似 AI 空洞模板的文章 + 引用健康度整合報告
+# 用法: bash tools/quality-scan.sh [--fix] [--json] [--diff] [--sort] [--worst N]
 #
 # v3.0 新增:
 #   - 塑膠句式偵測（EDITORIAL v3 五品種）
@@ -28,6 +28,7 @@
 #  13. 🆕 THIN：稀薄段落（H2 區塊內散文行 < 3）
 #  14. 🆕 QUALITY-DECAY：前後半品質衰退（後段散文比例 < 前段 70%）
 #  15. 🆕 CHINA-TERM：中國用語偵測（視頻/質量/軟件/博主/算法等 30+ 詞）
+#  16. 🆕 CITATION-DESERT：引用荒漠偵測（正式腳註 [^N]: 為零且字數 > 500）
 
 set -uo pipefail
 cd "$(dirname "$0")/../.."
@@ -45,11 +46,20 @@ JSON_MODE=false
 FIX_MODE=false
 DIFF_MODE=false
 SORT_MODE=false
+WORST_N=0
 for arg in "$@"; do
   [[ "$arg" == "--json" ]] && JSON_MODE=true
   [[ "$arg" == "--fix" ]] && FIX_MODE=true
   [[ "$arg" == "--diff" ]] && DIFF_MODE=true
   [[ "$arg" == "--sort" ]] && SORT_MODE=true
+done
+# Parse --worst N (two-arg flag)
+args=("$@")
+for ((i=0; i<${#args[@]}; i++)); do
+  if [[ "${args[$i]}" == "--worst" ]] && [[ $((i+1)) -lt ${#args[@]} ]]; then
+    WORST_N="${args[$((i+1))]}"
+    SORT_MODE=true  # --worst implies --sort
+  fi
 done
 
 SINGLE_FILE=""
@@ -66,6 +76,17 @@ declare -a FLAGGED_FILES=()
 declare -a SCORES=()
 declare -a REASONS=()
 
+# ── Citation health tracking (造橋鋪路: 每次掃描自動報告引用健康度) ──
+CITE_TOTAL=0
+CITE_HAS_FN=0
+CITE_HAS_URL=0
+CITE_NAKED=0
+CITE_GRADE_A=0
+CITE_GRADE_B=0
+CITE_GRADE_C=0
+CITE_GRADE_D=0
+CITE_GRADE_F=0
+
 scan_file() {
   local f="$1"
   local score=0
@@ -76,6 +97,20 @@ scan_file() {
   
   # Skip very short files (stubs)
   [[ $lines -lt 20 ]] && return
+
+  # Skip files without frontmatter (not public Astro routes — e.g. _Home.md Obsidian vault hub)
+  # Frontmatter detection: first line must be `---`
+  local first_line
+  first_line=$(head -1 "$f")
+  [[ "$first_line" != "---" ]] && return
+
+  # ── Hub page detection (v3.3) ──
+  # Hub pages (_XXX Hub.md) are category index pages with natural list structure.
+  # Reduce structural penalties (LIST-DUMP, THIN, QUALITY-DECAY) for these pages.
+  local is_hub=false
+  local basename_f
+  basename_f=$(basename "$f")
+  [[ "$basename_f" == _*Hub* ]] && is_hub=true
 
   # ── 1. Bullet 密度 ──
   local bullet_lines
@@ -283,7 +318,13 @@ scan_file() {
   local back_ratio=0
   [[ $front_total -gt 0 ]] && front_ratio=$((front_bullet * 100 / front_total))
   [[ $back_total -gt 0 ]] && back_ratio=$((back_bullet * 100 / back_total))
-  if [[ $back_ratio -gt 40 ]] && [[ $front_total -gt 0 ]] && [[ $back_ratio -gt $((front_ratio * 2)) ]]; then
+  if [[ "$is_hub" == true ]]; then
+    # Hub pages naturally have article index lists in back half — cap at +1
+    if [[ $back_ratio -gt 60 ]] && [[ $front_total -gt 0 ]] && [[ $back_ratio -gt $((front_ratio * 3)) ]]; then
+      score=$((score + 1))
+      reasons="${reasons}後段清單堆砌${back_ratio}%(Hub減免) "
+    fi
+  elif [[ $back_ratio -gt 40 ]] && [[ $front_total -gt 0 ]] && [[ $back_ratio -gt $((front_ratio * 2)) ]]; then
     score=$((score + 3))
     reasons="${reasons}後段清單堆砌${back_ratio}% "
   elif [[ $back_ratio -gt 30 ]]; then
@@ -316,7 +357,13 @@ scan_file() {
   if [[ "$in_block" == true ]] && [[ $prose_in_block -lt 3 ]]; then
     thin_count=$((thin_count + 1))
   fi
-  if [[ $thin_count -ge 2 ]]; then
+  if [[ "$is_hub" == true ]]; then
+    # Hub pages may have short intro blocks for sub-topics — cap at +1
+    if [[ $thin_count -ge 4 ]]; then
+      score=$((score + 1))
+      reasons="${reasons}稀薄段落×${thin_count}(Hub減免) "
+    fi
+  elif [[ $thin_count -ge 2 ]]; then
     score=$((score + 2))
     reasons="${reasons}稀薄段落×${thin_count} "
   elif [[ $thin_count -ge 1 ]]; then
@@ -351,7 +398,13 @@ scan_file() {
   if [[ $front_prose_ratio -gt 0 ]]; then
     local decay_threshold_50=$(( front_prose_ratio / 2 ))
     local decay_threshold_70=$(( front_prose_ratio * 7 / 10 ))
-    if [[ $back_prose_ratio -lt $decay_threshold_50 ]]; then
+    if [[ "$is_hub" == true ]]; then
+      # Hub pages expect narrative intro → article index; only flag extreme decay
+      if [[ $back_prose_ratio -lt $(( front_prose_ratio / 4 )) ]]; then
+        score=$((score + 1))
+        reasons="${reasons}品質衰退前${front_prose_ratio}%後${back_prose_ratio}%(Hub減免) "
+      fi
+    elif [[ $back_prose_ratio -lt $decay_threshold_50 ]]; then
       score=$((score + 3))
       reasons="${reasons}品質衰退前${front_prose_ratio}%後${back_prose_ratio}% "
     elif [[ $back_prose_ratio -lt $decay_threshold_70 ]]; then
@@ -372,10 +425,21 @@ scan_file() {
   local china_found=""
   for cterm in "${china_terms[@]}"; do
     local count
-    count=$(grep -c "$cterm" "$f" 2>/dev/null || echo 0)
+    count=$(grep -c "$cterm" "$f" 2>/dev/null) || count=0
     if [[ $count -gt 0 ]]; then
-      china_hits=$((china_hits + count))
-      china_found="${china_found}${cterm}(${count}) "
+      # 扣除已知台灣用語包含中國用語子字串的誤判
+      # 例：「算法」會誤判台灣正確用語「演算法」
+      local false_pos
+      false_pos=0
+      case "$cterm" in
+        "算法") false_pos=$(grep -c "演算法" "$f" 2>/dev/null) || false_pos=0 ;;
+        "高清") false_pos=$(grep -c "高清愿" "$f" 2>/dev/null) || false_pos=0 ;;
+      esac
+      count=$((count - false_pos))
+      if [[ $count -gt 0 ]]; then
+        china_hits=$((china_hits + count))
+        china_found="${china_found}${cterm}(${count}) "
+      fi
     fi
   done
   if [[ $china_hits -ge 5 ]]; then
@@ -389,7 +453,55 @@ scan_file() {
     reasons="${reasons}中國用語×${china_hits}[${china_found}] "
   fi
 
+  # ── 16. CITATION-DESERT（引用荒漠：無正式腳註）──
+  local fn_def_count
+  fn_def_count=$(grep -cE '^\[\^[0-9a-zA-Z_-]+\]:' "$f" 2>/dev/null || echo "0")
+  fn_def_count=${fn_def_count//[[:space:]]/}
+  # Always compute content_words (needed for citation health grading below)
+  local content_words
+  content_words=$(awk 'BEGIN{fm=0} /^---$/{fm++; next} fm>=2{print}' "$f" | wc -w | tr -d '[:space:]')
+  if [[ $fn_def_count -eq 0 ]]; then
+    if [[ $content_words -gt 500 ]]; then
+      if [[ $url_count -eq 0 ]]; then
+        score=$((score + 4))
+        reasons="${reasons}引用荒漠(零腳註零URL) "
+      else
+        score=$((score + 2))
+        reasons="${reasons}引用荒漠(零腳註) "
+      fi
+    elif [[ $content_words -gt 200 ]]; then
+      score=$((score + 1))
+      reasons="${reasons}無腳註 "
+    fi
+  fi
+
   TOTAL=$((TOTAL + 1))
+
+  # ── Citation health grading (integrated from footnote-scan logic) ──
+  CITE_TOTAL=$((CITE_TOTAL + 1))
+  local cite_grade=""
+  if [[ $fn_def_count -ge 3 ]]; then
+    local cite_density=999999
+    [[ $fn_def_count -gt 0 ]] && cite_density=$((content_words / fn_def_count))
+    if [[ $cite_density -le 300 ]]; then
+      cite_grade="A"; CITE_GRADE_A=$((CITE_GRADE_A + 1))
+    else
+      cite_grade="B"; CITE_GRADE_B=$((CITE_GRADE_B + 1))
+    fi
+    CITE_HAS_FN=$((CITE_HAS_FN + 1))
+  elif [[ $fn_def_count -ge 1 ]]; then
+    cite_grade="B"; CITE_GRADE_B=$((CITE_GRADE_B + 1))
+    CITE_HAS_FN=$((CITE_HAS_FN + 1))
+  elif [[ $url_count -ge 3 ]]; then
+    cite_grade="C"; CITE_GRADE_C=$((CITE_GRADE_C + 1))
+    CITE_HAS_URL=$((CITE_HAS_URL + 1))
+  elif [[ $url_count -ge 1 ]]; then
+    cite_grade="D"; CITE_GRADE_D=$((CITE_GRADE_D + 1))
+    CITE_HAS_URL=$((CITE_HAS_URL + 1))
+  else
+    cite_grade="F"; CITE_GRADE_F=$((CITE_GRADE_F + 1))
+    CITE_NAKED=$((CITE_NAKED + 1))
+  fi
 
   # 分級: 0-3 OK, 4-7 ⚠️ 可疑, 8+ 🔴 高度可疑
   if [[ $score -ge 4 ]]; then
@@ -404,12 +516,12 @@ scan_file() {
 echo ""
 if [[ "$JSON_MODE" == false ]]; then
   if [[ -n "$SINGLE_FILE" ]]; then
-    echo "🔍 quality-scan v3.0 — 掃描單一檔案: $SINGLE_FILE"
+    echo "🔍 quality-scan v3.3 — 掃描單一檔案: $SINGLE_FILE"
   else
-    echo "🔍 quality-scan v3.0 — 掃描 src/content/zh-TW/"
+    echo "🔍 quality-scan v3.3 — 掃描 src/content/zh-TW/"
   fi
   echo "   評分: 0-3 ✅ OK | 4-7 ⚠️ 可疑 | 8+ 🔴 高度可疑"
-  echo "   維度: 原11項 + LIST-DUMP + THIN + QUALITY-DECAY + CHINA-TERM"
+  echo "   維度: 原11項 + LIST-DUMP + THIN + QUALITY-DECAY + CHINA-TERM + CITATION-DESERT"
   echo ""
 fi
 
@@ -438,6 +550,11 @@ elif [[ ${#SCORES[@]} -gt 0 ]]; then
   for i in "${!SCORES[@]}"; do
     sorted_indices+=("$i")
   done
+fi
+
+# ── Apply --worst N limit (truncate sorted_indices) ──
+if [[ "$WORST_N" -gt 0 ]] && [[ ${#sorted_indices[@]} -gt "$WORST_N" ]]; then
+  sorted_indices=("${sorted_indices[@]:0:$WORST_N}")
 fi
 
 # ── Diff mode: load baseline into temp file for lookup ──
@@ -544,17 +661,44 @@ if [[ "$JSON_MODE" == false ]]; then
     echo -e "   ${GRN}✅ 已修復: ${fixed_count}${RST}"
   fi
   echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+  # ── Citation health summary (造橋鋪路: 每次掃描自動報告引用健康度) ──
+  if [[ -z "$SINGLE_FILE" ]] && [[ $CITE_TOTAL -gt 0 ]]; then
+    fn_pct=$((CITE_HAS_FN * 100 / CITE_TOTAL))
+    naked_pct=$((CITE_NAKED * 100 / CITE_TOTAL))
+    echo ""
+    echo "📋 引用健康度（整合自 footnote-scan 邏輯）"
+    echo -e "   掃描: ${CITE_TOTAL} 篇"
+    echo -e "   ${GRN}有腳註: ${CITE_HAS_FN} (${fn_pct}%)${RST}  ${YEL}僅URL: ${CITE_HAS_URL}${RST}  ${RED}裸奔: ${CITE_NAKED} (${naked_pct}%)${RST}"
+    echo -e "   等級: ${GRN}A:${CITE_GRADE_A}${RST} ${GRN}B:${CITE_GRADE_B}${RST} ${YEL}C:${CITE_GRADE_C}${RST} ${YEL}D:${CITE_GRADE_D}${RST} ${RED}F:${CITE_GRADE_F}${RST}"
+    if [[ $fn_pct -lt 10 ]]; then
+      echo -e "   ${RED}⚠️  腳註覆蓋率 ${fn_pct}% — 引用荒漠${RST}"
+    elif [[ $fn_pct -lt 30 ]]; then
+      echo -e "   ${YEL}🟡 腳註覆蓋率 ${fn_pct}% — 需要改善${RST}"
+    else
+      echo -e "   ${GRN}✅ 腳註覆蓋率 ${fn_pct}%${RST}"
+    fi
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  fi
 fi
 
 # ── JSON output ──
 if [[ "$JSON_MODE" == true ]]; then
   echo "{"
-  echo "  \"version\": \"3.0\","
+  echo "  \"version\": \"3.2\","
   echo "  \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\","
   echo "  \"total\": $TOTAL,"
   echo "  \"flagged\": $SUSPECT,"
   echo "  \"red\": $(printf '%s\n' ${SCORES[@]+"${SCORES[@]}"} | awk '$1>=8' | wc -l | tr -d '[:space:]'),"
   echo "  \"yellow\": $(printf '%s\n' ${SCORES[@]+"${SCORES[@]}"} | awk '$1>=4 && $1<8' | wc -l | tr -d '[:space:]'),"
+  echo "  \"citation_health\": {"
+  echo "    \"total\": $CITE_TOTAL,"
+  echo "    \"has_footnotes\": $CITE_HAS_FN,"
+  echo "    \"has_urls_only\": $CITE_HAS_URL,"
+  echo "    \"naked\": $CITE_NAKED,"
+  echo "    \"footnote_rate_pct\": $(( CITE_TOTAL > 0 ? CITE_HAS_FN * 100 / CITE_TOTAL : 0 )),"
+  echo "    \"grades\": {\"A\": $CITE_GRADE_A, \"B\": $CITE_GRADE_B, \"C\": $CITE_GRADE_C, \"D\": $CITE_GRADE_D, \"F\": $CITE_GRADE_F}"
+  echo "  },"
   echo "  \"files\": ["
   first=true
   for idx in ${sorted_indices[@]+"${sorted_indices[@]}"}; do
@@ -570,7 +714,7 @@ fi
 # ── Save baseline (always, for diff mode next time) ──
 {
   echo "{"
-  echo "  \"version\": \"3.0\","
+  echo "  \"version\": \"3.2\","
   echo "  \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\","
   echo "  \"total\": $TOTAL,"
   echo "  \"flagged\": $SUSPECT,"

@@ -62,16 +62,8 @@ Several factors interweave:
 ## References
 
 - [石川欽一郎 — Wikipedia](https://zh.wikipedia.org/wiki/石川欽一郎)
-- [藍蔭鼎 — Oriental Watercolor Style Named After Taiwan | Hong-Gah Foundation](https://chang-foundation.org/2024/05/02/藍蔭鼎-以台灣為名的東方水彩風/)
 - [Ni Chiang-huai — Wikipedia](https://en.wikipedia.org/wiki/Ni_Chiang-huai)
-- [Development Periods of Taiwanese Watercolor | Taiwan Land](http://www.taiwanland.tw/05album/watercolor.history/history07.html)
-- [New Art Era of Painting Taiwan: Lan Yin-ting, Liao Chi-chun | MOFA NGO Bilingual Website](https://taiwanngo.tw/Post/83100)
-- [Chien Chung-Wei | Taoyuan Online Museum](https://www.emuseum.com.tw/Artist2.aspx?id=G300_AA_100576)
-- [Professor Hong Dong-biao | National Arts Alliance](https://artmaitre.com/art/洪東標/)
 - [謝明錩 — Wikipedia](https://zh.wikipedia.org/wiki/謝明錩)
-- [Flow: Taiwan 50 Contemporary Watercolor Exhibition | Taiwan Land Development](https://www.tldc.com.tw/digital-gallery/artist/?aid=NKCtRT4yZImaXHKPUviXEFElBLw%20kRlgoG4mSZWb7PTW4rDWRWWnbQ%3D%3D&eid=TE00000025)
-- [Taiwan-Japan Watercolor Exchange Exhibition | Chimei Museum](https://www.chimeimuseum.org/special-exhibition/606eb84d292dc)
 - [Taiwanese Art — Wikipedia](https://en.wikipedia.org/wiki/Taiwanese_art)
 - [Ten Artistic Figures from Taiwan — Google Arts & Culture / National Taiwan Museum of Fine Arts](https://artsandculture.google.com/story/ten-artistic-figures-from-taiwan-that-you-should-know-national-taiwan-museum-of-fine-arts/rgWBeawmVAKFKA?hl=en-US)
-- [Artistic Conception: Chien Chung-Wei's Watercolor Art | Books.com.tw](https://www.books.com.tw/products/0010786552)
 - [Blazing New Trails for Modern Art — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=2dee0471-d866-432e-8e1c-d5df1105f31d&CatId=8)

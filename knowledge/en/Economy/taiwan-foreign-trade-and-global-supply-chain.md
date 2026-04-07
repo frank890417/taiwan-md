@@ -350,8 +350,4 @@ From semiconductor "sacred mountains defending the nation" to green technology n
 
 ## Further Reading
 
-- [[taiwan-smes-and-hidden-champions]]
-- [[Taiwan Agriculture and Rural Regeneration]]
-- [[startup-ecosystem]]
-- [[Taiwan Semiconductor Industry]]
-- [[US-China Trade War Impact]]
+- [taiwan-smes-and-hidden-champions](/economy/taiwan-smes-and-hidden-champions)

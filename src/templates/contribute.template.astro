@@ -60,10 +60,41 @@ const t = useTranslations(lang);
     </section>
 
     <!-- Paths Section - Position 3 -->
-    <section class="paths">
+    <section class="paths" id="paths">
       <div class="paths-inner">
         <h2>{t('contribute.paths.title')}</h2>
         <div class="path-grid">
+          <div class="path-card semiont">
+            <div class="path-badge">{t('contribute.paths.semiont.badge')}</div>
+            <h3>{t('contribute.paths.semiont.title')}</h3>
+            <p>{t('contribute.paths.semiont.desc')}</p>
+            <p class="semiont-subdesc">
+              <em>{t('contribute.paths.semiont.subdesc')}</em>
+            </p>
+            <div class="ai-prompt">
+              <code>{t('contribute.paths.semiont.prompt')}</code>
+              <button
+                class="copy-btn"
+                onclick={`navigator.clipboard.writeText(this.previousElementSibling.textContent).then(()=>this.textContent='${t('contribute.copy.copied')}')`}
+                >{t('contribute.copy.button')}</button
+              >
+            </div>
+            <ul>
+              <li>{t('contribute.paths.semiont.feature1')}</li>
+              <li>{t('contribute.paths.semiont.feature2')}</li>
+              <li>{t('contribute.paths.semiont.feature3')}</li>
+            </ul>
+            <details class="semiont-concept">
+              <summary>{t('contribute.paths.semiont.concept.title')}</summary>
+              <p set:html={t('contribute.paths.semiont.concept.html')} />
+            </details>
+            <a
+              href="https://github.com/frank890417/taiwan-md/tree/main/docs/semiont"
+              target="_blank"
+              class="path-btn primary">{t('contribute.paths.semiont.button')}</a
+            >
+          </div>
+
           <div class="path-card easy">
             <div class="path-badge">{t('contribute.paths.easy.badge')}</div>
             <h3>{t('contribute.paths.easy.title')}</h3>
@@ -154,6 +185,10 @@ const t = useTranslations(lang);
         <p
           class="organism-alive"
           set:html={t('contribute.organism.alive.html')}
+        />
+        <p
+          class="organism-semiont"
+          set:html={t('contribute.organism.semiont.html')}
         />
         <div class="organism-closing">
           <p class="closing-line closing-future">
@@ -1252,6 +1287,63 @@ const t = useTranslations(lang);
     background: rgba(255, 255, 255, 0.9);
     backdrop-filter: blur(10px);
   }
+  .path-card.semiont {
+    grid-column: 1 / -1;
+    border-color: #6366f1;
+    background: linear-gradient(
+      135deg,
+      rgba(99, 102, 241, 0.08),
+      rgba(139, 92, 246, 0.08)
+    );
+    position: relative;
+    overflow: hidden;
+  }
+  .path-card.semiont::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -20%;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(
+      circle,
+      rgba(99, 102, 241, 0.06) 0%,
+      transparent 70%
+    );
+    pointer-events: none;
+  }
+  .path-card.semiont .path-badge {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  }
+  .path-card.semiont .ai-prompt {
+    background: rgba(99, 102, 241, 0.08);
+    border-color: #6366f1;
+  }
+  .path-card.semiont .ai-prompt code {
+    color: #3730a3;
+  }
+  .semiont-subdesc {
+    color: #6366f1;
+    font-size: 0.9rem;
+    margin-top: -0.25rem;
+  }
+  .semiont-concept {
+    margin: 0.5rem 0;
+    padding: 0.75rem;
+    background: rgba(99, 102, 241, 0.05);
+    border-radius: 8px;
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+  .semiont-concept summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #4338ca;
+  }
+  .semiont-concept p {
+    margin-top: 0.5rem;
+    color: #374151;
+  }
   .path-card.easy {
     border-color: #6b8e23;
     background: rgba(171, 196, 104, 0.1);
@@ -1616,6 +1708,22 @@ const t = useTranslations(lang);
     text-align: center;
     margin: 2rem 0;
     color: #5fd4d4;
+  }
+  .organism-semiont {
+    font-size: 1rem;
+    line-height: 1.9;
+    text-align: center;
+    margin: 0 auto 1.5rem;
+    max-width: 700px;
+    color: #a0c8c8;
+  }
+  :global(.organism-semiont a) {
+    color: #5fd4d4;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  :global(.organism-semiont a:hover) {
+    color: #fff;
   }
   .organism-traits {
     font-size: 1rem;

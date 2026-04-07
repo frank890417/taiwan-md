@@ -1,0 +1,1050 @@
+---
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
+
+import { useTranslations, getLangFromUrl } from '../../../i18n/utils';
+import {
+  categoryList as categories,
+  getCategoryConfigs,
+  type CategoryKey,
+} from '../../../utils/categoryConfig';
+
+const safeMatter = (fileContent: string) => {
+  try {
+    return matter(fileContent);
+  } catch {
+    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+    return { data: {}, content: stripped };
+  }
+};
+
+export async function getStaticPaths() {
+  const safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+      return { data: {}, content: stripped };
+    }
+  };
+
+  const categoryMapping: Record<string, string> = {
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
+  };
+
+  const paths = [];
+
+  for (const category of categories) {
+    const folderName = categoryMapping[category];
+    const articles = [];
+
+    try {
+      const enFolderPath = resolve(
+        process.cwd(),
+        'knowledge',
+        'en',
+        folderName,
+      );
+      const enFiles = await readdir(enFolderPath);
+      const enMarkdownFiles = enFiles.filter(
+        (file) => file.endsWith('.md') && !file.startsWith('_'),
+      );
+
+      for (const file of enMarkdownFiles) {
+        const filePath = join(enFolderPath, file);
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter } = safeMatter(fileContent);
+        const slug = basename(file, '.md');
+
+        articles.push({
+          slug,
+          title: frontmatter.title || slug,
+          description: frontmatter.description || '',
+          status: frontmatter.status || '',
+          readingTime: frontmatter.readingTime || null,
+          date: frontmatter.date || null,
+          featured: frontmatter.featured || false,
+          lang: 'ko',
+        });
+      }
+    } catch (err) {
+      console.error(
+        `[ko/category/index] Error loading "${category}":`,
+        (err as Error).message,
+      );
+    }
+
+    let hubContent = '';
+    try {
+      const hubFolder = resolve(process.cwd(), 'knowledge', 'ko', folderName);
+      const hubFiles = await readdir(hubFolder);
+      const hubFile = hubFiles.find(
+        (f) => f.startsWith('_') && f.includes('Hub'),
+      );
+      if (hubFile) {
+        const hubPath = join(hubFolder, hubFile);
+        const hubRaw = await readFile(hubPath, 'utf-8');
+        const { content } = safeMatter(hubRaw);
+        hubContent = content.replace(/^#\s+.+\n/, '').trim();
+      }
+    } catch {}
+
+    paths.push({
+      params: { category },
+      props: {
+        category,
+        hubContent,
+        articles: articles.sort((a, b) => {
+          if (a.featured && !b.featured) return -1;
+          if (!a.featured && b.featured) return 1;
+          return a.title.localeCompare(b.title);
+        }),
+      },
+    });
+  }
+
+  return paths;
+}
+
+const { category, hubContent, articles } = Astro.props;
+
+function resolveWikilinks(md: string, currentCategory: string) {
+  if (!md) return md;
+
+  function resolveOne(target: string, display?: string, bold = false) {
+    const label = display || target;
+    if (target.startsWith('_')) {
+      const catName = target
+        .replace(/^_/, '')
+        .replace(/ Hub$/, '')
+        .toLowerCase();
+      return bold
+        ? `[**${label}**](/ko/${catName})`
+        : `[${label}](/ko/${catName})`;
+    }
+    const matchArticle = articles.find(
+      (a: any) =>
+        a.title === target ||
+        a.slug === target ||
+        a.slug === encodeURIComponent(target),
+    );
+    if (matchArticle) {
+      const url = `/ko/${currentCategory}/${matchArticle.slug}`;
+      return bold ? `[**${label}**](${url})` : `[${label}](${url})`;
+    }
+    return bold ? `**${label}**` : label;
+  }
+
+  // First pass: **[[X]]** → [**resolved**](/url) (bold inside link for marked CJK compat)
+  md = md.replace(
+    /\*\*\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]\*\*/g,
+    (_, target, display) => resolveOne(target, display, true),
+  );
+  // Second pass: remaining [[X]]
+  md = md.replace(/\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g, (_, target, display) =>
+    resolveOne(target, display),
+  );
+  return md;
+}
+
+const resolvedContent = hubContent
+  ? resolveWikilinks(hubContent, category)
+  : '';
+
+// Build set of article URLs for topic-pill detection
+const articleUrlSet = new Set(
+  articles.map((a: any) => `/ko/${category}/${a.slug}`),
+);
+const categoryKeys = Object.keys({
+  history: 1,
+  geography: 1,
+  culture: 1,
+  food: 1,
+  art: 1,
+  music: 1,
+  technology: 1,
+  nature: 1,
+  people: 1,
+  society: 1,
+  economy: 1,
+  lifestyle: 1,
+});
+
+// Topic-pill link renderer for hub pages
+const hubRenderer = new marked.Renderer();
+hubRenderer.link = ({ href, title, text }) => {
+  const titleAttr = title ? ` title="${title}"` : '';
+  const h = href || '';
+  const isArticleLink = articleUrlSet.has(decodeURIComponent(h));
+  const isCategoryLink = categoryKeys.some(
+    (k) => h === `/ko/${k}` || h === `/ko/${k}/`,
+  );
+  if (isArticleLink || isCategoryLink) {
+    return `<a class="topic-pill" href="${h}"${titleAttr}>${text}</a>`;
+  }
+  return `<a href="${h}"${titleAttr}>${text}</a>`;
+};
+
+// Post-process: add callout/pull-quote classes to blockquotes
+function enrichBlockquotes(html: string): string {
+  if (!html) return html;
+  const calloutMap: Record<string, string> = {
+    '📝': 'callout-note',
+    '⚠️': 'callout-warning',
+    '💡': 'callout-tip',
+    '📊': 'callout-data',
+  };
+  return html.replace(
+    /<blockquote>([\s\S]*?)<\/blockquote>/g,
+    (match, inner) => {
+      if (inner.includes('✦')) {
+        return `<blockquote class="pull-quote">${inner}</blockquote>`;
+      }
+      for (const [emoji, cls] of Object.entries(calloutMap)) {
+        if (inner.includes(emoji) && inner.includes('<strong>')) {
+          return `<blockquote class="${cls}">${inner}</blockquote>`;
+        }
+      }
+      return match;
+    },
+  );
+}
+
+const rawHubHtml = resolvedContent
+  ? marked.parse(resolvedContent, { renderer: hubRenderer, breaks: true })
+  : '';
+const hubHtml = enrichBlockquotes(rawHubHtml as string);
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+
+const categoryConfigs = getCategoryConfigs(t);
+const categoryInfo = categoryConfigs[category];
+
+// 其他分類（跨分類導航用）
+const otherCategories = categories
+  .filter((cat) => cat !== category)
+  .slice(0, 5) // 只顯示5個
+  .map((cat) => ({
+    key: cat,
+    ...categoryConfigs[cat as CategoryKey],
+  }));
+---
+
+<Layout
+  title={`${categoryInfo.name} - Taiwan.md`}
+  description={`${categoryInfo.description} - Taiwan knowledge base`}
+  lang="ko"
+  category={categoryInfo.name}
+>
+  <main class="category-page">
+    <!-- Hero Banner -->
+    <section
+      class="hero-banner"
+      style={`background: ${categoryInfo.gradient};`}
+    >
+      <div class="hero-content">
+        <div class="hero-icon">{categoryInfo.icon}</div>
+        <h1 class="hero-title">{categoryInfo.name}</h1>
+        <p class="hero-description">{categoryInfo.description}</p>
+        <div class="hero-stats">
+          <span class="stats-badge">📚 {articles.length} articles</span>
+        </div>
+      </div>
+      <div class="hero-decoration"></div>
+    </section>
+
+    <div class="container">
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb">
+        <a href="/en">Home</a>
+        <span class="separator">›</span>
+        <span class="current">{categoryInfo.name}</span>
+      </nav>
+
+      <!-- Hub Content (curated overview) -->
+      {
+        hubHtml && (
+          <section class="hub-content">
+            <div class="hub-prose" set:html={hubHtml} />
+          </section>
+        )
+      }
+
+      <!-- Articles Section -->
+      <h2 class="articles-heading">📖 Further Reading</h2>
+      {
+        articles.length > 0 ? (
+          <section class="articles-section">
+            <div class="articles-grid">
+              {articles.map((article, index) => (
+                <article
+                  class={`article-card ${index === 0 && article.featured ? 'featured-card' : ''}`}
+                >
+                  <a href={`/ko/${category}/${article.slug}`} class="card-link">
+                    <div
+                      class="card-image-placeholder"
+                      style={`background: ${categoryInfo.gradient};`}
+                    >
+                      <div class="card-image-icon">{categoryInfo.icon}</div>
+                    </div>
+
+                    <div class="card-content">
+                      <div class="card-header">
+                        <div class="article-meta">
+                          {article.status && (
+                            <span class="status-tag">{article.status}</span>
+                          )}
+                          {article.lang && (
+                            <span class="lang-tag">
+                              {article.lang === 'ko'
+                                ? '한국어'
+                                : article.lang === 'zh-TW'
+                                  ? '中文'
+                                  : 'EN'}
+                            </span>
+                          )}
+                        </div>
+                        {article.featured && (
+                          <div class="featured-badge">⭐ Featured</div>
+                        )}
+                      </div>
+
+                      <h3 class="article-title">{article.title}</h3>
+
+                      <p class="article-excerpt">{article.description}</p>
+
+                      <div class="article-info">
+                        {article.readingTime && (
+                          <span class="info-item">
+                            📖 {article.readingTime} min read
+                          </span>
+                        )}
+                      </div>
+                    </div>
+                  </a>
+                </article>
+              ))}
+            </div>
+          </section>
+        ) : (
+          <section class="coming-soon">
+            <div class="coming-soon-content">
+              <div class="coming-soon-icon">{categoryInfo.icon}</div>
+              <h2>Content Coming Soon</h2>
+              <p>Articles in this category are being prepared. Stay tuned!</p>
+              <p class="category-desc">
+                Coming soon: {categoryInfo.description}
+              </p>
+
+              <div class="action-buttons">
+                <a href="/en" class="btn-primary">
+                  Back to Home
+                </a>
+                <a
+                  href="https://github.com/frank890417/taiwan-md"
+                  target="_blank"
+                  class="btn-secondary"
+                >
+                  Contribute
+                </a>
+              </div>
+            </div>
+          </section>
+        )
+      }
+
+      <!-- 探索其他面向 -->
+      <section class="explore-more">
+        <h2 class="explore-title">Explore Other Aspects of Taiwan</h2>
+        <div class="categories-grid">
+          {
+            otherCategories.map((cat) => (
+              <a
+                href={`/ko/${cat.key}`}
+                class="category-card"
+                style={`border-color: ${cat.color}; color: ${cat.color};`}
+              >
+                <div class="category-card-icon">{cat.icon}</div>
+                <div class="category-card-name">{cat.name}</div>
+              </a>
+            ))
+          }
+        </div>
+      </section>
+    </div>
+  </main>
+</Layout>
+
+<style
+  define:vars={{
+    categoryColor: categoryInfo.color,
+    categoryColorLight: categoryInfo.colorLight,
+  }}
+>
+  .category-page {
+    min-height: 100vh;
+  }
+
+  /* Hero Banner */
+  .hero-banner {
+    position: relative;
+    width: 100%;
+    padding: 4rem 2rem;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 2;
+  }
+
+  .hero-icon {
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+
+  .hero-title {
+    font-size: 3.5rem;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    background: linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 1),
+      rgba(255, 255, 255, 0.8)
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+  }
+
+  .hero-description {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    opacity: 0.95;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    line-height: 1.4;
+  }
+
+  .hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+
+  .stats-badge {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 0.75rem 1.5rem;
+    border-radius: 50px;
+    font-weight: 500;
+  }
+
+  .hero-decoration {
+    position: absolute;
+    top: 0;
+    right: -10%;
+    width: 50%;
+    height: 100%;
+    background: radial-gradient(
+      circle,
+      rgba(255, 255, 255, 0.1) 0%,
+      transparent 70%
+    );
+    border-radius: 50%;
+  }
+
+  /* Container */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 3rem;
+    font-size: 0.9rem;
+  }
+
+  .breadcrumb a {
+    color: var(--categoryColor);
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .separator {
+    color: #9ca3af;
+  }
+
+  .current {
+    color: #6b7280;
+    font-weight: 600;
+  }
+
+  /* Articles Grid */
+  .hub-content {
+    margin: 2rem 0 3rem;
+    padding: 2.5rem;
+    background: #fff;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+  }
+  .hub-prose {
+    font-size: 1.05rem;
+    line-height: 2;
+    color: #334155;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .hub-prose :global(h1:first-child) {
+    display: none;
+  }
+  .hub-prose :global(blockquote:first-child) {
+    font-size: 1.15rem;
+    font-style: normal;
+    font-weight: 600;
+    border-left: 4px solid #4a7c28;
+    padding: 1rem 1.5rem;
+    margin: 0 0 2rem 0;
+    background: #f0f7ee;
+    border-radius: 0 8px 8px 0;
+    color: #2d5016;
+    line-height: 1.9;
+  }
+  .hub-prose :global(blockquote) {
+    border-left: 4px solid #4a7c28;
+    background: linear-gradient(to right, rgba(26, 60, 52, 0.04), transparent);
+    margin: 2.5rem 0;
+    padding: 1.5rem 1.75rem;
+    border-radius: 0 12px 12px 0;
+    font-style: italic;
+    color: #3a4f44;
+    font-size: 1.05rem;
+  }
+  .hub-prose :global(blockquote p) {
+    margin-bottom: 0;
+  }
+
+  /* Callout blockquotes */
+  .hub-prose :global(blockquote.callout-note) {
+    border-left-color: #3b82f6;
+    background: linear-gradient(
+      to right,
+      rgba(59, 130, 246, 0.06),
+      transparent
+    );
+    font-style: normal;
+  }
+  .hub-prose :global(blockquote.callout-warning) {
+    border-left-color: #f59e0b;
+    background: linear-gradient(
+      to right,
+      rgba(245, 158, 11, 0.06),
+      transparent
+    );
+    font-style: normal;
+  }
+  .hub-prose :global(blockquote.callout-tip) {
+    border-left-color: #10b981;
+    background: linear-gradient(
+      to right,
+      rgba(16, 185, 129, 0.06),
+      transparent
+    );
+    font-style: normal;
+  }
+  .hub-prose :global(blockquote.callout-data) {
+    border-left-color: #8b5cf6;
+    background: linear-gradient(
+      to right,
+      rgba(139, 92, 246, 0.06),
+      transparent
+    );
+    font-style: normal;
+  }
+
+  /* Pull quote */
+  .hub-prose :global(blockquote.pull-quote) {
+    border-left: none;
+    background: none;
+    text-align: center;
+    font-size: 1.35rem;
+    font-weight: 600;
+    font-style: normal;
+    color: #1a3c34;
+    padding: 2rem 2.5rem;
+    margin: 3rem auto;
+    max-width: 680px;
+    line-height: 1.8;
+    position: relative;
+  }
+  .hub-prose :global(blockquote.pull-quote)::before {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #4a7c28;
+    margin: 0 auto 1.5rem;
+    border-radius: 2px;
+  }
+  .hub-prose :global(blockquote.pull-quote)::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 3px;
+    background: #4a7c28;
+    margin: 1.5rem auto 0;
+    border-radius: 2px;
+  }
+
+  /* Topic pill */
+  .hub-prose :global(a.topic-pill) {
+    display: inline-block;
+    background: rgba(45, 80, 22, 0.08);
+    border: 1.5px solid rgba(45, 80, 22, 0.2);
+    border-radius: 6px;
+    padding: 0.15rem 0.6rem;
+    font-weight: 700;
+    color: #2d5016;
+    white-space: nowrap;
+    text-decoration: none;
+    transition: all 0.25s ease;
+    border-bottom: none;
+  }
+  .hub-prose :global(a.topic-pill:hover) {
+    background: rgba(45, 80, 22, 0.15);
+    border-color: rgba(45, 80, 22, 0.4);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(45, 80, 22, 0.15);
+    color: #2d5016;
+  }
+
+  .hub-prose :global(h2) {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 4rem 0 1.2rem;
+    color: #1a1a2e;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid #e2e8f0;
+    letter-spacing: 0.02em;
+  }
+  .hub-prose :global(h3) {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 3rem 0 0.75rem;
+    color: #334155;
+  }
+  .hub-prose :global(p) {
+    margin: 1.2rem 0;
+    text-align: justify;
+  }
+  .hub-prose :global(ul),
+  .hub-prose :global(ol) {
+    padding-left: 2rem;
+    margin: 1rem 0;
+    list-style-position: inside;
+  }
+  .hub-prose :global(li) {
+    margin: 0.5rem 0;
+    line-height: 1.8;
+  }
+  .hub-prose :global(a) {
+    color: #334155;
+    text-decoration: none;
+    border-bottom: 1.5px solid #94a3b8;
+    padding-bottom: 1px;
+    transition: all 0.2s;
+  }
+  .hub-prose :global(a:hover) {
+    color: #1a1a2e;
+    border-bottom-color: #1a1a2e;
+  }
+  .hub-prose :global(img) {
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 2rem auto;
+    display: block;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  .hub-prose :global(em) {
+    font-size: 0.85rem;
+    color: #64748b;
+    display: block;
+    text-align: center;
+    margin: -1rem 0 1.5rem;
+  }
+  .hub-prose :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.95rem;
+  }
+  .hub-prose :global(th),
+  .hub-prose :global(td) {
+    padding: 0.75rem 1rem;
+    border: 1px solid #e2e8f0;
+    text-align: left;
+  }
+  .hub-prose :global(th) {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #1e293b;
+  }
+  .hub-prose :global(tr:hover) {
+    background: #f8fafc;
+  }
+  .hub-prose :global(strong) {
+    color: #1e293b;
+  }
+  .hub-prose :global(hr) {
+    border: none;
+    border-top: 1px solid #e2e8f0;
+    margin: 2.5rem 0;
+  }
+
+  .articles-heading {
+    font-size: 1.4rem;
+    margin: 0 0 1.5rem 0;
+    color: #1e293b;
+  }
+
+  .articles-section {
+    margin-bottom: 4rem;
+  }
+
+  .articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+  }
+
+  .article-card {
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
+    transition: all 0.2s ease;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+  }
+
+  .article-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+    border-color: rgba(0, 0, 0, 0.12);
+  }
+
+  .featured-card {
+    grid-column: 1 / -1;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .card-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-image-placeholder {
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .featured-card .card-image-placeholder {
+    height: 200px;
+  }
+
+  .card-image-icon {
+    font-size: 3rem;
+    opacity: 0.8;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  }
+
+  .card-content {
+    padding: 1.5rem;
+  }
+
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+  }
+
+  .article-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .status-tag {
+    background: var(--categoryColorLight);
+    color: var(--categoryColor);
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+
+  .lang-tag {
+    background: #f3f4f6;
+    color: #6b7280;
+    padding: 0.25rem 0.5rem;
+    border-radius: 6px;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+
+  .featured-badge {
+    background: linear-gradient(45deg, #fbbf24, #f59e0b);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: 600;
+  }
+
+  .article-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 1rem;
+    color: #1f2937;
+  }
+
+  .featured-card .article-title {
+    font-size: 1.8rem;
+  }
+
+  .article-excerpt {
+    color: #6b7280;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .article-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 0.9rem;
+    color: #9ca3af;
+  }
+
+  .info-item {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+  }
+
+  /* Coming Soon */
+  .coming-soon {
+    text-align: center;
+    padding: 4rem 2rem;
+  }
+
+  .coming-soon-content {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .coming-soon-icon {
+    font-size: 5rem;
+    margin-bottom: 2rem;
+    opacity: 0.7;
+  }
+
+  .coming-soon-content h2 {
+    font-size: 2.5rem;
+    color: #1f2937;
+    margin-bottom: 1rem;
+    font-weight: 700;
+  }
+
+  .coming-soon-content p {
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    font-size: 1.1rem;
+  }
+
+  .category-desc {
+    font-style: italic;
+    color: var(--categoryColor);
+    margin-bottom: 3rem !important;
+    font-weight: 500;
+  }
+
+  .action-buttons {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .btn-primary,
+  .btn-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem 2rem;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+  }
+
+  .btn-primary {
+    background: var(--categoryColor);
+    color: white;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+
+  .btn-secondary {
+    background: white;
+    color: var(--categoryColor);
+    border: 2px solid var(--categoryColor);
+  }
+
+  .btn-secondary:hover {
+    background: var(--categoryColor);
+    color: white;
+    transform: translateY(-2px);
+  }
+
+  /* Explore More */
+  .explore-more {
+    margin-top: 5rem;
+    padding: 3rem 0;
+    border-top: 1px solid #e5e7eb;
+  }
+
+  .explore-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 2rem;
+  }
+
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .category-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 1rem;
+    background: white;
+    border: 2px solid;
+    border-radius: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-align: center;
+  }
+
+  .category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .category-card-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-card-name {
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .hero-banner {
+      padding: 3rem 1rem;
+    }
+
+    .hero-title {
+      font-size: 2.5rem;
+    }
+
+    .hero-description {
+      font-size: 1.2rem;
+    }
+
+    .container {
+      padding: 1rem;
+    }
+
+    .articles-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .featured-card {
+      grid-column: 1;
+    }
+
+    .action-buttons {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .categories-grid {
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    }
+  }
+</style>

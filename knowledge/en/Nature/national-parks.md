@@ -352,7 +352,7 @@ For visitors from around the world, Taiwan's national parks offer an unparallele
 
 ## Related Topics
 
-- [[endemic-species]]
-- [[geography-and-geology]]
-- [[hot-spring-culture]] _(coming soon)_
-- [[indigenous-peoples-16-tribes-cultural-map]] _(coming soon)_
+- [endemic-species](/nature/endemic-species)
+- [geography-and-geology](/geography/geography-and-geology)
+- [hot-spring-culture](/lifestyle/hot-spring-culture) _(coming soon)_
+- [indigenous-peoples-16-tribes-cultural-map](/culture/indigenous-peoples-16-tribes-cultural-map) _(coming soon)_

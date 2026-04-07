@@ -1,86 +1,145 @@
 ---
 title: 'Kao Chun-ming'
-description: 'Taiwanese Presbyterian Church pastor, human rights fighter and prisoner of conscience during the martial law period'
-date: 2026-03-19
-tags: [people, pastor, human rights movement, martial law period, prisoner of conscience, presbyterian church]
+description: 'A pastor who risked his life and church for a stranger he barely knew — the faith choice behind the Kaohsiung Incident'
+date: 2026-03-22
+tags:
+  [
+    people,
+    pastor,
+    human rights movement,
+    martial law period,
+    prisoner of conscience,
+    Presbyterian Church in Taiwan,
+    Kaohsiung Incident,
+    Shih Ming-teh,
+  ]
 subcategory: 'Politics & Democracy'
-lastVerified: 2026-03-19
+category: people
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
-## A Life Dedicated to Faith and Justice
+> **30-Second Overview:** Pastor Kao Chun-ming (1929-2019) was imprisoned for 4 years for hiding Kaohsiung Incident fugitive Shih Ming-teh,
+> despite the two men being virtual strangers who had met only twice in public.
+> This is a story about moral choice: when religious duty conflicts with personal risk, he chose the former.
 
-Rev. Kao Chun-ming (高俊明, 1929-2019) was a renowned pastor of the Presbyterian Church in Taiwan (PCT) and an important human rights activist during the martial law period. Grounded in deep faith, he spoke out for human rights and justice during the White Terror era and was imprisoned for harboring Shih Ming-te (施明德), a fugitive from the Kaohsiung Incident. His life embodied the core Christian principles of "love your neighbor as yourself" and "pursuing justice," making him an indispensable figure in Taiwan's democratization process.
+On the evening of April 24, 1980, Presbyterian Church in Taiwan General Secretary Kao Chun-ming was taking a bath at home when his daughter knocked on the door: "Dad, there are many people outside asking for Kao Chun-ming." He walked out of the bathroom to find seven or eight men sitting in his living room, with cars filling the street outside. He shook hands with each of them, then was taken to Xindian Military Detention Center.
 
-Born in 1929, Kao Chun-ming grew up in Taiwan during the Japanese colonial period. His family had a deep Christian faith tradition, which profoundly influenced his worldview and values. From a young age, Kao aspired to become a pastor, hoping to serve society and care for the disadvantaged through religion. He received theological education at Tainan Theological Seminary and Princeton Theological Seminary in the United States, laying a solid foundation for his later pastoral work and social engagement.
+The 4 years, 3 months, and 21 days of imprisonment that began that night stemmed from a stranger's plea for help.
 
-Beginning in the 1950s, Kao conducted pastoral work throughout Taiwan. He was not merely a religious leader in the traditional sense, but an activist deeply concerned with social reality. Under Taiwan's martial law system, he gradually realized that Christian faith should not be disconnected from social reality, but should actively participate in addressing injustice and inequality.
+## Two Strangers' Dangerous Encounter
 
-## The Presbyterian Church's Social Engagement
+**"I didn't really know Shih Ming-teh, only meeting him perhaps twice in public settings."**
 
-Under Kao Chun-ming's influence, the Presbyterian Church in Taiwan gradually developed a strong tradition of social concern. He believed that the church should not merely be a place providing spiritual comfort, but a force promoting social justice. Under his leadership, the Presbyterian Church began paying attention to the needs of political prisoners' families, providing various forms of practical assistance.
+Kao later wrote in his memoir. Once was when dining with friends at a restaurant, where a friend pointed to a man in the distance saying "that's Shih Ming-teh." Another time was during a visit by Korean pastors. That was all. What he knew about this man described in newspapers as "previously sentenced to death, imprisoned on Green Island, then pardoned" was limited to this.
 
-In the 1970s, Taiwan faced serious diplomatic difficulties and increasing international isolation. Against this backdrop, Kao and other Presbyterian Church leaders issued the famous "Statement and Recommendations Concerning the National Fate by the Presbyterian Church in Taiwan," calling on the government to implement democratic reforms and advocating for the Taiwanese people's right to self-determination. This statement caused tremendous shock at the time and made the Presbyterian Church a key target of authoritarian government surveillance.
+On December 10, 1979, the Kaohsiung Incident erupted. Three days later, the KMT launched mass arrests. Shih Ming-teh escaped capture, and the government issued bounties: first NT$500,000, then NT$1 million, NT$2 million, finally raised to NT$2.5 million. "The atmosphere was tense, with everyone on edge."
 
-He firmly believed that Christian love and democratic human rights ideals were compatible. In his theological thinking, God created all people equal, so any form of political oppression violated God's will. This theological stance naturally led him to side with the democratic movement, becoming a critic of the authoritarian system.
+Around December 15, Bible Society publishing officer Rev. Chao Chen-er came to the Presbyterian Church headquarters and quietly told Kao: "Shih Ming-teh is at the end of his rope... we hope you can find a way to help."
 
-## The Kaohsiung Incident and Imprisonment
+> **📝 Curator's Note**
+> The weight of this request: Kao was responsible for over 800 Presbyterian churches
+> and 160,000 believers across Taiwan. If something happened to him,
+> the entire church system would be impacted.
 
-After the 1979 Kaohsiung Incident erupted, democratic movement leaders were arrested one after another. Shih Ming-te, being a military criminal, would face severe punishment if caught, so he chose to flee. At this critical moment, Kao Chun-ming unhesitatingly decided to help him. Based on the Christian spirit of loving one's neighbor as oneself, he hid Shih Ming-te in his residence and church for several months.
+Kao didn't immediately agree. He paced his office for more than ten minutes, thinking and praying. His assistant Shih Jui-yun reminded him: "If Shih Ming-teh is caught this time, it will be the death penalty."
 
-In April 1980, Kao Chun-ming was arrested after his harboring of Shih Ming-te was discovered. In court, he openly admitted his actions and showed no regret. He stated that this was required by his Christian faith - everyone has an obligation to help those who suffer. The court ultimately sentenced him to four years in prison for "harboring a traitor."
+At that moment, Kao made the decision that would change both their fates: "Alright, I'll find a way."
 
-During his four years in prison, Kao Chun-ming demonstrated strong will and unyielding spirit. He treated the prison as another form of pastoral ministry, not only caring for other inmates' spiritual needs but also continuing to uphold his faith and beliefs. His imprisonment did not weaken his influence but instead made more people aware of his character and convictions.
+## 26 Days of Underground Network
 
-## International Support and Prisoner of Conscience Recognition
+Kao established a sophisticated hiding network through Women's Seminary President Lin Wen-chen. Shih Ming-teh first hid in an apartment building on Dunhua South Road — right above KMT party-state officials — wearing an old man's hat, reading glasses, and removing his dentures to disguise himself as a country elder.
 
-Kao Chun-ming's imprisonment case attracted attention from international human rights organizations. Amnesty International recognized him as a "prisoner of conscience," considering him imprisoned for adhering to his religious faith and humanitarian spirit. This recognition not only enhanced Kao's international profile but also drew more international attention to Taiwan's human rights situation.
+The elderly and children in the household all treated him like a relative from the countryside. Shih stayed at Wen-chen's home for two weeks, then moved to Xu Qingfu's place in Ximending, where dentist Zhang Wen-ying was contacted to prepare dental work for plastic surgery.
 
-Christian churches worldwide also spoke out for Kao Chun-ming, demanding that the Taiwan government release this pastor imprisoned for practicing Christian love. These international appeals put considerable pressure on the Taiwan government and gained more international support for Taiwan's democratic movement.
+This escape network operated for 26 days. On January 8, 1980, Shih Ming-teh was arrested in Ximending.
 
-Kao's case became an important example in the international human rights movement, proving that religious faith could be a significant force against authoritarian rule. His experience also inspired religious leaders worldwide, making them more aware of religion's responsibility in social justice.
+> **💡 Did You Know**
+> The NT$2.5 million bounty at the time equals approximately NT$15-20 million today
+> in purchasing power. This was the highest bounty in Taiwan's martial law period.
 
-## Continued Struggle After Release
+All those involved in the hiding were arrested one by one: Xu Qingfu, Wu Wen, Zhang Wen-ying, Shih Jui-yun, Lin Wen-chen... Only Kao remained free. He endured inner torment, crying and praying day and night, wanting to surrender and take all responsibility.
 
-After his release in 1984, Kao Chun-ming did not retreat due to prison hardships but became even more actively involved in the democratic movement and social reform. He continued to exert influence within the Presbyterian Church, promoting deeper church engagement with social issues. He also actively participated in various human rights organizations' activities, speaking out for political prisoners and the oppressed.
+But Presbyterian pastors stopped him. They said: "If you surrender, the authorities will try and execute quickly, leaving no chance for the church and international human rights organizations to intervene. We must delay as much as possible to attract international attention."
 
-He particularly focused on transitional justice issues. After Taiwan's democratization, he actively promoted investigation and rehabilitation work regarding human rights persecution during the martial law period. He believed that for true social reconciliation, society must face past mistakes, reveal the truth, and provide appropriate apologies and compensation to victims.
+The four months waiting for arrest were more torturous than arrest itself.
 
-Kao was also an important promoter of indigenous theology development in Taiwan. He advocated that Christian faith must combine with local culture and social reality, rather than simply copying Western theological thought. Under his promotion, Taiwan developed theological discourse with indigenous characteristics, which had a profound impact on Taiwan's Christian church development.
+## Military Court Statement
 
-## Pastoral Philosophy and Social Care
+On May 16, 1980, in military court, Kao delivered his final statement:
 
-Kao Chun-ming's pastoral philosophy can be summarized in one sentence: "The church must become society's conscience." He believed that Christian churches should not only care about believers' spiritual needs but also focus on society's overall welfare. Under his leadership, the Presbyterian Church in Taiwan developed a strong tradition of social care, actively participating in various social reform movements.
+"I am willing to bear all punishment for Lin Wen-chen and Shih Jui-yun, because these two women were completely implicated by me. I also want to express respect for other defendants who helped Shih Ming-teh out of love."
 
-He particularly emphasized care for disadvantaged groups. Whether political prisoners' families, indigenous people, workers, or other marginalized groups, he gave them special attention and assistance. He considered this a basic requirement of Christian faith and an important meaning of the church's existence.
+He continued: "1900 years ago, there was a man named Judas Iscariot who, for his own benefit, betrayed his teacher... Today this Judas has become the most despised person by Christians worldwide. In our society today, there are many like Judas... but few like these nine defendants willing to sacrifice themselves for those in distress."
 
-Theologically, he advocated "liberation theology," believing that Christianity's mission was not only to save individual souls but also to liberate oppressed peoples and establish a just society. This theological thought profoundly influenced Taiwan's Christian churches and also influenced Taiwan's democratic movement.
+> **✦** "I am willing to bear all punishment these 9 defendants should receive, for which I am willing to give my life and property."
 
-## Contributions to Taiwan's Democratization
+The court did not accept his request. On June 5, 1980, Kao was sentenced to 7 years imprisonment, 5 years deprivation of civil rights, and total confiscation of property.
 
-Kao Chun-ming's contributions to Taiwan's democratization were multifaceted. At the ideological level, he provided religious ethical support, giving the democratic movement deeper spiritual foundation. At the organizational level, he mobilized Christian churches to participate in the democratic movement, expanding the movement's social base. At the action level, he personally participated in various protest activities, demonstrating a religious leader's moral courage.
+## International Prisoner of Conscience and the Empty Chair
 
-His influence was not limited to the Christian community. Many non-Christian democratic movement activists also deeply admired his character and ideals. He proved that religious faith could be an important force for promoting social progress, not a representative of conservative forces.
+Kao's case attracted international attention. Amnesty International recognized him as a "prisoner of conscience" — someone imprisoned for upholding religious faith and humanitarian principles. Churches worldwide called for his release, demanding Taiwan's government free this "pastor imprisoned for practicing Christian love."
 
-Taiwan's democratization was the result of many people's collective efforts, and Kao Chun-ming was undoubtedly an important participant. His participation in political reform as a religious leader established a good model for Taiwan's church-state relations.
+On December 10, 1982, the third anniversary of the Kaohsiung Incident, U.S. Senator Edward Kennedy held a press conference with Amnesty International and the Formosan Association for Public Affairs at Capitol Hill, demanding the KMT government release Lin Yi-hsiung, Pastor Kao Chun-ming, and other political and religious prisoners.
 
-## Later Years and Death
+> **📊 Data Context**
+> During Taiwan's 38-year martial law period, military courts handled 29,407 political cases,
+> with officials conservatively estimating about 140,000 innocent victims.
+> Kao was among the very few religious leaders to receive international prisoner of conscience recognition.
 
-In his later years, Kao Chun-ming continued to care about Taiwan's development, particularly ethnic harmony and social justice issues. He often spoke at various occasions, sharing his life experiences and faith insights. He also actively participated in training young pastors, hoping to pass his ideals to the next generation.
+During his four years in prison, the Presbyterian Church General Assembly voted to retain Kao's position as General Secretary, and at every meeting placed an empty chair on the podium — positioned at the visual focal point as a reminder that "prisoners remain unreturned."
 
-In 2019, Rev. Kao Chun-ming passed away peacefully at age 90. His death caused deep mourning across Taiwan society. Regardless of political stance, people expressed respect for this religious leader who fought for Taiwan's democracy and human rights throughout his life.
+The cell was damp and filthy, full of centipedes and rats. His frozen shoulder flared up, hemorrhoids worsened, and three loose teeth had to be extracted. But harder to overcome than physical pain was the spiritual loneliness and isolation. He daily recited biblical passages and hymns in whispers.
 
-Kao's funeral attracted thousands of attendees, including government officials, democratic movement veterans, and religious leaders. This scene fully demonstrated his lofty position and profound influence in Taiwan society.
+Zhang Jun-hong in the adjacent cell later said he was often moved by the faint sounds of Kao's prayers and hymn singing during that period.
 
-## Historical Significance and Spiritual Legacy
+## 1977 Human Rights Declaration: The Real Cause
 
-Rev. Kao Chun-ming's life embodied the perfect combination of faith and action. He proved that true religious faith should not be disconnected from reality but should actively participate in social reform, working to establish a more just society. His experience also illustrated the importance of personal moral courage at critical historical moments.
+Kao believed the KMT wanted to arrest him for three reasons, with hiding Shih Ming-teh only the trigger. The real cause was the Presbyterian Church in Taiwan's "Human Rights Declaration" issued on August 16, 1977 — a document he helped draft that demanded "making Taiwan a new and independent country."
 
-The spiritual legacy he left Taiwan society is precious. His life testimony tells us that when facing injustice, everyone has the responsibility to speak out, rather than choosing indifference or escape. This spirit still has important practical significance today.
+This was one of the boldest political statements during Taiwan's martial law period. The Declaration called on U.S. President Carter to insist on "protecting Taiwan people's safety, independence and freedom" when normalizing relations with Communist China, and asserted "Taiwan's future should be decided by Taiwan's 17 million residents."
 
-Rev. Kao Chun-ming's story also reminds us that Taiwan's democratization did not come from nothing but was achieved by many people who sacrificed their lives and freedom. We should cherish these achievements and continue working to maintain democratic freedom. His spirit will forever inspire future generations to fight for justice and truth.
+> **⚠️ Historical Context**
+> 1977 was on the eve of severance of U.S.-Taiwan diplomatic ties, with Taiwan's diplomatic situation extremely precarious.
+> The Presbyterian Church's independence declaration at this time directly challenged the KMT government's One China policy,
+> shocking to a degree equivalent to today's independence referendum proposals.
+
+The KMT government launched systematic infiltration to divide the Presbyterian Church. Kao's advocacy for rejoining the World Council of Churches and opposing isolation from international society further angered authorities. "If I hadn't been imprisoned for the hiding case, I would have been imprisoned for other cases," he later said. "I feel honored to be imprisoned for Taiwan."
+
+## Prison Poems and Release Statement
+
+During his four years at Xindian Military Detention Center, Kao wrote the poem "Thorns Burned by Fire" (莿帕互火燒), which won Best Lyricist at the 17th Golden Melody Awards in 2006 for Traditional and Artistic Music.
+
+On August 15, 1984, Kao was released early. In his release statement, he said:
+
+"I deeply believe there is God's good will in this fiery trial. Over these four-plus years, I have learned the lesson of forgiveness. I want to pray for those who arrested me, tried me, and imprisoned me. I will also continue working for Taiwan's democracy, freedom, and human rights."
+
+After release, rather than retreating due to prison suffering, he became more actively involved in democratic movements and social reform. He continued his influence in the Presbyterian Church, promoting deeper church involvement in social issues and speaking for political prisoners and the oppressed.
+
+> **📝 Curator's Note**
+> Kao's story reveals an important aspect of Taiwan's democratization:
+> how religious faith became a moral resource for resisting authoritarian rule.
+> This wasn't political calculation, but faith practice — even for strangers.
+
+## Transitional Justice and Indigenous Theology
+
+In the post-authoritarian era, Kao actively promoted transitional justice. He believed that for true social reconciliation, past wrongs must be faced, truth revealed, and victims given proper apology and compensation.
+
+He was also a key promoter of Taiwan's indigenous theology development. He argued that Christian faith must integrate with local culture and social reality, not merely transplant Western theology. Under his promotion, Taiwan developed indigenous theological discourse — the church should be "society's conscience," caring not only for believers' souls but also for society's welfare.
+
+In 2019, Pastor Kao Chun-ming passed away peacefully at age 90. His funeral attracted thousands, including government officials, democratic movement veterans, and religious leaders. Regardless of political stance, people expressed respect for this religious leader who dedicated his life to Taiwan's democracy and human rights.
+
+Kao's life testimony tells us: when facing injustice, everyone has a responsibility to speak out. Even for strangers, even when bearing great cost. This spirit transcends political differences, becoming Taiwan society's precious moral asset.
+
+That decision in 1980 — to risk everything for an almost unknown fugitive — and the faith behind it continues to shine on this island today.
 
 ## References
 
-- Taiwan Presbyterian Church Historical Commission. (2020). *Rev. Kao Chun-ming: A Life of Faith and Justice*. Taipei: Presbyterian Press.
-- Human Rights Memorial Foundation. (2019). *Prisoners of Conscience in Taiwan's Democratic Movement*. Taipei: Memorial Publications.
-- Chen, L. (2021). "Religious Leadership and Social Change: The Case of Rev. Kao Chun-ming." *Journal of Taiwan Church History*, 25(2), 89-112.
+- [Pastor Kao Chun-ming's Sentencing for Hiding Shih Ming-teh - Taiwan Church History Archives](http://www.laijohn.com/archives/pc/Ko/Ko,CBeng/captured/oral.htm)
+- [Presbyterian Church in Taiwan Human Rights Declaration (1977) - PCT Official Website](https://www.pct.org.tw/ab_doc.aspx?DocID=005)
+- [Kaohsiung Incident Review and Reflection - Taiwan Political Victims Care Association](https://taup.yam.org.tw/announce/9912/991208-d.htm)
+- [FAPA History 1982-2012 - Formosan Association for Public Affairs](https://fapa.org/fapa-history-1982-2012/)
+- [Taiwan White Terror Period - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%99%82%E6%9C%9F)
+- [Presbyterian Church in Taiwan - Wikipedia](https://en.wikipedia.org/wiki/Presbyterian_Church_in_Taiwan)

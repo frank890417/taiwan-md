@@ -109,4 +109,3 @@ Du Yijin left Microsoft in 2017 to return to Taiwan and establish [Taiwan AI Lab
 - [Gossiping Board — PTT Encyclopedia](https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF))
 - [PTT refuses new users after fake news incident — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586)
 - [PTT's Legendary "Villager Culture" — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7)
-- [Du Yijin — Taiwan.md People Section](/knowledge/People/杜奕瑾)

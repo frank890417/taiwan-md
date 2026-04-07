@@ -97,7 +97,5 @@ Taiwan's endemic species conservation experience holds important value for globa
 
 ## Related Topics
 
-- [[Geography/Topography and Climate]]
-- [[prehistoric-era-and-indigenous-peoples]]
-- [[convenience-store-culture]]
-- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainland Chinese, New Immigrants)]]
+- [prehistoric-era-and-indigenous-peoples](/history/prehistoric-era-and-indigenous-peoples)
+- [convenience-store-culture](/lifestyle/convenience-store-culture)

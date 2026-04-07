@@ -176,6 +176,3 @@ On this beautiful island, hot springs will continue to emerge, healing every wea
 ---
 
 Further Reading:
-- [Taiwan Tectonic Plates and Seismic Activity](/en/Geography/tectonic-plates-and-seismic-activity)
-- [Taiwan Five Major Landforms and Geographic Structure](/en/Geography/taiwan-five-major-landforms-and-geographic-structure)
-- [Japanese Colonial Era](/en/History/japanese-colonial-era)

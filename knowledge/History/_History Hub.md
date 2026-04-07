@@ -53,7 +53,7 @@ _圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taip
 ![中正紀念堂](/images/wiki/aeba97222b07.jpg)
 _圖片來源：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwan_Taipei_ChiangKaiShekMemorial_Square_amk.jpg) | CC BY-SA 3.0 | 攝影者：Andreas Krebs_
 
-## 延伸閱讀
+## 參考資料
 
 ### 跨時代專題
 

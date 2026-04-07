@@ -1,1 +1,1 @@
-export type Lang = 'en' | 'zh-TW';
+export type Lang = 'en' | 'zh-TW' | 'ja' | 'ko';

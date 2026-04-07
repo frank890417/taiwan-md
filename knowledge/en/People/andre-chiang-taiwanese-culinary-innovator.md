@@ -52,7 +52,4 @@ His story tells us that a person's profession can transcend borders, but their s
 
 ## Related Figures
 
-- [[Aaron Nieh (聶永真)]]: Designed visuals for multiple high-end brands, sharing André's pursuit of extreme aesthetics
-- [[Jensen Huang (黃仁勳)]]: Another outstanding person with Taiwan background who reached the pinnacle of international stage and actively gives back to Taiwan
-- [[Ang Lee (李安)]]: Pioneer in interpreting Eastern emotions through Western language on the international stage
-- [[che-yu-wu]]: Dedicated to integrating technology and art, also concerned with Taiwan talent cultivation among the new generation of creators
+- [che-yu-wu](/people/che-yu-wu): Dedicated to integrating technology and art, also concerned with Taiwan talent cultivation among the new generation of creators

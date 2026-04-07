@@ -202,4 +202,3 @@ In highly urbanized Taiwan, traditional festivals provide rare "mandatory social
 - [Liberty Times: Can't Tell Yuan Xiao and Tang Yuan Apart? Production Process and Sweet/Savory Filling 4 Differences in One Image](https://food.ltn.com.tw/article/12748)
 - [United Daily News: How to Distinguish Tang Yuan and Yuan Xiao? One Image Shows Production Methods, Fillings, Appearance and Taste Differences](https://health.udn.com/health/story/11189/7655505)
 - [Directorate-General of Personnel Administration: 2025 Government Administrative Agency Work Calendar](https://www.dgpa.gov.tw/information?uid=82&pid=11972)
-- [Our China Story: Chinese Cultural Knowledge | Are "Yuan Xiao" and "Tang Yuan" Origins Very Different?](https://www.ourchinastory.com/zh/13944/)

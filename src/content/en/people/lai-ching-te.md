@@ -1,6 +1,6 @@
 ---
-title: 'Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency'
-description: 'Taiwan’s 16th president and the first sitting vice president elected to the office'
+title: ‘Lai Ching-te (賴清德): Taiwan’s President Since 2024 — From Mining Town Doctor to Head of State’
+description: ‘Born in a coal mining village, trained as a doctor, elected Taiwan’s 16th president in 2024. The first sitting vice president to win the presidency — and the leader navigating Taiwan’s most complex geopolitical moment.’
 category: 'People'
 date: '2026-03-19'
 author: 'Taiwan.md'

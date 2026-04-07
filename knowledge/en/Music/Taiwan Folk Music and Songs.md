@@ -97,9 +97,4 @@ Taiwan's folk music and songs have never been just music—they are this island'
 
 ## References
 
-- [The "Joyful Drinking Song" International Copyright Lawsuit: Why Did Taiwan Indigenous Kuo Ying-nan's Voice Appear in Atlanta Olympics Promotional Songs? | The News Lens](https://www.thenewslens.com/article/186336)
-- [Taiwan's Sound History: Bunun "Prayer for Millet Harvest Song" and "Eight-Part Harmony" Discourse Controversy (Part 2) | UDN Opinion](https://opinion.udn.com/opinion/story/12369/7278903)
 - [Chunchu - Taiwan Popular Music Wiki](http://www.tpmw.org.tw/index.php/純純)
-- ["April Rain"—Leading Era's Father of Taiwanese Songs, Deng Yu-xian | Nippon.com](https://www.nippon.com/hk/japan-topics/g02160/)
-- [New Wave of Taiwanese Songs: Musical Styles Reflecting Era Background | Shih Hsin University](https://shuj.shu.edu.tw/blog/2020/05/31/台語歌新浪潮-曲風映照時代背景/)
-- [Olympic Promotional Song Copyright Controversy Inadvertently Promoted Global Recognition of Taiwan Amis Kuo Ying-nan and Malan Chanting Group's Heavenly Voices | Fount Media](https://www.fountmedia.io/article/93916)

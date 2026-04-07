@@ -75,7 +75,5 @@ Taiwán es aclamado como un "milagro democrático", durante mucho tiempo calific
 
 ## Temas relacionados
 
-- [[History/Martial Law Period]]
-- [[democratization]]
-- [[human-rights-and-gender-equality]]
-- [[open-source-and-g0v]]
+- [human-rights-and-gender-equality](/society/human-rights-and-gender-equality)
+- [open-source-and-g0v](/technology/open-source-and-g0v)

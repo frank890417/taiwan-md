@@ -4,7 +4,7 @@ interface Props {
   description?: string;
   image?: string;
   url?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: 'zh-TW' | 'en' | 'ja' | 'ko';
   type?: 'website' | 'article';
   datePublished?: string;
   dateModified?: string;
@@ -191,10 +191,20 @@ const dynamicKeywords = [
 // BreadcrumbList JSON-LD for content pages
 const generateBreadcrumbLD = () => {
   const currentPath = new URL(url).pathname;
-  const isEn = lang === 'en';
+  const langPrefixes = ['en', 'ja', 'ko'] as const;
+
+  // Determine locale prefix for URLs
+  let localePrefix = '';
+  for (const p of langPrefixes) {
+    if (lang === p) {
+      localePrefix = `/${p}`;
+      break;
+    }
+  }
 
   // Homepage - no breadcrumb needed
-  if (currentPath === '/' || currentPath === '/en' || currentPath === '/en/') {
+  const homePaths = ['/', '/en', '/en/', '/ja', '/ja/', '/ko', '/ko/'];
+  if (homePaths.includes(currentPath)) {
     return null;
   }
 
@@ -203,11 +213,11 @@ const generateBreadcrumbLD = () => {
       '@type': 'ListItem',
       position: 1,
       name: 'Taiwan.md',
-      item: isEn ? `${siteUrl}/en` : siteUrl,
+      item: `${siteUrl}${localePrefix || ''}`,
     },
   ];
 
-  // Category page (e.g., /history, /en/culture)
+  // Category page (e.g., /history, /en/culture, /ja/food)
   if (
     category &&
     (currentPath.endsWith(`/${category}`) ||
@@ -230,9 +240,7 @@ const generateBreadcrumbLD = () => {
 
   // Article page
   if (category && type === 'article') {
-    const categoryUrl = isEn
-      ? `${siteUrl}/en/${category}`
-      : `${siteUrl}/${category}`;
+    const categoryUrl = `${siteUrl}${localePrefix}/${category}`;
     return {
       '@context': 'https://schema.org',
       '@type': 'BreadcrumbList',
@@ -314,31 +322,28 @@ const breadcrumbLD = generateBreadcrumbLD();
 {
   (() => {
     const currentPath = new URL(url).pathname;
-    let zhHref = siteUrl;
-    let enHref = `${siteUrl}/en`;
+    const prefixes = ['en', 'ja', 'ko'] as const;
 
-    // For specific pages, build proper hreflang URLs
-    if (
-      currentPath !== '/' &&
-      currentPath !== '/en' &&
-      currentPath !== '/en/'
-    ) {
-      if (currentPath.startsWith('/en/')) {
-        // Current is English, generate Chinese equivalent
-        enHref = url;
-        const cleanPath = currentPath.replace('/en', '') || '/';
-        zhHref = `${siteUrl}${cleanPath}`;
-      } else {
-        // Current is Chinese, generate English equivalent
-        zhHref = url;
-        enHref = `${siteUrl}/en${currentPath}`;
+    // Strip any locale prefix to get the base path
+    let basePath = currentPath;
+    for (const p of prefixes) {
+      if (currentPath.startsWith(`/${p}/`) || currentPath === `/${p}`) {
+        basePath = currentPath.slice(`/${p}`.length) || '/';
+        break;
       }
     }
+
+    const zhHref = `${siteUrl}${basePath}`;
+    const enHref = `${siteUrl}/en${basePath === '/' ? '' : basePath}`;
+    const jaHref = `${siteUrl}/ja${basePath === '/' ? '' : basePath}`;
+    const koHref = `${siteUrl}/ko${basePath === '/' ? '' : basePath}`;
 
     return (
       <>
         <link rel="alternate" hreflang="zh-TW" href={zhHref} />
         <link rel="alternate" hreflang="en" href={enHref} />
+        <link rel="alternate" hreflang="ja" href={jaHref} />
+        <link rel="alternate" hreflang="ko" href={koHref} />
         <link rel="alternate" hreflang="x-default" href={zhHref} />
       </>
     );
@@ -356,7 +361,11 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:alt" content={`${title} - Taiwan.md 台灣知識庫`} />
 <meta property="og:site_name" content="Taiwan.md — 台灣知識庫" />
-<meta property="og:locale" content={lang === 'zh-TW' ? 'zh_TW' : 'en_US'} />
+<meta
+  property="og:locale"
+  content={{ 'zh-TW': 'zh_TW', en: 'en_US', ja: 'ja_JP', ko: 'ko_KR' }[lang] ||
+    'zh_TW'}
+/>
 {
   datePublished && (
     <meta property="article:published_time" content={datePublished} />

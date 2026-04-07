@@ -95,6 +95,12 @@ export const dashboardUI = {
     'dashboard.growth.total': 'Total Articles',
     'dashboard.growth.daily': 'Daily New',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'dashboard.meta.title': 'Dashboard — 數位生命體即時監測',

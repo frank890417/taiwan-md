@@ -758,6 +758,12 @@ export const mapUI = {
     'map.markers.wangLeeOlympicGold.desc':
       'From junior high classmates to Olympic gold: "The Lin-Yang Pair" defeated China in straight sets within 34 minutes, writing the first Olympic gold in Taiwan badminton history',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'map.meta.title': '台灣地圖 Map',

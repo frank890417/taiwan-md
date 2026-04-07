@@ -169,6 +169,6 @@ As Taiwan balances economic development with environmental stewardship, its choi
 
 _Further Reading:_
 
-- [[Endemic Species]]
-- [[National Parks]]
-- [[Geography and Geology]]
+- [Endemic Species](/nature/endemic-species)
+- [National Parks](/nature/national-parks)
+- [Geography and Geology](/geography/geography-and-geology)

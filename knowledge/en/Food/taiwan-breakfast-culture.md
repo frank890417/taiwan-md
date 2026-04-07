@@ -359,7 +359,6 @@ Taiwan breakfast culture is a living cultural carrier, recording Taiwan society'
 
 ## Further Reading
 
-- [[night-market-culture]] — Another important Taiwanese food culture space
-- [[Taiwan Street Food]] — More Taiwan local delicacies
-- [[convenience-store-culture]] — Another modern convenient dining choice in Taiwan
-- [[tea-culture]] — Taiwan's traditional beverage cultural traditions
+- [night-market-culture](/food/night-market-culture) — Another important Taiwanese food culture space
+- [convenience-store-culture](/lifestyle/convenience-store-culture) — Another modern convenient dining choice in Taiwan
+- [tea-culture](/food/tea-culture) — Taiwan's traditional beverage cultural traditions

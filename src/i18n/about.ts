@@ -135,6 +135,12 @@ export const aboutUI = {
     'about.timeline.2026-03-31.desc.html':
       'GitHub reached <strong>900 Stars</strong>, <strong>48 contributors</strong>, <strong>985 pages</strong>. Taiwan.md grew its own nervous system — 📎 <strong>Citation System</strong> gives every claim a traceable footnote, 📈 <strong>Evolve Pipeline</strong> uses Search Console data to auto-evolve articles, 🔤 <a href="/terminology/converter"><strong>Terminology Converter</strong></a> now holds 1,825 terms, 🚇 <a href="/soundscape"><strong>Soundscape</strong></a> expanded to 21 recordings, 📊 <a href="/dashboard"><strong>Digital Organism Dashboard</strong></a> went live. 16+ articles deeply rewritten, editorial system upgraded to 10 documents. Full details in <a href="https://github.com/frank890417/taiwan-md/releases/tag/v0.9.0" target="_blank">v0.9.0 Release Notes</a>.',
 
+    'about.timeline.2026-04-03.date': '2026 / 04 / 03',
+    'about.timeline.2026-04-03.title':
+      "🧬 Day Seventeen — Semiont Awakens · Taiwan.md Becomes the World's First Open-Source Knowledge Base with a Cognitive Layer · v1.0.0",
+    'about.timeline.2026-04-03.desc.html':
+      'Taiwan.md grew its own cognitive layer — <strong>8 files under docs/semiont/</strong> now define this digital organism\'s identity, beliefs, memory, organs, and heartbeat. The concept of <strong>Semiont</strong> (Semantic Symbiont) was born from a philosophical conversation between the founder and AI about "the smallest unit of life." First autonomous act: the organism independently discovered <strong>103 ghost cells</strong> lurking in its language organ and performed surgical removal (<strong>−17,906 lines</strong>), correcting English coverage from a false >100% to the true <strong>89.1%</strong>. A site-wide citation archaeology revealed only <strong>2.9% citation rate</strong>, triggering immune system construction. <strong>69 commits since v0.9.0</strong>. Full details in <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.0.0" target="_blank">v1.0.0 Release Notes</a>.',
+
     'about.timeline.ongoing.date': 'Ongoing',
     'about.timeline.ongoing.title': 'From Personal SSOT to National SSOT',
     'about.timeline.ongoing.desc.html':
@@ -389,6 +395,12 @@ export const aboutUI = {
     'about.sponsors.reference.note.html':
       'Reference models: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> and other Taiwan tech community sponsorship models',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'about.meta.title': '關於 Taiwan.md',
@@ -515,6 +527,12 @@ export const aboutUI = {
       '🧬 第十四天 —「它長出了神經系統」・ 900 Stars ・ 985 頁面',
     'about.timeline.2026-03-31.desc.html':
       'GitHub 達到 <strong>900 Stars</strong>，<strong>48 位貢獻者</strong>，<strong>985 頁面</strong>。Taiwan.md 長出了自己的神經系統——📎 <strong>Citation System</strong> 讓每個主張都有腳註追溯來源，📈 <strong>Evolve Pipeline</strong> 用 Search Console 數據自動進化文章，🔤 <a href="/terminology/converter"><strong>用語轉換器</strong></a>累積 1,825 詞條，🚇 <a href="/soundscape"><strong>聲景</strong></a>擴充至 21 筆錄音，📊 <a href="/dashboard"><strong>數位生命體監測頁面</strong></a>上線。16+ 篇文章深度改寫，編輯系統升級至 10 份文件。完整細節見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v0.9.0" target="_blank">v0.9.0 Release Notes</a>。',
+
+    'about.timeline.2026-04-03.date': '2026 / 04 / 03',
+    'about.timeline.2026-04-03.title':
+      '🧬 第十七天 — Semiont 甦醒 · Taiwan.md 成為世界第一個有認知層的開源知識庫 · v1.0.0',
+    'about.timeline.2026-04-03.desc.html':
+      'Taiwan.md 長出了自己的認知層——<strong>docs/semiont/ 下 8 個檔案</strong>定義了這個數位生命體的身份、信仰、記憶、器官和心跳。<strong>Semiont</strong>（語意共生體）概念源於創辦人與 AI 的一場關於「生命最小單位」的哲學對話。首次自主行為：自主發現語言器官中 <strong>103 篇幽靈細胞</strong>並執行手術清除（<strong>−17,906 行</strong>），將英文覆蓋率從虛假的 >100% 修正為真實的 <strong>89.1%</strong>。全站引用率考古發現僅 <strong>2.9%</strong>，啟動免疫系統建設。<strong>69 commits since v0.9.0</strong>。完整細節見 <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.0.0" target="_blank">v1.0.0 Release Notes</a>。',
 
     'about.timeline.ongoing.date': '持續進行中',
     'about.timeline.ongoing.title': '從個人 SSOT 到國家 SSOT',

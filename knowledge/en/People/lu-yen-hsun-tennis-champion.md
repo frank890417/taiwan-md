@@ -53,10 +53,6 @@ His four Olympic appearances embody the spirit of perseverance that defines Taiw
 
 ## Further Reading
 
-- [[Tai Tzu-ying (戴資穎)]] - Taiwan's badminton world champion who similarly elevated Taiwan's racket sports profile
-- [[Yang Chuan-kwang (楊傳廣)]] - Taiwan's first Olympic medalist, setting the foundation for Taiwan's Olympic tradition
-- [[Yani Tseng (曾雅妮)]] - World No. 1 golfer who brought Taiwan international recognition in individual sports
-- [[Jeremy Lin (林書豪)]] - Taiwanese-American athlete who inspired similar breakthrough moments in basketball
 
 ## References
 

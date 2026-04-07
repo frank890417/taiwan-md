@@ -78,6 +78,12 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     'assets.script.copied': '✅ Copied',
     'assets.script.failed': '❌ Failed',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'assets.meta.title': 'Taiwan SVG — 開放台灣輪廓圖',

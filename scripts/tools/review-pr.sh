@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# review-pr.sh v1.0 — Taiwan.md PR 自動審核（四層免疫系統）
+# review-pr.sh v1.1 — Taiwan.md PR 自動審核（五層免疫系統）
 # 用法: bash scripts/review-pr.sh file1.md file2.md ...
 # 或:   bash scripts/review-pr.sh --pr 123
 set -uo pipefail
@@ -168,6 +168,44 @@ layer3() {
   local refs; refs=$(grep -c 'http' "$f" 2>/dev/null || echo 0); refs=${refs//[^0-9]/}; refs=${refs:-0}
   (( refs < 3 )) && wrn+=("來源<3")
 
+  # 腳註檢查（造橋鋪路: 讓新文章天生帶腳註）
+  local fns; fns=$(grep -cE '^\[\^[0-9a-zA-Z_-]+\]:' "$f" 2>/dev/null || echo 0); fns=${fns//[^0-9]/}; fns=${fns:-0}
+  (( fns == 0 )) && wrn+=("無腳註[^N]")
+
+  if (( ${#wrn[@]} > 0 )); then
+    echo "🟡 $(IFS=', '; echo "${wrn[*]}")"
+  else echo "✅"
+  fi; return 0
+}
+
+# ════════════════════════════════════════
+# Layer 4 — 結構驗證（Stage 4 FORMAT CHECK）
+# ════════════════════════════════════════
+layer4() {
+  local f="$1"
+  [[ ! -f "$f" ]] && echo "—" && return 0
+  # Only check knowledge/ articles (not translations)
+  [[ ! "$f" =~ ^knowledge/[A-Z] ]] && echo "—" && return 0
+  local wrn=()
+  local body; body=$(awk '/^---$/{n++; next} n>=2{print}' "$f" 2>/dev/null)
+
+  # 30 秒概覽
+  echo "$body" | grep -qE '>\s*\*\*30\s*秒概覽|^## 30 秒概覽' 2>/dev/null || wrn+=("缺30秒概覽")
+
+  # ## 參考資料 heading (only if has footnotes)
+  local fns; fns=$(grep -cE '^\[\^[0-9a-zA-Z_-]+\]:' "$f" 2>/dev/null || echo 0); fns=${fns//[^0-9]/}
+  if (( fns > 0 )); then
+    echo "$body" | grep -qE '^## 參考資料' 2>/dev/null || wrn+=("有腳註但缺##參考資料")
+  fi
+
+  # 延伸閱讀 wikilink 殘留
+  local wl; wl=$(echo "$body" | grep -c '^\s*- \[\[' 2>/dev/null || echo 0); wl=${wl//[^0-9]/}
+  (( wl > 0 )) && wrn+=("wikilink殘留${wl}處")
+
+  # subcategory
+  local fm; fm=$(awk '/^---$/{n++; next} n==1{print} n>=2{exit}' "$f" 2>/dev/null)
+  echo "$fm" | grep -q '^subcategory:' || wrn+=("缺subcategory")
+
   if (( ${#wrn[@]} > 0 )); then
     echo "🟡 $(IFS=', '; echo "${wrn[*]}")"
   else echo "✅"
@@ -193,9 +231,12 @@ review() {
   fi
   [[ ! "$r2" =~ ^🔴 ]] && L2=$((L2+1))
 
-  local r3; r3=$(layer3 "$f"); REPORT+="  L3 策展：${r3}\n\n"
+  local r3; r3=$(layer3 "$f"); REPORT+="  L3 策展：${r3}\n"
   [[ "$r3" =~ ^✅ ]] && L3=$((L3+1))
   [[ "$r3" =~ ^🟡 ]] && [[ "$STATUS" == "PASS" ]] && STATUS="WARNING"
+
+  local r4; r4=$(layer4 "$f"); REPORT+="  L4 結構：${r4}\n\n"
+  [[ "$r4" =~ ^🟡 ]] && [[ "$STATUS" == "PASS" ]] && STATUS="WARNING"
 }
 
 # ════════════════════════════════════════

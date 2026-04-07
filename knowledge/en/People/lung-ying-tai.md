@@ -84,7 +84,6 @@ Lung Ying-tai's career demonstrates the power of literature to influence society
 
 ## Further Reading
 
-- [[pai-hsien-yung-literary-master]]: Renowned Taiwan writer and cultural figure
-- [[wu-ming-yi]]: Contemporary Taiwan writer concerned with environmental and social issues
-- [[li-ang]]: Taiwan feminist writer and social commentator
-- [[Chen Ying-zhen]]: Influential Taiwan writer and social critic
+- [pai-hsien-yung-literary-master](/people/pai-hsien-yung-literary-master): Renowned Taiwan writer and cultural figure
+- [wu-ming-yi](/people/wu-ming-yi): Contemporary Taiwan writer concerned with environmental and social issues
+- [li-ang](/people/li-ang): Taiwan feminist writer and social commentator

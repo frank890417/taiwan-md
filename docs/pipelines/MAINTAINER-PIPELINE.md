@@ -357,4 +357,4 @@ Branch protection：需 1 approval，`enforce_admins: false`。
 
 _v1.0 | 2026-03-31_
 _萃取自 Repo Maintainer 完整手冊 + Day 1-14 實戰經驗_
-_相關：[EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md) | [REWRITE-PIPELINE-CRON.md](REWRITE-PIPELINE-CRON.md) | [EDITORIAL.md](../editorial/EDITORIAL.md)_
+_相關：[EVOLVE-PIPELINE.md](EVOLVE-PIPELINE.md) | [REWRITE-PIPELINE.md](../editorial/REWRITE-PIPELINE.md) | [EDITORIAL.md](../editorial/EDITORIAL.md)_

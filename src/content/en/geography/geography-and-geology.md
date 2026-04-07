@@ -214,7 +214,7 @@ Understanding Taiwan's geology means appreciating that this beautiful island exi
 
 ## Related Topics
 
-- [[endemic-species]]
-- [[national-parks]] _(coming soon)_
-- [[hot-spring-culture]] _(coming soon)_
-- [[indigenous-peoples-16-tribes-cultural-map]] _(coming soon)_
+- [endemic-species](/nature/endemic-species)
+- [national-parks](/nature/national-parks) _(coming soon)_
+- [hot-spring-culture](/lifestyle/hot-spring-culture) _(coming soon)_
+- [indigenous-peoples-16-tribes-cultural-map](/culture/indigenous-peoples-16-tribes-cultural-map) _(coming soon)_

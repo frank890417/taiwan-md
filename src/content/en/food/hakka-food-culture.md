@@ -90,11 +90,11 @@ Hakka food is a cultural memory system. Its robust flavors mirror a people’s r
 
 ## Further reading
 
-- [[客家文化與語言]]: an overview of Hakka language and heritage
-- [[族群（閩南客家原住民外省新住民）]]: Taiwan’s multi-ethnic landscape
-- [[台灣發酵食品與醃製文化]]: the broader science and culture of pickling in Taiwan
-- [[茶文化]]: Taiwan’s tea traditions
-- [[台灣小吃]]: the broader street food ecosystem
+- [客家文化與語言](/culture/客家文化與語言): an overview of Hakka language and heritage
+- [族群（閩南客家原住民外省新住民）](/culture/族群（閩南客家原住民外省新住民）): Taiwan’s multi-ethnic landscape
+- [台灣發酵食品與醃製文化](/food/台灣發酵食品與醃製文化): the broader science and culture of pickling in Taiwan
+- [茶文化](/food/茶文化): Taiwan’s tea traditions
+- [台灣小吃](/food/台灣小吃): the broader street food ecosystem
 
 ## References
 

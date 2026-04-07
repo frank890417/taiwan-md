@@ -13,7 +13,7 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const translatePath = useTranslatedPath(lang);
 
-const { zhLink, enLink } = await getLangSwitchPath(currentPath);
+const { zhLink, enLink, jaLink, koLink } = await getLangSwitchPath(currentPath);
 
 const normalizedPath = currentPath.replace(/\/$/, '') || '/';
 const isHome = normalizedPath === '/' || normalizedPath === '/en';
@@ -457,7 +457,12 @@ const categoryList = [
             href={zhLink}
             class:list={[
               'lang-btn',
-              { active: !currentPath.startsWith('/en') },
+              {
+                active:
+                  !currentPath.startsWith('/en') &&
+                  !currentPath.startsWith('/ja') &&
+                  !currentPath.startsWith('/ko'),
+              },
             ]}
             aria-label={t('nav.aria-switch-to-zh-tw')}>中文</a
           >
@@ -465,6 +470,16 @@ const categoryList = [
             href={enLink}
             class:list={['lang-btn', { active: currentPath.startsWith('/en') }]}
             aria-label={t('nav.aria-switch-to-en')}>EN</a
+          >
+          <a
+            href={jaLink}
+            class:list={['lang-btn', { active: currentPath.startsWith('/ja') }]}
+            aria-label="日本語に切替">JA</a
+          >
+          <a
+            href={koLink}
+            class:list={['lang-btn', { active: currentPath.startsWith('/ko') }]}
+            aria-label="한국어로 전환">KO</a
           >
         </div>
       </div>
@@ -531,6 +546,24 @@ const categoryList = [
               ]}
               onclick="document.querySelector('.nav-mobile').classList.remove('open')"
               >English</a
+            >
+            <a
+              href={jaLink}
+              class:list={[
+                'mobile-lang-btn',
+                { active: currentPath.startsWith('/ja') },
+              ]}
+              onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+              >日本語</a
+            >
+            <a
+              href={koLink}
+              class:list={[
+                'mobile-lang-btn',
+                { active: currentPath.startsWith('/ko') },
+              ]}
+              onclick="document.querySelector('.nav-mobile').classList.remove('open')"
+              >한국어</a
             >
           </div>
         </div>

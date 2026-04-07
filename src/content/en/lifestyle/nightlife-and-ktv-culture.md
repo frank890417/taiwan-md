@@ -93,7 +93,4 @@ New technology also changes nightlife experiences. VR KTV, smart ordering, and u
 
 ## Related Topics
 
-- [[Taiwan's Transportation System]]: How night transportation supports nightlife culture
-- [[convenience-store-culture]]: The relationship between 24-hour stores and sleepless city culture
-- [[Taiwan's Coffee Culture]]: Evolution from cafés to late-night coffee houses
-- [[religion-folk-beliefs]]: Nighttime temple festivals and traditional nightlife celebrations
+- [convenience-store-culture](/lifestyle/convenience-store-culture): The relationship between 24-hour stores and sleepless city culture

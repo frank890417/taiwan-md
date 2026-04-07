@@ -1,92 +1,104 @@
 ---
-title: 'Kevin Lin Yi-jie'
-description: "Taiwanese ultramarathon legend who conquered Earth's most extreme environments on foot, first person to run across the Sahara Desert"
-date: 2026-03-19
+title: 'Kevin Lin (Lin Yi-jie)'
+description: 'From rejected track team tryouts to becoming the first person to run across the Sahara Desert on foot'
+date: 2026-03-22
+category: 'people'
 tags:
-  ['people', 'ultramarathon', 'extreme exploration', 'athlete', 'Sahara Desert']
+  [
+    people,
+    ultramarathon,
+    extreme expeditions,
+    athlete,
+    sahara desert,
+    taiwan pride,
+  ]
 subcategory: 'Sports'
-lastVerified: 2026-03-19
+lastVerified: 2026-03-22
+lastHumanReview: false
+readingTime: 7
 ---
 
-## From Taipei to World's Extremes: A Dreamer's Journey
+> **30-second overview:** Kevin Lin (Lin Yi-jie), a skinny boy once threatened by his PE teacher to "not outrun the senior students,"
+> became one of the first three humans to cross the Sahara Desert on foot in 2006. 111 days, 7,500 kilometers,
+> 11 pairs of worn-out shoes—only to discover that the military escort protecting them was killed by bandits on their way back.
 
-Kevin Lin Yi-jie (林義傑), born in 1976 in Taipei, stands as Taiwan's most renowned ultramarathon runner and extreme environment explorer. More than just an exceptional long-distance athlete, he embodies the spirit of pushing human limits through dream realization. In 2006, he achieved the historic feat of becoming part of the first team to run across the Sahara Desert—111 days covering 7,500 kilometers—forever inscribing his name in human exploration history. Through his extraordinary endurance, Lin proved that Taiwanese possess the courage and determination to conquer the world's most extreme environments.
+## A Running Life That Began With Rejection
 
-Lin's running career began by accident. Unlike many professional athletes, he wasn't groomed from childhood but was an ordinary office worker who discovered running by chance. This unconventional background shaped his unique athletic philosophy and approach to extreme challenges. Initially competing in domestic marathons, he quickly realized his passion lay in ultra-distance challenges, eventually making his mark on international racing circuits.
+"Don't outrun the senior students." This was what a PE teacher at Taipei's Fude Elementary School told fifth-grader Lin Yi-jie in 1987. During a 2-kilometer cross-country race on Four Beasts Mountain, the small-framed Lin was explicitly warned to let the older students win.
 
-## The Historic Sahara Desert Crossing
+Not until the second round, when another teacher told him "don't let others influence you," did Lin run to first place. That was his first taste of victory—and the beginning of an ultramarathon legend.
 
-In 2006, Lin teamed with American Charlie Engle and Canadian Ray Zahab to attempt the first human crossing of the Sahara Desert on foot. This unprecedented challenge covered 7,500 kilometers across the world's largest hot desert over 111 days—a feat that redefined the boundaries of human endurance.
+But talent didn't immediately open doors for him. In junior high, Lin was rejected multiple times by track teams due to his small stature. Only after "surviving the hellish training of seventh grade" did he prove his abilities to coaches and teammates. Upon junior high graduation, defying his father's opposition, he even ran away from home to join Xihu Vocational School, then considered the premier track and field training ground—he didn't even have admission permission at the time.
 
-The Sahara presents unimaginable challenges: daytime temperatures exceeding 50°C (122°F), nighttime drops near freezing, blinding sandstorms with hurricane-force winds, extreme water scarcity, and encounters with dangerous wildlife including venomous snakes and scorpions. The psychological toll of three months in such isolation adds another dimension to this monumental challenge.
+> **📝 Curator's Note**
+> The most moving part of Lin's story isn't his later glory, but this resilience after repeated rejections.
+> The transformation from a skinny boy to an extreme athlete is itself an experiment in willpower.
 
-During this 111-day odyssey, Lin averaged 60-70 kilometers daily, traversing six countries: Senegal, Mauritania, Mali, Niger, Libya, and Egypt. The team navigated diverse terrains from rocky surfaces to soft sand dunes, from salt flats to stone deserts, each step presenting unique obstacles. They hauled supply carts containing water and food, adding to the physical demands.
+## Awakening on the Extreme Circuit
 
-The most challenging period came during the expedition's latter stages. Extreme heat and physical exhaustion brought Lin to the brink of severe dehydration, with dramatic weight loss threatening his health. However, his unwavering determination and commitment to the dream carried him forward step by step. When they finally reached the Red Sea coastline, the world witnessed what many deemed an impossible achievement.
+At the 1999 World Cup 24-Hour Marathon in France, Lin saw a promotional flyer for the Sahara Desert 7-day, 6-night ultramarathon and decided to self-fund his participation. "Running lets you see a different world, completely unlike car scenery," he said. "I wanted to accumulate my own stories."
 
-## Conquering the Gobi: Solo Challenge
+In 2002, at the 17th Sahara Desert Marathon des Sables, Lin placed 12th—the best result by any Asian competitor in the race's history. That year, running gained a clear direction for him: conquering Earth's most extreme environments.
 
-Following his Sahara triumph, Lin didn't rest on his laurels. In 2008, he tackled another extreme environment: the Gobi Desert. This time, he faced the 1,100-kilometer solo crossing through the desert spanning northern China and southern Mongolia—a different but equally formidable challenge.
+His achievements soared like a rocket: champion in Mongolia's Gobi Desert at 46°C, winner in Chile's Atacama Desert with 50°C day-night temperature swings, challenger in Antarctica's average -30°C with 300 km/h winds... In 2006, he claimed the "Four Deserts Ultramarathon Grand Slam Championship."
 
-The Gobi presented unique hardships compared to the Sahara. Beyond extreme heat, runners face dramatic temperature swings—scorching days followed by bone-chilling nights. The high altitude and arid conditions create additional physiological stress. Most significantly, Lin faced these challenges alone, without teammates for support and encouragement.
+But what truly inscribed his name in human history was a challenge no one had ever attempted.
 
-Despite overwhelming difficulties, Lin successfully completed this solo crossing, deepening his understanding of extreme exploration while further cementing his position in international ultra-running circles. He demonstrated that Taiwanese athletes possess the capability to conquer the world's harshest environments.
+## The 111-Day Sahara Legend
 
-## Philosophy of Exploration and Life Approach
+November 2, 2006, Saint-Louis Port, Senegal. Lin joined Americans Charlie Engle and Canadian Ray Zahab to form a three-person team attempting humanity's first crossing of the Sahara Desert on foot.
 
-Lin's expeditions transcend physical challenges, representing spiritual exploration. He often reflects: "In extreme environments, you discover your most authentic self." Facing extreme adversity strips away pretense and artifice, reducing existence to pure survival instinct and willpower.
+The Sahara is Earth's largest hot desert, stretching from Senegal in the west to Egypt's Red Sea in the east—roughly 5,900 kilometers in direct distance, mostly uninhabited wilderness. They would run 7,500 kilometers, equivalent to two marathons daily for 111 consecutive days.
 
-His exploration philosophy emphasizes "harmonious coexistence with nature." Desert running isn't about conquering nature but learning adaptation and integration with natural environments. He firmly believes humans should respect nature, using challenges to understand personal limits rather than destroying or altering natural systems.
+The challenge's brutality exceeded imagination: 50°C days, 4°C nights; sandstorms that could cause complete disorientation; crossing politically unstable countries while avoiding potential minefields. Daily routine: wake at 4 AM, run from 5 AM to noon, avoid the deadliest midday sun, then run again from 5 PM to 9-10 PM.
 
-Lin also values exploration's educational significance. Through sharing his experiences, he hopes to inspire others, particularly young people, to courageously pursue dreams and challenge limits. He regularly speaks at schools and corporations, sharing adventure stories and life insights while encouraging audiences to step outside comfort zones.
+> **💡 Did You Know**
+> They wore through 11 pairs of shoes during this journey, crossing Mauritania, Mali, Niger, and Libya.
+> The team had to drag supply carts carrying water and food—daily water resupply was literally a matter of life and death.
 
-## Documentary Impact and Global Recognition
+February 20, 2007—when the trio finally reached Egypt's Red Sea coastline, the world was stunned by this unprecedented achievement. But Lin only learned six months later of a chilling detail: the military escort that had protected them was entirely killed by bandits on their return journey.
 
-Lin's Sahara crossing was documented in "Running the Sahara," a film that garnered international attention and introduced this Taiwanese ultra-runner to global audiences. The documentary captures not only the expedition's hardships but also humanity's resilient spirit when facing ultimate challenges.
+This challenge became the documentary "Running the Sahara," produced and narrated by Matt Damon, introducing the world to this extreme runner from Taiwan.
 
-The film's success elevated Lin to international celebrity status. He received speaking invitations worldwide, sharing expedition experiences across continents. Prestigious publications including National Geographic Magazine and Time featured his achievements, spreading Taiwan's name alongside his global footprint.
+## Complex Truths Behind the Glory
 
-Through international exposure, Lin enhanced personal recognition while, more importantly, showcasing Taiwan's spirit to the world. His actions embodied Taiwanese characteristics of resilience and challenge-seeking courage, making him one of Taiwan's finest international ambassadors.
+However, behind this seemingly perfect inspirational story lay more complex truths. Charlie Engle, the seemingly healthy and sunny American teammate, was actually a former drug addict—he had endured a decade-long battle with crack cocaine and alcohol addiction, nearly dying in a six-day binge. For him, extreme running was part of his recovery.
 
-## Sports Promotion and Educational Outreach
+> **⚠️ Controversial Perspective**
+> In 2011, Charlie Engle was sentenced to federal prison in West Virginia for subprime mortgage fraud.
+> A charitable hero promoting clean water access was simultaneously a financial criminal. Human complexity revealed in its full paradox.
 
-Beyond personal expedition achievements, Lin actively promotes sports participation and educational initiatives. He established the "Dream Academy," sharing experiences to inspire others pursuing aspirations. The academy provides professional training courses while emphasizing character education and personal development.
+Lin himself has not been without controversy. In 2022, he was prosecuted for allegedly running a "Truth IP Consulting" company that engaged in litigation maintenance, profiting from piracy settlement fees—earning him the media label of "copyright troll." This stemmed from his documentary's poor box office performance in Taiwan due to rampant piracy, making him particularly vigilant about intellectual property protection.
 
-He particularly focuses on youth education, frequently speaking at schools across all levels. Using vivid stories and personal experiences, he teaches students that with dreams and dedication, nothing remains impossible. His presentations consistently inspire students to reconsider life goals and values.
+> **✦** "Heroes aren't people without flaws—they're people who accomplish great things despite having flaws."
 
-Lin also advocates for Taiwan's sports environment development. He believes Taiwan should provide more resources supporting extreme sports, enabling talented youth to pursue athletic dreams. He actively collaborates with government and private organizations to promote relevant policies and activities.
+## Transformation After Retirement
 
-## Continuous Challenge and Innovation
+Lin never saw himself as merely an "athlete." "Athletes have limited careers, but the spirit and mission of a sportsman can last a lifetime," he said. After 2010, gradually stepping back from extreme ultramarathon frontlines, he focused on speaking, brand management, and even pursuing an MBA at National Taiwan University's College of Management.
 
-Despite achieving remarkable accomplishments, Lin continuously seeks new challenges. He believes explorer spirit requires maintaining curiosity and challenge-seeking attitudes, never stagnating due to past successes.
+He founded "Yi-jie Enterprise Co., Ltd." and the sports brand "SUPERACE," organizing various ultramarathon events. His goal wasn't just proving Taiwanese athletes could challenge the world, but demonstrating that people with sports backgrounds weren't limited to teaching or coaching—he wanted to "maximize sports value and productivity."
 
-Recently, he's focused on environmental issues, hoping to leverage his influence in raising environmental protection awareness. His expeditions provided firsthand experience of climate change impacts on extreme environments, creating a sense of responsibility for planetary protection.
+From 2000 to 2003, he taught PE at George Vocational School and Francis Complete Middle School in Taipei, and was a contracted athlete for Nike Taiwan. But his true calling was promoting sporting philosophy, showing more people that Taiwanese could survive and compete in the world's most extreme environments.
 
-He explores combining technology with exploration, utilizing modern tools to enhance expedition safety and efficiency. Simultaneously, he leverages internet and social media platforms to share exploration knowledge, helping more people understand extreme exploration's appeal and significance.
+## A Taiwanese Story About Willpower
 
-## Symbol of Taiwan's Extreme Sports Spirit
+Lin's significance lies not just in how far or fast he ran, but in proving one thing: Taiwanese people can accomplish history-making feats in the world's harshest environments.
 
-Lin's influence on Taiwan's extreme sports development is profound. Before him, few Taiwanese engaged in such extreme adventure activities. His success proved Taiwanese athletes possess world-class extreme sports capabilities while establishing a model for future generations.
+Through 111 days and 7,500 kilometers, he told the world that no matter how small your island, no matter how many times you've been rejected, with sufficient willpower, nothing is impossible. That skinny boy at Fude Elementary who was threatened to "not outrun the seniors" ultimately outran everyone's imagination.
 
-His spirit transcends sports, becoming an important paradigm for Taiwanese facing difficulties and challenges. In him, we see Taiwan's fearless, never-give-up spirit. He ran with his feet through the world's harshest environments while running for Taiwan on the global stage.
+| Age 50                              | Born 1976                              |
+| ----------------------------------- | -------------------------------------- |
+| First human to cross Sahara on foot | Taiwan's extreme ultramarathon pioneer |
 
-## Cultural Impact and Legacy
-
-Lin Yi-jie's story resonates beyond individual achievement, representing Taiwan's emergence on the global extreme sports stage. His success challenged stereotypes about Asian athletes in endurance sports, proving that determination and proper training transcend geographical or cultural boundaries.
-
-His expeditions also highlight Taiwan's unique position in the international community. While Taiwan faces diplomatic challenges, athletes like Lin demonstrate that excellence speaks louder than politics, earning respect and recognition through extraordinary achievements.
-
-## Immortal Exploration Legend
-
-Lin's story demonstrates unlimited human potential—with sufficient determination and perseverance, seemingly impossible goals become achievable. His transformation from ordinary Taipei office worker to world-class extreme explorer represents a miracle in itself.
-
-His achievements represent not just personal glory but pride for all Taiwanese. When facing life's difficulties, remembering Lin's every step through the Sahara Desert provides courage to continue forward. His actions define what "impossible is just an excuse" means and what "dreams deserve life's pursuit" represents.
-
-Lin's legend continues. Though aging, his exploration spirit remains forever young. He will continue interpreting life's meaning through his unique approach while inspiring others to courageously pursue dreams and challenge limits. In Taiwan's sports history, Lin's name will forever connect with courage, perseverance, and dreams—those beautiful words that define human aspiration.
+As for the controversies and complexities, perhaps they're the most authentic part of this story. Perfect heroes exist only in fairy tales; real life is always full of contradictions and struggles. Lin used his feet to bring glory to Taiwan, and his life reminds us that greatness and flaws often coexist in the same person.
 
 ## References
 
-- [Kevin Lin Official Website](http://kevinlin.com.tw/) — Latest updates and activities
-- National Geographic: "Running the Sahara" documentary coverage
-- Discovery Channel: Extreme expedition documentaries featuring Lin
-- Taiwan Sports Administration records and achievements database
+- [Making History with his Feet—Global Four Deserts Ultramarathon Champion Kevin Lin - Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=0209762e-705a-4fbf-9b32-a58b7e57ea99&CatId=7)
+- [Runner Under the Scorching Sun Kevin Lin - Gan Le Creative](https://www.thecan.com.tw/tw/log/detail/852)
+- [Running the Sahara - Trail Runners Connection](https://trailrunnersconnection.com/adventures/running-the-sahara-charlie-engle-ray-zahab-kevin-lin/)
+- [Running the Sahara (2007) - IMDb](https://www.imdb.com/title/tt0481222/)
+- [Kevin Lin Controversy Inside Story - Mirror Media](https://www.mirrormedia.mg/story/20220613soc001)
+- [Copyright Troll? Ultramarathon Champion Kevin Lin Prosecuted for Violating Attorney Law - United Daily News](https://udn.com/news/story/7321/6591947)
+- [From Crack Addict To Running The Sahara To Prison Hero -- Charlie Engle's Third Act - Rich Roll](https://www.richroll.com/podcast/charlie-engle/)
+- [Kevin Lin - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%BE%A9%E5%82%91)

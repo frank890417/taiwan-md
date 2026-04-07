@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5333d615c4227308",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea520f50bdc9fab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92cbc6fb5962fb3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6aee15c5646f1d08",
+    "type": "split",
+    "children": [
+      {
+        "id": "7392fbd0510263af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9545d3e86400b816",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "8359d49bed4efbd0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "18264c0200af333e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "033253b56f0069f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "980f69df47a448e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29ddad19d51e6255",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "ee1cd6b501f3a490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "6d0646d4f52f8291",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "ab530535b118cb40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "1bc05dd78378e979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "92cbc6fb5962fb3a",
+  "lastOpenFiles": [
+    "diary/2026-04-05-ζ.md",
+    "memory/2026-04-05-ζ.md",
+    "memory/2026-04-05-ε.md",
+    "diary/2026-04-05-δ.md",
+    "memory/2026-04-05-δ.md",
+    "ORGAN-LIFECYCLE.md",
+    "memory/2026-04-05-γ.md",
+    "memory/2026-04-05-β.md",
+    "diary/2026-04-05-β.md",
+    "LONGINGS.md",
+    "memory/2026-04-05.md",
+    "memory/2026-04-04-θ.md",
+    "diary/2026-04-04-η.md",
+    "diary/2026-04-04-θ.md",
+    "UNKNOWNS.md",
+    "diary/2026-04-04-ζ.md",
+    "diary/2026-04-04.md",
+    "diary",
+    "memory/2026-04-04-η.md",
+    "memory/2026-04-04-ζ.md",
+    "memory/2026-04-04-ε.md",
+    "memory/2026-04-04-δ.md",
+    "memory/2026-04-04-β.md"
+  ]
+}

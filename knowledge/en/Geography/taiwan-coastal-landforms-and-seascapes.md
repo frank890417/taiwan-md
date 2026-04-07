@@ -234,9 +234,6 @@ From Taoyuan algal reef protection to Xiaoliuqiu sea turtle conservation, civil 
 
 🔗 **Extended Exploration:**
 
-- [[Taiwan Geopark System]]: Exploring geological heritage protection
-- [[Taiwan Wetland Ecosystems]]: Understanding coastal wetland functions
-- [[Taiwan Marine Biodiversity]]: Discovering ocean life mysteries
 
 ---
 

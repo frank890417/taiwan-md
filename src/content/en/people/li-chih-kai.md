@@ -69,7 +69,7 @@ His story suggests that sporting success is not a sudden breakthrough but the re
 
 ## Further Reading
 
-- [[郭婞淳]] — Olympic weightlifting champion at Tokyo 2020
-- [[楊勇緯]] — Judo silver medalist at Tokyo 2020
-- [[麟洋配]] — Men’s doubles badminton gold medalists at Tokyo 2020
-- [[戴資穎]] — Taiwan’s badminton icon and Olympic silver medalist
+- [郭婞淳](/people/郭婞淳) — Olympic weightlifting champion at Tokyo 2020
+- [楊勇緯](/people/楊勇緯) — Judo silver medalist at Tokyo 2020
+- [麟洋配](/people/麟洋配) — Men’s doubles badminton gold medalists at Tokyo 2020
+- [戴資穎](/people/戴資穎) — Taiwan’s badminton icon and Olympic silver medalist

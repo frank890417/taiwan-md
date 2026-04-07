@@ -93,7 +93,4 @@ La nueva tecnología también cambia las experiencias de vida nocturna. KTV de r
 
 ## Temas relacionados
 
-- [[Taiwan's Transportation System]]: Cómo el transporte nocturno apoya la cultura de vida nocturna
-- [[convenience-store-culture]]: La relación entre tiendas 24 horas y la cultura de ciudad sin sueño
-- [[Taiwan's Coffee Culture]]: Evolución de cafeterías a cafeterías nocturnas
-- [[religion-folk-beliefs]]: Festivales de templos nocturnos y celebraciones tradicionales de vida nocturna
+- [convenience-store-culture](/lifestyle/convenience-store-culture): La relación entre tiendas 24 horas y la cultura de ciudad sin sueño

@@ -399,7 +399,6 @@ This might be the most precious value of Taiwan's life ceremonies: at important 
 
 ## Further Reading
 
-- [[traditional-festivals-and-celebrations]] - Understanding connections between life ceremonies and festivals
-- [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Immigrants)]] - Exploring different ethnic ceremonial characteristics
-- [[taiwan-religion-and-temple-culture]] - Understanding religion's role in life ceremonies
-- [[taiwan-tea-ceremony-and-aesthetic-living]] - Experiencing aesthetic elements in ceremonies
+- [traditional-festivals-and-celebrations](/culture/traditional-festivals-and-celebrations) - Understanding connections between life ceremonies and festivals
+- [taiwan-religion-and-temple-culture](/culture/taiwan-religion-and-temple-culture) - Understanding religion's role in life ceremonies
+- [taiwan-tea-ceremony-and-aesthetic-living](/culture/taiwan-tea-ceremony-and-aesthetic-living) - Experiencing aesthetic elements in ceremonies

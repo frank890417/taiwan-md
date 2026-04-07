@@ -27,3 +27,4 @@ public/api/random.json
 public/api/search-minisearch.json
 meetings/
 memory/
+!docs/semiont/memory/

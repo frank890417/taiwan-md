@@ -24,6 +24,12 @@ export const changelogUI = {
     'changelog.time.hours-ago': 'hours ago',
     'changelog.time.days-ago': 'days ago',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'changelog.meta.title': '網站更新紀錄',

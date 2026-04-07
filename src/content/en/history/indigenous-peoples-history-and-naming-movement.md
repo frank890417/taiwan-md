@@ -99,6 +99,3 @@ But naming is only the first step. True equality and respect require everyone's 
 
 Further Reading:
 
-- [Martial Law Period](/en/history/martial-law-era)
-- [Democratization](/en/history/taiwan-democratization)
-- [Taiwan's Five Major Landforms and Geographic Structure](/en/geography/taiwan-five-major-landforms-and-geographic-structure)

@@ -121,7 +121,8 @@ export const dataUI = {
     'data.category.4.item.1.desc':
       '2015 年創立，台灣第一個非營利深度調查媒體，多次揭露重大公共議題',
     'data.category.4.item.2.name': 'Taiwan FactCheck Center',
-    'data.category.4.item.2.desc': 'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
+    'data.category.4.item.2.desc':
+      'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
     'data.category.4.item.3.name': 'READr',
     'data.category.4.item.3.desc':
       'Data journalism and open data visualization',
@@ -145,14 +146,12 @@ export const dataUI = {
     'data.category.5.item.4.desc': "Taiwan's sovereign AI training dataset",
 
     // Meta
-    'data.meta.title':
-      'Data Taiwan — Understanding an Island Through Numbers',
+    'data.meta.title': 'Data Taiwan — Understanding an Island Through Numbers',
     'data.meta.description':
       "Taiwan's enterprise landscape, SVG resources, open data platforms, civic tech tools, and digital democracy resources",
 
     // Hero
-    'data.hero.title':
-      'Data Taiwan — Understanding an Island Through Numbers',
+    'data.hero.title': 'Data Taiwan — Understanding an Island Through Numbers',
     'data.hero.subtitle':
       'Interactive visualizations and open data to understand the real face of an island',
     'data.hero.description':
@@ -193,46 +192,59 @@ export const dataUI = {
     'data.enterprise.exploreLink': 'View full ranking →',
 
     // Taiwan vs World Section
-    'data.taiwanVsWorld.title': '🌏 Taiwan\'s Position in the World',
-    'data.taiwanVsWorld.story.p1': 'A landmass the size of Belgium hosts 23 million people and produces 92% of the world\'s most advanced computer chips. Taiwan\'s economic density is staggering: $75,000 GDP per capita from an island smaller than Switzerland, yet housing more people than Australia.',
-    'data.taiwanVsWorld.story.p2': 'These numbers aren\'t just statistics — they\'re the blueprint of an impossible story. How does 0.32% of Earth\'s land create 4% of global wealth? From the world\'s highest convenience store density to Asia\'s top democracy ranking, here are eight metrics that decode Taiwan\'s outsized global footprint.',
+    'data.taiwanVsWorld.title': "🌏 Taiwan's Position in the World",
+    'data.taiwanVsWorld.story.p1':
+      "A landmass the size of Belgium hosts 23 million people and produces 92% of the world's most advanced computer chips. Taiwan's economic density is staggering: $75,000 GDP per capita from an island smaller than Switzerland, yet housing more people than Australia.",
+    'data.taiwanVsWorld.story.p2':
+      "These numbers aren't just statistics — they're the blueprint of an impossible story. How does 0.32% of Earth's land create 4% of global wealth? From the world's highest convenience store density to Asia's top democracy ranking, here are eight metrics that decode Taiwan's outsized global footprint.",
 
     'data.taiwanVsWorld.area.number': '36,197 km²',
     'data.taiwanVsWorld.area.label': 'Size ≈ Belgium',
-    'data.taiwanVsWorld.area.context': 'But 2.35x Belgium\'s population (23.5M vs 11.7M)',
+    'data.taiwanVsWorld.area.context':
+      "But 2.35x Belgium's population (23.5M vs 11.7M)",
 
     'data.taiwanVsWorld.gdp.number': '$75K',
     'data.taiwanVsWorld.gdp.label': 'GDP per capita (PPP)',
-    'data.taiwanVsWorld.gdp.context': 'Global top 15, vs $38K nominal (huge purchasing power)',
+    'data.taiwanVsWorld.gdp.context':
+      'Global top 15, vs $38K nominal (huge purchasing power)',
 
     'data.taiwanVsWorld.semiconductor.number': '90%+',
     'data.taiwanVsWorld.semiconductor.label': 'Advanced chips global share',
-    'data.taiwanVsWorld.semiconductor.context': 'TSMC monopolizes <7nm processes, heart of global devices',
+    'data.taiwanVsWorld.semiconductor.context':
+      'TSMC monopolizes <7nm processes, heart of global devices',
 
     'data.taiwanVsWorld.democracy.number': '#12',
     'data.taiwanVsWorld.democracy.label': 'Democracy Index ranking',
-    'data.taiwanVsWorld.democracy.context': 'Asia #1, global top 10 "Full Democracy" (EIU 2024)',
+    'data.taiwanVsWorld.democracy.context':
+      'Asia #1, global top 10 "Full Democracy" (EIU 2024)',
 
     'data.taiwanVsWorld.birthRate.number': '0.87',
     'data.taiwanVsWorld.birthRate.label': 'Birth rate (2024)',
-    'data.taiwanVsWorld.birthRate.context': 'Among world\'s lowest, aging society challenge',
+    'data.taiwanVsWorld.birthRate.context':
+      "Among world's lowest, aging society challenge",
 
     'data.taiwanVsWorld.convenience.number': '1/2,000',
     'data.taiwanVsWorld.convenience.label': 'Convenience store density',
-    'data.taiwanVsWorld.convenience.context': '12,368 stores (7-11+FamilyMart+Hi-Life+OK), world\'s highest',
+    'data.taiwanVsWorld.convenience.context':
+      "12,368 stores (7-11+FamilyMart+Hi-Life+OK), world's highest",
 
     'data.taiwanVsWorld.hsr.number': '345km',
     'data.taiwanVsWorld.hsr.label': 'High-speed rail coverage',
-    'data.taiwanVsWorld.hsr.context': '12 stations, 180K daily passengers, 96% on-time rate',
+    'data.taiwanVsWorld.hsr.context':
+      '12 stations, 180K daily passengers, 96% on-time rate',
 
     'data.taiwanVsWorld.healthcare.number': '99.9%',
     'data.taiwanVsWorld.healthcare.label': 'National health insurance coverage',
-    'data.taiwanVsWorld.healthcare.context': 'Universal healthcare, global benchmark',
+    'data.taiwanVsWorld.healthcare.context':
+      'Universal healthcare, global benchmark',
 
     // Digital Democracy Timeline Section
-    'data.digitalDemocracy.title': '📡 Digital Democracy Timeline — 30 Years of Digital Governance Evolution',
-    'data.digitalDemocracy.story.p1': 'From government digitization to digital democracy: Taiwan\'s journey from e-government to open government to digital resilience.',
-    'data.digitalDemocracy.story.p2': 'Hover over each milestone to learn more about Taiwan\'s unique digital democracy experiments.',
+    'data.digitalDemocracy.title':
+      '📡 Digital Democracy Timeline — 30 Years of Digital Governance Evolution',
+    'data.digitalDemocracy.story.p1':
+      "From government digitization to digital democracy: Taiwan's journey from e-government to open government to digital resilience.",
+    'data.digitalDemocracy.story.p2':
+      "Hover over each milestone to learn more about Taiwan's unique digital democracy experiments.",
 
     'data.timeline.1997.title': 'Electronic Government Program',
     'data.timeline.1997.desc': 'Government services digitization begins',
@@ -241,49 +253,57 @@ export const dataUI = {
     'data.timeline.2003.desc': 'Open source software adoption in government',
 
     'data.timeline.2012.title': 'g0v Zero Government Founded',
-    'data.timeline.2012.desc': '2 years before Sunflower Movement, civic tech seeds planted',
+    'data.timeline.2012.desc':
+      '2 years before Sunflower Movement, civic tech seeds planted',
 
     'data.timeline.2013.title': 'data.gov.tw Launched',
     'data.timeline.2013.desc': 'Taiwan enters open data era',
 
     'data.timeline.2014.title': 'Sunflower Movement',
-    'data.timeline.2014.desc': 'Civic tech explosion, digital democracy awakening',
+    'data.timeline.2014.desc':
+      'Civic tech explosion, digital democracy awakening',
 
     'data.timeline.2015.title': 'Global Open Data #1',
-    'data.timeline.2015.desc': 'World champion for 3 consecutive years (2015-2017)',
+    'data.timeline.2015.desc':
+      'World champion for 3 consecutive years (2015-2017)',
 
     'data.timeline.2016.title': 'Audrey Tang Digital Minister',
     'data.timeline.2016.desc': 'g0v hacker becomes government minister',
 
     'data.timeline.2020.title': 'Mask Map Success',
-    'data.timeline.2020.desc': '72-hour development, nationwide usage during COVID-19',
+    'data.timeline.2020.desc':
+      '72-hour development, nationwide usage during COVID-19',
 
     'data.timeline.2022.title': 'Ministry of Digital Affairs',
-    'data.timeline.2022.desc': 'Digital governance elevated to cabinet level (moda)',
+    'data.timeline.2022.desc':
+      'Digital governance elevated to cabinet level (moda)',
 
     'data.timeline.2023.title': 'TAIDE AI Corpus',
-    'data.timeline.2023.desc': 'Taiwan\'s sovereign AI language model',
+    'data.timeline.2023.desc': "Taiwan's sovereign AI language model",
 
     'data.timeline.2024.title': 'Plurality Export',
     'data.timeline.2024.desc': 'Digital democracy models exported globally',
 
     // Population Pyramid Section
-    'data.population.title': '👥 Population Structure: An Island\'s Age Portrait',
-    'data.population.story.p1': 'In 2025, Taiwan\'s median age exceeds 43 years. This once-young island is aging—not slowly, but at one of the world\'s fastest rates.',
-    'data.population.story.p2': 'Drag the timeline to see how an island\'s age portrait transforms from pyramid to inverted triangle over half a century.',
-    
+    'data.population.title':
+      "👥 Population Structure: An Island's Age Portrait",
+    'data.population.story.p1':
+      "In 2025, Taiwan's median age exceeds 43 years. This once-young island is aging—not slowly, but at one of the world's fastest rates.",
+    'data.population.story.p2':
+      "Drag the timeline to see how an island's age portrait transforms from pyramid to inverted triangle over half a century.",
+
     'data.population.insights.card1.title': 'Median Age',
     'data.population.insights.card1.subtitle': '歲',
     'data.population.insights.card1.detail': '30 → 43 → 57 years',
-    
+
     'data.population.insights.card2.title': 'Birth Rate',
     'data.population.insights.card2.subtitle': '生育率',
     'data.population.insights.card2.detail': '0.87',
-    
+
     'data.population.insights.card3.title': '65+ Population',
     'data.population.insights.card3.subtitle': '65歲以上',
     'data.population.insights.card3.detail': '18%',
-    
+
     'data.population.insights.card4.title': 'Total Population',
     'data.population.insights.card4.subtitle': '萬人',
     'data.population.insights.card4.detail': '23.4M → <20M',
@@ -292,7 +312,8 @@ export const dataUI = {
     'data.taiwanShape.title':
       "🗺️ The Shape of Taiwan — AI Can't Draw Taiwan Correctly. Here's the Real Version.",
     'data.taiwanComparison.title': 'AI 畫的台灣 vs 真正的台灣',
-    'data.taiwanComparison.aiGenerated': 'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
+    'data.taiwanComparison.aiGenerated':
+      'Generated by Claude Opus 4.6 (2025/3/22, no deliberate distortion)',
     'data.taiwanComparison.correct': '正確輪廓',
     'data.taiwanShape.story.p1':
       'Most AI image generation models lack structured geographic data for Taiwan in their training sets. The result: AI-generated images of Taiwan are often distorted, disproportionate, or confused with other islands.',
@@ -380,6 +401,12 @@ export const dataUI = {
     'data.tooltip.employees': 'Employees',
     'data.tooltip.founded': 'Founded',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Company Names (50 companies)
     'data.company.taiwan-semiconductor': '台積電 TSMC',
@@ -437,7 +464,8 @@ export const dataUI = {
     'data.category.1.title': '政府開放資料',
     'data.category.1.description': '政府機關釋出的結構化資料集與統計平台',
     'data.category.1.item.1.name': '政府資料開放平臺',
-    'data.category.1.item.1.desc': '2020 年，工程師用這裡的資料在 72 小時內做出口罩地圖，解決全國藥局排隊問題',
+    'data.category.1.item.1.desc':
+      '2020 年，工程師用這裡的資料在 72 小時內做出口罩地圖，解決全國藥局排隊問題',
     'data.category.1.item.2.name': '主計總處統計資料庫',
     'data.category.1.item.2.desc': '人口、經濟、物價等核心國家統計',
     'data.category.1.item.3.name': '中選會選舉資料庫',
@@ -465,13 +493,16 @@ export const dataUI = {
     'data.category.3.title': '公民科技 (Civic Tech)',
     'data.category.3.description': '開源社群、事實查核與數位民主工具',
     'data.category.3.item.1.name': 'g0v 零時政府',
-    'data.category.3.item.1.desc': '2012 年創立，催生了口罩地圖、Cofacts、vTaiwan 等改變台灣的公民科技專案',
+    'data.category.3.item.1.desc':
+      '2012 年創立，催生了口罩地圖、Cofacts、vTaiwan 等改變台灣的公民科技專案',
     'data.category.3.item.2.name': 'KKTIX 公民科技活動',
     'data.category.3.item.2.desc': 'g0v 黑客松、開放資料社群活動入口',
     'data.category.3.item.3.name': 'Cofacts 真的假的',
-    'data.category.3.item.3.desc': 'LINE 群組轉傳的假消息，任何人都能提交查核，已累積數萬筆查核紀錄',
+    'data.category.3.item.3.desc':
+      'LINE 群組轉傳的假消息，任何人都能提交查核，已累積數萬筆查核紀錄',
     'data.category.3.item.4.name': 'vTaiwan',
-    'data.category.3.item.4.desc': '用 Polis 演算法找共識，成功影響 Uber 管理條例、遠距教學法規等政策',
+    'data.category.3.item.4.desc':
+      '用 Polis 演算法找共識，成功影響 Uber 管理條例、遠距教學法規等政策',
     'data.category.3.item.5.name': 'JOIN 公共政策參與平台',
     'data.category.3.item.5.desc': '政府提案、連署、政策討論',
 
@@ -479,9 +510,11 @@ export const dataUI = {
     'data.category.4.title': '資料新聞與查核',
     'data.category.4.description': '深度調查報導、事實查核與資料新聞媒體',
     'data.category.4.item.1.name': '報導者',
-    'data.category.4.item.1.desc': '2015 年創立，台灣第一個非營利深度調查媒體，多次揭露重大公共議題',
+    'data.category.4.item.1.desc':
+      '2015 年創立，台灣第一個非營利深度調查媒體，多次揭露重大公共議題',
     'data.category.4.item.2.name': '台灣事實查核中心',
-    'data.category.4.item.2.desc': 'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
+    'data.category.4.item.2.desc':
+      'IFCN 國際事實查核聯盟認證，Facebook 第三方查核夥伴',
     'data.category.4.item.3.name': 'READr 讀+',
     'data.category.4.item.3.desc': '資料新聞與開放資料視覺化報導',
     'data.category.4.item.4.name': '典藏 ARTouch',
@@ -538,24 +571,30 @@ export const dataUI = {
 
     // Taiwan vs World Section
     'data.taiwanVsWorld.title': '🌏 台灣在世界的位置',
-    'data.taiwanVsWorld.story.p1': '一座面積跟比利時差不多的島嶼，養活了 2,300 萬人，卻生產了全球 92% 最先進的電腦晶片。台灣的經濟密度令人震撼：比瑞士還小的土地，人口卻比澳洲還多，人均 GDP 高達 7.5 萬美元。',
-    'data.taiwanVsWorld.story.p2': '這些數字不只是統計——它們是一個不可能故事的藍圖。地球 0.32% 的土地如何創造 4% 的全球財富？從世界最高的便利商店密度到亞洲第一的民主排名，這八個指標解碼台灣超乎比例的全球足跡。',
+    'data.taiwanVsWorld.story.p1':
+      '一座面積跟比利時差不多的島嶼，養活了 2,300 萬人，卻生產了全球 92% 最先進的電腦晶片。台灣的經濟密度令人震撼：比瑞士還小的土地，人口卻比澳洲還多，人均 GDP 高達 7.5 萬美元。',
+    'data.taiwanVsWorld.story.p2':
+      '這些數字不只是統計——它們是一個不可能故事的藍圖。地球 0.32% 的土地如何創造 4% 的全球財富？從世界最高的便利商店密度到亞洲第一的民主排名，這八個指標解碼台灣超乎比例的全球足跡。',
 
     'data.taiwanVsWorld.area.number': '36,197 km²',
     'data.taiwanVsWorld.area.label': '面積 ≈ 比利時大小',
-    'data.taiwanVsWorld.area.context': '但人口是比利時的 2.35 倍（2,350萬 vs 1,170萬）',
+    'data.taiwanVsWorld.area.context':
+      '但人口是比利時的 2.35 倍（2,350萬 vs 1,170萬）',
 
     'data.taiwanVsWorld.gdp.number': '$75K',
     'data.taiwanVsWorld.gdp.label': '人均 GDP (PPP)',
-    'data.taiwanVsWorld.gdp.context': '全球前 15 名，vs 名目 $38K（購買力巨大差距）',
+    'data.taiwanVsWorld.gdp.context':
+      '全球前 15 名，vs 名目 $38K（購買力巨大差距）',
 
     'data.taiwanVsWorld.semiconductor.number': '90%+',
     'data.taiwanVsWorld.semiconductor.label': '先進晶片全球市佔',
-    'data.taiwanVsWorld.semiconductor.context': '台積電獨佔 <7nm 製程，全球數位裝置的心臟',
+    'data.taiwanVsWorld.semiconductor.context':
+      '台積電獨佔 <7nm 製程，全球數位裝置的心臟',
 
     'data.taiwanVsWorld.democracy.number': '第12名',
     'data.taiwanVsWorld.democracy.label': '民主指數排名',
-    'data.taiwanVsWorld.democracy.context': '亞洲第一、全球前 10「完全民主」(EIU 2024)',
+    'data.taiwanVsWorld.democracy.context':
+      '亞洲第一、全球前 10「完全民主」(EIU 2024)',
 
     'data.taiwanVsWorld.birthRate.number': '0.87',
     'data.taiwanVsWorld.birthRate.label': '出生率（2024）',
@@ -563,7 +602,8 @@ export const dataUI = {
 
     'data.taiwanVsWorld.convenience.number': '1/2,000人',
     'data.taiwanVsWorld.convenience.label': '便利商店密度',
-    'data.taiwanVsWorld.convenience.context': '12,368 間（7-11+全家+萊爾富+OK），全球最高',
+    'data.taiwanVsWorld.convenience.context':
+      '12,368 間（7-11+全家+萊爾富+OK），全球最高',
 
     'data.taiwanVsWorld.hsr.number': '345公里',
     'data.taiwanVsWorld.hsr.label': '高鐵覆蓋範圍',
@@ -575,8 +615,10 @@ export const dataUI = {
 
     // Digital Democracy Timeline Section
     'data.digitalDemocracy.title': '📡 數位民主時間軸 — 30 年數位治理進化史',
-    'data.digitalDemocracy.story.p1': '從政府數位化到數位民主：台灣從電子化政府到開放政府到數位韌性的進化旅程。',
-    'data.digitalDemocracy.story.p2': '滑鼠移到各個里程碑，深入了解台灣獨特的數位民主實驗。',
+    'data.digitalDemocracy.story.p1':
+      '從政府數位化到數位民主：台灣從電子化政府到開放政府到數位韌性的進化旅程。',
+    'data.digitalDemocracy.story.p2':
+      '滑鼠移到各個里程碑，深入了解台灣獨特的數位民主實驗。',
 
     'data.timeline.1997.title': '電子化政府計畫啟動',
     'data.timeline.1997.desc': '政府服務數位化起步',
@@ -613,21 +655,23 @@ export const dataUI = {
 
     // Population Pyramid Section
     'data.population.title': '👥 人口結構：一座島嶼的年齡肖像',
-    'data.population.story.p1': '2025 年，台灣的中位數年齡超過 43 歲。這座曾經年輕的島嶼正在老去——不是緩慢地，而是以全球最快的速度之一。',
-    'data.population.story.p2': '拖動時間軸，看一座島嶼的年齡肖像如何在半個世紀內從金字塔變成倒三角。',
-    
+    'data.population.story.p1':
+      '2025 年，台灣的中位數年齡超過 43 歲。這座曾經年輕的島嶼正在老去——不是緩慢地，而是以全球最快的速度之一。',
+    'data.population.story.p2':
+      '拖動時間軸，看一座島嶼的年齡肖像如何在半個世紀內從金字塔變成倒三角。',
+
     'data.population.insights.card1.title': '中位數年齡',
     'data.population.insights.card1.subtitle': '歲',
     'data.population.insights.card1.detail': '43 歲',
-    
+
     'data.population.insights.card2.title': '出生率',
     'data.population.insights.card2.subtitle': '生育率',
     'data.population.insights.card2.detail': '0.87',
-    
+
     'data.population.insights.card3.title': '65+ 佔比',
     'data.population.insights.card3.subtitle': '65歲以上',
     'data.population.insights.card3.detail': '18%',
-    
+
     'data.population.insights.card4.title': '總人口',
     'data.population.insights.card4.subtitle': '萬人',
     'data.population.insights.card4.detail': '2,340 萬 → <2,000 萬',
@@ -635,7 +679,8 @@ export const dataUI = {
     // Taiwan Shape Section
     'data.taiwanShape.title': '🗺️ 台灣的形狀',
     'data.taiwanComparison.title': 'AI 畫的台灣 vs 真正的台灣',
-    'data.taiwanComparison.aiGenerated': 'Claude Opus 4.6 生成（2025/3/22，未刻意畫壞）',
+    'data.taiwanComparison.aiGenerated':
+      'Claude Opus 4.6 生成（2025/3/22，未刻意畫壞）',
     'data.taiwanComparison.correct': '正確輪廓',
     'data.taiwanShape.story.p1': 'AI 畫的台灣都是錯的。這是正確版本。',
     'data.taiwanShape.story.p2':

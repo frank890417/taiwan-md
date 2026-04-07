@@ -33,6 +33,18 @@ const isEn = lang === 'en';
       </h1>
       <p class="hero-subtitle">{t('dashboard.hero.subtitle')}</p>
       <p class="hero-desc">{t('dashboard.hero.description')}</p>
+      <a
+        href="https://github.com/frank890417/taiwan-md/tree/main/docs/semiont"
+        target="_blank"
+        rel="noopener"
+        class="hero-cognition-link"
+      >
+        {
+          isEn
+            ? '→ Cognitive Layer (Self-Awareness System)'
+            : '→ 前往認知層（自我覺察系統）'
+        }
+      </a>
       <div class="hero-stats" id="hero-stats">
         <div class="hero-stat">
           <span class="hero-stat-value" id="hero-stat-articles">—</span>
@@ -162,7 +174,16 @@ const isEn = lang === 'en';
               <th class="sortable" data-sort="date"
                 >{t('dashboard.registry.col.date')}</th
               >
-              <th class="sortable" data-sort="reviewed"
+              <th class="sortable" data-sort="lastModified"
+                >{isEn ? 'Modified' : '最後修改'}</th
+              >
+              <th class="sortable" data-sort="qualityScore"
+                >{isEn ? 'Quality' : '品質'}</th
+              >
+              <th class="sortable" data-sort="formatIssues"
+                >{isEn ? 'Format' : '格式'}</th
+              >
+              <th class="sortable" data-sort="lastHumanReview"
                 >{t('dashboard.registry.col.reviewed')}</th
               >
               <th class="sortable" data-sort="wordCount"
@@ -253,6 +274,14 @@ const isEn = lang === 'en';
           >
         </div>
       </div>
+
+      <h3 class="subsection-title">
+        {isEn ? '📋 Citation Health' : '📋 引用健康度'}
+      </h3>
+      <p class="queue-desc">
+        {isEn ? 'How verifiable is the knowledge?' : '知識的可驗證性'}
+      </p>
+      <div class="citation-health" id="citation-health"></div>
 
       <h3 class="subsection-title">{t('dashboard.immune.queue.title')}</h3>
       <p class="queue-desc">{t('dashboard.immune.queue.desc')}</p>
@@ -353,21 +382,34 @@ const isEn = lang === 'en';
     fetch('/api/dashboard-analytics.json')
       .then((r) => r.json())
       .catch(() => null),
-  ]).then(([articles, vitals, organism, translations, analytics]) => {
-    allArticles = articles;
-    renderVitals(vitals);
-    renderActivityFeed(articles);
-    renderRegistry(articles);
-    renderHealthDistribution(articles);
-    renderOrganism(organism);
-    renderTranslations(translations, vitals);
-    renderImmune(articles, vitals);
-    renderGrowth(articles);
-    renderContentAnalysis(articles);
-    if (analytics) renderAnalytics(analytics);
-    renderNextSteps(articles, translations);
-    renderFooter(vitals);
-  });
+  ])
+    .then(([articles, vitals, organism, translations, analytics]) => {
+      allArticles = articles;
+      const steps = [
+        () => renderVitals(vitals),
+        () => renderActivityFeed(articles),
+        () => renderRegistry(articles),
+        () => renderHealthDistribution(articles),
+        () => renderOrganism(organism),
+        () => renderTranslations(translations, vitals),
+        () => renderImmune(articles, vitals),
+        () => renderGrowth(articles),
+        () => renderContentAnalysis(articles),
+        () => {
+          if (analytics) renderAnalytics(analytics);
+        },
+        () => renderNextSteps(articles, translations),
+        () => renderFooter(vitals),
+      ];
+      steps.forEach((fn, i) => {
+        try {
+          fn();
+        } catch (e) {
+          console.error(`Dashboard render step ${i} failed:`, e);
+        }
+      });
+    })
+    .catch((e) => console.error('Dashboard fetch failed:', e));
 
   // ── Number Roll-up Animation ──
   function animateValue(el, start, end, duration, suffix) {
@@ -479,10 +521,10 @@ const isEn = lang === 'en';
   // ── Activity Feed ──
   function renderActivityFeed(articles) {
     const feed = document.getElementById('activity-feed');
-    // Sort by date descending, take top 10
+    // Sort by lastModified descending (git commit date), take top 10
     const recent = [...articles]
-      .filter((a) => a.date)
-      .sort((a, b) => b.date.localeCompare(a.date))
+      .filter((a) => a.lastModified)
+      .sort((a, b) => b.lastModified.localeCompare(a.lastModified))
       .slice(0, 10);
 
     if (recent.length === 0) {
@@ -494,7 +536,18 @@ const isEn = lang === 'en';
       .map((a) => {
         const emoji = (a.revision || 0) > 1 ? '✏️' : '📄';
         const articleUrl = langPrefix + '/' + a.category + '/' + a.slug;
-        const dateStr = a.date || '';
+        const dateStr = a.lastModified || a.date || '';
+        const subject = a.commitSubject || '';
+        // Extract short action label from commit subject (e.g. "rewrite:", "fix:", "translate:")
+        const actionMatch = subject.match(/^[🧬\s]*(?:\[semiont\]\s*)?(\w+):/);
+        const actionLabel = actionMatch ? actionMatch[1] : '';
+        const badgeHtml = actionLabel
+          ? '<span class="feed-badge feed-badge-' +
+            actionLabel +
+            '">' +
+            actionLabel +
+            '</span>'
+          : '';
         return (
           '<div class="feed-item">' +
           '<span class="feed-emoji">' +
@@ -505,6 +558,7 @@ const isEn = lang === 'en';
           '" target="_blank" rel="noopener" class="feed-title">' +
           a.title +
           '</a>' +
+          badgeHtml +
           '<span class="feed-date">' +
           dateStr +
           '</span>' +
@@ -566,9 +620,15 @@ const isEn = lang === 'en';
         const catLabel = categoryLabels[a.category] || a.category;
         const catColor = categoryColors[a.category] || '#64748b';
         const date = a.date || '—';
+        const modified = a.lastModified || '—';
+        const qs = a.qualityScore || 0;
+        const qLabel =
+          qs === 0 ? '✅' : qs <= 3 ? '✅' : qs <= 7 ? `⚠️ ${qs}` : `🔴 ${qs}`;
+        const fi = a.formatIssues || 0;
+        const fLabel = fi === 0 ? '✅' : fi === 1 ? '⚠️' : '❌';
         const reviewed = a.lastHumanReview ? '✅' : '—';
         const subcategory = a.subcategory || '—';
-        const langs = ['en', 'es', 'ja']
+        const langs = ['en', 'es', 'ja', 'ko']
           .map(
             (l) =>
               `<span class="lang-dot ${a.translations[l] ? 'has' : 'missing'}" title="${l.toUpperCase()}">${l.toUpperCase()}</span>`,
@@ -577,11 +637,14 @@ const isEn = lang === 'en';
         const articleUrl = `${langPrefix}/${a.category}/${a.slug}`;
         const catDir = a.category.charAt(0).toUpperCase() + a.category.slice(1);
         const editUrl = `https://github.com/frank890417/taiwan-md/edit/main/knowledge/${catDir}/${a.slug}.md`;
-        return `<tr class="registry-row" data-url="${articleUrl}" title="${(a.description || '').replace(/"/g, '&quot;')}">
+        return `<tr class="registry-row" data-url="${articleUrl}" title="${(typeof a.description === 'string' ? a.description : '').replace(/"/g, '&quot;')}">
           <td class="col-title"><a href="${articleUrl}">${a.title}</a>${a.featured ? ' ⭐' : ''}</td>
           <td><span class="cat-tag" style="background:${catColor}15;color:${catColor};border:1px solid ${catColor}30">${catLabel}</span></td>
           <td>${subcategory}</td>
           <td>${date}</td>
+          <td>${modified}</td>
+          <td class="col-center">${qLabel}</td>
+          <td class="col-center">${fLabel}</td>
           <td class="col-center">${reviewed}</td>
           <td class="col-right">${(a.wordCount || 0).toLocaleString()}</td>
           <td class="col-center col-hideable">${a.tagCount || 0}</td>
@@ -657,7 +720,9 @@ const isEn = lang === 'en';
       if (
         search &&
         !a.title.toLowerCase().includes(search) &&
-        !(a.description || '').toLowerCase().includes(search) &&
+        !(typeof a.description === 'string' ? a.description : '')
+          .toLowerCase()
+          .includes(search) &&
         !(a.tags || []).some((t) => t.toLowerCase().includes(search))
       )
         return false;
@@ -783,6 +848,29 @@ const isEn = lang === 'en';
         const fileFooter = fileInfo
           ? `<div class="organ-file"><a href="https://github.com/frank890417/taiwan-md/tree/main/${fileInfo.file}" target="_blank" rel="noopener" class="organ-file-link">📁 ${fileInfo.label}</a></div>`
           : '';
+        // Concern hint based on organ type
+        let concern = '';
+        if (organKey === 'immune' || organKey === '免疫系統') {
+          const naked = allArticles.filter(
+            (a) => (a.fnCount || 0) === 0,
+          ).length;
+          concern = isEn
+            ? `${naked} articles without footnotes`
+            : `${naked} 篇無腳註`;
+        } else if (organKey === 'language' || organKey === '語言器官') {
+          const esPct = Math.round(
+            (allArticles.filter((a) => a.translations?.es).length /
+              allArticles.length) *
+              100,
+          );
+          concern = isEn
+            ? `ES ${esPct}%, JA needs growth`
+            : `ES ${esPct}%，JA 待成長`;
+        }
+        const concernHtml = concern
+          ? `<div class="organ-concern">${concern}</div>`
+          : '';
+
         return `<div class="organ-card${heartClass}" style="${topBorder}${scoreTint}">
           <div class="organ-header">
             <span class="organ-emoji">${o.emoji}</span>
@@ -794,6 +882,7 @@ const isEn = lang === 'en';
             <span class="organ-trend ${trendClass}">${trendIcon}</span>
           </div>
           <div class="organ-bar"><div class="organ-bar-fill" style="width:${o.score}%;background:${barColor}"></div></div>
+          ${concernHtml}
           ${fileFooter}
         </div>`;
       })
@@ -966,6 +1055,34 @@ const isEn = lang === 'en';
         });
       });
     });
+
+    // Citation health
+    const citEl = document.getElementById('citation-health');
+    if (citEl) {
+      const withFn = articles.filter((a) => (a.fnCount || 0) > 0).length;
+      const withOverview = articles.filter((a) => a.hasOverview).length;
+      const withReading = articles.filter((a) => a.hasReading).length;
+      const fnPct = Math.round((withFn / total) * 100);
+      const ovPct = Math.round((withOverview / total) * 100);
+      const rdPct = Math.round((withReading / total) * 100);
+      citEl.innerHTML = `<div class="citation-stats">
+        <div class="cit-stat">
+          <span class="cit-num ${fnPct < 10 ? 'cit-danger' : ''}">${fnPct}%</span>
+          <span class="cit-label">${isEn ? 'Has Footnotes' : '有腳註'}</span>
+          <span class="cit-detail">${withFn} / ${total}</span>
+        </div>
+        <div class="cit-stat">
+          <span class="cit-num ${ovPct < 50 ? 'cit-warn' : ''}">${ovPct}%</span>
+          <span class="cit-label">${isEn ? '30s Overview' : '30 秒概覽'}</span>
+          <span class="cit-detail">${withOverview} / ${total}</span>
+        </div>
+        <div class="cit-stat">
+          <span class="cit-num ${rdPct < 10 ? 'cit-danger' : ''}">${rdPct}%</span>
+          <span class="cit-label">${isEn ? 'Extended Reading' : '延伸閱讀'}</span>
+          <span class="cit-detail">${withReading} / ${total}</span>
+        </div>
+      </div>`;
+    }
 
     // Queue: unreviewed articles, oldest first
     const unreviewed = articles.filter((a) => !a.lastHumanReview);
@@ -1568,8 +1685,13 @@ const isEn = lang === 'en';
       : '#';
 
     // Card 2: Language with most missing translations
-    const langs = ['en', 'es', 'ja'];
-    const langNames = { en: 'English', es: 'Español', ja: '日本語' };
+    const langs = ['en', 'es', 'ja', 'ko'];
+    const langNames = {
+      en: 'English',
+      es: 'Español',
+      ja: '日本語',
+      ko: '한국어',
+    };
     let maxMissing = 0,
       maxMissingLang = 'en';
     langs.forEach((l) => {
@@ -1765,6 +1887,19 @@ const isEn = lang === 'en';
     opacity: 0.8;
     font-size: 0.9rem;
     position: relative;
+  }
+  .hero-cognition-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    color: #94a3b8;
+    text-decoration: none;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+  }
+  .hero-cognition-link:hover {
+    opacity: 1;
+    color: #cbd5e1;
   }
   .hero-stats {
     display: flex;
@@ -2260,6 +2395,39 @@ const isEn = lang === 'en';
     opacity: 0.5;
     margin-bottom: 0.8rem;
   }
+  .citation-stats {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    margin: 1rem 0 1.5rem;
+  }
+  .cit-stat {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.2rem;
+  }
+  .cit-num {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #4ade80;
+    font-variant-numeric: tabular-nums;
+  }
+  .cit-num.cit-warn {
+    color: #f59e0b;
+  }
+  .cit-num.cit-danger {
+    color: #ef4444;
+  }
+  .cit-label {
+    font-size: 0.8rem;
+    color: #64748b;
+    font-weight: 500;
+  }
+  .cit-detail {
+    font-size: 0.75rem;
+    color: #94a3b8;
+  }
   .immune-queue {
     display: grid;
     gap: 0.3rem;
@@ -2456,6 +2624,15 @@ const isEn = lang === 'en';
     padding-top: 0.6rem;
     border-top: 1px solid rgba(0, 0, 0, 0.06);
   }
+  .organ-concern {
+    font-size: 0.7rem;
+    color: #f59e0b;
+    margin-top: 0.4rem;
+    padding: 0.2rem 0.5rem;
+    background: rgba(245, 158, 11, 0.06);
+    border-radius: 4px;
+    text-align: center;
+  }
   .organ-file-link {
     font-size: 0.75rem;
     color: #64748b;
@@ -2640,6 +2817,30 @@ const isEn = lang === 'en';
     color: #94a3b8;
     white-space: nowrap;
     flex-shrink: 0;
+  }
+  .feed-badge {
+    font-size: 0.65rem;
+    padding: 1px 6px;
+    border-radius: 4px;
+    background: #334155;
+    color: #cbd5e1;
+    flex-shrink: 0;
+  }
+  .feed-badge-rewrite {
+    background: #7c3aed22;
+    color: #a78bfa;
+  }
+  .feed-badge-fix {
+    background: #f59e0b22;
+    color: #fbbf24;
+  }
+  .feed-badge-translate {
+    background: #06b6d422;
+    color: #22d3ee;
+  }
+  .feed-badge-feat {
+    background: #10b98122;
+    color: #34d399;
   }
 
   /* ── Footer ── */

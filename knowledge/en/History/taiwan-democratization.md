@@ -171,10 +171,10 @@ That is what democratization means. Not a smooth inspirational arc but a politic
 
 ## Related Topics
 
-- [[martial-law-era|Martial Law Era]]: 38 years of authoritarian rule before democratization
-- [[taiwan-white-terror|White Terror]]: 140,000 to 200,000 people politically persecuted
-- [[228-incident|February 28 Incident]]: The origin of Taiwan's postwar political trauma
-- [[sunflower-movement|Sunflower Movement]]: 2014 civic movement deepening democratic accountability
-- [[lee-teng-hui|Lee Teng-hui]]: The president who navigated the democratic transition
-- [[zheng-nanrong|Cheng Nan-jung]]: The editor who self-immolated for freedom of speech
-- [[taiwan-elections-and-party-politics|Elections & Party Politics]]: How Taiwan's electoral system evolved after democratization
+- [Martial Law Era](/history/martial-law-era): 38 years of authoritarian rule before democratization
+- [White Terror](/history/taiwan-white-terror): 140,000 to 200,000 people politically persecuted
+- [February 28 Incident](/history/228-incident): The origin of Taiwan's postwar political trauma
+- [Sunflower Movement](/society/sunflower-movement): 2014 civic movement deepening democratic accountability
+- [Lee Teng-hui](/people/lee-teng-hui): The president who navigated the democratic transition
+- [Cheng Nan-jung](/people/zheng-nanrong): The editor who self-immolated for freedom of speech
+- [Elections & Party Politics](/history/taiwan-elections-and-party-politics): How Taiwan's electoral system evolved after democratization

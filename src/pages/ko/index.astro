@@ -1,0 +1,207 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import HeroSection from '../../components/home/HeroSection.astro';
+import CoverStory from '../../components/home/CoverStory.astro';
+import RandomDiscovery from '../../components/home/RandomDiscovery.astro';
+import ReadingPath from '../../components/ReadingPath.astro';
+import FeatureCards from '../../components/FeatureCards.astro';
+import CategoriesSection from '../../components/home/CategoriesSection.astro';
+import LanguageStatement from '../../components/home/LanguageStatement.astro';
+import RecentUpdates from '../../components/home/RecentUpdates.astro';
+import NewsletterSection from '../../components/home/NewsletterSection.astro';
+import ContributeSection from '../../components/home/ContributeSection.astro';
+import { fetchRecentCommits } from '../../lib/commits';
+
+const recentCommits = await fetchRecentCommits();
+
+const readingPathSteps = [
+  {
+    href: '/ko/food/night-market-culture',
+    title: '가장 진짜 대만 맛: 야시장 문화',
+    description: '세계 최고 밀도의 서민 먹거리 사교 공간',
+    time: '5 min',
+  },
+  {
+    href: '/ko/food/bubble-tea',
+    title: '버블티: 대만에서 세계로',
+    description: '타이중의 작은 찻집에서 시작된 세계적 음료의 이야기',
+    time: '6 min',
+  },
+];
+
+const readingPathFooterItems = [
+  { icon: '⏱️', label: '총 11분' },
+  { icon: '🎯', label: '2개 주요 분야' },
+  { icon: '🌟', label: '대만 완전 이해' },
+];
+---
+
+<Layout
+  title="오픈소스 대만 지식 베이스"
+  description="오픈소스, AI 친화적 대만 종합 지식 베이스. 역사, 문화, 음식, 음악, 기술 등 12개 주요 주제를 다루는 660편 이상의 기사. 커뮤니티가 함께 편찬하여 전 세계에 진정한 대만을 소개합니다."
+  lang="ko"
+>
+  <HeroSection />
+
+  <CoverStory />
+
+  <RandomDiscovery />
+
+  <ReadingPath
+    lang="ko"
+    title="📖 어디서부터 시작해야 할지 모르겠다면?"
+    subtitle="이 기사들로 대만의 진정한 모습을 알아보세요"
+    steps={readingPathSteps}
+    footerItems={readingPathFooterItems}
+    continueHref="#categories"
+    continueLabel="더 많은 주제 탐색하기 →"
+  />
+
+  <FeatureCards
+    lang="ko"
+    sectionTitle="왜 Taiwan.md가 필요한가?"
+    cards={[
+      {
+        icon: '🎯',
+        title: '큐레이션 관점',
+        description: '정성스럽게 큐레이팅된 깊은 서사, 백과사전식 나열이 아닌',
+      },
+      {
+        icon: '🤖',
+        title: 'AI 친화적 설계',
+        description: '구조화된 콘텐츠로 AI도 대만의 복잡성을 이해할 수 있도록',
+      },
+      {
+        icon: '🌍',
+        title: '다국어 국제 시야',
+        description: '현지 관점에서 출발하여 국제 언어로 대만의 이야기를 전달',
+      },
+      {
+        icon: '📚',
+        title: '완전 다면적',
+        description:
+          '12개 이상의 분야를 망라하여 대만의 입체적이고 완전한 모습을 제시',
+      },
+    ]}
+  />
+
+  <CategoriesSection>
+    <Fragment slot="prose">
+      <p>
+        이 섬은 36,000 평방킬로미터에 불과하지만, 세계의 축소판을 담고 있다.
+        3,952미터의 위산(玉山) 정상에서 태평양의 심해구까지,
+        <a href="/ko/geography" class="topic-pill">🗺️ 이곳의 지리</a>는 조산
+        운동의 생중계 그 자체다—— 판의 충돌, 화산 폭발, 단층 이동, 400만 년간
+        멈추지 않는 지질 교향곡이 세계에서 가장 젊고 가장 역동적인 아름다운 섬을
+        만들어냈다.
+      </p>
+
+      <p>
+        400년 전, 네덜란드인이 타이난에 제란디아 성을 세웠다. 이후 모든 통치자——
+        정씨, 청 제국, 일본, 국민당——이 이 섬에 자신의 비문을 새겼다. 그러나
+        대만을 진정한 대만으로 만든 것은 권위주의에서 민주주의로의
+        <a href="/ko/history" class="topic-pill">📜 긴 각성</a>이다. 2·28의 피와
+        눈물에서 계엄 해제의 환호까지, 메이리다오에서 해바라기까지, 모든 고통과
+        저항이 이 섬의 영혼을 더욱 선명하게 했다.
+      </p>
+
+      <p>
+        이 땅에는 다중의 피가 흐르고 있다. 원주민은 6,000년간 이곳에 살아왔고,
+        17세기 이후 건너온 민남인, 객가인, 전후 중국 각 성에서 이주한 외성인,
+        최근의 신주민과 이주 노동자——각자 자신의 언어, 신앙, 기억을 가져왔다.
+        <a href="/ko/culture" class="topic-pill">🎭 대만의 문화</a>는 용광로가
+        아니라 퍼즐이다—— 각 조각이 자신의 색과 형태를 유지하면서, 전례 없는
+        그림을 완성하고 있다.
+      </p>
+
+      <p>
+        대만의 어떤 야시장에 들어가도, 민남의 굴전, 일본의 덴푸라, 전후 퇴역
+        군인이 가져온 산둥 파전의 향기가 동시에 풍겨온다.
+        <a href="/ko/food" class="topic-pill">🍜 이 섬의 맛</a>은 이민사의 미각
+        버전이다. 노점의 인정미에서 미슐랭의 정교한 기술까지, 대만인은 음식으로
+        이야기를 하고, 요리로 기억을 보존한다.
+      </p>
+
+      <p>
+        나비의 왕국은 낭만적 비유가 아니라 생태학적 현실이다. 네덜란드보다 작은
+        이 섬에 59,000종이 넘는 생물이 빽빽이 들어차 있다——세계 육지 면적의
+        0.025%에 전체 생물종의 2.5%.
+        <a href="/ko/nature" class="topic-pill">🌿 대만의 자연</a>은 입체적인
+        진화의 교과서다: 열대우림에서 고산 툰드라까지, 산호초에서 쿠로시오
+        해류까지, 종은 여기서 진화하고, 분화하고, 공존한다. 그러나 산업 발전의
+        대가도 산하에 새겨져 있으며, 환경 보호와 개발의 줄다리기는 계속되고
+        있다.
+      </p>
+
+      <p>
+        라이허, 양쿠이에서 바이셴융, 주톈신까지, 우펑 린가에서 구전푸 가문까지,
+        <a href="/ko/people" class="topic-pill">👥 대만의 인물</a>은 시대의
+        축소판이다. 단순한 개인 전기가 아니라, 이 섬이 어떻게 틈새에서 생존하고
+        곤경에서 희망을 찾았는지의 집단적 기억이다. 모든 이야기 뒤에는 큰 시대
+        속 작은 사람들의 끈기와 선택이 있다.
+      </p>
+
+      <p>
+        묘회의 팔가장에서 현대 미술의 베니스 비엔날레까지,
+        <a href="/ko/art" class="topic-pill">🎨 대만의 예술</a>은 전통과 혁신의
+        대화다. 교지도와 디지털 설치, 전통 연극과 실험 극장, 원주민 토템과 현대
+        회화——예술가들은 끊임없이 묻는다: 이 시대에 창작으로 어떻게 응답할
+        것인가? 세계화 속에서 어떻게 지역성을 유지할 것인가?
+      </p>
+
+      <p>
+        원주민의 고대 노래에서 덩위셴의 「봄바람을 기다리며」까지, 캠퍼스
+        포크에서 금곡장까지,
+        <a href="/ko/music" class="topic-pill">🎵 대만의 소리</a>는 섬의 심장
+        박동이다. 음악은 민족, 언어, 세대의 경계를 넘어 집단적 기억을 가장
+        강하게 결속시키는 매체가 되었다. 오월천이 소거단에서 외치는 함성이든,
+        원주민이 부락에서 부르는 고대 노래이든, 모두 같은 이야기를 하고 있다:
+        우리는 누구인가, 어디서 왔는가.
+      </p>
+
+      <p>
+        TSMC의 웨이퍼는 단순한 실리콘 칩이 아니라, 세계 기술 지도에서 대만의
+        위치를 증명하는 것이다.
+        <a href="/ko/technology" class="topic-pill">💻 이 기술 섬</a>은 위탁
+        제조에서 혁신적 R&D로, 하드웨어 우위에서 소프트웨어 돌파구로 진화했다.
+        그러나 기술 발전은 도전도 가져온다: 디지털 격차, AI 대체, 사이버 보안
+        위협——대만은 기술의 파도에 올라타면서도 빠지지 않을 수 있을까?
+      </p>
+
+      <p>
+        아시아 네 마리 용에서 반도체 제국까지, <a
+          href="/ko/economy"
+          class="topic-pill">📈 대만의 경제 기적</a
+        >
+        은 작은 나라의 큰 전략의 전형적 사례다. 그러나 기적 뒤에는 셀 수 없는 야근의
+        밤, 치밀한 원가 관리, 멈추지 않는 효율 추구가 있다. 지금 미중 무역 전쟁과
+        글로벌 공급망 재편에 직면하여, 대만은 어떻게 경제의 전설을 이어갈 것인가?
+      </p>
+
+      <p>
+        <a href="/ko/society" class="topic-pill">⚖️ 대만 사회</a>의 키워드는
+        '다양성'과 '포용'이다. 아시아 최초의 동성 결혼 합법화에서 전환기 정의의
+        지속적 추진까지, 원전 국민투표에서 연금 개혁까지, 대만인은 차이 속에서
+        대화하고 갈등 속에서 합의를 찾는 법을 배우고 있다. 이곳은 민주주의의
+        연습장이자 미래의 실험실이다.
+      </p>
+
+      <p>
+        대만인의 <a href="/ko/lifestyle" class="topic-pill">🏠 라이프스타일</a
+        >은 편리함과 인정미의 융합이다. 편의점 밀도는 세계 1위이지만, 야시장의
+        온기는 유일무이하다. 24시간 영업의 도시 리듬 속에서도 이웃의 인사와
+        배려가 남아 있다. 세계화의 거센 물결 속에서 대만인은 어떻게 자신의 생활
+        철학을 지킬 것인가? 답은 아마 "밥 먹었어?"라는 일상의 인사 속에 있을
+        것이다.
+      </p>
+    </Fragment>
+  </CategoriesSection>
+
+  <LanguageStatement />
+
+  <RecentUpdates commits={recentCommits} />
+
+  <NewsletterSection />
+
+  <ContributeSection />
+</Layout>

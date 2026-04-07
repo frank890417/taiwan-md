@@ -144,7 +144,6 @@ Este período también estableció patrones que caracterizarían a Taiwán a lo 
 
 ## Temas Relacionados
 
-- [[prehistoric-era-and-indigenous-peoples]]
-- [[qing-dynasty-rule]]
-- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[open-source-and-g0v]]
+- [prehistoric-era-and-indigenous-peoples](/history/prehistoric-era-and-indigenous-peoples)
+- [qing-dynasty-rule](/history/qing-dynasty-rule)
+- [open-source-and-g0v](/technology/open-source-and-g0v)

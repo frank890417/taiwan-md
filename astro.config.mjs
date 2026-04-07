@@ -21,13 +21,15 @@ export default defineConfig({
         locales: {
           'zh-TW': 'zh-TW',
           en: 'en',
+          ja: 'ja',
+          ko: 'ko',
         },
       },
     }),
   ],
   i18n: {
     defaultLocale: 'zh-TW',
-    locales: ['zh-TW', 'en'],
+    locales: ['zh-TW', 'en', 'ja', 'ko'],
     routing: {
       prefixDefaultLocale: false,
     },

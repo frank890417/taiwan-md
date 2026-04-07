@@ -130,8 +130,6 @@ The prehistoric era and indigenous peoples of Taiwan represent a unique chapter 
 
 ## Related Topics
 
-- [[dutch-spanish-and-koxinga-era]]
-- [[Culture/Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlanders, New Residents)]]
-- [[endemic-species]]
-- [[Music/Popular Music and Golden Melody Awards]]
-- [[contemporary-art]]
+- [dutch-spanish-and-koxinga-era](/history/dutch-spanish-and-koxinga-era)
+- [endemic-species](/nature/endemic-species)
+- [contemporary-art](/art/contemporary-art)

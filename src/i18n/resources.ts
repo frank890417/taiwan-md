@@ -514,6 +514,12 @@ export const resourcesUI = {
     'resources.site.npgov': 'National Parks Portal',
     'resources.site.taiwanmd': 'Taiwan.md',
   },
+  ja: {
+    // Japanese — uses English as base, core strings will be translated
+  },
+  ko: {
+    // Korean — uses English as base, core strings will be translated
+  },
   'zh-TW': {
     // Meta
     'resources.meta.title': '台灣資源導覽 - Taiwan.md',

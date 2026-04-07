@@ -147,6 +147,3 @@ In the future smart era, Taiwan railways will continue evolving. But unchanging 
 ---
 
 Further Reading:
-- [Qing Dynasty Rule](/en/History/qing-dynasty-rule)
-- [Japanese Colonial Era](/en/History/japanese-colonial-era)
-- [Taiwan Transportation Network](/en/Geography/taiwan-transportation-network)

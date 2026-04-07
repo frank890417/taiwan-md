@@ -1,72 +1,119 @@
 ---
-title: 'Annette Lu (Lu Hsiu-lien)'
-description: 'Pioneer of Taiwan’s women’s movement and the first female vice president in the Chinese-speaking world'
-date: 2026-03-19
-tags: [people, politics, women’s-movement, vice-president, Kaohsiung-Incident]
+title: 'Annette Lu Hsiu-lien'
+description: 'From political prisoner to vice president: The first female vice president in the Chinese-speaking world'
+date: 2026-03-22
+tags: [person, politician, feminism, vice president, Kaohsiung Incident]
 subcategory: 'Politics & Democracy'
-lastVerified: 2026-03-19
+category: 'people'
+lastVerified: 2026-03-22
+lastHumanReview: false
 ---
 
-# Annette Lu (呂秀蓮): From Feminist Vanguard to Taiwan’s First Female Vice President
+> **30-second overview:** In 1979, Annette Lu was sentenced to 12 years in prison for the Kaohsiung Incident;
+> in 2000, she became the first female vice president in the Chinese-speaking world. This pioneering
+> feminist took 20 years to journey from prison to the presidential palace, witnessing Taiwan's
+> complete transformation from authoritarianism to democracy.
 
-## A Life That Mirrors Taiwan’s Democratic and Gender Revolution
+## How did a political prisoner sentenced to 12 years become vice president?
 
-Annette Lu Hsiu-lien (呂秀蓮), born in 1944 in Taoyuan, is a defining figure in Taiwan’s modern history. She is widely recognized as a pioneer of the island’s women’s movement and the first woman to serve as vice president in the Chinese-speaking world (2000–2008). Her story is not just a biography of a politician; it is a compressed history of Taiwan’s transformation—from patriarchal social norms and martial-law repression to democratic governance and a society where women’s leadership is not an exception but part of the political landscape.
+On the evening of December 10, 1979, in the streets of Kaohsiung, Annette Lu, deputy publisher of _Formosa Magazine_, delivered a 20-minute speech at a human rights rally. Speaking into the microphone, she declared: "Taiwanese people have never had the chance like today to voice our courage with such strength." Three days later, she was arrested.
 
-Lu’s early years unfolded in an era when women’s education and professional ambitions were often secondary. Yet she excelled academically, graduating from National Taiwan University’s Department of Law and later earning a master’s degree in law from Harvard. At a time when overseas graduate education for Taiwanese women was rare, her academic path signaled both personal determination and a new possibility for women in public life.
+The military court verdict read: "Lu Hsiu-lien intended to overthrow the government through illegal means" — 12 years imprisonment.
 
-## The “New Feminism” That Shocked a Conservative Society
+Twenty-one years later, on May 20, 2000, the same Annette Lu took her oath at the Presidential Office as vice president, becoming the first female vice president in the Chinese-speaking world.
 
-In the early 1970s, Taiwan was still defined by a Confucian, patriarchal social order in which women were expected to be “virtuous wives and good mothers.” Lu challenged this directly. In 1974 she published _New Feminism_ (新女性主義), arguing that women must be recognized as full individuals before being defined by gender roles. Her slogan “Be a person first, then a woman” (做人第一，做女人第二) sparked intense controversy. Traditionalists saw it as an assault on social order, while many young women found in it a language for their own aspirations.
+This wasn't just a personal reversal of fortune, but a microcosm of Taiwan's democratization process.
 
-Lu didn’t stop at writing. She founded _The Pioneer_ publishing house (拓荒者出版社) and became a tireless lecturer, translating global feminist ideas into Taiwan’s local context. This was more than an import of Western feminism; it was an early effort to articulate a Taiwanese feminist discourse that spoke to local realities—family structures, labor markets, and political constraints under authoritarian rule.
+## The 1970s Awakening: New Feminism Shakes Society
 
-She also helped establish _Awakening_ (婦女新知雜誌社), one of Taiwan’s earliest women’s organizations, which later became the Awakening Foundation. This organization continues to be a cornerstone of Taiwan’s gender-equality movement, and Lu’s role in its founding is widely regarded as foundational.
+In 1971, Annette Lu returned to Taiwan after earning her Master of Laws in Comparative Law from the University of Illinois. That year, female college students comprised one-third of Taiwan's university population, prompting societal calls for "male quotas" out of concern that men would have no universities to attend.
 
-## From Feminist Activism to Democratic Resistance
+Fresh from her return and working at the Executive Yuan's Legal Affairs Committee, Lu reacted strongly to such rhetoric. She delivered a lecture titled "Should Male-Centered Society Come to an End?" introducing her shocking "New Feminism" concept: "Be a person first, then a man or woman," and "Left hand holding a spatula, right hand holding a pen."
 
-By the late 1970s, Lu came to believe that women’s rights could not be fully realized without political freedom. Taiwan was then under martial law, with strict limits on press, assembly, and opposition politics. Lu joined the _Dangwai_ (黨外, “outside the party”) democratic movement, becoming a prominent figure in the fight for political liberalization.
+In 1974, she published _New Feminism_, the first feminist book written by a Taiwanese woman in the post-war era. The book introduced the slogan "Be a person first, a woman second," causing tremendous controversy in traditional society. At the time, women's roles were still defined as "virtuous wives and good mothers" — Lu's advocacy was like dropping a bombshell.
 
-Her activism led directly to the 1979 Kaohsiung Incident (美麗島事件), one of the defining events in Taiwan’s democratization. After a pro-democracy rally, Lu and other leaders of _Formosa Magazine_ (美麗島雜誌) were arrested. She was convicted of “sedition” and sentenced to 12 years in prison. During nearly six years of incarceration at Jingmei and Tucheng detention centers, she continued to read, reflect, and write. The prison years did not silence her; they deepened her resolve.
+In 1976, she established the "Protect You" hotline and founded Pioneer Publishing House. These pioneering efforts laid the foundation for Taiwan's women's rights movement, earning her recognition as the starting point of Taiwan's second-wave feminism.
 
-In 1985, she was released under a general amnesty ordered by President Chiang Ching-kuo. Her release came as Taiwan was slowly beginning to loosen political controls, and Lu immediately re-entered public life.
+> **💡 Did you know?**
+> Lu emphasized that her advocacy was for "women's talent movement" rather than "women's rights movement,"
+> describing it as "local produce" rather than a Western import. She hoped Taiwanese women would
+> develop their talents, not just fight for power.
 
-## Political Leadership: Taoyuan County and the Vice Presidency
+## The Kaohsiung Incident: From Women's Rights Fighter to Democracy Martyr
 
-After Taiwan’s Democratic Progressive Party (DPP) was founded in 1986, Lu became one of its early leaders. In 1989, she was elected magistrate of Taoyuan County, becoming Taiwan’s first elected female county chief. Her tenure was marked by forward-looking policies in environmental protection, cultural development, and social welfare.
+In late 1978, Lu abandoned her opportunity to pursue a doctorate at Harvard and returned to Taiwan to enter politics. With the impending severing of US-Taiwan diplomatic ties, she recognized Taiwan faced major changes and decided to expand from women's rights to democracy movement.
 
-She gained a reputation as an “environmental godmother,” advocating waste sorting, river cleanups, urban greening, and sustainable development. These were not fashionable policies at the time; in a growth-obsessed society, environmental concerns were often dismissed as secondary. Lu’s insistence on ecological responsibility anticipated the environmental consciousness that later became mainstream in Taiwan.
+She joined the opposition magazine _Formosa_ as deputy publisher. On December 10, 1979, World Human Rights Day, _Formosa Magazine_ held a rally in Kaohsiung calling for democracy and freedom. Lu spoke at the scene:
 
-In 2000, Lu ran as vice-presidential candidate with Chen Shui-bian (陳水扁). Their victory not only marked the first peaceful transfer of power to an opposition party in Taiwan’s history, but also made Lu the first female vice president in the Chinese-speaking world—a symbolic breakthrough for women’s political participation across the region.
+_"Dear compatriots, conscientious Taiwanese compatriots... Today is a great day. I hope everyone will use the most enthusiastic applause to save our survival and destiny."_
 
-## Policy Priorities in Office
+This speech became the turning point of her life. After the Kaohsiung Incident erupted, Lu was arrested along with democracy movement leaders including Shi Ming-teh, Lin Yi-hsiung, and Chen Chu. In the military trial, she was sentenced to 12 years imprisonment, actually serving 5 years and 8 months.
 
-As vice president, Lu focused on three areas: gender equality, human rights, and international participation. She supported the passage of the Gender Equity Education Act (性別平等教育法), a landmark law that reshaped how schools address gender and discrimination. This legislation helped institutionalize gender equality in education and remains a cornerstone of Taiwan’s progressive social framework.
+During her imprisonment at Jingmei Detention Center and Tucheng Prison, Lu wasn't defeated. She read, contemplated, and even wrote the novel _These Three Women_ on toilet paper in prison, using a washbasin as a desk to evade guard surveillance.
 
-She also advocated for Taiwan’s international visibility, traveling to diplomatic allies and representing Taiwan in a variety of global forums. While critics labeled some efforts as “checkbook diplomacy,” her supporters argue that maintaining global engagement was essential for a small, diplomatically constrained democracy.
+> **📝 Curator's Note**
+> The fates of the Kaohsiung Eight varied after release: except for Lin Hung-hsuan,
+> the other seven all served as Democratic Progressive Party chairpersons. Lu was the
+> only one to become vice president and the only woman among them.
 
-On cross-strait relations, Lu proposed a middle-ground formula: “peace without unification, peace without independence” (和而不統，和而不獨). This reflected a pragmatic approach—prioritizing stability while resisting forced political outcomes.
+## Return to Politics: From Magistrate to Vice President
 
-## Environmental Ethics and Everyday Practice
+In 1985, Lu was released early due to Chiang Ching-kuo's special pardon. After her comeback, she continued promoting democracy, becoming a founding member of the DPP in 1986.
 
-Lu’s environmentalism was not just policy rhetoric. She promoted the idea of “sustainable living,” emphasizing that Taiwan’s island geography and limited resources demanded careful stewardship. She supported initiatives like “trash does not touch the ground” (垃圾不落地), a slogan that helped reshape everyday habits and public cleanliness.
+In 1992, she was elected to the Legislative Yuan, focusing on foreign affairs. In 1996, after Taoyuan County Magistrate Liu Pang-yu's family was murdered, the DPP recruited Lu to run in the county magistrate by-election.
 
-She also voiced concerns about nuclear power and advocated renewable energy long before these issues entered mainstream policy debates. Her personal lifestyle—modest, frugal, and aligned with ecological values—reinforced the credibility of her advocacy.
+In March 1997, Lu was elected Taoyuan County Magistrate with 55.31% of the votes, becoming Taiwan's first elected female county magistrate. During her tenure, she promoted policies like "Building the Golden Coast" and "Developing Taoyuan Silicon Valley," while actively pursuing environmental protection, earning her the title of Taiwan's "Environmental Godmother."
 
-## Symbolic Impact on Women’s Political Participation
+In 2000, Chen Shui-bian invited Lu to be his running mate in the presidential election. This combination held great symbolic significance — both had been imprisoned for the Kaohsiung Incident and now challenged the KMT's 50-year rule.
 
-Lu’s career has had a lasting influence on Taiwanese women in public life. Her visibility as a senior political leader proved that leadership was not the exclusive domain of men. She helped create a social climate in which women such as Tsai Ing-wen (蔡英文) could rise to the highest office. Today, Taiwan has one of the highest rates of female political participation in Asia, a reality that owes much to early trailblazers like Lu.
+The March 18 election results: the Chen-Lu ticket won with 39.30% of the vote. Lu made history as the first female vice president in the Chinese-speaking world.
 
-She frequently speaks internationally about Taiwan’s experience in gender equality, presenting Taiwan as a case study for democratic societies seeking to expand women’s leadership.
+## Eight Years as Vice President: Soft Diplomacy and Human Rights Promotion
 
-## Controversies and Complexity
+During her tenure as vice president from 2000-2008, Lu promoted "soft diplomacy," making multiple visits to diplomatic allies. She served as convener of the Presidential Office Human Rights Advisory Committee, promoting the Gender Equity Education Act, a crucial milestone for gender equality in Taiwan.
 
-Lu’s direct style and uncompromising views have often placed her at the center of controversy. Some see her as a courageous reformer; others criticize her as overly confrontational. During her vice presidency, she sometimes expressed positions on diplomacy and cross-strait relations that diverged from President Chen’s stance, leading to public debate.
+In 2001, she received the "World Peace Prize," though this award sparked controversy in Taiwan. Internationally, however, it recognized her democratic struggle from prison to the pinnacle of power.
 
-Yet even critics rarely dispute her contributions to Taiwan’s democratic and feminist movements. The debates around her are part of what makes her legacy complex and human—an unambiguous reformer who sometimes divided opinion.
+On March 19, 2004, the day before the election, Lu was shot in the right kneecap in Tainan, while Chen Shui-bian was shot in the abdomen. This "319 Shooting" incident remains controversial, but the Chen-Lu ticket won re-election the next day with a narrow 0.228% margin.
 
-## Historical Legacy
+> **⚠️ Controversial Viewpoint**
+> During her tenure, Lu made some controversial statements, including the "AIDS divine punishment theory"
+> and claims that "indigenous peoples are not Taiwan's original inhabitants," drawing social criticism.
+> Her outspoken personality earned her both steadfast supporters and fierce critics.
 
-Annette Lu’s legacy sits at the intersection of gender equality, democracy, and environmental ethics. She was among the first to imagine Taiwanese women not only as participants but as leaders of political life, and she endured prison to prove that democratic rights must be earned through sacrifice.
+## Environmental Advocacy: Taiwan's Pioneer
 
-Her story shows that social transformation often begins with someone willing to challenge cultural norms, even at personal cost. In Taiwan’s journey from authoritarian rule to pluralistic democracy, Lu is both a symbol and an architect of progress. She remains a reminder that feminism, democracy, and sustainability are not separate causes but interconnected paths toward a more just society.
+Beyond political achievements, Lu was also a crucial promoter of Taiwan's environmental movement. She recognized early on the balance between economic development and environmental protection, promoting waste sorting and river clean-up policies during her tenure as Taoyuan County Magistrate.
+
+She advocated for "sustainable development" concepts, promoting simple living and opposing excessive consumption. These environmental ideas weren't widely accepted in the 1990s but have now become social consensus.
+
+Her "Keep Taiwan Clean" policy changed Taiwanese environmental habits, with effects lasting to this day.
+
+## Political Legacy and Controversy
+
+Lu's political career was filled with controversy. She participated multiple times in DPP presidential primaries without success, declaring her "spiritual departure" from the party in 2018, criticizing the DPP under Tsai Ing-wen as no longer the party it once was.
+
+Her proposed "96 Consensus" argued that Taiwan had been a sovereign independent state since the 1996 direct presidential election, countering the KMT's "92 Consensus." In later years, she advocated for Taiwan's "peaceful neutrality," believing Taiwan shouldn't choose sides between China and the US.
+
+Her straightforward personality and distinct positions earned her both respect and criticism in politics. The _Apple Daily_ once commented: "Her academic and professional credentials are second to none among the DPP's Four Heavenly Kings, but her personality and emotions often leave much to be desired... However, her frank and outspoken nature has merit in the scheming political world."
+
+## Historical Significance: The Meaning of Being a Trailblazer
+
+Looking back at Lu's life, she embodies Taiwan's social transformation. In the 1970s, she promoted women's rights awakening; in the 1980s, she threw herself into the democracy movement; in the 1990s, she participated in party politics; and in the 2000s, she reached the pinnacle of power.
+
+She paved the way for women's political participation in Taiwan. Following her, Taiwan saw outstanding female politicians like Tsai Ing-wen, and Taiwan's female political participation rate ranks among the top in Asia.
+
+Her story tells us: social progress requires people willing to challenge the status quo. From being judged as "rebellious" to becoming vice president, she proved over 20 years that democratic seeds will always sprout, and authoritarian walls will eventually fall.
+
+As she wrote in prison: "We fight not for hatred, but for love." This love — love for freedom, love for the land, love for the future.
+
+**This was not just Annette Lu's personal victory, but Taiwan's democratic victory.**
+
+## References
+
+- [Lu Hsiu-lien - Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E5%91%82%E7%A7%80%E8%93%AE)
+- [Annette Lu - Wikipedia](https://en.wikipedia.org/wiki/Annette_Lu)
+- [40th Anniversary of Kaohsiung Incident: Witness and Former VP Lu Laments Taiwan's Democratic Regression - BBC News Chinese](https://www.bbc.com/zhongwen/trad/chinese-news-50286723)
+- [Taiwan Feminist Movement - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E9%81%8B%E5%8B%95)
+- [Lu Hsiu-lien - National Human Rights Archives](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/884)
+- [New Feminism - Books.com.tw](https://www.books.com.tw/products/0010421214)

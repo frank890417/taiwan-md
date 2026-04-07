@@ -1,0 +1,1474 @@
+---
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import { execSync } from 'child_process';
+import matter from 'gray-matter';
+import Layout from '../../../layouts/Layout.astro';
+import { marked } from 'marked';
+import ArticleHero from '../../../components/ArticleHero.astro';
+import TableOfContents from '../../../components/TableOfContents.astro';
+import ArticleSidebar from '../../../components/ArticleSidebar.astro';
+import RelatedArticleCard from '../../../components/RelatedArticleCard.astro';
+import { useTranslations } from '../../../i18n/utils';
+import {
+  categoryList as categories,
+  getCategoryConfigs,
+  type CategoryKey,
+} from '../../../utils/categoryConfig';
+
+const safeMatter = (fileContent: string) => {
+  try {
+    return matter(fileContent);
+  } catch {
+    const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+    return { data: {}, content: stripped };
+  }
+};
+
+// ── Git helpers ───────────────────────────────────────────────────────────────
+let _gitCache: Map<
+  string,
+  { contributors: string[]; lastModified: string }
+> | null = null;
+
+function buildGitCache() {
+  if (_gitCache) return _gitCache;
+  _gitCache = new Map();
+  try {
+    const logOutput = execSync(
+      `git -c core.quotePath=false log --name-only --format="COMMIT_BY:%an" -- "knowledge/ja/"`,
+      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
+    );
+    let currentAuthor = '';
+    for (const line of logOutput.split('\n')) {
+      if (line.startsWith('COMMIT_BY:')) {
+        currentAuthor = line.slice(10);
+      } else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
+        const key = resolve(process.cwd(), line);
+        const entry = _gitCache.get(key) || {
+          contributors: [],
+          lastModified: '',
+        };
+        if (!entry.contributors.includes(currentAuthor))
+          entry.contributors.push(currentAuthor);
+        _gitCache.set(key, entry);
+      }
+    }
+    const dateOutput = execSync(
+      `git -c core.quotePath=false log --format="COMMIT_DATE:%aI" --name-only -- "knowledge/ja/"`,
+      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
+    );
+    let currentDate = '';
+    const seenFiles = new Set<string>();
+    for (const line of dateOutput.split('\n')) {
+      if (line.startsWith('COMMIT_DATE:')) {
+        currentDate = line.slice(12);
+      } else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
+        const key = resolve(process.cwd(), line);
+        if (!seenFiles.has(key)) {
+          seenFiles.add(key);
+          const entry = _gitCache.get(key) || {
+            contributors: [],
+            lastModified: '',
+          };
+          entry.lastModified = currentDate;
+          _gitCache.set(key, entry);
+        }
+      }
+    }
+  } catch (e) {
+    console.error('Git cache error:', (e as Error).message);
+  }
+  return _gitCache;
+}
+
+function getGitInfo(filePath: string) {
+  return (
+    buildGitCache().get(filePath) || { contributors: [], lastModified: '' }
+  );
+}
+
+// ── Category → folder mapping ─────────────────────────────────────────────────
+const categoryMapping: Record<string, string> = {
+  history: 'History',
+  geography: 'Geography',
+  culture: 'Culture',
+  food: 'Food',
+  art: 'Art',
+  music: 'Music',
+  technology: 'Technology',
+  nature: 'Nature',
+  people: 'People',
+  society: 'Society',
+  economy: 'Economy',
+  lifestyle: 'Lifestyle',
+};
+
+// ── getStaticPaths ────────────────────────────────────────────────────────────
+export async function getStaticPaths() {
+  const safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      const stripped = fileContent.replace(/^---\s*\n[\s\S]*?\n---\s*\n/, '');
+      return { data: {}, content: stripped };
+    }
+  };
+
+  const _categoryMapping: Record<string, string> = {
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
+  };
+
+  // Build git cache for this function scope
+  let __gitCache: Map<
+    string,
+    {
+      contributors: string[];
+      lastModified: string;
+      commitHash: string;
+      revisionCount: number;
+    }
+  > | null = null;
+  function _buildGitCache() {
+    if (__gitCache) return __gitCache;
+    __gitCache = new Map();
+    try {
+      const logOutput = execSync(
+        `git log -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/ja/"`,
+        { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
+      );
+      let currentHash = '';
+      let currentDate = '';
+      let currentAuthor = '';
+
+      // git log -z: commit headers and filenames are SEPARATE NUL-terminated tokens.
+      for (let token of logOutput.split('\0')) {
+        token = token.replace(/^\n+/, '').trim();
+        if (!token) continue;
+
+        if (token.startsWith('COMMIT|')) {
+          const parts = token.split('|');
+          currentHash = parts[1] || '';
+          currentDate = parts[2] || '';
+          currentAuthor = parts[3] || '';
+        } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
+          const key = resolve(process.cwd(), token).normalize('NFC');
+          let entry = __gitCache.get(key);
+          if (!entry) {
+            entry = {
+              contributors: [],
+              lastModified: currentDate,
+              commitHash: currentHash,
+              revisionCount: 0,
+            };
+            __gitCache.set(key, entry);
+          }
+          entry.revisionCount += 1;
+          if (currentAuthor && !entry.contributors.includes(currentAuthor)) {
+            entry.contributors.push(currentAuthor);
+          }
+        }
+      }
+    } catch {}
+    return __gitCache;
+  }
+
+  const paths: any[] = [];
+  for (const [categorySlug, folderName] of Object.entries(_categoryMapping)) {
+    try {
+      const folderPath = resolve(process.cwd(), 'knowledge', 'ja', folderName);
+      const files = await readdir(folderPath);
+      for (const file of files.filter(
+        (f) => f.endsWith('.md') && !f.startsWith('_'),
+      )) {
+        const filePath = join(folderPath, file).normalize('NFC');
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter, content } = safeMatter(fileContent);
+        const slug = basename(file, '.md');
+        let gitInfo = {
+          contributors: [] as string[],
+          lastModified: '',
+          commitHash: '',
+          revisionCount: 0,
+        };
+        try {
+          gitInfo = _buildGitCache().get(filePath) || gitInfo;
+        } catch {}
+        paths.push({
+          params: { category: categorySlug, slug },
+          props: {
+            title: frontmatter.title || slug,
+            description: frontmatter.description || '',
+            content,
+            frontmatter,
+            lang: 'ja',
+            contributors: gitInfo.contributors,
+            lastModified: gitInfo.lastModified,
+            commitHash: gitInfo.commitHash,
+            revisionCount: gitInfo.revisionCount,
+          },
+        });
+      }
+    } catch (err) {
+      console.error(
+        `[en/getStaticPaths] Error processing category "${categorySlug}":`,
+        (err as Error).message,
+      );
+    }
+  }
+  if (paths.length === 0) {
+    throw new Error(
+      '[en/getStaticPaths] Generated 0 paths — all categories failed.',
+    );
+  }
+  return paths;
+}
+
+// ── Props ─────────────────────────────────────────────────────────────────────
+const {
+  title,
+  description,
+  content,
+  frontmatter,
+  contributors = [],
+  lastModified = '',
+  commitHash = '',
+  revisionCount = 0,
+} = Astro.props;
+const { category, slug } = Astro.params;
+const lang = 'en';
+
+const t = useTranslations(lang);
+const categoryConfigs = getCategoryConfigs(t);
+const categoryInfo = categoryConfigs[category as CategoryKey];
+if (!categoryInfo) throw new Error(`Unknown category: ${category}`);
+
+// Category name is already localised by getCategoryConfigs(t)
+const categoryNameEn = categoryInfo.name;
+
+// ── Related articles (same category, up to 3) ─────────────────────────────────
+let relatedArticles: any[] = [];
+try {
+  const folderName = categoryMapping[category as string];
+  if (folderName) {
+    const folderPath = resolve(process.cwd(), 'knowledge', 'ja', folderName);
+    const files = (await readdir(folderPath)).filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    );
+    for (const file of files) {
+      const articleSlug = basename(file, '.md');
+      if (articleSlug === slug) continue;
+      const filePath = join(folderPath, file);
+      const { data: fm } = safeMatter(await readFile(filePath, 'utf-8'));
+      relatedArticles.push({
+        title: fm.title || articleSlug,
+        slug: articleSlug,
+        description: fm.description || '',
+        image: fm.image || '',
+        category,
+      });
+    }
+    relatedArticles = relatedArticles.slice(0, 3);
+  }
+} catch {}
+
+// ── Random explore list ───────────────────────────────────────────────────────
+let allArticles: Array<{ title: string; slug: string; category: string }> = [];
+try {
+  for (const [catSlug, folderName] of Object.entries(categoryMapping)) {
+    if (catSlug === category) continue;
+    try {
+      const catPath = resolve(process.cwd(), 'knowledge', 'ja', folderName);
+      for (const file of (await readdir(catPath)).filter(
+        (f) => f.endsWith('.md') && !f.startsWith('_'),
+      )) {
+        const articleSlug = basename(file, '.md');
+        const { data: fm } = safeMatter(
+          await readFile(join(catPath, file), 'utf-8'),
+        );
+        allArticles.push({
+          title: fm.title || articleSlug,
+          slug: articleSlug,
+          category: catSlug,
+        });
+      }
+    } catch {}
+  }
+} catch {}
+
+// ── Other categories ──────────────────────────────────────────────────────────
+const otherCategories = categories
+  .filter((cat) => cat !== category)
+  .slice(0, 3)
+  .map((cat) => ({ key: cat, ...categoryConfigs[cat as CategoryKey] }));
+
+// ── Markdown → HTML ───────────────────────────────────────────────────────────
+function resolveWikilinks(md: string) {
+  if (!md) return md;
+  return md.replace(
+    /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+    (_, target, display) => {
+      return `**${display || target}**`;
+    },
+  );
+}
+
+const renderer = new marked.Renderer();
+
+renderer.heading = ({ text, depth }) => {
+  const id = text
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w\u4e00-\u9fff-]/g, '')
+    .slice(0, 60);
+  return `<h${depth} id="${id}">${text}</h${depth}>`;
+};
+
+renderer.link = ({ href, title, text }) => {
+  const isExternal =
+    href?.startsWith('http://') || href?.startsWith('https://');
+  const titleAttr = title ? ` title="${title}"` : '';
+  const targetAttr = isExternal
+    ? ' target="_blank" rel="noopener noreferrer"'
+    : '';
+  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+};
+
+renderer.image = ({ href, title, text }) => {
+  const titleAttr = title ? ` title="${title}"` : '';
+  return `<img src="${href}" alt="${text || ''}"${titleAttr} loading="lazy" onerror="this.onerror=null;this.classList.add('img-broken')" />`;
+};
+
+const processedContent = marked.parse(resolveWikilinks(content), {
+  renderer,
+  breaks: true,
+}) as string;
+
+// ── Reading time ───────────────────────────────────────────────────────────────
+const estimatedReadingTime =
+  frontmatter.readingTime ||
+  Math.max(1, Math.round(content.replace(/\s+/g, ' ').length / 250));
+
+const articleUrl = `https://taiwan.md/ja/${category}/${slug}`;
+const encodedUrl = encodeURIComponent(articleUrl);
+const encodedTitle = encodeURIComponent(title);
+---
+
+<Layout
+  title={title}
+  description={description}
+  type="article"
+  datePublished={frontmatter.date || new Date().toISOString()}
+  dateModified={frontmatter.modified ||
+    frontmatter.date ||
+    new Date().toISOString()}
+  content={content}
+  tags={frontmatter.tags}
+  category={categoryNameEn}
+  lang="ja"
+>
+  <!-- Reading progress bar -->
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+
+  <main class="article-page" lang="ja">
+    <!-- ── Hero ─────────────────────────────────────────────────── -->
+    <ArticleHero
+      title={title}
+      description={description}
+      category={category}
+      categoryName={categoryNameEn}
+      categoryColor={categoryInfo.color}
+      coverImage={categoryInfo.cover}
+      slug={slug}
+      lang="ja"
+    />
+
+    <!-- ── Three-column body ─────────────────────────────────────── -->
+    <div class="article-shell">
+      <!-- Left: Table of Contents -->
+      <div class="col-toc" aria-label={t('article.toc', 'en')}>
+        <TableOfContents content={processedContent} />
+      </div>
+
+      <!-- Center: Article content -->
+      <article class="col-body" data-pagefind-body>
+        <!-- Status / date strip -->
+        <div class="article-meta-strip">
+          {
+            frontmatter.status && (
+              <span
+                class="status-badge"
+                style={`background:${categoryInfo.colorLight}; color:${categoryInfo.color};`}
+              >
+                {frontmatter.status}
+              </span>
+            )
+          }
+          {
+            frontmatter.date && (
+              <time class="meta-date" datetime={frontmatter.date}>
+                {new Date(frontmatter.date).toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
+            )
+          }
+          <span class="meta-lang">{t('article.langLabel', 'en')}</span>
+        </div>
+
+        <!-- Prose body -->
+        <div class="prose" set:html={processedContent} />
+
+        <!-- Sources -->
+        {
+          frontmatter.source && frontmatter.source.length > 0 && (
+            <div class="sources-block">
+              <h3 class="sources-heading">{t('article.sources', 'en')}</h3>
+              <ul class="sources-list">
+                {frontmatter.source.map((url: string) => (
+                  <li>
+                    <a
+                      href={url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="source-link"
+                    >
+                      {url}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+
+        <!-- AI Disclaimer -->
+        <div class="ai-disclaimer">
+          <div class="disclaimer-icon" aria-hidden="true">
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              ><circle cx="12" cy="12" r="10"></circle><line
+                x1="12"
+                y1="8"
+                x2="12"
+                y2="12"></line><line x1="12" y1="16" x2="12.01" y2="16"
+              ></line></svg
+            >
+          </div>
+          <div class="disclaimer-text">
+            <strong>{t('article.disclaimer.title', 'en')}</strong>
+            {t('article.disclaimer.body', 'en')}
+          </div>
+        </div>
+
+        <!-- Contribution row -->
+        <div class="contribute-row">
+          <a
+            href={`https://github.com/frank890417/taiwan-md/edit/main/knowledge/ja/${categoryMapping[category as string]}/${slug}.md`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="contribute-btn contribute-btn--primary"
+          >
+            <svg
+              width="15"
+              height="15"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              aria-hidden="true"
+              ><path
+                d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
+              ></path></svg
+            >
+            {t('article.editPage', 'en')}
+          </a>
+          <a
+            href={`https://github.com/frank890417/taiwan-md/issues/new?title=${encodeURIComponent(`Feedback: ${title}`)}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="contribute-btn contribute-btn--ghost"
+          >
+            <svg
+              width="15"
+              height="15"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              aria-hidden="true"
+              ><path
+                d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"
+              ></path></svg
+            >
+            {t('article.reportIssue', 'en')}
+          </a>
+        </div>
+
+        <!-- Tags + bottom share row -->
+        <div class="bottom-meta">
+          {
+            frontmatter.tags && frontmatter.tags.length > 0 && (
+              <div class="bottom-tags">
+                {frontmatter.tags.map((tag: string) => (
+                  <span
+                    class="bottom-tag"
+                    style={`color:${categoryInfo.color}; background:${categoryInfo.colorLight}; border-color:${categoryInfo.color}28;`}
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            )
+          }
+
+          <div class="bottom-share">
+            <span class="share-label">{t('article.shareLabel', 'en')}</span>
+            <a
+              href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="share-btn"
+              aria-label="Share on X"
+            >
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                ><path
+                  d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.73-8.835L1.254 2.25H8.08l4.256 5.636L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+                ></path></svg
+              >
+            </a>
+            <a
+              href={`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="share-btn"
+              aria-label="Share on Facebook"
+            >
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                ><path
+                  d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"
+                ></path></svg
+              >
+            </a>
+            <a
+              href={`https://social-plugins.line.me/lineit/share?url=${encodedUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="share-btn"
+              aria-label="Share on LINE"
+            >
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+                ><path
+                  d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.630 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61V9.863h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.495.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.282.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"
+                ></path></svg
+              >
+            </a>
+            <button
+              class="share-btn copy-btn-bottom"
+              type="button"
+              aria-label={t('article.copyLink', 'en')}
+              data-copied-text={t('article.copied', 'en')}
+            >
+              <svg
+                width="15"
+                height="15"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                ><path
+                  d="M10 13a5 5 0 007.54.54l3-3a5 5 0 00-7.07-7.07l-1.72 1.71"
+                ></path><path
+                  d="M14 11a5 5 0 00-7.54-.54l-3 3a5 5 0 007.07 7.07l1.71-1.71"
+                ></path></svg
+              >
+            </button>
+          </div>
+        </div>
+
+        <!-- Return navigation -->
+        <div class="return-nav">
+          <a
+            href={`/ja/${category}`}
+            class="return-btn return-btn--primary"
+            style={`background:${categoryInfo.color};`}
+          >
+            <svg
+              width="14"
+              height="14"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.5"
+              aria-hidden="true"
+              ><polyline points="15 18 9 12 15 6"></polyline></svg
+            >
+            {t('article.backToCategory', 'en')}
+            {categoryNameEn}
+          </a>
+          <a href="/en" class="return-btn return-btn--ghost">
+            <svg
+              width="14"
+              height="14"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2.5"
+              aria-hidden="true"
+              ><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"
+              ></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg
+            >
+            {t('article.backToHome', 'en')}
+          </a>
+        </div>
+      </article>
+
+      <!-- Right: Sidebar -->
+      <div class="col-sidebar">
+        <ArticleSidebar
+          title={title}
+          tags={frontmatter.tags}
+          readingTime={estimatedReadingTime}
+          date={frontmatter.date}
+          lastModified={lastModified || frontmatter.modified}
+          commitHash={commitHash}
+          revisionCount={revisionCount}
+          contributors={contributors}
+          category={category}
+          categoryName={categoryNameEn}
+          categoryColor={categoryInfo.color}
+          slug={slug}
+          lang="ja"
+        />
+      </div>
+    </div><!-- /article-shell -->
+
+    <!-- ── Related articles ───────────────────────────────────────── -->
+    {
+      relatedArticles.length > 0 && (
+        <section class="related-section">
+          <div class="related-inner">
+            <div class="section-header">
+              <p class="section-kicker">{t('article.furtherReading', 'en')}</p>
+              <h2 class="section-title">{t('article.moreInCategory', 'en')}</h2>
+            </div>
+            <div class="related-grid">
+              {relatedArticles.map((article) => (
+                <RelatedArticleCard
+                  title={article.title}
+                  slug={article.slug}
+                  category={category}
+                  categoryName={categoryNameEn}
+                  categoryColor={categoryInfo.color}
+                  categoryIcon={categoryInfo.icon}
+                  description={article.description}
+                  coverImage={article.image || undefined}
+                  lang="ja"
+                />
+              ))}
+            </div>
+            <div class="related-cta">
+              <a
+                href={`/ja/${category}`}
+                class="view-all-btn"
+                style={`color:${categoryInfo.color}; border-color:${categoryInfo.color}30;`}
+              >
+                {t('article.viewAll', 'en')} {categoryNameEn}{' '}
+                {t('article.articles', 'en')}
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2.5"
+                  aria-hidden="true"
+                >
+                  <polyline points="9 18 15 12 9 6" />
+                </svg>
+              </a>
+            </div>
+          </div>
+        </section>
+      )
+    }
+
+    <!-- ── Random explore ────────────────────────────────────────── -->
+    {
+      allArticles.length > 0 && (
+        <div class="random-explore-row">
+          <button class="random-btn" id="randomBtn" type="button">
+            <svg
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              aria-hidden="true"
+            >
+              <>
+                <polyline points="16 3 21 3 21 8" />
+                <line x1="4" y1="20" x2="21" y2="3" />
+                <polyline points="21 16 21 21 16 21" />
+                <line x1="15" y1="15" x2="21" y2="21" />
+              </>
+            </svg>
+            {t('article.randomExplore', 'en')}
+          </button>
+        </div>
+      )
+    }
+
+    <!-- ── Explore other categories ──────────────────────────────── -->
+    <section class="explore-section">
+      <div class="explore-inner">
+        <div class="section-header">
+          <p class="section-kicker">{t('article.exploreTaiwan', 'en')}</p>
+          <h2 class="section-title">{t('article.moreAspects', 'en')}</h2>
+        </div>
+        <div class="explore-grid">
+          {
+            otherCategories.map((cat) => (
+              <a href={`/ja/${cat.key}`} class="explore-card">
+                <div
+                  class="explore-card-accent"
+                  style={`background:${cat.color};`}
+                  aria-hidden="true"
+                />
+                <div class="explore-card-body">
+                  <span class="explore-cat-name" style={`color:${cat.color};`}>
+                    {cat.name_en || cat.name}
+                  </span>
+                  <p class="explore-cat-desc">
+                    {cat.description_en || cat.description}
+                  </p>
+                  <span class="explore-cta" style={`color:${cat.color};`}>
+                    {t('article.startExplore', 'en')}
+                    <svg
+                      width="12"
+                      height="12"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="2.5"
+                      aria-hidden="true"
+                    >
+                      <polyline points="9 18 15 12 9 6" />
+                    </svg>
+                  </span>
+                </div>
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+  </main>
+</Layout>
+
+<!-- ── Scripts ──────────────────────────────────────────────────────────────── -->
+<script>
+  // Reading progress bar
+  function updateProgress() {
+    const body = document.querySelector('.prose') as HTMLElement;
+    if (!body) return;
+    const scrolled = window.scrollY;
+    const top = body.offsetTop;
+    const height = body.offsetHeight;
+    const winH = window.innerHeight;
+    const progress = Math.min(
+      Math.max(((scrolled - top + winH * 0.3) / height) * 100, 0),
+      100,
+    );
+    const bar = document.getElementById('reading-progress');
+    if (bar) bar.style.width = progress + '%';
+  }
+  window.addEventListener('scroll', updateProgress, { passive: true });
+  window.addEventListener('resize', updateProgress, { passive: true });
+  updateProgress();
+
+  // Bottom copy button
+  const copyBtnBottom =
+    document.querySelector<HTMLButtonElement>('.copy-btn-bottom');
+  if (copyBtnBottom) {
+    copyBtnBottom.addEventListener('click', () => {
+      const copiedText = copyBtnBottom.dataset.copiedText || 'Copied!';
+      navigator.clipboard
+        .writeText(window.location.href)
+        .then(() => {
+          copyBtnBottom.style.color = '#006D77';
+          setTimeout(() => {
+            copyBtnBottom.style.color = '';
+          }, 2200);
+        })
+        .catch(() => {
+          const ta = document.createElement('textarea');
+          ta.value = window.location.href;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+        });
+    });
+  }
+</script>
+
+<script define:vars={{ allArticles }}>
+  const btn = document.getElementById('randomBtn');
+  if (btn && allArticles?.length) {
+    btn.addEventListener('click', () => {
+      const pick = allArticles[Math.floor(Math.random() * allArticles.length)];
+      window.location.href = '/ja/' + pick.category + '/' + pick.slug;
+    });
+  }
+</script>
+
+<style
+  define:vars={{
+    catColor: categoryInfo.color,
+    catColorLight: categoryInfo.colorLight,
+  }}
+>
+  /* ── Reading progress ──────────────────────────────────────────────────── */
+  .reading-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background: var(--catColor);
+    z-index: 9999;
+    transition: width 0.1s linear;
+  }
+
+  /* ── Page background ───────────────────────────────────────────────────── */
+  .article-page {
+    background: #f8f1e9;
+    min-height: 100vh;
+  }
+
+  /* ── Three-column shell ────────────────────────────────────────────────── */
+  .article-shell {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 4rem 2rem 5rem;
+    display: grid;
+    grid-template-columns: 220px 1fr 200px;
+    grid-template-areas: 'toc body sidebar';
+    gap: 3.5rem;
+    align-items: start;
+  }
+
+  .col-toc {
+    grid-area: toc;
+  }
+  .col-body {
+    grid-area: body;
+    min-width: 0;
+  }
+  .col-sidebar {
+    grid-area: sidebar;
+  }
+
+  /* ── Article meta strip ────────────────────────────────────────────────── */
+  .article-meta-strip {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 2.5rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(26, 60, 52, 0.08);
+  }
+
+  .status-badge {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    padding: 0.25rem 0.75rem;
+    border-radius: 100px;
+  }
+
+  .meta-date {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.8rem;
+    color: #7a8b7e;
+  }
+
+  .meta-lang {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.75rem;
+    color: #9aa89e;
+    border: 1px solid rgba(26, 60, 52, 0.12);
+    padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+    margin-left: auto;
+  }
+
+  /* ── Prose (article body) ──────────────────────────────────────────────── */
+  .prose {
+    font-family: 'Inter', 'Satoshi', system-ui, sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.85;
+    color: #2c2c2c;
+  }
+
+  .prose :global(h1) {
+    font-size: clamp(1.6rem, 3vw, 2.1rem);
+    font-weight: 700;
+    color: #1a3c34;
+    margin: 3.5rem 0 1.25rem;
+    line-height: 1.25;
+    letter-spacing: -0.01em;
+  }
+  .prose :global(h2) {
+    font-size: clamp(1.3rem, 2.5vw, 1.65rem);
+    font-weight: 700;
+    color: #1a3c34;
+    margin: 3.5rem 0 1.1rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1.5px solid rgba(26, 60, 52, 0.12);
+    line-height: 1.3;
+  }
+  .prose :global(h3) {
+    font-size: clamp(1.05rem, 2vw, 1.25rem);
+    font-weight: 600;
+    color: #1a3c34;
+    margin: 2.5rem 0 0.85rem;
+    padding-left: 0.85rem;
+    border-left: 3px solid var(--catColor);
+    line-height: 1.35;
+  }
+  .prose :global(h4) {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #3a4f44;
+    margin: 2rem 0 0.65rem;
+  }
+
+  .prose :global(p) {
+    margin-bottom: 1.6rem;
+    color: #2c2c2c;
+  }
+
+  .prose :global(a) {
+    color: #006d77;
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 109, 119, 0.35);
+    text-underline-offset: 3px;
+    transition: text-decoration-color 0.2s;
+  }
+  .prose :global(a:hover) {
+    text-decoration-color: #006d77;
+  }
+
+  .prose :global(ul) {
+    list-style: disc;
+    padding-left: 1.5rem;
+    margin-bottom: 1.6rem;
+  }
+  .prose :global(ol) {
+    list-style: decimal;
+    padding-left: 1.5rem;
+    margin-bottom: 1.6rem;
+  }
+  .prose :global(li) {
+    margin-bottom: 0.45rem;
+    line-height: 1.75;
+  }
+
+  .prose :global(blockquote) {
+    border-left: 4px solid var(--catColor);
+    background: linear-gradient(to right, rgba(26, 60, 52, 0.04), transparent);
+    margin: 2.5rem 0;
+    padding: 1.5rem 1.75rem;
+    border-radius: 0 12px 12px 0;
+    font-style: italic;
+    color: #3a4f44;
+    font-size: 1.05rem;
+  }
+  .prose :global(blockquote p) {
+    margin-bottom: 0;
+  }
+
+  .prose :global(strong) {
+    font-weight: 700;
+    color: #1a3c34;
+  }
+
+  .prose :global(code) {
+    font-family: 'Courier New', monospace;
+    font-size: 0.88em;
+    background: rgba(26, 60, 52, 0.06);
+    color: #1a3c34;
+    padding: 0.15em 0.45em;
+    border-radius: 4px;
+  }
+
+  .prose :global(pre) {
+    background: #1a3c34;
+    color: #f8f1e9;
+    padding: 1.5rem;
+    border-radius: 12px;
+    overflow-x: auto;
+    margin: 2rem 0;
+    font-size: 0.875rem;
+  }
+  .prose :global(pre code) {
+    background: transparent;
+    color: inherit;
+    padding: 0;
+    font-size: inherit;
+  }
+
+  .prose :global(img) {
+    width: 100%;
+    max-height: 480px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin: 2rem 0;
+    box-shadow: 0 4px 24px rgba(26, 60, 52, 0.1);
+  }
+  .prose :global(img.img-broken) {
+    min-height: 120px;
+    background: rgba(26, 60, 52, 0.04);
+    border: 2px dashed rgba(26, 60, 52, 0.15);
+  }
+
+  .prose :global(table) {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.92rem;
+  }
+  .prose :global(th) {
+    background: rgba(26, 60, 52, 0.06);
+    font-weight: 600;
+    color: #1a3c34;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    border-bottom: 2px solid rgba(26, 60, 52, 0.15);
+  }
+  .prose :global(td) {
+    padding: 0.7rem 1rem;
+    border-bottom: 1px solid rgba(26, 60, 52, 0.07);
+    color: #3a4f44;
+  }
+  .prose :global(tr:last-child td) {
+    border-bottom: none;
+  }
+
+  .prose :global(hr) {
+    border: none;
+    border-top: 1.5px solid rgba(26, 60, 52, 0.1);
+    margin: 3rem 0;
+  }
+
+  /* ── Sources ───────────────────────────────────────────────────────────── */
+  .sources-block {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: rgba(26, 60, 52, 0.03);
+    border-radius: 16px;
+    border: 1px solid rgba(26, 60, 52, 0.08);
+  }
+  .sources-heading {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #1a3c34;
+    margin-bottom: 1rem;
+  }
+  .sources-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .source-link {
+    font-size: 0.82rem;
+    color: #006d77;
+    text-decoration: none;
+    word-break: break-all;
+  }
+  .source-link:hover {
+    text-decoration: underline;
+  }
+
+  /* ── AI Disclaimer ─────────────────────────────────────────────────────── */
+  .ai-disclaimer {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    margin: 3rem 0 2rem;
+    padding: 1.25rem 1.5rem;
+    background: rgba(193, 125, 94, 0.06);
+    border: 1px solid rgba(193, 125, 94, 0.18);
+    border-radius: 12px;
+  }
+  .disclaimer-icon {
+    flex-shrink: 0;
+    color: #c17d5e;
+    margin-top: 0.15rem;
+  }
+  .disclaimer-text {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.83rem;
+    color: #5a4a42;
+    line-height: 1.6;
+  }
+  .disclaimer-text strong {
+    display: block;
+    font-weight: 600;
+    color: #c17d5e;
+    margin-bottom: 0.3rem;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+
+  /* ── Contribution row ──────────────────────────────────────────────────── */
+  .contribute-row {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin: 2rem 0;
+  }
+  .contribute-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 0.55rem 1.1rem;
+    border-radius: 100px;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .contribute-btn--primary {
+    background: #1a3c34;
+    color: #f8f1e9;
+  }
+  .contribute-btn--primary:hover {
+    background: #243d36;
+  }
+  .contribute-btn--ghost {
+    background: transparent;
+    color: #1a3c34;
+    border: 1px solid rgba(26, 60, 52, 0.2);
+  }
+  .contribute-btn--ghost:hover {
+    background: rgba(26, 60, 52, 0.05);
+  }
+
+  /* ── Bottom meta (tags + share) ────────────────────────────────────────── */
+  .bottom-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin: 3rem 0 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(26, 60, 52, 0.08);
+  }
+  .bottom-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+  .bottom-tag {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 0.25rem 0.7rem;
+    border-radius: 100px;
+    border: 1px solid;
+  }
+  .bottom-share {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .share-label {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.78rem;
+    color: #7a8b7e;
+    margin-right: 0.25rem;
+  }
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    background: rgba(26, 60, 52, 0.06);
+    color: #1a3c34;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    transition:
+      background 0.2s,
+      color 0.2s;
+  }
+  .share-btn:hover {
+    background: #1a3c34;
+    color: #f8f1e9;
+  }
+
+  /* ── Return navigation ─────────────────────────────────────────────────── */
+  .return-nav {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin: 2.5rem 0 1rem;
+  }
+  .return-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 0.55rem 1.25rem;
+    border-radius: 100px;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .return-btn--primary {
+    color: #f8f1e9;
+  }
+  .return-btn--primary:hover {
+    opacity: 0.88;
+  }
+  .return-btn--ghost {
+    background: transparent;
+    color: #1a3c34;
+    border: 1px solid rgba(26, 60, 52, 0.2);
+  }
+  .return-btn--ghost:hover {
+    background: rgba(26, 60, 52, 0.06);
+  }
+
+  /* ── Related section ───────────────────────────────────────────────────── */
+  .related-section {
+    background: white;
+    padding: 5rem 2rem;
+    margin-top: 2rem;
+  }
+  .related-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .section-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  .section-kicker {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: #9aa89e;
+    margin-bottom: 0.6rem;
+  }
+  .section-title {
+    font-family: 'Inter', serif;
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 700;
+    color: #1a3c34;
+    line-height: 1.25;
+  }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+  }
+  .related-cta {
+    text-align: center;
+    margin-top: 2.5rem;
+  }
+  .view-all-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.88rem;
+    font-weight: 500;
+    padding: 0.65rem 1.5rem;
+    border-radius: 100px;
+    border: 1.5px solid;
+    text-decoration: none;
+    transition: all 0.2s;
+  }
+  .view-all-btn:hover {
+    background: rgba(0, 0, 0, 0.04);
+  }
+
+  /* ── Random explore ────────────────────────────────────────────────────── */
+  .random-explore-row {
+    display: flex;
+    justify-content: center;
+    padding: 2.5rem 2rem;
+    background: #f8f1e9;
+  }
+  .random-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.88rem;
+    font-weight: 500;
+    padding: 0.75rem 1.75rem;
+    border-radius: 100px;
+    border: 1.5px solid rgba(26, 60, 52, 0.2);
+    background: white;
+    color: #1a3c34;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .random-btn:hover {
+    background: #1a3c34;
+    color: #f8f1e9;
+    border-color: #1a3c34;
+  }
+
+  /* ── Explore section ───────────────────────────────────────────────────── */
+  .explore-section {
+    background: #f8f1e9;
+    padding: 5rem 2rem;
+  }
+  .explore-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .explore-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.25rem;
+    margin-top: 0;
+  }
+  .explore-card {
+    display: flex;
+    text-decoration: none;
+    background: white;
+    border-radius: 16px;
+    overflow: hidden;
+    border: 1px solid rgba(26, 60, 52, 0.06);
+    box-shadow: 0 2px 8px rgba(26, 60, 52, 0.05);
+    transition:
+      transform 0.25s,
+      box-shadow 0.25s;
+  }
+  .explore-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 32px rgba(26, 60, 52, 0.12);
+  }
+  .explore-card-accent {
+    width: 5px;
+    flex-shrink: 0;
+  }
+  .explore-card-body {
+    padding: 1.4rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .explore-cat-name {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.92rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .explore-cat-desc {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    color: #6a7d72;
+    line-height: 1.55;
+    margin: 0;
+  }
+  .explore-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.78rem;
+    font-weight: 600;
+    margin-top: 0.35rem;
+  }
+
+  /* ── Responsive ────────────────────────────────────────────────────────── */
+  @media (max-width: 1024px) {
+    .article-shell {
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        'body'
+        'sidebar';
+      padding: 2.5rem 1.5rem 4rem;
+      gap: 2rem;
+    }
+    .col-toc {
+      display: none;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .article-shell {
+      padding: 1.5rem 1rem 3rem;
+    }
+    .bottom-meta {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .return-nav {
+      flex-direction: column;
+    }
+    .return-btn {
+      justify-content: center;
+    }
+    .related-section,
+    .explore-section {
+      padding: 3.5rem 1rem;
+    }
+  }
+</style>

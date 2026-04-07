@@ -118,6 +118,4 @@ In March 2026, Wu launched **Taiwan.md**, an open-source knowledge base about Ta
 
 ## Related Topics
 
-- [Taiwan’s Digital Art Development](/art/digital-art-development)
-- [Taiwan’s Game Industry and Digital Entertainment](/technology/taiwan-game-industry)
 - [Taiwan’s Indie Music Scene](/music/indie-music-scene)

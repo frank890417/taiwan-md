@@ -75,8 +75,5 @@ lastHumanReview: false
 - [台湾総督府 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%8F%B0%E6%B9%BE%E7%B7%8F%E7%9D%A3%E5%BA%9C)
 
 ## 関連テーマ
-
-- [[清治時期]]
-- [[戒嚴時期]]
-- [[民主制度]]
-- [[開源社群與g0v]]
+- [清治時期](/history/清治時期)
+- [戒嚴時期](/history/戒嚴時期)

@@ -161,6 +161,3 @@ Taiwan democracy's story continues being written. Facing new challenges, we must
 ---
 
 Further Reading:
-- [Martial Law Period](/en/History/martial-law-era)
-- [Democratization](/en/History/taiwan-democratization)
-- [February 28 Incident and White Terror](/en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory)

@@ -311,7 +311,6 @@ La transformación de Morris Chang de la industria de semiconductores taiwanesa 
 
 ## Temas relacionados
 
-- [[semiconductor-industry]]
-- [[economic-miracle]]
-- [[geography-and-geology]]
-- [[ang-lee]]
+- [economic-miracle](/economy/economic-miracle)
+- [geography-and-geology](/geography/geography-and-geology)
+- [ang-lee](/people/ang-lee)

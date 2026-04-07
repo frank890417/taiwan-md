@@ -1,0 +1,218 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import HeroSection from '../../components/home/HeroSection.astro';
+import CoverStory from '../../components/home/CoverStory.astro';
+import RandomDiscovery from '../../components/home/RandomDiscovery.astro';
+import ReadingPath from '../../components/ReadingPath.astro';
+import FeatureCards from '../../components/FeatureCards.astro';
+import CategoriesSection from '../../components/home/CategoriesSection.astro';
+import LanguageStatement from '../../components/home/LanguageStatement.astro';
+import RecentUpdates from '../../components/home/RecentUpdates.astro';
+import NewsletterSection from '../../components/home/NewsletterSection.astro';
+import ContributeSection from '../../components/home/ContributeSection.astro';
+import { fetchRecentCommits } from '../../lib/commits';
+
+const recentCommits = await fetchRecentCommits();
+
+const readingPathSteps = [
+  {
+    href: '/ja/history/japanese-colonial-era',
+    title: '植民地から民主主義へ：台湾の歴史',
+    description: '権威主義から民主主義へ、アジア初の平和的移行の奇跡',
+    time: '6 min',
+  },
+  {
+    href: '/ja/culture/taiwan-religion-and-temple-culture',
+    title: '多元一体：台湾の文化',
+    description: '多様な民族が共に織りなす、色彩豊かな文化の基盤',
+    time: '7 min',
+  },
+  {
+    href: '/ja/food/night-market-culture',
+    title: '最もリアルな台湾の味：夜市文化',
+    description: '世界一の密度を誇る庶民グルメの社交空間',
+    time: '5 min',
+  },
+  {
+    href: '/ja/technology/semiconductor-industry',
+    title: '護国神山：半導体産業',
+    description: 'TSMCはいかにして小さな島を世界のテクノロジーの心臓にしたか',
+    time: '8 min',
+  },
+  {
+    href: '/ja/lifestyle/convenience-store-culture',
+    title: '生活のOS：コンビニエンスストア',
+    description: '単なる店舗ではなく、国全体のインフラ',
+    time: '4 min',
+  },
+];
+
+const readingPathFooterItems = [
+  { icon: '⏱️', label: '合計30分' },
+  { icon: '🎯', label: '5つの主要分野' },
+  { icon: '🌟', label: '台湾を完全理解' },
+];
+---
+
+<Layout
+  title="オープンソース台湾ナレッジベース"
+  description="オープンソース、AI対応の台湾総合ナレッジベース。歴史、文化、グルメ、音楽、テクノロジーなど12の主要テーマを網羅する660以上の記事。コミュニティが共同で編纂し、世界に本当の台湾を紹介します。"
+  lang="ja"
+>
+  <HeroSection />
+
+  <CoverStory />
+
+  <RandomDiscovery />
+
+  <ReadingPath
+    lang="ja"
+    title="📖 どこから始めればいいかわからない？"
+    subtitle="この5つの記事で、30分で本当の台湾を知ろう"
+    steps={readingPathSteps}
+    footerItems={readingPathFooterItems}
+    continueHref="#categories"
+    continueLabel="さらに多くのテーマを探索する →"
+  />
+
+  <FeatureCards
+    lang="ja"
+    sectionTitle="なぜ Taiwan.md が必要なのか？"
+    cards={[
+      {
+        icon: '🎯',
+        title: 'キュレーション視点',
+        description: '丁寧にキュレートされた深い物語、百科事典的な羅列ではない',
+      },
+      {
+        icon: '🤖',
+        title: 'AI フレンドリー設計',
+        description: '構造化されたコンテンツで、AIも台湾の複雑さを理解できる',
+      },
+      {
+        icon: '🌍',
+        title: '多言語国際視野',
+        description: 'ローカルの視点から出発し、国際言語で台湾の物語を伝える',
+      },
+      {
+        icon: '📚',
+        title: '完全多面的',
+        description: '12以上の分野を網羅し、台湾の立体的で完全な姿を提示',
+      },
+    ]}
+  />
+
+  <CategoriesSection>
+    <Fragment slot="prose">
+      <p>
+        この島はわずか36,000平方キロメートルだが、世界の縮図を内包している。
+        3,952メートルの玉山の頂から太平洋の深海溝まで、
+        <a href="/ja/geography" class="topic-pill">🗺️ ここの地理</a
+        >は造山運動のライブ中継そのものだ——
+        プレートの衝突、火山の噴火、断層の移動、400万年間途切れることのない地質交響曲が、
+        この世界で最も若く、最もダイナミックな美しい島を生み出した。
+      </p>
+
+      <p>
+        400年前、オランダ人が台南にゼーランディア城を築いた。その後のすべての統治者——
+        鄭氏、清帝国、日本、国民党——がこの島に自らの銘文を刻んだ。
+        しかし台湾を真に台湾たらしめたのは、権威主義から民主主義への<a
+          href="/ja/history"
+          class="topic-pill">📜 長い覚醒</a
+        >である。二・二八の血と涙から戒厳令解除の歓声まで、美麗島から太陽花まで、
+        すべての苦痛と抵抗が、この島の魂をより鮮明にした。
+      </p>
+
+      <p>
+        この土地には多重の血が流れている。先住民族は6,000年間ここに暮らし、
+        17世紀以降に渡来した閩南人、客家人、戦後に中国各省から移住した外省人、
+        近年の新住民と移住労働者——それぞれが自らの言語、信仰、記憶を持ち込んだ。
+        <a href="/ja/culture" class="topic-pill">🎭 台湾の文化</a
+        >は溶炉ではなくパズルだ——
+        一つ一つのピースが自らの色と形を保ちながら、前例のない絵を組み上げている。
+      </p>
+
+      <p>
+        台湾のどの夜市に入っても、閩南の牡蠣オムレツ、日本の天ぷら、
+        戦後の退役軍人が持ち込んだ山東ネギ餅の香りが同時に漂ってくる。
+        <a href="/ja/food" class="topic-pill">🍜 この島の味</a
+        >は、移民史の味覚バージョンだ。屋台の人情味からミシュランの精緻な技まで、
+        台湾人は食で物語を語り、料理で記憶を保存する。
+      </p>
+
+      <p>
+        蝶の王国はロマンチックな比喩ではなく、生態学的現実だ。オランダより小さいこの島に、
+        59,000種を超える生物がひしめき合っている——世界の陸地面積の0.025%に、全生物種の2.5%が集まる。
+        <a href="/ja/nature" class="topic-pill">🌿 台湾の自然</a
+        >は立体的な進化の教科書だ：
+        熱帯雨林から高山ツンドラまで、サンゴ礁から黒潮まで、種はここで進化し、分化し、共存する。
+        しかし産業発展の代償も山河に刻まれ、環境保護と開発の綱引きは続いている。
+      </p>
+
+      <p>
+        頼和、楊逵から白先勇、朱天心まで、霧峰林家から辜振甫一族まで、
+        <a href="/ja/people" class="topic-pill">👥 台湾の人物</a
+        >は時代の縮図だ。 個人の伝記にとどまらず、この島がいかに隙間で生き延び、
+        困難の中に希望を見出してきたかの集合的記憶である。すべての物語の背後に、
+        大きな時代の中の小さな人々の粘り強さと選択がある。
+      </p>
+
+      <p>
+        廟会の八家将から現代アートのヴェネチア・ビエンナーレまで、
+        <a href="/ja/art" class="topic-pill">🎨 台湾の芸術</a
+        >は伝統と革新の対話だ。
+        交趾陶とデジタルインスタレーション、伝統演劇と実験劇場、
+        先住民のトーテムと現代絵画——アーティストたちは問い続ける：
+        この時代に創作でどう応えるか？グローバル化の中でいかにローカル性を保つか？
+      </p>
+
+      <p>
+        先住民の古謡から鄧雨賢の「望春風」まで、キャンパスフォークソングから金曲奨まで、
+        <a href="/ja/music" class="topic-pill">🎵 台湾の音</a>は島の鼓動だ。
+        音楽は民族、言語、世代の壁を越え、集合的記憶を最も結束させる媒体となった。
+        五月天が小巨蛋で叫ぶ声も、先住民が集落で歌う古謡も、
+        同じ物語を語っている：私たちは誰か、どこから来たのか。
+      </p>
+
+      <p>
+        TSMCのウェハーは単なるシリコンチップではなく、世界のテクノロジー地図における台湾の位置を証明するものだ。
+        <a href="/ja/technology" class="topic-pill">💻 このテクノロジー島</a
+        >は受託製造から革新的R&Dへ、
+        ハードウェアの優位性からソフトウェアのブレイクスルーへと進化した。しかし技術発展は課題ももたらす：
+        デジタルデバイド、AI代替、サイバーセキュリティの脅威——台湾はテクノロジーの波に乗りつつ、溺れないでいられるか？
+      </p>
+
+      <p>
+        アジア四小龍から半導体帝国へ、<a href="/ja/economy" class="topic-pill"
+          >📈 台湾の経済奇跡</a
+        >
+        は小国の大戦略の典型例だ。しかし奇跡の裏には数えきれない残業の夜、 細かなコスト管理、止まることのない効率追求がある。
+        今や米中貿易戦争とグローバルサプライチェーンの再編に直面し、台湾はいかに経済の伝説を書き続けるのか？
+      </p>
+
+      <p>
+        <a href="/ja/society" class="topic-pill">⚖️ 台湾社会</a
+        >のキーワードは「多様性」と「包摂」だ。
+        アジア初の同性婚合法化から、移行期正義の継続的推進まで、
+        原発国民投票から年金改革まで、台湾人は対立の中で対話し、
+        衝突の中で合意を見出す方法を学んでいる。ここは民主主義の練習場であり、未来の実験室だ。
+      </p>
+
+      <p>
+        台湾人の<a href="/ja/lifestyle" class="topic-pill">🏠 ライフスタイル</a
+        >は利便性と人情味の融合だ。コンビニの密度は世界一だが、夜市の温もりは唯一無二。
+        24時間営業の都市リズムの中にも、近所の挨拶と気遣いが残っている。
+        グローバル化の奔流の中で、台湾人はいかに自らの生活哲学を守るのか？
+        答えはおそらく、「ご飯食べた？」という日常の挨拶の中にある。
+      </p>
+    </Fragment>
+  </CategoriesSection>
+
+  <LanguageStatement />
+
+  <RecentUpdates commits={recentCommits} />
+
+  <NewsletterSection />
+
+  <ContributeSection />
+</Layout>

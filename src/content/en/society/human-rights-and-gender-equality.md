@@ -96,10 +96,8 @@ Taiwan performs excellently in international human rights rankings, rated as "Fr
 
 ## Related Topics
 
-- [[democratic-system]]
-- [[Martial Law Period]]
-- [[taiwan-democratization]]
-- [[Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrants)]]
+- [democratic-system](/society/democratic-system)
+- [taiwan-democratization](/history/taiwan-democratization)
 
 ---
 

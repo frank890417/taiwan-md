@@ -1,6 +1,6 @@
 ---
-title: 'Taiwan Diplomatic Allies 2026: International Relations & Current List'
-description: 'Taiwan has 12 diplomatic allies in 2026 — down from 70. How Taiwan sustains global presence without a UN seat through informal diplomacy, strategic industries, and democratic partnerships.'
+title: "Taiwan's 12 Diplomatic Allies in 2026: Complete List, History & Why It Keeps Shrinking"
+description: 'Taiwan has just 12 diplomatic allies in 2026 — down from 70 in 1969. Full list of countries, timeline of losses, and how Taiwan sustains global influence without a UN seat through chip diplomacy, democratic partnerships, and 117 unofficial offices worldwide.'
 date: 2026-03-19
 tags:
   [

@@ -12,17 +12,24 @@ echo "================================================="
 echo ""
 echo "🔄 步驟 1/2: 同步 knowledge/ → src/content/..."
 
+# 冪等同步：先清空再重建，確保 src/content/ 是 knowledge/ 的純淨投影
+# 這防止改名/刪除的檔案殘留為「幽靈細胞」
+echo "🧹 清空 src/content/ 投影層（冪等重建）..."
+if [ -d "src/content" ]; then
+  rm -rf src/content/zh-TW src/content/en src/content/ja src/content/ko
+fi
+
 # 建立目錄結構
 echo "📁 建立目錄結構..."
 mkdir -p src/content/zh-TW/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 mkdir -p src/content/en/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
+mkdir -p src/content/ja/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
+mkdir -p src/content/ko/{about,art,culture,economy,food,geography,history,lifestyle,music,nature,people,society,technology,resources}
 
 # 統計初始檔案數
 KNOWLEDGE_COUNT=$(find knowledge/ -name "*.md" | wc -l)
-CONTENT_BEFORE=$(find src/content/ -name "*.md" | wc -l)
 
 echo "📊 knowledge/ 總檔案數: $KNOWLEDGE_COUNT"
-echo "📊 同步前 src/content/ 檔案數: $CONTENT_BEFORE"
 
 # 同步根目錄檔案
 echo "📄 同步根目錄檔案..."
@@ -99,13 +106,50 @@ if [ -d "knowledge/en" ]; then
   fi
 fi
 
+# 同步日文內容
+echo "🇯🇵 同步日文內容..."
+if [ -d "knowledge/ja" ]; then
+  for category in About Art Culture Economy Food Geography Lifestyle Music People History Nature Society Technology; do
+    if [ -d "knowledge/ja/$category" ]; then
+      lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
+      for file in knowledge/ja/$category/*.md; do
+        if [ -f "$file" ]; then
+          filename=$(basename "$file")
+          target_file="src/content/ja/$lowercase_category/$filename"
+          cp "$file" "$target_file"
+          echo "  ✅ ja/$category/$filename"
+          ((SYNCED_COUNT++))
+        fi
+      done
+    fi
+  done
+fi
+
+# 同步韓文內容
+echo "🇰🇷 同步韓文內容..."
+if [ -d "knowledge/ko" ]; then
+  for category in About Art Culture Economy Food Geography Lifestyle Music People History Nature Society Technology; do
+    if [ -d "knowledge/ko/$category" ]; then
+      lowercase_category=$(echo $category | tr '[:upper:]' '[:lower:]')
+      for file in knowledge/ko/$category/*.md; do
+        if [ -f "$file" ]; then
+          filename=$(basename "$file")
+          target_file="src/content/ko/$lowercase_category/$filename"
+          cp "$file" "$target_file"
+          echo "  ✅ ko/$category/$filename"
+          ((SYNCED_COUNT++))
+        fi
+      done
+    fi
+  done
+fi
+
 # 統計中間結果
 CONTENT_AFTER_SYNC=$(find src/content/ -name "*.md" | wc -l)
 
 echo ""
 echo "🎉 步驟 1 完成！檔案同步完成"
 echo "📊 同步後 src/content/ 檔案數: $CONTENT_AFTER_SYNC"
-echo "📊 新增/更新檔案數: $((CONTENT_AFTER_SYNC - CONTENT_BEFORE))"
 
 # 2. 修復 frontmatter
 echo ""

@@ -1,24 +1,15 @@
 ---
-title: 'Mayday'
-description: 'How five high school students revolutionized the economics of live concerts in Asia'
+title: 'Mayday (五月天): How Five High School Students Built Asia's Biggest Concert Empire'
+description: '30 concerts at Beijing's Bird's Nest. 21 million tickets sold. From a 1997 BBS nickname to a band that fills stadiums across Asia — Mayday rewrote what a rock concert means in the Chinese-speaking world.'
 date: 2026-03-23
-tags:
-  [
-    people,
-    band,
-    rock,
-    mandarin-music,
-    golden-melody-awards,
-    concerts,
-    music-industry,
-  ]
+tags: [people, band, rock, mandarin-music, golden-melody-awards, concerts, music-industry]
 subcategory: 'Music & Performance'
 lastVerified: 2026-03-23
 lastHumanReview: false
 ---
 
-> **30-Second Overview:** From a student band at Taipei's Affiliated Senior High School to holding
-> a record-breaking 30 concerts at Beijing's Bird's Nest Stadium and selling over 21 million concert tickets.
+> **30-Second Overview:** From a student band at Taipei's Affiliated Senior High School to holding 
+> a record-breaking 30 concerts at Beijing's Bird's Nest Stadium and selling over 21 million concert tickets. 
 > Mayday has spent 30 years proving that concerts aren't just performances—they're a new economic ecosystem.
 
 On March 29, 1997, at the Wild Stage concert in Taipei, five young musicians hastily decided to use the BBS nickname "MAYDAY" of their bassist Martha as their band name to register for the performance. That day, officially renamed as "Mayday," became their founding anniversary—a decision that would rewrite the rules of Asia's concert industry over the next three decades.
@@ -84,7 +75,7 @@ From the 1997 Wild Stage performance to the 2024 record of 30 Bird's Nest concer
 - [Mayday - Taiwan Pop Music Wiki](http://www.tpmw.org.tw/index.php/%E4%BA%94%E6%9C%88%E5%A4%A9)
 - [Mayday Timeline - Mayday Fans](https://mayday-fans.com/1997/03/mayday-timeline/)
 - [Mayday - Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%BA%94%E6%9C%88%E5%A4%A9)
-- [Mayday (Taiwanese band) - Wikipedia](<https://en.wikipedia.org/wiki/Mayday_(Taiwanese_band)>)
+- [Mayday (Taiwanese band) - Wikipedia](https://en.wikipedia.org/wiki/Mayday_(Taiwanese_band))
 - [Life Tour - Wikipedia](https://en.wikipedia.org/wiki/Life_Tour)
 - [Mayday lip-sync controversy investigation results released - CNR](https://www.cnr.cn/shanghai/tt/20240513/t20240513_526703739.shtml)
 - [Mayday: Taiwanese rock band denies violating China's lip-sync ban - BBC News](https://www.bbc.com/zhongwen/trad/chinese-news-67657024)

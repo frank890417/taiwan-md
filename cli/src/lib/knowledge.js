@@ -23,7 +23,7 @@ const STANDALONE_KNOWLEDGE_DIR = path.join(STANDALONE_DATA_DIR, 'knowledge');
 const STANDALONE_CACHE_DIR = path.join(STANDALONE_DATA_DIR, 'cache');
 
 // Language subdirectories and special files to exclude from zh-TW article listing
-const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'resources']);
+const EXCLUDED_DIRS = new Set(['en', 'es', 'ja', 'ko', 'resources']);
 
 /**
  * Determine if we are running inside the repo (i.e. ../knowledge/ exists).

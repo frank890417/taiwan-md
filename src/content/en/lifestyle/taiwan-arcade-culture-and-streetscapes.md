@@ -167,7 +167,6 @@ If Taiwan’s streets are a language, the qílóu is its grammar. And like any l
 
 ## Further Reading
 
-- [[台灣都市發展與城鄉差距]] — Taiwan’s broader path of urbanization
-- [[台灣建築史]] — Architectural history of the island
-- [[夜市文化]] — Another major street culture ecosystem
-- [[台灣交通系統]] — The mobility context behind scooter culture
+- [台灣都市發展與城鄉差距](/geography/台灣都市發展與城鄉差距) — Taiwan’s broader path of urbanization
+- [夜市文化](/food/夜市文化) — Another major street culture ecosystem
+- [台灣交通系統](/lifestyle/台灣交通系統) — The mobility context behind scooter culture

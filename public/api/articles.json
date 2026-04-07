@@ -1,5 +1,16 @@
 [
   {
+    "title": "‘Lai Ching-te (賴清德): Taiwan’s President Since 2024 — From Mining Town Doctor to Head of State’",
+    "description": "‘Born in a coal mining village, trained as a doctor, elected Taiwan’s 16th president in 2024. The first sitting vice president to win the presidency — and the leader navigating Taiwan’s most complex geopolitical moment.’",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/lai-ching-te",
+    "readingTime": 36,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/People/lai-ching-te.md"
+  },
+  {
     "title": "228 Incident",
     "description": "The major 1947 event that changed Taiwan's historical trajectory - from the outbreak to the long journey toward transitional justice",
     "category": "en",
@@ -36,7 +47,7 @@
   },
   {
     "title": "二二八事件",
-    "description": "一個寡婦的私菸攤，如何點燃一座島嶼38年的沉默——1947年改變台灣命運的十天",
+    "description": "一個寡婦的私菸攤，如何點燃一座島嶼三十八年的沉默——1947年改變台灣命運的十天，以及七十八年後仍在癒合的傷",
     "category": "History",
     "tags": [
       "歷史",
@@ -48,9 +59,9 @@
       "二二八"
     ],
     "url": "https://taiwan.md/History/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6",
-    "readingTime": 13,
+    "readingTime": 27,
     "featured": true,
-    "date": "2026-03-25",
+    "date": "2026-03-31",
     "path": "History/二二八事件.md"
   },
   {
@@ -74,6 +85,24 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "Society/人權與性別平等.md"
+  },
+  {
+    "title": "八部合音：挑戰西方音樂史觀的活化石",
+    "description": "1943 年，日本音樂學者黑澤隆朝在台東深山錄下布農族的 Pasibutbut。九年後這段錄音寄到 UNESCO，震驚國際音樂學界——一個「沒有文字的民族」唱出了西方認為只有高度文明才能產生的複音合唱。",
+    "category": "Music",
+    "tags": [
+      "布農族",
+      "原住民音樂",
+      "原住民族",
+      "泛音",
+      "非物質文化遺產",
+      "台灣文化"
+    ],
+    "url": "https://taiwan.md/Music/%E5%85%AB%E9%83%A8%E5%90%88%E9%9F%B3",
+    "readingTime": 9,
+    "featured": true,
+    "date": "2026-04-01",
+    "path": "Music/八部合音.md"
   },
   {
     "title": "大立光電：當工匠精神遇到架構革命",
@@ -167,6 +196,17 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "Society/太陽花學運.md"
+  },
+  {
+    "title": "巴哈姆特",
+    "description": "台灣最大 ACG 社群的誕生、存活，以及它憑什麼在臉書、TikTok 橫掃一切的時代裡越活越旺。",
+    "category": "Culture",
+    "tags": ["ACG", "電玩", "動漫", "社群", "台灣網路", "次文化", "論壇"],
+    "url": "https://taiwan.md/Culture/%E5%B7%B4%E5%93%88%E5%A7%86%E7%89%B9",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "Culture/巴哈姆特.md"
   },
   {
     "title": "方序中",
@@ -268,6 +308,17 @@
     "path": "People/麟洋配.md"
   },
   {
+    "title": "王齊麟と李洋（麟洋ペア）",
+    "description": "中学時代の同級生からオリンピック金メダリストへ。「麟洋ペア」は34分で中国ペアをストレートで下し、台湾バドミントン史上初の五輪金メダルをつかんだ。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/People/wang-chi-lin-and-lee-yang",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/People/wang-chi-lin-and-lee-yang.md"
+  },
+  {
     "title": "半導体産業",
     "description": "モリス・チャンの歴史的な賭けから2ナノメートル時代へ：TSMCはいかにして台湾を世界の技術的命脈にしたか",
     "category": "ja",
@@ -341,6 +392,28 @@
     "path": "ja/Economy/tsmc-taiwan-semiconductor.md"
   },
   {
+    "title": "台湾映画――小さな島はいかにして世界の映画言語を書き換えたのか",
+    "description": "年間20本にも満たない映画しか作られない台湾で、なぜ侯孝賢、楊徳昌、蔡明亮、李安のような世界的監督が生まれ、ハリウッド以上に深い芸術的影響を与えられたのでしょうか。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Art/taiwan-cinema",
+    "readingTime": 30,
+    "featured": true,
+    "date": "2026-03-23",
+    "path": "ja/Art/taiwan-cinema.md"
+  },
+  {
+    "title": "台湾原住民族16族文化地図",
+    "description": "「16」という数字は自然に生まれたものではなく、交渉の積み重ねによって形づくられた結果です。人口21万人のアミ族から441人のカナカナブ族まで、台湾原住民族の文化の厚みは、どんな公式名簿よりもはるかに豊かです。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Culture/taiwan-indigenous-16-peoples-cultural-map",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-29",
+    "path": "ja/Culture/taiwan-indigenous-16-peoples-cultural-map.md"
+  },
+  {
     "title": "台湾原住民族の食文化",
     "description": "AKAME の火からアミ族の山野草の宇宙まで——台湾原住民族の食はいかにして三千年を経て、再び世界の視線を引き寄せたのか",
     "category": "ja",
@@ -361,6 +434,39 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Food/military-dependents-village-cuisine.md"
+  },
+  {
+    "title": "台湾の交通システム",
+    "description": "台湾高速鉄道が南北を90分で結び、MRTが都市の血流をつくり、スクーターが路地を走り抜ける",
+    "category": "ja",
+    "tags": ["生活", "交通", "台湾高速鉄道", "MRT", "スクーター", "台湾"],
+    "url": "https://taiwan.md/ja/Geography/taiwan-transportation-network",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-03-17",
+    "path": "ja/Geography/taiwan-transportation-network.md"
+  },
+  {
+    "title": "台湾の気候危機とネットゼロ移行",
+    "description": "激化する異常気象から2050年ネットゼロ排出目標まで。台湾が直面する気候危機と、エネルギー転換の機会と課題を読み解きます。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Nature/taiwan-climate-change-net-zero-transition",
+    "readingTime": 28,
+    "featured": false,
+    "date": "2026-03-20",
+    "path": "ja/Nature/taiwan-climate-change-net-zero-transition.md"
+  },
+  {
+    "title": "台湾の医療と全民健康保険",
+    "description": "99.9％のカバー率が生んだ、矛盾を抱えた奇跡。Numbeoで6年連続世界1位の医療制度は、なぜ医療現場の過酷な労働によって支えられているのでしょうか。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Lifestyle/taiwan-healthcare-and-national-health-insurance",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-30",
+    "path": "ja/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
   },
   {
     "title": "台湾の宗教と寺廟文化",
@@ -412,6 +518,17 @@
     "path": "ja/Food/taiwan-banquet-culture.md"
   },
   {
+    "title": "台湾ポップミュージックと金曲奨",
+    "description": "1982年、蔡琴は宋楚瑜に8ページにわたる手紙を書き、賞の部門まで含めた台湾のポピュラー音楽賞構想を提案しました。8年後、金曲奨が誕生します。さらに34年後、パイワン語のアルバムが年間最優秀作品を受賞しました。これは単なる音楽賞の歴史ではなく、どんな声が「聴かれるべき声」なのかを台湾社会がどう選び取ってきたのか、その物語でもあります。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Music/taiwan-pop-music-and-the-golden-melody-awards",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-28",
+    "path": "ja/Music/taiwan-pop-music-and-the-golden-melody-awards.md"
+  },
+  {
     "title": "台灣5G網路建設與數位轉型",
     "description": "台灣從4G領先到5G布局，探索數位轉型國家戰略與智慧應用發展歷程",
     "category": "Technology",
@@ -421,6 +538,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "Technology/台灣5G網路建設與數位轉型.md"
+  },
+  {
+    "title": "台灣人工智慧發展與未來策略",
+    "description": "全世界訓練 AI 的晶片九成來自台灣，但這座島的 AI 野心不只是當代工廠——從 PTT 創辦人建立的 AI 實驗室，到政府押注的繁體中文大型語言模型 TAIDE，台灣正在硬體霸權之上長出自己的 AI 靈魂。",
+    "category": "Technology",
+    "tags": ["人工智慧", "AI", "半導體", "科技政策", "數位轉型"],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%99%BC%E5%B1%95%E8%88%87%E6%9C%AA%E4%BE%86%E7%AD%96%E7%95%A5",
+    "readingTime": 31,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "Technology/台灣人工智慧發展與未來策略.md"
   },
   {
     "title": "台灣人工智慧實驗室 (Taiwan AI Labs)",
@@ -454,20 +582,20 @@
   },
   {
     "title": "台灣山岳與登山文化",
-    "description": "268座三千公尺高山與百岳文化：台灣登山運動的發展與山岳保育挑戰",
+    "description": "268座三千公尺高山擠在一座島上，台灣人卻花了半世紀才被允許自由爬自己的山",
     "category": "Nature",
     "tags": [
       "山岳",
       "登山文化",
       "百岳",
-      "山屋系統",
       "嘉明湖",
-      "入山管制",
-      "生態保育",
-      "高山"
+      "山難",
+      "開放山林",
+      "森丑之助",
+      "林文安"
     ],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E5%B1%B1%E5%B2%B3%E8%88%87%E7%99%BB%E5%B1%B1%E6%96%87%E5%8C%96",
-    "readingTime": 20,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-18",
     "path": "Nature/台灣山岳與登山文化.md"
@@ -536,14 +664,14 @@
     "path": "Food/台灣手搖飲文化.md"
   },
   {
-    "title": "台灣手路菜：正在消失的味覺記憶",
-    "description": "從嘉義薄荷雞到菜尾湯，阿嬤的拿手好菜承載著家族記憶，卻正在時代變遷中慢慢失傳",
+    "title": "台灣手路菜",
+    "description": "手路菜（台語 tshiú-lōo-tshài）是「拿手好菜」的意思。高雄內門的白堊土種不出作物，卻養出全台密度最高的總鋪師——黃金年代一年辦 25,000 桌，大月營收 1,200 萬。一鍋菜尾湯要花四到八小時，結得好不好，全村隔天都知道。",
     "category": "Food",
-    "tags": ["台灣美食", "傳統料理", "家族記憶", "手路菜"],
+    "tags": ["台灣美食", "傳統料理", "辦桌", "手路菜", "總鋪師", "飲食文化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%89%8B%E8%B7%AF%E8%8F%9C",
-    "readingTime": 10,
-    "featured": false,
-    "date": "2026-03-21",
+    "readingTime": 14,
+    "featured": true,
+    "date": "2026-03-31",
     "path": "Food/台灣手路菜.md"
   },
   {
@@ -654,12 +782,12 @@
     "path": "Lifestyle/台灣市場文化與傳統市場.md"
   },
   {
-    "title": "台灣民主轉型：從威權到自由的寧靜革命",
-    "description": "一個島嶼如何在不流血的情況下，從38年戒嚴走向亞洲最自由的民主。這不是被給予的恩惠，而是一代又一代人用勇氣換來的自由。",
+    "title": "台灣民主轉型——威權自掘的墳墓",
+    "description": "每一次鎮壓都製造更多反抗者。從二二八到太陽花，一座島嶼如何讓獨裁體制親手培養出埋葬自己的力量。",
     "category": "History",
     "tags": ["民主", "轉型正義", "政治史", "人權", "社會運動"],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B",
-    "readingTime": 28,
+    "readingTime": 25,
     "featured": true,
     "date": "2026-03-24",
     "path": "History/台灣民主轉型.md"
@@ -690,7 +818,7 @@
       "布農族"
     ],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0",
-    "readingTime": 16,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-23",
     "path": "Music/台灣民謠與歌謠.md"
@@ -708,21 +836,21 @@
   },
   {
     "title": "台灣白色恐怖",
-    "description": "1949-1987戒嚴時期的政治迫害、文學禁書，以及民主化後的平反與轉型正義",
+    "description": "38 年戒嚴不是靠幾千個特務維持的，是靠全台灣兩百萬個家庭必須互相擔保才能上班、入學、結婚的「連坐保證」制度維持的。陳智雄、施水環、高一生、柏楊——四個名字，四種被抓的理由，一個共同的機器。",
     "category": "History",
     "tags": [
       "歷史",
       "白色恐怖",
       "戒嚴",
       "政治迫害",
-      "轉型正義",
-      "二二八",
-      "民主化"
+      "連坐保證",
+      "綠島",
+      "馬場町"
     ],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96",
-    "readingTime": 23,
+    "readingTime": 27,
     "featured": true,
-    "date": "2026-03-19",
+    "date": "2026-04-05",
     "path": "History/台灣白色恐怖.md"
   },
   {
@@ -737,14 +865,14 @@
     "path": "Nature/台灣石虎保育.md"
   },
   {
-    "title": "台灣交通系統",
-    "description": "高鐵 90 分鐘縱貫南北，捷運密織都市血脈，機車穿梭巷弄間",
+    "title": "台灣交通系統：一座島嶼怎麼把自己壓縮成 90 分鐘",
+    "description": "1946 年台灣一夜之間從左駕變右駕。六十年後高鐵把 394 公里壓成 90 分鐘。再十年後，一千四百萬輛機車塞滿了每一個路口。這座島嶼的交通故事，就是它的身份故事。",
     "category": "Lifestyle",
-    "tags": ["生活", "交通", "高鐵", "捷運", "機車", "台灣"],
+    "tags": ["交通", "高鐵", "捷運", "機車", "YouBike", "Gogoro", "悠遊卡"],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E4%BA%A4%E9%80%9A%E7%B3%BB%E7%B5%B1",
-    "readingTime": 12,
+    "readingTime": 20,
     "featured": true,
-    "date": "2026-03-17",
+    "date": "2026-04-06",
     "path": "Lifestyle/台灣交通系統.md"
   },
   {
@@ -1017,7 +1145,7 @@
       "豆漿店"
     ],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%97%A9%E9%A4%90%E6%96%87%E5%8C%96",
-    "readingTime": 17,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-18",
     "path": "Food/台灣早餐文化.md"
@@ -1122,14 +1250,21 @@
     "path": "Culture/台灣乖乖文化.md"
   },
   {
-    "title": "台灣咖啡文化",
-    "description": "獨立咖啡廳密度世界前三，從阿里山豆到咖啡廳辦公的島嶼咖啡學",
+    "title": "台灣咖啡文化：便利商店一年賣六億杯的島嶼",
+    "description": "日治時期從雲林古坑種下的第一棵咖啡樹，一百年後長成了每五十公尺一家咖啡廳的都市風景。路易莎開到六百家，超過星巴克。阿里山咖啡打進國際賽。台灣人的咖啡，從來不只是咖啡。",
     "category": "Lifestyle",
-    "tags": ["生活", "咖啡", "阿里山", "路易莎", "第三空間", "台灣"],
+    "tags": [
+      "咖啡",
+      "路易莎",
+      "阿里山咖啡",
+      "精品咖啡",
+      "便利商店",
+      "第三空間"
+    ],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E5%92%96%E5%95%A1%E6%96%87%E5%8C%96",
-    "readingTime": 14,
+    "readingTime": 18,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-04-06",
     "path": "Lifestyle/台灣咖啡文化.md"
   },
   {
@@ -1145,13 +1280,13 @@
   },
   {
     "title": "台灣宗教與寺廟文化",
-    "description": "從媽祖遶境到佛道融合，探索台灣寺廟如何成為信仰、社群與文化的生活中心",
+    "description": "一萬五千座廟宇比便利商店還多的島嶼，佛道民間三教共用一座屋頂，媽祖遶境百萬人徒步九天——台灣的信仰不在經文裡，在轉角的香火中。",
     "category": "Culture",
-    "tags": ["宗教", "寺廟", "民間信仰", "媽祖", "佛教", "道教", "籤詩"],
+    "tags": ["宗教", "寺廟", "民間信仰", "媽祖", "佛教", "道教", "保安宮"],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E5%AE%97%E6%95%99%E8%88%87%E5%AF%BA%E5%BB%9F%E6%96%87%E5%8C%96",
-    "readingTime": 13,
+    "readingTime": 26,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-06",
     "path": "Culture/台灣宗教與寺廟文化.md"
   },
   {
@@ -1222,7 +1357,7 @@
     "category": "Society",
     "tags": ["斜槓", "零工經濟", "薪資", "房價", "青年就業"],
     "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E6%96%9C%E6%A7%93%E4%B8%96%E4%BB%A3",
-    "readingTime": 18,
+    "readingTime": 17,
     "featured": false,
     "date": "2026-03-29",
     "path": "Society/台灣斜槓世代.md"
@@ -1262,13 +1397,13 @@
   },
   {
     "title": "台灣金融科技發展",
-    "description": "從監管沙盒到數位銀行，探索台灣FinTech生態系統的發展歷程與創新成果",
+    "description": "一個華爾街金童回台灣創辦行動支付，九年後公司被查封、帳戶存款不到千元——這不只是一個人的故事，是整座島嶼在「開放」與「失控」之間拉扯的金融科技十年。",
     "category": "Economy",
     "tags": [],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E7%99%BC%E5%B1%95",
-    "readingTime": 23,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-03-18",
+    "date": "2026-04-06",
     "path": "Economy/台灣金融科技發展.md"
   },
   {
@@ -1370,6 +1505,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "Nature/台灣皇蛾.md"
+  },
+  {
+    "title": "台灣省籍矛盾",
+    "description": "省籍矛盾不是兩群人互相討厭的故事，而是一場關於誰有資格定義「台灣人」的權力爭奪——它在選票上死而復生，在眷村拆遷裡悄悄蒸發，卻從未真正終結。",
+    "category": "Society",
+    "tags": ["社會", "族群", "政治", "歷史", "身份認同"],
+    "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E7%9C%81%E7%B1%8D%E7%9F%9B%E7%9B%BE",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "Society/台灣省籍矛盾.md"
   },
   {
     "title": "台灣穿山甲",
@@ -1549,28 +1695,32 @@
     "category": "Nature",
     "tags": [],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%B6%BC%E5%8D%9A%E7%89%A9%E5%AD%B8",
-    "readingTime": 9,
+    "readingTime": 10,
     "featured": false,
     "date": "2026-03-25",
     "path": "Nature/台灣島嶼博物學.md"
   },
   {
-    "title": "台灣氣候變遷與淨零轉型",
-    "description": "台灣面臨氣候變遷衝擊，從極端氣候頻繁發生到2050淨零碳排目標的政策規劃，探討能源轉型過程中的機會與挑戰",
-    "category": "Nature",
-    "tags": [
-      "氣候變遷",
-      "淨零轉型",
-      "能源轉型",
-      "極端氣候",
-      "2050淨零",
-      "再生能源"
-    ],
-    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E8%AE%8A%E9%81%B7%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
-    "readingTime": 18,
+    "title": "台灣氣候",
+    "description": "年降雨量是全球平均2.5倍，卻名列全球前20缺水國——台灣的氣候從來不是你想的那樣",
+    "category": "Geography",
+    "tags": ["地理", "氣候", "颱風", "梅雨", "氣候變遷"],
+    "url": "https://taiwan.md/Geography/%E6%B0%A3%E5%80%99",
+    "readingTime": 19,
     "featured": false,
-    "date": "2026-03-20",
-    "path": "Nature/台灣氣候變遷與淨零轉型.md"
+    "date": "2026-03-31",
+    "path": "Geography/氣候.md"
+  },
+  {
+    "title": "台灣氣候危機與淨零轉型",
+    "description": "升溫速度比全球快一半、98% 能源靠進口——一座島嶼賭上 9 兆台幣重建自己的能源系統",
+    "category": "Nature",
+    "tags": [],
+    "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
+    "readingTime": 25,
+    "featured": true,
+    "date": "2026-04-04",
+    "path": "Nature/台灣氣候危機與淨零轉型.md"
   },
   {
     "title": "台灣海岸地形與海洋地景",
@@ -1661,24 +1811,6 @@
     "path": "Food/台灣素食文化.md"
   },
   {
-    "title": "台灣能源轉型與綠能產業",
-    "description": "從核能依賴到再生能源多元化，台灣如何在2050淨零目標下重塑能源結構",
-    "category": "Economy",
-    "tags": [
-      "能源轉型",
-      "再生能源",
-      "離岸風電",
-      "太陽光電",
-      "2050淨零",
-      "綠能產業"
-    ],
-    "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E8%83%BD%E6%BA%90%E8%BD%89%E5%9E%8B%E8%88%87%E7%B6%A0%E8%83%BD%E7%94%A2%E6%A5%AD",
-    "readingTime": 15,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "Economy/台灣能源轉型與綠能產業.md"
-  },
-  {
     "title": "台灣茶文化",
     "description": "一個被國際茶業列強排除在限產協定之外的小島，卻因此創造了茶業黃金時代，最後用一杯加了「小點心」的奶茶征服全世界",
     "category": "Food",
@@ -1752,14 +1884,14 @@
     "path": "Economy/台灣國際貿易政策.md"
   },
   {
-    "title": "台灣國樂：從移植到演化的島嶼音樂新物種",
-    "description": "台灣國樂不只是中國民樂的分支，而是在島嶼環境下獨立演化的文化新物種，融合本土元素與創新實驗，形成獨特的音樂語言。",
+    "title": "台灣國樂：中國樂器上長出來的島嶼聲音",
+    "description": "1949 年渡海而來的二胡和琵琶，七十年後在台灣演奏布農族的八部合音。台灣國樂如何從政治正統的象徵，演化成一個跟對岸截然不同的音樂物種。",
     "category": "Music",
     "tags": ["國樂", "傳統音樂", "臺北市立國樂團", "民族音樂", "文化融合"],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E5%9C%8B%E6%A8%82",
-    "readingTime": 20,
+    "readingTime": 29,
     "featured": false,
-    "date": "2026-03-24",
+    "date": "2026-04-03",
     "path": "Music/台灣國樂.md"
   },
   {
@@ -1811,7 +1943,7 @@
       "升學制度"
     ],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6",
-    "readingTime": 21,
+    "readingTime": 20,
     "featured": true,
     "date": "2026-03-23",
     "path": "Lifestyle/台灣教育制度.md"
@@ -2093,7 +2225,7 @@
     "category": "Food",
     "tags": ["新住民美食", "東南亞料理", "文化融合", "多元飲食", "移民文化"],
     "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E6%96%B0%E4%BD%8F%E6%B0%91%E7%BE%8E%E9%A3%9F%E8%9E%8D%E5%90%88",
-    "readingTime": 23,
+    "readingTime": 22,
     "featured": true,
     "date": "2026-03-20",
     "path": "Food/台灣新住民美食融合.md"
@@ -2115,7 +2247,7 @@
     "category": "Art",
     "tags": [],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%AA%92%E9%AB%94%E8%97%9D%E8%A1%93",
-    "readingTime": 33,
+    "readingTime": 30,
     "featured": true,
     "date": "2026-03-28",
     "path": "Art/台灣新媒體藝術.md"
@@ -2154,21 +2286,14 @@
     "path": "Nature/台灣溫泉與地熱.md"
   },
   {
-    "title": "台灣當代文學發展",
-    "description": "探索台灣戰後至今的文學發展脈絡，從現代主義到本土文學，從鄉土文學論戰到多元文化書寫",
+    "title": "台灣當代文學：在斷層與禁忌中長出的靈魂指紋",
+    "description": "從日治轉中文的「語言斷層」，到現代主義與鄉土文學的激烈火拚，台灣文學在短短數十年間，長出了連中文母土都無法想像的繁花。",
     "category": "Art",
-    "tags": [
-      "文學",
-      "當代文學",
-      "本土文學",
-      "現代主義",
-      "鄉土文學",
-      "文化認同"
-    ],
+    "tags": ["台灣文學", "白先勇", "鄉土文學論戰", "吳明益", "現代主義"],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E7%95%B6%E4%BB%A3%E6%96%87%E5%AD%B8%E7%99%BC%E5%B1%95",
-    "readingTime": 21,
+    "readingTime": 10,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-01",
     "path": "Art/台灣當代文學發展.md"
   },
   {
@@ -2239,7 +2364,7 @@
     "category": "Economy",
     "tags": ["農業", "精緻農業", "有機農業", "農村再生", "休閒農業", "現代化"],
     "url": "https://taiwan.md/Economy/%E5%8F%B0%E7%81%A3%E8%BE%B2%E6%A5%AD%E7%8F%BE%E4%BB%A3%E5%8C%96%E7%99%BC%E5%B1%95",
-    "readingTime": 23,
+    "readingTime": 24,
     "featured": true,
     "date": "2026-03-18",
     "path": "Economy/台灣農業現代化發展.md"
@@ -2286,14 +2411,14 @@
     "path": "Music/台灣電子音樂與派對文化.md"
   },
   {
-    "title": "台灣電子商務與數位支付生態系：從PC家到蝦皮的數位商業進化",
-    "description": "探索台灣電子商務20年發展歷程，以及數位支付如何重塑消費生活",
+    "title": "台灣電子商務與數位支付：一座島嶼的三場商戰",
+    "description": "從詹宏志賭上24小時到貨、蝦皮燒30億補貼戰、到酷澎火箭配送搶灘——台灣電商二十年，是一部「本土創新被外資顛覆、再被下一個外資顛覆」的循環史。",
     "category": "Technology",
     "tags": [],
     "url": "https://taiwan.md/Technology/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E8%88%87%E6%95%B8%E4%BD%8D%E6%94%AF%E4%BB%98%E7%94%9F%E6%85%8B%E7%B3%BB",
-    "readingTime": 20,
+    "readingTime": 19,
     "featured": true,
-    "date": "2026-03-18",
+    "date": "2026-04-06",
     "path": "Technology/電子商務與數位支付生態系.md"
   },
   {
@@ -2308,12 +2433,23 @@
     "path": "Technology/台灣電動車產業鏈發展.md"
   },
   {
+    "title": "台灣電視產業史：從老三台到植劇場的溫柔革命",
+    "description": "1962 年台視開播到 2016 年植劇場，台灣電視產業從「黨政軍壟斷」到「公共媒體崛起」的 54 年。一個不賣廣告的平台，如何說了一個大家都喜歡的故事？",
+    "category": "Technology",
+    "tags": ["電視", "公視", "植劇場", "老三台", "媒體改革", "台灣戲劇"],
+    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E9%9B%BB%E8%A6%96%E7%94%A2%E6%A5%AD%E5%8F%B2",
+    "readingTime": 18,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "Technology/台灣電視產業史.md"
+  },
+  {
     "title": "台灣電影：小島如何改變世界電影語言",
     "description": "年產不到20部電影的台灣，如何培育出三位世界級導演，創造了比好萊塢更深遠的藝術影響？",
     "category": "Art",
     "tags": [],
     "url": "https://taiwan.md/Art/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1",
-    "readingTime": 20,
+    "readingTime": 21,
     "featured": true,
     "date": "2026-03-23",
     "path": "Art/台灣電影.md"
@@ -2365,7 +2501,7 @@
       "社群平台"
     ],
     "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%B7%E5%BE%99%E5%8F%B2",
-    "readingTime": 22,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-29",
     "path": "Technology/台灣網路社群遷徙史.md"
@@ -2549,7 +2685,7 @@
       "海洋保護"
     ],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E7%92%B0%E5%A2%83%E9%81%8B%E5%8B%95%E5%8F%B2",
-    "readingTime": 11,
+    "readingTime": 12,
     "featured": false,
     "date": "2026-03-20",
     "path": "Nature/台灣環境運動史.md"
@@ -2560,7 +2696,7 @@
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3%E8%81%B2%E9%9F%B3%E5%9C%B0%E6%99%AF",
-    "readingTime": 21,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-17",
     "path": "Music/台灣聲音地景.md"
@@ -2575,6 +2711,17 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Nature/台灣藍鵲.md"
+  },
+  {
+    "title": "台灣轉型正義",
+    "description": "台灣撤銷了近六千份威權時期的有罪判決，卻幾乎沒有一個加害者被追究責任——這個落差，比白色恐怖本身更難解釋。",
+    "category": "History",
+    "tags": ["歷史", "轉型正義", "民主化", "人權", "白色恐怖"],
+    "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9",
+    "readingTime": 24,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "History/台灣轉型正義.md"
   },
   {
     "title": "台灣醫療與全民健保",
@@ -2608,6 +2755,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "Lifestyle/台灣騎樓文化與街景.md"
+  },
+  {
+    "title": "台灣獸迷文化",
+    "description": "2015 年，台灣第一場獸迷大會只來了約 50 人，獸裝師不到 10 個。十年後，獸無限單場 3,251 人、689 套獸裝同台、慈善募款近百萬元。台灣獸迷從撥接時代的 BBS 討論，長成了亞洲最具組織力的擬人化動物愛好者社群。",
+    "category": "Culture",
+    "tags": ["獸迷", "次文化", "獸裝", "台灣文化"],
+    "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E7%8D%B8%E8%BF%B7%E6%96%87%E5%8C%96",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "Culture/台灣獸迷文化.md"
   },
   {
     "title": "台灣藝術教育與學院發展",
@@ -2686,10 +2844,21 @@
       "台鐵"
     ],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2",
-    "readingTime": 19,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-24",
     "path": "History/台灣鐵道史.md"
+  },
+  {
+    "title": "台灣鹽酥雞",
+    "description": "1975 年，一個餐廳經營失敗的台南人陳廷智在西門町擺起推車，用祖傳醃料炸雞塊。五十年後，鹽酥雞成了台灣少數不需要夜市、不需要店面、只靠一台推車和一鍋油就能存活的小吃——CNN 兩度將它列入台灣必吃清單，但它最正宗的吃法，永遠是半夜在路邊等那個紙袋。",
+    "category": "Food",
+    "tags": ["小吃", "夜市", "炸物", "台灣美食"],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E9%B9%BD%E9%85%A5%E9%9B%9E",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "Food/台灣鹽酥雞.md"
   },
   {
     "title": "台灣KTV文化：從好樂迪錢櫃到包廂社交的時代變遷",
@@ -2697,7 +2866,7 @@
     "category": "Music",
     "tags": [],
     "url": "https://taiwan.md/Music/%E5%8F%B0%E7%81%A3KTV%E6%96%87%E5%8C%96",
-    "readingTime": 22,
+    "readingTime": 21,
     "featured": true,
     "date": "2026-03-19",
     "path": "Music/台灣KTV文化.md"
@@ -2759,7 +2928,7 @@
     "category": "History",
     "tags": ["歷史", "民主化", "政治", "美麗島事件", "野百合學運"],
     "url": "https://taiwan.md/History/%E6%B0%91%E4%B8%BB%E5%8C%96",
-    "readingTime": 20,
+    "readingTime": 19,
     "featured": true,
     "date": "2026-03-27",
     "path": "History/民主化.md"
@@ -2954,11 +3123,11 @@
   },
   {
     "title": "吳大猷",
-    "description": "理論物理學家，被譽為中國物理學之父",
+    "description": "理論物理學家、中研院院長，培育楊振寧、李政道兩位諾貝爾獎得主，為台灣科學奠基的一代宗師",
     "category": "People",
-    "tags": ["人物", "科學家", "物理學", "教育"],
+    "tags": ["人物", "科學家", "物理學", "教育", "中研院"],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%A4%A7%E7%8C%B7",
-    "readingTime": 7,
+    "readingTime": 10,
     "featured": true,
     "date": "2026-03-19",
     "path": "People/吳大猷.md"
@@ -2988,20 +3157,28 @@
     "category": "People",
     "tags": ["新媒體藝術", "生成藝術", "程式創作", "NFT", "教育", "人物"],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%93%B2%E5%AE%87",
-    "readingTime": 22,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-24",
     "path": "People/吳哲宇.md"
   },
   {
-    "title": "吳寶春",
-    "description": "世界麵包大賽冠軍，以荔枝玫瑰麵包驚艷國際，從屏東鄉下到世界頂尖烘焙職人",
+    "title": "吳寶春：一個對排灣族孩子的承諾",
+    "description": "屏東農村子弟，中學學歷，不會法語。他用一條荔枝玫瑰麵包在巴黎拿下全球第一個麵包大師金牌——裡面裝著一個十年前對原住民孩子許下的承諾。",
     "category": "People",
-    "tags": ["餐飲", "烘焙", "職人精神", "世界冠軍", "屏東", "麵包"],
+    "tags": [
+      "餐飲",
+      "烘焙",
+      "職人精神",
+      "世界冠軍",
+      "屏東",
+      "麵包",
+      "原住民族"
+    ],
     "url": "https://taiwan.md/People/%E5%90%B3%E5%AF%B6%E6%98%A5",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-03-20",
+    "readingTime": 12,
+    "featured": true,
+    "date": "2026-04-05",
     "path": "People/吳寶春.md"
   },
   {
@@ -3017,7 +3194,7 @@
   },
   {
     "title": "呂冠緯",
-    "description": "均一教育平台創辦人，台灣版可汗學院，致力以科技消弭城鄉教育落差",
+    "description": "台大醫學系畢業、棄醫從教的均一教育平台董事長兼執行長，用 AI 適性學習讓 528 萬台灣孩子按自己步調前進，真正把「教育平權」從口號變日常。",
     "category": "People",
     "tags": [
       "教育",
@@ -3025,12 +3202,14 @@
       "線上學習",
       "教育科技",
       "社會企業",
-      "偏鄉教育"
+      "偏鄉教育",
+      "AI教育",
+      "適性學習"
     ],
     "url": "https://taiwan.md/People/%E5%91%82%E5%86%A0%E7%B7%AF",
-    "readingTime": 4,
+    "readingTime": 8,
     "featured": false,
-    "date": "2026-03-20",
+    "date": "2026-04-05",
     "path": "People/呂冠緯.md"
   },
   {
@@ -3046,12 +3225,12 @@
   },
   {
     "title": "戒嚴時期",
-    "description": "戒嚴時期是理解現代台灣政治發展的關鍵階段。這段威權統治的歷史，不僅深刻影響了台灣社會的政治文化，也為後來的民主化轉型奠定了對比基礎。戒嚴期間的政治迫害與人權侵犯，成為台灣追求民主自由的重要動力，同時也是轉型正義必須面對的歷史遺產。",
+    "description": "1949 年 5 月 19 日，陳誠頒布台灣省戒嚴令。38 年後，1987 年 7 月 15 日，蔣經國宣布解嚴。金馬地區直到 1992 年才解嚴。這五年，他們經歷了什麼？",
     "category": "History",
-    "tags": ["歷史", "戒嚴", "威權", "白色恐怖"],
+    "tags": ["戒嚴", "威權", "白色恐怖", "轉型正義"],
     "url": "https://taiwan.md/History/%E6%88%92%E5%9A%B4%E6%99%82%E6%9C%9F",
-    "readingTime": 11,
-    "featured": false,
+    "readingTime": 12,
+    "featured": true,
     "date": "2026-03-17",
     "path": "History/戒嚴時期.md"
   },
@@ -3179,6 +3358,17 @@
     "path": "People/李遠哲.md"
   },
   {
+    "title": "李遠哲",
+    "description": "1986年にノーベル化学賞を受賞し、交差分子線技術によって化学反応動力学に新たな地平を開いた、台湾初のノーベル科学賞受賞者。",
+    "category": "ja",
+    "tags": ["人物", "李遠哲", "諾貝爾獎", "化學", "科學家", "中研院", "台灣"],
+    "url": "https://taiwan.md/ja/People/lee-yuan-tseh",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "ja/People/lee-yuan-tseh.md"
+  },
+  {
     "title": "杜奕瑾",
     "description": "用一台 486 電腦架起台灣最大論壇、在微軟帶領 Cortana 問世，然後放棄高薪回台做非營利 AI——PTT 創世神的三十年數位史",
     "category": "People",
@@ -3191,13 +3381,13 @@
   },
   {
     "title": "杜聰明",
-    "description": "台灣第一位醫學博士，台灣現代醫學之父",
+    "description": "台灣第一位醫學博士，發明漸進斷癮法在17年間幫助11498人戒除鴉片，高雄醫學大學創辦人",
     "category": "People",
-    "tags": ["醫學", "醫學博士", "台灣現代醫學", "京都帝國大學", "藥理學"],
+    "tags": [],
     "url": "https://taiwan.md/People/%E6%9D%9C%E8%81%B0%E6%98%8E",
-    "readingTime": 8,
+    "readingTime": 13,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-31",
     "path": "People/杜聰明.md"
   },
   {
@@ -3250,6 +3440,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "Economy/台灣企業：和碩聯合.md"
+  },
+  {
+    "title": "国民政府の台湾移転と戦後復興",
+    "description": "1949年の国民政府の台湾移転、その過程と影響、そして戦後の台湾における政治・経済・社会の再編をたどります。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/History/kmt-government-relocation-and-postwar-reconstruction",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-18",
+    "path": "ja/History/kmt-government-relocation-and-postwar-reconstruction.md"
   },
   {
     "title": "国家公園",
@@ -3405,14 +3606,34 @@
   },
   {
     "title": "林書豪",
-    "description": "從哈佛學霸到NBA總冠軍，引爆全球林來瘋的台裔美國球員",
+    "description": "高中州冠軍沒拿到獎學金，選秀沒人要，15天內被裁兩次——然後他讓全世界認識了「林來瘋」",
     "category": "People",
-    "tags": ["人物", "籃球", "台裔美國人", "NBA", "林來瘋", "哈佛大學"],
+    "tags": [
+      "人物",
+      "籃球",
+      "台裔美國人",
+      "NBA",
+      "林來瘋",
+      "哈佛大學",
+      "P.League+",
+      "TPBL"
+    ],
     "url": "https://taiwan.md/People/%E6%9E%97%E6%9B%B8%E8%B1%AA",
-    "readingTime": 8,
+    "readingTime": 20,
     "featured": true,
     "date": "2026-03-19",
     "path": "People/林書豪.md"
+  },
+  {
+    "title": "林強",
+    "description": "一個賣出四十萬張唱片的台語搖滾偶像，主動拋棄一切去做沒人聽的電子音樂——然後成為侯孝賢、賈樟柯御用的亞洲頂尖聲音藝術家。",
+    "category": "People",
+    "tags": ["音樂", "電子音樂", "電影配樂", "聲音藝術", "台語"],
+    "url": "https://taiwan.md/People/%E6%9E%97%E5%BC%B7",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "People/林強.md"
   },
   {
     "title": "林義傑",
@@ -3512,6 +3733,17 @@
     "path": "Art/金馬賓館當代美術館.md"
   },
   {
+    "title": "阿里山：帝國的林場與高一生的山",
+    "description": "1954 年 4 月 17 日，鄒族菁英高一生在安坑刑場被槍決。阿里山這座被稱為觀光勝地的山脈，其實是一座被兩個帝國先後改寫過的記憶之山。",
+    "category": "History",
+    "tags": [],
+    "url": "https://taiwan.md/History/%E9%98%BF%E9%87%8C%E5%B1%B1%EF%BC%9A%E5%B8%9D%E5%9C%8B%E7%9A%84%E6%9E%97%E5%A0%B4%E8%88%87%E9%AB%98%E4%B8%80%E7%94%9F%E7%9A%84%E5%B1%B1",
+    "readingTime": 15,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "History/阿里山：帝國的林場與高一生的山.md"
+  },
+  {
     "title": "侯孝賢",
     "description": "拒絕特寫鏡頭卻征服世界的電影詩人——一個反電影語法的影像革命者",
     "category": "People",
@@ -3542,11 +3774,11 @@
   },
   {
     "title": "客家文化與語言",
-    "description": "硬頸精神與天穿日：一個被誤解為「頑固」的族群，如何成為台灣最會適應的文化群體",
+    "description": "一群人在 1988 年把孫中山的照片戴上口罩遊行，只為了爭回說母語的權利——他們贏了，但語言還在消失",
     "category": "Culture",
-    "tags": ["客家", "語言", "文化", "硬頸精神", "六堆", "天穿日"],
+    "tags": ["客家", "語言", "文化", "硬頸精神", "六堆", "還我母語運動"],
     "url": "https://taiwan.md/Culture/%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E8%88%87%E8%AA%9E%E8%A8%80",
-    "readingTime": 23,
+    "readingTime": 20,
     "featured": false,
     "date": "2026-03-24",
     "path": "Culture/客家文化與語言.md"
@@ -3722,6 +3954,35 @@
     "path": "People/紀政.md"
   },
   {
+    "title": "美麗島事件",
+    "description": "一場本應讓反對運動徹底崩潰的軍事審判，因公開轉播意外成為台灣民主最有力的宣傳片。",
+    "category": "History",
+    "tags": ["歷史", "民主化", "人權", "黨外運動", "戒嚴"],
+    "url": "https://taiwan.md/History/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "History/美麗島事件.md"
+  },
+  {
+    "title": "茄子蛋 EggPlantEgg",
+    "description": "茄子蛋以其獨特的「台式浪漫」搖滾與「浪子」敘事，不僅在音樂市場上取得巨大成功，更重新定義了台語流行音樂的當代面貌，成為台灣文化符號的重要組成。",
+    "category": "Music",
+    "tags": [
+      "獨立音樂",
+      "金曲獎",
+      "台語流行音樂",
+      "浪子三部曲",
+      "台灣文化",
+      "搖滾樂"
+    ],
+    "url": "https://taiwan.md/Music/%E8%8C%84%E5%AD%90%E8%9B%8B",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "Music/茄子蛋.md"
+  },
+  {
     "title": "郁永河",
     "description": "1697年，一個杭州書生自願跑到瘴癘之地台灣採硫磺，從台南徒步走到北投，寫下台灣最早的北部紀實文學",
     "category": "People",
@@ -3842,6 +4103,23 @@
     "path": "Economy/產業轉型與經濟發展軌跡.md"
   },
   {
+    "title": "島の変容：台湾の産業転換と経済発展の歩み",
+    "description": "農業社会からテクノロジー島国家へ。台湾がわずか半世紀で経済奇跡を実現し、世界のハイテク産業を支える重要拠点となるまでの軌跡をたどる",
+    "category": "ja",
+    "tags": [
+      "経済発展",
+      "産業転換",
+      "経済奇跡",
+      "ハイテク産業",
+      "台湾の発展モデル"
+    ],
+    "url": "https://taiwan.md/ja/Economy/industrial-transformation-and-economic-development",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "ja/Economy/industrial-transformation-and-economic-development.md"
+  },
+  {
     "title": "席慕蓉",
     "description": "《七里香》《無怨的青春》作者，華語詩壇最暢銷詩人，蒙古族",
     "category": "People",
@@ -3891,17 +4169,6 @@
     "path": "People/桂綸鎂.md"
   },
   {
-    "title": "氣候",
-    "description": "台灣多樣的亞熱帶季風氣候，從季風系統到颱風，影響島嶼生活的天氣密碼",
-    "category": "Geography",
-    "tags": ["氣候", "季風", "颱風", "梅雨", "氣候變遷", "降雨"],
-    "url": "https://taiwan.md/Geography/%E6%B0%A3%E5%80%99",
-    "readingTime": 15,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "Geography/氣候.md"
-  },
-  {
     "title": "特有種",
     "description": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
     "category": "Nature",
@@ -3914,14 +4181,33 @@
   },
   {
     "title": "翁啟惠",
-    "description": "醣化學世界權威，中研院前院長，諾貝爾獎候選人",
+    "description": "醣化學世界權威，2014年沃爾夫化學獎得主，中研院前院長，因浩鼎案與諾貝爾獎擦肩而過",
     "category": "People",
-    "tags": ["學者", "化學", "中研院", "醣化學", "浩鼎案"],
+    "tags": [
+      "學者",
+      "化學",
+      "中研院",
+      "醣化學",
+      "浩鼎案",
+      "諾貝爾",
+      "沃爾夫獎"
+    ],
     "url": "https://taiwan.md/People/%E7%BF%81%E5%95%9F%E6%83%A0",
-    "readingTime": 6,
+    "readingTime": 15,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-31",
     "path": "People/翁啟惠.md"
+  },
+  {
+    "title": "迷音 Miin",
+    "description": "PTT 創辦人杜奕瑾打造的 AI 新聞聚合平台，用演算法偵測假訊息與協同操作帳號。裴洛西訪台期間，Miin 數據顯示推特上每四個相關帳號就有一個涉及認知操作。但 2025 年，平台因 AI 爬蟲抓取新聞被指控侵權，揭開了 AI 聚合與新聞版權之間的灰色地帶。",
+    "category": "Technology",
+    "tags": ["AI", "假訊息", "數位韌性", "杜奕瑾", "認知作戰"],
+    "url": "https://taiwan.md/Technology/%E8%BF%B7%E9%9F%B3Miin",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "Technology/迷音Miin.md"
   },
   {
     "title": "追垃圾車的島：台灣從垃圾危機到回收奇蹟",
@@ -3978,18 +4264,11 @@
   },
   {
     "title": "國民政府遷台與戰後重建",
-    "description": "探討1949年國民政府遷台的歷史背景、過程與影響，以及戰後台灣的政治、經濟與社會重建",
+    "description": "嚴家淦從福建走來，見證 1949 年國民政府遷台的歷史。120 萬軍民、38 年戒嚴、土地改革——這段歷史如何重塑台灣？",
     "category": "History",
-    "tags": [
-      "國民政府",
-      "政府遷台",
-      "戰後重建",
-      "1949",
-      "國共內戰",
-      "外省移民"
-    ],
+    "tags": [],
     "url": "https://taiwan.md/History/%E5%9C%8B%E6%B0%91%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0%E8%88%87%E6%88%B0%E5%BE%8C%E9%87%8D%E5%BB%BA",
-    "readingTime": 22,
+    "readingTime": 18,
     "featured": true,
     "date": "2026-03-18",
     "path": "History/國民政府遷台與戰後重建.md"
@@ -4074,7 +4353,7 @@
     "category": "Culture",
     "tags": ["文化", "族群", "原住民族", "客家", "閩南", "外省", "新住民"],
     "url": "https://taiwan.md/Culture/%E6%97%8F%E7%BE%A4%EF%BC%88%E9%96%A9%E5%8D%97%E5%AE%A2%E5%AE%B6%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%A4%96%E7%9C%81%E6%96%B0%E4%BD%8F%E6%B0%91%EF%BC%89",
-    "readingTime": 18,
+    "readingTime": 19,
     "featured": false,
     "date": "2026-03-30",
     "path": "Culture/族群（閩南客家原住民外省新住民）.md"
@@ -4096,18 +4375,18 @@
     "category": "History",
     "tags": ["History", "清朝", "開港通商", "牡丹社事件"],
     "url": "https://taiwan.md/History/%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F",
-    "readingTime": 7,
+    "readingTime": 6,
     "featured": false,
     "date": "2026-03-17",
     "path": "History/清治時期.md"
   },
   {
     "title": "荷西明鄭時期",
-    "description": "台灣歷史上首次有系統性的殖民統治，從荷蘭人建立熱蘭遮城到鄭成功開台，奠定漢人移居與政治制度基礎",
+    "description": "1624 年荷蘭人在臺南建立熱蘭遮城，到 1683 年施琅登陸澎湖為止——臺灣被寫進世界貿易地圖的六十年，和四個政權輪替的故事",
     "category": "History",
-    "tags": ["History", "荷蘭東印度公司", "明鄭", "鄭成功"],
+    "tags": [],
     "url": "https://taiwan.md/History/%E8%8D%B7%E8%A5%BF%E6%98%8E%E9%84%AD%E6%99%82%E6%9C%9F",
-    "readingTime": 6,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-17",
     "path": "History/荷西明鄭時期.md"
@@ -4158,13 +4437,13 @@
   },
   {
     "title": "許倬雲",
-    "description": "史學大師，《萬古江河》作者，匹茲堡大學榮休教授",
+    "description": "史學大師，先天殘障卻用兩根手指寫出近四十部著作，《萬古江河》銷量百萬，2024年獲唐獎，2025年辭世",
     "category": "People",
-    "tags": ["歷史學家", "史學", "中國史", "文化史", "學者"],
+    "tags": [],
     "url": "https://taiwan.md/People/%E8%A8%B1%E5%80%AC%E9%9B%B2",
-    "readingTime": 8,
+    "readingTime": 16,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-31",
     "path": "People/許倬雲.md"
   },
   {
@@ -4190,6 +4469,17 @@
     "path": "People/郭台銘.md"
   },
   {
+    "title": "郭正光",
+    "description": "他是 NASA 休士頓詹森太空中心的資深科學家，專門研究太空人吃什麼、喝什麼；但在家鄉台灣的檔案裡，他曾被列為「恐怖份子」黑名單。",
+    "category": "People",
+    "tags": ["郭正光", "NASA", "太空食物", "黑名單", "台灣民主運動"],
+    "url": "https://taiwan.md/People/%E9%83%AD%E6%AD%A3%E5%85%89",
+    "readingTime": 12,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "People/郭正光.md"
+  },
+  {
     "title": "郭泓志",
     "description": "左投悍將，MLB洛杉磯道奇隊，台灣棒球驕傲",
     "category": "People",
@@ -4202,11 +4492,21 @@
   },
   {
     "title": "郭婞淳",
-    "description": "台灣舉重女神，2021 東京奧運金牌得主，59 公斤級三項奧運紀錄保持人",
+    "description": "台灣舉重選手，三屆奧運獎牌得主（2016 銅牌、2021 金牌、2024 銅牌），59 公斤級世界紀錄保持人，阿美族馬蘭部落後裔",
     "category": "People",
-    "tags": ["人物", "郭婞淳", "舉重", "奧運", "金牌", "運動員", "台灣"],
+    "tags": [
+      "人物",
+      "郭婞淳",
+      "舉重",
+      "奧運",
+      "金牌",
+      "運動員",
+      "台灣",
+      "阿美族",
+      "原住民族"
+    ],
     "url": "https://taiwan.md/People/%E9%83%AD%E5%A9%9E%E6%B7%B3",
-    "readingTime": 10,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/郭婞淳.md"
@@ -4217,10 +4517,21 @@
     "category": "Society",
     "tags": ["社會", "歷史", "學生運動", "民主化", "公民運動"],
     "url": "https://taiwan.md/Society/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B",
-    "readingTime": 16,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-23",
     "path": "Society/野百合學運.md"
+  },
+  {
+    "title": "陳士駿",
+    "description": "他八歲離開台灣，二十七歲在美國蓋了一個讓所有人都能上傳影片的地方，二十個月後用十六點五億美元賣掉它，然後腦袋裡長了一顆瘤，然後帶著老婆小孩回來了。",
+    "category": "People",
+    "tags": ["陳士駿", "YouTube", "矽谷", "新創", "就業金卡", "腦瘤"],
+    "url": "https://taiwan.md/People/%E9%99%B3%E5%A3%AB%E9%A7%BF",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "People/陳士駿.md"
   },
   {
     "title": "陳水扁",
@@ -4328,12 +4639,31 @@
     "path": "People/陳偉殷.md"
   },
   {
-    "title": "陳樹菊",
-    "description": "台東菜販的平凡善舉，用一生詮釋什麼是真正的富有",
+    "title": "陳澄波",
+    "description": "他以油畫征服了東京的帝展，卻在嘉義車站前被槍斃——而讓世人知道他的，往往是死亡，不是那些畫。",
     "category": "People",
-    "tags": ["人物", "慈善", "台東", "菜販", "時代雜誌", "富比世", "教育捐款"],
+    "tags": ["藝術", "繪畫", "二二八", "嘉義", "日治時期"],
+    "url": "https://taiwan.md/People/%E9%99%B3%E6%BE%84%E6%B3%A2",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "People/陳澄波.md"
+  },
+  {
+    "title": "陳樹菊",
+    "description": "一個台東菜販，用五十年的菜錢捐了數千萬，卻說自己「就是一個賣菜的」",
+    "category": "People",
+    "tags": [
+      "人物",
+      "慈善",
+      "台東",
+      "菜販",
+      "時代雜誌",
+      "麥格塞塞獎",
+      "教育捐款"
+    ],
     "url": "https://taiwan.md/People/%E9%99%B3%E6%A8%B9%E8%8F%8A",
-    "readingTime": 7,
+    "readingTime": 14,
     "featured": false,
     "date": "2026-03-19",
     "path": "People/陳樹菊.md"
@@ -4380,13 +4710,13 @@
   },
   {
     "title": "曾雅妮",
-    "description": "世界高爾夫球后，LPGA15座冠軍，曾連續109週世界第一",
+    "description": "109週世界第一，LPGA 15冠5大賽，22歲成史上最年輕擁有5座大賽金盃的球員，超越老虎伍茲的紀錄；2025年結束11年冠軍荒，再度封后",
     "category": "People",
-    "tags": ["體育", "高爾夫", "LPGA", "世界第一", "職業高爾夫"],
+    "tags": [],
     "url": "https://taiwan.md/People/%E6%9B%BE%E9%9B%85%E5%A6%AE",
-    "readingTime": 8,
+    "readingTime": 20,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-03-31",
     "path": "People/曾雅妮.md"
   },
   {
@@ -4483,10 +4813,28 @@
     "category": "People",
     "tags": ["人物", "黃仁勳", "NVIDIA", "AI", "半導體", "科技", "台南", "GPU"],
     "url": "https://taiwan.md/People/%E9%BB%83%E4%BB%81%E5%8B%B3",
-    "readingTime": 22,
+    "readingTime": 21,
     "featured": true,
     "date": "2026-03-25",
     "path": "People/黃仁勳.md"
+  },
+  {
+    "title": "黃玉嬌",
+    "description": "1977 年中壢事件的關鍵時刻，她站在警局門口勸群眾不要衝動——這位 58 歲的留日藥師，後來當選四屆省議員、民進黨創黨元老，卻在歷史敘事中長期被忽略。",
+    "category": "People",
+    "tags": [
+      "中壢事件",
+      "黨外運動",
+      "省議會",
+      "民主轉型",
+      "女性政治",
+      "民進黨"
+    ],
+    "url": "https://taiwan.md/People/%E9%BB%83%E7%8E%89%E5%AC%8C",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "People/黃玉嬌.md"
   },
   {
     "title": "黃金時代的餘韻：台灣茶文化的流變與工藝",
@@ -4625,7 +4973,7 @@
       "排灣族"
     ],
     "url": "https://taiwan.md/People/%E6%A5%8A%E5%8B%87%E7%B7%AF",
-    "readingTime": 14,
+    "readingTime": 15,
     "featured": false,
     "date": "2026-03-21",
     "path": "People/楊勇緯.md"
@@ -4744,7 +5092,7 @@
     "category": "Economy",
     "tags": ["Economy", "台灣經濟", "中小企業", "科學園區", "半導體"],
     "url": "https://taiwan.md/Economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
-    "readingTime": 22,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-23",
     "path": "Economy/經濟奇蹟.md"
@@ -4794,6 +5142,17 @@
     "path": "Economy/農業科技與精緻農業.md"
   },
   {
+    "title": "寧願燒盡，不願鏽壞：馬偕與他深愛的福爾摩沙",
+    "description": "從拔牙兩萬顆到創辦女子學堂，加拿大宣教士馬偕如何成為「正港台灣人」，用三十年生命改寫北台灣的醫療、教育與科學探索史。",
+    "category": "People",
+    "tags": ["馬偕", "淡水", "台灣歷史", "醫療", "教育", "自然科學"],
+    "url": "https://taiwan.md/People/%E9%A6%AC%E5%81%95",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "People/馬偕.md"
+  },
+  {
     "title": "漯底山",
     "description": "台灣最靠近海濱的泥火山惡地形，前軍事要塞今為自然公園，擁有活躍噴泥口與絕美海景步道。",
     "category": "Geography",
@@ -4812,6 +5171,25 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Geography/漯底山.md"
+  },
+  {
+    "title": "粽子",
+    "description": "台灣粽子不是一種食物，是四種不同的島嶼記憶疊在一起：閩南、客家、外省、原住民，每一口咬下去的，都是來時路。",
+    "category": "Food",
+    "tags": [
+      "端午節",
+      "飲食文化",
+      "閩南",
+      "客家",
+      "外省",
+      "原住民",
+      "節慶食物"
+    ],
+    "url": "https://taiwan.md/Food/%E7%B2%BD%E5%AD%90",
+    "readingTime": 16,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "Food/粽子.md"
   },
   {
     "title": "臺灣的鯨豚",
@@ -4914,10 +5292,21 @@
     "category": "zh-TW",
     "tags": ["台積電", "半導體", "地緣政治", "企業領導", "張忠謀"],
     "url": "https://taiwan.md/zh-TW/people/%E5%8A%89%E5%BE%B7%E9%9F%B3",
-    "readingTime": 17,
+    "readingTime": 18,
     "featured": false,
     "date": "2026-03-31",
     "path": "zh-TW/people/劉德音.md"
+  },
+  {
+    "title": "噗浪 Plurk",
+    "description": "2008 年上線的微網誌平台噗浪，用橫向捲動的「河道」時間軸和零演算法推播，在 Facebook 與 Twitter 橫掃全球的十年間活了下來。2016 年被 Google 廣告聯播網封鎖後，靠「噗幣」付費會員制轉虧為盈——台灣使用者用新台幣投票，讓這條不被演算法綁架的河道繼續流。",
+    "category": "Culture",
+    "tags": ["社群媒體", "宅文化", "台灣網路史", "噗幣"],
+    "url": "https://taiwan.md/Culture/%E5%99%97%E6%B5%AAPlurk",
+    "readingTime": 8,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "Culture/噗浪Plurk.md"
   },
   {
     "title": "數位身分證與數位政府",
@@ -4976,14 +5365,25 @@
   },
   {
     "title": "蔡英文",
-    "description": "台灣第一位女總統，從學者到政治領袖的民主象徵與歷史開創者",
+    "description": "台灣第一位女總統（2016-2024），國際貿易法學者出身，任內完成亞洲首部同婚專法、代表政府向原住民族道歉，排灣族後裔",
     "category": "People",
-    "tags": ["人物", "蔡英文", "總統", "女性領袖", "民主", "政治"],
+    "tags": ["人物", "蔡英文", "總統", "女性領袖", "民主", "政治", "原住民族"],
     "url": "https://taiwan.md/People/%E8%94%A1%E8%8B%B1%E6%96%87",
-    "readingTime": 17,
+    "readingTime": 16,
     "featured": false,
     "date": "2026-03-17",
     "path": "People/蔡英文.md"
+  },
+  {
+    "title": "蔣中正",
+    "description": "他的銅像正在被搬走，但他奠下的地基——無論你稱之為建設或枷鎖——還在撐著這座島的每一條路、每一間學校、每一次選舉。",
+    "category": "People",
+    "tags": ["政治", "歷史", "戒嚴", "轉型正義", "冷戰"],
+    "url": "https://taiwan.md/People/%E8%94%A3%E4%B8%AD%E6%AD%A3",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "People/蔣中正.md"
   },
   {
     "title": "蔣為文：台語文運動的水牛戰士",
@@ -5187,7 +5587,7 @@
     "category": "People",
     "tags": ["台灣歷史", "清領時期", "民變", "朱一貴", "鴨母王"],
     "url": "https://taiwan.md/People/%E6%9C%B1%E4%B8%80%E8%B2%B4",
-    "readingTime": 5,
+    "readingTime": 4,
     "featured": false,
     "date": "2026-03-24",
     "path": "People/朱一貴.md"
@@ -5221,6 +5621,17 @@
     "featured": true,
     "date": "2026-03-21",
     "path": "People/戴資穎.md"
+  },
+  {
+    "title": "戴資穎",
+    "description": "世界ランキング1位を通算214週維持した記録保持者。高雄・前鎮から五輪銀メダルへたどり着いた台湾バドミントン界の女王。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/People/tai-tzu-ying",
+    "readingTime": 21,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "ja/People/tai-tzu-ying.md"
   },
   {
     "title": "擎天崗的19頭牛：從源興牛到台南牛肉湯，一座島嶼的肉牛突圍",
@@ -5428,35 +5839,37 @@
     "path": "Culture/關聖帝君信仰.md"
   },
   {
-    "title": "嚴長壽",
-    "description": "台灣觀光教父，從亞都麗緻總裁到偏鄉教育推動者",
+    "title": "嚴長壽：郵件室小弟到觀光教父，然後他把一切都丟了",
+    "description": "高中學歷，23 歲在美國運通送信。五年後當上總經理。再五年成為亞洲頂級飯店總裁，發明了「客人還沒下車就叫出名字」的服務系統。60 萬本暢銷書。然後他 62 歲辭職去台東偏鄉辦學校，隔年切了一顆腎。78 歲在太平洋邊蓋了一座藝術園區。",
     "category": "People",
-    "tags": ["人物", "觀光業", "教育", "公益", "飯店業"],
+    "tags": [],
     "url": "https://taiwan.md/People/%E5%9A%B4%E9%95%B7%E5%A3%BD",
-    "readingTime": 10,
+    "readingTime": 23,
     "featured": false,
-    "date": "2026-03-19",
+    "date": "2026-04-06",
     "path": "People/嚴長壽.md"
   },
   {
+    "title": "蘭嶼生態系：黑潮邊境的生命密碼",
+    "description": "蘭嶼不屬於台灣，至少在生物學上如此。這座菲律賓火山島弧最北端的小島，被黑潮帶來的熱帶生命填滿，又在達悟族千年的生態智慧中，找到了人與自然的平衡。",
+    "category": "Nature",
+    "tags": [],
+    "url": "https://taiwan.md/Nature/%E8%98%AD%E5%B6%BC%E7%94%9F%E6%85%8B%E7%B3%BB",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "Nature/蘭嶼生態系.md"
+  },
+  {
     "title": "A History of Taiwanese Literature",
-    "description": "From colonial questions of \\\"Does Taiwan have literature?\\\" to Yang Kui's first Japanese literary prize, from linguistic suppression to polyphonic revival—a 400-year epic of voices finding words, words finding home",
+    "description": "From colonial questions of \"Does Taiwan have literature?\" to Yang Kui''s first Japanese literary prize, from linguistic suppression to polyphonic revival—a 400-year epic of voices finding words, words finding home",
     "category": "en",
-    "tags": [
-      "literature",
-      "history",
-      "culture",
-      "Lai He",
-      "Pai Hsien-yung",
-      "Indigenous literature",
-      "nativist literature",
-      "literary debates"
-    ],
-    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2",
-    "readingTime": 70,
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/history-of-taiwanese-literature",
+    "readingTime": 72,
     "featured": true,
     "date": "2026-03-24",
-    "path": "en/Art/台灣文學史.md"
+    "path": "en/Art/history-of-taiwanese-literature.md"
   },
   {
     "title": "A‑Mei (張惠妹)",
@@ -5509,17 +5922,6 @@
     "path": "en/Economy/agricultural-technology-and-refined-agriculture.md"
   },
   {
-    "title": "AI 島國的崛起：台灣人工智慧發展與未來策略",
-    "description": "台灣從AlphaGo震撼到生成式AI時代，如何運用半導體優勢打造AI生態系，成為全球AI發展的關鍵力量",
-    "category": "Technology",
-    "tags": ["人工智慧", "AI", "半導體", "科技政策", "數位轉型", "小國大戰略"],
-    "url": "https://taiwan.md/Technology/%E5%8F%B0%E7%81%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E7%99%BC%E5%B1%95%E8%88%87%E6%9C%AA%E4%BE%86%E7%AD%96%E7%95%A5",
-    "readingTime": 21,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "Technology/台灣人工智慧發展與未來策略.md"
-  },
-  {
     "title": "AI in Taiwan's Daily Life — When Artificial Intelligence Moves Into Every Street Corner",
     "description": "Taiwanese people interact with AI dozens of times a day, but most have no idea they're talking to a machine",
     "category": "en",
@@ -5564,23 +5966,12 @@
     "path": "en/Art/alien-art-centre.md"
   },
   {
-    "title": "An Island's Transformation: Taiwan's Industrial Upgrading and Economic Trajectory",
-    "description": "From agrarian base to global tech hub, this is Taiwan's half-century journey through export-led growth, industrial upgrading, and the rise of the 'Silicon Shield.'",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/island-transformation-industrial-upgrading-and-economic-trajectory",
-    "readingTime": 31,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Economy/island-transformation-industrial-upgrading-and-economic-trajectory.md"
-  },
-  {
     "title": "André Chiang: Taiwanese Culinary Innovator",
     "description": "Taiwan's international celebrity chef, top 50 world restaurants chef, RAW founder, globally renowned for his 'Octaphilosophy'",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/andre-chiang-taiwanese-culinary-innovator",
-    "readingTime": 29,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/andre-chiang-taiwanese-culinary-innovator.md"
@@ -5598,7 +5989,7 @@
       "cultural-bridge"
     ],
     "url": "https://taiwan.md/en/People/ang-lee",
-    "readingTime": 46,
+    "readingTime": 45,
     "featured": true,
     "date": "2026-03-17",
     "path": "en/People/ang-lee.md"
@@ -5622,23 +6013,6 @@
     "path": "es/People/ang-lee.md"
   },
   {
-    "title": "Annette Lu (Lu Hsiu-lien)",
-    "description": "Pioneer of Taiwan’s women’s movement and the first female vice president in the Chinese-speaking world",
-    "category": "en",
-    "tags": [
-      "people",
-      "politics",
-      "women’s-movement",
-      "vice-president",
-      "Kaohsiung-Incident"
-    ],
-    "url": "https://taiwan.md/en/People/annette-lu",
-    "readingTime": 34,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/annette-lu.md"
-  },
-  {
     "title": "Annette Lu Hsiu-lien",
     "description": "From political prisoner to vice president: The first female vice president in the Chinese-speaking world",
     "category": "en",
@@ -5649,11 +6023,11 @@
       "vice president",
       "Kaohsiung Incident"
     ],
-    "url": "https://taiwan.md/en/People/%E5%91%82%E7%A7%80%E8%93%AE",
+    "url": "https://taiwan.md/en/People/annette-lu",
     "readingTime": 40,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/呂秀蓮.md"
+    "path": "en/People/annette-lu.md"
   },
   {
     "title": "Audrey Tang",
@@ -5798,7 +6172,7 @@
     "category": "en",
     "tags": ["Art", "watercolor", "painting", "水彩", "art history"],
     "url": "https://taiwan.md/en/Art/century-of-taiwanese-watercolor-painting",
-    "readingTime": 35,
+    "readingTime": 33,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Art/century-of-taiwanese-watercolor-painting.md"
@@ -5839,7 +6213,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/che-yu-wu",
-    "readingTime": 31,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/che-yu-wu.md"
@@ -5887,17 +6261,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/chen-shui-bian-controversial-president.md"
-  },
-  {
-    "title": "Chen Wei-yin: Taiwan's MLB Pioneer",
-    "description": "Taiwan's successful Major League Baseball pitcher who brought pride to Taiwan on international baseball's biggest stage",
-    "category": "en",
-    "tags": ["baseball", "MLB", "sports", "athlete", "pitcher"],
-    "url": "https://taiwan.md/en/People/chen-wei-yin-mlb-pitcher",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
     "title": "Chen Yingzhen",
@@ -5983,26 +6346,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/chi-po-lin.md"
-  },
-  {
-    "title": "Chi Po-lin",
-    "description": "How a civil servant who couldn't afford helicopters on his salary mortgaged his house to create Taiwan's most successful documentary",
-    "category": "en",
-    "tags": [
-      "People",
-      "Chi Po-lin",
-      "Documentary",
-      "Beyond Beauty Taiwan from Above",
-      "Director",
-      "Photographer",
-      "Aerial Photography",
-      "Environment"
-    ],
-    "url": "https://taiwan.md/en/People/%E9%BD%8A%E6%9F%8F%E6%9E%97",
-    "readingTime": 41,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/People/齊柏林.md"
   },
   {
     "title": "Chi-Huey Wong: Pioneer of Glycoscience",
@@ -6121,23 +6464,12 @@
     "path": "en/People/chuang-chih-yuan-table-tennis-legend.md"
   },
   {
-    "title": "City Character and Regional Cultures",
-    "description": "How Taiwan’s cities—from Taipei’s global core to Tainan’s old‑capital soul—shape local identity and everyday life",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Geography/city-character-and-regional-cultures",
-    "readingTime": 28,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Geography/city-character-and-regional-cultures.md"
-  },
-  {
     "title": "Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution",
     "description": "When keyboards worldwide look identical, how do different civilizations fit their scripts into 26 English letters? From Taiwan's Zhuyin to Korea's Dubeolsik, input methods are a silent cultural preservation battle",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Technology/east-asian-input-methods",
-    "readingTime": 61,
+    "readingTime": 60,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Technology/east-asian-input-methods.md"
@@ -6228,17 +6560,6 @@
     "path": "en/Music/contemporary-indigenous-singer-songwriters.md"
   },
   {
-    "title": "Contemporary Literature Development in Taiwan",
-    "description": "Exploring the evolution of Taiwanese literature from post-war to the present, spanning Modernism, Nativist Literature, and multicultural narratives.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Art/contemporary-taiwanese-literature-development",
-    "readingTime": 34,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Art/contemporary-taiwanese-literature-development.md"
-  },
-  {
     "title": "Contemporary Pop Music and the Golden Melody Awards",
     "description": "From the 'Mandopop Grammy' to musical pluralism—exploring the innovation and heritage of Taiwan's pop music scene.",
     "category": "en",
@@ -6261,41 +6582,14 @@
     "path": "en/Art/contemporary-sculpture-in-taiwan.md"
   },
   {
-    "title": "Contemporary Taiwan Literature: An Era of Breaking Boundaries and Reconstruction",
-    "description": "",
-    "category": "en",
-    "tags": [
-      "literature",
-      "contemporary",
-      "internationalization",
-      "digital transformation"
-    ],
-    "url": "https://taiwan.md/en/Art/Contemporary%20Taiwan%20Literature",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "en/Art/Contemporary Taiwan Literature.md"
-  },
-  {
-    "title": "Contemporary Taiwanese Literature",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "contemporary", "diversity"],
-    "url": "https://taiwan.md/en/Art/contemporary-taiwanese-literature",
-    "readingTime": 46,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Art/contemporary-taiwanese-literature.md"
-  },
-  {
     "title": "Convenience Store Culture",
-    "description": "Taiwan's world-highest density convenience stores: how they became lifestyle infrastructure beyond retail",
+    "description": "Taiwan's world-highest density convenience stores — how 7-ELEVEN and FamilyMart became 24-hour urban living rooms, not just shops",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Lifestyle/convenience-store-culture",
-    "readingTime": 38,
+    "readingTime": 58,
     "featured": false,
-    "date": "2026-03-17",
+    "date": "2026-03-31",
     "path": "en/Lifestyle/convenience-store-culture.md"
   },
   {
@@ -6304,7 +6598,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/crowd-lu-indie-folk-treasure",
-    "readingTime": 29,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/crowd-lu-indie-folk-treasure.md"
@@ -6315,7 +6609,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Lifestyle/hot-spring-culture",
-    "readingTime": 65,
+    "readingTime": 64,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Lifestyle/hot-spring-culture.md"
@@ -6369,7 +6663,7 @@
       "turismo"
     ],
     "url": "https://taiwan.md/es/Food/night-market-culture",
-    "readingTime": 45,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Food/night-market-culture.md"
@@ -6390,6 +6684,25 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Food/tea-culture.md"
+  },
+  {
+    "title": "Dcard",
+    "description": "一個台南囝仔在台大宿舍為了讓自己比較容易交到朋友而寫出來的網站，變成了台灣年輕人最有影響力的社群平台，然後一邊繼續長大、一邊面對「Dcard 是不是要沒落了」的問題。",
+    "category": "Culture",
+    "tags": [
+      "社群媒體",
+      "台灣新創",
+      "年輕世代",
+      "論壇",
+      "匿名",
+      "大學",
+      "科技"
+    ],
+    "url": "https://taiwan.md/Culture/Dcard",
+    "readingTime": 18,
+    "featured": false,
+    "date": "2026-04-05",
+    "path": "Culture/Dcard.md"
   },
   {
     "title": "Delta Electronics: From 13-Year-Old War Refugee to Space Legend",
@@ -6415,7 +6728,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/democratic-system",
-    "readingTime": 28,
+    "readingTime": 27,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Society/democratic-system.md"
@@ -6426,7 +6739,7 @@
     "category": "es",
     "tags": ["Historia", "Democratización", "Política"],
     "url": "https://taiwan.md/es/History/democratization",
-    "readingTime": 35,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/democratization.md"
@@ -6511,17 +6824,6 @@
     "path": "en/Technology/digital-id-and-digital-government.md"
   },
   {
-    "title": "Digital Identity and Digital Government",
-    "description": "From the NT$526 million New eID compensation storm to the establishment of the Ministry of Digital Affairs: Taiwan's 20-year journey of rebuilding trust in digital governance",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Technology/digital-identity-and-digital-government",
-    "readingTime": 69,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Technology/digital-identity-and-digital-government.md"
-  },
-  {
     "title": "Du Congming: Founder of Modern Medicine in Taiwan",
     "description": "Taiwan's first medical doctor and father of modern medicine in Taiwan",
     "category": "en",
@@ -6543,7 +6845,7 @@
       "Koxinga"
     ],
     "url": "https://taiwan.md/en/History/dutch-spanish-and-koxinga-era",
-    "readingTime": 42,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/History/dutch-spanish-and-koxinga-era.md"
@@ -6676,7 +6978,7 @@
       "Movimiento de Imperialización"
     ],
     "url": "https://taiwan.md/es/History/japanese-colonial-era",
-    "readingTime": 31,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/japanese-colonial-era.md"
@@ -6687,7 +6989,7 @@
     "category": "es",
     "tags": ["historia", "ley marcial", "autoritarismo", "terror blanco"],
     "url": "https://taiwan.md/es/History/martial-law-era",
-    "readingTime": 43,
+    "readingTime": 42,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/martial-law-era.md"
@@ -6698,7 +7000,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/History/dutch-spanish-and-koxinga-era",
-    "readingTime": 47,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/dutch-spanish-and-koxinga-era.md"
@@ -6709,7 +7011,7 @@
     "category": "es",
     "tags": ["Historia", "era prehistórica", "pueblos indígenas"],
     "url": "https://taiwan.md/es/History/prehistoric-era-and-indigenous-peoples",
-    "readingTime": 45,
+    "readingTime": 44,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/prehistoric-era-and-indigenous-peoples.md"
@@ -6720,21 +7022,10 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/ethan-tu",
-    "readingTime": 23,
+    "readingTime": 22,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/People/ethan-tu.md"
-  },
-  {
-    "title": "Ethnic Groups (Minnan, Hakka, Indigenous, Mainlanders, New Immigrants)",
-    "description": "Taiwan's ethnic diversity is not only a result of historical development but also key to understanding contemporary Taiwanese society. This multicultural coexistence social structure is both a source of Taiwan's cultural creativity and an important foundation for democratic political development. How to build a common Taiwanese identity while respecting the cultural characteristics of each ethnic group is an important issue that Taiwanese society continues to face.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/ethnic-groups",
-    "readingTime": 44,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Culture/ethnic-groups.md"
   },
   {
     "title": "Evergreen Marine",
@@ -6752,17 +7043,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "en/Economy/evergreen-marine.md"
-  },
-  {
-    "title": "Experimental and New Media Art in Taiwan",
-    "description": "From video art to VR interactions, explore the innovative development and tech-art ecosystem of Taiwan's new media art.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Art/experimental-and-new-media-art-in-taiwan",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/experimental-and-new-media-art-in-taiwan.md"
   },
   {
     "title": "Fang Hsu-Chung (方序中)",
@@ -6790,35 +7070,11 @@
     "title": "Far Eastern Group: From Shanghai Textile Mill to Taiwan's Most Diversified Business Empire",
     "description": "How did a small textile factory in Shanghai 87 years ago evolve into a Taiwan business empire spanning ten industries with assets exceeding NT$3 trillion? The Far Eastern Group's journey reflects the complete trajectory of Taiwanese businesses from glory to political risk",
     "category": "en",
-    "tags": [
-      "Enterprise",
-      "Conglomerate",
-      "Diversified Business",
-      "Textile Industry",
-      "Taiwanese Business",
-      "Political Risk"
-    ],
-    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E9%81%A0%E6%9D%B1%E9%9B%86%E5%9C%98",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/taiwanese-companies-far-eastern-group",
     "readingTime": 55,
     "featured": false,
     "date": "2026-03-24",
-    "path": "en/Economy/台灣企業：遠東集團.md"
-  },
-  {
-    "title": "Far Eastern Group: Taiwan's Multifaceted Business Empire",
-    "description": "From Shanghai textile beginnings to an 11-industry conglomerate spanning petrochemicals, finance, retail, and telecommunications over 87 years",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Enterprises",
-      "Conglomerates",
-      "Diversified Business",
-      "Textiles"
-    ],
-    "url": "https://taiwan.md/en/Economy/taiwanese-companies-far-eastern-group",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-03-20",
     "path": "en/Economy/taiwanese-companies-far-eastern-group.md"
   },
   {
@@ -6827,7 +7083,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory",
-    "readingTime": 64,
+    "readingTime": 63,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory.md"
@@ -6902,7 +7158,7 @@
       "Incidente Mudan"
     ],
     "url": "https://taiwan.md/es/History/qing-dynasty-rule",
-    "readingTime": 47,
+    "readingTime": 46,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/History/qing-dynasty-rule.md"
@@ -6941,24 +7197,6 @@
     "path": "en/Culture/hakka-culture-and-language.md"
   },
   {
-    "title": "Hakka Culture and Language",
-    "description": "The \"stubborn\" spirit and Tianchuang Festival — How a group misunderstood as \"inflexible\" became Taiwan's most adaptable cultural community",
-    "category": "en",
-    "tags": [
-      "Hakka",
-      "language",
-      "culture",
-      "stubborn spirit",
-      "Liudui",
-      "Tianchuang Festival"
-    ],
-    "url": "https://taiwan.md/en/Culture/%E5%AE%A2%E5%AE%B6%E6%96%87%E5%8C%96%E8%88%87%E8%AA%9E%E8%A8%80",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-24",
-    "path": "en/Culture/客家文化與語言.md"
-  },
-  {
     "title": "Hakka Food Culture",
     "description": "From the nutty aroma of lei cha to wild ginger lily zong, Hakka cuisine preserves a migrant people’s wisdom of thrift, preservation, and cooking with what the land provides.",
     "category": "en",
@@ -6977,6 +7215,17 @@
     "path": "en/Food/hakka-food-culture.md"
   },
   {
+    "title": "Handmade Taiwanese Cuisine",
+    "description": "From Neimen's total-pu-shi density to the human warmth of caiwei tang — Taiwan's roadside banquet culture at its heart",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Food/handmade-taiwanese-cuisine",
+    "readingTime": 42,
+    "featured": true,
+    "date": "2026-03-31",
+    "path": "en/Food/handmade-taiwanese-cuisine.md"
+  },
+  {
     "title": "He Feipeng (何飛鵬)",
     "description": "Founder of Cite Media Group and a key architect of Taiwan’s publishing industry—how He Feipeng guided print culture into the digital age",
     "category": "en",
@@ -6993,32 +7242,10 @@
     "category": "History",
     "tags": [],
     "url": "https://taiwan.md/History/%E5%8F%B0%E7%81%A3%E9%90%B5%E9%81%93%E5%8F%B2.en",
-    "readingTime": 49,
+    "readingTime": 48,
     "featured": false,
     "date": "2026-03-24",
     "path": "History/台灣鐵道史.en.md"
-  },
-  {
-    "title": "History of Taiwan MRT Development",
-    "description": "From the 1996 Muzha Line opening to driverless circular lines, how Taiwan's MRT systems transformed urban landscapes and lifestyles",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/history-of-taiwan-mrt-development",
-    "readingTime": 46,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Lifestyle/history-of-taiwan-mrt-development.md"
-  },
-  {
-    "title": "History of Taiwanese Literature",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "history", "culture"],
-    "url": "https://taiwan.md/en/Art/history-of-taiwanese-literature",
-    "readingTime": 60,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/history-of-taiwanese-literature.md"
   },
   {
     "title": "Hong-Chih Kuo: Taiwan's Left-Handed Ace",
@@ -7046,30 +7273,10 @@
       "healing culture"
     ],
     "url": "https://taiwan.md/en/Lifestyle/hot-spring-culture",
-    "readingTime": 70,
+    "readingTime": 68,
     "featured": false,
     "date": "2026-03-22",
     "path": "en/Lifestyle/hot-spring-culture.md"
-  },
-  {
-    "title": "Hot Spring Culture",
-    "description": "From military therapy to world-class thermal wonders: How Taiwan accidentally became a hot spring empire",
-    "category": "en",
-    "tags": [
-      "lifestyle",
-      "hot springs",
-      "Beitou",
-      "Jiaoxi",
-      "Guanziling",
-      "Japanese colonial period",
-      "geology",
-      "healing culture"
-    ],
-    "url": "https://taiwan.md/en/Lifestyle/%E6%BA%AB%E6%B3%89%E6%96%87%E5%8C%96",
-    "readingTime": 71,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Lifestyle/溫泉文化.md"
   },
   {
     "title": "Hou Hsiao-hsien",
@@ -7081,24 +7288,6 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "en/People/hou-hsiao-hsien.md"
-  },
-  {
-    "title": "Hou Hsiao-hsien",
-    "description": "The master who rejected close-ups yet conquered world cinema — a revolutionary filmmaker who redefined cinematic language",
-    "category": "en",
-    "tags": [
-      "Hou Hsiao-hsien",
-      "Taiwan New Wave",
-      "Venice Golden Lion",
-      "Cannes Film Festival",
-      "Cinema Aesthetics",
-      "Long-take"
-    ],
-    "url": "https://taiwan.md/en/People/%E4%BE%AF%E5%AD%9D%E8%B3%A2",
-    "readingTime": 45,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "en/People/侯孝賢.md"
   },
   {
     "title": "Hou Hsiao-hsien",
@@ -7171,7 +7360,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/huang-chun-ming-taiwanese-literary-master",
-    "readingTime": 46,
+    "readingTime": 45,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/huang-chun-ming-taiwanese-literary-master.md"
@@ -7217,7 +7406,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Society/human-rights-and-gender-equality",
-    "readingTime": 33,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Society/human-rights-and-gender-equality.md"
@@ -7292,43 +7481,15 @@
     "path": "en/Society/indigenous-land-justice-and-traditional-territories.md"
   },
   {
-    "title": "Indigenous Literature",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "indigenous peoples", "oral tradition"],
-    "url": "https://taiwan.md/en/Art/indigenous-literature",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/indigenous-literature.md"
-  },
-  {
-    "title": "Indigenous Literature - Traditions and Revival",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "indigenous", "oral tradition"],
-    "url": "https://taiwan.md/en/Art/indigenous-literature-traditions-and-revival",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/indigenous-literature-traditions-and-revival.md"
-  },
-  {
     "title": "Indigenous Literature of Taiwan",
     "description": "From wordless songs to written works - a thousand-year literary evolution",
     "category": "en",
-    "tags": [
-      "Literature",
-      "Indigenous",
-      "Oral Literature",
-      "Austronesian Languages",
-      "Cultural Revival"
-    ],
-    "url": "https://taiwan.md/en/Art/%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%AD%B8",
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/indigenous-literature",
     "readingTime": 49,
     "featured": false,
     "date": "2026-03-24",
-    "path": "en/Art/原住民文學.md"
+    "path": "en/Art/indigenous-literature.md"
   },
   {
     "title": "Indigenous Music Traditions of Taiwan: Songs as Memory, Ritual, and Living History",
@@ -7347,7 +7508,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/indigenous-peoples-history-and-naming-movement",
-    "readingTime": 33,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/History/indigenous-peoples-history-and-naming-movement.md"
@@ -7378,34 +7539,12 @@
     "title": "Islands and Maritime Culture: From World's Densest Fish Weirs to Flying Fish Season Laws",
     "description": "Less than 600 stone fish weirs exist worldwide—Penghu alone has 574+. A fish-catching island people turned taboos into the most precise ocean resource management system on Earth",
     "category": "en",
-    "tags": [
-      "islands",
-      "maritime culture",
-      "Penghu",
-      "Kinmen",
-      "Matsu",
-      "Green Island",
-      "Orchid Island",
-      "Xiaoliuqiu",
-      "stone weirs",
-      "flying fish season"
-    ],
-    "url": "https://taiwan.md/en/Geography/%E9%9B%A2%E5%B3%B6%E8%88%87%E6%B5%B7%E6%B4%8B%E6%96%87%E5%8C%96",
+    "tags": [],
+    "url": "https://taiwan.md/en/Geography/offshore-islands-and-maritime-culture",
     "readingTime": 61,
     "featured": true,
     "date": "2026-03-22",
-    "path": "en/Geography/離島與海洋文化.md"
-  },
-  {
-    "title": "Jam Hsiao",
-    "description": "Taiwan's 'Rain God,' Golden Melody Award winner who transformed from street performer to international superstar",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/jam-hsiao-rain-god-pop-star",
-    "readingTime": 32,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/People/jam-hsiao-rain-god-pop-star.md"
+    "path": "en/Geography/offshore-islands-and-maritime-culture.md"
   },
   {
     "title": "Jam Hsiao (蕭敬騰)",
@@ -7503,11 +7642,20 @@
   },
   {
     "title": "Jeremy Lin",
-    "description": "From Harvard to an NBA championship, the Taiwanese‑American guard who sparked Linsanity",
+    "description": "State champion with zero scholarship offers, undrafted, waived twice in 15 days — then he became the most talked-about athlete on Earth",
     "category": "en",
-    "tags": ["人物", "籃球", "台裔美國人", "NBA", "林來瘋", "哈佛大學"],
+    "tags": [
+      "人物",
+      "籃球",
+      "台裔美國人",
+      "NBA",
+      "林來瘋",
+      "哈佛大學",
+      "P.League+",
+      "TPBL"
+    ],
     "url": "https://taiwan.md/en/People/jeremy-lin",
-    "readingTime": 23,
+    "readingTime": 39,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/People/jeremy-lin.md"
@@ -7546,26 +7694,8 @@
     "path": "en/People/jj-lin-singaporean-mandopop-king.md"
   },
   {
-    "title": "Jolin Tsai",
-    "description": "The self-proclaimed \"Earth Talent\" who conquered C-Pop through sheer determination over natural gift",
-    "category": "en",
-    "tags": [
-      "people",
-      "singer",
-      "entertainment",
-      "LGBTQ+ rights",
-      "pop music",
-      "Golden Melody Awards"
-    ],
-    "url": "https://taiwan.md/en/People/%E8%94%A1%E4%BE%9D%E6%9E%97",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/People/蔡依林.md"
-  },
-  {
-    "title": "Jolin Tsai (蔡依林)",
-    "description": "The worst dancer in her class spent twenty-five years turning her body into the most expensive stage act in Asia",
+    "title": "Jolin Tsai (蔡依林): Queen of C-Pop and Asia's Most Spectacular Stage Performer",
+    "description": "A dance instructor told her she had no talent. 25 years later, she performs aerial rings 10 meters above the stage with no understudy. Jolin Tsai's career is the story of how discipline defeated genius in pop music.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/jolin-tsai",
@@ -7576,69 +7706,24 @@
   },
   {
     "title": "Kao Chun-ming",
-    "description": "Taiwanese Presbyterian Church pastor, human rights fighter and prisoner of conscience during the martial law period",
-    "category": "en",
-    "tags": [
-      "people",
-      "pastor",
-      "human rights movement",
-      "martial law period",
-      "prisoner of conscience",
-      "presbyterian church"
-    ],
-    "url": "https://taiwan.md/en/People/kao-chun-ming",
-    "readingTime": 43,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/kao-chun-ming.md"
-  },
-  {
-    "title": "Kao Chun-ming",
     "description": "A pastor who risked his life and church for a stranger he barely knew — the faith choice behind the Kaohsiung Incident",
     "category": "en",
-    "tags": [
-      "people",
-      "pastor",
-      "human rights movement",
-      "martial law period",
-      "prisoner of conscience",
-      "Presbyterian Church in Taiwan",
-      "Kaohsiung Incident",
-      "Shih Ming-teh"
-    ],
-    "url": "https://taiwan.md/en/People/%E9%AB%98%E4%BF%8A%E6%98%8E",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/kao-chun-ming",
     "readingTime": 45,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/高俊明.md"
+    "path": "en/People/kao-chun-ming.md"
   },
   {
     "title": "Kevin Lin (Lin Yi-jie)",
     "description": "From rejected track team tryouts to becoming the first person to run across the Sahara Desert on foot",
     "category": "en",
-    "tags": [
-      "people",
-      "ultramarathon",
-      "extreme expeditions",
-      "athlete",
-      "sahara desert",
-      "taiwan pride"
-    ],
-    "url": "https://taiwan.md/en/People/%E6%9E%97%E7%BE%A9%E5%82%91",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/kevin-lin-ultramarathon-desert-pioneer",
     "readingTime": 32,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/林義傑.md"
-  },
-  {
-    "title": "Kevin Lin Yi-jie",
-    "description": "Taiwanese ultramarathon legend who conquered Earth's most extreme environments on foot, first person to run across the Sahara Desert",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/kevin-lin-ultramarathon-desert-pioneer",
-    "readingTime": 40,
-    "featured": false,
-    "date": "2026-03-19",
     "path": "en/People/kevin-lin-ultramarathon-desert-pioneer.md"
   },
   {
@@ -7680,7 +7765,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/kuo-hsing-chun-olympic-weightlifting-champion",
-    "readingTime": 32,
+    "readingTime": 31,
     "featured": false,
     "date": "2026-03-19",
     "path": "en/People/kuo-hsing-chun-olympic-weightlifting-champion.md"
@@ -7703,17 +7788,6 @@
     "path": "es/Art/industria-animacion-digital-taiwan.md"
   },
   {
-    "title": "Lai Ching-te: A public-health doctor who climbed from a mining town to the presidency",
-    "description": "Taiwan’s 16th president and the first sitting vice president elected to the office",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/lai-ching-te",
-    "readingTime": 36,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/People/lai-ching-te.md"
-  },
-  {
     "title": "Largan Precision: When Craftsmanship Meets Architectural Revolution",
     "description": "How the world's strongest plastic lens technology company lost iPhone orders to Chinese rivals, despite technical leadership",
     "category": "en",
@@ -7727,50 +7801,21 @@
       "Architectural Innovation"
     ],
     "url": "https://taiwan.md/en/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution",
-    "readingTime": 79,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md"
-  },
-  {
-    "title": "Largan Precision: When Craftsmanship Meets Architectural Revolution",
-    "description": "How the world leader in plastic camera lens technology lost iPhone orders to Chinese rivals during its peak innovation period.",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Largan",
-      "Optics Industry",
-      "Apple Supply Chain",
-      "Precision Manufacturing",
-      "Innovation"
-    ],
-    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%A4%A7%E7%AB%8B%E5%85%89%E9%9B%BB",
     "readingTime": 77,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/Economy/台灣企業：大立光電.md"
-  },
-  {
-    "title": "Lee Teng-hui",
-    "description": "Architect of Taiwan’s ‘quiet revolution,’ often called ‘Mr. Democracy’ for leading the island’s peaceful democratic transition.",
-    "category": "en",
-    "tags": ["people", "politics", "democratization", "president"],
-    "url": "https://taiwan.md/en/People/lee-teng-hui",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/lee-teng-hui.md"
+    "path": "en/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md"
   },
   {
     "title": "Lee Teng-hui",
     "description": "From agricultural economist to the first democratic leader in the Chinese-speaking world",
     "category": "en",
     "tags": ["People", "Politics", "Democratization", "President"],
-    "url": "https://taiwan.md/en/People/%E6%9D%8E%E7%99%BB%E8%BC%9D",
+    "url": "https://taiwan.md/en/People/lee-teng-hui",
     "readingTime": 49,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/李登輝.md"
+    "path": "en/People/lee-teng-hui.md"
   },
   {
     "title": "Lee Yuan-tseh",
@@ -7819,7 +7864,7 @@
     "category": "en",
     "tags": ["gymnastics", "Olympics", "pommel horse", "athlete", "Taiwan"],
     "url": "https://taiwan.md/en/People/li-chih-kai",
-    "readingTime": 27,
+    "readingTime": 26,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/li-chih-kai.md"
@@ -7849,7 +7894,7 @@
       "taiwan-exhibition"
     ],
     "url": "https://taiwan.md/en/People/li-mei-shu",
-    "readingTime": 35,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/li-mei-shu.md"
@@ -7910,22 +7955,6 @@
     "path": "en/Culture/linguistic-diversity-and-mother-tongue-culture.md"
   },
   {
-    "title": "Literature During Japanese Rule",
-    "description": "",
-    "category": "en",
-    "tags": [
-      "literature",
-      "Japanese colonial period",
-      "colonial literature",
-      "modernism"
-    ],
-    "url": "https://taiwan.md/en/Art/literature-during-japanese-rule",
-    "readingTime": 62,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/literature-during-japanese-rule.md"
-  },
-  {
     "title": "Loanwords and Language Contact in Taiwan",
     "description": "From Bento to Video: The island''s linguistic contact history reveals how Taiwan became the world''s most successful experiment in foreign language integration",
     "category": "en",
@@ -7966,7 +7995,7 @@
       "professional-tennis"
     ],
     "url": "https://taiwan.md/en/People/lu-yen-hsun-tennis-champion",
-    "readingTime": 27,
+    "readingTime": 25,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/lu-yen-hsun-tennis-champion.md"
@@ -7977,7 +8006,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/lung-ying-tai",
-    "readingTime": 42,
+    "readingTime": 41,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/lung-ying-tai.md"
@@ -8039,37 +8068,19 @@
     "path": "en/People/mark-liu.md"
   },
   {
-    "title": "Marriage Equality and Gender Rights in Taiwan",
-    "description": "From a political prisoner under martial law to Asia's first marriage equality law — how one man's 30-year fight redefined love in Taiwan",
-    "category": "en",
-    "tags": [
-      "marriage equality",
-      "LGBTQ+",
-      "human rights",
-      "constitutional law",
-      "Asia first",
-      "Chi Chia-wei"
-    ],
-    "url": "https://taiwan.md/en/Society/%E5%8F%B0%E7%81%A3%E5%90%8C%E5%A9%9A%E8%88%87%E6%80%A7%E5%88%A5%E5%B9%B3%E6%AC%8A",
-    "readingTime": 56,
-    "featured": true,
-    "date": "2026-03-22",
-    "path": "en/Society/台灣同婚與性別平權.md"
-  },
-  {
     "title": "Martial Law Era",
     "description": "The Martial Law Era is a crucial phase for understanding modern Taiwan's political development. This period of authoritarian rule not only profoundly influenced Taiwan's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Taiwan's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address.",
     "category": "en",
     "tags": ["history", "martial law", "authoritarianism", "white terror"],
     "url": "https://taiwan.md/en/History/martial-law-era",
-    "readingTime": 38,
+    "readingTime": 37,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/History/martial-law-era.md"
   },
   {
-    "title": "Mayday",
-    "description": "How five high school students revolutionized the economics of live concerts in Asia",
+    "title": "Mayday (五月天): How Five High School Students Built Asia's Biggest Concert Empire",
+    "description": "30 concerts at Beijing's Bird's Nest. 21 million tickets sold. From a 1997 BBS nickname to a band that fills stadiums across Asia — Mayday rewrote what a rock concert means in the Chinese-speaking world.",
     "category": "en",
     "tags": [
       "people",
@@ -8085,24 +8096,6 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "en/People/mayday-band.md"
-  },
-  {
-    "title": "Mayday (五月天)",
-    "description": "From a high school band in Taipei to a generational symbol of Mandarin rock—how Mayday turned youthful sincerity into Taiwan’s loudest cultural heartbeat",
-    "category": "en",
-    "tags": [
-      "people",
-      "band",
-      "rock",
-      "mandarin-pop",
-      "golden-melody-awards",
-      "live-concerts"
-    ],
-    "url": "https://taiwan.md/en/People/mayday",
-    "readingTime": 25,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/mayday.md"
   },
   {
     "title": "Media and Press Freedom in Taiwan",
@@ -8121,27 +8114,10 @@
     "category": "en",
     "tags": ["Economy", "Business", "Semiconductors", "IC Design", "MediaTek"],
     "url": "https://taiwan.md/en/Economy/mediatek",
-    "readingTime": 40,
+    "readingTime": 39,
     "featured": false,
     "date": "2026-03-25",
     "path": "en/Economy/mediatek.md"
-  },
-  {
-    "title": "Mega Financial Holding: From Colonial Bank to Taiwan's Global Banking Partner",
-    "description": "Inheriting the bloodline of Bank of Taiwan since 1897, through three name changes and two mergers, Mega Financial built a network across 38 countries over 127 years, becoming Taiwan businesses' key partner for global expansion",
-    "category": "en",
-    "tags": [
-      "economy",
-      "companies",
-      "financial-services",
-      "state-owned-banks",
-      "international-banking"
-    ],
-    "url": "https://taiwan.md/en/Economy/mega-financial-holding-taiwan-global-banking",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Economy/mega-financial-holding-taiwan-global-banking.md"
   },
   {
     "title": "Mega Financial Holding: From Japanese Colonial Bank to Global Financial Partner for Taiwanese Businesses",
@@ -8159,17 +8135,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/mega-financial-holding-global-banking-network.md"
-  },
-  {
-    "title": "Metamorphosis of an Island: Taiwan's Industrial Transformation",
-    "description": "From an agrarian society to one of the Four Asian Tigers, and eventually a global technology hub—the story of Taiwan's economic evolution.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Economy/industrial-transformation-taiwanese-economic-trajectory",
-    "readingTime": 26,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Economy/industrial-transformation-taiwanese-economic-trajectory.md"
   },
   {
     "title": "Military Dependents’ Village Cuisine (眷村菜)",
@@ -8232,17 +8197,6 @@
     "path": "en/resources/mini-taiwan-pulse.md"
   },
   {
-    "title": "Modern Poetry in Taiwan",
-    "description": "How three literary societies' radical modernist experiment accidentally sparked Taiwan's most indigenous poetic revolution",
-    "category": "en",
-    "tags": ["literature", "poetry", "modern poetry", "nativist literature"],
-    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E7%8F%BE%E4%BB%A3%E8%A9%A9",
-    "readingTime": 35,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "en/Art/台灣現代詩.md"
-  },
-  {
     "title": "Modern Taiwanese Poetry: The Island's Lyricism",
     "description": "",
     "category": "en",
@@ -8294,23 +8248,6 @@
     "path": "es/People/tsmc-morris-chang.md"
   },
   {
-    "title": "National Parks",
-    "description": "How Taiwan crammed 9 national parks into 36,197 sq km and created the world's most successful high-density conservation miracle",
-    "category": "en",
-    "tags": [
-      "nature",
-      "national parks",
-      "conservation",
-      "tourism",
-      "environment"
-    ],
-    "url": "https://taiwan.md/en/Nature/%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92",
-    "readingTime": 47,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Nature/國家公園.md"
-  },
-  {
     "title": "National Scenic Area System",
     "description": "From the Northeast Coast to Kenting, Taiwan's 13 National Scenic Areas showcase a rich tapestry of natural landscapes and cultural heritage",
     "category": "en",
@@ -8320,28 +8257,6 @@
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Geography/national-scenic-area-system.md"
-  },
-  {
-    "title": "New Media Art",
-    "description": "Taiwan's pioneering exploration in digital art, from laboratories to international stages - the fusion of technology and humanities",
-    "category": "en",
-    "tags": ["art", "new media", "digital art", "tech art", "interactive art"],
-    "url": "https://taiwan.md/en/Art/new-media-art",
-    "readingTime": 58,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Art/new-media-art.md"
-  },
-  {
-    "title": "New Media Art in Taiwan: Digital Creation",
-    "description": "",
-    "category": "en",
-    "tags": ["new-media-art", "digital-art", "tech-art", "generative-art"],
-    "url": "https://taiwan.md/en/Art/taiwanese-new-media-art-digital-creation",
-    "readingTime": 69,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-new-media-art-digital-creation.md"
   },
   {
     "title": "Nieh Yung-jen (聶永真)",
@@ -8356,7 +8271,7 @@
   },
   {
     "title": "Night Market Culture",
-    "description": "164 official night markets, Tainan averages one night market per 38,000 people — from temple plazas to international tourist attractions",
+    "description": "164 official night markets, one for every 38,000 people in Tainan — from kerosene lamp stalls under temple eaves to food destinations that put Taiwan on Michelin's radar",
     "category": "en",
     "tags": [
       "night market",
@@ -8366,9 +8281,9 @@
       "grassroots life"
     ],
     "url": "https://taiwan.md/en/Food/night-market-culture",
-    "readingTime": 65,
+    "readingTime": 62,
     "featured": false,
-    "date": "2026-03-21",
+    "date": "2026-03-31",
     "path": "en/Food/night-market-culture.md"
   },
   {
@@ -8395,7 +8310,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Lifestyle/nightlife-and-ktv-culture",
-    "readingTime": 41,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/Lifestyle/nightlife-and-ktv-culture.md"
@@ -8417,7 +8332,7 @@
     "category": "en",
     "tags": ["resources", "government", "official", "Taiwan.md"],
     "url": "https://taiwan.md/en/resources/official-websites",
-    "readingTime": 55,
+    "readingTime": 53,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/resources/official-websites.md"
@@ -8432,17 +8347,6 @@
     "featured": false,
     "date": "2026-03-17",
     "path": "resources/official-websites.md"
-  },
-  {
-    "title": "Offshore Islands and Maritime Culture",
-    "description": "From Penghu’s basalt reefs to Lanyu’s flying‑fish rituals, Taiwan’s islands reveal an ocean‑rooted way of life",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Geography/offshore-islands-and-maritime-culture",
-    "readingTime": 29,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Geography/offshore-islands-and-maritime-culture.md"
   },
   {
     "title": "Open Source Community and g0v",
@@ -8512,17 +8416,6 @@
     "path": "en/Art/Post-Martial-Law-Taiwan-Literature.md"
   },
   {
-    "title": "Post-Martial Law Taiwanese Literature: An Explosion of Freedom",
-    "description": "",
-    "category": "en",
-    "tags": ["Literature", "Martial Law", "Localization"],
-    "url": "https://taiwan.md/en/Art/post-martial-law-literature-explosion-freedom",
-    "readingTime": 27,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/post-martial-law-literature-explosion-freedom.md"
-  },
-  {
     "title": "Postwar Economic Development",
     "description": "Taiwan's economic miracle journey from an agricultural society to becoming one of the Asian Tigers",
     "category": "en",
@@ -8556,7 +8449,7 @@
     "category": "en",
     "tags": ["History", "prehistoric era", "indigenous peoples"],
     "url": "https://taiwan.md/en/History/prehistoric-era-and-indigenous-peoples",
-    "readingTime": 41,
+    "readingTime": 40,
     "featured": false,
     "date": "2026-03-17",
     "path": "en/History/prehistoric-era-and-indigenous-peoples.md"
@@ -8654,48 +8547,10 @@
       "pragmatism"
     ],
     "url": "https://taiwan.md/en/Lifestyle/religion-and-folk-beliefs",
-    "readingTime": 105,
+    "readingTime": 103,
     "featured": false,
     "date": "2026-03-22",
     "path": "en/Lifestyle/religion-and-folk-beliefs.md"
-  },
-  {
-    "title": "Religion and Folk Beliefs",
-    "description": "From survival pragmatism to spiritual homeland: How Taiwan built the world's densest temple network",
-    "category": "en",
-    "tags": [
-      "lifestyle",
-      "religion",
-      "Mazu",
-      "folk beliefs",
-      "temple culture",
-      "Wang Ye worship"
-    ],
-    "url": "https://taiwan.md/en/Lifestyle/religion-folk-beliefs",
-    "readingTime": 74,
-    "featured": false,
-    "date": "2026-03-21",
-    "path": "en/Lifestyle/religion-folk-beliefs.md"
-  },
-  {
-    "title": "Religion and Folk Beliefs: From Fear Management to Faith Empire",
-    "description": "Taiwan has the worlds highest temple density yet ranks #1 in religious freedom—this paradox reveals the remarkable evolution of 17th-century military migrants survival wisdom",
-    "category": "en",
-    "tags": [
-      "life",
-      "religion",
-      "Mazu",
-      "folk beliefs",
-      "temple culture",
-      "Wangye worship",
-      "religious freedom",
-      "pragmatism"
-    ],
-    "url": "https://taiwan.md/en/Lifestyle/%E5%AE%97%E6%95%99%E8%88%87%E6%B0%91%E9%96%93%E4%BF%A1%E4%BB%B0",
-    "readingTime": 53,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Lifestyle/宗教與民間信仰.md"
   },
   {
     "title": "Renjian Magazine (人間雜誌)",
@@ -8732,22 +8587,11 @@
   },
   {
     "title": "semiconductor-industry",
-    "description": "Taiwan's semiconductor industry, particularly TSMC, is not only a crucial pillar of Taiwan's economy but also plays a ke",
-    "category": "en",
-    "tags": ["technology", "semiconductor", "TSMC", "industry"],
-    "url": "https://taiwan.md/en/Technology/semiconductor-industry",
-    "readingTime": 31,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Technology/semiconductor-industry.md"
-  },
-  {
-    "title": "semiconductor-industry",
     "description": "La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un pilar crucial de la economía de Taiwán, sino que también desempeña un papel clave",
     "category": "es",
     "tags": ["technology", "semiconductor", "TSMC", "industry"],
     "url": "https://taiwan.md/es/Technology/semiconductor-industry",
-    "readingTime": 35,
+    "readingTime": 34,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Technology/semiconductor-industry.md"
@@ -8758,7 +8602,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/shen-sheng-po",
-    "readingTime": 52,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-24",
     "path": "en/People/shen-sheng-po.md"
@@ -8798,7 +8642,7 @@
       "sociedad"
     ],
     "url": "https://taiwan.md/es/Lifestyle/education-system",
-    "readingTime": 65,
+    "readingTime": 63,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Lifestyle/education-system.md"
@@ -8844,17 +8688,6 @@
     "path": "es/Food/beef-noodle-soup.md"
   },
   {
-    "title": "Soundscape of Taiwan",
-    "description": "",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Music/soundscape-of-taiwan",
-    "readingTime": 53,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Music/soundscape-of-taiwan.md"
-  },
-  {
     "title": "Soy Milk and Breakfast Shops in Taiwan",
     "description": "From the Yonghe Soy Milk origin myth to the Mei & Mei franchise empire, Taiwan’s breakfast shops form one of the densest morning cultures in the world.",
     "category": "en",
@@ -8881,50 +8714,22 @@
     "description": "The entrepreneur who admitted to losing billions yet became Taiwan business guru",
     "category": "en",
     "tags": ["People", "Entrepreneur", "Technology", "Acer", "Smiling Curve"],
-    "url": "https://taiwan.md/en/People/%E6%96%BD%E6%8C%AF%E6%A6%AE",
-    "readingTime": 41,
+    "url": "https://taiwan.md/en/People/stan-shih",
+    "readingTime": 40,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/施振榮.md"
-  },
-  {
-    "title": "Stan Shih (施振榮)",
-    "description": "Founder of Acer and the thinker behind the ‘Smiling Curve’—a key strategist of Taiwan’s technology transformation",
-    "category": "en",
-    "tags": [
-      "entrepreneur",
-      "technology",
-      "management",
-      "Acer",
-      "Smiling Curve"
-    ],
-    "url": "https://taiwan.md/en/People/stan-shih",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-19",
     "path": "en/People/stan-shih.md"
   },
   {
-    "title": "Stanley Yen (Yen Chang-shou)",
-    "description": "Taiwan’s ‘godfather of tourism’ who turned luxury hospitality into a platform for rural education",
-    "category": "en",
-    "tags": ["people", "tourism", "education", "philanthropy", "hospitality"],
-    "url": "https://taiwan.md/en/People/stanley-yen",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/People/stanley-yen.md"
-  },
-  {
-    "title": "Startup Ecosystem in Taiwan",
-    "description": "From early challenges to a thriving hub: The evolution of Taiwan's startup ecosystem, accelerators, and the pursuit of unicorns.",
+    "title": "Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up",
+    "description": "High school diploma. Mailroom clerk at 23. General manager at 28. President of Asia's finest boutique hotel at 32 — where he invented a system that greeted every guest by name before they stepped out of the car. 600,000 copies of a bestseller. Then at 62, he quit to build schools in rural Taitung. Then cancer. Then an art center on the Pacific coast.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/Economy/startup-ecosystem",
-    "readingTime": 38,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Economy/startup-ecosystem.md"
+    "url": "https://taiwan.md/en/People/stanley-yen",
+    "readingTime": 69,
+    "featured": false,
+    "date": "2026-04-06",
+    "path": "en/People/stanley-yen.md"
   },
   {
     "title": "Steve Chang (張明正)",
@@ -9105,7 +8910,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/taiwan-breakfast-culture",
-    "readingTime": 52,
+    "readingTime": 51,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Food/taiwan-breakfast-culture.md"
@@ -9132,38 +8937,12 @@
     "title": "Taiwan Cinema: How a Small Island Changed Global Film Language",
     "description": "How did Taiwan, producing fewer than 20 films annually, nurture world-class directors who created more profound artistic impact than major studios?",
     "category": "en",
-    "tags": [
-      "cinema",
-      "new wave",
-      "art",
-      "Hou Hsiao-hsien",
-      "Edward Yang",
-      "Tsai Ming-liang",
-      "Ang Lee",
-      "international film festivals"
-    ],
-    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E9%9B%BB%E5%BD%B1",
-    "readingTime": 57,
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/taiwanese-cinema",
+    "readingTime": 58,
     "featured": true,
     "date": "2026-03-23",
-    "path": "en/Art/台灣電影.md"
-  },
-  {
-    "title": "Taiwan Coastal Landforms and Marine Landscapes",
-    "description": "The Yehliu Queen's Head is thinning at 0.2cm per year and will eventually collapse—this is both the fate and beauty of Taiwan's coastal landforms",
-    "category": "en",
-    "tags": [
-      "coastal landforms",
-      "geology",
-      "Qingshui Cliffs",
-      "Yehliu",
-      "plate tectonics"
-    ],
-    "url": "https://taiwan.md/en/Geography/taiwan-coastal-landforms-marine-landscapes",
-    "readingTime": 31,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Geography/taiwan-coastal-landforms-marine-landscapes.md"
+    "path": "en/Art/taiwanese-cinema.md"
   },
   {
     "title": "Taiwan Coffee Culture",
@@ -9237,25 +9016,6 @@
     "path": "en/Economy/taiwan-companies-chunghwa-telecom.md"
   },
   {
-    "title": "Taiwan Companies: Fubon Financial Holdings",
-    "description": "From 10 employees to 60,000: How the Tsai brothers built Taiwan's largest financial empire over 60 years",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Companies",
-      "Fubon Financial Holdings",
-      "Daniel Tsai",
-      "Financial Industry",
-      "M&A",
-      "Digital Transformation"
-    ],
-    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7",
-    "readingTime": 68,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Economy/台灣企業：富邦金控.md"
-  },
-  {
     "title": "Taiwan Companies: Giant Manufacturing",
     "description": "From abandoned OEM slave to the hidden empire that sets global bicycle technology standards",
     "category": "en",
@@ -9323,76 +9083,14 @@
   },
   {
     "title": "Taiwan Democratization",
-    "description": "On March 18, 1980, Shih Ming-teh abandoned his 60,000-character defense statement in a Kaohsiung military court and asked the judge to sentence him to death. The young lawyers defending the accused—Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang—all became president or premier within twenty years. A show trial meant to crush dissent accidentally manufactured Taiwan's next generation of political leaders.",
+    "description": "On March 18, 1980, Shih Ming-teh abandoned his 60,000-character defense statement in a Kaohsiung military court and asked the judge to sentence him to death. The young lawyers defending the accused — Chen Shui-bian, Hsieh Chang-ting, Su Tseng-chang — all became president or premier within twenty years. A show trial meant to crush dissent accidentally manufactured Taiwan's next generation of political leaders.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/taiwan-democratization",
-    "readingTime": 56,
+    "readingTime": 63,
     "featured": true,
-    "date": "2026-03-27",
+    "date": "2026-03-31",
     "path": "en/History/taiwan-democratization.md"
-  },
-  {
-    "title": "Taiwan Digital Imaging and Animation Industry",
-    "description": "From the world's largest animation outsourcing kingdom to a rising force in original content, Taiwan's half-century journey in digital imaging",
-    "category": "en",
-    "tags": [
-      "digital imaging",
-      "animation",
-      "visual effects",
-      "creative industries",
-      "film industry"
-    ],
-    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-and-animation-industry",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Technology/taiwan-digital-imaging-and-animation-industry.md"
-  },
-  {
-    "title": "Taiwan Digital Imaging and Animation Industry",
-    "description": "From the world's largest animation outsourcing kingdom to a rising force in original content, Taiwan's half-century journey in digital imaging",
-    "category": "en",
-    "tags": [
-      "digital imaging",
-      "animation",
-      "visual effects",
-      "creative industries",
-      "film industry"
-    ],
-    "url": "https://taiwan.md/en/Technology/taiwan-digital-imaging-animation-industry",
-    "readingTime": 22,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Technology/taiwan-digital-imaging-animation-industry.md"
-  },
-  {
-    "title": "Taiwan Diplomatic Allies 2026: International Relations & Current List",
-    "description": "Taiwan has 12 diplomatic allies in 2026 — down from 70. How Taiwan sustains global presence without a UN seat through informal diplomacy, strategic industries, and democratic partnerships.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Society/taiwan-diplomatic-allies-and-international-relations",
-    "readingTime": 25,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Society/taiwan-diplomatic-allies-and-international-relations.md"
-  },
-  {
-    "title": "Taiwan Elections and Party Politics",
-    "description": "From local councilors in 1950 to party alternation in 2000—how Taiwan wrote its democratic transition miracle through ballots",
-    "category": "en",
-    "tags": [
-      "elections",
-      "democratization",
-      "party politics",
-      "Kaohsiung Incident",
-      "party alternation"
-    ],
-    "url": "https://taiwan.md/en/taiwan-elections-and-party-politics",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-21",
-    "path": "en/taiwan-elections-and-party-politics.md"
   },
   {
     "title": "Taiwan Electric Vehicle Industry Chain Development",
@@ -9549,32 +9247,10 @@
       "Bunun"
     ],
     "url": "https://taiwan.md/en/Music/Taiwan%20Folk%20Music%20and%20Songs",
-    "readingTime": 46,
+    "readingTime": 43,
     "featured": false,
     "date": "2026-03-23",
     "path": "en/Music/Taiwan Folk Music and Songs.md"
-  },
-  {
-    "title": "Taiwan Folk Songs and Ballads",
-    "description": "",
-    "category": "en",
-    "tags": ["music", "folk", "ballads"],
-    "url": "https://taiwan.md/en/Music/taiwan-folk-songs-and-ballads",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Music/taiwan-folk-songs-and-ballads.md"
-  },
-  {
-    "title": "Taiwan Folk Songs and Ballads: From Silencing to Global Recognition",
-    "description": "From Guo Yingnan's lawsuit that made headlines worldwide to Pure Pure's 80,000-record sales phenomenon, how Taiwan's voices survived colonial suppression and redefined their identity after democratization",
-    "category": "en",
-    "tags": ["music", "folk songs", "ballads", "indigenous", "taiwanese"],
-    "url": "https://taiwan.md/en/Music/%E5%8F%B0%E7%81%A3%E6%B0%91%E8%AC%A0%E8%88%87%E6%AD%8C%E8%AC%A0",
-    "readingTime": 42,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Music/台灣民謠與歌謠.md"
   },
   {
     "title": "Taiwan Forest Ecosystems",
@@ -9676,17 +9352,6 @@
     "path": "en/Nature/Taiwan Hot Springs and Geothermal Energy.md"
   },
   {
-    "title": "Taiwan Hot Springs and Geothermal Energy",
-    "description": "From Beitou's Roman bath to Green Island's ocean hot spring: how Taiwan's geology shaped a distinctive hot‑spring culture—and a major clean‑energy opportunity",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Nature/taiwan-hot-springs-and-geothermal-energy",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Nature/taiwan-hot-springs-and-geothermal-energy.md"
-  },
-  {
     "title": "Taiwan Hot Springs Landscape",
     "description": "Beitou, Zhiben, Jiaoxi - the beautiful intersection of hot spring culture and geological science",
     "category": "en",
@@ -9702,24 +9367,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Geography/taiwan-hot-springs-landscape.md"
-  },
-  {
-    "title": "Taiwan Hot Springs Landscape",
-    "description": "From 'Witch's Soup' to Global Top-15 Hot Spring Kingdom: How Plate Tectonics Brewed This Island's Healing Code",
-    "category": "en",
-    "tags": [
-      "hot springs",
-      "geology",
-      "volcano",
-      "hot spring culture",
-      "tourism",
-      "plate tectonics"
-    ],
-    "url": "https://taiwan.md/en/Geography/%E5%8F%B0%E7%81%A3%E6%BA%AB%E6%B3%89%E5%9C%B0%E6%99%AF",
-    "readingTime": 64,
-    "featured": false,
-    "date": "2026-03-23",
-    "path": "en/Geography/台灣溫泉地景.md"
   },
   {
     "title": "Taiwan Incense-Making Culture and Heritage Villages",
@@ -9755,49 +9402,15 @@
     "path": "en/History/taiwan-island-historiography.md"
   },
   {
-    "title": "Taiwan Long-term Care Development",
-    "description": "The most advanced long-term care system in the world, coexisting with the largest invisible caregiving network",
-    "category": "en",
-    "tags": [
-      "long-term care",
-      "aging society",
-      "foreign caregivers",
-      "social policy",
-      "institutional contradiction"
-    ],
-    "url": "https://taiwan.md/en/Society/taiwan-long-term-care-development",
-    "readingTime": 54,
-    "featured": false,
-    "date": "2026-03-22",
-    "path": "en/Society/taiwan-long-term-care-development.md"
-  },
-  {
-    "title": "Taiwan Marine Conservation: Battles Against Pollution and Coral Bleaching",
-    "description": "How an island nation fights marine debris and coral bleaching: The story of Taiwan's ocean conservation efforts, from Xiaoliuqiu's sea turtles to national policy.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Nature/taiwan-marine-conservation-and-challenges",
-    "readingTime": 25,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Nature/taiwan-marine-conservation-and-challenges.md"
-  },
-  {
     "title": "Taiwan Marine Conservation: Why 30 Years of Protection Couldn't Stop One Coral Bleaching Event?",
     "description": "In 2020, Taiwan experienced its most severe coral bleaching event in history. From Xiaoliuqiu to Dongsha Atoll, even protected areas saw massive coral die-offs. What went wrong?",
     "category": "en",
-    "tags": [
-      "marine conservation",
-      "environmental protection",
-      "ocean pollution",
-      "coral reefs",
-      "marine national parks"
-    ],
-    "url": "https://taiwan.md/en/Nature/%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E4%BF%9D%E8%82%B2%E8%88%87%E6%8C%91%E6%88%B0",
-    "readingTime": 44,
+    "tags": [],
+    "url": "https://taiwan.md/en/Nature/taiwan-marine-conservation-challenges",
+    "readingTime": 45,
     "featured": true,
     "date": "2026-03-18",
-    "path": "en/Nature/台灣海洋保育與挑戰.md"
+    "path": "en/Nature/taiwan-marine-conservation-challenges.md"
   },
   {
     "title": "Taiwan Marine Ecology",
@@ -9822,24 +9435,6 @@
     "path": "en/Nature/taiwan-marine-ecology.md"
   },
   {
-    "title": "Taiwan Marine Ecology and Coral Reef Conservation",
-    "description": "Taiwan, surrounded by ocean waters, possesses rich marine ecosystems. From coral bleaching crises to cetacean conservation, exploring the protection effectiveness and future challenges of marine national parks",
-    "category": "en",
-    "tags": [
-      "marine ecology",
-      "coral reef conservation",
-      "cetacean conservation",
-      "marine national parks",
-      "marine protected areas",
-      "biodiversity"
-    ],
-    "url": "https://taiwan.md/en/Nature/taiwan-marine-ecology-coral-reef-conservation",
-    "readingTime": 72,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Nature/taiwan-marine-ecology-coral-reef-conservation.md"
-  },
-  {
     "title": "Taiwan Maritime Trade History",
     "description": "Taiwan in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall",
     "category": "en",
@@ -9855,110 +9450,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/History/taiwan-maritime-trade-history.md"
-  },
-  {
-    "title": "Taiwan Michelin Guide and Fine Dining",
-    "description": "In 2018, the red cover of the Michelin Guide was first printed with \"TAIPEI,\" marking Taiwan''s official entry into the international culinary evaluation system. From street-side stalls to starred restaurants, from popular cuisine to fine dining, Taiwan''s culinary culture showcases its captivating blend of tradition and innovation on the international stage.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/taiwan-michelin-fine-dining",
-    "readingTime": 65,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwan-michelin-fine-dining.md"
-  },
-  {
-    "title": "Taiwan Military Dependents' Villages History",
-    "description": "From bamboo fences to cultural heritage - collective memory and identity transformation of Mainlander immigrant military villages",
-    "category": "en",
-    "tags": [
-      "military dependents villages",
-      "Mainlander immigrants",
-      "collective memory",
-      "cultural preservation",
-      "urban renewal"
-    ],
-    "url": "https://taiwan.md/en/History/taiwan-military-dependents-villages-history",
-    "readingTime": 65,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/History/taiwan-military-dependents-villages-history.md"
-  },
-  {
-    "title": "Taiwan National Scenic Areas System",
-    "description": "A tourism-first experiment under the \"National\" label: How 13 scenic areas walk the tightrope between conservation and development",
-    "category": "en",
-    "tags": [
-      "National Scenic Areas",
-      "Tourism Policy",
-      "Environmental Conservation",
-      "Sustainable Tourism",
-      "Land Planning"
-    ],
-    "url": "https://taiwan.md/en/Geography/%E5%8F%B0%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%A2%A8%E6%99%AF%E5%8D%80%E7%B3%BB%E7%B5%B1",
-    "readingTime": 45,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/Geography/台灣國家風景區系統.md"
-  },
-  {
-    "title": "Taiwan New Media Art",
-    "description": "When Huang Hsin-chien's VR work won the Best VR Experience Award at Venice, few knew the truth: this revolution wasn't driven by tech companies, but by artists who write poetry with code. Taiwan's 20-year new media art development reveals another possibility of combining technology with humanities.",
-    "category": "en",
-    "tags": [
-      "new media art",
-      "digital art",
-      "Huang Hsin-chien",
-      "LuxuryLogico",
-      "Venice Biennale",
-      "Taipei Digital Art Festival",
-      "tech art"
-    ],
-    "url": "https://taiwan.md/en/Art/Taiwan%20New%20Media%20Art",
-    "readingTime": 61,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "en/Art/Taiwan New Media Art.md"
-  },
-  {
-    "title": "Taiwan New Media Art",
-    "description": "Exploring the intersection of digital technology and artistic expression on the \"Island of Tech.\"",
-    "category": "en",
-    "tags": ["New Media Art", "Digital Art", "Generative Art", "Tech-Art"],
-    "url": "https://taiwan.md/en/Art/new-media-art-in-taiwan",
-    "readingTime": 48,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/new-media-art-in-taiwan.md"
-  },
-  {
-    "title": "Taiwan Official Website Resources",
-    "description": "Taiwan's most comprehensive directory of official and authoritative websites, covering government agencies, cultural education, tourism, technology, economy, media, and various sectors",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/About/taiwan-official-website-resources",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/About/taiwan-official-website-resources.md"
-  },
-  {
-    "title": "Taiwan Official Websites: From 25 Sites to Digital Government Excellence",
-    "description": "In 1996, Taiwan built 25 government websites for the Internet World Expo. Three decades later, this island nation has become a global digital government benchmark. From online tax filing to open data platforms, discover how Taiwan wrote its digital transformation legend through official websites.",
-    "category": "en",
-    "tags": [
-      "government websites",
-      "digital government",
-      "e-government",
-      "open data",
-      "digital transformation",
-      "Taiwan"
-    ],
-    "url": "https://taiwan.md/en/About/Taiwan%20Official%20Websites",
-    "readingTime": 61,
-    "featured": true,
-    "date": "2026-03-23",
-    "path": "en/About/Taiwan Official Websites.md"
   },
   {
     "title": "Taiwan People Knowledge Base Project — 200 People Initiative",
@@ -9995,41 +9486,21 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Food/Taiwan%20Regional%20Street%20Food%20Map",
-    "readingTime": 47,
+    "readingTime": 46,
     "featured": true,
     "date": "2026-03-24",
     "path": "en/Food/Taiwan Regional Street Food Map.md"
   },
   {
-    "title": "Taiwan Religion and Temple Culture",
-    "description": "From Mazu pilgrimages to Buddhist-Taoist fusion, exploring how Taiwan temples become centers of faith, community, and culture in daily life",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-religion-and-temple-culture",
-    "readingTime": 45,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-religion-and-temple-culture.md"
-  },
-  {
     "title": "Taiwan Roadside Banquet Culture",
     "description": "How an industry that defies quantification became Taiwan's most resilient cultural vessel—from Kangxi era to pandemic winter",
     "category": "en",
-    "tags": [
-      "roadside banquet",
-      "pān-toh",
-      "master chef",
-      "Taiwanese feast",
-      "community culture",
-      "traditional skills",
-      "Neimen",
-      "human connection"
-    ],
-    "url": "https://taiwan.md/en/Food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
+    "tags": [],
+    "url": "https://taiwan.md/en/Food/taiwan-banquet-culture",
     "readingTime": 68,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Food/台灣辦桌文化.md"
+    "path": "en/Food/taiwan-banquet-culture.md"
   },
   {
     "title": "Taiwan Rock: From Underground Rebellion to Mainstream",
@@ -10077,26 +9548,6 @@
     "path": "en/taiwan-semiconductor-industry.md"
   },
   {
-    "title": "Taiwan SMEs and Hidden Champions: 1.7 Million Unsung Heroes Behind Economic Miracle",
-    "description": "The real backbone of Taiwan economy isn not TSMC, but 1.7 million seemingly ordinary SMEs creating 79% of jobs. From 1960s garage startups to today global niche market leaders dominating precision manufacturing worldwide.",
-    "category": "en",
-    "tags": [
-      "SMEs",
-      "Hidden Champions",
-      "Manufacturing",
-      "OEM",
-      "ODM",
-      "Global Supply Chain",
-      "Family Business",
-      "Entrepreneurship"
-    ],
-    "url": "https://taiwan.md/en/Economy/Taiwan%20SMEs%20and%20Hidden%20Champions",
-    "readingTime": 40,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "en/Economy/Taiwan SMEs and Hidden Champions.md"
-  },
-  {
     "title": "Taiwan Strait Crises and Cross-Strait Relations Development",
     "description": "A comprehensive review of three major Taiwan Strait crises and the 77-year evolution of cross-strait relations, understanding the historical context and contemporary challenges of Taiwan Strait tensions",
     "category": "en",
@@ -10130,7 +9581,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Culture/taiwan-tea-ceremony-and-aesthetic-living",
-    "readingTime": 73,
+    "readingTime": 72,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Culture/taiwan-tea-ceremony-and-aesthetic-living.md"
@@ -10157,47 +9608,23 @@
     "title": "Taiwan Theater and Performing Arts",
     "description": "How a 26-year-old literature student created the Chinese-speaking world's first contemporary dance company, and how Peking opera performers made Shakespeare speak Chinese",
     "category": "en",
-    "tags": [
-      "theater",
-      "performing arts",
-      "dance",
-      "Cloud Gate Dance Theatre",
-      "Contemporary Legend Theatre"
-    ],
-    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E5%8A%87%E5%A0%B4%E8%88%87%E8%A1%A8%E6%BC%94%E8%97%9D%E8%A1%93",
-    "readingTime": 46,
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/taiwanese-theater-and-performing-arts",
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/Art/台灣劇場與表演藝術.md"
-  },
-  {
-    "title": "Taiwan Theater and Performing Arts - Island Stage",
-    "description": "",
-    "category": "en",
-    "tags": ["theater", "performing arts", "dance"],
-    "url": "https://taiwan.md/en/Art/taiwan-theater-and-performing-arts-island-stage",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwan-theater-and-performing-arts-island-stage.md"
+    "path": "en/Art/taiwanese-theater-and-performing-arts.md"
   },
   {
     "title": "Taiwan Traditional Arts",
     "description": "The 21st century's greatest cultural industry miracle - How a billion-dollar Pili puppetry empire emerged from village temple performances to become Taiwan's global soft power weapon",
     "category": "en",
-    "tags": [
-      "art",
-      "traditional arts",
-      "puppetry",
-      "opera",
-      "cultural heritage",
-      "intangible cultural assets"
-    ],
-    "url": "https://taiwan.md/en/Art/%E5%8F%B0%E7%81%A3%E5%82%B3%E7%B5%B1%E8%97%9D%E8%A1%93",
+    "tags": [],
+    "url": "https://taiwan.md/en/Art/traditional-arts-of-taiwan",
     "readingTime": 69,
     "featured": true,
     "date": "2026-03-24",
-    "path": "en/Art/台灣傳統藝術.md"
+    "path": "en/Art/traditional-arts-of-taiwan.md"
   },
   {
     "title": "Taiwan Transportation Network",
@@ -10246,6 +9673,17 @@
     "path": "en/Culture/taiwan-youtuber-industry.md"
   },
   {
+    "title": "Taiwan's 12 Diplomatic Allies in 2026: Complete List, History & Why It Keeps Shrinking",
+    "description": "Taiwan has just 12 diplomatic allies in 2026 — down from 70 in 1969. Full list of countries, timeline of losses, and how Taiwan sustains global influence without a UN seat through chip diplomacy, democratic partnerships, and 117 unofficial offices worldwide.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Society/taiwan-diplomatic-allies-and-international-relations",
+    "readingTime": 25,
+    "featured": true,
+    "date": "2026-03-19",
+    "path": "en/Society/taiwan-diplomatic-allies-and-international-relations.md"
+  },
+  {
     "title": "Taiwan's 16 Indigenous Peoples: A Cultural Map",
     "description": "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations",
     "category": "en",
@@ -10263,19 +9701,19 @@
     "path": "en/Culture/indigenous-peoples-16-tribes-cultural-map.md"
   },
   {
-    "title": "Taiwan's 5G Network Construction and Digital Transformation",
-    "description": "From 4G leadership to 5G deployment, exploring Taiwan's national digital transformation strategy and smart application development journey",
+    "title": "Taiwan's 5 Ethnic Groups: Minnan, Hakka, Indigenous, Mainlanders & New Immigrants",
+    "description": "An apology ceremony, a march of ten thousand, 570,000 families who arrived by marriage — Taiwan's ethnic story is far more complicated than 'multicultural harmony' suggests.",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/Technology/5g-network-and-digital-transformation",
-    "readingTime": 70,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Technology/5g-network-and-digital-transformation.md"
+    "url": "https://taiwan.md/en/Culture/ethnic-groups",
+    "readingTime": 74,
+    "featured": false,
+    "date": "2026-03-31",
+    "path": "en/Culture/ethnic-groups.md"
   },
   {
-    "title": "Taiwan's 5G Network Construction and Digital Transformation",
-    "description": "From 4G leadership to 5G deployment, exploring Taiwan's national strategy for digital transformation and smart application development journey",
+    "title": "Taiwan's 5G Revolution: How a Chip Powerhouse Is Building Asia's Smartest Island",
+    "description": "Taiwan launched 5G in 2020 with NT$136.5B in spectrum fees. With TSMC chips inside most 5G base stations worldwide, the island is turning semiconductor dominance into a digital transformation testbed — smart factories, autonomous ports, and AI-powered healthcare.",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Technology/taiwan-5g-digital-transformation",
@@ -10346,17 +9784,6 @@
     "path": "en/Technology/taiwan-audio-industry-development.md"
   },
   {
-    "title": "Taiwan’s Banquet Culture (辦桌)",
-    "description": "From rural celebrations to urban events, the ban‑zhuo tradition and the master chefs who keep Taiwan’s community feasts alive.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/taiwan-banquet-culture",
-    "readingTime": 24,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Food/taiwan-banquet-culture.md"
-  },
-  {
     "title": "Taiwan's Biodiversity Hotspots",
     "description": "Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity",
     "category": "en",
@@ -10414,66 +9841,15 @@
     "path": "en/Nature/taiwan-climate-change-net-zero-transition.md"
   },
   {
-    "title": "Taiwan’s Coastal Landforms and Seascapes: Where Plates, Waves, and People Meet",
-    "description": "From rocky capes in the north to coral reefs in the south, Taiwan’s 1,200 km coastline reveals a living archive of tectonics, ecology, and culture.",
-    "category": "en",
-    "tags": [
-      "coastal landforms",
-      "seascapes",
-      "tectonics",
-      "geology",
-      "Taiwan"
-    ],
-    "url": "https://taiwan.md/en/Geography/taiwan-coastal-landforms-and-seascapes",
-    "readingTime": 29,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Geography/taiwan-coastal-landforms-and-seascapes.md"
-  },
-  {
     "title": "Taiwan's Coastal Landscapes and Marine Geology",
     "description": "A 1,566-kilometer geological epic written by tectonic collision - from vertical cliffs to coral kingdoms, Taiwan's coastline is Earth's youngest geology textbook",
     "category": "en",
-    "tags": [
-      "coastal geomorphology",
-      "marine landscapes",
-      "plate tectonics",
-      "geological processes",
-      "natural scenery"
-    ],
-    "url": "https://taiwan.md/en/Geography/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF",
-    "readingTime": 65,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "en/Geography/台灣海岸地形與海洋地景.md"
-  },
-  {
-    "title": "Taiwan's Coastline and Marine Landscapes",
-    "description": "On Earth, few places let you travel from a nearly 4,000-meter summit to a 7,500-meter ocean trench in under 150 kilometers. Taiwan can. Its coastline is an ongoing collision — terrifyingly beautiful.",
-    "category": "en",
-    "tags": [
-      "coastline",
-      "marine landscapes",
-      "plate tectonics",
-      "geology",
-      "natural heritage"
-    ],
-    "url": "https://taiwan.md/en/Geography/taiwan-coastline-and-marine-landscapes",
-    "readingTime": 34,
-    "featured": true,
-    "date": "2026-03-24",
-    "path": "en/Geography/taiwan-coastline-and-marine-landscapes.md"
-  },
-  {
-    "title": "Taiwan’s Convenience Store Culture",
-    "description": "The world’s densest convenience-store network—7‑Eleven and FamilyMart as neighborhood lifelines that rewired daily life.",
-    "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/taiwan-convenience-store-culture",
-    "readingTime": 30,
+    "url": "https://taiwan.md/en/Geography/taiwan-coastal-landforms-and-seascapes",
+    "readingTime": 64,
     "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Lifestyle/taiwan-convenience-store-culture.md"
+    "date": "2026-03-24",
+    "path": "en/Geography/taiwan-coastal-landforms-and-seascapes.md"
   },
   {
     "title": "Taiwan's Creator Economy: A Fragmented Battlefield of 23 Million",
@@ -10542,39 +9918,21 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger",
-    "readingTime": 62,
+    "readingTime": 61,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/History/taiwan-economic-miracle-from-agriculture-to-asian-tiger.md"
   },
   {
-    "title": "Taiwan's Education System",
-    "description": "",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/education-system",
-    "readingTime": 55,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Lifestyle/education-system.md"
-  },
-  {
     "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
     "description": "Taiwan spent 30 years trying to abolish its brutal university entrance exam system, only to see cram school enrollments double in 2022. How an island repeatedly experiments with balancing exam pressure and educational equity.",
     "category": "en",
-    "tags": [
-      "education",
-      "university entrance exam",
-      "cram schools",
-      "12-year education",
-      "PISA",
-      "exam pressure"
-    ],
-    "url": "https://taiwan.md/en/Lifestyle/%E5%8F%B0%E7%81%A3%E6%95%99%E8%82%B2%E5%88%B6%E5%BA%A6",
+    "tags": [],
+    "url": "https://taiwan.md/en/Lifestyle/taiwan-education-system",
     "readingTime": 67,
     "featured": true,
     "date": "2026-03-23",
-    "path": "en/Lifestyle/台灣教育制度.md"
+    "path": "en/Lifestyle/taiwan-education-system.md"
   },
   {
     "title": "Taiwan's Elections and Party Politics",
@@ -10588,7 +9946,7 @@
       "direct presidential election"
     ],
     "url": "https://taiwan.md/en/History/taiwan-elections-and-party-politics",
-    "readingTime": 59,
+    "readingTime": 58,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/History/taiwan-elections-and-party-politics.md"
@@ -10650,7 +10008,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Economy/taiwan-foreign-trade-and-global-supply-chain",
-    "readingTime": 51,
+    "readingTime": 50,
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Economy/taiwan-foreign-trade-and-global-supply-chain.md"
@@ -10689,34 +10047,6 @@
     "path": "en/Food/hand-shaken-drink-culture.md"
   },
   {
-    "title": "Taiwan's Healthcare and National Health Insurance",
-    "description": "On March 1, 1995, Taiwan's National Health Insurance launched, instantly providing medical coverage to 4 million previously uninsured people—but 29 years later, this miracle faces a financial cliff",
-    "category": "en",
-    "tags": [
-      "National Health Insurance",
-      "Healthcare System",
-      "Health Insurance Card",
-      "Medical Care",
-      "Social Insurance"
-    ],
-    "url": "https://taiwan.md/en/taiwan-healthcare-national-health-insurance",
-    "readingTime": 53,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/taiwan-healthcare-national-health-insurance.md"
-  },
-  {
-    "title": "Taiwan’s Healthcare System and National Health Insurance",
-    "description": "A 99.9% coverage miracle built on solidarity, smart cards, and a relentless push for access",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/taiwan-healthcare-and-national-health-insurance",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Lifestyle/taiwan-healthcare-and-national-health-insurance.md"
-  },
-  {
     "title": "Taiwan’s Ice Culture",
     "description": "From Yujing mango snow to the shaved-ice revolution, why Taiwan eats ice year‑round",
     "category": "en",
@@ -10732,24 +10062,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "en/Food/taiwan-ice-culture.md"
-  },
-  {
-    "title": "Taiwan's Incense-Making Culture and Heritage",
-    "description": "From the century-old incense stick craft in Chiayi Yunxiao Community to the incense industry across Taiwan—an ancient trade about devotion, craftsmanship, and persistence.",
-    "category": "en",
-    "tags": [
-      "Incense Making",
-      "Traditional Crafts",
-      "Religious Culture",
-      "Chiayi",
-      "Incense Sticks",
-      "Folk Beliefs"
-    ],
-    "url": "https://taiwan.md/en/Culture/taiwan-incense-making-culture-heritage",
-    "readingTime": 49,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-incense-making-culture-heritage.md"
   },
   {
     "title": "Taiwan's Indigenous Language Revitalization Movement",
@@ -10774,7 +10086,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Economy/industrial-transformation-from-manufacturing-to-innovation",
-    "readingTime": 55,
+    "readingTime": 54,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Economy/industrial-transformation-from-manufacturing-to-innovation.md"
@@ -10796,7 +10108,7 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Economy/taiwan-international-trade-policy",
-    "readingTime": 49,
+    "readingTime": 48,
     "featured": true,
     "date": "2026-03-19",
     "path": "en/Economy/taiwan-international-trade-policy.md"
@@ -10869,39 +10181,33 @@
       "Taiwan Cuisine",
       "Restaurant Industry"
     ],
-    "url": "https://taiwan.md/en/Food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E5%85%B6%E6%9E%97%E8%88%87%E7%B2%BE%E7%B7%BB%E9%A4%90%E9%A3%B2",
-    "readingTime": 76,
+    "url": "https://taiwan.md/en/Food/taiwan-michelin-fine-dining",
+    "readingTime": 77,
     "featured": true,
     "date": "2026-03-23",
-    "path": "en/Food/台灣米其林與精緻餐飲.md"
+    "path": "en/Food/taiwan-michelin-fine-dining.md"
   },
   {
     "title": "Taiwan's Military Dependents Villages",
     "description": "From Burma's Lost Army to bamboo fence kingdoms: how 1.2 million refugees redefined 'home'",
     "category": "en",
-    "tags": [
-      "military villages",
-      "mainlander migration",
-      "Chinese Civil War",
-      "cultural preservation",
-      "urban renewal"
-    ],
-    "url": "https://taiwan.md/en/History/%E5%8F%B0%E7%81%A3%E7%9C%B7%E6%9D%91%E6%AD%B7%E5%8F%B2",
+    "tags": [],
+    "url": "https://taiwan.md/en/History/taiwan-military-dependents-villages-history",
     "readingTime": 61,
     "featured": true,
     "date": "2026-03-22",
-    "path": "en/History/台灣眷村歷史.md"
+    "path": "en/History/taiwan-military-dependents-villages-history.md"
   },
   {
     "title": "Taiwan's MRT Evolution: A Urban Revolution Written in Blood and Money",
     "description": "A 209-ton steel beam fell from 15 meters killing 4 people, a NT$1.64 billion lawsuit, and even Taipei MRT loses money on operations — the real cost behind Taiwan's metro systems",
     "category": "en",
     "tags": [],
-    "url": "https://taiwan.md/en/Lifestyle/%E5%8F%B0%E7%81%A3%E6%8D%B7%E9%81%8B%E7%99%BC%E5%B1%95%E5%8F%B2",
-    "readingTime": 85,
+    "url": "https://taiwan.md/en/Lifestyle/history-of-taiwan-mrt-development",
+    "readingTime": 83,
     "featured": true,
     "date": "2026-03-23",
-    "path": "en/Lifestyle/台灣捷運發展史.md"
+    "path": "en/Lifestyle/history-of-taiwan-mrt-development.md"
   },
   {
     "title": "Taiwan’s Music Festival Culture: From Spring Scream to a Youth Movement",
@@ -10946,17 +10252,6 @@
     "featured": false,
     "date": null,
     "path": "en/Society/taiwan-neighborhood-and-li-culture.md"
-  },
-  {
-    "title": "Taiwan’s New Religious Movements and Spiritual Culture",
-    "description": "A cultural translation of Taiwan’s postwar religious revival—Buddhist ‘Four Great Mountains,’ Yiguandao, and the ways faith reshaped civic life, charity, and everyday ethics.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwan-new-religious-movements-and-spiritual-culture",
-    "readingTime": 39,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwan-new-religious-movements-and-spiritual-culture.md"
   },
   {
     "title": "Taiwan's Open Source Spirit — The Engineers Powered by Love",
@@ -11005,6 +10300,17 @@
     "path": "en/Society/taiwan-political-landscape-and-electoral-system.md"
   },
   {
+    "title": "Taiwan's Religion and Temple Culture: More Temples Than Convenience Stores",
+    "description": "An island with 15,000 temples — more than its convenience stores. Buddhist, Taoist, and folk deities share the same roof. A million people walk 330 km following a sea goddess. And in 2014, one temple removed every incense burner.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Culture/taiwan-religion-and-temple-culture",
+    "readingTime": 79,
+    "featured": true,
+    "date": "2026-04-06",
+    "path": "en/Culture/taiwan-religion-and-temple-culture.md"
+  },
+  {
     "title": "Taiwan's Reservoirs and Water Resource Management",
     "description": "From water crises to reservoir sedimentation: Taiwan's water resource challenges and regional distribution imbalances",
     "category": "en",
@@ -11022,39 +10328,15 @@
     "path": "en/Geography/taiwan-reservoirs-and-water-resource-management.md"
   },
   {
-    "title": "Taiwan's Rice Cuisine Culture",
-    "description": "Rice-based culinary traditions including zongzi, rice noodles, rice cakes, and mochi, carrying memories of agricultural society and festive cultural significance",
-    "category": "en",
-    "tags": [
-      "rice cuisine",
-      "rice",
-      "traditional culture",
-      "festival foods",
-      "agriculture"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwan-rice-cuisine-culture",
-    "readingTime": 33,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwan-rice-cuisine-culture.md"
-  },
-  {
     "title": "Taiwan's Rice Food Culture",
     "description": "From 85kg to 42kg annually: A rice island nation's dietary revolution and cultural persistence",
     "category": "en",
-    "tags": [
-      "rice food",
-      "rice",
-      "traditional culture",
-      "festival food",
-      "agriculture",
-      "dietary changes"
-    ],
-    "url": "https://taiwan.md/en/Food/%E5%8F%B0%E7%81%A3%E7%B1%B3%E9%A3%9F%E6%96%87%E5%8C%96",
-    "readingTime": 46,
+    "tags": [],
+    "url": "https://taiwan.md/en/Food/taiwan-rice-cuisine-culture",
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Food/台灣米食文化.md"
+    "path": "en/Food/taiwan-rice-cuisine-culture.md"
   },
   {
     "title": "Taiwan’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme",
@@ -11227,23 +10509,6 @@
   },
   {
     "title": "Taiwan's Urban Development and the Rural-Urban Divide",
-    "description": "The uneven development under Taiwan's Six Special Municipalities framework: spatial transformation from agricultural Taiwan to urban Taiwan",
-    "category": "en",
-    "tags": [
-      "urban development",
-      "rural-urban divide",
-      "six special municipalities",
-      "urban renewal",
-      "regional development"
-    ],
-    "url": "https://taiwan.md/en/Geography/taiwan-urban-development-and-rural-urban-divide",
-    "readingTime": 73,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Geography/taiwan-urban-development-and-rural-urban-divide.md"
-  },
-  {
-    "title": "Taiwan's Urban Development and the Rural-Urban Divide",
     "description": "70 years transformed Taiwan from agricultural island to urban island: The light and shadow of six special municipalities concentrating 70% of the population",
     "category": "en",
     "tags": [
@@ -11321,35 +10586,6 @@
     "path": "en/Art/taiwanese-art-education-and-academic-development.md"
   },
   {
-    "title": "Taiwanese Baseball Culture: The National Sport Born of a Miracle",
-    "description": "From the legendary Hongye Little League to the rise of the CPBL, explore how baseball became Taiwan's most beloved sport and a core element of its national identity.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Culture/taiwanese-baseball-culture",
-    "readingTime": 33,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Culture/taiwanese-baseball-culture.md"
-  },
-  {
-    "title": "Taiwanese Beef Noodle Soup",
-    "description": "From immigrant nostalgia to Taiwan\\'s national dish: the cultural fusion and global journey of beef noodle soup",
-    "category": "en",
-    "tags": [
-      "Food",
-      "Beef Noodle Soup",
-      "Mainlander Cuisine",
-      "Cultural Fusion",
-      "Taipei Beef Noodle Festival",
-      "Michelin"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwanese-beef-noodle-soup",
-    "readingTime": 59,
-    "featured": true,
-    "date": "2026-03-17",
-    "path": "en/Food/taiwanese-beef-noodle-soup.md"
-  },
-  {
     "title": "Taiwanese Black Bear",
     "description": "The white V-shaped chest patch is their signature—Taiwan's last mountain monarchs and their unfinished conservation story",
     "category": "en",
@@ -11367,75 +10603,6 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Nature/taiwanese-black-bear.md"
-  },
-  {
-    "title": "Taiwanese Breakfast Culture",
-    "description": "From danbing and shaobing‑youtiao to the global rise of Yonghe Soy Milk, Taiwan’s morning ritual is a living map of migration, innovation, and neighborhood warmth.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Food/taiwanese-breakfast-culture",
-    "readingTime": 26,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Food/taiwanese-breakfast-culture.md"
-  },
-  {
-    "title": "Taiwanese Cinema",
-    "description": "From the artistic awakening of the New Wave to international breakthroughs and contemporary diversity.",
-    "category": "en",
-    "tags": [
-      "Cinema",
-      "New Wave",
-      "Art",
-      "Hou Hsiao-hsien",
-      "Edward Yang",
-      "Ang Lee"
-    ],
-    "url": "https://taiwan.md/en/Art/taiwanese-cinema-from-new-wave-to-international-stage",
-    "readingTime": 41,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-cinema-from-new-wave-to-international-stage.md"
-  },
-  {
-    "title": "Taiwanese Cinema: From New Wave to International Recognition",
-    "description": "",
-    "category": "en",
-    "tags": ["cinema", "new wave", "art"],
-    "url": "https://taiwan.md/en/Art/taiwanese-cinema-from-new-wave-to-international-recognition",
-    "readingTime": 41,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-cinema-from-new-wave-to-international-recognition.md"
-  },
-  {
-    "title": "Taiwanese Cinema: From New Wave to the International Stage",
-    "description": "",
-    "category": "en",
-    "tags": ["cinema", "new wave", "arts"],
-    "url": "https://taiwan.md/en/Art/taiwanese-cinema-new-wave-to-international-stage",
-    "readingTime": 41,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-cinema-new-wave-to-international-stage.md"
-  },
-  {
-    "title": "Taiwanese Cinema: From the New Wave to the Global Stage",
-    "description": "",
-    "category": "en",
-    "tags": [
-      "Cinema",
-      "New Wave",
-      "Art",
-      "Hou Hsiao-hsien",
-      "Edward Yang",
-      "Ang Lee"
-    ],
-    "url": "https://taiwan.md/en/Art/taiwanese-cinema",
-    "readingTime": 43,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-cinema.md"
   },
   {
     "title": "Taiwanese Comics and Illustration",
@@ -11489,24 +10656,6 @@
     "path": "en/Art/taiwanese-curators-and-artistic-cultural-construction.md"
   },
   {
-    "title": "Taiwanese Enterprise: Delta Electronics",
-    "description": "From War Orphan to Space Legend: How NT$300,000 Redefined Global Power Industry",
-    "category": "en",
-    "tags": [
-      "Economy",
-      "Enterprise",
-      "Power Management",
-      "Green Technology",
-      "Industrial Automation",
-      "ESG"
-    ],
-    "url": "https://taiwan.md/en/Economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%8F%B0%E9%81%94%E9%9B%BB%E5%AD%90",
-    "readingTime": 53,
-    "featured": true,
-    "date": "2026-03-22",
-    "path": "en/Economy/台灣企業：台達電子.md"
-  },
-  {
     "title": "Taiwanese Experimental and New Media Art",
     "description": "From video art to VR interactions, exploring Taiwan's innovative development in new media art and its technological art ecosystem",
     "category": "en",
@@ -11527,6 +10676,17 @@
     "path": "en/Art/taiwanese-experimental-and-new-media-art.md"
   },
   {
+    "title": "Taiwanese Guoyue: The Island Sound That Grew from Chinese Instruments",
+    "description": "The erhu and pipa that crossed the Taiwan Strait in 1949 now play Bunun polyphony and Hakka mountain songs. How Taiwan's traditional Chinese orchestra music evolved into a species distinct from the mainland.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Music/taiwanese-traditional-chinese-orchestra-music",
+    "readingTime": 87,
+    "featured": false,
+    "date": "2026-04-04",
+    "path": "en/Music/taiwanese-traditional-chinese-orchestra-music.md"
+  },
+  {
     "title": "Taiwanese Homophone Taboos: Why the Number \"Four\" Makes an Entire Society Skip Floors",
     "description": "From hospitals without fourth floors to license plates selling for $89,000, Taiwanese sensitivity to homophones is unmatched worldwide",
     "category": "en",
@@ -11541,6 +10701,17 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "en/Culture/taiwanese-homophone-taboos.md"
+  },
+  {
+    "title": "Taiwanese Ice Cream Culture",
+    "description": "From Yijing mango shaved ice to snowflake ice revolution, exploring Taiwan's unique winter ice culture",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Food/taiwanese-ice-cream-culture",
+    "readingTime": 32,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "en/Food/taiwanese-ice-cream-culture.md"
   },
   {
     "title": "Taiwanese Indigenous Ecological Wisdom and Environmental Conservation",
@@ -11578,21 +10749,10 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/Culture/taiwanese-life-ceremony-traditions",
-    "readingTime": 82,
+    "readingTime": 81,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Culture/taiwanese-life-ceremony-traditions.md"
-  },
-  {
-    "title": "Taiwanese Literature After Martial Law: An Explosion of Freedom",
-    "description": "The literary renaissance following Taiwan's 1987 lifting of martial law, marking unprecedented creative freedom and diverse expression",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Art/taiwanese-literature-after-martial-law",
-    "readingTime": 37,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Art/taiwanese-literature-after-martial-law.md"
   },
   {
     "title": "Taiwanese Literature During Japanese Rule",
@@ -11606,28 +10766,6 @@
     "path": "en/Art/taiwanese-literature-during-japanese-rule.md"
   },
   {
-    "title": "Taiwanese Literature During the Japanese Colonial Period",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "Japanese colonial period", "colonial literature"],
-    "url": "https://taiwan.md/en/Art/taiwanese-literature-during-japanese-colonial-period",
-    "readingTime": 63,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-literature-during-japanese-colonial-period.md"
-  },
-  {
-    "title": "Taiwanese Modern Poetry: Island Lyricism",
-    "description": "",
-    "category": "en",
-    "tags": ["literature", "poetry", "modern-poetry"],
-    "url": "https://taiwan.md/en/Art/taiwanese-modern-poetry-island-lyricism",
-    "readingTime": 50,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-modern-poetry-island-lyricism.md"
-  },
-  {
     "title": "Taiwanese New Immigrant Culinary Fusion",
     "description": "When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese pho encounters Taiwanese braised delicacies, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not only hometown cuisine but also new possibilities for enriching Taiwan''s food culture.",
     "category": "en",
@@ -11639,45 +10777,10 @@
       "immigrant culture"
     ],
     "url": "https://taiwan.md/en/Food/taiwanese-new-immigrant-culinary-fusion",
-    "readingTime": 78,
+    "readingTime": 74,
     "featured": true,
     "date": "2026-03-20",
     "path": "en/Food/taiwanese-new-immigrant-culinary-fusion.md"
-  },
-  {
-    "title": "Taiwanese New Immigrant Food Fusion",
-    "description": "When Thai sour-spicy meets Taiwan sweet-salty, when Vietnamese pho encounters Taiwanese braised dishes, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not just their homeland cuisines, but brand new possibilities for enriching Taiwanese food culture.",
-    "category": "en",
-    "tags": [
-      "new immigrant cuisine",
-      "Southeast Asian food",
-      "cultural fusion",
-      "diverse dining",
-      "immigrant culture"
-    ],
-    "url": "https://taiwan.md/en/Food/taiwanese-new-immigrant-food-fusion",
-    "readingTime": 78,
-    "featured": true,
-    "date": "2026-03-20",
-    "path": "en/Food/taiwanese-new-immigrant-food-fusion.md"
-  },
-  {
-    "title": "Taiwanese New Media Art: Island Creativity in the Digital Age",
-    "description": "",
-    "category": "en",
-    "tags": [
-      "New Media Art",
-      "Digital Art",
-      "Technology Art",
-      "Generative Art",
-      "VR",
-      "p5.js"
-    ],
-    "url": "https://taiwan.md/en/Art/taiwanese-new-media-art",
-    "readingTime": 56,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-new-media-art.md"
   },
   {
     "title": "Taiwanese Noodle Culture",
@@ -11708,17 +10811,6 @@
     "path": "en/Art/taiwanese-photography.md"
   },
   {
-    "title": "Taiwanese Photography: Light and Shadow of the Island",
-    "description": "",
-    "category": "en",
-    "tags": ["Photography", "Visual Arts", "Documentary"],
-    "url": "https://taiwan.md/en/Art/taiwanese-photography-light-shadow-island",
-    "readingTime": 32,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-photography-light-shadow-island.md"
-  },
-  {
     "title": "Taiwanese Prose Literature",
     "description": "From mainland nostalgia to local identity, from male literati to female-dominated literary landscape. How did the most life-oriented yet hardest-to-define literary form become the vessel of Taiwanese emotional memory?",
     "category": "en",
@@ -11735,17 +10827,6 @@
     "featured": true,
     "date": "2026-03-24",
     "path": "en/Art/taiwanese-prose.md"
-  },
-  {
-    "title": "Taiwanese Prose: The Depth of the Everyday",
-    "description": "",
-    "category": "en",
-    "tags": ["Literature", "Prose", "Life Writing"],
-    "url": "https://taiwan.md/en/Art/taiwanese-prose-depth-of-everyday",
-    "readingTime": 29,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-prose-depth-of-everyday.md"
   },
   {
     "title": "Taiwanese Salt-and-Pepper Fried Chicken (鹹酥雞)",
@@ -11787,40 +10868,6 @@
     "path": "en/Food/taiwanese-street-food.md"
   },
   {
-    "title": "Taiwanese Tea Ceremony and Aesthetic Living",
-    "description": "On the opening night of Wistaria Tea House in 1981, opposition politicians and literati gathered for tea—this wasn't just a tearoom, but a secret base for Taiwan's resistance movement",
-    "category": "en",
-    "tags": [
-      "tea culture",
-      "tea ceremony",
-      "lifestyle aesthetics",
-      "Wistaria Tea House",
-      "tea art"
-    ],
-    "url": "https://taiwan.md/en/Culture/taiwanese-tea-ceremony-and-aesthetic-living",
-    "readingTime": 45,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwanese-tea-ceremony-and-aesthetic-living.md"
-  },
-  {
-    "title": "Taiwanese Tea Ceremony and Lifestyle Aesthetics",
-    "description": "When Wistaria House opened in 1981, opposition figures and intellectuals gathered for tea. This wasn't just a teahouse—it was a secret base for the democracy movement",
-    "category": "en",
-    "tags": [
-      "tea culture",
-      "tea ceremony",
-      "lifestyle aesthetics",
-      "Wistaria House",
-      "teahouses"
-    ],
-    "url": "https://taiwan.md/en/Culture/taiwanese-tea-ceremony-and-lifestyle-aesthetics",
-    "readingTime": 46,
-    "featured": true,
-    "date": "2026-03-18",
-    "path": "en/Culture/taiwanese-tea-ceremony-and-lifestyle-aesthetics.md"
-  },
-  {
     "title": "Taiwanese Tea Culture and Living Aesthetics",
     "description": "A bug-bitten honey aroma, a democracy movement in a Japanese wooden house, and a global bubble tea conquest — how Taiwan turned tea into an entire philosophy of living",
     "category": "en",
@@ -11830,39 +10877,6 @@
     "featured": true,
     "date": "2026-03-25",
     "path": "en/Culture/taiwanese-tea-culture-and-living-aesthetics.md"
-  },
-  {
-    "title": "Taiwanese Theater and Performing Arts",
-    "description": "",
-    "category": "en",
-    "tags": ["theater", "performing arts", "dance"],
-    "url": "https://taiwan.md/en/Art/taiwanese-theater-and-performing-arts",
-    "readingTime": 52,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-theater-and-performing-arts.md"
-  },
-  {
-    "title": "Taiwanese Theater and Performing Arts: Island Stage",
-    "description": "",
-    "category": "en",
-    "tags": ["theater", "performing arts", "dance"],
-    "url": "https://taiwan.md/en/Art/taiwanese-theater-performing-arts-island-stage",
-    "readingTime": 51,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-theater-performing-arts-island-stage.md"
-  },
-  {
-    "title": "Taiwanese Traditional Arts - Folk Treasures",
-    "description": "",
-    "category": "en",
-    "tags": ["art", "traditional", "folk arts"],
-    "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts-folk-treasures",
-    "readingTime": 37,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/taiwanese-traditional-arts-folk-treasures.md"
   },
   {
     "title": "Té de Burbujas",
@@ -11916,24 +10930,6 @@
     "path": "en/People/teresa-teng.md"
   },
   {
-    "title": "Terrain and Geology",
-    "description": "Taiwan’s compact island holds dramatic vertical relief, five mountain ranges, and living plate tectonics that shape its landscapes, hot springs, and seismic life.",
-    "category": "en",
-    "tags": [
-      "geography",
-      "geology",
-      "mountains",
-      "plate-tectonics",
-      "earthquakes",
-      "hot-springs"
-    ],
-    "url": "https://taiwan.md/en/Geography/terrain-and-geology",
-    "readingTime": 28,
-    "featured": false,
-    "date": "2026-03-17",
-    "path": "en/Geography/terrain-and-geology.md"
-  },
-  {
     "title": "Terry Gou",
     "description": "Founder of Hon Hai Precision Industry (Foxconn), world's largest electronics manufacturing services company",
     "category": "en",
@@ -11954,17 +10950,6 @@
     "featured": true,
     "date": "2026-03-20",
     "path": "en/Society/breakfast-shops-and-community-intelligence-network.md"
-  },
-  {
-    "title": "The Buffet Aunties’ Intuitive Pricing",
-    "description": "A human algorithm Taiwan has not fully automated: how the self‑serve buffet auntie prices your plate with a single glance",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Society/the-buffet-aunties-intuitive-pricing",
-    "readingTime": 20,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "en/Society/the-buffet-aunties-intuitive-pricing.md"
   },
   {
     "title": "The Development of Taiwan’s Long‑Term Care System",
@@ -12042,31 +11027,12 @@
     "title": "The Mystical Pricing Algorithm of Taiwan Buffet Aunties",
     "description": "Taiwan's first self-service restaurant in 1962 lasted only two years, but left behind a visual pricing technique that remains AI's greatest challenge",
     "category": "en",
-    "tags": [
-      "buffet",
-      "daily life",
-      "artificial intelligence",
-      "fuzzy logic",
-      "Taiwan culture",
-      "food culture",
-      "technology philosophy"
-    ],
-    "url": "https://taiwan.md/en/Society/%E8%87%AA%E5%8A%A9%E9%A4%90%E9%98%BF%E5%A7%A8%E7%9A%84%E8%AC%8E%E4%B9%8B%E7%9B%AE%E6%B8%AC%E7%B2%BE%E7%AE%97%E8%83%BD%E5%8A%9B",
+    "tags": [],
+    "url": "https://taiwan.md/en/Society/the-buffet-aunties-intuitive-pricing",
     "readingTime": 29,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/Society/自助餐阿姨的謎之目測精算能力.md"
-  },
-  {
-    "title": "The Rise of AI Island: Taiwan's Artificial Intelligence Development and Future Strategy",
-    "description": "From the AlphaGo shock to the generative AI wave, how Taiwan uses 'small nation, big strategy' to find its unique position in artificial intelligence",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/Technology/ai-development",
-    "readingTime": 67,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Technology/ai-development.md"
+    "path": "en/Society/the-buffet-aunties-intuitive-pricing.md"
   },
   {
     "title": "The Rise of AI Island: Taiwan's Artificial Intelligence Development and Future Strategy",
@@ -12096,23 +11062,6 @@
     "featured": true,
     "date": "2026-03-22",
     "path": "en/Society/sunflower-movement.md"
-  },
-  {
-    "title": "Theater and Performing Arts in Taiwan: An Island on Stage",
-    "description": "An exploration of Taiwan's vibrant performing arts scene, from the modern dance revolution of Cloud Gate to the cross-cultural innovations of Contemporary Legend Theatre.",
-    "category": "en",
-    "tags": [
-      "Theater",
-      "Performing Arts",
-      "Dance",
-      "Modern Dance",
-      "Traditional Opera"
-    ],
-    "url": "https://taiwan.md/en/Art/theater-and-performing-arts",
-    "readingTime": 39,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/theater-and-performing-arts.md"
   },
   {
     "title": "They Built a Flying Tower on a Shaking Island",
@@ -12163,7 +11112,7 @@
       "網路論壇"
     ],
     "url": "https://taiwan.md/Technology/Threads%E5%9C%A8%E5%8F%B0%E7%81%A3",
-    "readingTime": 25,
+    "readingTime": 24,
     "featured": true,
     "date": "2026-03-24",
     "path": "Technology/Threads在台灣.md"
@@ -12191,67 +11140,11 @@
       "earthquakes",
       "hot-springs"
     ],
-    "url": "https://taiwan.md/en/Geography/%E5%9C%B0%E5%BD%A2%E8%88%87%E5%9C%B0%E8%B3%AA",
-    "readingTime": 46,
+    "url": "https://taiwan.md/en/Geography/terrain-and-geology",
+    "readingTime": 47,
     "featured": false,
     "date": "2026-03-23",
-    "path": "en/Geography/地形與地質.md"
-  },
-  {
-    "title": "Traditional Arts of Taiwan: Living Vessels of Cultural Memory",
-    "description": "Explore the vibrant world of Taiwan's traditional arts, from the high-tech evolution of Pili Puppetry to the soulful roots of Taiwanese Opera.",
-    "category": "en",
-    "tags": [
-      "Traditional Arts",
-      "Folk Art",
-      "Puppetry",
-      "Taiwanese Opera",
-      "Cultural Heritage"
-    ],
-    "url": "https://taiwan.md/en/Art/traditional-arts-of-taiwan",
-    "readingTime": 38,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/traditional-arts-of-taiwan.md"
-  },
-  {
-    "title": "Traditional Festivals and Celebrations",
-    "description": "From Lunar New Year to Mazu pilgrimage, how Taiwan's traditional festivals connect ancient wisdom with modern life",
-    "category": "en",
-    "tags": [
-      "traditional festivals",
-      "folk customs",
-      "culture",
-      "religion",
-      "celebrations"
-    ],
-    "url": "https://taiwan.md/en/Culture/traditional-festivals-and-celebrations",
-    "readingTime": 43,
-    "featured": true,
-    "date": "2026-03-19",
-    "path": "en/Culture/traditional-festivals-and-celebrations.md"
-  },
-  {
-    "title": "Traditional Taiwanese Arts",
-    "description": "",
-    "category": "en",
-    "tags": ["art", "tradition", "folk-art"],
-    "url": "https://taiwan.md/en/Art/taiwanese-traditional-arts",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-20",
-    "path": "en/Art/taiwanese-traditional-arts.md"
-  },
-  {
-    "title": "Traditional Taiwanese Arts",
-    "description": "",
-    "category": "en",
-    "tags": ["art", "tradition", "folk art"],
-    "url": "https://taiwan.md/en/Art/traditional-taiwanese-arts",
-    "readingTime": 36,
-    "featured": false,
-    "date": "2026-03-18",
-    "path": "en/Art/traditional-taiwanese-arts.md"
+    "path": "en/Geography/terrain-and-geology.md"
   },
   {
     "title": "Trail Culture and Civic Stewardship in Taiwan",
@@ -12371,10 +11264,21 @@
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/People/tung-tzu-hsien-tech-humanist",
-    "readingTime": 29,
+    "readingTime": 28,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/tung-tzu-hsien-tech-humanist.md"
+  },
+  {
+    "title": "Tzuyu",
+    "description": "From a Tainan teenager holding a flag on Korean TV to a geopolitical storm that shook a presidential election — Tzuyu is the TWICE maknae whose story mirrors Taiwan identity itself.",
+    "category": "en",
+    "tags": ["Tzuyu", "TWICE", "Korea", "K-POP", "Flag", "Identify"],
+    "url": "https://taiwan.md/en/People/tzuyu",
+    "readingTime": 42,
+    "featured": false,
+    "date": "2026-04-01",
+    "path": "en/People/tzuyu.md"
   },
   {
     "title": "United Microelectronics Corporation (UMC) - Pioneer of Taiwan's Foundry Industry",
@@ -12416,7 +11320,7 @@
     "category": "es",
     "tags": [],
     "url": "https://taiwan.md/es/Lifestyle/nightlife-and-ktv-culture",
-    "readingTime": 50,
+    "readingTime": 49,
     "featured": false,
     "date": "2026-03-17",
     "path": "es/Lifestyle/nightlife-and-ktv-culture.md"
@@ -12486,29 +11390,22 @@
       "MLB",
       "NPB"
     ],
-    "url": "https://taiwan.md/en/People/%E9%99%B3%E5%81%89%E6%AE%B7",
+    "url": "https://taiwan.md/en/People/chen-wei-yin-mlb-pitcher",
     "readingTime": 29,
     "featured": false,
     "date": "2026-03-22",
-    "path": "en/People/陳偉殷.md"
+    "path": "en/People/chen-wei-yin-mlb-pitcher.md"
   },
   {
     "title": "When Plague Became Fireworks: The Accidental Evolution of Taiwan's Festival Culture",
     "description": "A small town ritual of setting off firecrackers against plague 140 years ago became one of the world's most dangerous folk festivals",
     "category": "en",
-    "tags": [
-      "traditional festivals",
-      "folk customs",
-      "Mazu pilgrimage",
-      "Yanshui Beehive Rockets",
-      "Chinese New Year",
-      "Mid-Autumn BBQ"
-    ],
-    "url": "https://taiwan.md/en/Culture/%E5%82%B3%E7%B5%B1%E7%AF%80%E6%85%B6%E8%88%87%E6%85%B6%E5%85%B8",
-    "readingTime": 49,
+    "tags": [],
+    "url": "https://taiwan.md/en/Culture/traditional-festivals-and-celebrations",
+    "readingTime": 50,
     "featured": true,
     "date": "2026-03-24",
-    "path": "en/Culture/傳統節慶與慶典.md"
+    "path": "en/Culture/traditional-festivals-and-celebrations.md"
   },
   {
     "title": "Why Taiwan Needs Its Own Knowledge Base",
@@ -12616,7 +11513,7 @@
       "Bread"
     ],
     "url": "https://taiwan.md/en/People/wu-bao-chun",
-    "readingTime": 12,
+    "readingTime": 11,
     "featured": false,
     "date": "2026-03-22",
     "path": "en/People/wu-bao-chun.md"
@@ -12778,7 +11675,7 @@
       "educational innovation"
     ],
     "url": "https://taiwan.md/en/People/yeh-ping-cheng-education-innovator",
-    "readingTime": 23,
+    "readingTime": 21,
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/yeh-ping-cheng-education-innovator.md"
@@ -12854,6 +11751,47 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "en/Society/zoo-and-exhibition-animal-ethics.md"
+  },
+  {
+    "title": "대만의 야시장 문화",
+    "description": "관리 대상 야시장 164곳, 타이난은 평균 3만 8천 명당 1곳. 사원 앞마당에서 국제 관광 명소로 이어진 대만 야시장의 역사",
+    "category": "ko",
+    "tags": ["야시장", "길거리 음식", "문화", "관광", "서민 생활"],
+    "url": "https://taiwan.md/ko/Food/night-market-culture",
+    "readingTime": 35,
+    "featured": false,
+    "date": "2026-03-21",
+    "path": "ko/Food/night-market-culture.md"
+  },
+  {
+    "title": "쩐주나이차(珍珠奶茶)",
+    "description": "1987년 타이중의 한 직원 회의에서 나온 무심한 한 동작이 전 세계를 사로잡는 음료를 만들었다. 쩐주나이차의 기원 논쟁, 문화 정치, 그리고 한 잔의 500킬로칼로리를 둘러싼 건강 논쟁.",
+    "category": "ko",
+    "tags": [
+      "음식",
+      "쩐주나이차",
+      "버블티",
+      "테이크아웃 음료",
+      "세계화",
+      "소프트파워",
+      "문화외교"
+    ],
+    "url": "https://taiwan.md/ko/Food/bubble-tea",
+    "readingTime": 29,
+    "featured": false,
+    "date": "2026-03-30",
+    "path": "ko/Food/bubble-tea.md"
+  },
+  {
+    "title": "オープンソースコミュニティとg0v",
+    "description": "2020年2月、世界中でマスクの買い占めが起きていたころ、台湾のプログラマーたちは72時間で、全国13,000か所の薬局や店舗の在庫を調べられる「マスクマップ」を立ち上げました。政府の命令も、潤沢な予算もありませんでした。あったのは、コードで社会を変えられるという信念だけ。g0v（零時政府）は、そんな「政府をforkする」発想から生まれた、市民による不思議で力強い実験です。",
+    "category": "ja",
+    "tags": ["Technology", "開源社群", "g0v", "公民科技"],
+    "url": "https://taiwan.md/ja/Technology/open-source-community-and-g0v",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-03-23",
+    "path": "ja/Technology/open-source-community-and-g0v.md"
   },
   {
     "title": "コンビニ文化",

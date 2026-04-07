@@ -331,6 +331,5 @@ When you next lift a tea cup, consider the mindfulness of Taiwan tea people, fee
 
 ## Further Reading
 
-- [[traditional-festivals-and-celebrations]] - Understanding tea culture's role in traditional festivals
-- [[taiwan-religion-and-temple-culture]] - Exploring connections between tea ceremony and religious culture
-- [[Taiwan Wedding, Funeral, and Life Ritual Customs]] - Understanding tea's importance in life rituals
+- [traditional-festivals-and-celebrations](/culture/traditional-festivals-and-celebrations) - Understanding tea culture's role in traditional festivals
+- [taiwan-religion-and-temple-culture](/culture/taiwan-religion-and-temple-culture) - Exploring connections between tea ceremony and religious culture

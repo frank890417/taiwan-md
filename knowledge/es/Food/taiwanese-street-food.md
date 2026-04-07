@@ -96,7 +96,7 @@ La comida callejera taiwanesa lleva recuerdos de la vida de la gente común e id
 
 ## Temas Relacionados
 
-- [[night-market-culture]]
-- [[tea-culture]]
-- [[ethnic-groups]]
-- [[convenience-store-culture]]
+- [night-market-culture](/food/night-market-culture)
+- [tea-culture](/food/tea-culture)
+- [ethnic-groups](/culture/ethnic-groups)
+- [convenience-store-culture](/lifestyle/convenience-store-culture)

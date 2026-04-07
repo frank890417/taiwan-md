@@ -135,6 +135,5 @@ Jensen Huang now has a corporate logo permanently inked on his skin. His NVIDIA 
 
 ## See Also
 
-- [[tsmc-morris-chang]]: NVIDIA's most critical partner, founder of TSMC
-- [[tsmc]]: Manufacturer of the world's most advanced AI chips
-- [[Science Parks]]: The foundation of Taiwan's semiconductor ecosystem
+- [tsmc-morris-chang](/people/tsmc-morris-chang): NVIDIA's most critical partner, founder of TSMC
+- [tsmc](/economy/tsmc): Manufacturer of the world's most advanced AI chips

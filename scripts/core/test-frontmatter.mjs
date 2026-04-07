@@ -33,7 +33,7 @@ const CATEGORIES = [
   'Economy',
   'Lifestyle',
 ];
-const LANGS = ['', 'en', 'es', 'ja']; // '' = zh-TW root
+const LANGS = ['', 'en', 'es', 'ja', 'ko']; // '' = zh-TW root
 
 const STRICT = process.argv.includes('--strict');
 const CI_MODE = process.argv.includes('--ci');

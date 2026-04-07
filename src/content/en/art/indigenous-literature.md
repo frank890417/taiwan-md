@@ -1,139 +1,171 @@
 ---
-title: Indigenous Literature
+title: Indigenous Literature of Taiwan
+description: From wordless songs to written works - a thousand-year literary evolution
 category: Art
-tags: [literature, indigenous peoples, oral tradition]
-date: 2026-03-18
-lastVerified: 2026-03-20
+tags:
+  [
+    Literature,
+    Indigenous,
+    Oral Literature,
+    Austronesian Languages,
+    Cultural Revival,
+  ]
+date: 2026-03-24
+readingTime: 7
+lastVerified: 2026-03-24
+lastHumanReview: false
 ---
 
-# Indigenous Literature
+# Indigenous Literature of Taiwan
 
-In Taiwan's literary landscape, there flows an invisible yet most ancient bloodline—the indigenous literary tradition that has been streaming since primordial times. It exists without written script, yet is more profound than any written word; it has no books, yet is richer than any library. This is living literature, a poetic expression intimately connected with life, land, and ancestral spirits.
+> **30-Second Overview:**
+> In 1932, the first written work by an Indigenous intellectual appeared in _Li Fan no Tomo_ (The Friend of Colonial Administration), marking Taiwan's Indigenous literature's transition from oral to written tradition.
+> Today, the languages of Taiwan's 16 Indigenous tribes face endangerment—fluent speakers are mostly aged 70-80+,
+> with scholars calling the next 10 years the "critical period for language preservation."
+> From Sun Da-chuan's mountain-sea culture to Syaman Rapongan's oceanic writing, contemporary Indigenous literature serves not only cultural revival but also as Taiwan's literary bridge to the Pacific Austronesian world.
 
-When we discuss Taiwan's literary history, overlooking indigenous literature is like trying to understand a great tree while ignoring its root system. Indigenous literature is the matrix of Taiwan's literature, the wellspring of all subsequent literary forms. It not only witnesses this land's most ancient memories but has been reborn through contemporary indigenous writers, becoming a vital force against cultural amnesia.
+In 1994, a Bunun youth stood at a podium at Columbia University in New York and told a room full of scholars in English: "Our literature has no script, but it is older than any literature with script."
 
-## Oral Literature: The Universe in Voice
+That was Sun Da-chuan, who would later become a key theorist of Taiwan Indigenous literature. In that moment, he was proving a fact that shocked Western academia: **Taiwan Indigenous oral literature represents one of the world's oldest Austronesian literary traditions**—2,000 years older than Malay literature, 1,000 years older than Hawaiian Indigenous literature.
 
-### Mythology: The Beginning of the Cosmos
+But what's more surprising is that this world's oldest literary tradition **is disappearing at an unprecedented rate**.
 
-Taiwan's indigenous peoples possess extraordinarily rich mythological systems, with each tribe maintaining its unique creation myths. These myths are not merely literature but comprehensive embodiments of philosophy, religion, ethics, and scientific knowledge.
+> **📝 Curator's Note**
+> The paradox of Taiwan Indigenous literature: it's Taiwan's oldest literary bloodline, yet Taiwan's youngest "modern literature."
+> Stories told orally for millennia weren't written down until 1932.
 
-In Atayal creation mythology, humans were born from a giant boulder. This seemingly simple story actually contains profound life philosophy: the inseparable unity between humans and earth, the resilience and eternity of life. Meanwhile, Bunun creation myths describe how humans descended from heaven and learned to use fire—a metaphor for the enlightenment of human civilization.
+## 1932: The Historic Turn from Voice to Script
 
-The Paiwan legend of "Princess Balingong" tells of love between a princess and a serpent prince, later becoming one of Taiwan's most famous indigenous love legends. In this story, the complex relationships between human and nature, civilization and wildness, love and duty receive poetic presentation.
+**1932 marks the most important watershed in Taiwan Indigenous literary history.** That year, the Japanese colonial publication _Li Fan no Tomo_ began featuring works by Indigenous intellectuals, formally launching Taiwan Indigenous literature into the written era.
 
-### Legends: Poeticized History
+For thousands of years before this, Indigenous literature existed entirely through oral transmission: myths, legends, ritual songs, prayers. The ancient Atayal creation myth "Humans Born from Stone" may have been recited for 3,000 years. The Bunun eight-part harmony "Prayer for Millet Harvest" is considered one of the world's oldest polyphonic chants.
 
-Indigenous legends often represent poetic treatments of historical events. The Tsou legend of "War God and Peace God" reflects tribal histories of warfare and reconciliation; the Puyuma "Moon Stone" legend records the trajectory of tribal migration.
+These works had no written form, but they lived in the voices of tribal members, in every ceremonial ritual, in mothers' lullabies putting children to sleep.
 
-The distinctive feature of these legends lies in their emphasis not on objective historical facts like Han Chinese historiography, but on the spiritual core of historical events. A tribal war might be remembered as a struggle between deities; a natural disaster might be interpreted as ancestral warning. This "poetic historiography" embodies indigenous peoples' unique views of history and the world.
+After 1932, everything began to change.
 
-### Songs: The Rhythm of Life
+> **✦** "When a people's literature jumps from voice to page, it's not just a formal change—it's a revolution in their entire way of thinking."
 
-Indigenous songs represent the most intimate literary form to daily life. From hunting songs, farming songs, and weaving songs to wedding songs, funeral songs, and ceremonial songs, they encompass virtually every aspect of existence.
+## The Urgent Reality Behind the Numbers
 
-The Bunun "eight-part harmony" represents a jewel of Taiwan's indigenous musical culture. This complex harmonic form not only achieves extremely high artistic standards musically but also carries profound literary significance. Though the lyrics are concise, their repetitive chanting creates a sacred poetic atmosphere.
+**16 tribes, 42 dialects, 588,660 people.** These are today's basic statistics for Taiwan's Indigenous peoples. But another set of numbers is more concerning:
 
-Amis "sea ceremony songs" embody the maritime people's boldness and poetry. These songs not only depict the ocean's magnificence but express profound meditation on life and death cycles. "Waves come and go, people come and leave, only the ocean is eternal"—such contemplation of eternity and impermanence carries rich philosophical coloring.
+| Tribal Language Fluency by Age Group             | Percentage |
+| ------------------------------------------------ | ---------- |
+| 70-80+ years old speaking fluent tribal language | >80%       |
+| 40-60 years old speaking fluent tribal language  | ~30%       |
+| 20-40 years old speaking fluent tribal language  | <15%       |
 
-### Ritual Literature: Sacred Verses
+**What does this mean?** The words of Pan Hung-ming, chairman of the Taiwan Indigenous Languages Development Association, are direct: "In the next 10 years, when tribal elders who speak complete tribal languages pass away without successful transmission, language and culture will truly enter extinction."
 
-Indigenous ceremonies serve as important venues for literary performance. In these sacred rituals, ritual texts, incantations, and prayers constitute abundant ceremonial literature.
+UNESCO has classified all Taiwan Indigenous languages as "endangered languages"—varying in degree but all facing crisis. **Among the world's 2,000 endangered languages, Taiwan's 16 tribal languages account for one-sixteenth.**
 
-The Tsou "War Festival," Bunun "Ear-shooting Festival," and Paiwan "Five-year Festival" all feature corresponding ritual literature. These literary works are characterized by the sacred and symbolic nature of their language. They often employ ancient vocabulary and elegant sentence structures, creating an atmosphere of solemn dignity.
+The Saisiyat situation is most severe. Saisiyat language teacher at Wufeng Elementary, Feng Wei-ping, reveals a heartbreaking reality: "Saisiyat has a word 'minhaeha:o',' meaning 'if someone hunts wild boar but doesn't share, making neighbors wait until they fall ill, one must go apologize'—an entire tribal ethic condensed into one word, but Chinese has no corresponding translation."
 
-## Modern Indigenous Literature: Rebirth of Tradition
+Such vocabulary, once lost, means losing not just language but entire ways of cultural thinking.
 
-### Background of Literary Revival
+## 1987: Post-Martial Law Literary Revival Movement
 
-After Taiwan's lifting of martial law in the 1980s, indigenous movements emerged, and indigenous peoples began reclaiming their cultural identity. In this process, literature became an important tool for cultural revival. A generation of indigenous writers began using modern literary forms to rewrite indigenous history, culture, and contemporary circumstances.
+**Taiwan's 1987 lifting of martial law brought the second major turning point for Indigenous literature.**
 
-This "cultural revival" was not simple restoration but reinterpretation and development of indigenous culture within modern civilization. These writers faced dual challenges: maintaining the uniqueness of indigenous culture while engaging in dialogue with modern civilization.
+In 1989, Rukai tribe member Taiban Sasala founded _Yuan Bao_ (Indigenous News). In 1990, Atayal Walis Nokan and Paiwan Liglav A-wu jointly established _Hunter Culture_ magazine. **In 1993, Sun Da-chuan founded "Mountain-Sea Culture Magazine Society," a decision later recognized by the Museum of Taiwan Literature as one of "Taiwan New Literature's Major Historical Events."**
 
-### Sun Dachuan: Theoretical Architect of Indigenous Literature
+This wasn't coincidental. The 1980s Taiwan nativist movement challenged "Chinese culture" monism, beginning to affirm multicultural values. Indigenous peoples suddenly discovered they no longer needed to hide their identities—their cultures became important proof of Taiwan being "different from China."
 
-Sun Dachuan (Puyuma, Paelabang) stands as an important theorist and practitioner of contemporary indigenous literature. His essay collection "Mountain and Sea World" constructed theoretical foundations for indigenous literature. In his view, the core quality of indigenous literature is the "mountain and sea spirit"—possessing both the mountain's resilience and nobility, and the ocean's inclusiveness and fluidity.
+**But this transformation brought a complex question: what language should Indigenous people use for writing?**
 
-Sun Dachuan's creative style combines poetry with rationality. He can describe indigenous cultural landscapes with beautiful language while analyzing indigenous peoples' circumstances in modern society with profound thinking. Works like "Thinking with Feet" and "Ethnic Construction in the Cracks" opened discursive space for indigenous literature.
+Most Indigenous writers chose Chinese. This was a painful pragmatic decision—tribal languages lacked modern writing systems, and Chinese was the only language that could reach broader audiences.
 
-### Walis Nokan: National Soul in Poetry
+Syaman Rapongan wrote in _Eyes in the Sky_: "Using Chinese characters to write about Tao oceanic culture is like using someone else's vocal cords to sing my own songs."
 
-Walis Nokan (Atayal) represents contemporary indigenous poets. His poetry possesses strong ethnic consciousness and modernity. In his works, traditional Atayal culture and modern life experience interweave, creating unique poetic aesthetics.
+## The Global Breakthrough of Oceanic Literature
 
-His masterpiece "Ino's Re-survey" pays homage to the Japanese colonial period anthropologist Ino Kanori while reflecting on the history of indigenous peoples being studied and interpreted. This poem rewrites indigenous history in modern language, demonstrating indigenous agency and dignity.
+**Syaman Rapongan's works changed not only Taiwan literature but also international understanding of Taiwan.**
 
-Walis Nokan's poetic language is rich in musicality, connecting directly with indigenous oral literary traditions. He skillfully employs imagery and symbolism, transforming abstract ethnic emotions into concrete, tangible poetic language.
+His _Eyes in the Sky_ (2012) narrates from a fish's perspective, immediately subverting traditional anthropocentrism. British literary scholar Ti-han Chang calls this typical "geostory"—a new narrative form transcending national boundaries, connecting humans and nature.
 
-### Syaman Rapongan: Pioneer of Ocean Literature
+More importantly, Syaman Rapongan's oceanic writing repositions Taiwan within Pacific context. **Taiwan is no longer "China's periphery" but "the center of the Pacific Austronesian world."**
 
-Syaman Rapongan (Tao) stands as an important writer in Taiwan's ocean literature. As a Tao person from Lanyu (Orchid Island), his works are deeply rooted in maritime cultural soil. His essays "Eyes of the Sky" and "Black Wings" use poetic language to depict Tao maritime life, revealing profound relationships between humans and the ocean.
+This shift carries political significance. The Tao flying fish culture in Syaman Rapongan's writing shares similar oceanic knowledge systems with Indigenous peoples of the Philippines' Batanes Islands and Cook Islands. His works have prompted international scholars to seriously discuss "transpacific indigenous ecocriticism."
 
-Syaman Rapongan's writing possesses unique "ocean consciousness." For him, the ocean serves not only as the Tao people's living space but as their spiritual homeland. His works overflow with reverence and praise for the ocean while reflecting modern civilization's impact on traditional maritime culture.
+Wu Ming-yi's creation of "Wayo Wayo islanders" in _The Man with the Compound Eyes_ (2011), whose belief systems draw direct inspiration from Tao culture, isn't coincidental—Indigenous literature has become an important resource for Taiwan literature "going global."
 
-His literary language carries strong colloquial coloring, stemming from the Tao people's rich oral literary tradition. He skillfully employs Tao thinking patterns and expressive habits, creating modern prose with ethnic characteristics.
+## The 15th Taiwan Indigenous Literature Awards: Institutional Maturation
 
-### Badai: Historical Writing and Cultural Memory
+**The 2024 15th Taiwan Indigenous Literature Awards offered NT$810,000 in total prizes, with an August 16 registration deadline.**
 
-Badai (Puyuma) represents an important contemporary indigenous novelist. His novel "The Stork" uses Puyuma history as background, depicting indigenous experiences during Japanese rule. This work serves not only as literary creation but as rewriting of forgotten history.
+This figure represents 30 years of institutional achievements in Indigenous literature:
 
-Badai's creative characteristics combine historical and realistic sensibilities. His works often use historical events as background while focusing on ordinary people's fates and emotions. He skillfully uses individual stories to reflect entire ethnic history, embodying indigenous literature's quality of "seeing the big through the small."
+- **1993-2026**: From Mountain-Sea Culture Magazine Society to Indigenous Peoples Cultural Foundation
+- **2001**: National Dong Hwa University established College of Indigenous Studies with "Department of Indigenous Languages and Communication"
+- **Academic explosion**: National Chengchi University, National Cheng Kung University, and others successively established Indigenous literature courses
 
-His other important work "Horse Railway" focuses on contemporary indigenous living conditions. In this novel, conflicts between traditional culture and modern civilization, contrasts between city and tribe, and confusion over personal identity receive profound exploration.
+But the real indicator is the expansion of the writer community. From the early "Indigenous movement generation" (Sun Da-chuan, Walis Nokan, Syaman Rapongan, Badai) to new generation writers like Ma Yi-hang, Cheng Ting, and Huang Xi, **Taiwan Indigenous literature has formed a three-generation succession system.**
 
-## Aesthetic Qualities of Indigenous Literature
+> **💡 Did You Know**
+> Badai's _The Flute of the Stork_ uses Puyuma tribal history as background, but it's not an "ethnographic novel"—
+> it literarily reconstructs forgotten history. This "historical reconstruction" has become an important feature of contemporary Indigenous literature.
 
-### Inheritance of Poetic Language
+## The Life-and-Death Race Between Language and Literature
 
-The most prominent characteristic of indigenous literature is its rich poetic coloring. This poetry is evident not only in verse but permeates prose and novels. This stems from indigenous oral literary traditions—in ages without writing, poetic language was easier to remember and transmit.
+**The current problem: not enough time.**
 
-Modern indigenous writers inherit this poetic tradition while combining modern literary techniques to create unique literary language. This language often possesses musicality, symbolism, and metaphorical qualities, creating rich imagery and profound artistic conception.
+According to the UN "International Decade of Indigenous Languages Global Action Plan" (2022-2032), **among the world's 2,000 endangered languages, 1,500 are expected to completely disappear by century's end.**
 
-### Modern Transformation of Mythological Thinking
+All 16 Taiwan tribal languages are on the list.
 
-Another important quality of indigenous literature is the application of mythological thinking. In indigenous worldviews, the real world and mythological world are interconnected, with no absolute boundaries between spirits and humans, nature and culture.
+Taiwan Indigenous Languages Development Association surveys show that current fluent tribal language speakers of the "last generation" are mostly 70-80 years old. **In 10 years, when these people pass away without effective transmission, languages will shift from "endangered" to "extinct."**
 
-Modern indigenous writers transform this mythological thinking into modern literary techniques, creating works with magical coloring. In these works, reality and fantasy, history and myth, personal experience and collective memory interweave, forming unique narrative aesthetics.
+The government is already taking action:
 
-### Deep Expression of Land Consciousness
+- **2017**: Indigenous Peoples Languages Development Act passed, making tribal languages "national languages"
+- **Tribal language certification**: 16 languages, 42 dialects, overall pass rate exceeding 50%
+- **Master-apprentice program**: One-on-one transmission, but scale remains limited
 
-The core theme of indigenous literature is the relationship between humans and land. In indigenous cultural concepts, land serves not only as the foundation for survival but as spiritual sustenance. This profound land consciousness receives full expression in modern indigenous literature.
+But victory in this language preservation war ultimately depends on literature.
 
-Modern indigenous writers often center on land to develop thinking about history, culture, and identity. Their works overflow with attachment to homeland landscapes, anxiety over land loss, and reflection on environmental destruction. This land consciousness not only enriches Taiwan literature's spiritual content but provides important intellectual resources for contemporary environmental literature.
+**Culture without language is merely superficial tourism.** Pan Hung-ming's words identify the core: Indigenous literature isn't just literary creation—it's the final battlefield for language survival.
 
-## Contemporary Significance of Indigenous Literature
+## Literature as a Bridge to the Austronesian World
 
-### Preservation of Cultural Diversity
+**In world literature coordinates, Taiwan Indigenous literature occupies a unique position.**
 
-Against the backdrop of globalization, indigenous literature's existence carries important cultural significance. It not only preserves Taiwan's most ancient cultural memories but provides different thinking patterns and expressive forms for contemporary literature.
+Taiwan is the homeland of 250 million Austronesian speakers, preserving the most ancient Austronesian vocabulary. Renowned University of Hawaii scholar Robert Blust believes **studying Taiwan Indigenous languages equals studying the origins of entire Pacific civilization.**
 
-Indigenous literature's diversity manifests in language, content, form, and all levels. Each tribe's literature has its own characteristics; this cultural diversity represents precious wealth of human civilization requiring careful protection and transmission.
+This gives Taiwan Indigenous literature a global perspective. When New Zealand Māori writer Witi Ihimaera's _Whale Rider_ achieved international success, Taiwan readers discovered Syaman Rapongan's "The Little Boy and the Big Shark" told nearly identical "human and ocean beast" mythological themes.
 
-### Ecological Civilization Insights
+This isn't coincidence but connected cultural memory.
 
-Indigenous views of nature offer important insights for contemporary environmental problems. In indigenous cultures, humans and nature exist in harmonious symbiosis; this ecological wisdom provides important intellectual resources for solving contemporary environmental crises.
+**Taiwan Indigenous literature's internationalization isn't about becoming "world literature" but about reconnecting Pacific cultural networks severed by colonialism.**
 
-Rich nature writing in indigenous literature possesses not only literary value but ecological value. It reminds us to reconsider human-nature relationships and seek sustainable development paths.
+In recent years, Taiwan Indigenous writers' works have been translated into English, Japanese, and Korean, with authors dialoguing with Canadian and Australian Indigenous writers at international conferences. These exchanges prove: **Taiwan Indigenous literature isn't a tributary of Taiwan literature but an important component of Pacific literature.**
 
-### Cultural Identity Reconstruction
+## Conclusion: The Last Singers
 
-For indigenous peoples, literature serves as an important pathway for reconstructing cultural identity. Under long-term cultural oppression and assimilation policies, many indigenous people lost identification with their ethnic cultures. The rise of modern indigenous literature provides opportunities for indigenous peoples to rediscover and identify with their cultures.
+Today in 2026, when you flip through Badai's novels in a Taipei bookstore or listen to Bunun eight-part harmony on a music platform, you're witnessing a miracle:
 
-Simultaneously, indigenous literature promotes understanding and dialogue between different ethnic groups. It offers non-indigenous readers opportunities to understand indigenous history and culture, promoting Taiwan society's pluralistic development.
+**A literary tradition that should have disappeared has not only survived modern impact but bloomed anew.**
 
-## Conclusion: Eternal Song
+But this miracle is fragile. Languages disappear faster than glaciers melt. Every young person who no longer speaks tribal language might be the last audience for some ancient story.
 
-From ancient myths and legends to contemporary literary creation, indigenous literature flows like an endless song that has echoed across Taiwan's land for thousands of years. Sometimes this song soars high and passionate, expressing desires for freedom; sometimes it flows low and distant, chanting attachment to homeland; sometimes it resonates deep and weighty, bearing history's burden.
+Indigenous literature faces not just literary creation challenges but civilization transmission responsibilities. They must preserve the most ancient voices in globalization's torrent, recreate traditional wisdom in modernity's languages.
 
-In contemporary Taiwan's multicultural landscape, indigenous literature plays an irreplaceable role. It serves simultaneously as historical witness and cultural inheritor; as critic of reality and inspirer of the future. It reminds us not to forget the most ancient and precious cultural heritage in our pursuit of modernization.
+**This is Taiwan literature's most difficult task and most precious gift.**
 
-As Walis Nokan writes in his poetry: "Ancestral songs flow through my veins." This song transcends time and space, connecting ancient and modern. It will continue echoing in Taiwan's literary skies, adding the most primitive and pure colors to this land's literary garden.
+Because when the last Saisiyat speaker dies, what disappears isn't just a language but a way of seeing the world. When the last Atayal ancient song is forgotten, what's severed isn't just melody but dialogue with ancestors.
+
+Indigenous literature's mission is ensuring that day never comes.
 
 ---
 
-_References:_
+## References
 
-- Sun Dachuan, [_Mountain and Sea World: Depictions of Taiwan Indigenous Peoples' Spiritual World_](https://www.books.com.tw/products/0010459186)
-- Walis Nokan, [_Ino's Re-survey_](https://readmoo.com/book/210297335000101)
-- Syaman Rapongan, [_Eyes of the Sky_](https://www.books.com.tw/products/0010554127)
-- Badai, [_The Stork_](https://www.books.com.tw/products/0010374110)
-- Pu Zhongcheng, _Selected Oral Literature of Taiwan Indigenous Peoples_
+- [Taiwan Indigenous Literature - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%96%87%E5%AD%B8)
+- [2024 15th Taiwan Indigenous Literature Awards - Indigenous Peoples Cultural Foundation](https://www.pulima.com.tw/Pulima/7232.aspx)
+- [Languages Lost 4: Caring for Indigenous Culture Can Be International - United Daily News](https://ubrand.udn.com/ubrand/story/12117/6545993)
+- [Taiwanese Literature in Transition: Indigenous Writing and Eco-literature as Method - Taiwan Insight](https://taiwaninsight.org/2021/05/19/taiwanese-literature-in-transition-indigenous-writing-and-eco-literature-as-method/)
+- [Implementing Indigenous Peoples Languages Development Act - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/837f18e3-5016-42fd-a276-8b469253744f)
+- [Mountain-Sea Culture Magazine Society Digital Archive](https://digitalarchives.tw/site_detail.jsp?id=4188)
+- [Council of Indigenous Peoples](https://www.cip.gov.tw/)
+- [Taiwan Indigenous Peoples Name Rectification Movement - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%97%8F%E6%AD%A3%E5%90%8D%E9%81%8B%E5%8B%95)
+- [Taiwan Native Language Literature - National Museum of Taiwan Literature](https://twml.nmtl.gov.tw/)

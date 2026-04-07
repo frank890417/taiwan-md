@@ -354,7 +354,21 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/169805?v=4",
       "profile": "https://github.com/tboydar",
       "contributions": ["translation", "content"]
+    },
+    {
+      "login": "dreamline2",
+      "name": "Wilson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4657845?v=4",
+      "profile": "https://github.com/dreamline2",
+      "contributions": ["translation"]
+    },
+    {
+      "login": "idlccp1984",
+      "name": "idlccp1984",
+      "avatar_url": "https://avatars.githubusercontent.com/u/271929436?v=4",
+      "profile": "https://github.com/idlccp1984",
+      "contributions": ["content"]
     }
   ],
-  "totalContributors": 47
+  "totalContributors": 49
 }

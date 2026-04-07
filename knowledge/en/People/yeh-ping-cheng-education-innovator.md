@@ -64,7 +64,3 @@ As artificial intelligence and automation reshape the job market, Yeh's emphasis
 
 ## Further Reading
 
-- [[Huang Kuo-chen (黃國珍)]]—Another educational innovator promoting reading literacy in Taiwan
-- [[Lyu Guan-wei (呂冠緯)]]—Founder of Junyi Academy, Taiwan's version of Khan Academy  
-- [[Yen Chang-shou (嚴長壽)]]—Social entrepreneur who transitioned from tourism to rural education
-- [[Audrey Tang (唐鳳)]]—Digital governance and educational innovation intersection

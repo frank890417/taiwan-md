@@ -1,32 +1,36 @@
 {
-  "totalArticles": 961,
-  "totalCategories": 19,
-  "estimatedContributors": 30,
-  "totalTags": 2464,
+  "totalArticles": 898,
+  "totalCategories": 20,
+  "estimatedContributors": 60,
+  "totalTags": 2280,
   "categories": [
     {
       "name": "en",
-      "count": 488
+      "count": 390
     },
     {
       "name": "Culture",
-      "count": 36
+      "count": 40
     },
     {
       "name": "History",
-      "count": 24
+      "count": 27
     },
     {
       "name": "Society",
-      "count": 26
+      "count": 27
+    },
+    {
+      "name": "Music",
+      "count": 21
     },
     {
       "name": "Economy",
-      "count": 48
+      "count": 47
     },
     {
       "name": "People",
-      "count": 124
+      "count": 131
     },
     {
       "name": "Lifestyle",
@@ -34,7 +38,7 @@
     },
     {
       "name": "ja",
-      "count": 15
+      "count": 27
     },
     {
       "name": "Art",
@@ -42,23 +46,19 @@
     },
     {
       "name": "Food",
-      "count": 27
+      "count": 29
     },
     {
       "name": "Technology",
-      "count": 25
+      "count": 27
     },
     {
       "name": "Nature",
-      "count": 25
+      "count": 26
     },
     {
       "name": "Geography",
       "count": 18
-    },
-    {
-      "name": "Music",
-      "count": 19
     },
     {
       "name": "About",
@@ -79,12 +79,16 @@
     {
       "name": "resources",
       "count": 2
+    },
+    {
+      "name": "ko",
+      "count": 2
     }
   ],
   "topTags": [
     {
       "name": "Economy",
-      "count": 59
+      "count": 55
     },
     {
       "name": "人物",
@@ -95,39 +99,35 @@
       "count": 31
     },
     {
-      "name": "people",
-      "count": 20
-    },
-    {
-      "name": "台灣",
-      "count": 16
-    },
-    {
-      "name": "literature",
-      "count": 16
-    },
-    {
       "name": "半導體",
       "count": 15
     },
     {
-      "name": "culture",
+      "name": "台灣",
+      "count": 15
+    },
+    {
+      "name": "歷史",
       "count": 13
     },
     {
       "name": "金曲獎",
+      "count": 13
+    },
+    {
+      "name": "音樂",
       "count": 12
     },
     {
-      "name": "Taiwan",
+      "name": "Technology",
       "count": 12
     },
     {
-      "name": "ODM",
-      "count": 11
+      "name": "people",
+      "count": 12
     },
     {
-      "name": "History",
+      "name": "原住民族",
       "count": 11
     },
     {
@@ -135,15 +135,7 @@
       "count": 11
     },
     {
-      "name": "音樂",
-      "count": 11
-    },
-    {
-      "name": "體育",
-      "count": 11
-    },
-    {
-      "name": "Technology",
+      "name": "原住民",
       "count": 11
     },
     {
@@ -151,26 +143,33 @@
       "count": 10
     },
     {
-      "name": "歷史",
+      "name": "民主化",
       "count": 10
     },
     {
-      "name": "TSMC",
+      "name": "台灣文化",
+      "count": 10
+    },
+    {
+      "name": "ODM",
+      "count": 10
+    },
+    {
+      "name": "History",
       "count": 10
     },
     {
       "name": "製造業",
       "count": 10
+    },
+    {
+      "name": "教育",
+      "count": 10
     }
   ],
   "languageDistribution": {
-    "zh-TW": 961,
+    "zh-TW": 898,
     "en": 0
   },
-  "lastUpdated": "2026-03-31T01:45:38.093Z",
-  "stars": 902,
-  "forks": 122,
-  "zhPages": 482,
-  "enPages": 488,
-  "totalPages": 970
+  "lastUpdated": "2026-04-07T01:32:14.642Z"
 }

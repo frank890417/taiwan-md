@@ -465,10 +465,6 @@ From PC chips to mobile and AIoT:
 
 ### Related Articles
 
-- [[Taiwan Semiconductor Industry Development]]
-- [[Taiwan SME Resilience and Innovation]]
-- [[Taiwan Green Economy Transformation]]
-- [[Taiwan Digital Economy Development]]
 
 ### References
 

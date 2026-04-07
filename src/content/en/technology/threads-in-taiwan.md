@@ -68,7 +68,7 @@ But challenges are equally clear: in fragmented, emotion-driven short texts, how
 
 ## Further Reading
 
-- [[audrey-tang]] — Key figure promoting Taiwan's digital governance
+- [audrey-tang](/people/audrey-tang) — Key figure promoting Taiwan's digital governance
 
 ## References
 

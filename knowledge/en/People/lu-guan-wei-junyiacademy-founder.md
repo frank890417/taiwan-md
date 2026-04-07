@@ -127,7 +127,6 @@ His work continues expanding, always guided by the original vision: ensuring eve
 
 ## See Also
 
-- [[yeh-ping-cheng-education-innovator]]: PaGamO gamified learning platform, another path for educational innovation
-- [[huang-kuo-chen]]: Pin Xue Tang reading literacy education, cultivating thinking rather than memorization
-- [[Yen Chang-shou]]: Tourism magnate turned rural education advocate
-- [[audrey-tang]]: Digital governance and educational technology convergence
+- [yeh-ping-cheng-education-innovator](/people/yeh-ping-cheng-education-innovator): PaGamO gamified learning platform, another path for educational innovation
+- [huang-kuo-chen](/people/huang-kuo-chen): Pin Xue Tang reading literacy education, cultivating thinking rather than memorization
+- [audrey-tang](/people/audrey-tang): Digital governance and educational technology convergence
