@@ -61,7 +61,9 @@ for (const [slug, folder] of Object.entries(categoryFolders)) {
       const raw = readFileSync(join(dir, file), 'utf-8');
       const { data } = matter(raw);
       const fnCount = (raw.match(/^\[\^\d+\]:/gm) || []).length;
-      if (fnCount >= 15) {
+      // Two-tier threshold: featured articles at ≥8fn, others at ≥15fn
+      const threshold = data.featured ? 8 : 15;
+      if (fnCount >= threshold) {
         picks.push({
           title: data.title || basename(file, '.md'),
           href: `/${slug}/${encodeURIComponent(basename(file, '.md'))}`,
