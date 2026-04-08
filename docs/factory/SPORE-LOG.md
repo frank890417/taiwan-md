@@ -10,6 +10,8 @@
 
 | #   | 日期       | 語言 | 平台    | 文章 slug              | 分類       | 模板       | URL                                                        |
 | --- | ---------- | ---- | ------- | ---------------------- | ---------- | ---------- | ---------------------------------------------------------- |
+| 16  | 2026-04-08 | en   | X       | 台灣感性               | culture    | B 冷知識型 | [→](https://x.com/taiwandotmd/status/2041719940965920921)  |
+| 15  | 2026-04-08 | zh   | Threads | 台灣感性               | culture    | B 冷知識型 | [→](https://www.threads.com/@taiwandotmd/post/DW2whskkZot) |
 | 14  | 2026-04-08 | en   | X       | 台海危機與兩岸關係發展 | history    | B 冷知識型 | [→](https://x.com/taiwandotmd/status/2041710306196677031)  |
 | 13  | 2026-04-08 | zh   | Threads | 台海危機與兩岸關係發展 | history    | B 冷知識型 | [→](https://www.threads.com/@taiwandotmd/post/DW2rgufk40S) |
 | 12  | 2026-04-07 | en   | Threads | 台灣民主轉型           | history    | D 時間軸型 | —                                                          |
@@ -33,6 +35,7 @@
 | en   | Threads + X | 台灣國樂               | music   | B 冷知識型 | 英文孢子已寫好，待人類發佈            |
 | en   | Threads + X | 嚴長壽                 | people  | A 人物型   | 英文孢子已寫好，待人類發佈            |
 | en   | Threads + X | 台灣宗教與寺廟文化     | culture | B 冷知識型 | 英文孢子已寫好，待人類發佈            |
+| ko   | Threads     | 台灣感性               | culture | B 冷知識型 | 韓文孢子已寫好，待人類發佈            |
 
 ---
 
