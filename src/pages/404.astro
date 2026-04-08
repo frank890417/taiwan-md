@@ -1,21 +1,189 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import fs from 'fs';
+import path from 'path';
+
+// Read article index at build time (inline into page)
+let articleIndex: Record<
+  string,
+  { zhTitle: string; enTitle: string; category: string; langs: string[] }
+> = {};
+try {
+  const indexPath = path.join(
+    process.cwd(),
+    'public',
+    'api',
+    'article-index.json',
+  );
+  if (fs.existsSync(indexPath)) {
+    articleIndex = JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+  }
+} catch {}
+
+// i18n strings embedded for client-side use
+const i18n: Record<string, Record<string, string>> = {
+  'zh-TW': {
+    'generic.title': '這個頁面不存在',
+    'generic.desc': '可能是連結過期、文章被移動，或是網址打錯了。',
+    'untranslated.title': '這篇文章尚未翻譯',
+    'untranslated.desc.prefix': '「',
+    'untranslated.desc.suffix': '」尚未有中文版本。',
+    'untranslated.view': '查看其他語言版本：',
+    'untranslated.contribute': '想幫忙翻譯？',
+    back: '← 回首頁',
+    'search.placeholder': '搜尋 Taiwan.md…',
+    'search.label': '搜尋',
+    'search.prompt': '試試搜尋你要找的內容：',
+    explore: '或者探索這些主題：',
+    'bug.title': '🐛 這是個 Bug 嗎？',
+    'bug.desc': '如果你覺得這個頁面應該存在，歡迎回報讓我們修復：',
+    'bug.btn': '📋 回報失效連結 (GitHub Issue)',
+    'lang.zh-TW': '中文',
+    'lang.en': 'English',
+    'lang.ja': '日本語',
+    'lang.ko': '한국어',
+    'cat.history': '📜 歷史',
+    'cat.culture': '🎭 文化',
+    'cat.food': '🧋 美食',
+    'cat.art': '🎨 藝術',
+    'cat.music': '🎵 音樂',
+    'cat.technology': '💻 科技',
+    'cat.nature': '🌿 自然',
+    'cat.people': '👥 人物',
+    'cat.economy': '📈 經濟',
+    'cat.society': '⚖️ 社會',
+  },
+  en: {
+    'generic.title': 'Page Not Found',
+    'generic.desc':
+      'The link may have expired, the article may have been moved, or the URL was mistyped.',
+    'untranslated.title': 'This Article Hasn\u2019t Been Translated Yet',
+    'untranslated.desc.prefix': '\u201C',
+    'untranslated.desc.suffix': '\u201D is not yet available in English.',
+    'untranslated.view': 'View in other languages:',
+    'untranslated.contribute': 'Want to help translate?',
+    back: '\u2190 Home',
+    'search.placeholder': 'Search Taiwan.md\u2026',
+    'search.label': 'Search',
+    'search.prompt': 'Try searching for what you need:',
+    explore: 'Or explore these topics:',
+    'bug.title': '🐛 Is this a bug?',
+    'bug.desc': 'If you think this page should exist, please report it:',
+    'bug.btn': '📋 Report Broken Link (GitHub Issue)',
+    'lang.zh-TW': 'Chinese',
+    'lang.en': 'English',
+    'lang.ja': 'Japanese',
+    'lang.ko': 'Korean',
+    'cat.history': '📜 History',
+    'cat.culture': '🎭 Culture',
+    'cat.food': '🧋 Food',
+    'cat.art': '🎨 Art',
+    'cat.music': '🎵 Music',
+    'cat.technology': '💻 Technology',
+    'cat.nature': '🌿 Nature',
+    'cat.people': '👥 People',
+    'cat.economy': '📈 Economy',
+    'cat.society': '⚖️ Society',
+  },
+  ja: {
+    'generic.title': 'このページは存在しません',
+    'generic.desc':
+      'リンクが期限切れ、記事が移動された、またはURLが間違っている可能性があります。',
+    'untranslated.title': 'この記事はまだ翻訳されていません',
+    'untranslated.desc.prefix': '「',
+    'untranslated.desc.suffix': '」はまだ日本語版がありません。',
+    'untranslated.view': '他の言語で見る：',
+    'untranslated.contribute': '翻訳を手伝ってください！',
+    back: '← ホーム',
+    'search.placeholder': 'Taiwan.mdを検索…',
+    'search.label': '検索',
+    'search.prompt': 'お探しの内容を検索してみてください：',
+    explore: 'またはこれらのトピックを探索：',
+    'bug.title': '🐛 これはバグですか？',
+    'bug.desc': 'このページが存在すべきだと思う場合は、報告してください：',
+    'bug.btn': '📋 リンク切れを報告 (GitHub Issue)',
+    'lang.zh-TW': '中文',
+    'lang.en': 'English',
+    'lang.ja': '日本語',
+    'lang.ko': '한국어',
+    'cat.history': '📜 歴史',
+    'cat.culture': '🎭 文化',
+    'cat.food': '🧋 食',
+    'cat.art': '🎨 芸術',
+    'cat.music': '🎵 音楽',
+    'cat.technology': '💻 テクノロジー',
+    'cat.nature': '🌿 自然',
+    'cat.people': '👥 人物',
+    'cat.economy': '📈 経済',
+    'cat.society': '⚖️ 社会',
+  },
+  ko: {
+    'generic.title': '이 페이지는 존재하지 않습니다',
+    'generic.desc':
+      '링크가 만료되었거나, 글이 이동되었거나, URL이 잘못되었을 수 있습니다.',
+    'untranslated.title': '이 글은 아직 번역되지 않았습니다',
+    'untranslated.desc.prefix': '「',
+    'untranslated.desc.suffix': '」 글은 아직 한국어 버전이 없습니다.',
+    'untranslated.view': '다른 언어로 보기:',
+    'untranslated.contribute': '번역을 도와주시겠습니까?',
+    back: '← 홈',
+    'search.placeholder': 'Taiwan.md 검색…',
+    'search.label': '검색',
+    'search.prompt': '찾고 있는 내용을 검색해 보세요:',
+    explore: '또는 이 주제들을 탐색하세요:',
+    'bug.title': '🐛 이것은 버그인가요?',
+    'bug.desc': '이 페이지가 존재해야 한다고 생각하시면 신고해 주세요:',
+    'bug.btn': '📋 링크 오류 신고 (GitHub Issue)',
+    'lang.zh-TW': '중국어',
+    'lang.en': 'English',
+    'lang.ja': '일본어',
+    'lang.ko': '한국어',
+    'cat.history': '📜 역사',
+    'cat.culture': '🎭 문화',
+    'cat.food': '🧋 음식',
+    'cat.art': '🎨 예술',
+    'cat.music': '🎵 음악',
+    'cat.technology': '💻 기술',
+    'cat.nature': '🌿 자연',
+    'cat.people': '👥 인물',
+    'cat.economy': '📈 경제',
+    'cat.society': '⚖️ 사회',
+  },
+};
+
+const categories = [
+  'history',
+  'culture',
+  'food',
+  'art',
+  'music',
+  'technology',
+  'nature',
+  'people',
+  'economy',
+  'society',
+];
 ---
 
-<Layout title="404 — 找不到頁面 | Taiwan.md">
-  <main class="error-page">
-    <div class="error-content">
+<Layout title="404 | Taiwan.md">
+  <main class="error-page" style="opacity: 0; transition: opacity 0.15s;">
+    <!-- Generic 404 -->
+    <div class="error-content" id="notfound-generic">
       <h1 class="error-code">404</h1>
-      <p class="error-title">這個頁面不存在</p>
-      <p class="error-desc">可能是連結過期、文章被移動，或是網址打錯了。</p>
+      <p class="error-title" data-i18n="generic.title">這個頁面不存在</p>
+      <p class="error-desc" data-i18n="generic.desc">
+        可能是連結過期、文章被移動，或是網址打錯了。
+      </p>
 
       <div class="error-actions">
-        <a href="/" class="btn btn-primary">← 回首頁</a>
-        <a href="/graph" class="btn btn-secondary">🕸️ 知識圖譜</a>
+        <a href="/" class="btn btn-primary" id="back-link" data-i18n-text="back"
+          >← 回首頁</a
+        >
+        <a href="/graph" class="btn btn-secondary">🕸️ Knowledge Graph</a>
       </div>
 
       <div class="search-section">
-        <p>試試搜尋你要找的內容：</p>
+        <p data-i18n="search.prompt">試試搜尋你要找的內容：</p>
         <form
           action="https://www.google.com/search"
           method="get"
@@ -26,17 +194,22 @@ import Layout from '../layouts/Layout.astro';
           <input
             type="text"
             name="q"
-            placeholder="搜尋 Taiwan.md..."
+            placeholder="搜尋 Taiwan.md…"
             class="search-input"
             aria-label="搜尋 Taiwan.md"
+            data-i18n-placeholder="search.placeholder"
           />
-          <button type="submit" class="btn btn-primary">搜尋</button>
+          <button
+            type="submit"
+            class="btn btn-primary"
+            data-i18n-text="search.label">搜尋</button
+          >
         </form>
       </div>
 
       <div class="report-section">
-        <p class="report-title">🐛 這是個 Bug 嗎？</p>
-        <p class="report-desc">
+        <p class="report-title" data-i18n="bug.title">🐛 這是個 Bug 嗎？</p>
+        <p class="report-desc" data-i18n="bug.desc">
           如果你覺得這個頁面應該存在，歡迎回報讓我們修復：
         </p>
         <a
@@ -44,60 +217,226 @@ import Layout from '../layouts/Layout.astro';
           class="btn btn-report"
           target="_blank"
           rel="noopener"
+          id="report-link"
+          data-i18n-text="bug.btn"
         >
           📋 回報失效連結 (GitHub Issue)
         </a>
       </div>
 
       <div class="explore-section">
-        <p>或者探索這些主題：</p>
-        <div class="category-chips">
-          <a href="/history">📜 歷史</a>
-          <a href="/culture">🎭 文化</a>
-          <a href="/food">🧋 美食</a>
-          <a href="/art">🎨 藝術</a>
-          <a href="/music">🎵 音樂</a>
-          <a href="/technology">💻 科技</a>
-          <a href="/nature">🌿 自然</a>
-          <a href="/people">👥 人物</a>
-          <a href="/economy">📈 經濟</a>
-          <a href="/society">⚖️ 社會</a>
+        <p data-i18n="explore">或者探索這些主題：</p>
+        <div class="category-chips" id="category-chips">
+          {
+            categories.map((cat) => (
+              <a
+                href={`/${cat}`}
+                data-category={cat}
+                data-i18n-text={`cat.${cat}`}
+              >
+                {i18n['zh-TW'][`cat.${cat}`]}
+              </a>
+            ))
+          }
+        </div>
+      </div>
+    </div>
+
+    <!-- Untranslated article notice (hidden by default) -->
+    <div
+      class="error-content"
+      id="notfound-untranslated"
+      style="display: none;"
+    >
+      <h1 class="error-code" style="opacity: 0.08;">📝</h1>
+      <p
+        class="error-title"
+        id="untranslated-title"
+        data-i18n="untranslated.title"
+      >
+        這篇文章尚未翻譯
+      </p>
+      <p class="error-desc" id="untranslated-desc"></p>
+
+      <div class="lang-links" id="lang-links">
+        <p data-i18n="untranslated.view">查看其他語言版本：</p>
+        <div class="lang-chips" id="lang-chips"></div>
+      </div>
+
+      <div class="contribute-section">
+        <p id="contribute-text" data-i18n="untranslated.contribute">
+          想幫忙翻譯？
+        </p>
+        <a
+          href="https://github.com/frank890417/taiwan-md/blob/main/CONTRIBUTING.md"
+          class="btn btn-primary"
+          target="_blank"
+          rel="noopener"
+        >
+          CONTRIBUTING.md
+        </a>
+      </div>
+
+      <div class="error-actions" style="margin-top: 2rem;">
+        <a
+          href="/"
+          class="btn btn-secondary"
+          id="back-link-2"
+          data-i18n-text="back">← 回首頁</a
+        >
+      </div>
+
+      <div class="explore-section" style="margin-top: 2rem;">
+        <p data-i18n="explore">或者探索這些主題：</p>
+        <div class="category-chips" id="category-chips-2">
+          {
+            categories.map((cat) => (
+              <a
+                href={`/${cat}`}
+                data-category={cat}
+                data-i18n-text={`cat.${cat}`}
+              >
+                {i18n['zh-TW'][`cat.${cat}`]}
+              </a>
+            ))
+          }
         </div>
       </div>
     </div>
   </main>
 </Layout>
 
-<script>
-  // Auto-fill the issue title with the current URL
-  const reportLink = document.querySelector('.btn-report');
-  if (reportLink) {
-    const currentPath = window.location.pathname;
-    const href = reportLink.getAttribute('href');
-    reportLink.setAttribute(
-      'href',
-      href.replace(
-        encodeURIComponent('[填入你看到的網址]'),
-        encodeURIComponent(currentPath),
-      ),
-    );
-  }
+<script define:vars={{ articleIndex, i18n }}>
+  (() => {
+    const main = document.querySelector('.error-page');
+    const pathname = window.location.pathname;
 
-  // Fix Google search form — combine site: prefix with user query
-  const form = document.querySelector('.search-form');
-  if (form) {
-    form.addEventListener('submit', (e) => {
-      const inputs = form.querySelectorAll('input[name="q"]');
-      if (inputs.length === 2) {
-        const sitePrefix = inputs[0].value; // "site:taiwan.md"
-        const userQuery = inputs[1].value.trim();
-        if (userQuery) {
-          inputs[0].value = `${sitePrefix} ${userQuery}`;
-          inputs[1].removeAttribute('name'); // prevent duplicate param
+    // Detect language from URL
+    let lang = 'zh-TW';
+    let pathWithoutLang = pathname;
+    for (const prefix of ['en', 'ja', 'ko']) {
+      if (pathname.startsWith(`/${prefix}/`) || pathname === `/${prefix}`) {
+        lang = prefix;
+        pathWithoutLang = pathname.slice(prefix.length + 1) || '/';
+        break;
+      }
+    }
+
+    const strings = i18n[lang] || i18n['zh-TW'];
+    const langPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
+    const homeHref = langPrefix || '/';
+
+    // Localize all i18n elements
+    document.querySelectorAll('[data-i18n]').forEach((el) => {
+      const key = el.getAttribute('data-i18n');
+      if (strings[key]) el.textContent = strings[key];
+    });
+    document.querySelectorAll('[data-i18n-text]').forEach((el) => {
+      const key = el.getAttribute('data-i18n-text');
+      if (strings[key]) el.textContent = strings[key];
+    });
+    document.querySelectorAll('[data-i18n-placeholder]').forEach((el) => {
+      const key = el.getAttribute('data-i18n-placeholder');
+      if (strings[key])
+        el.setAttribute(
+          'placeholder',
+          key === 'search.placeholder' ? strings[key] : strings[key],
+        );
+    });
+
+    // Update home links
+    document.querySelectorAll('#back-link, #back-link-2').forEach((el) => {
+      el.setAttribute('href', homeHref);
+    });
+
+    // Update category chips with language prefix
+    document
+      .querySelectorAll('#category-chips a, #category-chips-2 a')
+      .forEach((el) => {
+        const cat = el.getAttribute('data-category');
+        el.setAttribute('href', `${langPrefix}/${cat}`);
+      });
+
+    // Auto-fill bug report link
+    const reportLink = document.getElementById('report-link');
+    if (reportLink) {
+      const href = reportLink.getAttribute('href');
+      reportLink.setAttribute(
+        'href',
+        href.replace(
+          encodeURIComponent('[填入你看到的網址]'),
+          encodeURIComponent(pathname),
+        ),
+      );
+    }
+
+    // Fix Google search form
+    const form = document.querySelector('.search-form');
+    if (form) {
+      form.addEventListener('submit', (e) => {
+        const inputs = form.querySelectorAll('input[name="q"]');
+        if (inputs.length === 2) {
+          const sitePrefix = inputs[0].value;
+          const userQuery = inputs[1].value.trim();
+          if (userQuery) {
+            inputs[0].value = `${sitePrefix} ${userQuery}`;
+            inputs[1].removeAttribute('name');
+          }
+        }
+      });
+    }
+
+    // Smart detection: is this a known but untranslated article?
+    if (lang !== 'zh-TW' && pathWithoutLang !== '/') {
+      // Parse: /food/beef-noodle-soup → category=food, slug=beef-noodle-soup
+      const parts = pathWithoutLang
+        .replace(/^\//, '')
+        .replace(/\/$/, '')
+        .split('/');
+      if (parts.length === 2) {
+        const [category, slug] = parts;
+        const key = `${category}/${decodeURIComponent(slug)}`;
+        const article = articleIndex[key];
+
+        if (article && !article.langs.includes(lang)) {
+          // Article exists but not in this language!
+          document.getElementById('notfound-generic').style.display = 'none';
+          const untranslatedEl = document.getElementById(
+            'notfound-untranslated',
+          );
+          untranslatedEl.style.display = 'block';
+
+          // Build description
+          const desc = document.getElementById('untranslated-desc');
+          const titleDisplay =
+            article.enTitle !== article.zhTitle
+              ? `${article.zhTitle} (${article.enTitle})`
+              : article.zhTitle;
+          desc.textContent = `${strings['untranslated.desc.prefix']}${titleDisplay}${strings['untranslated.desc.suffix']}`;
+
+          // Build language links
+          const chipsContainer = document.getElementById('lang-chips');
+          const langUrls = {
+            'zh-TW': `/${category}/${encodeURIComponent(article.zhTitle)}`,
+            en: `/en/${category}/${slug}`,
+            ja: `/ja/${category}/${slug}`,
+            ko: `/ko/${category}/${slug}`,
+          };
+
+          for (const availLang of article.langs) {
+            const chip = document.createElement('a');
+            chip.href = langUrls[availLang] || '#';
+            chip.textContent = strings[`lang.${availLang}`] || availLang;
+            chip.className = 'lang-chip';
+            chipsContainer.appendChild(chip);
+          }
         }
       }
-    });
-  }
+    }
+
+    // Reveal page (prevent FOUC)
+    main.style.opacity = '1';
+  })();
 </script>
 
 <style>
@@ -251,6 +590,52 @@ import Layout from '../layouts/Layout.astro';
   .category-chips a:hover {
     background: #1a1a2e;
     color: white;
+  }
+
+  /* Untranslated-specific styles */
+  .lang-links {
+    margin: 1.5rem 0;
+  }
+  .lang-links p {
+    color: #888;
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }
+  .lang-chips {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .lang-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: #e8f5e9;
+    border: 1px solid #a5d6a7;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    text-decoration: none;
+    color: #2e7d32;
+    font-weight: 600;
+    transition: all 0.2s;
+  }
+  .lang-chip:hover {
+    background: #c8e6c9;
+    border-color: #66bb6a;
+  }
+
+  .contribute-section {
+    background: #e3f2fd;
+    border: 1px solid #90caf9;
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    margin-top: 1.5rem;
+  }
+  .contribute-section p {
+    font-weight: 600;
+    margin: 0 0 0.75rem 0;
+    color: #1565c0;
   }
 
   @media (max-width: 640px) {

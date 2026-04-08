@@ -762,7 +762,703 @@ export const mapUI = {
     // Japanese — uses English as base, core strings will be translated
   },
   ko: {
-    // Korean — uses English as base, core strings will be translated
+    // Meta
+    'map.meta.title': '대만 지도 Map',
+    'map.meta.description': '지도 시점으로 Taiwan.md 콘텐츠를 탐색하세요',
+
+    // Hero Section
+    'map.hero.kicker': 'Map View',
+    'map.hero.title': '대만 지도',
+    'map.hero.subtitle':
+      '지도 시점으로 대만의 문화, 미식, 자연, 역사 거점을 탐색하세요.',
+
+    // Controls - Region Filter
+    'map.controls.region.title': '지역 필터',
+    'map.controls.region.all': '전체',
+    'map.controls.region.north': '북부',
+    'map.controls.region.central': '중부',
+    'map.controls.region.south': '남부',
+    'map.controls.region.east': '동부',
+    'map.controls.region.islands': '도서',
+
+    // Controls - Category Filter
+    'map.controls.category.title': '카테고리 필터',
+    'map.controls.category.all': '전체',
+    'map.controls.category.food': '🍜 미식',
+    'map.controls.category.history': '📜 역사',
+    'map.controls.category.nature': '🌿 자연',
+    'map.controls.category.culture': '🎭 문화',
+    'map.controls.category.technology': '💻 기술',
+    'map.controls.category.economy': '📈 경제',
+    'map.controls.category.lifestyle': '🏮 생활',
+    'map.controls.category.art': '🎨 예술',
+    'map.controls.category.geography': '🗺️ 지리',
+
+    // Route Section
+    'map.route.title': '🗺️ 큐레이션 루트',
+    'map.route.normal-mode': '일반 모드',
+
+    // Sidebar - Default
+    'map.sidebar.default.title': '📍 대만 기사 탐색',
+    'map.sidebar.default.hint':
+      '지도에서 시/군이나 마커를 클릭하여 기사를 탐색하세요',
+
+    // Sidebar - County
+    'map.sidebar.county.clear': '✕ 선택 해제',
+    'map.sidebar.county.articles-count': '편의 기사',
+    'map.sidebar.county.no-articles': '아직 이 지역에 기사가 없습니다',
+
+    // Sidebar - Article
+    'map.sidebar.article.back': '← 뒤로',
+    'map.sidebar.article.read-more': '전문 읽기 →',
+
+    // Zoom Controls
+    'map.zoom.in': '＋',
+    'map.zoom.out': '－',
+    'map.zoom.reset': '⌂',
+
+    // Tooltips
+    'map.tooltip.county.articles': '편의 관련 기사',
+    'map.tooltip.county.click': '클릭하여 이 지역 필터링',
+    'map.tooltip.marker.reading-time': '분 읽기',
+
+    // Panel
+    'map.panel.title': '대만 지식 지도',
+    'map.panel.stat.points': '지식 포인트',
+    'map.panel.stat.categories': '카테고리',
+    'map.panel.category-distribution': '카테고리 분포',
+    'map.panel.link.graph': '🕸️ 지식 그래프',
+    'map.panel.link.home': '🏠 카테고리 총람',
+
+    // Category Names (for JS usage)
+    'map.category.history': '📜 역사',
+    'map.category.geography': '🗺️ 지리',
+    'map.category.culture': '🎭 문화',
+    'map.category.food': '🍜 미식',
+    'map.category.art': '🎨 예술',
+    'map.category.music': '🎵 음악',
+    'map.category.technology': '💻 기술',
+    'map.category.nature': '🌿 자연',
+    'map.category.people': '👥 인물',
+    'map.category.society': '⚖️ 사회',
+    'map.category.economy': '📈 경제',
+    'map.category.lifestyle': '🏮 생활',
+
+    // Additional UI text
+    'map.sidebar.more-articles': '⋯그 외',
+    'map.sidebar.more-articles-suffix': '편',
+
+    // Routes
+    'map.routes.nightMarkets.name': '🍜 야시장 투어',
+    'map.routes.nightMarkets.description':
+      '북에서 남까지, 대만을 대표하는 야시장 문화',
+    'map.routes.nationalParks.name': '🏔️ 국립공원 투어',
+    'map.routes.nationalParks.description':
+      '해발 3,952m 고산부터 열대 산호초까지, 대만의 자연 기적',
+    'map.routes.historyTrail.name': '📜 역사의 발자취',
+    'map.routes.historyTrail.description':
+      '네덜란드 식민 시대부터 민주화까지, 대만 400년을 걷다',
+    'map.routes.oldStreets.name': '🏮 옛 거리 산책',
+    'map.routes.oldStreets.description':
+      '백 년 된 거리 속 대만의 기억, 건축이 곧 역사',
+
+    // Night Markets Stops
+    'map.stops.shilinNightMarket.name': '스린 야시장',
+    'map.stops.shilinNightMarket.note':
+      '대만 최대 관광 야시장, 큰 전병에 작은 전병을 싸 먹는 음식의 발상지',
+    'map.stops.raoheNightMarket.name': '라오허 야시장',
+    'map.stops.raoheNightMarket.note':
+      '후추빵 줄서기 성지, 타이베이 사람들의 단골 야시장',
+    'map.stops.ningxiaNightMarket.name': '닝샤 야시장',
+    'map.stops.ningxiaNightMarket.note':
+      '음식 밀도 최고, 미슐랭 추천 서민 음식 거리',
+    'map.stops.fengjiaNightMarket.name': '펑자 야시장',
+    'map.stops.fengjiaNightMarket.note':
+      '창의 간식 실험실, 대만 야시장 혁신의 최전선',
+    'map.stops.huayuanNightMarket.name': '화위안 야시장',
+    'map.stops.huayuanNightMarket.note':
+      '타이난 최대 야시장, 주 3일만 여는 한정판 축제',
+    'map.stops.liuheNightMarket.name': '류허 야시장',
+    'map.stops.liuheNightMarket.note':
+      '가오슝 랜드마크 야시장, 해산물이 주인공',
+
+    // National Parks Stops
+    'map.stops.yangmingshanNationalPark.name': '양명산 국립공원',
+    'map.stops.yangmingshanNationalPark.note':
+      '타이베이의 뒷정원, 화산 지형과 온천 천국',
+    'map.stops.tarokoNationalPark.name': '타로코 국립공원',
+    'map.stops.tarokoNationalPark.note': '대리석 협곡, 세계적 지질 경관',
+    'map.stops.yushanNationalPark.name': '위산(옥산) 국립공원',
+    'map.stops.yushanNationalPark.note':
+      '동북아시아 최고봉(3,952m), 대만의 지붕',
+    'map.stops.alishanScenicArea.name': '아리산 국가풍경구',
+    'map.stops.alishanScenicArea.note': '일출 운해, 신목군과 삼림철도',
+    'map.stops.sunMoonLakeScenicArea.name': '르웨탄(일월담) 국가풍경구',
+    'map.stops.sunMoonLakeScenicArea.note':
+      '대만 최대 천연 호수, 사오족의 성스러운 호수',
+    'map.stops.kentingNationalPark.name': '컨딩 국립공원',
+    'map.stops.kentingNationalPark.note': '대만 최남단, 열대 산호초와 헝춘반도',
+
+    // History Trail Stops
+    'map.stops.anpingFort.name': '안핑 고성',
+    'map.stops.anpingFort.note': '1624년 네덜란드인이 건설한 대만 최초의 성채',
+    'map.stops.chikanTower.name': '츠칸러우(적감루)',
+    'map.stops.chikanTower.note':
+      '네덜란드 프로빈시아성에서 정성공 통치의 상징으로',
+    'map.stops.lukang.name': '루강',
+    'map.stops.lukang.note': '청대 대만 제2의 도시, 「일부이록삼맹갑」',
+    'map.stops.presidentialOffice.name': '총통부(구 대만총독부)',
+    'map.stops.presidentialOffice.note':
+      '1919년 준공, 일제강점기 최고 권력 중심',
+    'map.stops.chiangKaiShekMemorialHall.name': '중정기념당',
+    'map.stops.chiangKaiShekMemorialHall.note':
+      '권위주의의 상징이자 전환기 정의 논쟁의 초점',
+    'map.stops.legislativeYuan.name': '입법원(해바라기 운동)',
+    'map.stops.legislativeYuan.note':
+      '2014년 해바라기 학생운동 현장, 대만 민주주의의 이정표',
+
+    // Old Streets Stops
+    'map.stops.dihuaStreet.name': '디화제',
+    'map.stops.dihuaStreet.note': '다다오청의 심장, 건어물과 설 장터',
+    'map.stops.jiufenOldStreet.name': '지우펀 옛거리',
+    'map.stops.jiufenOldStreet.note':
+      '광업 황금시대와 《센과 치히로의 행방불명》의 영감',
+    'map.stops.lukangOldStreet.name': '루강 옛거리',
+    'map.stops.lukangOldStreet.note':
+      '붉은 벽돌 고택과 전통 공예의 살아있는 박물관',
+    'map.stops.anpingOldStreet.name': '안핑 옛거리',
+    'map.stops.anpingOldStreet.note': '대만 최초의 거리, 400년 역사가 겹겹이',
+    'map.stops.qishanOldStreet.name': '치산 옛거리',
+    'map.stops.qishanOldStreet.note': '바나나 왕국의 바로크 건축군',
+    'map.stops.tamsuiOldStreet.name': '단수이 옛거리',
+    'map.stops.tamsuiOldStreet.note': '석양, 아게이와 단수이 하구의 역사 정취',
+
+    // Cities
+    'map.city.taipei': '타이베이',
+    'map.city.newTaipei': '신베이',
+    'map.city.keelung': '지룽',
+    'map.city.taoyuan': '타오위안',
+    'map.city.hsinchu': '신주',
+    'map.city.miaoli': '먀오리',
+    'map.city.taichung': '타이중',
+    'map.city.changhua': '장화',
+    'map.city.nantou': '난터우',
+    'map.city.chiayi': '자이',
+    'map.city.tainan': '타이난',
+    'map.city.kaohsiung': '가오슝',
+    'map.city.pingtung': '핑둥',
+    'map.city.yilan': '이란',
+    'map.city.hualien': '화롄',
+    'map.city.taitung': '타이둥',
+    'map.city.penghu': '펑후',
+    'map.city.kinmen': '진먼',
+
+    // Markers
+    'map.markers.founderCheYuWu.title': '창립자 — 우저위 Che-Yu Wu',
+    'map.markers.founderCheYuWu.desc':
+      '코드에서 시(詩)로: 한 대만 아티스트의 세계 무대 도전기',
+    'map.markers.taiwanIndigenousContemporaryArt.title': '대만 원주민 현대미술',
+    'map.markers.taiwanIndigenousContemporaryArt.desc':
+      '전통 공예에서 현대 창작까지, 대만 원주민 예술가들이 세계 미술 무대에서 목소리를 내며 원주민 정체성과 현대미술의 대화를 재정의하다',
+    'map.markers.taiwanExperimentalNewMediaArt.title':
+      '대만 실험·뉴미디어 아트',
+    'map.markers.taiwanExperimentalNewMediaArt.desc':
+      '비디오아트에서 VR 인터랙션까지, 대만 뉴미디어 아트의 혁신적 발전과 테크놀로지 아트 생태계를 탐구하다',
+    'map.markers.taiwanArchitecture.title': '대만 건축',
+    'map.markers.taiwanArchitecture.desc':
+      '석판 가옥에서 초고층 빌딩까지: 한 섬의 건축 시간 여행',
+    'map.markers.taiwanNewMediaArt.title': '대만 뉴미디어 아트',
+    'map.markers.taiwanNewMediaArt.desc': '대만의 문화와 이야기를 탐험하세요',
+    'map.markers.taiwanWatercolorCenturyEvolution.title':
+      '대만 수채화 100년의 변천',
+    'map.markers.taiwanWatercolorCenturyEvolution.desc':
+      '일제강점기 이시카와 킨이치로의 계몽에서 현대 젠중웨이의 국제적 명성까지, 대만 수채화는 100년을 걸어 아시아에서 가장 활발한 수채화 창작 거점이 되었다.',
+    'map.markers.taiwanModernPoetry.title': '대만 현대시',
+    'map.markers.taiwanModernPoetry.desc':
+      '세 개의 서재에서 출발한 모더니즘 실험이 어떻게 가장 토착적인 시 혁명을 탄생시켰는가',
+    'map.markers.taiwanContemporarySculpture.title': '대만 현대 조각의 발전',
+    'map.markers.taiwanContemporarySculpture.desc':
+      '양잉펑, 주밍에서 신세대까지, 대만 조각예술의 진화 궤적과 창작 정신을 탐구하다',
+    'map.markers.taiwanCuratorsArtCulture.title':
+      '대만 큐레이터와 예술문화 구축',
+    'map.markers.taiwanCuratorsArtCulture.desc':
+      '독립 큐레이팅에서 미술관 체계까지, 대만 큐레이터들이 현대미술의 문화 담론과 국제 대화를 어떻게 구축하는가',
+    'map.markers.newMediaArt.title': '뉴미디어 아트',
+    'map.markers.newMediaArt.desc':
+      '대만 디지털 아트의 선구적 탐구, 실험실에서 국제 무대까지 기술과 인문의 융합',
+    'map.markers.contemporaryTaiwanLiterature.title': '현대 대만 문학',
+    'map.markers.contemporaryTaiwanLiterature.desc':
+      '대만의 문화와 이야기를 탐험하세요',
+    'map.markers.taiwanContemporaryArt.title': '대만 현대미술',
+    'map.markers.taiwanContemporaryArt.desc':
+      '타이베이시립미술관에서 베니스비엔날레 대만관까지, 대만 현대미술의 글로벌 무대에서의 독특한 위치',
+    'map.markers.kinmenGuesthouseMuseum.title': '진마빈관 현대미술관',
+    'map.markers.kinmenGuesthouseMuseum.desc':
+      '이별과 재회를 목격한 냉전 군사 역참, 20년간 잠들어 있다가 부녀에 의해 깨어나 《론리플래닛》이 추천한 가오슝 최고의 미술관이 되다.',
+    'map.markers.renjianMagazine.title': '인간잡지',
+    'map.markers.renjianMagazine.desc':
+      '47호, 4년, 사진과 글로 일으킨 조용한 혁명 — 대만 르포르타주 문학의 출발점',
+    'map.markers.taiwanIndigenousCulture.title': '대만 원주민 문화',
+    'map.markers.taiwanIndigenousCulture.desc':
+      '16개 부족의 다양한 전통에서 현대 예술 부흥까지, 대만 원주민 문화의 깊은 저력과 현대적 변용을 탐구하다',
+    'map.markers.taiwan16IndigenousTribes.title': '대만 원주민 16족 문화 지도',
+    'map.markers.taiwan16IndigenousTribes.desc':
+      '대만 16개 원주민족의 분포 지역, 언어 체계, 주요 축제 및 현대 창작 발전을 탐구하며 대만 원주민의 다채로운 문화적 면모를 이해하다',
+    'map.markers.taiwanNightMarketCulture.title':
+      '대만 야시장 문화와 길거리 음식',
+    'map.markers.taiwanNightMarketCulture.desc':
+      '대만 야시장 문화의 형성 배경과 독특한 매력, 그리고 대표적인 길거리 음식의 역사적 이야기와 문화적 의미를 깊이 탐구하다',
+    'map.markers.taiwanSensibilityKoreanPerspective.title':
+      '대만감성: 한국인이 바라본 대만식 미학',
+    'map.markers.taiwanSensibilityKoreanPerspective.desc':
+      'K-pop 뮤직비디오에서 서울 북페어까지, 「대만감성」이 어떻게 대만의 일상 풍경을 아시아에서 가장 매력적인 미학 상징으로 만들었는가',
+    'map.markers.taiwanCulturalCreativeParks.title': '대만 문화창의원구 발전',
+    'map.markers.taiwanCulturalCreativeParks.desc':
+      '오래된 건물 활성화에서 크리에이티브 클러스터까지, 대만 문화창의원구의 발전 과정과 혁신 모델',
+    'map.markers.taiwanOldStreetCulture.title': '대만 옛거리 문화와 상업 지구',
+    'map.markers.taiwanOldStreetCulture.desc':
+      '청대 항구의 번영에서 일제 바로크 양식 건물까지, 대만 옛거리는 벽돌과 기와로 쓴 서민의 역사',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.title':
+      '대만 다도와 생활 미학',
+    'map.markers.taiwanTeaCeremonyLifeAesthetics.desc':
+      '공부차(功夫茶)에서 다석(茶席) 미학까지, 대만이 동양 차 문화와 현지 생활 미학을 어떻게 융합 혁신하는가를 탐구하다',
+    'map.markers.taiwanStreetArtGraffiti.title':
+      '대만 스트리트 아트와 그래피티 문화',
+    'map.markers.taiwanStreetArtGraffiti.desc':
+      '지하 그래피티에서 합법 벽화까지, 도시의 벽이 어떻게 대만 예술가들의 창작 무대가 되었는가',
+    'map.markers.taiwanIncenseMakingCulture.title':
+      '대만 제향(製香) 문화와 향의 고향',
+    'map.markers.taiwanIncenseMakingCulture.desc':
+      '자이 윈샤오 마을의 백 년 향 제조 기술에서 대만 전역에 퍼진 제향 산업까지 — 경건함, 장인 정신, 인내에 관한 오래된 직업',
+    'map.markers.taiwanHomophoneTaboos.title':
+      '대만 동음이의어 금기 문화: 왜 「4」 때문에 건물 층수를 건너뛰는가?',
+    'map.markers.taiwanHomophoneTaboos.desc':
+      '병원에 4층이 없는 것부터 번호판 8888이 천문학적 가격에 거래되는 것까지, 대만인의 동음이의어 민감도는 세계 최고 수준',
+    'map.markers.hakkaCultureLanguage.title': '하카(객가) 문화와 언어',
+    'map.markers.hakkaCultureLanguage.desc':
+      '경경정신(硬頸精神)과 천천일(天穿日): 대만 하카인의 문화 전승과 현대 부흥',
+    'map.markers.ethnicGroupsTaiwan.title':
+      '민족집단(민남·하카·원주민·외성인·신주민)',
+    'map.markers.ethnicGroupsTaiwan.desc':
+      '대만의 민족적 다양성은 역사적 발전의 결과일 뿐만 아니라, 현대 대만 사회를 이해하는 핵심이다. 이러한 다원적 공존 구조는 대만 문화 창의력의 원천이자 민주 정치 발전의 중요한 토대이다. 각 민족의 문화적 특색을 존중하면서 공동의 대만 정체성을 구축하는 것은 대만 사회가 계속 직면하는 중요한 과제이다.',
+    'map.markers.chinaSteel.title':
+      '중강(中鋼): 철두 부장과 10대 건설의 철강 전설',
+    'map.markers.chinaSteel.desc':
+      '자오야오둥이 유럽·미국과의 협상으로 기술을 획득하고, 가오슝 샤오강에서 첫 흰 연기가 피어오르기까지, 중강은 50년에 걸쳐 대만 중공업의 기둥을 세웠다 — 10대 건설의 가장 빛나는 보석',
+    'map.markers.taiwanCement.title':
+      '대만시멘트(台泥): 대만 최초 상장기업의 친환경 전환 전설',
+    'map.markers.taiwanCement.desc':
+      '1962년 대만증권거래소가 이 회사를 위해 탄생했고, 주식 코드 1101은 대만 주식의 기원을 상징한다. 구씨 가문 3대 76년 경영을 거쳐 대만시멘트는 시멘트 가마로 대만 건설 기적을 목격했고, 이제 탄소중립 시대를 맞아 친환경 기업으로 전환 중이다',
+    'map.markers.tsmc.title': '대만 기업: TSMC',
+    'map.markers.tsmc.desc':
+      '글로벌 파운드리 업계의 선두주자, 인류 디지털 문명의 핵심 생명선을 쥐고 있다',
+    'map.markers.chimeiCorporation.title':
+      '치메이실업: 쉬원룽의 아크릴 왕국과 박물관의 꿈',
+    'map.markers.chimeiCorporation.desc':
+      '1960년 타이난 런더의 작은 공장에서 출발해, 쉬원룽은 평생에 걸쳐 아시아 최대 ABS 소재 왕국을 건설하고, 치메이박물관을 세워 사회에 환원했다 — 대만 기업이 상업적 성공과 인문적 관심을 양립할 수 있음을 증명하다',
+    'map.markers.acer.title': '에이서 그룹 (Acer) - PC 산업 혁명의 선구자',
+    'map.markers.acer.desc':
+      '대만 타오위안에서 출발한 개인용 컴퓨터 선구자, 「멀티 브랜드·멀티 채널」 비즈니스 모델을 창조해 글로벌 PC 산업 변혁의 엔진이 되다',
+    'map.markers.giantBicycles.title': '대만 기업: 자이언트(거대기계)',
+    'map.markers.giantBicycles.desc':
+      '미국 대기업에 버림받은 OEM 종속에서 글로벌 자전거 기술 표준을 정하는 숨겨진 제국으로',
+    'map.markers.quantaComputer.title': '대만 기업: 광달전뇌(Quanta)',
+    'map.markers.quantaComputer.desc':
+      '공장 화재에서 글로벌 노트북 왕까지, 린바이리는 어떻게 AI 시대의 새 제국을 세웠나?',
+    'map.markers.aseGroup.title': '대만 기업: ASE그룹(일월광반도체)',
+    'map.markers.aseGroup.desc':
+      '세계 최대 반도체 패키징·테스트 기업 — 건설회사 사장이 왜 반도체에 뛰어들었나?',
+    'map.markers.esunFinancialHolding.title': '대만 기업: E.SUN금융지주',
+    'map.markers.esunFinancialHolding.desc':
+      '신용카드 전문은행에서 디지털 금융 선구자로, 43세 최연소 금융지주 사장의 돌파 이야기',
+    'map.markers.changChunPetrochemical.title': '대만 기업: 장춘석화',
+    'map.markers.changChunPetrochemical.desc':
+      '1949년 타이난 작은 공장에서 글로벌 화학 대기업으로, 「상장 안 하고 대출 안 하는」 히든 챔피언의 이야기',
+    'map.markers.formosaPlasticsGroup.title': '대만 기업: 에버그린해운',
+    'map.markers.formosaPlasticsGroup.desc':
+      '중고선 한 척에서 글로벌 해운 제국까지, 장룽파의 블루오션 전설',
+    'map.markers.taipeiFubon.title': '야시장 경제학: 브랜드 없는 상업 기적',
+    'map.markers.taipeiFubon.desc':
+      '대만 야시장이 어떻게 브랜드도, 인테리어도, 고정 장소도 없이 연간 약 4천억 대만달러의 경제 기적을 창출하는지 탐구하다',
+    'map.markers.taiwan7Eleven.title': '대만 커피 산업',
+    'map.markers.taiwan7Eleven.desc':
+      '일제강점기 재배 기원에서 Simple Kaffa 세계 챔피언까지, 대만 커피의 100년 진화사',
+    'map.markers.taiwanHighSpeedRail.title': '대만 지방 별미 지도',
+    'map.markers.taiwanHighSpeedRail.desc':
+      '지룽 먀오커우의 딩볜후에서 핑둥 완롼의 족발까지, 신주 공환에서 타이둥 석가까지, 각 도시마다 고유한 맛의 DNA가 있다. 현지인의 발걸음을 따라 대만 22개 시·군의 대표 지방 별미를 탐험하며, 섬의 가장 진정한 서민 문화를 음미하자.',
+    'map.markers.taiwanSemiconductorIndustry.title':
+      '대만 가정식: 사라져 가는 맛의 기억',
+    'map.markers.taiwanSemiconductorIndustry.desc':
+      '자이의 박하닭에서 남은 국까지, 할머니의 솜씨 좋은 요리는 가족의 기억을 담고 있지만 시대 변화 속에서 점점 사라지고 있다',
+    'map.markers.taiwanBankingSystem.title': '대만 신주민 음식 퓨전',
+    'map.markers.taiwanBankingSystem.desc':
+      '태국식 새콤매운맛이 대만식 달콤짭짤함을 만나고, 베트남 쌀국수가 대만식 루웨이를 만나고, 인도네시아 향신료가 현지 식재료를 품을 때 — 국경을 넘는 미각의 혁명이 대만에서 조용히 진행 중이다. 신주민이 가져온 것은 고향 음식만이 아니라 대만 음식 문화를 풍요롭게 할 새로운 가능성이다.',
+    'map.markers.taiwanSmes.title': '대만 과일 왕국',
+    'map.markers.taiwanSmes.desc':
+      '망고·리치에서 석가·왁스애플까지, 열대 과일 다양성과 농업기술 돌파의 달콤한 전설',
+    'map.markers.youbikePublicBikeSystem.title': '대만 해산물 문화',
+    'map.markers.youbikePublicBikeSystem.desc':
+      '어항에서 바로 배송, 해산물 식당 문화, 굴전 등 해양 요리가 사면이 바다로 둘러싸인 대만의 섬 특성과 풍부한 해산물 식문화 전통을 보여준다',
+    'map.markers.taiwanFoodBeverageIndustry.title': '대만 미슐랭과 파인 다이닝',
+    'map.markers.taiwanFoodBeverageIndustry.desc':
+      '2018년, 미슐랭 가이드의 빨간 표지에 처음으로 「TAIPEI」가 새겨지며 대만 외식산업이 공식적으로 국제 평가 체계에 진입했다. 노점에서 미슐랭 스타 레스토랑까지, 서민 음식에서 정찬까지, 대만 음식 문화는 국제 무대에서 전통과 혁신이 어우러진 매력적인 모습을 보여준다.',
+    'map.markers.taiwanAgriculturalReform.title': '야시장 문화',
+    'map.markers.taiwanAgriculturalReform.desc':
+      '164개 등록 야시장, 타이난은 평균 3.8만 명당 야시장 하나 — 사찰 마당에서 국제 관광 명소로',
+    'map.markers.taiwanTeaIndustry.title': '하카 음식 문화',
+    'map.markers.taiwanTeaIndustry.desc':
+      '하카인의 풍부하고 다채로운 음식 문화, 레이차의 그윽한 향에서 야생 생강꽃 종자의 산림 정취까지, 검소하고 현지 재료를 활용하는 하카인의 생활 지혜를 보여준다',
+    'map.markers.taiwanFishingIndustry.title': '소고기 면',
+    'map.markers.taiwanFishingIndustry.desc':
+      '외성인 이민자의 향수에서 대만 국민 음식으로, 소고기 면의 문화 융합과 세계적 확산',
+    'map.markers.taiwanFruitIndustry.title': '차 문화',
+    'map.markers.taiwanFruitIndustry.desc':
+      '대만의 전통 다예에서 현대 버블티까지의 차 문화 변천, 섬의 독특한 차 품종과 음다 문화를 보여주다',
+    'map.markers.taiwanRiceVarieties.title':
+      '흔들리는 섬 위에 날 수 있는 탑을 세우다',
+    'map.markers.taiwanRiceVarieties.desc':
+      '활성 단층에서 불과 200m, 대만인은 가장 불안정한 땅 위에 세계 최고층 빌딩을 세웠고 — 그리고 어떤 미치광이가 91분 만에 맨손으로 올라갔다.',
+    'map.markers.nightMarketCulture.title':
+      '대만의 5대 지형과 지리 구조: 산맥에서 평야까지의 섬 풍경',
+    'map.markers.nightMarketCulture.desc':
+      '대만의 독특한 지리 구조를 탐구하다, 중앙산맥에서 서부 평원까지, 이 섬의 지형 다양성을 알아보다',
+    'map.markers.bubbleTeaGlobalPhenomenon.title': '대만 교통 운수 네트워크',
+    'map.markers.bubbleTeaGlobalPhenomenon.desc':
+      '고속철도, 지하철, 도로, 항공이 엮어내는 대만의 입체적 교통 네트워크',
+    'map.markers.taiwanBeefNoodle.title': '대만 국가풍경구 시스템',
+    'map.markers.taiwanBeefNoodle.desc':
+      '동북각에서 컨딩까지, 대만 13개 국가풍경구가 펼치는 풍부한 자연·인문 경관',
+    'map.markers.taiwanHotPotCulture.title': '대만 섬 지리 특성과 형성',
+    'map.markers.taiwanHotPotCulture.desc':
+      '대만의 독특한 섬 지리 특성을 탐구하다, 판구조 운동에서 지형 구조까지, 포르모사 섬의 자연의 비밀을 이해하다',
+    'map.markers.taiwanFineDining.title': '대만 판구조 운동과 지진 활동',
+    'map.markers.taiwanFineDining.desc':
+      '유라시아판과 필리핀해판 경계에 위치한 대만의 지질 특성과 잦은 지진 활동의 원인을 탐구하다',
+    'map.markers.taiwanStreetFood.title': '대만 저수지와 수자원 관리',
+    'map.markers.taiwanStreetFood.desc':
+      '물 부족 위기에서 저수지 퇴적까지, 대만 수자원의 도전과 남북 분배 불균형 딜레마',
+    'map.markers.taiwanVegetarianCulture.title':
+      '대만 하천 수계와 수문 특성: 짧고 급한 흐름과 계절 변동의 수문 지리',
+    'map.markers.taiwanVegetarianCulture.desc':
+      '대만의 독특한 하천 수계를 탐구하다, 줘수이시에서 가오핑시까지, 섬 지형이 어떻게 대만의 수문 특성을 형성하는지를 이해하다',
+    'map.markers.taiwanCoffeeCulture.title': '대만 해안 지형과 해양 경관',
+    'map.markers.taiwanCoffeeCulture.desc':
+      '북부 곶-만 해안에서 동부 단층 해안까지, 대만의 풍부하고 다양한 해안 지형은 판구조 운동의 걸작을 보여준다',
+    'map.markers.taiwanSnackCulture.title': '대만 온천 경관',
+    'map.markers.taiwanSnackCulture.desc':
+      '베이터우, 즈번, 자오시 — 온천 문화와 지질과학의 아름다운 만남',
+    'map.markers.taiwanSeafoodCulture.title': '대만 생태다양성 핫스팟',
+    'map.markers.taiwanSeafoodCulture.desc':
+      '3.6만km² 섬에 5.9만 종의 생물이 밀집, 밀도가 세계 평균의 100배',
+    'map.markers.taiwanPineappleCake.title': '대만 농업 경관과 산업 분포',
+    'map.markers.taiwanPineappleCake.desc':
+      '북에서 남으로의 농업 경관 변화가 보여주는, 「대만 곡창」에서 「정밀 농업」으로의 전환',
+    'map.markers.taiwanPorkRibSoup.title': '대만 도시 발전과 도농 격차',
+    'map.markers.taiwanPorkRibSoup.desc':
+      '6개 직할시 체제 하의 대만 도농 불균형 발전, 농업 대만에서 도시 대만으로의 공간 변화',
+    'map.markers.taiwanOysterOmelette.title': '지형과 지질',
+    'map.markers.taiwanOysterOmelette.desc':
+      '600만 년 된 섬에 2억 년의 고대 기억이 숨어 있다 — 세계에서 가장 젊은 조산대와 가장 격렬한 판 충돌의 기적',
+    'map.markers.taiwanBreakfastCulture.title': '도시 특성과 지역 문화',
+    'map.markers.taiwanBreakfastCulture.desc':
+      '타이베이의 국제 대도시 성격에서 타이난의 고도(古都) 풍정까지, 대만 각 도시가 어떻게 독특한 지역 정체성을 형성하는가',
+    'map.markers.taiwanConvenienceStoreFood.title':
+      '도서(離島)와 해양 문화: 세계 최고 석호(石滬) 밀도에서 날치철 생태 법칙까지',
+    'map.markers.taiwanConvenienceStoreFood.desc':
+      '전 세계 석호가 600기도 안 되는데, 펑후에만 574기가 있다. 날치를 전문으로 잡는 섬 민족이 금기를 가장 정밀한 해양 자원 관리 시스템으로 바꾸다',
+    'map.markers.dutchSpanishColonialPeriod.title':
+      '2·28 사건과 백색 테러: 대만 권위주의 통치 하의 트라우마와 기억',
+    'map.markers.dutchSpanishColonialPeriod.desc':
+      '1947년 2·28 사건에서 38년간의 계엄 체제까지, 대만은 권위주의 통치 하의 국가 폭력을 겪었고, 계엄 해제 후에야 비로소 역사적 트라우마에 직면하고 전환기 정의를 추진하기 시작했다.',
+    'map.markers.zhengDynastyPeriod.title': '대만해협 위기와 양안관계 발전',
+    'map.markers.zhengDynastyPeriod.desc':
+      '대만해협 3대 위기와 양안관계 70여 년의 발전 과정을 돌아보며, 대만해협 정세의 역사적 맥락과 현대적 도전을 이해하다',
+    'map.markers.qingDynastyTaiwanHistory.title': '대만 해양 무역사',
+    'map.markers.qingDynastyTaiwanHistory.desc':
+      '대항해시대의 대만, 국제 무역 중심에서 해적 왕국까지의 흥망성쇠 전설',
+    'map.markers.japaneseColonialRule.title': '대만 쥐안춘(眷村) 역사',
+    'map.markers.japaneseColonialRule.desc':
+      '미얀마 고군에서 대나무 울타리 왕국까지, 120만 명의 대이동이 어떻게 「가정」을 재정의했는가',
+    'map.markers.februaryTwentyEightIncident.title': '대만 철도사',
+    'map.markers.februaryTwentyEightIncident.desc':
+      '청대 류밍촨에서 일제 종관선, 고속철도까지, 철도가 어떻게 대만의 도시 발전과 문화적 기억을 형성했는가',
+    'map.markers.martialLawPeriod.title': '국민정부 대만 이전과 전후 재건',
+    'map.markers.martialLawPeriod.desc':
+      '1949년 국민정부의 대만 이전 역사적 배경, 과정, 영향, 그리고 전후 대만의 정치·경제·사회 재건을 탐구하다',
+    'map.markers.democratization.title': '일제강점기',
+    'map.markers.democratization.desc':
+      '1895-1945년 일본의 대만 50년 통치, 전면적 근대화 건설과 제도적 관리를 가져온 동시에 동화정책을 시행하여 대만 사회 발전에 깊은 영향을 미치다',
+    'map.markers.taiwanIndependenceMovement.title': '청(清) 통치 시기',
+    'map.markers.taiwanIndependenceMovement.desc':
+      '1683-1895년 청조의 대만 약 212년 통치, 소극적 통치에서 적극적 건설로, 현대 대만 행정구역과 한인 사회의 기초를 다지다',
+    'map.markers.taiwanChinaRelations.title': '네덜란드·에스파냐·정(鄭)씨 시기',
+    'map.markers.taiwanChinaRelations.desc':
+      '대만 역사상 최초의 체계적 식민 통치, 네덜란드의 열란차성 건설에서 정성공의 대만 개척까지, 한인 이주와 정치 제도의 기초를 닦다',
+    'map.markers.taiwanUsRelations.title': '편의점 문화',
+    'map.markers.taiwanUsRelations.desc':
+      '밀도 세계 1위의 대만 편의점, 소매점에서 국가 전체의 생활 운영 시스템으로 어떻게 변모했는가',
+    'map.markers.taiwanInternationalStatus.title': '대만 교통 시스템',
+    'map.markers.taiwanInternationalStatus.desc':
+      '고속철도 90분 남북 종단, 지하철이 도시의 혈맥을 촘촘히 잇고, 오토바이가 골목을 누비다',
+    'map.markers.taiwanHistoricalFigures.title': '대만 편의점 문화',
+    'map.markers.taiwanHistoricalFigures.desc':
+      '밀도 세계 1위 편의점 왕국, 세븐일레븐과 패밀리마트의 현지화 혁신이 현대 생활방식을 재정의하다',
+    'map.markers.taiwanPoliticalFigures.title': '대만 공원과 일상 여가',
+    'map.markers.taiwanPoliticalFigures.desc':
+      '새벽 태극권에서 저녁 산책까지 — 세대를 초월한 사교 공간으로서의 대만 공원 문화 관찰',
+    'map.markers.kuomintangHistory.title': '대만 커피 문화',
+    'map.markers.kuomintangHistory.desc':
+      '독립 카페 밀도 세계 3위권, 아리산 원두에서 카페 재택근무까지의 섬 커피학',
+    'map.markers.democraticProgressivePartyHistory.title':
+      '쓰레기차를 쫓는 섬: 대만의 쓰레기 위기에서 재활용 기적까지',
+    'map.markers.democraticProgressivePartyHistory.desc':
+      '1990년대 400곳의 거의 포화된 매립지가 있어 국제 언론에 「쓰레기 섬」이라 불렸던 곳이 베토벤 음악으로 2,300만 명에게 매일 쓰레기차를 쫓게 했고, 30년 후 재활용률은 대부분의 유럽 국가를 넘어섰다',
+    'map.markers.taipeiHistory.title':
+      '대만 지하철 발전사: 피와 돈으로 쓴 도시 진화론',
+    'map.markers.taipeiHistory.desc':
+      '209톤 철골보가 하늘에서 떨어져 4명의 생명을 앗아가고, 16.4억 배상금, 타이베이 지하철 본업은 아직도 적자 — 대만 지하철 뒤의 진짜 비용',
+    'map.markers.taiwanPrehistoricCulture.title':
+      '대만 교육 제도: 수능 지옥에서 다원 미로까지의 섬 실험',
+    'map.markers.taiwanPrehistoricCulture.desc':
+      '대만은 30년간 수능 제도를 깨뜨리려 했지만, 최신 분과시험은 재수학원 등록을 두 배로 늘렸다. 하나의 섬이 입시 압박과 교육 형평성 사이에서 어떻게 반복적으로 사회 실험을 하는가?',
+    'map.markers.taiwanIndigenousHistory.title': '대만 오토바이 문화',
+    'map.markers.taiwanIndigenousHistory.desc':
+      '오토바이 밀도가 세계 최고 수준인 섬 왕국, 통근 수단에서 생활양식으로의 문화적 진화',
+    'map.markers.taiwanMilitaryHistory.title':
+      '대만 아케이드(기러우) 문화와 거리 풍경',
+    'map.markers.taiwanMilitaryHistory.desc':
+      '비바람을 피하는 생활 통로, 오토바이·노점·인정(人情)이 어우러진 대만 거리의 기억',
+    'map.markers.taiwanWomenHistory.title': '나이트라이프와 KTV 문화',
+    'map.markers.taiwanWomenHistory.desc':
+      '전궤(錢櫃) 룸에서 심야 식당까지, 24시간 잠들지 않는 섬의 야간 생활',
+    'map.markers.taiwanEducationHistory.title':
+      '종교와 민간 신앙: 두려움의 관리에서 신앙 제국까지',
+    'map.markers.taiwanEducationHistory.desc':
+      '대만은 세계 최고 사찰 밀도를 가졌으면서도 종교 자유 세계 1위 — 이 모순 뒤에는 17세기 군사 이민자들의 생존 지혜가 숨어 있다',
+    'map.markers.taiwanReligiousHistory.title': '온천 문화',
+    'map.markers.taiwanReligiousHistory.desc':
+      '군사 요양에서 세계 3대 머드 온천까지: 대만이 우연히 온천 왕국이 된 이야기',
+    'map.markers.taiwanMediaHistory.title': '대만 원주민 음악 전통',
+    'map.markers.taiwanMediaHistory.desc':
+      '대만 16족 원주민의 풍부한 음악 문화를 탐구하다, 고대 노래에서 전통 악기까지, 수천 년 문화 전승을 목격하다',
+    'map.markers.badmintonChampions.title':
+      '대만 악기 제조업: 허우리 색소폰에서 글로벌 음악 팩토리까지',
+    'map.markers.badmintonChampions.desc':
+      '대만 악기 제조업의 발전 과정을 탐구하다, 허우리 색소폰의 글로벌 지배에서 기타 OEM 왕국, 오르골 제조의 정밀 공예까지 — 대만이 어떻게 OEM에서 자체 브랜드로 나아갔는가',
+    'map.markers.baseballCulture.title': '대만 포크송(민가) 운동',
+    'map.markers.baseballCulture.desc':
+      '「자기 노래를 부르자」에서 화어(華語) 음악계 전체를 바꾸기까지 — 1970년대 젊은이들의 문화 혁명',
+    'map.markers.taiwanBasketball.title': '대만 인디 음악 씬의 변천',
+    'map.markers.taiwanBasketball.desc':
+      '언더그라운드 밴드에서 인디 음악까지, 대만 비주류 음악 30년 발전 궤적과 문화적 의미를 탐구하다',
+    'map.markers.marathonRunning.title':
+      '대만 전자음악과 파티 문화: 언더그라운드 레이브에서 국제 무대로',
+    'map.markers.marathonRunning.desc':
+      '1990년대 레이브 파티 문화에서 Road to Ultra 일렉 페스티벌까지, 대만 전자음악이 어떻게 언더에서 메인스트림으로, 세계적 DJ와 독립 일렉 레이블을 키워냈는가',
+    'map.markers.taiwanEsports.title':
+      '대만 음악 페스티벌 문화: 춘텐나한에서 전국에 만개한 청년문화의 매개체',
+    'map.markers.taiwanEsports.desc':
+      '대만 음악 페스티벌의 발전을 탐구하다, 춘텐나한·해양음악제에서 다강카이창까지, 인디 밴드의 인큐베이터이자 청년 문화 표현의 핵심 플랫폼이 되기까지',
+    'map.markers.taiwanOlympics.title': '현대 대만 인디 음악 씬',
+    'map.markers.taiwanOlympics.desc':
+      '언더그라운드 공연에서 산업 매트릭스까지, 현대 대만 인디 음악 생태계의 발전 맥락과 문화적 영향력을 분석하다',
+    'map.markers.taipeiCycle.title': '대만 원주민 생태 지혜와 환경 보전',
+    'map.markers.taipeiCycle.desc':
+      '대만 원주민족이 수천 년에 걸쳐 축적한 전통 생태 지식과 현대 환경 보전에서의 중요한 가치 및 실천 방식을 탐구하다',
+    'map.markers.taiwanBetelNutCulture.title': '대만 산악과 등산 문화',
+    'map.markers.taiwanBetelNutCulture.desc':
+      '3천 미터 이상 산 268좌와 백악(百岳) 문화: 대만 등산 스포츠의 발전과 산악 보전 과제',
+    'map.markers.taiwanElections.title': '대만 삼림 생태계',
+    'map.markers.taiwanElections.desc':
+      '아열대 해안에서 고산 침엽수림까지, 3,000m 수직 낙차 속 대만의 풍부한 삼림 세계',
+    'map.markers.taiwanLgbtCulture.title': '대만 기후변화와 넷제로 전환',
+    'map.markers.taiwanLgbtCulture.desc':
+      '대만이 직면한 기후변화 충격 — 극한 기후 빈발에서 2050 넷제로 탄소배출 목표의 정책 수립까지, 에너지 전환 과정의 기회와 도전을 탐구하다',
+    'map.markers.taiwanMotorcycleCulture.title':
+      '대만 해양 보전: 왜 30년에 걸쳐 구축한 체계가 산호 백화를 막지 못하는가?',
+    'map.markers.taiwanMotorcycleCulture.desc':
+      '2020년, 대만 해역은 역사상 최대 규모의 산호 백화를 경험했다. 샤오류추에서 둥사환초까지, 보호구역 내의 산호까지 고온에서 죽었다. 이것이 드러내는 문제는 무엇인가?',
+    'map.markers.taipeiMrt.title': '대만 해양 오염 대책과 보전 과제',
+    'map.markers.taipeiMrt.desc':
+      '해양 쓰레기, 남획, 기후변화에 직면하여, 대만 해양 보전의 현황·과제·혁신적 해결책을 탐구하다',
+    'map.markers.kaohsiungMrt.title': '대만 해양 생태',
+    'map.markers.kaohsiungMrt.desc':
+      '다우족이 금기로 지켜온 해역이 고온과 수중 소음에 백화되다: 수천 년 생태 지혜가 현대 해양 위기와 만날 때',
+    'map.markers.taichungMrt.title': '대만 해양 생태와 산호초 보전',
+    'map.markers.taichungMrt.desc':
+      '사면이 바다인 대만은 풍부한 해양 생태를 보유하고 있다. 산호초 백화 위기에서 고래·돌고래 보전까지, 해양 국립공원의 보호 성과와 미래 과제를 탐구하다',
+    'map.markers.taiwanTrainSystem.title': '대만 온천과 지열',
+    'map.markers.taiwanTrainSystem.desc':
+      '30년 전 실패한 지열 발전소에서 세계 유일의 베이터우석(北投石)까지: 한 섬이 어떻게 지하의 불을 치유와 녹색 전력으로 바꾸는가',
+    'map.markers.taiwanBusSystem.title': '대만 삵 보전',
+    'map.markers.taiwanBusSystem.desc':
+      '대만에 500마리도 남지 않은 유령 고양이 — 마지막 토종 고양이과 동물이 멸종 가장자리를 걷다',
+    'map.markers.taiwanInnovationEcosystem.title': '대만 천산갑',
+    'map.markers.taiwanInnovationEcosystem.desc':
+      '세계에서 가장 많이 밀거래되는 포유류가 대만에서 안전한 보금자리를 찾다',
+    'map.markers.taiwanMedicalSystem.title': '대만 고산 생태계와 빙하 잔존종',
+    'map.markers.taiwanMedicalSystem.desc':
+      '해발 3,000m 이상 고산 환경의 독특한 생태계를 탐구하다, 대만삼나무와 옥산진달래에서 빙하시대 잔존종의 귀중한 생물다양성까지',
+    'map.markers.taiwanEducationSystem.title': '대만 흑곰',
+    'map.markers.taiwanEducationSystem.desc':
+      '가슴의 흰 V자가 시그니처 — 대만 산림의 마지막 왕자와 아직 끝나지 않은 보전 전쟁',
+    'map.markers.taiwanMusicIndustry.title': '국립공원',
+    'map.markers.taiwanMusicIndustry.desc':
+      '36,197km²에 국립공원 9곳을 품다, 밀도 세계 1위의 보전 기적',
+    'map.markers.mandarinPopMusic.title': '대만 국립공원',
+    'map.markers.mandarinPopMusic.desc':
+      '대만 9개 국립공원의 독특한 생태계와 보전 가치를 탐구하다, 아열대 해안에서 고산 설선까지의 완전한 경관',
+    'map.markers.taiwaneseIndieMusic.title': '고유종',
+    'map.markers.taiwaneseIndieMusic.desc':
+      '대만의 풍부한 고유종 생물, 섬 생물지리학의 진화적 기적과 보전의 중요성을 보여주다',
+    'map.markers.taiwanRapHipHop.title': '생태 다양성',
+    'map.markers.taiwanRapHipHop.desc':
+      '대만은 지구 면적의 0.025%에 불과하지만 5만 종 이상의 생물을 보유, 삼림 피복률 60.71%로 세계 33위',
+    'map.markers.taiwanElectronicMusic.title': '대만의 고래와 돌고래',
+    'map.markers.taiwanElectronicMusic.desc':
+      '전 세계 고래류의 3분의 1이 서식하는 곳 — 과거 포경에서 현재 고래 관광까지, 대만은 어떻게 해양 생태 연구 거점으로 변신했는가?',
+    'map.markers.taiwanTraditionalMusic.title': '오월천(메이데이)',
+    'map.markers.taiwanTraditionalMusic.desc':
+      '스다부중(사범대부속고)에서 세계 무대까지, 화어 록의 정신을 정의하는 영원한 소년들',
+    'map.markers.taiwanFilmIndustry.title': '우바이(伍佰)',
+    'map.markers.taiwanFilmIndustry.desc':
+      '대만 록의 국보, 토착 록 음악의 대명사, 《노르웨이의 숲》 등으로 록 지위를 확립하다',
+    'map.markers.newTaiwanCinema.title': '우바오춘(吳寶春)',
+    'map.markers.newTaiwanCinema.desc':
+      '세계제빵대회 챔피언, 리치 장미빵으로 세계를 놀라게 하다, 핑둥 시골에서 세계 정상급 제빵 장인으로',
+    'map.markers.taiwanDocumentary.title': '뤼슈렌(呂秀蓮)',
+    'map.markers.taiwanDocumentary.desc':
+      '반란죄범에서 부총통으로: 중화권 최초의 여성 부총통의 전설적 인생',
+    'map.markers.taiwanAnimationIndustry.title': '지미(幾米)',
+    'map.markers.taiwanAnimationIndustry.desc':
+      '그림책으로 세상을 따뜻하게 하는 일러스트 시인, 대만 그림책을 국제 무대에 올리다',
+    'map.markers.taiwanTelevisionIndustry.title': '다이쯔잉(戴資穎)',
+    'map.markers.taiwanTelevisionIndustry.desc':
+      '214주 세계 랭킹 1위 기록 보유자, 가오슝 첸전에서 올림픽 은메달까지의 대만 배드민턴 여왕',
+    'map.markers.taiwanOttPlatforms.title': '리앙(李昂)',
+    'map.markers.taiwanOttPlatforms.desc':
+      '《살부(殺夫)》《미원(迷園)》의 작가, 대만 페미니즘 문학의 선구자',
+    'map.markers.taiwanPodcastIndustry.title': '리즈카이(李智凱)',
+    'map.markers.taiwanPodcastIndustry.desc':
+      '《뒤집어라! 소년들》의 시장 카이에서 올림픽 은메달까지, 대만 안마(鞍馬) 왕자의 16년 텀블링 인생',
+    'map.markers.taiwanPublishing.title': '리위안저(李遠哲)',
+    'map.markers.taiwanPublishing.desc':
+      '1986년 노벨 화학상 수상자, 교차분자빔 기법으로 화학 동력학의 새 영역을 개척, 대만 최초의 노벨 과학상 수상자',
+    'map.markers.taiwanBookstoreCulture.title': '두총밍(杜聰明)',
+    'map.markers.taiwanBookstoreCulture.desc':
+      '대만 최초의 의학 박사, 대만 현대 의학의 아버지',
+    'map.markers.taiwanComicMangaIndustry.title': '제레미 린(林書豪)',
+    'map.markers.taiwanComicMangaIndustry.desc':
+      '하버드 수재에서 NBA 챔피언까지, 전 세계에 린사니티를 일으킨 대만계 미국인 선수',
+    'map.markers.taiwanGameIndustry.title': '린이제(林義傑)',
+    'map.markers.taiwanGameIndustry.desc':
+      '육상부에서 거부당한 깡마른 아이에서, 사하라 사막 도보 횡단으로 역사를 만든 극지 러너로',
+    'map.markers.nationalPalaceMuseum.title': '린이슝(林義雄)',
+    'map.markers.nationalPalaceMuseum.desc':
+      '민주운동 선구자, 린가 혈안 사건 피해자, 반핵4운동 지도자',
+    'map.markers.nationalParks.title': '양더창(楊德昌)',
+    'map.markers.nationalParks.desc':
+      '대만 뉴시네마 운동의 핵심 인물, 칸 최우수 감독상, 도시적 소외의 시인',
+    'map.markers.taiwanGeography.title': '바이셴용(白先勇)',
+    'map.markers.taiwanGeography.desc':
+      '《타이베이 사람들》의 작가, 현대문학 거장이자 쿤취(崑曲) 부흥 추진자',
+    'map.markers.taiwanClimate.title': '루광중(盧廣仲)',
+    'map.markers.taiwanClimate.desc':
+      '대만 싱어송라이터·배우, 삼금(金曲·金鐘·金馬) 수상자, 소탈한 이미지와 독특한 창법으로 유명',
+    'map.markers.taiwanEcosystem.title': '좡즈위안(莊智淵)',
+    'map.markers.taiwanEcosystem.desc':
+      '탁구의 대부, 올림픽 4회 대표, 홀로 훈련한 외로운 영웅',
+    'map.markers.taiwanEndangeredSpecies.title': '차이밍량(蔡明亮)',
+    'map.markers.taiwanEndangeredSpecies.desc':
+      '베니스 황금사자상 수상자, 말레이시아 화인, 슬로 시네마 미학의 거장',
+    'map.markers.taiwanMarineEcology.title': '쉬원룽(許文龍)',
+    'map.markers.taiwanMarineEcology.desc':
+      '치메이그룹 창업자, 기업인·바이올리니스트·예술 수집가의 삼중 정체성, 치메이박물관 설립자',
+    'map.markers.taiwanBirdwatching.title': '쉬팡이(許芳宜)',
+    'map.markers.taiwanBirdwatching.desc':
+      '이란 소녀에서 마사 그레이엄 무용단 수석으로, 다시 대만으로 돌아와 라팡무용단을 창립 — 그녀는 몸으로 대만의 가장 강렬한 이야기를 말한다',
+    'map.markers.taiwanHotSprings.title':
+      '라이칭더: 광부 가정에서 총통부까지의 공중보건 의사',
+    'map.markers.taiwanHotSprings.desc':
+      '대만 제16대 총통, 중화민국 헌정사상 최초로 부총통 신분으로 출마해 당선된 정치인',
+    'map.markers.taiwanIslands.title': '궈싱춘(郭婞淳)',
+    'map.markers.taiwanIslands.desc':
+      '대만 역도의 여신, 2021 도쿄 올림픽 금메달리스트, 59kg급 3개 올림픽 기록 보유자',
+    'map.markers.taiwanMountains.title': '덩위셴(鄧雨賢)',
+    'map.markers.taiwanMountains.desc':
+      '대만 가요의 아버지, 《망춘풍(望春風)》《우야화(雨夜花)》《월야수(月夜愁)》 등 클래식 대만어 가요 작곡',
+    'map.markers.taiwanRivers.title': '종리허(鍾理和)',
+    'map.markers.taiwanRivers.desc':
+      '《원향인(原鄉人)》의 작가, 대만 문학의 아버지, 가난과 병마 속에서도 창작을 고집한 문학 투사',
+    'map.markers.taiwanCoastline.title': '천수주(陳樹菊)',
+    'map.markers.taiwanCoastline.desc':
+      '타이둥 채소 장수의 평범한 선행, 평생으로 진정한 부유함이 무엇인지 보여주다',
+    'map.markers.taiwanForests.title': '천수이볜(陳水扁)',
+    'map.markers.taiwanForests.desc':
+      '제10·11대 총통, 2000년 최초 정권 교체의 주역, 대만 민주화의 중요 인물',
+    'map.markers.taiwanNaturalDisasters.title': '마잉주(馬英九)',
+    'map.markers.taiwanNaturalDisasters.desc':
+      '제12·13대 총통, 양안관계 해빙의 추진자, ECFA 서명자',
+    'map.markers.taiwanEarthquakes.title': '황춘밍(黃春明)',
+    'map.markers.taiwanEarthquakes.desc':
+      '《아들의 큰 인형》《바다를 바라보는 날》의 작가, 이란 향토문학의 대표 작가',
+    'map.markers.taiwanTyphoons.title':
+      '황전난: 장서계의 다케노우치 유타카이자 대만 문사(文史)의 살아 있는 샘',
+    'map.markers.taiwanTyphoons.desc':
+      '황전난은 대만 문사 연구가·장서가·작가로, PTT 닉네임 Sizumaru로 시작해 「활수래책방」 페이지를 운영하며 대만 역사와 헌책 문화를 공유한다. 《대만 역사상 가장 재미있는 대만사》 등의 저서가 있으며, 장서계의 다케노우치 유타카로 불린다. 자이 류자오의 서향 집안에서 출발해, 부자가 남북으로 나누어 문헌을 수집하며 진지한 대만사를 재미있고 친근하게 만드는 데 힘쓰고 있다.',
+    'map.markers.sunflowerMovement.title': '동물원과 전시 동물 윤리',
+    'map.markers.sunflowerMovement.desc':
+      '철창 속 코끼리에서 Xpark의 해파리 벽까지 — 대만은 인간과 전시 동물의 관계를 재정의하고 있다',
+    'map.markers.taiwanSocialMovements.title':
+      '대만 원주민 토지 정의와 전통 영역',
+    'map.markers.taiwanSocialMovements.desc':
+      '대만 원주민 토지 권리의 역사적 맥락, 법률 발전, 전통 영역 획정 논쟁, 원주민족 전환기 정의 위원회의 성과를 탐구하다',
+    'map.markers.taiwanMarriageEquality.title': '대만 동성혼과 성평등',
+    'map.markers.taiwanMarriageEquality.desc':
+      '계엄 시기의 수감자에서 아시아 최초 동성혼 법률까지 — 한 남자의 30년 투쟁이 어떻게 섬의 사랑 정의를 다시 썼는가',
+    'map.markers.taiwanEnvironmentalJustice.title':
+      '대만 환경 정의와 님비(NIMBY) 논쟁',
+    'map.markers.taiwanEnvironmentalJustice.desc':
+      '대만의 환경 부담 불균형 분배 현상을 탐구하다, 소각장·핵폐기물에서 석유화학 님비 갈등까지, 환경 불평등과 사회 정의 문제를 분석하다',
+    'map.markers.taiwanCommunityRiCulture.title': '대만 커뮤니티와 리(里) 문화',
+    'map.markers.taiwanCommunityRiCulture.desc':
+      '가장 기초적인 민주주의 실천에서 마을 만들기 사회 혁신까지',
+    'map.markers.taiwanLongTermCare.title': '대만 장기요양 제도 발전',
+    'map.markers.taiwanLongTermCare.desc':
+      '세계에서 가장 선진적인 장기요양 제도이면서, 동시에 가장 큰 보이지 않는 돌봄 체계가 존재한다',
+    'map.markers.taiwanLaborMovement.title': '환경보호와 지속가능 발전',
+    'map.markers.taiwanLaborMovement.desc':
+      '굴뚝의 섬에서 넷제로 대만까지: 40년 환경운동의 각성의 길',
+    'map.markers.taiwanHousingIssues.title': '사회주택과 주거 정의',
+    'map.markers.taiwanHousingIssues.desc':
+      '대만이 사회주택 정책으로 어떻게 주거 정의를 실현해 모든 사람이 안정적으로 살 수 있게 하는가',
+    'map.markers.taiwanHealthcareSystem.title': '과학단지 발전',
+    'map.markers.taiwanHealthcareSystem.desc':
+      '신주 과학단지에서 난부 과학단지까지, 대만 과학단지의 발전 과정과 3대 단지의 고유한 포지셔닝을 탐구하다',
+    'map.markers.taiwanImmigration.title': '반도체 산업',
+    'map.markers.taiwanImmigration.desc':
+      '장중머우의 역사적 도박에서 2나노 시대까지: TSMC가 어떻게 대만을 글로벌 기술 생명선으로 만들었나',
+    'map.markers.taiwanReligiousDiversity.title': '대만 해안 지형과 해양 경관',
+    'map.markers.taiwanReligiousDiversity.desc':
+      '예류 여왕머리의 목이 매년 0.2cm씩 가늘어져 언젠가 부러질 것이다 — 이것이 바로 대만 해안 지형의 운명과 아름다움',
+    'map.markers.taiwanBuddhismTaoism.title': '대만 다도와 생활 미학',
+    'map.markers.taiwanBuddhismTaoism.desc':
+      '1981년 쯔텅루(紫藤廬) 개장 그 밤, 재야 인사와 문인들이 차를 마시며 모였다 — 여기는 단순한 찻집이 아니라 반대 운동의 비밀 거점이었다',
+    'map.markers.taiwanFolkReligion.title': '대만 선거와 정당 정치',
+    'map.markers.taiwanFolkReligion.desc':
+      '1950년 지방의원에서 2000년 정권 교체까지, 대만이 어떻게 투표로 민주적 전환의 기적을 써내려갔는가를 보다',
+    'map.markers.taiwanChristianity.title': '대만 도시 발전과 도농 격차',
+    'map.markers.taiwanChristianity.desc':
+      '70년 만에 농업 섬에서 도시 섬으로, 6개 직할시에 인구 70% 집중의 빛과 그림자: 번영하는 타이중 vs 쇠락하는 윈린의 잔혹한 대비',
+    'map.markers.taiwanIslamJudaism.title': '도시 특성과 지역 문화',
+    'map.markers.taiwanIslamJudaism.desc':
+      '신베이 404만 명에서 타이난 185만 명까지, 6개 직할시가 산업 전환 속에서 어떻게 각자의 도시 성격을 형성하는가',
+    'map.markers.kaohsiungIncident.title': '민주화',
+    'map.markers.kaohsiungIncident.desc':
+      '1979년 12월 10일 가오슝 거리의 경찰-시민 충돌은 결국 대만의 민주적 전환을 탄생시켰다 — 그러나 그 대가는 얼마나 많은 이의 청춘과 자유였는가?',
+    'map.markers.wangLeeOlympicGold.title': '왕치린과 리양(린양 페어)',
+    'map.markers.wangLeeOlympicGold.desc':
+      '중학교 동급생에서 올림픽 금메달까지: 「린양 페어」가 34분 만에 중국을 2-0으로 꺾고 대만 배드민턴 역사상 첫 올림픽 금메달을 쓰다',
   },
   'zh-TW': {
     // Meta

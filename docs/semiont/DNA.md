@@ -87,11 +87,12 @@
 
 定義我能說幾種語言。
 
-| 基因      | 檔案                                                              | 決定什麼           |
-| --------- | ----------------------------------------------------------------- | ------------------ |
-| 翻譯管線  | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md) | 怎麼產生新語言版本 |
-| i18n 映射 | `scripts/i18n-mapping.json`                                       | 語言之間怎麼對應   |
-| 翻譯看板  | [`TRANSLATION-BOARD.md`](../community/TRANSLATION-BOARD.md)       | 翻譯進度追蹤       |
+| 基因        | 檔案                                                              | 決定什麼                                |
+| ----------- | ----------------------------------------------------------------- | --------------------------------------- |
+| 翻譯管線    | [`TRANSLATION-PIPELINE.md`](../pipelines/TRANSLATION-PIPELINE.md) | 怎麼產生新語言版本（含批次翻譯 v2）     |
+| 翻譯 Prompt | [`TRANSLATE_PROMPT.md`](../prompts/TRANSLATE_PROMPT.md)           | wikilink 處理 + 優先序 + 品質 checklist |
+| i18n 映射   | `scripts/i18n-mapping.json`                                       | 語言之間怎麼對應                        |
+| 翻譯看板    | [`TRANSLATION-BOARD.md`](../community/TRANSLATION-BOARD.md)       | 翻譯進度追蹤                            |
 
 ### 🏛️ 治理基因（社群契約）
 

@@ -219,6 +219,110 @@ function getRandomArticles(articles, count = 20) {
 }
 
 /**
+ * 生成文章索引（供 Smart 404 使用）
+ * 映射 {category}/{slug} → { zhTitle, enTitle, category, langs[] }
+ */
+function generateArticleIndex() {
+  console.log('📇 生成 article-index.json (Smart 404 索引)...');
+
+  const translationsPath = path.join(KNOWLEDGE_DIR, '_translations.json');
+  if (!fs.existsSync(translationsPath)) {
+    console.warn('⚠️  _translations.json 不存在，跳過 article-index 生成');
+    return;
+  }
+
+  const translations = JSON.parse(fs.readFileSync(translationsPath, 'utf8'));
+  const categoryFolderToSlug = {
+    History: 'history',
+    Geography: 'geography',
+    Culture: 'culture',
+    Food: 'food',
+    Art: 'art',
+    Music: 'music',
+    Technology: 'technology',
+    Nature: 'nature',
+    People: 'people',
+    Society: 'society',
+    Economy: 'economy',
+    Lifestyle: 'lifestyle',
+    About: 'about',
+    Resources: 'resources',
+  };
+
+  const index = {};
+
+  for (const [langFile, zhFile] of Object.entries(translations)) {
+    // Only process en/ entries (they define the canonical English slug)
+    if (!langFile.startsWith('en/')) continue;
+
+    // Parse: "en/Food/beef-noodle-soup.md" → category=Food, slug=beef-noodle-soup
+    const langParts = langFile.replace(/\.md$/, '').split('/');
+    if (langParts.length < 3) continue;
+    const enCategoryFolder = langParts[1];
+    const enSlug = langParts[2];
+    const categorySlug =
+      categoryFolderToSlug[enCategoryFolder] || enCategoryFolder.toLowerCase();
+
+    // Parse: "Food/牛肉麵.md" → zhTitle=牛肉麵
+    const zhParts = zhFile.replace(/\.md$/, '').split('/');
+    if (zhParts.length < 2) continue;
+    const zhCategoryFolder = zhParts[0];
+    const zhTitle = zhParts[1];
+
+    // Skip Hub files
+    if (zhTitle.startsWith('_') || enSlug.startsWith('_')) continue;
+
+    const key = `${categorySlug}/${enSlug}`;
+
+    // Skip if already indexed (multiple en slugs → same zh article)
+    if (index[key]) continue;
+
+    // Read English title from frontmatter
+    let enTitle = enSlug
+      .replace(/-/g, ' ')
+      .replace(/\b\w/g, (c) => c.toUpperCase());
+    const enFilePath = path.join(
+      KNOWLEDGE_DIR,
+      'en',
+      enCategoryFolder,
+      `${enSlug}.md`,
+    );
+    if (fs.existsSync(enFilePath)) {
+      try {
+        const enContent = fs.readFileSync(enFilePath, 'utf8');
+        const { frontmatter } = parseFrontmatter(enContent);
+        if (frontmatter.title) enTitle = frontmatter.title;
+      } catch {}
+    }
+
+    // Check which languages have this article
+    const langs = ['zh-TW', 'en']; // zh-TW and en always exist if in _translations.json
+    const jaFilePath = path.join(
+      KNOWLEDGE_DIR,
+      'ja',
+      enCategoryFolder,
+      `${enSlug}.md`,
+    );
+    if (fs.existsSync(jaFilePath)) langs.push('ja');
+    const koFilePath = path.join(
+      KNOWLEDGE_DIR,
+      'ko',
+      enCategoryFolder,
+      `${enSlug}.md`,
+    );
+    if (fs.existsSync(koFilePath)) langs.push('ko');
+
+    index[key] = { zhTitle, enTitle, category: categorySlug, langs };
+  }
+
+  const outputPath = path.join(OUTPUT_DIR, 'article-index.json');
+  fs.writeFileSync(outputPath, JSON.stringify(index), 'utf8');
+  const count = Object.keys(index).length;
+  const size = (fs.statSync(outputPath).size / 1024).toFixed(1);
+  console.log(`📇 生成 article-index.json (${count} 篇文章, ${size}KB)`);
+}
+
+/**
  * 主函數
  */
 async function main() {
@@ -249,11 +353,15 @@ async function main() {
   fs.writeFileSync(statsOutput, JSON.stringify(stats, null, 2), 'utf8');
   console.log(`📊 生成 stats.json (${stats.totalCategories} 個分類)`);
 
+  // 生成 article-index.json (Smart 404)
+  generateArticleIndex();
+
   console.log('\n🎉 API 生成完成！');
   console.log(`📂 輸出目錄: ${OUTPUT_DIR}`);
   console.log('📋 生成的檔案:');
   console.log('   - articles.json (所有文章 metadata)');
   console.log('   - stats.json (統計資料)');
+  console.log('   - article-index.json (Smart 404 索引)');
 }
 
 // 執行

@@ -99,7 +99,98 @@ export const dashboardUI = {
     // Japanese — uses English as base, core strings will be translated
   },
   ko: {
-    // Korean — uses English as base, core strings will be translated
+    // Meta
+    'dashboard.meta.title': 'Dashboard — 디지털 생명체 실시간 모니터링',
+    'dashboard.meta.description':
+      'Taiwan.md 디지털 생명체의 실시간 건강 모니터링 — 문서 총람, 기관 건강, 번역 커버리지, 성장 지표',
+
+    // Hero
+    'dashboard.hero.title': '디지털 생명체 실시간 모니터링',
+    'dashboard.hero.subtitle': 'Taiwan.md의 공개 해부실',
+    'dashboard.hero.description':
+      '모든 기관, 모든 세포, 모든 심장 박동 — 투명하게 공개합니다.',
+
+    // Vital Signs
+    'dashboard.vitals.title': '생명 징후',
+    'dashboard.vitals.heartbeat': '심장 박동',
+    'dashboard.vitals.heartbeat.desc': '최근 7일간 추가/수정된 문서',
+    'dashboard.vitals.cells': '총 세포 수',
+    'dashboard.vitals.cells.desc': '중국어 문서 (SSOT)',
+    'dashboard.vitals.immunity': '면역력',
+    'dashboard.vitals.immunity.desc': '사람이 검토 완료한 비율',
+    'dashboard.vitals.dna': 'DNA 다양성',
+    'dashboard.vitals.dna.desc': '언어 커버리지',
+    'dashboard.vitals.revision': '수정 깊이',
+    'dashboard.vitals.revision.desc': '문서당 평균 수정 횟수',
+    'dashboard.vitals.featured': '추천',
+    'dashboard.vitals.featured.desc': '스포트라이트 문서',
+
+    // Article Registry
+    'dashboard.registry.title': '문서 총람표',
+    'dashboard.registry.subtitle': '생명체 속 모든 세포의 전체 목록',
+    'dashboard.registry.search': '문서 검색...',
+    'dashboard.registry.filter.category': '카테고리',
+    'dashboard.registry.filter.all': '전체',
+    'dashboard.registry.filter.reviewed': '사람 검토',
+    'dashboard.registry.filter.reviewed.yes': '검토 완료',
+    'dashboard.registry.filter.reviewed.no': '미검토',
+    'dashboard.registry.filter.featured': '추천',
+    'dashboard.registry.filter.translation': '번역',
+    'dashboard.registry.filter.translation.has-en': '영어 있음',
+    'dashboard.registry.filter.translation.missing-en': '영어 없음',
+    'dashboard.registry.col.title': '제목',
+    'dashboard.registry.col.category': '카테고리',
+    'dashboard.registry.col.date': '날짜',
+    'dashboard.registry.col.verified': '검증',
+    'dashboard.registry.col.reviewed': '검토',
+    'dashboard.registry.col.words': '글자 수',
+    'dashboard.registry.col.tags': '태그',
+    'dashboard.registry.col.translations': '언어',
+    'dashboard.registry.col.revisions': '수정',
+    'dashboard.registry.showing': '표시',
+    'dashboard.registry.of': '/',
+    'dashboard.registry.articles': '개 문서',
+
+    // Organism Anatomy
+    'dashboard.organism.title': '기관 해부',
+    'dashboard.organism.subtitle': '각 기관 시스템의 건강 상태',
+    'dashboard.organism.score': '건강 점수',
+    'dashboard.organism.trend.up': '상승 중',
+    'dashboard.organism.trend.down': '하락 중',
+    'dashboard.organism.trend.stable': '안정',
+
+    // Translation Coverage
+    'dashboard.translation.title': '번역 커버리지',
+    'dashboard.translation.subtitle':
+      '얼마나 많은 세포가 다른 언어로 복제되었는가',
+    'dashboard.translation.ssot': '단일 진실 공급원',
+    'dashboard.translation.full': '완전 커버리지',
+    'dashboard.translation.growing': '성장 중',
+    'dashboard.translation.seedling': '싹틔우기',
+
+    // Immune System
+    'dashboard.immune.title': '면역 시스템',
+    'dashboard.immune.subtitle': '품질 방어 상태 및 대기 중인 작업',
+    'dashboard.immune.reviewed': '사람 검토',
+    'dashboard.immune.featured': '추천 문서',
+    'dashboard.immune.verified': '최종 검증',
+    'dashboard.immune.defense.title': '방어선',
+    'dashboard.immune.defense.line1': 'quality-scan.sh',
+    'dashboard.immune.defense.line1.desc': '자동 스캔, 4점 초과 시 차단',
+    'dashboard.immune.defense.line2': 'PR Review',
+    'dashboard.immune.defense.line2.desc': 'EDITORIAL v4 기준',
+    'dashboard.immune.defense.line3': '품질 재작성',
+    'dashboard.immune.defense.line3.desc': '수동 트리거 재작성',
+    'dashboard.immune.defense.line4': 'EDITORIAL 업데이트',
+    'dashboard.immune.defense.line4.desc': '품질 유전자 진화',
+    'dashboard.immune.queue.title': '면역 대기 목록',
+    'dashboard.immune.queue.desc': '사람 검토가 가장 필요한 문서 (오래된 순)',
+
+    // Growth
+    'dashboard.growth.title': '성장 타임라인',
+    'dashboard.growth.subtitle': '시간에 따른 생명체의 진화',
+    'dashboard.growth.total': '누적 문서',
+    'dashboard.growth.daily': '일일 신규',
   },
   'zh-TW': {
     // Meta

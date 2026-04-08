@@ -28,7 +28,29 @@ export const changelogUI = {
     // Japanese — uses English as base, core strings will be translated
   },
   ko: {
-    // Korean — uses English as base, core strings will be translated
+    // Meta
+    'changelog.meta.title': '사이트 업데이트 기록',
+    'changelog.meta.description':
+      'Taiwan.md의 실시간 업데이트 기록, 모든 콘텐츠 추가와 사이트 개선 사항을 추적합니다.',
+
+    // Header
+    'changelog.header.title': '사이트 업데이트 기록',
+    'changelog.header.subtitle':
+      'Taiwan.md의 모든 콘텐츠 추가와 사이트 개선 사항을 추적합니다',
+    'changelog.header.meta.updates': '건 업데이트 기록',
+    'changelog.header.meta.synced': '자동 동기화 출처:',
+
+    // Timeline
+    'changelog.day.updates': '건 업데이트',
+
+    // Locale for date formatting
+    'changelog.locale': 'ko-KR',
+
+    // Relative time
+    'changelog.time.just-now': '방금',
+    'changelog.time.minutes-ago': '분 전',
+    'changelog.time.hours-ago': '시간 전',
+    'changelog.time.days-ago': '일 전',
   },
   'zh-TW': {
     // Meta

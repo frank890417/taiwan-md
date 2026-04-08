@@ -518,7 +518,506 @@ export const resourcesUI = {
     // Japanese — uses English as base, core strings will be translated
   },
   ko: {
-    // Korean — uses English as base, core strings will be translated
+    // Meta
+    'resources.meta.title': '대만 리소스 가이드 - Taiwan.md',
+    'resources.meta.description':
+      '대만 정부기관, 문화기관, 오픈데이터 플랫폼 등 공식 웹사이트를 총망라하여 정책 정보, 문화 콘텐츠, 통계 데이터의 원스톱 입구를 제공합니다',
+
+    // Hero
+    'resources.hero.title': '대만 리소스 가이드',
+    'resources.hero.subtitle.html':
+      '정부기관, 문화기관, 오픈데이터 등 공식 리소스를 총망라<br />대만의 가장 권위 있는 정보 소스를 한곳에서',
+
+    // Breadcrumb
+    'resources.breadcrumb.home': '홈',
+    'resources.breadcrumb.current': '리소스',
+
+    // Core section
+    'resources.core.title': '🏆 핵심 엄선',
+    'resources.core.desc': '마인드맵에 표시된 가장 중요한 대만 공식 리소스',
+
+    // More section
+    'resources.more.title': '🔍 더 많은 카테고리',
+    'resources.more.desc': '지방정부, 대학 및 각 분야 상세 리소스를 포괄',
+
+    // Category labels (heroData)
+    'resources.category.government.label': '🏛️ 공공기관',
+    'resources.category.culture.label': '📚 문화와 교육',
+    'resources.category.tourism.label': '✈️ 관광과 여행',
+    'resources.category.economy.label': '💼 기술과 경제',
+    'resources.category.media.label': '📰 미디어와 뉴스',
+    'resources.category.opendata.label': '🌐 오픈데이터',
+    'resources.category.taiwanmd.label': '📡 Taiwan.md 관련',
+
+    // Section titles & descriptions
+    'resources.section.localGov.title': '🏙️ 지방정부',
+    'resources.section.localGov.desc':
+      '대만 6대 직할시 및 각 시·군 정부 공식 웹사이트',
+
+    'resources.section.universities.title': '🎓 대학과 연구기관',
+    'resources.section.universities.desc': '대만 최고의 대학과 주요 연구기관',
+
+    'resources.section.nationalParks.title': '🏔️ 국립공원',
+    'resources.section.nationalParks.desc': '대만 국립공원 및 풍경구 관리처',
+
+    'resources.section.artsCulture.title': '🎭 예술문화 시설',
+    'resources.section.artsCulture.desc': '주요 박물관, 미술관, 공연장',
+
+    'resources.section.healthcare.title': '🏥 의료·건강',
+    'resources.section.healthcare.desc': '보건 주무기관 및 주요 의료기관',
+
+    'resources.section.ngoSociety.title': '🤝 NGO / 시민사회',
+    'resources.section.ngoSociety.desc': '비영리 단체와 주요 시민사회 조직',
+
+    'resources.section.ministries.title': '🏛️ 정부 부처',
+    'resources.section.ministries.desc': '행정원 각 부처 및 관련 기관',
+
+    'resources.section.companies.title': '🏢 주요 기업',
+    'resources.section.companies.desc': '대만 대표 기업과 테크 기업',
+
+    'resources.section.mediaExtra.title': '📺 전통 미디어',
+    'resources.section.mediaExtra.desc': '주류 뉴스 미디어와 방송',
+
+    'resources.section.transportation.title': '🚄 교통',
+    'resources.section.transportation.desc': '대중교통 및 교통 서비스',
+
+    'resources.section.digitalCulture.title': '💾 디지털 문화',
+    'resources.section.digitalCulture.desc':
+      '디지털 아카이브 및 과학 교육 플랫폼',
+
+    // Projects
+    'resources.projects.title': '🚀 커뮤니티 프로젝트',
+    'resources.projects.desc': '커뮤니티의 창의와 열정, 코드로 대만을 알아가다',
+
+    'resources.projects.food.title': '🍔 맛집 지도',
+    'resources.projects.food.burger.name': '타이베이 버거 지도',
+    'resources.projects.food.burger.desc':
+      '인터랙티브 타이베이 버거 맛집 랭킹 지도, 품질별 등급(T0-T6), 행정구별 필터링 가능',
+    'resources.projects.food.burger.tech': 'JavaScript / Leaflet',
+
+    'resources.projects.nightmarket.title': '🌙 야시장 가이드',
+    'resources.projects.nightmarket.app.name': 'NightMarketSwift',
+    'resources.projects.nightmarket.app.desc':
+      '대만 야시장 iOS 앱, 400곳 이상 수록, 영업시간 및 Google Maps 내비게이션 포함',
+    'resources.projects.nightmarket.app.tech': 'Objective-C / Swift',
+
+    'resources.projects.civictech.title': '🗳️ 시빅테크',
+    'resources.projects.civictech.g0v.name': 'g0v 영시정부',
+    'resources.projects.civictech.g0v.desc':
+      '대만 최대 시빅테크 커뮤니티, 열린 정부와 정보 투명화 추진',
+    'resources.projects.civictech.g0v.tech': '멀티스택',
+
+    'resources.projects.civictech.cofacts.name': 'Cofacts 진짜가짜',
+    'resources.projects.civictech.cofacts.desc':
+      '크라우드소싱 팩트체크 챗봇, 가짜 뉴스에 맞서다',
+    'resources.projects.civictech.cofacts.tech': 'JavaScript / GraphQL',
+
+    'resources.projects.civictech.disfactory.name': 'Disfactory 농지 불법 공장',
+    'resources.projects.civictech.disfactory.desc':
+      '시민이 농지 위 불법 공장을 신고하는 플랫폼, 대만 농지 보호',
+    'resources.projects.civictech.disfactory.tech': 'Vue.js / Django',
+
+    // CTA & Links
+    'resources.projects.cta.html':
+      '추천할 프로젝트가 있나요? <a href="https://github.com/frank890417/taiwan-md/issues" target="_blank" rel="noopener noreferrer">GitHub Issue</a>로 제출해 주세요!',
+    'resources.projects.github.link': 'GitHub',
+    'resources.backToHome': '← 홈으로 돌아가기',
+
+    // Mindmap
+    'resources.mindmap.root.label': '🇹🇼 대만 리소스',
+
+    // Chapter nav labels
+    'resources.nav.governance': '거버넌스',
+    'resources.nav.culture': '문화',
+    'resources.nav.media': '미디어',
+    'resources.nav.economy': '경제',
+    'resources.nav.community': '커뮤니티',
+
+    // Chapter titles & stories
+    'resources.chapter.government.title': '국가 거버넌스 입구',
+    'resources.chapter.government.story':
+      '2020년 2월, 대만 엔지니어들이 주말 한 번으로 6,000개 약국의 실시간 마스크 재고를 연동했다. 한 사람, 노트북 한 대, 72시간. 이것이 가능한 이유는 data.gov.tw에 50,000건 이상의 정부 데이터셋이 누구나 언제든 사용할 수 있게 준비되어 있기 때문이다. 대만은 「거버넌스 투명성」을 다운로드 가능한 모든 API에 새겼다.',
+    'resources.chapter.culture.title': '문화와 지식의 전당',
+    'resources.chapter.culture.story':
+      '36,000km²도 안 되는 면적에 159개 대학, 500개 이상의 박물관, 9개 국립공원이 있고, 3,952m 위산(옥산)에서 산호초 해안까지 펼쳐진다. 국립고궁박물원은 약 70만 점의 중화 문화 보물을 소장하고 있으며, 동네 사찰의 제례도 살아 있는 문화유산이다. 이 섬의 문화 밀도는 지도 위의 크기를 훨씬 초월한다.',
+    'resources.chapter.media.title': '대만의 목소리를 듣다',
+    'resources.chapter.media.story':
+      '1995년, 대만대학 학생들이 기숙사에 BBS 서버를 설치하고 PTT라 이름 붙였다. 30년이 지난 지금도 이 순수 텍스트 포럼은 대만에서 가장 영향력 있는 공론장이다. 2014년 해바라기 운동 당시 PTT는 가장 빠르고 완전한 실시간 정보원이었다. 대만의 미디어 생태계는 주류 신문부터 네티즌 포럼까지, 모든 층위에서 민주주의의 발언권을 쟁취하고 있다.',
+    'resources.chapter.economy.title': '경제와 생활 엔진',
+    'resources.chapter.economy.story':
+      '전 세계 스마트폰 두 대 중 하나에 TSMC가 만든 칩이 들어 있다. 지정학 학자들은 이를 「실리콘 방패」라 부른다. 하지만 칩은 빙산의 일각: 99.9% 건강보험 커버리지, 2.3km²당 편의점 1곳, 타이베이에서 가오슝까지 90분 고속철도. 2,300만 명의 일상을 떠받치는 것은 거의 느낄 수 없지만 어디에나 있는 정밀한 시스템이다.',
+    'resources.chapter.community.title': '시빅테크와 커뮤니티',
+    'resources.chapter.community.story':
+      "g0v 영시정부의 모토는 「아무도 안 하냐고 묻지 말라, 당신이 바로 그 '아무도'니까.」 마스크 지도, 팩트체크 봇, 선거 공약 추적기 — 모두 주말 해커톤에서 탄생했다. 대만에서 시민 참여란 이런 것이다: 코드를 짜고, Issue를 열고, Pull Request를 보낸다. Taiwan.md도 바로 이 정신의 산물이다.",
+
+    // Insight cards
+    'resources.insight.gov.branches.number': '5',
+    'resources.insight.gov.branches.label': '개 원(院)급 기관',
+    'resources.insight.gov.ministries.number': '20+',
+    'resources.insight.gov.ministries.label': '개 부처',
+    'resources.insight.gov.local.number': '22',
+    'resources.insight.gov.local.label': '개 시·군 정부',
+
+    'resources.insight.culture.universities.number': '159',
+    'resources.insight.culture.universities.label': '개 대학',
+    'resources.insight.culture.museums.number': '500+',
+    'resources.insight.culture.museums.label': '개 박물관',
+    'resources.insight.culture.parks.number': '9',
+    'resources.insight.culture.parks.label': '개 국립공원',
+
+    'resources.insight.media.ptt.number': '20만',
+    'resources.insight.media.ptt.label': 'PTT 일일 활성 사용자',
+    'resources.insight.media.outlets.number': '100+',
+    'resources.insight.media.outlets.label': '개 미디어',
+    'resources.insight.media.ngo.number': '1000+',
+    'resources.insight.media.ngo.label': '개 NGO',
+
+    'resources.insight.econ.tsmc.number': '92%',
+    'resources.insight.econ.tsmc.label': 'TSMC 첨단 공정',
+    'resources.insight.econ.hsr.number': '99.5%',
+    'resources.insight.econ.hsr.label': '고속철도 정시율',
+    'resources.insight.econ.nhi.number': '99.9%',
+    'resources.insight.econ.nhi.label': '건강보험 커버리지',
+
+    'resources.insight.community.g0v.number': '2012',
+    'resources.insight.community.g0v.label': 'g0v 설립',
+    'resources.insight.community.contributors.number': '10K+',
+    'resources.insight.community.contributors.label': '기여자',
+    'resources.insight.community.projects.number': '800+',
+    'resources.insight.community.projects.label': '개 프로젝트',
+
+    // Subcategory titles
+    'resources.sub.fiveYuan': '5원(五院) 핵심',
+    'resources.sub.fiveYuan.desc':
+      '이 다섯 개 원(院)은 대만 고유의 오권분립 제도를 구성하며, 세계에서 유일하다.',
+    'resources.sub.ministries': '각 부처',
+    'resources.sub.ministries.desc':
+      '디지털발전부에서 원주민족위원회까지, 각 부처마다 자체 오픈데이터 섹션을 운영한다.',
+    'resources.sub.localGov': '지방정부',
+    'resources.sub.localGov.desc':
+      '22개 시·군, 22가지 지역 거버넌스 스타일. 6대 직할시의 스마트시티 경쟁이 시민 서비스를 재정의하고 있다.',
+    'resources.sub.openData': '오픈데이터',
+    'resources.sub.openData.desc':
+      '여기가 대만 시빅테크 기적의 출발점이다. 마스크 지도, 백신 예약, 대기질 모니터링 — 모두 이 플랫폼에서 시작됐다.',
+    'resources.sub.universities': '최고 대학 및 연구기관',
+    'resources.sub.universities.desc':
+      '대만의 대학은 가르치는 것만이 아니다. 대만대학 양자컴퓨팅 연구실, 성공대학 반도체 연구센터는 글로벌 학술 네트워크의 핵심 노드다.',
+    'resources.sub.museums': '박물관과 도서관',
+    'resources.sub.museums.desc':
+      '고궁박물원의 취옥백채(翠玉白菜)에서 치메이박물관의 바이올린 컬렉션까지, 대만의 박물관은 시공을 초월하는 문이다.',
+    'resources.sub.venues': '예술문화 시설과 문창(文創)',
+    'resources.sub.venues.desc':
+      '대만의 예술 생태계가 비상하고 있다. C-LAB, 국가양청원(두 극장), 가오슝 웨이우잉 — 세계적 수준 시설의 밀도가 뉴욕마저 부럽게 한다.',
+    'resources.sub.parks': '국립공원과 풍경구',
+    'resources.sub.parks.desc':
+      '해발 0m에서 3,952m까지, 대만의 9개 국립공원은 지구상 모든 기후대를 포괄한다. 하루 만에 열대 산호초에서 고산 설선까지 갈 수 있다.',
+    'resources.sub.mainstream': '주류 미디어',
+    'resources.sub.mainstream.desc':
+      '1988년 계엄 해제 후 신문 발행 자유화에서 오늘날의 24시간 뉴스 채널 경쟁까지, 대만의 언론 자유는 쉽게 얻은 것이 아니다.',
+    'resources.sub.digital': '디지털 네이티브 미디어',
+    'resources.sub.digital.desc':
+      '전통 미디어가 고전하는 동안, 대만의 디지털 네이티브 미디어가 저널리즘을 재정의하고 있다. 보도자(報導者)의 비영리 모델은 심층 보도가 광고 없이도 생존할 수 있음을 증명했다.',
+    'resources.sub.ngo': '시민사회와 NGO',
+    'resources.sub.ngo.desc':
+      '대만의 NGO 밀도는 아시아 최고다. 환경에서 인권까지, 이 단체들은 정부를 감시할 뿐 아니라 종종 정책보다 앞서 나간다.',
+    'resources.sub.companies': '산업 선두 기업',
+    'resources.sub.companies.desc':
+      'TSMC에서 폭스콘까지, 이 기업들의 이름은 전 세계 공급망 보고서에 등장한다.',
+    'resources.sub.transport': '교통',
+    'resources.sub.transport.desc':
+      '대만 고속철도는 타이베이에서 가오슝까지 단 90분. 여기에 지하철, 실시간 버스 시스템, YouBike까지 더하면 대만의 대중교통은 아시아의 숨겨진 챔피언이다.',
+    'resources.sub.healthcare': '의료·건강',
+    'resources.sub.healthcare.desc':
+      '전민건강보험: 카드 한 장, 99.9% 커버리지, 평균 대기시간 15분. 미국조차 대만의 비결을 연구하고 있다.',
+    'resources.sub.finance': '금융과 데이터',
+    'resources.sub.finance.desc':
+      '대만증권거래소는 아시아에서 가장 투명한 시장 중 하나다. 상장기업 재무제표에서 실시간 거래 데이터까지 모두 공개 열람 가능하다.',
+    'resources.sub.civicTech': '시빅테크 프로젝트',
+    'resources.sub.foodMaps': '맛집·문화 지도',
+
+    // Related articles
+    'resources.related.democracy': '관련 읽기: 대만 민주적 전환',
+    'resources.related.label': '관련 읽기',
+    'resources.related.government.1': '대만 민주적 전환',
+    'resources.related.government.2': '선거와 정당 정치',
+    'resources.related.government.3': '오픈소스 커뮤니티와 g0v',
+    'resources.related.culture.1': '원주민 문화',
+    'resources.related.culture.2': '교육 제도',
+    'resources.related.culture.3': '국립공원',
+    'resources.related.media.1': '해바라기 학생운동',
+    'resources.related.media.2': '미디어와 언론 자유',
+    'resources.related.media.3': 'PTT',
+    'resources.related.economy.1': 'TSMC',
+    'resources.related.economy.2': '반도체 산업',
+    'resources.related.economy.3': '전민건강보험',
+    'resources.related.community.1': '오픈소스 커뮤니티와 g0v',
+    'resources.related.community.2': '사회운동과 시민 참여',
+    'resources.related.community.3': '디지털 정부',
+
+    // Footer stats
+    'resources.stats.collected': '개 리소스 수록',
+    'resources.stats.chapters': '개 대단원',
+    'resources.stats.subcategories': '개 소단원',
+
+    // Search
+    'resources.search.placeholder': '리소스 검색...',
+
+    // Aria labels
+    'resources.aria.viewGithub': 'GitHub 프로젝트 보기',
+    'resources.aria.backToTop': '맨 위로 돌아가기',
+
+    // Reading Guide
+    'resources.guide.title': '어디서 시작할까',
+    'resources.guide.desc':
+      '가이드북 없이 대만에 도착했다고 상상해 보자. 「거버넌스」는 운영체제를 보여준다: 젊은 민주주의 국가가 급진적 투명성으로 어떻게 돌아가는지. 「문화」는 영혼이다: 500개 박물관, 연간 15,000회 사찰 축제, 16개 원주민 언어가 스위스보다 작은 섬에 빽빽이 들어차 있다. 「미디어」는 대화를 드러낸다: 30년 된 순수 텍스트 포럼이 여전히 선거를 좌우하고, 아시아에서 가장 대담한 비영리 뉴스룸이 바로 여기에 있다. 「경제」는 심장박동이다: 한 기업이 세계 첨단 칩의 92%를 생산하고, 전민건강보험료는 휴대폰 요금보다 싸다. 「커뮤니티」는 초대장이다: 주말 해커톤으로 시민 도구를 만드는 오픈소스 시민들과 함께하자.',
+
+    // Curator Notes
+    'resources.curator.government':
+      '🔍 COVID-19 당시, 대만 민간 개발자들은 72시간 만에 마스크 지도와 백신 예약 시스템을 만들었다. 이 속도 뒤에는 세계 3위권의 정부 오픈데이터 플랫폼이 있다. 50,000건 이상의 데이터셋, 실시간 API, 누구나 사용 가능. 다른 나라 개발자들이 정부 기자회견을 기다리는 동안, 대만 개발자들은 이미 코드를 짜고 있었다.',
+    'resources.curator.culture':
+      '🔍 대만의 박물관 밀도가 아시아 최고 수준이라는 사실을 아는 사람은 드물다. 하지만 숫자는 표면일 뿐, 진정 특별한 것은 「살아 있는」 문화다: 연간 15,000회 이상의 사찰 축제, 원주민 16개 언어, 하카 산가(山歌) 경연. 대만의 문화는 유리 진열장 안에만 있지 않다. 거리 위를 걸어 다닌다.',
+    'resources.curator.media':
+      '🔍 PTT의 영향력이 얼마나 클까? 2018년 국민투표 당시, PTT 가십판의 토론량은 투표율과 직접적으로 상관관계를 보였다. 보도자(報導者)도 놀랍다: 기부금만으로 운영되는 탐사 보도 매체가 연속으로 아시아 저널리즘상에 노미네이트됐다. 가짜 뉴스가 범람하는 시대에, 대만에는 가장 활발한 네티즌 문화와 가장 진지한 팩트체크 커뮤니티가 공존한다. 이 모순 자체가 민주주의의 활력이다.',
+    'resources.curator.economy':
+      '🔍 각국이 「칩스법」에 얼마를 보조금으로 쓸지 논쟁하는 동안, 대만은 이미 30년에 걸쳐 웨이퍼 위에 답을 써넣었다: 석유도 없고 철광석도 없는 작은 섬이, 인재와 나노미터급 공정으로 세계 첨단 칩 생산의 92%를 장악했다. 이 숫자 덕에 펜타곤 보고서에 새 단어가 생겼다: 「실리콘 방패」.',
+    'resources.curator.community':
+      '🔍 g0v의 격월 해커톤은 60회 이상 개최되었고, 매번 수백 명의 엔지니어·디자이너·NGO 활동가가 자원 참여한다. 보수 없이, 상사 없이, 노트북 한 대와 해결하고 싶은 문제 하나만으로. 마스크 지도가 이렇게 탄생했다: 주말 하나, 엔지니어 몇 명, 6,000개 약국의 실시간 데이터. 실리콘밸리는 「세계를 바꾸겠다」고 외치지만, 대만의 오픈소스 커뮤니티는 그냥 만들어서 보여준다.',
+
+    // Featured site descriptions
+    'resources.featured.dataGov':
+      '세계 1위의 정부 오픈데이터 플랫폼, 50,000건 이상의 데이터셋, 대기질에서 실시간 버스 위치까지 모두 무료 다운로드.',
+    'resources.featured.g0vGov':
+      '영시정부: 거버넌스를 다시 쓰는 시빅테크 커뮤니티. 마스크 지도에서 vTaiwan까지, 해커와 정책 입안자의 경계를 허물다.',
+    'resources.featured.legislativeYuan':
+      '대만 국회. 의사 실시간 중계, 법안 추적, 민주적 심의의 최전선.',
+
+    'resources.featured.npm':
+      '8,000년에 걸친 70만 점 이상의 유물을 소장한, 세계 최고의 중화 예술 컬렉션 중 하나. 현재 디지털 전시도 진행 중.',
+    'resources.featured.ncl':
+      '대만의 국가도서관 겸 법정 납본 센터, 국가 출판 지식의 아카이브.',
+    'resources.featured.npgov':
+      '9개 국립공원의 관문. 3,000m 고산에서 산호초까지, 36,000km²의 놀라운 생물다양성을 커버.',
+
+    'resources.featured.twreporter':
+      '중화권 비영리 탐사 보도의 선구자, 환경·사회·정치 이슈를 깊이 파고들다.',
+    'resources.featured.ptt':
+      '대만 최대 온라인 포럼. 1995년부터 매일 20만 활성 사용자가 독특한 「네티즌 민주주의」를 이끌다.',
+    'resources.featured.ptsNews':
+      '대만 공영방송 뉴스. 독립적이고 공정한 보도, 공익 저널리즘의 기준.',
+
+    'resources.featured.tsmc':
+      '세계에서 가장 가치 있는 반도체 기업, AI·스마트폰·슈퍼컴퓨터를 구동하는 최첨단 칩의 92%를 생산.',
+    'resources.featured.twse':
+      '대만 자본시장의 핵심, TSMC와 폭스콘이 상장된 곳.',
+    'resources.featured.nhi':
+      '인구의 99.9%를 커버하면서 GDP의 6.6%만 쓰는 전민건강보험, 전 세계 보건정책 전문가들이 연구하는 모델.',
+
+    'resources.featured.g0v':
+      '세계에서 가장 영향력 있는 시빅테크 커뮤니티. COVID 마스크 지도, vTaiwan 심의 플랫폼, 그리고 한 명의 디지털 장관을 탄생시키다.',
+    'resources.featured.cofacts':
+      'LINE에서의 크라우드소싱 팩트체크, 수백만 사용자가 AI 보조 검증으로 가짜 뉴스에 맞서다.',
+    'resources.featured.taiwanmd':
+      '지금 보고 있는 바로 이 프로젝트, 오픈소스·커뮤니티 협업의 대만 백과사전.',
+
+    // Section footer
+    'resources.section.footer.verified': '최종 확인: 2026-03-24',
+    'resources.section.footer.reportLink': '끊어진 링크 신고',
+
+    // Footer / Last updated
+    'resources.footer.lastUpdated': '최종 업데이트: 2026년 3월',
+    'resources.footer.report': '끊어진 링크 신고',
+    'resources.footer.reportUrl':
+      'https://github.com/frank890417/taiwan-md/issues',
+    'resources.footer.stats.total': '200+',
+
+    // Site names
+    'resources.site.president': '중화민국 총통부',
+    'resources.site.executiveYuan': '행정원',
+    'resources.site.legislativeYuan': '입법원',
+    'resources.site.judicialYuan': '사법원',
+    'resources.site.examinationYuan': '고시원',
+    'resources.site.controlYuan': '감찰원',
+
+    'resources.site.mofa': '외교부',
+    'resources.site.moda': '디지털발전부',
+    'resources.site.cip': '원주민족위원회',
+    'resources.site.moc': '문화부',
+    'resources.site.moe': '교육부',
+    'resources.site.moea': '경제부',
+    'resources.site.motc': '교통부',
+    'resources.site.moi': '내정부',
+    'resources.site.ndc': '국가발전위원회',
+    'resources.site.mac': '대륙위원회',
+    'resources.site.mol': '노동부',
+    'resources.site.moenv': '환경부',
+    'resources.site.moa': '농업부',
+    'resources.site.mnd': '국방부',
+    'resources.site.moj': '법무부',
+    'resources.site.mohw': '위생복리부',
+    'resources.site.trade': '경제부 국제무역서',
+    'resources.site.sme': '중소·스타트업기업서',
+    'resources.site.tipo': '경제부 지식재산국',
+    'resources.site.fsc': '금융감독관리위원회',
+    'resources.site.immigration': '내정부 이민서',
+    'resources.site.cwa': '중앙기상서',
+    'resources.site.nstc': '국가과학기술위원회',
+
+    'resources.site.taipei': '타이베이시 정부',
+    'resources.site.newTaipei': '신베이시 정부',
+    'resources.site.taichung': '타이중시 정부',
+    'resources.site.kaohsiung': '가오슝시 정부',
+    'resources.site.tainan': '타이난시 정부',
+    'resources.site.taoyuan': '타오위안시 정부',
+    'resources.site.keelung': '지룽시 정부',
+    'resources.site.hsinchu': '신주시 정부',
+    'resources.site.chiayi': '자이시 정부',
+    'resources.site.yilan': '이란현 정부',
+    'resources.site.hsinchuCounty': '신주현 정부',
+    'resources.site.miaoli': '먀오리현 정부',
+    'resources.site.changhua': '장화현 정부',
+    'resources.site.nantou': '난터우현 정부',
+    'resources.site.yunlin': '윈린현 정부',
+    'resources.site.chiayiCounty': '자이현 정부',
+    'resources.site.pingtung': '핑둥현 정부',
+    'resources.site.taitung': '타이둥현 정부',
+    'resources.site.hualien': '화롄현 정부',
+    'resources.site.penghu': '펑후현 정부',
+    'resources.site.kinmenGov': '진먼현 정부',
+    'resources.site.lienchiang': '롄장현 정부',
+
+    'resources.site.dataGov': '정부 오픈데이터 플랫폼',
+    'resources.site.taiwanGov': '정부 포털 사이트',
+    'resources.site.lawDb': '전국 법규 데이터베이스',
+    'resources.site.g0v': 'g0v 영시정부',
+
+    'resources.site.ntu': '국립대만대학',
+    'resources.site.nthu': '국립칭화대학',
+    'resources.site.nycu': '국립양밍교통대학',
+    'resources.site.ncku': '국립성공대학',
+    'resources.site.nccu': '국립정치대학',
+    'resources.site.ntnu': '국립대만사범대학',
+    'resources.site.sinica': '중앙연구원',
+    'resources.site.tesd': '대만 경험적 조사 데이터 플랫폼',
+    'resources.site.tcs': '대만 커뮤니케이션 조사 데이터베이스',
+    'resources.site.brill': 'Brill 대만학 백과사전',
+    'resources.site.itri': '공업기술연구원',
+    'resources.site.niar': '국가실험연구원',
+    'resources.site.airitilibrary': 'airiti 디지털 도서관',
+    'resources.site.ndltd': '대만 박·석사 논문 지식 가치 시스템',
+
+    'resources.site.ncl': '국립중앙도서관',
+    'resources.site.npm': '국립고궁박물원',
+    'resources.site.ntm': '국립대만박물관',
+    'resources.site.nmth': '국립대만역사박물관',
+    'resources.site.nmns': '국립자연과학박물관',
+    'resources.site.nmmba': '국립해양생물박물관',
+    'resources.site.nmtl': '국립대만문학관',
+    'resources.site.ntmofa': '국립대만미술관',
+
+    'resources.site.tfam': '타이베이시립미술관',
+    'resources.site.kmfa': '가오슝시립미술관',
+    'resources.site.npacNtt': '타이중 국가가극원',
+    'resources.site.npacNtch': '국가양청원(두 극장)',
+    'resources.site.weiwuying': '웨이우잉 예술센터',
+    'resources.site.songshan': '쑹산 문창원구',
+    'resources.site.huashan': '화산 문창원구',
+    'resources.site.pier2': '보얼 예술특구',
+    'resources.site.digitalArchives': '디지털 대만',
+    'resources.site.scitechVista': '과학기술 전망대',
+    'resources.site.tcmb': '국가문화기억고',
+    'resources.site.taicca': '문책원 TAICCA',
+
+    'resources.site.yushan': '위산(옥산) 국립공원',
+    'resources.site.taroko': '타로코 국립공원',
+    'resources.site.kenting': '컨딩 국립공원',
+    'resources.site.sheipa': '쉐바 국립공원',
+    'resources.site.yangmingshan': '양명산 국립공원',
+    'resources.site.kinmenPark': '진먼 국립공원',
+    'resources.site.taijiang': '타이장 국립공원',
+    'resources.site.dongsha': '둥사환초 국립공원',
+    'resources.site.southPenghu': '펑후남방사도 해양국립공원',
+    'resources.site.taiwanTourism': 'Taiwan Tourism',
+    'resources.site.sunMoonLake': '르웨탄(일월담) 국가풍경구',
+    'resources.site.alishan': '아리산 국가풍경구',
+
+    'resources.site.cna': '중앙통신사',
+    'resources.site.pts': '공공텔레비전',
+    'resources.site.focusTaiwan': 'Focus Taiwan',
+    'resources.site.taiwanToday': 'Taiwan Today',
+    'resources.site.panorama': '대만광화잡지',
+    'resources.site.rti': '중앙방송국',
+    'resources.site.udn': '연합뉴스넷',
+    'resources.site.ltn': '자유시보',
+    'resources.site.tvbs': 'TVBS 뉴스',
+    'resources.site.setn': '삼립뉴스넷',
+    'resources.site.ebc': '동삼뉴스',
+    'resources.site.commonwealth': '천하잡지',
+    'resources.site.businesstoday': '금주간',
+    'resources.site.businessweekly': '상업주간',
+
+    'resources.site.twreporter': '보도자(報導者)',
+    'resources.site.taiwanNews': 'Taiwan News',
+    'resources.site.thenewslens': '관건평론넷',
+    'resources.site.upmedia': '상보',
+    'resources.site.storm': '풍전매',
+
+    'resources.site.tahr': '대만인권촉진회',
+    'resources.site.teia': '대만환경정보협회',
+    'resources.site.sow': '황야보호협회',
+    'resources.site.ocf': '오픈컬처재단',
+    'resources.site.tfc': '대만팩트체크센터',
+    'resources.site.twnic': '대만네트워크정보센터',
+    'resources.site.wikimedia': '대만위키미디어협회',
+    'resources.site.digitalDiplomacy': '대만디지털외교협회',
+
+    'resources.site.tsmc': 'TSMC (대만적체전로)',
+    'resources.site.umc': '연화전자',
+    'resources.site.foxconn': '훙하이과기',
+    'resources.site.delta': '타이다전자',
+    'resources.site.taiwanExcellence': 'Taiwan Excellence',
+    'resources.site.cht': '중화전신',
+    'resources.site.taipower': '대만전력공사',
+    'resources.site.iii': '자책회(資策會)',
+    'resources.site.investTaiwan': '투자대만',
+
+    'resources.site.railway': '대만철도',
+    'resources.site.thsrc': '대만고속철도',
+    'resources.site.taiwanTrip': '대만호행(台灣好行)',
+    'resources.site.taoyuanAirport': '타오위안 국제공항',
+    'resources.site.metroTaipei': '타이베이 지하철',
+    'resources.site.krtc': '가오슝 지하철',
+
+    'resources.site.cdc': '질병관제서',
+    'resources.site.nhi': '중앙건강보험서',
+    'resources.site.ntuh': '대만대학병원',
+    'resources.site.vghtpe': '타이베이영민총병원',
+    'resources.site.cgmh': '장경의료체계',
+    'resources.site.cmuh': '중국의약대학부속병원',
+    'resources.site.kmuh': '가오슝의학대학부속병원',
+
+    'resources.site.stat': '국가통계',
+    'resources.site.twse': '대만증권거래소',
+    'resources.site.tpex': '대만장외거래소',
+
+    'resources.site.github': 'GitHub 저장소',
+    'resources.site.contribute': '기여 가이드',
+    'resources.site.rss': 'RSS 피드',
+
+    // New community site names
+    'resources.site.electionMap': '대만 선거 지도',
+    'resources.site.maskMap': '마스크 지도 (2020)',
+    'resources.site.goodinfo': 'Goodinfo 대만주식정보',
+    'resources.site.ccw': '시민 국회 감시 연맹',
+    'resources.site.thaubing': '투명 발자국',
+    'resources.site.politicalDonation': '정치헌금 공개 검색',
+    'resources.site.burgerMap': '타이베이 버거 지도',
+    'resources.site.nightMarket': '야시장 앱',
+    'resources.site.cofacts': 'Cofacts 진짜가짜',
+    'resources.site.disfactory': 'Disfactory 농지 불법 공장',
+    'resources.site.ptt': 'PTT',
+    'resources.site.ptsNews': '공시뉴스넷',
+    'resources.site.npgov': '국립공원 포털',
+    'resources.site.taiwanmd': 'Taiwan.md',
   },
   'zh-TW': {
     // Meta
