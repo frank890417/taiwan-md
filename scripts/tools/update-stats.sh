@@ -14,7 +14,11 @@ echo "📊 Updating Taiwan.md stats..."
 # 1. Fetch current stats from GitHub API
 STARS=$(gh api repos/frank890417/taiwan-md --jq '.stargazers_count')
 FORKS=$(gh api repos/frank890417/taiwan-md --jq '.forks_count')
-CONTRIBUTORS=$(gh api repos/frank890417/taiwan-md/contributors --jq 'length')
+# Contributors: read from .all-contributorsrc which is the authoritative source
+# (includes non-code contributors: ideas, bug reports, reviews, translations — all welcome).
+# Note: gh api /contributors is paginated (default 30) and only counts git committers.
+# all-contributors spec is both more inclusive AND unaffected by pagination.
+CONTRIBUTORS=$(grep -c '"login"' .all-contributorsrc 2>/dev/null || echo 30)
 ZH_PAGES=$(find knowledge -name '*.md' ! -name '_*' ! -path '*/en/*' | wc -l | tr -d ' ')
 EN_PAGES=$(find knowledge/en -name '*.md' ! -name '_*' | wc -l | tr -d ' ')
 TOTAL_PAGES=$((ZH_PAGES + EN_PAGES))

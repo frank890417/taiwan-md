@@ -1,12 +1,12 @@
 {
-  "totalArticles": 982,
+  "totalArticles": 984,
   "totalCategories": 20,
-  "estimatedContributors": 66,
-  "totalTags": 2477,
+  "estimatedContributors": 51,
+  "totalTags": 2478,
   "categories": [
     {
       "name": "en",
-      "count": 395
+      "count": 396
     },
     {
       "name": "Culture",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Society",
-      "count": 32
+      "count": 33
     },
     {
       "name": "Music",
@@ -168,8 +168,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 982,
+    "zh-TW": 984,
     "en": 0
   },
-  "lastUpdated": "2026-04-10T02:34:57.497Z"
+  "lastUpdated": "2026-04-10T12:23:49.361Z",
+  "stars": 924,
+  "forks": 130,
+  "zhPages": 755,
+  "enPages": 396,
+  "totalPages": 1151
 }

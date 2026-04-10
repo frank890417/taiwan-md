@@ -1,19 +1,19 @@
 {
   "categories": {
-    "About": 6,
-    "Art": 26,
-    "Culture": 38,
-    "Economy": 49,
-    "Food": 40,
-    "Geography": 18,
-    "History": 35,
+    "About": 12,
+    "Art": 53,
+    "Culture": 86,
+    "Economy": 86,
+    "Food": 55,
+    "Geography": 24,
+    "History": 65,
     "Language": 1,
-    "Lifestyle": 22,
-    "Music": 20,
-    "Nature": 26,
-    "People": 137,
-    "Society": 30,
-    "Technology": 30,
+    "Lifestyle": 28,
+    "Music": 28,
+    "Nature": 33,
+    "People": 149,
+    "Society": 71,
+    "Technology": 60,
     "resources": 2,
     "people": 2
   },
@@ -77,7 +77,47 @@
     {
       "date": "2026-03-31",
       "count": 11
+    },
+    {
+      "date": "2026-04-01",
+      "count": 7
+    },
+    {
+      "date": "2026-04-03",
+      "count": 8
+    },
+    {
+      "date": "2026-04-04",
+      "count": 6
+    },
+    {
+      "date": "2026-04-05",
+      "count": 1
+    },
+    {
+      "date": "2026-04-06",
+      "count": 10
+    },
+    {
+      "date": "2026-04-07",
+      "count": 10
+    },
+    {
+      "date": "2026-04-08",
+      "count": 16
+    },
+    {
+      "date": "2026-04-09",
+      "count": 7
+    },
+    {
+      "date": "2026-04-10",
+      "count": 32
+    },
+    {
+      "date": "2026-04-11",
+      "count": 2
     }
   ],
-  "updated": "2026-03-31"
+  "updated": "2026-04-10"
 }

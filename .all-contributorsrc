@@ -357,10 +357,10 @@
     },
     {
       "login": "dreamline2",
-      "name": "Wilson",
+      "name": "Wilson Chen",
       "avatar_url": "https://avatars.githubusercontent.com/u/4657845?v=4",
       "profile": "https://github.com/dreamline2",
-      "contributions": ["translation"]
+      "contributions": ["translation", "code", "infra"]
     },
     {
       "login": "idlccp1984",
@@ -368,7 +368,21 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profile": "https://github.com/idlccp1984",
       "contributions": ["content"]
+    },
+    {
+      "login": "ceruleanstring",
+      "name": "柒藍",
+      "avatar_url": "https://avatars.githubusercontent.com/u/265435204?v=4",
+      "profile": "https://github.com/ceruleanstring",
+      "contributions": ["translation"]
+    },
+    {
+      "login": "vaiskalivuan",
+      "name": "vaiskalivuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/270533697?v=4",
+      "profile": "https://github.com/vaiskalivuan",
+      "contributions": ["translation"]
     }
   ],
-  "totalContributors": 49
+  "totalContributors": 51
 }
