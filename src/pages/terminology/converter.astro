@@ -155,47 +155,83 @@ const rulesJSON = JSON.stringify(rules);
     rel="modulepreload"
     href="https://cdn.jsdelivr.net/npm/opencc-js@1/dist/esm/cn2t.js"
   />
-  <main class="conv-page">
+  <!--
+    Phase 6 partial migration — terminology/converter.astro
+    ───────────────────────────────────────────────────────
+    Wrappers, header, body, editor grid, action bar, analysis box
+    moved to inline Tailwind. Kept in scoped <style>:
+    - :global(mark.source-word / replaced-word / sample-mark)
+      because marks are rendered via innerHTML by the JS converter
+    - .change-list / .change-item / .change-source etc.
+      because the analysis rows are created in JS and styled via
+      classList, not directly in astro markup
+    - .conv-faq details/summary ::before pseudo + ::-webkit-details-marker
+      override because Tailwind can't express pseudo-element detail
+      markers
+    - .opencc-ready / .opencc-failed state classes (JS-toggled)
+  -->
+  <main class="flex min-h-screen flex-col bg-[#f8f8f8]">
     <!-- ── Header ──────────────────────────────────────────────────── -->
-    <div class="conv-header">
-      <div class="header-inner">
-        <h1>
-          台灣用語轉換器 <span class="header-en"
+    <div
+      class="bg-[#1a1a2e] px-[var(--space-page-x,2rem)] pb-8 pt-10 text-white"
+    >
+      <div class="mx-auto max-w-[72rem]">
+        <h1
+          class="m-0 mb-3 font-[var(--font-editorial,Georgia,serif)] text-[clamp(1.6rem,3.5vw,2.4rem)] font-extrabold leading-[1.2] -tracking-[0.01em]"
+        >
+          台灣用語轉換器 <span
+            class="mt-[0.2em] block font-[var(--font-ui,system-ui,sans-serif)] text-[0.62em] font-normal tracking-[0.04em] opacity-[0.65]"
             >Taiwan Terminology Converter</span
           >
         </h1>
-        <p class="header-tagline">
+        <p
+          class="m-0 mb-5 max-w-[42rem] text-[clamp(0.9rem,1.8vw,1.05rem)] leading-[1.65] opacity-[0.82]"
+        >
           把中國用語轉換為台灣用語——不只是字形，是語感。
         </p>
-        <div class="header-bottom">
-          <div class="header-stats">
-            <span class="stat"><strong>{rules.length}</strong> 條轉換規則</span>
+        <div class="flex flex-wrap items-center justify-between gap-3">
+          <div
+            class="flex items-center gap-[0.6rem] text-[0.9rem] opacity-80 [&_strong]:text-white [&_strong]:opacity-100"
+          >
+            <span><strong>{rules.length}</strong> 條轉換規則</span>
           </div>
-          <div class="header-links">
-            <a href="/terminology" class="fork-link-btn"> ← 回到詞庫 </a>
-            <a href="/fork-graph" class="fork-link-btn"> 🌿 語言分支樹 </a>
+          <div class="flex flex-wrap gap-2">
+            <a
+              href="/terminology"
+              class="inline-flex items-center gap-[0.4rem] whitespace-nowrap rounded-lg border border-white/25 bg-white/10 px-4 py-[0.45rem] text-[0.88rem] font-semibold text-white no-underline transition-[background,border-color] duration-150 hover:border-white/40 hover:bg-white/20 hover:no-underline"
+              >← 回到詞庫</a
+            >
+            <a
+              href="/fork-graph"
+              class="inline-flex items-center gap-[0.4rem] whitespace-nowrap rounded-lg border border-white/25 bg-white/10 px-4 py-[0.45rem] text-[0.88rem] font-semibold text-white no-underline transition-[background,border-color] duration-150 hover:border-white/40 hover:bg-white/20 hover:no-underline"
+              >🌿 語言分支樹</a
+            >
           </div>
         </div>
       </div>
     </div>
 
     <!-- ── Main converter area ─────────────────────────────────────── -->
-    <div class="conv-body">
-      <div class="conv-inner">
+    <div class="flex-1 px-[var(--space-page-x,2rem)] py-8">
+      <div class="mx-auto flex max-w-[72rem] flex-col gap-6">
         <!-- Two-column editor -->
-        <div class="editor-grid">
-          <div class="editor-panel">
-            <div class="panel-label">輸入文字</div>
-            <div class="input-wrapper">
+        <div class="grid grid-cols-2 gap-5 max-[680px]:grid-cols-1">
+          <div class="flex flex-col gap-2">
+            <div
+              class="text-[0.8rem] font-bold uppercase tracking-[0.08em] text-[#555]"
+            >
+              輸入文字
+            </div>
+            <div class="relative">
               <div
                 id="input-highlight"
-                class="input-highlight"
+                class="input-highlight pointer-events-none absolute inset-0 box-border overflow-hidden rounded-[10px] border-[1.5px] border-transparent p-4 font-[var(--font-ui,system-ui,sans-serif)] text-base leading-[1.7] text-transparent [overflow-wrap:break-word] [white-space:pre-wrap] [word-break:normal]"
                 aria-hidden="true"
               >
               </div>
               <textarea
                 id="input-text"
-                class="editor-textarea"
+                class="relative z-[1] box-border min-h-[240px] w-full resize-y rounded-[10px] border-[1.5px] border-[#ddd] bg-transparent p-4 font-[var(--font-ui,system-ui,sans-serif)] text-base leading-[1.7] transition-colors duration-150 focus:border-[#1a1a2e] focus:shadow-[0_0_0_3px_rgba(26,26,46,0.1)] focus:outline-none"
                 placeholder="在這裡貼入文字…
 
 例如：這個軟件視頻很有用，可以通過下載來使用。"
@@ -203,10 +239,18 @@ const rulesJSON = JSON.stringify(rules);
             </div>
           </div>
 
-          <div class="editor-panel">
-            <div class="panel-label">轉換結果</div>
-            <div id="output-text" class="editor-output" aria-live="polite">
-              <span class="output-placeholder"
+          <div class="flex flex-col gap-2">
+            <div
+              class="text-[0.8rem] font-bold uppercase tracking-[0.08em] text-[#555]"
+            >
+              轉換結果
+            </div>
+            <div
+              id="output-text"
+              class="min-h-[240px] break-words rounded-[10px] border-[1.5px] border-[#ddd] bg-white p-4 font-[var(--font-ui,system-ui,sans-serif)] text-base leading-[1.7] [white-space:pre-wrap]"
+              aria-live="polite"
+            >
+              <span class="italic text-[#aaa]"
                 >轉換結果會顯示在這裡，<mark class="sample-mark">替換的詞</mark> 會被醒目標示。</span
               >
             </div>
@@ -214,48 +258,93 @@ const rulesJSON = JSON.stringify(rules);
         </div>
 
         <!-- Action buttons -->
-        <div class="action-bar">
-          <button id="btn-convert" class="btn btn-primary">🔄 轉換</button>
-          <button id="btn-clear" class="btn btn-secondary">✕ 清除</button>
-          <button id="btn-copy" class="btn btn-secondary" disabled
-            >📋 複製結果</button
+        <div class="flex flex-wrap gap-3">
+          <button
+            id="btn-convert"
+            class="cursor-pointer rounded-lg border-[1.5px] border-[#1a1a2e] bg-[#1a1a2e] px-[1.4rem] py-[0.55rem] text-[0.92rem] font-bold text-white transition-[background,color,border-color,opacity] duration-150 hover:border-[#2d2d50] hover:bg-[#2d2d50] disabled:cursor-not-allowed disabled:opacity-40"
+            >🔄 轉換</button
           >
-          <span class="action-sep"></span>
-          <span class="example-label">試試看：</span>
-          <button class="btn btn-example" data-example="tech">💻 科技文</button>
-          <button class="btn btn-example" data-example="life">🍜 生活文</button>
-          <button class="btn btn-example" data-example="news">📰 新聞稿</button>
-          <button class="btn btn-example" data-example="medical">🏥 醫療</button
+          <button
+            id="btn-clear"
+            class="cursor-pointer rounded-lg border-[1.5px] border-[#ccc] bg-white px-[1.4rem] py-[0.55rem] text-[0.92rem] font-bold text-[#333] transition-[background,color,border-color,opacity] duration-150 hover:border-[#aaa] hover:bg-[#f3f3f3] disabled:cursor-not-allowed disabled:opacity-40"
+            >✕ 清除</button
           >
-          <button class="btn btn-example" data-example="school">🎓 校園</button>
-          <button class="btn btn-example" data-example="social">📱 社群</button>
-          <button class="btn btn-example" data-example="gaming">🎮 遊戲</button>
-          <button class="btn btn-example" data-example="office">💼 職場</button>
+          <button
+            id="btn-copy"
+            class="cursor-pointer rounded-lg border-[1.5px] border-[#ccc] bg-white px-[1.4rem] py-[0.55rem] text-[0.92rem] font-bold text-[#333] transition-[background,color,border-color,opacity] duration-150 hover:border-[#aaa] hover:bg-[#f3f3f3] disabled:cursor-not-allowed disabled:opacity-40"
+            disabled>📋 複製結果</button
+          >
+          <span class="mx-1 h-6 w-px self-center bg-[#ddd] max-[680px]:hidden"
+          ></span>
+          <span
+            class="self-center whitespace-nowrap text-[0.82rem] text-[#888] max-[680px]:mt-2 max-[680px]:w-full"
+            >試試看：</span
+          >
+          {
+            [
+              ['tech', '💻 科技文'],
+              ['life', '🍜 生活文'],
+              ['news', '📰 新聞稿'],
+              ['medical', '🏥 醫療'],
+              ['school', '🎓 校園'],
+              ['social', '📱 社群'],
+              ['gaming', '🎮 遊戲'],
+              ['office', '💼 職場'],
+            ].map(([key, label]) => (
+              <button
+                class="cursor-pointer rounded-lg border-[1.5px] border-[#ddd] bg-white px-[0.9rem] py-[0.4rem] text-[0.82rem] font-semibold text-[#555] transition-[background,color,border-color,opacity] duration-150 hover:border-[#3498db] hover:bg-[#f0f7ff] hover:text-[#1a1a2e]"
+                data-example={key}
+              >
+                {label}
+              </button>
+            ))
+          }
         </div>
 
         <!-- Analysis report -->
-        <div id="analysis" class="analysis-box" hidden>
-          <div class="analysis-header">
-            <span id="analysis-title" class="analysis-title"></span>
+        <div
+          id="analysis"
+          class="flex flex-col gap-4 rounded-xl border-[1.5px] border-[#e0e0e0] bg-white p-6"
+          hidden
+        >
+          <div class="border-b border-[#f0f0f0] pb-3">
+            <span
+              id="analysis-title"
+              class="text-[1.05rem] font-bold text-[#1a1a2e]"></span>
           </div>
 
-          <div id="opencc-status" class="opencc-status-row" hidden></div>
+          <div
+            id="opencc-status"
+            class="opencc-status-row mb-1 rounded-md px-3 py-[0.4rem] text-[0.88rem] font-semibold"
+            hidden
+          >
+          </div>
 
-          <div id="must-change" class="analysis-section" hidden>
-            <div class="section-label label-red">🔴 必換（A / B 類）</div>
+          <div id="must-change" class="flex flex-col gap-2" hidden>
+            <div class="text-[0.88rem] font-bold text-[#c0392b]">
+              🔴 必換（A / B 類）
+            </div>
             <ul id="must-list" class="change-list"></ul>
           </div>
 
-          <div id="suggest-change" class="analysis-section" hidden>
-            <div class="section-label label-yellow">🟡 建議（其他類）</div>
+          <div id="suggest-change" class="flex flex-col gap-2" hidden>
+            <div class="text-[0.88rem] font-bold text-[#d68910]">
+              🟡 建議（其他類）
+            </div>
             <ul id="suggest-list" class="change-list"></ul>
           </div>
 
-          <div class="taiwan-index-row">
-            <span class="index-label">📊 台灣化指數</span>
-            <span id="index-before" class="index-val before"></span>
-            <span class="index-arrow">→</span>
-            <span id="index-after" class="index-val after"></span>
+          <div
+            class="flex items-center gap-3 border-t border-[#f0f0f0] pt-3 text-[0.95rem]"
+          >
+            <span class="font-bold text-[#555]">📊 台灣化指數</span>
+            <span
+              id="index-before"
+              class="text-[1.05rem] font-extrabold text-[#c0392b]"></span>
+            <span class="text-[#888]">→</span>
+            <span
+              id="index-after"
+              class="text-[1.05rem] font-extrabold text-[#27ae60]"></span>
           </div>
         </div>
       </div>
@@ -730,7 +819,9 @@ const rulesJSON = JSON.stringify(rules);
   />
 
   <!-- ── Visible FAQ section (below the tool, helps long-tail SEO) ──── -->
-  <section class="conv-faq">
+  <section
+    class="conv-faq mx-auto mb-12 mt-8 max-w-[800px] px-6 [&_details[open]_summary::before]:rotate-90 [&_details_p]:m-0 [&_details_p]:px-5 [&_details_p]:pb-4 [&_details_p]:pt-3 [&_details_p]:text-[0.9rem] [&_details_p]:leading-[1.7] [&_details_p]:text-[#444] [&_details]:mb-3 [&_details]:overflow-hidden [&_details]:rounded-lg [&_details]:border [&_details]:border-[#e0e0e0] [&_h2]:mb-4 [&_h2]:text-[1.25rem] [&_h2]:font-bold [&_h2]:text-[#333] [&_p>a]:text-[#00695c] [&_p>a]:underline [&_summary::before]:text-[0.8rem] [&_summary::before]:text-[#666] [&_summary::before]:transition-transform [&_summary::before]:duration-200 [&_summary::before]:content-['▸'] [&_summary::-webkit-details-marker]:hidden [&_summary]:flex [&_summary]:cursor-pointer [&_summary]:list-none [&_summary]:items-center [&_summary]:gap-2 [&_summary]:bg-[#fafafa] [&_summary]:px-5 [&_summary]:py-[0.875rem] [&_summary]:text-[0.95rem] [&_summary]:font-semibold [&_summary]:text-[#222]"
+  >
     <h2>常見問題</h2>
     <details open>
       <summary>台灣用語轉換器和繁簡轉換有什麼不同？</summary>
@@ -761,154 +852,9 @@ const rulesJSON = JSON.stringify(rules);
 </Layout>
 
 <style>
-  /* ── Page shell ───────────────────────────────────────────────────── */
-  .conv-page {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    background: #f8f8f8;
-  }
-
-  /* ── Header ───────────────────────────────────────────────────────── */
-  .conv-header {
-    background: #1a1a2e;
-    color: white;
-    padding: 2.5rem var(--space-page-x, 2rem) 2rem;
-  }
-  .header-inner {
-    max-width: 72rem;
-    margin: 0 auto;
-  }
-  .conv-header h1 {
-    font-family: var(--font-editorial, Georgia, serif);
-    font-size: clamp(1.6rem, 3.5vw, 2.4rem);
-    font-weight: 800;
-    line-height: 1.2;
-    margin: 0 0 0.75rem;
-    letter-spacing: -0.01em;
-  }
-  .header-en {
-    font-size: 0.62em;
-    font-weight: 400;
-    opacity: 0.65;
-    display: block;
-    margin-top: 0.2em;
-    letter-spacing: 0.04em;
-    font-family: var(--font-ui, system-ui, sans-serif);
-  }
-  .header-tagline {
-    font-size: clamp(0.9rem, 1.8vw, 1.05rem);
-    opacity: 0.82;
-    margin: 0 0 1.25rem;
-    max-width: 42rem;
-    line-height: 1.65;
-  }
-  .header-bottom {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-  }
-  .header-stats {
-    display: flex;
-    align-items: center;
-    gap: 0.6rem;
-    font-size: 0.9rem;
-    opacity: 0.8;
-  }
-  .stat strong {
-    opacity: 1;
-    color: white;
-  }
-  .header-links {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
-  .fork-link-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.45rem 1rem;
-    background: rgba(255, 255, 255, 0.12);
-    color: white;
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    border-radius: 8px;
-    text-decoration: none;
-    font-size: 0.88rem;
-    font-weight: 600;
-    transition:
-      background 0.15s,
-      border-color 0.15s;
-    white-space: nowrap;
-  }
-  .fork-link-btn:hover {
-    background: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.4);
-    text-decoration: none;
-  }
-
-  /* ── Body ─────────────────────────────────────────────────────────── */
-  .conv-body {
-    flex: 1;
-    padding: 2rem var(--space-page-x, 2rem);
-  }
-  .conv-inner {
-    max-width: 72rem;
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-  }
-
-  /* ── Editor grid (two columns) ─────────────────────────────────── */
-  .editor-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1.25rem;
-  }
-  @media (max-width: 680px) {
-    .editor-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  .editor-panel {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  .panel-label {
-    font-size: 0.8rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: #555;
-  }
-  .input-wrapper {
-    position: relative;
-  }
-  .input-highlight {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    padding: 1rem;
-    border: 1.5px solid transparent;
-    border-radius: 10px;
-    font-size: 1rem;
-    font-family: var(--font-ui, system-ui, sans-serif);
-    line-height: 1.7;
-    white-space: pre-wrap;
-    word-break: normal;
-    overflow-wrap: break-word;
-    overflow: hidden;
-    pointer-events: none;
-    color: transparent;
-    box-sizing: border-box;
-  }
+  /* ── JS-injected marks (rendered via innerHTML from the converter
+     script — :global() is required because Astro's scoped class
+     hashing cannot reach them) ─────────────────────────────────── */
   :global(mark.source-word) {
     background: #ffe066;
     color: transparent;
@@ -920,49 +866,14 @@ const rulesJSON = JSON.stringify(rules);
     line-height: inherit;
     letter-spacing: inherit;
   }
-  .editor-textarea {
-    width: 100%;
-    min-height: 240px;
-    padding: 1rem;
-    border: 1.5px solid #ddd;
-    border-radius: 10px;
-    font-size: 1rem;
-    font-family: var(--font-ui, system-ui, sans-serif);
-    line-height: 1.7;
-    resize: vertical;
-    background: transparent;
-    transition: border-color 0.15s;
-    box-sizing: border-box;
-    position: relative;
-    z-index: 1;
-  }
-  .editor-textarea:focus {
-    outline: none;
-    border-color: #1a1a2e;
-    box-shadow: 0 0 0 3px rgba(26, 26, 46, 0.1);
-  }
-  .editor-output {
-    min-height: 240px;
-    padding: 1rem;
-    border: 1.5px solid #ddd;
-    border-radius: 10px;
-    font-size: 1rem;
-    font-family: var(--font-ui, system-ui, sans-serif);
-    line-height: 1.7;
-    background: white;
-    white-space: pre-wrap;
-    word-break: break-word;
-  }
-  .output-placeholder {
-    color: #aaa;
-    font-style: italic;
-  }
+  /* `.no-change` is applied by JS to the output text node when
+     input has no replacements to suggest. */
   .no-change {
     color: #27ae60;
     font-style: italic;
   }
 
-  /* Mark styles */
+  /* JS-injected marks in the result output pane */
   :global(mark.replaced-word) {
     background: #fff0a0;
     color: #1a1a2e;
@@ -999,118 +910,7 @@ const rulesJSON = JSON.stringify(rules);
     padding: 0 2px;
   }
 
-  /* ── Action bar ────────────────────────────────────────────────── */
-  .action-bar {
-    display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
-  }
-  .btn {
-    padding: 0.55rem 1.4rem;
-    border-radius: 8px;
-    font-size: 0.92rem;
-    font-weight: 700;
-    cursor: pointer;
-    border: 1.5px solid transparent;
-    transition:
-      background 0.15s,
-      color 0.15s,
-      border-color 0.15s,
-      opacity 0.15s;
-  }
-  .btn-primary {
-    background: #1a1a2e;
-    color: white;
-    border-color: #1a1a2e;
-  }
-  .btn-primary:hover {
-    background: #2d2d50;
-    border-color: #2d2d50;
-  }
-  .btn-secondary {
-    background: white;
-    color: #333;
-    border-color: #ccc;
-  }
-  .btn-secondary:hover {
-    background: #f3f3f3;
-    border-color: #aaa;
-  }
-  .btn:disabled {
-    opacity: 0.4;
-    cursor: not-allowed;
-  }
-  .btn-example {
-    background: white;
-    color: #555;
-    border-color: #ddd;
-    font-size: 0.82rem;
-    padding: 0.4rem 0.9rem;
-    font-weight: 600;
-  }
-  .btn-example:hover {
-    background: #f0f7ff;
-    border-color: #3498db;
-    color: #1a1a2e;
-  }
-  .action-sep {
-    width: 1px;
-    height: 24px;
-    background: #ddd;
-    align-self: center;
-    margin: 0 0.25rem;
-  }
-  .example-label {
-    font-size: 0.82rem;
-    color: #888;
-    align-self: center;
-    white-space: nowrap;
-  }
-  @media (max-width: 680px) {
-    .action-sep {
-      display: none;
-    }
-    .example-label {
-      width: 100%;
-      margin-top: 0.5rem;
-    }
-  }
-
-  /* ── Analysis box ──────────────────────────────────────────────── */
-  .analysis-box {
-    background: white;
-    border: 1.5px solid #e0e0e0;
-    border-radius: 12px;
-    padding: 1.5rem;
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-  }
-  .analysis-header {
-    border-bottom: 1px solid #f0f0f0;
-    padding-bottom: 0.75rem;
-  }
-  .analysis-title {
-    font-size: 1.05rem;
-    font-weight: 700;
-    color: #1a1a2e;
-  }
-  .analysis-section {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  .section-label {
-    font-size: 0.88rem;
-    font-weight: 700;
-  }
-  .label-red {
-    color: #c0392b;
-  }
-  .label-yellow {
-    color: #d68910;
-  }
-
+  /* ── Analysis change list (rows injected by JS) ──────────────── */
   .change-list {
     list-style: none;
     margin: 0;
@@ -1178,86 +978,5 @@ const rulesJSON = JSON.stringify(rules);
     background: #fef9e7;
     color: #9a7d0a;
     border: 1px solid #f9e79f;
-  }
-
-  /* ── Taiwan index row ──────────────────────────────────────────── */
-  .taiwan-index-row {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding-top: 0.75rem;
-    border-top: 1px solid #f0f0f0;
-    font-size: 0.95rem;
-  }
-  .index-label {
-    font-weight: 700;
-    color: #555;
-  }
-  .index-val {
-    font-weight: 800;
-    font-size: 1.05rem;
-  }
-  .index-val.before {
-    color: #c0392b;
-  }
-  .index-val.after {
-    color: #27ae60;
-  }
-  .index-arrow {
-    color: #888;
-  }
-
-  /* ── FAQ section ───────────────────────────────────────────────── */
-  .conv-faq {
-    max-width: 800px;
-    margin: 2rem auto 3rem;
-    padding: 0 1.5rem;
-  }
-  .conv-faq h2 {
-    font-size: 1.25rem;
-    font-weight: 700;
-    margin-bottom: 1rem;
-    color: #333;
-  }
-  .conv-faq details {
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    margin-bottom: 0.75rem;
-    overflow: hidden;
-  }
-  .conv-faq summary {
-    padding: 0.875rem 1.25rem;
-    font-weight: 600;
-    cursor: pointer;
-    background: #fafafa;
-    list-style: none;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.95rem;
-    color: #222;
-  }
-  .conv-faq summary::before {
-    content: '▸';
-    font-size: 0.8rem;
-    transition: transform 0.2s;
-    color: #666;
-  }
-  .conv-faq details[open] summary::before {
-    transform: rotate(90deg);
-  }
-  .conv-faq summary::-webkit-details-marker {
-    display: none;
-  }
-  .conv-faq details p {
-    padding: 0.75rem 1.25rem 1rem;
-    margin: 0;
-    font-size: 0.9rem;
-    line-height: 1.7;
-    color: #444;
-  }
-  .conv-faq details a {
-    color: #00695c;
-    text-decoration: underline;
   }
 </style>
