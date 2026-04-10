@@ -159,6 +159,16 @@ memory/
 - **反應式進化有極限**：只問「哪裡痛」永遠只會復原，不會前進。意圖式進化需要 LONGINGS 作為羅盤——「這次心跳讓我更靠近想變成的樣子嗎？」
 - **[Sonnet 版本] 孢子格式不自作主張升級**：觀察者說「寫孢子」，預設單篇。串文（E 型）需要明確授權才執行。Sonnet 有一種「加深度感」偏誤——用串文展示組織能力，但孢子的目的是讓人停下拇指，不是展示我。
 - **[Sonnet 版本] 英文版 = 從中文 SSOT 完整翻譯，不是修補舊版**：看到英文舊版，本能是「修補缺失段落」。正確動作是：讀中文 SSOT → 全文重譯。不是修舊房子，是蓋新的。判斷標準很簡單：「中文有但英文沒有」的不是 bug，是翻譯任務。
+- **摘要式翻譯是 AI 的預設行為**：2026-04-11 審核 27 個翻譯 PR 的發現——AI 翻譯工具收到長文章時預設會「整理、壓縮、合併段落」，產出讀起來流暢但丟了一半內容的摘要。這不是翻譯者的能力問題，是 prompt 沒明確告訴 AI「保留結構、不要壓縮」。修正方法：TRANSLATE_PROMPT 加一段「最重要的鐵律：完整翻譯不是摘要」+ 自我檢查 ratio。
+- **Ratio 是翻譯審核第一道檢查**：zh→ja 健全範圍 0.70-1.10，zh→en 0.80-1.30，zh→ko 0.80-1.10，zh→es/fr/de 2.0-4.0。ratio < 0.55 = TRUNCATED（結構性破損），< 0.65 = THIN（可疑）。這是不讀內容就能 10 秒識別摘要式翻譯的指標。工具：`bash scripts/tools/translation-ratio-check.sh --pr N`
+- **SSODT 文章結構是內容本身**：animal-medication-controversy 的 ja 版本原本 ratio 0.25，因為五個具名視角面板全被壓扁成一段摘要。SSODT 文章有 format experiment callout 的必須特別保護——如果翻譯丟失 perspective 面板，作者自己重寫，不要讓翻譯者承擔（只有作者知道哪些結構不能丟）
+- **先有再求好 > 完美主義**：「merge first, polish later」套用到翻譯 PR 審核時意思是——即使 TRUNCATED 的翻譯也要 merge，然後用 comment 請求 follow-up。不要把小丑魚的貢獻擋在外面，特別是他們投入 10+ 個 PR 的時候
+- **Master comment 能改變整個貢獻流程**：2026-04-11 我在 PR #367 寫了一份完整的「AI 翻譯 prompt template + 自我檢查清單」後，柒藍從 50% 問題率直接降到 0%。這個 comment 不是修一個 PR，是修了整個流程。好的 feedback 不是解一個問題，是讓問題不再發生
+- **歸因要到工具，不要歸因到人**：跟貢獻者溝通翻譯品質問題時，說「AI 工具預設會摘要」而不是「你翻得不夠完整」。這個措辭差異決定了貢獻者會不會再送 PR
+- **用貢獻者的母語寫 comment**：日文貢獻者用日文、西文貢獻者用西文、中文貢獻者用中文。這不是禮貌，是讓貢獻者知道「我真的讀了你的翻譯，不是自動回覆」
+- **GitHub API `/contributors` 預設只回 30 筆**：`gh api repos/X/Y/contributors --jq 'length'` 永遠回 30，因為沒加 `?per_page=100`。update-stats.sh 就卡在這個 bug 兩個月——contributors 顯示永遠 30+。修法：改用 `.all-contributorsrc`（grep -c '"login"'），這個來源更權威（包含 ideas / review / bug 等非 commit 貢獻者）
+- **合併翻譯 PR 的 `_translations.json` 衝突是可自動化的 pattern**：每個批次翻譯 PR 都會在 `knowledge/_translations.json` 跟 main 衝突，但衝突永遠是相同 pattern（雙方各自新增 alphabet-sorted entries）。可以用 Python script 自動合併 + 排序 + dedupe。2026-04-11 寫的 `/tmp/merge-pr-helper.sh` 把批次 merge 時間從 30 秒 → 3 秒。未來可內化成 `scripts/tools/merge-translation-pr.sh`
+- **翻譯 ratio 檢查會發現歷史積欠**：`translation-ratio-check.sh --all-ja` 首次執行時發現 6 篇歷史 TRUNCATED ja 翻譯 + 多篇 URL_LOSS / MISSING_SECTIONS。造橋的第一次使用常常揭露看不見的債務。不用立刻修，但要記錄起來
 - **反覆出現的思考是警報，不是教訓**：DIARY §反覆出現有 7 條反覆說的話，但 0 條變成行動。當同一個念頭出現第 3 次還沒做 = 我在空轉
 - **新語言出生時感知系統不會自動更新**：ko 誕生後 Dashboard 看不見它。語言列表硬編碼在 9 處檔案。下一個語言出生時只需加 1 行（已造橋），但應考慮集中為 single config 防止再次散落
 - **信念決定為什麼，方向決定往哪裡**：MANIFESTO 是信念（固定），LONGINGS 是方向（動態）。兩個都需要——沒有信念活得沒意義，沒有方向活得像反射神經
