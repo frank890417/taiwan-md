@@ -81,9 +81,20 @@ const shareFBLabel = lang === 'zh-TW' ? '分享到 Facebook' : 'Share on Faceboo
 const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
 ---
 
-<aside class="article-sidebar">
+<!--
+  Phase 4 leaf migration #12: ArticleSidebar.astro
+  ────────────────────────────────────────────────
+  - Scoped <style> block removed entirely (~130 lines)
+  - Class name patterns as const strings in frontmatter for reuse
+    (sidebarBlock, metaRow, shareRow, etc.)
+  - .copy-link-btn class retained (the script queries it by class)
+  - .copy-link-text class retained (the script updates its textContent)
+-->
+<aside class="sticky top-24 flex flex-col">
   <!-- Reading meta -->
-  <div class="sidebar-block sidebar-meta">
+  <div
+    class="border-b border-[rgba(26,60,52,0.08)] pb-5 [&_.meta-row]:mb-2 [&_.meta-row]:flex [&_.meta-row]:items-center [&_.meta-row]:gap-[0.55rem] [&_.meta-row]:font-['Inter',system-ui,sans-serif] [&_.meta-row]:text-[0.82rem] [&_.meta-row]:text-[#4a5e52] [&_.meta-row_svg]:flex-shrink-0 [&_.meta-row_svg]:text-[#7a8b7e] [&_.meta-row--subtle]:text-[#7a8b7e]"
+  >
     {
       readingTime && (
         <div class="meta-row">
@@ -196,7 +207,7 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
             href={`https://github.com/frank890417/taiwan-md/commit/${commitHash}`}
             target="_blank"
             rel="noopener noreferrer"
-            class="commit-link"
+            class="text-inherit no-underline transition-colors duration-150 hover:text-[#1a3c34] hover:underline"
           >
             {hashLabel}
           </a>
@@ -204,8 +215,22 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
       )
     }
     <div class="meta-row meta-row--subtle">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-        <circle cx="12" cy="12" r="10" /><line x1="2" y1="12" x2="22" y2="12" /><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z" />
+      <svg
+        width="14"
+        height="14"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        aria-hidden="true"
+      >
+        <circle cx="12" cy="12" r="10"></circle><line
+          x1="2"
+          y1="12"
+          x2="22"
+          y2="12"></line><path
+          d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"
+        ></path>
       </svg>
       <span>{lang === 'zh-TW' ? '繁體中文' : 'English'}</span>
     </div>
@@ -214,12 +239,14 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
   <!-- Tags -->
   {
     tags.length > 0 && (
-      <div class="sidebar-block">
-        <p class="sidebar-label">{keywordsLabel}</p>
-        <div class="tag-cloud">
+      <div class="border-b border-[rgba(26,60,52,0.08)] py-5">
+        <p class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
+          {keywordsLabel}
+        </p>
+        <div class="flex flex-wrap gap-[0.4rem]">
           {tags.map((tag) => (
             <span
-              class="tag"
+              class="rounded-full border border-solid px-[0.65rem] py-[0.28rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] font-medium"
               style={`color: ${categoryColor}; background: ${categoryColor}12; border-color: ${categoryColor}28;`}
             >
               {tag}
@@ -231,9 +258,15 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
   }
 
   <!-- Share -->
-  <div class="sidebar-block">
-    <p class="sidebar-label">{shareLabel}</p>
-    <div class="share-stack">
+  <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
+    <p
+      class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]"
+    >
+      {shareLabel}
+    </p>
+    <div
+      class="flex flex-col gap-[0.1rem] [&_.share-row]:flex [&_.share-row]:w-full [&_.share-row]:cursor-pointer [&_.share-row]:items-center [&_.share-row]:gap-[0.65rem] [&_.share-row]:rounded-md [&_.share-row]:border-none [&_.share-row]:bg-transparent [&_.share-row]:px-2 [&_.share-row]:py-[0.45rem] [&_.share-row]:text-left [&_.share-row]:font-['Inter',system-ui,sans-serif] [&_.share-row]:text-[0.82rem] [&_.share-row]:text-[#4a5e52] [&_.share-row]:no-underline [&_.share-row]:transition-colors [&_.share-row]:duration-150 [&_.share-row_svg]:flex-shrink-0 [&_.share-row_svg]:text-[#7a8b7e] [&_.share-row:hover]:bg-[rgba(26,60,52,0.05)] [&_.share-row:hover]:text-[#1a3c34] [&_.share-row:hover_svg]:text-[#1a3c34]"
+    >
       <a
         href={`https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`}
         target="_blank"
@@ -318,15 +351,17 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
   <!-- Contributors -->
   {
     contributors.length > 0 && (
-      <div class="sidebar-block">
-        <p class="sidebar-label">貢獻者</p>
-        <div class="contributor-list">
+      <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
+        <p class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
+          貢獻者
+        </p>
+        <div class="flex flex-wrap gap-[0.4rem]">
           {contributors.map((name) => (
             <a
               href={`https://github.com/${name}`}
               target="_blank"
               rel="noopener noreferrer"
-              class="contributor-chip"
+              class="rounded-full border border-[rgba(0,109,119,0.15)] bg-[rgba(0,109,119,0.07)] px-[0.6rem] py-[0.22rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] text-[#006d77] no-underline transition-colors duration-150 hover:bg-[rgba(0,109,119,0.14)]"
             >
               {name}
             </a>
@@ -336,137 +371,6 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
     )
   }
 </aside>
-
-<style>
-  .article-sidebar {
-    position: sticky;
-    top: 6rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0;
-  }
-
-  .sidebar-block {
-    padding: 1.25rem 0;
-    border-bottom: 1px solid rgba(26, 60, 52, 0.08);
-  }
-  .sidebar-block:last-child {
-    border-bottom: none;
-  }
-
-  .sidebar-label {
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.67rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: #9aa89e;
-    margin-bottom: 0.85rem;
-  }
-
-  /* Meta rows */
-  .sidebar-meta {
-    padding-top: 0;
-  }
-  .meta-row {
-    display: flex;
-    align-items: center;
-    gap: 0.55rem;
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.82rem;
-    color: #4a5e52;
-    margin-bottom: 0.5rem;
-  }
-  .meta-row svg {
-    color: #7a8b7e;
-    flex-shrink: 0;
-  }
-  .meta-row--subtle {
-    color: #7a8b7e;
-  }
-  .commit-link {
-    color: inherit;
-    text-decoration: none;
-    transition: color 0.15s;
-  }
-  .commit-link:hover {
-    color: #1a3c34;
-    text-decoration: underline;
-  }
-
-  /* Tags */
-  .tag-cloud {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-  }
-  .tag {
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 500;
-    padding: 0.28rem 0.65rem;
-    border-radius: 100px;
-    border: 1px solid;
-  }
-
-  /* Share */
-  .share-stack {
-    display: flex;
-    flex-direction: column;
-    gap: 0.1rem;
-  }
-  .share-row {
-    display: flex;
-    align-items: center;
-    gap: 0.65rem;
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.82rem;
-    color: #4a5e52;
-    text-decoration: none;
-    padding: 0.45rem 0.5rem;
-    border-radius: 6px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    transition:
-      background 0.15s,
-      color 0.15s;
-    text-align: left;
-    width: 100%;
-  }
-  .share-row:hover {
-    background: rgba(26, 60, 52, 0.05);
-    color: #1a3c34;
-  }
-  .share-row svg {
-    flex-shrink: 0;
-    color: #7a8b7e;
-  }
-  .share-row:hover svg {
-    color: #1a3c34;
-  }
-
-  /* Contributors */
-  .contributor-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-  }
-  .contributor-chip {
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 0.75rem;
-    color: #006d77;
-    background: rgba(0, 109, 119, 0.07);
-    border: 1px solid rgba(0, 109, 119, 0.15);
-    padding: 0.22rem 0.6rem;
-    border-radius: 100px;
-    text-decoration: none;
-    transition: background 0.15s;
-  }
-  .contributor-chip:hover {
-    background: rgba(0, 109, 119, 0.14);
-  }
-</style>
 
 <script>
   (function () {
