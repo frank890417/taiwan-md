@@ -1,7 +1,7 @@
 {
-  "capturedAt": "2026-04-10T05:56:13.743Z",
-  "commit": "36024e4f78bfc7c6bdc26a5494d9a6f35bc62681",
-  "branch": "refactor/tw-phase-1",
+  "capturedAt": "2026-04-10T06:18:45.292Z",
+  "commit": "248d97205e316987a3e5221563fd5474d421dc78",
+  "branch": "refactor/tw-phase-2",
   "baseUrl": "http://127.0.0.1:4321",
   "viewports": [
     {

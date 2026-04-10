@@ -1,26 +1,313 @@
 /**
  * global.css — site-wide stylesheet entry point
  *
- * Phase 1 scope (2026-04-10): this file only imports tokens.css to
- * establish the SSOT. Tailwind is installed and wired into Vite via
- * astro.config.mjs, but it is NOT imported here yet.
+ * Phase 2 scope (2026-04-10): this file now ships a pre-built component
+ * class library in `@layer components`. Phase 3 will start migrating
+ * leaf components to use these `tw-*` classes, deleting their scoped
+ * <style> blocks. Until that happens, the library is dormant — nothing
+ * uses it yet, so visual diff should still be zero.
  *
- * Why not import Tailwind now?
- *   `@import 'tailwindcss' source(none)` disables content scanning
- *   but DOES NOT disable the preflight base layer. Preflight resets
- *   `*, ::before, ::after { margin:0; padding:0; border:0 solid; ... }`
- *   which silently overrides existing site CSS and produces a ~5-12%
- *   visual diff across every page. Phase 1's DOD is "zero visual
- *   change", so we hold off until Phase 2 where we'll use the layered
- *   import trick to opt out of preflight:
- *
+ * Tailwind `@import 'tailwindcss'` is STILL deferred. Phase 1's testing
+ * showed that v4's preflight base layer auto-injects site-wide
+ * `* { margin:0; border:0 solid; ... }` which produced ~5-12% visual
+ * diff. Since our component classes can be written as plain CSS on
+ * top of tokens.css (no @apply required), we skip Tailwind entirely
+ * and avoid the preflight trap. If a future phase needs real Tailwind
+ * utility classes (unlikely until Phase 4/6), we'll use the explicit
+ * layer-import trick:
  *     @import 'tailwindcss/theme.css' layer(theme);
  *     @import 'tailwindcss/utilities.css' layer(utilities);
- *     // (skipping 'tailwindcss/preflight.css')
  *
  * ⚠️ New design tokens → tokens.css (the SSOT).
- * ⚠️ New component classes → wait for Phase 2 @layer components.
- * ⚠️ Do not add free-form CSS here — this file is intentionally minimal.
+ * ⚠️ New component classes → this file's @layer components block.
+ * ⚠️ Do not use raw hex colors or magic numbers — always var(--...).
  */
 
 @import './tokens.css';
+
+/*
+ * Cascade layer order. Anything we add later (components, utilities,
+ * even if Tailwind gets re-imported) will land in this order regardless
+ * of source position. `theme` and `base` are reserved for Phase 4+.
+ */
+@layer theme, base, components, utilities;
+
+/*
+ * @layer components — the Tailwind-prefixed component library.
+ *
+ * Prefix: `tw-` to avoid collision with existing site class names
+ *         during the migration. Phase 6 may strip the prefix after
+ *         every legacy class is gone.
+ *
+ * Principle: each class references tokens.css via var(--...). No hard-
+ *            coded values. Changing a token propagates automatically.
+ *
+ * Origin: patterns extracted from recurring scoped <style> blocks
+ *         across the site (Banner, FeatureCards, TopicCard, Header
+ *         dropdown, article sidebar, etc). See
+ *         docs/refactor/TAILWIND-CHEATSHEET.md for the mapping from
+ *         old class names to these new ones.
+ */
+@layer components {
+  /* ------------------------------------------------------------------ */
+  /* Containers — wrap content at three canonical widths. Matches the   */
+  /* existing `.container-*` patterns in Layout.astro and templates.    */
+  /* ------------------------------------------------------------------ */
+
+  .tw-container-wide {
+    max-width: var(--container-wide);
+    margin-inline: auto;
+    padding-inline: var(--space-page-x);
+  }
+
+  .tw-container-page {
+    max-width: var(--container-page);
+    margin-inline: auto;
+    padding-inline: var(--space-page-x);
+  }
+
+  .tw-container-reading {
+    max-width: var(--container-reading);
+    margin-inline: auto;
+    padding-inline: var(--space-page-x);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Section vertical rhythm — used on every hero/section block.        */
+  /* ------------------------------------------------------------------ */
+
+  .tw-section-y {
+    padding-block: var(--space-section-y);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Buttons — three canonical variants. Seen across Header, Footer,    */
+  /* contribute, data, about, and every component with a CTA.          */
+  /* ------------------------------------------------------------------ */
+
+  .tw-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-1);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-chip);
+    font-family: var(--font-interface);
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1.5px solid transparent;
+    background: transparent;
+    color: inherit;
+    transition:
+      background-color 0.2s ease,
+      border-color 0.2s ease,
+      color 0.2s ease,
+      transform 0.15s ease;
+  }
+
+  .tw-btn-primary {
+    background: #1a1a2e;
+    color: #fff;
+    border-color: #1a1a2e;
+  }
+  .tw-btn-primary:hover {
+    background: #3b82f6;
+    border-color: #3b82f6;
+  }
+
+  .tw-btn-outline {
+    background: transparent;
+    color: #1a1a2e;
+    border-color: #cbd5e1;
+  }
+  .tw-btn-outline:hover {
+    background: #1a1a2e;
+    color: #fff;
+    border-color: #1a1a2e;
+  }
+
+  .tw-btn-ghost {
+    background: transparent;
+    color: #475569;
+    border-color: transparent;
+  }
+  .tw-btn-ghost:hover {
+    background: #f8fafc;
+    color: #1a1a2e;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Cards — three tiers from flat to elevated. Matches existing        */
+  /* TopicCard, CategoryGrid, RelatedArticleCard patterns.              */
+  /* ------------------------------------------------------------------ */
+
+  .tw-card {
+    background: #ffffff;
+    border: var(--border-soft);
+    border-radius: var(--radius-card);
+    padding: var(--space-4);
+  }
+
+  .tw-card-soft {
+    background: #f8fafc;
+    border: var(--border-soft);
+    border-radius: var(--radius-card);
+    padding: var(--space-4);
+  }
+
+  .tw-card-elevated {
+    background: #ffffff;
+    border: var(--border-soft);
+    border-radius: var(--radius-card);
+    padding: var(--space-4);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Chip / tag / pill — used in category badges, filter bars, reading  */
+  /* metadata.                                                          */
+  /* ------------------------------------------------------------------ */
+
+  .tw-chip {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 10px;
+    background: #f8fafc;
+    border: var(--border-soft);
+    border-radius: var(--radius-chip);
+    font-family: var(--font-interface);
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #475569;
+    white-space: nowrap;
+  }
+
+  .tw-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 2px 8px;
+    background: transparent;
+    border: 1px solid #cbd5e1;
+    border-radius: var(--radius-chip);
+    font-family: var(--font-interface);
+    font-size: 0.78rem;
+    font-weight: 600;
+    color: #64748b;
+    white-space: nowrap;
+  }
+
+  .tw-pill {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 14px;
+    background: #ffffff;
+    border: var(--border-soft);
+    border-radius: var(--radius-pill);
+    font-family: var(--font-interface);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #475569;
+    white-space: nowrap;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Hover lift — the near-ubiquitous transform-on-hover card animation.*/
+  /* ------------------------------------------------------------------ */
+
+  .tw-hover-lift {
+    transition:
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
+  }
+  .tw-hover-lift:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Navigation link — Header top-level link + dropdown item.           */
+  /* ------------------------------------------------------------------ */
+
+  .tw-nav-link {
+    font-family: var(--font-interface);
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #475569;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  .tw-nav-link:hover,
+  .tw-nav-link.is-active {
+    color: #1a1a2e;
+  }
+
+  .tw-dropdown-item {
+    display: block;
+    padding: var(--space-2) var(--space-3);
+    font-family: var(--font-interface);
+    font-size: 0.9rem;
+    color: #475569;
+    text-decoration: none;
+    border-radius: 8px;
+    transition:
+      background-color 0.15s ease,
+      color 0.15s ease;
+  }
+  .tw-dropdown-item:hover {
+    background: #f8fafc;
+    color: #1a1a2e;
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Prose — article body typography. Used on .article-body pages.     */
+  /* Minimal version: font + line height + paragraph rhythm. Headings   */
+  /* and list styles still come from Layout.astro global block until    */
+  /* Phase 4 migrates them.                                             */
+  /* ------------------------------------------------------------------ */
+
+  .tw-prose {
+    font-family: var(--font-reading);
+    font-size: 1rem;
+    line-height: 1.85;
+    color: #1a1a2e;
+  }
+  .tw-prose > p + p {
+    margin-top: var(--space-3);
+  }
+
+  /* ------------------------------------------------------------------ */
+  /* Section title + kicker — hero + section-header canonical pattern. */
+  /* ------------------------------------------------------------------ */
+
+  .tw-kicker {
+    display: inline-block;
+    font-family: var(--font-interface);
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #475569;
+    margin-bottom: var(--space-2);
+  }
+
+  .tw-section-title {
+    font-family: var(--font-title);
+    font-size: var(--title-section-size);
+    font-weight: 800;
+    line-height: var(--title-line-height);
+    color: #1a1a2e;
+    margin: 0 0 var(--space-3);
+  }
+
+  .tw-subsection-title {
+    font-family: var(--font-title);
+    font-size: var(--title-subsection-size);
+    font-weight: 700;
+    line-height: var(--title-line-height);
+    color: #1a1a2e;
+    margin: 0 0 var(--space-2);
+  }
+}
