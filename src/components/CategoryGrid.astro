@@ -50,6 +50,13 @@ function countArticles(categorySlug: string): number {
 // gradient endpoints. Previously these lived in scoped CSS as
 // :nth-child() and [data-color=...] attribute selectors; moving them
 // into data is cleaner and eliminates the need for scoped styles.
+// 2026-04-11 heartbeat fix: removed all `cover:` fields pointing to
+// /images/wiki/*.jpg — those images never existed in public/images/wiki/,
+// causing 550+ req/day of 404s across 11 distinct files (Cloudflare logs).
+// The component already has a graceful fallback to emoji icons via
+// onerror → nextElementSibling display:flex, so visual UX stays identical.
+// If we want category covers back, place real images at /images/categories/{slug}.jpg
+// and re-add cover fields; don't resurrect the phantom wiki/ hash names.
 const categories = [
   {
     name: categoryConfigs['history'].name,
@@ -59,7 +66,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #f59e0b, #ea580c)',
     headerHeight: 200,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/b5604a9d7dac.jpg',
   },
   {
     name: categoryConfigs['geography'].name,
@@ -69,7 +75,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #10b981, #0d9488)',
     headerHeight: 110,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/3a0af3fa1cff.jpg',
   },
   {
     name: categoryConfigs['culture'].name,
@@ -79,7 +84,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #8b5cf6, #7c3aed)',
     headerHeight: 160,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/c3f69037472b.jpg',
   },
   {
     name: categoryConfigs['food'].name,
@@ -89,7 +93,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #f43f5e, #db2777)',
     headerHeight: 185,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/6a7bed12c2a6.jpg',
   },
   {
     name: categoryConfigs['art'].name,
@@ -99,7 +102,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #06b6d4, #2563eb)',
     headerHeight: 105,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/b92068ae92fb.jpg',
   },
   {
     name: categoryConfigs['music'].name,
@@ -109,7 +111,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #6366f1, #9333ea)',
     headerHeight: 165,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/dba145c33d6d.jpg',
   },
   {
     name: categoryConfigs['technology'].name,
@@ -119,7 +120,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #64748b, #4b5563)',
     headerHeight: 115,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/f43072687967.jpg',
   },
   {
     name: categoryConfigs['nature'].name,
@@ -129,7 +129,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #22c55e, #059669)',
     headerHeight: 195,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/51510a8c6a50.jpg',
   },
   {
     name: categoryConfigs['people'].name,
@@ -139,7 +138,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #f97316, #dc2626)',
     headerHeight: 175,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/4eadbb02099d.jpg',
   },
   {
     name: categoryConfigs['society'].name,
@@ -149,7 +147,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #3b82f6, #4f46e5)',
     headerHeight: 108,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/c18008c3ec52.jpg',
   },
   {
     name: categoryConfigs['economy'].name,
@@ -159,7 +156,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #eab308, #d97706)',
     headerHeight: 150,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/53ecc1645c5a.jpg',
   },
   {
     name: categoryConfigs['lifestyle'].name,
@@ -169,7 +165,6 @@ const categories = [
     gradient: 'linear-gradient(135deg, #14b8a6, #0891b2)',
     headerHeight: 155,
     mobileHeaderHeight: 112,
-    cover: '/images/wiki/c1fb1b3a4b79.jpg',
   },
 ];
 ---
@@ -188,7 +183,6 @@ const categories = [
   - `group` + `group-hover:` for hover state propagation on title,
     cover image, explore arrow, and gradient opacity
 -->
-
 <section
   class="mx-auto my-12 max-w-[var(--container-wide)] columns-3 gap-x-6 px-[clamp(1.5rem,5vw,5rem)] max-lg:columns-2 max-[768px]:mx-4 max-[768px]:my-8 max-[768px]:columns-1"
   aria-label={t('CategoryGrid.aria-section')}

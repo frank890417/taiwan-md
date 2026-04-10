@@ -35,6 +35,13 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
+  // 2026-04-11 heartbeat: Static redirects for top 404 URLs identified via
+  // Cloudflare logs. Astro generates HTML meta-refresh pages for each entry.
+  // Review with: bash scripts/tools/fetch-cloudflare.py --days 1
+  redirects: {
+    // /en/people/mayday/ → /en/people/mayday-band/ (51 req/day)
+    '/en/people/mayday': '/en/people/mayday-band/',
+  },
   markdown: {
     shikiConfig: {
       theme: 'github-light',
