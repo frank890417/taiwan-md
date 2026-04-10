@@ -1,0 +1,299 @@
+{
+  "capturedAt": "2026-04-10T04:45:26.783Z",
+  "commit": "662403d755b8829073dea76147d7f9a6d218e693",
+  "branch": "refactor/tw-phase-0",
+  "baseUrl": "http://127.0.0.1:4321",
+  "viewports": [
+    {
+      "name": "mobile",
+      "width": 375,
+      "height": 812,
+      "deviceScaleFactor": 1
+    },
+    {
+      "name": "tablet",
+      "width": 768,
+      "height": 1024,
+      "deviceScaleFactor": 1
+    },
+    {
+      "name": "desktop",
+      "width": 1280,
+      "height": 800,
+      "deviceScaleFactor": 1
+    }
+  ],
+  "pages": [
+    {
+      "name": "home-zh",
+      "url": "/"
+    },
+    {
+      "name": "home-en",
+      "url": "/en"
+    },
+    {
+      "name": "hub-history",
+      "url": "/history/"
+    },
+    {
+      "name": "hub-food",
+      "url": "/food/"
+    },
+    {
+      "name": "article-martial-law",
+      "url": "/history/戒嚴時期/"
+    },
+    {
+      "name": "contribute",
+      "url": "/contribute/"
+    },
+    {
+      "name": "about",
+      "url": "/about/"
+    },
+    {
+      "name": "data",
+      "url": "/data/"
+    },
+    {
+      "name": "dashboard",
+      "url": "/dashboard/"
+    },
+    {
+      "name": "map",
+      "url": "/map/"
+    },
+    {
+      "name": "taiwan-shape",
+      "url": "/taiwan-shape/"
+    },
+    {
+      "name": "changelog",
+      "url": "/changelog/"
+    }
+  ],
+  "results": [
+    {
+      "page": "home-zh",
+      "viewport": "mobile",
+      "file": "home-zh-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "home-en",
+      "viewport": "mobile",
+      "file": "home-en-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "hub-history",
+      "viewport": "mobile",
+      "file": "hub-history-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "hub-food",
+      "viewport": "mobile",
+      "file": "hub-food-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "article-martial-law",
+      "viewport": "mobile",
+      "file": "article-martial-law-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "contribute",
+      "viewport": "mobile",
+      "file": "contribute-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "about",
+      "viewport": "mobile",
+      "file": "about-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "data",
+      "viewport": "mobile",
+      "file": "data-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "dashboard",
+      "viewport": "mobile",
+      "file": "dashboard-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "map",
+      "viewport": "mobile",
+      "file": "map-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "taiwan-shape",
+      "viewport": "mobile",
+      "file": "taiwan-shape-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "changelog",
+      "viewport": "mobile",
+      "file": "changelog-mobile.png",
+      "ok": true
+    },
+    {
+      "page": "home-zh",
+      "viewport": "tablet",
+      "file": "home-zh-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "home-en",
+      "viewport": "tablet",
+      "file": "home-en-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "hub-history",
+      "viewport": "tablet",
+      "file": "hub-history-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "hub-food",
+      "viewport": "tablet",
+      "file": "hub-food-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "article-martial-law",
+      "viewport": "tablet",
+      "file": "article-martial-law-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "contribute",
+      "viewport": "tablet",
+      "file": "contribute-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "about",
+      "viewport": "tablet",
+      "file": "about-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "data",
+      "viewport": "tablet",
+      "file": "data-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "dashboard",
+      "viewport": "tablet",
+      "file": "dashboard-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "map",
+      "viewport": "tablet",
+      "file": "map-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "taiwan-shape",
+      "viewport": "tablet",
+      "file": "taiwan-shape-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "changelog",
+      "viewport": "tablet",
+      "file": "changelog-tablet.png",
+      "ok": true
+    },
+    {
+      "page": "home-zh",
+      "viewport": "desktop",
+      "file": "home-zh-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "home-en",
+      "viewport": "desktop",
+      "file": "home-en-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "hub-history",
+      "viewport": "desktop",
+      "file": "hub-history-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "hub-food",
+      "viewport": "desktop",
+      "file": "hub-food-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "article-martial-law",
+      "viewport": "desktop",
+      "file": "article-martial-law-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "contribute",
+      "viewport": "desktop",
+      "file": "contribute-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "about",
+      "viewport": "desktop",
+      "file": "about-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "data",
+      "viewport": "desktop",
+      "file": "data-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "dashboard",
+      "viewport": "desktop",
+      "file": "dashboard-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "map",
+      "viewport": "desktop",
+      "file": "map-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "taiwan-shape",
+      "viewport": "desktop",
+      "file": "taiwan-shape-desktop.png",
+      "ok": true
+    },
+    {
+      "page": "changelog",
+      "viewport": "desktop",
+      "file": "changelog-desktop.png",
+      "ok": true
+    }
+  ],
+  "summary": {
+    "total": 36,
+    "succeeded": 36,
+    "failed": 0
+  }
+}
