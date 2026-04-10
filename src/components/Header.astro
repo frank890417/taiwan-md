@@ -101,8 +101,8 @@ const categoryList = [
 ];
 ---
 
-<div id="header-container">
-  <div id="header-inner-container">
+<div id="header-container" class="fixed left-0 right-0 top-0 z-[1001] w-full">
+  <div class="flex flex-col items-stretch">
     <Banner />
     <header
       id="main-header"
@@ -572,15 +572,31 @@ const categoryList = [
   </div>
 </div>
 
-<!-- Search Modal -->
-<div id="search-modal" class="search-modal">
+<!--
+  Search Modal
+  ────────────
+  Hidden by default via `hidden`; JS toggles `.open` → adds `flex` via
+  the `[&.open]:flex` arbitrary variant. `.search-modal` class kept as a
+  CSS hook; the `search-*` class names on inner elements are also kept
+  because the search results (.search-item, .search-hint, etc.) are
+  rendered via innerHTML from the Layout.astro search script and rely on
+  :global() selectors still living in this component's <style> block.
+-->
+<div
+  id="search-modal"
+  class="search-modal fixed inset-0 z-[200] hidden items-start justify-center pt-[12vh] [&.open]:flex max-[768px]:pt-[8vh]"
+>
   <div
-    class="search-backdrop"
+    class="fixed inset-0 bg-black/40 backdrop-blur-[4px]"
     onclick="document.getElementById('search-modal').classList.remove('open')"
   >
   </div>
-  <div class="search-panel">
-    <div class="search-header">
+  <div
+    class="relative w-[90%] max-w-[560px] overflow-hidden rounded-xl bg-white shadow-[0_20px_60px_rgba(0,0,0,0.2)] max-[768px]:w-[95%] max-[768px]:max-w-full"
+  >
+    <div
+      class="flex items-center gap-3 border-b border-[#e2e8f0] px-4 py-[0.9rem]"
+    >
       <svg
         width="18"
         height="18"
@@ -599,11 +615,12 @@ const categoryList = [
       <input
         id="search-input"
         type="text"
+        class="flex-1 border-none bg-transparent text-base text-[#1a1a2e] outline-none placeholder:text-[#94a3b8]"
         placeholder={`${t('nav.search-modal.input-placeholder')}...`}
         autocomplete="off"
       />
       <kbd
-        class="search-kbd"
+        class="cursor-pointer rounded border border-[#e2e8f0] bg-[#f1f5f9] px-2 py-[0.2rem] font-[inherit] text-[0.7rem] text-[#64748b]"
         onclick="document.getElementById('search-modal').classList.remove('open')"
         >ESC</kbd
       >
@@ -643,22 +660,32 @@ const categoryList = [
   }
 </script>
 
+<!--
+  Phase 5 shell migration #2: Header.astro (partial)
+  ──────────────────────────────────────────────────
+  Migrated to Tailwind (removed from <style>):
+    - #header-container, #header-inner-container (structural wrappers)
+    - .search-modal, .search-backdrop, .search-panel, .search-header,
+      .search-header input, .search-kbd (search modal — no scroll state)
+    - Mobile overrides for .search-modal / .search-panel
+
+  Intentionally kept in scoped <style>:
+    - The header-bar scroll-state CSS variable machine (--header-bg,
+      --nav-color, --dot-color, etc. × 2 states)
+    - All rules that cascade off the `.scrolled` modifier class
+    - The mobile drawer state rules (hero/scrolled color switch)
+    - :global(html[lang='en']) early-mobile-collapse rules
+    - :global(.search-item*) rules that style the JS-rendered search
+      results (rendered via innerHTML from Layout.astro's search script)
+
+  Rationale: converting the 20+ state-switching rules to
+  [.scrolled_&]: arbitrary variants would be more verbose than the
+  current CSS variable architecture. The variable system IS the
+  right abstraction for this component. See ADR-001 for the
+  broader refactor philosophy (scoped <style> is allowed when it
+  pays its way).
+-->
 <style>
-  #header-container {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1001;
-    width: 100%;
-  }
-
-  #header-inner-container {
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-  }
-
   /* =============================================
      JADE PALETTE + GLASS TOKEN SYSTEM
      Transparent state (top) → Scrolled state (white glass)
@@ -1090,69 +1117,13 @@ const categoryList = [
   }
 
   /* =============================================
-     SEARCH MODAL
+     SEARCH RESULTS — :global() selectors are required because the
+     search results (.search-item, .search-hint, etc.) are rendered
+     via innerHTML from Layout.astro's search script, so Astro's
+     scoped-class hashing cannot reach them. Modal wrapper, backdrop,
+     panel, header, input, and kbd are now Tailwind utilities in the
+     markup above.
   ============================================= */
-  .search-modal {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 200;
-    align-items: flex-start;
-    justify-content: center;
-    padding-top: 12vh;
-  }
-  .search-modal.open {
-    display: flex;
-  }
-  .search-backdrop {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.4);
-    backdrop-filter: blur(4px);
-  }
-  .search-panel {
-    position: relative;
-    width: 90%;
-    max-width: 560px;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.2);
-    overflow: hidden;
-  }
-  .search-header {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.9rem 1rem;
-    border-bottom: 1px solid #e2e8f0;
-  }
-  .search-header input {
-    flex: 1;
-    border: none;
-    outline: none;
-    font-size: 1rem;
-    color: #1a1a2e;
-    background: transparent;
-  }
-  .search-header input::placeholder {
-    color: #94a3b8;
-  }
-  .search-kbd {
-    font-size: 0.7rem;
-    padding: 0.2rem 0.5rem;
-    background: #f1f5f9;
-    border: 1px solid #e2e8f0;
-    border-radius: 4px;
-    color: #64748b;
-    font-family: inherit;
-    cursor: pointer;
-  }
   :global(.search-results) {
     max-height: 400px;
     overflow-y: auto;
@@ -1342,13 +1313,6 @@ const categoryList = [
       padding: 0.3rem 0.5rem;
       font-size: 0.75rem;
       min-width: unset;
-    }
-    .search-panel {
-      max-width: 100%;
-      width: 95%;
-    }
-    .search-modal {
-      padding-top: 8vh;
     }
 
     /* Mobile drawer — adapts to scroll state */

@@ -22,10 +22,10 @@
 | **2 — Component Layer** | @layer components 預建圖書館     | ✅ 完成   | 2026-04-10 | 2026-04-10 | merged to main        |
 | **3 — Tailwind Flip**   | preflight + @layer base rebuild  | ✅ 完成   | 2026-04-10 | 2026-04-10 | `refactor/tw-phase-3` |
 | **4 — Leaf Migration**  | 14 個 leaf component 逐個遷移    | ✅ 完成   | 2026-04-10 | 2026-04-10 | `refactor/tw-phase-4` |
-| 5 — Layout Shell        | Header / Footer / Layout globals | 🔲 未開始 | —          | —          | —                     |
-| 5 — Pages & Routes      | 22 個 page style 區塊            | 🔲 未開始 | —          | —          | —                     |
-| 6 — Preflight + Cleanup | 啟用 preflight、清 dead CSS      | 🔲 未開始 | —          | —          | —                     |
-| 7 — Docs & Guard        | DESIGN.md + CI + PR template     | 🔲 未開始 | —          | —          | —                     |
+| **5 — Layout Shell**    | Header / Footer / Layout globals | ✅ 完成   | 2026-04-10 | 2026-04-10 | `refactor/tw-phase-5` |
+| 6 — Pages & Routes      | 22 個 page style 區塊            | 🔲 未開始 | —          | —          | —                     |
+| 7 — Preflight + Cleanup | 啟用 preflight、清 dead CSS      | 🔲 未開始 | —          | —          | —                     |
+| 8 — Docs & Guard        | DESIGN.md + CI + PR template     | 🔲 未開始 | —          | —          | —                     |
 
 ---
 
@@ -465,6 +465,46 @@ Phase 3 之後 Phase 4+ 可以使用：
 ### 視覺 drift 觀察
 
 Phase 3 flip 之後留下的 mean 7.15% drift 在 Phase 4 每個 component 遷移後逐漸縮減——主要來源是 preflight 把 classless heading margin 拿掉，而 Phase 4 每個 component 把自己的 heading 換成 Tailwind 明確尺寸，從 `@layer base` 的責任中移出。完整的 Phase 4 後 baseline 重建留給 merge 前確認。
+
+---
+
+## Phase 5 — Layout Shell
+
+> **目標**：遷移 Layout.astro / Header.astro / Footer.astro 三個包住整站的「外殼」元件。
+
+### DOD Checklist
+
+- [x] `Layout.astro` 無 `<style>` block — Phase 3 就已清空，Phase 5 只需確認
+- [x] `Footer.astro` 完全遷移（~150 lines CSS 刪除）
+- [x] `Header.astro` 部分遷移：結構層 + search modal 改 Tailwind；scroll-state 變數機保留
+- [x] 每個 commit 後 dev server 能 build
+- [x] PR merge 進 main ← 下一步
+
+### 進度紀錄（2026-04-10）
+
+| #   | Component      | commit     | 重點                                                                                |
+| --- | -------------- | ---------- | ----------------------------------------------------------------------------------- |
+| 1   | `Footer.astro` | `206547a4` | 整個 `<style>` 移除（-112 lines）；`[&>a:hover]:after:*` 任意變體重建動畫 underline |
+| 2   | `Layout.astro` | —          | Phase 3 就已清 style 完畢，僅確認                                                   |
+| 3   | `Header.astro` | `57495aef` | 部分遷移：結構 wrapper + search modal；保留 scroll-state CSS 變數機                 |
+
+### 為什麼 Header 是部分遷移
+
+Header.astro 有一套精緻的 **scroll-state CSS 變數機**——`header` 上宣告約 25 個 CSS 變數（palette、glass tokens、nav colors、button styles），而 `header[data-hero]:not(.scrolled)` 一次翻轉全部成為「透明 hero 模式」。所有 header 內部的 class 都讀這些變數。
+
+**為什麼不全部改 Tailwind**：
+
+1. **CSS 變數就是 state machine 的正確抽象**——翻轉整組變數比翻轉整組 class 乾淨
+2. 要改 Tailwind 就得把每個子元素包 `[.scrolled_&]:bg-white/99` `[.scrolled_&]:text-[#334155]` 等任意變體，20+ 個 override 變成 60+ 個任意變體，**比現在的 CSS 還長、還難讀**
+3. 這個 scoped `<style>` 已經是 clean architecture——不是 debt，是正確選擇
+
+**真正遷移掉的是**：結構 wrapper（`#header-container`、`#header-inner-container`）跟 search modal（`.search-modal`、`.search-backdrop`、`.search-panel`、`.search-header`、`.search-kbd` + mobile 覆蓋），因為這些**不參與** scroll-state，是純粹結構。
+
+Header 的 `<style>` 從 832 行降到 ~780 行（拿掉結構跟 modal 之後）。剩下的是變數宣告 + `.scrolled .xxx` cascade + `:global()` 選擇器 + mobile drawer 的 state 切換——**這些該留下的都留下了**。
+
+### 學到的 pattern
+
+**「Scoped `<style>` 不是債，是選擇」**：當一個 component 有複雜的 state machine（例如 scroll state、active/disabled state），而且那個 state 會影響多個子元素的多個屬性，CSS 變數 + cascade 通常**比** 20 個 Tailwind 任意變體乾淨。Phase 4 的 14 個 leaf 沒有這樣的 state machine，所以完全 Tailwind 化才對；Phase 5 的 Header 有，所以部分遷移才對。
 
 ---
 
