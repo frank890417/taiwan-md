@@ -1272,6 +1272,7 @@ const isEn = lang === 'en';
 
     // Tooltip interaction
     const tooltip = document.getElementById('growth-tooltip');
+    const tooltipMargin = 12;
     container.querySelectorAll('.growth-dot-hover').forEach((el) => {
       el.addEventListener('mouseenter', function (e) {
         const idx = parseInt(this.dataset.idx, 10);
@@ -1279,13 +1280,33 @@ const isEn = lang === 'en';
         const mmdd = d.date.slice(5).replace('-', '/');
         tooltip.innerHTML = `<strong>${mmdd}</strong><br>+${d.daily} ${isEn ? 'new' : '新增'}<br>${isEn ? 'Total' : '累計'}: ${d.cumulative}`;
         tooltip.style.display = 'block';
+        tooltip.style.visibility = 'hidden';
         const cx = xPos(idx);
         const cy = yPos(d.cumulative);
-        tooltip.style.left = Math.min(cx, w - 100) + 'px';
-        tooltip.style.top = cy - 60 + 'px';
+        const tooltipWidth = tooltip.offsetWidth;
+        const tooltipHeight = tooltip.offsetHeight;
+        const minLeft = container.scrollLeft + tooltipMargin;
+        const maxLeft =
+          container.scrollLeft +
+          container.clientWidth -
+          tooltipWidth -
+          tooltipMargin;
+        const preferredLeft = cx + tooltipMargin;
+        const left = Math.max(minLeft, Math.min(preferredLeft, maxLeft));
+        const minTop = tooltipMargin;
+        const maxTop = chartH - tooltipHeight - tooltipMargin;
+        const preferredTop = cy - tooltipHeight - tooltipMargin;
+        const top =
+          preferredTop >= minTop
+            ? preferredTop
+            : Math.min(cy + tooltipMargin, maxTop);
+        tooltip.style.left = `${left}px`;
+        tooltip.style.top = `${Math.max(minTop, top)}px`;
+        tooltip.style.visibility = 'visible';
       });
       el.addEventListener('mouseleave', () => {
         tooltip.style.display = 'none';
+        tooltip.style.visibility = 'visible';
       });
     });
   }
@@ -1596,7 +1617,9 @@ const isEn = lang === 'en';
     if (insightsEl) {
       const brandShare =
         search.totals?.clicks > 0
-          ? Math.round(((search.brand?.clicks || 0) / search.totals.clicks) * 100)
+          ? Math.round(
+              ((search.brand?.clicks || 0) / search.totals.clicks) * 100,
+            )
           : 0;
       const successfulCrawls = cloudflare.aiCrawlers?.http200 || 0;
       insightsEl.innerHTML =
@@ -1619,20 +1642,18 @@ const isEn = lang === 'en';
             body: isEn
               ? `Only ${fmtNum(search.totals?.clicks)} clicks came in over the last 24h, and ${brandShare}% were brand searches. Discovery is still ahead of capture.`
               : `過去 24 小時只有 ${fmtNum(search.totals?.clicks)} 次點擊，其中 ${brandShare}% 仍是品牌詞。被看見的速度，仍快於被接住的速度。`,
-            meta:
-              opportunities[0]
-                ? `${opportunities[0].query} · ${fmtNum(opportunities[0].impressions)} imp · #${fmtRank(opportunities[0].position)}`
-                : '',
+            meta: opportunities[0]
+              ? `${opportunities[0].query} · ${fmtNum(opportunities[0].impressions)} imp · #${fmtRank(opportunities[0].position)}`
+              : '',
           },
           {
             title: isEn ? 'Edge + AI' : '邊緣與 AI',
             body: isEn
               ? `${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} AI crawler requests arrived in the last 24h; ${fmtNum(successfulCrawls)} returned HTTP 200.`
               : `過去 24 小時 Cloudflare 看見 ${fmtNum(cloudflare.aiCrawlers?.detectedRequests)} 次 AI crawler 請求，其中 ${fmtNum(successfulCrawls)} 次成功拿到 HTTP 200。`,
-            meta:
-              cloudflare.aiCrawlers?.topCrawler
-                ? `${cloudflare.aiCrawlers.topCrawler.name} ${fmtNum(cloudflare.aiCrawlers.topCrawler.requests)} · ${cloudflare.aiCrawlers.topPath?.path || ''}`
-                : '',
+            meta: cloudflare.aiCrawlers?.topCrawler
+              ? `${cloudflare.aiCrawlers.topCrawler.name} ${fmtNum(cloudflare.aiCrawlers.topCrawler.requests)} · ${cloudflare.aiCrawlers.topPath?.path || ''}`
+              : '',
           },
         ]
           .map(
@@ -1758,8 +1779,7 @@ const isEn = lang === 'en';
         Spain: '🇪🇸',
         Italy: '🇮🇹',
       };
-      const maxUsers =
-        topCountries[0]?.requests || topCountries[0]?.users || 1;
+      const maxUsers = topCountries[0]?.requests || topCountries[0]?.users || 1;
       countriesEl.innerHTML =
         `<h3 class="subsection-title">${isEn ? '🌍 Edge Geography (24h)' : '🌍 邊緣流量地理（24h）'}</h3>` +
         '<div class="ga-countries-list">' +
@@ -2640,6 +2660,7 @@ const isEn = lang === 'en';
     pointer-events: none;
     z-index: 10;
     white-space: nowrap;
+    max-width: calc(100% - 24px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   }
 
