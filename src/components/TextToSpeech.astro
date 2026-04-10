@@ -21,15 +21,29 @@ const speechLangMap: Record<string, string> = {
 const speechLang = speechLangMap[lang] || 'en-US';
 ---
 
-<div class="tts-controls" id="tts-controls" data-speech-lang={speechLang}>
+<!--
+  Phase 4 leaf migration #7: TextToSpeech.astro
+  ─────────────────────────────────────────────
+  - Scoped <style> block removed entirely
+  - `.tts-hidden` helper class replaced with Tailwind's `hidden` class
+  - Script updated to toggle `hidden` instead of `tts-hidden`
+  - Button uses inline-flex + gap utilities instead of .btn-ghost
+    (note: the site has a global nav/button font rule in @layer base
+    which already handles font-family)
+-->
+<div
+  class="flex items-center gap-2"
+  id="tts-controls"
+  data-speech-lang={speechLang}
+>
   <button
-    class="btn-ghost"
+    class="inline-flex cursor-pointer items-center gap-[0.4rem] border-none bg-transparent p-0 text-[0.82rem] text-inherit"
     id="tts-play"
     aria-label={t('article.tts.play')}
     title={t('article.tts.play')}
   >
     <svg
-      class="tts-icon"
+      class="h-4 w-4 flex-shrink-0"
       id="tts-icon-play"
       fill="none"
       viewBox="0 0 24 24"
@@ -43,7 +57,7 @@ const speechLang = speechLangMap[lang] || 'en-US';
       ></path>
     </svg>
     <svg
-      class="tts-icon tts-hidden"
+      class="hidden h-4 w-4 flex-shrink-0"
       id="tts-icon-pause"
       fill="none"
       viewBox="0 0 24 24"
@@ -58,13 +72,13 @@ const speechLang = speechLangMap[lang] || 'en-US';
     <span id="tts-label">{t('article.tts.play')}</span>
   </button>
   <button
-    class="btn-ghost tts-hidden"
+    class="hidden cursor-pointer items-center gap-[0.4rem] border-none bg-transparent p-0 text-[0.82rem] text-inherit"
     id="tts-stop"
     aria-label={t('article.tts.stop')}
     title={t('article.tts.stop')}
   >
     <svg
-      class="tts-icon"
+      class="h-4 w-4 flex-shrink-0"
       fill="none"
       viewBox="0 0 24 24"
       stroke="currentColor"
@@ -81,33 +95,6 @@ const speechLang = speechLangMap[lang] || 'en-US';
     </svg>
   </button>
 </div>
-
-<style>
-  .tts-controls {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
-  .tts-hidden {
-    display: none;
-  }
-  .btn-ghost {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    font-size: 0.82rem;
-    background: none;
-    border: none;
-    cursor: pointer;
-    padding: 0;
-    color: inherit;
-  }
-  .tts-icon {
-    width: 1rem;
-    height: 1rem;
-    flex-shrink: 0;
-  }
-</style>
 
 <script is:inline>
   (function () {
@@ -142,18 +129,20 @@ const speechLang = speechLangMap[lang] || 'en-US';
     function setState(state) {
       isPlaying = state === 'playing';
       if (state === 'playing') {
-        iconPlay.classList.add('tts-hidden');
-        iconPause.classList.remove('tts-hidden');
-        stopBtn.classList.remove('tts-hidden');
+        iconPlay.classList.add('hidden');
+        iconPause.classList.remove('hidden');
+        stopBtn.classList.remove('hidden');
+        stopBtn.classList.add('inline-flex');
         label.textContent = 'Pause';
       } else if (state === 'paused') {
-        iconPlay.classList.remove('tts-hidden');
-        iconPause.classList.add('tts-hidden');
+        iconPlay.classList.remove('hidden');
+        iconPause.classList.add('hidden');
         label.textContent = 'Resume';
       } else {
-        iconPlay.classList.remove('tts-hidden');
-        iconPause.classList.add('tts-hidden');
-        stopBtn.classList.add('tts-hidden');
+        iconPlay.classList.remove('hidden');
+        iconPause.classList.add('hidden');
+        stopBtn.classList.add('hidden');
+        stopBtn.classList.remove('inline-flex');
         label.textContent = controls
           .querySelector('[id="tts-play"]')
           .getAttribute('aria-label');
