@@ -498,5 +498,23 @@ const categories = [
 
     // Reveal page (prevent FOUC)
     main.style.opacity = '1';
+
+    // ─── 404 Observability (2026-04-11) ───────────────────
+    // Track the actual failed URL so we can diagnose which paths 404.
+    // GA4 otherwise only tells us "404 page visited" without the path.
+    // See reports/sense-2026-04-11.md §2 for the full rationale.
+    try {
+      if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+        window.gtag('event', 'page_404', {
+          failed_path: window.location.pathname,
+          failed_url: window.location.href,
+          referrer: document.referrer || '(direct)',
+          page_language: document.documentElement.lang || 'unknown',
+          had_suggestion: !!article,
+        });
+      }
+    } catch (e) {
+      // Never let tracking break the 404 page itself
+    }
   })();
 </script>
