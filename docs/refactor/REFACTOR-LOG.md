@@ -21,8 +21,8 @@
 | **1 — Design Tokens**   | tokens.css + Tailwind v4 整合    | ✅ 完成   | 2026-04-10 | 2026-04-10 | merged to main        |
 | **2 — Component Layer** | @layer components 預建圖書館     | ✅ 完成   | 2026-04-10 | 2026-04-10 | merged to main        |
 | **3 — Tailwind Flip**   | preflight + @layer base rebuild  | ✅ 完成   | 2026-04-10 | 2026-04-10 | `refactor/tw-phase-3` |
-| 3 — Leaf Migration      | 14 個 leaf component 逐個遷移    | 🔲 未開始 | —          | —          | —                     |
-| 4 — Layout Shell        | Header / Footer / Layout globals | 🔲 未開始 | —          | —          | —                     |
+| **4 — Leaf Migration**  | 14 個 leaf component 逐個遷移    | ✅ 完成   | 2026-04-10 | 2026-04-10 | `refactor/tw-phase-4` |
+| 5 — Layout Shell        | Header / Footer / Layout globals | 🔲 未開始 | —          | —          | —                     |
 | 5 — Pages & Routes      | 22 個 page style 區塊            | 🔲 未開始 | —          | —          | —                     |
 | 6 — Preflight + Cleanup | 啟用 preflight、清 dead CSS      | 🔲 未開始 | —          | —          | —                     |
 | 7 — Docs & Guard        | DESIGN.md + CI + PR template     | 🔲 未開始 | —          | —          | —                     |
@@ -416,6 +416,55 @@ Phase 3 之後 Phase 4+ 可以使用：
 3. **Dark mode**：`class="bg-surface dark:bg-ink text-ink dark:text-surface"` （Phase 6.5 會啟動）
 4. **`@apply` in `@layer components`**：Phase 4 leaf 可以用 `@apply` 重寫 tw-\* classes
 5. **`@tailwindcss/typography` plugin**：Phase 5.5 會 install，article body 切換到 `prose` class
+
+---
+
+## Phase 4 — Leaf Migration
+
+> **目標**：逐個遷移「只被少數 page 使用」的 leaf component，把它們的 scoped `<style>` 全部換成 Tailwind atomic utilities，徹底擺脫 CSS 手寫區塊。
+
+### DOD Checklist
+
+- [x] 14 個 leaf component 全部完成 `<style>` → Tailwind 遷移
+- [x] 每個遷移是獨立 atomic commit，訊息格式 `refactor(tw-phase-4): migrate X.astro to Tailwind utilities`
+- [x] 8 個 `@keyframes`（floatDrift/Swing/Pulse/Glow/Wave/Scroll/Brush/Rise）從 TopicCard.astro 移至 `global.css` 頂層
+- [x] `group` / `group-hover:` pattern 取代原本的 `.parent:hover .child` scoped rules
+- [x] `motion-reduce:` 變體取代原本的 `@media (prefers-reduced-motion)` 區塊
+- [x] 每個 component 遷移後 dev server 能 build
+- [ ] PR merge 進 main ← **下一步**
+
+### 進度紀錄（2026-04-10）
+
+14 個 leaf commits 順序（最早 → 最新）：
+
+| #   | Component                  | commit     | 重點                                                                                                                 |
+| --- | -------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| 1   | `Banner.astro`             | `bafa0183` | 最小型樣板，先試水                                                                                                   |
+| 2   | `FeatureCards.astro`       | `1ceb50b4` | 4-col → 2-col grid                                                                                                   |
+| 3   | `RelatedArticleCard.astro` | `dfeb91b7` | 首次 `group` + `group-hover:` 示範                                                                                   |
+| 4   | `HeroStats.astro`          | `67090dbb` | `max-[380px]:` 任意 breakpoint                                                                                       |
+| 5   | `TableOfContents.astro`    | `c6f4ed3b` | `[&.active]:` 變體應對 JS-toggled 狀態                                                                               |
+| 6   | `ReadingPath.astro`        | `cfed0f59` | `before:[background:url(...)]` SVG data URL、CSS custom properties                                                   |
+| 7   | `TextToSpeech.astro`       | `a3f9bef2` | `.tts-hidden` 換成原生 `hidden`，script 同步更新                                                                     |
+| 8   | `TopicsMasonry.astro`      | `cf7d4ed3` | `columns-1 sm:columns-2 lg:columns-3` + `break-inside-avoid`                                                         |
+| 9   | `ArticleHero.astro`        | `d604f8ef` | `[&_#tts-play]:` 任意子選擇器替代 `:global(.btn-ghost)`                                                              |
+| 10  | `home/HeroSection.astro`   | `ec28aef0` | 6-radial-gradient 山脈背景、4 段響應式字級梯                                                                         |
+| 11  | `commits/CommitLog.astro`  | `a4b6a599` | 三個 variant（timeline/cards/compact），JSX 條件取代 `:last-child`                                                   |
+| 12  | `ArticleSidebar.astro`     | `ec63acb1` | `[&_.meta-row]:` 任意子選擇器                                                                                        |
+| 13  | `CategoryGrid.astro`       | `f41a6e5e` | 12 張卡片的 `:nth-child()` 高度 + `[data-color=...]` 漸層 → data-driven inline style                                 |
+| 14  | `TopicCard.astro`          | `4bc6534e` | 8 個 `@keyframes` 外移至 `global.css`；`group-hover:[animation:var(--anim)_...]` 動態動畫名稱；`motion-reduce:` 變體 |
+
+### 學到的 patterns
+
+1. **CSS 變數 + Tailwind 任意值共存**：component 行內 `style="--accent: #c17d5e"` 設變數後，任意值以 `bg-[color-mix(in_srgb,var(--accent)_6%,#f8f1e9)]` 讀取；完全不需要 scoped CSS
+2. **動態動畫名稱的處理**：`animation-name: var(--anim)` 無法以 Tailwind `animate-*` 表達；但 `[animation:var(--anim)_2.5s_ease-in-out_infinite]` 任意值 + 頂層 `@keyframes` 在 `global.css` 即可
+3. **`group` / `group-hover:` 比 scoped `:hover` 還乾淨**：JSX 的 hover 狀態傳遞只需父級 `group` class，子級用 `group-hover:*` 變體觸發 — 沒有 cascade 相依
+4. **`motion-reduce:` 變體**：一次覆蓋 transform/transition/animation，避免手寫 `@media (prefers-reduced-motion)` 區塊
+5. **data-driven 樣式變化**：CategoryGrid 把 12 張卡片原本靠 `:nth-child(N)` 指定的高度，移到 TypeScript 陣列成 `headerHeight` 屬性，行內 `style={...}` 傳遞；clean 到無需 scoped CSS
+
+### 視覺 drift 觀察
+
+Phase 3 flip 之後留下的 mean 7.15% drift 在 Phase 4 每個 component 遷移後逐漸縮減——主要來源是 preflight 把 classless heading margin 拿掉，而 Phase 4 每個 component 把自己的 heading 換成 Tailwind 明確尺寸，從 `@layer base` 的責任中移出。完整的 Phase 4 後 baseline 重建留給 merge 前確認。
 
 ---
 
