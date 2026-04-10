@@ -31,13 +31,21 @@ const sourceLabel =
   description={t('changelog.meta.description')}
   lang={lang}
 >
-  <div class="changelog-page">
-    <header class="changelog-header">
-      <h1>{t('changelog.header.title')}</h1>
-      <p class="changelog-subtitle">
+  <div
+    class="mx-auto max-w-[800px] px-8 pb-24 pt-16 max-[768px]:px-4 max-[768px]:pb-16 max-[768px]:pt-12"
+  >
+    <header class="mb-16 text-center">
+      <h1
+        class="mb-3 font-['jf-jinxuanlatte','Noto_Sans_TC','Source_Han_Sans_TC',sans-serif] text-[2.5rem] font-black tracking-[0.05em] text-[#1a1a2e] max-[768px]:text-[2rem]"
+      >
+        {t('changelog.header.title')}
+      </h1>
+      <p class="mb-4 text-[1.15rem] font-medium text-[#64748b]">
         {t('changelog.header.subtitle')}
       </p>
-      <p class="changelog-meta">
+      <p
+        class="text-[0.9rem] text-[#94a3b8] [&>a:hover]:underline [&>a]:text-[#3b82f6] [&>a]:no-underline"
+      >
         {lang === 'zh-TW' ? '共 ' : ''}{commits.length}{' '}
         {t('changelog.header.meta.updates')} · {sourceLabel} ·
         <a
@@ -73,57 +81,3 @@ const sourceLabel =
     />
   </div>
 </Layout>
-
-<style>
-  .changelog-page {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 4rem 2rem 6rem;
-  }
-
-  .changelog-header {
-    text-align: center;
-    margin-bottom: 4rem;
-  }
-
-  .changelog-header h1 {
-    font-size: 2.5rem;
-    font-weight: 900;
-    color: #1a1a2e;
-    margin-bottom: 0.75rem;
-    font-family:
-      'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
-    letter-spacing: 0.05em;
-  }
-
-  .changelog-subtitle {
-    font-size: 1.15rem;
-    color: #64748b;
-    margin-bottom: 1rem;
-    font-weight: 500;
-  }
-
-  .changelog-meta {
-    font-size: 0.9rem;
-    color: #94a3b8;
-  }
-
-  .changelog-meta a {
-    color: #3b82f6;
-    text-decoration: none;
-  }
-
-  .changelog-meta a:hover {
-    text-decoration: underline;
-  }
-
-  @media (max-width: 768px) {
-    .changelog-page {
-      padding: 3rem 1rem 4rem;
-    }
-
-    .changelog-header h1 {
-      font-size: 2rem;
-    }
-  }
-</style>
