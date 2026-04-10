@@ -710,6 +710,39 @@ Top 10 files by scoped CSS size:
 
 **建議執行順序**：先做 home components（都很小、全部 single-use、一個 session 可清掉全部 8 個），再做 taiwan-shape 和 assets（小且快），最後啃 data.template。
 
+#### Phase 7.6 batch — 2026-04-11（`5b79a2a7`）
+
+第一個 Tier 1 batch 做完了。**11 檔裡處理了 9 個**：
+
+| 檔案                          | 狀態       | 備註                                                                                                                                                                                       |
+| ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `LanguageStatement.astro`     | ✅ 全遷    | `[&>p]:` / `[&>p>a]:` 任意子變體處理內層                                                                                                                                                   |
+| `ContributeSection.astro`     | ✅ 全遷    | `::before` dot pattern 改成絕對定位 sibling `<div>` + 行內 `style=""`（data URL 在 Tailwind 任意值炸掉）                                                                                   |
+| `RecentUpdates.astro`         | ✅ 全遷    | `.commit-log` 的 `:global()` 原本只是 z-index + max-width，inline 到 wrapper 就夠                                                                                                          |
+| `NewsletterSection.astro`     | ✅ 全遷    | `#newsletter-success` 保留 inline `style="display:none"`，JS 的 `.style.display = 'flex'` 繼續覆寫                                                                                         |
+| `CommunityFeedback.astro`     | ✅ 全遷    | `@keyframes marquee-left/right` 移到 `global.css`；重複的 bubble class string 抽成 local `const` 保持 loop 可讀                                                                            |
+| `RandomDiscovery.astro`       | ✅ 全遷    | `@keyframes dice-roll` 移到 `global.css`；按鈕 shimmer `::before` 用 `[&::before]:` + `hover:[&::before]:left-full`                                                                        |
+| `CoverStory.astro`            | ✅ 全遷    | `:nth-child(even)` / `:last-child` 藍綠黃變體改成 frontmatter 計算 `variant` object + 行內 `style=""`                                                                                      |
+| `CategoriesSection.astro`     | 🟡 partial | Wrappers 全 inline。保留 `.explore-prose :global(p/a/a.topic-pill)` 因為內容從 `<slot name="prose">` 來，Tailwind 觸及不到                                                                 |
+| `taiwan-shape.template.astro` | 🟡 partial | Page shell + hero inline。剩下是 repeating patterns（svg-card × N / geo-download-card / codes-table / btn variants / format-box）+ `.taiwan-shape-page` descendant typography——全部 earned |
+
+**Guard 對照**：`17,297 → 16,512` (−785 行)，檔案數 `30 → 23`（−7）。Production build 驗證 2167 頁全數乾淨。
+
+**新增的 global `@keyframes`**：`marquee-left`、`marquee-right`、`dice-roll`（跟 Phase 4 的 `float*` 共 11 個）。以後任何需要動態動畫名稱的元件都可以照這個 pattern 做。
+
+**剩下的 Tier 1**：
+
+- `data.template.astro` (1539)：真正的大魔王，之後專門處理
+- `assets.template.astro` (181)：小檔，下次暖身時快速清掉
+
+### Phase 7.6 經驗
+
+1. **`@keyframes` → global.css 是穩定 pattern**：Phase 4 的 `float*`、Phase 7.6 的 `marquee-*` / `dice-roll` 都用同一招——keyframes 提升到 `global.css` 頂層，inline `[animation:name_duration_timing_iteration]` 從 Tailwind arbitrary 呼叫。不需要 Tailwind 的 `theme.extend.keyframes` 設定。
+2. **`::before` / `::after` 的 Tailwind 化**：有 content/position/size 的 pseudo-element 可以用 `[&::before]:content-[''] [&::before]:absolute ...` 系列任意變體處理。**但 data URL `content:` 或 `background:` 裡有引號/逗號的時候會炸**——改用真實 `<div>` + 行內 `style=""` 比較穩。
+3. **`:nth-child(even)` / `:last-child` 變體 → frontmatter 計算**：比保留在 scoped CSS 乾淨很多。在 frontmatter 用 index 算 variant，透過 inline `style=""` 套到元素上，cascade 不用煩惱。
+4. **重複 class string → local `const`**：當一個 pattern 在 map loop 裡出現 4-6 次且 class 字串很長時，把字串抽成 `const BUBBLE_CLS = '...'` 在 frontmatter 宣告，JSX 裡寫 `<div class={BUBBLE_CLS}>`。可讀性接近原本的 scoped class，但沒有 scoped CSS 的負擔。
+5. **Slotted HTML 一定要 `:global()`**：`<slot name="..." />` 的內容從 parent 注入，子元素 Tailwind 類別不會被 Astro scoped hashing 轉換。這類 selector 必須保留為 `:global()`。
+
 #### 🔧 Tier 2 — 已部分遷移的大檔案可再深化（P2-P3，預估可刪 ~2,334 行）
 
 這些檔案 Phase 7.5 只做了 hero/wrappers 的淺層遷移，內部 section 的 single-use feature blocks 還可以 inline。共用的 `.section-title` / `.section-subtitle` 基元、重複 pattern（card grid、timeline items）、state class 應保留 scoped。
