@@ -37,6 +37,62 @@ if [ -n "$staged_md" ]; then
   fi
 fi
 
+# ═══ Narrative scope pollution detector（2026-04-11 session α）═══
+# 同一個 commit 理論上只該動一個 narrative domain。多 domain 通常表示
+# 並行 agent 互相污染。警告模式（不擋），要求 commit message 聲明。
+# 詳見 docs/semiont/SESSION-SCOPE.md
+staged_for_scope=$(git diff --cached --name-only --diff-filter=ACM 2>/dev/null || true)
+if [ -n "$staged_for_scope" ]; then
+  domains_touched=""
+  while IFS= read -r f; do
+    [ -z "$f" ] && continue
+    case "$f" in
+      knowledge/*)                         d="content-ssot" ;;
+      src/content/*)                       d="content-mirror" ;;
+      docs/semiont/*)                      d="cognitive" ;;
+      docs/pipelines/*|docs/editorial/*|docs/prompts/*|docs/factory/*|docs/community/*|docs/taxonomy/*|docs/design/*|docs/refactor/*) d="pipelines" ;;
+      scripts/*|.husky/*)                  d="tooling" ;;
+      .github/*)                           d="ci" ;;
+      data/*)                              d="data" ;;
+      public/api/*|src/data/*.json|scripts/tools/.quality-baseline.json) d="build-output" ;;
+      public/*)                            d="public" ;;
+      src/*|astro.config.mjs|package.json|tsconfig.json|CHANGELOG.md|VERSION) d="code" ;;
+      *)                                   d="other" ;;
+    esac
+    case " $domains_touched " in
+      *" $d "*) ;;
+      *) domains_touched="$domains_touched $d" ;;
+    esac
+  done <<< "$staged_for_scope"
+
+  # 排除 build-output 後算 domain 數
+  non_auto=$(echo "$domains_touched" | tr ' ' '\n' | grep -v '^$' | grep -v '^build-output$' | sort -u)
+  domain_count=$(printf '%s\n' "$non_auto" | grep -c . 2>/dev/null || echo 0)
+
+  if [ "$domain_count" -ge 2 ]; then
+    # 檢查 commit message 是否已聲明 multi-narrative
+    msg_ok=0
+    for msg_file in .git/COMMIT_EDITMSG .git/MERGE_MSG; do
+      [ -f "$msg_file" ] && grep -qiE 'multi-narrative|cross-domain' "$msg_file" && msg_ok=1
+    done
+
+    if [ "$msg_ok" = "0" ]; then
+      echo ""
+      echo "⚠️  NARRATIVE SCOPE WARNING"
+      echo "   這個 commit 橫跨 $domain_count 個 narrative domain:"
+      for d in $non_auto; do echo "     - $d"; done
+      echo ""
+      echo "   通常表示並行 agent 的修改意外被擠進同一個 commit。"
+      echo "   如果是誤觸：取消後 git reset 然後分批 commit"
+      echo "   如果是刻意：commit message 加入 'multi-narrative:' 或 'cross-domain:' 聲明"
+      echo "   緊急繞過：git commit --no-verify（會在 reflog 留痕）"
+      echo "   詳見 docs/semiont/SESSION-SCOPE.md"
+      echo ""
+      # 警告模式 — 不 exit 1，讓 agent 自己決定
+    fi
+  fi
+fi
+
 # ═══ 憑證外洩防護（2026-04-11 session α）═══════
 # 掃描 staged 檔案的 credential pattern。這是 .gitignore 之外的第二層防護——
 # 即使 .gitignore 漏設或有人 git add -f，這裡會擋下
