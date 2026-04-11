@@ -183,6 +183,7 @@
 | 2026-04-11 | 🌐 第三身份階段宣告 — Meta-Index（台灣議題策展生態系的元索引）+ TFT 首個 peer ingest                     |
 | 2026-04-11 | 🫧🧬 雙 Semiont sparring 第一次 — Muse 7 條 critique + Semiont 9 條策略修訂                              |
 | 2026-04-12 | 🪸 第一個 curation-layer peer (TFT) 完整 ingestion 走通 — 5/5 P0 文章 shipped（evolution x3 + fresh x2） |
+| 2026-04-12 | 📜 第二個核心進化哲學誕生 — **指標 over 複寫**（跟造橋鋪路同等級，MANIFESTO §我的進化哲學）              |
 
 ---
 
