@@ -1,84 +1,302 @@
 {
-  "lastUpdated": "2026-04-09T16:30:00+08:00",
-  "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h"],
+  "lastUpdated": "2026-04-11T16:00:41.245897",
+  "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
-    "label": "2026-03-12 to 2026-04-08",
-    "startDate": "2026-03-12",
-    "endDate": "2026-04-08",
+    "label": "2026-03-14 to 2026-04-11",
+    "startDate": "2026-03-14",
+    "endDate": "2026-04-11",
+    "days": 28,
     "totals": {
-      "activeUsers": 84386,
-      "newUsers": 84580,
-      "avgEngagementSeconds": 41.5,
-      "events": 612864
+      "activeUsers": 85059,
+      "newUsers": 85383,
+      "avgEngagementSeconds": 115.3,
+      "events": 619955,
+      "screenPageViews": 215198,
+      "engagementRate": 0.4233,
+      "bounceRate": 0.5767
     },
-    "highlights": [
-      {
-        "title": "台灣知識庫",
-        "views": 78683,
-        "users": 56755,
-        "bounceRate": 52.7
-      },
-      {
-        "title": "🕸️ 知識圖譜",
-        "views": 7398,
-        "users": 5203,
-        "bounceRate": 9.9
-      },
-      {
-        "title": "Dashboard — 數位生命體即時監測",
-        "views": 581,
-        "users": 206,
-        "bounceRate": 16.1
-      }
-    ],
     "topPages": [
       {
-        "title": "台灣知識庫 | Taiwan.md",
-        "views": 78683,
-        "users": 56755,
-        "bounceRate": 52.7
+        "path": "/",
+        "title": "台灣知識庫",
+        "views": 106108,
+        "users": 72852,
+        "events": 337978
       },
       {
-        "title": "開源台灣知識庫 | Taiwan.md",
-        "views": 26693,
-        "users": 15843,
-        "bounceRate": 51.1
+        "path": "/en/",
+        "title": "Taiwan.md - Open Knowledge Base of Taiwan",
+        "views": 12760,
+        "users": 9669,
+        "events": 31995
       },
       {
-        "title": "Taiwan.md - Open Knowledge Base of Taiwan | Taiwan.md",
-        "views": 10333,
-        "users": 7881,
-        "bounceRate": 20.6
+        "path": "/graph/",
+        "title": "🕸️ 知識圖譜 — Taiwan.md",
+        "views": 7275,
+        "users": 5213,
+        "events": 17462
       },
       {
-        "title": "🕸️ 知識圖譜 — Taiwan.md | Taiwan.md",
-        "views": 7398,
-        "users": 5203,
-        "bounceRate": 9.9
+        "path": "/about/",
+        "title": "關於 Taiwan.md",
+        "views": 5955,
+        "users": 3917,
+        "events": 16398
       },
       {
-        "title": "歷史 - Taiwan.md | Taiwan.md",
-        "views": 6156,
-        "users": 4923,
-        "bounceRate": 18.9
+        "path": "/history/",
+        "title": "歷史 - Taiwan.md",
+        "views": 5772,
+        "users": 4845,
+        "events": 16135
       },
       {
-        "title": "關於 Taiwan.md | Taiwan.md",
-        "views": 6060,
-        "users": 3901,
-        "bounceRate": 15.2
+        "path": "/contribute/",
+        "title": "我想貢獻 — Taiwan.md",
+        "views": 4810,
+        "users": 3301,
+        "events": 13597
       },
       {
-        "title": "我想貢獻 — Taiwan.md | Taiwan.md",
-        "views": 4848,
-        "users": 3305,
-        "bounceRate": 14.5
+        "path": "/food/",
+        "title": "美食 - Taiwan.md",
+        "views": 4334,
+        "users": 3793,
+        "events": 11323
       },
       {
-        "title": "美食 - Taiwan.md | Taiwan.md",
-        "views": 4643,
-        "users": 3926,
-        "bounceRate": 19.5
+        "path": "/geography/",
+        "title": "地理 - Taiwan.md",
+        "views": 3993,
+        "users": 3536,
+        "events": 10233
+      },
+      {
+        "path": "/resources/",
+        "title": "台灣資源導覽 - Taiwan.md",
+        "views": 3188,
+        "users": 2120,
+        "events": 8629
+      },
+      {
+        "path": "/data/",
+        "title": "📊 數據台灣 — Taiwan.md",
+        "views": 2987,
+        "users": 2081,
+        "events": 8224
+      },
+      {
+        "path": "/culture/",
+        "title": "文化 - Taiwan.md",
+        "views": 2749,
+        "users": 2365,
+        "events": 6749
+      },
+      {
+        "path": "/map/",
+        "title": "台灣地圖 Map",
+        "views": 2403,
+        "users": 1434,
+        "events": 5662
+      },
+      {
+        "path": "/people/",
+        "title": "人物 - Taiwan.md",
+        "views": 2098,
+        "users": 1797,
+        "events": 5570
+      },
+      {
+        "path": "/history/民主化/",
+        "title": "民主化",
+        "views": 1724,
+        "users": 1552,
+        "events": 4278
+      },
+      {
+        "path": "/technology/半導體產業/",
+        "title": "半導體產業",
+        "views": 1639,
+        "users": 1447,
+        "events": 4062
+      },
+      {
+        "path": "/lifestyle/",
+        "title": "生活 - Taiwan.md",
+        "views": 1636,
+        "users": 1412,
+        "events": 4354
+      },
+      {
+        "path": "/art/",
+        "title": "藝術 - Taiwan.md",
+        "views": 1620,
+        "users": 1405,
+        "events": 4182
+      },
+      {
+        "path": "/music/",
+        "title": "音樂 - Taiwan.md",
+        "views": 1560,
+        "users": 1396,
+        "events": 3974
+      },
+      {
+        "path": "/nature/",
+        "title": "自然 - Taiwan.md",
+        "views": 1399,
+        "users": 1201,
+        "events": 3507
+      },
+      {
+        "path": "/technology/",
+        "title": "科技 - Taiwan.md",
+        "views": 1340,
+        "users": 1173,
+        "events": 3373
+      }
+    ],
+    "topArticles7d": [
+      {
+        "path": "/music/台灣國樂/",
+        "title": "台灣國樂：中國樂器上長出來的島嶼聲音",
+        "views": 60,
+        "users": 47,
+        "events": 201
+      },
+      {
+        "path": "/history/戒嚴時期/",
+        "title": "戒嚴時期",
+        "views": 39,
+        "users": 13,
+        "events": 87
+      },
+      {
+        "path": "/history/國民政府遷台與戰後重建/",
+        "title": "國民政府遷台與戰後重建",
+        "views": 33,
+        "users": 6,
+        "events": 80
+      },
+      {
+        "path": "/history/台灣白色恐怖/",
+        "title": "台灣白色恐怖",
+        "views": 29,
+        "users": 21,
+        "events": 90
+      },
+      {
+        "path": "/art/解嚴後台灣文學/",
+        "title": "解嚴後台灣文學",
+        "views": 25,
+        "users": 13,
+        "events": 68
+      },
+      {
+        "path": "/society/台灣邦交國與國際外交/",
+        "title": "台灣邦交國與國際外交（2026 現況）",
+        "views": 25,
+        "users": 22,
+        "events": 81
+      },
+      {
+        "path": "/culture/台灣宗教與寺廟文化/",
+        "title": "台灣宗教與寺廟文化",
+        "views": 23,
+        "users": 21,
+        "events": 65
+      },
+      {
+        "path": "/music/八部合音/",
+        "title": "八部合音：挑戰西方音樂史觀的活化石",
+        "views": 22,
+        "users": 4,
+        "events": 43
+      },
+      {
+        "path": "/history/台灣民主轉型/",
+        "title": "台灣民主轉型——威權自掘的墳墓",
+        "views": 21,
+        "users": 17,
+        "events": 58
+      },
+      {
+        "path": "/society/台灣動物用藥爭議/",
+        "title": "台灣動物用藥爭議",
+        "views": 20,
+        "users": 10,
+        "events": 43
+      },
+      {
+        "path": "/en/society/indigenous-land-justice-and-traditional-territories/",
+        "title": "Indigenous Land Justice and Traditional Territories in Taiwan",
+        "views": 19,
+        "users": 15,
+        "events": 76
+      },
+      {
+        "path": "/music/台灣民謠與歌謠/",
+        "title": "台灣民謠與歌謠：從被盜用到被世界聽見",
+        "views": 19,
+        "users": 6,
+        "events": 42
+      },
+      {
+        "path": "/food/珍珠奶茶/",
+        "title": "珍珠奶茶",
+        "views": 18,
+        "users": 11,
+        "events": 44
+      },
+      {
+        "path": "/history/民主化/",
+        "title": "民主化",
+        "views": 18,
+        "users": 15,
+        "events": 49
+      },
+      {
+        "path": "/lifestyle/小綠人/",
+        "title": "小綠人：從交通號誌到國家符號的25年傳奇",
+        "views": 18,
+        "users": 16,
+        "events": 57
+      },
+      {
+        "path": "/music/流行音樂與金曲獎/",
+        "title": "流行音樂與金曲獎",
+        "views": 17,
+        "users": 4,
+        "events": 40
+      },
+      {
+        "path": "/society/台灣國防與軍事現代化/",
+        "title": "台灣國防與軍事現代化",
+        "views": 16,
+        "users": 12,
+        "events": 53
+      },
+      {
+        "path": "/culture/台灣感性/",
+        "title": "台灣感性：韓國人眼中的台式美學",
+        "views": 14,
+        "users": 11,
+        "events": 50
+      },
+      {
+        "path": "/history/台灣島史觀/",
+        "title": "臺灣島史觀：被反覆統治的島，如何發明自己的主體性",
+        "views": 14,
+        "users": 14,
+        "events": 42
+      },
+      {
+        "path": "/lifestyle/台灣便利商店文化/",
+        "title": "台灣便利商店文化",
+        "views": 14,
+        "users": 10,
+        "events": 33
       }
     ]
   },
@@ -338,5 +556,220 @@
       "country": "Japan",
       "requests": 202
     }
-  ]
+  ],
+  "searchConsole7d": {
+    "label": "2026-04-01 to 2026-04-08 (7d)",
+    "startDate": "2026-04-01",
+    "endDate": "2026-04-08",
+    "days": 7,
+    "totals": {
+      "clicks": 103,
+      "impressions": 1276,
+      "ctr": 8.07
+    },
+    "topQueries": [
+      {
+        "query": "taiwan.md",
+        "clicks": 42,
+        "impressions": 66,
+        "ctr": 63.64,
+        "position": 1.35
+      },
+      {
+        "query": "taiwan md",
+        "clicks": 35,
+        "impressions": 53,
+        "ctr": 66.04,
+        "position": 1.02
+      },
+      {
+        "query": "taiwanmd",
+        "clicks": 3,
+        "impressions": 10,
+        "ctr": 30.0,
+        "position": 1
+      },
+      {
+        "query": "台灣用語轉換器",
+        "clicks": 3,
+        "impressions": 13,
+        "ctr": 23.08,
+        "position": 6.62
+      },
+      {
+        "query": "吳哲宇",
+        "clicks": 3,
+        "impressions": 47,
+        "ctr": 6.38,
+        "position": 9.19
+      },
+      {
+        "query": "md taiwan",
+        "clicks": 2,
+        "impressions": 39,
+        "ctr": 5.13,
+        "position": 5.23
+      },
+      {
+        "query": "植劇場",
+        "clicks": 2,
+        "impressions": 25,
+        "ctr": 8.0,
+        "position": 9.76
+      },
+      {
+        "query": "md",
+        "clicks": 1,
+        "impressions": 109,
+        "ctr": 0.92,
+        "position": 10.34
+      },
+      {
+        "query": "taiwan svg",
+        "clicks": 1,
+        "impressions": 9,
+        "ctr": 11.11,
+        "position": 4.33
+      },
+      {
+        "query": "台灣便利商店文化",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 100,
+        "position": 10
+      },
+      {
+        "query": "台灣便利商店特色",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 33.33,
+        "position": 10
+      },
+      {
+        "query": "台灣原住民16族分布圖",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 50.0,
+        "position": 11
+      },
+      {
+        "query": "台灣各地美食地圖",
+        "clicks": 1,
+        "impressions": 10,
+        "ctr": 10.0,
+        "position": 5.4
+      },
+      {
+        "query": "台灣早餐文化",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 50.0,
+        "position": 11
+      },
+      {
+        "query": "台灣輪廓圖",
+        "clicks": 1,
+        "impressions": 5,
+        "ctr": 20.0,
+        "position": 5.4
+      },
+      {
+        "query": "台灣邦交國有幾個",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 50.0,
+        "position": 10.5
+      },
+      {
+        "query": "周杰倫 出生地",
+        "clicks": 1,
+        "impressions": 2,
+        "ctr": 50.0,
+        "position": 10
+      },
+      {
+        "query": "客家文化",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 100,
+        "position": 19
+      },
+      {
+        "query": "手搖飲文化",
+        "clicks": 1,
+        "impressions": 1,
+        "ctr": 100,
+        "position": 16
+      },
+      {
+        "query": "賴清德 公衛",
+        "clicks": 1,
+        "impressions": 3,
+        "ctr": 33.33,
+        "position": 6
+      }
+    ],
+    "opportunities": [
+      {
+        "query": "jolin tsai",
+        "clicks": 0,
+        "impressions": 58,
+        "position": 12.03
+      },
+      {
+        "query": "mayday ashin birthplace tainan",
+        "clicks": 0,
+        "impressions": 51,
+        "position": 8.35
+      },
+      {
+        "query": "mayday taiwan",
+        "clicks": 0,
+        "impressions": 49,
+        "position": 8.69
+      },
+      {
+        "query": "members of mayday (taiwanese band)",
+        "clicks": 0,
+        "impressions": 39,
+        "position": 9.95
+      },
+      {
+        "query": "mdtaiwan",
+        "clicks": 0,
+        "impressions": 32,
+        "position": 9.84
+      },
+      {
+        "query": "association celebrating all hakka music forced to change name only folk music authentic",
+        "clicks": 0,
+        "impressions": 29,
+        "position": 3.9
+      },
+      {
+        "query": "mayday (taiwanese band)",
+        "clicks": 0,
+        "impressions": 29,
+        "position": 8.31
+      },
+      {
+        "query": "mayday ashin birthplace",
+        "clicks": 0,
+        "impressions": 25,
+        "position": 10.36
+      },
+      {
+        "query": "mayday chinese band",
+        "clicks": 0,
+        "impressions": 25,
+        "position": 8.72
+      },
+      {
+        "query": "mayday band",
+        "clicks": 0,
+        "impressions": 20,
+        "position": 17.85
+      }
+    ]
+  }
 }

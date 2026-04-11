@@ -97,6 +97,8 @@ def main():
         from google.analytics.data_v1beta.types import (
             DateRange,
             Dimension,
+            Filter,
+            FilterExpression,
             Metric,
             RunReportRequest,
             OrderBy,
@@ -155,18 +157,50 @@ def main():
         ],
     )
 
-    # Report 2: Top pages
+    # Report 2: Top pages (include pagePath so dashboard rows can be clickable)
     pages_req = RunReportRequest(
         property=f"properties/{property_id}",
         date_ranges=[date_range],
-        dimensions=[Dimension(name="pageTitle")],
+        dimensions=[Dimension(name="pagePath"), Dimension(name="pageTitle")],
         metrics=[
             Metric(name="screenPageViews"),
             Metric(name="activeUsers"),
             Metric(name="eventCount"),
         ],
         order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"), desc=True)],
-        limit=30,
+        limit=50,
+    )
+
+    # Report 2b: Top *articles* in last 7 days (dimension-filtered to
+    # content-article paths only — excludes /, /about, /graph, /map, /dashboard,
+    # category hubs (/food/, /history/), etc).
+    # Article path shape: /[lang/]?{category}/{slug}/?
+    # Categories come from src/content/zh-TW/ top-level dirs.
+    ARTICLE_CATEGORIES = (
+        "food|culture|history|society|nature|technology|"
+        "economy|lifestyle|people|geography|art|music"
+    )
+    article_regex = rf"^/(en/|ja/|ko/)?({ARTICLE_CATEGORIES})/[^/]+/?$"
+    articles_7d_req = RunReportRequest(
+        property=f"properties/{property_id}",
+        date_ranges=[DateRange(start_date="7daysAgo", end_date="today")],
+        dimensions=[Dimension(name="pagePath"), Dimension(name="pageTitle")],
+        metrics=[
+            Metric(name="screenPageViews"),
+            Metric(name="activeUsers"),
+            Metric(name="eventCount"),
+        ],
+        dimension_filter=FilterExpression(
+            filter=Filter(
+                field_name="pagePath",
+                string_filter=Filter.StringFilter(
+                    match_type=Filter.StringFilter.MatchType.FULL_REGEXP,
+                    value=article_regex,
+                ),
+            )
+        ),
+        order_bys=[OrderBy(metric=OrderBy.MetricOrderBy(metric_name="screenPageViews"), desc=True)],
+        limit=50,
     )
 
     # Report 3: Traffic sources
@@ -212,6 +246,16 @@ def main():
     except Exception as e:
         fail(f"GA4 API error: {type(e).__name__}: {e}")
 
+    # Try articles 7d — isolated try so a regex/filter issue doesn't kill the
+    # whole fetch. Leaves empty list if filter isn't supported or returns nothing.
+    try:
+        articles_7d = client.run_report(articles_7d_req)
+        articles_7d_ok = True
+    except Exception as e:
+        print(f"⚠️  articles_7d report failed: {type(e).__name__}: {e}", file=sys.stderr)
+        articles_7d = None
+        articles_7d_ok = False
+
     # Try 404 events — might fail if custom dimension not registered yet
     try:
         event_404 = client.run_report(event_404_req)
@@ -247,7 +291,8 @@ def main():
             m.name: float(overall.rows[0].metric_values[i].value) if overall.rows else 0
             for i, m in enumerate(overall.metric_headers)
         } if overall.rows else {},
-        "top_pages": parse_rows(pages, 1),
+        "top_pages": parse_rows(pages, 2),
+        "top_articles_7d": parse_rows(articles_7d, 2) if articles_7d_ok else [],
         "traffic_sources": parse_rows(sources, 1),
         "geo": parse_rows(geo, 2),
         "events_404": events_404,
@@ -270,7 +315,7 @@ def main():
         "active_users": users,
         "page_views": views,
         "top_5_pages": [
-            {"title": p["dim_0"], "views": float(p["metrics"][0]["value"])}
+            {"path": p["dim_0"], "title": p["dim_1"], "views": float(p["metrics"][0]["value"])}
             for p in output["top_pages"][:5]
         ],
     }, ensure_ascii=False, indent=2))
