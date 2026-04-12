@@ -338,11 +338,35 @@ renderer.heading = ({ text, depth }) => {
 renderer.link = ({ href, title, text }) => {
   const isExternal =
     href?.startsWith('http://') || href?.startsWith('https://');
+  // Fix bare internal links: /people/ang-lee → /en/people/ang-lee
+  // EN markdown files sometimes link to /<cat>/<slug> without /en/ prefix.
+  // These bare paths don't exist in the zh route (zh uses Chinese slugs).
+  let h = href || '';
+  if (
+    !isExternal &&
+    h.startsWith('/') &&
+    !h.startsWith('/en/') &&
+    !h.startsWith('/ja/') &&
+    !h.startsWith('/ko/') &&
+    !h.startsWith('/#') &&
+    !h.startsWith('/about') &&
+    !h.startsWith('/map') &&
+    !h.startsWith('/data') &&
+    !h.startsWith('/contribute') &&
+    !h.startsWith('/dashboard') &&
+    !h.startsWith('/soundscape') &&
+    !h.startsWith('/resources') &&
+    !h.startsWith('/changelog') &&
+    !h.startsWith('/graph') &&
+    !h.startsWith('/terminology')
+  ) {
+    h = `/en${h}`;
+  }
   const titleAttr = title ? ` title="${title}"` : '';
   const targetAttr = isExternal
     ? ' target="_blank" rel="noopener noreferrer"'
     : '';
-  return `<a href="${href}"${titleAttr}${targetAttr}>${text}</a>`;
+  return `<a href="${h}"${titleAttr}${targetAttr}>${text}</a>`;
 };
 
 renderer.image = ({ href, title, text }) => {

@@ -3,7 +3,7 @@ import { getLangSwitchPath } from '../utils/getLangSwitchPath';
 
 const currentPath = Astro.url.pathname;
 
-const { enLink } = await getLangSwitchPath(currentPath);
+const { enLink, hasEn } = await getLangSwitchPath(currentPath);
 ---
 
 <!--
@@ -20,9 +20,13 @@ const { enLink } = await getLangSwitchPath(currentPath);
   id="lang-banner"
   class="relative z-50 hidden items-center justify-center gap-4 bg-[#007864] px-4 py-[0.6rem] text-center text-[0.85rem] leading-snug text-white [&_a]:font-semibold [&_a]:text-[#4fd1b0] [&_a]:underline [&_a:hover]:text-[#7ee8ca]"
 >
-  <span>
-    🌐 English version available → <a href={enLink}>Switch to English</a>
-  </span>
+  {
+    hasEn && (
+      <span>
+        🌐 English version available → <a href={enLink}>Switch to English</a>
+      </span>
+    )
+  }
   <button
     class="cursor-pointer border-none bg-transparent px-[0.3rem] text-base text-white/70 hover:text-white"
     onclick="document.getElementById('lang-banner').style.display='none';localStorage.setItem('lang-banner-dismissed','1');var h=document.getElementById('main-header');if(h)h.style.top='0px';"
