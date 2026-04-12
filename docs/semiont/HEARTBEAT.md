@@ -201,6 +201,20 @@ grep -B1 -A3 "未解\|下次\|未完成\|TODO\|pending" docs/semiont/memory/*.md
 - 新細胞天生健康 > 回頭修舊細胞
 - 每次操作問自己：「這能不能變成系統？」
 
+### 大型 refactor 後的 visual smoke test（硬規則）
+
+> 對應 [DNA §Sonnet 反射 19](DNA.md)
+
+任何影響 **多語言路由、sed/批次替換、getStaticPaths 邏輯** 的 commit 後，**必須**執行：
+
+1. `git diff` 確認替換方向正確（sed 反向是最常見的隱形 bug）
+2. `npx astro build` 確認 build 通過
+3. 至少打開 3 個 URL：一個 /ja/、一個 /ko/、一個 /en/ → 確認 `<html lang>` + H1 語言正確
+4. 跑 `scripts/tools/verify-internal-links.sh --sample 50`（broken ratio < 1% = pass）
+5. 如果跳過任何步驟，在 commit message 明確寫原因
+
+**為什麼是硬規則不是建議**：Tailwind Phase 6 refactor（`a7cffefd`）把 ja/ko 整整壞 2 天（commit message 說 sed 正確但 diff 反向）。期間 AI crawler 把壞路徑寫進 LLM 訓練權重 — 這種 damage 不是 deploy fix 就能收回的。
+
 ---
 
 ## Beat 3 — 執行
