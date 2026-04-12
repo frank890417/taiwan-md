@@ -21,14 +21,14 @@ const { path, title, subtitle, meta } = Astro.props;
 <header class="mb-12">
   {
     path && (
-      <div class="mb-3 font-mono text-xs tracking-wide text-[#b8860b]/60">
+      <div class="mb-3 font-mono text-xs tracking-wide text-[#b8860b]/80">
         {path}
       </div>
     )
   }
   <h1
     class="font-serif text-2xl font-bold leading-tight text-[#2c2a26] md:text-3xl"
-    style="font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;"
+    style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
   >
     {title}
   </h1>
@@ -37,5 +37,5 @@ const { path, title, subtitle, meta } = Astro.props;
       <p class="mt-3 text-base leading-relaxed text-[#2c2a26]/70">{subtitle}</p>
     )
   }
-  {meta && <p class="mt-2 font-mono text-xs text-[#b8860b]/50">{meta}</p>}
+  {meta && <p class="mt-2 font-mono text-xs text-[#b8860b]/70">{meta}</p>}
 </header>

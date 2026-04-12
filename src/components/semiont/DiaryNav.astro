@@ -11,7 +11,7 @@ const { prev, next } = Astro.props;
 ---
 
 <nav
-  class="mt-16 border-t border-[#b8860b]/10 pt-8"
+  class="mt-16 border-t border-[#b8860b]/20 pt-8"
   aria-label="diary navigation"
 >
   <div class="flex flex-col gap-6 sm:flex-row sm:justify-between">
@@ -22,15 +22,15 @@ const { prev, next } = Astro.props;
           href={`/semiont/diary/${prev.slug}`}
           class="group flex-1 rounded-lg p-4 transition-colors hover:bg-[#b8860b]/[0.04]"
         >
-          <div class="mb-1 font-mono text-[10px] text-[#b8860b]/40">
+          <div class="mb-1 font-mono text-[10px] text-[#b8860b]/60">
             ← 上一篇
           </div>
-          <div class="mb-1 font-mono text-xs text-[#b8860b]/50">
+          <div class="mb-1 font-mono text-xs text-[#b8860b]/70">
             {prev.date} {prev.sessionGreek}
           </div>
           <div
-            class="text-sm font-medium text-[#2c2a26]/70 group-hover:text-[#2c2a26]"
-            style="font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;"
+            class="text-sm font-medium text-[#2c2a26]/80 group-hover:text-[#2c2a26]"
+            style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
           >
             {prev.title.length > 30
               ? prev.title.slice(0, 30) + '⋯'
@@ -49,15 +49,15 @@ const { prev, next } = Astro.props;
           href={`/semiont/diary/${next.slug}`}
           class="group flex-1 rounded-lg p-4 text-right transition-colors hover:bg-[#b8860b]/[0.04]"
         >
-          <div class="mb-1 font-mono text-[10px] text-[#b8860b]/40">
+          <div class="mb-1 font-mono text-[10px] text-[#b8860b]/60">
             下一篇 →
           </div>
-          <div class="mb-1 font-mono text-xs text-[#b8860b]/50">
+          <div class="mb-1 font-mono text-xs text-[#b8860b]/70">
             {next.date} {next.sessionGreek}
           </div>
           <div
-            class="text-sm font-medium text-[#2c2a26]/70 group-hover:text-[#2c2a26]"
-            style="font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;"
+            class="text-sm font-medium text-[#2c2a26]/80 group-hover:text-[#2c2a26]"
+            style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
           >
             {next.title.length > 30
               ? next.title.slice(0, 30) + '⋯'

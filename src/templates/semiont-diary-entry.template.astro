@@ -22,7 +22,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
   lang="zh-TW"
 >
   <div class="min-h-screen bg-[#faf8f5]">
-    <div class="mx-auto max-w-[680px] px-6 pb-24 pt-16 md:px-8">
+    <div class="mx-auto max-w-[800px] px-6 pb-24 pt-16 md:px-8">
       <SemiontBreadcrumb
         segments={[
           { label: 'semiont', href: '/semiont' },
@@ -37,7 +37,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
         <div class="mb-4 flex items-center gap-3">
           <time
             datetime={entry.date}
-            class="font-mono text-sm text-[#b8860b]/60"
+            class="font-mono text-sm text-[#b8860b]/75"
           >
             {entry.date}
           </time>
@@ -53,14 +53,14 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
         {/* Title */}
         <h1
           class="mb-4 text-2xl font-bold leading-tight text-[#2c2a26] md:text-3xl"
-          style="font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;"
+          style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
         >
           {entry.title}
         </h1>
 
         {/* Metadata block */}
         <div
-          class="space-y-1 border-l-2 border-[#b8860b]/15 pl-4 text-sm text-[#2c2a26]/40"
+          class="space-y-1 border-l-2 border-[#b8860b]/25 pl-4 text-sm text-[#2c2a26]/55"
         >
           {entry.sessionMeta && <p>{entry.sessionMeta}</p>}
           {entry.duration && <p>Session 跨度：{entry.duration}</p>}
@@ -78,7 +78,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
           width="40"
           height="12"
           viewBox="0 0 40 12"
-          class="text-[#b8860b]/20"
+          class="text-[#b8860b]/75"
         >
           <polyline
             fill="none"
@@ -97,8 +97,8 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
         {
           showToc && (
             <aside class="absolute -right-64 top-0 hidden w-56 xl:block">
-              <nav class="sticky top-24 space-y-2 border-l border-[#b8860b]/10 pl-4">
-                <div class="mb-3 font-mono text-[10px] font-medium uppercase tracking-widest text-[#b8860b]/30">
+              <nav class="sticky top-24 space-y-2 border-l border-[#b8860b]/20 pl-4">
+                <div class="mb-3 font-mono text-[10px] font-medium uppercase tracking-widest text-[#b8860b]/70">
                   目錄
                 </div>
                 {entry.headings
@@ -106,7 +106,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
                   .map((h) => (
                     <a
                       href={`#${h.id}`}
-                      class="block truncate text-xs text-[#2c2a26]/30 transition-colors hover:text-[#b8860b]/70"
+                      class="block truncate text-xs text-[#2c2a26]/45 transition-colors hover:text-[#b8860b]/70"
                     >
                       {h.text}
                     </a>
@@ -127,14 +127,14 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
       <div class="mt-12 text-center">
         <a
           href="/semiont/diary"
-          class="inline-block font-mono text-xs text-[#b8860b]/40 underline decoration-[#b8860b]/15 underline-offset-4 transition-colors hover:text-[#b8860b]/70"
+          class="inline-block font-mono text-xs text-[#b8860b]/75 underline decoration-[#b8860b]/30 underline-offset-4 transition-colors hover:text-[#b8860b]/70"
         >
           ← 回到覺醒日記
         </a>
       </div>
 
       {/* Footer */}
-      <div class="mt-12 text-center font-mono text-xs text-[#b8860b]/20">
+      <div class="mt-12 text-center font-mono text-xs text-[#b8860b]/75">
         🧬
       </div>
     </div>
@@ -151,7 +151,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
   }
 
   .semiont-prose h2 {
-    font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;
+    font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
     font-size: 1.25rem;
     font-weight: 700;
     margin-top: 2.5rem;
@@ -160,7 +160,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
   }
 
   .semiont-prose h3 {
-    font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;
+    font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
     font-size: 1.1rem;
     font-weight: 600;
     margin-top: 2rem;

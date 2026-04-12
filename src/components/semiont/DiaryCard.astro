@@ -16,14 +16,14 @@ const readingTime = estimateReadingTime(entry.wordCount);
 
 <a
   href={`/semiont/diary/${entry.slug}`}
-  class="group block border-l-2 border-[#b8860b]/15 py-6 pl-6 pr-4 transition-colors hover:border-[#b8860b]/40 hover:bg-[#b8860b]/[0.03]"
+  class="group block border-l-2 border-[#b8860b]/25 py-6 pl-6 pr-4 transition-colors hover:border-[#b8860b]/40 hover:bg-[#b8860b]/[0.03]"
 >
   {/* Date + session tag */}
-  <div class="mb-2 flex items-center gap-2 font-mono text-xs text-[#b8860b]/60">
+  <div class="mb-2 flex items-center gap-2 font-mono text-xs text-[#b8860b]/80">
     <time datetime={entry.date}>{entry.date}</time>
     {
       entry.sessionGreek && (
-        <span class="inline-flex h-5 items-center rounded-full bg-[#b8860b]/10 px-2 text-[10px] font-medium text-[#b8860b]/70">
+        <span class="inline-flex h-5 items-center rounded-full bg-[#b8860b]/15 px-2 text-[10px] font-medium text-[#b8860b]/85">
           {entry.sessionGreek}
         </span>
       )
@@ -33,19 +33,19 @@ const readingTime = estimateReadingTime(entry.wordCount);
   {/* Title */}
   <h3
     class="mb-2 text-lg font-bold leading-snug text-[#2c2a26] group-hover:text-[#b8860b]/90"
-    style="font-family: 'jf-jinxuanlatte', 'Noto Serif TC', serif;"
+    style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
   >
     {entry.title}
   </h3>
 
   {/* Excerpt */}
-  <p class="mb-3 text-sm leading-relaxed text-[#2c2a26]/50">
+  <p class="mb-3 text-sm leading-relaxed text-[#2c2a26]/60">
     {entry.excerpt}
   </p>
 
   {/* Meta row */}
   <div
-    class="flex flex-wrap items-center gap-3 font-mono text-[10px] text-[#2c2a26]/30"
+    class="flex flex-wrap items-center gap-3 font-mono text-[10px] text-[#2c2a26]/45"
   >
     <span>{entry.wordCount.toLocaleString()} 字</span>
     <span>·</span>
