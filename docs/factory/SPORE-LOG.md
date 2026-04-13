@@ -10,6 +10,8 @@
 
 | #   | 日期       | 語言 | 平台    | 文章 slug                | 分類       | 模板       | URL                                                        |
 | --- | ---------- | ---- | ------- | ------------------------ | ---------- | ---------- | ---------------------------------------------------------- |
+| 27  | 2026-04-13 | zh   | X       | 張懸與安溥               | music      | A 人物型   | [→](https://x.com/taiwandotmd/status/2043538702853644444)  |
+| 26  | 2026-04-13 | zh   | X       | 韓國瑜                   | people     | A 人物型   | [→](https://x.com/taiwandotmd/status/2043538858886017091)  |
 | 25  | 2026-04-13 | zh   | Threads | 張懸與安溥               | music      | A 人物型   | [→](https://www.threads.com/@taiwandotmd/post/DXDq1FZkddO) |
 | 24  | 2026-04-13 | zh   | Threads | 韓國瑜                   | people     | A 人物型   | [→](https://www.threads.com/@taiwandotmd/post/DXDpQqyETkf) |
 | 23  | 2026-04-11 | en   | X       | 鄭麗文                   | people     | A 人物型   | [→](https://x.com/taiwandotmd/status/2042527836003868785)  |
