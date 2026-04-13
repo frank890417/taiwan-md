@@ -31,7 +31,7 @@ const platformName = (p: string) =>
 
 <div class="my-10">
   <p
-    class="mb-4 border-b border-[#d4cec4] pb-2 font-['Georgia','Noto_Serif_TC',serif] text-[0.85rem] text-[#9a8e80]"
+    class="mb-4 border-b border-[#c4b8a4] pb-2 font-['Georgia','Noto_Serif_TC',serif] text-[0.9rem] text-[#6b6358]"
   >
     {title}
   </p>
@@ -44,12 +44,12 @@ const platformName = (p: string) =>
           rel="noopener noreferrer"
           class="group flex items-baseline gap-3 py-1.5 text-inherit no-underline transition-colors hover:text-[#1a3c34]"
         >
-          <span class="font-['Georgia','Noto_Serif_TC',serif] text-[0.88rem] font-semibold text-[#5a4f44]">
+          <span class="font-['Georgia','Noto_Serif_TC',serif] text-[0.95rem] font-semibold text-[#3d3530]">
             {platformName(s.platform)}
           </span>
-          <span class="text-[0.78rem] text-[#b0a494]">{s.date}</span>
+          <span class="text-[0.85rem] text-[#8a7e70]">{s.date}</span>
           <span class="flex-1 border-b border-dotted border-[#ddd5c8]" />
-          <span class="text-[0.78rem] text-[#8a7e70]">
+          <span class="text-[0.88rem] text-[#5a4f44]">
             {s.views?.toLocaleString()} 次閱讀
             {s.likes ? ` · ${s.likes} 個共鳴` : ''}
           </span>
