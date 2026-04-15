@@ -283,12 +283,17 @@ function getGitInfo(filePath) {
 // ---------------------------------------------------------------------------
 // Slug derivation from Chinese filename
 // ---------------------------------------------------------------------------
+// MUST preserve original case — Astro's [category]/[slug].astro uses
+// `basename(file, '.md')` which preserves case. Lowercasing here produced
+// broken dashboard links (TikTok → tiktok, Dcard → dcard, 台灣YouBike →
+// 台灣youbike, etc.). Bug fix 2026-04-15 γ session: 32 files had uppercase
+// in filename, ~20 were driving a significant chunk of the CF 404 rate.
+// See PR #517 (Link1515) who identified the symptom.
 function deriveSlug(fileName) {
   // fileName without .md extension
   return fileName
-    .toLowerCase()
     .replace(/\s+/g, '-')
-    .replace(/[^a-z0-9\u4e00-\u9fff\u3400-\u4dbf-]/g, '')
+    .replace(/[^a-zA-Z0-9\u4e00-\u9fff\u3400-\u4dbf-]/g, '')
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '');
 }
