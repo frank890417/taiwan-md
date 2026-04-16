@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+translatedFrom: 'People/幾米.md'
 ---
 
 ## A poet of images who softened a generation

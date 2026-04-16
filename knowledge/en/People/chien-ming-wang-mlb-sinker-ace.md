@@ -6,6 +6,7 @@ tags:
   ['Chien-Ming Wang', 'baseball', 'MLB', 'New York Yankees', 'Taiwan sports']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/王建民.md'
 ---
 
 # Chien-Ming Wang: Taiwan's Sinker Ball Ace Who Conquered MLB

@@ -11,6 +11,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+translatedFrom: 'People/簡立峰.md'
 ---
 
 # Jamie Lin (Chien-Li Feng): Taiwan's AI Industry Mentor

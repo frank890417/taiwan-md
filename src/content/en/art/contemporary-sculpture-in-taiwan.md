@@ -13,6 +13,7 @@ tags:
     Environmental Art,
   ]
 lastVerified: 2026-03-20
+translatedFrom: 'Art/台灣當代雕塑發展.md'
 ---
 
 # Contemporary Sculpture in Taiwan: From Tradition to the Global Stage

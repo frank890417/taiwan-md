@@ -16,6 +16,7 @@ readingTime: 15
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣電子音樂與派對文化.md'
 ---
 
 # Taiwan’s Electronic Music & Party Culture: From Underground Raves to Global Stages

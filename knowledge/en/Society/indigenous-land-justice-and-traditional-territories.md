@@ -1,14 +1,23 @@
 ---
-title: "Indigenous Land Justice and Traditional Territories in Taiwan"
+title: 'Indigenous Land Justice and Traditional Territories in Taiwan'
 description: "Exploring the historical context, legal developments, territorial demarcation controversies, and achievements of Taiwan's Indigenous Transitional Justice Commission in restoring indigenous land rights"
 date: 2026-03-20
-tags: [indigenous peoples, land justice, traditional territories, transitional justice, IHTJC, land rights]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    indigenous peoples,
+    land justice,
+    traditional territories,
+    transitional justice,
+    IHTJC,
+    land rights,
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 category: Society
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
 ---
 
 # Indigenous Land Justice and Traditional Territories in Taiwan
@@ -142,7 +151,7 @@ Taiwan's indigenous land justice journey remains long. From reconstructing histo
 ## References
 
 - [Presidential Office Indigenous Historical Justice and Transitional Justice Commission](https://indigenous-justice.president.gov.tw/) — Investigation reports and meeting records
-- [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Traditional territory demarcation related laws and policies  
+- [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Traditional territory demarcation related laws and policies
 - [Indigenous Peoples Land and Maritime Area Information Service](https://titd.apc.gov.tw/) — Land rights database
 - Kuan Ta-wei (2019) "Indigenous Land Rights and National Spatial Planning," Angle Publishing
 - Eleng Tjaljimaraw (2018) "Transitional Justice and Indigenous Peoples," Avant-garde Publishing

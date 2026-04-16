@@ -3,6 +3,7 @@ title: Century of Taiwanese Watercolor Painting
 description: From the enlightenment of Ishikawa Kin'ichiro during the Japanese colonial period to Chien Chung-Wei's international acclaim today, Taiwanese watercolor painting has flourished for a century, becoming Asia's most vibrant watercolor creative hub.
 date: 2026-03-19
 tags: [Art, watercolor, painting, 水彩, art history]
+translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 ---
 
 # Century of Taiwanese Watercolor Painting

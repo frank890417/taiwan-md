@@ -19,6 +19,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 ---
 
 > In 1999, a computer science sophomore at National Chiao Tung University named Chien Chih-yu (簡志宇) set up a BBS server in his dorm room. By 2013, the platform it grew into — 無名小站 (Wretch) — had been pulled offline by Yahoo, and over 500 million photos evaporated into nothing. From BBS to Threads, the history of Taiwan's online communities is a history of migration: moving house again and again, forgetting a little more each time.

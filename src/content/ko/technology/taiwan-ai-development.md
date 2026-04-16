@@ -11,6 +11,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
+translatedFrom: 'Technology/AI發展.md'
 ---
 
 # 타이완 인공지능 발전과 미래 전략

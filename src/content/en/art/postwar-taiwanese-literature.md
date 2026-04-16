@@ -5,7 +5,15 @@ date: 2026-03-24
 lastVerified: 2026-03-24
 lastHumanReview: false
 category: Art
-tags: ['postwar literature', 'nativist literature', 'modernism', 'feminist literature', 'language transition']
+tags:
+  [
+    'postwar literature',
+    'nativist literature',
+    'modernism',
+    'feminist literature',
+    'language transition',
+  ]
+translatedFrom: 'Art/戰後台灣文學.md'
 ---
 
 # Postwar Taiwanese Literature
@@ -45,52 +53,52 @@ This cultural displacement created a peculiar phenomenon in early postwar Taiwan
 
 **After the Korean War broke out in 1950, under the dual pressure of cross-strait confrontation and international Cold War dynamics, "anti-communist literature" quickly became Taiwan's mainstream literary ideology.** The government encouraged politically aligned works through institutions like the "Chinese Literature and Arts Award Committee" with prize money and publication opportunities.
 
-Representative works from this period include Sima Zhongyuan's *The Wasteland*, Zhu Xining's *Iron Slurry*, and Duan Caihua's *Tragedy Under the Red Flag*. Almost all these novels were set in mainland China, depicting people's suffering under communist rule and the heroic resistance of Nationalist forces. **The contradiction was evident in subject matter choice: anti-communist literature representing "Free China" wrote not about Taiwan, but about the mainland.**
+Representative works from this period include Sima Zhongyuan's _The Wasteland_, Zhu Xining's _Iron Slurry_, and Duan Caihua's _Tragedy Under the Red Flag_. Almost all these novels were set in mainland China, depicting people's suffering under communist rule and the heroic resistance of Nationalist forces. **The contradiction was evident in subject matter choice: anti-communist literature representing "Free China" wrote not about Taiwan, but about the mainland.**
 
-| Representative Works | Author | Publication Year | Setting |
-|---------------------|--------|------------------|---------|
-| *The Wasteland* | Sima Zhongyuan | 1951 | Northeast occupied territory |
-| *Iron Slurry* | Zhu Xining | 1956 | North China countryside |
-| *Tragedy Under the Red Flag* | Duan Caihua | 1952 | Mainland civil war period |
+| Representative Works         | Author         | Publication Year | Setting                      |
+| ---------------------------- | -------------- | ---------------- | ---------------------------- |
+| _The Wasteland_              | Sima Zhongyuan | 1951             | Northeast occupied territory |
+| _Iron Slurry_                | Zhu Xining     | 1956             | North China countryside      |
+| _Tragedy Under the Red Flag_ | Duan Caihua    | 1952             | Mainland civil war period    |
 
 ### The Struggle Between Political Function and Literary Value
 
 The rise of anti-communist literature had specific historical background and political function. In the 1950s international environment, literature was assigned important ideological propaganda functions, becoming part of the Cold War cultural front. However, **overemphasizing political function often damaged literary artistic value. Many anti-communist works became conceptualized and formulaic, with stereotyped characters and contrived plots, failing to generate genuine artistic impact.**
 
-Interestingly, literary periodical research shows that **the "anti-communist literature period" was actually shorter than generally presented in literary histories.** When *Literature Magazine* was founded in 1956, the Nationalist Party's "Literature Award Committee" had already ceased operations, and anti-communist literature had clearly waned before then. Nie Hualing, who took over *Free China*'s literary section in 1953, insisted on not publishing "anti-communist clichés." **The true golden period of anti-communist literature may have lasted only three to five years, not the entire 1950s.**
+Interestingly, literary periodical research shows that **the "anti-communist literature period" was actually shorter than generally presented in literary histories.** When _Literature Magazine_ was founded in 1956, the Nationalist Party's "Literature Award Committee" had already ceased operations, and anti-communist literature had clearly waned before then. Nie Hualing, who took over _Free China_'s literary section in 1953, insisted on not publishing "anti-communist clichés." **The true golden period of anti-communist literature may have lasted only three to five years, not the entire 1950s.**
 
-## The Aesthetic Revolution of Modernism: The Era of *Modern Literature* Magazine (1960-1970)
+## The Aesthetic Revolution of Modernism: The Era of _Modern Literature_ Magazine (1960-1970)
 
 ### Student Literary Rebellion
 
-**On March 5, 1960, a magazine called *Modern Literature* was founded in Taipei by Bai Xianyong, a third-year student in National Taiwan University's Foreign Languages Department.** This seemingly insignificant university literary publication would bring profound aesthetic revolution to Taiwanese literature.
+**On March 5, 1960, a magazine called _Modern Literature_ was founded in Taipei by Bai Xianyong, a third-year student in National Taiwan University's Foreign Languages Department.** This seemingly insignificant university literary publication would bring profound aesthetic revolution to Taiwanese literature.
 
-The founding team of *Modern Literature* almost entirely came from NTU's Foreign Languages Department: Bai Xianyong, Wang Wenxing, Ouyang Zi, Chen Ruoxi, Ye Weilian, Li Oufan, and Liu Shaoming. These young people, deeply influenced by Western modern literature, aimed to create a "new literature" different from traditional realism and anti-communist literature.
+The founding team of _Modern Literature_ almost entirely came from NTU's Foreign Languages Department: Bai Xianyong, Wang Wenxing, Ouyang Zi, Chen Ruoxi, Ye Weilian, Li Oufan, and Liu Shaoming. These young people, deeply influenced by Western modern literature, aimed to create a "new literature" different from traditional realism and anti-communist literature.
 
 Their choice of the word "modern" wasn't accidental. In 1960s Taiwan, **"modern" meant breaking with "tradition"—breaking with the formulaic anti-communist novels and sentimental nostalgic literature that flooded the scene.** They believed "old artistic forms and styles were insufficient to express our artistic emotions as modern people."
 
 ### Bai Xianyong: The Elegant Master of Modern Fiction
 
-Bai Xianyong was undoubtedly the most important representative of modernist literature. His short story collection *Taipei People* is not only a classic of postwar Taiwanese literature but also a milestone in modern Chinese fiction.
+Bai Xianyong was undoubtedly the most important representative of modernist literature. His short story collection _Taipei People_ is not only a classic of postwar Taiwanese literature but also a milestone in modern Chinese fiction.
 
-**Comprising fourteen short stories, *Taipei People* depicts the life situations of mainlanders from different social strata in Taiwan. Using stream-of-consciousness, montage, and other modern fictional techniques, Bai Xianyong deeply portrayed these characters' inner worlds.** The works contain both nostalgia for bygone years and helplessness toward present circumstances, filled with rich tragic beauty.
+**Comprising fourteen short stories, _Taipei People_ depicts the life situations of mainlanders from different social strata in Taiwan. Using stream-of-consciousness, montage, and other modern fictional techniques, Bai Xianyong deeply portrayed these characters' inner worlds.** The works contain both nostalgia for bygone years and helplessness toward present circumstances, filled with rich tragic beauty.
 
 The ageless dancer Yin Xueyong in "Eternal Yin Xueyong" and the fallen songstress in "The Last Night of Taipan Jin" became classic characters in Taiwanese literary history. **These characters share a common trait: they are witnesses and victims of historical changes, losing their place of belonging amid old-new transitions.**
 
 ### Wang Wenxing: The Extreme Pioneer of Language Experimentation
 
-Wang Wenxing was the most experimental writer in the *Modern Literature* camp. **His novel *Family Catastrophe*, published in 1973, immediately caused an uproar in Taiwan's literary circles, being called "a revolution and farewell to traditional society."**
+Wang Wenxing was the most experimental writer in the _Modern Literature_ camp. **His novel _Family Catastrophe_, published in 1973, immediately caused an uproar in Taiwan's literary circles, being called "a revolution and farewell to traditional society."**
 
-Using a family's dissolution as its main thread, *Family Catastrophe* depicts modern spiritual crisis. The novel was extremely innovative in narrative technique, employing stream-of-consciousness, interior monologue, and temporal-spatial jumps to completely break traditional linear narrative structure. Even more notable was Wang Wenxing's bold linguistic experimentation: **he audaciously mixed spoken and written language, Chinese and Taiwanese, classical and modern elements, creating an unprecedented literary language.**
+Using a family's dissolution as its main thread, _Family Catastrophe_ depicts modern spiritual crisis. The novel was extremely innovative in narrative technique, employing stream-of-consciousness, interior monologue, and temporal-spatial jumps to completely break traditional linear narrative structure. Even more notable was Wang Wenxing's bold linguistic experimentation: **he audaciously mixed spoken and written language, Chinese and Taiwanese, classical and modern elements, creating an unprecedented literary language.**
 
 > **💡 Did You Know**
-> Wang Wenxing's language experiments sparked intense controversy. Supporters considered it a major breakthrough in Chinese literary language, while critics saw it as desecration of Chinese. Interestingly, Wang Wenxing's later work became increasingly extreme: *The Man with His Back to the Sea* took 23 years to complete, and *History of Wing-Clipping* another 17 years, averaging only 30-40 characters per day. He hoped readers would also read only 200-300 characters daily to "understand literary works more delicately and profoundly."
+> Wang Wenxing's language experiments sparked intense controversy. Supporters considered it a major breakthrough in Chinese literary language, while critics saw it as desecration of Chinese. Interestingly, Wang Wenxing's later work became increasingly extreme: _The Man with His Back to the Sea_ took 23 years to complete, and _History of Wing-Clipping_ another 17 years, averaging only 30-40 characters per day. He hoped readers would also read only 200-300 characters daily to "understand literary works more delicately and profoundly."
 
 ### The Taiwanization Turn of Modernism
 
-*Modern Literature*'s influence far exceeded its 23-year publication period (1960-1983, with intermittent suspension). As Bai Xianyong recalled: "*Modern Literature* published 206 novels by 70 writers. Taiwan's prominent novelists who emerged in the 1960s were all connected to *Modern Literature*, deeply or superficially."
+_Modern Literature_'s influence far exceeded its 23-year publication period (1960-1983, with intermittent suspension). As Bai Xianyong recalled: "_Modern Literature_ published 206 novels by 70 writers. Taiwan's prominent novelists who emerged in the 1960s were all connected to _Modern Literature_, deeply or superficially."
 
-**These writers formed the "core generation" of Taiwan's postwar fiction world, remaining classics in Chinese literature to this day.** More importantly, *Modern Literature* established new aesthetic standards and creative methods for Taiwanese literature, providing technical preparation for later nativist literary movements.
+**These writers formed the "core generation" of Taiwan's postwar fiction world, remaining classics in Chinese literature to this day.** More importantly, _Modern Literature_ established new aesthetic standards and creative methods for Taiwanese literature, providing technical preparation for later nativist literary movements.
 
 ## The Nativist Literature Debate: A Life-and-Death Battle for Local Consciousness (1977-1978)
 
@@ -102,24 +110,24 @@ The literary response was "return to native soil"—beginning to focus on Taiwan
 
 ### The Spark: Yu Guangzhong's "Wolf is Coming"
 
-**On August 20, 1977, poet Yu Guangzhong published "Wolf is Coming" in the *United Daily News*, becoming the spark of the nativist literature debate.** Yu accused certain nativist literary works of having "worker-peasant-soldier literature" tendencies, implying these writers were "communist lackeys."
+**On August 20, 1977, poet Yu Guangzhong published "Wolf is Coming" in the _United Daily News_, becoming the spark of the nativist literature debate.** Yu accused certain nativist literary works of having "worker-peasant-soldier literature" tendencies, implying these writers were "communist lackeys."
 
 On August 29, 1977, the Nationalist Party convened the "Second National Literature and Arts Conference" with Yu Guangzhong as a presidium member. According to eyewitness Wang Jianzhuang, the atmosphere was extremely tense: "The cultural official from the Taiwan Garrison Command actually issued this warning: 'For those who won't heed government advice, the government isn't not acting—the time just hasn't come!' The murderous atmosphere was bone-chilling."
 
-| Timeline | Key Events |
-|----------|------------|
-| **April 1, 1977** | *Cactus* magazine publishes "Native Soil and Reality" special issue, debate officially begins |
-| **August 20, 1977** | Yu Guangzhong publishes "Wolf is Coming," debate intensifies |
-| **August 29, 1977** | "Second National Literature and Arts Conference," military intervention |
-| **January 18, 1978** | Military literature conference, Wang Sheng calls for "unity," debate ends |
+| Timeline             | Key Events                                                                                    |
+| -------------------- | --------------------------------------------------------------------------------------------- |
+| **April 1, 1977**    | _Cactus_ magazine publishes "Native Soil and Reality" special issue, debate officially begins |
+| **August 20, 1977**  | Yu Guangzhong publishes "Wolf is Coming," debate intensifies                                  |
+| **August 29, 1977**  | "Second National Literature and Arts Conference," military intervention                       |
+| **January 18, 1978** | Military literature conference, Wang Sheng calls for "unity," debate ends                     |
 
 ### Chen Yingzhen: Advocate of Leftist Stance
 
 In the nativist literature debate, Chen Yingzhen was the most important theorist and practitioner. **He not only created numerous excellent nativist literary works but also provided in-depth theoretical arguments for nativist literature.**
 
-Chen believed nativist literature wasn't narrow regionalist literature but realist literature with broad social concern. Writing in *Cactus* magazine, he emphasized: "Nativist literature is literature rooted in Taiwan's real social soil, reflecting social reality and people's lives and psychological aspirations."
+Chen believed nativist literature wasn't narrow regionalist literature but realist literature with broad social concern. Writing in _Cactus_ magazine, he emphasized: "Nativist literature is literature rooted in Taiwan's real social soil, reflecting social reality and people's lives and psychological aspirations."
 
-In creative practice, Chen's works like *Mountain Path* and *Night Freight Train* embodied clear leftist positions: **focusing on working-class living difficulties, criticizing capitalist social injustice, and calling for social justice realization. Such socialist-colored literary perspectives were extremely controversial in the political atmosphere of that time.**
+In creative practice, Chen's works like _Mountain Path_ and _Night Freight Train_ embodied clear leftist positions: **focusing on working-class living difficulties, criticizing capitalist social injustice, and calling for social justice realization. Such socialist-colored literary perspectives were extremely controversial in the political atmosphere of that time.**
 
 ### The Debate's Unexpected Conclusion
 
@@ -135,15 +143,15 @@ This turnaround had multiple causes: First, party elder Ren Zhuoxuan publicly st
 
 Female writers emerging in this period included Li Ang, Shi Shuqing, Xiao Sa, Liao Huiying, and Su Weizhen. Their common characteristic was **no longer being satisfied with supporting roles in traditional literature, but wanting to rewrite history, society, and human nature from female perspectives.**
 
-### Li Ang's *The Butcher's Wife*: A Milestone of Female Subjectivity
+### Li Ang's _The Butcher's Wife_: A Milestone of Female Subjectivity
 
-**In 1983, Li Ang's novella *The Butcher's Wife* was published, immediately causing a sensation in Taiwan society.** While the work won the United Daily News Novella Award, more importantly it made breakthrough contributions to gender issues.
+**In 1983, Li Ang's novella _The Butcher's Wife_ was published, immediately causing a sensation in Taiwan society.** While the work won the United Daily News Novella Award, more importantly it made breakthrough contributions to gender issues.
 
-Set in the fictional "Deer City," *The Butcher's Wife* tells the story of peasant woman Lin Shi killing her husband. **With bold subject matter and sharp writing, the novel deeply exposed the multiple oppressions faced by women in traditional patriarchal society: from the protagonist's mother being raped by soldiers and executed by the clan, to Lin Shi herself becoming a "sex slave" and ultimately rebelling through murder, the entire narrative revealed the tragically repeated fate of women across generations under patriarchal systems.**
+Set in the fictional "Deer City," _The Butcher's Wife_ tells the story of peasant woman Lin Shi killing her husband. **With bold subject matter and sharp writing, the novel deeply exposed the multiple oppressions faced by women in traditional patriarchal society: from the protagonist's mother being raped by soldiers and executed by the clan, to Lin Shi herself becoming a "sex slave" and ultimately rebelling through murder, the entire narrative revealed the tragically repeated fate of women across generations under patriarchal systems.**
 
 ### Shi Shuqing: Feminist Reconstruction of Historical Writing
 
-Shi Shuqing was another heavyweight female writer. **Her "Taiwan Trilogy" (*Crossing at Luogang*, *Dust Before the Wind*, *Three Generations*) uses grand narrative structure to rewrite Taiwan's history, representing important works in Taiwan's literary history.**
+Shi Shuqing was another heavyweight female writer. **Her "Taiwan Trilogy" (_Crossing at Luogang_, _Dust Before the Wind_, _Three Generations_) uses grand narrative structure to rewrite Taiwan's history, representing important works in Taiwan's literary history.**
 
 Shi's innovation lay in introducing female perspectives into historical writing. **In her works, history was no longer a stage for male heroes but complex narratives incorporating female experiences.** She focused on women's fates during historical changes, reinterpreting historical meaning through female characters' stories.
 
@@ -161,7 +169,7 @@ This diversity manifested on multiple levels: mixed language use (coexistence of
 
 From 1950s anti-communist literature, 1960s modernism, 1970s nativist debates, to 1980s feminist literature, **postwar Taiwanese literature traveled a path from "periphery" to "center."**
 
-Today, examining the map of world Chinese literature, we find Taiwan literature has become an undeniable important force: Bai Xianyong's *Taipei People* is hailed as a "classic of modern Chinese fiction"; Wang Wenxing's language experiments influenced innovation directions throughout Chinese literature; Li Ang's *The Butcher's Wife* in German translation showed international readers the power of Chinese women's literature; Chen Yingzhen's leftist literary perspectives provided Chinese literature with social critical viewpoints different from the mainstream.
+Today, examining the map of world Chinese literature, we find Taiwan literature has become an undeniable important force: Bai Xianyong's _Taipei People_ is hailed as a "classic of modern Chinese fiction"; Wang Wenxing's language experiments influenced innovation directions throughout Chinese literature; Li Ang's _The Butcher's Wife_ in German translation showed international readers the power of Chinese women's literature; Chen Yingzhen's leftist literary perspectives provided Chinese literature with social critical viewpoints different from the mainstream.
 
 **✦** "Taiwan literature is not only a recorder of history but a creator of culture." — Every writer is a brave explorer, every work a precious cultural treasure.
 
@@ -177,9 +185,9 @@ The story of postwar Taiwanese literature continues. In today's digital age, ami
 
 ## References
 
-- Chen Fangming, [*A New History of Taiwan Literature*](https://www.books.com.tw/products/0010910368) (Linking Publishing, 2011)
+- Chen Fangming, [_A New History of Taiwan Literature_](https://www.books.com.tw/products/0010910368) (Linking Publishing, 2011)
 - [Taiwan Literature Dictionary Database](https://db.nmtl.gov.tw/site2/dictionary) (National Museum of Taiwan Literature)
-- [*A History of Taiwan Literature*](https://u.osu.edu/mclc/book-reviews/po-hsi-chen/) (MCLC Resource Center, 2023)
-- [Exploring the Fervor for New Era Consciousness: Bai Xianyong, Wang Wenxing, and *Modern Literature*](https://www.thenewslens.com/article/122780) (The News Lens, 2019)
+- [_A History of Taiwan Literature_](https://u.osu.edu/mclc/book-reviews/po-hsi-chen/) (MCLC Resource Center, 2023)
+- [Exploring the Fervor for New Era Consciousness: Bai Xianyong, Wang Wenxing, and _Modern Literature_](https://www.thenewslens.com/article/122780) (The News Lens, 2019)
 - [Chen Yingzhen](https://www.rem.routledge.com/articles/chen-yingzhen-1938) (Routledge Encyclopedia of Modernism)
-- Chang Sung-sheng Yvonne, *Modernism and the Nativist Resistance: Contemporary Chinese Fiction from Taiwan* (Duke University Press, 1993)
+- Chang Sung-sheng Yvonne, _Modernism and the Nativist Resistance: Contemporary Chinese Fiction from Taiwan_ (Duke University Press, 1993)

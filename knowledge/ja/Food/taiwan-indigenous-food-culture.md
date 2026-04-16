@@ -25,6 +25,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageAlt: '台湾原住民族の文化祭'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣原住民飲食文化.md'
 ---
 
 # 台湾原住民族の食文化

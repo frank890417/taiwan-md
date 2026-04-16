@@ -2,12 +2,14 @@
 title: 'Taiwan YouTuber Industry & Culture: From Tsai A-Ga to Chi Hsuan - A Digital Cultural Evolution'
 description: 'How a magician became Taiwan first 10-million-subscriber YouTuber? The complete story of Taiwan internet video culture evolving from local entertainment to global export'
 date: 2026-03-23
-tags: ['culture', 'digital-culture', 'youtuber', 'internet-video', 'social-impact']
+tags:
+  ['culture', 'digital-culture', 'youtuber', 'internet-video', 'social-impact']
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
 ---
 
 > **30-Second Overview:** In March 2024, Taiwanese magic YouTuber "Chi Hsuan Tricking" became Taiwan's first creator to reach 10 million subscribers, marking Taiwan's YouTube culture evolution from Tsai A-Ga's pro-Taiwan videos in 2008 to an internationally competitive content platform. YouTube reaches over 90% of Taiwan's 18+ audience, while creators earn only 20-40% from ad revenue, relying mainly on brand partnerships, with VTuber industry emerging as a new force.

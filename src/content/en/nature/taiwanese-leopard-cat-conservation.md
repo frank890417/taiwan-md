@@ -17,6 +17,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-30
 lastHumanReview: true
+translatedFrom: 'Nature/台灣石虎保育.md'
 ---
 
 # Taiwanese Leopard Cat Conservation

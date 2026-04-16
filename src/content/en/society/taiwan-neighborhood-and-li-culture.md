@@ -10,6 +10,7 @@ tags:
     'local governance',
   ]
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣社區與里文化.md'
 ---
 
 # Taiwan’s Neighborhood and Li (里) Culture

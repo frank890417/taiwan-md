@@ -14,6 +14,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Music/流行音樂與金曲獎.md'
 ---
 
 # Contemporary Pop Music and the Golden Melody Awards

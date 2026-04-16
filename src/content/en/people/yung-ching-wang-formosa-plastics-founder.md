@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+translatedFrom: 'People/王永慶.md'
 ---
 
 # Y.C. Wang: From Rice Shop to Petrochemical Empire - Taiwan's Management God

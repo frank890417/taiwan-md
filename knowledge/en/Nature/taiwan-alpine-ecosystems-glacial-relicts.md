@@ -1,14 +1,23 @@
 ---
-title: "Taiwan Alpine Ecosystems and Glacial Relicts"
+title: 'Taiwan Alpine Ecosystems and Glacial Relicts'
 description: "Exploring the unique ecosystems of Taiwan's mountains above 3,000 meters, from Taiwan red cypress and Yushan rhododendron to precious biodiversity of glacial relict species"
 date: 2026-03-20
-tags: ["alpine ecology", "glacial relicts", "Taiwan cypress", "alpine plants", "biodiversity", "climate change"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'alpine ecology',
+    'glacial relicts',
+    'Taiwan cypress',
+    'alpine plants',
+    'biodiversity',
+    'climate change',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 11
 featured: false
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
 ---
 
 # Taiwan Alpine Ecosystems and Glacial Relicts
@@ -37,15 +46,15 @@ Scree fields formed by slate and quartzite are important habitats for alpine pla
 
 ### Coniferous Forest Zone (2,500-3,100 meters)
 
-This is the gateway zone of alpine ecosystems, dominated by conifers. Taiwan fir (*Abies kawakamii*) is the most representative tree species, forming extensive pure stands. Taiwan fir can adapt to low temperatures, strong winds, and short growing seasons, marking the treeline of Taiwan's montane forests.
+This is the gateway zone of alpine ecosystems, dominated by conifers. Taiwan fir (_Abies kawakamii_) is the most representative tree species, forming extensive pure stands. Taiwan fir can adapt to low temperatures, strong winds, and short growing seasons, marking the treeline of Taiwan's montane forests.
 
-Taiwan hemlock (*Tsuga chinensis* var. *formosana*) occurs at lower elevations within the coniferous zone, often mixed with Taiwan fir. Red cypress and Taiwan red cypress can still be found at the upper margins of this zone, but in small numbers.
+Taiwan hemlock (_Tsuga chinensis_ var. _formosana_) occurs at lower elevations within the coniferous zone, often mixed with Taiwan fir. Red cypress and Taiwan red cypress can still be found at the upper margins of this zone, but in small numbers.
 
 Understory vegetation is dominated by Yushan arrow bamboo, forming dense bamboo thickets. Other important plants include Yushan rhododendron, Morrison's rhododendron, Yushan anise, and Taiwan blue berry.
 
 ### Yushan Arrow Bamboo Grassland (3,100-3,400 meters)
 
-Above the forest limit, Yushan arrow bamboo (*Yushania niitakayamensis*) becomes the dominant plant, forming extensive grassland landscapes. Yushan arrow bamboo is endemic to Taiwan, capable of withstanding temperatures as low as -20°C, making it a keystone species in alpine ecosystems.
+Above the forest limit, Yushan arrow bamboo (_Yushania niitakayamensis_) becomes the dominant plant, forming extensive grassland landscapes. Yushan arrow bamboo is endemic to Taiwan, capable of withstanding temperatures as low as -20°C, making it a keystone species in alpine ecosystems.
 
 Scattered throughout the arrow bamboo grasslands are various alpine plants: Yushan rhododendron and Yushan juniper form low shrublands; alpine rose and Yushan St. John's wort are interspersed; herbaceous plants like Yushan fleabane and Yushan stonecrop bloom in spring and summer, creating alpine flower displays.
 
@@ -53,9 +62,9 @@ This vegetation zone is an important foraging area for Formosan black bears, mun
 
 ### Alpine Plant Communities (Above 3,400 meters)
 
-At the highest elevations, Yushan arrow bamboo becomes sparse, replaced by complex communities of specialized alpine plants. Yushan juniper (*Juniperus squamata* var. *morrisonicola*) is the characteristic tree species of this zone, growing in prostrate or cushion forms with extreme wind resistance.
+At the highest elevations, Yushan arrow bamboo becomes sparse, replaced by complex communities of specialized alpine plants. Yushan juniper (_Juniperus squamata_ var. _morrisonicola_) is the characteristic tree species of this zone, growing in prostrate or cushion forms with extreme wind resistance.
 
-Yushan rhododendron (*Rhododendron pseudochrysanthum*) is Taiwan's most famous alpine plant, painting mountain peaks pink during its May-June blooming period. This rhododendron only grows above 3,000 meters and is Taiwan's quintessential alpine plant.
+Yushan rhododendron (_Rhododendron pseudochrysanthum_) is Taiwan's most famous alpine plant, painting mountain peaks pink during its May-June blooming period. This rhododendron only grows above 3,000 meters and is Taiwan's quintessential alpine plant.
 
 Alpine flowering plants include Yushan pink, Yushan stonecrop, Yushan clasping sage, and alpine silvergrass. These plants mostly adopt cushion or rosette growth forms to reduce wind resistance and conserve body heat.
 
@@ -69,21 +78,21 @@ Taiwan has approximately 200 glacial relict plant species, mainly distributed ab
 
 ### Important Glacial Relict Species
 
-**Taiwan red cypress** (*Taiwania cryptomerioides*) is Taiwan's most precious glacial relict tree species. This ancient conifer existed during the Miocene (23 million years ago) and now only occurs in Taiwan's mountains and southwestern China's highlands. Taiwan red cypress can grow to 80 meters tall and live over 2,000 years.
+**Taiwan red cypress** (_Taiwania cryptomerioides_) is Taiwan's most precious glacial relict tree species. This ancient conifer existed during the Miocene (23 million years ago) and now only occurs in Taiwan's mountains and southwestern China's highlands. Taiwan red cypress can grow to 80 meters tall and live over 2,000 years.
 
 **Taiwan fir**, despite its name suggesting Taiwan endemism, is actually a relict representative of the fir genus. Firs were originally widespread in the Northern Hemisphere's temperate regions; Taiwan fir is a remnant population of this genus in subtropical areas.
 
 **Yushan juniper** is a high-alpine specialized species of the juniper genus. Juniper species were widespread during ice ages; most now occur at high latitudes or elevations. Taiwan's Yushan juniper represents this genus's southernmost migration limit.
 
-**Taiwan pleione** (*Pleione formosana*) is a glacial relict among orchids. The pleione genus mainly occurs in the Himalayan region; Taiwan's species represents this genus's southeastern distribution limit.
+**Taiwan pleione** (_Pleione formosana_) is a glacial relict among orchids. The pleione genus mainly occurs in the Himalayan region; Taiwan's species represents this genus's southeastern distribution limit.
 
-**Nengao thistle** (*Cirsium kawakamii*) is an alpine endemic of the aster family. Thistle species mostly occur in temperate regions; Taiwan's alpine thistles descend from ice age migrant populations.
+**Nengao thistle** (_Cirsium kawakamii_) is an alpine endemic of the aster family. Thistle species mostly occur in temperate regions; Taiwan's alpine thistles descend from ice age migrant populations.
 
 ### Animal Glacial Relicts
 
-**Taiwan alpine white-bellied rat** (*Niviventer culturatus*) is endemic to Taiwan's montane forests. White-bellied rats mainly occur in the Himalayas; Taiwan's species is a remnant population from ice age migrations.
+**Taiwan alpine white-bellied rat** (_Niviventer culturatus_) is endemic to Taiwan's montane forests. White-bellied rats mainly occur in the Himalayas; Taiwan's species is a remnant population from ice age migrations.
 
-**Taiwan alpine shrew** (*Sorex bedfordiae*) occurs above 2,000 meters elevation. Shrews mostly occur in cold regions; Taiwan's alpine shrew represents this family's subtropical relict.
+**Taiwan alpine shrew** (_Sorex bedfordiae_) occurs above 2,000 meters elevation. Shrews mostly occur in cold regions; Taiwan's alpine shrew represents this family's subtropical relict.
 
 **Salamanders** are precious animals in Taiwan's alpine streams. Alishan salamander, Guanwu salamander, and Nanhu salamander are all relict species from the ice age. Salamanders require cool, moist environments; Taiwan's mountains provide their final refuge.
 
@@ -175,5 +184,5 @@ The story of glacial relicts reminds us: life's resilience exceeds imagination, 
 - [Alpine Ecology Laboratory, NCHU Forest Department](https://www.forest.nchu.edu.tw/) — Climate change impact research on alpine plants
 - [Flora of Taiwan](http://tai2.ntu.edu.tw/) — Complete taxonomic information on Taiwan's vascular plants
 - [Color Atlas of Taiwan Alpine Plants](https://www.books.com.tw/) — Alpine plant field guide and ecological introduction
-- *Taiwan's High Mountains*, Yang Nan-jun, Yuan-Liou Publishing, 2002
-- *Taiwan's Glacial Relict Plants*, Lu Sheng-you, Linking Publishing, 2018
+- _Taiwan's High Mountains_, Yang Nan-jun, Yuan-Liou Publishing, 2002
+- _Taiwan's Glacial Relict Plants_, Lu Sheng-you, Linking Publishing, 2018

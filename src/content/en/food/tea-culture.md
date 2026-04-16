@@ -13,6 +13,7 @@ category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Taiwan Oolong Tea package with Formosa Oolong Tea branding'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/茶文化.md'
 ---
 
 # Echoes of the Golden Age：Taiwan Tea Culture Evolution and Craftsmanship

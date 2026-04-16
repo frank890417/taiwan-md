@@ -10,6 +10,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Geography/台灣交通運輸網絡.md'
 ---
 
 # 台湾の交通システム

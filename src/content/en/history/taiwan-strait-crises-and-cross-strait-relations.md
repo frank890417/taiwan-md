@@ -15,6 +15,7 @@ difficulty: 'advanced'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-20
+translatedFrom: 'History/台海危機與兩岸關係發展.md'
 ---
 
 # Taiwan Strait Crises and Cross-Strait Relations Development

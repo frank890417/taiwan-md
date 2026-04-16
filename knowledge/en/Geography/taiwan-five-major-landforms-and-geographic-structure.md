@@ -16,6 +16,7 @@ category: 'Geography'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Geography/台灣五大地形與地理結構.md'
 ---
 
 # Taiwan’s Five Major Landforms: From Mountain Spines to Fertile Plains

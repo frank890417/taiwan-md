@@ -1,11 +1,20 @@
 ---
-title: "Cultura de las tiendas de conveniencia"
-description: "En Taiwán, las tiendas de conveniencia dejaron de ser simple comercio minorista: hoy funcionan como infraestructura cotidiana, nodos logísticos y salas de estar urbanas."
+title: 'Cultura de las tiendas de conveniencia'
+description: 'En Taiwán, las tiendas de conveniencia dejaron de ser simple comercio minorista: hoy funcionan como infraestructura cotidiana, nodos logísticos y salas de estar urbanas.'
 date: 2026-03-24
-tags: ["Tiendas de conveniencia", "7-ELEVEN", "FamilyMart", "Vida cotidiana", "Infraestructura urbana", "Taiwán"]
-author: "Contribuidores de Taiwan.md"
+tags:
+  [
+    'Tiendas de conveniencia',
+    '7-ELEVEN',
+    'FamilyMart',
+    'Vida cotidiana',
+    'Infraestructura urbana',
+    'Taiwán',
+  ]
+author: 'Contribuidores de Taiwan.md'
 readingTime: 9
 featured: false
+translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 ---
 
 # Cultura de las tiendas de conveniencia
@@ -17,6 +26,7 @@ Son las tres de la madrugada en Taipéi. Tienes hambre, el móvil está a punto 
 Taiwán suele describirse como el **“reino de las tiendas de conveniencia”**. Hay más de 13.000 repartidas por toda la isla, con una de las densidades más altas del mundo. Pero el dato más interesante no es cuántas hay, sino **lo que hacen**: pagar recibos, recoger paquetes, comprar entradas, imprimir documentos, tomar café, comer algo caliente, sentarse un rato y resolver pequeños problemas cotidianos a cualquier hora. En Taiwán, la tienda de conveniencia ya no es solo una tienda. Es una pieza de la infraestructura de la vida diaria.
 
 **Datos clave:**
+
 - Densidad: una de las más altas del mundo, con aproximadamente una tienda por cada 2.000 personas
 - Marcas principales: 7‑ELEVEN, FamilyMart, Hi-Life y OK Mart
 - Servicios: más de 2.000 servicios de pago, recogida, impresión, logística y atención cotidiana
@@ -28,7 +38,7 @@ Japón tiene konbini. Corea del Sur también. Muchos países asiáticos tienen c
 
 En la práctica, eso significa que una tienda de conveniencia puede funcionar como banco de barrio, ventanilla de pagos, punto logístico, cafetería, refugio temporal con aire acondicionado, sitio para cargar el móvil, o espacio donde una persona mayor puede sentarse un rato. Durante la pandemia, incluso operó como punto de apoyo para políticas públicas como la distribución de mascarillas o ciertos procesos de reserva.
 
-Por eso entender la cultura de las tiendas de conveniencia en Taiwán no es solo entender una industria. Es entender cómo la isla ha llevado la idea de *comodidad cotidiana* a un nivel casi sistémico.
+Por eso entender la cultura de las tiendas de conveniencia en Taiwán no es solo entender una industria. Es entender cómo la isla ha llevado la idea de _comodidad cotidiana_ a un nivel casi sistémico.
 
 ---
 
@@ -77,6 +87,7 @@ Las jornadas largas, los horarios fragmentados y la fuerte vida nocturna han gen
 ### Espacios pequeños, eficiencia altísima
 
 Las tiendas de conveniencia taiwanesas suelen operar en espacios relativamente pequeños, pero con un rendimiento extraordinario por metro cuadrado. Lo logran mediante una combinación de:
+
 - surtido muy afinado
 - rotación rápida de inventario
 - servicios de alto uso y baja fricción

@@ -1,14 +1,23 @@
 ---
-title: "Taiwan Temple Festivals and Performance Troupes"
-description: "The majesty of Eight Generals, the innovation of Electronic Nezha, the devotion of Mazu processions — Taiwan temple festivals are the perfect fusion of faith and celebration"
+title: 'Taiwan Temple Festivals and Performance Troupes'
+description: 'The majesty of Eight Generals, the innovation of Electronic Nezha, the devotion of Mazu processions — Taiwan temple festivals are the perfect fusion of faith and celebration'
 date: 2026-03-20
-tags: ["temple festivals", "performance troupes", "folk beliefs", "electronic nezha", "eight generals", "mazu procession"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'temple festivals',
+    'performance troupes',
+    'folk beliefs',
+    'electronic nezha',
+    'eight generals',
+    'mazu procession',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 11
-category: "Culture"
+category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Culture/台灣廟會與陣頭文化.md'
 ---
 
 # Taiwan Temple Festivals and Performance Troupes
@@ -99,4 +108,4 @@ In this increasingly cold, increasingly individualized modern world, Taiwan's te
 
 ---
 
-*Under divine protection, within the rhythm of drums and gongs, Taiwan's temple festival culture displays the purest joy of life. This joy transcends boundaries of religion, class, and age, making all participants protagonists in this cultural feast.*
+_Under divine protection, within the rhythm of drums and gongs, Taiwan's temple festival culture displays the purest joy of life. This joy transcends boundaries of religion, class, and age, making all participants protagonists in this cultural feast._

@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/Threads在台灣.md'
 ---
 
 # Threads in Taiwan: From Viral Boom to Everyday 'Tsui' Culture

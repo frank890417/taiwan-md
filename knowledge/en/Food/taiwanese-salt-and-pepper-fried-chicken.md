@@ -15,6 +15,7 @@ readingTime: 7
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣鹹酥雞.md'
 ---
 
 # Taiwanese Salt-and-Pepper Fried Chicken (鹹酥雞)

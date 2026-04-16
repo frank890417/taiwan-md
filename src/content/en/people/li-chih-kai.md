@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['gymnastics', 'Olympics', 'pommel horse', 'athlete', 'Taiwan']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/李智凱.md'
 ---
 
 # Li Chih‑Kai (李智凱): From “Tumbling Boy” to Olympic Medalist

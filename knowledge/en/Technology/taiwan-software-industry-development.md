@@ -12,6 +12,7 @@ tags:
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣軟體產業發展.md'
 ---
 
 # Taiwan's Software Industry Development

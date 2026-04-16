@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+translatedFrom: 'People/陳俊良.md'
 ---
 
 # Chen Chun-liang: Redefining Taiwan Design Through Poetry

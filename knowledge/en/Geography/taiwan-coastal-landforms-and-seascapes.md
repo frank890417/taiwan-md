@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: true
+translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
 ---
 
 # Taiwan's Coastal Landscapes and Marine Geology
@@ -233,7 +234,6 @@ The government proposed "2050 Taiwan Coastal Vision":
 From Taoyuan algal reef protection to Xiaoliuqiu sea turtle conservation, civil society becomes crucial for marine protection. Over 100,000 people annually participate in coastal cleanup activities, removing over 500 tons of debris.
 
 🔗 **Extended Exploration:**
-
 
 ---
 

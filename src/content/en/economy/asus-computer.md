@@ -1,5 +1,5 @@
 ---
-title: "Taiwan Corporation: ASUS"
+title: 'Taiwan Corporation: ASUS'
 description: "Tech giant that grew from motherboard startup: Inspiring transformation from small Hsinchu factory to world's fifth-largest PC brand"
 date: 2026-03-20
 tags: [Economy, Corporations, Computer Hardware, Brand, Technology]
@@ -8,10 +8,11 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：華碩.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > ASUS is the world's fifth-largest personal computer supplier, evolved from a motherboard company founded by four engineers in Taipei in 1989 into a tech empire generating nearly NT$600 billion ($18+ billion USD) annually. Globally renowned for "Rock Solid" quality promise, products span motherboards, laptops, smartphones, and gaming equipment. ASUS represents Taiwan's IT industry's successful transformation from OEM to brand excellence.
 
 ## Why ASUS Matters
@@ -37,18 +38,21 @@ ASUS adopts a "three pillars" strategy: PC and components maintain technical lea
 ## Key Facts: Numbers Witness Strength
 
 **Operational Performance (2024 data, source: ASUS official website)**:
+
 - **Annual Revenue**: NT$585.9 billion (~$18.2 billion USD), 17-year high
 - **Growth Rate**: 21.18%, significantly outperforming industry average
 - **Global Employees**: ~14,500 across 68 countries
 - **R&D Investment**: ~3.2% of revenue, annual investment exceeding NT$18 billion
 
 **Market Position**:
+
 - **Global PC Ranking Fifth** (Gartner 2024 Q4): ~7.1% market share
 - **Global Motherboard Market Share Leader**: 15 consecutive years, over 40% market share
 - **Gaming Laptop Market Share**: ROG series ranks second globally, trailing only MSI
 - **Graphics Card Market Share**: Tied with MSI for top two, competing with NVIDIA's reference cards in high-end markets
 
 **Brand Value**:
+
 - **Interbrand Brand Value Ranking**: Top three among Taiwan tech companies, ~$1.52 billion brand value
 - **Patent Portfolio**: Over 15,000 patents covering hardware design, cooling, user experience
 - **Quality Certification**: Multiple consecutive years winning VIA Technologies "Best Motherboard Supplier" awards
@@ -56,6 +60,7 @@ ASUS adopts a "three pillars" strategy: PC and components maintain technical lea
 ## Evolution: From Garage Startup to Global Brand
 
 ### Startup Phase (1989-1995): Birth of Motherboard Expert
+
 In 1989, four former Acer engineers founded ASUS in a Taipei Minsheng East Road apartment with just NT$10 million initial capital. They seized the PC industry boom opportunity, focusing on motherboard design and manufacturing.
 
 The pivotal breakthrough came in 1990 when ASUS successfully developed its first proprietary motherboard "ISA-386C"—not only technically advanced but crucially establishing the "quality first" corporate culture.
@@ -63,6 +68,7 @@ The pivotal breakthrough came in 1990 when ASUS successfully developed its first
 In 1992, ASUS launched the world's first motherboard supporting Intel 486 processors, achieving 100% defect-free shipments. The "Rock Solid" brand promise was thus established.
 
 ### Diversification Development (1995-2005): From Motherboards to Comprehensive Solutions
+
 ASUS went public in 1995, with raised funds enabling bolder investments. This period marked ASUS's diversification:
 
 - **1997**: Entered laptop market
@@ -73,9 +79,11 @@ ASUS went public in 1995, with raised funds enabling bolder investments. This pe
 During this phase, ASUS consolidated its motherboard dominance while aggressively expanding new product lines, laying groundwork for subsequent branding.
 
 ### Brand Breakthrough (2005-2015): Eee PC Shocks the World
+
 In 2007, ASUS launched the Eee PC—this $299 mini-laptop fundamentally changed the notebook industry. The Eee PC not only created the "Netbook" category but made ASUS a globally recognized brand overnight.
 
 **Eee PC Impact**:
+
 - First-year sales exceeded 5 million units, far surpassing expectations
 - Forced Apple, Google, and other giants to reconsider mobile computing strategies
 - Proved Taiwanese brands capable of global product innovation
@@ -83,6 +91,7 @@ In 2007, ASUS launched the Eee PC—this $299 mini-laptop fundamentally changed 
 In 2008, ASUS decided to separate brand and contract manufacturing businesses, spinning off Pegatron independently while ASUS focused on brand business. Though this decision sacrificed short-term revenue scale, it enabled ASUS to concentrate on building brand value.
 
 ### Comprehensive Layout (2015-Present): Gaming and AIoT Dual Engines
+
 Post-2015, ASUS established its "three pillars" strategy and achieved breakthroughs in two key areas:
 
 **Gaming Market**:
@@ -96,6 +105,7 @@ In 2024, with AI laptop (Copilot+ PC) launches, ASUS again stands at the forefro
 ## Global Impact: World-Class Achievement of Taiwanese Brand
 
 ### Technology Innovation Leadership
+
 ASUS transcends manufacturing—it's the PC industry's innovation engine:
 
 **Cooling Technology Revolution**:
@@ -108,6 +118,7 @@ ASUS doesn't just sell products—it built a complete gaming ecosystem. From har
 ZenBook series ScreenPad (touchscreen touchpad), ROG series AniMe Matrix LED display demonstrate ASUS's unique insights in product experience design.
 
 ### Global Market Presence
+
 **US/European Markets**: In mature markets like the USA and Germany, ASUS laptops rank second, trailing only dominant local brands.
 
 **Emerging Markets**: In Southeast Asia, India, Middle East, ASUS actively builds localized product lines, launching differentiated products for specific market needs.

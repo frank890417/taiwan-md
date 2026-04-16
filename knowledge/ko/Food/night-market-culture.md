@@ -1,17 +1,18 @@
 ---
-title: "대만의 야시장 문화"
-description: "관리 대상 야시장 164곳, 타이난은 평균 3만 8천 명당 1곳. 사원 앞마당에서 국제 관광 명소로 이어진 대만 야시장의 역사"
+title: '대만의 야시장 문화'
+description: '관리 대상 야시장 164곳, 타이난은 평균 3만 8천 명당 1곳. 사원 앞마당에서 국제 관광 명소로 이어진 대만 야시장의 역사'
 date: 2026-03-21
-tags: ["야시장", "길거리 음식", "문화", "관광", "서민 생활"]
-subcategory: "음식 공간"
-category: "Food"
-author: "Taiwan.md Translation Team"
+tags: ['야시장', '길거리 음식', '문화', '관광', '서민 생활']
+subcategory: '음식 공간'
+category: 'Food'
+author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg"
-imageAlt: "대만의 야시장 문화"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
+imageAlt: '대만의 야시장 문화'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/夜市文化.md'
 ---
 
 # 대만의 야시장 문화

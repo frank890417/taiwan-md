@@ -15,6 +15,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-20
+translatedFrom: 'People/盧廣仲.md'
 ---
 
 # Crowd Lu (盧廣仲): Taiwan's Beloved Folk Treasure

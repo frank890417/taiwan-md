@@ -19,6 +19,7 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+translatedFrom: 'Art/台灣電影.md'
 ---
 
 # Taiwan Cinema: How a Small Island Changed Global Film Language

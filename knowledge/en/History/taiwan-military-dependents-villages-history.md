@@ -17,6 +17,7 @@ category: 'History'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'History/台灣眷村歷史.md'
 ---
 
 # Taiwan's Military Dependents Villages

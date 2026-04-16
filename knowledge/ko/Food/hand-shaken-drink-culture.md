@@ -2,15 +2,7 @@
 title: '대만 수요음 문화: 버블티에서 글로벌 라이프스타일까지'
 description: '한 잔의 차가 어떻게 산업이 되고, 사회적 의식이 되었으며, 대만을 대표하는 문화 수출품으로 자리 잡았는지'
 date: 2026-03-19
-tags:
-  [
-    '음식',
-    '수요음',
-    '버블티',
-    '차 문화',
-    '문화 수출',
-    '브랜드 국제화',
-  ]
+tags: ['음식', '수요음', '버블티', '차 문화', '문화 수출', '브랜드 국제화']
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
@@ -18,6 +10,7 @@ subcategory: '음료 문화'
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Food/台灣手搖飲文化.md'
 ---
 
 # 대만 수요음 문화

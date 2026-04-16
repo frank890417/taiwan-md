@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
+translatedFrom: 'People/桂綸鎂.md'
 ---
 
 # Gwei Lun-Mei: Taiwan's Quietly Resilient Method Actress

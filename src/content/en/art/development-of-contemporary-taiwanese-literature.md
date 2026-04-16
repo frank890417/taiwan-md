@@ -2,12 +2,21 @@
 title: Development of Contemporary Taiwanese Literature
 description: Exploring the literary development from post-war Taiwan to the present, from modernism to nativist literature, from rural literature debates to multicultural writing
 date: 2026-03-18
-tags: [literature, contemporary literature, nativist literature, modernism, rural literature, cultural identity]
+tags:
+  [
+    literature,
+    contemporary literature,
+    nativist literature,
+    modernism,
+    rural literature,
+    cultural identity,
+  ]
 category: Art
 author: Taiwan.md
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Art/台灣當代文學發展.md'
 ---
 
 # Development of Contemporary Taiwanese Literature
@@ -93,6 +102,7 @@ The rural literature debate that erupted in the mid-1970s was one of the most im
 **Debate Background**: Taiwan faced setbacks in international politics (withdrawal from UN, US-China diplomatic severance), leading to social reflection demanding renewed recognition of Taiwan's local reality.
 
 **Main Issues**:
+
 - Should literature reflect social reality?
 - How to view Taiwan's local experience?
 - What are intellectuals' social responsibilities?

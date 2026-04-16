@@ -7,6 +7,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 9
 featured: false
+translatedFrom: 'Food/茶文化.md'
 ---
 
 # Cultura del Té

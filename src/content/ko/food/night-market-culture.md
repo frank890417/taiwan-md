@@ -12,6 +12,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
 imageAlt: '대만의 야시장 문화'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/夜市文化.md'
 ---
 
 # 대만의 야시장 문화

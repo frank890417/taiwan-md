@@ -18,6 +18,7 @@ featured: false
 readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
+translatedFrom: 'Economy/台灣股市與資本市場.md'
 ---
 
 > **30-second overview:** In 1962, the Taiwan Stock Exchange opened for business with just eighteen listed companies. Sixty-four years later, in early 2026, the TAIEX (Taiwan Capitalization Weighted Stock Index) broke through 30,000 points with over 1,050 listed companies and more than 13 million brokerage accounts. Along the way, the market survived the collective trauma of the 1990 bubble burst, the NT$94 billion Hung Yuan fraud that shattered public trust, a structural transformation that replaced retail speculators with institutional investors, and the ETF-and-TSMC-driven era of mass participation. The TAIEX is not just a number — it is the real-time heartbeat of Taiwan's economic confidence.

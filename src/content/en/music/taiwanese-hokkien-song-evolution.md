@@ -16,6 +16,7 @@ readingTime: 14
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣台語歌曲演進.md'
 ---
 
 # The Evolution of Taiwanese Hokkien Songs: From Street Serenades to a Youth Renaissance

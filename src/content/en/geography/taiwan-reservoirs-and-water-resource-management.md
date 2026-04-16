@@ -2,13 +2,21 @@
 title: "Taiwan's Reservoirs and Water Resource Management"
 description: "From water crises to reservoir sedimentation: Taiwan's water resource challenges and regional distribution imbalances"
 date: 2026-03-20
-tags: ["water resources", "reservoirs", "water shortage", "hydraulic engineering", "climate change"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'water resources',
+    'reservoirs',
+    'water shortage',
+    'hydraulic engineering',
+    'climate change',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Geography/台灣水庫與水資源管理.md'
 ---
 
 # Taiwan's Reservoirs and Water Resource Management
@@ -230,6 +238,7 @@ Water is the source of life and foundation of economic development. On this beau
 ---
 
 Further Reading:
+
 - [Taiwan's River Systems and Hydrological Features](/geography/taiwan-river-systems-and-hydrology)
 - [Climate](/geography/climate)
 - [Tectonic Plates and Seismic Activity](/geography/tectonic-plates-and-seismic-activity)

@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+translatedFrom: 'People/方序中.md'
 ---
 
 # Fang Hsu-Chung (方序中): Redefining Taiwan’s Visual Identity

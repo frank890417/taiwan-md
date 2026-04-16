@@ -16,6 +16,7 @@ author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-20
+translatedFrom: 'Nature/台灣黑熊.md'
 ---
 
 # The Formosan Black Bear: Last King of the Forests

@@ -1,8 +1,9 @@
 ---
-title: "Naturaleza"
+title: 'Naturaleza'
 date: 2026-03-17
 tags: [naturaleza, Hub]
-description: "Taiwán posee una asombrosa biodiversidad, ¡en solo el 0,03% de la tierra del planeta, se han registrado más de 59.000 especies de organismos, de las cuales el 30% son endémicas de Taiwán! Desde el Monte Jade a 3.952 metros de altitud hasta fosas marinas profundas, 9 parques nacionales protegen especies preciosas como el oso negro taiwanés, el salmón Formosan landlocked salmon y el macaco taiwanés, mostrando el milagro natural de gran ecología de una pequeña isla."
+description: 'Taiwán posee una asombrosa biodiversidad, ¡en solo el 0,03% de la tierra del planeta, se han registrado más de 59.000 especies de organismos, de las cuales el 30% son endémicas de Taiwán! Desde el Monte Jade a 3.952 metros de altitud hasta fosas marinas profundas, 9 parques nacionales protegen especies preciosas como el oso negro taiwanés, el salmón Formosan landlocked salmon y el macaco taiwanés, mostrando el milagro natural de gran ecología de una pequeña isla.'
+translatedFrom: 'Nature/_Nature Hub.md'
 ---
 
 # Naturaleza de Taiwán 🌿
@@ -12,7 +13,7 @@ A las cinco de la mañana, cuando el primer rayo de sol penetra la niebla matuti
 En esta pequeña isla que ocupa solo el 0,03% de la tierra global, ¡se han nutrido más de cincuenta y nueve mil especies de organismos, de las cuales el 30% son especies endémicas únicas de Taiwán en la Tierra! ¿Qué significa este número? Significa que en Taiwán, en menos de un día de viaje, puedes caminar desde una selva tropical hasta un bosque de coníferas frías, cruzar desde un ecosistema de arrecifes de coral al nivel del mar hasta un bosque puro de Juniperus squamata del Monte Jade en alta montaña, ascender desde un bosque de hoja ancha subtropical hasta tundra alpina que solo existe en regiones polares. Esta densidad de biodiversidad es cien veces el promedio mundial, convirtiendo a Taiwán en el museo de vida más condensado de la Tierra.
 
 ![Oso negro taiwanés](/images/wiki/taiwan-transportation.jpg)
-*Fuente de la imagen: [Abu0804](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear.JPG) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
+_Fuente de la imagen: [Abu0804](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear.JPG) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 ## Laboratorio Evolutivo de Seis Millones de Años
 
@@ -83,7 +84,7 @@ Lo que es más importante, Taiwán ha demostrado que el desarrollo económico y 
 Cuando estamos en el pico principal del Monte Jade, contemplando esta hermosa isla, vemos no solo montañas y ríos magníficos, sino también el milagro de la vida y el símbolo de esperanza. Esta pequeña isla le dice al mundo que incluso el lugar más pequeño puede nutrir el milagro natural más grandioso. Nos recuerda que proteger la naturaleza no es una carga, sino una responsabilidad; no es una limitación, sino una inversión; no es nostalgia por el pasado, sino esperanza para el futuro.
 
 ![Salmón Formosan landlocked salmon](/images/wiki/fcb292021fe7.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oncorhynchus_masou_formosanus.jpg) | CC BY-SA 3.0 | Fotógrafo: Administración del Parque Nacional del Monte Jade*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oncorhynchus_masou_formosanus.jpg) | CC BY-SA 3.0 | Fotógrafo: Administración del Parque Nacional del Monte Jade_
 
 ## Lectura Adicional
 
@@ -100,4 +101,4 @@ Cuando estamos en el pico principal del Monte Jade, contemplando esta hermosa is
 
 ---
 
-*La grandeza de la naturaleza taiwanesa radica en que con la escala de una isla, lleva la responsabilidad de la Tierra, protege el milagro de la vida.*
+_La grandeza de la naturaleza taiwanesa radica en que con la escala de una isla, lleva la responsabilidad de la Tierra, protege el milagro de la vida._

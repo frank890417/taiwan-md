@@ -8,10 +8,11 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：聯華電子.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > United Microelectronics Corporation (UMC) is Taiwan's first semiconductor company and the world's third-largest foundry. Founded in 1980, seven years before TSMC, UMC planted the semiconductor seed in Taiwan. With 2025 revenue reaching NT$237.6 billion (US$7.5 billion) and 29% gross margin, UMC has witnessed and driven Taiwan's semiconductor industry evolution from the calculator era to the AI age.
 
 ## Why UMC Matters
@@ -27,6 +28,7 @@ Today, when we discuss Taiwan's "silicon shield mountains," UMC stands firmly at
 United Microelectronics Corporation (UMC) was established on May 3, 1980, with headquarters in Hsinchu Science Park. The company specializes in foundry services, providing semiconductor manufacturing across various process technologies from 180nm to 14nm for global customers.
 
 **Core Business Structure**:
+
 - **Foundry Services**: Accounts for approximately 85-90% of revenue
 - **Technology Licensing**: Providing process technologies to partners
 - **System-in-Package (SiP)**: Integrated solutions for IoT applications
@@ -36,6 +38,7 @@ Unlike TSMC's focus on cutting-edge processes, UMC chose to specialize in mature
 ## Key Facts: Numbers That Tell the Story
 
 **Operational Scale (2025 data, source: UMC official website)**:
+
 - **Annual Revenue**: NT$237.6 billion (approximately US$7.5 billion)
 - **Gross Margin**: 29.0%, Operating Margin 18.5%
 - **Earnings Per Share**: NT$3.34
@@ -43,11 +46,13 @@ Unlike TSMC's focus on cutting-edge processes, UMC chose to specialize in mature
 - **Manufacturing Sites**: 6 in Taiwan, 4 in mainland China, 1 in Japan
 
 **Global Position**:
+
 - Approximately 7.4% global foundry market share (behind TSMC's 62% and Samsung's 18%)
 - Approximately 14% market share in mature processes (28nm and above), ranking second globally
 - Over 15,000 patents, with internationally recognized technical capabilities
 
 **Technical Capabilities**:
+
 - Complete process technologies from 0.5μm to 14nm FinFET
 - Specialty processes: RFCMOS, BCD, eNVM, and other differentiated technologies
 - Advanced packaging: SiP technology targeting IoT markets
@@ -55,16 +60,19 @@ Unlike TSMC's focus on cutting-edge processes, UMC chose to specialize in mature
 ## Development Journey: Half a Century of Persistence and Transformation
 
 ### The Pioneering Era (1980-1990)
+
 In 1980, driven by the government's Hsinchu Science Park policy, UMC was spun off from ITRI's Electronics Research & Service Organization, founded by semiconductor legends including Tsao Hsing-cheng and Robert Tsao. The company started as Taiwan's "first" with 3-inch wafers and CMOS processes, laying the foundation for Taiwan's semiconductor industry.
 
 In 1985, UMC became the first publicly listed semiconductor company in the Chinese-speaking world, symbolizing Taiwan's technology industry rise.
 
 ### Expansion and Challenges (1990-2000)
+
 The 1990s marked UMC's golden expansion period. Beyond continuous technology upgrades, the company boldly invested overseas. Starting in 1995, UMC established facilities in Suzhou, Xiamen, and other mainland Chinese cities, pioneering Taiwan semiconductor industry's westward expansion.
 
 During this decade, UMC transformed from a Taiwan domestic company into a truly multinational semiconductor manufacturing group.
 
 ### Transformation and Positioning (2000-2020)
+
 Entering the 21st century, as TSMC's leadership in advanced processes solidified, UMC began reconsidering its differentiation strategy. The company gradually shifted focus toward mature processes while developing unique technical expertise:
 
 - **Automotive Electronics**: Developing automotive-grade processes, entering Tier 1 supply chains
@@ -72,6 +80,7 @@ Entering the 21st century, as TSMC's leadership in advanced processes solidified
 - **Power Management**: Establishing technology leadership in BCD processes
 
 ### Steady Growth (2020-Present)
+
 During the COVID-19 pandemic, global chip shortages actually highlighted the importance of mature processes. UMC, as a major mature process supplier, operated at full capacity with record-breaking revenues.
 
 In 2022, the company launched the "UMC 2030" strategy, emphasizing both sustainable development and technological innovation, aiming for carbon neutrality by 2030.

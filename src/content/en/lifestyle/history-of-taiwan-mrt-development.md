@@ -21,6 +21,7 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Lifestyle/台灣捷運發展史.md'
 ---
 
 # Taiwan's MRT Evolution: A Urban Revolution Written in Blood and Money

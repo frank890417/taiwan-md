@@ -18,6 +18,7 @@ featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 category: 'society'
+translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
 ---
 
 # The Mystical Pricing Algorithm of Taiwan Buffet Aunties

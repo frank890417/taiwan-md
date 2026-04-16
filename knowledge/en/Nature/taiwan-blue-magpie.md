@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Blue Magpie: The Blue Gang of the Mountains'
-description: "A gemlike endemic species that leads one of the most sophisticated \"family gang\" societies in Taiwan's forests."
+description: 'A gemlike endemic species that leads one of the most sophisticated "family gang" societies in Taiwan''s forests.'
 date: 2026-03-23
 tags: ['endemic species', 'conservation', 'birds', 'ecology', 'mountain jewel']
 category: 'Nature'
@@ -9,7 +9,9 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+translatedFrom: 'Nature/台灣藍鵲.md'
 ---
+
 > **30-second overview:**
 > The Taiwan Blue Magpie (Urocissa caerulea) is one of Taiwan's most iconic endemic birds, famous for its sapphire-blue plumage and spectacular long tail.
 > But don't let its beauty fool you—this species operates one of the most sophisticated "family gang" systems in the animal kingdom,
@@ -17,7 +19,8 @@ readingTime: 8
 
 ## The "Long-tailed Mountain Lady" in Historical Records
 
-As early as the 18th century, Qing Dynasty scholar Dong Tiangong vividly described this remarkable bird in his *Taiwan Maritime Chronicles*:
+As early as the 18th century, Qing Dynasty scholar Dong Tiangong vividly described this remarkable bird in his _Taiwan Maritime Chronicles_:
+
 > "The Long-tailed Mountain Lady, with vermillion beak and jade wings on brown back, colors interweaving brilliantly, tail length exceeding a foot, dwelling in the deep mountains of Zhu and Zhang."
 
 This historical account perfectly captures the Taiwan Blue Magpie's most striking features: the bright red beak and legs, the deep blue body, and those magnificent tail feathers stretching 40 centimeters—two-thirds of the bird's total length. Local communities affectionately called them "Long-tailed Mountain Lady" or "Mountain Maiden."
@@ -27,9 +30,11 @@ This historical account perfectly captures the Taiwan Blue Magpie's most strikin
 What truly amazes biologists isn't the Taiwan Blue Magpie's stunning appearance, but its highly sophisticated **social behavior**.
 
 ### 1. Helper-at-the-Nest System
+
 Unlike most birds that disperse after fledging, Taiwan Blue Magpies operate differently. Older siblings from previous years often delay establishing their own territories, instead staying to help their parents raise the new generation. This "three-generation household" approach dramatically increases juvenile survival rates while solidifying the family's territorial control.
 
 ### 2. Fierce Territorial Defense
+
 During breeding season (March to July), the Taiwan Blue Magpie's "gang" nature becomes unmistakably clear. To protect their nests, they launch coordinated attacks against any intruders—raptors, snakes, and even unsuspecting hikers. These aerial "raids" often startle mountain visitors but demonstrate the species' extraordinary family cohesion.
 
 ## From National Bird Contest to Urban Neighbor
@@ -47,10 +52,11 @@ The Red-billed Blue Magpie (Red-billed Blue Magpie), native to China and Southea
 ---
 
 ### Data & Fact Check
-*   **Endemism**: 100% endemic to Taiwan (Urocissa caerulea).
-*   **Size**: Approximately 64-65 cm total length, with tail accounting for 40 cm.
-*   **Diet**: Omnivorous with caching behavior (stores excess food in tree crevices).
-*   **Social Structure**: Family groups typically consisting of 6-12 individuals.
+
+- **Endemism**: 100% endemic to Taiwan (Urocissa caerulea).
+- **Size**: Approximately 64-65 cm total length, with tail accounting for 40 cm.
+- **Diet**: Omnivorous with caching behavior (stores excess food in tree crevices).
+- **Social Structure**: Family groups typically consisting of 6-12 individuals.
 
 ### References / Sources
 
@@ -58,4 +64,4 @@ The Red-billed Blue Magpie (Red-billed Blue Magpie), native to China and Southea
 2.  [Taiwan Forestry Bureau: Protected Wildlife List](https://www.forest.gov.tw/)
 3.  [Birds of the World: Taiwan Blue-Magpie (Urocissa caerulea)](https://birdsoftheworld.org/bow/species/formag1/cur/introduction)
 4.  [Classic Magazine: Red-billed Blue Magpie - Rival to Taiwan's Endemic](https://www.rhythmsmonthly.com/?p=8021)
-5.  Dong Tiangong, *Taiwan Maritime Chronicles* (Qing Dynasty literature).
+5.  Dong Tiangong, _Taiwan Maritime Chronicles_ (Qing Dynasty literature).

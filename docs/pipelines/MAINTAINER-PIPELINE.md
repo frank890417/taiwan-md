@@ -128,11 +128,12 @@
 □ 反直覺核心句（前三句有具體事實？）
 □ 來源 ≥ 5？有 URL？
 □ 無禁止詞（「台灣是一個...」「不僅...更是」「蓬勃」「日益」）
-□ featured: false
+□ featured: false（ZH SSOT；翻譯 PR 應 mirror 原文 featured）
 □ lastHumanReview: false
 □ 分類正確？
 □ 有英文版？
-□ _translations.json 有更新？
+□ 翻譯檔（如有）frontmatter 含 translatedFrom 欄位
+□ （_translations.json 不需要手動檢查 — refresh-data.sh 自動從 frontmatter 重建）
 ```
 
 ### 程式碼 PR Checklist
@@ -149,8 +150,11 @@
 ### 翻譯 PR 要點
 
 - 翻譯 PR 品質通常不錯，快速審即可
-- 重點：frontmatter 正確 + `featured: false` + 語言自然（非機翻）
-- 常見遺漏：`_translations.json` 映射沒更新 → 不阻塞 merge，後補即可
+- **完整流程見 [TRANSLATION-PIPELINE.md v3.0](TRANSLATION-PIPELINE.md)**（八階段 + 17 條常漏 + 工具索引）
+- 重點：frontmatter 含 `translatedFrom` + 字數比 ≥ 0.55（非 AI 摘要）+ 語言自然
+- **批次 PR（≥3 個同 author）**：用 `bash scripts/tools/bulk-pr-analyze.sh --author X` 全景檢查，然後走 [TRANSLATION-PIPELINE §批次合併工作流](TRANSLATION-PIPELINE.md#批次合併工作流maintainer)
+- **不要**手動編輯 `_translations.json` — pre-commit 強制 translatedFrom，refresh-data.sh 會 sync
+- **新語言請求**：先檢查 [`src/config/languages.ts`](../../src/config/languages.ts) 是否註冊，未註冊先走 [§新語言啟用流程](TRANSLATION-PIPELINE.md#新語言啟用流程)
 
 ### 合併策略
 

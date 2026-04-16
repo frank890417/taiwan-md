@@ -19,6 +19,7 @@ featured: false
 readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
+translatedFrom: 'Economy/台灣金融科技發展.md'
 ---
 
 # 타이완 핀테크 발전

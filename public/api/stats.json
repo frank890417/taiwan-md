@@ -1,9 +1,13 @@
 {
-  "totalArticles": 1194,
-  "totalCategories": 20,
+  "totalArticles": 2142,
+  "totalCategories": 21,
   "estimatedContributors": 51,
-  "totalTags": 2871,
+  "totalTags": 5507,
   "categories": [
+    {
+      "name": "ko",
+      "count": 471
+    },
     {
       "name": "Society",
       "count": 39
@@ -14,7 +18,7 @@
     },
     {
       "name": "History",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Culture",
@@ -22,7 +26,7 @@
     },
     {
       "name": "ja",
-      "count": 255
+      "count": 256
     },
     {
       "name": "Music",
@@ -34,11 +38,11 @@
     },
     {
       "name": "Lifestyle",
-      "count": 16
+      "count": 17
     },
     {
       "name": "People",
-      "count": 135
+      "count": 156
     },
     {
       "name": "Art",
@@ -73,16 +77,16 @@
       "count": 1
     },
     {
+      "name": "fr",
+      "count": 481
+    },
+    {
       "name": "es",
       "count": 36
     },
     {
       "name": "resources",
       "count": 2
-    },
-    {
-      "name": "ko",
-      "count": 28
     }
   ],
   "topTags": [
@@ -91,16 +95,68 @@
       "count": 58
     },
     {
-      "name": "Economy",
-      "count": 57
-    },
-    {
       "name": "人物",
       "count": 54
     },
     {
+      "name": "Economy",
+      "count": 52
+    },
+    {
+      "name": "인물",
+      "count": 46
+    },
+    {
+      "name": "기업",
+      "count": 30
+    },
+    {
+      "name": "경제",
+      "count": 27
+    },
+    {
       "name": "経済",
       "count": 25
+    },
+    {
+      "name": "ODM",
+      "count": 25
+    },
+    {
+      "name": "台灣",
+      "count": 25
+    },
+    {
+      "name": "Économie",
+      "count": 25
+    },
+    {
+      "name": "TSMC",
+      "count": 23
+    },
+    {
+      "name": "peuples autochtones",
+      "count": 23
+    },
+    {
+      "name": "AI",
+      "count": 22
+    },
+    {
+      "name": "韓國",
+      "count": 21
+    },
+    {
+      "name": "g0v",
+      "count": 20
+    },
+    {
+      "name": "流行人物",
+      "count": 20
+    },
+    {
+      "name": "personnalité",
+      "count": 20
     },
     {
       "name": "民主化",
@@ -113,68 +169,16 @@
     {
       "name": "文化",
       "count": 17
-    },
-    {
-      "name": "民間信仰",
-      "count": 15
-    },
-    {
-      "name": "歴史",
-      "count": 15
-    },
-    {
-      "name": "半導體",
-      "count": 15
-    },
-    {
-      "name": "AI",
-      "count": 15
-    },
-    {
-      "name": "ODM",
-      "count": 14
-    },
-    {
-      "name": "教育",
-      "count": 14
-    },
-    {
-      "name": "台灣",
-      "count": 14
-    },
-    {
-      "name": "政治",
-      "count": 13
-    },
-    {
-      "name": "製造業",
-      "count": 13
-    },
-    {
-      "name": "歷史",
-      "count": 12
-    },
-    {
-      "name": "金曲獎",
-      "count": 12
-    },
-    {
-      "name": "音樂",
-      "count": 12
-    },
-    {
-      "name": "Technology",
-      "count": 12
     }
   ],
   "languageDistribution": {
-    "zh-TW": 1194,
+    "zh-TW": 2142,
     "en": 0
   },
-  "lastUpdated": "2026-04-13T04:36:58.081Z",
-  "stars": 926,
-  "forks": 130,
-  "zhPages": 795,
+  "lastUpdated": "2026-04-15T09:37:52.672Z",
+  "stars": 929,
+  "forks": 129,
+  "zhPages": 1743,
   "enPages": 399,
-  "totalPages": 1194
+  "totalPages": 2142
 }

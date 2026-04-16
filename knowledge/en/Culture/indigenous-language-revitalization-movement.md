@@ -2,13 +2,21 @@
 title: "Taiwan's Indigenous Language Revitalization Movement"
 description: "From language endangerment crisis to revitalization efforts: examining Taiwan's indigenous language preservation challenges, policy developments, and community-based achievements"
 date: 2026-03-20
-tags: [indigenous languages, language revitalization, indigenous education, language policy, cultural transmission]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    indigenous languages,
+    language revitalization,
+    indigenous education,
+    language policy,
+    cultural transmission,
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 7
 featured: false
 category: Culture
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Culture/台灣原住民語言復振運動.md'
 ---
 
 # Taiwan's Indigenous Language Revitalization Movement
@@ -108,7 +116,7 @@ Taiwan's indigenous language revitalization movement has traversed 30 years of d
 - [Indigenous Languages Research and Development Center](https://alilin.apc.gov.tw/) — Indigenous language revitalization policy and research findings
 - [Indigenous E-Learning](https://web.klokah.tw/) — Digital indigenous language learning platform
 - [Indigenous Language Proficiency Certification](https://exam.sce.pccu.edu.tw/Alang/) — Examination information and statistics
-- Li Tai-yuan (2020) *Indigenous Language Revitalization: Policy and Practice*, Qianwei Publishing
-- Huang Mei-jin (2019) *Crisis and Revitalization of Taiwan's Austronesian Languages*, Academia Sinica Institute of Linguistics
+- Li Tai-yuan (2020) _Indigenous Language Revitalization: Policy and Practice_, Qianwei Publishing
+- Huang Mei-jin (2019) _Crisis and Revitalization of Taiwan's Austronesian Languages_, Academia Sinica Institute of Linguistics
 - UNESCO Atlas of the World's Languages in Danger — Global endangered language statistics
-- Chien Yueh-chen (2021) *Tribal Language Nests: Local Practices in Indigenous Language Revitalization*, National Chengchi University Press
+- Chien Yueh-chen (2021) _Tribal Language Nests: Local Practices in Indigenous Language Revitalization_, National Chengchi University Press

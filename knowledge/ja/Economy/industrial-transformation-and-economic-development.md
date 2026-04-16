@@ -10,6 +10,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
 ---
 
 # 島の変容：台湾の産業転換と経済発展の歩み

@@ -3,6 +3,7 @@ title: 'Gastronomía'
 date: 2026-03-17
 tags: [gastronomía, Hub]
 description: 'La gastronomía taiwanesa no es solo un disfrute para el paladar, sino un portador importante de la identidad cultural. Desde el caldo de un tazón de sopa de fideos con carne, se puede saborear la nostalgia de los inmigrantes de provincias externas; desde el método de elaboración de una albóndiga de carne, se puede ver la transmisión de la cultura alimentaria hokkien. La trayectoria de desarrollo de la gastronomía taiwanesa refleja el proceso completo de fusión étnica, desarrollo económico y cambios en el estilo de vida.'
+translatedFrom: 'Food/_Food Hub.md'
 ---
 
 # Gastronomía de Taiwán 🍜

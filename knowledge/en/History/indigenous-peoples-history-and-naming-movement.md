@@ -17,6 +17,7 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
 ---
 
 # Indigenous Peoples' History and Naming Rights Movement
@@ -98,4 +99,3 @@ But naming is only the first step. True equality and respect require everyone's 
 ---
 
 Further Reading:
-

@@ -1,5 +1,5 @@
 ---
-title: "HTC: From Android Pioneer to VR Transformation"
+title: 'HTC: From Android Pioneer to VR Transformation'
 description: "Founded by Cher Wang in 1997, HTC created the world's first Android phone and saw its stock price soar above NT$1,000 in 2011, surpassing Nokia. After smartphone market setbacks, it pivoted to VR in 2015 with VIVE, redefining the virtual reality industry"
 date: 2026-03-20
 tags: [Economy, Business, Technology, VR, Smartphones, Innovation]
@@ -8,10 +8,11 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：宏達電.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > HTC was founded by Cher Wang, Peter Chou, and H.T. Cho in 1997. It manufactured the world's first Android phone and by 2011 reached a market cap exceeding NT$1 trillion, surpassing Nokia. After declining in the increasingly competitive smartphone market, HTC pivoted to VR in 2015, launching HTC VIVE to become one of the world's top three VR platforms. In 2024, with an EPS of NT$7.21, HTC found renewed positioning in the metaverse wave.
 
 ## A Phone That Changed the World

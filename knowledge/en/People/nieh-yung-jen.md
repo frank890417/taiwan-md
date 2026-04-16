@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+translatedFrom: 'People/聶永真.md'
 ---
 
 # Nieh Yung‑jen (聶永真)

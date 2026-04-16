@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 category: 'Society'
 lastVerified: 2026-03-19
+translatedFrom: 'Society/環保與永續發展.md'
 ---
 
 # Environmental Awakening and the Net‑Zero Transition

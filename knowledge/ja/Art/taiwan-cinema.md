@@ -18,6 +18,7 @@ featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 8
+translatedFrom: 'Art/台灣電影.md'
 ---
 
 # 台湾映画――小さな島はいかにして世界の映画言語を書き換えたのか

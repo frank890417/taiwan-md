@@ -11,6 +11,7 @@ tags:
   - 竹の柵
 category: Food
 featured: false
+translatedFrom: 'Food/台灣眷村菜.md'
 ---
 
 # 台湾眷村料理

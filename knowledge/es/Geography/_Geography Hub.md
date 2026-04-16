@@ -3,6 +3,7 @@ title: 'Geografía'
 date: 2026-03-17
 tags: [geografía, Hub]
 description: 'Taiwán tiene un área total de 36.197 kilómetros cuadrados, una línea costera de 1.566,3 kilómetros, situada en la intersección de la placa continental euroasiática y la placa del mar de Filipinas. Su pico más alto, el Monte Jade, tiene una altitud de 3.952 metros, siendo la cuarta isla más alta del mundo. El Trópico de Cáncer atraviesa toda la isla, creando una zona climática completa desde el tropical hasta el alpino frío, nutriendo paisajes geográficos y ecosistemas extremadamente ricos.'
+translatedFrom: 'Geography/_Geography Hub.md'
 ---
 
 # Geografía de Taiwán 🗺️

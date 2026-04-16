@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/郭婞淳.md'
 ---
 
 On July 27, 2021, at Tokyo International Forum, Kuo Hsing-chun dominated the women's 59kg weightlifting final with a snatch of 103kg, clean & jerk of 133kg, and total of 236kg, simultaneously breaking three Olympic records and securing Taiwan's first gold medal of those Olympics. This wasn't a miracle—it was the inevitable result of a young Amis girl's fifteen years of dedicated training.

@@ -17,6 +17,7 @@ readingTime: 14
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
+translatedFrom: 'Lifestyle/台灣交通系統.md'
 ---
 
 # 台湾交通システム：一つの島がどうやって自分を90分に圧縮したのか

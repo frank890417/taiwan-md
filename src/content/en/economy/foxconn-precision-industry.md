@@ -1,17 +1,26 @@
 ---
-title: "Taiwan Corporation: Foxconn Precision Industry"
+title: 'Taiwan Corporation: Foxconn Precision Industry'
 description: "The world's largest electronics manufacturing empire and the hidden champion behind your iPhone"
 date: 2026-03-20
-tags: [Economy, Corporations, Electronics Manufacturing, Contract Manufacturing, Foxconn, Taiwan]
+tags:
+  [
+    Economy,
+    Corporations,
+    Electronics Manufacturing,
+    Contract Manufacturing,
+    Foxconn,
+    Taiwan,
+  ]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：鴻海精密.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Foxconn (formally Hon Hai Precision Industry) is the world's largest electronics contract manufacturer, commanding over 40% market share and producing devices for Apple, Tesla, Sony, and other global brands. Founded in 1974 with just NT$100,000 (about $3,000 USD) by Terry Gou, this Taiwanese company has grown from a small plastic factory into a manufacturing empire generating over NT$8 trillion in annual revenue with nearly one million employees worldwide. Foxconn represents the pinnacle of "Made in Taiwan" and serves as the critical hub of the global consumer electronics supply chain.
 
 ## Why It Matters
@@ -33,22 +42,26 @@ The group operates across four main sectors: consumer electronics, cloud network
 ## Key Facts (By the Numbers)
 
 **Operational Scale**:
+
 - 2025 Revenue: NT$8.09 trillion (approx. $250 billion USD), up 8.9% year-over-year—first time breaking NT$8 trillion (TechNews, January 5, 2026)
 - Global electronics manufacturing market share: Over 40%, far ahead of competitors
 - Employee count: Approximately 900,000 worldwide (seasonal peaks)
 - Production bases: 24 countries across Asia, Americas, and Europe
 
 **Client Portfolio**:
+
 - Apple (largest client): Over 50% of revenue
 - Other major clients include Tesla, Sony, Nintendo, Amazon, Google
 - Cloud networking products emerged as 2025's largest growth driver
 
 **Production Capacity**:
+
 - Shenzhen Longhua campus dubbed "iPhone City" houses up to 350,000 workers at peak
 - Zhengzhou campus can produce 100 million iPhones annually
 - Over 200 factories globally
 
 **Financial Performance**:
+
 - Gross margin: 6-8% (contract manufacturing characteristic—emphasizes turnover over margin)
 - 2025 estimated net profit: Approximately NT$150 billion ($4.6 billion USD)
 - Cash and equivalents: Over NT$1.5 trillion ($46 billion USD)

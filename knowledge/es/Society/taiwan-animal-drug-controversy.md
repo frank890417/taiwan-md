@@ -19,6 +19,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 18
 featured: false
 lastVerified: 2026-04-11
+translatedFrom: 'Society/台灣動物用藥爭議.md'
 ---
 
 # La controversia sobre los medicamentos de uso animal en Taiwán

@@ -6,6 +6,7 @@ tags: ['art', 'contemporary', 'culture', 'museums']
 author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
+translatedFrom: 'Art/當代藝術.md'
 ---
 
 # Taiwan Contemporary Art

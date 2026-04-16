@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [music, rock, taiwanese-language, chiayi, guitar, live-performance]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'People/伍佰.md'
 ---
 
 # Wu Bai — The Soul of Taiwanese‑Language Rock

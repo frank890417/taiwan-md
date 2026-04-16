@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
 ---
 
 # Taiwan’s Labeling in International Standards

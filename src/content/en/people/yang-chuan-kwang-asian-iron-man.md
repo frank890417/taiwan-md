@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['sports', 'athletics', 'Olympics', 'decathlon', 'indigenous', 'Amis']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/楊傳廣.md'
 ---
 
 # Yang Chuan-Kwang: The Asian Iron Man

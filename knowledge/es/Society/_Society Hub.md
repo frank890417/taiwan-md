@@ -3,6 +3,7 @@ title: 'Sociedad'
 date: 2026-03-17
 tags: [sociedad, Hub]
 description: "Taiwán ocupa el puesto 12 global y el primero en Asia en el Índice de Democracia de The Economist, siendo el único país de 'democracia completa' en Asia. En 2019 se convirtió en el primer país de Asia en legalizar el matrimonio entre personas del mismo sexo, liderando Asia en protección de derechos humanos, igualdad de género y tecnología cívica. Desde la transición del autoritarismo a la democracia, estableciendo una sociedad civil activa, proporciona un modelo importante para la democratización del mundo de habla china."
+translatedFrom: 'Society/_Society Hub.md'
 ---
 
 # Sociedad de Taiwán 🏛️
@@ -93,7 +94,7 @@ La historia de la sociedad taiwanesa continúa escribiéndose, pero ya ha dejado
 Cuando cae la noche, los [[mercados nocturnos]] de varios lugares de Taiwán están brillantemente iluminados, cuando personas de diferentes grupos étnicos, diferentes edades, diferentes orígenes se reúnen para degustar gastronomía y disfrutar de la vida, lo que vemos es la apariencia más hermosa de una sociedad: diversa pero armoniosa, libre pero ordenada, progresista pero inclusiva. Este es el valor más precioso de la sociedad taiwanesa, y también el mejor regalo que da al mundo.
 
 ![Desfile por la Igualdad en el Matrimonio](/images/wiki/76b17af8726c.jpg)
-_Fuente de la imagen: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taiwan_Pride_2016_DSC_0652_(30457071235).jpg>) | CC BY 2.0 | Fotógrafo: Abby Chen_
+_Fuente de la imagen: [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Taiwan_Pride_2016_DSC_0652_(30457071235).jpg>) | CC BY 2.0 | Fotógrafo: Abby Chen\_
 
 ## Lectura Adicional
 

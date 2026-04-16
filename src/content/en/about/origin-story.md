@@ -6,6 +6,7 @@ tags: ['about', 'origin', 'taiwan-md']
 author: 'Taiwan.md'
 readingTime: 4
 featured: true
+translatedFrom: 'About/緣起故事.md'
 ---
 
 # Taiwan.md Origin Story

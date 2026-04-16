@@ -8,6 +8,7 @@ readingTime: 12
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣搖滾樂發展史.md'
 ---
 
 # Taiwan Rock: From Underground Rebellion to Mainstream

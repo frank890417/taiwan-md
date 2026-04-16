@@ -1,14 +1,23 @@
 ---
-title: "Taiwan Transportation Network"
+title: 'Taiwan Transportation Network'
 description: "High-speed rail, metro, highways, and aviation weaving Taiwan's three-dimensional transportation web"
 date: 2026-03-20
-tags: ["transportation", "high-speed rail", "metro", "highways", "aviation", "ports"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'transportation',
+    'high-speed rail',
+    'metro',
+    'highways',
+    'aviation',
+    'ports',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Geography/台灣交通運輸網絡.md'
 ---
 
 # Taiwan Transportation Network

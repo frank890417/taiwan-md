@@ -9,6 +9,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'People/施振榮.md'
 ---
 
 > **30-Second Overview:** Acer founder Stan Shih is Taiwan's only business patriarch who openly admits to losing over 100 billion TWD,

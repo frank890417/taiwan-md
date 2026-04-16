@@ -7,6 +7,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 10
 featured: false
+translatedFrom: 'Food/台灣小吃.md'
 ---
 
 # Comida Callejera Taiwanesa

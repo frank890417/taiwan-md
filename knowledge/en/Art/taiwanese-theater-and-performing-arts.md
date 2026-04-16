@@ -13,6 +13,7 @@ description: How a 26-year-old literature student created the Chinese-speaking w
 date: 2026-03-22
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Art/台灣劇場與表演藝術.md'
 ---
 
 # Taiwan Theater and Performing Arts: How a Small Island Shook the World Stage

@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+translatedFrom: 'People/張明正.md'
 ---
 
 # Steve Chang: Taiwan’s cybersecurity pathfinder

@@ -4,6 +4,15 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 import rehypeExternalLinks from 'rehype-external-links';
 import remarkWikilinks from './plugins/remark-wikilinks.mjs';
+import {
+  ENABLED_LANGUAGE_CODES,
+  DEFAULT_LANGUAGE,
+} from './src/config/languages.mjs';
+
+// Build sitemap i18n locales map: { 'zh-TW': 'zh-TW', en: 'en', ... }
+const sitemapLocales = Object.fromEntries(
+  ENABLED_LANGUAGE_CODES.map((code) => [code, code]),
+);
 
 export default defineConfig({
   site: 'https://taiwan.md',
@@ -18,19 +27,14 @@ export default defineConfig({
         'https://taiwan.md/en?changefreq=daily&priority=1.0',
       ],
       i18n: {
-        defaultLocale: 'zh-TW',
-        locales: {
-          'zh-TW': 'zh-TW',
-          en: 'en',
-          ja: 'ja',
-          ko: 'ko',
-        },
+        defaultLocale: DEFAULT_LANGUAGE.code,
+        locales: sitemapLocales,
       },
     }),
   ],
   i18n: {
-    defaultLocale: 'zh-TW',
-    locales: ['zh-TW', 'en', 'ja', 'ko'],
+    defaultLocale: DEFAULT_LANGUAGE.code,
+    locales: [...ENABLED_LANGUAGE_CODES],
     routing: {
       prefixDefaultLocale: false,
     },

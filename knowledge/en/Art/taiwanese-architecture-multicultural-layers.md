@@ -1,11 +1,12 @@
 ---
-title: "Taiwanese Architecture: Multicultural Layers"
+title: 'Taiwanese Architecture: Multicultural Layers'
 category: Art
 tags: [architecture, culture, history]
 date: 2026-03-18
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Art/台灣建築.md'
 ---
 
 # Taiwanese Architecture: Multicultural Layers

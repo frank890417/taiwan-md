@@ -21,6 +21,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'People/麟洋配.md'
 ---
 
 # 王齊麟と李洋（麟洋ペア）

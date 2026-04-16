@@ -3,12 +3,13 @@ title: "Taiwan's 16 Indigenous Peoples: A Cultural Map"
 description: "Explore the distribution, languages, ceremonial traditions, and contemporary artistic developments of Taiwan's 16 officially recognized indigenous peoples, revealing the diverse cultural landscape of Taiwan's First Nations"
 date: 2026-03-20
 tags: [indigenous peoples, culture, ceremonies, languages, contemporary art]
-author: "Taiwan.md Contributors"
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 category: Culture
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
 ---
 
 # Taiwan's 16 Indigenous Peoples: A Cultural Map
@@ -24,6 +25,7 @@ Taiwan's indigenous peoples are broadly categorized into two groups: Plains peop
 The current indigenous population is approximately 580,000 (2024 census), with the Amis (阿美族) being the largest group at around 210,000, followed by the Paiwan (排灣族) with 100,000 and Atayal (泰雅族) with 90,000. Smaller populations include the Saisiyat (賽夏族) with about 7,000 and Thao (邵族) with around 800.
 
 **Geographic Distribution of the 16 Peoples:**
+
 - **Northern Taiwan**: Atayal (Taoyuan, Hsinchu mountains), Saisiyat (Hsinchu-Miaoli border)
 - **Central Taiwan**: Bunun (Nantou mountains), Thao (Sun Moon Lake area)
 - **Southern Taiwan**: Paiwan (Pingtung, Taitung), Rukai (Pingtung, Kaohsiung mountains)
@@ -101,7 +103,7 @@ Indigenous cultures represent precious cultural assets of Taiwan. In our globali
 - [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Official statistics and policy information
 - [Indigenous Historical Justice and Transitional Justice Commission](https://ihc.apc.gov.tw/) — Cultural preservation and research findings
 - [Taiwan Indigenous Peoples' Information Network](http://www.tipp.org.tw/) — Tribal distribution and basic information
-- Huang Mei-ying (2018) *Taiwan Indigenous Peoples Development History*, Wunan Publishing
-- Pu Zhong-cheng (2019) *Indigenous Language Policy and Revitalization*, National Taiwan Normal University Press
+- Huang Mei-ying (2018) _Taiwan Indigenous Peoples Development History_, Wunan Publishing
+- Pu Zhong-cheng (2019) _Indigenous Language Policy and Revitalization_, National Taiwan Normal University Press
 - [Indigenous E-Learning](https://web.klokah.tw/) — Online indigenous language platform
 - [Taiwan Indigenous Peoples' Cultural Development Center](https://www.tacp.gov.tw/) — Contemporary indigenous art information

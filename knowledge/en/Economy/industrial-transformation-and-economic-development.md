@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
 ---
 
 # Island's Metamorphosis: Taiwan's Industrial Transformation and Economic Development Trajectory

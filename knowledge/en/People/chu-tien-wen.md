@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Literature'
 lastVerified: 2026-03-19
+translatedFrom: 'People/朱天文.md'
 ---
 
 # Chu Tien-wen: Where Literature and Cinema Become One

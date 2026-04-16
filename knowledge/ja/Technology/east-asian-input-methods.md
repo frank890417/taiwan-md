@@ -21,6 +21,7 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Technology/東亞文字輸入法.md'
 ---
 
 # キーボード上の文明衝突――東アジア文字入力法の百年史

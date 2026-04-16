@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Culture/台灣茶文化.md'
 ---
 
 # Taiwanese Tea Culture and Living Aesthetics

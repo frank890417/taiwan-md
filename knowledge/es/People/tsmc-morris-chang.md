@@ -7,6 +7,7 @@ tags:
 author: 'Colaboradores de Taiwan.md'
 readingTime: 18
 featured: true
+translatedFrom: 'People/張忠謀.md'
 ---
 
 # Morris Chang — Arquitecto del escudo de silicio de Taiwán

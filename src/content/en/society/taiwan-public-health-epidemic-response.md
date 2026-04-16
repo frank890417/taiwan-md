@@ -18,6 +18,7 @@ featured: false
 readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
+translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
 ---
 
 > **30-Second Overview:** SARS killed 73 people in Taiwan in 2003. The Heping Hospital lockdown became a defining collective trauma in the country's public health history. In the aftermath, Taiwan rebuilt its entire epidemic response infrastructure: the Taiwan Centers for Disease Control (Taiwan CDC) was elevated in authority, the Central Epidemic Command Center (CECC) was codified into law, and infection control protocols were overhauled from the ground up. When COVID-19 went global in 2020, Taiwan maintained near-zero community transmission for the first 18 months -- a feat the international community called the "Taiwan Model." In April 2026, Taiwan confirmed its first domestically acquired H7N7 avian influenza case in a human -- putting the system to the test once again.

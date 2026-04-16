@@ -8,6 +8,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 8
 featured: false
+translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
 ---
 
 # Seguro Nacional de Salud

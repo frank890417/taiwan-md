@@ -2,7 +2,15 @@
 title: 'タピオカミルクティー'
 description: '1987年、台中の社員会議でのひとつの偶然が、一杯の飲み物を世界へ届けた。タピオカミルクティーの発祥をめぐる論争、文化的な意味、そして500kcalをめぐる健康議論。'
 date: 2026-03-30
-tags: [グルメ, タピオカミルクティー, 手作りドリンク, グローバル化, ソフトパワー, 文化外交]
+tags:
+  [
+    グルメ,
+    タピオカミルクティー,
+    手作りドリンク,
+    グローバル化,
+    ソフトパワー,
+    文化外交,
+  ]
 subcategory: '飲み物文化'
 featured: true
 lastVerified: 2026-03-30
@@ -11,6 +19,7 @@ author: 'Taiwan.md Translation Team'
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: 'タピオカミルクティー'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/珍珠奶茶.md'
 ---
 
 # タピオカミルクティー

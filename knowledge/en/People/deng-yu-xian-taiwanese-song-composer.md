@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-20
+translatedFrom: 'People/鄧雨賢.md'
 ---
 
 # Deng Yu-xian: The Founding Father of Taiwanese Songs

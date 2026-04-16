@@ -1,13 +1,21 @@
 ---
-title: "Taiwan Enterprise: ASE Semiconductor"
+title: 'Taiwan Enterprise: ASE Semiconductor'
 description: "World's largest assembly and testing company - why did a construction company boss pivot to semiconductors?"
 date: 2026-03-21
-tags: [Economy, Enterprises, Semiconductor, Assembly and Testing, Tech Manufacturing]
+tags:
+  [
+    Economy,
+    Enterprises,
+    Semiconductor,
+    Assembly and Testing,
+    Tech Manufacturing,
+  ]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：日月光半導體.md'
 ---
 
 > **30-Second Overview:** In 1984, Zhang Yao Hong-ying and her two sons, coming from a construction background, made a bold cross-industry move into semiconductor assembly and testing, founding ASE. After 40 years, it became the world's largest OSAT (Outsourced Semiconductor Assembly and Test) company, with 2024 revenues of $10.1 billion and nearly 45% global market share. Every iPhone, every laptop likely uses ASE's technology—it's the hidden champion that helps chips "get dressed" and receive "health checkups."
@@ -19,6 +27,7 @@ In 1983, Jason C.S. Chang, a National Taiwan University electrical engineering g
 That year, he hired a group of Wall Street consultants to evaluate new business investment opportunities. More than a year later, Chang decided to convince his family to shift funds from real estate to the semiconductor assembly business.
 
 Why assembly? Chang's judgment was astute:
+
 1. **Lower technical barriers** — Being downstream in the industry chain meant lower risk
 2. **Labor-intensive** — Philips and Texas Instruments had already established factories in Taiwan, proving feasibility
 3. **Large market potential** — Every chip needs packaging, it's a necessary process
@@ -44,22 +53,26 @@ Facts proved this judgment correct. The integrated "assembly + testing" service 
 ## Numbers Tell the Story: How Strong Is Being Global Number One?
 
 **2024 Global OSAT Market Rankings:**
+
 1. ASE: $10.1 billion, 45% market share
 2. Amkor: $6.3 billion
 3. JCET (China): ~$3.0 billion
 
 **Operational Scale:**
+
 - Global employees: 91,568 (2024)
 - Production sites: 30 facilities across 13 countries
 - Annual capacity: Over 20 billion chips
 - Patent portfolio: Over 15,000 patents
 
 **Technical Capabilities:**
+
 - Advanced packaging revenue share: 43% (including Bump/FC/WLP/SiP)
 - Traditional wire bonding: 30%
 - End applications: Communications 52%, Automotive/Consumer 30%, Computing 18%
 
 **Comparison with other Taiwan enterprises:**
+
 - TSMC: ~54% global foundry market share
 - MediaTek: ~37% global smartphone chip market
 - ASE: 45% global OSAT market share
@@ -73,6 +86,7 @@ Despite being globally number one, why isn't ASE as famous as TSMC? The answer l
 TSMC does "wafer manufacturing," the most critical and technically demanding part of the semiconductor industry, naturally attracting attention. ASE does "assembly and testing," which is downstream with relatively lower technical barriers, receiving less media coverage.
 
 But this doesn't mean ASE isn't important. Every chip coming out of TSMC needs "processing" by OSAT companies like ASE:
+
 1. **Assembly**: Packaging bare chips to protect them from external damage
 2. **Testing**: Checking that each chip functions properly
 3. **System-in-Package (SiP)**: Integrating multiple chips into one module
@@ -84,6 +98,7 @@ Without ASE, your iPhone, even with the most powerful chips, wouldn't function p
 ASE's success largely stems from its **global manufacturing network**.
 
 **Asian Locations:**
+
 - Taiwan: Kaohsiung, Chungli (R&D headquarters + high-end manufacturing)
 - China: Kunshan, Shanghai, Weihai (cost-oriented manufacturing)
 - South Korea: Seoul (test technology center)
@@ -91,6 +106,7 @@ ASE's success largely stems from its **global manufacturing network**.
 - Japan: Gunma (system-in-package)
 
 This layout offers three major advantages:
+
 1. **Proximity to customers**: Factories where customers are located
 2. **Cost optimization**: High-tech in Taiwan, mass production in China
 3. **Risk diversification**: If one location has issues, other facilities can provide support

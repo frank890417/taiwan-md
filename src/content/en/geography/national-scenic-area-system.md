@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 13
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Geography/台灣國家風景區系統.md'
 ---
 
 # National Scenic Area System

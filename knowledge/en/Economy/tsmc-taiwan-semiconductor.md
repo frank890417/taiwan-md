@@ -1,6 +1,6 @@
 ---
 title: "TSMC: The Factory the World Can't Live Without"
-description: "A 56-year-old man founded a company built on an idea nobody believed in. It now manufactures the chips inside every iPhone, every AI server, and every geopolitical argument about Taiwan."
+description: 'A 56-year-old man founded a company built on an idea nobody believed in. It now manufactures the chips inside every iPhone, every AI server, and every geopolitical argument about Taiwan.'
 date: 2026-03-25
 tags: [Economy, Business, Semiconductors, Technology, Manufacturing, TSMC]
 category: Economy
@@ -9,6 +9,7 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台積電.md'
 ---
 
 > **30-Second Overview**
@@ -41,13 +42,13 @@ Then AI arrived.
 
 ## The Numbers
 
-| Metric | Figure | Source |
-|--------|--------|--------|
-| 2025 Revenue | $122 billion (~30% YoY growth) | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
-| Advanced process market share | 90%+ (3nm) | TSMC 2025 Annual Report |
-| Global foundry market share | ~54% | TrendForce 2025 Q4 |
-| Market cap (March 2026) | ~$1.76 trillion (world #6) | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/) |
-| 2026 CapEx budget | $56 billion (+25% YoY) | [UDN](https://money.udn.com/money/story/5612/9283226) |
+| Metric                        | Figure                         | Source                                                                                                         |
+| ----------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| 2025 Revenue                  | $122 billion (~30% YoY growth) | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
+| Advanced process market share | 90%+ (3nm)                     | TSMC 2025 Annual Report                                                                                        |
+| Global foundry market share   | ~54%                           | TrendForce 2025 Q4                                                                                             |
+| Market cap (March 2026)       | ~$1.76 trillion (world #6)     | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/)                                           |
+| 2026 CapEx budget             | $56 billion (+25% YoY)         | [UDN](https://money.udn.com/money/story/5612/9283226)                                                          |
 
 At TSMC's January 2026 earnings call, C.C. Wei said: "AI looks like it's endless demand" ([UDN](https://money.udn.com/money/story/5612/9283226)).
 

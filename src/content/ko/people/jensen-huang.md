@@ -9,6 +9,7 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-07
 lastHumanReview: '2026-04-07'
+translatedFrom: 'People/黃仁勳.md'
 ---
 
 # 황런쉰(黃仁勳) / 젠슨 황(Jensen Huang)

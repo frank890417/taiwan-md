@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['theatre', 'comedy', 'Ping-Fong', 'Taiwanese drama', 'playwright']
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+translatedFrom: 'People/李國修.md'
 ---
 
 # Li Guoxiu (李國修): Taiwan’s King of Comedy Theatre

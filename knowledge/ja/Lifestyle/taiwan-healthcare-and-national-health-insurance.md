@@ -19,6 +19,7 @@ featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
 author: 'Taiwan.md Translation Team'
+translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
 ---
 
 # 台湾の医療と全民健康保険

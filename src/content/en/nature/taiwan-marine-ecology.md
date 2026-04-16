@@ -2,10 +2,23 @@
 title: 'Taiwan Marine Ecology'
 description: 'Ancient Tao wisdom meets modern marine crisis: How traditional taboos once protected oceans now bleaching under rising temperatures and underwater noise'
 date: 2026-03-23
-tags: [marine ecology, Kuroshio, coral bleaching, pink dolphins, flying fish season, Tao people, marine conservation, offshore wind, climate change, marine science]
+tags:
+  [
+    marine ecology,
+    Kuroshio,
+    coral bleaching,
+    pink dolphins,
+    flying fish season,
+    Tao people,
+    marine conservation,
+    offshore wind,
+    climate change,
+    marine science,
+  ]
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Nature/台灣海洋生態.md'
 ---
 
 # Taiwan Marine Ecology
@@ -26,6 +39,7 @@ Taiwan is not just an island—it's the most critical marine biodiversity hotspo
 The Kuroshio Current is the western Pacific's most powerful warm current system, flowing at up to 5 km/hour with a volume equivalent to 200 Yangtze Rivers combined. Flowing northward from the southeastern Philippines along Taiwan's east coast, it brings not just warm water but the foundation of the entire ecosystem.
 
 **Kuroshio's Ecological Contributions:**
+
 - **Climate Regulator**: Keeps Taiwan 2-3°C warmer than same-latitude regions in winter
 - **Nutrient Conveyor**: Delivers approximately 3.5 million tons of fish resources annually
 - **Migration Corridor**: Critical pathway for tuna, marlin, and cetaceans
@@ -54,6 +68,7 @@ Taiwan's coral reefs distributed around Kenting, Green Island, Lanyu, and Xiaoli
 Xiaoliuqiu, Taiwan's only coral reef island, suffered another devastating blow in 2024. Diving instructor Su Huai recorded heartbreaking footage: from branching Acropora to massive Porites corals, even soft corals—none were spared. More cruelly, corals that survived 2020's bleaching hadn't fully recovered before facing another life-or-death trial in 2024.
 
 **Dongsha Atoll's Double Blow:**
+
 - 1998 El Niño: 90% coral bleaching mortality
 - 2024: After 20+ years of recovery, facing high temperature stress again
 - Additional threat: Crown-of-thorns starfish outbreak, consuming 357-478 sq cm of coral daily
@@ -73,12 +88,12 @@ These dolphins inhabit a 763-square-kilometer area along Taiwan's west coast fro
 
 Taiwan's white dolphins face threats forming a "perfect storm":
 
-| Threat Type | Specific Impact |
-|------------|-----------------|
-| **Underwater Noise** | Offshore wind construction, vessel traffic disrupting sonar navigation |
-| **Habitat Destruction** | Coastal development, land reclamation compressing living space |
-| **Fishing Activities** | Net entanglement, accidental capture causing death |
-| **Water Pollution** | Industrial discharge, agricultural runoff |
+| Threat Type             | Specific Impact                                                        |
+| ----------------------- | ---------------------------------------------------------------------- |
+| **Underwater Noise**    | Offshore wind construction, vessel traffic disrupting sonar navigation |
+| **Habitat Destruction** | Coastal development, land reclamation compressing living space         |
+| **Fishing Activities**  | Net entanglement, accidental capture causing death                     |
+| **Water Pollution**     | Industrial discharge, agricultural runoff                              |
 
 **Ironically, offshore wind farms built to combat climate change may be accelerating Taiwan white dolphins' extinction.**
 
@@ -89,6 +104,7 @@ Taiwan's white dolphins face threats forming a "perfect storm":
 On Lanyu Island, the Tao people have followed complex marine taboo systems for millennia. These seemingly superstitious rules actually constitute a sophisticated ecological management system:
 
 **Flying Fish Season Timing (Rayon):**
+
 - **Fish-Calling Season** (March-April): Flying fish migration arrival
 - **Harvest Season** (April-June): Intensive catching allowed
 - **Final Consumption** (July-September): Eating previously dried flying fish
@@ -105,6 +121,7 @@ The Tao classify fish into "good fish" (oyad, women's fish) and "bad fish" (rahe
 Tao flying fish culture originates from the "Black-Winged Flying Fish" legend. According to tradition, the flying fish chief taught the Tao people that different flying fish species require different catching methods and consumption rules, with strict regulations even for butchering techniques.
 
 **Modern science confirms these traditional wisdoms' correctness:**
+
 - Flying fish cannot be cooked with other fish or shellfish (prevents uneven cooking)
 - Separate raw and cooked food handling (prevents cross-contamination)
 - Flying fish eyes and bile consumed raw (preserves nutritional value)
@@ -119,6 +136,7 @@ Tao flying fish culture originates from the "Black-Winged Flying Fish" legend. A
 2024 is called the "global year of coral bleaching" by marine scientists. The U.S. National Oceanic and Atmospheric Administration (NOAA) added three new coral bleaching alert levels this year, expanding from five to eight levels—meaning existing warning systems can no longer cope with rapidly deteriorating marine environments.
 
 **Taiwan Waters' Alert Status:**
+
 - Southern waters (Kenting, Xiaoliuqiu, Dongsha): Level 2 alert
 - Northern waters: Level 1 alert
 - Water temperatures reaching coral bleaching threshold: 30°C+ for several weeks
@@ -128,11 +146,13 @@ Tao flying fish culture originates from the "Black-Winged Flying Fish" legend. A
 High temperatures weaken corals, but the real deadly threats come from biological invaders:
 
 **White Snail Outbreak:**
+
 - Gastropods specializing in eating coral surface tissue
 - At 30°C water temperature, consuming 1.3 sq cm of live coral daily
 - 4.3 times their feeding rate at 18°C water temperature
 
 **Crown-of-Thorns Starfish Disaster:**
+
 - Adults consuming 357-478 sq cm of coral daily
 - Releasing nearly 300 million eggs annually
 - Even with only 1% survival rate, over a million juveniles result
@@ -161,11 +181,13 @@ Offshore wind's most controversial impact involves threats to humpback dolphins.
 **Positive Impacts vs. Negative Consequences:**
 
 ✅ **Potential Benefits:**
+
 - Artificial reef effect: turbine foundations attract fish aggregation
 - No-fishing zone effect: reduces trawling disturbance
 - Carbon emission reduction: long-term marine environment improvement
 
 ❌ **Confirmed Harms:**
+
 - Construction noise causing acoustic trauma to cetaceans
 - Bird migration route disruption
 - Ocean current pattern changes
@@ -180,11 +202,13 @@ Offshore wind's most controversial impact involves threats to humpback dolphins.
 Taiwan's marine research holds important international standing, particularly in coral reef ecology and Kuroshio studies:
 
 **Major Research Institutions:**
+
 - Academia Sinica Biodiversity Research Center: coral bleaching mechanisms
 - National Museum of Marine Science & Technology: marine education outreach
 - National Sun Yat-sen University Marine Science College: Kuroshio physical properties
 
 **Breakthrough Discoveries:**
+
 - Molecular mechanisms of coral high-temperature adaptation
 - Kuroshio pathway changes' climate impacts
 - Ocean acidification effects on shell-forming organisms
@@ -194,11 +218,13 @@ Taiwan's marine research holds important international standing, particularly in
 Taiwan developed unique "citizen science" marine conservation models:
 
 **Reef Check Taiwan:**
+
 - Volunteer divers conducting underwater ecological surveys
 - Building long-term monitoring databases
 - Early detection of ecological changes
 
 **Cetacean Sighting Network:**
+
 - Fishermen and crew reporting real-time cetacean locations
 - Creating marine mammal distribution maps
 - Helping vessels avoid sensitive areas
@@ -210,11 +236,13 @@ Taiwan developed unique "citizen science" marine conservation models:
 Taiwan marine conservation developed unique "community participation" models, combining traditional ecological knowledge with modern scientific management:
 
 **Success Stories:**
+
 - Xiaoliuqiu green turtle conservation: from tourism threat to conservation model
 - Lanyu flying fish culture revival: combining eco-tourism with cultural preservation
 - Penghu stone weir restoration: ancient fishing methods' modern value
 
 **Challenges and Limitations:**
+
 - Economic development vs. conservation conflicts
 - Central policy vs. local needs gaps
 - Climate change exceeding local conservation capacity
@@ -223,11 +251,11 @@ Taiwan marine conservation developed unique "community participation" models, co
 
 Taiwan's marine protected area system covers different levels:
 
-| Protected Area Type | Area (km²) | Main Conservation Targets |
-|-------------------|-----------|--------------------------|
-| **Dongsha Atoll National Park** | 3,537 | Atoll ecosystems, coral reefs |
-| **South Penghu Marine National Park** | 1,359 | Basalt geology, marine life |
-| **Green Island Marine Biology Reserve** | 15 | Reef fish species |
+| Protected Area Type                     | Area (km²) | Main Conservation Targets     |
+| --------------------------------------- | ---------- | ----------------------------- |
+| **Dongsha Atoll National Park**         | 3,537      | Atoll ecosystems, coral reefs |
+| **South Penghu Marine National Park**   | 1,359      | Basalt geology, marine life   |
+| **Green Island Marine Biology Reserve** | 15         | Reef fish species             |
 
 But protected area designation is only the first step. The greater challenge is maintaining these areas' ecological functions under climate change impacts.
 

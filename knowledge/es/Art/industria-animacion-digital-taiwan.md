@@ -1,9 +1,17 @@
 ---
-title: "La Industria de Animación Digital e Imagen de Taiwán"
-description: "Desde estudios de efectos visuales que han marcado un hito hasta películas animadas aclamadas internacionalmente, Taiwán se ha convertido silenciosamente en uno de los centros más importantes de Asia para la animación digital y la narración visual."
-date: "2024-01-15"
-tags: ["animación", "arte digital", "industria cinematográfica", "tecnología", "economía creativa"]
-status: "completo"
+title: 'La Industria de Animación Digital e Imagen de Taiwán'
+description: 'Desde estudios de efectos visuales que han marcado un hito hasta películas animadas aclamadas internacionalmente, Taiwán se ha convertido silenciosamente en uno de los centros más importantes de Asia para la animación digital y la narración visual.'
+date: '2024-01-15'
+tags:
+  [
+    'animación',
+    'arte digital',
+    'industria cinematográfica',
+    'tecnología',
+    'economía creativa',
+  ]
+status: 'completo'
+translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 ---
 
 ## Una Potencia Creativa en Asia Oriental
@@ -16,7 +24,7 @@ El público internacional puede no darse cuenta siempre, pero los impresionantes
 
 ### La Era de la Animación Dibujada a Mano
 
-La historia comienza en los años setenta y principios de los ochenta, cuando los estudios cinematográficos taiwaneses comenzaron a atraer trabajo de animación subcontratado de estudios estadounidenses y japoneses. Compañías como **Wang Film Productions** — fundada en 1978 por James Wang — se convirtieron en socios de producción esenciales para los grandes estudios occidentales. En su apogeo, Wang Film producía animación para *He-Man and the Masters of the Universe*, *Fraggle Rock* y docenas de otras queridas series de televisión estadounidenses.
+La historia comienza en los años setenta y principios de los ochenta, cuando los estudios cinematográficos taiwaneses comenzaron a atraer trabajo de animación subcontratado de estudios estadounidenses y japoneses. Compañías como **Wang Film Productions** — fundada en 1978 por James Wang — se convirtieron en socios de producción esenciales para los grandes estudios occidentales. En su apogeo, Wang Film producía animación para _He-Man and the Masters of the Universe_, _Fraggle Rock_ y docenas de otras queridas series de televisión estadounidenses.
 
 Esta era fue crucial no solo por la actividad económica que generó, sino por el conocimiento institucional que creó. Miles de animadores taiwaneses aprendieron el riguroso oficio de la animación profesional a través de estas asociaciones internacionales. Absorbieron estándares de la industria, desarrollaron procesos de producción sistemáticos y construyeron la infraestructura organizacional que más tarde apoyaría la transición a técnicas digitales.
 
@@ -30,11 +38,11 @@ El gobierno desempeñó un papel de apoyo a través de la promoción de industri
 
 ### Ang Lee y el Cambio de Percepción
 
-Cuando *Tigre y Dragón* de Ang Lee ganó el Oscar a la Mejor Fotografía en 2001, fue un momento de inflexión para el cine taiwanés a nivel internacional. De manera más significativa para la industria de animación y efectos, las películas posteriores de Lee demostraron las capacidades visuales de primer nivel disponibles en Taiwán. Su adaptación de 2012 de *Life of Pi*, producida con amplia participación de artistas de efectos visuales taiwaneses, obtuvo el Oscar a los Mejores Efectos Visuales — una validación directa de la fuerza laboral técnica de la isla.
+Cuando _Tigre y Dragón_ de Ang Lee ganó el Oscar a la Mejor Fotografía en 2001, fue un momento de inflexión para el cine taiwanés a nivel internacional. De manera más significativa para la industria de animación y efectos, las películas posteriores de Lee demostraron las capacidades visuales de primer nivel disponibles en Taiwán. Su adaptación de 2012 de _Life of Pi_, producida con amplia participación de artistas de efectos visuales taiwaneses, obtuvo el Oscar a los Mejores Efectos Visuales — una validación directa de la fuerza laboral técnica de la isla.
 
 ### "On Happiness Road" y la Narración Animada
 
-El largometraje animado de 2017 **《幸福路上》** (*En el camino de la felicidad*), dirigido por Sung Hsin-yin, se convirtió en una de las películas animadas taiwanesas más aclamadas internacionalmente en la memoria reciente. La película — que sigue a una joven que regresa de Estados Unidos para asistir al funeral de su abuela y reflexiona sobre las rápidas transformaciones sociales de la sociedad taiwanesa — se proyectó en más de 40 festivales internacionales de cine.
+El largometraje animado de 2017 **《幸福路上》** (_En el camino de la felicidad_), dirigido por Sung Hsin-yin, se convirtió en una de las películas animadas taiwanesas más aclamadas internacionalmente en la memoria reciente. La película — que sigue a una joven que regresa de Estados Unidos para asistir al funeral de su abuela y reflexiona sobre las rápidas transformaciones sociales de la sociedad taiwanesa — se proyectó en más de 40 festivales internacionales de cine.
 
 La estética de la película se inspiró deliberadamente en el vocabulario visual de la pintura tradicional de tinta y la ilustración popular, fusionando estas formas heredadas con técnicas de animación contemporáneas. Esta síntesis — que honra la herencia cultural mientras persigue la modernidad técnica — representa una característica definitoria de las obras animadas más celebradas de Taiwán.
 
@@ -50,7 +58,7 @@ La ventaja competitiva es clara: una fuerza laboral técnica altamente educada, 
 
 ## Videojuegos: El Universo Adyacente de la Animación
 
-La industria de videojuegos de Taiwán — que alberga compañías como **HTC** (con su enfoque en realidad virtual), **Rayark** (creadora de las aclamadas series *Cytus* y *Deemo*) y docenas de estudios independientes — ha sido un poderoso motor paralelo del ecosistema de animación y arte digital.
+La industria de videojuegos de Taiwán — que alberga compañías como **HTC** (con su enfoque en realidad virtual), **Rayark** (creadora de las aclamadas series _Cytus_ y _Deemo_) y docenas de estudios independientes — ha sido un poderoso motor paralelo del ecosistema de animación y arte digital.
 
 Las habilidades requeridas para el arte de juegos de alta calidad — rigging de personajes, modelado de entornos, trabajo de texturas, animación procedural — se superponen sustancialmente con las de las industrias de animación cinematográfica y de transmisión. Muchos artistas taiwaneses se mueven fluidamente entre la producción de juegos y el trabajo cinematográfico/de animación a lo largo de sus carreras.
 

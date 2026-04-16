@@ -8,6 +8,7 @@ author: 'Taiwan.md'
 readingTime: 6
 category: 'People'
 lastVerified: 2026-03-22
+translatedFrom: 'People/吳寶春.md'
 ---
 
 # Wu Pao-chun: From Rural Pingtung to World Bread Champion

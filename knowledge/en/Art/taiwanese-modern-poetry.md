@@ -1,10 +1,24 @@
 ---
 title: "Modern Taiwanese Poetry: The Island's Lyricism"
 category: Art
-tags: [Literature, Poetry, Modern Poetry, Lyricism, Chi Hsien, Yu Kwang-chung, Lome, Wu Sheng, Xiang Yang, Chen Li]
+tags:
+  [
+    Literature,
+    Poetry,
+    Modern Poetry,
+    Lyricism,
+    Chi Hsien,
+    Yu Kwang-chung,
+    Lome,
+    Wu Sheng,
+    Xiang Yang,
+    Chen Li,
+  ]
 date: 2026-03-20
 lastVerified: 2026-03-20
+translatedFrom: 'Art/台灣現代詩.md'
 ---
+
 # Modern Taiwanese Poetry: The Island's Lyricism
 
 The development of modern Taiwanese poetry is like a winding river, starting from its budding stage in the 1950s, through the changes and evolutions of various periods, and finally converging into today's rich and diverse poetic landscape. This poetic path not only witnesses the growth of Taiwanese literature but also reflects the spiritual face and cultural pursuit of an island in the midst of historical changes.

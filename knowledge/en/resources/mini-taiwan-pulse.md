@@ -3,6 +3,7 @@ title: 'Mini Taiwan Pulse — Real-time 3D Transportation Visualization'
 date: 2026-03-22
 tags: [resources, open-data, visualization, transportation, 3D, real-time, Taiwan.md]
 description: 'Feel Taiwan\'s pulse through open data — flight paths traced across the sky, ships navigating the seas, trains racing on tracks. 23 real-time layers bring this island\'s heartbeat to life.'
+translatedFrom: 'resources/mini-taiwan-pulse.md'
 ---
 
 # Mini Taiwan Pulse — Real-time 3D Transportation Visualization 🌐
@@ -36,14 +37,14 @@ Data source: AIS (Automatic Identification System) vessel position data.
 
 This might be the most stunning component. Six rail systems running simultaneously:
 
-| System | Scale |
-|--------|--------|
-| Taiwan Railways (TRA) | 265 routes, 333 trains, 6-color classification by train type |
-| High Speed Rail (THSR) | Main north-south line + branch lines |
-| Taipei Metro (TRTC) | 8 lines |
-| Kaohsiung Metro (KRTC) | Red line + Orange line |
-| Kaohsiung Light Rail (KLRT) | Circular light rail |
-| Taichung Metro (TMRT) | Green line + Blue line |
+| System                      | Scale                                                        |
+| --------------------------- | ------------------------------------------------------------ |
+| Taiwan Railways (TRA)       | 265 routes, 333 trains, 6-color classification by train type |
+| High Speed Rail (THSR)      | Main north-south line + branch lines                         |
+| Taipei Metro (TRTC)         | 8 lines                                                      |
+| Kaohsiung Metro (KRTC)      | Red line + Orange line                                       |
+| Kaohsiung Light Rail (KLRT) | Circular light rail                                          |
+| Taichung Metro (TMRT)       | Green line + Blue line                                       |
 
 TRA processing is particularly complex — OD track matching and divergent routes like the Changhua Triangle all have dedicated engines for handling.
 
@@ -76,17 +77,17 @@ Total of **23 independently switchable layers** across ten categories.
 
 The data sources this project connects to form a guide to Taiwan's open data landscape:
 
-| Data | Source |
-|------|--------|
-| Real-time Flight Positions | FlightRadar24 API |
-| Ship AIS | International Automatic Identification System |
-| Railway Timetables | Public timetables + OSM |
-| Bus/Coach/Bike | [TDX Transport Data Exchange](https://tdx.transportdata.tw/) |
-| Population Statistics | [SEGIS Statistical GIS](https://segis.moi.gov.tw/) |
-| Weather Observations | [Central Weather Administration](https://www.cwa.gov.tw/) |
-| Offshore Wind Farms | Ministry of Economic Affairs Bureau of Energy |
-| News Events | Central News Agency CNA RSS |
-| Airport/Port/Station Boundaries | [OSM Overpass API](https://overpass-turbo.eu/) |
+| Data                            | Source                                                       |
+| ------------------------------- | ------------------------------------------------------------ |
+| Real-time Flight Positions      | FlightRadar24 API                                            |
+| Ship AIS                        | International Automatic Identification System                |
+| Railway Timetables              | Public timetables + OSM                                      |
+| Bus/Coach/Bike                  | [TDX Transport Data Exchange](https://tdx.transportdata.tw/) |
+| Population Statistics           | [SEGIS Statistical GIS](https://segis.moi.gov.tw/)           |
+| Weather Observations            | [Central Weather Administration](https://www.cwa.gov.tw/)    |
+| Offshore Wind Farms             | Ministry of Economic Affairs Bureau of Energy                |
+| News Events                     | Central News Agency CNA RSS                                  |
+| Airport/Port/Station Boundaries | [OSM Overpass API](https://overpass-turbo.eu/)               |
 
 ⚠️ **Worth noting:** Taiwan's [TDX Transport Data Exchange](https://tdx.transportdata.tw/) is one of the few government platforms globally that standardizes all national public transport data, covering buses, coaches, railways, bicycles, etc., with comprehensive API documentation and free usage. This is uncommon worldwide.
 
@@ -99,4 +100,4 @@ The data sources this project connects to form a guide to Taiwan's open data lan
 
 ---
 
-*Last verified: 2026-03-22*
+_Last verified: 2026-03-22_

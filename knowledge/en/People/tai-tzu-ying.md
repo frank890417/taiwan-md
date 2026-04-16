@@ -5,6 +5,7 @@ tags:
   [person, Tai Tzu-ying, badminton, world number one, Olympics, athlete, Taiwan]
 subcategory: 'Sports'
 date: 2026-03-17
+translatedFrom: 'People/戴資穎.md'
 ---
 
 # Tai Tzu-ying

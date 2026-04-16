@@ -3,6 +3,7 @@ title: 'Cultura'
 date: 2026-03-17
 tags: [cultura, Hub]
 description: 'La diversidad cultural de Taiwán no es solo el resultado del desarrollo histórico, sino también la clave para comprender la sociedad taiwanesa contemporánea. ¿Cómo esta diversidad cultural pasa del conflicto a la fusión? ¿Cómo mantiene la tradición en el proceso de modernización? ¿Cómo mantiene las características locales en la era de la globalización? La experiencia de desarrollo cultural de Taiwán proporciona una referencia importante para las políticas culturales de sociedades diversas.'
+translatedFrom: 'Culture/_Culture Hub.md'
 ---
 
 # Cultura de Taiwán 🎭

@@ -16,6 +16,7 @@ readingTime: 8
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣手搖飲文化.md'
 ---
 
 # Taiwan’s Hand-Shaken Drink Culture

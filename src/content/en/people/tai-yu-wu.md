@@ -6,6 +6,7 @@ tags: ['people', 'scientists', 'physics', 'education']
 subcategory: 'Sports'
 lastVerified: 2026-03-19
 featured: true
+translatedFrom: 'People/吳大猷.md'
 ---
 
 # Tai-Yu Wu (吳大猷): The Mentor Who Built a Scientific Tradition

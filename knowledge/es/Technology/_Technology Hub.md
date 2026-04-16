@@ -3,6 +3,7 @@ title: 'Tecnología'
 date: 2026-03-17
 tags: [tecnología, Hub]
 description: "Taiwán, con la industria de semiconductores centrada en TSMC, controla más del 60% de la cuota de mercado de fundición de obleas global, siendo verdaderamente la 'montaña guardiana de la nación'. Al mismo tiempo, g0v gov zero con innovación tecnológica cívica ha convertido a Taiwán en un modelo internacional en el campo de la democracia digital. Desde la fabricación de hardware hasta la colaboración de código abierto, la tecnología taiwanesa muestra el modelo exitoso de gran estrategia de un país pequeño."
+translatedFrom: 'Technology/_Technology Hub.md'
 ---
 
 # Tecnología de Taiwán 💻

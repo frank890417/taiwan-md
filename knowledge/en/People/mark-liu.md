@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['TSMC', 'semiconductors', 'geopolitics', 'corporate leadership']
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+translatedFrom: 'People/劉德音.md'
 ---
 
 # Mark Liu (劉德音): Steering Taiwan’s Semiconductor Flagship Through Geopolitical Storms

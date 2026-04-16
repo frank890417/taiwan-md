@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'People/林俊傑.md'
 ---
 
 # JJ Lin: The Cross-Border Mandopop Virtuoso

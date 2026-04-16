@@ -3,6 +3,7 @@ title: 'Geography'
 date: 2026-03-23
 tags: [Geography, Hub]
 description: 'When the Philippine Sea Plate collides with the Eurasian Plate at 8cm per year, no one expected the birth of an island containing complete climate zones from tropical to alpine. Taiwan, a mere dot on world maps covering 36,197 square kilometers, encompasses a 4,000-meter vertical relief, 5 climate zones, 269 peaks above 3,000 meters, and the world's fourth-highest island. This is Earth's most active geological laboratory and the most spectacular geographical masterpiece on the Tropic of Cancer.'
+translatedFrom: 'Geography/_Geography Hub.md'
 ---
 
 # Taiwan Geography 🗺️

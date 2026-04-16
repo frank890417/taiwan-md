@@ -16,6 +16,7 @@ readingTime: 9
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 ---
 
 # Taiwan Hip‑Hop and Rap: From Imported Beats to a Local Voice

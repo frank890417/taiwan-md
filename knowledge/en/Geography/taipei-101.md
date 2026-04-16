@@ -1,14 +1,30 @@
 ---
-title: "They Built a Flying Tower on a Shaking Island"
+title: 'They Built a Flying Tower on a Shaking Island'
 description: "Just 200 meters from an active fault line, Taiwan decided to build the world's tallest skyscraper—then a madman spent 91 minutes climbing it with his bare hands."
 date: 2026-03-23
-tags: ["Taipei 101", "skyscraper", "earthquake engineering", "TMD damper", "vertical marathon", "New Year fireworks", "Alex Honnold", "free solo climbing", "Xinyi District", "architectural miracle", "C.Y. Lee", "LEED Platinum", "green building"]
-category: "Geography"
-author: "idlccp02"
+tags:
+  [
+    'Taipei 101',
+    'skyscraper',
+    'earthquake engineering',
+    'TMD damper',
+    'vertical marathon',
+    'New Year fireworks',
+    'Alex Honnold',
+    'free solo climbing',
+    'Xinyi District',
+    'architectural miracle',
+    'C.Y. Lee',
+    'LEED Platinum',
+    'green building',
+  ]
+category: 'Geography'
+author: 'idlccp02'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Geography/台北101.md'
 ---
 
 # They Built a Flying Tower on a Shaking Island

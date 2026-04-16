@@ -6,6 +6,7 @@ tags:
   ['Inventec', 'Electronics Contract Manufacturing', 'ODM', 'Laptop Computers']
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+translatedFrom: 'People/葉國一.md'
 ---
 
 # Yeh Kuo-Yi: Cornerstone of Taiwan's Electronics Contract Manufacturing Industry

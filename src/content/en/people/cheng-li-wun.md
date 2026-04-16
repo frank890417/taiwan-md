@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
+translatedFrom: 'People/鄭麗文.md'
 ---
 
 # Cheng Li-wun: From Hunger Strike for Taiwan Independence to Meeting Xi Jinping

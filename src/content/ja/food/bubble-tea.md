@@ -19,6 +19,7 @@ author: 'Taiwan.md Translation Team'
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: 'タピオカミルクティー'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/珍珠奶茶.md'
 ---
 
 # タピオカミルクティー

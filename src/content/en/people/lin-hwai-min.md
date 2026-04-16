@@ -7,6 +7,7 @@ subcategory: 'Arts and Creativity'
 lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
+translatedFrom: 'People/林懷民.md'
 ---
 
 > **30-Second Overview:** In 1973, a 26-year-old novelist named Lin Hwai-min with no professional dance background
@@ -15,13 +16,13 @@ featured: false
 > but has remained active on the international stage for over 50 years, earning recognition from
 > The New York Times as "Asia's most important contemporary dance company."
 
-In 1970, 23-year-old Lin Hwai-min was studying at the Iowa Writers' Workshop in the United States. He had already published his acclaimed novel *Cicadas* and was a promising young writer in Taiwan's literary scene. But one evening in a foreign land, he walked into a dance studio and began an adventure that would completely transform Taiwan's performing arts landscape.
+In 1970, 23-year-old Lin Hwai-min was studying at the Iowa Writers' Workshop in the United States. He had already published his acclaimed novel _Cicadas_ and was a promising young writer in Taiwan's literary scene. But one evening in a foreign land, he walked into a dance studio and began an adventure that would completely transform Taiwan's performing arts landscape.
 
 No one could have imagined that three years later, this novelist would establish the first professional contemporary dance company in the Chinese-speaking world and keep it thriving for half a century.
 
 ## From Literature to Movement: An Unexpected Turn
 
-Lin Hwai-min was born in 1947 in Xingang, Chiayi, into a distinguished family. His great-grandfather was a Qing Dynasty scholar, his grandfather a Japanese-educated physician, and his father, Lin Jin-sheng, was Taiwan's first Chiayi County Magistrate. From such an intellectual household, Lin's path into literature seemed natural—he began publishing fiction at 14 and released *Cicadas* at 22, capturing the youth culture of 1960s Taiwan in Taipei's Star Café and marking a literary generation.
+Lin Hwai-min was born in 1947 in Xingang, Chiayi, into a distinguished family. His great-grandfather was a Qing Dynasty scholar, his grandfather a Japanese-educated physician, and his father, Lin Jin-sheng, was Taiwan's first Chiayi County Magistrate. From such an intellectual household, Lin's path into literature seemed natural—he began publishing fiction at 14 and released _Cicadas_ at 22, capturing the youth culture of 1960s Taiwan in Taipei's Star Café and marking a literary generation.
 
 > **💡 Did you know**
 > Lin fell in love with dance at age 5 after watching the film "The Red Shoes,"
@@ -100,7 +101,7 @@ Lin once said: "I hope Cloud Gate is a brand, not one person's dance company." U
 
 ## The End of an Era and a New Beginning
 
-In 2000, Lin received the National Award for Arts. In 2019, his novel *Cicadas* celebrated its 50th anniversary with a commemorative edition. In 2022, his published memoir "Torrent and Reflection" won the Golden Books Award at the Taiwan Literature Awards and the Grand Prize for Non-fiction at the Taipei International Book Exhibition.
+In 2000, Lin received the National Award for Arts. In 2019, his novel _Cicadas_ celebrated its 50th anniversary with a commemorative edition. In 2022, his published memoir "Torrent and Reflection" won the Golden Books Award at the Taiwan Literature Awards and the Grand Prize for Non-fiction at the Taipei International Book Exhibition.
 
 From novelist to dancer, from one person's impulse to a generational icon, Lin used half a century to prove one thing: true artists are not imitators but creators. He brought modern dance to Taiwan from nothing to something, from niche to mainstream, from local to international.
 

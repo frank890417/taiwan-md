@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 20
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'History/台灣經濟奇蹟.md'
 ---
 
 # Taiwan's Economic Miracle: From Agricultural Society to Asian Tiger

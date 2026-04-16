@@ -18,6 +18,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
+translatedFrom: 'People/嚴長壽.md'
 ---
 
 # Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up

@@ -2,13 +2,21 @@
 title: "Taiwan's Seafood Culture"
 description: "Fresh catches from fishing ports, seafood restaurant culture, and iconic dishes like oyster omelets showcase Taiwan's island character and rich maritime culinary traditions"
 date: 2026-03-20
-tags: ["seafood", "fishing ports", "island culture", "oyster omelet", "seafood cuisine"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'seafood',
+    'fishing ports',
+    'island culture',
+    'oyster omelet',
+    'seafood cuisine',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 8
-category: "Food"
+category: 'Food'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Food/台灣海鮮文化.md'
 ---
 
 # Taiwan's Seafood Culture

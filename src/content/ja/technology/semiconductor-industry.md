@@ -18,6 +18,7 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Technology/半導體產業.md'
 ---
 
 # 半導体産業

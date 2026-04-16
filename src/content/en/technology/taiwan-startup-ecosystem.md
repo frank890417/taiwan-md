@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣新創生態系.md'
 ---
 
 # Taiwan's Startup Ecosystem

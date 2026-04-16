@@ -9,6 +9,7 @@ readingTime: 12
 lastVerified: 2026-04-01
 lastHumanReview: false
 category: People
+translatedFrom: 'People/周子瑜.md'
 ---
 
 > **30-Second Overview:** Chou Tzu-yu (周子瑜), known as Tzuyu, is the youngest member (_maknae_) of the South Korean K-pop group Twice. Renowned for her immense popularity and hailed as one of the world's most beautiful faces, she is one of the most radiant pieces in the glamorous puzzle of K-pop.

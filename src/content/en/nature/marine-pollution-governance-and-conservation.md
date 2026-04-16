@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
 ---
 
 # Marine Pollution Governance and Conservation in Taiwan

@@ -2,13 +2,24 @@
 title: 'Taiwanese Black Bear'
 description: "The white V-shaped chest patch is their signature—Taiwan's last mountain monarchs and their unfinished conservation story"
 date: 2026-03-18
-tags: ['Taiwanese Black Bear', 'Conservation', 'Endangered Species', 'Hwang Mei-hsiu', 'Mountain Forests', 'Indigenous Peoples', 'National Parks']
+tags:
+  [
+    'Taiwanese Black Bear',
+    'Conservation',
+    'Endangered Species',
+    'Hwang Mei-hsiu',
+    'Mountain Forests',
+    'Indigenous Peoples',
+    'National Parks',
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Nature/台灣黑熊.md'
 ---
+
 # Taiwanese Black Bear
 
 > The white V-shaped chest patch is their signature—Taiwan's last mountain monarchs and their unfinished conservation story

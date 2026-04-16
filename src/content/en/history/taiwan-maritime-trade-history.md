@@ -1,15 +1,23 @@
 ---
-title: "Taiwan Maritime Trade History"
-description: "Taiwan in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall"
+title: 'Taiwan Maritime Trade History'
+description: 'Taiwan in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall'
 date: 2026-03-20
-tags: ["maritime trade", "Age of Exploration", "international trade", "pirates", "port cities"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'maritime trade',
+    'Age of Exploration',
+    'international trade',
+    'pirates',
+    'port cities',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 9
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'History/台灣海洋貿易史.md'
 ---
 
 # Taiwan Maritime Trade History

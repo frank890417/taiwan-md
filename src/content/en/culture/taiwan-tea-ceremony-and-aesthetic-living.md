@@ -16,6 +16,7 @@ author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 13
 featured: true
+translatedFrom: 'Culture/台灣茶道與生活美學.md'
 ---
 
 # Taiwan Tea Ceremony and Aesthetic Living

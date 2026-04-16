@@ -1,8 +1,9 @@
 ---
-title: "Nature"
+title: 'Nature'
 date: 2026-03-23
 tags: [nature, Hub]
 description: "On an island covering only 0.03% of Earth's landmass, 59,000 species thrive, with 30% being Taiwan endemics. From Mount Jade's 3,952-meter peak to deep ocean trenches, nine national parks guard Earth's most concentrated museum of life. As Taiwan black bears forage in bamboo forests, Formosan landlocked salmon swim upstream in mountain streams, and green sea turtles crawl onto beaches to nest, this small island shoulders ecological responsibility far exceeding its geographic scale."
+translatedFrom: 'Nature/_Nature Hub.md'
 ---
 
 # Taiwan Nature 🌿
@@ -91,4 +92,4 @@ Taiwan's conservation experience provides valuable reference for international c
 
 ---
 
-*Taiwan nature's greatness lies in density rather than scale. On this 36,000-square-kilometer island, Earth's life essence is condensed into the most moving symphony. Every species is a unique movement, every ecosystem an irreplaceable harmony, together performing life's hymn.*
+_Taiwan nature's greatness lies in density rather than scale. On this 36,000-square-kilometer island, Earth's life essence is condensed into the most moving symphony. Every species is a unique movement, every ecosystem an irreplaceable harmony, together performing life's hymn._

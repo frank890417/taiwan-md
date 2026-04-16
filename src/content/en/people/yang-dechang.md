@@ -13,6 +13,7 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 featured: true
+translatedFrom: 'People/楊德昌.md'
 ---
 
 # Edward Yang (楊德昌): The Poet of Urban Alienation

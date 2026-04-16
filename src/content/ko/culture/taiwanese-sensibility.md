@@ -21,6 +21,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-08
 lastHumanReview: true
+translatedFrom: 'Culture/台灣感性.md'
 ---
 
 # 대만감성: 한국인이 사랑에 빠진 타이완의 거리

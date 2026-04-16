@@ -18,6 +18,7 @@ subcategory: 'スポーツ'
 lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
+translatedFrom: 'People/戴資穎.md'
 ---
 
 # 戴資穎

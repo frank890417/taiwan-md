@@ -1,6 +1,6 @@
 ---
-title: "Advantech Technology"
-description: "Global leader in industrial computing, IoT intelligent systems pioneer from Taiwan"
+title: 'Advantech Technology'
+description: 'Global leader in industrial computing, IoT intelligent systems pioneer from Taiwan'
 date: 2026-03-20
 tags: [Economy, Enterprises, Industrial Computers, IoT]
 author: Taiwan.md
@@ -8,10 +8,11 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：研華科技.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Founded in 1983 by three former HP engineers, Advantech is now the world's leading industrial computer company. The company focuses on Artificial Intelligence of Things (AIoT) and edge computing solutions, with operations in 27 countries and nearly 9,000 employees. From its origins as an industrial computer manufacturer, it has transformed into an "enabler of an intelligent planet," providing core technologies for digital transformation across manufacturing, healthcare, transportation, retail, and other sectors.
 
 ## Why Advantech Matters
@@ -149,4 +150,4 @@ Facing the wave of digital transformation, Advantech will continue to play the r
 6. Yahoo Finance - Advantech (2395.TW) financial data
 7. Advantech ESG Sustainability Management Report
 
-*Last verified: March 20, 2026*
+_Last verified: March 20, 2026_

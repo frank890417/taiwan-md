@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Science & Academia'
 date: 2026-03-17
+translatedFrom: 'People/李遠哲.md'
 ---
 
 # Lee Yuan-tseh

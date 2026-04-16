@@ -8,6 +8,7 @@ subcategory: 'Music'
 category: people
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'People/蔡依林.md'
 ---
 
 > **30-Second Overview:** In 1998, a dance instructor told her she had no talent for movement.

@@ -1,17 +1,26 @@
 ---
-title: "Formosa Plastics Group"
+title: 'Formosa Plastics Group'
 description: "The petrochemical empire built by Taiwan's 'God of Management' Wang Yung-ching, featuring the Big Four manufacturing legend"
 date: 2026-03-22
-tags: [Economy, Corporations, Petrochemicals, Manufacturing, Formosa Plastics, Industry]
+tags:
+  [
+    Economy,
+    Corporations,
+    Petrochemicals,
+    Manufacturing,
+    Formosa Plastics,
+    Industry,
+  ]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台塑集團.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Formosa Plastics Group is Taiwan's largest petrochemical conglomerate, founded in 1954 by Wang Yung-ching, known as Taiwan's "God of Management." The group includes the Big Four listed companies (Formosa Plastics, Nan Ya Plastics, Formosa Chemicals & Fibre, and Formosa Petrochemical), employing over 100,000 people with combined annual revenues of approximately NT$3 trillion. From a small PVC factory to an industrial empire spanning petrochemicals, plastics, fibers, and electronic materials, it became a crucial driver of Taiwan's industrialization.
 
 ## Why It Matters
@@ -33,24 +42,28 @@ The group's core competitiveness lies in economies of scale and vertical integra
 ## Key Facts (Numbers Tell the Story)
 
 **Group Scale**:
+
 - Combined Revenue: Approximately NT$3 trillion (2025, Big Four combined)
 - Total Employees: Over 100,000 (including overseas operations)
 - Production Bases: Taiwan, mainland China, USA, Vietnam, and other locations
 - Total Assets: Over NT$2.5 trillion
 
 **Big Four Performance** (2025):
+
 - FPCC: Revenue of approximately NT$1.5 trillion, leading profitability among the Big Four
 - NPC: Revenue of approximately NT$650 billion, with counter-trend profit growth
 - FCCL: Affected by raw material costs, turning from profit to loss
 - FPG: Facing challenges with doubled loss burdens
 
 **Industry Position**:
+
 - FPCC is Taiwan's largest private oil refinery, ranking first in petrochemical capacity
 - NPC maintains global competitiveness in electronic materials
 - FCCL is Taiwan's largest chemical fiber manufacturer
 - The group overall ranks first among Taiwan's private enterprises by revenue scale
 
 **Year-End Bonus System**:
+
 - In 2025, the group distributed year-end bonuses equivalent to three months' salary (Commercial Times, January 13, 2026)
 - Bonus calculations based on overall group profitability performance
 - Reflects Formosa's corporate culture of sharing business results with employees
@@ -131,8 +144,8 @@ The story of Formosa Plastics Group epitomizes Taiwan's industrialization proces
 
 ## References
 
-- *Commercial Times*, "FPCC Leads Big Four in 2025 Profitability" (January 13, 2026)
-- *Wikipedia: Formosa Plastics Group* (Updated February 2026)
+- _Commercial Times_, "FPCC Leads Big Four in 2025 Profitability" (January 13, 2026)
+- _Wikipedia: Formosa Plastics Group_ (Updated February 2026)
 - MoneyDJ Corporate Profile: Formosa Petrochemical Corporation (March 2026)
-- *United Daily News*, Analysis of Big Four Revenue Performance (December 7, 2025)
-- *Wealth Magazine*, Report on Formosa Plastics Group Transformation Strategy (March 2026)
+- _United Daily News_, Analysis of Big Four Revenue Performance (December 7, 2025)
+- _Wealth Magazine_, Report on Formosa Plastics Group Transformation Strategy (March 2026)

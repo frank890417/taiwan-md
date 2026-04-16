@@ -16,6 +16,7 @@ readingTime: 13
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣樂器製造.md'
 ---
 
 # Taiwan’s Instrument-Making Industry: From Houli Saxophones to Global Music Factories

@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣原住民音樂傳統.md'
 ---
 
 # Indigenous Music Traditions of Taiwan: Songs as Memory, Ritual, and Living History

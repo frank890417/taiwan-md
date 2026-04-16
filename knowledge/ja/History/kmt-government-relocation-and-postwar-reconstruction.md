@@ -15,6 +15,7 @@ tags:
   - 厳家淦
   - 戒厳時代
 featured: false
+translatedFrom: 'History/國民政府遷台與戰後重建.md'
 ---
 
 # 国民政府の台湾移転と戦後復興

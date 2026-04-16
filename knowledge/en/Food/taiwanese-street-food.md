@@ -10,6 +10,7 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Food/台灣小吃.md'
 ---
 
 # Taiwanese Street Food

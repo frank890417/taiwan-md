@@ -3,6 +3,7 @@ title: Taiwanese Comics and Illustration
 category: Art
 tags: [comics, illustration, visual art]
 date: 2026-03-18
+translatedFrom: 'Art/台灣漫畫與插畫.md'
 ---
 
 # Taiwanese Comics and Illustration: The Narrative Power of Images
