@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣人工智慧實驗室.md'
 ---
 
 # Taiwan AI Labs - Pioneering AI for Social Good

@@ -18,6 +18,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Taipei_mangguobing.JPG/960px-Taipei_mangguobing.JPG'
 imageAlt: 'Mango shaved ice'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣冰品文化.md'
 ---
 
 # Taiwanese Ice Cream Culture

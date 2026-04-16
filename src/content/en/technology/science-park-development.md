@@ -17,6 +17,7 @@ readingTime: 10
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/科技園區發展.md'
 ---
 
 # Taiwan's Science Park Development

@@ -1,19 +1,29 @@
 ---
-title: "Largan Precision: When Craftsmanship Meets Architectural Revolution"
+title: 'Largan Precision: When Craftsmanship Meets Architectural Revolution'
 description: "How the world's strongest plastic lens technology company lost iPhone orders to Chinese rivals, despite technical leadership"
 date: 2026-03-22
 category: economy
-tags: [Economy, Corporations, Largan Precision, Optical Industry, Precision Manufacturing, Apple Supply Chain, Architectural Innovation]
+tags:
+  [
+    Economy,
+    Corporations,
+    Largan Precision,
+    Optical Industry,
+    Precision Manufacturing,
+    Apple Supply Chain,
+    Architectural Innovation,
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：大立光電.md'
 ---
 
 # Largan Precision: When Craftsmanship Meets Architectural Revolution
 
 > **30-second overview**
-> 
+>
 > Largan Precision is the world's largest plastic mobile phone lens manufacturer. Its stock hit a record high of NT$6,075 in 2017. But in 2021, China's Sunny Optical became an iPhone lens supplier for the first time, breaking Largan's exclusive supply arrangement. In 2024, Largan posted revenues of NT$59.458 billion with earnings of NT$194.17 per share. Despite maintaining a 1-1.5 generation technical lead globally, its market share continues declining. This isn't technology losing to technology — it's component thinking losing to systems thinking.
 
 On August 24, 2017, Largan's stock price soared to NT$6,075, becoming the most expensive stock in Taiwan Stock Exchange history. CEO Adam Lin (林恩平) transformed from a pediatrician into an optical craftsman, spending over a decade turning his father's small factory into a global lens powerhouse. At the time, Largan held over 6,000 global patents, led competitors by at least one generation with 7P lens technology, and was Apple's sole iPhone lens supplier.
@@ -94,8 +104,8 @@ As Henderson and Clark noted, the longer organizations operate, the more implici
 
 ## Truth Behind Numbers: Financial Performance vs Market Reality
 
-| NT$59.458 billion | NT$194.17 |
-|---|---|
+| NT$59.458 billion             | NT$194.17                                        |
+| ----------------------------- | ------------------------------------------------ |
 | 2024 revenue (20% YoY growth) | Earnings per share (second-highest historically) |
 
 Largan's financial numbers still look brilliant. 2024 full-year revenue reached NT$59.458 billion, up about 20% annually, marking the best performance in four years. Earnings per share of NT$194.17 ranked second-highest historically. Q4 achieved single-quarter earnings of NT$65.01 per share due to customer product shipment bonuses, creating a quarterly record.
@@ -159,7 +169,6 @@ From a small factory across from Tunghai University to global optical technology
 In an era where change matters more than optimization, the hardest thing isn't doing better but learning to do differently. Largan's story continues; the ending remains unwritten.
 
 ## Further Reading
-
 
 ## References
 

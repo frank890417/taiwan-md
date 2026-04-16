@@ -8,6 +8,7 @@ category: 'Geography'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Geography/台灣河川系統與水文特色.md'
 ---
 
 # Taiwan’s River Systems and Hydrology: Short, Fast, and Seasonally Extreme

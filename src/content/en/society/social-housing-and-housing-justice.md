@@ -13,6 +13,7 @@ tags:
 readingTime: 13
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/社會住宅與居住正義.md'
 ---
 
 # Social Housing and Housing Justice

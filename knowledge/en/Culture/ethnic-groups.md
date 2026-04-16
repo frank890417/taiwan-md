@@ -19,6 +19,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
+translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
 ---
 
 # Taiwan's Ethnic Groups

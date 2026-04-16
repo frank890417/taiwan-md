@@ -3,11 +3,22 @@ title: 'Hot Spring Culture'
 description: 'From Military Medicine to World-Class Mud Springs: How Taiwan Became an Accidental Hot Spring Empire'
 date: 2026-03-22
 category: lifestyle
-tags: [lifestyle, hot springs, Beitou, Jiaoxi, Guanziling, Japanese colonial, geology, healing culture]
+tags:
+  [
+    lifestyle,
+    hot springs,
+    Beitou,
+    Jiaoxi,
+    Guanziling,
+    Japanese colonial,
+    geology,
+    healing culture,
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Lifestyle/溫泉文化.md'
 ---
 
 # Hot Spring Culture: From Military Medicine to World-Class Mud Springs
@@ -139,7 +150,6 @@ Taiwan's hot spring culture evolved from accidental military medical needs a cen
 When you next soak in hot springs, feel not just geothermal warmth but also the healing symphony composed through a century of cultural fusion, geological blessings, and humanistic innovation—this represents Taiwan's hot spring culture's true value.
 
 ## Further Reading
-
 
 ## References
 

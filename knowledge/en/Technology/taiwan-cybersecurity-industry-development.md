@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 13
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣資安產業發展.md'
 ---
 
 # Taiwan's Cybersecurity Industry Development

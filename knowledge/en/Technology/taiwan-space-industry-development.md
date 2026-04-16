@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
+translatedFrom: 'Technology/台灣太空產業發展.md'
 ---
 
 # Taiwan's Space Industry: A Satellite Powerhouse Without a Rocket

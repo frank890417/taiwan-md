@@ -14,6 +14,7 @@ date: 2026-03-24
 readingTime: 7
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Art/原住民文學.md'
 ---
 
 # Indigenous Literature of Taiwan

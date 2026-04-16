@@ -145,7 +145,7 @@ export async function getStaticPaths() {
     __gitCache = new Map();
     try {
       const logOutput = execSync(
-        `git log -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/ko/"`,
+        `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/ko/"`,
         { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
       );
       let currentHash = '';

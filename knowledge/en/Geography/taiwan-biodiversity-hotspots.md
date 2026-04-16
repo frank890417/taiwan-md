@@ -1,14 +1,22 @@
 ---
 title: "Taiwan's Biodiversity Hotspots"
-description: "Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity"
+description: 'Exploring how Taiwan, occupying only 0.025% of global land area, nurtures over 50,000 known species in world-class biodiversity'
 date: 2026-03-20
-tags: ["ecology", "biodiversity", "endemic species", "conservation", "national parks"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'ecology',
+    'biodiversity',
+    'endemic species',
+    'conservation',
+    'national parks',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 8
-category: "Geography"
+category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Geography/台灣生態多樣性熱點.md'
 ---
 
 # Taiwan's Biodiversity Hotspots
@@ -78,6 +86,7 @@ Standing at any corner of Taiwan, we can feel the vigorous life force of this la
 ---
 
 Further Reading:
+
 - [Endemic Species](/nature/endemic-species)
 - [National Parks](/nature/national-parks)
 - [Biodiversity](/nature/biodiversity)

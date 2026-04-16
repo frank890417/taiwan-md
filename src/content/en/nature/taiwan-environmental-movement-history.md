@@ -1,14 +1,23 @@
 ---
-title: "Taiwan Environmental Movement History"
+title: 'Taiwan Environmental Movement History'
 description: "The evolution of Taiwan's environmental movement from 1980s anti-pollution protests to recent plastic reduction campaigns, witnessing the awakening of environmental consciousness intertwined with Taiwan's democratization process"
 date: 2026-03-20
-tags: ["environmental movement", "environmental protection", "social movements", "anti-nuclear movement", "air pollution", "marine conservation"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'environmental movement',
+    'environmental protection',
+    'social movements',
+    'anti-nuclear movement',
+    'air pollution',
+    'marine conservation',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Nature/台灣環境運動史.md'
 ---
 
 # Taiwan Environmental Movement History
@@ -98,5 +107,5 @@ Taiwan's environmental movement has developed over forty years, evolving from an
 - [Taiwan Environmental Information Association](https://e-info.org.tw/) — Environmental news and issue reporting
 - [Environmental Rights Foundation](https://www.erf.org.tw/) — Environmental law and public interest litigation
 - Environmental Protection Administration statistics — Air quality, waste treatment, and other official data
-- *Overview of Taiwan's Environmental Movement*, Ho Ming-sho, Socio Publishing, 2006
-- *Anti-Nuclear Movement and Taiwan Society*, Fan Yun et al., Taiwan Sociological Review, 2014
+- _Overview of Taiwan's Environmental Movement_, Ho Ming-sho, Socio Publishing, 2006
+- _Anti-Nuclear Movement and Taiwan Society_, Fan Yun et al., Taiwan Sociological Review, 2014

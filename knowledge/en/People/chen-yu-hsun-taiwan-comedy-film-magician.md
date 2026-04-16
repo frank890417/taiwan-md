@@ -2,14 +2,23 @@
 title: "Chen Yu-Hsun: Taiwan's Warm Comedy Film Magician"
 description: "Taiwan's comedy film director behind 'Tropical Fish,' 'Zone Pro Site,' and 'My Missing Valentine'"
 date: 2026-03-20
-tags: ["Chen Yu-Hsun", "director", "comedy film", "Tropical Fish", "Zone Pro Site", "My Missing Valentine"]
+tags:
+  [
+    'Chen Yu-Hsun',
+    'director',
+    'comedy film',
+    'Tropical Fish',
+    'Zone Pro Site',
+    'My Missing Valentine',
+  ]
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
+translatedFrom: 'People/陳玉勳.md'
 ---
 
 # Chen Yu-Hsun: Taiwan's Warm Comedy Film Magician
 
-Chen Yu-Hsun (陳玉勳) is Taiwan's most representative comedy film director, renowned for works like *Tropical Fish* (熱帶魚), *Zone Pro Site* (總鋪師), and *My Missing Valentine* (消失的情人節). His films are filled with uniquely Taiwanese humor and humanistic warmth, expertly exploring profound life themes within absurd situations. In 2021, *My Missing Valentine* won the Golden Horse Award for Best Feature Film, proving the international potential of Taiwan's local comedy cinema.
+Chen Yu-Hsun (陳玉勳) is Taiwan's most representative comedy film director, renowned for works like _Tropical Fish_ (熱帶魚), _Zone Pro Site_ (總鋪師), and _My Missing Valentine_ (消失的情人節). His films are filled with uniquely Taiwanese humor and humanistic warmth, expertly exploring profound life themes within absurd situations. In 2021, _My Missing Valentine_ won the Golden Horse Award for Best Feature Film, proving the international potential of Taiwan's local comedy cinema.
 
 ## A Military Dependents' Village Boy's Cinema Dreams
 
@@ -27,37 +36,37 @@ During his time in advertising, Chen directed countless creative commercials and
 
 In the early 1990s, Taiwan's advertising industry flourished, and Chen Yu-Hsun, along with contemporaries like Tsai Ming-liang (蔡明亮) and Yi Zhi-yan (易智言), all transitioned from advertising to film, forming Taiwan cinema's new generation.
 
-## Debut Film: *Tropical Fish*
+## Debut Film: _Tropical Fish_
 
-In 1995, Chen Yu-Hsun released his debut film *Tropical Fish*, a low-budget production that created a miracle in Taiwan cinema history. The film used absurd humor to depict a frustrated man accidentally caught up in a kidnapping case.
+In 1995, Chen Yu-Hsun released his debut film _Tropical Fish_, a low-budget production that created a miracle in Taiwan cinema history. The film used absurd humor to depict a frustrated man accidentally caught up in a kidnapping case.
 
-*Tropical Fish's* success lay in its unique Taiwanese humor style. Chen skillfully employed Taiwan's cultural elements to create a comedy genre with local characteristics. Though the characters faced difficulties, they always maintained an optimistic attitude.
+_Tropical Fish's_ success lay in its unique Taiwanese humor style. Chen skillfully employed Taiwan's cultural elements to create a comedy genre with local characteristics. Though the characters faced difficulties, they always maintained an optimistic attitude.
 
-The film won the 32nd Golden Horse Award for Best Original Screenplay and achieved box office success. *Tropical Fish* proved the market potential of Taiwan's local comedy films, paving the way for subsequent creators.
+The film won the 32nd Golden Horse Award for Best Original Screenplay and achieved box office success. _Tropical Fish_ proved the market potential of Taiwan's local comedy films, paving the way for subsequent creators.
 
 ## Exploring Romantic Comedy
 
-After *Tropical Fish*, Chen continued exploring different types of comedy films. 1997's *Love Go Go* (愛情來了) attempted the romantic comedy format. Though box office performance was average, it demonstrated his deep understanding of female characters.
+After _Tropical Fish_, Chen continued exploring different types of comedy films. 1997's _Love Go Go_ (愛情來了) attempted the romantic comedy format. Though box office performance was average, it demonstrated his deep understanding of female characters.
 
-2000's *Love You Love Me* (愛你愛我) employed more mature narrative techniques, exploring modern urbanites' romantic dilemmas. Chen began integrating more life contemplation into comedy, showing his directorial growth.
+2000's _Love You Love Me_ (愛你愛我) employed more mature narrative techniques, exploring modern urbanites' romantic dilemmas. Chen began integrating more life contemplation into comedy, showing his directorial growth.
 
-Though works from this period didn't have the sensational impact of *Tropical Fish*, they accumulated rich creative experience for Chen and deepened his understanding of comedy film essence.
+Though works from this period didn't have the sensational impact of _Tropical Fish_, they accumulated rich creative experience for Chen and deepened his understanding of comedy film essence.
 
-## Return to Glory: *Zone Pro Site*
+## Return to Glory: _Zone Pro Site_
 
-After years of quiet cultivation, Chen Yu-Hsun released *Zone Pro Site* in 2013, again proving his creative strength. The film, set against the backdrop of Tainan's outdoor banquet (辦桌) culture, depicted three head chefs competing for the "Zone Pro Site" title.
+After years of quiet cultivation, Chen Yu-Hsun released _Zone Pro Site_ in 2013, again proving his creative strength. The film, set against the backdrop of Tainan's outdoor banquet (辦桌) culture, depicted three head chefs competing for the "Zone Pro Site" title.
 
-*Zone Pro Site's* success lay in its deep excavation of Taiwan's traditional culture. Chen presented the essence of banquet culture through comedy, helping young audiences understand traditional craft values.
+_Zone Pro Site's_ success lay in its deep excavation of Taiwan's traditional culture. Chen presented the essence of banquet culture through comedy, helping young audiences understand traditional craft values.
 
-The film assembled a star cast including Feng Sheng-ze (豐盛澤), Yang You-ning (楊祐寧), and Brigitte Lin (林青霞), achieving good balance between commercial and artistic success. *Zone Pro Site* was not only a box office success but also received critical acclaim.
+The film assembled a star cast including Feng Sheng-ze (豐盛澤), Yang You-ning (楊祐寧), and Brigitte Lin (林青霞), achieving good balance between commercial and artistic success. _Zone Pro Site_ was not only a box office success but also received critical acclaim.
 
-## Magical Realism: *My Missing Valentine*
+## Magical Realism: _My Missing Valentine_
 
-2020's *My Missing Valentine* was Chen's most ambitious work, fusing romance, comedy, and magical realism elements. The film depicted the male protagonist's fantastical search for true love amidst temporal chaos.
+2020's _My Missing Valentine_ was Chen's most ambitious work, fusing romance, comedy, and magical realism elements. The film depicted the male protagonist's fantastical search for true love amidst temporal chaos.
 
 Released during the COVID-19 pandemic, the film's space-time displacement concept unexpectedly acquired special contemporary significance. Chen skillfully combined science fiction elements with Taiwanese comedy, creating a unique viewing experience.
 
-*My Missing Valentine* won five major awards at the 57th Golden Horse Awards, including Best Feature Film—the pinnacle of Chen's career. This work proved Taiwan's local cinema competitiveness in international markets.
+_My Missing Valentine_ won five major awards at the 57th Golden Horse Awards, including Best Feature Film—the pinnacle of Chen's career. This work proved Taiwan's local cinema competitiveness in international markets.
 
 ## Constructing Taiwanese Humor
 
@@ -69,7 +78,7 @@ Chen's character creation particularly emphasizes characters' essential goodness
 
 ## Focus on Taiwanese Culture
 
-Chen's films consistently focus on preserving and transmitting Taiwan's local culture. From *Tropical Fish's* urban marginal figures to *Zone Pro Site's* traditional crafts, he uses cinema to record Taiwan society's diverse aspects.
+Chen's films consistently focus on preserving and transmitting Taiwan's local culture. From _Tropical Fish's_ urban marginal figures to _Zone Pro Site's_ traditional crafts, he uses cinema to record Taiwan society's diverse aspects.
 
 He particularly values dialect usage, believing language is culture's important carrier. In his films, Taiwanese Hokkien (台語), Hakka, and other dialects receive proper respect and presentation.
 
@@ -97,7 +106,7 @@ Though deeply cultivating local themes, Chen maintains an international perspect
 
 He believes the more local, the more international—Taiwan films need not deliberately cater to international markets but should showcase their unique cultural characteristics.
 
-*My Missing Valentine's* success in international markets validated his creative philosophy. Taiwan films can maintain local characteristics while gaining international recognition.
+_My Missing Valentine's_ success in international markets validated his creative philosophy. Taiwan films can maintain local characteristics while gaining international recognition.
 
 ## Influence on Young Directors
 
@@ -118,5 +127,5 @@ As Taiwan comedy cinema's representative figure, Chen Yu-Hsun's works have becom
 ## References
 
 - [Chen Yu-Hsun — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12518) — Director's filmography
-- [57th Golden Horse Awards — Taipei Golden Horse Film Festival](https://www.goldenhorse.org.tw/) — *My Missing Valentine* award records
+- [57th Golden Horse Awards — Taipei Golden Horse Film Festival](https://www.goldenhorse.org.tw/) — _My Missing Valentine_ award records
 - [Taiwan Film History — Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/) — Comedy film development context

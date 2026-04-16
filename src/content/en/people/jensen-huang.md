@@ -10,6 +10,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'People/黃仁勳.md'
 ---
 
 # Jensen Huang (黃仁勳)

@@ -20,6 +20,7 @@ featured: false
 readingTime: 17
 lastVerified: 2026-04-10
 lastHumanReview: false
+translatedFrom: 'Society/台灣動物用藥爭議.md'
 ---
 
 > **30-Second Overview:** On July 1, 2026, a Taiwan regulation called the _Administrative Rules for Using Human Drugs on Dogs, Cats, and Non-Economic Animals_ is set to take effect. Of the 701 approved human drugs on the government's list, only 144 have completed registration as "animal protection drugs." Medical gases — oxygen, carbon dioxide, nitrogen — are at zero. On April 9, over 100,000 pet owners signed a petition to delay the rule. On April 10, the Ministry of Agriculture convened an emergency cross-ministry meeting and pledged that "if implementation proves unworkable in practice, it will not be rushed through." This isn't a 2026 problem. It's a ten-year legal gap that began with a 2012 counterfeit-drug case, was accidentally thrown open by Legislator Kao Chia-yu in 2022, and was complicated by a first-ever conviction in 2024. Taiwan now has three million registered dogs and cats treated as family members, and a legal framework that still largely assumes they are livestock. This article keeps five voices speaking at once. The author does not synthesize them for you.

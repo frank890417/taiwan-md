@@ -16,6 +16,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/動物園與展演動物倫理.md'
 ---
 
 # Zoos and Exhibition Animal Ethics in Taiwan

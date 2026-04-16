@@ -10,6 +10,7 @@ subcategory: '음료 문화'
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Food/台灣手搖飲文化.md'
 ---
 
 # 대만 수요음 문화

@@ -18,6 +18,7 @@ featured: false
 readingTime: 16
 lastVerified: 2026-04-10
 lastHumanReview: false
+translatedFrom: 'Society/台灣國防與軍事現代化.md'
 ---
 
 > **30-Second Overview:** The 2022 Russia-Ukraine war rewrote Taiwan's defense logic. In 2024, mandatory service was restored from four months back to one year. The 2025 Han Kuang 41 exercise ran for a record ten days and nine nights, mobilizing 20,000 reservists. In November 2025, the Lai administration proposed a NT$1.25 trillion special budget — including 200,000 drones. But most of that money still goes toward tanks, jets, and submarines. Former Chief of General Staff Lee Hsi-min gave a bitter laugh: "If a tank can be an asymmetric weapon, then what isn't?" Taiwan is trying to walk two contradictory defense roads at once. It wants to become a porcupine — but its body still remembers being a leopard.

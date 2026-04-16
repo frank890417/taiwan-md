@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Nature/台灣國家公園.md'
 ---
 
 # Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives

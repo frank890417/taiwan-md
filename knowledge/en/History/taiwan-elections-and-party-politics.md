@@ -1,15 +1,23 @@
 ---
 title: "Taiwan's Elections and Party Politics"
-description: "From the tangwai movement to multiparty democracy: How Taiwan evolved from authoritarianism to democracy through electoral culture transformation"
+description: 'From the tangwai movement to multiparty democracy: How Taiwan evolved from authoritarianism to democracy through electoral culture transformation'
 date: 2026-03-20
-tags: ["elections", "democratization", "party politics", "tangwai movement", "direct presidential election"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'elections',
+    'democratization',
+    'party politics',
+    'tangwai movement',
+    'direct presidential election',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 12
-category: "History"
+category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'History/台灣選舉與政黨政治.md'
 ---
 
 # Taiwan's Elections and Party Politics
@@ -44,13 +52,13 @@ Guo Yuxin's (郭雨新) high vote count in a 1975 legislative by-election shocke
 
 Tangwai figures began attempting to break speech taboos. They criticized martial law in campaign speeches, questioned the "ten-thousand-year parliament," and demanded lifting the party ban. Though frequently facing judicial persecution, democratic ideals gradually penetrated society.
 
-### *Formosa* Magazine: Democracy's Torch
+### _Formosa_ Magazine: Democracy's Torch
 
-The 1979 launch of *Formosa* (*Měilìdǎo* 美麗島) magazine became an important platform for the tangwai movement. The magazine gathered key tangwai figures like Kang Ningxiang (康寧祥), Huang Xingjie (黃信介), Shih Ming-teh (施明德), and Xu Xinliang (許信良), forming what would become the Democratic Progressive Party's core group.
+The 1979 launch of _Formosa_ (_Měilìdǎo_ 美麗島) magazine became an important platform for the tangwai movement. The magazine gathered key tangwai figures like Kang Ningxiang (康寧祥), Huang Xingjie (黃信介), Shih Ming-teh (施明德), and Xu Xinliang (許信良), forming what would become the Democratic Progressive Party's core group.
 
-*Formosa* magazine wasn't just a publication but a proto-political organization. They established service offices nationwide, organized reader meetings, essentially functioning as a political party. Magazine content boldly criticized government and proposed democratic reforms, with circulation rapidly climbing.
+_Formosa_ magazine wasn't just a publication but a proto-political organization. They established service offices nationwide, organized reader meetings, essentially functioning as a political party. Magazine content boldly criticized government and proposed democratic reforms, with circulation rapidly climbing.
 
-On December 10, 1979, *Formosa* magazine organized a human rights commemoration in Kaohsiung, sparking the "Kaohsiung Incident" (Formosa Incident). Military police suppressed crowds and arrested tangwai leaders. Though this severely damaged the tangwai movement, it also showed the international community Taiwan's democratic aspirations.
+On December 10, 1979, _Formosa_ magazine organized a human rights commemoration in Kaohsiung, sparking the "Kaohsiung Incident" (Formosa Incident). Military police suppressed crowds and arrested tangwai leaders. Though this severely damaged the tangwai movement, it also showed the international community Taiwan's democratic aspirations.
 
 ### From Underground to Aboveground: Political Party Embryos
 

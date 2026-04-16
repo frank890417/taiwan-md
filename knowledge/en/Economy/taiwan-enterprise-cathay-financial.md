@@ -1,17 +1,26 @@
 ---
-title: "Taiwan Enterprise: Cathay Financial Holding"
+title: 'Taiwan Enterprise: Cathay Financial Holding'
 description: "Taiwan's Largest Financial Holding Company: The Financial Empire Built by the Lin Yuan Group"
 date: 2026-03-20
-tags: [economy, enterprise, financial services, financial holding, banking, insurance]
+tags:
+  [
+    economy,
+    enterprise,
+    financial services,
+    financial holding,
+    banking,
+    insurance,
+  ]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：國泰金控.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Cathay Financial Holding is Taiwan's largest financial holding company by assets, with total assets of NT$12 trillion, encompassing subsidiaries including Cathay Life Insurance, Cathay United Bank, and Cathay Century Insurance. In November 2025, it posted a single-month profit of NT$14.62 billion, claiming the profit crown for two consecutive months. Starting from Tsai Wan-tsai's establishment of Cathay Life Insurance in 1962, it has developed into a financial empire spanning insurance, banking, securities, and investment trust, playing a pivotal role in Taiwan's financial industry development.
 
 ## Why It Matters
@@ -33,27 +42,32 @@ The group's business strategy focuses on "digital transformation" and "sustainab
 ## Key Facts (Numbers Tell the Story)
 
 **Group Scale**:
+
 - Total assets: NT$12 trillion, Taiwan's largest financial holding company (Wikipedia, July 3, 2025)
 - Market value: Approximately NT$700 billion (March 2026 estimate)
 - Employee count: Approximately 50,000 people (including overseas offices)
 
 **Profitability Performance**:
+
 - November 2025 single-month after-tax profit: NT$14.62 billion, claiming profit crown for two consecutive months
 - First 11 months of 2025 cumulative profit: Estimated approximately NT$140 billion
 - ROE (Return on Equity): Approximately 10-12%
 
 **Market Position**:
+
 - Life Insurance: Cathay Life is Taiwan's largest domestic life insurer by market share
 - Banking: Cathay United Bank is Taiwan's third-largest private bank
 - Property Insurance: Cathay Century Insurance among Taiwan's top three property insurers
 - Overall: Taiwan Academy of Banking and Finance calls it a "key regional banking group in Asia"
 
 **Digital Transformation Results**:
+
 - Cathay United Bank App downloads exceed 5 million
 - Digital account openings continue growing
 - AI customer service system handles over 60% of customer inquiries
 
 **International Layout**:
+
 - Operations in mainland China, Hong Kong, Singapore, Vietnam, Indonesia and other locations
 - Important position in Chinese market through partnerships with local operators
 

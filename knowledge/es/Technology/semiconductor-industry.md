@@ -3,6 +3,7 @@ title: 'semiconductor-industry'
 date: 2026-03-17
 tags: [technology, semiconductor, TSMC, industry]
 description: 'La industria de semiconductores de Taiwán, particularmente TSMC, no solo es un pilar crucial de la economía de Taiwán, sino que también desempeña un papel clave'
+translatedFrom: 'Technology/半導體產業.md'
 ---
 
 # Industria de semiconductores de Taiwán (centrada en TSMC)

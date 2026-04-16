@@ -18,6 +18,7 @@ readingTime: 13
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
 ---
 
 # 台湾の5Gネットワーク整備とデジタルトランスフォーメーション

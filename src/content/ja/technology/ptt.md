@@ -18,6 +18,7 @@ featured: false
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Technology/PTT批踢踢.md'
 ---
 
 # PTT批踢踢：台湾で最も頑固な公共広場

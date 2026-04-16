@@ -8,6 +8,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：廣達電腦.md'
 ---
 
 > **30-second overview:** A 1987 factory fire prompted Barry Lam to resign from Compal Electronics. In 1988, he rented two floors in Taipei's Shilin district and founded Quanta Computer with NT$30 million in capital. 36 years later, Quanta has become the world's largest laptop contract manufacturer, with 2023 revenue of NT$1.08 trillion. One out of every three laptops globally comes from Quanta. As the AI era arrives, Quanta has elegantly pivoted to become NVIDIA's most important server assembly partner.

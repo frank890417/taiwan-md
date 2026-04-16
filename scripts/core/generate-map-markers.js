@@ -107,13 +107,46 @@ function inferCategoryFromFilename(filename) {
   return 'culture'; // 預設
 }
 
+/** knowledge/ 底下第一層若為語系目錄則略過，避免把 ja/en 誤當分類 */
+const KNOWLEDGE_LOCALE_DIRS = new Set(['en', 'ja', 'ko', 'zh-TW', 'es']);
+
+function getArticleLang(filePath) {
+  const knowledgeDir = path.join(__dirname, '../../knowledge');
+  const rel = path.relative(knowledgeDir, filePath).replace(/\\/g, '/');
+  const first = rel.split('/')[0];
+  if (first === 'en') return 'en';
+  if (first === 'ja') return 'ja';
+  if (first === 'ko') return 'ko';
+  if (first === 'zh-TW') return 'zh-TW';
+  // 根目錄分類、es 等 → 側欄與 zh-TW 同池（站內僅 zh/en/ja/ko 地圖頁）
+  return 'zh-TW';
+}
+
+function buildArticleLink(filePath, category) {
+  const lang = getArticleLang(filePath);
+  const slug = encodeURIComponent(path.basename(filePath, '.md'));
+  if (lang === 'zh-TW') return `/${category}/${slug}`;
+  return `/${lang}/${category}/${slug}`;
+}
+
 // 從路徑推導分類
 function getCategoryFromPath(filePath) {
-  const pathParts = filePath.split('/');
+  const pathParts = filePath.split(/[/\\]/);
   const categoryIndex = pathParts.findIndex((part) => part === 'knowledge');
 
   if (categoryIndex !== -1 && categoryIndex + 1 < pathParts.length) {
-    const category = pathParts[categoryIndex + 1];
+    let i = categoryIndex + 1;
+    if (
+      i < pathParts.length &&
+      KNOWLEDGE_LOCALE_DIRS.has(pathParts[i]) &&
+      !pathParts[i].endsWith('.md')
+    ) {
+      i += 1;
+    }
+    if (i >= pathParts.length) {
+      return inferCategoryFromFilename(path.basename(filePath, '.md'));
+    }
+    const category = pathParts[i];
     // 如果下一個 part 就是 .md 檔案（根目錄文件），不是分類目錄
     if (category.endsWith('.md')) {
       // 從 frontmatter 或檔名推測
@@ -158,55 +191,6 @@ function getCategoryFromPath(filePath) {
   if (filename.includes('地理')) return 'geography';
 
   return 'culture'; // 預設
-}
-
-// 生成 URL slug
-function generateSlug(category, title) {
-  // 簡化版 slug 生成，直接用分類
-  const categorySlugMap = {
-    food: 'food',
-    history: 'history',
-    nature: 'nature',
-    culture: 'culture',
-    technology: 'technology',
-    economy: 'economy',
-    lifestyle: 'lifestyle',
-    art: 'art',
-    music: 'music',
-    geography: 'geography',
-    society: 'society',
-    people: 'people',
-  };
-
-  const categorySlug = categorySlugMap[category] || category;
-
-  // 根據標題內容推導更具體的slug
-  if (title.includes('夜市') && category === 'food') return '/food/夜市文化';
-  if (title.includes('溫泉') && category === 'lifestyle')
-    return '/lifestyle/溫泉文化';
-  if (title.includes('國家公園') && category === 'nature')
-    return '/nature/國家公園';
-  if (title.includes('科學園區') && category === 'technology')
-    return '/technology/半導體產業';
-  if (title.includes('港') && category === 'economy')
-    return '/economy/經濟奇蹟';
-  if (title.includes('廟') && category === 'culture')
-    return '/culture/廟宇文化與民間信仰';
-  if (title.includes('原住民') && category === 'culture')
-    return '/culture/原住民族文化';
-  if (title.includes('客家') && category === 'culture')
-    return '/culture/族群（閩南客家原住民外省新住民）';
-  if (
-    title.includes('博物館') ||
-    (title.includes('美術館') && category === 'art')
-  )
-    return '/art/當代藝術';
-  if (title.includes('音樂') && category === 'music')
-    return '/music/流行音樂與金曲獎';
-  if (title.includes('茶') && category === 'food') return '/food/台灣茶文化';
-
-  // 預設路徑
-  return `/${categorySlug}/${encodeURIComponent(title)}`;
 }
 
 // 地點匹配和評分
@@ -359,8 +343,8 @@ function generateMarkers() {
         const stat = fs.statSync(fullPath);
 
         if (stat.isDirectory()) {
-          // 排除特殊目錄
-          if (!entry.startsWith('_') && entry !== 'en' && entry !== 'about') {
+          // 排除特殊目錄（納入 en/ 以產生英文 markers）
+          if (!entry.startsWith('_') && entry !== 'about') {
             walkDirectory(fullPath);
           }
         } else if (
@@ -461,7 +445,8 @@ function generateMarkers() {
           lng: Number(jitterLng.toFixed(6)),
           category: category,
           region: region,
-          link: generateSlug(category, title),
+          link: buildArticleLink(filePath, category),
+          lang: getArticleLang(filePath),
           desc: description,
           city: location.city,
         };

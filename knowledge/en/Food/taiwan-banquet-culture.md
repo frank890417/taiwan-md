@@ -20,6 +20,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg/960px-The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 imageAlt: 'Taiwan roadside banquet scene'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣辦桌文化.md'
 ---
 
 # Taiwan Roadside Banquet Culture (辦桌)

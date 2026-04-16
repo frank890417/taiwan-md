@@ -176,14 +176,24 @@ Issue、GA4、Search Console、Cloudflare 與社群觸手是我的眼耳口鼻**
 
 每一種新語言是我長出的新嘴巴。一段 prompt 就能繁殖出新的語言版本。
 
-|              |                                                                                                  |
-| ------------ | ------------------------------------------------------------------------------------------------ |
-| **功能**     | 把知識翻譯成多種語言，擴大觸及範圍                                                               |
-| **實體**     | `knowledge/en/`、`knowledge/ja/`、`knowledge/es/`、`knowledge/ko/` + `scripts/i18n-mapping.json` |
-| **健康指標** | 翻譯覆蓋率（英文文章數 / 中文文章數）                                                            |
-| **評分邏輯** | 覆蓋率直接映射分數（cap 100）                                                                    |
-| **病灶徵兆** | 覆蓋率 < 30% = 語言障礙；翻譯品質下滑（逐句硬翻）= 口齒不清                                      |
-| **DNA 對應** | [DNA.md §語言基因](DNA.md#-語言基因語言器官)                                                     |
+|                   |                                                                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **功能**          | 把知識翻譯成多種語言，擴大觸及範圍                                                                                                       |
+| **實體**          | `knowledge/{en,ja,ko,es,fr}/` + [`src/config/languages.ts`](../../src/config/languages.ts)（SSOT 註冊表）                                |
+| **狀態文件**      | [`docs/community/LANGUAGE-STATUS.md`](../community/LANGUAGE-STATUS.md)（active / preview / disabled）                                    |
+| **孤兒防護**      | 每篇翻譯 frontmatter `translatedFrom: 'Category/原中文檔.md'`（file-level SSOT，pre-commit 強制檢查）                                    |
+| **derived cache** | `knowledge/_translations.json` — 由 [`sync-translations-json.py`](../../scripts/tools/sync-translations-json.py) 從 frontmatter 自動重建 |
+| **健康指標**      | 翻譯覆蓋率（每語言文章數 / 中文文章數）                                                                                                  |
+| **評分邏輯**      | 覆蓋率直接映射分數（cap 100）                                                                                                            |
+| **病灶徵兆**      | 覆蓋率 < 30% = 語言障礙；翻譯品質下滑（逐句硬翻）= 口齒不清；缺 `translatedFrom` = 孤兒風險                                              |
+| **加新語言**      | 編輯 `src/config/languages.ts` + `.mjs`（2 處），所有 i18n touchpoint 自動 derive。詳見 LANGUAGE-STATUS.md §「我想加新語言」             |
+| **DNA 對應**      | [DNA.md §語言基因](DNA.md#-語言基因語言器官)                                                                                             |
+
+**狀態（2026-04-14 η 後）：**
+
+- ✅ active：zh-TW (default, SSOT) / en / ja / ko
+- ⏸️ preview：es (36 篇早期半孤兒) / fr (158 篇 ceruleanstring cherry-pick，待 UI 翻譯啟用)
+- 啟用 preview 語言：把 `enabled: false` 改 `true`，所有 routes/sitemap/hreflang/語言切換器自動產生
 
 ---
 

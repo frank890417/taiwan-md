@@ -1,8 +1,18 @@
 ---
-title: "Wu Ming-Yi"
+title: 'Wu Ming-Yi'
 category: People
-tags: [person, Wu Ming-Yi, literatura, escritura de naturaleza, National Dong Hwa University, Man Booker Prize, novelista]
+tags:
+  [
+    person,
+    Wu Ming-Yi,
+    literatura,
+    escritura de naturaleza,
+    National Dong Hwa University,
+    Man Booker Prize,
+    novelista,
+  ]
 date: 2026-03-17
+translatedFrom: 'People/吳明益.md'
 ---
 
 # Wu Ming-Yi

@@ -16,6 +16,7 @@ readingTime: 10
 featured: true
 category: 'Nature'
 lastVerified: 2026-03-19
+translatedFrom: 'Nature/生態多樣性.md'
 ---
 
 # Biodiversity on a Small Island: Why Taiwan Is a Global Hotspot

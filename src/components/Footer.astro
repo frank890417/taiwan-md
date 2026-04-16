@@ -60,9 +60,12 @@ const translatePath = useTranslatedPath(lang);
         </p>
         <p class="mt-[0.6rem] flex items-center gap-[0.4rem] text-[0.8rem]">
           <span class="text-[#94a3b8]">{t('footer.support-us')}:</span>
-          <code
-            class="rounded bg-white/[0.06] px-2 py-[0.15rem] font-['SF_Mono','Fira_Code',monospace] text-[0.8rem] tracking-[0.02em] text-[#a7c7a7]"
-            >taiwanmd.eth</code
+          <a
+            href="https://portaly.cc/taiwanmd/support"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="rounded bg-white/[0.06] px-2 py-[0.15rem] text-[0.8rem] tracking-[0.02em] text-[#a7c7a7] no-underline transition-all duration-200 ease hover:bg-white/[0.12] hover:text-[#c7d2c7]"
+            >{t('footer.support-us.cta')} →</a
           >
         </p>
       </div>

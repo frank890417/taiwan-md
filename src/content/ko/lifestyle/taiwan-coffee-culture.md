@@ -10,6 +10,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: true
+translatedFrom: 'Lifestyle/台灣咖啡文化.md'
 ---
 
 # 대만 커피 문화: 편의점에서 한 해 6억 잔이 팔리는 섬

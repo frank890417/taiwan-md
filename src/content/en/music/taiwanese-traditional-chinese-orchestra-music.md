@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-04-04
+translatedFrom: 'Music/台灣國樂.md'
 ---
 
 # Taiwanese Guoyue: The Island Sound That Grew from Chinese Instruments

@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Literature'
 date: 2026-03-17
+translatedFrom: 'People/吳明益.md'
 ---
 
 # Wu Ming-Yi

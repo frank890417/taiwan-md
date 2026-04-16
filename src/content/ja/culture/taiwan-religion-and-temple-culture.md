@@ -10,6 +10,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 ---
 
 # 台湾の宗教と寺廟文化

@@ -3,6 +3,7 @@ title: ALIEN Art Centre (Jinma Guest House)
 description: A Cold War military transit station where soldiers said goodbye before sailing to the frontlines — abandoned for two decades, then resurrected as Lonely Planet's top pick for contemporary art in Kaohsiung.
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
+translatedFrom: 'Art/金馬賓館當代美術館.md'
 ---
 
 # ALIEN Art Centre — From Military Farewell Station to Art Sanctuary
@@ -47,7 +48,7 @@ On November 28, 2018, the Jinma Guest House reopened as ALIEN Art Centre.
 
 ## Why "ALIEN"?
 
-The English name sounds like it belongs to a science fiction museum, but the inspiration comes from Spielberg's *E.T.* — specifically, the moment when two fingers touch across the unknown. The team explains: "ALIEN carries the meaning of reaching toward the unknown."
+The English name sounds like it belongs to a science fiction museum, but the inspiration comes from Spielberg's _E.T._ — specifically, the moment when two fingers touch across the unknown. The team explains: "ALIEN carries the meaning of reaching toward the unknown."
 
 The name accidentally mirrors the building's history. In 1967, the soldiers standing in these halls were also facing the unknown — the unknown across the strait, the unknown of war, the unknown of whether they'd return. Fifty years later, visitors in the same building face a different kind of unknown: the perceptual frontiers opened by contemporary art.
 
@@ -55,13 +56,13 @@ The name accidentally mirrors the building's history. In 1967, the soldiers stan
 
 The driving force behind ALIEN Art Centre is an unusual father-daughter partnership. Father Shao Yung-Tien, the YUIMOM Group founder, didn't start painting until his sixties — then produced over 200 works in barely a year, even inventing his own brushes and tools. Daughter Yaman Shao took on the role of executive director of ALIEN Art in her late twenties, with the ambition of curating at international standards.
 
-Their 2020 exhibition *Mad · Zen* was their first joint show, spanning both the Jinma Guest House and the Silks Club hotel. The father's "madness" — business philosophy, raw creative energy — met the daughter's "zen" — introspection, serenity, aesthetic refinement — in a cross-generational dialogue that embodied what the museum stands for.
+Their 2020 exhibition _Mad · Zen_ was their first joint show, spanning both the Jinma Guest House and the Silks Club hotel. The father's "madness" — business philosophy, raw creative energy — met the daughter's "zen" — introspection, serenity, aesthetic refinement — in a cross-generational dialogue that embodied what the museum stands for.
 
 ## International Recognition
 
 Within two years of opening, the museum won Shopping Design magazine's 2019 "Best 100 Cultural Landscape" award. In 2020, **Lonely Planet named it Kaohsiung's top art destination** — a remarkable achievement for a privately funded museum outside Taipei.
 
-Notable exhibitions have included *Arman: Thinking Objects* (2022–2023), co-curated with French curator Jérôme Neutres; *Responsive Vision: Getulio Alviani* (2023–2024), the Italian Op Art pioneer's first comprehensive retrospective in East Asia; and *Infinite Voyage: Shao Yung-Tien*, which combined AI-generated imagery with interactive music.
+Notable exhibitions have included _Arman: Thinking Objects_ (2022–2023), co-curated with French curator Jérôme Neutres; _Responsive Vision: Getulio Alviani_ (2023–2024), the Italian Op Art pioneer's first comprehensive retrospective in East Asia; and _Infinite Voyage: Shao Yung-Tien_, which combined AI-generated imagery with interactive music.
 
 Running a private museum in Kaohsiung — not Taipei — at a NT$250 admission fee presents real challenges. Yaman's response has been to go global: collaborating with art institutions in Hong Kong, Shanghai, Amsterdam, London, and New York, exporting Taiwan's curatorial energy to the international stage.
 

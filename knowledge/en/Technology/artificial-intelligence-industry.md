@@ -16,6 +16,7 @@ readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/AI人工智慧產業.md'
 ---
 
 # Taiwan's AI and Artificial Intelligence Industry

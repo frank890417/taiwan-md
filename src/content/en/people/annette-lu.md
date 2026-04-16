@@ -7,6 +7,7 @@ subcategory: 'Politics & Democracy'
 category: 'people'
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'People/呂秀蓮.md'
 ---
 
 > **30-second overview:** In 1979, Annette Lu was sentenced to 12 years in prison for the Kaohsiung Incident;

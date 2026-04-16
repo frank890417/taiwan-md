@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
+translatedFrom: 'People/許芳宜.md'
 ---
 
 # Fang-Yi Sheu (許芳宜): Taiwan's Light Speaking Through the Body

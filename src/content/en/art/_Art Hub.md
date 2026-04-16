@@ -1,8 +1,9 @@
 ---
-title: "Art"
+title: 'Art'
 date: 2026-03-23
 tags: [art, Hub]
-description: "March 25, 1947, Chiayi train station. As shots from the 228 Incident still echoed, painter Chen Cheng-po collapsed in front of the square he had painted countless times. His blood stained the city he had depicted his entire life. In that moment, art and politics became forever intertwined in Taiwan. From Japanese colonial watercolor enlightenment to Venice Biennale video installations, this island forged unique aesthetics in a compressed century—not a Western imitation, not an Eastern specimen."
+description: 'March 25, 1947, Chiayi train station. As shots from the 228 Incident still echoed, painter Chen Cheng-po collapsed in front of the square he had painted countless times. His blood stained the city he had depicted his entire life. In that moment, art and politics became forever intertwined in Taiwan. From Japanese colonial watercolor enlightenment to Venice Biennale video installations, this island forged unique aesthetics in a compressed century—not a Western imitation, not an Eastern specimen.'
+translatedFrom: 'Art/_Art Hub.md'
 ---
 
 # Taiwan Art 🎨
@@ -83,4 +84,4 @@ Contemporary Taiwan photography focuses more on identity's complexity. Indigenou
 
 ---
 
-*Taiwan art's most moving quality lies in its refusal of purity. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local sentiment and international language. In an increasingly homogenized world, Taiwan art uses "mixing" to prove beauty's possibilities.*
+_Taiwan art's most moving quality lies in its refusal of purity. It's the mixed blood of indigenous myths and Japanese aesthetics, the hybrid of Chinese literati tradition and Western modernism, the fusion of local sentiment and international language. In an increasingly homogenized world, Taiwan art uses "mixing" to prove beauty's possibilities._

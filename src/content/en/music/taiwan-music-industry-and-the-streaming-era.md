@@ -16,6 +16,7 @@ readingTime: 15
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣音樂產業與串流時代.md'
 ---
 
 # Taiwan’s Music Industry in the Streaming Era: From Record Stores to Platforms

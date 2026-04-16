@@ -1,9 +1,17 @@
 ---
 title: "Taiwan's Digital Animation and Imagery Industry"
 description: "From groundbreaking visual effects studios to internationally acclaimed animated films, Taiwan has quietly become one of Asia's most important hubs for digital animation and visual storytelling."
-date: "2024-01-15"
-tags: ["animation", "digital art", "film industry", "technology", "creative economy"]
-status: "complete"
+date: '2024-01-15'
+tags:
+  [
+    'animation',
+    'digital art',
+    'film industry',
+    'technology',
+    'creative economy',
+  ]
+status: 'complete'
+translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 ---
 
 ## A Creative Powerhouse in East Asia
@@ -16,7 +24,7 @@ International audiences may not always realize it, but the stunning visual effec
 
 ### The Era of Hand-Drawn Animation
 
-The story begins in the 1970s and early 1980s, when Taiwan's film studios began attracting outsourced animation work from American and Japanese studios. Companies like Wang Film Productions — founded in 1978 by James Wang — became essential production partners for major Western studios. At its peak, Wang Film was producing animation for *He-Man and the Masters of the Universe*, *Fraggle Rock*, and dozens of other beloved American television series.
+The story begins in the 1970s and early 1980s, when Taiwan's film studios began attracting outsourced animation work from American and Japanese studios. Companies like Wang Film Productions — founded in 1978 by James Wang — became essential production partners for major Western studios. At its peak, Wang Film was producing animation for _He-Man and the Masters of the Universe_, _Fraggle Rock_, and dozens of other beloved American television series.
 
 This era was crucial not merely for the economic activity it generated, but for the institutional knowledge it created. Thousands of Taiwanese animators learned the rigorous craft of professional animation through these international partnerships. They absorbed industry standards, developed systematic production pipelines, and built the organizational infrastructure that would later support the transition to digital techniques.
 
@@ -30,11 +38,11 @@ The government played a supporting role through the **Government Information Off
 
 ### Ang Lee and the Shifting of Perception
 
-When Ang Lee's *Crouching Tiger, Hidden Dragon* won the Academy Award for Best Cinematography in 2001, it was a watershed moment for Taiwanese film internationally. More significantly for the animation and effects industry, Lee's subsequent films demonstrated the world-class visual capabilities available in Taiwan. His 2012 adaptation of *Life of Pi*, produced with extensive involvement of Taiwanese visual effects artists, earned the Oscar for Best Visual Effects — a direct validation of the island's technical workforce.
+When Ang Lee's _Crouching Tiger, Hidden Dragon_ won the Academy Award for Best Cinematography in 2001, it was a watershed moment for Taiwanese film internationally. More significantly for the animation and effects industry, Lee's subsequent films demonstrated the world-class visual capabilities available in Taiwan. His 2012 adaptation of _Life of Pi_, produced with extensive involvement of Taiwanese visual effects artists, earned the Oscar for Best Visual Effects — a direct validation of the island's technical workforce.
 
 ### "On Happiness Road" and Animated Storytelling
 
-The 2017 animated feature **《幸福路上》** (*On Happiness Road*), directed by Sung Hsin-yin, became one of the most internationally acclaimed Taiwanese animated films in recent memory. The film — which follows a young woman returning from America to attend her grandmother's funeral and reflects on the rapid social transformations of Taiwanese society — screened at over 40 international film festivals and earned distribution deals in numerous countries.
+The 2017 animated feature **《幸福路上》** (_On Happiness Road_), directed by Sung Hsin-yin, became one of the most internationally acclaimed Taiwanese animated films in recent memory. The film — which follows a young woman returning from America to attend her grandmother's funeral and reflects on the rapid social transformations of Taiwanese society — screened at over 40 international film festivals and earned distribution deals in numerous countries.
 
 The film's aesthetic drew deliberately on the visual vocabulary of traditional ink painting and folk illustration, fusing these inherited forms with contemporary animation techniques. This synthesis — honoring cultural inheritance while pursuing technical modernity — represents a defining characteristic of Taiwan's most celebrated animated works.
 
@@ -58,7 +66,7 @@ Despite these strengths, the VFX sector faces structural challenges. Competition
 
 ## Gaming: Animation's Adjacent Universe
 
-Taiwan's video game industry — home to companies like **HTC** (with its focus on virtual reality), **Rayark** (creator of the internationally acclaimed *Cytus* and *Deemo* series), and dozens of independent studios — has been a powerful parallel driver of the animation and digital art ecosystem.
+Taiwan's video game industry — home to companies like **HTC** (with its focus on virtual reality), **Rayark** (creator of the internationally acclaimed _Cytus_ and _Deemo_ series), and dozens of independent studios — has been a powerful parallel driver of the animation and digital art ecosystem.
 
 The skills required for high-quality game art — character rigging, environment modeling, texture work, procedural animation — overlap substantially with those of the film and broadcast animation industries. Many Taiwanese artists move fluidly between game production and film/animation work across their careers, and the shared talent pool benefits both sectors.
 

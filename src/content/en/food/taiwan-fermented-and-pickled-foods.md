@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
 ---
 
 # Taiwan’s Fermented and Pickled Foods

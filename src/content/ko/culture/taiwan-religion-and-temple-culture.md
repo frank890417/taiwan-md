@@ -10,6 +10,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-06
 lastHumanReview: true
+translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 ---
 
 # 대만의 종교와 사찰 문화

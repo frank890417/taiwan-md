@@ -11,6 +11,7 @@ category: 'Society'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+translatedFrom: 'Society/為台灣而教TFT.md'
 ---
 
 > Taiwanese people aged 25 to 35 are running a survival experiment that nobody officially declared. The median monthly salary sits at TWD 38,000 (roughly USD 1,200). A basic studio apartment in Taipei starts at TWD 14,000. One full-time job doesn't cut it — so after clocking out, they flip on a delivery app, freelance through the weekend, and edit videos past midnight. This isn't a "slash career trend." It's a survival strategy forced into existence by structural failure.

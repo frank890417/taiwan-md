@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Literature'
 lastVerified: 2026-03-20
+translatedFrom: 'People/鍾理和.md'
 ---
 
 # Zhong Lihe: The Eternal Seeker of Nativeland

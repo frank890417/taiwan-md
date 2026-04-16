@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: [people, entrepreneur, technology, manufacturing]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+translatedFrom: 'People/郭台銘.md'
 ---
 
 # Terry Gou

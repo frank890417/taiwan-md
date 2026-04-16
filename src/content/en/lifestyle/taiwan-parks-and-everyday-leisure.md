@@ -3,6 +3,7 @@ title: 'Taiwan’s Parks and Everyday Leisure'
 description: 'From dawn tai chi to late‑night strolls—parks as Taiwan’s intergenerational living rooms.'
 tags: [Parks, Leisure, Social Life, Intergenerational, Daily Life]
 lastVerified: 2026-03-19
+translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
 ---
 
 # Taiwan’s Parks and Everyday Leisure

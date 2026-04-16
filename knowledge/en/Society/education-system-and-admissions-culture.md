@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Society/教育制度與升學文化.md'
 ---
 
 # Education System and Admissions Culture

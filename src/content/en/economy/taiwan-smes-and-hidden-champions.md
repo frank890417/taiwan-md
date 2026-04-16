@@ -13,6 +13,7 @@ tags:
   ]
 category: Economy
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
 ---
 
 # Taiwan's SMEs and Hidden Champions

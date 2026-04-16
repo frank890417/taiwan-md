@@ -3,6 +3,7 @@ title: Taiwanese Photography
 category: Art
 tags: [photography, visual art, documentary]
 date: 2026-03-18
+translatedFrom: 'Art/台灣攝影.md'
 ---
 
 # Taiwanese Photography: Islands in Light and Shadow

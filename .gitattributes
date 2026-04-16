@@ -1,0 +1,4 @@
+# Translation mapping is append-only; conflicts should union both sides.
+# This lets multiple translation PRs merge cleanly even when they all
+# add new entries near the end of the file.
+knowledge/_translations.json merge=union

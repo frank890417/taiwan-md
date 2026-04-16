@@ -2,7 +2,16 @@
 title: '대만 아침식사 문화'
 description: '단빙과 사오빙 요우탸오에서 융허더우장(永和豆漿)의 해외 확장까지, 아침식사 가게 아주머니와 대만 사람들의 아침 의식'
 date: 2026-03-18
-tags: ['아침식사', '단빙', '사오빙 요우탸오', '융허더우장', '메이얼메이', '아침식사 가게', '두유 가게']
+tags:
+  [
+    '아침식사',
+    '단빙',
+    '사오빙 요우탸오',
+    '융허더우장',
+    '메이얼메이',
+    '아침식사 가게',
+    '두유 가게',
+  ]
 subcategory: '음료 문화'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +21,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
 imageAlt: '대만식 단빙'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣早餐文化.md'
 ---
 
 # 대만 아침식사 문화

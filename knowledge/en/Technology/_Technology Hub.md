@@ -3,6 +3,7 @@ title: 'Technology'
 date: 2026-03-23
 tags: [technology, Hub]
 description: "Taiwan is not just a contract manufacturing kingdom — this island controls the life and death of 70% of the world's advanced chips while nurturing civic tech revolutions like g0v. From Morris Chang's 'impossible mission' of creating TSMC to Audrey Tang redefining democracy with code, Taiwan tech's true power lies in this: while the world chases the next unicorn, we've already proven how small nations can use technology to change the world."
+translatedFrom: 'Technology/_Technology Hub.md'
 ---
 
 # Taiwan Technology 💻

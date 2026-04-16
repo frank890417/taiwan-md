@@ -126,12 +126,16 @@ check_file() {
   local reading_no_desc=0
   local reading_wikilinks=0
 
-  if echo "$content" | grep -qE '^\*\*延伸閱讀\*\*'; then
+  # Accept both `**延伸閱讀**` (inline bold, 94 articles) and `## 延伸閱讀`
+  # (H2 heading, 53 articles). Bug fix 2026-04-15: regex only matched bold
+  # form, so articles using H2 (incl. 李洋 + 張懸與安溥, two strongest spores)
+  # were false-positive NO_READING.
+  if echo "$content" | grep -qE '^(\*\*延伸閱讀\*\*|## 延伸閱讀)'; then
     has_reading=1
     # Count markdown link items in 延伸閱讀 section
-    # Extract lines between **延伸閱讀** and next ## or end
+    # Extract lines between the opener and next ## heading
     local reading_section
-    reading_section=$(echo "$content" | awk '/^\*\*延伸閱讀\*\*/{p=1;next} /^##/{p=0} p{print}')
+    reading_section=$(echo "$content" | awk '/^(\*\*延伸閱讀\*\*|## 延伸閱讀)/{p=1;next} /^##/{p=0} p{print}')
     reading_items=$(echo "$reading_section" | grep -cE '^\s*-\s*\[' 2>/dev/null || echo 0)
     reading_items=${reading_items//[[:space:]]/}
 

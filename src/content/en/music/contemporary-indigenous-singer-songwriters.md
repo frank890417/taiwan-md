@@ -16,6 +16,7 @@ readingTime: 10
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/當代原住民創作歌手.md'
 ---
 
 # Contemporary Indigenous Singer‑Songwriters in Taiwan

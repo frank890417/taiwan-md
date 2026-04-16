@@ -3,6 +3,7 @@ title: 'Personas'
 date: 2026-03-17
 tags: [personas, Hub]
 description: 'Taiwán ha nutrido a numerosas figuras destacadas que brillan en el escenario internacional, desde el director ganador del Oscar Ang Lee, el padrino de semiconductores Morris Chang, el fundador de Cloud Gate Dance Theatre Lin Hwai-min, hasta la primera mujer presidenta Tsai Ing-wen. Estas glorias de Taiwán no solo han logrado logros sobresalientes en sus campos, sino que también muestran al mundo el espíritu innovador, el patrimonio cultural y la voluntad resiliente del pueblo taiwanés.'
+translatedFrom: 'People/_People Hub.md'
 ---
 
 # Personas de Taiwán 👥

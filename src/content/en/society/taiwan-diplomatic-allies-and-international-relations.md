@@ -14,6 +14,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣邦交國與國際外交.md'
 ---
 
 # Taiwan's Diplomatic Allies and International Relations

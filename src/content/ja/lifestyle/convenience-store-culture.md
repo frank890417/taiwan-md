@@ -19,6 +19,7 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 ---
 
 # 台湾のコンビニ文化

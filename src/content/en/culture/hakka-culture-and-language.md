@@ -7,6 +7,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 14
 featured: false
+translatedFrom: 'Culture/客家文化與語言.md'
 ---
 
 # Hakka Culture and Language

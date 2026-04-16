@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Science & Academia'
 lastVerified: 2026-03-20
+translatedFrom: 'People/翁啟惠.md'
 ---
 
 # Chi-Huey Wong: International Authority in Glycoscience

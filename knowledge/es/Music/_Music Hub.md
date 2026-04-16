@@ -3,6 +3,7 @@ title: 'Música'
 date: 2026-03-17
 tags: [música, Hub]
 description: 'Taiwán es una base importante de música pop en chino mandarín, los Golden Melody Awards son conocidos como los Grammy del mundo de la música en chino mandarín. Desde superestrellas como Jay Chou, Jolin Tsai y Mayday hasta bandas de nueva generación como No Party for Cao Dong y Accusefive, la escena musical taiwanesa muestra una ecología completa desde lo mainstream hasta lo independiente. La rica cultura de Live House y diversos festivales de música hacen de Taiwán un bastión vibrante de creación musical en Asia.'
+translatedFrom: 'Music/_Music Hub.md'
 ---
 
 # Música de Taiwán 🎵

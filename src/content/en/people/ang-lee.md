@@ -7,6 +7,7 @@ subcategory: 'Film & Theater'
 author: 'Taiwan.md Contributors'
 readingTime: 15
 featured: true
+translatedFrom: 'People/李安.md'
 ---
 
 # Ang Lee — Cinematic Bridge Between East and West

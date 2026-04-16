@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/語言多樣性與母語文化.md'
 ---
 
 # Linguistic Diversity and Mother Tongue Culture

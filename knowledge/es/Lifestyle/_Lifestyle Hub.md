@@ -3,6 +3,7 @@ title: 'Estilo de Vida'
 date: 2026-03-17
 tags: [estilo de vida, Hub]
 description: 'El estilo de vida taiwanés fusiona tradición y modernidad, creando una cultura insular única. El seguro médico nacional cubre el 99,9%, la densidad de tiendas de conveniencia es la segunda más alta del mundo (una cada 2.213 personas), la tasa de penetración de motocicletas del 70% lidera el mundo. Desde la cultura de mercados nocturnos hasta círculos de vida 24 horas, la conveniencia de vida y el calor humano de los taiwaneses coexisten, mostrando la filosofía de vida de gran felicidad en una pequeña isla.'
+translatedFrom: 'Lifestyle/_Lifestyle Hub.md'
 ---
 
 # Estilo de Vida en Taiwán 🏠
@@ -86,7 +87,7 @@ Esta filosofía de vida se refleja en la búsqueda taiwanesa de "pequeñas y seg
 El encanto de la vida taiwanesa radica en crear conveniencia infinita con espacio limitado, mantener el calor humano en el ajetreo, preservar la cultura tradicional mientras se moderniza. Este equilibrio e inclusión son precisamente el poder blando más precioso de Taiwán.
 
 ![Paisaje urbano de Taipéi](/images/wiki/taiwan-mountain-scenic.jpg)
-_Fuente de la imagen: [Malcolm Koo](<https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG>) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)_
+_Fuente de la imagen: [Malcolm Koo](<https://commons.wikimedia.org/wiki/File:Sec._1,_Hankou_Street,_Zhongzheng_District,_Taipei_City_(Taiwan).JPG>) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)\_
 
 ![Tienda de conveniencia taiwanesa](/images/wiki/18dae3226cf0.jpg)
 _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:7-Eleven_Minyou_Store_and_FamilyMart_Fubei_Store_20240323.jpg) | CC BY-SA 4.0_

@@ -8,6 +8,7 @@ category: 'People'
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
+translatedFrom: 'People/李登輝.md'
 ---
 
 > **30-second overview:** An agricultural economist born under Japanese rule

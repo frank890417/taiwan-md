@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Society/社會運動與公民參與.md'
 ---
 
 # Social Movements and Civic Participation

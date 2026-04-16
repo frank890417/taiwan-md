@@ -6,6 +6,7 @@ tags: ['quotes', 'history', 'literature', 'culture']
 author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
+translatedFrom: 'About/看見台灣引言集.md'
 ---
 
 # Seeing Taiwan — Historical Impressions of the Island

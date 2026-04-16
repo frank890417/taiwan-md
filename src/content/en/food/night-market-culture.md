@@ -12,6 +12,7 @@ lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
 imageAlt: 'Taiwan Night Market Culture'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/夜市文化.md'
 ---
 
 # Taiwan Night Market Culture

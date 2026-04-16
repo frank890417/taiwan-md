@@ -15,6 +15,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 11
 featured: true
+translatedFrom: 'Art/台灣藝術教育與學院發展.md'
 ---
 
 # Taiwanese Art Education and Academic Development

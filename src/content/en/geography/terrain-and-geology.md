@@ -7,6 +7,7 @@ category: 'geography'
 readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Geography/地形與地質.md'
 ---
 
 > **30-second overview:** Taiwan is one of the world's youngest orogenic belts, yet preserves rocks from over 200 million years ago.

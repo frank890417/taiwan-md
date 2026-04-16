@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
 ---
 
 # Taiwan's Circular Economy and Resource Recycling

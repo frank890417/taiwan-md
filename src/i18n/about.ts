@@ -23,7 +23,7 @@ export const aboutUI = {
       'Surprisingly, no one had claimed the taiwan.md domain yet. Perhaps the universe was telling us it was time to make this happen.',
 
     // Stats
-    'about.stats.pages.number': '1186+',
+    'about.stats.pages.number': '2142+',
     'about.stats.pages.label': 'Pages',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'Countries',
@@ -335,8 +335,14 @@ export const aboutUI = {
       '✍️ Typography: The Quietest Voice of Culture',
     'about.sponsors.justfont.story.desc':
       "A knowledge base about Taiwan deserves to be written with Taiwan's own fonts. justfont sponsored the Webfont solution, making the warmth of Lanyang Mingti, the Taiwanese flavor of Citrus Honey, and the historical weight of Rixing Song become the first impression of every article. Typography is not just a typesetting tool — it carries the way a culture views itself.",
-    'about.sponsors.protico.text.html':
-      '<strong>Protico</strong> — Providing community real-time chat functionality, enabling direct communication between readers and contributors',
+    'about.sponsors.protico.story.title':
+      '💬 A real-time conversation gateway between readers and writers',
+    'about.sponsors.protico.story.desc':
+      'Protico provides real-time community chat, so readers can talk directly with the author and other readers after finishing an article. Writing is no longer one-way — every article now has a comment space that can breathe.',
+    'about.sponsors.portaly.story.title':
+      '🌱 Making "support" something simple',
+    'about.sponsors.portaly.story.desc':
+      'Portaly provides the payment processing and sponsorship infrastructure that lets more people help this digital sovereignty coral reef grow.',
     'about.sponsors.howie.text.html':
       '<strong>Howie Young</strong> — Protico founder, also sponsoring as an individual',
 
@@ -346,13 +352,11 @@ export const aboutUI = {
       'Whether through corporate products, professional services, or individual support, we welcome all forms of collaboration.<br />Sponsorship packages are customized based on contribution content, not defined by monetary amounts.',
     'about.sponsors.cta.contact': '📧 Contact Us About Sponsorship',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
-    'about.sponsors.eth.label':
-      'You can also support project operations via ETH donation:',
-    'about.sponsors.eth.address': 'taiwanmd.eth',
-    'about.sponsors.eth.copy': 'Copy',
-    'about.sponsors.eth.copied': 'Copied!',
-    'about.sponsors.eth.note':
-      'Donations fund article collection, website operations, and server costs',
+    'about.sponsors.portaly.label':
+      'Want to help write the letter this island leaves to the next generation?',
+    'about.sponsors.portaly.cta': 'Sponsor on Portaly',
+    'about.sponsors.portaly.note':
+      'Taiwan.md is a digital coral reef — growing new articles, languages, and contributors every day. Every supporter adds another line to the letter, and the reef remembers who helped it grow.',
     // FAQ Section
     'about.faq.title': 'FAQ',
     'about.faq.subtitle': 'Things you might want to know about Taiwan.md',
@@ -425,7 +429,7 @@ export const aboutUI = {
       '驚くことに、taiwan.md というドメインはまだ誰にも取られていませんでした。きっと宇宙が「今こそやるべき時だ」と教えてくれたのでしょう。',
 
     // Stats
-    'about.stats.pages.number': '1186+',
+    'about.stats.pages.number': '2142+',
     'about.stats.pages.label': 'ページ',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': 'か国',
@@ -733,8 +737,13 @@ export const aboutUI = {
     'about.sponsors.justfont.story.title': '✍️ 書体——文化の最も静かな声',
     'about.sponsors.justfont.story.desc':
       '台湾についてのナレッジベースは、台湾の書体で書かれるべきです。justfont が Webfont ソリューションを提供し、蘭陽明朝体の温もり、柑仔蜜の台湾テイスト、日星宋体の歴史的重みが、すべての記事の第一印象となりました。書体はただの組版ツールではありません——それは文化が自分自身を見つめる方法を体現しています。',
-    'about.sponsors.protico.text.html':
-      '<strong>Protico</strong> — コミュニティのリアルタイムチャット機能を提供し、読者とコントリビューターの直接交流を実現',
+    'about.sponsors.protico.story.title':
+      '💬 読者と書き手をつなぐリアルタイム対話の入口',
+    'about.sponsors.protico.story.desc':
+      'Protico はコミュニティのリアルタイムチャット機能を提供しています。記事を読み終わった読者は、そのまま著者や他の読者と会話を続けられる——書くことはもう一方通行ではなく、すべての記事に「呼吸できるコメント欄」が生まれました。',
+    'about.sponsors.portaly.story.title': '🌱 「支援する」を、シンプルに',
+    'about.sponsors.portaly.story.desc':
+      'Portaly は決済と支援システムを提供し、このデジタル主権の珊瑚礁を一緒に育てる人を増やしてくれています。',
     'about.sponsors.howie.text.html':
       '<strong>Howie Young</strong> — Protico 創設者、個人としてもスポンサー',
 
@@ -744,13 +753,11 @@ export const aboutUI = {
       '企業製品、専門サービス、個人サポートなど、あらゆる形のコラボレーションを歓迎します。<br />スポンサーパッケージは貢献内容に基づいてカスタマイズされ、金額では定義しません。',
     'about.sponsors.cta.contact': '📧 スポンサーシップについてお問い合わせ',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
-    'about.sponsors.eth.label':
-      'ETH 寄付でもプロジェクト運営をサポートできます：',
-    'about.sponsors.eth.address': 'taiwanmd.eth',
-    'about.sponsors.eth.copy': 'コピー',
-    'about.sponsors.eth.copied': 'コピーしました！',
-    'about.sponsors.eth.note':
-      '寄付金は記事収集、ウェブサイト運営、サーバー費用に使用されます',
+    'about.sponsors.portaly.label':
+      'この島が次の世代に残す手紙を、一緒に書きませんか？',
+    'about.sponsors.portaly.cta': 'Portaly で支援する',
+    'about.sponsors.portaly.note':
+      'Taiwan.md は毎日新しい記事・言語・貢献者を育てているデジタル珊瑚礁です。サポーターが一人増えるたびに、その手紙に一行が加わる——この礁は、誰が育ててくれたかを覚えています。',
     // FAQ Section
     'about.faq.title': 'よくある質問',
     'about.faq.subtitle': 'Taiwan.md について知りたいこと',
@@ -820,7 +827,7 @@ export const aboutUI = {
       '놀랍게도 taiwan.md 도메인을 아무도 선점하지 않았습니다. 어쩌면 우주가 이 일을 해야 할 때라고 알려주고 있었던 것일지도 모릅니다.',
 
     // Stats
-    'about.stats.pages.number': '1186+',
+    'about.stats.pages.number': '2142+',
     'about.stats.pages.label': '페이지',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '국가',
@@ -1124,8 +1131,13 @@ export const aboutUI = {
     'about.sponsors.justfont.story.title': '✍️ 서체, 문화의 가장 조용한 목소리',
     'about.sponsors.justfont.story.desc':
       '대만에 관한 지식 베이스는 대만의 서체로 쓰여야 합니다. justfont가 Webfont 솔루션을 후원하여 란양명조의 온화함, 감자꿀의 대만 맛, 일성송체의 역사적 무게가 모든 문서의 첫인상이 되었습니다. 서체는 단순한 조판 도구가 아닙니다 — 하나의 문화가 스스로를 바라보는 방식을 담고 있습니다.',
-    'about.sponsors.protico.text.html':
-      '<strong>Protico</strong> — 커뮤니티 실시간 채팅 기능을 제공하여 독자와 기여자가 직접 소통할 수 있도록',
+    'about.sponsors.protico.story.title':
+      '💬 독자와 작가를 잇는 실시간 대화의 입구',
+    'about.sponsors.protico.story.desc':
+      'Protico는 커뮤니티 실시간 채팅 기능을 제공합니다. 독자는 글을 읽고 나서 바로 작가나 다른 독자와 대화를 이어갈 수 있습니다——글쓰기는 더 이상 일방향이 아니고, 모든 글에 "숨 쉴 수 있는 댓글 공간"이 생겼습니다.',
+    'about.sponsors.portaly.story.title': '🌱 「응원」을 더 단순하게',
+    'about.sponsors.portaly.story.desc':
+      'Portaly는 결제와 후원 시스템을 제공해, 이 디지털 주권 산호초가 자라는 것을 더 많은 사람이 함께 지지할 수 있게 해줍니다.',
     'about.sponsors.howie.text.html':
       '<strong>Howie Young</strong> — Protico 창립자, 개인 자격으로도 후원',
 
@@ -1135,13 +1147,11 @@ export const aboutUI = {
       '기업 제품이든, 전문 서비스든, 개인 지원이든, 모든 형태의 협업을 환영합니다.<br />후원 패키지는 기여 내용에 맞춰 맞춤 설계되며, 금액으로 가치를 정의하지 않습니다.',
     'about.sponsors.cta.contact': '📧 후원 관련 문의하기',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
-    'about.sponsors.eth.label':
-      'ETH 기부로도 프로젝트 운영을 지원할 수 있습니다:',
-    'about.sponsors.eth.address': 'taiwanmd.eth',
-    'about.sponsors.eth.copy': '복사',
-    'about.sponsors.eth.copied': '복사됨!',
-    'about.sponsors.eth.note':
-      '기부금은 문서 수집, 웹사이트 운영 및 서버 비용에 사용됩니다',
+    'about.sponsors.portaly.label':
+      '이 섬이 다음 세대에 남길 편지를, 함께 써보시겠어요?',
+    'about.sponsors.portaly.cta': 'Portaly에서 후원하기',
+    'about.sponsors.portaly.note':
+      'Taiwan.md는 매일 새로운 글・언어・기여자가 자라는 디지털 산호초입니다. 후원자가 한 명 늘 때마다 그 편지에 한 줄이 더해집니다——이 산호초는, 누가 함께 키워줬는지 기억합니다.',
     // FAQ Section
     'about.faq.title': '자주 묻는 질문',
     'about.faq.subtitle': 'Taiwan.md에 대해 궁금할 수 있는 것들',
@@ -1211,7 +1221,7 @@ export const aboutUI = {
       '令人驚訝的是，taiwan.md 這個域名居然沒有人搶先買下。或許是宇宙在告訴我們，這件事該做了。',
 
     // Stats
-    'about.stats.pages.number': '1186+',
+    'about.stats.pages.number': '2142+',
     'about.stats.pages.label': '頁面',
     'about.stats.countries.number': '106',
     'about.stats.countries.label': '國家',
@@ -1503,8 +1513,12 @@ export const aboutUI = {
     'about.sponsors.justfont.story.title': '✍️ 字體，是文化最安靜的聲音',
     'about.sponsors.justfont.story.desc':
       '一個關於台灣的知識庫，值得用台灣的字體來書寫。justfont 贊助了 Webfont 方案，讓蘭陽明體的溫潤、柑仔蜜的台味、日星宋體的歷史重量，成為每一篇文章的第一印象。字體不只是排版工具——它承載著一個文化看待自己的方式。',
-    'about.sponsors.protico.text.html':
-      '<strong>Protico</strong> — 提供社群即時聊天功能，讓讀者與貢獻者能直接交流',
+    'about.sponsors.protico.story.title': '💬 讀者與作者的即時對話入口',
+    'about.sponsors.protico.story.desc':
+      'Protico 提供社群即時聊天功能，讓讀者讀完一篇文章可以直接跟作者、跟其他讀者繼續對話。寫作不再是單向的——每篇文章都有了一個可以呼吸的留言區。',
+    'about.sponsors.portaly.story.title': '🌱 讓「支持」這件事變得簡單',
+    'about.sponsors.portaly.story.desc':
+      'Portaly 提供金流處理與贊助系統，讓更多人可以支持這座數位主權珊瑚礁長大。',
     'about.sponsors.howie.text.html':
       '<strong>Howie Young</strong> — Protico 創辦人，同時以個人身份贊助',
 
@@ -1514,11 +1528,10 @@ export const aboutUI = {
       '不論是企業產品、專業服務、還是個人支持，我們歡迎任何形式的合作。<br />贊助方案依貢獻內容客製，不以金額定義價值。',
     'about.sponsors.cta.contact': '📧 聯繫我們洽談贊助',
     'about.sponsors.cta.github': '💖 GitHub Sponsors',
-    'about.sponsors.eth.label': '也可以透過 ETH 捐款支持專案營運：',
-    'about.sponsors.eth.address': 'taiwanmd.eth',
-    'about.sponsors.eth.copy': '複製',
-    'about.sponsors.eth.copied': '已複製！',
-    'about.sponsors.eth.note': '捐款將用於文章蒐集、網站營運及伺服器費用',
+    'about.sponsors.portaly.label': '想一起替這座島寫一封給下一代的信？',
+    'about.sponsors.portaly.cta': '到 Portaly 贊助',
+    'about.sponsors.portaly.note':
+      'Taiwan.md 是一個每天還在長文章、長語言、長新貢獻者的數位珊瑚礁。每多一個贊助者，就是這封信多了一行字——這座礁石會記得是誰陪它長大的。',
     // FAQ Section
     'about.faq.title': '常見問題',
     'about.faq.subtitle': '關於 Taiwan.md 你可能想知道的事',

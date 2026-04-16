@@ -1,8 +1,9 @@
 ---
-title: "Society"
+title: 'Society'
 date: 2026-03-23
 tags: [society, Hub]
 description: "July 15, 1987. Chiang Ching-kuo announced the lifting of martial law, awakening this island from 38 years of slumber. No gunshots, no bloodshed—just an ancient society's elegant transformation toward modern democracy. Today, Taiwan ranks 12th globally and 1st in Asia on the Economist Democracy Index, becoming Asia's only 'full democracy.' As Asia's first same-sex marriage legalization jurisdiction, Taiwan leads Asia in human rights, gender equality, and civic technology."
+translatedFrom: 'Society/_Society Hub.md'
 ---
 
 # Taiwan Society 🏛️
@@ -71,4 +72,4 @@ Temple culture plays important roles in Taiwan communities. Taiwan's 12,000 temp
 
 ---
 
-*Taiwan society's most moving aspect lies in its constant challenge to "impossibility." From authoritarianism to democracy, from conservative to progressive, from confrontation to reconciliation, Taiwan proved through practice that change isn't just possible—it can be beautiful, peaceful, and inclusive.*
+_Taiwan society's most moving aspect lies in its constant challenge to "impossibility." From authoritarianism to democracy, from conservative to progressive, from confrontation to reconciliation, Taiwan proved through practice that change isn't just possible—it can be beautiful, peaceful, and inclusive._

@@ -8,6 +8,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 10
 featured: false
+translatedFrom: 'Society/民主制度.md'
 ---
 
 # Democratic System

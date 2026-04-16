@@ -13,6 +13,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 imageAlt: '라오허 야시장 입구의 야경과 네온 간판'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣小吃.md'
 ---
 
 # 대만 길거리 음식
@@ -113,13 +114,13 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 2023년 정부 통계에 따르면 대만 전역에는 23만 3천 개의 노점이 있고, 종사자는 35만 7천 명, 연매출은 약 3,954억 대만달러다.[^6]
 
-| 대만 야시장의 핵심 숫자(2023) | 값 |
-| --- | --- |
-| 관리 대상 야시장 | 164개 |
-| 노점 총수 | 23.3만 개 |
-| 연 총매출 | 약 3,954억 대만달러 |
-| 종사 인구 | 47.2만 명 |
-| 타이난 야시장 수 | 49개(전국 최다) |
+| 대만 야시장의 핵심 숫자(2023) | 값                  |
+| ----------------------------- | ------------------- |
+| 관리 대상 야시장              | 164개               |
+| 노점 총수                     | 23.3만 개           |
+| 연 총매출                     | 약 3,954억 대만달러 |
+| 종사 인구                     | 47.2만 명           |
+| 타이난 야시장 수              | 49개(전국 최다)     |
 
 어아젠 한 접시 50대만달러의 비용 구조를 보면 굴 15달러, 달걀 5달러, 채소 3달러, 고구마 전분 2달러, 자리 임대료 분담 8달러, 가스·전기 2달러 정도로 총원가는 약 35달러다. 남는 것은 15달러 정도다. 마진율은 높지 않지만, 회전율이 빠르다. 인기 있는 노점은 하룻밤에 200인분을 팔아 총이익 3,000달러를 만든다.
 
@@ -156,12 +157,19 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 ## 참고 자료
 
 [^1]: [臭豆腐：中國奇香](https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab&CatId=10) — Taiwan Panorama, 1993
+
 [^2]: [台灣夜市文化：非浪漫傳奇](https://www.taiwan-panorama.com/Articles/Details?Guid=8c15ae35-f89b-461c-bed1-f481e2681fb7&CatId=10) — Taiwan Panorama
+
 [^3]: [一杯珍奶 搖出台灣新經濟奇蹟](https://event.gvm.com.tw/201811_bubble-tea/) — 遠見雜誌
+
 [^4]: [台灣小吃](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%B0%8F%E5%90%83) — Wikipedia
+
 [^5]: [蚵仔煎是鄭成功發明的？這和三百年前的一場戰役有關？](https://today.line.me/tw/v2/article/YaYa5DQ) — 旅讀雜誌, 2024
+
 [^6]: [攤販統計報告](https://www.moea.gov.tw/) — 經濟部中部辦公室, 2023
+
 [^7]: [The Ultimate Guide in Navigating Taipei's Night Markets](https://guide.michelin.com/en/article/travel/best-night-market-taipei-food-travel-guide) — Michelin Guide, 2024
+
 [^8]: [近十年最受歡迎的 10 種台灣小吃](https://taiwandatastories.com/zh/taiwan-street-food/) — Number 玩台灣
 
 ## 관련 주제

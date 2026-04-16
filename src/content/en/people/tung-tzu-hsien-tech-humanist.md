@@ -6,6 +6,7 @@ tags:
   [people, tung-tzu-hsien, pegatron, technology, humanities, eslite-bookstore]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
+translatedFrom: 'People/童子賢.md'
 ---
 
 # Tung Tzu-hsien (童子賢): The Tech-Humanist Bridge Builder

@@ -17,6 +17,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：遠東集團.md'
 ---
 
 In November 2021, shocking news hit Taiwan's business community: Far Eastern Group was fined RMB 474 million (approximately NT$20.6 billion) by mainland China's government for alleged "environmental, land use, and employee occupational health violations." But everyone knew this wasn't simply about regulatory compliance.

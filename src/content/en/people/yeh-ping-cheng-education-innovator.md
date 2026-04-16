@@ -2,12 +2,21 @@
 title: 'Yeh Ping-cheng (葉丙成)'
 description: 'NTU Electrical Engineering professor and flipped learning pioneer who developed PaGamO gamified learning platform, bringing Taiwan educational innovation to the international stage'
 date: 2026-03-20
-tags: ['education', 'flipped learning', 'PaGamO', 'gamified learning', 'NTU', 'educational innovation']
+tags:
+  [
+    'education',
+    'flipped learning',
+    'PaGamO',
+    'gamified learning',
+    'NTU',
+    'educational innovation',
+  ]
 subcategory: 'Education & Society'
 author: 'Taiwan.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
+translatedFrom: 'People/葉丙成.md'
 ---
 
 # Yeh Ping-cheng: Gaming the Revolution in Taiwanese Education
@@ -63,4 +72,3 @@ However, his continued advocacy for competency-based learning, creative thinking
 As artificial intelligence and automation reshape the job market, Yeh's emphasis on problem-solving skills and creative thinking becomes increasingly prescient for Taiwan's educational future.
 
 ## Further Reading
-

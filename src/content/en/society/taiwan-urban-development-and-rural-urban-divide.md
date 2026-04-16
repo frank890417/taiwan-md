@@ -1,15 +1,23 @@
 ---
 title: "Taiwan's Urban Development and the Rural-Urban Divide"
-description: "70 years transformed Taiwan from agricultural island to urban island: The light and shadow of six special municipalities concentrating 70% of the population"
+description: '70 years transformed Taiwan from agricultural island to urban island: The light and shadow of six special municipalities concentrating 70% of the population'
 date: 2026-03-21
-tags: ["urban development", "rural-urban divide", "six municipalities", "population migration", "regional development"]
-author: "Taiwan.md"
-difficulty: "beginner"
+tags:
+  [
+    'urban development',
+    'rural-urban divide',
+    'six municipalities',
+    'population migration',
+    'regional development',
+  ]
+author: 'Taiwan.md'
+difficulty: 'beginner'
 readingTime: 12
-category: "Society"
+category: 'Society'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
 ---
 
 # Taiwan's Urban Development and the Rural-Urban Divide
@@ -31,6 +39,7 @@ In 1950, Taiwan's total population was 7.55 million, with only 24% (about 1.81 m
 Seventy years later in 2020, Taiwan's population reached 23.57 million with an urbanization rate of 78% (about 18.39 million). This means 8 out of every 10 Taiwanese live in cities.
 
 **Urbanization Milestones:**
+
 - **1960s**: Urbanization rate exceeded 30% (industrialization beginning)
 - **1980s**: Urbanization rate exceeded 60% (manufacturing peak period)
 - **2000s**: Urbanization rate exceeded 70% (service industry transformation)
@@ -51,6 +60,7 @@ The remaining 16 counties and cities spread across 70% of the land but have only
 ### The Truth About Mass Population Migration
 
 **Population Changes in Six Municipalities (2020-2025):**
+
 - **Taichung City**: +189,000 people (annual increase 38,000, growth champion)
 - **Taoyuan City**: +105,000 people (annual increase 21,000)
 - **Tainan City**: +21,000 people (modest growth)
@@ -59,6 +69,7 @@ The remaining 16 counties and cities spread across 70% of the land but have only
 - **Kaohsiung City**: -87,000 people (transformation growing pains)
 
 **Harsh Reality for Non-Six Municipalities:**
+
 - **Yunlin County**: Lost 150,000 people over 30 years (730,000→580,000, 21% decline)
 - **Chiayi County**: Lost 80,000 people over 20 years (560,000→480,000, 14% decline)
 - **Taitung County**: Population dropped below 220,000, historic low
@@ -70,12 +81,14 @@ The remaining 16 counties and cities spread across 70% of the land but have only
 Taipei leveraged its capital status to concentrate central government, financial headquarters, and media groups, forming a "political dividend" dominance.
 
 **Taipei Development Stages:**
+
 - **1960s**: Central government relocated to Taiwan, political center established
 - **1980s**: Financial liberalization, foreign banks entered
 - **1989**: Xinyi Project Area, creating "Taipei Manhattan"
 - **1996**: MRT operation, Greater Taipei daily living circle
 
 **Current Dilemmas:**
+
 - Housing price-to-income ratio 15.86 times, 4th highest globally
 - Lost 60,000 people from 2020-2025
 - Youth outflow, accelerating aging
@@ -87,6 +100,7 @@ Nearly half of New Taipei's 4 million residents commute daily to Taipei, forming
 Hsinchu Science Park grew from 7 companies in 1980 to 600 companies in 2026, creating the "Taiwan Silicon Valley" miracle.
 
 **Development Trajectory:**
+
 - **December 15, 1980**: HSP officially opened
 - **1987**: TSMC entered, foundry era began
 - **1990s**: UMC, MediaTek IC design clustering
@@ -100,6 +114,7 @@ HSP successfully created Taiwan's first "tech nouveau riche" class—average ann
 Taichung is the most successful "latecomer" among the six municipalities. The 1996 decision to upgrade the 7th Redevelopment District from "sub-commercial center" to "new municipal center" completely changed its destiny.
 
 **Transformation Timeline:**
+
 - **1995**: 7th District land consolidation completed (425 hectares)
 - **2000s**: City hall, council, courts entered 7th District
 - **2008**: HSR Taichung Station, 1 hour to Taipei
@@ -107,6 +122,7 @@ Taichung is the most successful "latecomer" among the six municipalities. The 19
 - **2023**: Population surpassed Taipei, became second largest city
 
 **7th District Success Factors:**
+
 - Transportation hub (Freeway 74, HSR convenient external connections)
 - Government leadership (city hall, council, opera house settlement)
 - Commercial clustering (Far Eastern, Shin Kong Mitsukoshi, Tiger City)
@@ -119,6 +135,7 @@ Taichung's success secret was the "livability card"—housing prices only 40% of
 Tainan leveraged its 400-year historical foundation to develop an "ancient capital brand." With 21 national historic sites and countless street foods, it attracts 20 million tourists annually with tourism revenue exceeding NT$50 billion.
 
 Kaohsiung transformed from heavy industrial port to creative marine city:
+
 - **2001**: Pier-2 Art Center, industrial warehouses became creative spaces
 - **2017**: Light rail opened, Taiwan's first urban light rail
 - **2019**: Asia New Bay Area, harbor revitalization
@@ -130,6 +147,7 @@ But transformation costs were severe: Kaohsiung's population dropped from 2.77 m
 ### Income Gap: Winner-Takes-All Reality
 
 **Average Annual Income Disparity (2023 Tax Data):**
+
 - **Taipei City**: NT$926,000 (highest nationally)
 - **Hsinchu City**: NT$894,000 (tech nouveau riche effect)
 - **Hsinchu County**: NT$768,000
@@ -141,6 +159,7 @@ But transformation costs were severe: Kaohsiung's population dropped from 2.77 m
 The highest and lowest differ by nearly double, with gaps widening. In 2018, Taipei-Yunlin gap was 1.5 times; within 5 years it expanded to 1.9 times.
 
 **Industry Structure Determines Destiny:**
+
 - Six municipalities: Finance, technology, services account for 75% of GDP
 - Agricultural counties: Agriculture, traditional manufacturing account for 40% of GDP
 
@@ -149,6 +168,7 @@ A financial sector worker's annual salary often equals 3-5 times that of an agri
 ### Educational Resources: Unequal Starting Lines
 
 **Higher Education Concentration:**
+
 - **Taipei City**: 12 universities (NTU, NTNU, NCCU and other top-tier)
 - **New Taipei City**: 8 universities
 - **Taichung City**: 13 universities (NCHU, THU, FCU, etc.)
@@ -159,6 +179,7 @@ A financial sector worker's annual salary often equals 3-5 times that of an agri
 Of Taiwan's top 50 high schools, 42 are in the six municipalities. Jianguo High School, Taipei First Girls High School, and NTNU Affiliated High School are all in Taipei. Rural children must leave home to attend good schools.
 
 **Remote Area Education Crisis:**
+
 - 47 elementary schools nationwide had fewer than 50 students in 2023
 - 4 elementary schools in Yunlin's Kouhu Township closed, students merged
 - Taitung's Daren Township averages 8 students per class
@@ -167,6 +188,7 @@ Of Taiwan's top 50 high schools, 42 are in the six municipalities. Jianguo High 
 ### Medical Resources: Life-Saving Inequality
 
 **Medical Center Distribution:**
+
 - Taipei City: 8 centers (NTU, VGH, MMH, etc.)
 - New Taipei City: 4 centers
 - Taichung City: 3 centers
@@ -175,6 +197,7 @@ Of Taiwan's top 50 high schools, 42 are in the six municipalities. Jianguo High 
 - Yunlin, Chiayi, Taitung, Hualien: 1 each
 
 **Physician Workforce Disparity:**
+
 - Taipei City: 42.3 doctors per 10,000 people
 - Taitung County: 19.6 doctors per 10,000 people
 - Hualien County: 21.8 doctors per 10,000 people
@@ -188,12 +211,14 @@ Remote area residents must drive 2-3 hours to cities for specialist care. The cr
 Kouhu Township was once an important aquaculture center in Taiwan, famous for clams and milkfish. But over 30 years, population dropped from 32,000 to 19,000—a 40% loss rate.
 
 **Decline Causes:**
+
 - Land subsidence: Over-pumping groundwater caused seawater intrusion, soil salinization
 - Failed industry transformation: Traditional aquaculture couldn't compete with imports
 - Poor transportation: 40-minute drive to nearest highway
 - Youth exodus: No jobs forced migration to cities
 
 **Current Devastation:**
+
 - 38% residents over 65 (national average 16.9%)
 - Only 1 elementary school left with 5 classes, 27 students total
 - Health center doctor comes only 2 days per week
@@ -204,12 +229,14 @@ Kouhu Township was once an important aquaculture center in Taiwan, famous for cl
 Daren Township is Taitung's southernmost township with 95% Paiwan Indigenous residents. It preserves complete Indigenous culture but faces the most severe population loss.
 
 **Numerical Reality:**
+
 - Population dropped from 5,200 in 1990 to 3,100 in 2025
 - Working-age population (25-64) only 1,400 left
 - No high school in township; junior high graduates must board in Taitung City
 - Average annual income NT$320,000, 3rd lowest nationally
 
 **Cultural Heritage Crisis:**
+
 - Less than 20% of youth speak fluent Paiwan
 - Traditional weaving and carving skills lack successors
 - Declining youth participation in tribal festivals
@@ -223,6 +250,7 @@ But Daren Township also has success stories: Tuban tribe's eco-tourism earns ove
 In 2017, President Tsai Ing-wen launched "Forward-looking Infrastructure," investing NT$882.4 billion over 8 years, promising to reduce rural-urban disparities.
 
 **Key Projects:**
+
 - Rail construction: NT$424.1 billion (48%)
 - Water environment construction: NT$250.7 billion
 - Digital construction: NT$46.1 billion
@@ -240,6 +268,7 @@ Kaohsiung Light Rail severely loss-making with daily ridership only 40% of proje
 2019 was the "First Year of Local Revitalization." The National Development Council invested NT$10 billion, aiming for young people to "return, stay, and thrive."
 
 **Success Cases:**
+
 - Nanzhuang, Miaoli: Hakka culture + B&B industry, annual visitors exceed 1 million
 - Gukeng, Yunlin: Coffee industry cluster, youth returning home
 - Wutai, Pingtung: Rukai cultural experiences, tribal economic recovery

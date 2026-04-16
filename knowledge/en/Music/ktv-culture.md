@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣KTV文化.md'
 ---
 
 # Taiwan’s KTV Culture: From Holiday and Cashbox to the Social Ritual of the Private Room

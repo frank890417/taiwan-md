@@ -14,6 +14,7 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
+translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 ---
 
 # Convenience Store Culture

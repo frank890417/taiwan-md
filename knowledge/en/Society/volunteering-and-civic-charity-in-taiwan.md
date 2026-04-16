@@ -14,6 +14,7 @@ category: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣志工文化與公益參與.md'
 ---
 
 # Volunteering and Civic Charity in Taiwan

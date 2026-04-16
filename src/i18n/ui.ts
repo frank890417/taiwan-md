@@ -1,4 +1,5 @@
 import type { Lang } from '../types';
+import { LANGUAGE_DISPLAY_NAMES, DEFAULT_LANGUAGE } from '../config/languages';
 
 export type Locale = Lang;
 import { homeUI } from './home';
@@ -13,14 +14,10 @@ import { dashboardUI } from './dashboard';
 import { notFoundUI } from './notfound';
 import { taiwanShapeUI } from './taiwanShape';
 
-export const languages: Record<Lang, string> = {
-  en: 'English',
-  'zh-TW': '中文',
-  ja: '日本語',
-  ko: '한국어',
-};
+// Single source of truth: src/config/languages.ts
+export const languages = LANGUAGE_DISPLAY_NAMES as Record<Lang, string>;
 
-export const defaultLang: Lang = 'zh-TW';
+export const defaultLang = DEFAULT_LANGUAGE.code as Lang;
 export const showDefaultLang = false;
 
 export const ui = {
@@ -107,6 +104,7 @@ export const ui = {
     'footer.dataPage': 'Data',
     'footer.dashboardPage': 'Dashboard',
     'footer.support-us': 'Support us',
+    'footer.support-us.cta': 'Sponsor on Portaly',
     'footer.font-sponsor-prefix': 'Web fonts sponsored by',
     'footer.font-sponsor-suffix': ' ',
     'categoryConfig.history': 'History',
@@ -265,6 +263,7 @@ export const ui = {
     'footer.dataPage': 'データ台湾',
     'footer.dashboardPage': 'モニタリング',
     'footer.support-us': 'サポート',
+    'footer.support-us.cta': 'Portaly でスポンサーになる',
     'footer.font-sponsor-prefix': 'Webフォント提供：',
     'footer.font-sponsor-suffix': ' ',
     'categoryConfig.history': '歴史',
@@ -415,6 +414,7 @@ export const ui = {
     'footer.dataPage': '데이터 타이완',
     'footer.dashboardPage': '모니터링 대시보드',
     'footer.support-us': '후원하기',
+    'footer.support-us.cta': 'Portaly에서 후원하기',
     'footer.font-sponsor-prefix': '웹폰트 제공: ',
     'footer.font-sponsor-suffix': ' ',
     'categoryConfig.history': '역사',
@@ -568,6 +568,7 @@ export const ui = {
     'footer.dataPage': '數據台灣',
     'footer.dashboardPage': '監測面板',
     'footer.support-us': '支持我們',
+    'footer.support-us.cta': '到 Portaly 贊助',
     'footer.font-sponsor-prefix': '字體由',
     'footer.font-sponsor-suffix': '提供',
     'categoryConfig.history': '歷史',

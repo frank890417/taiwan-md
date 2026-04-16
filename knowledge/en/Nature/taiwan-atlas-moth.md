@@ -16,6 +16,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Nature/台灣皇蛾.md'
 ---
 
 # Taiwan’s Atlas Moth: Giant Wings, a Brief Life, and a Vanishing Forest

@@ -1,6 +1,6 @@
 ---
-title: "Taiwanese Companies: Realtek Semiconductor"
-description: "Seven engineers, NT$2 million startup capital, and a little crab that crawled into every computer worldwide"
+title: 'Taiwanese Companies: Realtek Semiconductor'
+description: 'Seven engineers, NT$2 million startup capital, and a little crab that crawled into every computer worldwide'
 date: 2026-03-20
 tags: ['Economy', 'Enterprises', 'Semiconductors', 'IC Design']
 category: 'Economy'
@@ -8,6 +8,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
 ---
 
 > **30-second overview:** In 1987, seven engineers founded Realtek Semiconductor in Hsinchu Science Park with NT$2 million, adopting a crab as their logo. In 1991, they launched Taiwan's first independently developed network chip. By 2024, with revenue exceeding NT$80 billion, Realtek is Taiwan's third-largest IC design company. A "Realtek crab" likely lurks inside every computer worldwide.

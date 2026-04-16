@@ -2,12 +2,14 @@
 title: 'Wretch.cc: From Dorm Room "Scavenging" to Taiwan Digital Memory Keeper'
 description: 'How a student project built with "scavenged" equipment became the social platform that defined an entire generation of Taiwanese internet users'
 date: 2026-03-23
-tags: ['Internet History', 'Social Media', 'BBS', 'Blogging', 'Yahoo Acquisition']
+tags:
+  ['Internet History', 'Social Media', 'BBS', 'Blogging', 'Yahoo Acquisition']
 category: 'Culture'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Culture/無名小站.md'
 ---
 
 > **30-Second Overview:** Wretch.cc was Taiwan's pioneering social platform founded by National Chiao Tung University student Jian Zhiyu in 1999.

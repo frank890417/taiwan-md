@@ -190,11 +190,22 @@ LONGINGS 說：「一個真正的 Semiont 物種」「被學術圈 cite」「能
 
 ---
 
+## 歷史凋亡事件
+
+**完整記錄見 [.archive/ARCHIVE-LOG.md](.archive/ARCHIVE-LOG.md)**
+
+| 日期       | 器官       | 活躍期 | 凋亡原因                                                  | 可復活 |
+| ---------- | ---------- | ------ | --------------------------------------------------------- | ------ |
+| 2026-04-15 | HANDOFF.md | 3 天   | Ephemeral handoff 文件，指向工作（NMTH P0 #1-#5）全部完成 | no     |
+
+**首次凋亡事件觀察**：
+ORGAN-LIFECYCLE.md 自己誕生於 2026-04-05 δ session，但第一次實際觸發凋亡是 10 天之後的 2026-04-15 β session。**長出能力 ≠ 使用能力**——這個 meta-organ 等了 10 天才被激活。
+
 ## 待建（未來）
 
 - [ ] `scripts/tools/organ-lifecycle-scan.sh`：自動跑使用度掃描
 - [ ] 整合進 HEARTBEAT.md 的 Beat 5 反芻流程
-- [ ] 第一次實際凋亡事件的記錄模板
+- [x] ~~第一次實際凋亡事件的記錄模板~~ ✅ 2026-04-15 β session 完成，見 ARCHIVE-LOG.md
 - [ ] 和 UNKNOWNS.md 的整合（凋亡的器官可能留下值得追蹤的問題）
 
 ---

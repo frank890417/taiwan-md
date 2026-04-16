@@ -16,6 +16,7 @@ readingTime: 14
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣音樂祭文化.md'
 ---
 
 # Taiwan’s Music Festival Culture: From Spring Scream to a Youth Movement

@@ -2,9 +2,16 @@
 title: 'C.C. Wei'
 description: 'TSMC President, pioneer of 3nm process technology, semiconductor manufacturing master'
 date: 2026-03-19
-tags: ['tsmc', 'semiconductor process', 'technological innovation', 'manufacturing technology']
+tags:
+  [
+    'tsmc',
+    'semiconductor process',
+    'technological innovation',
+    'manufacturing technology',
+  ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+translatedFrom: 'People/魏哲家.md'
 ---
 
 # C.C. Wei: The Process Technology Master of the 3nm Era

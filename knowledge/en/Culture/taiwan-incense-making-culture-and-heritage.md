@@ -17,6 +17,7 @@ difficulty: 'beginner'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣製香文化與香腳原鄉.md'
 ---
 
 # Taiwan Incense-Making Culture and Heritage Villages

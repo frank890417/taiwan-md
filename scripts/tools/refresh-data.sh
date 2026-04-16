@@ -58,6 +58,14 @@ else
 fi
 echo ""
 
+# Step 2.5 — sync _translations.json from translatedFrom frontmatter (SSOT)
+# 為什麼: file-level translatedFrom 是 SSOT，_translations.json 是 derived cache
+echo -e "${GRN}[2.5/4]${RST} sync _translations.json from frontmatter..."
+if python3 scripts/tools/sync-translations-json.py 2>&1 | tail -3; then
+  echo -e "${DIM}   ✓ _translations.json synced${RST}"
+fi
+echo ""
+
 # Step 3 — prebuild dashboard data (soft fail)
 echo -e "${GRN}[3/4]${RST} npm run prebuild..."
 if npm run prebuild > /tmp/prebuild.log 2>&1; then

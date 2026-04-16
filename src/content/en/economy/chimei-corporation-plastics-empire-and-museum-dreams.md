@@ -1,17 +1,19 @@
 ---
-title: "Chimei Corporation: Building a Plastics Empire and Cultural Legacy"
+title: 'Chimei Corporation: Building a Plastics Empire and Cultural Legacy'
 description: "From a small Tainan factory in 1960, Xu Wen-Long built Asia's largest ABS materials empire and created the Chimei Museum, proving Taiwanese enterprises can balance commercial success with humanistic values"
 date: 2026-03-20
-tags: [Economy, Enterprise, Chemical Industry, Polymer Materials, Tainan Business]
+tags:
+  [Economy, Enterprise, Chemical Industry, Polymer Materials, Tainan Business]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：奇美實業.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Chimei Corporation, founded by Xu Wen-Long in 1960, grew from a small factory in Tainan's Rende District into one of the world's top five ABS resin suppliers, with annual production capacity of 1 million tons. Their products are widely used in automotive, electronics, and appliance industries—your smartphone case might be made from Chimei materials. Xu Wen-Long also donated to establish the Chimei Museum, demonstrating the humanistic spirit and social responsibility of Taiwanese entrepreneurs.
 
 ## An Outsider's Dream of Aircraft Glass

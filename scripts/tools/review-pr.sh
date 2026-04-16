@@ -18,8 +18,19 @@ REPORT=""
 # ════════════════════════════════════════
 # Layer 0 — 安全隔離
 # ════════════════════════════════════════
+# Whitelist: non-.md content infrastructure files that are safe to update
+# alongside translation/content PRs. These are NOT system files.
+SAFE_NON_MD=(
+  "knowledge/_translations.json"
+  "knowledge/_taxonomy.json"
+)
+
 layer0() {
   local f="$1"
+  # Whitelist: known safe non-.md content infra files
+  for safe in "${SAFE_NON_MD[@]}"; do
+    [[ "$f" == "$safe" ]] && echo "✅ 內容配套檔案（${f##*/}）" && return 0
+  done
   [[ ! "$f" =~ \.md$ ]] && echo "🔴 非 .md 檔" && return 1
   if [[ "$f" =~ ^knowledge/ ]] || [[ "$f" =~ ^src/content/ ]]; then
     echo "✅ 純內容檔案"; return 0
@@ -53,7 +64,10 @@ layer1() {
     echo "$fm" | grep -q '^description:' || err+=("缺 description")
     echo "$fm" | grep -q '^date:' || err+=("缺 date")
     echo "$fm" | grep -q '^tags:' || err+=("缺 tags")
-    echo "$fm" | grep -q '^featured: true' && err+=("featured 不可 true")
+    # featured: true rule — only enforced on ZH SSOT; translations mirror source
+    if echo "$f" | grep -qvE '/(en|ja|ko|es|fr)/'; then
+      echo "$fm" | grep -q '^featured: true' && err+=("featured 不可 true")
+    fi
     # category from path
     local cd; cd=$(echo "$f" | sed -n 's|^knowledge/\([^/]*\)/.*|\1|p')
     if [[ -n "$cd" ]]; then
@@ -215,12 +229,50 @@ layer4() {
 # ════════════════════════════════════════
 # 審核
 # ════════════════════════════════════════
+review_with_display() {
+  local f="$1"; local d="$2"
+  REPORT+="📁 ${d}\n"
+
+  local r0; r0=$(layer0 "$d"); REPORT+="  L0 安全：${r0}\n"
+  if [[ "$r0" =~ ^🔴 ]]; then STATUS="FAIL"; REPORT+="\n"; return; fi
+  L0=$((L0+1))
+
+  if [[ ! "$d" =~ \.md$ ]]; then
+    REPORT+="  L1-L4: ⏭️  跳過（非 .md 配套檔）\n\n"
+    L1=$((L1+1)); L2=$((L2+1)); L3=$((L3+1))
+    return
+  fi
+
+  local r1; r1=$(layer1 "$f"); REPORT+="  L1 格式：${r1}\n"
+  if [[ "$r1" =~ ^🔴 ]]; then STATUS="FAIL"; else L1=$((L1+1)); fi
+
+  local r2; r2=$(layer2 "$f"); REPORT+="  L2 品質：${r2}\n"
+  if [[ "$r2" =~ ^🔴 ]]; then STATUS="FAIL"
+  elif [[ "$r2" =~ ^🟡 ]] && [[ "$STATUS" != "FAIL" ]]; then STATUS="WARNING"
+  fi
+  [[ ! "$r2" =~ ^🔴 ]] && L2=$((L2+1))
+
+  local r3; r3=$(layer3 "$f"); REPORT+="  L3 策展：${r3}\n"
+  [[ "$r3" =~ ^✅ ]] && L3=$((L3+1))
+  [[ "$r3" =~ ^🟡 ]] && [[ "$STATUS" == "PASS" ]] && STATUS="WARNING"
+
+  local r4; r4=$(layer4 "$f"); REPORT+="  L4 結構：${r4}\n\n"
+  [[ "$r4" =~ ^🟡 ]] && [[ "$STATUS" == "PASS" ]] && STATUS="WARNING"
+}
+
 review() {
   local f="$1"; REPORT+="📁 ${f}\n"
 
   local r0; r0=$(layer0 "$f"); REPORT+="  L0 安全：${r0}\n"
   if [[ "$r0" =~ ^🔴 ]]; then STATUS="FAIL"; REPORT+="\n"; return; fi
   L0=$((L0+1))
+
+  # Skip L1-L4 for non-.md whitelisted files (they're config/infra, not articles)
+  if [[ ! "$f" =~ \.md$ ]]; then
+    REPORT+="  L1-L4: ⏭️  跳過（非 .md 配套檔）\n\n"
+    L1=$((L1+1)); L2=$((L2+1)); L3=$((L3+1))
+    return
+  fi
 
   local r1; r1=$(layer1 "$f"); REPORT+="  L1 格式：${r1}\n"
   if [[ "$r1" =~ ^🔴 ]]; then STATUS="FAIL"; else L1=$((L1+1)); fi
@@ -244,15 +296,37 @@ review() {
 # ════════════════════════════════════════
 main() {
   local files=()
+  local pr_num="" pr_tmp=""
   if [[ "${1:-}" == "--pr" ]] && [[ -n "${2:-}" ]]; then
-    while IFS= read -r l; do [[ -n "$l" ]] && files+=("$l"); done < <(gh pr diff "$2" --name-only 2>/dev/null)
-    (( ${#files[@]} == 0 )) && echo "❌ 無法取得 PR #$2" && exit 1
+    pr_num="$2"
+    # Fetch PR branch into refs/pulls/<num> so we can read files without switching branches
+    git fetch origin "pull/${pr_num}/head:refs/pulls/${pr_num}" --quiet 2>/dev/null \
+      || { echo "❌ 無法 fetch PR #${pr_num}"; exit 1; }
+    pr_tmp="$(mktemp -d)"
+    trap 'rm -rf "$pr_tmp"' EXIT
+    while IFS= read -r l; do
+      [[ -z "$l" ]] && continue
+      # Materialize file content from PR ref to tmp dir, preserving path
+      mkdir -p "$pr_tmp/$(dirname "$l")"
+      git show "refs/pulls/${pr_num}:$l" >"$pr_tmp/$l" 2>/dev/null || continue
+      files+=("$pr_tmp/$l")
+    done < <(gh pr diff "${pr_num}" --name-only 2>/dev/null)
+    (( ${#files[@]} == 0 )) && echo "❌ 無法取得 PR #${pr_num} 檔案" && exit 1
   else
     files=("$@")
   fi
   (( ${#files[@]} == 0 )) && echo "用法: $0 <file.md ...> | --pr <number>" && exit 1
 
-  for f in "${files[@]}"; do TOTAL=$((TOTAL+1)); review "$f"; done
+  # When in --pr mode, strip tmp dir prefix from displayed paths
+  for f in "${files[@]}"; do
+    TOTAL=$((TOTAL+1))
+    if [[ -n "$pr_tmp" ]]; then
+      local display="${f#$pr_tmp/}"
+      review_with_display "$f" "$display"
+    else
+      review "$f"
+    fi
+  done
 
   echo -e "${BLU}🔍 Taiwan.md PR Review${RST}"
   echo -e "${DIM}═══════════════════════════════════${RST}"

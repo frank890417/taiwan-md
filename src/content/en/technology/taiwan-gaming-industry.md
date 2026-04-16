@@ -15,6 +15,7 @@ readingTime: 11
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
 ---
 
 # Taiwan Gaming Industry and Digital Entertainment

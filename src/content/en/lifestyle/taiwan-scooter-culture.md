@@ -2,13 +2,24 @@
 title: "Taiwan's Scooter Culture"
 description: "The country with the world's highest scooter density didn't choose scooters — it never had another option. Now it's accidentally become the global laboratory for electric two-wheelers."
 date: 2026-03-25
-tags: [lifestyle, scooters, motorcycles, Gogoro, KYMCO, SYM, electric vehicles, transportation]
+tags:
+  [
+    lifestyle,
+    scooters,
+    motorcycles,
+    Gogoro,
+    KYMCO,
+    SYM,
+    electric vehicles,
+    transportation,
+  ]
 author: 'Taiwan.md'
 readingTime: 10
 featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Lifestyle/台灣機車文化.md'
 ---
 
 # Taiwan's Scooter Culture
@@ -41,7 +52,7 @@ In January 2026, Yamaha Motor Taiwan announced it had become a wholly owned subs
 
 ## The Motorcycle Waterfall
 
-Every weekday between 7:30 and 9:00 AM, the approach ramp to Taipei Bridge produces a scene that has been photographed by CNN, the BBC, Reuters, and countless travel bloggers: hundreds of scooters lined up side by side at a red light, then accelerating in unison when it turns green — from above, it looks like a cascade of metal pouring downhill. It even has its own English nickname: the *Taipei Bridge Motorcycle Waterfall*.
+Every weekday between 7:30 and 9:00 AM, the approach ramp to Taipei Bridge produces a scene that has been photographed by CNN, the BBC, Reuters, and countless travel bloggers: hundreds of scooters lined up side by side at a red light, then accelerating in unison when it turns green — from above, it looks like a cascade of metal pouring downhill. It even has its own English nickname: the _Taipei Bridge Motorcycle Waterfall_.
 
 The spectacle condenses everything about Taiwan's scooter culture into a single image: density, efficiency, order within chaos. Riders in full-body rain ponchos (Taiwanese don't stop riding in the rain), one hand on the handlebar and the other holding a breakfast sandwich, rear passengers balancing takeout bags of soy milk and egg pancakes.
 
@@ -85,7 +96,7 @@ This isn't abstract "industrial transition." It's whether the mechanic who has b
 
 Beyond the utilitarian majority, a subset of Taiwanese riders treats scooters as identity.
 
-Modification culture exploded in the 1990s: exhaust tuning, ECU remapping, *itasha* paint jobs (anime characters covering every panel). Young riders hit mountain roads at dawn — Yangmingshan, the old Beiyi Highway, the South Link — chasing the feel of leaning through curves. These communities have their own slang, their own forums, their own aesthetics.
+Modification culture exploded in the 1990s: exhaust tuning, ECU remapping, _itasha_ paint jobs (anime characters covering every panel). Young riders hit mountain roads at dawn — Yangmingshan, the old Beiyi Highway, the South Link — chasing the feel of leaning through curves. These communities have their own slang, their own forums, their own aesthetics.
 
 On the other end sits the vintage revival: Vespa collectors, old Wolf 125 enthusiasts, craftspeople converting 1980s SYM Duke models into café racers. For them, a scooter is a time capsule you can touch.
 

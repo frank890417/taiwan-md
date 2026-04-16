@@ -12,6 +12,7 @@ author: 'Taiwan.md Translation Team'
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: '쩐주나이차'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/珍珠奶茶.md'
 ---
 
 # 쩐주나이차(珍珠奶茶)
@@ -112,12 +113,19 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 ## 참고 자료
 
 [^1]: [춘수이탕 공식 웹사이트: 버블밀크티의 발명](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)（일차 출처）
+
 [^2]: [CNN Travel: The rise of bubble tea, one of Taiwan's most beloved beverages](https://edition.cnn.com/travel/article/taiwan-bubble-tea-origins/index.html)（린슈후이 인용 포함）
+
 [^3]: [ETtoday: 누가 쩐주나이차를 발명했나? 춘수이탕과 한린차관의 10년 소송, 판결 확정](https://www.ettoday.net/news/20190731/1502150.htm)（2019년 판결 보도）
+
 [^4]: [대만 테이크아웃 음료 시장 데이터 분석（재정부 통계）](https://lndatatech.github.io/taiwan-drink/)（일차 통계 출처）
+
 [^5]: [TIME: What Is the Milk Tea Alliance?](https://time.com/5904114/milk-tea-alliance/)（밀크티 연대 배경）
+
 [^6]: [Maximize Market Research: Global Bubble Tea Market Size 2024](https://www.maximizemarketresearch.com/market-report/global-bubble-tea-market/110228/)（세계 시장 자료）
+
 [^7]: [PubMed: 2011 Taiwan food scandal — plasticizer contamination](https://pubmed.ncbi.nlm.nih.gov/23684997/)（학술 일차 출처, 965개 오염 제품 자료）
+
 [^8]: [National University Hospital Singapore: What happens if you drink too much bubble tea?](https://www.nuhsplus.edu.sg/article/what-happens-if-you-drink-too-much-bubble-tea)（Dr. Martin Lee 인용 출처）
 
 이 항목과 관련된 주제: [[夜市文化]]、[[台灣小吃]]、[[台灣飲食文化]]。

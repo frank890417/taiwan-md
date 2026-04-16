@@ -17,6 +17,7 @@ readingTime: 14
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣影視配樂.md'
 ---
 
 # Taiwan Screen Scoring: From Cinema Soundtracks to Game Worlds

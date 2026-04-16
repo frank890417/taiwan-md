@@ -17,6 +17,7 @@ difficulty: 'beginner'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
 ---
 
 # Taiwanese Life Ceremony Traditions: Marriage, Funeral Rites, and Ritual Celebrations

@@ -1,14 +1,23 @@
 ---
-title: "Contemporary Indigenous Art in Taiwan"
-description: "From traditional crafts to contemporary creation, explore how Taiwanese indigenous artists find their voice on the global art stage, redefining the dialogue between indigenous identity and contemporary art"
+title: 'Contemporary Indigenous Art in Taiwan'
+description: 'From traditional crafts to contemporary creation, explore how Taiwanese indigenous artists find their voice on the global art stage, redefining the dialogue between indigenous identity and contemporary art'
 date: 2026-03-20
-tags: [indigenous art, contemporary art, traditional crafts, identity, artists, cultural revitalization]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    indigenous art,
+    contemporary art,
+    traditional crafts,
+    identity,
+    artists,
+    cultural revitalization,
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 category: Art
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Art/台灣原住民當代藝術.md'
 ---
 
 # Contemporary Indigenous Art in Taiwan
@@ -144,10 +153,10 @@ Contemporary Taiwanese indigenous art has traveled the path from periphery to ce
 ## References
 
 - [Indigenous Peoples Culture Foundation](https://www.tacp.gov.tw/) — Contemporary indigenous art development information
-- [Taiwan Fine Arts Museum](https://www.museum.ntm.gov.tw/) — Contemporary art exhibition information  
+- [Taiwan Fine Arts Museum](https://www.museum.ntm.gov.tw/) — Contemporary art exhibition information
 - [Taiwan Pavilion, Venice Biennale](https://www.venezia.culture.tw/) — 2019 Rahic exhibition materials
-- Kao, Jun-honn (2019). *Transverse Records: Taiwan's Mountain Warfare, Empire and Images*, Gusa Publishing
-- Hu, Tai-li (2018). *Indigenous Art Field Notes*, Artist Publishing
-- Eleng Luluan (2020). *Art on the Slope: Essays on Contemporary Indigenous Art*, Spring Hill Publishing
+- Kao, Jun-honn (2019). _Transverse Records: Taiwan's Mountain Warfare, Empire and Images_, Gusa Publishing
+- Hu, Tai-li (2018). _Indigenous Art Field Notes_, Artist Publishing
+- Eleng Luluan (2020). _Art on the Slope: Essays on Contemporary Indigenous Art_, Spring Hill Publishing
 - [Database of Contemporary Indigenous Literature and Culture in Taiwan](http://140.109.24.175/iplm/) — Established by National Sun Yat-sen University
-- Sakinu Pawavalung (2017). *Carving Memory: Cultural Reflections of Paiwan Wood Carver Sakinu*, Yuan-Liou Publishing
+- Sakinu Pawavalung (2017). _Carving Memory: Cultural Reflections of Paiwan Wood Carver Sakinu_, Yuan-Liou Publishing

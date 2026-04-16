@@ -1,18 +1,27 @@
 ---
-title: "Delta Electronics: From 13-Year-Old War Refugee to Space Legend"
+title: 'Delta Electronics: From 13-Year-Old War Refugee to Space Legend'
 description: "How NT$300,000 and one man's vision redefined the global power industry — and earned him an asteroid named after him"
 date: 2026-03-22
-tags: [Economy, Corporations, Power Management, Green Technology, Industrial Automation, ESG]
+tags:
+  [
+    Economy,
+    Corporations,
+    Power Management,
+    Green Technology,
+    Industrial Automation,
+    ESG,
+  ]
 author: Taiwan.md
 readingTime: 15
 category: economy
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台達電子.md'
 ---
 
-> **30-second overview:** In 1971, a war refugee launched a startup in New Taipei with NT$300,000 (US$10,000). 
-> Fifty-five years later, Delta Electronics became the world's largest switching power supply manufacturer with revenues exceeding NT$550 billion. 
+> **30-second overview:** In 1971, a war refugee launched a startup in New Taipei with NT$300,000 (US$10,000).
+> Fifty-five years later, Delta Electronics became the world's largest switching power supply manufacturer with revenues exceeding NT$550 billion.
 > Most remarkably: he got an asteroid named after him — asteroid 168126 is officially called "Chengbruce."
 
 April 4, 1971. Minan Road, Xinzhuang, Taipei County. Bruce Cheng (鄭崇華), 36 years old, and two partners started assembling TV transformers in a two-story building with their life savings of NT$300,000. This 13-year-old war refugee who fled to Taiwan during the Chinese Civil War couldn't have imagined he was launching a commercial empire that would change how the world thinks about electrical power.
@@ -53,10 +62,10 @@ What scale of commercial empire is Delta Electronics today?
 
 According to the latest 2025 financial reports, Delta's annual revenue reached NT$554.9 billion (approximately US$17.5 billion), with about 88,000 employees globally and over 200 operations centers across 38 countries. In the global switching power supply market, Delta Electronics holds about 20-25% market share, maintaining world No. 1 position.
 
-| Q4 2024 | FY 2025 |
-|---|---|
+| Q4 2024                                | FY 2025                  |
+| -------------------------------------- | ------------------------ |
 | Revenue NT$161.6 billion (record high) | Revenue NT$554.9 billion |
-| YoY growth 41.5% | YoY growth 31.76% |
+| YoY growth 41.5%                       | YoY growth 31.76%        |
 
 **"One in every four computers worldwide uses Delta power technology."**
 

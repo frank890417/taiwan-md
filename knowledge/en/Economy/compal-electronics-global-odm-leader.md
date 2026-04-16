@@ -1,5 +1,5 @@
 ---
-title: "Compal Electronics"
+title: 'Compal Electronics'
 description: "The world's second-largest laptop ODM manufacturer and a key driver of Taiwan's ODM industry"
 date: 2026-03-20
 tags: [Economy, Enterprise, Electronic Manufacturing, ODM]
@@ -8,12 +8,13 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
 ---
 
 # Compal Electronics: The Global ODM Giant Behind the Scenes
 
 > **30-Second Overview**
-> 
+>
 > Compal Electronics is Taiwan's second-largest laptop ODM (Original Design Manufacturer), commanding a 20-25% global market share. That Dell, Lenovo, or Acer laptop you're using was very likely designed and manufactured by Compal. Founded in 1984 as a small electronic calculator component maker, this company has grown into a tech giant with annual revenues exceeding 100 billion Taiwan dollars. Compal exemplifies Taiwan's evolution from simple contract manufacturing to design-and-manufacture leadership, serving as an invisible champion supporting the global IT industry supply chain.
 
 ## Why Compal Electronics Matters
@@ -33,6 +34,7 @@ More importantly, Compal's development journey reflects Taiwan's manufacturing t
 Compal's business scope has expanded from traditional laptop manufacturing to diversified tech products and services:
 
 **Traditional Strengths:**
+
 - Notebooks and ultrabooks
 - 2-in-1 laptops
 - All-in-one computers (AIO)
@@ -40,6 +42,7 @@ Compal's business scope has expanded from traditional laptop manufacturing to di
 - Monitor products
 
 **Emerging Businesses:**
+
 - 5G communications and applications
 - Cloud servers
 - Automotive electronics (AEP)
@@ -50,6 +53,7 @@ Compal's business scope has expanded from traditional laptop manufacturing to di
 ### Global Presence
 
 Compal operates multiple production bases and R&D centers worldwide:
+
 - **Asia**: Taiwan (headquarters), multiple locations in mainland China, Vietnam
 - **Americas**: United States, Brazil, Mexico
 - **Europe**: Poland
@@ -59,6 +63,7 @@ This global layout not only diversifies operational risks but also allows Compal
 ## Key Facts and Figures
 
 ### Market Position
+
 - **World's second-largest laptop ODM manufacturer** with 20-25% market share
 - **Taiwan's sixth-largest manufacturing company**
 - Listed in Forbes Global 2000 for consecutive years
@@ -66,13 +71,16 @@ This global layout not only diversifies operational risks but also allows Compal
 - Ranked 11th globally in Germany's iF Product Design Award innovation competitiveness
 
 ### Financial Performance (2024 data)
+
 - Annual earnings per share (EPS): NT$2.3
 - Capital: NT$44.071 billion
 - Market value: Over NT$140 billion
 - 33 consecutive years of dividend distribution, known as a "dividend aristocrat stock"
 
 ### Major Customers
+
 Compal's customer portfolio demonstrates its significant position in the global laptop market:
+
 - **Lenovo**: Main ODM partner for full product range
 - **Dell**: Primary supplier for consumer and mainstream commercial products
 - **Acer**: Important cooperative partner
@@ -158,6 +166,7 @@ The COVID-19 pandemic and geopolitical tensions highlighted global supply chain 
 
 **New Field Expansion**
 Compal actively invests in emerging technology areas including:
+
 - **Automotive electronics**: With the rise of electric and smart vehicles, automotive electronics markets show enormous potential
 - **Medical technology**: Aging population trends drive smart healthcare demand growth
 - **5G applications**: 5G network proliferation will boost related equipment demand

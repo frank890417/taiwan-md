@@ -14,6 +14,7 @@ category: 'Culture'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣老街文化與商業街區.md'
 ---
 
 # Taiwan Historic Streets and Commercial Districts

@@ -16,6 +16,7 @@ difficulty: 'advanced'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
 ---
 
 # The Rise of AI Island: Taiwan's Artificial Intelligence Development and Future Strategy

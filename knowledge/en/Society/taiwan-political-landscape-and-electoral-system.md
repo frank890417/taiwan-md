@@ -17,6 +17,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣政治環境與選舉制度.md'
 ---
 
 # Taiwan’s Political Landscape and Electoral System

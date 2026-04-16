@@ -3,19 +3,30 @@ title: 'Taiwan Companies: Giant Manufacturing'
 description: 'From abandoned OEM slave to the hidden empire that sets global bicycle technology standards'
 date: 2026-03-22
 category: economy
-tags: [Economy, Enterprises, Giant Manufacturing, Giant, Manufacturing, Brand Transformation, A-Team, E-bikes]
+tags:
+  [
+    Economy,
+    Enterprises,
+    Giant Manufacturing,
+    Giant,
+    Manufacturing,
+    Brand Transformation,
+    A-Team,
+    E-bikes,
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：巨大機械.md'
 ---
 
 # Taiwan Companies: Giant Manufacturing
 
-> **30-Second Overview:** In 1987, American century-old bicycle brand Schwinn abandoned its Taiwanese OEM partner 
-> after 15 years of cooperation, switching to Chinese manufacturers instead. No one predicted this "betrayal" 
-> would spawn the world's largest bicycle manufacturing empire. By 2024, Taiwan's Giant brand produces 6 million 
-> bikes annually and sets technical standards for 70% of the world's premium bicycles. Giant Manufacturing spent 
+> **30-Second Overview:** In 1987, American century-old bicycle brand Schwinn abandoned its Taiwanese OEM partner
+> after 15 years of cooperation, switching to Chinese manufacturers instead. No one predicted this "betrayal"
+> would spawn the world's largest bicycle manufacturing empire. By 2024, Taiwan's Giant brand produces 6 million
+> bikes annually and sets technical standards for 70% of the world's premium bicycles. Giant Manufacturing spent
 > 52 years transforming "Made in Taiwan" from a cheap OEM label into a gold standard of quality assurance.
 
 In 1987, when American century-old bicycle brand Schwinn announced the termination of its manufacturing contract with Taiwan's Giant Manufacturing—switching to Chinese manufacturers instead—it seemed like a textbook case of "capital flows toward lower costs." A Taiwanese OEM factory abandoned, an American brand chasing cheaper labor, the brutal logic of globalization.
@@ -27,8 +38,8 @@ By 2024, Schwinn has become a budget brand sold at Walmart, while the "abandoned
 **The 1987 betrayal wasn't the end of Taiwan's manufacturing industry—it was the beginning of its transformation from "OEM slave" to "technical standard setter."**
 
 > **📝 Curator's Note**
-> Giant Manufacturing's real success lies not in the number of bicycles produced, but in redefining 
-> the meaning of "Made in Taiwan": from a factory accepting design blueprints to a hidden empire 
+> Giant Manufacturing's real success lies not in the number of bicycles produced, but in redefining
+> the meaning of "Made in Taiwan": from a factory accepting design blueprints to a hidden empire
 > setting global standards.
 
 ## Awakening of the OEM Slave: From Imitation to Technical Independence
@@ -46,8 +57,8 @@ The 1980s were Giant Manufacturing's most dangerous yet most crucial period. In 
 The risk was enormous. If discovered by Schwinn, immediate contract termination awaited. But Liu saw an even greater crisis: without developing independent capabilities, Giant Manufacturing would forever be just one link in someone else's supply chain.
 
 > **💡 Did You Know**
-> The Giant brand logo was inspired by the concept of "giant," but Liu Jin-biao truly wanted 
-> to express "big ambitions from a small island"—that a Taiwanese company could also become 
+> The Giant brand logo was inspired by the concept of "giant," but Liu Jin-biao truly wanted
+> to express "big ambitions from a small island"—that a Taiwanese company could also become
 > a giant on the international stage.
 
 > **✦** "We can't be someone else's OEM forever—that way we'll never have real technical capabilities." — Liu Jin-biao
@@ -67,8 +78,8 @@ In the American market, Giant employed a "traitor's revenge" strategy: poaching 
 This marked an important breakthrough for Taiwan's manufacturing industry: transforming from a "technology recipient" to a "technology exporter."
 
 > **📊 Data Source**
-> According to Giant's official historical records, brand revenue exceeded OEM business 
-> for the first time in 1987, marking the key moment of the company's strategic transformation. 
+> According to Giant's official historical records, brand revenue exceeded OEM business
+> for the first time in 1987, marking the key moment of the company's strategic transformation.
 > Source: Giant Group Official Website
 
 ## A-Team Alliance: Industrial Revolution Redefining Competition and Cooperation
@@ -83,14 +94,14 @@ Data proves A-Team's success: Taiwan's bicycle exports grew from 5 million units
 
 A-Team redefined the meaning of "competition." Traditional manufacturing competition was zero-sum, but A-Team proved that "cooperative competition" could create greater market value. This model was later applied to Taiwan's semiconductor, machinery, and other industries.
 
-| A-Team Before/After Comparison | 2003 | 2008 |
-|---|---|---|
-| Annual Export Volume | 5 million units | 6 million units |
-| Average Unit Price | $200 USD | $400 USD |
+| A-Team Before/After Comparison | 2003            | 2008            |
+| ------------------------------ | --------------- | --------------- |
+| Annual Export Volume           | 5 million units | 6 million units |
+| Average Unit Price             | $200 USD        | $400 USD        |
 
 > **⚠️ Controversial Viewpoint**
-> Some critics argue A-Team was a cartel monopoly that squeezed out SMEs. 
-> But supporters contend that facing Chinese low-cost competition, 
+> Some critics argue A-Team was a cartel monopoly that squeezed out SMEs.
+> But supporters contend that facing Chinese low-cost competition,
 > not uniting for upgrades meant collective death.
 
 > **✦** "We're not competing with Merida—we're competing with the world." — A-Team Executive Secretary Zhou Shu-fang
@@ -108,9 +119,9 @@ Giant Manufacturing's most astonishing achievement isn't sales figures, but the 
 **Most strategically significant is ergonomic technology.** Giant Manufacturing established an Asian ergonomic database, providing customized designs for users of different heights, weights, and riding habits. This database became an important reference standard for the global bicycle industry.
 
 > **📝 Curator's Note**
-> Technology standard exports create sustained competitive advantages. When manufacturers 
-> from other countries adopt Taiwan standards, they're effectively paying for Taiwan's 
-> technological innovation. Even Chinese and Vietnamese low-cost competitors must adopt 
+> Technology standard exports create sustained competitive advantages. When manufacturers
+> from other countries adopt Taiwan standards, they're effectively paying for Taiwan's
+> technological innovation. Even Chinese and Vietnamese low-cost competitors must adopt
 > Taiwan's technical specifications to enter international markets.
 
 ## Hidden Empire: Surpassing Shimano's Industry Influence
@@ -136,8 +147,8 @@ Giant Manufacturing developed the SyncDrive electric system, integrating motors,
 **In intelligence aspects,** Giant Manufacturing collaborated with Microsoft to develop the RideControl smart cycling system, integrating GPS navigation, health monitoring, and social sharing functions. This software-hardware integration model evolved bicycles from transportation tools into smart terminals.
 
 > **💡 Did You Know**
-> Giant Manufacturing's collaboration with Taiwan's ITRI (Industrial Technology Research Institute) 
-> on automatic following technology allows bicycles to automatically follow riders on foot. 
+> Giant Manufacturing's collaboration with Taiwan's ITRI (Industrial Technology Research Institute)
+> on automatic following technology allows bicycles to automatically follow riders on foot.
 > Though still experimental, it demonstrates Taiwan's innovation potential in intelligent mobility.
 
 ## Financial Reality and Strategic Transformation Challenges
@@ -151,7 +162,7 @@ More important is the change in revenue structure. **Proprietary brand revenue a
 **Most strategically significant is cash flow management.** The company maintains abundant cash while continuing to invest in R&D and new product development. R&D spending as a percentage of revenue far exceeds industry averages, laying the foundation for future technological leadership through long-term investment.
 
 > **📊 Data Source**
-> Financial data from Giant Group's official investor relations website (ir-financial page). 
+> Financial data from Giant Group's official investor relations website (ir-financial page).
 > January-February 2026 revenue data shows short-term adjustment pressure but clear long-term strategy.
 
 ## Supply Chain Wars: New Challenges Under Geopolitics
@@ -175,8 +186,8 @@ Environmental, Social, and Governance (ESG) has become a new competitive dimensi
 These ESG initiatives aren't just social responsibility—they're business strategy. European and American consumers increasingly value brands' environmental image, and companies with good ESG performance more easily gain investor favor.
 
 > **⚠️ Controversial Viewpoint**
-> Some environmental groups question whether mass bicycle production itself represents 
-> consumerism. But Giant Manufacturing responds that promoting cycling culture reduces 
+> Some environmental groups question whether mass bicycle production itself represents
+> consumerism. But Giant Manufacturing responds that promoting cycling culture reduces
 > car use, creating net positive environmental benefits.
 
 ## Future Strategy: From Manufacturer to Mobility Service Provider

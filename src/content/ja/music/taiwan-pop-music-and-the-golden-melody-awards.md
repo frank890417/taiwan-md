@@ -10,6 +10,7 @@ featured: false
 readingTime: 10
 lastVerified: 2026-03-28
 lastHumanReview: false
+translatedFrom: 'Music/流行音樂與金曲獎.md'
 ---
 
 # 台湾ポップミュージックと金曲奨

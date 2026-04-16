@@ -18,6 +18,7 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'History/台灣鐵道史.md'
 ---
 
 # Taiwan Railway History

@@ -6,12 +6,41 @@ bunx lint-staged
 # Validate frontmatter on staged .md files in knowledge/
 node scripts/core/test-frontmatter.mjs --staged
 
+# ═══ translatedFrom 強制檢查（2026-04-14 η 新增）═══
+# 規則：所有非 zh-TW 翻譯檔的 frontmatter 必須有 translatedFrom 欄位
+# 為什麼：file-level SSOT 比中央 _translations.json 更可靠
+#   - 即使 _translations.json 漏條目，文件本身仍知道來源
+#   - 重命名原文時可以立即偵測哪些翻譯變孤兒
+#   - 不需要查中央表 = self-documentation
+staged_translations=$(git diff --cached --name-only --diff-filter=AM | grep -E '^knowledge/(en|ja|ko|es|fr)/.*\.md$' || true)
+if [ -n "$staged_translations" ]; then
+  tf_fail=0
+  for f in $staged_translations; do
+    [[ "$(basename "$f")" == _* ]] && continue
+    [ ! -f "$f" ] && continue
+    # Check frontmatter for translatedFrom
+    if ! awk '/^---$/{n++; next} n==1{print} n>=2{exit}' "$f" | grep -q '^translatedFrom:'; then
+      echo "❌ $f: 缺 translatedFrom 欄位"
+      echo "   範例: translatedFrom: 'Music/原中文檔名.md'"
+      tf_fail=1
+    fi
+  done
+  if [ "$tf_fail" = "1" ]; then
+    echo ""
+    echo "💡 翻譯檔必須在 frontmatter 標明來源中文檔，避免成為孤兒"
+    echo "   詳見: docs/community/LANGUAGE-STATUS.md §Orphan prevention"
+    echo "   跳過此檢查（緊急修復）: git commit --no-verify"
+    exit 1
+  fi
+fi
+
 # Validate format (延伸閱讀格式 + [[wikilink]] 殘留 + 斷連結) on staged knowledge/*.md
 # 為什麼：「規則在文件裡」≠「規則被執行」。2026-04-04 session η 的教訓。
-staged_md=$(git diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -v '^knowledge/en/' | grep -v '^knowledge/es/' | grep -v '^knowledge/ja/' || true)
+staged_md=$(git diff --cached --name-only --diff-filter=ACM | grep '^knowledge/.*\.md$' | grep -vE '^knowledge/(en|ja|ko|es|fr)/' || true)
 if [ -n "$staged_md" ]; then
   format_fail=0
   link_fail=0
+  fn_fail=0
   for f in $staged_md; do
     # 忽略 _Hub 檔案
     [[ "$(basename "$f")" == _* ]] && continue
@@ -29,10 +58,39 @@ if [ -n "$staged_md" ]; then
       bash scripts/tools/wikilink-validate.sh "$f" 2>&1 | grep '❌' | head -3
       link_fail=1
     fi
+    # ─── 腳註格式檢查（2026-04-14 η 新增）───
+    # 規範：[^N]: [Name](URL) — desc(10+ chars)
+    # 為什麼：format-check 顯示 bad_fn_format 從 342→382（兩天 +40）。
+    # 修舊文不解決，堵新文章才能讓數字停止增長。
+    # MANIFESTO §造橋鋪路「新細胞天生健康 > 回頭修舊細胞」。
+    fn_total=$(grep -cE '^\[\^[0-9a-zA-Z_-]+\]:' "$f" 2>/dev/null || echo 0)
+    fn_total=${fn_total//[[:space:]]/}
+    if [ "$fn_total" -gt 0 ]; then
+      fn_good=$(grep -cE '^\[\^[0-9a-zA-Z_-]+\]: \[.+\]\(https?://.+\) — .{10,}' "$f" 2>/dev/null || echo 0)
+      fn_good=${fn_good//[[:space:]]/}
+      fn_bad=$((fn_total - fn_good))
+      if [ "$fn_bad" -gt 0 ]; then
+        echo "❌ $f: $fn_bad/$fn_total 個腳註格式不合規"
+        echo "   規範: [^N]: [Name](URL) — description（破折號後至少 10 字描述）"
+        echo "   不合規範例:"
+        grep -nE '^\[\^[0-9a-zA-Z_-]+\]:' "$f" | grep -vE '\[\^[0-9a-zA-Z_-]+\]: \[.+\]\(https?://.+\) — .{10,}' | head -3
+        fn_fail=1
+      fi
+    fi
   done
-  if [ "$format_fail" = "1" ] || [ "$link_fail" = "1" ]; then
+  if [ "$format_fail" = "1" ] || [ "$link_fail" = "1" ] || [ "$fn_fail" = "1" ]; then
     echo ""
     echo "💡 跳過此檢查（緊急修復）: git commit --no-verify"
+    exit 1
+  fi
+fi
+
+# ═══ Language registry sync check（2026-04-14 η 新增）═══
+# src/config/languages.ts 和 .mjs 必須保持 code 列表同步
+if echo "$staged_any" | grep -qE 'src/config/languages\.(ts|mjs)$'; then
+  if ! bash scripts/tools/check-language-registry-sync.sh; then
+    echo ""
+    echo "💡 編輯 languages.ts 時記得同步編輯 languages.mjs（反之亦然）"
     exit 1
   fi
 fi

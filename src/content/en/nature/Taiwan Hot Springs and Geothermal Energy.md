@@ -6,6 +6,7 @@ tags: ['hot springs', 'geothermal energy', 'Hokutolite', 'Green Island Zhaori Ho
 category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Nature/台灣溫泉與地熱.md'
 ---
 
 # Taiwan Hot Springs and Geothermal Energy

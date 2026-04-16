@@ -15,6 +15,7 @@ author: 'Che-Yu Wu'
 readingTime: 8
 category: 'About'
 lastVerified: 2026-03-20
+translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 ---
 
 # Why Taiwan Needs Its Own Knowledge Base

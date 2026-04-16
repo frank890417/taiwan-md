@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['sports', 'track and field', 'Olympics', 'hurdles']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/紀政.md'
 ---
 
 # Chi Cheng: The Flying Antelope

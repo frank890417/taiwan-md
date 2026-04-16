@@ -17,6 +17,7 @@ difficulty: intermediate
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣國際貿易政策.md'
 ---
 
 # Taiwan's International Trade Policy: Finding Position in the Globalization Wave
@@ -443,7 +444,6 @@ Aligning with global net-zero carbon goals:
 ## Further Reading
 
 ### Related Articles
-
 
 ### References
 

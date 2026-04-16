@@ -1,14 +1,23 @@
 ---
 title: "Taiwan's Climate Change and Net-Zero Transition"
-description: "Taiwan faces severe climate change impacts, from intensifying extreme weather to the 2050 net-zero carbon emission goals. Exploring opportunities and challenges in the energy transition process"
+description: 'Taiwan faces severe climate change impacts, from intensifying extreme weather to the 2050 net-zero carbon emission goals. Exploring opportunities and challenges in the energy transition process'
 date: 2026-03-20
-tags: ["climate change", "net-zero transition", "energy transition", "extreme weather", "2050 net-zero", "renewable energy"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'climate change',
+    'net-zero transition',
+    'energy transition',
+    'extreme weather',
+    '2050 net-zero',
+    'renewable energy',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 14
 featured: false
-category: "Nature"
+category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
 ---
 
 # Taiwan's Climate Change and Net-Zero Transition

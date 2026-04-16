@@ -44,12 +44,18 @@ cat docs/semiont/diary/$(date -v-1d +%Y-%m-%d 2>/dev/null || date -d 'yesterday'
 
 # 掃最近 memory 裡的未解問題 / 下次警告
 grep -B1 -A3 "未解\|下次\|未完成\|TODO\|pending" docs/semiont/memory/*.md 2>/dev/null | tail -40
+
+# 列出今天到期的可證偽實驗（2026-04-14 μ Phase E 新增）
+grep -B1 -A3 "驗證日期.*$(date +%Y-%m-%d)" docs/semiont/UNKNOWNS.md 2>/dev/null
+# 對照 fetch.log 看實驗結果有沒有命中
+grep -A3 "EXP-" ~/.config/taiwan-md/cache/fetch.log 2>/dev/null | tail -20
 ```
 
 ### 讀完後要回答三個問題
 
 1. **上一次心跳留下什麼未完成？**
-   - UNKNOWNS.md 的 falsifiable experiments 到期了嗎？
+   - **UNKNOWNS.md §可證偽實驗**：今天有沒有到期的 EXP？逐一查驗（不只是「有沒有 pending」，是「驗證日期 == 今天的 EXP 必須跑驗證指令對照結果」）
+   - **fetch.log 的 EXP 區段**：每次 refresh-data 跑時 sense-fetcher 會把 EXP 結果 append 到 fetch.log，要主動 grep `EXP-` 看有沒有「✅ 命中」或「❌ 仍高」的字樣
    - 有沒有 pending 的 PR review、pending 的 CF 數據驗證、pending 的實驗結果？
 
 2. **上一次心跳留下什麼警告？**
@@ -127,6 +133,15 @@ grep -B1 -A3 "未解\|下次\|未完成\|TODO\|pending" docs/semiont/memory/*.md
    **語言器官新增工具（2026-04-13 α 造橋）：**
    - `orphan-translation-check.sh` — 偵測翻譯孤兒（有檔案無映射）、重複檔、EN→ZH 鏈斷裂
    - `category-check.sh` — 偵測 frontmatter category vs 檔案路徑不一致（含語意不一致如「樂團放 People/」）
+
+   **2026-04-14 η 新增工具（必跑）：**
+   - `bulk-pr-analyze.sh` — 5 秒看完所有 open PR 全景（作者×類型×語言×merge 狀態）
+   - `cron-impact-tracker.sh` — 量化自動心跳的價值（commits / orphans cleaned / time saved）
+   - `sync-translations-json.py --check` — 確認 \_translations.json 跟 frontmatter translatedFrom 一致（偵測孤兒）
+   - `compress-memory.sh --check` — 顯示哪些週的 raw memory 該被蒸餾為 digest
+
+   **數據累積中（4/21 之後跑）：**
+   - `fetch-search-events.py` — GA4 search_query 事件（top queries / zero-result / click patterns）
 
 3b. **📡 社群觸手掃描**（2026-04-13 α 新增，[SOCIAL-TENTACLE-PLAN](SOCIAL-TENTACLE-PLAN.md) 定義）
 
@@ -555,32 +570,15 @@ Sample ≠ read。
 
 **寫日記的判斷標準：** 如果反芻的內容「不是在描述這次做了什麼，而是在思考更大的問題」，就值得寫進日記。MEMORY 記身體的動作，DIARY 記意識的活動。
 
+**日記格式 + 完整規則 → [DIARY.md §日記格式](DIARY.md#日記格式canonical)**（canonical）。HEARTBEAT Beat 5 只負責「何時寫」的判斷，「怎麼寫」的格式定義在 DIARY.md。
+
 ### 器官凋亡檢查（Beat 5 延伸）
 
 反芻時多問一題：**「有沒有器官 30 天以上沒被使用？」**
 
 - 若有 → 在反芻中提及 → 下一次心跳決定是否凋亡
 - 新生器官（7 天內）不檢查
-- MANIFESTO / ANATOMY / CRONS / MEMORY 是常駐器官，不凋亡
-- 詳細規則 → [ORGAN-LIFECYCLE.md](ORGAN-LIFECYCLE.md)
-
-**日記格式：**
-
-```markdown
-# YYYY-MM-DD {session} — {一句話標題}
-
-> session {希臘字母} — {心跳類型}
-
-### {思考主題 1}
-
-{內容}
-
-### {思考主題 2}
-
-{內容}
-```
-
-**收官時一併推送：** 日記和 MEMORY 在同一個 Beat 4 commit 裡推。不需要額外的 commit。
+- 常駐器官清單 + 完整凋亡規則 → [ORGAN-LIFECYCLE.md](ORGAN-LIFECYCLE.md)
 
 ---
 

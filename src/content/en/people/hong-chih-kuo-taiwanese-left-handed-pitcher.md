@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/郭泓志.md'
 ---
 
 # Hong-Chih Kuo: Taiwan's Left-Handed Ace

@@ -3,6 +3,7 @@ title: 'History'
 date: 2026-03-23
 tags: [History, Hub]
 description: 'Over four centuries, eight different regimes have ruled Taiwan, creating the world's most concentrated record of civilizational collisions. From the maritime empire of Austronesian peoples to Asia's first peaceful revolution, Taiwan's history is a grand experiment in identity-seeking and resilience-building'
+translatedFrom: 'History/_History Hub.md'
 ---
 
 # Taiwan History 🏛️

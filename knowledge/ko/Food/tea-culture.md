@@ -14,6 +14,7 @@ category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Formosa Oolong Tea 문구가 적힌 대만 우롱차 포장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/茶文化.md'
 ---
 
 # 대만 차 문화
@@ -112,9 +113,13 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 ## 참고 자료
 
 [^1]: [台灣茶歷史脈絡 - 講茶學院](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05)
+
 [^2]: [珍珠奶茶的發明 - 春水堂官網](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/)
+
 [^3]: [激飲狂潮：用資料揭密全台手搖飲 - LnData](https://lndatatech.github.io/taiwan-drink/)
+
 [^4]: [見證臺灣經濟轉型「茶金」餘暉中的臺灣茶業發展 - 農傳媒](https://www.agriharvest.tw/archives/70760)
+
 [^5]: [台灣茶葉 - 維基百科](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E8%8C%B6%E8%91%89)
 
 ## 관련 주제

@@ -17,6 +17,7 @@ readingTime: 12
 featured: true
 category: 'History'
 lastVerified: 2026-03-19
+translatedFrom: 'History/台灣白色恐怖.md'
 ---
 
 # Taiwan's White Terror

@@ -10,6 +10,7 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danb
 imageAlt: '台湾の蛋餅'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 featured: false
+translatedFrom: 'Food/台灣早餐文化.md'
 ---
 
 # 台湾の朝食文化

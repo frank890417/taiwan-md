@@ -3,12 +3,21 @@ title: 'Taiwan Forest Ecosystems'
 description: 'A vertical journey from sea level to 3,952 meters, traversing the most compressed forest spectrum on Earth'
 date: 2026-03-23
 category: 'Nature'
-tags: ['forest ecology', 'vertical distribution', 'Taiwania', 'cypress', 'cloud forest', 'biodiversity']
+tags:
+  [
+    'forest ecology',
+    'vertical distribution',
+    'Taiwania',
+    'cypress',
+    'cloud forest',
+    'biodiversity',
+  ]
 readingTime: 15
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+translatedFrom: 'Nature/台灣森林生態系.md'
 ---
 
 # Taiwan Forest Ecosystems

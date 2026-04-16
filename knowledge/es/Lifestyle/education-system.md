@@ -1,8 +1,17 @@
 ---
-title: "Sistema Educativo de Taiwán"
-category: "Lifestyle"
-tags: ["educación", "gsat", "academias", "educación de doce años", "estilo de vida", "sociedad"]
+title: 'Sistema Educativo de Taiwán'
+category: 'Lifestyle'
+tags:
+  [
+    'educación',
+    'gsat',
+    'academias',
+    'educación de doce años',
+    'estilo de vida',
+    'sociedad',
+  ]
 date: 2026-03-17
+translatedFrom: 'Lifestyle/台灣教育制度.md'
 ---
 
 # Sistema Educativo de Taiwán
@@ -114,4 +123,3 @@ Las plataformas de aprendizaje digital se desarrollan rápidamente. Durante la p
 > Un estudiante de colegio comunitario reflexionó: "El aprendizaje no tiene límites de edad. Comencé a aprender informática a los 60, pintura a los 70, fotografía a los 80. Vivir y aprender es mi filosofía de vida".
 
 ## Temas Relacionados
-

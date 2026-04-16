@@ -17,6 +17,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Society/動物園與展演動物倫理.md'
 ---
 
 # Zoológicos y ética de los animales en exhibición

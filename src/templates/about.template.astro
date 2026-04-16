@@ -1114,19 +1114,19 @@ const t = useTranslations(lang);
             <p class="tier-perks">{t('about.sponsors.tier.curation.perks')}</p>
             <div class="tier-logos">
               <div class="sponsor-card">
-                <a
-                  href="https://www.nmth.gov.tw/"
-                  target="_blank"
-                  rel="noopener"
-                  class="sponsor-logo-link"
-                >
-                  <img
-                    src="/images/nmth-logo.png"
-                    alt="國立臺灣歷史博物館 NMTH"
-                    class="sponsor-logo-img"
-                  />
-                </a>
-                <div class="sponsor-story">
+                <div class="sponsor-card-logo">
+                  <a
+                    href="https://www.nmth.gov.tw/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      src="/images/nmth-logo.png"
+                      alt="國立臺灣歷史博物館 NMTH"
+                    />
+                  </a>
+                </div>
+                <div class="sponsor-card-content">
                   <p class="sponsor-contribution-title">
                     {t('about.sponsors.nmth.story.title')}
                   </p>
@@ -1150,20 +1150,16 @@ const t = useTranslations(lang);
             </p>
             <div class="tier-logos">
               <div class="sponsor-card">
-                <a
-                  href="https://justfont.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="sponsor-logo-link"
-                >
-                  <img
-                    src="/images/justfont-logo.svg"
-                    alt="justfont"
-                    class="sponsor-logo-img"
-                    style="height: 28px;"
-                  />
-                </a>
-                <div class="sponsor-story">
+                <div class="sponsor-card-logo">
+                  <a
+                    href="https://justfont.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img src="/images/justfont-logo.svg" alt="justfont" />
+                  </a>
+                </div>
+                <div class="sponsor-card-content">
                   <p class="sponsor-contribution-title">
                     {t('about.sponsors.justfont.story.title')}
                   </p>
@@ -1182,13 +1178,44 @@ const t = useTranslations(lang);
             <p class="tier-desc">{t('about.sponsors.tier.community.desc')}</p>
             <p class="tier-perks">{t('about.sponsors.tier.community.perks')}</p>
             <div class="tier-logos">
-              <a
-                href="https://protico.io"
-                target="_blank"
-                class="supporter-link"
-              >
-                <span set:html={t('about.sponsors.protico.text.html')} />
-              </a>
+              <div class="sponsor-card">
+                <div class="sponsor-card-logo">
+                  <a
+                    href="https://protico.io"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img src="/images/protico-logo.png" alt="Protico" />
+                  </a>
+                </div>
+                <div class="sponsor-card-content">
+                  <p class="sponsor-contribution-title">
+                    {t('about.sponsors.protico.story.title')}
+                  </p>
+                  <p class="sponsor-contribution">
+                    {t('about.sponsors.protico.story.desc')}
+                  </p>
+                </div>
+              </div>
+              <div class="sponsor-card">
+                <div class="sponsor-card-logo">
+                  <a
+                    href="https://portaly.cc"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img src="/images/portaly-logo.png" alt="Portaly" />
+                  </a>
+                </div>
+                <div class="sponsor-card-content">
+                  <p class="sponsor-contribution-title">
+                    {t('about.sponsors.portaly.story.title')}
+                  </p>
+                  <p class="sponsor-contribution">
+                    {t('about.sponsors.portaly.story.desc')}
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -1214,6 +1241,20 @@ const t = useTranslations(lang);
 
         <div class="sponsor-cta">
           <h3>{t('about.sponsors.cta.title')}</h3>
+          <div class="portaly-donate">
+            <p class="portaly-label">
+              {t('about.sponsors.portaly.label')}
+            </p>
+            <a
+              href="https://portaly.cc/taiwanmd/support"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="portaly-link"
+            >
+              {t('about.sponsors.portaly.cta')} →
+            </a>
+            <p class="portaly-note">{t('about.sponsors.portaly.note')}</p>
+          </div>
           <p set:html={t('about.sponsors.cta.desc.html')} />
           <div class="sponsor-contact">
             <a
@@ -1222,59 +1263,7 @@ const t = useTranslations(lang);
             >
               {t('about.sponsors.cta.contact')}
             </a>
-            <a
-              href="https://github.com/sponsors/frank890417"
-              target="_blank"
-              class="btn btn-outline"
-            >
-              {t('about.sponsors.cta.github')}
-            </a>
           </div>
-          <div class="eth-donate">
-            <p class="eth-label">{t('about.sponsors.eth.label')}</p>
-            <div class="eth-address-box">
-              <span class="eth-icon">
-                <svg
-                  width="16"
-                  height="16"
-                  viewBox="0 0 256 417"
-                  fill="none"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    d="M127.961 0l-2.795 9.5v275.668l2.795 2.79 127.962-75.638z"
-                    fill="#343434"></path>
-                  <path
-                    d="M127.962 0L0 212.32l127.962 75.639V154.158z"
-                    fill="#8C8C8C"></path>
-                  <path
-                    d="M127.961 312.187l-1.575 1.92v98.199l1.575 4.6L256 236.587z"
-                    fill="#3C3C3B"></path>
-                  <path d="M127.962 416.905v-104.72L0 236.585z" fill="#8C8C8C"
-                  ></path>
-                  <path
-                    d="M127.961 287.958l127.96-75.637-127.96-58.162z"
-                    fill="#141414"></path>
-                  <path d="M0 212.32l127.96 75.638V154.159z" fill="#393939"
-                  ></path>
-                </svg>
-              </span>
-              <code class="eth-address" id="eth-address"
-                >{t('about.sponsors.eth.address')}</code
-              >
-              <button
-                class="eth-copy-btn"
-                onclick={`navigator.clipboard.writeText('${t('about.sponsors.eth.address')}').then(()=>{this.textContent='${t('about.sponsors.eth.copied')}';setTimeout(()=>{this.textContent='${t('about.sponsors.eth.copy')}'},1500)})`}
-                title={t('about.sponsors.eth.copy')}
-                >{t('about.sponsors.eth.copy')}</button
-              >
-            </div>
-            <p class="eth-note">{t('about.sponsors.eth.note')}</p>
-          </div>
-          <p
-            class="sponsor-note"
-            set:html={t('about.sponsors.reference.note.html')}
-          />
         </div>
       </div>
     </section>
@@ -2524,8 +2513,8 @@ const t = useTranslations(lang);
     margin-bottom: 1rem;
   }
   .tier-logos {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    display: flex;
+    flex-direction: column;
     gap: 1rem;
   }
   .sponsor-logo-link {
@@ -2548,17 +2537,41 @@ const t = useTranslations(lang);
   }
   .sponsor-card {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    gap: 1rem;
-    padding: 1.5rem;
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
+    gap: 1.5rem;
+    padding: 1rem 0;
   }
-  .sponsor-story {
+  .sponsor-card-logo {
+    flex: 0 0 25%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 0;
+  }
+  .sponsor-card-logo a {
+    display: block;
+    width: 100%;
+    max-width: 160px;
+    text-decoration: none;
+    /* 蓋掉 global.css main a:not(...) 加的 border-bottom + padding-bottom */
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+  }
+  /* 蓋掉全域 a[target=_blank]::after 的 ↗ — logo 不需要外連符號 */
+  .sponsor-card-logo a::after {
+    content: none !important;
+  }
+  .sponsor-card-logo img {
+    display: block;
+    width: 100%;
+    max-width: 160px;
+    height: auto;
+  }
+  .sponsor-card-content {
+    flex: 1;
+    min-width: 0;
     text-align: left;
-    max-width: 480px;
   }
   .sponsor-contribution-title {
     font-size: 0.95rem;
@@ -2632,56 +2645,45 @@ const t = useTranslations(lang);
     text-decoration: underline;
   }
 
-  .eth-donate {
+  .portaly-donate {
     margin-top: 1.5rem;
     padding-top: 1.5rem;
     border-top: 1px dashed #e2e8f0;
+    text-align: center;
   }
-  .eth-label {
-    font-size: 0.9rem;
+  .portaly-label {
+    font-size: 0.95rem;
     color: #475569;
-    margin-bottom: 0.75rem;
+    margin: 0 auto 0.85rem;
+    line-height: 1.6;
+    max-width: 32em;
   }
-  .eth-address-box {
+  .portaly-link {
     display: inline-flex;
     align-items: center;
-    gap: 0.6rem;
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 10px;
-    padding: 0.6rem 1rem;
-    margin-bottom: 0.5rem;
-  }
-  .eth-icon {
-    display: flex;
-    align-items: center;
-    opacity: 0.7;
-  }
-  .eth-address {
-    font-family: 'SF Mono', 'Fira Code', monospace;
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: #1a1a2e;
-    letter-spacing: 0.01em;
-  }
-  .eth-copy-btn {
-    background: #3b82f6;
+    gap: 0.4rem;
+    background: linear-gradient(135deg, #15803d 0%, #166534 100%);
     color: white;
-    border: none;
-    border-radius: 6px;
-    padding: 0.3rem 0.7rem;
-    font-size: 0.78rem;
+    text-decoration: none;
+    padding: 0.7rem 1.3rem;
+    border-radius: 10px;
+    font-size: 0.92rem;
     font-weight: 600;
-    cursor: pointer;
-    transition: all 0.2s;
+    letter-spacing: 0.01em;
+    box-shadow: 0 2px 8px rgba(21, 128, 61, 0.18);
+    transition: all 0.2s ease;
   }
-  .eth-copy-btn:hover {
-    background: #2563eb;
+  .portaly-link:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba(21, 128, 61, 0.28);
+    background: linear-gradient(135deg, #166534 0%, #14532d 100%);
   }
-  .eth-note {
-    font-size: 0.8rem;
-    color: #94a3b8;
-    margin-top: 0.5rem;
+  .portaly-note {
+    font-size: 0.82rem;
+    color: #64748b;
+    margin: 0.85rem auto 0;
+    line-height: 1.65;
+    max-width: 32em;
   }
   .supporter-link {
     display: inline-block;
@@ -2746,8 +2748,16 @@ const t = useTranslations(lang);
     .sponsor-tiers {
       gap: 1.5rem;
     }
-    .tier-logos {
-      grid-template-columns: 1fr;
+    .sponsor-card {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.85rem;
+    }
+    .sponsor-card-logo {
+      flex: 0 0 auto;
+      width: 160px;
+      max-width: 160px;
+      align-self: center;
     }
     .sponsor-contact {
       flex-direction: column;

@@ -1,17 +1,25 @@
 ---
-title: "Mega Financial Holding: From Japanese Colonial Bank to Global Financial Partner for Taiwanese Businesses"
-description: "Inheriting the legacy of Taiwan Bank established in 1897, Mega Financial Holding has built a financial network across 38 countries in 127 years, becoming a crucial supporter for Taiwanese businesses going global"
+title: 'Mega Financial Holding: From Japanese Colonial Bank to Global Financial Partner for Taiwanese Businesses'
+description: 'Inheriting the legacy of Taiwan Bank established in 1897, Mega Financial Holding has built a financial network across 38 countries in 127 years, becoming a crucial supporter for Taiwanese businesses going global'
 date: 2026-03-20
-tags: [Economy, Enterprise, Financial Industry, State-Owned Bank, International Finance]
+tags:
+  [
+    Economy,
+    Enterprise,
+    Financial Industry,
+    State-Owned Bank,
+    International Finance,
+  ]
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：兆豐金控.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Mega Financial Holding's predecessor was Taiwan Bank, established in 1897. It has experienced three eras: Japanese colonial rule, post-war state management, and privatization. Formed in 2006 through the merger of International Commercial Bank of China and Bank of Communications, it carries 127 years of financial heritage. With assets of NT$4.6 trillion and 68 locations across 38 countries, it's the best financial partner for Taiwanese businesses' global expansion and Taiwan's financial stock with the most shareholders—520,000.
 
 ## Financial Memories on Chongqing South Road

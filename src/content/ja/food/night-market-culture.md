@@ -12,6 +12,7 @@ lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightMarketRichy2.jpg/960px-TWShiLinNightMarketRichy2.jpg'
 imageAlt: '台湾の夜市文化'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/夜市文化.md'
 ---
 
 # 台湾の夜市文化

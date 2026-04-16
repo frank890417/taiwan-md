@@ -10,6 +10,7 @@ readingTime: 7
 category: Food
 lastVerified: 2026-04-05
 lastHumanReview: false
+translatedFrom: 'Food/粽子.md'
 ---
 
 # 쫑쯔(粽子)

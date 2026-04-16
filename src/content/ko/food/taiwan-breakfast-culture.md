@@ -21,6 +21,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
 imageAlt: '대만식 단빙'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣早餐文化.md'
 ---
 
 # 대만 아침식사 문화

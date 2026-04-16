@@ -24,6 +24,7 @@ featured: false
 readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
+translatedFrom: 'Geography/台灣地圖怎麼讀.md'
 ---
 
 # 대만 지도 읽는 법: 고구마에서 위성까지, 400년의 시선

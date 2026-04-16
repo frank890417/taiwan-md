@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Science & Academia'
 lastVerified: 2026-03-20
+translatedFrom: 'People/許倬雲.md'
 ---
 
 # Cho-yun Hsu: Master Historian Bridging East and West

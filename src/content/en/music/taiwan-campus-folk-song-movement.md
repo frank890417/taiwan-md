@@ -18,6 +18,7 @@ difficulty: 'beginner'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣民歌運動.md'
 ---
 
 # Taiwan’s Campus Folk Song Movement: Singing Our Own Songs

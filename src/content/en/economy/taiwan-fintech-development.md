@@ -17,6 +17,7 @@ readingTime: 16
 featured: false
 lastVerified: 2026-03-20
 category: 'Economy'
+translatedFrom: 'Economy/台灣金融科技發展.md'
 ---
 
 # FinTech Development in Taiwan

@@ -18,6 +18,7 @@ featured: false
 readingTime: 13
 lastVerified: 2026-04-08
 lastHumanReview: false
+translatedFrom: 'Culture/台灣迷因.md'
 ---
 
 > **30-Second Overview:** In 2009, Master Sheng Yen, one of Taiwan's most influential Buddhist leaders, died and left a will that fit in a single sentence: no obituary, no tomb, no headstone. His ashes were buried beneath a tree, unmarked. That year, Taiwan's cremation rate was already approaching 90 percent. By 2024, it hit 98.7% — virtually no one is buried in the ground anymore. From funeral processions featuring pole dancers on neon-lit floats to families quietly scattering ashes in a park, Taiwan's relationship with death has been completely rewritten in a single generation.

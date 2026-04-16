@@ -1,8 +1,18 @@
 ---
-title: "Lee Yuan-tseh"
+title: 'Lee Yuan-tseh'
 category: People
-tags: [person, Lee Yuan-tseh, Premio Nobel, química, científico, Academia Sinica, Taiwan]
+tags:
+  [
+    person,
+    Lee Yuan-tseh,
+    Premio Nobel,
+    química,
+    científico,
+    Academia Sinica,
+    Taiwan,
+  ]
 date: 2026-03-17
+translatedFrom: 'People/李遠哲.md'
 ---
 
 # Lee Yuan-tseh
@@ -90,6 +100,7 @@ En 1974, Lee fue invitado a regresar a UC Berkeley como Profesor de Química. Aq
 Lee continuamente mejoró la técnica de haz molecular cruzado, permitiendo el estudio de reacciones químicas más complejas. Desarrolló nuevos métodos de detección capaces de medir la distribución de energía interna de productos de reacción y distribución angular.
 
 **Resultados de investigación importantes:**
+
 1. **Reacción de átomos de flúor y moléculas de hidrógeno:** El estudio detallado de Lee de la reacción F + H₂ → HF + H reveló muchos fenómenos inesperados, convirtiéndose en un caso clásico en libros de texto de cinética química.
 
 2. **Reacciones de átomos de oxígeno y alcanos:** Estudió sistemáticamente reacciones de átomos de oxígeno con varias moléculas de alcano, descubriendo patrones de estereoselectividad de reacción y proporcionando bases teóricas importantes para la química de combustión.

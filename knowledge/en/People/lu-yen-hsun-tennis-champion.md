@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: [people, lu-yen-hsun, tennis, olympics, wimbledon, professional-tennis]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/盧彥勳.md'
 ---
 
 # Lu Yen-hsun (盧彥勳): Taiwan's Tennis Pioneer
@@ -52,7 +53,6 @@ Lu's influence extends beyond his playing achievements. He demonstrated that wit
 His four Olympic appearances embody the spirit of perseverance that defines Taiwan's approach to international sports. While medals eluded him, his consistent presence at the highest levels of competition inspired a generation of Taiwanese athletes across all sports.
 
 ## Further Reading
-
 
 ## References
 

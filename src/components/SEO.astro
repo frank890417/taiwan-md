@@ -1,10 +1,17 @@
 ---
+import {
+  LANGUAGES,
+  ENABLED_LANGUAGE_CODES,
+  DEFAULT_LANGUAGE,
+  getLanguage,
+} from '../config/languages';
+
 interface Props {
   title: string;
   description?: string;
   image?: string;
   url?: string;
-  lang?: 'zh-TW' | 'en' | 'ja' | 'ko';
+  lang?: string;
   type?: 'website' | 'article';
   datePublished?: string;
   dateModified?: string;
@@ -191,11 +198,14 @@ const dynamicKeywords = [
 // BreadcrumbList JSON-LD for content pages
 const generateBreadcrumbLD = () => {
   const currentPath = new URL(url).pathname;
-  const langPrefixes = ['en', 'ja', 'ko'] as const;
+  // Non-default locales from the registry
+  const nonDefaultLocales = ENABLED_LANGUAGE_CODES.filter(
+    (c) => c !== DEFAULT_LANGUAGE.code,
+  );
 
   // Determine locale prefix for URLs
   let localePrefix = '';
-  for (const p of langPrefixes) {
+  for (const p of nonDefaultLocales) {
     if (lang === p) {
       localePrefix = `/${p}`;
       break;
@@ -203,7 +213,10 @@ const generateBreadcrumbLD = () => {
   }
 
   // Homepage - no breadcrumb needed
-  const homePaths = ['/', '/en', '/en/', '/ja', '/ja/', '/ko', '/ko/'];
+  const homePaths = [
+    '/',
+    ...nonDefaultLocales.flatMap((l) => [`/${l}`, `/${l}/`]),
+  ];
   if (homePaths.includes(currentPath)) {
     return null;
   }
@@ -318,33 +331,44 @@ const breadcrumbLD = generateBreadcrumbLD();
 <link rel="dns-prefetch" href="//github.com" />
 <link rel="dns-prefetch" href="//x.com" />
 
-<!-- Dynamic Language Tags -->
+<!-- Dynamic Language Tags — driven by LANGUAGES registry -->
 {
   (() => {
     const currentPath = new URL(url).pathname;
-    const prefixes = ['en', 'ja', 'ko'] as const;
+    // Non-default locale prefixes (everything except zh-TW which has no prefix)
+    const nonDefaultCodes = ENABLED_LANGUAGE_CODES.filter(
+      (c) => c !== DEFAULT_LANGUAGE.code,
+    );
 
     // Strip any locale prefix to get the base path
     let basePath = currentPath;
-    for (const p of prefixes) {
+    for (const p of nonDefaultCodes) {
       if (currentPath.startsWith(`/${p}/`) || currentPath === `/${p}`) {
         basePath = currentPath.slice(`/${p}`.length) || '/';
         break;
       }
     }
 
-    const zhHref = `${siteUrl}${basePath}`;
-    const enHref = `${siteUrl}/en${basePath === '/' ? '' : basePath}`;
-    const jaHref = `${siteUrl}/ja${basePath === '/' ? '' : basePath}`;
-    const koHref = `${siteUrl}/ko${basePath === '/' ? '' : basePath}`;
+    const buildHref = (code: string) =>
+      code === DEFAULT_LANGUAGE.code
+        ? `${siteUrl}${basePath}`
+        : `${siteUrl}/${code}${basePath === '/' ? '' : basePath}`;
+
+    const defaultHref = buildHref(DEFAULT_LANGUAGE.code);
 
     return (
       <>
-        <link rel="alternate" hreflang="zh-TW" href={zhHref} />
-        <link rel="alternate" hreflang="en" href={enHref} />
-        <link rel="alternate" hreflang="ja" href={jaHref} />
-        <link rel="alternate" hreflang="ko" href={koHref} />
-        <link rel="alternate" hreflang="x-default" href={zhHref} />
+        {ENABLED_LANGUAGE_CODES.map((code) => {
+          const entry = getLanguage(code);
+          return (
+            <link
+              rel="alternate"
+              hreflang={entry?.hreflang || code}
+              href={buildHref(code)}
+            />
+          );
+        })}
+        <link rel="alternate" hreflang="x-default" href={defaultHref} />
       </>
     );
   })()
@@ -363,8 +387,19 @@ const breadcrumbLD = generateBreadcrumbLD();
 <meta property="og:site_name" content="Taiwan.md — 台灣知識庫" />
 <meta
   property="og:locale"
-  content={{ 'zh-TW': 'zh_TW', en: 'en_US', ja: 'ja_JP', ko: 'ko_KR' }[lang] ||
-    'zh_TW'}
+  content={(() => {
+    // Map registry hreflang → og:locale format (e.g., 'en' → 'en_US', 'ja' → 'ja_JP')
+    const ogLocaleMap: Record<string, string> = {
+      'zh-Hant': 'zh_TW',
+      en: 'en_US',
+      ja: 'ja_JP',
+      ko: 'ko_KR',
+      es: 'es_ES',
+      fr: 'fr_FR',
+    };
+    const entry = getLanguage(lang);
+    return ogLocaleMap[entry?.hreflang || ''] || 'zh_TW';
+  })()}
 />
 {
   datePublished && (

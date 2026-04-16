@@ -3,14 +3,25 @@ title: "Taiwan's Marriage Revolution: How One Man's 33-Year Fight Rewrote Love's
 description: "From martial law prison to Asia's first same-sex marriage law—the extraordinary story of Taiwan becoming Asia's rainbow capital"
 date: 2026-03-22
 category: 'Society'
-tags: ['Same-sex marriage', 'Gender equality', 'Human rights', 'Judicial', 'Asia first', 'Chi Chia-wei', 'LGBTQ+']
+tags:
+  [
+    'Same-sex marriage',
+    'Gender equality',
+    'Human rights',
+    'Judicial',
+    'Asia first',
+    'Chi Chia-wei',
+    'LGBTQ+',
+  ]
 author: 'Taiwan.md'
 difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Society/台灣同婚與性別平權.md'
 ---
+
 # Taiwan's Marriage Revolution: How One Man's 33-Year Fight Rewrote Love's Definition
 
 > **30-Second Overview:** In 1986, Chi Chia-wei was imprisoned for five months under martial law for coming out publicly. On May 17, 2019, the same man's constitutional petition made Taiwan Asia's first country with legal same-sex marriage. This isn't a story about law—it's a story about 33 years of refusing to give up. A story of how one person society labeled a "monster" eventually made that same society redefine love itself.
@@ -109,6 +120,7 @@ This wasn't just a legal victory—it was a **revolutionary transformation in hu
 After the constitutional ruling, opposition groups launched "Pro-Family Referendum" counterattacks. On November 24, 2018, same-sex marriage referendums became Taiwan's most intense civic mobilization.
 
 **The referendum results were devastating for the marriage equality movement:**
+
 - "Civil marriage should be limited to one man and one woman": 7.65 million yes votes
 - "Protect same-sex couples with special law": 6.49 million yes votes
 - Support civil code amendment referendum: Only 3.04 million yes votes
@@ -139,6 +151,7 @@ When the bill passed, tens of thousands of supporters gathered outside the Legis
 This law was a product of political compromise—neither civil code amendment nor completely independent special law, but an "enforcement act."
 
 **Legal content:**
+
 - ✅ **Marriage rights**: Same-sex couples can form marriage relationships
 - ✅ **Property protection**: Applicable to civil code marital property systems
 - ✅ **Medical decisions**: Spousal medical proxy rights
@@ -161,6 +174,7 @@ Despite limitations, Taiwan became **Asia's first country to legally protect sam
 ### Marriage Registration Statistics
 
 Since opening on May 24, 2019:
+
 - **Total registrations**: Over 10,000 same-sex couples have completed marriage registration
 - **Gender ratio**: Female couples approximately twice that of male couples
 - **Geographic distribution**: Not just concentrated in metropolitan areas; rural townships also have registration cases

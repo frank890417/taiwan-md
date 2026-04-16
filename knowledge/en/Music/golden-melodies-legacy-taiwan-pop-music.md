@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 11
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣流行音樂.md'
 ---
 
 # The Legacy of Golden Melodies: A Cultural History of Taiwan Pop

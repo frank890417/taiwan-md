@@ -12,6 +12,7 @@ lastHumanReview: false
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg/960px-HK_TW_%E8%8D%83%E7%81%A3_Tsuen_Wan_West_%E5%A6%82%E5%BF%83%E5%BB%A3%E5%A0%B4_Nina_Tower_Mall_Two_%E5%95%86%E5%A0%B4_restaurant_directory_sign_December_2023_R12S.jpg"
 imageAlt: "Michelin Restaurant Guide"
 imageCredit: "Wikimedia Commons, CC BY-SA"
+translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
 ---
 
 # Taiwan's Michelin Guide: The Price of Stars and Redefinition

@@ -7,6 +7,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 12
 featured: false
+translatedFrom: 'History/日治時期.md'
 ---
 
 # Era Colonial Japonesa

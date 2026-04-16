@@ -12,6 +12,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Taiwanese_Beef_Noodle_Soup.jpg/960px-Taiwanese_Beef_Noodle_Soup.jpg'
 imageAlt: '대만 우육면'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/牛肉麵.md'
 ---
 
 # 우육면
