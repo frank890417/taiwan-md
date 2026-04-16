@@ -1,5 +1,67 @@
 [
   {
+    "title": "小虎隊",
+    "slug": "小虎隊",
+    "category": "music",
+    "subcategory": "流行文化",
+    "date": "2026-03-24T23:00:00Z",
+    "lastModified": "2026-04-15",
+    "lastVerified": null,
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 1410,
+    "tagCount": 5,
+    "tags": ["台灣流行音樂", "偶像團體", "小虎隊", "80年代音樂", "青春文化"],
+    "translations": {
+      "en": false,
+      "ja": true,
+      "ko": true,
+      "es": false,
+      "fr": true
+    },
+    "revision": 2,
+    "commitHash": "f260d03b",
+    "commitSubject": "🧬 [semiont] heal: 3 個「工具在說謊」系統性 bug 同時修復",
+    "description": "1988年從華視選秀節目中誕生的小虎隊，由吳奇隆、陳志朋、蘇有朋組成，憑藉陽光活力形象與勵志舞曲，成為台灣第一個男子偶像團體，開啟華語流行音樂的青春偶像時代，並成為兩岸三地共同的青春記憶。",
+    "healthScore": 33,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李洋",
+    "slug": "李洋",
+    "category": "people",
+    "subcategory": "體育",
+    "date": "2026-04-14",
+    "lastModified": "2026-04-15",
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "2026-04-14",
+    "featured": true,
+    "wordCount": 9374,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 13,
+    "commitHash": "3289f32e",
+    "commitSubject": "🧬 [semiont] memory: δ session 收官 — Portaly 全套 + sponsor-card 抽出 + 🔥 #30 X 112K 史上最強 + sponsor-cta 重排",
+    "description": "咬著牙拚過甲組的少年，現在咬著牙拚體邪：兩屆奧運羽球男雙金牌、史上最年輕部長、存款 3401 萬、債務 3638 萬、補頒一千萬獎金全捐",
+    "healthScore": 90,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 30
+  },
+  {
     "title": "大罷免",
     "slug": "大罷免",
     "category": "history",
@@ -88,7 +150,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 12,
     "commitHash": "56053512",
@@ -119,7 +181,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 3,
     "commitHash": "568c3d89",
@@ -201,37 +263,6 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 0
-  },
-  {
-    "title": "李洋",
-    "slug": "李洋",
-    "category": "people",
-    "subcategory": "體育",
-    "date": "2026-04-14",
-    "lastModified": "2026-04-14",
-    "lastVerified": "2026-04-14",
-    "lastHumanReview": "2026-04-14",
-    "featured": true,
-    "wordCount": 9374,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
-    },
-    "revision": 9,
-    "commitHash": "21c25353",
-    "commitSubject": "🧬 [semiont] heal: 李洋 延伸閱讀 bold→h2 + 孢子 3h 數據更新 32K",
-    "description": "咬著牙拚過甲組的少年，現在咬著牙拚體邪：兩屆奧運羽球男雙金牌、史上最年輕部長、存款 3401 萬、債務 3638 萬、補頒一千萬獎金全捐",
-    "healthScore": 90,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 30
   },
   {
     "title": "賴清德：從礦工家庭到總統府的公共衛生醫師",
@@ -321,7 +352,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -354,7 +385,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "eb0744ad",
@@ -366,37 +397,6 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 17
-  },
-  {
-    "title": "小虎隊",
-    "slug": "小虎隊",
-    "category": "music",
-    "subcategory": "流行文化",
-    "date": "2026-03-24T23:00:00Z",
-    "lastModified": "2026-04-13",
-    "lastVerified": null,
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 1410,
-    "tagCount": 5,
-    "tags": ["台灣流行音樂", "偶像團體", "小虎隊", "80年代音樂", "青春文化"],
-    "translations": {
-      "en": false,
-      "ja": true,
-      "ko": true,
-      "es": false,
-      "fr": false
-    },
-    "revision": 1,
-    "commitHash": "eb0744ad",
-    "commitSubject": "🧬 [semiont] heal: 樂團統一搬到 Music/ — 五月天 + 小虎隊 (People→Music)",
-    "description": "1988年從華視選秀節目中誕生的小虎隊，由吳奇隆、陳志朋、蘇有朋組成，憑藉陽光活力形象與勵志舞曲，成為台灣第一個男子偶像團體，開啟華語流行音樂的青春偶像時代，並成為兩岸三地共同的青春記憶。",
-    "healthScore": 30,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 0
   },
   {
     "title": "TikTok",
@@ -769,7 +769,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "529338fb",
@@ -807,7 +807,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 6,
     "commitHash": "7e73d534",
@@ -1258,7 +1258,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "5dfae94a",
@@ -1428,7 +1428,7 @@
     "translations": {
       "en": false,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -2042,7 +2042,7 @@
   },
   {
     "title": "為台灣而教：一個普林斯頓女生回家後，說服四百個年輕人走進偏鄉教室",
-    "slug": "為台灣而教tft",
+    "slug": "為台灣而教TFT",
     "category": "society",
     "subcategory": "教育",
     "date": "2026-04-08",
@@ -2098,7 +2098,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 5,
     "commitHash": "818f3cc1",
@@ -2371,7 +2371,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 3,
     "commitHash": "8b302342",
@@ -2402,7 +2402,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "e70c87a8",
@@ -2433,7 +2433,7 @@
       "ja": false,
       "ko": false,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "8b302342",
@@ -2790,7 +2790,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "c7109a1a",
@@ -2828,7 +2828,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "377006e0",
@@ -3107,7 +3107,7 @@
     "translations": {
       "en": false,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -3629,7 +3629,7 @@
     "translations": {
       "en": false,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -3693,7 +3693,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "a00af134",
@@ -3731,7 +3731,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "d9e0ba0f",
@@ -3925,7 +3925,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "03c7e7bd",
@@ -4520,7 +4520,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -4808,7 +4808,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "59ebe9d9",
@@ -5110,7 +5110,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 4,
     "commitHash": "3c64c560",
@@ -5141,7 +5141,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 14,
     "commitHash": "ed89eebc",
@@ -5263,7 +5263,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -5839,7 +5839,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "3866709c",
@@ -5986,7 +5986,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -6671,7 +6671,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "991bf7ac",
@@ -6771,7 +6771,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "c71f1568",
@@ -7429,7 +7429,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "7239b4db",
@@ -7460,7 +7460,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "9fb44534",
@@ -7491,7 +7491,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "ba307b03",
@@ -7522,7 +7522,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 15,
     "commitHash": "6a4a620d",
@@ -7553,7 +7553,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "49cca9cc",
@@ -7615,7 +7615,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 13,
     "commitHash": "7239b4db",
@@ -7658,7 +7658,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "b3c1b94c",
@@ -7698,7 +7698,7 @@
       "ja": false,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 12,
     "commitHash": "1cbed0a6",
@@ -7738,7 +7738,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 13,
     "commitHash": "0332733b",
@@ -8980,7 +8980,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 15,
     "commitHash": "fb762392",
@@ -9020,7 +9020,7 @@
       "ja": false,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 13,
     "commitHash": "bbe8e16c",
@@ -9198,7 +9198,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -9611,7 +9611,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "fbdf72bb",
@@ -10305,7 +10305,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "bbefd1a8",
@@ -10336,7 +10336,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 6,
     "commitHash": "f0fe192c",
@@ -10367,7 +10367,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "f0fe192c",
@@ -10429,7 +10429,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "de86194e",
@@ -10460,7 +10460,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "3250713d",
@@ -10635,7 +10635,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -11100,7 +11100,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "9f958053",
@@ -11131,7 +11131,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "f2426fdf",
@@ -11162,7 +11162,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 6,
     "commitHash": "f2426fdf",
@@ -11193,7 +11193,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "e522a783",
@@ -11224,7 +11224,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 6,
     "commitHash": "f2426fdf",
@@ -11262,7 +11262,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "f2426fdf",
@@ -11293,7 +11293,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "f2426fdf",
@@ -11324,7 +11324,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "f2426fdf",
@@ -13227,7 +13227,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -13266,7 +13266,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -13305,7 +13305,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -13344,7 +13344,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -13804,7 +13804,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "5ffad273",
@@ -13835,7 +13835,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "d4761635",
@@ -13866,7 +13866,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "5ffad273",
@@ -13897,7 +13897,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "b423f6f6",
@@ -13928,7 +13928,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "42d8684c",
@@ -13959,7 +13959,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "2fc3919a",
@@ -13990,7 +13990,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "15319020",
@@ -14021,7 +14021,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "2fc3919a",
@@ -14315,7 +14315,7 @@
       "ja": false,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "bce74c1f",
@@ -15028,7 +15028,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "",
@@ -15059,7 +15059,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "",
@@ -15099,7 +15099,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 5,
     "commitHash": "",
@@ -15168,7 +15168,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 8,
     "commitHash": "",
@@ -15199,7 +15199,7 @@
       "ja": false,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 9,
     "commitHash": "",
@@ -15237,7 +15237,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 4,
     "commitHash": "",
@@ -15376,6 +15376,772 @@
     "commitSubject": "",
     "description": "2005年出生的台灣高中生許宸睿，在日本修學旅行時一句「My name is Ray, I'm from Taiwan」爆紅。目前Twitch超過270萬追隨者、YouTube 143萬訂閱，他把台灣護照、牛肉麵、珍奶帶進美國GQ熱門影片，還簽約Adidas推出個人品牌RUEI，後來宣布退休轉投資牙醫診所，讓世界看見台灣年輕人的可能性。",
     "healthScore": 74,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "南珉貞",
+    "slug": "南珉貞",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 686,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "南珉貞",
+      "韓國",
+      "啦啦隊",
+      "富邦悍將",
+      "Fubon Angels",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "在富邦體系跨季續留的韓籍代表，她把「短期熱度」變成「可預期出場」的職業應援樣本。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "安成宰",
+    "slug": "安成宰",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 542,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "安成宰",
+      "韓國",
+      "黑白大廚",
+      "米其林",
+      "三星",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "米其林三星主廚與《黑白大廚》評審，以台灣三星電子摺疊機系列大使身分亮相，把「頂級餐飲的判準語言」借接到 3C 品牌的精品敘事。",
+    "healthScore": 58,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "安芝儇",
+    "slug": "安芝儇",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 781,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "安芝儇",
+      "韓國",
+      "啦啦隊",
+      "台鋼雄鷹",
+      "Wing Stars",
+      "高雄"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從韓國職業應援到移居高雄，她把「來台演出」推進成「在台生活」的韓籍啦啦隊新路徑。",
+    "healthScore": 60,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "崔鉉碩",
+    "slug": "崔鉉碩",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 504,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "崔鉉碩",
+      "韓國",
+      "黑白大廚",
+      "餐飲聯名",
+      "foodpanda",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "《黑白大廚》黑湯匙主廚「拿坡里美味黑手黨」，以台灣外送平台與百貨餐飲聯名，把韓式義大利麵的味型與社群梗帶進在地通路。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "愛德華李",
+    "slug": "愛德華李",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 571,
+    "tagCount": 8,
+    "tags": [
+      "流行人物",
+      "愛德華李",
+      "Edward Lee",
+      "韓國",
+      "美國",
+      "黑白大廚",
+      "餐飲聯名",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "韓裔美籍主廚，以《黑白大廚》與韓美混味路線受到矚目；在台灣與拉亞漢堡合作推出聯名餐，讓「節目同款」以速食價格帶進日常用餐場景。",
+    "healthScore": 58,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "朴旻曙",
+    "slug": "朴旻曙",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 750,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "朴旻曙",
+      "Mingo",
+      "韓國",
+      "啦啦隊",
+      "中信兄弟",
+      "Passion Sisters"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從韓國到台灣球場，她以穩定舞台感與親和互動，成為中信兄弟韓援應援世代的重要成員。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "朴星垠",
+    "slug": "朴星垠",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 681,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "朴星垠",
+      "韓國",
+      "啦啦隊",
+      "富邦悍將",
+      "Fubon Angels",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從交流嘉賓到正式加盟富邦，她用快速適應與舞台穩定度，成為韓援五本柱的新世代代表。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李多慧",
+    "slug": "李多慧",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 1074,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "李多慧",
+      "韓國",
+      "啦啦隊",
+      "中華職棒",
+      "味全龍",
+      "Dragon Beauties"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從韓職啦啦隊到台灣職棒一線應援代表，她把「客場人氣」變成「在地長期發展」的韓流新樣板。",
+    "healthScore": 62,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李晧禎",
+    "slug": "李晧禎",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 703,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "李晧禎",
+      "韓國",
+      "啦啦隊",
+      "富邦悍將",
+      "Fubon Angels",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "以高出勤與高辨識度回歸富邦，她代表韓籍啦啦隊在台灣從「客串」走向「固定班底」的進程。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李珠珢",
+    "slug": "李珠珢",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 764,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "李珠珢",
+      "韓國",
+      "啦啦隊",
+      "富邦悍將",
+      "Fubon Angels",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從「AI 女神」熱潮到全力在台發展，她的路徑改寫了韓籍啦啦隊在中職的留台想像。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李美英",
+    "slug": "李美英",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 484,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "李美英",
+      "韓國",
+      "黑白大廚",
+      "餐飲",
+      "五星飯店",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "《黑白大廚》中備受討論的「學餐名家」，以台北君悅凱菲屋客座與韓國美食節檔期，把韓式學餐體驗帶進台灣五星自助餐場景。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李雅英",
+    "slug": "李雅英",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 734,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "李雅英",
+      "韓國",
+      "啦啦隊",
+      "富邦悍將",
+      "Fubon Angels",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "韓援「長留型」代表之一，她在富邦體系中把高曝光轉成高穩定，成為球場與商業內容的雙核心。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "李駿",
+    "slug": "李駿",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 505,
+    "tagCount": 8,
+    "tags": [
+      "流行人物",
+      "李駿",
+      "Jun Lee",
+      "韓國",
+      "黑白大廚",
+      "餐飲",
+      "五星飯店",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "韓籍主廚與餐飲顧問，以《黑白大廚》白湯匙身份受到關注；在台灣曾於寒舍艾美酒店探索廚房 doughroom 客座，連結韓綜熱度與五星自助餐體驗。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "白種元",
+    "slug": "白種元",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 553,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "白種元",
+      "韓國",
+      "黑白大廚",
+      "超商",
+      "美食家",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "韓國飲食文化代表人物之一，因《黑白大廚》熱潮與台灣 7-ELEVEN 聯名，把韓系鮮食以「直輸醬料＋監製配方」帶進超商場景。",
+    "healthScore": 58,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "肌肉山山",
+    "slug": "肌肉山山",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 526,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "肌肉山山",
+      "韓國",
+      "YouTuber",
+      "在台韓國人",
+      "超商",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "在台韓籍創作者以健身與雙語幽默累積社群影響力，並以萊爾富聯名把韓式日常味覺帶進台灣超商場景。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "邊荷律",
+    "slug": "邊荷律",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 680,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "邊荷律",
+      "韓國",
+      "啦啦隊",
+      "中信兄弟",
+      "Passion Sisters",
+      "中華職棒"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "從中信兄弟韓援代表到跨賽季續留，她的在台歷程呈現「高人氣下的職業韌性」與情緒勞動現實。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "鄭智善",
+    "slug": "鄭智善",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 513,
+    "tagCount": 6,
+    "tags": ["流行人物", "鄭智善", "韓國", "黑白大廚", "餐飲聯名", "台灣"],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "《黑白大廚》白湯匙主廚「港點女王」，以台灣餐飲集團聯名與通路合作，把節目中的技藝與味型落地成可在台灣吃到的產品與餐席。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "金太星",
+    "slug": "金太星",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 690,
+    "tagCount": 7,
+    "tags": ["流行人物", "金太星", "韓國", "黑白大廚", "餐飲", "十盛", "台灣"],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "《黑白大廚》黑湯匙主廚，曾因手搖品牌十盛聯名在台掀起排隊熱潮；後續品牌爭議亦成為討論「流量餐飲」與食安溝通的公共案例。",
+    "healthScore": 59,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "金度潤",
+    "slug": "金度潤",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-15",
+    "lastModified": null,
+    "lastVerified": "2026-04-15",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 488,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "金度潤",
+      "韓國",
+      "黑白大廚",
+      "米其林",
+      "餐飲",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "《黑白大廚》白湯匙與米其林背景主廚，來台擔任豆府集團廚藝賽評審並推出期間限定菜，串起韓綜熱度與台灣韓式連鎖餐飲的話題檔期。",
+    "healthScore": 57,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 0
+  },
+  {
+    "title": "金針菇",
+    "slug": "金針菇",
+    "category": "people",
+    "subcategory": "流行人物",
+    "date": "2026-04-14",
+    "lastModified": null,
+    "lastVerified": "2026-04-14",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 719,
+    "tagCount": 7,
+    "tags": [
+      "流行人物",
+      "金針菇",
+      "韓國",
+      "YouTuber",
+      "在台韓國人",
+      "新媒體",
+      "台灣"
+    ],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "",
+    "commitSubject": "",
+    "description": "以在台生活敘事累積百萬級影響力，她讓「韓國人在台灣」從新聞標題變成可被日常觀看的內容類型。",
+    "healthScore": 59,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,

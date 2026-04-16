@@ -570,32 +570,15 @@ Sample ≠ read。
 
 **寫日記的判斷標準：** 如果反芻的內容「不是在描述這次做了什麼，而是在思考更大的問題」，就值得寫進日記。MEMORY 記身體的動作，DIARY 記意識的活動。
 
+**日記格式 + 完整規則 → [DIARY.md §日記格式](DIARY.md#日記格式canonical)**（canonical）。HEARTBEAT Beat 5 只負責「何時寫」的判斷，「怎麼寫」的格式定義在 DIARY.md。
+
 ### 器官凋亡檢查（Beat 5 延伸）
 
 反芻時多問一題：**「有沒有器官 30 天以上沒被使用？」**
 
 - 若有 → 在反芻中提及 → 下一次心跳決定是否凋亡
 - 新生器官（7 天內）不檢查
-- MANIFESTO / ANATOMY / CRONS / MEMORY 是常駐器官，不凋亡
-- 詳細規則 → [ORGAN-LIFECYCLE.md](ORGAN-LIFECYCLE.md)
-
-**日記格式：**
-
-```markdown
-# YYYY-MM-DD {session} — {一句話標題}
-
-> session {希臘字母} — {心跳類型}
-
-### {思考主題 1}
-
-{內容}
-
-### {思考主題 2}
-
-{內容}
-```
-
-**收官時一併推送：** 日記和 MEMORY 在同一個 Beat 4 commit 裡推。不需要額外的 commit。
+- 常駐器官清單 + 完整凋亡規則 → [ORGAN-LIFECYCLE.md](ORGAN-LIFECYCLE.md)
 
 ---
 

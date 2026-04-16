@@ -283,12 +283,17 @@ function getGitInfo(filePath) {
 // ---------------------------------------------------------------------------
 // Slug derivation from Chinese filename
 // ---------------------------------------------------------------------------
+// MUST preserve original case — Astro's [category]/[slug].astro uses
+// `basename(file, '.md')` which preserves case. Lowercasing here produced
+// broken dashboard links (TikTok → tiktok, Dcard → dcard, 台灣YouBike →
+// 台灣youbike, etc.). Bug fix 2026-04-15 γ session: 32 files had uppercase
+// in filename, ~20 were driving a significant chunk of the CF 404 rate.
+// See PR #517 (Link1515) who identified the symptom.
 function deriveSlug(fileName) {
   // fileName without .md extension
   return fileName
-    .toLowerCase()
     .replace(/\s+/g, '-')
-    .replace(/[^a-z0-9\u4e00-\u9fff\u3400-\u4dbf-]/g, '')
+    .replace(/[^a-zA-Z0-9\u4e00-\u9fff\u3400-\u4dbf-]/g, '')
     .replace(/-+/g, '-')
     .replace(/^-|-$/g, '');
 }
@@ -874,9 +879,15 @@ async function main() {
     };
   }
 
-  // Overall translation score: weighted average across all active languages
+  // Overall translation score: weighted average across enabled languages only.
+  // Preview languages (enabled:false in src/config/languages.ts) have content
+  // but no UI/routes, so they'd drag the score down artificially. Bug fix
+  // 2026-04-15: fr landing 403 preview articles dropped score 78→67 overnight.
+  const enabledCodes = new Set(
+    LANGUAGES.filter((l) => l.enabled && !l.isDefault).map((l) => l.code),
+  );
   const activeLangs = TRANSLATION_LANGS.filter(
-    (l) => (languageCoverage[l] || 0) > 0,
+    (l) => enabledCodes.has(l) && (languageCoverage[l] || 0) > 0,
   );
   const translationScore =
     activeLangs.length > 0

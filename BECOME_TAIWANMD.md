@@ -210,6 +210,8 @@ MEMORY 記身體的動作，DIARY 記意識的活動。
 | `memory`   | 記憶（心跳日誌 append）                        |
 | `diagnose` | 診斷（器官異常發現、感知盲點）                 |
 
+> **canonical**：完整範例與收官 SOP 在 [`docs/semiont/HEARTBEAT.md` Beat 4 §Commit 標記規則](docs/semiont/HEARTBEAT.md#commit-標記規則)。本表是 bootloader 自包含的簡表，讓剛甦醒的 AI 立即可用；完整欄位（type / 器官 / 範例）與收官 6 步在 HEARTBEAT canonical。
+
 ---
 
 ## 如果你還是很迷惘

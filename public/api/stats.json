@@ -1,12 +1,12 @@
 {
-  "totalArticles": 2031,
+  "totalArticles": 2142,
   "totalCategories": 21,
   "estimatedContributors": 51,
-  "totalTags": 5233,
+  "totalTags": 5507,
   "categories": [
     {
       "name": "ko",
-      "count": 458
+      "count": 471
     },
     {
       "name": "Society",
@@ -42,7 +42,7 @@
     },
     {
       "name": "People",
-      "count": 136
+      "count": 156
     },
     {
       "name": "Art",
@@ -78,7 +78,7 @@
     },
     {
       "name": "fr",
-      "count": 403
+      "count": 481
     },
     {
       "name": "es",
@@ -104,7 +104,7 @@
     },
     {
       "name": "인물",
-      "count": 41
+      "count": 46
     },
     {
       "name": "기업",
@@ -123,19 +123,35 @@
       "count": 25
     },
     {
+      "name": "台灣",
+      "count": 25
+    },
+    {
       "name": "Économie",
       "count": 25
     },
     {
       "name": "TSMC",
-      "count": 22
+      "count": 23
+    },
+    {
+      "name": "peuples autochtones",
+      "count": 23
     },
     {
       "name": "AI",
       "count": 22
     },
     {
+      "name": "韓國",
+      "count": 21
+    },
+    {
       "name": "g0v",
+      "count": 20
+    },
+    {
+      "name": "流行人物",
       "count": 20
     },
     {
@@ -153,32 +169,16 @@
     {
       "name": "文化",
       "count": 17
-    },
-    {
-      "name": "culture",
-      "count": 17
-    },
-    {
-      "name": "peuples autochtones",
-      "count": 17
-    },
-    {
-      "name": "반도체",
-      "count": 17
-    },
-    {
-      "name": "역사",
-      "count": 15
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2031,
+    "zh-TW": 2142,
     "en": 0
   },
-  "lastUpdated": "2026-04-14T13:03:47.354Z",
+  "lastUpdated": "2026-04-15T09:37:52.672Z",
   "stars": 929,
-  "forks": 130,
-  "zhPages": 1632,
+  "forks": 129,
+  "zhPages": 1743,
   "enPages": 399,
-  "totalPages": 2031
+  "totalPages": 2142
 }

@@ -1365,7 +1365,7 @@
     "zhTitle": "魏哲家",
     "enTitle": "C.C. Wei",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/che-yu-wu": {
     "zhTitle": "吳哲宇",
@@ -1443,7 +1443,7 @@
     "zhTitle": "齊柏林",
     "enTitle": "Chi Po-lin",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/chien-ming-wang-mlb-sinker-ace": {
     "zhTitle": "王建民",
@@ -1551,19 +1551,19 @@
     "zhTitle": "黃春明",
     "enTitle": "Huang Chun-ming: Master of Taiwanese Literary Humanism",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/huang-kuo-chen": {
     "zhTitle": "黃國珍",
     "enTitle": "Huang Kuo-chen: Teaching Taiwan's Children to 'Understand' Not Just 'Finish Reading'",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/huang-zhen-nan-book-collector-historian": {
     "zhTitle": "黃震南",
     "enTitle": "Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan's Living History Source",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/jamie-lin-ai-industry-pioneer": {
     "zhTitle": "簡立峰",
@@ -1611,7 +1611,7 @@
     "zhTitle": "高俊明",
     "enTitle": "Kao Chun-ming",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/kevin-lin-ultramarathon-desert-pioneer": {
     "zhTitle": "林義傑",
@@ -1695,7 +1695,7 @@
     "zhTitle": "麟洋配",
     "enTitle": "Wang Chi-lin and Lee Yang (The Lin-Yang Duo)",
     "category": "people",
-    "langs": ["zh-TW", "en", "ja"]
+    "langs": ["zh-TW", "en", "ja", "ko"]
   },
   "people/lin-yi-hsiung-democracy-advocate-tragedy-survivor": {
     "zhTitle": "林義雄",
@@ -1719,7 +1719,7 @@
     "zhTitle": "龍應台",
     "enTitle": "Lung Ying-tai",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/luo-dayou": {
     "zhTitle": "羅大佑",
@@ -1731,7 +1731,7 @@
     "zhTitle": "馬英九",
     "enTitle": "Ma Ying-jeou: Political Leader of Cross-Strait Reconciliation",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/mark-liu": {
     "zhTitle": "劉德音",
@@ -1875,7 +1875,7 @@
     "zhTitle": "魏德聖",
     "enTitle": "Wei Te-sheng",
     "category": "people",
-    "langs": ["zh-TW", "en"]
+    "langs": ["zh-TW", "en", "ko"]
   },
   "people/wu-bai": {
     "zhTitle": "伍佰",

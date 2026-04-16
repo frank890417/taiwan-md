@@ -1,7 +1,181 @@
 {
-  "generatedAt": "2026-04-14T13:03:48.733Z",
+  "generatedAt": "2026-04-15T09:37:53.975Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "91ea0322b4ba413529b7ea6d626cd1663027d0bd",
+      "date": "2026-04-15T17:36:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #532 (batch cherry-pick): 507 files via API + sync"
+    },
+    {
+      "hash": "104df62a32f1b10a25e3ec4bd82ae1cc443604c3",
+      "date": "2026-04-15T17:36:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #531 (batch cherry-pick): 500 files via API + sync"
+    },
+    {
+      "hash": "5b013ad976b6233f1f0769fb8c8870873855de4b",
+      "date": "2026-04-15T17:35:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #530 (batch cherry-pick): 493 files via API + sync"
+    },
+    {
+      "hash": "6d4cf7e79e349217596dd677e979d65c5a1cb7b3",
+      "date": "2026-04-15T17:35:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #529 (batch cherry-pick): 491 files via API + sync"
+    },
+    {
+      "hash": "b7a37d31ea29be93c9f14d6381baa0fb5f3c94cb",
+      "date": "2026-04-15T17:35:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #528 (batch cherry-pick): 489 files via API + sync"
+    },
+    {
+      "hash": "2caae068ffb647fa83e1cbe196ea3346f9e2be84",
+      "date": "2026-04-15T17:34:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #527 (batch cherry-pick): 488 files via API + sync"
+    },
+    {
+      "hash": "12bfe606261d0964a60dce60d71c210b433ead6c",
+      "date": "2026-04-15T17:34:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #526 (batch cherry-pick): 481 files via API + sync"
+    },
+    {
+      "hash": "c6fb2f9a7afda8e50e0b8eed28e0acd62351413a",
+      "date": "2026-04-15T17:34:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #525 (batch cherry-pick): 473 files via API + sync"
+    },
+    {
+      "hash": "86cd66b2927622208ead9b2bf664fbc027f39460",
+      "date": "2026-04-15T17:33:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #524 (batch cherry-pick): 470 files via API + sync"
+    },
+    {
+      "hash": "8d9b224caa2f513affedd39a3cf6cbb5b3cd0fbd",
+      "date": "2026-04-15T17:33:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #523 (batch cherry-pick): 462 files via API + sync"
+    },
+    {
+      "hash": "3af5ffec7f6c04498590d2bb6b789a45718871ff",
+      "date": "2026-04-15T17:33:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #522 (batch cherry-pick): 454 files via API + sync"
+    },
+    {
+      "hash": "07113c7580bc98b53ea255e9dd310d3f3f10c088",
+      "date": "2026-04-15T17:32:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #521 (batch cherry-pick): 450 files via API + sync"
+    },
+    {
+      "hash": "b8c50a8cbc92be1ada7768c1b0d6334283755391",
+      "date": "2026-04-15T17:32:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #520 (batch cherry-pick): 5 files via API + sync"
+    },
+    {
+      "hash": "ab4b544bc4cf795df89b0db9874bb7eceda4b621",
+      "date": "2026-04-15T17:32:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #519 (batch cherry-pick): 8 files via API + sync"
+    },
+    {
+      "hash": "48aa97cd8c08e0f1fece4d338418f44e2a1bcbd9",
+      "date": "2026-04-15T17:32:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #518 (batch cherry-pick): 437 files via API + sync"
+    },
+    {
+      "hash": "967e77ab3cd3791a703b86eba1a371feb3bb84e8",
+      "date": "2026-04-15T17:31:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge PR #516 (batch cherry-pick): 21 files via API + sync"
+    },
+    {
+      "hash": "10cdd5b156e758e4c129d4e7a2836033acaa8e91",
+      "date": "2026-04-15T17:21:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: qmd 記憶撈取機制評估 — 規劃 + Phase 0 原型驗證"
+    },
+    {
+      "hash": "dab95477b2921077b091c85de3b50adde8fab394",
+      "date": "2026-04-15T12:47:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 認知層 dedup 第二階段 — 首次 apoptosis + 觀察者表指標化"
+    },
+    {
+      "hash": "38c0551235b89c155d49824e30a91852236be223",
+      "date": "2026-04-15T12:40:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: MEMORY §神經迴路 line 208 指標化（D7）"
+    },
+    {
+      "hash": "e47adb6aa113bc7598a08a231fd1c68b81f33caa",
+      "date": "2026-04-15T12:37:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 認知層 dedup 第一階段（Steps 1-4）— 清楚的重複消除"
+    },
+    {
+      "hash": "449c5bf87f35ba35bd20e3f6fc3f6697ef466220",
+      "date": "2026-04-15T12:23:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: DIARY β + DNA 反射清單結構化重構（#23-26 新增）"
+    },
+    {
+      "hash": "35bcefd2dc7bb94dbb251beddb205f62109d1e39",
+      "date": "2026-04-15T10:08:25+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: β session (2026-04-15) — 完整四拍半心跳 + 3 個系統 bug 修復"
+    },
+    {
+      "hash": "524daae0daae07a41f4d154d594581c1093dd133",
+      "date": "2026-04-15T10:07:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: dashboard 感知數據刷新 + sync.sh 投影（β Beat 1）"
+    },
+    {
+      "hash": "f260d03b2fcd4f1f93f07738c6b2b4423fb4212a",
+      "date": "2026-04-15T10:07:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 3 個「工具在說謊」系統性 bug 同時修復"
+    },
+    {
+      "hash": "f379cc6335d9fcb809548c50aeffe3b432324d16",
+      "date": "2026-04-15T00:54:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: α session (2026-04-15) — 🌋 李洋孢子 8h 180K 史上最強確認 + 曲線第三次修正"
+    },
+    {
+      "hash": "fe357c4cb7be4946646e2becaea5d9447cf930fd",
+      "date": "2026-04-14T22:50:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: ν session — 李洋孢子 6h 130K + μ 二次加速假設被 S 曲線拐點打臉"
+    },
+    {
+      "hash": "77d243cd05ff4405c356ff8059a52e24395074ee",
+      "date": "2026-04-14T22:01:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: v1.3.0 認知層同步 — CONSCIOUSNESS 里程碑 + MEMORY 索引 + HEARTBEAT Beat 0.5 EXP 查驗"
+    },
+    {
+      "hash": "6f12f8e3e2cf9c7ef662dcfddffc974a6da1ad20",
+      "date": "2026-04-14T21:39:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diagnose: μ Phase E — EXP-2026-04-11-A 首次可證偽實驗命中 + Beat 1 漏看補正"
+    },
+    {
+      "hash": "f1c1d41e49ee3b799433fc60c99d25687007b6ed",
+      "date": "2026-04-14T21:13:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: μ session — 心跳 + 李洋孢子 4h 大爆發 85K + 二次加速曲線發現"
+    },
     {
       "hash": "b197b122884363a0d6bcf3610cdf13b8b2ca5f05",
       "date": "2026-04-14T19:34:20+08:00",
