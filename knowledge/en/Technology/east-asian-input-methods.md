@@ -19,6 +19,7 @@ readingTime: 15
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/東亞文字輸入法.md'
 ---
 
 # Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution

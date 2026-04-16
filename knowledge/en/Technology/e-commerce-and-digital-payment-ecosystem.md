@@ -17,6 +17,7 @@ category: 'Technology'
 readingTime: 13
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/電子商務與數位支付生態系.md'
 ---
 
 # Taiwan's E-commerce and Digital Payment Ecosystem: From PChome to Shopee's Digital Commerce Evolution

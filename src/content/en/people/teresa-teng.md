@@ -15,6 +15,7 @@ subcategory: 'Music'
 author: 'Taiwan.md Contributors'
 readingTime: 16
 featured: true
+translatedFrom: 'People/鄧麗君.md'
 ---
 
 # Teresa Teng — The Voice That United Asia

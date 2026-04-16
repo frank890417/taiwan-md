@@ -2,14 +2,24 @@
 title: "PTT Bulletin Board System: Taiwan's Most Stubborn Public Square"
 description: "A BBS built in a dorm room in 1995 still operates with pure text interfaces 30 years later, yet has profoundly shaped Taiwan's internet language, political discourse, and collective memory"
 date: 2026-03-21
-tags: ['PTT', 'BBS', 'internet culture', 'netizen culture', 'digital democracy', 'social media']
+tags:
+  [
+    'PTT',
+    'BBS',
+    'internet culture',
+    'netizen culture',
+    'digital democracy',
+    'social media',
+  ]
 author: 'p3nchan'
 readingTime: 8
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Technology/PTT批踢踢.md'
 ---
+
 # PTT Bulletin Board System: Taiwan's Most Stubborn Public Square
 
 ## 30-Second Overview
@@ -106,6 +116,6 @@ Du Yijin left Microsoft in 2017 to return to Taiwan and establish [Taiwan AI Lab
 - [PTT Bulletin Board System — Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2)
 - [PTT Bulletin Board System — Wikipedia (English)](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System)
 - [PTT's Establishment — PTT Encyclopedia](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B)
-- [Gossiping Board — PTT Encyclopedia](https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF))
+- [Gossiping Board — PTT Encyclopedia](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>)
 - [PTT refuses new users after fake news incident — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586)
 - [PTT's Legendary "Villager Culture" — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7)

@@ -1,20 +1,28 @@
 ---
 title: 'Taiwanese New Immigrant Culinary Fusion'
-description: 'When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese pho encounters Taiwanese braised delicacies, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not only hometown cuisine but also new possibilities for enriching Taiwan''s food culture.'
+description: "When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese pho encounters Taiwanese braised delicacies, when Indonesian spices embrace local ingredients, a cross-border culinary revolution is quietly happening in Taiwan. New immigrants bring not only hometown cuisine but also new possibilities for enriching Taiwan's food culture."
 date: 2026-03-20
-tags: [new immigrant cuisine, Southeast Asian cuisine, cultural fusion, diverse dining, immigrant culture]
+tags:
+  [
+    new immigrant cuisine,
+    Southeast Asian cuisine,
+    cultural fusion,
+    diverse dining,
+    immigrant culture,
+  ]
 author: 'Taiwan.md Editorial Team'
 readingTime: 10
 featured: true
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Food/台灣新住民美食融合.md'
 ---
 
 # Taiwanese New Immigrant Culinary Fusion
 
 > "Hometown flavors never disappear—they bloom into different flowers on new soil."
-> 
+>
 > —— Nguyen Thi Van (Taiwanese-Vietnamese housewife, 20 years in Taiwan)
 
 In the underground streets of Taipei Main Station, an inconspicuous small shop emanates aromas of lemongrass and coconut milk. Shop owner A-Jia, a new immigrant from Indonesia, uses Taiwan's local ingredients to create authentic Indonesian curry. "Taiwan's cabbage is sweeter than Indonesia's," she says, "so my curry tastes milder, which Taiwanese people prefer."
@@ -132,16 +140,19 @@ Filipino cuisine development in Taiwan is relatively niche but maintains unique 
 The first challenge new immigrant chefs face in Taiwan is ingredient sourcing. Many hometown spices and vegetables are not easily available in Taiwan or are expensive. Therefore, they display amazing creativity, using Taiwan's local ingredients to create new flavor combinations.
 
 **Spice substitutions**:
+
 - Use Taiwan's pepper powder to replace some Southeast Asia-specific spices
 - Use Taiwan's cilantro to replace Vietnamese cilantro (slightly different taste)
 - Use Taiwan's chili to replace Thai bird's eye chili
 
 **Vegetable substitutions**:
+
 - Use Taiwan's lettuce to replace Vietnamese lettuce
 - Use Taiwan's Chinese chives to replace Thai chive flowers
 - Use Taiwan's eggplant to replace Thai round eggplant
 
 **Meat adjustments**:
+
 - Use Taiwan's high-quality pork and chicken
 - Adjust meat cut choices according to Taiwanese preferences
 
@@ -332,7 +343,6 @@ In this globalized era, the story of Taiwan's new immigrant cuisine provides suc
 ---
 
 ## Further Reading
-
 
 ## References
 

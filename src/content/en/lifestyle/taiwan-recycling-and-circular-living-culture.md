@@ -2,12 +2,22 @@
 title: 'Chasing the Garbage Truck: How Taiwan Went from Trash Crisis to Recycling Marvel'
 description: 'In the 1990s, Taiwan had 400 overflowing landfills and was dubbed "Garbage Island." Today, its recycling rate tops most of Europe—and the whole system runs on Beethoven.'
 date: 2026-03-23
-tags: ['recycling', 'waste management', 'garbage truck music', 'Für Elise', '4-in-1 recycling', 'PAYT', 'environmental policy']
+tags:
+  [
+    'recycling',
+    'waste management',
+    'garbage truck music',
+    'Für Elise',
+    '4-in-1 recycling',
+    'PAYT',
+    'environmental policy',
+  ]
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: true
+translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
 ---
 
 # Chasing the Garbage Truck: How Taiwan Went from Trash Crisis to Recycling Marvel
@@ -38,9 +48,9 @@ The new policy was simple and radical: eliminate every curbside bin and collecti
 
 But residents needed a signal that the truck was coming.
 
-The most popular origin story: Hsu Tzu-chiu, then head of the Taiwan Provincial Government's Department of Health, came home one evening and heard his daughter practicing piano—Beethoven's *Für Elise* and Badarzewska-Baranowska's *A Maiden's Prayer*. He liked the melodies and adopted them. Another theory: garbage trucks imported from Japan in the 1960s came with built-in music boxes playing *A Maiden's Prayer*, and the tradition simply stuck.
+The most popular origin story: Hsu Tzu-chiu, then head of the Taiwan Provincial Government's Department of Health, came home one evening and heard his daughter practicing piano—Beethoven's _Für Elise_ and Badarzewska-Baranowska's _A Maiden's Prayer_. He liked the melodies and adopted them. Another theory: garbage trucks imported from Japan in the 1960s came with built-in music boxes playing _A Maiden's Prayer_, and the tradition simply stuck.
 
-Either way, the result is the same: 23 million Taiwanese people now associate Beethoven's *Für Elise* with "grab the trash and run downstairs." Foreign visitors often say the most surprising thing about Taiwan isn't the night markets or the temples—it's watching an entire street of people sprint toward a yellow truck blasting classical music.
+Either way, the result is the same: 23 million Taiwanese people now associate Beethoven's _Für Elise_ with "grab the trash and run downstairs." Foreign visitors often say the most surprising thing about Taiwan isn't the night markets or the temples—it's watching an entire street of people sprint toward a yellow truck blasting classical music.
 
 📝 Curator's note: There is probably no other place on Earth where classical music fans and sanitation workers share such a direct connection.
 
@@ -74,13 +84,13 @@ In 1997, the Environmental Protection Administration launched the "4-in-1 Recycl
 
 ## The Numbers
 
-| Metric | 1990s | 2024 |
-|--------|-------|------|
-| Recycling rate | ~0% | **55%** (household + commercial) |
-| Industrial waste recycling | — | **77%** |
-| Daily waste per capita | 1.14 kg | **< 0.4 kg** |
-| Plastic recycling rate | — | **73%** |
-| EPI waste recovery score | — | **96.7** (1st in Asia) |
+| Metric                     | 1990s   | 2024                             |
+| -------------------------- | ------- | -------------------------------- |
+| Recycling rate             | ~0%     | **55%** (household + commercial) |
+| Industrial waste recycling | —       | **77%**                          |
+| Daily waste per capita     | 1.14 kg | **< 0.4 kg**                     |
+| Plastic recycling rate     | —       | **73%**                          |
+| EPI waste recovery score   | —       | **96.7** (1st in Asia)           |
 
 For comparison: Japan scores 94.4 on the EPI, South Korea 82. Taiwan generates half as much waste per person as the United States.
 

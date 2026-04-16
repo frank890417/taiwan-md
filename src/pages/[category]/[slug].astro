@@ -35,7 +35,7 @@ function buildGitCache() {
   _gitCache = new Map();
   try {
     const logOutput = execSync(
-      `git log -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/"`,
+      `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/"`,
       { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
     );
     let currentHash = '';

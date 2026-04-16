@@ -4,11 +4,18 @@ description: 'Why did a mechanical engineering graduate become the most radical 
 date: 2026-03-23
 category: 'People'
 subcategory: 'Academia and Education'
-tags: ['Linguist', 'Taiwanese Language Movement', 'Mother Tongue Education', 'Vietnam Studies']
+tags:
+  [
+    'Linguist',
+    'Taiwanese Language Movement',
+    'Mother Tongue Education',
+    'Vietnam Studies',
+  ]
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+translatedFrom: 'People/蔣為文.md'
 ---
 
 > **30-Second Overview:** Chiung Wi-vun, the most radical advocate of the Taiwanese language movement, sparked island-wide controversy in 2011 when he held up a protest banner at the Taiwan Literature Museum declaring "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" This Tamkang mechanical engineering graduate later became one of Taiwan's few Vietnamese language experts and now serves as chair of NCKU's Department of Taiwanese Literature. He has spent 30 years proving that language is not just a tool, but the core battlefield of national identity.
@@ -17,23 +24,23 @@ A mechanical engineering student at Tamkang University established a "Taiwanese 
 
 ## From Machinery to Language: An Unexpected Turn
 
-Born in Gangshan, Kaohsiung in 1971, Chiung Wi-vun initially followed a typical engineering path. But during his studies at Tamkang University's Department of Mechanical Engineering, he made a life-changing decision: founding the Taiwanese Language Society and obtaining a *Pe̍h-ōe-jī* (Romanized Taiwanese) textbook from the Presbyterian Church in Taiwan.
+Born in Gangshan, Kaohsiung in 1971, Chiung Wi-vun initially followed a typical engineering path. But during his studies at Tamkang University's Department of Mechanical Engineering, he made a life-changing decision: founding the Taiwanese Language Society and obtaining a _Pe̍h-ōe-jī_ (Romanized Taiwanese) textbook from the Presbyterian Church in Taiwan.
 
-This was Taiwan in the early 1990s, when indigenous consciousness was just beginning to emerge, and written Taiwanese remained an extremely marginal cultural movement. Chiung began studying the seemingly simple yet complex question of "how to write Taiwanese." In 1996, he made his literary debut with the Taiwanese-language collection *Hai-ông* (Sea Whale), when he was just 25 years old.
+This was Taiwan in the early 1990s, when indigenous consciousness was just beginning to emerge, and written Taiwanese remained an extremely marginal cultural movement. Chiung began studying the seemingly simple yet complex question of "how to write Taiwanese." In 1996, he made his literary debut with the Taiwanese-language collection _Hai-ông_ (Sea Whale), when he was just 25 years old.
 
 > **📝 Curator's Note**
 > Chiung's shift from mechanical engineering to linguistics wasn't accidental. The 1990s marked Taiwan's post-martial law indigenous cultural revival, when many young people began reconsidering the question "Who am I?" Chiung's choice to approach this through language and writing suggests he understood that controlling language means controlling discourse power.
 
 ## 2011: The Banner That Changed Taiwan's Literary World
 
-May 24, 2011, at the Taiwan Literature Museum. Writer Huang Chun-ming was delivering a lecture on "Deliberations on Taiwanese Language Writing and Education" when Chiung Wi-vun in the audience suddenly raised a large banner: "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" (台湾作家不用台湾语文，却用中国语創作，可恥！) Below it, in Taiwanese *Pe̍h-ōe-jī*: "Tâi-oân chok-ka ài iōng Tâi-oân-gí chhòng-chok" (Taiwanese writers should create in Taiwanese language).
+May 24, 2011, at the Taiwan Literature Museum. Writer Huang Chun-ming was delivering a lecture on "Deliberations on Taiwanese Language Writing and Education" when Chiung Wi-vun in the audience suddenly raised a large banner: "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" (台湾作家不用台湾语文，却用中国语創作，可恥！) Below it, in Taiwanese _Pe̍h-ōe-jī_: "Tâi-oân chok-ka ài iōng Tâi-oân-gí chhòng-chok" (Taiwanese writers should create in Taiwanese language).
 
 Huang Chun-ming flew into a rage, removing his shirt and charging down from the podium to verbally assault Chiung, even using profanity to call him a "howling beast." This confrontation became known as the "524 Taiwan Literature Incident," one of the most controversial public debates in Taiwan's literary history.
 
 The legal aftermath was equally dramatic: Chiung sued Huang for public insult, and in 2012 Tainan District Court found Huang guilty, imposing a fine of NT$10,000 with a two-year suspended sentence. Though Tainan High Court later changed the verdict to exemption from punishment, one phrase in the judgment was telling: "Huang is an important literary author who was provoked, and the insult was minor."
 
 > **⚠️ Controversial Perspectives**
-> Chiung's protest method triggered polarized reactions. Supporters saw him as courageously challenging the hegemonic position of Chinese-language literature; critics considered his approach too radical, undermining civilized academic discourse. The Taiwan Literature Pen Association even published a book *The Truth About Chiung Wi-vun's Protest Against Huang Chun-ming* in his defense.
+> Chiung's protest method triggered polarized reactions. Supporters saw him as courageously challenging the hegemonic position of Chinese-language literature; critics considered his approach too radical, undermining civilized academic discourse. The Taiwan Literature Pen Association even published a book _The Truth About Chiung Wi-vun's Protest Against Huang Chun-ming_ in his defense.
 
 ## Theoretical Architect of the De-Sinicization Movement
 
@@ -41,7 +48,7 @@ Chiung's radical stance wasn't an emotional reaction but built on solid academic
 
 His core argument: Within the Chinese character cultural sphere, using Chinese characters to write indigenous languages is essentially still cultural colonialism. True linguistic independence must be based on a Romanization writing system. This theoretical framework made him the most radical wing of the Taiwanese language movement—not just speaking Taiwanese, but writing it in Roman letters.
 
-Currently serving as president of the Taiwan Romanization Association, he advocates for the *Pe̍h-ōe-jī* writing system. In his view, *Pe̍h-ōe-jī* isn't just a phonetic tool, but the legitimate writing form for Taiwanese literature.
+Currently serving as president of the Taiwan Romanization Association, he advocates for the _Pe̍h-ōe-jī_ writing system. In his view, _Pe̍h-ōe-jī_ isn't just a phonetic tool, but the legitimate writing form for Taiwanese literature.
 
 ## Unexpected Expertise in Taiwan-Vietnam Studies
 
@@ -54,7 +61,7 @@ In 2011, Chiung received the "Outstanding Medal for Vietnam Studies" from the Vi
 
 ## Academic Achievements and Social Impact
 
-Chiung's academic output is remarkable, from 1996's *Hai-ông* to 2024's *Tang Mountain Crossing Vietnam: Identity Transformation and Localization Studies of Vietnamese Minh Hương People*, he has published over 30 monographs covering Taiwanese literature, Vietnam studies, and language certification.
+Chiung's academic output is remarkable, from 1996's _Hai-ông_ to 2024's _Tang Mountain Crossing Vietnam: Identity Transformation and Localization Studies of Vietnamese Minh Hương People_, he has published over 30 monographs covering Taiwanese literature, Vietnam studies, and language certification.
 
 He's also chief developer of the "National Taiwanese Language Proficiency Test," a system attempting to establish standardized assessment mechanisms for Taiwanese language ability. Under his leadership, NCKU's Taiwan Language Testing Center has become one of Taiwan's most important Taiwanese language research institutions.
 

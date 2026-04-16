@@ -5,6 +5,7 @@ tags: [Architecture, Culture, History, Modernism, Sustainability]
 date: 2026-03-20
 featured: true
 lastVerified: 2026-03-20
+translatedFrom: 'Art/台灣建築.md'
 ---
 
 # Taiwanese Architecture: A Tapestry of Layered Cultures

@@ -17,6 +17,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 18
 featured: false
+translatedFrom: 'Art/台灣當代雕塑發展.md'
 ---
 
 # Development of Contemporary Taiwanese Sculpture

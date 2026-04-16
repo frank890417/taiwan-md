@@ -1,8 +1,18 @@
 ---
-title: "Tai Tzu-ying"
+title: 'Tai Tzu-ying'
 category: People
-tags: [person, Tai Tzu-ying, badminton, mundo número uno, Juegos Olímpicos, atleta, Taiwan]
+tags:
+  [
+    person,
+    Tai Tzu-ying,
+    badminton,
+    mundo número uno,
+    Juegos Olímpicos,
+    atleta,
+    Taiwan,
+  ]
 date: 2026-03-17
+translatedFrom: 'People/戴資穎.md'
 ---
 
 # Tai Tzu-ying

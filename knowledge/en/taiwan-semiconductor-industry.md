@@ -10,6 +10,7 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Technology/半導體產業.md'
 ---
 
 # Taiwan Semiconductor Industry
@@ -41,6 +42,7 @@ Chang's logic was simple: the semiconductor industry was becoming increasingly c
 ### The Ingenious International Partnership
 
 TSMC's initial shareholding structure was ingenious:
+
 - Government investment: 48.3% (ensuring national strategic position)
 - Private investment: 24.2% (Taiwan capital participation)
 - Netherlands Philips: 27.5% (bringing international technology and customers)
@@ -52,6 +54,7 @@ Philips' participation was crucial. At the time, the semiconductor industry was 
 ### Industrial Division Revolution
 
 TSMC's foundry model triggered massive specialization in the semiconductor industry:
+
 - **IC design companies** focus on chip design (Qualcomm, NVIDIA, MediaTek)
 - **Foundries** focus on chip manufacturing (TSMC, UMC, GlobalFoundries)
 - **Assembly and test** handle back-end processes (ASE Group, SPIL)
@@ -63,6 +66,7 @@ This model allowed more companies to enter the semiconductor industry. Previousl
 The foundry model's core is trust. Customers must believe TSMC won't steal their designs, leak trade secrets, or compete with them.
 
 TSMC established strict "trust rules":
+
 1. **Technology neutrality**: Never design chips in-house
 2. **Customer equality**: All customers receive the same technology and service
 3. **Confidentiality agreements**: Highest-level information security protection
@@ -77,6 +81,7 @@ These rules have been enforced for nearly 40 years without exception.
 In 1965, Intel co-founder Gordon Moore proposed "Moore's Law": the number of transistors on a chip doubles every 18 months. This law has driven the semiconductor industry's development for over 50 years and became the track for TSMC's competition with global rivals.
 
 Starting from 3-micrometer process in 1987, TSMC caught up step by step:
+
 - **1990s**: 1.2μm, 0.8μm, 0.6μm
 - **2000s**: 0.35μm, 0.25μm, 0.18μm, 0.13μm, 90nm
 - **2010s**: 65nm, 40nm, 28nm, 20nm, 16nm, 10nm, 7nm
@@ -93,6 +98,7 @@ What makes competitors even more desperate: TSMC is already developing 1.6nm (A1
 ### The Cost of Technology Leadership
 
 Advanced process R&D costs show exponential growth:
+
 - 28nm process: $1 billion
 - 7nm process: $3 billion
 - 3nm process: $10 billion
@@ -105,6 +111,7 @@ These astronomical investments mean fewer and fewer companies can keep up with t
 ### The Silicon Shield Effect
 
 TSMC's technological advantage has unexpectedly become Taiwan's "silicon shield" in geopolitics. Tech giants worldwide depend on TSMC's advanced processes:
+
 - **Apple**: iPhone, iPad, Mac core chips
 - **NVIDIA**: AI training and inference chips
 - **AMD**: CPU and GPU chips
@@ -149,6 +156,7 @@ NVIDIA's H100 chips use CoWoS technology to package GPU chips with high-speed me
 ### Samsung's Korean Offensive
 
 South Korea's Samsung is TSMC's main competitor, adopting a completely different strategy:
+
 - **Vertical integration**: From memory, chip foundry to smartphone manufacturing
 - **Massive investment**: $230 billion investment from 2022-2026
 - **Government support**: Korea's "K-Semiconductor Belt" plan provides full support
@@ -191,6 +199,7 @@ TSMC's research on "angstrom-level" processes (sub-1nm) faces exponentially incr
 ### The Double-Edged Sword of Geopolitics
 
 TSMC's strategic position is both protection and risk. The U.S.-China tech war puts Taiwan in the middle, requiring balance between two superpowers:
+
 - **U.S. pressure**: Requiring TSMC to comply with technology sanctions on China
 - **Chinese market**: Still an important revenue source for TSMC
 - **Supply chain risk**: Over-concentration of production in Taiwan
@@ -204,6 +213,7 @@ The world is competing for semiconductor talent. The U.S. CHIPS Act, EU Chips Ac
 ### The New Era of Heterogeneous Integration
 
 When transistor shrinking becomes impossible, the semiconductor industry turns to "heterogeneous integration"—integrating chips with different functions in the same package:
+
 - **Processor chips**: Handle computation
 - **Memory chips**: Handle storage
 - **Sensor chips**: Handle sensing

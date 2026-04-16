@@ -15,6 +15,7 @@ tags:
 author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
+translatedFrom: 'Society/台灣流浪動物文化.md'
 ---
 
 # Stray Animal Culture in Taiwan

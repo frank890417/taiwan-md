@@ -3,6 +3,7 @@ title: 'People'
 date: 2026-03-23
 tags: [people, Hub]
 description: "Taiwan has nurtured many outstanding individuals who shine on the international stage — from Oscar-winning director Ang Lee and semiconductor pioneer Morris Chang to Cloud Gate Dance Theatre founder Lin Hwai-min and first female president Tsai Ing-wen. These Taiwan luminaries have not only created outstanding achievements in their fields but have shown the world Taiwan's spirit of innovation, cultural depth, and resilient will."
+translatedFrom: 'People/_People Hub.md'
 ---
 
 # Taiwan People 👥

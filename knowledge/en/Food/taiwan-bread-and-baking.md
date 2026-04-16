@@ -8,6 +8,7 @@ readingTime: 8
 featured: false
 category: 'Food'
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣麵包與烘焙.md'
 ---
 
 # Taiwan Bread and Baking

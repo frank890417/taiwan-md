@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
+translatedFrom: 'People/林青霞.md'
 ---
 
 # Brigitte Lin: From Romance Icon to Martial Arts Legend

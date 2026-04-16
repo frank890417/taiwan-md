@@ -12,6 +12,7 @@ readingTime: 12
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg/960px-%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 imageAlt: '客家の擂茶'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/客家飲食文化.md'
 ---
 
 # 客家の食文化
@@ -110,6 +111,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 ---
 
 ## 関連記事
+
 - [台灣發酵食品與醃製文化](/food/台灣發酵食品與醃製文化)：台湾における発酵食品と漬け込み文化
 - [茶文化](/food/茶文化)：台湾茶文化の展開
 - [台灣小吃](/food/台灣小吃)：台湾の多彩な小吃文化

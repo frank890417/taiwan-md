@@ -1,14 +1,22 @@
 ---
-title: "Taiwanese Noodle Culture"
-description: "From danzai noodles to beef noodle soup, from yangchun noodles to dry mixed noodles, Taiwanese noodle culture blends Hokkien, Mainland Chinese, and innovative elements to form a unique noodle culinary tradition"
+title: 'Taiwanese Noodle Culture'
+description: 'From danzai noodles to beef noodle soup, from yangchun noodles to dry mixed noodles, Taiwanese noodle culture blends Hokkien, Mainland Chinese, and innovative elements to form a unique noodle culinary tradition'
 date: 2026-03-20
-tags: ["noodles", "food culture", "taiwanese cuisine", "mainland chinese cuisine", "hokkien cuisine"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'noodles',
+    'food culture',
+    'taiwanese cuisine',
+    'mainland chinese cuisine',
+    'hokkien cuisine',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 8
-category: "Food"
+category: 'Food'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Food/台灣麵食文化.md'
 ---
 
 # Taiwanese Noodle Culture
@@ -65,6 +73,6 @@ Starting from a simple noodle strand, Taiwanese people have created a rich and d
 
 ## References
 
-- Chen, M. (2018). *The Evolution of Taiwanese Noodle Culture*. Taipei: Food Culture Press.
-- Taiwanese Culinary Heritage Foundation. (2020). *Traditional Noodle Dishes of Taiwan*. Tainan: Heritage Publications.
-- Wu, L. (2022). "From Danzai to Beef Noodles: A Cultural History." *Journal of Taiwanese Food Studies*, 15(3), 45-67.
+- Chen, M. (2018). _The Evolution of Taiwanese Noodle Culture_. Taipei: Food Culture Press.
+- Taiwanese Culinary Heritage Foundation. (2020). _Traditional Noodle Dishes of Taiwan_. Tainan: Heritage Publications.
+- Wu, L. (2022). "From Danzai to Beef Noodles: A Cultural History." _Journal of Taiwanese Food Studies_, 15(3), 45-67.

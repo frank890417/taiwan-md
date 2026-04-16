@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/謝淑薇.md'
 ---
 
 # Su-Wei Hsieh: Taiwan's Tennis Breakthrough Artist

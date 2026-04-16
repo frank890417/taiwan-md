@@ -1,5 +1,5 @@
 ---
-title: "Evergreen Marine"
+title: 'Evergreen Marine'
 description: "A 15-year-old secondhand freighter, a carpenter's son, and the shipping empire that once blocked global trade for six days"
 date: 2026-03-24
 tags: [Economy, Business, Shipping, Logistics, International Trade]
@@ -8,6 +8,7 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：長榮海運.md'
 ---
 
 > **30-Second Overview**
@@ -18,7 +19,7 @@ lastHumanReview: false
 
 Chang Yung-fa was born in 1927 in Su'ao, a harbor town on Taiwan's northeastern coast. His father was a ship carpenter who spent most of his life at sea. In 1945, when Chang was eighteen, his father died aboard a vessel, leaving a widow with seven children.
 
-Rather than flee the ocean that took his father, Chang walked deeper into it. He started as a cabin boy at a Japanese shipping firm, studied on his own, and worked his way up to captain. European and American cargo owners came to know him by reputation: "Y.F. Chang — once he decides something, that's how it is. He doesn't change." (Quoted in *CommonWealth Magazine*, "From a Carpenter's Son to the World's Container Shipping King")
+Rather than flee the ocean that took his father, Chang walked deeper into it. He started as a cabin boy at a Japanese shipping firm, studied on his own, and worked his way up to captain. European and American cargo owners came to know him by reputation: "Y.F. Chang — once he decides something, that's how it is. He doesn't change." (Quoted in _CommonWealth Magazine_, "From a Carpenter's Son to the World's Container Shipping King")
 
 Two partnerships failed. On September 1, 1968, at age 41, Chang bought a 15-year-old general cargo vessel from Japan and registered Evergreen Marine Corporation. The company's address said Taipei. Its real office was the dock.
 
@@ -28,7 +29,7 @@ Two partnerships failed. On September 1, 1968, at age 41, Chang bought a 15-year
 
 In the 1970s, global shipping was undergoing a revolution: containerization. Loose cargo went into standardized steel boxes. Dockhands were replaced by cranes. Ships grew larger. Most Asian carriers were still watching from the sidelines. Chang had already moved.
 
-He spent two years and one million U.S. dollars on market research, securing financing from Japan's Marubeni Corporation (reported in *CommonWealth Magazine*). In 1975, Evergreen launched Taiwan's first fully containerized regular service between East Asia and the U.S. East Coast.
+He spent two years and one million U.S. dollars on market research, securing financing from Japan's Marubeni Corporation (reported in _CommonWealth Magazine_). In 1975, Evergreen launched Taiwan's first fully containerized regular service between East Asia and the U.S. East Coast.
 
 The next decade was a blitz. In 1984, Chang commissioned 24 G-type container ships and opened an unprecedented round-the-world eastbound and westbound service — crossing the Atlantic, a lane no Asian carrier had entered.
 
@@ -36,14 +37,14 @@ The next decade was a blitz. In 1984, Chang commissioned 24 G-type container shi
 
 > **Key Figures**
 >
-> | Metric | Data |
-> |--------|------|
-> | Founding capital | One 15-year-old secondhand ship (1968) |
-> | Reached world #1 | 1985, 17 years after founding |
-> | Current global rank | 7th by TEU capacity (2025) |
-> | Fleet capacity | 1.92 million TEU (early 2025) |
-> | Annual revenue | ~$13 billion (TTM, March 2026) |
-> | Orderbook | ~850,000 TEU, 44% of existing fleet |
+> | Metric              | Data                                   |
+> | ------------------- | -------------------------------------- |
+> | Founding capital    | One 15-year-old secondhand ship (1968) |
+> | Reached world #1    | 1985, 17 years after founding          |
+> | Current global rank | 7th by TEU capacity (2025)             |
+> | Fleet capacity      | 1.92 million TEU (early 2025)          |
+> | Annual revenue      | ~$13 billion (TTM, March 2026)         |
+> | Orderbook           | ~850,000 TEU, 44% of existing fleet    |
 
 ## Six Days That Blocked the World
 
@@ -87,7 +88,7 @@ It echoes the pattern Chang Yung-fa set decades ago with containerization: not t
 
 Taiwan depends on maritime shipping for 99% of its foreign trade. The island has no oil, no iron ore, barely enough fresh water. But it has a semiconductor industry the world depends on, the seventh-largest container fleet on Earth, and generations of seafaring people — from dockworkers to captains to founders.
 
-Chang Yung-fa wrote in his memoir *Iron Will, Gentle Heart*: "You can't be afraid of battle when you're building an empire — once the ship sails, the cargo must be delivered."
+Chang Yung-fa wrote in his memoir _Iron Will, Gentle Heart_: "You can't be afraid of battle when you're building an empire — once the ship sails, the cargo must be delivered."
 
 He delivered. The question is who steers now. In 2024, the Supreme Court stamped its verdict on the inheritance case. But in shipyards across Asia, Evergreen's next-generation methanol-powered vessels are taking shape. When they launch, the hulls will still be green. EVERGREEN will still be painted on the side. Who stands on the bridge — that's a different story.
 

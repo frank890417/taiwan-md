@@ -1,8 +1,9 @@
 ---
-title: "Arte"
+title: 'Arte'
 date: 2026-03-17
 tags: [arte, Hub]
-description: "El arte contemporáneo taiwanés muestra una fuerza poderosa en el escenario internacional, desde la Bienal de Venecia hasta la Bienal de Taipei, desde el videoarte de Yuan Goang-ming hasta el floreciente desarrollo de la creación de nuevos medios, Taiwán se ha convertido en una base importante de creación artística en Asia. Con un sistema completo de museos de arte y un mercado artístico activo, muestra una energía creativa única que fusiona lo tradicional con lo contemporáneo."
+description: 'El arte contemporáneo taiwanés muestra una fuerza poderosa en el escenario internacional, desde la Bienal de Venecia hasta la Bienal de Taipei, desde el videoarte de Yuan Goang-ming hasta el floreciente desarrollo de la creación de nuevos medios, Taiwán se ha convertido en una base importante de creación artística en Asia. Con un sistema completo de museos de arte y un mercado artístico activo, muestra una energía creativa única que fusiona lo tradicional con lo contemporáneo.'
+translatedFrom: 'Art/_Art Hub.md'
 ---
 
 # Arte de Taiwán 🎨
@@ -10,7 +11,7 @@ description: "El arte contemporáneo taiwanés muestra una fuerza poderosa en el
 En el paisaje artístico de Taiwán, la tradición y la vanguardia no son dos extremos opuestos, sino una doble hélice que se nutre mutuamente. Cuando las esculturas de madera de Ju Ming alcanzan precios récord en subastas internacionales, cuando el videoarte de Yuan Goang-ming sacude al mundo en la Bienal de Venecia, vemos cómo una pequeña isla encuentra su propia voz única en el mapa artístico global. La fuerza del arte taiwanés no radica en imitar a Occidente o ser anticuado en Oriente, sino en crear una tercera posibilidad entre ambos.
 
 ![Museo de Arte de Taipei](/images/wiki/taiwan-heritage-building.jpg)
-*Fuente de la imagen: [Prattflora](https://commons.wikimedia.org/wiki/File:Taipei-fine-arts-museum.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
+_Fuente de la imagen: [Prattflora](https://commons.wikimedia.org/wiki/File:Taipei-fine-arts-museum.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)_
 
 ## De la Isla al Escenario Mundial
 
@@ -21,24 +22,29 @@ En 2024, Yuan Goang-ming representó a Taiwán en la Bienal de Venecia con "Ever
 ## Desarrollo del Arte Contemporáneo
 
 ### [[Pabellón de Taiwán en la Bienal de Venecia]] - La Voz Taiwanesa en la Escena Artística Internacional
+
 Taiwán comenzó a participar en la Bienal de Venecia desde 1995, en 2024 Yuan Goang-ming representó a Taiwán con "Everyday War", exhibiendo obras de video e instalación en el Palazzo delle Prigioni, explorando el estado de habitar contemporáneo y la conciencia de guerra. Artistas participantes anteriores incluyen importantes creadores como Lee Mingwei, Wu Chi-tsung y Charwei Tsai.
 
 📖 Lectura adicional: [Arte Contemporáneo de Taiwán](/art/arte-contemporaneo) ｜ [Arte de Nuevos Medios de Taiwán](/art/arte-de-nuevos-medios-taiwanes)
 
 ### [[Bienal de Taipei]] - Bastión del Arte Contemporáneo Asiático
+
 El Museo de Arte de Taipei ha organizado la [Bienal de Taipei](bienal-de-taipei) desde 1998, invitando a curadores de renombre internacional a colaborar con artistas taiwaneses. En 2020 invitó a Bruno Latour a curar "You and I Don't Live on the Same Planet", mostrando la importante posición de Taiwán en la red artística global.
 
 ### [Arte de Nuevos Medios](/art/arte-de-nuevos-medios) - Fusión Vanguardista de Tecnología y Arte
+
 Artistas como Yuan Goang-ming, Wang Fujui y Tu Wei-cheng disfrutan de reputación internacional en videoarte, arte sonoro e instalación interactiva. Combinando las ventajas de la [industria de semiconductores](/technology/industria-de-semiconductores), el [arte de nuevos medios](/art/arte-experimental-y-de-nuevos-medios-taiwanes) de Taiwán muestra visión de futuro en los campos del arte digital y la creación con [IA inteligencia artificial](/technology/industria-de-ia-inteligencia-artificial).
 
 📖 Lectura adicional: [Arte de Nuevos Medios de Taiwán](/art/arte-de-nuevos-medios-taiwanes) ｜ [Arte Experimental y de Nuevos Medios de Taiwán](/art/arte-experimental-y-de-nuevos-medios-taiwanes)
 
 ### [[Renacimiento de la Artesanía Tradicional]] - Interpretación Contemporánea de Habilidades Antiguas
+
 Cerámica, escultura en madera, textiles y otras [artes tradicionales](/art/arte-tradicional-taiwanes) son reinterpretadas por artistas contemporáneos, como la escultura en madera de Ju Ming y las creaciones de vidrio de Yang Hui-shan, abriendo un nuevo lenguaje artístico mientras mantienen las raíces culturales.
 
 📖 Lectura adicional: [Arte Tradicional de Taiwán](/art/arte-tradicional-taiwanes)
 
 ### [[Mercado de Arte e Industria de Galerías]] - Ecología Activa de Coleccionismo
+
 Taiwán tiene un mercado de arte maduro, desde la Asociación de Galerías hasta ferias de arte (como Taipei Dangdai Art Fair), estableciendo una cadena de industria artística completa que apoya el desarrollo de creadores locales.
 
 ## Sistema de Museos de Arte
@@ -59,7 +65,7 @@ Taiwán ha establecido un sistema completo de museos de arte que abarca niveles 
 - **Cobertura de arte público**: La "Regulación de Instalación de Arte Público" de Taiwán estipula que el 1% del presupuesto de construcción debe invertirse en arte público, ya hay más de 5.000 obras de arte público en toda Taiwán
 
 ![Oso negro taiwanés](/images/wiki/taiwan-transportation.jpg)
-*Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear.JPG) | CC BY-SA 3.0 | Fotógrafo: Abu0804*
+_Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Formosan_Black_Bear.JPG) | CC BY-SA 3.0 | Fotógrafo: Abu0804_
 
 ## Temas Relacionados
 
@@ -70,4 +76,4 @@ Taiwán ha establecido un sistema completo de museos de arte que abarca niveles 
 
 ---
 
-*La fuerza del arte taiwanés radica en que puede cultivar profundamente la cultura local mientras dialoga con lo internacional, convirtiéndose en un importante impulsor de la diplomacia cultural.*
+_La fuerza del arte taiwanés radica en que puede cultivar profundamente la cultura local mientras dialoga con lo internacional, convirtiéndose en un importante impulsor de la diplomacia cultural._

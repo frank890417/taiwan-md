@@ -19,6 +19,7 @@ readingTime: 13
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Art/台灣文學史.md'
 ---
 
 # A History of Taiwanese Literature

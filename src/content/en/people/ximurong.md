@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: [people, poetry, literature, essayist, Mongolian-heritage]
 subcategory: 'Literature'
 lastVerified: 2026-03-19
+translatedFrom: 'People/席慕蓉.md'
 ---
 
 # Xi Murong (席慕蓉): A Poet Between the Grasslands and the City

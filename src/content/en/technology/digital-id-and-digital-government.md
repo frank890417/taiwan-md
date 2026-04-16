@@ -18,6 +18,7 @@ readingTime: 13
 featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/數位身分證與數位政府.md'
 ---
 
 # Digital ID and Digital Government

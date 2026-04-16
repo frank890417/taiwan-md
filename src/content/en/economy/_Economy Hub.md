@@ -3,6 +3,7 @@ title: 'Economy'
 date: 2026-03-17
 tags: [economy, Hub]
 description: "Taiwan developed from one of Asia's 'Four Little Dragons' to the world's 22nd largest economy with per capita GDP reaching $30,000, creating the 'Taiwan Economic Miracle.' The semiconductor industry became the economic pillar, accounting for 18% of GDP — TSMC alone contributes 7.9% of Taiwan's GDP, demonstrating the powerful economic influence of the 'Silicon Island' status."
+translatedFrom: 'Economy/_Economy Hub.md'
 ---
 
 In the 1960s, when World Bank experts came to Taiwan for economic surveys, they saw a typical backward agricultural society: per capita income of only $146, over 80% of the population engaged in agriculture, a weak industrial base, and scarce technical talent. Who could have imagined that this small island, then viewed as an aid recipient, would create an economic miracle that shook the world over the next seventy years?

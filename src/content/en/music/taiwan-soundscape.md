@@ -16,6 +16,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣聲音地景.md'
 ---
 
 # Taiwan’s Soundscape

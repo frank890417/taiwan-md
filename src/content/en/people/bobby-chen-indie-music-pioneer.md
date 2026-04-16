@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'People/陳昇.md'
 ---
 
 # Bobby Chen (陳昇): The Musical Maverick of Independent Spirit

@@ -12,6 +12,7 @@ lastHumanReview: true
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutbut.jpg/1280px-Bunun_pasibutbut.jpg'
 imageAlt: '부눙족(布農族) 사람들이 파시붓붓을 연창하는 모습'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Music/八部合音.md'
 ---
 
 > **30초 개요:** 1943년, 일본 음악학자 구로사와 다카토모(黑澤隆朝)가 녹음 장비를 들고 타이둥(台東) 깊숙한 칸딩(崁頂) 부락에 들어가 부눙족(布農族)의 좁쌀 풍작 기원가 파시붓붓(Pasibutbut)을 녹음했다. 9년 뒤 이 녹음이 UNESCO에 전해지자, 그 자리에 있던 음악학자들은 하나같이 놀라움을 감추지 못했다 — 서양 이론은 복음 합창이 고도로 발달한 문명의 산물이라고 봤지만, 부눙족 사람들은 문자도, 악기도 없는 깊은 산속에서 사람의 목소리와 공명만으로 그것을 해내고 있었다. '팔부합음(八部合音)'이라는 이름으로 알려진 이 소리는 오늘날까지도 대만에서 가장 국제적 인지도가 높은 소리로 남아 있다.

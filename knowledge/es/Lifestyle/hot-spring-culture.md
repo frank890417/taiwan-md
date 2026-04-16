@@ -11,6 +11,7 @@ tags:
     'bienestar',
   ]
 date: 2026-03-17
+translatedFrom: 'Lifestyle/溫泉文化.md'
 ---
 
 # Cultura de Aguas Termales

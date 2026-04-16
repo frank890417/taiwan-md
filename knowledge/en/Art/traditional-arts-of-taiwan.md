@@ -20,6 +20,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Taiwan-Puppet-Show.jpg/800px-Taiwan-Puppet-Show.jpg'
 imageAlt: 'Taiwan puppetry performance'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Art/台灣傳統藝術.md'
 ---
 
 # Taiwan Traditional Arts: From Village Performances to Cultural Empire

@@ -9,6 +9,7 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：聯發科技.md'
 ---
 
 > **30-Second Overview**

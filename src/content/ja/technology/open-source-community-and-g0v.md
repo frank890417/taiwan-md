@@ -10,6 +10,7 @@ lastHumanReview: true
 readingTime: 8
 featured: false
 author: 'Taiwan.md Translation Team'
+translatedFrom: 'Technology/開源社群與g0v.md'
 ---
 
 # オープンソースコミュニティとg0v

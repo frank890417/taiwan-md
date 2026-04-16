@@ -17,6 +17,7 @@ readingTime: 15
 featured: false
 lastVerified: 2026-04-03
 lastHumanReview: true
+translatedFrom: 'Music/台灣國樂.md'
 ---
 
 # 대만 궈웨(國樂): 중국 악기 위에서 자라난 섬의 소리

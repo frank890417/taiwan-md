@@ -3,6 +3,7 @@ title: 'Historia'
 date: 2026-03-17
 tags: [historia, Hub]
 description: 'Comprender la historia de Taiwán es la clave para entender el Taiwán contemporáneo. El sistema político, la estructura social, las características culturales, el desarrollo económico e incluso los detalles de la vida cotidiana de Taiwán están profundamente marcados por las huellas de la historia. Desde la continuidad de la cultura indígena, la influencia de la experiencia colonial, el trauma del gobierno autoritario hasta los logros de la transición democrática, estas experiencias históricas han dado forma conjuntamente a la memoria colectiva y la identidad del pueblo taiwanés'
+translatedFrom: 'History/_History Hub.md'
 ---
 
 # Historia de Taiwán 🏛️

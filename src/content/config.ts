@@ -1,68 +1,24 @@
 import { defineCollection, z } from 'astro:content';
+import { ALL_LANGUAGE_CODES } from '../config/languages';
 
-const zhTWCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string().optional(),
-    tags: z.array(z.string()).optional(),
-    date: z.date().optional(),
-    draft: z.boolean().optional(),
-    category: z.string().optional(),
-    author: z.string().optional(),
-    readingTime: z.number().optional(),
-    featured: z.boolean().optional(),
-  }),
+// Shared schema for all language collections — they have identical shape.
+const articleSchema = z.object({
+  title: z.string(),
+  description: z.string().optional(),
+  tags: z.array(z.string()).optional(),
+  date: z.date().optional(),
+  draft: z.boolean().optional(),
+  category: z.string().optional(),
+  author: z.string().optional(),
+  readingTime: z.number().optional(),
+  featured: z.boolean().optional(),
 });
 
-const enCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string().optional(),
-    tags: z.array(z.string()).optional(),
-    date: z.date().optional(),
-    draft: z.boolean().optional(),
-    category: z.string().optional(),
-    author: z.string().optional(),
-    readingTime: z.number().optional(),
-    featured: z.boolean().optional(),
-  }),
-});
-
-const jaCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string().optional(),
-    tags: z.array(z.string()).optional(),
-    date: z.date().optional(),
-    draft: z.boolean().optional(),
-    category: z.string().optional(),
-    author: z.string().optional(),
-    readingTime: z.number().optional(),
-    featured: z.boolean().optional(),
-  }),
-});
-
-const koCollection = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string().optional(),
-    tags: z.array(z.string()).optional(),
-    date: z.date().optional(),
-    draft: z.boolean().optional(),
-    category: z.string().optional(),
-    author: z.string().optional(),
-    readingTime: z.number().optional(),
-    featured: z.boolean().optional(),
-  }),
-});
-
-export const collections = {
-  'zh-TW': zhTWCollection,
-  en: enCollection,
-  ja: jaCollection,
-  ko: koCollection,
-};
+// Generate one collection per registered language. Adding a language to
+// languages.ts automatically gets a content collection here — no edits needed.
+export const collections = Object.fromEntries(
+  ALL_LANGUAGE_CODES.map((code) => [
+    code,
+    defineCollection({ type: 'content', schema: articleSchema }),
+  ]),
+);

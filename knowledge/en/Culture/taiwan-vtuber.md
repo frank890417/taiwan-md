@@ -8,6 +8,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+translatedFrom: 'Culture/台灣VTuber.md'
 ---
 
 > **30-Second Overview:** In 2017, Yahoo TV launched Hoonie, Taiwan's first VTuber, marking the beginning of virtual streaming in Taiwan.

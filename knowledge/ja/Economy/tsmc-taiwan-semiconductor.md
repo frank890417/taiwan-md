@@ -1,6 +1,6 @@
 ---
-title: "台湾企業：TSMC（台湾積体電路製造）"
-description: "56歳の男が1987年に「世界誰も試みたことのない」会社を創業し、それが地球上で最も重要な工場になるまで"
+title: '台湾企業：TSMC（台湾積体電路製造）'
+description: '56歳の男が1987年に「世界誰も試みたことのない」会社を創業し、それが地球上で最も重要な工場になるまで'
 date: 2026-03-25
 tags: [Economy, 企業, 半導体, テクノロジー, 製造業, TSMC]
 category: Economy
@@ -9,6 +9,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台積電.md'
 ---
 
 > **30秒で読む要約**
@@ -47,14 +48,14 @@ lastHumanReview: false
 
 TSMCの規模は言葉で伝えることが難しい。数字の方が直接的だろう。
 
-| 指標 | 数値 | 出典 |
-|------|------|------|
-| 2025年売上高 | 1,220億ドル（約61兆円、前年比約30%増） | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
-| 先端プロセス世界シェア | 90%超（3ナノメートル） | TSMC 2025年次報告書 |
-| ウェーハファウンドリ世界シェア | 約54% | TrendForce 2025年Q4 |
-| 2026年3月時価総額 | 約1.76兆ドル（世界第6位） | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/) |
-| 2026年設備投資予算 | 560億ドル（約28兆円、前年比25%超増） | [経済日報](https://money.udn.com/money/story/5612/9283226) |
-| 従業員数 | 約76,000人 | TSMC 2025年次報告書 |
+| 指標                           | 数値                                   | 出典                                                                                                           |
+| ------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 2025年売上高                   | 1,220億ドル（約61兆円、前年比約30%増） | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
+| 先端プロセス世界シェア         | 90%超（3ナノメートル）                 | TSMC 2025年次報告書                                                                                            |
+| ウェーハファウンドリ世界シェア | 約54%                                  | TrendForce 2025年Q4                                                                                            |
+| 2026年3月時価総額              | 約1.76兆ドル（世界第6位）              | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/)                                           |
+| 2026年設備投資予算             | 560億ドル（約28兆円、前年比25%超増）   | [経済日報](https://money.udn.com/money/story/5612/9283226)                                                     |
+| 従業員数                       | 約76,000人                             | TSMC 2025年次報告書                                                                                            |
 
 C.C.ウェイは2026年1月の決算説明会でこう述べた。「AIはまるで終わりのない需要のように見える。」（出典：[経済日報](https://money.udn.com/money/story/5612/9283226)）
 

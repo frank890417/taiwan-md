@@ -15,6 +15,7 @@ readingTime: 8
 featured: true
 category: 'Food'
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣滷肉飯.md'
 ---
 
 # Braised Pork Rice (滷肉飯)

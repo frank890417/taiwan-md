@@ -3,6 +3,7 @@ title: 'Music'
 date: 2026-03-23
 tags: [music, Hub]
 description: "How did a seemingly peripheral island claim a central position in the Mandarin music landscape? From experimental noise in underground live houses to ten-thousand-voice choruses at Golden Melody Awards, Taiwan's music scene displays astonishing creative density and cultural penetration."
+translatedFrom: 'Music/_Music Hub.md'
 ---
 
 # Taiwan Music 🎵

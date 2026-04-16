@@ -8,6 +8,7 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Geography/台灣農業地景與產業分布.md'
 ---
 
 # Taiwan’s Agricultural Landscapes and Industry Belts

@@ -3,6 +3,7 @@ title: 'Culture'
 date: 2026-03-23
 tags: [Culture, Hub]
 description: 'A Stanford anthropologist spent three years trying to identify the core features of Taiwanese culture. Her conclusion: Taiwan culture's biggest feature is that it has no fixed features.'
+translatedFrom: 'Culture/_Culture Hub.md'
 ---
 
 # Taiwanese Culture 🎭

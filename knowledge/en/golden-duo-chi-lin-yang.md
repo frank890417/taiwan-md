@@ -10,6 +10,7 @@ featured: true
 category: 'People'
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'People/麟洋配.md'
 ---
 
 # Wang Chi-Lin and Lee Yang (The Golden Duo)
@@ -102,11 +103,13 @@ Wang Chi-Lin continues his badminton career, forming a new "Lin-Qi Pair" with a 
 ## Statistics and Achievements
 
 ### World Ranking Records
+
 - **Highest Ranking**: World #2 (2022)
 - **Olympic Gold Medals**: 2 (2021 Tokyo, 2024 Paris)
 - **Partnership Duration**: 2017-2024
 
 ### Major Competition Results
+
 - **2021 Tokyo Olympics**: Gold (defeated China's Li Jun-hui/Liu Yu-chen)
 - **2024 Paris Olympics**: Gold (successful defense)
 - **World Badminton Championships**: Multiple semifinal appearances
@@ -115,12 +118,14 @@ Wang Chi-Lin continues his badminton career, forming a new "Lin-Qi Pair" with a 
 ### Personal Background Information
 
 **Wang Chi-Lin**
+
 - Born: January 18, 1995, Taipei City
 - Height: 185 cm
 - Education: Master's program in Sports Science, University of Taipei
 - Affiliation: Land Bank Badminton Team
 
 **Lee Yang**
+
 - Born: May 13, 1995, Taipei City (registered in Kinmen County Jinning Township)
 - Family: Father Li Jun-yu is former national badminton player, sister Li Zhi-zhen also plays badminton
 - Education: Business Administration, Taipei University of Business
@@ -131,6 +136,7 @@ Wang Chi-Lin continues his badminton career, forming a new "Lin-Qi Pair" with a 
 ### Wang Chi-Lin's Attacking Threat
 
 Wang Chi-Lin's smashes are the Golden Duo's biggest weapon:
+
 - **Speed**: Maximum over 320 km/h
 - **Placement**: High precision, skilled at attacking opponent gaps
 - **Timing**: Coordination with Lee Yang allows him to attack from optimal positions
@@ -138,6 +144,7 @@ Wang Chi-Lin's smashes are the Golden Duo's biggest weapon:
 ### Lee Yang's Technical Versatility
 
 Lee Yang's technical characteristics lie in versatility:
+
 - **Net Techniques**: Delicate push-block and rescue abilities
 - **Defensive Skills**: Excellent reaction speed and judgment
 - **Tactical Awareness**: Can create optimal attacking opportunities for his partner
@@ -145,6 +152,7 @@ Lee Yang's technical characteristics lie in versatility:
 ### Evolution of Partnership Understanding
 
 Their understanding is built on long-term training:
+
 - **Silent Communication**: Rarely need verbal communication during matches
 - **Space Allocation**: Extremely precise division of court positions
 - **Attack-Defense Transitions**: Can complete role switches instantly
@@ -154,6 +162,7 @@ Their understanding is built on long-term training:
 ### Taiwan Badminton's Breakthrough
 
 The Golden Duo's success holds epochal significance for Taiwan badminton:
+
 - **First Olympic Gold**: Ended Taiwan badminton's 60-year Olympic wait
 - **Men's Doubles Breakthrough**: Proved Taiwan has more than just Tai Tzu-ying's women's singles
 - **Inspirational Effect**: Boosted grassroots badminton development, more young people took up badminton
@@ -161,6 +170,7 @@ The Golden Duo's success holds epochal significance for Taiwan badminton:
 ### Sports Spirit Exemplar
 
 Their story embodies important sporting values:
+
 - **Teamwork**: Individual excellence + team coordination = championship
 - **Perseverance**: 20 years of persistence from middle school classmates to Olympic champions
 - **Mutual Benefit**: People with different qualities can create greater value together
@@ -168,6 +178,7 @@ Their story embodies important sporting values:
 ### Social and Cultural Impact
 
 The Golden Duo's success transcended sports:
+
 - **National Heroes**: Became household sports stars across Taiwan
 - **Role Model Legacy**: Actively participate in grassroots promotion and teaching
 - **Friendship Example**: Demonstrated true friendship and partnership
@@ -177,6 +188,7 @@ The Golden Duo's success transcended sports:
 ### Lee Yang's New Role
 
 After retirement, Lee Yang engages in:
+
 - **Teaching Legacy**: Promoting badminton at universities and grassroots levels
 - **Practice Support**: Continuing to support Taiwan badminton in different forms
 - **Family Legacy**: Father Li Jun-yu still competes in senior tournaments, the whole family loves badminton
@@ -184,6 +196,7 @@ After retirement, Lee Yang engages in:
 ### Wang Chi-Lin's New Partner
 
 Wang Chi-Lin continues competing with a new partner:
+
 - **New Lin-Qi Pair**: Forms new combination with new teammate
 - **Experience Transfer**: Applies coordination experience with Lee Yang to new combination
 - **Continuing Goals**: Continues striving for Taiwan badminton glory on international stage
@@ -206,5 +219,5 @@ Even though Lee Yang has retired, the name "Golden Duo" will forever be linked w
 - [Mirror Media: Gold Medal Won from Hell's Gamble](https://www.mirrormedia.mg/story/20210731pol001)
 - [Yahoo Sports: Golden Duo Tokyo Olympics Final Report](https://tw.sports.yahoo.com/news/%E6%9D%B1%E5%A5%A7%E7%BE%BD%E7%90%83%E7%94%B7%E9%9B%99%E9%87%91%E7%89%8C%E6%88%B0-%E3%80%8C%E9%BA%9F%E6%B4%8B%E9%85%8D%E3%80%8D-1930-%E5%B0%8D%E6%B1%BA%E5%A4%A7%E9%99%B8%E7%B5%84%E5%90%88%E6%9D%8E%E4%BF%8A%E6%85%A7%E3%80%81%E5%8A%89%E9%9B%A8%E8%BE%B0-013649260.html)
 - [Wikipedia: Wang Chi-Lin](https://zh.wikipedia.org/zh-tw/%E7%8E%8B%E9%BD%8A%E9%BA%9F)
-- [Wikipedia: Lee Yang](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1))
+- [Wikipedia: Lee Yang](<https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%B4%8B_(%E7%BE%BD%E7%90%83%E9%81%8B%E5%8B%95%E5%93%A1)>)
 - [ELLE: Lee Yang Retirement Feature Report](https://www.elle.com/tw/entertainment/voice/g61759440/2024-olmpics-lee-yang-chi-lin-wang-of-chinese-taipei/)

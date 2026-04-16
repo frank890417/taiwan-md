@@ -16,6 +16,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'People/沈聖博.md'
 ---
 
 # Shen Sheng-Po

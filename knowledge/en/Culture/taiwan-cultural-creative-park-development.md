@@ -14,6 +14,7 @@ category: 'Culture'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣文化創意園區發展.md'
 ---
 
 # Taiwan's Cultural Creative Park Development

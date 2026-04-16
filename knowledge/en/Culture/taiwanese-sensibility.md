@@ -21,6 +21,7 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-08
 lastHumanReview: true
+translatedFrom: 'Culture/台灣感性.md'
 ---
 
 # Taiwanese Sensibility: How Korea Fell in Love with Taiwan's Streets

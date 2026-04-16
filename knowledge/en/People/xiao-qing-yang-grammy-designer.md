@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+translatedFrom: 'People/蕭青陽.md'
 ---
 
 # Xiao Qing-yang: Bringing Taiwanese Design to the World Stage

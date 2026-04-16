@@ -13,6 +13,7 @@ tags:
   ]
 subcategory: 'Film & Theater'
 date: 2026-03-17
+translatedFrom: 'People/侯孝賢.md'
 ---
 
 # Hou Hsiao-hsien

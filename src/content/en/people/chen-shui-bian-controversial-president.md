@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-20
+translatedFrom: 'People/陳水扁.md'
 ---
 
 # Chen Shui-bian: The Controversial Pioneer of Democratic Transition

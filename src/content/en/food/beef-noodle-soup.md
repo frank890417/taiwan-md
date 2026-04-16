@@ -9,6 +9,7 @@ lastHumanReview: false
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Taiwanese_Beef_Noodle_Soup.jpg/960px-Taiwanese_Beef_Noodle_Soup.jpg"
 imageAlt: "Taiwanese Beef Noodle Soup"
 imageCredit: "Wikimedia Commons, CC BY-SA"
+translatedFrom: 'Food/牛肉麵.md'
 ---
 
 # Beef Noodle Soup

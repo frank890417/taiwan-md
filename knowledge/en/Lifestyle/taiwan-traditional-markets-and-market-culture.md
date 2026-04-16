@@ -10,6 +10,7 @@ tags:
     'social capital',
   ]
 lastVerified: 2026-03-19
+translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
 ---
 
 # Taiwan’s Traditional Markets and Market Culture

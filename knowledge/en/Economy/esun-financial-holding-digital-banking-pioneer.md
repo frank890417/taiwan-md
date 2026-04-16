@@ -1,5 +1,5 @@
 ---
-title: "E.SUN Financial Holding: From Credit Card Specialist to Digital Banking Pioneer"
+title: 'E.SUN Financial Holding: From Credit Card Specialist to Digital Banking Pioneer'
 description: "From Taiwan's first specialized credit card bank to digital financial leader, the breakthrough story of Taiwan's youngest financial holding CEO at age 43"
 date: 2026-03-20
 tags: ['economy', 'companies', 'financial-services', 'digital-transformation']
@@ -8,6 +8,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：玉山金控.md'
 ---
 
 > **30-Second Overview:** E.SUN Financial Holding started as Taiwan's first specialized credit card bank in 1992, with Joseph Huang becoming Taiwan's youngest financial holding CEO at age 43 in 2008, leading E.SUN's transformation into a digital banking pioneer. With NT$2.8 trillion in assets in 2024, it's Taiwan's third-largest private financial holding company and has been recognized by Brand Finance as Taiwan's most valuable banking brand for multiple consecutive years.
@@ -51,6 +52,7 @@ Another example is E.SUN's branch design. They invest considerable effort studyi
 ## Report Card Behind the Numbers
 
 As of 2024, E.SUN's performance is quite impressive:
+
 - **Asset Scale**: NT$2.8 trillion (Taiwan's third-largest private financial holding)
 - **After-tax Net Profit**: NT$20.88 billion (first three quarters of 2024, up 31.5% year-over-year)
 - **Digital Accounts**: Over 1.2 million accounts

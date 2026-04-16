@@ -3,6 +3,7 @@ title: 'Lifestyle'
 date: 2026-03-23
 tags: [lifestyle, Hub]
 description: 'What happens when an island pushes convenience to the absolute limit? In a space cramming 280 people per square kilometer, Taiwan created the highest density of happiness: 99.9% health insurance coverage made unaffordable healthcare history, 11,000 convenience stores turned midnight pharmacy runs into routine, 678 motorcycles per thousand people transformed the entire island into a 30-minute life circle.'
+translatedFrom: 'Lifestyle/_Lifestyle Hub.md'
 ---
 
 # Taiwan Lifestyle 🏠

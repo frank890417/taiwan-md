@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['film', 'director', 'actor', 'singer', 'screenwriter']
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
+translatedFrom: 'People/張艾嘉.md'
 ---
 
 # Sylvia Chang (張艾嘉): The Cross-Disciplinary Queen of Chinese-Language Cinema

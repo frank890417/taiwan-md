@@ -18,6 +18,7 @@ featured: false
 category: Technology
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Technology/數位身分證與數位政府.md'
 ---
 
 # デジタル身分証とデジタル政府

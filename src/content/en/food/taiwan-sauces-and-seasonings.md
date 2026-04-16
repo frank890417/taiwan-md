@@ -2,13 +2,21 @@
 title: "Taiwan's Sauces and Seasonings"
 description: "Thick soy sauce, satay sauce, sweet chili sauce, and doubanjiang form the foundation of Taiwan's unique flavors, reflecting the seasoning philosophy of multicultural fusion"
 date: 2026-03-20
-tags: ["sauces", "seasonings", "culinary culture", "Taiwan flavors", "fermented foods"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags:
+  [
+    'sauces',
+    'seasonings',
+    'culinary culture',
+    'Taiwan flavors',
+    'fermented foods',
+  ]
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 7
-category: "Food"
+category: 'Food'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Food/台灣醬料與調味.md'
 ---
 
 # Taiwan's Sauces and Seasonings

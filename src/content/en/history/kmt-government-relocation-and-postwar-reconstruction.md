@@ -16,6 +16,7 @@ author: 'Taiwan.md'
 readingTime: 22
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'History/國民政府遷台與戰後重建.md'
 ---
 
 # KMT Government Relocation and Post-War Reconstruction

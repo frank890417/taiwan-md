@@ -19,6 +19,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-06
 lastHumanReview: false
+translatedFrom: 'People/嚴長壽.md'
 ---
 
 # 厳長寿：メール室の雑用係から観光業のカリスマへ、そして彼はすべてを手放した

@@ -8,6 +8,7 @@ date: 2026-03-26
 readingTime: 10
 lastVerified: 2026-03-26
 lastHumanReview: false
+translatedFrom: 'Culture/關聖帝君信仰.md'
 ---
 
 # 関聖帝君：敗れた将軍はいかにして台湾の万能神となったか

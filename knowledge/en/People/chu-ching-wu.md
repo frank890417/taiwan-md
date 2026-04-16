@@ -13,6 +13,7 @@ tags:
 subcategory: 'Sports'
 lastVerified: 2026-03-20
 featured: true
+translatedFrom: 'People/朱經武.md'
 ---
 
 # Chu Ching‑Wu (朱經武): A Taiwanese Pioneer of High‑Temperature Superconductivity

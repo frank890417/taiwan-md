@@ -16,6 +16,7 @@ author: 'Taiwan.md'
 readingTime: 19
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣新興宗教與心靈文化.md'
 ---
 
 # Emerging Religions and Spiritual Culture in Taiwan

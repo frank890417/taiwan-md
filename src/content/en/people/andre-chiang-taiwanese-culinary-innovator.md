@@ -6,6 +6,7 @@ tags:
   ['People', 'André Chiang', 'Chef', 'Michelin', 'RAW', 'Culinary', 'Taiwan']
 subcategory: 'Food & Craft'
 lastVerified: 2026-03-19
+translatedFrom: 'People/江振誠.md'
 ---
 
 # André Chiang (江振誠): Taiwan's Culinary Philosopher

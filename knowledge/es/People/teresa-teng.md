@@ -14,6 +14,7 @@ tags:
 author: 'Colaboradores de Taiwan.md'
 readingTime: 16
 featured: true
+translatedFrom: 'People/鄧麗君.md'
 ---
 
 # Teresa Teng — La voz que unió a Asia

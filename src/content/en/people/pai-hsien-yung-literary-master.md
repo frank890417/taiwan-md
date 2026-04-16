@@ -14,6 +14,7 @@ tags:
 subcategory: 'Literature'
 lastVerified: 2026-03-19
 featured: true
+translatedFrom: 'People/白先勇.md'
 ---
 
 # Pai Hsien-yung (白先勇): The Eternal Pursuer of Modern Literature

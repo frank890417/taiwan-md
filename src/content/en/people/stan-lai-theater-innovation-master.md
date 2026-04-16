@@ -12,6 +12,7 @@ tags:
   ]
 subcategory: 'Arts & Design'
 lastVerified: 2026-03-20
+translatedFrom: 'People/賴聲川.md'
 ---
 
 # Stan Lai: Master of Chinese-Language Theater Innovation

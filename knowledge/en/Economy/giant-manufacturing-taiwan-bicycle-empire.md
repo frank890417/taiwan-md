@@ -3,11 +3,21 @@ title: 'Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empi
 description: 'How a betrayed Taiwanese manufacturer transformed from assembly slave into the hidden empire that sets global cycling standards'
 date: 2026-03-22
 category: economy
-tags: [economy, companies, giant-manufacturing, manufacturing, brand-transformation, a-team, electric-bikes]
+tags:
+  [
+    economy,
+    companies,
+    giant-manufacturing,
+    manufacturing,
+    brand-transformation,
+    a-team,
+    electric-bikes,
+  ]
 author: 'Taiwan.md Contributors'
 readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：巨大機械.md'
 ---
 
 # Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire
@@ -73,10 +83,10 @@ Data proves the A-Team's success: Taiwan exported 5 million bicycles in 2003, gr
 
 The A-Team redefined the meaning of "competition." Traditional manufacturing competition was zero-sum; the A-Team proved that "cooperative competition" could create greater market value. This model was later applied to Taiwan's semiconductor, machinery, and other industries.
 
-| Before and After A-Team Formation | 2003 | 2008 |
-|---|---|---|
-| Annual Export Volume | 5 million units | 6 million units |
-| Average Unit Price | $200 USD | $400 USD |
+| Before and After A-Team Formation | 2003            | 2008            |
+| --------------------------------- | --------------- | --------------- |
+| Annual Export Volume              | 5 million units | 6 million units |
+| Average Unit Price                | $200 USD        | $400 USD        |
 
 > **⚠️ Controversial Perspective**
 > Critics argue the A-Team was large manufacturer monopolization, squeezing out small businesses. But supporters note that facing Chinese low-cost competition, failing to unite for upgrades meant collective death.

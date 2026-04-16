@@ -6,6 +6,7 @@ tags: ['director', 'cine', 'Taiwán', 'Hollywood', 'Óscar', 'puente-cultural']
 author: 'Colaboradores de Taiwan.md'
 readingTime: 15
 featured: true
+translatedFrom: 'People/李安.md'
 ---
 
 # Ang Lee — Puente Cinematográfico entre Oriente y Occidente

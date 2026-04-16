@@ -1,11 +1,21 @@
 ---
-title: "Cultura de los Animales Callejeros en Taiwán"
-description: "Desde el documental Twelve Nights hasta la Eutanasia Cero: el ajuste de cuentas continuo de una isla con sus callejeros"
+title: 'Cultura de los Animales Callejeros en Taiwán'
+description: 'Desde el documental Twelve Nights hasta la Eutanasia Cero: el ajuste de cuentas continuo de una isla con sus callejeros'
 date: 2026-03-18
-tags: ["stray animals", "animal protection", "TNR", "zero euthanasia", "adoption", "campus dogs", "animal welfare"]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    'stray animals',
+    'animal protection',
+    'TNR',
+    'zero euthanasia',
+    'adoption',
+    'campus dogs',
+    'animal welfare',
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
+translatedFrom: 'Society/台灣流浪動物文化.md'
 ---
 
 # Cultura de los Animales Callejeros en Taiwán
@@ -17,6 +27,7 @@ En las calles de Taiwán te encontrarás con un tipo especial de presencia. Algu
 El 6 de febrero de 2017, Taiwán se convirtió en el segundo país de Asia y el primero en el Este de Asia en implementar una política de "零撲殺" (Eutanasia Cero). Pero este camino no comenzó con amabilidad: comenzó con un documental que hizo llorar a toda una isla.
 
 **Estadísticas clave:**
+
 - Se estiman **155.000 perros callejeros** en todo Taiwán (encuesta del Consejo de Agricultura de 2022)
 - Implementación completa de la **eutanasia cero** desde 2017
 - **32 refugios públicos de animales** a nivel nacional
@@ -154,6 +165,7 @@ Estos perros y gatos de refugios o calles, después de ser adoptados por escuela
 Esto no es solo acoger a animales callejeros. Esta es **educación para la vida vivida**.
 
 Los niños aprenden no la frase del libro de texto "ama a los animales", sino:
+
 - Cuando no quieren ser tocados, no puedes tocarlos
 - Cuando están enfermos, necesitan atención veterinaria, que cuesta dinero
 - Cuando envejecen y fallecen, aprendes a enfrentar la pérdida

@@ -17,6 +17,7 @@ lastVerified: 2026-03-29
 lastHumanReview: false
 featured: false
 readingTime: 8
+translatedFrom: 'People/柯文哲.md'
 ---
 
 # Ko Wen-je

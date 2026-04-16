@@ -3,6 +3,7 @@ title: 'Economía'
 date: 2026-03-17
 tags: [economía, Hub]
 description: "Taiwán pasó de ser miembro de los 'Cuatro Tigres Asiáticos' a convertirse en la 22.ª economía más grande del mundo, con un PIB per cápita de 30.000 dólares, logrando el 'Milagro Económico de Taiwán'. La industria de semiconductores se ha convertido en el pilar económico, representando el 18% del PIB, con TSMC contribuyendo solo el 7,9% del PIB de Taiwán, demostrando el poderoso impacto económico de su posición como 'Isla del Silicio'."
+translatedFrom: 'Economy/_Economy Hub.md'
 ---
 
 # Economía de Taiwán 💰

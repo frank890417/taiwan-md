@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['music', 'singer-songwriter', 'social commentary', 'Mandopop', 'Taiwan']
 subcategory: 'Music'
 lastVerified: 2026-03-19
+translatedFrom: 'People/羅大佑.md'
 ---
 
 # Luo Dayou (羅大佑): The Godfather of Mandarin Pop

@@ -15,6 +15,7 @@ author: 'Taiwan.md'
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
 ---
 
 # Tectonic Plates and Seismic Activity

@@ -8,6 +8,7 @@ category: 'Society'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣長期照顧制度發展.md'
 ---
 
 # The Development of Taiwan’s Long‑Term Care System

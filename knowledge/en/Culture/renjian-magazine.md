@@ -16,6 +16,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/人間雜誌.md'
 ---
 
 # Renjian Magazine (人間雜誌)

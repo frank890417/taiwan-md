@@ -14,6 +14,7 @@ tags:
   ]
 category: Economy
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
 ---
 
 # Taiwan's Foreign Trade and Global Supply Chain

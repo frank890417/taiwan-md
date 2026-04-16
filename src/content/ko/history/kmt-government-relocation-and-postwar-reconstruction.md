@@ -20,6 +20,7 @@ readingTime: 18
 featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
+translatedFrom: 'History/國民政府遷台與戰後重建.md'
 ---
 
 # 국민정부(國民政府) 대만 이전과 전후 재건

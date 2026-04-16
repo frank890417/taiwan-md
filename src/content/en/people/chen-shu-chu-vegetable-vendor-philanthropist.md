@@ -14,6 +14,7 @@ tags:
   ]
 subcategory: 'Education & Society'
 lastVerified: 2026-03-20
+translatedFrom: 'People/陳樹菊.md'
 ---
 
 Chen Shu-chu, born in 1951 in Taitung, is an ordinary vegetable vendor who has achieved extraordinary things through her philanthropy. She has been selling vegetables at Taitung Central Market for over 50 years and has donated more than NT$10 million to schools and various charitable organizations. In 2010, she was selected by TIME magazine as one of the world's 100 most influential people, becoming an international media sensation. Chen Shu-chu's story tells the world that true wealth lies not in what you own, but in what you're willing to give.

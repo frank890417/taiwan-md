@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Society/台灣媒體與新聞自由.md'
 ---
 
 # Media and Press Freedom in Taiwan

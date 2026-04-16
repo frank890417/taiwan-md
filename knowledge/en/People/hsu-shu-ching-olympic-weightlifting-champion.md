@@ -5,6 +5,7 @@ date: 2026-03-20
 tags: ['sports', 'weightlifting', 'olympics', 'gold medal', '53kg category']
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/許淑淨.md'
 ---
 
 # Hsu Shu-ching: Taiwan's Weightlifting Goddess

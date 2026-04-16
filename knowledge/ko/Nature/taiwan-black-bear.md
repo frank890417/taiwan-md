@@ -19,6 +19,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+translatedFrom: 'Nature/台灣黑熊.md'
 ---
 
 # 타이완 흑곰(台灣黑熊)

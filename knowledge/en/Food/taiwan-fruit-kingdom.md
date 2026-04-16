@@ -6,6 +6,7 @@ tags: ['fruits', 'mango', 'lychee', 'sugar apple', 'agriculture', 'exports']
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: true
+translatedFrom: 'Food/台灣水果王國.md'
 ---
 
 # Taiwan Fruit Kingdom

@@ -14,6 +14,7 @@ category: Food
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
 imageAlt: 'Formosa Oolong Tea 문구가 적힌 대만 우롱차 포장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/茶文化.md'
 ---
 
 # 대만 차 문화

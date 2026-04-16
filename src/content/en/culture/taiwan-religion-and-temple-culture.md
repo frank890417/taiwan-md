@@ -18,6 +18,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-04-06
+translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 ---
 
 # Taiwan's Religion and Temple Culture

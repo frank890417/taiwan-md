@@ -13,6 +13,7 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-19
 featured: true
+translatedFrom: 'People/蔡明亮.md'
 ---
 
 # Tsai Ming‑liang: Poet of slow cinema

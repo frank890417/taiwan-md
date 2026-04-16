@@ -13,6 +13,7 @@ tags:
 readingTime: 11
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/農業科技與精緻農業.md'
 ---
 
 # Agricultural Technology and Refined Agriculture

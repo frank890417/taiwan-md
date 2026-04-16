@@ -6,6 +6,7 @@ tags: [people, jay-chou, mandarin-pop, singer, composer, r&b, chinese-style]
 subcategory: 'Music and Performance'
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'People/周杰倫.md'
 ---
 
 # Jay Chou
@@ -43,14 +44,14 @@ Foreign media began noticing. In 2003, Time magazine's Asia edition featured Jay
 
 ## Golden Melody Awards Record Holder
 
-| Year | Award | Work |
-|------|-------|------|
-| 2001 | Best Pop Vocal Album | "Jay" |
-| 2002 | Best Pop Vocal Album, Best Album Producer, Best Composer | "Fantasy" |
-| 2004 | Best Pop Vocal Album | "Ye Huimei" |
-| 2008 | Song of the Year, Best Composer | "Blue and White Porcelain" |
-| 2009 | Song of the Year, Best Mandarin Male Singer, Best Music Video | "Rice Fragrance," "Magic" |
-| 2011 | Best Mandarin Album, Best Mandarin Male Singer | "The Era" |
+| Year | Award                                                         | Work                       |
+| ---- | ------------------------------------------------------------- | -------------------------- |
+| 2001 | Best Pop Vocal Album                                          | "Jay"                      |
+| 2002 | Best Pop Vocal Album, Best Album Producer, Best Composer      | "Fantasy"                  |
+| 2004 | Best Pop Vocal Album                                          | "Ye Huimei"                |
+| 2008 | Song of the Year, Best Composer                               | "Blue and White Porcelain" |
+| 2009 | Song of the Year, Best Mandarin Male Singer, Best Music Video | "Rice Fragrance," "Magic"  |
+| 2011 | Best Mandarin Album, Best Mandarin Male Singer                | "The Era"                  |
 
 Jay is among the most awarded artists in Golden Melody Awards history, with 15 total awards. His "Album of the Year" (later Best Mandarin Album) record stands at 10 nominations and 4 wins—both records.
 

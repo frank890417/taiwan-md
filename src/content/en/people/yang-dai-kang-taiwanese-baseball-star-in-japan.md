@@ -1,10 +1,20 @@
 ---
-title: "Yang Dai-kang: Taiwanese Baseball Star in Japan"
+title: 'Yang Dai-kang: Taiwanese Baseball Star in Japan'
 description: "Yomiuri Giants outfielder and Taiwan's representative player in Japanese professional baseball"
 date: 2026-03-20
-tags: ["sports", "baseball", "NPB", "Yomiuri Giants", "outfielder", "indigenous", "Amis"]
+tags:
+  [
+    'sports',
+    'baseball',
+    'NPB',
+    'Yomiuri Giants',
+    'outfielder',
+    'indigenous',
+    'Amis',
+  ]
 subcategory: 'Sports'
 lastVerified: 2026-03-20
+translatedFrom: 'People/陽岱鋼.md'
 ---
 
 # Yang Dai-kang: Taiwanese Baseball Star in Japan
@@ -56,6 +66,7 @@ Yang's professional spirit and cultural adaptation abilities are worth learning 
 Yang is not just an excellent baseball player but also an important promoter of Taiwan's sports internationalization and cultural exchange. His successful experience in Japanese professional baseball opened new development paths for Taiwanese baseball players and established important bridges for Taiwan-Japan sports exchange.
 
 ## References
+
 - [Yomiuri Giants Official Website](https://www.giants.jp/) — Yang Dai-kang's detailed statistics with the Giants
 - [Nippon Professional Baseball](https://npb.jp/) — NPB career statistics and records
 - [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Indigenous sports development and achievements

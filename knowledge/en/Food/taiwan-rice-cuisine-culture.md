@@ -21,6 +21,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/6/66/Rice_Dumpling_%28Zongzi%29.jpg'
 imageAlt: 'Zongzi (Rice Dumplings)'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣米食文化.md'
 ---
 
 # Taiwan's Rice Food Culture

@@ -1,10 +1,18 @@
 ---
 title: "Xu Wen-Long: The Violin-Playing Entrepreneur Who Built Taiwan's Cultural Empire"
-description: "Xu Wen-Long (1928-2023), founder of Chimei Group, embodied the rare triple identity of entrepreneur, violinist, and art collector. He built a business empire spanning petrochemicals, electronics, and food while creating the iconic Chimei Museum, demonstrating how business success can beautifully harmonize with cultural dedication."
+description: 'Xu Wen-Long (1928-2023), founder of Chimei Group, embodied the rare triple identity of entrepreneur, violinist, and art collector. He built a business empire spanning petrochemicals, electronics, and food while creating the iconic Chimei Museum, demonstrating how business success can beautifully harmonize with cultural dedication.'
 date: 2026-03-19
-tags: ["Chimei Group", "Entrepreneur", "Music and Arts", "Museum", "Cultural Promotion"]
+tags:
+  [
+    'Chimei Group',
+    'Entrepreneur',
+    'Music and Arts',
+    'Museum',
+    'Cultural Promotion',
+  ]
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
+translatedFrom: 'People/許文龍.md'
 ---
 
 # Xu Wen-Long: Music and Business in Perfect Duet

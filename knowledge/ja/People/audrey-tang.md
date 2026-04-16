@@ -19,6 +19,7 @@ lastVerified: 2026-03-21
 lastHumanReview: '2026-04-07'
 featured: false
 author: 'Taiwan.md Translation Team'
+translatedFrom: 'People/唐鳳.md'
 ---
 
 # オードリー・タン（唐鳳）

@@ -6,6 +6,7 @@ tags: ['about', 'founder', 'artist']
 author: 'Taiwan.md'
 readingTime: 3
 featured: false
+translatedFrom: 'About/創辦人.md'
 ---
 
 # Founder — Che-Yu Wu

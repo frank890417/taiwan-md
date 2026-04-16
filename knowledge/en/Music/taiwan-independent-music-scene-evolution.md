@@ -16,7 +16,9 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Music/台灣獨立音樂.md'
 ---
+
 # The Evolution of Taiwan's Independent Music Scene
 
 ## 30-Second Overview

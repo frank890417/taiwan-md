@@ -1,6 +1,6 @@
 ---
-title: "Taiwan Enterprise: Uni-President Enterprises"
-description: "How a 13-Year-Old Child Worker Built a NT$657.6 Billion Revenue Empire from Scratch at Age 38"
+title: 'Taiwan Enterprise: Uni-President Enterprises'
+description: 'How a 13-Year-Old Child Worker Built a NT$657.6 Billion Revenue Empire from Scratch at Age 38'
 date: 2026-03-21
 tags: [economy, enterprise, food industry, retail, brand management]
 author: Taiwan.md
@@ -8,6 +8,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+translatedFrom: 'Economy/台灣企業：統一企業.md'
 ---
 
 > **30-Second Overview:** In 1967, 38-year-old Kao Ching-yuan founded Uni-President Enterprises in Tainan's Xuejia District, starting from a flour mill to achieving record-high revenue of NT$657.6 billion in 2024. Uni-President didn't just sell noodles—it redefined Taiwanese life. When Taiwan's first 7-ELEVEN opened at Chang'an Road in 1980, it made "24-hour convenience" a uniquely Taiwanese cultural symbol.
@@ -35,18 +36,21 @@ The turning point came in 1987. Uni-President spun off the superstore division i
 ## Numbers Tell the Story: From 30 to 250,000 People
 
 **Latest 2024 Data:**
+
 - Revenue: NT$657.637 billion (13.19% YoY growth, historic high)
 - Net profit: NT$20.673 billion (4-year high)
 - Global employees: Approximately 250,000 (including subsidiaries)
 - 7-ELEVEN stores: 6,800 in Taiwan, 13,000 globally
 
 **Market Position:**
+
 - Taiwan instant noodle market share: Over 60% (absolute leader)
 - Taiwan convenience store density: One per 2,300 people (world's highest)
 - Uni-President noodles annual sales: Over 1 billion packages
 - Overseas revenue proportion: Approximately 70% (mainly from China)
 
 **Comparison:**
+
 - 1967 founding: 30-person small factory
 - 2024: 250,000-employee multinational enterprise
 - Growth multiple: Employee count grew 8,333 times over 57 years

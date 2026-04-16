@@ -9,6 +9,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+translatedFrom: 'History/日治時期.md'
 ---
 
 # 日本統治時代

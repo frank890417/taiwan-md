@@ -1,6 +1,6 @@
 ---
 title: "TSMC: The World's Most Important Company You've Never Heard Of"
-description: "How a Taiwanese chipmaker became the linchpin of global digital civilization"
+description: 'How a Taiwanese chipmaker became the linchpin of global digital civilization'
 date: 2026-03-20
 tags: [Economy, Business, Semiconductors, Technology, Manufacturing, TSMC]
 author: Taiwan.md
@@ -8,10 +8,11 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台積電.md'
 ---
 
 > **30-Second Overview**
-> 
+>
 > Taiwan Semiconductor Manufacturing Company (TSMC) is the world's largest contract chipmaker, commanding over 50% market share. It manufactures chips for Apple, NVIDIA, AMD, and other tech giants. In 2026, TSMC became Asia's most valuable company with a market cap exceeding $2 trillion. Starting as a small venture in Taiwan's Hsinchu Science Park, it now controls the world's most advanced 2-nanometer manufacturing technology. TSMC is Taiwan's "sacred mountain" and a flashpoint in global geopolitics.
 
 ## Why This Matters
@@ -29,22 +30,26 @@ This seemingly simple business model rewrote the entire tech industry. Before TS
 ## Key Facts (By the Numbers)
 
 **Operating Scale**:
+
 - 2025 Revenue: $75.38 billion (approximately NT$2.4 trillion), up 32% year-over-year
 - Global foundry market share: 54.2%, far ahead of second-place Samsung (17.3%)
 - Employees: Approximately 75,000 (end of 2025)
 - Market cap: Over $2 trillion (March 2026), making it the world's 8th largest company
 
 **Technology Leadership**:
+
 - Controls the world's most advanced 2-nanometer manufacturing process, with mass production planned for late 2026
 - Commands over 90% market share in 3-nanometer processes
 - R&D spending: Approximately $7 billion in 2025, representing 9.3% of revenue
 
 **Customer Base**:
+
 - Top five customers include Apple, NVIDIA, AMD, Broadcom, and Qualcomm
 - Apple accounts for roughly 23% of TSMC's revenue
 - AI and high-performance computing chips have become major growth drivers
 
 **Global Footprint**:
+
 - Taiwan: 4 twelve-inch fabs and 6 eight-inch fabs
 - Two advanced-process fabs under construction in Arizona, USA
 - Kumamoto fab in Japan began operations in 2024, focusing on mature processes

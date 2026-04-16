@@ -1,267 +1,274 @@
 {
-  "lastUpdated": "2026-04-14T00:21:44.948981",
+  "lastUpdated": "2026-04-16T06:39:51.133463",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
-    "label": "2026-03-17 to 2026-04-14",
-    "startDate": "2026-03-17",
-    "endDate": "2026-04-14",
+    "label": "2026-03-19 to 2026-04-16",
+    "startDate": "2026-03-19",
+    "endDate": "2026-04-16",
     "days": 28,
     "totals": {
-      "activeUsers": 87113,
-      "newUsers": 87484,
-      "avgEngagementSeconds": 115.3,
-      "events": 632335,
-      "screenPageViews": 219586,
-      "engagementRate": 0.4169,
-      "bounceRate": 0.5831
+      "activeUsers": 63263,
+      "newUsers": 61665,
+      "avgEngagementSeconds": 123.9,
+      "events": 464162,
+      "screenPageViews": 161460,
+      "engagementRate": 0.3779,
+      "bounceRate": 0.6221
     },
     "topPages": [
       {
         "path": "/",
         "title": "台灣知識庫",
-        "views": 106984,
-        "users": 73227,
-        "events": 340277
+        "views": 74124,
+        "users": 48441,
+        "events": 233196
       },
       {
         "path": "/en/",
         "title": "Taiwan.md - Open Knowledge Base of Taiwan",
-        "views": 12846,
-        "users": 9696,
-        "events": 32189
+        "views": 8120,
+        "users": 5915,
+        "events": 20543
       },
       {
         "path": "/graph/",
         "title": "🕸️ 知識圖譜 — Taiwan.md",
-        "views": 7314,
-        "users": 5228,
-        "events": 17548
+        "views": 5061,
+        "users": 3593,
+        "events": 12471
       },
       {
         "path": "/about/",
         "title": "關於 Taiwan.md",
-        "views": 6016,
-        "users": 3952,
-        "events": 16566
+        "views": 4606,
+        "users": 2915,
+        "events": 12859
       },
       {
         "path": "/history/",
         "title": "歷史 - Taiwan.md",
-        "views": 5792,
-        "users": 4857,
-        "events": 16192
+        "views": 3778,
+        "users": 3100,
+        "events": 10378
       },
       {
         "path": "/contribute/",
         "title": "我想貢獻 — Taiwan.md",
-        "views": 4844,
-        "users": 3316,
-        "events": 13692
-      },
-      {
-        "path": "/food/",
-        "title": "美食 - Taiwan.md",
-        "views": 4354,
-        "users": 3806,
-        "events": 11375
-      },
-      {
-        "path": "/geography/",
-        "title": "地理 - Taiwan.md",
-        "views": 4009,
-        "users": 3545,
-        "events": 10269
-      },
-      {
-        "path": "/resources/",
-        "title": "台灣資源導覽 - Taiwan.md",
-        "views": 3213,
-        "users": 2139,
-        "events": 8703
+        "views": 3747,
+        "users": 2431,
+        "events": 10638
       },
       {
         "path": "/data/",
         "title": "📊 數據台灣 — Taiwan.md",
-        "views": 3037,
-        "users": 2110,
-        "events": 8355
+        "views": 3082,
+        "users": 2147,
+        "events": 8502
       },
       {
-        "path": "/culture/",
-        "title": "文化 - Taiwan.md",
-        "views": 2756,
-        "users": 2372,
-        "events": 6772
+        "path": "/food/",
+        "title": "美食 - Taiwan.md",
+        "views": 2886,
+        "users": 2469,
+        "events": 7513
+      },
+      {
+        "path": "/music/張懸與安溥/",
+        "title": "從張懸到安溥——兩個名字，同一個問題",
+        "views": 2882,
+        "users": 2495,
+        "events": 9000
+      },
+      {
+        "path": "/resources/",
+        "title": "台灣資源導覽 - Taiwan.md",
+        "views": 2639,
+        "users": 1710,
+        "events": 7156
+      },
+      {
+        "path": "/geography/",
+        "title": "地理 - Taiwan.md",
+        "views": 2618,
+        "users": 2278,
+        "events": 6705
       },
       {
         "path": "/map/",
         "title": "台灣地圖 Map",
-        "views": 2440,
-        "users": 1450,
-        "events": 5750
+        "views": 2460,
+        "users": 1218,
+        "events": 5584
+      },
+      {
+        "path": "/culture/",
+        "title": "文化 - Taiwan.md",
+        "views": 1819,
+        "users": 1528,
+        "events": 4505
       },
       {
         "path": "/people/",
         "title": "人物 - Taiwan.md",
-        "views": 2124,
-        "users": 1814,
-        "events": 5646
+        "views": 1524,
+        "users": 1261,
+        "events": 4057
+      },
+      {
+        "path": "/soundscape/",
+        "title": "台灣聲景 Taiwan Soundscape — Taiwan.md",
+        "views": 1241,
+        "users": 927,
+        "events": 3229
       },
       {
         "path": "/history/民主化/",
         "title": "民主化",
-        "views": 1727,
-        "users": 1554,
-        "events": 4287
+        "views": 1098,
+        "users": 970,
+        "events": 2723
       },
       {
         "path": "/lifestyle/",
         "title": "生活 - Taiwan.md",
-        "views": 1642,
-        "users": 1420,
-        "events": 4372
-      },
-      {
-        "path": "/technology/半導體產業/",
-        "title": "半導體產業",
-        "views": 1642,
-        "users": 1447,
-        "events": 4072
+        "views": 1086,
+        "users": 929,
+        "events": 2846
       },
       {
         "path": "/art/",
         "title": "藝術 - Taiwan.md",
-        "views": 1628,
-        "users": 1410,
-        "events": 4203
+        "views": 1012,
+        "users": 859,
+        "events": 2631
       },
       {
         "path": "/music/",
         "title": "音樂 - Taiwan.md",
-        "views": 1567,
-        "users": 1402,
-        "events": 3986
+        "views": 1010,
+        "users": 891,
+        "events": 2563
       },
       {
-        "path": "/nature/",
-        "title": "自然 - Taiwan.md",
-        "views": 1407,
-        "users": 1204,
-        "events": 3528
-      },
-      {
-        "path": "/technology/",
-        "title": "科技 - Taiwan.md",
-        "views": 1341,
-        "users": 1175,
-        "events": 3378
+        "path": "/assets/",
+        "title": "Taiwan SVG — 開放台灣輪廓圖",
+        "views": 954,
+        "users": 827,
+        "events": 2480
       }
     ],
     "topArticles7d": [
       {
         "path": "/music/張懸與安溥/",
         "title": "從張懸到安溥——兩個名字，同一個問題",
-        "views": 1032,
-        "users": 914,
-        "events": 3211
+        "views": 2912,
+        "users": 2497,
+        "events": 9063
+      },
+      {
+        "path": "/people/李洋/",
+        "title": "李洋",
+        "views": 871,
+        "users": 707,
+        "events": 2633
       },
       {
         "path": "/people/鄭麗文/",
         "title": "鄭麗文",
-        "views": 443,
-        "users": 390,
-        "events": 1379
+        "views": 469,
+        "users": 412,
+        "events": 1458
       },
       {
         "path": "/people/韓國瑜/",
         "title": "韓國瑜",
-        "views": 52,
-        "users": 44,
-        "events": 155
+        "views": 82,
+        "users": 68,
+        "events": 238
       },
       {
         "path": "/society/台灣動物用藥爭議/",
         "title": "台灣動物用藥爭議",
-        "views": 38,
-        "users": 19,
-        "events": 101
+        "views": 46,
+        "users": 25,
+        "events": 127
       },
       {
-        "path": "/music/八部合音/",
-        "title": "八部合音：挑戰西方音樂史觀的活化石",
+        "path": "/en/people/hou-hsiao-hsien/",
+        "title": "Hou Hsiao-hsien",
+        "views": 32,
+        "users": 32,
+        "events": 97
+      },
+      {
+        "path": "/people/周子瑜/",
+        "title": "周子瑜",
         "views": 31,
-        "users": 7,
-        "events": 63
-      },
-      {
-        "path": "/culture/台灣宗教與寺廟文化/",
-        "title": "台灣宗教與寺廟文化",
-        "views": 26,
-        "users": 24,
-        "events": 71
-      },
-      {
-        "path": "/history/台灣民主轉型/",
-        "title": "台灣民主轉型——威權自掘的墳墓",
-        "views": 26,
-        "users": 20,
-        "events": 66
-      },
-      {
-        "path": "/society/台灣邦交國與國際外交/",
-        "title": "台灣邦交國與國際外交（2026 現況）",
-        "views": 24,
-        "users": 23,
-        "events": 90
-      },
-      {
-        "path": "/music/台灣國樂/",
-        "title": "台灣國樂：中國樂器上長出來的島嶼聲音",
-        "views": 21,
-        "users": 14,
-        "events": 64
-      },
-      {
-        "path": "/history/戒嚴時期/",
-        "title": "戒嚴時期",
-        "views": 19,
-        "users": 7,
-        "events": 38
-      },
-      {
-        "path": "/society/台灣國防與軍事現代化/",
-        "title": "台灣國防與軍事現代化",
-        "views": 19,
-        "users": 15,
-        "events": 62
-      },
-      {
-        "path": "/technology/台灣人工智慧發展與未來策略/",
-        "title": "台灣人工智慧發展與未來策略",
-        "views": 19,
-        "users": 14,
-        "events": 46
+        "users": 10,
+        "events": 53
       },
       {
         "path": "/society/2026鄭習會與國共十年再會/",
         "title": "2026 鄭習會：國共領導人十年再會的十分鐘",
+        "views": 27,
+        "users": 22,
+        "events": 77
+      },
+      {
+        "path": "/society/台灣國防與軍事現代化/",
+        "title": "台灣國防與軍事現代化",
+        "views": 22,
+        "users": 17,
+        "events": 71
+      },
+      {
+        "path": "/technology/台灣人工智慧發展與未來策略/",
+        "title": "台灣人工智慧發展與未來策略",
+        "views": 21,
+        "users": 17,
+        "events": 55
+      },
+      {
+        "path": "/music/八部合音/",
+        "title": "八部合音：挑戰西方音樂史觀的活化石",
+        "views": 20,
+        "users": 11,
+        "events": 54
+      },
+      {
+        "path": "/society/台灣邦交國與國際外交/",
+        "title": "台灣邦交國與國際外交（2026 現況）",
+        "views": 20,
+        "users": 20,
+        "events": 81
+      },
+      {
+        "path": "/culture/台灣宗教與寺廟文化/",
+        "title": "台灣宗教與寺廟文化",
         "views": 18,
-        "users": 14,
-        "events": 47
+        "users": 17,
+        "events": 51
       },
       {
-        "path": "/culture/台灣感性/",
-        "title": "台灣感性：韓國人眼中的台式美學",
-        "views": 17,
-        "users": 13,
-        "events": 56
+        "path": "/food/夜市文化/",
+        "title": "夜市文化",
+        "views": 18,
+        "users": 5,
+        "events": 42
       },
       {
-        "path": "/lifestyle/小綠人/",
-        "title": "小綠人：從交通號誌到國家符號的25年傳奇",
-        "views": 17,
-        "users": 14,
-        "events": 50
+        "path": "/history/戒嚴時期/",
+        "title": "戒嚴時期",
+        "views": 18,
+        "users": 7,
+        "events": 31
+      },
+      {
+        "path": "/music/台灣聲音地景/",
+        "title": "台灣聲音地景",
+        "views": 16,
+        "users": 16,
+        "events": 42
       },
       {
         "path": "/en/history/taiwan-economic-miracle-from-agriculture-to-asian-tiger/",
@@ -271,32 +278,25 @@
         "events": 45
       },
       {
-        "path": "/food/夜市文化/",
-        "title": "夜市文化",
+        "path": "/en/society/taiwan-urban-development-and-rural-urban-divide/",
+        "title": "Taiwan's Urban Development and the Rural-Urban Divide",
         "views": 15,
-        "users": 4,
+        "users": 1,
         "events": 35
       },
       {
-        "path": "/food/珍珠奶茶/",
-        "title": "珍珠奶茶",
+        "path": "/music/台灣國樂/",
+        "title": "台灣國樂：中國樂器上長出來的島嶼聲音",
         "views": 15,
-        "users": 10,
-        "events": 41
+        "users": 9,
+        "events": 44
       },
       {
-        "path": "/music/台灣聲音地景/",
-        "title": "台灣聲音地景",
-        "views": 15,
-        "users": 14,
-        "events": 36
-      },
-      {
-        "path": "/history/台灣白色恐怖/",
-        "title": "台灣白色恐怖",
+        "path": "/culture/台灣感性/",
+        "title": "台灣感性：韓國人眼中的台式美學",
         "views": 14,
-        "users": 14,
-        "events": 45
+        "users": 13,
+        "events": 40
       }
     ]
   },
@@ -558,64 +558,64 @@
     }
   ],
   "searchConsole7d": {
-    "label": "2026-04-04 to 2026-04-11 (7d)",
-    "startDate": "2026-04-04",
-    "endDate": "2026-04-11",
+    "label": "2026-04-06 to 2026-04-13 (7d)",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-13",
     "days": 7,
     "totals": {
-      "clicks": 113,
-      "impressions": 1268,
-      "ctr": 8.91
+      "clicks": 136,
+      "impressions": 1306,
+      "ctr": 10.41
     },
     "topQueries": [
       {
-        "query": "taiwan.md",
-        "clicks": 50,
-        "impressions": 69,
-        "ctr": 72.46,
-        "position": 1.33
-      },
-      {
         "query": "taiwan md",
-        "clicks": 29,
-        "impressions": 48,
-        "ctr": 60.42,
-        "position": 1.06
+        "clicks": 49,
+        "impressions": 76,
+        "ctr": 64.47,
+        "position": 1.04
       },
       {
-        "query": "taiwanmd",
-        "clicks": 3,
-        "impressions": 10,
-        "ctr": 30.0,
-        "position": 1
+        "query": "taiwan.md",
+        "clicks": 43,
+        "impressions": 62,
+        "ctr": 69.35,
+        "position": 1.34
+      },
+      {
+        "query": "張懸",
+        "clicks": 9,
+        "impressions": 150,
+        "ctr": 6.0,
+        "position": 8.08
       },
       {
         "query": "台灣用語轉換器",
         "clicks": 3,
-        "impressions": 12,
-        "ctr": 25.0,
-        "position": 6
+        "impressions": 14,
+        "ctr": 21.43,
+        "position": 6.43
       },
       {
-        "query": "md taiwan",
+        "query": "taiwanmd",
         "clicks": 2,
-        "impressions": 50,
-        "ctr": 4.0,
-        "position": 5.38
+        "impressions": 13,
+        "ctr": 15.38,
+        "position": 1
       },
       {
         "query": "吳哲宇",
         "clicks": 2,
-        "impressions": 46,
-        "ctr": 4.35,
-        "position": 9.57
+        "impressions": 51,
+        "ctr": 3.92,
+        "position": 10.18
       },
       {
         "query": "夜市文化",
         "clicks": 2,
-        "impressions": 13,
-        "ctr": 15.38,
-        "position": 8.85
+        "impressions": 20,
+        "ctr": 10.0,
+        "position": 8.5
       },
       {
         "query": "228事件白色恐怖",
@@ -634,23 +634,30 @@
       {
         "query": "md",
         "clicks": 1,
-        "impressions": 137,
-        "ctr": 0.73,
-        "position": 10.4
+        "impressions": 210,
+        "ctr": 0.48,
+        "position": 10.34
+      },
+      {
+        "query": "md taiwan",
+        "clicks": 1,
+        "impressions": 52,
+        "ctr": 1.92,
+        "position": 4.88
       },
       {
         "query": "taiwan svg",
         "clicks": 1,
-        "impressions": 6,
-        "ctr": 16.67,
-        "position": 4.33
+        "impressions": 3,
+        "ctr": 33.33,
+        "position": 5.33
       },
       {
         "query": "taiwanese funeral customs",
         "clicks": 1,
-        "impressions": 1,
-        "ctr": 100,
-        "position": 8
+        "impressions": 3,
+        "ctr": 33.33,
+        "position": 8.67
       },
       {
         "query": "taiwanmd.eth",
@@ -660,68 +667,49 @@
         "position": 1
       },
       {
+        "query": "中國用語轉換",
+        "clicks": 1,
+        "impressions": 4,
+        "ctr": 25.0,
+        "position": 9
+      },
+      {
         "query": "台灣便利商店文化",
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 33.33,
-        "position": 1
+        "impressions": 5,
+        "ctr": 20.0,
+        "position": 3.6
       },
       {
         "query": "台灣便利商店特色",
         "clicks": 1,
-        "impressions": 5,
-        "ctr": 20.0,
-        "position": 6.4
+        "impressions": 4,
+        "ctr": 25.0,
+        "position": 6
       },
       {
         "query": "台灣前50大企業排名2025",
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 33.33,
-        "position": 8.67
-      },
-      {
-        "query": "台灣原住民16族分布圖",
-        "clicks": 1,
-        "impressions": 2,
-        "ctr": 50.0,
-        "position": 11
+        "impressions": 4,
+        "ctr": 25.0,
+        "position": 6.75
       },
       {
         "query": "台灣手搖飲文化",
         "clicks": 1,
-        "impressions": 3,
-        "ctr": 33.33,
-        "position": 7.67
+        "impressions": 4,
+        "ctr": 25.0,
+        "position": 8.75
       },
       {
         "query": "台灣早餐文化",
         "clicks": 1,
-        "impressions": 4,
-        "ctr": 25.0,
-        "position": 9.75
-      },
-      {
-        "query": "台灣輪廓圖",
-        "clicks": 1,
-        "impressions": 5,
-        "ctr": 20.0,
-        "position": 5.4
+        "impressions": 7,
+        "ctr": 14.29,
+        "position": 6.86
       }
     ],
     "opportunities": [
-      {
-        "query": "mayday ashin birthplace tainan",
-        "clicks": 0,
-        "impressions": 106,
-        "position": 8.21
-      },
-      {
-        "query": "mayday ashin birthplace",
-        "clicks": 0,
-        "impressions": 42,
-        "position": 9.02
-      },
       {
         "query": "\"lu yen-hsun\" trained at",
         "clicks": 0,
@@ -729,83 +717,95 @@
         "position": 2.71
       },
       {
-        "query": "mayday (taiwanese band)",
-        "clicks": 0,
-        "impressions": 35,
-        "position": 9.03
-      },
-      {
-        "query": "mayday chinese band",
-        "clicks": 0,
-        "impressions": 27,
-        "position": 6.93
-      },
-      {
-        "query": "mayday band",
-        "clicks": 0,
-        "impressions": 23,
-        "position": 18.43
-      },
-      {
         "query": "\"臺灣原住民建築的生態智慧與可持續發展\"",
         "clicks": 0,
-        "impressions": 22,
-        "position": 2.82
+        "impressions": 33,
+        "position": 2.64
       },
       {
-        "query": "mayday band members birthplace tainan",
+        "query": ".md",
         "clicks": 0,
         "impressions": 21,
-        "position": 9.86
+        "position": 9.14
       },
       {
-        "query": "association celebrating all hakka music forced to change name only folk music authentic",
+        "query": "chi-huey wong date of birth",
         "clicks": 0,
         "impressions": 18,
-        "position": 4.06
+        "position": 6.11
+      },
+      {
+        "query": "\"台灣原住民建築的生態智慧與可持續發展\"",
+        "clicks": 0,
+        "impressions": 14,
+        "position": 4.07
+      },
+      {
+        "query": "cheng li-wun education",
+        "clicks": 0,
+        "impressions": 13,
+        "position": 6.08
+      },
+      {
+        "query": "bobby chen",
+        "clicks": 0,
+        "impressions": 11,
+        "position": 10.18
       },
       {
         "query": "chi-huey wong born",
         "clicks": 0,
-        "impressions": 14,
-        "position": 5.93
+        "impressions": 11,
+        "position": 5
+      },
+      {
+        "query": "\"taiwan armand pine\"",
+        "clicks": 0,
+        "impressions": 10,
+        "position": 6.2
+      },
+      {
+        "query": "association celebrating all hakka music forced to change name only folk music authentic",
+        "clicks": 0,
+        "impressions": 10,
+        "position": 4.5
       }
     ],
     "wordCloud": [
       {
         "query": "md",
-        "impressions": 137,
+        "impressions": 210,
         "clicks": 1
       },
       {
-        "query": "mayday ashin birthplace tainan",
-        "impressions": 106,
-        "clicks": 0
-      },
-      {
-        "query": "taiwan.md",
-        "impressions": 69,
-        "clicks": 50
-      },
-      {
-        "query": "md taiwan",
-        "impressions": 50,
-        "clicks": 2
+        "query": "張懸",
+        "impressions": 150,
+        "clicks": 9
       },
       {
         "query": "taiwan md",
-        "impressions": 48,
-        "clicks": 29
+        "impressions": 76,
+        "clicks": 49
+      },
+      {
+        "query": "taiwan.md",
+        "impressions": 62,
+        "clicks": 43
+      },
+      {
+        "query": "md taiwan",
+        "impressions": 52,
+        "clicks": 1
+      },
+      {
+        "query": "鄭麗文是外省人嗎",
+        "impressions": 52,
+        "clicks": 1
       },
       {
         "query": "吳哲宇",
-        "impressions": 46,
+        "impressions": 51,
         "clicks": 2
-      },
-      {
-        "query": "mayday ashin birthplace",
-        "impressions": 42,
-        "clicks": 0
       },
       {
         "query": "\"lu yen-hsun\" trained at",
@@ -813,94 +813,79 @@
         "clicks": 0
       },
       {
-        "query": "mayday (taiwanese band)",
-        "impressions": 35,
-        "clicks": 0
-      },
-      {
-        "query": "mayday chinese band",
-        "impressions": 27,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band",
-        "impressions": 23,
-        "clicks": 0
-      },
-      {
         "query": "\"臺灣原住民建築的生態智慧與可持續發展\"",
-        "impressions": 22,
+        "impressions": 33,
         "clicks": 0
       },
       {
-        "query": "植劇場",
-        "impressions": 21,
+        "query": "台灣邦交國2026",
+        "impressions": 26,
         "clicks": 1
       },
       {
-        "query": "mayday band members birthplace tainan",
+        "query": "焦安溥",
+        "impressions": 24,
+        "clicks": 1
+      },
+      {
+        "query": ".md",
         "impressions": 21,
-        "clicks": 0
-      },
-      {
-        "query": "association celebrating all hakka music forced to change name only folk music authentic",
-        "impressions": 18,
-        "clicks": 0
-      },
-      {
-        "query": "chi-huey wong born",
-        "impressions": 14,
-        "clicks": 0
-      },
-      {
-        "query": "mayday chinese",
-        "impressions": 14,
         "clicks": 0
       },
       {
         "query": "夜市文化",
-        "impressions": 13,
+        "impressions": 20,
         "clicks": 2
       },
       {
-        "query": "may day taiwan",
-        "impressions": 13,
+        "query": "chi-huey wong date of birth",
+        "impressions": 18,
         "clicks": 0
+      },
+      {
+        "query": "대만 기후",
+        "impressions": 15,
+        "clicks": 1
       },
       {
         "query": "台灣用語轉換器",
-        "impressions": 12,
+        "impressions": 14,
         "clicks": 3
       },
       {
-        "query": "mayday band taiwan",
-        "impressions": 12,
-        "clicks": 0
+        "query": "植劇場",
+        "impressions": 14,
+        "clicks": 1
       },
       {
-        "query": "chao tsun cheng",
-        "impressions": 11,
-        "clicks": 0
-      },
-      {
-        "query": "jolin tsai",
-        "impressions": 11,
-        "clicks": 0
-      },
-      {
-        "query": "masa mayday birthplace tainan",
-        "impressions": 11,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band members",
-        "impressions": 11,
+        "query": "\"台灣原住民建築的生態智慧與可持續發展\"",
+        "impressions": 14,
         "clicks": 0
       },
       {
         "query": "taiwanmd",
-        "impressions": 10,
-        "clicks": 3
+        "impressions": 13,
+        "clicks": 2
+      },
+      {
+        "query": "cheng li-wun education",
+        "impressions": 13,
+        "clicks": 0
+      },
+      {
+        "query": "數據台灣",
+        "impressions": 11,
+        "clicks": 1
+      },
+      {
+        "query": "bobby chen",
+        "impressions": 11,
+        "clicks": 0
+      },
+      {
+        "query": "chi-huey wong born",
+        "impressions": 11,
+        "clicks": 0
       },
       {
         "query": "\"taiwan armand pine\"",
@@ -908,112 +893,82 @@
         "clicks": 0
       },
       {
-        "query": "\"台灣原住民建築的生態智慧與可持續發展\"",
+        "query": "association celebrating all hakka music forced to change name only folk music authentic",
         "impressions": 10,
-        "clicks": 0
-      },
-      {
-        "query": "jolin tsai chinese name",
-        "impressions": 10,
-        "clicks": 0
-      },
-      {
-        "query": "mayday group taiwan",
-        "impressions": 10,
-        "clicks": 0
-      },
-      {
-        "query": ".md",
-        "impressions": 9,
-        "clicks": 0
-      },
-      {
-        "query": "jj lin nationality",
-        "impressions": 8,
-        "clicks": 0
-      },
-      {
-        "query": "lai ching-te biography political career",
-        "impressions": 8,
-        "clicks": 0
-      },
-      {
-        "query": "lin jun jie",
-        "impressions": 8,
         "clicks": 0
       },
       {
         "query": "\"chi-huey wong\" born",
-        "impressions": 7,
+        "impressions": 9,
         "clicks": 0
       },
       {
-        "query": "countries with diplomatic relations with taiwan 2026",
-        "impressions": 7,
-        "clicks": 0
-      },
-      {
-        "query": "jj lin secondary school",
-        "impressions": 7,
-        "clicks": 0
-      },
-      {
-        "query": "masa mayday birthplace",
-        "impressions": 7,
-        "clicks": 0
-      },
-      {
-        "query": "taiwan svg",
-        "impressions": 6,
-        "clicks": 1
-      },
-      {
-        "query": "chi-huey wong date of birth",
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "query": "m.d.",
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "query": "mayday ashin born in tainan",
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "query": "mayday ashin born tainan",
-        "impressions": 6,
-        "clicks": 0
-      },
-      {
-        "query": "台灣便利商店特色",
-        "impressions": 5,
-        "clicks": 1
-      },
-      {
-        "query": "台灣輪廓圖",
-        "impressions": 5,
-        "clicks": 1
-      },
-      {
-        "query": "hokkien pop",
-        "impressions": 5,
-        "clicks": 0
-      },
-      {
-        "query": "jiutian xuannu",
-        "impressions": 5,
-        "clicks": 0
-      },
-      {
-        "query": "lai ching-te biography taiwan president",
-        "impressions": 5,
+        "query": "crown lu",
+        "impressions": 8,
         "clicks": 0
       },
       {
         "query": "台灣早餐文化",
+        "impressions": 7,
+        "clicks": 1
+      },
+      {
+        "query": "chao tsun cheng",
+        "impressions": 6,
+        "clicks": 0
+      },
+      {
+        "query": "jj lin biography",
+        "impressions": 6,
+        "clicks": 0
+      },
+      {
+        "query": "台灣便利商店文化",
+        "impressions": 5,
+        "clicks": 1
+      },
+      {
+        "query": "andré chiang cuisine",
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "query": "ashin mayday birthplace tainan",
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "query": "current diplomatic allies of taiwan 2026",
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "query": "hsinchu science park established 1980 official",
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "query": "hsu cho-yun teacher archaeologist",
+        "impressions": 5,
+        "clicks": 0
+      },
+      {
+        "query": "中國用語轉換",
+        "impressions": 4,
+        "clicks": 1
+      },
+      {
+        "query": "台灣便利商店特色",
+        "impressions": 4,
+        "clicks": 1
+      },
+      {
+        "query": "台灣前50大企業排名2025",
+        "impressions": 4,
+        "clicks": 1
+      },
+      {
+        "query": "台灣手搖飲文化",
         "impressions": 4,
         "clicks": 1
       },
@@ -1028,17 +983,47 @@
         "clicks": 0
       },
       {
-        "query": "andré chiang cuisine",
+        "query": "\"台灣原住民建築的生態智慧與可持續發展\" 林志宏 2011",
         "impressions": 4,
         "clicks": 0
       },
       {
-        "query": "golden melody award for best music video wikipedia",
+        "query": "asus是什麼",
         "impressions": 4,
         "clicks": 0
       },
       {
-        "query": "hsu cho-yun teacher archaeologist",
+        "query": "cheng li-wun parents",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "cheng li-wun wikipedia",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "chien ming wang",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "countries with diplomatic relations with taiwan 2026",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "giant manufacturing taiwan",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "gwei lun-mei",
+        "impressions": 4,
+        "clicks": 0
+      },
+      {
+        "query": "hokkien pop",
         "impressions": 4,
         "clicks": 0
       },
@@ -1048,77 +1033,27 @@
         "clicks": 0
       },
       {
-        "query": "jiutian xuannü",
+        "query": "jiutian xuannu",
         "impressions": 4,
         "clicks": 0
       },
       {
-        "query": "jj lin biography",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "jolin tsai age",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "jolin tsai debut",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "kuai kuai culture",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "lai ching-te biography early life education political career taiwan",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "mark liu tsmc biography",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "masa mayday born in tainan",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band ashin birthplace tainan",
-        "impressions": 4,
-        "clicks": 0
-      },
-      {
-        "query": "台灣便利商店文化",
+        "query": "taiwan svg",
         "impressions": 3,
         "clicks": 1
       },
       {
-        "query": "台灣前50大企業排名2025",
+        "query": "taiwanese funeral customs",
         "impressions": 3,
         "clicks": 1
       },
       {
-        "query": "台灣手搖飲文化",
+        "query": "手搖飲文化",
         "impressions": 3,
         "clicks": 1
       },
       {
-        "query": "產業轉型",
-        "impressions": 3,
-        "clicks": 1
-      },
-      {
-        "query": "賴清德 公衛",
-        "impressions": 3,
-        "clicks": 1
-      },
-      {
-        "query": "\"taiwan's kitchen\" tainan",
+        "query": "2026台灣邦交國",
         "impressions": 3,
         "clicks": 0
       },
@@ -1128,22 +1063,7 @@
         "clicks": 0
       },
       {
-        "query": "chen shui-bian biography",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "chou tzu yu",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "current diplomatic allies of taiwan 2026",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "data taiwan",
+        "query": "chi kuai meaning",
         "impressions": 3,
         "clicks": 0
       },
@@ -1158,52 +1078,17 @@
         "clicks": 0
       },
       {
-        "query": "gwei lun-mei",
+        "query": "golden melody award for best music video wikipedia",
         "impressions": 3,
         "clicks": 0
       },
       {
-        "query": "list of taiwan diplomatic allies 2026",
+        "query": "jam hsiao chinese name",
         "impressions": 3,
         "clicks": 0
       },
       {
-        "query": "list of taiwan's diplomatic allies 2026",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "luo dayou birthplace nationality",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "mark liu tsmc biography education career",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "may day band",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "mayday",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band member birthplace tainan",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band vocalist ashin birthplace tainan",
-        "impressions": 3,
-        "clicks": 0
-      },
-      {
-        "query": "mayday masa",
+        "query": "japanese colonial taiwan infrastructure railways",
         "impressions": 3,
         "clicks": 0
       },
@@ -1218,12 +1103,7 @@
         "clicks": 1
       },
       {
-        "query": "台灣原住民16族分布圖",
-        "impressions": 2,
-        "clicks": 1
-      },
-      {
-        "query": "台灣邦交國有幾個",
+        "query": "產業轉型",
         "impressions": 2,
         "clicks": 1
       },
@@ -1233,17 +1113,12 @@
         "clicks": 0
       },
       {
-        "query": "2026台灣邦交國",
+        "query": "\"cho-yun hsu\" mentor",
         "impressions": 2,
         "clicks": 0
       },
       {
-        "query": "228 incident taiwan detailed history",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "228 incident taiwan history",
+        "query": "\"地理分界点\" 郁永河",
         "impressions": 2,
         "clicks": 0
       },
@@ -1253,17 +1128,47 @@
         "clicks": 0
       },
       {
-        "query": "ang lee official website",
+        "query": "ai相關產業",
         "impressions": 2,
         "clicks": 0
       },
       {
-        "query": "ashin mayday birthplace tainan",
+        "query": "alien art center kaohsiung",
         "impressions": 2,
         "clicks": 0
       },
       {
-        "query": "bobby chen",
+        "query": "architecture of taiwan",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "ashin mayday born tainan",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "che-yu wu",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "chen shui-bian biography",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "cho-yun hsu phd advisor",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "cho-yun hsu teacher li chi",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "chou tzu yu",
         "impressions": 2,
         "clicks": 0
       },
@@ -1278,12 +1183,27 @@
         "clicks": 0
       },
       {
+        "query": "countries with formal diplomatic relations with taiwan 2026",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
         "query": "current number of diplomatic allies of taiwan 2026",
         "impressions": 2,
         "clicks": 0
       },
       {
+        "query": "current number of taiwan diplomatic allies 2026",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
         "query": "first cable railway taiwan 1950",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "giant manufacturing",
         "impressions": 2,
         "clicks": 0
       },
@@ -1298,12 +1218,22 @@
         "clicks": 0
       },
       {
+        "query": "gwei lun mei",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "hakka in taiwan",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
         "query": "hokkien song taiwan",
         "impressions": 2,
         "clicks": 0
       },
       {
-        "query": "how old is jolin",
+        "query": "how many people live in taipei",
         "impressions": 2,
         "clicks": 0
       },
@@ -1313,12 +1243,27 @@
         "clicks": 0
       },
       {
+        "query": "hsu cho-yun li ji mentor",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
         "query": "indie music scene worldwide",
         "impressions": 2,
         "clicks": 0
       },
       {
-        "query": "is jj lin taiwanese",
+        "query": "is baseball big in taiwan",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "is taipei a megacity",
+        "impressions": 2,
+        "clicks": 0
+      },
+      {
+        "query": "is taipei zoo ethical",
         "impressions": 2,
         "clicks": 0
       },
@@ -1333,72 +1278,22 @@
         "clicks": 0
       },
       {
-        "query": "japanese colonial taiwan infrastructure railways",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "jj lin from where",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "leopard cat taiwan",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "list of diplomatic allies of taiwan 2026",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "lung ying-tai biography",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "m d",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "mayday age",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band member from tainan",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
-        "query": "mayday band members ages 2026",
-        "impressions": 2,
-        "clicks": 0
-      },
-      {
         "query": "hakka floral fabric",
         "impressions": 1,
         "clicks": 1
       },
       {
-        "query": "taiwanese funeral customs",
-        "impressions": 1,
-        "clicks": 1
-      },
-      {
-        "query": "周杰倫 出生地",
-        "impressions": 1,
-        "clicks": 1
-      },
-      {
-        "query": "手搖飲文化",
-        "impressions": 1,
-        "clicks": 1
-      },
-      {
         "query": "智飛科技",
+        "impressions": 1,
+        "clicks": 1
+      },
+      {
+        "query": "曹瑞原",
+        "impressions": 1,
+        "clicks": 1
+      },
+      {
+        "query": "翁佳音",
         "impressions": 1,
         "clicks": 1
       },
@@ -1409,6 +1304,11 @@
       },
       {
         "query": "\"cho-yun hsu\" teacher",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "\"formed in 1999\" band \"folk music\" \"modern rock\"",
         "impressions": 1,
         "clicks": 0
       },
@@ -1433,17 +1333,22 @@
         "clicks": 0
       },
       {
-        "query": "\"non-destructive\" exporter",
-        "impressions": 1,
-        "clicks": 0
-      },
-      {
         "query": "\"senior animators\" \"expansion\" \"2000s\"",
         "impressions": 1,
         "clicks": 0
       },
       {
-        "query": "\"台灣原住民建築的生態智慧與可持續發展\" 林志宏 2011",
+        "query": "\"studied under\" \"cho-yun hsu\"",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "\"taiwan's kitchen\" tainan",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "\"臺灣原住民建築的生態智慧與可持續發展\" 林志宏 2011",
         "impressions": 1,
         "clicks": 0
       },
@@ -1453,12 +1358,52 @@
         "clicks": 0
       },
       {
+        "query": "(md)",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "228 incident taiwan history",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
         "query": "2nd taiwan strait crisis",
         "impressions": 1,
         "clicks": 0
       },
       {
-        "query": "asus是什麼",
+        "query": "a-mei",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "ai 相關產業",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "alien art centre",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "alien art museum",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "ang lee production designer taiwanese",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "app",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "ashin mayday birthplace",
         "impressions": 1,
         "clicks": 0
       },
@@ -1473,12 +1418,27 @@
         "clicks": 0
       },
       {
-        "query": "c. c. wei",
+        "query": "baseball in taiwan",
         "impressions": 1,
         "clicks": 0
       },
       {
-        "query": "c.c. wei tsmc ceo biography",
+        "query": "bunun tribe pasibutbut eight-part polyphony meaning",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "c.c. wei tsmc biography",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "campus folk song",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "chen chien-jen",
         "impressions": 1,
         "clicks": 0
       },
@@ -1493,7 +1453,42 @@
         "clicks": 0
       },
       {
+        "query": "cheng li wun education",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "cheng li wun wiki",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "cheng li-wen biography taiwan politician",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "cheng li-wun cambridge",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
         "query": "chi mei corporation",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "chien ming wang sinker",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "chien-jen chen",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "chien-ming wang yankees",
         "impressions": 1,
         "clicks": 0
       },
@@ -1503,12 +1498,22 @@
         "clicks": 0
       },
       {
-        "query": "chinese goddess of war",
+        "query": "cho-yun hsu li chi student",
         "impressions": 1,
         "clicks": 0
       },
       {
-        "query": "cho-yun hsu teacher li chi",
+        "query": "cho-yun hsu mentor li chi",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "cho-yun hsu university of pittsburgh",
+        "impressions": 1,
+        "clicks": 0
+      },
+      {
+        "query": "chou chao-hsien",
         "impressions": 1,
         "clicks": 0
       },
@@ -1516,133 +1521,150 @@
         "query": "chou tzuyu",
         "impressions": 1,
         "clicks": 0
-      },
-      {
-        "query": "compal odm",
-        "impressions": 1,
-        "clicks": 0
       }
     ]
   },
   "cloudflare7d": {
-    "label": "2026-04-06 to 2026-04-13 (7d)",
-    "startDate": "2026-04-06",
-    "endDate": "2026-04-13",
+    "label": "2026-04-08 to 2026-04-15 (7d)",
+    "startDate": "2026-04-08",
+    "endDate": "2026-04-15",
     "days": 7,
     "summary": {
-      "requests": 102141,
-      "pageViews": 30222,
-      "uniques": 21500,
-      "cachedRequests": 12174,
-      "threats": 13,
-      "bytes": 4585794213
+      "requests": 174830,
+      "pageViews": 48168,
+      "uniques": 34022,
+      "cachedRequests": 24118,
+      "threats": 79,
+      "bytes": 8050333000
     },
     "statusBreakdown": [
       {
         "status": 200,
-        "count": 69027
-      },
-      {
-        "status": 404,
-        "count": 11260
+        "count": 117922
       },
       {
         "status": 204,
-        "count": 11167
+        "count": 20635
+      },
+      {
+        "status": 404,
+        "count": 19241
       },
       {
         "status": 301,
-        "count": 9397
+        "count": 14498
       },
       {
         "status": 304,
-        "count": 792
+        "count": 1519
       },
       {
         "status": 206,
-        "count": 365
+        "count": 633
       },
       {
         "status": 499,
-        "count": 97
-      },
-      {
-        "status": 405,
-        "count": 14
+        "count": 157
       },
       {
         "status": 403,
-        "count": 13
+        "count": 95
+      },
+      {
+        "status": 414,
+        "count": 89
+      },
+      {
+        "status": 405,
+        "count": 24
       },
       {
         "status": 503,
-        "count": 9
+        "count": 17
       }
     ],
-    "fourOhFourRate": 11.02,
+    "fourOhFourRate": 11.01,
     "traffic": {
       "topCountries": [
         {
           "country": "Taiwan",
           "code": "TW",
-          "requests": 39004
+          "requests": 71697
         },
         {
           "country": "United States",
           "code": "US",
-          "requests": 32971
+          "requests": 50927
         },
         {
           "country": "Singapore",
           "code": "SG",
-          "requests": 10160
+          "requests": 15723
         },
         {
           "country": "China",
           "code": "CN",
-          "requests": 3426
+          "requests": 5509
         },
         {
           "country": "Canada",
           "code": "CA",
-          "requests": 3410
-        },
-        {
-          "country": "Japan",
-          "code": "JP",
-          "requests": 2419
-        },
-        {
-          "country": "Hong Kong",
-          "code": "HK",
-          "requests": 1395
+          "requests": 4582
         },
         {
           "country": "France",
           "code": "FR",
-          "requests": 1205
+          "requests": 4355
+        },
+        {
+          "country": "Japan",
+          "code": "JP",
+          "requests": 4250
+        },
+        {
+          "country": "Hong Kong",
+          "code": "HK",
+          "requests": 2760
+        },
+        {
+          "country": "Russia",
+          "code": "RU",
+          "requests": 2222
         },
         {
           "country": "Australia",
           "code": "AU",
-          "requests": 1060
-        },
-        {
-          "country": "United Kingdom",
-          "code": "GB",
-          "requests": 838
+          "requests": 1630
         }
       ]
     },
     "dailyBreakdown": [
       {
+        "date": "2026-04-15",
+        "requests": 26327,
+        "pageViews": 6638,
+        "cachedRequests": 3634,
+        "threats": 54,
+        "bytes": 1269151229,
+        "uniques": 4868
+      },
+      {
+        "date": "2026-04-14",
+        "requests": 38323,
+        "pageViews": 9405,
+        "cachedRequests": 7191,
+        "threats": 9,
+        "bytes": 1827162112,
+        "uniques": 6157
+      },
+      {
         "date": "2026-04-13",
-        "requests": 30478,
-        "pageViews": 5771,
-        "cachedRequests": 7287,
-        "threats": 0,
-        "bytes": 1425097017,
-        "uniques": 4489
+        "requests": 38517,
+        "pageViews": 7674,
+        "cachedRequests": 8406,
+        "threats": 3,
+        "bytes": 1793322463,
+        "uniques": 5986
       },
       {
         "date": "2026-04-12",
@@ -1682,123 +1704,123 @@
       }
     ],
     "aiCrawlers": {
-      "detectedRequests": 25505,
-      "http200": 15941,
-      "allowedRequests": 25505,
-      "unsuccessfulRequests": 9564,
+      "detectedRequests": 39630,
+      "http200": 25515,
+      "allowedRequests": 39630,
+      "unsuccessfulRequests": 14115,
       "topCrawler": {
         "name": "FacebookBot",
-        "requests": 3866,
-        "http200": 3563,
+        "requests": 6745,
+        "http200": 6277,
         "category": "Meta"
       },
       "crawlers": [
         {
           "name": "FacebookBot",
-          "requests": 3866,
-          "http200": 3563,
+          "requests": 6745,
+          "http200": 6277,
           "category": "Meta"
         },
         {
-          "name": "Amazonbot",
-          "requests": 3598,
-          "http200": 1848,
-          "category": "Amazon"
-        },
-        {
-          "name": "PetalBot",
-          "requests": 3500,
-          "http200": 2835,
-          "category": "Huawei"
-        },
-        {
           "name": "PerplexityBot",
-          "requests": 3339,
-          "http200": 1498,
+          "requests": 5022,
+          "http200": 2329,
           "category": "Perplexity"
         },
         {
+          "name": "PetalBot",
+          "requests": 4605,
+          "http200": 3921,
+          "category": "Huawei"
+        },
+        {
           "name": "BingBot",
-          "requests": 2815,
-          "http200": 1425,
+          "requests": 4192,
+          "http200": 2110,
           "category": "Microsoft"
         },
         {
+          "name": "Amazonbot",
+          "requests": 3877,
+          "http200": 1952,
+          "category": "Amazon"
+        },
+        {
           "name": "ChatGPT-User",
-          "requests": 2233,
-          "http200": 1693,
+          "requests": 3314,
+          "http200": 2654,
           "category": "OpenAI"
         },
         {
           "name": "Googlebot",
-          "requests": 1917,
-          "http200": 1292,
+          "requests": 3026,
+          "http200": 1940,
           "category": "Google"
         },
         {
+          "name": "YandexBot",
+          "requests": 2113,
+          "http200": 1337,
+          "category": "Yandex"
+        },
+        {
           "name": "OAI-SearchBot",
-          "requests": 1320,
-          "http200": 412,
+          "requests": 2089,
+          "http200": 705,
           "category": "OpenAI"
         },
         {
-          "name": "Meta-ExternalAgent",
-          "requests": 783,
-          "http200": 257,
-          "category": "Meta"
-        },
-        {
           "name": "Applebot",
-          "requests": 746,
-          "http200": 522,
+          "requests": 1537,
+          "http200": 1112,
           "category": "Apple"
         },
         {
           "name": "GPTBot",
-          "requests": 661,
-          "http200": 197,
+          "requests": 1135,
+          "http200": 380,
           "category": "OpenAI"
         },
         {
+          "name": "Meta-ExternalAgent",
+          "requests": 883,
+          "http200": 273,
+          "category": "Meta"
+        },
+        {
           "name": "ClaudeBot",
-          "requests": 319,
-          "http200": 163,
+          "requests": 524,
+          "http200": 220,
           "category": "Anthropic"
         },
         {
           "name": "Bytespider",
-          "requests": 211,
-          "http200": 99,
+          "requests": 466,
+          "http200": 229,
           "category": "ByteDance"
         },
         {
-          "name": "YandexBot",
-          "requests": 134,
-          "http200": 90,
-          "category": "Yandex"
-        },
-        {
           "name": "DuckDuckBot",
-          "requests": 43,
-          "http200": 28,
+          "requests": 64,
+          "http200": 42,
           "category": "DuckDuckGo"
         },
         {
           "name": "Diffbot",
-          "requests": 11,
-          "http200": 11,
+          "requests": 24,
+          "http200": 24,
           "category": "Diffbot"
         },
         {
           "name": "Perplexity-User",
-          "requests": 9,
-          "http200": 8,
+          "requests": 14,
+          "http200": 10,
           "category": "Perplexity"
         }
       ],
       "period": {
-        "start": "2026-04-06T16:21:29Z",
-        "end": "2026-04-13T16:21:29Z",
+        "start": "2026-04-08T22:39:36Z",
+        "end": "2026-04-15T22:39:36Z",
         "days": 7,
         "daysFetched": 7,
         "daysFailed": 0

@@ -11,6 +11,7 @@ tags:
     'culture',
   ]
 date: 2026-03-17
+translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
 ---
 
 # Vida nocturna y cultura KTV

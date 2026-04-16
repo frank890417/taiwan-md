@@ -14,6 +14,7 @@ date: 2026-03-19
 author: 'Taiwan.md'
 readingTime: 18
 featured: true
+translatedFrom: 'Art/日治時期文學.md'
 ---
 
 # Taiwanese Literature During Japanese Rule

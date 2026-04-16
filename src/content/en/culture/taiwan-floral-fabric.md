@@ -8,6 +8,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣花布.md'
 ---
 
 # Taiwan Floral Fabric

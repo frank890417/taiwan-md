@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 13
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
 ---
 
 # Taiwan's 5G Network Construction and Digital Transformation

@@ -18,6 +18,7 @@ featured: false
 readingTime: 13
 lastVerified: 2026-04-08
 lastHumanReview: false
+translatedFrom: 'Technology/台灣無人機產業.md'
 ---
 
 > **30-Second Overview:** Taiwan's drone industry is in the middle of a geopolitics-fueled boom. The Ministry of National Defense has budgeted NT$50 billion to procure nearly 50,000 military drones, and drones are a core line item in the Executive Yuan's NT$1.25 trillion special defense budget. Thunder Tiger has become the first Taiwanese company to earn U.S. Blue UAS (Blue Unmanned Aircraft Systems) certification. From crop-dusting farmland to battlefield reconnaissance, Taiwan's drone sector is pivoting from contract manufacturing to defense self-reliance — aiming to become the next strategic industry after semiconductors.

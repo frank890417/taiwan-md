@@ -14,6 +14,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 9
 featured: false
+translatedFrom: 'Society/人權與性別平等.md'
 ---
 
 # Derechos Humanos e Igualdad de Género

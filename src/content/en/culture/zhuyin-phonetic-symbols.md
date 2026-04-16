@@ -17,6 +17,7 @@ difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/注音符號.md'
 ---
 
 # Zhuyin Phonetic Symbols: Taiwan's Unique Written Code

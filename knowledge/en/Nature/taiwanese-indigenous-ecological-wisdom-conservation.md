@@ -1,14 +1,24 @@
 ---
-title: "Taiwanese Indigenous Ecological Wisdom and Environmental Conservation"
+title: 'Taiwanese Indigenous Ecological Wisdom and Environmental Conservation'
 description: "Exploring the traditional ecological knowledge accumulated by Taiwan's indigenous peoples over thousands of years, and its important value and practical applications in modern environmental conservation"
 date: 2026-03-20
-tags: [indigenous peoples, ecological wisdom, environmental conservation, traditional knowledge, satoyama initiative, hunting culture, sustainable development]
-author: "Taiwan.md Contributors"
+tags:
+  [
+    indigenous peoples,
+    ecological wisdom,
+    environmental conservation,
+    traditional knowledge,
+    satoyama initiative,
+    hunting culture,
+    sustainable development,
+  ]
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
 category: Nature
 lastVerified: 2026-03-20
 lastHumanReview: false
+translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
 ---
 
 # Taiwanese Indigenous Ecological Wisdom and Environmental Conservation
@@ -176,8 +186,8 @@ Taiwan's indigenous ecological wisdom represents humanity's shared treasure. Fac
 - [Council of Agriculture Forestry Bureau](https://www.forest.gov.tw/) — Indigenous co-management natural resource policies
 - [Academia Sinica Biodiversity Research Center](https://biodiv.sinica.edu.tw/) — Indigenous ecological knowledge research results
 - [Council of Indigenous Peoples](https://www.apc.gov.tw/) — Traditional territories and natural resource management
-- Pei Chia-chi (2020) *Wildlife Conservation and Indigenous Hunting Rights*, Business Weekly Publications
-- Kuan Ta-wei (2019) *Traditional Ecological Wisdom of Indigenous Peoples*, Wu-Nan Publishing
+- Pei Chia-chi (2020) _Wildlife Conservation and Indigenous Hunting Rights_, Business Weekly Publications
+- Kuan Ta-wei (2019) _Traditional Ecological Wisdom of Indigenous Peoples_, Wu-Nan Publishing
 - [Satoyama Initiative International Partnership](https://satoyama-initiative.org/) — International satoyama initiative information
-- Tung Ching-sheng (2018) *Taiwan Indigenous Plant Utilization Records*, COA Forest Research Institute
+- Tung Ching-sheng (2018) _Taiwan Indigenous Plant Utilization Records_, COA Forest Research Institute
 - [UN Convention on Biological Diversity](https://www.cbd.int/) — International standards for traditional knowledge and conservation

@@ -8,6 +8,7 @@ author: Taiwan.md
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Food/客家飲食文化.md'
 ---
 
 # Hakka Food Culture

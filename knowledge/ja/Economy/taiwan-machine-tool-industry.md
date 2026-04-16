@@ -13,6 +13,7 @@ tags:
   - TMTS
   - 産業クラスター
 featured: false
+translatedFrom: 'Economy/台灣機械工具產業.md'
 ---
 
 # 台湾の工作機械産業

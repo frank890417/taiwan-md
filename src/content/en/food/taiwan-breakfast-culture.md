@@ -18,6 +18,7 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
 imageAlt: 'Taiwanese Dan Bing'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+translatedFrom: 'Food/台灣早餐文化.md'
 ---
 
 # Taiwan Breakfast Culture

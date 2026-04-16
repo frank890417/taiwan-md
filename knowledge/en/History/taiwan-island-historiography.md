@@ -8,6 +8,7 @@ author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: true
+translatedFrom: 'History/台灣島史觀.md'
 ---
 
 > **30-second overview:** Taiwan’s history is often told as a sequence of regime changes. Ts’ao Yung-ho (曹永和) flipped that lens: the true subject of Taiwan’s history is the **island itself**. Rulers came and went, but the island remained the stage. This “island historiography” reframes Taiwan from a peripheral appendix to a maritime hub. It highlights how repeated regime shifts forced people on the island to develop a rare ability: adapting, absorbing, and reconstituting institutions into their own civic DNA.

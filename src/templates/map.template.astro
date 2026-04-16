@@ -859,6 +859,7 @@ const routesData = getMapRoutes(t);
 <script
   is:inline
   define:vars={{
+    pageLang: lang,
     i18n_tooltipArticles: t('map.tooltip.county.articles'),
     i18n_tooltipClick: t('map.tooltip.county.click'),
     i18n_readingTime: t('map.tooltip.marker.reading-time'),
@@ -888,6 +889,32 @@ const routesData = getMapRoutes(t);
   const routesData = JSON.parse(
     document.getElementById('mapData').getAttribute('data-routes'),
   );
+
+  /** 側欄：僅顯示與目前頁面語系相同的 markers；若無則 fallback zh-TW */
+  function markerLang(m) {
+    return m.lang || 'zh-TW';
+  }
+  function markersForSidebar(all) {
+    const want =
+      pageLang === 'en' ||
+      pageLang === 'ja' ||
+      pageLang === 'ko' ||
+      pageLang === 'zh-TW'
+        ? pageLang
+        : 'zh-TW';
+    let list = all.filter((m) => markerLang(m) === want);
+    if (list.length === 0) {
+      list = all.filter((m) => markerLang(m) === 'zh-TW');
+    }
+    return list;
+  }
+
+  function localizePathForPage(href) {
+    if (!href || href === '#') return href || '#';
+    if (pageLang === 'zh-TW') return href;
+    if (href.startsWith(`/${pageLang}/`)) return href;
+    return `/${pageLang}${href}`;
+  }
 
   const categoryColors = {
     history: '#e74c3c',
@@ -1262,10 +1289,11 @@ const routesData = getMapRoutes(t);
 
   function generateCategoryArticles() {
     const container = document.getElementById('articlesByCategory');
+    const sidebarMarkers = markersForSidebar(markersData);
 
     // 按分類分組文章
     const articlesByCategory = {};
-    markersData.forEach((marker) => {
+    sidebarMarkers.forEach((marker) => {
       const category = marker.category;
       if (!articlesByCategory[category]) {
         articlesByCategory[category] = [];
@@ -1350,8 +1378,9 @@ const routesData = getMapRoutes(t);
   }
 
   function showCountyArticles(countyName, region) {
+    const sidebarMarkers = markersForSidebar(markersData);
     // 過濾該縣市的文章
-    const countyArticles = markersData.filter((m) => {
+    const countyArticles = sidebarMarkers.filter((m) => {
       // 精確匹配城市或縣市名稱
       const cityMatch =
         m.city &&
@@ -1454,9 +1483,10 @@ const routesData = getMapRoutes(t);
   }
 
   function updateStatistics() {
+    const sidebarMarkers = markersForSidebar(markersData);
     // 計算分類統計
     const categoryStats = {};
-    markersData.forEach((marker) => {
+    sidebarMarkers.forEach((marker) => {
       categoryStats[marker.category] =
         (categoryStats[marker.category] || 0) + 1;
     });
@@ -1736,19 +1766,29 @@ const routesData = getMapRoutes(t);
   }
 
   function showRouteStop(route, stop, index) {
-    const panel = document.getElementById('infoPanel');
-    document.getElementById('defaultContent').style.display = 'none';
-    document.getElementById('articleContent').style.display = 'block';
+    const defaultSidebar = document.getElementById('sidebarDefault');
+    const countySidebar = document.getElementById('sidebarCounty');
+    const articleSidebar = document.getElementById('sidebarArticle');
+
+    defaultSidebar.style.display = 'none';
+    countySidebar.style.display = 'none';
+    articleSidebar.style.display = 'block';
 
     document.getElementById('articleTitle').textContent =
       `${index + 1}. ${stop.name}`;
-    document.getElementById('articleDesc').textContent = stop.note;
-    document.getElementById('articleLink').href = stop.link;
+    document.getElementById('articleDesc').textContent = stop.note || '';
+    document.getElementById('articleLink').href = localizePathForPage(
+      stop.link || '#',
+    );
 
     const categoryEl = document.getElementById('articleCategory');
     categoryEl.textContent = route.name;
-    categoryEl.style.background = route.color + '20';
+    categoryEl.style.background = route.color + '33';
     categoryEl.style.color = route.color;
+
+    if (window.innerWidth <= 768) {
+      openMobilePanel();
+    }
   }
 
   function initRoutes() {
@@ -1803,14 +1843,14 @@ const routesData = getMapRoutes(t);
     if (routeId) {
       const route = routesData.find((r) => r.id === routeId);
       if (route) {
+        const routeButtons = document.getElementById('routeButtons');
+        routeButtons
+          ?.querySelectorAll('.route-btn')
+          .forEach((b) => b.classList.remove('active'));
         drawRoute(route);
-        // 也 activate 對應按鈕
         document
           .querySelector(`[data-route="${routeId}"]`)
           ?.classList.add('active');
-        document
-          .querySelector(`[data-route="none"]`)
-          ?.classList.remove('active');
       }
     }
 

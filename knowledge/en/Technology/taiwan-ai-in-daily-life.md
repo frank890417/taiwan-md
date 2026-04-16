@@ -18,6 +18,7 @@ category: 'Technology'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
+translatedFrom: 'Technology/台灣AI日常.md'
 ---
 
 > At a neighborhood clinic down the street, a doctor completes a diabetes risk assessment in 25 seconds — a task that used to take 20 minutes. At a FamilyMart, the store manager finalizes today's fresh food order in three minutes instead of fifteen. The customer service reply you got on LINE? That wasn't a person. Taiwanese people interact with AI dozens of times a day, and almost nobody realizes it.

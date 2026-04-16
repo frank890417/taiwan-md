@@ -7,6 +7,7 @@ author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Nature/台灣步道文化與公民守護.md'
 ---
 
 # Trail Culture and Civic Stewardship in Taiwan

@@ -15,6 +15,7 @@ author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 12
 featured: true
+translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
 ---
 
 # Taiwanese Curators and Artistic Cultural Construction

@@ -16,6 +16,7 @@ author: 'Taiwan.md'
 readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
+translatedFrom: 'People/呂冠緯.md'
 ---
 
 # Lu Guan-wei: Making Quality Education Accessible to Every Taiwanese Child

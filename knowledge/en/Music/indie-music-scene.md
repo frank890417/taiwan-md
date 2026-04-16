@@ -3,7 +3,7 @@ title: 'Indie Music Scene'
 description: "From basements to international stages, the flourishing ecosystem and cultural influence of Taiwan's independent music"
 date: 2026-03-17
 tags: [music, indie music, live house, music festivals, underground music]
-translatedFrom: 'knowledge/Music/獨立音樂場景.md'
+translatedFrom: 'Music/台灣獨立音樂.md'
 ---
 
 # Indie Music Scene

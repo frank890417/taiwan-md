@@ -9,6 +9,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
+translatedFrom: 'Economy/台灣企業：台積電.md'
 ---
 
 > **30秒で読む要約**

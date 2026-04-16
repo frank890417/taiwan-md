@@ -16,6 +16,7 @@ difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Economy/台灣產業轉型升級.md'
 ---
 
 # Taiwan's Industrial Transformation: From Manufacturing Powerhouse to Innovation Nation
@@ -464,7 +465,6 @@ From PC chips to mobile and AIoT:
 ## Further Reading
 
 ### Related Articles
-
 
 ### References
 

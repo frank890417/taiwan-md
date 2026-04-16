@@ -1,8 +1,9 @@
 ---
-title: "Democratización"
+title: 'Democratización'
 date: 2026-03-17
 tags: [Historia, Democratización, Política]
-description: "La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios."
+description: 'La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios.'
+translatedFrom: 'History/民主化.md'
 ---
 
 # Democratización de Taiwán
@@ -18,10 +19,12 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 ### Surgimiento Democrático Temprano
 
 **República de Formosa (台灣民主國, 1895)**
+
 - Establecida durante la invasión japonesa, aunque de corta duración, propuso que "todos los funcionarios deben ser elegidos por el pueblo"
 - Considerada una encarnación de los ideales de "la república democrática más antigua de Asia"
 
 **Movimientos Democráticos Durante el Dominio Japonés**
+
 - **Período de la Democracia Taisho** (década de 1910): Los taiwaneses exigieron derechos políticos iguales a los residentes del territorio japonés
 - **1921**: Comenzó el Movimiento de Petición del Parlamento de Taiwán (台灣議會設置請願運動), exigiendo el establecimiento de un parlamento taiwanés
 - **1927**: Fundación del Partido Popular de Taiwán (台灣民眾黨), el primer partido político legal de Taiwán
@@ -30,6 +33,7 @@ La exitosa experiencia de democratización de Taiwán tiene una importancia hist
 ### Retrocesos de Posguerra
 
 **Administración Temprana de la República de China (1945-1949)**
+
 - Se estableció la Oficina Administrativa Ejecutiva Provincial de Taiwán, criticada como "imitando el gobierno dictatorial del Gobernador General japonés"
 - **1947**: Estalló el Incidente del 28 de Febrero (二二八事件), la élite taiwanesa exigió autonomía local pero fue rechazada
 - El mismo año se eligieron los primeros delegados de la Asamblea Nacional, legisladores y miembros del Yuan de Control
@@ -96,6 +100,7 @@ Los logros de democratización de Taiwán han recibido un alto reconocimiento in
 ### Significado de la "Revolución Silenciosa"
 
 La democratización de Taiwán es aclamada como una "Revolución Silenciosa", caracterizada por:
+
 - **Transición Pacífica**: No hubo conflictos violentos a gran escala durante todo el proceso
 - **Construcción Institucional**: Se estableció un marco institucional democrático integral
 - **Consenso Social**: Todas las fuerzas políticas aceptaron básicamente las reglas del juego democrático
@@ -149,7 +154,6 @@ La democratización de Taiwán es aclamada como una "Revolución Silenciosa", ca
 
 ## Temas Relacionados
 
-
 ---
 
-*La democratización de Taiwán demuestra la posibilidad de una transición pacífica, proporcionando una valiosa experiencia para el desarrollo democrático en todo el mundo.*
+_La democratización de Taiwán demuestra la posibilidad de una transición pacífica, proporcionando una valiosa experiencia para el desarrollo democrático en todo el mundo._

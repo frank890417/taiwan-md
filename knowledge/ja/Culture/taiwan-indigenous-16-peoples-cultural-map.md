@@ -15,6 +15,7 @@ date: 2026-03-29
 author: Taiwan.md Translation Team
 readingTime: 9
 lastVerified: 2026-03-29
+translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
 ---
 
 # 台湾原住民族16族文化地図

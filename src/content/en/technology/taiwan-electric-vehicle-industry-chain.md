@@ -15,6 +15,7 @@ difficulty: 'intermediate'
 readingTime: 14
 featured: true
 lastVerified: 2026-03-19
+translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
 ---
 
 # Taiwan Electric Vehicle Industry Chain Development

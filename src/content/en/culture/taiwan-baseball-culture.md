@@ -18,6 +18,7 @@ difficulty: 'beginner'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
+translatedFrom: 'Culture/台灣棒球文化.md'
 ---
 
 # Taiwan Baseball Culture

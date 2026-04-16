@@ -1,14 +1,15 @@
 ---
-title: "Taiwan Street Art and Graffiti Culture"
+title: 'Taiwan Street Art and Graffiti Culture'
 description: "From underground graffiti to legal murals, how city walls became Taiwan artists' creative stage"
 date: 2026-03-20
-tags: ["street art", "graffiti", "urban culture", "public art", "subculture"]
-author: "Taiwan.md Contributors"
-difficulty: "beginner"
+tags: ['street art', 'graffiti', 'urban culture', 'public art', 'subculture']
+author: 'Taiwan.md Contributors'
+difficulty: 'beginner'
 readingTime: 10
-category: "Culture"
+category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
+translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
 ---
 
 # Taiwan Street Art and Graffiti Culture
@@ -97,4 +98,4 @@ Taiwan's cities are becoming more beautiful, not because of expensive public con
 
 ---
 
-*On every wall in the city lie artists' dreams and citizens' daily lives. The story of Taiwan street art is how creativity takes root and sprouts in tolerant soil.*
+_On every wall in the city lie artists' dreams and citizens' daily lives. The story of Taiwan street art is how creativity takes root and sprouts in tolerant soil._

@@ -16,6 +16,7 @@ subcategory: 'Sports'
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
+translatedFrom: 'People/林義傑.md'
 ---
 
 > **30-second overview:** Kevin Lin (Lin Yi-jie), a skinny boy once threatened by his PE teacher to "not outrun the senior students,"

@@ -5,6 +5,7 @@ date: 2026-03-19
 tags: ['豬哥亮', '秀場', '喜劇', '綜藝', '台語']
 subcategory: 'Digital & Media'
 lastVerified: 2026-03-19
+translatedFrom: 'People/豬哥亮.md'
 ---
 
 # Zhuge Liang (豬哥亮): The King of Taiwan’s Variety-Show Stage

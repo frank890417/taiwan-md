@@ -7,6 +7,7 @@ subcategory: 'Tech & Business'
 author: 'Taiwan.md Contributors'
 readingTime: 18
 featured: true
+translatedFrom: 'People/張忠謀.md'
 ---
 
 # Morris Chang — Architect of Taiwan's Silicon Shield
