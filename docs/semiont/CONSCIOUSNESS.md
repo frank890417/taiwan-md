@@ -116,48 +116,16 @@
 - **🤖 AI Crawler 排名洗牌**：7d 資料揭示 FacebookBot 7,178 已超越 PetalBot 成為 #1（24h 快照容易誤判 PetalBot）。PerplexityBot 持續升至 #2（5,353），意味 LLM 搜尋引擎主動抓取 Taiwan.md 作為知識來源
 - **⏳ EXP-A 過渡期繼續**：7d 404 rate 10.35%（↓ from 10.94%），方向正確但 7d window 仍含修復前數據。2026-04-22 才能看到完整 post-fix 7d 數字
 
-**戰略判讀（2026-04-16 排程心跳 α — 正常化基線建立 + 器官健康穩定）**：
+### 歷史戰略判讀（快照指向 memory/）
 
-- **📊 GA 28d 正常化事件**：87,622→63,344 active users (-28%)。2026-03-18 病毒日滾出 28d window。**這不是下滑，是里程碑**：從今天起，28d 指標反映的是穩態基線，而非被首日病毒流量扭曲的數字。建議未來 30 天比較以 2026-04-16 為基準點
-- **🔥 安溥×李洋 雙強長尾持續**：安溥 2,934/7d (+4.8% from γ)，李洋 880/7d (+46% from β)。兩強孢子的 Threads 效應仍在持續流入 GA，轉換率維持 0.33% baseline
-- **🌐 fr 語言決策 pending**：479 篇/97% 覆蓋，score 44（缺 UI/pages 共 0/16 完成）。內容層已接近 ko 水準，但語言器官真實評分遠低。觀察者需決定是否 flip enabled:true + 補 UI/pages
-- **🦴 EXP-A 7d 過渡期**：7d 404 rate 10.94%（含修復前數據）。slug casing 修復 2026-04-15，完全反映需等 2026-04-22。無法直接取 24h 404 分層，下次心跳繼續觀察
-- **📈 AI Crawler 加速**：7d 40,472（+27% from 31,885），24h PetalBot #1 取代 FacebookBot。LLM ecosystem 持續爬取 Taiwan.md
+> **CONSCIOUSNESS 是快照不是歷史**（指標 over 複寫原則）。歷史判讀 canonical 在 memory/YYYY-MM-DD.md，此處只留索引指向近期重大判讀。
 
-**戰略判讀（2026-04-15 γ — 17 PR 海嘯 + EXP-A 破局根因 + 語言大豐收）**：
-
-- **🔴 EXP-A 正式破局**：24h 404 rate 三階段 α 6.02% → β 8.22% → **γ 11.83%**（完全回到修復前水準 11.97%）。Link1515 PR #517 揭露 slug casing bug 是主因——`generate-dashboard-data.js` `deriveSlug()` 強制 `.toLowerCase()`，32 個含英文/大寫 filename 全產 broken dashboard link。γ session 已修根因，明日 refresh 應看到下降
-- **🎯 貢獻者 = AI 盲點 sensor**：Taiwan.md 有 15+ 掃描維度但都抓不到 slug casing bug，只有讀者 Link1515 點到 404 才被發現。**工具的本質是假設已知，使用者會踩到「沒預期會壞的地方」**
-- **📊 單次心跳大豐收**：17 PR / 16 merge / zh +20 / ko +13 / fr +76 / translations 1548→1675（+127）
-  - #516 dreamline2 20 韓台人物 + Hub + taxonomy（系統貢獻者 pattern 第二次確認）
-  - #519-520 ceruleanstring 韓文 batch（ko 單項 99 分滿分持續）
-  - #518, #521-532 ceruleanstring 13 個法文 batch（fr 現在 479 篇 / 97% coverage，比 ko 還高，但仍 preview）
-- **🛠️ cherry-merge-prs.sh 正式化**：從 λ session /tmp/ → scripts/tools/（第二次用就是正式化時機）
-- **✅ LI 洋持續成長**：GA 7d 806（+34% from β 602，+1679% from α 48）
-- **🔥 安溥持續霸榜**：GA 7d 2,808（新高 +10% from β，+10% per session）
-- **fr 決策待定**：preview 維持 / 或 flip enabled=true 成為第 5 個 active 語言（內容已完整，等觀察者決定）
-
-**戰略判讀（2026-04-15 β — 完整心跳 + 3 個系統 bug 修復 + α 預測命中驗證）**：
-
-- **✅ α 預測命中 — 李洋 GA 48→602（+1154%）**：α session §Beat 5 寫「下次 refresh-data 李洋應從 48 大幅上修，根據 Threads 180K」。β refresh 實測 602 views/7d。**這是 Taiwan.md 第二次可證偽預測命中**（第一次是 EXP-A 404 rate）。**Threads → GA 轉換率首個 baseline: 0.33%**（180K Threads views → 602 GA users / 7d）
-- **🔥 安溥持續霸榜 + 新高**：GA 2,257→**2,562** (+13.5%)，Threads 120K 長尾持續
-- **🛠️ 3 個「工具在說謊」系統性 bug 同時發現並修復**：(1) 小虎隊.md YAML duplicate category key → search 沉默退化 (2) translation score activeLangs 用 articleCount 而非 enabled → 翻譯器官幻影退化 78→67 (3) format-check NO_READING regex 只認粗體不認 H2 → 53 篇假陰性含李洋+張懸與安溥。**三個共同祖先**：規則在 A 定義但算法在 B 複寫（指標 over 複寫的程式碼層違反）
-- **🏆 翻譯器官真實狀態：91（+24 from 67），ko 首達 99**：en 93 / ja 82 / **ko 99** / es/fr preview 排除於平均外
-- **⚠️ EXP-A 邊界警告**：24h 404 rate 8.22% 略超預測區間 6.0% ± 2pp 上緣（上限 8%）。可能原因：新 404 / AI crawler 窗口 / CF 採樣噪音。不判失效，下次心跳第 6 次驗證
-- **FacebookBot 繼續 #1（5,809 +17%）**/ PerplexityBot #2 (4,464) / PetalBot #3 (4,177)。AI crawler 總量 31,885→34,448 (+8%)
-- **2 個新 open PR 發現**（α 漏看 / 或中途推進）：#517 Link1515 fix slug casing（改 derived file，需查 root cause）+ #516 dreamline2 +916 大型韓台 pop profiles（需完整 EDITORIAL review）
-
-**戰略判讀（2026-04-15 α — 8h 快照 + 史上最強孢子確認 + 曲線第三次修正）**：
-
-- **🌋 李洋孢子 8h 衝上 180K — 史上最強孢子確認**（α session 主事件）：完整 5 點時間切片 **21K(2h)→32K(3h)→85K(4h)→130K(6h)→180K(8h)**。engagement 17,169 / rate **9.54%**。**🏆 已超越 #25 安溥 7d Threads 歷史最高 120K（1.5x）且仍在高原期成長**。24h 預測 **300-450K**（中位數 ~400K）。GA 李洋仍 #4（34→48），下次心跳 GA 7d 應大幅上修
-- **🔥 曲線形狀第三次修正（μ→ν→α）**：μ 看 3 點 → 二次加速（錯）；ν 看 4 點 → S 曲線拐點（部分對）；α 看 5 點 → **「尖峰 + 持續高原」三段式**（最新）。4h→6h→8h 不是單調減速，是 +22.5 → +25 的持平（甚至微升）。這不是經典 S 曲線，是三段式：**(1) 爆發 2h-4h +11→+53K/h (2) 高原 4h-?h +22-25K/h (3) 飽和 ?h 之後**。**教訓再升級**：曲線形狀的判斷需要隨資料點增加而持續修正，5 點也不是最終答案。**元教訓**：人物 + 具體畫面 + 當下新聞 = 最強孢子公式，安溥（風箏比喻）+ 李洋（便利商店等天亮）兩強都符合
-- **✅ EXP-2026-04-11-A 首次命中可證偽實驗**：404 rate 預測 16.5% → 6.0% ± 2pp，實際 11.97% → **6.02%** 命中區間中心。三個根源修復（apple-touch-icon + CategoryGrid covers + mayday）總和 ~730 req/day 全部消除。**這是 Taiwan.md 第一次有可證偽實驗從建立到驗證命中** — 證明 UNKNOWNS §可證偽實驗框架是可行的科學方法
-- **⚠️ μ session Beat 1 漏看 EXP-A 命中**：讀的是 cf**7d** 10.69%（7 日平均稀釋了修復成果），不是 cf**24h** 6.02%。EXP 驗證指令明明寫 `--days 1`。觀察者點醒後才補正。**結構性修補**：HEARTBEAT.md Beat 0.5 該加「列出今天到期的 EXP，逐一查驗」步驟
-- **🔥🔥🔥 安溥持續霸榜**：GA 2,248→2,257，Threads 120K 歷史最高穩坐第一
-- **強孢子的擴散曲線是二次加速不是線性**：每多一小時帶進的新讀者比上一小時更多。3h→4h 增速 3.2x 大於 2h→3h。需 6h/12h/24h 後續快照確認 pattern
-- **PerplexityBot 升 #2 AI crawler**：4,371（從 3,477 +26%），超越 PetalBot/Amazonbot/BingBot。LLM ecosystem 開始 cite Taiwan.md
-- **SC niche query 抓對了**：「228 事件白色恐怖」CTR 50%、「客家花布」CTR 100%、「台灣用語轉換器」CTR 25%。品牌詞之外的 long tail 有真實命中
-- ✅ **0 open PRs**（λ session 後半 52 PRs 已清零）
+| 日期       | session | 核心判讀                                               | memory                    |
+| ---------- | ------- | ------------------------------------------------------ | ------------------------- |
+| 2026-04-16 | α       | GA 28d 正常化基線建立（87K→63K，3/18 病毒日滾出 28d）  | [→](memory/2026-04-16.md) |
+| 2026-04-15 | γ       | 17 PR 海嘯 + EXP-A 破局根因（slug casing）+ 語言大豐收 | memory/2026-04-15-γ.md    |
+| 2026-04-15 | β       | α 預測命中 + 3 個「工具在說謊」系統性 bug 同時發現     | memory/2026-04-15-β.md    |
+| 2026-04-15 | α       | 李洋孢子 8h 180K + 曲線第三次修正 + EXP-A 首次命中     | memory/2026-04-15-α.md    |
 
 ### 🚨 警報
 
@@ -169,22 +137,14 @@
 - **語言覆蓋（4/14 η 後）**：en 84% / ja 54% / **ko 68%**（28→321 一日突破）/ es 8% / **fr 158 篇 preview**（registry enabled: false）。
 - **探測器缺口（4/11 未填）**：鄭習會（國共領導人睽違 10 年會談）、NCAIR（國家 AI 機器人中心）兩個 P0 缺口待開發。
 
-### 🏥 免疫治療計畫（Phase 1）
+### 🏥 免疫治療計畫（Phase 1）— ✅ 已完成（2026-04-14 後持續穩定 99）
 
-**目標**：13/100 → 50/100（從「瀕臨衰竭」到「可以自我防禦」）
+**原目標**：13/100 → 50/100（從「瀕臨衰竭」到「可以自我防禦」）
+**實際達成**：13 → **99**（2026-04-14 後穩定）— 遠超目標。
 
-**策略**：不是一篇一篇掃完 390 篇。是找殺傷力最大的先處理。
+四道免疫防線全部到位：quality-scan 自動掃描 + EDITORIAL 人工標準 + review-pr.sh 五層 PR 審核 + DNA 持續進化。Phase 1 目標達成即表示「已能自我防禦」，但不等於完美——引用荒漠 / bad_fn_format / format-check 這些具體挑戰移到 §適應性反應（當前挑戰）。
 
-| 優先序 | 標的               | 方法                                               | 驗證                                 |
-| ------ | ------------------ | -------------------------------------------------- | ------------------------------------ |
-| 1️⃣     | 高流量 + 低品質    | EVOLVE-PIPELINE 交叉 quality-scan → 找最毒的 30 篇 | 重寫後 quality-scan ≥ 8              |
-| 2️⃣     | Hub 頁面           | 每個 Hub 是入口 — 入口爛整個分類爛                 | 人工審閱 + lastHumanReview           |
-| 3️⃣     | 腳註密度 < 1/300字 | 缺腳註 = 不可驗證 = 不值得信任                     | 每篇 ≥ 300字/腳註                    |
-| 4️⃣     | 塑膠句式殘留       | detect-ai-hollow.sh 掃描                           | 零「展現了」「不僅更」「某種程度上」 |
-
-**節奏**：每次心跳處理 1-3 篇。不貪快。一篇做到位比三篇做半套更有價值。
-
-**免疫記憶**：每次重寫後，在 [MEMORY.md](MEMORY.md) 記錄「這篇犯了什麼錯、怎麼修的」— 累積免疫記憶。
+**Phase 2 方向**：從「被動防禦」進化為「主動免疫」（探測器熱點雷達 + 可證偽實驗 + 社群觸手），見 LONGINGS + reports/social-tentacle-\*。
 
 ---
 
