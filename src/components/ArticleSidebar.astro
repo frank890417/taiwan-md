@@ -6,6 +6,8 @@
 import { useTranslatedPath, useTranslations } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
 
+type Contributor = string | { name: string; login: string };
+
 interface Props {
   title: string;
   tags?: string[];
@@ -14,7 +16,7 @@ interface Props {
   lastModified?: string;
   commitHash?: string;
   revisionCount?: number;
-  contributors?: string[];
+  contributors?: Contributor[];
   category: string;
   categoryName: string;
   categoryColor: string;
@@ -79,6 +81,12 @@ const hashLabel =
 const shareXLabel = lang === 'zh-TW' ? '分享到 X' : 'Share on X';
 const shareFBLabel = lang === 'zh-TW' ? '分享到 Facebook' : 'Share on Facebook';
 const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
+
+const normalizedContributors = contributors.map((contributor) =>
+  typeof contributor === 'string'
+    ? { name: contributor, login: contributor }
+    : contributor,
+);
 ---
 
 <!--
@@ -350,20 +358,20 @@ const shareLINELabel = lang === 'zh-TW' ? '分享到 LINE' : 'Share on LINE';
 
   <!-- Contributors -->
   {
-    contributors.length > 0 && (
+    normalizedContributors.length > 0 && (
       <div class="border-b border-[rgba(26,60,52,0.08)] py-5 last:border-b-0">
         <p class="mb-[0.85rem] font-['Inter',system-ui,sans-serif] text-[0.67rem] font-bold uppercase tracking-[0.2em] text-[#9aa89e]">
           貢獻者
         </p>
         <div class="flex flex-wrap gap-[0.4rem]">
-          {contributors.map((name) => (
+          {normalizedContributors.map((contributor) => (
             <a
-              href={`https://github.com/${name}`}
+              href={`https://github.com/${contributor.login}`}
               target="_blank"
               rel="noopener noreferrer"
               class="rounded-full border border-[rgba(0,109,119,0.15)] bg-[rgba(0,109,119,0.07)] px-[0.6rem] py-[0.22rem] font-['Inter',system-ui,sans-serif] text-[0.75rem] text-[#006d77] no-underline transition-colors duration-150 hover:bg-[rgba(0,109,119,0.14)]"
             >
-              {name}
+              {contributor.name}
             </a>
           ))}
         </div>
