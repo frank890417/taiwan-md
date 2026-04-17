@@ -1,9 +1,9 @@
 ---
-title: "Tsai Ing-wen"
-description: "Primera presidenta de Taiwán, un símbolo democrático y pionera histórica que se transformó de académica a líder política"
+title: 'Tsai Ing-wen'
+description: 'Primera presidenta de Taiwán, un símbolo democrático y pionera histórica que se transformó de académica a líder política'
 date: 2026-03-17
 tags: [people, Tsai Ing-wen, presidenta, líder femenina, democracia, política]
-translatedFrom: "knowledge/People/蔡英文.md"
+translatedFrom: 'People/蔡英文.md'
 ---
 
 # Tsai Ing-wen
@@ -277,7 +277,8 @@ Como primera presidenta femenina de Taiwán, el estatus histórico de Tsai está
 
 ---
 
-*Referencias:*
+_Referencias:_
+
 - Sitio web oficial de la Oficina del Presidente, ROC
 - Datos históricos del Partido Progresista Democrático
 - Registros de elección de la Comisión Electoral Central

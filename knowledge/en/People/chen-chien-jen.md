@@ -5,7 +5,7 @@ date: 2026-03-19
 tags:
   [people, Chen Chien-jen, epidemiology, public health, vice president, premier]
 subcategory: 'Politics & Democracy'
-translatedFrom: 'knowledge/People/陳建仁.md'
+translatedFrom: 'People/陳建仁.md'
 ---
 
 # Chen Chien-jen: Public Health, Politics, and Taiwan’s Crisis Leadership

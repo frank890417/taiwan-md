@@ -7,7 +7,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 10
 featured: false
-translatedFrom: 'knowledge/History/清治時期.md'
+translatedFrom: 'History/清治時期.md'
 ---
 
 # Qing Dynasty Rule

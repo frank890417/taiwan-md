@@ -10,7 +10,7 @@ lastVerified: 2026-03-31
 lastHumanReview: false
 author: 'Taiwan.md Translation Team'
 readingTime: 12
-translatedFrom: 'knowledge/Geography/氣候.md'
+translatedFrom: 'Geography/氣候.md'
 ---
 
 # 대만의 기후

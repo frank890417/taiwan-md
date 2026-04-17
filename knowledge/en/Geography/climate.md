@@ -3,7 +3,7 @@ title: 'Climate'
 description: "Taiwan's diverse subtropical monsoon climate, from monsoon systems to typhoons - the weather patterns that shape island life"
 date: 2026-03-17
 tags: [climate, monsoon, typhoon, plum rain, climate change, precipitation]
-translatedFrom: 'knowledge/Geography/氣候.md'
+translatedFrom: 'Geography/氣候.md'
 ---
 
 # Climate

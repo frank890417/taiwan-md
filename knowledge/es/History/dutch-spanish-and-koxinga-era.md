@@ -13,7 +13,7 @@ date: 2026-03-17
 author: Taiwan.md
 readingTime: 8
 featured: false
-translatedFrom: 'knowledge/History/荷西明鄭時期.md'
+translatedFrom: 'History/荷西明鄭時期.md'
 ---
 
 # Era Neerlandesa, Española y de Koxinga

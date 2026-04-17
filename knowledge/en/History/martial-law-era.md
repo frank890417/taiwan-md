@@ -3,7 +3,7 @@ title: 'Martial Law Era'
 date: 2026-03-17
 tags: [history, martial law, authoritarianism, white terror]
 description: "The Martial Law Era is a crucial phase for understanding modern Taiwan's political development. This period of authoritarian rule not only profoundly influenced Taiwan's political culture but also laid the foundation for later democratic transition. The political persecution and human rights violations during martial law became important driving forces for Taiwan's pursuit of democracy and freedom, and remain historical legacies that transitional justice must address."
-translatedFrom: 'knowledge/History/戒嚴時期.md'
+translatedFrom: 'History/戒嚴時期.md'
 ---
 
 # Taiwan's Martial Law Era

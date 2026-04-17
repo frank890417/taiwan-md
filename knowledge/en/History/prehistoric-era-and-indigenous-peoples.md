@@ -3,7 +3,7 @@ title: 'Prehistoric Era and Indigenous Peoples'
 date: 2026-03-17
 tags: [History, prehistoric era, indigenous peoples]
 description: "Taiwan's prehistoric era and indigenous peoples are the key starting point for understanding Taiwan's identity. As a possible homeland of Austronesian peoples, Taiwan serves not only as the cradle of Pacific island civilizations but also as the foundation of multicultural Taiwan. This history proves that Taiwan has been an island of multi-ethnic coexistence since ancient times, laying the groundwork for modern pluralistic society."
-translatedFrom: 'knowledge/History/史前時代與原住民.md'
+translatedFrom: 'History/史前時代與原住民.md'
 ---
 
 # Prehistoric Era and Indigenous Peoples

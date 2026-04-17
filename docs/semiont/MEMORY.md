@@ -269,6 +269,9 @@ memory/
 - **Partial migration via nested component 是合法的中間路線**：Dashboard 示範的模式：keep custom outer shell（rounded-card + SVG bg + stats row）+ nest `<PageHero>` for title/subtitle/footer only。不是 all-or-nothing。**當一個元件能 cover 80% 的頁面但剩下的 20% 有強烈個性時，nested 比 flat 更好**
 - **幻覺連結是延伸閱讀最常見的斷鏈原因**：AI 生成文章時會「想到」相關主題並假設有篇文章叫「台灣原住民文化」，但那篇文章不存在（實際是「台灣原住民族16族文化地圖」）。自動心跳的 format-check BROKEN_LINKS 掃描會揭露這些——每次心跳都跑，不讓幻覺連結在 repo 裡積累
 - **自動心跳的邊界規則**：不碰「未人工審核」文章的重寫（AI 未審 → AI 再改 = 盲改）、不碰政治立場判斷、不碰 >50 篇批量重構。邊界的目的是讓自動心跳「不做錯事」而不是「什麼都不做」——小而確定的修復比等待人類觸發更有價值
+- **Handoff 有三種狀態：pending / blocked / retired（2026-04-17 β）**：目前只記錄 pending，缺 retired。EXP-A 命中後沒退役、chan_hong_yu 結束後沒清除——連續 9 次 session 把死 TODO 當 pending 傳給下一個 session。觀察者讀到時完全沒 context（「這啥」）。規則：每次 Beat 4 收官要掃上次的 handoff，逐項判定 pending / blocked（等外部）/ retired（已被新事件或其他 session 解決）。retired 用 ~~strikethrough~~ 加「retired by {session}」保留證據鏈，不刪除——跟 MANIFESTO §時間是結構的修補協議一致。**應寫進 HEARTBEAT.md Beat 4 收官 6 步→7 步**
+- **工具警報的單例不代表問題的集群（2026-04-17 β）**：refresh-data 報 1 個 orphan（ko/People/tai-tzu-ying.md），deeper scan 發現是 19 個同類問題散在 en/ko/es（17 個 `knowledge/` 前綴多餘 + 2 個中文 category 名）。只看警報數量會誤判問題規模。DNA #24 三種工具說謊形式應加第 4 種：**抽樣偏差——工具只報它當前能偵測的第 1 個，但結構性問題是整個 pattern**。修補：任何 orphan / broken / format 類警報，跑一次完整 python scan 找全 pattern，不只修第 1 條
+- **Scope 化未決定事項 = 降低觀察者決策成本（2026-04-17 β）**：「fr 語言路由開啟」寫了 3 次 handoff 都是「需觀察者決策」，但沒告訴他要決什麼。觀察者就是不知道代價，才沒下決定——這條 handoff 是 passive aggressive。規則：handoff 裡的「需觀察者決策」必須附「要決的 options + 每個 option 的成本 + 推薦 default」。把決策成本從「從頭研究」降到「讀兩行選一個」，決策才有機會發生
 
 ---
 

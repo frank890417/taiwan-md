@@ -5,7 +5,7 @@ date: 2026-03-17
 tags: [lifestyle, transportation, high-speed rail, metro, scooters, Taiwan]
 author: 'Taiwan.md Contributors'
 readingTime: 8
-translatedFrom: 'knowledge/Lifestyle/台灣交通系統.md'
+translatedFrom: 'Lifestyle/台灣交通系統.md'
 ---
 
 # Transportation System

@@ -1,9 +1,16 @@
 ---
-title: "Desarrollo Económico de Posguerra"
-description: "El viaje del milagro económico de Taiwán desde una sociedad agrícola hasta convertirse en uno de los Tigres Asiáticos"
+title: 'Desarrollo Económico de Posguerra'
+description: 'El viaje del milagro económico de Taiwán desde una sociedad agrícola hasta convertirse en uno de los Tigres Asiáticos'
 date: 2026-03-17
-tags: [historia económica, industrialización, diez grandes proyectos de construcción, milagro económico, transformación industrial]
-translatedFrom: "knowledge/History/戰後經濟發展.md"
+tags:
+  [
+    historia económica,
+    industrialización,
+    diez grandes proyectos de construcción,
+    milagro económico,
+    transformación industrial,
+  ]
+translatedFrom: 'History/戰後經濟發展.md'
 ---
 
 # Desarrollo Económico de Posguerra
@@ -19,6 +26,7 @@ Durante el período colonial japonés, Taiwán ya había establecido sistemas de
 ### Reforma Agraria de Tres Etapas
 
 A partir de 1949, el gobierno implementó una reforma agraria de tres etapas:
+
 - **Reducción de Renta 375** 三七五減租 (1949): La renta de los inquilinos no podía exceder 375 por mil del rendimiento bruto del cultivo principal
 - **Venta de Tierras Públicas** 公地放領 (1951): Las tierras agrícolas públicas se vendieron a los agricultores inquilinos actuales
 - **Tierra para el Agricultor** 耕者有其田 (1953): Expropiación obligatoria del exceso de tierra de los terratenientes para reventa a inquilinos
@@ -38,6 +46,7 @@ En la década de 1950, Taiwán adoptó políticas de sustitución de importacion
 ### Innovación de las Zonas de Procesamiento de Exportaciones
 
 En 1965, Taiwán estableció la primera zona de procesamiento de exportaciones de Asia — la Zona de Procesamiento de Exportaciones de Kaohsiung, seguida por las zonas de procesamiento de exportaciones de Nanzih y Taichung. Estas zonas proporcionaron:
+
 - Exenciones fiscales y procedimientos administrativos simplificados
 - Infraestructura completa
 - Suministro estable de mano de obra
@@ -59,12 +68,14 @@ La primera crisis del petróleo de 1973 impactó severamente la economía global
 En 1974, el Primer Ministro Chiang Ching-kuo promovió los Diez Grandes Proyectos de Construcción 十大建設, con una inversión total que alcanzó NT$200 mil millones:
 
 **Infraestructura de Transporte (4 proyectos):**
+
 - Autopista Sun Yat-sen 中山高速公路: Primera autopista de Taiwán, 373 kilómetros de largo
 - Electrificación Ferroviaria: Electrificación completa de la línea troncal occidental
 - Aeropuerto Internacional Chiang Kai-shek de Taoyuan: Mejorando la capacidad de aviación internacional
 - Puerto de Taichung: Equilibrando el desarrollo de puertos norte-sur
 
 **Industria Química Pesada (6 proyectos):**
+
 - China Steel Corporation: Estableciendo la industria del acero autónoma
 - China Shipbuilding Corporation: Desarrollando la industria de construcción naval
 - Industria Petroquímica: Grandes refinerías de petróleo, plantas de craqueo de nafta, etc.
@@ -79,6 +90,7 @@ Los Diez Grandes Proyectos de Construcción no solo crearon oportunidades masiva
 ### Parque Científico de Hsinchu
 
 El Parque Científico de Hsinchu se estableció en 1980, adoptando el modelo exitoso de las zonas de procesamiento de exportaciones específicamente para desarrollar industrias de alta tecnología. El parque proporcionó:
+
 - Políticas fiscales preferenciales
 - Entorno completo de investigación y desarrollo
 - Mecanismos de cooperación industria-academia
@@ -96,6 +108,7 @@ A partir de la década de 1980, Taiwán desarrolló vigorosamente la industria d
 ### Estadísticas de Crecimiento Notables
 
 De 1952 a 1995, Taiwán creó logros económicos asombrosos:
+
 - **Tasa de crecimiento anual del PIB**: 8.7% (40 años consecutivos de alto crecimiento)
 - **PIB per cápita**: Saltó de $145 a $12,396
 - **Exportaciones totales**: Aumentó de $116 millones a $111.8 mil millones
@@ -132,6 +145,7 @@ Entrando en la década de 1990, Taiwán enfrentó desafíos de aumento de salari
 ### Transformación de la Economía del Conocimiento
 
 Desde el siglo XXI, Taiwán se ha comprometido a desarrollar una economía del conocimiento, centrándose en:
+
 - Industria de biotecnología
 - Tecnología de energía verde
 - Industrias culturales y creativas
@@ -151,6 +165,7 @@ El modelo de desarrollo económico de Taiwán proporciona lecciones importantes 
 ### Contribuciones Globales
 
 Taiwán no solo creó su propio milagro económico sino que también hizo importantes contribuciones al desarrollo económico global:
+
 - Ocupando una posición clave en las cadenas de suministro globales
 - El modelo de fabricación por contrato ha sido emulado por muchos países
 - La industria de alta tecnología se ha convertido en un centro de innovación global
@@ -159,7 +174,8 @@ La Taiwán de hoy enfrenta nuevos desafíos, pero la exitosa experiencia del des
 
 ---
 
-*Referencias:*
+_Referencias:_
+
 - Instituto de Historia Moderna de la Academia Sinica 中央研究院近代史研究所
 - Departamento de Estadísticas del Ministerio de Asuntos Económicos 經濟部統計處
 - Dirección General de Presupuesto, Contabilidad y Estadísticas del Yuan Ejecutivo 行政院主計總處

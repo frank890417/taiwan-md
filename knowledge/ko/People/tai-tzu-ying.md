@@ -7,7 +7,7 @@ tags:
 subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
-translatedFrom: '人物/戴資穎.md'
+translatedFrom: 'People/戴資穎.md'
 readingTime: 15
 featured: true
 ---

@@ -4,7 +4,7 @@ description: 'Founder of Quanta Computer, the architect of the global notebook s
 date: 2026-03-19
 tags: [people, Lin Bai-li, Quanta, ODM, laptops, AI servers]
 subcategory: 'Tech & Business'
-translatedFrom: 'knowledge/People/林百里.md'
+translatedFrom: 'People/林百里.md'
 ---
 
 # Lin Bai-li: From Laptop King to AI Infrastructure Builder

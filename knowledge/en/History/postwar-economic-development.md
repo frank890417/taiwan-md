@@ -10,7 +10,7 @@ tags:
     economic miracle,
     industrial transformation,
   ]
-translatedFrom: 'knowledge/History/戰後經濟發展.md'
+translatedFrom: 'History/戰後經濟發展.md'
 ---
 
 # Postwar Economic Development

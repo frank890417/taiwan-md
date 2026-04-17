@@ -3,7 +3,7 @@ title: 'Era Prehistórica y Pueblos Indígenas'
 date: 2026-03-17
 tags: [Historia, era prehistórica, pueblos indígenas]
 description: 'La era prehistórica y los pueblos indígenas de Taiwán son el punto de partida clave para comprender la identidad de Taiwán. Como posible patria de los pueblos austronesios, Taiwán sirve no solo como la cuna de las civilizaciones de las islas del Pacífico, sino también como la base de la Taiwán multicultural. Esta historia demuestra que Taiwán ha sido una isla de coexistencia multiétnica desde la antigüedad, sentando las bases para la sociedad pluralista moderna.'
-translatedFrom: 'knowledge/History/史前時代與原住民.md'
+translatedFrom: 'History/史前時代與原住民.md'
 ---
 
 # Era Prehistórica y Pueblos Indígenas
