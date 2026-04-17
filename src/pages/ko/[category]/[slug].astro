@@ -1,7 +1,6 @@
 ---
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
-import { execSync } from 'child_process';
 import matter from 'gray-matter';
 import Layout from '../../../layouts/Layout.astro';
 import { marked } from 'marked';
@@ -15,6 +14,11 @@ import {
   getCategoryConfigs,
   type CategoryKey,
 } from '../../../utils/categoryConfig';
+import {
+  buildGitInfoCache,
+  emptyGitInfo,
+  type GitInfo,
+} from '../../../utils/contributors';
 
 const safeMatter = (fileContent: string) => {
   try {
@@ -24,69 +28,6 @@ const safeMatter = (fileContent: string) => {
     return { data: {}, content: stripped };
   }
 };
-
-// ── Git helpers ───────────────────────────────────────────────────────────────
-let _gitCache: Map<
-  string,
-  { contributors: string[]; lastModified: string }
-> | null = null;
-
-function buildGitCache() {
-  if (_gitCache) return _gitCache;
-  _gitCache = new Map();
-  try {
-    const logOutput = execSync(
-      `git -c core.quotePath=false log --name-only --format="COMMIT_BY:%an" -- "knowledge/ko/"`,
-      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
-    );
-    let currentAuthor = '';
-    for (const line of logOutput.split('\n')) {
-      if (line.startsWith('COMMIT_BY:')) {
-        currentAuthor = line.slice(10);
-      } else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
-        const key = resolve(process.cwd(), line);
-        const entry = _gitCache.get(key) || {
-          contributors: [],
-          lastModified: '',
-        };
-        if (!entry.contributors.includes(currentAuthor))
-          entry.contributors.push(currentAuthor);
-        _gitCache.set(key, entry);
-      }
-    }
-    const dateOutput = execSync(
-      `git -c core.quotePath=false log --format="COMMIT_DATE:%aI" --name-only -- "knowledge/ko/"`,
-      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
-    );
-    let currentDate = '';
-    const seenFiles = new Set<string>();
-    for (const line of dateOutput.split('\n')) {
-      if (line.startsWith('COMMIT_DATE:')) {
-        currentDate = line.slice(12);
-      } else if (line.startsWith('knowledge/') && line.endsWith('.md')) {
-        const key = resolve(process.cwd(), line);
-        if (!seenFiles.has(key)) {
-          seenFiles.add(key);
-          const entry = _gitCache.get(key) || {
-            contributors: [],
-            lastModified: '',
-          };
-          entry.lastModified = currentDate;
-          _gitCache.set(key, entry);
-        }
-      }
-    }
-  } catch (e) {
-    console.error('Git cache error:', (e as Error).message);
-  }
-  return _gitCache;
-}
-
-function getGitInfo(filePath: string) {
-  return (
-    buildGitCache().get(filePath) || { contributors: [], lastModified: '' }
-  );
-}
 
 // ── Category → folder mapping ─────────────────────────────────────────────────
 const categoryMapping: Record<string, string> = {
@@ -130,57 +71,10 @@ export async function getStaticPaths() {
     lifestyle: 'Lifestyle',
   };
 
-  // Build git cache for this function scope
-  let __gitCache: Map<
-    string,
-    {
-      contributors: string[];
-      lastModified: string;
-      commitHash: string;
-      revisionCount: number;
-    }
-  > | null = null;
+  let __gitCache: Map<string, GitInfo> | null = null;
   function _buildGitCache() {
     if (__gitCache) return __gitCache;
-    __gitCache = new Map();
-    try {
-      const logOutput = execSync(
-        `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/ko/"`,
-        { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
-      );
-      let currentHash = '';
-      let currentDate = '';
-      let currentAuthor = '';
-
-      // git log -z: commit headers and filenames are SEPARATE NUL-terminated tokens.
-      for (let token of logOutput.split('\0')) {
-        token = token.replace(/^\n+/, '').trim();
-        if (!token) continue;
-
-        if (token.startsWith('COMMIT|')) {
-          const parts = token.split('|');
-          currentHash = parts[1] || '';
-          currentDate = parts[2] || '';
-          currentAuthor = parts[3] || '';
-        } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
-          const key = resolve(process.cwd(), token).normalize('NFC');
-          let entry = __gitCache.get(key);
-          if (!entry) {
-            entry = {
-              contributors: [],
-              lastModified: currentDate,
-              commitHash: currentHash,
-              revisionCount: 0,
-            };
-            __gitCache.set(key, entry);
-          }
-          entry.revisionCount += 1;
-          if (currentAuthor && !entry.contributors.includes(currentAuthor)) {
-            entry.contributors.push(currentAuthor);
-          }
-        }
-      }
-    } catch {}
+    __gitCache = buildGitInfoCache('knowledge/ko/');
     return __gitCache;
   }
 
@@ -261,12 +155,7 @@ export async function getStaticPaths() {
           );
           continue;
         }
-        let gitInfo = {
-          contributors: [] as string[],
-          lastModified: '',
-          commitHash: '',
-          revisionCount: 0,
-        };
+        let gitInfo = emptyGitInfo();
         try {
           gitInfo = _buildGitCache().get(koFilePath) || gitInfo;
         } catch {}

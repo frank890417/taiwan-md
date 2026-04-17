@@ -1,7 +1,6 @@
 ---
 import { readdir, readFile } from 'fs/promises';
 import { resolve, join, basename } from 'path';
-import { execSync } from 'child_process';
 import matter from 'gray-matter';
 import Layout from '../../layouts/Layout.astro';
 import { marked } from 'marked';
@@ -18,75 +17,23 @@ import {
   getCategoryConfigs,
   type CategoryKey,
 } from '../../utils/categoryConfig';
+import {
+  buildGitInfoCache,
+  emptyGitInfo,
+  type GitInfo,
+} from '../../utils/contributors';
 
 // ── Git helpers ───────────────────────────────────────────────────────────────
-let _gitCache: Map<
-  string,
-  {
-    contributors: string[];
-    lastModified: string;
-    commitHash: string;
-    revisionCount: number;
-  }
-> | null = null;
+let _gitCache: Map<string, GitInfo> | null = null;
 
 function buildGitCache() {
   if (_gitCache) return _gitCache;
-  _gitCache = new Map();
-  try {
-    const logOutput = execSync(
-      `git log --full-history -z --name-only --format="COMMIT|%H|%aI|%an" -- "knowledge/"`,
-      { encoding: 'utf-8', maxBuffer: 10 * 1024 * 1024 },
-    );
-    let currentHash = '';
-    let currentDate = '';
-    let currentAuthor = '';
-
-    // git log -z: commit headers and filenames are SEPARATE NUL-terminated tokens.
-    // Format: "COMMIT|hash|date|author\0\nfilename\0COMMIT|...\0\nfilename\0"
-    for (let token of logOutput.split('\0')) {
-      // git prepends a \n before the first filename after each commit header
-      token = token.replace(/^\n+/, '').trim();
-      if (!token) continue;
-
-      if (token.startsWith('COMMIT|')) {
-        const parts = token.split('|');
-        currentHash = parts[1] || '';
-        currentDate = parts[2] || '';
-        currentAuthor = parts[3] || '';
-      } else if (token.startsWith('knowledge/') && token.endsWith('.md')) {
-        const key = resolve(process.cwd(), token).normalize('NFC');
-        let entry = _gitCache.get(key);
-        if (!entry) {
-          entry = {
-            contributors: [],
-            lastModified: currentDate,
-            commitHash: currentHash,
-            revisionCount: 0,
-          };
-          _gitCache.set(key, entry);
-        }
-        entry.revisionCount += 1;
-        if (currentAuthor && !entry.contributors.includes(currentAuthor)) {
-          entry.contributors.push(currentAuthor);
-        }
-      }
-    }
-  } catch (e) {
-    console.error('Git cache error:', (e as Error).message);
-  }
+  _gitCache = buildGitInfoCache('knowledge/');
   return _gitCache;
 }
 
 function getGitInfo(filePath: string) {
-  return (
-    buildGitCache().get(filePath) || {
-      contributors: [],
-      lastModified: '',
-      commitHash: '',
-      revisionCount: 0,
-    }
-  );
+  return buildGitCache().get(filePath) || emptyGitInfo();
 }
 
 // ── Category → folder mapping ─────────────────────────────────────────────────
@@ -145,12 +92,7 @@ export async function getStaticPaths() {
         const fileContent = await readFile(filePath, 'utf-8');
         const { data: frontmatter, content } = safeMatter(fileContent);
         const slug = basename(file, '.md');
-        let gitInfo = {
-          contributors: [] as string[],
-          lastModified: '',
-          commitHash: '',
-          revisionCount: 0,
-        };
+        let gitInfo = emptyGitInfo();
         try {
           gitInfo = getGitInfo(filePath);
         } catch {}
