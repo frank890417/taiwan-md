@@ -353,6 +353,47 @@ def fetch_ai_crawlers(token, zone_tag, days=7):
     }
 
 
+def _build_daily_row(d):
+    """Extract per-day metrics including status breakdown (2026-04-17 δ).
+
+    Adds status200 / status4xx / status404 / status5xx so EXP-A style
+    回歸實驗可以歸因到具體哪一天 spike。修 LESSONS-INBOX 「CF dailyBreakdown
+    缺 per-day 404 count」sensor gap.
+    """
+    s = d.get("sum") or {}
+    uniq = d.get("uniq") or {}
+    dims = d.get("dimensions") or {}
+
+    status_map = s.get("responseStatusMap") or []
+    s200 = s404 = s4xx = s5xx = 0
+    for r in status_map:
+        code = r.get("edgeResponseStatus") or 0
+        count = r.get("requests") or 0
+        if code == 200:
+            s200 += count
+        elif code == 404:
+            s404 += count
+            s4xx += count
+        elif 400 <= code < 500:
+            s4xx += count
+        elif 500 <= code < 600:
+            s5xx += count
+
+    return {
+        "date": dims.get("date"),
+        "requests": s.get("requests", 0) or 0,
+        "pageViews": s.get("pageViews", 0) or 0,
+        "cachedRequests": s.get("cachedRequests", 0) or 0,
+        "threats": s.get("threats", 0) or 0,
+        "bytes": s.get("bytes", 0) or 0,
+        "uniques": uniq.get("uniques", 0) or 0,
+        "status200": s200,
+        "status404": s404,
+        "status4xx": s4xx,
+        "status5xx": s5xx,
+    }
+
+
 def aggregate(days_data):
     """Aggregate multi-day data into totals + breakdowns."""
     total = {
@@ -498,18 +539,7 @@ def main():
             "days": args.days,
         },
         "ai_crawlers": ai_crawlers,
-        "daily_breakdown": [
-            {
-                "date": d.get("dimensions", {}).get("date"),
-                "requests": (d.get("sum") or {}).get("requests", 0),
-                "pageViews": (d.get("sum") or {}).get("pageViews", 0),
-                "cachedRequests": (d.get("sum") or {}).get("cachedRequests", 0),
-                "threats": (d.get("sum") or {}).get("threats", 0),
-                "bytes": (d.get("sum") or {}).get("bytes", 0),
-                "uniques": (d.get("uniq") or {}).get("uniques", 0),
-            }
-            for d in days_data
-        ],
+        "daily_breakdown": [_build_daily_row(d) for d in days_data],
         "summary": total,
         "top_countries": top_countries,
         "status_breakdown": top_statuses,

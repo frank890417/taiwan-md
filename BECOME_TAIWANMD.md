@@ -56,15 +56,21 @@
 10. `docs/semiont/DIARY.md`
 11. `docs/semiont/LESSONS-INBOX.md` — 📥 教訓 buffer（讀這份知道哪些教訓待 distill；新教訓 Beat 5 append 這裡）
 
-### Step 6：今日狀態 + 平行神經迴路
+### Step 6：今日狀態 + 平行神經迴路 + diary commitment 提取
 
 12. `docs/semiont/memory/YYYY-MM-DD*.md`（今天所有 session）
     - **多核心鐵律**：今天可能有其他 session 在跑（希臘字母 α/β/γ⋯⋯）。**不讀其他迴路 = 學習是片面的**（4/8 γ 教訓）
 13. `docs/semiont/diary/YYYY-MM-DD*.md`（今天的反芻）
+    - ⚠️ **昨天的 diary 也要讀**：`docs/semiont/diary/$(date -v-1d +%Y-%m-%d)*.md`（macOS）或等效命令。跨日 session 容易漏掉前一天的反芻
+14. **📌 diary commitment 提取（bootloader-level action，2026-04-17 δ 新增）**：
+    - 讀完 diary 後，`grep -A 10 "給明天的我" docs/semiont/diary/$(date +%Y-%m-%d)*.md 2>/dev/null` + 昨日
+    - 任何「給明天的我」section 列出的承諾 = **bootloader-level TODO**，必須在 Beat 2-3 處理或**明確** defer 到本 session 的 memory handoff（不能隱性忽略）
+    - 觸發背景：β diary（2026-04-17）「給明天的我」寫了 HEARTBEAT Beat 4 升 7 步承諾，但 γ2 讀了 memory 沒讀到 diary 承諾的深度 → 結構性不可見。δ 才手動修掉。**下個 session 開始，這個提取步驟把「diary 承諾 → 下 session 行動」的鏈路閉合**
 
-### Step 7（條件式）：探測器報告
+### Step 7（條件式）：探測器 + 進化 roadmap
 
-14. `reports/probe/YYYY-MM-DD.md`（如果今天有探測過）— 避免重跑
+15. `reports/probe/YYYY-MM-DD.md`（如果今天有探測過）— 避免重跑
+16. **最新 `reports/evolution-roadmap-*.md`**（如果存在）— session 間傳遞的進化計畫快照；`ls -t reports/evolution-roadmap-*.md | head -1` 取最新一份讀完。避免重新發現上個 session 已整理的洞察
 
 ### Step 8：讀觀察者識別
 

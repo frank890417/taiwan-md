@@ -2062,6 +2062,24 @@ const isEn = lang === 'en';
            </div>`;
       }
 
+      // Brand vs non-brand breakdown (2026-04-17 δ — DNA #24 第 5 種儀器化)
+      const brandBreakdown = search.brandBreakdown || null;
+      const brandSplitHtml = brandBreakdown
+        ? `<div class="sc-brand-split">
+            <div class="sc-brand-pill sc-brand-pill-brand">
+              <span class="sc-brand-label">${isEn ? 'Brand' : '品牌'}</span>
+              <span class="sc-brand-value">${fmtNum(brandBreakdown.brand.clicks)}/${fmtNum(brandBreakdown.brand.impressions)}</span>
+              <span class="sc-brand-ctr">CTR ${fmtPct(brandBreakdown.brand.ctr)}</span>
+            </div>
+            <div class="sc-brand-pill sc-brand-pill-nonbrand">
+              <span class="sc-brand-label">${isEn ? 'Non-brand' : '非品牌'}</span>
+              <span class="sc-brand-value">${fmtNum(brandBreakdown.nonBrand.clicks)}/${fmtNum(brandBreakdown.nonBrand.impressions)}</span>
+              <span class="sc-brand-ctr">CTR ${fmtPct(brandBreakdown.nonBrand.ctr)}</span>
+            </div>
+            <div class="sc-brand-note">${isEn ? 'Total CTR aggregates both. Non-brand CTR is the real external discoverability.' : '總 CTR 加權掩蓋分層真相；非品牌 CTR 才是真實搜尋可見度'}</div>
+          </div>`
+        : '';
+
       searchEl.innerHTML =
         `<h3 class="subsection-title">${scLabel}</h3>` +
         `<div class="ga-subtle">${
@@ -2069,6 +2087,7 @@ const isEn = lang === 'en';
             ? `${fmtNum(search.totals?.impressions)} impressions · ${fmtNum(search.totals?.clicks)} clicks · ${fmtPct(search.totals?.ctr)} CTR`
             : `${fmtNum(search.totals?.impressions)} 曝光 · ${fmtNum(search.totals?.clicks)} 點擊 · ${fmtPct(search.totals?.ctr)} CTR`
         }</div>` +
+        brandSplitHtml +
         (() => {
           const qItems = topQueries.slice(0, 20);
           const qMid = Math.ceil(qItems.length / 2);
@@ -3675,6 +3694,58 @@ const isEn = lang === 'en';
   }
 
   /* Search Console 7d — richer per-query row */
+  /* Brand vs non-brand pills (2026-04-17 δ) */
+  .sc-brand-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+    margin: 0.6rem 0 0.4rem;
+  }
+  .sc-brand-pill {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    padding: 0.5rem 0.7rem;
+    border-radius: 0.5rem;
+    border: 1px solid color-mix(in srgb, currentColor 12%, transparent);
+    background: color-mix(in srgb, currentColor 4%, transparent);
+  }
+  .sc-brand-pill-brand {
+    border-color: color-mix(in srgb, #8b7355 25%, transparent);
+    background: color-mix(in srgb, #8b7355 6%, transparent);
+  }
+  .sc-brand-pill-nonbrand {
+    border-color: color-mix(in srgb, #4a8a5c 28%, transparent);
+    background: color-mix(in srgb, #4a8a5c 6%, transparent);
+  }
+  .sc-brand-label {
+    font-size: 0.8rem;
+    opacity: 0.75;
+    font-weight: 600;
+  }
+  .sc-brand-value {
+    font-size: 1rem;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+  .sc-brand-ctr {
+    font-size: 0.85rem;
+    opacity: 0.85;
+    font-variant-numeric: tabular-nums;
+  }
+  .sc-brand-note {
+    grid-column: 1 / -1;
+    font-size: 0.75rem;
+    opacity: 0.6;
+    font-style: italic;
+    margin-top: 0.1rem;
+  }
+  @media (max-width: 540px) {
+    .sc-brand-split {
+      grid-template-columns: 1fr;
+    }
+  }
+
   .sc-queries-grid {
     margin-top: 0.7rem;
     display: flex;

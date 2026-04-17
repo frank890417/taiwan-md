@@ -163,6 +163,32 @@ def build_ga_section(ga_raw):
     }
 
 
+BRAND_QUERY_PATTERNS = [
+    r"taiwan\.md",
+    r"\btaiwan\s*md\b",
+    r"\bmd\s*taiwan\b",
+    r"^\s*md\s*$",  # exact "md"
+    r"taiwandotmd",
+]
+
+
+def _is_brand_query(q_str):
+    """Classify a query as brand (contains 'taiwan.md' / 'taiwan md' / exact 'md' / 'taiwandotmd').
+
+    2026-04-17 δ: SC 7d 總 CTR 8.54% 虛胖 — top queries 'taiwan md' 62% / 'taiwan.md' 71%
+    (brand 詞) 撐起整體率。真實 non-brand 搜尋可見度 <3%。拆分揭露分層真相（DNA #24
+    第 5 種「加權平均掩蓋分層真相」的儀器化）。
+    """
+    import re as _re
+    if not q_str:
+        return False
+    lower = q_str.lower().strip()
+    for pattern in BRAND_QUERY_PATTERNS:
+        if _re.search(pattern, lower):
+            return True
+    return False
+
+
 def build_sc_7d_section(sc_raw):
     if not sc_raw:
         return None
@@ -222,6 +248,23 @@ def build_sc_7d_section(sc_raw):
     if ctr_pct <= 1:
         ctr_pct = round(ctr_pct * 100, 2)
 
+    # Brand vs non-brand breakdown (2026-04-17 δ — DNA #24 第 5 種儀器化)
+    brand_clicks = brand_imp = 0
+    nonbrand_clicks = nonbrand_imp = 0
+    for q in sc_raw.get("queries", []):
+        q_str = q.get("keys", [""])[0] if q.get("keys") else q.get("query", "")
+        clicks = int(q.get("clicks", 0))
+        imp = int(q.get("impressions", 0))
+        if _is_brand_query(q_str):
+            brand_clicks += clicks
+            brand_imp += imp
+        else:
+            nonbrand_clicks += clicks
+            nonbrand_imp += imp
+
+    def _ctr(clicks, imp):
+        return round(clicks / imp * 100, 2) if imp else 0
+
     return {
         "label": f"{period.get('start', '?')} to {period.get('end', '?')} ({period.get('days', '?')}d)",
         "startDate": period.get("start"),
@@ -231,6 +274,23 @@ def build_sc_7d_section(sc_raw):
             "clicks": int(totals.get("clicks", 0)),
             "impressions": int(totals.get("impressions", 0)),
             "ctr": ctr_pct,
+        },
+        "brandBreakdown": {
+            "brand": {
+                "clicks": brand_clicks,
+                "impressions": brand_imp,
+                "ctr": _ctr(brand_clicks, brand_imp),
+            },
+            "nonBrand": {
+                "clicks": nonbrand_clicks,
+                "impressions": nonbrand_imp,
+                "ctr": _ctr(nonbrand_clicks, nonbrand_imp),
+            },
+            "note": (
+                "Brand = queries containing 'taiwan.md' / 'taiwan md' / exact 'md' / "
+                "'taiwandotmd'. Total CTR aggregates both; brand CTR is usually 60-80%, "
+                "nonBrand CTR reflects true external discoverability."
+            ),
         },
         "topQueries": top_queries,
         "opportunities": opportunities,
