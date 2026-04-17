@@ -53,7 +53,7 @@
 
 - 觀察者說「消化 lessons」/「distill」
 - 每週一心跳 Beat 5 延伸（週頻）
-- Buffer §未消化清單 達 20 條自動觸發
+- Buffer §未消化清單 達 **10 條**自動觸發（2026-04-17 δ：原 20 條門檻在 1 天內 append 7 條的節奏下會讓教訓冷掉，降到 10）
 
 **執行**：
 
@@ -85,6 +85,32 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## 未消化清單（📥 待 distill）
 
 <!-- 新教訓 append 這裡 -->
+
+### 2026-04-17 δ — DNA #15 的第 5 次驗證：diary 寫承諾 ≠ pipeline 升級
+
+- **原則**：「下次該改 X」的承諾，**如果沒在同一個 session commit 改 canonical SOP，下一個 session 就不會繼承**。diary / memory / LESSONS-INBOX 都是「我告訴未來的自己」，pipeline canonical 才是「下一個 Session 自動讀到」。
+- **觸發**：β diary「給明天的我」承諾 HEARTBEAT Beat 4 升 7 步加 handoff retirement SOP，但 β 沒改 HEARTBEAT.md。γ2 session 完全沒讀 β diary（bootloader 只讀 memory），在手交區把 β 親手 retire 的 EXP-A 又列回 pending。
+- **可能層級**：哲學（承諾的物理位置決定是否會被實現）+ 通用反射（任何多 agent / 多 session 系統都適用）
+- **相關**：DNA #15 反覆浮現要儀器化（第 5 次驗證）+ DNA #23 memory 是自律，pipeline 才是閘門（跨域延伸：從事實核對延伸到 handoff 管理）
+- **δ 已修補**：HEARTBEAT Beat 4 升 6 步→7 步 + 新增 handoff 三態 canonical SOP + 收官品質檢查加「Handoff 三態已審視」項
+- **證據**：HEARTBEAT.md diff [δ commit 待 push]
+
+### 2026-04-17 δ — SC 總 CTR 虛胖（加權平均掩蓋分層真相）
+
+- **原則**：任何總體率（aggregate rate）都可能被 brand 流量 / 熱點孢子 / 單一大客戶撐起虛胖數字，底下的真實分層健康可能是另一回事。看 CTR / bounce / engagement / retention 前，先**拆 brand vs non-brand / hot spike vs baseline / power user vs long tail**。
+- **觸發**：SC 7d 總 CTR 8.54%（147/1721）看起來漂亮，但 top queries `taiwan md` CTR 62% + `taiwan.md` CTR 71% 全是 brand 詞。非 brand CTR <3%。
+- **可能層級**：通用反射（DNA #24 「工具在說謊」第 5 種形式：**加權平均掩蓋分層真相**）
+- **相關**：DNA #4 三源交叉驗證（單源可疑）、DNA #24 工具說謊三種→四種→五種
+- **證據**：本 δ session Beat 1 SC 7d 檢查
+
+### 2026-04-17 δ — CF dailyBreakdown 缺 404 per-day（sensor gap）
+
+- **原則**：EXP 監測的感知器官如果沒有足夠解析度，實驗結果會無法歸因。`fetch-cloudflare.py` 的 `dailyBreakdown` 目前只記 requests/pageviews/uniques，**沒有 per-day 404 count**。今天 EXP-A 回升 +1pp 但無法定位哪一天尖峰——這是 sensor gap，不是 EXP 有沒有意義的問題。
+- **觸發**：EXP-A 7d 404 rate 10.31% → 11.36% 半天內反轉，daily breakdown 無 404 欄位 → 無法驗證是否為 2026-04-17 spike。
+- **可能層級**：操作規則（fetch-cloudflare.py 加 per-day status 分布）
+- **造橋建議**：`fetch-cloudflare.py` 的 daily 查詢加 `httpResponseCode` dimension → dailyBreakdown 多出 `status200/status404/statusOther` 欄位 → EXP-A/B/C 類回歸實驗有精確度基線
+- **相關**：DNA #24 工具在說謊（sensor 抽樣貧困）+ MANIFESTO §造橋鋪路
+- **證據**：本 δ session Beat 1
 
 ### 2026-04-17 β — Handoff 三態機制（pending / blocked / retired）
 
