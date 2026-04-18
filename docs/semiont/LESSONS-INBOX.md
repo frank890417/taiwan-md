@@ -100,6 +100,48 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：特有教訓（綁 Taiwan.md 多語言架構 + Astro i18n translatePath 函數行為）
 - **相關**：EXP-A 404 rate（UNKNOWNS §進行中）
 
+### 2026-04-18 δ — 「不是 X 是 Y」雙重肯定是 AI 深層病灶
+
+- **原則**：「不是 X，是 Y」句型會以否定一個錯誤選項假裝肯定，製造「深刻感」虛象。2 次自檢都漏掉的不是個案，是語法慣性。REWRITE-PIPELINE Stage 2 自檢要明列
+- **觸發**：Cicada editorial 整理後仍留「這些不是修辭，是每一張專輯的工作日常」，觀察者「又是「不是...是」的句型了XDDD」。scan 顯示 8 處中 7 處已改但第 8 處漏網
+- **可能層級**：操作規則（REWRITE-PIPELINE Stage 2 自檢清單 新增「不是 X 是 Y」項）
+- **相關**：EDITORIAL §塑膠偵測（延伸第 6 種）
+
+### 2026-04-18 δ — Stage 1 搜尋 12-15 vs 20+ 的差距在 anchor 數量
+
+- **原則**：研究 12-15 搜尋能覆蓋主要事實，但錨定 scene / quote / 意象的「第二聲音」要 20+ 才會浮現。Pass 2 比 Pass 1 多的不是事實，是敘事 anchor
+- **觸發**：Cicada Pass 1（15 搜尋）只拿到江致潔訪談；Pass 2（+11 搜尋）才拿到巽洋「像紀錄片」的 quote，直接變成文章第二聲音。4 篇音樂人文章 retro-fix 後皆驗證此 pattern
+- **可能層級**：操作規則（已 instantiate in REWRITE-PIPELINE v2.17 §Stage 1 §3）
+- **相關**：EDITORIAL §挖引語制度
+
+### 2026-04-18 δ — 編年體小標題是 AI 通病
+
+- **原則**：AI 寫傳記式文章默認「2005→2009→2015→2020」時序小標題；讀者體驗是枯燥。小標題必須「scene / 意象 / 衝突 / 場所」先行；若非寫明顯要依年份才有的脈絡，一律不用
+- **觸發**：魏如萱 / 草東 / 康士坦 / Cicada 4 篇 Pass 1 後全部被觀察者指出「段落標題都變成編年史」。retro-fix 後 4 篇皆採 scene/意象小標題（Cicada 「2009 莫拉克颱風的那則新聞」「西海岸電線桿從水裡長出來」等），體感提升顯著
+- **可能層級**：操作規則（已 instantiate in REWRITE-PIPELINE v2.17 §Stage 2 §11 編年體自檢）
+- **相關**：EDITORIAL §小標題規範
+
+### 2026-04-18 δ — 音樂人 YouTube inline link 是強 UX upgrade
+
+- **原則**：音樂人文章提到關鍵作品應加 inline YouTube link（非 footnote），讓讀者即時可聽。強化文字 × 聲音交織的讀者體驗
+- **觸發**：觀察者「好像可以適時連結一些youtube他們音樂影片的連結在歌曲的文字上」。retro-fix 4 篇音樂文章後皆加 5-10 個 YouTube inline link
+- **可能層級**：操作規則（已 instantiate in REWRITE-PIPELINE v2.17.1 §Stage 2 §12）
+- **相關**：—
+
+### 2026-04-18 δ — ARTICLE-INBOX 作為 buffer/intake 驗證可行
+
+- **原則**：跟 LESSONS-INBOX 平行架構，觀察者指派 / agent 建議 / Issue 提議的待開發主題統一 append 此 buffer。auto-heartbeat 無觀察者指令時從此挑 P0/P1 跑 REWRITE-PIPELINE。防止主題遺漏、重複、優先序混亂
+- **觸發**：11 音樂人批次處理中「來不及開發的主題需要 inbox」觀察者指令。建立後 8 條 P1 pending 入 buffer，自動心跳機制已 instantiate
+- **可能層級**：特有教訓（已 instantiate in `docs/semiont/ARTICLE-INBOX.md` + HEARTBEAT Beat 3）
+- **相關**：DNA #15 儀器化（第 6 次驗證）/ LESSONS-INBOX（平行架構）
+
+### 2026-04-18 δ — 單源事實比風格瑕疵更危險也更容易漏
+
+- **原則**：風格瑕疵（編年體、不是 X 是 Y）讀兩遍會抓到；單源事實（求婚日期、入圍 vs 獲獎、解散年份）就算 3 次搜尋也可能全錯。研究報告必須明列 high_confidence / single_source / unverified 三層
+- **觸發**：楊丞琳 Pass 2 發現 Pass 1 錯 5 項事實（《刪拾》未獲金曲 / 李榮浩求婚 7-11 非 9-11 / 4 in Love 解散 2002 非 2001 / 《惡魔在身邊》非《惡作劇之吻》/ 共演非炎亞綸）。全是 Pass 1 搜尋數不足 + 沒分層標記導致
+- **可能層級**：操作規則（RESEARCH.md 研究報告格式 明定 verification 三層 frontmatter）
+- **相關**：DNA #16 事實核對（延伸）/ MEMORY 「絕對事實多三層檢查」
+
 ---
 
 ## ✅ 已消化（保留 pointer）
