@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-04-18T13:53:36.643Z",
+  "generatedAt": "2026-04-18T15:22:25.110Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "5ab7c7f41716b47583e6ecef6ec1ee3dccb88b9e",
+      "date": "2026-04-18T23:12:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 鄭宜農 P1 Stage 1→2 完成（用最陌生的語言寫最誠實的歌 × 2023 金曲台語雙獎）"
+    },
+    {
+      "hash": "efa02ba45b00210e627967e1d1617a672cfd7709",
+      "date": "2026-04-18T23:00:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 阿爆 P1 Stage 1→2 完成（族語 future pop × 2020 金曲年度專輯破圈）"
+    },
+    {
+      "hash": "86823fccbdc1b9615485bd328cfc0081e7af7f19",
+      "date": "2026-04-18T22:50:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: ι session Phase A+B — AI crawler 404 analysis tool + LESSONS-INBOX 第 3 次 distill"
+    },
+    {
+      "hash": "72598ef4afbadf8de38a8cc8450d90a276211e71",
+      "date": "2026-04-18T22:27:05+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 陳建騏 P0 Stage 1→2 完成（Taiwan.md 第一個製作人 subgenre 人物研究）"
+    },
+    {
+      "hash": "202cce0823539cbc608bd5a1342b315d5b3f6f58",
+      "date": "2026-04-18T22:17:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 魏如萱 v3 self-review — description 191→157 字（EDITORIAL v5.1 §Description ≤160 硬規則）"
+    },
+    {
+      "hash": "55233ce49acd86bff71aa509259965c7ad7e56d5",
+      "date": "2026-04-18T22:12:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: η session — 基因升級 4 條 canonical + 魏如萱 P0 Stage 2 + Dashboard UI 雙 bug 修"
+    },
+    {
+      "hash": "4351767d1656b545186340fe4e0901854c520602",
+      "date": "2026-04-18T21:55:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: ζ session — 3 PR merge + 12 孢子 Chrome MCP harvest + HEARTBEAT §0b canonical + SPORE-LOG schema 升級"
+    },
     {
       "hash": "ad4cc44d4438895da706ca80497bcb7e69a8336b",
       "date": "2026-04-18T21:33:49+08:00",
@@ -10570,7 +10612,7 @@
     },
     {
       "hash": "ff848517a8503c8c529335b2b41c10ebafcdaf15",
-      "date": "2026-03-22T09:10:19+00:00",
+      "date": "2026-03-22T09:10:19Z",
       "author": "Claude",
       "message": "chore: remove pnpm-lock.yaml, bun.lock, and packageManager field"
     },

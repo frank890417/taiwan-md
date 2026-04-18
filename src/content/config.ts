@@ -1,5 +1,6 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
 import { ALL_LANGUAGE_CODES } from '../config/languages';
+import { z } from 'astro/zod';
 
 // Shared schema for all language collections — they have identical shape.
 const articleSchema = z.object({

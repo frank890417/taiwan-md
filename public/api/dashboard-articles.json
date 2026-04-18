@@ -9,7 +9,7 @@
     "lastVerified": "2026-04-18",
     "lastHumanReview": "false",
     "featured": false,
-    "wordCount": 1832,
+    "wordCount": 2059,
     "tagCount": 7,
     "tags": [
       "長輩圖",
@@ -27,11 +27,11 @@
       "es": false,
       "fr": false
     },
-    "revision": 1,
-    "commitHash": "d0a246a8",
-    "commitSubject": "Create 長輩圖.md (#548)",
+    "revision": 2,
+    "commitHash": "4351767d",
+    "commitSubject": "🧬 [semiont] memory: ζ session — 3 PR merge + 12 孢子 Chrome MCP harvest + HEARTBEAT §0b canonical + SPORE-LOG schema 升級",
     "description": "長輩圖不僅是台灣銀髮族跨越數位鴻溝的證明，更是社群平台上情感交流的載體，然而其獨特形式也成為假訊息傳播的溫床，並在年輕世代中演變為獨特的迷因文化。",
-    "healthScore": 68,
+    "healthScore": 73,
     "qualityScore": 0,
     "formatIssues": 2,
     "hasOverview": true,
@@ -49,19 +49,8 @@
     "lastHumanReview": "false",
     "featured": false,
     "wordCount": 2941,
-    "tagCount": 10,
-    "tags": [
-      "義美",
-      "食品",
-      "食安",
-      "高騰蛟",
-      "高志明",
-      "台灣品牌",
-      "通路",
-      "蔣渭水",
-      "實驗室",
-      "機器人"
-    ],
+    "tagCount": 0,
+    "tags": [],
     "translations": {
       "en": false,
       "ja": false,
@@ -69,11 +58,11 @@
       "es": false,
       "fr": false
     },
-    "revision": 1,
-    "commitHash": "ad4cc44d",
-    "commitSubject": "Create 台灣企業：義美食品.md (#550)",
+    "revision": 2,
+    "commitHash": "4351767d",
+    "commitSubject": "🧬 [semiont] memory: ζ session — 3 PR merge + 12 孢子 Chrome MCP harvest + HEARTBEAT §0b canonical + SPORE-LOG schema 升級",
     "description": "義美食品，這家從日治時期大稻埕「大安醫院」原址起家的糕餅店，如何在高騰蛟與高志明兩代人的固執經營下，成為台灣食品產業的標竿？本文深入探討其從傳統糕餅到現代通路、從食安實驗室到機器人產業的多維實踐，以及其在社會責任與品牌神話中的挑戰與轉型。",
-    "healthScore": 78,
+    "healthScore": 71,
     "qualityScore": 0,
     "formatIssues": 2,
     "hasOverview": true,
@@ -92,7 +81,12 @@
     "featured": false,
     "wordCount": 1733,
     "tagCount": 4,
-    "tags": ["火鍋", "台灣美食", "沙茶醬", "飲食文化"],
+    "tags": [
+      "火鍋",
+      "台灣美食",
+      "沙茶醬",
+      "飲食文化"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -123,7 +117,13 @@
     "featured": false,
     "wordCount": 2229,
     "tagCount": 5,
-    "tags": ["黑松汽水", "黑松沙士", "台灣品牌", "飲食文化", "張雨生"],
+    "tags": [
+      "黑松汽水",
+      "黑松沙士",
+      "台灣品牌",
+      "飲食文化",
+      "張雨生"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -407,8 +407,8 @@
     "fnCount": 18
   },
   {
-    "title": "魏如萱：從自然捲主唱「娃娃」到兩座金曲歌后，只想被聽見的二十年",
-    "slug": "魏如萱",
+    "title": "鄭宜農：用最陌生的語言寫最誠實的歌——從 2016 身份公開到 2023 金曲台語雙獎的七年",
+    "slug": "鄭宜農",
     "category": "people",
     "subcategory": "音樂與表演",
     "date": "2026-04-18",
@@ -416,7 +416,7 @@
     "lastVerified": "2026-04-18",
     "lastHumanReview": "true",
     "featured": false,
-    "wordCount": 6290,
+    "wordCount": 5797,
     "tagCount": 0,
     "tags": [],
     "translations": {
@@ -426,10 +426,103 @@
       "es": false,
       "fr": false
     },
-    "revision": 5,
-    "commitHash": "e24fc0a6",
-    "commitSubject": "🧬 [semiont] evolve: EDITORIAL v5.1 §Title & Description + 魏如萱 title heal v3 + Pass 3 研究 + ARTICLE-INBOX +6 條",
-    "description": "2003 年魏如萱以「娃娃」之名擔任台灣獨立樂團自然捲主唱；2020 年與 2025 年兩度拿下金曲最佳國語女歌手。從華岡藝校戲劇科、廣播 DJ、劇場配唱，到 2019〈彼個所在〉的四語悼念、2025《珍珠刑》的「從疼痛裡長出來的勇敢與溫柔」——她二十年走的是一條華語流行音樂裡最反直覺的路徑：讓聲音比臉更有名，讓作品比人格活得更久。",
+    "revision": 1,
+    "commitHash": "5ab7c7f4",
+    "commitSubject": "🧬 [semiont] rewrite: 鄭宜農 P1 Stage 1→2 完成（用最陌生的語言寫最誠實的歌 × 2023 金曲台語雙獎）",
+    "description": "1987 年生鄭宜農（Enno Cheng），父親是新電影導演鄭文堂。2007 年演員出道金馬入圍，2016 Facebook 出櫃同月離婚，2022 年首張全台語專輯《水逆》，2023 金曲 34 拿下最佳台語女歌手 + 最佳台語專輯雙獎。她說：「那我直接用一個我沒有這麼熟悉的語言，讓我自己變得很困難。」",
+    "healthScore": 68,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 23
+  },
+  {
+    "title": "阿爆（阿仍仍）：把排灣族語送進金曲年度專輯的那個 future pop 歌手",
+    "slug": "阿爆",
+    "category": "people",
+    "subcategory": "音樂與表演",
+    "date": "2026-04-18",
+    "lastModified": "2026-04-18",
+    "lastVerified": "2026-04-18",
+    "lastHumanReview": "true",
+    "featured": false,
+    "wordCount": 5655,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "efa02ba4",
+    "commitSubject": "🧬 [semiont] rewrite: 阿爆 P1 Stage 1→2 完成（族語 future pop × 2020 金曲年度專輯破圈）",
+    "description": "2020 年金曲 31 年度專輯頒給全排灣語電音《kinakaian 母親的舌頭》。阿爆（Aljenljeng Tjaluvie，1981 年臺東金峰）從 R&B 雙人組 Abao & Brandy 出道、當過十年護理師，2019 與 Dizparity 把族語做成 future pop，改寫「原住民音樂 = 保存」。",
+    "healthScore": 68,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 22
+  },
+  {
+    "title": "陳建騏：從會計系到三金製作人，為華語流行音樂拆掉「怪腔怪調」這條紅線的那個人",
+    "slug": "陳建騏",
+    "category": "people",
+    "subcategory": "音樂與表演",
+    "date": "2026-04-18",
+    "lastModified": "2026-04-18",
+    "lastVerified": "2026-04-18",
+    "lastHumanReview": "true",
+    "featured": false,
+    "wordCount": 5797,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "72598ef4",
+    "commitSubject": "🧬 [semiont] rewrite: 陳建騏 P0 Stage 1→2 完成（Taiwan.md 第一個製作人 subgenre 人物研究）",
+    "description": "1973 年出生、淡江大學會計系畢業的陳建騏，是華語流行音樂史上罕見的「不在場作者」：你聽過他製作的魏如萱、徐佳瑩、田馥甄、彭佳慧的歌，但你可能不知道他是誰。2021 年第 32 屆金曲獎最佳專輯製作人、2023 年金馬獎最佳原創電影歌曲、2025 年金鐘獎戲劇原創歌曲三金得主，一個從劇場鋼琴手走進流行音樂的製作人。",
+    "healthScore": 68,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 22
+  },
+  {
+    "title": "魏如萱：從自然捲主唱「娃娃」到兩座金曲歌后，只想被聽見的二十年",
+    "slug": "魏如萱",
+    "category": "people",
+    "subcategory": "音樂與表演",
+    "date": "2026-04-18",
+    "lastModified": "2026-04-18",
+    "lastVerified": "2026-04-18",
+    "lastHumanReview": "true",
+    "featured": false,
+    "wordCount": 7114,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 7,
+    "commitHash": "202cce08",
+    "commitSubject": "🧬 [semiont] heal: 魏如萱 v3 self-review — description 191→157 字（EDITORIAL v5.1 §Description ≤160 硬規則）",
+    "description": "2003 年自然捲主唱「娃娃」，2006 年聲帶受傷後用「Waa Wei」單飛，2020 與 2025 年兩度拿下金曲最佳國語女歌手。從〈彼個所在〉四語悼念盧凱彤、〈Ophelia〉童聲版的女性抵抗，到《珍珠刑》從疼痛長出的勇敢——她二十年走的是華語流行音樂最反直覺的路徑：讓聲音比臉更有名，讓作品比人格活得更久。",
     "healthScore": 80,
     "qualityScore": 0,
     "formatIssues": 0,
@@ -449,7 +542,12 @@
     "featured": false,
     "wordCount": 2554,
     "tagCount": 4,
-    "tags": ["原住民", "神話", "口傳文學", "台灣文化"],
+    "tags": [
+      "原住民",
+      "神話",
+      "口傳文學",
+      "台灣文化"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -480,7 +578,12 @@
     "featured": false,
     "wordCount": 2615,
     "tagCount": 4,
-    "tags": ["行政區劃", "台灣歷史", "國土規劃", "地方自治"],
+    "tags": [
+      "行政區劃",
+      "台灣歷史",
+      "國土規劃",
+      "地方自治"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -511,7 +614,13 @@
     "featured": false,
     "wordCount": 2960,
     "tagCount": 5,
-    "tags": ["淡水", "淡江中學", "教育史", "馬偕", "日治時期"],
+    "tags": [
+      "淡水",
+      "淡江中學",
+      "教育史",
+      "馬偕",
+      "日治時期"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -573,7 +682,14 @@
     "featured": false,
     "wordCount": 3741,
     "tagCount": 6,
-    "tags": ["許美華", "反紫光", "大罷免", "公民運動", "半導體", "台灣民主"],
+    "tags": [
+      "許美華",
+      "反紫光",
+      "大罷免",
+      "公民運動",
+      "半導體",
+      "台灣民主"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -604,7 +720,12 @@
     "featured": false,
     "wordCount": 1714,
     "tagCount": 4,
-    "tags": ["政治", "民主運動", "高雄", "人權"],
+    "tags": [
+      "政治",
+      "民主運動",
+      "高雄",
+      "人權"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -666,7 +787,13 @@
     "featured": false,
     "wordCount": 2117,
     "tagCount": 5,
-    "tags": ["文化", "日常", "歷史", "災難記憶", "地牛傳說"],
+    "tags": [
+      "文化",
+      "日常",
+      "歷史",
+      "災難記憶",
+      "地牛傳說"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -697,7 +824,14 @@
     "featured": true,
     "wordCount": 2686,
     "tagCount": 6,
-    "tags": ["地理", "地形", "山脈", "平原", "台灣", "自然地理"],
+    "tags": [
+      "地理",
+      "地形",
+      "山脈",
+      "平原",
+      "台灣",
+      "自然地理"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -728,7 +862,13 @@
     "featured": false,
     "wordCount": 1410,
     "tagCount": 5,
-    "tags": ["台灣流行音樂", "偶像團體", "小虎隊", "80年代音樂", "青春文化"],
+    "tags": [
+      "台灣流行音樂",
+      "偶像團體",
+      "小虎隊",
+      "80年代音樂",
+      "青春文化"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -790,7 +930,14 @@
     "featured": true,
     "wordCount": 2043,
     "tagCount": 6,
-    "tags": ["罷免", "國民黨", "公民行動", "立法院", "兩岸關係", "2025"],
+    "tags": [
+      "罷免",
+      "國民黨",
+      "公民行動",
+      "立法院",
+      "兩岸關係",
+      "2025"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -821,7 +968,12 @@
     "featured": false,
     "wordCount": 1907,
     "tagCount": 4,
-    "tags": ["YouBike", "城市交通", "綠運輸", "微交通"],
+    "tags": [
+      "YouBike",
+      "城市交通",
+      "綠運輸",
+      "微交通"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -922,7 +1074,15 @@
     "featured": true,
     "wordCount": 3159,
     "tagCount": 7,
-    "tags": ["人物", "戴資穎", "羽球", "世界球后", "奧運", "運動員", "台灣"],
+    "tags": [
+      "人物",
+      "戴資穎",
+      "羽球",
+      "世界球后",
+      "奧運",
+      "運動員",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -953,7 +1113,14 @@
     "featured": true,
     "wordCount": 2673,
     "tagCount": 6,
-    "tags": ["總統", "醫師", "政治人物", "民主進步黨", "公共衛生", "台南"],
+    "tags": [
+      "總統",
+      "醫師",
+      "政治人物",
+      "民主進步黨",
+      "公共衛生",
+      "台南"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -1159,7 +1326,13 @@
     "featured": true,
     "wordCount": 2708,
     "tagCount": 5,
-    "tags": ["歷史", "島嶼", "史觀", "曹永和", "海洋"],
+    "tags": [
+      "歷史",
+      "島嶼",
+      "史觀",
+      "曹永和",
+      "海洋"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1190,7 +1363,13 @@
     "featured": true,
     "wordCount": 5114,
     "tagCount": 5,
-    "tags": ["民主", "轉型正義", "政治史", "人權", "社會運動"],
+    "tags": [
+      "民主",
+      "轉型正義",
+      "政治史",
+      "人權",
+      "社會運動"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1260,7 +1439,12 @@
     "featured": true,
     "wordCount": 1375,
     "tagCount": 4,
-    "tags": ["History", "日本統治", "現代化", "皇民化運動"],
+    "tags": [
+      "History",
+      "日本統治",
+      "現代化",
+      "皇民化運動"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1291,7 +1475,12 @@
     "featured": false,
     "wordCount": 1282,
     "tagCount": 4,
-    "tags": ["History", "清朝", "開港通商", "牡丹社事件"],
+    "tags": [
+      "History",
+      "清朝",
+      "開港通商",
+      "牡丹社事件"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1509,7 +1698,13 @@
     "featured": false,
     "wordCount": 998,
     "tagCount": 5,
-    "tags": ["特有種", "保育類", "鳥類", "生態", "長尾山娘"],
+    "tags": [
+      "特有種",
+      "保育類",
+      "鳥類",
+      "生態",
+      "長尾山娘"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -1540,7 +1735,13 @@
     "featured": false,
     "wordCount": 1579,
     "tagCount": 5,
-    "tags": ["Nature", "特有種", "生物多樣性", "台灣黑熊", "櫻花鉤吻鮭"],
+    "tags": [
+      "Nature",
+      "特有種",
+      "生物多樣性",
+      "台灣黑熊",
+      "櫻花鉤吻鮭"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -1743,7 +1944,12 @@
     "featured": true,
     "wordCount": 4085,
     "tagCount": 4,
-    "tags": ["社會運動", "民主", "兩岸關係", "公民科技"],
+    "tags": [
+      "社會運動",
+      "民主",
+      "兩岸關係",
+      "公民科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1805,7 +2011,15 @@
     "featured": true,
     "wordCount": 4480,
     "tagCount": 7,
-    "tags": ["宗教", "寺廟", "民間信仰", "媽祖", "佛教", "道教", "保安宮"],
+    "tags": [
+      "宗教",
+      "寺廟",
+      "民間信仰",
+      "媽祖",
+      "佛教",
+      "道教",
+      "保安宮"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1836,7 +2050,12 @@
     "featured": false,
     "wordCount": 1813,
     "tagCount": 4,
-    "tags": ["獸迷", "次文化", "獸裝", "台灣文化"],
+    "tags": [
+      "獸迷",
+      "次文化",
+      "獸裝",
+      "台灣文化"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -1898,7 +2117,13 @@
     "featured": false,
     "wordCount": 4024,
     "tagCount": 5,
-    "tags": ["兩岸關係", "台海危機", "歷史", "國際關係", "地緣政治"],
+    "tags": [
+      "兩岸關係",
+      "台海危機",
+      "歷史",
+      "國際關係",
+      "地緣政治"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -1929,7 +2154,13 @@
     "featured": false,
     "wordCount": 5412,
     "tagCount": 5,
-    "tags": ["國樂", "傳統音樂", "臺北市立國樂團", "民族音樂", "文化融合"],
+    "tags": [
+      "國樂",
+      "傳統音樂",
+      "臺北市立國樂團",
+      "民族音樂",
+      "文化融合"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -1991,7 +2222,14 @@
     "featured": false,
     "wordCount": 910,
     "tagCount": 6,
-    "tags": ["教育", "翻轉教育", "PaGamO", "遊戲化學習", "台大", "教育創新"],
+    "tags": [
+      "教育",
+      "翻轉教育",
+      "PaGamO",
+      "遊戲化學習",
+      "台大",
+      "教育創新"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -2061,7 +2299,13 @@
     "featured": true,
     "wordCount": 5413,
     "tagCount": 5,
-    "tags": ["政治人物", "國民黨", "兩岸關係", "學運世代", "2026"],
+    "tags": [
+      "政治人物",
+      "國民黨",
+      "兩岸關係",
+      "學運世代",
+      "2026"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -2241,7 +2485,13 @@
     "featured": false,
     "wordCount": 3493,
     "tagCount": 5,
-    "tags": ["少子化", "人口危機", "生育率", "社會變遷", "世代"],
+    "tags": [
+      "少子化",
+      "人口危機",
+      "生育率",
+      "社會變遷",
+      "世代"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -2310,7 +2560,14 @@
     "featured": true,
     "wordCount": 3555,
     "tagCount": 6,
-    "tags": ["半導體", "TSMC", "台積電", "先進製程", "科技島", "矽盾"],
+    "tags": [
+      "半導體",
+      "TSMC",
+      "台積電",
+      "先進製程",
+      "科技島",
+      "矽盾"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -2372,7 +2629,14 @@
     "featured": false,
     "wordCount": 2359,
     "tagCount": 6,
-    "tags": ["無人機", "國防", "雷虎科技", "非紅供應鏈", "軍工", "AI"],
+    "tags": [
+      "無人機",
+      "國防",
+      "雷虎科技",
+      "非紅供應鏈",
+      "軍工",
+      "AI"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2574,7 +2838,13 @@
     "featured": true,
     "wordCount": 2146,
     "tagCount": 5,
-    "tags": ["外交", "邦交國", "國際關係", "兩岸", "聯合國"],
+    "tags": [
+      "外交",
+      "邦交國",
+      "國際關係",
+      "兩岸",
+      "聯合國"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2605,7 +2875,14 @@
     "featured": true,
     "wordCount": 3846,
     "tagCount": 6,
-    "tags": ["太空產業", "衛星", "TASA", "福衛", "太空科技", "商業太空"],
+    "tags": [
+      "太空產業",
+      "衛星",
+      "TASA",
+      "福衛",
+      "太空科技",
+      "商業太空"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2636,7 +2913,13 @@
     "featured": false,
     "wordCount": 2583,
     "tagCount": 5,
-    "tags": ["災難醫療", "急診醫學", "DMAT", "台灣醫療", "遠距醫療"],
+    "tags": [
+      "災難醫療",
+      "急診醫學",
+      "DMAT",
+      "台灣醫療",
+      "遠距醫療"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -2667,7 +2950,13 @@
     "featured": true,
     "wordCount": 3837,
     "tagCount": 5,
-    "tags": ["資安產業", "網路安全", "數位發展", "資安政策", "技術創新"],
+    "tags": [
+      "資安產業",
+      "網路安全",
+      "數位發展",
+      "資安政策",
+      "技術創新"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2769,7 +3058,11 @@
     "featured": true,
     "wordCount": 604,
     "tagCount": 3,
-    "tags": ["about", "origin", "taiwan-md"],
+    "tags": [
+      "about",
+      "origin",
+      "taiwan-md"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2800,7 +3093,14 @@
     "featured": false,
     "wordCount": 3203,
     "tagCount": 6,
-    "tags": ["殯葬", "環保葬", "喪禮", "孝女白琴", "清明節", "生死觀"],
+    "tags": [
+      "殯葬",
+      "環保葬",
+      "喪禮",
+      "孝女白琴",
+      "清明節",
+      "生死觀"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -2831,7 +3131,14 @@
     "featured": false,
     "wordCount": 2484,
     "tagCount": 6,
-    "tags": ["台股", "證券交易所", "資本市場", "ETF", "台積電", "散戶"],
+    "tags": [
+      "台股",
+      "證券交易所",
+      "資本市場",
+      "ETF",
+      "台積電",
+      "散戶"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2893,7 +3200,14 @@
     "featured": false,
     "wordCount": 2188,
     "tagCount": 6,
-    "tags": ["公衛", "SARS", "COVID-19", "防疫", "全民健保", "疾管署"],
+    "tags": [
+      "公衛",
+      "SARS",
+      "COVID-19",
+      "防疫",
+      "全民健保",
+      "疾管署"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -2924,7 +3238,14 @@
     "featured": false,
     "wordCount": 1727,
     "tagCount": 6,
-    "tags": ["電影分級", "侏羅紀公園", "電影法", "文化部", "戒嚴", "兒少保護"],
+    "tags": [
+      "電影分級",
+      "侏羅紀公園",
+      "電影法",
+      "文化部",
+      "戒嚴",
+      "兒少保護"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -3104,7 +3425,13 @@
     "featured": true,
     "wordCount": 3221,
     "tagCount": 5,
-    "tags": ["地理", "氣候", "颱風", "梅雨", "氣候變遷"],
+    "tags": [
+      "地理",
+      "氣候",
+      "颱風",
+      "梅雨",
+      "氣候變遷"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -3174,7 +3501,13 @@
     "featured": false,
     "wordCount": 3770,
     "tagCount": 5,
-    "tags": ["選舉", "民主化", "政黨政治", "黨外運動", "總統直選"],
+    "tags": [
+      "選舉",
+      "民主化",
+      "政黨政治",
+      "黨外運動",
+      "總統直選"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3205,7 +3538,12 @@
     "featured": true,
     "wordCount": 2130,
     "tagCount": 4,
-    "tags": ["戒嚴", "威權", "白色恐怖", "轉型正義"],
+    "tags": [
+      "戒嚴",
+      "威權",
+      "白色恐怖",
+      "轉型正義"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3236,7 +3574,12 @@
     "featured": false,
     "wordCount": 3069,
     "tagCount": 4,
-    "tags": ["人物", "政治", "民主化", "總統"],
+    "tags": [
+      "人物",
+      "政治",
+      "民主化",
+      "總統"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -3267,7 +3610,13 @@
     "featured": false,
     "wordCount": 1717,
     "tagCount": 5,
-    "tags": ["郭正光", "NASA", "太空食物", "黑名單", "台灣民主運動"],
+    "tags": [
+      "郭正光",
+      "NASA",
+      "太空食物",
+      "黑名單",
+      "台灣民主運動"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -3298,7 +3647,14 @@
     "featured": false,
     "wordCount": 2710,
     "tagCount": 6,
-    "tags": ["陳士駿", "YouTube", "矽谷", "新創", "就業金卡", "腦瘤"],
+    "tags": [
+      "陳士駿",
+      "YouTube",
+      "矽谷",
+      "新創",
+      "就業金卡",
+      "腦瘤"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -3329,7 +3685,16 @@
     "featured": true,
     "wordCount": 3551,
     "tagCount": 8,
-    "tags": ["人物", "黃仁勳", "NVIDIA", "AI", "半導體", "科技", "台南", "GPU"],
+    "tags": [
+      "人物",
+      "黃仁勳",
+      "NVIDIA",
+      "AI",
+      "半導體",
+      "科技",
+      "台南",
+      "GPU"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -3399,7 +3764,15 @@
     "featured": false,
     "wordCount": 2187,
     "tagCount": 7,
-    "tags": ["ACG", "電玩", "動漫", "社群", "台灣網路", "次文化", "論壇"],
+    "tags": [
+      "ACG",
+      "電玩",
+      "動漫",
+      "社群",
+      "台灣網路",
+      "次文化",
+      "論壇"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -3461,7 +3834,15 @@
     "featured": true,
     "wordCount": 3277,
     "tagCount": 7,
-    "tags": ["交通", "高鐵", "捷運", "機車", "YouBike", "Gogoro", "悠遊卡"],
+    "tags": [
+      "交通",
+      "高鐵",
+      "捷運",
+      "機車",
+      "YouBike",
+      "Gogoro",
+      "悠遊卡"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3561,7 +3942,14 @@
     "featured": false,
     "wordCount": 3927,
     "tagCount": 6,
-    "tags": ["客家", "語言", "文化", "硬頸精神", "六堆", "還我母語運動"],
+    "tags": [
+      "客家",
+      "語言",
+      "文化",
+      "硬頸精神",
+      "六堆",
+      "還我母語運動"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3742,7 +4130,15 @@
     "featured": false,
     "wordCount": 2953,
     "tagCount": 7,
-    "tags": ["人物", "江振誠", "名廚", "米其林", "RAW", "餐飲", "台灣"],
+    "tags": [
+      "人物",
+      "江振誠",
+      "名廚",
+      "米其林",
+      "RAW",
+      "餐飲",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -3842,7 +4238,13 @@
     "featured": true,
     "wordCount": 1740,
     "tagCount": 5,
-    "tags": ["台灣文學", "白先勇", "鄉土文學論戰", "吳明益", "現代主義"],
+    "tags": [
+      "台灣文學",
+      "白先勇",
+      "鄉土文學論戰",
+      "吳明益",
+      "現代主義"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3904,7 +4306,15 @@
     "featured": false,
     "wordCount": 3619,
     "tagCount": 7,
-    "tags": ["文化", "族群", "原住民族", "客家", "閩南", "外省", "新住民"],
+    "tags": [
+      "文化",
+      "族群",
+      "原住民族",
+      "客家",
+      "閩南",
+      "外省",
+      "新住民"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -3997,7 +4407,13 @@
     "featured": true,
     "wordCount": 1852,
     "tagCount": 5,
-    "tags": ["人物", "科學家", "物理學", "教育", "中研院"],
+    "tags": [
+      "人物",
+      "科學家",
+      "物理學",
+      "教育",
+      "中研院"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -4068,7 +4484,15 @@
     "featured": true,
     "wordCount": 1892,
     "tagCount": 7,
-    "tags": ["人物", "李遠哲", "諾貝爾獎", "化學", "科學家", "中研院", "台灣"],
+    "tags": [
+      "人物",
+      "李遠哲",
+      "諾貝爾獎",
+      "化學",
+      "科學家",
+      "中研院",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -4099,7 +4523,15 @@
     "featured": false,
     "wordCount": 2659,
     "tagCount": 7,
-    "tags": ["人物", "蔡英文", "總統", "女性領袖", "民主", "政治", "原住民族"],
+    "tags": [
+      "人物",
+      "蔡英文",
+      "總統",
+      "女性領袖",
+      "民主",
+      "政治",
+      "原住民族"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -4130,7 +4562,13 @@
     "featured": true,
     "wordCount": 3634,
     "tagCount": 5,
-    "tags": ["人工智慧", "AI", "半導體", "科技政策", "數位轉型"],
+    "tags": [
+      "人工智慧",
+      "AI",
+      "半導體",
+      "科技政策",
+      "數位轉型"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -4302,7 +4740,14 @@
     "featured": false,
     "wordCount": 1924,
     "tagCount": 6,
-    "tags": ["馬偕", "淡水", "台灣歷史", "醫療", "教育", "自然科學"],
+    "tags": [
+      "馬偕",
+      "淡水",
+      "台灣歷史",
+      "醫療",
+      "教育",
+      "自然科學"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4333,7 +4778,12 @@
     "featured": false,
     "wordCount": 1424,
     "tagCount": 4,
-    "tags": ["社群媒體", "宅文化", "台灣網路史", "噗幣"],
+    "tags": [
+      "社群媒體",
+      "宅文化",
+      "台灣網路史",
+      "噗幣"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4364,7 +4814,12 @@
     "featured": false,
     "wordCount": 1781,
     "tagCount": 4,
-    "tags": ["小吃", "夜市", "炸物", "台灣美食"],
+    "tags": [
+      "小吃",
+      "夜市",
+      "炸物",
+      "台灣美食"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4433,7 +4888,13 @@
     "featured": false,
     "wordCount": 1304,
     "tagCount": 5,
-    "tags": ["AI", "假訊息", "數位韌性", "杜奕瑾", "認知作戰"],
+    "tags": [
+      "AI",
+      "假訊息",
+      "數位韌性",
+      "杜奕瑾",
+      "認知作戰"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4464,7 +4925,14 @@
     "featured": true,
     "wordCount": 2583,
     "tagCount": 6,
-    "tags": ["台灣美食", "傳統料理", "辦桌", "手路菜", "總鋪師", "飲食文化"],
+    "tags": [
+      "台灣美食",
+      "傳統料理",
+      "辦桌",
+      "手路菜",
+      "總鋪師",
+      "飲食文化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -4534,7 +5002,13 @@
     "featured": false,
     "wordCount": 4154,
     "tagCount": 5,
-    "tags": ["歷史", "轉型正義", "民主化", "人權", "白色恐怖"],
+    "tags": [
+      "歷史",
+      "轉型正義",
+      "民主化",
+      "人權",
+      "白色恐怖"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4565,7 +5039,13 @@
     "featured": false,
     "wordCount": 3734,
     "tagCount": 5,
-    "tags": ["歷史", "民主化", "人權", "黨外運動", "戒嚴"],
+    "tags": [
+      "歷史",
+      "民主化",
+      "人權",
+      "黨外運動",
+      "戒嚴"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4689,7 +5169,13 @@
     "featured": false,
     "wordCount": 2783,
     "tagCount": 5,
-    "tags": ["音樂", "電子音樂", "電影配樂", "聲音藝術", "台語"],
+    "tags": [
+      "音樂",
+      "電子音樂",
+      "電影配樂",
+      "聲音藝術",
+      "台語"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4759,7 +5245,13 @@
     "featured": false,
     "wordCount": 4495,
     "tagCount": 5,
-    "tags": ["政治", "歷史", "戒嚴", "轉型正義", "冷戰"],
+    "tags": [
+      "政治",
+      "歷史",
+      "戒嚴",
+      "轉型正義",
+      "冷戰"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4821,7 +5313,13 @@
     "featured": false,
     "wordCount": 3667,
     "tagCount": 5,
-    "tags": ["藝術", "繪畫", "二二八", "嘉義", "日治時期"],
+    "tags": [
+      "藝術",
+      "繪畫",
+      "二二八",
+      "嘉義",
+      "日治時期"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4852,7 +5350,13 @@
     "featured": false,
     "wordCount": 3759,
     "tagCount": 5,
-    "tags": ["社會", "族群", "政治", "歷史", "身份認同"],
+    "tags": [
+      "社會",
+      "族群",
+      "政治",
+      "歷史",
+      "身份認同"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4883,7 +5387,14 @@
     "featured": true,
     "wordCount": 2801,
     "tagCount": 6,
-    "tags": ["電視", "公視", "植劇場", "老三台", "媒體改革", "台灣戲劇"],
+    "tags": [
+      "電視",
+      "公視",
+      "植劇場",
+      "老三台",
+      "媒體改革",
+      "台灣戲劇"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -4914,7 +5425,14 @@
     "featured": false,
     "wordCount": 1856,
     "tagCount": 6,
-    "tags": ["AI", "資訊戰", "開源", "SSOT", "知識主權", "台灣"],
+    "tags": [
+      "AI",
+      "資訊戰",
+      "開源",
+      "SSOT",
+      "知識主權",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -4945,7 +5463,13 @@
     "featured": false,
     "wordCount": 3579,
     "tagCount": 5,
-    "tags": ["植劇場", "台灣電視劇", "王小棣", "許光漢", "金鐘獎"],
+    "tags": [
+      "植劇場",
+      "台灣電視劇",
+      "王小棣",
+      "許光漢",
+      "金鐘獎"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5007,7 +5531,14 @@
     "featured": true,
     "wordCount": 3268,
     "tagCount": 6,
-    "tags": ["美食", "珍珠奶茶", "手搖飲", "全球化", "軟實力", "文化外交"],
+    "tags": [
+      "美食",
+      "珍珠奶茶",
+      "手搖飲",
+      "全球化",
+      "軟實力",
+      "文化外交"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5038,7 +5569,15 @@
     "featured": false,
     "wordCount": 2926,
     "tagCount": 7,
-    "tags": ["石虎", "保育", "路殺", "棲地", "苗栗", "瀕危物種", "生態"],
+    "tags": [
+      "石虎",
+      "保育",
+      "路殺",
+      "棲地",
+      "苗栗",
+      "瀕危物種",
+      "生態"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5069,7 +5608,13 @@
     "featured": true,
     "wordCount": 3073,
     "tagCount": 5,
-    "tags": ["杜奕瑾", "PTT", "Taiwan AI Labs", "數位民主", "人工智慧"],
+    "tags": [
+      "杜奕瑾",
+      "PTT",
+      "Taiwan AI Labs",
+      "數位民主",
+      "人工智慧"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5100,7 +5645,14 @@
     "featured": false,
     "wordCount": 2574,
     "tagCount": 6,
-    "tags": ["人物", "政治", "台北市長", "台灣民眾黨", "醫師", "第三勢力"],
+    "tags": [
+      "人物",
+      "政治",
+      "台北市長",
+      "台灣民眾黨",
+      "醫師",
+      "第三勢力"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5131,7 +5683,14 @@
     "featured": false,
     "wordCount": 2866,
     "tagCount": 6,
-    "tags": ["總統", "政黨輪替", "民進黨", "台北市長", "民主化", "人權立法"],
+    "tags": [
+      "總統",
+      "政黨輪替",
+      "民進黨",
+      "台北市長",
+      "民主化",
+      "人權立法"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5162,7 +5721,13 @@
     "featured": false,
     "wordCount": 3048,
     "tagCount": 5,
-    "tags": ["總統", "國民黨", "兩岸關係", "ECFA", "台北市長"],
+    "tags": [
+      "總統",
+      "國民黨",
+      "兩岸關係",
+      "ECFA",
+      "台北市長"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5193,7 +5758,13 @@
     "featured": true,
     "wordCount": 5748,
     "tagCount": 5,
-    "tags": ["建築", "文化", "歷史", "原住民", "日治"],
+    "tags": [
+      "建築",
+      "文化",
+      "歷史",
+      "原住民",
+      "日治"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5224,7 +5795,13 @@
     "featured": false,
     "wordCount": 2983,
     "tagCount": 5,
-    "tags": ["原住民族", "文化", "祭典", "語言", "當代創作"],
+    "tags": [
+      "原住民族",
+      "文化",
+      "祭典",
+      "語言",
+      "當代創作"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5255,7 +5832,13 @@
     "featured": false,
     "wordCount": 2998,
     "tagCount": 5,
-    "tags": ["原住民族", "語言復振", "族語教育", "語言政策", "文化傳承"],
+    "tags": [
+      "原住民族",
+      "語言復振",
+      "族語教育",
+      "語言政策",
+      "文化傳承"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5286,7 +5869,13 @@
     "featured": false,
     "wordCount": 3155,
     "tagCount": 5,
-    "tags": ["台灣華語", "語言演化", "日語借詞", "兩岸用語", "語言認同"],
+    "tags": [
+      "台灣華語",
+      "語言演化",
+      "日語借詞",
+      "兩岸用語",
+      "語言認同"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5317,7 +5906,13 @@
     "featured": false,
     "wordCount": 3140,
     "tagCount": 5,
-    "tags": ["自媒體", "創作者經濟", "KOL", "網紅", "聯盟行銷"],
+    "tags": [
+      "自媒體",
+      "創作者經濟",
+      "KOL",
+      "網紅",
+      "聯盟行銷"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5379,7 +5974,14 @@
     "featured": true,
     "wordCount": 3671,
     "tagCount": 6,
-    "tags": ["豆漿", "早餐店", "永和豆漿", "燒餅油條", "蛋餅", "眷村飲食"],
+    "tags": [
+      "豆漿",
+      "早餐店",
+      "永和豆漿",
+      "燒餅油條",
+      "蛋餅",
+      "眷村飲食"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5410,7 +6012,13 @@
     "featured": false,
     "wordCount": 2603,
     "tagCount": 5,
-    "tags": ["原住民族", "正名運動", "身份認同", "社會運動", "文化保存"],
+    "tags": [
+      "原住民族",
+      "正名運動",
+      "身份認同",
+      "社會運動",
+      "文化保存"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5479,7 +6087,12 @@
     "featured": false,
     "wordCount": 2630,
     "tagCount": 4,
-    "tags": ["人物", "鑑識科學", "台裔美國人", "刑事調查"],
+    "tags": [
+      "人物",
+      "鑑識科學",
+      "台裔美國人",
+      "刑事調查"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5510,7 +6123,13 @@
     "featured": false,
     "wordCount": 2900,
     "tagCount": 5,
-    "tags": ["斜槓", "零工經濟", "薪資", "房價", "青年就業"],
+    "tags": [
+      "斜槓",
+      "零工經濟",
+      "薪資",
+      "房價",
+      "青年就業"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5541,7 +6160,14 @@
     "featured": false,
     "wordCount": 3385,
     "tagCount": 6,
-    "tags": ["AI", "人工智慧", "LINE", "智慧醫療", "智慧農業", "日常科技"],
+    "tags": [
+      "AI",
+      "人工智慧",
+      "LINE",
+      "智慧醫療",
+      "智慧農業",
+      "日常科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5611,7 +6237,14 @@
     "featured": false,
     "wordCount": 2607,
     "tagCount": 6,
-    "tags": ["開源", "g0v", "COSCUP", "GitHub", "公民科技", "自由軟體"],
+    "tags": [
+      "開源",
+      "g0v",
+      "COSCUP",
+      "GitHub",
+      "公民科技",
+      "自由軟體"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5750,7 +6383,13 @@
     "featured": false,
     "wordCount": 1848,
     "tagCount": 5,
-    "tags": ["小綠人", "行人號誌", "交通設計", "台灣文化", "都市設計"],
+    "tags": [
+      "小綠人",
+      "行人號誌",
+      "交通設計",
+      "台灣文化",
+      "都市設計"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5781,7 +6420,13 @@
     "featured": false,
     "wordCount": 2928,
     "tagCount": 5,
-    "tags": ["金曲獎", "流行音樂", "獨立音樂", "原住民音樂", "華語音樂"],
+    "tags": [
+      "金曲獎",
+      "流行音樂",
+      "獨立音樂",
+      "原住民音樂",
+      "華語音樂"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -5812,7 +6457,13 @@
     "featured": false,
     "wordCount": 1690,
     "tagCount": 5,
-    "tags": ["林宥嘉", "華語流行音樂", "超級星光大道", "腸躁症", "王LoveLord"],
+    "tags": [
+      "林宥嘉",
+      "華語流行音樂",
+      "超級星光大道",
+      "腸躁症",
+      "王LoveLord"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5843,7 +6494,13 @@
     "featured": false,
     "wordCount": 1592,
     "tagCount": 5,
-    "tags": ["江蕙", "台語流行音樂", "金曲獎", "北投那卡西", "台灣文化"],
+    "tags": [
+      "江蕙",
+      "台語流行音樂",
+      "金曲獎",
+      "北投那卡西",
+      "台灣文化"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5874,7 +6531,15 @@
     "featured": false,
     "wordCount": 3158,
     "tagCount": 7,
-    "tags": ["導演", "電視", "電影", "植劇場", "公視", "金鐘獎", "LGBTQ+"],
+    "tags": [
+      "導演",
+      "電視",
+      "電影",
+      "植劇場",
+      "公視",
+      "金鐘獎",
+      "LGBTQ+"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -5905,7 +6570,13 @@
     "featured": false,
     "wordCount": 1239,
     "tagCount": 5,
-    "tags": ["台灣文史", "藏書家", "黃震南", "台灣歷史", "活水來冊房"],
+    "tags": [
+      "台灣文史",
+      "藏書家",
+      "黃震南",
+      "台灣歷史",
+      "活水來冊房"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -5936,7 +6607,14 @@
     "featured": false,
     "wordCount": 2336,
     "tagCount": 6,
-    "tags": ["志工服務", "公益團體", "慈濟", "NPO", "社區營造", "故事媽媽"],
+    "tags": [
+      "志工服務",
+      "公益團體",
+      "慈濟",
+      "NPO",
+      "社區營造",
+      "故事媽媽"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6043,7 +6721,12 @@
     "featured": false,
     "wordCount": 2435,
     "tagCount": 4,
-    "tags": ["文化", "科技", "直播", "虛擬偶像"],
+    "tags": [
+      "文化",
+      "科技",
+      "直播",
+      "虛擬偶像"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6074,7 +6757,11 @@
     "featured": false,
     "wordCount": 1491,
     "tagCount": 3,
-    "tags": ["民間信仰", "傳統工藝", "擲筊"],
+    "tags": [
+      "民間信仰",
+      "傳統工藝",
+      "擲筊"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -6136,7 +6823,13 @@
     "featured": true,
     "wordCount": 3137,
     "tagCount": 5,
-    "tags": ["歷史", "民主化", "政治", "美麗島事件", "野百合學運"],
+    "tags": [
+      "歷史",
+      "民主化",
+      "政治",
+      "美麗島事件",
+      "野百合學運"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -6167,7 +6860,14 @@
     "featured": false,
     "wordCount": 998,
     "tagCount": 6,
-    "tags": ["兒童文學", "作家", "國語日報", "親子", "文化開創者", "小太陽"],
+    "tags": [
+      "兒童文學",
+      "作家",
+      "國語日報",
+      "親子",
+      "文化開創者",
+      "小太陽"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -6276,7 +6976,13 @@
     "featured": false,
     "wordCount": 2658,
     "tagCount": 5,
-    "tags": ["關聖帝君", "恩主公", "行天宮", "民間信仰", "廟宇文化"],
+    "tags": [
+      "關聖帝君",
+      "恩主公",
+      "行天宮",
+      "民間信仰",
+      "廟宇文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6346,7 +7052,12 @@
     "featured": false,
     "wordCount": 1023,
     "tagCount": 4,
-    "tags": ["城邦媒體", "出版業", "數位轉型", "自慢"],
+    "tags": [
+      "城邦媒體",
+      "出版業",
+      "數位轉型",
+      "自慢"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -6377,7 +7088,13 @@
     "featured": true,
     "wordCount": 2773,
     "tagCount": 5,
-    "tags": ["茶文化", "茶道", "生活美學", "東方美人茶", "紫藤廬"],
+    "tags": [
+      "茶文化",
+      "茶道",
+      "生活美學",
+      "東方美人茶",
+      "紫藤廬"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6408,7 +7125,14 @@
     "featured": true,
     "wordCount": 3002,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "半導體", "科技", "製造業", "台積電"],
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "科技",
+      "製造業",
+      "台積電"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6439,7 +7163,14 @@
     "featured": false,
     "wordCount": 2448,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "半導體", "晶片設計", "IC設計", "聯發科"],
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "晶片設計",
+      "IC設計",
+      "聯發科"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6510,7 +7241,13 @@
     "featured": false,
     "wordCount": 1399,
     "tagCount": 5,
-    "tags": ["賽德克族", "霧社事件", "原住民歷史", "日本殖民", "台灣抗日"],
+    "tags": [
+      "賽德克族",
+      "霧社事件",
+      "原住民歷史",
+      "日本殖民",
+      "台灣抗日"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -6690,7 +7427,12 @@
     "featured": false,
     "wordCount": 2144,
     "tagCount": 4,
-    "tags": ["about", "founder", "artist", "新媒體藝術"],
+    "tags": [
+      "about",
+      "founder",
+      "artist",
+      "新媒體藝術"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6760,7 +7502,13 @@
     "featured": false,
     "wordCount": 2923,
     "tagCount": 5,
-    "tags": ["文學", "原住民", "口傳文學", "南島語系", "文化復振"],
+    "tags": [
+      "文學",
+      "原住民",
+      "口傳文學",
+      "南島語系",
+      "文化復振"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6830,7 +7578,14 @@
     "featured": true,
     "wordCount": 2871,
     "tagCount": 6,
-    "tags": ["散文", "文學", "台灣文學史", "女性作家", "生活書寫", "自然書寫"],
+    "tags": [
+      "散文",
+      "文學",
+      "台灣文學史",
+      "女性作家",
+      "生活書寫",
+      "自然書寫"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6892,7 +7647,13 @@
     "featured": true,
     "wordCount": 2720,
     "tagCount": 5,
-    "tags": ["策展人", "當代藝術", "文化建構", "美術館", "藝術論述"],
+    "tags": [
+      "策展人",
+      "當代藝術",
+      "文化建構",
+      "美術館",
+      "藝術論述"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6923,7 +7684,13 @@
     "featured": false,
     "wordCount": 5596,
     "tagCount": 5,
-    "tags": ["戰後文學", "鄉土文學", "現代主義", "女性文學", "語言轉換"],
+    "tags": [
+      "戰後文學",
+      "鄉土文學",
+      "現代主義",
+      "女性文學",
+      "語言轉換"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -6954,7 +7721,12 @@
     "featured": false,
     "wordCount": 3431,
     "tagCount": 4,
-    "tags": ["文學", "當代", "國際化", "數位轉型"],
+    "tags": [
+      "文學",
+      "當代",
+      "國際化",
+      "數位轉型"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -6985,7 +7757,12 @@
     "featured": false,
     "wordCount": 1277,
     "tagCount": 4,
-    "tags": ["art", "contemporary", "culture", "museums"],
+    "tags": [
+      "art",
+      "contemporary",
+      "culture",
+      "museums"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7016,7 +7793,14 @@
     "featured": true,
     "wordCount": 2745,
     "tagCount": 6,
-    "tags": ["傳統節慶", "民俗", "媽祖遶境", "鹽水蜂炮", "春節", "中秋烤肉"],
+    "tags": [
+      "傳統節慶",
+      "民俗",
+      "媽祖遶境",
+      "鹽水蜂炮",
+      "春節",
+      "中秋烤肉"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7047,7 +7831,13 @@
     "featured": false,
     "wordCount": 2290,
     "tagCount": 5,
-    "tags": ["迷因", "網路文化", "台灣本土", "PTT", "社群媒體"],
+    "tags": [
+      "迷因",
+      "網路文化",
+      "台灣本土",
+      "PTT",
+      "社群媒體"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7078,7 +7868,14 @@
     "featured": true,
     "wordCount": 2539,
     "tagCount": 6,
-    "tags": ["注音", "語言", "教育", "文化認同", "輸入法", "ㄅㄆㄇ"],
+    "tags": [
+      "注音",
+      "語言",
+      "教育",
+      "文化認同",
+      "輸入法",
+      "ㄅㄆㄇ"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7148,7 +7945,14 @@
     "featured": false,
     "wordCount": 3953,
     "tagCount": 6,
-    "tags": ["企業", "集團企業", "多元經營", "紡織業", "台商", "政治風險"],
+    "tags": [
+      "企業",
+      "集團企業",
+      "多元經營",
+      "紡織業",
+      "台商",
+      "政治風險"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7179,7 +7983,13 @@
     "featured": false,
     "wordCount": 2236,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "海運業", "物流", "國際貿易"],
+    "tags": [
+      "Economy",
+      "企業",
+      "海運業",
+      "物流",
+      "國際貿易"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7210,7 +8020,13 @@
     "featured": false,
     "wordCount": 1388,
     "tagCount": 5,
-    "tags": ["動畫產業", "代工外包", "宏廣卡通", "東方迪士尼", "台灣藝術"],
+    "tags": [
+      "動畫產業",
+      "代工外包",
+      "宏廣卡通",
+      "東方迪士尼",
+      "台灣藝術"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7311,7 +8127,13 @@
     "featured": true,
     "wordCount": 2143,
     "tagCount": 5,
-    "tags": ["海岸地形", "海洋地景", "板塊構造", "地質作用", "自然景觀"],
+    "tags": [
+      "海岸地形",
+      "海洋地景",
+      "板塊構造",
+      "地質作用",
+      "自然景觀"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -7411,7 +8233,13 @@
     "featured": false,
     "wordCount": 2456,
     "tagCount": 5,
-    "tags": ["垃圾車", "城市聲景", "環保政策", "台灣日常", "文化符號"],
+    "tags": [
+      "垃圾車",
+      "城市聲景",
+      "環保政策",
+      "台灣日常",
+      "文化符號"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -7482,7 +8310,12 @@
     "featured": false,
     "wordCount": 830,
     "tagCount": 4,
-    "tags": ["台灣生態", "都市鳥類", "黑冠麻鷺", "大笨鳥"],
+    "tags": [
+      "台灣生態",
+      "都市鳥類",
+      "黑冠麻鷺",
+      "大笨鳥"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -7551,7 +8384,14 @@
     "featured": false,
     "wordCount": 2725,
     "tagCount": 6,
-    "tags": ["新媒體藝術", "生成藝術", "程式創作", "NFT", "教育", "人物"],
+    "tags": [
+      "新媒體藝術",
+      "生成藝術",
+      "程式創作",
+      "NFT",
+      "教育",
+      "人物"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -7582,7 +8422,13 @@
     "featured": false,
     "wordCount": 792,
     "tagCount": 5,
-    "tags": ["台灣歷史", "清領時期", "民變", "朱一貴", "鴨母王"],
+    "tags": [
+      "台灣歷史",
+      "清領時期",
+      "民變",
+      "朱一貴",
+      "鴨母王"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -7613,7 +8459,14 @@
     "featured": false,
     "wordCount": 2258,
     "tagCount": 6,
-    "tags": ["人物", "歌手", "演藝圈", "LGBTQ+權益", "流行音樂", "金曲獎"],
+    "tags": [
+      "人物",
+      "歌手",
+      "演藝圈",
+      "LGBTQ+權益",
+      "流行音樂",
+      "金曲獎"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -7790,7 +8643,12 @@
     "featured": false,
     "wordCount": 1991,
     "tagCount": 4,
-    "tags": ["文學", "詩", "現代詩", "鄉土文學"],
+    "tags": [
+      "文學",
+      "詩",
+      "現代詩",
+      "鄉土文學"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7821,7 +8679,13 @@
     "featured": false,
     "wordCount": 4042,
     "tagCount": 5,
-    "tags": ["文學", "解嚴", "本土化", "政治文學", "多元文學"],
+    "tags": [
+      "文學",
+      "解嚴",
+      "本土化",
+      "政治文學",
+      "多元文學"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -7852,7 +8716,13 @@
     "featured": false,
     "wordCount": 3375,
     "tagCount": 5,
-    "tags": ["語言學", "社會語言學", "台灣文化", "語言接觸", "外來語"],
+    "tags": [
+      "語言學",
+      "社會語言學",
+      "台灣文化",
+      "語言接觸",
+      "外來語"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7883,7 +8753,13 @@
     "featured": false,
     "wordCount": 2161,
     "tagCount": 5,
-    "tags": ["網路歷史", "社群媒體", "BBS", "部落格", "Yahoo併購"],
+    "tags": [
+      "網路歷史",
+      "社群媒體",
+      "BBS",
+      "部落格",
+      "Yahoo併購"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -7914,7 +8790,13 @@
     "featured": false,
     "wordCount": 3988,
     "tagCount": 5,
-    "tags": ["Economy", "台灣經濟", "中小企業", "科學園區", "半導體"],
+    "tags": [
+      "Economy",
+      "台灣經濟",
+      "中小企業",
+      "科學園區",
+      "半導體"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -7976,7 +8858,13 @@
     "featured": true,
     "wordCount": 4691,
     "tagCount": 5,
-    "tags": ["米其林", "精緻餐飲", "星級餐廳", "台灣美食", "餐飲產業"],
+    "tags": [
+      "米其林",
+      "精緻餐飲",
+      "星級餐廳",
+      "台灣美食",
+      "餐飲產業"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8007,7 +8895,14 @@
     "featured": false,
     "wordCount": 2598,
     "tagCount": 6,
-    "tags": ["米食", "稻米", "傳統文化", "節慶食品", "農業", "飲食變遷"],
+    "tags": [
+      "米食",
+      "稻米",
+      "傳統文化",
+      "節慶食品",
+      "農業",
+      "飲食變遷"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8038,7 +8933,14 @@
     "featured": true,
     "wordCount": 2090,
     "tagCount": 6,
-    "tags": ["Food", "茶文化", "烏龍茶", "高山茶", "手搖飲", "珍珠奶茶"],
+    "tags": [
+      "Food",
+      "茶文化",
+      "烏龍茶",
+      "高山茶",
+      "手搖飲",
+      "珍珠奶茶"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8100,7 +9002,13 @@
     "featured": true,
     "wordCount": 2569,
     "tagCount": 5,
-    "tags": ["國家風景區", "觀光政策", "環境保育", "永續旅遊", "國土規劃"],
+    "tags": [
+      "國家風景區",
+      "觀光政策",
+      "環境保育",
+      "永續旅遊",
+      "國土規劃"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8131,7 +9039,14 @@
     "featured": false,
     "wordCount": 3913,
     "tagCount": 6,
-    "tags": ["溫泉", "地質", "火山", "溫泉文化", "觀光", "板塊運動"],
+    "tags": [
+      "溫泉",
+      "地質",
+      "火山",
+      "溫泉文化",
+      "觀光",
+      "板塊運動"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8162,7 +9077,14 @@
     "featured": false,
     "wordCount": 2702,
     "tagCount": 6,
-    "tags": ["地理", "地質", "板塊運動", "造山運動", "地震", "溫泉"],
+    "tags": [
+      "地理",
+      "地質",
+      "板塊運動",
+      "造山運動",
+      "地震",
+      "溫泉"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8224,7 +9146,13 @@
     "featured": true,
     "wordCount": 3410,
     "tagCount": 5,
-    "tags": ["眷村", "外省移民", "國共內戰", "文化保存", "都市更新"],
+    "tags": [
+      "眷村",
+      "外省移民",
+      "國共內戰",
+      "文化保存",
+      "都市更新"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -8409,7 +9337,14 @@
     "featured": false,
     "wordCount": 4300,
     "tagCount": 6,
-    "tags": ["森林生態", "垂直分布", "台灣杉", "檜木", "雲霧帶", "生物多樣性"],
+    "tags": [
+      "森林生態",
+      "垂直分布",
+      "台灣杉",
+      "檜木",
+      "雲霧帶",
+      "生物多樣性"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8440,7 +9375,13 @@
     "featured": true,
     "wordCount": 2609,
     "tagCount": 5,
-    "tags": ["海洋保育", "環境保護", "海洋污染", "珊瑚礁", "海洋國家公園"],
+    "tags": [
+      "海洋保育",
+      "環境保護",
+      "海洋污染",
+      "珊瑚礁",
+      "海洋國家公園"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -8533,7 +9474,13 @@
     "featured": false,
     "wordCount": 2831,
     "tagCount": 5,
-    "tags": ["自然", "國家公園", "生態保育", "觀光", "環境保護"],
+    "tags": [
+      "自然",
+      "國家公園",
+      "生態保育",
+      "觀光",
+      "環境保護"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8564,7 +9511,15 @@
     "featured": false,
     "wordCount": 2433,
     "tagCount": 7,
-    "tags": ["人物", "周杰倫", "華語流行音樂", "歌手", "創作", "R&B", "中國風"],
+    "tags": [
+      "人物",
+      "周杰倫",
+      "華語流行音樂",
+      "歌手",
+      "創作",
+      "R&B",
+      "中國風"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8595,7 +9550,15 @@
     "featured": false,
     "wordCount": 1844,
     "tagCount": 7,
-    "tags": ["人物", "藝術", "美術", "三峽", "祖師廟", "寫實主義", "台展"],
+    "tags": [
+      "人物",
+      "藝術",
+      "美術",
+      "三峽",
+      "祖師廟",
+      "寫實主義",
+      "台展"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8626,7 +9589,13 @@
     "featured": false,
     "wordCount": 2454,
     "tagCount": 5,
-    "tags": ["人物", "舞蹈", "藝術", "表演藝術", "雲門舞集"],
+    "tags": [
+      "人物",
+      "舞蹈",
+      "藝術",
+      "表演藝術",
+      "雲門舞集"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8733,7 +9702,12 @@
     "featured": false,
     "wordCount": 2131,
     "tagCount": 4,
-    "tags": ["語言學家", "台語文運動", "母語教育", "越南研究"],
+    "tags": [
+      "語言學家",
+      "台語文運動",
+      "母語教育",
+      "越南研究"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -8764,7 +9738,14 @@
     "featured": false,
     "wordCount": 2843,
     "tagCount": 6,
-    "tags": ["音樂", "流行音樂", "爵士樂", "超級星光大道", "金曲獎", "雨神"],
+    "tags": [
+      "音樂",
+      "流行音樂",
+      "爵士樂",
+      "超級星光大道",
+      "金曲獎",
+      "雨神"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -8795,7 +9776,13 @@
     "featured": false,
     "wordCount": 2409,
     "tagCount": 5,
-    "tags": ["全齡共融", "無障礙旅遊", "超高齡社會", "家庭文化", "社會韌性"],
+    "tags": [
+      "全齡共融",
+      "無障礙旅遊",
+      "超高齡社會",
+      "家庭文化",
+      "社會韌性"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -8857,7 +9844,13 @@
     "featured": false,
     "wordCount": 3064,
     "tagCount": 5,
-    "tags": ["社會", "歷史", "學生運動", "民主化", "公民運動"],
+    "tags": [
+      "社會",
+      "歷史",
+      "學生運動",
+      "民主化",
+      "公民運動"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -8888,7 +9881,12 @@
     "featured": false,
     "wordCount": 3174,
     "tagCount": 4,
-    "tags": ["Technology", "開源社群", "g0v", "公民科技"],
+    "tags": [
+      "Technology",
+      "開源社群",
+      "g0v",
+      "公民科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -8919,7 +9917,13 @@
     "featured": false,
     "wordCount": 2567,
     "tagCount": 5,
-    "tags": ["劇場", "表演藝術", "舞蹈", "雲門舞集", "當代傳奇劇場"],
+    "tags": [
+      "劇場",
+      "表演藝術",
+      "舞蹈",
+      "雲門舞集",
+      "當代傳奇劇場"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -8950,7 +9954,12 @@
     "featured": false,
     "wordCount": 2602,
     "tagCount": 4,
-    "tags": ["當代藝術", "美術館", "高雄", "文化空間"],
+    "tags": [
+      "當代藝術",
+      "美術館",
+      "高雄",
+      "文化空間"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -8981,7 +9990,14 @@
     "featured": true,
     "wordCount": 3069,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "電源管理", "綠能科技", "工業自動化", "ESG"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電源管理",
+      "綠能科技",
+      "工業自動化",
+      "ESG"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9130,7 +10146,13 @@
     "featured": false,
     "wordCount": 2027,
     "tagCount": 5,
-    "tags": ["冰品", "芒果冰", "雪花冰", "剉冰", "ICE MONSTER"],
+    "tags": [
+      "冰品",
+      "芒果冰",
+      "雪花冰",
+      "剉冰",
+      "ICE MONSTER"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9161,7 +10183,14 @@
     "featured": true,
     "wordCount": 2592,
     "tagCount": 6,
-    "tags": ["美食", "手搖飲", "珍珠奶茶", "茶飲", "文化輸出", "品牌國際化"],
+    "tags": [
+      "美食",
+      "手搖飲",
+      "珍珠奶茶",
+      "茶飲",
+      "文化輸出",
+      "品牌國際化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9192,7 +10221,13 @@
     "featured": true,
     "wordCount": 4347,
     "tagCount": 5,
-    "tags": ["新住民美食", "東南亞料理", "文化融合", "多元飲食", "移民文化"],
+    "tags": [
+      "新住民美食",
+      "東南亞料理",
+      "文化融合",
+      "多元飲食",
+      "移民文化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9262,7 +10297,13 @@
     "featured": false,
     "wordCount": 1870,
     "tagCount": 5,
-    "tags": ["海鮮", "漁港", "島嶼文化", "蚵仔煎", "海鮮料理"],
+    "tags": [
+      "海鮮",
+      "漁港",
+      "島嶼文化",
+      "蚵仔煎",
+      "海鮮料理"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9293,7 +10334,13 @@
     "featured": true,
     "wordCount": 1460,
     "tagCount": 5,
-    "tags": ["滷肉飯", "肉燥飯", "眷村菜", "國民美食", "南北差異"],
+    "tags": [
+      "滷肉飯",
+      "肉燥飯",
+      "眷村菜",
+      "國民美食",
+      "南北差異"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9363,7 +10410,13 @@
     "featured": false,
     "wordCount": 2289,
     "tagCount": 5,
-    "tags": ["眷村菜", "外省菜", "牛肉麵", "大遷移", "竹籬笆"],
+    "tags": [
+      "眷村菜",
+      "外省菜",
+      "牛肉麵",
+      "大遷移",
+      "竹籬笆"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9394,7 +10447,13 @@
     "featured": false,
     "wordCount": 2231,
     "tagCount": 5,
-    "tags": ["素食", "佛教", "素料", "慈濟", "素食餐廳"],
+    "tags": [
+      "素食",
+      "佛教",
+      "素料",
+      "慈濟",
+      "素食餐廳"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9425,7 +10484,13 @@
     "featured": false,
     "wordCount": 1630,
     "tagCount": 5,
-    "tags": ["醬料", "調味料", "飲食文化", "台灣味", "發酵食品"],
+    "tags": [
+      "醬料",
+      "調味料",
+      "飲食文化",
+      "台灣味",
+      "發酵食品"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9456,7 +10521,13 @@
     "featured": true,
     "wordCount": 1694,
     "tagCount": 5,
-    "tags": ["鹹酥雞", "宵夜文化", "炸物", "九層塔", "夜市"],
+    "tags": [
+      "鹹酥雞",
+      "宵夜文化",
+      "炸物",
+      "九層塔",
+      "夜市"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9487,7 +10558,13 @@
     "featured": false,
     "wordCount": 2120,
     "tagCount": 5,
-    "tags": ["麵包", "烘焙", "吳寶春", "台式麵包", "85度C"],
+    "tags": [
+      "麵包",
+      "烘焙",
+      "吳寶春",
+      "台式麵包",
+      "85度C"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9518,7 +10595,13 @@
     "featured": false,
     "wordCount": 3665,
     "tagCount": 5,
-    "tags": ["夜市", "小吃", "文化", "觀光", "庶民生活"],
+    "tags": [
+      "夜市",
+      "小吃",
+      "文化",
+      "觀光",
+      "庶民生活"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9549,7 +10632,14 @@
     "featured": false,
     "wordCount": 2754,
     "tagCount": 6,
-    "tags": ["Food", "客家", "擂茶", "野薑花粽", "傳統美食", "族群文化"],
+    "tags": [
+      "Food",
+      "客家",
+      "擂茶",
+      "野薑花粽",
+      "傳統美食",
+      "族群文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9580,7 +10670,14 @@
     "featured": true,
     "wordCount": 3109,
     "tagCount": 6,
-    "tags": ["美食", "牛肉麵", "外省菜", "文化融合", "台北牛肉麵節", "米其林"],
+    "tags": [
+      "美食",
+      "牛肉麵",
+      "外省菜",
+      "文化融合",
+      "台北牛肉麵節",
+      "米其林"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9691,7 +10788,13 @@
     "featured": false,
     "wordCount": 2226,
     "tagCount": 5,
-    "tags": ["人物", "政治家", "女權運動", "副總統", "美麗島事件"],
+    "tags": [
+      "人物",
+      "政治家",
+      "女權運動",
+      "副總統",
+      "美麗島事件"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9722,7 +10825,13 @@
     "featured": false,
     "wordCount": 2421,
     "tagCount": 5,
-    "tags": ["人物", "企業家", "科技", "宏碁", "微笑曲線"],
+    "tags": [
+      "人物",
+      "企業家",
+      "科技",
+      "宏碁",
+      "微笑曲線"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -9910,7 +11019,13 @@
     "featured": false,
     "wordCount": 3335,
     "tagCount": 5,
-    "tags": ["長期照顧", "高齡化", "外籍看護", "長照2.0", "制度矛盾"],
+    "tags": [
+      "長期照顧",
+      "高齡化",
+      "外籍看護",
+      "長照2.0",
+      "制度矛盾"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9941,7 +11056,13 @@
     "featured": false,
     "wordCount": 2576,
     "tagCount": 5,
-    "tags": ["攝影", "視覺藝術", "張照堂", "阮義忠", "紀實"],
+    "tags": [
+      "攝影",
+      "視覺藝術",
+      "張照堂",
+      "阮義忠",
+      "紀實"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -9972,7 +11093,14 @@
     "featured": false,
     "wordCount": 2166,
     "tagCount": 6,
-    "tags": ["漫畫", "插畫", "視覺藝術", "鄭問", "蔡志忠", "金漫獎"],
+    "tags": [
+      "漫畫",
+      "插畫",
+      "視覺藝術",
+      "鄭問",
+      "蔡志忠",
+      "金漫獎"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10003,7 +11131,12 @@
     "featured": false,
     "wordCount": 1367,
     "tagCount": 4,
-    "tags": ["台灣文化", "民俗信仰", "科技業", "都市傳說"],
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "科技業",
+      "都市傳說"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10034,7 +11167,14 @@
     "featured": false,
     "wordCount": 2227,
     "tagCount": 6,
-    "tags": ["廟會", "陣頭", "民間信仰", "電音三太子", "八家將", "媽祖遶境"],
+    "tags": [
+      "廟會",
+      "陣頭",
+      "民間信仰",
+      "電音三太子",
+      "八家將",
+      "媽祖遶境"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10065,7 +11205,12 @@
     "featured": false,
     "wordCount": 1612,
     "tagCount": 4,
-    "tags": ["台灣文化", "民俗信仰", "諧音文化", "數字禁忌"],
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "諧音文化",
+      "數字禁忌"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10096,7 +11241,13 @@
     "featured": false,
     "wordCount": 1620,
     "tagCount": 5,
-    "tags": ["台灣文化", "民俗信仰", "媽祖", "保生大帝", "氣象諺語"],
+    "tags": [
+      "台灣文化",
+      "民俗信仰",
+      "媽祖",
+      "保生大帝",
+      "氣象諺語"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10127,7 +11278,14 @@
     "featured": false,
     "wordCount": 2311,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "電子代工", "ODM", "AI雲端", "筆記型電腦"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "ODM",
+      "AI雲端",
+      "筆記型電腦"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10158,7 +11316,13 @@
     "featured": false,
     "wordCount": 2088,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "半導體業", "封裝測試", "科技製造"],
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體業",
+      "封裝測試",
+      "科技製造"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10189,7 +11353,13 @@
     "featured": false,
     "wordCount": 1710,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "食品業", "零售業", "品牌經營"],
+    "tags": [
+      "Economy",
+      "企業",
+      "食品業",
+      "零售業",
+      "品牌經營"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10220,7 +11390,14 @@
     "featured": false,
     "wordCount": 2498,
     "tagCount": 6,
-    "tags": ["經濟", "夜市", "台灣", "商業模式", "觀光", "小吃"],
+    "tags": [
+      "經濟",
+      "夜市",
+      "台灣",
+      "商業模式",
+      "觀光",
+      "小吃"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -10251,7 +11428,13 @@
     "featured": false,
     "wordCount": 2557,
     "tagCount": 5,
-    "tags": ["生態", "生物多樣性", "特有種", "保育", "國家公園"],
+    "tags": [
+      "生態",
+      "生物多樣性",
+      "特有種",
+      "保育",
+      "國家公園"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -10282,7 +11465,13 @@
     "featured": true,
     "wordCount": 1851,
     "tagCount": 5,
-    "tags": ["生態多樣性", "特有種", "生物保育", "生態系統", "環境保護"],
+    "tags": [
+      "生態多樣性",
+      "特有種",
+      "生物保育",
+      "生態系統",
+      "環境保護"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -10352,7 +11541,14 @@
     "featured": false,
     "wordCount": 3081,
     "tagCount": 6,
-    "tags": ["人物", "朱宗慶", "音樂家", "打擊樂", "教育", "表演藝術"],
+    "tags": [
+      "人物",
+      "朱宗慶",
+      "音樂家",
+      "打擊樂",
+      "教育",
+      "表演藝術"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -10504,7 +11700,13 @@
     "featured": true,
     "wordCount": 2790,
     "tagCount": 5,
-    "tags": ["環保", "永續發展", "淨零排放", "循環經濟", "氣候變遷"],
+    "tags": [
+      "環保",
+      "永續發展",
+      "淨零排放",
+      "循環經濟",
+      "氣候變遷"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10535,7 +11737,14 @@
     "featured": true,
     "wordCount": 1974,
     "tagCount": 6,
-    "tags": ["PTT", "BBS", "網路文化", "鄉民", "數位民主", "社群媒體"],
+    "tags": [
+      "PTT",
+      "BBS",
+      "網路文化",
+      "鄉民",
+      "數位民主",
+      "社群媒體"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10604,7 +11813,13 @@
     "featured": false,
     "wordCount": 3037,
     "tagCount": 5,
-    "tags": ["漫畫", "動漫", "文化創意", "次文化", "青少年文化"],
+    "tags": [
+      "漫畫",
+      "動漫",
+      "文化創意",
+      "次文化",
+      "青少年文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10635,7 +11850,13 @@
     "featured": false,
     "wordCount": 3881,
     "tagCount": 5,
-    "tags": ["老街", "歷史街區", "文化保存", "觀光", "建築"],
+    "tags": [
+      "老街",
+      "歷史街區",
+      "文化保存",
+      "觀光",
+      "建築"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10666,7 +11887,13 @@
     "featured": false,
     "wordCount": 3167,
     "tagCount": 5,
-    "tags": ["街頭藝術", "塗鴉", "都市文化", "公共藝術", "次文化"],
+    "tags": [
+      "街頭藝術",
+      "塗鴉",
+      "都市文化",
+      "公共藝術",
+      "次文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10697,7 +11924,13 @@
     "featured": false,
     "wordCount": 1968,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "鋼鐵業", "十大建設", "重工業"],
+    "tags": [
+      "Economy",
+      "企業",
+      "鋼鐵業",
+      "十大建設",
+      "重工業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10728,7 +11961,13 @@
     "featured": false,
     "wordCount": 2145,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "金融業", "公營銀行", "國際金融"],
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "公營銀行",
+      "國際金融"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10759,7 +11998,14 @@
     "featured": false,
     "wordCount": 2340,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "水泥業", "建材", "國營民營化", "綠色轉型"],
+    "tags": [
+      "Economy",
+      "企業",
+      "水泥業",
+      "建材",
+      "國營民營化",
+      "綠色轉型"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10790,7 +12036,13 @@
     "featured": false,
     "wordCount": 2367,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "化學工業", "高分子材料", "台南企業"],
+    "tags": [
+      "Economy",
+      "企業",
+      "化學工業",
+      "高分子材料",
+      "台南企業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10821,7 +12073,14 @@
     "featured": false,
     "wordCount": 2871,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "科技業", "VR", "智慧手機", "創新"],
+    "tags": [
+      "Economy",
+      "企業",
+      "科技業",
+      "VR",
+      "智慧手機",
+      "創新"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10852,7 +12111,12 @@
     "featured": false,
     "wordCount": 1651,
     "tagCount": 4,
-    "tags": ["Economy", "企業", "金融業", "數位轉型"],
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "數位轉型"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10883,7 +12147,12 @@
     "featured": false,
     "wordCount": 1893,
     "tagCount": 4,
-    "tags": ["Economy", "企業", "半導體", "IC設計"],
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "IC設計"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10914,7 +12183,12 @@
     "featured": false,
     "wordCount": 1878,
     "tagCount": 4,
-    "tags": ["Economy", "企業", "石化業", "化工"],
+    "tags": [
+      "Economy",
+      "企業",
+      "石化業",
+      "化工"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10945,7 +12219,14 @@
     "featured": false,
     "wordCount": 6661,
     "tagCount": 6,
-    "tags": ["交通運輸", "高鐵", "捷運", "公路", "航空", "港口"],
+    "tags": [
+      "交通運輸",
+      "高鐵",
+      "捷運",
+      "公路",
+      "航空",
+      "港口"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -10976,7 +12257,13 @@
     "featured": false,
     "wordCount": 4788,
     "tagCount": 5,
-    "tags": ["水資源", "水庫", "缺水", "水利工程", "氣候變遷"],
+    "tags": [
+      "水資源",
+      "水庫",
+      "缺水",
+      "水利工程",
+      "氣候變遷"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11007,7 +12294,13 @@
     "featured": false,
     "wordCount": 3507,
     "tagCount": 5,
-    "tags": ["都市發展", "城鄉差距", "六都", "人口流動", "區域發展"],
+    "tags": [
+      "都市發展",
+      "城鄉差距",
+      "六都",
+      "人口流動",
+      "區域發展"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11038,7 +12331,13 @@
     "featured": false,
     "wordCount": 2109,
     "tagCount": 5,
-    "tags": ["海洋貿易", "大航海時代", "國際貿易", "海盜", "港口城市"],
+    "tags": [
+      "海洋貿易",
+      "大航海時代",
+      "國際貿易",
+      "海盜",
+      "港口城市"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11069,7 +12368,12 @@
     "featured": false,
     "wordCount": 2175,
     "tagCount": 4,
-    "tags": ["Lifestyle", "騎樓", "街景", "都市文化"],
+    "tags": [
+      "Lifestyle",
+      "騎樓",
+      "街景",
+      "都市文化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11277,7 +12581,14 @@
     "featured": false,
     "wordCount": 522,
     "tagCount": 6,
-    "tags": ["教育", "閱讀素養", "品學堂", "閱讀理解", "教育創新", "素養教育"],
+    "tags": [
+      "教育",
+      "閱讀素養",
+      "品學堂",
+      "閱讀理解",
+      "教育創新",
+      "素養教育"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11377,7 +12688,12 @@
     "featured": false,
     "wordCount": 2263,
     "tagCount": 4,
-    "tags": ["Technology", "AI", "人工智慧", "科技產業"],
+    "tags": [
+      "Technology",
+      "AI",
+      "人工智慧",
+      "科技產業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11408,7 +12724,14 @@
     "featured": true,
     "wordCount": 3436,
     "tagCount": 6,
-    "tags": ["人工智慧", "AI政策", "半導體", "科技政策", "數位轉型", "創新"],
+    "tags": [
+      "人工智慧",
+      "AI政策",
+      "半導體",
+      "科技政策",
+      "數位轉型",
+      "創新"
+    ],
     "translations": {
       "en": false,
       "ja": true,
@@ -11439,7 +12762,13 @@
     "featured": false,
     "wordCount": 2222,
     "tagCount": 5,
-    "tags": ["數位影像", "動畫", "視覺特效", "文創產業", "影視工業"],
+    "tags": [
+      "數位影像",
+      "動畫",
+      "視覺特效",
+      "文創產業",
+      "影視工業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11501,7 +12830,13 @@
     "featured": false,
     "wordCount": 1842,
     "tagCount": 5,
-    "tags": ["Art", "watercolor", "painting", "水彩", "美術史"],
+    "tags": [
+      "Art",
+      "watercolor",
+      "painting",
+      "水彩",
+      "美術史"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11563,7 +12898,14 @@
     "featured": false,
     "wordCount": 3799,
     "tagCount": 6,
-    "tags": ["文化", "客家", "紡織", "設計", "本土化", "文化復興"],
+    "tags": [
+      "文化",
+      "客家",
+      "紡織",
+      "設計",
+      "本土化",
+      "文化復興"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11670,7 +13012,13 @@
     "featured": true,
     "wordCount": 2741,
     "tagCount": 5,
-    "tags": ["經濟發展", "產業轉型", "經濟奇蹟", "高科技產業", "台灣發展模式"],
+    "tags": [
+      "經濟發展",
+      "產業轉型",
+      "經濟奇蹟",
+      "高科技產業",
+      "台灣發展模式"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -11701,7 +13049,11 @@
     "featured": true,
     "wordCount": 858,
     "tagCount": 3,
-    "tags": ["History", "史前時代", "原住民"],
+    "tags": [
+      "History",
+      "史前時代",
+      "原住民"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -11833,7 +13185,15 @@
     "featured": true,
     "wordCount": 3644,
     "tagCount": 7,
-    "tags": ["音樂", "嘻哈", "饒舌", "Hip-Hop", "Rap", "金曲獎", "流行音樂"],
+    "tags": [
+      "音樂",
+      "嘻哈",
+      "饒舌",
+      "Hip-Hop",
+      "Rap",
+      "金曲獎",
+      "流行音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11933,7 +13293,14 @@
     "featured": true,
     "wordCount": 1647,
     "tagCount": 6,
-    "tags": ["電子音樂", "Rave", "派對文化", "DJ", "電音節", "地下音樂"],
+    "tags": [
+      "電子音樂",
+      "Rave",
+      "派對文化",
+      "DJ",
+      "電音節",
+      "地下音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11964,7 +13331,14 @@
     "featured": true,
     "wordCount": 3231,
     "tagCount": 6,
-    "tags": ["音樂產業", "串流音樂", "KKBOX", "數位音樂", "唱片行", "獨立音樂"],
+    "tags": [
+      "音樂產業",
+      "串流音樂",
+      "KKBOX",
+      "數位音樂",
+      "唱片行",
+      "獨立音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -11995,7 +13369,12 @@
     "featured": false,
     "wordCount": 3522,
     "tagCount": 4,
-    "tags": ["自然", "步道", "公民科學", "生態保育"],
+    "tags": [
+      "自然",
+      "步道",
+      "公民科學",
+      "生態保育"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12026,7 +13405,15 @@
     "featured": false,
     "wordCount": 2535,
     "tagCount": 7,
-    "tags": ["皇蛾", "蛇頭蛾", "Atlas Moth", "蛾類", "保育", "昆蟲", "生態"],
+    "tags": [
+      "皇蛾",
+      "蛇頭蛾",
+      "Atlas Moth",
+      "蛾類",
+      "保育",
+      "昆蟲",
+      "生態"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12057,7 +13444,14 @@
     "featured": false,
     "wordCount": 2144,
     "tagCount": 6,
-    "tags": ["穿山甲", "保育", "瀕危物種", "走私", "台北動物園", "生態"],
+    "tags": [
+      "穿山甲",
+      "保育",
+      "瀕危物種",
+      "走私",
+      "台北動物園",
+      "生態"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -12088,7 +13482,14 @@
     "featured": false,
     "wordCount": 1127,
     "tagCount": 6,
-    "tags": ["音樂", "搖滾", "台語歌曲", "嘉義", "本土搖滾", "吉他"],
+    "tags": [
+      "音樂",
+      "搖滾",
+      "台語歌曲",
+      "嘉義",
+      "本土搖滾",
+      "吉他"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12119,7 +13520,12 @@
     "featured": false,
     "wordCount": 1144,
     "tagCount": 4,
-    "tags": ["台積電", "半導體", "地緣政治", "企業領導"],
+    "tags": [
+      "台積電",
+      "半導體",
+      "地緣政治",
+      "企業領導"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12189,7 +13595,15 @@
     "featured": false,
     "wordCount": 1596,
     "tagCount": 7,
-    "tags": ["人物", "繪本作家", "插畫", "文學", "血癌", "宜蘭", "電影改編"],
+    "tags": [
+      "人物",
+      "繪本作家",
+      "插畫",
+      "文學",
+      "血癌",
+      "宜蘭",
+      "電影改編"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12259,7 +13673,14 @@
     "featured": false,
     "wordCount": 1126,
     "tagCount": 6,
-    "tags": ["音樂", "原住民", "卑南族", "天后", "同志平權", "流行音樂"],
+    "tags": [
+      "音樂",
+      "原住民",
+      "卑南族",
+      "天后",
+      "同志平權",
+      "流行音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12290,7 +13711,12 @@
     "featured": false,
     "wordCount": 1332,
     "tagCount": 4,
-    "tags": ["趨勢科技", "資安產業", "軟體業", "國際化"],
+    "tags": [
+      "趨勢科技",
+      "資安產業",
+      "軟體業",
+      "國際化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12321,7 +13747,13 @@
     "featured": false,
     "wordCount": 927,
     "tagCount": 5,
-    "tags": ["電影", "導演", "演員", "歌手", "編劇"],
+    "tags": [
+      "電影",
+      "導演",
+      "演員",
+      "歌手",
+      "編劇"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12352,7 +13784,13 @@
     "featured": false,
     "wordCount": 2187,
     "tagCount": 5,
-    "tags": ["設計師", "視覺識別", "金曲獎", "金馬獎", "究方社"],
+    "tags": [
+      "設計師",
+      "視覺識別",
+      "金曲獎",
+      "金馬獎",
+      "究方社"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12383,7 +13821,13 @@
     "featured": false,
     "wordCount": 1776,
     "tagCount": 5,
-    "tags": ["民主運動", "美麗島事件", "政治受難者", "倒扁紅衫軍", "政治領袖"],
+    "tags": [
+      "民主運動",
+      "美麗島事件",
+      "政治受難者",
+      "倒扁紅衫軍",
+      "政治領袖"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12414,7 +13858,13 @@
     "featured": false,
     "wordCount": 872,
     "tagCount": 5,
-    "tags": ["歌仔戲", "傳統藝術", "表演藝術", "明華園", "陳勝福"],
+    "tags": [
+      "歌仔戲",
+      "傳統藝術",
+      "表演藝術",
+      "明華園",
+      "陳勝福"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12484,7 +13934,13 @@
     "featured": true,
     "wordCount": 1365,
     "tagCount": 5,
-    "tags": ["物理學家", "超導體", "諾貝爾獎候選人", "中研院", "休士頓大學"],
+    "tags": [
+      "物理學家",
+      "超導體",
+      "諾貝爾獎候選人",
+      "中研院",
+      "休士頓大學"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12515,7 +13971,13 @@
     "featured": false,
     "wordCount": 2533,
     "tagCount": 5,
-    "tags": ["李國修", "屏風表演班", "喜劇", "劇場", "台灣戲劇"],
+    "tags": [
+      "李國修",
+      "屏風表演班",
+      "喜劇",
+      "劇場",
+      "台灣戲劇"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12546,7 +14008,15 @@
     "featured": true,
     "wordCount": 4250,
     "tagCount": 7,
-    "tags": ["人物", "李安", "導演", "奧斯卡", "電影", "跨文化", "好萊塢"],
+    "tags": [
+      "人物",
+      "李安",
+      "導演",
+      "奧斯卡",
+      "電影",
+      "跨文化",
+      "好萊塢"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12654,7 +14124,14 @@
     "featured": false,
     "wordCount": 1321,
     "tagCount": 6,
-    "tags": ["音樂", "創作歌手", "華語流行", "新加坡", "流行音樂", "金曲獎"],
+    "tags": [
+      "音樂",
+      "創作歌手",
+      "華語流行",
+      "新加坡",
+      "流行音樂",
+      "金曲獎"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12685,7 +14162,12 @@
     "featured": false,
     "wordCount": 1010,
     "tagCount": 4,
-    "tags": ["企業家", "廣達電腦", "ODM代工", "人工智慧"],
+    "tags": [
+      "企業家",
+      "廣達電腦",
+      "ODM代工",
+      "人工智慧"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12753,7 +14235,13 @@
     "featured": false,
     "wordCount": 2399,
     "tagCount": 5,
-    "tags": ["林青霞", "演員", "瓊瑤電影", "東方不敗", "華語電影"],
+    "tags": [
+      "林青霞",
+      "演員",
+      "瓊瑤電影",
+      "東方不敗",
+      "華語電影"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12784,7 +14272,13 @@
     "featured": false,
     "wordCount": 2339,
     "tagCount": 5,
-    "tags": ["桂綸鎂", "演員", "不能說的秘密", "國際影展", "演技派"],
+    "tags": [
+      "桂綸鎂",
+      "演員",
+      "不能說的秘密",
+      "國際影展",
+      "演技派"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12815,7 +14309,14 @@
     "featured": false,
     "wordCount": 1276,
     "tagCount": 6,
-    "tags": ["體育", "田徑", "奧運", "十項全能", "原住民", "阿美族"],
+    "tags": [
+      "體育",
+      "田徑",
+      "奧運",
+      "十項全能",
+      "原住民",
+      "阿美族"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12846,7 +14347,13 @@
     "featured": true,
     "wordCount": 1822,
     "tagCount": 5,
-    "tags": ["導演", "台灣新電影", "楊德昌", "坎城影展", "都市電影"],
+    "tags": [
+      "導演",
+      "台灣新電影",
+      "楊德昌",
+      "坎城影展",
+      "都市電影"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12877,7 +14384,12 @@
     "featured": false,
     "wordCount": 1711,
     "tagCount": 4,
-    "tags": ["人物", "棒球", "運動", "職業運動員"],
+    "tags": [
+      "人物",
+      "棒球",
+      "運動",
+      "職業運動員"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12908,7 +14420,12 @@
     "featured": false,
     "wordCount": 888,
     "tagCount": 4,
-    "tags": ["企業家", "台塑集團", "石化工業", "經營管理"],
+    "tags": [
+      "企業家",
+      "台塑集團",
+      "石化工業",
+      "經營管理"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -12978,7 +14495,13 @@
     "featured": false,
     "wordCount": 1411,
     "tagCount": 5,
-    "tags": ["體育", "網球", "奧運", "溫布頓", "職業網球"],
+    "tags": [
+      "體育",
+      "網球",
+      "奧運",
+      "溫布頓",
+      "職業網球"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13009,7 +14532,12 @@
     "featured": false,
     "wordCount": 1191,
     "tagCount": 4,
-    "tags": ["和碩聯合", "科技產業", "人文思想", "誠品書店"],
+    "tags": [
+      "和碩聯合",
+      "科技產業",
+      "人文思想",
+      "誠品書店"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13040,7 +14568,12 @@
     "featured": false,
     "wordCount": 1567,
     "tagCount": 4,
-    "tags": ["Google", "人工智慧", "科技產業", "人才培育"],
+    "tags": [
+      "Google",
+      "人工智慧",
+      "科技產業",
+      "人才培育"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13071,7 +14604,12 @@
     "featured": false,
     "wordCount": 1037,
     "tagCount": 4,
-    "tags": ["體育", "田徑", "奧運", "跨欄"],
+    "tags": [
+      "體育",
+      "田徑",
+      "奧運",
+      "跨欄"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13102,7 +14640,13 @@
     "featured": false,
     "wordCount": 964,
     "tagCount": 5,
-    "tags": ["音樂", "創作歌手", "社會批判", "台語歌曲", "流行音樂"],
+    "tags": [
+      "音樂",
+      "創作歌手",
+      "社會批判",
+      "台語歌曲",
+      "流行音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13133,7 +14677,13 @@
     "featured": false,
     "wordCount": 1440,
     "tagCount": 5,
-    "tags": ["體育", "桌球", "奧運", "職業桌球", "歐洲聯賽"],
+    "tags": [
+      "體育",
+      "桌球",
+      "奧運",
+      "職業桌球",
+      "歐洲聯賽"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13164,7 +14714,12 @@
     "featured": false,
     "wordCount": 1401,
     "tagCount": 4,
-    "tags": ["英業達", "電子代工", "ODM", "筆記型電腦"],
+    "tags": [
+      "英業達",
+      "電子代工",
+      "ODM",
+      "筆記型電腦"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13195,7 +14750,13 @@
     "featured": true,
     "wordCount": 2481,
     "tagCount": 5,
-    "tags": ["導演", "蔡明亮", "慢電影", "威尼斯影展", "馬來西亞華人"],
+    "tags": [
+      "導演",
+      "蔡明亮",
+      "慢電影",
+      "威尼斯影展",
+      "馬來西亞華人"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13226,7 +14787,13 @@
     "featured": false,
     "wordCount": 2030,
     "tagCount": 5,
-    "tags": ["設計師", "葛萊美獎", "專輯包裝", "視覺設計", "台灣文化"],
+    "tags": [
+      "設計師",
+      "葛萊美獎",
+      "專輯包裝",
+      "視覺設計",
+      "台灣文化"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13257,7 +14824,13 @@
     "featured": false,
     "wordCount": 1266,
     "tagCount": 5,
-    "tags": ["奇美集團", "企業家", "音樂藝術", "博物館", "文化推廣"],
+    "tags": [
+      "奇美集團",
+      "企業家",
+      "音樂藝術",
+      "博物館",
+      "文化推廣"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13288,7 +14861,13 @@
     "featured": false,
     "wordCount": 1754,
     "tagCount": 5,
-    "tags": ["體育", "舉重", "奧運", "金牌", "53公斤級"],
+    "tags": [
+      "體育",
+      "舉重",
+      "奧運",
+      "金牌",
+      "53公斤級"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13319,7 +14898,13 @@
     "featured": false,
     "wordCount": 789,
     "tagCount": 5,
-    "tags": ["舞蹈", "表演藝術", "瑪乘舞團", "拉芳", "現代舞"],
+    "tags": [
+      "舞蹈",
+      "表演藝術",
+      "瑪乘舞團",
+      "拉芳",
+      "現代舞"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13350,7 +14935,14 @@
     "featured": false,
     "wordCount": 1542,
     "tagCount": 6,
-    "tags": ["體育", "網球", "溫布頓", "大滿貫", "女雙", "職業網球"],
+    "tags": [
+      "體育",
+      "網球",
+      "溫布頓",
+      "大滿貫",
+      "女雙",
+      "職業網球"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13381,7 +14973,13 @@
     "featured": false,
     "wordCount": 2211,
     "tagCount": 5,
-    "tags": ["豬哥亮", "秀場", "喜劇", "綜藝", "台語"],
+    "tags": [
+      "豬哥亮",
+      "秀場",
+      "喜劇",
+      "綜藝",
+      "台語"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13412,7 +15010,13 @@
     "featured": false,
     "wordCount": 2557,
     "tagCount": 5,
-    "tags": ["賴聲川", "劇場", "表演工作坊", "暗戀桃花源", "戲劇導演"],
+    "tags": [
+      "賴聲川",
+      "劇場",
+      "表演工作坊",
+      "暗戀桃花源",
+      "戲劇導演"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13443,7 +15047,12 @@
     "featured": false,
     "wordCount": 1830,
     "tagCount": 4,
-    "tags": ["人物", "企業家", "科技", "製造業"],
+    "tags": [
+      "人物",
+      "企業家",
+      "科技",
+      "製造業"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13474,7 +15083,13 @@
     "featured": false,
     "wordCount": 1601,
     "tagCount": 5,
-    "tags": ["體育", "棒球", "MLB", "道奇隊", "左投"],
+    "tags": [
+      "體育",
+      "棒球",
+      "MLB",
+      "道奇隊",
+      "左投"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13505,7 +15120,14 @@
     "featured": false,
     "wordCount": 1283,
     "tagCount": 6,
-    "tags": ["音樂", "台語歌謠", "作曲家", "日治時期", "古典音樂", "桃園"],
+    "tags": [
+      "音樂",
+      "台語歌謠",
+      "作曲家",
+      "日治時期",
+      "古典音樂",
+      "桃園"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13575,7 +15197,13 @@
     "featured": false,
     "wordCount": 1763,
     "tagCount": 5,
-    "tags": ["體育", "田徑", "標槍", "世大運", "亞洲紀錄"],
+    "tags": [
+      "體育",
+      "田徑",
+      "標槍",
+      "世大運",
+      "亞洲紀錄"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13606,7 +15234,13 @@
     "featured": false,
     "wordCount": 2329,
     "tagCount": 5,
-    "tags": ["鈕承澤", "導演", "演員", "艋舺", "爭議"],
+    "tags": [
+      "鈕承澤",
+      "導演",
+      "演員",
+      "艋舺",
+      "爭議"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13675,7 +15309,13 @@
     "featured": false,
     "wordCount": 2333,
     "tagCount": 5,
-    "tags": ["設計師", "平面設計", "設計教育", "自由落體", "設計詩人"],
+    "tags": [
+      "設計師",
+      "平面設計",
+      "設計教育",
+      "自由落體",
+      "設計詩人"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13706,7 +15346,14 @@
     "featured": false,
     "wordCount": 1283,
     "tagCount": 6,
-    "tags": ["學者", "副總統", "行政院長", "流行病學", "公共衛生", "抗疫"],
+    "tags": [
+      "學者",
+      "副總統",
+      "行政院長",
+      "流行病學",
+      "公共衛生",
+      "抗疫"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13737,7 +15384,14 @@
     "featured": false,
     "wordCount": 1266,
     "tagCount": 6,
-    "tags": ["音樂", "獨立音樂", "創作歌手", "跨年演唱會", "民謠", "搖滾"],
+    "tags": [
+      "音樂",
+      "獨立音樂",
+      "創作歌手",
+      "跨年演唱會",
+      "民謠",
+      "搖滾"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13807,7 +15461,14 @@
     "featured": false,
     "wordCount": 2316,
     "tagCount": 6,
-    "tags": ["陳玉勳", "導演", "喜劇電影", "熱帶魚", "總鋪師", "消失的情人節"],
+    "tags": [
+      "陳玉勳",
+      "導演",
+      "喜劇電影",
+      "熱帶魚",
+      "總鋪師",
+      "消失的情人節"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13838,7 +15499,15 @@
     "featured": false,
     "wordCount": 1699,
     "tagCount": 7,
-    "tags": ["體育", "棒球", "日職", "巨人隊", "外野手", "原住民", "阿美族"],
+    "tags": [
+      "體育",
+      "棒球",
+      "日職",
+      "巨人隊",
+      "外野手",
+      "原住民",
+      "阿美族"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -13869,7 +15538,12 @@
     "featured": false,
     "wordCount": 1123,
     "tagCount": 4,
-    "tags": ["台積電", "半導體製程", "技術創新", "製造工藝"],
+    "tags": [
+      "台積電",
+      "半導體製程",
+      "技術創新",
+      "製造工藝"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14017,7 +15691,13 @@
     "featured": true,
     "wordCount": 966,
     "tagCount": 5,
-    "tags": ["人工智慧", "智慧醫療", "杜奕瑾", "科技創新", "資訊戰防制"],
+    "tags": [
+      "人工智慧",
+      "智慧醫療",
+      "杜奕瑾",
+      "科技創新",
+      "資訊戰防制"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14048,7 +15728,13 @@
     "featured": true,
     "wordCount": 2217,
     "tagCount": 5,
-    "tags": ["遊戲產業", "數位娛樂", "文化創意", "科技業", "獨立遊戲"],
+    "tags": [
+      "遊戲產業",
+      "數位娛樂",
+      "文化創意",
+      "科技業",
+      "獨立遊戲"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14141,7 +15827,11 @@
     "featured": false,
     "wordCount": 3610,
     "tagCount": 3,
-    "tags": ["文學", "日治時期", "殖民文學"],
+    "tags": [
+      "文學",
+      "日治時期",
+      "殖民文學"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14172,7 +15862,14 @@
     "featured": true,
     "wordCount": 4358,
     "tagCount": 6,
-    "tags": ["婚禮", "喪禮", "人生禮俗", "辦桌文化", "傳統習俗", "現代轉化"],
+    "tags": [
+      "婚禮",
+      "喪禮",
+      "人生禮俗",
+      "辦桌文化",
+      "傳統習俗",
+      "現代轉化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14242,7 +15939,14 @@
     "featured": false,
     "wordCount": 2692,
     "tagCount": 6,
-    "tags": ["製香", "傳統工藝", "宗教文化", "嘉義", "香腳", "民間信仰"],
+    "tags": [
+      "製香",
+      "傳統工藝",
+      "宗教文化",
+      "嘉義",
+      "香腳",
+      "民間信仰"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14273,7 +15977,14 @@
     "featured": true,
     "wordCount": 2645,
     "tagCount": 6,
-    "tags": ["語言", "母語", "台語", "客家話", "原住民語", "多元文化"],
+    "tags": [
+      "語言",
+      "母語",
+      "台語",
+      "客家話",
+      "原住民語",
+      "多元文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14413,7 +16124,13 @@
     "featured": false,
     "wordCount": 3104,
     "tagCount": 5,
-    "tags": ["精緻農業", "農業科技", "蘭花", "鳳梨釋迦", "智慧農業"],
+    "tags": [
+      "精緻農業",
+      "農業科技",
+      "蘭花",
+      "鳳梨釋迦",
+      "智慧農業"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14444,7 +16161,13 @@
     "featured": true,
     "wordCount": 2959,
     "tagCount": 5,
-    "tags": ["地質", "板塊運動", "地震", "活動斷層", "自然災害"],
+    "tags": [
+      "地質",
+      "板塊運動",
+      "地震",
+      "活動斷層",
+      "自然災害"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14475,7 +16198,15 @@
     "featured": true,
     "wordCount": 3069,
     "tagCount": 7,
-    "tags": ["地理", "河川", "水文", "濁水溪", "高屏溪", "淡水河", "水資源"],
+    "tags": [
+      "地理",
+      "河川",
+      "水文",
+      "濁水溪",
+      "高屏溪",
+      "淡水河",
+      "水資源"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14506,7 +16237,13 @@
     "featured": true,
     "wordCount": 3382,
     "tagCount": 5,
-    "tags": ["城市", "區域文化", "地方特色", "都市發展", "文化地理"],
+    "tags": [
+      "城市",
+      "區域文化",
+      "地方特色",
+      "都市發展",
+      "文化地理"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14537,7 +16274,13 @@
     "featured": true,
     "wordCount": 2742,
     "tagCount": 5,
-    "tags": ["原住民", "傳統音樂", "文化傳承", "樂器", "祭典"],
+    "tags": [
+      "原住民",
+      "傳統音樂",
+      "文化傳承",
+      "樂器",
+      "祭典"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14568,7 +16311,13 @@
     "featured": true,
     "wordCount": 2356,
     "tagCount": 5,
-    "tags": ["搖滾樂", "音樂史", "地下音樂", "樂團", "台灣音樂"],
+    "tags": [
+      "搖滾樂",
+      "音樂史",
+      "地下音樂",
+      "樂團",
+      "台灣音樂"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14630,7 +16379,13 @@
     "featured": true,
     "wordCount": 3327,
     "tagCount": 5,
-    "tags": ["原住民歌手", "流行音樂", "文化融合", "金曲獎", "當代創作"],
+    "tags": [
+      "原住民歌手",
+      "流行音樂",
+      "文化融合",
+      "金曲獎",
+      "當代創作"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14700,7 +16455,14 @@
     "featured": false,
     "wordCount": 1501,
     "tagCount": 6,
-    "tags": ["ISO 3166", "國際標準", "開源軟體", "g0v", "數位主權", "台灣標示"],
+    "tags": [
+      "ISO 3166",
+      "國際標準",
+      "開源軟體",
+      "g0v",
+      "數位主權",
+      "台灣標示"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14731,7 +16493,14 @@
     "featured": true,
     "wordCount": 3082,
     "tagCount": 6,
-    "tags": ["教育", "升學", "十二年國教", "技職教育", "教育改革", "競爭文化"],
+    "tags": [
+      "教育",
+      "升學",
+      "十二年國教",
+      "技職教育",
+      "教育改革",
+      "競爭文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14762,7 +16531,13 @@
     "featured": false,
     "wordCount": 3907,
     "tagCount": 5,
-    "tags": ["社會住宅", "居住正義", "住宅政策", "包租代管", "都市更新"],
+    "tags": [
+      "社會住宅",
+      "居住正義",
+      "住宅政策",
+      "包租代管",
+      "都市更新"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14831,7 +16606,12 @@
     "featured": false,
     "wordCount": 2751,
     "tagCount": 4,
-    "tags": ["軟體產業", "資訊服務", "數位轉型", "新創"],
+    "tags": [
+      "軟體產業",
+      "資訊服務",
+      "數位轉型",
+      "新創"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14862,7 +16642,12 @@
     "featured": true,
     "wordCount": 2219,
     "tagCount": 4,
-    "tags": ["quotes", "history", "literature", "culture"],
+    "tags": [
+      "quotes",
+      "history",
+      "literature",
+      "culture"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14893,7 +16678,13 @@
     "featured": false,
     "wordCount": 2071,
     "tagCount": 5,
-    "tags": ["經濟史", "工業化", "十大建設", "經濟奇蹟", "產業轉型"],
+    "tags": [
+      "經濟史",
+      "工業化",
+      "十大建設",
+      "經濟奇蹟",
+      "產業轉型"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14924,7 +16715,13 @@
     "featured": false,
     "wordCount": 2530,
     "tagCount": 5,
-    "tags": ["生活", "夜生活", "KTV", "深夜食堂", "台灣"],
+    "tags": [
+      "生活",
+      "夜生活",
+      "KTV",
+      "深夜食堂",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -14955,7 +16752,13 @@
     "featured": false,
     "wordCount": 1511,
     "tagCount": 5,
-    "tags": ["Society", "人權", "性別平等", "同性婚姻", "轉型正義"],
+    "tags": [
+      "Society",
+      "人權",
+      "性別平等",
+      "同性婚姻",
+      "轉型正義"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -14986,7 +16789,12 @@
     "featured": false,
     "wordCount": 1332,
     "tagCount": 4,
-    "tags": ["Society", "民主化", "解嚴", "總統直選"],
+    "tags": [
+      "Society",
+      "民主化",
+      "解嚴",
+      "總統直選"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15017,7 +16825,13 @@
     "featured": true,
     "wordCount": 3239,
     "tagCount": 5,
-    "tags": ["藝術教育", "美術系", "藝術大學", "師資培育", "學院發展"],
+    "tags": [
+      "藝術教育",
+      "美術系",
+      "藝術大學",
+      "師資培育",
+      "學院發展"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15048,7 +16862,13 @@
     "featured": false,
     "wordCount": 2871,
     "tagCount": 5,
-    "tags": ["文化", "數位文化", "YouTuber", "網路影音", "社會影響"],
+    "tags": [
+      "文化",
+      "數位文化",
+      "YouTuber",
+      "網路影音",
+      "社會影響"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15079,7 +16899,13 @@
     "featured": false,
     "wordCount": 2989,
     "tagCount": 5,
-    "tags": ["文創園區", "舊建築活化", "創意產業", "都市更新", "文化保存"],
+    "tags": [
+      "文創園區",
+      "舊建築活化",
+      "創意產業",
+      "都市更新",
+      "文化保存"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15110,7 +16936,14 @@
     "featured": true,
     "wordCount": 4895,
     "tagCount": 6,
-    "tags": ["宗教", "佛教", "一貫道", "人間佛教", "心靈文化", "慈善事業"],
+    "tags": [
+      "宗教",
+      "佛教",
+      "一貫道",
+      "人間佛教",
+      "心靈文化",
+      "慈善事業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15141,7 +16974,14 @@
     "featured": true,
     "wordCount": 2636,
     "tagCount": 6,
-    "tags": ["茶文化", "凍頂烏龍", "高山茶", "手搖飲", "珍珠奶茶", "農業文化"],
+    "tags": [
+      "茶文化",
+      "凍頂烏龍",
+      "高山茶",
+      "手搖飲",
+      "珍珠奶茶",
+      "農業文化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15172,7 +17012,13 @@
     "featured": false,
     "wordCount": 2560,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "電信業", "數位轉型", "國營企業民營化"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電信業",
+      "數位轉型",
+      "國營企業民營化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15203,7 +17049,12 @@
     "featured": false,
     "wordCount": 3188,
     "tagCount": 4,
-    "tags": ["Economy", "企業", "電子代工", "ODM"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "ODM"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15234,7 +17085,14 @@
     "featured": false,
     "wordCount": 2630,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "石化工業", "台塑集團", "傳統產業", "台塑四寶"],
+    "tags": [
+      "Economy",
+      "企業",
+      "石化工業",
+      "台塑集團",
+      "傳統產業",
+      "台塑四寶"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15265,7 +17123,13 @@
     "featured": false,
     "wordCount": 2907,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "電子代工", "製造業", "ODM"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "製造業",
+      "ODM"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15296,7 +17160,14 @@
     "featured": false,
     "wordCount": 2754,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "金融業", "金控", "銀行", "保險"],
+    "tags": [
+      "Economy",
+      "企業",
+      "金融業",
+      "金控",
+      "銀行",
+      "保險"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15327,7 +17198,13 @@
     "featured": false,
     "wordCount": 3069,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "個人電腦", "品牌", "全球化"],
+    "tags": [
+      "Economy",
+      "企業",
+      "個人電腦",
+      "品牌",
+      "全球化"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15358,7 +17235,12 @@
     "featured": false,
     "wordCount": 2561,
     "tagCount": 4,
-    "tags": ["Economy", "企業", "工業電腦", "IoT"],
+    "tags": [
+      "Economy",
+      "企業",
+      "工業電腦",
+      "IoT"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15389,7 +17271,13 @@
     "featured": false,
     "wordCount": 3242,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "電子代工", "製造業", "ODM"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電子代工",
+      "製造業",
+      "ODM"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15420,7 +17308,13 @@
     "featured": false,
     "wordCount": 2331,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "半導體", "晶圓代工", "科技"],
+    "tags": [
+      "Economy",
+      "企業",
+      "半導體",
+      "晶圓代工",
+      "科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15451,7 +17345,13 @@
     "featured": false,
     "wordCount": 2793,
     "tagCount": 5,
-    "tags": ["Economy", "企業", "電腦硬體", "品牌", "科技"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電腦硬體",
+      "品牌",
+      "科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15482,7 +17382,14 @@
     "featured": false,
     "wordCount": 2497,
     "tagCount": 6,
-    "tags": ["Economy", "企業", "電子製造", "代工", "鴻海", "富士康"],
+    "tags": [
+      "Economy",
+      "企業",
+      "電子製造",
+      "代工",
+      "鴻海",
+      "富士康"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15513,7 +17420,15 @@
     "featured": true,
     "wordCount": 2463,
     "tagCount": 7,
-    "tags": ["經濟", "貿易政策", "CPTPP", "新南向", "ECFA", "FTA", "國際經貿"],
+    "tags": [
+      "經濟",
+      "貿易政策",
+      "CPTPP",
+      "新南向",
+      "ECFA",
+      "FTA",
+      "國際經貿"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15544,7 +17459,14 @@
     "featured": true,
     "wordCount": 2822,
     "tagCount": 6,
-    "tags": ["經濟", "產業政策", "轉型升級", "創新", "製造業", "高科技"],
+    "tags": [
+      "經濟",
+      "產業政策",
+      "轉型升級",
+      "創新",
+      "製造業",
+      "高科技"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15575,7 +17497,14 @@
     "featured": true,
     "wordCount": 4771,
     "tagCount": 6,
-    "tags": ["農業", "精緻農業", "有機農業", "農村再生", "休閒農業", "現代化"],
+    "tags": [
+      "農業",
+      "精緻農業",
+      "有機農業",
+      "農村再生",
+      "休閒農業",
+      "現代化"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -15606,7 +17535,14 @@
     "featured": true,
     "wordCount": 2268,
     "tagCount": 6,
-    "tags": ["新創", "創業", "創投", "加速器", "AppWorks", "獨角獸"],
+    "tags": [
+      "新創",
+      "創業",
+      "創投",
+      "加速器",
+      "AppWorks",
+      "獨角獸"
+    ],
     "translations": {
       "en": false,
       "ja": false,
@@ -15637,7 +17573,13 @@
     "featured": false,
     "wordCount": 2347,
     "tagCount": 5,
-    "tags": ["地理", "地質", "島嶼", "板塊運動", "地形"],
+    "tags": [
+      "地理",
+      "地質",
+      "島嶼",
+      "板塊運動",
+      "地形"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -15668,7 +17610,13 @@
     "featured": false,
     "wordCount": 1737,
     "tagCount": 5,
-    "tags": ["農業", "地景", "產業", "糧食安全", "地理"],
+    "tags": [
+      "農業",
+      "地景",
+      "產業",
+      "糧食安全",
+      "地理"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -15777,7 +17725,13 @@
     "featured": false,
     "wordCount": 2617,
     "tagCount": 5,
-    "tags": ["公園", "休閒", "社交文化", "跨世代", "日常生活"],
+    "tags": [
+      "公園",
+      "休閒",
+      "社交文化",
+      "跨世代",
+      "日常生活"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -15808,7 +17762,13 @@
     "featured": false,
     "wordCount": 3013,
     "tagCount": 5,
-    "tags": ["傳統市場", "庶民文化", "社會功能", "都市計畫", "社區經濟"],
+    "tags": [
+      "傳統市場",
+      "庶民文化",
+      "社會功能",
+      "都市計畫",
+      "社區經濟"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -15877,7 +17837,13 @@
     "featured": true,
     "wordCount": 2461,
     "tagCount": 5,
-    "tags": ["國家公園", "生態保育", "自然地景", "生物多樣性", "環境保護"],
+    "tags": [
+      "國家公園",
+      "生態保育",
+      "自然地景",
+      "生物多樣性",
+      "環境保護"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -15908,7 +17874,13 @@
     "featured": true,
     "wordCount": 4603,
     "tagCount": 5,
-    "tags": ["海洋保育", "海洋污染", "海洋廢棄物", "海洋委員會", "永續漁業"],
+    "tags": [
+      "海洋保育",
+      "海洋污染",
+      "海洋廢棄物",
+      "海洋委員會",
+      "永續漁業"
+    ],
     "translations": {
       "en": true,
       "ja": false,
@@ -16635,7 +18607,14 @@
     "featured": false,
     "wordCount": 513,
     "tagCount": 6,
-    "tags": ["流行人物", "鄭智善", "韓國", "黑白大廚", "餐飲聯名", "台灣"],
+    "tags": [
+      "流行人物",
+      "鄭智善",
+      "韓國",
+      "黑白大廚",
+      "餐飲聯名",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16666,7 +18645,15 @@
     "featured": false,
     "wordCount": 690,
     "tagCount": 7,
-    "tags": ["流行人物", "金太星", "韓國", "黑白大廚", "餐飲", "十盛", "台灣"],
+    "tags": [
+      "流行人物",
+      "金太星",
+      "韓國",
+      "黑白大廚",
+      "餐飲",
+      "十盛",
+      "台灣"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16775,7 +18762,13 @@
     "featured": false,
     "wordCount": 2495,
     "tagCount": 5,
-    "tags": ["媒體", "新聞自由", "民主化", "數位轉型", "媒體識讀"],
+    "tags": [
+      "媒體",
+      "新聞自由",
+      "民主化",
+      "數位轉型",
+      "媒體識讀"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16806,7 +18799,13 @@
     "featured": false,
     "wordCount": 3975,
     "tagCount": 5,
-    "tags": ["里鄰制度", "社區營造", "社區大學", "公民參與", "地方自治"],
+    "tags": [
+      "里鄰制度",
+      "社區營造",
+      "社區大學",
+      "公民參與",
+      "地方自治"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16837,7 +18836,13 @@
     "featured": true,
     "wordCount": 3556,
     "tagCount": 5,
-    "tags": ["5G", "數位轉型", "數位發展部", "智慧城市", "電信產業"],
+    "tags": [
+      "5G",
+      "數位轉型",
+      "數位發展部",
+      "智慧城市",
+      "電信產業"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16868,7 +18873,13 @@
     "featured": true,
     "wordCount": 4055,
     "tagCount": 5,
-    "tags": ["新創企業", "創業生態系", "創投基金", "加速器", "創新育成"],
+    "tags": [
+      "新創企業",
+      "創業生態系",
+      "創投基金",
+      "加速器",
+      "創新育成"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16899,7 +18910,13 @@
     "featured": true,
     "wordCount": 4382,
     "tagCount": 5,
-    "tags": ["電動車", "電池技術", "充電基礎設施", "淨零轉型", "綠色運輸"],
+    "tags": [
+      "電動車",
+      "電池技術",
+      "充電基礎設施",
+      "淨零轉型",
+      "綠色運輸"
+    ],
     "translations": {
       "en": true,
       "ja": true,
@@ -16930,7 +18947,13 @@
     "featured": false,
     "wordCount": 2004,
     "tagCount": 5,
-    "tags": ["音響產業", "電子製造", "聲學技術", "Hi-Fi", "專業音響"],
+    "tags": [
+      "音響產業",
+      "電子製造",
+      "聲學技術",
+      "Hi-Fi",
+      "專業音響"
+    ],
     "translations": {
       "en": true,
       "ja": true,

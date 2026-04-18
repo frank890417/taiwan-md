@@ -1,8 +1,8 @@
 {
-  "totalArticles": 2221,
+  "totalArticles": 2224,
   "totalCategories": 21,
-  "estimatedContributors": 51,
-  "totalTags": 5176,
+  "estimatedContributors": 149,
+  "totalTags": 5167,
   "categories": [
     {
       "name": "ko",
@@ -42,7 +42,7 @@
     },
     {
       "name": "People",
-      "count": 166
+      "count": 169
     },
     {
       "name": "Art",
@@ -172,13 +172,8 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2221,
+    "zh-TW": 2224,
     "en": 0
   },
-  "lastUpdated": "2026-04-18T13:53:35.349Z",
-  "stars": 935,
-  "forks": 133,
-  "zhPages": 1802,
-  "enPages": 419,
-  "totalPages": 2221
+  "lastUpdated": "2026-04-18T15:22:23.518Z"
 }
