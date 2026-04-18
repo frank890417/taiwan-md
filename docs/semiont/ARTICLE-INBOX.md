@@ -283,21 +283,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Reference**: 觀察者批次指定
 - **Pre-research**: 尚未啟動
 
-### 陳建騏（製作人／音樂劇作曲家）
-
-- **Type**: NEW
-- **Category**: People (Music)
-- **Priority**: **P0**（魏如萱 20 年製作人 + 跨劇場音樂 + 兩座金曲最佳專輯製作人級人物）
-- **Status**: pending
-- **Requested**: 2026-04-18 ε by 觀察者
-- **Notes**:
-  - 華語流行音樂/音樂劇金曲級製作人；魏如萱、陳綺貞、盧廣仲等長期合作
-  - 代表作：魏如萱八張專輯製作 + 2003《地下鐵》+《向左走向右走》音樂劇 + 多次金曲最佳專輯
-  - 製作哲學 verbatim：「我們可以忍受西洋歌手的怪腔怪調，為什麼就不能接受華語歌手呢？」
-  - 結構挑戰：製作人文章要有「技術哲學 + 代表作品 + 影響力」三軸；比表演者文章更抽象
-  - 跟魏如萱文章互相引用
-- **Reference**: 觀察者批次指定（與魏如萱深度研究同時提議）
-- **Pre-research**: Pass 3 魏如萱研究已蒐集部分（reports/research/2026-04/魏如萱.md §C 陳建騏時間軸）
+<!-- 陳建騏 P0 已完成 2026-04-18 θ → 搬到 §✅ Done -->
 
 ### 阿爆（阿仍仍，Aljenljeng Tjaluvie）
 
@@ -345,6 +331,16 @@ _（暫無）_
 ## ✅ Done（已開發，保留歷史）
 
 _（此區域存放從 pending/in-progress 完成的條目，指向已 commit 的文章路徑）_
+
+### 陳建騏 — 2026-04-18 θ 完成（製作人 subgenre 首例）
+
+- **Article**: [knowledge/People/陳建騏.md](../../knowledge/People/陳建騏.md)
+- **Pipeline**: REWRITE-PIPELINE v2.17.1 — Stage 1 Explore agent 23 searches + 3 WebFetch / Stage 2 full rewrite
+- **核心矛盾**：「不在場的作者」× 「聲音邊界守護者」融合 — 陳建騏三金得主（金曲+金馬+金鐘）但一般人叫不出名字；他為「怪腔怪調」的系統性防禦定義了華語流行音樂 25 年的聲音邊界
+- **結構創新**：Taiwan.md 第一個以製作人身份為中心的人物研究（非表演者）
+- **品質**：22 腳註 / 4,278 中文字 / desc 159 字 / em-dash 0 / 「不是 X 是 Y」7 處（4,278 字允許 17）
+- **Research**: [reports/research/2026-04/陳建騏.md](../../reports/research/2026-04/陳建騏.md) — 23 WebSearch + 3 WebFetch 深度研究，5 個 narrative anchor 候選
+- **敏感素材處理**：2015 年出櫃用紀實筆法（MANIFESTO §5 v2），聚焦 15 間獨立音樂廠牌連署婚姻平權事件的集體回應，不 reconstruct 個人揭露情境
 
 ### 楊丞琳 — 2026-04-18 δ-late 完成 + ε evolution Pass 3 (Jenny feedback)
 
