@@ -66,6 +66,7 @@ public/api/dashboard-articles.json
 public/api/dashboard-vitals.json
 public/api/dashboard-translations.json
 public/api/dashboard-organism.json
+public/api/contributors.json
 # dashboard-spores.json 不列入：由 scripts/tools/generate-dashboard-spores.py 產出，
 # 該 script 只在 refresh-data.sh 跑（不在 npm run prebuild 內），需要保留在 git 才能讓 CI deploy 有資料
 

@@ -115,27 +115,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- 魏如萱 P0 已完成 2026-04-18 η → 搬到 §✅ Done -->
 
-### 張雨生（EVOLVE — 貢獻者首版已 merge，待深度擴寫）
-
-- **Type**: `EVOLVE`
-- **Category**: People (Music)
-- **Path**: knowledge/People/張雨生.md
-- **Priority**: P1
-- **Status**: pending（首版 PR #547 已 merge + 維護者 followup polish；深度擴寫待啟動）
-- **Requested**: 2026-04-18 by 貢獻者 @idlccp1984 (PR #547) + 維護者決定升級為 EVOLVE
-- **Notes**:
-  - 現狀：~1,200 字 / 9 腳註 / quality-scan ✅ / format-check ✅
-  - EVOLVE 目標：擴寫為 2,000+ 字深度文，走 REWRITE-PIPELINE v2.17.1
-  - Stage 0 素材萃取：現有的 6 個小標題可保留（「妹妹的歌聲與偶像的誕生」「從妥協的怪物到超前部署」「劇場的重生與搖滾的娜娜」「幕後推手與永恆的影響」「預言家的背影」皆 scene 級合格）
-  - 待補 Stage 1 20+ 搜尋缺口：
-    - 張雨生父親身份（空軍軍官？）+ 澎湖成長細節
-    - 《和樂團》副業時期（1993-1997）
-    - 1997-10-20 車禍細節（紀實處理：MANIFESTO §5 v2 可寫事實陳述，不 reconstruct 最後時刻）
-    - 〈張惠妹《姊妹》《Bad Boy》〉的合作細節 + 張雨生 as 製作人身份
-    - 《口是心非》deeper analysis（樂評視為最成熟作品）
-    - YouTube inline link：〈我的未來不是夢〉〈天天想你〉〈大海〉〈口是心非〉〈吻我吧娜娜〉官方 MV
-- **Reference**: PR #547 by @idlccp1984
-- **Pre-research**: 無（原 PR 無 Stage 1 研究報告，EVOLVE 時要建立）
+<!-- 張雨生 EVOLVE 已完成 2026-04-19 γ (commit 將在此 heartbeat Beat 4) → 搬到 §✅ Done -->
 
 <!-- VH P1 已完成 2026-04-19 α → 搬到 §✅ Done -->
 
@@ -262,6 +242,16 @@ _（暫無）_
 ## ✅ Done（已開發，保留歷史）
 
 _（此區域存放從 pending/in-progress 完成的條目，指向已 commit 的文章路徑）_
+
+### 張雨生 — 2026-04-19 γ+β 完成（從偶像到預言家，一場跨越時代的音樂實驗）
+
+- **Article**: [knowledge/People/張雨生.md](../../knowledge/People/張雨生.md)
+- **Pipeline**: REWRITE-PIPELINE v2.17.1 — EVOLVE 模式（貢獻者首版 PR #547 by @idlccp1984 / Stage 1 22 WebSearch + 3 WebFetch / Stage 2 full rewrite + 事實大翻修）
+- **核心矛盾**：偶像的商業身份與音樂人的實驗心 — 他的一生都在磨合這兩個自己，《口是心非》是第一次真正合一，但車禍截斷了市場回應
+- **Hook**：1994《卡拉OK Live‧台北‧我》市場慘澹 vs 後世追認為預言，一張「慘的經典」的倒敘
+- **大事實修正**：原文《天天想你》180 萬張為錯，實際 35 萬張（Discogs + 放言專題確認）
+- **品質**：9 腳註 / 約 2,800 字 / 7 個 scene 小標題 / 2 處策展人筆記 / desc 148（≤ 160 ✓）
+- **Research**: [reports/research/2026-04/張雨生.md](../../reports/research/2026-04/張雨生.md)
 
 ### VH（Vast & Hazy）— 2026-04-19 α 完成（出口系樂團十五年方向校準）
 
