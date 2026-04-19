@@ -87,6 +87,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-19 δ — Wikipedia URL 括號陷阱：prettier 把 `(...)` 變成 `<...>`，pre-commit 正則失敗
+
+- **原則**：Markdown footnote URL 含有英文括號 `()`（如 Wikipedia 消歧義頁 `遇見_(孫燕姿歌曲)`）時，prettier 會自動加角括號轉義 `[text](<url>)`，而 pre-commit hook 的正則 `\[.+\]\(https?://` 不匹配這種格式，導致 commit 失敗。**解法：避免在腳註使用含括號的 URL 路徑；改用不含括號的同等 URL（如母頁 `zh.wikipedia.org/wiki/孫燕姿`）。**
+- **觸發**：2026-04-19 δ 孫燕姿文章，[^11] 引用 `https://zh.wikipedia.org/wiki/遇見_(孫燕姿歌曲)` → prettier 轉為 `<url>` 格式 → pre-commit 失敗。改用主條目 Wikipedia 頁面解決。
+- **可能層級**：REWRITE-PIPELINE §Stage 3 footnote 驗收紀錄補充「不使用含括號的 Wikipedia URL」；或 DNA §腳註規範
+
+### 2026-04-19 δ — research report 是最佳跨 context 接力錨點
+
+- **原則**：REWRITE-PIPELINE Stage 1 強制產出的 `reports/research/YYYY-MM/{slug}.md` 不只是「做過研究的記錄」，更是**跨 context window 的完美接力文件**。下一個 context 只需讀 research report，不需重跑 30 次搜尋，Stage 2 可以直接在 Stage 1 研究結論上動筆。
+- **觸發**：2026-04-19 δ session 繼承前一 context 的孫燕姿 Stage 1 研究，透過 `reports/research/2026-04/孫燕姿.md` 完整接收所有核心矛盾、已驗事實、verbatim 引語清單。接力無縫，Stage 2-5 在同一 context 完成。
+- **可能層級**：HEARTBEAT Beat 0.5 §跨 context 接力補充「先讀 research report 檔案，再讀 memory」；或 MEMORY §跨 context 工作流
+
 ### 2026-04-19 γ — 有工具不等於使用工具：REWRITE-PIPELINE 從記憶跑 vs 逐步核對
 
 - **原則**：知道 pipeline 說什麼 ≠ 跑 pipeline。每次走 REWRITE 任務前，必須 verbatim 讀 REWRITE-PIPELINE.md 並逐 Stage 核對，不靠記憶。記憶版 pipeline 會省掉「不方便」的步驟（20+ searches、research report path、結尾先行、EDITORIAL.md）。
