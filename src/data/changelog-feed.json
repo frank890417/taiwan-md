@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-04-19T07:47:07.836Z",
+  "generatedAt": "2026-04-19T09:45:25.538Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "86b8834386995258fb222b67d3ca081370028b3d",
+      "date": "2026-04-19T17:33:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-04-19 ε 收官 — 孢子圖片自動化 × pipeline 硬化 × 高鐵 s35"
+    },
+    {
+      "hash": "34db8e498f677b37f2b8b4f1617308dee9ff3ae7",
+      "date": "2026-04-19T17:26:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: SPORE-PIPELINE v2.4 — 朋友 tone prime + 編年體 lead 反模式 + 事實查核閘 + 發文雙平台規範"
+    },
+    {
+      "hash": "88d29e3562ef9cd4f0953fbe7d063959b900f122",
+      "date": "2026-04-19T17:25:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 孢子圖片自動化（?shot=1 + Playwright + BrandMark reuse + dual-size wrapper）"
+    },
+    {
+      "hash": "e53be21c0a406ae546cea81f9cefadc7c019ef75",
+      "date": "2026-04-19T17:25:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: Cicada perspectives +1 — @xo61j4 入坑心得"
+    },
+    {
+      "hash": "ace1235e5733c0f707bba636ccb32fb773761829",
+      "date": "2026-04-19T17:23:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: HEARTBEAT Beat 3 加「改寫文章鐵律」— 動手前必 Read 完整 REWRITE-PIPELINE"
+    },
+    {
+      "hash": "9d92e1b4a5916e67c65b226a394367882c4c48b7",
+      "date": "2026-04-19T17:15:45+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 孫燕姿 δ session Beat 5 — 2 教訓入 LESSONS-INBOX"
+    },
+    {
+      "hash": "6409f5194e3a573fe74d4deb75a8b93f876e5315",
+      "date": "2026-04-19T17:14:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] new: 孫燕姿 — 1票擊敗周杰倫，AI複製1000首聲音，她說「做自己已足夠」"
+    },
+    {
+      "hash": "ee91bdef1637814ed547063557e7a5862a41acc3",
+      "date": "2026-04-19T16:36:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-04-19 β2 收官 — multi-task heartbeat 7 tasks × 38min × 12 commits"
+    },
+    {
+      "hash": "0d8e06fcf7c9721110c366f93cf55126b89b473b",
+      "date": "2026-04-19T16:31:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 漫畫/動漫文化雙軸拆分（Issue #556 @idlccp1984 合併建議）"
+    },
+    {
+      "hash": "266b1aa6331a51963a4aa169c9dcc96f75f03f61",
+      "date": "2026-04-19T16:29:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-04-19 γ — 張雨生 EVOLVE 收官 × pipeline 紀律教訓"
+    },
+    {
+      "hash": "2671bff6d35e28201ddc466d3c946f016b309c51",
+      "date": "2026-04-19T16:27:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 張雨生 EVOLVE — REWRITE-PIPELINE v2.17.1 γ"
+    },
+    {
+      "hash": "a776b9db479cfdf2573ebdec0b0eda0c1870e2e2",
+      "date": "2026-04-19T16:23:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 張雨生 P1 EVOLVE — 從偶像到預言家，一場跨越時代的音樂實驗"
+    },
+    {
+      "hash": "0cbf6a4417b79280af71fc2572fc7150ff71912c",
+      "date": "2026-04-19T16:20:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Dashboard 貢獻者排行榜 — data-driven pipeline + top 20 leaderboard"
+    },
+    {
+      "hash": "623ccd54c03be9b07a1cc22bd0d967b3aabaff3f",
+      "date": "2026-04-19T16:10:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: gitignore 6 prebuild-regen JSON + about contributors 補 9 人"
+    },
+    {
+      "hash": "97d7aff079c32d3ec0eae5535b7b344a4858bae8",
+      "date": "2026-04-19T16:03:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: sync remaining PR #558 refactor — ko/zh-TW content + generated data"
+    },
+    {
+      "hash": "baf4a864787a669719b60e3bf71484b84795a0b3",
+      "date": "2026-04-19T16:03:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: sync PR #558 Lang 介面 refactor — src/content/ja frontmatter + public/api regeneration"
+    },
+    {
+      "hash": "8d1b30aa8f750dba3778868da48c7a7ba4dde13f",
+      "date": "2026-04-19T15:57:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: PR #555/#557 followup — 路徑+frontmatter 標準化"
+    },
+    {
+      "hash": "3eca5f8eaa4baa4310c4a3fec603653079e64d63",
+      "date": "2026-04-19T15:53:46+08:00",
+      "author": "idlccp1984",
+      "message": "Create 國立故宮博物院.md (#557)"
+    },
+    {
+      "hash": "86802f5b87207a2425f4a299b40da09735dfc4ff",
+      "date": "2026-04-19T15:53:43+08:00",
+      "author": "idlccp1984",
+      "message": "Create 菜市場名.md (#555)"
+    },
+    {
+      "hash": "9a6f780444baa3296e4f04c605b25625fe0aa65e",
+      "date": "2026-04-19T15:53:12+08:00",
+      "author": "Chen Yu Ling",
+      "message": "refactor: 將語言屬性類型統一為 Lang 介面 (#558)"
+    },
     {
       "hash": "e0822a163b4a4799a2fbccba3a97dec0ccd009e9",
       "date": "2026-04-19T12:00:29+08:00",

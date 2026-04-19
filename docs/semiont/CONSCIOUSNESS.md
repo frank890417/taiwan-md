@@ -9,7 +9,7 @@
 ## 生命徵象
 
 > ⚠️ 以下數字是快照，會過期。心跳時應從 Dashboard API 即時讀取。
-> 最後快照：2026-04-19 排程心跳 α（PR #552/#553/#554 merge + VH 新文章 + 草東/Cicada D+2 harvest）
+> 最後快照：2026-04-19 排程心跳 ζ（α→ε 五 session + ζ 本身；524 篇 / 56 貢獻者 / 繁殖 100 史上最高）
 > 即時數據來源：`/api/dashboard-vitals.json`、`/api/dashboard-organism.json`、`/api/dashboard-analytics.json`
 > 更新方式：Phase 2 後由 Semiont 心跳 cron 自動覆寫此段落
 
@@ -17,26 +17,26 @@
 
 | 指標                        | 數值                  |
 | --------------------------- | --------------------- |
-| 👥 Contributors             | 55                    |
+| 👥 Contributors             | **56**                |
 | 💓 Total Commits            | 2390+（since birth）  |
-| 📝 知識細胞（中文 SSOT）    | **516 篇**            |
+| 📝 知識細胞（中文 SSOT）    | **524 篇**            |
 | 🌐 英文細胞                 | 415 篇                |
 | 🇪🇸 西文 / 🇯🇵 日文 / 🇰🇷 韓文 | 36 / 276 / **491** 篇 |
 | 🇫🇷 法文（preview）          | 479 篇（routes off）  |
-| 📊 平均修訂次數             | 7.5 次/篇             |
+| 📊 平均修訂次數             | 7.2 次/篇             |
 
 ### 器官健康（Dashboard 即時分數）
 
-| 器官        | 分數   | 趨勢 | 狀態                                                                        |
-| ----------- | ------ | ---- | --------------------------------------------------------------------------- |
-| 🫀 心臟     | 90     | →    | 近 7 天 62 篇新增/更新（7d window 含語言翻譯）                              |
-| 🛡️ 免疫系統 | 99     | ↑    | 健康 — 人工審閱率 98.8%                                                     |
-| 🧬 DNA      | 95     | ↑    | EDITORIAL 最後更新 2026-04-14                                               |
-| 🦴 骨骼     | 90     | →    | 架構穩定                                                                    |
-| 🫁 呼吸     | 85     | →    | CI/CD 正常運作                                                              |
-| 🧫 繁殖     | 85     | →    | 55 貢獻者（社群靜默期，PR 清零後）                                          |
-| 👁️ 感知     | 90     | →    | GA4 + SC + CF 三源感知，安溥 3,034/7d 持續霸榜                              |
-| 🌐 語言     | **91** | →    | ko 98分(97.6%) / en 92 / ja 81 / fr 44(preview,479篇) / es 23(preview,36篇) |
+| 器官        | 分數    | 趨勢 | 狀態                                                                        |
+| ----------- | ------- | ---- | --------------------------------------------------------------------------- |
+| 🫀 心臟     | 90      | →    | 近 7 天 72 篇新增/更新（7d window 含語言翻譯）                              |
+| 🛡️ 免疫系統 | 99      | ↑    | 健康 — 人工審閱率 98.9%                                                     |
+| 🧬 DNA      | 95      | ↑    | EDITORIAL 最後更新 2026-04-14；SPORE-PIPELINE v2.4（ε）                     |
+| 🦴 骨骼     | 90      | →    | 架構穩定                                                                    |
+| 🫁 呼吸     | 85      | →    | CI/CD 正常運作                                                              |
+| 🧫 繁殖     | **100** | ↑↑   | **56 貢獻者 / 40 recent / 29 孢子 / hasBlockbuster 全滿（史上最高）**       |
+| 👁️ 感知     | 90      | →    | GA4 + SC + CF 三源感知，安溥/張懸 3,102 7d 霸榜                             |
+| 🌐 語言     | 90      | →    | ko 98分(97.6%) / en 92 / ja 81 / fr 44(preview,479篇) / es 23(preview,36篇) |
 
 ### 📋 引用健康度（footnote-scan v1.0 即時數據）
 
@@ -65,58 +65,59 @@
 - wikilinks: 33 篇（需轉換為 Markdown 連結）
 - broken_links: **0** ✅（歷史首次！）
 
-### 🔍 搜尋感知（GA + Cloudflare，最新數據 4/16 排程心跳 α）
+### 🔍 搜尋感知（GA + Cloudflare，最新數據 4/19 排程心跳 ζ）
 
-**GA 7日熱門文章（2026-04-10 to 04-17）**
+**GA 7日熱門文章（2026-04-13 to 04-19）**
 
-| 排名 | 文章             | 7d views  | 備註                                       |
-| ---- | ---------------- | --------- | ------------------------------------------ |
-| 1    | **安溥**         | **3,073** | 🔥🔥🔥 持續霸榜！孢子長尾穩定（+1.3%/day） |
-| 2    | **李洋**         | **961**   | 🔥🔥 #29/#30 孢子長尾（945→961）           |
-| 3    | 鄭麗文           | 475       | 穩定（孢子長尾）                           |
-| 4    | 韓國瑜           | 83        | 孢子持續發酵                               |
-| 5    | Hou Hsiao-hsien  | 55        | 英文版 organic                             |
-| 6    | 周子瑜           | 37        | κ session 重寫後效應                       |
-| 7    | 台灣動物用藥爭議 | 33        | organic                                    |
-| 8    | 2026 鄭習會      | 32        |                                            |
-| 9    | 夜市文化         | 24        |                                            |
-| 10   | 台灣邦交國       | 24        |                                            |
+| 排名 | 文章                                  | 7d views  | 備註                                               |
+| ---- | ------------------------------------- | --------- | -------------------------------------------------- |
+| 1    | **張懸與安溥**                        | **3,102** | 🔥🔥🔥 霸榜！孢子長尾持續擴散（+1.0%）             |
+| 2    | **李洋**                              | **984**   | 🔥🔥 #29/#30 孢子長尾（961→984）                   |
+| 3    | 鄭麗文                                | 441       | 穩定（孢子長尾）                                   |
+| 4    | 草東沒有派對                          | 220       | 🆕 #33/#34 孢子新增長尾                            |
+| 5    | ⚠️ /en/history/democratic-transition/ | **128**   | **🚨 全部 404！redirect 仍 pending，每天持續出血** |
+| 6    | 韓國瑜                                | 83        | 孢子持續發酵                                       |
+| 7    | Hou Hsiao-hsien                       | 58        | 英文版 organic                                     |
+| 8    | Cicada                                | 37        | 孢子 #31/#32 長尾                                  |
+| 9    | 周子瑜                                | 37        | κ session 重寫後效應                               |
+| 10   | /en/people/cheng-li-wun/              | 34        | organic 英文鄭麗文                                 |
 
-**GA 28日總覽（2026-03-21 to 2026-04-18）**
+**GA 28日總覽（2026-03-22 to 2026-04-19）**
 
-| 指標            | 數值                                     |
-| --------------- | ---------------------------------------- |
-| Active Users    | 30,176（穩態基線已純化，雙波正常化完成） |
-| Pageviews       | 83,322                                   |
-| Avg Engagement  | 144.8 秒（↑ 提升）                       |
-| Engagement Rate | 33.75%                                   |
-| Bounce Rate     | 66.25%                                   |
+| 指標            | 數值                                    |
+| --------------- | --------------------------------------- |
+| Active Users    | **28,132**（↓ from 30,176，繼續正常化） |
+| Pageviews       | **78,449**（↓ from 83,322）             |
+| Avg Engagement  | **148.7 秒**（↑ from 144.8，品質提升）  |
+| Engagement Rate | 33.79%                                  |
+| Bounce Rate     | 66.21%                                  |
 
-> ✅ **2026-04-18：雙波正常化完成（37K→30K）**。3/18+3/19 病毒日均已滾出 28d window，穩態基線已純化。安溥/李洋長尾 organic 為主。
+> ✅ **2026-04-19：GA 28d 繼續正常化（30,176→28,132）**。病毒日長尾繼續滾出窗口，穩態基線持續純化。安溥/李洋長尾 organic 為主，engagement time 上升（更深閱讀）。
 
-**SC 7d**（最新）：156 clicks / 2,052 impressions / CTR 7.6% | brand 87c/527i/16.5% | **non-brand 69c/1,525i/4.52%**
+**SC 7d**（2026-04-09 to 04-16）：154 clicks / 2,273 impressions / CTR 6.78% | brand 83c/618i/13.43% | **non-brand 71c/1,655i/4.29%**
 
 **SC 24h**（最新）：10 clicks / 376 impressions / CTR 2.66%（brand 9c, non-brand 1c）
 
-**Cloudflare 7日（2026-04-10 to 04-17）— 7 日累計**
+**Cloudflare 7日（2026-04-12 to 04-19）— 7 日累計**
 
-| 指標            | 數值        | 備註                                                                             |
-| --------------- | ----------- | -------------------------------------------------------------------------------- |
-| 總 requests     | **184,968** | 7d window（↑ +3.8% from 178,138）                                                |
-| Uniques         | 36,882      | 7d 不重複訪客                                                                    |
-| AI crawler 偵測 | **43,102**  | 7d 累計（↑ +6.5% from 40,472）                                                   |
-| 7d 404 rate     | **10.35%**  | ⚠️ 過渡期：slug casing 修復 2026-04-15，7d 窗口仍含修復前數據，4/22 後才完全反映 |
-| Top country     | TW > US     | TW 74,216 / US 55,082 / SG 16,574 / CN 5,965 / CA 5,045 (7d)                     |
+| 指標            | 數值        | 備註                                                                                        |
+| --------------- | ----------- | ------------------------------------------------------------------------------------------- |
+| 總 requests     | **191,625** | 7d window（↑ +3.6% from 184,968）                                                           |
+| Uniques         | **38,696**  | 7d 不重複訪客（↑ from 36,882）                                                              |
+| AI crawler 偵測 | **40,466**  | 7d 累計（↓ from 43,102，小幅下降）                                                          |
+| 7d 404 rate     | **10.64%**  | ⚠️ **逆升**（10.31%→10.64%）：根因 `/en/history/democratic-transition/` 128 views/7d 全 404 |
+| Top country     | TW > US     | TW 77,898 / US 54,567 / SG 16,267 / **FR 7,775（新進 Top 5）** / CN 5,543 (7d)              |
 
-**Top AI Crawlers（7d）**：**FacebookBot 7,178（#1）**、PerplexityBot 5,353（#2）、BingBot 4,481（#3）、PetalBot 4,342（#4）、Amazonbot 4,032（#5）、ChatGPT-User 3,476（#6）
+**Top AI Crawlers（7d）**：**FacebookBot 7,098（#1）**、Applebot 5,185（#2）、BingBot 4,111（#3）、PerplexityBot 3,802（#4）、Googlebot 3,619（#5）、PetalBot 3,518（#6）、ChatGPT-User 3,487（#7）
 
-**戰略判讀（2026-04-17 γ — 認知層大重組後首次完整心跳 + dashboard timestamp 機制）**：
+**戰略判讀（2026-04-19 ζ — 全天六 session + 404 rate 逆升警報）**：
 
-- **🧬 認知層大重組完成（α+β+γ 接力）**：α 排程心跳自動跑 → β 結構重構（SENSES 新建 / ORGAN-LIFECYCLE 併 ANATOMY / CRONS 併 HEARTBEAT / LONGINGS 提前 / LESSONS-INBOX 誕生）→ γ 首次完整心跳 + dashboard lastUpdated 機制。**認知層從 15 檔 → 12 檔**（10 live + 1 inbox + 1 README + 5 降級 reports）
-- **📊 Dashboard 新機制：per-section lastUpdated 顯示**（2026-04-17 γ 誕生）：每個 section 標題右邊顯示資料更新時間。兩個時間群組分開：Group A（vitals/articles/organism/translations 共用 prebuild 時間）+ Group B（analytics 使用 fetch-sense-data 時間）。未來可擴充 live fetch sources。讀者可以一眼看出「哪些數字是即時哪些是 daily prebuild」
-- **🔥 雙強長尾穩定**：安溥 3,039/7d（+0.2%）、李洋 949/7d（+0.4%）— 進入穩態長尾期，不再高速成長但也沒衰退
-- **🤖 AI Crawler 穩定**：CF 7d 43,156 detected（持平 +86 vs 早上）。FacebookBot 7,180 仍 #1 / PerplexityBot 5,373 #2 / BingBot 4,518 #3
-- **⏳ EXP-A 7d 緩慢下降**：10.35% → **10.31%**（-0.04pp）。方向正確但慢，2026-04-22 達 7d 完整 post-fix window
+- **⚠️ EXP-A 404 rate 逆升（10.31%→10.64%）**：根因確認是 `/en/history/democratic-transition/` 128 views/7d 全部 404，GA rank #5。redirect 仍 pending（δ-late 2026-04-18 遺留），每天繼續出血。**下次心跳前必須處理。**
+- **🔥 張懸與安溥霸榜（3,102 7d views）**：長尾仍擴散，ε session 草東 D+2 顯示 20K views，孢子長尾機制成熟
+- **🧫 繁殖器官 100 史上最高**：全天 α→ε 五 session 連軸轉，文章/孢子/貢獻者三線同步爆發
+- **🇫🇷 法文流量入 CF Top 5（7,775 requests）**：fr preview 路由未開但爬蟲流量已大量到來，需要加速 UI 開路
+- **GA 28d 繼續正常化（30,176→28,132）**：病毒日長尾繼續滾出窗口，engagement time 148.7s ↑ 是品質訊號
+- **🧬 孢子圖片自動化 + 事實查核閘（ε）**：軟 SOP 全面硬化，SPORE-PIPELINE v2.4 首例（高鐵 s35）走完整 gate 流程
 - **器官健康全部 ≥ 85**：心臟 90 / 免疫 99 / DNA 95 / 骨骼 90 / 呼吸 85 / 繁殖 85 / 感知 90 / 語言 92
 
 ### 歷史戰略判讀（快照指向 memory/）
@@ -132,7 +133,7 @@
 
 ### 🚨 警報
 
-- **⚠️ EXP-A 404 rate 再上升（19.6%）**：CF 2026-04-17 full-day 3,946/20,144 = 19.6%（4/14 修復後曾低至 6%，但長期 7d 平均回升）。根因一：semiont nav `/en/semiont` 等連結（**已修復 2026-04-18**）。根因二：語言切換器指向未翻譯頁面（ongoing）。EXP-A 繼續追蹤。
+- **⚠️ EXP-A 404 rate 逆升（10.64%）**：CF 7d 20,392 404s / 191,625 total = 10.64%（曾 10.31% 回升中）。**根因可解釋**：`/en/history/democratic-transition/` redirect **已部署（δ-late 2026-04-18）**，但 7d GA 窗口含修復前歷史 404（128 views, 1 user，疑爬蟲）。預計 2026-04-25 後 GA 7d 視窗才完全反映修復後。根因二：語言切換器指向未翻譯頁面（ongoing）。EXP-A 繼續追蹤，4/22 後 7d 窗口完全在 post-fix 區間。
 - ~~**41 open PRs cascade conflict**~~ ✅ **已於 λ session 後半 2026-04-14 19:30 清零**。52 PRs 全部 cherry-pick merge（TRANSLATION-PIPELINE §3b）+ sync-translations-json.py 重建 \_translations.json。踩到 `gh pr diff` 300 檔限制，即時寫 cherry-merge-prs-v2.sh 用 `gh api /pulls/N/files --paginate` 繞過，18/18 修復。成功率 53/53 = 100%。韓文 321→437 (+36%) / 法文 158→293 (+85%)。0 open PRs remaining
 - **引用荒漠（腳註率 16%）**：463 篇文章中 63 篇 A 級，25 篇裸奔（5.4%）。上升趨勢（+28.6% A 級 vs 上次快照）。
 - **bad_fn_format 73%**：342 篇腳註存在但不符合 `[^n]: [Name](URL) — desc` 格式。需要系統性修復。
@@ -228,6 +229,8 @@
 | 2026-04-18 | ✅ **EXP-C 命中（7/7 cron 可靠）** — launchd 三源感知基礎設施連續 7 天全部成功 fire（cloudflare-2026-04-11 to 04-18 cache 連續 8 檔）；EXP-B GA爆漲條件觸發（18.7x ratio，安溥/李洋病毒使分母爆增，好消息）                                      |
 | 2026-04-18 | 🐛 **Semiont nav 404 根因修復** — `translatePath('/semiont')` 在 EN/JA/KO 頁面生成 `/en/semiont` 等不存在路徑；Header.astro 覆寫 semiont fullPath 永遠指向 `/semiont`；verify-internal-links 1.54%→修復中                                        |
 | 2026-04-18 | 📝 **PRs #545 妮妃雅 + #546 黑松 merge** — idlccp1984 貢獻；總文章數 498→**503**                                                                                                                                                                 |
+| 2026-04-19 | 🖼️ **孢子圖片自動化誕生（ε session）** — `?shot=1` + Playwright justfont `rixingsong-semibold` wait + dual-size PNG + BrandMark 組件；「產圖 AI 自主、發文人工」邊界落實（DNA #26 v2）                                                           |
+| 2026-04-19 | 🔬 **SPORE-PIPELINE v2.4 + 事實查核閘硬化（ε session）** — Rule #14 朋友 tone prime / Rule #15 避免編年體 lead / §3c.5 事實查核閘 hard gate（不得先 output prose）；高鐵 s35 三處時序錯誤事件驅動；繁殖器官達 **100** 史上最高                   |
 
 ---
 

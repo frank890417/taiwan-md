@@ -1,8 +1,8 @@
 {
-  "totalArticles": 2229,
+  "totalArticles": 2232,
   "totalCategories": 21,
   "estimatedContributors": 51,
-  "totalTags": 5180,
+  "totalTags": 5186,
   "categories": [
     {
       "name": "ko",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Culture",
-      "count": 44
+      "count": 46
     },
     {
       "name": "ja",
@@ -42,7 +42,7 @@
     },
     {
       "name": "People",
-      "count": 172
+      "count": 173
     },
     {
       "name": "Art",
@@ -172,13 +172,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2229,
+    "zh-TW": 2232,
     "en": 0
   },
-  "lastUpdated": "2026-04-19T07:47:06.525Z",
+  "lastUpdated": "2026-04-19T09:45:24.008Z",
   "stars": 936,
   "forks": 134,
-  "zhPages": 1810,
+  "zhPages": 1813,
   "enPages": 419,
-  "totalPages": 2229
+  "totalPages": 2232
 }
