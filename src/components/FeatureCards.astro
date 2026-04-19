@@ -1,4 +1,6 @@
 ---
+import type { Lang } from '../config/languages';
+
 interface FeatureCard {
   icon: string;
   title: string;
@@ -6,7 +8,7 @@ interface FeatureCard {
 }
 
 interface Props {
-  lang?: 'zh-TW' | 'en';
+  lang?: Lang;
   sectionTitle: string;
   cards: FeatureCard[];
 }

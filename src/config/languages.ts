@@ -36,8 +36,11 @@ export interface LanguageEntry {
 
 /**
  * Master language registry. Order matters: default first, then by activation date.
+ *
+ * `as const satisfies` preserves string literal types so that `Lang` can be
+ * derived automatically — adding a language here is the ONLY required change.
  */
-export const LANGUAGES: readonly LanguageEntry[] = [
+export const LANGUAGES = [
   {
     code: 'zh-TW',
     displayName: '中文',
@@ -77,21 +80,27 @@ export const LANGUAGES: readonly LanguageEntry[] = [
     enabled: false,
     notes: 'Pending: 18 ceruleanstring PRs ready to merge after activation',
   },
-];
+] as const satisfies readonly LanguageEntry[];
+
+/**
+ * Lang is the union of all registered language codes, derived directly from
+ * the LANGUAGES registry — no manual sync needed.
+ * e.g. 'zh-TW' | 'en' | 'ja' | 'ko' | 'es' | 'fr'
+ */
+export type Lang = (typeof LANGUAGES)[number]['code'];
 
 /** Codes of enabled languages — for runtime iteration of active languages */
-export const ENABLED_LANGUAGE_CODES: readonly string[] = LANGUAGES.filter(
+export const ENABLED_LANGUAGE_CODES: readonly Lang[] = LANGUAGES.filter(
   (l) => l.enabled,
 ).map((l) => l.code);
 
 /** All language codes including disabled ones — for content collections */
-export const ALL_LANGUAGE_CODES: readonly string[] = LANGUAGES.map(
-  (l) => l.code,
-);
+export const ALL_LANGUAGE_CODES: readonly Lang[] = LANGUAGES.map((l) => l.code);
 
 /** Default language entry */
 export const DEFAULT_LANGUAGE: LanguageEntry = LANGUAGES.find(
-  (l) => l.isDefault,
+  (l): l is Extract<(typeof LANGUAGES)[number], { isDefault: true }> =>
+    'isDefault' in l,
 )!;
 
 /** Map of code → display name for UI components */
@@ -102,11 +111,3 @@ export const LANGUAGE_DISPLAY_NAMES: Record<string, string> =
 export function getLanguage(code: string): LanguageEntry | undefined {
   return LANGUAGES.find((l) => l.code === code);
 }
-
-/**
- * Lang type union. Currently a string alias for compatibility — adding
- * stricter literal typing would require either a codegen step or `as const`
- * on the array (which conflicts with the LanguageEntry interface narrowing).
- * The runtime check via `getLanguage()` is the safety net.
- */
-export type Lang = string;

@@ -1,4 +1,6 @@
 ---
+import type { Lang } from '../config/languages';
+
 interface ReadingPathStep {
   href: string;
   title: string;
@@ -12,7 +14,7 @@ interface ReadingPathFooterItem {
 }
 
 interface Props {
-  lang?: 'zh-TW' | 'en';
+  lang?: Lang;
   title: string;
   subtitle: string;
   steps: ReadingPathStep[];

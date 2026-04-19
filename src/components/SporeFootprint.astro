@@ -2,6 +2,7 @@
 /**
  * SporeFootprint — 社群足跡（溫暖紀實風格）
  */
+import type { Lang } from '../config/languages';
 
 interface SporeLink {
   platform: string;
@@ -16,7 +17,7 @@ interface SporeLink {
 
 interface Props {
   sporeLinks: SporeLink[];
-  lang?: string;
+  lang?: Lang;
 }
 
 const { sporeLinks, lang = 'zh-TW' } = Astro.props;

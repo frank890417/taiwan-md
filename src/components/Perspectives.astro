@@ -4,6 +4,7 @@
  * 紀實文學風格。不遊戲化、不數據導向。
  * 呈現同一個議題在不同讀者心中的不同形狀。
  */
+import type { Lang } from '../config/languages';
 
 interface Perspective {
   author: string;
@@ -13,7 +14,7 @@ interface Perspective {
 
 interface Props {
   perspectives: Perspective[];
-  lang?: string;
+  lang?: Lang;
 }
 
 const { perspectives, lang = 'zh-TW' } = Astro.props;

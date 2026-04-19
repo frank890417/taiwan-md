@@ -4,10 +4,12 @@ import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
+import type { Lang } from '../config/languages';
+
 interface Props {
   title: string;
   description?: string;
-  lang?: 'zh-TW' | 'en';
+  lang?: Lang;
   image?: string;
   type?: 'website' | 'article';
   datePublished?: string;
@@ -15,6 +17,7 @@ interface Props {
   content?: string;
   tags?: string[];
   category?: string;
+  noindex?: boolean;
 }
 
 const { lang = 'zh-TW' } = Astro.props;

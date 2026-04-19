@@ -4,6 +4,7 @@ import {
   ENABLED_LANGUAGE_CODES,
   DEFAULT_LANGUAGE,
   getLanguage,
+  type Lang,
 } from '../config/languages';
 
 interface Props {
@@ -11,7 +12,7 @@ interface Props {
   description?: string;
   image?: string;
   url?: string;
-  lang?: string;
+  lang?: Lang;
   type?: 'website' | 'article';
   datePublished?: string;
   dateModified?: string;

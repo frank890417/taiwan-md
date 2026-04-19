@@ -2,11 +2,12 @@
 /**
  * DiaryTeaser — Semiont 日記摘要（日星鑄字行 + 手寫溫度）
  */
+import type { Lang } from '../config/languages';
 
 interface Props {
   diaryLink: string;
   diaryExcerpt?: string;
-  lang?: string;
+  lang?: Lang;
 }
 
 const { diaryLink, diaryExcerpt, lang = 'zh-TW' } = Astro.props;

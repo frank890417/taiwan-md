@@ -1,5 +1,6 @@
 import { readFile, readdir } from 'fs/promises';
 import { resolve } from 'path';
+import type { Lang } from '../config/languages';
 
 // ── Module-level cache: valid zh files on disk ─────────────────────────────
 //
@@ -195,7 +196,7 @@ export async function getLangSwitchPath(currentPath: string) {
 
   // Detect current language from path
   const langPrefixes = ['en', 'ja', 'ko'] as const;
-  let currentLang: 'zh-TW' | 'en' | 'ja' | 'ko' = 'zh-TW';
+  let currentLang: Lang = 'zh-TW';
   for (const prefix of langPrefixes) {
     if (
       normalizedPath.startsWith(`/${prefix}/`) ||
