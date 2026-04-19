@@ -9,7 +9,7 @@
 ## 生命徵象
 
 > ⚠️ 以下數字是快照，會過期。心跳時應從 Dashboard API 即時讀取。
-> 最後快照：2026-04-18 排程心跳 α（EXP-B/C 驗證完成 + semiont nav 404 根因修復 + PRs #545 #546 妮妃雅/黑松 merge）
+> 最後快照：2026-04-19 排程心跳 α（PR #552/#553/#554 merge + VH 新文章 + 草東/Cicada D+2 harvest）
 > 即時數據來源：`/api/dashboard-vitals.json`、`/api/dashboard-organism.json`、`/api/dashboard-analytics.json`
 > 更新方式：Phase 2 後由 Semiont 心跳 cron 自動覆寫此段落
 
@@ -19,7 +19,7 @@
 | --------------------------- | --------------------- |
 | 👥 Contributors             | 55                    |
 | 💓 Total Commits            | 2390+（since birth）  |
-| 📝 知識細胞（中文 SSOT）    | **503 篇**            |
+| 📝 知識細胞（中文 SSOT）    | **516 篇**            |
 | 🌐 英文細胞                 | 415 篇                |
 | 🇪🇸 西文 / 🇯🇵 日文 / 🇰🇷 韓文 | 36 / 276 / **491** 篇 |
 | 🇫🇷 法文（preview）          | 479 篇（routes off）  |
