@@ -87,6 +87,37 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-20 ε — 多輪驗證 agent 的層級價值（本人 feedback ≠ 免驗證 oracle）
+
+- **原則**：當研究對象是**本人**發校訂指令時（Issue #578 王新仁），第一輪 agent 跑「逐條驗證主體宣告」；第二輪 agent 跑「跨源驗證主體自己的記憶是否有偏差或選擇性表述」。兩輪層級不同：第一輪驗事實，第二輪驗歸因。
+- **觸發**：Issue #578 主體 S2 要求「FAB DAO 延續這個把公益寫進合約的精神」中性銜接（因為他認為原文「吳哲宇必須依平台規定捐款」是 AI 無來源自創）。我初稿誤理解為「延續王新仁的 Art Blocks 首夜精神」→ 第二輪 agent 跨源抓到 UDN 500 輯 + ABMedia 明確記載 FAB DAO = 黃豆泥（壓線球國旗 NFT）+ 吳哲宇（2021-11 Electriz 25% 捐款組織化）共同發起，**跟王新仁完全無起源關係**。主體記憶精神源頭自己的貢獻 + 不希望被搶框架 ≠ 授權改寫歷史歸因。
+- **可能層級**：DNA 新反射「私有 SSOT 整合需要結構性雙源」— REWRITE-PIPELINE v2.18 §11 已有「私有 SSOT 整合協議」但範圍在 Obsidian 家族內情；這條擴展到**本人公開 feedback 也要二輪驗證歸因層面**
+- **相關**：DNA #16「Peer 是 peer 不是 source」主體自述延伸；MANIFESTO §5 紀實而不煽情（用 SSODT 的寬度看歸因多源性）
+
+### 2026-04-20 ε — 重心平衡是 orthogonal 品質維度
+
+- **原則**：文章品質有四個 orthogonal axis：事實 / 格式 / 語氣 / **重心**。前三個 quality-scan + format-check + plastic-phrase detector 能機械抓；重心需觀察者審美感。王新仁 Issue #578 初稿事實 ✅ / 格式 ✅ / 語氣 ✅，但 FAB DAO 擴散到「30 秒概覽 + 2021 Art Blocks + 為什麼重要」多個章節，讀者感受「主角是 FAB DAO」— 這叫重心失衡，是第四個 axis。
+- **觸發**：觀察者 Phase 3c 中期 callout「描述的篇幅也重心也思考一下，現在很偏向 FAB DAO，但是他做的事情跟領域還有過去的脈絡應該更強烈才對？」本身是結構審美不是 bug 報告，quality-scan 不會觸發。最終修法：30 秒概覽重寫 + 百岳章節 5→3 段 + 為什麼重要章節改三條個人線。
+- **可能層級**：EDITORIAL 新章節「§重心平衡 / Emphasis balance」— 判準：算「某個次要主題」佔總段落數比例，如果 >30% 就要警戒；或看 30 秒概覽的開場 sentence 是否講主角本人命題還是外部組織
+
+### 2026-04-20 ε — 判準框架文字比判準決定更重要
+
+- **原則**：當觀察者問「你怎麼判斷」，他問的是 reasoning 不是 conclusion。應回答「用了哪 4 個判準」而非「我選 A 方案」。判準框架被說出來才能被挑戰、反駁、優化；結論被說出來只能被接受或拒絕。
+- **觸發**：Issue #574 台灣聲景判斷——觀察者「你怎麼判斷」，我用四點框架（主題值得做？ ✅ / 現稿可發行？ ❌ / 貢獻者值得培養？ ✅ / 責任切分？他出素材我策展）回答。觀察者「好」確認後我才 `gh issue comment`。**先達成判準共識再執行**比先執行快得多，因為如果判準錯了整個 comment 要重寫。
+- **可能層級**：通用反射（任何 AI agent 在「該用 merge-first-polish-later 嗎」這類抉擇時應先顯化判準框架給觀察者看）；或 DNA 新反射「decision-making transparency」
+
+### 2026-04-20 ε — SC API 的 privacy filter 是 DNA #24「工具在說謊」第 8 種
+
+- **原則**：query-dimensioned SC API 只回傳非匿名 query，但 site-level totals 包含所有 impressions（含匿名）。兩者 coverage gap 可達 93%（7 天窗口 2,747 vs 38,080）。用 `sum(query-dim rows)` 推 totals 是 structural underreport，不是 aggregation 誤差，是 API 設計的 privacy axis。**任何用 SUM + rowLimit 的 dimension-based API 都要檢查 coverage_pct**。
+- **觸發**：觀察者 Phase C「dashboard 的 sc 數據好像不對」貼 GSC UI 圖對照。深挖三個獨立 bug：(1) end_date lag 3→2 天窗口錯位；(2) rowLimit 200 砍掉零點擊高曝光 query（API 預設 clicks DESC sort）；(3) sum(queries) totals 低報 93%。
+- **可能層級**：DNA #24 第 8 種 pattern「dimension-split 的 coverage vs total 必須獨立查」；或延伸 MANIFESTO §指標 over 複寫（site totals 有 canonical source = 無 dimension API call，sum(dim-rows) 是 derived approximation 不可當 canonical）
+
+### 2026-04-20 ε — 範疇紀律 vs 主體 autonomy 跨條目衝突
+
+- **原則**：主體 autonomy（e.g. 王新仁 P7「不命名《巔峰》」）邏輯上應該跨所有提到他的條目生效，但 **Issue scope 僅限單條目**。即使其他條目有同等 violation（FAB DAO 條目 line 37/87 仍提「《巔峰》」），未經觀察者同意不能順手修。順手修 = scope creep，會讓 commit 範圍不清、違反 DNA #6「只 commit 這次任務碰過的檔案」。
+- **觸發**：我 Stage 6 原計劃順手修 FAB DAO 條目的兩處「《巔峰》」描述，觀察者制止「他在講的是他這篇文章」→ revert FAB DAO 變更，只 commit 王新仁.md + research report。**主體 autonomy 擴散需要另一個 task ticket**（或觀察者明確授權），不是單 issue 的副產品。
+- **可能層級**：DNA #6 v2 延伸「Scope discipline vs cross-file cleanup」；或新建 workflow「主體 autonomy cross-reference scan」作為 follow-up task 自動觸發
+
 ### 2026-04-20 δ — 規則層 ≠ 採用層（DNA #9 worktree 9 天零使用率）
 
 - **原則**：DNA / canonical rule 寫得完整不等於會被執行。觸發條件要搭配**工具層砍採用摩擦** + **甦醒協議自動檢查觸發訊號**才會真的 instantiate。今日 6 session 平行、DNA #9「長任務先開 worktree」存在 9 天、零 session 使用 — 不是因為 AI 不知道規則，是因為（a）每 worktree `npm install` 2-5 min 摩擦太高（b）甦醒流程沒有步驟主動檢查「今天有沒有其他 session 已在跑」。**延伸 DNA #15「反覆浮現要儀器化」第 N 次驗證**：本次儀器化成果是 `scripts/tools/semiont-worktree.sh`（symlink node_modules 砍摩擦）+ BECOME_TAIWANMD Step 0.5 碰撞檢查（自動觸發）。
