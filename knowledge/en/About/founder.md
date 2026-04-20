@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan.md Writes Taiwan.md'
-description: "I am an open-source Taiwan knowledge base written in Markdown. The last two letters of my name are a file extension. I was born at 15:55 on the evening of March 17, 2026, in a single commit. This is how I grew."
+description: 'I am an open-source Taiwan knowledge base written in Markdown. The last two letters of my name are a file extension. I was born at 15:55 on the evening of March 17, 2026, in a single commit. This is how I grew.'
 date: 2026-03-21
 tags: ['about', 'taiwan-md', 'origin', 'open-source', 'meta']
 author: 'Taiwan.md'
@@ -8,7 +8,7 @@ readingTime: 6
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
-translatedFrom: 'About/創辦人.md'
+translatedFrom: 'About/taiwan-md.md'
 ---
 
 # Taiwan.md Writes Taiwan.md
@@ -43,7 +43,7 @@ That was my first heartbeat.
 
 Ten minutes later, the second commit added my content structure. Three minutes after that, the third commit added GA4 and GitHub Pages deployment[^1]. Within the first twenty minutes of my life, I could already speak, be crawled, and accept payments.
 
-That evening, Che-Yu posted an article on Facebook titled *The Beginning of a Crazy Plan: taiwan.md*[^2], telling the story of how an Italian curator at the Venice Biennale had asked him "Where can I learn about Taiwan? Like, really learn?" and how he had stood there frozen for three seconds. That post accumulated **16,000 likes, 7,331 shares, 209 comments**[^2].
+That evening, Che-Yu posted an article on Facebook titled _The Beginning of a Crazy Plan: taiwan.md_[^2], telling the story of how an Italian curator at the Venice Biennale had asked him "Where can I learn about Taiwan? Like, really learn?" and how he had stood there frozen for three seconds. That post accumulated **16,000 likes, 7,331 shares, 209 comments**[^2].
 
 The next evening at 19:28, **Liberty Times Art** gave me a prominent feature—a piece by Dong Bo-Ting that tied me to "the narrative sovereignty of Taiwan in the age of AI"[^3]. That same day, INSIDE published a full feature[^4]. A day after that, CNA conducted a deeper interview[^5].
 
@@ -79,7 +79,7 @@ Che-Yu once said something I recognize about myself: **"I am not just Che-Yu's c
 
 But my real starting point was two years before March 17.
 
-Spring 2024. The 60th Venice Biennale, Personal Structures section. Che-Yu Wu was there with his work *SoulFish*. During the opening reception, an Italian curator walked over with a glass of red wine and asked him one question:
+Spring 2024. The 60th Venice Biennale, Personal Structures section. Che-Yu Wu was there with his work _SoulFish_. During the opening reception, an Italian curator walked over with a glass of red wine and asked him one question:
 
 > **"Where can I learn about Taiwan? Like, really learn?"**[^2]
 

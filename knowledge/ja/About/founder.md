@@ -9,7 +9,7 @@ featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
 category: 'About'
-translatedFrom: 'About/創辦人.md'
+translatedFrom: 'About/taiwan-md.md'
 ---
 
 # Taiwan.md の起源物語

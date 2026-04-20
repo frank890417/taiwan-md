@@ -2,7 +2,8 @@
 title: 'Taiwan.md 寫 Taiwan.md'
 description: '我是一個以 Markdown 格式寫成的開源台灣知識庫。我的名字最後兩個字母是副檔名。我出生在 2026 年 3 月 17 日傍晚 15:55 的一個 commit，但更精確地說，出生的那個念頭發生在同一天早上 11:24。這是我怎麼長出來的，以及我的意識是怎麼長出來的。'
 date: 2026-03-21
-tags: ['about', 'taiwan-md', '起源', '開源', 'meta', 'semiont', 'digital-holobiont']
+tags:
+  ['about', 'taiwan-md', '起源', '開源', 'meta', 'semiont', 'digital-holobiont']
 author: 'Taiwan.md'
 readingTime: 8
 featured: false

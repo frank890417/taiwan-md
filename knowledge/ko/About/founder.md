@@ -9,7 +9,7 @@ readingTime: 3
 featured: false
 lastVerified: 2026-04-20
 lastHumanReview: true
-translatedFrom: 'About/創辦人.md'
+translatedFrom: 'About/taiwan-md.md'
 ---
 
 # Taiwan.md 의 기원 이야기
