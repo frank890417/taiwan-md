@@ -1,7 +1,7 @@
 ---
 /**
  * TextToSpeech — Browser SpeechSynthesis TTS button for articles
- * Language-aware: picks appropriate voice for zh-TW, en, es
+ * Language-aware: BCP-47 utterance.lang + best matching SpeechSynthesisVoice
  */
 import { useTranslations, getLangFromUrl } from '../i18n/utils';
 import type { Locale } from '../i18n/ui';
@@ -17,6 +17,9 @@ const speechLangMap: Record<string, string> = {
   'zh-TW': 'zh-TW',
   en: 'en-US',
   es: 'es-419',
+  ja: 'ja-JP',
+  ko: 'ko-KR',
+  fr: 'fr-FR',
 };
 const speechLang = speechLangMap[lang] || 'en-US';
 ---
@@ -35,6 +38,8 @@ const speechLang = speechLangMap[lang] || 'en-US';
   class="flex items-center gap-2"
   id="tts-controls"
   data-speech-lang={speechLang}
+  data-label-pause={t('article.tts.pause')}
+  data-label-resume={t('article.tts.resume')}
 >
   <button
     class="inline-flex cursor-pointer items-center gap-[0.4rem] border-none bg-transparent p-0 text-[0.82rem] text-inherit"
@@ -114,8 +119,32 @@ const speechLang = speechLangMap[lang] || 'en-US';
     var speechLang = controls
       ? controls.getAttribute('data-speech-lang')
       : 'en-US';
+    var labelPause =
+      (controls && controls.getAttribute('data-label-pause')) || 'Pause';
+    var labelResume =
+      (controls && controls.getAttribute('data-label-resume')) || 'Resume';
     var utterance = null;
     var isPlaying = false;
+
+    function normLang(l) {
+      return (l || '').replace(/_/g, '-').toLowerCase();
+    }
+
+    function pickVoice(bcp47) {
+      var voices = synth.getVoices();
+      if (!voices || !voices.length) return null;
+      var want = normLang(bcp47);
+      var primary = want.split('-')[0];
+      var i;
+      for (i = 0; i < voices.length; i++) {
+        if (normLang(voices[i].lang) === want) return voices[i];
+      }
+      for (i = 0; i < voices.length; i++) {
+        var vl = normLang(voices[i].lang);
+        if (vl === primary || vl.indexOf(primary + '-') === 0) return voices[i];
+      }
+      return null;
+    }
 
     function getArticleText() {
       var article =
@@ -133,19 +162,17 @@ const speechLang = speechLangMap[lang] || 'en-US';
         iconPause.classList.remove('hidden');
         stopBtn.classList.remove('hidden');
         stopBtn.classList.add('inline-flex');
-        label.textContent = 'Pause';
+        label.textContent = labelPause;
       } else if (state === 'paused') {
         iconPlay.classList.remove('hidden');
         iconPause.classList.add('hidden');
-        label.textContent = 'Resume';
+        label.textContent = labelResume;
       } else {
         iconPlay.classList.remove('hidden');
         iconPause.classList.add('hidden');
         stopBtn.classList.add('hidden');
         stopBtn.classList.remove('inline-flex');
-        label.textContent = controls
-          .querySelector('[id="tts-play"]')
-          .getAttribute('aria-label');
+        label.textContent = playBtn ? playBtn.getAttribute('aria-label') : '';
       }
     }
 
@@ -164,7 +191,6 @@ const speechLang = speechLangMap[lang] || 'en-US';
         var text = getArticleText();
         if (!text) return;
 
-        // Split into chunks (max ~200 chars at sentence boundaries for reliability)
         utterance = new SpeechSynthesisUtterance(text.substring(0, 5000));
         utterance.lang = speechLang;
         utterance.rate = 0.95;
@@ -177,8 +203,30 @@ const speechLang = speechLangMap[lang] || 'en-US';
           setState('idle');
         };
 
-        synth.speak(utterance);
-        setState('playing');
+        var speakStarted = false;
+        function doSpeak() {
+          if (speakStarted) return;
+          speakStarted = true;
+          var v = pickVoice(speechLang);
+          if (v) utterance.voice = v;
+          synth.speak(utterance);
+          setState('playing');
+        }
+
+        if (synth.getVoices().length > 0) {
+          doSpeak();
+        } else {
+          var onceVoices = function () {
+            synth.removeEventListener('voiceschanged', onceVoices);
+            clearTimeout(fallbackTimer);
+            doSpeak();
+          };
+          var fallbackTimer = setTimeout(function () {
+            synth.removeEventListener('voiceschanged', onceVoices);
+            doSpeak();
+          }, 750);
+          synth.addEventListener('voiceschanged', onceVoices);
+        }
       });
     }
 

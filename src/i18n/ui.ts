@@ -171,6 +171,8 @@ export const ui = {
     'article.disclaimer.body':
       'This article was collaboratively written with AI assistance and community review.',
     'article.tts.play': 'Listen',
+    'article.tts.pause': 'Pause',
+    'article.tts.resume': 'Resume',
     'article.tts.stop': 'Stop',
     'CategoryGrid.article': 'article',
     'CategoryGrid.articles': 'articles',
@@ -322,6 +324,8 @@ export const ui = {
     'article.disclaimer.body':
       'この記事はコミュニティとAIの協力により作成されました。',
     'article.tts.play': '読み上げ',
+    'article.tts.pause': '一時停止',
+    'article.tts.resume': '再開',
     'article.tts.stop': '停止',
     'CategoryGrid.article': '件',
     'CategoryGrid.articles': '件',
@@ -476,6 +480,8 @@ export const ui = {
     'article.disclaimer.body':
       '이 기사는 커뮤니티와 AI의 협력으로 작성되었습니다.',
     'article.tts.play': '읽어주기',
+    'article.tts.pause': '일시정지',
+    'article.tts.resume': '계속',
     'article.tts.stop': '정지',
     'CategoryGrid.article': '개',
     'CategoryGrid.articles': '개',
@@ -623,6 +629,8 @@ export const ui = {
     'article.disclaimer.title': '關於此文章',
     'article.disclaimer.body': '本文章由社群協作，並經 AI 輔助撰寫與審查。',
     'article.tts.play': '朗讀',
+    'article.tts.pause': '暫停',
+    'article.tts.resume': '繼續',
     'article.tts.stop': '停止',
     'CategoryGrid.article': '篇',
     'CategoryGrid.articles': '篇',

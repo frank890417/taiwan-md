@@ -1,0 +1,214 @@
+{
+  "lastUpdated": "2026-04-20T01:18:53.896Z",
+  "organs": [
+    {
+      "id": "heart",
+      "name": "Heart",
+      "nameZh": "心臟",
+      "metaphor": "內容引擎",
+      "emoji": "🫀",
+      "score": 90,
+      "trend": "up",
+      "metrics": {
+        "articlesLast7Days": 14,
+        "articlesLast30Days": 300,
+        "totalArticles": 494
+      }
+    },
+    {
+      "id": "immune",
+      "name": "Immune",
+      "nameZh": "免疫系統",
+      "metaphor": "品質防禦",
+      "emoji": "🛡️",
+      "score": 99,
+      "trend": "up",
+      "metrics": {
+        "humanReviewedCount": 488,
+        "totalArticles": 494,
+        "humanReviewedPercent": 98.8
+      }
+    },
+    {
+      "id": "dna",
+      "name": "DNA",
+      "nameZh": "遺傳密碼",
+      "metaphor": "品質基因",
+      "emoji": "🧬",
+      "score": 95,
+      "trend": "up",
+      "metrics": {
+        "editorialLastModified": "2026-04-14T09:02:57.000Z"
+      }
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "nameZh": "骨骼系統",
+      "metaphor": "技術架構",
+      "emoji": "🦴",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {}
+    },
+    {
+      "id": "breath",
+      "name": "Breath",
+      "nameZh": "呼吸系統",
+      "metaphor": "自動化循環",
+      "emoji": "🫁",
+      "score": 85,
+      "trend": "stable",
+      "metrics": {
+        "workflowCount": 3
+      }
+    },
+    {
+      "id": "reproduce",
+      "name": "Reproduce",
+      "nameZh": "繁殖系統",
+      "metaphor": "社群繁殖力",
+      "emoji": "🧫",
+      "score": 85,
+      "trend": "up",
+      "metrics": {
+        "recentContributors": 38
+      }
+    },
+    {
+      "id": "senses",
+      "name": "Senses",
+      "nameZh": "感知器官",
+      "metaphor": "外部感知",
+      "emoji": "👁️",
+      "score": 90,
+      "trend": "stable",
+      "metrics": {
+        "hasGA": true,
+        "hasIssueTemplates": true
+      }
+    },
+    {
+      "id": "translation",
+      "name": "Translation",
+      "nameZh": "語言器官",
+      "metaphor": "多語言複製",
+      "emoji": "🌐",
+      "score": 92,
+      "trend": "up",
+      "metrics": {
+        "languageCoverage": {
+          "zh-TW": 494,
+          "en": 415,
+          "ja": 276,
+          "ko": 491,
+          "es": 36,
+          "fr": 479
+        },
+        "translationPct": 92,
+        "langHealthDetails": {
+          "en": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 415,
+              "pct": 84
+            },
+            "score": 94
+          },
+          "ja": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 276,
+              "pct": 56
+            },
+            "score": 82
+          },
+          "ko": {
+            "ui": {
+              "pct": 100
+            },
+            "pages": {
+              "filled": 8,
+              "total": 8,
+              "pct": 100
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 491,
+              "pct": 99
+            },
+            "score": 100
+          },
+          "es": {
+            "ui": {
+              "pct": 0
+            },
+            "pages": {
+              "filled": 0,
+              "total": 8,
+              "pct": 0
+            },
+            "hubs": {
+              "filled": 12,
+              "total": 12,
+              "pct": 100
+            },
+            "articles": {
+              "count": 36,
+              "pct": 7
+            },
+            "score": 23
+          },
+          "fr": {
+            "ui": {
+              "pct": 0
+            },
+            "pages": {
+              "filled": 0,
+              "total": 8,
+              "pct": 0
+            },
+            "hubs": {
+              "filled": 3,
+              "total": 12,
+              "pct": 25
+            },
+            "articles": {
+              "count": 479,
+              "pct": 97
+            },
+            "score": 44
+          }
+        }
+      }
+    }
+  ]
+}

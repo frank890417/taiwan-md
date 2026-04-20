@@ -1,8 +1,8 @@
 {
-  "totalArticles": 2238,
+  "totalArticles": 2202,
   "totalCategories": 21,
-  "estimatedContributors": 51,
-  "totalTags": 5210,
+  "estimatedContributors": 147,
+  "totalTags": 5151,
   "categories": [
     {
       "name": "ko",
@@ -10,7 +10,7 @@
     },
     {
       "name": "Society",
-      "count": 41
+      "count": 39
     },
     {
       "name": "en",
@@ -22,15 +22,11 @@
     },
     {
       "name": "Culture",
-      "count": 47
+      "count": 42
     },
     {
       "name": "ja",
-      "count": 277
-    },
-    {
-      "name": "People",
-      "count": 177
+      "count": 276
     },
     {
       "name": "Music",
@@ -38,11 +34,15 @@
     },
     {
       "name": "Economy",
-      "count": 50
+      "count": 49
     },
     {
       "name": "Lifestyle",
-      "count": 18
+      "count": 17
+    },
+    {
+      "name": "People",
+      "count": 156
     },
     {
       "name": "Art",
@@ -50,19 +50,19 @@
     },
     {
       "name": "Food",
-      "count": 31
+      "count": 29
     },
     {
       "name": "Technology",
-      "count": 30
+      "count": 29
     },
     {
       "name": "Nature",
-      "count": 27
+      "count": 26
     },
     {
       "name": "Geography",
-      "count": 20
+      "count": 19
     },
     {
       "name": "About",
@@ -163,22 +163,17 @@
       "count": 19
     },
     {
-      "name": "文化",
+      "name": "g0v",
       "count": 18
     },
     {
-      "name": "g0v",
-      "count": 18
+      "name": "文化",
+      "count": 17
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2238,
+    "zh-TW": 2202,
     "en": 0
   },
-  "lastUpdated": "2026-04-20T01:08:16.345Z",
-  "stars": 943,
-  "forks": 137,
-  "zhPages": 1819,
-  "enPages": 419,
-  "totalPages": 2238
+  "lastUpdated": "2026-04-20T01:18:39.612Z"
 }
