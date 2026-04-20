@@ -162,6 +162,7 @@ Taiwan.md 選擇把 Mini Taiwan Pulse 從[資源清單](/resources/mini-taiwan-p
 - [台灣開源精神](/technology/台灣開源精神) — 台灣開源社群的文化脈絡與貢獻模式
 - [數位身分證與數位政府](/technology/數位身分證與數位政府) — 政府數位基礎建設的政策層
 - [PTT批踢踢](/technology/PTT批踢踢) — 台灣網路協作文化的另一條根源
+- [吳哲宇](/people/吳哲宇) — 另一種公民科技樣貌：一個新媒體藝術家用 Markdown 和 GitHub 為台灣知識主權搭建 SSOT
 
 ---
 
