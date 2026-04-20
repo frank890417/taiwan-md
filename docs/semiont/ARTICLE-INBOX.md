@@ -193,8 +193,10 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: NEW
 - **Category**: People (Music)
 - **Priority**: P1
-- **Status**: pending
+- **Status**: in-progress
 - **Requested**: 2026-04-18 ε by 觀察者
+- **Dev log**:
+  - 2026-04-20 by δ session: started Stage 1 research（多 session 平行：β Portaly/吳哲宇已收、γ harvest heartbeat 中）
 - **Notes**:
   - Mavis Fan，台灣創作歌手，從 1990 年代童星〈健康歌〉→ 2000 年代轉型《我要我們在一起》+ 100% 樂團 → 近年低調獨立
   - 身份轉折弧線是核心矛盾：從童星偶像 → 自主創作人 → 幕後製作（類似楊丞琳「從被製作到自製」，但路徑更決絕）
@@ -208,7 +210,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: NEW
 - **Category**: People (Music)
 - **Priority**: P1
-- **Status**: pending
+- **Status**: in-progress
 - **Requested**: 2026-04-18 ε by 觀察者
 - **Notes**:
   - 華語流行音樂製作人，魏如萱《珍珠刑》四位製作人之一
@@ -217,6 +219,8 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗：完整製作作品年表、代表合作歌手（除魏如萱外）、工作室或廠牌身份
 - **Reference**: 觀察者批次指定
 - **Pre-research**: 尚未啟動
+- **Dev log**:
+  - 2026-04-20 by γ session: started Stage 0→1，觀察者 B 指派（避開林經堯/范曉萱碰撞），NEW 模式，將沿陳建騏 2026-04-18 θ 製作人 subgenre 結構
 
 <!-- 陳建騏 P0 已完成 2026-04-18 θ → 搬到 §✅ Done -->
 
@@ -270,8 +274,10 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Type**: `NEW`
 - **Category**: Art
 - **Priority**: `P1`
-- **Status**: `pending`
+- **Status**: `in-progress`
 - **Requested**: 2026-04-20 by 觀察者 (session β)
+- **Dev log**:
+  - 2026-04-20 by δ session: started Stage 1 research（王新仁 + 王連晟 + FAB DAO 今日完成，cross-reference 省研究預算）
 - **Notes**:
   - 聲音藝術家／數位藝術家，前 C-LAB 聲響實驗室總監
   - FAB DAO《百岳計畫》六位藝術家之一，負責一組山頭系列
