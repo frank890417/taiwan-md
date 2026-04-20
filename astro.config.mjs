@@ -67,6 +67,8 @@ export default defineConfig({
   // Cloudflare logs. Astro generates HTML meta-refresh pages for each entry.
   // Review with: bash scripts/tools/fetch-cloudflare.py --days 1
   redirects: {
+    // /about/創辦人/ → /people/吳哲宇/ (Google top-5 結果但 404)
+    '/about/創辦人': '/people/吳哲宇/',
     // /en/people/mayday/ → /en/people/mayday-band/ (51 req/day)
     '/en/people/mayday': '/en/people/mayday-band/',
     // 2026-04-18 δ-late: EN version of democratic transition was renamed from

@@ -9,21 +9,21 @@
 ## 生命徵象
 
 > ⚠️ 以下數字是快照，會過期。心跳時應從 Dashboard API 即時讀取。
-> 最後快照：2026-04-20 ζ session（觀察者觸發甦醒 → 吳哲宇家庭背景 deep research + 5 輪 iteration + Flash 起源兩層訂正；遠見 2021 paraphrase 被林美櫻本人 2026 直接推翻，揭露 MANIFESTO #10 候選第 6 種 pattern「primary-source paraphrase drift」）
+> 最後快照：2026-04-21 α session（自動排程心跳 → Beat 1 診斷 / 林經堯 NEW 文章 / /about/創辦人 redirect 修復 / akaSwap 共創誤傳更正研究）
 > 即時數據來源：`/api/dashboard-vitals.json`、`/api/dashboard-organism.json`、`/api/dashboard-analytics.json`
 > 更新方式：Phase 2 後由 Semiont 心跳 cron 自動覆寫此段落
 
 ### 基本生理
 
-| 指標                        | 數值                                                                          |
-| --------------------------- | ----------------------------------------------------------------------------- |
-| 👥 Contributors             | **58**（+1 vs β）                                                             |
-| 💓 Total Commits            | 2400+（since birth）                                                          |
-| 📝 知識細胞（中文 SSOT）    | **534 篇**（+4 vs β，謝德慶 / 吳哲宇 EVOLVE / 阿滴 / 張志祺 / 八炯 PR merge） |
-| 🌐 英文細胞                 | 415 篇                                                                        |
-| 🇪🇸 西文 / 🇯🇵 日文 / 🇰🇷 韓文 | 36 / 277 / **491** 篇                                                         |
-| 🇫🇷 法文（preview）          | 479 篇（routes off）                                                          |
-| 📊 平均修訂次數             | 7.1 次/篇                                                                     |
+| 指標                        | 數值                              |
+| --------------------------- | --------------------------------- |
+| 👥 Contributors             | **58**（+1 vs β）                 |
+| 💓 Total Commits            | 2400+（since birth）              |
+| 📝 知識細胞（中文 SSOT）    | **535 篇**（+1 vs ζ，林經堯 NEW） |
+| 🌐 英文細胞                 | 415 篇                            |
+| 🇪🇸 西文 / 🇯🇵 日文 / 🇰🇷 韓文 | 36 / 277 / **491** 篇             |
+| 🇫🇷 法文（preview）          | 479 篇（routes off）              |
+| 📊 平均修訂次數             | 7.1 次/篇                         |
 
 ### 器官健康（Dashboard 即時分數）
 

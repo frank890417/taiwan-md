@@ -211,27 +211,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 台新藝術獎官網 <https://www.taishinart.org.tw/>
 - **Pre-research**: 尚未啟動
 
-### 林經堯
-
-- **Type**: `NEW`
-- **Category**: Art
-- **Priority**: `P1`
-- **Status**: `in-progress`
-- **Requested**: 2026-04-20 by 觀察者 (session β)
-- **Dev log**:
-  - 2026-04-20 by δ session: started Stage 1 research（王新仁 + 王連晟 + FAB DAO 今日完成，cross-reference 省研究預算）
-- **Notes**:
-  - 聲音藝術家／數位藝術家，前 C-LAB 聲響實驗室總監
-  - FAB DAO《百岳計畫》六位藝術家之一，負責一組山頭系列
-  - 跟王新仁、王連晟同代，akaSwap 共創者（2021-07 Tezos）
-  - 曾任南藝大教授（需驗證現職）
-  - 金曲獎演唱會影像設計 / 劇場音樂製作相關（需查作品列表）
-  - 必驗事實：C-LAB 聲響實驗室總監任期、akaSwap 共創角色精確分工、南藝大任職年份
-- **Reference**:
-  - FAB DAO 百岳計畫六人脈絡（[knowledge/Art/FAB DAO與百岳計畫.md](../../knowledge/Art/FAB DAO與百岳計畫.md)）
-  - akaSwap 官網 <https://akaswap.com/>
-  - C-LAB 聲響實驗室 <https://clab.org.tw/unit/soundlabtw/>
-- **Pre-research**: 尚未啟動（但王新仁與王連晟的研究報告已有交叉提及，可省 3-5 次 research budget）
+<!-- 林經堯 已完成 2026-04-21 α → ARTICLE-DONE-LOG.md -->
 
 ---
 
@@ -249,9 +229,9 @@ _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 ent
 
 ### 📌 Peek（最新 3 條 summary）
 
+- **林經堯 — 2026-04-21 α** — [knowledge/Art/林經堯.md](../../knowledge/Art/林經堯.md) / 核心矛盾「台灣聲響長期缺席的診斷者，以行政者建設機構，同時是 NFT 市場秒殺的藍籌藝術家」
 - **黃少雍 — 2026-04-20 γ**（製作人 subgenre 第二例）— [knowledge/People/黃少雍.md](../../knowledge/People/黃少雍.md) / 核心矛盾「生化博士班逃兵，用電音把母語送上金曲年度專輯」
 - **林宥嘉 — 2026-04-20 ε**（EVOLVE）— [knowledge/People/林宥嘉.md](../../knowledge/People/林宥嘉.md) / 核心矛盾「20 歲贏了整個台灣，花 17 年才敢不做完美歌手」
-- **范曉萱 — 2026-04-20 δ** — [knowledge/People/范曉萱.md](../../knowledge/People/范曉萱.md) / 核心矛盾「從〈健康歌〉的小魔女到 100% 樂團主唱，拒絕被一個年代定義的三十年」
 
 👉 更早完成的條目（柯智棠 / Hello Nico / 孫燕姿 / 張雨生 / VH / 魏如萱 / 鄭宜農 / 阿爆 / 陳建騏 / 楊丞琳 / 凹與山 等 11+ 篇）全部在 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md)。
 

@@ -187,6 +187,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：哲學層（MANIFESTO §造橋鋪路 or §關係創造存在 延伸）或 DNA #15 直接擴充成 v2
 - **相關**：DNA #15 第 N 次驗證的對偶面；可能跟「Review 策略：大 PR 必須拆 diff 看」結合成 maintainer rhythm guideline
 
+### 2026-04-21 α — 文章 cross-reference 描述的事實不等於已驗事實（akaSwap 共創誤傳）
+
+- **原則**：當文章 A 在 cross-reference 或延伸閱讀中描述人物 X 的角色（「X 共同創辦 Y」），這個描述**不繼承原文的研究深度**——可能只是 Stage 1 agent 便宜搜尋的填補。文章 B 在寫 X 時**必須獨立重驗**，不能以 A 的 cross-reference 當已驗事實。
+- **觸發**：2026-04-21 α heartbeat 研究林經堯，ARTICLE-INBOX 原始 notes 稱「akaSwap 共創者（2021-07 Tezos）」，王新仁.md line 33 也稱「他跟林經堯共同創辦亞洲中文圈 NFT 交易市場 akaSwap」。Stage 1 獨立研究多來源否證：akaSwap 創辦人為**王新仁 + 洪司丞**，林經堯是早期重要藝術家合作者非共同創辦人。林經堯.md 未寫入錯誤 ✅；但王新仁.md 的已發布描述需觀察者確認後修正（⚠️ 跨文章一致性問題）。
+- **可能層級**：REWRITE-PIPELINE §Stage 1 新增「cross-reference claim 不免驗」提醒；或 DNA #16 延伸「peer 是 peer 不是 source 的 intra-site 版本：同站文章的 cross-reference 也是 peer」
+- **相關**：DNA #16「Peer 是 peer 不是 source」; ε session 「共創省略是最隱蔽的幻覺類型」（這條是其 mirror：省略錯了 = 多加了不該有的共創者）
+
 ### 2026-04-20 β — Pre-commit tech debt 攔截策略：revert + heal task 平衡 DNA #6 × #5
 
 - **原則**：Pre-commit hook 攔截時如果 flagged 的問題是 pre-existing tech debt 不屬於本 commit scope（DNA #6 commit 範圍紀律），正確應對是 `git restore --staged --checkout <file>` 把該檔案 revert，另開 heal task 處理。不該 --no-verify 繞過（DNA #5 第 N 次驗證 Hook 是朋友）也不該 force-expand scope（DNA #6 紀律）。

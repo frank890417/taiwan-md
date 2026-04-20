@@ -42,6 +42,17 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 林經堯（數位藝術家）— 2026-04-21 α 完成（聲響研究缺席診斷者 × NFT 秒殺藍籌藝術家）
+
+- **Article**: [knowledge/Art/林經堯.md](../../knowledge/Art/林經堯.md)
+- **Pipeline**: REWRITE-PIPELINE v2.18 — NEW 模式（Stage 1 general-purpose 23 WebSearch + 16 WebFetch / Stage 2 全文寫作 / Stage 3.5 幻覺審計通過 / Stage 4 format-check ✅ / sync ✅）
+- **核心矛盾**（22 字）：「台灣聲響長期缺席的診斷者，以行政者建設機構，同時是 NFT 市場秒殺的藍籌藝術家」
+- **Hook**：2019 年 C-LAB 聲響實驗室開幕 Diversonics 場景 + 他的診斷引語「聲音在台灣長期缺席的狀態」→ 矛盾：這個說「存在卻不可見」的人選擇 NFT（確立數位所有權的技術）作為媒介
+- **品質**：腳註 8 個（格式 ✅）/ 延伸閱讀 4 篇 / quality-scan ⚠️ 5（lastHumanReview: false）
+- **Research**: [reports/research/2026-04/林經堯.md](../../reports/research/2026-04/林經堯.md)
+- **關鍵修正（Stage 3.5 發現）**：akaSwap 共同創辦人 claim **已否證** — 創辦人為王新仁 + 洪司丞；林經堯為早期藝術家合作者。未寫入 林經堯.md ✅；⚠️ 王新仁.md line 33 需觀察者確認後更正
+- **觸發 handoff**：王新仁.md akaSwap 描述修正（pending 觀察者）
+
 ### 黃少雍（製作人）— 2026-04-20 γ 完成（棄生化博班，用電音把母語送上金曲年度專輯）
 
 - **Article**: [knowledge/People/黃少雍.md](../../knowledge/People/黃少雍.md)
