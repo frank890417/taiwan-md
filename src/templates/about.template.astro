@@ -1330,9 +1330,10 @@ const t = useTranslations(lang);
                   <p class="sponsor-contribution-title">
                     {t('about.sponsors.protico.story.title')}
                   </p>
-                  <p class="sponsor-contribution">
-                    {t('about.sponsors.protico.story.desc')}
-                  </p>
+                  <p
+                    class="sponsor-contribution"
+                    set:html={t('about.sponsors.protico.story.desc.html')}
+                  />
                 </div>
               </div>
               <div class="sponsor-card">
@@ -1365,15 +1366,6 @@ const t = useTranslations(lang);
             <p class="tier-perks">
               {t('about.sponsors.tier.individual.perks')}
             </p>
-            <div class="tier-logos">
-              <a
-                href="https://github.com/howieyoung"
-                target="_blank"
-                class="supporter-link"
-              >
-                <span set:html={t('about.sponsors.howie.text.html')} />
-              </a>
-            </div>
             <SupporterGrid />
           </div>
         </div>
