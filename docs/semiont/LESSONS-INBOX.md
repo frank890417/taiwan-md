@@ -87,6 +87,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-21 γ — CI workflow PR diff 2-dot vs 3-dot 語意陷阱（DNA #24 第 9 種「工具在說謊」）
+
+- **原則**：GitHub PR CI workflow 使用 `git diff base.sha head.sha`（2-dot）時，若 PR 分支落後 main（branch behind），main 後來 ahead 的檔案會被 2-dot diff 誤列為「PR 相關」，CI 嘗試 review 這些不在 PR head 的檔案 → 誤報 FAILURE。**正確做法**：PR diff 一律用 `git diff --diff-filter=ACMR base...head`（3-dot merge-base + 排除 Deleted），這才是「PR 在 branch-off 後做了什麼」的正確語意。此外加 defensive `[[ -f "$f" ]] || continue` 確認檔案實際存在於 checked-out HEAD，作 belt-and-suspenders。
+- **觸發**：2026-04-21 PR #582 dreamline2 code-only i18n refactor（只改 ArticleSidebar.astro + ui.ts）→ α session 剛 commit Hello-Nico.md 到 main → CI 2-dot diff 把 Hello-Nico.md 列為 PR diff → review-pr.sh 跑 Hello-Nico.md 報「檔案不存在」→ CI FAILURE。commit `97c89be8` 修 `.github/workflows/pr-review.yml`。
+- **可能層級**：通用反射 → DNA §要小心清單 #24「工具在說謊」append 第 9 種「diff semantics 誤用（2-dot vs 3-dot）」；或 MAINTAINER-PIPELINE §CI workflow pattern 新增「PR diff 永遠用 3-dot merge-base」。
+- **相關**：DNA #24 第 9 次驗證（近期第 8 次是 2026-04-18 GA4 custom dimensions 埋了但沒註冊）/ MANIFESTO §造橋鋪路「每次踩坑都該把路鋪好」
+
+### 2026-04-21 γ — merge-first-polish-later 的隱性成本：404 尾部
+
+- **原則**：polish 階段加 cross-ref 指向「未建但應該建」的條目（Meta-Index 連線地圖策略）會在 GA/CF 產生 404 tail。每加一條 placeholder cross-ref = 潛在新 404。若不追蹤，EXP-A 404 rate 會被 polish 動作推升而永遠清不完。修補：**每加一條 placeholder cross-ref 同時在 ARTICLE-INBOX append P3 backlog entry**，讓「地圖上的連線」有可追溯的完成路徑；或造 `scripts/tools/dead-cross-ref-scan.sh` 自動掃所有 cross-ref 產生 P3 backlog。
+- **觸發**：2026-04-21 γ session polish PR #585 金牛角 + #586 全聯 加 8+ 條 cross-ref 指向未建條目（台灣小吃 / 三峽老街 / 台灣伴手禮經濟 / 台灣便利商店文化 / 台灣外送經濟 / 台灣行動支付 / 台灣糕餅文化 / 台灣綜藝節目）。CF 7d 404 rate β 9.53% → γ 10.38% (+0.85pp)，雖然 total requests 也成長 +0.16%，但 404 增速快於 request 增速——polish 直接推升 EXP-A 指標。
+- **可能層級**：操作規則 → REWRITE-PIPELINE Stage 5 §cross-link 加「未建 target 同步 ARTICLE-INBOX P3 append」步驟；或造工具 `dead-cross-ref-scan.sh` 自動掃 knowledge/ 所有 markdown cross-ref 檢查 target 存在性，產生 P3 backlog。
+- **相關**：MANIFESTO §Meta-Index 連線地圖 / MANIFESTO §造橋鋪路成本量化 / LONGINGS §AI SEO 低 404 rate / ARTICLE-INBOX 繁殖層
+
 ### 2026-04-21 β — 外部 AI-gen 貢獻者的標準 format 缺失 pattern（idlccp1984 連三篇驗證）
 
 - **原則**：外部 AI-gen 文章貢獻（ChatGPT / Manus / Gemini 等產出後直接提 PR）呈現**高度穩定的 format 缺失三連**：(1) 缺 `## 參考資料` heading（footnotes 直接散落文末沒有 section title）(2) 缺 `## 延伸閱讀` section（無 cross-ref 回網絡）(3) footnote 只給 `[Title](URL)` 沒有 ` — 描述` 後綴。這跟 2026-04-21 α 的「幻覺 pattern」平行—— α 那條是「事實層幻覺」，這條是「格式層缺失」，都是 AI-gen 貢獻 post-merge 必須處理的標準項目。值得造 MAINTAINER-PIPELINE §外部 AI-gen 貢獻 post-merge polish 或 auto-fix 腳本。

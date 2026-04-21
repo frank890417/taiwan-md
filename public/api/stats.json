@@ -1,8 +1,8 @@
 {
-  "totalArticles": 2251,
+  "totalArticles": 2255,
   "totalCategories": 21,
   "estimatedContributors": 51,
-  "totalTags": 5208,
+  "totalTags": 5215,
   "categories": [
     {
       "name": "ko",
@@ -38,19 +38,19 @@
     },
     {
       "name": "Economy",
-      "count": 50
+      "count": 51
     },
     {
       "name": "Lifestyle",
-      "count": 18
+      "count": 19
     },
     {
       "name": "Art",
-      "count": 29
+      "count": 30
     },
     {
       "name": "Food",
-      "count": 31
+      "count": 32
     },
     {
       "name": "Technology",
@@ -172,13 +172,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2251,
+    "zh-TW": 2255,
     "en": 0
   },
-  "lastUpdated": "2026-04-21T01:08:25.182Z",
+  "lastUpdated": "2026-04-21T10:05:26.552Z",
   "stars": 946,
-  "forks": 138,
-  "zhPages": 1831,
+  "forks": 139,
+  "zhPages": 1835,
   "enPages": 420,
-  "totalPages": 2251
+  "totalPages": 2255
 }

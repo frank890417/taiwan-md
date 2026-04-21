@@ -6582,6 +6582,34 @@
     "path": "ja/Economy/mega-financial.md"
   },
   {
+    "title": "全聯福利中心：從黑臭福利社到台灣零售之王的逆襲",
+    "description": "1998 年林敏雄接手 66 家「黑黑臭臭」的軍公教福利站，靠著「便宜 20%、利潤 2%」的鋼鐵紀律，在二十五年內擴張至 1,200 家門市。這不只是一場零售革命，更是一個建築大亨如何用「讓利」邏輯，將超市變成台灣人高頻生活平台的傳奇。",
+    "category": "Economy",
+    "tags": [
+      "全聯",
+      "林敏雄",
+      "零售業",
+      "全支付",
+      "台灣經濟"
+    ],
+    "url": "https://taiwan.md/Economy/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "Economy/全聯福利中心.md"
+  },
+  {
+    "title": "吉祥物：從黑熊迷戀到諧音救贖的文化策展",
+    "description": "2013 年「喔熊」誕生開啟台灣吉祥物戰國時代。從全台黑熊大亂鬥、醜到登美國脫口秀的「虱目魚小子」，到年收上億的「福利熊」與在議會備詢的「熊讚」，台灣吉祥物正從政府宣傳工具演化為具備靈魂與社會共鳴的文化符號。",
+    "category": "Lifestyle",
+    "tags": [],
+    "url": "https://taiwan.md/Lifestyle/%E5%90%89%E7%A5%A5%E7%89%A9",
+    "readingTime": 22,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "Lifestyle/吉祥物.md"
+  },
+  {
     "title": "在搖晃的島嶼上，他們蓋了一座能飛的塔",
     "description": "距離活動斷層僅 200 公尺，台灣人偏要在最不穩定的土地上建出世界最高樓——然後有個瘋子花 91 分鐘徒手爬了上去。",
     "category": "Geography",
@@ -8081,6 +8109,23 @@
     "path": "People/金太星.md"
   },
   {
+    "title": "金牛角：飛機上的意外與漢餅靈魂的台式可頌",
+    "description": "三峽金牛角並非源自法國，而是一位漢餅師傅在飛機上與菲律賓麵包的意外邂逅，最終演變成撐起三峽嗅覺記憶的硬派點心。",
+    "category": "Food",
+    "tags": [
+      "三峽",
+      "金牛角",
+      "羅福清",
+      "伴手禮",
+      "台灣小吃"
+    ],
+    "url": "https://taiwan.md/Food/%E9%87%91%E7%89%9B%E8%A7%92",
+    "readingTime": 10,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "Food/金牛角.md"
+  },
+  {
     "title": "金度潤",
     "description": "《黑白大廚》白湯匙與米其林背景主廚，來台擔任豆府集團廚藝賽評審並推出期間限定菜，串起韓綜熱度與台灣韓式連鎖餐飲的話題檔期。",
     "category": "People",
@@ -8698,6 +8743,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "People/紀政.md"
+  },
+  {
+    "title": "紀柏豪：從經濟學走進聲響的人，用演算法追問一件事——你到底聽進去了嗎",
+    "description": "紀柏豪（Pohao Chi），聲音藝術家、作曲家、策展人。台大經濟系畢業，赴倫敦金匠學院取得音樂碩士，2021 年於 MIT 藝術文化科技碩士畢業，同年以《Plantfluencer Gazing》拿下 MIT Harold and Arlene Schnitzer Prize 視覺藝術首獎。早年是 Hello Nico 樂團合成器手，後創立融聲創意 Zone Sound Creative 工作室（2017）。作品《空間的節奏》入選 2014 台北美術獎、《3000 Years Among Microbes》獲文化部補助赴 MIT 合作，2025 年於 C-LAB 聲響藝術節 DIVERSONICS 發表《朗誦者 2.0》。他用演算法、GPS、AI 合成聲音量測世界，卻始終追問同一個問題：怎麼讓人從被動的 hear，回到主動的 listen。",
+    "category": "Art",
+    "tags": [],
+    "url": "https://taiwan.md/Art/%E7%B4%80%E6%9F%8F%E8%B1%AA",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-04-21",
+    "path": "Art/紀柏豪.md"
   },
   {
     "title": "美麗島事件",

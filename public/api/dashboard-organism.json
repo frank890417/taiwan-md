@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T01:08:26.094Z",
+  "lastUpdated": "2026-04-21T10:05:27.735Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 78,
-        "articlesLast30Days": 335,
-        "totalArticles": 541
+        "articlesLast7Days": 83,
+        "articlesLast30Days": 340,
+        "totalArticles": 545
       }
     },
     {
@@ -24,8 +24,8 @@
       "score": 99,
       "trend": "up",
       "metrics": {
-        "humanReviewedCount": 535,
-        "totalArticles": 541,
+        "humanReviewedCount": 539,
+        "totalArticles": 545,
         "humanReviewedPercent": 98.9
       }
     },
@@ -72,7 +72,7 @@
       "score": 100,
       "trend": "up",
       "metrics": {
-        "recentContributors": 39,
+        "recentContributors": 37,
         "recentSpores": 17,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 145887,
@@ -102,7 +102,7 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 541,
+          "zh-TW": 545,
           "en": 416,
           "ja": 277,
           "ko": 491,
@@ -127,9 +127,9 @@
             },
             "articles": {
               "count": 416,
-              "pct": 77
+              "pct": 76
             },
-            "score": 91
+            "score": 90
           },
           "ja": {
             "ui": {
@@ -167,7 +167,7 @@
             },
             "articles": {
               "count": 491,
-              "pct": 91
+              "pct": 90
             },
             "score": 96
           },
@@ -207,9 +207,9 @@
             },
             "articles": {
               "count": 479,
-              "pct": 89
+              "pct": 88
             },
-            "score": 41
+            "score": 40
           }
         }
       }
