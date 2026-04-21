@@ -87,6 +87,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-21 β — 外部 AI-gen 貢獻者的標準 format 缺失 pattern（idlccp1984 連三篇驗證）
+
+- **原則**：外部 AI-gen 文章貢獻（ChatGPT / Manus / Gemini 等產出後直接提 PR）呈現**高度穩定的 format 缺失三連**：(1) 缺 `## 參考資料` heading（footnotes 直接散落文末沒有 section title）(2) 缺 `## 延伸閱讀` section（無 cross-ref 回網絡）(3) footnote 只給 `[Title](URL)` 沒有 ` — 描述` 後綴。這跟 2026-04-21 α 的「幻覺 pattern」平行—— α 那條是「事實層幻覺」，這條是「格式層缺失」，都是 AI-gen 貢獻 post-merge 必須處理的標準項目。值得造 MAINTAINER-PIPELINE §外部 AI-gen 貢獻 post-merge polish 或 auto-fix 腳本。
+- **觸發**：idlccp1984 三篇連續貢獻完全同 pattern — PR #579 紙傘 + #580 神豬（2026-04-21 α polish）+ #581 吉祥物（2026-04-21 β polish）。每次 polish 都跑 Python regex 20 行 batch-append footnote descriptions + 手加兩個 heading。第 3 次驗證 pattern 穩定存在。
+- **可能層級**：操作規則 → MAINTAINER-PIPELINE §PR merge-first-polish 新增「AI-gen 貢獻 format 自動化修補」步驟，可能含 `scripts/tools/polish-external-ai-contribution.sh`（auto-detect missing 延伸閱讀/參考資料 + footnote 無 desc 並 prompt 維護者補）。或 PR template 升級 pre-submit checklist 引導 AI-gen 貢獻者自補。
+- **相關**：2026-04-21 α LESSONS-INBOX「AI-gen 貢獻的事實幻覺 pattern」同一系列 / DNA #15 反覆浮現要儀器化第 11 次驗證 / MEMORY feedback_merge_first_then_polish 連動
+
+### 2026-04-21 β — 人物 cross-link 的血緣連接不能硬造，只能靠研究誠實度換來
+
+- **原則**：寫一個人物條目時，跟其他條目的 cross-link（延伸閱讀）有兩種產生方式：**(a) 硬拉**（為了文章之間相連而編造連接，「同樣是獨立音樂人」這種模糊分類）vs **(b) 血緣**（真實存在的歷史關聯，例如紀柏豪 2014 曾是 Hello Nico 合成器手）。**硬拉的 cross-link 等於策展偷懶**——讀者點過去發現兩篇其實沒什麼具體關聯；**血緣的 cross-link 才是 Meta-Index 策略的實現**。血緣只能靠 Stage 1 研究深度換來：研究不夠深 → 抓不到 Hello Nico 樂團頁面紀柏豪的名字 → 這條血緣永遠缺席，兩篇文章各自孤立。這延伸了 MANIFESTO §Meta-Index「把被長期忽視的邊界畫在同一張地圖」——**地圖上的連線不是編輯決定畫哪條，是研究誠實度決定能發現哪條**。
+- **觸發**：2026-04-21 β 寫紀柏豪時，Stage 1 general-purpose agent 25 WebSearch 其中一次拉到 StreetVoice Hello Nico 樂團頁面，紀柏豪列為合成器手。這個事實讓紀柏豪.md 和 Hello-Nico.md（昨天 α 剛寫）之間出現了真血緣連接，雙向延伸閱讀回補變成「讀者必然想知道下一條線」而不是「編輯隨便拉的」。如果研究只做 8 次搜尋（舊 RESEARCH 標準），這條線很可能被遺漏。
+- **可能層級**：特有教訓 → MEMORY §神經迴路「cross-link 的血緣連接」新反射；或 REWRITE-PIPELINE Stage 5 §cross-link 新增「必優先找血緣連接，硬拉分類降為後備」。
+- **相關**：MANIFESTO §Meta-Index 附錄「把被長期忽視的邊界畫在同一張地圖」的具體實作示範 / RESEARCH.md §搜尋深度 20+ 硬規則（v2.17 升級）的價值體現
+
 ### 2026-04-21 α — 外部貢獻 AI-gen 文章的標準幻覺 pattern：偽造 verbatim quote（紙傘 polish 事件）
 
 - **原則**：外部貢獻者提交的 AI-generated（Manus AI / ChatGPT / Gemini）文章，會有**穩定且高頻的幻覺 pattern**：(1) 偽造 verbatim 引言並歸屬給真實人物 (2) 編造有名有姓的紀錄片 / 雜誌 / 事件名稱讓段落看起來有 texture。這兩個 pattern 在 MANIFESTO #10 四種幻覺分類的「偽造直接引語」外，還疊加了「footnote 合理化」—— AI 會在幻覺 quote 後掛一個**真實存在的 source URL**，這個 source URL 本身不錯，但**它並不包含那句 quote**。這是 footnote/claim 的**錯配偽證**（false positive citation）。只看 URL 是否 resolve 會 false pass，**必須 WebFetch 抓原文 + verbatim 搜尋**才能抓到。
