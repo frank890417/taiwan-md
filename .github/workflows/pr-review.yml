@@ -22,7 +22,14 @@ jobs:
       - name: Get changed files
         id: files
         run: |
-          FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+          # Use 3-dot (merge-base) diff + --diff-filter=ACMR to get only files
+          # actually added/modified/copied/renamed BY the PR — not files that
+          # disappeared because main moved ahead while the PR branch stayed put.
+          # Bug history: 2026-04-21 PR #582 (code-only i18n refactor) failed
+          # content review because main had just gained Hello-Nico.md, which
+          # 2-dot diff reported as "deleted in PR head". See:
+          # https://github.com/frank890417/taiwan-md/actions/runs/24703099747
+          FILES=$(git diff --name-only --diff-filter=ACMR ${{ github.event.pull_request.base.sha }}...${{ github.event.pull_request.head.sha }})
           echo "all_files<<EOF" >> $GITHUB_OUTPUT
           echo "$FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
@@ -64,8 +71,17 @@ jobs:
             echo "pr_type=engineering" >> $GITHUB_OUTPUT
           fi
 
-          # Content files only (for review script)
-          CONTENT_FILES=$(echo "$FILES" | grep -E '^(knowledge|src/content)/.*\.md$' || echo "")
+          # Content files only (for review script).
+          # Defensive: also filter out any files that don't actually exist in
+          # the checked-out HEAD (belt-and-suspenders against --diff-filter
+          # edge cases or base/head sha weirdness).
+          CONTENT_FILES=""
+          while IFS= read -r f; do
+            [[ -z "$f" ]] && continue
+            [[ "$f" =~ ^(knowledge|src/content)/.*\.md$ ]] || continue
+            [[ -f "$f" ]] || continue
+            CONTENT_FILES+="$f"$'\n'
+          done <<< "$FILES"
           echo "content_files<<EOF" >> $GITHUB_OUTPUT
           echo "$CONTENT_FILES" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
