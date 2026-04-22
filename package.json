@@ -24,6 +24,7 @@
     "astro": "astro",
     "format::check": "prettier --check .",
     "format::write": "prettier --write .",
+    "og:generate": "node scripts/core/generate-og-images.mjs",
     "prepare": "husky"
   },
   "dependencies": {

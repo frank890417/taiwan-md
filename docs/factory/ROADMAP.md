@@ -13,21 +13,19 @@
 
 ## 🔜 Phase 2：配圖自動化
 
-### 動態 OG Image
+### ✅ 動態 OG Image (已完成)
 
-目前每篇文章的 `og:image` 是固定的 `/images/taiwan-social.jpg`。
+每篇文章現在都有獨立的動態 OG image，分享連結時自動顯示。
 
-**目標**：每篇文章有獨立的動態 OG image，分享連結時自動顯示。
+- **解決方案**：Build time / Manual 預生成（採用 Playwright 截圖 `/og/[...path]` 頁面）。
+- **自動化**：已整合進 `scripts/core/generate-og-images.mjs`，支援增量生成與多語系過濾。
+- **SEO 整合**：`SEO.astro` 已自動連動產出的圖片路徑。
 
-**方案評估：**
-
-| 方案                     | 優點                                 | 缺點                                              | 適合度 |
-| ------------------------ | ------------------------------------ | ------------------------------------------------- | ------ |
-| **A. Build time 預生成** | 零 runtime 成本、GitHub Pages 直接用 | 加 build 時間（~400 張 PNG）、需 headless browser | ⭐⭐⭐ |
-| **B. Edge function**     | 即時渲染、永遠最新                   | 需要 Vercel/Cloudflare Workers、離開 GitHub Pages | ⭐⭐   |
-| **C. 定期批次截圖**      | 簡單、不動 CI/CD                     | 需要排程、新文章延遲                              | ⭐⭐   |
-
-**推薦路徑**：先用方案 C（cron 定期用 Playwright 截圖 `/og/*` 頁面），存到 `public/og-images/`。成熟後考慮方案 A 整合進 build。
+#### 使用方式：
+```bash
+npm run og:generate                    # 全量產圖
+node scripts/core/generate-og-images.mjs --lang ko --category food # 指定過濾
+```
 
 **技術細節（方案 C）：**
 

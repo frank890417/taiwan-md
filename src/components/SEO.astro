@@ -19,6 +19,8 @@ interface Props {
   content?: string;
   tags?: string[];
   category?: string;
+  slug?: string;
+  categorySlug?: string;
 }
 
 const { lang = 'zh-TW' } = Astro.props;
@@ -35,11 +37,24 @@ const {
   content,
   tags,
   category,
+  slug,
+  categorySlug,
 } = Astro.props;
 
 const fullTitle = `${title} | Taiwan.md`;
 const siteUrl = 'https://taiwan.md';
-const fullImageUrl = new URL(image, siteUrl).href;
+
+let finalImage = image;
+if (type === 'article' && categorySlug && slug && image === '/images/taiwan-social.jpg') {
+  const isDefaultLang = lang === 'zh-TW';
+  if (isDefaultLang) {
+    finalImage = `/og-images/${categorySlug}/${encodeURIComponent(slug)}.png`;
+  } else {
+    finalImage = `/og-images/${lang}/${categorySlug}/${encodeURIComponent(slug)}.png`;
+  }
+}
+
+const fullImageUrl = new URL(finalImage, siteUrl).href;
 
 // Generate AI-friendly summary from description or content
 const aiSummary =

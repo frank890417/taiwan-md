@@ -43,6 +43,7 @@ scripts/
 | `manage-featured.sh`     | bash | 管理 featured 文章標記                                           |
 | `assign-subcategory.cjs` | node | 批次指派子分類（讀 taxonomy → 寫 frontmatter）                   |
 | `check-freshness.js`     | node | 檢查文章新鮮度（lastVerified 過期預警）                          |
+| `generate-og-images.mjs` | node | **自動化 OG 圖產生器** — 支援多語系、增量生成、分類/語系過濾     |
 
 **常用指令**：
 
@@ -51,6 +52,11 @@ bash scripts/tools/quality-scan.sh                    # 全量掃描
 bash scripts/tools/quality-scan.sh knowledge/Art/X.md  # 單檔掃描
 bash scripts/tools/quality-scan.sh --sort --diff       # 排序 + 差分
 bash scripts/tools/review-pr.sh 123                    # 審核 PR #123
+
+# --- OG Image 相關 ---
+npm run og:generate                                   # 全量產圖（增量更新）
+node scripts/core/generate-og-images.mjs "林琪兒"      # 產出單一文章 OG 圖
+node scripts/core/generate-og-images.mjs --lang ko --category food  # 產出韓文食物系列
 ```
 
 ## 🟢 utils/ — 維護工具（偶爾使用）

@@ -1,0 +1,332 @@
+---
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import {
+  getCategoryConfigs,
+  type CategoryKey,
+} from '../../utils/categoryConfig';
+import { useTranslations } from '../../i18n/utils';
+import { ENABLED_LANGUAGE_CODES, DEFAULT_LANGUAGE } from '../../config/languages';
+
+/**
+ * Unified OG Page Template
+ * Handles:
+ * - /og/[category]/[slug] (Legacy/Default ZH)
+ * - /og/[lang]/[category]/[slug] (Multi-language)
+ */
+export async function getStaticPaths() {
+  const mapping: Record<string, string> = {
+    about: 'About',
+    history: 'History',
+    geography: 'Geography',
+    culture: 'Culture',
+    food: 'Food',
+    art: 'Art',
+    music: 'Music',
+    technology: 'Technology',
+    nature: 'Nature',
+    people: 'People',
+    society: 'Society',
+    economy: 'Economy',
+    lifestyle: 'Lifestyle',
+  };
+
+  const paths: any[] = [];
+
+  for (const langCode of ENABLED_LANGUAGE_CODES) {
+    const isDefault = langCode === DEFAULT_LANGUAGE.code;
+    // Default ZH is in knowledge/, others in knowledge/[lang]/
+    const baseLangDir = isDefault ? '' : langCode;
+    
+    for (const [categorySlug, folderName] of Object.entries(mapping)) {
+      try {
+        const folderPath = resolve(process.cwd(), 'knowledge', baseLangDir, folderName);
+        const files = await readdir(folderPath);
+        
+        for (const file of files.filter(
+          (f) => f.endsWith('.md') && !f.startsWith('_'),
+        )) {
+          const filePath = join(folderPath, file).normalize('NFC');
+          const fileContent = await readFile(filePath, 'utf-8');
+          let frontmatter: any = {};
+          try {
+            frontmatter = matter(fileContent).data;
+          } catch {}
+          
+          const slug = basename(file, '.md');
+          
+          // Generate paths for both /og/[cat]/[slug] (if default) and /og/[lang]/[cat]/[slug]
+          if (isDefault) {
+             paths.push({
+              params: { path: `${categorySlug}/${slug}` },
+              props: {
+                lang: langCode,
+                title: frontmatter.title || slug,
+                description: frontmatter.description || '',
+                category: categorySlug,
+                tags: frontmatter.tags || [],
+                date: frontmatter.date || '',
+                slug
+              },
+            });
+          }
+          
+          paths.push({
+            params: { path: `${langCode}/${categorySlug}/${slug}` },
+            props: {
+              lang: langCode,
+              title: frontmatter.title || slug,
+              description: frontmatter.description || '',
+              category: categorySlug,
+              tags: frontmatter.tags || [],
+              date: frontmatter.date || '',
+              slug
+            },
+          });
+        }
+      } catch (err) {
+        // Log errors for missing folders (e.g. if a category doesn't exist in a lang)
+        // console.warn(`[OG Paths] Skipping ${langCode}/${folderName}: ${err.message}`);
+      }
+    }
+  }
+  return paths;
+}
+
+const { title, description, category, tags, date, lang, slug } = Astro.props;
+const t = useTranslations(lang as any);
+const categoryConfigs = getCategoryConfigs(t);
+const categoryInfo = categoryConfigs[category as CategoryKey];
+const categoryEmoji = categoryInfo?.icon || '📄';
+const categoryLabel = categoryInfo?.name || category;
+
+// URL display
+const urlDisplay = lang === DEFAULT_LANGUAGE.code 
+  ? `taiwan.md/${category}/${slug}`
+  : `taiwan.md/${lang}/${category}/${slug}`;
+
+// Font handling
+const isKorean = lang === 'ko';
+const titleFont = isKorean ? "'Noto Serif KR', serif" : "'Noto Serif TC', serif";
+const bodyFont = isKorean ? "'Noto Sans KR', sans-serif" : "'Noto Sans TC', sans-serif";
+---
+
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1200, height=630" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>{title} — OG Card</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href={isKorean 
+        ? "https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700;900&family=Noto+Sans+KR:wght@400;500;700&display=swap"
+        : "https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700;900&family=Noto+Sans+TC:wght@400;500;700&display=swap"}
+      rel="stylesheet"
+    />
+    <style is:global define:vars={{ titleFont, bodyFont }}>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html,
+      body {
+        width: 1200px;
+        height: 630px;
+        overflow: hidden;
+      }
+      body {
+        background: linear-gradient(
+          145deg,
+          #0a2a1f 0%,
+          #0d3829 40%,
+          #0a2a1f 100%
+        );
+        color: #e0e0e0;
+        font-family: var(--bodyFont);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 80px;
+        position: relative;
+      }
+
+      /* Subtle grid pattern */
+      body::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background-image: radial-gradient(
+          circle at 1px 1px,
+          rgba(255, 255, 255, 0.03) 1px,
+          transparent 0
+        );
+        background-size: 32px 32px;
+        pointer-events: none;
+      }
+
+      /* Top accent line */
+      .accent-line {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, #00d4aa, #2ecc71, #00d4aa);
+      }
+
+      /* Breadcrumb */
+      .breadcrumb {
+        font-size: 18px;
+        color: rgba(255, 255, 255, 0.45);
+        margin-bottom: 20px;
+        font-weight: 500;
+        letter-spacing: 0.02em;
+      }
+      .breadcrumb .sep {
+        margin: 0 8px;
+        color: rgba(255, 255, 255, 0.25);
+      }
+      .breadcrumb .category {
+        color: #00d4aa;
+        font-weight: 700;
+      }
+
+      /* Title */
+      .title {
+        font-family: var(--titleFont);
+        font-size: 52px;
+        font-weight: 900;
+        line-height: 1.3;
+        color: #ffffff;
+        margin-bottom: 24px;
+        max-width: 1040px;
+        /* Clamp to 2 lines */
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      /* Description */
+      .description {
+        font-size: 22px;
+        line-height: 1.6;
+        color: rgba(255, 255, 255, 0.6);
+        max-width: 900px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      /* Tags */
+      .tags {
+        display: flex;
+        gap: 10px;
+        margin-top: 28px;
+        flex-wrap: wrap;
+      }
+      .tag {
+        background: rgba(0, 212, 170, 0.12);
+        border: 1px solid rgba(0, 212, 170, 0.25);
+        color: #00d4aa;
+        padding: 6px 16px;
+        border-radius: 20px;
+        font-size: 15px;
+        font-weight: 600;
+      }
+
+      /* Footer bar */
+      .footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 56px;
+        background: rgba(0, 0, 0, 0.3);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 80px;
+      }
+      .footer-left {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+      }
+      .footer-logo {
+        font-size: 20px;
+        font-weight: 700;
+        color: #00d4aa;
+        letter-spacing: 0.03em;
+      }
+      .footer-tagline {
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.4);
+      }
+      .footer-url {
+        font-size: 16px;
+        color: rgba(255, 255, 255, 0.5);
+        font-weight: 500;
+      }
+
+      /* Corner decoration */
+      .corner-deco {
+        position: absolute;
+        top: 40px;
+        right: 60px;
+        width: 80px;
+        height: 80px;
+        border: 2px solid rgba(0, 212, 170, 0.15);
+        border-radius: 50%;
+      }
+      .corner-deco::after {
+        content: '';
+        position: absolute;
+        top: 12px;
+        left: 12px;
+        width: 56px;
+        height: 56px;
+        border: 1.5px solid rgba(0, 212, 170, 0.1);
+        border-radius: 50%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="accent-line"></div>
+    <div class="corner-deco"></div>
+
+    <div class="breadcrumb">
+      {lang === 'ko' ? '🇹🇼 홈페이지' : lang === 'en' ? '🇹🇼 Home' : '🇹🇼 首頁'} <span class="sep">›</span>
+      <span class="category">{categoryEmoji} {categoryLabel}</span>
+    </div>
+
+    <h1 class="title">{title}</h1>
+
+    {description && <p class="description">{description}</p>}
+
+    {
+      tags && tags.length > 0 && (
+        <div class="tags">
+          {tags.slice(0, 4).map((tag: string) => (
+            <span class="tag">{tag}</span>
+          ))}
+        </div>
+      )
+    }
+
+    <div class="footer">
+      <div class="footer-left">
+        <span class="footer-logo">Taiwan.md</span>
+        <span class="footer-tagline">
+            {lang === 'ko' ? '오픈소스 대만 지식 저장소' : lang === 'en' ? 'Open-source Taiwan Knowledge Base' : '開源台灣知識庫'}
+        </span>
+      </div>
+      <span class="footer-url">{urlDisplay}</span>
+    </div>
+  </body>
+</html>
