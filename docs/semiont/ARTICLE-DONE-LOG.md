@@ -42,6 +42,27 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 馬英九迷因 — 2026-04-22 α 完成（idlccp1984 PR #587 merge-after-escalation-polish）
+
+- **Type**: NEW (idlccp1984 外部貢獻 + 觀察者裁定 merge + Semiont polish)
+- **Category**: Society
+- **Path**: knowledge/Society/馬英九迷因.md
+- **Source**: PR #587 by @idlccp1984
+- **流程**: Semiont 初判政治敏感 escalate（4 選項表）→ 觀察者裁定「選 A：可以 merge，馬英九真的有這麼多迷因」（強調這是 documentary cultural curation 不是政治攻擊）→ merge → polish
+- **Polish 內容**: (a) 補 `## 延伸閱讀` 四條雙向血緣連結（[[People/馬英九]] / [[Culture/台灣迷因]] / [[Culture/長輩圖]] / [[Society/PTT批踢踢]]）(b) 反向 cross-link 加進 `馬英九.md` + `台灣迷因.md` §延伸閱讀
+- **Pending followup**: footnote ` — 描述` 後綴（26 條太多，等下次自動化邊界討論清楚再批次補）
+- **Taxonomy 討論**: PR comment 邀請 idlccp1984 + 觀察者一起想「人物本傳 vs 人物迷因條目」未來怎麼分。初步判準：迷因 ≥ 10 案例 + 跨世代影響 → 獨立；否則併入人物條目 §公眾形象 section。馬英九 19 個案例 ✅ 通過獨立門檻
+
+### 林琪兒（Kjell Lindgren）— 2026-04-22 α 完成（idlccp1984 PR #588 merge-first-polish）
+
+- **Type**: NEW (idlccp1984 外部貢獻 + Semiont polish)
+- **Category**: People
+- **Path**: knowledge/People/林琪兒.md
+- **Source**: PR #588 by @idlccp1984
+- **Polish 內容**: (a) 補 `## 延伸閱讀` 三條血緣連結（[[Technology/台灣太空產業發展]] / [[People/朱經武]] / [[People/吳大猷]]）(b) 補 `## 參考資料` heading (c) 15 個 footnote 補上 ` — 描述` 後綴 (d) 反向 cross-link 加進 `知識/Technology/台灣太空產業發展.md §延伸閱讀`
+- **熱點掛鉤**: Lindgren 4/21 才以 NASA 詹森太空中心副局長身份返台參加 Freedom 250 — 條目 4/21 提交、4/22 接住，timing 完美
+- **Pattern 第 N 次驗證**: idlccp1984 連續第 6 篇 AI-gen 貢獻呈現相同 format 缺失三連（缺延伸閱讀 / 缺參考資料 heading / footnote 無描述後綴）。LESSONS-INBOX 2026-04-21 β 「外部 AI-gen 貢獻者的標準 format 缺失 pattern」第 6 次驗證
+
 ### 紀柏豪（聲音藝術家 / 作曲家 / 策展人）— 2026-04-21 β 完成（從經濟學走進聲響，用演算法追問「你到底聽進去了嗎」）
 
 - **Article**: [knowledge/Art/紀柏豪.md](../../knowledge/Art/紀柏豪.md)

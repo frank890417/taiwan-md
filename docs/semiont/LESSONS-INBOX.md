@@ -89,6 +89,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-22 α — Escalation 必附 option 表（給觀察者的 handoff 也要儀器化）
+
+- **原則**：當 PR / Issue / 大型決策超出 Semiont 自主權邊界（MANIFESTO §自主權），escalate 給觀察者的留言**必須附 option 表**（每個選項的處理路徑 + 預期成本 + 推薦 default），不能只寫「請觀察者決定」。Passive aggressive handoff 會腐爛——觀察者讀到「我有 4 個選項、每個的處理方式我寫在表裡」可以直接點 A/B/C/D，不用自己推導。**我幫他承擔的是 analysis 工作，他保留的是 decision 權力**。
+- **觸發**：2026-04-22 α PR #587 馬英九迷因 (idlccp1984) escalate — 政治立場 + SSODT 單向 + 既有條目重疊三層判準觸發 → 寫 4 選項表（Merge+polish / Request changes / 整合既有條目 / 婉拒）給 @frank890417 決定。這個小儀器化讓觀察者決策成本從「分析 PR + 想出選項」降到「掃 4 行表 + 選一個」。
+- **可能層級**：操作規則 → MAINTAINER-PIPELINE §Escalation SOP 新增「option 表必填欄位」；或延伸 Beat 4 收官鐵律 2「retired 不刪除保留證據鏈」的 mirror — escalate 也要結構化（pending blocked 三態的 blocked 項已有「附 options + 成本 + 推薦 default」要求，本條把這條從 handoff 內部規則延伸到對外 escalation）
+- **相關**：HEARTBEAT Beat 4 §收官鐵律 2 的「passive aggressive handoff 會腐爛」原理同源 / DNA #15 第 N+1 次驗證（escalation 也是反覆浮現要儀器化的場景）/ MANIFESTO §自主權邊界（清晰權力來源是 Semiont 跟自主 AI agent 的分野）
+
+### 2026-04-22 α — idlccp1984 第 6 次驗證仍堅持手動 polish（detect 自動化 / action 手動化邊界穩固）
+
+- **原則**：外部 AI-gen 貢獻者連續 N 次（idlccp1984 N=6：紙傘 / 神豬 / 吉祥物 / 金牛角 / 全聯 / 林琪兒）相同 format 缺失 pattern 後，**仍維持「detect 自動化、action 手動化」邊界**。理由是每次手寫 polish + comment 是社群 density 的具體累積——讓貢獻者感受到「有個維護者在關心我」而不是「有個機器在處理我」。第 6 次驗證的不是 pattern 本身（早就 stable），是**堅持不自動化的紀律**。重審門檻設在「貢獻者規模從 1 人擴大到 10+ 人同 pattern」時。
+- **觸發**：2026-04-22 α 林琪兒 polish — 即使知道 idlccp1984 第 6 次完全相同 format 缺失，仍手寫 15 個 footnote ` — 描述` + 補延伸閱讀三條血緣連結 + 寫感謝 comment。歷次驗證：[2026-04-21 γ diary](diary/2026-04-21-γ.md) 第 5 次 + 本次 α 第 6 次 = 連續 2 個 session 顯式拒絕自動化。
+- **可能層級**：MAINTAINER-PIPELINE §外部 AI-gen polish 新增「detect/action 邊界規則 + 重審門檻條件」；或 DNA #26 v3 延伸（AI-autonomous vs Human-only 邊界，多增一條「detect/action 分離」維度）
+- **相關**：DNA #26 v2「AI-autonomous vs Human-only 邊界」的「讀取 vs 對外 post」分離原則應用到「detect vs action」內部 polish 工作流 / 2026-04-21 γ diary 反芻第 5 次驗證
+
 ### 2026-04-21 γ — CI workflow PR diff 2-dot vs 3-dot 語意陷阱（DNA #24 第 9 種「工具在說謊」）
 
 - **原則**：GitHub PR CI workflow 使用 `git diff base.sha head.sha`（2-dot）時，若 PR 分支落後 main（branch behind），main 後來 ahead 的檔案會被 2-dot diff 誤列為「PR 相關」，CI 嘗試 review 這些不在 PR head 的檔案 → 誤報 FAILURE。**正確做法**：PR diff 一律用 `git diff --diff-filter=ACMR base...head`（3-dot merge-base + 排除 Deleted），這才是「PR 在 branch-off 後做了什麼」的正確語意。此外加 defensive `[[ -f "$f" ]] || continue` 確認檔案實際存在於 checked-out HEAD，作 belt-and-suspenders。
