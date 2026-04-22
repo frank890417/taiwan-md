@@ -17,6 +17,8 @@ interface Props {
   content?: string;
   tags?: string[];
   category?: string;
+  slug?: string;
+  categorySlug?: string;
   noindex?: boolean;
 }
 
@@ -33,6 +35,8 @@ const {
   content,
   tags,
   category,
+  slug,
+  categorySlug: propCategorySlug,
   noindex,
 } = Astro.props;
 
@@ -104,6 +108,8 @@ const jfClass = [
       content={content}
       tags={tags}
       category={category}
+      slug={slug}
+      categorySlug={propCategorySlug}
     />
     <script
       is:inline
