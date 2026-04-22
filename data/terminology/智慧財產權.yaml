@@ -2,21 +2,17 @@ id: 智慧財產權
 category: daily
 subcategory: 日常生活
 fork_type: B
-
 display:
   taiwan: 智慧財產權
   china: 知識產權
-
 etymology:
-  origin: ""
+  origin: ''
   taiwan_path: 台灣用法
   china_path: 中國用法
-  fork_point: ""
-
-notes: ""
-
+  fork_point: ''
+notes: ''
 sources:
-  - "ThunderKO C2T / 《大陸用語檢索手冊》1997"
-
-added: "2026-03-30"
-updated: "2026-03-30"
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
+  - fanhuaji-config
+added: '2026-03-30'
+updated: '2026-03-30'

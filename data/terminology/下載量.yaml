@@ -1,0 +1,12 @@
+id: 下載量
+category: daily
+fork_type: E
+display:
+  taiwan: 下載次數
+  china: 下載量
+etymology:
+  origin: 指軟體或檔案被下載的次數，台灣較常說下載次數。
+notes: ''
+sources:
+  - manual
+added: 2026-04-21

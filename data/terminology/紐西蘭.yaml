@@ -16,11 +16,12 @@ etymology:
 usage:
   taiwan_formal: true
   taiwan_casual: true
-  exceptions: ""
+  exceptions: ''
 status: stable
 notes: 「紐西蘭」vs「新西蘭」是兩岸國名翻譯分歧的典型範例。台灣外交部文件、媒體均用「紐西蘭」。
 sources:
   - 《大陸用語檢索手冊》（1997）
   - 台灣外交部：駐紐西蘭台北經濟文化辦事處
+  - fanhuaji-config
 added: 2026-03-29
 updated: 2026-03-29

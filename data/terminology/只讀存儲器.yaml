@@ -1,15 +1,12 @@
 id: 只讀存儲器
 category: technology
 fork_type: semantic
-
 display:
   taiwan: 唯讀記憶體
   china: 只讀存儲器
-
 notes: ''
-
 sources:
-  - 'fanhuaji-config'
-
+  - fanhuaji-config
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-31'
 updated: '2026-03-31'

@@ -20,6 +20,7 @@
 | **terminology-audit.py**      | 用語規範掃描（兩岸差異詞）                                                  | 手動                   |                                                                  |
 | **terminology-clean.py**      | 用語規範修復                                                                | 手動                   | terminology-audit 的配對                                         |
 | **terminology-fix.py**        | 用語規範批次修復                                                            | 手動                   | 跟 terminology-clean 差異待確認 ⚠️                               |
+| **terminology-dedup.py**      | 跨來源全域去重：找出 (taiwan, china) 配對完全相同的重複條目，不論來源       | 手動                   | `--fix` 自動合併重複；新來源批量匯入後應執行                     |
 | **check-freshness.js**        | 文章新鮮度（lastVerified 時效）                                             | 手動                   |                                                                  |
 | **generate-content-stats.js** | 內容統計（字數、分類分布）                                                  | Dashboard + cron       |                                                                  |
 | **update-stats.sh**           | 更新統計數據                                                                | cron                   |                                                                  |

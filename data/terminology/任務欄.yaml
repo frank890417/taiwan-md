@@ -1,15 +1,12 @@
 id: 任務欄
 category: daily-life
 fork_type: semantic
-
 display:
   taiwan: 工作列
   china: 任務欄
-
 notes: ''
-
 sources:
-  - 'fanhuaji-config'
-
+  - fanhuaji-config
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-31'
 updated: '2026-03-31'

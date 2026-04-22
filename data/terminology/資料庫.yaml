@@ -2,32 +2,26 @@ id: database
 category: tech
 subcategory: 軟體與程式開發
 fork_type: B
-
 display:
   taiwan: 資料庫
   china: 數據庫
   hongkong: 資料庫
-
 english: database
-
 etymology:
   origin: database 的意譯。台灣「資料」（data as information）；中國「數據」（data as numerical data）
   taiwan_path: 台灣用「資料」對應 data，「資料庫」即儲存資料的倉庫
   china_path: 中國偏用「數據」對應 data（強調數字/量化），「數據庫」與「數據中心」一脈相承
-  fork_point: "~1980s"
+  fork_point: ~1980s
   fork_cause: '"資料" vs "數據" 的用語選擇分歧（見「資料/數據」詞對）'
-
 usage:
   taiwan_formal: true
   taiwan_casual: true
-  exceptions: ""
-
+  exceptions: ''
 status: stable
 notes: 這是「資料」vs「數據」分歧的延伸。台灣資訊業文件寫「資料庫管理系統（DBMS）」，中國寫「數據庫管理系統」。
-
 sources:
-  - "藍光濾波研究所 C2T 詞庫"
-  - "ThunderKO C2T 詞庫"
-
-added: "2026-03-29"
-updated: "2026-03-29"
+  - 藍光濾波研究所 C2T 詞庫
+  - ThunderKO C2T 詞庫
+  - fanhuaji-config
+added: '2026-03-29'
+updated: '2026-03-29'
