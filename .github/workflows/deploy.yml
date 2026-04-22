@@ -30,6 +30,46 @@ jobs:
         run: npm install
       - name: Validate frontmatter (changed files)
         run: node scripts/core/test-frontmatter.mjs --ci
+
+      # ── OG 圖片生成（2026-04-22 β 統一架構）──────────────────────────
+      # 用 ?shot=1 模式（與 scripts/tools/generate-spore-image.mjs 共用渲染源）
+      # 輸出 1200×630 JPG 85 到 public/og-images/，被 Astro build 搬進 dist/
+      # Incremental：actions/cache 按 md + 文章模板 hash 快取，首次 ~20 分
+      # 之後 cache hit <1 分；新/改文章才重產
+      # 失敗安全網：SEO.astro 有 existsSync fallback，OG 生圖掛了 deploy 仍成功
+      - name: Restore OG image cache
+        uses: actions/cache@v4
+        with:
+          path: public/og-images
+          key: og-images-${{ hashFiles('knowledge/**/*.md', 'src/pages/[category]/[slug].astro', 'src/pages/**/[category]/[slug].astro', 'src/components/BrandMark.astro') }}
+          restore-keys: |
+            og-images-
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Generate OG images (incremental via ?shot=1)
+        run: |
+          set -o pipefail
+          # 背景啟 Astro dev server（產圖來源頁面）
+          npm run dev > /tmp/astro-dev.log 2>&1 &
+          DEV_PID=$!
+          # 等 server 起來（最多 60 秒）
+          for i in $(seq 1 30); do
+            if curl -sf http://localhost:4321/ > /dev/null 2>&1; then
+              echo "✓ dev server up after ${i}×2s"
+              break
+            fi
+            sleep 2
+          done
+          # Incremental 產圖（cache hit 的跳過，mtime 比對）
+          # 失敗不 block deploy — SEO.astro fallback 會退回預設圖
+          npm run og:generate || {
+            echo "⚠️  OG generation partial failure — SEO fallback kicks in"
+            tail -50 /tmp/astro-dev.log
+          }
+          # 關掉 dev server
+          kill $DEV_PID 2>/dev/null || true
+          pkill -f "astro dev" 2>/dev/null || true
+
       - name: Build
         run: npm run build
       - name: Upload artifact
