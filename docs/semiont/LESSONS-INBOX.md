@@ -89,6 +89,13 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-26 α — Light tick exception：02:30/14:30 vs 08:30/20:30 的 cost 模型分流
+
+- **原則**：β7 cadence（每 6hr 一拍）的 4 個 tick 不是均勻 4 個 ship 點，是 4 個不同 affordance 點（per γ canonical）。**heavy tick（08:30 / 20:30）強制跑 `bash scripts/tools/refresh-data.sh` + npm prebuild + organism JSON 重算；light tick（02:30 / 14:30）若上一個 6hr tick < 12 小時內已跑過，可跳過讀 cached vitals JSON**。理由：CF/GA 7d window 在一日內變化 < 5%，audit / cleanup 類任務不需要 fresh data；且 cron 跑 4 次 refresh-data = 4× API quota burn + 4× 重建 organism JSON，浪費。
+- **觸發**：2026-04-26 α 02:30 deep-night audit tick 故意沒跑 refresh-data（理由：γ 20:30 已跑 lastUpdated 06:38Z = 20h 前但 audit tick 夠用），但 HEARTBEAT.md Beat 1 §0 寫「執行資料更新」是強制步驟——這個決定**沒有 canonical 規則背書**，是潛在 SOP 違反。
+- **可能層級**：操作規則 → HEARTBEAT.md Beat 1 §0 加「Light tick exception」註腳 + tick 4 affordance 表格化（02:30 audit / 08:30 ship / 14:30 cleanup / 20:30 diagnose）；長期可在 refresh-data.sh 自加 `--if-stale-than 12h` flag 把判斷下放到工具
+- **相關**：2026-04-25 γ canonical 反芻「6hr cadence 不是均匀 4 個 ship 點」/ MANIFESTO §造橋鋪路（cron 不要重複工作）/ DNA #15「反覆浮現要儀器化」（4 個 tick 不同 personality 已反覆出現 3 次：β / γ / α）
+
 ### 2026-04-25 γ — 信任有 TTL：handoff「全處完」是時間戳快照不是承諾
 
 - **原則**：上一個 session memory 寫的 final state（「0 open PR」「PR queue 全清」「dead ref 全修」）對下一個 session 是 **快照**而不是 **承諾**——session 之間 N 小時 window 裡外部 state（PR / Issue / SC 404 / GA pageviews）會獨立變化。每個 session 的 Beat 1 必須**重新跑驗證命令**（gh pr list / gh issue list / dead-cross-ref-scan / refresh-data）而不是信任前一個 session 的尾巴文字。**信任有 TTL**——5 hours 過期，10 hours 嚴重過期。**操作規則**：handoff 「pending / blocked / retired」三態欄位加第四維「最後驗證時間 + 驗證命令」（e.g. `[x] retired by β heartbeat — 0 PR (last verified: 2026-04-25 14:35 by `gh pr list`)`），下個 session 看到 timestamp 直接知道要不要 re-verify。
