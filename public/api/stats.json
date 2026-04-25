@@ -1,20 +1,20 @@
 {
-  "totalArticles": 2271,
+  "totalArticles": 2245,
   "totalCategories": 21,
-  "estimatedContributors": 152,
-  "totalTags": 5250,
+  "estimatedContributors": 150,
+  "totalTags": 5249,
   "categories": [
     {
       "name": "ko",
-      "count": 491
+      "count": 482
     },
     {
       "name": "Society",
-      "count": 43
+      "count": 44
     },
     {
       "name": "en",
-      "count": 420
+      "count": 411
     },
     {
       "name": "History",
@@ -22,15 +22,15 @@
     },
     {
       "name": "Culture",
-      "count": 50
+      "count": 51
     },
     {
       "name": "ja",
-      "count": 277
+      "count": 268
     },
     {
       "name": "People",
-      "count": 188
+      "count": 180
     },
     {
       "name": "Music",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Technology",
-      "count": 35
+      "count": 37
     },
     {
       "name": "Lifestyle",
@@ -50,15 +50,15 @@
     },
     {
       "name": "Art",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Food",
-      "count": 34
+      "count": 37
     },
     {
       "name": "Nature",
-      "count": 27
+      "count": 28
     },
     {
       "name": "Geography",
@@ -115,10 +115,6 @@
       "count": 27
     },
     {
-      "name": "台灣",
-      "count": 26
-    },
-    {
       "name": "経済",
       "count": 25
     },
@@ -136,19 +132,11 @@
     },
     {
       "name": "TSMC",
-      "count": 21
+      "count": 22
     },
     {
       "name": "AI",
       "count": 21
-    },
-    {
-      "name": "韓國",
-      "count": 21
-    },
-    {
-      "name": "流行人物",
-      "count": 20
     },
     {
       "name": "personnalité",
@@ -169,11 +157,23 @@
     {
       "name": "g0v",
       "count": 18
+    },
+    {
+      "name": "半導體",
+      "count": 17
+    },
+    {
+      "name": "台灣",
+      "count": 17
+    },
+    {
+      "name": "culture",
+      "count": 17
     }
   ],
   "languageDistribution": {
-    "zh-TW": 2271,
+    "zh-TW": 2245,
     "en": 0
   },
-  "lastUpdated": "2026-04-24T01:33:15.853Z"
+  "lastUpdated": "2026-04-25T01:20:11.964Z"
 }

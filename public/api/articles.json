@@ -846,7 +846,7 @@
       "地緣政治"
     ],
     "url": "https://taiwan.md/History/%E5%8F%B0%E6%B5%B7%E5%8D%B1%E6%A9%9F%E8%88%87%E5%85%A9%E5%B2%B8%E9%97%9C%E4%BF%82%E7%99%BC%E5%B1%95",
-    "readingTime": 23,
+    "readingTime": 24,
     "featured": false,
     "date": "2026-03-18",
     "path": "History/台海危機與兩岸關係發展.md"
@@ -4759,7 +4759,7 @@
     "category": "Nature",
     "tags": [],
     "url": "https://taiwan.md/Nature/%E5%8F%B0%E7%81%A3%E6%B0%A3%E5%80%99%E5%8D%B1%E6%A9%9F%E8%88%87%E6%B7%A8%E9%9B%B6%E8%BD%89%E5%9E%8B",
-    "readingTime": 25,
+    "readingTime": 27,
     "featured": true,
     "date": "2026-04-04",
     "path": "Nature/台灣氣候危機與淨零轉型.md"
@@ -5542,7 +5542,7 @@
     "category": "Culture",
     "tags": [],
     "url": "https://taiwan.md/Culture/%E5%8F%B0%E7%81%A3%E6%96%B0%E5%81%B6%E5%83%8F%E4%B8%96%E4%BB%A3",
-    "readingTime": 29,
+    "readingTime": 30,
     "featured": false,
     "date": "2026-04-23",
     "path": "Culture/台灣新偶像世代.md"
@@ -6090,6 +6090,24 @@
     "path": "Music/台灣獨立音樂.md"
   },
   {
+    "title": "台灣糕餅文化：當百年漢餅基因遇上現代甜點的「流心」革命",
+    "description": "從 1890 年的舊振南到 2026 年的漢餅 Gelato，台灣糕餅正經歷一場基因重組。這篇文章探討漢餅最核心的「油酥皮」工藝如何從喜慶大餅演化為流心酥與時尚甜點，讓傳統工藝在減糖與跨界中，重新定義台灣人的味覺記憶。",
+    "category": "Food",
+    "tags": [
+      "漢餅",
+      "傳統工藝",
+      "郭元益",
+      "舊振南",
+      "三統漢菓子",
+      "飲食文化"
+    ],
+    "url": "https://taiwan.md/Food/%E5%8F%B0%E7%81%A3%E7%B3%95%E9%A4%85%E6%96%87%E5%8C%96",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-04-24",
+    "path": "Food/台灣糕餅文化.md"
+  },
+  {
     "title": "台灣諧音禁忌文化：為什麼「四」讓整個社會跳過樓層？",
     "description": "從醫院沒有四樓到車牌8888天價標售，台灣人對諧音的敏感程度堪稱世界之最",
     "category": "Culture",
@@ -6593,25 +6611,6 @@
     "path": "People/白先勇.md"
   },
   {
-    "title": "白種元",
-    "description": "韓國飲食文化代表人物之一，因《黑白大廚》熱潮與台灣 7-ELEVEN 聯名，把韓系鮮食以「直輸醬料＋監製配方」帶進超商場景。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "白種元",
-      "韓國",
-      "黑白大廚",
-      "超商",
-      "美食家",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E7%99%BD%E7%A8%AE%E5%85%83",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/白種元.md"
-  },
-  {
     "title": "伍佰",
     "description": "台灣搖滾國寶，本土搖滾樂的代名詞，以《挪威的森林》等作品奠定搖滾地位",
     "category": "People",
@@ -6692,6 +6691,23 @@
     "path": "Lifestyle/吉祥物.md"
   },
   {
+    "title": "名間埔中茶：撐起台灣手搖飲八成江山的「無名英雄」",
+    "description": "2025 年名間焚化爐爭議，意外揭露台灣手搖飲 80% 基底茶源自南投名間。從清代「三埔中」美譽到 1975 年更名「松柏長青茶」，這座海拔僅 400 公尺的淺山，正因焚化爐選址陷入一場守護茶鄉生存權的激戰。",
+    "category": "Food",
+    "tags": [
+      "名間鄉",
+      "埔中茶",
+      "手搖飲",
+      "松柏長青茶",
+      "焚化爐抗爭"
+    ],
+    "url": "https://taiwan.md/Food/%E5%90%8D%E9%96%93%E5%9F%94%E4%B8%AD%E8%8C%B6",
+    "readingTime": 9,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "Food/名間埔中茶.md"
+  },
+  {
     "title": "在搖晃的島嶼上，他們蓋了一座能飛的塔",
     "description": "距離活動斷層僅 200 公尺，台灣人偏要在最不穩定的土地上建出世界最高樓——然後有個瘋子花 91 分鐘徒手爬了上去。",
     "category": "Geography",
@@ -6753,25 +6769,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ja/Technology/disaster-medical-system.md"
-  },
-  {
-    "title": "安成宰",
-    "description": "米其林三星主廚與《黑白大廚》評審，以台灣三星電子摺疊機系列大使身分亮相，把「頂級餐飲的判準語言」借接到 3C 品牌的精品敘事。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "安成宰",
-      "韓國",
-      "黑白大廚",
-      "米其林",
-      "三星",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E5%AE%89%E6%88%90%E5%AE%B0",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/安成宰.md"
   },
   {
     "title": "安芝儇",
@@ -7346,25 +7343,6 @@
     "path": "People/李洋.md"
   },
   {
-    "title": "李美英",
-    "description": "《黑白大廚》中備受討論的「學餐名家」，以台北君悅凱菲屋客座與韓國美食節檔期，把韓式學餐體驗帶進台灣五星自助餐場景。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "李美英",
-      "韓國",
-      "黑白大廚",
-      "餐飲",
-      "五星飯店",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E6%9D%8E%E7%BE%8E%E8%8B%B1",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/李美英.md"
-  },
-  {
     "title": "李珠珢",
     "description": "從「AI 女神」熱潮到全力在台發展，她的路徑改寫了韓籍啦啦隊在中職的留台想像。",
     "category": "People",
@@ -7532,26 +7510,6 @@
     "path": "ja/People/lee-yuan-tseh.md"
   },
   {
-    "title": "李駿",
-    "description": "韓籍主廚與餐飲顧問，以《黑白大廚》白湯匙身份受到關注；在台灣曾於寒舍艾美酒店探索廚房 doughroom 客座，連結韓綜熱度與五星自助餐體驗。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "李駿",
-      "Jun Lee",
-      "韓國",
-      "黑白大廚",
-      "餐飲",
-      "五星飯店",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E6%9D%8E%E9%A7%BF",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/李駿.md"
-  },
-  {
     "title": "杜奕瑾",
     "description": "用一台 486 電腦架起台灣最大論壇、在微軟帶領 Cortana 問世，然後放棄高薪回台做非營利 AI——PTT 創世神的三十年數位史",
     "category": "People",
@@ -7632,6 +7590,17 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ja/Culture/language-diversity.md"
+  },
+  {
+    "title": "赤燭遊戲：一張符咒擋不住的台灣故事",
+    "description": "2017 年，六個台灣人做了一款白色恐怖恐怖遊戲，首週登上 Steam 全球暢銷榜。2019 年，續作《還願》因為一張符咒被中國全面封殺，從 Steam 消失至今。2024 年，他們用一款道教龐克動作遊戲《九日》賣出 80 萬套，拿下 Sony 獨立遊戲大獎。赤燭的故事是：被封殺的人，用作品回來。",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://taiwan.md/Technology/%E8%B5%A4%E7%87%AD%E9%81%8A%E6%88%B2",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "Technology/赤燭遊戲.md"
   },
   {
     "title": "周子瑜",
@@ -8046,20 +8015,20 @@
     "path": "ja/People/lin-qiang.md"
   },
   {
-    "title": "林琪兒：從台北出生到登月計畫，那位在太空吹風笛的台裔醫師",
-    "description": "1973 年出生於台北的林琪兒（Kjell Lindgren），是首位在台灣出生的 NASA 太空人。他曾兩度登上國際太空站，累計停留 311 天，並在軌道上完成首批太空萵苣種植與手沖咖啡實驗。這位會理髮、吹風笛的外科醫師，正以「阿提米絲」計畫成員身份，帶領人類重返月球。",
+    "title": "林琪兒：從台北出生到近地軌道，那位在太空吹風笛的台裔醫師",
+    "description": "1973 年出生於台北的林琪兒（Kjell N. Lindgren），是首位台灣出生的 NASA 太空人。空軍官校大三那年一紙氣喘誤診讓他告別飛行員之路，11 年後重測推翻診斷，他從 3,565 人裡被選為 NASA 第 20 屆太空人 9 人之一，累計在軌道停留 312 天。2026 年 4 月他以「Freedom 250」返台，在總統府說：「我的 NASA 太空人生涯始於台灣。」",
     "category": "People",
     "tags": [
       "太空探索",
       "NASA",
       "台裔人物",
       "醫學",
-      "阿提米絲計畫"
+      "移民史"
     ],
     "url": "https://taiwan.md/People/%E6%9E%97%E7%90%AA%E5%85%92",
-    "readingTime": 14,
+    "readingTime": 34,
     "featured": false,
-    "date": "2026-04-21",
+    "date": "2026-04-24",
     "path": "People/林琪兒.md"
   },
   {
@@ -8207,25 +8176,6 @@
     "path": "Society/社會運動與公民參與.md"
   },
   {
-    "title": "金太星",
-    "description": "《黑白大廚》黑湯匙主廚，曾因手搖品牌十盛聯名在台掀起排隊熱潮；後續品牌爭議亦成為討論「流量餐飲」與食安溝通的公共案例。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "金太星",
-      "韓國",
-      "黑白大廚",
-      "餐飲",
-      "十盛",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E9%87%91%E5%A4%AA%E6%98%9F",
-    "readingTime": 5,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/金太星.md"
-  },
-  {
     "title": "金牛角：飛機上的意外與漢餅靈魂的台式可頌",
     "description": "三峽金牛角並非源自法國，而是一位漢餅師傅在飛機上與菲律賓麵包的意外邂逅，最終演變成撐起三峽嗅覺記憶的硬派點心。",
     "category": "Food",
@@ -8241,25 +8191,6 @@
     "featured": false,
     "date": "2026-04-21",
     "path": "Food/金牛角.md"
-  },
-  {
-    "title": "金度潤",
-    "description": "《黑白大廚》白湯匙與米其林背景主廚，來台擔任豆府集團廚藝賽評審並推出期間限定菜，串起韓綜熱度與台灣韓式連鎖餐飲的話題檔期。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "金度潤",
-      "韓國",
-      "黑白大廚",
-      "米其林",
-      "餐飲",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E9%87%91%E5%BA%A6%E6%BD%A4",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/金度潤.md"
   },
   {
     "title": "金針菇",
@@ -9269,7 +9200,7 @@
       "櫻花鉤吻鮭"
     ],
     "url": "https://taiwan.md/Nature/%E7%89%B9%E6%9C%89%E7%A8%AE",
-    "readingTime": 8,
+    "readingTime": 9,
     "featured": false,
     "date": "2026-03-17",
     "path": "Nature/特有種.md"
@@ -9525,25 +9456,6 @@
     "path": "Nature/國家公園.md"
   },
   {
-    "title": "崔鉉碩",
-    "description": "《黑白大廚》黑湯匙主廚「拿坡里美味黑手黨」，以台灣外送平台與百貨餐飲聯名，把韓式義大利麵的味型與社群梗帶進在地通路。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "崔鉉碩",
-      "韓國",
-      "黑白大廚",
-      "餐飲聯名",
-      "foodpanda",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E5%B4%94%E9%89%89%E7%A2%A9",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/崔鉉碩.md"
-  },
-  {
     "title": "康士坦的變化球：「樂團不是靠堅持，不好玩就散了」的十年",
     "description": "2013 年成立於台北的四人獨立樂團，團名結合希臘哲學家 Heraclitus 的「萬物皆流」與棒球投手的變化球。主唱 ARNY 是菲律賓出生、曾在滅火器打過貝斯的 20 年音樂人；鼓手小米罹患類風濕性關節炎至今拇指無法彎曲仍然打鼓；貝斯手金毛說「樂團不是靠堅持，不好玩就散了」。他們從 Legacy 兩人觀眾唱到 2023 年北流 5,000 人，中間沒有暴紅、沒有爆款單曲——只有十年的穩步進化。",
     "category": "People",
@@ -9689,6 +9601,24 @@
     "featured": false,
     "date": "2026-04-13",
     "path": "Music/張懸與安溥.md"
+  },
+  {
+    "title": "從無塵室看見奇蹟的法制化：台灣再生醫療雙法沿革從業人員告白",
+    "description": "2024 年 6 月 4 日，台灣《再生醫療法》與《再生醫療製劑條例》三讀通過，細胞治療從「特許嘗試」正式走進國家法規監管。本文由第一線細胞製備人員視角，剖析法規沿革、「附附款許可」的倫理攻防，以及 ISO 5 無塵室裡守護「救命藥」的真實重量。",
+    "category": "Society",
+    "tags": [
+      "再生醫療雙法",
+      "細胞製備",
+      "GTP",
+      "生技醫療",
+      "醫療人權",
+      "GMP"
+    ],
+    "url": "https://taiwan.md/Society/%E5%8F%B0%E7%81%A3%E5%86%8D%E7%94%9F%E9%86%AB%E7%99%82%E9%9B%99%E6%B3%95%E6%B2%BF%E9%9D%A9%E5%BE%9E%E6%A5%AD%E4%BA%BA%E5%93%A1%E5%91%8A%E7%99%BD",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-04-24",
+    "path": "Society/台灣再生醫療雙法沿革從業人員告白.md"
   },
   {
     "title": "教育制度與升學文化",
@@ -9966,12 +9896,32 @@
     "path": "People/許淑淨.md"
   },
   {
+    "title": "造山者：世紀的賭注 — 一部沒張忠謀的 TSMC 史詩，從新竹拍到普渡",
+    "description": "2025 年 6 月某個傍晚，84 歲的張忠謀夫婦自費買了兩張票走進信義威秀。電影裡沒有他正面受訪的鏡頭——他正在寫自傳下冊。蕭菊貞花五年訪了 80 多位前輩，從小欣欣豆漿店 1974 年那場早餐會報拍到 2025 年魏哲家進白宮，《造山者：世紀的賭注》（A Chip Odyssey）成為台灣紀錄片影史前五，2026 年走進普渡、威斯康辛、密西根三所 CHIPS Act 投資重鎮的大學講堂。",
+    "category": "Art",
+    "tags": [
+      "紀錄片",
+      "TSMC",
+      "半導體",
+      "蕭菊貞",
+      "CNEX",
+      "矽盾",
+      "蔣顯斌",
+      "陳添順"
+    ],
+    "url": "https://taiwan.md/Art/%E9%80%A0%E5%B1%B1%E8%80%85%E4%B8%96%E7%B4%80%E7%9A%84%E8%B3%AD%E6%B3%A8",
+    "readingTime": 24,
+    "featured": true,
+    "date": "2026-04-24",
+    "path": "Art/造山者世紀的賭注.md"
+  },
+  {
     "title": "連穎",
     "description": "2020 年，一個二十一歲的台中女孩在選秀舞台上對著潘瑋柏說：「我要讓所有人知道，一個女團該有的舞蹈水平。」六年後她出了 solo EP、粉絲在大稻埕集資辦生日舞台、三個國家同步投放應援廣告。她正在兌現那句話。",
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/%E9%80%A3%E7%A9%8E",
-    "readingTime": 22,
+    "readingTime": 23,
     "featured": false,
     "date": "2026-04-23",
     "path": "People/連穎.md"
@@ -10859,6 +10809,25 @@
     "path": "ja/Music/taiwan-pop-music.md"
   },
   {
+    "title": "黑白大廚在台灣：一檔 Netflix 韓綜，16 個月內接進 7 條消費產業的味覺壓力測試",
+    "description": "2024 年 9 月，Netflix《黑白大廚：料理階級大戰》首播當週就在台灣奪下收視冠軍。接下來 16 個月，節目裡 9 位韓國主廚透過聯名、客座、代言的方式，把觸角伸進台灣超商鮮食、手搖飲、速食連鎖、五星飯店自助餐、外送平台、連鎖韓食、甚至 Galaxy Z 摺疊機——七條幾乎互不相關的消費產業。其中金太星背書的手搖品牌「十盛」撐了 20 個月後於 2025-12-26 歇業，是台灣第一次對「韓綜主廚背書」做反向檢驗。",
+    "category": "Culture",
+    "tags": [
+      "黑白大廚",
+      "Netflix",
+      "韓綜",
+      "韓流",
+      "餐飲聯名",
+      "流行文化",
+      "台灣消費"
+    ],
+    "url": "https://taiwan.md/Culture/%E9%BB%91%E7%99%BD%E5%A4%A7%E5%BB%9A%E5%9C%A8%E5%8F%B0%E7%81%A3",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "Culture/黑白大廚在台灣.md"
+  },
+  {
     "title": "黑松汽水與沙士：從被嘲笑的「三流貨」到擊退可樂霸主的百年傳奇",
     "description": "這不是一瓶普通的碳酸飲料，而是一段台灣民族資本在日治統制與全球化浪潮中，如何靠著「17元資產」與「我的未來不是夢」活下來的生存史。",
     "category": "Food",
@@ -10952,26 +10921,6 @@
     "featured": false,
     "date": "2026-03-21",
     "path": "Culture/媽祖與大道公的傳說.md"
-  },
-  {
-    "title": "愛德華李",
-    "description": "韓裔美籍主廚，以《黑白大廚》與韓美混味路線受到矚目；在台灣與拉亞漢堡合作推出聯名餐，讓「節目同款」以速食價格帶進日常用餐場景。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "愛德華李",
-      "Edward Lee",
-      "韓國",
-      "美國",
-      "黑白大廚",
-      "餐飲聯名",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E6%84%9B%E5%BE%B7%E8%8F%AF%E6%9D%8E",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/愛德華李.md"
   },
   {
     "title": "戦後台湾文学——失語から多様な爆発へ",
@@ -11334,6 +11283,17 @@
     "path": "Economy/農業科技與精緻農業.md"
   },
   {
+    "title": "雷亞遊戲：音樂帝國的裂縫",
+    "description": "2012 年，六個台灣人湊了三千萬做了一款手機音樂遊戲《Cytus》，上架一個月登上 14 國排行榜第一。十年後，他們有了 Deemo、聚爆、萬象物語，也有了跳票、爭議、和一句 PTT 上的提問：「雷亞遊戲怎麼就默默從這市場消失了？」",
+    "category": "Technology",
+    "tags": [],
+    "url": "https://taiwan.md/Technology/%E9%9B%B7%E4%BA%9E%E9%81%8A%E6%88%B2",
+    "readingTime": 13,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "Technology/雷亞遊戲.md"
+  },
+  {
     "title": "嘉義火雞肉飯：一碗三十元的城市身分證",
     "description": "二戰後美軍把火雞帶進嘉義，一個叫林添壽的師傅把火雞肉切絲淋上滷汁蓋在白飯上。七十年後，這碗三十元的飯成了農糧署票選台灣十大招牌飯第一名。嘉義人可以為了「哪家最好吃」吵一整個過年，但有一件事他們不吵：火雞肉飯就是嘉義的。",
     "category": "Food",
@@ -11399,6 +11359,17 @@
     "featured": true,
     "date": "2026-04-12",
     "path": "History/福爾摩沙.md"
+  },
+  {
+    "title": "福爾摩沙鳥類學：一個英國副領事、201 個拉丁名字，和他沒踏進去的山",
+    "description": "1861 年，24 歲的史溫侯成為英國首任駐台副領事。五年後他離開時，留下一篇論文，讓世界第一次用拉丁文寫下台灣的鳥。但他的鳥類地圖，是一張從海岸線描出的地圖——中央山脈的空白裡，原住民已經用族語喊過這些鳥千年。",
+    "category": "Nature",
+    "tags": [],
+    "url": "https://taiwan.md/Nature/%E7%A6%8F%E7%88%BE%E6%91%A9%E6%B2%99%E9%B3%A5%E9%A1%9E%E5%AD%B8",
+    "readingTime": 37,
+    "featured": false,
+    "date": "2026-04-24",
+    "path": "Nature/福爾摩沙鳥類學.md"
   },
   {
     "title": "粽子",
@@ -11486,6 +11457,24 @@
     "path": "Culture/語言多樣性與母語文化.md"
   },
   {
+    "title": "趙自強：從蘭陵劇坊的啟蒙，到水果奶奶圍裙下的不投降靈魂",
+    "description": "1984年，趙自強因一則「全年免費」廣告加入蘭陵劇坊，開啟了跨足劇場、影視與兒童藝術的傳奇生涯。他以「水果奶奶」溫暖了無數孩子的童年，卻在現實中創辦「如果兒童劇團」負債千萬，在疫情與財務危機中展現「絕不投降」的硬骨氣。這是一位表演者用三十年歲月，為台灣兒童守護夢想的深刻實踐。",
+    "category": "People",
+    "tags": [
+      "趙自強",
+      "水果奶奶",
+      "如果兒童劇團",
+      "蘭陵劇坊",
+      "兒童藝術",
+      "台灣文化"
+    ],
+    "url": "https://taiwan.md/People/%E8%B6%99%E8%87%AA%E5%BC%B7",
+    "readingTime": 17,
+    "featured": false,
+    "date": "2026-04-25",
+    "path": "People/趙自強.md"
+  },
+  {
     "title": "遠東集團：從上海紡織廠到台灣最多元化商業帝國",
     "description": "87年前上海的一間小紡織廠，如何演變成跨越十大產業、資產逾3兆的台灣商業帝國？遠東集團的發展史，見證了台商從榮耀到政治風險的完整軌跡",
     "category": "Economy",
@@ -11537,6 +11526,24 @@
     "featured": false,
     "date": "2026-03-26",
     "path": "ja/Culture/guan-sheng-di-jun-belief.md"
+  },
+  {
+    "title": "鳳梨酥：從選舉招待點心到年產值 250 億的台灣「金磚」",
+    "description": "1945 年，台中顏新發餅舖將傳統龍鳳餅改良為小巧鳳梨酥。從 1970 年代外銷萎縮下的冬瓜餡轉型，到 2009 年微熱山丘重拾土鳳梨的酸甜本色，這塊小小的「金磚」八十年裡始終跟台灣農業命運交織，如今年產值已突破 250 億新台幣，成為外籍旅客心中最具代表性的台灣味。",
+    "category": "Food",
+    "tags": [
+      "鳳梨酥",
+      "台灣美食",
+      "伴手禮",
+      "農業轉型",
+      "微熱山丘",
+      "顏新發"
+    ],
+    "url": "https://taiwan.md/Food/%E9%B3%B3%E6%A2%A8%E9%85%A5",
+    "readingTime": 11,
+    "featured": false,
+    "date": "2026-04-24",
+    "path": "Food/鳳梨酥.md"
   },
   {
     "title": "齊柏林",
@@ -12017,24 +12024,6 @@
     "featured": true,
     "date": "2026-03-25",
     "path": "People/鄭南榕.md"
-  },
-  {
-    "title": "鄭智善",
-    "description": "《黑白大廚》白湯匙主廚「港點女王」，以台灣餐飲集團聯名與通路合作，把節目中的技藝與味型落地成可在台灣吃到的產品與餐席。",
-    "category": "People",
-    "tags": [
-      "流行人物",
-      "鄭智善",
-      "韓國",
-      "黑白大廚",
-      "餐飲聯名",
-      "台灣"
-    ],
-    "url": "https://taiwan.md/People/%E9%84%AD%E6%99%BA%E5%96%84",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "People/鄭智善.md"
   },
   {
     "title": "鄭麗文",
@@ -12947,17 +12936,6 @@
     "path": "en/People/ahn-ji-hyun.md"
   },
   {
-    "title": "Ahn Sung-jae",
-    "description": "Michelin three-star chef and *Culinary Class Wars* judge—as Samsung Taiwan’s Galaxy Z foldables ambassador, fine-dining judgment language meets premium consumer tech storytelling.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/ahn-sung-jae",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/ahn-sung-jae.md"
-  },
-  {
     "title": "AI in Taiwan's Daily Life — When Artificial Intelligence Moves Into Every Street Corner",
     "description": "Taiwanese people interact with AI dozens of times a day, but most have no idea they're talking to a machine",
     "category": "en",
@@ -13322,17 +13300,6 @@
     "featured": true,
     "date": "2026-03-21",
     "path": "fr/People/audrey-tang.md"
-  },
-  {
-    "title": "Baek Jong-won",
-    "description": "A leading voice in Korean food culture—*Culinary Class Wars* heat plus 7-ELEVEN Taiwan collabs brought Korean fresh food into convenience stores with imported sauces and supervised recipes.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/baek-jong-won",
-    "readingTime": 7,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/baek-jong-won.md"
   },
   {
     "title": "Bahamut : la plus grande communauté ACG de Taïwan",
@@ -14248,17 +14215,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/People/cho-yun-hsu-bridging-historian.md"
-  },
-  {
-    "title": "Choi Hyun-seok",
-    "description": "Black Spoon “Napoli Mafia” on *Culinary Class Wars*—foodpanda meal boxes and Breeze Nanshan pop-ups bring Korean-Italian flavor and meme energy into local channels.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/choi-hyun-seok",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/choi-hyun-seok.md"
   },
   {
     "title": "Chou Tzu-yu",
@@ -15193,17 +15149,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Society/education-system-and-admissions-culture.md"
-  },
-  {
-    "title": "Edward Lee",
-    "description": "Korean American chef known for *Culinary Class Wars* and Korean-American flavors—LAYA Burger collabs brought “show-same” meals to fast-food price points in Taiwan.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/edward-lee-chef",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/edward-lee-chef.md"
   },
   {
     "title": "Edward Yang : poète cinématographique de l''aliénation urbaine",
@@ -16649,7 +16594,7 @@
     "category": "People",
     "tags": [],
     "url": "https://taiwan.md/People/HUR-plus",
-    "readingTime": 30,
+    "readingTime": 32,
     "featured": false,
     "date": "2026-04-23",
     "path": "People/HUR-plus.md"
@@ -17148,28 +17093,6 @@
     "path": "fr/People/jonathan-lee.md"
   },
   {
-    "title": "Jun Lee",
-    "description": "Korean chef and consultant, White Spoon on *Culinary Class Wars*—guest chef at Le Méridien Taipei’s Explore Kitchen doughroom links variety heat to five-star buffet programming.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/jun-lee-chef",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/jun-lee-chef.md"
-  },
-  {
-    "title": "Jung Ji-sun",
-    "description": "White Spoon chef “Queen of Dim Sum” on *Culinary Class Wars*—Taiwan chain collaborations turn on-screen craft into food you can actually eat.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/jung-ji-sun",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/jung-ji-sun.md"
-  },
-  {
     "title": "Justice environnementale et conflits NIMBY à Taïwan",
     "description": "Une analyse de la répartition inégale des charges environnementales à Taïwan : des incinérateurs aux déchets nucléaires en passant par l'industrie pétrochimique, et les enjeux de justice sociale qui en découlent",
     "category": "fr",
@@ -17250,28 +17173,6 @@
     "featured": false,
     "date": "2026-03-22",
     "path": "en/People/kevin-lin-ultramarathon-desert-pioneer.md"
-  },
-  {
-    "title": "Kim Do-yoon",
-    "description": "White Spoon chef with Michelin background—finale judge for Tofu Group’s in-house contest and limited-time dishes linking *Culinary Class Wars* buzz to Korean chain dining in Taiwan.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/kim-do-yoon",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/kim-do-yoon.md"
-  },
-  {
-    "title": "Kim Tae-sung",
-    "description": "Black Spoon chef whose Ten Shang bubble-tea collab drove queues in Taiwan—later brand controversy became a public case study in “traffic dining” and food-safety communication.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/kim-tae-sung",
-    "readingTime": 7,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/kim-tae-sung.md"
   },
   {
     "title": "Kinmen-Matsu Guest House Contemporary Art Museum",
@@ -20616,17 +20517,6 @@
     "featured": false,
     "date": "2026-04-14",
     "path": "en/People/lee-ju-eun.md"
-  },
-  {
-    "title": "Lee Mi-young",
-    "description": "The “school-lunch master” from *Culinary Class Wars*—guest stints and Korean food festivals at Grand Hyatt Taipei’s Café bring the lunch-tray ritual into a five-star buffet setting.",
-    "category": "en",
-    "tags": [],
-    "url": "https://taiwan.md/en/People/lee-mi-young",
-    "readingTime": 6,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "en/People/lee-mi-young.md"
   },
   {
     "title": "Lee Teng-hui",
@@ -27504,44 +27394,6 @@
     "path": "ko/People/jin-enoki.md"
   },
   {
-    "title": "김도윤: 《흑백요리사》 백수저·미슐랭 배경 셰프",
-    "description": "대만에서 두부 그룹 요리 대회 결승 심사와 기간 한정 요리로 예능 열풍과 한식 체인 화제 기간을 잇는다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "김도윤",
-      "한국",
-      "흑백요리사",
-      "미슐랭",
-      "외식",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/kim-do-yoon",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/kim-do-yoon.md"
-  },
-  {
-    "title": "김태성: 《흑백요리사》 흑수저와 십성(十盛) 논쟁",
-    "description": "버블티 브랜드 협업으로 대만에서 줄을 만들었으나 이후 브랜드 논란은 ‘트래픽 외식’과 식품안전 소통의 공론 사례가 되었다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "김태성",
-      "한국",
-      "흑백요리사",
-      "외식",
-      "십성",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/kim-tae-sung",
-    "readingTime": 5,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/kim-tae-sung.md"
-  },
-  {
     "title": "남민정: 푸방에서 시즌을 넘겨 남은 한국 멤버",
     "description": "‘단기 열기’를 프로 치어로 ‘예측 가능한 출연’으로 바꾼다.",
     "category": "ko",
@@ -31319,25 +31171,6 @@
     "path": "ko/Food/roadside-banquet-culture.md"
   },
   {
-    "title": "백종원: 한국 음식 문화 아이콘과 대만 편의점 협업",
-    "description": "《흑백요리사》 열풍과 대만 세븐일레븐 협업으로 한식 델리를 ‘직수 소스+감수 레시피’로 편의점에 옮겼다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "백종원",
-      "한국",
-      "흑백요리사",
-      "편의점",
-      "미식가",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/baek-jong-won",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/baek-jong-won.md"
-  },
-  {
     "title": "변하율: CTBC 한국 치어의 시즌 넘는 기둥",
     "description": "명성 아래 감정 노동과 프로로서의 회복탄력을 보여 주는 사례.",
     "category": "ko",
@@ -31804,25 +31637,6 @@
     "path": "ko/Society/breakfast-shop-culture.md"
   },
   {
-    "title": "안성재: 미슐랭 셰프·《흑백요리사》 심사와 대만 삼성 앰배서더",
-    "description": "미슐랭 3스타 셰프이자 《흑백요리사》 심사. 대만 삼성전자 갤럭시 Z 폴더블 시리즈 앰배서더로 ‘최상급 요리 판단 어휘’를 3C 브랜드 프리미엄 서사에 연결했다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "안성재",
-      "한국",
-      "흑백요리사",
-      "미슐랭",
-      "삼성",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/ahn-sung-jae",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/ahn-sung-jae.md"
-  },
-  {
     "title": "안지현: 한국 프로 치어에서 가오슝 생활까지",
     "description": "대만 한국 치어의 길을 ‘날아다니는 공연’에서 ‘여기 살기’로 넓힌 인물.",
     "category": "ko",
@@ -31953,17 +31767,6 @@
     "featured": true,
     "date": "2026-03-18",
     "path": "ko/Culture/linguistic-diversity-and-mother-tongue.md"
-  },
-  {
-    "title": "에드워드 리: 한국계 미국 셰프와 라야버거 협업",
-    "description": "《흑백요리사》와 한·미 혼합 맛 노선으로 주목. 대만에서는 라야버거 협업으로 ‘프로그램 동일 맛’을 패스트푸드 가격대 일상 식사로 가져갔다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/People/edward-lee-chef",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/edward-lee-chef.md"
   },
   {
     "title": "에드워드 양 — 도시 소외의 영화 시인",
@@ -32567,25 +32370,6 @@
     "path": "ko/People/lee-mei-shu.md"
   },
   {
-    "title": "이미영: 《흑백요리사》 ‘급식 명가’",
-    "description": "타이페이 그랜드 하얏트 카페 게스트와 한국 미식 축제로 한식 급식 경험을 대만 5성 뷔페로 옮겼다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "이미영",
-      "한국",
-      "흑백요리사",
-      "외식",
-      "5성 호텔",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/lee-mi-young",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/lee-mi-young.md"
-  },
-  {
     "title": "이아영: 푸방 시스템의 ‘장기 체류형’ 한국 치어 대표",
     "description": "푸방 계열에서 높은 가시성을 장기적 안정성으로 바꾼 한국 치어 — 구장과 상업 콘텐츠의 이중 축으로 자리 잡았다.",
     "category": "ko",
@@ -32636,17 +32420,6 @@
     "featured": false,
     "date": "2026-04-14",
     "path": "ko/People/lee-ju-eun.md"
-  },
-  {
-    "title": "이준(Jun Lee): 《흑백요리사》 백수저와 대만 5성 뷔페",
-    "description": "한국인 셰프·외식 컨설턴트. 대만 한셰 아메 익스플로어 키친 doughroom 게스트로 한 예능 열기와 고급 뷔페를 잇는다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/People/jun-lee-chef",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/jun-lee-chef.md"
   },
   {
     "title": "이호정: 푸방 복귀와 높은 출석·인지도",
@@ -33049,24 +32822,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ko/People/cheng-chao-tsun.md"
-  },
-  {
-    "title": "정지선: 《흑백요리사》 백수저 ‘홍딤 여왕’",
-    "description": "대만 외식 그룹 협업과 유통 제휴로 프로그램 기예와 맛형을 제품과 식탁으로 옮겼다.",
-    "category": "ko",
-    "tags": [
-      "팝 문화",
-      "정지선",
-      "한국",
-      "흑백요리사",
-      "외식 협업",
-      "대만"
-    ],
-    "url": "https://taiwan.md/ko/People/jung-ji-sun",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/jung-ji-sun.md"
   },
   {
     "title": "젠리펑: 대만 AI 산업의 스승",
@@ -33596,17 +33351,6 @@
     "featured": false,
     "date": "2026-03-24",
     "path": "ko/Lifestyle/little-green-man.md"
-  },
-  {
-    "title": "최현석: 《흑백요리사》 흑수저 ‘나폴리 맛있는 마피아’",
-    "description": "대만 배달·백화점 외식 협업으로 한식 파스타 맛형과 SNS 밈을 현지 유통으로 가져갔다.",
-    "category": "ko",
-    "tags": [],
-    "url": "https://taiwan.md/ko/People/choi-hyun-seok",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ko/People/choi-hyun-seok.md"
   },
   {
     "title": "치메이실업(奇美實業): 쉬원룽의 아크릴 왕국과 박물관의 꿈",
@@ -34582,17 +34326,6 @@
     "path": "ja/People/ahn-ji-hyun.md"
   },
   {
-    "title": "アン・ソンジェ（安成宰）",
-    "description": "ミシュラン三つ星シェフと《黑白大廚》審査員。台湾三星電子のGalaxy Z折りたたみシリーズ大使として、「頂級飲食の判断語彙」を3Cブランドの精品物語へ接続。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/ahn-sung-jae",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/ahn-sung-jae.md"
-  },
-  {
     "title": "イ・アヨン（李雅英）",
     "description": "富邦系で「長期滞在型」の代表格として韓国チアの存在感を高め、球場と商業コンテンツの二本柱として高い認知度と安定性を両立させた人物。",
     "category": "ja",
@@ -34613,17 +34346,6 @@
     "featured": false,
     "date": "2026-04-14",
     "path": "ja/People/lee-ju-eun.md"
-  },
-  {
-    "title": "イ・ジュン（李駿／Jun Lee）",
-    "description": "韓籍シェフ・飲食顧問。『黑白大廚』白スプーンとして注目。台湾では寒舍艾美探索廚房 doughroom ゲストで、韓バラエティ熱と五つ星ビュッフェを接続。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/jun-lee-chef",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/jun-lee-chef.md"
   },
   {
     "title": "イ・ダヘ（李多慧）",
@@ -34648,17 +34370,6 @@
     "path": "ja/People/lee-ho-jung.md"
   },
   {
-    "title": "イ・ミヨン（李美英）",
-    "description": "《黑白大廚》で話題の「学食名家」。台北グランドハイアット凱菲屋ゲストと韓国美食節で、韓式学食体験を台湾五つ星ビュッフェへ。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/lee-mi-young",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/lee-mi-young.md"
-  },
-  {
     "title": "エイサー（Acer）— PC産業を変革した台湾発のグローバルブランド",
     "description": "桃園発のパソコンパイオニアが「マルチブランド・マルチチャネル」モデルを確立し、世界のPC産業に革命をもたらした軌跡",
     "category": "ja",
@@ -34674,17 +34385,6 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "ja/Economy/acer.md"
-  },
-  {
-    "title": "エドワード・リー（愛德華李）",
-    "description": "韓裔米籍シェフ。『黑白大廚』と韓米混味路線で注目。台湾ではラヤバーガーと共同で「番組同款」をファストフード価格帯の日常食へ。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/edward-lee-chef",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/edward-lee-chef.md"
   },
   {
     "title": "オードリー・タン（唐鳳）",
@@ -34723,36 +34423,6 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/Technology/east-asian-input-methods.md"
-  },
-  {
-    "title": "キム・テソン（金太星）",
-    "description": "《黑白大廚》黒スプーン。手搖ブランド十盛との共同で台湾に列熱を起こしたが、後のブランド論争は「トラフィック飲食」と食品安全コミュニケーションの公共事例にもなった。",
-    "category": "ja",
-    "tags": [
-      "ポップカルチャー",
-      "金太星",
-      "韓国",
-      "黑白大廚",
-      "飲食",
-      "十盛",
-      "台湾"
-    ],
-    "url": "https://taiwan.md/ja/People/kim-tae-sung",
-    "readingTime": 4,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/kim-tae-sung.md"
-  },
-  {
-    "title": "キム・ドユン（金度潤）",
-    "description": "《黑白大廚》白スプーンとミシュラン背景のシェフ。台湾で豆府グループ料理コンテスト決勝審査と期間限定料理で、韓バラエティ熱と韓式チェーンの話題檔をつないだ。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/kim-do-yoon",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/kim-do-yoon.md"
   },
   {
     "title": "クラシック音楽がゴミ収集車の曲になった日：台湾で起きた最もロマンティックな環境革命",
@@ -34803,17 +34473,6 @@
     "featured": true,
     "date": "2026-03-30",
     "path": "ja/Food/bubble-tea.md"
-  },
-  {
-    "title": "チェ・ヒョンソク（崔鉉碩）",
-    "description": "《黑白大廚》黒スプーン「ナポリ美味黑手党」。台湾デリバリーと百貨店飲食共同で、韓式パスタの味型とSNSネタを在地流通へ。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/choi-hyun-seok",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/choi-hyun-seok.md"
   },
   {
     "title": "チェン・スティーブ（陳士駿）",
@@ -34870,24 +34529,6 @@
     "featured": false,
     "date": "2026-03-27",
     "path": "ja/Culture/tchoukball.md"
-  },
-  {
-    "title": "チョン・ジソン（鄭智善）",
-    "description": "《黑白大廚》白スプーン「港點女王」。台湾飲食グループとの共同と流通協力で、番組の技と味型を台湾で食べられる商品と席へ。",
-    "category": "ja",
-    "tags": [
-      "ポップカルチャー",
-      "鄭智善",
-      "韓国",
-      "黑白大廚",
-      "飲食共同",
-      "台湾"
-    ],
-    "url": "https://taiwan.md/ja/People/jung-ji-sun",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/jung-ji-sun.md"
   },
   {
     "title": "デジタル身分証とデジタル政府",
@@ -34991,17 +34632,6 @@
     "featured": false,
     "date": "2026-04-14",
     "path": "ja/People/byun-ha-yul.md"
-  },
-  {
-    "title": "ペク・ジョンウォン（白種元）",
-    "description": "韓国飲食文化の代表の一人。『黑白大廚』ブームと台湾セブンイレブン共同で、韓系デリを「直輸ソース＋監修レシピ」としてコンビニへ。",
-    "category": "ja",
-    "tags": [],
-    "url": "https://taiwan.md/ja/People/baek-jong-won",
-    "readingTime": 3,
-    "featured": false,
-    "date": "2026-04-15",
-    "path": "ja/People/baek-jong-won.md"
   },
   {
     "title": "マッスル山山（肌肉山山）",
