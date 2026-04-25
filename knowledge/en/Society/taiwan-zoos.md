@@ -78,6 +78,8 @@ Xpark belongs to another era. Opened in 2020 beside Taoyuan's high-speed rail st
 
 Its signature is immersive staging: the Formosa tank, penguins and jellyfish walls. Its controversy also matters. Soon after opening, advocates and media questioned care conditions. Xpark asked whether an aquarium can live inside a retail district, and what light, sound and photo culture mean for animals.
 
+> **📍 Further reading:** For a species-by-species walkthrough of Xpark's penguins (Magellanic, Gentoo, rockhopper and others), see [Penguin Encyclopedia: Xpark Penguin Guide](https://penguin.penchan.co/guides/xpark/). This article does not repeat that guide; it places Xpark back on the Taiwan zoo map.
+
 Farglory Ocean Park in Hualien and Yehliu Ocean World in New Taipei belong to the older ocean-show line. Farglory opened in 2002 with dolphins, sea lions, rides and a hotel. Yehliu opened in 1981 and remains known for its ocean theater and aquarium.
 
 As of April 25, 2026, Farglory's dolphin show "Tiaolang Qiyuan" (跳浪奇緣) had ended on April 6, 2026. The operator said the space would become a dolphin care base. The ocean park remains; the old dolphin-show format is receding.
