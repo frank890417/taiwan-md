@@ -89,6 +89,102 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-26 β-r2 — ✅ distill 已完成 → MAINTAINER-PIPELINE §Footnote source authority audit
+
+- **原則**：外部 PR 接收層必須對 footnote 跑 4 項 source authority 檢查（URL 真實 / source 對應真實機構 / claim-citation 對應 / 直接引語含逐字原文）。pre-commit hook 只檢查格式不檢查 source authority，maintainer 必須補這層。「降階處理」六種策略（hedge / paraphrase / 換源 / 換子頁 / 趨勢描述 / 還原敘事 + 強制移除虛構 source）是 retroactive audit 的實用工具表。
+- **觸發**：2026-04-26 β-r2 處理 PR #634（邱繼弘）抓到 [^25] 引用「Taiwan.md 內部研究檔案」這種**虛構內部 source** — Manus AI 寫作填補空洞時編出 plausible 但根本不存在的引用。這是 PR 接收層第一次具體命中 MANIFESTO §10 幻覺鐵律。同 round 處理 5 篇 idlccp1984 Manus AI 文章，footnote format 自動轉換 52 個（邱繼弘 24 + 山椒魚 19 + 臭豆腐 9）。
+- **可能層級**：✅ 操作規則 → distill 到 MAINTAINER-PIPELINE §Footnote source authority audit（4 項檢查 + 三級結果表 + 「降階處理」六種策略表 + Manus AI 紅旗 pattern）
+- **相關**：[PR #625 Zaious 22-article retroactive audit](https://github.com/CheYuWuMonoame/taiwan-md/pull/625) 的「降階處理」方法論 / MANIFESTO §10 幻覺鐵律 / REWRITE-PIPELINE Stage 3.5/3.6（hard gate 版本，retroactive 用降階版）
+
+### 2026-04-26 β-r2 — ✅ distill 已完成 → MAINTAINER-PIPELINE §Manus AI / 大型 LLM contributor 紅旗 pattern
+
+- **原則**：Manus AI / 大型 LLM 工具產出的 PR 有 4 個可預測的紅旗 pattern（連發 ≥5 PR / footnote APA 格式 / 全文 §11 violations 5+/篇 / 末段罐頭結尾），maintainer 看到這些 pattern 預設 5-10 min/篇 polish 預算。未來可在 PR template 加 self-check 工具引用讓 contributor pre-ship 跑一輪。
+- **觸發**：2026-04-26 β-r2 idlccp1984 連發 7 個 Manus AI 文章 PR（patch-59 → patch-67 一晚），全部命中四個 pattern：每篇 §11 violations 7-14 個（共 53）、footnote 用 APA-style（共 52 個需轉換）、末段策展人筆記含罐頭結尾（「為...提供寶貴啟示」）。
+- **可能層級**：✅ 操作規則 → distill 到 MAINTAINER-PIPELINE §Footnote source authority audit 段尾「Manus AI / 大型 LLM contributor 紅旗 pattern」清單
+- **相關**：2026-04-21 β「外部 AI-gen 貢獻者的標準 format 缺失 pattern（idlccp1984 連三篇驗證）」第 3 次驗證 / DNA #15「反覆浮現要儀器化」第 N 次
+
+### 2026-04-26 β-r2 — Observer-trigger pattern：tick 內 auto + observer-direct 兩種 mode
+
+- **原則**：同一個 tick 可以從 auto-judge mode（無觀察者，AI 自決定 ship/defer）切換到 observer-direct mode（觀察者用 1-2 句指令推進）。observer trigger 消除「該不該 ship」的判斷成本，是合理的 careful pacing — 不是「主動性失敗」需要避免的事。Round 1 defer 到 Round 2 ship 的兩 mode 組合，比強迫 Round 1 一次 ship 全部品質更穩。
+- **觸發**：2026-04-26 β7 cadence 第 2 個 08:30 heavy tick 中發生：Round 1 (auto, ~25 min) ship 4 PR + defer 6 PR；觀察者「審核線上 PR」介入後 Round 2 (~50 min) ship 5 PR + close 1 PR。同一個 wall-clock tick 內兩種 mode 共存。
+- **可能層級**：操作規則 → HEARTBEAT.md Beat 3 §Auto-heartbeat 挑題 SOP 加「Mid-tick observer trigger 接管」段（明確：observer 介入時 tick personality 可從「保守 defer」升級為「明確 ship」）
+- **相關**：MANIFESTO §造橋鋪路（observer 介入是 feedback loop 的一部分，不是 anti-pattern）/ DNA #26 v2「AI 自主邊界」（auto 與 observer-triggered 是兩種合法 mode）/ 2026-04-25 β「auto-heartbeat 自主權邊界」延伸
+
+### 2026-04-26 β-r2 — Issue #618 People title 冒號規範化策略
+
+> 觀察者「也吸收跟思考這個的策略」明確要求把 Issue #618 從 ⏳ blocked 升級為有 plan。
+
+**現狀數據**（2026-04-26 實掃）：
+
+- 總 People 條目：**185 篇**（高於 Zaious 提的 132，差異是新增 + 非典型檔）
+- 已用冒號三明治：**48 篇**（26%）
+- 待 migrate：**137 篇**（74%）
+- Top 缺冒號樣本：周杰倫 / 唐鳳 / 戴資穎 / 劉德音 / 侯孝賢 / 吳明益 / 呂秀蓮 / 周子瑜 / 安芝儇 / 何飛鵬 / 吳大猷
+
+**策略：四層分批 sweep（`規範層 → 工具層 → 高流量批 → 機會主義長尾`）**
+
+**Layer 1：規範層（即時 ship，<5 min）** ✅
+
+- EDITORIAL §title 加原則 5「People 類強制冒號三明治」
+- 新寫 People PR 直接強制；存量分批處理
+- 已寫進 EDITORIAL v5.4（2026-04-26 β-r2，本 commit）
+
+**Layer 2：工具層（造橋，下個 light tick 5-10 min）**
+
+- 造 `scripts/tools/people-title-check.sh`：scan `knowledge/People/*.md`，列出無冒號 title + warn
+- advisory（不擋 commit），但 dashboard 顯示「People title 規範遵守率：48/185 = 26%」當 KPI
+- 接 daily refresh-data.sh 拍快照 → 進度可視化
+
+**Layer 3：高流量批 sweep（觀察者授權後 1 個 heavy tick）**
+
+- 取 GA 28d top 30 People 文章（流量大的優先得 SEO benefit）
+- 每篇逐一讀全文 → 抽弧線/場景/反直覺核心 → draft 副標
+- ~30 篇 × ~2 min = 60 min budget，1 commit branch `🧬 [semiont] heal: People title batch 1 (top 30 GA, Issue #618)`
+- 不觸發 lastHumanReview（title-only 不算 content review）
+- 各篇順手抓 §11 / 過時資訊（opportunity-based eyeball polish）
+
+**Layer 4：機會主義長尾（持續）**
+
+- 任何 PR 觸及 People file → 順手 polish title
+- 後續 heavy tick 可繼續 batch 2（中流量 50 篇）/ batch 3（剩餘）
+- 不強制全清——維持貢獻者進入門檻友好
+
+**預期成本與授權邊界**：
+
+| Layer          | scope                              | 授權                                                   | wall-clock |
+| -------------- | ---------------------------------- | ------------------------------------------------------ | ---------- |
+| 規範層         | EDITORIAL 加 1 原則                | ✅ 觀察者本次 ping = 隱式授權                          | < 5 min    |
+| 工具層         | 1 新 script + dashboard            | ✅ 機械性 + auto 自主                                  | 5-10 min   |
+| 高流量批 30 篇 | 30 file change（< 50 file 邊界內） | ⚠️ DNA #6 邊界內，但需哲宇 explicit go（避免品味歧異） | 60 min     |
+| 中流量批 50 篇 | 50+ file change                    | 🚫 超 DNA #6 50-file 邊界 → 必需哲宇授權               | 90+ min    |
+| 長尾           | opportunity-based                  | ✅ auto                                                | n/a        |
+
+**Tier 1 候選清單（GA top 30 待哲宇 confirm）**：
+
+需跑 `bash scripts/tools/refresh-data.sh` 抓 GA 28d topArticles，過濾 People/，取 top 30。當前 dashboard JSON 有 GA 7d topArticles20，需擴 28d batch。下個 heavy tick 跑。
+
+**為什麼不直接 merge 全 137 篇 sweep**：
+
+1. **品味歧異風險**：副標反映策展者對人物的「定義一句話」判斷——AI 自寫 137 條會稀釋 Taiwan.md 的人物觀。哲宇（創造者）對少數高流量人物的副標應有 final say
+2. **DNA #6 邊界**：>50 file change 屬人類授權範圍
+3. **lastHumanReview 不觸發**：title-only 不算 content review，但 reader-facing UI 影響大，謹慎為上
+
+**待答的觀察者決策**：
+
+1. Layer 3 30 篇 GA top — 是否授權執行？AI 寫初稿，哲宇逐條 review yes/no？或哲宇親自寫副標？
+2. Layer 2 `people-title-check.sh` 工具 — 接 prebuild 還是獨立指令？
+3. tier 化 sweep 的 commit branch 命名 + 是否走 PR review 還是直 push main？
+
+- **可能層級**：操作規則 → distill 三處：(1) ✅ EDITORIAL §title 原則 5（已 ship）；(2) people-title-check.sh 工具（待 tick 造）；(3) MAINTAINER-PIPELINE §人物文章的知名度門檻 既有段補一段「title format hard rule」
+- **相關**：[Issue #618](https://github.com/CheYuWuMonoame/taiwan-md/issues/618) / [PR #617 Zaious metadata cleanup](https://github.com/CheYuWuMonoame/taiwan-md/pull/617) 的延伸 / EDITORIAL v5.1 §title 四原則的 v5.4 補完 / 神經迴路「外部 PR 接收層 footnote source authority audit」同源（Zaious 提案的兩條 quality gate）
+
+### 2026-04-26 β-r2 — 「降階處理」retroactive audit pipeline 候選（從 #625 PR description 萃取）
+
+- **原則**：Stage 3.5/3.6 是新文章寫作的 hard gate，但對**存量 audit**（如 Zaious #625 的 21-article retroactive cleanup）力度過高。Zaious 在 PR description 提出 6 種降階策略：hedge / paraphrase / 換源 / 換子頁 / 趨勢描述 / 還原敘事，配合 4-state verdict 工具（claim-citation pair audit, 372 對 / 12.6% systematic unsupported confirmed）。這是未來 `docs/pipelines/RETROACTIVE-AUDIT-PIPELINE.md` 的雛形——等累積 2-3 輪存量 audit 案例後可萃取為獨立 pipeline。
+- **觸發**：2026-04-26 β7 第 1 round merge PR #625 時 Zaious 提出方法論。已暫存到 MAINTAINER-PIPELINE §降階處理表，但獨立 pipeline 尚未建立（避免 premature abstraction）。
+- **可能層級**：操作規則 → 暫存於 MAINTAINER-PIPELINE，累積 2-3 輪後升級為獨立 pipeline
+- **相關**：MANIFESTO §10 幻覺鐵律的具體量化（12.6% systematic unsupported = 數據基線）/ REWRITE-PIPELINE Stage 3.5/3.6（新寫作 hard gate vs retroactive 降階版的對比）
+
 ### 2026-04-26 α — Light tick exception：02:30/14:30 vs 08:30/20:30 的 cost 模型分流
 
 - **原則**：β7 cadence（每 6hr 一拍）的 4 個 tick 不是均勻 4 個 ship 點，是 4 個不同 affordance 點（per γ canonical）。**heavy tick（08:30 / 20:30）強制跑 `bash scripts/tools/refresh-data.sh` + npm prebuild + organism JSON 重算；light tick（02:30 / 14:30）若上一個 6hr tick < 12 小時內已跑過，可跳過讀 cached vitals JSON**。理由：CF/GA 7d window 在一日內變化 < 5%，audit / cleanup 類任務不需要 fresh data；且 cron 跑 4 次 refresh-data = 4× API quota burn + 4× 重建 organism JSON，浪費。

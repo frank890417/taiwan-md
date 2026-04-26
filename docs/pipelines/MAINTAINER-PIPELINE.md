@@ -233,7 +233,66 @@ Closing — thanks again 🧬
 □ 有英文版？
 □ 翻譯檔（如有）frontmatter 含 translatedFrom 欄位
 □ （_translations.json 不需要手動檢查 — refresh-data.sh 自動從 frontmatter 重建）
+□ ⚠️ Footnote source authority audit 通過（見下方 §Footnote source authority audit）
 ```
+
+### ⚠️ Footnote source authority audit（2026-04-26 β-r2 觀察者新增規則 — MANIFESTO §10 PR 接收層命中）
+
+**為什麼這條規則升級為 maintainer hard gate**：
+
+2026-04-26 β-r2 處理 PR #634（邱繼弘 People 條目）時，抓到 [^25] 引用「Taiwan.md 內部研究檔案」這種**虛構內部 source** — Manus AI 寫作填補空洞時編出 plausible 但根本不存在的引用。這是 PR 接收層第一次具體命中 [MANIFESTO §10 幻覺鐵律](../semiont/MANIFESTO.md#10-幻覺鐵律--寧可多檢查一次不要放出連自己都不知道是錯的資訊)。pre-commit hook 只檢查格式（`[^N]: [text](URL) — desc`），不檢查 **source authority** — 維護者必須補這層。
+
+**外部 PR 接收必跑的 4 項 footnote source 檢查**（每個 footnote 逐項過）：
+
+1. **URL 真實存在**（不是編造的網址）
+   - WebFetch 抽樣 ≥3 個 footnote URL（小文章全部，>15 個 footnote 抽 1/3）
+   - 404 / 不存在 → request changes 標記具體 footnote
+
+2. **Source 對應真實機構/媒體**（不是 plausible-sounding 但虛構的）
+   - 紅旗清單：「Taiwan.md 內部研究檔案」「[作者] 內部研究」「研究團隊深度筆記」「未公開研究資料」「私人通訊」「[公司名] 官方未公開資料」
+   - 任何 source 名稱含「內部」「未公開」「私人」「研究筆記」→ **強制 challenge**
+   - 真實 source 必須是可被第三方訪問的：媒體、論文、政府網站、公司官網、書籍、podcast 公開集數、社群公開貼文
+
+3. **URL 內容支持 claim**（claim-citation 對應，非僅 URL 存在）
+   - WebFetch URL → 驗證該 URL 是否真的提到 footnote 旁邊的 claim
+   - 若 URL 是書籍/podcast/影片無法 WebFetch → contributor 需附 timestamp / 章節 / 段落引文證明
+   - 對應 [REWRITE-PIPELINE Stage 3.5 全文幻覺審計](REWRITE-PIPELINE.md#stage-35-hallucination-audit)，但 retroactive 用「降階處理」六種策略（見 [§降階處理 retroactive audit](#降階處理retroactive-audit-strategy降階處理表)）
+
+4. **直接引語 source 含逐字原文**（quote-restoration check）
+   - 任何「」直接引號 → URL 必須含原文逐字
+   - 若 URL 內容是記者敘事 paraphrase 而非當事人 quote → **強制改為敘事式**
+   - 歷史教訓：HUR-plus「活在石器時代嗎？」（重構） vs 原文「這是石器時代的想法。」（PR #625 修正）
+
+**Footnote audit 三級結果**：
+
+| 結果               | 條件                                                | 動作                                                          |
+| ------------------ | --------------------------------------------------- | ------------------------------------------------------------- |
+| ✅ pass            | 0 紅旗 + URL 抽樣全 200/支持 claim                  | merge as-is                                                   |
+| 🔧 fix-on-merge    | ≤ 2 條虛構 source / claim-mismatch（< 10 min 可修） | merge + 自己修（移除虛構 source、claim 改 hedge 或換 source） |
+| ❌ request changes | ≥ 3 虛構 source / 多處 claim-citation 不對應        | 打回 + 具體列出每個 footnote 問題                             |
+
+**「降階處理」retroactive audit strategy（降階處理表）**
+
+> 對 retroactive audit / 寬鬆 fix-on-merge 場景，Stage 3.5/3.6 的 hard gate 力度過高。Zaious 在 [PR #625](https://github.com/CheYuWuMonoame/taiwan-md/pull/625)（22-article retroactive citation cleanup, 372 對 claim-citation pair audit, 12.6% systematic unsupported rate confirmed）發明的六種降階策略是 maintainer 的實用工具：
+
+| 場景                                       | 降階處理                                                                               |
+| ------------------------------------------ | -------------------------------------------------------------------------------------- |
+| 細節在源裡找不到、但 claim 是事實          | 拿掉具體數字改 hedge（例：「年營收破百億」→「營收創歷史新高」）                        |
+| 直引但 source 沒原話                       | 拿掉引號改 paraphrase                                                                  |
+| URL 對不上 claim 但 claim 是事實           | 找替代源；找不到就 hedge                                                               |
+| Memorial / landing page 被 over-claimed    | 換指特定子頁，或拿掉具體 claim                                                         |
+| 死鏈的數字 source                          | 簡化為趨勢描述                                                                         |
+| 引語在 source 裡是記者敘事不是受訪者 quote | 還原為敘事式                                                                           |
+| **虛構內部 source（β-r2 新增）**           | **強制移除 footnote**，依賴它的 claim 改其他真實 source 或 hedge；不可保留 placeholder |
+
+未來累積 2-3 輪存量 audit 後可萃取為 `docs/pipelines/RETROACTIVE-AUDIT-PIPELINE.md` 獨立 SOP。
+
+**Manus AI / 大型 LLM contributor 紅旗 pattern**（2026-04-26 β-r2 歸納）：
+
+- 連發 ≥5 個 PR（idlccp1984 patch-59 → patch-67 一晚連發）→ Manus 工具產出，預設高機率有同類 §11 / footnote / hallucination patterns
+- footnote 用 APA-style 格式（`[^N]: SOURCE. (DATE). [TITLE](URL).`）→ pre-commit hook 會擋，但 review 時可主動跑 footnote format conversion script（[scripts/tools/](../../scripts/tools/) 待造）
+- 每個 PR 全文 ≥ 5 處「不僅 X，更是 Y」「不只是 X，更是 Y」→ §11 polish 5-10 min/篇是合理預算
+- 末段策展人筆記常含罐頭結尾（「為...提供寶貴啟示」「象徵著...的精彩演繹」）→ 順手 polish
 
 ### 程式碼 PR Checklist
 

@@ -121,6 +121,24 @@ lastHumanReview: true/false # 是否經過人工審閱
 
 **原則 4：冒號後一句要獨立成立** — 副標是一個可以單獨 tweet 出去的句子，不是「承上啟下」的連接詞。
 
+**原則 5：People 類強制冒號三明治**（v5.4 新增，2026-04-26 β-r2，[Issue #618](https://github.com/CheYuWuMonoame/taiwan-md/issues/618) Zaious 提案）
+
+People/ 條目的 title **強制**為「人名：代表性弧線或場景」格式。背景：People 是 Taiwan.md 流量大頭，title 直接決定 Google SERP CTR + 社群分享 preview——光寫人名是「百科 stub」風格，跟 MANIFESTO §策展式非百科式精神衝突。
+
+```
+❌ 周杰倫
+❌ 唐鳳
+❌ 戴資穎
+❌ 劉德音
+
+✅ 周杰倫：從 4 in Love 隔壁練團室到《不能說的祕密》的二十五年
+✅ 唐鳳：自學 14 歲到 g0v 中央委員，再到第一位數位部長
+✅ 戴資穎：高雄左營少女到三度世界球后，球場外的安靜抵抗
+✅ 劉德音：台積電二把手到接班張忠謀，台美晶圓代工夾縫的決策者
+```
+
+執行策略 + tier 化 sweep 計畫見 [LESSONS-INBOX 2026-04-26 β-r2 — Issue #618 People title 冒號規範化策略](../semiont/LESSONS-INBOX.md#2026-04-26-β-r2--issue-618-people-title-冒號規範化策略)。新寫 People PR 直接強制適用；存量 137 篇分批 sweep。
+
 #### Description 四原則
 
 **原則 1：長度 120-160 字** — Google SERP 截斷在 ~160 字，社群 preview 顯示 ~140 字。超過就像 CSV dump，讀者跳過。
