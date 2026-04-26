@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T11:16:01.303Z",
+  "lastUpdated": "2026-04-26T18:38:06.672Z",
   "totals": {
     "contributors": 50,
     "activeWindow": "last 30d"
@@ -7,28 +7,28 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 2257,
+      "commits": 2261,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-04-26 19:11:25 +0800",
+      "lastCommitAt": "2026-04-26 20:42:39 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 479,
-        "system": 1423,
+        "system": 1425,
         "translation": 529
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 61,
+      "commits": 63,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-04-26 09:44:22 +0800",
+      "lastCommitAt": "2026-04-26 20:39:20 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 61,
+        "content": 63,
         "system": 0,
         "translation": 0
       }
@@ -289,14 +289,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 61,
+      "commits": 63,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-04-26 09:44:22 +0800",
+      "lastCommitAt": "2026-04-26 20:39:20 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 61,
+        "content": 63,
         "system": 0,
         "translation": 0
       }
@@ -361,15 +361,15 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 2257,
+      "commits": 2261,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-04-26 19:11:25 +0800",
+      "lastCommitAt": "2026-04-26 20:42:39 +0800",
       "primaryArea": "system",
       "breakdown": {
         "content": 479,
-        "system": 1423,
+        "system": 1425,
         "translation": 529
       }
     },
@@ -502,37 +502,9 @@
       }
     }
   ],
-  "weeklyActive": 10,
-  "monthlyActive": 16,
+  "weeklyActive": 8,
+  "monthlyActive": 13,
   "recentlyJoined": [
-    {
-      "login": "Johnwang860424",
-      "commits": 2,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/43649946?v=4",
-      "profileUrl": "https://github.com/Johnwang860424",
-      "firstCommitAt": "2026-03-27 19:46:35 +0800",
-      "lastCommitAt": "2026-03-28 13:46:16 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 10,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
-      "login": "joe32140",
-      "commits": 1,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/6942982?v=4",
-      "profileUrl": "https://github.com/joe32140",
-      "firstCommitAt": "2026-03-27 04:56:01 -0700",
-      "lastCommitAt": "2026-03-27 04:56:01 -0700",
-      "primaryArea": "system",
-      "breakdown": {
-        "content": 0,
-        "system": 1,
-        "translation": 0
-      }
-    },
     {
       "login": "p3nchan",
       "commits": 7,
@@ -549,14 +521,14 @@
     },
     {
       "login": "idlccp1984",
-      "commits": 61,
+      "commits": 63,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-04-26 09:44:22 +0800",
+      "lastCommitAt": "2026-04-26 20:39:20 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 61,
+        "content": 63,
         "system": 0,
         "translation": 0
       }
