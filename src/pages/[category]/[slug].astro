@@ -11,7 +11,6 @@ import RelatedArticleCard from '../../components/RelatedArticleCard.astro';
 import Perspectives from '../../components/Perspectives.astro';
 import SporeFootprint from '../../components/SporeFootprint.astro';
 import DiaryTeaser from '../../components/DiaryTeaser.astro';
-import LifeTree from '../../components/LifeTree.astro';
 import { useTranslations } from '../../i18n/utils';
 import {
   categoryList as categories,
@@ -327,8 +326,7 @@ if (splitIndex === -1) {
 const hasSSoDT =
   frontmatter.perspectives?.length > 0 ||
   frontmatter.sporeLinks?.length > 0 ||
-  frontmatter.diaryLink ||
-  frontmatter.lifeTree;
+  frontmatter.diaryLink;
 const contentBeforeReading =
   splitIndex !== -1 && hasSSoDT ? fullHtml.slice(0, splitIndex) : fullHtml;
 const contentAfterReading =
@@ -439,6 +437,35 @@ const encodedTitle = encodeURIComponent(title);
           }
         </div>
 
+        <!-- LifeTree CTA banner (experimental feature, links to standalone page) -->
+        {
+          frontmatter.lifeTree && (
+            <a
+              href={`/lifetree/${slug}`}
+              class="lifetree-cta group mb-8 flex items-center justify-between gap-4 rounded-xl border border-dashed border-[rgba(139,92,246,0.4)] bg-gradient-to-r from-[rgba(139,92,246,0.06)] to-[rgba(236,72,153,0.04)] px-5 py-4 no-underline transition-all duration-200 hover:border-solid hover:border-[#8B5CF6] hover:shadow-md"
+              data-experimental
+            >
+              <div class="flex items-center gap-3">
+                <span class="text-2xl" aria-hidden="true">
+                  🌳
+                </span>
+                <div>
+                  <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-[#8B5CF6]">
+                    Experimental · 實驗型功能
+                  </p>
+                  <p class="m-0 mt-0.5 font-['Noto_Serif_TC',serif] text-[0.95rem] font-medium text-[#1a3c34]">
+                    {frontmatter.lifeTree.protagonist} 的人生分支樹（
+                    {frontmatter.lifeTree.nodes?.length || 0} 個 turning point）
+                  </p>
+                </div>
+              </div>
+              <span class="flex items-center gap-1 font-['Inter',system-ui,sans-serif] text-[0.85rem] font-medium text-[#8B5CF6] transition-transform duration-200 group-hover:translate-x-1">
+                看樹 →
+              </span>
+            </a>
+          )
+        }
+
         <!-- Prose body (split at 延伸閱讀 if SSODT sections present) -->
         {
           hasSSoDT && splitIndex !== -1 ? (
@@ -465,7 +492,6 @@ const encodedTitle = encodeURIComponent(title);
                   lang="zh-TW"
                 />
               )}
-              {frontmatter.lifeTree && <LifeTree tree={frontmatter.lifeTree} />}
               <div class="prose" set:html={contentAfterReading} />
             </>
           ) : (

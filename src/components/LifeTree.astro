@@ -118,9 +118,9 @@ function formatDate(node: Node): string {
     <details class="life-tree__plausibility-key">
       <summary>圖例：alternative 的 plausibility 分級</summary>
       <ul role="list">
-        <li><span aria-hidden="true">●</span> 已選 — 她真的走的路</li>
+        <li><span aria-hidden="true">●</span> 已選 — 真的走的路</li>
         <li>
-          <span aria-hidden="true">◐</span> 嘗試過 — 她曾經走過半步但回頭
+          <span aria-hidden="true">◐</span> 嘗試過 — 曾經走過半步但回頭
         </li>
         <li>
           <span aria-hidden="true">○</span> 結構性替代 — 同代人或同類處境者走過的路
@@ -175,7 +175,7 @@ function formatDate(node: Node): string {
                     <span class="life-tree__chose-icon" aria-hidden="true">
                       ●
                     </span>
-                    <strong>她選的路：</strong>
+                    <strong>選的路：</strong>
                     {node.chose.label}
                   </p>
                   {node.chose.consequence && (
@@ -238,7 +238,7 @@ function formatDate(node: Node): string {
     </p>
     <p>
       <strong>讀法</strong>：時間從上往下走，每個節點是一個 turning point。●
-      是她選的，○ ◐ ◌ 是她沒選的——展開來看為什麼那條路也是合理的。
+      是選擇的路，○ ◐ ◌ 是沒走的路——展開來看為什麼那條路也是合理的。
     </p>
   </footer>
 </section>

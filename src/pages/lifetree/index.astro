@@ -1,0 +1,416 @@
+---
+// /lifetree — landing page，列出所有有 lifeTree 的人物條目
+// 實驗型功能 index
+
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import Layout from '../../layouts/Layout.astro';
+
+const safeMatter = (fileContent: string) => {
+  try {
+    return matter(fileContent);
+  } catch {
+    return { data: {}, content: '' };
+  }
+};
+
+const KNOWLEDGE_FOLDERS = [
+  'About',
+  'History',
+  'Geography',
+  'Culture',
+  'Food',
+  'Art',
+  'Music',
+  'Technology',
+  'Nature',
+  'People',
+  'Society',
+  'Economy',
+  'Lifestyle',
+];
+
+const FOLDER_TO_CATEGORY: Record<string, string> = {
+  About: 'about',
+  History: 'history',
+  Geography: 'geography',
+  Culture: 'culture',
+  Food: 'food',
+  Art: 'art',
+  Music: 'music',
+  Technology: 'technology',
+  Nature: 'nature',
+  People: 'people',
+  Society: 'society',
+  Economy: 'economy',
+  Lifestyle: 'lifestyle',
+};
+
+interface TreeListItem {
+  slug: string;
+  category: string;
+  articleTitle: string;
+  protagonist: string;
+  span: string;
+  intro?: string;
+  themeCount: number;
+  nodeCount: number;
+  altCount: number;
+}
+
+const trees: TreeListItem[] = [];
+for (const folder of KNOWLEDGE_FOLDERS) {
+  try {
+    const folderPath = resolve(process.cwd(), 'knowledge', folder);
+    const files = await readdir(folderPath);
+    for (const file of files.filter(
+      (f) => f.endsWith('.md') && !f.startsWith('_'),
+    )) {
+      const filePath = join(folderPath, file).normalize('NFC');
+      const fileContent = await readFile(filePath, 'utf-8');
+      const { data: frontmatter } = safeMatter(fileContent);
+      if (!frontmatter.lifeTree) continue;
+      const slug = basename(file, '.md');
+      const tree = frontmatter.lifeTree as any;
+      const altCount = (tree.nodes || []).reduce(
+        (sum: number, n: any) => sum + (n.alternatives?.length || 0),
+        0,
+      );
+      trees.push({
+        slug,
+        category: FOLDER_TO_CATEGORY[folder] || folder.toLowerCase(),
+        articleTitle: frontmatter.title || slug,
+        protagonist: tree.protagonist || slug,
+        span: tree.span || '',
+        intro: tree.intro,
+        themeCount: tree.themes?.length || 0,
+        nodeCount: tree.nodes?.length || 0,
+        altCount,
+      });
+    }
+  } catch {
+    // skip missing folders
+  }
+}
+
+// Sort by node count desc (richest trees first)
+trees.sort((a, b) => b.nodeCount - a.nodeCount);
+---
+
+<Layout
+  title="人生分支樹（實驗型功能）| Taiwan.md"
+  description="把高密度人物條目的核心決策結構化成可視化樹狀。RPG 式人生分支，主軸時間、副軸選擇，每個節點顯示選的路 + 沒選的 alternative。實驗型功能，目前 ~1 個原型。"
+  type="website"
+>
+  <main class="lifetree-index" lang="zh-TW">
+    <header class="lifetree-index__hero">
+      <div class="lifetree-index__hero-inner">
+        <p class="lifetree-index__experimental">
+          <span aria-hidden="true">🧪</span>
+          Experimental · 實驗型功能
+        </p>
+        <h1>
+          <span aria-hidden="true">🌳</span>
+          人生分支樹
+        </h1>
+        <p class="lifetree-index__lede">
+          把人物條目的核心決策結構化成可視化樹狀。RPG dialogue tree
+          的視覺隱喻——主軸時間、副軸選擇，每個 turning point
+          顯示「選的路」+「沒走的路」。
+        </p>
+        <p class="lifetree-index__caveat">
+          所有 counterfactual 都來自原文 footnote
+          或同代結構推測，不替主體想心理動機。<strong>推測</strong
+          >類別明確標記，不偽裝成事實。MANIFESTO §10 幻覺鐵律 + §5
+          紀實而不煽情。
+        </p>
+        <p class="lifetree-index__rationale">
+          設計 spec：<a
+            href="https://github.com/frank890417/taiwan-md/blob/main/reports/life-decision-tree-design-2026-04-26.md"
+            target="_blank"
+            rel="noopener">reports/life-decision-tree-design-2026-04-26.md</a
+          >
+        </p>
+      </div>
+    </header>
+
+    <section class="lifetree-index__list">
+      {
+        trees.length === 0 ? (
+          <div class="lifetree-index__empty">
+            <p>目前還沒有任何人生分支樹。</p>
+            <p>
+              候選名單（按決策密度高 + 爭議大 + counterfactual
+              明顯排序）：張忠謀 / 唐鳳 / 侯孝賢 / 吳青峰 / 周杰倫。
+            </p>
+          </div>
+        ) : (
+          <ul role="list">
+            {trees.map((t) => (
+              <li class="lifetree-index__card">
+                <a
+                  href={`/lifetree/${t.slug}`}
+                  class="lifetree-index__card-link"
+                >
+                  <header>
+                    <h2>{t.protagonist}</h2>
+                    <p class="lifetree-index__span">{t.span}</p>
+                  </header>
+                  {t.intro && <p class="lifetree-index__intro">{t.intro}</p>}
+                  <ul class="lifetree-index__stats" role="list">
+                    <li>
+                      <strong>{t.nodeCount}</strong> turning point
+                    </li>
+                    <li>
+                      <strong>{t.altCount}</strong> alternatives
+                    </li>
+                    <li>
+                      <strong>{t.themeCount}</strong> themes
+                    </li>
+                  </ul>
+                </a>
+                <a
+                  href={`/${t.category}/${t.slug}`}
+                  class="lifetree-index__source-link"
+                >
+                  ← 原文：{t.articleTitle}
+                </a>
+              </li>
+            ))}
+          </ul>
+        )
+      }
+    </section>
+
+    <footer class="lifetree-index__footer">
+      <p>
+        想看更多人物的人生分支樹？這是實驗型功能，正在累積 prototype。
+        <a
+          href="https://github.com/frank890417/taiwan-md/issues"
+          target="_blank"
+          rel="noopener"
+        >
+          開 issue 提名
+        </a>
+        或自己 PR 加 <code>lifeTree</code> frontmatter（schema 見 <a
+          href="https://github.com/frank890417/taiwan-md/blob/main/reports/life-decision-tree-design-2026-04-26.md"
+          target="_blank"
+          rel="noopener">design report</a
+        >）。
+      </p>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .lifetree-index {
+    min-height: 100vh;
+    background: #f8f1e9;
+    padding-top: 5rem;
+  }
+
+  .lifetree-index__hero {
+    background: linear-gradient(
+      to bottom,
+      rgba(139, 92, 246, 0.08),
+      transparent
+    );
+    padding: 3rem 1.5rem 2rem;
+  }
+
+  .lifetree-index__hero-inner {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+
+  .lifetree-index__experimental {
+    margin: 0 0 1rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8b5cf6;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .lifetree-index h1 {
+    margin: 0 0 1rem;
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(1.8rem, 5vw, 2.8rem);
+    font-weight: 700;
+    color: #1a3c34;
+    line-height: 1.2;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .lifetree-index__lede {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: #2c3a36;
+    margin: 0 0 1rem;
+  }
+
+  .lifetree-index__caveat {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: #5a6f6a;
+    background: #fff;
+    border: 1px dashed rgba(139, 92, 246, 0.3);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    margin: 1rem 0;
+  }
+
+  .lifetree-index__rationale {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    color: #5a6f6a;
+    margin: 1rem 0 0;
+  }
+
+  .lifetree-index__rationale a {
+    color: #8b5cf6;
+  }
+
+  .lifetree-index__list {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+  }
+
+  .lifetree-index__list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  .lifetree-index__card {
+    background: #fff;
+    border: 1px solid rgba(26, 60, 52, 0.1);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.2s ease;
+  }
+
+  .lifetree-index__card:hover {
+    border-color: #8b5cf6;
+    box-shadow: 0 4px 16px rgba(139, 92, 246, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .lifetree-index__card-link {
+    display: block;
+    padding: 1.5rem 1.5rem 1rem;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .lifetree-index__card-link header {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.75rem;
+  }
+
+  .lifetree-index__card h2 {
+    margin: 0;
+    font-family: 'Noto Serif TC', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1a3c34;
+  }
+
+  .lifetree-index__span {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.85rem;
+    color: #5a6f6a;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .lifetree-index__intro {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 0.93rem;
+    line-height: 1.65;
+    color: #2c3a36;
+    margin: 0.5rem 0 1rem;
+  }
+
+  .lifetree-index__stats {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.8rem;
+    color: #5a6f6a;
+  }
+
+  .lifetree-index__stats strong {
+    color: #8b5cf6;
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+  }
+
+  .lifetree-index__source-link {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    background: rgba(26, 60, 52, 0.03);
+    border-top: 1px dashed rgba(26, 60, 52, 0.1);
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.82rem;
+    color: #5a6f6a;
+    text-decoration: none;
+    transition: all 0.15s ease;
+  }
+
+  .lifetree-index__source-link:hover {
+    background: rgba(139, 92, 246, 0.05);
+    color: #8b5cf6;
+  }
+
+  .lifetree-index__empty {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    color: #5a6f6a;
+    font-family: 'Noto Serif TC', serif;
+  }
+
+  .lifetree-index__footer {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+    border-top: 1px dashed rgba(26, 60, 52, 0.15);
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.85rem;
+    color: #5a6f6a;
+    line-height: 1.7;
+  }
+
+  .lifetree-index__footer a {
+    color: #8b5cf6;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  .lifetree-index__footer code {
+    background: rgba(139, 92, 246, 0.1);
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    font-size: 0.85em;
+  }
+</style>

@@ -1,0 +1,359 @@
+---
+// /lifetree/[slug] — standalone life decision tree page
+// 實驗型功能。獨立路由，不嵌入 article body。
+// 設計：reports/life-decision-tree-design-2026-04-26.md
+
+import { readdir, readFile } from 'fs/promises';
+import { resolve, join, basename } from 'path';
+import matter from 'gray-matter';
+import Layout from '../../layouts/Layout.astro';
+import LifeTree from '../../components/LifeTree.astro';
+
+const safeMatter = (fileContent: string) => {
+  try {
+    return matter(fileContent);
+  } catch {
+    return { data: {}, content: '' };
+  }
+};
+
+const KNOWLEDGE_FOLDERS = [
+  'About',
+  'History',
+  'Geography',
+  'Culture',
+  'Food',
+  'Art',
+  'Music',
+  'Technology',
+  'Nature',
+  'People',
+  'Society',
+  'Economy',
+  'Lifestyle',
+];
+
+const FOLDER_TO_CATEGORY: Record<string, string> = {
+  About: 'about',
+  History: 'history',
+  Geography: 'geography',
+  Culture: 'culture',
+  Food: 'food',
+  Art: 'art',
+  Music: 'music',
+  Technology: 'technology',
+  Nature: 'nature',
+  People: 'people',
+  Society: 'society',
+  Economy: 'economy',
+  Lifestyle: 'lifestyle',
+};
+
+export async function getStaticPaths() {
+  const _KNOWLEDGE_FOLDERS = [
+    'About',
+    'History',
+    'Geography',
+    'Culture',
+    'Food',
+    'Art',
+    'Music',
+    'Technology',
+    'Nature',
+    'People',
+    'Society',
+    'Economy',
+    'Lifestyle',
+  ];
+  const _FOLDER_TO_CATEGORY: Record<string, string> = {
+    About: 'about',
+    History: 'history',
+    Geography: 'geography',
+    Culture: 'culture',
+    Food: 'food',
+    Art: 'art',
+    Music: 'music',
+    Technology: 'technology',
+    Nature: 'nature',
+    People: 'people',
+    Society: 'society',
+    Economy: 'economy',
+    Lifestyle: 'lifestyle',
+  };
+  const _safeMatter = (fileContent: string) => {
+    try {
+      return matter(fileContent);
+    } catch {
+      return { data: {}, content: '' };
+    }
+  };
+  const paths: any[] = [];
+  for (const folder of _KNOWLEDGE_FOLDERS) {
+    try {
+      const folderPath = resolve(process.cwd(), 'knowledge', folder);
+      const files = await readdir(folderPath);
+      for (const file of files.filter(
+        (f) => f.endsWith('.md') && !f.startsWith('_'),
+      )) {
+        const filePath = join(folderPath, file).normalize('NFC');
+        const fileContent = await readFile(filePath, 'utf-8');
+        const { data: frontmatter } = _safeMatter(fileContent);
+        if (!frontmatter.lifeTree) continue;
+        const slug = basename(file, '.md');
+        paths.push({
+          params: { slug },
+          props: {
+            frontmatter,
+            articleCategory:
+              _FOLDER_TO_CATEGORY[folder] || folder.toLowerCase(),
+            articleTitle: frontmatter.title || slug,
+            articleSlug: slug,
+          },
+        });
+      }
+    } catch {
+      // folder missing → skip
+    }
+  }
+  return paths;
+}
+
+const { frontmatter, articleCategory, articleTitle, articleSlug } = Astro.props;
+const tree = frontmatter.lifeTree;
+
+const pageTitle = `${tree.protagonist} 的人生分支樹 | Taiwan.md`;
+const pageDescription = `RPG 式人生決策視覺化：${tree.nodes.length} 個 turning point，從 ${tree.span}。每個節點顯示選的路 + 沒選的 alternative，所有 counterfactual 都來自原文 source 或同代結構推測。實驗型功能。`;
+---
+
+<Layout
+  title={pageTitle}
+  description={pageDescription}
+  type="article"
+  slug={articleSlug}
+  categorySlug="lifetree"
+>
+  <main class="lifetree-page" lang="zh-TW">
+    <div class="lifetree-page__hero">
+      <div class="lifetree-page__hero-inner">
+        <p class="lifetree-page__experimental">
+          <span aria-hidden="true">🧪</span>
+          Experimental · 實驗型功能
+        </p>
+        <h1 class="lifetree-page__title">
+          <span aria-hidden="true">🌳</span>
+          {tree.protagonist} 的人生分支樹
+        </h1>
+        <p class="lifetree-page__subtitle">{tree.span}</p>
+
+        <div class="lifetree-page__breadcrumbs">
+          <a href="/lifetree">/lifetree</a>
+          <span aria-hidden="true">›</span>
+          <a href={`/${articleCategory}/${articleSlug}`}>
+            ← 回原文：{articleTitle}
+          </a>
+        </div>
+
+        <div class="lifetree-page__about">
+          <p>
+            <strong>什麼是人生分支樹？</strong>
+            把高密度人物條目的核心決策結構化成可視化樹狀。主軸 = 時間（top-down），副軸
+            = 選擇（左右展開）。每個 decision node 顯示「選的路」+「沒走的路」。
+          </p>
+          <p>
+            <strong>跟原文的關係</strong>：這棵樹是從 <a
+              href={`/${articleCategory}/${articleSlug}`}>原文</a
+            >的 footnote 與敘事結構抽出來的，不替代原文，是另一個切入角度。
+          </p>
+          <p class="lifetree-page__caveat">
+            <strong>注意</strong>：這是實驗型功能。counterfactual 分四個
+            plausibility level（已選 / 嘗試過 / 結構性替代 / 推測）。<strong
+              >推測</strong
+            >類別明確標記，不偽裝成事實。MANIFESTO §10 幻覺鐵律 + §5
+            紀實而不煽情。
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="lifetree-page__body">
+      <LifeTree tree={tree} />
+    </div>
+
+    <footer class="lifetree-page__footer">
+      <a
+        href={`/${articleCategory}/${articleSlug}`}
+        class="lifetree-page__back"
+      >
+        ← 讀完整文章：{articleTitle}
+      </a>
+      <a href="/lifetree" class="lifetree-page__index"> 其他人生分支樹 → </a>
+    </footer>
+  </main>
+</Layout>
+
+<style>
+  .lifetree-page {
+    min-height: 100vh;
+    background: #f8f1e9;
+    padding-top: 5rem;
+  }
+
+  .lifetree-page__hero {
+    background: linear-gradient(
+      to bottom,
+      rgba(139, 92, 246, 0.06),
+      transparent
+    );
+    padding: 3rem 1.5rem 2rem;
+  }
+
+  .lifetree-page__hero-inner {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+
+  .lifetree-page__experimental {
+    margin: 0 0 1rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #8b5cf6;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .lifetree-page__title {
+    margin: 0;
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(1.6rem, 4vw, 2.4rem);
+    font-weight: 700;
+    color: #1a3c34;
+    line-height: 1.2;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  .lifetree-page__subtitle {
+    margin: 0.5rem 0 1.5rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 1rem;
+    color: #5a6f6a;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .lifetree-page__breadcrumbs {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px dashed rgba(26, 60, 52, 0.15);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.85rem;
+    color: #5a6f6a;
+  }
+
+  .lifetree-page__breadcrumbs a {
+    color: #8b5cf6;
+    text-decoration: none;
+    transition: opacity 0.15s ease;
+  }
+
+  .lifetree-page__breadcrumbs a:hover {
+    opacity: 0.7;
+  }
+
+  .lifetree-page__about {
+    background: #fff;
+    border: 1px solid rgba(26, 60, 52, 0.1);
+    border-radius: 12px;
+    padding: 1.25rem 1.5rem;
+    font-family: 'Noto Serif TC', serif;
+    font-size: 0.92rem;
+    line-height: 1.7;
+    color: #2c3a36;
+  }
+
+  .lifetree-page__about p {
+    margin: 0.6rem 0;
+  }
+
+  .lifetree-page__about a {
+    color: #8b5cf6;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  .lifetree-page__caveat {
+    margin-top: 1rem !important;
+    padding-top: 0.8rem;
+    border-top: 1px dashed rgba(139, 92, 246, 0.2);
+    font-size: 0.86rem;
+    color: #5a6f6a;
+  }
+
+  .lifetree-page__body {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 1rem 3rem;
+  }
+
+  .lifetree-page__footer {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    border-top: 1px dashed rgba(26, 60, 52, 0.15);
+  }
+
+  .lifetree-page__back,
+  .lifetree-page__index {
+    font-family: 'Inter', system-ui, sans-serif;
+    font-size: 0.92rem;
+    font-weight: 500;
+    color: #1a3c34;
+    text-decoration: none;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(26, 60, 52, 0.1);
+    transition: all 0.2s ease;
+  }
+
+  .lifetree-page__back:hover,
+  .lifetree-page__index:hover {
+    background: #fff;
+    border-color: #8b5cf6;
+    color: #8b5cf6;
+  }
+
+  @media (max-width: 640px) {
+    .lifetree-page__hero {
+      padding: 2rem 1rem 1.5rem;
+    }
+
+    .lifetree-page__body {
+      padding: 0 0.5rem 2rem;
+    }
+
+    .lifetree-page__footer {
+      padding: 1.5rem 1rem 3rem;
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .lifetree-page__back,
+    .lifetree-page__index {
+      text-align: center;
+    }
+  }
+</style>
