@@ -1,0 +1,618 @@
+---
+// LifeTree.astro — 人生分支樹視覺化
+// 主軸：時間（top-down）/ 副軸：選擇（左右展開 alternatives）
+// 設計：reports/life-decision-tree-design-2026-04-26.md
+//
+// Props:
+//   tree: lifeTree frontmatter object
+//   collapsed: 是否預設摺疊（inline embed 用 true，standalone 用 false）
+
+interface Theme {
+  id: string;
+  label: string;
+  color: string;
+}
+
+interface Alternative {
+  label: string;
+  plausibility:
+    | 'actual-chose'
+    | 'actual-attempted'
+    | 'structural'
+    | 'speculative';
+  note?: string;
+}
+
+interface Choice {
+  label: string;
+  consequence?: string;
+}
+
+interface Node {
+  id: string;
+  year: number;
+  month?: number;
+  day?: number;
+  age?: number;
+  type: 'given' | 'choice' | 'event';
+  theme: string;
+  label?: string;
+  scene?: string;
+  chose?: Choice;
+  alternatives?: Alternative[];
+  sources?: string[];
+}
+
+interface LifeTree {
+  protagonist: string;
+  birthYear: number;
+  span: string;
+  intro?: string;
+  themes: Theme[];
+  nodes: Node[];
+}
+
+interface Props {
+  tree: LifeTree;
+  collapsed?: boolean;
+}
+
+const { tree, collapsed = false } = Astro.props;
+
+// Build theme color lookup
+const themeMap = new Map(tree.themes.map((t) => [t.id, t]));
+
+const plausibilityLabel: Record<string, string> = {
+  'actual-chose': '已選',
+  'actual-attempted': '嘗試過',
+  structural: '結構性替代',
+  speculative: '推測',
+};
+
+const plausibilityIcon: Record<string, string> = {
+  'actual-chose': '●',
+  'actual-attempted': '◐',
+  structural: '○',
+  speculative: '◌',
+};
+
+function formatDate(node: Node): string {
+  const parts = [String(node.year)];
+  if (node.month) {
+    parts.push(`/${String(node.month).padStart(2, '0')}`);
+    if (node.day) parts.push(`/${String(node.day).padStart(2, '0')}`);
+  }
+  return parts.join('');
+}
+---
+
+<section
+  class={`life-tree ${collapsed ? 'life-tree--collapsed' : ''}`}
+  aria-labelledby="life-tree-title"
+>
+  <header class="life-tree__header">
+    <h2 id="life-tree-title">
+      <span class="life-tree__icon" aria-hidden="true">🌳</span>
+      {tree.protagonist} 的人生分支樹
+    </h2>
+    <p class="life-tree__meta">
+      <span>{tree.span}</span>
+      <span class="life-tree__sep">·</span>
+      <span>{tree.nodes.length} 個 turning point</span>
+    </p>
+    {tree.intro && <p class="life-tree__intro">{tree.intro}</p>}
+    <ul class="life-tree__legend" role="list">
+      {
+        tree.themes.map((theme) => (
+          <li>
+            <span
+              class="life-tree__theme-dot"
+              style={`--theme-color: ${theme.color}`}
+              aria-hidden="true"
+            />
+            {theme.label}
+          </li>
+        ))
+      }
+    </ul>
+    <details class="life-tree__plausibility-key">
+      <summary>圖例：alternative 的 plausibility 分級</summary>
+      <ul role="list">
+        <li><span aria-hidden="true">●</span> 已選 — 她真的走的路</li>
+        <li>
+          <span aria-hidden="true">◐</span> 嘗試過 — 她曾經走過半步但回頭
+        </li>
+        <li>
+          <span aria-hidden="true">○</span> 結構性替代 — 同代人或同類處境者走過的路
+        </li>
+        <li>
+          <span aria-hidden="true">◌</span> 推測 — 沒有具體 source，只是合理推測
+        </li>
+      </ul>
+    </details>
+  </header>
+
+  <ol class="life-tree__timeline" role="list">
+    {
+      tree.nodes.map((node) => {
+        const theme = themeMap.get(node.theme);
+        const themeColor = theme?.color || '#666';
+        return (
+          <li
+            class={`life-tree__node life-tree__node--${node.type}`}
+            data-theme={node.theme}
+            id={`lt-${node.id}`}
+          >
+            <div class="life-tree__date" aria-hidden="true">
+              <span class="life-tree__date-year">{formatDate(node)}</span>
+              {typeof node.age === 'number' && (
+                <span class="life-tree__date-age">{node.age} 歲</span>
+              )}
+            </div>
+
+            <div
+              class="life-tree__marker"
+              style={`--theme-color: ${themeColor}`}
+              aria-hidden="true"
+            >
+              {node.type === 'given' ? '◇' : node.type === 'event' ? '▣' : '●'}
+            </div>
+
+            <div class="life-tree__content">
+              <h3 class="life-tree__node-title">
+                <span
+                  class="life-tree__node-theme-tag"
+                  style={`--theme-color: ${themeColor}`}
+                >
+                  {theme?.label}
+                </span>
+                {node.scene || node.label}
+              </h3>
+
+              {node.chose && (
+                <div class="life-tree__chose">
+                  <p class="life-tree__chose-label">
+                    <span class="life-tree__chose-icon" aria-hidden="true">
+                      ●
+                    </span>
+                    <strong>她選的路：</strong>
+                    {node.chose.label}
+                  </p>
+                  {node.chose.consequence && (
+                    <p class="life-tree__chose-consequence">
+                      → {node.chose.consequence}
+                    </p>
+                  )}
+                </div>
+              )}
+
+              {node.alternatives && node.alternatives.length > 0 && (
+                <details class="life-tree__alternatives">
+                  <summary>
+                    沒走的路（{node.alternatives.length} 個 alternative）
+                  </summary>
+                  <ul role="list">
+                    {node.alternatives.map((alt) => (
+                      <li
+                        class={`life-tree__alt life-tree__alt--${alt.plausibility}`}
+                      >
+                        <p class="life-tree__alt-label">
+                          <span
+                            class="life-tree__alt-icon"
+                            aria-hidden="true"
+                            title={plausibilityLabel[alt.plausibility]}
+                          >
+                            {plausibilityIcon[alt.plausibility]}
+                          </span>
+                          <span class="life-tree__alt-tag">
+                            [{plausibilityLabel[alt.plausibility]}]
+                          </span>
+                          {alt.label}
+                        </p>
+                        {alt.note && (
+                          <p class="life-tree__alt-note">{alt.note}</p>
+                        )}
+                      </li>
+                    ))}
+                  </ul>
+                </details>
+              )}
+
+              {node.sources && node.sources.length > 0 && (
+                <p class="life-tree__sources">
+                  source: {node.sources.map((s) => `[${s}]`).join(' ')}
+                </p>
+              )}
+            </div>
+          </li>
+        );
+      })
+    }
+  </ol>
+
+  <footer class="life-tree__footer">
+    <p>
+      <strong>關於這棵樹</strong>：每個 alternative 都來自文章本文已引用的
+      source 或同代結構推測。<strong>推測</strong
+      >類別明確標記，不偽裝成事實。MANIFESTO §10 幻覺鐵律 + §5 紀實而不煽情。
+    </p>
+    <p>
+      <strong>讀法</strong>：時間從上往下走，每個節點是一個 turning point。●
+      是她選的，○ ◐ ◌ 是她沒選的——展開來看為什麼那條路也是合理的。
+    </p>
+  </footer>
+</section>
+
+<style>
+  .life-tree {
+    margin: 3rem 0;
+    padding: 1.5rem;
+    background: var(--color-bg-soft, #fafaf7);
+    border: 1px solid var(--color-border, #e5e5e0);
+    border-radius: 12px;
+    font-family: var(--font-sans, system-ui, sans-serif);
+    line-height: 1.6;
+  }
+
+  .life-tree__header {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 2px dashed var(--color-border, #e5e5e0);
+  }
+
+  .life-tree__header h2 {
+    font-size: 1.5rem;
+    margin: 0 0 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .life-tree__icon {
+    font-size: 1.4em;
+  }
+
+  .life-tree__meta {
+    color: var(--color-text-soft, #666);
+    font-size: 0.9rem;
+    margin: 0 0 1rem;
+  }
+
+  .life-tree__sep {
+    margin: 0 0.5rem;
+    color: var(--color-border, #ccc);
+  }
+
+  .life-tree__intro {
+    font-size: 0.95rem;
+    color: var(--color-text, #333);
+    margin: 1rem 0;
+    padding: 0.75rem 1rem;
+    background: var(--color-bg, #fff);
+    border-left: 3px solid var(--color-border, #ccc);
+    border-radius: 4px;
+  }
+
+  .life-tree__legend {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    font-size: 0.85rem;
+    color: var(--color-text-soft, #555);
+  }
+
+  .life-tree__legend li {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+
+  .life-tree__theme-dot {
+    width: 0.8em;
+    height: 0.8em;
+    border-radius: 50%;
+    background: var(--theme-color);
+    display: inline-block;
+  }
+
+  .life-tree__plausibility-key {
+    font-size: 0.85rem;
+    color: var(--color-text-soft, #555);
+    margin-top: 0.5rem;
+  }
+
+  .life-tree__plausibility-key summary {
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .life-tree__plausibility-key ul {
+    list-style: none;
+    padding: 0.5rem 0 0 1rem;
+    margin: 0;
+  }
+
+  .life-tree__plausibility-key li {
+    margin: 0.25rem 0;
+  }
+
+  .life-tree__timeline {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    position: relative;
+  }
+
+  /* Vertical timeline line */
+  .life-tree__timeline::before {
+    content: '';
+    position: absolute;
+    left: 5.5rem;
+    top: 0.5rem;
+    bottom: 0.5rem;
+    width: 2px;
+    background: linear-gradient(
+      to bottom,
+      var(--color-border, #ddd) 0%,
+      var(--color-border, #ddd) 95%,
+      transparent 100%
+    );
+  }
+
+  .life-tree__node {
+    position: relative;
+    padding-left: 7.5rem;
+    margin-bottom: 2.5rem;
+    min-height: 3rem;
+  }
+
+  .life-tree__node:last-child {
+    margin-bottom: 0;
+  }
+
+  .life-tree__date {
+    position: absolute;
+    left: 0;
+    top: 0.25rem;
+    width: 4.5rem;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .life-tree__date-year {
+    display: block;
+    font-weight: 600;
+    color: var(--color-text, #333);
+    font-size: 0.95rem;
+  }
+
+  .life-tree__date-age {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--color-text-soft, #888);
+    margin-top: 0.1rem;
+  }
+
+  .life-tree__marker {
+    position: absolute;
+    left: 4.75rem;
+    top: 0.25rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-soft, #fafaf7);
+    color: var(--theme-color);
+    font-size: 1.2rem;
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  .life-tree__content {
+    background: var(--color-bg, #fff);
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--theme-color, #ccc);
+  }
+
+  .life-tree__node-title {
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 0 0 0.5rem;
+    line-height: 1.5;
+    color: var(--color-text, #222);
+  }
+
+  .life-tree__node-theme-tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 0.15rem 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 999px;
+    background: var(--theme-color);
+    color: #fff;
+    vertical-align: middle;
+    letter-spacing: 0.02em;
+  }
+
+  .life-tree__chose {
+    margin: 0.5rem 0;
+    padding: 0.6rem 0.8rem;
+    background: rgba(139, 92, 246, 0.04);
+    border-radius: 6px;
+  }
+
+  .life-tree__chose-label {
+    margin: 0;
+    font-size: 0.95rem;
+  }
+
+  .life-tree__chose-icon {
+    color: #16a34a;
+    margin-right: 0.4rem;
+    font-size: 0.9em;
+  }
+
+  .life-tree__chose-consequence {
+    margin: 0.4rem 0 0;
+    font-size: 0.88rem;
+    color: var(--color-text-soft, #555);
+    padding-left: 1.2rem;
+  }
+
+  .life-tree__alternatives {
+    margin-top: 0.5rem;
+  }
+
+  .life-tree__alternatives summary {
+    cursor: pointer;
+    user-select: none;
+    font-size: 0.85rem;
+    color: var(--color-text-soft, #666);
+    padding: 0.4rem 0;
+    list-style: none;
+  }
+
+  .life-tree__alternatives summary::before {
+    content: '▸ ';
+    display: inline-block;
+    transition: transform 0.15s ease;
+  }
+
+  .life-tree__alternatives[open] summary::before {
+    transform: rotate(90deg);
+  }
+
+  .life-tree__alternatives summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .life-tree__alternatives ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.4rem 0 0;
+  }
+
+  .life-tree__alt {
+    padding: 0.5rem 0.75rem;
+    margin: 0.4rem 0;
+    background: var(--color-bg-soft, #f7f7f3);
+    border-radius: 6px;
+    border-left: 2px dashed var(--color-border, #ccc);
+  }
+
+  .life-tree__alt-label {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+
+  .life-tree__alt-icon {
+    margin-right: 0.4rem;
+    font-size: 0.95em;
+    color: var(--color-text-soft, #888);
+  }
+
+  .life-tree__alt-tag {
+    font-size: 0.7rem;
+    color: var(--color-text-soft, #888);
+    margin-right: 0.3rem;
+    text-transform: lowercase;
+  }
+
+  .life-tree__alt-note {
+    margin: 0.3rem 0 0;
+    font-size: 0.82rem;
+    color: var(--color-text-soft, #666);
+    padding-left: 1.2rem;
+    line-height: 1.5;
+  }
+
+  .life-tree__alt--speculative {
+    border-left-style: dotted;
+  }
+
+  .life-tree__alt--actual-attempted {
+    border-left-style: solid;
+    border-left-color: rgba(245, 158, 11, 0.5);
+  }
+
+  .life-tree__sources {
+    font-size: 0.75rem;
+    color: var(--color-text-soft, #888);
+    margin: 0.5rem 0 0;
+    font-family: var(--font-mono, ui-monospace, monospace);
+  }
+
+  .life-tree__footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px dashed var(--color-border, #e5e5e0);
+    font-size: 0.82rem;
+    color: var(--color-text-soft, #666);
+  }
+
+  .life-tree__footer p {
+    margin: 0.4rem 0;
+  }
+
+  /* Different node type icons */
+  .life-tree__node--given .life-tree__chose-icon {
+    color: var(--color-text-soft, #888);
+  }
+
+  /* Mobile */
+  @media (max-width: 640px) {
+    .life-tree {
+      padding: 1rem 0.75rem;
+      margin: 2rem -0.5rem;
+      border-radius: 8px;
+    }
+
+    .life-tree__node {
+      padding-left: 5rem;
+    }
+
+    .life-tree__date {
+      width: 3rem;
+    }
+
+    .life-tree__date-year {
+      font-size: 0.8rem;
+    }
+
+    .life-tree__date-age {
+      font-size: 0.7rem;
+    }
+
+    .life-tree__timeline::before {
+      left: 3.75rem;
+    }
+
+    .life-tree__marker {
+      left: 3.25rem;
+      width: 1rem;
+      height: 1rem;
+      font-size: 0.85rem;
+    }
+
+    .life-tree__legend {
+      gap: 0.5rem;
+      font-size: 0.78rem;
+    }
+
+    .life-tree__node-title {
+      font-size: 0.92rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .life-tree__alternatives summary::before {
+      transition: none;
+    }
+  }
+</style>

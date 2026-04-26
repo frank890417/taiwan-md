@@ -11,6 +11,7 @@ import RelatedArticleCard from '../../components/RelatedArticleCard.astro';
 import Perspectives from '../../components/Perspectives.astro';
 import SporeFootprint from '../../components/SporeFootprint.astro';
 import DiaryTeaser from '../../components/DiaryTeaser.astro';
+import LifeTree from '../../components/LifeTree.astro';
 import { useTranslations } from '../../i18n/utils';
 import {
   categoryList as categories,
@@ -326,7 +327,8 @@ if (splitIndex === -1) {
 const hasSSoDT =
   frontmatter.perspectives?.length > 0 ||
   frontmatter.sporeLinks?.length > 0 ||
-  frontmatter.diaryLink;
+  frontmatter.diaryLink ||
+  frontmatter.lifeTree;
 const contentBeforeReading =
   splitIndex !== -1 && hasSSoDT ? fullHtml.slice(0, splitIndex) : fullHtml;
 const contentAfterReading =
@@ -463,6 +465,7 @@ const encodedTitle = encodeURIComponent(title);
                   lang="zh-TW"
                 />
               )}
+              {frontmatter.lifeTree && <LifeTree tree={frontmatter.lifeTree} />}
               <div class="prose" set:html={contentAfterReading} />
             </>
           ) : (
