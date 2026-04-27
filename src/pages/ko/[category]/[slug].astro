@@ -321,6 +321,29 @@ function resolveWikilinks(md: string) {
   );
 }
 
+function resolveFootnotes(md: string) {
+  if (!md) return { content: md, footnotes: [] };
+
+  const footnotes: { id: string; content: string }[] = [];
+  let mainContent = md;
+
+  // 1. Extract footnote definitions: [^1]: content
+  mainContent = mainContent.replace(
+    /^\[\^([^\]]+)\]:\s*(.+)$/gm,
+    (_, id, content) => {
+      footnotes.push({ id, content: marked.parseInline(content) as string });
+      return ''; // Remove from main content
+    },
+  );
+
+  // 2. Replace footnote markers: [^1]
+  mainContent = mainContent.replace(/\[\^([^\]]+)\]/g, (_, id) => {
+    return `<sup id="fnref:${id}"><a href="#fn:${id}" class="footnote-ref">${id}</a></sup>`;
+  });
+
+  return { content: mainContent, footnotes };
+}
+
 const renderer = new marked.Renderer();
 
 renderer.heading = ({ text, depth }) => {
@@ -347,7 +370,10 @@ renderer.image = ({ href, title, text }) => {
   return `<img src="${href}" alt="${text || ''}"${titleAttr} loading="lazy" onerror="this.onerror=null;this.classList.add('img-broken')" />`;
 };
 
-const processedContent = marked.parse(resolveWikilinks(content), {
+const { content: contentWithFootnotes, footnotes: extractedFootnotes } =
+  resolveFootnotes(resolveWikilinks(content));
+
+const processedContent = marked.parse(contentWithFootnotes, {
   renderer,
   breaks: true,
 }) as string;
@@ -461,6 +487,29 @@ const encodedTitle = encodeURIComponent(title);
 
         <!-- Prose body -->
         <div class="prose" set:html={processedContent} />
+
+        <!-- Footnotes Section -->
+        {
+          extractedFootnotes.length > 0 && (
+            <section class="footnotes">
+              <h2 class="sr-only">Footnotes</h2>
+              <ol>
+                {extractedFootnotes.map((fn) => (
+                  <li id={`fn:${fn.id}`}>
+                    <span set:html={fn.content} />
+                    <a
+                      href={`#fnref:${fn.id}`}
+                      class="footnote-backref"
+                      aria-label="Back to content"
+                    >
+                      ↩
+                    </a>
+                  </li>
+                ))}
+              </ol>
+            </section>
+          )
+        }
 
         <!-- Sources -->
         {
@@ -1104,5 +1153,115 @@ const encodedTitle = encodeURIComponent(title);
     border: none;
     border-top: 1.5px solid rgba(26, 60, 52, 0.1);
     margin: 3rem 0;
+  }
+
+  /* ── Footnotes ──────────────────────────────────────────────────────────── */
+
+  /* Footnote section (文末 section.footnotes) */
+  :global(.footnotes) {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #e5e7eb;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #6b7280;
+  }
+
+  /* Target offset to prevent header overlap */
+  :global(.footnotes li:target) {
+    scroll-margin-top: 120px;
+    background-color: rgba(37, 99, 235, 0.05);
+    border-radius: 0.375rem;
+  }
+
+  :global(sup:target) {
+    scroll-margin-top: 150px;
+  }
+
+  :global(.footnotes ol) {
+    padding-left: 1.5rem;
+    margin: 0;
+  }
+
+  :global(.footnotes li) {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+    padding: 0.25rem 0.5rem;
+    transition: background-color 0.3s;
+  }
+
+  :global(.footnotes li p) {
+    display: inline;
+    margin: 0;
+    color: #6b7280;
+  }
+
+  :global(.footnotes a) {
+    color: #6b7280;
+    text-decoration: underline;
+    text-decoration-color: rgba(107, 114, 128, 0.4);
+    text-underline-offset: 2px;
+  }
+  :global(.footnotes a:hover) {
+    color: #374151;
+    text-decoration-color: #6b7280;
+  }
+
+  /* Inline superscript footnote reference */
+  .prose :global(sup) {
+    line-height: 0; /* don't affect line-height */
+    font-size: 0.75em;
+    vertical-align: super;
+  }
+
+  .prose :global(.footnote-ref) {
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: none;
+    padding: 0 0.05em;
+    transition:
+      color 0.15s,
+      text-decoration-color 0.15s;
+  }
+  .prose :global(.footnote-ref:hover) {
+    color: #1d4ed8;
+    text-decoration: underline;
+    text-decoration-color: #2563eb;
+  }
+
+  /* Back-arrow (↩) */
+  .prose :global(.footnote-backref) {
+    margin-left: 0.35em;
+    color: #9ca3af;
+    font-size: 0.9em;
+    text-decoration: none;
+    border-bottom: none;
+    transition: color 0.15s;
+  }
+  .prose :global(.footnote-backref:hover) {
+    color: #6b7280;
+    text-decoration: none;
+  }
+
+  /* Mobile: bigger tap targets */
+  @media (max-width: 768px) {
+    .prose :global(.footnote-ref) {
+      padding: 0.5rem 0.3rem;
+      margin: -0.5rem -0.3rem;
+    }
+    .prose :global(.footnote-backref) {
+      padding: 0.5rem 0.4rem;
+      margin: -0.5rem -0.4rem;
+      display: inline-block;
+      min-width: 44px;
+      min-height: 44px;
+      line-height: 44px;
+      text-align: center;
+    }
+    .prose :global(.footnotes) {
+      margin-left: -0.25rem;
+      margin-right: -0.25rem;
+    }
   }
 </style>
