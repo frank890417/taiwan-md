@@ -6,6 +6,12 @@ display:
   china: 信息化
 etymology:
   origin: 指將各種業務流程轉為數位資訊系統的過程。
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: "信息化的"
+      note: "policy 文獻引用（中性形容歷史過程）"
 notes: ''
 sources:
   - manual

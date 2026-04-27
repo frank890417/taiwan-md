@@ -23,6 +23,9 @@ usage:
   exceptions: "描述中國平台時可保留：「抖音短視頻」"
 
 status: stable
+
+detection:
+  severity: A
 notes: |
   2020s 台灣年輕世代接觸「視頻」（抖音影響），但尚未取代「影片」。
   台灣本土替代詞「短影音」已成主流。

@@ -18,6 +18,9 @@ usage:
   taiwan_casual: true
   exceptions: ''
 status: stable
+
+detection:
+  severity: A
 notes: 這是「資料」vs「數據」分歧的延伸。台灣資訊業文件寫「資料庫管理系統（DBMS）」，中國寫「數據庫管理系統」。
 sources:
   - 藍光濾波研究所 C2T 詞庫

@@ -3,7 +3,7 @@
 
 id: ""                    # 英文 slug（用於程式化）
 category: ""              # daily / education / tech / media / business / transport / culture / names / internet
-fork_type: ""             # A / B / C / D / E / F
+fork_type: ""             # A / B / C / D / E / F / semantic / orthographic
 
 display:
   taiwan: ""              # 台灣用語（Taiwan.md 呈現標準）
@@ -18,7 +18,7 @@ etymology:
   taiwan_path: ""         # 台灣演化路徑
   china_path: ""          # 中國演化路徑
   fork_point: ""          # 分歧時間點（~1950s / ~2000s / ~2015s）
-  fork_cause: ""          # 分歧原因（語言政策 / 網路平台 / 日語遺產 / ...）
+  fork_cause: ""          # 分歧原因(語言政策 / 網路平台 / 日語遺產 / ...）
 
 usage:
   taiwan_formal: true     # 台灣正式書寫是否使用
@@ -26,6 +26,18 @@ usage:
   exceptions: ""          # 例外情境（如「質量」物理用法）
 
 status: "stable"          # stable（已穩定）/ shifting（正在變化）/ emerging（新興）
+
+# === detection（選填）===
+# quality-scan.sh 偵測規則。「無 detection 區塊 = 不偵測」（保守 opt-in）。
+# 每個詞條若想被 quality-scan 偵測，需明確加上 detection 區塊。
+# 詳細 schema 見 README.md §detection schema。
+#
+# detection:
+#   severity: A           # A=紅燈（必換，計入 quality-scan 分數）
+#                         # B=黃燈（提示但不計分，給作者自行判斷上下文）
+#   false_positives:      # 選填：列出含 china 字串但實際是台灣合法用法的 pattern
+#     - pattern: ""       # 文章中的 false positive 字串（必填）
+#       note: ""          # 簡短說明（選填）
 
 notes: ""                 # 補充說明
 

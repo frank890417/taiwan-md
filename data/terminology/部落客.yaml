@@ -26,6 +26,9 @@ usage:
   exceptions: |
     「YouTuber」「Podcaster」「網紅」等新媒體人稱在台灣也廣泛使用， 「部落客」現在特指以長文部落格為主要創作形式的創作者， 與社群媒體的「網紅」有區別。
 status: stable
+
+detection:
+  severity: A
 notes: |
   「部落客」vs「博主」是台灣在地網路用語最典型的案例之一， 在文章中看到「博主」幾乎是中國來源的明確標誌。 注意：「網紅」（internet celebrity）在台灣已廣泛使用， 部分取代了「部落客」的使用頻率。
 sources:

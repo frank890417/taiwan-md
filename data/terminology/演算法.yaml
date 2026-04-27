@@ -40,6 +40,16 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: B
+  false_positives:
+    - pattern: "演算法"
+      note: "台灣正確用語「演算法」含「算法」字串"
+    - pattern: "貪婪演算法"
+      note: "演算法子類別"
+    - pattern: "貪心算法"
+      note: "貪心演算法另一寫法（仍為台灣語境）"
+
 notes: >
   「演算法 vs 算法」在AI和電腦科學報導中是最直接的台灣/中國來源辨識指標。
   台灣科技媒體（科技報橘TechOrange、數位時代等）所有相關報導均使用「演算法」。

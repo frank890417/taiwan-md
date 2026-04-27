@@ -41,6 +41,9 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: A
+
 notes: >
   「瓦斯」是台灣日語借詞保存最完整的例子之一，展示了日荷英多層借詞路徑。
   在台灣看到「煤氣」幾乎確定是來自中國來源的文本。

@@ -13,6 +13,9 @@ etymology:
   china_path: 中國用法
   fork_point: ""
 
+
+detection:
+  severity: A
 notes: ""
 
 sources:

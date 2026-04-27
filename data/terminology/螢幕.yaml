@@ -42,6 +42,9 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: A
+
 notes: >
   「螢幕 vs 屏幕」是辨識台灣/中國科技文章的高可靠度指標。
   台灣所有主要科技媒體（電腦玩物、T客邦、數位時代等）均使用「螢幕」。

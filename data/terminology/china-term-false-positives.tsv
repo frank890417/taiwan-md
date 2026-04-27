@@ -1,17 +1,19 @@
 # china-term-false-positives.tsv
+#
+# ⚠️ DEPRECATED — Issue #616 解三層脫節後，此檔已不再被 quality-scan.sh 讀取
+# ⚠️ 規則已搬入對應 YAML 的 detection.false_positives 區塊（data/terminology/*.yaml）
+# ⚠️ quality-scan.sh 現讀 generated TSV: data/terminology/.china-terms.false-positives.tsv
+#
+# 此檔保留作為遷移歷史記錄（git history reference）。未來新增 false_positive
+# 應在對應的 YAML 詞條（譬如 部落格.yaml）內加 detection.false_positives，
+# 不再修改本檔。詳見 data/terminology/README.md §detection schema。
+#
 # Format: <china_term>\t<false_positive_pattern>\t<note>
-# 任何在文章中出現「china_term」的計數，會扣除「false_positive_pattern」的計數
-# 同一個 china_term 可有多筆 false-positive pattern（多列）
-# 任何 contributor 遇到偽陽性可直接 PR 加一行，不用改 quality-scan.sh code
 # Lines starting with # are comments and ignored.
 #
 # 觸發背景：2026-04-23 #597 @notoriouslab 報告「博客來」被誤判為「博客」
 # 設計來源：#597 方案 2（@notoriouslab 提案 + @Zaious + @frank890417 一致同意）
-#
-# Schema 欄位（tab-separated）：
-#   1. china_term       : quality-scan.sh 偵測到的中國用語
-#   2. false_pos_pattern: 文章中包含 china_term 但實際是台灣正確用語的 pattern
-#   3. note             : 簡短說明（≥ 5 字）
+# 遷移完成：2026-04-28 #616 by @Zaious（schema 重構為 YAML SSOT）
 #
 # ────────────────────────────────────────────────────────────────────
 博客	博客來	書店通路品牌名，含「博客」字串但非中國用語

@@ -40,6 +40,14 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: B
+  false_positives:
+    - pattern: "網絡層"
+      note: "OSI 七層模型「網絡層」是電腦科學標準術語"
+    - pattern: "類神經網絡"
+      note: "專業術語含「網絡」字串"
+
 notes: >
   「網路」是台灣最穩定的在地用語之一，從小學電腦課到科技媒體報導
   高度一致。年輕世代雖接觸大量中國內容，「網路」的使用仍相當穩定。

@@ -13,6 +13,14 @@ etymology:
   china_path: 中國用法
   fork_point: ""
 
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: "高清愿"
+      note: "人名高清愿（裕隆集團創辦人之一），含「高清」字串"
+    - pattern: "清高"
+      note: "「高潔的人」，"高""清" 倒序組合"
 notes: ""
 
 sources:

@@ -23,6 +23,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: 「伺服器」是台灣 IT 業的標準術語，見於所有技術文件。在中國對應「服務器」。兩詞對照是兩岸資訊技術文件互通的常見障礙。
 
 sources:

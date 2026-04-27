@@ -1,0 +1,16 @@
+id: "ditiezhan"
+category: tech
+fork_type: B
+
+display:
+  taiwan: "捷運站"
+  china: "地鐵站"
+
+notes: >
+  「地鐵站」為中國對軌道運輸車站的標準稱呼。台灣使用「捷運站」（捷運 = MRT 大眾捷運）。
+
+detection:
+  severity: A
+
+added: "2026-04-28"
+updated: "2026-04-28"

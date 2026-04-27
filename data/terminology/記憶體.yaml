@@ -44,6 +44,9 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: A
+
 notes: >
   「記憶體 vs 內存」是辨識台灣/中國技術文章最可靠的指標之一。
   台灣任何正式的電腦技術文章、產品規格、評測報告均使用「記憶體」。

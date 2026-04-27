@@ -22,6 +22,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: |
   台灣用「體」、中國用「件」，是兩岸電腦術語最系統性的分歧之一。
   延伸：硬體/硬件、韌體/固件、程式/程序、檔案/文件。

@@ -41,6 +41,14 @@ usage:
 
 status: "stable"
 
+detection:
+  severity: A
+  false_positives:
+    - pattern: "老鼠"
+      note: "單純含「鼠」字"
+    - pattern: "標記"
+      note: "單純含「標」字（無「鼠標」連用）"
+
 notes: >
   「滑鼠」是台灣使用一致性極高的電腦術語，幾乎不存在例外。
   香港也使用「滑鼠」，與台灣一致，反映了繁體中文圈的共同趨勢。

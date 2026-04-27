@@ -1,0 +1,16 @@
+id: "youpan"
+category: tech
+fork_type: B
+
+display:
+  taiwan: "隨身碟"
+  china: "優盤"
+
+notes: >
+  「優盤」是中國對 USB 隨身碟的另一稱呼（「U盤」之外的別名）。台灣統一使用「隨身碟」。
+
+detection:
+  severity: A
+
+added: "2026-04-28"
+updated: "2026-04-28"

@@ -414,47 +414,54 @@ scan_file() {
   fi
 
   # ── 15. CHINA-TERM（中國用語偵測）──
-  # 從 data/terminology/ YAML 萃取 A 類必換詞 + 硬編碼常見詞
-  # False-positive 排除清單從 data/terminology/china-term-false-positives.tsv 讀
-  # （2026-04-25 #597 方案 2：external TSV，contributor 可直接 PR 加 false-positive 不用改 code）
-  local china_terms=(
-    "視頻" "質量" "軟件" "硬件" "博主" "博客" "點贊" "互聯網"
-    "內存" "人工智能" "操作系統" "數據庫" "信息化" "服務器" "算法"
-    "屏幕" "打印機" "網絡" "盒飯" "出租車" "鼠標" "硬盤" "寬帶"
-    "U盤" "優盤" "移動端" "公交車" "地鐵站" "煤氣" "高清" "下載量"
-  )
-  local fp_file="data/terminology/china-term-false-positives.tsv"
-  local china_hits=0
+  # 從 data/terminology/*.yaml 的 detection 區塊產生 generated TSV：
+  #   .china-terms.detection.tsv         偵測詞表（cterm, severity, taiwan, fork_type）
+  #   .china-terms.false-positives.tsv   偽陽性表（cterm, pattern, note）
+  # severity A = 紅燈（必換，計入 quality-scan 分數）
+  # severity B = 黃燈（可能歧義，列出但不計分，給作者自行判斷上下文）
+  # 「無 detection 區塊 = 不偵測」（保守 opt-in，避免大量未驗證的新 flag）
+  # 詳見 data/terminology/README.md §detection schema、Issue #616
+  local detection_file="data/terminology/.china-terms.detection.tsv"
+  local fp_file="data/terminology/.china-terms.false-positives.tsv"
+  local china_hits=0     # 紅燈累積（計分）
+  local yellow_hits=0    # 黃燈累積（不計分，純提示）
   local china_found=""
-  for cterm in "${china_terms[@]}"; do
-    local count
-    count=$(grep -c "$cterm" "$f" 2>/dev/null) || count=0
-    if [[ $count -gt 0 ]]; then
-      # 扣除已知台灣用語包含中國用語子字串的偽陽性
-      # 例：「算法」誤判台灣正確用語「演算法」
-      # 例：「博客」誤判書店品牌「博客來」
-      local false_pos
-      false_pos=0
-      if [[ -f "$fp_file" ]]; then
-        # TSV format: cterm\tpattern\tnote
-        # 對每筆 cterm 配對的 pattern 累加扣除
-        while IFS=$'\t' read -r tsv_cterm tsv_pattern _; do
-          [[ "$tsv_cterm" =~ ^# ]] && continue
-          [[ -z "$tsv_cterm" ]] && continue
-          if [[ "$tsv_cterm" == "$cterm" ]]; then
-            local fp_count
-            fp_count=$(grep -c "$tsv_pattern" "$f" 2>/dev/null) || fp_count=0
-            false_pos=$((false_pos + fp_count))
-          fi
-        done < "$fp_file"
-      fi
-      count=$((count - false_pos))
+  local yellow_found=""
+  if [[ -f "$detection_file" ]]; then
+    # TSV format: cterm\tseverity\ttaiwan\tfork_type
+    while IFS=$'\t' read -r cterm severity _taiwan _fork; do
+      [[ "$cterm" =~ ^# ]] && continue
+      [[ -z "$cterm" ]] && continue
+      local count
+      count=$(grep -c "$cterm" "$f" 2>/dev/null) || count=0
       if [[ $count -gt 0 ]]; then
-        china_hits=$((china_hits + count))
-        china_found="${china_found}${cterm}(${count}) "
+        # 扣除偽陽性（譬如「博客」誤判書店「博客來」、「算法」誤判「演算法」）
+        local false_pos=0
+        if [[ -f "$fp_file" ]]; then
+          while IFS=$'\t' read -r fp_cterm fp_pattern _; do
+            [[ "$fp_cterm" =~ ^# ]] && continue
+            [[ -z "$fp_cterm" ]] && continue
+            if [[ "$fp_cterm" == "$cterm" ]]; then
+              local fp_count
+              fp_count=$(grep -c "$fp_pattern" "$f" 2>/dev/null) || fp_count=0
+              false_pos=$((false_pos + fp_count))
+            fi
+          done < "$fp_file"
+        fi
+        count=$((count - false_pos))
+        if [[ $count -gt 0 ]]; then
+          if [[ "$severity" == "A" ]]; then
+            china_hits=$((china_hits + count))
+            china_found="${china_found}${cterm}(${count}) "
+          elif [[ "$severity" == "B" ]]; then
+            yellow_hits=$((yellow_hits + count))
+            yellow_found="${yellow_found}${cterm}(${count}) "
+          fi
+        fi
       fi
-    fi
-  done
+    done < "$detection_file"
+  fi
+  # 紅燈計分（行為跟舊版一致）
   if [[ $china_hits -ge 5 ]]; then
     score=$((score + 3))
     reasons="${reasons}中國用語×${china_hits}[${china_found}] "
@@ -464,6 +471,10 @@ scan_file() {
   elif [[ $china_hits -ge 1 ]]; then
     score=$((score + 1))
     reasons="${reasons}中國用語×${china_hits}[${china_found}] "
+  fi
+  # 黃燈不計分，純提示（給作者自行判斷上下文）
+  if [[ $yellow_hits -ge 1 ]]; then
+    reasons="${reasons}⚠️可能歧義×${yellow_hits}[${yellow_found}] "
   fi
 
   # ── 16. CITATION-DESERT（引用荒漠：無正式腳註）──

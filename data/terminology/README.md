@@ -17,6 +17,65 @@
 | D | 台客語底層 | 台語/客語影響台灣華語 | 呷飯、阿莎力 |
 | E | 正在分歧中 | 年輕世代開始使用，尚未穩定 | 人設、躺平 |
 | F | 同詞不同語感 | 同詞但使用頻率/語境不同 | 領導、水平 |
+| semantic | 語義差異 | 同字但意義或範疇不同 | — |
+| orthographic | 字形差異 | 簡繁/異體字 | — |
+
+## detection schema（quality-scan 偵測 opt-in）
+
+YAML 詞條若想被 `quality-scan.sh` 偵測，需在 YAML 加 `detection` 區塊（**選填**）。
+「無 detection 區塊 = 不偵測」（保守 opt-in 設計，見 [Issue #616](https://github.com/frank890417/taiwan-md/issues/616)）。
+
+### 雙重警報機制（紅燈 / 黃燈）
+
+| severity | 名稱 | 行為 |
+|----------|------|------|
+| **A** | 紅燈 | 明確中國用語，計入 quality-scan 分數，作者必修 |
+| **B** | 黃燈 | 可能歧義（譬如「質量」既是中國用語也是物理術語），列出但**不計分**，給作者自行判斷上下文 |
+
+### 範例
+
+**紅燈（明確中國用語，無 polysemy）：**
+
+```yaml
+display:
+  taiwan: "影片"
+  china: "視頻"
+fork_type: C
+
+detection:
+  severity: A
+```
+
+**黃燈（有專業領域合法用法）：**
+
+```yaml
+display:
+  taiwan: "演算法"
+  china: "算法"
+fork_type: B
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: "演算法"
+      note: "台灣正確用語含「算法」字串"
+    - pattern: "貪婪演算法"
+      note: "演算法子類別"
+```
+
+### 工作流程
+
+1. **修詞條時順手加 `detection` 區塊**（如該詞值得 quality-scan 偵測）
+2. **跑** `python3 scripts/core/extract-china-terms.py` 產生 generated TSV
+3. **prebuild 自動觸發** — `npm run prebuild` 含 `prebuild:china-terms`
+4. **quality-scan.sh 讀** `data/terminology/.china-terms.detection.tsv` 跟 `.china-terms.false-positives.tsv`
+
+### Generated 檔案（不要手動編輯）
+
+- `data/terminology/.china-terms.detection.tsv` — 詞表（cterm, severity, taiwan, fork_type）
+- `data/terminology/.china-terms.false-positives.tsv` — 偽陽性表（cterm, pattern, note）
+
+兩個檔由 `scripts/core/extract-china-terms.py` 自動產生。
 
 ## 分類
 

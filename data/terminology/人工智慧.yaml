@@ -21,6 +21,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: |
   「人工智慧 vs 人工智能」是兩岸科技詞彙差異最具代表性的案例，也是判斷科技文章語源的快速指標，此差異延伸到所有「智慧/智能」相關詞彙。
 

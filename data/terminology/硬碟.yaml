@@ -23,6 +23,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: 「碟」vs「盤」是台灣與中國資訊技術命名最系統化的分歧之一，延伸至光碟/光盤、軟碟/軟盤、磁碟/磁盤等一整套詞彙。
 
 sources:

@@ -23,6 +23,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: 兩詞技術含義相同，僅選字不同。台灣電信業文件、NCC 法規均採「寬頻」。中國工信部文件採「寬帶」。
 
 sources:

@@ -18,6 +18,9 @@ usage:
   taiwan_casual: true
   exceptions: 台灣也有人說『USB』但不說『U盤』
 status: stable
+
+detection:
+  severity: A
 notes: 三地說法各異：台灣「隨身碟」、中國「U盤」、香港「USB手指」，是現代科技詞彙兩岸三地命名分歧的最佳範本。
 sources:
   - 藍光濾波研究所 C2T 詞庫

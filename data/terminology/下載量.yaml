@@ -6,6 +6,9 @@ display:
   china: 下載量
 etymology:
   origin: 指軟體或檔案被下載的次數，台灣較常說下載次數。
+
+detection:
+  severity: A
 notes: ''
 sources:
   - manual

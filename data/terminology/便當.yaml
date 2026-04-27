@@ -23,6 +23,9 @@ usage:
   exceptions: ""
 
 status: stable
+
+detection:
+  severity: A
 notes: |
   「便當」是台灣日語借詞最經典的案例之一。
   在台灣，「便當」不只是食物名稱，更承載鐵路旅行、學校午餐、工地文化等集體記憶。

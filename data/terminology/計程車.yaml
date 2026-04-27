@@ -18,6 +18,9 @@ usage:
   taiwan_casual: true
   exceptions: 香港「的士」為粵語音譯 taxi
 status: stable
+
+detection:
+  severity: A
 notes: |
   同一事物三種翻譯邏輯：
   台灣看「怎麼收費」→ 計程車

@@ -15,6 +15,7 @@
     "prebuild:changelog": "node scripts/core/generate-changelog-data.js",
     "prebuild:contributors": "node scripts/core/generate-contributors-data.js",
     "prebuild:supporters": "node scripts/core/generate-supporters-data.js",
+    "prebuild:china-terms": "python3 scripts/core/extract-china-terms.py --quiet",
     "prebuild:og": "node scripts/core/generate-og-images.mjs",
     "build": "astro build",
     "test": "node scripts/core/test-frontmatter.mjs",

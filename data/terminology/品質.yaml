@@ -23,6 +23,16 @@ usage:
   exceptions: "物理學 mass → 台灣也用「質量」"
 
 status: stable
+
+detection:
+  severity: B
+  false_positives:
+    - pattern: "質量單位"
+      note: "物理學術語（國際單位制的 mass）"
+    - pattern: "質量守恆"
+      note: "物理定律"
+    - pattern: "質量數"
+      note: "化學術語（atomic mass number）"
 notes: 台灣的「品質」保留了日語漢字直譯傳統。中國「質量」一詞雙義常見混淆。
 
 sources:

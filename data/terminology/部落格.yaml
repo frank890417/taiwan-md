@@ -13,6 +13,12 @@ etymology:
   china_path: 中國用法
   fork_point: ""
 
+
+detection:
+  severity: A
+  false_positives:
+    - pattern: "博客來"
+      note: "書店通路品牌名，含「博客」字串但非中國用語"
 notes: ""
 
 sources:
