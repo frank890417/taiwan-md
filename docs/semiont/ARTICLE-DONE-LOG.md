@@ -57,6 +57,8 @@
 - **Stage 3.5 FACTCHECK Quick Mode**：5 條 dead-link 修補（[^10] [^15] [^17] [^19] [^26]）+ 1 條 redirect 修補（[^6] INSIDE article 3793 已換內容）→ 36/36 PASS / 0 dead / 0 redirect
 - **Stage 5 cross-link**：2 個 sibling 反向回補（社會運動與公民參與 / 台灣新媒體藝術）；台灣獨立音樂 defer（既有 12 個 broken wikilink legacy 阻擋 pre-commit hook，留 follow-up 一併修補）
 
+### 蔡健雅 NEW — 2026-04-28 κ 完成（四度金曲歌后，新加坡人怎麼把台灣變成主場）
+
 - **Article**: [knowledge/People/蔡健雅.md](../../knowledge/People/蔡健雅.md)
 - **Commit**: `5030f5d6` — REWRITE-PIPELINE NEW 模式
 - **核心矛盾**：新加坡身分證、台灣戶籍、英文母語的女歌手，唯獨在台灣樂壇拿下四度金曲歌后
