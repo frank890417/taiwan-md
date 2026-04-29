@@ -42,6 +42,20 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 海底電纜 NEW — 2026-04-29 α 完成（矽盾頂上看得到，命脈底下看不見 / Technology）
+
+- **Article**: [knowledge/Technology/海底電纜.md](../../knowledge/Technology/海底電纜.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式，全 Stage 0-6（跳過 Stage 4.5 媒體插入：海纜地圖 / 維修船照片授權需個別申請，待後 polish）
+- **觸發**：α session 觀察者「繼續深度研究跟走 rewrite-pipeline 寫海底電纜」（今日加入 P0 三條收官第三條）
+- **核心矛盾**：「矽盾頂上看得到，命脈底下看不見」（17 字 / agent 推薦候選 b，呼應策展抓手）
+- **Hook**：「506 大樓沒有路標」 — 從台東大武 506 大樓低調竣工切入，揭穿台灣 14 條國際海纜的物理隱形性
+- **8 scene 非編年體**：「506 大樓」沒有路標 / 頭髮粗的玻璃，扛起 2,300 萬人的對外 / 馬祖人的 LINE 走 15 分鐘 / 多哥籍、香港股、福建船員、台灣海床 / 中國想繞過台灣，發現繞不過去 / 高速公路炸了，西濱跟產業道路救不了 / 一艘船 22 天，一艘船日租 80 萬 / 矽盾的另一半，或者——軟肋 / 海纜七法、宏泰 58 司法首例、與一條 4 個月 23 天
+- **品質**：49 footnote / ~6,800 字 / §11 violations 0 / format-check ✅ all green / footnote URL 44/49 alive 5 redirect 0 dead / 破折號 18（≤20 / 1500 字 門檻 = 30,553 / 1500 ≈ 20）/ 對位句型 0 處
+- **Stage 1 研究**：spawn general-purpose agent → 22 WebSearch + 7 WebFetch / 落檔 [reports/research/2026-04/海底電纜.md](../../reports/research/2026-04/海底電纜.md) 781 行 / 14 條 verbatim 直接引語表 / 完整反例 §10 §11（自然災害 vs 蓄意 / 國際對照 / 矽盾隱喻限制）
+- **Stage 1.5 自主拍板**（觀察者授權「直接深度研究跟走 rewrite-pipeline」）：(1) 採用 agent 推薦核心矛盾 (b)；(2) 50 天破題 + 4 個月 23 天反轉 雙數字編劇結構；(3) §10「矽盾隱喻的限制」反駁段，避免變成中國威脅論宣傳；(4) hero 圖延後到 Stage 4.5 polish（TeleGeography 截圖 fair use 邊緣，需慎判）
+- **Stage 3.5 FACTCHECK Quick Mode**：2 條 dead-link 修補（[^5] UDN 文章已下架 → 改 Rest of World 同主題深度報導；[^27] Diplomat 403 → 改 Submarine Networks PLCN 主條目）→ 0 dead / 5 redirect / 0 timeout
+- **Stage 5 cross-link**：4 個 sibling 反向回補（報導者 / 社會運動與公民參與 / 台灣新媒體藝術 / justfont 與台灣字體發展）
+
 ### justfont 與台灣字體發展 NEW — 2026-04-29 α 完成（從華康廿五年到金萱七十六分鐘的字型小史 / Technology）
 
 - **Article**: [knowledge/Technology/justfont與台灣字體發展.md](../../knowledge/Technology/justfont與台灣字體發展.md)
