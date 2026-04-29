@@ -42,6 +42,128 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 蔡健雅 NEW — 2026-04-28 κ 完成（四度金曲歌后，新加坡人怎麼把台灣變成主場）
+
+- **Article**: [knowledge/People/蔡健雅.md](../../knowledge/People/蔡健雅.md)
+- **Commit**: `5030f5d6` — REWRITE-PIPELINE NEW 模式
+- **核心矛盾**：新加坡身分證、台灣戶籍、英文母語的女歌手，唯獨在台灣樂壇拿下四度金曲歌后
+- **觸發**：κ session R12（觀察者 trigger 線性執行 12 輪之 1）
+
+### 台灣宗教信仰整併 EVOLVE — 2026-04-28 κ 完成（在恐懼裡長出的信仰帝國 / Issue #655 三篇整併為一篇深度文章）
+
+- **Article**: [knowledge/Culture/台灣宗教與寺廟文化.md](../../knowledge/Culture/台灣宗教與寺廟文化.md)（canonical 主稿）
+- **Commit**: `87911554` — REWRITE-PIPELINE EVOLVE + §整併變體 Step A-E（3 篇 zh-TW + 4 篇翻譯整併為 1 篇 + 5 lang redirect × 9 條）
+- **整併規模**：archive 9 個檔案、保留 1 篇主稿、淨刪 ~3,550 行
+- **核心反直覺**：「全世界廟宇密度最高、宗教自由排名亞洲第二的島嶼，最大宗的兩個信仰歷史起源都跟瘟疫和死亡有關」
+- **8 scene 非編年體**：保安宮屋頂 / 一萬五千座廟 / 大甲媽祖 9 天 8 夜 / 三教共用一座屋頂 / 一貫道戰後第一個合法化的非法宗教 / 戰後新興佛教四大山頭 / 馬雅各 + 馬偕 + 1977 人權宣言 / 從恐懼到自由
+- **品質**：45 footnote / ~5,500 字 / format-check 7 維度全 PASS
+- **新事實校正**：中台禪寺正式落成 2001 年（非舊文 1994）+ 慈濟「68 國志工 / 136 國救助」（非舊文 1000 萬會員）
+- **Research**: [reports/research/2026-04/台灣宗教信仰.md](../../reports/research/2026-04/台灣宗教信仰.md)（362 行 / 三類劃分 A 主稿 95% 保留 + B 11 條 [MERGE-IN] + C 16 條 [MERGE-IN]）
+
+### 台灣邦交國與國際外交 EVOLVE — 2026-04-28 κ 完成（12 vs 113 vs 177 三層張力 / 2026 全更新）
+
+- **Article**: [knowledge/Society/台灣邦交國與國際外交.md](../../knowledge/Society/台灣邦交國與國際外交.md)
+- **Commit**: `ed7dc86e` — REWRITE-PIPELINE EVOLVE
+- **核心張力**：12 個邦交國 vs 113 個海外據點 vs 177 個免簽或落地簽目的地
+- **2026 全更新**：諾魯斷交 / 史瓦帝尼路線 / 矽盾敘事 / UN 2758 認知作戰
+- **後續 spore**：2026-04-29 α 哲宇接力發出護照悖論孢子（commit `81cf9dfa` + `9b1f8287`）
+
+### 臺灣大百科全書 NEW — 2026-04-28 κ 完成（五億元國家級知識夢的範式轉移 / PR #672）
+
+- **Article**: [knowledge/Society/臺灣大百科全書.md](../../knowledge/Society/臺灣大百科全書.md)
+- **Commit**: `3c1ad46b` — REWRITE-PIPELINE NEW（idlccp1984 PR #672 batch + polish）
+- **核心矛盾**：國家斥資五億元打造的中央集權式百科夢，最終被一群陌生人在 Wikipedia 共同寫的條目超越
+- **角度**：知識生產從「機構認證」轉向「群眾自發」的範式轉移
+
+### 蔣渭水 NEW — 2026-04-28 κ 完成（〈臨床講義〉診斷殖民地病灶的醫者 / PR #671）
+
+- **Article**: [knowledge/People/蔣渭水.md](../../knowledge/People/蔣渭水.md)
+- **Commit**: `1da889d6` — REWRITE-PIPELINE NEW（idlccp1984 PR #671 batch + polish）
+- **核心矛盾**：用醫師的診斷書語法寫政治宣言的人——〈臨床講義〉把整個台灣社會當病人，開出 1921 年的處方箋
+
+### 賴和 NEW — 2026-04-28 κ 完成（穿著本島衫的彰化媽祖 / PR #670）
+
+- **Article**: [knowledge/People/賴和.md](../../knowledge/People/賴和.md)
+- **Commit**: `205b7c87` — REWRITE-PIPELINE NEW（idlccp1984 PR #670 batch + polish）
+- **核心矛盾**：彰化人替彰化人寫病歷、寫小說、寫坐牢日記的醫師——「彰化媽祖」是病人替醫師取的名字
+
+### 競技疊杯 NEW — 2026-04-28 κ 完成（從 1.915 秒網拍潮物到橫掃亞洲的 43 金傳奇 / PR #668）
+
+- **Article**: [knowledge/Society/競技疊杯.md](../../knowledge/Society/競技疊杯.md)
+- **Commit**: `1e9ef23f` — REWRITE-PIPELINE NEW（idlccp1984 PR #668 batch + polish）
+- **核心矛盾**：一個曾經被歸類成兒童遊戲的小眾運動，被台灣選手在亞洲賽事拿下 43 面金牌
+
+### 蘇巧慧 NEW — 2026-04-28 κ 完成（從美麗島辯護律師之女到 16 度優秀立委的細節控 / PR #667）
+
+- **Article**: [knowledge/People/蘇巧慧.md](../../knowledge/People/蘇巧慧.md)
+- **Commit**: `e608ff3e` — REWRITE-PIPELINE NEW（idlccp1984 PR #667 batch + polish）
+- **核心矛盾**：父親是美麗島大審辯護律師的二女兒，最後選的不是父親那條街頭路線，而是條文細節裡的逐字審議
+
+### 蘇貞昌 NEW — 2026-04-28 κ 完成（從美麗島辯護律師到衝衝衝的電火球閣揆 / PR #666）
+
+- **Article**: [knowledge/People/蘇貞昌.md](../../knowledge/People/蘇貞昌.md)
+- **Commit**: `1ea63cdd` — REWRITE-PIPELINE NEW（idlccp1984 PR #666 batch + polish）
+- **核心矛盾**：美麗島大審辯護律師、屏東縣長、台北縣長、行政院長，「衝衝衝」三個字成了他四十年從黨外街頭走到內閣大樓的速度標記
+
+### 阿婆鐵蛋 NEW — 2026-04-28 κ 完成（從渡船頭海腳大飯店到淡水最硬的集體記憶 / PR #664）
+
+- **Article**: [knowledge/Food/阿婆鐵蛋.md](../../knowledge/Food/阿婆鐵蛋.md)
+- **Commit**: `eebc8fbc` — REWRITE-PIPELINE NEW（idlccp1984 PR #664 batch + polish）
+- **核心矛盾**：一道因為下雨賣不掉、被海風一吹一夜變硬的滷蛋，最後變成淡水代名詞
+
+### 車輪餅 NEW — 2026-04-28 κ 完成（從日治今川燒到萬丹紅豆的台灣認同弧線 / PR #663）
+
+- **Article**: [knowledge/Food/車輪餅.md](../../knowledge/Food/車輪餅.md)
+- **Commit**: `5407b874` — REWRITE-PIPELINE NEW（idlccp1984 PR #663 batch + polish）
+- **核心矛盾**：日治時代從九州傳入的今川燒，戰後改名車輪餅，再被屏東萬丹紅豆收編成本土小吃——同一個鐵盤烤出兩個身分
+
+### 台灣當代文學發展 dropped 處理 — 2026-04-28 完成（Issue #635 Phase 4/4 / A 文退場並 redirect 至台灣文學史）
+
+- **Article**: ~~knowledge/Art/台灣當代文學發展.md~~（已 redirect 至 [台灣文學史](../../knowledge/Art/台灣文學史.md)）
+- **Commit**: `a1f4dd46` — REWRITE-PIPELINE §範圍重切變體 dropped 處理
+- **動作**：A 全景文章內容已被 B/C/D 完整覆蓋，本檔退場並重定向，避免主題重複
+
+### 解嚴後台灣文學 EVOLVE — 2026-04-28 完成（Issue #635 Phase 2/4 / 1987-1999 純化 scope）
+
+- **Article**: [knowledge/Art/解嚴後台灣文學.md](../../knowledge/Art/解嚴後台灣文學.md)
+- **Commit**: `620becfc` — REWRITE-PIPELINE §範圍重切變體 EVOLVE
+- **核心矛盾**：解嚴給的是自由的新形狀，也是新限制——市場 vs 政治、本土 vs 國際、純文學 vs 大眾
+- **8 scene 非編年體**：1987-7-15 戒嚴日彭瑞金 / 朱天心《古都》1997 / 田雅各《最後的獵人》1987 / 朱天文《荒人手記》1994 / 平路《行道天涯》1995 / 林宗源台語詩 / 林榮三文學獎 1989 創立 / 1999 解嚴 12 年文學市場
+- **三類劃分**：保留女性主義浪潮 / 同志文學 / 原住民文學覺醒 / 母語文學復甦 / 都市後現代；吸納彭瑞金 1991 + 《島嶼邊緣》創刊；移除 1983《殺夫》等已被 Phase 1 承擔段落
+
+### 交工樂隊 NEW — 2026-04-27 完成（客家八音 × 反美濃水庫社運 / 四年兩張百大）
+
+- **Article**: [knowledge/Music/交工樂隊.md](../../knowledge/Music/交工樂隊.md)
+- **Commit**: `1e9b2ffb` — REWRITE-PIPELINE NEW（twindiemusic.com batch）
+- **核心矛盾**：1999 年為反美濃水庫運動而組成的客家樂團，四年兩張專輯都進台灣百大專輯榜，主腦林生祥之後成為金曲常客
+- **角度**：台灣公民社會 × 音樂運動的最早完整案例
+
+### 濁水溪公社 NEW — 2026-04-27 完成（A 級 8 腳註 / Stage 3.5+3.6 PASS）
+
+- **Article**: [knowledge/Music/濁水溪公社.md](../../knowledge/Music/濁水溪公社.md)
+- **Commit**: `d2120d8f` — REWRITE-PIPELINE NEW（twindiemusic.com batch）
+- **核心矛盾**：1993 年成立的台語龐克樂團，水晶唱片時代的見證者，歌詞充滿社會批判與農村意象
+- **品質**：A 級 8 腳註，Stage 3.5/3.6 hallucination audit + STORY ATOM AUDIT 全 PASS
+
+### 農村武裝青年 EVOLVE — 2026-04-27 完成（從樂生到田埂 / 用吉他記錄台灣土地的吶喊）
+
+- **Article**: [knowledge/Music/農村武裝青年.md](../../knowledge/Music/農村武裝青年.md)
+- **Commit**: `46b8a7b4` + polish `dac7394c`（修復 §11 Tier-1 對位句型 4 處）— REWRITE-PIPELINE EVOLVE（twindiemusic.com batch）
+- **核心矛盾**：阿達一人民謠組合，從樂生療養院抗爭走到苗栗大埔事件田埂，用吉他記錄土地
+
+### 拍謝少年 NEW — 2026-04-27 完成（台語搖滾旗手二十年）
+
+- **Article**: [knowledge/Music/拍謝少年.md](../../knowledge/Music/拍謝少年.md)
+- **Commit**: `93704df0` + polish `c4dd4684`（§11 對位句型修復 9→2 violations）— REWRITE-PIPELINE NEW（twindiemusic.com batch）
+- **核心矛盾**：2008 年台南起家的三人台語龐克，《家是電影院》《鐵馬英雄》兩度入圍金曲，跟滅火器形成南部台語搖滾雙旗艦
+
+### 當代台灣文學 EVOLVE — 2026-04-27 完成（Issue #635 Phase 3/4 / 修正事實 + 吸納 C+B + 補新作家）
+
+- **Article**: [knowledge/Art/當代台灣文學.md](../../knowledge/Art/當代台灣文學.md)
+- **Commit**: `3846e6f1` + polish `31272c2c`（修復 §11 Tier1 對位句型 + Tier2 重量密度）— REWRITE-PIPELINE §範圍重切變體 EVOLVE
+- **核心矛盾**：當代台灣文學第一次有了國際能見度，內部閱讀人口卻在崩塌
+- **三類劃分**：保留吳明益 / 林奕含 / 甘耀明 / 童偉格 / 黃崇凱 / PTT 與部落格文學；吸納施叔青三部曲（從 C）+ 駱以軍《西夏旅館》（從 B）+ 朱天文朱天心 2000 年後（從 B）；補新作家黃麗群《海邊的房間》/ 賀景濱《去年在阿魯吧》/ 黃崇凱《文藝春秋》
+
 ### 林良 EVOLVE — 2026-04-28 ι 完成（廈門推行員 → 戰後台灣兒童文學奠基者 / 1924-2019 全弧 / 九龍江畔 hook）
 
 - **Article**: [knowledge/People/林良.md](../../knowledge/People/林良.md)

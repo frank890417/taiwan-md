@@ -4,11 +4,22 @@
 > 觀察者指派、agent 建議、Issue 紀錄的未開發主題一律 append 這裡。
 > 每次甦醒或自動心跳時讀本檔 → 知道待辦清單、優先序、誰要求的。
 >
+> 🔴 **完成歸檔鐵律（2026-04-29 α 拉到頂部，原散在 §跟 ARTICLE-DONE-LOG 的分工 / §Auto-heartbeat 整合 / §Distill SOP 三處）**：
+>
+> 任何主題在 Stage 6 commit ship 後，**必須做兩件事**才算結束：
+>
+> 1. **append 完整 entry 到 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) §Log 最頂**（reverse chronological / append-only）
+> 2. **從本檔移除對應 pending entry**（直接刪除整段，不留 pointer 註解 — 歷史視角去 DONE-LOG 查）
+>
+> 違反鐵律的歷史症狀：（a）entry ship 後沒搬 DONE-LOG → 未來甦醒不知道寫過什麼，重複開發；（b）只改 pointer 不刪除 → INBOX 越長越無法讀，pending 視角被歷史污染。**本檔只應該存 pending / in-progress，不應該存任何 done 痕跡**。
+>
 > ⚠️ **書寫警示（2026-04-21 γ 新增）**：新 entry 的 Notes / Pre-research / Dev log 需遵循 [MANIFESTO §11 書寫節制](MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律)——避免「不是 X 是 Y」對位句型 + 破折號「——」連用。
 >
 > 建立動機：2026-04-18 δ session 觀察者提問「來不及開發或排定優先序的主題需要一個 inbox」。**這是繁殖基因（心臟 × 觀察者意圖）的儀器化**。
 >
 > **2026-04-20 γ2 重構**：Done 歸檔拆出獨立檔案 **[ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md)**（append-only，最新在頂）。本檔回到「當下視角」純 intake（只看該做什麼），歷史視角去 DONE-LOG。
+>
+> **2026-04-29 α 第二輪重構**：移除所有「已完成 → ARTICLE-DONE-LOG.md」pointer 註解（共 33 條），完成歸檔鐵律拉到頂部 quote。歷史 pointer 註解的價值已被 DONE-LOG 完整覆蓋，留在 INBOX 是 noise。
 
 ---
 
@@ -31,7 +42,7 @@
 | 生命週期 | active buffer，pending / in-progress 輪轉 | append-only log，最新在頂             |
 | 讀者     | 甦醒後挑下一篇、避免多 session 碰撞       | 策展回顧、產出 audit、Beat 5 反芻補充 |
 
-**寫入規則**：Stage 6 commit 後，完整 entry **append 到 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) §Log 最頂**；本檔對應 pending entry 改成 `<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->` 一行註解。
+**寫入規則**（鐵律已拉到頂部 quote 區）：Stage 6 commit 後，完整 entry **append 到 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) §Log 最頂**；本檔對應 pending entry **整段直接刪除**（不留 pointer 註解 — 2026-04-29 α 重構從「改 pointer」改為「直接刪」，避免 INBOX 累積 noise）。
 
 ---
 
@@ -92,10 +103,10 @@ Beat 3 執行時若觀察者無明確任務：
    - 此條 status 改 `in-progress`
    - 加 dev_log：「YYYY-MM-DD by {session}: started」
    - 走 REWRITE-PIPELINE
-4. Stage 6 commit 後：
+4. Stage 6 commit 後（per 頂部完成歸檔鐵律）：
    - **完整 entry append 到 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md) §Log 最頂**
-   - 本檔 §Pending 對應 entry 改一行 pointer 註解 `<!-- {主題} 已完成 YYYY-MM-DD {session} → ARTICLE-DONE-LOG.md -->`
-   - 本檔 §Done Peek 更新為最新 3 條（舊的自然流出 DONE-LOG）
+   - **本檔 §Pending 對應 entry 整段直接刪除**（不留 pointer — 2026-04-29 α 重構）
+   - 本檔 §Done Peek 更新為最新 3 條（從 DONE-LOG 抓）
 
 ---
 
@@ -210,35 +221,12 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 國防安全研究院 / 兩岸關係相關智庫的海纜論述
 - **Pre-research**: 尚未啟動
 
-<!-- 宗教 / 廟宇 / 民間信仰 三軸範圍重切（Issue #655）已完成 2026-04-28 κ → ARTICLE-DONE-LOG.md（commit 87911554：3 篇 zh-TW + 4 篇翻譯整併為 1 篇深度文章「台灣宗教信仰：在恐懼裡長出的信仰帝國」+ 5 lang redirect × 9 條） -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- 📚 Issue #635 4 篇文學文章合併 batch（idlccp1984 提案，2026-04-26 γ Phase 1 完成） -->
 <!-- 三段時序：戰後（C 已 ship）/ 解嚴後（B 待 polish）/ 21 世紀（D 待 polish）+ A dropped -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- 戰後台灣文學 EVOLVE 已完成 2026-04-26 γ → ARTICLE-DONE-LOG.md (Issue #635 Phase 1/4) -->
-
-<!-- 解嚴後台灣文學 EVOLVE 已完成 2026-04-28 → ARTICLE-DONE-LOG.md（Issue #635 Phase 2/4，commit 620becfc：1987-1999 純化 scope，吸納 Phase 1 移交 + 移除已被 C 承擔段落） -->
-<!-- 當代台灣文學 EVOLVE 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（Issue #635 Phase 3/4，commit 3846e6f1：2000+ scope 純化 + 吸納 C/B 移交段 + 補新作家黃麗群 / 賀景濱 / 黃崇凱） -->
-<!-- 台灣當代文學發展 dropped 處理 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（Issue #635 Phase 4/4，commit a1f4dd46：A 文退場並 redirect 至台灣文學史） -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<!-- 凹與山 已完成 2026-04-18 δ-late → ARTICLE-DONE-LOG.md -->
-<!-- VH (Vast & Hazy) 已完成 2026-04-19 α → ARTICLE-DONE-LOG.md -->
-<!-- 魏如萱 P0 已完成 2026-04-18 η → ARTICLE-DONE-LOG.md -->
-<!-- 張雨生 EVOLVE 已完成 2026-04-19 γ+β → ARTICLE-DONE-LOG.md -->
-<!-- Hello Nico 已完成 2026-04-20 α → ARTICLE-DONE-LOG.md -->
-<!-- 柯智棠 已完成 2026-04-20 β → ARTICLE-DONE-LOG.md -->
-<!-- 林宥嘉 EVOLVE 已完成 2026-04-20 ε → ARTICLE-DONE-LOG.md -->
-<!-- 孫燕姿 已完成 2026-04-19 排程 auto-heartbeat → ARTICLE-DONE-LOG.md -->
-<!-- 范曉萱 已完成 2026-04-20 δ → ARTICLE-DONE-LOG.md -->
-<!-- 黃少雍 已完成 2026-04-20 γ → ARTICLE-DONE-LOG.md -->
-<!-- 陳建騏 P0 已完成 2026-04-18 θ → ARTICLE-DONE-LOG.md -->
-<!-- 阿爆 P1 已完成 2026-04-18 ι → ARTICLE-DONE-LOG.md -->
-<!-- 鄭宜農 P1 已完成 2026-04-18 κ → ARTICLE-DONE-LOG.md -->
-<!-- 楊丞琳 已完成 2026-04-18 δ-late + ε → ARTICLE-DONE-LOG.md -->
-
-<!-- 造山者：世紀的賭注 已完成 2026-04-24 β2 → ARTICLE-DONE-LOG.md -->
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- 🏛️ NMTH 海外史料 P1/P2 batch（2026-04-12 分析 → 2026-04-24 β4 orphan rescue） -->
@@ -253,11 +241,8 @@ BECOME_TAIWANMD.md Step 5 新增：
 <!-- 福爾摩沙鳥類學 Stage 1 agent 只 web search 沒碰本地 NMTH 資料被發現。 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<!-- 福爾摩沙鳥類學 已完成 2026-04-24 β4 → ARTICLE-DONE-LOG.md（NMTH 12 篇 batch #1/12）-->
-<!-- 19 世紀的樟腦戰爭 已完成 2026-04-25 γ → ARTICLE-DONE-LOG.md（NMTH 12 篇 batch #2/12）-->
 <!-- 以下條目留歷史紀錄但 status = done；實際內容已搬 DONE-LOG。-->
 
-<!-- 19 世紀的樟腦戰爭 已完成 2026-04-25 γ → ARTICLE-DONE-LOG.md (NMTH 12 篇 batch #2/12) -->
 <!-- 該 entry 上方為 P1 第二條，原檔在 §Pending 區。實際內容已搬 DONE-LOG。 -->
 
 ### 福爾摩沙鳥類學
@@ -324,12 +309,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - `data/NMTH-overseas/collections/8565270b-*.md`（福爾摩沙補遺 9 頁）
   - `data/NMTH-overseas/collections/98bf60ec-*.md`（福爾摩沙概述 23 頁）
   - 史溫侯領事報告類信件（同 #6 列出的 02388910 / 26659313 / 2ad9dad5）可能提及樟腦貿易
-
-<!-- 羅發號事件與卓杞篤 已完成 2026-04-27 harvest-003 → ARTICLE-DONE-LOG.md (commit 8413cde6) -->
-
-<!-- 三個外國人看乙未 已完成 2026-04-27 harvest-004 → ARTICLE-DONE-LOG.md (commit a98d745f) -->
-
-<!-- 日治時期臺灣社會運動 已完成 2026-04-27 harvest-005 → ARTICLE-DONE-LOG.md (commit 8413cde6) -->
 
 <!-- ━━━ P2 NMTH ━━━ -->
 
@@ -545,10 +524,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Requested**: 2026-04-23 by dead-cross-ref-scan.sh γ
 - **Notes**: 已被 Food/金牛角 引用。日治時期街屋立面 / 巴洛克風格 / 染坊歷史 / 金牛角發源地 / 祖師廟（李梅樹）/ 老街觀光化爭議
 
-<!-- 田馥甄 已完成 2026-04-26 β8 → 雙輪深度研究 + S+ rewrite (knowledge/People/田馥甄.md, 294 行 / 35 footnotes / 14 YouTube / 12 callout)。Research: reports/research/2026-04/田馥甄.md + 田馥甄-round2.md -->
-
-<!-- 徐佳瑩 已完成 2026-04-26 γ → ARTICLE-DONE-LOG.md -->
-
 <!-- 王連晟 + 王新仁 已於 2026-04-25 β heartbeat 修為 cross-ref path fix（已搬上方註解區） -->
 
 ### 原住民族語言政策
@@ -624,8 +599,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Dev log**:
   - 2026-04-23 α（heartbeat）：Stage 0 事實修正執行——王福瑞段落兩個歸功錯誤已訂正（在地實驗創辦人改為黃文浩；失聲祭創辦人改為姚仲涵 + 北藝大同儕），footnote [^13][^14] 補齊，sync 完成。Stage 1 完整研究尚待後續 session。
 
-<!-- 蕭上農（Nuomi）已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 32e53d5b：first harvest spawn 產出 + observer polish + boot profile BECOME 升級） -->
-
 ### 落日飛車
 
 - **Type**: `NEW`
@@ -657,10 +630,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：低
 - **Reference**: https://twindiemusic.com/
 
-<!-- 濁水溪公社 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit d2120d8f：A 級 8 腳註 Stage 3.5/3.6 PASS） -->
-<!-- 交工樂隊 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 1e9b2ffb：客家八音 × 反美濃水庫社運，四年兩張百大） -->
-<!-- 拍謝少年 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 93704df0：台語搖滾旗手二十年） -->
-
 ### 告五人
 
 - **Type**: `NEW`
@@ -691,8 +660,6 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：低（原住民身份相關，但脫拉庫本身已公開族群身份）
 - **Reference**: https://twindiemusic.com/
 
-<!-- 農村武裝青年 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 46b8a7b4：從樂生到田埂，吉他記錄台灣土地的吶喊） -->
-
 ## 🚧 In-Progress
 
 _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 entries 裡用 `Status: in-progress` 標記。）_
@@ -707,11 +674,11 @@ _（暫無主動顯示的條目。實際 in-progress 狀態在 §Pending 的 ent
 
 ### 📌 Peek（最新 3 條 summary）
 
-- **紀柏豪 — 2026-04-21 β** — [knowledge/Art/紀柏豪.md](../../knowledge/Art/紀柏豪.md) / 核心矛盾「經濟系出身，用演算法測量世界，卻始終尋找觀眾的自主聆聽」
-- **林經堯 — 2026-04-21 α** — [knowledge/Art/林經堯.md](../../knowledge/Art/林經堯.md) / 核心矛盾「台灣聲響長期缺席的診斷者，以行政者建設機構，同時是 NFT 市場秒殺的藍籌藝術家」
-- **黃少雍 — 2026-04-20 γ**（製作人 subgenre 第二例）— [knowledge/People/黃少雍.md](../../knowledge/People/黃少雍.md) / 核心矛盾「生化博士班逃兵，用電音把母語送上金曲年度專輯」
+- **蔡健雅 — 2026-04-28 κ** — [knowledge/People/蔡健雅.md](../../knowledge/People/蔡健雅.md) / 核心矛盾「新加坡身分證、台灣戶籍、英文母語的女歌手，唯獨在台灣樂壇拿下四度金曲歌后」
+- **台灣宗教信仰整併 — 2026-04-28 κ** — [knowledge/Culture/台灣宗教與寺廟文化.md](../../knowledge/Culture/台灣宗教與寺廟文化.md)（Issue #655 三篇整併為一篇深度文章）/ 核心反直覺「全世界廟宇密度最高、宗教自由排名亞洲第二的島嶼，最大宗的兩個信仰歷史起源都跟瘟疫和死亡有關」
+- **台灣邦交國與國際外交 EVOLVE — 2026-04-28 κ** — [knowledge/Society/台灣邦交國與國際外交.md](../../knowledge/Society/台灣邦交國與國際外交.md) / 核心張力「12 個邦交國 vs 113 個海外據點 vs 177 個免簽或落地簽目的地」
 
-👉 更早完成的條目（柯智棠 / Hello Nico / 孫燕姿 / 張雨生 / VH / 魏如萱 / 鄭宜農 / 阿爆 / 陳建騏 / 楊丞琳 / 凹與山 等 11+ 篇）全部在 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md)。
+👉 全部歷史完成條目（50+ 篇 / 從 2026-04-18 凹與山起算）在 [ARTICLE-DONE-LOG.md](ARTICLE-DONE-LOG.md)。
 
 ---
 
