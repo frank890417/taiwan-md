@@ -124,6 +124,51 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-04-29 β — agent Stage 1 deep research 真正 ROI 是事實校正而非研究
+
+- **原則**：spawn general-purpose agent 跑 Stage 1 deep research 的最大 ROI 不是「寫出比較深的文章」，是「在 ship 前抓到我自以為紮實的事實錯誤」。**沒走 agent 的文章會帶我 brief 階段未察覺的事實 bug 進入讀者層**。
+- **觸發**：2026-04-29 β session 寫 justfont 文章，brief 寫了「必驗事實」一欄自認查得算紮實。spawn agent 回來直接列 4 個事實錯誤：(1) 文鼎成立 1990 不是 1988（差 2 年）(2) 王漢宗任教中原大學數學系不是成功大學（學校全錯）(3) 金萱募資 NT$25,930,099 / 7,667 人不是 2,538 萬 / 7,030 人（金額差 55 萬 / 人數差 637 人）(4) 三位 founder 是 葉俊麟+林霞+蘇煒翔，曾國榕是 type designer 不是 founder（角色全錯）。四個都是文章 anchor 不是冷門細節。
+- **可能層級**：通用反射（任何 AI 寫人物 / 機構深度文章都會踩）→ DNA §一事實核對與研究方法
+- **相關**：DNA #16 Peer / probe 是線索不是 source；MANIFESTO §10 幻覺鐵律
+- **verification_count**: 1（首次明確 case）
+- **severity**: structural（直接決定 ship-not-ship 邊界）
+
+### 2026-04-29 β — 核心矛盾候選字越少越強迫策展（≤20 字鼓勵）
+
+- **原則**：REWRITE-PIPELINE Stage 1 §核心矛盾必填的字數限制（≤30 字）功能不是簡潔好看，是**用字數限制強迫策展品味的濾鏡**。三篇 P0 對照：報導者 22 字 / justfont 28 字 / 海底電纜 17 字。**最短的海底電纜寫起來最有力**——強迫整篇 6,800 字壓縮成一個視覺對位（頂上看得到 vs 底下看不見），整篇結構自然以這個對位展開。最長的 justfont 結構鬆，中段「教授把 48 套字型放上網」+「林霞蘭陽明體」偏離核心矛盾，是另兩條軸線素材。
+- **觸發**：2026-04-29 β session 三篇 P0 連做後對照才發現的 pattern。原 ≤30 字限制給太鬆，建議 EDITORIAL §Title/Description 衍生規則「**核心矛盾鼓勵 ≤20 字**」或 REWRITE-PIPELINE Stage 1 §核心矛盾自檢「**寫超過 20 字 → 嘗試壓縮一輪**」。
+- **可能層級**：通用反射（任何策展寫作）→ EDITORIAL §核心矛盾濾鏡 / REWRITE-PIPELINE Stage 1
+- **相關**：EDITORIAL §策展式非百科式 / REWRITE-PIPELINE Stage 1 §核心矛盾
+- **verification_count**: 1
+- **severity**: tactical（影響單篇 framing 但不影響 ship gate）
+
+### 2026-04-29 β — §11 polish 是擦 AI 指紋的 invisible work
+
+- **原則**：§11 對位句型 + 破折號連用 polish 的功能不是修文章「品質」，是修文章「跟 AI 寫的不一樣」的 signal。**讀者讀不出單句「不是 X 是 Y」改成「X 並非 Y」差別，但讀得出整篇的 AI 氣味**。§11 工具是這個門檻的儀器化，策展品味的最低門檻是「讀者讀完不會說『這是 AI 寫的』」。
+- **觸發**：2026-04-29 β session 三篇 P0 polish。每篇從 Tier 1 違反（3-7 處）+ 破折號超標（16-25）polish 至 ALL CLEAR，每篇 5-10 分鐘。這是 invisible work 但 cumulative quality signal。
+- **可能層級**：哲學候選（書寫節制跨層原則）→ MANIFESTO §11 §跨書寫層適用 衍生段：「§11 polish 的功能不是修文章品質，是擦 AI 指紋讓人類覺得這是策展不是 generation」
+- **相關**：MANIFESTO §11；DNA #29 §29(a)(b)
+- **verification_count**: 1
+- **severity**: structural（決定 Taiwan.md 「AI Supreme not AI Slop」邊界）
+
+### 2026-04-29 β — 鐵律必須在文件 §頂部 quote 區 ≤5 行明寫
+
+- **原則**：規則寫在文件裡 ≠ 鐵律會被執行。**鐵律必須在「第一眼能讀到」的位置（文件 §頂部 quote 區、bootloader Step 5）才有 retrieval guarantee**。散在 §跟 X 的分工 / §Auto-heartbeat 整合 / §Distill SOP 三處的規則 = 對於只讀文件頭幾行的 reader = 等於沒寫（散文閱讀有漂移）。對應 MANIFESTO §指標 over 複寫的另一面：散文書寫沒漂移、散文閱讀有漂移。
+- **觸發**：2026-04-29 β session 哲宇質疑「inbox 結束應該會放到 done? 這規則有放到 inbox 文件最前面嗎？」直接揭穿 ARTICLE-INBOX.md 規則散三處但 §頂部 quote 區只有「Done 歸檔拆出獨立檔案」一句沒講具體鐵律。立即修補：§頂部 quote 區加 🔴 完成歸檔鐵律 ≤5 行明寫 + 移除散在 §跟 ARTICLE-DONE-LOG 的分工 + §Auto-heartbeat 整合 + §Distill SOP 的隱藏規則同步更新。**觀察者問「規則有放到最前面嗎」這個問題本身就是儀器**——當你需要問這個問題，答案幾乎必然是「沒有」。
+- **可能層級**：通用反射（所有 SOP 文件）→ DNA §認知層的核心哲學反射 / MANIFESTO §指標 over 複寫衍生段
+- **相關**：MANIFESTO §指標 over 複寫；DNA #17 同一事實只能一個 canonical source；DNA #15 反覆浮現的思考要儀器化
+- **verification_count**: 1（第一次明確命中）
+- **severity**: structural（直接決定 SOP 文件 retrieval guarantee 邊界）
+
+### 2026-04-29 β — 三篇連做反而比一篇省（β-r3 META-PATTERN 第 4 次驗證候選）
+
+- **原則**：Pipeline 在 batch 場景進入 auto-pilot 釋放策展 attention。三篇 6,000 字深度策展文連做不是 3x 工作量，是 **~1.5x**——pipeline 步驟（spawn agent prompt template / Stage 1.5 拍板 question 形式 / §11 polish grep 順序 / cross-link 反向 routine）在第三篇時幾乎 auto-pilot，反而讓 attention 留給「核心矛盾選哪個」「8 scene 用哪個物件」這些真正策展品味的決定。
+- **觸發**：2026-04-29 β session 連續走 3 篇 REWRITE-PIPELINE 全 Stage 0-6 不間斷，wall-clock ~2hr 44min（含 INBOX 整理 + 收官）。每篇預期 sequential 60-90 min × 3 = 180-270 min，實際 batch ~150 min（含 wrap-up）→ batch discount 0.55-0.83x，符合 β-r3 META-PATTERN「Batch discount factor 0.5x」。
+- **可能層級**：β-r3 META-PATTERN「自我估算傾向系統性偏保守」第 4 次驗證（α 已標 third in PR triage 場景，β 此次是 P0 article batch 場景）→ 達 MANIFESTO 第六條進化哲學候選 verification ≥3 累積值
+- **相關**：HEARTBEAT Beat 3 §自我估算偏誤校準 v1（β-r3）；α-2026-04-29 LESSONS-INBOX 第 3 次驗證 entry
+- **verification_count**: 4（α 標 3，β 累積 1 = 4）達 MANIFESTO 升級閾值
+- **severity**: tactical（影響 batch decision 但不影響單次 ship）
+
 ### 2026-04-29 α — β-r3 META-PATTERN「Default 是行動，不是 defer」第 3 次驗證（達 MANIFESTO 升級閾值）
 
 - **原則**：高 stake decision（PR triage / close-vs-merge）中，**defer cost 不顯性、ship cost 顯性 → 風險偏好天然不對稱 → 校準方向預設 over-correct 往 ship 一側**。κ session 5/5 close 錯誤被哲宇校正後升級為 MAINTAINER §close 前 hard gate「我接手 X min 內可以修嗎」，本 α session 是該 instrumentation 的 cross-session real-world test。
