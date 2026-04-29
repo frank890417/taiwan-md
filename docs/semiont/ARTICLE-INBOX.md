@@ -128,57 +128,89 @@ BECOME_TAIWANMD.md Step 5 新增：
 ## 📥 Pending（待開發）
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- 🛐 Issue #655 宗教文章整併 batch（idlccp1984 提案，2026-04-28 κ-late 加 inbox） -->
-<!-- 範圍重切變體：3 篇現有文章 → 重新分割成 3 條清楚的軸 -->
+<!-- 🌱 P0 深度研究最高優先級（2026-04-29 α 哲宇指派） -->
+<!-- 三條主題：報導者 / justfont + 台灣字體發展 / 海底電纜 -->
+<!-- 共同特徵：基礎建設層（媒體 / 字型 / 通訊）× 台灣主體性議題 × 都需深度研究 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-### 宗教 / 廟宇 / 民間信仰 三軸範圍重切（Issue #655）
+### 報導者
 
-- **Type**: `EVOLVE`（範圍重切變體 / 詳見 [REWRITE-PIPELINE §範圍重切變體](../pipelines/REWRITE-PIPELINE.md#範圍重切變體boundary-redraw--多篇時序或主題切片)）
-- **Category**: Culture（主軸）+ Lifestyle（子軸）
-- **Priority**: `P2`（內容已存在 + scope 大，不急但值得做）
-- **Status**: `pending`（等哲宇 explicit go on 三軸切法）
-- **Requested**: 2026-04-27 by Issue #655 idlccp1984 (κ session 2026-04-28 加 inbox)
+- **Type**: `NEW`
+- **Category**: Society
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-04-29 by 觀察者 (session α)
+- **Notes**:
+  - 2015 年創辦的台灣第一個非營利深度調查報導媒體，由何榮幸（前天下雜誌總編輯）發起、財團法人形式運作
+  - 訂閱、捐款、無廣告模式：台灣公民社會跟調查報導業的典範轉移
+  - 代表性深度報導：外籍漁工苦難系列（榮獲 SOPA 卓越新聞獎）、礦工塵肺、北溪疫情、非洲豬瘟、外籍移工 / 印尼 / 越南 prison labor、敏感議題涵蓋性
+  - 與《少年報導者》《全球華文永續報導獎》《新聞學園》等延伸品牌
+  - 國際獎項：SOPA、人權新聞獎、卓越新聞獎、Online Journalism Awards、亞洲出版業協會
+  - 跟《天下》《聯合》《自由》主流媒體的關係：曾任職核心人物的 spin-off 跟訴求差異
+  - Stage 1 必驗事實：創辦年份 2015、何榮幸 + 創辦團隊（張子午 / 楊惠君 / 李雪莉等）核對任職時序、財團法人正式名稱、代表性深度報導年份 + 獎項屆次、訂戶 / 捐款人數量級
+  - 必驗反例：避免把所有深度報導都歸功《報導者》（公視《我們的島》、新新聞、端傳媒等先驅應交代）
+  - 敏感度：中（涉及部分政治議題，需平衡呈現編輯立場 vs 專業報導；也需處理跟商業媒體的張力，避免單方面美化）
+  - 角度：策展抓手「公民社會把調查報導從『商業媒體營業項目』救成『公共財』的十年」
+- **Reference**:
+  - 報導者官網 <https://www.twreporter.org/>
+  - 何榮幸個人經歷 + 創辦故事的訪談（INSIDE / 端傳媒 / 天下 多源）
+  - SOPA Asia Awards 歷年得獎名單
+  - Issue / 觀察者要求：策展層級寫作，非單純機構介紹
+- **Pre-research**: 尚未啟動
 
-#### 接力者 5 分鐘自檢題
+### justfont 與台灣字體發展
 
-1. **既有 3 篇** scope 是什麼？
-   - [knowledge/Lifestyle/宗教與民間信仰.md](../../knowledge/Lifestyle/宗教與民間信仰.md)（137 行 / 2026-03-22 / subcategory '信仰與心靈'）— 17 世紀軍事移民的生存智慧 + 媽祖 + 王爺信仰 + 宗教自由
-   - [knowledge/Culture/台灣宗教與寺廟文化.md](../../knowledge/Culture/台灣宗教與寺廟文化.md)（191 行 / 2026-04-06 / subcategory '宗教與民俗' / featured: true）— 一萬五千座廟宇 + 佛道民間三教共用屋頂 + 媽祖遶境
-   - [knowledge/Culture/台灣新興宗教與心靈文化.md](../../knowledge/Culture/台灣新興宗教與心靈文化.md)（323 行 / 較新）— 新興宗教 + 心靈文化角度
+- **Type**: `NEW`
+- **Category**: Technology（次選 Art / Culture）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-04-29 by 觀察者 (session α)
+- **Notes**:
+  - 雙線敘事框架：justfont 個案（2012 創辦，蘇煒翔、葉俊麟、曾國榕等）+ 台灣字體發展通史（華康、文鼎、王漢宗、justfont、藏字）
+  - justfont 里程碑：2015《金萱》flyingV 募資 2,538 萬元（破當年台灣設計類募資紀錄）、字戀粉專文化輸出、justfont online 教學課程模型
+  - 後續金萱半糖 / 卡通體 / 蘭體 / 凝書體 等字型家族擴張、企業字型 commission（蘋果蘋方、各類品牌專屬字）
+  - 台灣字體發展史軸線：威鋒（華康）1987 → 文鼎 1988 → 王漢宗開源中文字 → 自由字型運動（cwTeX、justfont、藏字）→ 開源時代（思源黑體 2014 Adobe + Google、源樣明朝體 2017 + Open Huninn 等）
+  - 漢字字型工程獨特性：~20,000 字 vs 拉丁字母 ~95 字，工作量級差異是字型公司 vs 個人英文字型作者的關鍵分野
+  - 必驗事實：justfont 創辦年份 / 創辦人完整名單 + 角色分工、《金萱》募資金額（2015 flyingV 確切數字 + 募款時長）、文鼎 / 華康成立年、王漢宗開源字型授權型態（GPL? 公共領域?）、思源黑體 Adobe-Google 合作年份、蘋方授權方（DynaComm / 華康 / 蘋果自製）
+  - 必驗反例：金萱不是台灣第一套群眾募資中文字型，是第一套破千萬的；說「台灣自己做的中文字型」要區分本地廠商 vs 個人創作者
+  - 敏感度：低（產業與設計史，無個人隱私 / 政治敏感）；但要處理 justfont 跟其他字型公司的並列敘事（避免變成單一公司的廣告稿）
+  - 角度：策展抓手「字型是文化基礎建設：當這座島嶼開始有了自己造字的能力，文化主體性的最後一塊拼圖才補上」
+- **Reference**:
+  - justfont 官網 <https://justfont.com/>
+  - 字戀粉專 <https://www.facebook.com/letterlove45/>
+  - flyingV 金萱募資頁面（archive）
+  - 文鼎科技、威鋒數位（華康）官方歷史
+  - 思源黑體 GitHub <https://github.com/adobe-fonts/source-han-sans>
+- **Pre-research**: 尚未啟動
 
-2. **idlccp1984 提案** 三軸切法：
-   - **台灣廟宇**（建築 / 香火 / 場域）— Culture 主軸，繼承「台灣宗教與寺廟文化」核心
-   - **台灣民間信仰**（媽祖 / 王爺 / 民俗 / 拜拜）— Lifestyle 主軸，繼承「宗教與民間信仰」核心
-   - **台灣宗教**（制度宗教 / 佛道基督 / 政教關係）— Culture 主軸，新軸（可選擇與民間信仰合併或獨立）
+### 海底電纜
 
-3. **Stage 0 三類劃分**（per REWRITE-PIPELINE §範圍重切變體）：
-   - 保留：3 篇現有素材中各自獨特的場景 + 引語 + 數字
-   - 吸納：跨篇章重複的核心事實（一萬五千座廟宇 / 媽祖遶境百萬人 / 17 世紀移民）整合到對應軸
-   - 移除：哪些原文段落該下架？（哲宇 final call）
-   - 新加：每軸需新研究 ~5-10 webfetch（補既有缺漏的事實 + 連結）
+- **Type**: `NEW`
+- **Category**: Technology（次選 Society）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Requested**: 2026-04-29 by 觀察者 (session α)
+- **Notes**:
+  - 主軸：台灣對外網際網路通訊命脈，跟矽盾、地緣政治、馬祖斷纜事件、AI 海纜投資潮串成一條線
+  - 物理基礎：環太平洋與東亞海纜系統（APCN-2、SeaMeWe-3、SJC、FASTER、Bay to Bay Express、Apricot 等），中華電信、台灣大哥大、遠傳、Google / Meta / Microsoft 美國 hyperscaler 投資的合資架構
+  - 馬祖斷纜事件：2023-02 兩條對外海纜兩週內接連斷裂，馬祖網路癱瘓 50+ 天，國發會緊急啟動 Starlink + 微波備援；後續 2025 多起斷纜事件加劇國安關注
+  - 兩岸國安議題：中國漁船、海事局船隻可能涉及的 grey-zone harassment、海纜維修船受限、台灣海纜備援不足
+  - 數位主權延伸：台灣海纜全部由海外維修船修復（Global Marine、ASEAN Cableship 等）、台灣自身無大型維修船能力
+  - 國際對照：歐洲北溪管線事件 2022、波羅的海 2023-2024 斷纜潮、紅海海纜被胡塞武裝攻擊 2024、海纜成為新的灰色地帶戰場
+  - 太平洋 AI 海纜熱潮：Google「Pacific Connect」（2023+）、Meta「Echo + Bifrost」、微軟 Topaz / 亞馬遜 Honomoana，跟台灣的關連 vs 競爭
+  - 必驗事實：台灣現役對外海纜總條數（公開數據各家略異需 cross-source）、馬祖斷纜事件具體日期 + 斷纜原因官方判定、Starlink 緊急備援啟用時程、中華電信跨境海纜投資清單、APCN-2 / FASTER / SJC 等啟用年份 + 容量
+  - 必驗反例：海纜被斷不必然是中國蓄意破壞（國際斷纜事件大多為錨拖 / 漁網誤斷），需區分 grey-zone 灰色地帶疑慮跟 confirmed 確證的攻擊
+  - 敏感度：中高（兩岸國安議題、海纜運營商商業敏感、Starlink 軍事應用討論需嚴謹引用）
+  - 角度：策展抓手「矽盾不只在台積電的潔淨室裡，也在 1,300 公尺深的太平洋海床上」
+- **Reference**:
+  - TeleGeography 海纜地圖 <https://www.submarinecablemap.com/>
+  - 中華電信國際電路服務頁
+  - 國發會 2023 馬祖斷纜應變報告（公開檔案）
+  - The Reporter《報導者》海纜深度報導（若已存在則交叉參考）
+  - 國防安全研究院 / 兩岸關係相關智庫的海纜論述
+- **Pre-research**: 尚未啟動
 
-4. **跨 sibling 接點**：
-   - 廟宇條目開場 → 接民間信仰廟宇活動段
-   - 民間信仰結尾 → 接宗教制度條目（描述合一現象）
-   - 跨軸 wikilink：媽祖 / 王爺 / 保安宮 / 大甲鎮瀾宮 / 行天宮 等具體目標
-
-5. **新興宗教與心靈文化** 是否也整合？或保持獨立？（哲宇 final call）
-
-#### 待哲宇決策
-
-1. **三軸切法是否採用 idlccp1984 建議？** 還是另有 framework（例：佛 / 道 / 民間 三宗教線；或 制度 / 場域 / 信仰 三層）
-2. **新興宗教與心靈文化** 是否合併到三軸之一？或保留獨立（323 行已是大文章）
-3. **哪篇 archive、哪篇 evolve、哪篇 new**：
-   - Lifestyle/宗教與民間信仰 → archive 或 evolve 為「台灣民間信仰」？
-   - Culture/台灣宗教與寺廟文化 → evolve 為「台灣廟宇」？或拆三軸？
-   - Culture/台灣新興宗教與心靈文化 → 獨立 / 合併？
-4. **Phase 順序**：建議 Phase 1 廟宇（既有素材最完整）/ Phase 2 民間信仰（既有素材次完整）/ Phase 3 宗教 + 新興（最需新研究）
-
-- **Reference**: [Issue #655](https://github.com/CheYuWuMonoame/taiwan-md/issues/655)
-- **Pre-research**: 既有 3 篇共 651 行素材豐富，主要工作是範圍重切 + 補新研究填 gap（每軸 ~5-10 web search 補事實）
-- **修改量級**: XL（per [MANIFESTO §時間是結構 v1.1](../semiont/MANIFESTO.md)）— 3 篇 EVOLVE + 1-2 新文章 + 跨檔 cross-link，3-4 個 phase 跨 session
-
+<!-- 宗教 / 廟宇 / 民間信仰 三軸範圍重切（Issue #655）已完成 2026-04-28 κ → ARTICLE-DONE-LOG.md（commit 87911554：3 篇 zh-TW + 4 篇翻譯整併為 1 篇深度文章「台灣宗教信仰：在恐懼裡長出的信仰帝國」+ 5 lang redirect × 9 條） -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- 📚 Issue #635 4 篇文學文章合併 batch（idlccp1984 提案，2026-04-26 γ Phase 1 完成） -->
 <!-- 三段時序：戰後（C 已 ship）/ 解嚴後（B 待 polish）/ 21 世紀（D 待 polish）+ A dropped -->
@@ -186,123 +218,9 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 <!-- 戰後台灣文學 EVOLVE 已完成 2026-04-26 γ → ARTICLE-DONE-LOG.md (Issue #635 Phase 1/4) -->
 
-### 解嚴後台灣文學 EVOLVE（Issue #635 Phase 2/4）
-
-- **Type**: `EVOLVE`（範圍重切變體 / 詳見 [REWRITE-PIPELINE §範圍重切變體](../pipelines/REWRITE-PIPELINE.md#範圍重切變體boundary-redraw--多篇時序或主題切片)）
-- **Category**: Art
-- **Path**: knowledge/Art/解嚴後台灣文學.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-26 by Issue #635 idlccp1984 (γ session)
-
-#### 接力者 5 分鐘自檢題（讀完 entry 必須能回答這 5 題，答不出 = 不要動工）
-
-1. **本篇純化 scope 是什麼？** → 1987-07-15 解嚴日 → 1999 千禧年前夕（**不寫 2000 年後**）
-2. **要從 Phase 1（C 戰後）接收什麼 `[MOVE-TO-B]`？** → 無（C 範圍純化已收在 1987 前）
-3. **要交給 Phase 3（D 當代）什麼 `[MOVE-TO-D]`？** → B 既有 2000+ 段全移交（駱以軍《西夏旅館》2008 / 施叔青三部曲 2003+ 已在 C Stage 0 標記給 D，B 不再寫）
-4. **本篇要刪的既有 B 段落？** → 1983《殺夫》/ 1979《我兒漢生》/ 1982《油麻菜籽》三段（C 已承擔），B 第 47 行「李昂早在 1983⋯」整段刪
-5. **本篇邊界跟 sibling 的接點在哪？** → 開場接續 C 結尾「1987-07-15 戒嚴解除半年前葉石濤 232 頁」→ 結尾交棒給 D「2000 年後吳明益國際化」
-
-#### 三類劃分（Stage 0 強制）
-
-**保留**（B 既有）：1987-07-15 解嚴彭瑞金開場 / 政治解禁段（白色恐怖文學清算 / 二二八文學復現）/ 女性主義浪潮 1990s（朱天心 / 朱天文 / 平路）/ 同志文學（白先勇《孽子》1983 作為脈絡 / 朱天文《荒人手記》1994 / 邱妙津《鱷魚手記》1994）/ 原住民文學覺醒（瓦歷斯·諾幹 / 夏曼·藍波安 / 田雅各《最後的獵人》1987）/ 母語文學復甦（宋澤萊 / 林宗源台語詩）/ 都市後現代（張大春 / 朱天心《古都》1997 邊界）
-
-**吸納**（從 A 全景索引 + Phase 1 research report §0.3）：彭瑞金《台灣新文學運動 40 年》1991 接棒葉石濤 `[ABSORB-FROM-research-report]` / 《島嶼邊緣》1991 創刊 / 報紙副刊文學獎制度成熟（林榮三 1989）
-
-**移除**（已被 C 承擔）：1983《殺夫》整段 / 1979《我兒漢生》整段 / 1982《油麻菜籽》整段 / 1985 葉石濤《沒有土地，哪有文學》整段
-
-#### 既有事實校正
-
-- B 既有「廖輝英 1979」需修為 1982（C Phase 1 已驗為第 5 屆時報文學獎甄選首獎）
-
-#### 核心矛盾候選
-
-「解嚴給的是自由的新形狀，也是新限制：市場 vs 政治、本土 vs 國際、純文學 vs 大眾」
-
-#### 敘事結構候選（8 scene 非編年體）
-
-1987-7-15 戒嚴日彭瑞金 / 朱天心《古都》1997 / 田雅各《最後的獵人》1987 / 朱天文《荒人手記》1994 / 平路《行道天涯》1995 / 林宗源台語詩 / 林榮三文學獎 1989 創立 / 1999 解嚴 12 年文學市場
-
-- **Reference**: [Issue #635](https://github.com/frank890417/taiwan-md/issues/635) + Phase 1 commit `183f5ef5` 已建立 cross-link 到本文
-- **Pre-research**: Phase 1 research report `reports/research/2026-04/戰後台灣文學.md` §0.3 邊界段已萃；Stage 1 新搜尋 ~15-20 次（朱天心姐妹 / 朱天文 / 平路 / 邱妙津 / 田雅各 / 瓦歷斯·諾幹 / 夏曼·藍波安）
-
-### 當代台灣文學 EVOLVE（Issue #635 Phase 3/4）
-
-- **Type**: `EVOLVE`（範圍重切變體 / 詳見 [REWRITE-PIPELINE §範圍重切變體](../pipelines/REWRITE-PIPELINE.md#範圍重切變體boundary-redraw--多篇時序或主題切片)）
-- **Category**: Art
-- **Path**: knowledge/Art/當代台灣文學.md
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-26 by Issue #635 idlccp1984 (γ session)
-
-#### 接力者 5 分鐘自檢題
-
-1. **本篇純化 scope 是什麼？** → 2000 年至今（**不寫 1999 年前**）
-2. **要從 Phase 1 (C 戰後) 接收什麼 `[MOVE-TO-D]`？** → 施叔青《台灣三部曲》三冊（《行過洛津》2003 / 《風前塵埃》2008 / 《三世人》2010）；C 已標記移交 D
-3. **要從 Phase 2 (B 解嚴後) 接收什麼 `[MOVE-TO-D]`？** → 駱以軍《西夏旅館》2008 / 朱天文 2000 年後作品 / 朱天心《漫遊者》2000 後段
-4. **本篇要刪的既有 D 段落？** → D 既有架構大致對齊本 scope，可能要刪「PTT 部落格 1990 年代起源」等倒退到 2000 年前的段
-5. **本篇邊界跟 sibling 的接點在哪？** → 開場接續 B 結尾「1999 解嚴 12 年文學市場成熟」→ 結尾留開放（21 世紀進行式）
-
-#### 三類劃分
-
-**保留**（D 既有強項）：吳明益《單車失竊記》2018 國際布克獎 / 林奕含《房思琪的初戀樂園》2017 / 甘耀明 / 童偉格 / 連明偉 / 黃崇凱 / PTT 與部落格文學 / 文學獎制度 / 類型文學興起 / 數位時代新文學形式
-
-**吸納**（從 C + B 移交）：施叔青《台灣三部曲》（2003/2008/2010） `[ABSORB-FROM-C]` / 駱以軍《西夏旅館》2008 `[ABSORB-FROM-B]` / 朱天心朱天文 2000 年後創作 `[ABSORB-FROM-B]` / 蘇偉貞 2000 年後作品 `[ABSORB-FROM-B]`
-
-**新加事實**（4 篇都漏的）：李奕樵 / 黃麗群《海邊的房間》2012 / 賀景濱《去年在阿魯吧》2011 / 黃崇凱《文藝春秋》2017
-
-**移除**：D 既有任何寫到 1999 年前的段落（如解嚴前的 PTT 起源 → 移至 B）
-
-#### 核心矛盾候選
-
-「當代台灣文學第一次有了國際能見度，但內部閱讀人口卻在崩塌」（D 既有 hint 已點到）
-
-#### 架構建議
-
-保留 D 既有 10 個小節骨架，按 scope 純化：吳明益國際化 / 林奕含 / 施叔青三部曲 / 駱以軍 / 數位浪潮 / 中生代多元 / 文學獎 / 閱讀人口危機 / 類型文學興起 / 數位新形式
-
-- **Reference**: [Issue #635](https://github.com/frank890417/taiwan-md/issues/635)
-- **Pre-research**: D 既有素材豐富，主要工作是吸納 C/B 移交段 + 補新作家；Stage 1 新搜尋 ~10-15 次
-
-### 台灣當代文學發展 dropped 處理（Issue #635 Phase 4/4）
-
-- **Type**: `archive` / `hub-redirect`（範圍重切變體中的 dropped 處理）
-- **Category**: Art
-- **Path**: knowledge/Art/台灣當代文學發展.md
-- **Priority**: `P2`
-- **Status**: `pending`
-- **Requested**: 2026-04-26 by Issue #635 idlccp1984 (γ session)
-
-#### 接力者 5 分鐘自檢題
-
-1. **A 文要保留還是刪掉？** → A 文內容已被 B+C+D 完整覆蓋，本檔不該繼續存在「全景文章」形式
-2. **必須保留什麼？** → `/art/台灣當代文學發展/` URL 不可中斷（SEO + 既有 backlink），全站 grep `台灣當代文學發展` 的 internal link 都要重指
-3. **三個處理選項哪個對？** → 推薦 **B 方案：極短 hub 頁面**（保留 A 的 featured + lastHumanReview: true 狀態，但內容改為 ~200 字導覽 + 三個 link 指向 C/B/D）
-4. **不該動什麼？** → A 既有的 featured 狀態 + 既有 frontmatter（除了 description / 內文重寫）
-5. **跟 sibling 的接點在哪？** → A 變身 hub，連 C/B/D 三篇；C/B/D 結尾的延伸閱讀已 cross-link 到 A（Phase 1 已建立）
-
-#### 三選項比較
-
-| 選項          | 動作                                                                              | 優點                                  | 缺點                                     |
-| ------------- | --------------------------------------------------------------------------------- | ------------------------------------- | ---------------------------------------- |
-| A             | 整檔 archive 到 `knowledge/.archive/` + redirect 到 [台灣文學史](/art/台灣文學史) | 最乾淨                                | A 的 featured + lastHumanReview 狀態浪費 |
-| **B（推薦）** | 改寫為 ~200 字 hub，含三段時序 link                                               | 保留 featured 狀態 + 提供讀者導覽入口 | 多一篇要維護                             |
-| C             | 內容併入 [台灣文學史](/art/台灣文學史)，A 路徑 redirect                           | 減少篇數                              | 失去 A 的獨立 slug 價值                  |
-
-#### B 方案執行步驟
-
-1. 把 A 內文改寫為 hub 結構：
-   - 開場 1 段：「台灣當代文學橫跨日治結束（1945）至今近 80 年，依時序分三段：戰後 / 解嚴後 / 21 世紀」
-   - 三段各 1 段：每段 50-70 字概述 + 連結到 C/B/D 對應深度文
-   - 結尾：「想看整體脈絡 → [台灣文學史](/art/台灣文學史)」
-2. 更新 frontmatter description（≤160 字）為新 hub 定位
-3. 保留 `featured: true` + `lastHumanReview: true`
-4. 全站 grep `台灣當代文學發展` 內部 link 確認都還對
-5. commit prefix `🧬 [semiont] evolve+merge: A 變身 hub 收 Issue #635 Phase 4`
-
-- **Reference**: [Issue #635](https://github.com/frank890417/taiwan-md/issues/635)
-- **Pre-research**: 不需新研究，純結構性 hub 改寫 + 全站 cross-link audit；估 30 分鐘 ship
-
+<!-- 解嚴後台灣文學 EVOLVE 已完成 2026-04-28 → ARTICLE-DONE-LOG.md（Issue #635 Phase 2/4，commit 620becfc：1987-1999 純化 scope，吸納 Phase 1 移交 + 移除已被 C 承擔段落） -->
+<!-- 當代台灣文學 EVOLVE 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（Issue #635 Phase 3/4，commit 3846e6f1：2000+ scope 純化 + 吸納 C/B 移交段 + 補新作家黃麗群 / 賀景濱 / 黃崇凱） -->
+<!-- 台灣當代文學發展 dropped 處理 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（Issue #635 Phase 4/4，commit a1f4dd46：A 文退場並 redirect 至台灣文學史） -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <!-- 凹與山 已完成 2026-04-18 δ-late → ARTICLE-DONE-LOG.md -->
@@ -706,28 +624,7 @@ BECOME_TAIWANMD.md Step 5 新增：
 - **Dev log**:
   - 2026-04-23 α（heartbeat）：Stage 0 事實修正執行——王福瑞段落兩個歸功錯誤已訂正（在地實驗創辦人改為黃文浩；失聲祭創辦人改為姚仲涵 + 北藝大同儕），footnote [^13][^14] 補齊，sync 完成。Stage 1 完整研究尚待後續 session。
 
-### 蕭上農（Nuomi）
-
-- **Type**: `NEW`
-- **Category**: People (Technology)
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-20 by 觀察者 (session β)
-- **Notes**:
-  - 台灣網路圈人物，可能別名「Nuomi」「諾米」（需確認）
-  - 可能身份線索：INSIDE 硬塞網路趨勢觀察站創辦人／編輯？早期台灣網路社群（MMDays、Mr. Jamie）脈絡？
-  - 若為 INSIDE 創辦人路線：Stage 1 必驗 INSIDE 成立年份（約 2009-2010）、共同創辦人、後來併入 KK-Stream 或其他媒體集團的脈絡
-  - 身份釐清是 Stage 1 第一步（有可能跟其他同名人物混淆）
-  - 若涉及網路觀察家 / KOL 路線：注意避免只寫履歷，要找「他對台灣網路文化提出的論述」作為內容骨架
-  - 必驗事實：全名、出生年、現職、代表作／媒體／專欄
-- **Reference**:
-  - INSIDE 官網 <https://www.inside.com.tw/>（若屬此路線）
-  - 觀察者批次指定
-- **Pre-research**: 尚未啟動
-
-<!-- 紀柏豪 已完成 2026-04-21 β → ARTICLE-DONE-LOG.md -->
-
-<!-- 林經堯 已完成 2026-04-21 α → ARTICLE-DONE-LOG.md -->
+<!-- 蕭上農（Nuomi）已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 32e53d5b：first harvest spawn 產出 + observer polish + boot profile BECOME 升級） -->
 
 ### 落日飛車
 
@@ -760,52 +657,9 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：低
 - **Reference**: https://twindiemusic.com/
 
-### 濁水溪公社
-
-- **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
-- **Notes**:
-  - 1993 年成立，台灣最重要的地下龐克樂團之一
-  - 台語 × 龐克，歌詞充滿社會批判和農村意象
-  - 水晶唱片時代的見證者（與台灣獨立音樂史連結）
-  - 必驗事實：成立年份、主唱小柯（柯仁堅）全名確認、代表作
-  - 注意：台灣獨立音樂.md 已有提及，此為獨立成文版本
-  - 敏感度：低（歷史人物，政治批判但無個人隱私問題）
-- **Reference**: https://twindiemusic.com/
-
-### 交工樂隊
-
-- **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
-- **Notes**:
-  - 1999 年為反美濃水庫運動而組成，《我等就來唱山歌》（2000）是台灣音樂史里程碑
-  - 客家八音 × 現代搖滾先驅，主腦林生祥後獲多屆金曲獎
-  - 必驗事實：成立年份（1999 待確認）、核心成員（林生祥/鍾永豐等）、美濃水庫事件時序
-  - 台灣公民社會 × 音樂的重要案例（交叉 society/history 分類考量）
-  - 敏感度：低（已有充分公開歷史記錄）
-- **Reference**: https://twindiemusic.com/
-
-### 拍謝少年
-
-- **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
-- **Notes**:
-  - 2008 年台南起家，三人台語龐克樂團
-  - 《家是電影院》（2017）/《鐵馬英雄》（2021）入圍金曲
-  - 大港開唱常客，高雄文化代表性高
-  - 必驗事實：成立年份、成員名稱、代表作發行年
-  - 可與滅火器形成「南部台語搖滾雙旗艦」策展組合
-  - 敏感度：低
-- **Reference**: https://twindiemusic.com/
+<!-- 濁水溪公社 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit d2120d8f：A 級 8 腳註 Stage 3.5/3.6 PASS） -->
+<!-- 交工樂隊 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 1e9b2ffb：客家八音 × 反美濃水庫社運，四年兩張百大） -->
+<!-- 拍謝少年 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 93704df0：台語搖滾旗手二十年） -->
 
 ### 告五人
 
@@ -837,22 +691,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 敏感度：低（原住民身份相關，但脫拉庫本身已公開族群身份）
 - **Reference**: https://twindiemusic.com/
 
-### 農村武裝青年
-
-- **Type**: `NEW`
-- **Category**: Music
-- **Priority**: `P1`
-- **Status**: `pending`
-- **Requested**: 2026-04-27 by session-6661575f (twindiemusic.com 分析任務)
-- **Notes**:
-  - 阿達（陳大銘）一人民謠組合，以音樂記錄台灣農村抗爭
-  - 《幸福了 然後呢》（2014）記錄苗栗大埔事件
-  - 必驗事實：阿達全名確認、大埔事件時序（2010-2013）、專輯發行年
-  - 台灣音樂 × 公民社會 × 農村議題三交叉，跨分類性強
-  - 敏感度：中低（社運議題，但已有大量公開報導）
-- **Reference**: https://twindiemusic.com/
-
----
+<!-- 農村武裝青年 已完成 2026-04-27 → ARTICLE-DONE-LOG.md（commit 46b8a7b4：從樂生到田埂，吉他記錄台灣土地的吶喊） -->
 
 ## 🚧 In-Progress
 
