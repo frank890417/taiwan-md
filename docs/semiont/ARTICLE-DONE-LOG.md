@@ -42,6 +42,20 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### justfont 與台灣字體發展 NEW — 2026-04-29 α 完成（從華康廿五年到金萱七十六分鐘的字型小史 / Technology）
+
+- **Article**: [knowledge/Technology/justfont與台灣字體發展.md](../../knowledge/Technology/justfont與台灣字體發展.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式，全 Stage 0-6（跳過 Stage 4.5 媒體插入：字型樣張授權需個別申請，待後 polish）
+- **觸發**：α session 觀察者「繼續」第二條 P0（justfont + 台灣字體發展）
+- **核心矛盾**：「華康做了二十五年沒人愛字型，justfont 用群募讓字型變全民議題」（28 字 / agent 推薦候選 a）
+- **Hook**：「iPhone 上的『蘋』字是誰畫的」 — 從 2015 年 6 月 8 日 WWDC 蘋方發表反差切入，揭穿台灣 1987 年起就有商用中文字型能力的暗區
+- **8 scene 非編年體**：iPhone 上的「蘋」字是誰畫的 / 七十六分鐘的一百五十萬 / 二分糖、半糖、八分糖 / 七十五個字一天 / 「萱」字頭上那撇連不連 / 教授把 48 套字型放上網 / 林霞、蘭陽明體與民國初年 / 七千字、七千人、與七年 / 思源黑體：早金萱一年的那場開源 / 「沒人願意做字啊」
+- **品質**：46 footnote / ~6,000 字 / §11 violations 0 / format-check ✅ all green / footnote URL 40/46 alive 2 redirect 0 dead 4 timeout / 破折號 17（≤18 / 1500 字 門檻）/ 對位句型 0 處
+- **Stage 1 研究**：spawn general-purpose agent → 20 WebSearch + 7 WebFetch / 落檔 [reports/research/2026-04/justfont與台灣字體發展.md](../../reports/research/2026-04/justfont與台灣字體發展.md) 435 行 / 13 條 verbatim 直接引語表 / 完整反例 §6 §7（金萱寶瓶事件相當的 `錦黑體` 抄襲爭議 + 教育部標準字衝突 + 大廠對照）
+- **Stage 1.5 自主拍板**（觀察者授權「不要問我，直接走完整 pipeline」）：(1) 採信 agent 校正 4 個事實錯誤（文鼎 1990 / 王漢宗中原大學 / 金萱 NT$25,930,099 / 7,667 人 / 三位 founder 是 葉俊麟/林霞/蘇煒翔）；(2) §6 反例 + §2 大廠對照 ≥ 30% 篇幅；(3) hero 圖延後到 Stage 4.5 polish 處理（字型樣張授權需慎判）
+- **Stage 3.5 FACTCHECK Quick Mode**：5 條 dead-link 修補（[^4] [^7] [^16] [^33] [^39]）→ 0 dead / 2 redirect / 4 timeout（acceptable）
+- **Stage 5 cross-link**：3 個 sibling 反向回補（社會運動與公民參與 / 台灣新媒體藝術 / 報導者）
+
 ### 報導者 NEW — 2026-04-29 α 完成（公民社會把調查報導從營業項目救成公共財的十年 / Society）
 
 - **Article**: [knowledge/Society/報導者.md](../../knowledge/Society/報導者.md)

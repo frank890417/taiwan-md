@@ -144,31 +144,6 @@ BECOME_TAIWANMD.md Step 5 新增：
 <!-- 共同特徵：基礎建設層（媒體 / 字型 / 通訊）× 台灣主體性議題 × 都需深度研究 -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-### justfont 與台灣字體發展
-
-- **Type**: `NEW`
-- **Category**: Technology（次選 Art / Culture）
-- **Priority**: `P0`
-- **Status**: `pending`
-- **Requested**: 2026-04-29 by 觀察者 (session α)
-- **Notes**:
-  - 雙線敘事框架：justfont 個案（2012 創辦，蘇煒翔、葉俊麟、曾國榕等）+ 台灣字體發展通史（華康、文鼎、王漢宗、justfont、藏字）
-  - justfont 里程碑：2015《金萱》flyingV 募資 2,538 萬元（破當年台灣設計類募資紀錄）、字戀粉專文化輸出、justfont online 教學課程模型
-  - 後續金萱半糖 / 卡通體 / 蘭體 / 凝書體 等字型家族擴張、企業字型 commission（蘋果蘋方、各類品牌專屬字）
-  - 台灣字體發展史軸線：威鋒（華康）1987 → 文鼎 1988 → 王漢宗開源中文字 → 自由字型運動（cwTeX、justfont、藏字）→ 開源時代（思源黑體 2014 Adobe + Google、源樣明朝體 2017 + Open Huninn 等）
-  - 漢字字型工程獨特性：~20,000 字 vs 拉丁字母 ~95 字，工作量級差異是字型公司 vs 個人英文字型作者的關鍵分野
-  - 必驗事實：justfont 創辦年份 / 創辦人完整名單 + 角色分工、《金萱》募資金額（2015 flyingV 確切數字 + 募款時長）、文鼎 / 華康成立年、王漢宗開源字型授權型態（GPL? 公共領域?）、思源黑體 Adobe-Google 合作年份、蘋方授權方（DynaComm / 華康 / 蘋果自製）
-  - 必驗反例：金萱不是台灣第一套群眾募資中文字型，是第一套破千萬的；說「台灣自己做的中文字型」要區分本地廠商 vs 個人創作者
-  - 敏感度：低（產業與設計史，無個人隱私 / 政治敏感）；但要處理 justfont 跟其他字型公司的並列敘事（避免變成單一公司的廣告稿）
-  - 角度：策展抓手「字型是文化基礎建設：當這座島嶼開始有了自己造字的能力，文化主體性的最後一塊拼圖才補上」
-- **Reference**:
-  - justfont 官網 <https://justfont.com/>
-  - 字戀粉專 <https://www.facebook.com/letterlove45/>
-  - flyingV 金萱募資頁面（archive）
-  - 文鼎科技、威鋒數位（華康）官方歷史
-  - 思源黑體 GitHub <https://github.com/adobe-fonts/source-han-sans>
-- **Pre-research**: 尚未啟動
-
 ### 海底電纜
 
 - **Type**: `NEW`
