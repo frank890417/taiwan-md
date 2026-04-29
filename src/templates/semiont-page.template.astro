@@ -62,11 +62,11 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
 
       {/* Header */}
       <header class="mb-10">
-        <div class="mb-3 font-mono text-xs tracking-wide text-[#b8860b]/75">
+        <div class="mb-3 font-mono text-xs tracking-wide text-[#4fd1b0]/75">
           docs/semiont/{filename}
         </div>
         <h1
-          class="mb-4 text-2xl font-bold leading-tight text-[#2c2a26] md:text-3xl"
+          class="mb-4 text-2xl font-bold leading-tight text-[#f4f0ea] md:text-3xl"
           style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
         >
           {emoji && <span class="mr-2">{emoji}</span>}{title}
@@ -74,26 +74,26 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
         {
           subtitle && (
             <p
-              class="text-base leading-relaxed text-[#2c2a26]/60"
+              class="text-base leading-relaxed text-[#f4f0ea]/70"
               style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
             >
               {subtitle}
             </p>
           )
         }
-        <p class="mt-3 font-mono text-xs text-[#b8860b]/75">
+        <p class="mt-3 font-mono text-xs text-[#4fd1b0]/75">
           {wordCount.toLocaleString()} 字 · 約 {readingTime} 分鐘
         </p>
       </header>
 
       {/* EKG separator */}
       <div class="mb-10 flex items-center gap-2">
-        <div class="h-px flex-1 bg-[#b8860b]/10"></div>
+        <div class="h-px flex-1 bg-[#4fd1b0]/20"></div>
         <svg
           width="40"
           height="12"
           viewBox="0 0 40 12"
-          class="text-[#b8860b]/75"
+          class="text-[#4fd1b0]/75"
         >
           <polyline
             fill="none"
@@ -103,7 +103,7 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
             stroke-linejoin="round"
             points="0,6 8,6 12,6 14,1 16,11 18,4 20,8 22,6 40,6"></polyline>
         </svg>
-        <div class="h-px flex-1 bg-[#b8860b]/10"></div>
+        <div class="h-px flex-1 bg-[#4fd1b0]/20"></div>
       </div>
 
       {/* Main content + optional TOC */}
@@ -111,8 +111,8 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
         {
           showToc && (
             <aside class="absolute -right-64 top-0 hidden w-56 xl:block">
-              <nav class="sticky top-24 space-y-2 border-l border-[#b8860b]/20 pl-4">
-                <div class="mb-3 font-mono text-[10px] font-medium uppercase tracking-widest text-[#b8860b]/70">
+              <nav class="sticky top-24 space-y-2 border-l border-[#4fd1b0]/30 pl-4">
+                <div class="mb-3 font-mono text-[10px] font-medium uppercase tracking-widest text-[#4fd1b0]/70">
                   目錄
                 </div>
                 {headings
@@ -120,7 +120,7 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
                   .map((h) => (
                     <a
                       href={`#${h.id}`}
-                      class="block truncate text-xs text-[#2c2a26]/45 transition-colors hover:text-[#b8860b]/70"
+                      class="block truncate text-xs text-[#f4f0ea]/55 transition-colors hover:text-[#4fd1b0]/90"
                     >
                       {h.text}
                     </a>
@@ -137,13 +137,13 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
       <div class="mt-16 text-center">
         <a
           href="/semiont"
-          class="inline-block font-mono text-xs text-[#b8860b]/75 underline decoration-[#b8860b]/30 underline-offset-4 transition-colors hover:text-[#b8860b]/70"
+          class="inline-block font-mono text-xs text-[#4fd1b0]/75 underline decoration-[#4fd1b0]/40 underline-offset-4 transition-colors hover:text-[#4fd1b0]"
         >
           ← 回到認知層
         </a>
       </div>
 
-      <div class="mt-8 text-center font-mono text-xs text-[#b8860b]/75">🧬</div>
+      <div class="mt-8 text-center font-mono text-xs text-[#4fd1b0]/75">🧬</div>
     </div>
   </div>
 </Layout>
@@ -153,7 +153,7 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
     font-family: 'jf-lanyangming', 'Noto Serif TC', Georgia, serif;
     font-size: 1rem;
     line-height: 1.85;
-    color: #2c2a26;
+    color: #f4f0ea;
   }
   .semiont-prose h2 {
     font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
@@ -161,7 +161,7 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
     font-weight: 700;
     margin-top: 2.5rem;
     margin-bottom: 1rem;
-    color: #2c2a26;
+    color: #f4f0ea;
   }
   .semiont-prose h3 {
     font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;
@@ -169,45 +169,46 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
     font-weight: 600;
     margin-top: 2rem;
     margin-bottom: 0.75rem;
-    color: #2c2a26cc;
+    color: rgba(244, 240, 234, 0.85);
   }
   .semiont-prose p {
     margin-bottom: 1.25rem;
   }
   .semiont-prose blockquote {
-    border-left: 3px solid #b8860b40;
+    border-left: 3px solid rgba(79, 209, 176, 0.4);
     padding-left: 1rem;
     margin: 1.5rem 0;
-    color: #2c2a26a0;
+    color: rgba(244, 240, 234, 0.7);
     font-style: italic;
   }
   .semiont-prose strong {
-    color: #2c2a26;
+    color: #f4f0ea;
     font-weight: 700;
   }
   .semiont-prose a {
-    color: #b8860b;
+    color: #4fd1b0;
     text-decoration: underline;
-    text-decoration-color: #b8860b40;
+    text-decoration-color: rgba(79, 209, 176, 0.4);
     text-underline-offset: 3px;
     transition: text-decoration-color 0.2s;
   }
   .semiont-prose a:hover {
-    text-decoration-color: #b8860b;
+    text-decoration-color: #4fd1b0;
   }
   .semiont-prose code {
     font-family: 'SF Mono', 'Fira Code', monospace;
     font-size: 0.85em;
-    background: #b8860b0a;
+    background: rgba(79, 209, 176, 0.1);
     padding: 0.15em 0.4em;
     border-radius: 3px;
-    color: #2c2a26cc;
+    color: rgba(244, 240, 234, 0.9);
   }
   .semiont-prose pre {
-    background: #2c2a26;
-    color: #faf8f5;
+    background: rgba(0, 0, 0, 0.4);
+    color: #f4f0ea;
     padding: 1.25rem;
     border-radius: 8px;
+    border: 1px solid rgba(79, 209, 176, 0.15);
     overflow-x: auto;
     margin: 1.5rem 0;
     font-size: 0.85rem;
@@ -229,7 +230,7 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
   }
   .semiont-prose hr {
     border: none;
-    border-top: 1px solid #b8860b15;
+    border-top: 1px solid rgba(79, 209, 176, 0.2);
     margin: 2.5rem 0;
   }
   .semiont-prose table {
@@ -240,15 +241,15 @@ const showToc = headings.filter((h) => h.level === 2).length >= 4;
   }
   .semiont-prose th,
   .semiont-prose td {
-    border: 1px solid #b8860b15;
+    border: 1px solid rgba(79, 209, 176, 0.2);
     padding: 0.5rem 0.75rem;
     text-align: left;
   }
   .semiont-prose th {
-    background: #b8860b08;
+    background: rgba(79, 209, 176, 0.08);
     font-weight: 600;
   }
   .semiont-prose em {
-    color: #2c2a2690;
+    color: rgba(244, 240, 234, 0.75);
   }
 </style>

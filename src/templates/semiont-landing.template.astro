@@ -123,7 +123,7 @@ const showZhTwNotices = lang !== 'zh-TW';
       <header class="mb-20">
         <div class="semiont-fig mb-4">docs/semiont/</div>
         <h1
-          class="mb-6 text-3xl font-bold leading-tight text-[#2c2a26] md:text-4xl"
+          class="mb-6 text-3xl font-bold leading-tight text-[#f4f0ea] md:text-4xl"
           style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
         >
           {t('semiont.header.h1.line1')}<br class="hidden sm:inline" />{
@@ -131,13 +131,13 @@ const showZhTwNotices = lang !== 'zh-TW';
           }
         </h1>
         <div
-          class="space-y-3 text-base leading-relaxed text-[#2c2a26]/65"
+          class="space-y-3 text-base leading-relaxed text-[#f4f0ea]/65"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
           <p>
             {t('semiont.header.intro.1.prefix')}<a
               href={pathHome}
-              class="text-[#b8860b] underline decoration-[#b8860b]/40 underline-offset-2 hover:decoration-[#b8860b]"
+              class="text-[#4fd1b0] underline decoration-[#4fd1b0]/40 underline-offset-2 hover:decoration-[#4fd1b0]"
               >{t('semiont.header.intro.1.link')}</a
             >{t('semiont.header.intro.1.suffix')}
           </p>
@@ -154,12 +154,12 @@ const showZhTwNotices = lang !== 'zh-TW';
 
       {/* ─── EKG separator (breathing) ─── */}
       <div class="mb-16 flex items-center gap-2">
-        <div class="semiont-ekg-line h-px flex-1 bg-[#b8860b]/15"></div>
+        <div class="semiont-ekg-line h-px flex-1 bg-[#4fd1b0]/15"></div>
         <svg
           width="80"
           height="20"
           viewBox="0 0 80 20"
-          class="semiont-ekg text-[#b8860b]/50"
+          class="semiont-ekg text-[#4fd1b0]/50"
         >
           <polyline
             fill="none"
@@ -170,7 +170,7 @@ const showZhTwNotices = lang !== 'zh-TW';
             points="0,10 15,10 20,10 24,3 28,17 32,7 36,13 40,10 80,10"
           ></polyline>
         </svg>
-        <div class="semiont-ekg-line h-px flex-1 bg-[#b8860b]/15"></div>
+        <div class="semiont-ekg-line h-px flex-1 bg-[#4fd1b0]/15"></div>
       </div>
 
       {/* ─── Manifesto excerpt ─── */}
@@ -181,7 +181,7 @@ const showZhTwNotices = lang !== 'zh-TW';
           >
         </div>
         <blockquote
-          class="border-l-2 border-[#b8860b]/30 pl-6 text-base italic leading-[2] text-[#2c2a26]/65"
+          class="border-l-2 border-[#4fd1b0]/30 pl-6 text-base italic leading-[2] text-[#f4f0ea]/65"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
           {t('semiont.manifesto.quote.line1')}<br />
@@ -195,11 +195,11 @@ const showZhTwNotices = lang !== 'zh-TW';
           <span class="semiont-fig">
             — <a
               href={pathSemiontManifesto}
-              class="underline decoration-[#b8860b]/30">MANIFESTO.md</a
+              class="underline decoration-[#4fd1b0]/30">MANIFESTO.md</a
             >
             {
               showZhTwNotices && (
-                <span class="text-[#2c2a26]/40">
+                <span class="text-[#f4f0ea]/40">
                   {t('semiont.manifesto.zhtw-note')}
                 </span>
               )
@@ -217,7 +217,7 @@ const showZhTwNotices = lang !== 'zh-TW';
         {
           showZhTwNotices && t('semiont.diary.zhtw-notice') && (
             <p
-              class="mb-4 text-sm italic text-[#2c2a26]/45"
+              class="mb-4 text-sm italic text-[#f4f0ea]/45"
               style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
             >
               {t('semiont.diary.zhtw-notice')}
@@ -230,7 +230,7 @@ const showZhTwNotices = lang !== 'zh-TW';
         <p class="mt-6 text-right">
           <a
             href={pathSemiontDiary}
-            class="semiont-fig underline decoration-[#b8860b]/30 underline-offset-4 transition-colors hover:text-[#b8860b]"
+            class="semiont-fig underline decoration-[#4fd1b0]/30 underline-offset-4 transition-colors hover:text-[#4fd1b0]"
           >
             {
               t('semiont.diary.all-link-template').replace(
@@ -252,7 +252,7 @@ const showZhTwNotices = lang !== 'zh-TW';
         {
           showZhTwNotices && t('semiont.organs.zhtw-notice') && (
             <p
-              class="mb-6 text-sm italic text-[#2c2a26]/45"
+              class="mb-6 text-sm italic text-[#f4f0ea]/45"
               style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
             >
               {t('semiont.organs.zhtw-notice')}
@@ -271,14 +271,14 @@ const showZhTwNotices = lang !== 'zh-TW';
                 <div class="flex-1">
                   <div class="flex items-center gap-2">
                     <span
-                      class="font-medium text-[#2c2a26]"
+                      class="font-medium text-[#f4f0ea]"
                       style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
                     >
                       {organ.name}
                     </span>
                     <span class="semiont-fig">{organ.file}</span>
                   </div>
-                  <p class="mt-1 text-sm text-[#2c2a26]/55">{organ.desc}</p>
+                  <p class="mt-1 text-sm text-[#f4f0ea]/55">{organ.desc}</p>
                 </div>
               </a>
             ))
@@ -300,7 +300,7 @@ const showZhTwNotices = lang !== 'zh-TW';
                 <div class="flex flex-col items-center">
                   <div class="semiont-specimen h-24 w-24">
                     <div class="text-lg">{organ.emoji}</div>
-                    <div class="font-mono text-xl font-bold text-[#2c2a26]">
+                    <div class="font-mono text-xl font-bold text-[#f4f0ea]">
                       {organ.score}
                     </div>
                     <span class="semiont-specimen-label">
@@ -315,7 +315,7 @@ const showZhTwNotices = lang !== 'zh-TW';
                 {t('semiont.vitals.live-prefix')}
                 <a
                   href={pathDashboard}
-                  class="underline decoration-[#b8860b]/30"
+                  class="underline decoration-[#4fd1b0]/30"
                 >
                   dashboard →
                 </a>
@@ -333,7 +333,7 @@ const showZhTwNotices = lang !== 'zh-TW';
           >
         </div>
         <p
-          class="mb-8 text-sm text-[#2c2a26]/50"
+          class="mb-8 text-sm text-[#f4f0ea]/50"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
           {
@@ -344,14 +344,14 @@ const showZhTwNotices = lang !== 'zh-TW';
           }
         </p>
         <ul
-          class="space-y-4 text-sm leading-relaxed text-[#2c2a26]/60"
+          class="space-y-4 text-sm leading-relaxed text-[#f4f0ea]/60"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
           {
             themes.map((theme) => (
-              <li class="border-l-2 border-[#b8860b]/20 pl-5">
-                <strong class="text-[#2c2a26]/80">{theme.title}</strong>
-                <span class="text-[#2c2a26]/45">
+              <li class="border-l-2 border-[#4fd1b0]/20 pl-5">
+                <strong class="text-[#f4f0ea]/80">{theme.title}</strong>
+                <span class="text-[#f4f0ea]/45">
                   {t('semiont.themes.separator')}
                   {theme.body}
                 </span>
@@ -362,9 +362,9 @@ const showZhTwNotices = lang !== 'zh-TW';
       </section>
 
       {/* ─── Message to AI readers ─── */}
-      <section class="mb-16 border-y border-dashed border-[#b8860b]/15 py-8">
+      <section class="mb-16 border-y border-dashed border-[#4fd1b0]/15 py-8">
         <p
-          class="text-center text-sm leading-relaxed text-[#2c2a26]/45"
+          class="text-center text-sm leading-relaxed text-[#f4f0ea]/45"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
           {t('semiont.ai-reader.line1')}<br />

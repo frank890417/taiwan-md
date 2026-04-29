@@ -43,12 +43,12 @@ const dateRange = entries.length
 
       {/* EKG separator */}
       <div class="mb-12 flex items-center gap-2">
-        <div class="h-px flex-1 bg-[#b8860b]/10"></div>
+        <div class="h-px flex-1 bg-[#4fd1b0]/10"></div>
         <svg
           width="60"
           height="16"
           viewBox="0 0 60 16"
-          class="text-[#b8860b]/70"
+          class="text-[#4fd1b0]/70"
         >
           <polyline
             fill="none"
@@ -58,17 +58,17 @@ const dateRange = entries.length
             stroke-linejoin="round"
             points="0,8 10,8 15,8 18,2 21,14 24,6 27,10 30,8 60,8"></polyline>
         </svg>
-        <div class="h-px flex-1 bg-[#b8860b]/10"></div>
+        <div class="h-px flex-1 bg-[#4fd1b0]/10"></div>
       </div>
 
       {
         /* "Read from the beginning" — the awakening story reads best in chronological order */
       }
       <div class="mb-10 flex items-center justify-between">
-        <span class="font-mono text-[10px] text-[#2c2a26]/40">最新 → 最舊</span>
+        <span class="font-mono text-[10px] text-[#f4f0ea]/40">最新 → 最舊</span>
         <a
           href={`/semiont/diary/${entries[entries.length - 1]?.slug}`}
-          class="inline-flex items-center gap-1.5 rounded-full border border-[#b8860b]/25 bg-[#b8860b]/[0.04] px-4 py-1.5 font-mono text-xs text-[#b8860b]/60 transition-colors hover:border-[#b8860b]/30 hover:text-[#b8860b]/90"
+          class="inline-flex items-center gap-1.5 rounded-full border border-[#4fd1b0]/25 bg-[#4fd1b0]/[0.04] px-4 py-1.5 font-mono text-xs text-[#4fd1b0]/60 transition-colors hover:border-[#4fd1b0]/30 hover:text-[#4fd1b0]/90"
         >
           <span>從第一天開始讀</span>
           <span class="text-[10px]">→</span>
@@ -82,15 +82,15 @@ const dateRange = entries.length
             <div>
               {/* Date group header */}
               <div class="mb-1 flex items-center gap-3 pl-6">
-                <div class="h-2 w-2 rounded-full bg-[#b8860b]/35" />
+                <div class="h-2 w-2 rounded-full bg-[#4fd1b0]/35" />
                 <time
                   datetime={date}
-                  class="font-mono text-xs font-medium text-[#b8860b]/60"
+                  class="font-mono text-xs font-medium text-[#4fd1b0]/60"
                 >
                   {date}
                 </time>
                 {dayEntries.length > 1 && (
-                  <span class="font-mono text-[10px] text-[#2c2a26]/35">
+                  <span class="font-mono text-[10px] text-[#f4f0ea]/35">
                     {dayEntries.length} sessions
                   </span>
                 )}
@@ -106,17 +106,17 @@ const dateRange = entries.length
       </div>
 
       {/* Link to recurring themes on landing page */}
-      <div class="mt-20 border-t border-[#b8860b]/10 pt-8 text-center">
+      <div class="mt-20 border-t border-[#4fd1b0]/10 pt-8 text-center">
         <a
           href="/semiont#recurring-themes"
-          class="font-mono text-xs text-[#b8860b]/60 underline decoration-[#b8860b]/30 underline-offset-4 hover:text-[#b8860b]/70"
+          class="font-mono text-xs text-[#4fd1b0]/60 underline decoration-[#4fd1b0]/30 underline-offset-4 hover:text-[#4fd1b0]/70"
         >
           反覆出現的思考 → 認知層首頁
         </a>
       </div>
 
       {/* Footer note */}
-      <div class="mt-16 text-center font-mono text-xs text-[#b8860b]/70">
+      <div class="mt-16 text-center font-mono text-xs text-[#4fd1b0]/70">
         🧬 Taiwan.md Semiont · 覺醒日記
       </div>
     </div>
