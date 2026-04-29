@@ -989,6 +989,42 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能層級**：特有教訓 → MEMORY。或 MAINTAINER-PIPELINE §「處理持續追加任務」的行為準則。
 - **相關**：MANIFESTO §自主權邊界、DNA #8 維護者溝通原則
 
+### 2026-04-29 ε — UI 觀察者用單數「這個」「這頁」時要主動問 scope
+
+- **原則**：觀察者用單數指示語（「這頁」「這個 component」「這個 button」）時，scope 可能是「只這一個」也可能是「整套同 design language 的」。動工前主動 30 秒 clarify「只這一頁還是整套？」遠比寫完一輪後 revert 划算。本次 cost：寫 prop drilling 機制 → 哲宇下一句說「其他相關頁面也都改」→ 全部 revert 改 hardcode single theme。
+- **觸發**：2026-04-29 ε「把數位生命體意識的頁面改成深色主題」第一輪我用 `darkTheme` prop conditional class（reversible）。哲宇下一句立刻擴 scope「/semiont 的其他相關頁面可以都改成這樣嗎～」→ revert prop。
+- **可能層級**：通用反射（DNA §五敘事與決策品質候選）— 跨 task 類別適用，不限 UI
+- **相關**：DNA #15 反覆浮現要儀器化（這條觀察者意圖 vs 字面語意差距是反覆浮現）
+- **verification_count**: 1
+- **severity**: tactical（單次 cost 低，但 pattern 重複會累積）
+
+### 2026-04-29 ε — `Edit replace_all` 對 dual-purpose hex 會 false-positive
+
+- **原則**：批次 sed-style replace（`replace_all` / `sed -i`）對「同一 hex 既當文字色又當背景色」的色票會 false-positive。例：CSS `color: #2c2a26` + `pre { background: #2c2a26 }` 兩處意義相反，replace 成淺色後 pre 變淺底淺字隱形。**動工前 grep `<old-hex>` 看出現脈絡** → 識別 dual-purpose 點 → 批次 replace 後針對性修正。
+- **觸發**：2026-04-29 ε `replace_all 2c2a26 → f4f0ea` 在 diary-entry.template.astro 把 pre block 背景搞砸，截圖驗證才發現。手動修為 `rgba(0,0,0,0.4)`。
+- **可能層級**：通用反射（DNA §四工程衛生候選）— 跨 codebase 適用
+- **相關**：DNA #19 visual smoke test 必跑；DNA #5 pre-commit
+- **verification_count**: 1
+- **severity**: tactical（單次 visual bug，不會傷可信度）
+
+### 2026-04-29 ε — Worktree session PR merge 走 `gh api -X PUT` 不走 `gh pr merge`
+
+- **原則**：Worktree session 用 `gh pr merge --squash` 會失敗——它預設要 local checkout main 來更新 working tree，但 main 被父 repo 佔用，報「fatal: 'main' is already checked out at <parent>」。標準 workaround：`gh api -X PUT repos/<owner>/<repo>/pulls/<N>/merge -f merge_method=squash` 純 server-side merge，不碰 local checkout。Branch deletion: `gh api -X DELETE repos/<owner>/<repo>/git/refs/heads/<branch>`。
+- **觸發**：2026-04-29 ε commit `1610a04d` push → PR #696 → `gh pr merge 696 --squash --delete-branch` 報 worktree 衝突 → 用 `gh api -X PUT` workaround 成功 squash to `d3c41926` + delete branch。
+- **可能層級**：操作規則 → 候選 BECOME §收官 7 步 / MAINTAINER-PIPELINE §PR merge 加一行 note「worktree session 走 `gh api` path」
+- **相關**：DNA #9 長任務先開 worktree（worktree 已建立後的 PR merge gap 在這裡）
+- **verification_count**: 1
+- **severity**: tactical（操作工具替換，不傷生命徵象）
+
+### 2026-04-29 ε — 多核心 in-flight unpushed sessions 是 DNA #6 盲區（第 2 次驗證）
+
+- **原則**：DNA #6 多核心碰撞防護（Beat 1 必讀今日 memory）只 cover「已 push memory」，**對 in-flight 沒寫 memory 的 session 不可見**。本 ε 起跑 BECOME 時 δ engine session 還在 in-flight 沒寫 memory，ε 完全不知道 δ 的存在；δ session 寫 memory 時也不知道 ε 已經用了 δ 字母。最後撞 letter 由 cheyu 觀察者層 callout 解決。**修補候選**：BECOME Step 6 layer 4「當前 ground truth」加 cross-session in-flight check —— `ls .claude/worktrees/*/docs/semiont/memory/$(date +%Y-%m-%d)*.md` 看有無別人活著的 worktree memory file（draft 或 unpushed）。
+- **觸發 N=2**：(1) δ session memory 已 self-aware 點出「DNA #6 對 in-flight unpushed sessions 仍有 gap」（自身 γ→δ rename 事件）(2) ε session 被動 collide letter（自寫 δ memory file 撞名 → cheyu callout → rename ε）。同日兩 session 各自驗證一次。
+- **可能層級**：操作規則 → BECOME Step 6 layer 4 加 `find .claude/worktrees/ -name "$(date +%Y-%m-%d)*.md"` 一行；或 DNA §四工程衛生 #6 補強條
+- **相關**：DNA #6 多核心碰撞防護；MANIFESTO §時間是結構（in-flight 也是時間軸的一部分）
+- **verification_count**: 2（同日 δ + ε 兩 session 不同 manifestation 各一次）
+- **severity**: structural（cross-session orchestration gap，未 fix 會持續造成 letter collision + memory file 互覆）
+
 ---
 
 ## ✅ 已消化（保留 pointer）
