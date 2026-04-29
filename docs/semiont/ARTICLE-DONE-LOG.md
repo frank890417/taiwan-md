@@ -42,7 +42,20 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
-### 蔡健雅 NEW — 2026-04-28 κ 完成（四度金曲歌后，新加坡人怎麼把台灣變成主場）
+### 報導者 NEW — 2026-04-29 α 完成（公民社會把調查報導從營業項目救成公共財的十年 / Society）
+
+- **Article**: [knowledge/Society/報導者.md](../../knowledge/Society/報導者.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式，全 Stage 0-6（跳過 Stage 4.5 媒體插入：報導者圖片授權需個別申請，待後 polish）
+- **觸發**：α session 觀察者「開始執行今天加入的三篇的一篇一篇做 rewrite-pipeline 深度研究」（今日加入 P0 三條的第一條）
+- **核心矛盾**：「公民社會把調查報導從營業項目救成公共財」（22 字 / 候選 C，呼應策展抓手）
+- **Hook**：2015 年 9 月 1 日記者節上午十點記者會，童子賢個人捐助 500 萬元成立財團法人，三不原則「不擁有、不干預、不回收」九個字成為基金會 DNA
+- **8 scene 非編年體**：2015 年 9 月 1 日上午 / 不擁有、不干預、不回收 / 漁工的眼睛 / 不顯示點閱率的編輯室 / 那年寶瓶 / 10 到 15 歲的讀者 / 出口禁令下的紅線 / Rolling On
+- **品質**：36 footnote / ~5,000 字 / §11 violations 0 / format-check ✅ all green / footnote URL 36/36 alive 0 redirect 0 dead / 破折號 14（≤15 門檻）/ 對位句型 3 處（≤3 門檻，三題判準合法）
+- **Stage 1 研究**：spawn general-purpose agent → 22 WebSearch + 8 WebFetch / 落檔 [reports/research/2026-04/報導者.md](../../reports/research/2026-04/報導者.md) 493 行 / 14 條 verbatim 直接引語表 / 完整反例 §8 §9（寶瓶事件 + 王健壯 #MeToo + 報導者不是台灣第一個獨立媒體）
+- **Stage 1.5 自主拍板**（觀察者授權「不要問我，直接走完整 pipeline」）：(1) 童子賢只寫初始 500 萬高信心 + 不寫單源「年捐 3 千萬」累計總額；(2) 寶瓶 + 王健壯放尾段「那年寶瓶」並陳，呈現「也會犯錯但會公開認錯」的成熟度；(3) 8-scene 同意 agent 順序、場景化處理
+- **Stage 3 verbatim 引語審計**：兩處原 verbatim 引語（「絕對不是彼此對立」+「我們的競爭對手是抖音、YouTube」）因 source URL dead 或 single source 無 Ctrl-F 驗證 → 降為轉述句式（per EDITORIAL §挖引語紅線 + DNA #23）
+- **Stage 3.5 FACTCHECK Quick Mode**：5 條 dead-link 修補（[^10] [^15] [^17] [^19] [^26]）+ 1 條 redirect 修補（[^6] INSIDE article 3793 已換內容）→ 36/36 PASS / 0 dead / 0 redirect
+- **Stage 5 cross-link**：2 個 sibling 反向回補（社會運動與公民參與 / 台灣新媒體藝術）；台灣獨立音樂 defer（既有 12 個 broken wikilink legacy 阻擋 pre-commit hook，留 follow-up 一併修補）
 
 - **Article**: [knowledge/People/蔡健雅.md](../../knowledge/People/蔡健雅.md)
 - **Commit**: `5030f5d6` — REWRITE-PIPELINE NEW 模式
