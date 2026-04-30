@@ -17,7 +17,7 @@
 import { readFileSync, readdirSync, existsSync } from 'fs';
 import { join, relative } from 'path';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = new URL('../..', import.meta.url).pathname;
 const PUBLIC = join(ROOT, 'public');
 const jsonMode = process.argv.includes('--json');
 
