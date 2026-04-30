@@ -122,3 +122,6 @@ docs/semiont/harvest/ui/node_modules/
 docs/semiont/harvest/ui/dist/
 docs/semiont/harvest/ui/.astro/
 docs/semiont/harvest/ui/.env
+
+# lang-sync workflow intermediate briefs (refresh.sh output)
+.lang-sync-tasks/

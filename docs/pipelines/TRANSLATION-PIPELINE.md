@@ -30,6 +30,56 @@ v2 沒寫過。
 
 ---
 
+## 翻譯元則（觀察者校準 canonical — 2026-04-30 δ）
+
+> 觸發：2026-04-30 δ session 觀察者下達 EN 批次更新任務時校準的核心方向。
+> 這些元則**位階高於八階段流程**——任何 stage 的判斷與翻譯實作都應 rooted in 這四條。
+
+### 1. 精準 / 專業 / 快速（三軸 trade-off 不可分）
+
+**精準**：每個事實 / 引語 / 數字 / 人名 / 機構 / 法律條文都要對得上中文 SSOT，不腦補、不 paraphrase 走樣。
+**專業**：英文用詞貼合該主題的 academic / industry register，不是觀光英文也不是機翻腔（避免 "the so-called"、"as you may know"、"interesting" 這類 filler）。
+**快速**：批次任務不 over-engineer 個別篇章；mental budget 5-15 min/篇基準（短文 5、中文 10、長文 15），超 budget 表示有結構性問題（中文 SSOT 原文不清 / 引用斷裂 / wikilink 大規模重排）需要先 escalate 不是硬翻。
+
+### 2. 從中文 SSOT 投影到英文（projection mental model）
+
+翻譯**不是替換字詞**，是把中文 SSOT 的策展視角投影到英文讀者的 reference frame：
+
+- **保留**：核心矛盾（core tension）、人物 / 地點 / 時間 anchor、引語 verbatim、腳註 source URL
+- **重新框定**：類比（用「韓台 1987 雙民主化」對韓國讀者，用「Singapore Flyer-scale」對英文讀者）、文化常識（中文讀者懂的「夜市」「廟口」要 contextualize）、政治語境（China-Taiwan 關係用詞精準避歧義）
+- **不要硬翻**：中文俗語直譯通常 broken（「換湯不換藥」≠ "change soup but not medicine"），找對應英文 idiom 或重述本意
+
+每篇翻譯前先問：「中文 SSOT 的核心矛盾一句話講是什麼？英文讀者拿到這篇文章要帶走什麼？」
+
+### 3. 不預設篇幅（length follows content，not template）
+
+中文 SSOT 多長，英文翻譯就多長——**不主動精簡也不主動擴寫**。常見 trap：
+
+- 中文 8,000 字英文寫 4,000 字 = AI 摘要陷阱（`translation-ratio-check.sh` 會抓 <0.55）
+- 中文 1,500 字英文寫 3,000 字 = 過度解釋陷阱（為英文讀者「補背景」變成新增內容）
+
+中文 SSOT 是 ground truth；篇幅由它決定。如果中文敘事在英文 reference frame 真的需要補一句 contextualize（例：「318 學運 = 太陽花」），用 inline parenthesis 一句話帶過，不開新段。
+
+### 4. Frontmatter 與 cross-reference 是品質基線
+
+兩個非常容易在批次任務中走樣：
+
+**Frontmatter 紀律**：
+
+- `translatedFrom: 'Category/原中文.md'` 必填（pre-commit 強制）
+- `sourceCommitSha` / `sourceContentHash` / `translatedAt` 三欄位用 `refresh.sh --apply --sha-only` 自動更新，不手動寫
+- `title` / `description` mirror 中文 SSOT 的 frontmatter 結構（不憑空增減欄位）
+
+**Cross-reference 處理（鐵律）**：
+
+- **wikilinks**（`[[文章名]]`）：目標語言**有對應翻譯** → 改成 `[[en-equivalent]]` 或對應路徑；**沒對應翻譯** → **轉純文字 + 中文括號**（`Lai Ching-te (賴清德)`），不留 broken wikilink
+- **延伸閱讀區塊**（`## 延伸閱讀`）：列表中的每一條 wikilink 同上規則處理；如果該語言版本完全沒翻譯 → 暫時保留中文 anchor + 加註 `(zh only)`，不偽造翻譯路徑
+- **腳註 source URL**：保留原始 URL（中文媒體報導不替換成英文版本，**source 不漂白**）；description 翻成英文但不改 source identity
+
+每篇翻譯完跑 `verify-internal-links.sh --sample` 抽查 broken ratio。
+
+---
+
 ## SSOT 原則（讀此前必懂）
 
 ```
@@ -660,6 +710,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v1.1** | 2026-04-08 — 加入批次翻譯模式 v2
 - **暫停** | 2026-04 — Issue #229 暫停英文 cron 翻譯
 - **v3.0** | 2026-04-14 η — **完全重寫**。基於 60 PR 一日合併實戰經驗 + LANGUAGES_REGISTRY 重構 + translatedFrom SSOT 模式 + .gitattributes union driver + cherry-pick workflow + 17 條常漏 + 完整工具索引。觸發：ceruleanstring 60 PR 海嘯 + 哲宇要求重新設計 pipeline
+- **v3.1** | 2026-04-30 δ — 新增 §翻譯元則（觀察者校準四條：精準/專業/快速 + 中→英投影 + 不預設篇幅 + frontmatter & cross-ref 鐵律）。觸發：哲宇 EN 批次更新任務時直接 dictate 元則，需 canonical 化高於八階段流程的方向感。
 
 ---
 
