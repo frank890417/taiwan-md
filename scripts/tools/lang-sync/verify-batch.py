@@ -185,7 +185,7 @@ def main():
     log("[7/8] lang-sync status confirm fresh...")
     result = subprocess.run(
         ["python3", "scripts/tools/lang-sync/status.py", "--lang", lang, "--no-write"],
-        cwd=REPO, capture_output=True, text=True, timeout=30
+        cwd=REPO, capture_output=True, text=True, timeout=120
     )
     for line in result.stdout.splitlines():
         if line.strip().startswith(lang):

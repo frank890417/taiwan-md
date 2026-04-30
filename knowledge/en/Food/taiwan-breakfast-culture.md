@@ -12,6 +12,7 @@ tags:
     'breakfast shop',
     'soy milk shop',
   ]
+subcategory: '飲品文化'
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -19,6 +20,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danb
 imageAlt: 'Taiwanese Dan Bing'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣早餐文化.md'
+sourceCommitSha: '82d9f045'
+sourceContentHash: 'sha256:dd384a5d10cf3ad6'
+translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 
 # Taiwan Breakfast Culture
@@ -376,6 +380,6 @@ _References:_
 
 ## Further Reading
 
-- [night-market-culture](/food/night-market-culture) — Another important Taiwanese food culture space
-- [convenience-store-culture](/lifestyle/convenience-store-culture) — Another modern convenient dining choice in Taiwan
-- [tea-culture](/food/tea-culture) — Taiwan's traditional beverage cultural traditions
+- Night Market Culture (zh only 夜市文化) — Another important Taiwanese food culture space
+- Taiwanese Street Food (zh only 台灣小吃) — More Taiwanese local foods
+- Tea Culture (zh only 茶文化) — Taiwan's traditional beverage cultural traditions
