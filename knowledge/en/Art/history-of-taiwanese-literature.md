@@ -1,6 +1,6 @@
 ---
 title: 'A History of Taiwanese Literature'
-description: 'From colonial questions of "Does Taiwan have literature?" to Yang Kui''s first Japanese literary prize, from linguistic suppression to polyphonic revival—a 400-year epic of voices finding words, words finding home'
+description: "From the colonial challenge of 'Does Taiwan have literature?' to Yang Kui's first Japanese literary prize, from linguistic suppression to polyphonic revival — a 400-year epic of voices finding words, words finding home"
 date: 2026-03-24
 tags:
   [
@@ -13,6 +13,7 @@ tags:
     'nativist literature',
     'literary debates',
   ]
+subcategory: 'Literature'
 category: 'Art'
 author: 'Taiwan.md'
 readingTime: 13
@@ -20,19 +21,22 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Art/台灣文學史.md'
+sourceCommitSha: 'f553d365'
+sourceContentHash: 'sha256:7fdaaa3e5c949ce3'
+translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 
 # A History of Taiwanese Literature
 
-> **30-Second Overview**: In 1945, after the ROC government took control of Taiwan, a sharp question echoed through literary circles: "Does Taiwan have literature?" The question was jarring because Taiwan already had 400 years of literary tradition. In 1934, Yang Kui's "The Paperboy" won second prize in Tokyo's Literary Review (first prize was vacant), making him the first Taiwanese writer to win recognition in Japanese literary circles. The 1977 Nativist Literature Debate ignited the largest political storm in Taiwan's literary history. In 1987, Ye Shitao's "Outline of Taiwan Literary History" formally legitimized the island's literary heritage—Taiwan not only has literature, it has a 400-year polyphonic symphony.
+> **30-Second Overview**: In 1945, after the ROC government took control of Taiwan, a sharp question echoed through literary circles: "Does Taiwan have literature?" The question was jarring because Taiwan already had 400 years of literary tradition. In 1934, Yang Kui's "The Paperboy" won second prize in Tokyo's _Literary Review_ (first prize was vacant), making him the first Taiwanese writer to win recognition in Japanese literary circles. The 1977 Nativist Literature Debate ignited the largest political storm in Taiwan's literary history. In 1987, Ye Shitao's _Outline of Taiwan Literary History_ formally legitimized the island's literary heritage — Taiwan not only has literature, it has a 400-year polyphonic symphony.
 
-In October 1934, when Literary Review magazine published Yang Kui's short story "The Paperboy" in Tokyo, the judges perhaps didn't realize they were witnessing history.
+In October 1934, when _Literary Review_ magazine published Yang Kui's short story "The Paperboy" in Tokyo, the judges perhaps did not realize they were witnessing history.
 
-**"The Paperboy" won second prize that year, with first prize remaining vacant.** This was the first time a Taiwanese writer received recognition in Japanese literary circles, yet the magazine remained banned from sale in Taiwan. A paradox emerged: a colonial writer, writing in the colonizer's language, winning acclaim in the imperial metropole while his homeland remained unable to read his work.
+**"The Paperboy" won second prize that year, with first prize remaining vacant.** This was the first time a Taiwanese writer received recognition in Japanese literary circles, yet the magazine remained banned from sale in Taiwan. A paradox emerged: a colonial writer, writing in the colonizer's language, winning acclaim in the imperial metropole, while his homeland remained unable to read his work.
 
 Eleven years later, in 1945, Taiwan was returned to Chinese rule. An even sharper question arose in literary circles: **"Does Taiwan have literature?"**
 
-The arrogance of this question lay in its ignorance of a stunning fact—by the time the new regime posed this question, the island had already nurtured 400 years of literary tradition. From Atayal creation myths to the Japanese colonial New Literature Movement, from Qing dynasty bamboo branch lyrics to emerging postwar writings, Taiwan's literary history is actually an epic about voices finding words, words finding home, and home finding identity.
+The arrogance of this question lay in its ignorance of a stunning fact — by the time the new regime posed this question, the island had already nurtured 400 years of literary tradition. From Atayal creation myths to the Japanese colonial New Literature Movement, from Qing dynasty bamboo branch lyrics to emerging postwar writings, Taiwan's literary history is actually an epic about voices finding words, words finding home, and home finding identity.
 
 > **📝 Curatorial Note**
 > Taiwan literature's uniqueness lies not in the continuation of a single tradition, but in innovative fusion following multicultural collisions. Each regime change and linguistic shift didn't eliminate literary traditions but instead gave birth to richer forms of expression.
@@ -41,11 +45,11 @@ The arrogance of this question lay in its ignorance of a stunning fact—by the 
 
 Before Chinese characters arrived in Taiwan, poetry was already resonating here.
 
-Taiwan's earliest literary forms were oral literature of various Austronesian peoples—myths, legends, ritual songs, work songs. These voices, passed down through generations, form the maternal bloodline of Taiwanese literature and represent its most undervalued literary treasure.
+Taiwan's earliest literary forms were the oral literature of various Austronesian peoples — myths, legends, ritual songs, work songs. These voices, passed down through generations, form the maternal bloodline of Taiwanese literature and represent its most undervalued literary treasure.
 
-**The Atayal "Genesis" tells of the earth beginning from a single seed, while the Bunun "Eight-Part Harmony" creates sounds that cascade like mountain valleys.** The Paiwan "Kulalao Legend" records the glorious epics of chiefs and warriors, while the Amis "Sea Festival Songs" serve as both hymns to the Pacific and profound meditations on life and death cycles.
+**The Atayal "Genesis" tells of the earth beginning from a single seed, while the Bunun "Eight-Part Harmony" creates sounds that cascade like mountain valleys.** The Paiwan "Kulalao Legend" records the glorious epics of chiefs and warriors, while the Amis "Sea Festival Songs" serve as both hymns to the Pacific and profound meditations on the cycles of life and death.
 
-This oral literature possesses the quality of "**poetry as life, life as poetry**"—with no separation between creation and daily existence, each performance becomes literature's rebirth. These works function not merely as literature but as repositories of ecological knowledge, philosophical contemplation, and social memory.
+This oral literature possesses the quality of "**poetry as life, life as poetry**" — with no separation between creation and daily existence, each performance becomes literature's rebirth. These works function not merely as literature but as repositories of ecological knowledge, philosophical contemplation, and social memory.
 
 More importantly, these ancient voices continue to revive in contemporary Indigenous writers' works, serving as crucial forces against cultural amnesia.
 
@@ -53,17 +57,17 @@ More importantly, these ancient voices continue to revive in contemporary Indige
 
 ### Dutch and Zheng Rule: The Arrival of Written Words
 
-When the Dutch landed at Anping, Tainan in 1624, Taiwan officially entered recorded history. The earliest "Taiwanese literature" was actually cross-cultural experimentation—Dutch missionaries used romanization to record Indigenous languages, creating Taiwan's earliest "bilingual literary" practice.
+When the Dutch landed at Anping, Tainan in 1624, Taiwan officially entered recorded history. The earliest "Taiwanese literature" was actually cross-cultural experimentation — Dutch missionaries used romanization to record Indigenous languages, creating Taiwan's earliest "bilingual literary" practice.
 
-As Han Chinese immigration increased, **Shen Guangwen (1612-1688) became known as "the father of classical Taiwanese literature,"** with his "Wenkai Poetry Collection" pioneering Han Chinese literary creation in Taiwan. In 1662, Shen Guangwen and twelve others founded the "Dongyin Society," dedicated to cultivating traditional Han literature and initiating Taiwan's poetry society tradition.
+As Han Chinese immigration increased, **Shen Guangwen (1612–1688) became known as "the father of classical Taiwanese literature,"** with his _Wenkai Poetry Collection_ pioneering Han Chinese literary creation in Taiwan. In 1662, Shen Guangwen and twelve others founded the "Dongyin Society," dedicated to cultivating traditional Han literature and initiating Taiwan's poetry society tradition.
 
-### Qing Rule: Poetry Society Flourishing and Indigenous Sprouting
+### Qing Rule: Poetry Societies Flourish and Indigenous Sprouts Emerge
 
-During the Qing dynasty's two-century rule over Taiwan, Taiwanese literature gradually developed its own characteristics. The most important phenomenon was the rise of "**poetry societies**"—beginning with Hsinchu's "Yin Society" in 1752, societies like Tainan's "Haidong Academy Poetry Society" and Changhua's "Wenkai Poetry Society" flourished like bamboo shoots after rain.
+During the Qing dynasty's two-century rule over Taiwan, Taiwanese literature gradually developed its own characteristics. The most important phenomenon was the rise of **poetry societies** — beginning with Hsinchu's "Yin Society" in 1752, societies like Tainan's "Haidong Academy Poetry Society" and Changhua's "Wenkai Poetry Society" flourished like bamboo shoots after rain.
 
-**A major feature of Qing-era Taiwanese literature was the popularity of "bamboo branch lyrics."** This poetic form, derived from folk songs, used vernacular language to depict Taiwan's local customs and became an important window into ancient Taiwanese social life. The bamboo branch lyrics in Fan Xian's "Revised Taiwan Prefecture Gazetteer" vividly record the market life of Qing-era Taiwan.
+**A major feature of Qing-era Taiwanese literature was the popularity of "bamboo branch lyrics" (竹枝詞).** This poetic form, derived from folk songs, used vernacular language to depict Taiwan's local customs and became an important window into ancient Taiwanese social life. The bamboo branch lyrics in Fan Xian's _Revised Taiwan Prefecture Gazetteer_ vividly record the market life of Qing-era Taiwan.
 
-By late Qing, **Taiwanese poets' works had reached standards comparable to mainland China**, with their literary reputation spreading to the mainland. Famous local poets like Chen Weiying, Qiu Fengjia, and Shi Shihao produced works with strong local color and national consciousness.
+By late Qing, **Taiwanese poets' works had reached standards comparable to mainland China,** with their literary reputation spreading across the strait. Famous local poets like Chen Weiying, Qiu Fengjia, and Shi Shihao produced works with strong local color and national consciousness.
 
 ## Vernacular Revolution and Colonial Miracle (1895–1945)
 
@@ -71,9 +75,9 @@ After the First Sino-Japanese War in 1895, Taiwan was ceded to Japan. This histo
 
 ### Old vs. New Literature Debate: The Victory of Vernacular Writing
 
-In the 1920s, Taiwan experienced the fierce "**Old vs. New Literature Debate**." The new literature faction, represented by Zhang Wojun, advocated abolishing classical Chinese and adopting vernacular writing; traditionalists insisted on maintaining classical Chinese's status. This debate represented not merely literary reform but Taiwanese intellectuals' pursuit of modernity.
+In the 1920s, Taiwan experienced the fierce **Old vs. New Literature Debate**. The new literature faction, represented by Zhang Wojun, advocated abolishing classical Chinese and adopting vernacular writing; traditionalists insisted on maintaining classical Chinese's status. This debate represented not merely literary reform but Taiwanese intellectuals' pursuit of modernity.
 
-**Lai He (1894-1943) is revered as "the father of Taiwan's new literature."** He pioneered vernacular writing under extremely difficult linguistic conditions. According to Wang Shilang's records, Lai He's writing process was extremely arduous: "For each work, he would first write in classical Chinese, then revise it into vernacular, then into something closer to Taiwanese dialect."
+**Lai He (1894–1943) is revered as "the father of Taiwan's new literature."** He pioneered vernacular writing under extremely difficult linguistic conditions. According to Wang Shilang's records, Lai He's writing process was extremely arduous: "For each work, he would first write in classical Chinese, then revise it into vernacular, then into something closer to Taiwanese dialect."
 
 In 1925, Lai He published "Sacrifice Under Awakening" and in 1926 the novel "Joining the Festival," officially launching Taiwan's modern literary era. **He combined painstakingly developed Chinese vernacular with essential Taiwanese color, driving the entire Taiwan new literature movement.**
 
@@ -81,9 +85,9 @@ In 1925, Lai He published "Sacrifice Under Awakening" and in 1926 the novel "Joi
 
 **In 1934, Yang Kui's "The Paperboy" won an award in Tokyo, creating Taiwan's first international literary milestone.** This achievement's significance lay not merely in the award itself but in proving that colonial writers could compete with Japanese authors on the imperial literary stage.
 
-The 1930s saw Taiwan develop writers with socialist undertones influenced by international leftist thought. Works like Lu Heruo's "The Ox Cart," Zhang Wenxiang's "The Castrated Rooster," and Weng Nao's writings, though written in Japanese, remained deeply rooted in Taiwan's soil, demonstrating colonial writers' cultural resilience.
+The 1930s saw Taiwan develop writers with socialist undertones, influenced by international leftist thought. Works like Lu Heruo's "The Ox Cart," Zhang Wenxiang's "The Castrated Rooster," and Weng Nao's writings, though written in Japanese, remained deeply rooted in Taiwan's soil, demonstrating colonial writers' cultural resilience.
 
-**The most important "Solitary Sail Trilogy" of the Japanese period—Wu Zhuoliu's "Orphan of Asia," "Fig," and "Taiwan Forsythia"—pioneered Taiwan's river novel tradition.**
+**The most important "Solitary Sail Trilogy" of the Japanese period — Wu Zhuoliu's _Orphan of Asia_, _Fig_, and _Taiwan Forsythia_ — pioneered Taiwan's river novel tradition.**
 
 ## Linguistic Rupture and Political Shadows (1945–1960)
 
@@ -91,9 +95,9 @@ After Taiwan's return to Chinese rule in 1945, literary circles faced massive li
 
 **But more severe damage came from political persecution.** After the February 28 Incident, renowned writers including Lu Heruo, Zhang Wenxiang, Yang Kui, and Wang Bai were subjected to varying degrees of political persecution, with half the writers subsequently ceasing to write. Taiwan literature plummeted from Japanese-period prosperity into a low point.
 
-This literary "fault line" phenomenon has been attributed by some scholars to language policy, while others see it as deteriorating creative environment due to political terror. **Before the 1960s, narrowly defined Taiwan literature showed stagnation, with government-promoted anti-communist literature and mainlander nostalgia literature predominating.**
+This literary "fault line" phenomenon has been attributed by some scholars to language policy, while others see it as deterioration of the creative environment due to political terror. **Before the 1960s, narrowly defined Taiwan literature showed stagnation, with government-promoted anti-communist literature and mainlander nostalgia literature predominating.**
 
-> **⚠️ Controversial Perspective**
+> **⚠️ Contested Perspective**
 > Regarding the "fault line" issue in postwar Taiwan literature, academic circles hold different interpretations. Some scholars attribute it to language policy, others view it as natural evolution of literary tradition. This topic remains under ongoing academic discussion.
 
 ## The Golden Age of Modernism and Literary Debates (1960–1987)
@@ -102,15 +106,15 @@ This literary "fault line" phenomenon has been attributed by some scholars to la
 
 The 1960s ushered in modernism's golden age for Taiwan literature. With economic growth and American culture brought by U.S. aid, modernist literature emerged prominently.
 
-**Pai Hsien-yung's "Taipei People" stands as the most important story collection of this period.** Through refined prose and profound character portrayal, he depicted the spiritual world of mainland Chinese in Taiwan. Stories like "The Eternal Yin Hsueh-yen" and "The Last Night of Chin Ta-pan" not only achieved high technical standards but deeply reflected how historical change affected individual destinies.
+**Pai Hsien-yung's _Taipei People_ stands as the most important story collection of this period.** Through refined prose and profound character portrayal, he depicted the spiritual world of mainland Chinese in Taiwan. Stories like "The Eternal Yin Hsueh-yen" and "The Last Night of Chin Ta-pan" not only achieved high technical standards but deeply reflected how historical change affected individual destinies.
 
-**Wang Wenxing's "Family Catastrophe" explored modern spiritual dilemmas through unique narrative techniques and linguistic experimentation.** Writers like Chi Dengsheng and Chen Yingzhen also created innovative modernist literature during this period.
+**Wang Wenxing's _Family Catastrophe_ explored modern spiritual dilemmas through unique narrative techniques and linguistic experimentation.** Writers like Chi Dengsheng and Chen Yingzhen also created innovative modernist literature during this period.
 
-### 1977 Nativist Literature Debate: Literature's Greatest Political Storm
+### The 1977 Nativist Literature Debate: Literature's Greatest Political Storm
 
-The 1970s saw Taiwan experience major political events including withdrawal from the UN and U.S.-China diplomatic normalization, strongly awakening local consciousness. In 1977, Taiwan's largest-scale, most far-reaching "**Nativist Literature Debate**" erupted.
+The 1970s saw Taiwan experience major political events including withdrawal from the UN and U.S.-China diplomatic normalization, strongly awakening local consciousness. In 1977, Taiwan's largest-scale, most far-reaching **Nativist Literature Debate** erupted.
 
-**Yu Guangzhong published "The Wolf is Coming" in the United Daily News, arguing that Taiwan nativist literature "seemed to resonate" with mainland China's worker-peasant-soldier literature, specifically criticizing Chen Yingzhen, Wei Tiancong, Wang Tuo, and others.** After this article's publication, "for a time, hats dubbed 'blood droppers' created an atmosphere of terror in literary circles."
+**Yu Guangzhong published "The Wolf is Coming" in the _United Daily News_, arguing that Taiwan nativist literature "seemed to resonate" with mainland China's worker-peasant-soldier literature, specifically criticizing Chen Yingzhen, Wei Tiancong, Wang Tuo, and others.** After this article's publication, "for a time, hats dubbed 'blood droppers' created an atmosphere of terror in literary circles."
 
 This debate's core issues concerned how Taiwan literature should position itself and the relationship between literature and politics. Behind the debate lay fierce conflicts between three definitions of "nativist literature":
 
@@ -124,29 +128,29 @@ This debate's core issues concerned how Taiwan literature should position itself
 
 ### Literary Legitimization Milestone
 
-In 1987, Taiwan lifted martial law, granting literary creation unprecedented freedom. **The same year, Ye Shitao's "Outline of Taiwan Literary History" was published, establishing Taiwan literary history as a literary category and constructing its own historical narrative.**
+In 1987, Taiwan lifted martial law, granting literary creation unprecedented freedom. **The same year, Ye Shitao's _Outline of Taiwan Literary History_ was published, establishing Taiwan literary history as a literary category and constructing its own historical narrative.**
 
-This work finally answered that jarring 1945 question—Taiwan not only has literature but possesses rich and profound literary tradition.
+This work finally answered that jarring 1945 question — Taiwan not only has literature but possesses rich and profound literary tradition.
 
 ### Indigenous Literary Revival
 
-Under the multicultural era atmosphere, Indigenous literature began reviving. **In 1971, Paiwan author Chen Yingxiong published "Whirlwind Chief: Indigenous Stories," inaugurating modern Indigenous literary creation.**
+Under the multicultural era atmosphere, Indigenous literature began reviving. **In 1971, Paiwan author Chen Yingxiong published _Whirlwind Chief: Indigenous Stories_, inaugurating modern Indigenous literary creation.**
 
 In 1993, Sun Dachuan founded "Mountain Sea Culture Magazine," developing space for Indigenous literature written in Han Chinese. **Indigenous writers including Sun Dachuan, Walis Nokan, Syaman Rapongan, and Badai used modern literary forms to reinterpret Indigenous cultural traditions and modern conditions**, injecting new vitality into Taiwan literature.
 
 **According to Taiwan Literature Network statistics, approximately 2,500 writers' profiles and publication data are currently recorded, with Indigenous writers comprising an important proportion.**
 
-These writers aren't "reminiscing about the past" but "redefining the present"—they use contemporary literary techniques to reinterpret tribal wisdom and values, allowing Indigenous voices to again become mainstream in Taiwan literature after 400 years.
+These writers aren't "reminiscing about the past" but "redefining the present" — they use contemporary literary techniques to reinterpret tribal wisdom and values, allowing Indigenous voices to again become one of Taiwan literature's mainstreams after 400 years.
 
 ### New Generation and Cross-Medium Creation
 
-**New-generation writers including Luo Yijun, Hu Shufen, Gan Yaoming, Wu Mingyi, Chen Xue, and Yigyan opened new possibilities for Taiwan literature with innovative creative techniques and thematic concerns.** Their works often feature cross-cultural, cross-media characteristics reflecting globalized literary landscape.
+**New-generation writers including Luo Yijun, Hu Shufen, Gan Yaoming, Wu Mingyi, Chen Xue, and Yigyan opened new possibilities for Taiwan literature with innovative creative techniques and thematic concerns.** Their works often feature cross-cultural, cross-media characteristics reflecting the globalized literary landscape.
 
-**Women's literature became an important force in Taiwan literary circles. Li Ang's "The Butcher's Wife" used bold themes and sharp writing to expose patriarchal society's oppression of women.** Female writers including Liao Huiying's "Rape Blossoms," Su Weizhen, and Xia Yu enriched Taiwan literature's gender perspective.
+**Women's literature became an important force in Taiwan literary circles. Li Ang's _The Butcher's Wife_ used bold themes and sharp writing to expose patriarchal society's oppression of women.** Female writers including Liao Huiying's _Rape Blossoms_, Su Weizhen, and Xia Yu enriched Taiwan literature's gender perspective.
 
 ### Mother Tongue Literature and Ecological Writing
 
-Important post-martial law developments include **the flourishing of mother tongue literature**, such as Taiwanese literary creation by Xiangyang, Lin Yangmin, and Huang Jinlian, as well as Hakka literary creation by Du Pan Fangge, Zeng Guihai, and Huang Hengqiu.
+Important post-martial law developments include **the flourishing of mother tongue literature**, such as Taiwanese-language literary creation by Xiangyang, Lin Yangmin, and Huang Jinlian, as well as Hakka literary creation by Du Pan Fangge, Zeng Guihai, and Huang Hengqiu.
 
 **Writers including Wu Mingyi, Liu Kezhaung, and Liao Hongji dedicate themselves to nature writing and environmental concerns**, demonstrating Taiwan literature's reflection on ecological crisis. This "ecological literature" not only enriches Taiwan literature's thematic scope but embodies contemporary writers' social responsibility.
 
@@ -164,7 +168,7 @@ From Indigenous ancestors' oral songs to contemporary digital creation, Taiwan l
 | -------------------------- | ---------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
 | **Indigenous Oral**        | Various tribal songs               | "Genesis," "Eight-Part Harmony"                    | Literature as life philosophy                    |
 | **Japanese Modernization** | Lai He, Yang Kui                   | "Joining the Festival," "The Paperboy"             | Vernacular revolution, international recognition |
-| **Modernism**              | Pai Hsien-yung, Wang Wenxing       | "Taipei People," "Family Catastrophe"              | Modern techniques, urban experience              |
+| **Modernism**              | Pai Hsien-yung, Wang Wenxing       | _Taipei People_, _Family Catastrophe_              | Modern techniques, urban experience              |
 | **Nativist Realism**       | Huang Chunming, Wang Zhenhhe       | "The Day to Watch the Sea," "A Cart Full of Dowry" | Local concern, literary debate                   |
 | **Pluralistic Bloom**      | Indigenous writers, new generation | All ethnicities, genres coexist                    | Cross-culture, environmental consciousness       |
 
@@ -174,15 +178,27 @@ Over 400 years, different voices have met, collided, and fused on this land, ult
 
 **That jarring 1945 question "Does Taiwan have literature?" appears so pale before 400 years of literary history.** Taiwan not only has literature; Taiwan literature continues writing stories belonging to this land and its people. From prehistoric oral songs to digital-age internet creation, each era adds new chapters to this long epic.
 
-As poet Yu Guangzhong said: "Taiwan's most beautiful aspect is human sentiment," and this sentiment flows eternally between the lines of Taiwan literature.
+As poet Yu Guangzhong said: "Taiwan's most beautiful aspect is human sentiment" — and this sentiment flows eternally between the lines of Taiwan literature.
 
 ---
 
 ## Further Reading
 
-- [History of Taiwanese Literature - Wikipedia](https://en.wikipedia.org/wiki/Taiwanese_literature)
-- [Rediscovering "The Father of Taiwan's New Literature": Lai He - Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=70fd5d90-ab71-449f-9d1f-1608edb96685)
+- [Japanese Colonial Period Literature](/art/日治時期文學) — 1895-1945: Lai He, Yang Kui, Lu Heruo, and Zhang Wenxiang's Japanese-language era
+- [Postwar Taiwan Literature](/art/戰後台灣文學) — 1945-1987: forty-two years of martial law, from voicelessness to modernism to nativist debate to feminist awakening
+- [Post-Martial Law Taiwan Literature](/art/解嚴後台灣文學) — 1987-2000: the transitional generation where politics, gender, and mother-tongue plurality explosively diversified
+- [Contemporary Taiwan Literature](/art/當代台灣文學) — 21st century: internationalization, Lin Yi-han, digital literature
+- [Lin Liang](/people/林良) — the founding figure of postwar Taiwan children's literature; from 1948 to 2019 he used "the art of simple language" to define writing for children as serious work
+
+---
+
+## References
+
+- [History of Taiwanese Literature — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2)
+- [Rediscovering "The Father of Taiwan's New Literature": Lai He — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=70fd5d90-ab71-449f-9d1f-1608edb96685)
+- [Lai He and Taiwan Literature — Lai He Cultural Foundation](https://www.laiho.org.tw/autopage/1/13)
 - [Taiwan Writers' Works Database](https://db.nmtl.gov.tw/site4/s6/index)
-- [Yang Kui's "The Paperboy": Taiwan Writers' Entry into Japanese Literary Circles - Story Studio](https://storystudio.tw/article/gushi/yang-kui-newspaper-boy)
-- [Taiwan Nativist Literature Debate - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0)
-- [Taiwan Indigenous Literature - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%AD%B8)
+- [Yang Kui's "The Paperboy": Taiwan Writers' Entry into Japanese Literary Circles — Story Studio](https://storystudio.tw/article/gushi/yang-kui-newspaper-boy)
+- [Taiwan Nativist Literature Debate — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0)
+- [Taiwan Indigenous Literature — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%8E%9F%E4%BD%8F%E6%B0%91%E6%96%87%E5%AD%B8)
+- [Book Excerpt: _When They Hurt Each Other: One Hundred Years of Literary Debates in Taiwan_ — Voice Tank](https://voicettank.org/%E6%9B%B8%E6%91%98%E4%BB%96%E5%80%91%E4%BA%92%E7%9B%B8%E5%82%B7%E5%AE%B3%E7%9A%84%E6%99%82%E5%80%99%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E7%99%BE%E5%B9%B4%E8%AB%96%E6%88%B0/)
