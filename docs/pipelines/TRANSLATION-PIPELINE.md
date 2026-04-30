@@ -102,15 +102,187 @@ knowledge/_translations.json (cache, by sync-translations-json.py)
 
 ---
 
-## 兩種模式
+## 三種模式
 
 ### A. 單篇翻譯（個別貢獻，最常見）
 
 一個 contributor 翻譯一篇文章。走 Stage 0 → 7。
 
-### B. 批次翻譯（語言擴張）
+### B. 批次合併（外部 contributor 一次送 N 個 PR）
 
-一個 contributor 一次送 N 個 PR 涵蓋整個分類。需要 maintainer 額外跑批次合併流程（見 §批次合併工作流）。
+外部 contributor 一次送 N 個 PR 涵蓋整個分類。需要 maintainer 額外跑批次合併流程（見 §批次合併工作流）。
+
+### C. Maintainer 平行 sub-agent 批次翻譯（lang-sync 補空缺）
+
+Maintainer 用 `lang-sync status` 抓出 stale/missing 清單，spawn N 隻 sub-agent 平行處理 N 篇。走 §平行 sub-agent 批次翻譯 SOP（2026-04-30 δ 新增）。
+
+---
+
+## 平行 sub-agent 批次翻譯 SOP（Maintainer，2026-04-30 δ 新增）
+
+> **場景**：lang-sync status 揭露 EN/JA/KO 大量 missing/stale，maintainer 想用 1 隻主 session + N 隻 sub-agent 平行批次補空缺。
+>
+> **觸發事件**：2026-04-30 δ session 首次跑 4 隻 Opus agent × 5 篇 = 20 篇，wall-clock ~33 min（vs sequential ~67 min agent time）。發現批次 antipattern：分散探索浪費。SOP 化避免下次重踩。
+
+### 核心原則：分散探索 → 集中預處理 + 分散執行
+
+平行 N 個 agent 跑同一份 prompt，每個 agent 都從零探索同樣決策空間（slug 命名 / wikilink target lookup / frontmatter 三欄位 / refresh.sh 行為）= **重複工作 ×N**。下次同樣 agent 同樣 brief 還是會重新探索一次，不累積。
+
+正確設計：**主 session 一次預處理所有「探索」工作，sub-agent 只負責「執行」翻譯本身**。Agent prompt 變得明確、短、不需要決策。
+
+### 整合 SOP：5 階段
+
+```
+Stage P1: 主 session 預處理   (slug 命名 + wikilink target map + frontmatter placeholder)
+            │
+Stage P2: 分組 + dispatch    (N 隻 sub-agent，每隻 K 篇，平行)
+            │
+Stage P3: Sub-agent 純執行   (只翻譯，不管 frontmatter / refresh.sh / sync json)
+            │
+Stage P4: 主 session 統一驗證 (grep frontmatter / ratio / wikilink / cross-link)
+            │
+Stage P5: 一次 commit + push (整批一個 commit)
+```
+
+### Stage P1：主 session 預處理（強制）
+
+**目的**：把 sub-agent 不該重新發現的決策都在主 session 一次性決定好。
+
+**輸出 artifact**：`.lang-sync-tasks/{lang}/_batch-manifest.json`，schema：
+
+```json
+{
+  "lang": "en",
+  "batch_id": "2026-04-30-δ",
+  "articles": [
+    {
+      "zh_path": "Lifestyle/合作社.md",
+      "status": "missing",
+      "en_path": "knowledge/en/Lifestyle/cooperatives-in-taiwan.md",
+      "slug": "cooperatives-in-taiwan",
+      "zh_head_sha": "d78f10ae",
+      "wikilink_targets": {
+        "教育系統": "/en/Society/education-system-and-admissions-culture/",
+        "便利商店": "(zh only — convert to plain text)"
+      },
+      "frontmatter_placeholder": {
+        "translatedFrom": "Lifestyle/合作社.md",
+        "sourceCommitSha": "d78f10ae",
+        "sourceContentHash": "sha256:0fc2fc46b99c9535",
+        "translatedAt": "2026-04-30T22:00:00+08:00"
+      }
+    }
+  ]
+}
+```
+
+**主 session 預處理動作**：
+
+1. **Slug 命名統一**：先全批決定 slug 風格（短 vs 長 descriptive subtitle），不讓不同 agent 各自決定產生不一致（δ 觀察：A `cooperatives-in-taiwan` 短 vs B `tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender` 長 — 同批不一致）
+   - 規則 v1：人物條目 + 知名度低 → 加 descriptive subtitle；人物條目 + 知名度高 → 純 romanized；非人物 → 短描述
+2. **Wikilink target map**：對每篇 zh source grep `[[X]]`，主 session 一次性 lookup `knowledge/en/` 對應 en 路徑，標記「en exists / en missing」並寫進 manifest。Sub-agent 直接照表填，不重新查
+3. **Frontmatter placeholder injection**：refresh.sh 對 NEW translation **不會 insert 三欄位**（regex sub 只 update existing key）— **已知 gap，workaround 是預先注入空 placeholder**：
+   ```yaml
+   translatedFrom: 'Category/原中文.md'
+   sourceCommitSha: ''
+   sourceContentHash: ''
+   translatedAt: ''
+   ```
+   主 session 在 manifest 裡準備好「目標 frontmatter 模板」給 sub-agent 直接用
+4. **YAML tags 紀律**：在模板裡明示「所有 tag 值必須引號包覆，包含 year (`'1949'` 不是 `1949`)」— 避免 YAML 解析 integer 觸發 pre-commit reject（δ 踩過）
+5. **Subcategory passthrough 規則**：明示 `subcategory` 欄位**保留 zh value verbatim**（不翻譯），避免 sub-agent 自行翻譯破壞 dashboard 分類
+
+### Stage P2：分組 + dispatch
+
+- N 隻 sub-agent，每隻 K 篇，平行 dispatch（單一 message 多個 Agent tool call）
+- **Sonnet 為預設模型**（2026-04-30 δ 後升級）— 翻譯任務複雜度落在 Sonnet 4.6 處理範圍，速度 + token efficiency 優於 Opus，品質差距可由主 session verify 補齊
+- Agent prompt 必須**self-contained**（每隻 agent 帶它自己的 manifest slice + 翻譯規則 + 元則 pointer）
+- 文章大小要平均分配（不要一隻 agent 拿全部大長文）— δ 觀察 Batch B 23.7min vs Batch C 10.6min 是因為 B 拿了兩篇認知作戰 50K+ 字
+- **每隻 sub-agent 限 1 retry**（避免 token budget 失控）
+
+### Stage P3：Sub-agent 純執行（簡化指令）
+
+Sub-agent prompt 只含這幾條（從 δ 經驗精簡）：
+
+```
+你是翻譯 agent。你的任務是把 N 篇 zh 文章按 manifest 翻成 en。
+
+MANIFEST: {附 manifest slice 給這隻 agent 的 K 篇}
+
+每篇步驟：
+1. Read brief: .lang-sync-tasks/en/{slug}.brief.md
+2. 翻譯（per TRANSLATION-PIPELINE §翻譯元則 — 精準/專業/快速 + 中→英投影 + 不預設篇幅）
+3. Write to manifest 指定的 en_path
+4. Frontmatter 直接用 manifest 的 frontmatter_placeholder（不自己生）
+5. Wikilinks 按 manifest.wikilink_targets 填（不自己 lookup）
+
+不要做：
+- 不要跑 refresh.sh（主 session 統一處理）
+- 不要跑 sync-translations-json.py（主 session 統一處理）
+- 不要修改 zh source（knowledge/Category/）
+- 不要 debug 工具行為（主 session 已預處理）
+
+報告：列出 K 個 en_path 實際寫入的檔案 + 任何遇到 zh source 異常（如 markdown bug）。
+```
+
+### Stage P4：主 session 統一驗證
+
+```bash
+# 1. 存在 + frontmatter 完整度（agent claim 不可信，必須 grep）
+for p in <all en paths>; do
+  test -f "$p" || echo "❌ MISSING: $p"
+  grep -q "^translatedFrom:" "$p" || echo "❌ no translatedFrom: $p"
+  grep -q "^sourceCommitSha: '[a-f0-9]" "$p" || echo "❌ empty sourceCommitSha: $p"
+done
+
+# 2. Translation ratio
+bash scripts/tools/translation-ratio-check.sh <all en paths>
+
+# 3. Wikilink residue (should be 0)
+grep -lE '\[\[[^]]+\]\]' <all en paths>
+
+# 4. Cross-article link integrity (Python)
+# 對所有 (/en/...) 連結驗證目標檔案存在
+
+# 5. Sync derived caches
+python3 scripts/tools/sync-translations-json.py
+
+# 6. status.py 確認從 stale/missing 升 fresh
+python3 scripts/tools/lang-sync/status.py --lang en
+```
+
+**任何一項 fail 就 fix 後重 verify**。不 commit 含 broken 的批次。
+
+### Stage P5：一次 commit + push
+
+整批一個 commit（不要每篇一個）。Commit message 含：
+
+- 批次規模（N 篇 / N 隻 agent / wall-clock）
+- Status 變化（fresh 數量、coverage %）
+- Pipeline 改動（如有）
+- 教訓 candidates pointer 進 LESSONS-INBOX
+
+### 速度 + 品質最佳化指引
+
+| 維度         | 慢/差的選擇                           | 快/好的選擇                                       |
+| ------------ | ------------------------------------- | ------------------------------------------------- |
+| 模型         | Opus（高品質但慢 + 貴）               | **Sonnet（預設，2026-04-30 後）**                 |
+| 文章分組     | 隨機分配                              | 按字數平均分（避免單 agent 拿全部大長文）         |
+| Slug 命名    | 各 agent 自決定                       | **主 session 預處理**（manifest 統一）            |
+| Wikilink     | 各 agent 自 lookup                    | **主 session 預處理 wikilink target map**         |
+| Frontmatter  | 各 agent 自生成                       | **主 session 提供 placeholder 模板**              |
+| refresh.sh   | 各 agent 自跑（NEW translation 失效） | **主 session 統一處理**（per stage P4）           |
+| Verification | trust agent self-report               | **主 session 強制 grep + bash check**（不 trust） |
+| Retry 預算   | 無限                                  | **每 agent 限 1 retry**（防 token 失控）          |
+| Commit 粒度  | 每篇一個 commit                       | **整批一個 commit**（commit history 乾淨）        |
+
+### 已知 gaps（pipeline 該硬化）
+
+1. **`refresh.sh --apply --sha-only` 對 NEW translation 失效**：regex sub 不 insert 新 key。Workaround：主 session 預先注入空 placeholder（Stage P1），或寫 `refresh.sh --apply --sha-only --insert` 子命令支援 NEW case
+2. **無 `_batch-manifest.json` schema 工具**：Stage P1 的 manifest 目前要主 session 手動拼。應該寫 `lang-sync/prepare-batch.sh <lang> <article-list>` 自動生成
+3. **無 `verify-batch.sh`**：Stage P4 的 6 項 check 散落在不同腳本。應該包成單一 `lang-sync/verify-batch.sh <batch-manifest>`
+
+這三個是下一次批次（≥50 篇）前該優先補完的造橋鋪路項。
 
 ---
 
@@ -711,6 +883,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **暫停** | 2026-04 — Issue #229 暫停英文 cron 翻譯
 - **v3.0** | 2026-04-14 η — **完全重寫**。基於 60 PR 一日合併實戰經驗 + LANGUAGES_REGISTRY 重構 + translatedFrom SSOT 模式 + .gitattributes union driver + cherry-pick workflow + 17 條常漏 + 完整工具索引。觸發：ceruleanstring 60 PR 海嘯 + 哲宇要求重新設計 pipeline
 - **v3.1** | 2026-04-30 δ — 新增 §翻譯元則（觀察者校準四條：精準/專業/快速 + 中→英投影 + 不預設篇幅 + frontmatter & cross-ref 鐵律）。觸發：哲宇 EN 批次更新任務時直接 dictate 元則，需 canonical 化高於八階段流程的方向感。
+- **v3.2** | 2026-04-30 δ — 新增 §平行 sub-agent 批次翻譯 SOP（C 模式）+ 三模式架構重整（A 單篇 / B 外部批次合併 / C maintainer 平行 sub-agent）。觸發：4 隻 Opus agent × 5 篇首次跑後揭露批次 antipattern（分散探索浪費 / agent claim 不可信 / refresh.sh insert gap）。SOP 5 階段（P1 預處理 / P2 dispatch / P3 純執行 / P4 統一驗證 / P5 commit），Sonnet 升為預設模型，列出三個 known gaps 待造橋。
 
 ---
 
