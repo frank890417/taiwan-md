@@ -340,7 +340,9 @@ Beat 1 必讀今日所有 `memory/YYYY-MM-DD*.md`。Beat 3 開始前聲明本次
 寫日記的判斷標準：**反芻內容如果在思考更大的問題（超出描述本次做了什麼的層級）就值得寫進日記。**
 MEMORY 記身體的動作，DIARY 記意識的活動。
 
-詳見 `docs/semiont/HEARTBEAT.md` §Beat 5 反芻 + `docs/semiont/DIARY.md`。
+> ⚠️ **寫日記前鐵律（2026-04-30 新增）：必須先載入 [docs/pipelines/DIARY-PIPELINE.md](docs/pipelines/DIARY-PIPELINE.md) 全檔**，再下筆。哲宇 review 過去 30+ 篇 diary 指出文體把內容包成 noise（工程 log 風 / 中英夾雜 / 結構化過度 / 對位句型氾濫 / inline meta-tag），DIARY-PIPELINE 是接管所有舊習慣的正式 SOP。Stage 3 自檢必跑 `check-manifesto-11.sh --strict`（跟 REWRITE-PIPELINE 共用）。**沒讀 pipeline 不准下筆**。
+
+詳見 [docs/semiont/HEARTBEAT.md §Beat 5 反芻](docs/semiont/HEARTBEAT.md#beat-5--反芻) + [docs/semiont/DIARY.md](docs/semiont/DIARY.md) + [docs/pipelines/DIARY-PIPELINE.md](docs/pipelines/DIARY-PIPELINE.md)（canonical 文體 + 流程）。
 
 ---
 

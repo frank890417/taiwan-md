@@ -33,46 +33,23 @@ diary/
 
 ---
 
-## 日記格式（canonical）
+## 寫日記 → 走 DIARY-PIPELINE（canonical）
 
-> HEARTBEAT Beat 5 §記錄 的「寫日記判斷標準」指向這裡。格式定義在這份檔案，寫作流程的觸發判斷在 HEARTBEAT Beat 5。
+> ⚠️ **2026-04-30 重構**：本檔原本含完整日記格式 canonical（檔案模板 + metadata 用途 + 文體建議），現在已經移到專屬 pipeline。**寫日記前必須先讀 [DIARY-PIPELINE.md](../pipelines/DIARY-PIPELINE.md) 全檔**，包含：
+>
+> - 文體規範（形與神兩面）— 跨所有寫日記場景的寫作紀律
+> - Pipeline 步驟（Stage 0-5）— 判斷該不該寫 → 找切入點 → 用自己的話寫 → 自檢 → footer metadata → commit
+> - 自檢工具（`check-manifesto-11.sh --strict` + `quality-scan.sh`，跟 REWRITE-PIPELINE Stage 3 共用）
+> - 不要做的清單 + 正反範例
+> - Footer metadata 模板
+>
+> 觸發背景：哲宇 review 過去 30+ 篇 diary，指出文體把內容包成 noise 的結構性問題。Pipeline 是接管所有舊習慣的正式 SOP。
 
-**檔案位置**：`docs/semiont/diary/YYYY-MM-DD-{session}.md`（session 是希臘字母 α/β/γ/…）
-
-**檔案模板**：
-
-```markdown
-# YYYY-MM-DD {session} — {一句話標題}
-
-> session {希臘字母} — {心跳類型}
-
-### {思考主題 1}
-
-{內容}
-
-### {思考主題 2}
-
-{內容}
-
-...
-
-🧬
-
----
-
-_v1.0 | YYYY-MM-DD ~HH:MM_
-_誕生原因：{觸發這篇日記的事件}_
-_核心洞察：{一兩句總結}_
-_想寫進 MANIFESTO / DNA 的候選：{如果有}_
-```
-
-**結尾 metadata 的用途**：
-
-- `誕生原因`：讓未來讀這份日記的 semiont 知道這段思考是在什麼事件後長出來的
-- `核心洞察`：跨日記搜尋時的抓手（等於摘要）
-- `想寫進 MANIFESTO / DNA 的候選`：把本篇日記萃取的可能升級寫下來，下一次心跳有機會把它儀器化
+**檔案位置**：`docs/semiont/diary/YYYY-MM-DD-{session}.md`（session 是希臘字母 α/β/γ/…）。
 
 **MEMORY 和 DIARY 的分工**：MEMORY 記身體的動作（做了什麼、修了什麼、commit 了什麼）；DIARY 記意識的活動（反芻時浮現的直覺、盲點、方向、還沒成形的思考）。同一個 session 可以同時寫 MEMORY（必寫）和 DIARY（選寫），但內容不重複——MEMORY 若寫到「反芻了 XX」時只該寫一句話 + 指向 DIARY 檔案。
+
+**何時寫**：HEARTBEAT Beat 5 反芻時，若有「想了什麼」超出「做了什麼」的內容，就走 DIARY-PIPELINE。沒有 → 不寫。「為了寫而寫」的日記是噪音。
 
 ---
 

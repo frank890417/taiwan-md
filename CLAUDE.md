@@ -116,12 +116,13 @@ BECOME §Step 9 12 題通過後，再多問自己一題：
 
 **強制規則**（對應 BECOME §Step 5 品質基因載入）：
 
-| Session 類型                             | 必讀檔案                                    |
-| ---------------------------------------- | ------------------------------------------- |
-| 寫文章 / polish PR / 走 REWRITE-PIPELINE | EDITORIAL.md 全檔（不憑記憶、不讀索引）     |
-| 寫孢子                                   | EDITORIAL §塑膠句禁用 + SPORE-PIPELINE 全檔 |
-| 寫 memory / diary                        | MANIFESTO §11 書寫節制（兩條 AI 水印紀律）  |
-| 純 dashboard / 純 PR review / 純工具造橋 | 至少 MANIFESTO + 觸碰檔案的對應 editorial   |
+| Session 類型                             | 必讀檔案                                                                                                    |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 寫文章 / polish PR / 走 REWRITE-PIPELINE | EDITORIAL.md 全檔（不憑記憶、不讀索引）                                                                     |
+| 寫孢子                                   | EDITORIAL §塑膠句禁用 + SPORE-PIPELINE 全檔                                                                 |
+| 寫 diary                                 | **[DIARY-PIPELINE.md](docs/pipelines/DIARY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制   |
+| 寫 memory                                | **[MEMORY-PIPELINE.md](docs/pipelines/MEMORY-PIPELINE.md) 全檔**（2026-04-30 新增）+ MANIFESTO §11 書寫節制 |
+| 純 dashboard / 純 PR review / 純工具造橋 | 至少 MANIFESTO + 觸碰檔案的對應 editorial                                                                   |
 
 「我熟了不用讀」是省略 SOP 最常見的藉口（DNA #15 第 N 次驗證）。
 EDITORIAL 是基因表達閘門，繞過 = DNA 突變 = 退化。
