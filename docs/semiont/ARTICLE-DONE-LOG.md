@@ -42,6 +42,22 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 毒馬鈴薯認知作戰 NEW — 2026-04-30 α-r2 完成（200 ppm 之外還有 30 ppm / 14 天 / 15 年食安傷疤 / Society）
+
+- **Article**: [knowledge/Society/毒馬鈴薯認知作戰.md](../../knowledge/Society/毒馬鈴薯認知作戰.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式，全 Stage 0-6（跳過 Stage 4.5 媒體插入：政府記者會 / 立院 IVOD 截圖授權需個別申請，待後 polish）
+- **觸發**：cheyu 即時觸發 P0「正在被認知作戰和攻擊⋯走 rewrite pipeline 寫一篇文章」+ 提供 Google 第一頁搜尋結果
+- **核心矛盾**：「中共敘事踩準了 15 年食安傷疤——而地基是真的」（agent §10 候選 c，§11 fix 後 drop 對位句型）
+- **Hook**：「投名狀」的早上 — 從 2026-04-29 國台辦發言人陳斌華記者會切入，用三層假面（科學 / 治理 / 信任）解剖
+- **8 scene 非編年體**：「投名狀」的早上 / 200 ppm 是一個算術題 / 真正的 gap 不在 200 ppm，叫 CIPC / 1 月 16 日到 2 月 13 日的 28 天 / 「逐顆檢查」與 85 個邊境檢查員 / 2011 年的塑化劑到 2024 年的萊豬 / 「投名狀」如何精準踩進來 / 所以問題是什麼
+- **品質**：31 footnote / ~24,635 字 (S 級旗艦) / §11 對位句型 0 處 / 破折號密度 1.85 / 1500 字 (門檻 15) ✓ / 塑膠句 0 / 歐化七種 0 / format-check 7/7 全綠 / wikilink 5 條全 verified
+- **Stage 1 研究**：spawn general-purpose agent → 14 WebSearch + 16 WebFetch / 落檔 [reports/research/2026-04/毒馬鈴薯認知作戰.md](../../reports/research/2026-04/毒馬鈴薯認知作戰.md) 533 行 / 18 條 verbatim 直接引語 / frontmatter verification 三層 (high_confidence / single_source / unverified)
+- **Stage 1.5 自主拍板**（cheyu 反饋「為什麼一直停下來問我」+ β-r3 META-PATTERN「Default 是行動，不是 defer」校準）：(1) 採 agent 推薦核心矛盾候選 c (§11 fix 後 drop 對位)；(2) 8 scene 三層假面結構 (科學 / 治理 / 信任)；(3) 標題用 4 個數字 anchor (200ppm / 30ppm / 14 天 / 15 年)；(4) Stage 4.5 媒體插入延後到 polish round
+- **Stage 3.5 hallucination audit 抓到 2 條 critical 修正**：(a) 萊豬公投數字「410 萬同意」修為「3,936,386 票（48.79%）vs 4,131,371 票（51.21%）」（誤差 16.5 萬）；(b) 塑化劑「217 廠商」修為「119→155 家」+ 補上技正楊明玉發現過程；(c) 餿水油「645 噸地溝油」修為「香港 + 日本進口共 759 噸非食用豬油 + 200+ 噸地溝油」+ 移除「味全/味王/奇美/85 度 C」（與 2014 頂新案 conflate 風險）
+- **Stage 5 cross-link**：forward 5 條（[[認知作戰]] / [[2026鄭習會與國共十年再會]] / [[台海危機與兩岸關係發展]] / [[蔡英文]] / [[賴清德]]）+ reverse 1 條（[[認知作戰]] 加延伸閱讀指回）
+- **MANIFESTO §自主權邊界處理**：政治立場條款由 cheyu explicit go 解除（「這交給你了，深度研究，走 rewrite pipeline」）；§熱帶雨林兩條 axis 對齊（臺灣島史觀 ✓ + 台灣主權 ✓）；§10 幻覺鐵律 Stage 3.5 抓到 3 條 hallucination 全修
+- **編輯立場踐行**（cheyu「真實打破謎障，克服認知作戰」）：拒絕「政府闢謠 vs 中共抹黑」二元；同時批沈政男「食安情結」化約 + 國台辦「投名狀」化約；§反例 §12 列 10 條「不能說的話」；結尾灰色地帶式不下結論
+
 ### 海底電纜 NEW — 2026-04-29 α 完成（矽盾頂上看得到，命脈底下看不見 / Technology）
 
 - **Article**: [knowledge/Technology/海底電纜.md](../../knowledge/Technology/海底電纜.md)
