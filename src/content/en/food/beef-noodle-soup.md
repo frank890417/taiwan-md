@@ -6,9 +6,9 @@ tags: [food, beef noodle soup, mainlander cuisine, cultural fusion, Taipei Beef 
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Taiwanese_Beef_Noodle_Soup.jpg/960px-Taiwanese_Beef_Noodle_Soup.jpg"
-imageAlt: "Taiwanese Beef Noodle Soup"
-imageCredit: "Wikimedia Commons, CC BY-SA"
+image: '/images/wiki/5be514264de6.jpg'
+imageAlt: 'Taiwanese Beef Noodle Soup'
+imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
 ---
 
@@ -23,11 +23,11 @@ _Image source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiwa
 
 ### From Taboo to Delicacy
 
-In Taiwan's traditional agricultural society, there was a deeply rooted belief that "cattle are helpers, not food." Cattle were essential partners in farming, and there was a folk custom against eating beef. This dietary taboo underwent a dramatic transformation after 1949 with the relocation of the Kuomintang (KMT) government to Taiwan, which brought different food cultures—including the practice of eating beef.[^2]
+In Taiwan's traditional agricultural society, there was a deeply rooted belief that "cattle are helpers, not food." Cattle were essential partners in farming, and there was a folk custom against eating beef. This dietary taboo underwent a dramatic transformation after 1949 with the relocation of the Kuomintang (KMT) government to Taiwan, which brought different food cultures—including the practice of eating beef.[^1]
 
 ### Nostalgic Creation by Mainlander Immigrants
 
-The birth of beef noodle soup was a process of fusion and innovation. Veterans from Sichuan province, settled in Kaohsiung's Gangshan district, were the main promoters of the spicy "red-braised" profile, utilizing local fermented bean paste (doubanjiang) to recreate the flavors of their hometown.[^3] In Taipei, the "Gongyuan Beef Noodle" stall, established around 1962 near the 228 Peace Memorial Park, is often cited as one of the earliest pioneers in popularized beef noodle soup.
+The birth of beef noodle soup was a process of fusion and innovation. Veterans from Sichuan province, settled in Kaohsiung's Gangshan district, were the main promoters of the spicy "red-braised" profile, utilizing local fermented bean paste (doubanjiang) to recreate the flavors of their hometown.[^2] In Taipei, the "Gongyuan Beef Noodle" stall, established around 1962 near the 228 Peace Memorial Park, is often cited as one of the earliest pioneers in popularized beef noodle soup.
 
 **Military Food Culture:**
 In the military, beef was an important protein source. Veterans brought the stewing techniques they learned in the army to civilian life, beginning to prepare beef dishes in Taiwan.
@@ -152,7 +152,7 @@ Good noodles need to be chewy but not hard, cooking time controlled at 2-3 minut
 
 ### Establishment of the Beef Noodle Festival
 
-In 2005, the Taipei City Government founded the "Taipei International Beef Noodle Festival" to promote Taiwanese beef noodle culture and enhance international recognition.
+In 2005, the Taipei City Government founded the "Taipei International Beef Noodle Festival" to promote Taiwanese beef noodle culture and enhance international recognition.[^3]
 
 **Event Content:**
 
@@ -167,7 +167,7 @@ Judges score from four aspects: broth, meat quality, noodles, and overall presen
 ### International Media Attention
 
 **CNN Selection:**
-Taiwanese beef noodle soup was selected by CNN as one of the "World's 40 Best Foods," greatly enhancing international recognition.
+Taiwanese beef noodle soup was selected by CNN as one of the "World's 40 Best Foods," greatly enhancing international recognition.[^4]
 
 **Michelin Guide:**
 After the 2018 Taiwan Michelin Guide was released, multiple beef noodle shops received recommendations, including:
@@ -352,12 +352,12 @@ With advancing internationalization, Taiwanese beef noodle soup is shining on th
 
 ---
 
-_References:_
+## References
 
-[^2]: [The News Lens: Why didn't old Taiwanese people eat beef?](https://www.thenewslens.com/article/115535) — The News Lens: Why didn't old Taiwanese people eat beef?
+[^1]: [The News Lens: Why didn't old Taiwanese people eat beef?](https://www.thenewslens.com/article/115535)
 
-[^3]: [Liberty Times: The origin of Gangshan Doubanjiang and Beef Noodle Soup](https://food.ltn.com.tw/article/10125) — Liberty Times: The origin of Gangshan Doubanjiang and Beef Noodle Soup
+[^2]: [Liberty Times: The origin of Gangshan Doubanjiang and Beef Noodle Soup](https://food.ltn.com.tw/article/10125)
 
-[^5]: [CNN Travel: World's 40 best foods - Taiwanese Beef Noodle Soup](http://www.cnn.com/travel/article/world-best-food-dishes/index.html) — CNN Travel: World's 40 best foods - Taiwanese Beef Noodle Soup
+[^3]: [Taipei International Beef Noodle Festival Official Website](https://tpebeefnoodle.com.tw/)
 
-[^7]: [Taipei International Beef Noodle Festival Official Website](https://tpebeefnoodle.com.tw/) — Taipei International Beef Noodle Festival Official Website
+[^4]: [CNN Travel: World's 40 best foods - Taiwanese Beef Noodle Soup](http://www.cnn.com/travel/article/world-best-food-dishes/index.html)

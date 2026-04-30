@@ -20,11 +20,14 @@ translatedFrom: 'Food/台灣滷肉飯.md'
 
 # Braised Pork Rice (滷肉飯)
 
-A humble bowl of braised pork rice—lǔròu fàn (滷肉飯)—is one of Taiwan’s most emotional foods. It is a dish that tastes like home, late-night sustenance, and childhood memory all at once. What looks simple—pork, soy, and steamed rice—actually carries a complex story of migration, adaptation, and cultural identity. In Taiwan, this bowl is not just comfort food; it is a national conversation.
+![Braised Pork Rice in Taichung](/images/food/braised-pork-rice.jpg)
+_Image Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Braised_pork_rice_in_Taichung.jpg) | CC BY-SA | Photographer Unknown_
+
+A humble bowl of braised pork rice—lǔròu fàn (滷肉飯)—is one of Taiwan’s most emotional foods. It is a dish that tastes like home, late-night sustenance, and childhood memory all at once. What looks simple—pork, soy, and steamed rice—actually carries a complex story of migration, adaptation, and cultural identity. In Taiwan, this bowl is not just comfort food; it is a national conversation.[^1]
 
 ## The Naming War: 滷肉飯 vs. 肉燥飯
 
-One of Taiwan’s most charming food debates is over what to call this dish. In the north, people say **lǔròu fàn (滷肉飯)**; in the south, it’s **ròuzào fàn (肉燥飯)**. This is not merely a linguistic difference. It reflects two distinct cooking traditions.
+One of Taiwan’s most charming food debates is over what to call this dish. In the north, people say **lǔròu fàn (滷肉飯)**; in the south, it’s **ròuzào fàn (肉燥飯)**. This is not merely a linguistic difference. It reflects two distinct cooking traditions.[^2]
 
 **Northern style (滷肉飯):**
 
@@ -50,13 +53,13 @@ As these villages dispersed and disappeared, their recipes traveled into city ne
 
 ## The 2011 “National Dish” Debate
 
-In 2011, braised pork rice became the center of a diplomatic and cultural firestorm. The _Michelin Green Guide Taiwan_ erroneously claimed the dish originated from Shandong province in China. This assertion sparked widespread outrage in Taiwan, leading then-Taipei Mayor Hau Lung-bin to organize a massive protest event where over 1,000 bowls of authentic Taiwanese braised pork rice were distributed to prove its local identity.
+One of the most famous controversies in its history occurred in 2011, when the English edition of the Michelin Green Guide to Taiwan translated it as "Lu (Shandong-style) Meat Rice" and claimed it originated from Shandong, China.[^3] This assertion sparked widespread outrage in Taiwan, leading then-Taipei Mayor Hau Lung-bin to organize a massive protest event where over 1,000 bowls of authentic Taiwanese braised pork rice were distributed to prove its local identity.
 
-Later that year, a media poll in Taiwan crowned braised pork rice the “national dish,” beating competitors like beef noodle soup (牛肉麵) and oyster omelets (蚵仔煎). CNN also listed it at the top of its "40 Taiwanese Foods We Can't Live Without" list, further cementing its status as a culinary icon.
+Later that year, a media poll in Taiwan crowned braised pork rice the “national dish,” beating competitors like beef noodle soup (牛肉麵) and oyster omelets (蚵仔煎). CNN also listed it at the top of its "40 Taiwanese Foods We Can't Live Without" list, further cementing its status as a culinary icon.[^4]
 
 ## Globalization and Cultural Export
 
-In recent years, Taiwan has actively promoted braised pork rice as a culinary ambassador. “Taiwan Braised Pork Rice Festivals” (滷肉飯節) have been held to attract international attention. Taiwanese restaurants abroad—from Los Angeles to Tokyo, Singapore to Melbourne—often list braised pork rice as a signature dish.
+In recent years, Taiwan has actively promoted braised pork rice as a culinary ambassador. “Taiwan Braised Pork Rice Festivals” (滷肉飯節) have been held to attract international attention.[^5] Taiwanese restaurants abroad—from Los Angeles to Tokyo, Singapore to Melbourne—often list braised pork rice as a signature dish.
 
 Interestingly, the north–south debate fades abroad. Overseas diners welcome both minced and chunky versions. Cultural export becomes more flexible: the dish adapts to new contexts without losing its identity.
 
@@ -79,8 +82,14 @@ Braised pork rice is a small dish with big meanings. It is a culinary map of Tai
 
 In Taiwan, every bowl carries a story: a grandmother in a village kitchen, a late-night office worker needing comfort, a traveler’s first encounter with “Taiwanese flavor.” That is why this dish remains so powerful. It is not just food—it is Taiwan’s everyday memory.
 
-_References:_
+## References
 
-[^1]: [CNN Travel: 40 Taiwanese foods we can't live without](http://www.cnn.com/travel/article/40-taiwan-food/index.html) — CNN Travel: 40 Taiwanese foods we can't live without
+[^1]: [Wikipedia: Braised Pork Rice](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — Compiles the historical background of braised pork rice.
 
-[^2]: [Liberty Times: The linguistic and culinary divide between Northern and Southern Braised Pork Rice](https://food.ltn.com.tw/article/10452) — Liberty Times: The linguistic and culinary divide between Northern and Southern Braised Pork Rice
+[^2]: [Wikipedia: Braised Pork Rice](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — Details the North vs South cultural naming conventions.
+
+[^3]: [Wikipedia: Braised Pork Rice](https://zh.wikipedia.org/zh-tw/%E6%BB%B7%E8%82%89%E9%A3%AF) — Records the 2011 Michelin "Shandong origin" misreporting incident.
+
+[^4]: [CNN Travel: Taiwan’s 40 best foods and drinks](https://edition.cnn.com/travel/article/40-taiwan-food/index.html) — CNN’s list of Taiwan’s essential foods, placing Braised Pork Rice at number one.
+
+[^5]: [Ministry of Economic Affairs: 2019 Taiwan Braised Pork Rice Festival (YouTube)](https://www.youtube.com/watch?v=zkvOChbvzAQ) — Official promotional video for the festival.
