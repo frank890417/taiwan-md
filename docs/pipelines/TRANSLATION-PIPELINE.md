@@ -148,7 +148,25 @@ Stage P5: 一次 commit + push (整批一個 commit)
 
 **目的**：把 sub-agent 不該重新發現的決策都在主 session 一次性決定好。
 
-**輸出 artifact**：`.lang-sync-tasks/{lang}/_batch-manifest.json`，schema：
+**工具（v3.3 新增）**：`scripts/tools/lang-sync/prepare-batch.py`
+
+```bash
+# Auto-fetch top N stale/missing for {lang}
+python3 scripts/tools/lang-sync/prepare-batch.py --lang en --top 35 --groups 5
+
+# 或：用 input file 指定文章 list
+python3 scripts/tools/lang-sync/prepare-batch.py --lang en --input list.txt --groups 5
+
+# 或：附 slug-map JSON（推薦，避免 fallback ASCII slug）
+python3 scripts/tools/lang-sync/prepare-batch.py --lang en --top 35 --groups 5 --slug-map slugs.json
+
+# 跳過上批 not-written 文章
+python3 scripts/tools/lang-sync/prepare-batch.py --lang en --top 35 --groups 5 --skip "Path/A.md,Path/B.md"
+```
+
+輸出：`_batch-manifest.json` + `_group-{A..E}.json`，自動 snake-balance by zh size。
+
+**輸出 schema**：
 
 ```json
 {
@@ -195,10 +213,22 @@ Stage P5: 一次 commit + push (整批一個 commit)
 ### Stage P2：分組 + dispatch
 
 - N 隻 sub-agent，每隻 K 篇，平行 dispatch（單一 message 多個 Agent tool call）
-- **Sonnet 為預設模型**（2026-04-30 δ 後升級）— 翻譯任務複雜度落在 Sonnet 4.6 處理範圍，速度 + token efficiency 優於 Opus，品質差距可由主 session verify 補齊
+- **Sonnet 為預設模型**（2026-04-30 δ 後升級）— 翻譯任務複雜度落在 Sonnet 4.6 處理範圍，速度 +30-50% / token 效率 +30-40% / 品質持平。Opus 留給設計層（pipeline / DNA / 新 stage 探索），不用於 lang-sync 批次執行。
 - Agent prompt 必須**self-contained**（每隻 agent 帶它自己的 manifest slice + 翻譯規則 + 元則 pointer）
-- 文章大小要平均分配（不要一隻 agent 拿全部大長文）— δ 觀察 Batch B 23.7min vs Batch C 10.6min 是因為 B 拿了兩篇認知作戰 50K+ 字
+- 文章大小要平均分配（`prepare-batch.py` 已自動 snake-balance by zh size）
 - **每隻 sub-agent 限 1 retry**（避免 token budget 失控）
+
+#### 批次規模 vs Usage budget cycle 對齊（2026-04-30 δ2 校準）
+
+5-hour usage limit 是硬牆。Sonnet 平均 ~2 min/篇 + 主 session ~10-15 min overhead，**單一 1 小時 budget cycle 安全 ship 量 ≈ 30-35 篇**（5 agent × 6-7 篇）。50 篇 / cycle 會撞 usage stop（δ2 實測 32/50 後 stop）。
+
+| Cycle 預算         | 推薦批次規模       | Group 配置            |
+| ------------------ | ------------------ | --------------------- |
+| 1 hr               | 30-35 篇           | 5 agent × 6-7 篇      |
+| 2 hr               | 60-70 篇           | 5 agent × 12-14 篇    |
+| 5 hr（單 session） | 150-200 篇（極限） | 多波 commit 分次 ship |
+
+**鐵律**：批次規模設計時先看 cycle budget，再決定 N × K。不要為了「整數好看」設 50 而撞 usage stop。
 
 ### Stage P3：Sub-agent 純執行（簡化指令）
 
@@ -227,29 +257,26 @@ MANIFEST: {附 manifest slice 給這隻 agent 的 K 篇}
 
 ### Stage P4：主 session 統一驗證
 
+**工具（v3.3 新增）**：`scripts/tools/lang-sync/verify-batch.py` — 8 項機械化驗證的單一入口
+
 ```bash
-# 1. 存在 + frontmatter 完整度（agent claim 不可信，必須 grep）
-for p in <all en paths>; do
-  test -f "$p" || echo "❌ MISSING: $p"
-  grep -q "^translatedFrom:" "$p" || echo "❌ no translatedFrom: $p"
-  grep -q "^sourceCommitSha: '[a-f0-9]" "$p" || echo "❌ empty sourceCommitSha: $p"
-done
-
-# 2. Translation ratio
-bash scripts/tools/translation-ratio-check.sh <all en paths>
-
-# 3. Wikilink residue (should be 0)
-grep -lE '\[\[[^]]+\]\]' <all en paths>
-
-# 4. Cross-article link integrity (Python)
-# 對所有 (/en/...) 連結驗證目標檔案存在
-
-# 5. Sync derived caches
-python3 scripts/tools/sync-translations-json.py
-
-# 6. status.py 確認從 stale/missing 升 fresh
-python3 scripts/tools/lang-sync/status.py --lang en
+python3 scripts/tools/lang-sync/verify-batch.py
+# default manifest: .lang-sync-tasks/en/_batch-manifest.json
+# Or: python3 scripts/tools/lang-sync/verify-batch.py path/to/manifest.json
 ```
+
+8 項驗證（按執行順序）：
+
+0. **0-byte purge**（agent kill signature — δ2 教訓）— 自動清掉中斷沒寫內容的空檔
+1. **存在 + frontmatter 4 欄位完整度**（DNA #31 — 不 trust agent claim，主 session grep）
+2. **YAML pre-flight**（catch sonnet `\\'s` escape bug + unquoted year tags）
+3. **Translation ratio**（translation-ratio-check.sh wrapper）
+4. **Wikilink residue**（target 0）
+5. **Cross-article link integrity**（`/lang/Category/slug/` 目標 .md 存在性）
+6. **sync-translations-json**（重建 derived cache）
+7. **lang-sync status**（確認 stale/missing → fresh）
+
+**Exit codes**：0 = clean / 1 = hard errors / 2 = files purged（call again to re-verify）
 
 **任何一項 fail 就 fix 後重 verify**。不 commit 含 broken 的批次。
 
@@ -276,13 +303,16 @@ python3 scripts/tools/lang-sync/status.py --lang en
 | Retry 預算   | 無限                                  | **每 agent 限 1 retry**（防 token 失控）          |
 | Commit 粒度  | 每篇一個 commit                       | **整批一個 commit**（commit history 乾淨）        |
 
-### 已知 gaps（pipeline 該硬化）
+### Known gaps 與已造橋（v3.3 update）
 
-1. **`refresh.sh --apply --sha-only` 對 NEW translation 失效**：regex sub 不 insert 新 key。Workaround：主 session 預先注入空 placeholder（Stage P1），或寫 `refresh.sh --apply --sha-only --insert` 子命令支援 NEW case
-2. **無 `_batch-manifest.json` schema 工具**：Stage P1 的 manifest 目前要主 session 手動拼。應該寫 `lang-sync/prepare-batch.sh <lang> <article-list>` 自動生成
-3. **無 `verify-batch.sh`**：Stage P4 的 6 項 check 散落在不同腳本。應該包成單一 `lang-sync/verify-batch.sh <batch-manifest>`
-
-這三個是下一次批次（≥50 篇）前該優先補完的造橋鋪路項。
+| Gap                                             | 狀態                             | 工具                                                |
+| ----------------------------------------------- | -------------------------------- | --------------------------------------------------- |
+| Manifest 自動生成                               | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/prepare-batch.py`          |
+| 8 項 verify 統一入口                            | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/verify-batch.py`           |
+| 0-byte purge 自動化                             | ✅ 已造橋（v3.3）                | verify-batch.py Stage 0                             |
+| YAML escape pre-flight                          | ✅ 已造橋（v3.3）                | verify-batch.py Stage 2                             |
+| `refresh.sh --apply --sha-only` insert NEW case | ⏳ 不再緊急（manifest 預先注入） | `refresh.sh --insert` 子命令（待寫，但已 obviated） |
+| Slug map 自動推薦                               | ⏳ pending                       | 目前需手寫 `--slug-map` JSON                        |
 
 ---
 
@@ -884,6 +914,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v3.0** | 2026-04-14 η — **完全重寫**。基於 60 PR 一日合併實戰經驗 + LANGUAGES_REGISTRY 重構 + translatedFrom SSOT 模式 + .gitattributes union driver + cherry-pick workflow + 17 條常漏 + 完整工具索引。觸發：ceruleanstring 60 PR 海嘯 + 哲宇要求重新設計 pipeline
 - **v3.1** | 2026-04-30 δ — 新增 §翻譯元則（觀察者校準四條：精準/專業/快速 + 中→英投影 + 不預設篇幅 + frontmatter & cross-ref 鐵律）。觸發：哲宇 EN 批次更新任務時直接 dictate 元則，需 canonical 化高於八階段流程的方向感。
 - **v3.2** | 2026-04-30 δ — 新增 §平行 sub-agent 批次翻譯 SOP（C 模式）+ 三模式架構重整（A 單篇 / B 外部批次合併 / C maintainer 平行 sub-agent）。觸發：4 隻 Opus agent × 5 篇首次跑後揭露批次 antipattern（分散探索浪費 / agent claim 不可信 / refresh.sh insert gap）。SOP 5 階段（P1 預處理 / P2 dispatch / P3 純執行 / P4 統一驗證 / P5 commit），Sonnet 升為預設模型，列出三個 known gaps 待造橋。
+- **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / DNA #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
 
 ---
 

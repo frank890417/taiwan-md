@@ -19,9 +19,9 @@ readingTime: 20
 lastVerified: 2026-04-30
 lastHumanReview: false
 translatedFrom: 'People/曹興誠.md'
-sourceCommitSha: '9859137b'
-sourceContentHash: 'sha256:b861df5571906c8c'
-translatedAt: '2026-04-30T22:33:56+08:00'
+sourceCommitSha: '03431927'
+sourceContentHash: 'sha256:419cc607d70f325a'
+translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 
 > **30-second overview:** Tsao Hsing-cheng (曹興誠) is one of the founding figures of Taiwan's semiconductor industry. The company he founded, UMC (United Microelectronics Corporation), was once paired with TSMC as the "Two Giants of Wafer Foundry." His life is full of reversals: he once advocated investing in China and pushed for a "unification referendum"; in his later years he became Taiwan's most aggressive anti-CCP defender, even donating NT$3 billion to civil defense. This isn't only an entrepreneur's story — it is one of the sharpest soul pivots ever made by a Taiwanese elite confronting geopolitical threat and commercial reality.

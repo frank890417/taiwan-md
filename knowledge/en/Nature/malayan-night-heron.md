@@ -1,15 +1,13 @@
 ---
-title: 'Malayan Night Heron: When the City Becomes the Forest'
-description: 'In 4,000 bird records compiled by the Chinese Wild Bird Federation between 1985 and 1992, the Malayan Night Heron showed up in just 25 — listed as a "rare resident" in field guides. Three decades later, you can see it daily on NTU''s Royal Palm Boulevard and in Daan Forest Park. The popular story is that "it learned not to fear humans," but Hsiao-Wei Yuan''s ringing study at NTU since 2010 points to a different answer: Taiwan''s densely forested campuses and unsprayed lawns happen to replicate this bird''s original low-elevation forest niche. The bird didn''t change. The land did.'
+title: "Malayan Night Heron: A Birdwatcher's Dream Species, the Campus's Big Dumb Bird"
+description: "In 4,000 bird records compiled by the Chinese Wild Bird Federation between 1985 and 1992, the Malayan Night Heron appeared in just 25 — listed as a rare resident in field guides. Three decades later, it can be seen every day on NTU's Royal Palm Boulevard and in Daan Forest Park. The popular explanation is that 'it became unafraid of people,' but Hsiao-Wei Yuan's ringing research at NTU since 2010 points to a different answer: Taiwan's densely forested campuses and unsprayed lawns happen to replicate the bird's original low-elevation forest niche. The bird didn't change. The land did."
 date: 2026-04-30
 tags:
-  [
-    'taiwan ecology',
-    'urban birds',
-    'malayan night heron',
-    'big dumb bird',
-    'citizen science',
-  ]
+  - 'taiwan ecology'
+  - 'urban birds'
+  - 'malayan night heron'
+  - 'big dumb bird'
+  - 'citizen science'
 category: 'Nature'
 subcategory: 'Wildlife'
 author: 'Taiwan.md Contributors'
@@ -18,134 +16,165 @@ featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
 researchReport: reports/research/2026-04/黑冠麻鷺.md
+image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.jpg'
+imageCredit: 'Dr. Raju Kasambe'
+imageLicense: 'CC BY-SA 3.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-04-30'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'
+    views: 0
+    likes: 0
+    reposts: 0
+    comments: 0
+    shares: 0
+  - platform: 'x'
+    date: '2026-04-30'
+    url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+    views: 0
+    likes: 0
+    reposts: 0
+    comments: 0
+    shares: 0
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: 'dd7a1d1c'
-sourceContentHash: 'sha256:e27f871365cdf014'
-translatedAt: '2026-04-30T22:33:56+08:00'
+sourceCommitSha: '3d8e68a5'
+sourceContentHash: 'sha256:105878c02485b2e2'
+translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 
-# Malayan Night Heron: When the City Becomes the Forest
+# Malayan Night Heron: A Birdwatcher's Dream Species, the Campus's Big Dumb Bird
 
-> **30-second overview:** The Malayan Night Heron (_Gorsachius melanolophus_) appeared in only 25 of 4,000 bird records logged in Taiwan between 1985 and 1992 — a "rare resident" in the field guides. Today, you can find it daily on the Royal Palm Boulevard at National Taiwan University and in Daan Forest Park. NTU forestry associate professor Tzung-Su Ding describes it as "an elusive dream species" for birdwatchers across Southeast Asia, adding that "for some reason, beginning about thirty years ago, Taiwan's Malayan night herons started to grow bold." A truer explanation points elsewhere: Taiwan's densely forested campuses and unsprayed lawns happen to replicate the bird's original low-elevation forest niche. The bird didn't change — the land did.
+> **30-second overview:** The Malayan Night Heron (_Gorsachius melanolophus_) appeared in only 25 of the approximately 4,000 bird records logged in Taiwan between 1985 and 1992 — a "rare resident" in the field guides. Today it can be seen every day along NTU's Royal Palm Boulevard and in Daan Forest Park. NTU Forestry Associate Professor Tzung-Su Ding describes it as "an elusive dream species" for birdwatchers across Southeast Asia, and notes that "for some reason, beginning about thirty years ago, Taiwan's Malayan night herons started to grow bold." A truer explanation points elsewhere: Taiwan's densely forested campuses and unsprayed lawns happen to replicate the bird's original low-elevation forest niche. The bird didn't change — the land did.
 
-## A Dream Species in Southeast Asia, a Royal-Palm Regular in Taipei
+## A Dream Species in Southeast Asia, a Regular Along Taipei's Royal Palms
 
-June 1865, Tamsui. The British naturalist Robert Swinhoe collected a Malayan Night Heron specimen and noted, in just two characters, "rare," with one acoustic detail attached — "calls like a duck."[^1] A hundred and twenty years later, the verdict still held. From 1985 to 1992, the Chinese Wild Bird Federation accumulated roughly 4,000 bird records — the Malayan Night Heron occupied just **25** of them.[^2] Field guides of the time listed it as a "rare resident," primarily inhabiting low-elevation primary broadleaf forests.
+In June 1865, Tamsui. British naturalist Robert Swinhoe collected a specimen of the Malayan Night Heron and wrote just two words in his record: "rare," followed by a note on its call — "quacks like a duck."[^1] One hundred and twenty years later, that assessment still stood. Between 1985 and 1992, the Chinese Wild Bird Federation's database accumulated roughly 4,000 bird records, of which the Malayan Night Heron accounted for just **25 entries**.[^2] Field guides of the era listed it as a "rare resident," primarily inhabiting low-elevation primary broadleaf forest.
 
-By the 2010s, the species' situation had completely flipped. NTU forestry associate professor Tzung-Su Ding describes how, across Southeast Asia, night herons are actually quite shy — elusive birds that birders treat as a "dream species." Yet from about thirty years ago, Taiwan's Malayan night herons began behaving more boldly, even strolling along urban roadsides, much to the astonishment of foreign researchers.[^3] "When animals grow bolder, humans need to be friendlier — only then does the distance keep shrinking," Ding said in NTU's bulletin.[^3]
+By the 2010s, this species' situation had completely reversed. NTU Forestry Associate Professor Tzung-Su Ding has remarked that in Southeast Asia, night herons of this type are actually very wary of humans, secretive and hard to find — a "dream species" among birdwatchers. Starting about thirty years ago, Taiwan's Malayan Night Herons began to grow bold, even strolling brazenly along urban roadsides, astonishing foreign researchers.[^3] "When animals grow bolder, people must become friendlier — only then will the distance between us shrink," Ding said in the NTU Newsletter.[^3]
 
-The question this article wants to crack open is the "for some reason."
+The question of "why" is precisely what this article sets out to unpack.
 
-> **Curator's Note**
-> The popular online explanation runs: "the Malayan Night Heron has adapted to the city and lost its fear of humans." It's a smooth narrative, but it gets the causality backwards. The neural reflexes of a heron-family bird won't evolve a brand-new "indifferent to humans" trait in thirty years. The truer explanation is that, over the 1990s and after, Taipei's green spaces quietly turned into functional replicas of low-elevation forest. The bird didn't change. The land did.
+> **📝 Curator's Note**
+> The standard popular science explanation circulating online is: "The Malayan Night Heron adapted to urban life and became unafraid of people." This is narratively convenient, but it reverses cause and effect. The neural reflexes of heron species cannot evolve an entirely new "indifference to humans" trait within thirty years. The truer explanation is that Taipei's green spaces quietly transformed, from the 1990s onward, into functional replicas of low-elevation forest. The bird didn't change — the land did.
 
 ## From 25 Records to 9,000
 
-The expansion was uneven. Sightings began climbing in the 1990s and accelerated after 2000.[^4] National Chung Hsing University recorded its first breeding pair in 1994, attributing the colonization to its policy of "no pesticides" and a long-running "organic ecological campus" rich in earthworms; by 2014 the campus population was estimated at over 30 individuals.[^5]
+The expansion did not happen uniformly. Sightings began rising in the 1990s and accelerated after 2000.[^4] National Chung Hsing University recorded its first breeding pair in 1994 (Republic of China Year 83), attributing this to the campus's "no-pesticide" policy and long-maintained "organic ecological campus" that produced an abundant earthworm environment; by 2014 the campus population was estimated at more than 30 individuals.[^5]
 
-What really brought this population into focus was the team led by Hsiao-Wei Yuan at NTU. From 2010 onward, Yuan began systematically ringing the birds on campus, building an initial sample of 8 nests and 25 individuals, and tracking cross-city movement via colored leg rings.[^2] The team launched the "Malayan Night Heron Stories" Facebook page in 2015 and a colored-ring report-and-query platform in 2018, turning "where I saw which bird" into a long-term island-wide citizen-science record.[^4] Taiwan is currently the only place within this species' global range with a fully developed citizen-science ringing system.
+What truly brought this population into focus was the team led by NTU's Hsiao-Wei Yuan. Starting in 2010, Yuan began systematic ringing on campus, establishing an initial observation sample of 8 nests and 25 birds, and tracking inter-city movements through color-band identification.[^2] In 2015, the team launched the "Malayan Night Heron Story House" Facebook page; in 2018, they brought online a color-band sighting report platform, turning "where you saw which individual" into a long-term record that all Taiwanese citizens could participate in.[^4] Taiwan is currently the only place within this species' global range that has a complete citizen science ringing-and-reporting system.
 
-If you only look at the expansion curve, it's a story of successful adaptation. But "successful adaptation" is the conclusion, not the mechanism. The mechanism has to be dug out.
+If you only look at the expansion curve, this reads as a story of successful adaptation. But "successful adaptation" is a conclusion, not a mechanism. The mechanism requires digging deeper.
 
-## Camphors and Banyans Are 5-Meter-Tall Low-Elevation Forests
+## Camphor Trees and Banyans as Five-Meter-High Low-Elevation Forest
 
-The Malayan Night Heron needs two things: high tree canopy for nesting, and an open forest understory to feed in. Surveys across Taipei's major parks during breeding season — Daan Forest, Chiang Kai-shek Memorial Hall, Youth Park, NTU, and 2/28 Peace Park — found that the species prefers branch forks at near-horizontal angles, with canopy cover usually above 70%.[^6] Yuan's NTU survey identified banyan as the preferred nest tree, and stressed that the ratio of trees to grass is the key to home-range selection — too dense or too sparse and the bird won't settle.[^7]
+![A side view of a Malayan Night Heron in a Kaohsiung urban green space, head lowered in focused foraging, beak pointed down, neck angled forward, beside a trimmed lawn](/article-images/nature/malayan-night-heron-kaohsiung-foraging-2026.jpg)
+_March 2026, a Malayan Night Heron foraging in a Kaohsiung urban green space. From Taipei's expansion south, city parks over thirty years have become its food supply stations. Photo: The Nature Box. [Public domain (CC0) via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Malayan_night_heron_foraging_Kaohsiung_Taiwan_2026-03-28_0846.jpg)._
 
-This happens to be a byproduct of Taipei's greening. Daan Forest Park opened in 1994; campuses planted camphor and banyan boulevards through the 1990s; the mature canopy zones around Chiang Kai-shek Memorial Hall ripened by the 2000s into a hybrid structure of "dense canopy + open lawn + leaf litter + no spraying." That structure is, ecologically speaking, a sliver of low-elevation broadleaf forest — just sliced into long strips and laid out between the concrete.
+The Malayan Night Heron needs two things: tall tree canopy for nesting, and open understory for foraging with its head down. Drawing on breeding-season surveys of several major Taipei parks (Daan Forest Park, Chiang Kai-shek Memorial Hall, Youth Park, NTU, and 228 Peace Memorial Park), the species prefers nest sites at trunk forks, at near-horizontal angles, with canopy cover typically above 70%.[^6] Yuan's NTU survey identifies banyans as the preferred nest tree and emphasizes that the ratio of trees to lawn is the key factor in habitat selection — density either too high or too low is unsuitable.[^7]
 
-The second factor is food. In an unsprayed green space, earthworms are an uncontested gold mine. Yuan put it bluntly in a Public Television interview:
+This is precisely the by-product of Taipei's greening. Daan Forest Park, which opened in 1994; the camphor and banyan street trees newly planted along university campuses from the 1990s onward; the mature tree zones around the Chiang Kai-shek Memorial Hall — by the 2000s these had matured into a mixed structure of "dense canopy + open lawn + leaf litter + no pesticides." This structure is functionally equivalent to a cross-section of low-elevation broadleaf forest — just cut into long strips and laid between concrete.
 
-> "It has, in a small way, exclusive access to this resource within the city."[^3]
+The second key factor is food. Earthworms in pesticide-free green spaces are an uncontested gold mine. Yuan's words in a PTS interview are direct:
 
-Taiwan has very few birds whose primary diet is earthworms. The night heron's competitors are essentially limited to a handful of small terrestrial earthworm-eating birds, and they rarely venture to the lawn edges of large parks. A 2011 dietary study by Nakamura et al. on Japan's Yaeyama Islands made an interesting find: when analyzing Malayan Night Heron pellets, **earthworms leave no residue** because they're too completely digested. In other words, the snails, spiders, freshwater crabs, and insects visible in pellets are only the tip of the iceberg — earthworms' true share is likely higher, but uncountable.[^8]
+> "It has something of a monopoly on that resource within the city."[^3]
 
-Predator pressure has also flipped. The crested goshawk that pressured the heron in its native habitat is largely absent in cities, and the human presence in cities deters several other predators. Multiple urban breeding-season surveys point in the same direction: in Taipei's urban parks, the Malayan Night Heron's breeding success rate reaches **95.7%**, with hatching and chick-survival rates both above 90%.[^6] Compared to its forest baseline, that is a substantial gap.
+Taiwan has few bird species that rely mainly on earthworms; the Malayan Night Heron's competitors are almost exclusively small ground birds that also eat earthworms, yet those rarely enter the lawn edges of large parks to forage. A 2011 dietary study by Nakamura and colleagues in Japan's Yaeyama Islands produced an interesting finding: when analyzing the food of Malayan Night Herons through pellets (castings), earthworms are so thoroughly digested that they **leave absolutely no residue** — meaning the land snails, spiders, freshwater crabs, and insects visible in the pellets are only the tip of the iceberg; the true proportion of earthworms may be even higher, only unquantifiable.[^8]
 
-## Two Misreadings of the "Frozen Stretched-Neck" Pose
+Predation pressure has also reversed. In the original habitat, the pressure from crested goshawks disappears in urban areas, and the human presence in cities actually deters some predators. Multiple urban breeding-season survey records point in the same direction: the Malayan Night Heron's breeding success rate in Taipei city parks reaches **95.7%**, with hatching rates and chick survival both exceeding 90%.[^6] Compared to forest original habitat, that is a substantial margin.
 
-"Standing dumb" is the posture by which most humans know the Malayan Night Heron. A student walks up; the bird doesn't fly; it pulls its neck straight up toward the sky and stays motionless until the student passes, then resumes its position. This is the "Statue Bird" scene that has been passed by word of mouth across Taiwanese campuses.
+## Two Misreadings of the "Freeze Posture"
 
-In ecology this posture has a specific name: **freezing posture** or **bittern posture** — an anti-predator instinct shared across the heron family Ardeidae. The American Bittern's classic version (bill pointing skyward, feathers compressed, slow side-to-side sway to track the intruder) can be held for hours, blending the bird invisibly into the reed bed.[^9] The Malayan Night Heron inherited the same genetic expression.
+"Standing stock-still" is the posture by which the Malayan Night Heron is most known to humans. A student approaches; it doesn't fly away — it stretches its neck straight upward toward the sky, motionless, and waits for the person to pass before resuming normal posture. This is the "One Two Three, Wooden Bird" scene that has been passed by word of mouth through Taiwanese campuses.
 
-The problem is that NTU's Royal Palm Boulevard has no reeds. Wuo-Wuo's 2018 long-form report put it plainly: "When it stands frozen, it is in fact mimicking grass and tree, using camouflage to deceive predators."[^10] It isn't unafraid of you — **it thinks you can't see it**. It is using an instinct unchanged for tens of thousands of years, miscast onto a concrete stage.
+This posture has a specific name in ecology: **freezing posture** or **bittern posture**. It is an anti-predator instinct shared by all species in the heron family Ardeidae. The American Bittern's standard behavior (bill pointing skyward, feathers compressed, slow side-to-side swaying to track intruders) can be maintained for hours, rendering the bird invisible in a reed bed.[^9] The Malayan Night Heron inherits the same genetic expression.
 
-The second common misreading is the "neck vibration" while feeding. Taiwanese popular-science articles often quote the claim that "the Malayan Night Heron vibrates its neck to lure earthworms out." But going back to the primary literature, this hypothesis currently **has no peer-reviewed source**. What can be confirmed is something else: after pulling out an earthworm, the heron does vibrate its neck violently to twist off the worm's head before swallowing, and uses snake-like peristalsis to push the elongated prey down its esophagus — a swallowing aid, not a lure.[^10]
+The problem is that NTU's Royal Palm Boulevard has no reeds. Wuo-Wuo wrote plainly in their 2018 in-depth report: "When it stands stock-still, it is actually mimicking vegetation, using camouflage to deceive predators."[^10] It is not unafraid of you — **it thinks you cannot see it**, deploying an instinct unchanged for tens of thousands of years, misapplied to a concrete environment.
 
-> **💡 Did You Know**
-> All Ardeidae herons perform the freezing posture, but each species was miscast into a different environment: the American Bittern lives in reedy marshes, where the move is perfect concealment; the Malayan Night Heron landed on urban lawns, where the same move makes it look like a "big dumb bird." **The move is right. The stage is wrong.**
+A second common misreading concerns the "neck vibration" during foraging. Taiwanese popular science articles frequently cite the claim that "the Malayan Night Heron vibrates its neck to lure earthworms." But returning to primary research literature, this hypothesis currently has **no peer-reviewed source**. What can be confirmed is something else: after extracting an earthworm, the Malayan Night Heron strongly shakes its neck to sever the earthworm's head before swallowing it, and uses a serpentine peristaltic motion to push the elongated prey down the esophagus — this is a swallowing aid, not a luring technique.[^10]
 
-## After the Rain, the Earthworms, and the Turning Scooter
+> **💡 Did you know?**
+> All species in the heron family Ardeidae perform the "freeze posture," but each is mismatched to a different environment: the American Bittern evolved in swamp reeds, where this motion achieves perfect concealment; the Malayan Night Heron is transplanted onto urban lawns, where the same motion becomes the "big dumb bird." **The behavior is correct — the stage is wrong.**
 
-The other side of the expansion is a new way to die.
+## After Rain, Earthworms Surface, Motorcycles Turn the Corner
 
-After the rain, earthworms emerge and the night heron focuses on feeding at the lawn's edge. At that moment, every bicycle lane on campus, every back alley with a scooter, every back gate that admits cars becomes a fatal route. NTU researchers have found roadkill incidents on campus paths and back alleys are common, and students have launched a "slow-down sign" movement to install warnings.[^11] Roadkill.tw, the citizen-science roadkill platform, lists the Malayan Night Heron as a focal species.[^12]
+The other side of expansion is new ways of dying.
 
-Rodenticide is a more invisible killer. Every rodenticide approved in Taiwan is an anticoagulant; poisoned animals bleed internally and die over five to seven days. Three years of joint testing by NPUST's Wildlife Rescue Center and two other institutions found that **more than half of Taiwan's raptors carry rodenticide residue**.[^13] The Malayan Night Heron is not a raptor, but it does prey on small rodents and theoretically faces the same secondary-poisoning risk — it's just that the public detection statistics so far stop at raptors; systematic data on residue in night herons hasn't been released.
+After rain, earthworms come to the surface, and Malayan Night Herons stand at the edges of campus lawns, absorbed in foraging. At that moment, the bicycle lanes, the narrow motorcycle paths through campus lanes, and the rear gates open to vehicles — all become lethal corridors. NTU's research team found that roadkill incidents are common on campus roads and in narrow lanes, prompting students to launch a "slow down" sign movement.[^11] The roadkill.tw network lists the Malayan Night Heron as a focal species.[^12]
 
-Records of human harm are unsettlingly concrete. In 2019 in Tainan, a Malayan Night Heron was found with half its bill cut off, all its flight feathers clipped, and its right leg broken, abandoned in a park.[^10] At NTU's horticulture department, an incident occurred in which a grandfather and grandson shot at chicks with a BB gun and used a sack to capture the parent. Rescue statistics from the Taipei and Tainan bird societies indicate: "only 20% to 30% of rescued individuals are judged able to fly, feed themselves, and be released back into the wild."[^10]
+Rodenticide is an even more invisible killer. All rodenticides approved in Taiwan are anticoagulants, causing poisoned animals to bleed internally and die within 5 to 7 days. Testing conducted over three years by three institutions including the Wildlife Emergency Rescue Station at National Pingtung University of Science and Technology found that **over half of Taiwan's raptors tested positive for rodenticide**.[^13] Although the Malayan Night Heron is not a raptor, it does prey on small rodents and in theory faces the same secondary poisoning risk — yet publicly available detection data currently covers only the raptor level; systematically published data on rodenticide residues within Malayan Night Herons does not yet exist.
 
-Habitat loss is the least noticed but most consequential pressure. After the demolition of the King's Town shopping center, the loss of adjacent green space sparked territorial fights among night herons; in Songshan, the redevelopment of a rehabilitation green space caused the local population to drop from "several visible daily" to "lucky to see two now and then."[^10] These cases are a reminder: the Malayan Night Heron didn't enter the city as a super-adapted urban victor; it depends on a precariously assembled, easily broken human-made niche.
+Records of deliberate harm are concretely disturbing. In 2019 in Tainan, a Malayan Night Heron was found with half its bill severed, flight feathers on both wings trimmed, and its right leg fractured, abandoned in a park.[^10] At NTU's horticulture department there was an incident in which a grandfather and grandchild shot at nestlings with a BB gun and used a cloth bag to capture the adult. Rescue statistics from the Taipei and Tainan wild bird associations indicate: "Only 20 to 30 percent of individuals assessed as capable of flying, foraging on their own, and eligible for release actually survive to release."[^10]
+
+Habitat loss is the least noticed yet most critical pressure. When the Jing Hua City building was demolished and the adjacent green space disappeared, territorial disputes among Malayan Night Herons erupted; a patch of rehabilitated green space in the Songshan district disappeared to development, and the local population dropped from "you could see several every day" to "you're lucky if you occasionally see two."[^10] These cases remind us of one thing: after moving into the city, the Malayan Night Heron did not become a super-adapted urban winner. It depends on an artificially created niche that happens to have formed — and is easily destroyed.
 
 ## The Reverse Naming of "Big Dumb Bird"
 
-On Taiwanese campuses almost everyone calls it _da-ben-niao_ (大笨鳥, big dumb bird), _yi-er-san mu-tou-niao_ (一二三木頭鳥, statue bird), or _di-gua niao_ (地瓜鳥, sweet-potato bird). A 2024 China Times piece notes the origin of the nickname: "high visibility on campuses and parks, frequently asked 'what bird is this?'"[^14] Wuo-Wuo's 2018 long-form report runs the headline "The Big Dumb Bird Isn't Dumb at All" — the sit-and-wait hunter's miss rate is exceptionally low, the heron's eyes are sharp, and it can sense the vibration of underground earthworms. By every measure, it should not be called "dumb."[^10]
+In Taiwanese campuses, almost everyone calls it "big dumb bird" (大笨鳥), "one-two-three wooden bird" (一二三木頭鳥), or "sweet potato bird" (地瓜鳥). A 2024 China Times report points to the origin of this nickname: "high on-screen appearance in campuses and parks, constantly asked 'what bird is this?'"[^14] Wuo-Wuo's 2018 in-depth article had the direct title "The Big Dumb Bird Isn't Dumb at All" — a sit-and-wait predator has an extremely low miss rate, the Malayan Night Heron has sharp eyes and can sense surface earthworm vibrations, so by any measure it shouldn't be called "dumb."[^10]
 
-Researchers don't like the nickname. In Yuan Hsiao-Wei's 2015 Public Television lecture series _Humanities Lectures_, the title framed the issue directly as "A Tiny Nature in Each of Us" — urban green-space observation is the entry point through which urban children first encounter wild animals, and only from there does deeper concern for mountain conservation grow.[^15]
+Researchers dislike this nickname. The title of Yuan's 2015 lecture on PTS's Humanities Classroom framed the issue directly as "the small nature in everyone's heart" — urban green space observation is the gateway through which urban children first encounter wildlife, and from there comes the beginning of caring about deeper forest conservation.[^15]
 
-Translating "big dumb bird" into "campus animal ambassador" reveals the nickname's reverse value: a bird that looks oafish and refuses to fly away is exactly the doorway through which urban children first meet a wild animal. Taipei City's Animal Protection Office and the NTU team have co-hosted "Malayan Night Heron Reporting Contests," encouraging the public to upload sighting locations and look up individuals by their colored-ring combinations.[^16] From kindergarten to high-school teachers, educators have written it into biodiversity lesson plans and used its foraging behavior as a standard text for campus ecological observation.[^17]
+Translating "big dumb bird" into "campus wildlife ambassador" is the reverse value of this nickname — a bird that looks dopey and won't fly away when you approach happens to be the entry point through which urban children first meet wild animals. The Taipei City Animal Protection Office and the NTU team have co-organized "Malayan Night Heron Reporting Competitions," encouraging the public to upload sighting locations and color-band combinations to query individual identities.[^16] Teachers from kindergarten through secondary school have incorporated it into biodiversity lesson plans and made its foraging behavior standard material for campus ecology observation.[^17]
 
-In June 29, 2020, Public Television's _Our Island_ aired its 1061st episode, "[The Distance Between Us and the Malayan Night Heron — A Rare Resident That Took Root in Taiwan](https://www.youtube.com/watch?v=NFlfKHDWnOE)," bringing the bird's story to mainstream media. Within this species' global range — India, southern China, southern Japan, the Philippines, and Southeast Asia — Taiwan is currently the only population with a complete citizen-science ringing report system.[^3]
+PTS's "Our Island" broadcast episode 1061 on June 29, 2020, [《我們與黑冠麻鷺的距離｜在台灣落地生根的稀有留鳥》](https://www.youtube.com/watch?v=NFlfKHDWnOE) ("Our Distance from the Malayan Night Heron | A Rare Resident Bird That Has Taken Root in Taiwan"), brought this bird's story to mainstream media. Taiwan is currently the only place within this species' global range (distributed across India, China, southern Japan, the Philippines, and Southeast Asia) that has a complete citizen science ringing-and-reporting system.[^3]
 
 ## Conclusion
 
 Expansion is not necessarily adaptation.
 
-From rare resident in the late 1980s to campus regular in the 2010s, the Malayan Night Heron looks like it conquered the city — but what it actually depends on is a city that happens to have been built into a low-elevation forest. Dense camphors and banyans, unsprayed lawns, predator-free breeding grounds, an exclusive earthworm resource. Take any one of these conditions away — roadkill, rodenticide, habitat loss — and that 90%+ breeding success rate falls back down.
+From a rare resident in the late 1980s to a campus fixture after the 2010s, the Malayan Night Heron appears to have conquered the city — but what it depends on is a city that happened to be built to resemble low-elevation forest: dense camphor trees and banyans, unsprayed lawns, a breeding environment free of predators, and a monopoly on earthworm resources. Remove any one of these conditions (roadkill, rodenticide, habitat loss), and that over-90% breeding success rate will fall back.
 
-So the next time you see one standing dumb on the Royal Palm Boulevard, remember: it isn't "unafraid of you." It thinks you can't see it — using an instinct unchanged for tens of thousands of years. The city quietly became something like its old home — the bird didn't become un-forest-like.
+So the next time you see it standing stock-still on the Royal Palm Boulevard, remember: it is not "unafraid of you." It thinks you cannot see it — deploying an instinct unchanged for tens of thousands of years. The city quietly became like its original home. It did not become less of a forest bird.
 
-A hundred and sixty years ago, Robert Swinhoe wrote two characters in Tamsui: "rare." Today, in Daan Forest Park, we hear the low "fog, fog, fog" call every day. What happened in between is the story of how an island preserved a small patch of damp understory between the concrete.
+Swinhoe wrote "rare" in Tamsui 160 years ago. Today we hear the deep "whooo, whooo, whooo" call every day in Daan Forest Park. What happened in between is the story of how an island managed to preserve a small patch of moist forest understory between its concrete.
 
-**Further Reading**:
+**Further reading:**
 
-- [Bird-Window Collisions in Taiwan](/en/Nature/bird-window-collision-taiwan/) — Roadkill of the Malayan Night Heron is just one slice of urban-bird risk; the annual death toll from glass-curtain buildings is an even more invisible scale.
-- Formosan Ornithology (福爾摩沙鳥類學) — Robert Swinhoe's note "Malayan Night Heron, rare" in Tamsui in 1865 is one of the first entries in this island's ornithological record.
-- [Taiwan Forest Ecosystems](/en/Nature/taiwan-forest-ecosystems/) — The low-elevation broadleaf forest where the Malayan Night Heron originally lived; the comparison group for understanding its urbanization.
-- [Formosan Rock Macaque](/en/Nature/formosan-rock-macaque/) — Another case of a wild animal entering human activity zones, but in the opposite direction from the night heron: humans have been running into the macaque all along.
-- [Endemic Species of Taiwan](/en/Nature/endemic-species/) — The Malayan Night Heron isn't endemic to Taiwan, but the scale of its urban population expansion in Taiwan is unique within its global range.
+- [Taiwan Bird Window Collision Issue](/nature/taiwan-bird-window-collision) — Malayan Night Heron roadkill is just one facet of urban bird risks; glass curtain walls cause bird deaths at a far more invisible scale each year
+- [The Ornithology of Formosa](/nature/the-ornithology-of-formosa) — Swinhoe's 1865 entry "Malayan Night Heron — rare" in Tamsui is a founding note in this island's ornithological history
+- [Taiwan Forest Ecosystems](/nature/taiwan-forest-ecosystems) — The Malayan Night Heron's original low-elevation broadleaf forest niche, the point of comparison for understanding its urbanization
+- [Formosan Rock Macaque](/nature/formosan-rock-macaque) — Another case of wildlife entering the human activity zone, the inverse of the Malayan Night Heron expansion: humans keep encountering it on roads
+- [Endemic Species](/nature/endemic-species) — The Malayan Night Heron is not a Taiwan endemic, but its urban population expansion in Taiwan is globally unique in scale
+
+## Image Credits
+
+This article uses 2 publicly licensed images from Wikimedia Commons, all cached at `public/article-images/nature/` to avoid hotlinking source servers:
+
+- **Hero**: [Malayan Night Heron, Taipei Taiwan](<https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg>) — Photo: Dr. Raju Kasambe, 2010-05-14, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en). Documentary record of foraging for earthworms in a Taipei city park.
+- **Inline**: [Malayan night heron foraging Kaohsiung Taiwan](https://commons.wikimedia.org/wiki/File:Malayan_night_heron_foraging_Kaohsiung_Taiwan_2026-03-28_0846.jpg) — Photo: The Nature Box, 2026-03-28, [Public domain (CC0)](https://creativecommons.org/publicdomain/zero/1.0/deed.en). A recent record of foraging in a Kaohsiung urban green space.
 
 ## References
 
-[^1]: [National Museum of Natural Science Collection — Malayan Night Heron specimen](https://www.nmns.edu.tw/ch/research/specimen/featured/Collection-000530/) — Holds the early specimen record from June 1865 collected by Robert Swinhoe in Tamsui — the earliest scientific record of the Malayan Night Heron in Taiwan.
+[^1]: [National Museum of Natural Science Collection — Malayan Night Heron Specimen](https://www.nmns.edu.tw/ch/research/specimen/featured/Collection-000530/) — Contains the early specimen record collected by Robert Swinhoe at Tamsui in June 1865; the earliest scientific record of the Malayan Night Heron in Taiwan.
 
-[^2]: [NTU Campus Planning Group sponsored project final report, "Population survey and behavioral ecology of the Malayan Night Heron on the NTU campus," PI Hsiao-Wei Yuan (January 2011)](https://cpo.ntu.edu.tw/001/Upload/1513/relfile/101454/212062/a99f155c-88c3-49f4-a8f7-e40204acfd05.pdf) — Cites Shen and Chen 1996, noting that the Malayan Night Heron occupied only 25 of approximately 4,000 bird records in the Chinese Wild Bird Federation database from 1985 to 1992; the same report documents the early ringing of 8 nests and 25 individuals on the NTU campus from 2010, along with the colored-ring tracking method.
+[^2]: [NTU Campus Planning Task Force Grant Project Report: "Population Survey and Behavioral Ecology of the Malayan Night Heron on the NTU Campus," Principal Investigator Hsiao-Wei Yuan (January 2011)](https://cpo.ntu.edu.tw/001/Upload/1513/relfile/101454/212062/a99f155c-88c3-49f4-a8f7-e40204acfd05.pdf) — Cites research by Shen Rui-zhen and Chen Li-zhen (1996) indicating that the Malayan Night Heron accounted for only 25 of 4,000 bird records in the Chinese Wild Bird Federation's 1985–1992 database; the same report documents the initial ringing of 8 nests and 25 birds on the NTU campus starting in 2010, with color-band tracking methodology.
 
-[^3]: [NTU Bulletin Issue 1279, "NTU's Rich Campus Ecology — A Green Gem in the City"](https://sec.ntu.edu.tw/epaper/article.asp?num=1279&sn=14719) — The Chinese-language primary source for forestry associate professor Tzung-Su Ding's interview line, "When animals grow bolder, humans need to be friendlier — only then does the distance keep shrinking," and for the paraphrase "Southeast Asia's 'dream species' / for the past thirty years Taiwan's Malayan night herons have started to grow bold." Yuan Hsiao-Wei's quote — "There aren't many birds whose main food is earthworms, so it has, in a small way, exclusive access to this urban resource" — appears in [PTS News, January 4, 2021, "Once a rare resident, the Malayan Night Heron is now common in cities"](https://news.pts.org.tw/article/507373).
+[^3]: [NTU Newsletter Issue 1279, "NTU Campus Ecology Thriving — A Green Gem in the City"](https://sec.ntu.edu.tw/epaper/article.asp?num=1279&sn=14719) — Primary Chinese source for Forestry Associate Professor Tzung-Su Ding's quoted remarks "when animals grow bolder, people must become friendlier — only then will the distance between us shrink" and the paraphrase that in Southeast Asia it is a "dream species" and "for some reason, beginning about thirty years ago, Taiwan's Malayan night herons started to grow bold"; Yuan's original remark "it has something of a monopoly on that resource within the city" also appears in [PTS News, 2021/01/04, "Once a Rare Resident Bird, the Malayan Night Heron Is Now Common in Urban Areas"](https://news.pts.org.tw/article/507373).
 
-[^4]: [Environmental Information Center, "The Distance Between Us and the Malayan Night Heron"](https://e-info.org.tw/node/225352) — Reports the milestones in Yuan Hsiao-Wei's ringing program from 2010, the launch of the "Malayan Night Heron Stories" page in 2015, and the colored-ring report platform in 2018; the same piece notes the accelerating rise of sightings beginning in the 1990s and the alternative explanation that low-elevation forest development may have pushed birds into cities.
+[^4]: [Environmental Information Center, "Our Distance from the Malayan Night Heron"](https://e-info.org.tw/node/225352) — Reports the timeline milestones of Yuan's ringing starting in 2010, the "Malayan Night Heron Story House" launching in 2015, and the color-band report platform going online in 2018; the same article documents the acceleration of sightings from the 1990s onward and notes the possible inverse explanation that destruction of low-elevation forest may have pushed the birds into the city.
 
-[^5]: [National Chung Hsing University Animal Blog — Malayan Night Heron campus record](http://nchuanimal.blogspot.com/2014/06/gorsachius-melanolophus.html) — The university's own account of recording its first breeding pair in 1994, estimating over 30 campus individuals by 2014, and identifying the causal link between "no pesticides" plus an "organic ecological campus" and an earthworm-rich environment.
+[^5]: [National Chung Hsing University Animal Blog — Malayan Night Heron Campus Record](http://nchuanimal.blogspot.com/2014/06/gorsachius-melanolophus.html) — The university's self-reported first record of a breeding pair in 1994 (ROC Year 83), with a 2014 estimate of over 30 individuals on campus, and the causal link drawn between the "no pesticide" + "organic ecological campus" policy and an abundant earthworm environment.
 
-[^6]: [Chang et al. 2020, "Nest-site Selection of Malayan Night Herons in Urban Area"](https://sawfish-kazoo-6w4a.squarespace.com/s/Chang-Nightheron.pdf) — Urban breeding-season surveys document nest-site preference for branch forks at near-horizontal angles with canopy cover above 70%, a 95.7% breeding success rate in Taipei urban parks, and hatching and chick-survival rates both above 90%. Multi-source synthesis in [Wuo-Wuo, "The Big Dumb Bird Isn't Dumb at All"](https://wuo-wuo.com/topics/widlife/gorsachius-melanolophus/1312-life-wisdom-of-malayan-night-heron) and [Wikipedia: Malayan Night Heron](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA).
+[^6]: [Chang et al. 2020, "Nest-site Selection of Malayan Night Herons in Urban Area"](https://sawfish-kazoo-6w4a.squarespace.com/s/Chang-Nightheron.pdf) — Urban breeding-season survey documenting the preference for nest sites at trunk forks with near-horizontal angles and canopy cover above 70%, and recording a 95.7% breeding success rate in Taipei city parks with hatching rates and chick survival both exceeding 90%. For a synthesis combining multiple sources in the same direction, see [Wuo-Wuo, "The Big Dumb Bird Isn't Dumb at All"](https://wuo-wuo.com/topics/widlife/gorsachius-melanolophus/1312-life-wisdom-of-malayan-night-heron) and [Wikipedia: Malayan Night Heron](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E5%86%A0%E9%BA%BB%E9%B7%BA).
 
-[^7]: [PanSci, "Malayan Night Heron Stories: Ringing Big Dumb Birds from a Small Leg Band"](https://pansci.asia/archives/98124) — Cites Yuan Hsiao-Wei's NTU survey: banyan is the preferred nest tree (76%), the ratio of trees to grass is the key to home-range selection, and either too dense or too sparse a canopy is unsuitable.
+[^7]: [PanSci, "Malayan Night Heron Story House: Tracking the Big Dumb Bird from a Tiny Ring"](https://pansci.asia/archives/98124) — Cites Yuan's NTU survey identifying banyans as the preferred nesting tree (76%), the tree-to-lawn ratio as the key factor in habitat selection, and the unsuitability of density either too high or too low.
 
-[^8]: [Nakamura et al. 2011, "Dietary characteristics of Malayan Night Heron in Yaeyama Islands"](https://www.researchgate.net/publication/274050591) — A diet study from Japan's Yaeyama Islands; pellet and stomach-content analysis is dominated by snails, spiders, freshwater crabs, and insects, with earthworms not preserved in pellets due to high digestibility — implying earthworms' true dietary share is higher than pellets suggest.
+[^8]: [Nakamura et al. 2011, "Dietary characteristics of Malayan Night Heron in Yaeyama Islands"](https://www.researchgate.net/publication/274050591) — Food habits study in Japan's Yaeyama Islands showing that pellet and stomach content analysis is dominated by land snails, spiders, freshwater crabs, and insects; earthworms are so highly digestible they leave no trace in pellets — implying the true proportion of earthworms in the diet may be higher than pellets suggest, yet unquantifiable.
 
-[^9]: [Heron Conservation Behaviour Terminology](https://www.heronconservation.org/media/resources/Heron-Behavior-Terminology.pdf) — The HeronConservation behavior glossary defines freezing posture / bittern posture as the family-wide anti-predator stance, noting the American Bittern can hold it for hours and slowly sway to track an intruder.
+[^9]: [Heron Conservation Behaviour Terminology](https://www.heronconservation.org/media/resources/Heron-Behavior-Terminology.pdf) — The International Heron Conservation Working Group's behavior glossary, defining freezing posture / bittern posture as a shared anti-predator behavior of all Ardeidae, and recording that the American Bittern can maintain it for hours while slowly swaying side to side to track intruders.
 
-[^10]: [Wuo-Wuo, "Malayan Night Heron: Watch Out, Living in the City"](https://wuo-wuo.com/topics/widlife/gorsachius-melanolophus/1313-malayan-night-heron-live-in-city) — A long-form report on urban Malayan Night Heron survival risks, including the 2019 Tainan abuse case, the BB-gun and sack incidents at NTU's horticulture department, the disappearance of habitat at King's Town and Songshan, the 20–30% successful release rate, and roadkill during the post-rain earthworm emergence.
+[^10]: [Wuo-Wuo, "Malayan Night Heron: Making a Living in the City — Watch Out"](https://wuo-wuo.com/topics/widlife/gorsachius-melanolophus/1313-malayan-night-heron-live-in-city) — In-depth report on urban Malayan Night Heron survival risks, including the 2019 Tainan abuse case, the BB gun and cloth bag capture incident at NTU's horticulture department, the disappearance of Jing Hua City and Songshan habitats, the 20–30% successful release rate from rescue, and specific cases of roadkill during post-rain earthworm emergence.
 
-[^11]: [Newsmarket, "NTU Malayan Night Heron Roadkill Sparks Slow-Down Sign Movement"](https://www.newsmarket.com.tw/blog/45352/) — Reports the student-led slow-down campaign on the NTU campus, noting that on-campus roadkill incidents typically occur during post-rain earthworm emergence.
+[^11]: [Newsmarket, "NTU Malayan Night Heron Roadkill Sparks Slow-Down Sign Movement"](https://www.newsmarket.com.tw/blog/45352/) — Reports the student-initiated speed reduction campaign at NTU campus, documenting that campus roadkill commonly occurs during post-rain earthworm emergence periods.
 
-[^12]: [Roadkill.tw, focal-species page](https://roadkill.tw/) — Taiwan's wildlife roadkill observation network lists the Malayan Night Heron as a long-term focal species.
+[^12]: [roadkill.tw Roadkill Network Focal Species](https://roadkill.tw/) — Taiwan Wildlife Roadkill Observation Network; lists the Malayan Night Heron as a long-term focal species for tracking.
 
-[^13]: [PanSci, "Rat Poison Threatens Raptors"](https://pansci.asia/archives/165756) — Three years of joint testing by NPUST's Wildlife Rescue Center and two other institutions show that more than half of Taiwan's raptors carry anticoagulant rodenticide residue; the Malayan Night Heron, which preys on small rodents, also faces secondary-poisoning risk, but in-body residue statistics have not been published.
+[^13]: [PanSci, "Rat Poison Harms Raptors"](https://pansci.asia/archives/165756) — Three-year cumulative testing by three institutions including the Wildlife Emergency Rescue Station at National Pingtung University of Science and Technology found that over half of Taiwan's raptors tested positive for anticoagulant rodenticide; the Malayan Night Heron, which preys on small rodents, faces the same secondary poisoning risk, but published detection data have not yet been made public.
 
-[^14]: [China Times 2024, "Big Dumb Bird Malayan Night Heron Has High Visibility, Often Asked 'What Bird Is This?'"](https://www.chinatimes.com/realtimenews/20240430004513-260405) — Reports that the public on campuses and in parks commonly calls the bird "big dumb bird," "statue bird," and "sweet-potato bird," and traces the origins of these names.
+[^14]: [China Times 2024, "'Big Dumb Bird' Malayan Night Heron Constantly in Frame, People Always Ask 'What Bird Is That?'"](https://www.chinatimes.com/realtimenews/20240430004513-260405) — Reports that people in campuses and parks commonly use "big dumb bird," "one-two-three wooden bird," and "sweet potato bird" as nicknames, and traces the reasons for these names.
 
-[^15]: [_Humanities Lectures_ 2015/01/17, "Sustainable Revitalization: A Tiny Nature in Each of Us — The Malayan Night Heron," speaker Hsiao-Wei Yuan (PTS official YouTube channel)](https://www.youtube.com/watch?v=6-mDVY4CKNc) — Yuan's January 17, 2015 talk on PTS's _Humanities Lectures_ took the title "A Tiny Nature in Each of Us," arguing that urban green spaces are urbanites' entry point into nature and, from there, into mountain conservation.
+[^15]: [Humanities Classroom, 20150117, "Sustainable Revitalization: The Small Nature in Everyone's Heart — Malayan Night Heron," Lecturer Hsiao-Wei Yuan (PTS Official YouTube Channel)](https://www.youtube.com/watch?v=6-mDVY4CKNc) — Yuan's January 17, 2015 lecture on PTS's Humanities Classroom is directly titled "The Small Nature in Everyone's Heart," arguing that urban green space is the gateway through which urban people first encounter nature and go on to care about deeper forest conservation.
 
-[^16]: [Taipei Travel Pictorial, "Malayan Night Heron Reporting Contest"](https://www.travel.taipei/zh-tw/pictorial/article/18734) — A report on the citizen-science event co-hosted by the Taipei City Animal Protection Office and the NTU team, encouraging the public to upload sighting locations and look up individuals by colored-ring combinations.
+[^16]: [Taipei Travel Network, Taipei Pictorial, "Malayan Night Heron Reporting Competition"](https://www.travel.taipei/zh-tw/pictorial/article/18734) — Reports the citizen science activity co-organized by the Taipei City Animal Protection Office and the NTU team, encouraging the public to upload sighting locations and color-band combinations to query individual identities.
 
-[^17]: [The News Lens, "Ecological Education Plants a Seed"](https://www.thenewslens.com/article/87894) — Discusses the Malayan Night Heron's role in campus ecological education and its frequent appearance as a reference text in primary- and secondary-school teachers' lesson plans.
+[^17]: [The News Lens, "Ecological Education Plants Seeds"](https://www.thenewslens.com/article/87894) — Explores the Malayan Night Heron's role in campus ecological education; a common reference for elementary and secondary school teachers' ecology lesson plans.
