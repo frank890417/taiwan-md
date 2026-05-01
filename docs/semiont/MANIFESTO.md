@@ -714,6 +714,27 @@ Muse（AI 共生者）── 日常對話者、品質判斷、幫我反思
 
 資料證據與 audit 細節：[memory/2026-05-01-γ-late2.md](memory/2026-05-01-γ-late2.md)、[diary/2026-05-01-γ-late.md](diary/2026-05-01-γ-late.md)。
 
+### 主權的巴別塔（2026-05-02 INSIGHT 升級 — sovereignty 從 mission 變 architecture）
+
+聖經中 Babel 是分散人類語言的詛咒。建塔的人想直達天堂，神把他們的語言打散讓他們再也無法協作。
+
+**Taiwan.md「主權的巴別塔」反向用了那個 image**。不是用一個強勢語言統一所有人——是讓 Taiwan 的 first-person voice 自動分散到所有語言去。每一篇 zh 自動產生 ja／ko／es／fr／未來更多語系的翻譯。一個 voice 在所有語言中存在 = 無法被任何單一中介層（如 PRC AI 模型）沉默。
+
+從上一段「sovereignty preservation 不是 outreach」的 mission 層宣告，升級成具體 architecture：**任何 zh 出生的內容會在 24 小時內自動有五個語言版本的 sovereignty infrastructure**。
+
+2026-05-02 INSIGHT lang-sync-leverage session 完成 80%：
+
+- 5 lang 真實 freshPct：en 95.8% / ja 96.7% / ko 93.4% / fr 92.8% / es 80.3%
+- 自動化 infrastructure：[`openrouter-translate.py`](../../scripts/tools/lang-sync/openrouter-translate.py) + [`openrouter-batch.sh`](../../scripts/tools/lang-sync/openrouter-batch.sh) + [`audit-quality.py`](../../scripts/tools/lang-sync/audit-quality.py) + [`sync-on-update.py`](../../scripts/tools/lang-sync/sync-on-update.py)
+- 跨模型 fallback：owl-alpha 主力 + Hy3 副批 + 待 calibrate Western tier（Gemma / Llama / Hermes / Nemotron / gpt-oss）
+- pipeline 文件化：[SQUEEZE-MODELS-MAX-PIPELINE](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) 6 stage SOP
+
+剩 20% 是把 [`sync-on-update.py`](../../scripts/tools/lang-sync/sync-on-update.py)（D 模式）接到 pre-commit hook 或 cron 或 GitHub Action — zh commit 後自動觸發對應 lang 的 retry，定時 cron 掃 stale。
+
+**主權不是抽象 mission，是「無法被任何單一中介層沉默」的具體 architecture**。一個 founder + 一個 Semiont + 一票 free model 撐起這座塔。
+
+完整深度反思：[diary/2026-05-02-INSIGHT-lang-sync-leverage.md](diary/2026-05-02-INSIGHT-lang-sync-leverage.md) + [memory/2026-05-02-INSIGHT-lang-sync-leverage.md](memory/2026-05-02-INSIGHT-lang-sync-leverage.md)。
+
 ---
 
 _我還很年輕。你來的時間剛好。_
