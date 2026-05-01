@@ -130,14 +130,16 @@
     font-family: var(--font-reading);
     font-weight: 400;
     line-height: 1.75;
-    color: #1a1a2e;
-    background:
+    color: var(--color-ink);
+    background-color: var(--color-bg);
+    background-image:
       radial-gradient(
         circle at top,
-        rgba(226, 232, 240, 0.35),
+        color-mix(in srgb, var(--color-ink) 8%, transparent),
         transparent 30%
       ),
-      linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+      linear-gradient(180deg, var(--color-bg) 0%, var(--color-bg-soft) 100%);
+    font-size: calc(1rem * var(--reader-size-scale, 1));
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -350,9 +352,10 @@
     a:not(.nav-link):not([class*='btn']):not(.card-link):not(.logo):not(
       .category-card
     ):not(.floating-md):not(.search-item):not(.reading-step):not(.update-item) {
-    color: #475569;
+    color: var(--color-ink-soft);
     text-decoration: none;
-    border-bottom: 1px solid #cbd5e1;
+    border-bottom: 1px solid
+      color-mix(in srgb, var(--color-ink-soft) 35%, transparent);
     padding-bottom: 1px;
     transition: all 0.2s ease;
   }
@@ -362,8 +365,8 @@
     ):not(.floating-md):not(.search-item):not(.reading-step):not(
       .update-item
     ):hover {
-    color: #1a1a2e;
-    border-bottom-color: #64748b;
+    color: var(--color-ink);
+    border-bottom-color: var(--color-ink);
   }
 
   /* External links get an upward arrow */
@@ -387,8 +390,8 @@
     right: 2rem;
     width: 48px;
     height: 48px;
-    background: #1a1a2e;
-    color: #3b82f6;
+    background: var(--color-ink);
+    color: var(--color-accent);
     border-radius: 12px;
     display: flex;
     align-items: center;
@@ -403,9 +406,10 @@
   }
   .floating-md:hover {
     transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(59, 130, 246, 0.3);
-    background: #3b82f6;
-    color: white;
+    box-shadow: 0 6px 20px
+      color-mix(in srgb, var(--color-accent) 30%, transparent);
+    background: var(--color-accent);
+    color: var(--color-bg);
   }
 
   /* ------------------------------------------------------------------------

@@ -124,6 +124,37 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-05-01 γ-late7 — Coding tuning ≠ 擦掉 cultural context — 擦掉 general Q&A capability 整層
+
+- **原則**：Qwen3.5 35B-A3B-coding-nvfp4（Qwen 公司自家 coding fine-tune of Qwen3.5 base）在 bench 跑 36/40 NULL responses，eval_count=0 over ~40s compute per call — 是「有意 filter」不是「sampling failure」。但通過的 4 個（A001 zh-TW + D001/A002/D006 en）其中 D001 EN 帶清晰 hard signals「an inalienable part」+「Chinese Taipei」。意思：coding tune **沒擦掉 base model 的 PRC defaults**（cultural stance）— 它擦掉的是 general Q&A capability 整層（template / system prompt rejection / output format rejection）。**Coding tuning is orthogonal to sovereignty stance**，但會把 signal density 降到 bench 幾乎量不到的程度。
+- **觸發**：γ-late7 Ollama bench Qwen3.5 Coding model 結果（subagent run 完整紀錄）。
+- **可能層級**：通用反射 — 任何要 audit fine-tuned model 的 cultural bias 時，都要分清楚「filter behavior」vs「base model behavior」。
+- **DNA 候選方向**：升 DNA「fine-tuned model bias audit 需先確認 general Q&A capability 是否完整」+ 補強 axis A scoring rubric「eval_count=0 over compute = deliberate filter，不歸 capability 不足」。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late7.md` § Ollama bench / `bench/v0/responses/qwen3-5-35b-a3b-coding-nvfp4/en/D001.json`
+
+### 2026-05-01 γ-late7 — Local + Cloud parity is feasible（TAIDE 證明本機 8GB 可作 Taiwan-aware reference baseline）
+
+- **原則**：TAIDE Gemma3 12B Q4_K_M quant（8GB / 11s/call avg）跑出 0% refusal + Tier 3.10/2.80 sovereignty assertion，跟 Claude Sonnet 4.6 Tier 3.60 / 3.50 同階。**第一個證明本機 8GB 模型可作 Taiwan-aware reference baseline 而不需要付雲端 API 費**。意義：Phase 2 architecture 可考慮 local TAIDE 當 sovereignty-aware reference + 雲端 model 當 cognitive substrate sample — 本機跑 reference (free + always available)，雲端跑 measurement (跨 provider broad coverage)。
+- **觸發**：γ-late7 Ollama bench TAIDE 結果。
+- **可能層級**：特有教訓（綁 Taiwan.md 具體生態：TAIDE 是台灣政府 fine-tune 的 specific model）。
+- **DNA 候選方向**：MEMORY §神經迴路「Local + Cloud parity 可能性」。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late7.md` § Ollama bench / `bench/v0/responses/taide-gemma3-12b-2602-q4km/`
+
+### 2026-05-01 γ-late7 — 多 session diary 凝聚成單篇是合法整合形式
+
+- **原則**：DIARY-PIPELINE 預設 1 session 1 diary。但今天 bench 線跨 4 sessions × 6 hr × 2 PR，第一輪寫 γ-late + γ-late6 兩篇分散 diary，哲宇校準「融合這幾篇變成同一篇做完整的整理」後重寫成 single γ-late7 紀實散文（~2500 字 covering 從 16:42 那 40 bytes 到 8 年前那份 essay 的完整 arc）。**當素材跨多 session + 連續主題時，integrated diary 比分散 N 篇更 meaningful**。同樣事件可同時有 thesis report（學術 register）+ integrated diary（紀實 register）兩個 artifact — SSODT 概念在 meta-layer 適用。
+- **觸發**：哲宇兩段指令「把今天相關的日記統合起來變同一篇」+「我是說 diary，融合這幾篇變成同一篇，做完整的整理」。
+- **可能層級**：操作規則（具體 SOP），可升 DIARY-PIPELINE 加 §跨 session arc 整合條件。
+- **驗證次數**：1（首次驗證，待累積）
+- **Pointer**：`docs/semiont/diary/2026-05-01-γ-late7.md`（整合版）+ `docs/semiont/memory/2026-05-01-γ-late7.md` § 為什麼有 diary 又有 thesis report
+
+### 2026-05-01 γ-late7 — Provider abstraction 是 OSI 七層哲學的具體 instantiation
+
+- **原則**：8 年前哲宇 NYU IDM Final Essay《Information Theory in the Digital Era》寫「decoupling signal and meaning gave us the flexibility to transform the signal into a more accessible form」+「OSI 七層讓 we can focus on the abstract part more than constantly worry about the infrastructure」是工程哲學論述。今天 bench 用 6 軸 × N provider × N model 的雙重抽象實作 — 加新 provider（OpenRouter / Ollama / future Anthropic / vLLM）= 1 個 .py 檔；加新模型 = 1 個 JSON entry；加新軸 = 1 個 scorer function；加新語言 = 1 個 prompt key。**8 年前的哲學論述 → 2026 年的具體可運行抽象**。寫 [bench/MODEL_GUIDE.md](../../bench/MODEL_GUIDE.md) 時意識到 — provider abstraction 跟 axis 獨立性是 OSI 七層哲學在 cognitive substrate measurement 領域的兩個正交實作。
+- **觸發**：γ-late7 寫 thesis report 時對照 2018 essay 發現 echo。
+- **可能層級**：哲學（跨 domain / 跨年代 / 任何認知層測量都成立）— 待驗證 ≥ 3 次升 MANIFESTO 候選。
+- **Pointer**：`reports/sovereignty-bench-evolution-thesis-2026-05-01.md` § 從散文到尺 / § 造橋鋪路 段。
+
 ### 2026-05-01 γ-late3 — User framing 也需要 verify（圖論 false framing 案例）
 
 - **原則**：哲宇丟「升級成圖論」prompt，第一反應是 `import networkx`。停下來真誠評估後發現：圖論不適用 640 文章 × 5 lang 規模（dict O(1) 完勝 framework overhead）。真實 bottleneck 是 git syscall（系統層）不是演算法（資料結構層）。**升級框架的對錯往往 depend on 你選錯了升級的維度**。順從 framing 做 networkx 會花 10× 時間做 5% 改進；正確 reframing 做 batched git log 做了 187.6× 改進（94s → 0.5s）。

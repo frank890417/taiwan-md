@@ -295,6 +295,12 @@ const categoryList = [
                         >
                           {t('nav.terminology')} 📖
                         </a>
+                        <a
+                          href={translatePath('/bench')}
+                          class="dropdown-item dropdown-section-header"
+                        >
+                          {t('nav.bench')} 🧬
+                        </a>
                         <div class="dropdown-divider" />
                         {categoryList.map((category) => (
                           <a href={category.path} class="dropdown-item">

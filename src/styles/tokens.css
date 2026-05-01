@@ -52,4 +52,44 @@
   --title-minor-size: 1.1rem;
   --title-line-height: 1.2;
   --title-letter-spacing: 0;
+
+  /* === Reader colors (light theme defaults, 2026-05-01 γ-late) ===
+   * Pragmatic v1: not yet a full re-tokenization of every hex in src/.
+   * The five vars below cover the largest reading surfaces (body bg,
+   * body ink, soft ink, surface card, accent link). global.css @layer
+   * base reads them; the dark override below flips them in one place.
+   */
+  --color-bg: #ffffff;
+  --color-bg-soft: #f8fafc;
+  --color-ink: #1a1a2e;
+  --color-ink-soft: #475569;
+  --color-surface: #ffffff;
+  --color-border: rgba(15, 23, 42, 0.08);
+  --color-accent: #3b82f6;
+
+  /* === Reader font-size scale (2026-05-01 γ-late) ===
+   * data-text-size on <html>: '' (default) | 'large' | 'xlarge'.
+   * Multiplied into body font-size in global.css.
+   */
+  --reader-size-scale: 1;
+
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  --color-bg: #0e1320;
+  --color-bg-soft: #131a2a;
+  --color-ink: #e2e8f0;
+  --color-ink-soft: #94a3b8;
+  --color-surface: #1a2235;
+  --color-border: rgba(226, 232, 240, 0.12);
+  --color-accent: #60a5fa;
+  color-scheme: dark;
+}
+
+:root[data-text-size='large'] {
+  --reader-size-scale: 1.125;
+}
+:root[data-text-size='xlarge'] {
+  --reader-size-scale: 1.25;
 }
