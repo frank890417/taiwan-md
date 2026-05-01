@@ -265,7 +265,15 @@ def translate_one(article, lang, api_key, model, dry_run=False):
 
     size = out_path.stat().st_size
     if size < 1000:
-        return False, f"output too small ({size} bytes)"
+        # 2026-05-01 γ-late3: cleanup stub on validation fail.
+        # Previously the 40-byte refusal "你好，我无法给到相关内容" persisted
+        # on disk, causing subsequent verify-batch / pre-commit hook failures
+        # ("missing translatedFrom" because the stub has no frontmatter).
+        try:
+            out_path.unlink()
+        except Exception:
+            pass
+        return False, f"output too small ({size} bytes) — file removed"
 
     return True, None
 
