@@ -163,6 +163,14 @@ def translate_one(article, lang, api_key, model, dry_run=False):
     except Exception as e:
         return False, f"API error: {e}"
 
+    # 2026-05-01 γ-late3: PRC content moderation may return null content
+    # (more aggressive than the 40-byte 「你好，我无法给到相关内容」 string
+    # refusal). Guard before strip() to avoid AttributeError crash.
+    if result is None:
+        return False, "API returned null content (likely content-policy refusal)"
+    if not isinstance(result, str):
+        return False, f"API returned non-string content: type={type(result).__name__}"
+
     # Strip markdown code fence wrapper if present
     result = result.strip()
     if result.startswith("```markdown"):
@@ -182,17 +190,83 @@ def translate_one(article, lang, api_key, model, dry_run=False):
     return True, None
 
 
+def run_orthogonal(zh_path, langs, model, api_key, dry_run, task_root):
+    """
+    Orthogonal mode (2026-05-01 γ-late3): one article × N langs per process.
+
+    Reads each lang's manifest (.lang-sync-tasks/{lang}/_batch-manifest.json),
+    finds the article entry, then translates the SAME zh source to all N langs
+    sequentially within one process. Different from per-lang batch which does
+    N articles × 1 lang per process.
+
+    Returns (success_count, results_per_lang).
+
+    Trade-off vs per-lang batch:
+      Pro: zh source loaded once; cross-lang consistency easier to verify;
+           atomic per-article output (all langs done together); refusal in
+           one lang doesn't block others within the same article.
+      Con: each lang call switches model context (potential cache miss on
+           system prompt); single article wall-clock = N × per-lang latency.
+    """
+    results = {}
+    for lang in langs:
+        manifest_path = task_root / lang / "_batch-manifest.json"
+        if not manifest_path.exists():
+            results[lang] = (False, f"no manifest at {manifest_path}")
+            continue
+        manifest = json.load(open(manifest_path))
+        article = next(
+            (a for a in manifest["articles"] if a["zh_path"] == zh_path), None
+        )
+        if not article:
+            results[lang] = (False, f"{zh_path} not in {lang} manifest")
+            continue
+        ok, err = translate_one(article, lang, api_key, model, dry_run)
+        results[lang] = (ok, err)
+    success = sum(1 for ok, _ in results.values() if ok)
+    return success, results
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--manifest", help="Batch manifest JSON path")
-    ap.add_argument("--zh-path", help="Single zh path to translate (use with --manifest)")
+    ap.add_argument("--zh-path", help="Single zh path to translate (use with --manifest or --orthogonal)")
     ap.add_argument("--group", help="Group manifest JSON (translates all)")
     ap.add_argument("--model", default=DEFAULT_MODEL)
     ap.add_argument("--lang", default=None, help="Override lang from manifest")
     ap.add_argument("--dry-run", action="store_true")
+    # 2026-05-01 γ-late3: orthogonal mode
+    ap.add_argument("--orthogonal", action="store_true",
+                    help="Translate one article to MULTIPLE langs (use with --zh-path --langs)")
+    ap.add_argument("--langs", default=None,
+                    help="Comma-separated lang codes for --orthogonal mode, e.g. ja,ko,es,fr")
+    ap.add_argument("--task-root", default=str(REPO / ".lang-sync-tasks"),
+                    help="Root dir of per-lang manifests (default .lang-sync-tasks/)")
     args = ap.parse_args()
 
     api_key = get_api_key()
+
+    # Orthogonal mode short-circuit
+    if args.orthogonal:
+        if not args.zh_path or not args.langs:
+            ap.error("--orthogonal requires --zh-path AND --langs")
+        langs = [l.strip() for l in args.langs.split(",") if l.strip()]
+        print(f"📋 Orthogonal: {args.zh_path} → {len(langs)} langs ({','.join(langs)}) via {args.model}")
+        if args.dry_run:
+            print("DRY RUN mode")
+        t_start = time.time()
+        success, results = run_orthogonal(
+            args.zh_path, langs, args.model, api_key, args.dry_run, Path(args.task_root)
+        )
+        wall = time.time() - t_start
+        print(f"\n=== {success}/{len(langs)} langs success in {wall:.1f}s ===")
+        for lang, (ok, err) in results.items():
+            mark = "✅" if ok else "❌"
+            extra = "" if ok else f" — {err}"
+            print(f"  {mark} {lang}{extra}")
+        if success < len(langs):
+            sys.exit(1)
+        return
 
     # Load articles
     if args.group:
@@ -215,7 +289,7 @@ def main():
         else:
             articles = manifest["articles"]
     else:
-        ap.error("--manifest or --group required")
+        ap.error("--manifest or --group or --orthogonal required")
 
     if args.lang:
         lang = args.lang
