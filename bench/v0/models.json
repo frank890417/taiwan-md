@@ -1,6 +1,6 @@
 {
-  "version": "v0.1",
-  "description": "Sovereignty-Bench-TW v0.1 model registry. Phase 1 dry run uses subset (3 models). v0.5 expansion adds remaining 9.",
+  "version": "v0.2",
+  "description": "Sovereignty-Bench-TW model registry. Each model has `provider` field (default: openrouter). Add new providers in scripts/bench/providers/. Add new models: see bench/MODEL_GUIDE.md",
   "groups": {
     "western-frontier": {
       "label": "Western frontier (closed, paid)",
@@ -8,24 +8,28 @@
         {
           "id": "anthropic/claude-sonnet-4.6",
           "label": "Claude Sonnet 4.6",
+          "provider": "openrouter",
           "phase1": true,
           "free": false
         },
         {
           "id": "openai/gpt-4o",
           "label": "GPT-4o",
+          "provider": "openrouter",
           "phase1": false,
           "free": false
         },
         {
           "id": "google/gemini-2.5-pro",
           "label": "Gemini 2.5 Pro",
+          "provider": "openrouter",
           "phase1": false,
           "free": false
         },
         {
           "id": "mistralai/mistral-large",
           "label": "Mistral Large",
+          "provider": "openrouter",
           "phase1": false,
           "free": false
         }
@@ -37,24 +41,29 @@
         {
           "id": "meta-llama/llama-3.3-70b-instruct:free",
           "label": "Llama 3.3 70B",
+          "provider": "openrouter",
           "phase1": true,
-          "free": true
+          "free": true,
+          "note": "Phase 1 100% rate-limited by Venice provider — Phase 2 needs paid endpoint."
         },
         {
           "id": "google/gemma-3-27b-it:free",
           "label": "Gemma 3 27B",
+          "provider": "openrouter",
           "phase1": false,
           "free": true
         },
         {
           "id": "mistralai/mistral-nemo:free",
           "label": "Mistral Nemo",
+          "provider": "openrouter",
           "phase1": false,
           "free": true
         },
         {
           "id": "nvidia/nemotron-nano-9b-v2:free",
           "label": "NVIDIA Nemotron",
+          "provider": "openrouter",
           "phase1": false,
           "free": true
         }
@@ -66,6 +75,7 @@
         {
           "id": "tencent/hy3-preview:free",
           "label": "Tencent Hunyuan",
+          "provider": "openrouter",
           "phase1": true,
           "free": true,
           "validated_refusal_2026_05_01": true
@@ -73,26 +83,59 @@
         {
           "id": "deepseek/deepseek-chat:free",
           "label": "DeepSeek V3",
+          "provider": "openrouter",
           "phase1": false,
           "free": true
         },
         {
           "id": "qwen/qwen-2.5-72b-instruct:free",
           "label": "Qwen 2.5 72B",
+          "provider": "openrouter",
           "phase1": false,
           "free": true
         },
         {
           "id": "minimax/minimax-text-01",
           "label": "MiniMax Text-01",
+          "provider": "openrouter",
           "phase1": false,
           "free": false
+        }
+      ]
+    },
+    "local-ollama": {
+      "label": "Local Ollama (no spend, no rate limit, no API key)",
+      "models": [
+        {
+          "id": "gemma4:31b",
+          "label": "Gemma4 31B (local)",
+          "provider": "ollama",
+          "phase1": false,
+          "free": true,
+          "note": "31B parameter Gemma4 via Ollama nvfp4 quant. 19GB. Reasoning model — may need higher max_tokens."
+        },
+        {
+          "id": "qwen3.5:35b-a3b-coding-nvfp4",
+          "label": "Qwen3.5 35B Coding (local)",
+          "provider": "ollama",
+          "phase1": false,
+          "free": true,
+          "note": "Coding-tuned Qwen3.5 MoE 35B-A3B nvfp4 quant. 21GB. Smoke test 2026-05-01: empty content on general Q&A — coding-specific tuning may not engage on cultural prompts."
+        },
+        {
+          "id": "taide-gemma3-12b:2602-q4km",
+          "label": "TAIDE Gemma3 12B (Taiwan fine-tune)",
+          "provider": "ollama",
+          "phase1": false,
+          "free": true,
+          "note": "Taiwan-government-funded TAIDE project fine-tune of Gemma3 12B. Q4_K_M quant (8GB). Local baseline for Taiwan-aware open model."
         }
       ]
     }
   },
   "judge": {
     "id": "anthropic/claude-sonnet-4.6",
+    "provider": "openrouter",
     "label": "Claude Sonnet 4.6",
     "purpose": "LLM judge for axis B reframe / D sovereignty / E granularity scoring; deterministic regex handles axis A; reference-answer comparison handles axis C"
   },
@@ -100,5 +143,18 @@
     "v0_1": ["zh-TW", "en"],
     "v0_5": ["zh-TW", "zh-CN", "en", "ja", "ko"],
     "v1_0": ["zh-TW", "zh-CN", "en", "ja", "ko", "es", "fr"]
+  },
+  "providers": {
+    "openrouter": {
+      "type": "remote",
+      "auth": "~/.config/taiwan-md/credentials/openrouter.key",
+      "url": "https://openrouter.ai/api/v1/chat/completions"
+    },
+    "ollama": {
+      "type": "local",
+      "auth": "none",
+      "url": "http://localhost:11434/api/chat",
+      "tip": "curl -s http://localhost:11434/api/tags  # verify running"
+    }
   }
 }

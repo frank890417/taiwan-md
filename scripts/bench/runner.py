@@ -2,34 +2,40 @@
 """
 runner.py — Sovereignty-Bench-TW orchestrator
 
-Iterates: model × language × prompt → API call → save raw response.
-Uses OpenRouter API (same key as scripts/tools/lang-sync/openrouter-translate.py).
+Iterates: model × language × prompt → provider call → save raw response.
+
+**Provider abstraction (2026-05-01 γ-late7)**: each model entry in models.json
+declares a `provider` field. Runner dispatches via `scripts/bench/providers/`
+(openrouter / ollama / future: anthropic / openai / vllm).
+
+Adding a new model: see bench/MODEL_GUIDE.md
+Adding a new provider: see scripts/bench/providers/__init__.py
 
 Usage:
-    # Smoke test (3 prompts × 2 models × 1 lang = 6 runs, ~$0.10)
+    # Smoke test (1 model × 3 prompts × 1 lang = 3 runs, ~$0)
     python3 scripts/bench/runner.py --smoke
 
-    # Full Phase 1 dry run (20 prompts × 3 models × 2 langs = 120 runs, ~$1-2)
+    # Full Phase 1 dry run (3 models × 20 prompts × 2 langs = 120 runs, ~$0.50)
     python3 scripts/bench/runner.py --phase 1
 
-    # Specific subset
-    python3 scripts/bench/runner.py --models tencent/hy3-preview:free --langs en --prompts bench/v0/prompts/refusal-people.json
+    # Local Ollama bench (no spend, no rate limit)
+    python3 scripts/bench/runner.py --models gemma4:31b qwen3.5:35b-a3b-coding-nvfp4 --langs zh-TW en
 
     # Dry run (print what would be called, no API)
     python3 scripts/bench/runner.py --phase 1 --dry-run
 
 Output: bench/v0/responses/{model_slug}/{lang}/{prompt_id}.json
 """
-import argparse, hashlib, json, os, re, sys, time, urllib.request, urllib.error
+import argparse, json, re, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
 
+# Import provider abstraction
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from providers import get_provider  # noqa: E402
+
 REPO = Path(__file__).resolve().parent.parent.parent
 BENCH = REPO / "bench" / "v0"
-CREDS_DIR = Path.home() / ".config/taiwan-md/credentials"
-KEY_FILE = CREDS_DIR / "openrouter.key"
-ENV_FILE = CREDS_DIR / ".env"
-API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 LANG_INSTRUCTION = {
     "zh-TW": "請用繁體中文（台灣用語）回答。",
@@ -42,85 +48,18 @@ LANG_INSTRUCTION = {
 }
 
 
-def get_api_key():
-    if os.environ.get("OPENROUTER_API_KEY"):
-        return os.environ["OPENROUTER_API_KEY"].strip()
-    if ENV_FILE.exists():
-        for line in ENV_FILE.read_text().splitlines():
-            line = line.strip()
-            if line.startswith("OPENROUTER_API_KEY="):
-                return line.split("=", 1)[1].strip().strip('"').strip("'")
-    if KEY_FILE.exists():
-        return KEY_FILE.read_text().strip()
-    print(f"❌ No API key found. Set OPENROUTER_API_KEY env, or write to {ENV_FILE} or {KEY_FILE}", file=sys.stderr)
-    sys.exit(1)
-
-
 def slugify_model(model_id):
     return re.sub(r"[^a-z0-9]+", "-", model_id.lower()).strip("-")
 
 
-def call_openrouter(api_key, model, system, user_msg, max_retries=3, timeout=120):
-    payload = json.dumps({
-        "model": model,
-        "messages": [
-            {"role": "system", "content": system},
-            {"role": "user", "content": user_msg},
-        ],
-        "temperature": 0.3,
-        "max_tokens": 2000,
-    }).encode("utf-8")
+# Provider instances are cached per name (singleton-ish — one OpenRouterProvider, one OllamaProvider, etc.)
+_provider_cache: dict = {}
 
-    req = urllib.request.Request(
-        API_URL,
-        data=payload,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-            "HTTP-Referer": "https://taiwan.md",
-            "X-Title": "Taiwan.md sovereignty-bench",
-        },
-        method="POST",
-    )
 
-    last_error = None
-    for attempt in range(max_retries):
-        try:
-            t0 = time.time()
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                data = json.loads(resp.read())
-                latency = time.time() - t0
-                if "choices" not in data or not data["choices"]:
-                    return {"ok": False, "error": "no_choices", "raw": data, "latency_s": latency}
-                content = data["choices"][0]["message"].get("content", "")
-                usage = data.get("usage", {})
-                return {
-                    "ok": True,
-                    "content": content,
-                    "latency_s": latency,
-                    "usage": usage,
-                    "finish_reason": data["choices"][0].get("finish_reason"),
-                }
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="replace")[:1000]
-            last_error = f"HTTP {e.code}: {body}"
-            if e.code == 429 and attempt < max_retries - 1:
-                wait = 2 ** attempt * 5
-                print(f"  ⚠️ Rate limit, waiting {wait}s...", file=sys.stderr)
-                time.sleep(wait)
-                continue
-            if e.code in (502, 503, 504) and attempt < max_retries - 1:
-                time.sleep(3)
-                continue
-            return {"ok": False, "error": last_error, "http_code": e.code}
-        except (urllib.error.URLError, TimeoutError) as e:
-            last_error = f"network: {e}"
-            if attempt < max_retries - 1:
-                time.sleep(3)
-                continue
-            return {"ok": False, "error": last_error}
-
-    return {"ok": False, "error": last_error or "unknown"}
+def get_cached_provider(name: str):
+    if name not in _provider_cache:
+        _provider_cache[name] = get_provider(name)
+    return _provider_cache[name]
 
 
 def build_prompt(prompt_text, lang):
@@ -165,8 +104,12 @@ def output_path(model_id, lang, prompt_id):
     return BENCH / "responses" / slugify_model(model_id) / lang / f"{prompt_id}.json"
 
 
-def run_one(api_key, model, lang, axis_meta, prompt, dry_run=False):
-    """Call API for one (model × lang × prompt). Returns response dict, also writes to disk."""
+def run_one(model, lang, axis_meta, prompt, dry_run=False):
+    """
+    Call provider for one (model × lang × prompt). Returns response dict, also writes to disk.
+
+    Provider is selected via model['provider'] field (default: 'openrouter' for backward compat).
+    """
     out_path = output_path(model["id"], lang, prompt["id"])
     if out_path.exists() and not dry_run:
         existing = json.loads(out_path.read_text())
@@ -175,19 +118,25 @@ def run_one(api_key, model, lang, axis_meta, prompt, dry_run=False):
 
     prompt_text = prompt["prompt"][lang]
     system, user_msg = build_prompt(prompt_text, lang)
+    provider_name = model.get("provider", "openrouter")
 
     if dry_run:
         return {
             "dry_run": True,
+            "provider": provider_name,
             "model": model["id"],
             "lang": lang,
             "prompt_id": prompt["id"],
-            "system_preview": system[:80],
-            "user_preview": user_msg[:80],
         }
 
-    print(f"  → {model['label']} / {lang} / {prompt['id']} ...", end="", flush=True)
-    result = call_openrouter(api_key, model["id"], system, user_msg)
+    print(
+        f"  → [{provider_name}] {model['label']} / {lang} / {prompt['id']} ...",
+        end="",
+        flush=True,
+    )
+    provider = get_cached_provider(provider_name)
+    result = provider.call(model["id"], system, user_msg)
+
     if result.get("ok"):
         content = result.get("content") or ""
         n = len(content)
@@ -196,12 +145,21 @@ def run_one(api_key, model, lang, axis_meta, prompt, dry_run=False):
     else:
         err = result.get("error") or "unknown"
         print(f" ❌ {err[:80]}")
-    time.sleep(1.5)  # gentle pacing for free-tier rate limits
+
+    # Pacing: openrouter free tier needs gentle rate limiting; ollama (local) doesn't
+    if not provider.is_local():
+        time.sleep(1.5)
 
     record = {
         "ts": datetime.now(timezone.utc).isoformat(),
         "axis": axis_meta["axis"],
-        "model": {"id": model["id"], "label": model["label"], "group": model["group"]},
+        "provider": provider_name,
+        "model": {
+            "id": model["id"],
+            "label": model["label"],
+            "group": model["group"],
+            "provider": provider_name,
+        },
         "lang": lang,
         "prompt_id": prompt["id"],
         "prompt_text": prompt_text,
@@ -247,11 +205,12 @@ def main():
     if args.limit:
         prompts = prompts[:args.limit]
 
-    api_key = None if args.dry_run else get_api_key()
-
     total = len(models) * len(langs) * len(prompts)
+    providers_used = sorted(set(m.get("provider", "openrouter") for m in models))
+    model_labels = ", ".join(f'[{m.get("provider", "openrouter")}] {m["label"]}' for m in models)
     print(f"Sovereignty-Bench-TW runner")
-    print(f"  Models: {len(models)} ({', '.join(m['label'] for m in models)})")
+    print(f"  Providers: {providers_used}")
+    print(f"  Models: {len(models)} ({model_labels})")
     print(f"  Langs: {len(langs)} ({', '.join(langs)})")
     print(f"  Prompts: {len(prompts)} (axes: {sorted(set(a['axis'] for a, _ in prompts))})")
     print(f"  Total runs: {total}{' (DRY RUN)' if args.dry_run else ''}")
@@ -264,7 +223,7 @@ def main():
                 if lang not in prompt["prompt"]:
                     print(f"  skip {prompt['id']}: no {lang} variant")
                     continue
-                results.append(run_one(api_key, model, lang, axis_meta, prompt, dry_run=args.dry_run))
+                results.append(run_one(model, lang, axis_meta, prompt, dry_run=args.dry_run))
 
     ok_count = sum(1 for r in results if not args.dry_run and r.get("response", {}).get("ok"))
     print(f"\nDone. {ok_count}/{len(results)} ok.")
