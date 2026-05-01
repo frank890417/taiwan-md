@@ -1,102 +1,115 @@
 ---
 title: 'Taiwan Folk Music and Songs: From Cultural Theft to Global Recognition'
 category: Music
-tags: [music, folk songs, indigenous, Taiwanese, Kuo Ying-nan, Chunchu, Bunun]
+tags:
+  [
+    'music',
+    'folk songs',
+    'indigenous',
+    'Taiwanese',
+    'Kuo Ying-nan',
+    'Chunchu',
+    'Bunun',
+  ]
+subcategory: '傳統音樂'
 date: 2026-03-23
 lastVerified: 2026-03-23
 lastHumanReview: false
-description: "When Taiwan's ancient Amis chanting echoed through the 1996 Atlanta Olympics, the singer Kuo Ying-nan only learned he'd been heard by 65 million people through a lawsuit. This absurd story reflects Taiwan's century-long musical journey from silencing to self-definition"
+description: "In 1996, the Atlanta Olympics opening ceremony carried the ancient chant of an Amis elder from Taiwan — but Kuo Ying-nan only learned he had been heard by 65 million people two years later, through a lawsuit. This absurd story mirrors the fate of Taiwan's folk music: silenced repeatedly under colonialism, yet always finding its way back to the world's ears."
 readingTime: 8
 translatedFrom: 'Music/台灣民謠與歌謠.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:b219ae0c22f1ce55'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
-> **30-Second Overview:** The 1996 Atlanta Olympics opening ceremony featured an ancient Amis elder's chanting from Taiwan, but Kuo Ying-nan only discovered his voice had been heard by 65 million people through a 1998 lawsuit. This "stolen then globally heard" absurd story perfectly mirrors Taiwan's folk music destiny over a century—from the 1930s when Chunchu created 80,000-copy sales miracles, to being forced into military songs, to reclaiming their authentic voice in the 1990s.
+> **30-second overview:** On July 19, 1996, the Atlanta Olympics opening ceremony broadcast the ancient chant of Kuo Ying-nan, an Amis elder from Maolan village in Taitung — to 65 million viewers worldwide. But Kuo Ying-nan himself only learned his voice had circled the globe two years later, through an international copyright lawsuit. This "stolen, then heard by the world" absurdity is the perfect metaphor for one hundred years of Taiwan's folk music: repeatedly silenced under colonial policies, yet always surfacing in unexpected places, ultimately letting the world hear Taiwan's oldest and most resilient voices.
 
-On July 19, 1996, when Enigma's "Return to Innocence" echoed through the Atlanta Olympics opening ceremony, 65 million viewers worldwide heard the ancient chanting of an Amis elder from Taiwan's Taitung—Kuo Ying-nan. But Kuo himself only learned through an international copyright lawsuit two years later that his voice had resonated across the globe.
+On the evening of July 19, 1996, as the Enigma track "Return to Innocence" played over the Atlanta Olympics opening ceremony, 65 million viewers worldwide heard the ancient chant of Amis elder Kuo Ying-nan from Maolan village in Taitung. But Kuo Ying-nan himself only learned, two years later via an international copyright lawsuit, that his voice had already reached everyone.
 
-This "stolen then globally heard" absurd story perfectly encapsulates the century-long fate of Taiwan's folk music—repeatedly silenced under colonial policies yet always managing to resurface in unexpected places, ultimately allowing the world to hear Taiwan's most ancient and resilient voices.
+This "stolen, then heard by the world" absurdity is the perfect metaphor for one hundred years of Taiwan's folk music: silenced time and again under the pressure of colonial policies, yet always resurfacing in unexpected places — ultimately letting the world hear Taiwan's oldest and most resilient voices.
 
-## The Kuo Ying-nan Case: International Victory for Taiwan Indigenous Music
+## The Kuo Ying-nan Case: An International Victory for Taiwan's Indigenous Music
 
-In 1988, Taiwan sent the "ROC Mountain Traditional Music and Dance European Tour Group" to Paris's World Cultural Center, where 67-year-old Amis elder Kuo Ying-nan performed the traditional "Joyful Drinking Song" (Elder's Drinking Song). French music publisher Maison des Cultures du Monde recorded and released the performance, and German electronic group Enigma extracted fragments of Kuo's voice to create "Return to Innocence."
+In 1988, Taiwan dispatched the "Republic of China Mountain Traditional Music and Dance Visit to Europe Group" to the Maison des Cultures du Monde in Paris. There, sixty-seven-year-old Amis elder Kuo Ying-nan performed the traditional "Drinking Song of the Elderly" (老人飲酒歌). The French music publishing house recorded the performance and released it; the German electronic music group Enigma extracted Kuo Ying-nan's voice and remixed it into "Return to Innocence."
 
-The song was released in 1993 and selected as the Atlanta Olympics promotional track in 1996, spreading globally. However, Kuo remained completely unaware until 1996, when tribal members heard the song on Taiwan radio and discovered, "Hey, that's our elder's voice!"
+The song was released in 1993, selected as the promotional theme for the Atlanta Olympics in 1996, and broadcast around the world. Kuo Ying-nan had no idea — until a tribal member in Taiwan heard the song on a radio station and realized: "Wait, that's the sound of our village elder!"
 
-> **📝 Curator's Note**
-> The most absurd aspect of this case: Taiwan indigenous music "conquered the world" for the first time, yet the performer was completely unaware. Kuo only discovered his voice had been heard by 65 million people when he heard it on the radio.
+> **📝 Curator's note**
+> The most absurd part of this case: the first time Taiwan's indigenous music "conquered the world," the subject himself had no idea. Kuo Ying-nan only learned his voice had been heard by 65 million people when he heard the song on the radio.
 
-In March 1998, with assistance from Magic Stone Records' general manager David Zhang, Kuo and his wife filed a copyright infringement lawsuit against Enigma and related record companies. After three years of litigation, they reached an out-of-court settlement. Enigma paid compensation and royalties, while EMI Records acknowledged Kuo and his wife as performers and credited them on all global releases.
+In March 1998, with the help of Magic Stone Music general manager Chang Pei-jen, Kuo Ying-nan and his wife filed an infringement lawsuit against Enigma and related record companies. After three years of litigation, an out-of-court settlement was reached: Enigma paid compensation and royalties; EMI acknowledged Kuo Ying-nan and his wife as performers and added their names on worldwide releases of the song.
 
-This marked the first time Taiwan indigenous music gained subjective voice rights on the international legal stage. The true significance wasn't the victory, but that the world first heard Taiwan indigenous voices not through "world music" cultural curiosity, but because they genuinely possessed universal musical value—sounds that transcend cultural barriers and reach directly to the human heart.
+This was the first time Taiwan's indigenous music achieved recognition of its subject status in an international court. The real significance lies not in the victory, but in the world hearing for the first time that Taiwan's indigenous voice was not an object of "world music" exoticism — it genuinely carries universal musical value: a voice that penetrates cultural barriers and reaches straight to the human heart.
 
-## The Bunun Miracle: Rewriting Musical Origins
+## The Bunun Acoustic Miracle: Rewriting the Origins of Music
 
-Even earlier than Kuo Ying-nan's international recognition was the Bunun tribe's "Prayer for Millet Harvest Song" (Pasibutbut). On March 25, 1943, Japanese scholar Kurosawa Takatomo recorded this song in Kandeng Village, Haiduan Township, Taitung County, and was deeply moved. In 1952, he sent the recording to UNESCO, shocking Western musicology authorities—how could an ancient tribe possess such complex harmony?
+Noticed by the international musicology community even before Kuo Ying-nan was the Bunun people's "Prayer for Millet Harvest" (Pasibutbut). On March 25, 1943, Japanese scholar Kurosawa Takatomo recorded this song in Kantou village, Haiduan Township, Taitung County, and was deeply moved. In 1952 he sent the recording to UNESCO; the authoritative Western musicologists who heard it were astonished — how could an ancient tribe have harmony this complex?
 
-This song is commonly called "eight-part harmony," but it's actually four-part singing that sounds like eight parts due to natural overtones. In the 1990s, musicologist Wu Jung-shun analyzed 25 pasibutbut recordings with spectrometers in France, proving that its polyphonic parts dynamically change based on overtone phenomena, representing true "natural overtone harmony."
+The song is commonly called "eight-part harmony," though in practice it is four-part singing that produces natural overtones that sound like eight parts. In the 1990s, musicologist Wu Jung-shun analyzed 25 recordings of pasibutbut using a spectrograph in France, proving that its polyphonic voices dynamically change according to overtone phenomena — genuine "natural overtone harmony."
 
-> **⚠️ Controversial Viewpoint**
-> "Eight-part harmony" was actually a term created in the 1990s to help Westerners understand it. The Bunun people call it pasibutbut, meaning "pulling each other," emphasizing vocal interaction rather than the number of parts.
+> **⚠️ Contested viewpoint**
+> The name "eight-part harmony" was actually coined in the 1990s to help Westerners understand the piece. The Bunun themselves call it pasibutbut, meaning "pulling each other" — emphasizing the interaction between voices, not the number of parts.
 
-More importantly, this overturned a fundamental Western musicological assumption: that music evolved from monophony to dual tones to harmony. The Bunun pasibutbut proved that complex polyphonic harmony might be one of humanity's most primitive musical forms.
+More importantly, this overturned a basic assumption of Western musicology: that music develops from single tones to dyads and then to chords. Bunun pasibutbut proves that complex multi-part harmony may be one of humanity's most primitive musical forms.
 
-In 2019, when Japanese music master Ryuichi Sakamoto visited Zhuoxi Township in Hualien, he said the Bunun "Prayer for Millet Harvest Song" was his favorite sound in Taiwan. For a musician dedicated to exploring sound boundaries, this statement carries significant weight.
+In 2019, when Japanese music master Ryuichi Sakamoto visited Zhuoshi Township in Hualien, he said the Bunun "Prayer for Millet Harvest" was his favorite sound he had heard in Taiwan. For a musician dedicated to exploring the boundaries of sound, those words carry significant weight.
 
-## 1930s Taiwanese Song Golden Explosion
+## The Golden Explosion of 1930s Taiwanese-Language Songs
 
-Back to August 1933, crowds of Taiwanese always gathered under the arcades in front of Taipei Columbia Records—they couldn't afford gramophones but couldn't resist coming to hear the new song "Longing for Spring Breeze" being played in stores. This song, with lyrics by Li Lin-qiu, music by Deng Yu-xian, and vocals by Chunchu, created an astonishing sales miracle in 1934.
+Back to August 1933: under the colonnade of the Columbia Records building in Taipei, crowds of Taiwanese people always gathered — they couldn't afford a gramophone, but couldn't resist coming to hear the new song "Looking Forward to Spring Breeze" (望春風) that the store was playing. This song, lyrics by Li Lin-chiu, music by Deng Yu-xian, sung by Chunchu (純純), created a stunning sales record in 1934.
 
-To understand these numbers' shocking scale: Chunchu's 1932 performance of "Peach Blossom Weeps Blood" had already sold "70,000-80,000 copies," while "Longing for Spring Breeze" and other hits reached "40,000-50,000 copies." With Taiwan's population under 5 million at the time, this meant one record for every 60-80 people.
+To understand how stunning: Chunchu's 1932 recording of "Peach Blossom Weeping Blood" (桃花泣血記) had already sold "seventy or eighty thousand copies"; other popular songs including "Looking Forward to Spring Breeze" sold "forty or fifty thousand copies." With Taiwan's population below five million at the time, this is equivalent to one out of every sixty to eighty people buying a record.
 
-> **💡 Did You Know**
-> Chunchu (Liu Qing-xiang) entered opera troupes at age 13 and used different stage names for different music types. She used "Chunchu" for Taiwanese pop songs, her real name "Qing-xiang" for opera, and other names like Mei-ying, Qin-ling, Ai-qing, Bai-hua-xiang, and Man-tai-hong—more than anyone else at the time.
+> **💡 Did you know**
+> Chunchu (Liu Ching-hsiang) entered a gezai opera troupe at age thirteen and used different stage names for different types of music. For Taiwanese-language pop songs she used "Chunchu" (純純); for gezai opera she used her real name "Ching-hsiang"; and she had still more names: Mei-ying, Chin-ling, Ai-ching, Pai-hua-hsiang, Man-tai-hung — so many that nobody else of the era came close.
 
-This "Taiwanese song golden age" had an interesting background: the leader was Japanese businessman Kashiwano Masajiro. In 1932, he decided to bet on the Taiwanese popular song market, establishing an arts department on Columbia Company's third floor and recruiting lyricists and composers like Li Lin-qiu, Deng Yu-xian, and Zhou Tian-wang, along with exclusive singers like Chunchu and Ai-ai.
+This "golden era of Taiwanese-language songs" had an interesting background: the driving force was a Japanese businessman, Kashino Shojiro. In 1932 he decided to bet on the Taiwanese-language pop song market; on the third floor of the Columbia Records building he established a literary and arts division, recruiting lyricists and composers including Li Lin-chiu, Deng Yu-xian, and Zhou Tian-wang, as well as dedicated singers including Chunchu and Ai-ai.
 
-Kashiwano's strategy was particularly notable: instead of seeking literary elites, he "widely solicited lyricists from the public." Whether street performers, company employees, or factory workers—anyone interested was encouraged to create popular lyrics. This "grassroots approach" fueled Taiwanese songs' original vitality.
+Kashino's most distinctive strategy: rather than seeking literary elites, he broadly solicited lyricists from the general public — "regardless of whether you're a street entertainer, a company employee, or even a factory hand, if you're interested, everyone is encouraged to write popular lyrics." This "folk route" created the original vitality of Taiwanese-language songs.
 
-## Two Cultural Silencings: From Japanization to Mandarin Policies
+## Two Cultural Silencings: From Kominka to National Language Policy
 
-Taiwanese songs experienced two cultural extinctions in just 100 years, each silenced for different reasons:
+Taiwanese-language songs suffered two cultural extinctions in just 100 years, each under different pretexts:
 
-| Japanization Movement (1937-1945)                | Mandarin Policy (1945-1987)                    |
-| ------------------------------------------------ | ---------------------------------------------- |
-| "Longing for Spring Breeze"→"The Earth Calls"    | Taiwanese singers forced to sing Mandarin      |
-| "Rain Night Flower"→"Honor of Military Husbands" | "Taiwanese Song Censorship System" established |
-| "Moon Night Sorrow"→"Military Wife"              | Radio stations banned Taiwanese songs          |
+| Kominka Movement (1937–1945)                               | National Language Policy (1945–1987)                             |
+| ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| "Looking Forward to Spring Breeze" → "The Land Is Calling" | Taiwanese-language singers forced to switch to Mandarin          |
+| "Rainy Night Flower" → "The Honored Soldier's Husband"     | Establishment of "Taiwanese-language song review system"         |
+| "Moonlit Night Sorrow" → "A Soldier's Wife"                | Radio stations banned from broadcasting Taiwanese-language songs |
 
-After the 1937 Sino-Japanese War outbreak, Taiwanese songs faced their first existential crisis. The Japanese government's Japanization movement forcibly adapted the most popular Taiwanese songs into Japanese military songs, transforming romantic love lyrics into war propaganda. In 1944, the "father of Taiwanese songs" Deng Yu-xian died of illness in Zhubei, Xinchu at age 37, having adopted the Japanese name "Higashida Akiame."
+After the outbreak of the Sino-Japanese War in 1937, Taiwanese-language songs faced their first existential crisis. The Japanese government launched the Kominka Movement; the most popular Taiwanese-language songs were forcibly adapted into Japanese military anthems, with lyrics transformed from romantic love to war propaganda. In 1944, the "father of Taiwanese-language songs" Deng Yu-xian died in illness in Qionglin, Hsinchu, at only 37 — having taken the Japanese name "Higashida Gyouu."
 
-Post-war Mandarin policies brought the second silencing. After the 1949 martial law declaration, Deng Yu-xian's "April Rain" was actually banned—"Four Seasons Red" was renamed "Four Seasons Song" for allegedly evoking the Communist Party, while the other three were "problematic" for having been military songs.
+The postwar national language policy was the second silencing. After the martial law decree of 1949, Deng Yu-xian's "Four Months, Hope, Rain" (四月望雨) cycle was perversely listed as forbidden songs — "Four Season Red" (四季紅) was renamed "Four Season Rhyme" (四季謠) for fear it evoked the Communist Party; the other three were "sensitive" because they had been adapted as military songs.
 
-> **📝 Curator's Note**
-> In 1996, when Changhua Senior High School wanted to name their music hall "Yu-xian Hall," a music teacher with a normal university degree actually asked: "Who is Deng Yu-xian?" This episode illustrates the severity of cultural disconnection.
+> **📝 Curator's note**
+> In 1996, when the music hall at Changhua Senior High School was to be named "Yuexian Hall" after Deng Yu-xian, a music teacher who had graduated from National Taiwan Normal University asked: "Who is Deng Yu-xian?" This episode speaks to the severity of the cultural rupture.
 
-Under nearly 40 years of dual oppression, Taiwanese song creative traditions nearly severed. Chunchu died of tuberculosis in 1943 at age 29; many musicians scattered—some to Japan, some to Hong Kong, some abandoning music to become farmers.
+Under nearly forty years of dual suppression, the creative tradition of Taiwanese-language songs nearly broke off entirely. Chunchu died in 1943 of tuberculosis at 29; many musicians scattered — some married abroad to Japan, some fled to Hong Kong, some put away their instruments and went home to farm.
 
-## 1990s Sound Revival: Redefining Taiwan's Voice
+## The Sound Revival of the 1990s: Redefining the Taiwanese Voice
 
-After 1987's lifting of martial law, suppressed local culture began reviving. The early 1990s saw landmark Taiwanese music works: Blacklist Studio's "Songs of Madness," Lin Qiang's "Marching Forward," and Chen Ming-zhang's "An Afternoon Play." These musicians began creating new Taiwanese songs rather than just covering classics.
+After martial law ended in 1987, suppressed native culture began to revive. In the early 1990s, a succession of landmark Taiwanese-language music works appeared: the Blacklist Studio's _Songs of Madness_, Lim Giong's _Marching Forward_, Chen Ming-chang's _Afternoon at a Play_. These musicians began creating new songs in Taiwanese, no longer content to merely cover classic old songs.
 
-Lin Qiang's "Marching Forward," released in December 1990, sold 400,000 copies, making him the "first person of the new Taiwanese song movement." More importantly, these creators began using Taiwanese to express modern urban life experiences—not nostalgic longing, but vivid present reality.
+Lim Giong's "Marching Forward" (向前走) was released in December 1990, selling 400,000 copies and making him "the first person of the new Taiwanese song movement." But more importantly, these creators began expressing in Taiwanese the experience of modern urban life — not nostalgic longing, but a living present.
 
-> **📊 Data Source**
-> According to the Taiwan Popular Music Wiki, three 1990 Rolling Stone Taiwanese albums successfully influenced Taiwanese song styles and popular music market development.
+> **📊 Data source**
+> According to records of the Taiwan Pop Music Wiki, three Rock Records Taiwanese-language albums released in 1990 successfully influenced the stylistic and market direction of Taiwanese-language songs in pop music.
 
-Notably, in 1997, R&B singer David Tao reinterpreted "Longing for Spring Breeze," adding Chinese lyrics to the original Taiwanese, sparking cross-generational discussion. This cross-linguistic, cross-generational reinterpretation symbolized Taiwan music beginning to reclaim its diverse and complex voice.
+Also worth noting: in 1997, R&B singer Tao Zhe reinterpreted "Looking Forward to Spring Breeze," layering Mandarin lyrics over the original Taiwanese, sparking cross-generational discussion. This kind of cross-language, cross-generational reinterpretation symbolizes Taiwan's music beginning to recover its own multiple and complex voice.
 
-## Memory Restoration: From Silencing to Global Recognition
+## Repairing Memory: From Silencing to Being Heard by the World
 
-Returning to Kuo Ying-nan's story. This Amis elder, born in Taitung in 1921, never imagined his singing would reach the world. But when he reclaimed copyright in court in 1998, it symbolized not just intellectual property victory, but Taiwan indigenous music's first subjective voice rights on the international stage.
+Back to Kuo Ying-nan's story. This Amis elder, born in 1921 in Taitung, never imagined his song would travel the world. But when he reclaimed his rights in court in 1998, the symbolism went beyond an intellectual property victory — it was the first time Taiwan's indigenous music achieved recognition of its subject status on an international stage.
 
-Kuo passed away in 2002, but his case established a new model: Taiwan's voices were no longer objects to be "discovered" or "exoticized," but musical forces actively entering the world stage.
+Kuo Ying-nan passed away in 2002, but his case opened a new template: Taiwan's voice would no longer be an object discovered or curiosity-hunted — it would actively walk onto the world stage as a musical force.
 
-> **✦** "A people's songs are their soul speaking."
+> **✦** "The songs of a people are the soul speaking."
 
-Today, when we hear A-mei's "Ocean," Ji Xiao-jun's celestial voice, or any classic Taiwanese song, we're actually hearing a story about how voices survived oppression and ultimately redefined themselves.
+Today, when we listen to Chen Chien-nian's _Ocean_, Chi Hsiao-chun's celestial voice, or any old Taiwanese tune, we are hearing a story about how sound survived under oppression and ultimately redefined itself.
 
-Taiwan's folk music and songs have never been just music—they are this island's sound memory, testimony to cultural resilience, and important indices for understanding "what is Taiwan." When Kuo Ying-nan sang the "Joyful Drinking Song" on Malan tribal nights, he didn't know this sound would one day echo worldwide. But today we know these ancient, resilient voices are Taiwan's most precious cultural assets—they tell the world who the people of this island are, where they came from, and where they're going.
+Taiwan's folk music and songs have never been just music — they are this island's sonic memory, witness to cultural resilience, and an important index for understanding "what Taiwan is." When Kuo Ying-nan sang the "Drinking Song" on a night in Maolan village, he did not know this voice would one day resound across the world. But today we know: these ancient and resilient voices are Taiwan's most precious cultural heritage — telling the world who the people of this island are, where they came from, and where they are going.
 
 ## References
 
-- [Chunchu - Taiwan Popular Music Wiki](http://www.tpmw.org.tw/index.php/純純)
+- [Chunchu — Taiwan Pop Music Wiki](http://www.tpmw.org.tw/index.php/純純)

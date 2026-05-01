@@ -4,20 +4,25 @@ description: 'As a trade-oriented economy, Taiwan actively promotes diversified 
 date: 2026-03-19
 tags:
   [
-    economy,
-    trade policy,
-    CPTPP,
-    New Southbound Policy,
-    ECFA,
-    FTA,
-    international trade,
+    'economy',
+    'trade policy',
+    'CPTPP',
+    'New Southbound Policy',
+    'ECFA',
+    'FTA',
+    'international trade',
   ]
+subcategory: '貿易與全球化'
 author: 'Taiwan.md'
-difficulty: intermediate
+difficulty: 'intermediate'
 readingTime: 16
 featured: true
 lastVerified: 2026-03-19
+lastHumanReview: false
 translatedFrom: 'Economy/台灣國際貿易政策.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:e86aa807bf77d463'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Taiwan's International Trade Policy: Finding Position in the Globalization Wave

@@ -7,18 +7,21 @@ tags:
     'people',
     'art',
     'painting',
-    'sanxia',
-    'temple',
+    'Sanxia',
+    'Zushih Temple',
     'realism',
-    'taiwan-exhibition',
+    'Taiwan Exhibition',
   ]
 category: 'People'
-subcategory: 'Arts and Culture'
+subcategory: '藝術與創作'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'People/李梅樹.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:44a9b62010a8d0da'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 > **30-second overview:** Li Mei-shu wasn't just a prize-winning painter from the Taiwan Exhibition, but Taiwan's only artist to direct traditional temple reconstruction with academic aesthetics. From 1947, he spent 36 years overseeing the reconstruction of Sanxia Zushih Temple, creating an unprecedented fusion of Western and Eastern art that earned a rural temple the title "Oriental Palace of Art."

@@ -1,283 +1,288 @@
 ---
+translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0bedf0b86c577b3b'
+translatedAt: '2026-05-01T14:11:02+08:00'
 title: "Taiwan's Foreign Trade and Global Supply Chain"
-description: 'From export-oriented to critical supply chain node: How Taiwan maintains trade advantages amid US-China rivalry'
+description: 'From export-oriented economy to critical supply chain node: how Taiwan maintains its trade advantages amid the US-China rivalry.'
 date: 2026-03-18
 tags:
   [
-    foreign trade,
-    global supply chain,
-    export-oriented,
-    US-China trade war,
-    ECFA,
-    international trade agreements,
-    semiconductors,
+    'foreign trade',
+    'global supply chain',
+    'export-oriented',
+    'US-China trade war',
+    'ECFA',
+    'international trade agreements',
+    'semiconductors',
   ]
-category: Economy
+subcategory: 'Economic Development'
+category: 'Economy'
 lastVerified: 2026-03-19
-translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
+lastHumanReview: false
 ---
 
 # Taiwan's Foreign Trade and Global Supply Chain
 
-At the container terminal of Taipei Port, thousands of standard containers are loaded and unloaded daily, bound for destinations worldwide. These seemingly ordinary metal boxes contain the secrets of Taiwan's economic miracle—from textiles and toys in the 1960s to semiconductor chips today, Taiwan has secured a critical position on the international stage through export trade. Despite covering only 36,000 square kilometers, Taiwan ranks as the world's 15th largest trading entity and holds irreplaceable positions in key sectors like semiconductors and ICT products.
+At the container terminal of Taipei Port, thousands of standard containers are loaded and unloaded every day, destined for ports around the world. Inside those seemingly unremarkable metal boxes lie the secrets of Taiwan's economic miracle — from garments and toys in the 1960s to semiconductor chips today. Taiwan has used export trade to secure a critical position on the international stage. Despite a land area of only 36,000 square kilometres, Taiwan is the world's 15th-largest trading entity, and holds an irreplaceable position in semiconductors, information and communications technology products, and other key sectors.
 
-> Taiwan's total trade volume reached $815.9 billion USD in 2023, with import-export dependency exceeding 100%, making it a typical trade-oriented economy. Trade with China (including Hong Kong) accounts for 35% of total trade, while trade with the US represents 15%, highlighting Taiwan's delicate position in the US-China triangular relationship.
+> Taiwan's 2023 total trade volume reached USD 815.9 billion, with import-export dependency exceeding 100% — a textbook trade-oriented economy. Of this, trade with China (including Hong Kong) accounted for 35% of total trade volume, while trade with the United States accounted for 15%, underscoring Taiwan's delicate position in the US-China triangular relationship.
 
-## Why This Matters
+## Why It Matters
 
-Taiwan's foreign trade is not just economic statistics—it's a survival strategy. On an island lacking natural resources, Taiwan must obtain essential goods and energy through trade while exporting technology-intensive products to create wealth. As global supply chains restructure due to geopolitical factors, Taiwan's strategic importance becomes even more pronounced—serving as both America's technology outpost in containing China and an indispensable technology supplier to China. Maintaining balance in this triangular relationship affects the livelihoods of 23 million people.
+Taiwan's foreign trade is not merely an economic number — it is a survival strategy. On an island lacking natural resources, Taiwan must use trade to obtain necessities and energy while exporting technology-intensive products to generate wealth. As global supply chains are restructured by geopolitics, Taiwan's strategic importance has only grown: it is simultaneously the technology vanguard in America's effort to contain China, and an irreplaceable technology supplier for China. How Taiwan maintains balance within this triangular relationship is a matter that directly concerns the livelihoods of 23 million people.
 
-## Formation of Export-Oriented Economy
+## The Formation of an Export-Oriented Economy
 
-### 1960-1980: Export Substitution Strategy
+### 1960–1980: Export Substitution Strategy
 
-**Limitations of Import Substitution:**
-In the 1950s, Taiwan adopted import substitution policies to protect domestic industry development. However, the narrow domestic market quickly encountered development bottlenecks.
+**The limits of import substitution:**
+In the 1950s, Taiwan adopted an import substitution policy to protect the development of domestic industries. But the domestic market was too small, and the approach quickly hit a development ceiling.
 
-**Export-Oriented Transformation:**
+**The shift to export orientation:**
 Starting in the 1960s, Taiwan promoted export-oriented industrialization:
 
-- Established Export Processing Zones to attract foreign investment
-- Provided tax incentives and cheap labor
-- Founded trade promotion institutions (China External Trade Development Council)
-- Currency devaluation enhanced export competitiveness
+- Established export processing zones to attract foreign direct investment
+- Offered tax incentives and inexpensive labor
+- Built trade promotion institutions (the China External Trade Development Council)
+- Devalued the currency to enhance export competitiveness
 
-**Three Export Pillars:**
+**Three pillars of exports:**
 
-1. **Textiles and Garments:** Utilizing abundant labor and technical foundations
-2. **Electronics Assembly:** Taking overseas OEM orders from European and American manufacturers
-3. **Plastic Toys:** Labor-intensive products with low technical barriers
+1. **Textiles and garments:** Leveraging abundant labor and an established skills base
+2. **Electronics assembly:** Taking on OEM orders from European and American companies
+3. **Plastic toys:** Labor-intensive products with low technology thresholds
 
-**Rapid Trade Growth:**
+**Rapid trade growth:**
 
-- 1960 export value: $164 million USD
-- 1980 export value: $19.9 billion USD, 121-fold growth in 20 years
-- Export dependency rose from 11% in 1960 to 52% in 1980
+- 1960 exports: USD 164 million
+- 1980 exports: USD 19.9 billion — a 121-fold increase over 20 years
+- Export dependency ratio rising from 11% in 1960 to 52% in 1980
 
-### 1980-2000: Industrial Upgrading and Transformation
+### 1980–2000: Industrial Upgrading and Transformation
 
-Facing low-cost competition from Korea and Southeast Asia, Taiwan was forced to upgrade to technology-intensive industries:
+Facing low-cost competition from South Korea and Southeast Asia, Taiwan was forced to upgrade into technology-intensive industries:
 
-**Rise of Technology Industries:**
+**The rise of the technology sector:**
 
-- Established Hsinchu Science Park in 1980
-- Introduced semiconductor and information industries
-- Cultivated domestic tech talent
-- Built complete industrial clusters
+- 1980: Hsinchu Science Park established
+- Introduction of semiconductor and information industries
+- Cultivation of domestic technology talent
+- Development of comprehensive industrial clusters
 
-**Contract Manufacturing Model:**
-Taiwan enterprises developed unique ODM/OEM models:
+**The OEM/ODM manufacturing model:**
+Taiwanese enterprises developed a distinctive OEM/ODM model:
 
-- **OEM (Original Equipment Manufacturing):** Pure manufacturing contracting
-- **ODM (Original Design Manufacturing):** Design + manufacturing integrated services
-- **Brand Manufacturing:** Customized products for international brands
+- **OEM (Original Equipment Manufacturing):** Pure manufacturing subcontracting
+- **ODM (Original Design Manufacturing):** Design plus manufacturing as a complete service
+- **Branded subcontracting:** Custom-built products for international brands
 
-**Export Structure Changes:**
+**Changes in export composition:**
 
-- Traditional products (textiles, toys) declined in proportion
-- ICT products became export mainstays
-- Technology intensity significantly increased
+- Share of traditional products (textiles, toys) declining
+- Information and electronics products becoming the dominant export category
+- Significant increase in technology intensity
 
-### 2000-Present: Global Supply Chain Integration
+### 2000–Present: Integration into Global Supply Chains
 
-**China Investment Wave:**
-Post-2000, Taiwan companies moved westward in large numbers, relocating manufacturing bases to China:
+**The China investment wave:**
+After 2000, Taiwanese businesses moved production bases to China en masse:
 
-- Utilizing China's low-cost labor and land
-- Serving European and American brand manufacturers nearby
-- Forming "Taiwan orders, China production" model
+- Leveraging China's low-cost labor and land
+- Serving European and American brand companies from nearby
+- Establishing the "Taiwan takes the order, China makes it" model
 - Rapid growth in cross-strait trade
 
-**Triangular Trade Model:**
-Taiwan, China, and Europe/America formed tight triangular trade relationships:
+**The triangular trade model:**
+Taiwan, China, and the West developed a close triangular trade relationship:
 
-1. **Taiwan:** Technology R&D, critical component production, trade hub
-2. **China:** Final assembly manufacturing, low-cost production base
-3. **Europe/America:** Brand marketing, end-market consumption
+1. **Taiwan:** Technology R&D, key component production, trade hub
+2. **China:** Final assembly and manufacturing, low-cost production base
+3. **Western countries:** Brand marketing, end-market consumption
 
-## Taiwan's Role in Global Supply Chain
+## Taiwan's Role in Global Supply Chains
 
 ### Semiconductor Kingdom
 
-**TSMC Effect:**
-Taiwan Semiconductor Manufacturing Company (TSMC) has become the global foundry leader with over 50% market share:
+**The TSMC Effect:**
+TSMC (Taiwan Semiconductor Manufacturing Company) has become the world's leading wafer foundry, with market share exceeding 50%:
 
-- Masters most advanced process technologies (3nm, 2nm)
-- Exclusive supplier to Apple, NVIDIA, AMD and other giants
-- Drives upstream and downstream supply chain development
+- Commands the most advanced process technologies (3nm, 2nm)
+- The sole supplier for Apple, NVIDIA, AMD, and other major companies
+- Drives the development of upstream and downstream supply chains
 
-**Complete Semiconductor Ecosystem:**
+**A Complete Semiconductor Ecosystem:**
 
-- **IC Design:** MediaTek, Realtek, Novatek
-- **Foundry:** TSMC, UMC, Vanguard International Semiconductor
-- **Assembly & Test:** ASE, SPIL, King Yuan Electronics
-- **Equipment & Materials:** Hermes Epitek, Zhongmei Crystal, GlobalWafers
+- **IC design:** MediaTek, Realtek, Novatek, and others
+- **Wafer foundry:** TSMC, UMC, Vanguard International Semiconductor
+- **Packaging and testing:** ASE Group, Siliconware, Powertech
+- **Equipment and materials:** Han Microelectronics, Sino-American Silicon, GlobalWafers
 
 **Strategic Importance:**
 Semiconductors are the foundation of modern technology. Taiwan controls globally:
 
-- 63% of foundry capacity
+- 63% of wafer foundry capacity
 - Over 90% of advanced process capacity
-- Over 50% of assembly and test capacity
+- Over 50% of packaging and testing capacity
 
-### ICT Industry Chain
+### The ICT Industry Chain
 
-**Notebook Manufacturing Kingdom:**
-Taiwan controls over 90% of global notebook computer capacity:
+**Notebook Computer Kingdom:**
+Taiwan commands over 90% of global notebook computer production capacity:
 
-- **Quanta:** Main contract manufacturer for Apple MacBooks
-- **Compal:** Lenovo and Dell notebook contractor
-- **Pegatron:** ASUS and Sony notebook manufacturer
+- **Quanta Computer:** Primary OEM manufacturer of Apple MacBooks
+- **Compal Electronics:** Lenovo and Dell notebook computers
+- **Pegatron:** Asus and Sony notebook manufacturing
 
 **Servers and Cloud Equipment:**
 
-- 70% of global servers designed and manufactured in Taiwan
-- Major supplier to cloud service providers (Google, Amazon, Facebook)
-- Important 5G infrastructure equipment manufacturers
+- 70% of the world's servers are designed and manufactured in Taiwan
+- Primary supplier for cloud service providers (Google, Amazon, Facebook/Meta)
+- Key manufacturer of 5G infrastructure equipment
 
 **Key Components:**
 
-- **Passive Components:** Yageo, Walsin Technology (global top three market share)
-- **Connectors:** Foxconn, ACES (Apple's main suppliers)
-- **Printed Circuit Boards:** Zhen Ding Technology, Unimicron (technology leaders)
+- **Passive components:** Yageo, Walsin Technology (among the top three globally)
+- **Connectors:** Foxconn, Cheng Uei Precision (primary Apple suppliers)
+- **Printed circuit boards:** Tripod Technology, Unimicron (technology leaders)
 
 ### Precision Machinery and Machine Tools
 
 Taiwan ranks fourth globally in machine tool exports, with world-leading precision machinery technology:
 
-- **Smartphone precision processing equipment:** Exclusive suppliers to TSMC and Apple supply chain
-- **Automotive components:** Hota Industrial, TYG
-- **Bicycle industry chain:** Giant, Merida and upstream/downstream manufacturers
+- **Precision processing equipment for smartphones:** A designated supplier for TSMC and Apple supply chains
+- **Automotive components:** Hota Industrial, Tong Yang Industry
+- **Bicycle industry chain:** Giant, Merida, and their upstream and downstream suppliers
 
 ## Cross-Strait Trade Relations
 
 ### ECFA and Cross-Strait Trade
 
-**2010 ECFA Signing:**
-The Economic Cooperation Framework Agreement (ECFA) brought substantial benefits:
+**2010: ECFA signed:**
+The Economic Cooperation Framework Agreement (ECFA) delivered concrete benefits:
 
-- Early harvest list reduced tariffs
-- Rapid growth in Taiwan exports to mainland
-- Service industry market opening
+- Early harvest list tariff reductions
+- Rapid growth in Taiwan's exports to the mainland
+- Opening of service sector markets
 - Investment protection agreements
 
-**Trade Data:**
+**Trade data:**
 
-- 2023 cross-strait trade volume: $284.7 billion USD
+- 2023 cross-strait trade volume: USD 284.7 billion
 - China is Taiwan's largest trading partner
-- Taiwan maintains ~$80 billion trade surplus with mainland
-- Major export items: semiconductors, panels, machinery
+- Taiwan's trade surplus with China: approximately USD 80 billion
+- Principal export items: semiconductors, display panels, machinery and equipment
 
 ### Investment and Industrial Transfer
 
-**Taiwan Businesses Going West:**
+**The path of Taiwanese businesses moving to China:**
 
-1. **1990s:** Traditional manufacturing (textiles, footwear) relocation
-2. **2000s:** Electronics and IT industries moved westward en masse
-3. **2010s:** Service industries began mainland market deployment
+1. **1990s:** Traditional manufacturing (textiles, footwear) transferred
+2. **2000s:** Electronics and information industry moved in force
+3. **2010s:** Service sector began establishing presence in the Chinese market
 
-**Industrial Division Model:**
+**Industrial division of labor model:**
 
-- **Taiwan:** R&D design, critical components, brand management
-- **China:** Manufacturing assembly, domestic market, supply chain integration
+- **Taiwan:** R&D and design, key components, brand management
+- **China:** Manufacturing and assembly, domestic market, supply chain integration
 
-**Risks and Challenges:**
+**Risks and challenges:**
 
-- Over-dependence on single market
-- Technology outflow and competitive threats
-- Increased geopolitical risks
+- Excessive dependence on a single market
+- Risk of technology outflow and competitive threat
+- Increasing geopolitical risk
 
-## US-China Trade War Impact
+## The Impact of the US-China Trade War
 
-### Technology War Impacts
+### The Technology War's Impact
 
-**Huawei Ban Effects:**
-US sanctions on Huawei and other Chinese companies affected Taiwan suppliers:
+**The Huawei ban effect:**
+U.S. sanctions on Huawei and other Chinese companies affected Taiwanese suppliers:
 
-- TSMC ceased foundry services for Huawei
-- MediaTek, Largan Precision lost important customers
-- Forced to choose sides dilemma
+- TSMC halted wafer foundry services for Huawei
+- MediaTek, Largan Precision, and others lost major customers
+- A forced "pick a side" dilemma
 
-**Semiconductor Strategic Competition:**
+**Semiconductor strategic competition:**
 
-- US CHIPS Act attracts TSMC to establish US fabs
-- China increases semiconductor R&D investment
-- Taiwan faces technology outflow risks
+- The U.S. CHIPS Act attracting TSMC to invest in U.S. fab construction
+- China increasing investment in self-sufficient semiconductor R&D
+- Taiwan facing the risk of technology outflows
 
 ### Supply Chain Restructuring Opportunities
 
-**Order Transfer Effects:**
-US-China trade war brings order transfer opportunities:
+**Order diversion effects:**
+The US-China trade war created order-diversion commercial opportunities:
 
-- US manufacturers reduce China procurement
-- Taiwan receives some transferred orders
-- Machinery, electronics benefit
+- American companies reducing procurement from China
+- Taiwan absorbing a portion of diverted orders
+- Machinery, equipment, and electronics products benefiting
 
 **New Southbound Policy:**
-Government promotes New Southbound Policy to reduce China dependence:
+Government promotion of the New Southbound Policy to reduce dependence on China:
 
-- Investment deployment in 10 ASEAN countries, 6 South Asian countries, Australia and New Zealand
+- Investment planning in the ten ASEAN nations, six South Asian countries, and Australia/New Zealand
 - Talent exchange and technology cooperation
 - Infrastructure and financial cooperation
 
-**Nearshoring Trends:**
-Multinational companies emphasize supply chain resilience:
+**Nearshoring trend:**
+Multinational enterprises prioritizing supply chain resilience:
 
-- Geographical diversification
-- Critical technology localization
-- Taiwan becomes trusted partner
+- Geographic diversification
+- Localization of key technology
+- Taiwan becoming a trusted partner
 
-## International Trade Agreement Participation
+## Participation in International Trade Agreements
 
-### FTA Deployment Challenges
+### FTA Challenges
 
-**Political Factor Limitations:**
-Due to One China Policy, Taiwan faces difficulties in regional economic integration:
+**Political constraints:**
+Due to the One China policy, Taiwan faces difficulties in participating in regional economic integration:
 
-- Cannot participate in RCEP (Regional Comprehensive Economic Partnership)
-- CPTPP (Comprehensive and Progressive Trans-Pacific Partnership) application progresses slowly
+- Unable to participate in RCEP (Regional Comprehensive Economic Partnership)
+- CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) application proceeding slowly
 - Bilateral FTA negotiations obstructed
 
-**Existing Trade Agreements:**
+**Existing trade agreements:**
 
-- Signed FTAs with Panama, Guatemala, Honduras, Nicaragua and 7 other countries
-- Restarted TIFA (Trade and Investment Framework Agreement) negotiations with US
-- Promotes BIA (Bilateral Investment Agreement) with EU
+- FTAs signed with Panama, Guatemala, Honduras, Nicaragua, and three other countries (7 total)
+- Resuming TIFA (Trade and Investment Framework Agreement) negotiations with the U.S.
+- Advancing BIA (Bilateral Investment Agreement) negotiations with the EU
 
-### Economic and Trade Strategy Breakthroughs
+### Economic and Trade Strategic Breakthroughs
 
-**Digital Trade Cooperation:**
+**Digital trade cooperation:**
 
-- Signed Technology Trade and Investment Cooperation Framework with US
-- Participates in DEPA (Digital Economy Partnership Agreement) negotiations
-- Promotes digital trade rule-making
+- Signing of the U.S.-Taiwan Initiative on 21st-Century Trade
+- Participation in DEPA (Digital Economy Partnership Agreement) negotiations
+- Promoting the development of digital trade rules
 
-**Supply Chain Cooperation:**
+**Supply chain cooperation:**
 
-- US-Taiwan 21st Century Trade Initiative
-- US-Taiwan Technology Trade and Investment Cooperation Framework
-- Establishes critical mineral supply chains with allies
+- U.S.-Taiwan 21st Century Trade Initiative
+- U.S.-Taiwan Technology Trade and Investment Cooperation Framework
+- Establishing critical mineral supply chains with allies
 
 ## Trade Structure Transformation
 
-### Export Product Evolution
+### Evolution of Export Products
 
 **1960s:** Textiles, garments, plastic products
-**1980s:** ICT products, machinery
-**2000s:** Semiconductors, panels, notebooks
+**1980s:** Information electronics products, machinery and equipment
+**2000s:** Semiconductors, display panels, notebook computers
 **2020s:** Advanced semiconductors, 5G equipment, electric vehicle components
 
-**Current Major Export Products (2023):**
+**Current principal export products (2023):**
 
-1. **Integrated Circuits** (36.7%)
-2. **Machinery** (9.8%)
-3. **Petrochemicals** (7.2%)
-4. **Optical Instruments** (5.1%)
-5. **Basic Metals** (4.9%)
+1. **Integrated circuits** (36.7%)
+2. **Machinery and equipment** (9.8%)
+3. **Plastics and chemicals** (7.2%)
+4. **Optical instruments** (5.1%)
+5. **Base metals** (4.9%)
 
-### Trading Partner Changes
+### Changes in Trade Partners
 
-**Export Market Distribution (2023):**
+**Export market distribution (2023):**
 
 1. **China** (35.0%)
 2. **United States** (14.8%)
@@ -285,70 +290,72 @@ Due to One China Policy, Taiwan faces difficulties in regional economic integrat
 4. **ASEAN** (8.2%)
 5. **Japan** (6.7%)
 
-**Diversification Trends:**
+**Diversification trend:**
 
-- China export share declining annually (2021 peak 42% → 2023 35%)
-- US and ASEAN export shares increasing
-- Emerging markets (India, Mexico) growing rapidly
+- Export share to China declining year-on-year (from 2021 peak of 42% → 35% in 2023)
+- Export share to the U.S. and ASEAN increasing
+- Rapid growth in emerging markets (India, Mexico)
 
 ## Future Challenges and Opportunities
 
 ### Geopolitical Risks
 
-**US-China Technology Confrontation:**
+**US-China technology rivalry:**
 
-- Semiconductor technology control escalation
-- Supply chain camp formation risks
-- Technical standard divergence
+- Escalating semiconductor technology controls
+- Supply chain bloc-formation risk
+- Technology standards divergence
 
-**Taiwan Strait Situation Impact:**
+**Impact of cross-strait tensions:**
 
-- Elevated investor risk assessment
-- International enterprise diversification deployment
-- Rising insurance and transportation costs
+- Rising risk assessments by investors
+- International enterprises diversifying operations
+- Increasing insurance and transportation costs
 
-### Industry Transformation Opportunities
+### Industrial Transformation Opportunities
 
-**Net Zero Carbon Trends:**
+**Net-zero carbon emission trends:**
 
-- Leading global solar cell market share
-- Offshore wind supply chain establishment
-- Electric vehicle component technology advantages
+- Leading global market share in solar cells
+- Building offshore wind power supply chains
+- Technology advantages in electric vehicle components
 
-**Digital Transformation Demand:**
+**Digital transformation demand:**
 
 - 5G infrastructure construction
 - IoT and edge computing
-- AI chip design
+- Artificial intelligence chip design
 
-**Biotechnology and Medical Industry:**
+**Biomedical industry:**
 
-- COVID-19 vaccine development capabilities
-- Precision medical equipment manufacturing
+- COVID-19 vaccine R&D capability
+- Precision medical device manufacturing
 - Digital health solutions
 
-### Resilient Supply Chain Construction
+### Building Resilient Supply Chains
 
-**Diversified Deployment:**
+**Diversification strategy:**
 
-- Avoid over-dependence on single markets
-- Establish multiple supply sources
-- Enhance supply chain visibility
+- Avoiding excessive dependence on a single market
+- Establishing multiple sources of supply
+- Improving supply chain visibility
 
-**Localized Production:**
+**Localized production:**
 
-- Retain critical technologies and capacity
-- Strategic material safety inventory
-- Industrial chain autonomous control
+- Retaining key technology and production capacity domestically
+- Strategic stockpiles of critical materials
+- Greater autonomous control of the industrial chain
 
-## New Chapter in Trade-Based Nation Building
+## A New Chapter for a Trade-Dependent Nation
 
-Reviewing Taiwan's foreign trade development history, from export substitution in the 1960s to today's critical role in global supply chains, Taiwan has always sought survival and development paths amid changing international environments. Facing the new Cold War pattern of US-China confrontation, Taiwan must actively deploy future industries while maintaining existing advantages.
+Looking back over Taiwan's foreign trade development, from the export substitution strategies of the 1960s to today's critical role in the global supply chain, Taiwan has always sought ways to survive and develop within a shifting international environment. Facing the new cold war dynamic of the US-China rivalry, Taiwan must actively position itself in industries of the future while preserving existing advantages.
 
-> "Taiwan's greatest resource is talent and technology." In the era of global supply chain restructuring, Taiwan still possesses irreplaceable strategic value through technological innovation, manufacturing quality, and geographical position.
+> "Taiwan's greatest resource is its talent and technology." In an era of global supply chain restructuring, Taiwan — through technological innovation, manufacturing quality, and geographic position — continues to hold irreplaceable strategic value.
 
-From semiconductor "sacred mountains defending the nation" to green technology newcomers, Taiwan is writing a new chapter in trade-based nation building. In this era full of uncertainty, only through continuous innovation and diversified deployment can Taiwan maintain its leading position in fierce global competition.
+From the semiconductor "silicon shield" to the emerging green energy sector, Taiwan is writing a new chapter in the story of a trade-dependent nation. In this era of profound uncertainty, only through sustained innovation and diversified positioning can Taiwan maintain its leading edge in intense global competition.
 
 ## Further Reading
 
-- [taiwan-smes-and-hidden-champions](/economy/taiwan-smes-and-hidden-champions)
+- Taiwan's SMEs and Hidden Champions (zh only: 台灣中小企業與隱形冠軍)
+- Taiwan Agriculture and Rural Revitalization (zh only: 台灣農業與農村再生)
+- Taiwan Startup Ecosystem Overview (zh only: 新創生態系)

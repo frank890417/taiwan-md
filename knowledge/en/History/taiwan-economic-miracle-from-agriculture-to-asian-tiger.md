@@ -17,6 +17,10 @@ readingTime: 20
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'History/台灣經濟奇蹟.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:59051517307ea5dd'
+translatedAt: '2026-05-01T14:11:02+08:00'
+subcategory: '經濟發展史'
 ---
 
 # Taiwan's Economic Miracle: From Agricultural Society to Asian Tiger
@@ -209,7 +213,7 @@ Taiwan's land reform was praised by the UN as a successful model of "peaceful la
 - Ministry of Economic Affairs technocrats leading development
 - Council for Economic Planning and Development coordinating planning
 - Professional capability and policy continuity
-- Leadership by technocrats like [[K.T. Li]] and [[Sun Yun-suan]]
+- Leadership by technocrats like K.T. Li (李國鼎) and Sun Yun-suan (孫運璿)
 
 **Flexible Policy Adjustment:**
 

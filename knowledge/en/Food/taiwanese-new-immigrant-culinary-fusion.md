@@ -4,19 +4,26 @@ description: "When Thai sour-spicy meets Taiwanese sweet-salty, when Vietnamese 
 date: 2026-03-20
 tags:
   [
-    new immigrant cuisine,
-    Southeast Asian cuisine,
-    cultural fusion,
-    diverse dining,
-    immigrant culture,
+    'new immigrant cuisine',
+    'Southeast Asian cuisine',
+    'cultural fusion',
+    'diverse dining',
+    'immigrant culture',
   ]
+subcategory: '族群飲食'
 author: 'Taiwan.md Editorial Team'
 readingTime: 10
 featured: true
 category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Pho%2C_popular_Vietnamese_noodle_soup.jpg/960px-Pho%2C_popular_Vietnamese_noodle_soup.jpg'
+imageAlt: 'Vietnamese pho'
+imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣新住民美食融合.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:4cea918b3c765295'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Taiwanese New Immigrant Culinary Fusion
@@ -35,13 +42,13 @@ This small adjustment symbolizes the core characteristic of Taiwan's new immigra
 
 In the 1990s, Taiwan began experiencing numerous transnational marriages, with women from Vietnam, Indonesia, Thailand, Philippines, and other countries gradually arriving in Taiwan. Initially, they mainly cooked hometown dishes at home for their families, with these foreign flavors circulating only within small circles.
 
-During this period, new immigrant cuisine maintained relatively pure original forms. Vietnamese [[pho]] (rice noodles), Thai [[Tom Yam]] (sour-spicy soup), Indonesian [[Rendang]] (rendang curry) all tried to maintain their hometown's original flavors. However, due to ingredient sourcing difficulties, many new immigrants began learning to substitute Taiwan's local ingredients for hometown spices and vegetables.
+During this period, new immigrant cuisine maintained relatively pure original forms. Vietnamese pho (河粉, rice noodles), Thai Tom Yam (酸辣湯, sour-spicy soup), Indonesian Rendang (仁當咖哩, rendang curry) all tried to maintain their hometown's original flavors. However, due to ingredient sourcing difficulties, many new immigrants began learning to substitute Taiwan's local ingredients for hometown spices and vegetables.
 
 ### 2000-2010: Commercial Development Emergence
 
 Entering the 21st century, as new immigrant populations increased and Taiwan society's acceptance of multicultural diversity improved, new immigrant cuisine began moving from homes into commercial markets.
 
-Taipei's [[Huaxi Street]] and [[Nanjichang Night Market]] began featuring Vietnamese pho stalls; Zhongli's [[Zhongzhen New Village]], which gathered large numbers of ethnic Chinese immigrants from Thailand and Myanmar, formed a concentrated area of Yunnan Thai-Myanmar flavors; the [[Taoyuan Train Station area]] became a gathering place for Indonesian cuisine.
+Taipei's Huaxi Street (華西街) and Nanjichang Night Market (南機場夜市) began featuring Vietnamese pho stalls; Zhongli's Zhongzhen New Village (忠貞新村), which gathered large numbers of ethnic Chinese immigrants from Thailand and Myanmar, formed a concentrated area of Yunnan Thai-Myanmar flavors; the Taoyuan Train Station area (火車站周邊) became a gathering place for Indonesian cuisine.
 
 During this period, new immigrant cuisine began showing "localization" trends. To adapt to Taiwanese taste preferences, many dishes adjusted their spiciness, sourness, and sweetness levels. Thai cuisine reduced fish sauce usage and increased soy sauce proportions; Vietnamese cuisine decreased cilantro amounts and added Chinese chives familiar to Taiwanese people.
 
@@ -49,7 +56,7 @@ During this period, new immigrant cuisine began showing "localization" trends. T
 
 The 2010s brought rapid development for new immigrant cuisine. Taiwan society's interest in Southeast Asian culture grew increasingly strong, and with internet media promotion, new immigrant cuisine entered mainstream consumer markets.
 
-This period saw the emergence of many famous new immigrant restaurant brands. [[Pho River]] turned Vietnamese pho into chain operations; [[WaCow Thai Restaurant]], although founded by Taiwanese, employed numerous Thai chefs to promote authentic Thai cuisine; [[Coconut Paradise Southeast Asian Cuisine]] focused on Malaysian and Singaporean cuisines.
+This period saw the emergence of many famous new immigrant restaurant brands. Viet River Pho (越河Pho) turned Vietnamese pho into chain operations; WaCow Thai Cuisine (瓦城泰菜), although founded by Taiwanese, employed numerous Thai chefs to promote authentic Thai cuisine; Cocopalm Southeast Asian Cuisine (椰饗德南洋料理) focused on Malaysian and Singaporean cuisines.
 
 Simultaneously, new immigrant cuisine began showing refinement trends. Some new immigrant chefs started emphasizing ingredient quality and presentation aesthetics, elevating traditional street snacks to refined restaurant dishes.
 

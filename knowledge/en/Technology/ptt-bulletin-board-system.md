@@ -18,19 +18,22 @@ category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Technology/PTT批踢踢.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:f28d98485199bc24'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # PTT Bulletin Board System: Taiwan's Most Stubborn Public Square
 
 ## 30-Second Overview
 
-In 1995, Du Yijin (杜奕瑾), a National Taiwan University computer science student, set up a BBS in his dormitory using a 486 computer, naming it "PTT Industrial Workshop." Thirty years later, this forum that stubbornly maintains its telnet text-only interface has accumulated over 1.5 million registered accounts, with peak concurrent users exceeding 150,000. It gave birth to "netizen" (xiangmin) culture, transformed Taiwan's media ecosystem, played a crucial role in the Sunflower Student Movement—and now faces the reality of an aging user base as Dcard and Threads rise.
+In 1995, [Ethan Tu](/en/People/ethan-tu/) (杜奕瑾), a National Taiwan University computer science student, set up a BBS in his dormitory using a 486 computer, naming it "PTT Industrial Workshop." Thirty years later, this forum that stubbornly maintains its telnet text-only interface has accumulated over 1.5 million registered accounts, with peak concurrent users exceeding 150,000. It gave birth to "netizen" (xiangmin) culture, transformed Taiwan's media ecosystem, played a crucial role in the Sunflower Student Movement—and now faces the reality of an aging user base as Dcard and Threads rise.
 
 ---
 
 ## Starting from a 486 Computer
 
-In September 1995, Du Yijin, a second-year computer science student at National Taiwan University, used a 486 computer running Slackware Linux in the Male Dormitory 8 to establish PTT. University campuses in Taiwan were filled with BBS sites—NSYSU BBS at Sun Yat-Sen University, BS2 at National Chiao Tung University—but most were managed by computer centers and subjected to certain content controls.
+In September 1995, [Ethan Tu](/en/People/ethan-tu/), a second-year computer science student at National Taiwan University, used a 486 computer running Slackware Linux in the Male Dormitory 8 to establish PTT. University campuses in Taiwan were filled with BBS sites—NSYSU BBS at Sun Yat-Sen University, BS2 at National Chiao Tung University—but most were managed by computer centers and subjected to certain content controls.
 
 Du made a decision that seemed unremarkable at the time but proved transformational: PTT would be student-run, operate non-profit, and reject commercial advertising. This principle has lasted thirty years.
 
@@ -106,7 +109,7 @@ Despite declining activity, PTT maintains an irreplaceable position. The Stock b
 
 What makes PTT truly irreplaceable is its thirty-year accumulated discussion database. Want to check first-hand civilian reactions to a social event five years ago? Want to see genuine product reviews from ten years back? PTT's historical articles form one of Taiwan's most complete records of internet collective memory.
 
-Du Yijin left Microsoft in 2017 to return to Taiwan and establish [Taiwan AI Labs](https://ailabs.tw/), but PTT continues operating through National Taiwan University student volunteers, remaining non-profit and advertisement-free. In an era where all platforms chase traffic and monetization, a thirty-year-old BBS maintaining these principles is noteworthy in itself.
+[Ethan Tu](/en/People/ethan-tu/) left Microsoft in 2017 to return to Taiwan and establish [Taiwan AI Labs](https://ailabs.tw/), but PTT continues operating through National Taiwan University student volunteers, remaining non-profit and advertisement-free. In an era where all platforms chase traffic and monetization, a thirty-year-old BBS maintaining these principles is noteworthy in itself.
 
 ---
 
