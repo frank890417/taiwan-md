@@ -24,9 +24,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "c5ef5adf",
@@ -144,8 +144,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -221,9 +221,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 2,
     "commitHash": "21335999",
@@ -259,8 +259,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -337,8 +337,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -406,7 +406,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -510,9 +510,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "21335999",
@@ -547,8 +547,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -625,9 +625,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "03bf4282",
@@ -656,9 +656,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "21335999",
@@ -698,7 +698,7 @@
       "ja": true,
       "ko": false,
       "es": false,
-      "fr": true
+      "fr": false
     },
     "revision": 2,
     "commitHash": "04381328",
@@ -798,8 +798,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "376ba20d",
@@ -830,7 +830,7 @@
       "ja": true,
       "ko": false,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "291fbb3f",
@@ -867,7 +867,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -973,9 +973,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "dc87c2a6",
@@ -1004,9 +1004,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 3,
     "commitHash": "dc87c2a6",
@@ -1042,7 +1042,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -1121,8 +1121,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -1158,9 +1158,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "abf94a40",
@@ -1198,9 +1198,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "abf94a40",
@@ -1344,9 +1344,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "dc87c2a6",
@@ -1375,7 +1375,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -1413,9 +1413,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "dc87c2a6",
@@ -1451,8 +1451,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 3,
@@ -1483,7 +1483,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 14,
@@ -1623,8 +1623,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -1661,9 +1661,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "c5197b41",
@@ -1700,8 +1700,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "64abf6f8",
@@ -1739,9 +1739,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "64abf6f8",
@@ -1777,9 +1777,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "6fee3ae6",
@@ -1814,9 +1814,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "168debc6",
@@ -1852,9 +1852,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "56fa1bf1",
@@ -1883,9 +1883,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "bb7a2ab0",
@@ -1915,7 +1915,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -1992,9 +1992,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "96971399",
@@ -2031,7 +2031,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 10,
     "commitHash": "1d09f8fd",
@@ -2068,7 +2068,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -2131,7 +2131,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 11,
@@ -2163,7 +2163,7 @@
       "ja": true,
       "ko": false,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 1,
     "commitHash": "5030f5d6",
@@ -2192,9 +2192,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "1213a0f4",
@@ -2223,9 +2223,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 2,
     "commitHash": "64abf6f8",
@@ -2262,9 +2262,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "64abf6f8",
@@ -2300,9 +2300,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "1213a0f4",
@@ -2338,8 +2338,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -2414,9 +2414,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "64abf6f8",
@@ -2453,7 +2453,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false
     },
@@ -2490,7 +2490,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -2527,9 +2527,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "eaef8b77",
@@ -2564,9 +2564,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "e0cf5a69",
@@ -2601,9 +2601,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "745b6393",
@@ -2642,7 +2642,7 @@
       "ja": true,
       "ko": false,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "a6b467e5",
@@ -2677,9 +2677,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "a4cdf426",
@@ -2714,7 +2714,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -2832,9 +2832,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "8413cde6",
@@ -2908,9 +2908,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "1e9b2ffb",
@@ -3008,9 +3008,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "83b8a92b",
@@ -3039,9 +3039,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "dac7394c",
@@ -3198,8 +3198,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 1,
@@ -3267,9 +3267,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "b50810dc",
@@ -3345,8 +3345,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "64b5ebd9",
@@ -3382,7 +3382,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -3465,7 +3465,7 @@
       "ja": true,
       "ko": false,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 1,
     "commitHash": "52127981",
@@ -3501,9 +3501,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "6ae7e431",
@@ -3543,8 +3543,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "6ae7e431",
@@ -3644,7 +3644,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -3683,9 +3683,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "2adb8222",
@@ -3715,7 +3715,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 30,
@@ -3745,7 +3745,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -3777,7 +3777,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -3844,9 +3844,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "37ef8f67",
@@ -3885,7 +3885,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -3988,7 +3988,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -4108,8 +4108,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 4,
@@ -4146,9 +4146,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "37ef8f67",
@@ -4228,9 +4228,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 4,
     "commitHash": "6097f831",
@@ -4308,7 +4308,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false
     },
@@ -4349,7 +4349,7 @@
       "ja": false,
       "ko": false,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 3,
     "commitHash": "37ef8f67",
@@ -4379,8 +4379,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "1f1822b8",
@@ -4418,7 +4418,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -4498,9 +4498,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "8e957e23",
@@ -4536,9 +4536,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "2bca2bf8",
@@ -4575,8 +4575,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -4613,9 +4613,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "e6b0d7f8",
@@ -4687,7 +4687,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": true,
+      "es": false,
       "fr": true
     },
     "revision": 15,
@@ -4794,7 +4794,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -4831,9 +4831,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "9aa15c9d",
@@ -4869,7 +4869,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -4906,9 +4906,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "34d81941",
@@ -4944,8 +4944,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -4975,7 +4975,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -5122,7 +5122,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -5153,7 +5153,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -5183,9 +5183,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 3,
     "commitHash": "0ed55e20",
@@ -5261,7 +5261,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -5292,7 +5292,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -5329,7 +5329,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -5366,7 +5366,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -5435,9 +5435,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "9ceeaa34",
@@ -5497,8 +5497,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -5536,9 +5536,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "292ec5fe",
@@ -5573,9 +5573,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "97c89be8",
@@ -5610,9 +5610,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "97c89be8",
@@ -5648,7 +5648,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -5709,9 +5709,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "9ceeaa34",
@@ -5742,7 +5742,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "1ea8ad2d",
@@ -5803,7 +5803,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 3,
@@ -5870,7 +5870,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -5968,9 +5968,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 3,
     "commitHash": "4d3d206a",
@@ -5999,9 +5999,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "0ecfa053",
@@ -6067,8 +6067,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -6105,8 +6105,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -6284,7 +6284,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": true,
+      "es": false,
       "fr": true
     },
     "revision": 10,
@@ -6351,9 +6351,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "fceb6784",
@@ -6383,8 +6383,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "7bcc3ce4",
@@ -6415,7 +6415,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "fcfe3aef",
@@ -6445,7 +6445,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -6506,7 +6506,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -6545,7 +6545,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -6616,7 +6616,7 @@
       "ja": true,
       "ko": false,
       "es": true,
-      "fr": true
+      "fr": false
     },
     "revision": 2,
     "commitHash": "0d8e06fc",
@@ -6645,9 +6645,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": true
+      "fr": false
     },
     "revision": 2,
     "commitHash": "0d8e06fc",
@@ -6685,7 +6685,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": false
     },
@@ -6724,9 +6724,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "8d1b30aa",
@@ -6871,7 +6871,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -6901,9 +6901,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 7,
     "commitHash": "9e6e29f2",
@@ -6938,9 +6938,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "2d6af4d2",
@@ -6976,7 +6976,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -7012,8 +7012,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -7048,9 +7048,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "6fb6ec00",
@@ -7123,9 +7123,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "4351767d",
@@ -7154,7 +7154,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -7190,9 +7190,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "86d067a0",
@@ -7227,9 +7227,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "fab473cc",
@@ -7259,8 +7259,8 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "fab473cc",
@@ -7325,9 +7325,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "4caeb669",
@@ -7362,8 +7362,8 @@
       "en": true,
       "ja": false,
       "ko": false,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "4caeb669",
@@ -7429,9 +7429,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "f94d76ee",
@@ -7467,7 +7467,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -7503,9 +7503,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "f94d76ee",
@@ -7572,7 +7572,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -7647,7 +7647,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -7677,9 +7677,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 13,
     "commitHash": "3289f32e",
@@ -7716,7 +7716,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -7751,9 +7751,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "1309f1dc",
@@ -7830,7 +7830,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": true,
+      "es": false,
       "fr": true
     },
     "revision": 14,
@@ -7871,7 +7871,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -7933,7 +7933,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -8077,7 +8077,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -8157,7 +8157,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -8219,7 +8219,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -8512,7 +8512,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -8552,7 +8552,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -8775,7 +8775,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -8813,7 +8813,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 13,
@@ -8882,7 +8882,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -8921,7 +8921,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -9090,7 +9090,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -9271,7 +9271,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -9309,7 +9309,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -9416,7 +9416,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -9456,7 +9456,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -9495,7 +9495,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -9534,7 +9534,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -9565,7 +9565,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -9602,7 +9602,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -9751,7 +9751,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -9868,7 +9868,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -9907,7 +9907,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -10007,7 +10007,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -10038,7 +10038,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -10155,7 +10155,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -10195,7 +10195,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -10234,7 +10234,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -10272,7 +10272,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -10590,7 +10590,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -10629,7 +10629,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -10739,7 +10739,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -10777,7 +10777,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -10814,7 +10814,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -10852,7 +10852,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -10891,7 +10891,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": true,
+      "es": false,
       "fr": true
     },
     "revision": 15,
@@ -11097,7 +11097,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -11134,7 +11134,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -11165,7 +11165,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -11315,8 +11315,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 9,
     "commitHash": "c8a997a5",
@@ -11383,7 +11383,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -11497,7 +11497,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -11646,7 +11646,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -11720,7 +11720,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -11751,7 +11751,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 14,
@@ -11789,7 +11789,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -11826,7 +11826,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -11975,7 +11975,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -12126,7 +12126,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 14,
@@ -12239,7 +12239,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -12277,7 +12277,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -12315,7 +12315,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -12571,7 +12571,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -12646,7 +12646,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -12683,7 +12683,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -12721,7 +12721,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -12799,7 +12799,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -12954,7 +12954,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -13068,7 +13068,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -13105,7 +13105,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -13181,7 +13181,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -13220,7 +13220,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -13258,7 +13258,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -13295,7 +13295,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -13332,7 +13332,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -13363,7 +13363,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -13402,7 +13402,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -13469,7 +13469,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -13585,7 +13585,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -13660,7 +13660,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -13698,7 +13698,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -13734,10 +13734,10 @@
       "國族認同"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -13806,7 +13806,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -13880,7 +13880,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -13917,7 +13917,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -13954,7 +13954,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -14097,7 +14097,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -14166,7 +14166,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -14279,7 +14279,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -14347,7 +14347,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -14378,7 +14378,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 13,
@@ -14576,7 +14576,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -14675,7 +14675,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -14714,7 +14714,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -14751,7 +14751,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -14789,7 +14789,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -14863,7 +14863,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -14938,7 +14938,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -14969,7 +14969,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -15079,7 +15079,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -15117,7 +15117,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -15272,7 +15272,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -15423,7 +15423,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -15462,7 +15462,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -15499,7 +15499,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -15536,7 +15536,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -15573,7 +15573,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -15610,7 +15610,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -15647,7 +15647,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -15722,7 +15722,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -15836,7 +15836,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -15874,7 +15874,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -15914,7 +15914,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -15954,7 +15954,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -15993,7 +15993,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -16030,7 +16030,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -16067,7 +16067,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -16103,7 +16103,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -16141,7 +16141,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -16177,7 +16177,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -16214,7 +16214,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -16252,7 +16252,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16289,7 +16289,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16326,7 +16326,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16364,7 +16364,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -16438,7 +16438,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -16515,7 +16515,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -16636,7 +16636,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -16711,7 +16711,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16749,7 +16749,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -16860,7 +16860,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16897,7 +16897,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -16935,7 +16935,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -16972,7 +16972,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -17046,7 +17046,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -17082,7 +17082,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -17118,7 +17118,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -17229,7 +17229,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -17265,7 +17265,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -17404,7 +17404,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -17480,7 +17480,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -17585,7 +17585,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -17690,7 +17690,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -17721,7 +17721,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -17797,7 +17797,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -17835,7 +17835,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -18008,7 +18008,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -18039,7 +18039,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -18077,7 +18077,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18115,7 +18115,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18153,7 +18153,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18189,7 +18189,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18228,7 +18228,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -18266,7 +18266,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -18304,7 +18304,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18340,7 +18340,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18379,7 +18379,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18418,7 +18418,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -18493,7 +18493,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18530,7 +18530,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18567,7 +18567,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18604,7 +18604,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -18641,7 +18641,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18680,7 +18680,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18717,7 +18717,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18794,7 +18794,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18833,7 +18833,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18871,7 +18871,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18907,7 +18907,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -18944,7 +18944,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -18981,7 +18981,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19018,7 +19018,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19056,7 +19056,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19093,7 +19093,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19129,7 +19129,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -19165,7 +19165,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19204,7 +19204,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19241,7 +19241,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19277,7 +19277,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19313,7 +19313,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19349,7 +19349,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19386,7 +19386,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19423,7 +19423,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19459,7 +19459,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19496,7 +19496,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -19533,7 +19533,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19570,7 +19570,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19607,7 +19607,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19644,7 +19644,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19682,7 +19682,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19719,7 +19719,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -19755,7 +19755,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -19830,7 +19830,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19867,7 +19867,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19904,7 +19904,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19942,7 +19942,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -19979,7 +19979,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20017,7 +20017,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20055,7 +20055,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20094,7 +20094,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20132,7 +20132,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20171,7 +20171,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -20207,7 +20207,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20246,7 +20246,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -20285,7 +20285,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -20324,7 +20324,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -20361,7 +20361,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -20398,7 +20398,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 13,
@@ -20429,7 +20429,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -20575,7 +20575,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -20652,7 +20652,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -20683,7 +20683,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -20722,7 +20722,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -20798,7 +20798,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -20872,7 +20872,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -20939,8 +20939,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -21054,7 +21054,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -21092,7 +21092,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -21165,7 +21165,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -21201,7 +21201,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 5,
@@ -21385,7 +21385,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -21422,7 +21422,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21459,7 +21459,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -21497,7 +21497,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -21573,7 +21573,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21647,7 +21647,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21684,7 +21684,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -21722,7 +21722,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21759,7 +21759,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21795,7 +21795,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21832,7 +21832,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21869,7 +21869,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21944,7 +21944,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -21983,7 +21983,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -22021,7 +22021,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -22097,7 +22097,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 13,
@@ -22171,7 +22171,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -22211,7 +22211,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -22249,7 +22249,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -22286,7 +22286,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -22323,7 +22323,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -22360,7 +22360,7 @@
       "en": true,
       "ja": false,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -22428,7 +22428,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -22467,7 +22467,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -22506,8 +22506,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22546,7 +22546,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22584,7 +22584,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 1,
@@ -22623,8 +22623,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22662,8 +22662,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22701,8 +22701,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22740,8 +22740,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22779,8 +22779,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22818,8 +22818,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22857,8 +22857,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22896,8 +22896,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 1,
     "commitHash": "",
@@ -22933,7 +22933,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -22972,7 +22972,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -23012,9 +23012,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "",
@@ -23129,9 +23129,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "",
@@ -23169,7 +23169,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -23209,9 +23209,9 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
-      "fr": false
+      "ko": true,
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "",
@@ -23321,7 +23321,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,

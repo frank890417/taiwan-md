@@ -1,83 +1,89 @@
 ---
-created: 2026-03-17
-tags: [Historia, Dominio Japonés, Modernización, Movimiento de Imperialización]
-title: Era Colonial Japonesa
-description: De 1895-1945, Japón gobernó Taiwán durante 50 años, trayendo modernización integral y gestión institucional mientras implementaba políticas de asimilación, influyendo profundamente en el desarrollo social de Taiwán
+title: 'Período colonial japonés'
+description: 'Entre 1895 y 1945, Japón gobernó Taiwán durante 50 años, impulsando una modernización integral y una gestión institucionalizada, al tiempo que implementó políticas de asimilación que influyeron profundamente en el desarrollo de la sociedad taiwanesa.'
 date: 2026-03-17
 author: Taiwan.md
+subcategory: '殖民與帝國'
+tags: ['History', '日本統治', '現代化', '皇民化運動']
 readingTime: 12
-featured: false
-translatedFrom: 'History/日治時期.md'
-sourceCommitSha: '9a2361b6'
-sourceContentHash: 'sha256:fb4775ce7ce7538c'
-translatedAt: '2026-04-14T12:25:09+08:00'
+lastVerified: 2026-03-19
+lastHumanReview: false
+featured: true
+translatedFrom: History/日治時期.md
+sourceCommitSha: 3aba2ea3
+sourceContentHash: sha256:fb4775ce7ce7538c
+translatedAt: 2026-05-01T22:19:10+08:00
 ---
 
-# Era Colonial Japonesa
+# Período colonial japonés
 
-> **Resumen de 30 Segundos:** Después del Tratado de Shimonoseki en 1895, Japón gobernó Taiwán durante 50 años a través del sistema de Gobernador General, implementando una modernización integral que incluía infraestructura, educación y desarrollo industrial. Simultáneamente, promovieron el Movimiento de Imperialización (皇民化運動) para asimilar al pueblo taiwanés, durante el cual ocurrieron varios movimientos de resistencia taiwaneses hasta la rendición de Japón al final de la Segunda Guerra Mundial en 1945.
+> **Resumen en 30 segundos:** Tras el Tratado de Shimonoseki de 1895, Japón gobernó Taiwán durante 50 años. A través del sistema de Gobierno General, implementó una modernización integral que incluyó infraestructura, sistema educativo, desarrollo industrial y reformas de gran alcance. Al mismo tiempo, promovió el movimiento de imperialización (_kōminka_) con el objetivo de asimilar a los taiwaneses. Durante este período, los taiwaneses lanzaron múltiples movimientos de resistencia antijaponesa, hasta la rendición de Japón al finalizar la Segunda Guerra Mundial en 1945.
 
-## Por Qué Importa
+## Por qué es importante
 
-El período colonial japonés fue una etapa crucial en la modernización de Taiwán, estableciendo la base de la infraestructura estatal moderna y los marcos institucionales. La introducción por parte de Japón de la educación moderna, la atención médica, el transporte, la industria y los conceptos de estado de derecho y eficiencia administrativa influyó profundamente en el desarrollo social y cultural de Taiwán. Mientras tanto, la experiencia del dominio colonial y los movimientos de resistencia antijaponeses también moldearon la conciencia política taiwanesa y la identidad local.
+El período colonial japonés fue una etapa clave en la modernización de Taiwán, sentando las bases de infraestructura y el marco institucional del Estado moderno. Japón introdujo sistemas modernos de educación, sanidad, transporte e industria, así como conceptos de Estado de derecho y eficiencia administrativa que influyeron profundamente en el desarrollo sociocultural de Taiwán. Al mismo tiempo, la experiencia del dominio colonial y los movimientos de resistencia antijaponesa también moldearon la conciencia política y la identidad local de los taiwaneses.
 
-## Resumen General
+## Resumen general
 
-El dominio japonés en Taiwán se puede dividir en tres fases: **Período de Administración Militar** (1895-1915) - supresión de la resistencia armada y establecimiento del sistema de Gobernador General; **Política de Extensión del Territorio** (1915-1937) - promoción de políticas de asimilación y modernización a gran escala; **Período de Imperialización** (1937-1945) - japonización forzada en tiempo de guerra y movilización de Taiwán para apoyar la Guerra del Gran Asia Oriental. Durante este período, Taiwán se transformó de una sociedad agrícola a una sociedad moderna, al tiempo que soportaba la opresión política y el impacto cultural del dominio colonial.
+El dominio japonés sobre Taiwán puede dividirse en tres fases: el **período militar** (1895-1915), en el que se sofocó la resistencia armada antijaponesa y se estableció el sistema de Gobierno General; la **política de extensión del archipiélago** (_naichi enchō shugi_, 1915-1937), que promovió políticas de asimilación y una modernización a gran escala; y el **período de imperialización** (_kōminka_, 1937-1945), bajo un régimen de guerra que impuso la japonización forzada y movilizó a Taiwán en apoyo de la Gran Guerra de Asia Oriental. Durante este período, Taiwán pasó de ser una sociedad agrícola a una sociedad moderna, pero también sufrió la opresión política y el choque cultural del dominio colonial.
 
-## Datos Clave
+## Datos clave
 
-- **Sistema de Gobernador General**: Oficina del Gobernador General de Taiwán establecida en Taipéi, con el Gobernador General ejerciendo poderes administrativos, legislativos y militares combinados
-- **Proyectos de Modernización**: Construcción de infraestructura importante incluyendo el ferrocarril longitudinal, puertos, embalses y fábricas de azúcar
-- **Expansión Educativa**: Estableció un sistema educativo moderno, aumentando la tasa de alfabetización de menos del 5% a más del 70%
-- **Movimientos de Resistencia**: Incidente de Wushe (霧社事件), Asociación Cultural de Taiwán y otras resistencias armadas y políticas
-- **Movimiento de Imperialización**: Desde 1937, promovió la adopción de nombres japoneses, adoración en santuarios sintoístas y uso obligatorio del idioma japonés
+- **Sistema de Gobierno General:** Se estableció el Gobierno General de Taiwán en Taipéi, donde el gobernador concentraba el poder ejecutivo, legislativo y militar.
+- **Modernización de infraestructura:** Se construyeron el ferrocarril transinsular, puertos, presas, ingenios azucareros y otras grandes obras de infraestructura.
+- **Universalización de la educación:** Se estableció un sistema educativo moderno, elevando la tasa de alfabetización de menos del 5 % a más del 70 %.
+- **Movimientos de resistencia:** Tuvieron lugar el Incidente de Wushe, la Asociación Cultural de Taiwán y otras formas de resistencia armada y política.
+- **Movimiento de imperialización (_kōminka_):** A partir de 1937, se impulsaron políticas de asimilación como el cambio de apellido al japonés, la visita obligatoria a santuarios sintoístas y el uso obligatorio del japonés como lengua nacional.
 
-## Contenido en Profundidad
+## Contenido detallado
 
-### Sistema de Gobierno Colonial
+### Sistema de dominio colonial
 
-La **Oficina del Gobernador General de Taiwán** (台灣總督府) fue la institución suprema de gobierno de Japón en Taiwán. El Gobernador General, nombrado por el Emperador japonés, tenía poder absoluto. Utilizando un **sistema centralizado**, Taiwán se dividió en prefecturas incluyendo Taipéi, Taoyuan, Hsinchu, Taichung, Chiayi, Tainan, Kaohsiung y Pingtung para una gestión administrativa estricta.
+El **Gobierno General de Taiwán** fue el máximo órgano de gobierno japonés en la isla. El gobernador era nombrado por el emperador de Japón y ostentaba poder absoluto. Se adoptó un **sistema centralizado**, dividiendo toda la isla en prefecturas (_shū_) como Taipéi, Taoyuan, Hsinchu, Taichung, Chiayi, Tainan, Kaohsiung y Pingtung, entre otras, bajo una administración estricta.
 
-El **sistema legal** implementó la "Ley 63" (六三法), autorizando al Gobernador General a promulgar ordenanzas legalmente vinculantes. El **sistema policial** estableció el sistema Baojia (保甲制度) para el control social, organizando a los hogares en grupos de vigilancia mutua. Las **encuestas de tierras** realizaron mediciones de tierras en toda la isla y confirmación de derechos de propiedad, sentando las bases para el desarrollo industrial moderno.
+En materia de **sistema legal**, se aplicaron las "Leyes 63" (_Rokusan-hō_), que autorizaban al gobernador a promulgar decretos con fuerza de ley. El **sistema policial** estableció el sistema _hokō_ (保甲) para el control social, incorporando a cada hogar en organizaciones de vigilancia mutua. La **catastro** realizó la medición y confirmación de la propiedad de toda la tierra de la isla, sentando las bases para el desarrollo industrial moderno.
 
-### Desarrollo de Infraestructura
+### Desarrollo de infraestructura
 
-La **construcción de transporte** se centró en el ferrocarril longitudinal (completado en 1908), conectando Keelung, Taipéi, Taichung, Tainan y Kaohsiung, con ferrocarriles ramales y redes de carreteras. La **construcción de puertos** modernizó los puertos de Keelung y Kaohsiung en puertos comerciales contemporáneos, promoviendo el comercio exterior.
+La **construcción de transporte** tuvo como eje principal el ferrocarril transinsular (completado en 1908), que conectaba Keelung, Taipéi, Taichung, Tainan y Kaohsiung, junto con la construcción de líneas ferroviarias secundarias y una red de carreteras. La **construcción portuaria** modernizó los puertos de Keelung y Kaohsiung como puertos comerciales modernos, fomentando el desarrollo del comercio exterior.
 
-Los **proyectos hidráulicos** construyeron importantes sistemas de irrigación como el Canal de Chianan (嘉南大圳) y el Canal de Taoyuan, mejorando la irrigación agrícola. Los **sistemas eléctricos** construyeron la planta hidroeléctrica de Sun Moon Lake para suministrar electricidad a toda la isla. La **planificación urbana** rediseñó ciudades como Taipéi y Taichung, creando áreas urbanas modernas.
+Las **obras hidráulicas** incluyeron la construcción de grandes infraestructuras de riego como el sistema de canales de Chianan y el de Taoyuan, mejorando la irrigación agrícola. El **sistema eléctrico** contó con la central hidroeléctrica del lago Sun Moon, que abastecía la demanda eléctrica de toda la isla. Los **planes urbanísticos** rediseñaron ciudades como Taipéi y Taichung, estableciendo zonas urbanas modernas.
 
-### Política Económica Industrial
+### Política económica e industrial
 
-La **mejora agrícola** introdujo nuevas variedades de arroz y mejoró las técnicas agrícolas, convirtiendo el arroz taiwanés en una importante exportación. La **industria azucarera** estableció fábricas de azúcar modernas, convirtiendo el azúcar en la industria de exportación más importante de Taiwán. El **desarrollo industrial** estableció fábricas de cemento, químicas y de maquinaria, estableciendo una base de industria ligera.
+La **mejora agrícola** introdujo nuevas variedades de arroz y mejoró las técnicas de cultivo, convirtiendo el arroz taiwanés en un producto de exportación principal. La **industria azucarera** estableció ingenios azucareros modernos, y el azúcar se convirtió en la industria de exportación más importante de Taiwán. El **desarrollo industrial** incluyó la creación de fábricas de cemento, productos químicos y maquinaria, sentando las bases de la industria ligera.
 
-El **sistema financiero** estableció el Banco de Taiwán como banco central, unificando el sistema monetario. La **política comercial** posicionó a Taiwán como proveedor de materias primas y mercado para productos japoneses, formando una estructura económica colonial.
+El **sistema financiero** estableció el Banco de Taiwán como banco central, unificando el sistema monetario. La **política comercial** convirtió a Taiwán en un proveedor de materias primas y un mercado para los productos japoneses, formando una estructura económica colonial.
 
-### Política Educativa y Cultural
+### Política educativa y cultural
 
-La **educación primaria** estableció escuelas públicas para difundir la educación básica, con planes de estudio enseñados principalmente en japonés y habilidades prácticas. La **educación secundaria** estableció escuelas secundarias y normales para capacitar talentos, aunque las oportunidades educativas para los taiwaneses eran limitadas. La **educación superior** estableció la Universidad Imperial Taihoku (ahora Universidad Nacional de Taiwán) en 1928, la institución más alta durante el período colonial.
+La **educación primaria** estableció escuelas públicas (_kōgakkō_) para universalizar la educación básica, con un currículo centrado en el japonés y habilidades prácticas. La **educación secundaria** incluyó escuelas medias y escuelas normales para la formación de talentos, aunque las oportunidades de acceso a la educación superior para los taiwaneses eran limitadas. La **educación superior** vio la fundación de la Universidad Imperial de Taipéi (actual Universidad Nacional de Taiwán) en 1928, la institución académica más alta del período colonial.
 
-El **Movimiento de Imperialización** (皇民化運動) promovió el "Uso Común del Japonés" (國語常用) prohibiendo los idiomas taiwaneses, el "Cambio de Nombres" (改姓名) alentando la adopción de nombres japoneses y la "Adoración en Santuarios" (神社參拜) exigiendo la participación en rituales sintoístas. Esto intentó eliminar la cultura taiwanesa tradicional y cultivar la lealtad al Emperador.
+El **movimiento de imperialización (_kōminka_)** promovió el "uso habitual de la lengua nacional" (_kokugo jōyō_), prohibiendo el taiwanés; el "cambio de nombre" (_kaiseimei_), animando a adoptar nombres japoneses; y la "visita a santuarios sintoístas" (_jinja sanpai_), obligando a participar en rituales del sintoísmo japonés. El objetivo era eliminar la cultura tradicional taiwanesa y fomentar la lealtad al emperador.
 
-### Movimientos de Resistencia Antijaponeses
+### Evolución de los movimientos de resistencia
 
-La **resistencia armada** abarcó desde las luchas tempranas de Liu Yongfu (劉永福) y Jian Dashi (簡大獅) hasta el **Incidente de Wushe** (霧社事件) en 1930, cuando el líder Seediq Mona Rudao (莫那魯道) lideró a su pueblo en un levantamiento, demostrando la voluntad anticolonial taiwanesa.
+La **resistencia armada** abarcó desde las primeras luchas de Liu Yongfu y Jian Dashi hasta el **Incidente de Wushe** (1930), cuando Mona Rudao, líder del pueblo Seediq, levantó a su clan en armas, demostrando la voluntad anticolonial de los taiwaneses.
 
-Los **movimientos políticos** incluyeron la **Asociación Cultural de Taiwán** (台灣文化協會, 1921) promoviendo la ilustración cultural, el **Partido Popular de Taiwán** (台灣民眾黨, 1927) luchando por los derechos políticos y la **Liga de Autonomía Local de Taiwán** exigiendo autogobierno local. Aunque sin éxito, estos movimientos cultivaron la conciencia política taiwanesa.
+Los **movimientos políticos** incluyeron la **Asociación Cultural de Taiwán** (1921), que promovió la ilustración cultural; el **Partido del Pueblo de Taiwán** (1927), que luchó por derechos políticos; y la **Alianza por la Autonomía Local de Taiwán**, que exigió autonomía local. Aunque estos movimientos no lograron sus objetivos, cultivaron la conciencia política de los taiwaneses.
 
-El **movimiento literario** representado por escritores como Lai He (賴和) y Yang Kui (楊逵), expresó críticas al dominio colonial e identificación con la tierra a través de novelas y poesía, estableciendo la base local de la literatura taiwanesa.
+El **movimiento literario**, representado por escritores como Lai He y Yang Kui, expresó a través de novelas y poemas la crítica al dominio colonial y la identificación con la tierra, sentando las bases del tono local de la literatura taiwanesa.
 
-## Impacto Histórico
+## Impacto histórico
 
-Los proyectos de modernización del período colonial japonés se convirtieron en una base importante para el desarrollo de posguerra de Taiwán. El sistema educativo capacitó talentos con conocimientos modernos, la infraestructura proporcionó condiciones para el desarrollo económico, y los conceptos de estado de derecho y eficiencia administrativa influyeron en el gobierno posterior. Sin embargo, el dominio colonial también dejó impactos negativos incluyendo complicados problemas de identidad étnica y tradiciones de gobierno autoritario.
+La modernización impulsada durante el período colonial japonés se convirtió en una base importante para el desarrollo de Taiwán en la posguerra. El sistema educativo formó profesionales con conocimientos modernos, la infraestructura proporcionó las condiciones para el desarrollo económico, y los conceptos de Estado de derecho y eficiencia administrativa influyeron en la gobernanza gubernamental posterior. Sin embargo, el dominio colonial también dejó efectos negativos, como la complejización de la identidad étnica y la tradición de un sistema autoritario.
 
-## Lectura Adicional
+## Referencias
 
-- [Taiwán bajo dominio japonés - Wikipedia](https://en.wikipedia.org/wiki/Taiwan_under_Japanese_rule)
-- [Gobierno General de Taiwán - Wikipedia](https://en.wikipedia.org/wiki/Government-General_of_Taiwan)
+- [Período colonial japonés en Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F)
+- [Gobierno General de Taiwán - Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E7%B8%BD%E7%9D%A3%E5%BA%9C)
 
-## Temas Relacionados
+**Lectura complementaria:**
 
-- [qing-dynasty-rule](/history/qing-dynasty-rule)
-- [democratic-system](/society/democratic-system)
-- [open-source-and-g0v](/technology/open-source-and-g0v)
+- [Campaña de Yiwei](/history/乙未之役) — El inicio del período colonial japonés: el desembarco de las tropas japonesas en 1895, la disolución de la República Democrática de Taiwán y la resistencia durante 148 días.
+
+## Temas relacionados
+
+- [Período de dominio Qing](/history/清治時期)
+- [Período de ley marcial](/history/戒嚴時期)
+- [Guerra del alcanfor en el siglo XIX](/history/19世紀的樟腦戰爭) — El monopolio del alcanfor de 1899 y el Incidente de Dabaoshe de 1900: el origen Qing de la política japonesa sobre el alcanfor durante el período colonial.

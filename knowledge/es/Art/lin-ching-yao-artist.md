@@ -1,136 +1,102 @@
 ---
-title: 'Lin Ching-yao: Desde las nubes del tai chi hasta los algoritmos, responde con lo «existente pero invisible»'
-description: 'Nacido en Kaohsiung, licenciado en composición musical y máster en arte y nuevas medios por la Universidad Nacional de las Artes de Taipéi, doctor en redes de información y multimedia por la Universidad Nacional de Taiwán, con posdoctorado en la École nationale supérieure des Beaux-Arts de París. Fue profesor en la Universidad Nacional Tsing Hua y en la Universidad Nacional de las Artes de Tainan, director del Laboratorio de Sonido de C-LAB (2019) y actualmente profesor asistente adjunto del programa de grado en innovación del D-School de la Universidad Nacional de Taiwán. En 2022, su obra generativa «Metaphysics» se presentó en Art Blocks (200 ediciones) y «Mythologic» se exhibió con acuñación interactiva en Art Basel Hong Kong. Es el artista generativo de la serie «Mìjìng» (Lugar secreto) del proyecto Baishan de FAB DAO. La pregunta central de su creación no ha cambiado en quince años: «Muchas cosas en el mundo son perceptibles pero no visibles».'
+title: 'Lin Ching-Yao: Del movimiento Yunshou del tai chi a los algoritmos, responde con lo «existente pero invisible»'
+description: 'Nacido en Kaohsiung, posee un Grado en Composición Musical por la Universidad de las Artes de Taipéi, una Maestría en Artes de Nuevos Medios por la misma institución, un Doctorado en Redes de Información y Multimedia por la Universidad Nacional de Taiwán, y realizó estudios postdoctorales en la École des Beaux-Arts de París. Fue profesor de la Universidad Nacional Tsing Hua y de la Universidad Nacional de las Artes de Taiwán, y se desempeñó como Director del Laboratorio de Sonido de Taiwán de C-LAB (2019). Actualmente es profesor asistente de proyecto en el Programa de Grado en Innovación de la D-School de la Universidad Nacional de Taiwán. En 2022, presentó su obra generativa Metaphysics en Art Blocks (200 ediciones) y Mythologic en una exhibición de acuñación interactiva en Art Basel Hong Kong. Es artista generativo de la serie El reino secreto del Proyecto Baiyue de FAB DAO. Su proposición central de creación no ha cambiado en quince años: «Muchas cosas en el mundo son perceptibles pero invisibles».'
 date: 2026-04-21
+author: 'Taiwan.md Contributors'
+category: 'Art'
+subcategory: '生成藝術'
 tags:
   [
-    'generative art',
-    'digital art',
-    'contemporary art',
-    'Lin Ching-yao',
+    'Arte generativo',
+    'Arte digital',
+    'Arte contemporáneo',
+    'Lin Ching-Yao',
     'Jinya Lin',
     'Art Blocks',
     'fxhash',
     'NFT',
     'FAB DAO',
-    'Baishan Project',
+    'Proyecto Baiyue',
     'C-LAB',
-    'Sound Laboratory',
-    'Taiwanese new media art',
+    'Laboratorio de Sonido',
+    'Arte de nuevos medios de Taiwán',
   ]
-category: 'Art'
-subcategory: '生成藝術'
-author: 'Taiwan.md Contributors'
-featured: false
 readingTime: 12
 lastVerified: 2026-04-21
 lastHumanReview: false
+featured: false
 translatedFrom: 'Art/林經堯.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:d29637a833e9cde7'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 
-## Lin Ching-yao: Desde las nubes del tai chi hasta los algoritmos, responde con lo «existente pero invisible»
+## Lin Ching-Yao: Del movimiento Yunshou del tai chi a los algoritmos, responde con lo «existente pero invisible»
 
-> **Resumen en 30 segundos:** Lin Ching-yao (Jinya Lin), nacido en Kaohsiung, licenciado en composición musical y máster en arte tecnológico por la Universidad Nacional de las Artes de Taipéi, doctor en redes de información y multimedia por la Universidad Nacional de Taiwán, con posdoctorado en la École nationale supérieure des Beaux-Arts de París. Fue profesor en la Universidad Nacional Tsing Hua y en la Universidad Nacional de las Artes de Tainan; en 2019 asumió la dirección del Laboratorio de Sonido de C-LAB, y actualmente es profesor asistente adjunto del programa de grado en innovación del D-School de la Universidad Nacional de Taiwán. En 2022, su obra de arte generativo «Metaphysics» se presentó en Art Blocks (200 ediciones) y «Mythologic» se exhibió con acuñación interactiva en Art Basel Hong Kong; ese mismo año participó en el proyecto Baishan de FAB DAO, encargándose de la serie «Mìjìng» (Lugar secreto). Ganó el premio de escenografía en los Hong Kong Dance Awards y el primer premio en el concurso de coreografía del McCallum Theatre de Estados Unidos. Dijo que la investigación del sonido en Taiwán llevaba «una ausencia prolongada», y luego se dedicó a construir una institución para remediarlo. La filosofía de su obra se resume en una sola frase: muchas cosas en el mundo son perceptibles pero no visibles.
+> **30 秒概覽：** 林經堯（Jinya Lin），出生於高雄，台北藝術大學音樂作曲學士、科技藝術碩士，台灣大學資訊網路與多媒體博士，巴黎高等美術學院博士後進修。曾任清華大學、南藝大教授，2019 年出任 C-LAB 臺灣聲響實驗室總監，現任台大 D-School 創新領域學士學程專案助理教授。2022 年以生成藝術作品《Metaphysics》登上 Art Blocks（200 版）、《Mythologic》在香港巴塞爾藝術展互動鑄造展出；同年參與 FAB DAO 百岳計畫，負責《秘境》系列。他在舞台設計拿過香港舞蹈年獎，在編舞大賽拿過美國麥考倫劇院首獎；他說台灣的聲音研究「長期缺席」，然後親身去建一個機構來補。作品哲學始終只有一句：世界上許多事物是可感知但不可見的。
 
 ---
 
-En noviembre de 2019, el Laboratorio de Sonido de C-LAB abrió oficialmente sus puertas en Taipéi[^5]. Este espacio cuenta con una matriz de altavoces de 49.4 canales y 75 asientos, y fue el primer campo de investigación y exhibición de sonido en Taiwán que alcanzó estándares internacionales. La persona que lo construyó fue Lin Ching-yao.
+2019 年 11 月，C-LAB 臺灣聲響實驗室在台北正式開幕[^5]。這個空間裝有 49.4 聲道的喇叭陣列、75 個座位，是台灣第一個達到國際標準的聲響研究與展演場域。建設它的，是林經堯。
 
-En una entrevista con la revista _Artist_ en aquel momento, dijo una frase que, en retrospectiva, parece la declaración de toda su carrera:
+當時他在接受《藝術家》雜誌訪問時說了一句話，事後看來像是他整個職業生涯的自白：
 
-> «El sonido, como modo de percepción e experiencia igualmente indispensable, ha ocupado un estado de ausencia prolongada en Taiwán en lo que respecta a la investigación y la integración transdisciplinaria del sonido en el ámbito artístico y cultural.»[^1]
+> 「聲音做為同樣不可或缺的感知與經驗模式，關於藝術與文化層面的聲音研究與跨域整合在台灣卻是處於長期缺席的狀態。」[^1]
 
-No era una observación cultural genérica. Era la frase de alguien que había presenciado esa ausencia en primera persona y decidió llenarla desde una posición administrativa.
+這不是泛泛的文化觀察。這是一個親身見證這個缺席然後選擇以行政者身份填補它的人說的話。
 
 ### Partir de la composición musical
 
-Lin Ching-yao nació en Kaohsiung[^2]. En la Universidad Nacional de las Artes de Taipéi cursó dos titulaciones —la licenciatura en composición musical y el máster en arte tecnológico— y posteriormente obtuvo el doctorado en redes de información y multimedia por la Universidad Nacional de Taiwán.
+林經堯出生於高雄[^2]。他在台北藝術大學念了兩個學位——音樂系主修作曲，然後轉向科技藝術研究所——再去台灣大學取得資訊網路與多媒體博士學位。
 
-Ya de por sí, esa trayectoria resulta singular. La composición es una formación en humanidades; las redes de información, una formación en ingeniería. La mayoría elige una de las dos. Lin Ching-yao eligió ambas.
+這條路徑本身就有點奇特。作曲是人文藝術的訓練，資訊網路是工程科學的訓練。大多數人在兩者之間擇一，林經堯選擇兩個都要。
 
-Tras el doctorado, se marchó a París. El Centro Digital de la École nationale supérieure des Beaux-Arts (ENSBA) y el Centro Creativo Intel-NTU de la Universidad Nacional de Taiwán conservan registros de su labor posdoctoral[^2]. París le proporcionó no solo recursos técnicos, sino también una mirada capaz de reexaminar la filosofía oriental dentro del marco del arte de vanguardia occidental.
+博士之後他去了巴黎。法國巴黎國立高等美術學院（ENSBA）的數位中心，和 Intel-NTU 台灣大學創意中心，都留下他的博士後紀錄[^2]。巴黎給他的不只是技術資源，是把東方哲學放進西方前衛藝術框架重新檢視的眼光。
 
 ### Dos trofeos, dos identidades
 
-De regreso en Taiwán, Lin Ching-yao enseñó sucesivamente en el Departamento de Arte y Diseño de la Universidad Nacional Tsing Hua y en el Departamento de Música Aplicada de la Universidad Nacional de las Artes de Tainan. Su creación se desarrolló a lo largo de la intersección entre «música, visión por computadora y teatro», sin quedarse en ninguna clasificación fija.
+回台灣之後，林經堯先後在清華大學藝術設計系和南藝大應用音樂系任教。他的創作沿著「音樂、電腦視覺、劇場三者交織」這條線發展，不待在任何一個分類裡。
 
-En 2012, creó el diseño multimedia para _Shuāng Yàn_ (Dos golondrinas) para la Compañía de Danza de Hong Kong, utilizando las pinturas de Wu Guanzhong como base de imagen digital, generadas en sincronía con la danza. El resultado fue el premio a la mejor escenografía en los Hong Kong Dance Awards[^6]. Fue un hito: un músico que cruzaba la frontera hacia el teatro visual.
+2012 年，他為香港舞蹈團創作《雙燕》多媒體設計——以吳冠中畫作為數位影像基礎，與舞蹈同步生成。結果拿了香港舞蹈年獎最佳舞台美術設計獎[^6]。這是一個音樂人跨進視覺劇場的里程碑。
 
-En 2016, su obra _Shíkōu Chōutì_ (Cajón espacio-temporal) obtuvo el primer premio en el concurso de coreografía del Festival Internacional de Danza del McCallum Theatre en Estados Unidos[^7]. Estados Unidos, teatro, coreografía: tres etiquetas, ninguna de ellas correspondiente al campo para el que originalmente se había formado.
+2016 年，他的《時空抽屜》在美國麥考倫劇院國際舞蹈節編舞大賽拿下首獎[^7]。美國，劇場，編舞，三個標籤——沒有一個是他最初被訓練的領域。
 
-En una auto-presentación durante su residencia en Treasure Hill en 2012, escribió:
+他後來在 2012 年寶藏巖駐村的自述寫過：
 
-> «Me gusta utilizar la música y la visión por computadora como herramientas creativas y luego combinarlas con el teatro o la danza; siempre he estado pensando cómo crear un teatro de imagen interactiva con herencia cultural oriental.»[^2]
+> 「喜歡使用音樂和電腦視覺作為創作工具，然後與劇場或舞蹈結合；一直在思考如何創造具有東方文化傳承的互動影像劇場。」[^2]
 
-No era una estrategia. Era un temperamento.
+這不是策略，是一種性格。
 
 ### Diagnosticar y luego construir
 
-En 2019, Lin Ching-yao asumió la dirección del Laboratorio de Sonido de C-LAB[^5]. C-LAB había firmado un acuerdo el año anterior (2018) con el centro de investigación de música y sonido IRCAM de Francia para establecer conjuntamente este laboratorio. En noviembre de 2019, durante el festival inaugural Diversonics, Lin Ching-yao se situó en el centro de ese espacio de 49.4 canales como director del proyecto.
+2019 年，林經堯接下 C-LAB 臺灣聲響實驗室總監一職[^5]。C-LAB 前一年（2018）才與法國 IRCAM 聲響音樂研究中心簽訂協議，合作建立這個實驗室。2019 年 11 月，在 Diversonics 開幕音樂節上，林經堯作為計畫主持人站在那個 49.4 聲道空間的中心。
 
-No estaba allí solo para programar eventos. Entendía el puesto como una tarea de construcción institucional: Taiwán necesitaba una infraestructura capaz de realizar investigación sonora y atraer cooperación internacional; ahora existía, y él debía hacerla funcionar.
+他不是只來做節目的。他把這個位置理解成一個機構建設任務：台灣需要一個能進行聲響研究、能吸引國際合作的基礎設施，現在有了，而他要讓它運作起來。
 
-Este patrón de «diagnosticar un problema y luego remediarlo desde una posición administrativa» reapareció más tarde en su otra identidad institucional: el D-School de la Universidad Nacional de Taiwán.
+這個「診斷問題然後用行政者身份去補」的模式，後來在他的另一個機構身份——台大 D-School——再次出現。
 
-### Las nubes del tai chi entran en el algoritmo
+### El movimiento Yunshou del tai chi entra en los algoritmos
 
-Entre 2021 y 2022, la comunidad de arte generativo en Taiwán atravesó una oleada de NFT. Lin Ching-yao no se quedó esperando; con el oído de un compositor y la mirada de un diseñador escénico, entró en fxhash y Art Blocks.
+2021 到 2022 年，台灣生成藝術圈遭遇一波 NFT 浪潮。林經堯沒有被動等待，他帶著作曲家的耳朵和劇場設計師的眼睛，走進了 fxhash 和 Art Blocks。
 
-En abril de 2022, publicó _Requiem: Cloud_ en fxhash[^4], escrito en p5.js, con 103 combinaciones de colores, 3 tipos de marco, 4 estructuras de fragmentación y 2 esquemas de tinte: la primera pieza de su serie de nubes. Ese mismo año, _Mythologic_ (Mitología), inspirada en el _Shānhǎi Jīng_ (Clásico de los mares y las montañas), se exhibió con acuñación interactiva simultánea en Art Basel Hong Kong, donde el público acuñaba en tiempo real, sobre la cadena Tezos, imágenes generativas de espíritus de montaña y patrones de dragones[^4]. Texto clásico, estética algorítmica y certificación de propiedad Web3 convergían en una de las ferias de arte más prestigiosas del mundo.
+2022 年 4 月，他在 fxhash 上發行《Requiem: Cloud》[^4]——p5.js 寫成，103 種顏色組合、3 種框架、4 種碎片結構、2 種染色方案，是他雲系列的第一件作品。同年，《Mythologic（神話）》以《山海經》為靈感，在香港巴塞爾藝術展同期互動鑄造展出，觀眾現場以 Tezos 即時鑄造出山海精靈與龍紋的生成圖像[^4]。傳統文本、演算美學、Web3 確權，在全球頂尖藝術展會現場同時發生。
 
-El 7 de diciembre de 2022, su obra _Metaphysics_ se emitió en Art Blocks, en una edición de 200 ejemplares[^3].
+同年 12 月 7 日，他的《Metaphysics》在 Art Blocks 發行，200 版[^3]。
 
-La declaración del artista para esta obra consistía en una sola frase:
+這件作品的藝術家陳述只有一句：
 
-> «Many things in the world are perceptible but not visible. Some things we can only feel, but not understand.»
+> "Many things in the world are perceptible but not visible. Some things we can only feel, but not understand."
 
-La inspiración provino de la «nube de manos» (_yún shǒu_) del tai chi. Intentó simular con algoritmos un mundo orgánico con flujo de _qi_ —no usar el tai chi como decoración, sino inscribir directamente su estructura (continuidad, flujo, ciclo) en los parámetros generativos.
+靈感來自太極雲手。他試圖用演算法模擬一個有「氣」流動的有機世界——不是把太極當裝飾，是把太極的結構（連續、流動、循環）直接寫進生成參數。
 
-Hay aquí una paradoja que él quizás no formuló explícitamente: un artista cuya filosofía creativa afirma lo «existente pero invisible» eligió el NFT —cuyo mecanismo central, la cadena de bloques, hace que los objetos digitales sean verificables, rastreables y poseídos de forma inequívoca— como medio artístico.
+這裡有一個他可能自己沒有明說的悖論：一個創作哲學說「存在卻不可見」的人，選擇了 NFT——區塊鏈的核心機制是讓數位物件**確確實實地可見、可驗證、可擁有**——作為自己的藝術媒介。
 
-Lo invisible se vuelve verificable. No es una contradicción. Es su respuesta.
+不可見，變成可確認。這不是矛盾，是他的答案。
 
-### «Mìjìng» (Lugar secreto) de Baishan
+### El reino secreto de Baiyue
 
-En 2022, FAB DAO lanzó el proyecto Baishan (Project %), en el que seis artistas generativos taiwaneses se encargaron cada uno de una serie, con 10.101 NFT emitidos en la cadena Tezos. La serie de Lin Ching-yao se tituló «Mìjìng» (Lugar secreto)[^8]: paisajes montañosos ocultos, formaciones del terreno que solo se revelan desde cierto ángulo y bajo cierta luz.
+2022 年，FAB DAO 推出百岳計畫（Project %），六位台灣生成藝術家各負責一個系列，10,101 件 NFT 在 Tezos 鏈上發行。林經堯負責的系列叫《秘境》[^8]——隱密的山景，只有在某個角度、某個光線下才會顯現的地形。
 
-Este tema no fue una elección casual dentro de su trayectoria creativa.
+這個主題在他整個創作脈絡裡不是偶然選擇。
 
-### Ahora en la Universidad Nacional de Taiwán
-
-Tras su período al frente del Laboratorio de Sonido de C-LAB, Lin Ching-yao se incorporó al D-School (Escuela de Diseño Innovador) de la Universidad Nacional de Taiwán como profesor asistente adjunto del programa de grado en innovación[^8]. De la Universidad Nacional de las Artes de Tainan a la Universidad Nacional Tsing Hua, de C-LAB a la Universidad Nacional de Taiwán, en cada institución ha llevado consigo la misma pregunta: cómo hacer de la frontera entre tecnología y arte un lugar cultivado a largo plazo por personas comprometidas, y no un punto de encuentro efímero donde unos cuantos coinciden y luego cada uno sigue su camino.
-
-La pregunta que sigue formulando hoy es la misma que escribió en 2014 durante su residencia en Treasure Hill:
-
-> «Siempre elegimos solo lo que queremos ver, pero ignoramos aquello que existe y no se ve.»[^2]
-
----
-
-## Lectura complementaria
-
-- \*\*[FAB DAO y el proyecto Baishan](/art/FAB%20DAO與百岳計畫) — Los seis artistas del proyecto Baishan y la estructura de NFT de impacto social
-- \*\*[Wang Xinren (Aluan)](/art/王新仁) — Artista del mismo grupo del proyecto Baishan, primer artista taiwanés en publicar en Art Blocks
-- \*\*[Wang Liansheng (Shrimp Dad)](/art/王連晟) — Serie «Civilización» del proyecto Baishan, ganador del premio Lumen
-- \*\*[Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — El contexto histórico del arte generativo dentro del arte de nuevos medios taiwanés
-- \*\*[Chi Bo-hao](/art/紀柏豪) — Artista sonoro del mismo ecosistema del Laboratorio de Sonido de C-LAB, coexhibido en DIVERSONICS 2025
-
-## Referencias
-
-[^1]: [Presentación oficial del Laboratorio de Sonido de C-LAB](https://clab.org.tw/unit/soundlabtw/) — Sitio web oficial de C-LAB, confirma los antecedentes de creación del laboratorio, el acuerdo con IRCAM de Francia en 2018 y la instalación de 49.4 canales; la cita textual de Lin Ching-yao sobre «una ausencia prolongada» proviene de la entrevista en la revista _Artist_ n.º 527 durante la inauguración de 2019
-
-[^2]: [Sitio web personal de Lin Ching-yao — About](https://jinyaolin.info/about) — Auto-presentación del artista: lugar de nacimiento Kaohsiung, dirección creativa «utilizar la música y la visión por computadora como herramientas creativas, combinadas con el teatro o la danza»; incluye también las auto-presentaciones de las residencias en Treasure Hill en 2012 y 2014
-
-[^3]: [Art Blocks: Metaphysics by Jinya Lin](https://www.artblocks.io/collections/presents/projects/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270/402) — Página oficial del proyecto en Art Blocks, confirma la emisión el 7 de diciembre de 2022, 200 ediciones y la declaración del artista «Many things in the world are perceptible but not visible»
-
-[^4]: [fxhash: Página del artista Jinya Lin](https://www.fxhash.xyz/u/Jinya%20Lin) — Página oficial en fxhash con las obras _Requiem: Cloud_ (16 de abril de 2022), _Mythologic_, entre otras; el reportaje de ARTouch sobre Art Basel Hong Kong 2022 confirma la acuñación interactiva en vivo de _Mythologic_
-
-[^5]: [Anuncio del NTU CSIE 2020: Conferencia de Lin Ching-yao](https://www.csie.ntu.edu.tw/news/2020-12) — Anuncio del Departamento de Ingeniería Informática de la Universidad Nacional de Taiwán, diciembre de 2020, indica el cargo de Lin Ching-yao como «profesor asistente en la Universidad Nacional de las Artes de Tainan y director del Laboratorio de Sonido de Taiwán»; registro del festival inaugural Diversonics de C-LAB, del 22 al 30 de noviembre de 2019
-
-[^6]: [Hong Kong Dance Awards 2012 — Mejor escenografía](https://www.hkdancefed.org/awards) — Registro oficial de la Federación de Danza de Hong Kong, premio a la mejor escenografía en 2012, obra _Shuāng Yàn_ (representada por la Compañía de Danza de Hong Kong)
-
-[^7]: [Festival Internacional de Danza del McCallum Theatre 2016 — Primer premio de coreografía](https://www.mccallumtheatre.com) — Festival Internacional de Danza del McCallum Theatre en California, Estados Unidos, concurso de coreografía 2016, _Shíkōu Chōutì_ obtuvo el primer premio; diversos medios artísticos taiwaneses lo documentaron
-
-[^8]: [Profesorado del programa de grado en innovación del D-School de la Universidad Nacional de Taiwán](https://dschool.ntu.edu.tw/teachers) — Página oficial de profesorado del D-School de la Universidad Nacional de Taiwán, confirma el cargo actual de Lin Ching-yao como «profesor asistente adjunto»; lista de los seis artistas del proyecto Baishan en project.fab.tw y descripción de la serie «Mìjìng»
+### Actualidad en la Universidad Nacional

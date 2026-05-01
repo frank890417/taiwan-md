@@ -1,155 +1,136 @@
 ---
 title: 'Empresas de Taiwán: Grupo Formosa Plastics'
-description: 'El imperio petroquímico construido por Wang Yung-ching, el "Dios de la Gestión Empresarial de Taiwán", y la leyenda de fabricación de las Cuatro Joyas de Formosa Plastics'
+description: "El reino petroquímico forjado por Wang Yung-ching, el 'Dios de la Gestión de Taiwán', y la leyenda manufacturera de las Cuatro Joyas de Formosa Plastics"
 date: 2026-03-20
+author: Taiwan.md
+subcategory: '企業列傳'
 tags:
   [
-    Economía,
-    Empresa,
-    Industria Petroquímica,
-    Grupo Formosa Plastics,
-    Industria Tradicional,
-    Cuatro Joyas de Formosa Plastics,
+    'Economía',
+    'Empresas',
+    'Industria Petroquímica',
+    'Grupo Formosa Plastics',
+    'Industrias Tradicionales',
+    'Cuatro Joyas de Formosa Plastics',
   ]
-subcategory: '企業列傳'
-author: Taiwan.md
 readingTime: 8
-featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Economy/台灣企業：台塑集團.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:0705937c431692b3
-translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
+translatedFrom: 'Economy/台灣企業：台塑集團.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0705937c431692b3'
+translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 
-> **Panorama en 30 segundos**
+> **Resumen en 30 segundos**
 >
-> El Grupo Formosa Plastics es el mayor conglomerado petroquímico de Taiwán, fundado en 1954 por Wang Yung-ching, conocido como el "Dios de la Gestión Empresarial de Taiwán". El grupo incluye cuatro empresas cotizadas —las llamadas "Cuatro Joyas de Formosa Plastics"—: Formosa Plastics, Nan Ya Plastics, Formosa Chemicals & Fibre y Formosa Petrochemical, con más de 100 000 empleados y ingresos anuales combinados de aproximadamente 3 billones de dólares taiwaneses. Lo que comenzó como una pequeña fábrica de PVC se convirtió en un imperio industrial que abarca petroquímica, plásticos, fibras y materiales electrónicos, siendo un motor clave del proceso de industrialización de Taiwán.
+> El Grupo Formosa Plastics es el mayor grupo petroquímico de Taiwán, fundado en 1954 por Wang Yung-ching, el "Dios de la Gestión de Taiwán". El grupo incluye las Cuatro Joyas de Formosa Plastics (Formosa Plastics, Nan Ya Plastics, Formosa Chemicals & Fibre, Formosa Petrochemical), cuatro empresas cotizadas, con más de 100.000 empleados y unos ingresos anuales combinados de aproximadamente 3 billones de nuevos dólares taiwaneses (TWD). Partiendo de una pequeña fábrica de PVC, se ha desarrollado hasta convertirse en un imperio industrial que abarca la petroquímica, plásticos, fibras y materiales electrónicos, siendo un impulsor clave del proceso de industrialización de Taiwán.
 
 ## Por qué es importante
 
-La importancia del Grupo Formosa Plastics trasciende con creces sus cifras de ingresos. Es un símbolo fundamental de la transición de Taiwán de una sociedad agrícola a una industrial, y un componente esencial del llamado "Milagro de Taiwán". En una época marcada por la escasez de capital, tecnología y talento, Wang Yung-ching construyó este imperio petroquímico con un espíritu de "diligencia y sencillez".
+La importancia del Grupo Formosa Plastics va mucho más allá de sus cifras de ingresos. Es un símbolo clave de la transformación de Taiwán de una sociedad agraria a industrial, y un componente fundamental del "Milagro de Taiwán". En una época caracterizada por la escasez de capital, tecnología y talento, Wang Yung-ching construyó este imperio petroquímico basándose en el espíritu de "diligencia y sencillez".
 
-Más aún, el grupo creó el "Modelo de Gestión Formosa Plastics", que influyó profundamente en todo el tejido empresarial taiwanés. Desde el control minucioso de costos hasta la estrategia de integración vertical, desde la formación de talento hasta la cultura corporativa, la filosofía de gestión de Formosa Plastics ha sido estudiada e incontables empresas taiwanesas.
+Aún más importante es que el Grupo Formosa Plastics creó el "modelo de gestión de Formosa Plastics", que ha influido en todo el sector industrial de Taiwán. Desde el control de costes detallado hasta la estrategia de integración vertical, desde la formación de talento hasta la cultura corporativa, la filosofía de gestión de Formosa Plastics ha sido estudiada e imitada por innumerables empresas taiwanesas.
 
-En la actual era de ESG y transición hacia la neutralidad de carbono, la capacidad del Grupo Formosa Plastics para transformarse de la industria petroquímica tradicional a una industria verde será un indicador clave de la transición del sector manufacturero taiwanés.
+En la era actual, donde se priorizan los criterios ESG y la transición hacia la neutralidad de emisiones, la forma en que el Grupo Formosa Plastics se transforme de una industria petroquímica tradicional a una industria verde será un indicador clave de la transformación de la manufactura taiwanesa.
 
-## Perfil de la empresa
+## Descripción general de la empresa
 
-El Grupo Formosa Plastics fue fundado en 1954 por los hermanos Wang Yung-ching y Wang Yung-tsai. Con la industria petroquímica como núcleo, el grupo desarrolló una cadena de valor completa de upstream a downstream, que abarca refinación de crudo, materias primas petroquímicas, procesamiento de plásticos, fibras textiles y materiales electrónicos.
+El Grupo Formosa Plastics es un conglomerado empresarial fundado conjuntamente en 1954 por los hermanos Wang Yung-ching y Wang Yung-tsai. Con la industria petroquímica como núcleo, el grupo ha desarrollado una cadena industrial completa que abarca los sectores aguas arriba, media y aguas abajo, incluyendo el refinado de crudo, materias primas petroquímicas, procesamiento de plásticos, fibra textil, materiales electrónicos y otros campos.
 
-Lo más conocido del grupo son las "Cuatro Joyas de Formosa Plastics": Formosa Plastics (台塑, 1301), Nan Ya Plastics (南亞, 1303), Formosa Chemicals & Fibre (台化, 1326) y Formosa Petrochemical (台塑化, 6505). Estas cuatro empresas cotizadas conforman una cadena industrial completa, desde la refinación del petróleo hasta el producto final, materializando un modelo de negocio de integración vertical.
+Lo que más se conoce del Grupo Formosa Plastics son las "Cuatro Joyas de Formosa Plastics": Formosa Plastics Corporation (Formosa Plastics, 1301), Nan Ya Plastics Corporation (Nan Ya, 1303), Formosa Chemicals & Fibre Corporation (Formosa Chemicals, 1326) y Formosa Petrochemical Corporation (Formosa Petrochemical, 6505). Estas cuatro empresas cotizadas forman una cadena industrial completa, desde el refinado de petróleo hasta los productos finales, implementando un modelo de negocio de integración vertical.
 
-La competitividad central del grupo reside en las economías de escala y la integración vertical. Al controlar toda la cadena de valor, Formosa Plastics logra reducir costos, mejorar la eficiencia y responder con rapidez a los cambios del mercado. Este modelo de gestión "de principio a fin" le permite mantener una ventaja competitiva en la feroz industria petroquímica.
+La ventaja competitiva central del grupo radica en la economía de escala y la integración vertical. Al controlar toda la cadena industrial, Formosa Plastics puede reducir costes, mejorar la eficiencia y responder rápidamente a los cambios del mercado. Este modelo de gestión de integración total permite a Formosa Plastics mantener su ventaja en la altamente competitiva industria petroquímica.
 
-## Datos clave (con números)
+## Datos clave (hablando con números)
 
 **Escala del grupo**:
 
-- Ingresos consolidados: aproximadamente 3 billones de dólares taiwaneses (2025, total de las Cuatro Joyas)
-- Empleados totales: más de 100 000 (incluyendo operaciones en el extranjero)
-- Bases de producción: Taiwán, China continental, Estados Unidos, Vietnam y otros países
-- Activos totales: más de 2,5 billones de dólares taiwaneses
+- Ingresos consolidados: aproximadamente 3 billones de TWD (2025, suma de las Cuatro Joyas de Formosa Plastics)
+- Número total de empleados: más de 100.000 (incluyendo sedes en el extranjero)
+- Bases de producción: Taiwán, China continental, Estados Unidos, Vietnam, entre otros.
+- Activos totales: más de 2,5 billones de TWD
 
-**Desempeño de las Cuatro Joyas** (2025):
+**Rendimiento de las Cuatro Joyas de Formosa Plastics (2025)**:
 
-- Formosa Petrochemical: ingresos de aproximadamente 1,5 billones de dólares taiwaneses, líder en rentabilidad entre las cuatro
-- Nan Ya Plastics: ingresos de aproximadamente 650 000 millones de dólares taiwaneses, con crecimiento de ganancias en un contexto adverso
-- Formosa Chemicals & Fibre: afectada por el alza en costos de materias primas, pasó de ganancias a pérdidas
-- Formosa Plastics: enfrentó un incremento significativo en sus pérdidas
+- Formosa Petrochemical: ingresos de aproximadamente 1,5 billones de TWD, con beneficios que lideran las Cuatro Joyas.
+- Nan Ya: ingresos de aproximadamente 650.000 millones de TWD, con beneficios que crecen a contracorriente.
+- Formosa Chemicals: afectada por los costes de las materias primas, sus operaciones pasan de beneficios a pérdidas.
+- Formosa Plastics: enfrenta el desafío de un aumento de las pérdidas.
 
 **Posición en la industria**:
 
-- Formosa Petrochemical es la mayor refinería privada de Taiwán y la primera en capacidad petroquímica del país
-- Nan Ya Plastics posee competitividad global en el sector de materiales electrónicos
-- Formosa Chemicals & Fibre es el mayor productor de fibras químicas de Taiwán
-- El grupo en su conjunto ocupa el primer lugar en ingresos entre las empresas privadas de Taiwán
+- Formosa Petrochemical es la mayor refinería privada de Taiwán, con la mayor capacidad petroquímica del país.
+- Nan Ya tiene competitividad global en el campo de los materiales electrónicos.
+- Formosa Chemicals es el mayor productor de fibras químicas de Taiwán.
+- El grupo en su conjunto ocupa el primer lugar en Taiwán en términos de ingresos entre las empresas privadas.
 
-**Sistema de bonificación de fin de año**:
+**Sistema de bonos de fin de año**:
 
-- En 2025 se otorgó a los empleados una bonificación de fin de año equivalente a tres meses de salario base (_Commercial Times_, 13 de enero de 2026)
-- El cálculo de la bonificación se basa en el desempeño general de las ganancias del grupo
-- Refleja la cultura empresarial de Formosa Plastics de compartir los frutos del éxito con sus empleados
+- En 2025, se otorgó a los empleados un bono de fin de año equivalente a tres meses de salario base (según el diario _Commercial Times_ del 13 de enero de 2026)
+- El cálculo del bono se basa en el rendimiento de beneficios de todo el grupo.
+- Refleja la cultura corporativa de Formosa Plastics, que valora que los empleados compartan los resultados de la gestión.
 
-## Historia: de aprendiz de tendero de arroz a imperio empresarial
+## Historia de desarrollo: de aprendiz de tienda de arroz a imperio empresarial
 
-**Período fundacional (1954-1970)**:
-En 1954, Wang Yung-ching y su hermano Wang Yung-tsai invirtieron conjuntamente 500 000 dólares taiwaneses para fundar en Kaohsiung la "Fushin Plastic Industries Co.", dedicada a la producción de polvo de PVC (cloruro de polivinilo). Este fue el punto de partida del Grupo Formosa Plastics y el nacimiento de la industria petroquímica de Taiwán.
+**Etapa fundacional (1954-1970)**:
+En 1954, Wang Yung-ching y su hermano Wang Yung-tsai invirtieron conjuntamente 500.000 yuanes para fundar "Formosa Plastics Industrial Corporation" en Kaohsiung, produciendo polvo de PVC (policloruro de vinilo). Este fue el punto de partida del Grupo Formosa Plastics y el origen de la industria petroquímica de Taiwán.
 
-Los inicios estuvieron plagados de dificultades. El PVC era un producto completamente nuevo con baja aceptación en el mercado; la tecnología dependía enteramente de Japón, lo que implicaba altos costos de aprendizaje; y, más grave aún, el mercado taiwanés era tan pequeño que la producción anual de una sola fábrica superaba la demanda de todo el país.
+En los primeros años de la fundación, se enfrentaron a numerosas dificultades. El PVC era un producto totalmente nuevo, con una baja aceptación en el mercado; la tecnología dependía totalmente de Japón, lo que generaba altos costes de aprendizaje; y lo más grave es que el mercado taiwanés era demasiado pequeño en aquel entonces, ya que la producción anual de una sola fábrica superaba la demanda de todo Taiwán.
 
-La solución de Wang Yung-ching fue la "integración vertical": si vender polvo de PVC no era rentable, se procesaría internamente para fabricar productos plásticos. En 1958 fundó Nan Ya Plastics, que producía artículos de uso diario como cuero plástico, impermeables y sandalias, inaugurando un modelo de negocio de "producción y venta propia".
+La solución de Wang Yung-ching fue la "integración vertical": dado que vender polvo de PVC no era rentable, decidieron procesarlo ellos mismos en productos de plástico. En 1958 se fundó Nan Ya Plastics, que producía artículos de uso diario como láminas de plástico, impermeables y chanclas, creando un modelo de negocio de "producción y venta propia".
 
-**Período de expansión (1970-1990)**:
-En la década de 1970, el despegue económico de Taiwán impulsó un rápido crecimiento en la demanda de productos petroquímicos. Formosa Plastics aprovechó la oportunidad para expandir continuamente su capacidad. En 1973 fundó Formosa Chemicals & Fibre para incursionar en el mercado de materias textiles. En la década de 1980, el grupo ingresó al sector de materiales electrónicos, proporcionando insumos clave para el desarrollo de la industria tecnológica taiwanesa.
+**Etapa de expansión (1970-1990)**:
+En la década de 1970, la economía de Taiwán despegó y la demanda de productos petroquímicos creció rápidamente. Formosa Plastics aprovechó la oportunidad para expandir continuamente su capacidad de producción. En 1973 se fundó Formosa Chemicals & Fibre, entrando en el mercado de materias primas textiles. En la década de 1980, el grupo incluso incursionó en el campo de los materiales electrónicos, proporcionando materiales clave para el desarrollo de la industria tecnológica de Taiwán.
 
-En esta etapa, Formosa Plastics estableció el célebre "Complejo Industrial de Mailiao". Ante las limitaciones de terreno, Wang Yung-ching optó por ganar tierra al mar en la costa de Mailiao, en el condado de Yunlin, para construir un gran complejo petroquímico integrado. La decisión fue calificada en su momento de "locura", pero posteriormente demostró ser una apuesta estratégica de enorme visión de futuro.
+Durante este período, Formosa Plastics estableció la famosa "Zona Industrial de Mailiao". Ante las limitaciones de tierras, Wang Yung-ching optó por ganar terreno al mar en la costa del municipio de Mailiao, condado de Yunlin, para construir una gran planta petroquímica integral. Esta decisión fue cuestionada en su momento como un "acto de locura", pero más tarde se demostró que era una estrategia con una visión de futuro muy avanzada.
 
-**Período de apogeo (1990-2010)**:
-En 1992 se fundó Formosa Petrochemical, y el grupo ingresó formalmente al negocio de la refinación de petróleo, completando la estructura de las Cuatro Joyas. La planta número seis de craqueo ligero (六輕) en Mailiao entró en operación en 1998, otorgando a Formosa Plastics una cadena de valor completa desde el crudo hasta el producto final.
+**Etapa de apogeo (1990-2010)**:
+En 1992 se fundó Formosa Petrochemical, con lo que Formosa Plastics entró oficialmente en la industria del refinado, y la estructura de las Cuatro Joyas de Formosa Plastics se formalizó definitivamente. La "Sexta Planta de Cracking de Nafta Ligera" (Liou-ging) de Mailiao entró en operación en 1998, permitiendo a Formosa Plastics contar con una cadena industrial completa desde el crudo hasta los productos finales.
 
-Esta fue la era dorada del Grupo Formosa Plastics. Gracias a sus ventajas de escala y la integración vertical, el grupo ocupó una posición relevante en la industria petroquímica global. Wang Yung-ching fue honrado como el "Dios de la Gestión Empresarial de Taiwán", y el modelo de gestión de Formosa Plastics se convirtió en un caso de estudio clásico en las escuelas de negocios.
+Este fue el período dorado del Grupo Formosa Plastics. Gracias a su ventaja de escala y la integración vertical, Formosa Plastics ocupó una posición importante en la industria petroquímica global. Por ello, Wang Yung-ching fue honrado con el título de "Dios de la Gestión de Taiwán", y el modelo de gestión de Formosa Plastics se convirtió en un caso clásico en las escuelas de negocios.
 
-En 2008, Wang Yung-ching falleció a los 91 años. Dedicó toda su vida a Formosa Plastics y dejó el espíritu del grupo profundamente grabado en su cultura corporativa.
+Wang Yung-ching falleció en 2008 a la edad de 91 años. Dedicó toda su vida a Formosa Plastics, y también dejó profundamente grabado el espíritu de Formosa Plastics en la cultura corporativa.
 
-**Período de transición (2010-presente)**:
-Tras el fallecimiento de Wang Yung-ching, el grupo entró en la era post-Wang Yung-ching, bajo el liderazgo colectivo de un "Comité de Decisión de Nueve Miembros". El nuevo equipo directivo enfrenta el desafío de encontrar una nueva dirección de desarrollo para la industria petroquímica tradicional en un contexto de creciente conciencia ambiental y exigencias de transición hacia la neutralidad de carbono.
+**Etapa de transformación (2010-presente)**:
+Tras el fallecimiento de Wang Yung-ching, el Grupo Formosa Plastics entró en la era post-Wang Yung-ching, con un liderazgo colectivo a cargo de un "Grupo de Decisión de Nueve Personas". El nuevo equipo directivo se enfrenta al desafío de encontrar una nueva dirección de desarrollo para la industria petroquímica tradicional, en un contexto de mayor conciencia ambiental y requerimientos de transición hacia la neutralidad de emisiones.
 
-En 2025, el desempeño operativo de las Cuatro Joyas fue desigual: Formosa Petrochemical y Nan Ya Plastics registraron crecimiento de ganancias en un entorno adverso, pero Formosa Chemicals & Fibre incurrió en pérdidas y las de Formosa Plastics se ampliaron, evidenciando la presión de un ajuste estructural en la industria. El grupo anunció cinco ejes de transición: "bajas emisiones de carbono, energía, salud, materiales para baterías y productos electrónicos", con la esperanza de encontrar nuevos motores de crecimiento en la nueva era.
+En 2025, el rendimiento operativo de las Cuatro Joyas de Formosa Plastics fue dispar: Formosa Petrochemical y Nan Ya registraron crecimiento de beneficios a contracorriente, mientras que Formosa Chemicals sufrió pérdidas y las pérdidas de Formosa Plastics se ampliaron, lo que muestra que el grupo está bajo presión para ajustar la estructura industrial. El grupo anunció la promoción de cinco direcciones de transformación: "bajas emisiones de carbono, energía, salud médica, materiales para baterías y productos electrónicos", con la esperanza de encontrar impulso de crecimiento en la nueva era.
 
-## Influencia global: referente de la industria petroquímica
+## Influencia global: empresa referente de la industria petroquímica
 
-**Modelo de integración de la cadena de valor**:
-El modelo de integración vertical de Formosa Plastics es considerado un referente en la industria petroquímica mundial. Desde la importación de crudo hasta la venta del producto final, el grupo controla toda la cadena de valor, lo que mejora significativamente la eficiencia y la capacidad de resistencia al riesgo.
+**Ejemplo de integración de la cadena industrial**:
+El modelo de integración vertical de Formosa Plastics es considerado un ejemplo a seguir por la industria petroquímica mundial. Desde la importación de crudo hasta la venta de productos finales, Formosa Plastics controla toda la cadena de valor, lo que ha mejorado significativamente la eficiencia y la capacidad de resistencia a riesgos.
 
-En particular, el complejo industrial de Mailiao六輕 es considerado uno de los parques petroquímicos más completos del mundo. Dentro de este complejo, el crudo se procesa de forma continua hasta convertirse en diversos productos químicos y plásticos, reduciendo drásticamente los costos logísticos y los tiempos de producción.
+En particular, el Parque Industrial de Liou-ging en Mailiao se considera una de las zonas industriales petroquímicas más completas del mundo. En este parque, el crudo se procesa hasta convertirse en diversos productos químicos y plásticos, lo que reduce significativamente los costes y tiempos logísticos.
 
 **Exportador de filosofía de gestión**:
-La filosofía de gestión de Formosa Plastics influyó en toda la industria manufacturera asiática. El espíritu corporativo de "diligencia y sencillez, investigación exhaustiva, búsqueda de la excelencia", junto con su sistema de control de costos altamente detallado, ha sido estudiado por innumerables empresas.
+La filosofía de gestión de Formosa Plastics ha influido en toda la industria manufacturera de Asia. El espíritu corporativo de "diligencia, sencillez, búsqueda de la raíz de los problemas y excelencia continua", así como el sistema de control de costes detallado, han sido estudiados por innumerables empresas.
 
-El concepto de "racionalización de la gestión" propuesto por Wang Yung-ching enfatiza la administración empresarial basada en datos y sistemas, en lugar de depender de la experiencia personal. Este enfoque de gestión científica desempeñó un papel importante en la mejora del nivel general de la industria manufacturera taiwanesa.
+El concepto de "racionalización de la gestión" propuesto por Wang Yung-ching enfatiza la gestión de las empresas mediante datos y sistemas, en lugar de depender de la experiencia personal. Este método de gestión científica ha desempeñado un papel importante en la mejora del nivel general de la manufactura taiwanesa.
 
-**Motor del desarrollo económico regional**:
-Las inversiones de Formosa Plastics impulsaron el desarrollo de todo el condado de Yunlin. Mailiao pasó de ser un pequeño pueblo costero remoto a convertirse en un importante polo industrial. El grupo también ha invertido en la construcción de plantas en Vietnam, Estados Unidos y otros países, generando empleo local e impulsando el desarrollo económico.
+**Impulsor del desarrollo económico regional**:
+Las inversiones de Formosa Plastics han impulsado el desarrollo de todo el condado de Yunlin. Mailiao pasó de ser un pequeño pueblo costero remoto a convertirse en un importante centro industrial. El grupo también ha invertido en la construcción de fábricas en Vietnam, Estados Unidos y otros lugares, creando empleo local y promoviendo el desarrollo económico.
 
-Sin embargo, al mismo tiempo, el grupo enfrenta controversias ambientales. Los problemas de contaminación atmosférica en el complejo industrial de Mailiao y su impacto en la pesca local son cuestiones de responsabilidad social que Formosa Plastics debe abordar.
+Al mismo tiempo, Formosa Plastics se enfrenta a controversias ambientales. Los problemas de contaminación del aire en la zona industrial de Mailiao, así como el impacto en la pesca local, son cuestiones de responsabilidad social que Formosa Plastics debe abordar.
 
 ## Desafíos y perspectivas
 
-**Presión de la transición hacia la neutralidad de carbono**:
-La tendencia global hacia las cero emisiones netas ejerce una presión enorme sobre la industria petroquímica. Formosa Plastics debe invertir en tecnologías de producción limpia, mejorar la eficiencia energética e incluso orientarse hacia la producción de bioquímicos. Estas inversiones de transición afectarán la rentabilidad a corto plazo, pero son indispensables para la supervivencia a largo plazo.
+**Presión de transición hacia la neutralidad de emisiones**:
+La tendencia global hacia las emisiones netas cero ejerce una gran presión sobre la industria petroquímica. Formosa Plastics debe invertir en tecnologías de producción limpia, mejorar la eficiencia energética e incluso cambiar a la producción de productos químicos de base biológica. Estas inversiones de transformación afectarán a los beneficios a corto plazo, pero son necesarias para la supervivencia a largo plazo.
 
-**Volatilidad en los costos de materias primas**:
-La industria petroquímica es altamente sensible a los precios del crudo. Las pérdidas de Formosa Chemicals & Fibre en 2025 están vinculadas al alza en los costos de materias primas. El grupo necesita utilizar instrumentos financieros de cobertura o ajustar su estructura de productos para mitigar el riesgo.
+**Volatilidad de los costes de las materias primas**:
+La industria petroquímica se ve muy afectada por los precios del crudo, y las pérdidas de Formosa Chemicals en 2025 estuvieron relacionadas con el aumento de los costes de las materias primas. Formosa Plastics necesita cubrir riesgos mediante instrumentos financieros o ajustar la estructura de productos para reducir riesgos.
 
-**Regulaciones ambientales más estrictas**:
-Las normativas ambientales de los distintos países son cada vez más rigurosas, con estándares de emisión cada vez más exigentes para la industria petroquímica. Formosa Plastics debe invertir continuamente en equipos de protección ambiental y desarrollar productos y procesos más ecológicos.
+**Endurecimiento de las normativas ambientales**:
+Las normativas ambientales de diversos países se vuelven cada vez más estrictas, y los estándares de emisiones para la industria petroquímica siguen aumentando. Formosa Plastics debe seguir invirtiendo en equipos de protección ambiental y desarrollar productos y procesos más ecológicos.
 
-**Intensificación de la competencia**:
-La revolución del shale oil en Oriente Medio y Estados Unidos ha traído nuevos competidores, y la industria petroquímica de los mercados emergentes de Asia se desarrolla con rapidez. Formosa Plastics debe mejorar continuamente su competitividad para mantener su ventaja en un entorno de competencia feroz.
+**Intensificación de la competencia en el mercado**:
+La revolución del shale oil en Medio Oriente y Estados Unidos ha traído nuevos competidores, y la industria petroquímica de los mercados emergentes de Asia también se está desarrollando rápidamente. Formosa Plastics debe seguir mejorando su competitividad para mantener su ventaja en una competencia feroz.
 
-**Mirando hacia el futuro**:
-Ante estos desafíos, el Grupo Formosa Plastics ha presentado una estrategia de "cinco transiciones":
+**Perspectivas futuras**:
+Ante estos desafíos, el Grupo Formosa Plastics ha propuesto una estrategia de "Cinco Grandes Transformaciones":
 
-1. **Transición hacia bajas emisiones de carbono**: desarrollo de tecnologías de captura de carbono y producción de bioplásticos para reducir las emisiones
-2. **Transición energética**: inversión en energías renovables y desarrollo de tecnologías de almacenamiento de energía
-3. **Salud y medicina**: aprovechamiento de la experiencia química para incursionar en el campo de los materiales médicos
-4. **Materiales para baterías**: suministro de materiales clave para la revolución del vehículo eléctrico
-5. **Productos electrónicos**: expansión del negocio de materiales para semiconductores y productos químicos electrónicos
-
-Estas direcciones de transición muestran que Formosa Plastics se esfuerza por transformarse de "empresa petroquímica" a "empresa de ciencia de materiales". Con su sólida base en ingeniería química y su experiencia manufacturera, el grupo tiene potencial para encontrar oportunidades de crecimiento en campos emergentes.
-
-Más importante aún, Formosa Plastics está redefiniendo la "responsabilidad social de la empresa petroquímica". De la maximización de beneficios a la conciliación entre la protección del medio ambiente y la responsabilidad social, la transición del grupo ofrecerá una referencia importante para la manufactura tradicional de Taiwán.
-
-La historia del Grupo Formosa Plastics es un microcosmos del proceso de industrialización de Taiwán. Testimonia el paso de Taiwán de la pobreza a la prosperidad, de una sociedad agrícola a una industrial. En la nueva era, el éxito o fracaso de su transición determinará la competitividad de la industria manufacturera tradicional en la corriente del desarrollo sostenible. Este no es solo el desafío de una empresa, sino un indicador fundamental de la transformación de toda la industria taiwanesa.
-
----
-
-## Referencias
-
-- _Commercial Times_: reportaje sobre el liderazgo en rentabilidad de Formosa Petrochemical en 2025 (13 de enero de 2026)
-- _Wikipedia: Formosa Plastics Group_ (actualizado en febrero de 2026)
-- MoneyDJ: perfil corporativo de Formosa Petrochemical (marzo de 2026)
-- _United Daily News_: análisis de ingresos de las Cuatro Joyas de Formosa Plastics (7 de diciembre de 2025)
-- _Wealth Magazine_: reportaje sobre la estrategia de transición del Grupo Formosa Plastics (marzo de 2026)
+1. **Transformación de bajas emisiones de carbono**: desarrollar tecnologías de captura de carbono, producir plásticos de base biológica y reducir las emisiones de carbono.
+2. **Transformación energética**: invertir en energías renovables y desarrollar tecnologías de almacenamiento
