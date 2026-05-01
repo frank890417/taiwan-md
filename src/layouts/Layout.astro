@@ -1,10 +1,12 @@
 ---
 import '../styles/global.css';
 import '../styles/shot-mode.css';
+import '../styles/dark-polish.css';
 import SEO from '../components/SEO.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BrandMark from '../components/BrandMark.astro';
+import ReaderSettings from '../components/ReaderSettings.astro';
 
 import type { Lang } from '../config/languages';
 
@@ -170,6 +172,41 @@ const jfClass = [
             document.addEventListener('DOMContentLoaded', apply);
           } else {
             apply();
+          }
+        } catch (_) {}
+      })();
+    </script>
+    <!-- Reader settings: dark mode + font size — FOUC-safe early init.
+         Reads localStorage and prefers-color-scheme BEFORE first paint
+         so toggling theme doesn't flash. Idempotent. ?shot=1 short-circuits
+         to keep OG image generation fully light, regardless of user pref.
+         (2026-05-01 γ-late, Issue #615 / idlccp1984 reader options) -->
+    <script is:inline>
+      (function () {
+        try {
+          var qs = new URLSearchParams(location.search);
+          if (qs.get('shot') === '1') return;
+          var html = document.documentElement;
+          var saved = null;
+          try {
+            saved = localStorage.getItem('tw-md-theme');
+          } catch (_) {}
+          var prefersDark =
+            window.matchMedia &&
+            window.matchMedia('(prefers-color-scheme: dark)').matches;
+          var theme =
+            saved === 'dark' || saved === 'light'
+              ? saved
+              : prefersDark
+                ? 'dark'
+                : 'light';
+          if (theme === 'dark') html.setAttribute('data-theme', 'dark');
+          var size = null;
+          try {
+            size = localStorage.getItem('tw-md-text-size');
+          } catch (_) {}
+          if (size === 'large' || size === 'xlarge') {
+            html.setAttribute('data-text-size', size);
           }
         } catch (_) {}
       })();
@@ -815,6 +852,10 @@ const jfClass = [
     >
       .md
     </a>
+
+    <!-- Reader settings: theme + size + plain-text link
+         (Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late) -->
+    <ReaderSettings lang={lang} />
 
     <script is:inline>
       // Set .md button href based on current path

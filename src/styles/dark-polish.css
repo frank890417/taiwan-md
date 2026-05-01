@@ -1,0 +1,104 @@
+/**
+ * dark-polish.css — minimal dark-mode override layer for component-scoped surfaces.
+ *
+ * Why this file exists:
+ *   tokens.css flips the body bg/ink in one place via [data-theme='dark'].
+ *   But many component & page files (slug.astro × 6 langs, hero, sidebar,
+ *   cards, header) still carry hardcoded hex colors from before color
+ *   tokens existed. A full re-tokenization is a large refactor — this
+ *   file is the pragmatic v1 patch that keeps reading legible in dark
+ *   mode without rewriting every hex.
+ *
+ * Selector strategy:
+ *   We target the cross-file *class names* that hold the most visible
+ *   reading surfaces (.prose, .hero-title overrides, etc). All rules
+ *   are gated on :root[data-theme='dark'], so light mode is untouched.
+ *
+ * NOT in scope for v1:
+ *   - Header/Nav internals (Header.astro is 1,759 lines; needs its own pass)
+ *   - Category-specific hero gradients (each kept light by intent)
+ *   - SVG illustrations / data viz colors
+ *
+ * Born: Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late.
+ */
+
+:root[data-theme='dark'] .prose {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose h1,
+:root[data-theme='dark'] .prose h2,
+:root[data-theme='dark'] .prose h3,
+:root[data-theme='dark'] .prose h4,
+:root[data-theme='dark'] .prose h5,
+:root[data-theme='dark'] .prose h6 {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose h2 {
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] .prose p,
+:root[data-theme='dark'] .prose li {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose strong,
+:root[data-theme='dark'] .prose em,
+:root[data-theme='dark'] .prose b,
+:root[data-theme='dark'] .prose i {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose a {
+  color: var(--color-accent);
+  text-decoration-color: color-mix(
+    in srgb,
+    var(--color-accent) 50%,
+    transparent
+  );
+}
+:root[data-theme='dark'] .prose a:hover {
+  text-decoration-color: var(--color-accent);
+}
+:root[data-theme='dark'] .prose blockquote {
+  color: var(--color-ink-soft);
+  border-left-color: var(--color-border);
+}
+:root[data-theme='dark'] .prose code {
+  background-color: color-mix(in srgb, var(--color-ink) 8%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose pre {
+  background-color: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose hr {
+  border-color: var(--color-border);
+}
+:root[data-theme='dark'] .prose table {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] .prose th,
+:root[data-theme='dark'] .prose td {
+  border-color: var(--color-border);
+}
+
+/* Global "card" surfaces — many components use these class fragments.
+   Catch the visible-bg ones with a broad pattern. */
+:root[data-theme='dark']
+  [class*='card']:not([class*='category-card']):not([class*='supporter-card']) {
+  background-color: color-mix(in srgb, var(--color-ink) 6%, transparent);
+  border-color: var(--color-border);
+}
+
+/* TableOfContents / sidebar containers */
+:root[data-theme='dark'] .table-of-contents,
+:root[data-theme='dark'] .article-sidebar,
+:root[data-theme='dark'] [class*='sidebar'] {
+  color: var(--color-ink);
+}
+
+/* Header: keep light for v1 — its internals are heavily styled and need
+   a dedicated pass. Add a soft border so it doesn't appear seamless
+   with the dark body. */
+:root[data-theme='dark'] header[class*='global-header'],
+:root[data-theme='dark'] .site-header {
+  border-bottom: 1px solid var(--color-border);
+}
