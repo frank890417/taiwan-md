@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T11:18:28.551Z",
+  "lastUpdated": "2026-05-01T12:30:13.590Z",
   "languages": [
     "zh-TW",
     "en",
@@ -28,14 +28,14 @@
       "freshPct": 66.1
     },
     "ja": {
-      "total": 477,
-      "percentage": 74.4,
-      "fresh": 465,
-      "stale": 12,
-      "missing": 164,
-      "orphan": 12,
-      "deficit": 164,
-      "freshPct": 72.5
+      "total": 626,
+      "percentage": 97.7,
+      "fresh": 618,
+      "stale": 8,
+      "missing": 15,
+      "orphan": 13,
+      "deficit": 15,
+      "freshPct": 96.4
     },
     "ko": {
       "total": 474,
@@ -117,11 +117,11 @@
         "deficit": 1
       },
       "ja": {
-        "count": 29,
-        "fresh": 29,
+        "count": 30,
+        "fresh": 30,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 23,
@@ -155,11 +155,11 @@
         "deficit": 3
       },
       "ja": {
-        "count": 50,
-        "fresh": 49,
-        "stale": 1,
-        "missing": 3,
-        "deficit": 3
+        "count": 51,
+        "fresh": 51,
+        "stale": 0,
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 40,
@@ -193,11 +193,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 43,
-        "fresh": 43,
+        "count": 49,
+        "fresh": 49,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 49,
@@ -231,11 +231,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 34,
-        "fresh": 34,
+        "count": 47,
+        "fresh": 47,
         "stale": 0,
-        "missing": 13,
-        "deficit": 13
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 29,
@@ -269,11 +269,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 11,
-        "fresh": 10,
-        "stale": 1,
-        "missing": 14,
-        "deficit": 14
+        "count": 24,
+        "fresh": 24,
+        "stale": 0,
+        "missing": 1,
+        "deficit": 1
       },
       "ko": {
         "count": 18,
@@ -307,11 +307,11 @@
         "deficit": 3
       },
       "ja": {
-        "count": 32,
-        "fresh": 27,
-        "stale": 5,
-        "missing": 4,
-        "deficit": 4
+        "count": 35,
+        "fresh": 31,
+        "stale": 4,
+        "missing": 1,
+        "deficit": 1
       },
       "ko": {
         "count": 31,
@@ -345,11 +345,11 @@
         "deficit": 2
       },
       "ja": {
-        "count": 16,
-        "fresh": 16,
+        "count": 21,
+        "fresh": 21,
         "stale": 0,
-        "missing": 5,
-        "deficit": 5
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 14,
@@ -383,11 +383,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 19,
-        "fresh": 19,
+        "count": 27,
+        "fresh": 27,
         "stale": 0,
-        "missing": 10,
-        "deficit": 10
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 24,
@@ -421,11 +421,11 @@
         "deficit": 3
       },
       "ja": {
-        "count": 21,
-        "fresh": 21,
-        "stale": 0,
-        "missing": 13,
-        "deficit": 13
+        "count": 34,
+        "fresh": 33,
+        "stale": 1,
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 26,
@@ -459,11 +459,11 @@
         "deficit": 10
       },
       "ja": {
-        "count": 114,
-        "fresh": 113,
+        "count": 197,
+        "fresh": 196,
         "stale": 1,
-        "missing": 87,
-        "deficit": 87
+        "missing": 4,
+        "deficit": 4
       },
       "ko": {
         "count": 146,
@@ -497,11 +497,11 @@
         "deficit": 2
       },
       "ja": {
-        "count": 58,
-        "fresh": 56,
+        "count": 60,
+        "fresh": 58,
         "stale": 2,
-        "missing": 2,
-        "deficit": 2
+        "missing": 0,
+        "deficit": 0
       },
       "ko": {
         "count": 39,
@@ -535,11 +535,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 42,
-        "fresh": 40,
-        "stale": 2,
-        "missing": 3,
-        "deficit": 3
+        "count": 43,
+        "fresh": 43,
+        "stale": 0,
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 29,
@@ -596,167 +596,19 @@
     ],
     "ja": [
       "Music/從張懸到安溥——兩個名字，同一個問題.md",
-      "People/吳哲宇（Che-Yu Wu）：從彈珠檯到威尼斯白牆，用 0 與 1 逼近靈魂的鐘錶匠.md",
       "Technology/赤燭遊戲：一張符咒擋不住的台灣故事.md",
-      "Food/鳳梨酥：從選舉招待點心到年產值 250 億的台灣「金磚」.md",
-      "History/台海危機與兩岸關係發展.md",
-      "People/有感筆電：從「暗黑」到百萬，定義 Roblox 世代的數據策展人.md",
-      "People/朱經武.md",
-      "Technology/台灣玩家的瘋狂時刻：追物流車、擠爆北投、洛杉磯舉盃.md",
-      "People/馬英九.md",
-      "Geography/台灣板塊運動與地震活動.md",
-      "People/VH（Vast & Hazy）：「出口系樂團」的十五年方向校準.md",
       "People/鄧麗君：跑馬地的白布條、金門的塑膠袋空氣、清邁的五分鐘時差.md",
-      "People/張惠妹.md",
-      "People/從地下室到總統府：妮妃雅與台灣變裝皇后的自我賦權史.md",
       "Geography/台灣行政區劃：從「地方會議」到「五都」的權力拼圖.md",
-      "People/許美華：從反紫光到大罷免，一個匿名公民代號的十年.md",
-      "Geography/台灣五大地形與地理結構：從山脈到平原的島嶼風貌.md",
-      "Music/五月天.md",
       "History/清法戰爭：基隆與淡水的八個月.md",
-      "Society/學習貧窮：坐在教室裡卻什麼都沒學到.md",
-      "Economy/台灣機械工具產業.md",
       "Music/台灣國樂：中國樂器上長出來的島嶼聲音.md",
       "People/嚴長壽：郵件室小弟到觀光教父，然後他把一切都丟了.md",
-      "People/葉丙成.md",
       "People/鄭麗文.md",
       "Technology/台灣機器人產業.md",
-      "History/中正紀念堂.md",
-      "Lifestyle/台灣醫療與全民健保.md",
-      "People/盧廣仲：被公車輾過的三金天王.md",
-      "History/台灣白色恐怖.md",
-      "People/李登輝.md",
-      "Culture/巴哈姆特.md",
-      "Economy/台灣金融科技發展.md",
-      "Nature/台灣山岳與登山文化.md",
-      "People/呂冠緯.md",
-      "People/江振誠.md",
       "Culture/族群（閩南客家原住民外省新住民）.md",
-      "People/蔡英文.md",
-      "Food/台灣手路菜：意思、由來與辦桌文化的「拿手好菜」.md",
-      "Music/台灣聲音地景.md",
-      "People/曾雅妮.md",
-      "People/翁啟惠.md",
-      "People/許倬雲.md",
-      "Food/台灣豆漿與早餐店.md",
-      "Music/台灣音樂祭文化：一座島嶼為什麼需要這麼多場戶外派對.md",
-      "Food/台灣小吃.md",
-      "People/黃震南.md",
       "Culture/關聖帝君：一個敗軍之將如何成為台灣的萬能之神.md",
-      "People/何飛鵬.md",
-      "Lifestyle/台灣機車文化.md",
-      "People/鄭南榕.md",
-      "People/齊柏林.md",
-      "Geography/台灣海岸地形與海洋地景.md",
-      "Nature/臺灣的鯨豚.md",
-      "Economy/經濟奇蹟.md",
-      "Food/台灣咖啡產業.md",
-      "Food/台灣米其林：星光下的代價與重新定義.md",
-      "Food/台灣茶文化.md",
-      "Geography/台灣國家風景區系統.md",
-      "Geography/台灣溫泉地景.md",
-      "Geography/離島與海洋文化：從石滬密度世界第一到飛魚季生態法律.md",
-      "Lifestyle/台灣捷運發展史：一部用血與錢寫成的城市進化論.md",
-      "Music/台灣民謠與歌謠：從被盜用到被世界聽見.md",
-      "Nature/台灣森林生態系.md",
-      "Nature/台灣海洋保育：為什麼花30年建成的體系，救不了一場珊瑚白化？.md",
-      "Nature/台灣海洋生態.md",
-      "Nature/國家公園.md",
-      "People/李梅樹.md",
-      "People/林懷民.md",
-      "People/楊右任：從街頭塗鴉中輟生到非洲舊鞋救命的台灣青年英雄.md",
-      "People/蔣為文：台語文運動的水牛戰士.md",
-      "People/蕭敬騰.md",
-      "Food/台灣冰品文化.md",
-      "Food/台灣新住民美食融合.md",
-      "Food/台灣海鮮文化.md",
-      "Food/台灣發酵食品與醃製文化.md",
-      "Food/台灣醬料與調味.md",
-      "Food/台灣麵包與烘焙.md",
-      "Lifestyle/溫泉文化.md",
-      "People/呂秀蓮.md",
-      "People/林義傑.md",
-      "People/陳偉殷.md",
-      "People/高俊明.md",
-      "Geography/台灣生態多樣性熱點.md",
-      "Nature/生態多樣性.md",
-      "People/朱宗慶.md",
-      "People/李智凱.md",
-      "People/聶永真.md",
-      "Geography/台灣水庫與水資源管理.md",
-      "Geography/台灣都市發展與城鄉差距.md",
-      "Music/台灣影視配樂：從電影原聲到遊戲音樂的聲音美學.md",
-      "Nature/台灣原住民生態智慧與環境保育.md",
-      "Nature/台灣環境運動史.md",
-      "Nature/台灣高山生態系與冰河孑遺.md",
-      "People/黃國珍.md",
       "Economy/島嶼的蛻變：台灣產業轉型與經濟發展軌跡.md",
       "Economy/島嶼的蛻變：台灣產業轉型與經濟發展軌跡.md",
-      "Music/台灣樂器製造業：從后里薩克斯風到全球音樂工廠.md",
-      "Music/台灣電子音樂與派對文化：從地下 Rave 到國際舞台.md",
-      "Nature/台灣步道文化與公民守護.md",
-      "Nature/台灣穿山甲.md",
-      "People/伍佰.md",
-      "People/劉德音.md",
-      "People/席慕蓉.md",
-      "People/幾米.md",
-      "People/張忠謀.md",
-      "People/張明正.md",
-      "People/張艾嘉.md",
-      "People/施明德.md",
-      "People/明華園.md",
-      "People/李國修.md",
-      "People/李安.md",
-      "People/李昂.md",
-      "People/林俊傑.md",
-      "People/林百里.md",
-      "People/林義雄.md",
-      "People/桂綸鎂.md",
-      "People/楊傳廣.md",
-      "People/楊德昌.md",
-      "People/王建民.md",
-      "People/王永慶.md",
-      "People/白先勇.md",
-      "People/盧彥勳.md",
-      "People/童子賢.md",
-      "People/簡立峰.md",
-      "People/紀政.md",
-      "People/羅大佑.md",
-      "People/莊智淵.md",
-      "People/葉國一.md",
-      "People/蔡明亮.md",
-      "People/蕭青陽.md",
-      "People/許文龍.md",
-      "People/許淑淨.md",
-      "People/許芳宜.md",
-      "People/謝淑薇.md",
-      "People/郭台銘.md",
-      "People/郭泓志.md",
-      "People/鄧雨賢.md",
-      "People/鄭兆村.md",
-      "People/鈕承澤.md",
-      "People/陳俊良.md",
-      "People/陳建仁.md",
-      "People/陳昇.md",
-      "People/陳映真.md",
-      "People/陳玉勳.md",
-      "People/陽岱鋼.md",
-      "People/魏哲家.md",
-      "People/魏德聖.md",
-      "People/黃春明.md",
-      "People/龍應台.md",
-      "Art/台灣當代雕塑發展.md",
-      "Economy/台灣外貿與全球供應鏈.md",
-      "Economy/台灣循環經濟與資源再利用.md",
-      "Economy/農業科技與精緻農業.md",
-      "Geography/城市特色與區域文化.md",
-      "Music/台灣原住民音樂傳統.md",
-      "Geography/台灣島嶼地理特色與形成.md",
-      "Geography/台灣農業地景與產業分布.md",
-      "Geography/漯底山.md",
-      "Lifestyle/台灣市場文化與傳統市場.md",
-      "Nature/台灣鳥類窗殺議題：隱形的都市殺手.md",
-      "Society/台灣社區與里文化.md"
+      "People/張忠謀.md"
     ],
     "ko": [
       "Culture/台灣教會公報：一份活了一百四十年的報紙，和它被沒收的那一天.md",
@@ -1714,12 +1566,13 @@
   "orphans": {
     "en": [],
     "ja": [
-      "ja/Economy/taiwan-machine-tool-industry.md",
+      "ja/Economy/taiwan-industrial-transformation.md",
+      "ja/Economy/taiwan-industrial-transformation-trajectory.md",
       "ja/Technology/taiwan-robotics-industry.md",
       "ja/Art/comics-and-illustration.md",
       "ja/Art/contemporary-sculpture.md",
       "ja/Society/community-and-li-culture.md",
-      "ja/Society/learning-poverty-in-taiwan.md",
+      "ja/Language/test-article.md",
       "ja/People/yen-chang-shou.md",
       "ja/History/sino-french-war-in-taiwan.md",
       "ja/History/taiwan-strait-crises.md",
