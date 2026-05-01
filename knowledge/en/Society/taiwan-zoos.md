@@ -1,15 +1,29 @@
 ---
-title: "Taiwan's Zoos: The Oldest Is Not Muzha, and the Largest Is Not the Whole Story"
-description: "From Yuan Zai the panda to overnight stays at the marine museum, Taiwan's animal institutions form a map of cities, tourism and ocean education."
+title: "Taiwan's Zoos: The Oldest Isn't in Muzha, and the Largest Is More Than Just a Zoo"
+description: "From Yuan Zai to overnight stays at the National Museum of Marine Biology, Taiwan's zoos are not a simple list of family attractions — they are an island itinerary shaped by cities, tourism, and ocean education growing together."
 date: 2026-04-25
-tags: ['zoos', 'Taipei Zoo', 'Hsinchu Zoo', 'Shoushan Zoo', 'Xpark', 'NMMBA', 'Leofoo Village', 'Wanpi World', 'Farglory Ocean Park']
+tags:
+  [
+    'zoo',
+    'Taipei Zoo',
+    'Hsinchu Zoo',
+    'Shoushan Zoo',
+    'Xpark',
+    'National Museum of Marine Biology',
+    'Leofoo Village',
+    'Naughty World',
+    'Farglory Ocean Park',
+  ]
 subcategory: 'Animals and Ethics'
 author: 'p3nchan'
 readingTime: 8
 category: 'Society'
-translatedFrom: 'Society/台灣有哪些動物園.md'
 lastVerified: 2026-04-25
 lastHumanReview: false
+translatedFrom: 'Society/台灣有哪些動物園.md'
+sourceCommitSha: 'eb1ea071'
+sourceContentHash: 'sha256:11766ba8870a1b0b'
+translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 
 # Taiwan's Zoos: The Oldest Is Not Muzha, and the Largest Is Not the Whole Story
@@ -28,17 +42,17 @@ Taiwan's zoo map, though, does not begin or end at Muzha. Yuanshan in 1914, Hsin
 
 The tricky part is terminology. Taipei is the oldest institution; Hsinchu is the oldest zoo still on its original site; Shoushan has both Sizihwan and Shoushan periods. Moves like these usually mean a city has changed its ideas about land, transport and animals.
 
-| Institution | Place | Key dates | Scale | Signature | Latest visits found |
-| --- | --- | --- | --- | --- | --- |
-| Taipei Zoo | Taipei | 1914 Yuanshan; 1986 Muzha | 165 ha | Pandas, black bears, Pangolin Dome | 2,624,973 in 2024 |
-| Hsinchu Zoo | Hsinchu | 1936; reopened 2019 | About 2.7 ha | Oldest original-site zoo; habitat-style redesign | 702,608 in 2025 |
-| Shoushan Zoo | Kaohsiung | 1978 Sizihwan; 1986 Shoushan; 2022 reopening | 12.89 ha | Hillside skywalks, gibbons, black bears | 860,026 in 2024 |
-| Wanpi World Safari Zoo | Tainan | 1994 | About 20 ha | Semi-open private zoo; capybaras and giraffes | No full annual figure found |
-| Leofoo Village Safari Zoo | Hsinchu County | 1979 wildlife park; expanded after 1989 | 73-ha wildlife park; resort about 100 ha | African Tribe, train, predator bus | No full operator figure found |
-| Xpark | Taoyuan | 2020 | 14,817 sq. m | Yokohama Hakkeijima urban aquarium | No full annual figure found |
-| National Museum of Marine Biology and Aquarium | Pingtung | 2000 | 96.81 ha overall; museum area 35.81 ha | Waters of Taiwan, Coral Kingdom, overnight stays | 878,622 in 2024 |
-| Farglory Ocean Park | Hualien | 2002; dolphin show ended 2026 | 51 ha | Ocean theme park; dolphin care base transition | No full annual figure found |
-| Yehliu Ocean World | New Taipei | 1981 | About 1.3 ha | Old-school ocean theater and aquarium | No full annual figure found |
+| Institution                                    | Place          | Key dates                                    | Scale                                    | Signature                                        | Latest visits found           |
+| ---------------------------------------------- | -------------- | -------------------------------------------- | ---------------------------------------- | ------------------------------------------------ | ----------------------------- |
+| Taipei Zoo                                     | Taipei         | 1914 Yuanshan; 1986 Muzha                    | 165 ha                                   | Pandas, black bears, Pangolin Dome               | 2,624,973 in 2024             |
+| Hsinchu Zoo                                    | Hsinchu        | 1936; reopened 2019                          | About 2.7 ha                             | Oldest original-site zoo; habitat-style redesign | 702,608 in 2025               |
+| Shoushan Zoo                                   | Kaohsiung      | 1978 Sizihwan; 1986 Shoushan; 2022 reopening | 12.89 ha                                 | Hillside skywalks, gibbons, black bears          | 860,026 in 2024               |
+| Wanpi World Safari Zoo                         | Tainan         | 1994                                         | About 20 ha                              | Semi-open private zoo; capybaras and giraffes    | No full annual figure found   |
+| Leofoo Village Safari Zoo                      | Hsinchu County | 1979 wildlife park; expanded after 1989      | 73-ha wildlife park; resort about 100 ha | African Tribe, train, predator bus               | No full operator figure found |
+| Xpark                                          | Taoyuan        | 2020                                         | 14,817 sq. m                             | Yokohama Hakkeijima urban aquarium               | No full annual figure found   |
+| National Museum of Marine Biology and Aquarium | Pingtung       | 2000                                         | 96.81 ha overall; museum area 35.81 ha   | Waters of Taiwan, Coral Kingdom, overnight stays | 878,622 in 2024               |
+| Farglory Ocean Park                            | Hualien        | 2002; dolphin show ended 2026                | 51 ha                                    | Ocean theme park; dolphin care base transition   | No full annual figure found   |
+| Yehliu Ocean World                             | New Taipei     | 1981                                         | About 1.3 ha                             | Old-school ocean theater and aquarium            | No full annual figure found   |
 
 The blanks matter. Public institutions usually publish annual reports; private operators often appear only in broader amusement-park statistics or scattered news.
 
@@ -48,7 +62,7 @@ Taipei Zoo is the old tree of Taiwan's zoo system. It opened at Yuanshan in 1914
 
 Its most famous animals are the giant pandas. Tuan Tuan (團團) and Yuan Yuan (圓圓) arrived from China in 2008, their names carrying a cross-strait message of reunion. Yuan Zai's 2013 birth turned the zoo into a stage for politics, media and city affection.
 
-But Taipei Zoo is not only pandas. Formosan black bears, pangolins, leopard cats and conservation research are where it connects to [[台灣生態多樣性熱點]].
+But Taipei Zoo is not only pandas. Formosan black bears, pangolins, leopard cats and conservation research are where it connects to [Taiwan's biodiversity hotspots](/en/Geography/taiwan-biodiversity-hotspots/).
 
 Hsinchu Zoo works in miniature. It is only about 2.7 hectares, yet it has stayed in Hsinchu Park since 1936. After closing in 2017, it reopened in 2019 as "Zoo Reborn," focused less on star animals than on removing iron cages from the visitor's view.
 
@@ -66,13 +80,13 @@ Its signature is a viewing system: a steam train through herbivores, a bus into 
 
 Wanpi World Safari Zoo in Xuejia, Tainan, opened in 1994. It says it now keeps more than 300 species and more than 2,000 animals in a semi-open setting. Social media remembers its capybaras, giraffes, alpacas, meerkats, servals and encounters.
 
-Wanpi's value and risk both sit in "closeness." It brings children near animals, but it also makes welfare, feeding rules and encounter boundaries daily management. The full debate belongs in [[動物園與展演動物倫理]]; the directory point is that private parks often sell a distance public zoos avoid.
+Wanpi's value and risk both sit in "closeness." It brings children near animals, but it also makes welfare, feeding rules and encounter boundaries daily management. The full debate belongs in [zoo and exhibition animal ethics](/en/Society/zoo-and-exhibition-animal-ethics/); the directory point is that private parks often sell a distance public zoos avoid.
 
 ## Aquariums and Ocean Parks
 
 If land zoos show how cities make room for animals, Taiwan's aquariums show how an island imagines the sea. The National Museum of Marine Biology and Aquarium in Checheng, Pingtung, opened in 2000, with Waters of Taiwan, Coral Kingdom and World Waters as its core galleries.
 
-NMMBA is also a museum, research institution, education site and tourist attraction. Its overnight program became a family-travel classic because it moves the ocean from a textbook to the side of the body. It reads naturally with [[台灣海洋保育與挑戰]].
+NMMBA is also a museum, research institution, education site and tourist attraction. Its overnight program became a family-travel classic because it moves the ocean from a textbook to the side of the body. It reads naturally with Taiwan's marine conservation and challenges (台灣海洋保育與挑戰).
 
 Xpark belongs to another era. Opened in 2020 beside Taoyuan's high-speed rail station, it was created by Japan's Yokohama Hakkeijima and calls itself Taiwan's first "urban aquatic park," with about 300 species and more than 30,000 aquatic and terrestrial animals.
 

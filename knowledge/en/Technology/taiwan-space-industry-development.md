@@ -18,6 +18,9 @@ featured: true
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'Technology/台灣太空產業發展.md'
+sourceCommitSha: '4af626f4'
+sourceContentHash: 'sha256:6d36d0208e7a562f'
+translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 
 # Taiwan's Space Industry: A Satellite Powerhouse Without a Rocket
@@ -152,4 +155,4 @@ Taiwan is a satellite manufacturing power without its own rocket — but it has 
 
 ---
 
-_See also: [[Semiconductor Industry]] · [[Taiwan Startup Ecosystem]] · [[Taiwan 5G and Digital Transformation]]_
+_See also: [Semiconductor Industry](/en/taiwan-semiconductor-industry/) · [Taiwan Startup Ecosystem](/en/Technology/taiwan-startup-ecosystem/) · [Taiwan Electric Vehicle Industry Chain](/en/Technology/taiwan-electric-vehicle-industry-chain/)_

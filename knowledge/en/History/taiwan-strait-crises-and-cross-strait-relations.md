@@ -1,370 +1,159 @@
 ---
-title: 'Taiwan Strait Crises and Cross-Strait Relations Development'
-description: 'A comprehensive review of three major Taiwan Strait crises and the 77-year evolution of cross-strait relations, understanding the historical context and contemporary challenges of Taiwan Strait tensions'
-date: 2026-03-20
+title: 'Taiwan Strait Crises and Cross-Strait Relations'
+description: "From an elderly woman in Kinmen's memory of artillery shells to a young Taipei resident's blasé daily life, seventy years of Taiwan Strait crises and how they shaped Taiwanese collective psychology"
+date: 2026-03-18
 tags:
   [
-    'Cross-Strait Relations',
-    'Taiwan Strait Crisis',
-    'History',
-    'International Relations',
-    'Geopolitics',
+    'cross-strait relations',
+    'Taiwan Strait crisis',
+    'history',
+    'international relations',
+    'geopolitics',
   ]
+subcategory: '民主與治理'
 author: 'Taiwan.md'
 difficulty: 'advanced'
 readingTime: 15
-featured: true
-lastVerified: 2026-03-20
+featured: false
+lastVerified: 2026-03-25
+lastHumanReview: false
 translatedFrom: 'History/台海危機與兩岸關係發展.md'
+sourceCommitSha: 'f78028db'
+sourceContentHash: 'sha256:cff96f2b8cf87a1f'
+translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 
-# Taiwan Strait Crises and Cross-Strait Relations Development
+# Taiwan Strait Crises and Cross-Strait Relations
 
-## 30-Second Overview
+## Missiles on the Eve of the Election
 
-Since the division of Taiwan and mainland China in 1949, the Taiwan Strait has become one of the world's most critical geopolitical flashpoints. Three major Taiwan Strait crises have occurred throughout history: the First Crisis (1954-1955), Second Crisis (1958), and Third Crisis (1995-1996), each reshaping the dynamics of cross-strait relations. In recent years, intensifying US-China strategic competition has heightened Taiwan Strait tensions, with the international community closely watching for a potential Fourth Taiwan Strait Crisis.
+March 8, 1996. Two weeks before Taiwan's first direct presidential election. That morning, the People's Liberation Army fired East Wind-15 ballistic missiles into waters 29 kilometers off Keelung and 37 kilometers off Kaohsiung. More than seventy percent of Taiwan's commercial shipping passed through these two ports, and the shipping lanes were instantly disrupted.
 
-**Keywords**: Taiwan Strait Crisis, Cross-Strait Division, Kinmen Artillery Bombardment, Missile Crisis, One China with Different Interpretations, 1992 Consensus
+The Taipei stock market plunged. Lines formed at Taoyuan Airport as people scrambled for tickets out. Wealthy individuals moved assets offshore. Television news ran missile test footage on a loop.
 
-## Why It Matters
+But two weeks later, on March 23, 76% of Taiwan's eligible voters walked to the polls. Lee Teng-hui won with 54% of the vote — a full five percentage points higher than pre-missile-crisis polls. The missiles didn't scare voters away. They helped him win.
 
-The development of Taiwan Strait relations affects not only the fate of 23 million Taiwanese and 1.4 billion mainland Chinese, but also serves as a key factor in global geopolitical stability. Understanding the historical context of Taiwan Strait crises helps:
+This was the most ironic moment in seventy years of cross-strait relations: military coercion produced exactly the result the coercing party least wanted.
 
-- **Recognize geopolitical realities**: The Taiwan Strait's position in the First Island Chain affects US-China-Japan strategic dynamics
-- **Understand cross-strait evolution**: The complex journey from military confrontation to economic cooperation and back to political divergence
-- **Assess regional security risks**: 50% of global commercial shipping and 60% of semiconductor production pass through the Taiwan Strait
-- **Grasp international law challenges**: Issues of sovereignty disputes and freedom of navigation in international waters
+## One Thousand Men Holding a Gateway
 
-## Historical Background: The Beginning of Division (1949)
+Four decades earlier. At seven in the morning on January 18, 1955, on a small island called Yijiangshan off the coast of Zhejiang, Colonel Wang Sheng-ming was preparing to face the last day of his life.
 
-### End of the Chinese Civil War
+The PLA committed 4,000 to 5,000 troops, 186 naval vessels, and more than 180 aircraft against this island. The defenders numbered only 1,030 — six assault battalions of the Anti-Communist National Salvation Army. The force ratio was roughly one to four. When Peng Dehuai laid out the battle plan, he said: "People say don't use a butcher's knife to kill a chicken, but this time we're using the cattle knife to slaughter the chicken." This was the PLA's first-ever joint land-sea-air operation; Beijing could not afford to lose.
 
-In 1949, as the Second Chinese Civil War concluded, the Chinese Communist Party established the People's Republic of China on the mainland, while the defeated Republic of China (ROC) government retreated to Taiwan. From then on, the Taiwan Strait became a divide, creating a situation of political separation and military confrontation across the strait.
+The battle lasted less than two days. By 2 a.m. on January 19, the island had changed hands. Wang Sheng-ming was killed in action; his deputy, Wang Fu-bi, was taken prisoner. PLA sources claimed 393 killed and 1,027 wounded on their side. The ROC military reported 720 killed among the defenders.
 
-**Key Turning Points**:
+Yijiangshan Island was tiny, but it was the gateway to Dachen Island. After losing Yijiangshan, Chiang Kai-shek decided to abandon the entire Taizhou Archipelago. In February 1955, under the escort of the U.S. Seventh Fleet, all military and civilian personnel were evacuated from Dachen Island. Chiang Ching-kuo was dispatched to communicate with the residents and accompanied them out together. Three days later, the PLA occupied all the islands off the eastern Zhejiang coast.
 
-- **April 1949**: People's Liberation Army crosses the Yangtze River; ROC government relocates to Guangzhou
-- **October 1949**: People's Republic of China established
-- **December 1949**: ROC government moves to Taipei
-- **March 1950**: Chiang Kai-shek resumes office in Taipei, proclaiming "retaking the mainland"
+The impact of this small battle far exceeded what anyone predicted. It directly gave birth to the Mutual Defense Treaty between the United States and the Republic of China in December 1954, formalizing the U.S.-Taiwan military alliance. At the same time, the nuclear threats America issued during the crisis convinced Beijing to commit to developing its own nuclear weapons. The fall of a one-thousand-man island unexpectedly reshaped the entire strategic landscape of East Asia.
 
-### Formation of the Cold War Structure
+## Forty-Four Days, 470,000 Artillery Shells
 
-The Taiwan Strait division coincided with the beginning of the global Cold War, giving cross-strait confrontation an ideological character:
+August 23, 1958. Summer on Kinmen suddenly became hell.
 
-- Taiwan became America's forward base for containing communism
-- The mainland gained political and military support from the Soviet Union
-- Both sides insisted on a "One China" position, refusing to recognize each other's legitimacy
+That afternoon, 569 PLA artillery pieces opened fire simultaneously. Kinmen Island spans approximately 150 square kilometers in total; over the following forty-four days, it absorbed more than 470,000 artillery shells — one of the highest recorded densities of artillery bombardment per unit area in military history.
 
-## First Taiwan Strait Crisis (1954-1955)
+The first day of the bombardment was catastrophic. Three deputy commanders of the ROC Kinmen Defense Command were all killed: Ji Xing-wen, Zhao Jia-xiang, and Zhang Jie. Defense Commander Hu Lien and visiting Defense Minister Yu Da-wei were both wounded by shrapnel. Ji Xing-wen was the legendary soldier who fired the first shot of resistance against Japan at the Marco Polo Bridge — he died beside a dining table on Kinmen.
 
-### Battle of Yijiangshan Island
+Life for Kinmen's residents was utterly transformed. Of the island's 9,053 structures, all were destroyed or heavily damaged; 618 military and civilians were killed and 2,610 injured. Residents were forced to move into underground tunnels. Kinmen entered a thirty-six-year period of wartime administration (1956–1992): military control over the entire island regulated residents' daily movement, communications, and economic activities. There was a nighttime curfew; fishermen needed permits to go to sea; mail was subject to censorship.
 
-The First Taiwan Strait Crisis arose from ROC military raids on mainland coastal areas, triggering communist retaliation.
+The aerial battles during the artillery war were equally fierce. The United States provided the ROC Air Force with the then-state-of-the-art Sidewinder missiles, creating air superiority. The U.S. Seventh Fleet helped break the naval blockade and maintain supply lines.
 
-**Crisis Timeline**:
+On October 6, Beijing issued a "Message to Compatriots in Taiwan" in the name of Defense Minister Peng Dehuai, announcing a one-week ceasefire on "humanitarian grounds." This was then modified to "shell on odd days, cease on even days" — a bombardment on odd-numbered calendar days, a halt on even-numbered ones. This absurd rhythm continued until January 1, 1979, the day the United States and the People's Republic of China established diplomatic relations, when Beijing formally announced it would cease the bombardment.
 
-- **September 3, 1954**: Communist forces begin shelling Kinmen, First Taiwan Strait Crisis erupts
-- **January 18, 1955**: PLA captures Yijiangshan Island, marking the first use of combined sea-air operations
-- **February 1955**: Dachen Island garrison evacuated with US military assistance
+The peculiarity of the 823 Artillery Bombardment lay in the fact that, from the beginning, its goal was never to occupy Kinmen. Mao Zedong wanted to test America's resolve to defend Taiwan's offshore islands, and to demonstrate to the international community Beijing's position on "liberating Taiwan." The shells were political signals; the homes of Kinmen's people were the price.
 
-**International Impact**:
+A BBC Chinese report once cited a widely circulated view: after this artillery war ended, a military reconquest of the mainland became virtually impossible, and the Taiwan government turned toward pursuing democracy and freedom. In this sense, 823 was a "Battle for Taiwan's Defense." The long peace that followed across the strait maintained the de facto division of the two sides, which in turn made the subsequent economic miracle and democratization possible.
 
-- US Congress passes the Formosa Resolution, authorizing the President to use force to defend Taiwan, Penghu, Kinmen, and Matsu
-- US signs Mutual Defense Treaty with ROC
-- Communist China faces nuclear threats for the first time but maintains "liberation of Taiwan" stance
+## A President Stranded Overnight on a Plane in Hawaii
 
-### Crisis Resolution
+The seeds of the 1996 missile crisis were actually planted in 1994.
 
-Under US nuclear threats and international mediation, the crisis gradually eased in 1955:
+That year, Lee Teng-hui was returning from a South American trip and his plane stopped in Honolulu, Hawaii to refuel. He applied to the U.S. government for an entry visa and was refused. The Clinton administration would not permit him to leave the military airbase where he had landed; he was forced to sleep on his own plane for a night. A State Department official privately acknowledged the situation was "embarrassing." Lee Teng-hui later complained that he had been "treated like a second-class leader."
 
-- Communist China announced willingness to negotiate with the US at the Bandung Conference
-- US-China ambassadorial talks begin in Geneva (1955-1970)
-- Established "brinkmanship" crisis management model
+This humiliation set off a chain reaction in Washington. Pro-Taiwan legislators began working the phones; lobbying firm Cassidy & Associates intervened to push the issue. In May 1995, the U.S. House of Representatives passed a resolution by 396 to 0, and the Senate by 97 to 1, calling on the State Department to allow Lee Teng-hui to visit the United States. The State Department relented.
 
-## Second Taiwan Strait Crisis (1958)
+On June 9 and 10, 1995, Lee Teng-hui returned to his alma mater Cornell University as an alumnus and delivered a lecture titled "Taiwan's Experience with Democracy." In that speech, he uttered the sentence that sent Beijing into fury: "Taiwan is a country with independent sovereignty." Beijing's response was four characters of classical Chinese: "This cannot be tolerated."
 
-### August 23 Kinmen Artillery Bombardment
+In July, Xinhua announced that the PLA would conduct missile tests. But through a secret back channel, Beijing sent a message to Lee Teng-hui's national policy adviser Tseng Yung-hsien: "Our ballistic missiles will be fired in Taiwan's direction in a few weeks, but you don't need to worry." Tseng Yung-hsien had met Yang Shangkun as Lee Teng-hui's secret envoy in 1992. This back channel let both sides know where the red lines were.
 
-The Second Taiwan Strait Crisis was larger in scale and longer in duration, known as the "823 Artillery Bombardment."
+Beginning July 21, 1995, the Second Artillery Corps fired six East Wind-15 missiles into waters thirty-six miles north of Taiwan. From August through November 1995, the East Sea Fleet conducted exercises with fifty-nine warships and 192 air sorties.
 
-**Crisis Outbreak**:
+In early 1996, as Taiwan's first direct presidential election approached, Beijing escalated. From January through February, 100,000 troops massed along the Taiwan Strait coast. The March 8 missile launches were aimed directly at waters off Keelung and Kaohsiung. America's response was to dispatch two carrier battle groups, the USS Independence and the USS Nimitz — the largest U.S. naval deployment in Asia since the Vietnam War.
 
-- **August 23, 1958**: PLA conducts intense shelling of Kinmen, firing over 470,000 shells in 44 days
-- Goal was not to capture Kinmen but to test US defense commitments to Taiwan
-- ROC forces successfully supplied Kinmen with US assistance, demonstrating defensive capabilities
+The outcome is well known. Lee Teng-hui won the election. The lesson Beijing took away was that the gap between its own military capabilities and those of the United States was too large. Jiang Zemin ordered the PLA to begin a decade-long modernization program.
 
-**Tactics and Strategy**:
+## An Uninhabited Island in the Middle of the Cold War
 
-- Communist forces employed "fight-stop-fight" tactics, avoiding direct confrontation with US forces
-- US provided advanced Sidewinder missiles, creating air superiority
-- Kinmen became a symbol of "Free China," enhancing international prestige
+Between the Second and Third Taiwan Strait Crises lay more than thirty years of Cold War standoff.
 
-**Crisis De-escalation**:
+In 1971, the Republic of China withdrew from the United Nations. In 1972, Nixon visited China. In 1979, the United States established diplomatic relations with Beijing and severed them with Taipei. Taiwan became increasingly isolated internationally, yet on the island itself, the economy took off at a remarkable pace and Taiwan became one of the Four Asian Tigers. These thirty years saw the two sides completely sealed off from each other politically, with civilian cultural ties sustained only by memory.
 
-- **October 6, 1958**: Communist China announces ceasefire for one week, crisis begins to ease
-- **October 25, 1958**: Adopts "shell on odd days, not on even days" strategy
-- Gradually evolved into symbolic shelling until complete cessation in 1979
+In 1987, Taiwan lifted martial law. That same year, veterans were allowed to return to the mainland to visit relatives. Some had left the mainland in their twenties; they returned as elderly men. Four decades of life had been cut in half by a strait.
 
-## Cross-Strait Relations During the Mid-Cold War (1960-1980)
+In 1992, the Straits Exchange Foundation and the Association for Relations Across the Taiwan Strait met in Hong Kong and reached the ambiguous agreement later called the "1992 Consensus." Beijing's interpretation was "both sides insist on one China"; Taipei's interpretation was "one China, each with its own interpretation." This artfully vague space maintained a framework for cross-strait relations for twenty years.
 
-### Solidification of Political Confrontation
+## The Sunflower Movement and a New Generation's Taiwanese Identity
 
-From 1960-1970, cross-strait relations were trapped in long-term confrontation:
+The Ma Ying-jeou years from 2008 to 2016 saw the two sides sign twenty-three agreements, including ECFA (the Economic Cooperation Framework Agreement). In 2015, Ma Ying-jeou and Xi Jinping shook hands in Singapore — the first meeting between leaders of the two sides since 1949.
 
-- Both sides insisted on "no coexistence between the government and bandits"
-- Fierce competition for "China representation" in international organizations like the UN
-- Diplomatic warfare through third-world countries
+But the 2014 Sunflower Movement changed everything. Students occupied the Legislative Yuan for twenty-three days, protesting the Cross-Strait Service Trade Agreement. On the surface it was concern about economic opening; at a deeper level, the anxiety was: will Taiwan lose its political autonomy through economic integration?
 
-**Key Events**:
+After the Sunflower Movement, Taiwanese society's attitude toward cross-strait relations showed a generational split. Long-term polling by the Election Study Center at National Chengchi University shows that those who identify as "Taiwanese" has risen continuously from 17.6% in 1992 to more than 60% in the 2020s, while those who identify as "Chinese" has dropped below 3%. Those who favor "maintaining the status quo" have consistently been the largest group, but the definition of "status quo" changes by generation. For young people, the status quo is that Taiwan is already a de facto independent state.
 
-- **1971**: ROC withdraws from the UN; PRC gains UN seat
-- **1972**: US President Nixon visits China; Shanghai Communiqué issued
-- **1979**: US establishes diplomatic relations with PRC, breaks relations with ROC
+## Pelosi Came; Taiwanese Were Playing Basketball
 
-### Social and Economic Changes
+On the evening of August 2, 2022, U.S. House Speaker Nancy Pelosi's plane landed at Taipei's Songshan Airport. BBC Chinese journalist Lu Chia-hung reported a scene from the scene that confused international media: on the basketball court next to the airport, young people finished their game and left. No one stood around to witness the arrival of the world's most powerful woman politician.
 
-Despite political opposition, both sides experienced significant changes:
+"Who is Pelosi?" Two of the reporter's Taipei friends — both working in the entertainment industry, both heavy internet users — had never heard the name.
 
-- Taiwan's economic takeoff, becoming one of the "Four Asian Tigers"
-- Mainland experienced Cultural Revolution turmoil, later beginning reform and opening
-- People maintained cultural and kinship ties, but political contact completely severed
+Beijing announced military exercises encircling Taiwan; missiles flew over Taiwan's main island for the first time. International media ran extensive coverage on whether war in the Taiwan Strait was imminent. In Taiwan, people went out to dinner, went shopping, and watched their streaming shows as usual. Culture writer Zhang Jie-ping, who studied in Guangzhou before moving to Taiwan, wrote on Facebook: "The Taiwan that the world imagines and tries to understand, and the Taiwan that Taiwanese people actually live in, are truly completely different places."
 
-## Third Taiwan Strait Crisis (1995-1996)
+Some compared Taiwan's reaction to that of South Koreans toward North Korean missiles: fear is present, but they've long since grown accustomed to it.
 
-### Lee Teng-hui's US Visit Triggers Crisis
+The real anxiety, however, appeared in markets. Taiwan's stock market fell. TSMC Chairman Mark Liu made a rare appearance on CNN to discuss war: "If China invades Taiwan, there will be no winners — everyone will lose."
 
-The Third Taiwan Strait Crisis occurred after the Cold War, reflecting new geopolitical realities.
+After Pelosi's visit, Beijing's military pressure became routine. PLA aircraft crossing the Taiwan Strait median line became daily news. In all of 2022, approximately 1,700 PLA aircraft intrusions were detected — far exceeding any previous year's record. Military activity has remained at high levels every year since. Chinese naval vessel activities around Taiwan's surrounding waters have also increased substantially.
 
-**Crisis Origin**:
+Behind these numbers lies a fundamental change: before 2022, the Taiwan Strait median line was a tacitly acknowledged buffer zone; after 2022, that line effectively ceased to exist.
 
-- **June 1995**: President Lee Teng-hui visits Cornell University in the US, delivers speech
-- Communist China considers this a major provocation of Taiwan's "two Chinas" policy
-- **July-November 1995**: PLA conducts missile tests and military exercises in Taiwan Strait
+## A Structural Deadlock
 
-**1996 Missile Crisis**:
+Seventy years of Taiwan Strait crisis history follows a recurring logical chain: one side takes action the other views as changing the status quo; the other responds with military displays; the United States intervenes to restore balance; both sides step back from the brink of total war. So it was in 1954, in 1958, in 1996, and roughly so in 2022.
 
-- **March 1996**: On the eve of Taiwan's first direct presidential election, PLA again tests missiles
-- Missile impact points only 60 kilometers from Kaohsiung and Keelung ports
-- Taiwan's stock market plunges, capital flees, triggering financial panic
+But the conditions sustaining this cycle are changing. In 1996, two U.S. carrier battle groups were enough to make Beijing back down; today the PLA's anti-access/area-denial capabilities mean U.S. carriers can no longer approach the Taiwan Strait so easily. Taiwan's economic dependence on the mainland has declined from its peak during the Ma era, but the world's dependence on Taiwan's semiconductors has reached historical highs. The "silicon shield" has become Taiwan's newest security barrier.
 
-**US Military Intervention**:
+Cross-strait civilian exchanges have partially resumed after the pandemic, but trust continues to erode. The NCCU polling data tells the full story: Taiwanese identity continues to rise, support for unification continues to fall, and Beijing's will to unify has never softened. These are parallel curves that cannot be bridged through negotiation.
 
-- US deploys two carrier battle groups to Taiwan Strait
-- Demonstrates support for Taiwan's democracy and warning against communist military threats
-- Becomes the most serious US-China military confrontation since the Cold War
+When Xi Jinping publicly proposed the "one country, two systems Taiwan formula" in 2019, the response from Taiwanese society was nearly unanimous rejection. The timing of Hong Kong's Anti-Extradition Law Amendment Bill movement had driven the proposal's persuasiveness to its lowest point.
 
-### Political Impact of the Crisis
+## Kinmen's Granite Tunnels
 
-The Third Taiwan Strait Crisis had profound effects:
+Kinmen Island has more than 130 kilometers of underground tunnels. During the 823 Artillery Bombardment, residents sheltered inside them, gave birth, and held weddings. After the wartime administration was lifted, the tunnels became tourist attractions. Tour guides lead visitors from Taiwan's main island and from mainland China through the places where artillery shells were once stored, past motivational slogans carved into the walls.
 
-- **Taiwan Internal**: Strengthened Taiwanese democratic identity and local consciousness
-- **Cross-Strait Relations**: Established "military intimidation vs. democratic consolidation" confrontation pattern
-- **US-China Relations**: US reassessed Taiwan policy, strengthened military cooperation
-- **International Response**: Enhanced international attention to Taiwan Strait stability
+After the Small Three Links opened in 2001, Kinmen residents could take a boat to Xiamen. They have coffee there, do their shopping, and conduct business. Some Kinmen residents have relatives on the side where the shells once came from. The nearest Xiamen coastline from Kinmen is only 2.1 kilometers away. On a clear day, the tall buildings across the water are visible to the naked eye.
 
-## New Developments in Cross-Strait Relations (2000-2020)
+In August 2022, when the PLA fired missiles in exercises around Taiwan, several landed in Japan's exclusive economic zone. Daily life on Kinmen showed no obvious change. The stone lion Wind Lion Gods on the island still stood at their usual intersections; the duty-free shops operated as normal. For seventy years, the people of Kinmen have understood war more intimately than anyone else, and have become more skilled than anyone else at living with threat.
 
-### Political Deadlock and Economic Integration
+The shrapnel from those artillery shells in the granite tunnels was later taken by Kinmen's blacksmiths and forged into kitchen cleavers. "Kinmen cleavers" became a famous tourist product — good steel, said to be sharper and more durable than ordinary knives. Artillery shells turned into tools for cutting vegetables. This is probably the most precise metaphor for seventy years in the Taiwan Strait.
 
-Entering the 21st century, cross-strait relations showed a complex pattern of "political cold, economic hot":
+**Further Reading:**
 
-**Democratic Progressive Party Administration (2000-2008)**:
-
-- Chen Shui-bian government promoted "one country on each side" theory, heightening political tensions
-- Communist China enacted Anti-Secession Law (2005), legalizing conditions for military unification
-- Economic relations continued developing, Taiwan business investment in mainland reached peak
-
-**Kuomintang Administration (2008-2016)**:
-
-- Ma Ying-jeou government accepted "1992 Consensus," significantly improving cross-strait relations
-- Signed 23 agreements, including Economic Cooperation Framework Agreement (ECFA)
-- Achieved cross-strait leaders' meeting (2015 Ma-Xi meeting)
-
-### Service Trade Agreement Controversy and Sunflower Movement
-
-The 2014 Sunflower Student Movement marked Taiwan's rethinking of cross-strait relations:
-
-- Service Trade Agreement raised social concerns
-- Students occupied the Legislative Yuan for 23 days, demanding clause-by-clause review
-- Reflected Taiwan society's worries about politicization of economic integration
-
-## Contemporary Taiwan Strait Challenges (2016-2026)
-
-### Intensifying US-China Strategic Competition
-
-Over the past decade, Taiwan Strait tensions have become more complex due to US-China strategic competition:
-
-**Mainland China Policy Shift**:
-
-- Xi Jinping proposed "Chinese Dream" and "Great Rejuvenation of Chinese Nation"
-- Accelerated military modernization, significantly enhanced PLA capabilities
-- Urgent unification timeline, proposing "peaceful unification, one country two systems"
-
-**US Policy Adjustment**:
-
-- Trump administration initiated US-China trade war, Taiwan became strategic asset
-- Biden administration continues tough China policy, strengthens Taiwan support
-- Taiwan Relations Act and Six Assurances receive renewed emphasis
-
-**Taiwan's Democratic Consolidation**:
-
-- Tsai Ing-wen government rejects "1992 Consensus," emphasizes "Republic of China (Taiwan)"
-- Polls show rising Taiwan identity, declining unification support
-- Strengthened security cooperation with US, Japan, India, and Australia
-
-### Fourth Taiwan Strait Crisis?
-
-Since 2022, Taiwan Strait tensions have risen again, with international attention on a potential Fourth Taiwan Strait Crisis:
-
-**Triggering Events**:
-
-- **August 2022**: US House Speaker Pelosi visits Taiwan
-- Communist China conducts military exercises around Taiwan, first missiles fly over Taiwan proper
-- Normalized military aircraft incursions, changing Taiwan Strait status quo
-
-**Structural Changes**:
-
-- US-China competition expands from trade to comprehensive technology and military competition
-- Taiwan Strait becomes key battlefield for US-China "Thucydides Trap"
-- Democratic values vs. authoritarian expansion ideological confrontation
-
-## Evolution of Taiwan Strait Crisis Characteristics
-
-### Crisis Management Models
-
-Three Taiwan Strait crises demonstrated different crisis management characteristics:
-
-| Crisis | Period    | Main Features           | International Context    | Resolution Method      |
-| ------ | --------- | ----------------------- | ------------------------ | ---------------------- |
-| First  | 1954-1955 | Limited war probing     | Early Cold War           | US nuclear deterrence  |
-| Second | 1958      | Prolonged attrition war | Sino-Soviet split period | Tactical compromise    |
-| Third  | 1995-1996 | Precision deterrence    | Post-Cold War            | US military deterrence |
-
-### Logic of Crisis Escalation
-
-Taiwan Strait crisis escalation typically follows specific logic:
-
-1. **Political Provocation**: One side takes political action viewed as provocative by the other
-2. **Military Display**: Responds with military exercises or force threats
-3. **International Intervention**: US and other external powers take positions or intervene
-4. **Controlled Escalation**: All parties seek compromise while avoiding full-scale war
-
-## Institutionalization Attempts in Cross-Strait Relations
-
-### 1992 Consensus and One China, Different Interpretations
-
-The "1992 Consensus" reached by both sides in 1992 is the most important political foundation:
-
-- **Mainland interpretation**: Both sides adhere to One China principle
-- **Taiwan interpretation**: One China, each side's own interpretation
-- **Controversy**: DPP questions its existence and legitimacy
-
-### Institutionalized Exchange Mechanisms
-
-Cross-strait established multi-level institutionalized exchanges:
-
-- **SEF and ARATS**: Authorized civilian institutions on both sides
-- **Cross-strait talks**: Main platform for handling cross-strait affairs
-- **Economic agreements**: Legal framework for economic cooperation
-
-## Analysis of Contemporary Taiwan Strait Situation
-
-### Changes in Military Balance
-
-Taiwan Strait military balance has undergone major changes in recent years:
-
-**Mainland China Military Enhancement**:
-
-- Naval and air force modernization with long-range projection capabilities
-- Mature Anti-Access/Area Denial (A2/AD) strategy
-- Rapidly developing cyber warfare and space warfare capabilities
-
-**Taiwan Defense Strategy Adjustment**:
-
-- From "defensive consolidation, multi-layered deterrence" to "asymmetric warfare"
-- Strengthened urban warfare and guerrilla warfare capabilities
-- Increased defense budget, modernized weapons and equipment
-
-**US Military Commitments**:
-
-- "Strategic ambiguity" policy faces challenges
-- Significantly increased arms sales scale and quality
-- Strengthened regional alliance system
-
-### Economic Interdependence and Decoupling
-
-Cross-strait economic relations experienced transformation from integration to decoupling:
-
-- Mainland is Taiwan's largest trading partner, but dependence declining
-- Technology war prompts Taiwan businesses to return or relocate to third countries
-- Supply chain restructuring changes cross-strait economic relations
-
-## International Law and Taiwan Strait Status
-
-### Legal Status Disputes
-
-Taiwan Strait's legal status is a complex international law issue:
-
-- **Taiwan Status Undetermined Theory**: Some international law scholars believe Taiwan's status remains undetermined
-- **Civil War Continuation Theory**: Both cross-strait governments claim civil war continues
-- **Effective Governance Theory**: Taiwan possesses actual elements of statehood
-
-### Freedom of Navigation Rights
-
-Taiwan Strait's international waters status involves global navigation freedom:
-
-- Navigation freedom rights guaranteed by international law
-- US regularly conducts "Freedom of Navigation Operations"
-- Controversial communist claims of Taiwan Strait jurisdiction
-
-## Future Prospects and Challenges
-
-### Structural Contradictions
-
-Current Taiwan Strait relations face irreconcilable structural contradictions:
-
-- Taiwan's democratization and localization trends vs. mainland unification timeline pressure
-- US maintaining status quo vs. China changing status quo
-- Geopolitical competition vs. economic interdependence
-
-### Possible Development Scenarios
-
-Scholars analyze possible future Taiwan Strait development scenarios:
-
-1. **Maintaining Status Quo**: Continue division while managing risks
-2. **Crisis Management**: Reduce conflict risks through institutionalization
-3. **Peaceful Unification**: Achieve unification through political negotiations
-4. **Military Conflict**: Crisis management failure leading to war
-
-### Risk Control Mechanisms
-
-Establishing effective risk control mechanisms is urgent:
-
-- **Restore Official Dialogue Channels**: Rebuild institutionalized communication
-- **Establish Military Confidence-Building Measures**: Avoid accidental conflicts
-- **Strengthen International Mediation Role**: UN and other international organizations intervention
-- **Continue Civilian Exchanges**: Maintain societal understanding and dialogue
-
-## Conclusion
-
-Taiwan Strait crises and cross-strait relations development reflect the complexity of modern international relations. From the 1949 division to 77 years later, cross-strait relations have experienced different stages including military confrontation, political negotiations, economic integration, and strategic competition.
-
-Historical experience tells us that while Taiwan Strait crises carry high risks, conflicts can be avoided through rational crisis management and international mediation. However, contemporary Taiwan Strait situation's complexity far exceeds the past, requiring greater wisdom and restraint from all parties to maintain Taiwan Strait peace and stability.
-
-Understanding the historical context of Taiwan Strait crises not only helps assess current risks but, more importantly, seeks possible peaceful paths for resolving future disputes. In the era of globalization, Taiwan Strait peace and stability concerns not only cross-strait people's welfare but is also an important component of world peace.
+- The Mountain Makers: A Century's Gamble — Xiao Ju-chen's 2025 documentary, five years of interviews with 80+ semiconductor pioneers, entering the CHIPS Act investment centers of Purdue, Wisconsin, and Michigan in 2026
+- Taiwan's Defense and Military Modernization — From the porcupine strategy to the M1A2T tank, the fundamental transformation of Taiwan's defense logic after three Taiwan Strait crises
+- Taiwan's Diplomatic Allies and International Relations — The other front beyond military confrontation: how Taiwan seeks its place in the international system
+- The 2026 Cheng-Xi Meeting: Ten Minutes of KMT-CCP Leadership's Reunion After Ten Years — The latest chapter in seventy years of cross-strait interaction: the KMT chairman's ten minutes with Xi Jinping in Beijing
+- Teresa Teng — Another battleground of Cold War soft power: her songs permeated the mainland; in 1989 she stood at Happy Valley with an "anti-martial law" sign; in 1991 she broadcast to the mainland from the Masan Observation Post
 
 ## References
 
-1. BBC Chinese (2022). "Review of Historical Taiwan Strait Crises: From Yijiangshan Island Battle and Kinmen Artillery Bombardment to Missile Crisis." [Online Resource](https://www.bbc.com/zhongwen/trad/chinese-news-53834569)
-2. Wikipedia (2026). "Taiwan Strait Crisis." [Online Resource](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E6%B5%B7%E5%B3%BD%E5%8D%B1%E6%A9%9F)
-3. Ministry of National Defense Historical Compilation and Translation Office (2020). "History of Cross-Strait Military Relations." MND Historical Compilation Office.
-4. Pao Tsung-ho (2019). "Cross-Strait Relations." Wu-Nan Book Publisher.
-5. Lin Cheng-yi (2021). "Research on Taiwan Strait Crises." National Chengchi University Press.
-6. Chen Yung-kang (2018). "Selected Historical Materials on Kinmen Artillery War." Kinmen County Government.
-7. Su Chi (2014). "Twenty Years of Cross-Strait Turbulence: A Record." Commonwealth Publishing.
-8. Chao Chun-shan (2020). "Divided China: Seventy Years of Cross-Strait Relations." China Times Publishing.
-9. CommonWealth Magazine (2022). "1996 Taiwan Strait Crisis Witness Chang Jung-feng: This Chinese Military Exercise 'Closest Ever'." [Online Resource](https://www.cw.com.tw/article/5122255)
-10. Academia Sinica Institute of Modern History (2022). "Compilation of Cross-Strait Relations Historical Materials." AS Institute of Modern History.
-11. Academia Historica (2023). "Republic of China and Taiwan Strait Relations Archives." Academia Historica.
-12. Tai Hong-chao (2017). "Taiwan Strait Crisis Under the Cold War." Linking Publishing.
+1. BBC Chinese (2022). "Looking Back at Taiwan Strait Crises: From the Battle of Yijiangshan Island and the Kinmen Artillery Bombardment to the Missile Crisis." [https://www.bbc.com/zhongwen/trad/chinese-news-53834569](https://www.bbc.com/zhongwen/trad/chinese-news-53834569)
+2. BBC Chinese (2022). "Observations on Pelosi's Taiwan Visit: Why Aren't Taiwanese Worried as Cross-Strait Tensions Rise?" [https://www.bbc.com/zhongwen/trad/chinese-news-62402927](https://www.bbc.com/zhongwen/trad/chinese-news-62402927)
+3. Wikipedia. "Battle of Yijiangshan Island." [https://zh.wikipedia.org/wiki/一江山島戰役](https://zh.wikipedia.org/wiki/%E4%B8%80%E6%B1%9F%E5%B1%B1%E5%B3%B6%E6%88%B0%E5%BD%B9)
+4. Wikipedia. "Kinmen Artillery Bombardment." [https://zh.wikipedia.org/wiki/金門砲戰](https://zh.wikipedia.org/wiki/%E9%87%91%E9%96%80%E7%A0%B2%E6%88%B0)
+5. Wikipedia. "Third Taiwan Strait Crisis." [https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis](https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis)
+6. Election Study Center, National Chengchi University. "Trend Distribution of Taiwanese/Chinese Identity Among Taiwan Residents." [https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960)
+7. CommonWealth Magazine (2022). "Witness to the 1996 Taiwan Strait Crisis Chang Jung-feng: China's Exercises This Time Are 'Closest Yet.'" [https://www.cw.com.tw/article/5122255](https://www.cw.com.tw/article/5122255)
+8. CNN (2022). "TSMC Chairman Mark Liu Interview." [https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn](https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn)
+9. Su Chi (2014). Twenty Years of Cross-Strait Turbulence: A Factual Record. Commonwealth Publishing. [https://www.books.com.tw/products/0010831375](https://www.books.com.tw/products/0010831375)
+10. Sankei Shimbun (2019). "Secret Records on Lee Teng-hui" series, on the Tseng Yung-hsien back channel and secret communications before the missile crisis.

@@ -1,140 +1,164 @@
 ---
-title: "From Pole Dancers at Funerals to Ashes Under a Tree: Taiwan's Quiet Death Revolution"
-description: 'In fifty years, Taiwan went from elaborate burial processions with hired mourners and electronic flower cars to a 98.7% cremation rate. Now, over 140,000 people have chosen to vanish entirely — no grave, no headstone, just a tree.'
-date: 2026-04-08
-tags:
-  [
-    'funeral culture',
-    'green burial',
-    'cremation',
-    'filial piety',
-    'Qingming Festival',
-    'views on death',
-  ]
-subcategory: 'Culture'
-category: 'Culture'
-author: 'Taiwan.md'
-featured: false
-readingTime: 13
-lastVerified: 2026-04-08
-lastHumanReview: false
 translatedFrom: 'Culture/台灣迷因.md'
+sourceCommitSha: 'c860d150'
+sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
+translatedAt: '2026-05-01T12:21:52+08:00'
+title: 'When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve'
+description: "From 'Brother Jie, don't!' to TongShen serving hot pot, Taiwan memes are not just entertainment — they are a sophisticated social pressure-release system that transforms embarrassment, trauma, and anxiety into rituals of collective healing."
+date: 2026-03-24
+tags: ['meme', 'internet culture', 'Taiwan local', 'PTT', 'social media']
+subcategory: 'Internet Culture'
+author: 'Taiwan.md Contributors'
+readingTime: 8
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
 ---
 
-> **30-Second Overview:** In 2009, Master Sheng Yen, one of Taiwan's most influential Buddhist leaders, died and left a will that fit in a single sentence: no obituary, no tomb, no headstone. His ashes were buried beneath a tree, unmarked. That year, Taiwan's cremation rate was already approaching 90 percent. By 2024, it hit 98.7% — virtually no one is buried in the ground anymore. From funeral processions featuring pole dancers on neon-lit floats to families quietly scattering ashes in a park, Taiwan's relationship with death has been completely rewritten in a single generation.
+# When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve
 
-On February 3, 2009, Master Sheng Yen (聖嚴法師) passed away in Taipei at the age of seventy-nine. His will was remarkably brief: no obituary, no Buddhist ceremony, no tomb, no headstone, no banners, no spirit tablet[^1]. His ashes were interred in the soil at the Jinshan Environmental Life Park, under a tree, with no name carved anywhere. A religious leader who had touched the lives of millions of followers chose to disappear like a fallen leaf.
+> _"Brother Jie, don't!" — a line from a sober public service video about sexual violence, transformed by Taiwanese netizens into an endlessly replayed communal celebration. This is not mockery of victims. It is Taiwan's unique healing mechanism: converting unspeakable pain into laughter that can be shared and borne collectively._
 
-He once said: "Cremated ashes have nothing to do with the human spirit — they are simply the last remaining bit of carbon."[^2]
+## Scene Reconstruction: A Fantastical Journey from the Classroom to the Whole Internet
 
-In the Taiwan of that era, this was a cultural earthquake.
+Picture this: In 2012, the Ministry of Education produced a short public service film about sexual assault prevention titled _If Only He Had Known — Boys Get Sexually Assaulted Too_. The line "Brother Jie, don't!" was supposed to carry a grave educational mission. But after the video was uploaded to YouTube in 2013, that sentence began a fantastical journey.
 
-## Rest in Peace Means Rest in Earth
+Netizens created accelerated versions, condensed versions, even a looping version set to singer Xie Jin-Yan's music. By 2021, when the video was re-uploaded to Bilibili, view counts surpassed 27 million. More remarkably, the meme didn't just live online — it became a musical, and even a Steam game.
 
-In traditional Han Taiwanese culture, the phrase "rest in peace underground" (入土為安, ru tu wei an) is not a figure of speech — it is an article of faith. The dead must be buried in a place with good feng shui. The orientation of the grave, the flow of the dragon veins, the position of the waterways — all of these determine whether descendants will prosper or suffer. A well-chosen burial plot could bring a family fortune; a bad one could invite disaster. At least, that is what people believed for centuries[^3].
+This was no isolated incident. From "typhoon days are for rafting! What else would you do?" (during Typhoon Lotus in 2015), to the TongShen-serves-hot-pot phishing link frenzy of 2020, to Han Kuo-yu's "get rich" and "poor thing" political gags — Taiwan meme culture reveals a striking phenomenon: **the more embarrassing or traumatic the content, the more easily it becomes material for national celebration**.
 
-A funeral was a production. Taoist priests chanted, Buddhist monks recited sutras, and paper houses complete with paper servants burned to ash in metal basins. In rural Taiwan during the 1980s, a funeral procession could stretch half a block: a brass band playing dirges at the front, grieving family members clinging to the coffin in the middle, and behind them, a convoy of garishly decorated "electronic flower cars" (電子花車, dianzi huache) — flatbed trucks carrying scantily clad women dancing to ear-splitting Taiwanese pop songs[^4].
+**Curator's Note #1**: _This ability to "turn wounds into light sources" is one of the most fascinating qualities of Taiwanese internet culture. We are not mocking victims — we are using collective creative energy to transform reality that's hard to digest into cultural symbols that can be borne together._
 
-> **Did You Know?**
-> "Filial daughter Baiqin" (孝女白琴, xiaonu Baiqin) is a type of professional mourner unique to Taiwanese funerals. These hired women kneel before the casket and wail into a microphone, sometimes crying and singing for hours on end. The practice was featured by the BBC and has been called one of Taiwan's most distinctive funeral traditions by international media[^5]. The number of families hiring professional mourners has dropped sharply, but in rural towns across central and southern Taiwan, you can still sometimes hear those cries.
+## From PTT to TikTok: The Evolution of Taiwan Meme Culture
 
-There was also "five sons weeping at the grave" (五子哭墓) — five grown men hired to play the role of the deceased's sons, beating their chests, rolling on the ground, and sobbing theatrically at the graveside. The point of these performances was never grief. It was display: proving to the neighbors that this family had filial piety, that they could put on a proper show, that the dead departed in style.
+The roots of Taiwan meme culture trace to PTT "netizen" (鄉民) culture. In this anonymous digital space, Taiwanese internet users developed a distinctive language system:
 
-> **Curator's Note**
-> The logic of traditional Taiwanese funerals was never "how do we face death" — it was "how do we show the living that we are facing death correctly." The spectacle was always for the living, never for the dead. Understanding this is the only way to grasp how radical the quiet revolution that followed truly was.
+- **Reply culture**: maximum comic effect in minimal text
+- **Breaking news tradition**: rapidly transforming social events into collective discussion
+- **Netizen justice**: social critique wrapped in humor
 
-## Twilight of the Bone Collectors
+These cultural genes further evolved in the social media era. Unlike Western memes, which often derive from remixed stock images, Taiwan memes have stronger **local originality** and **social critical edge**:
 
-After burial came another ritual: bone collection. Several years after interment, the family would hire a "bone collector" (撿骨師, jiangushi) to open the coffin, extract the bones one by one, clean them, rearrange them in a ceramic urn, and then select an auspicious date to rebury the remains in a better feng shui location. The profession had existed for centuries, with skills passed from father to son and master to apprentice. A seasoned bone collector knew the position of all 206 bones in the human body by heart[^6].
+| Western Meme Traits                 | Taiwan Meme Traits                              |
+| ----------------------------------- | ----------------------------------------------- |
+| Image-based remix                   | Language creativity and situational reenactment |
+| Personalized humor expression       | Collective-resonance social commentary          |
+| Entertainment-oriented viral spread | Healing-oriented cultural practice              |
+| Commercially driven trend cycles    | Grassroots organic growth                       |
 
-But the profession is vanishing.
+**Curator's Note #2**: _Taiwan memes' "sustained staying power" is particularly striking. "Brother Jie, don't!" has been going strong from 2013 to 2026; the Rafting Guy gets resurrected every typhoon. This isn't ordinary "comeback after going stale" — some deep cultural need keeps speaking._
 
-In the 1970s, Taiwan's government began promoting cremation, citing public health concerns and land scarcity. Progress was slow at first — the belief in earthly burial ran deep, and many families would rather spend a fortune on a plot than cremate a loved one. Half a century later, however, the numbers tell the story: by 2014, the national cremation rate was 92.83 percent. By 2019, it reached 98.7%[^7]. The number of annual burials shrank from tens of thousands to just 5,752 in 2021.
+## The Counterintuitive Core: Memes as Social Safety Valves
 
-> **"Fifty years ago, bone collectors walked into every cemetery. Today, they walk into museum oral history projects."**
+Here is a counterintuitive observation: **Taiwan memes are not a byproduct of entertainment — they are the primary mechanism of a social safety valve**.
 
-What flipped an entire island's relationship with death? Not a single cause, but the convergence of three forces: urbanization, religious transformation, and government policy. In Taipei, where land prices rival those of the world's most expensive cities, a burial plot costs as much as a small apartment. When land becomes a luxury, the belief in "rest in earth" starts to waver — not because people stopped believing, but because they could no longer afford to.
+When society faces the following situations, memes activate automatically:
 
-## From Columbarium Towers to the Shade of a Tree
+1. **Authority failure**: outrageous behavior by politicians (the Han Kuo-yu series)
+2. **Educational predicament**: awkward delivery of sexual education films ("Brother Jie, don't!")
+3. **Media absurdity**: nonsensical typhoon-day street interviews (the Rafting Guy)
+4. **Economic anxiety**: helplessness about high housing prices and low wages (PX Mart's "economic aesthetics")
 
-After cremation replaced burial, the ashes needed somewhere to go. Columbariums (靈骨塔, lingguta) — multi-story towers housing thousands of urns — became the new standard. A niche in a public tower costs between NT$10,000 and NT$20,000 (roughly US$300–600). Private towers range from NT$30,000 to several hundred thousand. The floor, the orientation, the "feng shui" of the niche became the new source of anxiety, and some private columbariums were even marketed as investment properties[^8]. Public columbariums in Taipei are now over 90 percent full.
+The common thread through these memes is: they all point to **systemic problems** in Taiwanese society, but express dissatisfaction in a **non-confrontational way**.
 
-The spatial problem of death did not disappear with cremation. It simply migrated from the ground into buildings.
+Take the TongShen-serves-hot-pot video as an example. This 2020 video became a phishing link frenzy in February 2021, right when Taiwan was amid pandemic anxiety and economic uncertainty. Netizens created the "tricked you into clicking" format as a collective micro-prank — effectively **releasing social pressure through harmless means**.
 
-In 2001, the Ministry of the Interior began promoting "eco-friendly natural burial." The Funeral and Interment Management Act (殯葬管理條例), passed in 2002, wrote tree burial, flower burial, and sea burial into law for the first time. It also established a licensing system for funeral directors, an attempt to professionalize an industry long associated with organized crime[^9].
+## Taiwan Memes vs. International Memes: Differences in Cultural DNA
 
-Change came painfully slowly at first. In 2006, only about two hundred people in all of Taiwan chose an eco-friendly burial.
+Taiwan meme culture displays several distinctive characteristics in international comparison:
 
-But the turning point arrived faster than expected. In 2007, Taipei opened the Yong'ai Garden (詠愛園) tree burial area — a 1.2-hectare green space planted with thirteen species of trees. Ashes are ground into fine powder and placed in small holes beside tree roots. No headstone, no name. After ten years, the ashes decompose completely, and the same spot can be used again[^10]. When Master Sheng Yen chose an eco-friendly burial in 2009, the concept entered mainstream consciousness.
+### 1. Language Creativity Pushed to Extremes
 
-The numbers took off from there. In 2017, eco-friendly burials nationwide reached 9,135 — surpassing traditional ground burials (7,779) for the first time. This was a historic crossover[^11]. By 2021, eco-friendly burials exceeded 18,000 per year. As of the end of 2023, more than 140,000 people in Taiwan had chosen to be returned to nature.
+Japan prioritizes **perfect execution of detail**, America prefers **visual-impact simplicity**, Taiwan excels at **variation in linguistic rhythm**. "What are you yelling about!" and "Something happened, uncle!" have distinctive phonetic cadence — catchy, emotionally saturated.
 
-> **Curator's Note**
-> Taiwan's adoption of eco-friendly burial is among the fastest in Asia. The 2017 moment when eco-burials surpassed ground burials was a milestone that went largely unnoticed — but it meant that the number of people willing to "disappear" had quietly overtaken those who insisted on a headstone.
+### 2. Political Satire: Mild Yet Radical
 
-In Taipei, tree burials account for 57 percent of eco-friendly burials, flower burials for 41 percent, and sea burials for just 2 percent. The low rate of sea burial is not surprising: even families who accept the idea of "returning to nature" still want somewhere they can go to visit — even if that somewhere is just a tree.
+Compared to America's direct political attacks, or Japan's self-deprecating comedy, Taiwan memes adopt a **"tease without targeting"** strategy. We'll say Han Kuo-yu is "poor thing," but vicious personal-attack memes are rare.
 
-## The Price and Dignity of Death
+### 3. Collective Healing as Cultural Practice
 
-> **Contested View**
-> Eco-friendly burial is completely free in Taipei, and some counties even offer incentive payments of NT$10,000 to NT$20,000. Critics point out, however, that the government is using financial incentives to reshape cultural practices. For economically disadvantaged families, "choosing eco-burial" may not entirely reflect a shift in values — it may simply mean they cannot afford a traditional funeral.
+This may be Taiwan memes' most distinctive function. We use memes to process **collective trauma** (the FTX "buy the dip" gag), **social anxiety** (housing price memes), **generational conflict** ("young people don't work hard" series).
 
-A traditional funeral in Taiwan costs anywhere from NT$100,000 to over a million (US$3,000 to US$30,000+). Funeral companies, religious ceremonies, floral arrangements, venue rental, hearse, columbarium niche — every step is a transaction. The funeral industry's annual revenue is estimated at over NT$20 billion. The 2002 Funeral and Interment Management Act introduced a licensing system for funeral directors, requiring companies above a certain size to employ certified professionals — an effort to bring regulation to an industry that had long operated in the shadows[^12].
+**Curator's Note #3**: _If American memes are "individual expression," and Japanese memes are "group harmony," then Taiwan memes are "collective therapy." We're not just producing punchlines — we're conducting a kind of cultural psychotherapy._
 
-But the transformation goes beyond regulation. Yang Kuo-chu (楊國柱), a professor of death studies at Nanhua University, has observed a generational shift in attitudes toward funerals: "It is not that young people lack filial piety. It is that their definition of filial piety has changed."[^13] The older generation equated an elaborate funeral with devotion. The younger generation is more inclined to honor the wishes the deceased expressed while alive. Starting in 2026, four municipalities — Taipei, New Taipei, Taoyuan, and Taichung — have opened advance registration for eco-friendly burial preferences, allowing citizens to decide their own afterlife arrangements while still living[^14].
+## 2024-2026 Latest Trends: Visualization Moving from Static to Dynamic
 
-This is a subtle transfer of power: the authority over death is shifting from the family to the individual.
+In recent years, Taiwan meme culture has seen new trends:
 
-## The Quiet Evolution of Tomb Sweeping Day
+### The Rise of Musicalized Memes
 
-Every year in early April, millions of Taiwanese return to cemeteries and columbariums to burn incense, lay flowers, and pull weeds from family graves. Qingming Festival (清明節), or Tomb Sweeping Day, is the island's largest collective encounter with death.
+- Thinman E.SO's "Watch out, there's a car behind you!" went viral for its dramatic flair
+- TikTok short video format pushed meme "musicalization"
+- Shift from static images to dynamic video-audio
 
-But the holiday itself is changing. In 2017, tomb sweeping caused 1,936 fires nationwide. By 2022, the number dropped to 997 — fewer people are burning joss paper, and more are offering fresh flowers and fruit instead[^15]. Some local governments have launched online memorial platforms that let children who cannot travel home light a virtual stick of incense on their screens.
+### Cross-Generational Meme Inheritance
 
-From the thundering music atop electronic flower cars to families quietly scattering ashes in Yong'ai Garden and walking away — Taiwan's relationship with death is moving from "performing for the living" to "letting the dead leave in peace."
+- PX Mart spokesperson Qiu Yan-Xiang's evolution from "economic aesthetics" to a hip-hop "PX e-commerce guy" persona
+- Classic memes getting "reinterpreted" on new platforms ("Brother Jie, don't!" as a musical)
 
-Lee Chi-ping (李基平), chairman of the Taiwan Life and Death Studies Association, has identified four barriers to the spread of eco-friendly burial: the Confucian preference for ground burial, the psychological need of families to have "a place to go," the fact that funerals are a family decision rather than a personal one, and the commercial interests of the funeral industry[^16]. These four walls are being breached one by one — but not at the same speed.
+### Social Issues Meme-ified at Accelerating Speed
 
-> **"Master Sheng Yen said ashes are just carbon. But for many Taiwanese families, that small urn of ash is the last way they can hold that person."**
+- Political events (the Ko Wen-je university commencement controversy) rapidly generating meme material
+- Internet celebrities like Chicken Cutlet Sister becoming meme "production machines"
 
-By the end of 2023, more than 140,000 people in Taiwan had chosen eco-friendly burial. One hundred and forty thousand names dissolved into the earth, the sea, the flowers. They chose to leave no trace — and in a culture that spent centuries building tombstones, that may be the quietest revolution of all.
+## Why Are Taiwanese Especially Good at Making the Serious Funny?
 
-**Further Reading**
+This phenomenon has deep cultural roots:
 
-- [Taiwan's Religion and Temple Culture](/culture/taiwan-religion-and-temple-culture) — How folk beliefs shape attitudes toward death and burial
-- [Taiwanese Life Ceremony Traditions](/culture/taiwanese-life-ceremony-traditions) — The full spectrum of rituals from birth to death
-- [Taiwan's Environmental Justice and NIMBY Conflicts](/society/taiwan-environmental-justice-and-nimby-disputes) — Social conflicts over incinerator and cemetery siting
+### The Creative Resilience of Island Character
+
+As an island culture, Taiwan has long lived amid **multi-cultural conflict** and **external pressure**. We developed a survival wisdom of **"everything can be made fun of,"** using humor as a **cultural buffer**.
+
+### A Byproduct of Democratization
+
+In post-Martial Law Taiwan, "daring to make fun of authority" became an important marker of democratization. Meme culture is to some extent a **daily practice of democratic literacy** — questioning power through satire rather than revolution.
+
+### Collective Creation by Digital Natives
+
+The "collective wisdom" cultivated by the PTT generation made Taiwanese netizens especially skilled at **relay creation**. A meme keeps evolving in different netizens' hands, ultimately becoming a cultural product that transcends the original.
+
+## The Dark Side of Memes: The Fine Line from Healing to Division
+
+However, meme culture also has its risks:
+
+### The Problem of Issue Drift
+
+As PTS+ analysis points out, memes "often redirect public attention and discourse away from policy issues that deserve civic discussion, toward more fragmentary information." The entertainment function can mask the severity of problems.
+
+### Reinforcement of the Echo Chamber Effect
+
+Social media algorithms let memes form "echo chamber effects" within specific groups, potentially deepening social division rather than promoting understanding.
+
+### The Risk of Commercial Trauma
+
+When memes are over-commercialized, they may lose their original healing function and become purely consumable symbols.
+
+## Conclusion: Memes as a Mirror of Taiwan Culture
+
+Taiwan meme culture reflects the complexity of our society: abundant creativity alongside avoidance tendencies; collective wisdom alongside structural problems.
+
+But most importantly, it proves a distinctive capacity Taiwanese people have when facing adversity: **transforming wounds into light sources, sublimating individual pain into collective healing**. In this sense, "Brother Jie, don't!" is not just a meme — it is a microcosm of Taiwan's social emotional mechanism. We use shared laughter to bear shared vulnerability.
+
+---
+
+## Further Reading
+
+- [Ma Ying-jeou Memes](/society/馬英九迷因) — A single case study of political figure memes: how 19 memes accumulated into a former president's second public face
+- [Grandparent Images (長輩圖)](/culture/長輩圖) — Another meme propagation pathway under LINE group ecology
+- [PTT BBS](/technology/PTT批踢踢) — The originating platform for most political memes
+- [Taiwan VTuber](/culture/台灣VTuber) — Cultural extensions from meme to virtual idol
+
+---
 
 ## References
 
-[^1]: [Dharma Drum Mountain: Master Sheng Yen's Final Instructions](https://www.ddm.org.tw/) — Master Sheng Yen passed away in 2009. His will explicitly stated: no obituary, no tomb, no headstone. His ashes were interred at the Jinshan Environmental Life Park.
-
-[^2]: [Taiwan Panorama: Green Burials Catching On in Taiwan](https://www.taiwan-panorama.com/en/Articles/Details?Guid=88ec5020-587c-46d7-9bf7-58b9713559f0) — English-language feature quoting Master Sheng Yen's view on cremated remains: "cremated ashes are simply the last remaining bit of carbon."
-
-[^3]: [Wikipedia: Taiwanese Funeral Customs](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%96%AA%E8%91%AC) — Comprehensive overview of Han Taiwanese funeral traditions, including feng shui practices, bone collection rituals, and spirit-summoning processions.
-
-[^4]: [The News Lens: The Changing and Unchanging in Taiwan's Funeral Industry](https://www.thenewslens.com/article/194787) — Traces the half-century transformation of Taiwan's funeral industry from raucous processions and underworld influence to post-legislation professionalization.
-
-[^5]: [Gold Kirin: Cultural Analysis of the "Filial Daughter Baiqin" Tradition](https://www.goldkirin.com.tw/knowledge/detail/%E5%93%AD%E5%88%B0%E7%99%BB%E4%B8%8A%E5%9C%8B%E9%9A%9B%E5%AA%92%E9%AB%94-%E2%80%94-%E5%8F%B0%E7%81%A3%E7%9A%84%E5%AD%9D%E5%A5%B3%E7%99%BD%E7%90%B4%E6%96%87%E5%8C%96%E8%A7%A3%E6%9E%90) — How professional mourners became one of Taiwan's most internationally recognized funeral traditions, including BBC coverage, and the decline of the practice.
-
-[^6]: [Liberty Times: From Filial Daughter Baiqin to Professional Mourning Actors](https://news.ltn.com.tw/news/life/breakingnews/5093707) — Documents the transformation of traditional funeral performances, recording a generation's worth of cultural memory in burial practices.
-
-[^7]: [Ministry of the Interior Statistical Report: 2020 Funeral Management Statistics](https://ws.moi.gov.tw/001/Upload/OldFile/news_file/109%E5%B9%B4%E7%AC%AC14%E9%80%B1%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E9%80%9A%E5%A0%B1_%E6%AE%AF%E8%91%AC%E7%AE%A1%E7%90%86.pdf) — Official government data showing the national cremation rate reached 98.7% in 2019, with only 6,585 ground burials that year.
-
-[^8]: [Jingpin Funeral Services: Columbarium Pricing and Investment Scam Exposé](https://www.0800600038.com.tw/columbarium-pagoda/) — Analyzes the price gap between public columbarium niches (NT$15,000–35,000) and private ones (NT$30,000 to several hundred thousand), and the phenomenon of niches being marketed as speculative investments.
-
-[^9]: [Laws & Regulations Database: Funeral and Interment Management Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0020040) — Passed in 2002, this act was the first to legally define eco-friendly natural burial, establish funeral director licensing, and regulate funeral facilities.
-
-[^10]: [Taiwan Panorama: Green Burials Catching On in Taiwan](https://www.taiwan-panorama.com/en/Articles/Details?Guid=88ec5020-587c-46d7-9bf7-58b9713559f0) — Details the 2007 opening of Yong'ai Garden, its 1.2-hectare area, 6,000 burial plots, and ten-year recycling mechanism.
-
-[^11]: [PTS News: Eco-Friendly Burials Surpass Ground Burials for Five Consecutive Years](https://news.pts.org.tw/article/630425) — Data visualization of eco-burial trends showing the 2017 historic crossover with ground burials and the 2021 surge past 18,000 cases.
-
-[^12]: [The News Lens: The Changing and Unchanging in Taiwan's Funeral Industry](https://www.thenewslens.com/article/194787) — Documents the introduction of funeral director licensing under the Funeral and Interment Management Act and the ongoing professionalization of the industry.
-
-[^13]: [PTS News: Eco-Friendly Burials Surpass Ground Burials](https://news.pts.org.tw/article/630425) — Interview with Professor Yang Kuo-chu of Nanhua University's Department of Life-and-Death Studies, analyzing generational shifts in funeral attitudes.
-
-[^14]: [Orange Generation: Advance Eco-Burial Registration Now Available in Four Municipalities](https://orange.udn.com/orange/story/121408/8281026) — Updated for 2026, covering advance eco-burial preference registration systems in Taipei, New Taipei, Taoyuan, and Taichung.
-
-[^15]: [PTS News: Eco-Friendly Burials Surpass Ground Burials](https://news.pts.org.tw/article/630425) — National Fire Agency data showing tomb sweeping fires dropped from 1,936 in 2017 to 997 in 2022.
-
-[^16]: [Taiwan Panorama: Green Burials Catching On in Taiwan](https://www.taiwan-panorama.com/en/Articles/Details?Guid=88ec5020-587c-46d7-9bf7-58b9713559f0) — Lee Chi-ping, chairman of the Taiwan Life and Death Studies Association, analyzes the four major barriers to eco-friendly burial adoption.
+1. ["Brother Jie, Don't!" — Exploring Social Attitudes Toward Male Sexual Assault Through Meme Phenomena — Newtalk News](https://newtalk.tw/citizen/view/57727) (2021)
+2. [TongShen Serves Hot Pot — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) (2023)
+3. [What Are the Features of Taiwan's Internet Community Meme Culture? — PTS+ Points of View](https://issues.ptsplus.tv/articles/1591/) (2024)
+4. [Meme Culture Special 03: "What Are You Yelling About!" — Meme Culture in Taiwan — DQ Earth Atlas](https://dq.yam.com/post/13088) (2021)
+5. [Zhang Ji-Yin (Rafting Guy) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%90%89%E5%90%9F) (2025)
+6. [Qiu Yan-Xiang (PX Mart Guy) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%82%B1%E5%BD%A5%E7%BF%94) (2025)
+7. [One-Second Test: Are You a Real Netizen? 2025 Top 10 Social Memes — United Daily News](https://udn.com/news/story/7266/8933160) (2025)
+8. [Taiwan Memes I — Cultivate Meme](https://cultivatememe.moe/taiwan1.html) (2020)
+9. [Netizens 1: Netizens Are So Mean and Scary — Is PTT Netizen Culture Hard to Approach? — Shih Hsin University School of Journalism](https://shuj.shu.edu.tw/blog/2020/06/29/) (2020)
+10. [What Is a Meme? Can You Eat It? — Analysis of What Goes Viral with the New Generation — UDN Gaming Corner](https://game.udn.com/game/story/10455/3763286) (2021)
