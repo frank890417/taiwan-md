@@ -1,6 +1,6 @@
 ---
-title: 'Zhang Hui-mei (A-mei)'
-description: "La reine de la pop mandophone issue du peuple Puyuma, l'une des artistes féminines les plus vendues de l'histoire de la musique chinoise, et figure emblématique du mouvement pour les droits LGBTQ+"
+title: 'Chang Hui-mei'
+description: "Reine de la pop mandarine issue du peuple Puyuma, l'une des artistes féminines les plus vendues de la musique pop chinoise, porte-parole de l'égalité des droits LGBTQ+"
 date: 2026-03-19
 tags:
   [
@@ -8,58 +8,60 @@ tags:
     'peuples autochtones',
     'Puyuma',
     'reine de la pop',
-    'droits LGBTQ+',
-    'pop mandophone',
+    'égalité des droits LGBTQ+',
+    'musique pop',
   ]
-subcategory: 'Musique'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 6
-featured: false
+subcategory: '音樂'
 lastVerified: 2026-03-19
-translatedFrom: 'People/張惠妹.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b4205405eb50bfe0'
-translatedAt: '2026-04-14T19:14:57+08:00'
+lastHumanReview: false
+translatedFrom: People/張惠妹.md
+sourceCommitSha: 2671bff6
+sourceContentHash: sha256:b4205405eb50bfe0
+translatedAt: 2026-05-01T22:19:06+08:00
 ---
 
-# Zhang Hui-mei : Une voix qui transcende les frontières
+# Chang Hui-mei : une voix céleste au-delà des frontières ethniques
 
-Zhang Hui-mei (en langue amis : Kulilay Amit, anglais : A-mei), née en 1972 à Beinan, dans le comté de Taitung, est une chanteuse taïwanaise d'origine Puyuma et l'une des artistes féminines les plus couronnées de succès de toute l'histoire de la pop mandophone. Sa voix exceptionnelle et son charisme scénique hors du commun lui ont valu une réussite commerciale considérable. Elle est à la fois une fierté pour les peuples autochtones de Taïwan et une voix influente du mouvement pour l'égalité des droits LGBTQ+.
+Chang Hui-mei (en langue Puyuma : Kulilay Amit ; nom occidental : A-mei), née en 1972 dans le canton de Beinan, comté de Taitung, est une chanteuse issue du peuple Puyuma de Taïwan et l'une des artistes féminines les plus accomplies de l'histoire de la musique pop sinophone. Dotée d'un talent vocal exceptionnel et d'une présence scénique remarquable, elle a non seulement connu un immense succès commercial, mais est également devenue une fierté pour les peuples autochtones et une figure de soutien majeure du mouvement pour l'égalité des droits LGBTQ+.
 
-## Des hauteurs de la tribu aux grandes scènes du monde
+## Du village tribal à la scène mondiale
 
-Zhang Hui-mei a grandi au sein d'une famille musicale Puyuma, baignée dès l'enfance dans les chants traditionnels de sa culture. En 1996, la sortie de son premier album _Jiemei_ (Sœurs) secoue le monde de la pop mandophone : ses chiffres de vente records et son impact immédiat sont sans précédent. Cet album lui offre une renommée instantanée et marque l'entrée dans l'âge d'or de la pop taïwanaise des années 1990.
+Chang Hui-mei a grandi dans une famille de musiciens du peuple Puyuma, bercée dès l'enfance par les chants traditionnels en langue autochtone. En 1996, elle publie son premier album, _Sœurs_ (_姐妹_), qui bouleverse immédiatement le monde de la musique pop sinophone grâce à ses ventes spectaculaires et son influence considérable. Cet album la propulse non seulement au rang de célébrité du jour au lendemain, mais marque aussi l'entrée dans l'âge d'or de la musique pop taïwanaise des années 1990.
 
-Sa réussite dépasse la seule dimension commerciale : elle a brisé les stéréotypes qui pesaient sur les peuples autochtones dans la société dominante. Zhang Hui-mei a démontré que ces peuples peuvent non seulement préserver leur héritage culturel, mais aussi briller sur la scène de la pop moderne — devenant ainsi un pont vivant entre tradition et modernité, entre communautés autochtones et société dans son ensemble.
+Son succès ne se limite pas aux réalisations commerciales : il a surtout brisé les stéréotypes véhiculés par la société dominante à l'égard des peuples autochtones. Chang Hui-mei a prouvé que les autochtones ne se réduisent pas à leur culture traditionnelle et qu'ils peuvent également briller dans le domaine de la musique pop contemporaine, devenant ainsi un pont essentiel entre tradition et modernité, entre identité ethnique et société dominante.
 
-## Une carrière musicale d'exception
+## Réalisations musicales et influence
 
-Sa discographie s'étend sur près de trente ans, avec plus de vingt albums studio et des ventes totales dépassant les cinquante millions d'exemplaires, ce qui en fait l'une des artistes féminines les plus vendues de la sphère mandophone. Parmi ses titres les plus emblématiques, on retiendra _Ting Hai_ (Écouter la mer), _Jian Ai_ (Couper l'amour), _San Tian San Ye_ (Trois jours trois nuits) ou encore _Wo Keyi Bao Ni Ma_ (Puis-je vous serrer dans mes bras ?), autant de classiques gravés dans la mémoire collective.
+La carrière musicale de Chang Hui-mei s'étend sur près de 30 ans. Elle a publié plus de 20 albums studio, avec des ventes totales dépassant 50 millions d'exemplaires, ce qui en fait l'une des artistes féminines les plus vendues de la scène musicale sinophone. Parmi ses œuvres emblématiques figurent _Écouter la mer_ (_聽海_), _Couper l'amour_ (_剪愛_), _Trois jours et trois nuits_ (_三天三夜_), _Puis-je te serrer dans mes bras ?_ (_我可以抱你嗎_), chacune étant devenue un classique largement fredonné.
 
-Ses concerts constituent eux aussi des jalons de la pop mandophone. Depuis ses premiers spectacles solo en 1999, chaque tournée génère son lot d'événements. En 2015, sa série de concerts « Utopia » au Taipei Small Dome a réuni vingt représentations consécutives à guichet fermé, établissant un record pour une artiste féminine mandophone. Son concert du Nouvel An 2019 a rassemblé des dizaines de milliers de spectateurs sur place, et des millions de téléspectateurs devant leurs écrans.
+Ses concerts sont des références dans le monde de la musique sinophone. Depuis son premier concert solo en 1999, chacune de ses performances a suscité l'enthousiasme. En 2015, sa tournée « Utopia » au Taipei Arena a affiché complet pendant 20 soirées consécutives, établissant un record pour une artiste féminine sinophone. Son spectacle du Nouvel An 2019 a attiré des dizaines de milliers de spectateurs sur place et des millions de téléspectateurs en ligne.
 
 ## Engagement social et promotion de la culture autochtone
 
-Zhang Hui-mei n'a jamais renié ses origines. Au fil des années, elle a activement porté la culture des peuples autochtones à la lumière, intégrant régulièrement des chants Puyuma dans ses spectacles pour offrir à ces traditions une scène bien plus vaste. Lors de la cérémonie d'investiture présidentielle de l'an 2000 à Taïwan, son interprétation de l'hymne national a suscité une controverse politique — tout en attirant l'attention du grand public sur la place des peuples autochtones dans la société taïwanaise.
+Chang Hui-mei n'a jamais renié ses racines ethniques et s'est engagée depuis de nombreuses années dans la promotion de la culture autochtone. Elle interprète régulièrement des chants Puyuma lors de ses concerts, portant ainsi la musique traditionnelle sur les plus grandes scènes. Lors de la cérémonie d'investiture présidentielle taïwanaise en 2000, son interprétation de l'hymne national a suscité une controverse politique, mais a également attiré l'attention du public sur la question du statut des peuples autochtones dans la société taïwanaise.
 
-Elle est également une soutien de longue date du mouvement pour l'égalité des droits LGBTQ+, exprimant publiquement et à de nombreuses reprises son soutien à la diversité des genres. Lors de la légalisation du mariage entre personnes de même sexe à Taïwan en 2019, Zhang Hui-mei a ouvertement salué cette avancée, affirmant que l'amour est l'amour, et qu'il ne saurait être limité par le genre. Cette ouverture d'esprit lui a valu l'adhésion de nouvelles générations de fans.
+Elle est également une figure de soutien importante du mouvement pour l'égalité des droits LGBTQ+, exprimant à de nombreuses reprises, lors de concerts et en public, son appui à la diversité des genres. Lors de la légalisation du mariage homosexuel à Taïwan en 2019, Chang Hui-mei a publiquement salué cette avancée, affirmant que l'amour est l'amour et ne devrait pas être limité par le genre. Cette attitude ouverte et inclusive lui a valu l'adhésion d'un nombre croissant de jeunes générations.
 
-## Une palette musicale en constante évolution
+## Évolution et percées dans le style musical
 
-Son répertoire couvre un spectre remarquablement large : de la ballade rock de ses débuts jusqu'aux sonorités électro-dansantes de ses albums récents, elle a toujours cultivé l'audace artistique. Ses collaborations avec des musiciens de renom — notamment avec Tao Zhe et Wang Leehom — ont enrichi sa palette et élargi son horizon musical.
+Le style musical de Chang Hui-mei est riche et varié, allant du rock lyrique de ses débuts à la musique électronique et à la dance des périodes plus récentes. Elle n'a jamais hésité à explorer de nouveaux éléments musicaux. Ses collaborations avec des musiciens internationaux ont également élargi son horizon musical ; ses travaux avec des artistes tels que David Tao et Wang Leehom ont donné naissance à des œuvres remarquables.
 
-Techniquement, Zhang Hui-mei fait l'unanimité : tessiture étendue, expressivité profonde, capacité à habiter aussi bien un hymne rock électrisant qu'une ballade intime à couper le souffle. Cette polyvalence vocale est précisément ce qui lui permet de traverser les générations sans jamais se démodre.
+Sa technique vocale est d'une grande finesse, sa tessiture est large et son expression émotionnelle est riche, ce qui lui vaut d'être considérée comme l'une des meilleures chanteuses de la scène sinophone. Qu'il s'agisse de morceaux rock puissants et passionnés ou de ballades lyriques tendres et profondes, Chang Hui-mei maîtrise tous les registres avec aisance. Cette polyvalence vocale exceptionnelle est l'une des raisons essentielles de son succès durable à travers les générations.
 
-## Un héritage musical qui se transmet
+## Transmission musicale intergénérationnelle
 
-À l'aube des années 2020, Zhang Hui-mei demeure créativement et scéniquement au sommet. Elle est désormais aussi productrice musicale et directrice artistique de ses spectacles, impliquée dans chaque détail de la mise en scène et des arrangements. Elle s'engage également à soutenir la relève, en accompagnant de jeunes artistes autochtones dans leur développement.
+Dans les années 2020, Chang Hui-mei conserve une créativité et une énergie scénique remarquables. Elle n'est pas seulement interprète, mais aussi productrice musicale et directrice de concerts, s'investissant profément dans la mise en scène visuelle et l'arrangement musical de ses spectacles. Elle soutient également activement la relève et encourage le développement de jeunes musiciens autochtones.
 
-Le parcours de Zhang Hui-mei n'est pas seulement une success story personnelle : il incarne la victoire de la diversité culturelle de Taïwan. Elle a révélé au monde la richesse des cultures autochtones, et témoigne de la capacité de la société taïwanaise à embrasser la pluralité. En tant que reine de la pop qui transcende les origines et les générations, son influence rayonne bien au-delà de la musique.
+Le succès de Chang Hui-mei n'est pas seulement une réussite personnelle : c'est aussi une victoire de la culture multiculturelle taïwanaise. Elle a démontré la richesse de la culture autochtone et mis en lumière l'inclusivité de la société taïwanaise. En tant que reine de la musique transcendant les frontières ethniques et les générations, l'influence de Chang Hui-mei dépasse largement le cadre de la musique elle-même.
+
+## Pour aller plus loin
+
+- [Chang Yu-sheng](/people/張雨生) — Le producteur visionnaire qui a découvert Chang Hui-mei et produit _Sœurs_ (_姊妹_) et _Bad Boy_ ; sans ce mois où il allait chaque soir l'écouter chanter dans un bar, la reine de la pop n'aurait peut-être jamais existé
+- [Musique pop taïwanaise](/music/台灣流行音樂) — Le contexte de l'ascension de Chang Hui-mei sur la scène sinophone, l'apogée de l'industrie musicale pop dans les années 1990
 
 ## Références
 
-- [Page officielle de Zhang Hui-mei sur Facebook](https://www.facebook.com/ameichang.official/) — Actualités et événements officiels
-- [Wikipédia : Zhang Hui-mei](https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%83%A0%E5%A6%B9) — Biographie détaillée et discographie
-- [Books.com.tw : Zhang Hui-mei](https://www.books.com.tw/web/sys_serialtext/?item=0010002876) — Présentation des albums et critiques
-- [Conseil des peuples autochtones : dossier Zhang Hui-mei](https://www.apc.gov.tw/portal/theme/detail/id/0000000004) — Contributions à la promotion de la culture autochtone
+- [Page officielle des fans de Chang Hui-mei](https://www.facebook.com/ameichang.official/) — Dernières nouvelles et informations sur les événements officiels
+- [Wikipédia : Chang Hui-mei](https://zh.wikipedia.org/wiki/%E5%BC%B5%E6%83%A0%E5%A6%B9) — Biographie détaillée et discographie
+- [Musique Hall de Books.com.tw : Chang Hui-mei](https://www.books.com.tw/web/sys_serialtext/?item=0010002876) — Présentation et critiques d'albums
+- [Commission des affaires autochtones : dossier spécial Chang Hui-mei](https://www.apc.gov.tw/portal/theme/detail/id/0000000004) — Réalisations en matière de promotion de la culture autochtone
