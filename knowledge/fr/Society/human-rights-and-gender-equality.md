@@ -2,7 +2,14 @@
 title: 'Droits humains et égalité des genres à Taïwan'
 description: "Du régime autoritaire à la figure de proue des droits humains en Asie : le parcours de Taïwan vers la justice transitionnelle, l'égalité des genres et le mariage pour tous."
 date: 2026-03-17
-tags: [Société, droits humains, égalité des genres, mariage homosexuel, justice transitionnelle]
+tags:
+  [
+    Société,
+    droits humains,
+    égalité des genres,
+    mariage homosexuel,
+    justice transitionnelle,
+  ]
 subcategory: 'Droits humains et égalité'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/人權與性別平等.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:b007d781b4327433'
+translatedAt: '2026-04-14T12:32:15+08:00'
 ---
 
 # Droits humains et égalité des genres à Taïwan

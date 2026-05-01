@@ -13,6 +13,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'People/侯孝賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5b89549b2ad2cd3d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Hou Hsiao-hsien

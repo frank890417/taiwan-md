@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/紀政.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:db29d3b29cd717d9'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 기정(紀政): 날아오르는 영양

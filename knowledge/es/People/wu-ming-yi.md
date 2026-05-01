@@ -13,6 +13,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'People/吳明益.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2244fabc33ee8056'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Wu Ming-Yi

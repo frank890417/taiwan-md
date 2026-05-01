@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Economy/經濟奇蹟.md'
 lastVerified: 2026-03-23
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:7d77f7eb1285e4d3'
+translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 
 # 경제 기적

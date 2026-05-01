@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 translatedFrom: 'People/江蕙.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:af8cff27f6cadb30'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 1971년 타이베이 베이터우. 공기 중엔 언제나 유황 냄새가 가시지 않았다. 열 살의 장수후이(江淑惠), 훗날 세상이 장후이(江蕙)라고 부르게 될 그 아이는 불야성을 이루는 요정과 호텔 사이를 종종걸음으로 누비고 있었다. 아버지가 남긴 빚을 갚기 위해, 노래 한 곡에 겨우 10대만 위안을 받으면서. 그때의 그녀는 알지 못했다. 앞으로 40년에 걸쳐, 대만 음악사에서 수상 횟수가 가장 많고 영향력이 가장 깊은 대만어 팝의 여왕이 될 것이라는 사실을.

@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/李雅英.md'
 readingTime: 9
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:83e0dbb3cbec1753'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 대만에서 이아영은 ‘한 번 뜨고 사라지는’ 이야기가 아니라 ‘항상 그 자리에 있는’ 이야기다. 푸방에서 시즌을 넘겨 활동하며 높은 출석과 인지도를 유지했고, 한국 치어 인재를 ‘화제’에서 구장 콘텐츠의 고정 축으로 바꿨다.

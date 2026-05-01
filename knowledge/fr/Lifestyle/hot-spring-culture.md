@@ -3,13 +3,26 @@ title: 'La culture des sources thermales'
 description: 'Des sanatoriums militaires aux trois plus rares sources boueuses du monde : comment Taïwan est devenu un empire du thermalisme'
 date: 2026-03-22
 category: 'Lifestyle'
-tags: [vie quotidienne, sources thermales, Beitou, Jiaoxi, Guanziling, époque japonaise, géologie, culture du bien-être]
+tags:
+  [
+    vie quotidienne,
+    sources thermales,
+    Beitou,
+    Jiaoxi,
+    Guanziling,
+    époque japonaise,
+    géologie,
+    culture du bien-être,
+  ]
 subcategory: 'Médecine et bien-être'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
 lastVerified: 2026-03-22
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5c053dd9110acc9b'
+translatedAt: '2026-04-15T17:34:49+08:00'
 ---
 
 # La culture des sources thermales : des blessures de guerre à l'empire du soin

@@ -18,6 +18,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/嚴長壽.md'
+sourceCommitSha: '67fe687d'
+sourceContentHash: 'sha256:6bcf8cc662668e7d'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 옌창서우: 우편실 막내에서 관광 대부로, 그리고 모든 것을 내려놓다

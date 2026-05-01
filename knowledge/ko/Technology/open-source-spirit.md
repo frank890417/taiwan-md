@@ -10,6 +10,9 @@ readingTime: 8
 translatedFrom: 'Technology/台灣開源精神.md'
 lastVerified: 2026-03-29
 featured: false
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:8cc121a9cccbf90a'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 > 대만 소프트웨어 산업 규모는 글로벌 일류가 아니지만, GitHub에 Taiwan을 표시한 사용자는 44,000명이 넘고, 커뮤니티 해커톤은 누적 70회 이상, 수천 명의 기여자가 있다. 그 거의 전부가 퇴근 후 사비를 털어 참여하는 개인 개발자들이다. 이 글은 g0v만 다루는 것이 아니다. 사람, 커뮤니티, 교육, 산업 네 가지 관점에서 대만 오픈소스 문화의 완전한 지도를 그려본다.

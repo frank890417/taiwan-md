@@ -18,6 +18,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 featured: false
 translatedFrom: 'People/許倬雲.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:77e8dd6633b6a3b4'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 쉬줘윈 (許倬雲)

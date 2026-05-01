@@ -20,7 +20,10 @@ readingTime: 18
 featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
-translatedFrom: 'History/國民政府遷台與戰後重建.md'
+translatedFrom: "History/國民政府遷台與戰後重建.md"
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:062e901c57b47a6e"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 # Le repli du gouvernement nationaliste à Taïwan et la reconstruction d'après-guerre
@@ -34,7 +37,7 @@ translatedFrom: 'History/國民政府遷台與戰後重建.md'
 
 Né en 1905, Yan Chia-kan a occupé le poste de directeur des finances de la province du Fujian dans les années 1930, et a été le témoin direct du repli du gouvernement nationaliste vers Taïwan. En 1949, il rejoint le gouvernement en exil et prend en charge le ministère des Finances, supervisant l'émission du nouveau dollar taïwanais et la réforme monétaire[^1].
 
-> **« Je n'avais pas le choix, c'était le propriétaire terrien qui décidait. »** — Un métayer taïwanais (cité dans les *Entretiens sur les faits et gestes du président Yan Chia-kan*)
+> **« Je n'avais pas le choix, c'était le propriétaire terrien qui décidait. »** — Un métayer taïwanais (cité dans les _Entretiens sur les faits et gestes du président Yan Chia-kan_)
 
 Cette parole a été recueillie dans la campagne taïwanaise de 1949. À cette époque, la politique des « 37,5 % » venait d'être mise en place : les métayers ne devaient remettre au propriétaire que 37,5 % de leur récolte. Il ne s'agissait pas seulement d'une mesure économique, mais d'une transformation radicale des structures sociales — une rupture avec le régime féodal de la tenure agricole, ouvrant la voie à une société de petits propriétaires[^2].
 
@@ -140,11 +143,11 @@ Si en 2050 quelqu'un cherche à comprendre ce qui importait aux Taïwanais de 19
 
 ## Références
 
-[^1]: [*Entretiens sur les faits et gestes du président Yan Chia-kan*](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Publié par l'Académie d'histoire nationale en 2013, à l'occasion du vingtième anniversaire du décès de Yan Chia-kan, ce recueil d'entretiens oraux avec ses proches et anciens collaborateurs retrace son parcours depuis les réformes financières jusqu'à sa présidence.
+[^1]: [_Entretiens sur les faits et gestes du président Yan Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Publié par l'Académie d'histoire nationale en 2013, à l'occasion du vingtième anniversaire du décès de Yan Chia-kan, ce recueil d'entretiens oraux avec ses proches et anciens collaborateurs retrace son parcours depuis les réformes financières jusqu'à sa présidence.
 
 [^2]: [La réforme agraire à Taïwan (耕者有其田)](https://zh.wikipedia.org/wiki/%E8%80%95%E8%80%85%E6%9C%89%E5%85%B6%E7%94%B0) — Article Wikipédia présentant les données historiques et le contenu des trois phases de la réforme agraire taïwanaise.
 
-[^3]: [*Entretiens sur les faits et gestes du président Yan Chia-kan*](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Archives orales de l'Académie d'histoire nationale, incluant le regard de Yan Chia-kan sur le repli de 1949 et son interprétation de l'époque.
+[^3]: [_Entretiens sur les faits et gestes du président Yan Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Archives orales de l'Académie d'histoire nationale, incluant le regard de Yan Chia-kan sur le repli de 1949 et son interprétation de l'époque.
 
 [^4]: [Repli du gouvernement de la République de Chine à Taïwan](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — Article Wikipédia retraçant le contexte global du retrait nationaliste durant la guerre civile.
 
@@ -164,7 +167,7 @@ Si en 2050 quelqu'un cherche à comprendre ce qui importait aux Taïwanais de 19
 
 [^12]: Ibid. — Statistiques sur la politique de 1953 : 139 249 hectares expropriés, 194 823 exploitations familiales créées.
 
-[^13]: [*Entretiens sur les faits et gestes du président Yan Chia-kan*](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Récit complet du rôle de Yan Chia-kan dans l'émission du nouveau dollar taïwanais et la réforme monétaire de 1949.
+[^13]: [_Entretiens sur les faits et gestes du président Yan Chia-kan_](https://www.drnh.gov.tw/p/404-1003-12925.php?Lang=zh-tw) — Récit complet du rôle de Yan Chia-kan dans l'émission du nouveau dollar taïwanais et la réforme monétaire de 1949.
 
 [^14]: [Repli du gouvernement de la République de Chine à Taïwan](https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%94%BF%E5%BA%9C%E9%81%B7%E5%8F%B0) — Données historiques sur l'aide économique américaine à Taïwan (1,482 milliard de dollars entre 1951 et 1965).
 

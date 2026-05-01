@@ -11,7 +11,10 @@ category: 'History'
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: 'History/台灣眷村歷史.md'
+translatedFrom: "History/台灣眷村歷史.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:e26ca70cc051b743"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 # Les villages militaires de Taïwan — mémoire d'un exil fondateur

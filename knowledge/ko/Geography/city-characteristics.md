@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Geography/城市特色與區域文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:14ee4edcca68b831'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 # 도시 특색과 지역 문화

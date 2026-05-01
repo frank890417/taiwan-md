@@ -2,7 +2,14 @@
 title: 'Li Kuo-hsiu : le roi de la comédie taïwanaise'
 description: 'Fondateur du Ping Fong Acting Troupe, maître incontesté du théâtre comique à Taïwan, décédé en 2013'
 date: 2026-03-19
-tags: ['Li Kuo-hsiu', 'Ping Fong Acting Troupe', 'comédie', 'théâtre', 'arts dramatiques taïwanais']
+tags:
+  [
+    'Li Kuo-hsiu',
+    'Ping Fong Acting Troupe',
+    'comédie',
+    'théâtre',
+    'arts dramatiques taïwanais',
+  ]
 subcategory: 'Arts et Design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +17,14 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/李國修.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7e394b3479d9d206'
+translatedAt: '2026-04-14T19:15:26+08:00'
 ---
 
 # Li Kuo-hsiu : le roi de la comédie taïwanaise
 
-Li Kuo-hsiu est sans doute la figure la plus marquante du théâtre comique contemporain à Taïwan. En 1986, il fonde le Ping Fong Acting Troupe et signe des œuvres qui feront date : *Shamlet*, *Chroniques de l'opéra de Pékin* et *La Rougeur des filles*. Enveloppant les grandes questions humaines dans une forme résolument comique, il explore avec humour et profondeur les enjeux sérieux de la société taïwanaise — ce qui lui vaut le titre de « roi de la comédie taïwanaise ». En juillet 2013, une crise cardiaque l'emporte à 58 ans, laissant derrière lui un héritage théâtral considérable.
+Li Kuo-hsiu est sans doute la figure la plus marquante du théâtre comique contemporain à Taïwan. En 1986, il fonde le Ping Fong Acting Troupe et signe des œuvres qui feront date : _Shamlet_, _Chroniques de l'opéra de Pékin_ et _La Rougeur des filles_. Enveloppant les grandes questions humaines dans une forme résolument comique, il explore avec humour et profondeur les enjeux sérieux de la société taïwanaise — ce qui lui vaut le titre de « roi de la comédie taïwanaise ». En juillet 2013, une crise cardiaque l'emporte à 58 ans, laissant derrière lui un héritage théâtral considérable.
 
 ## Enfance dans les villages de garnison
 
@@ -34,7 +44,7 @@ Dès cette époque, il fait preuve d'un double talent : dramaturge et interprèt
 
 ## Les années Performance Workshop
 
-En 1984, Li Kuo-hsiu cofonde le Performance Workshop avec Lai Sheng-chuan, Jin Shijie et d'autres artistes — ses premiers pas dans le théâtre professionnel. Il participe à la création de *Cette nuit-là, nous parlions de xiangsheng*, spectacle qui deviendra un classique, et démontre d'emblée l'étendue de son talent.
+En 1984, Li Kuo-hsiu cofonde le Performance Workshop avec Lai Sheng-chuan, Jin Shijie et d'autres artistes — ses premiers pas dans le théâtre professionnel. Il participe à la création de _Cette nuit-là, nous parlions de xiangsheng_, spectacle qui deviendra un classique, et démontre d'emblée l'étendue de son talent.
 
 C'est au sein de cette structure qu'il assimile les méthodes du théâtre contemporain, notamment les techniques d'improvisation collective. Cette expérience fondatrice lui donne les outils pour, plus tard, monter sa propre compagnie.
 
@@ -50,15 +60,15 @@ Les débuts sont modestes : des salles rudimentaires, peu de public. Mais Li Kuo
 
 ## La trilogie fondatrice
 
-### *Shamlet* (1992)
+### _Shamlet_ (1992)
 
-*Shamlet* est l'œuvre maîtresse de Li Kuo-hsiu. Il y transplante *Hamlet* de Shakespeare dans l'univers des villages de garnison taïwanais. Le héros, Shamlet, est un jeune homme tiraillé entre l'héritage de son père et ses propres aspirations.
+_Shamlet_ est l'œuvre maîtresse de Li Kuo-hsiu. Il y transplante _Hamlet_ de Shakespeare dans l'univers des villages de garnison taïwanais. Le héros, Shamlet, est un jeune homme tiraillé entre l'héritage de son père et ses propres aspirations.
 
 L'œuvre réussit le tour de force de marier le classique occidental à l'expérience locale taïwanaise, interrogeant les grandes questions existentielles avec humour et profondeur. L'interprétation de Li Kuo-hsiu associe la densité du texte shakespearien à la proximité du quotidien taïwanais.
 
-*Shamlet* sera joué plus d'une centaine de fois et s'imposera comme un classique de l'histoire du théâtre taïwanais. Ce succès confirme la place de Li Kuo-hsiu sur la scène nationale et prouve la fécondité des adaptations ancrées dans le terroir local.
+_Shamlet_ sera joué plus d'une centaine de fois et s'imposera comme un classique de l'histoire du théâtre taïwanais. Ce succès confirme la place de Li Kuo-hsiu sur la scène nationale et prouve la fécondité des adaptations ancrées dans le terroir local.
 
-### *Chroniques de l'opéra de Pékin* (1996)
+### _Chroniques de l'opéra de Pékin_ (1996)
 
 Cette pièce suit le parcours d'un comédien d'opéra traditionnel confronté aux difficultés de perpétuer son art dans le monde moderne. Li Kuo-hsiu s'inspire de sa propre initiation à l'opéra de Pékin pour livrer une œuvre semi-autobiographique d'une rare sincérité.
 
@@ -66,13 +76,13 @@ Il intercale des extraits de chant et de gestuelle issus de l'opéra traditionne
 
 L'œuvre remporte le Grand Prix de la première édition des Taishin Arts Awards et connaît une reconnaissance internationale. Elle illustre la réflexion de Li sur la transmission culturelle et la façon dont la tradition peut se réinventer.
 
-### *La Rougeur des filles* (1999)
+### _La Rougeur des filles_ (1999)
 
 Li Kuo-hsiu compose cette pièce pour rendre hommage à sa mère. Il y retrace le destin d'une femme ordinaire qui sacrifie ses rêves pour sa famille, sans jamais perdre sa joie de vivre ni sa force tranquille.
 
 L'œuvre témoigne de la compréhension et du respect profond que Li porte aux femmes. Avec une plume douce et attentive, il célèbre la grandeur maternelle : les rires s'accompagnent de larmes sincères.
 
-Le succès de *La Rougeur des filles* révèle que Li Kuo-hsiu n'est pas seulement un brillant comédien ; c'est un observateur de l'âme humaine, capable de trouver l'extraordinaire dans les gestes du quotidien.
+Le succès de _La Rougeur des filles_ révèle que Li Kuo-hsiu n'est pas seulement un brillant comédien ; c'est un observateur de l'âme humaine, capable de trouver l'extraordinaire dans les gestes du quotidien.
 
 ## Une esthétique comique au service de l'humain
 
@@ -100,7 +110,7 @@ Li Kuo-hsiu était convaincu que la culture des villages de garnison fait partie
 
 ## Les dernières années et la maladie
 
-À partir de la fin des années 2000, la santé de Li Kuo-hsiu se dégrade, mais il continue de créer et de monter sur scène. *La Bande des Six* (2007) et *Les Années dorées* (2011) — œuvres tardives — témoignent d'une méditation de plus en plus profonde sur le sens de l'existence.
+À partir de la fin des années 2000, la santé de Li Kuo-hsiu se dégrade, mais il continue de créer et de monter sur scène. _La Bande des Six_ (2007) et _Les Années dorées_ (2011) — œuvres tardives — témoignent d'une méditation de plus en plus profonde sur le sens de l'existence.
 
 Face à la maladie, il reste fidèle à son humour. On lui prête cette formule : « La vie ressemble à certaines nécessités naturelles : on pousse et ça finit par sortir. » Cette philosophie joviale a touché un public immense.
 

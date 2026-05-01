@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/吳哲宇.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:13d119f521fb7a00'
+translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 
 # 우쩌위(Che-Yu Wu)

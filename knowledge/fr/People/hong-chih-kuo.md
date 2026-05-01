@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/郭泓志.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:afabda9042512747'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Kuo Hong-Chih : le lanceur gaucher aux bras d'acier

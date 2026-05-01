@@ -2,7 +2,14 @@
 title: 'Le tourisme inclusif à Taïwan : quand la chaleur humaine devient la meilleure accessibilité'
 description: "Du point de vue familial, cette analyse explore comment Taïwan redéfinit le voyage multigénérationnel à l'approche d'une société super-vieillissante, grâce à la générosité des habitants et aux infrastructures inclusives."
 date: 2026-03-23
-tags: ['tourisme inclusif', 'accessibilité', 'société super-vieillissante', 'culture familiale', 'résilience sociale']
+tags:
+  [
+    'tourisme inclusif',
+    'accessibilité',
+    'société super-vieillissante',
+    'culture familiale',
+    'résilience sociale',
+  ]
 subcategory: 'Accessibilité et inclusion'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,10 +18,13 @@ lastHumanReview: false
 lastVerified: 2026-03-23
 readingTime: 12
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:8a4d3295bf443494'
+translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 
 > **En 30 secondes :**
-> À Taïwan, les véritables infrastructures d'accessibilité ne se résument pas aux rampes et aux ascenseurs — elles tiennent avant tout à la *chaleur humaine* : cette solidarité informelle qui pousse un inconnu à céder spontanément sa place ou à aider une famille avec un fauteuil roulant.
+> À Taïwan, les véritables infrastructures d'accessibilité ne se résument pas aux rampes et aux ascenseurs — elles tiennent avant tout à la _chaleur humaine_ : cette solidarité informelle qui pousse un inconnu à céder spontanément sa place ou à aider une famille avec un fauteuil roulant.
 > Alors que Taïwan s'apprête à basculer officiellement en **société super-vieillissante en 2025** (plus de 20 % de la population ayant 65 ans ou plus), le tourisme tous âges confondus passe du statut de « besoin spécifique » à celui de « besoin universel ».
 > Ce phénomène dépasse la simple question de politique publique : il témoigne de la culture familiale et de la résilience sociale propres à Taïwan.
 
@@ -48,7 +58,7 @@ Ces données pointent vers une réalité incontournable : **l'inclusion tous âg
 
 ### Première phase : les infrastructures physiques (années 1990–2010)
 
-En application de la *Loi sur la protection des droits des personnes handicapées*, Taïwan a massivement investi dans les équipements d'accessibilité :
+En application de la _Loi sur la protection des droits des personnes handicapées_, Taïwan a massivement investi dans les équipements d'accessibilité :
 
 - Métro : ascenseurs sans obstacles sur toutes les lignes, dalles podotactiles, annonces vocales
 - Zones panoramiques nationales : les 13 directions régionales des parcs naturels ont progressivement amélioré leur accessibilité
@@ -197,7 +207,7 @@ Cet apprentissage n'est pas un « cours de développement personnel » délibér
 **Tendances politiques** :
 
 - **Objectif 2030** : toutes les zones panoramiques nationales répondent aux normes OMS d'accessibilité
-- **Harmonisation réglementaire** : intégration interministérielle entre la *Loi sur les droits des personnes handicapées* et les *Réglementations sur le développement du tourisme*
+- **Harmonisation réglementaire** : intégration interministérielle entre la _Loi sur les droits des personnes handicapées_ et les _Réglementations sur le développement du tourisme_
 - **Certification internationale** : ambition de devenir le premier pays d'Asie certifié « destination accessible »
 
 **Évolution sociale** :
@@ -218,4 +228,4 @@ Cette culture pourrait bien être la contribution la plus précieuse de Taïwan 
 7. [Plateforme de randonnée forestière taïwanaise : section tourisme accessible](https://recreation.forest.gov.tw/Topic/FOO)
 8. [Fondation Phoenix Travel : promotion des bus accessibles](https://event.travel.com.tw/accessibleBus/)
 9. [Association Sunabletaipei](https://www.facebook.com/sunabletaipei/)
-10. Conseil national du développement : *Projections démographiques de la République de Chine* (octobre 2024)
+10. Conseil national du développement : _Projections démographiques de la République de Chine_ (octobre 2024)

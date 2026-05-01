@@ -15,6 +15,9 @@ author: 'Taiwan.md Contributors'
 readingTime: 20
 featured: true
 translatedFrom: 'Nature/國家公園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ad60d2162098f87d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's National Parks — Island Ecosystem Treasures

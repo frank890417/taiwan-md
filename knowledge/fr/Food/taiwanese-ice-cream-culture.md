@@ -2,7 +2,8 @@
 title: 'La culture des glaces taïwanaises'
 description: "Des glaces à la mangue de Yujing à la révolution de la neige rasée, immersion dans cette culture unique où l'on mange des glaces même quand il fait 10 degrés."
 date: 2026-03-19
-tags: ['glaces', 'glace à la mangue', 'neige rasée', 'glace pilée', 'ICE MONSTER']
+tags:
+  ['glaces', 'glace à la mangue', 'neige rasée', 'glace pilée', 'ICE MONSTER']
 subcategory: 'Pâtisseries et desserts'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -14,15 +15,18 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Taipei_mangguo
 imageAlt: 'Glace pilée à la mangue'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣冰品文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:281be5a9fbb7d21c'
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # La culture des glaces taïwanaises
 
-La passion des Taïwanais pour les glaces est, à bien des égards, unique au monde. Même quand le thermomètre descend à 10 degrés, les glaciers affichent complet. De la glace pilée (剉冰, *cuò bīng*) traditionnelle à la neige rasée (雪花冰, *xuě huā bīng*) contemporaine, des mangues sauvages de Yujing aux ambitions internationales d'ICE MONSTER, la culture des glaces taïwanaises a accompli une transformation remarquable : de petit en-cas populaire à dessert de prestige. Cette passion pour les glaces, affranchie des saisons, reflète la quête singulière des Taïwanais d'une certaine qualité de vie au quotidien.
+La passion des Taïwanais pour les glaces est, à bien des égards, unique au monde. Même quand le thermomètre descend à 10 degrés, les glaciers affichent complet. De la glace pilée (剉冰, _cuò bīng_) traditionnelle à la neige rasée (雪花冰, _xuě huā bīng_) contemporaine, des mangues sauvages de Yujing aux ambitions internationales d'ICE MONSTER, la culture des glaces taïwanaises a accompli une transformation remarquable : de petit en-cas populaire à dessert de prestige. Cette passion pour les glaces, affranchie des saisons, reflète la quête singulière des Taïwanais d'une certaine qualité de vie au quotidien.
 
 ## Yujing et la mangue : la douce légende d'un terroir devenu mondial
 
-Le district de Yujing, à Tainan, est surnommé « le pays de la mangue ». Ses mangues Irwin (愛文芒果, *ài wén máng guǒ*) — juteuses et d'une douceur parfumée — sont réputées dans toute l'île. Chaque année, de mai à août, la saison des mangues attire à Yujing une foule de « pèlerins » venus chercher la glace à la mangue la plus fraîche possible.
+Le district de Yujing, à Tainan, est surnommé « le pays de la mangue ». Ses mangues Irwin (愛文芒果, _ài wén máng guǒ_) — juteuses et d'une douceur parfumée — sont réputées dans toute l'île. Chaque année, de mai à août, la saison des mangues attire à Yujing une foule de « pèlerins » venus chercher la glace à la mangue la plus fraîche possible.
 
 La glace à la mangue de Yujing doit sa renommée à sa franchise : une mangue Irwin entière, pelée et coupée en morceaux, nappée de jus de mangue frais, posée sur une base de glace pilée traditionnelle. Simple et radical. C'est cette pureté qui en a fait le dessert emblématique de l'été taïwanais.
 
@@ -44,7 +48,7 @@ Cette innovation taïwanaise a également commencé à s'exporter. Les machines 
 
 Malgré le rayonnement de la neige rasée, la glace pilée traditionnelle conserve une place à part dans le cœur des Taïwanais. Sa texture rustique et la richesse de ses garnitures portent les souvenirs d'enfance de toute une génération.
 
-Un stand de glace pilée traditionnel propose généralement une quinzaine de garnitures au choix : haricots rouges, haricots mungo, orge perlé, gelée d'herbe (*xiān cǎo*, 仙草), gelée de graines de corossol (*ài yù*, 愛玉), perles de tapioca, boules de taro, entre autres. Les clients combinent librement selon leurs envies, pour créer un bol entièrement personnalisé. Ce concept de personnalisation est apparu bien avant que le mot ne devienne un argument marketing.
+Un stand de glace pilée traditionnel propose généralement une quinzaine de garnitures au choix : haricots rouges, haricots mungo, orge perlé, gelée d'herbe (_xiān cǎo_, 仙草), gelée de graines de corossol (_ài yù_, 愛玉), perles de tapioca, boules de taro, entre autres. Les clients combinent librement selon leurs envies, pour créer un bol entièrement personnalisé. Ce concept de personnalisation est apparu bien avant que le mot ne devienne un argument marketing.
 
 Le stand de glace pilée dans le marché de nuit est l'un des symboles les plus forts de la culture taïwanaise. Par les nuits étouffantes de l'été, un bol de glace fraîche efface d'un coup la fatigue de la journée. Les gestes habiles du vendeur — raper la glace, ajouter les garnitures, verser le sirop — ont quelque chose d'une performance minutieuse.
 
@@ -64,11 +68,11 @@ Enfin, le climat hivernal taïwanais est relativement doux comparé aux régions
 
 ## La diversité foisonnante des spécialités locales
 
-Chaque région de Taïwan a développé sa propre culture de la glace. Yilan propose une glace à l'ail, Taichung sa glace au riz soufflé (*fēng rén bīng*, 豐仁冰), Tainan sa glace sur gâteau de riz soufflé (*pàng bǐng bīng qí lín*, 椪餅冰淇淋), Hualien sa glace à la patate douce de Hualien. Chaque endroit cultive sa propre création.
+Chaque région de Taïwan a développé sa propre culture de la glace. Yilan propose une glace à l'ail, Taichung sa glace au riz soufflé (_fēng rén bīng_, 豐仁冰), Tainan sa glace sur gâteau de riz soufflé (_pàng bǐng bīng qí lín_, 椪餅冰淇淋), Hualien sa glace à la patate douce de Hualien. Chaque endroit cultive sa propre création.
 
 Ces spécialités locales mettent souvent en valeur les ingrédients et les éléments culturels du terroir. La glace au sorgho de Kinmen, par exemple, intègre la culture locale de l'eau-de-vie de sorgho dans un dessert glacé. La glace au vin de riz de Matsu suit le même principe.
 
-Les communautés aborigènes ont aussi leur propre culture de la glace, avec des créations à base de millet, de quinoa rouge (*hóng lí*, 紅藜) ou de légumes de montagne (*shān sū*, 山蘇) — des saveurs uniques qui transmettent les traditions alimentaires des peuples autochtones.
+Les communautés aborigènes ont aussi leur propre culture de la glace, avec des créations à base de millet, de quinoa rouge (_hóng lí_, 紅藜) ou de légumes de montagne (_shān sū_, 山蘇) — des saveurs uniques qui transmettent les traditions alimentaires des peuples autochtones.
 
 Cette diversification donne à la culture des glaces taïwanaises une riche couleur locale et renforce l'attrait touristique des différentes régions.
 

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 translatedFrom: 'People/陳水扁.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6f1095e22173ebb5'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 천수이볜

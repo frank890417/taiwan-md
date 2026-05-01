@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/林百里.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6e151fb80e93cea0'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 # 린 바이리: 노트북 ODM 왕에서 AI 서버의 새 시대로

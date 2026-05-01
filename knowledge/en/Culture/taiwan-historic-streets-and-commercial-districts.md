@@ -15,6 +15,9 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣老街文化與商業街區.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:979c4f4ab814a0ca'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Historic Streets and Commercial Districts

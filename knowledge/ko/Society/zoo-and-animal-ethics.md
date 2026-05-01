@@ -19,6 +19,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Society/動物園與展演動物倫理.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'ecb173b1'
+sourceContentHash: 'sha256:b513829394ccaf6f'
+translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 
 # 동물원과 전시 동물 윤리

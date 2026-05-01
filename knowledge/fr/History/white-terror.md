@@ -10,7 +10,10 @@ featured: true
 category: 'History'
 lastVerified: 2026-04-05
 lastHumanReview: false
-translatedFrom: 'History/台灣白色恐怖.md'
+translatedFrom: "History/台灣白色恐怖.md"
+sourceCommitSha: "c0e572fd"
+sourceContentHash: "sha256:97d17c1374f9b150"
+translatedAt: "2026-04-14T12:31:41+08:00"
 ---
 
 # La Terreur Blanche à Taïwan
@@ -35,8 +38,8 @@ En novembre 1988, seize mois après la levée de la loi martiale, le procureur e
 
 C'était la première fois qu'un chiffre officiel était établi. Mais tous les chercheurs savaient que ce nombre ne représentait que la partie émergée de l'iceberg.
 
-| 29 407 affaires | 14 946 dossiers | 1 061 personnes |
-|----------------|----------------|----------------|
+| 29 407 affaires                                | 14 946 dossiers                                                                           | 1 061 personnes       |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- |
 | Jugements militaires (ministère de la Justice) | Personnes jugées dans la base de données de la Commission pour la Justice transitionnelle | Exécutions confirmées |
 
 La « Base de données pour la justice transitionnelle à Taïwan », mise en ligne en 2020 par la Commission pour la promotion de la justice transitionnelle, recense **14 946 dossiers** de personnes condamnées dans des affaires politiques.[^3] L'Association taïwanaise pour la vérité et la réconciliation dénombre quant à elle **1 061 condamnés à mort** pendant la loi martiale (jusqu'en 2013).[^4] En 2017, l'Exécutif estimait par ailleurs que le nombre réel de victimes pourrait dépasser **200 000 personnes**.[^5]
@@ -81,14 +84,14 @@ Ce qui rendait la Terreur Blanche si terrifiante n'est pas qu'elle obéissait à
 
 ### La pensée : une bande dessinée de Bo Yang (1968)
 
-Le 3 janvier 1968, l'édition familiale du *China Daily News* publie une traduction du dessinateur américain *Popeye* signée Bo Yang.[^8] L'histoire : Popeye et son fils achètent ensemble une petite île et y fondent un État privé, chacun candidatant à la présidence. Dans la traduction de Bo Yang, l'enfant dit à Popeye : « Il n'y a que nous deux dans tout le pays, tu sais ! »
+Le 3 janvier 1968, l'édition familiale du _China Daily News_ publie une traduction du dessinateur américain _Popeye_ signée Bo Yang.[^8] L'histoire : Popeye et son fils achètent ensemble une petite île et y fondent un État privé, chacun candidatant à la présidence. Dans la traduction de Bo Yang, l'enfant dit à Popeye : « Il n'y a que nous deux dans tout le pays, tu sais ! »
 
 Le tribunal militaire considéra que cette phrase faisait allusion aux deux Chiang. Le 7 mars, Bo Yang fut arrêté et condamné à douze ans. À la mort de Chiang Kai-shek en 1975, sa peine fut commuée à huit ans. Le 7 mars 1976, le jour même de sa libération théorique, il fut transféré à l'île Verte par décision du Bureau de sécurité nationale pour y être « maintenu en observation ». Ce n'est qu'en avril 1977, sous la pression du gouvernement américain, qu'il fut enfin relâché.[^8]
 
 Au total : neuf ans et vingt-six jours. Pour avoir traduit une bande dessinée américaine.
 
 > **💡 Le saviez-vous ?**
-> Durant ses neuf années à l'île Verte, Bo Yang lut l'intégrale du *Zizhi Tongjian* et rédigea trois ouvrages : *Une histoire du peuple chinois*, *Généalogies des empereurs, impératrices, princes et princesses de toutes les dynasties chinoises* et un *Tableau chronologique de l'histoire chinoise*. Après sa libération, il consacra encore dix ans à traduire le *Zizhi Tongjian* en 72 volumes. Cette cellule avait transformé un simple traducteur en historien.
+> Durant ses neuf années à l'île Verte, Bo Yang lut l'intégrale du _Zizhi Tongjian_ et rédigea trois ouvrages : _Une histoire du peuple chinois_, _Généalogies des empereurs, impératrices, princes et princesses de toutes les dynasties chinoises_ et un _Tableau chronologique de l'histoire chinoise_. Après sa libération, il consacra encore dix ans à traduire le _Zizhi Tongjian_ en 72 volumes. Cette cellule avait transformé un simple traducteur en historien.
 
 ### Les relations : le plafond de Shih Shui-huan (1954)
 
@@ -113,7 +116,7 @@ Les 28 et 29 décembre 1952, le ministère de la Défense dépêcha plusieurs mi
 L'ancien directeur de l'Institut d'histoire nationale, Chang Yen-hsien, consacra de son vivant une grande part de ses recherches à Luku, recueillant les témoignages oraux de plus de 100 villageois.[^11] Tous partageaient un trait commun : l'incapacité à raconter clairement « ce qui s'est passé cette année-là ». Non pas parce qu'ils avaient oublié, mais parce qu'ils n'avaient jamais vraiment su. Certains n'apprirent qu'après leur libération, plusieurs années plus tard, à quelle organisation ils avaient « adhéré ».
 
 > **📝 Note de la rédaction**
-> *Cité des douleurs* et *Dust in the Wind*, deux films du réalisateur Wu Nien-jen, s'inspirent en partie des événements de Luku. Le site s'appelle aujourd'hui « Parc commémoratif de l'incident de Luku ». Une stèle y a été érigée. En 2017, lors d'une cérémonie commémorative, le fils du meneur Chen Ben-jiang prit la parole : « Je viens m'excuser auprès de vous au nom de mon père. » Un enfant du côté des bourreaux qui présente des excuses — c'est une chose rarissime dans les cérémonies en mémoire de la Terreur Blanche.
+> _Cité des douleurs_ et _Dust in the Wind_, deux films du réalisateur Wu Nien-jen, s'inspirent en partie des événements de Luku. Le site s'appelle aujourd'hui « Parc commémoratif de l'incident de Luku ». Une stèle y a été érigée. En 2017, lors d'une cérémonie commémorative, le fils du meneur Chen Ben-jiang prit la parole : « Je viens m'excuser auprès de vous au nom de mon père. » Un enfant du côté des bourreaux qui présente des excuses — c'est une chose rarissime dans les cérémonies en mémoire de la Terreur Blanche.
 
 ---
 
@@ -135,7 +138,7 @@ Pendant ses deux années de détention, il adressa 60 lettres en japonais à sa 
 
 Le contenu de ces lettres était pour l'essentiel fait de choses ordinaires : bien s'occuper des rizières, prendre soin des enfants, garder confiance en Dieu. Six mois avant d'être exécuté, il écrivit : « Si je rentre sain et sauf, je veux continuer à travailler pour mon peuple. »
 
-Le 10 décembre 2013, Journée mondiale des droits de l'homme, le fils de Kao I-sheng, Kao Ying-chieh, offrit ces 60 lettres au Musée national des droits de l'homme. En 2020, le ministère de la Culture publia officiellement les *Lettres de prison de Kao I-sheng* — premier ouvrage publié dans le cadre de la **justice transitionnelle pour les peuples autochtones** à Taïwan.[^14] Un demi-siècle plus tard, le peuple Tsou pouvait enfin lire dans leur intégralité les dernières paroles de leur chef.
+Le 10 décembre 2013, Journée mondiale des droits de l'homme, le fils de Kao I-sheng, Kao Ying-chieh, offrit ces 60 lettres au Musée national des droits de l'homme. En 2020, le ministère de la Culture publia officiellement les _Lettres de prison de Kao I-sheng_ — premier ouvrage publié dans le cadre de la **justice transitionnelle pour les peuples autochtones** à Taïwan.[^14] Un demi-siècle plus tard, le peuple Tsou pouvait enfin lire dans leur intégralité les dernières paroles de leur chef.
 
 > **📝 Note de la rédaction**
 > Lors de la cérémonie de don, Kao Ying-chieh dit qu'il avait lu ces lettres pendant des dizaines d'années, mais qu'il ne les avait vraiment comprises que maintenant — parce que son père les avait écrites en japonais, et que sa génération avait grandi sous l'interdiction du japonais imposée par le gouvernement nationaliste. La Terreur Blanche n'avait pas seulement tué un chef tsou : elle avait tranché le lien linguistique entre deux générations. Un père qui écrit des mots que son fils ne peut pas lire — c'est là l'une des violences les plus profondes de la Terreur Blanche.
@@ -175,11 +178,11 @@ Ce n'est pas de la haine. C'est une comptabilité. La Terreur Blanche ne sera pa
 
 [^5]: [風傳媒：白色恐怖外省受害達 46%！受難者蔡寬裕](https://www.storm.mg/article/487266) — Cite l'estimation de l'Exécutif de 2017 selon laquelle le nombre réel de victimes pourrait dépasser 200 000, et analyse le fait inattendu que 46 % des victimes étaient originaires de Chine continentale.
 
-[^6]: [Wikipedia: White Terror (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_(Taiwan)) — Synthèse de sources académiques anglophones : entre 7 000 et 15 000 citoyens surveillés par an de 1980 à 2000, plus de 5 000 informateurs sur les campus universitaires en 1983, et analyse du contenu des archives des services de renseignement.
+[^6]: [Wikipedia: White Terror (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)>) — Synthèse de sources académiques anglophones : entre 7 000 et 15 000 citoyens surveillés par an de 1980 à 2000, plus de 5 000 informateurs sur les campus universitaires en 1983, et analyse du contenu des archives des services de renseignement.
 
 [^7]: [報導者：尋找政治隱傷者──那些受難者、他們的家人，還有我們](https://www.twreporter.org/a/228-political-victims-families) — Grand reportage de la chercheuse Peng Jen-yu de l'Academia Sinica sur les survivants de la Terreur Blanche, avec le témoignage de Chen Meng-ho, encore convaincu d'être surveillé à la fin de sa vie.
 
-[^8]: [國家人權記憶庫：柏楊大力水手漫畫案](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — Base de données des événements du Musée national des droits de l'homme : détails de la condamnation de Bo Yang en 1968 à douze ans de prison pour avoir traduit *Popeye*, et son maintien forcé à l'île Verte après sa peine purgée.
+[^8]: [國家人權記憶庫：柏楊大力水手漫畫案](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — Base de données des événements du Musée national des droits de l'homme : détails de la condamnation de Bo Yang en 1968 à douze ans de prison pour avoir traduit _Popeye_, et son maintien forcé à l'île Verte après sa peine purgée.
 
 [^9]: [維基百科：施水環](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Chronologie complète de l'arrestation de Shih Shui-huan en 1954 (après que son frère Shih Chih-cheng se fut caché deux ans chez elle) et de son exécution le 24 juillet 1956.
 

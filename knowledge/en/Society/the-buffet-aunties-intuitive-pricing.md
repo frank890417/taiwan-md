@@ -19,6 +19,9 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 category: 'society'
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c40e9256e5031f97'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # The Mystical Pricing Algorithm of Taiwan Buffet Aunties

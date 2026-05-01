@@ -2,7 +2,14 @@
 title: 'Logement social et justice résidentielle à Taïwan'
 description: 'Comment Taïwan cherche à réaliser la justice résidentielle grâce à sa politique de logement social, pour que chacun puisse trouver un foyer digne'
 date: 2026-03-18
-tags: ['logement social', 'justice résidentielle', 'politique du logement', 'gestion locative déléguée', 'rénovation urbaine']
+tags:
+  [
+    'logement social',
+    'justice résidentielle',
+    'politique du logement',
+    'gestion locative déléguée',
+    'rénovation urbaine',
+  ]
 subcategory: 'Droits humains et égalité'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5dd2254f645973f6'
+translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 
 # Logement social et justice résidentielle à Taïwan
@@ -492,15 +502,15 @@ La justice résidentielle ne se construit pas seule. Elle suppose l'engagement d
 
 ## Sources
 
-1. [Bureau national d'administration du territoire, Ministère de l'Intérieur](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), *Rapport sur l'avancement du logement social*, décembre 2024
-2. [Centre national du logement et de la rénovation urbaine](https://www.hurc.org.tw/), *Bilan d'exécution du plan de logements sociaux*, 2024
-3. [Yuan exécutif, *Plan de développement du logement social*](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827), version approuvée en mars 2017
+1. [Bureau national d'administration du territoire, Ministère de l'Intérieur](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), _Rapport sur l'avancement du logement social_, décembre 2024
+2. [Centre national du logement et de la rénovation urbaine](https://www.hurc.org.tw/), _Bilan d'exécution du plan de logements sociaux_, 2024
+3. [Yuan exécutif, _Plan de développement du logement social_](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827), version approuvée en mars 2017
 4. [Loi sur le logement (version modifiée 2017), Base nationale de données juridiques](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Fondation pour la recherche et le développement de la rénovation urbaine](https://www.ur.org.tw/), *Statistiques sur les projets de rénovation urbaine*, 2024
+5. [Fondation pour la recherche et le développement de la rénovation urbaine](https://www.ur.org.tw/), _Statistiques sur les projets de rénovation urbaine_, 2024
 6. [Wikipédia, article « Logement social à Taïwan »](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), version de mars 2024
-7. [Urban Renewal Wealth, *La construction directe et la gestion déléguée atteignent de nouveaux records*](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
-8. [Bureau de développement urbain de Taipei](https://udd.gov.taipei/), *Livre blanc sur la politique de logement social*, 2023
-9. [Bureau de développement des villes et des campagnes, Nouvelle Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), *Plan de développement du logement social de Nouvelle Taipei*, 2024
-10. [Bureau du développement du logement, Taoyuan](https://ohd.tycg.gov.tw/), *Bilan du logement social à Taoyuan*, 2024
-11. [Fondation Cui Mama](https://www.tmm.org.tw/), *Rapport d'enquête sur le marché locatif*, 2024
-12. [Alliance pour la promotion du logement social à Taïwan](https://socialhousingtw.blogspot.com/), *Propositions de politique pour le logement social*, 2023
+7. [Urban Renewal Wealth, _La construction directe et la gestion déléguée atteignent de nouveaux records_](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
+8. [Bureau de développement urbain de Taipei](https://udd.gov.taipei/), _Livre blanc sur la politique de logement social_, 2023
+9. [Bureau de développement des villes et des campagnes, Nouvelle Taipei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), _Plan de développement du logement social de Nouvelle Taipei_, 2024
+10. [Bureau du développement du logement, Taoyuan](https://ohd.tycg.gov.tw/), _Bilan du logement social à Taoyuan_, 2024
+11. [Fondation Cui Mama](https://www.tmm.org.tw/), _Rapport d'enquête sur le marché locatif_, 2024
+12. [Alliance pour la promotion du logement social à Taïwan](https://socialhousingtw.blogspot.com/), _Propositions de politique pour le logement social_, 2023

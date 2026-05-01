@@ -3,7 +3,15 @@ title: 'La diversité linguistique et la culture des langues maternelles'
 description: 'Du taiwanais au hakka en passant par les langues des peuples autochtones : comment Taïwan préserve et développe la culture des langues maternelles dans une société multilingue'
 date: 2026-03-18
 category: 'Culture'
-tags: ['langues', 'langue maternelle', 'taiwanais', 'hakka', 'langues autochtones', 'multiculturalisme']
+tags:
+  [
+    'langues',
+    'langue maternelle',
+    'taiwanais',
+    'hakka',
+    'langues autochtones',
+    'multiculturalisme',
+  ]
 subcategory: 'Cultures ethniques'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Culture/語言多樣性與母語文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bf65aaceeac493b6'
+translatedAt: '2026-04-14T19:13:14+08:00'
 ---
 
 # La diversité linguistique et la culture des langues maternelles
@@ -61,7 +72,7 @@ Le taiwanais est la langue vernaculaire la plus représentative de Taïwan. Il e
 
 - **Langue des émotions :** de nombreux Taïwanais estiment que le taiwanais exprime mieux les sentiments profonds
 - **Proverbes et dictons :** riche répertoire de locutions et d'adages, comme « 一枝草一點露 » (chaque brin d'herbe reçoit sa goutte de rosée)
-- **Arts de la scène :** langue principale du théâtre lyrique *gezaixi* et du théâtre de marionnettes *budaixi*
+- **Arts de la scène :** langue principale du théâtre lyrique _gezaixi_ et du théâtre de marionnettes _budaixi_
 - **Culture populaire :** vecteur important des chansons et séries télévisées en taiwanais
 
 ### Le hakka
@@ -80,7 +91,7 @@ Le hakka est le deuxième groupe dialectal de Taïwan. Les communautés hakka on
 **Langue et culture hakka :**
 
 - **Chants de montagne hakka :** expression majeure de la culture musicale traditionnelle
-- **Musique *ba yin* :** ensemble instrumental traditionnel hakka
+- **Musique _ba yin_ :** ensemble instrumental traditionnel hakka
 - **Comptines hakka :** transmission de la sagesse et des valeurs de la vie hakka
 
 ### Les langues des peuples autochtones
@@ -170,7 +181,7 @@ Selon les critères de l'UNESCO sur les langues en danger :
 
 ## Les fonctions sociales de l'usage linguistique
 
-### L'alternance codique (*code-switching*)
+### L'alternance codique (_code-switching_)
 
 Les Taïwanais maîtrisent généralement plusieurs langues et passent naturellement de l'une à l'autre selon le contexte, l'interlocuteur et le sujet abordé. Cette alternance codique reflète la répartition fonctionnelle des différentes langues au sein de la société.
 
@@ -226,8 +237,8 @@ La vitalité d'une langue dépend en dernière instance des choix de ses locuteu
 
 ## Références
 
-- Huang Xuanfan, [*Langue, société et conscience ethnique*](https://www.sanmin.com.tw/product/index/000219830)
-- Li Jen-kuei, [*L'histoire ethnique et les migrations des peuples austronésiens de Taïwan*](https://www.books.com.tw/products/0010493437)
-- Cheng Liang-wei, *Recueil d'études sur la langue taiwanaise*
+- Huang Xuanfan, [_Langue, société et conscience ethnique_](https://www.sanmin.com.tw/product/index/000219830)
+- Li Jen-kuei, [_L'histoire ethnique et les migrations des peuples austronésiens de Taïwan_](https://www.books.com.tw/products/0010493437)
+- Cheng Liang-wei, _Recueil d'études sur la langue taiwanaise_
 - [Loi sur le développement des langues nationales (2019)](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170143)
 - Publications du [Conseil pour les affaires hakka](https://www.hakka.gov.tw/) et du [Conseil des peuples autochtones](https://www.apc.gov.tw/)

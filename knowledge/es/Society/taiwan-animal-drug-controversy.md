@@ -20,6 +20,9 @@ readingTime: 18
 featured: false
 lastVerified: 2026-04-11
 translatedFrom: 'Society/台灣動物用藥爭議.md'
+sourceCommitSha: '1d7e529c'
+sourceContentHash: 'sha256:d7dcd37acdb09d6d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # La controversia sobre los medicamentos de uso animal en Taiwán

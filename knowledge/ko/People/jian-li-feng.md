@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 8
 translatedFrom: 'People/簡立峰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:638c3c318359c6b4'
+translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 
 # 젠리펑: 대만 AI 산업의 계몽 스승

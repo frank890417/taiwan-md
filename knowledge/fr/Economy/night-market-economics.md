@@ -2,7 +2,15 @@
 title: "L'économie des marchés de nuit : un miracle commercial sans marque"
 description: "Comment les marchés de nuit (夜市) de Taïwan génèrent près de 400 milliards de TWD de chiffre d'affaires annuel, sans marque unifiée, sans décor sophistiqué, ni emplacement fixe"
 date: 2026-03-21
-tags: ['économie', 'marché de nuit', 'Taïwan', 'modèle commercial', 'tourisme', 'street food']
+tags:
+  [
+    'économie',
+    'marché de nuit',
+    'Taïwan',
+    'modèle commercial',
+    'tourisme',
+    'street food',
+  ]
 subcategory: 'Développement économique'
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/夜市經濟學.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0fad49e81799ba5a'
+translatedAt: '2026-04-14T19:21:51+08:00'
 ---
 
 > Chaque soir à dix-huit heures, 233 000 étals s'illuminent simultanément à Taïwan. Sans marque commune, sans décoration somptueuse, sans même un emplacement fixe — ces petits stands en apparence « peu professionnels » génèrent pourtant près de 400 milliards de TWD par an et font vivre 470 000 familles. C'est le modèle commercial le plus singulier au monde, et la réussite économique la plus emblématique de Taïwan.

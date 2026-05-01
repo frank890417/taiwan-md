@@ -2,13 +2,23 @@
 title: "L'industrie taïwanaise de l'image numérique et de l'animation"
 description: "Du plus grand royaume mondial de la sous-traitance en animation à une nouvelle puissance de création originale — un demi-siècle de mutations de l'industrie taïwanaise de l'image numérique"
 date: 2026-03-20
-tags: ['image numérique', 'animation', 'effets visuels', 'industries créatives', 'industrie audiovisuelle']
+tags:
+  [
+    'image numérique',
+    'animation',
+    'effets visuels',
+    'industries créatives',
+    'industrie audiovisuelle',
+  ]
 subcategory: 'Divertissement numérique'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692543a60baf3299'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 # L'industrie taïwanaise de l'image numérique et de l'animation
@@ -65,7 +75,7 @@ Grandma and Her Ghosts a démontré que Taïwan était capable de produire une a
 
 **CGCG Inc. (西基電腦動畫)**, fondée en 1988, est pionnière de l'animation 3D par ordinateur à Taïwan. Contrairement à la sous-traitance 2D de Wang Film Productions, CGCG s'est spécialisée dès le départ dans la CG 3D :
 
-- Production d'animations CG pour **Lucasfilm Animation** dans les séries *LEGO Star Wars* et *Star Wars*
+- Production d'animations CG pour **Lucasfilm Animation** dans les séries _LEGO Star Wars_ et _Star Wars_
 - Collaborations au long cours avec **DreamWorks Animation**, **Nickelodeon** et **Warner Bros.**
 - Production de séries animées 3D haut de gamme pour Disney+, Netflix et Apple TV
 - Deux **Daytime Emmy Awards consécutifs** dans la catégorie animation spécialisée
@@ -88,7 +98,7 @@ Réalisations marquantes :
 - Participation aux effets visuels de nombreux films et séries taïwanais
 - Développement de la production virtuelle (Virtual Production) et des applications de l'IA
 
-Les scènes surnaturelles de *Detention* combinent des éléments culturels proprement taïwanais (le contexte historique de la Terreur blanche) et une technique visuelle de niveau international, illustrant la capacité des équipes taïwanaises à maîtriser à la fois les sujets locaux et les standards technologiques mondiaux.
+Les scènes surnaturelles de _Detention_ combinent des éléments culturels proprement taïwanais (le contexte historique de la Terreur blanche) et une technique visuelle de niveau international, illustrant la capacité des équipes taïwanaises à maîtriser à la fois les sujets locaux et les standards technologiques mondiaux.
 
 > **Sources :** [Site officiel de Reno Studios](https://reno-studios.com/) ; [TechBang — Interview des artisans des effets de Detention chez Reno Studios](https://www.techbang.com/posts/78048)
 
@@ -105,7 +115,7 @@ Les scènes surnaturelles de *Detention* combinent des éléments culturels prop
 **Digimax Inc. (太極影音科技)**, fondée en 1990, est l'une des plus anciennes sociétés de post-production audiovisuelle de Taïwan :
 
 - Origines dans la post-production publicitaire télévisée ; expansion en 1993 vers les effets visuels numériques et l'animation 3D
-- Production d'animations 3D originales (dont *National Treasures in Action*)
+- Production d'animations 3D originales (dont _National Treasures in Action_)
 - L'un des centres de production numérique audiovisuelle les plus grands et les mieux équipés de Taïwan
 
 > **Sources :** [Taiwan Cinema — Digimax Inc.](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
@@ -117,7 +127,7 @@ Les scènes surnaturelles de *Detention* combinent des éléments culturels prop
 **Studio2** est l'un des studios d'animation originale les plus représentatifs de Taïwan :
 
 - Série phare **Bakery Aminal (小貓巴克里)** — animation originale ancrée dans les cultures urbaines et rurales de Taïwan
-- Sortie du film d'animation *Bakery Aminal* en 2017, avec une distribution en salle
+- Sortie du film d'animation _Bakery Aminal_ en 2017, avec une distribution en salle
 - Un style qui a su établir une nouvelle esthétique pour l'animation sinophone
 - Articulation entre ambitions commerciales et expérimentation artistique
 
@@ -133,13 +143,13 @@ Les scènes surnaturelles de *Detention* combinent des éléments culturels prop
 
 L'industrie taïwanaise de l'image numérique couvre une chaîne de production complète :
 
-| Segment | Acteurs représentatifs |
-|---|---|
-| Production d'animation | Animation 3D CG (CGCG), animation 2D, animation originale (Studio2) |
-| Effets visuels | VFX pour films/séries (Reno Studios), effets publicitaires (Moonshine Animation) |
-| Post-production audiovisuelle | Étalonnage, montage, création sonore (Digimax Inc. et autres) |
-| Art pour jeux vidéo | Design de personnages, modélisation d'environnements, animation de jeu |
-| Domaines émergents | Contenus VR/AR, production virtuelle, génération assistée par IA |
+| Segment                       | Acteurs représentatifs                                                           |
+| ----------------------------- | -------------------------------------------------------------------------------- |
+| Production d'animation        | Animation 3D CG (CGCG), animation 2D, animation originale (Studio2)              |
+| Effets visuels                | VFX pour films/séries (Reno Studios), effets publicitaires (Moonshine Animation) |
+| Post-production audiovisuelle | Étalonnage, montage, création sonore (Digimax Inc. et autres)                    |
+| Art pour jeux vidéo           | Design de personnages, modélisation d'environnements, animation de jeu           |
+| Domaines émergents            | Contenus VR/AR, production virtuelle, génération assistée par IA                 |
 
 ### Talents et marchés
 
@@ -162,7 +172,7 @@ Selon les enquêtes sectorielles du Taiwan Creative Content Agency (TAICCA), l'i
 
 L'histoire de l'industrie taïwanaise de l'image numérique est celle d'une transformation : **de ceux qui dessinent les rêves des autres à ceux qui forgent les leurs**.
 
-Wang Film Productions a dessiné Mulan pour Disney sans jamais pouvoir se l'approprier — une leçon gravée dans la mémoire collective du secteur. La nouvelle génération d'animateurs taïwanais écrit désormais un autre chapitre : CGCG construit sa marque dans la sous-traitance CG internationale, Reno Studios démontre le niveau taïwanais des effets visuels avec *Detention*, et Studio2 trace une voie nouvelle pour l'animation originale taïwanaise avec *Bakery Aminal*.
+Wang Film Productions a dessiné Mulan pour Disney sans jamais pouvoir se l'approprier — une leçon gravée dans la mémoire collective du secteur. La nouvelle génération d'animateurs taïwanais écrit désormais un autre chapitre : CGCG construit sa marque dans la sous-traitance CG internationale, Reno Studios démontre le niveau taïwanais des effets visuels avec _Detention_, et Studio2 trace une voie nouvelle pour l'animation originale taïwanaise avec _Bakery Aminal_.
 
 Le défi central reste inchangé : comment préserver l'avantage technique tout en bâtissant des IP et des marques d'animation véritablement taïwanaises ? La réponse se trouve peut-être chez cette nouvelle génération de créateurs qui ancrent leur travail dans la culture locale tout en visant le marché international.
 

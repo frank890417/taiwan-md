@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: false
 translatedFrom: 'People/聶永真.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3c4ca1e1761de74e'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 니에융전(聶永真)

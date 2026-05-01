@@ -9,7 +9,10 @@ subcategory: 'Politique et démocratie'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
-translatedFrom: 'People/賴清德.md'
+translatedFrom: "People/賴清德.md"
+sourceCommitSha: "ddc476ed"
+sourceContentHash: "sha256:f861239ab7bfbfde"
+translatedAt: "2026-04-14T19:18:50+08:00"
 ---
 
 # Lai Ching-te : Du fils de mineur au médecin-président de Taïwan
@@ -166,7 +169,7 @@ Toutefois, en tant que président encore en exercice, son legs historique reste 
 
 - [Site officiel de la présidence de la République de Chine, biographie du président](https://www.president.gov.tw/Page/694)
 - [Article Wikipédia « Lai Ching-te »](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7)
-- [Dossiers et entretiens publiés par *CommonWealth Magazine*](https://www.cw.com.tw/article/5128853)
+- [Dossiers et entretiens publiés par _CommonWealth Magazine_](https://www.cw.com.tw/article/5128853)
 - [Données académiques de la faculté de médecine de l'Université nationale Cheng Kung](https://www.ncku.edu.tw/)
 - [Bulletin officiel de l'élection présidentielle 2024, Commission centrale électorale](https://bulletin.cec.gov.tw/)
 - [Rapports annuels d'activité de la mairie de Tainan](https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709)

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
 translatedFrom: 'People/劉德音.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:958c8a4a8799c54d'
+translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 
 # 류더인: 지정학의 폭풍 속 반도체 선장

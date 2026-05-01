@@ -8,6 +8,9 @@ subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 translatedFrom: 'People/明華園.md'
 sourceHash: 'bfd12b'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:8f30d34794119822'
+translatedAt: '2026-03-25T00:52:13+08:00'
 ---
 
 # Ming Hua Yuan: An Empire of Gezai Opera Grown from the Outdoor Stage

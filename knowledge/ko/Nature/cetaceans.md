@@ -18,6 +18,9 @@ category: 'Nature'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 translatedFrom: 'Nature/臺灣的鯨豚.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:07527dba7e956bb0'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 # 대만의 고래와 돌고래

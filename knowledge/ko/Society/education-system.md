@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Society/教育制度與升學文化.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '26216f73'
+sourceContentHash: 'sha256:f73e37d01f78db49'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 교육제도와 입시 문화

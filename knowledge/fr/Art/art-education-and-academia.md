@@ -1,8 +1,15 @@
 ---
 title: "L'éducation artistique à Taïwan et le développement des grandes écoles d'art"
-description: "Du système des écoles normales aux universités des beaux-arts spécialisées : les transformations institutionnelles et la formation des artistes à Taïwan"
+description: 'Du système des écoles normales aux universités des beaux-arts spécialisées : les transformations institutionnelles et la formation des artistes à Taïwan'
 date: 2026-03-19
-tags: ['éducation artistique', 'beaux-arts', 'université des arts', 'formation pédagogique', 'développement académique']
+tags:
+  [
+    'éducation artistique',
+    'beaux-arts',
+    'université des arts',
+    'formation pédagogique',
+    'développement académique',
+  ]
 subcategory: 'Commissariat et éducation'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 11
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Art/台灣藝術教育與學院發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ae5d08a6dde61127'
+translatedAt: '2026-04-14T19:14:02+08:00'
 ---
 
 # L'éducation artistique à Taïwan et le développement des grandes écoles d'art
@@ -447,7 +457,7 @@ La réussite de l'éducation artistique à Taïwan ne tient pas seulement à la 
 - Archives historiques de l'[Université nationale des arts de Tainan](https://www.tnnua.edu.tw/)
 - Histoire de l'[Université nationale des arts de Taïwan](https://www.ntua.edu.tw/)
 - Histoire du [Département de beaux-arts de l'Université normale nationale de Taïwan](https://www.art.ntnu.edu.tw/)
-- *Histoire de l'éducation artistique à Taïwan*, Chiang Hsun
-- *Compilation de documents sur l'histoire du développement de l'éducation artistique à Taïwan*, Ministère de l'Éducation
+- _Histoire de l'éducation artistique à Taïwan_, Chiang Hsun
+- _Compilation de documents sur l'histoire du développement de l'éducation artistique à Taïwan_, Ministère de l'Éducation
 - Ressources de recherche du [Musée national de l'éducation artistique de Taïwan](https://www.arte.gov.tw/)
 - Présentations et données curriculaires des différents départements artistiques

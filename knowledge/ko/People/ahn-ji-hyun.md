@@ -11,6 +11,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/安芝儇.md'
 readingTime: 9
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:5c8ae9f4892807a5'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** TSG가 2023년 CPBL에 들어왔을 때 안지현은 윙 스타즈에 합류했다. 2026년에도 주력 로스터에 남아 있다. 그녀의 이야기는 단발 바이럴이 아니라 대만에서의 ‘일’을 단계적으로 ‘삶’으로 바꾸는 안정적인 호다.

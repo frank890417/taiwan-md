@@ -2,7 +2,16 @@
 title: 'La teinture indigo à Taïwan'
 description: "Autrefois troisième produit d'exportation de Taïwan, l'indigo a enrichi du jour au lendemain les villes de montagne du nord de l'île. Après avoir disparu pendant un demi-siècle, une poignée de passionnés a décidé de ramener ce « bleu taïwanais » à la vie, en le cultivant à même la terre."
 date: 2026-04-07
-tags: [artisanat traditionnel, Sansia, Choya Cottage, grand indigo, indigo naturel, culture hakka, mode durable]
+tags:
+  [
+    artisanat traditionnel,
+    Sansia,
+    Choya Cottage,
+    grand indigo,
+    indigo naturel,
+    culture hakka,
+    mode durable,
+  ]
 category: 'Culture'
 subcategory: 'Artisanat traditionnel'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-04-07
 translatedFrom: 'Culture/藍染.md'
+sourceCommitSha: '3d0f24b5'
+sourceContentHash: 'sha256:37c3ddca1ed1a47e'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 # La teinture indigo à Taïwan
@@ -32,19 +44,19 @@ Sansia (anciennement appelée Sanjiaoyong), avec ses eaux de ruisseau limpides e
 
 La teinture indigo taïwanaise fait principalement appel à deux variétés de plantes tinctoriales :
 
-- **L'indigo des montagnes (grand indigo, *Strobilanthes cusia*)** : il affectionne la fraîcheur et l'humidité, pousse bien dans les basses altitudes montagnardes. Introduit par les ancêtres hakkas, il fut le principal colorant du nord à ses débuts, donnant un bleu profond tirant sur le bleu marine.[^4]
-- **L'indigo commun (petit indigo, *Indigofera tinctoria*)** : il aime le soleil, résiste à la sécheresse comme à l'humidité, a un cycle de croissance court, est fréquent dans le sud et produit un bleu ciel.
+- **L'indigo des montagnes (grand indigo, _Strobilanthes cusia_)** : il affectionne la fraîcheur et l'humidité, pousse bien dans les basses altitudes montagnardes. Introduit par les ancêtres hakkas, il fut le principal colorant du nord à ses débuts, donnant un bleu profond tirant sur le bleu marine.[^4]
+- **L'indigo commun (petit indigo, _Indigofera tinctoria_)** : il aime le soleil, résiste à la sécheresse comme à l'humidité, a un cycle de croissance court, est fréquent dans le sud et produit un bleu ciel.
 
 Les feuilles de ces plantes sont naturellement vertes ; c'est par fermentation microbienne et oxydation qu'elles se transforment en indigo bleu. Ce procédé ne nécessite aucune chaleur — une illustration parfaite de la sagesse née de la relation entre l'homme et la nature.[^5]
 
 ### La fabrication traditionnelle de la pâte indigo (de la culture à la préparation du bain de teinture)
 
 1. **Culture et récolte** : les plantes tinctoriales sont généralement cultivées dans des vallées ombragées ou en bordure de ruisseaux. L'indigo des montagnes se multiplie par bouturage ; on en fait deux récoltes par an (début d'été et fin d'automne), en coupant les tiges fraîches le matin, avant que la rosée ne soit dissipée.[^4]
-2. **Macération et fermentation** : les feuilles sont déposées dans des bassins en pierre taillée — les *qingque* — creusés dans la montagne, recouvertes d'eau claire et laissées à macérer 3 à 7 jours (selon la température). Sous l'action de bactéries anaérobies, l'indicane contenu dans les feuilles s'hydrolyse en indoxyle incolore (forme leucoindigo).
-3. **Battage et oxydation** : après fermentation, on ajoute de l'eau de chaux (pour élever le pH) puis on bat vigoureusement le liquide avec de longues perches — c'est le *battage de l'indigo*. L'oxygène ainsi introduit oxyde l'indoxyle en indigo insoluble, produisant une mousse bleue qui se dépose au fond.
+2. **Macération et fermentation** : les feuilles sont déposées dans des bassins en pierre taillée — les _qingque_ — creusés dans la montagne, recouvertes d'eau claire et laissées à macérer 3 à 7 jours (selon la température). Sous l'action de bactéries anaérobies, l'indicane contenu dans les feuilles s'hydrolyse en indoxyle incolore (forme leucoindigo).
+3. **Battage et oxydation** : après fermentation, on ajoute de l'eau de chaux (pour élever le pH) puis on bat vigoureusement le liquide avec de longues perches — c'est le _battage de l'indigo_. L'oxygène ainsi introduit oxyde l'indoxyle en indigo insoluble, produisant une mousse bleue qui se dépose au fond.
 4. **Décantation et collecte** : on laisse reposer plusieurs jours, on évacue le liquide en surface, puis on recueille la pâte bleue du fond. Filtrée dans des sacs en tissu et séchée, elle donne l'indigo en pâte ou en bloc, qui se conserve longtemps.
 
-C'est la phase de fabrication de l'indigo ; vient ensuite la préparation du bain de teinture (*jianlan*) : on place la pâte d'indigo dans une cuve, on ajoute de l'eau de chaux et des réducteurs naturels (lies de vin, son de riz, mélasse), et on maintient une température de 25 à 35 °C pendant 3 à 7 jours de fermentation. L'indigo est ainsi réduit en leucoindigo jaune-vert soluble — la cuve est alors prête pour teindre.[^5]
+C'est la phase de fabrication de l'indigo ; vient ensuite la préparation du bain de teinture (_jianlan_) : on place la pâte d'indigo dans une cuve, on ajoute de l'eau de chaux et des réducteurs naturels (lies de vin, son de riz, mélasse), et on maintient une température de 25 à 35 °C pendant 3 à 7 jours de fermentation. L'indigo est ainsi réduit en leucoindigo jaune-vert soluble — la cuve est alors prête pour teindre.[^5]
 
 ---
 
@@ -123,7 +135,7 @@ Ce bleu taïwanais nous rappelle que le travail lent, la coexistence et le respe
 
 [^4]: Agri-Harvest Media, « Techniques de culture du grand indigo — une plante tinctoriale aux multiples bénéfices pour la sylviculture », 2021. [Article complet](https://www.agriharvest.tw/archives/103558/)
 
-[^5]: Wang Qiyi et Gao Guanzhou, « Quand l'art rencontre la chimie : la magie de la teinture indigo et la rencontre des savoirs chimiques », *Taiwan Chemistry Education Monthly*, 2017. [Télécharger le PDF](https://531.9e9.myftpupload.com/wp-content/uploads/2018/02/%E6%9C%AC%E6%9C%9F%E5%B0%88%E9%A1%8C_%E7%8E%8B%E7%90%AA%E7%BE%BF%E5%92%8C%E9%AB%98%E8%B2%AB%E6%B4%B2_%E8%97%8D%E6%9F%93%E9%AD%94%E6%B3%95%E8%88%87%E5%8C%96%E5%AD%B8%E7%A5%9E%E5%8A%9F%E7%9A%84%E8%9E%8D%E5%90%88%E4%BA%A4%E6%9C%83V2-%E9%9B%99%E6%AC%84.pdf)
+[^5]: Wang Qiyi et Gao Guanzhou, « Quand l'art rencontre la chimie : la magie de la teinture indigo et la rencontre des savoirs chimiques », _Taiwan Chemistry Education Monthly_, 2017. [Télécharger le PDF](https://531.9e9.myftpupload.com/wp-content/uploads/2018/02/%E6%9C%AC%E6%9C%9F%E5%B0%88%E9%A1%8C_%E7%8E%8B%E7%90%AA%E7%BE%BF%E5%92%8C%E9%AB%98%E8%B2%AB%E6%B4%B2_%E8%97%8D%E6%9F%93%E9%AD%94%E6%B3%95%E8%88%87%E5%8C%96%E5%AD%B8%E7%A5%9E%E5%8A%9F%E7%9A%84%E8%9E%8D%E5%90%88%E4%BA%A4%E6%9C%83V2-%E9%9B%99%E6%AC%84.pdf)
 
 [^6]: Fondation Tzu Chi, « Une enseignante retraitée plante un champ pour la durabilité de la terre — la teinture indigo rayonne sur la scène internationale », 21 février 2020. [Reportage complet](https://www.tcnews.com.tw/news/item/2980.html)
 

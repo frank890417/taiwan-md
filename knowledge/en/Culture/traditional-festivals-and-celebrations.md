@@ -19,6 +19,9 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Culture/傳統節慶與慶典.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3bac2c2faa70bd6e'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # When Plague Became Fireworks: The Accidental Evolution of Taiwan's Festival Culture

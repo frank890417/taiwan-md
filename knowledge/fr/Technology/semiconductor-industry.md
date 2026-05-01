@@ -1,8 +1,15 @@
 ---
-title: 'L''industrie des semi-conducteurs à Taïwan'
-description: 'Du pari historique de Morris Chang à l''ère du 2 nanomètres : comment TSMC a fait de Taïwan l''épine dorsale technologique mondiale'
+title: "L'industrie des semi-conducteurs à Taïwan"
+description: "Du pari historique de Morris Chang à l'ère du 2 nanomètres : comment TSMC a fait de Taïwan l'épine dorsale technologique mondiale"
 date: 2026-03-17
-tags: ['semi-conducteurs', 'TSMC', 'procédés avancés', 'île technologique', 'bouclier de silicium']
+tags:
+  [
+    'semi-conducteurs',
+    'TSMC',
+    'procédés avancés',
+    'île technologique',
+    'bouclier de silicium',
+  ]
 subcategory: 'Semi-conducteurs et matériel'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +19,9 @@ category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Technology/半導體產業.md'
+sourceCommitSha: '6c11ef53'
+sourceContentHash: 'sha256:af4fb282e9cb0e30'
+translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 
 # L'industrie des semi-conducteurs à Taïwan
@@ -34,7 +44,7 @@ En 1980, l'ITRI transfère cette technologie pour créer United Microelectronics
 
 ### L'idée folle de Morris Chang
 
-Le 21 février 1987, Morris Chang fonde Taiwan Semiconductor Manufacturing Company (TSMC) dans le parc scientifique de Hsinchu, en lançant un modèle économique jusqu'alors inconnu : la **fonderie pure**, ou *pure-play foundry*.
+Le 21 février 1987, Morris Chang fonde Taiwan Semiconductor Manufacturing Company (TSMC) dans le parc scientifique de Hsinchu, en lançant un modèle économique jusqu'alors inconnu : la **fonderie pure**, ou _pure-play foundry_.
 
 L'idée paraît absurde à l'époque. Toutes les entreprises de semi-conducteurs dans le monde sont intégrées verticalement, de la conception à la fabrication. Comment imaginer ne faire que la fabrication sans concevoir de puces ? Un client confierait-il ses plans ultraconfidentiels à un inconnu ?
 
@@ -99,11 +109,11 @@ Ce qui décourage encore plus la concurrence : TSMC développe déjà le procéd
 Le coût de développement des procédés avancés croît de façon exponentielle :
 
 | Génération | Coût de développement estimé |
-|---|---|
-| 28 nm | ~1 milliard USD |
-| 7 nm | ~3 milliards USD |
-| 3 nm | ~10 milliards USD |
-| 2 nm | >20 milliards USD |
+| ---------- | ---------------------------- |
+| 28 nm      | ~1 milliard USD              |
+| 7 nm       | ~3 milliards USD             |
+| 3 nm       | ~10 milliards USD            |
+| 2 nm       | >20 milliards USD            |
 
 Ces investissements colossaux éliminent progressivement les concurrents. Aujourd'hui, seules trois entreprises dans le monde restent en lice pour les procédés les plus avancés : TSMC, Samsung et Intel. TSMC devance ses concurrents de deux à trois générations.
 
@@ -176,12 +186,12 @@ En 2021, Intel lance sa stratégie « IDM 2.0 », voulant combiner conception in
 
 La compétitivité de l'industrie taïwanaise des semi-conducteurs ne repose pas uniquement sur TSMC, mais sur tout un écosystème :
 
-| Segment | Acteurs principaux |
-|---|---|
+| Segment                       | Acteurs principaux                                |
+| ----------------------------- | ------------------------------------------------- |
 | Conception de puces (fabless) | MediaTek (top 3 mondial), Novatek, Realtek, Himax |
-| Fonderie | TSMC (n°1 mondial), UMC, Vanguard |
-| Encapsulation et test | ASE (n°1 mondial), SPIL, KYEC |
-| Équipements et matériaux | Nanya, Winbond, WIN Semiconductors |
+| Fonderie                      | TSMC (n°1 mondial), UMC, Vanguard                 |
+| Encapsulation et test         | ASE (n°1 mondial), SPIL, KYEC                     |
+| Équipements et matériaux      | Nanya, Winbond, WIN Semiconductors                |
 
 Cette concentration industrielle crée de puissantes synergies. Une puce peut passer de la conception à la fabrication, puis à l'encapsulation et aux tests, sans jamais quitter Taïwan — évitant ainsi les délais et risques d'une logistique internationale.
 

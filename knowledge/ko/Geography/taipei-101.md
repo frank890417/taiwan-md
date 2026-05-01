@@ -25,6 +25,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Geography/台北101.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0b35412227ffb8b0'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 흔들리는 섬 위에 세운 하늘을 찌르는 탑

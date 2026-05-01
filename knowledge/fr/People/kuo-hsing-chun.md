@@ -2,7 +2,18 @@
 title: 'Kuo Hsing-Chun'
 description: 'Haltérophile taïwanaise, triple médaillée olympique (bronze 2016, or 2021, bronze 2024), détentrice des records du monde en catégorie 59 kg, descendante du clan Amis de Malan'
 date: 2026-03-19
-tags: [personnalité, Kuo Hsing-Chun, haltérophilie, Jeux olympiques, médaille d'or, athlète, Taïwan, Amis, peuples autochtones]
+tags:
+  [
+    personnalité,
+    Kuo Hsing-Chun,
+    haltérophilie,
+    Jeux olympiques,
+    médaille d'or,
+    athlète,
+    Taïwan,
+    Amis,
+    peuples autochtones,
+  ]
 subcategory: 'Sports'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +21,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-04-04
 translatedFrom: 'People/郭婞淳.md'
+sourceCommitSha: 'ddc476ed'
+sourceContentHash: 'sha256:d608fc5111d3aa4f'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Kuo Hsing-Chun

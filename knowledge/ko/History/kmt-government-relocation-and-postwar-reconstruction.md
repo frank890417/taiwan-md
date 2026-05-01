@@ -21,6 +21,9 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'History/國民政府遷台與戰後重建.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:062e901c57b47a6e'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 국민정부(國民政府) 대만 이전과 전후 재건

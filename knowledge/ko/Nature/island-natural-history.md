@@ -21,6 +21,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Nature/台灣島嶼博物學.md'
+sourceCommitSha: '540031d7'
+sourceContentHash: 'sha256:371da55946bd0c24'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 > **30초 개요：** 빙하기의 육교는 대륙 생물을 남쪽으로 이끌었고, 그들은 대만의 고산에 갇혀 고유종으로 진화했다. 란위(蘭嶼)의 공 모양 바구미는 가노 타다오(鹿野忠雄)에게 이 섬이 대만에서 80km 떨어져 있지만 본질적으로 필리핀에 속한다고 말해줬다. 그리고 같은 바시해협을, 5천 년 전 오스트로네시아어족의 조상들은 대만을 출발점으로 삼아 종이뽕나무의 DNA를 따라 태평양으로 뻗어나갔다.

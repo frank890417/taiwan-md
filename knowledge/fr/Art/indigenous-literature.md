@@ -1,8 +1,15 @@
 ---
 title: 'La littérature des peuples autochtones de Taïwan'
-description: "Des chants sans écriture aux œuvres imprimées : une évolution littéraire qui traverse des millénaires"
+description: 'Des chants sans écriture aux œuvres imprimées : une évolution littéraire qui traverse des millénaires'
 date: 2026-03-24
-tags: [littérature, peuples autochtones, tradition orale, langues austronésiennes, revitalisation culturelle]
+tags:
+  [
+    littérature,
+    peuples autochtones,
+    tradition orale,
+    langues austronésiennes,
+    revitalisation culturelle,
+  ]
 subcategory: 'Littérature'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
@@ -10,12 +17,15 @@ readingTime: 7
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Art/原住民文學.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
+translatedAt: '2026-04-14T19:13:26+08:00'
 ---
 
 # La littérature des peuples autochtones de Taïwan
 
 > **En 30 secondes :**
-> En 1932, les premiers textes d'intellectuels autochtones paraissent dans la revue *Riban no Tomo*, marquant le passage de la tradition orale à l'écriture.
+> En 1932, les premiers textes d'intellectuels autochtones paraissent dans la revue _Riban no Tomo_, marquant le passage de la tradition orale à l'écriture.
 > Aujourd'hui, les langues des 16 peuples autochtones de Taïwan sont en danger — les locuteurs courants sont en majorité des personnes de 70 à 80 ans et plus.
 > La prochaine décennie est considérée par les chercheurs comme la « fenêtre critique pour la préservation linguistique ».
 > De la revue Shan Hai Wen Hua de Sun Ta-chuan aux récits maritimes de Syaman Rapongan, la littérature autochtone contemporaine n'est pas seulement un acte de revitalisation culturelle — c'est aussi le pont littéraire qui relie Taïwan au monde austronésien du Pacifique.
@@ -32,9 +42,9 @@ Mais ce qui surprend davantage encore, c'est que cette tradition, la plus ancien
 
 ## 1932 : le tournant historique, de la voix à l'écriture
 
-**1932 est la date charnière de l'histoire littéraire autochtone taïwanaise.** Cette année-là, la revue japonaise *Riban no Tomo* publie les premiers textes d'intellectuels autochtones, marquant l'entrée officielle de leur littérature dans l'ère de l'écrit.
+**1932 est la date charnière de l'histoire littéraire autochtone taïwanaise.** Cette année-là, la revue japonaise _Riban no Tomo_ publie les premiers textes d'intellectuels autochtones, marquant l'entrée officielle de leur littérature dans l'ère de l'écrit.
 
-Durant les millénaires précédents, la littérature autochtone reposait entièrement sur l'oral : mythes, légendes, chants rituels, invocations. Le mythe de création des Atayal, *La Naissance des humains de la roche*, pourrait avoir été transmis pendant 3 000 ans. Le *Chant pour une bonne récolte de mil* des Bunun, polyphonie à huit voix, est considéré comme l'une des plus anciennes harmonies vocales complexes au monde.
+Durant les millénaires précédents, la littérature autochtone reposait entièrement sur l'oral : mythes, légendes, chants rituels, invocations. Le mythe de création des Atayal, _La Naissance des humains de la roche_, pourrait avoir été transmis pendant 3 000 ans. Le _Chant pour une bonne récolte de mil_ des Bunun, polyphonie à huit voix, est considéré comme l'une des plus anciennes harmonies vocales complexes au monde.
 
 Ces œuvres n'avaient pas de forme écrite, mais elles vivaient dans les voix des membres du peuple, dans chaque cérémonie rituelle, dans les berceuses murmurant aux enfants le soir.
 
@@ -46,17 +56,17 @@ Après 1932, quelque chose se mit à changer.
 
 **16 peuples, 42 dialectes, 588 660 personnes.** Ce sont les données de base sur les peuples autochtones de Taïwan aujourd'hui. Mais une autre série de chiffres mérite davantage notre attention :
 
-| Maîtrise de la langue ancestrale selon l'âge | Proportion |
-| --------------------------------------------- | ---------- |
-| 70-80 ans et plus, locuteurs courants | > 80 % |
-| 40-60 ans, locuteurs courants | environ 30 % |
-| 20-40 ans, locuteurs courants | < 15 % |
+| Maîtrise de la langue ancestrale selon l'âge | Proportion   |
+| -------------------------------------------- | ------------ |
+| 70-80 ans et plus, locuteurs courants        | > 80 %       |
+| 40-60 ans, locuteurs courants                | environ 30 % |
+| 20-40 ans, locuteurs courants                | < 15 %       |
 
 **Qu'est-ce que cela signifie ?** Po Hung-ming, président de la Taiwan Indigenous Peoples Language Development Association, est direct : « Dans les dix prochaines années, lorsque les anciens qui parlent encore leur langue couramment disparaîtront, et si la transmission n'a pas eu lieu, la langue et la culture entreront dans une mort définitive. »
 
 L'UNESCO a classé les langues autochtones taïwanaises parmi les « langues en danger », à des degrés divers, mais toutes menacées. **Sur les 2 000 langues en danger recensées dans le monde, les 16 langues taïwanaises représentent un seizième du total.**
 
-La situation des Saisiyat est la plus critique. Feng Wei-ping, enseignante de saisiyat à l'école primaire de Wufeng, a formulé une réalité poignante : « Il existe en saisiyat un mot, *minhaeha:o*, qui signifie "si quelqu'un chasse un sanglier sans en partager avec ses voisins, les laissant attendre jusqu'à tomber malades, il doit aller présenter ses excuses" — toute l'éthique communautaire est concentrée dans un seul mot, sans aucun équivalent possible en mandarin. »
+La situation des Saisiyat est la plus critique. Feng Wei-ping, enseignante de saisiyat à l'école primaire de Wufeng, a formulé une réalité poignante : « Il existe en saisiyat un mot, _minhaeha:o_, qui signifie "si quelqu'un chasse un sanglier sans en partager avec ses voisins, les laissant attendre jusqu'à tomber malades, il doit aller présenter ses excuses" — toute l'éthique communautaire est concentrée dans un seul mot, sans aucun équivalent possible en mandarin. »
 
 Des mots comme celui-là, une fois perdus, emportent avec eux non seulement une langue, mais toute une manière de penser la vie en commun.
 
@@ -64,7 +74,7 @@ Des mots comme celui-là, une fois perdus, emportent avec eux non seulement une 
 
 **En 1987, Taïwan lève la loi martiale : la littérature autochtone connaît son deuxième tournant majeur.**
 
-En 1989, Taiban Sasala, du peuple Rukai, fonde le journal *Yuanbao*. En 1990, Walis Nokan (Atayal) et Liglav A-wu (Paiwan) co-fondent la revue *獵人文化* (Culture des chasseurs). **En 1993, Sun Ta-chuan crée la maison d'édition Shan Hai Wen Hua — événement que le Musée national de la littérature taïwanaise classe parmi les « grands moments du développement de la nouvelle littérature taïwanaise ».**
+En 1989, Taiban Sasala, du peuple Rukai, fonde le journal _Yuanbao_. En 1990, Walis Nokan (Atayal) et Liglav A-wu (Paiwan) co-fondent la revue _獵人文化_ (Culture des chasseurs). **En 1993, Sun Ta-chuan crée la maison d'édition Shan Hai Wen Hua — événement que le Musée national de la littérature taïwanaise classe parmi les « grands moments du développement de la nouvelle littérature taïwanaise ».**
 
 Ce n'est pas un hasard. Dans les années 1980, le mouvement pour la localisation taïwanaise bat son plein : le monolithisme de la « culture chinoise » se fracture, le pluralisme culturel commence à être reconnu. Les peuples autochtones découvrent soudain qu'ils n'ont plus besoin de dissimuler leur identité ; au contraire, leur culture devient une preuve décisive que Taïwan est différent de la Chine.
 
@@ -72,19 +82,19 @@ Ce n'est pas un hasard. Dans les années 1980, le mouvement pour la localisation
 
 La plupart optent pour le mandarin. C'est un pragmatisme douloureux — les langues ancestrales ne disposent pas encore de systèmes d'écriture modernes, et le mandarin est le seul moyen de toucher un public large.
 
-Dans *Les yeux du ciel*, Syaman Rapongan écrit : « J'écris la mer des Tao en caractères chinois — comme si je chantais ma propre chanson avec la voix de quelqu'un d'autre. »
+Dans _Les yeux du ciel_, Syaman Rapongan écrit : « J'écris la mer des Tao en caractères chinois — comme si je chantais ma propre chanson avec la voix de quelqu'un d'autre. »
 
 ## La percée mondiale de la littérature maritime
 
 **Les œuvres de Syaman Rapongan ne transforment pas seulement la littérature taïwanaise — elles changent aussi la façon dont le monde perçoit Taïwan.**
 
-Son roman *Les yeux du ciel* (2012) narre l'histoire du point de vue d'un poisson, bouleversant d'emblée l'anthropocentrisme traditionnel. La chercheuse britannique Ti-han Chang y voit un exemple de « géo-récit » (geostory) — une nouvelle forme narrative qui transcende les frontières et relie l'humain à la nature.
+Son roman _Les yeux du ciel_ (2012) narre l'histoire du point de vue d'un poisson, bouleversant d'emblée l'anthropocentrisme traditionnel. La chercheuse britannique Ti-han Chang y voit un exemple de « géo-récit » (geostory) — une nouvelle forme narrative qui transcende les frontières et relie l'humain à la nature.
 
 Plus important encore, l'écriture maritime de Syaman Rapongan repositionne Taïwan dans le contexte du Pacifique. **Taïwan n'est plus « la périphérie de la Chine », mais « le centre du monde austronésien du Pacifique ».**
 
 Ce glissement a une dimension politique. La culture de la pêche aux poissons volants des Tao, telle que Syaman Rapongan la décrit, partage avec les peuples des îles Batanes aux Philippines et des îles Cook un même système de savoirs maritimes. Ses œuvres ont conduit des chercheurs internationaux à prendre au sérieux le concept de « écocritique autochtone transpacifique ».
 
-Wu Ming-yi, dans *L'Homme aux yeux composés* (2011), crée le peuple insulaire de Wayo Wayo dont le système de croyances est directement inspiré de la culture Tao. Ce n'est pas une coïncidence — la littérature autochtone est devenue une ressource majeure pour que la littérature taïwanaise « s'ouvre au monde ».
+Wu Ming-yi, dans _L'Homme aux yeux composés_ (2011), crée le peuple insulaire de Wayo Wayo dont le système de croyances est directement inspiré de la culture Tao. Ce n'est pas une coïncidence — la littérature autochtone est devenue une ressource majeure pour que la littérature taïwanaise « s'ouvre au monde ».
 
 ## Le 15e Prix de littérature des peuples autochtones de Taïwan : une institutionnalisation mature
 
@@ -99,7 +109,7 @@ Ce chiffre est le fruit de trente ans d'institutionnalisation progressive :
 Mais l'indicateur le plus éloquent reste l'élargissement de la communauté d'auteurs. De la « génération du mouvement autochtone » (Sun Ta-chuan, Walis Nokan, Syaman Rapongan, Badai) aux nouvelles voix comme Ma Yi-hang, Cheng Ting et Huang Xi, **la littérature autochtone taïwanaise dispose désormais d'une chaîne de transmission sur trois générations d'auteurs.**
 
 > **💡 Le saviez-vous ?**
-> *Le Flamant huppé* de Badai se déroule dans l'histoire Puyuma, mais ce n'est pas un roman ethnographique — c'est une réécriture littéraire d'une histoire oubliée.
+> _Le Flamant huppé_ de Badai se déroule dans l'histoire Puyuma, mais ce n'est pas un roman ethnographique — c'est une réécriture littéraire d'une histoire oubliée.
 > Cette « reconstruction historique » est devenue une marque distinctive de la littérature autochtone contemporaine.
 
 ## La course entre langue et littérature
@@ -128,7 +138,7 @@ Mais le sort de cette bataille pour la préservation des langues se joue, en der
 
 Taïwan est le berceau des 250 millions de locuteurs de langues austronésiennes et conserve le plus grand nombre de racines lexicales proto-austronésiennes. Le grand linguiste Robert Blust, de l'Université d'Hawaï, soutient que **l'étude des langues autochtones taïwanaises équivaut à l'étude des origines de l'ensemble de la civilisation pacifique.**
 
-Cela donne à la littérature autochtone taïwanaise une portée universelle. Quand *Le Cavalier de la mer* du Māori Witi Ihimaera remporte un succès international, les lecteurs taïwanais découvrent que *Le garçon et le grand requin* de Syaman Rapongan partage presque exactement le même motif mythique de « l'humain et la bête des mers ».
+Cela donne à la littérature autochtone taïwanaise une portée universelle. Quand _Le Cavalier de la mer_ du Māori Witi Ihimaera remporte un succès international, les lecteurs taïwanais découvrent que _Le garçon et le grand requin_ de Syaman Rapongan partage presque exactement le même motif mythique de « l'humain et la bête des mers ».
 
 Ce n'est pas une coïncidence — c'est une mémoire culturelle inscrite dans un sang partagé.
 

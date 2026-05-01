@@ -20,6 +20,9 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'People/黃震南.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:26157944457addef'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Huang Zhen-nan: The Takenouchi Yutaka of Book Collecting and Taiwan's Living History Source

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Art/當代藝術.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f34b45fd8d60d61d'
+translatedAt: '2026-04-14T09:46:05+08:00'
 ---
 
 # 대만 현대미술

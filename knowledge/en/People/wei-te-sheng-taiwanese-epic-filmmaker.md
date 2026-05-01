@@ -15,6 +15,9 @@ tags:
 subcategory: 'Film & Theater'
 lastVerified: 2026-03-20
 translatedFrom: 'People/魏德聖.md'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:da6124a8ed71cc71'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 Wei Te-sheng, born August 16, 1969, in Yongkang, Tainan, is one of Taiwan's most representative film directors. He set Taiwanese box office records with "Cape No. 7" (海角七號) and demonstrated epic cinematic vision with "Seediq Bale" (賽德克・巴萊), transforming from an unknown assistant director into a key figure who rewrote Taiwan's film industry landscape. His works not only achieved commercial success but, more importantly, rekindled Taiwanese audiences' confidence in local cinema.

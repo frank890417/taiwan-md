@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
 lastVerified: 2026-03-23
-translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
+translatedFrom: "Nature/台灣海洋保育與挑戰.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:b277d24628428df0"
+translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 
 # La conservation marine à Taïwan : pourquoi trente ans d'efforts n'ont pas suffi à sauver les coraux ?
@@ -25,8 +28,8 @@ Cette année-là, Taïwan n'a été touché par aucun typhon pour la première f
 
 ## Le dérèglement de 2020 : le plus grand blanchissement corallien de l'histoire
 
-| 55 %                           | 30 %                              |
-| ------------------------------ | --------------------------------- |
+| 55 %                                  | 30 %                                              |
+| ------------------------------------- | ------------------------------------------------- |
 | Taux de mortalité estimé à Xiaoliuqiu | Pertes estimées sur la côte nord-est et à Kenting |
 
 Quelle était l'ampleur du blanchissement de 2020 ? Chen Chao-lun, du Centre de biodiversité de l'Academia Sinica, l'a qualifié de « sans précédent ». L'épisode a touché non seulement les foyers habituels du sud de Taïwan, mais aussi des zones qui n'avaient jamais connu de blanchissement massif : Xiaoliuqiu, les quatre îles méridionales des Penghu, la côte nord-est — toutes submergées par la chaleur.

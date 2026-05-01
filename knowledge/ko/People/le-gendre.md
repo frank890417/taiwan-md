@@ -16,6 +16,9 @@ subcategory: '역사 인물'
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'People/李仙得.md'
+sourceCommitSha: '489c8413'
+sourceContentHash: 'sha256:b35bf2bd112055a5'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 르장드르: 조약을 맺은 자와 배신한 자는 같은 인물이었다

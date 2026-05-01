@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/林懷民.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:90c4912ca48f7ecb'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 > **30초 요약：** 1973년, 전문 무용 교육을 받지 않은 26세의 소설가 린 화이민이 대만 최초의 직업 현대무용단 '클라우드게이트 무용단(雲門舞集)'을 창단했다. 이 단체는 화어권 최초의 현대무용단으로서 50년 이상 국제 무대에서 활약했으며, 《뉴욕타임스》로부터 "아시아에서 가장 중요한 현대무용단"이라는 평가를 받았다.

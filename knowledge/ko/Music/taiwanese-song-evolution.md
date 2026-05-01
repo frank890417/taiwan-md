@@ -2,13 +2,17 @@
 title: '대만 타이위 노래의 변천: 어르신 노래에서 인디 팬의 사랑으로'
 description: '나카시, 홍이펑, 장혜매 시대부터 가지단(茄子蛋), 파이시에샤오녠(拍謝少年) 등 신세대 밴드까지, 타이위 음악이 어떻게 젊은 세대의 마음을 다시 사로잡았는지 그 변천 과정을 추적한다.'
 date: 2026-03-19
-tags: [타이위 노래, 나카시, 홍이펑, 장혜매, 가지단, 파이시에샤오녠, 커라치, 금곡상]
+tags:
+  [타이위 노래, 나카시, 홍이펑, 장혜매, 가지단, 파이시에샤오녠, 커라치, 금곡상]
 subcategory: '팝 음악'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
 readingTime: 14min
 featured: true
 translatedFrom: 'Music/台灣台語歌曲演進.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0445ff98900d4846'
+translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 
 # 대만 타이위 노래의 변천: 어르신 노래에서 인디 팬의 사랑으로

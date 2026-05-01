@@ -10,7 +10,10 @@ author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
 readingTime: 10
 featured: false
-translatedFrom: 'Music/小虎隊.md'
+translatedFrom: "Music/小虎隊.md"
+sourceCommitSha: "f260d03b"
+sourceContentHash: "sha256:14e51d60921e3e85"
+translatedAt: "2026-04-15T17:32:47+08:00"
 ---
 
 # Little Tigers (小虎隊)
@@ -27,15 +30,15 @@ translatedFrom: 'Music/小虎隊.md'
 
 ### Origines et naissance du groupe
 
-En juillet 1988, la chaîne CTV lance *TV New Star Battle* (*TV新秀爭霸站*), un concours de talents étudiants produit par Zhang Xiaoyan. Trois jeunes femmes formant le groupe « Little Cats » (*小貓隊*) y officient déjà comme co-animatrices. Pour équilibrer l'émission, l'agence Kai Li Creative cherche trois garçons par voie d'audition ouverte. C'est ainsi que les trois membres des Little Tigers — Wu Qilong (18 ans), judoka et pratiquant de taekwondo ; Chen Zhipeng (17 ans), formé à la danse classique ; et Su Youpeng (15 ans), brillant lycéen du prestigieux Jianguo High School — se démarquent parmi des centaines de candidats. Leur nom, « Little Tigers », fait écho aux « Little Cats » ; leur cri de ralliement — « Little Tigers, Little Tigers, on est au top ! » — devient aussitôt une signature. Le modèle s'inspire directement du groupe japonais Shōnentai, pilier de l'écurie Johnny's.
+En juillet 1988, la chaîne CTV lance _TV New Star Battle_ (_TV新秀爭霸站_), un concours de talents étudiants produit par Zhang Xiaoyan. Trois jeunes femmes formant le groupe « Little Cats » (_小貓隊_) y officient déjà comme co-animatrices. Pour équilibrer l'émission, l'agence Kai Li Creative cherche trois garçons par voie d'audition ouverte. C'est ainsi que les trois membres des Little Tigers — Wu Qilong (18 ans), judoka et pratiquant de taekwondo ; Chen Zhipeng (17 ans), formé à la danse classique ; et Su Youpeng (15 ans), brillant lycéen du prestigieux Jianguo High School — se démarquent parmi des centaines de candidats. Leur nom, « Little Tigers », fait écho aux « Little Cats » ; leur cri de ralliement — « Little Tigers, Little Tigers, on est au top ! » — devient aussitôt une signature. Le modèle s'inspire directement du groupe japonais Shōnentai, pilier de l'écurie Johnny's.
 
 ### Personnalité de chaque membre et construction d'une image
 
-Chaque membre incarne un « type de tigre » bien défini. Wu Qilong (*霹靂虎*, le Tigre Foudroyant) impressionne avec ses backflips impeccables, héritage de ses années d'arts martiaux. Chen Zhipeng (*小帥虎*, le Tigre Élégant) possède une grâce naturelle issue de sa formation en ballet, et son allure rappelle Leslie Cheung. Su Youpeng (*乖乖虎*, le Tigre Sage) est le plus jeune et le meilleur élève, incarnant l'idéal du garçon studieux et sincère. À ces trois personnalités s'ajoutent un look lumineux, une énergie débordante et des paroles à message positif soigneusement ciselées par le label Flying Butterfly Records (*飛碟唱片*) : ensemble, ces ingrédients en font rapidement la référence absolue des adolescents de l'époque.
+Chaque membre incarne un « type de tigre » bien défini. Wu Qilong (_霹靂虎_, le Tigre Foudroyant) impressionne avec ses backflips impeccables, héritage de ses années d'arts martiaux. Chen Zhipeng (_小帥虎_, le Tigre Élégant) possède une grâce naturelle issue de sa formation en ballet, et son allure rappelle Leslie Cheung. Su Youpeng (_乖乖虎_, le Tigre Sage) est le plus jeune et le meilleur élève, incarnant l'idéal du garçon studieux et sincère. À ces trois personnalités s'ajoutent un look lumineux, une énergie débordante et des paroles à message positif soigneusement ciselées par le label Flying Butterfly Records (_飛碟唱片_) : ensemble, ces ingrédients en font rapidement la référence absolue des adolescents de l'époque.
 
 ### Œuvres phares et montée en puissance
 
-Début 1989, *Bonne Année* (*新年快樂*), extrait d'une compilation partagée avec le groupe féminin *Youhuan Party*, ouvre brillamment leur carrière. Le premier album *Wandering Free* (*逍遙遊*) enchaîne les succès : *Green Apple Paradise* (*青苹果乐园*), *Regardez-moi aujourd'hui* (*今天看我*) et *Enflammez la jeunesse* (*燃燒青春火焰*) s'imposent par leurs mélodies accrocheuses et leur optimisme communicatif à Taïwan, à Hong Kong et dans tout le Sud-Est asiatique. En 1991, l'album *Amour* (*愛*) intègre des thèmes de solidarité sociale, montrant qu'un boys band peut aussi assumer une responsabilité citoyenne. Ces chansons ne sont pas de simples tubes : elles condensent la confiance et l'ouverture des jeunes Taïwanais de cette décennie.
+Début 1989, _Bonne Année_ (_新年快樂_), extrait d'une compilation partagée avec le groupe féminin _Youhuan Party_, ouvre brillamment leur carrière. Le premier album _Wandering Free_ (_逍遙遊_) enchaîne les succès : _Green Apple Paradise_ (_青苹果乐园_), _Regardez-moi aujourd'hui_ (_今天看我_) et _Enflammez la jeunesse_ (_燃燒青春火焰_) s'imposent par leurs mélodies accrocheuses et leur optimisme communicatif à Taïwan, à Hong Kong et dans tout le Sud-Est asiatique. En 1991, l'album _Amour_ (_愛_) intègre des thèmes de solidarité sociale, montrant qu'un boys band peut aussi assumer une responsabilité citoyenne. Ces chansons ne sont pas de simples tubes : elles condensent la confiance et l'ouverture des jeunes Taïwanais de cette décennie.
 
 ---
 
@@ -43,9 +46,9 @@ Début 1989, *Bonne Année* (*新年快樂*), extrait d'une compilation partagé
 
 ### Contexte historique et rayonnement des deux rives
 
-Les Little Tigers émergent au moment où Taïwan s'ouvre progressivement après la levée de la loi martiale. Bien au-delà de simples idoles de scène, ils symbolisent la transition de la culture populaire taïwanaise d'un ancrage local vers une projection internationale. En 1991, ils deviennent parmi les premiers artistes taïwanais à tourner en Chine continentale : leur tournée *Couleurs de jeunesse · Monde joyeux* (*青春本色·歡樂天地*) comprend douze concerts à guichets fermés, brisant les barrières culturelles entre les deux rives dans une période politiquement sensible. Plus qu'un exploit commercial, c'est par la pure énergie de la jeunesse qu'ils tissent alors un lien émotionnel entre des populations longtemps séparées.
+Les Little Tigers émergent au moment où Taïwan s'ouvre progressivement après la levée de la loi martiale. Bien au-delà de simples idoles de scène, ils symbolisent la transition de la culture populaire taïwanaise d'un ancrage local vers une projection internationale. En 1991, ils deviennent parmi les premiers artistes taïwanais à tourner en Chine continentale : leur tournée _Couleurs de jeunesse · Monde joyeux_ (_青春本色·歡樂天地_) comprend douze concerts à guichets fermés, brisant les barrières culturelles entre les deux rives dans une période politiquement sensible. Plus qu'un exploit commercial, c'est par la pure énergie de la jeunesse qu'ils tissent alors un lien émotionnel entre des populations longtemps séparées.
 
-Le groupe se dissout brièvement à deux reprises — en 1991 puis en 1997 — en raison du service militaire de ses membres. Une reformation partielle en 1993 donne naissance à *Les étoiles brillent encore* (*星光依舊燦爛*), album qui confirme leur emprise sur le public bien au-delà d'une simple période faste. Après la séparation définitive, chacun poursuit sa route : Wu Qilong se tourne vers le feuilleton dramatique, Su Youpeng embrasse le cinéma et la musique en solo, Chen Zhipeng reste fidèle à la scène et à la danse. Aux yeux de leurs admirateurs, ils resteront pourtant pour toujours les « Little Tigers ».
+Le groupe se dissout brièvement à deux reprises — en 1991 puis en 1997 — en raison du service militaire de ses membres. Une reformation partielle en 1993 donne naissance à _Les étoiles brillent encore_ (_星光依舊燦爛_), album qui confirme leur emprise sur le public bien au-delà d'une simple période faste. Après la séparation définitive, chacun poursuit sa route : Wu Qilong se tourne vers le feuilleton dramatique, Su Youpeng embrasse le cinéma et la musique en solo, Chen Zhipeng reste fidèle à la scène et à la danse. Aux yeux de leurs admirateurs, ils resteront pourtant pour toujours les « Little Tigers ».
 
 ### Analyse de leur contribution musicale et culturelle
 
@@ -78,8 +81,8 @@ Les chansons des Little Tigers sont construites sur des synthétiseurs, des temp
 - [小虎隊 - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E8%99%8E%E9%9A%8A) — Historique complet, profils des membres et parcours de débuts
 - [小虎隊代表作 - Apple Music](https://music.apple.com/us/playlist/%E5%B0%8F%E8%99%8E%E9%9A%8A%E4%BB%A3%E8%A1%A8%E4%BD%9C/pl.d5b452f9be88414eaba2dd03bd6b4128?l=zh-Hans-CN) — Présentation des albums et des chansons
 - [重溫青春！小虎隊如何成為台灣偶像男團的代表？ - 報時光](https://time.udn.com/udntime/story/122834/7030930) — Analyse de leur impact culturel
-- [YouTube: 小虎隊青蘋果樂園官方正式版MV](https://www.youtube.com/watch?v=xg7nUA0Ir6o) — Clip officiel de *Green Apple Paradise*
-- [YouTube: 小虎隊《愛》官方版高清MV](https://www.youtube.com/watch?v=m0TSOz_r9DY) — Clip officiel de l'album *Amour*, emblème de leur engagement citoyen
+- [YouTube: 小虎隊青蘋果樂園官方正式版MV](https://www.youtube.com/watch?v=xg7nUA0Ir6o) — Clip officiel de _Green Apple Paradise_
+- [YouTube: 小虎隊《愛》官方版高清MV](https://www.youtube.com/watch?v=m0TSOz_r9DY) — Clip officiel de l'album _Amour_, emblème de leur engagement citoyen
 
 ---
 

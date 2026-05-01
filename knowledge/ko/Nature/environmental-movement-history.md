@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣環境運動史.md'
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:151e392e734f7b6f'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만 환경운동의 역사

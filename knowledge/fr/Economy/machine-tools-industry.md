@@ -3,8 +3,17 @@ title: "L'industrie des machines-outils à Taïwan"
 description: "De la Vallée d'Or du mont Dadu au salon TMTS 2026 : la résilience, les effondrements et les renaissances de l'industrie des machines-outils taïwanaise — et pourquoi la chute de la 5e à la 7e place mondiale en 2024 révèle une anxiété structurelle profonde."
 date: 2026-04-11
 tags:
-  ['machines-outils', 'mécanique de précision', 'mont Dadu', 'Taichung', 'industrie manufacturière', 'TMTS', 'cluster industriel', '2026']
-subcategory: "Industries traditionnelles"
+  [
+    'machines-outils',
+    'mécanique de précision',
+    'mont Dadu',
+    'Taichung',
+    'industrie manufacturière',
+    'TMTS',
+    'cluster industriel',
+    '2026',
+  ]
+subcategory: 'Industries traditionnelles'
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,7 +21,10 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: "Economy/台灣機械工具產業.md"
+translatedFrom: 'Economy/台灣機械工具產業.md'
+sourceCommitSha: 'fa95d5e0'
+sourceContentHash: 'sha256:74fc634acab51c40'
+translatedAt: '2026-04-14T19:21:33+08:00'
 ---
 
 # L'industrie des machines-outils à Taïwan

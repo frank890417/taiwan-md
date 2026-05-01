@@ -2,7 +2,14 @@
 title: 'Les traditions musicales des peuples autochtones de Taïwan'
 description: 'Découvrez la richesse des cultures musicales des 16 peuples autochtones de Taïwan — des chants ancestraux aux instruments traditionnels, témoins de plusieurs millénaires de transmission culturelle'
 date: 2026-03-18
-tags: ['peuples autochtones', 'musique traditionnelle', 'patrimoine culturel', 'instruments', 'cérémonies']
+tags:
+  [
+    'peuples autochtones',
+    'musique traditionnelle',
+    'patrimoine culturel',
+    'instruments',
+    'cérémonies',
+  ]
 subcategory: 'Musique traditionnelle'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 12
 featured: true
 translatedFrom: 'Music/台灣原住民音樂傳統.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:781fad4801f687cc'
+translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 
 # Les traditions musicales des peuples autochtones de Taïwan
@@ -30,7 +40,7 @@ La musique autochtone n'a rien d'un simple divertissement. Elle est l'expression
 
 ### Musique cérémonielle
 
-Les chants rituels sont des vecteurs sacrés de communication entre les vivants, les esprits ancestraux et la nature. Le *Pasibutbut* des Bunun — chant pour une bonne récolte de millet — reproduit par ses harmonies complexes les sons de la nature, dans la conviction d'émouvoir les dieux pour obtenir l'abondance. Les chants du festival quinquennal paiwan accueillent quant à eux le retour des ancêtres.
+Les chants rituels sont des vecteurs sacrés de communication entre les vivants, les esprits ancestraux et la nature. Le _Pasibutbut_ des Bunun — chant pour une bonne récolte de millet — reproduit par ses harmonies complexes les sons de la nature, dans la conviction d'émouvoir les dieux pour obtenir l'abondance. Les chants du festival quinquennal paiwan accueillent quant à eux le retour des ancêtres.
 
 ### Chants de travail
 
@@ -48,8 +58,8 @@ Le chant est l'archive vivante du village : il consigne les migrations, les expl
 
 **Territoire :** plaines de Hualien et Taitung
 **Particularité musicale :** chant choral et danse indissociables
-**Instrument emblématique :** sonnailles en bambou (*Kakeng*), tambour à peau
-**Cérémonie phare :** fête des récoltes (*Ilisin*) — chants en alternance hommes/femmes
+**Instrument emblématique :** sonnailles en bambou (_Kakeng_), tambour à peau
+**Cérémonie phare :** fête des récoltes (_Ilisin_) — chants en alternance hommes/femmes
 **Style :** mélodies vives et rythmées, pentatonisme dominant
 
 La fête des récoltes amis est l'une des célébrations autochtones les plus représentatives de Taïwan. Les participants forment des cercles, chantent et dansent ensemble — les hommes avancent en cadence dans leurs costumes traditionnels, les femmes agitent leurs sonnailles en bambou. La voix et le geste ne font qu'un.
@@ -58,7 +68,7 @@ La fête des récoltes amis est l'une des célébrations autochtones les plus re
 
 **Territoire :** montagnes de Hsinchu, Miaoli, Taichung et Nantou
 **Particularité musicale :** culture de la guimbarde très développée
-**Instrument emblématique :** guimbarde (*Lubuw*)
+**Instrument emblématique :** guimbarde (_Lubuw_)
 **Forme caractéristique :** improvisation, chant solo
 **Style :** tessiture large, ornements abondants, expressivité très fine
 
@@ -67,8 +77,8 @@ La guimbarde atayal est un trésor de la musique autochtone taiwanaise. Le music
 ### Bunun
 
 **Territoire :** montagnes de Nantou, Hualien et Taitung
-**Particularité musicale :** polyphonies à huit voix (*Pasibutbut*), renommées dans le monde entier
-**Instrument emblématique :** arc musical (*Kani-hungan*)
+**Particularité musicale :** polyphonies à huit voix (_Pasibutbut_), renommées dans le monde entier
+**Instrument emblématique :** arc musical (_Kani-hungan_)
 **Forme caractéristique :** chant polyphonique, chants de prière
 **Style :** harmonies d'une grande complexité, impact sonore saisissant
 
@@ -78,7 +88,7 @@ Les polyphonies à huit voix des Bunun sont un prodige de l'histoire de la musiq
 
 **Territoire :** montagnes de Pingtung et Taitung
 **Particularité musicale :** une société hiérarchisée qui se reflète dans la musique
-**Instrument emblématique :** flûte nasale à double tuyau (*Palingtuluan*)
+**Instrument emblématique :** flûte nasale à double tuyau (_Palingtuluan_)
 **Forme caractéristique :** transmission des chants anciens, chants du festival quinquennal
 **Style :** mélodies longues et ornées, empreintes de noblesse
 
@@ -111,13 +121,13 @@ Les percussions de pilon des Thao sont nées du travail des femmes qui décortiq
 ### Autres peuples
 
 - **Tsou :** chants de la fête guerrière, chants mythologiques
-- **Saisiyat :** danses et chants du *Pas-ta'ai* (cérémonie des Petits Hommes)
+- **Saisiyat :** danses et chants du _Pas-ta'ai_ (cérémonie des Petits Hommes)
 - **Tao (Yami) :** chants du bateau à planches, chants de la fête des poissons volants
 - **Truku :** chants de tissage, chants de chasse
 - **Sakizaya :** chants de la fête du dieu du feu
 - **Seediq :** chants de guerre, chants du tissage
 - **Hla'alua :** chants de la cérémonie des coquillages sacrés
-- **Kanakanavu :** chants du festival *Mikusu*
+- **Kanakanavu :** chants du festival _Mikusu_
 
 ---
 
@@ -127,9 +137,9 @@ Les instruments autochtones sont façonnés dans les matières que la nature off
 
 ### Instruments en bambou
 
-- **Guimbarde** (Atayal *Lubuw*) : lame de bambou fendue avec anche métallique, son cristallin
-- **Flûte nasale** (Paiwan *Palingtuluan*) : double tuyau, l'un sans trou, l'autre percé de 3 à 4 trous
-- **Sonnailles en bambou** (Amis *Kakeng*) : tube de bambou contenant des graines, sonnerie par agitation
+- **Guimbarde** (Atayal _Lubuw_) : lame de bambou fendue avec anche métallique, son cristallin
+- **Flûte nasale** (Paiwan _Palingtuluan_) : double tuyau, l'un sans trou, l'autre percé de 3 à 4 trous
+- **Sonnailles en bambou** (Amis _Kakeng_) : tube de bambou contenant des graines, sonnerie par agitation
 
 ### Instruments en bois
 
@@ -274,9 +284,9 @@ Pour explorer davantage les traditions musicales des peuples autochtones de Taï
 ## Références
 
 - [Site officiel du Conseil des peuples autochtones](https://www.cip.gov.tw/)
-- Ming Li-kuo, *La beauté de la musique autochtone de Taïwan*, Morning Star Publishing, 2006. [Présentation de l'auteur](https://par.npac-ntch.org/tw/article/author/2656)
-- Lu Yu-hsiu, *Histoire de la musique taïwanaise*, Wunan Culture, 2003. [博客來](https://www.books.com.tw/products/0010906148)
-- Hsu Chang-hui, *Première ébauche d'une histoire de la musique taïwanaise*, Chuan-yin Music Scores Publishing, 1991. [三民網路書店](https://www.sanmin.com.tw/product/index/000268139)
+- Ming Li-kuo, _La beauté de la musique autochtone de Taïwan_, Morning Star Publishing, 2006. [Présentation de l'auteur](https://par.npac-ntch.org/tw/article/author/2656)
+- Lu Yu-hsiu, _Histoire de la musique taïwanaise_, Wunan Culture, 2003. [博客來](https://www.books.com.tw/products/0010906148)
+- Hsu Chang-hui, _Première ébauche d'une histoire de la musique taïwanaise_, Chuan-yin Music Scores Publishing, 1991. [三民網路書店](https://www.sanmin.com.tw/product/index/000268139)
 - [Grand dictionnaire numérique d'histoire, de langue et de culture des peuples autochtones de Taïwan](http://210.240.125.35/citing/)
 - [Archives numériques de l'Institut d'ethnologie, Academia Sinica](https://c.iis.sinica.edu.tw/)
 - [Centre d'information et de bibliothèque des peuples autochtones de Taïwan](https://tiprc.apc.gov.tw/)

@@ -1,8 +1,17 @@
 ---
 title: 'La culture des convenience stores à Taïwan'
-description: 'Le royaume des convenience stores à la densité mondiale la plus élevée — l''innovation locale de 7-Eleven et FamilyMart réinvente le quotidien moderne'
+description: "Le royaume des convenience stores à la densité mondiale la plus élevée — l'innovation locale de 7-Eleven et FamilyMart réinvente le quotidien moderne"
 date: 2026-03-19
-tags: [vie quotidienne, convenience store, 7-Eleven, FamilyMart, plats frais, culture des supérettes, vie moderne]
+tags:
+  [
+    vie quotidienne,
+    convenience store,
+    7-Eleven,
+    FamilyMart,
+    plats frais,
+    culture des supérettes,
+    vie moderne,
+  ]
 subcategory: 'Vie urbaine'
 author: 'Taiwan.md Translation Team'
 readingTime: 7
@@ -11,6 +20,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
+sourceCommitSha: 'e564525c'
+sourceContentHash: 'sha256:a846fc24eb105695'
+translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 
 # La culture des convenience stores à Taïwan
@@ -57,21 +69,21 @@ Cette émulation entre les deux géants propulse l'ensemble du secteur : assorti
 
 **Données clés :**
 
-| Indicateur | Valeur |
-|---|---|
-| Nombre total de points de vente | Plus de 13 000 |
-| Densité par habitant | 1 magasin pour 2 000 personnes |
-| Densité géographique | 3,3 magasins par km² |
+| Indicateur                      | Valeur                         |
+| ------------------------------- | ------------------------------ |
+| Nombre total de points de vente | Plus de 13 000                 |
+| Densité par habitant            | 1 magasin pour 2 000 personnes |
+| Densité géographique            | 3,3 magasins par km²           |
 
 **Comparaison internationale :**
 
-| Pays / Région | Habitants par magasin |
-|---|---|
-| Japon | 2 200 |
-| Corée du Sud | 1 500 |
-| Hong Kong | 1 000 (surface réduite) |
-| États-Unis | 8 000 |
-| **Taïwan** | **2 000** |
+| Pays / Région | Habitants par magasin   |
+| ------------- | ----------------------- |
+| Japon         | 2 200                   |
+| Corée du Sud  | 1 500                   |
+| Hong Kong     | 1 000 (surface réduite) |
+| États-Unis    | 8 000                   |
+| **Taïwan**    | **2 000**               |
 
 **La spécificité taïwanaise :**
 Taïwan ne se distingue pas seulement par la densité, mais aussi par des horaires plus étendus (la majorité ouvre 24h/24) et une palette de services bien plus diversifiée.

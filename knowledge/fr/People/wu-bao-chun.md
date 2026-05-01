@@ -2,7 +2,16 @@
 title: 'Wu Pao-chun : une promesse faite à un enfant paiwan'
 description: "Fils de paysans de Pingtung, diplômé du collège, ne parlant pas un mot de français. Avec un pain au litchi et à la rose, il a décroché la première médaille d'or au monde de Maître Boulanger à Paris — une promesse tenue dix ans plus tôt à un enfant des peuples autochtones."
 date: 2026-04-05
-tags: ['restauration', 'boulangerie', 'artisanat', 'champion du monde', 'Pingtung', 'pain', 'peuples autochtones']
+tags:
+  [
+    'restauration',
+    'boulangerie',
+    'artisanat',
+    'champion du monde',
+    'Pingtung',
+    'pain',
+    'peuples autochtones',
+  ]
 subcategory: 'Gastronomie et artisanat'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +19,14 @@ readingTime: 7
 featured: true
 lastVerified: 2026-04-05
 translatedFrom: 'People/吳寶春.md'
+sourceCommitSha: '55c3ff6a'
+sourceContentHash: 'sha256:8ca95111311b9e7a'
+translatedAt: '2026-04-14T19:14:43+08:00'
 ---
 
 # Wu Pao-chun : une promesse faite à un enfant paiwan
 
-Il s'était rendu dans une école primaire paiwane du district de Sandimen, dans le comté de Pingtung, pour une démonstration. À la fin de l'événement, un enfant l'avait tiré par la manche : *Est-ce que vous pouvez emmener notre vin de millet vers le monde ?*
+Il s'était rendu dans une école primaire paiwane du district de Sandimen, dans le comté de Pingtung, pour une démonstration. À la fin de l'événement, un enfant l'avait tiré par la manche : _Est-ce que vous pouvez emmener notre vin de millet vers le monde ?_
 
 Wu Pao-chun avait répondu : oui.
 
@@ -70,7 +82,7 @@ Le 18 juin 2022, la « Wu Pao-chun Baking Academy » a ouvert ses portes à l'Un
 
 ## Ce que cette promesse signifie
 
-Disney+ lui a consacré le documentaire *The Best Baker in the World*. Son ouvrage *La douceur accomplit l'extraordinaire* continue de se vendre. En 2016, il emmène à nouveau l'équipe de Taïwan décrocher l'argent à la Coupe du Monde de la Boulangerie ; ses élèves ont perpétué son héritage en 2018, s'inspirant des « Guanjiangshou » pour remporter des distinctions internationales.
+Disney+ lui a consacré le documentaire _The Best Baker in the World_. Son ouvrage _La douceur accomplit l'extraordinaire_ continue de se vendre. En 2016, il emmène à nouveau l'équipe de Taïwan décrocher l'argent à la Coupe du Monde de la Boulangerie ; ses élèves ont perpétué son héritage en 2018, s'inspirant des « Guanjiangshou » pour remporter des distinctions internationales.
 
 Mais il faut toujours revenir à ce pain triangulaire. Ne parlant pas français, peu diplômé, enfant de la campagne, père disparu trop tôt, ressources quasiment nulles — il a dit oui à un enfant paiwan, puis a passé dix ans à emmener le vin de millet du village de cet enfant dans la bouche de jurés français, qui ont déclaré en avoir goûté là le meilleur pain français au monde.
 

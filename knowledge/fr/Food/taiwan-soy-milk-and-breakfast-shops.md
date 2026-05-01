@@ -2,7 +2,15 @@
 title: 'Le lait de soja et les cafés du matin à Taïwan'
 description: 'Des soldats originaires du Shandong poussaient leurs charrettes au pied du pont de Yonghe pour vendre du lait de soja. Soixante-dix ans plus tard, « Yonghe » est devenu le synonyme mondial du petit-déjeuner chinois — sans jamais avoir été une marque, simplement un nom de lieu.'
 date: 2026-03-29
-tags: ['lait de soja', 'café du matin', 'Yonghe doujiang', 'shaobing youtiao', 'crêpe aux œufs', 'cuisine des villages militaires']
+tags:
+  [
+    'lait de soja',
+    'café du matin',
+    'Yonghe doujiang',
+    'shaobing youtiao',
+    'crêpe aux œufs',
+    'cuisine des villages militaires',
+  ]
 subcategory: 'Culture des boissons'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 10
 featured: true
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
 lastVerified: 2026-03-29
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ba7ff819ca0777d2'
+translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 
 # Le lait de soja et les cafés du matin à Taïwan
@@ -41,13 +52,13 @@ La charrette d'un soldat du Shandong avait finalement déclenché une guerre des
 
 > 💡 **Repères chiffrés**
 >
-> | Année | Événement |
-> |-------|-----------|
-> | 1955 | Li Yunzeng crée le premier étal de lait de soja au pied du pont Zhongzheng à Yonghe |
-> | 1982 | Lin Bingsheng dépose la marque « Yonghe Doujiang » |
-> | 1995 | Entrée sur le marché chinois (Pudong, Shanghai) |
-> | — | Plus de 500 points de vente en Chine continentale |
-> | — | Présence de la marque dans plus de 20 pays |
+> | Année | Événement                                                                           |
+> | ----- | ----------------------------------------------------------------------------------- |
+> | 1955  | Li Yunzeng crée le premier étal de lait de soja au pied du pont Zhongzheng à Yonghe |
+> | 1982  | Lin Bingsheng dépose la marque « Yonghe Doujiang »                                  |
+> | 1995  | Entrée sur le marché chinois (Pudong, Shanghai)                                     |
+> | —     | Plus de 500 points de vente en Chine continentale                                   |
+> | —     | Présence de la marque dans plus de 20 pays                                          |
 
 ## Quand les galettes du Nord rencontrent la crêpe locale
 

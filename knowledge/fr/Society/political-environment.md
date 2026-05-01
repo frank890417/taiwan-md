@@ -3,7 +3,15 @@ title: 'Environnement politique et système électoral à Taïwan'
 description: "De l'architecture constitutionnelle aux mécanismes électoraux nationaux et locaux, en passant par la culture des partis politiques : une analyse complète de la manière dont Taïwan maintient une démocratie dynamique et rigoureusement encadrée au sein d'un contexte géopolitique complexe"
 date: 2026-03-18
 category: 'Society'
-tags: ['système politique', 'système électoral', 'semi-présidentialisme', 'autonomie locale', 'société civile', 'démocratie numérique']
+tags:
+  [
+    'système politique',
+    'système électoral',
+    'semi-présidentialisme',
+    'autonomie locale',
+    'société civile',
+    'démocratie numérique',
+  ]
 subcategory: 'Démocratie et politique'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +20,9 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
+sourceCommitSha: '89c6015e'
+sourceContentHash: 'sha256:dc490efa573c845c'
+translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 
 # Environnement politique et système électoral à Taïwan
@@ -93,4 +104,4 @@ Malgré un fonctionnement démocratique fluide, Taïwan fait face à plusieurs d
 - [Base de données électorales de la Commission électorale centrale](https://db.cec.gov.tw/) — données électorales depuis les années 1980
 - [Banque nationale des lois et règlements — Constitution de la République de Chine](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0000001)
 - [g0v — gouvernement zéro](https://g0v.tw/) — comment la technologie civique s'invite dans le débat politique
-- Wang Ding-ming et al., *Les mutations du système électoral taïwanais et du comportement électoral* (travaux consultables dans la [revue Electoral Studies](https://jestw.nccu.edu.tw/))
+- Wang Ding-ming et al., _Les mutations du système électoral taïwanais et du comportement électoral_ (travaux consultables dans la [revue Electoral Studies](https://jestw.nccu.edu.tw/))

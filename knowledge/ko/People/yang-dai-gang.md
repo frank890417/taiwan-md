@@ -18,6 +18,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/陽岱鋼.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:563a462f0876373a'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 양다이강: 일본 야구 무대를 누빈 대만 별

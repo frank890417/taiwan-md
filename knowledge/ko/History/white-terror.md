@@ -10,6 +10,9 @@ featured: true
 category: 'History'
 lastVerified: 2026-04-05
 translatedFrom: 'History/台灣白色恐怖.md'
+sourceCommitSha: 'c0e572fd'
+sourceContentHash: 'sha256:97d17c1374f9b150'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 # 대만 백색공포

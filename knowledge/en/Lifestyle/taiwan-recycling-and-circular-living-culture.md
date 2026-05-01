@@ -18,6 +18,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692a1090832374e5'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Chasing the Garbage Truck: How Taiwan Went from Trash Crisis to Recycling Marvel

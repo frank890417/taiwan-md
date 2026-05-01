@@ -8,7 +8,10 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Culture/台灣老街文化與商業街區.md'
+translatedFrom: "Culture/台灣老街文化與商業街區.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:979c4f4ab814a0ca"
+translatedAt: "2026-04-14T12:34:01+08:00"
 ---
 
 # Les vieilles rues de Taïwan : culture et quartiers commerciaux historiques
@@ -66,7 +69,7 @@ L'histoire de Jiufen remonte à **1890**. Cette année-là, lors de la construct
 
 Durant l'occupation japonaise, l'exploitation aurifère atteignit son apogée et la population de Jiufen explosa. Les flancs de la montagne se couvrirent de maisons serrées, formant le long d'escaliers abrupts un type de rue unique en son genre, propre aux « villes de montagne ». Dans les années 1960, les gisements s'épuisèrent, Jiufen périclita et sombra presque dans l'oubli.
 
-Le tournant vint en **1989** : Hou Hsiao-hsien tourna *La Cité des douleurs* à Jiufen. Ce film remporta le Lion d'or à la Mostra de Venise, ramenant Jiufen sous les feux de la scène mondiale. Plus tard, certains associèrent Jiufen aux thermes du film *Le Voyage de Chihiro* de Miyazaki Hayao — association que Miyazaki lui-même a démentie —, mais depuis lors, Jiufen est devenu une étape incontournable pour les visiteurs du monde entier.
+Le tournant vint en **1989** : Hou Hsiao-hsien tourna _La Cité des douleurs_ à Jiufen. Ce film remporta le Lion d'or à la Mostra de Venise, ramenant Jiufen sous les feux de la scène mondiale. Plus tard, certains associèrent Jiufen aux thermes du film _Le Voyage de Chihiro_ de Miyazaki Hayao — association que Miyazaki lui-même a démentie —, mais depuis lors, Jiufen est devenu une étape incontournable pour les visiteurs du monde entier.
 
 **Aujourd'hui :**
 
@@ -122,7 +125,7 @@ La vieille rue de Danshui désigne en général l'axe Zhongzheng Road (du débar
 
 **Aujourd'hui :**
 
-- **A-gei** : du tofu creux farci de vermicelles sautés, scellé avec de la pâte de poisson puis cuit à la vapeur ; son nom vient d'une translittération partielle du japonais *abura-age* (油揚げ).
+- **A-gei** : du tofu creux farci de vermicelles sautés, scellé avec de la pâte de poisson puis cuit à la vapeur ; son nom vient d'une translittération partielle du japonais _abura-age_ (油揚げ).
 - **Œufs de fer, boulettes de poisson, frites de poisson** : les classiques de la rue.
 - **Coucher de soleil sur la rivière Danshui** : le spot de coucher de soleil le plus prisé de la grande région de Taipei.
 - **Fort Rouge + Petit Palais Blanc + Batterie de Hobe** : trois monuments historiques en circuit, qui racontent quatre siècles d'échanges commerciaux internationaux à Danshui.
@@ -156,7 +159,7 @@ La vieille rue de Beipu ne mesure que 200 mètres à peine, mais elle abrite **7
 - **Tianshui Tang** : la résidence ancestrale du clan Jiang, classée avec Jinguangfu comme monument national.
 - **Villa occidentale de Jiang Axin** : chef-d'œuvre architectural mêlant influences chinoises et occidentales, construite par un riche marchand de thé de l'époque japonaise.
 - **Temple Citian** : monument classé au niveau du comté, centre de vie religieuse de la vieille rue.
-- **Gastronomie hakka** : thé battu traditionnel (*lei cha*), kaki plat séché (*shi bing*), nouilles *ban tiao* hakka.
+- **Gastronomie hakka** : thé battu traditionnel (_lei cha_), kaki plat séché (_shi bing_), nouilles _ban tiao_ hakka.
 - Pas une seule enseigne de chaîne dans toute la rue : une atmosphère de village hakka authentique et préservée.
 
 > **Sources :** [Tourism Administration, MOTC — Vieille rue de Beipu](https://www.taiwan.net.tw/m1.aspx?sNo=0001108&id=A12-00275)
@@ -197,11 +200,11 @@ Neiwan est situé dans le district de Hengshan, comté de Hsinchu, à majorité 
 
 En parcourant les vieilles rues de Taïwan, l'architecture elle-même se lit comme un manuel d'histoire.
 
-**Maison de commerce hokkien** (époque Qing) : la « maison en bambou » (*zhuganzuo*) — étroite en façade, profonde en intérieur. Le rez-de-chaussée est commercial, le premier étage résidentiel. Murs porteurs en briques rouges, toit à deux pans terminés en « queue d'hirondelle » ; la façade peut être ornée de sculptures sur pierre ou de céramiques Jiaozhitao.
+**Maison de commerce hokkien** (époque Qing) : la « maison en bambou » (_zhuganzuo_) — étroite en façade, profonde en intérieur. Le rez-de-chaussée est commercial, le premier étage résidentiel. Murs porteurs en briques rouges, toit à deux pans terminés en « queue d'hirondelle » ; la façade peut être ornée de sculptures sur pierre ou de céramiques Jiaozhitao.
 
 **Baroque à la taïwanaise** (époque japonaise) : produit du programme de « réaménagement urbain » conduit par l'administration japonaise. La profondeur caractéristique de la maison de commerce est conservée, mais la façade adopte un vocabulaire néo-européen : composition symétrique, ordres classiques, arcs, motifs végétaux. Les matériaux évoluent du bois et de la brique traditionnels vers le béton armé et le crépi lavé. Chaque façade est la carte de visite du propriétaire : plus elle est ornementée, plus prospère est le commerce. Les vieux quartiers baroques de Sanxia, Daxi et Qishan en sont les exemples les plus représentatifs.
 
-**L'arcade** (*tingzijiao*) : l'élément architectural le plus fonctionnel des vieilles rues de Taïwan. Ce corridor public formé par le retrait du rez-de-chaussée offre ombre et abri contre la pluie, tout en prolongeant l'espace marchand. Ce dispositif, bien adapté au climat subtropical, génère une qualité spatiale unique dans la rue taïwanaise.
+**L'arcade** (_tingzijiao_) : l'élément architectural le plus fonctionnel des vieilles rues de Taïwan. Ce corridor public formé par le retrait du rez-de-chaussée offre ombre et abri contre la pluie, tout en prolongeant l'espace marchand. Ce dispositif, bien adapté au climat subtropical, génère une qualité spatiale unique dans la rue taïwanaise.
 
 ## Le dilemme de la préservation
 

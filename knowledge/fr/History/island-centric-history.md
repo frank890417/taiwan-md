@@ -10,6 +10,9 @@ featured: true
 lastVerified: 2026-03-27
 lastHumanReview: true
 translatedFrom: 'History/台灣島史觀.md'
+sourceCommitSha: 53610439
+sourceContentHash: 'sha256:0d9f6beafb5cc868'
+translatedAt: '2026-04-14T12:31:41+08:00'
 ---
 
 > **En 30 secondes :** Pendant longtemps, l'histoire de Taïwan a été racontée comme une suite de changements de régime, ou comme la périphérie d'un grand empire continental. L'historien Tsao Yung-ho a radicalement renversé cette perspective avec son concept d'« histoire insulaire de Taïwan » : il affirme que le véritable sujet de l'histoire taïwanaise, c'est l'île elle-même. Les régimes se succèdent comme des acteurs sur scène — mais l'île, elle, demeure toujours. En quatre siècles, Taïwan a connu huit gouvernants différents. Ses habitants ont forgé, dans les interstices de ces dominations successives, une résilience et une capacité d'adaptation de niveau mondial. Ils ont su transformer les institutions imposées de l'extérieur en une force bien à eux, et ont fini par inventer, à ce carrefour maritime du monde, leur propre rapport au temps et à la démocratie.
@@ -26,8 +29,8 @@ Tsao Yung-ho s'est inspiré de l'École des Annales française et de Fernand Bra
 
 Considérer Taïwan comme une « petite île » amène à lire son histoire comme une suite de victimisations passives. La voir comme un « nœud de routes commerciales » transforme cette même histoire en une série de choix actifs. Ce glissement de perspective convertit l'histoire de Taïwan d'une « chronique de la colonisation continentale » en une véritable « histoire de la civilisation maritime ».
 
-| En 400 ans | 8 régimes |
-|---|---|
+| En 400 ans                        | 8 régimes                                                                     |
+| --------------------------------- | ----------------------------------------------------------------------------- |
 | Fréquence de changement de régime | Une rupture institutionnelle et une reconstruction en moyenne tous les 50 ans |
 
 > **📝 Note de commissariat**
@@ -117,9 +120,9 @@ Sur la carte du monde, Taïwan est une petite île. Dans la densité de l'histoi
 
 ## Références
 
-- Tsao Yung-ho, « Une autre approche pour étudier l'histoire de l'île de Taïwan — le concept d'"histoire de l'île de Taïwan" », *Recherches en histoire de Taïwan*, no 10, 1990.
-- Chou Wan-yao, *Illustrated History of Taiwan: From Prehistory to 1945*, Lianjing Publishing, 1997.
-- Weng Chia-yin et Huang Yan, *Décoder l'histoire de Taïwan : 1550-1724*, Yuanliu Publishing, 2017.
+- Tsao Yung-ho, « Une autre approche pour étudier l'histoire de l'île de Taïwan — le concept d'"histoire de l'île de Taïwan" », _Recherches en histoire de Taïwan_, no 10, 1990.
+- Chou Wan-yao, _Illustrated History of Taiwan: From Prehistory to 1945_, Lianjing Publishing, 1997.
+- Weng Chia-yin et Huang Yan, _Décoder l'histoire de Taïwan : 1550-1724_, Yuanliu Publishing, 2017.
 - Blussé, Leonard. _Around and About Dutch Formosa: Essays in Honor of Ts'ao Yung-ho_. Ts'ao Yung-ho Foundation for Culture and Education, 2003. (English)
 - _Taipei Times_. "History of a Taiwan historian." August 10, 2003. (English)
 - [Taiwan.gov.tw — HISTORY](https://www.taiwan.gov.tw/content_3.php)

@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 15
 translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:7b5c9a385e90141f'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 > **30초 요약**

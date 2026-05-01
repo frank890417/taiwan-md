@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 translatedFrom: 'Art/原住民文學.md'
 lastVerified: '2026-03-24'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c3ce92b18e6d1aeb'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 원주민 문학

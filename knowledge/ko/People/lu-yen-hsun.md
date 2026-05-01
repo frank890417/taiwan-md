@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 8
 translatedFrom: 'People/盧彥勳.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6523387459c64d0d'
+translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 
 # 루옌쉰: 대만 테니스의 맏형

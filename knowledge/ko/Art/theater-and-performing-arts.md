@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Art/台灣劇場與表演藝術.md'
 lastVerified: '2026-03-22'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cddfbcb9ade43ff2'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 대만 극장과 공연 예술: 작은 섬이 세계 무대를 흔든 이야기

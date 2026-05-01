@@ -8,12 +8,15 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: 'Culture/台灣獸迷文化.md'
+translatedFrom: "Culture/台灣獸迷文化.md"
+sourceCommitSha: "5dfae94a"
+sourceContentHash: "sha256:ba17289b87055288"
+translatedAt: "2026-04-14T12:34:01+08:00"
 ---
 
-> **En 30 secondes :** Les furries sont des passionnés de personnages animaux anthropomorphes. La culture furry taïwanaise a germé dans les années 1990 sur les forums BBS lors de la sortie du *Roi Lion* de Disney, puis s'est développée en souterrain pendant deux décennies avant qu'une première convention officielle ne soit organisée en 2015 — avec environ 50 participants seulement. Dix ans plus tard, en 2025, Infurnity attire 3 251 personnes en une seule édition, 689 fursuits se retrouvent sur la même photo de groupe, et les dons caritatifs atteignent 961 500 dollars taïwanais[^1]. En 2020, Taïwan a même vu naître la Taiwan Furry Interaction Association (TFIA), reconnue officiellement par le ministère de l'Intérieur[^2]. Loin d'être un simple passe-temps marginal, c'est une sphère culturelle à part entière, dotée d'une organisation solide, d'un véritable écosystème économique et d'un engagement social réel.
+> **En 30 secondes :** Les furries sont des passionnés de personnages animaux anthropomorphes. La culture furry taïwanaise a germé dans les années 1990 sur les forums BBS lors de la sortie du _Roi Lion_ de Disney, puis s'est développée en souterrain pendant deux décennies avant qu'une première convention officielle ne soit organisée en 2015 — avec environ 50 participants seulement. Dix ans plus tard, en 2025, Infurnity attire 3 251 personnes en une seule édition, 689 fursuits se retrouvent sur la même photo de groupe, et les dons caritatifs atteignent 961 500 dollars taïwanais[^1]. En 2020, Taïwan a même vu naître la Taiwan Furry Interaction Association (TFIA), reconnue officiellement par le ministère de l'Intérieur[^2]. Loin d'être un simple passe-temps marginal, c'est une sphère culturelle à part entière, dotée d'une organisation solide, d'un véritable écosystème économique et d'un engagement social réel.
 
-En janvier 2017, un journaliste du *Taipei Times* s'est rendu à Infurnity et y a découvert une centaine de loups, lions et lapins en train de socialiser dans les salons d'un hôtel. Un jeune homme nommé Zilven Chang portait sa fursuit de loup argenté à crinière. Il a confié : « Quand je porte la fursuit, je reste moi-même. C'est juste un côté de moi qui ne se montre pas habituellement. Pas besoin de jouer un rôle — ça émerge naturellement. »[^3]
+En janvier 2017, un journaliste du _Taipei Times_ s'est rendu à Infurnity et y a découvert une centaine de loups, lions et lapins en train de socialiser dans les salons d'un hôtel. Un jeune homme nommé Zilven Chang portait sa fursuit de loup argenté à crinière. Il a confié : « Quand je porte la fursuit, je reste moi-même. C'est juste un côté de moi qui ne se montre pas habituellement. Pas besoin de jouer un rôle — ça émerge naturellement. »[^3]
 
 Chang et J.C. Lan cogèrent le studio Beast Fantasia, spécialisé dans la fabrication de fursuits, l'illustration et la fiction. Lan est l'un des cofondateurs d'Infurnity. Il se souvient : « Lors de la première édition en 2015, il y avait peut-être 50 personnes. Avant Infurnity, Taïwan comptait moins de dix créateurs de fursuits, et seulement deux ou trois ateliers de fabrication. »[^4]
 
@@ -21,7 +24,7 @@ Les chiffres dix ans plus tard : 3 251 participants, 689 fursuits, 961 500 dolla
 
 ## Des forums BBS aux temples : comment la scène furry taïwanaise s'est construite
 
-Dans la seconde moitié des années 1990, *Le Roi Lion* de Disney conquiert le monde. À Taïwan, une poignée de jeunes fraîchement connectés à Internet se retrouvent sur les forums BBS dédiés aux animaux, échangeant leur passion pour les personnages anthropomorphes via des connexions modem. Pas d'images, pas de fursuits — seulement du texte. Mais la graine du « fursona » (le personnage original personnel) est déjà semée[^5].
+Dans la seconde moitié des années 1990, _Le Roi Lion_ de Disney conquiert le monde. À Taïwan, une poignée de jeunes fraîchement connectés à Internet se retrouvent sur les forums BBS dédiés aux animaux, échangeant leur passion pour les personnages anthropomorphes via des connexions modem. Pas d'images, pas de fursuits — seulement du texte. Mais la graine du « fursona » (le personnage original personnel) est déjà semée[^5].
 
 Dans les années 2000, des forums taïwanais comme Wolf Paradise et Wild Frontier deviennent les points de rassemblement de la communauté. Les membres partagent dessins et récits avec une bande passante limitée, et forgent un vocabulaire qui leur est propre — « fursona », « fursuit », « commission » : ces termes prennent leur forme définitive dans ces espaces[^5].
 
@@ -39,11 +42,11 @@ En 2024-2025, Taïwan compte trois grands rassemblements furry annuels qui struc
 
 **Infurnity (獸無限)** : le grand rendez-vous annuel automne-hiver, le plus important en termes de taille. Voici la courbe de progression selon les données officielles[^1] :
 
-| Année | Participants | Fursuits en photo | Dons caritatifs    |
-|-------|-------------|-------------------|--------------------|
-| 2023  | 2 354       | —                 | —                  |
-| 2024  | 2 712       | 575               | 950 800 TWD        |
-| 2025  | 3 251       | 689               | 961 500 TWD        |
+| Année | Participants | Fursuits en photo | Dons caritatifs |
+| ----- | ------------ | ----------------- | --------------- |
+| 2023  | 2 354        | —                 | —               |
+| 2024  | 2 712        | 575               | 950 800 TWD     |
+| 2025  | 3 251        | 689               | 961 500 TWD     |
 
 > **📝 Note de curation :** L'engagement caritatif ne relève pas de la communication. Infurnity collabore depuis longtemps avec des associations locales de conservation comme le Taiwan Raptor Research Group et la Taiwan Black Bear Conservation Association, et les dons cumulés sur plusieurs années dépassent le million de dollars taïwanais. Des amateurs de personnages animaux qui contribuent à protéger de vrais animaux — ce cercle vertueux a quelque chose d'élégant.
 

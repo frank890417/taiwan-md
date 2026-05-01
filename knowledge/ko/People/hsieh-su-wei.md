@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/謝淑薇.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0fdf73c6c6f9ad21'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 셰수웨이: 타이완 테니스의 개척자

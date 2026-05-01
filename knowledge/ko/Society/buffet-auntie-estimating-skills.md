@@ -19,6 +19,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Society/自助餐阿姨的謎之目測精算能力.md'
 lastVerified: 2026-03-22
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c40e9256e5031f97'
+translatedAt: '2026-04-14T06:37:05+08:00'
 ---
 
 # 뷔페 아주머니의 신기한 눈대중 계산 능력

@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Nature/台灣步道文化與公民守護.md'
+translatedFrom: "Nature/台灣步道文化與公民守護.md"
+sourceCommitSha: "84e04168"
+sourceContentHash: "sha256:c5189b4648b42385"
+translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 
 # La culture des sentiers à Taïwan et la garde citoyenne

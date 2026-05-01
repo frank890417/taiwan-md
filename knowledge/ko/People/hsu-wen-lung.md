@@ -7,6 +7,9 @@ subcategory: '기술과 기업'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/許文龍.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:73deed1e850fca3f'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 쉬원룽 (許文龍): 음악과 사업의 이중 협주

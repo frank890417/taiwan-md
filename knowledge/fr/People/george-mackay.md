@@ -9,7 +9,10 @@ date: 2026-03-31
 readingTime: 8
 lastVerified: 2026-03-31
 lastHumanReview: true
-translatedFrom: 'People/馬偕.md'
+translatedFrom: "People/馬偕.md"
+sourceCommitSha: "c018a424"
+sourceContentHash: "sha256:96659af055b707e8"
+translatedAt: "2026-04-14T19:19:52+08:00"
 ---
 
 > **En 30 secondes :**
@@ -17,7 +20,7 @@ translatedFrom: 'People/馬偕.md'
 
 ### Le « Barbu étranger » sur les rives du fleuve Tamsui
 
-Le 9 mars 1872, un vapeur baptisé *Haïlong* remonte lentement l'estuaire de la rivière Tamsui. Sur le pont se tient un jeune Canadien à la barbe noire et fournie : George Leslie Mackay. Il a tout juste 28 ans. Dans sa poche, la maigre bourse que lui a allouée l'Église presbytérienne canadienne ; dans le cœur, la conviction d'offrir toute sa vie à cette île.
+Le 9 mars 1872, un vapeur baptisé _Haïlong_ remonte lentement l'estuaire de la rivière Tamsui. Sur le pont se tient un jeune Canadien à la barbe noire et fournie : George Leslie Mackay. Il a tout juste 28 ans. Dans sa poche, la maigre bourse que lui a allouée l'Église presbytérienne canadienne ; dans le cœur, la conviction d'offrir toute sa vie à cette île.
 
 Les habitants de Tamsui accueillent ce « barbu étranger » avec méfiance. Insultes, crachats, jets de pierres — Mackay traverse tout cela. Pour s'intégrer, il ne commence pas par ouvrir sa Bible : il part aux champs. Son premier professeur de taiwanais lui enseigne de façon trop rigide ; il se tourne alors vers les jeunes bouvier des collines. Il sort sa montre de poche, le tic-tac fascine les enfants, et, mot après mot, il collecte le vocabulaire le plus authentique qui soit. En moins de six mois, il converse couramment avec les paysans — et peut même leur tenir tête en débat.
 
@@ -27,9 +30,9 @@ Les habitants de Tamsui accueillent ce « barbu étranger » avec méfiance. Ins
 
 L'image qui reste la plus ancrée dans la mémoire collective de Taïwan n'est pas celle d'un Mackay prêchant en chaire, mais celle d'un homme tenant une pince à dents et soulageant la douleur des gens. Au XIXe siècle, le mal de dents est un cauchemar ordinaire dans une île quasi dépourvue de soins médicaux. Mackay comprend vite qu'il est plus efficace de traiter la souffrance physique que de prêcher dans le vide.
 
-Dès 1873, il glisse une pince dentaire dans sa besace de missionnaire. Son journal consigne plus de 21 000 extractions au cours de sa vie. Il officie sous les auvents des temples, à l'ombre des grands arbres, parfois au bord du chemin. Cette médecine de l'itinérance — « une main sur la Bible, l'autre sur la pince » — dissipe les résistances plus sûrement que n'importe quel sermon. L'hôpital qu'il fonde à Tamsui, le *Hobe Hospital* (hôpital de Hobe), est le premier hôpital de médecine occidentale du nord de Taïwan et l'ancêtre direct du Mackay Memorial Hospital d'aujourd'hui.
+Dès 1873, il glisse une pince dentaire dans sa besace de missionnaire. Son journal consigne plus de 21 000 extractions au cours de sa vie. Il officie sous les auvents des temples, à l'ombre des grands arbres, parfois au bord du chemin. Cette médecine de l'itinérance — « une main sur la Bible, l'autre sur la pince » — dissipe les résistances plus sûrement que n'importe quel sermon. L'hôpital qu'il fonde à Tamsui, le _Hobe Hospital_ (hôpital de Hobe), est le premier hôpital de médecine occidentale du nord de Taïwan et l'ancêtre direct du Mackay Memorial Hospital d'aujourd'hui.
 
-> « Depuis 1873, j'ai extrait de mes propres mains plus de vingt et un mille dents. » — George Mackay, *From Far Formosa* (1895)
+> « Depuis 1873, j'ai extrait de mes propres mains plus de vingt et un mille dents. » — George Mackay, _From Far Formosa_ (1895)
 
 > 📝 **Note de curation :** Arracher une dent n'était pas seulement un acte médical ; c'était un rituel social. Chaque dent tombée représentait la confiance d'une famille taïwanaise accordée à cet homme venu de si loin.
 
@@ -49,7 +52,7 @@ Il aurait répertorié plus de 80 espèces de serpents et 50 espèces de fougèr
 
 ### Oxford College et Chang Chhong-Miâ : le courage de briser les barrières
 
-En 1882, grâce aux dons des habitants du comté d'Oxford, en Ontario, Mackay fonde à Tamsui le *Lí-hak-tông Tāi-su-īⁿ* (Oxford College). C'est la première institution scolaire de style occidental de Taïwan, avec au programme géographie, astronomie, anatomie, géologie et autres sciences modernes.
+En 1882, grâce aux dons des habitants du comté d'Oxford, en Ontario, Mackay fonde à Tamsui le _Lí-hak-tông Tāi-su-īⁿ_ (Oxford College). C'est la première institution scolaire de style occidental de Taïwan, avec au programme géographie, astronomie, anatomie, géologie et autres sciences modernes.
 
 Plus révolutionnaire encore : en 1884, Mackay et son épouse Chang Chhong-Miâ cofondent l'École des femmes de Tamsui. Dans une société où l'on dit que « le savoir ne sied pas aux femmes », Mackay insiste pour instruire les filles, sans distinction de classe ni de frais de scolarité. L'histoire de Chang Chhong-Miâ est elle-même remarquable : ancienne enfant élevée comme future belle-fille (童養媳), elle apprend l'anglais et le piano après son mariage avec Mackay, fait le tour du monde à ses côtés et prend la parole en anglais au Canada. Elle est la première femme de Taïwan à avoir accompli un voyage autour du globe — et l'âme de l'École des femmes.
 
@@ -59,7 +62,7 @@ Plus révolutionnaire encore : en 1884, Mackay et son épouse Chang Chhong-Miâ 
 
 Le 2 juin 1901, Mackay s'éteint à Tamsui des suites d'un cancer de la gorge, à 57 ans. Il avait tenu la promesse qu'il se répétait dans son journal : « Rather burn out, than rust out » — brûler jusqu'au bout, jamais se laisser rouiller. Il ne repose pas dans le cimetière occidental de Tamsui, mais dans le parc de l'école secondaire de Tamsui, auprès des paroissiens taïwanais qu'il avait choisi pour compagnons d'éternité.
 
-Avant de mourir, il laisse un poème intitulé *Taïwan, pays que j'aime du fond du cœur* :
+Avant de mourir, il laisse un poème intitulé _Taïwan, pays que j'aime du fond du cœur_ :
 
 > « Ô Taïwan, pays que j'aime du fond du cœur ! Je t'ai consacré ma vie entière. Ô Taïwan, pays que j'aime du fond du cœur ! C'est là que j'ai trouvé ma joie. »
 

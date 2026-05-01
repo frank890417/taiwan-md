@@ -8,8 +8,11 @@ subcategory: 'Portraits d'entreprises'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
-translatedFrom: 'Economy/台灣企業：富邦金控.md'
+translatedFrom: "Economy/台灣企業：富邦金控.md"
 lastVerified: 2026-03-22
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:17799d817d240ba2"
+translatedAt: "2026-04-14T19:20:40+08:00"
 ---
 
 # Fubon Financial Holdings : l'empire financier des frères Tsai

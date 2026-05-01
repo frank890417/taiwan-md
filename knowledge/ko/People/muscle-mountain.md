@@ -10,6 +10,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/肌肉山山.md'
 readingTime: 9
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:a9c781639a414788'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 근육산산은 대만에서 오래 활동한 한국인 유튜버로, 피트니스·생활·한중 이중언어 상호작용으로 인지도를 쌓았다. 대만 유통에서는 하이라이프 협업 델리·베이커리로 ‘고향 맛+단백질’을 편의점 매대에 한꺼번에 올렸다.

@@ -10,6 +10,9 @@ readingTime: 8
 featured: true
 translatedFrom: 'Technology/PTT批踢踢.md'
 lastVerified: 2026-03-21
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:f28d98485199bc24'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 # PTT 비티피: 대만의 가장 완고한 공공 광장

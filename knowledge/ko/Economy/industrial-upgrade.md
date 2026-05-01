@@ -10,6 +10,9 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/台灣產業轉型升級.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:4035b995bd717d6f'
+translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 
 # 대만 산업 전환과 고도화: 제조 강국에서 혁신 강국으로

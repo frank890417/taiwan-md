@@ -4,6 +4,9 @@ category: Art
 tags: [comics, illustration, visual art]
 date: 2026-03-18
 translatedFrom: 'Art/台灣漫畫.md'
+sourceCommitSha: '0d8e06fc'
+sourceContentHash: 'sha256:3a1178905711b562'
+translatedAt: '2026-05-01T17:09:56+08:00'
 ---
 
 # Taiwanese Comics and Illustration: The Narrative Power of Images

@@ -15,6 +15,9 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣文化創意園區發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0fec167ed85728d4'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's Cultural Creative Park Development

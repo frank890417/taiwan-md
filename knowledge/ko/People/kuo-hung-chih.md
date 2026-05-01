@@ -7,6 +7,9 @@ subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/郭泓志.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:afabda9042512747'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 # 궈훙즈: 좌완 강속구 투수

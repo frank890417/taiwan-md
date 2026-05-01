@@ -10,6 +10,9 @@ featured: true
 lastVerified: 2026-03-31
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/二二八事件.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:634ee0a75c18646d'
+translatedAt: '2026-04-14T04:54:47+08:00'
 ---
 
 # 2·28 사건

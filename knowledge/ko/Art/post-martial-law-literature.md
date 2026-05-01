@@ -8,6 +8,9 @@ category: 'Art'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Art/解嚴後台灣文學.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:493c1722ce576d1b'
+translatedAt: '2026-04-14T09:46:05+08:00'
 ---
 
 # 계엄 해제 이후 대만 문학

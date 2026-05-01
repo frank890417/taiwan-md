@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
-translatedFrom: 'People/李智凱.md'
+translatedFrom: "People/李智凱.md"
+sourceCommitSha: "d4498d97"
+sourceContentHash: "sha256:40c8b34419f44594"
+translatedAt: "2026-04-14T19:15:26+08:00"
 ---
 
 # Li Chih-kai
@@ -26,7 +29,7 @@ Li Chih-kai est né le 3 avril 1996 à Kaohsiung, mais c'est à Yilan que sa vie
 
 Lin Yu-hsin est lui-même un ancien gymnaste, champion national au saut de cheval au lycée, avant de raccrocher et de revenir entraîner à son ancienne école. Sa méthode est exigeante mais bienveillante : il cultive chez ses élèves autant la précision technique que la solidité mentale. Dès les premiers entraînements, il décèle le talent du nouveau venu.
 
-En 2005, le réalisateur Yang Li-chou, introduit auprès de Lin Yu-hsin par son frère Lin Yu-hsien, commence à tourner le documentaire *Vole, garçon !*, qui suit la vie quotidienne de la section de gymnastique de Gongjheng. Li Chih-kai, l'un des plus jeunes membres de l'équipe, fait preuve d'une concentration étonnante pour son âge. Devant la caméra, il déclare naïvement vouloir « aller aux Jeux olympiques ». Personne ne l'imaginait alors prophétique.
+En 2005, le réalisateur Yang Li-chou, introduit auprès de Lin Yu-hsin par son frère Lin Yu-hsien, commence à tourner le documentaire _Vole, garçon !_, qui suit la vie quotidienne de la section de gymnastique de Gongjheng. Li Chih-kai, l'un des plus jeunes membres de l'équipe, fait preuve d'une concentration étonnante pour son âge. Devant la caméra, il déclare naïvement vouloir « aller aux Jeux olympiques ». Personne ne l'imaginait alors prophétique.
 
 C'est ce film qui lui vaut le surnom de « Kai du marché », allusion à son allure ordinaire et à son accent de Yilan. Mais derrière cette image sans prétention se révèle déjà une ténacité peu commune : chaque mouvement, recommencé des dizaines de fois ; chaque chute, suivie d'un retour immédiat au travail.
 
@@ -68,11 +71,11 @@ L'Irlandais Rhys McClenaghan s'empare de l'or avec 15,533 points, soit un écart
 
 ## Du « Kai du marché » au Prince des arçons
 
-Le succès de Li Chih-kai revêt une portée symbolique profonde. Du gamin qui déclarait innocemment vouloir « aller aux Jeux olympiques » dans *Vole, garçon !* à l'athlète qui monte sur le podium olympique, le chemin parcouru illustre l'évolution de la gymnastique taïwanaise de base.
+Le succès de Li Chih-kai revêt une portée symbolique profonde. Du gamin qui déclarait innocemment vouloir « aller aux Jeux olympiques » dans _Vole, garçon !_ à l'athlète qui monte sur le podium olympique, le chemin parcouru illustre l'évolution de la gymnastique taïwanaise de base.
 
 Son parcours prouve une chose : Taïwan n'est pas une grande puissance de la gymnastique, mais avec la bonne méthode d'entraînement, les ressources nécessaires, le talent et la persévérance, le pays peut former des athlètes de classe mondiale. La médaille de Li Chih-kai n'est pas un accident ; c'est le fruit de plus de dix ans de travail de fond.
 
-Et il n'a jamais renié ses origines. Quels que soient ses succès, il garde en mémoire l'école primaire Gongjheng de Yilan, les enseignements de l'entraîneur Lin Yu-hsin, l'influence de *Vole, garçon !* sur sa vie.
+Et il n'a jamais renié ses origines. Quels que soient ses succès, il garde en mémoire l'école primaire Gongjheng de Yilan, les enseignements de l'entraîneur Lin Yu-hsin, l'influence de _Vole, garçon !_ sur sa vie.
 
 ## Une contribution technique qui dépasse les podiums
 
@@ -102,7 +105,7 @@ Son objectif n'est pas de préserver ses acquis, mais de continuer à se surpass
 
 L'histoire de Li Chih-kai rappelle que les rêves se construisent dans la durée et l'obstination. Du garçon culbuteur de 9 ans à l'athlète olympique médaillé de 25 ans, ces seize années témoignent à la fois d'une métamorphose individuelle et de l'essor de la gymnastique taïwanaise.
 
-Cette histoire n'est pas close. Chaque jeune qui découvre la gymnastiqueà travers une vidéo de Li Chih-kai, chaque enfant qui croit en ses rêves après avoir vu *Vole, garçon !* — autant de continuations de cet esprit de culbute, autant de graines semées pour l'avenir.
+Cette histoire n'est pas close. Chaque jeune qui découvre la gymnastiqueà travers une vidéo de Li Chih-kai, chaque enfant qui croit en ses rêves après avoir vu _Vole, garçon !_ — autant de continuations de cet esprit de culbute, autant de graines semées pour l'avenir.
 
 Comme il le dit souvent : « Si vous acceptez d'endurer la difficulté, vous trouverez votre ciel. » Ces mots ne s'adressent pas seulement aux gymnastes : ils parlent à tous ceux qui poursuivent un rêve. Dans une époque qui valorise l'immédiateté, Li Chih-kai démontre par seize ans de ténacité que les accomplissements qui comptent vraiment se forgent dans la durée.
 

@@ -18,6 +18,9 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:ba6b3f7666918555'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwanese Life Ceremony Traditions: Marriage, Funeral Rites, and Ritual Celebrations

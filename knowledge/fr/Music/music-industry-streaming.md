@@ -2,7 +2,15 @@
 title: "L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques"
 description: "Comment Taïwan a traversé l'âge d'or des disquaires, la crise du piratage, avant de donner naissance à KKBOX — premier service de streaming légal au monde — et de construire l'écosystème musical numérique d'aujourd'hui, où coexistent Spotify, Apple Music et les acteurs locaux"
 date: 2026-03-19
-tags: ['industrie musicale', 'streaming musical', 'KKBOX', 'musique numérique', 'disquaires', 'musique indépendante']
+tags:
+  [
+    'industrie musicale',
+    'streaming musical',
+    'KKBOX',
+    'musique numérique',
+    'disquaires',
+    'musique indépendante',
+  ]
 subcategory: 'Indépendant et rock'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +19,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8d2c98ba6bf8e0d'
+translatedAt: '2026-04-15T17:32:47+08:00'
 ---
 
 # L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques

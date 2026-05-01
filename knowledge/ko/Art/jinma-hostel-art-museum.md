@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Art/金馬賓館當代美術館.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:dc5814dcedc92ae0'
+translatedAt: '2026-04-14T09:46:05+08:00'
 ---
 
 # 진마 빈관 현대미술관 — 전송의 여관에서 예술의 낙원으로

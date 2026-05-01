@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cb7042e73cb2cef2'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약:** 1984년, 건설업에서 출발한 장야오홍잉 모자가 반도체 패키징·테스트 업계로 진출해 일월광을 창립했다. 40년 후 세계 최대 패키징·테스트 업체로 성장했으며, 2024년 매출은 101억 달러, 글로벌 시장 점유율은 약 45%에 달한다. 모든 아이폰과 모든 노트북에 일월광의 기술이 들어 있을지도 모른다. 칩에 '옷을 입히고' '건강검진'을 해주는 숨은 강자다.

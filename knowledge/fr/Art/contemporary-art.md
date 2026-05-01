@@ -1,6 +1,6 @@
 ---
 title: "L'art contemporain à Taïwan"
-description: "Du Musée des beaux-arts de Taipei au Pavillon taïwanais de la Biennale de Venise : la place singulière de Taïwan sur la scène artistique mondiale"
+description: 'Du Musée des beaux-arts de Taipei au Pavillon taïwanais de la Biennale de Venise : la place singulière de Taïwan sur la scène artistique mondiale'
 date: 2026-03-17
 tags: ['art', 'contemporain', 'culture', 'musées']
 subcategory: 'Art contemporain'
@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Art/當代藝術.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f34b45fd8d60d61d'
+translatedAt: '2026-04-14T19:14:02+08:00'
 ---
 
 # L'art contemporain à Taïwan

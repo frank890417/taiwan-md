@@ -2,7 +2,14 @@
 title: 'Cheng Li-wun'
 description: "De la grève de la faim devant les portes de l'université nationale de Taïwan en 1988 — au nom de l'indépendance taïwanaise — à la salle Fujian du Grand Palais du Peuple à Pékin en 2026, face à Xi Jinping, où elle déclare : « Les habitants des deux rives du détroit sont tous des Chinois. » Que s'est-il passé entre ces deux moments ?"
 date: 2026-04-11
-tags: ['personnalités politiques', 'Kuomintang', 'relations entre les deux rives', 'génération du mouvement étudiant', '2026']
+tags:
+  [
+    'personnalités politiques',
+    'Kuomintang',
+    'relations entre les deux rives',
+    'génération du mouvement étudiant',
+    '2026',
+  ]
 subcategory: 'Personnalités politiques'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 translatedFrom: 'People/鄭麗文.md'
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:c454a71817a858ba'
+translatedAt: '2026-04-14T19:19:21+08:00'
 ---
 
 # Cheng Li-wun

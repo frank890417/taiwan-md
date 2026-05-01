@@ -10,6 +10,9 @@ readingTime: 8
 featured: true
 translatedFrom: 'Technology/台灣人工智慧實驗室.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:4e74b5658957423e'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 # 대만 인공지능 연구소 (Taiwan AI Labs)

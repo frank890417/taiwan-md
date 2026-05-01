@@ -13,6 +13,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'People/戴資穎.md'
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:1a1c26aae26ed9f8'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Tai Tzu-ying

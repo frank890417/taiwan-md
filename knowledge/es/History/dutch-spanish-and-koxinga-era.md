@@ -14,6 +14,9 @@ author: Taiwan.md
 readingTime: 8
 featured: false
 translatedFrom: 'History/荷西明鄭時期.md'
+sourceCommitSha: 53610439
+sourceContentHash: 'sha256:bede1d5ee64e87b9'
+translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 
 # Era Neerlandesa, Española y de Koxinga

@@ -12,7 +12,10 @@ category: 'People'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: 'People/楊右任.md'
+translatedFrom: "People/楊右任.md"
+sourceCommitSha: "84e04168"
+sourceContentHash: "sha256:ffd477fca05ec608"
+translatedAt: "2026-04-14T19:16:13+08:00"
 ---
 
 # Yang Youren : du graffeur déscolarisé au héros humanitaire qui sauve des vies avec de vieilles chaussures
@@ -35,7 +38,7 @@ C'est sur un terrain de basket, à 18 ans, qu'il croise un ancien chef de gang r
 
 ### La naissance de « Step30 » : une affiche, 200 000 paires de chaussures
 
-En 2014, son beau-père — le missionnaire canadien Alan Remley — partage avec lui le témoignage d'enfants vivant à la frontière entre le Kenya et l'Ouganda. Faute de chaussures, ces enfants sont infestés de puces chiques qui pénètrent sous leur peau, provoquant des plaies, des infections, parfois des amputations. Yang Youren pense alors aux stocks restants de l'ancienne fabrique de son père. Le 19 avril, il publie une affiche intitulée « Vieilles chaussures sauvent des vies » sur son blog. En quelques jours, les dons affluent : près de 100 000 paires de chaussures et 7 tonnes de vêtements. Le premier conteneur de 40 pieds arrive au Kenya en septembre. En novembre, il se rend sur place pour superviser la distribution. En 2016, l'histoire est adaptée en documentaire sous le titre *EXCHANGE*, qui remporte plusieurs prix. Le nom « Step30 » vise à encourager les Taïwanais de moins de 30 ans à s'engager dans l'action humanitaire.
+En 2014, son beau-père — le missionnaire canadien Alan Remley — partage avec lui le témoignage d'enfants vivant à la frontière entre le Kenya et l'Ouganda. Faute de chaussures, ces enfants sont infestés de puces chiques qui pénètrent sous leur peau, provoquant des plaies, des infections, parfois des amputations. Yang Youren pense alors aux stocks restants de l'ancienne fabrique de son père. Le 19 avril, il publie une affiche intitulée « Vieilles chaussures sauvent des vies » sur son blog. En quelques jours, les dons affluent : près de 100 000 paires de chaussures et 7 tonnes de vêtements. Le premier conteneur de 40 pieds arrive au Kenya en septembre. En novembre, il se rend sur place pour superviser la distribution. En 2016, l'histoire est adaptée en documentaire sous le titre _EXCHANGE_, qui remporte plusieurs prix. Le nom « Step30 » vise à encourager les Taïwanais de moins de 30 ans à s'engager dans l'action humanitaire.
 
 ### Au-delà des chaussures : construire l'autonomie
 
@@ -58,7 +61,7 @@ Né en 1987 à Taoyuan, Yang Youren entretient avec la « chaussure » un lien i
 
 ### Une philosophie enracinée dans le respect
 
-Yang Youren ne distribue pas simplement des ressources — il défend l'autonomie locale et le respect des cultures. Il insiste sur la collaboration avec les réseaux d'églises locales, sans imposer de croyance. Il est convaincu que les ressources taïwanaises peuvent produire un effet de levier maximal en Afrique. Ses deux livres — *Je vous donne 50 000 paires de bénédictions* et *Perdre le contrôle, c'est le meilleur arrangement* — retracent son chemin intérieur, de l'adolescent des rues à l'homme qui transforme des destins en Afrique.
+Yang Youren ne distribue pas simplement des ressources — il défend l'autonomie locale et le respect des cultures. Il insiste sur la collaboration avec les réseaux d'églises locales, sans imposer de croyance. Il est convaincu que les ressources taïwanaises peuvent produire un effet de levier maximal en Afrique. Ses deux livres — _Je vous donne 50 000 paires de bénédictions_ et _Perdre le contrôle, c'est le meilleur arrangement_ — retracent son chemin intérieur, de l'adolescent des rues à l'homme qui transforme des destins en Afrique.
 
 ### Une figure incontournable pour la jeunesse taïwanaise
 
@@ -83,7 +86,7 @@ Le parcours familial de Yang Youren — entre l'usine de chaussures du père et 
 - [Yang Youren — Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E6%A5%8A%E5%8F%B3%E4%BB%BB) (biographie principale, détails sur Step30)
 - [Association Step30 — Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%88%8A%E9%9E%8B%E6%95%91%E5%91%BD) (histoire de l'organisation et programmes)
 - [Site officiel Step30](https://www.step30.org/) (informations actualisées, présentation des projets, rapport annuel 2024)
-- [*Je vous donne 50 000 paires de bénédictions* — Books.com.tw](https://www.books.com.tw/products/0010760000) (témoignage de Yang Youren)
+- [_Je vous donne 50 000 paires de bénédictions_ — Books.com.tw](https://www.books.com.tw/products/0010760000) (témoignage de Yang Youren)
 - [Interview 104 Bravo — Du petit délinquant au Jeune Distingué](https://blog.104.com.tw/104bravo-step30-org-founder/) (récit détaillé du parcours de transformation)
 
 _Cet article adopte une structure à trois niveaux de lecture, pour s'adapter aux besoins de chaque lecteur. Contributions bienvenues pour enrichir les contenus sur le travail missionnaire en Afrique !_

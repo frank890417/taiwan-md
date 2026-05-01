@@ -11,7 +11,10 @@ difficulty: 'beginner'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-21
-translatedFrom: 'People/麟洋配.md'
+translatedFrom: "People/麟洋配.md"
+sourceCommitSha: "ddc476ed"
+sourceContentHash: "sha256:d3037d2c6f885793"
+translatedAt: "2026-04-14T19:19:52+08:00"
 ---
 
 # Wang Chi-lin et Lee Yang — Le duo « Lin Yang »
@@ -111,22 +114,24 @@ Wang Chi-lin, de son côté, poursuit sa carrière et forme un nouveau duo, le �
 
 ### Résultats marquants
 
-| Compétition | Résultat |
-|---|---|
-| JO Tokyo 2021 | Or (def. Li Junhui/Liu Yuchen, Chine) |
-| JO Paris 2024 | Or (titre défendu) |
-| Championnats du monde de badminton | Plusieurs demi-finales |
-| All England Open 2022 | Finaliste |
+| Compétition                        | Résultat                              |
+| ---------------------------------- | ------------------------------------- |
+| JO Tokyo 2021                      | Or (def. Li Junhui/Liu Yuchen, Chine) |
+| JO Paris 2024                      | Or (titre défendu)                    |
+| Championnats du monde de badminton | Plusieurs demi-finales                |
+| All England Open 2022              | Finaliste                             |
 
 ### Profils individuels
 
 **Wang Chi-lin**
+
 - Naissance : 18 janvier 1995, Taipei
 - Taille : 185 cm
 - Formation : Master en éducation sportive, Université nationale des sports de Taipei (programme en emploi)
 - Club : équipe de badminton de la Land Bank
 
 **Lee Yang**
+
 - Naissance : 13 mai 1995, Taipei (domicilié à Jinning, Kinmen)
 - Famille : père Lee Chun-yu, ancien international ; sœur Lee Chih-chen, joueuse de badminton
 - Formation : Université de commerce de Taipei, département de gestion

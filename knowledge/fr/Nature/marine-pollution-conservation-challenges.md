@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
-translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
+translatedFrom: "Nature/台灣海洋污染治理與保育挑戰.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:7b5e9520f2ce542e"
+translatedAt: "2026-04-14T19:22:44+08:00"
 ---
 
 # Pollution marine à Taïwan : gouvernance et défis de conservation
@@ -39,14 +42,14 @@ Selon les enquêtes menées par l'Agence de conservation marine de la Commission
 
 **Principaux types de déchets recensés** (d'après les données de nettoyage de plages de la Wild Bird Society of Taiwan, 2016-2023) :
 
-| Rang | Type de déchet | Quantité annuelle moyenne | Part |
-|------|----------------|--------------------------|------|
-| 1 | Bouteilles PET | 37 657 unités | 18,2 % |
-| 2 | Bouchons plastique | 29 844 unités | 14,4 % |
-| 3 | Pailles | 22 660 unités | 10,9 % |
-| 4 | Sacs plastique | 21 358 unités | 10,3 % |
-| 5 | Gobelets à emporter | 17 694 unités | 8,5 % |
-| 6 | Couverts jetables | 17 392 unités | 8,4 % |
+| Rang | Type de déchet      | Quantité annuelle moyenne | Part   |
+| ---- | ------------------- | ------------------------- | ------ |
+| 1    | Bouteilles PET      | 37 657 unités             | 18,2 % |
+| 2    | Bouchons plastique  | 29 844 unités             | 14,4 % |
+| 3    | Pailles             | 22 660 unités             | 10,9 % |
+| 4    | Sacs plastique      | 21 358 unités             | 10,3 % |
+| 5    | Gobelets à emporter | 17 694 unités             | 8,5 %  |
+| 6    | Couverts jetables   | 17 392 unités             | 8,4 %  |
 
 **Zones de pollution prioritaires** :
 
@@ -731,15 +734,15 @@ La préservation des océans n'est pas seulement une question environnementale :
 
 ## Sources
 
-1. Agence de conservation marine, Commission océanique (2024). *Livre blanc sur la conservation marine de Taïwan*. [En ligne](https://www.oca.gov.tw/)
+1. Agence de conservation marine, Commission océanique (2024). _Livre blanc sur la conservation marine de Taïwan_. [En ligne](https://www.oca.gov.tw/)
 2. Bureau taïwanais de Greenpeace (2025). "La Loi sur la conservation marine adoptée en troisième lecture, un filet de protection pour les océans de Taïwan !" [En ligne](https://www.greenpeace.org/taiwan/update/35872/)
 3. Bureau taïwanais de Greenpeace (2022). "La Loi sur la conservation marine ne peut plus attendre ! Greenpeace se joint à de nombreuses organisations et experts pour défendre nos océans." [En ligne](https://www.greenpeace.org/taiwan/update/30154/)
 4. Yuan exécutif (2024). "Politique prioritaire : la Loi sur la conservation marine." [En ligne](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9)
 5. Réseau de conservation marine (2024). "Statistiques sur les déchets marins." [En ligne](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx)
 6. National Geographic Taïwan (2020). "Une enquête d'un an sur les déchets marins révèle la vérité sur la pollution du littoral taïwanais !" [En ligne](https://www.natgeomedia.com/environment/article/content-8745.html)
-7. Bureau taïwanais de Greenpeace (2020). *Rapport « Que cache la mer ? — Bilan général des déchets sur les côtes de Taïwan »*. [En ligne](https://www.greenpeace.org/taiwan/update/15198/)
+7. Bureau taïwanais de Greenpeace (2020). _Rapport « Que cache la mer ? — Bilan général des déchets sur les côtes de Taïwan »_. [En ligne](https://www.greenpeace.org/taiwan/update/15198/)
 8. Indigo Waters Environmental Consultancy (2023). "10 choses à savoir sur les déchets marins." [En ligne](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh)
 9. Ocean World (2024). "Comprendre les déchets marins." [En ligne](https://www.oceanworld.com.tw/load_page/get_education_page/4)
-10. Wild Bird Society of Taiwan (2023). *Rapport annuel sur les déchets côtiers de Taïwan*.
-11. Association Liuqiu (2024). *Rapport sur les résultats de la protection des tortues de mer à Xiao Liuqiu*.
-12. Centre de recherche sur la biodiversité, Academia Sinica (2023). *Rapport d'enquête sur les microplastiques dans les eaux marines de Taïwan*.
+10. Wild Bird Society of Taiwan (2023). _Rapport annuel sur les déchets côtiers de Taïwan_.
+11. Association Liuqiu (2024). _Rapport sur les résultats de la protection des tortues de mer à Xiao Liuqiu_.
+12. Centre de recherche sur la biodiversité, Academia Sinica (2023). _Rapport d'enquête sur les microplastiques dans les eaux marines de Taïwan_.

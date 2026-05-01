@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/莊智淵.md'
+translatedFrom: "People/莊智淵.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:64d1439fdfb0a46b"
+translatedAt: "2026-04-14T19:16:43+08:00"
 ---
 
 # Chuang Chih-Yuan : Le parrain du tennis de table

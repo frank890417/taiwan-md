@@ -19,6 +19,9 @@ category: Nature
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Nature/台灣海洋生態.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:34ef5e8d367bee9d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Marine Ecology

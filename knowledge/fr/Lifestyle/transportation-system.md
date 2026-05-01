@@ -1,5 +1,5 @@
 ---
-title: "Le système de transports à Taïwan : comment une île se comprime en 90 minutes"
+title: 'Le système de transports à Taïwan : comment une île se comprime en 90 minutes'
 description: "En 1946, Taïwan passa du jour au lendemain de la conduite à gauche à la conduite à droite. Soixante ans plus tard, le TGV taïwanais avalait 394 kilomètres en 90 minutes. Dix ans après, quatorze millions de scooters envahissaient chaque carrefour. L'histoire des transports de cette île est, au fond, l'histoire de son identité."
 date: 2026-04-06
 tags: ['transports', 'TGV', 'métro', 'scooter', 'YouBike', 'Gogoro', 'EasyCard']
@@ -11,6 +11,9 @@ lastVerified: 2026-04-06
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
 category: 'Lifestyle'
+sourceCommitSha: 'c7109a1a'
+sourceContentHash: 'sha256:f955209c0b809e4b'
+translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 
 # Le système de transports à Taïwan : comment une île se comprime en 90 minutes

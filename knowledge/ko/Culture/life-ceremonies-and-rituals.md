@@ -11,6 +11,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:ba6b3f7666918555'
+translatedAt: '2026-04-14T07:35:59+08:00'
 ---
 
 # 대만의 관혼상제와 인생 의례

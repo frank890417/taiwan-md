@@ -8,10 +8,13 @@ category: 'Food'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: 'Food/台灣鹽酥雞.md'
+translatedFrom: "Food/台灣鹽酥雞.md"
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:22bd81d6708d2643"
+translatedAt: "2026-04-15T17:35:53+08:00"
 ---
 
-> **En 30 secondes :** Le salt-and-pepper chicken (鹽酥雞, *yán sū jī*) est la référence absolue de la friture populaire à Taïwan. En 1975, Chen Ting-zhi installe son premier étal à Ximending, Taipei : des morceaux de poulet marinés selon une recette de famille, frits jusqu'au croustillant parfait, puis saupoudrés de sel au poivre et de basilic thaï[^1]. Cinquante ans plus tard, les étals fleurissent à chaque coin de rue, dans chaque marché nocturne et chaque quartier résidentiel. CNN l'a deux fois sélectionné parmi les « aliments indispensables de Taïwan »[^2]. Mais ce qui rend ce plat vraiment unique, ce n'est pas son goût — c'est son rôle d'infrastructure nocturne : pas de boutique, pas d'enseigne, une charrette, une cuve d'huile, une poignée de basilic, et c'est parti.
+> **En 30 secondes :** Le salt-and-pepper chicken (鹽酥雞, _yán sū jī_) est la référence absolue de la friture populaire à Taïwan. En 1975, Chen Ting-zhi installe son premier étal à Ximending, Taipei : des morceaux de poulet marinés selon une recette de famille, frits jusqu'au croustillant parfait, puis saupoudrés de sel au poivre et de basilic thaï[^1]. Cinquante ans plus tard, les étals fleurissent à chaque coin de rue, dans chaque marché nocturne et chaque quartier résidentiel. CNN l'a deux fois sélectionné parmi les « aliments indispensables de Taïwan »[^2]. Mais ce qui rend ce plat vraiment unique, ce n'est pas son goût — c'est son rôle d'infrastructure nocturne : pas de boutique, pas d'enseigne, une charrette, une cuve d'huile, une poignée de basilic, et c'est parti.
 
 En 1975, Chen Ting-zhi pousse sa charrette dans les rues de Ximending, à Taipei.
 
@@ -23,7 +26,7 @@ Chen finira par fonder la marque « Taiwan's First Salt-and-Pepper Chicken » et
 
 ## « Sel » ou « salé » ? Un débat sans fin
 
-Les Taïwanais se chamaillent depuis des décennies : doit-on écrire 鹽酥雞 (avec le caractère du *sel*) ou 鹹酥雞 (avec le caractère *salé*) ?
+Les Taïwanais se chamaillent depuis des décennies : doit-on écrire 鹽酥雞 (avec le caractère du _sel_) ou 鹹酥雞 (avec le caractère _salé_) ?
 
 Le nord de l'île penche pour 鹽酥雞, quand le centre et le sud préfèrent souvent 鹹酥雞. Certains érudits font remarquer que les deux boutiques fondatrices — celle de Ximending et celle de Tainan — utilisent toutes les deux le caractère 鹽 (sel), et que la variante 鹹 (salé) serait une évolution populaire apparue après coup[^5].
 
@@ -61,7 +64,7 @@ Mais la relation des Taïwanais avec ce plat n'a jamais reposé sur des considé
 
 En 1992, KFC lance ses « Popcorn Chicken » — de petits morceaux de poulet frit en bouchée[^6]. La réaction de nombreux Taïwanais fut immédiate : « Mais c'est exactement du salt-and-pepper chicken ! »
 
-CNN a intégré ce plat à deux reprises dans ses classements taïwanais — « 40 aliments indispensables à Taïwan » et « Les meilleurs plats de Taïwan » en 2015 — le qualifiant de « dangereusement addictif » (*dangerously addictive*)[^2]. En 2024, le BBC, dans son guide gastronomico-politique de Taïwan, liste le *crispy-fried Taiwanese popcorn chicken* parmi les incontournables des marchés nocturnes[^9]. Dans les communautés taïwanaises à l'étranger, les étals de 鹹酥雞 évoluent du snack de quartier chinois vers la marque indépendante — les quatre caractères eux-mêmes sont devenus un argument de vente.
+CNN a intégré ce plat à deux reprises dans ses classements taïwanais — « 40 aliments indispensables à Taïwan » et « Les meilleurs plats de Taïwan » en 2015 — le qualifiant de « dangereusement addictif » (_dangerously addictive_)[^2]. En 2024, le BBC, dans son guide gastronomico-politique de Taïwan, liste le _crispy-fried Taiwanese popcorn chicken_ parmi les incontournables des marchés nocturnes[^9]. Dans les communautés taïwanaises à l'étranger, les étals de 鹹酥雞 évoluent du snack de quartier chinois vers la marque indépendante — les quatre caractères eux-mêmes sont devenus un argument de vente.
 
 Une chronique recettes du The News Lens International fournit un autre indice révélateur : le terme anglais « popcorn chicken » est désormais un nom de catégorie universel, mais la plupart des gens ignorent que son modèle original vient de Taïwan[^10].
 

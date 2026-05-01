@@ -7,6 +7,9 @@ subcategory: '예술과 디자인'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/許芳宜.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:dc32b7371f317ffc'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 쉬팡이 (許芳宜): 몸으로 말하는 타이완의 빛

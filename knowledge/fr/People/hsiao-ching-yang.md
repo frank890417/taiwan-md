@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/蕭青陽.md'
+translatedFrom: "People/蕭青陽.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:c5122b24e37ed6e1"
+translatedAt: "2026-04-14T19:18:50+08:00"
 ---
 
 # Hsiao Ching-yang : Le design taïwanais sur la scène mondiale
@@ -30,13 +33,13 @@ Au début des années 1990, l'industrie musicale populaire de Taïwan connaît u
 
 ## La première nomination aux Grammy Awards
 
-En 2007, Hsiao Ching-yang est nommé aux 49e Grammy Awards pour la meilleure conception d'emballage d'album, avec l'album *非常擊樂* du Ju Percussion Group. Il devient ainsi le premier designer taïwanais à recevoir cet honneur. Cette création puise dans l'architecture traditionnelle taïwanaise qu'elle marie au langage visuel moderne — une interprétation accomplie de la fusion entre musiques orientale et occidentale.
+En 2007, Hsiao Ching-yang est nommé aux 49e Grammy Awards pour la meilleure conception d'emballage d'album, avec l'album _非常擊樂_ du Ju Percussion Group. Il devient ainsi le premier designer taïwanais à recevoir cet honneur. Cette création puise dans l'architecture traditionnelle taïwanaise qu'elle marie au langage visuel moderne — une interprétation accomplie de la fusion entre musiques orientale et occidentale.
 
 Cette nomination n'est pas seulement une consécration personnelle : elle signifie que le savoir-faire design de Taïwan est reconnu sur la scène internationale. En intégrant des éléments culturels tels que les temples taïwanais et l'artisanat traditionnel, il révèle au monde de la musique le charme singulier de la culture de Taïwan.
 
 ## Quatre nominations, une reconnaissance internationale
 
-Par la suite, Hsiao Ching-yang est nommé à trois autres reprises aux Grammy Awards : en 2010 pour *十殿* du groupe Chthonic, en 2014 pour *聽見台灣* du Taipei Chamber Singers, et en 2018 pour *薪火相傳* du trio de Tung Yun-chang. Chacune de ces nominations témoigne de sa capacité à concevoir pour des genres musicaux très variés.
+Par la suite, Hsiao Ching-yang est nommé à trois autres reprises aux Grammy Awards : en 2010 pour _十殿_ du groupe Chthonic, en 2014 pour _聽見台灣_ du Taipei Chamber Singers, et en 2018 pour _薪火相傳_ du trio de Tung Yun-chang. Chacune de ces nominations témoigne de sa capacité à concevoir pour des genres musicaux très variés.
 
 Ces œuvres ont en commun d'être profondément enracinées dans la culture taïwanaise tout en s'inscrivant dans une perspective internationale. Il excelle à mobiliser des éléments visuels propres à Taïwan — sculptures de temples, totems folkloriques, paysages naturels — pour les convertir en un langage graphique contemporain, produisant des créations qui allient identité locale et rayonnement mondial.
 

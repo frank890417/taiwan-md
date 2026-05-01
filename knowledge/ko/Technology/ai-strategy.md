@@ -10,6 +10,9 @@ readingTime: 12
 featured: true
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
 lastVerified: 2026-04-04
+sourceCommitSha: 'a97494be'
+sourceContentHash: 'sha256:6443d0ccddb2bc55'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 # 대만의 인공지능 발전과 미래 전략

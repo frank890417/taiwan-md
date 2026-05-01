@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/陳樹菊.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:323b34d523a17107'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 > 📝 **30초 요약:** 천수쥐(陳樹菊), 1950년 출생, 타이둥 중앙시장의 채소 장수. 열세 살에 어머니의 난산으로 인한 죽음을 목격한 후 학교를 그만두고 채소를 팔기 시작했다. 이후 오십 년 넘는 세월 동안 학교, 고아원, 병원에 수천만 원을 기부했다. 2010년 《타임》지 세계 100대 영향력 있는 인물에 선정됐고, 영화감독 이안(李安)이 직접 추천사를 썼다. 뉴욕 시상식에서 그녀가 한 말: "저는 그냥 채소 장수예요."[^1]

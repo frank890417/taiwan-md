@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b49821a42d715241'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 # 대만 전기차 산업 생태계 발전

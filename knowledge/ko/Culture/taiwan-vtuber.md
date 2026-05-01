@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Culture/台灣VTuber.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a734956b42d0e857'
+translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 
 > **30초 요약:** 2017년, Yahoo TV가 대만 최초의 VTuber '후니(虎妮)'를 선보이며 버추얼 스트리머의 시대를 열었다. 기업 주도의 실험에서 시작해 대만어 VTuber의 향토 문화 전파에 이르기까지, 대만 VTuber 씬은 7년 만에 단일 캐릭터에서 매니지먼트사·기술 공급업체·타 분야 협업까지 아우르는 완전한 산업 생태계로 성장했다.

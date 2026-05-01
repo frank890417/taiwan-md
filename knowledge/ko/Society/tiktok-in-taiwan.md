@@ -21,6 +21,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 translatedFrom: 'Society/TikTok.md'
 lastVerified: 2026-04-12
+sourceCommitSha: '92f224cf'
+sourceContentHash: 'sha256:5107a48f2b5cfa08'
+translatedAt: '2026-04-14T06:21:59+08:00'
 ---
 
 > **30초 요약:** TikTok은 단순히 사람들을 스타로 만드는 숏폼 플랫폼이 아니다. 대만에서 그것은 "탈중심화된" 인지 실험의 장이다. 극도로 개인화된 알고리즘 추천을 통해, 사용자는 자신도 모르는 사이 타인의 정치적 의제를 자신의 세계관으로 내면화한다. 2025년 조사에 따르면 대만 15~18세 청소년 중 70% 이상이 매일 TikTok에 2시간 이상을 소비하며, 중국에 대한 호감도는 스크롤을 내릴수록 조용히 높아지고, 동시에 대만 사회에 대한 부정적 인식도 깊어지고 있다.

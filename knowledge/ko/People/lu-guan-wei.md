@@ -18,6 +18,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 7
 translatedFrom: 'People/呂冠緯.md'
+sourceCommitSha: '84ed9453'
+sourceContentHash: 'sha256:743ecf11453dec54'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 # 뤼관웨이 — 모든 아이가 자신의 속도로 배울 수 있도록

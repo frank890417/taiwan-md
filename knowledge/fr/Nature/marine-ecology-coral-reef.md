@@ -19,6 +19,9 @@ category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:4e90c463d345a441'
+translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 
 # Écologie marine et préservation des récifs coralliens à Taïwan
@@ -103,7 +106,7 @@ La loi sur la préservation du patrimoine culturel classe certains récifs coral
 
 Trente-deux espèces de cétacés ont été recensées dans les eaux taïwanaises, soit 37 % des espèces mondiales. On y rencontre notamment l'orque, le cachalot, le globicéphale, le dauphin à long bec, le grand dauphin et le dauphin à bosse indo-pacifique. Les grandes espèces préfèrent la côte orientale, proche des grands fonds ; les espèces plus petites sont davantage présentes à l'ouest.
 
-Le dauphin à bosse de Taïwan (sous-espèce taïwanaise du dauphin à bosse indo-pacifique, *Sousa chinensis taiwanensis*) est endémique à Taïwan et figure parmi les mammifères marins les plus menacés au monde. Il ne subsiste qu'une cinquantaine d'individus, répartis le long du littoral occidental entre Miaoli et Tainan. Destruction de l'habitat, captures accidentelles dans les filets de pêche et pollution ont conduit l'Union internationale pour la conservation de la nature à le classer en danger critique d'extinction.
+Le dauphin à bosse de Taïwan (sous-espèce taïwanaise du dauphin à bosse indo-pacifique, _Sousa chinensis taiwanensis_) est endémique à Taïwan et figure parmi les mammifères marins les plus menacés au monde. Il ne subsiste qu'une cinquantaine d'individus, répartis le long du littoral occidental entre Miaoli et Tainan. Destruction de l'habitat, captures accidentelles dans les filets de pêche et pollution ont conduit l'Union internationale pour la conservation de la nature à le classer en danger critique d'extinction.
 
 ### Les pressions subies par les cétacés
 
@@ -197,5 +200,5 @@ La route de la conservation marine à Taïwan reste semée d'embûches, mais ell
 - [Parc national des quatre îles méridionales des Penghu](https://south.cpami.gov.tw/) — écologie marine et protection des sternes
 - [Taiwan Environmental Information Association](https://e-info.org.tw/) — actualités et enjeux environnementaux marins
 - [Association pour les récifs coralliens de la République de Chine](http://www.coral.org.tw/) — conservation et techniques de restauration corallienne
-- *Guide des cétacés des eaux de Taïwan*, Chou Lien-siang et al., Owl Publishing, 2018
-- *Atlas des récifs coralliens de Taïwan*, Dai Chang-feng, Morning Star Publishing, 2016
+- _Guide des cétacés des eaux de Taïwan_, Chou Lien-siang et al., Owl Publishing, 2018
+- _Atlas des récifs coralliens de Taïwan_, Dai Chang-feng, Morning Star Publishing, 2016

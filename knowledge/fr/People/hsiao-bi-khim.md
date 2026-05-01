@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-04-11
-translatedFrom: 'People/蕭美琴.md'
+translatedFrom: "People/蕭美琴.md"
+sourceCommitSha: "202e182d"
+sourceContentHash: "sha256:911564a213299ba1"
+translatedAt: "2026-04-14T19:17:00+08:00"
 ---
 
 # Hsiao Bi-khim

@@ -17,6 +17,9 @@ readingTime: 5
 category: 'People'
 lastVerified: 2026-03-20
 translatedFrom: 'People/黃國珍.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:7d3b709915399ea3'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Huang Kuo-chen: Teaching Taiwan's Children to "Understand" Not Just "Finish Reading"

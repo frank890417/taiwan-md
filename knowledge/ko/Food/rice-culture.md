@@ -11,6 +11,9 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Food/台灣米食文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0e38833f3cafaf68'
+translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 
 # 타이완 쌀 음식 문화

@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Food/台灣麵包與烘焙.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b2065fed8f03e46b'
+translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 
 # 타이완 빵과 제과

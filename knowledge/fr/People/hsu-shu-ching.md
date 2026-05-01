@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/許淑淨.md'
+translatedFrom: "People/許淑淨.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:3b7fb89b51840200"
+translatedAt: "2026-04-14T19:18:50+08:00"
 ---
 
 # Hsu Shu-ching : la déesse de l'haltérophilie

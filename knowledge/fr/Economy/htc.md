@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：宏達電.md'
+translatedFrom: "Economy/台灣企業：宏達電.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:e3a135605ed275be"
+translatedAt: "2026-04-14T19:20:40+08:00"
 ---
 
 > **En 30 secondes**

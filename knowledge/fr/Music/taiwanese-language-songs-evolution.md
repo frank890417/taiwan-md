@@ -21,13 +21,16 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣台語歌曲演進.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0445ff98900d4846'
+translatedAt: '2026-04-15T17:36:15+08:00'
 ---
 
 # L'évolution des chansons en taïwanais : du répertoire des anciens à la nouvelle scène indie
 
 ## En 30 secondes
 
-La chanson taïwanaise (communément appelée *taigi*) a traversé plusieurs âges : la culture Nakashi de l'après-guerre, l'époque dorée des grands interprètes Hung Yi-feng et Wen Hsia, le règne incontesté de Chiang Hui, puis l'irruption de groupes comme Egg Noodles, Sorry Youth et Clé qui en ont réinventé le langage. Longtemps réduite au cliché de la « musique de vieux », la chanson taïwanaise s'est mue en emblème de la scène indie et des nouvelles générations. La création d'une catégorie dédiée aux albums taïwanais aux Golden Melody Awards a joué un rôle institutionnel décisif dans cette renaissance.
+La chanson taïwanaise (communément appelée _taigi_) a traversé plusieurs âges : la culture Nakashi de l'après-guerre, l'époque dorée des grands interprètes Hung Yi-feng et Wen Hsia, le règne incontesté de Chiang Hui, puis l'irruption de groupes comme Egg Noodles, Sorry Youth et Clé qui en ont réinventé le langage. Longtemps réduite au cliché de la « musique de vieux », la chanson taïwanaise s'est mue en emblème de la scène indie et des nouvelles générations. La création d'une catégorie dédiée aux albums taïwanais aux Golden Melody Awards a joué un rôle institutionnel décisif dans cette renaissance.
 
 **Mots-clés :** musique populaire taïwanaise, transmission intergénérationnelle, innovation musicale, identité culturelle, revitalisation de la langue maternelle
 
@@ -53,13 +56,13 @@ Cette culture ambulante a également façonné un style vocal propre à la chans
 
 ### Hung Yi-feng : l'ascension du roi de la chanson taïwanaise
 
-Hung Yi-feng, consacré « Roi de la chanson taïwanaise », représente le moment où ce répertoire quitte les rues pour intégrer l'industrie musicale structurée. Publié en 1957, *Sī-bō͘ ê lâng* (*La personne qui me manque*) est entré dans la légende : sa mélodie raffinée et ses paroles d'une sensibilité rare ont révélé toute la hauteur artistique possible dans cette langue.
+Hung Yi-feng, consacré « Roi de la chanson taïwanaise », représente le moment où ce répertoire quitte les rues pour intégrer l'industrie musicale structurée. Publié en 1957, _Sī-bō͘ ê lâng_ (_La personne qui me manque_) est entré dans la légende : sa mélodie raffinée et ses paroles d'une sensibilité rare ont révélé toute la hauteur artistique possible dans cette langue.
 
 La réussite de Hung Yi-feng tient autant à sa maîtrise vocale qu'à sa capacité à capter les émotions collectives des Taïwanais. Ses chansons dépeignent les joies et les peines des gens ordinaires, exprimant les sentiments les plus profonds avec les mots les plus simples, créant une résonance immédiate et universelle.
 
 ### Wen Hsia : le pionnier de la chanson-composition
 
-Wen Hsia est un autre pilier de cet âge d'or. À la fois interprète hors pair et compositeur prolifique, il a laissé des œuvres qui n'ont jamais cessé d'être chantées, comme *Amah, please take care of yourself* et *Mon village au coucher du soleil*, désormais classiques intemporels.
+Wen Hsia est un autre pilier de cet âge d'or. À la fois interprète hors pair et compositeur prolifique, il a laissé des œuvres qui n'ont jamais cessé d'être chantées, comme _Amah, please take care of yourself_ et _Mon village au coucher du soleil_, désormais classiques intemporels.
 
 Son style fond la mélodie traditionnelle taïwanaise et la pop moderne dans un alliage qui préserve l'ancrage local tout en parlant à son époque. Il a démontré que la chanson taïwanaise pouvait atteindre les mêmes sommets artistiques que n'importe quel autre genre, ouvrant la voie à toutes les générations suivantes.
 
@@ -77,7 +80,7 @@ Cette période voit la chanson taïwanaise s'intégrer à un véritable circuit 
 
 Pourtant, la chanson taïwanaise ne disparaît pas. Mariages, funérailles, fêtes de temple, réunions privées : elle reste partout présente dans la vie populaire. Cette pratique « clandestine » entretient la chaîne de transmission et prépare le terrain du renouveau.
 
-Nombre de chanteurs taïwanais se replient alors vers les *dianzi huache* (scènes sur camion électrique) et d'autres formes de spectacle informel. Mal considérés socialement, ces artistes maintiennent néanmoins la flamme d'une tradition de scène vivante, conservant un art de l'improvisation et du contact direct avec le public qui restera précieux.
+Nombre de chanteurs taïwanais se replient alors vers les _dianzi huache_ (scènes sur camion électrique) et d'autres formes de spectacle informel. Mal considérés socialement, ces artistes maintiennent néanmoins la flamme d'une tradition de scène vivante, conservant un art de l'improvisation et du contact direct avec le public qui restera précieux.
 
 ## L'ère Chiang Hui : le règne de la reine de la chanson taïwanaise (1980–2015)
 
@@ -97,7 +100,7 @@ Ses concerts affichent systématiquement complet, confirmant le poids de la chan
 
 ### Egg Noodles : le taïwanais à l'épreuve du rock
 
-L'irruption d'Egg Noodles marque une rupture. Le groupe associe les textures rock à des paroles en taïwanais pour créer un son entièrement original. *Le fils prodigue* est devenu viral sur Internet, faisant redécouvrir à tout une génération de jeunes le potentiel de leur langue musicale.
+L'irruption d'Egg Noodles marque une rupture. Le groupe associe les textures rock à des paroles en taïwanais pour créer un son entièrement original. _Le fils prodigue_ est devenu viral sur Internet, faisant redécouvrir à tout une génération de jeunes le potentiel de leur langue musicale.
 
 La clé de leur réussite : parler aux jeunes dans leur langage musical, effaçant la barrière linguistique. Leurs textes, ancrés dans le quotidien, et leurs arrangements riches donnent à la chanson taïwanaise une modernité inédite.
 
@@ -153,12 +156,12 @@ La nouvelle génération doit naviguer entre innovation et préservation. Une mo
 
 Avec le soft power croissant de Taïwan et l'intérêt mondial pour les cultures minoritaires, la chanson taïwanaise dispose désormais d'un potentiel international réel. Certaines œuvres commencent à toucher les communautés taïwanaises de la diaspora ; l'avenir pourrait voir ce répertoire s'affirmer sur la scène mondiale.
 
-> 📝 **Note de traduction** : Le terme « taïwanais » (*taigi* ou *tâi-gí*) désigne la langue sino-tibétaine d'origine hokkien parlée par la majorité de la population de Taïwan depuis plusieurs siècles. Il est distinct du mandarin (langue officielle) et des langues des peuples autochtones de Taïwan.
+> 📝 **Note de traduction** : Le terme « taïwanais » (_taigi_ ou _tâi-gí_) désigne la langue sino-tibétaine d'origine hokkien parlée par la majorité de la population de Taïwan depuis plusieurs siècles. Il est distinct du mandarin (langue officielle) et des langues des peuples autochtones de Taïwan.
 
 ## Références
 
-- Chien Shang-jen : *Légendes de la chanson taïwanaise*, Taipei : Nongxue She
-- Chuang Yung-ming : *La chanson taïwanaise, âme d'un terroir*, Taipei : China Times Publishing
+- Chien Shang-jen : _Légendes de la chanson taïwanaise_, Taipei : Nongxue She
+- Chuang Yung-ming : _La chanson taïwanaise, âme d'un terroir_, Taipei : China Times Publishing
 - Palmarès et archives du jury, catégorie album taïwanais, Golden Melody Awards : https://gma.tavis.tw/
 - Base de données de l'Association culturelle musicale Hung Yi-feng
 - Archives des concerts et revue de presse de Chiang Hui
@@ -166,6 +169,6 @@ Avec le soft power croissant de Taïwan et l'intérêt mondial pour les cultures
 - Sorry Youth : https://sorryyouth.bandcamp.com/
 - Données des plateformes musicales officielles de Clé
 - Actes de recherche de la Société d'études sur la culture musicale taïwanaise
-- *Histoire du développement de la chanson taïwanaise*, publié par le Musée national de littérature taïwanaise
+- _Histoire du développement de la chanson taïwanaise_, publié par le Musée national de littérature taïwanaise
 - Base de données des programmes musicaux taïwanais de Hakka TV
 - Études spécialisées sur la musique taïwanaise, Association chinoise des échanges entre musiciens

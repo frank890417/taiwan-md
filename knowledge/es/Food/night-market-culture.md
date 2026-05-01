@@ -4,6 +4,9 @@ date: 2026-03-17
 tags: [comida, mercado nocturno, comida callejera, cultura, turismo]
 description: 'La cultura del mercado nocturno es uno de los símbolos culturales más distintivos de Taiwán. No solo preserva la esencia de'
 translatedFrom: 'Food/夜市文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cad0161e7864d0ae'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Cultura del Mercado Nocturno de Taiwán

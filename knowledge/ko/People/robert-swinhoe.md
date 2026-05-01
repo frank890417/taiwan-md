@@ -16,6 +16,9 @@ subcategory: '역사 인물'
 author: 'Taiwan.md Translation Team'
 readingTime: 14
 translatedFrom: 'People/史溫侯.md'
+sourceCommitSha: 'a1e11b6b'
+sourceContentHash: 'sha256:50b13c3a31e0a1c0'
+translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 
 # 로버트 스윈호: 외교관이 박물학자가 되다

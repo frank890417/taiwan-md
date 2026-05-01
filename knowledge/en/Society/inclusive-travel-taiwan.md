@@ -17,6 +17,9 @@ lastHumanReview: false
 lastVerified: 2026-03-23
 readingTime: 12
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:8a4d3295bf443494'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-second overview:**

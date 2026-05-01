@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Food/台灣冰品文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:281be5a9fbb7d21c'
+translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 
 # 타이완 빙수 디저트 문화

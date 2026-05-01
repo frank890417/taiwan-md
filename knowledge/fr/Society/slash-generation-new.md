@@ -10,7 +10,10 @@ category: 'Society'
 lastVerified: 2026-03-29
 featured: false
 lastHumanReview: false
-translatedFrom: 'Society/台灣斜槓世代.md'
+translatedFrom: "Society/台灣斜槓世代.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:bdd6bcaeb167f0b4"
+translatedAt: "2026-04-15T17:36:38+08:00"
 ---
 
 > Les jeunes Taïwanais de 25 à 35 ans traversent une expérience de survie que personne n'a officiellement déclarée ouverte. Le salaire médian plafonne à 38 000 TWD, tandis qu'un studio à Taipei se loue au minimum 14 000 TWD par mois. Un seul emploi à temps plein ne suffit plus — alors le soir on ouvre une appli de livraison, le week-end on prend des missions en freelance, et la nuit on monte des vidéos. Ce n'est pas une « tendance slash » : c'est une stratégie de survie dictée par une impasse structurelle.
@@ -89,7 +92,7 @@ De nombreux règlements intérieurs d'entreprise ou contrats de travail comporte
 
 L'autre zone grise concerne la fiscalité. Les revenus de freelance, de livraison, de commerce en ligne doivent théoriquement être déclarés à l'impôt sur le revenu. Mais une grande quantité de petites transactions — un projet de design à 3 000 TWD, 15 000 TWD gagnés en livraison sur le mois — passent souvent sous le radar du système déclaratif. Ce n'est pas de l'évasion fiscale délibérée ; c'est simplement que l'architecture du système n'a pas suivi la vitesse de l'économie des petits boulots.
 
-Les lacunes en matière de protection sociale sont encore plus criantes. À Taïwan, le nombre de travailleurs atypiques atteignait 804 000 en 2024, soit 6,95 % de l'emploi total. Ce chiffre, en apparence modeste, ne comptabilise que ceux dont l'emploi *principal* est atypique. Les personnes qui ont un CDI le jour et livrent des repas ou prennent des missions le soir n'apparaissent pas dans ces statistiques. Pas d'assurance accidents du travail, pas de cotisation retraite pour leur activité secondaire. En cas d'accident de scooter pendant une livraison, l'assurance de l'employeur principal ne s'applique pas — ce n'est pas sur le trajet domicile-travail.
+Les lacunes en matière de protection sociale sont encore plus criantes. À Taïwan, le nombre de travailleurs atypiques atteignait 804 000 en 2024, soit 6,95 % de l'emploi total. Ce chiffre, en apparence modeste, ne comptabilise que ceux dont l'emploi _principal_ est atypique. Les personnes qui ont un CDI le jour et livrent des repas ou prennent des missions le soir n'apparaissent pas dans ces statistiques. Pas d'assurance accidents du travail, pas de cotisation retraite pour leur activité secondaire. En cas d'accident de scooter pendant une livraison, l'assurance de l'employeur principal ne s'applique pas — ce n'est pas sur le trajet domicile-travail.
 
 ---
 

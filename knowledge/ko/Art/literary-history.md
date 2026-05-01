@@ -20,6 +20,9 @@ readingTime: 13
 featured: true
 translatedFrom: 'Art/台灣文學史.md'
 lastVerified: 2026-03-24
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7fdaaa3e5c949ce3'
+translatedAt: '2026-04-14T09:31:15+08:00'
 ---
 
 # 대만 문학사

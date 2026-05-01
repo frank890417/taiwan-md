@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/魏哲家.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:75d5c36465e7b059'
+translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 
 # 웨이저자: 3나노 시대를 이끄는 반도체 공정의 거장

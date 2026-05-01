@@ -1,8 +1,14 @@
 ---
-title: 'Le Héron de nuit malaisan : l''art de survivre en ville en faisant le mort'
-description: 'Découvrez comment ce grand oiseau, surnommé « le grand nigaud » par les Taïwanais, a quitté les forêts profondes pour s''installer dans les parcs et les campus universitaires — et pourquoi ce n''est pas si bête que ça.'
+title: "Le Héron de nuit malaisan : l'art de survivre en ville en faisant le mort"
+description: "Découvrez comment ce grand oiseau, surnommé « le grand nigaud » par les Taïwanais, a quitté les forêts profondes pour s'installer dans les parcs et les campus universitaires — et pourquoi ce n'est pas si bête que ça."
 date: 2026-03-24
-tags: ['écologie de Taïwan', 'oiseaux urbains', 'héron de nuit malaisan', 'faune urbaine']
+tags:
+  [
+    'écologie de Taïwan',
+    'oiseaux urbains',
+    'héron de nuit malaisan',
+    'faune urbaine',
+  ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ readingTime: 5
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Nature/黑冠麻鷺.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:105878c02485b2e2'
+translatedAt: '2026-04-14T19:23:22+08:00'
 ---
 
 # Le Héron de nuit malaisan : l'art de survivre en ville en faisant le mort

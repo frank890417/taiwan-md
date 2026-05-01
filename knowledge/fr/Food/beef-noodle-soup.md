@@ -2,7 +2,15 @@
 title: 'La soupe de nouilles au bœuf — âme de la cuisine taïwanaise'
 description: "Des migrants continentaux nostalgiques à l'icône culinaire nationale, la soupe de nouilles au bœuf incarne la rencontre des cultures et rayonne désormais sur la scène gastronomique mondiale"
 date: 2026-03-17
-tags: [gastronomie, soupe de nouilles au bœuf, cuisine continentale, fusion culturelle, Taipei Beef Noodle Festival, Michelin]
+tags:
+  [
+    gastronomie,
+    soupe de nouilles au bœuf,
+    cuisine continentale,
+    fusion culturelle,
+    Taipei Beef Noodle Festival,
+    Michelin,
+  ]
 subcategory: 'Classiques de rue'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -13,6 +21,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Taiwanese_Beef
 imageAlt: 'Soupe de nouilles au bœuf taïwanaise'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/牛肉麵.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9ff225473fbb73d5'
+translatedAt: '2026-04-14T12:29:04+08:00'
 ---
 
 # La soupe de nouilles au bœuf
@@ -35,7 +46,7 @@ La soupe de nouilles au bœuf est née d'un métissage progressif, presque natur
 Dans l'armée, le bœuf constituait une source de protéines essentielle. Les soldats démobilisés ont emporté avec eux les techniques de braisage apprises en caserne, et ont commencé à cuisiner du bœuf pour leur propre compte, dans les ruelles des villages de garnison.
 
 **La mémoire collective des villages de garnison :**
-Ces villages — les *juancun* — réunissaient des familles originaires du Sichuan, du Shandong, du Hunan et d'autres provinces. Confrontées à l'exil et à la séparation, ces communautés ont partagé leurs recettes, leurs épices et leurs tours de main. De cette rencontre est née une version proprement taïwanaise du plat, enrichie de multiples influences régionales.
+Ces villages — les _juancun_ — réunissaient des familles originaires du Sichuan, du Shandong, du Hunan et d'autres provinces. Confrontées à l'exil et à la séparation, ces communautés ont partagé leurs recettes, leurs épices et leurs tours de main. De cette rencontre est née une version proprement taïwanaise du plat, enrichie de multiples influences régionales.
 
 **Les contraintes économiques de l'après-guerre :**
 Les anciens combattants, souvent sans ressources, tenaient des échoppes ambulantes pour subsister. La soupe de nouilles au bœuf avait tout pour plaire : coût de production maîtrisé, bol complet qui fournissait féculents, protéines et légumes en une seule portion nourrissante. Sa popularité a été immédiate.
@@ -60,9 +71,10 @@ Au fil du temps, les recettes se sont ajustées aux préférences des Taïwanais
 
 Après des décennies d'évolution, plusieurs styles distincts se sont imposés.
 
-### Le style braisé à la sauce rouge (*hóngshāo*)
+### Le style braisé à la sauce rouge (_hóngshāo_)
 
 **Caractéristiques :**
+
 - Couleur du bouillon : brun rouge profond, dense et brillant
 - Aromates : sauce soja, pâte de piment fermentée, piment, anis étoilé, cannelle...
 - Profil gustatif : salé, légèrement épicé, bouillon corsé et enveloppant
@@ -71,17 +83,19 @@ Après des décennies d'évolution, plusieurs styles distincts se sont imposés.
 **Technique de préparation :**
 Le bœuf est d'abord saisi et laqué dans un mélange de sauce soja et de pâte de piment doubanjiang, puis mijoté dans un bouillon pendant deux à trois heures pour que les épices pénètrent profondément dans la viande. Le résultat est un bouillon d'un ambre sombre, intense sans être lourd.
 
-### Le style mijoté au bouillon clair (*qīngdùn*)
+### Le style mijoté au bouillon clair (_qīngdùn_)
 
 **Caractéristiques :**
+
 - Couleur du bouillon : limpide, presque translucide
 - Aromates : gingembre, ciboule, alcool de riz — le strict minimum pour sublimer sans masquer
 - Profil gustatif : délicat, légèrement sucré en fin de bouche, centré sur la pureté du bœuf
 - Zone de référence : les restaurants halal tenus par la communauté musulmane de Taïwan
 
-### Le style tomate (*fānqié*)
+### Le style tomate (_fānqié_)
 
 **Caractéristiques :**
+
 - Couleur du bouillon : rouge vif, acidulé et parfumé
 - Aromates : tomates fraîches, oignons, carottes
 - Profil gustatif : acidulé et appétissant, avec une belle complexité en bouche
@@ -104,7 +118,7 @@ Quelle que soit la pièce choisie, elle est d'abord blanchie pour éliminer les 
 
 ### Naissance du festival
 
-En 2005, la municipalité de Taipei a créé le « Festival international de la soupe de nouilles au bœuf de Taipei » (*Taipei International Beef Noodle Festival*), avec pour ambition de faire rayonner ce patrimoine culinaire sur la scène internationale. Chaque année, les meilleures enseignes se disputent les médailles d'or, d'argent et de bronze dans plusieurs catégories.
+En 2005, la municipalité de Taipei a créé le « Festival international de la soupe de nouilles au bœuf de Taipei » (_Taipei International Beef Noodle Festival_), avec pour ambition de faire rayonner ce patrimoine culinaire sur la scène internationale. Chaque année, les meilleures enseignes se disputent les médailles d'or, d'argent et de bronze dans plusieurs catégories.
 
 ### Reconnaissance internationale
 
@@ -116,12 +130,12 @@ Le plat est devenu un vecteur de soft power pour Taïwan : le Conseil des affair
 
 ## Géographie du goût : régions et adresses mythiques
 
-| Région | Spécificité locale | Référence |
-|--------|-------------------|-----------|
-| **Taipei** | Style classique, berceau historique du plat | Rue Taoyuan ; Yong Kang Beef Noodles, rue Yongkang |
-| **Taichung** | Préférence pour les bouillons plus légers et délicats | Duan Chun Zhen Beef Noodles, modèle de réussite en franchise |
-| **Tainan** | Influence de la cuisine du Sud, notes plus douces et plus sucrées | Style府城 (*fǔchéng*), empreinte de l'ancienne capitale |
-| **Kaohsiung** | Berceau du style sichuanais ; anciens combattants à l'origine du style authentique | Quartier de Gangshan |
+| Région        | Spécificité locale                                                                 | Référence                                                    |
+| ------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Taipei**    | Style classique, berceau historique du plat                                        | Rue Taoyuan ; Yong Kang Beef Noodles, rue Yongkang           |
+| **Taichung**  | Préférence pour les bouillons plus légers et délicats                              | Duan Chun Zhen Beef Noodles, modèle de réussite en franchise |
+| **Tainan**    | Influence de la cuisine du Sud, notes plus douces et plus sucrées                  | Style府城 (_fǔchéng_), empreinte de l'ancienne capitale      |
+| **Kaohsiung** | Berceau du style sichuanais ; anciens combattants à l'origine du style authentique | Quartier de Gangshan                                         |
 
 ## Signification culturelle et impact social
 
@@ -142,6 +156,7 @@ Partie d'une cuisine de l'exil et de la nostalgie, la soupe de nouilles au bœuf
 ---
 
 _Références :_
+
 - [Site officiel du Festival international de la soupe de nouilles au bœuf de Taipei](https://tpebeefnoodle.com.tw/)
 - [Guide Michelin Taïwan](https://guide.michelin.com/tw/zh_TW)
 - [Administration du tourisme de Taïwan — Gastronomie](https://www.taiwan.net.tw/)

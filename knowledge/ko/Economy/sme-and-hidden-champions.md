@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
 lastVerified: 2026-03-24
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:51e4bbc49efeda40'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 # 대만 중소기업과 히든 챔피언

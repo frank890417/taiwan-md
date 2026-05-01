@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 20
 featured: true
 translatedFrom: 'People/張忠謀.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:cd227d8ac5698cc4'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 모리스 창 (Morris Chang / 張忠謀)

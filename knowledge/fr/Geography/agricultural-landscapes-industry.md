@@ -10,8 +10,11 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Geography/台灣農業地景與產業分布.md'
+translatedFrom: "Geography/台灣農業地景與產業分布.md"
 category: 'Geography'
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:a43ae2332c3edc7d"
+translatedAt: "2026-04-15T17:33:45+08:00"
 ---
 
 # Paysages agricoles et répartition industrielle à Taïwan
@@ -202,8 +205,8 @@ Bien que modeste en volume, l'agriculture taïwanaise rayonne dans plusieurs dom
 ## Références
 
 - Ministère de l'Agriculture, Bureau des statistiques, [《Annuaire statistique agricole de Taïwan》](https://agrstat.moa.gov.tw/sdweb/public/book/Book.aspx), 2025
-- Ministère de l'Agriculture, *Histoire du développement agricole de Taïwan*, 2023
-- Gouvernement du comté de Changhua, *Rapport sur le développement industriel du grenier de la Zhuoshui*, 2024
-- Gouvernement du comté de Taitung, *Plan de revitalisation de l'agriculture autochtone*, 2025
-- Association du système d'irrigation de Jianan, *Centenaire du Grand Canal de Jianan*, 2020
-- Association pour le développement de l'agriculture biologique de Hualien, *Enquête sur la situation de l'agriculture biologique dans l'est de Taïwan*, 2024
+- Ministère de l'Agriculture, _Histoire du développement agricole de Taïwan_, 2023
+- Gouvernement du comté de Changhua, _Rapport sur le développement industriel du grenier de la Zhuoshui_, 2024
+- Gouvernement du comté de Taitung, _Plan de revitalisation de l'agriculture autochtone_, 2025
+- Association du système d'irrigation de Jianan, _Centenaire du Grand Canal de Jianan_, 2020
+- Association pour le développement de l'agriculture biologique de Hualien, _Enquête sur la situation de l'agriculture biologique dans l'est de Taïwan_, 2024

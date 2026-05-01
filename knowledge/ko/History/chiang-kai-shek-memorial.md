@@ -19,6 +19,9 @@ lastVerified: 2026-04-10
 featured: false
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/中正紀念堂.md'
+sourceCommitSha: '603c911a'
+sourceContentHash: 'sha256:c4755ffdce1f19d7'
+translatedAt: '2026-04-14T04:54:47+08:00'
 ---
 
 # 중정기념당

@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
 lastVerified: 2026-03-25
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0c49eb028b1d20ab'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약**

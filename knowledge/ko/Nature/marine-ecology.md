@@ -19,6 +19,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 translatedFrom: 'Nature/台灣海洋生態.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:34ef5e8d367bee9d'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만의 해양 생태

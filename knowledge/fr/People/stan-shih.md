@@ -9,16 +9,19 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: 'People/施振榮.md'
+translatedFrom: "People/施振榮.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:d36614a40d07f9c0"
+translatedAt: "2026-04-14T19:15:12+08:00"
 ---
 
 > **En 30 secondes :** Stan Shih, fondateur d'Acer, est le seul grand patron taïwanais à avoir publiquement reconnu des pertes cumulées dépassant les cent milliards de dollars taïwanais (TWD). La filiale Deki Semiconductor a à elle seule établi un record national avec cinq milliards de pertes. Pourtant, sa théorie de la « courbe du sourire » reste un cas d'école dans les business schools du monde entier, et elle a profondément influencé la stratégie de Taïwan dans sa transition du modèle de sous-traitance vers celui de la marque propre.
 
 ## Un curriculum vitae à l'envers
 
-Au printemps 1989, Stan Shih, alors âgé de 45 ans, prend une décision qui s'avérera être la plus coûteuse de sa vie : investir cinq milliards de TWD pour créer Deki Semiconductor en coentreprise avec Texas Instruments. Acer est alors à son apogée, et Shih figure même au classement des grandes fortunes du magazine *Commonwealth*. Dix ans plus tard, les pertes cumulées de Deki approchent les cent milliards — et il doit reprendre les rênes en personne.
+Au printemps 1989, Stan Shih, alors âgé de 45 ans, prend une décision qui s'avérera être la plus coûteuse de sa vie : investir cinq milliards de TWD pour créer Deki Semiconductor en coentreprise avec Texas Instruments. Acer est alors à son apogée, et Shih figure même au classement des grandes fortunes du magazine _Commonwealth_. Dix ans plus tard, les pertes cumulées de Deki approchent les cent milliards — et il doit reprendre les rênes en personne.
 
-« Je détiens tous les records de pertes », confie-t-il en souriant lors d'une session de formation à la *Business Weekly CEO Academy*. Depuis sa première création d'entreprise à 32 ans, le total des pertes de toutes ses sociétés dépasse le milliard de TWD. Un chiffre qui ressemblerait à un désastre pour n'importe qui d'autre. Lui répond : « Je suis le plus grand perdant, et je n'ai aucun regret. »
+« Je détiens tous les records de pertes », confie-t-il en souriant lors d'une session de formation à la _Business Weekly CEO Academy_. Depuis sa première création d'entreprise à 32 ans, le total des pertes de toutes ses sociétés dépasse le milliard de TWD. Un chiffre qui ressemblerait à un désastre pour n'importe qui d'autre. Lui répond : « Je suis le plus grand perdant, et je n'ai aucun regret. »
 
 > **📝 Note de la rédaction**
 > Dans l'univers des affaires taïwanais, aucun autre dirigeant de cette envergure n'a jamais accepté de discuter aussi ouvertement de ses échecs. Cette « transparence de l'échec » est en elle-même une philosophie managériale singulière.
@@ -51,14 +54,14 @@ En 2013, Acer est à nouveau en crise. Le PDG de l'époque, Gianfranco Lanci, ac
 
 Vu sous cet angle, Shih a effectivement généré une valeur singulière. Les dirigeants formés chez Acer essaiment aujourd'hui dans toute l'industrie technologique taïwanaise — des premiers jours de BenQ et Wistron jusqu'aux hauts postes des grandes entreprises technologiques actuelles. Tous portent l'empreinte de ce qu'on appelle le « clan Acer ». « Ma plus grande contribution à Taïwan, dit-il, c'est d'avoir offert une scène et formé des talents. »
 
-Il est également le premier entrepreneur taïwanais à avoir conçu un modèle de « sous-traitance sur abonnement ». Contrairement à la standardisation de TSMC, Deki visait un modèle de boutique de luxe : moins de clients que ses concurrents, mais avec une ambition de croissance mutuelle. Ce concept de « fabricant de composants virtuellement intégré » (*virtual IDM*) permettait aux clients de ne pas avoir à construire leurs propres usines, l'ensemble de la filière IC étant géré par les filiales spécialisées du groupe Acer.
+Il est également le premier entrepreneur taïwanais à avoir conçu un modèle de « sous-traitance sur abonnement ». Contrairement à la standardisation de TSMC, Deki visait un modèle de boutique de luxe : moins de clients que ses concurrents, mais avec une ambition de croissance mutuelle. Ce concept de « fabricant de composants virtuellement intégré » (_virtual IDM_) permettait aux clients de ne pas avoir à construire leurs propres usines, l'ensemble de la filière IC étant géré par les filiales spécialisées du groupe Acer.
 
 ## Une philosophie de management distillée de l'échec
 
-| Vision managériale classique | La « voie royale » de Stan Shih |
-|---|---|
-| Éviter les erreurs, viser l'exécution parfaite | Encourager l'expérimentation, apprendre des échecs |
-| Décision centralisée pour éviter le gaspillage | Délégation et autonomisation pour cultiver les successeurs |
+| Vision managériale classique                                       | La « voie royale » de Stan Shih                                                                                 |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| Éviter les erreurs, viser l'exécution parfaite                     | Encourager l'expérimentation, apprendre des échecs                                                              |
+| Décision centralisée pour éviter le gaspillage                     | Délégation et autonomisation pour cultiver les successeurs                                                      |
 | Rentabilité à court terme, maximisation de la valeur actionnariale | Équilibre entre six dimensions de valeur (clients, actionnaires, employés, partenaires, société, environnement) |
 
 Au cœur de la philosophie managériale de Shih : la conviction que « la nature humaine est fondamentalement bonne » et la confiance accordée par délégation. Chez Acer, il met en place une structure organisationnelle horizontale qui favorise l'innovation et l'expérimentation. « Tomber et se relever, c'est un excellent état d'esprit — mais ne livrez pas une bataille que vous ne pouvez pas vous permettre de perdre. » Il illustre ce principe avec Deki : dès le départ, il n'est pas certain de sa décision. Aussi, quand Texas Instruments se retire de la direction, il distribue immédiatement le capital à China Development Financial, évitant ainsi de tout miser sur une seule carte.
@@ -72,7 +75,7 @@ Cette culture a engendré de nombreux managers d'excellence. Acer est l'une des 
 
 À l'ère numérique, Shih prend conscience que la courbe du sourire de 1992 doit être mise à jour. En 2018, il introduit le concept de **nouvelle courbe du sourire**, estimant que la création de valeur est devenue multidimensionnelle — une courbe unique ne suffit plus à représenter la complexité de l'écosystème industriel.
 
-À titre d'exemple, il cite la société FullWave Technology, dans laquelle Acer a investi. Bénéficiant d'un transfert de technologie radar de l'Institut national des sciences et technologies de défense (*Chung-Shan Institute*), elle développe une technologie de communication baptisée Super TaiRa, censée prendre un rôle de référence dans les standards mondiaux des communications IoT. Ce type d'intégration technologique transversale peut générer des marges brutes de 30 à 40 %, bien loin des chiffres à un seul chiffre habituels de l'industrie manufacturière classique. Shih nomme cela la découverte d'une « valeur d'économie partagée implicite ».
+À titre d'exemple, il cite la société FullWave Technology, dans laquelle Acer a investi. Bénéficiant d'un transfert de technologie radar de l'Institut national des sciences et technologies de défense (_Chung-Shan Institute_), elle développe une technologie de communication baptisée Super TaiRa, censée prendre un rôle de référence dans les standards mondiaux des communications IoT. Ce type d'intégration technologique transversale peut générer des marges brutes de 30 à 40 %, bien loin des chiffres à un seul chiffre habituels de l'industrie manufacturière classique. Shih nomme cela la découverte d'une « valeur d'économie partagée implicite ».
 
 Les défis, eux, ne manquent pas. Le paysage concurrentiel de l'industrie technologique mondiale a profondément changé : les entreprises chinoises et coréennes montrent une puissance compétitive redoutable, tant dans la fabrication que dans la marque. TSMC a creusé un fossé dans le domaine manufacturier, mais la plupart des entreprises taïwanaises restent coincées au fond de la courbe. La théorie de Shih indique une direction, mais le chemin de la sous-traitance vers la marque propre demeure semé d'embûches.
 

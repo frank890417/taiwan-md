@@ -14,6 +14,9 @@ date: 2026-03-22
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Art/台灣劇場與表演藝術.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cddfbcb9ade43ff2'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Theater and Performing Arts: How a Small Island Shook the World Stage

@@ -11,6 +11,9 @@ featured: true
 lastVerified: 2026-04-06
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
+sourceCommitSha: 'c7109a1a'
+sourceContentHash: 'sha256:f955209c0b809e4b'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 대만 교통 시스템: 하나의 섬이 스스로를 90분으로 압축한 방법

@@ -18,6 +18,9 @@ subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/郭婞淳.md'
+sourceCommitSha: 'ddc476ed'
+sourceContentHash: 'sha256:d608fc5111d3aa4f'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 # 궈싱쥔

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/蔡英文.md'
 readingTime: 15
 featured: false
+sourceCommitSha: '59db5de4'
+sourceContentHash: 'sha256:783d9b2f1f815187'
+translatedAt: '2026-04-14T19:25:05+08:00'
 ---
 
 # 차이잉원

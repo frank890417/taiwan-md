@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
 translatedFrom: 'Nature/黑冠麻鷺.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:105878c02485b2e2'
+translatedAt: '2026-04-14T10:56:44+08:00'
 ---
 
 # 말레이밤왜가리: 도시 속 "얼간이 새"의 생존 철학

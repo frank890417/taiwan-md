@@ -18,7 +18,10 @@ readingTime: 14
 author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-04
-translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+translatedFrom: "Nature/台灣氣候危機與淨零轉型.md"
+sourceCommitSha: "26f2ff91"
+sourceContentHash: "sha256:7efae3ba4a618ac5"
+translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 
 # Crise climatique à Taïwan et la transition vers le zéro carbone
@@ -41,7 +44,7 @@ Le volume total de pluie n'a pas vraiment diminué, mais son comportement a chan
 
 La fréquence des pluies extrêmes est également en hausse. Les journées avec plus de 200 mm de précipitations sont passées d'une moyenne de cinq par an dans les années 1960 à huit dans la période récente. En 2009, le typhon Morakot a déversé 2 884 mm de cumul à Alishan[^5] — autant que ce que Taipei reçoit en une année entière, tombé en trois jours. Ce désastre a englouti sous les glissements de terrain le village de Xiaolin, dans le district de Jiaxian à Kaohsiung, tuant 491 personnes[^6].
 
-> « Chaque chaise représente un membre de ma famille. » C'est en ces termes que le survivant Wang Min-liang accueille les visiteurs au mémorial de Xiaolin. Il a fondé la communauté Riguang Xiaolin et mène avec elle une troupe de chant et de danse du peuple Makatao à travers toute l'île. (Propos recueillis par l'émission *Our Island* de PTS)
+> « Chaque chaise représente un membre de ma famille. » C'est en ces termes que le survivant Wang Min-liang accueille les visiteurs au mémorial de Xiaolin. Il a fondé la communauté Riguang Xiaolin et mène avec elle une troupe de chant et de danse du peuple Makatao à travers toute l'île. (Propos recueillis par l'émission _Our Island_ de PTS)
 
 Morakot n'était pas une anomalie — c'était une annonce. Le rapport scientifique national sur le changement climatique de 2024, dirigé par Hsu, indique que des épisodes de pluies extrêmes qui ne se produisaient qu'une fois tous les cinquante ans pourraient désormais survenir tous les dix ans[^7]. Yunlin, Tainan et Keelung figurent parmi les zones les plus exposées aux inondations côtières.
 

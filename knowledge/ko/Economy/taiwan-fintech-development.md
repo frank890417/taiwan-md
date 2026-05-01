@@ -20,6 +20,9 @@ readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
 translatedFrom: 'Economy/台灣金融科技發展.md'
+sourceCommitSha: 'bf1be5e5'
+sourceContentHash: 'sha256:bdd5d6b6275cfb63'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 타이완 핀테크 발전

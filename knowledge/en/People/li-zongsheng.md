@@ -14,6 +14,9 @@ tags:
 subcategory: 'Music'
 lastVerified: 2026-03-19
 translatedFrom: 'People/李宗盛.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:37754a7922b8e177'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Li Zongsheng: The Songwriter Who Taught a Generation to Feel

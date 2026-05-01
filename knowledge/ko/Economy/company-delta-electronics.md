@@ -10,6 +10,9 @@ readingTime: 15
 featured: true
 translatedFrom: 'Economy/台灣企業：台達電子.md'
 lastVerified: 2026-03-22
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:731abae76b18888c'
+translatedAt: '2026-04-14T08:37:54+08:00'
 ---
 
 > **30초 요약:** 1971년 한 전쟁 고아가 30만 대만 달러로 신좡에서 창업했다.

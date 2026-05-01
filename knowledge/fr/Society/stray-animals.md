@@ -10,7 +10,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Society/台灣流浪動物文化.md'
+translatedFrom: "Society/台灣流浪動物文化.md"
+sourceCommitSha: "ecb173b1"
+sourceContentHash: "sha256:aa70d55ab7f81779"
+translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 
 # La culture des animaux errants à Taïwan
@@ -55,7 +58,7 @@ Chaque année, des dizaines de milliers de chiens et de chats en bonne santé s'
 
 Le 29 novembre 2013, un documentaire sortit en salles.
 
-*Twelve Nights* était réalisé par Raye (Huang Xin-sheng) et produit par l'écrivain à succès **Giddens Ko**. Ko n'était pas un militant de la cause animale — c'était l'auteur de romans de genre, de romances, de cette jeunesse qu'on n'oublie pas. Mais il avait adopté un chien sauvé d'un refuge. Et il a dit : « Je ne pouvais plus faire semblant de ne pas savoir. »
+_Twelve Nights_ était réalisé par Raye (Huang Xin-sheng) et produit par l'écrivain à succès **Giddens Ko**. Ko n'était pas un militant de la cause animale — c'était l'auteur de romans de genre, de romances, de cette jeunesse qu'on n'oublie pas. Mais il avait adopté un chien sauvé d'un refuge. Et il a dit : « Je ne pouvais plus faire semblant de ne pas savoir. »
 
 Le film ne comporte ni narration, ni discours. La caméra est posée dans le refuge et enregistre simplement les douze jours de ces chiens.
 
@@ -64,17 +67,17 @@ Le troisième jour, ils cessent de manger.
 Le septième jour, leur regard a changé.
 Le douzième jour, beaucoup de spectateurs ne distinguaient plus l'écran à travers leurs larmes.
 
-*Twelve Nights* a dépassé les 50 millions de nouveaux dollars taïwanais au box-office — un chiffre astronomique pour un documentaire. Mais l'essentiel n'était pas là : le film a transformé « l'euthanasie en refuge » d'un sujet de niche militant en une indignation collective.
+_Twelve Nights_ a dépassé les 50 millions de nouveaux dollars taïwanais au box-office — un chiffre astronomique pour un documentaire. Mais l'essentiel n'était pas là : le film a transformé « l'euthanasie en refuge » d'un sujet de niche militant en une indignation collective.
 
 ### Des larmes à la loi
 
-En janvier 2015, le Législatif Yuan a adopté en troisième lecture un amendement à la *Loi sur la protection des animaux*, stipulant explicitement :
+En janvier 2015, le Législatif Yuan a adopté en troisième lecture un amendement à la _Loi sur la protection des animaux_, stipulant explicitement :
 
 > Les refuges publics cessent de procéder à l'euthanasie des animaux accueillis, avec une période de transition de deux ans.
 
 Le 6 février 2017, la politique de « zéro euthanasie » entrait en vigueur.
 
-Un film, deux ans de mobilisation, une loi. L'histoire des animaux errants à Taïwan se divise désormais en deux ères : avant et après *Twelve Nights*.
+Un film, deux ans de mobilisation, une loi. L'histoire des animaux errants à Taïwan se divise désormais en deux ères : avant et après _Twelve Nights_.
 
 ---
 
@@ -114,7 +117,7 @@ Cette encoche est la marque du **TNR**. TNR signifie Trap (capturer), Neuter (st
 
 La logique est simple : on ne peut pas tous les éliminer, alors on fait en sorte qu'ils ne se reproduisent plus. Génération après génération, la population diminue naturellement.
 
-Le TNR à Taïwan a d'abord été porté par des associations citoyennes de protection animale, évoluant dans les zones grises de la loi. Après la révision de la *Loi sur la protection des animaux* en 2015, le TNR a été officiellement intégré aux outils de politique publique. Les gouvernements locaux ont commencé à y allouer des budgets et à collaborer avec des associations pour des campagnes de grande ampleur.
+Le TNR à Taïwan a d'abord été porté par des associations citoyennes de protection animale, évoluant dans les zones grises de la loi. Après la révision de la _Loi sur la protection des animaux_ en 2015, le TNR a été officiellement intégré aux outils de politique publique. Les gouvernements locaux ont commencé à y allouer des budgets et à collaborer avec des associations pour des campagnes de grande ampleur.
 
 ### Les règles non écrites de la cohabitation
 
@@ -202,7 +205,7 @@ Le marché locatif taïwanais est extrêmement hostile aux animaux de compagnie.
 ## Le saviez-vous ?
 
 - 🐕 La densité de chiens errants à Taïwan est d'environ **4,3 chiens par kilomètre carré** — plus fréquents que bien des animaux sauvages
-- 🎬 *Twelve Nights* a dépassé les **50 millions de NTD** au box-office, l'un des documentaires les plus rentables de l'histoire taïwanaise
+- 🎬 _Twelve Nights_ a dépassé les **50 millions de NTD** au box-office, l'un des documentaires les plus rentables de l'histoire taïwanaise
 - ✂️ Plus de **100 000 procédures TNR** sont réalisées chaque année sur l'île
 - 🏫 Environ **700 établissements scolaires** accueillent un chien ou un chat
 - 📋 À la suite du décès de la vétérinaire Chien Chih-ch'eng en 2016, un accompagnement psychologique pour le personnel des refuges a été **officiellement intégré au système**
@@ -216,7 +219,7 @@ Le marché locatif taïwanais est extrêmement hostile aux animaux de compagnie.
 
 L'histoire des animaux errants à Taïwan n'est pas celle d'un problème résolu.
 
-C'est l'histoire d'une société qui a appris à se soucier. Du choc de *Twelve Nights* à l'engagement du zéro euthanasie, de la pratique quotidienne du TNR à ce qu'un chien scolaire enseigne aux enfants — chaque étape est imparfaite, chaque étape a un coût, mais chaque étape est un vrai pas en avant.
+C'est l'histoire d'une société qui a appris à se soucier. Du choc de _Twelve Nights_ à l'engagement du zéro euthanasie, de la pratique quotidienne du TNR à ce qu'un chien scolaire enseigne aux enfants — chaque étape est imparfaite, chaque étape a un coût, mais chaque étape est un vrai pas en avant.
 
 Ces chiens des rues, une encoche à l'oreille, allongés au soleil devant l'échoppe du matin — ils ne savent pas qu'ils ont été les protagonistes de débats politiques, d'un documentaire, des réseaux sociaux. Ils savent seulement que quelqu'un a posé la gamelle aujourd'hui, que le soleil est chaud, et que cette rue se souvient de leur nom.
 
@@ -230,7 +233,7 @@ Ces chiens des rues, une encoche à l'oreille, allongés au soleil devant l'éch
 
 ## Sources
 
-- [*Twelve Nights* — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1))
+- [_Twelve Nights_ — Wikipédia](<https://zh.wikipedia.org/wiki/%E5%8D%81%E4%BA%8C%E5%A4%9C_(%E8%87%BA%E7%81%A3%E9%9B%BB%E5%BD%B1)>)
 - [Portail d'information sur la protection animale du ministère de l'Agriculture](https://animal.moa.gov.tw/)
 - [Société taïwanaise pour l'étude des questions animales et sociales (EAST)](https://www.east.org.tw/)
 - [Association taïwanaise pour la protection des animaux de cœur — promotion du TNR](https://www.hotac.org.tw/)

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
 translatedFrom: 'Nature/生態多樣性.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7c8e2ae7ead043fa'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 # 생태 다양성

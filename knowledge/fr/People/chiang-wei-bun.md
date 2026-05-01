@@ -4,12 +4,21 @@ description: "Comment un diplômé en génie mécanique est-il devenu le promote
 date: 2026-03-23
 category: 'People'
 subcategory: 'Monde académique et éducation'
-tags: ['linguiste', 'mouvement littéraire taïwanais', 'éducation en langue maternelle', 'études vietnamiennes']
+tags:
+  [
+    'linguiste',
+    'mouvement littéraire taïwanais',
+    'éducation en langue maternelle',
+    'études vietnamiennes',
+  ]
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 readingTime: 8
 translatedFrom: 'People/蔣為文.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1881b8ae5fd55c43'
+translatedAt: '2026-04-14T19:17:00+08:00'
 ---
 
 > **En 30 secondes :** Chiang Wei-bun est le promoteur le plus radical du mouvement d'écriture en langue taïwanaise. En 2011, au Musée national de la littérature taïwanaise, il a brandi une pancarte à l'adresse de l'écrivain Huang Chun-ming : « Les auteurs taïwanais qui créent en chinois plutôt qu'en langue taïwanaise sont une honte ! », déclenchant un débat retentissant dans tout Taïwan. Cet universitaire, diplômé en génie mécanique de l'université Tamkang, est devenu l'un des rares experts du vietnamien à Taïwan et dirige aujourd'hui le département de littérature taïwanaise de l'université nationale Cheng Kung. En trente ans, il a démontré que la langue n'est pas qu'un outil : c'est le champ de bataille central de l'identité nationale.

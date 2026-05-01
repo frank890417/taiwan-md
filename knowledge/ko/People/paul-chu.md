@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'People/朱經武.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9903e2c37b2cac97'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 주징우: 초전도체 연구의 선구자

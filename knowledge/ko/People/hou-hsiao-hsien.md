@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 translatedFrom: 'People/侯孝賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5b89549b2ad2cd3d'
+translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 
 # 허우샤오시엔 (侯孝賢)

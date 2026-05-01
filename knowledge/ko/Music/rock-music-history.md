@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9d76f310b8c2b867'
+translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 
 # 대만 록 음악 발전사: 언더그라운드에서 주류까지 30년

@@ -8,6 +8,9 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-13
 translatedFrom: 'History/大罷免.md'
+sourceCommitSha: '5854f293'
+sourceContentHash: 'sha256:81f328afe392aa26'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 > **30초 요약:**

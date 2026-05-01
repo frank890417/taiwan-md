@@ -19,6 +19,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 lastVerified: '2026-03-24'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a569386269241d61'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 기부 영구기관: FAB DAO와 백악 프로젝트의 사회 실험

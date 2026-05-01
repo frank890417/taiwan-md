@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: true
 translatedFrom: 'People/杜奕瑾.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bfd44714801a9d19'
+translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 
 # 두이진

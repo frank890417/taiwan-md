@@ -1,8 +1,15 @@
 ---
-title: 'La métamorphose de l''île : trajectoire de la transformation industrielle et du développement économique de Taïwan'
-description: 'De société agraire à puissance technologique, découvrez comment Taïwan a accompli en un demi-siècle un miracle économique pour devenir un maillon incontournable de l''industrie mondiale de haute technologie'
+title: "La métamorphose de l'île : trajectoire de la transformation industrielle et du développement économique de Taïwan"
+description: "De société agraire à puissance technologique, découvrez comment Taïwan a accompli en un demi-siècle un miracle économique pour devenir un maillon incontournable de l'industrie mondiale de haute technologie"
 date: 2026-03-19
-tags: ['développement économique', 'transformation industrielle', 'miracle économique', 'industrie de haute technologie', 'modèle de développement taïwanais']
+tags:
+  [
+    'développement économique',
+    'transformation industrielle',
+    'miracle économique',
+    'industrie de haute technologie',
+    'modèle de développement taïwanais',
+  ]
 subcategory: 'Développement économique'
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/產業轉型與經濟發展軌跡.md'
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:bfcbba1c658dedbc'
+translatedAt: '2026-04-14T19:21:51+08:00'
 ---
 
 # La métamorphose de l'île : trajectoire de la transformation industrielle et du développement économique de Taïwan
@@ -232,8 +242,8 @@ L'histoire économique de Taïwan s'écrit encore. La métamorphose d'une socié
 ## Références
 
 1. [Academia Sinica : rapport de recherche sur les causes du miracle économique taïwanais](https://www.sinica.edu.tw/)
-2. Wu Tsong-min : *Quatre cents ans d'économie taïwanaise*, Editions Chun Shan
-3. Chu Wan-wen : *Les origines du développement économique de Taïwan d'après-guerre*, Lianjing
+2. Wu Tsong-min : _Quatre cents ans d'économie taïwanaise_, Editions Chun Shan
+3. Chu Wan-wen : _Les origines du développement économique de Taïwan d'après-guerre_, Lianjing
 4. [Yuan exécutif : Livre blanc sur les six industries stratégiques prioritaires](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7a65a06e-3f71-4c68-b368-85549fbca5d1)
 5. [Bureau des statistiques du ministère des Affaires économiques : Annuaire statistique du développement industriel de Taïwan](https://www.moea.gov.tw/)
 6. [Institut de recherche technologique et industrielle (ITRI) : trajectoire du développement de la haute technologie taïwanaise](https://www.itri.org.tw/)

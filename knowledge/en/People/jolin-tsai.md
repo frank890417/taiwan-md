@@ -9,6 +9,9 @@ category: people
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'People/蔡依林.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:768006b073ae6af1'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-Second Overview:** In 1998, a dance instructor told her she had no talent for movement.

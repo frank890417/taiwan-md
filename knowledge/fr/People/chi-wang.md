@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: 'People/翁啟惠.md'
+translatedFrom: "People/翁啟惠.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:7c77f160ad3abb8a"
+translatedAt: "2026-04-14T19:16:43+08:00"
 ---
 
 # Chi-Huey Wong

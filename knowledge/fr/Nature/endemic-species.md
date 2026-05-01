@@ -1,8 +1,15 @@
 ---
 title: 'Les espèces endémiques de Taïwan'
-description: 'Une richesse biologique exceptionnelle : Taïwan abrite plus de 4 000 espèces endémiques, témoins vivants d''une évolution insulaire remarquable et d''une biodiversité à préserver absolument.'
+description: "Une richesse biologique exceptionnelle : Taïwan abrite plus de 4 000 espèces endémiques, témoins vivants d'une évolution insulaire remarquable et d'une biodiversité à préserver absolument."
 date: 2026-03-17
-tags: [Nature, espèces endémiques, biodiversité, ours noir de Taïwan, saumon de Formose]
+tags:
+  [
+    Nature,
+    espèces endémiques,
+    biodiversité,
+    ours noir de Taïwan,
+    saumon de Formose,
+  ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/特有種.md'
+sourceCommitSha: 'a1e11b6b'
+sourceContentHash: 'sha256:c6541151750229dc'
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 # Les espèces endémiques de Taïwan
@@ -42,25 +52,25 @@ Taïwan est situé en bordure du plateau continental eurasien. Son histoire géo
 
 ### Les mammifères endémiques
 
-**L'ours noir de Formose** (*Ursus thibetanus formosanus*) est le plus grand mammifère terrestre de Taïwan. Son plastron blanc en forme de V est sa marque distinctive. La population actuelle est estimée entre 200 et 600 individus. **Le macaque de Formose** est largement répandu sur toute l'île ; c'est le seul primate indigène.
+**L'ours noir de Formose** (_Ursus thibetanus formosanus_) est le plus grand mammifère terrestre de Taïwan. Son plastron blanc en forme de V est sa marque distinctive. La population actuelle est estimée entre 200 et 600 individus. **Le macaque de Formose** est largement répandu sur toute l'île ; c'est le seul primate indigène.
 
 **Le sanglier de Taïwan** est plus petit que le sanglier asiatique et s'est adapté aux milieux montagnards. **Le sérow de Taïwan** est un grimpeur agile, présent dans les zones d'altitude moyenne à élevée. **Le cerf sambar de Taïwan** est le plus grand herbivore de l'île ; les mâles portent de magnifiques bois.
 
 ### Les oiseaux endémiques
 
-**Le faisan de Mikado** (*Syrmaticus mikado*) est un faisan endémique dont le mâle arbore un superbe plumage bleu-noir avec des rectrices blanches. **Le faisan de Swinhoe** fréquente les étages moyens et bas ; le mâle se distingue par son ventre bleu et ses caroncules rouges. **La pie de Taïwan** porte un plumage bleu vif et une longue queue ; elle compte parmi les oiseaux les plus spectaculaires de l'île.
+**Le faisan de Mikado** (_Syrmaticus mikado_) est un faisan endémique dont le mâle arbore un superbe plumage bleu-noir avec des rectrices blanches. **Le faisan de Swinhoe** fréquente les étages moyens et bas ; le mâle se distingue par son ventre bleu et ses caroncules rouges. **La pie de Taïwan** porte un plumage bleu vif et une longue queue ; elle compte parmi les oiseaux les plus spectaculaires de l'île.
 
 Les leiothrix et yuhinas endémiques illustrent à merveille la diversité avifaunistique des montagnes taïwanaises. **Le faisan necklaced** a longtemps été considéré comme une sous-espèce du faisan de Mikado avant d'être reconnu comme espèce à part entière.
 
 ### Les poissons endémiques
 
-**Le saumon de Taïwan** (*Oncorhynchus masou formosanus*) est un rescapé de l'ère glaciaire, unique au bassin supérieur de la rivière Dajia. On le surnomme affectueusement le « poisson trésor national ». D'autres espèces d'eau douce endémiques, comme le barbeau blanc de Taïwan et certains goujons, témoignent de la singularité hydrologique de l'île.
+**Le saumon de Taïwan** (_Oncorhynchus masou formosanus_) est un rescapé de l'ère glaciaire, unique au bassin supérieur de la rivière Dajia. On le surnomme affectueusement le « poisson trésor national ». D'autres espèces d'eau douce endémiques, comme le barbeau blanc de Taïwan et certains goujons, témoignent de la singularité hydrologique de l'île.
 
 **Les espèces marines endémiques** comprennent de nombreux poissons des récifs coralliens et des espèces des grands fonds, reflets de la position biogéographique particulière des eaux taïwanaises.
 
 ### Les plantes endémiques
 
-**Le cyprès de Taïwan** (*Taiwania cryptomerioides*) est un conifère précieux à l'échelle mondiale, pouvant atteindre 90 mètres de hauteur. **Le cèdre rouge de Taïwan** et **le cyprès de Hinoki** forment ensemble des forêts de cyprès d'une grande valeur écologique. Le catalpa de Taïwan et d'autres essences illustrent la diversité de la flore arborée endémique.
+**Le cyprès de Taïwan** (_Taiwania cryptomerioides_) est un conifère précieux à l'échelle mondiale, pouvant atteindre 90 mètres de hauteur. **Le cèdre rouge de Taïwan** et **le cyprès de Hinoki** forment ensemble des forêts de cyprès d'une grande valeur écologique. Le catalpa de Taïwan et d'autres essences illustrent la diversité de la flore arborée endémique.
 
 **Les plantes alpines** — comme l'épine-vinette du Yushan ou le genévrier du Yushan — se sont adaptées aux rigueurs des hautes altitudes. **Les orchidées endémiques** sont particulièrement nombreuses ; beaucoup présentent un intérêt horticole.
 

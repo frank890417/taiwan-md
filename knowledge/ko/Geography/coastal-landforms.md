@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6cf131bbf7b2e79b'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 > **30초 요약:** 위산 정상(3,952m)에서 동쪽 해저의 류큐 해구(-7,507m)까지, 수직 낙차는 11,000미터를 넘는데 수평 거리는 150킬로미터에 불과하다. 이 수치 덕분에 대만은 세계에서 지형 경사가 가장 가파른 섬 중 하나가 된다. 에베레스트 정상에서 마리아나 해구로 뛰어내리는 것보다 더 압축적인 이 모든 것이, 단 500만 년이라는 시간 안에 만들어졌다.

@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: 'Art/台灣劇場與表演藝術.md'
+translatedFrom: "Art/台灣劇場與表演藝術.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:cddfbcb9ade43ff2"
+translatedAt: "2026-04-14T19:13:26+08:00"
 ---
 
 # Le théâtre et les arts de la scène à Taïwan : comment une petite île a ébranlé les scènes du monde
@@ -23,24 +26,24 @@ Au printemps 1973, à Taipei. Lin Hwai-min, 26 ans, vient de rentrer de l'Iowa W
 De cette conviction naît le Cloud Gate Dance Theatre — non seulement la première compagnie professionnelle de danse à Taïwan, mais aussi la première compagnie de danse contemporaine de l'ensemble du monde sinophone.
 
 > **📝 Note de curateur**
-> Le choix du nom « Cloud Gate » (雲門) est révélateur : il renvoie aux *Annales de Lü* (《呂氏春秋》), un texte classique de deux millénaires : « Au temps de l'Empereur Jaune, Da Rong composa Cloud Gate et Da Juan. » Vouloir faire de la danse moderne tout en puisant son inspiration dans un texte vieux de deux mille ans — cette façon de superposer le classique et le contemporain deviendra l'ADN le plus profond des arts de la scène à Taïwan.
+> Le choix du nom « Cloud Gate » (雲門) est révélateur : il renvoie aux _Annales de Lü_ (《呂氏春秋》), un texte classique de deux millénaires : « Au temps de l'Empereur Jaune, Da Rong composa Cloud Gate et Da Juan. » Vouloir faire de la danse moderne tout en puisant son inspiration dans un texte vieux de deux mille ans — cette façon de superposer le classique et le contemporain deviendra l'ADN le plus profond des arts de la scène à Taïwan.
 
 ## L'expérience Cloud Gate : quand la littérature rencontre le langage du corps
 
 Le parcours de Lin Hwai-min a façonné la singularité de Cloud Gate. Il n'est pas danseur de formation, mais un intellectuel nourri de littérature et de philosophie. Ce qui aurait pu être une faiblesse s'est révélé être son atout majeur : libéré des contraintes des techniques établies, il a pu inventer un langage corporel entièrement nouveau.
 
-*Nine Songs* puise dans les *Chants du Chu* de Qu Yuan ; *Legacy* traite de l'histoire des migrations à Taïwan ; *Moon Water* fusionne le taichi et la méditation… Chaque œuvre de Cloud Gate répond à une même question : comment faire parler le corps pour restituer la mémoire culturelle profonde du monde sinophone ?
+_Nine Songs_ puise dans les _Chants du Chu_ de Qu Yuan ; _Legacy_ traite de l'histoire des migrations à Taïwan ; _Moon Water_ fusionne le taichi et la méditation… Chaque œuvre de Cloud Gate répond à une même question : comment faire parler le corps pour restituer la mémoire culturelle profonde du monde sinophone ?
 
-La réponse a stupéfié le monde entier. Le *Times* de Londres a qualifié Cloud Gate de « première compagnie de danse contemporaine d'Asie » ; la *Frankfurter Allgemeine Zeitung* l'a saluée comme « une des meilleures compagnies de danse moderne au monde ». En 2003, le principal critique de danse du *New York Times* a classé *Moon Water* meilleure production chorégraphique de l'année.
+La réponse a stupéfié le monde entier. Le _Times_ de Londres a qualifié Cloud Gate de « première compagnie de danse contemporaine d'Asie » ; la _Frankfurter Allgemeine Zeitung_ l'a saluée comme « une des meilleures compagnies de danse moderne au monde ». En 2003, le principal critique de danse du _New York Times_ a classé _Moon Water_ meilleure production chorégraphique de l'année.
 
 **Les chiffres parlent d'eux-mêmes** : en cinquante ans, Cloud Gate a joué plus de 1 700 fois sur plus de 200 scènes dans le monde. Du Lincoln Center de New York au Sadler's Wells de Londres, du Théâtre du Châtelet de Paris au Berliner Festspiele, la compagnie est une présence régulière dans les plus grands festivals internationaux.
 
-| Étapes clés | Année | Signification |
-|---|---|---|
-| Fondation du Cloud Gate Dance Theatre | 1973 | Première compagnie de danse contemporaine du monde sinophone |
-| Création de *Nine Songs* | 1993 | Interprétation chorégraphique des *Chants du Chu* de Qu Yuan |
-| *Moon Water* élu meilleure production par le *New York Times* | 2003 | Reconnaissance internationale au plus haut niveau |
-| Retraite de Lin Hwai-min, succession à Cheng Tsung-lung | 2019 | Clôture de l'ère du fondateur après 46 ans |
+| Étapes clés                                                   | Année | Signification                                                |
+| ------------------------------------------------------------- | ----- | ------------------------------------------------------------ |
+| Fondation du Cloud Gate Dance Theatre                         | 1973  | Première compagnie de danse contemporaine du monde sinophone |
+| Création de _Nine Songs_                                      | 1993  | Interprétation chorégraphique des _Chants du Chu_ de Qu Yuan |
+| _Moon Water_ élu meilleure production par le _New York Times_ | 2003  | Reconnaissance internationale au plus haut niveau            |
+| Retraite de Lin Hwai-min, succession à Cheng Tsung-lung       | 2019  | Clôture de l'ère du fondateur après 46 ans                   |
 
 Fin 2019, Lin Hwai-min a quitté la direction artistique de Cloud Gate après 46 ans, laissant sa place à Cheng Tsung-lung. Au-delà d'une transmission personnelle, cela marque le passage des arts de la scène taïwanais d'une « génération fondatrice » à une « génération héritière ».
 
@@ -48,16 +51,16 @@ Fin 2019, Lin Hwai-min a quitté la direction artistique de Cloud Gate après 46
 
 Si Cloud Gate part des techniques de la danse contemporaine occidentale pour chercher une expression orientale, le Contemporary Legend Theatre emprunte le chemin inverse : il part de l'opéra de Pékin — la tradition la plus classique qui soit — pour l'ouvrir aux grands textes occidentaux.
 
-En 1986, Wu Hsing-kuo fonde le Contemporary Legend Theatre avec une première création : *The Kingdom of Desire*, adaptation du Macbeth de Shakespeare en opéra de Pékin. Cette mission « impossible » s'inscrit dans un contexte précis : dans les années 1980, l'opéra traditionnel à Taïwan perd son public, les jeunes préférant le théâtre contemporain et le cinéma.
+En 1986, Wu Hsing-kuo fonde le Contemporary Legend Theatre avec une première création : _The Kingdom of Desire_, adaptation du Macbeth de Shakespeare en opéra de Pékin. Cette mission « impossible » s'inscrit dans un contexte précis : dans les années 1980, l'opéra traditionnel à Taïwan perd son public, les jeunes préférant le théâtre contemporain et le cinéma.
 
 > **⚠️ Point de controverse**
-> *The Kingdom of Desire* suscite une vive polémique à sa création. Les traditionalistes crient au sacrilège ; les modernistes s'interrogent : « Est-ce encore de l'opéra de Pékin ? » La réponse de Wu Hsing-kuo est directe : « Ces critiques comprennent-ils vraiment l'opéra de Pékin ? L'opéra de Pékin a toujours été pluriel — il ne faut pas le voir si petit. »
+> _The Kingdom of Desire_ suscite une vive polémique à sa création. Les traditionalistes crient au sacrilège ; les modernistes s'interrogent : « Est-ce encore de l'opéra de Pékin ? » La réponse de Wu Hsing-kuo est directe : « Ces critiques comprennent-ils vraiment l'opéra de Pékin ? L'opéra de Pékin a toujours été pluriel — il ne faut pas le voir si petit. »
 
-Le succès de *The Kingdom of Desire* dépasse toutes les attentes. Le *Times* compare Wu Hsing-kuo à Laurence Olivier ; le *Guardian* le surnomme « le Shakespeare de Taïwan ». L'œuvre révèle au monde les possibilités infinies d'un dialogue entre l'opéra chinois classique et le théâtre occidental, et ancre définitivement la réputation internationale du Contemporary Legend Theatre.
+Le succès de _The Kingdom of Desire_ dépasse toutes les attentes. Le _Times_ compare Wu Hsing-kuo à Laurence Olivier ; le _Guardian_ le surnomme « le Shakespeare de Taïwan ». L'œuvre révèle au monde les possibilités infinies d'un dialogue entre l'opéra chinois classique et le théâtre occidental, et ancre définitivement la réputation internationale du Contemporary Legend Theatre.
 
-**Ce qui compte surtout, c'est la méthode** : Wu Hsing-kuo ne se contente pas de jouer des textes occidentaux en costume de Pékin. Il crée une « troisième voie », née d'une compréhension profonde des deux traditions. Depuis plus de trente ans — de *The Revenge of the Prince* à *The Tempest*, de *Lear Is Here* à *Water Margin Fifteen Brave Heroes* — le Contemporary Legend Theatre est la seule compagnie taïwanaise à avoir intégré les trois plus grands festivals du monde (Edinburgh, Avignon, Lincoln Center).
+**Ce qui compte surtout, c'est la méthode** : Wu Hsing-kuo ne se contente pas de jouer des textes occidentaux en costume de Pékin. Il crée une « troisième voie », née d'une compréhension profonde des deux traditions. Depuis plus de trente ans — de _The Revenge of the Prince_ à _The Tempest_, de _Lear Is Here_ à _Water Margin Fifteen Brave Heroes_ — le Contemporary Legend Theatre est la seule compagnie taïwanaise à avoir intégré les trois plus grands festivals du monde (Edinburgh, Avignon, Lincoln Center).
 
-En 2021, en collaboration avec la plateforme taïwanaise de spectacle immersif AMBI SPACE, la compagnie a adapté *Water Margin Fifteen Brave Heroes* en un spectacle mêlant comédiens en chair et os à des projections numériques, ouvrant de nouvelles perspectives à la rencontre entre l'opéra traditionnel et la technologie contemporaine.
+En 2021, en collaboration avec la plateforme taïwanaise de spectacle immersif AMBI SPACE, la compagnie a adapté _Water Margin Fifteen Brave Heroes_ en un spectacle mêlant comédiens en chair et os à des projections numériques, ouvrant de nouvelles perspectives à la rencontre entre l'opéra traditionnel et la technologie contemporaine.
 
 ## Le mouvement des petites salles : les braises souterraines avant la levée de la loi martiale
 
@@ -105,7 +108,7 @@ L'histoire du théâtre et des arts de la scène à Taïwan est un récit de cou
 - [Deux Salles nationales de Taïwan](https://www.npac-ntch.org/)
 - [National Kaohsiung Center for the Arts (Weiwuying)](https://www.npac-weiwuying.org/)
 - [Présentation du Cloud Gate Dance Theatre — Réseau d'information sur la danse, Ministère de la Culture](https://web.arte.gov.tw/tdance/b/mid02/modern/t01.htm)
-- [*The Kingdom of Desire* : un feu de jeunesse qui brûle depuis 30 ans — The News Lens](https://www.thenewslens.com/article/68199)
+- [_The Kingdom of Desire_ : un feu de jeunesse qui brûle depuis 30 ans — The News Lens](https://www.thenewslens.com/article/68199)
 - [40 ans du Lan Ling Theater Workshop, leurs rêves de théâtre — The Reporter](https://www.twreporter.org/a/bookreview-lan-ling-40th-experimental-actors-studio)
 - [Cérémonie d'inauguration des Deux Salles nationales — Bibliothèque de la mémoire culturelle](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=684664)
 - [Ouverture en fanfare du National Kaohsiung Center for the Arts — Kaohsiung Illustrated](https://takao.kcg.gov.tw/article/213)

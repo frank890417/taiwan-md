@@ -8,6 +8,9 @@ author: Taiwan.md
 readingTime: 10
 featured: false
 translatedFrom: 'History/清治時期.md'
+sourceCommitSha: '9a2361b6'
+sourceContentHash: 'sha256:f1f83caa365a0cc3'
+translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 
 # Gobierno de la Dinastía Qing

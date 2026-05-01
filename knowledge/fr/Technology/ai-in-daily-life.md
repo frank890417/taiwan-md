@@ -2,7 +2,15 @@
 title: "L'IA au quotidien à Taïwan — quand l'intelligence artificielle s'invite dans la vie de tous les jours"
 description: "Les habitants de Taïwan interagissent avec l'IA des dizaines de fois par jour, sans toujours le savoir"
 date: 2026-03-29
-tags: ['IA', 'intelligence artificielle', 'LINE', 'santé connectée', 'agriculture intelligente', 'technologie du quotidien']
+tags:
+  [
+    'IA',
+    'intelligence artificielle',
+    'LINE',
+    'santé connectée',
+    'agriculture intelligente',
+    'technologie du quotidien',
+  ]
 subcategory: 'Culture numérique et communautés en ligne'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Technology/台灣AI日常.md'
 lastVerified: 2026-03-29
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:1cb31f3f5b851af8'
+translatedAt: '2026-04-14T12:32:55+08:00'
 ---
 
 > Dans la clinique de quartier au coin de votre rue, le médecin boucle en 25 secondes une évaluation du risque diabétique qui prenait autrefois 20 minutes. L'employé du FamilyMart règle en trois minutes sa commande de plats préparés, là où il fallait en compter quinze. La réponse au message que vous envoyez au service client sur LINE ne vient pas d'un humain. Les habitants de Taïwan interagissent avec l'IA des dizaines de fois par jour — et presque personne ne s'en rend compte.
@@ -139,5 +150,6 @@ Aucun d'eux ne dira qu'il « utilise l'IA ». Ils diront : « c'est ce que le sy
 ---
 
 ## Pour aller plus loin
+
 - Industrie de l'IA à Taïwan
 - Développement de l'IA à Taïwan

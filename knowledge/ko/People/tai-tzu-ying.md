@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/戴資穎.md'
 readingTime: 15
 featured: true
+sourceCommitSha: '59db5de4'
+sourceContentHash: 'sha256:1a1c26aae26ed9f8'
+translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 
 # 다이쯔잉

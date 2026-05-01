@@ -2,7 +2,15 @@
 title: 'Ko Wen-je'
 description: "Du pionnier de l'ECMO à la figure de la troisième voie politique : l'histoire tumultueuse du premier maire de Taipei sans étiquette partisane"
 date: 2026-03-30
-tags: [personnalité, politique, maire de Taipei, Parti populaire de Taïwan, médecin, troisième voie]
+tags:
+  [
+    personnalité,
+    politique,
+    maire de Taipei,
+    Parti populaire de Taïwan,
+    médecin,
+    troisième voie,
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'People/柯文哲.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:07cd9f09350b5c18'
+translatedAt: '2026-04-14T19:15:55+08:00'
 ---
 
 # Ko Wen-je
@@ -25,7 +36,7 @@ Cette décision fit apparaître le nom de Ko Wen-je pour la première fois dans 
 Ko Wen-je est né à Hsinchu en 1959. Major de sa promotion au lycée Hsinchu, il intégra d'abord la faculté de médecine de l'Université nationale Yang-Ming avant de repasser le concours d'entrée l'année suivante pour rejoindre l'École de médecine de l'Université nationale de Taïwan. Diplômé du NTU Hospital, il s'orienta vers la médecine intensive plutôt que vers la chirurgie classique. Sa spécialité : réanimation et transplantation d'organes — le médecin qui veille à la frontière de l'unité de soins intensifs, non celui qui officie sur la table d'opération. En 1993, il effectua un séjour de recherche à l'Université du Minnesota pour travailler sur le foie artificiel, puis s'inscrivit en doctorat à son retour. En 2002, il obtint son PhD en médecine clinique ; le sujet de sa thèse : applications cliniques de l'ECMO et prédiction du pronostic.
 
 > **📝 Qu'est-ce que l'ECMO ?**
-> L'ECMO (oxygénation par membrane extracorporelle) est un dispositif de réanimation d'urgence qui assure temporairement les fonctions cardio-pulmonaires en prélevant le sang hors du corps, en l'oxygénant artificiellement, puis en le réinjectant. Lorsqu'un patient en défaillance cardio-pulmonaire attend une transplantation ou une intervention chirurgicale, c'est la seule technique capable de le maintenir en vie. À Taïwan, on l'appelle *ye-ke-mo*, une translittération locale de l'acronyme anglais.
+> L'ECMO (oxygénation par membrane extracorporelle) est un dispositif de réanimation d'urgence qui assure temporairement les fonctions cardio-pulmonaires en prélevant le sang hors du corps, en l'oxygénant artificiellement, puis en le réinjectant. Lorsqu'un patient en défaillance cardio-pulmonaire attend une transplantation ou une intervention chirurgicale, c'est la seule technique capable de le maintenir en vie. À Taïwan, on l'appelle _ye-ke-mo_, une translittération locale de l'acronyme anglais.
 
 La contribution de Ko Wen-je à l'ECMO ne résida pas dans l'introduction de cette technique à Taïwan, mais dans quelque chose de plus difficile : sa systématisation. Il piloita la mise en place d'un protocole opérationnel standardisé pour l'application clinique de l'ECMO au NTU Hospital, permettant à chaque intervenant de savoir quand déclencher la procédure, comment la mener et comment gérer les risques. Ce protocole fut ensuite adopté par le ministère de la Santé et diffusé dans l'ensemble des établissements de santé du pays, rehaussant durablement le niveau de prise en charge des patients critiques à Taïwan. Sous sa direction, l'équipe ECMO du NTU Hospital accumula une expérience considérable et s'imposa comme l'une des équipes de référence en Asie.
 
@@ -82,7 +93,7 @@ Si l'on devait identifier l'héritage le plus certain que Ko Wen-je laisse à la
 
 Les données électorales sont toutes issues de la base de données de la Commission électorale centrale (source primaire) : [Élection du maire de la municipalité spéciale 2014](https://db.cec.gov.tw/ElecTable/Election?type=ELC), [Élection du maire de la municipalité spéciale 2018](https://db.cec.gov.tw/ElecTable/Election?type=ELC), [16e élection présidentielle et vice-présidentielle](https://db.cec.gov.tw/ElecTable/Election?type=P).
 
-Parcours médical : thèse de doctorat en médecine clinique de Ko Wen-je, NTU, 2002 (Bibliothèque de l'Université nationale de Taïwan) : *Extracorporeal membrane oxygenation: Clinical applications and prognosis projection* ; rapports annuels du département de chirurgie et de transplantation d'organes du NTU Hospital (publications officielles du NTU Hospital).
+Parcours médical : thèse de doctorat en médecine clinique de Ko Wen-je, NTU, 2002 (Bibliothèque de l'Université nationale de Taïwan) : _Extracorporeal membrane oxygenation: Clinical applications and prognosis projection_ ; rapports annuels du département de chirurgie et de transplantation d'organes du NTU Hospital (publications officielles du NTU Hospital).
 
 Couverture médiatique : [United Daily News — articles sur Ko Wen-je](https://udn.com) ; [Liberty Times — résultats de l'élection municipale de Taipei 2014](https://news.ltn.com.tw) ; [The Guardian — Taiwan's third-party candidate Ko Wen-je](https://www.theguardian.com) (reportage en anglais, source primaire).
 

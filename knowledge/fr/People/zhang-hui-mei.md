@@ -1,8 +1,16 @@
 ---
 title: 'Zhang Hui-mei (A-mei)'
-description: 'La reine de la pop mandophone issue du peuple Puyuma, l''une des artistes féminines les plus vendues de l''histoire de la musique chinoise, et figure emblématique du mouvement pour les droits LGBTQ+'
+description: "La reine de la pop mandophone issue du peuple Puyuma, l'une des artistes féminines les plus vendues de l'histoire de la musique chinoise, et figure emblématique du mouvement pour les droits LGBTQ+"
 date: 2026-03-19
-tags: ['musique', 'peuples autochtones', 'Puyuma', 'reine de la pop', 'droits LGBTQ+', 'pop mandophone']
+tags:
+  [
+    'musique',
+    'peuples autochtones',
+    'Puyuma',
+    'reine de la pop',
+    'droits LGBTQ+',
+    'pop mandophone',
+  ]
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 6
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/張惠妹.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b4205405eb50bfe0'
+translatedAt: '2026-04-14T19:14:57+08:00'
 ---
 
 # Zhang Hui-mei : Une voix qui transcende les frontières
@@ -18,13 +29,13 @@ Zhang Hui-mei (en langue amis : Kulilay Amit, anglais : A-mei), née en 1972 à 
 
 ## Des hauteurs de la tribu aux grandes scènes du monde
 
-Zhang Hui-mei a grandi au sein d'une famille musicale Puyuma, baignée dès l'enfance dans les chants traditionnels de sa culture. En 1996, la sortie de son premier album *Jiemei* (Sœurs) secoue le monde de la pop mandophone : ses chiffres de vente records et son impact immédiat sont sans précédent. Cet album lui offre une renommée instantanée et marque l'entrée dans l'âge d'or de la pop taïwanaise des années 1990.
+Zhang Hui-mei a grandi au sein d'une famille musicale Puyuma, baignée dès l'enfance dans les chants traditionnels de sa culture. En 1996, la sortie de son premier album _Jiemei_ (Sœurs) secoue le monde de la pop mandophone : ses chiffres de vente records et son impact immédiat sont sans précédent. Cet album lui offre une renommée instantanée et marque l'entrée dans l'âge d'or de la pop taïwanaise des années 1990.
 
 Sa réussite dépasse la seule dimension commerciale : elle a brisé les stéréotypes qui pesaient sur les peuples autochtones dans la société dominante. Zhang Hui-mei a démontré que ces peuples peuvent non seulement préserver leur héritage culturel, mais aussi briller sur la scène de la pop moderne — devenant ainsi un pont vivant entre tradition et modernité, entre communautés autochtones et société dans son ensemble.
 
 ## Une carrière musicale d'exception
 
-Sa discographie s'étend sur près de trente ans, avec plus de vingt albums studio et des ventes totales dépassant les cinquante millions d'exemplaires, ce qui en fait l'une des artistes féminines les plus vendues de la sphère mandophone. Parmi ses titres les plus emblématiques, on retiendra *Ting Hai* (Écouter la mer), *Jian Ai* (Couper l'amour), *San Tian San Ye* (Trois jours trois nuits) ou encore *Wo Keyi Bao Ni Ma* (Puis-je vous serrer dans mes bras ?), autant de classiques gravés dans la mémoire collective.
+Sa discographie s'étend sur près de trente ans, avec plus de vingt albums studio et des ventes totales dépassant les cinquante millions d'exemplaires, ce qui en fait l'une des artistes féminines les plus vendues de la sphère mandophone. Parmi ses titres les plus emblématiques, on retiendra _Ting Hai_ (Écouter la mer), _Jian Ai_ (Couper l'amour), _San Tian San Ye_ (Trois jours trois nuits) ou encore _Wo Keyi Bao Ni Ma_ (Puis-je vous serrer dans mes bras ?), autant de classiques gravés dans la mémoire collective.
 
 Ses concerts constituent eux aussi des jalons de la pop mandophone. Depuis ses premiers spectacles solo en 1999, chaque tournée génère son lot d'événements. En 2015, sa série de concerts « Utopia » au Taipei Small Dome a réuni vingt représentations consécutives à guichet fermé, établissant un record pour une artiste féminine mandophone. Son concert du Nouvel An 2019 a rassemblé des dizaines de milliers de spectateurs sur place, et des millions de téléspectateurs devant leurs écrans.
 

@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-04-03
-translatedFrom: 'Music/台灣國樂.md'
+translatedFrom: "Music/台灣國樂.md"
+sourceCommitSha: "5dfae94a"
+sourceContentHash: "sha256:0bcde4a3f239bc5d"
+translatedAt: "2026-04-15T17:36:15+08:00"
 ---
 
 # La musique nationale taïwanaise : des sons insulaires nés d'instruments chinois

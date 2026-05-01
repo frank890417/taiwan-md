@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/吳明益.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2244fabc33ee8056'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 > **30초 요약:** 1971년생 우밍이는 곤충 관찰자에서 문학 작가로 전향해, 2018년 《자전거 도둑》으로 대만 소설가 최초로 국제 맨부커상 후보에 올랐다. 《복안인》은 10여 개국에 판권이 팔렸고, 《천교 위의 마술사》는 인기 드라마로 제작됐다. 현재 국립동화대학교 중문문학과 교수로 재직하며 대만 자연 글쓰기와 생태 문학의 핵심 인물로 자리 잡고 있다.

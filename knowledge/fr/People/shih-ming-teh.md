@@ -2,7 +2,14 @@
 title: 'Shih Ming-teh'
 description: "Figure centrale de l'Incident de Formosa, pionnier de la démocratisation de Taïwan, prisonnier politique ayant passé 25 ans derrière les barreaux"
 date: 2026-03-19
-tags: ['mouvement démocratique', 'Incident de Formosa', 'prisonnier politique', 'Mouvement des chemises rouges', 'leader politique']
+tags:
+  [
+    'mouvement démocratique',
+    'Incident de Formosa',
+    'prisonnier politique',
+    'Mouvement des chemises rouges',
+    'leader politique',
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/施明德.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:04fdf466b4f03b64'
+translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 
 # Shih Ming-teh : un combattant indéfectible de la démocratie
@@ -26,11 +36,11 @@ En prison, loin de se soumettre à la rigueur de l'enfermement, Shih lit abondam
 
 À sa sortie de prison, Shih s'investit immédiatement dans le mouvement démocratique Tangwai (hors-parti). Dans la seconde moitié des années 1970, la pression conjointe de la scène internationale et des dissidences internes oblige le régime autoritaire à tolérer un espace d'action plus large pour les opposants. Shih devient l'un des organisateurs pivots de ce mouvement et milite activement pour la réforme démocratique.
 
-Il participe à la fondation de la revue *Formosa*, qui s'impose comme le principal organe de l'opposition politique. Rédigée sur un ton mesuré et rationnel, la revue plaide pour la démocratie tout en abordant des sujets alors tabous : réforme politique, droits de l'homme, tensions entre groupes ethniques.
+Il participe à la fondation de la revue _Formosa_, qui s'impose comme le principal organe de l'opposition politique. Rédigée sur un ton mesuré et rationnel, la revue plaide pour la démocratie tout en abordant des sujets alors tabous : réforme politique, droits de l'homme, tensions entre groupes ethniques.
 
 ## L'Incident de Formosa : un tournant dans l'histoire de Taïwan
 
-Le 10 décembre 1979, Journée internationale des droits de l'homme, la revue *Formosa* organise un rassemblement à Kaohsiung. La manifestation dégénère en violents affrontements entre la foule et les forces de l'ordre — c'est l'Incident de Formosa, ou Incident de Kaohsiung. Shih, l'un des cadres dirigeants de la revue, est considéré comme l'un des principaux organisateurs.
+Le 10 décembre 1979, Journée internationale des droits de l'homme, la revue _Formosa_ organise un rassemblement à Kaohsiung. La manifestation dégénère en violents affrontements entre la foule et les forces de l'ordre — c'est l'Incident de Formosa, ou Incident de Kaohsiung. Shih, l'un des cadres dirigeants de la revue, est considéré comme l'un des principaux organisateurs.
 
 Les arrestations se succèdent. Shih et ses co-inculpés sont poursuivis pour rébellion, sous la menace de la peine de mort. Lors du procès militaire, il fait preuve d'un courage remarquable : refusant de plaider coupable, il prend la parole devant le tribunal pour défendre ses idéaux démocratiques. Cette posture impressionne profondément l'opinion, et l'Incident de Formosa devient un moment charnière dans la démocratisation de Taïwan.
 
@@ -62,7 +72,7 @@ Sa contribution à la démocratie taïwanaise tient autant à ses sacrifices qu'
 
 Durant ses longues années d'emprisonnement, Shih compose de nombreux poèmes et textes en prose, témoignages intimes d'un prisonnier politique face à lui-même. Ces écrits carcéraux ont une valeur littéraire reconnue, et constituent en même temps un précieux document historique sur l'ère autoritaire à Taïwan.
 
-Ses mémoires, publiés sous le titre *Mémoires de Shih Ming-teh*, restituent avec précision les étapes clés du mouvement démocratique taïwanais et offrent une source de première main irremplaçable pour qui veut comprendre cette période. Son parcours intellectuel est aujourd'hui une référence incontournable pour les chercheurs qui étudient la transition politique de Taïwan.
+Ses mémoires, publiés sous le titre _Mémoires de Shih Ming-teh_, restituent avec précision les étapes clés du mouvement démocratique taïwanais et offrent une source de première main irremplaçable pour qui veut comprendre cette période. Son parcours intellectuel est aujourd'hui une référence incontournable pour les chercheurs qui étudient la transition politique de Taïwan.
 
 ## Une empreinte durable sur la démocratie taïwanaise
 

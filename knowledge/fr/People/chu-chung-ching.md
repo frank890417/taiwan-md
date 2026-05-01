@@ -2,7 +2,15 @@
 title: 'Chu Chung-ching — Le pionnier des percussions à Taïwan'
 description: 'Revenu de Vienne avec un diplôme en poche, il a transformé en quarante ans une discipline confidentielle en art populaire ancré dans toute la société taïwanaise'
 date: 2026-03-21
-tags: [personnalité, Chu Chung-ching, musicien, percussions, éducation, arts de la scène]
+tags:
+  [
+    personnalité,
+    Chu Chung-ching,
+    musicien,
+    percussions,
+    éducation,
+    arts de la scène,
+  ]
 subcategory: 'Arts et design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'People/朱宗慶.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9f25e4b33618c84b'
+translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 
 # Chu Chung-ching
@@ -74,9 +85,9 @@ Au-delà du Prix national des arts, Chu a été distingué par de nombreuses aut
 
 ## Créations transdisciplinaires et décloisonnement artistique
 
-Une autre contribution majeure de Chu est d'avoir fait dialoguer les percussions avec d'autres formes artistiques. Dès la fondation de l'ensemble en 1986, une collaboration avec le Cloud Gate Dance Theatre donne naissance à une version mémorable du ballet *Héritage* — une référence en matière de mariage entre musique et danse.
+Une autre contribution majeure de Chu est d'avoir fait dialoguer les percussions avec d'autres formes artistiques. Dès la fondation de l'ensemble en 1986, une collaboration avec le Cloud Gate Dance Theatre donne naissance à une version mémorable du ballet _Héritage_ — une référence en matière de mariage entre musique et danse.
 
-Par la suite, l'ensemble collabore régulièrement avec le Cloud Gate, le Lanling Theater, le Performance Workshop et d'autres grandes compagnies, créant une série d'œuvres transdisciplinaires. En 1989, *Lucioles*, réalisé avec le Lanling Theater, s'impose comme une étape marquante de l'histoire du théâtre taïwanais.
+Par la suite, l'ensemble collabore régulièrement avec le Cloud Gate, le Lanling Theater, le Performance Workshop et d'autres grandes compagnies, créant une série d'œuvres transdisciplinaires. En 1989, _Lucioles_, réalisé avec le Lanling Theater, s'impose comme une étape marquante de l'histoire du théâtre taïwanais.
 
 Chu s'associe aussi régulièrement à des musiciens de la scène pop — Lo Ta-yu, Li Tsung-sheng, Wu Bai, entre autres. Cette façon de faire tomber les frontières entre musique classique et musique populaire a permis à une nouvelle génération de découvrir les percussions, tout en insufflant une énergie nouvelle à une tradition musicale parfois perçue comme austère.
 

@@ -18,6 +18,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:753337c350d2acc3'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 아침 식당 아주머니와 동네 정보망

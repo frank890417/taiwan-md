@@ -2,7 +2,15 @@
 title: 'Koxinga : né au Japon, formé en Chine, mort à Taïwan à trente-sept ans'
 description: "Fils d'un pirate, d'ascendance sino-japonaise, il consacra seize ans à résister aux Qing, neuf mois à conquérir Taïwan, et cinq mois à y fonder un État — avant de mourir à trente-sept ans. Son nom est aujourd'hui revendiqué par quatre régimes différents."
 date: 2026-03-27
-tags: [Koxinga, dynastie Ming, Compagnie néerlandaise des Indes orientales, histoire de Taïwan, empire maritime, Fort Zeelandia]
+tags:
+  [
+    Koxinga,
+    dynastie Ming,
+    Compagnie néerlandaise des Indes orientales,
+    histoire de Taïwan,
+    empire maritime,
+    Fort Zeelandia,
+  ]
 subcategory: 'Figures historiques'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-27
 translatedFrom: 'People/鄭成功.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c09723b8f613b890'
+translatedAt: '2026-04-14T19:19:21+08:00'
 ---
 
 # Koxinga : né au Japon, formé en Chine, mort à Taïwan à trente-sept ans

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: true
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4725470c61019afd'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 대만의 하천 시스템과 수문 특성: 짧고 급한 물줄기와 계절 변화의 수문 지리

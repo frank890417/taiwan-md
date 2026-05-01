@@ -9,6 +9,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣花布.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:d3e93a783d8e2299'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Floral Fabric

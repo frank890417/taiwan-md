@@ -9,6 +9,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/林宥嘉.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ff4d0a0deab286ca'
+translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 
 > **30초 요약:**

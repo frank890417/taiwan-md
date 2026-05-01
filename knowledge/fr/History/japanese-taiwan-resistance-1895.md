@@ -19,7 +19,10 @@ featured: true
 author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 lastHumanReview: false
-translatedFrom: History/乙未之役.md
+translatedFrom: 'History/乙未之役.md'
+sourceCommitSha: '9a2361b6'
+sourceContentHash: 'sha256:fc7bac7e7a555233'
+translatedAt: '2026-04-14T12:32:06+08:00'
 ---
 
 # La République de Formose : 148 jours de résistance (1895)
@@ -50,12 +53,12 @@ Le gouverneur de Taïwan, Tang Jingsong, avait pourtant protesté avant la signa
 
 ## La République : un président de dix jours
 
-Le 23 mai, les notables et fonctionnaires de Taipei décident de proclamer la « République démocratique de Taïwan ». Formellement, il s'agit d'une déclaration d'indépendance — mais le nom d'ère choisi, *Yongqing*, signifie « appartenir éternellement aux Qing »[^5]. Cette contradiction est inscrite dans les fondements mêmes de l'État, dès le premier jour.
+Le 23 mai, les notables et fonctionnaires de Taipei décident de proclamer la « République démocratique de Taïwan ». Formellement, il s'agit d'une déclaration d'indépendance — mais le nom d'ère choisi, _Yongqing_, signifie « appartenir éternellement aux Qing »[^5]. Cette contradiction est inscrite dans les fondements mêmes de l'État, dès le premier jour.
 
 Le 25 mai, Tang Jingsong prend ses fonctions de grand président. Le drapeau de la République est un fond bleu orné d'un tigre jaune. La République émet des timbres-poste et adopte un hymne. Certains la présentent comme « la première république d'Asie »[^6].
 
 > **📝 Note de commissariat**
-> L'affirmation « première république d'Asie » est contestée. La République de Lanfang, fondée à Bornéo en 1777, lui est antérieure d'un siècle. Mais la question de la priorité est moins importante que celle de la nature même de cet État : la « démocratie » de la République — pour qui était-elle ? Tang Jingsong était un gouverneur nommé par les Qing, non un président élu. Le nom d'ère *Yongqing* dit tout : il ne s'agissait pas d'un mouvement d'indépendance, mais d'une manœuvre politique habillée en « république » pour bloquer la prise de contrôle japonaise et espérer une intervention internationale[^7].
+> L'affirmation « première république d'Asie » est contestée. La République de Lanfang, fondée à Bornéo en 1777, lui est antérieure d'un siècle. Mais la question de la priorité est moins importante que celle de la nature même de cet État : la « démocratie » de la République — pour qui était-elle ? Tang Jingsong était un gouverneur nommé par les Qing, non un président élu. Le nom d'ère _Yongqing_ dit tout : il ne s'agissait pas d'un mouvement d'indépendance, mais d'une manœuvre politique habillée en « république » pour bloquer la prise de contrôle japonaise et espérer une intervention internationale[^7].
 
 Le 29 mai, les troupes japonaises débarquent à Audi, dans le nord-est de l'île[^8]. Le 3 juin, elles s'emparent de Jilong (Keelung). Tang Jingsong comprend que la situation est sans issue. Dans la nuit du 4 juin, il se déguise en vieille femme et s'embarque sur un navire marchand allemand pour Xiamen. Il aura été président dix jours[^9].
 
@@ -100,11 +103,11 @@ Ce drapeau au tigre jaune sur fond bleu est aujourd'hui conservé au Musée nati
 
 Qiu Fengjia s'est établi dans le Guangdong, a fondé des écoles, et est devenu un réformateur de l'éducation à la fin des Qing. Après la révolution de 1911, il a occupé le poste de directeur de l'Éducation du Guangdong. Il n'est jamais retourné à Taïwan[^21].
 
-James W. Davidson, consul américain à Tamsui, a été témoin de toute la trajectoire de la République de Formose et en a tiré *The Island of Formosa, Past and Present* (1903), le témoignage direct en anglais le plus complet sur cette période[^22].
+James W. Davidson, consul américain à Tamsui, a été témoin de toute la trajectoire de la République de Formose et en a tiré _The Island of Formosa, Past and Present_ (1903), le témoignage direct en anglais le plus complet sur cette période[^22].
 
 ---
 
-Le nom d'ère de la République démocratique de Taïwan était *Yongqing* — « appartenir éternellement aux Qing ». Une république portant le nom d'un empire. Le président s'est enfui. Le poète s'est enfui. Le général s'est enfui.
+Le nom d'ère de la République démocratique de Taïwan était _Yongqing_ — « appartenir éternellement aux Qing ». Une république portant le nom d'un empire. Le président s'est enfui. Le poète s'est enfui. Le général s'est enfui.
 
 Ce qui est resté, c'est un adolescent hakka de dix-neuf ans, et les quatre vers qu'il a écrits en prison.
 
@@ -129,11 +132,11 @@ Le drapeau au tigre jaune se trouve derrière une vitre dans un musée. Il est s
 
 [^4]: [Qiu Fengjia, Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E4%B8%98%E9%80%A2%E7%94%B2) — Le lettré taïwanais Qiu Fengjia organise à Pékin une pétition collective contre la cession. « Le chancelier a le pouvoir de céder des terres ; un humble serviteur n'a pas la force de renverser le Ciel » est extrait de son poème de départ de Taïwan.
 
-[^5]: [Republic of Formosa, Wikipedia (en)](https://en.wikipedia.org/wiki/Republic_of_Formosa) — Fondée le 23 mai 1895. Le nom d'ère *Yongqing* signifie « appartenir éternellement aux Qing ». Le drapeau est un fond bleu avec un tigre jaune. Contient les circonstances de la fondation, les réactions internationales et la dissolution.
+[^5]: [Republic of Formosa, Wikipedia (en)](https://en.wikipedia.org/wiki/Republic_of_Formosa) — Fondée le 23 mai 1895. Le nom d'ère _Yongqing_ signifie « appartenir éternellement aux Qing ». Le drapeau est un fond bleu avec un tigre jaune. Contient les circonstances de la fondation, les réactions internationales et la dissolution.
 
 [^6]: [Même source, Republic of Formosa, Wikipedia (en)](https://en.wikipedia.org/wiki/Republic_of_Formosa) — La République émet des timbres et adopte un hymne. L'affirmation « première république d'Asie » est contestée (la République de Lanfang, 1777, est antérieure).
 
-[^7]: [République démocratique de Taïwan, Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E4%B8%BB%E5%9C%8B) — Le nom d'ère *Yongqing* révèle que la fondation visait non l'indépendance mais à bloquer la prise de contrôle japonaise et à espérer une intervention internationale. Tang Jingsong était un gouverneur nommé par les Qing, non un élu.
+[^7]: [République démocratique de Taïwan, Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%B0%91%E4%B8%BB%E5%9C%8B) — Le nom d'ère _Yongqing_ révèle que la fondation visait non l'indépendance mais à bloquer la prise de contrôle japonaise et à espérer une intervention internationale. Tang Jingsong était un gouverneur nommé par les Qing, non un élu.
 
 [^8]: [Japanese invasion of Taiwan (1895), Wikipedia (en)](<https://en.wikipedia.org/wiki/Japanese_invasion_of_Taiwan_(1895)>) — Débarquement japonais à Audi le 29 mai, prise de Jilong le 3 juin. Chronologie complète de la campagne et données sur les pertes.
 
@@ -141,7 +144,7 @@ Le drapeau au tigre jaune se trouve derrière une vitre dans un musée. Il est s
 
 [^10]: [Même source, Qiu Fengjia, Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E4%B8%98%E9%80%A2%E7%94%B2) — Quitte Taïwan le 8 juin avec sa famille. L'affirmation selon laquelle il emporterait cent mille taels est débattue, mais son départ est avéré.
 
-[^11]: [Davidson, James W. *The Island of Formosa, Past and Present* (1903)](https://archive.org/details/islandofformosap00davi) — Témoignage direct du consul américain à Tamsui, présent durant toute la trajectoire de la République. Décrit les trois jours d'anarchie à Taipei. Texte intégral disponible sur Internet Archive.
+[^11]: [Davidson, James W. _The Island of Formosa, Past and Present_ (1903)](https://archive.org/details/islandofformosap00davi) — Témoignage direct du consul américain à Tamsui, présent durant toute la trajectoire de la République. Décrit les trois jours d'anarchie à Taipei. Texte intégral disponible sur Internet Archive.
 
 [^12]: [Gu Xianrong, Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%BE%9C%E9%A1%AF%E6%A6%AE) — Le marchand Gu Xianrong de Dadaocheng et le notable Chen Fa d'Artù sortent de la ville pour accueillir l'armée japonaise et ouvrent les portes de Taipei. Il devient ensuite l'un des Taïwanais les plus influents de l'ère coloniale.
 

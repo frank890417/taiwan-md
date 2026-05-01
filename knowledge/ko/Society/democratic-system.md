@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Society/民主制度.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:3d52222ebbb25430'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 민주주의 제도

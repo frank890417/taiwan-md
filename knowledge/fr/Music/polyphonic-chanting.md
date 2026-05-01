@@ -1,8 +1,16 @@
 ---
-title: 'Le chant polyphonique Pasibutbut : un fossile vivant qui défie l''histoire occidentale de la musique'
-description: 'En 1943, le musicologue japonais Kurosawa Takatomo enregistre dans les montagnes de Taitung le Pasibutbut du peuple Bunun. Neuf ans plus tard, cet enregistrement parvient à l''UNESCO et stupéfie le monde académique : un peuple sans écriture avait développé une polyphonie chorale que l''Occident croyait réservée aux civilisations avancées.'
+title: "Le chant polyphonique Pasibutbut : un fossile vivant qui défie l'histoire occidentale de la musique"
+description: "En 1943, le musicologue japonais Kurosawa Takatomo enregistre dans les montagnes de Taitung le Pasibutbut du peuple Bunun. Neuf ans plus tard, cet enregistrement parvient à l'UNESCO et stupéfie le monde académique : un peuple sans écriture avait développé une polyphonie chorale que l'Occident croyait réservée aux civilisations avancées."
 date: 2026-04-01
-tags: ['peuple Bunun', 'musique autochtone', 'peuples autochtones', 'harmoniques', 'patrimoine culturel immatériel', 'culture de Taïwan']
+tags:
+  [
+    'peuple Bunun',
+    'musique autochtone',
+    'peuples autochtones',
+    'harmoniques',
+    'patrimoine culturel immatériel',
+    'culture de Taïwan',
+  ]
 subcategory: 'Musiques traditionnelles et ethniques'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
@@ -13,6 +21,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bunun_pasibutb
 imageAlt: 'Des membres du peuple Bunun interprétant le chant des huit voix'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Music/八部合音.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:10556895c89da74d'
+translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 
 > **En 30 secondes :** En 1943, le musicologue japonais Kurosawa Takatomo s'enfonce dans le village de Kanding, à Taitung, avec son matériel d'enregistrement. Il capture le Pasibutbut, chant de prière pour la récolte du millet du peuple Bunun. Neuf ans plus tard, cet enregistrement arrive à l'UNESCO. Les musicologues présents n'en reviennent pas : la théorie occidentale voulait que la polyphonie chorale soit le fruit d'une civilisation développée — or les Bunun, sans écriture ni instrument, au fond de leurs montagnes, l'avaient accomplie avec leurs seules voix. Ce son, qu'on appelle désormais le « chant des huit voix », demeure à ce jour l'une des expressions culturelles taïwanaises les plus reconnues à l'international.
@@ -31,12 +42,12 @@ Musicalement, le Pasibutbut ne compte que quatre voix (parfois cinq) : la basse 
 
 > **📝 Note de curation :** Cette technique de production collective d'harmoniques n'est pas sans rappeler le khöömii mongol — mais le khöömii est un art solitaire, là où les Bunun atteignent ce résultat en chœur. La difficulté n'est pas du tout la même.
 
-| Voix | Nom en langue Bunun | Fonction |
-| ---- | ------------------- | -------- |
-| Basse | Mahalngal | Fondation sonore, résonance tellurique |
-| Médium | Manda | Remplit l'espace, épaissit l'harmonie |
-| Aigu | Bondada | Mélodie principale ascendante, symbole de la croissance du millet |
-| Harmoniques | (Overtones) | Voix virtuelles nées de la résonance physique |
+| Voix        | Nom en langue Bunun | Fonction                                                          |
+| ----------- | ------------------- | ----------------------------------------------------------------- |
+| Basse       | Mahalngal           | Fondation sonore, résonance tellurique                            |
+| Médium      | Manda               | Remplit l'espace, épaissit l'harmonie                             |
+| Aigu        | Bondada             | Mélodie principale ascendante, symbole de la croissance du millet |
+| Harmoniques | (Overtones)         | Voix virtuelles nées de la résonance physique                     |
 
 Dans leurs montagnes isolées, les Bunun ont façonné cette pratique pendant des millénaires, en imitant les chutes d'eau, les abeilles, le vent — et en la transmettant de génération en génération[^6].
 
@@ -68,7 +79,7 @@ En 1943, quand Kurosawa Takatomo a appuyé sur le bouton d'enregistrement, il ne
 
 [^1]: Wang Ying-fen, [« Entendre la colonie : Kurosawa Takatomo et l'enquête musicale de Taïwan en temps de guerre (1943) »](https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclresource&s=id=%22SA10000019079%22.&searchmode=basic&tcihsspage=tcisearch_opt1_search), Bibliothèque nationale de Taïwan, 2008
 
-[^2]: Kurosawa Takatomo, [*Musique des peuples autochtones de Formose*](https://www.books.com.tw/products/0010430882), Victor Records, 1974
+[^2]: Kurosawa Takatomo, [_Musique des peuples autochtones de Formose_](https://www.books.com.tw/products/0010430882), Victor Records, 1974
 
 [^3]: Wang Ying-fen, [« L'enquête musicale de Kurosawa Takatomo sur les peuples autochtones de Taïwan »](https://www.ntl.edu.tw/public/Attachment/9102615522190.pdf), Institut de musicologie de l'Université nationale de Taïwan, 2008
 

@@ -2,7 +2,14 @@
 title: 'Activité tectonique et sismique à Taïwan'
 description: "Une exploration de la géologie de Taïwan, située à la jonction des plaques eurasienne et philippine, et des raisons qui font de cette île l'une des zones sismiques les plus actives du monde"
 date: 2026-03-18
-tags: ['géologie', 'tectonique des plaques', 'séismes', 'failles actives', 'catastrophes naturelles']
+tags:
+  [
+    'géologie',
+    'tectonique des plaques',
+    'séismes',
+    'failles actives',
+    'catastrophes naturelles',
+  ]
 subcategory: 'Relief et géologie'
 category: 'Geography'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b3e3292798f3bf59'
+translatedAt: '2026-04-15T17:33:26+08:00'
 ---
 
 # Activité tectonique et sismique à Taïwan
@@ -153,7 +163,7 @@ L'activité tectonique et sismique de Taïwan est un domaine de recherche en con
 4. Institut des sciences de la Terre, Academia Sinica — [Recherches sur l'activité sismique et la tectonique de Taïwan](https://www.earth.sinica.edu.tw/)
 5. Institut national de recherche, Laboratoire national de recherche en ingénierie sismique — [NCREE](https://www.ncree.narl.org.tw/)
 6. Agence de construction et de planification, Ministère de l'Intérieur — Plan de délimitation des zones géologiques sensibles aux failles actives
-7. Public Television Service, émission *Our Island* — Série de reportages sur le suivi des zones de faille
+7. Public Television Service, émission _Our Island_ — Série de reportages sur le suivi des zones de faille
 8. Centre de recherche sismologique de Taïwan — [Rapports de recherche sismologique](https://tec.earth.sinica.edu.tw/)
 9. Geological Society of Taiwan — [Recueil d'articles de recherche géologique sur Taïwan](https://www.gst.org.tw/)
 10. Conseil de prévention et de secours en cas de catastrophe, Yuan exécutif — Plan opérationnel de prévention des catastrophes sismiques

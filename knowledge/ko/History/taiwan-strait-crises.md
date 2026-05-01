@@ -10,6 +10,9 @@ featured: false
 lastVerified: 2026-03-25
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/台海危機與兩岸關係發展.md'
+sourceCommitSha: '89c6015e'
+sourceContentHash: 'sha256:cff96f2b8cf87a1f'
+translatedAt: '2026-04-14T04:54:47+08:00'
 ---
 
 # 타이완 해협 위기와 양안 관계 발전

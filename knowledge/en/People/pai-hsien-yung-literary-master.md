@@ -17,6 +17,9 @@ category: 'People'
 lastVerified: 2026-03-19
 featured: true
 translatedFrom: 'People/白先勇.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:183a7b2c5ae7a688'
+translatedAt: '2026-05-01T14:43:46+08:00'
 ---
 
 # Pai Hsien-yung (白先勇): The Eternal Pursuer of Modern Literature

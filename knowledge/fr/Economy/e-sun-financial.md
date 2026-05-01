@@ -8,7 +8,10 @@ category: 'Economy'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：玉山金控.md'
+translatedFrom: "Economy/台灣企業：玉山金控.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:36f7111132b226f6"
+translatedAt: "2026-04-14T19:20:58+08:00"
 ---
 
 > **En 30 secondes :** Fondée en 1992 comme première banque taïwanaise exclusivement dédiée aux cartes de crédit, E.SUN Financial Holdings a connu un tournant majeur en 2008 lorsque Huang Nan-chou, 43 ans, en est devenu le plus jeune directeur général de l'histoire du secteur financier taïwanais. Sous sa direction, E.SUN s'est transformée en pionnière de la finance numérique. En 2024, ses actifs atteignent 2 800 milliards de TWD, ce qui en fait le troisième groupe financier privé de Taïwan — et la marque bancaire la plus valorisée de l'île selon Brand Finance, plusieurs années de suite.
@@ -43,7 +46,7 @@ La logique de Huang Nan-chou était simple : « Mieux vaut redéfinir les règle
 
 ## Le positionnement qui fait la différence : la « banker's bank »
 
-E.SUN aime se décrire comme une *banker's bank* — non pas au sens où elle ne servirait que des professionnels de la finance, mais au sens où elle applique à chaque client les exigences de rigueur que les banquiers s'imposent à eux-mêmes.
+E.SUN aime se décrire comme une _banker's bank_ — non pas au sens où elle ne servirait que des professionnels de la finance, mais au sens où elle applique à chaque client les exigences de rigueur que les banquiers s'imposent à eux-mêmes.
 
 Ce positionnement se traduit dans des détails concrets. Pour les cartes de crédit, par exemple : quand ses concurrents utilisaient encore des formulaires papier et des traitements manuels, E.SUN intégrait dès l'an 2000 des algorithmes d'évaluation du risque de crédit, réduisant considérablement les délais d'approbation.
 
@@ -53,13 +56,13 @@ Même soin du détail dans la conception des agences : E.SUN a analysé en profo
 
 À fin 2024, E.SUN affiche des résultats solides :
 
-| Indicateur | Chiffre |
-|---|---|
-| Total des actifs | 2 800 milliards TWD (3e groupe privé) |
-| Bénéfice net | 20,88 milliards TWD (3 premiers trimestres 2024, +31,5 % sur un an) |
-| Comptes numériques | Plus de 1,2 million |
-| Présence internationale | 9 pays et territoires |
-| Effectifs | Environ 14 500 personnes |
+| Indicateur              | Chiffre                                                             |
+| ----------------------- | ------------------------------------------------------------------- |
+| Total des actifs        | 2 800 milliards TWD (3e groupe privé)                               |
+| Bénéfice net            | 20,88 milliards TWD (3 premiers trimestres 2024, +31,5 % sur un an) |
+| Comptes numériques      | Plus de 1,2 million                                                 |
+| Présence internationale | 9 pays et territoires                                               |
+| Effectifs               | Environ 14 500 personnes                                            |
 
 Mais au-delà des chiffres, c'est la valeur de marque qui mérite attention. Brand Finance a plusieurs fois couronné E.SUN marque bancaire la plus valorisée de Taïwan — une reconnaissance qui tient autant à l'expérience client qu'aux résultats financiers.
 

@@ -7,6 +7,9 @@ category: 'About'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:62ec81a90f901dec'
+translatedAt: '2026-04-14T11:06:19+08:00'
 ---
 
 # 왜 대만은 자체 지식 기반이 필요한가

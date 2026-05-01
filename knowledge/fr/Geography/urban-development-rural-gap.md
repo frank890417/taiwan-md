@@ -11,7 +11,10 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
+translatedFrom: "Geography/台灣都市發展與城鄉差距.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:abb1bddb60e0e0c6"
+translatedAt: "2026-04-15T17:33:45+08:00"
 ---
 
 # Développement urbain et fracture ville-campagne à Taïwan

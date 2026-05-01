@@ -18,6 +18,9 @@ readingTime: 15
 featured: true
 translatedFrom: 'Technology/半導體產業.md'
 lastVerified: 2026-03-21
+sourceCommitSha: '6c11ef53'
+sourceContentHash: 'sha256:af4fb282e9cb0e30'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 # 반도체 산업

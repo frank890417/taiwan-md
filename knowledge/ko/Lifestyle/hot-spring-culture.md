@@ -19,6 +19,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 lastVerified: 2026-03-22
 translatedFrom: 'Lifestyle/溫泉文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5c053dd9110acc9b'
+translatedAt: '2026-04-14T04:41:25+08:00'
 ---
 
 # 온천 문화: 전쟁의 상처에서 힐링 제국으로

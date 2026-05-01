@@ -12,6 +12,9 @@ tags:
   ]
 status: 'completo'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692543a60baf3299'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 ## Una Potencia Creativa en Asia Oriental

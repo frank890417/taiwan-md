@@ -1,8 +1,16 @@
 ---
 title: 'Les deux visages de la route Shengli : mémoires du camp militaire de Hukou'
-description: 'Le long de la route Shengli, à Hukou dans le comté de Hsinchu, un mur de camp militaire sépare deux mondes : d''un côté, des chars d''assaut et des tempêtes politiques ; de l''autre, des maisons civiles, une coopérative de consommation et un cinéma depuis disparu. Voici une histoire locale tissée de voisinage, d''accidents et de luttes pour la justice.'
+description: "Le long de la route Shengli, à Hukou dans le comté de Hsinchu, un mur de camp militaire sépare deux mondes : d'un côté, des chars d'assaut et des tempêtes politiques ; de l'autre, des maisons civiles, une coopérative de consommation et un cinéma depuis disparu. Voici une histoire locale tissée de voisinage, d'accidents et de luttes pour la justice."
 date: 2026-03-24
-tags: ['incident de Hukou', 'camp militaire de Hukou', 'route Shengli', 'affaire Hong Zhongqiu', 'troupes Starlight', 'mémoire locale']
+tags:
+  [
+    'incident de Hukou',
+    'camp militaire de Hukou',
+    'route Shengli',
+    'affaire Hong Zhongqiu',
+    'troupes Starlight',
+    'mémoire locale',
+  ]
 subcategory: 'Histoire militaire'
 category: 'History'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +19,9 @@ featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:24a72a8ef4ad1c70'
+translatedAt: '2026-04-14T12:31:57+08:00'
 ---
 
 # Les deux visages de la route Shengli : mémoires du camp militaire de Hukou

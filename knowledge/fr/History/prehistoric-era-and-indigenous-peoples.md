@@ -8,9 +8,12 @@ category: 'History'
 author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: true
-translatedFrom: 'History/史前時代與原住民.md'
+translatedFrom: "History/史前時代與原住民.md"
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:eba099f97dfd72b7"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 # L'ère préhistorique et les peuples autochtones de Taïwan

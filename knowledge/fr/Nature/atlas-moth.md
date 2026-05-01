@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Nature/台灣皇蛾.md'
+translatedFrom: "Nature/台灣皇蛾.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:04090b613f5ed578"
+translatedAt: "2026-04-14T19:22:44+08:00"
 ---
 
 # Le Grand Paon de Taïwan : le plus grand papillon de nuit au monde, une légende aux ailes géantes qui ne se nourrit jamais
@@ -132,4 +135,4 @@ Protéger l'_Attacus atlas_, c'est protéger les écosystèmes de piémont de Ta
 
 ---
 
-_L'histoire de l'_Attacus atlas_ nous rappelle qu'en ce monde en mutation accélérée, certaines beautés s'effacent en silence. Chaque rencontre dans la forêt pourrait être la dernière. Le protéger, c'est protéger notre propre demeure._
+_L'histoire de l'\_Attacus atlas_ nous rappelle qu'en ce monde en mutation accélérée, certaines beautés s'effacent en silence. Chaque rencontre dans la forêt pourrait être la dernière. Le protéger, c'est protéger notre propre demeure.\_

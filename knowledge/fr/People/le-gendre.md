@@ -17,22 +17,25 @@ author: Taiwan.md Translation Team
 readingTime: 12
 featured: true
 lastVerified: 2026-04-12
-translatedFrom: People/李仙得.md
+translatedFrom: 'People/李仙得.md'
+sourceCommitSha: '489c8413'
+sourceContentHash: 'sha256:b35bf2bd112055a5'
+translatedAt: '2026-04-14T19:15:26+08:00'
 ---
 
 # Charles Le Gendre : le même homme a signé la paix et vendu les secrets
 
-> **En 30 secondes :** Charles W. Le Gendre (1830-1899), diplomate franco-américain, vétéran de la guerre de Sécession, perd l'œil gauche à Gettysburg. Consul américain à Xiamen de 1866 à 1872, il visite Formose à huit reprises et conclut avec le chef Paiwan Tauketok le « Traité du Cap Sud » (南岬之盟). Après avoir quitté ses fonctions consulaires, il entre au service du gouvernement japonais et met sa connaissance de Taïwan au service de la planification de l'expédition de 1874. Il laisse derrière lui 1 600 pages de manuscrits et 200 illustrations — ses *Notes of Travel in Formosa* — que l'on ne publiera qu'un siècle et trente-sept ans après leur rédaction.
+> **En 30 secondes :** Charles W. Le Gendre (1830-1899), diplomate franco-américain, vétéran de la guerre de Sécession, perd l'œil gauche à Gettysburg. Consul américain à Xiamen de 1866 à 1872, il visite Formose à huit reprises et conclut avec le chef Paiwan Tauketok le « Traité du Cap Sud » (南岬之盟). Après avoir quitté ses fonctions consulaires, il entre au service du gouvernement japonais et met sa connaissance de Taïwan au service de la planification de l'expédition de 1874. Il laisse derrière lui 1 600 pages de manuscrits et 200 illustrations — ses _Notes of Travel in Formosa_ — que l'on ne publiera qu'un siècle et trente-sept ans après leur rédaction.
 
 ---
 
 ## Le naufrage du Rover
 
-Le 12 mars 1867, le navire marchand américain *Rover* fait route de Shantou vers Newchwang lorsqu'il s'échoue au large de Langqiao, à la pointe sud de la péninsule de Hengchun[^1]. Le capitaine Joseph W. Hunt, son épouse Mercy et plusieurs membres d'équipage débarquent sur une côte qui appartient au territoire des Paiwan du village de Kulaljuc.
+Le 12 mars 1867, le navire marchand américain _Rover_ fait route de Shantou vers Newchwang lorsqu'il s'échoue au large de Langqiao, à la pointe sud de la péninsule de Hengchun[^1]. Le capitaine Joseph W. Hunt, son épouse Mercy et plusieurs membres d'équipage débarquent sur une côte qui appartient au territoire des Paiwan du village de Kulaljuc.
 
 Quatorze personnes sont tuées. Un seul matelot — originaire du Guangdong — parvient à s'échapper et porte la nouvelle jusqu'à Dagou (aujourd'hui Kaohsiung).
 
-La nouvelle parvient à Xiamen. Le consul américain Charles Le Gendre monte aussitôt à Fuzhou pour interpeller le gouverneur général du Fujian-Zhejiang. La réponse des autorités Qing est sans ambiguïté : ce territoire est celui des « sauvages », il ne relève pas de leur juridiction[^2]. La marine américaine tente alors une intervention militaire : le USS *Hartford* débarque 181 hommes, qui sont repoussés par les Paiwan ; le commandant Alexander MacKenzie est tué dans l'engagement[^3].
+La nouvelle parvient à Xiamen. Le consul américain Charles Le Gendre monte aussitôt à Fuzhou pour interpeller le gouverneur général du Fujian-Zhejiang. La réponse des autorités Qing est sans ambiguïté : ce territoire est celui des « sauvages », il ne relève pas de leur juridiction[^2]. La marine américaine tente alors une intervention militaire : le USS _Hartford_ débarque 181 hommes, qui sont repoussés par les Paiwan ; le commandant Alexander MacKenzie est tué dans l'engagement[^3].
 
 Les canons n'ont pas suffi. Le gouvernement ne veut pas s'en mêler. Le Gendre décide d'y aller lui-même.
 
@@ -71,7 +74,7 @@ En 1874, le Japon débarque à Taïwan. Trois mille six cents soldats attaquent 
 
 ## 1 600 pages de manuscrits, 137 ans d'attente
 
-Vers 1875, Le Gendre achève un manuscrit monumental : *Notes of Travel in Formosa*. Seize cents pages de texte, complétées par près de deux cents cartes, photographies, croquis et peintures[^12].
+Vers 1875, Le Gendre achève un manuscrit monumental : _Notes of Travel in Formosa_. Seize cents pages de texte, complétées par près de deux cents cartes, photographies, croquis et peintures[^12].
 
 L'ouvrage couvre cinq domaines : l'histoire naturelle à travers le prisme de la géologie, l'histoire de la colonisation hollandaise, les relations entre la dynastie Qing et les puissances occidentales, l'ethnologie et la linguistique des peuples austronésiens, et enfin les potentiels économiques et commerciaux de l'île[^13]. Sa motivation première était très probablement de fournir au gouvernement Meiji « un dossier de renseignements pour l'annexion de Taïwan »[^14]. Une fois achevé, le manuscrit fut remis à son supérieur hiérarchique, Ōkubo Toshimichi.
 
@@ -79,7 +82,7 @@ Ce manuscrit ne sera jamais publié du vivant de son auteur. L'original est cons
 
 Plus de cent trente ans plus tard, Douglas L. Fix, professeur d'histoire au Reed College de Portland, Oregon, découvre ce manuscrit à la Bibliothèque du Congrès en 1991-1992. En 1999, il entame une collaboration formelle avec John Shufelt, maître de conférences en littérature anglaise à l'Université Tunghai, avec le soutien financier de la Fondation Chi Mei ; ensemble, ils se rendent aux États-Unis, au Japon et au Royaume-Uni pour recouper les versions américaine et japonaise du manuscrit[^16].
 
-Shufelt a déclaré dans un entretien accordé au *Reporter* : « Je ne peux pas dire simplement qu'il était impérialiste ou humaniste. Il est bien plus complexe que ça. »[^17]
+Shufelt a déclaré dans un entretien accordé au _Reporter_ : « Je ne peux pas dire simplement qu'il était impérialiste ou humaniste. Il est bien plus complexe que ça. »[^17]
 
 Les annotations sont finalisées en 2005. L'édition anglaise paraît en 2012, la version chinoise en 2013, toutes deux publiées par le Musée national d'histoire de Taïwan. Entre l'achèvement du manuscrit et sa publication officielle : 137 ans.
 
@@ -88,13 +91,13 @@ Les annotations sont finalisées en 2005. L'édition anglaise paraît en 2012, l
 
 ## SEQALU
 
-Le 14 août 2021, la série historique *SEQALU : Formosa 1867* (斯卡羅), produite par la télévision publique taïwanaise PTS pour un budget dépassant 155 millions de dollars taïwanais, est diffusée pour la première fois[^18]. Adaptée du roman *Puppet Flower* (傀儡花, Prix d'or de la littérature taïwanaise 2016) du médecin et romancier Chen Yao-chang, la série prend pour cadre l'incident du Rover de 1867 et le Traité du Cap Sud.
+Le 14 août 2021, la série historique _SEQALU : Formosa 1867_ (斯卡羅), produite par la télévision publique taïwanaise PTS pour un budget dépassant 155 millions de dollars taïwanais, est diffusée pour la première fois[^18]. Adaptée du roman _Puppet Flower_ (傀儡花, Prix d'or de la littérature taïwanaise 2016) du médecin et romancier Chen Yao-chang, la série prend pour cadre l'incident du Rover de 1867 et le Traité du Cap Sud.
 
 Le titre d'origine, tiré du roman, a été modifié car le terme « puppet » (傀儡) véhicule une connotation péjorative à l'égard des peuples autochtones. La série compte 12 épisodes, mobilisant plus de 6 000 figurants[^19]. Elle remporte le Golden Bell Award en 2022. L'acteur Paiwan Pazik Falawlaw, qui incarnait Tauketok, reçoit un diagnostic de cancer du poumon après le tournage et décède le 19 décembre 2021[^20].
 
 Le réalisateur Tsao Jui-yuan déclare : « SEQALU n'est pas une conclusion — c'est un point de départ. Les Taïwanais devraient s'appuyer sur cette série pour redécouvrir les histoires qui se sont déroulées sur leur propre terre. »[^21]
 
-Le Gendre est l'un des personnages centraux de la série. Mais ce qui importe davantage, c'est que Tauketok y passe enfin du second plan au premier rôle. Dans le manuscrit de Le Gendre, Tauketok est « un chef qu'il faut convaincre ». Dans *SEQALU*, il est un dirigeant qui protège son peuple dans les interstices des empires. Un même événement — tout dépend de qui tient la plume.
+Le Gendre est l'un des personnages centraux de la série. Mais ce qui importe davantage, c'est que Tauketok y passe enfin du second plan au premier rôle. Dans le manuscrit de Le Gendre, Tauketok est « un chef qu'il faut convaincre ». Dans _SEQALU_, il est un dirigeant qui protège son peuple dans les interstices des empires. Un même événement — tout dépend de qui tient la plume.
 
 ## Après Taïwan
 
@@ -119,11 +122,11 @@ L'homme qui a conclu le Traité du Cap Sud et celui qui a livré les secrets de 
 
 ## Références
 
-[^1]: [Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le 12 mars 1867, le navire américain *Rover* s'échoue. Le capitaine Hunt, son épouse et 14 personnes sont tués par les Paiwan du village de Kulaljuc. Un seul matelot originaire du Guangdong s'échappe.
+[^1]: [Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le 12 mars 1867, le navire américain _Rover_ s'échoue. Le capitaine Hunt, son épouse et 14 personnes sont tués par les Paiwan du village de Kulaljuc. Un seul matelot originaire du Guangdong s'échappe.
 
 [^2]: [ibid., Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — En avril, Le Gendre se rend à Fuzhou pour exiger l'intervention du gouverneur général du Fujian-Zhejiang, qui refuse au motif que le territoire relève des « sauvages » et échappe à sa juridiction.
 
-[^3]: [ibid., Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le USS *Hartford* débarque 181 hommes, repoussés par les Paiwan ; le commandant Alexander S. MacKenzie est tué au combat. L'intervention militaire américaine échoue.
+[^3]: [ibid., Rover incident, Wikipedia](https://en.wikipedia.org/wiki/Rover_incident) — Le USS _Hartford_ débarque 181 hommes, repoussés par les Paiwan ; le commandant Alexander S. MacKenzie est tué au combat. L'intervention militaire américaine échoue.
 
 [^4]: [Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Né en 1830 à Oullins (France), fils du peintre et graveur Jean-François Legendre-Héral. Études à Paris, émigration aux États-Unis, engagement dans l'armée de l'Union en 1861.
 
@@ -141,7 +144,7 @@ L'homme qui a conclu le Traité du Cap Sud et celui qui a livré les secrets de 
 
 [^11]: [ibid., Expédition de Formose 1874, Wikipédia](https://zh.wikipedia.org/wiki/%E7%89%A1%E4%B8%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — En 1874, le Japon lance une expédition de 3 600 hommes contre les villages Paiwan de la péninsule de Hengchun. Le Gendre aide à concevoir la stratégie diplomatique, recrute des soldats étrangers, affète des navires et acquiert du matériel.
 
-[^12]: [Library of Congress : Charles Le Gendre Papers](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — *Notes of Travel in Formosa* : 1 600 pages de texte + près de 200 cartes, photographies et croquis. Original conservé à la Bibliothèque du Congrès.
+[^12]: [Library of Congress : Charles Le Gendre Papers](https://www.loc.gov/collections/charles-william-le-gendre-papers/about-this-collection/) — _Notes of Travel in Formosa_ : 1 600 pages de texte + près de 200 cartes, photographies et croquis. Original conservé à la Bibliothèque du Congrès.
 
 [^13]: [ibid., notice NMTH](https://taiwanoverseas.nmth.gov.tw/archives/319a70f3-c868-43d7-a10d-169851e987e4) — Les cinq domaines du manuscrit : histoire naturelle, colonisation hollandaise, relations extérieures Qing-Occident, ethnologie et linguistique, économie et commerce.
 
@@ -151,14 +154,14 @@ L'homme qui a conclu le Traité du Cap Sud et celui qui a livré les secrets de 
 
 [^16]: [ibid., The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Fix découvre le manuscrit à la Bibliothèque du Congrès en 1991-1992. En 1999, il s'associe à Shufelt, avec le soutien de la Fondation Chi Mei. Annotations finalisées en 2005. Édition anglaise 2012, édition chinoise 2013, NMTH.
 
-[^17]: [ibid., The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Citation de Shufelt dans un entretien accordé au *Reporter*.
+[^17]: [ibid., The Reporter](https://www.twreporter.org/a/taiwan-19-century-history-charles-le-gendre-manuscript) — Citation de Shufelt dans un entretien accordé au _Reporter_.
 
-[^18]: [SEQALU (série télévisée), Wikipédia](<https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Première diffusion sur PTS le 14 août 2021. Adaptation du roman de Chen Yao-chang *Puppet Flower* (Prix d'or de la littérature taïwanaise 2016). Réalisateur : Tsao Jui-yuan. Budget : plus de 155 millions de dollars taïwanais.
+[^18]: [SEQALU (série télévisée), Wikipédia](<https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Première diffusion sur PTS le 14 août 2021. Adaptation du roman de Chen Yao-chang _Puppet Flower_ (Prix d'or de la littérature taïwanaise 2016). Réalisateur : Tsao Jui-yuan. Budget : plus de 155 millions de dollars taïwanais.
 
 [^19]: [ibid., SEQALU, Wikipédia](<https://zh.wikipedia.org/wiki/%E6%96%AF%E5%8D%A1%E7%BE%85_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — 12 épisodes, plus de 6 000 figurants. Titre original modifié en raison de connotations péjoratives. Golden Bell Award 2022.
 
 [^20]: [Pazik Falawlaw, Wikipédia](https://zh.wikipedia.org/wiki/%E6%9F%A5%E9%A6%AC%E5%85%8B%C2%B7%E6%B3%95%E6%8B%89%E5%B1%8B%E6%A8%82) — Acteur Paiwan incarnant Tauketok. Diagnostiqué d'un cancer du poumon après le tournage, décédé le 19 décembre 2021.
 
-[^21]: [VERSE Magazine : entretien avec Tsao Jui-yuan](https://www.verse.com.tw/) — Le réalisateur Tsao Jui-yuan sur la signification culturelle de *SEQALU*.
+[^21]: [VERSE Magazine : entretien avec Tsao Jui-yuan](https://www.verse.com.tw/) — Le réalisateur Tsao Jui-yuan sur la signification culturelle de _SEQALU_.
 
 [^22]: [ibid., Charles Le Gendre, Wikipedia](https://en.wikipedia.org/wiki/Charles_Le_Gendre) — Conseiller diplomatique de l'empereur Gojong de Corée à partir de 1890. Décès d'un AVC à Séoul le 1er septembre 1899, à 69 ans.

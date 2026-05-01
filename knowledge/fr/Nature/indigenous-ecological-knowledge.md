@@ -8,8 +8,11 @@ category: 'Nature'
 author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
-translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+translatedFrom: "Nature/台灣原住民生態智慧與環境保育.md"
 lastVerified: 2026-03-20
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:d162c579da0f2b9c"
+translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 
 # Les savoirs écologiques des peuples autochtones de Taïwan et la protection de l'environnement
@@ -177,10 +180,10 @@ Les savoirs écologiques des peuples autochtones de Taïwan appartiennent au pat
 - [Bureau des forêts du Conseil des affaires agricoles](https://www.forest.gov.tw/) — Politique de cogestion des ressources naturelles avec les peuples autochtones
 - [Centre de recherche sur la biodiversité de l'Academia Sinica](https://biodiv.sinica.edu.tw/) — Résultats de recherches sur les savoirs écologiques autochtones
 - [Conseil des peuples autochtones](https://www.apc.gov.tw/) — Territoires traditionnels et gestion des ressources naturelles
-- Pei Jia-qi (2020), *Wildlife Conservation and Indigenous Hunting Rights*, Commercial Press
-- Guan Da-wei (2019), *Traditional Ecological Knowledge of Indigenous Peoples*, Wu-Nan Publishing
+- Pei Jia-qi (2020), _Wildlife Conservation and Indigenous Hunting Rights_, Commercial Press
+- Guan Da-wei (2019), _Traditional Ecological Knowledge of Indigenous Peoples_, Wu-Nan Publishing
 - [Partenariat international de l'initiative Satoyama](https://satoyama-initiative.org/) — Informations internationales sur l'initiative Satoyama
-- Dong Jing-sheng (2018), *A Record of Plant Use by Taiwan's Indigenous Peoples*, Taiwan Forestry Research Institute
+- Dong Jing-sheng (2018), _A Record of Plant Use by Taiwan's Indigenous Peoples_, Taiwan Forestry Research Institute
 - [Convention sur la diversité biologique des Nations Unies](https://www.cbd.int/) — Normes internationales sur les savoirs traditionnels et la conservation
 
 ---

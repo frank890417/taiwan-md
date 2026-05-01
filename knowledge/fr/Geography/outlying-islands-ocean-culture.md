@@ -22,7 +22,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: 'Geography/離島與海洋文化.md'
+translatedFrom: "Geography/離島與海洋文化.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:a5ce1cc1637b843d"
+translatedAt: "2026-04-15T17:34:06+08:00"
 ---
 
 > **En 30 secondes :** Il existe moins de 600 shihu (pièges à poissons en pierre d'une grande ancienneté) dans le monde entier — et les seules Pescadores en abritent plus de 574, une densité absolument inégalée sur la planète. À Orchid Island, le peuple Tao (Dawu) a élevé les « tabous » de la saison du poisson volant au rang de système de gestion des ressources marines le plus élaboré qui soit — non pas par superstition, mais par science. Ces îles périphériques ne sont pas de simples confins de Taïwan : ce sont des musées vivants de la sagesse humaine face à la mer.
@@ -38,7 +41,7 @@ Un proverbe de l'époque résumait tout : « Avoir un shihu, c'est avoir une mai
 
 ### Une technique de pêche plus ancienne que Wikipédia
 
-L'histoire des shihu est bien plus ancienne qu'on ne l'imagine. La première mention documentée dans les Pescadores apparaît en 1696, dans le *Gazetteer de la préfecture de Taïwan* (台灣府志) compilé par Gao Gongqian sous le règne de l'Empereur Kangxi : « Les Pescadores possèdent... 2 grands shihu et 20 petits shihu... soumis à diverses taxes. » En 1893, le *Gazetteer du Département des Pescadores* fait déjà état de « 2 grands shihu et 76,5 petits shihu ».
+L'histoire des shihu est bien plus ancienne qu'on ne l'imagine. La première mention documentée dans les Pescadores apparaît en 1696, dans le _Gazetteer de la préfecture de Taïwan_ (台灣府志) compilé par Gao Gongqian sous le règne de l'Empereur Kangxi : « Les Pescadores possèdent... 2 grands shihu et 20 petits shihu... soumis à diverses taxes. » En 1893, le _Gazetteer du Département des Pescadores_ fait déjà état de « 2 grands shihu et 76,5 petits shihu ».
 
 Que signifie « un demi-shihu » ? Les documents historiques ne l'expliquent pas clairement, mais les enquêtes de terrain suggèrent qu'il s'agissait peut-être de structures endommagées à moitié par un typhon ou les vagues, et qui n'avaient conservé que la moitié de leur fonctionnalité.
 
@@ -110,7 +113,7 @@ Pendant longtemps, le monde extérieur a considéré les « tabous » de la sais
 - L'interdiction saisonnière dans certaines zones marines protège les frayères
 - Le calendrier traditionnel s'aligne étroitement avec les cycles de marée de l'océanographie moderne
 
-En 2019, des chercheurs en sciences marines ont publié dans la revue *Marine Policy* une étude concluant que le système de la saison du poisson volant du peuple Tao constitue un modèle de « système de connaissances marines autochtones », dont la gestion halieutique moderne aurait tout à apprendre.
+En 2019, des chercheurs en sciences marines ont publié dans la revue _Marine Policy_ une étude concluant que le système de la saison du poisson volant du peuple Tao constitue un modèle de « système de connaissances marines autochtones », dont la gestion halieutique moderne aurait tout à apprendre.
 
 ## Kinmen : comment 36 ans de loi martiale ont façonné une société
 

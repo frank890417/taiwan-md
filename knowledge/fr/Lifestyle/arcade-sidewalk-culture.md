@@ -10,9 +10,12 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b233a45daf622e6'
+translatedAt: '2026-04-15T17:34:49+08:00'
 ---
 
-> **En 30 secondes :** Les arcades couvertes de Taïwan — appelées *qilou* — ont été introduites à partir de 1900 sous la colonisation japonaise, en s'inspirant de l'architecture coloniale d'Asie du Sud-Est. Leur configuration — étage en surplomb, rez-de-chaussée ouvert — crée un espace semi-public qui accueille marchands ambulants, stationnement de scooters et vie de quartier. Elles sont devenues l'un des paysages urbains les plus humains et les plus caractéristiques de Taïwan.
+> **En 30 secondes :** Les arcades couvertes de Taïwan — appelées _qilou_ — ont été introduites à partir de 1900 sous la colonisation japonaise, en s'inspirant de l'architecture coloniale d'Asie du Sud-Est. Leur configuration — étage en surplomb, rez-de-chaussée ouvert — crée un espace semi-public qui accueille marchands ambulants, stationnement de scooters et vie de quartier. Elles sont devenues l'un des paysages urbains les plus humains et les plus caractéristiques de Taïwan.
 
 Si vous avez grandi à Taïwan, vous reconnaîtrez forcément ces souvenirs : se réfugier sous les arcades un jour de pluie, acheter un poulet frit après l'école en passant sous les galeries, rester assis le soir d'été à profiter du ventilateur en bavardant avec les voisins. Ces couloirs qui abritent du vent et des averses portent en eux une mémoire de vie partagée par toute une société.
 
@@ -20,7 +23,7 @@ Si vous avez grandi à Taïwan, vous reconnaîtrez forcément ces souvenirs : se
 
 Les arcades couvertes ne sont pas une invention taïwanaise — c'est une sagesse architecturale que les Japonais ont importée d'Asie du Sud-Est.
 
-En 1900, le gouvernement colonial japonais lance le « Plan de réaménagement du district de Taipei », qui introduit pour la première fois à grande échelle ce type d'architecture. Le gouvernement général avait observé que les *shophouses* (maisons-boutiques) de Singapour, de Penang et d'autres villes convenaient parfaitement au climat et aux besoins commerciaux de Taïwan.
+En 1900, le gouvernement colonial japonais lance le « Plan de réaménagement du district de Taipei », qui introduit pour la première fois à grande échelle ce type d'architecture. Le gouvernement général avait observé que les _shophouses_ (maisons-boutiques) de Singapour, de Penang et d'autres villes convenaient parfaitement au climat et aux besoins commerciaux de Taïwan.
 
 L'ingéniosité de ce bâti réside dans son principe même : le rez-de-chaussée est en retrait, le premier étage en saillie, formant ainsi un couloir couvert. On protège du soleil et de la pluie tout en gagnant de la surface habitable — deux avantages en un seul geste architectural.
 

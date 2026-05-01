@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'History/淡江中學.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6515803df49cd854'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 > **30초 요약：**

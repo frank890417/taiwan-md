@@ -16,7 +16,10 @@ featured: true
 author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 lastHumanReview: false
-translatedFrom: 'People/史溫侯.md'
+translatedFrom: "People/史溫侯.md"
+sourceCommitSha: "a1e11b6b"
+sourceContentHash: "sha256:50b13c3a31e0a1c0"
+translatedAt: "2026-04-14T19:14:30+08:00"
 ---
 
 # Robert Swinhoe : quand un diplomate devient naturaliste
@@ -31,7 +34,7 @@ En mars 1856, un interprète britannique de 19 ans débarque sur la côte de Xia
 
 Mais ce qu'il fait en premier à Xiangshan, c'est consigner les oiseaux qu'il observe.
 
-Ce compte rendu d'observations sera plus tard publié dans le *China Overland Mail* de Hongkong, puis traduit en allemand et repris dans une revue de géographie berlinoise l'année suivante[^2]. Personne n'y prête attention. Pour Swinhoe, c'est un point de départ.
+Ce compte rendu d'observations sera plus tard publié dans le _China Overland Mail_ de Hongkong, puis traduit en allemand et repris dans une revue de géographie berlinoise l'année suivante[^2]. Personne n'y prête attention. Pour Swinhoe, c'est un point de départ.
 
 Il retourne à Amoy et reprend son travail d'interprète, mais son esprit est resté sur cette île. Deux ans plus tard, le traité de Tianjin ouvre les ports de Taïwan — et lui offre l'occasion d'y revenir.
 
@@ -41,12 +44,12 @@ En 1858, à la suite du traité de Tianjin, les ports de Tamsui, Anping, Jilong 
 
 Il arrive à la préfecture de Taïwan (l'actuelle Tainan) en juillet 1861, accompagné de son assistant George Braune, et ouvre le consulat britannique[^4]. Sa mission officielle : gérer les litiges commerciaux entre marchands britanniques, les trafics de camphre, les conflits entre missionnaires et autorités locales. Il est promu consul en 1865.
 
-Mais en feuilletant sa correspondance et ses articles, on constate un fait saisissant : ses rapports diplomatiques sont parsemés d'observations naturalistes, et ses lettres à la Société ornithologique britannique traitent davantage de classification des espèces que de traités commerciaux[^5]. Le 17 janvier 1862, depuis Tamsui, il envoie une lettre à la revue *The Ibis* : il vient d'observer un oiseau inconnu. Au même moment, sa hiérarchie attend des rapports sur les droits de douane portuaires.
+Mais en feuilletant sa correspondance et ses articles, on constate un fait saisissant : ses rapports diplomatiques sont parsemés d'observations naturalistes, et ses lettres à la Société ornithologique britannique traitent davantage de classification des espèces que de traités commerciaux[^5]. Le 17 janvier 1862, depuis Tamsui, il envoie une lettre à la revue _The Ibis_ : il vient d'observer un oiseau inconnu. Au même moment, sa hiérarchie attend des rapports sur les droits de douane portuaires.
 
 > **📝 Note de curateur**
 > Swinhoe vivait à deux vitesses. Dans la journée, il était un pion du Foreign Office, chargé de défendre les intérêts de l'Empire britannique en Extrême-Orient. Le soir et le week-end, il appartenait à un autre monde : collecte de spécimens, correspondance avec les taxonomistes de Londres, transformation de chaque déplacement professionnel en expédition de terrain. Il utilisait le salaire du gouvernement au service de la science. Mais la science lui a survécu bien plus longtemps que l'Empire.
 
-Il n'explorait pas l'île seul. Son épouse Christina Stronach, fille d'un missionnaire de Fuzhou, l'avait épousé en 1862 et l'avait rejoint à Takao — non pas dans une maison, mais à bord de l'ancien navire de guerre hollandais *Ternate*, réaffecté comme entrepôt d'opium[^6]. Au moins un de leurs enfants naquit à Takao. Plus tard, Swinhoe nomma un oiseau en l'honneur de sa femme : la souimanga à queue fourchue (*Aethopyga christinae*)[^7].
+Il n'explorait pas l'île seul. Son épouse Christina Stronach, fille d'un missionnaire de Fuzhou, l'avait épousé en 1862 et l'avait rejoint à Takao — non pas dans une maison, mais à bord de l'ancien navire de guerre hollandais _Ternate_, réaffecté comme entrepôt d'opium[^6]. Au moins un de leurs enfants naquit à Takao. Plus tard, Swinhoe nomma un oiseau en l'honneur de sa femme : la souimanga à queue fourchue (_Aethopyga christinae_)[^7].
 
 ## Quatre ans, cinquante-deux articles
 
@@ -54,17 +57,17 @@ De 1861 à 1866, Swinhoe séjourne à Taïwan pendant un total d'environ quatre 
 
 Il gravit la colline Guanyin, parcourt la plaine entre Takao et Tainan, longe la côte ouest pour récupérer des coquilles d'escargots trouvées par les paysans. Il engage des chasseurs locaux pour capturer des oiseaux, emballe chaque lot de spécimens qu'il expédie à Londres, où le grand maître de l'ornithologie John Gould en assure la classification[^8].
 
-| Groupe                          | Nombre recensé |
-| ------------------------------- | -------------- |
-| Oiseaux                         | 227 espèces    |
-| Mammifères                      | environ 40 espèces |
-| Plantes (y compris fougères)    | 246 espèces    |
+| Groupe                                       | Nombre recensé      |
+| -------------------------------------------- | ------------------- |
+| Oiseaux                                      | 227 espèces         |
+| Mammifères                                   | environ 40 espèces  |
+| Plantes (y compris fougères)                 | 246 espèces         |
 | Escargots terrestres et bivalves d'eau douce | plus de 200 espèces |
-| Insectes                        | plus de 400 espèces |
+| Insectes                                     | plus de 400 espèces |
 
 Taïwan compte aujourd'hui environ 686 espèces d'oiseaux connues : Swinhoe en a recensé à lui seul le tiers[^9]. Vu d'aujourd'hui, le volume de travail réalisé par un scientifique non professionnel en quatre ans équivaut aux résultats de terrain que mettrait plusieurs dizaines d'années à produire une équipe académique entière.
 
-En 1863, il publie en trois parties dans *The Ibis* son « Ornithologie de Formose, ou Taiwan » (*The Ornithology of Formosa, or Taiwan*), décrivant 186 espèces d'oiseaux[^10]. La même année, il publie également un catalogue des reptiles de Taïwan et une étude ethnographique — l'un des premiers documents occidentaux à recenser les peuples autochtones de Taïwan dans un cadre ethnologique.
+En 1863, il publie en trois parties dans _The Ibis_ son « Ornithologie de Formose, ou Taiwan » (_The Ornithology of Formosa, or Taiwan_), décrivant 186 espèces d'oiseaux[^10]. La même année, il publie également un catalogue des reptiles de Taïwan et une étude ethnographique — l'un des premiers documents occidentaux à recenser les peuples autochtones de Taïwan dans un cadre ethnologique.
 
 Lin Jun-cong, chercheur associé au Musée national de Taïwan, souligne : « Swinhoe ne se contentait pas de collecter des spécimens. Il utilisait systématiquement la nomenclature binomiale pour identifier les espèces, laissant ainsi une empreinte considérable sur la biologie à Taïwan. »[^11]
 
@@ -74,9 +77,9 @@ Lin Jun-cong, chercheur associé au Musée national de Taïwan, souligne : « Sw
 
 Quatre espèces de mammifères et quinze espèces d'oiseaux portent son nom[^12]. Les trois plus célèbres ont connu des destins bien différents.
 
-Le faisan de Swinhoe (*Lophura swinhoii*) est l'une des 16 nouvelles espèces taïwanaises que Gould avait publiées d'un coup en 1862. Ce faisan bleu est devenu l'une des espèces endémiques les plus emblématiques de Taïwan[^13]. L'UICN l'avait classé comme espèce vulnérable, avec une population sauvage qui était tombée à moins de 200 individus. Après la création de zones protégées, elle a remonté à 3 300-6 700 individus matures et est désormais classée quasi menacée[^14]. La pie-bleue de Taïwan (*Urocissa caerulea*), issue du même lot de spécimens de 1862, a remporté en 2007 le vote pour l'oiseau national avec 520 000 voix.
+Le faisan de Swinhoe (_Lophura swinhoii_) est l'une des 16 nouvelles espèces taïwanaises que Gould avait publiées d'un coup en 1862. Ce faisan bleu est devenu l'une des espèces endémiques les plus emblématiques de Taïwan[^13]. L'UICN l'avait classé comme espèce vulnérable, avec une population sauvage qui était tombée à moins de 200 individus. Après la création de zones protégées, elle a remonté à 3 300-6 700 individus matures et est désormais classée quasi menacée[^14]. La pie-bleue de Taïwan (_Urocissa caerulea_), issue du même lot de spécimens de 1862, a remporté en 2007 le vote pour l'oiseau national avec 520 000 voix.
 
-La tortue-molle de Swinhoe (*Rafetus swinhoei*) a suivi une tout autre trajectoire. Décrite en 1873 par Gray à partir de spécimens de Swinhoe, elle est aujourd'hui la tortue la plus menacée de la planète : seuls deux individus sont connus — l'un au zoo de Suzhou, l'autre au Viêt Nam[^15]. Des scientifiques utilisent des techniques d'ADN environnemental dans des lacs vietnamiens pour tenter d'en trouver d'autres. Faute de découverte, *Rafetus swinhoei* deviendrait la première espèce portant le nom de Swinhoe à s'éteindre.
+La tortue-molle de Swinhoe (_Rafetus swinhoei_) a suivi une tout autre trajectoire. Décrite en 1873 par Gray à partir de spécimens de Swinhoe, elle est aujourd'hui la tortue la plus menacée de la planète : seuls deux individus sont connus — l'un au zoo de Suzhou, l'autre au Viêt Nam[^15]. Des scientifiques utilisent des techniques d'ADN environnemental dans des lacs vietnamiens pour tenter d'en trouver d'autres. Faute de découverte, _Rafetus swinhoei_ deviendrait la première espèce portant le nom de Swinhoe à s'éteindre.
 
 > **📝 Note de curateur**
 > Nommer une espèce d'après quelqu'un est la forme d'hommage la plus durable que la science connaisse : pas besoin de statue, pas besoin de monument. Le nom est enchâssé dans le système taxonomique, et tant que l'espèce est vivante — ou tant que quelqu'un l'étudie —, le nom ne s'efface pas. Mais le cas de la tortue-molle de Swinhoe nous rappelle qu'un nom peut aussi devenir un témoignage mélancolique.
@@ -85,7 +88,7 @@ La tortue-molle de Swinhoe (*Rafetus swinhoei*) a suivi une tout autre trajectoi
 
 Ce que Swinhoe a laissé à Taïwan ne se limite pas à des spécimens. En 1862, il rédige un rapport commercial sur Formose qui évalue le potentiel d'exportation du thé taïwanais[^16]. Ce rapport attire indirectement le commerçant écossais John Dodd dans l'île. Dodd importe des plants de thé depuis Anxi, et en 1869, il expédie directement à New York 2 131 piculs de thé oolong taïwanais sous l'étiquette « Choicest Formosa Oolong Tea » — le début des exportations de thé de Taïwan prend sa source dans le rapport commercial d'un naturaliste.
 
-En 1864, Swinhoe publie deux brèves contributions dans *Scientific American* : l'une sur le camphre de Taïwan, l'autre sur le tétrapanax, la plante utilisée pour fabriquer le papier de riz[^17]. Le camphre déclenchera plus tard, en 1868, un différend commercial international : la maison Elles & Co avait en contrebande du camphre qui fut saisi par les autorités Qing ; Swinhoe revient brièvement à Taïwan pour gérer l'affaire, qui se conclut par la signature d'un règlement sur le camphre mettant fin au monopole.
+En 1864, Swinhoe publie deux brèves contributions dans _Scientific American_ : l'une sur le camphre de Taïwan, l'autre sur le tétrapanax, la plante utilisée pour fabriquer le papier de riz[^17]. Le camphre déclenchera plus tard, en 1868, un différend commercial international : la maison Elles & Co avait en contrebande du camphre qui fut saisi par les autorités Qing ; Swinhoe revient brièvement à Taïwan pour gérer l'affaire, qui se conclut par la signature d'un règlement sur le camphre mettant fin au monopole.
 
 Il a même laissé, sans le savoir, une « ligne de base écologique ». Cent soixante ans plus tard, des écologistes utilisent ses relevés d'espèces pour mesurer ce que Taïwan a perdu. Certains habitats qu'il a décrits ont disparu ; certains groupes de peuples autochtones qu'il avait mentionnés n'existent plus.
 
@@ -95,7 +98,7 @@ Vers 1871, Swinhoe commence à présenter des symptômes de paralysie. Après un
 
 Mais son corps ne tient plus. Le 28 octobre 1877, Robert Swinhoe décède à Londres, à seulement 41 ans. Des 19 ans où il pose le pied sur la côte de Xiangshan jusqu'à son dernier souffle, vingt-deux années s'écoulent — et les quatre plus précieuses appartiennent à Formose.
 
-Ses 3 700 spécimens sont rachetés par le collectionneur Henry Seebohm, puis légués au Musée de Liverpool (aujourd'hui le World Museum), où ils constituent toujours le cœur de la deuxième plus grande collection ornithologique d'Angleterre[^19]. En 1903, le diplomate américain James Wheeler Davidson écrit dans *The Island of Formosa* : « Aucun étranger n'a réussi à graver son nom aussi durablement sur Formose. »[^20]
+Ses 3 700 spécimens sont rachetés par le collectionneur Henry Seebohm, puis légués au Musée de Liverpool (aujourd'hui le World Museum), où ils constituent toujours le cœur de la deuxième plus grande collection ornithologique d'Angleterre[^19]. En 1903, le diplomate américain James Wheeler Davidson écrit dans _The Island of Formosa_ : « Aucun étranger n'a réussi à graver son nom aussi durablement sur Formose. »[^20]
 
 ## Cent quarante-sept ans plus tard
 
@@ -103,11 +106,11 @@ En 2013, le Bureau de la culture de la ville de Kaohsiung restaure le Consulat e
 
 Le 17 janvier 2019, Christopher Swinhoe-Standen, descendant collatéral de la cinquième génération, vole depuis la Grande-Bretagne jusqu'à Kaohsiung. Il se fait photographier aux côtés de la figure en cire de son ancêtre au Consulat britannique de Takao. « Je vais rapporter la photo à ma mère de 91 ans, » dit-il. « Je suis certain que cette histoire va se transmettre longtemps dans la famille. »[^22]
 
-Il monte à bord d'une croisière culturelle « Sur les traces de Swinhoe » et refait le parcours de 1858 dans le port de Kaohsiung. Il y a 147 ans, son ancêtre avait circumnavigué l'île à bord du navire de guerre britannique HMS *Inflexible*. Lui, il est assis dans un bateau de tourisme, et regarde la même mer.
+Il monte à bord d'une croisière culturelle « Sur les traces de Swinhoe » et refait le parcours de 1858 dans le port de Kaohsiung. Il y a 147 ans, son ancêtre avait circumnavigué l'île à bord du navire de guerre britannique HMS _Inflexible_. Lui, il est assis dans un bateau de tourisme, et regarde la même mer.
 
 ---
 
-Dans les dernières semaines de sa vie, Swinhoe continuait d'écrire. Son dernier article décrit le liocichle de Steere (*Liocichla steerii*) — un petit timaliidé des forêts brumeuses de moyenne et haute altitude de Taïwan. Il achève la description de l'espèce, et quelques semaines plus tard, il rend son dernier souffle.
+Dans les dernières semaines de sa vie, Swinhoe continuait d'écrire. Son dernier article décrit le liocichle de Steere (_Liocichla steerii_) — un petit timaliidé des forêts brumeuses de moyenne et haute altitude de Taïwan. Il achève la description de l'espèce, et quelques semaines plus tard, il rend son dernier souffle.
 
 Cet oiseau chante encore dans les montagnes de Taïwan. Il ne connaît pas son nom scientifique. Et il ne sait pas que l'homme qui le lui a donné a lu toute une île en quatre ans.
 
@@ -124,43 +127,43 @@ Cet oiseau chante encore dans les montagnes de Taïwan. Il ne connaît pas son n
 
 [^1]: [Takao Club: Robert Swinhoe](http://takaoclub.com/swinhoe/) — La biographie la plus complète de Swinhoe en anglais, entretenue par la communauté étrangère de Kaohsiung, avec la chronologie intégrale de ses activités diplomatiques et scientifiques à Taïwan.
 
-[^2]: [Swinhoe, "A Trip to Hongsan," *Supplement to the Overland China Mail*, No. 130 (1856)](https://www.biodiversitylibrary.org/creator/15136) — Premier article de Swinhoe sur Taïwan, traduit en allemand et publié dans une revue de géographie berlinoise l'année suivante. Consultable sur la Biodiversity Heritage Library.
+[^2]: [Swinhoe, "A Trip to Hongsan," _Supplement to the Overland China Mail_, No. 130 (1856)](https://www.biodiversitylibrary.org/creator/15136) — Premier article de Swinhoe sur Taïwan, traduit en allemand et publié dans une revue de géographie berlinoise l'année suivante. Consultable sur la Biodiversity Heritage Library.
 
 [^3]: [Traité de Tianjin, Wikipedia](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E6%A2%9D%E7%B4%84) — Signé en 1858, ratifié par la Convention de Pékin en 1860, le traité ouvre officiellement au commerce les ports de Tamsui, Anping, Jilong et Takao.
 
 [^4]: [Taiwan Panorama: The Taiwan Journey of a British Diplomat (2023)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=c6fa9d92-4c13-4e9e-bd57-3bd138d9e48a) — Reportage complet du magazine Taiwan Panorama (juin 2023), avec les témoignages des experts Lin Jun-cong et Lin Rui-xing, et la chronologie détaillée du séjour de Swinhoe.
 
-[^5]: [Swinhoe, "Letter," *The Ibis* 4 (1862): 304-307](https://www.biodiversitylibrary.org/part/74064) — Lettre du 17 janvier 1862 adressée depuis Tamsui à la British Ornithologists' Union. Document original numérisé disponible sur BHL.
+[^5]: [Swinhoe, "Letter," _The Ibis_ 4 (1862): 304-307](https://www.biodiversitylibrary.org/part/74064) — Lettre du 17 janvier 1862 adressée depuis Tamsui à la British Ornithologists' Union. Document original numérisé disponible sur BHL.
 
-[^6]: [Jerome Vlieland Blog: Robert Swinhoe (2015)](https://jnvlieland.blogspot.com/2015/06/robert-swinhoe.html) — Détails sur la famille Swinhoe réunis par un généalogiste : épouse Christina, enfants, vie à bord du *Ternate* à Takao.
+[^6]: [Jerome Vlieland Blog: Robert Swinhoe (2015)](https://jnvlieland.blogspot.com/2015/06/robert-swinhoe.html) — Détails sur la famille Swinhoe réunis par un généalogiste : épouse Christina, enfants, vie à bord du _Ternate_ à Takao.
 
-[^7]: [BirdForum: *Aethopyga christinae* Swinhoe, 1869](https://www.birdforum.net/threads/aethopyga-christinae-swinhoe-1869.415812/) — La souimanga à queue fourchue nommée d'après Christina, l'épouse de Swinhoe, publiée en 1869.
+[^7]: [BirdForum: _Aethopyga christinae_ Swinhoe, 1869](https://www.birdforum.net/threads/aethopyga-christinae-swinhoe-1869.415812/) — La souimanga à queue fourchue nommée d'après Christina, l'épouse de Swinhoe, publiée en 1869.
 
-[^8]: [Gould, "Description of Sixteen New Species of Birds from Formosa," *PZS London* (1862)](https://www.biodiversitylibrary.org/part/74064) — Article original dans lequel Gould publie 16 nouvelles espèces d'oiseaux de Taïwan à partir des spécimens de Swinhoe.
+[^8]: [Gould, "Description of Sixteen New Species of Birds from Formosa," _PZS London_ (1862)](https://www.biodiversitylibrary.org/part/74064) — Article original dans lequel Gould publie 16 nouvelles espèces d'oiseaux de Taïwan à partir des spécimens de Swinhoe.
 
 [^9]: [Programme national de numérisation des archives : les pionniers de l'histoire naturelle de Taïwan — Swinhoe](https://digitalarchives.tw/Exhibition/2463/1.html) — Exposition en ligne de l'Academia Sinica, avec statistiques et cartes des itinéraires de collecte.
 
-[^10]: [Swinhoe, "The Ornithology of Formosa, or Taiwan," *The Ibis* 5:18-20 (1863)](https://onlinelibrary.wiley.com/doi/10.1111/j.1474-919X.1863.tb05739.x) — L'article ornithologique majeur de Swinhoe, publié en trois livraisons dans *The Ibis*, décrivant 186 espèces.
+[^10]: [Swinhoe, "The Ornithology of Formosa, or Taiwan," _The Ibis_ 5:18-20 (1863)](https://onlinelibrary.wiley.com/doi/10.1111/j.1474-919X.1863.tb05739.x) — L'article ornithologique majeur de Swinhoe, publié en trois livraisons dans _The Ibis_, décrivant 186 espèces.
 
 [^11]: [Même source que ^4, Taiwan Panorama (2023)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=c6fa9d92-4c13-4e9e-bd57-3bd138d9e48a) — Propos de Lin Jun-cong, chercheur associé au Musée national de Taïwan.
 
-[^12]: [Robert Swinhoe, Wikipedia](https://en.wikipedia.org/wiki/Robert_Swinhoe) — « Four species of mammals and fifteen species of birds were named after Swinhoe. » Comprend la liste complète des espèces nommées *swinhoii* ou *swinhoei*.
+[^12]: [Robert Swinhoe, Wikipedia](https://en.wikipedia.org/wiki/Robert_Swinhoe) — « Four species of mammals and fifteen species of birds were named after Swinhoe. » Comprend la liste complète des espèces nommées _swinhoii_ ou _swinhoei_.
 
-[^13]: [Même source que ^8, Gould (1862)](https://www.biodiversitylibrary.org/part/74064) — *Lophura swinhoii* figure parmi les 16 nouvelles espèces publiées.
+[^13]: [Même source que ^8, Gould (1862)](https://www.biodiversitylibrary.org/part/74064) — _Lophura swinhoii_ figure parmi les 16 nouvelles espèces publiées.
 
 [^14]: [BirdLife International: Swinhoe's Pheasant Species Factsheet](https://datazone.birdlife.org/species/factsheet/swinhoes-pheasant-lophura-swinhoii) — Statut quasi menacé (UICN), population estimée à 3 300-6 700 individus matures. Tendance et analyse de l'habitat incluses.
 
-[^15]: [Discover Wildlife: Time Is Ticking for World's Rarest Turtle (2025)](https://www.discoverwildlife.com/animal-facts/reptiles/swinhoes-softshell-turtle-edna) — État actuel de *Rafetus swinhoei* : deux individus connus, recherche par ADN environnemental en cours au Viêt Nam.
+[^15]: [Discover Wildlife: Time Is Ticking for World's Rarest Turtle (2025)](https://www.discoverwildlife.com/animal-facts/reptiles/swinhoes-softshell-turtle-edna) — État actuel de _Rafetus swinhoei_ : deux individus connus, recherche par ADN environnemental en cours au Viêt Nam.
 
 [^16]: [Même source que ^4, Taiwan Panorama (2023)](https://www.taiwan-panorama.com/en/Articles/Details?Guid=c6fa9d92-4c13-4e9e-bd57-3bd138d9e48a) — Le rapport commercial de 1862 attire John Dodd, qui organise le premier envoi direct de thé oolong taïwanais à New York.
 
-[^17]: [Swinhoe, "Formosa Camphor," *Scientific American* (6 fév. 1864) : 85 ; "The Rice-Paper of Formosa," *Scientific American* (24 sept. 1864) : 194](https://www.biodiversitylibrary.org/creator/15136) — Deux courtes contributions au *Scientific American* sur le camphre et le tétrapanax.
+[^17]: [Swinhoe, "Formosa Camphor," _Scientific American_ (6 fév. 1864) : 85 ; "The Rice-Paper of Formosa," _Scientific American_ (24 sept. 1864) : 194](https://www.biodiversitylibrary.org/creator/15136) — Deux courtes contributions au _Scientific American_ sur le camphre et le tétrapanax.
 
 [^18]: [Taipei Times: The Diplomat with a Scientific Soul (2019/1/27)](https://www.taipeitimes.com/News/feat/archives/2019/01/27/2003708716) — Comprend les propos de Davidson, la discussion sur la cause du décès et l'histoire des descendants.
 
 [^19]: [Pensoft/NHCM: Ghosts and Entanglements in Liverpool's Collection (2024)](https://nhcm.pensoft.net/article/155136/) — Article académique de 2024 analysant l'héritage taxonomique des spécimens de Swinhoe au World Museum de Liverpool.
 
-[^20]: [Même source que ^18, Taipei Times (2019/1/27)](https://www.taipeitimes.com/News/feat/archives/2019/01/27/2003708716) — Davidson, *The Island of Formosa, Past and Present* (1903) : « No other foreigner has succeeded in associating his name so firmly with Formosa. »
+[^20]: [Même source que ^18, Taipei Times (2019/1/27)](https://www.taipeitimes.com/News/feat/archives/2019/01/27/2003708716) — Davidson, _The Island of Formosa, Past and Present_ (1903) : « No other foreigner has succeeded in associating his name so firmly with Formosa. »
 
 [^21]: [Musée national des sciences naturelles : exposition « Au nom de Swinhoe »](https://www.nmns.edu.tw/exhibit/history_exhibits/swinhoe/index.html) — Exposition de 2019, commissaire Chen Hui-juan, consacrée aux itinéraires de collecte et à l'histoire des nominations d'espèces par Swinhoe.
 

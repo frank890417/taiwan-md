@@ -2,7 +2,16 @@
 title: 'Trente ans de communautés en ligne à Taïwan — de BBS à Threads, une histoire de migrations successives'
 description: 'Les Taïwanais déménagent collectivement tous les cinq ans sur internet, et chaque fois, ils abandonnent les souvenirs de la génération précédente'
 date: 2026-03-29
-tags: ['BBS', 'Wretch', 'Facebook', 'LINE', 'Threads', 'culture internet', 'plateformes sociales']
+tags:
+  [
+    'BBS',
+    'Wretch',
+    'Facebook',
+    'LINE',
+    'Threads',
+    'culture internet',
+    'plateformes sociales',
+  ]
 subcategory: 'Communautés et culture numérique'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 9
 featured: false
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 lastVerified: 2026-03-29
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:c3630708a8986b72'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 > En 1999, Jian Zhiyu, étudiant en informatique à l'université Jiao Tong, installe un serveur BBS dans sa chambre de cité universitaire. En 2013, ce BBS devenu Wretch est débranché par Yahoo, emportant avec lui plus de cinq cents millions de photos. De BBS à Threads, l'histoire des communautés en ligne à Taïwan est celle de déménagements à répétition — et d'oublis à répétition. À chaque migration de plateforme, c'est la mémoire collective d'une génération entière qui disparaît.
@@ -120,13 +132,13 @@ L'histoire des migrations de communautés à Taïwan révèle une vérité cruel
 
 En regardant la trajectoire de ces trente ans, on distingue une oscillation cachée :
 
-| Période | Plateforme principale | Anonyme / Identifié | Public / Privé | Texte / Image |
-| --------- | ---------------- | --------- | --------- | --------- |
-| 1992-2003 | BBS | Anonyme | Public | Texte |
-| 2003-2009 | Wretch | Semi-identifié | Public | Texte + image |
-| 2009-2015 | Facebook | Identifié | Public | Texte + image |
-| 2012-aujourd'hui | LINE | Identifié | Privé | Stickers |
-| 2018-aujourd'hui | IG / Threads / Dcard | Mixte | Semi-public | Mixte |
+| Période          | Plateforme principale | Anonyme / Identifié | Public / Privé | Texte / Image |
+| ---------------- | --------------------- | ------------------- | -------------- | ------------- |
+| 1992-2003        | BBS                   | Anonyme             | Public         | Texte         |
+| 2003-2009        | Wretch                | Semi-identifié      | Public         | Texte + image |
+| 2009-2015        | Facebook              | Identifié           | Public         | Texte + image |
+| 2012-aujourd'hui | LINE                  | Identifié           | Privé          | Stickers      |
+| 2018-aujourd'hui | IG / Threads / Dcard  | Mixte               | Semi-public    | Mixte         |
 
 Anonyme → identifié → mixte. Public → privé → semi-public. Texte → image → retour au texte. Chaque migration est une réaction contre l'ère précédente. Facebook était trop identifié, trop public, alors les gens ont fui dans les groupes privés de LINE ; LINE était trop fermé, alors les jeunes sont allés sur Threads poster des réflexions futiles.
 
@@ -156,4 +168,5 @@ Probablement, oui. Mais avant de déménager, personne ne réalise qu'il est en 
 ---
 
 ## Pour aller plus loin
+
 - PTT (Bulletin Board System taïwanais)

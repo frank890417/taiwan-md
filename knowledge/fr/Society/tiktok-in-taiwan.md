@@ -21,7 +21,10 @@ date: 2026-04-12
 readingTime: 10min
 lastVerified: 2026-04-12
 lastHumanReview: '2026-04-13'
-translatedFrom: 'Society/TikTok.md'
+translatedFrom: "Society/TikTok.md"
+sourceCommitSha: "92f224cf"
+sourceContentHash: "sha256:5107a48f2b5cfa08"
+translatedAt: "2026-04-14T12:32:15+08:00"
 ---
 
 > **En 30 secondes :** TikTok n'est pas seulement une plateforme où l'on peut devenir célèbre. À Taïwan, il constitue une véritable expérience décentralisée d'influence cognitive. Grâce à une personnalisation algorithmique poussée à l'extrême, la plateforme amène ses utilisateurs à intérioriser, sans en avoir conscience, l'agenda politique d'autrui comme s'il s'agissait de leur propre vision du monde. Une enquête menée en 2025 révèle que plus de 70 % des adolescents taïwanais âgés de 15 à 18 ans passent plus de deux heures par jour sur TikTok — et que, à mesure que leur pouce glisse vers le bas, leur sympathie pour la Chine augmente discrètement, tandis que leur regard sur la société taïwanaise se noircit peu à peu.

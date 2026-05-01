@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:95ade25e990d7b77'
+translatedAt: '2026-04-14T08:37:54+08:00'
 ---
 
 # 콤팔 일렉트로닉스: 세계를 누비는 ODM 거인

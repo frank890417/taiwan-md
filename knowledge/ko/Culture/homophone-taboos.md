@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Culture/台灣諧音禁忌文化.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d88f480a1e1f7ae0'
+translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 
 > **30초 요약**: 대만에서 '4'는 '죽을 사(死)'와 발음이 비슷하다는 이유로 사회 전체가 집단적으로 피하는 숫자다. 엘리베이터는 3층에서 5층으로 바로 건너뛰고, 식당에서 "몇 분이세요?"라고 물으면 "3+1명"이라고 바꿔 답한다. 한편, 길한 동음이의어 덕분에 8888 번호판은 89만 원에 낙찰되고, 결혼 축의금 액수에도 복잡한 숫자학이 존재한다.

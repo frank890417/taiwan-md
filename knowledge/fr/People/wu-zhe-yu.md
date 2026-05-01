@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-24
-translatedFrom: 'People/吳哲宇.md'
+translatedFrom: "People/吳哲宇.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:13d119f521fb7a00"
+translatedAt: "2026-04-14T19:14:30+08:00"
 ---
 
 # Wu Zhe-Yu (Che-Yu Wu)
@@ -127,21 +130,21 @@ Taiwan.md construit, en format Markdown (d'où le domaine .md), une source de v�
 
 ## Principales expositions
 
-| Année | Exposition | Lieu |
-|-------|-----------|------|
-| 2025 | Symphony of Fragments — Art du futur | AMBI SPACE ONE, Taipei 101 |
-| 2025 | Le Jardin éternel dans une bouteille — Concert interactif immersif | Pier-2 Art Center, Kaohsiung |
-| 2025 | Coffee Dreamscape | Starbucks DreamPlaza, Taipei |
-| 2025 | Physis is not a thing, it's an act | LG × MonoLab |
-| 2025 | Vers algorithmiques — Concert de piano immersif | Huashan 1914 Creative Park |
-| 2024 | Résidence artistique — The Eternal Garden in the Bottle | CENTQUATRE-PARIS |
-| 2024 | Projection génératif sous dôme | C-LAB (Taiwan Contemporary Culture Lab) |
-| 2024 | SoulFish Collabs | Biennale de Venise |
-| 2023 | L'Âme des fleurs | Art Basel Miami × Tezos |
-| 2023 | La Grande Équation — Exposition personnelle | AMBI SPACE ONE, Taipei 101 |
-| 2022 | Chaos Laboratory | AMBI SPACE ONE, Taipei 101 |
-| 2022 | The Soul | Unit London |
-| 2022 | Fairy Village | Unit London |
+| Année | Exposition                                                         | Lieu                                    |
+| ----- | ------------------------------------------------------------------ | --------------------------------------- |
+| 2025  | Symphony of Fragments — Art du futur                               | AMBI SPACE ONE, Taipei 101              |
+| 2025  | Le Jardin éternel dans une bouteille — Concert interactif immersif | Pier-2 Art Center, Kaohsiung            |
+| 2025  | Coffee Dreamscape                                                  | Starbucks DreamPlaza, Taipei            |
+| 2025  | Physis is not a thing, it's an act                                 | LG × MonoLab                            |
+| 2025  | Vers algorithmiques — Concert de piano immersif                    | Huashan 1914 Creative Park              |
+| 2024  | Résidence artistique — The Eternal Garden in the Bottle            | CENTQUATRE-PARIS                        |
+| 2024  | Projection génératif sous dôme                                     | C-LAB (Taiwan Contemporary Culture Lab) |
+| 2024  | SoulFish Collabs                                                   | Biennale de Venise                      |
+| 2023  | L'Âme des fleurs                                                   | Art Basel Miami × Tezos                 |
+| 2023  | La Grande Équation — Exposition personnelle                        | AMBI SPACE ONE, Taipei 101              |
+| 2022  | Chaos Laboratory                                                   | AMBI SPACE ONE, Taipei 101              |
+| 2022  | The Soul                                                           | Unit London                             |
+| 2022  | Fairy Village                                                      | Unit London                             |
 
 ## Sources
 

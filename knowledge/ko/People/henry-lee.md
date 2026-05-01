@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/李昌鈺.md'
 readingTime: 8
 featured: false
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:d64c72cf7c6361d3'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 헨리 리 (李昌鈺)

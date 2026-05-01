@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
+translatedFrom: "Art/台灣策展人與藝術文化建構.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:321e09715c3afee4"
+translatedAt: "2026-04-14T19:13:49+08:00"
 ---
 
 # Les commissaires d'exposition taïwanais et la construction culturelle artistique
@@ -21,7 +24,7 @@ Mais pour retrouver les véritables origines du phénomène, il faut remonter un
 ## Les prémices : l'émergence du commissariat en institution (1990–1996)
 
 **Note de commissaire #1 : comment traduire « curator » ?**
-*À l'époque, nous ne savions pas encore comment nommer ce rôle. Dans les musées, « curator » était traduit par « chercheur ». Dans un article de la revue Lion Arts paru en 1994, on utilisait « membre de la recherche ». Ce n'est qu'après que Lin Man-li eut invité Fumio Nanjo à Taïwan en 1998 que le terme « commissaire d'exposition » s'est progressivement imposé. Cette hésitation terminologique trahissait en réalité une période de transition dans la reconnaissance de la profession.*
+_À l'époque, nous ne savions pas encore comment nommer ce rôle. Dans les musées, « curator » était traduit par « chercheur ». Dans un article de la revue Lion Arts paru en 1994, on utilisait « membre de la recherche ». Ce n'est qu'après que Lin Man-li eut invité Fumio Nanjo à Taïwan en 1998 que le terme « commissaire d'exposition » s'est progressivement imposé. Cette hésitation terminologique trahissait en réalité une période de transition dans la reconnaissance de la profession._
 
 Au début des années 1990, alors que l'idée de commissariat indépendant avait déjà vingt ans d'existence en Occident, le milieu artistique taïwanais commençait à peine à percevoir la nécessité de cette nouvelle profession. Le Musée d'art de Taipei, le Centre culturel du Comté de Taipei et la Fondation Dimension Art entamaient des collaborations avec des universitaires du secteur artistique, jetant ainsi les bases d'une pratique commissariale indépendante.
 
@@ -61,7 +64,7 @@ Dans les années 2010, le profil des commissaires taïwanais s'est considérable
 **Wang Chun-chieh**, artiste et commissaire à la fois, illustre la complexité identitaire des commissaires taïwanais. Depuis qu'il a commencé à pratiquer le vidéo art en 1984 — l'une des figures pionnières des nouveaux médias à Taïwan —, il a progressivement transformé son expérience créative en pratique commissariale, après avoir obtenu son diplôme de la Hochschule der Künste de Berlin en 1996. Il est aujourd'hui l'un des rares commissaires taïwanais à conjuguer vision internationale et expertise technique.
 
 **Note de commissaire #2 : observations sur les différences générationnelles**
-*La nouvelle génération de commissaires taïwanais présente une caractéristique intéressante : ils n'ont plus à choisir entre « s'internationaliser » et « s'ancrer localement ». Ils possèdent naturellement une vision mondiale tout en entretenant un rapport profond à la culture locale. Cette double appartenance leur permet de proposer, sur la scène internationale, des discours commissariaux plus originaux.*
+_La nouvelle génération de commissaires taïwanais présente une caractéristique intéressante : ils n'ont plus à choisir entre « s'internationaliser » et « s'ancrer localement ». Ils possèdent naturellement une vision mondiale tout en entretenant un rapport profond à la culture locale. Cette double appartenance leur permet de proposer, sur la scène internationale, des discours commissariaux plus originaux._
 
 ## Un angle mort : l'histoire oubliée des commissaires institutionnels
 
@@ -78,7 +81,7 @@ Ces dernières années, les commissaires taïwanais font face à un nouveau déf
 Ce phénomène témoigne d'une nouvelle étape dans l'évolution du commissariat taïwanais : du développement professionnel vers la marque personnelle. Mais cette tendance comporte aussi un risque — celui de voir les commissaires accorder plus d'importance à la construction de leur image personnelle qu'à la profondeur du contenu exposé.
 
 **Note de commissaire #3 : sur la formation aux métiers du commissariat**
-*Manray Hsu a rappelé que la formation au commissariat doit distinguer les commissaires indépendants des commissaires institutionnels, et prendre en compte les différentes étapes d'une carrière. Les commissaires indépendants ont besoin d'une plus grande autonomie et de compétences en mobilisation de ressources ; les commissaires institutionnels requièrent des bases académiques solides et une vision internationale. Mais quelle que soit leur orientation, tous ont besoin d'une compréhension approfondie de l'histoire de l'art taïwanais — c'est le socle de toute pratique commissariale.*
+_Manray Hsu a rappelé que la formation au commissariat doit distinguer les commissaires indépendants des commissaires institutionnels, et prendre en compte les différentes étapes d'une carrière. Les commissaires indépendants ont besoin d'une plus grande autonomie et de compétences en mobilisation de ressources ; les commissaires institutionnels requièrent des bases académiques solides et une vision internationale. Mais quelle que soit leur orientation, tous ont besoin d'une compréhension approfondie de l'histoire de l'art taïwanais — c'est le socle de toute pratique commissariale._
 
 ## Perspectives : vers une méthodologie commissariale taïwanaise
 
@@ -90,7 +93,7 @@ Mais ce qui compte le plus, c'est que les commissaires taïwanais sont en train 
 
 ---
 
-*Cet article s'appuie sur de nombreuses sources primaires et entretiens. Tous les noms de personnes et événements mentionnés ont été vérifiés. Si vous constatez une inexactitude, merci de le signaler via le système d'Issues de Taiwan.md.*
+_Cet article s'appuie sur de nombreuses sources primaires et entretiens. Tous les noms de personnes et événements mentionnés ont été vérifiés. Si vous constatez une inexactitude, merci de le signaler via le système d'Issues de Taiwan.md._
 
 ## Références
 

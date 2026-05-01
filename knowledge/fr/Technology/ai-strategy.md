@@ -11,7 +11,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
-translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
+translatedFrom: "Technology/台灣人工智慧發展與未來策略.md"
+sourceCommitSha: "a97494be"
+sourceContentHash: "sha256:6443d0ccddb2bc55"
+translatedAt: "2026-04-14T12:32:55+08:00"
 ---
 
 # Développement de l'intelligence artificielle à Taïwan et stratégies pour l'avenir

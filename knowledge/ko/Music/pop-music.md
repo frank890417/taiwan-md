@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: true
 translatedFrom: 'Music/台灣流行音樂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:818f98dc184f6fa7'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 # 황금 선율의 계승: 대만 대중음악의 역사와 문화적 위상

@@ -12,6 +12,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'Lifestyle/溫泉文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5c053dd9110acc9b'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Cultura de Aguas Termales

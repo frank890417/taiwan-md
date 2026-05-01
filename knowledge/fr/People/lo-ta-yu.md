@@ -1,8 +1,15 @@
 ---
 title: 'Lo Ta-yu'
-description: "Le parrain de la pop chinophone, dont les œuvres emblématiques comme « Lugang Xiaozhen » et « Enfance » ont marqué durablement le monde sinophone"
+description: 'Le parrain de la pop chinophone, dont les œuvres emblématiques comme « Lugang Xiaozhen » et « Enfance » ont marqué durablement le monde sinophone'
 date: 2026-03-19
-tags: ['musique', 'auteur-compositeur', 'critique sociale', 'chanson taïwanaise', 'musique populaire']
+tags:
+  [
+    'musique',
+    'auteur-compositeur',
+    'critique sociale',
+    'chanson taïwanaise',
+    'musique populaire',
+  ]
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 5
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/羅大佑.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b0a18557d65ed7e'
+translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 
 # Lo Ta-yu : le parrain de la musique pop sinophone
@@ -18,15 +28,15 @@ Lo Ta-yu naît en 1954 à Taipei. Il est l'une des figures les plus marquantes d
 
 ## Les débuts d'une vocation et la percée
 
-Lo Ta-yu est à l'origine médecin : diplômé en 1976 du China Medical College (aujourd'hui China Medical University), il exerce quelque temps comme radiologue. Mais la passion de la musique l'emporte, et au début des années 1980, il troque son stéthoscope pour une guitare. En 1982, il publie son premier album solo, *Zhī Hū Zhě Yě* (之乎者也), qui fait immédiatement l'effet d'une déflagration dans le paysage musical sinophone. L'album rompt avec les arrangements traditionnels et ses paroles prennent pour cible les dysfonctionnements de la société taïwanaise, ouvrant une nouvelle ère pour la pop de langue chinoise.
+Lo Ta-yu est à l'origine médecin : diplômé en 1976 du China Medical College (aujourd'hui China Medical University), il exerce quelque temps comme radiologue. Mais la passion de la musique l'emporte, et au début des années 1980, il troque son stéthoscope pour une guitare. En 1982, il publie son premier album solo, _Zhī Hū Zhě Yě_ (之乎者也), qui fait immédiatement l'effet d'une déflagration dans le paysage musical sinophone. L'album rompt avec les arrangements traditionnels et ses paroles prennent pour cible les dysfonctionnements de la société taïwanaise, ouvrant une nouvelle ère pour la pop de langue chinoise.
 
-*Lugang Xiaozhen* décrit la désorientation des villages taïwanais confrontés à la modernisation accélérée ; *Zhī Hū Zhě Yě* raille la rigidité du système éducatif. Ces deux titres font de Lo Ta-yu l'emblème du Nouveau Mouvement Musical taïwanais des années 1980. Ses chansons ne se contentent pas de divertir — elles interrogent, analysent, bousculent.
+_Lugang Xiaozhen_ décrit la désorientation des villages taïwanais confrontés à la modernisation accélérée ; _Zhī Hū Zhě Yě_ raille la rigidité du système éducatif. Ces deux titres font de Lo Ta-yu l'emblème du Nouveau Mouvement Musical taïwanais des années 1980. Ses chansons ne se contentent pas de divertir — elles interrogent, analysent, bousculent.
 
 ## Les œuvres phares et la conscience sociale
 
-Le répertoire de Lo Ta-yu couvre un spectre extraordinairement large : intime ou collectif, nostalgique ou anxieux face à l'avenir. *Tóngnián* (Enfance) convoque, par une mélodie d'une apparente simplicité, les souvenirs d'enfance de toute une génération — c'est sans doute l'une des chansons les plus aimées du monde sinophone. *Liànqǔ 1990* (Romance 1990) enrobe dans une ballade romantique les espoirs posés sur les relations entre les deux rives du détroit, une dimension particulièrement chargée de sens dans le contexte politique de l'époque.
+Le répertoire de Lo Ta-yu couvre un spectre extraordinairement large : intime ou collectif, nostalgique ou anxieux face à l'avenir. _Tóngnián_ (Enfance) convoque, par une mélodie d'une apparente simplicité, les souvenirs d'enfance de toute une génération — c'est sans doute l'une des chansons les plus aimées du monde sinophone. _Liànqǔ 1990_ (Romance 1990) enrobe dans une ballade romantique les espoirs posés sur les relations entre les deux rives du détroit, une dimension particulièrement chargée de sens dans le contexte politique de l'époque.
 
-*Yàxìyà de Gūér* (L'Orphelin d'Asie) explore le statut politique singulier de Taïwan ; *Wèilái de Zhǔrénwēng* (Les Maîtres de demain) exprime une inquiétude affectueuse pour les générations futures. À travers ces œuvres, Lo Ta-yu dépasse le rôle de musicien pour devenir le porte-voix d'une époque. Il possède ce rare talent : traduire en langage musical des questions sociales complexes, de façon à ce que le grand public y ressente quelque chose de profond.
+_Yàxìyà de Gūér_ (L'Orphelin d'Asie) explore le statut politique singulier de Taïwan ; _Wèilái de Zhǔrénwēng_ (Les Maîtres de demain) exprime une inquiétude affectueuse pour les générations futures. À travers ces œuvres, Lo Ta-yu dépasse le rôle de musicien pour devenir le porte-voix d'une époque. Il possède ce rare talent : traduire en langage musical des questions sociales complexes, de façon à ce que le grand public y ressente quelque chose de profond.
 
 ## Style musical et philosophie créative
 
@@ -36,7 +46,7 @@ Il s'est également imposé comme producteur de premier plan, collaborant avec d
 
 ## Une influence qui traverse les générations
 
-Passé le tournant du XXIe siècle, Lo Ta-yu reste actif et curieux, continuant à s'engager sur les questions du temps. Sa musique a marqué d'innombrables artistes de la génération suivante — Wu Bai et Chen Sheng, entre autres, ont publiquement exprimé leur dette à son égard. En 2020, il publie *Jiā III* (Famille III), album qui témoigne d'une sensibilité et d'une créativité toujours intactes.
+Passé le tournant du XXIe siècle, Lo Ta-yu reste actif et curieux, continuant à s'engager sur les questions du temps. Sa musique a marqué d'innombrables artistes de la génération suivante — Wu Bai et Chen Sheng, entre autres, ont publiquement exprimé leur dette à son égard. En 2020, il publie _Jiā III_ (Famille III), album qui témoigne d'une sensibilité et d'une créativité toujours intactes.
 
 Une carrière de plus de quarante ans, pendant laquelle Lo Ta-yu a été à la fois témoin et acteur de l'âge d'or de la musique pop sinophone. Ses œuvres ne sont pas seulement de la musique — elles constituent un précieux document sur l'évolution de Taïwan et des sociétés sinophones. En tant que « parrain de la pop sinophone », Lo Ta-yu a écrit, chanson après chanson, une épopée sur les transformations d'un monde.
 

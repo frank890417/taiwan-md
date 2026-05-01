@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：玉山金控.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:36f7111132b226f6'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약:** 위산금융지주는 1992년 대만 최초의 신용카드 전문 은행으로 출발했다. 2008년 황난저우가 43세에 대만 역사상 최연소 금융지주 총경리로 취임해 위산을 디지털 금융의 선구자로 이끌었다. 2024년 자산 규모는 2조 8,000억 위안으로 대만 민간 금융지주 3위에 올랐으며, 수년 연속 Brand Finance 대만 가장 가치 있는 은행 브랜드로 선정되었다.

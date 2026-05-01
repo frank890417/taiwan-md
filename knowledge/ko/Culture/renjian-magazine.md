@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Culture/人間雜誌.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:71f7c3d911b14d72'
+translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 
 # 인간잡지(人間雜誌)

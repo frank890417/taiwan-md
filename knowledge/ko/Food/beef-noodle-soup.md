@@ -13,6 +13,9 @@ image: '/images/wiki/5be514264de6.jpg'
 imageAlt: '대만 우육면'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
+sourceCommitSha: 03431927
+sourceContentHash: 'sha256:9ff225473fbb73d5'
+translatedAt: '2026-04-30T21:57:32+08:00'
 ---
 
 # 우육면

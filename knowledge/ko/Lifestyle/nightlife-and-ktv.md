@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
+sourceCommitSha: 87911554
+sourceContentHash: 'sha256:b2fc903c97041562'
+translatedAt: '2026-04-28T21:41:13+08:00'
 ---
 
 # 야간 문화와 KTV

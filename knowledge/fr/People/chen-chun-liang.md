@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
-translatedFrom: 'People/陳俊良.md'
+translatedFrom: "People/陳俊良.md"
 lastVerified: 2026-03-19
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:230d66867f466f8b"
+translatedAt: "2026-04-14T19:19:21+08:00"
 ---
 
 # Chen Chun-liang : réinventer le design taïwanais par la poésie

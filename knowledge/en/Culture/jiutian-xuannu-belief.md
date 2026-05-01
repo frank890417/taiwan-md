@@ -11,6 +11,9 @@ featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/九天玄女信仰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c7b34b7d400744b0'
+translatedAt: '2026-05-01T17:09:56+08:00'
 ---
 
 > **30-second overview:** Jiutian Xuannu is a Chinese goddess who, in myth, descended onto an ancient battlefield and taught the Yellow Emperor how to defeat his enemy. In Taiwan, she evolved into something far stranger: patron saint of the incense industry, popular matchmaker, exam-season savior, and — most remarkably — the namesake deity behind a troupe of former dropout teenagers who performed at Lincoln Center. Their founder spent 11 years earning a doctorate just to prove the cultural establishment wrong.

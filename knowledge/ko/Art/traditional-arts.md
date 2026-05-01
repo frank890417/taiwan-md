@@ -19,6 +19,9 @@ readingTime: 12
 featured: true
 translatedFrom: 'Art/台灣傳統藝術.md'
 lastVerified: '2026-03-24'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8199dcc4edeb2fce'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 대만 전통 예술: 시골 소극장에서 문화 제국으로의 역전 신화

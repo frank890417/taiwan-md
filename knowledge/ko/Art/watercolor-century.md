@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c0b72206c0902f28'
+translatedAt: '2026-04-14T09:31:15+08:00'
 ---
 
 # 대만 수채화 100년의 흐름

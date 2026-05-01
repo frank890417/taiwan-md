@@ -1,8 +1,14 @@
 ---
 title: 'Le Mouvement des Tournesols — Douze ans après ces trente secondes'
-description: 'Un député couché sur le sol, un micro de revers, trente secondes de discours : c''est tout ce qu''il a fallu pour déclencher vingt-quatre jours d''occupation du Parlement, l''éveil politique d''une génération, et le début du désengagement économique de Taïwan vis-à-vis de la Chine. Douze ans plus tard, les lois réclamées par les étudiants n''ont pas abouti — et pourtant, ils ont remporté une guerre qu''ils ignoraient mener.'
+description: "Un député couché sur le sol, un micro de revers, trente secondes de discours : c'est tout ce qu'il a fallu pour déclencher vingt-quatre jours d'occupation du Parlement, l'éveil politique d'une génération, et le début du désengagement économique de Taïwan vis-à-vis de la Chine. Douze ans plus tard, les lois réclamées par les étudiants n'ont pas abouti — et pourtant, ils ont remporté une guerre qu'ils ignoraient mener."
 date: 2026-04-12
-tags: ['mouvements sociaux', 'démocratie', 'relations entre les deux rives', 'technologie civique']
+tags:
+  [
+    'mouvements sociaux',
+    'démocratie',
+    'relations entre les deux rives',
+    'technologie civique',
+  ]
 category: 'Society'
 subcategory: 'Démocratie et politique'
 author: 'Taiwan.md Translation Team'
@@ -10,12 +16,15 @@ featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'Society/太陽花學運.md'
+sourceCommitSha: 'f4dfb120'
+sourceContentHash: 'sha256:3f71545c6d9fa310'
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 > **Résumé en 30 secondes :** Le 17 mars 2014, le député du Kuomintang Chang Ching-chung, couché à même le sol, ânonne trente secondes dans son micro de revers pour déclarer l'accord de commerce de services « examiné ». Le lendemain soir, deux cents étudiants escaladent les grilles du Parlement et installent une diffusion en direct vingt-quatre heures sur vingt-quatre via une tablette, court-circuitant toutes les chaînes de télévision. Vingt-quatre jours plus tard, les étudiants se retirent. L'accord n'est pas rejeté — il est abandonné par l'Histoire. Les chiffres parlent d'eux-mêmes : la dépendance commerciale de Taïwan envers la Chine est passée de 42 % à 31,5 %. Ils ont gagné une guerre qu'ils ne savaient pas mener.
 
-| 42 % → 31,5 %                                              | 633 000 TWD                                                   |
-| ---------------------------------------------------------- | ------------------------------------------------------------- |
+| 42 % → 31,5 %                                                                               | 633 000 TWD                                                                                        |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Baisse de la dépendance aux exportations vers la Chine (Hongkong inclus) entre 2014 et 2025 | Financement participatif pour la publicité dans le New York Times (objectif atteint en 35 minutes) |
 
 ## Trente secondes
@@ -108,10 +117,10 @@ Et pourtant, ils ont gagné une guerre qu'ils ignoraient mener.
 
 Le Mouvement des Tournesols a mis fin, dans les faits, à l'imaginaire d'une intégration économique sino-taïwanaise. En 2014, la dépendance de Taïwan aux exportations vers la Chine (Hongkong inclus) était d'environ 42 %. En 2025, ce chiffre est de 31,5 %[^16]. Sur la même période, la part des États-Unis est passée de 11 % à 16,7 %[^17].
 
-| Arguments en faveur de l'accord              | Arguments contre l'accord                                          |
-| -------------------------------------------- | ------------------------------------------------------------------ |
-| Renforcer la compétitivité internationale    | Les capitaux chinois menaceraient les PME taïwanaises              |
-| Approfondir l'intégration économique         | La diversité éditoriale serait mise en danger                      |
+| Arguments en faveur de l'accord                                     | Arguments contre l'accord                                                                             |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Renforcer la compétitivité internationale                           | Les capitaux chinois menaceraient les PME taïwanaises                                                 |
+| Approfondir l'intégration économique                                | La diversité éditoriale serait mise en danger                                                         |
 | Permettre aux banques taïwanaises d'ouvrir des succursales en Chine | Risque de constitution d'un « groupe d'intérêt pro-Pékin » (selon l'économiste Lin Hsiang-kai de NTU) |
 
 Ce basculement n'est pas uniquement dû aux Tournesols. La guerre commerciale sino-américaine de 2018 a accéléré la recomposition des chaînes d'approvisionnement, poussant les industriels taïwanais à déplacer leur production de Chine vers le Vietnam et l'Inde. La politique « Nouvelle Direction vers le Sud » du gouvernement Tsai a renforcé les liens économiques avec l'Asie du Sud-Est. Mais le Mouvement des Tournesols en est le point de départ : il a transformé l'idée que « l'économie ne doit pas dépendre excessivement de la Chine », jusqu'alors marginale, en consensus social.

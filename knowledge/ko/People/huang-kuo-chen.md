@@ -2,13 +2,17 @@
 title: '황궈전'
 description: '핀쉐탕 창립자. 타이완의 독해 리터러시 교육을 이끌며 "시험은 잘 보지만 생각은 못 하는" 교육 문제를 바꾸는 데 헌신하고 있다'
 date: 2026-03-20
-tags: ['교육', '독해 리터러시', '핀쉐탕', '독해력', '교육 혁신', '리터러시 교육']
+tags:
+  ['교육', '독해 리터러시', '핀쉐탕', '독해력', '교육 혁신', '리터러시 교육']
 subcategory: '교육과 사회'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
 translatedFrom: 'People/黃國珍.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:7d3b709915399ea3'
+translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 
 # 황궈전: 타이완 아이들에게 "다 읽기"가 아닌 "제대로 읽기"를 가르치다
@@ -32,6 +36,7 @@ translatedFrom: 'People/黃國珍.md'
 황궈전은 타이완의 저명한 작가 황춘밍의 아들이기도 하다. 부자 두 세대, 한 명은 문학으로 타이완 향토의 생명력을 기록하고, 다른 한 명은 교육으로 다음 세대가 이 세상을 제대로 읽어낼 능력을 키운다.
 
 ## 관련 인물
+
 - [葉丙成](/people/葉丙成): 타이완대학교 교수, PaGamO 게임형 학습 플랫폼 개발자
 - [呂冠緯](/people/呂冠緯): 쥔이 교육 플랫폼 창립자
 - [黃春明](/people/黃春明): 타이완 향토문학의 거장, 황궈전의 부친

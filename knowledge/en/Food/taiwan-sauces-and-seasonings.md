@@ -17,6 +17,9 @@ category: 'Food'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Food/台灣醬料與調味.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:80c0f5a5b4a4fc5f'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's Sauces and Seasonings

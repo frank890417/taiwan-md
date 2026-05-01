@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'People/賴清德.md'
+sourceCommitSha: 'ddc476ed'
+sourceContentHash: 'sha256:f861239ab7bfbfde'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 라이칭더: 광부 가정 출신 공중보건 의사, 총통이 되다

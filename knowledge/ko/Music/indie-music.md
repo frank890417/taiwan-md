@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: true
 translatedFrom: 'Music/台灣獨立音樂.md'
+sourceCommitSha: '7e73d534'
+sourceContentHash: 'sha256:9b099c2af8064aa9'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 **30초 요약: 1986년, 한일 혼혈 청년 런장다(任將達)는 30만 대만달러를 빌려 곧 문을 닫을 레코드 가게를 인수했다. "아무도 듣지 않는 음악"을 대만에 들여오기 위해서였다. 40년 후, 그 레코드 가게에서 자라난 생태계(live house, 인디 레이블, StreetVoice, 금음창작상)는 카페에서 음반을 팔던 밴드를 금곡상 올해의 앨범에 올렸고, 영어로만 노래하는 타이베이 밴드를 코첼라 무대에 세웠다. 대만 인디 음악의 이야기는 지하에서 주류로의 성공 신화가 아니라, 끝없는 릴레이다. 매 주자는 숨이 차고, 쓰러질 것 같았지만 바통은 한 번도 떨어지지 않았다.**

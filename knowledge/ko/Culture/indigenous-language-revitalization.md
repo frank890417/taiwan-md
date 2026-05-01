@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
 lastVerified: 2026-03-29
+sourceCommitSha: '26216f73'
+sourceContentHash: 'sha256:9c408bfc603af1d1'
+translatedAt: '2026-04-14T07:35:59+08:00'
 ---
 
 # 대만 원주민 언어 부흥 운동

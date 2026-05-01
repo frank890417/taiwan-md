@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:fc263f7b3e9c2710'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 # 대만 전자 음악과 파티 문화: 지하 레이브에서 국제 무대까지

@@ -1,6 +1,6 @@
 ---
-title: 'L''écologie marine de Taïwan'
-description: 'Des eaux gardées depuis des millénaires par les tabous des Tao, aujourd''hui blanchies sous l''effet des chaleurs et des bruits sous-marins : quand la sagesse écologique ancestrale rencontre la crise maritime moderne'
+title: "L'écologie marine de Taïwan"
+description: "Des eaux gardées depuis des millénaires par les tabous des Tao, aujourd'hui blanchies sous l'effet des chaleurs et des bruits sous-marins : quand la sagesse écologique ancestrale rencontre la crise maritime moderne"
 date: 2026-03-23
 tags:
   [
@@ -23,6 +23,9 @@ featured: false
 translatedFrom: 'Nature/台灣海洋生態.md'
 lastVerified: 2026-03-23
 lastHumanReview: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:34ef5e8d367bee9d'
+translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 
 # L'écologie marine de Taïwan
@@ -92,12 +95,12 @@ Ces dauphins fréquentent un couloir côtier de 763 km² le long de la côte oue
 
 Les dangers qui pèsent sur le dauphin blanc de Taïwan se combinent en une « tempête parfaite » :
 
-| Type de menace | Impact concret |
-| --- | --- |
+| Type de menace                   | Impact concret                                                           |
+| -------------------------------- | ------------------------------------------------------------------------ |
 | **Pollution sonore sous-marine** | Travaux éoliens offshore, navigation perturbant la navigation acoustique |
-| **Destruction de l'habitat** | Aménagement côtier et remblaiement réduisant l'espace vital |
-| **Activité de pêche** | Enchevêtrements dans les filets, prises accidentelles mortelles |
-| **Pollution de l'eau** | Rejets industriels, pollution agricole diffuse |
+| **Destruction de l'habitat**     | Aménagement côtier et remblaiement réduisant l'espace vital              |
+| **Activité de pêche**            | Enchevêtrements dans les filets, prises accidentelles mortelles          |
+| **Pollution de l'eau**           | Rejets industriels, pollution agricole diffuse                           |
 
 **L'ironie cruelle : les parcs éoliens offshore construits pour lutter contre le changement climatique pourraient bien accélérer l'extinction du dauphin blanc de Taïwan.**
 
@@ -172,12 +175,12 @@ Taïwan affiche des objectifs ambitieux pour l'éolien offshore : 5,7 GW d'ici 2
 
 **Impact de l'éolien offshore sur le milieu marin :**
 
-| Phase de construction | Impact écologique |
-| --- | --- |
-| **Travaux sous-marins** | Battage de pieux à 160 décibels, perturbant les cétacés dans un rayon de 20 km |
-| **Perturbation des fonds marins** | Modification des habitats benthiques |
-| **Pose de câbles** | Dégradation de l'écosystème intertidal |
-| **Phase opérationnelle** | Bruit basse fréquence continu des éoliennes |
+| Phase de construction             | Impact écologique                                                              |
+| --------------------------------- | ------------------------------------------------------------------------------ |
+| **Travaux sous-marins**           | Battage de pieux à 160 décibels, perturbant les cétacés dans un rayon de 20 km |
+| **Perturbation des fonds marins** | Modification des habitats benthiques                                           |
+| **Pose de câbles**                | Dégradation de l'écosystème intertidal                                         |
+| **Phase opérationnelle**          | Bruit basse fréquence continu des éoliennes                                    |
 
 ### Le couloir vital du dauphin blanc
 
@@ -256,11 +259,11 @@ Taïwan a forgé un modèle de conservation marine distinctif fondé sur la « p
 
 Le réseau d'aires marines protégées de Taïwan couvre plusieurs niveaux de protection :
 
-| Aire protégée | Superficie (km²) | Espèces cibles |
-| --- | --- | --- |
-| **Parc national de l'atoll de Dongsha** | 3 537 | Écosystème atollien, récifs coralliens |
-| **Parc national des quatre îles au sud de Penghu** | 1 359 | Géologie basaltique, faune marine |
-| **Réserve marine de Green Island** | 15 | Poissons de récif corallien |
+| Aire protégée                                      | Superficie (km²) | Espèces cibles                         |
+| -------------------------------------------------- | ---------------- | -------------------------------------- |
+| **Parc national de l'atoll de Dongsha**            | 3 537            | Écosystème atollien, récifs coralliens |
+| **Parc national des quatre îles au sud de Penghu** | 1 359            | Géologie basaltique, faune marine      |
+| **Réserve marine de Green Island**                 | 15               | Poissons de récif corallien            |
 
 Mais délimiter des zones protégées n'est qu'un premier pas. Le défi majeur est de maintenir la fonctionnalité écologique de ces espaces face aux perturbations climatiques.
 

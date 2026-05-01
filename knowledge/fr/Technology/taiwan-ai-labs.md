@@ -10,7 +10,10 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Technology/台灣人工智慧實驗室.md'
+translatedFrom: "Technology/台灣人工智慧實驗室.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:4e74b5658957423e"
+translatedAt: "2026-04-14T12:32:55+08:00"
 ---
 
 # Taiwan AI Labs — Le laboratoire d'intelligence artificielle de Taïwan

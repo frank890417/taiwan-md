@@ -2,7 +2,15 @@
 title: "L'écosystème alpin de Taïwan et ses reliques glaciaires"
 description: "Découvrez l'écosystème unique des sommets taïwanais au-dessus de 3 000 mètres — du sapin de Taïwan et des rhododendrons de Yushan aux espèces rescapées de l'ère glaciaire, un trésor de biodiversité hors du commun."
 date: 2026-03-20
-tags: ['écologie alpine', 'reliques glaciaires', 'Taiwania', 'flore alpine', 'biodiversité', 'changement climatique']
+tags:
+  [
+    'écologie alpine',
+    'reliques glaciaires',
+    'Taiwania',
+    'flore alpine',
+    'biodiversité',
+    'changement climatique',
+  ]
 subcategory: 'Écosystèmes'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +19,9 @@ featured: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
 lastVerified: 2026-03-20
 lastHumanReview: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f8dc834054c6b8b9'
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 # L'écosystème alpin de Taïwan et ses reliques glaciaires
@@ -39,11 +50,11 @@ Les éboulis de quartzite et de schiste offrent un drainage excellent mais retie
 
 ### La forêt de conifères (2 500 – 3 100 m)
 
-C'est la porte d'entrée de l'écosystème alpin, dominée par les conifères. Le sapin de Kawakami (*Abies kawakamii*) en est l'espèce emblématique : il forme de vastes peuplements purs, résiste au froid intense, aux vents violents et à une saison de végétation très courte. C'est lui qui marque la limite supérieure de la forêt taïwanaise.
+C'est la porte d'entrée de l'écosystème alpin, dominée par les conifères. Le sapin de Kawakami (_Abies kawakamii_) en est l'espèce emblématique : il forme de vastes peuplements purs, résiste au froid intense, aux vents violents et à une saison de végétation très courte. C'est lui qui marque la limite supérieure de la forêt taïwanaise.
 
-Plus bas dans cet étage, la pruche de Chine (*Tsuga chinensis* var. *formosana*) se mêle souvent au sapin. Quelques beaux spécimens de thuya rouge de Taïwan et de Taiwania persistent en marge, mais leur présence devient rarissime.
+Plus bas dans cet étage, la pruche de Chine (_Tsuga chinensis_ var. _formosana_) se mêle souvent au sapin. Quelques beaux spécimens de thuya rouge de Taïwan et de Taiwania persistent en marge, mais leur présence devient rarissime.
 
-Le sous-bois est largement tapissé par le bambou nain de Yushan (*Yushania niitakayamensis*), auquel s'ajoutent plusieurs espèces de rhododendrons, l'anis de Yushan et la Strobilanthes taïwanaise.
+Le sous-bois est largement tapissé par le bambou nain de Yushan (_Yushania niitakayamensis_), auquel s'ajoutent plusieurs espèces de rhododendrons, l'anis de Yushan et la Strobilanthes taïwanaise.
 
 ### La lande à bambou nain (3 100 – 3 400 m)
 
@@ -53,9 +64,9 @@ Dans cette lande s'intercalent des buissons bas de rhododendrons et de genévrie
 
 ### Les groupements végétaux d'altitude (au-dessus de 3 400 m)
 
-À mesure que l'on gagne en altitude, le bambou nain s'espace et laisse place à une communauté végétale plus diversifiée et plus spécialisée. Le genévrier de Morrison (*Juniperus squamata* var. *morrisonicola*) caractérise cette zone : il adopte des formes rampantes ou en coussinet pour s'adapter aux vents extrêmes.
+À mesure que l'on gagne en altitude, le bambou nain s'espace et laisse place à une communauté végétale plus diversifiée et plus spécialisée. Le genévrier de Morrison (_Juniperus squamata_ var. _morrisonicola_) caractérise cette zone : il adopte des formes rampantes ou en coussinet pour s'adapter aux vents extrêmes.
 
-Le rhododendron de Yushan (*Rhododendron pseudochrysanthum*) est la plante-emblème des hautes altitudes de Taïwan. Chaque année entre mai et juin, il teint les crêtes en rose. Limité à plus de 3 000 mètres, il incarne à lui seul l'identité florale de la haute montagne taïwanaise.
+Le rhododendron de Yushan (_Rhododendron pseudochrysanthum_) est la plante-emblème des hautes altitudes de Taïwan. Chaque année entre mai et juin, il teint les crêtes en rose. Limité à plus de 3 000 mètres, il incarne à lui seul l'identité florale de la haute montagne taïwanaise.
 
 D'autres espèces complètent ce tableau : l'oeillet de Yushan, l'orpin, la centaurée et le miscanthus de montagne — toutes adoptent une morphologie en rosette ou en coussinet, stratégie éprouvée pour réduire la prise au vent et conserver la chaleur.
 
@@ -69,21 +80,21 @@ Taïwan abrite environ 200 espèces végétales reliques, la plupart confinées 
 
 ### Espèces végétales remarquables
 
-La **Taiwania** (*Taiwania cryptomerioides*) est le fleuron des reliques glaciaires taïwanaises. Cet ancien conifère existait déjà au Miocène, il y a 23 millions d'années, et ne survit plus aujourd'hui qu'à Taïwan et dans quelques massifs du sud-ouest de la Chine. Il peut atteindre 80 mètres de hauteur et vivre plus de 2 000 ans.
+La **Taiwania** (_Taiwania cryptomerioides_) est le fleuron des reliques glaciaires taïwanaises. Cet ancien conifère existait déjà au Miocène, il y a 23 millions d'années, et ne survit plus aujourd'hui qu'à Taïwan et dans quelques massifs du sud-ouest de la Chine. Il peut atteindre 80 mètres de hauteur et vivre plus de 2 000 ans.
 
-Le **sapin de Kawakami** porte certes le qualificatif « de Taïwan », mais il est aussi une relique du genre *Abies*, largement répandu dans les zones tempérées de l'hémisphère nord. Il représente l'une des dernières populations de ce genre sous les tropiques.
+Le **sapin de Kawakami** porte certes le qualificatif « de Taïwan », mais il est aussi une relique du genre _Abies_, largement répandu dans les zones tempérées de l'hémisphère nord. Il représente l'une des dernières populations de ce genre sous les tropiques.
 
-Le **genévrier de Morrison** est une forme alpestre spécialisée du genre *Juniperus*, dont la vaste distribution paléo-climatique s'est fragmentée à la fin des glaciations. La population taïwanaise marque la limite méridionale de cette dispersion.
+Le **genévrier de Morrison** est une forme alpestre spécialisée du genre _Juniperus_, dont la vaste distribution paléo-climatique s'est fragmentée à la fin des glaciations. La population taïwanaise marque la limite méridionale de cette dispersion.
 
-La **plione de Formose** (*Pleione formosana*) est une orchidée relique. Le genre *Pleione* est surtout distribué dans l'Himalaya ; l'espèce taïwanaise représente sa limite orientale et méridionale.
+La **plione de Formose** (_Pleione formosana_) est une orchidée relique. Le genre _Pleione_ est surtout distribué dans l'Himalaya ; l'espèce taïwanaise représente sa limite orientale et méridionale.
 
-Le **chardon de Kawakami** (*Cirsium kawakamii*) est un chardon endémique d'altitude. La plupart des espèces du genre *Cirsium* habitent les zones tempérées : les populations taïwanaises sont les héritières de communautés qui ont migré vers le sud pendant les glaciations.
+Le **chardon de Kawakami** (_Cirsium kawakamii_) est un chardon endémique d'altitude. La plupart des espèces du genre _Cirsium_ habitent les zones tempérées : les populations taïwanaises sont les héritières de communautés qui ont migré vers le sud pendant les glaciations.
 
 ### Animaux reliques des altitudes
 
-La **souris à ventre blanc des montagnes de Taïwan** (*Niviventer culturatus*) est une espèce endémique des forêts alpines. Son genre, *Niviventer*, est principalement distribué dans les régions himalayennes ; les individus taïwanais descendent de populations venues du nord pendant les glaciations.
+La **souris à ventre blanc des montagnes de Taïwan** (_Niviventer culturatus_) est une espèce endémique des forêts alpines. Son genre, _Niviventer_, est principalement distribué dans les régions himalayennes ; les individus taïwanais descendent de populations venues du nord pendant les glaciations.
 
-La **musaraigne alpine de Taïwan** (*Sorex bedfordiae*) occupe les versants au-dessus de 2 000 mètres. Les musaraignes sont typiquement des animaux des régions froides : cette espèce est l'une des rares représentantes de la famille sous les tropiques.
+La **musaraigne alpine de Taïwan** (_Sorex bedfordiae_) occupe les versants au-dessus de 2 000 mètres. Les musaraignes sont typiquement des animaux des régions froides : cette espèce est l'une des rares représentantes de la famille sous les tropiques.
 
 Les **salamandres** constituent peut-être l'exemple le plus saisissant. La salamandre d'Alishan, celle de Guanwu, celle du lac Nanhu — toutes sont des reliques glaciaires cantonnées aux torrents froids de haute montagne. Exigeant un milieu froid et humide toute l'année, elles ont trouvé dans ces altitudes leur dernier refuge.
 
@@ -169,5 +180,5 @@ L'histoire des reliques glaciaires nous rappelle que la vie est à la fois d'une
 - [Biodiversity Research Center, Academia Sinica](https://biodiv.sinica.edu.tw/) — Systématique et évolution des plantes alpines
 - [Institute of Ecology and Evolutionary Biology, National Taiwan University](https://ecology.ntu.edu.tw/) — Fonctionnement des écosystèmes alpins
 - [Flora of Taiwan](http://tai2.ntu.edu.tw/) — Catalogue complet des plantes vasculaires de Taïwan
-- Yang Nanjun, *Les Montagnes de Taïwan*, Yuan-Liou Publishing, 2002
-- Lü Shengyu, *Les Plantes reliques glaciaires de Taïwan*, Linking Publishing, 2018
+- Yang Nanjun, _Les Montagnes de Taïwan_, Yuan-Liou Publishing, 2002
+- Lü Shengyu, _Les Plantes reliques glaciaires de Taïwan_, Linking Publishing, 2018

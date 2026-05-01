@@ -18,6 +18,9 @@ readingTime: 14
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+sourceCommitSha: '26f2ff91'
+sourceContentHash: 'sha256:7efae3ba4a618ac5'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만의 기후 위기와 탄소중립 전환

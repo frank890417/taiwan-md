@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Technology/台灣新創生態系.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3304801c4c62ac90'
+translatedAt: '2026-04-14T06:57:58+08:00'
 ---
 
 # 대만 스타트업 생태계

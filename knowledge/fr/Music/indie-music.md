@@ -10,7 +10,10 @@ featured: true
 readingTime: 14
 lastVerified: 2026-03-29
 lastHumanReview: false
-translatedFrom: 'Music/台灣獨立音樂.md'
+translatedFrom: "Music/台灣獨立音樂.md"
+sourceCommitSha: "7e73d534"
+sourceContentHash: "sha256:9b099c2af8064aa9"
+translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 
 **En 30 secondes : En 1986, Jen Jiang-da — d'ascendance coréo-japonaise — emprunte 300 000 nouveaux dollars taïwanais pour reprendre un disquaire à l'agonie et commence à importer à Taïwan « des musiques que personne ne voulait entendre ». Quarante ans plus tard, l'écosystème né de cette boutique — les live houses, les labels indépendants, StreetVoice, le Golden Indie Music Awards — a propulsé un groupe qui vendait ses disques dans un café jusqu'au prix de l'Album de l'année aux Golden Melody Awards, et envoyé un groupe de Taipei qui chante entièrement en anglais jusqu'à Coachella. L'histoire de la scène indie taïwanaise n'est pas celle d'une success story souterraine qui conquiert les sommets : c'est un relais sans ligne d'arrivée, où chaque coureur arrive à bout de souffle, où chacun croit que c'est lui qui va lâcher — mais où le témoin ne tombe jamais.**
@@ -21,7 +24,7 @@ Taipei, 1986 — un an avant la levée de la loi martiale. Un jeune homme d'asce
 
 À l'époque, le marché du disque taïwanais est verrouillé par Rock Records et Flying Butterfly Records. La notion même de « label indépendant » n'existe pas, et la jeunesse oscille entre les hit-parades occidentaux et les chansons d'amour en mandarin.
 
-Mais Jen Jiang-da fait des choses que personne d'autre ne fait. En 1987, il fonde le mensuel *Rock 'n Roll* et importe à Taïwan le concept de musique underground. La même année, il lance le « Taipei New Music Festival », qui se tiendra quatre fois de suite. En 1991, il produit la série *Voix des profondeurs de Taïwan* — des enregistrements de terrain qui collectent les chants des peuples autochtones, la musique de rue nakasi, le beiguan, l'opéra gezai, les crieurs de marchés nocturnes. Dans un monde entier à courir après le rock occidental, il se penche pour écouter les fréquences de son propre sol.
+Mais Jen Jiang-da fait des choses que personne d'autre ne fait. En 1987, il fonde le mensuel _Rock 'n Roll_ et importe à Taïwan le concept de musique underground. La même année, il lance le « Taipei New Music Festival », qui se tiendra quatre fois de suite. En 1991, il produit la série _Voix des profondeurs de Taïwan_ — des enregistrements de terrain qui collectent les chants des peuples autochtones, la musique de rue nakasi, le beiguan, l'opéra gezai, les crieurs de marchés nocturnes. Dans un monde entier à courir après le rock occidental, il se penche pour écouter les fréquences de son propre sol.
 
 > **✦** « J'ai ce désir de rendre visible ce qui est minoritaire, ce que personne ne voit. » — Jen Jiang-da
 
@@ -38,7 +41,7 @@ Et pourtant, en 1998, les Golden Melody Awards remettent pour la première fois 
 
 Le 15 juillet 1987, Taïwan lève sa loi martiale, en vigueur depuis 38 ans. Pour la musique, cela signifie concrètement une chose : on peut enfin chanter ce qu'on veut, à voix haute.
 
-La liberté retrouvée ouvre les vannes, et une énergie créatrice réprimée pendant des décennies se libère d'un coup. En 1989, Black List Studio publie *Crazy Songs* — un album entièrement en taïwanais qui mêle rythmes hip-hop et satire politique, prouvant qu'une musique populaire peut être à la fois entraînante et dangereuse. La même année, des lycéens de l'école annexe de l'NTNU fondent ce qui deviendra Chthonic (濁水溪公社). Ils mélangent punk, bruit, nakasi et taïwanais, et documentent la vie des classes populaires avec une violence assumée.
+La liberté retrouvée ouvre les vannes, et une énergie créatrice réprimée pendant des décennies se libère d'un coup. En 1989, Black List Studio publie _Crazy Songs_ — un album entièrement en taïwanais qui mêle rythmes hip-hop et satire politique, prouvant qu'une musique populaire peut être à la fois entraînante et dangereuse. La même année, des lycéens de l'école annexe de l'NTNU fondent ce qui deviendra Chthonic (濁水溪公社). Ils mélangent punk, bruit, nakasi et taïwanais, et documentent la vie des classes populaires avec une violence assumée.
 
 Ces sons partagent un trait commun : ils ne copient pas le rock occidental, ils remplissent des formes occidentales avec du contenu taïwanais. Des paroles en taïwanais pour critiquer les politiciens, du black metal pour chanter le massacre du 28 février 1947, du hakka pour célébrer la résistance contre le barrage du Meinong. La langue elle-même devient manifeste. Après quarante ans de monopole du mandarin sur la pop, chanter en taïwanais, en hakka, en langue autochtone est en soi un acte politique.
 
@@ -57,7 +60,7 @@ Ces salles ont chacune leur caractère propre : la Witch House est un salon, Riv
 En 2011, l'incendie d'une discothèque à Taichung fait neuf morts. Les autorités de toutes les villes durcissent aussitôt leurs contrôles sur les salles de spectacle. Le problème : la loi assimile les live houses aux discothèques — mêmes normes anti-incendie, mêmes restrictions de zonage — sans proposer de statut alternatif. Underworld, Witch House et The Wall reçoivent les uns après les autres des amendes. Underworld ferme définitivement le 15 juin 2013 avec ce message d'adieu : « Le gouvernement n'a rien fait pour légiférer sur les live houses. Il nous a traités comme une source de désordre social. Alors chérissons ensemble tous les souvenirs que nous avons créés. »
 
 > **🔢 Chiffres clés**
-> Les live houses taïwanaises n'ont obtenu une reconnaissance juridique qu'avec la révision de la *Loi sur le développement des industries culturelles et créatives* en 2015. Avant cette date, aucune salle de concert indépendante à Taïwan ne pouvait obtenir un enregistrement commercial pleinement conforme à la loi. Du premier soir à la dernière fermeture du Underworld — dix-sept ans — la musique indie taïwanaise est passée des sous-sols aux scènes des Golden Melody Awards, mais l'espace qui l'avait portée restait, juridiquement, une construction illégale.
+> Les live houses taïwanaises n'ont obtenu une reconnaissance juridique qu'avec la révision de la _Loi sur le développement des industries culturelles et créatives_ en 2015. Avant cette date, aucune salle de concert indépendante à Taïwan ne pouvait obtenir un enregistrement commercial pleinement conforme à la loi. Du premier soir à la dernière fermeture du Underworld — dix-sept ans — la musique indie taïwanaise est passée des sous-sols aux scènes des Golden Melody Awards, mais l'espace qui l'avait portée restait, juridiquement, une construction illégale.
 
 ## De « underground » à « indépendant » : la révolution d'un mot
 
@@ -65,7 +68,7 @@ Aux alentours de l'an 2000, l'expression « groupe underground » cède progress
 
 Le personnage clé de cette transition est Freddy Lim, chanteur de Chthonic. Il défend l'idée que les groupes doivent eux-mêmes monter à la surface, s'autoproduire, organiser leurs propres événements. Chthonic signe avec le label international Spinefarm Records, monte sur la scène du festival Download en Europe, et Freddy Lim est élu au Parlement taïwanais — il devient le premier musicien de l'histoire du pays à passer du mosh pit à l'hémicycle.
 
-Le chercheur He Dong-hong souligne que la notion taïwanaise d'« indépendant » diffère de son équivalent anglo-américain : en Grande-Bretagne, *indie* désigne une guerre des petits labels contre les majors ; à Taïwan, les labels de toutes tailles ont toujours coexisté. Rock Records est à la fois le plus grand label « indépendant » d'Asie et un partenaire de multinationales. « Indépendant » est davantage une posture esthétique et une pratique DIY qu'une opposition frontale à l'industrie.
+Le chercheur He Dong-hong souligne que la notion taïwanaise d'« indépendant » diffère de son équivalent anglo-américain : en Grande-Bretagne, _indie_ désigne une guerre des petits labels contre les majors ; à Taïwan, les labels de toutes tailles ont toujours coexisté. Rock Records est à la fois le plus grand label « indépendant » d'Asie et un partenaire de multinationales. « Indépendant » est davantage une posture esthétique et une pratique DIY qu'une opposition frontale à l'industrie.
 
 Cela explique un paradoxe qui déconcerte souvent les observateurs étrangers. Mayday se forme en 1997 au lycée, joue dans les live houses, publie son premier album en 1999, signe chez une major, puis remplit le Madison Square Garden de New York (billets épuisés en 48 heures). CNN les surnomme « les Beatles du mandopop ». Et pourtant, beaucoup de Taïwanais continuent de les appeler « un groupe d'origine indie ».
 
@@ -81,8 +84,8 @@ Cette reconnaissance institutionnelle ne réglera pas tous les problèmes — la
 
 ## Références
 
-- Blowmusic.tw, *Historique de la musique indie taïwanaise*, 2022.
-- *Mirror Weekly*, entretien avec Jen Jiang-da, 2017.
+- Blowmusic.tw, _Historique de la musique indie taïwanaise_, 2022.
+- _Mirror Weekly_, entretien avec Jen Jiang-da, 2017.
 - He Dong-hong, recherches sur Crystal Records, National Taiwan University.
 - [StreetVoice](https://streetvoice.com/) — plateforme de musique indépendante taïwanaise.
 - [Golden Indie Music Awards](https://gima.org.tw/) — palmarès annuel de la création musicale indépendante.

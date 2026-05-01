@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-30
-translatedFrom: 'Nature/台灣石虎保育.md'
+translatedFrom: "Nature/台灣石虎保育.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:51b6f9aa87c5e972"
+translatedAt: "2026-04-14T19:22:44+08:00"
 ---
 
 # Conservation du chat-léopard de Taïwan
@@ -66,11 +69,11 @@ Ces zones ont une caractéristique commune : **elles sont proches des humains**.
 
 ### I. La collision routière : le massacre silencieux
 
-Dans les cercles de la conservation à Taïwan, il existe une expression qui fait froid dans le dos : **la mort sur route** (路殺, *lùshā*). Animal nocturne, le chat-léopard traverse les routes la nuit pour chasser, trouver un partenaire ou patrouiller son territoire — et les routes de campagne de Miaoli et de Nantou ne disposent ni de passages à faune, ni de ralentisseurs, ni du moindre aménagement pensé pour les animaux sauvages.
+Dans les cercles de la conservation à Taïwan, il existe une expression qui fait froid dans le dos : **la mort sur route** (路殺, _lùshā_). Animal nocturne, le chat-léopard traverse les routes la nuit pour chasser, trouver un partenaire ou patrouiller son territoire — et les routes de campagne de Miaoli et de Nantou ne disposent ni de passages à faune, ni de ralentisseurs, ni du moindre aménagement pensé pour les animaux sauvages.
 
 Les phares s'allument, les yeux du chat reflètent la lumière, et puis —
 
-Le média *Wuo Wuo*, spécialisé dans le bien-être animal, a titré un de ses dossiers sur la mort routière avec une formule déchirante : « *Scroutch !* Et je suis devenu du jerky. »
+Le média _Wuo Wuo_, spécialisé dans le bien-être animal, a titré un de ses dossiers sur la mort routière avec une formule déchirante : « _Scroutch !_ Et je suis devenu du jerky. »
 
 Entre 2017 et 2023, plus de 130 chats-léopards ont été tués sur les routes de manière documentée. Combien d'autres ne l'ont jamais été ? On ne sait pas.
 
@@ -88,7 +91,7 @@ C'est le théâtre de l'absurde de la conservation à Taïwan : on utilise l'ima
 
 Voici l'inconfort que le monde de la protection animale à Taïwan préfère éviter : **les chiens errants tuent des chats-léopards**.
 
-Les images capturées par des pièges photographiques sont de plus en plus nombreuses : des meutes de chiens divagants s'aventurent dans l'habitat du chat-léopard, le pourchassent, l'attaquent et le tuent. Le média *Wuo Wuo* a consacré un dossier entier à cette problématique, et les données montrent que l'attaque par les chiens est, après la collision routière, la deuxième cause de mortalité documentée chez le chat-léopard.
+Les images capturées par des pièges photographiques sont de plus en plus nombreuses : des meutes de chiens divagants s'aventurent dans l'habitat du chat-léopard, le pourchassent, l'attaquent et le tuent. Le média _Wuo Wuo_ a consacré un dossier entier à cette problématique, et les données montrent que l'attaque par les chiens est, après la collision routière, la deuxième cause de mortalité documentée chez le chat-léopard.
 
 Cela plonge les associations de protection animale et les chercheurs en écologie dans une position profondément inconfortable. Les défenseurs des chiens errants disent : « On ne peut pas les euthanasier. » Les défenseurs du chat-léopard répondent : « Si on ne gère pas les chiens divagants, le chat-léopard sera bel et bien éteint. »
 
@@ -184,7 +187,7 @@ Les Taïwanais aiment dire : « Qui prie, sera exaucé. » Mais le chat-léopard
 
 ## Pour aller plus loin
 
-Pour des reportages approfondis et des sources documentées, les dossiers thématiques de *Wuo Wuo* constituent un excellent point de départ.
+Pour des reportages approfondis et des sources documentées, les dossiers thématiques de _Wuo Wuo_ constituent un excellent point de départ.
 
 Pour suivre l'actualité officielle, le Centre de recherche et de conservation de la biodiversité (TBRI) et le ministère de l'Agriculture publient régulièrement des mises à jour sur la situation et les politiques en cours.
 
@@ -192,7 +195,7 @@ Liens de référence :
 
 - [Wuo Wuo : Avant l'extinction — dossier chat-léopard de Taïwan](https://wuo-wuo.com/topics/widlife/taiwan-leopard-cat)
 - [Wuo Wuo : La menace sous-estimée — les chiens qui tuent les chats-léopards](https://wuo-wuo.com/topics/widlife/dogkill)
-- [Wuo Wuo : *Scroutch !* — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic)
+- [Wuo Wuo : _Scroutch !_ — dossier sur les collisions routières](https://wuo-wuo.com/topics/widlife/94-road-killing-topic)
 - [Centre de recherche et de conservation de la biodiversité (TBRI)](https://www.tbri.gov.tw/)
 - [Programme de paiement écologique du ministère de l'Agriculture](https://www.moa.gov.tw/)
 - [Ambassadeurs de la conservation — la famille Ahu](https://www.facebook.com/LeopardCatTaiwan/)

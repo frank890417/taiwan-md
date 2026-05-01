@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-07
 translatedFrom: 'Culture/澎湖民俗文化.md'
+sourceCommitSha: 'e3376fec'
+sourceContentHash: 'sha256:20a4e415d5a5b5ab'
+translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 
 # 펑후 민속 문화

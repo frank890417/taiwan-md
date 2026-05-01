@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/席慕蓉.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:310ac0cea3702788'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 시무룽: 초원과 현대 사이의 시적 교향

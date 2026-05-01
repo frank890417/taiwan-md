@@ -18,6 +18,9 @@ readingTime: 6
 featured: false
 lastHumanReview: false
 translatedFrom: 'Geography/漯底山.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2cef849f8ebc6df7'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Tadian Mountain

@@ -9,7 +9,10 @@ featured: true
 category: 'People'
 lastVerified: 2026-03-30
 author: 'Taiwan.md Translation Team'
-translatedFrom: 'People/杜奕瑾.md'
+translatedFrom: "People/杜奕瑾.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:bfd44714801a9d19"
+translatedAt: "2026-04-14T19:15:40+08:00"
 ---
 
 # Du Yi-Jin

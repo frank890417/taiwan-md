@@ -2,7 +2,14 @@
 title: 'La photographie à Taïwan'
 description: "De la révolution moderniste de Chang Chao-tang en 1965 à l'humanisme rural de Juan I-jong dans Hommes et Terre, la photographie taïwanaise capte l'âme d'une île en perpétuelle transformation"
 date: 2026-03-20
-tags: ['photographie', 'arts visuels', 'Chang Chao-tang', 'Juan I-jong', 'documentaire']
+tags:
+  [
+    'photographie',
+    'arts visuels',
+    'Chang Chao-tang',
+    'Juan I-jong',
+    'documentaire',
+  ]
 subcategory: 'Arts visuels'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
@@ -12,11 +19,14 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Art/台灣攝影.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:52b7961ea27ae3bf'
+translatedAt: '2026-04-14T19:13:26+08:00'
 ---
 
 # La photographie à Taïwan
 
-> **En 30 secondes :** La photographie taïwanaise prend racine à l'époque coloniale japonaise. En 1965, l'exposition en duo de Chang Chao-tang et Cheng Sang-hsi ouvre la voie à une esthétique d'avant-garde. En 1987, le recueil *Hommes et Terre* de Juan I-jong s'impose comme un classique du documentaire humaniste. La création du Centre national de la culture photographique en 2019 marque l'entrée dans une nouvelle ère. De l'expérimentation au reportage, les photographes taïwanais ont su tisser, objectif après objectif, l'histoire vivante de leur île.
+> **En 30 secondes :** La photographie taïwanaise prend racine à l'époque coloniale japonaise. En 1965, l'exposition en duo de Chang Chao-tang et Cheng Sang-hsi ouvre la voie à une esthétique d'avant-garde. En 1987, le recueil _Hommes et Terre_ de Juan I-jong s'impose comme un classique du documentaire humaniste. La création du Centre national de la culture photographique en 2019 marque l'entrée dans une nouvelle ère. De l'expérimentation au reportage, les photographes taïwanais ont su tisser, objectif après objectif, l'histoire vivante de leur île.
 
 La photographie taïwanaise a traversé plus d'un siècle d'histoire, de l'introduction de la technique à l'époque coloniale jusqu'à la diversité créative contemporaine, en empruntant des chemins esthétiques décisifs. Deux figures tutélaires — Chang Chao-tang et Juan I-jong — ont forgé, l'un par l'expérimentation avant-gardiste, l'autre par l'humanisme documentaire, les canons visuels qui continuent d'inspirer les générations suivantes. Qu'il s'agisse des institutions publiques ou des innovations propres à l'ère numérique, la photographie de Taïwan ne cesse de négocier, entre tradition et modernité, son propre langage.
 
@@ -38,23 +48,23 @@ En 1965, à vingt-deux ans, Chang Chao-tang et Cheng Sang-hsi organisent une « 
 
 Les premières œuvres de Chang sont traversées par l'existentialisme et le surréalisme — des images empreintes d'errance, de mélancolie et d'absurde. La série des « hommes sans tête » des années 1960, où les visages sont délibérément dissimulés ou coupés, crée un choc visuel percutant et traduit une interrogation philosophique sur la condition humaine.
 
-Au fil des années, son travail évolue de la pure expérimentation vers un documentaire chargé d'humanité, attentif aux mutations de la société taïwanaise. Bien plus qu'un photographe, Chang est un artiste visuel à part entière : il participe à la production télévisuelle et co-réalise avec Lei Xiang, Juan I-jong et Christopher Doyle l'émission culte *Yingxiang zhi lü* (Voyage en images).
+Au fil des années, son travail évolue de la pure expérimentation vers un documentaire chargé d'humanité, attentif aux mutations de la société taïwanaise. Bien plus qu'un photographe, Chang est un artiste visuel à part entière : il participe à la production télévisuelle et co-réalise avec Lei Xiang, Juan I-jong et Christopher Doyle l'émission culte _Yingxiang zhi lü_ (Voyage en images).
 
 Son importance ne tient pas seulement à son œuvre personnelle ; il a ouvert une voie nouvelle en montrant que la photographie peut exprimer des idées, explorer la philosophie, créer de la poésie — et non se contenter d'enregistrer le visible.
 
 ## Juan I-jong : poète de la terre et des hommes
 
-Juan I-jong (né en 1950), originaire de Toucheng dans le comté de Yilan, est la référence incontournable du documentaire humaniste taïwanais. Après ses débuts dans le journalisme écrit à la revue *Youshi Wenyi*, il découvre la photographie en rejoignant le magazine sino-américain *Echo*. C'est ensuite, en tant que rédacteur photo au *Jiating Yuekan* (Magazine de la famille), qu'il sillonne les bourgs et villages de Taïwan, saisissant la vie au quotidien.
+Juan I-jong (né en 1950), originaire de Toucheng dans le comté de Yilan, est la référence incontournable du documentaire humaniste taïwanais. Après ses débuts dans le journalisme écrit à la revue _Youshi Wenyi_, il découvre la photographie en rejoignant le magazine sino-américain _Echo_. C'est ensuite, en tant que rédacteur photo au _Jiating Yuekan_ (Magazine de la famille), qu'il sillonne les bourgs et villages de Taïwan, saisissant la vie au quotidien.
 
-En 1987, il publie son œuvre majeure, *Hommes et Terre* (*Ren yu Tu Di*). Ce recueil est unanimement salué comme un classique de la photographie taïwanaise : avec un regard chaleureux et profondément humain, il offre un témoignage visuel irremplaçable sur la société de l'île.
+En 1987, il publie son œuvre majeure, _Hommes et Terre_ (_Ren yu Tu Di_). Ce recueil est unanimement salué comme un classique de la photographie taïwanaise : avec un regard chaleureux et profondément humain, il offre un témoignage visuel irremplaçable sur la société de l'île.
 
-La force de *Hommes et Terre* réside dans sa capacité à fixer le Taïwan en mutation des années 1970–1980. À l'heure d'une croissance économique vertigineuse et de bouleversements sociaux accélérés, Juan I-jong tourne son objectif vers des modes de vie traditionnels sur le point de disparaître, immortalisant l'existence la plus simple et la plus authentique.
+La force de _Hommes et Terre_ réside dans sa capacité à fixer le Taïwan en mutation des années 1970–1980. À l'heure d'une croissance économique vertigineuse et de bouleversements sociaux accélérés, Juan I-jong tourne son objectif vers des modes de vie traditionnels sur le point de disparaître, immortalisant l'existence la plus simple et la plus authentique.
 
 Ses images célèbrent les paysages ruraux, la concentration des artisans, la sérénité des anciens, la joie insouciante des enfants. Avec une acuité du regard et une profonde sensibilité culturelle, il transforme des instants ordinaires en œuvres d'une durée infinie.
 
 L'œuvre de Juan est traversée par une nostalgie puissante et une certaine mélancolie : il voit s'effacer la simplicité et la solidarité qui caractérisaient, selon lui, les Taïwanais. En mettant en regard tradition et modernité, il invite à s'interroger sur ce que l'on abandonne dans la course au progrès matériel.
 
-Au-delà de la photographie, Juan I-jong participe à la réalisation documentaire télévisuelle. À partir de 1981, il co-produit avec Chang Chao-tang et d'autres l'émission *Yingxiang zhi lü*, qui explore la création artistique taïwanaise, les arts populaires, les peuples autochtones et les transformations urbaines et rurales — une émission qui reste une référence dans l'histoire de la télévision taïwanaise.
+Au-delà de la photographie, Juan I-jong participe à la réalisation documentaire télévisuelle. À partir de 1981, il co-produit avec Chang Chao-tang et d'autres l'émission _Yingxiang zhi lü_, qui explore la création artistique taïwanaise, les arts populaires, les peuples autochtones et les transformations urbaines et rurales — une émission qui reste une référence dans l'histoire de la télévision taïwanaise.
 
 ## Le Centre national de la culture photographique : une institutionnalisation historique
 
@@ -66,7 +76,7 @@ Sa création marque le passage de la photographie taïwanaise d'une pratique ind
 
 ## La photographie contemporaine : un panorama pluriel
 
-Au tournant du XXIe siècle, la photographie taïwanaise explore de multiples directions. La nouvelle génération bâtit sur les fondations existantes pour chercher ses propres voies : Shen Chao-liang interroge avec sa série *Drift* l'identité taïwanaise à l'ère de la mondialisation ; Ho Ching-tai documente, dans le reportage photographique, les événements sociaux majeurs, affirmant la photographie comme conscience du monde.
+Au tournant du XXIe siècle, la photographie taïwanaise explore de multiples directions. La nouvelle génération bâtit sur les fondations existantes pour chercher ses propres voies : Shen Chao-liang interroge avec sa série _Drift_ l'identité taïwanaise à l'ère de la mondialisation ; Ho Ching-tai documente, dans le reportage photographique, les événements sociaux majeurs, affirmant la photographie comme conscience du monde.
 
 La démocratisation de la photographie numérique offre à Taïwan de nouvelles opportunités tout en posant de nouveaux défis. D'un côté, elle abaisse le seuil de création et élargit le cercle des pratiquants ; de l'autre, maintenir la profondeur artistique et culturelle de la photographie dans un monde saturé d'images devient un enjeu central pour les photographes d'aujourd'hui.
 

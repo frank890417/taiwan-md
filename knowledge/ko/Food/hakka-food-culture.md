@@ -13,6 +13,9 @@ translatedFrom: 'Food/客家飲食文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg/960px-%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 imageAlt: '하카 레이차'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:ede7b8639406d534'
+translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 
 # 하카 음식 문화

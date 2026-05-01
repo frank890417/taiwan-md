@@ -18,6 +18,9 @@ featured: true
 author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 translatedFrom: 'History/清法戰爭.md'
+sourceCommitSha: '956a36f3'
+sourceContentHash: 'sha256:e29f16bbd0760f6c'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 # 청프랑스 전쟁: 지룽과 단수이의 여덟 달

@@ -18,6 +18,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Music/台灣聲音地景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cbfdd904f2ae5e56'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 # 대만의 소리 풍경

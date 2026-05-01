@@ -10,7 +10,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 18
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Art/台灣當代雕塑發展.md'
+translatedFrom: "Art/台灣當代雕塑發展.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:f29e2e2ec385f748"
+translatedAt: "2026-04-14T19:13:49+08:00"
 ---
 
 # Le développement de la sculpture contemporaine à Taïwan
@@ -58,7 +61,7 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 **Huang Tu-shui (1895–1930)** : le pionnier de la sculpture moderne taïwanaise
 
 - Style : fusion du réalisme japonais et du terroir taïwanais
-- Œuvres majeures : *Eau pure*, *Faisan de Swinhoe*, *Pays du Sud*
+- Œuvres majeures : _Eau pure_, _Faisan de Swinhoe_, _Pays du Sud_
 - Portée historique : il ouvre la voie à la sculpture moderne à Taïwan
 
 **Développements sous la période japonaise** :
@@ -79,9 +82,9 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres importantes** :
 
-- *Phoenix* : œuvre emblématique de l'aéroport international de Taipei
-- *Taroko* : expression abstraite de la beauté des montagnes taïwanaises
-- *Longmen* : réinterprétation d'une imagerie traditionnelle par des matériaux modernes
+- _Phoenix_ : œuvre emblématique de l'aéroport international de Taipei
+- _Taroko_ : expression abstraite de la beauté des montagnes taïwanaises
+- _Longmen_ : réinterprétation d'une imagerie traditionnelle par des matériaux modernes
 
 **Caractéristiques créatives** :
 
@@ -103,9 +106,9 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres représentatives** :
 
-- *Le Bouvier* : portrait de la vie rurale simple et authentique
-- *Unis dans l'effort* : scène vivante de la vie agricole
-- *Le Buffle* : synthèse parfaite de la force et de la beauté
+- _Le Bouvier_ : portrait de la vie rurale simple et authentique
+- _Unis dans l'effort_ : scène vivante de la vie agricole
+- _Le Buffle_ : synthèse parfaite de la force et de la beauté
 
 **Caractéristiques créatives** :
 
@@ -129,9 +132,9 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres importantes** :
 
-- *Série Taichi – Dan Bian Xia Shi*
-- *Série Taichi – Sparring*
-- *Série Taichi – Qi Shi*
+- _Série Taichi – Dan Bian Xia Shi_
+- _Série Taichi – Sparring_
+- _Série Taichi – Qi Shi_
 
 **Rayonnement international** :
 
@@ -194,9 +197,9 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres importantes** :
 
-- *Moon Fish* : art paysager pour l'Exposition internationale des fleurs de Taichung 2018
-- *Écouter la floraison* : parc forestier de Houli pour l'Expo internationale des fleurs
-- *Le Bateau-graine* : installation environnementale au parc naturel de Guandu
+- _Moon Fish_ : art paysager pour l'Exposition internationale des fleurs de Taichung 2018
+- _Écouter la floraison_ : parc forestier de Houli pour l'Expo internationale des fleurs
+- _Le Bateau-graine_ : installation environnementale au parc naturel de Guandu
 
 **Caractéristiques créatives** :
 
@@ -214,9 +217,9 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres représentatives** :
 
-- Série *Buffle* : réinterprétation contemporaine du buffle taïwanais
-- *Fu Lu Hou* : lanterne principale du Festival des lanternes de Taipei 2016
-- *Le Roi des singes* : croisement de la mythologie traditionnelle et de l'esthétique moderne
+- Série _Buffle_ : réinterprétation contemporaine du buffle taïwanais
+- _Fu Lu Hou_ : lanterne principale du Festival des lanternes de Taipei 2016
+- _Le Roi des singes_ : croisement de la mythologie traditionnelle et de l'esthétique moderne
 
 **Caractéristiques créatives** :
 
@@ -256,7 +259,7 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Institutionnalisation** :
 
-- 1992 : *Loi sur l'encouragement aux arts et à la culture*
+- 1992 : _Loi sur l'encouragement aux arts et à la culture_
 - Adoption d'une réglementation sur l'installation d'œuvres d'art public
 - Mise en œuvre de la politique du « 1 % pour l'art public »
 
@@ -276,15 +279,15 @@ Le développement de la sculpture contemporaine taïwanaise porte une significat
 
 **Œuvres emblématiques dans les infrastructures de transport** :
 
-- *Phoenix* de Yang Ying-feng à l'aéroport de Taoyuan
-- *La Voûte de lumière* de Narcissus Quagliata à la station Formosa Boulevard du métro de Kaohsiung
-- *Fleur de sagesse* à Taipei 101, conçue par Issey Miyake
+- _Phoenix_ de Yang Ying-feng à l'aéroport de Taoyuan
+- _La Voûte de lumière_ de Narcissus Quagliata à la station Formosa Boulevard du métro de Kaohsiung
+- _Fleur de sagesse_ à Taipei 101, conçue par Issey Miyake
 
 **Sculptures dans le paysage urbain** :
 
-- *Le Cœur de Taichung* devant la mairie de Taichung
-- *Le Bateau de l'amour* sur la rivière Love à Kaohsiung
-- *L'Espace culturel du temple Confucius* à Tainan
+- _Le Cœur de Taichung_ devant la mairie de Taichung
+- _Le Bateau de l'amour_ sur la rivière Love à Kaohsiung
+- _L'Espace culturel du temple Confucius_ à Tainan
 
 **Art et éducation scolaire** :
 
@@ -492,13 +495,13 @@ Derrière chaque sculpture, on ne voit pas seulement l'ingéniosité et le savoi
 
 1. [Wikipedia, article « Ju Ming (sculpteur) »](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%8A%98) (mis à jour en 2025)
 2. Ravenel International Art Group (https://ravenel.com/), dossier officiel sur Ju Ming
-3. Chinese Culture University, cycle de conférences *Les trois sommets de la sculpture taïwanaise — De Huang Tu-shui et Yang Ying-feng à Ju Ming* (2022)
-4. China Times, *Le grand maître Ju Ming — Yang Ying-feng organise une exposition, percée de la série Taichi au Japon* (2023)
-5. Vocus, dossier spécial *Ju Ming et ses liens avec Hong Kong* (2024)
-6. [Musée Ju Ming](https://www.juming.org.tw/), *Œuvres complètes de Ju Ming* (1999–2023)
-7. [Musée national des beaux-arts de Taïwan](https://www.ntmofa.gov.tw/), rapport de recherche *Histoire du développement de la sculpture contemporaine taïwanaise* (2021)
-8. [Musée Yang Ying-feng](https://yuyuyang.org.tw/), *Œuvres complètes de Yang Ying-feng* (édition 1997–2020)
-9. Ministère de la Culture, *Livre blanc sur le développement de l'art public à Taïwan* (2020)
-10. Association de sculpture de la République de Chine, *Annuaire de la sculpture taïwanaise* (éditions 2015–2025)
-11. [Université nationale des arts de Taïwan](https://www.ntua.edu.tw/), *Revue de recherche sur la sculpture contemporaine taïwanaise*, recueil annuel 2020–2025
-12. [Musée d'art de Taipei](https://www.tfam.museum/), catalogue d'exposition *La sculpture taïwanaise 1945–2020* (2020)
+3. Chinese Culture University, cycle de conférences _Les trois sommets de la sculpture taïwanaise — De Huang Tu-shui et Yang Ying-feng à Ju Ming_ (2022)
+4. China Times, _Le grand maître Ju Ming — Yang Ying-feng organise une exposition, percée de la série Taichi au Japon_ (2023)
+5. Vocus, dossier spécial _Ju Ming et ses liens avec Hong Kong_ (2024)
+6. [Musée Ju Ming](https://www.juming.org.tw/), _Œuvres complètes de Ju Ming_ (1999–2023)
+7. [Musée national des beaux-arts de Taïwan](https://www.ntmofa.gov.tw/), rapport de recherche _Histoire du développement de la sculpture contemporaine taïwanaise_ (2021)
+8. [Musée Yang Ying-feng](https://yuyuyang.org.tw/), _Œuvres complètes de Yang Ying-feng_ (édition 1997–2020)
+9. Ministère de la Culture, _Livre blanc sur le développement de l'art public à Taïwan_ (2020)
+10. Association de sculpture de la République de Chine, _Annuaire de la sculpture taïwanaise_ (éditions 2015–2025)
+11. [Université nationale des arts de Taïwan](https://www.ntua.edu.tw/), _Revue de recherche sur la sculpture contemporaine taïwanaise_, recueil annuel 2020–2025
+12. [Musée d'art de Taipei](https://www.tfam.museum/), catalogue d'exposition _La sculpture taïwanaise 1945–2020_ (2020)

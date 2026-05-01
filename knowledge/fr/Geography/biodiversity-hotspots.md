@@ -2,7 +2,14 @@
 title: 'Taïwan, haut lieu de la biodiversité'
 description: "36 000 km² d'île abritant 59 000 espèces connues — une densité 100 fois supérieure à la moyenne mondiale"
 date: 2026-03-21
-tags: ['écologie', 'biodiversité', 'espèces endémiques', 'conservation', 'parcs nationaux']
+tags:
+  [
+    'écologie',
+    'biodiversité',
+    'espèces endémiques',
+    'conservation',
+    'parcs nationaux',
+  ]
 subcategory: 'Géographie écologique'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -12,6 +19,9 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9dea4a4cafb753d9'
+translatedAt: '2026-04-15T17:33:45+08:00'
 ---
 
 # Taïwan, haut lieu de la biodiversité

@@ -2,7 +2,14 @@
 title: "L'incident de Formose — Le procès qui a engendré la démocratie taïwanaise"
 description: "Un procès militaire censé briser définitivement l'opposition s'est transformé, grâce à sa retransmission publique inattendue, en la plus puissante campagne pour la démocratie que Taïwan ait jamais connue."
 date: 2026-03-31
-tags: [histoire, démocratisation, droits humains, mouvement d'opposition, loi martiale]
+tags:
+  [
+    histoire,
+    démocratisation,
+    droits humains,
+    mouvement d'opposition,
+    loi martiale,
+  ]
 subcategory: 'Histoire contemporaine'
 category: 'History'
 author: 'Taiwan.md Translation Team'
@@ -11,13 +18,16 @@ featured: false
 translatedFrom: 'History/美麗島事件.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:fe9f8fe921c693b2'
+translatedAt: '2026-04-14T12:32:06+08:00'
 ---
 
 Le 28 février 1980, Lin Yi-hsiung attendait son jugement dans le centre de détention militaire de Jingmei, à Taipei. Ce jour-là, des policiers et des agents des services de renseignement montaient la garde devant sa maison de la rue Xinyi depuis le matin — sans jamais y entrer. Au crépuscule, on fit la découverte : sa mère de soixante ans, Lin Yu A-mei, avait reçu treize coups de couteau et gisait au sous-sol. Ses jumelles de sept ans, Lin Liang-jun et Lin Ting-jun, avaient chacune été transpercée d'une lame à travers la poitrine — elles étaient mortes sur le coup. L'aînée, Lin Huan-jun, neuf ans, avait reçu six coups de couteau ; le cartable qu'elle portait dans le dos l'avait, par miracle, protégée.[^12]
 
 Ce jour-là était le 33e anniversaire de l'incident du 28 février. Le meurtrier n'a jamais été identifié.
 
-> **Résumé en 30 secondes :** Le 10 décembre 1979, pour la Journée internationale des droits de l'homme, le magazine *Formose* organise un rassemblement à Kaohsiung. Des affrontements éclatent ; plus de 150 personnes sont arrêtées.[^1] Le procès militaire public de 1980, que le gouvernement du Kuomintang (KMT) comptait utiliser pour écraser l'opposition, produit l'effet inverse : diffusé dans les médias, il permet pour la première fois aux idéaux démocratiques de l'opposition de toucher l'ensemble de la population taïwanaise. Les jeunes avocats de la défense — Chen Shui-bian, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung — deviendront tous, par la suite, Premiers ministres. Sept des huit accusés occuperont plus tard la présidence du Parti démocratique progressiste (PDP).
+> **Résumé en 30 secondes :** Le 10 décembre 1979, pour la Journée internationale des droits de l'homme, le magazine _Formose_ organise un rassemblement à Kaohsiung. Des affrontements éclatent ; plus de 150 personnes sont arrêtées.[^1] Le procès militaire public de 1980, que le gouvernement du Kuomintang (KMT) comptait utiliser pour écraser l'opposition, produit l'effet inverse : diffusé dans les médias, il permet pour la première fois aux idéaux démocratiques de l'opposition de toucher l'ensemble de la population taïwanaise. Les jeunes avocats de la défense — Chen Shui-bian, Frank Hsieh, Su Tseng-chang, Chang Chun-hsiung — deviendront tous, par la suite, Premiers ministres. Sept des huit accusés occuperont plus tard la présidence du Parti démocratique progressiste (PDP).
 
 ## Un magazine, le précurseur d'un parti politique
 
@@ -25,7 +35,7 @@ Ce jour-là était le 33e anniversaire de l'incident du 28 février. Le meurtrie
 
 Ils se tournèrent alors vers la presse.
 
-En juin 1979, le magazine *Formose* (*Meilidao* en mandarin) est officiellement lancé, avec Huang Hsin-chieh comme éditeur, Hsu Hsin-liang comme directeur et Shih Ming-teh comme directeur général. Son titre est emprunté à une chanson du même nom du musicien Lee Shuang-tse. Ses soixante et un membres du comité éditorial rassemblent des figures de l'opposition venues de tout Taïwan[^1] — des radicaux indépendantistes comme Shih Ming-teh aux voix plus modérées comme Kang Ning-hsiang. Cette structure ressemble à un parti politique sans nom.
+En juin 1979, le magazine _Formose_ (_Meilidao_ en mandarin) est officiellement lancé, avec Huang Hsin-chieh comme éditeur, Hsu Hsin-liang comme directeur et Shih Ming-teh comme directeur général. Son titre est emprunté à une chanson du même nom du musicien Lee Shuang-tse. Ses soixante et un membres du comité éditorial rassemblent des figures de l'opposition venues de tout Taïwan[^1] — des radicaux indépendantistes comme Shih Ming-teh aux voix plus modérées comme Kang Ning-hsiang. Cette structure ressemble à un parti politique sans nom.
 
 Lancée en août, la revue voit ses ventes grimper de mois en mois. En octobre, elle possède déjà des bureaux dans onze villes à travers le pays.[^7] Les autorités s'inquiètent. Dès septembre, des provocateurs commencent à perturber les réunions. Le 29 novembre, le domicile de Huang Hsin-chieh à Taipei et le bureau de Kaohsiung sont saccagés à coups de hache, tandis qu'un tireur attaque le bureau de Pingtung, blessant un employé.
 
@@ -36,7 +46,7 @@ La rédaction avait prévu un grand rassemblement à Kaohsiung pour la Journée 
 Peu après dix-huit heures, la procession quitte les bureaux du magazine. Le parc Rotary, lieu initialement prévu, est déjà barricadé ; le cortège se dirige vers le carrefour des rues Zhongshan et Zhongzheng. Des dizaines de milliers de personnes se rassemblent.
 
 > **⚠️ Point de controverse**
-> Les versions divergent quant à savoir qui a déclenché les affrontements de cette nuit-là. Le gouvernement accuse les militants d'avoir délibérément provoqué les troubles. Les témoins du côté de l'opposition décrivent une infiltration par des individus en civil portant des insignes de parti, qui auraient lancé des œufs pour semer la confusion. Les unités anti-émeutes auraient ensuite resserré leur étau, lancé des grenades lacrymogènes, et c'est après l'entrée des véhicules blindés dans la foule que les affrontements auraient véritablement explosé. Le magazine *Story* a recueilli plusieurs témoignages rapportant que des agitateurs auraient été les premiers à passer à l'acte.[^5] Au total, une centaine de policiers et soldats ont été blessés, ainsi que des membres de l'opposition.[^1]
+> Les versions divergent quant à savoir qui a déclenché les affrontements de cette nuit-là. Le gouvernement accuse les militants d'avoir délibérément provoqué les troubles. Les témoins du côté de l'opposition décrivent une infiltration par des individus en civil portant des insignes de parti, qui auraient lancé des œufs pour semer la confusion. Les unités anti-émeutes auraient ensuite resserré leur étau, lancé des grenades lacrymogènes, et c'est après l'entrée des véhicules blindés dans la foule que les affrontements auraient véritablement explosé. Le magazine _Story_ a recueilli plusieurs témoignages rapportant que des agitateurs auraient été les premiers à passer à l'acte.[^5] Au total, une centaine de policiers et soldats ont été blessés, ainsi que des membres de l'opposition.[^1]
 
 Les affrontements se prolongèrent tard dans la nuit. Le lendemain, les médias présentèrent unanimement les événements comme des « actes de violence » et une « rébellion ».
 
@@ -68,16 +78,16 @@ Chen Wan-chen, militante de longue date du mouvement démocratique taïwanais, �
 
 Le 5 avril, le verdict militaire tombe : Shih Ming-teh est condamné à la prison à vie, Huang Hsin-chieh à quatorze ans, et les six autres accusés à douze ans chacun. Sous la pression internationale, la peine de mort initialmente requise contre Shih est commuée.[^10][^2]
 
-| Accusé | Peine prononcée |
-|--------|----------------|
-| Shih Ming-teh | Réclusion à perpétuité |
+| Accusé           | Peine prononcée         |
+| ---------------- | ----------------------- |
+| Shih Ming-teh    | Réclusion à perpétuité  |
 | Huang Hsin-chieh | 14 ans d'emprisonnement |
-| Lin Yi-hsiung | 12 ans d'emprisonnement |
-| Annette Lu | 12 ans d'emprisonnement |
-| Chang Chun-hung | 12 ans d'emprisonnement |
-| Chen Chu | 12 ans d'emprisonnement |
-| Yao Chia-wen | 12 ans d'emprisonnement |
-| Lin Hung-hsuan | 12 ans d'emprisonnement |
+| Lin Yi-hsiung    | 12 ans d'emprisonnement |
+| Annette Lu       | 12 ans d'emprisonnement |
+| Chang Chun-hung  | 12 ans d'emprisonnement |
+| Chen Chu         | 12 ans d'emprisonnement |
+| Yao Chia-wen     | 12 ans d'emprisonnement |
+| Lin Hung-hsuan   | 12 ans d'emprisonnement |
 
 ## L'affaire de la maison Lin : le 28 février 1980
 
@@ -127,7 +137,7 @@ Cette trajectoire conduisit à :
 - **1990** : grâce accordée aux prisonniers politiques de l'incident de Formose
 - **1996** : première élection présidentielle au suffrage universel direct
 
-L'influence de l'événement se propagea jusqu'au monde culturel. Selon un compte rendu du *Reporter*, plusieurs écrivains du milieu artistique se tournèrent, après l'incident de Formose, vers des thèmes liés à l'identité locale et aux droits humains, devenant des moteurs essentiels du mouvement littéraire indigène des années 1980.[^8]
+L'influence de l'événement se propagea jusqu'au monde culturel. Selon un compte rendu du _Reporter_, plusieurs écrivains du milieu artistique se tournèrent, après l'incident de Formose, vers des thèmes liés à l'identité locale et aux droits humains, devenant des moteurs essentiels du mouvement littéraire indigène des années 1980.[^8]
 
 ## La dernière partie de vie de Shih Ming-teh : l'autre face du héros
 
@@ -144,7 +154,7 @@ Dans les nombreuses histoires qui composent la politique taïwanaise, la traject
 
 ## La station Formose : 150 000 passagers par jour sous un dôme de lumière
 
-À Kaohsiung, la station de correspondance entre les lignes orange et rouge du métro a été construite sur l'emplacement même du rond-point de Dagangpu. Elle porte le nom de « station Formose ». Sous sa coupole, une œuvre d'art en vitraux intitulée *Le Dôme de lumière* couvre une superficie de 2 180 mètres carrés, faisant de cette installation l'une des plus grandes œuvres d'art en verre du monde.[^11]
+À Kaohsiung, la station de correspondance entre les lignes orange et rouge du métro a été construite sur l'emplacement même du rond-point de Dagangpu. Elle porte le nom de « station Formose ». Sous sa coupole, une œuvre d'art en vitraux intitulée _Le Dôme de lumière_ couvre une superficie de 2 180 mètres carrés, faisant de cette installation l'une des plus grandes œuvres d'art en verre du monde.[^11]
 
 Chaque jour, quelque 150 000 voyageurs passent sous cette coupole, la plupart pour changer de ligne.[^11]
 

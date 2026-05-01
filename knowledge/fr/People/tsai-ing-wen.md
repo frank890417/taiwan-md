@@ -2,7 +2,16 @@
 title: 'Tsai Ing-wen'
 description: 'Première femme présidente de Taïwan (2016-2024), ancienne spécialiste en droit du commerce international, elle a fait adopter la première loi sur le mariage homosexuel en Asie et présenté des excuses officielles aux peuples autochtones en leur nom'
 date: 2026-03-17
-tags: [personnalité, Tsai Ing-wen, présidente, femme dirigeante, démocratie, politique, peuples autochtones]
+tags:
+  [
+    personnalité,
+    Tsai Ing-wen,
+    présidente,
+    femme dirigeante,
+    démocratie,
+    politique,
+    peuples autochtones,
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-04-04
 translatedFrom: 'People/蔡英文.md'
+sourceCommitSha: '59db5de4'
+sourceContentHash: 'sha256:783d9b2f1f815187'
+translatedAt: '2026-04-14T19:17:00+08:00'
 ---
 
 # Tsai Ing-wen
@@ -28,7 +40,7 @@ Tsai Ing-wen est née le 31 août 1956 à l'hôpital MacKay de Taipei. Son père
 
 Son héritage ethnique est à lui seul un reflet de Taïwan : hakka, hokkien et Paiwan s'y croisent. Par sa grand-mère paternelle, elle possède des racines Paiwan — ce qui fait d'elle la première présidente de l'histoire de Taïwan à avoir une ascendance autochtone. Son nom Paiwan est Tjuku[^3].
 
-Après avoir obtenu son diplôme de droit de l'Université nationale de Taïwan en 1978, elle part aux États-Unis. En 1980, elle décroche un master en droit à Cornell, puis s'envole pour Londres afin d'y préparer un doctorat à la London School of Economics. En 1984, elle soutient sa thèse intitulée *Pratiques commerciales déloyales et mesures de sauvegarde*, sous la direction du professeur Michael J. Elliott[^7].
+Après avoir obtenu son diplôme de droit de l'Université nationale de Taïwan en 1978, elle part aux États-Unis. En 1980, elle décroche un master en droit à Cornell, puis s'envole pour Londres afin d'y préparer un doctorat à la London School of Economics. En 1984, elle soutient sa thèse intitulée _Pratiques commerciales déloyales et mesures de sauvegarde_, sous la direction du professeur Michael J. Elliott[^7].
 
 > En 2019, cette thèse devient une arme dans les attaques politiques à son encontre : certains mettent en doute son existence. La LSE publie en octobre 2019 une déclaration officielle confirmant la validité du diplôme[^7]. Si la thèse n'était pas entrée aux archives de la bibliothèque depuis trente-cinq ans, c'est simplement parce qu'elle n'en avait jamais déposé d'exemplaire.
 

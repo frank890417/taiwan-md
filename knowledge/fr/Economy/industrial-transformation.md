@@ -1,15 +1,26 @@
 ---
-title: 'Les métamorphoses de l''île : la transformation industrielle de Taïwan'
-description: 'De société agricole aux Quatre Dragons asiatiques, puis à l''île technologique — l''histoire complète des trois grandes mutations économiques de Taïwan'
+title: "Les métamorphoses de l'île : la transformation industrielle de Taïwan"
+description: "De société agricole aux Quatre Dragons asiatiques, puis à l'île technologique — l'histoire complète des trois grandes mutations économiques de Taïwan"
 category: 'Economy'
 date: '2026-03-19'
 author: 'Taiwan.md Translation Team'
-tags: ['transformation économique', 'montée en gamme industrielle', 'Quatre Dragons asiatiques', 'semi-conducteurs', 'industrie manufacturière', 'miracle économique']
+tags:
+  [
+    'transformation économique',
+    'montée en gamme industrielle',
+    'Quatre Dragons asiatiques',
+    'semi-conducteurs',
+    'industrie manufacturière',
+    'miracle économique',
+  ]
 subcategory: 'Développement économique'
 readingTime: 18
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/產業轉型.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ce20822406c79ae1'
+translatedAt: '2026-04-14T19:21:51+08:00'
 ---
 
 # Les métamorphoses de l'île : la transformation industrielle de Taïwan
@@ -354,12 +365,12 @@ La transformation industrielle de Taïwan a également bénéficié d'un context
 
 ### Trajectoires comparées des Quatre Dragons
 
-| Économie | PIB par habitant (2023) | Modèle de développement | Industries phares |
-|---|---|---|---|
-| **Singapour** | 84 730 $ | Centre commercial et financier | Finance, logistique, pétrochimie |
-| **Hong Kong** | 50 030 $ | Centre financier international | Finance, commerce, services |
-| **Taïwan** | 33 907 $ | Reconversion industrielle | Semi-conducteurs, informatique, mécanique de précision |
-| **Corée du Sud** | 33 393 $ | Dominé par les chaebols | Automobile, construction navale, électronique, acier |
+| Économie         | PIB par habitant (2023) | Modèle de développement        | Industries phares                                      |
+| ---------------- | ----------------------- | ------------------------------ | ------------------------------------------------------ |
+| **Singapour**    | 84 730 $                | Centre commercial et financier | Finance, logistique, pétrochimie                       |
+| **Hong Kong**    | 50 030 $                | Centre financier international | Finance, commerce, services                            |
+| **Taïwan**       | 33 907 $                | Reconversion industrielle      | Semi-conducteurs, informatique, mécanique de précision |
+| **Corée du Sud** | 33 393 $                | Dominé par les chaebols        | Automobile, construction navale, électronique, acier   |
 
 ### La singularité du modèle taïwanais
 
@@ -474,10 +485,10 @@ Voilà ce qu'est Taïwan : une île qui ne cesse de se métamorphoser, une écon
 
 ## Références
 
-- [Li Kuo-ting & Chen Mu-tsai, *Stratégies de développement économique de Taïwan*, Linking Publishing](https://www.books.com.tw/products/0010308842)
-- [Chu Wan-wen, *Les origines du développement économique d'après-guerre à Taïwan*, Linking Publishing](https://www.books.com.tw/products/0010741381)
-- Conseil de développement économique et planification, République de Chine, *Histoire du développement économique de Taïwan*
-- [Industrial Technology Research Institute, *Histoire du développement industriel de Taïwan*](https://www.itri.org.tw/)
-- [Directorate-General of Budget, Accounting and Statistics, *Statistiques nationales des revenus* (séries historiques)](https://www.dgbas.gov.tw/)
+- [Li Kuo-ting & Chen Mu-tsai, _Stratégies de développement économique de Taïwan_, Linking Publishing](https://www.books.com.tw/products/0010308842)
+- [Chu Wan-wen, _Les origines du développement économique d'après-guerre à Taïwan_, Linking Publishing](https://www.books.com.tw/products/0010741381)
+- Conseil de développement économique et planification, République de Chine, _Histoire du développement économique de Taïwan_
+- [Industrial Technology Research Institute, _Histoire du développement industriel de Taïwan_](https://www.itri.org.tw/)
+- [Directorate-General of Budget, Accounting and Statistics, _Statistiques nationales des revenus_ (séries historiques)](https://www.dgbas.gov.tw/)
 - [World Bank, "The East Asian Miracle: Economic Growth and Public Policy"](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798)
 - [Alice Amsden, "The Rise of The Rest: Challenges to the West from Late-Industrializing Economies"](https://academic.oup.com/book/36359)

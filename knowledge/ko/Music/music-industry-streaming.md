@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8d2c98ba6bf8e0d'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 # 대만 음악 산업과 스트리밍 시대: 레코드 가게에서 디지털 플랫폼으로의 전환

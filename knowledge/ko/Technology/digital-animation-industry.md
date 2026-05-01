@@ -8,6 +8,9 @@ category: 'Technology'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692543a60baf3299'
+translatedAt: '2026-04-14T06:57:58+08:00'
 ---
 
 # 대만 디지털 영상 및 애니메이션 산업

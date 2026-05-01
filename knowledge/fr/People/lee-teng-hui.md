@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'People/李登輝.md'
 lastVerified: 2026-03-22
+sourceCommitSha: 'cbc2ad44'
+sourceContentHash: 'sha256:b7406ab07a0d09c2'
+translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 
 > **En 30 secondes :** Un doctorat en économie agricole, né sous l'occupation japonaise, ayant grandi en parlant japonais — et pourtant, c'est cet homme qui est devenu le premier dirigeant démocratiquement élu du monde sinophone. En douze ans, il a conduit Taïwan d'un régime autoritaire vers la démocratie, sans effusion de sang. Le prix à payer : une crise des missiles dans le détroit de Taïwan et l'étiquette infamante de « parrain de la politique noire et dorée ».

@@ -3,7 +3,15 @@ title: 'Le Zhuyin : le code secret de Taïwan'
 description: 'Le seul système phonétique encore utilisé au quotidien uniquement à Taïwan — comment le Zhuyin, issu de caractères anciens vieux de cent ans, est devenu le code commun de 23 millions de personnes'
 date: 2026-03-18
 category: 'Culture'
-tags: ['zhuyin', 'langue', 'éducation', 'identité culturelle', 'méthode de saisie', 'ㄅㄆㄇ']
+tags:
+  [
+    'zhuyin',
+    'langue',
+    'éducation',
+    'identité culturelle',
+    'méthode de saisie',
+    'ㄅㄆㄇ',
+  ]
 subcategory: 'Langue et écriture'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Culture/注音符號.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c02940e263693a53'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 # Le Zhuyin : le code secret de Taïwan
@@ -122,10 +133,10 @@ Dans une époque de changements accélérés, le Zhuyin nous rappelle que **cert
 
 ## Références
 
-1. Ministère de l'Éducation de la République de Chine, *Guide pédagogique des symboles Zhuyin*, édition 2024
+1. Ministère de l'Éducation de la République de Chine, _Guide pédagogique des symboles Zhuyin_, édition 2024
 2. Wikipédia, article « Zhuyin fuhao », https://zh.wikipedia.org/wiki/注音符號
-3. Comité de promotion de la langue nationale, Ministère de l'Éducation de la République de Chine, *Historique du Zhuyin*, 1978
-4. Li Jiaxi, « Développement et applications du Zhuyin à l'ère numérique », *Revue de linguistique*, n° 42, 2023
-5. Zhang Binghuang, *Rapport d'enquête sur les usages des méthodes de saisie du chinois*, Institute for Information Industry, 2022
-6. Lin Huijun, « La signification culturelle de l'enseignement du Zhuyin à Taïwan », *Revue mensuelle de la recherche en éducation*, n° 315, 2024
+3. Comité de promotion de la langue nationale, Ministère de l'Éducation de la République de Chine, _Historique du Zhuyin_, 1978
+4. Li Jiaxi, « Développement et applications du Zhuyin à l'ère numérique », _Revue de linguistique_, n° 42, 2023
+5. Zhang Binghuang, _Rapport d'enquête sur les usages des méthodes de saisie du chinois_, Institute for Information Industry, 2022
+6. Lin Huijun, « La signification culturelle de l'enseignement du Zhuyin à Taïwan », _Revue mensuelle de la recherche en éducation_, n° 315, 2024
 7. Ce jour dans l'histoire, « Naissance de l'alphabet phonétique chinois », https://lishishangdejintian.bmcx.com/622__lishishangdejintianchaxun/

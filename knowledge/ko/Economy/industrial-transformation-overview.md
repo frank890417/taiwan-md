@@ -11,6 +11,9 @@ readingTime: 18
 featured: true
 translatedFrom: 'Economy/產業轉型.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ce20822406c79ae1'
+translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 
 # 섬의 변신: 대만 산업 전환과 경제 발전 궤적

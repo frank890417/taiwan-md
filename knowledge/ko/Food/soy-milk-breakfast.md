@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-29
 lastHumanReview: false
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ba7ff819ca0777d2'
+translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 
 # 타이완 두유와 아침식당

@@ -18,6 +18,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣製香文化與香腳原鄉.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4d2a912d036395eb'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Incense-Making Culture and Heritage Villages

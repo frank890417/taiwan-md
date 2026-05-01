@@ -1,8 +1,17 @@
 ---
 title: 'Mini Taiwan Pulse — Visualisation 3D du trafic en temps réel à Taïwan'
 date: 2026-03-22
-tags: [ressources, données-ouvertes, visualisation, transports, 3D, temps-réel, Taiwan.md]
-description: "Ressentez le pouls de Taïwan à travers les données ouvertes — les trajectoires lumineuses des avions sillonnent le ciel, les navires glissent sur les flots, les trains filent sur leurs rails : 23 couches superposées restituent en temps réel la respiration de cette île."
+tags:
+  [
+    ressources,
+    données-ouvertes,
+    visualisation,
+    transports,
+    3D,
+    temps-réel,
+    Taiwan.md,
+  ]
+description: 'Ressentez le pouls de Taïwan à travers les données ouvertes — les trajectoires lumineuses des avions sillonnent le ciel, les navires glissent sur les flots, les trains filent sur leurs rails : 23 couches superposées restituent en temps réel la respiration de cette île.'
 category: 'resources'
 subcategory: 'Outils et ressources'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 5
 featured: false
 translatedFrom: 'resources/mini-taiwan-pulse.md'
 lastVerified: 2026-03-22
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:409b7d5c9d0f3bbd'
+translatedAt: '2026-04-15T17:35:32+08:00'
 ---
 
 # Mini Taiwan Pulse — Visualisation 3D du trafic en temps réel à Taïwan 🌐
@@ -43,14 +55,14 @@ Source : données de position AIS (système d'identification automatique).
 
 C'est peut-être la partie la plus saisissante. Six systèmes ferrés fonctionnent en synchronisation :
 
-| Réseau | Envergure |
-|--------|-----------|
-| TRA (réseau national) | 265 lignes, 333 trains, 6 couleurs selon le type de service |
-| THSR (grande vitesse) | Ligne principale nord-sud + embranchements |
-| Métro de Taipei (TRTC) | 8 lignes |
-| Métro de Kaohsiung (KRTC) | Ligne rouge + ligne orange |
-| Tramway de Kaohsiung (KLRT) | Boucle légère |
-| Métro de Taichung (TMRT) | Ligne verte + ligne bleue |
+| Réseau                      | Envergure                                                   |
+| --------------------------- | ----------------------------------------------------------- |
+| TRA (réseau national)       | 265 lignes, 333 trains, 6 couleurs selon le type de service |
+| THSR (grande vitesse)       | Ligne principale nord-sud + embranchements                  |
+| Métro de Taipei (TRTC)      | 8 lignes                                                    |
+| Métro de Kaohsiung (KRTC)   | Ligne rouge + ligne orange                                  |
+| Tramway de Kaohsiung (KLRT) | Boucle légère                                               |
+| Métro de Taichung (TMRT)    | Ligne verte + ligne bleue                                   |
 
 Le traitement du réseau TRA est particulièrement complexe — correspondance OD des voies, aiguillages en triangle comme celui de Changhua — autant de cas spéciaux pris en charge par des moteurs dédiés.
 
@@ -83,17 +95,17 @@ Au total, **23 couches indépendamment commutables**, réparties en dix catégor
 
 Les sources de données mobilisées par ce projet constituent à elles seules un panorama des données ouvertes à Taïwan :
 
-| Données | Source |
-|---------|--------|
-| Position des vols en temps réel | API FlightRadar24 |
-| AIS maritime | Système d'identification automatique international |
-| Horaires ferroviaires | Horaires publics + OSM |
-| Bus / autocars / vélos | [TDX — Transport Data eXchange](https://tdx.transportdata.tw/) |
-| Démographie | [SEGIS — Système d'information géographique statistique](https://segis.moi.gov.tw/) |
-| Observations météo | [Administration météorologique centrale](https://www.cwa.gov.tw/) |
-| Parcs éoliens offshore | Bureau de l'énergie, ministère de l'Économie |
-| Actualités | Flux RSS de l'agence CNA |
-| Aéroports / ports / gares | [API Overpass d'OSM](https://overpass-turbo.eu/) |
+| Données                         | Source                                                                              |
+| ------------------------------- | ----------------------------------------------------------------------------------- |
+| Position des vols en temps réel | API FlightRadar24                                                                   |
+| AIS maritime                    | Système d'identification automatique international                                  |
+| Horaires ferroviaires           | Horaires publics + OSM                                                              |
+| Bus / autocars / vélos          | [TDX — Transport Data eXchange](https://tdx.transportdata.tw/)                      |
+| Démographie                     | [SEGIS — Système d'information géographique statistique](https://segis.moi.gov.tw/) |
+| Observations météo              | [Administration météorologique centrale](https://www.cwa.gov.tw/)                   |
+| Parcs éoliens offshore          | Bureau de l'énergie, ministère de l'Économie                                        |
+| Actualités                      | Flux RSS de l'agence CNA                                                            |
+| Aéroports / ports / gares       | [API Overpass d'OSM](https://overpass-turbo.eu/)                                    |
 
 > ⚠️ **À noter :** la plateforme [TDX](https://tdx.transportdata.tw/) est l'une des rares initiatives gouvernementales à normaliser à l'échelle nationale les données de transports publics — bus, autocars, rail, vélos — avec une documentation API complète et un accès gratuit. Ce n'est pas courant à l'échelle mondiale.
 
@@ -106,4 +118,4 @@ Les sources de données mobilisées par ce projet constituent à elles seules un
 
 ---
 
-*Dernière vérification : 2026-03-22*
+_Dernière vérification : 2026-03-22_

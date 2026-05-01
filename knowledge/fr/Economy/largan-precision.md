@@ -8,8 +8,11 @@ subcategory: 'Portraits d'entreprises'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
-translatedFrom: 'Economy/台灣企業：大立光電.md'
+translatedFrom: "Economy/台灣企業：大立光電.md"
 lastVerified: 2026-03-22
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:74469a54ad5b9ae3"
+translatedAt: "2026-04-14T19:20:40+08:00"
 ---
 
 # Largan Precision : quand l'esprit artisan rencontre la révolution architecturale
@@ -96,8 +99,8 @@ Comme Henderson et Clark l'ont écrit : plus une organisation vieillit, plus ses
 
 ## La réalité derrière les chiffres : performance financière et réalité de marché
 
-| 59,458 milliards TWD | 194,17 TWD |
-| -------------------- | ---------- |
+| 59,458 milliards TWD                              | 194,17 TWD                                         |
+| ------------------------------------------------- | -------------------------------------------------- |
 | Chiffre d'affaires 2024 (hausse annuelle de 20 %) | Bénéfice par action (deuxième meilleur historique) |
 
 Les chiffres financiers de Largan restent impressionnants. En 2024, le chiffre d'affaires annuel atteint 59,458 milliards TWD, en hausse d'environ 20 % sur un an — la meilleure performance depuis quatre ans. Le bénéfice par action s'établit à 194,17 TWD, deuxième meilleur résultat de l'histoire de l'entreprise. Au quatrième trimestre, grâce à des primes d'expédition versées par les clients, le bénéfice trimestriel par action atteint 65,01 TWD — un record trimestriel.
@@ -127,7 +130,7 @@ Face à l'impact de l'innovation architecturale, Lin En-Ping n'est pas resté sa
 
 Le défi le plus profond reste la transformation organisationnelle. Passer d'un composant unique à l'intégration de systèmes multi-composants n'est pas seulement un enjeu technique — c'est un changement fondamental de paradigme et de compétences organisationnelles. Largan doit passer de « fabriquer le meilleur objectif » à « fournir la meilleure solution visuelle adaptée ».
 
-Cette transformation ne va pas de soi. Comme Collins le décrit dans *De la performance à l'excellence* avec le « Principe du Hérisson » — l'entreprise est passionnée par sa mission, peut y exceller et peut en tirer profit. Largan correspond parfaitement à ces trois critères dans le domaine de l'objectif plastique. Mais c'est précisément ce qui crée la dépendance de sentier.
+Cette transformation ne va pas de soi. Comme Collins le décrit dans _De la performance à l'excellence_ avec le « Principe du Hérisson » — l'entreprise est passionnée par sa mission, peut y exceller et peut en tirer profit. Largan correspond parfaitement à ces trois critères dans le domaine de l'objectif plastique. Mais c'est précisément ce qui crée la dépendance de sentier.
 
 ## La bataille à venir : technologie et architecture, vers une synthèse
 

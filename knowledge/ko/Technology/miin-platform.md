@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
 translatedFrom: 'Technology/迷音Miin.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:6a247587b9bacefb'
+translatedAt: '2026-04-14T07:15:07+08:00'
 ---
 
 > **30초 요약:** 미인(Miin)은 대만 AI 실험실이 출시한 뉴스 집계 플랫폼으로, [[PTT]] 창립자 [[두이진]]이 주도해 개발했다. AI가 여러 매체의 동일 사건 보도를 자동으로 정리하고 입장 차이를 표시하며, 소셜 플랫폼의 '조직적 계정 조작'을 탐지한다. 2022년 펠로시 대만 방문 당시 Miin 분석에 따르면 트위터의 관련 계정 4개 중 1개가 인지전에 가담한 것으로 나타났다[^1]. 그러나 2025년 말, 애플 데일리 타이완이 Miin의 AI 크롤러가 독점 기사 250건 이상을 무단 수집했다며 두이진을 저작권법 위반으로 고소했다[^2]. Miin의 이야기는 AI를 통한 가짜 뉴스 방어와 언론 저작권 충돌의 최전선을 보여주는 사례다.

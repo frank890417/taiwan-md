@@ -1,9 +1,18 @@
 ---
 title: 'Le développement des parcs scientifiques de Taïwan'
-description: 'D''un pari sur des rizières à un bouclier de silicium pesant cinq billions de dollars — comment trois parcs scientifiques ont réécrit la carte technologique mondiale en quarante-cinq ans'
+description: "D'un pari sur des rizières à un bouclier de silicium pesant cinq billions de dollars — comment trois parcs scientifiques ont réécrit la carte technologique mondiale en quarante-cinq ans"
 date: 2026-03-25
 tags:
-  ['parc scientifique', 'Hsinchu Science Park', 'STSP', 'CTSP', 'semi-conducteurs', 'cluster industriel', 'TSMC', 'bouclier de silicium']
+  [
+    'parc scientifique',
+    'Hsinchu Science Park',
+    'STSP',
+    'CTSP',
+    'semi-conducteurs',
+    'cluster industriel',
+    'TSMC',
+    'bouclier de silicium',
+  ]
 subcategory: 'Semi-conducteurs et matériel'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -13,6 +22,9 @@ category: 'Technology'
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'Technology/科技園區發展.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:9c6e710290cc0283'
+translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 
 # Le développement des parcs scientifiques de Taïwan
@@ -77,14 +89,14 @@ Le tournant vient de TSMC. Lorsque les terres et les ressources en eau de Hsinch
 
 Le parc du Sud ne se résume plus à « celui de Tainan ». En 2026, l'Administration du parc scientifique du Sud gère six zones :
 
-| Zone | Localisation | Superficie | Effectifs (03/2026) | Spécificité |
-|------|-------------|-----------|---------------------|-------------|
-| Zone de Tainan | Xinshi / Shanhua / Anding | 1 043 ha | 76 642 | Centre de fabrication semi-conducteurs avancés, dont l'extension phase 3 |
-| Zone de Kaohsiung | Luzhu / Yong'an / Gangshan | 567 ha | 15 472 | Pôle dispositifs médicaux et biotechnologie |
-| Zone de Qiaotou | Qiaotou, Kaohsiung | 164 ha | 276 | Semi-conducteurs + machines intelligentes, travaux lancés en 2021 |
-| Zone de Nanzih | Nanzih, Kaohsiung | 29,83 ha | 5 240 | Procédés avancés TSMC (ancienne zone industrielle de Nanzih) |
-| Zone de Chiayi | Taibao | 88 ha | 1 256 | Médecine de précision + agriculture intelligente, phase 2 en préparation |
-| Zone de Pingtung | Pingtung | 73,83 ha | 0 | Agriculture/médecine intelligentes + spatial, travaux lancés en 2023 |
+| Zone              | Localisation               | Superficie | Effectifs (03/2026) | Spécificité                                                              |
+| ----------------- | -------------------------- | ---------- | ------------------- | ------------------------------------------------------------------------ |
+| Zone de Tainan    | Xinshi / Shanhua / Anding  | 1 043 ha   | 76 642              | Centre de fabrication semi-conducteurs avancés, dont l'extension phase 3 |
+| Zone de Kaohsiung | Luzhu / Yong'an / Gangshan | 567 ha     | 15 472              | Pôle dispositifs médicaux et biotechnologie                              |
+| Zone de Qiaotou   | Qiaotou, Kaohsiung         | 164 ha     | 276                 | Semi-conducteurs + machines intelligentes, travaux lancés en 2021        |
+| Zone de Nanzih    | Nanzih, Kaohsiung          | 29,83 ha   | 5 240               | Procédés avancés TSMC (ancienne zone industrielle de Nanzih)             |
+| Zone de Chiayi    | Taibao                     | 88 ha      | 1 256               | Médecine de précision + agriculture intelligente, phase 2 en préparation |
+| Zone de Pingtung  | Pingtung                   | 73,83 ha   | 0                   | Agriculture/médecine intelligentes + spatial, travaux lancés en 2023     |
 
 L'expansion du parc du Sud donne le vertige. L'extension phase 3 vise les semi-conducteurs avancés ; la phase 4 — le parc éco-scientifique de Shalun — a passé son évaluation de faisabilité en 2025. La zone de Chiayi phase 2 a obtenu son aval environnemental début 2026 pour accueillir l'usine d'encapsulation avancée CoWoS de TSMC.
 
@@ -175,6 +187,7 @@ Ces défis n'ont pas de réponse simple. Mais en regardant en arrière vers cett
 ---
 
 _Pour aller plus loin :_
+
 - [Industrie des semi-conducteurs](/technology/半導體產業)
 - [Développement des parcs scientifiques](/technology/科技園區發展)
 

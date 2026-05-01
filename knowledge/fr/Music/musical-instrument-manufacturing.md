@@ -2,7 +2,15 @@
 title: "L'industrie taïwanaise de la facture instrumentale : de Houli à l'atelier du monde"
 description: "Découvrez comment Taïwan est devenu un acteur incontournable de la fabrication d'instruments de musique — des saxophones de Houli aux guitares pour les grandes marques mondiales, en passant par la délicate mécanique des boîtes à musique"
 date: 2026-03-19
-tags: ['facture instrumentale', 'saxophone Houli', 'guitare sous-traitance', 'boîte à musique', 'industrie manufacturière', 'artisanat taïwanais']
+tags:
+  [
+    'facture instrumentale',
+    'saxophone Houli',
+    'guitare sous-traitance',
+    'boîte à musique',
+    'industrie manufacturière',
+    'artisanat taïwanais',
+  ]
 subcategory: 'Lutherie et fabrication'
 author: 'Taiwan.md Translation Team'
 readingTime: 13
@@ -11,6 +19,9 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣樂器製造.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c05b566af47ac375'
+translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 
 # L'industrie taïwanaise de la facture instrumentale : de Houli à l'atelier du monde

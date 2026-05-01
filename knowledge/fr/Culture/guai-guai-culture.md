@@ -2,7 +2,13 @@
 title: 'La culture Guai Guai à Taïwan : comment un snack vert est devenu le gardien de la high-tech'
 description: "Des ordinateurs d'étudiants aux chaînes de production de TSMC, pourquoi les Taïwanais croient-ils qu'un paquet de Guai Guai vert peut faire fonctionner les machines sans accroc ?"
 date: 2026-03-21
-tags: ['culture taïwanaise', 'croyances populaires', 'industrie technologique', 'légendes urbaines']
+tags:
+  [
+    'culture taïwanaise',
+    'croyances populaires',
+    'industrie technologique',
+    'légendes urbaines',
+  ]
 subcategory: 'Culture populaire'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 translatedFrom: 'Culture/台灣乖乖文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b95317cbf18e6ec7'
+translatedAt: '2026-04-14T12:33:38+08:00'
 ---
 
 > **En 30 secondes** : À Taïwan, des salles serveurs aux distributeurs automatiques de billets en passant par les appareils médicaux de précision, partout où une machine tourne, vous risquez de trouver un paquet de Guai Guai à l'emballage vert. Cette tradition singulière remonte à la fin des années 1990 : des ingénieurs ont commencé à croire que le nom du snack — qui signifie « être sage » ou « bien se comporter » — pouvait inciter leurs équipements à rester stables. Depuis, même la BBC lui a consacré un article.

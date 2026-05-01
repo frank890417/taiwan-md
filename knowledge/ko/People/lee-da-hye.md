@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/李多慧.md'
 readingTime: 10
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:c3e61e6efd81f405'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 2023년 그녀는 대만에서 정식 데뷔했고, 2024년 웨이취안 드래곤스로 이적했으며, 2026년에도 드래곤 뷰티스 캡틴으로 남았다. 이다혜는 고프로필 한국 멤버에 그치지 않는다——시대의 신호다: 대만 한국 치어는 ‘들렀다 가는 것’에서 ‘머무는 것’으로 옮겼다.

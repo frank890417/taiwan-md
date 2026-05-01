@@ -2,7 +2,16 @@
 title: 'Chou Tzu-yu'
 description: "Une jeune fille de Tainan qui n'avait jamais parlé de politique, transformée en symbole de l'identité taïwanaise par huit secondes de drapeau. Dix ans plus tard, au Grand Dôme de Taipei, elle lisait une lettre manuscrite : « Je ne suis pas partie, non par sagesse, mais parce que j'en avais vraiment le désir. »"
 date: 2026-04-14
-tags: [Chou Tzu-yu, TWICE, Corée du Sud, K-POP, Incident du drapeau, Identité taïwanaise, Musique pop]
+tags:
+  [
+    Chou Tzu-yu,
+    TWICE,
+    Corée du Sud,
+    K-POP,
+    Incident du drapeau,
+    Identité taïwanaise,
+    Musique pop,
+  ]
 subcategory: 'Musique et spectacle'
 category: People
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 16
 featured: true
 translatedFrom: 'People/周子瑜.md'
 lastVerified: 2026-04-14
+sourceCommitSha: '5c7329f7'
+sourceContentHash: 'sha256:9b5d2b035a213c6b'
+translatedAt: '2026-04-14T19:14:43+08:00'
 ---
 
 > **En 30 secondes :** Chou Tzu-yu est née en 1999 à Tainan. À 13 ans, elle quitte sa famille pour devenir stagiaire chez JYP Entertainment. Quarante-sept jours après ses débuts, une caméra la filme pendant huit secondes tenant le drapeau de la République de Chine lors d'une émission coréenne — un internaute chinois fait une capture d'écran. Deux mois plus tard, la veille de l'élection présidentielle taïwanaise, une vidéo de 90 secondes dans laquelle elle présente ses excuses est diffusée. Des chercheurs estiment que cette vidéo a influé sur la décision de 1,34 million de jeunes électeurs[^8]. Depuis, elle n'a jamais prononcé un mot au sujet de ces 90 secondes. Elle a continué à danser, à sortir des albums, à être la danseuse principale et la benjamine de TWICE. Dix ans plus tard, elle est enfin rentrée à Kaohsiung pour lire devant 55 000 personnes une lettre écrite de sa main : « Je ne suis pas partie, non par obéissance ou docilité, mais parce que j'en avais vraiment le désir et l'envie. » Toute la salle a pleuré avec elle.
@@ -22,7 +34,7 @@ Le South China Morning Post cite plus tard des données de sondage : ces 90 seco
 
 Elle s'appelle Chou Tzu-yu. Depuis cette nuit-là, elle n'a jamais dit un seul mot au sujet de ces 90 secondes.
 
-Mais elle n'a pas disparu non plus. Durant les dix années suivantes, elle a continué à occuper le centre des scènes les plus brillantes du K-pop, dansant *Cheer Up*, *TT*, *LIKEY* au sein de TWICE, élue plus belle femme du monde, franchissant le million d'abonnés sur Instagram, sortant un EP solo, décrochant un master dans une université européenne. Chacune de ses apparitions ne s'accompagnait d'aucune explication, mais chacune d'elles ramenait les gens à ces 90 secondes.
+Mais elle n'a pas disparu non plus. Durant les dix années suivantes, elle a continué à occuper le centre des scènes les plus brillantes du K-pop, dansant _Cheer Up_, _TT_, _LIKEY_ au sein de TWICE, élue plus belle femme du monde, franchissant le million d'abonnés sur Instagram, sortant un EP solo, décrochant un master dans une université européenne. Chacune de ses apparitions ne s'accompagnait d'aucune explication, mais chacune d'elles ramenait les gens à ces 90 secondes.
 
 Jusqu'à ce que, dix ans plus tard, elle rentre enfin à Kaohsiung pour sortir une autre feuille manuscrite. Cette fois, le contenu était radicalement différent.
 
@@ -45,11 +57,11 @@ Lorsqu'elle a annoncé son départ pour la Corée au collège Fuxing, les élèv
 
 ## Quarante-sept jours après les débuts
 
-En 2015, JYP sélectionne les neuf membres fondatrices de TWICE dans l'émission de télé-réalité *SIXTEEN* diffusée sur Mnet. Tzu-yu n'était pas dans ces neuf noms. Mais le public l'adorait tellement que le fondateur Park Jin-young décida d'ajouter Tzu-yu et la membre japonaise MOMO à la formation, qui passa ainsi de neuf à onze membres[^1].
+En 2015, JYP sélectionne les neuf membres fondatrices de TWICE dans l'émission de télé-réalité _SIXTEEN_ diffusée sur Mnet. Tzu-yu n'était pas dans ces neuf noms. Mais le public l'adorait tellement que le fondateur Park Jin-young décida d'ajouter Tzu-yu et la membre japonaise MOMO à la formation, qui passa ainsi de neuf à onze membres[^1].
 
-Le 20 octobre, l'album de débuts de TWICE, *THE STORY BEGINS*, est mis en vente[^1]. Quarante-sept jours plus tard, un drapeau allait interrompre cette histoire.
+Le 20 octobre, l'album de débuts de TWICE, _THE STORY BEGINS_, est mis en vente[^1]. Quarante-sept jours plus tard, un drapeau allait interrompre cette histoire.
 
-Le 21 novembre 2015, Tzu-yu participe à l'enregistrement de l'émission de divertissement *My Little Television* sur MBC en Corée du Sud. L'animateur invite les membres originaires de différents pays à présenter le leur ; elle brandit le drapeau de la République de Chine. La caméra s'y attarde environ huit secondes[^3]. Personne ne pensa à quoi que ce soit à la fin du tournage, et les images ne se propagèrent pas immédiatement.
+Le 21 novembre 2015, Tzu-yu participe à l'enregistrement de l'émission de divertissement _My Little Television_ sur MBC en Corée du Sud. L'animateur invite les membres originaires de différents pays à présenter le leur ; elle brandit le drapeau de la République de Chine. La caméra s'y attarde environ huit secondes[^3]. Personne ne pensa à quoi que ce soit à la fin du tournage, et les images ne se propagèrent pas immédiatement.
 
 Deux mois entiers s'écoulèrent sans incident.
 
@@ -88,7 +100,7 @@ Le lendemain, 16 janvier, jour de l'élection présidentielle. Tsai Ing-wen fut 
 
 Dans les mois qui suivirent l'élection, le South China Morning Post porta son attention sur un chiffre : **1,34 million** — le nombre de jeunes électeurs dont les sondages estimaient qu'ils avaient changé leur décision de vote en raison de l'affaire Chou Tzu-yu. Certains n'avaient jamais eu l'intention de voter, mais après avoir regardé ces 90 secondes, ils sortirent quand même le lendemain matin ; d'autres qui voulaient voter pour le Kuomintang finalement votèrent pour le Parti démocrate progressiste ; d'autres encore, neutres au départ, furent poussés à prendre parti[^8].
 
-Un sondage du think tank taïwanais indique que l'incident a influencé environ **un dixième** des voix[^7]. Le chercheur Fan Shih-ping estime que cette présentation d'excuses « a eu un impact direct et considérable sur l'élection de 2016 »[^9]. Une revue académique a ensuite consacré un article à l'analyse de l'affaire sous le titre *The politics of apology: The Tzuyu Scandal*, l'inscrivant dans le cadre des dynamiques transnationales du K-pop[^10]. The Economist, dans un article de couverture de l'époque, écrivait : « C'est la première fois que le nationalisme chinois se retourne contre le K-pop. Une jeune fille de 16 ans s'est retrouvée au centre d'un jeu politique à trois acteurs. »
+Un sondage du think tank taïwanais indique que l'incident a influencé environ **un dixième** des voix[^7]. Le chercheur Fan Shih-ping estime que cette présentation d'excuses « a eu un impact direct et considérable sur l'élection de 2016 »[^9]. Une revue académique a ensuite consacré un article à l'analyse de l'affaire sous le titre _The politics of apology: The Tzuyu Scandal_, l'inscrivant dans le cadre des dynamiques transnationales du K-pop[^10]. The Economist, dans un article de couverture de l'époque, écrivait : « C'est la première fois que le nationalisme chinois se retourne contre le K-pop. Une jeune fille de 16 ans s'est retrouvée au centre d'un jeu politique à trois acteurs. »
 
 Mais le centre de cette histoire ne s'est jamais exprimé. Tzu-yu elle-même, son père, sa mère — cette famille a toujours eu la même réponse à propos de ces 90 secondes de janvier 2016. En 2018, après qu'une incident similaire de « Chinoise » éclata autour de l'artiste taïwanaise Eugenie Liu en Chine, un journaliste alla trouver la mère de Tzu-yu, Huang Yen-ling, pour lui demander son avis. Elle répondit :
 
@@ -101,20 +113,20 @@ Voilà la réponse standard de cette famille à toute question politique.
 
 ---
 
-## De *Cheer Up* à *Fancy* : celle que l'on a choisie comme figure de proue
+## De _Cheer Up_ à _Fancy_ : celle que l'on a choisie comme figure de proue
 
-En avril 2016, TWICE sort son second mini-album *PAGE TWO*. Le titre principal *Cheer Up* balaie les classements Gaon et remporte en fin d'année le Prix de la chanson de l'année aux Mnet Asian Music Awards[^19]. Trois mois après l'incident du drapeau, Tzu-yu n'avait pas été mise à l'écart par le marché chinois — elle et TWICE devenaient au contraire l'un des groupes féminins les plus populaires de Corée grâce à cette chanson.
+En avril 2016, TWICE sort son second mini-album _PAGE TWO_. Le titre principal _Cheer Up_ balaie les classements Gaon et remporte en fin d'année le Prix de la chanson de l'année aux Mnet Asian Music Awards[^19]. Trois mois après l'incident du drapeau, Tzu-yu n'avait pas été mise à l'écart par le marché chinois — elle et TWICE devenaient au contraire l'un des groupes féminins les plus populaires de Corée grâce à cette chanson.
 
 Dans TWICE, elle est **danseuse principale, choriste et benjamine**. « Maknae » (막내) signifie « la plus jeune » en coréen, mais les membres trouvaient que Tzu-yu, calme et posée, employait le coréen avec une précision supérieure à celle de ses aînées. Elles disaient en retour qu'elle était « celle qui ressemble le plus à une grande sœur dans le groupe »[^1]. Elles lui ont également donné le surnom de **Yoda**, à cause de ses grands yeux ronds et de ses oreilles décollées.
 
-En octobre 2016, TWICE sort son troisième mini-album *TWICEcoaster: LANE 1*. Le titre principal *TT* reste quatre semaines consécutives en tête du classement Gaon, et « la danse TT pleurante » devient une référence reprise par les adolescents de toute l'Asie[^19]. En l'espace d'un an, TWICE passe du statut de nouveau groupe à celui de l'un des trois grands groupes féminins du K-pop.
+En octobre 2016, TWICE sort son troisième mini-album _TWICEcoaster: LANE 1_. Le titre principal _TT_ reste quatre semaines consécutives en tête du classement Gaon, et « la danse TT pleurante » devient une référence reprise par les adolescents de toute l'Asie[^19]. En l'espace d'un an, TWICE passe du statut de nouveau groupe à celui de l'un des trois grands groupes féminins du K-pop.
 
-2017 est l'année où Tzu-yu commence à rayonner à l'international. Le 30 janvier, lors des Idol Sports Athletics Championships coréens, TWICE est inscrit à l'épreuve de tir à l'arc. Tzu-yu s'avance sur la ligne de tir, bande l'arc, lâche la flèche — la corde accroche ses longs cheveux, la flèche manque la cible, mais le geste est tellement gracieux que la vidéo dépasse le million de vues en 24 heures[^20]. Taika Waititi, réalisateur de *Thor: Ragnarok*, retweete le GIF ; Paul Feig, réalisateur de *Spy*, l'imite. Huit ans plus tard, cette vidéo circule encore dans les communautés en ligne indiennes[^20].
+2017 est l'année où Tzu-yu commence à rayonner à l'international. Le 30 janvier, lors des Idol Sports Athletics Championships coréens, TWICE est inscrit à l'épreuve de tir à l'arc. Tzu-yu s'avance sur la ligne de tir, bande l'arc, lâche la flèche — la corde accroche ses longs cheveux, la flèche manque la cible, mais le geste est tellement gracieux que la vidéo dépasse le million de vues en 24 heures[^20]. Taika Waititi, réalisateur de _Thor: Ragnarok_, retweete le GIF ; Paul Feig, réalisateur de _Spy_, l'imite. Huit ans plus tard, cette vidéo circule encore dans les communautés en ligne indiennes[^20].
 
 > **Note de la rédaction**
 > Ce moment de tir à l'arc est une métaphore de toute la carrière de Tzu-yu : elle n'a pas atteint la cible, mais son geste était tellement beau que personne ne l'a oublié. Dix ans plus tard seulement, dans une lettre manuscrite, elle dirait au monde qu'elle se demandait parfois si elle était vraiment à sa place. Mais quand le monde la regardait, il ne voyait que ce geste, cet arc tendu.
 
-En novembre 2017, TWICE monte sur la scène du gala *Kōhaku Uta Gassen* de NHK au Japon — premier groupe coréen invité en six ans[^19]. La même année, le premier album studio de TWICE, *Twicetagram*, et son titre *LIKEY* balaient à nouveau les palmarès. *What is Love?* en 2018, *Fancy* en 2019 : chaque sortie devient une référence incontournable dans l'histoire du K-pop féminin asiatique.
+En novembre 2017, TWICE monte sur la scène du gala _Kōhaku Uta Gassen_ de NHK au Japon — premier groupe coréen invité en six ans[^19]. La même année, le premier album studio de TWICE, _Twicetagram_, et son titre _LIKEY_ balaient à nouveau les palmarès. _What is Love?_ en 2018, _Fancy_ en 2019 : chaque sortie devient une référence incontournable dans l'histoire du K-pop féminin asiatique.
 
 Le site américain TC. Candler publie chaque année son classement des « 100 plus beaux visages du monde ». Tzu-yu y figure depuis 2015, 13e au classement cette année-là, puis chaque année par la suite ; en 2019, elle arrive **1re**, première femme asiatique à décrocher la première place dans l'histoire de ce classement[^15].
 
@@ -130,12 +142,12 @@ Une phrase des commentaires a été retraduite en chinois un nombre incalculable
 
 C'était trois ans après l'incident du drapeau. Pour la première fois dans un espace public, elle parlait à la première personne de son « mal-être ». Elle ne mentionnait rien de précis, n'expliquait rien, ne se plaignait pas, n'accusait personne. Mais elle laissait savoir à tous ceux qui lisaient ces lignes qu'elle **n'avait pas la vie facile**.
 
-Au cours des années suivantes, TWICE devint encore plus célèbre, et Tzu-yu devint encore plus difficile à saisir. En 2020, elle sort le livre photo *Yes, I am Tzuyu.* — première membre de TWICE à sortir un ouvrage photographique personnel[^1]. En mai 2022, TWICE ouvre toutes ses comptes Instagram individuels ; celui de Tzu-yu s'appelle @thinkaboutzu. En mars 2023, ce compte franchit le cap du **million d'abonnés**, la plaçant au deuxième rang des artistes taïwanais sur Instagram, juste derrière Jay Chou[^17].
+Au cours des années suivantes, TWICE devint encore plus célèbre, et Tzu-yu devint encore plus difficile à saisir. En 2020, elle sort le livre photo _Yes, I am Tzuyu._ — première membre de TWICE à sortir un ouvrage photographique personnel[^1]. En mai 2022, TWICE ouvre toutes ses comptes Instagram individuels ; celui de Tzu-yu s'appelle @thinkaboutzu. En mars 2023, ce compte franchit le cap du **million d'abonnés**, la plaçant au deuxième rang des artistes taïwanais sur Instagram, juste derrière Jay Chou[^17].
 
 > **Vous le saviez ?**
 > En décembre 2024, lors des festivités du 30e anniversaire de l'école primaire Fuxing dans le district Est de Tainan, la présentation des anciens élèves distingués révèle un fait que Tzu-yu n'avait jamais évoqué : elle a obtenu un **master en psychologie appliquée de l'Université Cervantes en Espagne**[^18]. Elle n'avait pas fait d'études supérieures au sens classique. L'université a accepté sa riche expérience professionnelle en lieu et place d'un diplôme universitaire ; une recommandation d'un professeur qu'elle avait rencontré lui a permis, en période de pandémie, de suivre huit cours en ligne et de rédiger un mémoire sur une période de plus d'un an[^11]. Pas de conférence de presse, pas de story sur Instagram. C'est l'école elle-même qui a rendu la chose publique.
 
-Le 6 septembre 2024, elle sort enfin son EP solo *abouTZU* — « about » + « TZU », « tout sur Tzu-yu ». Le clip du titre *Run Away* dépasse les 4 millions de vues sur YouTube en 24 heures, numéro un sur Bugs en Corée et sur iTunes à Taïwan[^12]. Mais lors des interviews, elle n'a pas expliqué pourquoi cette chanson s'appelait *Run Away*, ni ce dont elle fuyait ni vers où. 
+Le 6 septembre 2024, elle sort enfin son EP solo _abouTZU_ — « about » + « TZU », « tout sur Tzu-yu ». Le clip du titre _Run Away_ dépasse les 4 millions de vues sur YouTube en 24 heures, numéro un sur Bugs en Corée et sur iTunes à Taïwan[^12]. Mais lors des interviews, elle n'a pas expliqué pourquoi cette chanson s'appelait _Run Away_, ni ce dont elle fuyait ni vers où.
 
 Elle l'a simplement sorti, l'a dansé, puis s'est tue à nouveau.
 
@@ -157,9 +169,9 @@ Neuf ans auparavant, ces 90 secondes, elle lisait un texte écrit par d'autres. 
 
 Neuf mois plus tard, du 20 au 22 mars 2026, TWICE donne trois concerts consécutifs au Grand Dôme de Taipei. Trois soirs, 120 000 spectateurs. Le 21 mars, le métro de Taipei enregistre **2,606 millions de passages** dans la journée, battant le record historique du mois[^14]. Elle se tient au centre du Grand Dôme, et pleure à nouveau.
 
-| 14/06/1999 | 15/11/2012 | 20/10/2015 | 15/01/2016 | Avril 2019 | 06/09/2024 | 15/12/2024 | 22/11/2025 | 20-22/03/2026 |
-|------------|------------|------------|------------|------------|------------|------------|------------|---------------|
-| Naissance à Tainan | Part en Corée à 13 ans | Débuts de TWICE | Vidéo d'excuses de 90 s | Premier « c'est difficile » sur Instagram | EP solo *abouTZU* | Révélation du master en psychologie | Lettre manuscrite et larmes à Kaohsiung | Trois concerts au Grand Dôme de Taipei |
+| 14/06/1999         | 15/11/2012             | 20/10/2015      | 15/01/2016              | Avril 2019                                | 06/09/2024        | 15/12/2024                          | 22/11/2025                              | 20-22/03/2026                          |
+| ------------------ | ---------------------- | --------------- | ----------------------- | ----------------------------------------- | ----------------- | ----------------------------------- | --------------------------------------- | -------------------------------------- |
+| Naissance à Tainan | Part en Corée à 13 ans | Débuts de TWICE | Vidéo d'excuses de 90 s | Premier « c'est difficile » sur Instagram | EP solo _abouTZU_ | Révélation du master en psychologie | Lettre manuscrite et larmes à Kaohsiung | Trois concerts au Grand Dôme de Taipei |
 
 ---
 
@@ -219,7 +231,7 @@ Et cette île, depuis cette nuit du 15 janvier, a appris à finir les phrases de
 
 [^11]: [周子瑜花1年拿到碩士學位！粉絲：跳過大學嗎？ - NOWnews](https://www.nownews.com/news/6610812) — NOWnews (2024), Tzu-yu confirme avoir obtenu un master en psychologie appliquée à l'Université Cervantes en Espagne, en ligne, avec dispense de licence grâce à son expérience professionnelle.
 
-[^12]: [子瑜Solo曲〈Run Away〉點閱一天就破4百萬 - NOWnews](https://www.nownews.com/news/6518459) — NOWnews (2024), premier EP solo de Tzu-yu *abouTZU* : 4 millions de vues en 24 heures, numéro 1 sur Bugs et iTunes Taïwan.
+[^12]: [子瑜Solo曲〈Run Away〉點閱一天就破4百萬 - NOWnews](https://www.nownews.com/news/6518459) — NOWnews (2024), premier EP solo de Tzu-yu _abouTZU_ : 4 millions de vues en 24 heures, numéro 1 sur Bugs et iTunes Taïwan.
 
 [^13]: [TWICE高雄新裝首登場！等了10年 子瑜「我終於帶成員來了」全場爆哭 - 噓星聞](https://stars.udn.com/star/story/10092/9156781) — Xing Wen (2025), reportage en direct du premier concert taïwanais de TWICE au stade des Jeux mondiaux de Kaohsiung le 22 novembre 2025, larmes de Tzu-yu et déclaration de Jihyo en chinois.
 
@@ -233,7 +245,7 @@ Et cette île, depuis cette nuit du 15 janvier, a appris à finir les phrases de
 
 [^18]: [子瑜獲得歐洲心理學碩士學位！本人證實「是真的」 - 噓星聞](https://stars.udn.com/star/story/10091/8426512) — Xing Wen (2024), révélation du master lors du 30e anniversaire de l'école primaire Fuxing de Tainan.
 
-[^19]: [TWICE - Wikipedia](https://en.wikipedia.org/wiki/Twice) — Article Wikipedia anglais sur TWICE : *Cheer Up* (Chanson de l'année aux MAMA), *TT* (quatre semaines numéro 1 sur Gaon), premier groupe coréen invité au Kōhaku en six ans.
+[^19]: [TWICE - Wikipedia](https://en.wikipedia.org/wiki/Twice) — Article Wikipedia anglais sur TWICE : _Cheer Up_ (Chanson de l'année aux MAMA), _TT_ (quatre semaines numéro 1 sur Gaon), premier groupe coréen invité au Kōhaku en six ans.
 
 [^20]: [TWICE Tzuyu's ridiculously graceful shot goes viral - Koreaboo](https://www.koreaboo.com/stories/twice-tzuyus-ridiculously-graceful-shot-goes-viral/) — Koreaboo (2017), le tir à l'arc de Tzu-yu lors des Idol Sports Athletics Championships : la corde accroche ses cheveux, la vidéo cartonne, retweetée par Taika Waititi et Paul Feig.
 

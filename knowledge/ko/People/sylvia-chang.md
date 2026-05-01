@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/張艾嘉.md'
 readingTime: 7
 featured: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b98aee16ecfe25b3'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 장애가: 화어 영화계의 멀티 퀸

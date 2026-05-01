@@ -2,7 +2,14 @@
 title: 'Stan Lai — Le maître du théâtre sinophone'
 description: 'Fondateur du Performance Workshop, créateur de La Romance de la Source aux Pêchers, figure tutélaire du théâtre sinophone contemporain'
 date: 2026-03-19
-tags: ['Stan Lai', 'théâtre', 'Performance Workshop', 'La Romance de la Source aux Pêchers', 'mise en scène']
+tags:
+  [
+    'Stan Lai',
+    'théâtre',
+    'Performance Workshop',
+    'La Romance de la Source aux Pêchers',
+    'mise en scène',
+  ]
 subcategory: 'Art et design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +17,14 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/賴聲川.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5a4167cb8b4d6e8d'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Stan Lai : le maître innovateur du théâtre sinophone
 
-Stan Lai (賴聲川) est le metteur en scène, dramaturge et théoricien le plus influent du théâtre sinophone. Surnommé le « parrain du théâtre sinophone », il fonde le Performance Workshop en 1984, puis crée en 1986 l'œuvre fondatrice *La Romance de la Source aux Pêchers* (*暗戀桃花源*), ouvrant ainsi une nouvelle ère pour le théâtre moderne de langue chinoise. Son travail marie l'esthétique théâtrale orientale et occidentale, et l'on lui doit une méthode originale de création collective par l'improvisation qui a formé d'innombrables artistes de scène. Il demeure l'un des artisans essentiels de la modernisation du théâtre à Taïwan.
+Stan Lai (賴聲川) est le metteur en scène, dramaturge et théoricien le plus influent du théâtre sinophone. Surnommé le « parrain du théâtre sinophone », il fonde le Performance Workshop en 1984, puis crée en 1986 l'œuvre fondatrice _La Romance de la Source aux Pêchers_ (_暗戀桃花源_), ouvrant ainsi une nouvelle ère pour le théâtre moderne de langue chinoise. Son travail marie l'esthétique théâtrale orientale et occidentale, et l'on lui doit une méthode originale de création collective par l'improvisation qui a formé d'innombrables artistes de scène. Il demeure l'un des artisans essentiels de la modernisation du théâtre à Taïwan.
 
 ## Des origines forgées entre les cultures
 
@@ -30,7 +40,7 @@ En 1979, de retour à Taïwan, Stan Lai intègre le corps enseignant du Départe
 
 Durant cette période, il cherche à articuler la théorie théâtrale occidentale et les traditions culturelles asiatiques, explorant des formes dramatiques adaptées au contexte culturel sinophone. Il accorde une attention particulière à la formation des acteurs, développant une technique qui marie le système Stanislavski et l'esthétique corporelle orientale.
 
-Au début des années 1980, il met en scène plusieurs pièces expérimentales, dont *Heizhu xinpei* et *Cette nuit, nous parlons de xiangsheng*. Ces travaux témoignent de sa réflexion approfondie sur la culture locale : comment insérer des éléments de l'opéra traditionnel dans un cadre de théâtre moderne.
+Au début des années 1980, il met en scène plusieurs pièces expérimentales, dont _Heizhu xinpei_ et _Cette nuit, nous parlons de xiangsheng_. Ces travaux témoignent de sa réflexion approfondie sur la culture locale : comment insérer des éléments de l'opéra traditionnel dans un cadre de théâtre moderne.
 
 ## La fondation du Performance Workshop
 
@@ -38,13 +48,13 @@ En 1984, Stan Lai cofonde le « Performance Workshop » (表演工作坊) avec L
 
 La compagnie adopte un mode de création collectif qui rompt avec la hiérarchie traditionnelle entre dramaturge, metteur en scène et acteurs : tous participent au processus créatif. Cette façon de travailler évoluera vers la « méthode de création collective par l'improvisation » qui deviendra l'une des innovations majeures du théâtre sinophone.
 
-Les premières productions — dont *Cette nuit, nous parlons de xiangsheng* et *Cette nuit, qui parlera de xiangsheng* — fusionnent l'art traditionnel du xiangsheng avec les codes du théâtre moderne, inventant une forme scénique inédite. L'accueil enthousiaste du public confirme la place de la compagnie dans le paysage théâtral taïwanais.
+Les premières productions — dont _Cette nuit, nous parlons de xiangsheng_ et _Cette nuit, qui parlera de xiangsheng_ — fusionnent l'art traditionnel du xiangsheng avec les codes du théâtre moderne, inventant une forme scénique inédite. L'accueil enthousiaste du public confirme la place de la compagnie dans le paysage théâtral taïwanais.
 
-## L'œuvre fondatrice : *La Romance de la Source aux Pêchers*
+## L'œuvre fondatrice : _La Romance de la Source aux Pêchers_
 
-Créée en 1986, *La Romance de la Source aux Pêchers* (*暗戀桃花源*) s'impose comme l'une des œuvres phares du théâtre sinophone. Sa structure de « pièce dans la pièce » met en scène deux troupes qui répètent simultanément sur le même plateau, créant un chaos fécond à partir duquel émergent de profondes questions philosophiques sur l'existence.
+Créée en 1986, _La Romance de la Source aux Pêchers_ (_暗戀桃花源_) s'impose comme l'une des œuvres phares du théâtre sinophone. Sa structure de « pièce dans la pièce » met en scène deux troupes qui répètent simultanément sur le même plateau, créant un chaos fécond à partir duquel émergent de profondes questions philosophiques sur l'existence.
 
-La pièce enchevêtre deux récits : *La Romance* narre les amours séparés par la guerre ; *La Source aux Pêchers* réinterprète le classique de Tao Yuanming, confrontant l'idéal et le réel. L'alternance des deux intrigues génère un dialogue entre passé et présent, tragique et comique, qui constitue l'originalité dramaturgique de l'œuvre.
+La pièce enchevêtre deux récits : _La Romance_ narre les amours séparés par la guerre ; _La Source aux Pêchers_ réinterprète le classique de Tao Yuanming, confrontant l'idéal et le réel. L'alternance des deux intrigues génère un dialogue entre passé et présent, tragique et comique, qui constitue l'originalité dramaturgique de l'œuvre.
 
 La force de la pièce réside dans sa densité culturelle et sa forme innovante. Stan Lai y tisse ensemble la littérature classique chinoise, la vie urbaine contemporaine et la mémoire historique, créant une œuvre à portée universelle.
 
@@ -62,9 +72,9 @@ Des artistes majeurs ont grandi à cette école : Jin Shijie, Li Guoxiu, Ding Na
 
 ## L'apogée créative des années 1990
 
-Les années 1990 marquent l'âge d'or de Stan Lai. Il enchaîne les œuvres importantes : *Moi et moi et lui et lui* (1991) explore la crise d'identité de l'homme moderne ; *Le Ciel rouge* (1994) médite sur le traumatisme infligé aux intellectuels chinois par la Révolution culturelle.
+Les années 1990 marquent l'âge d'or de Stan Lai. Il enchaîne les œuvres importantes : _Moi et moi et lui et lui_ (1991) explore la crise d'identité de l'homme moderne ; _Le Ciel rouge_ (1994) médite sur le traumatisme infligé aux intellectuels chinois par la Révolution culturelle.
 
-*La nuit du Millénaire, nous parlons de xiangsheng* (1999) élève la forme du xiangsheng à un nouveau sommet en l'infiltrant de questionnements philosophiques et de thématiques sociales contemporaines. L'œuvre marque la transition réussie du Performance Workshop, de compagnie expérimentale à compagnie de théâtre commercial.
+_La nuit du Millénaire, nous parlons de xiangsheng_ (1999) élève la forme du xiangsheng à un nouveau sommet en l'infiltrant de questionnements philosophiques et de thématiques sociales contemporaines. L'œuvre marque la transition réussie du Performance Workshop, de compagnie expérimentale à compagnie de théâtre commercial.
 
 Durant cette même période, Stan Lai s'ouvre à la scène internationale. Ses pièces sont jouées à New York, Londres et Paris, lui valant la reconnaissance du public occidental.
 
@@ -72,7 +82,7 @@ Durant cette même période, Stan Lai s'ouvre à la scène internationale. Ses p
 
 L'œuvre de Stan Lai est profondément enracinée dans la culture chinoise classique, et particulièrement dans la philosophie zen. Ses pièces interrogent volontiers « le réel et l'illusoire », « l'être et le néant » — autant de questions qui traversent la sagesse du bouddhisme chan.
 
-*Comme dans un rêve* (*如夢之夢*, 2000) est son œuvre zen par excellence : une scène circulaire, huit heures de représentation, une immersion totale du spectateur dans l'espace-temps théâtral. La pièce explore la réincarnation, le karma, les pensées bouddhistes sur le sens de la vie.
+_Comme dans un rêve_ (_如夢之夢_, 2000) est son œuvre zen par excellence : une scène circulaire, huit heures de représentation, une immersion totale du spectateur dans l'espace-temps théâtral. La pièce explore la réincarnation, le karma, les pensées bouddhistes sur le sens de la vie.
 
 Pour Stan Lai, le théâtre doit avoir une fonction spirituelle : non pas simplement divertir ou créer, mais offrir au spectateur un espace de retour sur soi. Cette conviction confère à ses œuvres une puissance de résonance particulière.
 
@@ -80,15 +90,15 @@ Pour Stan Lai, le théâtre doit avoir une fonction spirituelle : non pas simple
 
 En tant que figure centrale du théâtre sinophone, Stan Lai joue un rôle essentiel dans les échanges culturels entre Taïwan et la Chine continentale. À partir des années 1990, ses productions sont jouées sur le continent, devenant un vecteur privilégié de dialogue culturel.
 
-En 2008, il crée *Village sur la belle île* (*寶島一村*), ancrée dans la culture des villages militaires (juancun) qui peuplent la mémoire historique propre à Taïwan. L'œuvre rencontre un succès considérable des deux côtés du détroit, suscitant une réflexion partagée sur une histoire commune.
+En 2008, il crée _Village sur la belle île_ (_寶島一村_), ancrée dans la culture des villages militaires (juancun) qui peuplent la mémoire historique propre à Taïwan. L'œuvre rencontre un succès considérable des deux côtés du détroit, suscitant une réflexion partagée sur une histoire commune.
 
 Stan Lai s'engage aussi dans la formation des artistes du continent, animant des ateliers à Pékin et Shanghai pour transmettre sa méthode de création collective. Son influence contribue au développement du théâtre moderne en Chine continentale.
 
 ## Les nouvelles expérimentations à l'ère numérique
 
-À l'entrée du XXIe siècle, Stan Lai commence à explorer les nouvelles technologies dans le théâtre. *Comme dans un rêve* utilise la projection multimédia ; *Le Livre sous l'eau* intègre la forme de la comédie musicale — autant d'explorations qui repoussent les frontières de l'art scénique.
+À l'entrée du XXIe siècle, Stan Lai commence à explorer les nouvelles technologies dans le théâtre. _Comme dans un rêve_ utilise la projection multimédia ; _Le Livre sous l'eau_ intègre la forme de la comédie musicale — autant d'explorations qui repoussent les frontières de l'art scénique.
 
-À partir des années 2010, il se tourne vers la création de comédies musicales : *Milky Way of Jimmy* et *Sérénade*, notamment, marient son esthétique théâtrale et la musique populaire, ouvrant de nouveaux horizons pour la comédie musicale en langue chinoise.
+À partir des années 2010, il se tourne vers la création de comédies musicales : _Milky Way of Jimmy_ et _Sérénade_, notamment, marient son esthétique théâtrale et la musique populaire, ouvrant de nouveaux horizons pour la comédie musicale en langue chinoise.
 
 Ces dernières années, Stan Lai s'intéresse au théâtre numérique et réfléchit aux conditions de survie des arts vivants à l'ère d'Internet. Pendant la pandémie, il a lancé des projets de théâtre en ligne, explorant les possibilités de la représentation virtuelle.
 
@@ -102,7 +112,7 @@ Stan Lai encourage aussi l'ouverture internationale, incitant ses étudiants à 
 
 ## La création tardive et la réflexion culturelle
 
-Ces dernières années, la création de Stan Lai s'attache davantage à l'identité culturelle et à la mémoire historique. *Treize relations* (2014) interroge les émotions complexes de la société taïwanaise ; *L'Hôtel du bonheur* (2017) médite sur le système de valeurs de l'homme contemporain.
+Ces dernières années, la création de Stan Lai s'attache davantage à l'identité culturelle et à la mémoire historique. _Treize relations_ (2014) interroge les émotions complexes de la société taïwanaise ; _L'Hôtel du bonheur_ (2017) médite sur le système de valeurs de l'homme contemporain.
 
 Il réfléchit de plus en plus à la place et au rôle de la culture sinophone dans un monde globalisé, cherchant dans ses œuvres à répondre à des questions fondamentales : « Qui sommes-nous ? D'où venons-nous ? »
 

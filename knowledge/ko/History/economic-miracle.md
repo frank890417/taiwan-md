@@ -12,6 +12,9 @@ featured: true
 lastVerified: 2026-03-19
 category: 'History'
 translatedFrom: 'History/台灣經濟奇蹟.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:59051517307ea5dd'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 # 대만 경제 기적: 농업 사회에서 아시아의 네 마리 용으로

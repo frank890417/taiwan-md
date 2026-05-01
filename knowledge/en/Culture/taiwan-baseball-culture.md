@@ -19,6 +19,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣棒球文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bd189706ec7d9cd6'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Baseball Culture

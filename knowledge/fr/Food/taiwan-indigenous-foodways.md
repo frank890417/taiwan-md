@@ -5,15 +5,15 @@ date: 2026-03-29
 category: 'Food'
 tags:
   [
-    "peuples autochtones",
-    "culture culinaire",
-    "millet",
-    "légumes sauvages",
-    "Paiwan",
-    "Amis",
-    "Tao",
-    "cuisine de tribu",
-    "renaissance gastronomique",
+    'peuples autochtones',
+    'culture culinaire',
+    'millet',
+    'légumes sauvages',
+    'Paiwan',
+    'Amis',
+    'Tao',
+    'cuisine de tribu',
+    'renaissance gastronomique',
   ]
 subcategory: 'Cuisine des peuples'
 author: 'Taiwan.md Translation Team'
@@ -21,6 +21,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Food/台灣原住民飲食文化.md'
 lastVerified: 2026-03-29
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d67f3581051e39e8'
+translatedAt: '2026-04-14T12:31:33+08:00'
 ---
 
 # Les saveurs autochtones de Taïwan : trois mille ans de mémoire culinaire

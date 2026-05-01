@@ -9,7 +9,10 @@ date: 2026-03-27
 readingTime: 8
 lastVerified: 2026-03-27
 lastHumanReview: true
-translatedFrom: 'People/洪醒夫.md'
+translatedFrom: "People/洪醒夫.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:7de74580c2e1d825"
+translatedAt: "2026-04-14T19:16:28+08:00"
 ---
 
 Né le 10 décembre 1949 à Beiping Li, dans le bourg d'Erlin, au comté de Changhua, au sein d'une famille paysanne qui cultivait la terre depuis des générations, Hung Hsing-fu s'appelait à l'état civil Hung Ma-cong. À dix-huit ans, il publie sa première nouvelle, « L'Auberge de passage », dans le Taiwan Daily News, et s'engage dès lors sur la voie de la littérature. Le 31 juillet 1982, alors qu'il rentrait chez lui sous le typhon Andy, il trouve la mort dans un accident de voiture à l'âge de trente-trois ans, mettant fin à une carrière créatrice brève mais lumineuse.

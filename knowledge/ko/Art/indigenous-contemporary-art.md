@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Art/台灣原住民當代藝術.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:83bc82b565683352'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 대만 원주민 현대 미술

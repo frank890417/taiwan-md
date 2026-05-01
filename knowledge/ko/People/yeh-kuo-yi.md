@@ -7,6 +7,9 @@ subcategory: '과학기술과 기업'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/葉國一.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8815002e4ea20721'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 예궈이：대만 전자 위탁제조 산업의 기초를 닦은 인물

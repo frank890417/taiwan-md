@@ -8,9 +8,12 @@ category: 'History'
 author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: false
-translatedFrom: 'History/台灣轉型正義.md'
+translatedFrom: "History/台灣轉型正義.md"
 lastVerified: 2026-03-31
 lastHumanReview: false
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:7913ed2b9abc7af3"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 > **En 30 secondes :** En 1950, dans la ville de Qingshui, un jeune homme de vingt ans fut arrêté parce qu'un inconnu était venu lui rendre visite. Il passa dix ans emprisonné sur l'île de Green Island, avant de fonder, à sa libération, le premier magazine de bandes dessinées pour enfants de Taïwan. Il vécut jusqu'à quatre-vingt-treize ans, et jusqu'à la fin il revenait toujours à la même question : « Qui exactement a tué mes amis ? » La justice transitionnelle taïwanaise a obtenu l'annulation des condamnations de près de six mille personnes — mais elle n'a toujours pas répondu à cette question.
@@ -35,8 +38,8 @@ L'Incident du 28 Février 1947 fut une répression de grande envergure menée pa
 
 La Terreur blanche taïwanaise reposait juridiquement sur deux textes : la « Loi punissant la rébellion » et la « Loi sur l'élimination des agents communistes en période de suppression de la rébellion ». Toute personne soupçonnée de « rébellion » ou d'être un « agent ennemi » pouvait être traduite devant un tribunal militaire, sans garanties judiciaires normales. La base de données établie ultérieurement par la Commission pour la promotion de la justice transitionnelle répertorie plus de quatorze mille cas de personnes jugées dans des affaires politiques.[^8] Parmi eux, Tchang Kaï-chek est personnellement intervenu dans plus de trois mille dossiers ; on recense huit cent soixante-seize condamnations à mort confirmées.[^11]
 
-| 14 946 dossiers | 876 dossiers |
-|---|---|
+| 14 946 dossiers                                                 | 876 dossiers                    |
+| --------------------------------------------------------------- | ------------------------------- |
 | Personnes jugées dans des affaires politiques (base de données) | Condamnations à mort confirmées |
 
 Le nombre total de victimes de la Terreur blanche, tel qu'établi avec certitude en 2022, dépasse les vingt-deux mille. Mais le mot « certitude » est lui-même problématique : avant que la Commission ne commence à compiler les archives, même une estimation approximative restait impossible.

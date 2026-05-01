@@ -2,7 +2,13 @@
 title: "L'industrie logicielle à Taïwan"
 description: "De la sous-traitance matérielle à l'innovation logicielle : comment Taïwan redéfinit sa place à l'ère post-semi-conducteurs"
 date: 2026-03-18
-tags: ['industrie logicielle', 'services informatiques', 'transformation numérique', 'startups']
+tags:
+  [
+    'industrie logicielle',
+    'services informatiques',
+    'transformation numérique',
+    'startups',
+  ]
 subcategory: 'Intelligence artificielle'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +17,9 @@ featured: false
 translatedFrom: 'Technology/台灣軟體產業發展.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8309e00340ef142f'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 # L'industrie logicielle à Taïwan
@@ -99,7 +108,7 @@ Après l'éclatement de la bulle Internet, le secteur logiciel cherche un nouvea
 
 La démocratisation des smartphones ouvre de nouvelles perspectives :
 
-- **Jeux mobiles** : les studios investissent le marché mobile — citons *Rock Zombie* de Gamania et *Cytus* de Rayark
+- **Jeux mobiles** : les studios investissent le marché mobile — citons _Rock Zombie_ de Gamania et _Cytus_ de Rayark
 - **Transition vers le cloud** : les éditeurs traditionnels développent des offres SaaS
 - **Écosystème startup** : des accélérateurs comme AppWorks et TMI accompagnent les jeunes entreprises
 
@@ -132,14 +141,14 @@ La pandémie a accéléré la transformation numérique. Le gouvernement lance l
 
 **Rayark**
 
-- Célébrée à l'international pour la série de jeux musicaux *Cytus*
+- Célébrée à l'international pour la série de jeux musicaux _Cytus_
 - Attachée à ses IP originales, sans jamais recycler des formules existantes
 - Récompensée par des prix internationaux, avec une communauté de joueurs dans le monde entier
 
 **Red Candle Games**
 
 - Studio indépendant spécialisé dans les jeux d'horreur
-- *Devotion* a mis en lumière la culture taïwanaise et suscité une reconnaissance internationale remarquée
+- _Devotion_ a mis en lumière la culture taïwanaise et suscité une reconnaissance internationale remarquée
 - Symbole de l'influence grandissante du jeu indépendant taïwanais à l'international
 
 ### Les startups IA en vue
@@ -292,14 +301,14 @@ L'avenir de l'industrie logicielle à Taïwan dépend de sa capacité à préser
 
 ## Références
 
-1. [Institut pour l'information industrielle (MIC)](https://mic.iii.org.tw/), *Annuaire 2024 des services informatiques à Taïwan*
-2. Bureau de l'industrie, Ministère des Affaires économiques, *Stratégie de développement de l'industrie logicielle*, 2024
-3. Conseil national du développement, [*Plan de développement Nation numérique, Économie innovante (2021-2025)*](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2)
-4. Association de l'industrie logicielle de Taïwan, *Livre blanc 2024 de l'industrie logicielle*
-5. DIGITIMES Research, [*Rapport sur le développement de l'industrie ICT à Taïwan*](https://www.digitimes.com/), 2024
-6. Exécutif Yuan, [*Plan d'action AI Taiwan*](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23), version révisée 2023
-7. ITRI (Industrial Technology Research Institute), [*Rapport 2024 sur les tendances de l'industrie logicielle taïwanaise*](https://ieknet.iek.org.tw/)
-8. PwC Taiwan, [*Enquête 2025 auprès des dirigeants d'entreprise à Taïwan*](https://www.pwc.tw/)
+1. [Institut pour l'information industrielle (MIC)](https://mic.iii.org.tw/), _Annuaire 2024 des services informatiques à Taïwan_
+2. Bureau de l'industrie, Ministère des Affaires économiques, _Stratégie de développement de l'industrie logicielle_, 2024
+3. Conseil national du développement, [_Plan de développement Nation numérique, Économie innovante (2021-2025)_](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2)
+4. Association de l'industrie logicielle de Taïwan, _Livre blanc 2024 de l'industrie logicielle_
+5. DIGITIMES Research, [_Rapport sur le développement de l'industrie ICT à Taïwan_](https://www.digitimes.com/), 2024
+6. Exécutif Yuan, [_Plan d'action AI Taiwan_](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/a8ec407c-6154-4c14-8f1e-d494ec2dbf23), version révisée 2023
+7. ITRI (Industrial Technology Research Institute), [_Rapport 2024 sur les tendances de l'industrie logicielle taïwanaise_](https://ieknet.iek.org.tw/)
+8. PwC Taiwan, [_Enquête 2025 auprès des dirigeants d'entreprise à Taïwan_](https://www.pwc.tw/)
 9. [Rapport annuel Appier](https://www.appier.com/en/press-media), Bourse de Tokyo, 2023
 10. [Rayark](https://rayark.com/zh/) — documentation officielle, historique de l'entreprise et présentation des œuvres
 11. Site officiel de Gamania — historique et présentation des titres

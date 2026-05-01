@@ -10,6 +10,9 @@ readingTime: 12
 featured: true
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '429d3cf0'
+sourceContentHash: 'sha256:fbde4b685ace42ba'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 대만의 수교국과 국제 외교

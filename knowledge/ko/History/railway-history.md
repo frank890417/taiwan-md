@@ -11,6 +11,9 @@ readingTime: 13
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'History/台灣鐵道史.md'
+sourceCommitSha: '956a36f3'
+sourceContentHash: 'sha256:b934d409b4731aff'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 # 대만 철도의 역사

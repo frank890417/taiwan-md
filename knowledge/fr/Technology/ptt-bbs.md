@@ -10,7 +10,10 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Technology/PTT批踢踢.md'
+translatedFrom: "Technology/PTT批踢踢.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:f28d98485199bc24"
+translatedAt: "2026-04-14T12:32:55+08:00"
 ---
 
 # PTT Bulletin Board : la place publique la plus tenace de Taïwan
@@ -53,7 +56,7 @@ PTT compte plus de vingt mille forums au total, couvrant des thèmes aussi vari�
 
 L'impact le plus durable de PTT sur Taïwan est peut-être linguistique. De nombreux termes nés sur PTT ont infiltré le langage courant, utilisés même par des personnes qui n'ont jamais fréquenté le site :
 
-**Kémin (鄉民)** — le terme par lequel les utilisateurs de PTT se désignent eux-mêmes. L'origine remonte au film de Stephen Chow *Justice, My Foot!* et à la réplique « je suis entré avec les villageois pour voir le spectacle ». En 2004, le responsable du site a lancé un appel sur le forum : « Les spectateurs kémin, veuillez rester derrière la ligne jaune. » Le terme est passé de l'ironie à l'identité, devenant l'auto-désignation la plus répandue des utilisateurs de PTT.
+**Kémin (鄉民)** — le terme par lequel les utilisateurs de PTT se désignent eux-mêmes. L'origine remonte au film de Stephen Chow _Justice, My Foot!_ et à la réplique « je suis entré avec les villageois pour voir le spectacle ». En 2004, le responsable du site a lancé un appel sur le forum : « Les spectateurs kémin, veuillez rester derrière la ligne jaune. » Le terme est passé de l'ironie à l'identité, devenant l'auto-désignation la plus répandue des utilisateurs de PTT.
 
 **Le « 5e commentaire » (五樓)** — la cinquième ligne de commentaires, où les réponses les plus inspirées apparaissaient fréquemment à l'époque. D'où l'expression « le 5e commentaire a raison » ou « parle, commentaire n° 5 ».
 

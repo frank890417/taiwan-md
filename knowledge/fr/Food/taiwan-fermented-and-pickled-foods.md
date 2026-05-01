@@ -14,14 +14,17 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg/960px-%E8%A5%BF%E9%95%87%E8%87%AD%E8%B1%86%E8%85%90.jpg'
 imageAlt: 'Tofu fermenté odorant (臭豆腐)'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
+translatedFrom: "Food/台灣發酵食品與醃製文化.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:83aadc055a63682c"
+translatedAt: "2026-04-14T12:29:18+08:00"
 ---
 
 # Fermentation et conserves à Taïwan : une culture de la patience
 
 ## En 30 secondes
 
-La culture de la fermentation et des conserves à Taïwan est le fruit d'une rencontre exceptionnelle : techniques Minnan, savoir-faire hakka, traditions autochtones et influences japonaises ont fusionné pour créer un système de saveurs unique en son genre. Du tofu puant (臭豆腐, *chòu dòufu*) vendu au coin des rues au fromage de tofu (豆腐乳, *dòufu rǔ*) présent dans presque chaque foyer, des légumes marinés au riz fermenté au vin, ces aliments en apparence ordinaires recèlent une science millénaire et une mémoire culturelle vivante. À Taïwan, l'industrie de la fermentation génère plus de 35 milliards de dollars taïwanais par an : c'est un pilier économique, mais surtout un pont vivant entre le passé et l'avenir.
+La culture de la fermentation et des conserves à Taïwan est le fruit d'une rencontre exceptionnelle : techniques Minnan, savoir-faire hakka, traditions autochtones et influences japonaises ont fusionné pour créer un système de saveurs unique en son genre. Du tofu puant (臭豆腐, _chòu dòufu_) vendu au coin des rues au fromage de tofu (豆腐乳, _dòufu rǔ_) présent dans presque chaque foyer, des légumes marinés au riz fermenté au vin, ces aliments en apparence ordinaires recèlent une science millénaire et une mémoire culturelle vivante. À Taïwan, l'industrie de la fermentation génère plus de 35 milliards de dollars taïwanais par an : c'est un pilier économique, mais surtout un pont vivant entre le passé et l'avenir.
 
 **Mots-clés** : tofu puant, fromage de tofu, légumes marinés, techniques de fermentation, microbiologie, artisanat traditionnel
 
@@ -118,7 +121,7 @@ Le tofu puant vient de Chine, mais il a connu à Taïwan une transformation prof
 **Méthode traditionnelle** :
 
 1. **Préparation du tofu** : sélection d'un tofu ferme, découpé en petits cubes
-2. **Ensemencement** : inoculation naturelle ou artificielle de moisissures *Mucor*
+2. **Ensemencement** : inoculation naturelle ou artificielle de moisissures _Mucor_
 3. **Culture de la moisissure** : contrôle de la température et de l'humidité jusqu'à l'apparition d'un filament blanc
 4. **Salaison et affinage** : marinade au sel, à l'alcool et aux épices, puis maturation
 
@@ -418,13 +421,13 @@ D'une cuillerée de fromage de tofu tout en douceur à un morceau de tofu puant 
 
 1. [Taiwan Panorama (1993) « L'odeur extraordinaire de Chine — le tofu puant »](https://www.taiwan-panorama.com/Articles/Details?Guid=beb7ff70-9a54-42a4-8a57-49f402159aab)
 2. [Site bilingue ONG du Ministère des Affaires étrangères « Quand l'odeur atteint l'extrême, elle devient parfum : le code aromatique du tofu puant »](https://taiwanngo.tw/Post/86007)
-3. Food Industry Research and Development Institute, *Analyse de l'industrie des aliments fermentés à Taïwan* (2023)
+3. Food Industry Research and Development Institute, _Analyse de l'industrie des aliments fermentés à Taïwan_ (2023)
 4. [Huaren Health Network « Fromage, yaourt, miso — bien les choisir ? 4 raisons impératives de manger des aliments fermentés » (2023)](https://www.top1health.com/Article/92611)
 5. [Wikipédia, article « Tofu puant »](https://zh.wikipedia.org/zh-tw/%E8%87%AD%E8%B1%86%E8%85%90)
-6. Council of Agriculture, Executive Yuan, *Recherches sur les techniques traditionnelles des aliments fermentés à Taïwan* (2022)
-7. Food and Drug Administration, Ministry of Health and Welfare, *Normes d'hygiène pour les aliments fermentés*
-8. Chinese Institute of Food Science and Technology, *Journal of Food Science — Compilation annuelle 2021-2025*
-9. Taiwan Tobacco and Liquor Corporation, *Histoire du développement des techniques de fermentation des alcools à Taïwan* (2024)
-10. [Hakka Affairs Council, *Programme de préservation et de promotion de la culture des conserves hakkas* (2023)](https://www.hakka.gov.tw/)
-11. [Council of Indigenous Peoples, *Enquête sur la culture traditionnelle brassicole des peuples autochtones* (2022)](https://www.cip.gov.tw/)
-12. Industrial Technology Research Institute, *Analyse de la compétitivité de l'industrie de la fermentation à Taïwan* (2025)
+6. Council of Agriculture, Executive Yuan, _Recherches sur les techniques traditionnelles des aliments fermentés à Taïwan_ (2022)
+7. Food and Drug Administration, Ministry of Health and Welfare, _Normes d'hygiène pour les aliments fermentés_
+8. Chinese Institute of Food Science and Technology, _Journal of Food Science — Compilation annuelle 2021-2025_
+9. Taiwan Tobacco and Liquor Corporation, _Histoire du développement des techniques de fermentation des alcools à Taïwan_ (2024)
+10. [Hakka Affairs Council, _Programme de préservation et de promotion de la culture des conserves hakkas_ (2023)](https://www.hakka.gov.tw/)
+11. [Council of Indigenous Peoples, _Enquête sur la culture traditionnelle brassicole des peuples autochtones_ (2022)](https://www.cip.gov.tw/)
+12. Industrial Technology Research Institute, _Analyse de la compétitivité de l'industrie de la fermentation à Taïwan_ (2025)

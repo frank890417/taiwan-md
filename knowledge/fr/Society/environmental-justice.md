@@ -20,6 +20,9 @@ category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f432308c67b7af9d'
+translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 
 # Justice environnementale et conflits NIMBY à Taïwan

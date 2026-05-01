@@ -9,9 +9,12 @@ category: 'Technology'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
-translatedFrom: 'Technology/東亞文字輸入法.md'
+translatedFrom: "Technology/東亞文字輸入法.md"
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:073b6227b6cef1d7"
+translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 
 # La civilisation face au clavier : cent ans d'évolution des méthodes de saisie en Asie de l'Est
@@ -85,13 +88,13 @@ Ce choix s'inscrit dans une histoire profonde :
 
 En apparence, zhuyin et pinyin sont tous deux des méthodes « phonétiques ». Mais leurs différences de fond sont immenses :
 
-|                         | Zhuyin (Taïwan)                   | Pinyin (Chine)                     |
-| ----------------------- | --------------------------------- | ---------------------------------- |
-| Système de symboles     | Symboles indépendants (ㄅㄆㄇ)    | Lettres latines (bpmf)             |
-| Racines culturelles     | Dérivé de radicaux chinois        | Issu du mouvement de romanisation  |
-| Prérequis d'apprentissage | Pas besoin de connaître l'anglais | Nécessite de connaître l'alphabet  |
-| Clavier requis          | Clavier annoté en zhuyin          | N'importe quel clavier anglais     |
-| Rapport à l'écriture    | « Décrire la prononciation »      | « Traduire en caractères latins »  |
+|                           | Zhuyin (Taïwan)                   | Pinyin (Chine)                    |
+| ------------------------- | --------------------------------- | --------------------------------- |
+| Système de symboles       | Symboles indépendants (ㄅㄆㄇ)    | Lettres latines (bpmf)            |
+| Racines culturelles       | Dérivé de radicaux chinois        | Issu du mouvement de romanisation |
+| Prérequis d'apprentissage | Pas besoin de connaître l'anglais | Nécessite de connaître l'alphabet |
+| Clavier requis            | Clavier annoté en zhuyin          | N'importe quel clavier anglais    |
+| Rapport à l'écriture      | « Décrire la prononciation »      | « Traduire en caractères latins » |
 
 Cette différence dépasse le simple aspect technique — elle reflète le clivage fondamental entre les deux rives du détroit sur la question de l'articulation entre le chinois et le reste du monde. Taïwan a choisi de préserver un système de signes indépendant de l'Occident ; la Chine a embrassé la romanisation.
 
@@ -188,14 +191,14 @@ En 2019, le gouvernement birman a officiellement décidé de basculer vers **Mya
 
 ## Comparaison : les philosophies clavier de six civilisations
 
-| Civilisation  | Méthode principale | Principe              | Sélection de caractères ? | Positionnement culturel     |
-| ------------- | ------------------ | --------------------- | ------------------------- | --------------------------- |
-| 🇹🇼 Taïwan    | Zhuyin             | Symboles phonétiques indépendants | ✅ Nombreux homophones | Indépendance culturelle     |
-| 🇨🇳 Chine     | Pinyin             | Phonétique latine     | ✅ Nombreux homophones    | Ouverture internationale    |
-| 🇯🇵 Japon     | Romaji             | Latin → kana → kanji  | ✅ Conversion kanji       | Triple conversion           |
-| 🇰🇷 Corée     | Dubeolsik          | Correspondance directe| ❌ Composition en temps réel | Adaptation parfaite       |
-| 🇹🇭 Thaïlande | Kedmanee           | Correspondance directe| ❌ Sortie directe         | Héritage des machines à écrire |
-| 🇲🇲 Birmanie  | Myanmar Unicode    | Combinaison de caractères | ❌ Sortie directe      | Bataille pour la standardisation |
+| Civilisation | Méthode principale | Principe                          | Sélection de caractères ?    | Positionnement culturel          |
+| ------------ | ------------------ | --------------------------------- | ---------------------------- | -------------------------------- |
+| 🇹🇼 Taïwan    | Zhuyin             | Symboles phonétiques indépendants | ✅ Nombreux homophones       | Indépendance culturelle          |
+| 🇨🇳 Chine     | Pinyin             | Phonétique latine                 | ✅ Nombreux homophones       | Ouverture internationale         |
+| 🇯🇵 Japon     | Romaji             | Latin → kana → kanji              | ✅ Conversion kanji          | Triple conversion                |
+| 🇰🇷 Corée     | Dubeolsik          | Correspondance directe            | ❌ Composition en temps réel | Adaptation parfaite              |
+| 🇹🇭 Thaïlande | Kedmanee           | Correspondance directe            | ❌ Sortie directe            | Héritage des machines à écrire   |
+| 🇲🇲 Birmanie  | Myanmar Unicode    | Combinaison de caractères         | ❌ Sortie directe            | Bataille pour la standardisation |
 
 ---
 

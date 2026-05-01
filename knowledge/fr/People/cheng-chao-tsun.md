@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
-translatedFrom: 'People/鄭兆村.md'
+translatedFrom: "People/鄭兆村.md"
 lastVerified: 2026-03-19
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:bd6e73b952c9405f"
+translatedAt: "2026-04-14T19:19:21+08:00"
 ---
 
 # Cheng Chao-tsun : le roi asiatique du javelot

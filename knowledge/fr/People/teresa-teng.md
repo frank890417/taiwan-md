@@ -2,7 +2,16 @@
 title: 'Teresa Teng — La reine éternelle de la chanson asiatique'
 description: 'Ambassadrice culturelle de la Guerre froide, Teresa Teng a traversé les frontières politiques grâce à sa voix, devenant un symbole universel de la musique chinophone'
 date: 2026-03-17
-tags: [personnalités, Teresa Teng, chanteuse, reine de la chanson asiatique, musique chinophone, Guerre froide, rayonnement culturel]
+tags:
+  [
+    personnalités,
+    Teresa Teng,
+    chanteuse,
+    reine de la chanson asiatique,
+    musique chinophone,
+    Guerre froide,
+    rayonnement culturel,
+  ]
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 18
 featured: true
 translatedFrom: 'People/鄧麗君.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:137ce9f0ad4e78d5'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Teresa Teng (鄧麗君)
@@ -43,20 +55,20 @@ La famille Deng vivait simplement. Pour cultiver le talent de leur fille, tous s
 En 1962, la fillette de neuf ans commence à se produire dans des cérémonies de temple et des spectacles de divertissement militaire. Ces premières expériences forgèrent sa présence scénique et son aisance face au public. Elle montait sur des scènes rudimentaires, vêtue des petites robes que sa mère cousait à la main, irradiant d'un charme enfantin spontané.
 
 **La percée décisive à 11 ans :**
-En 1964, Teresa Teng remporte un concours de chant organisé par la Radio de Chine avec l'interprétation de *Fang Yingtai*. Cette victoire lui valut une attention immédiate et confirma sa vocation de chanteuse professionnelle.
+En 1964, Teresa Teng remporte un concours de chant organisé par la Radio de Chine avec l'interprétation de _Fang Yingtai_. Cette victoire lui valut une attention immédiate et confirma sa vocation de chanteuse professionnelle.
 
 **Son premier disque à 14 ans :**
-En 1967, à quatorze ans, elle enregistre son premier album, *Phoenix Flower Drum* (鳳陽花鼓). Les ventes restent modestes, mais cet album marque le début d'une légende.
+En 1967, à quatorze ans, elle enregistre son premier album, _Phoenix Flower Drum_ (鳳陽花鼓). Les ventes restent modestes, mais cet album marque le début d'une légende.
 
 ## Les années taïwanaises : l'ascension vers la gloire
 
 ### L'ère télévisuelle
 
-**L'explosion avec le générique de *Jingjing* :**
-En 1969, à seize ans, Teresa Teng interprète le thème de la série télévisée *Jingjing* sur la chaîne CTV. La chanson envahit instantanément Taïwan, faisant d'elle une star nationale. Sa voix cristalline et sa mélodie envoûtante conquirent irrésistiblement le public taïwanais.
+**L'explosion avec le générique de _Jingjing_ :**
+En 1969, à seize ans, Teresa Teng interprète le thème de la série télévisée _Jingjing_ sur la chaîne CTV. La chanson envahit instantanément Taïwan, faisant d'elle une star nationale. Sa voix cristalline et sa mélodie envoûtante conquirent irrésistiblement le public taïwanais.
 
-**L'album *Thousand Words* et sa consécration :**
-L'album *Thousand Words* (千言萬語), sorti en 1970, consolide sa place dans le paysage musical taïwanais. La chanson-titre, avec son vers « Mille mots se résument en un seul : je t'aime », est devenue une référence incontournable des déclarations d'amour.
+**L'album _Thousand Words_ et sa consécration :**
+L'album _Thousand Words_ (千言萬語), sorti en 1970, consolide sa place dans le paysage musical taïwanais. La chanson-titre, avec son vers « Mille mots se résument en un seul : je t'aime », est devenue une référence incontournable des déclarations d'amour.
 
 **Une présence polyvalente sur les plateaux :**
 Teresa Teng était une habituée des émissions de variétés télévisées, où elle ne se contentait pas de chanter mais s'adonnait aussi au crosstalk et aux sketches humoristiques. Son tempérament doux et son sourire lumineux en firent l'une des artistes les plus populaires du petit écran.
@@ -82,8 +94,8 @@ La musique de Teresa Teng était toujours imprégnée de la culture chinoise tra
 **Surmonter la barrière linguistique et culturelle :**
 À ses débuts au Japon, Teresa Teng se heurta à d'immenses obstacles culturels et linguistiques. Elle travailla la langue japonaise avec acharnement, étudia les spécificités du marché musical local et s'adapta avec rigueur au milieu artistique nippon. Son sérieux et son professionnalisme touchèrent profondément les musiciens japonais.
 
-**Le triomphe historique de *Kukou* :**
-En 1974, son single japonais *Kukou* (空港 / Tsugunai) connut un succès commercial retentissant et lui valut le Japan Record Award du meilleur artiste révélation — elle devenait ainsi la première artiste étrangère à recevoir cette distinction. Une percée historique.
+**Le triomphe historique de _Kukou_ :**
+En 1974, son single japonais _Kukou_ (空港 / Tsugunai) connut un succès commercial retentissant et lui valut le Japan Record Award du meilleur artiste révélation — elle devenait ainsi la première artiste étrangère à recevoir cette distinction. Une percée historique.
 
 ### Une légende dans le paysage musical japonais
 
@@ -91,7 +103,7 @@ En 1974, son single japonais *Kukou* (空港 / Tsugunai) connut un succès comme
 De 1974 à 1986, Teresa Teng fut invitée à participer plusieurs années consécutives au Kōhaku Uta Gassen de la NHK, le plus prestigieux programme musical de fin d'année au Japon. Ses prestations sur cette scène emportèrent l'adhésion de millions de téléspectateurs japonais.
 
 **L'excellence artistique de ses chansons japonaises :**
-Au-delà du succès commercial, ses chansons en japonais atteignirent un niveau artistique remarquable. *Tsugaru Kaikyo Fuyu Geshiki*, *Wakare no Yokan*, *Aijin* — ces titres figurent encore aujourd'hui parmi les plus demandés dans les karaoké japonais.
+Au-delà du succès commercial, ses chansons en japonais atteignirent un niveau artistique remarquable. _Tsugaru Kaikyo Fuyu Geshiki_, _Wakare no Yokan_, _Aijin_ — ces titres figurent encore aujourd'hui parmi les plus demandés dans les karaoké japonais.
 
 **Une fusion culturelle inédite :**
 La réussite de Teresa Teng au Japon ne fut pas seulement une victoire personnelle : elle devint un modèle d'échange culturel en Asie de l'Est. En interprétant des chansons japonaises avec la sensibilité émotionnelle de la culture chinoise, elle créa un style musical transculturel unique.
@@ -114,11 +126,11 @@ Teresa Teng passa les dernières années de sa vie principalement à Chiang Mai,
 **Une saine émulation avec Susanna Kwan :**
 À la fin des années 1970, Teresa Teng et Susanna Kwan étaient désignées comme les « deux grandes reines » de la scène musicale de Hong Kong. Leur émulation mutuelle contribua à élever l'ensemble de la musique pop chinoise, faisant éclore un âge d'or.
 
-**L'album *Tian Mi Mi* : un chef-d'œuvre indépassable :**
-L'album *Tian Mi Mi* (甜蜜蜜, « Doux comme du miel »), sorti en 1979, représente le sommet artistique de la carrière de Teresa Teng. La chanson-titre dépasse la simple excellence musicale pour devenir un classique de la chanson d'amour intergénérationnelle, une référence absolue pour l'expression des sentiments amoureux.
+**L'album _Tian Mi Mi_ : un chef-d'œuvre indépassable :**
+L'album _Tian Mi Mi_ (甜蜜蜜, « Doux comme du miel »), sorti en 1979, représente le sommet artistique de la carrière de Teresa Teng. La chanson-titre dépasse la simple excellence musicale pour devenir un classique de la chanson d'amour intergénérationnelle, une référence absolue pour l'expression des sentiments amoureux.
 
 **« La lune représente mon cœur » : un symbole culturel :**
-*Yue Liang Dai Biao Wo De Xin* (月亮代表我的心), née dans les années 1970, a depuis longtemps dépassé le statut de chanson pour devenir un symbole de la culture chinoise. Sa mélodie simple et ses paroles touchantes en ont fait le vecteur privilégié des déclarations d'amour entre Chinois du monde entier.
+_Yue Liang Dai Biao Wo De Xin_ (月亮代表我的心), née dans les années 1970, a depuis longtemps dépassé le statut de chanson pour devenir un symbole de la culture chinoise. Sa mélodie simple et ses paroles touchantes en ont fait le vecteur privilégié des déclarations d'amour entre Chinois du monde entier.
 
 ### L'art du concert
 

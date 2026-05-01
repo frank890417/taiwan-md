@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-28
 lastHumanReview: true
-translatedFrom: 'Society/台灣志工文化與公益參與.md'
+translatedFrom: "Society/台灣志工文化與公益參與.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:3da44641d134eb50"
+translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 
 > **En 30 secondes :** Taïwan compte plus d'un million de bénévoles enregistrés qui contribuent collectivement plus de 120 millions d'heures de service non rémunéré chaque année. De Tzu Chi — née de 30 mères au foyer qui économisaient chaque jour quelques centimes dans un bambou — aux quelque 9 000 points de collecte écologique répartis dans tout le pays, en passant par les mamans conteuses dans les écoles et les brigades de livraison de repas pour personnes âgées : le bénévolat n'est pas une « vertu » à Taïwan, c'est une infrastructure.
@@ -34,8 +37,8 @@ Avant cette loi, être bénévole signifiait simplement « faire le bien ». Auc
 
 Cette loi a transformé la « bonne volonté » en « institution ». Depuis lors, les bénévoles taïwanais ne sont plus seulement des âmes généreuses — ce sont des citoyens engagés, disposant de carnets de bord, de certifications d'heures et d'une formation reconnue.
 
-| Plus d'un million | Plus de 120 millions d'heures |
-|---|---|
+| Plus d'un million                                                                            | Plus de 120 millions d'heures    |
+| -------------------------------------------------------------------------------------------- | -------------------------------- |
 | Bénévoles enregistrés à Taïwan (2023, statistiques du Ministère de la Santé et du Bien-être) | Total annuel d'heures de service |
 
 ## Les points de collecte écologique : le plus grand réseau bénévole environnemental au monde

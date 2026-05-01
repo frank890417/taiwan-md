@@ -10,6 +10,9 @@ readingTime: 10
 featured: true
 translatedFrom: 'Economy/台灣企業：台積電.md'
 lastVerified: 2026-03-25
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:934dad079d2918fd'
+translatedAt: '2026-04-14T08:37:54+08:00'
 ---
 
 > **30초 요약**

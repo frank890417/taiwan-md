@@ -8,6 +8,9 @@ category: 'History'
 author: 'Taiwan.md Translation Team'
 lastVerified: 2026-03-19
 translatedFrom: 'History/戰後經濟發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bd943f680a0506bf'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 # 전후 경제 발전

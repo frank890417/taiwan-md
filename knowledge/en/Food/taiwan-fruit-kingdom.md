@@ -7,6 +7,9 @@ category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Food/台灣水果王國.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cec5a64527d2ad7f'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Fruit Kingdom

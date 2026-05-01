@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/朴旻曙.md'
 readingTime: 8
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:1d1af2a03aaae646'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** CTBC 브라더스 치어 생태계에서 박민서(밍고)는 일회성 스파이크에 의존하지 않는다——매 경기 낸다. 한국 멤버가 대만에 머무는 이유가 버즈만이 아니라 지속 가능한 온필드 실행에 있음을 보여 준다.

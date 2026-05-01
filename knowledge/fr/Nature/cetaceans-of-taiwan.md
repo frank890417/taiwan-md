@@ -2,7 +2,17 @@
 title: 'Les cétacés de Taïwan'
 description: "Un tiers des espèces de cétacés du monde fréquentent les eaux de Taïwan — de la chasse à la baleine à l'écotourisme, comment l'île est devenue un haut lieu de la recherche marine."
 date: 2026-03-19
-tags: ['Taïwan', 'cétacés', 'océan', 'nature', 'conservation', 'observation des baleines', 'dauphin blanc de Chine', 'Kuroshio']
+tags:
+  [
+    'Taïwan',
+    'cétacés',
+    'océan',
+    'nature',
+    'conservation',
+    'observation des baleines',
+    'dauphin blanc de Chine',
+    'Kuroshio',
+  ]
 subcategory: 'Faune sauvage'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
@@ -10,6 +20,9 @@ category: 'Nature'
 lastVerified: 2026-03-19
 featured: false
 translatedFrom: 'Nature/臺灣的鯨豚.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:07527dba7e956bb0'
+translatedAt: '2026-04-14T19:23:22+08:00'
 ---
 
 # Les cétacés de Taïwan

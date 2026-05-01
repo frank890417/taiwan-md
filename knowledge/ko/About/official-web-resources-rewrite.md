@@ -16,6 +16,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'About/台灣官方網站資源重寫.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:73ee4c24e755afd6'
+translatedAt: '2026-04-14T11:06:19+08:00'
 ---
 
 # 대만 공식 웹사이트 자원: 25개 사이트에서 디지털 정부 강국으로, 30년의 기적

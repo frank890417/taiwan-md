@@ -7,6 +7,9 @@ subcategory: '음악과 공연'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/周杰倫.md'
+sourceCommitSha: '59db5de4'
+sourceContentHash: 'sha256:429e6c1fb55123cd'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 > **30초 요약:** 1997년 수줍음 많은 18세 소년이 《슈퍼 신인왕》에서 피아노를 쳤다. 3년 후 그의 첫 번째 앨범은 화어 팝 음악의 역사를 다시 썼다. 저우제룬은 단순한 가수가 아니다. 그는 음악 업계 전체가 "오리지널리티가 팔린다"는 것을 믿게 만든 사람이다. 2000년부터 지금까지 그는 16장의 앨범으로 화어 음악이 동양적 특색을 유지하면서 세계 무대를 정복할 수 있음을 증명했다.

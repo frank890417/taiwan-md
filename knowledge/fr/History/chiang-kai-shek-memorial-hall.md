@@ -3,13 +3,25 @@ title: 'Le Mémorial Chiang Kai-shek : entre temple autoritaire et place de la l
 description: "Au cœur de Taipei se dresse ce monument colossal — à la fois totem politique hérité de l'ère autoritaire et berceau de la démocratie taïwanaise. Son histoire raconte les convulsions les plus profondes de l'âme de Taïwan."
 date: 2026-04-10
 category: History
-tags: [justice transitionnelle, monument de Taipei, Yang Cho-cheng, mouvement du Lys sauvage, paysage autoritaire, tourisme, Xinyi]
+tags:
+  [
+    justice transitionnelle,
+    monument de Taipei,
+    Yang Cho-cheng,
+    mouvement du Lys sauvage,
+    paysage autoritaire,
+    tourisme,
+    Xinyi,
+  ]
 subcategory: 'Architecture et mémoire politique'
 readingTime: 9
 lastVerified: 2026-04-10
 lastHumanReview: false
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'History/中正紀念堂.md'
+sourceCommitSha: '603c911a'
+sourceContentHash: 'sha256:c4755ffdce1f19d7'
+translatedAt: '2026-04-14T12:32:06+08:00'
 ---
 
 # Le Mémorial Chiang Kai-shek
@@ -100,15 +112,26 @@ Tant que les gens qui fréquentent ce lieu sont libres, ce bâtiment ne pourra p
 
 ---
 
-[^1]: Hsüeh Hua-yuan, *Histoire de Taïwan après 1945*, Taipei : Sanmin, 2014.
+[^1]: Hsüeh Hua-yuan, _Histoire de Taïwan après 1945_, Taipei : Sanmin, 2014.
+
 [^2]: [Bureau de gestion du Mémorial Chiang Kai-shek, « La beauté architecturale : les marches et le toit »](https://www.cksmh.gov.tw/content_74.html)
-[^3]: Hsiao A-chin, *Reconstruire Taïwan : politiques culturelles du nationalisme contemporain*, Taipei : Linking Publishing, 2012.
-[^4]: Fan Yun (dir.), *Le rituel collectif d'une nouvelle génération : le Mouvement du Lys sauvage*, Taipei : Avant-garde, 1993.
-[^5]: Lee Teng-hui, *La thèse de Taïwan*, Taipei : Yuan-Liou, 1999.
+
+[^3]: Hsiao A-chin, _Reconstruire Taïwan : politiques culturelles du nationalisme contemporain_, Taipei : Linking Publishing, 2012.
+
+[^4]: Fan Yun (dir.), _Le rituel collectif d'une nouvelle génération : le Mouvement du Lys sauvage_, Taipei : Avant-garde, 1993.
+
+[^5]: Lee Teng-hui, _La thèse de Taïwan_, Taipei : Yuan-Liou, 1999.
+
 [^6]: [« Le Mémorial Chiang Kai-shek rebaptisé Musée national de la démocratie taïwanaise », CNA, 19 mai 2007](https://www.cna.com.tw/news/firstnews/200705190001.aspx)
-[^7]: Wu Nai-teh, *Le meilleur moment de Taïwan : 1977-1987*, Taipei : Chun Shan, 2020.
+
+[^7]: Wu Nai-teh, _Le meilleur moment de Taïwan : 1977-1987_, Taipei : Chun Shan, 2020.
+
 [^8]: Agence du tourisme, Ministère des Transports — Statistiques touristiques récentes (données 2025-2026).
+
 [^9]: « Dix mille participants au Safari Zone Pokémon de Taipei », Apple Daily (référence d'événement historique, 2022).
+
 [^10]: Rapports du Ministère de la Culture et du Yuan exécutif sur la justice transitionnelle, série de communiqués officiels 2024-2026.
+
 [^11]: [Le Mémorial Chiang Kai-shek « a failli devenir l'actuel quartier Xinyi » — Histoire du projet du secteur Yingbian (ETtoday)](https://www.ettoday.net/news/20190312/1397733.htm)
+
 [^12]: [District Xinyi — Wikipédia (zh)](https://zh.wikipedia.org/zh-tw/%E4%BF%A1%E7%BE%A9%E8%A8%88%E7%95%AB%E5%8D%80)

@@ -8,43 +8,46 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
-translatedFrom: 'People/鈕承澤.md'
+translatedFrom: "People/鈕承澤.md"
 lastVerified: 2026-03-19
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:c412539523fe8a6a"
+translatedAt: "2026-04-14T19:19:21+08:00"
 ---
 
 # Doze Niu : le cinéaste entre génie et controverse
 
-Doze Niu est l'un des noms les plus marquants du cinéma taïwanais — et l'un des plus controversés. Réalisateur de *Monga* et *Paradise in Service*, il a construit sa carrière sur une vision sans concession de la société taïwanaise, explorant ses zones d'ombre avec une intensité singulière. Mais en 2018, son arrestation pour agression sexuelle a tout remis en question : l'homme, l'œuvre, et ce que le milieu du cinéma préférait ne pas regarder en face.
+Doze Niu est l'un des noms les plus marquants du cinéma taïwanais — et l'un des plus controversés. Réalisateur de _Monga_ et _Paradise in Service_, il a construit sa carrière sur une vision sans concession de la société taïwanaise, explorant ses zones d'ombre avec une intensité singulière. Mais en 2018, son arrestation pour agression sexuelle a tout remis en question : l'homme, l'œuvre, et ce que le milieu du cinéma préférait ne pas regarder en face.
 
 ## Enfance dans les villages militaires
 
-Né le 22 mai 1966 à Taipei, Niu Chen-Tzer — dit Doze Niu — grandit dans un *juancun*, ces quartiers réservés aux familles de militaires venus du continent avec Tchang Kaï-chek. Son père est un ancien soldat ; sa mère, femme au foyer. C'est dans cet univers à part, entre nostalgie et discipline, qu'il découvre très tôt le goût du jeu et de la mise en scène.
+Né le 22 mai 1966 à Taipei, Niu Chen-Tzer — dit Doze Niu — grandit dans un _juancun_, ces quartiers réservés aux familles de militaires venus du continent avec Tchang Kaï-chek. Son père est un ancien soldat ; sa mère, femme au foyer. C'est dans cet univers à part, entre nostalgie et discipline, qu'il découvre très tôt le goût du jeu et de la mise en scène.
 
-En 1977, à onze ans, il fait ses débuts à l'écran dans le film *The Clown*. Sa présence naturelle séduit le public, et il enchaîne rapidement les tournages. Dans les plateaux de cinéma, il apprend en observant : la lumière, le cadrage, le rythme du montage. Tout cela s'imprime en lui bien avant qu'il ne passe derrière la caméra.
+En 1977, à onze ans, il fait ses débuts à l'écran dans le film _The Clown_. Sa présence naturelle séduit le public, et il enchaîne rapidement les tournages. Dans les plateaux de cinéma, il apprend en observant : la lumière, le cadrage, le rythme du montage. Tout cela s'imprime en lui bien avant qu'il ne passe derrière la caméra.
 
 ## Les années de formation sous Hou Hsiao-hsien
 
-À l'âge adulte, Doze Niu continue d'exercer comme acteur et intègre le cercle du Nouveau Cinéma Taïwanais. Il tourne notamment dans *Old Mo's Second Spring* et *Dust in the Wind* sous la direction de Hou Hsiao-hsien — une expérience décisive. La rigueur poétique de Hou, sa façon de filmer le temps qui passe et les émotions enfouies, vont profondément marquer sa conception du cinéma.
+À l'âge adulte, Doze Niu continue d'exercer comme acteur et intègre le cercle du Nouveau Cinéma Taïwanais. Il tourne notamment dans _Old Mo's Second Spring_ et _Dust in the Wind_ sous la direction de Hou Hsiao-hsien — une expérience décisive. La rigueur poétique de Hou, sa façon de filmer le temps qui passe et les émotions enfouies, vont profondément marquer sa conception du cinéma.
 
 Ces années d'acteur lui permettent aussi de comprendre ce que ressentent les comédiens de l'intérieur — une sensibilité qu'il mettra ensuite au service de sa direction d'acteurs.
 
 ## La télévision comme terrain d'expérimentation
 
-Dans les années 1990, Doze Niu se tourne vers la télévision et réalise des séries à succès, dont *Taiwan Mystery Stories*. Il y affine son sens du suspense et développe un style visuel reconnaissable, nourri de folklore local et de tension narrative. Ces productions lui valent une base de public fidèle et des ressources pour envisager un retour au grand écran.
+Dans les années 1990, Doze Niu se tourne vers la télévision et réalise des séries à succès, dont _Taiwan Mystery Stories_. Il y affine son sens du suspense et développe un style visuel reconnaissable, nourri de folklore local et de tension narrative. Ces productions lui valent une base de public fidèle et des ressources pour envisager un retour au grand écran.
 
 ## Premiers pas derrière la caméra
 
-En 2000, il signe son premier long métrage en tant que réalisateur : *Love Kills*. Le film ne fait pas d'entrées fracassantes, mais il révèle une fascination pour les zones grises de la psyché humaine — une marque de fabrique qui se confirmera dans la suite de sa carrière.
+En 2000, il signe son premier long métrage en tant que réalisateur : _Love Kills_. Le film ne fait pas d'entrées fracassantes, mais il révèle une fascination pour les zones grises de la psyché humaine — une marque de fabrique qui se confirmera dans la suite de sa carrière.
 
-## *Monga* : le coup d'éclat
+## _Monga_ : le coup d'éclat
 
-C'est en 2010 que Doze Niu s'impose comme un auteur incontournable avec *Monga* (*艋舺*), film de gangsters situé dans le quartier de Wanhua à Taipei dans les années 1980. Réunissant Mark Chao, Ethan Ruan et Edison Wang au sein d'un casting de jeunes acteurs prometteurs, le film raconte le passage à l'âge adulte dans un milieu criminel avec une violence esthétisée et une mélancolie tenace.
+C'est en 2010 que Doze Niu s'impose comme un auteur incontournable avec _Monga_ (_艋舺_), film de gangsters situé dans le quartier de Wanhua à Taipei dans les années 1980. Réunissant Mark Chao, Ethan Ruan et Edison Wang au sein d'un casting de jeunes acteurs prometteurs, le film raconte le passage à l'âge adulte dans un milieu criminel avec une violence esthétisée et une mélancolie tenace.
 
-Le résultat est saisissant : plus de 200 millions de nouveaux dollars taïwanais de recettes, un record pour une production locale à l'époque. *Monga* impose Doze Niu comme le réalisateur capable de réconcilier le cinéma d'auteur et le succès populaire.
+Le résultat est saisissant : plus de 200 millions de nouveaux dollars taïwanais de recettes, un record pour une production locale à l'époque. _Monga_ impose Doze Niu comme le réalisateur capable de réconcilier le cinéma d'auteur et le succès populaire.
 
-## *Paradise in Service* : oser le tabou
+## _Paradise in Service_ : oser le tabou
 
-En 2014, il pousse encore plus loin avec *Paradise in Service* (*軍中樂園*), qui aborde un sujet longtemps occulté dans l'histoire taïwanaise : les maisons closes militaires entretenues par l'armée pendant les décennies de tension dans le détroit. Avec une délicatesse inattendue, le film traite des questions morales complexes sans tomber dans le sensationnalisme.
+En 2014, il pousse encore plus loin avec _Paradise in Service_ (_軍中樂園_), qui aborde un sujet longtemps occulté dans l'histoire taïwanaise : les maisons closes militaires entretenues par l'armée pendant les décennies de tension dans le détroit. Avec une délicatesse inattendue, le film traite des questions morales complexes sans tomber dans le sensationnalisme.
 
 L'audace est saluée : le film reçoit plusieurs nominations aux Golden Horse Awards, confirmant que Doze Niu sait aussi faire de l'art exigeant.
 
@@ -56,7 +59,7 @@ Il s'intéresse aux personnes que la société range dans ses angles morts, et s
 
 ## La direction d'acteurs : une relation de confiance
 
-Doze Niu est connu pour sa capacité à révéler de nouveaux talents. Dans *Monga*, il confie des rôles importants à des acteurs encore peu expérimentés et les pousse à se dépasser. Sa méthode : une préparation approfondie des rôles, une exigence totale sur le plateau, et une conviction que l'acteur est un partenaire créatif, pas un simple exécutant.
+Doze Niu est connu pour sa capacité à révéler de nouveaux talents. Dans _Monga_, il confie des rôles importants à des acteurs encore peu expérimentés et les pousse à se dépasser. Sa méthode : une préparation approfondie des rôles, une exigence totale sur le plateau, et une conviction que l'acteur est un partenaire créatif, pas un simple exécutant.
 
 ## 2018 : l'effondrement
 
@@ -74,7 +77,7 @@ Le mouvement #MeToo a pris de l'ampleur à Taïwan dans la foulée. Des mécanis
 
 La question qui suit inévitablement : que faire des films ? Faut-il séparer l'œuvre de son auteur, ou le jugement sur l'homme rejaillit-il nécessairement sur les images qu'il a créées ?
 
-Le débat n'est pas propre à Taïwan — il traverse toutes les cultures à l'ère du #MeToo. Certains défendent que *Monga* reste un document cinématographique précieux sur une époque révolue. D'autres estiment que la visibilité de l'œuvre ne devrait pas profiter à celui qui en est responsable. Il n'y a pas de réponse simple, et c'est précisément pour cela que la discussion continue.
+Le débat n'est pas propre à Taïwan — il traverse toutes les cultures à l'ère du #MeToo. Certains défendent que _Monga_ reste un document cinématographique précieux sur une époque révolue. D'autres estiment que la visibilité de l'œuvre ne devrait pas profiter à celui qui en est responsable. Il n'y a pas de réponse simple, et c'est précisément pour cela que la discussion continue.
 
 ## La priorité absolue : les victimes
 

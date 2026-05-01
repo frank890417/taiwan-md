@@ -1,8 +1,15 @@
 ---
 title: 'Les alliés diplomatiques de Taïwan et sa diplomatie internationale (état 2026)'
-description: "En 2026, Taïwan ne compte plus que 12 alliés officiels — de 70 à 12 pays : comment Taïwan maintient-il une présence internationale sans siège aux Nations Unies ?"
+description: 'En 2026, Taïwan ne compte plus que 12 alliés officiels — de 70 à 12 pays : comment Taïwan maintient-il une présence internationale sans siège aux Nations Unies ?'
 date: 2026-03-19
-tags: [diplomatie, alliés officiels, relations internationales, détroit de Taïwan, Nations Unies]
+tags:
+  [
+    diplomatie,
+    alliés officiels,
+    relations internationales,
+    détroit de Taïwan,
+    Nations Unies,
+  ]
 subcategory: 'Relations internationales'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ featured: true
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: '429d3cf0'
+sourceContentHash: 'sha256:fbde4b685ace42ba'
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 # Les alliés diplomatiques de Taïwan et sa diplomatie internationale
@@ -25,53 +35,53 @@ Données issues du ministère des Affaires étrangères de la République de Chi
 
 ### Région Asie-Pacifique (3 pays)
 
-| Pays | Année d'établissement | Population | Remarques |
-| ---- | -------------------- | ---------- | --------- |
-| Îles Marshall | 1998 | env. 42 000 | État insulaire du Pacifique, en libre association avec les États-Unis |
-| Palaos | 1999 | env. 18 000 | État insulaire du Pacifique, économie principalement touristique |
-| Tuvalu | 1979 | env. 11 000 | Quatrième plus petit pays du monde, menacé par la montée des eaux |
+| Pays          | Année d'établissement | Population  | Remarques                                                             |
+| ------------- | --------------------- | ----------- | --------------------------------------------------------------------- |
+| Îles Marshall | 1998                  | env. 42 000 | État insulaire du Pacifique, en libre association avec les États-Unis |
+| Palaos        | 1999                  | env. 18 000 | État insulaire du Pacifique, économie principalement touristique      |
+| Tuvalu        | 1979                  | env. 11 000 | Quatrième plus petit pays du monde, menacé par la montée des eaux     |
 
 ### Région Afrique (1 pays)
 
-| Pays | Année d'établissement | Population | Remarques |
-| ---- | -------------------- | ---------- | --------- |
-| Eswatini | 1968 | env. 1,2 million | Seul allié africain de Taïwan, monarchie absolue |
+| Pays     | Année d'établissement | Population       | Remarques                                        |
+| -------- | --------------------- | ---------------- | ------------------------------------------------ |
+| Eswatini | 1968                  | env. 1,2 million | Seul allié africain de Taïwan, monarchie absolue |
 
 ### Région Europe (1 pays)
 
-| Pays | Année d'établissement | Population | Remarques |
-| ---- | -------------------- | ---------- | --------- |
-| Saint-Siège (Vatican) | 1942 | env. 800 | Centre du catholicisme mondial, relations diplomatiques ininterrompues depuis 1942 |
+| Pays                  | Année d'établissement | Population | Remarques                                                                          |
+| --------------------- | --------------------- | ---------- | ---------------------------------------------------------------------------------- |
+| Saint-Siège (Vatican) | 1942                  | env. 800   | Centre du catholicisme mondial, relations diplomatiques ininterrompues depuis 1942 |
 
 ### Région Amérique latine et Caraïbes (7 pays)
 
-| Pays | Année d'établissement | Population | Remarques |
-| ---- | -------------------- | ---------- | --------- |
-| Belize | 1989 | env. 410 000 | Seul pays d'Amérique centrale à langue officielle anglaise |
-| Guatemala | 1933 | env. 18 millions | Pays le plus peuplé d'Amérique centrale, relations établies avant le transfert du gouvernement à Taïwan |
-| Haïti | 1956 | env. 11,5 millions | Pays le plus pauvre des Amériques |
-| Paraguay | 1957 | env. 7,2 millions | Seul allié taïwanais en Amérique du Sud |
-| Saint-Christophe-et-Niévès | 1983 | env. 47 000 | Plus petit État de l'hémisphère occidental |
-| Sainte-Lucie | 2007 | env. 180 000 | A rompu puis rétabli ses relations par deux fois ; dernier rétablissement en 2007 |
-| Saint-Vincent-et-les-Grenadines | 1981 | env. 110 000 | État insulaire des Caraïbes |
+| Pays                            | Année d'établissement | Population         | Remarques                                                                                               |
+| ------------------------------- | --------------------- | ------------------ | ------------------------------------------------------------------------------------------------------- |
+| Belize                          | 1989                  | env. 410 000       | Seul pays d'Amérique centrale à langue officielle anglaise                                              |
+| Guatemala                       | 1933                  | env. 18 millions   | Pays le plus peuplé d'Amérique centrale, relations établies avant le transfert du gouvernement à Taïwan |
+| Haïti                           | 1956                  | env. 11,5 millions | Pays le plus pauvre des Amériques                                                                       |
+| Paraguay                        | 1957                  | env. 7,2 millions  | Seul allié taïwanais en Amérique du Sud                                                                 |
+| Saint-Christophe-et-Niévès      | 1983                  | env. 47 000        | Plus petit État de l'hémisphère occidental                                                              |
+| Sainte-Lucie                    | 2007                  | env. 180 000       | A rompu puis rétabli ses relations par deux fois ; dernier rétablissement en 2007                       |
+| Saint-Vincent-et-les-Grenadines | 1981                  | env. 110 000       | État insulaire des Caraïbes                                                                             |
 
 ## L'évolution du nombre d'alliés
 
 L'histoire diplomatique de Taïwan peut se lire à travers quelques chiffres :
 
-| Année | Nombre d'alliés | Événement clé |
-| ----- | --------------- | ------------- |
-| 1969 | **70** | Pic historique |
-| 1971 | 58 | Retrait de l'ONU ; 12 ruptures la même année |
-| 1972 | 40 | Ruptures avec le Japon, l'Australie, etc. |
-| 1979 | **21** | Rupture avec les États-Unis ; plancher historique de l'époque |
-| 1989 | 27 | Remontée sous la diplomatie pragmatique de Lee Teng-hui |
-| 1992 | **31** | Apogée de la diplomatie pragmatique |
-| 2000 | 29 | Arrivée au pouvoir de Chen Shui-bian |
-| 2008 | 23 | Arrivée au pouvoir de Ma Ying-jeou |
-| 2016 | 22 | Arrivée au pouvoir de Tsai Ing-wen |
-| 2024 | 12 | Après la rupture avec Nauru |
-| 2026 | **12** | Situation actuelle (sous la présidence de Lai Ching-te) |
+| Année | Nombre d'alliés | Événement clé                                                 |
+| ----- | --------------- | ------------------------------------------------------------- |
+| 1969  | **70**          | Pic historique                                                |
+| 1971  | 58              | Retrait de l'ONU ; 12 ruptures la même année                  |
+| 1972  | 40              | Ruptures avec le Japon, l'Australie, etc.                     |
+| 1979  | **21**          | Rupture avec les États-Unis ; plancher historique de l'époque |
+| 1989  | 27              | Remontée sous la diplomatie pragmatique de Lee Teng-hui       |
+| 1992  | **31**          | Apogée de la diplomatie pragmatique                           |
+| 2000  | 29              | Arrivée au pouvoir de Chen Shui-bian                          |
+| 2008  | 23              | Arrivée au pouvoir de Ma Ying-jeou                            |
+| 2016  | 22              | Arrivée au pouvoir de Tsai Ing-wen                            |
+| 2024  | 12              | Après la rupture avec Nauru                                   |
+| 2026  | **12**          | Situation actuelle (sous la présidence de Lai Ching-te)       |
 
 En cinquante ans, de 70 à 12 pays. En moyenne, plus d'un allié perdu par an.
 

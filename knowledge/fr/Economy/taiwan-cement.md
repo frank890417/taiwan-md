@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：台泥.md'
+translatedFrom: "Economy/台灣企業：台泥.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:7664edadac92feec"
+translatedAt: "2026-04-14T19:20:24+08:00"
 ---
 
 > **En 30 secondes**

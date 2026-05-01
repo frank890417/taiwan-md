@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8f1153627b23acc'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 대만 섬의 지리적 특성과 형성

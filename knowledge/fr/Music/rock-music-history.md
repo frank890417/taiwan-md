@@ -10,7 +10,10 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 category: 'Music'
-translatedFrom: 'Music/台灣搖滾樂發展史.md'
+translatedFrom: "Music/台灣搖滾樂發展史.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:9d76f310b8c2b867"
+translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 
 # Histoire du rock taïwanais : trente ans d'une musique qui a brisé les barrières
@@ -43,9 +46,9 @@ Cette scène naissante se développe dans les bars et les petites salles de spec
 
 ### Crystal Records, un jalon fondateur
 
-En 1987, Jen Chiang-ta reprend les rênes de Crystal Records et fonde avec Ho Ying-yi et Cheng Kang-hui le magazine *Rock Fan*. Commence alors une promotion systématique de la musique underground. Crystal Records ne se contente pas de distribuer des disques : le label offre une scène aux artistes souterrains à travers le festival « Taipei New Music Festival ».
+En 1987, Jen Chiang-ta reprend les rênes de Crystal Records et fonde avec Ho Ying-yi et Cheng Kang-hui le magazine _Rock Fan_. Commence alors une promotion systématique de la musique underground. Crystal Records ne se contente pas de distribuer des disques : le label offre une scène aux artistes souterrains à travers le festival « Taipei New Music Festival ».
 
-En 1989, les participants à la troisième édition du festival sont réunis sur la compilation *Completely Off-Key* — une date charnière dans l'histoire de la musique underground taïwanaise, qui archive les premières traces de groupes appelés à devenir des légendes.
+En 1989, les participants à la troisième édition du festival sont réunis sur la compilation _Completely Off-Key_ — une date charnière dans l'histoire de la musique underground taïwanaise, qui archive les premières traces de groupes appelés à devenir des légendes.
 
 ### Sorties marquantes et leur impact
 
@@ -69,7 +72,7 @@ Aux côtés de Crystal Records, Corner Music, Jen Yen She et d'autres labels ind
 Fondé en 1989, dans l'immédiat après-loi martiale, le groupe se distingue par son bruit expérimental et ses prises de position politiques tranchées. Le style vocal rauque du chanteur Ke Jen-chien et les arrangements avant-gardistes du groupe poussent le rock taïwanais vers les extrêmes de l'expérimentation.
 
 **Quarterback** (1995–)
-Conduit par Tiger God (Chen Ju-shan), ce groupe punk se caractérise par des riffs de guitare concis et percutants et des textes directs. Son titre emblématique *Get Up* est devenu un classique du rock taïwanais des années 1990.
+Conduit par Tiger God (Chen Ju-shan), ce groupe punk se caractérise par des riffs de guitare concis et percutants et des textes directs. Son titre emblématique _Get Up_ est devenu un classique du rock taïwanais des années 1990.
 
 **Luantan Ah-shiang** (1990–)
 Une tentative audacieuse de fusion entre instruments traditionnels et énergie rock. La voix d'Ah-shiang mêle l'opéra traditionnel taïwanais à la puissance brute du rock.
@@ -82,7 +85,7 @@ Fondé en 1997, ce groupe s'impose comme la référence du rock en taïwanais gr
 
 ### Le phénomène Mayday
 
-Lancé officiellement en 1999, Mayday propulse le rock taïwanais à des sommets commerciaux inédits. Leur titre *Stubborn* devient l'hymne d'une génération entière.
+Lancé officiellement en 1999, Mayday propulse le rock taïwanais à des sommets commerciaux inédits. Leur titre _Stubborn_ devient l'hymne d'une génération entière.
 
 ### La naissance d'une culture live house
 
@@ -105,6 +108,7 @@ L'Ocean Music Festival (2000–) et Spring Scream (1995–), deux grands festiva
 ### Une créativité ancrée dans le local
 
 La grande particularité du rock taïwanais est d'avoir su fusionner l'héritage rock occidental avec les cultures locales, donnant naissance au style singulier du « rock taïke » :
+
 - **La diversité linguistique** : l'usage du taïwanais, du hakka et des langues des peuples autochtones
 - **La fusion instrumentale** : instruments traditionnels et électriques en dialogue
 - **La richesse thématique** : de la critique politique aux scènes de la vie ordinaire, un spectre très large
@@ -115,6 +119,6 @@ Trente ans de rock taïwanais, c'est bien plus qu'un catalogue musical exception
 
 ## Références
 
-1. Jen Chiang-ta, Ho Ying-yi, Cheng Kang-hui (dir.), *The Voice of Rock — Encyclopedia of New Music*, Crystal Records, 1990.
+1. Jen Chiang-ta, Ho Ying-yi, Cheng Kang-hui (dir.), _The Voice of Rock — Encyclopedia of New Music_, Crystal Records, 1990.
 2. [Fresh Music, « Les graines de la musique indépendante taïwanaise : Crystal Records, 30 ans de rétrospective », 2016](https://freshmusic.sg/2016/12/11/crystal/)
 3. [Palmarès des Golden Melody Awards par année](https://gma.tavis.tw/)

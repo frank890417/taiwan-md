@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 translatedFrom: 'People/江振誠.md'
+sourceCommitSha: '55c3ff6a'
+sourceContentHash: 'sha256:b95aab4a94d428d9'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 # 장전청 (André Chiang)

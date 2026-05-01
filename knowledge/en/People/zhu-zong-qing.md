@@ -7,6 +7,9 @@ subcategory: 'Arts & Design'
 lastVerified: 2026-03-19
 translatedFrom: 'People/朱宗慶.md'
 sourceHash: 'c0b2bd'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:9f25e4b33618c84b'
+translatedAt: '2026-03-23T10:17:53+08:00'
 ---
 
 # Zhu Zong-qing: The Architect of Taiwan’s Percussion Culture

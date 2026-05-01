@@ -8,7 +8,10 @@ category: 'Economy'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
+translatedFrom: "Economy/台灣企業：瑞昱半導體.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:ab958b73a4cbe23f"
+translatedAt: "2026-04-14T19:20:58+08:00"
 ---
 
 > **En 30 secondes :** En 1987, sept ingénieurs ont fondé Realtek Semiconductor dans le parc scientifique de Hsinchu avec deux millions de dollars taïwanais et un crabe pour emblème. En 1991, ils ont lancé la première puce réseau entièrement conçue à Taïwan. En 2024, le chiffre d'affaires dépasse 80 milliards de dollars taïwanais — Realtek est désormais le troisième plus grand concepteur de circuits intégrés du pays. Chaque ordinateur dans le monde abrite probablement un « crabe Realtek ».

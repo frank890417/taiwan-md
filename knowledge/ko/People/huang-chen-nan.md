@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/黃震南.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:26157944457addef'
+translatedAt: '2026-04-15T17:32:28+08:00'
 ---
 
 # 황전난: 대만 역사를 재미있게 만든 장서가

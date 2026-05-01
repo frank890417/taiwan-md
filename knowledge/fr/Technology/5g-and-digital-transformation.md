@@ -2,7 +2,14 @@
 title: 'Le déploiement de la 5G à Taïwan et la transformation numérique du pays'
 description: "De la 4G à la 5G, Taïwan a bâti une stratégie nationale de transformation numérique et développé des applications intelligentes qui reconfigurent l'économie et la société."
 date: 2026-03-18
-tags: ['5G', 'transformation numérique', 'ministère du Numérique', 'villes intelligentes', 'télécommunications']
+tags:
+  [
+    '5G',
+    'transformation numérique',
+    'ministère du Numérique',
+    'villes intelligentes',
+    'télécommunications',
+  ]
 subcategory: 'Numérique et réseaux'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +19,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:99a0b29cbafe5bb9'
+translatedAt: '2026-04-14T12:32:55+08:00'
 ---
 
 # Le déploiement de la 5G à Taïwan et la transformation numérique du pays
@@ -47,13 +57,13 @@ Le déploiement de la 5G à Taïwan a commencé par une planification rigoureuse
 
 **Résultats de l'attribution des fréquences** :
 
-| Opérateur | Bande | Largeur de bande | Montant (milliards NTD) |
-|-----------|-------|-----------------|------------------------|
-| Chunghwa Telecom | 3,5 GHz | 90 MHz | 50,6 |
-| Far EasTone | 3,5 GHz | 80 MHz | 44,9 |
-| Taiwan Mobile | 3,5 GHz + 28 GHz | 60 MHz + 200 MHz | 30,5 |
-| Taiwan Star | 3,5 GHz + 28 GHz | 40 MHz + 200 MHz | 11,5 |
-| Asia Pacific Telecom | 3,5 GHz + 28 GHz | 40 MHz + 190 MHz | 4,7 |
+| Opérateur            | Bande            | Largeur de bande | Montant (milliards NTD) |
+| -------------------- | ---------------- | ---------------- | ----------------------- |
+| Chunghwa Telecom     | 3,5 GHz          | 90 MHz           | 50,6                    |
+| Far EasTone          | 3,5 GHz          | 80 MHz           | 44,9                    |
+| Taiwan Mobile        | 3,5 GHz + 28 GHz | 60 MHz + 200 MHz | 30,5                    |
+| Taiwan Star          | 3,5 GHz + 28 GHz | 40 MHz + 200 MHz | 11,5                    |
+| Asia Pacific Telecom | 3,5 GHz + 28 GHz | 40 MHz + 190 MHz | 4,7                     |
 
 ### Un déploiement d'infrastructures à vitesse record
 
@@ -473,15 +483,15 @@ La 5G et le numérique ne sont pas seulement des évolutions technologiques : ce
 
 ## Références
 
-1. Commission nationale des communications (2023). *Rapport statistique sur le déploiement des antennes 5G*. NCC.
-2. Ministère du Développement numérique (2024). *Livre blanc sur la transformation numérique de Taïwan*. Ministère du Développement numérique.
-3. Yuan exécutif (2023). *Rapport de mise en œuvre du plan DIGI+*. Bureau du Conseil des sciences et technologies du Yuan exécutif.
+1. Commission nationale des communications (2023). _Rapport statistique sur le déploiement des antennes 5G_. NCC.
+2. Ministère du Développement numérique (2024). _Livre blanc sur la transformation numérique de Taïwan_. Ministère du Développement numérique.
+3. Yuan exécutif (2023). _Rapport de mise en œuvre du plan DIGI+_. Bureau du Conseil des sciences et technologies du Yuan exécutif.
 4. Economic Daily News (2023). "基地台都快蓋滿 消費者滲透卻只有25% 台灣5G開台三周年總體檢". [Source en ligne](https://money.udn.com/money/story/123317/6948773)
 5. Science & Technology Policy Research and Information Center (2021). "NCC編列兩年155億元 加速國家5G基礎建設". [Source en ligne](https://iknow.stpi.niar.org.tw/post/Read.aspx?PostID=17448)
 6. KPMG Taiwan (2020). "5G部署的三個階段與三項關鍵能力". [Source en ligne](https://kpmg.com/tw/zh/home/insights/2020/10/tw-5g-three-stages-and-key-ability.html)
 7. Wikipédia (2026). "中華民國數位發展部". [Source en ligne](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%95%B8%E4%BD%8D%E7%99%BC%E5%B1%95%E9%83%A8)
-8. Conseil national des sciences et des technologies (2017). *Plan de développement de la nation numérique et de l'économie innovante (2017–2025)*. [Source en ligne](https://digi.nstc.gov.tw/File/19DE94E9424E9457)
+8. Conseil national des sciences et des technologies (2017). _Plan de développement de la nation numérique et de l'économie innovante (2017–2025)_. [Source en ligne](https://digi.nstc.gov.tw/File/19DE94E9424E9457)
 9. Yuan exécutif (2024). "數位國家・創新經濟發展方案". [Source en ligne](https://www.ey.gov.tw/Goals/5EF730EBAFCFFDF2)
 10. Plateforme de subventions DIGITAL+ pour l'innovation numérique. [Source en ligne](https://digiplus.adi.gov.tw/)
-11. Market Intelligence & Consulting Institute (2023). *Rapport d'analyse du développement de la filière 5G à Taïwan*.
-12. Chunghwa Telecom (2024). *Rapport sur les résultats du déploiement 5G*.
+11. Market Intelligence & Consulting Institute (2023). _Rapport d'analyse du développement de la filière 5G à Taïwan_.
+12. Chunghwa Telecom (2024). _Rapport sur les résultats du déploiement 5G_.

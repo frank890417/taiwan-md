@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/賴聲川.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5a4167cb8b4d6e8d'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 라이성촨: 화어권 연극의 혁신 거장

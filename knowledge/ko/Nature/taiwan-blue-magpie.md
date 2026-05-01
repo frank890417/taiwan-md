@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Nature/台灣藍鵲.md'
+sourceCommitSha: 'a1e11b6b'
+sourceContentHash: 'sha256:f6980fbd5d5b1fa0'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 > **30초 요약:**

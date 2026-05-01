@@ -23,6 +23,9 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-23
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0bba0af0611bfce8'
+translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 
 # 대만 지하철 발전사: 피와 돈으로 쓴 도시 진화론

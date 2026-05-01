@@ -9,14 +9,17 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-22
-translatedFrom: 'People/呂秀蓮.md'
+translatedFrom: "People/呂秀蓮.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:809d857cd912d504"
+translatedAt: "2026-04-14T19:14:43+08:00"
 ---
 
 > **En 30 secondes :** En 1979, Annette Lu est condamnée à douze ans de prison lors de l'incident de Formosa. En 2000, elle devient la première femme vice-présidente dans l'ensemble du monde sinophone. En vingt ans, elle a traversé les murs d'une cellule pour rejoindre les couloirs du palais présidentiel — incarnant à elle seule la transformation de Taïwan, d'un régime autoritaire vers la démocratie.
 
 ## Comment une « rebelle » condamnée à douze ans de prison est-elle devenue vice-présidente ?
 
-Le 10 décembre 1979, dans les rues de Kaohsiung. Annette Lu, directrice adjointe du magazine *Formosa*, prend la parole lors d'un rassemblement pour les droits humains. Face au micro, elle déclare : « Le peuple taïwanais n'a jamais eu l'occasion d'exprimer son courage avec une telle force qu'aujourd'hui. » Trois jours plus tard, elle est arrêtée.
+Le 10 décembre 1979, dans les rues de Kaohsiung. Annette Lu, directrice adjointe du magazine _Formosa_, prend la parole lors d'un rassemblement pour les droits humains. Face au micro, elle déclare : « Le peuple taïwanais n'a jamais eu l'occasion d'exprimer son courage avec une telle force qu'aujourd'hui. » Trois jours plus tard, elle est arrêtée.
 
 Le tribunal militaire rend son verdict : « Annette Lu a cherché à renverser le gouvernement par des moyens illégaux. » Peine prononcée : douze ans de prison.
 
@@ -28,7 +31,7 @@ Ce n'est pas seulement un renversement de fortune personnel. C'est le reflet con
 
 En 1971, Annette Lu rentre à Taïwan après avoir obtenu une maîtrise en droit comparé à l'université de l'Illinois. Cette année-là, les femmes représentent déjà un tiers des étudiants à l'université, et certaines voix réclament des quotas réservés aux hommes, craignant qu'ils ne trouvent plus de place. Lu entend ces propos et réagit avec véhémence. Elle prononce un discours intitulé « La société centrée sur les hommes doit prendre fin », proposant un « nouveau féminisme » qui fait scandale : « Soyez d'abord un être humain, ensuite un homme ou une femme » et « la spatule dans la main gauche, le stylo dans la main droite ».
 
-En 1974, elle publie *Le Nouveau Féminisme*, premier ouvrage féministe écrit par une autrice locale dans l'histoire d'après-guerre de Taïwan. Son slogan — « être humain avant tout, femme ensuite » — provoque une vive controverse dans une société qui cantonnait encore les femmes au rôle d'« épouse vertueuse et mère exemplaire ». Lu fait l'effet d'une bombe.
+En 1974, elle publie _Le Nouveau Féminisme_, premier ouvrage féministe écrit par une autrice locale dans l'histoire d'après-guerre de Taïwan. Son slogan — « être humain avant tout, femme ensuite » — provoque une vive controverse dans une société qui cantonnait encore les femmes au rôle d'« épouse vertueuse et mère exemplaire ». Lu fait l'effet d'une bombe.
 
 En 1976, elle crée la ligne téléphonique d'aide aux femmes « Protect You » et fonde la maison d'édition Pioneer. Ces initiatives pionnières jettent les fondements du mouvement pour les droits des femmes à Taïwan ; on lui attribue le déclenchement de sa deuxième vague féministe.
 
@@ -39,13 +42,13 @@ En 1976, elle crée la ligne téléphonique d'aide aux femmes « Protect You » 
 
 À la fin de 1978, Annette Lu renonce à son doctorat à Harvard et rentre à Taïwan pour s'engager en politique. À l'approche de la rupture diplomatique entre les États-Unis et la Chine, elle pressent que Taïwan est à un tournant et décide d'élargir son combat : du féminisme vers la démocratie.
 
-Elle rejoint le magazine d'opposition *Formosa* en tant que directrice adjointe. Le 10 décembre 1979, Journée mondiale des droits humains, la rédaction organise un rassemblement à Kaohsiung pour réclamer la liberté et la démocratie. Annette Lu y prend la parole :
+Elle rejoint le magazine d'opposition _Formosa_ en tant que directrice adjointe. Le 10 décembre 1979, Journée mondiale des droits humains, la rédaction organise un rassemblement à Kaohsiung pour réclamer la liberté et la démocratie. Annette Lu y prend la parole :
 
-*« Chers compatriotes, compatriotes taïwanais de bonne conscience… Aujourd'hui est un jour grand. J'espère que vous exprimerez vos applaudissements les plus chaleureux pour sauver notre destin commun. »*
+_« Chers compatriotes, compatriotes taïwanais de bonne conscience… Aujourd'hui est un jour grand. J'espère que vous exprimerez vos applaudissements les plus chaleureux pour sauver notre destin commun. »_
 
 Ce discours marque un tournant définitif. Après l'incident de Formosa, Annette Lu est arrêtée aux côtés des dirigeants du mouvement démocratique — Shih Ming-teh, Lin Yi-hsiung, Chen Chu et d'autres. Le tribunal militaire la condamne à douze ans de prison ; elle en purgera cinq ans et huit mois.
 
-Dans les centres de détention de Jingmei et Tucheng, Annette Lu ne se laisse pas briser. Elle lit, réfléchit, et écrit même un roman intitulé *Ces trois femmes* sur du papier toilette, en utilisant une cuvette comme bureau pour échapper à la surveillance des gardiens.
+Dans les centres de détention de Jingmei et Tucheng, Annette Lu ne se laisse pas briser. Elle lit, réfléchit, et écrit même un roman intitulé _Ces trois femmes_ sur du papier toilette, en utilisant une cuvette comme bureau pour échapper à la surveillance des gardiens.
 
 > **📝 Note de la rédaction**
 > Parmi les huit figures du groupe de Formosa libérées de prison, tous sauf Lin Hung-hsuan ont occupé à un moment ou un autre la présidence ou la présidence par intérim du Parti démocrate progressiste. Annette Lu est la seule à avoir atteint le rang de vice-présidente, et la seule femme du groupe.
@@ -85,7 +88,7 @@ La carrière d'Annette Lu n'est pas sans aspérités. Elle a tenté à plusieurs
 
 Elle propose le concept de « consensus de 1996 » — selon lequel Taïwan est un État souverain et indépendant depuis l'élection présidentielle au suffrage direct de 1996 — en réponse au « consensus de 1992 » défendu par le Parti nationaliste. Dans les dernières années de sa carrière, elle milite pour la « neutralité pacifique » de Taïwan, estimant que l'île ne doit pas choisir de camp entre les États-Unis et la Chine.
 
-Son caractère direct et ses prises de position tranchées lui valent le respect comme les critiques. Le journal *Apple Daily* l'a décrite ainsi : « Son parcours académique et professionnel est sans égal parmi les "quatre grandes figures" du PDP, mais sa personnalité et ses émotions déconcertent souvent… Pourtant, sa franchise dans un monde politique de faux-semblants a une valeur précieuse. »
+Son caractère direct et ses prises de position tranchées lui valent le respect comme les critiques. Le journal _Apple Daily_ l'a décrite ainsi : « Son parcours académique et professionnel est sans égal parmi les "quatre grandes figures" du PDP, mais sa personnalité et ses émotions déconcertent souvent… Pourtant, sa franchise dans un monde politique de faux-semblants a une valeur précieuse. »
 
 > **📊 Repères biographiques**
 > Parcours institutionnel d'Annette Lu : 1 mandat au Yuan législatif (1993-1996), 2 mandats comme préfète de Taoyuan (1997-2000), 2 mandats comme vice-présidente (2000-2008) — la seule vice-présidente réélue dans l'histoire de Taïwan après la levée de la loi martiale.

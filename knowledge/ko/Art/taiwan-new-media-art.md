@@ -23,6 +23,9 @@ lastHumanReview: 2026-04-04
 featured: true
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'Art/台灣新媒體藝術.md'
+sourceCommitSha: 'a96a68ea'
+sourceContentHash: 'sha256:d65b35a4569fdd34'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 대만 뉴미디어 아트(台灣新媒體藝術)

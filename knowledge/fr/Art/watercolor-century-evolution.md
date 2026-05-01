@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Art/台灣水彩畫的百年流變.md'
+translatedFrom: "Art/台灣水彩畫的百年流變.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:c0b72206c0902f28"
+translatedAt: "2026-04-14T19:13:49+08:00"
 ---
 
 # Un siècle d'aquarelle à Taïwan : naissance et mutations d'une tradition vivante
@@ -48,13 +51,13 @@ Yang En-sheng (1956–2022) est la figure emblématique de cette période. Ses a
 
 ## Le temps présent : Taïwan sur la scène internationale (2010–aujourd'hui)
 
-Chien Chung-wei (1968–) est sans conteste le nom taïwanais le plus éclatant sur la scène mondiale de l'aquarelle. En 2013, un magazine français d'art aquarelliste lui consacre un dossier de dix pages. En 2015, il devient le premier Taïwanais à obtenir simultanément l'adhésion à l'American Watercolor Society (AWS) et à la National Watercolor Society (NWS) américaine. En 2019, il reçoit le Dolphin Fellowship de l'AWS, la plus haute distinction de cette société. Il anime des ateliers dans plus de vingt pays, et son ouvrage *Yijing : l'art aquarelliste de Chien Chung-wei*, publié simultanément à Taïwan et en Chine, est salué comme « livre le plus influent de l'année 2019 ». Son style, qui fond l'esthétique de la notion chinoise de *yijing* — l'atmosphère poétique d'une œuvre — avec la technique occidentale de l'aquarelle, démontre que ce médium n'est pas un simple point d'entrée pour débutants, mais un langage capable de porter une expression artistique profonde.
+Chien Chung-wei (1968–) est sans conteste le nom taïwanais le plus éclatant sur la scène mondiale de l'aquarelle. En 2013, un magazine français d'art aquarelliste lui consacre un dossier de dix pages. En 2015, il devient le premier Taïwanais à obtenir simultanément l'adhésion à l'American Watercolor Society (AWS) et à la National Watercolor Society (NWS) américaine. En 2019, il reçoit le Dolphin Fellowship de l'AWS, la plus haute distinction de cette société. Il anime des ateliers dans plus de vingt pays, et son ouvrage _Yijing : l'art aquarelliste de Chien Chung-wei_, publié simultanément à Taïwan et en Chine, est salué comme « livre le plus influent de l'année 2019 ». Son style, qui fond l'esthétique de la notion chinoise de _yijing_ — l'atmosphère poétique d'une œuvre — avec la technique occidentale de l'aquarelle, démontre que ce médium n'est pas un simple point d'entrée pour débutants, mais un langage capable de porter une expression artistique profonde.
 
 Hong Dong-biao (1955–), autre figure centrale de la scène contemporaine, est à la fois artiste et pédagogue. Diplômé du département des beaux-arts de l'Université normale nationale, il remporte le premier prix de l'Exposition provinciale des beaux-arts ainsi que la médaille des arts et des lettres, et obtient le premier prix du concours international d'aquarelle de Malaisie dans la catégorie paysage. Longtemps vice-président de l'Association d'art aquarelle Asie-Pacifique, il œuvre activement à la visibilité internationale de l'aquarelle taïwanaise.
 
-Hsieh Ming-chang (1955–), quant à lui, s'impose par ses écrits pédagogiques et sa réflexion théorique. Maître de conférences au département des beaux-arts de l'Université des arts de Taïwan, il a publié des ouvrages de référence comme *Les secrets de la technique aquarelle* et *Création en aquarelle*, et a formé une large partie de la génération intermédiaire des aquarellistes taïwanais.
+Hsieh Ming-chang (1955–), quant à lui, s'impose par ses écrits pédagogiques et sa réflexion théorique. Maître de conférences au département des beaux-arts de l'Université des arts de Taïwan, il a publié des ouvrages de référence comme _Les secrets de la technique aquarelle_ et _Création en aquarelle_, et a formé une large partie de la génération intermédiaire des aquarellistes taïwanais.
 
-L'exposition *Flux : 50 ans d'aquarelle moderne à Taïwan*, organisée par Taiwan Land Development Corporation, retrace le parcours de 22 artistes représentatifs, de Lan Yin-ting et Li Tse-fan jusqu'à Chien Chung-wei, et constitue à ce jour la rétrospective la plus complète jamais consacrée à l'histoire de l'aquarelle à Taïwan.
+L'exposition _Flux : 50 ans d'aquarelle moderne à Taïwan_, organisée par Taiwan Land Development Corporation, retrace le parcours de 22 artistes représentatifs, de Lan Yin-ting et Li Tse-fan jusqu'à Chien Chung-wei, et constitue à ce jour la rétrospective la plus complète jamais consacrée à l'histoire de l'aquarelle à Taïwan.
 
 ## Pourquoi l'aquarelle est-elle si vivante à Taïwan ?
 

@@ -19,7 +19,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: 'People/杜聰明.md'
+translatedFrom: "People/杜聰明.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:deadae386ada6fea"
+translatedAt: "2026-04-14T19:15:40+08:00"
 ---
 
 # Du Cong-ming
@@ -108,7 +111,7 @@ Ce geste est la traduction concrète de sa philosophie de l'éducation : le savo
 
 Du Cong-ming s'éteint en février 1986, à l'âge de 93 ans. Né sous les Qing, il traverse un demi-siècle d'occupation japonaise, puis poursuit son travail et ses créations sous le régime nationaliste et la loi martiale. Il aura presque tout vécu de l'histoire moderne de Taïwan — et dans chacune de ces époques, il a fait le même choix : utiliser la recherche scientifique pour améliorer la vie des gens.
 
-Son autobiographie, *Mémoires de Du Cong-ming*, est un document de première importance pour l'histoire de la médecine taïwanaise. Elle témoigne de la façon dont un intellectuel traversant trois régimes successifs a su préserver l'indépendance de sa démarche académique face aux bouleversements politiques.
+Son autobiographie, _Mémoires de Du Cong-ming_, est un document de première importance pour l'histoire de la médecine taïwanaise. Elle témoigne de la façon dont un intellectuel traversant trois régimes successifs a su préserver l'indépendance de sa démarche académique face aux bouleversements politiques.
 
 Dans la salle d'histoire de l'Université de médecine de Kaohsiung, une photographie le montre en fin de vie, assis près d'une fenêtre, le visage serein — comme quelqu'un qui a tout vu passer. Cette université est son héritage, qui continue de former des médecins. Le principe du test urinaire qu'il a inventé reste un pilier du dépistage antidopage.
 

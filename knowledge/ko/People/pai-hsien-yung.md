@@ -17,6 +17,9 @@ subcategory: '문학'
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'People/白先勇.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:183a7b2c5ae7a688'
+translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 
 # 바이시엔융: 현대 문학의 영원한 추구자

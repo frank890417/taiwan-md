@@ -10,6 +10,9 @@ readingTime: 9
 featured: false
 translatedFrom: 'Economy/台灣企業：台泥.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7664edadac92feec'
+translatedAt: '2026-04-14T08:37:54+08:00'
 ---
 
 > **30초 요약**

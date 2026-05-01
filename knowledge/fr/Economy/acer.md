@@ -1,15 +1,18 @@
 ---
-title: 'Acer — Le pionnier qui a réinventé l''industrie du PC'
-description: 'Née à Taoyuan, cette marque taïwanaise a révolutionné le modèle commercial de l''industrie informatique mondiale grâce à sa stratégie multi-marques et multicanaux'
+title: "Acer — Le pionnier qui a réinventé l'industrie du PC"
+description: "Née à Taoyuan, cette marque taïwanaise a révolutionné le modèle commercial de l'industrie informatique mondiale grâce à sa stratégie multi-marques et multicanaux"
 date: 2026-03-20
 tags: [Économie, Entreprise, Informatique personnelle, Marque, Mondialisation]
-subcategory: 'Portraits d''entreprises'
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：宏碁.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:197235760e486f5d'
+translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 
 > **En 30 secondes**
@@ -203,8 +206,8 @@ L'expérience Acer nous rappelle une vérité : dans un monde technologique en p
 2. Rapport annuel Acer 2024 et rapports financiers trimestriels
 3. IDC « Worldwide Traditional PC Market » — rapport Q4 2024
 4. Canalys « Global PC Market Analysis » — statistiques 2024
-5. *Stan Shih : My Road, My Way*, CommonWealth Publishing, 2019
-6. *Acer's Century of Transformation*, Business Weekly Publications, 2021
+5. _Stan Shih : My Road, My Way_, CommonWealth Publishing, 2019
+6. _Acer's Century of Transformation_, Business Weekly Publications, 2021
 7. Gartner « Magic Quadrant for x86 Server Virtualization Infrastructure » 2024
 8. Rapport de durabilité ESG, groupe Acer, 2024
-9. *Stratégies de mondialisation de l'industrie technologique taïwanaise*, Linking Publishing, 2022
+9. _Stratégies de mondialisation de l'industrie technologique taïwanaise_, Linking Publishing, 2022

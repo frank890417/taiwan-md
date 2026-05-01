@@ -1,15 +1,26 @@
 ---
-title: 'Delta Electronics : l''empire discret de l''énergie'
-description: 'Un orphelin de guerre devenu pionnier mondial de l''efficacité énergétique : comment 30 000 TWD ont redéfini l''industrie mondiale de l''électronique de puissance'
+title: "Delta Electronics : l'empire discret de l'énergie"
+description: "Un orphelin de guerre devenu pionnier mondial de l'efficacité énergétique : comment 30 000 TWD ont redéfini l'industrie mondiale de l'électronique de puissance"
 date: 2026-03-22
-tags: [Économie, Entreprise, Gestion de l'énergie, Technologies vertes, Automatisation industrielle, ESG]
-subcategory: 'Portraits d''entreprises'
+tags:
+  [
+    Économie,
+    Entreprise,
+    Gestion de l'énergie,
+    Technologies vertes,
+    Automatisation industrielle,
+    ESG,
+  ]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-22
 translatedFrom: 'Economy/台灣企業：台達電子.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:731abae76b18888c'
+translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 
 > **En 30 secondes :** En 1971, un orphelin de guerre investit 30 000 TWD dans un atelier de Xinzhuang.
@@ -54,10 +65,10 @@ Quelle est aujourd'hui l'envergure de cet empire ?
 
 D'après les derniers résultats financiers (2025), Delta Electronics affiche un chiffre d'affaires annuel de 554,9 milliards de TWD (environ 17,5 milliards USD), emploie quelque 88 000 personnes dans le monde et opère dans plus de 200 sites répartis dans 38 pays. Sur le marché mondial des alimentations à découpage, Delta détient environ 20 à 25 % de parts de marché — une position de leader incontestée.
 
-| T4 2024 | Exercice 2025 (plein an) |
-|---|---|
+| T4 2024                                                      | Exercice 2025 (plein an)                 |
+| ------------------------------------------------------------ | ---------------------------------------- |
 | Chiffre d'affaires : 161,6 milliards TWD (record historique) | Chiffre d'affaires : 554,9 milliards TWD |
-| Progression annuelle : +41,5 % | Progression annuelle : +31,76 % |
+| Progression annuelle : +41,5 %                               | Progression annuelle : +31,76 %          |
 
 **« Sur quatre ordinateurs dans le monde, l'un d'eux utilise une technologie d'alimentation Delta. »**
 

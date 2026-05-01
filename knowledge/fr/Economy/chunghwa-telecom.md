@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：中華電信.md'
+translatedFrom: "Economy/台灣企業：中華電信.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:2dc422bd153e8b6c"
+translatedAt: "2026-04-14T19:20:24+08:00"
 ---
 
 > **En 30 secondes**

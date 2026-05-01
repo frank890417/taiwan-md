@@ -9,6 +9,9 @@ readingTime: 15
 author: 'Taiwan.md Translation Team'
 featured: false
 translatedFrom: 'Nature/台灣森林生態系.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:07db67d659e5f36c'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만의 산림 생태계

@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-29
 translatedFrom: 'Culture/台灣華語的演化.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:2b37211d946c848c'
+translatedAt: '2026-04-14T07:46:34+08:00'
 ---
 
 > **30초 요약:** 대만인이 쓰는 중국어는 왜 이런 모습일까? 정책으로 설계된 결과가 아니라, 400년간의 섬 생활이 자연스럽게 쌓아 올린 언어 지층이다. 네덜란드인이 남긴 지명, 일본어 차용어가 50년에 걸쳐 스며든 것, 1949년의 어휘 분기, 그리고 인터넷 시대의 언어 갈등—한 층 한 층이 실제 삶의 흔적이지, 정치적 입장이 아니다.

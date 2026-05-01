@@ -13,7 +13,10 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: 'Boisson taïwanaise préparée à la main'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: 'Food/台灣手搖飲文化.md'
+translatedFrom: "Food/台灣手搖飲文化.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:71fc720819f04eb1"
+translatedAt: "2026-04-14T12:29:04+08:00"
 ---
 
 # La culture des boissons à la main à Taïwan

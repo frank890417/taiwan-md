@@ -2,7 +2,15 @@
 title: 'Santé publique et système de lutte contre les épidémies à Taïwan'
 description: "En 2003, la mise en quarantaine de l'hôpital Hoping a causé la mort de 30 personnes. Dix-sept ans plus tard, lorsque la COVID-19 a déferlé sur le monde, Taïwan a tenu 18 mois sans transmission communautaire grâce aux leçons douloureuses de cette catastrophe. Comment un traumatisme collectif est devenu la mémoire immunitaire d'une île."
 date: 2026-04-08
-tags: ['santé publique', 'SRAS', 'COVID-19', 'épidémie', 'assurance maladie universelle', 'CDC Taïwan']
+tags:
+  [
+    'santé publique',
+    'SRAS',
+    'COVID-19',
+    'épidémie',
+    'assurance maladie universelle',
+    'CDC Taïwan',
+  ]
 subcategory: 'Société'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +19,9 @@ readingTime: 14
 lastVerified: 2026-04-08
 lastHumanReview: false
 translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
+sourceCommitSha: '6e9dc32c'
+sourceContentHash: 'sha256:58f409f32e8328d7'
+translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 
 > **En 30 secondes :** En 2003, le SRAS a tué 73 personnes à Taïwan, et la mise en quarantaine précipitée de l'hôpital Hoping est restée comme un traumatisme collectif dans l'histoire de la santé publique du pays. Taïwan a ensuite reconstruit de fond en comble tout son système épidémiologique : le Centre de contrôle des maladies a été élevé en rang, le mécanisme du Centre de commandement central des épidémies (CECC) a été inscrit dans la loi, et les protocoles de contrôle des infections ont été entièrement revus. Lorsque la COVID-19 s'est propagée à l'échelle mondiale en 2020, Taïwan a maintenu une transmission communautaire quasi nulle pendant les 18 premiers mois — un exploit salué internationalement sous le nom de « modèle taïwanais ». En avril 2026, Taïwan a enregistré son premier cas autochtone de grippe aviaire H7N7 transmise à l'humain : le système de lutte contre les épidémies est à nouveau mis à l'épreuve.
@@ -60,12 +71,12 @@ Le système de lutte contre les épidémies active les procédures standard : 33
 
 C'est précisément l'héritage du SRAS à l'œuvre : un organisme spécialisé (le CDC), un cadre légal (loi sur la prévention des maladies infectieuses), des procédures standard (traçage, médication préventive, surveillance), une information publique transparente (conférences de presse et communiqués en temps réel). Tout ce qui avait manqué à l'hôpital Hoping vingt-trois ans plus tôt est désormais en place.
 
-| SRAS 2003 | COVID-19 2020 | H7N7 2026 |
-| --- | --- | --- |
-| Commandement chaotique | CECC activé le jour même | Procédures standard activées immédiatement |
-| Quarantaine précipitée | Contrôles aux frontières anticipés | 33 personnes placées sous surveillance |
+| SRAS 2003                | COVID-19 2020                                     | H7N7 2026                                     |
+| ------------------------ | ------------------------------------------------- | --------------------------------------------- |
+| Commandement chaotique   | CECC activé le jour même                          | Procédures standard activées immédiatement    |
+| Quarantaine précipitée   | Contrôles aux frontières anticipés                | 33 personnes placées sous surveillance        |
 | Équipements insuffisants | Système de masques nominatif opérationnel en 72 h | Masques distribués immédiatement aux éleveurs |
-| Manque de transparence | Conférences de presse quotidiennes | Séquençage génomique publié en temps réel |
+| Manque de transparence   | Conférences de presse quotidiennes                | Séquençage génomique publié en temps réel     |
 
 ## L'assurance maladie : l'infrastructure invisible de la lutte épidémiologique
 

@@ -10,17 +10,20 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-31
 translatedFrom: 'People/陳澄波.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:12bbbe1f09116e18'
+translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 
 > **En 30 secondes :** Le 25 mars 1947, devant la gare de Chiayi, un homme dont les mains tenaient d'ordinaire un pinceau fut ligoté avec du fil de fer et exécuté en public. Il s'appelait Chen Cheng-po. Premier Taïwanais à avoir intégré la grande exposition impériale japonaise avec une peinture à l'huile, il s'était rendu en délégation pour négocier un cessez-le-feu — et n'en était jamais revenu.
 > Après sa mort, son épouse Chang Chieh dissimula plusieurs centaines de tableaux dans le grenier familial, brûla les cadres devant la maison et dit aux surveillants que « les peintures avaient toutes été détruites ». Cette dissimulation dura trente ans.
-> *Coucher de soleil à Tamsui* (1935) fut adjugé en 2007 à Hong Kong pour l'équivalent de 220 millions de nouveaux dollars taïwanais — un record qui tient encore pour une huile sur toile d'un peintre taïwanais.
+> _Coucher de soleil à Tamsui_ (1935) fut adjugé en 2007 à Hong Kong pour l'équivalent de 220 millions de nouveaux dollars taïwanais — un record qui tient encore pour une huile sur toile d'un peintre taïwanais.
 
 ---
 
-| 220 millions NTD              | 1926                                |
-| ----------------------------- | ----------------------------------- |
-| Prix d'adjudication de *Coucher de soleil à Tamsui* | Première sélection taïwanaise à l'Exposition impériale |
+| 220 millions NTD                                    | 1926                                                   |
+| --------------------------------------------------- | ------------------------------------------------------ |
+| Prix d'adjudication de _Coucher de soleil à Tamsui_ | Première sélection taïwanaise à l'Exposition impériale |
 
 ---
 
@@ -28,14 +31,14 @@ translatedFrom: 'People/陳澄波.md'
 
 Ce jour-là, les manchettes des journaux résonnèrent longtemps dans le quartier de Chiayi.
 
-Chen Cheng-po, 30 ans, natif de Chiayi qui avait renoncé à un poste d'enseignant à l'école publique pour tenter sa chance aux concours d'entrée des écoles d'art de Tokyo, fut sélectionné à la 7e Exposition impériale des beaux-arts du Japon pour sa peinture à l'huile *Banlieue de Chiayi*. Cette exposition représentait alors le sommet du monde artistique japonais — et Chen Cheng-po était le premier Taïwanais à y entrer avec une huile sur toile.
+Chen Cheng-po, 30 ans, natif de Chiayi qui avait renoncé à un poste d'enseignant à l'école publique pour tenter sa chance aux concours d'entrée des écoles d'art de Tokyo, fut sélectionné à la 7e Exposition impériale des beaux-arts du Japon pour sa peinture à l'huile _Banlieue de Chiayi_. Cette exposition représentait alors le sommet du monde artistique japonais — et Chen Cheng-po était le premier Taïwanais à y entrer avec une huile sur toile.
 
 En 1924, à 29 ans, soutenu par son épouse Chang Chieh, il quitta son emploi stable pour passer les examens de l'École des beaux-arts de Tokyo sur dessin, qu'il réussit avec distinction. Dans les milieux artistiques taïwanais de l'époque, une sélection à l'Exposition impériale était la consécration suprême — de quoi faire la une des journaux et flatter la fierté nationale. Chen y parvint dès sa troisième année à l'école.
 
-*Banlieue de Chiayi* représente la périphérie de la ville : de vastes champs agricoles, la ligne d'horizon entre ciel et terre, quelques arbres au premier plan. Techniquement, l'œuvre s'inscrit dans la tradition de la peinture occidentale moderne telle qu'elle était pratiquée au Japon, mais Chen y injecte quelque chose qui lui est propre — une densité de couleurs subjective, comme si l'affection pour sa terre natale était directement appliquée sur la toile. Les jurés japonais remarquèrent cette « différence ».
+_Banlieue de Chiayi_ représente la périphérie de la ville : de vastes champs agricoles, la ligne d'horizon entre ciel et terre, quelques arbres au premier plan. Techniquement, l'œuvre s'inscrit dans la tradition de la peinture occidentale moderne telle qu'elle était pratiquée au Japon, mais Chen y injecte quelque chose qui lui est propre — une densité de couleurs subjective, comme si l'affection pour sa terre natale était directement appliquée sur la toile. Les jurés japonais remarquèrent cette « différence ».
 
 > **📝 Note de commissaire**
-> Chen Cheng-po fut sélectionné à plusieurs reprises à l'Exposition impériale, et obtint à maintes reprises la première sélection (tokusenko) à l'Exposition des beaux-arts de Taïwan (Taiwan Bijutsu Tenrankai). Dans son journal, il formula ainsi son credo artistique : une œuvre doit posséder un *Samushinīgu* (Something) — quelque chose d'ineffable que l'on ressent sans pouvoir le nommer. Ce « Something » traversa l'ensemble de sa carrière.
+> Chen Cheng-po fut sélectionné à plusieurs reprises à l'Exposition impériale, et obtint à maintes reprises la première sélection (tokusenko) à l'Exposition des beaux-arts de Taïwan (Taiwan Bijutsu Tenrankai). Dans son journal, il formula ainsi son credo artistique : une œuvre doit posséder un _Samushinīgu_ (Something) — quelque chose d'ineffable que l'on ressent sans pouvoir le nommer. Ce « Something » traversa l'ensemble de sa carrière.
 
 ---
 
@@ -47,7 +50,7 @@ Il rejoignit Shanghai.
 
 Lors de ses études à Tokyo, il avait fait la connaissance du peintre chinois Wang Jiyuan, qui lui permit d'être recruté comme professeur à la New China Art School (Xinhua) et à la Changming Art School de Shanghai. Dès 1928, il y avait pris la tête du Yiyuan Painting Research Institute et s'y était solidement établi.
 
-Entre 1929 et 1933, Shanghai vivait l'âge d'or de la culture républicaine. Chen y côtoya Zhang Daqian, Pan Yuliang et Pan Tianshou — par correspondance ou par échange d'œuvres. Il rejoignit le groupe d'avant-garde Juelan She, puis devint examinateur pour la section peinture occidentale de la première Exposition nationale des beaux-arts de Chine à Shanghai. En 1931, son tableau *Eau claire* fut retenu parmi les douze œuvres représentant la République de Chine à l'Exposition universelle de Chicago.
+Entre 1929 et 1933, Shanghai vivait l'âge d'or de la culture républicaine. Chen y côtoya Zhang Daqian, Pan Yuliang et Pan Tianshou — par correspondance ou par échange d'œuvres. Il rejoignit le groupe d'avant-garde Juelan She, puis devint examinateur pour la section peinture occidentale de la première Exposition nationale des beaux-arts de Chine à Shanghai. En 1931, son tableau _Eau claire_ fut retenu parmi les douze œuvres représentant la République de Chine à l'Exposition universelle de Chicago.
 
 Ce fut sa période artistique la plus dense, la plus expérimentale. Il explora une fusion sino-occidentale, cherchant à insuffler l'esthétique orientale dans la technique de la peinture à l'huile. Un peintre colonial originaire de Chiayi avait trouvé sa place au cœur de la capitale culturelle de la République.
 
@@ -63,7 +66,7 @@ De retour à Taïwan, Chen Cheng-po entra dans la période la plus féconde de s
 
 Il contribua à la fondation de la Tai Yang Art Association et s'investit dans le développement d'un mouvement artistique ancré dans la réalité taïwanaise. Puis ce furent les sorties sur le motif sans fin — carnet de croquis et chevalet sur le dos, il sillonna l'île du nord au sud, de la ville de Chiayi aux rives de la rivière Tamsui, des neiges du Yushan aux plages de Pingtung. Son passage laissa de l'huile sur toile aux quatre coins de l'île.
 
-*Coucher de soleil à Tamsui*, achevé en 1935, est l'une de ses œuvres les plus célèbres. Le tableau adopte un point de vue en plongée sur l'embouchure du fleuve Tamsui : les maisons de style minnan se superposent en couches successives, les tuiles rouges s'étirant du premier plan jusqu'à l'arrière-plan, le pavillon rouge, le clocher de l'église, l'ancienne douane Mackay, le fort d'Espagne au loin — c'est le Tamsui des années 1930 tel qu'il était vraiment. La dynamique de la composition n'est pas horizontale, elle est circulaire ; tous les éléments sont enveloppés dans un mouvement organique.
+_Coucher de soleil à Tamsui_, achevé en 1935, est l'une de ses œuvres les plus célèbres. Le tableau adopte un point de vue en plongée sur l'embouchure du fleuve Tamsui : les maisons de style minnan se superposent en couches successives, les tuiles rouges s'étirant du premier plan jusqu'à l'arrière-plan, le pavillon rouge, le clocher de l'église, l'ancienne douane Mackay, le fort d'Espagne au loin — c'est le Tamsui des années 1930 tel qu'il était vraiment. La dynamique de la composition n'est pas horizontale, elle est circulaire ; tous les éléments sont enveloppés dans un mouvement organique.
 
 Mais ce qui incarne le mieux Chen Cheng-po, ce sont ses tableaux de Chiayi : le carrefour à la fontaine, la lumière sur les coins de rue, les couleurs du marché. Sa manière de peindre sa ville natale a une épaisseur très personnelle — ce n'est pas le regard d'un observateur extérieur, c'est la sensation de l'air ambiant ressentie par quelqu'un qui y vit.
 
@@ -75,7 +78,7 @@ Mais ce qui incarne le mieux Chen Cheng-po, ce sont ses tableaux de Chiayi : le 
 
 En 1945, le Japon capitula. Les Taïwanais accueillirent avec joie la « mère patrie ».
 
-Chen Cheng-po en faisait partie. Il peignit une œuvre intitulée *Jour de fête* représentant le drapeau du Kuomintang hissé sur le commissariat de Chiayi, avec des habitants dans la liesse. Il fut désigné vice-président du comité d'organisation pour l'accueil du gouvernement nationaliste à Chiayi.
+Chen Cheng-po en faisait partie. Il peignit une œuvre intitulée _Jour de fête_ représentant le drapeau du Kuomintang hissé sur le commissariat de Chiayi, avec des habitants dans la liesse. Il fut désigné vice-président du comité d'organisation pour l'accueil du gouvernement nationaliste à Chiayi.
 
 En 1946, il adhéra au Parti nationaliste chinois (Kuomintang) et fut élu conseiller municipal lors des premières élections au conseil de Chiayi.
 
@@ -112,11 +115,11 @@ Puis elle fit quelque chose de remarquablement lucide : elle décrocha toutes le
 
 Elle voulait dire aux gens qui surveillaient : « Les tableaux de Chen Cheng-po ont tous été détruits. »
 
-La photo mortuaire de Chen Cheng-po fut dissimulée derrière la tablette ancestrale — les agents des services de sécurité n'iraient pas fouiller là. Sur l'autel trônait l'*Autoportrait* qu'il avait peint à l'École des beaux-arts de Tokyo, s'assombrissant lentement au fil des années.
+La photo mortuaire de Chen Cheng-po fut dissimulée derrière la tablette ancestrale — les agents des services de sécurité n'iraient pas fouiller là. Sur l'autel trônait l'_Autoportrait_ qu'il avait peint à l'École des beaux-arts de Tokyo, s'assombrissant lentement au fil des années.
 
 Pendant plus de trente ans, Chang Chieh et les enfants luttèrent pour subvenir à leurs besoins. Mais de temps à autre, elle s'enfermait plusieurs jours dans le grenier pour prendre soin des œuvres de son mari : craignant l'humidité, elle déroulait les centaines de tableaux un à un, les couvrait de journaux, les empilait à nouveau ; quand la poussière s'accumulait dans le grenier, elle suivait le sens des coups de pinceau avec un pinceau fin humecté d'eau pour l'enlever délicatement.
 
-« Elle attendit toute sa vie — qu'il rentre de Tokyo, qu'il rentre de Shanghai... puis ce fut une longue attente d'une autre nature : que ses peintures voient à nouveau le jour. » (GJTaiwan, *La femme qui cachait les tableaux et les mots — Chang Chieh*)
+« Elle attendit toute sa vie — qu'il rentre de Tokyo, qu'il rentre de Shanghai... puis ce fut une longue attente d'une autre nature : que ses peintures voient à nouveau le jour. » (GJTaiwan, _La femme qui cachait les tableaux et les mots — Chang Chieh_)
 
 Elle ne vécut pas pour voir la réhabilitation officielle. Chang Chieh s'éteignit en 1993. Les excuses publiques du gouvernement n'arrivèrent qu'en 1995, lorsque le président Lee Teng-hui présenta ses regrets aux victimes.
 
@@ -130,7 +133,7 @@ En 1987, la loi martiale fut levée. Taïwan commença à regarder son histoire 
 
 Le nom de Chen Cheng-po passa du statut de tabou à celui de patrimoine culturel. Ses tableaux quittèrent le grenier pour entrer dans les musées, les salles de vente, les manuels scolaires.
 
-En 1993, *Coucher de soleil à Tamsui* fut adjugé chez Sotheby's pour 11 millions NTD, un record pour une huile chinoise chez Sotheby's à l'époque. En 2006, *Tamsui* fut vendue chez Sotheby's Hong Kong pour 34,84 millions HKD (environ 144 millions NTD). En 2007, *Coucher de soleil à Tamsui* fut adjugée chez Christie's Hong Kong pour près de 50,73 millions HKD frais compris (environ 220 millions NTD) — un record pour une huile sur toile d'un peintre taïwanais qui tient encore aujourd'hui.
+En 1993, _Coucher de soleil à Tamsui_ fut adjugé chez Sotheby's pour 11 millions NTD, un record pour une huile chinoise chez Sotheby's à l'époque. En 2006, _Tamsui_ fut vendue chez Sotheby's Hong Kong pour 34,84 millions HKD (environ 144 millions NTD). En 2007, _Coucher de soleil à Tamsui_ fut adjugée chez Christie's Hong Kong pour près de 50,73 millions HKD frais compris (environ 220 millions NTD) — un record pour une huile sur toile d'un peintre taïwanais qui tient encore aujourd'hui.
 
 Les avancées en matière de justice transitionnelle à Taïwan permirent à Chen Cheng-po de ne plus n'être qu'un nom, mais d'exister à travers des expositions, une maison culturelle dans sa ville natale, des archives de recherche exhaustives.
 
@@ -150,7 +153,7 @@ L'ordre dans lequel Chen Cheng-po entre dans la conscience collective est presqu
 
 C'est un problème structurel dans le processus de réparation des blessures historiques de Taïwan : lorsqu'un individu devient un symbole politique, ses autres dimensions reculent dans l'ombre. La peinture à l'huile de Chen Cheng-po a sa propre place dans l'histoire de l'art moderne d'Asie orientale — lorsqu'il échangeait avec les membres du groupe Juelan She à Shanghai, il était un artiste aux côtés de Zhang Daqian et Pan Yuliang, non une future victime. Lorsqu'il fut sélectionné à l'Exposition impériale, c'est son travail qui parlait, non sa mort.
 
-Dire toutefois que la valeur de son art a été « gonflée par le politique » serait trop réducteur. Les 220 millions NTD de *Coucher de soleil à Tamsui* ont été payés pour un authentique chef-d'œuvre — la composition, la touche, le traitement de la lumière atteignent une hauteur que peu de peintres taïwanais du XXe siècle ont égalée. La tragédie historique a fait traverser les âges à son nom, mais c'est la peinture elle-même qui a donné son prix à son œuvre.
+Dire toutefois que la valeur de son art a été « gonflée par le politique » serait trop réducteur. Les 220 millions NTD de _Coucher de soleil à Tamsui_ ont été payés pour un authentique chef-d'œuvre — la composition, la touche, le traitement de la lumière atteignent une hauteur que peu de peintres taïwanais du XXe siècle ont égalée. La tragédie historique a fait traverser les âges à son nom, mais c'est la peinture elle-même qui a donné son prix à son œuvre.
 
 Art et politique sont inséparables chez Chen Cheng-po — non pas en compétition, mais tissés ensemble. Son choix de rester à Chiayi, d'aller à l'aéroport de Shuishang, et son choix de peindre le soleil de Chiayi avec des couleurs intenses et subjectives sont les choix d'un seul et même homme.
 
@@ -160,16 +163,16 @@ Art et politique sont inséparables chez Chen Cheng-po — non pas en compétiti
 
 1. **2 février 1895** — Naissance à Chiayi ; son père Chen Ruoyu est un licencié de l'ère Qing
 2. **1924** — Démissionne de son poste d'enseignant ; intègre l'École des beaux-arts de Tokyo sur dessin avec mention
-3. **10 octobre 1926** — *Banlieue de Chiayi* sélectionné à la 7e Exposition impériale du Japon — une première pour un Taïwanais
+3. **10 octobre 1926** — _Banlieue de Chiayi_ sélectionné à la 7e Exposition impériale du Japon — une première pour un Taïwanais
 4. **1929** — Part enseigner à Shanghai ; rejoint le groupe Juelan She, dirige le Yiyuan Painting Research Institute
 5. **1933** — Rentre à Taïwan ; contribue à fonder la Tai Yang Art Association
-6. **1935** — Crée *Coucher de soleil à Tamsui* et d'autres œuvres majeures
+6. **1935** — Crée _Coucher de soleil à Tamsui_ et d'autres œuvres majeures
 7. **1946** — Adhère au Kuomintang ; élu au premier conseil municipal de Chiayi
 8. **25 mars 1947** — Part en délégation de négociation à l'aéroport de Shuishang, est arrêté et fusillé devant la gare de Chiayi, à 52 ans
 9. **À partir de 1947** — Chang Chieh dissimule les tableaux dans le grenier, brûle les cadres pour faire croire à leur destruction
 10. **1979** — Première « Exposition des œuvres posthumes de Chen Cheng-po » ; Taïwan découvre son travail pour la première fois publiquement
-11. **1993** — Décès de Chang Chieh ; *Coucher de soleil à Tamsui (version sombre)* adjugée chez Sotheby's pour un record de 11 millions NTD
-12. **2007** — *Coucher de soleil à Tamsui* adjugée à Hong Kong pour 220 millions NTD — record toujours en vigueur
+11. **1993** — Décès de Chang Chieh ; _Coucher de soleil à Tamsui (version sombre)_ adjugée chez Sotheby's pour un record de 11 millions NTD
+12. **2007** — _Coucher de soleil à Tamsui_ adjugée à Hong Kong pour 220 millions NTD — record toujours en vigueur
 13. **25 mars 2025** — Le petit-fils Chen Lipo fait don de plus de 2 000 œuvres au Musée national des beaux-arts de Tainan
 
 ---
@@ -178,7 +181,7 @@ Le grenier de Chang Chieh était bas de plafond, humide, envahi d'insectes. Elle
 
 Ces tableaux sont aujourd'hui accrochés dans des musées. Quelqu'un les regarde, quelqu'un les étudie, quelqu'un a déboursé 220 millions pour en acquérir un.
 
-Dans son testament, Chen Cheng-po avait désigné *Eau claire* comme « trésor de famille à transmettre aux générations futures ». Ce tableau existe encore.
+Dans son testament, Chen Cheng-po avait désigné _Eau claire_ comme « trésor de famille à transmettre aux générations futures ». Ce tableau existe encore.
 
 ## Références
 

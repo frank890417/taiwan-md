@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Culture/Dcard.md'
 lastVerified: 2026-04-05
+sourceCommitSha: 'bf1be5e5'
+sourceContentHash: 'sha256:a0a6e4b6f985e523'
+translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 
 # Dcard

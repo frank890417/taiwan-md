@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 14
 lastVerified: 2026-04-08
-translatedFrom: 'Economy/台灣股市與資本市場.md'
+translatedFrom: "Economy/台灣股市與資本市場.md"
+sourceCommitSha: "f472eff5"
+sourceContentHash: "sha256:e015f5419e44c200"
+translatedAt: "2026-04-14T19:21:33+08:00"
 ---
 
 > **En 30 secondes :** En 1962, la Bourse de Taïwan ouvrait ses portes avec dix-huit sociétés cotées. Soixante-quatre ans plus tard, début 2026, l'indice pondéré franchissait les 30 000 points — plus de 1 050 entreprises cotées, 13,21 millions de comptes ouverts. Entre-temps : le traumatisme collectif de la bulle de 1990, l'effondrement de la confiance avec l'affaire Hongyuan, la montée en puissance des investisseurs institutionnels et étrangers, et l'avènement de l'investissement grand public porté par les ETF et TSMC. L'indice boursier taïwanais n'est pas qu'un chiffre : c'est un électrocardiogramme en temps réel de la confiance économique du pays.
@@ -71,13 +74,13 @@ Ce qui mérite encore plus l'attention, c'est l'évolution structurelle : en 202
 
 Du « ne touchez pas aux actions » des années 1990 au « ne pas investir, c'est prendre un risque » des années 2020 : il aura fallu trente ans à la société taïwanaise pour opérer ce retournement de perspective.
 
-| 1990                                      | 2026                                          |
-| ----------------------------------------- | --------------------------------------------- |
-| 4,6 millions de comptes actifs            | 13,21 millions de comptes ouverts             |
-| Particuliers : 90 % des volumes           | Institutionnels et ETF en progression continue |
-| Tuyaux boursiers, tableaux de cotation    | Smartphone, versements programmés              |
-| Placements parallèles à 4 % par mois      | ETF à 5-8 % annualisés                        |
-| Une société clandestine ruine 160 000 personnes | Un ETF sert 2,74 millions d'épargnants  |
+| 1990                                            | 2026                                           |
+| ----------------------------------------------- | ---------------------------------------------- |
+| 4,6 millions de comptes actifs                  | 13,21 millions de comptes ouverts              |
+| Particuliers : 90 % des volumes                 | Institutionnels et ETF en progression continue |
+| Tuyaux boursiers, tableaux de cotation          | Smartphone, versements programmés              |
+| Placements parallèles à 4 % par mois            | ETF à 5-8 % annualisés                         |
+| Une société clandestine ruine 160 000 personnes | Un ETF sert 2,74 millions d'épargnants         |
 
 ## Après les 30 000 points
 

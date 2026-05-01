@@ -11,7 +11,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: 'Culture/台灣茶道與生活美學.md'
+translatedFrom: "Culture/台灣茶道與生活美學.md"
+sourceCommitSha: "e564525c"
+sourceContentHash: "sha256:741b3d02ada8cbbb"
+translatedAt: "2026-04-14T12:34:01+08:00"
 ---
 
 # La cérémonie du thé à Taïwan et l'esthétique du quotidien
@@ -66,11 +69,11 @@ Les premières traces de théiers à Taïwan remontent à 1717, dans la région 
 
 Mais le véritable avantage géographique du thé taïwanais, c'est la hauteur. Du fond des plaines à 200 mètres jusqu'aux crêtes de Dayuling à 2 600 mètres, chaque altitude engendre un thé radicalement différent. Les thés de haute montagne (au-dessus de 1 000 mètres) bénéficient d'une grande amplitude thermique journalière et de brouillards fréquents : la croissance lente des feuilles favorise l'accumulation d'acides aminés, tandis que les catéchines amères restent en retrait. Il en résulte une liqueur douce, suave et légèrement florale — ce qui fait la réputation et les prix élevés des oolongs d'altitude d'Alishan, Lishan et Shanlinxi.
 
-| Tranche d'altitude | Zones représentatives       | Profil aromatique                       |
-| ------------------ | --------------------------- | --------------------------------------- |
-| 500–1 000 m        | Dongding (Lugu), Maokong   | Corps robuste, notes torréfiées, douceur |
-| 1 000–1 600 m      | Alishan, Shanlinxi          | Floral, laiteux, longue persistance     |
-| 1 600 m+           | Lishan, Dayuling            | Très doux, minéralité froide            |
+| Tranche d'altitude | Zones représentatives    | Profil aromatique                        |
+| ------------------ | ------------------------ | ---------------------------------------- |
+| 500–1 000 m        | Dongding (Lugu), Maokong | Corps robuste, notes torréfiées, douceur |
+| 1 000–1 600 m      | Alishan, Shanlinxi       | Floral, laiteux, longue persistance      |
+| 1 600 m+           | Lishan, Dayuling         | Très doux, minéralité froide             |
 
 Sous la domination japonaise, le Japon chercha à faire de Taïwan « un autre Darjeeling ». Dès 1906, il commença à expérimenter la culture du thé noir à grandes feuilles Assam dans le district de Yuchi, au Nantou. La station expérimentale du thé rouge de Yuchi, fondée en 1926 et dirigée par le technicien Kōkichirō Arai, consacra des décennies à croiser la variété Assam avec des variétés locales taïwanaises. Après la guerre, Arai resta à Taïwan pour poursuivre ses travaux. Cette recherche menée à travers les changements de régime colonial donna naissance au Taiwan Tea No. 18, baptisé « Ruby » — la variété phare du thé rouge du lac Sun Moon, aux arômes caractéristiques de menthe et de cannelle.
 

@@ -8,6 +8,9 @@ author: Taiwan.md
 readingTime: 8
 featured: false
 translatedFrom: 'Technology/開源社群與g0v.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:af78147ce6c1c764'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Comunidad de código abierto y g0v

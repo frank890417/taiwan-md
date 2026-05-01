@@ -11,7 +11,10 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
+translatedFrom: "Society/2026鄭習會與國共十年再會.md"
+sourceCommitSha: "056136d7"
+sourceContentHash: "sha256:059f5d9ff66a77e7"
+translatedAt: "2026-04-14T12:32:15+08:00"
 ---
 
 # Le sommet Zheng-Xi de 2026 : dix minutes qui valent dix ans

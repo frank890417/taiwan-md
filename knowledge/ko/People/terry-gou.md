@@ -7,6 +7,9 @@ subcategory: '과학기술과 기업'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/郭台銘.md'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:c664670d7a17c38d'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 ## 반차오에서 글로벌 제조 제국까지

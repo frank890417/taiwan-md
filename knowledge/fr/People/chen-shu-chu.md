@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
-translatedFrom: 'People/陳樹菊.md'
+translatedFrom: "People/陳樹菊.md"
 lastVerified: 2026-04-03
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:323b34d523a17107"
+translatedAt: "2026-04-14T19:19:36+08:00"
 ---
 
 > **En 30 secondes :** Chen Shu-chu, née en 1950, tient un étal de légumes au marché central de Taïdong. À 13 ans, elle quitte l'école pour vendre des légumes après le décès de sa mère lors d'un accouchement difficile. Durant plus de cinquante ans, elle a fait don de plusieurs dizaines de millions de dollars à des écoles, des orphelinats et des hôpitaux. En 2010, le magazine TIME la classe parmi les 100 personnalités les plus influentes du monde — le réalisateur Ang Lee rédige lui-même sa présentation. Venue à New York pour recevoir son prix, elle déclare aux journalistes : « Je ne suis qu'une vendeuse de légumes. »[^1]

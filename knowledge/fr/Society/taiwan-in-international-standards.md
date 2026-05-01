@@ -11,7 +11,10 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
+translatedFrom: "Society/台灣在國際標準中的標示問題.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:20aea791d594faee"
+translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 
 # La question de la désignation de Taïwan dans les normes internationales

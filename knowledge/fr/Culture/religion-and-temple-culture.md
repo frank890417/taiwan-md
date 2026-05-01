@@ -19,6 +19,9 @@ readingTime: 14
 featured: true
 lastVerified: 2026-04-06
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
+sourceCommitSha: 87911554
+sourceContentHash: 'sha256:8d534bf965b094a9'
+translatedAt: '2026-04-28T21:41:13+08:00'
 ---
 
 # Religion et culture des temples à Taïwan

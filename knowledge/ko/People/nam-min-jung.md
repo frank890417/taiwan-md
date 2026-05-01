@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/南珉貞.md'
 readingTime: 8
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:000d5a7dca77f804'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 남민정의 키워드는 ‘바이럴 스파이크’가 아니라 ‘머물렀다’다. 그녀는 푸방에서 시즌을 넘겨 높은 가시 슬롯을 지켰고, 대만 한국 서포트를 일회성 버즈에서 예측 가능한 프로 루틴으로 바꿨다.

@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'History/清治時期.md'
+sourceCommitSha: '9a2361b6'
+sourceContentHash: 'sha256:f1f83caa365a0cc3'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 # 청나라 통치 시대

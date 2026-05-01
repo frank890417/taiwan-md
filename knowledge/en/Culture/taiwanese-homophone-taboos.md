@@ -10,6 +10,9 @@ featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
 translatedFrom: 'Culture/台灣諧音禁忌文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d88f480a1e1f7ae0'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-second overview**: In Taiwan, the homophone "four" = "death" has led an entire society to collectively avoid this number. Elevators jump from the 3rd floor straight to the 5th, and restaurant servers will say "3+1 people" instead of "four people." Meanwhile, auspicious homophones drive license plates like "8888" to sell for $89,000, and wedding gift amounts follow a complex system of numerical taboos.

@@ -13,6 +13,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'People/李遠哲.md'
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Lee Yuan-tseh

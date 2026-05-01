@@ -8,6 +8,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:c5189b4648b42385'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Trail Culture and Civic Stewardship in Taiwan

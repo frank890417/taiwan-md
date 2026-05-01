@@ -1,16 +1,28 @@
 ---
-title: "Ray (YouTuber)"
+title: 'Ray (YouTuber)'
 description: "Né le 31 octobre 2005, Hsu Chen-Jui — connu sous le nom de Ray ou Rayasianboy — est un lycéen taïwanais propulsé sur la scène internationale après avoir abordé le streamer américain Kai Cenat avec un simple « My name is Ray, I'm from Taiwan ». Aujourd'hui fort de plus de 2,7 millions d'abonnés sur Twitch et 1,43 million sur YouTube, il a fait rayonner le passeport taïwanais, le bœuf aux nouilles et le bubble tea jusque dans un segment GQ très suivi, signé un partenariat avec Adidas pour sa marque RUEI, avant d'annoncer sa retraite pour se consacrer à un investissement dans une clinique dentaire."
 date: 2026-03-23
-tags: ["YouTuber", "Streamer", "Twitch", "Kai Cenat", "Créateur numérique", "Image internationale de Taïwan", "AMP"]
+tags:
+  [
+    'YouTuber',
+    'Streamer',
+    'Twitch',
+    'Kai Cenat',
+    'Créateur numérique',
+    'Image internationale de Taïwan',
+    'AMP',
+  ]
 subcategory: 'Numérique et médias'
-category: "People"
-author: "Taiwan.md Translation Team"
+category: 'People'
+author: 'Taiwan.md Translation Team'
 readingTime: 9
 lastVerified: 2026-03-23
 lastHumanReview: false
 featured: false
-translatedFrom: "People/Ray.md"
+translatedFrom: 'People/Ray.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d89e2ce7459672fc'
+translatedAt: '2026-04-14T19:14:30+08:00'
 ---
 
 # Ray (YouTuber)

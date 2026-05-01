@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 13
 featured: true
 translatedFrom: 'Music/台灣客家音樂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:214584e7c5f88b5f'
+translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 
 # 대만 하카 음악: 산노래에서 록까지, 문화 계승과 혁신

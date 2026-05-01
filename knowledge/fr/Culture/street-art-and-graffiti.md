@@ -2,7 +2,8 @@
 title: "L'art de rue et la culture du graffiti à Taïwan"
 description: "Du graffiti clandestin aux fresques murales officielles : comment les murs des villes taïwanaises sont devenus la scène d'expression d'une génération d'artistes"
 date: 2026-03-20
-tags: ['art de rue', 'graffiti', 'culture urbaine', 'art public', 'sous-culture']
+tags:
+  ['art de rue', 'graffiti', 'culture urbaine', 'art public', 'sous-culture']
 subcategory: 'Quartiers créatifs'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +11,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:e868357ae72f86c5'
+translatedAt: '2026-04-14T12:34:13+08:00'
 ---
 
 # L'art de rue et la culture du graffiti à Taïwan

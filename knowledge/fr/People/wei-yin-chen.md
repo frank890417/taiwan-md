@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 6
 lastVerified: 2026-03-22
-translatedFrom: 'People/陳偉殷.md'
+translatedFrom: "People/陳偉殷.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:231187a409527522"
+translatedAt: "2026-04-14T19:19:21+08:00"
 ---
 
 > **En 30 secondes :** Wei-Yin Chen est le premier lanceur taïwanais à avoir rejoint les Ligues majeures directement depuis le baseball japonais. En 2016, il signe un contrat de 80 millions de dollars sur cinq ans — le plus lucratif jamais accordé à un sportif taïwanais —, mais après impôts, commissions et assurances, il n'en touchera que 47 %. Au total, 96 victoires entre les États-Unis et le Japon, dont 59 en MLB, juste derrière les 68 de Wang Chien-Ming.
@@ -27,7 +30,7 @@ La réponse arrive six ans plus tard. En 2009, Chen remporte le titre de meilleu
 Sur six saisons à Chunichi (2006-2011), Chen totalise 36 victoires, 30 défaites et une MPM de 2,59. Ce qui retient surtout l'attention des recruteurs américains : un **ratio K/BB de 3,18**, signal clair qu'ils ont affaire à un lanceur avec un contrôle de premier ordre.
 
 > **💡 Le saviez-vous ?**
-> Wei-Yin Chen est le premier joueur des Ligues majeures à avoir choisi une chanson en mandarin comme musique d'entrée sur le terrain : *Mèng Xiǎng Qǐ Dòng* (« Le départ du rêve ») de Jay Chou.
+> Wei-Yin Chen est le premier joueur des Ligues majeures à avoir choisi une chanson en mandarin comme musique d'entrée sur le terrain : _Mèng Xiǎng Qǐ Dòng_ (« Le départ du rêve ») de Jay Chou.
 
 ## Quatre saisons à Baltimore : de la révélation à la consécration
 
@@ -54,9 +57,9 @@ Le 21 novembre 2019, les Marlins annoncent que Chen est désigné pour attributi
 
 Ce n'est qu'en 2025 que Chen lève le voile sur la réalité financière : **« Je n'ai réellement touché que 47 %. »** Impôt fédéral, impôt d'État, commissions, assurances — couche après couche, les 25 milliards de dollars taïwanais se réduisent à environ 11,75 milliards. Une fortune, certes, mais un écart suffisant pour interroger la structure économique du sport professionnel.
 
-| Période Baltimore (2012-2015) | Période Miami (2016-2019) |
-|---|---|
-| Bilan 46-32 | Bilan 13-16 |
+| Période Baltimore (2012-2015)              | Période Miami (2016-2019)            |
+| ------------------------------------------ | ------------------------------------ |
+| Bilan 46-32                                | Bilan 13-16                          |
 | MPM 3,72 — perçu comme un titulaire fiable | MPM 5,10 — valeur remise en question |
 
 ## Wang Chien-Ming et Wei-Yin Chen : deux générations, deux légendes

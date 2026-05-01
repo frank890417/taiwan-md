@@ -11,7 +11,10 @@ readingTime: 17
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'History/台灣經濟奇蹟.md'
+translatedFrom: "History/台灣經濟奇蹟.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:59051517307ea5dd"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 # Le miracle économique taïwanais : d'une société agraire aux Quatre Dragons d'Asie
@@ -277,7 +280,7 @@ Les ministères économiques taïwanais étaient dirigés par des hauts fonction
 **Part des trois secteurs dans le PIB :**
 
 | Année | Agriculture | Industrie | Services |
-|-------|-------------|-----------|----------|
+| ----- | ----------- | --------- | -------- |
 | 1952  | 56 %        | 17 %      | 27 %     |
 | 1970  | 15 %        | 37 %      | 48 %     |
 | 1990  | 4 %         | 42 %      | 54 %     |

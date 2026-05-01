@@ -10,14 +10,17 @@ featured: false
 readingTime: 16
 lastVerified: 2026-04-10
 lastHumanReview: false
-translatedFrom: 'Society/台灣國防與軍事現代化.md'
+translatedFrom: "Society/台灣國防與軍事現代化.md"
+sourceCommitSha: "89c6015e"
+sourceContentHash: "sha256:6f217759afe3da2a"
+translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 
 > **Résumé en 30 secondes :** La guerre russo-ukrainienne de 2022 a transformé la logique défensive de Taïwan. En 2024, le service militaire est passé de quatre mois à un an. En 2025, les exercices Han Kuang 41 ont duré dix jours et neuf nuits — un record —, mobilisant vingt mille réservistes. La même année, le gouvernement Lai a proposé un budget spécial de 1 250 milliards de NT pour l'acquisition de 200 000 drones. Mais la majorité de cette enveloppe reste destinée à des équipements conventionnels coûteux : chars, avions de combat, sous-marins. L'ancien chef d'état-major Lee Hsi-ming sourit amèrement : « Si un char peut être une arme asymétrique, qu'est-ce qui ne l'est pas ? » Taïwan avance simultanément sur deux voies défensives contradictoires.
 
 Fin octobre 2025, sur le terrain d'armes national de Hukou, une rangée de chars « Abrams » M1A2T était alignée sur le béton. Lai Ching-te descendit de l'estrade pour présider la cérémonie de mise en service, proclamant que « le char le plus puissant au monde » rejoignait officiellement l'ordre de bataille des forces armées. Les trente-huit premiers exemplaires étaient arrivés à Taïwan en décembre 2024, quarante-deux autres en juillet 2025, et les vingt-huit derniers au premier trimestre 2026, pour un total de 108 engins déployés au sein de la 584e brigade blindée et de la 269e brigade mécanisée[^1].
 
-Au même moment, l'ancien chef d'état-major Lee Hsi-ming dédicaçait son livre en librairie. Dans son ouvrage *Les chances de victoire de Taïwan*, il plaidait que Taïwan ne devrait pas acheter d'armes lourdes et onéreuses, mais investir dans des systèmes nombreux, mobiles, bon marché et faciles à dissimuler. Lorsqu'on lui demanda comment il percevait l'acquisition des M1A2T au nom de la « décision de la bataille sur les plages », il sourit amèrement : « Je ne peux que sourire amèrement. Si un char peut être une arme asymétrique, qu'est-ce qui ne l'est pas ? »[^2]
+Au même moment, l'ancien chef d'état-major Lee Hsi-ming dédicaçait son livre en librairie. Dans son ouvrage _Les chances de victoire de Taïwan_, il plaidait que Taïwan ne devrait pas acheter d'armes lourdes et onéreuses, mais investir dans des systèmes nombreux, mobiles, bon marché et faciles à dissimuler. Lorsqu'on lui demanda comment il percevait l'acquisition des M1A2T au nom de la « décision de la bataille sur les plages », il sourit amèrement : « Je ne peux que sourire amèrement. Si un char peut être une arme asymétrique, qu'est-ce qui ne l'est pas ? »[^2]
 
 Cette phrase est la clé la plus honnête pour comprendre la défense taïwanaise en 2026. Le gouvernement déclare suivre la stratégie du porc-épic, mais signe les contrats d'armement les plus coûteux avec les États-Unis. Il proclame l'autonomie défensive, mais 90 % du budget ira à des fournisseurs américains. Il prolonge le service militaire, tout en reconnaissant que 200 000 drones sont l'arme principale de demain. Ces contradictions ne sont pas des négligences : c'est une île qui oscille entre deux logiques de survie. Elle veut devenir un porc-épic, mais son corps se souvient encore d'avoir été un léopard.
 
@@ -116,14 +119,14 @@ Les trois dernières sous-phases — combat côtier, défense en profondeur, gue
 
 C'est l'ombre de l'ODC. La vision originale de Lee Hsi-ming consistait à faire de Taïwan un « filet » : si la ligne de front cède, on recule en profondeur, et chaque kilomètre cédé coûte à l'ennemi. Han Kuang 41 marque la première fois que cette vision est systématiquement adoptée dans un scénario d'exercice[^20].
 
-| Crise des missiles de 1995 | 2026 |
-| --- | --- |
-| 600 000 soldats d'active | 180 000 d'active + 2 millions de réserve |
-| Service obligatoire de deux ans | Service obligatoire d'un an + forces engagées volontaires comme force principale |
-| Doctrine de décision sur les plages | Zone grise → profondeur du territoire → guerre d'attrition |
-| Armement entièrement dépendant de l'aide américaine | Aide américaine principale + renforcement de l'autonomie défensive |
-| Grands navires et artillerie lourde | Drones × missiles mobiles × mines marines |
-| La défense civile est un accessoire d'exercice | La défense civile est le flux de trésorerie de la Black Bear Academy |
+| Crise des missiles de 1995                          | 2026                                                                             |
+| --------------------------------------------------- | -------------------------------------------------------------------------------- |
+| 600 000 soldats d'active                            | 180 000 d'active + 2 millions de réserve                                         |
+| Service obligatoire de deux ans                     | Service obligatoire d'un an + forces engagées volontaires comme force principale |
+| Doctrine de décision sur les plages                 | Zone grise → profondeur du territoire → guerre d'attrition                       |
+| Armement entièrement dépendant de l'aide américaine | Aide américaine principale + renforcement de l'autonomie défensive               |
+| Grands navires et artillerie lourde                 | Drones × missiles mobiles × mines marines                                        |
+| La défense civile est un accessoire d'exercice      | La défense civile est le flux de trésorerie de la Black Bear Academy             |
 
 ## 160 kilomètres et un pari
 

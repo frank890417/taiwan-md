@@ -8,7 +8,10 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: 'Culture/台灣VTuber.md'
+translatedFrom: "Culture/台灣VTuber.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:a734956b42d0e857"
+translatedAt: "2026-04-14T12:33:38+08:00"
 ---
 
 > **En 30 secondes :** En 2017, Yahoo TV lance Toni (虎妮), la première VTuber taïwanaise, à peine six mois après les débuts de Kizuna AI au Japon. De cette expérimentation d'entreprise jusqu'aux VTubers qui chantent en taïwanais pour défendre la culture locale, le secteur s'est transformé en sept ans en une filière complète, avec agences de talents, fournisseurs de technologie et partenariats tous azimuts.
@@ -57,7 +60,7 @@ La campagne de modélisation 3D de Mizuki a récolté 8,74 millions de dollars t
 
 En 2024, la scène VTuber taïwanaise n'est plus l'histoire de quelques créateurs isolés : c'est un écosystème industriel à part entière, avec plusieurs niveaux bien distincts.
 
-Du côté des **agences**, SpringFish Creative se spécialise dans la construction de récits IP et a lancé plusieurs univers comme *Espèces en voie d'extinction* et *Ère des bêtes sauvages* ; Ziwu Plan mise sur le haut de gamme, avec Mizuki comme l'une des VTubers taïwanaises aux plus hauts revenus Super Chat ; Magic Compete Entertainment adopte une stratégie de volume à prix accessible, avec 13 membres répartis entre sa première génération EXITUS et sa deuxième génération MeloNyx.
+Du côté des **agences**, SpringFish Creative se spécialise dans la construction de récits IP et a lancé plusieurs univers comme _Espèces en voie d'extinction_ et _Ère des bêtes sauvages_ ; Ziwu Plan mise sur le haut de gamme, avec Mizuki comme l'une des VTubers taïwanaises aux plus hauts revenus Super Chat ; Magic Compete Entertainment adopte une stratégie de volume à prix accessible, avec 13 membres répartis entre sa première génération EXITUS et sa deuxième génération MeloNyx.
 
 Les **fournisseurs de technologie** incluent des entreprises comme Ogura Electronics et Future Production qui proposent équipements de motion capture et solutions d'animation, ainsi que la plateforme métavers Beatday développée par HTC VIVE Originals, qui permet aux VTubers d'organiser des concerts en réalité virtuelle.
 

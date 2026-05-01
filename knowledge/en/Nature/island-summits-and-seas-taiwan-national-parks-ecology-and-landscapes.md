@@ -16,6 +16,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣國家公園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3ce9f00d5b274081'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives

@@ -3,7 +3,14 @@ title: 'Mona Rudao'
 description: "Chef du clan Mahebo de l'ethnie Seediq, Mona Rudao a conduit l'Incident de Wushe en octobre 1930, mobilisant plus de 300 guerriers pour résister à l'oppression coloniale japonaise. Bien que l'événement se soit conclu tragiquement, il demeure le symbole éternel de la résistance indomptable des peuples autochtones de Taïwan."
 date: 2026-03-25T00:00:00Z
 updated: 2026-03-25T00:00:00Z
-tags: ['peuple Seediq', 'Incident de Wushe', 'histoire autochtone', 'colonisation japonaise', 'résistance à Taïwan']
+tags:
+  [
+    'peuple Seediq',
+    'Incident de Wushe',
+    'histoire autochtone',
+    'colonisation japonaise',
+    'résistance à Taïwan',
+  ]
 subcategory: 'Personnages historiques'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +19,9 @@ featured: false
 category: People
 translatedFrom: 'People/莫那·魯道.md'
 lastVerified: 2026-03-25T00:00:00Z
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:87f54ad98e5a6fd1'
+translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 
 # Mona Rudao
@@ -56,7 +66,7 @@ Trois cents hommes face à une armée moderne : ce déséquilibre ne laissait au
 
 ### Résonances contemporaines et mémoire culturelle
 
-Après la Seconde Guerre mondiale, l'Incident de Wushe a été progressivement réinterprété comme un épisode central de l'histoire de la résistance taïwanaise. Le film *Seediq Bale* du réalisateur Wei Te-sheng a donné à Mona Rudao le visage d'un héros national, ravivant dans la société taïwanaise une prise de conscience sur l'histoire des peuples autochtones. Aujourd'hui, des monuments et un musée commémoratif se trouvent à Wushe, et les descendants Seediq poursuivent activement un travail de revitalisation culturelle, faisant de cet épisode un témoignage vivant de la diversité ethnique qui constitue l'identité de Taïwan. Ce chapitre de l'histoire nous rappelle qu'une véritable réconciliation ne peut s'édifier que sur la reconnaissance lucide des traumatismes laissés par la colonisation.
+Après la Seconde Guerre mondiale, l'Incident de Wushe a été progressivement réinterprété comme un épisode central de l'histoire de la résistance taïwanaise. Le film _Seediq Bale_ du réalisateur Wei Te-sheng a donné à Mona Rudao le visage d'un héros national, ravivant dans la société taïwanaise une prise de conscience sur l'histoire des peuples autochtones. Aujourd'hui, des monuments et un musée commémoratif se trouvent à Wushe, et les descendants Seediq poursuivent activement un travail de revitalisation culturelle, faisant de cet épisode un témoignage vivant de la diversité ethnique qui constitue l'identité de Taïwan. Ce chapitre de l'histoire nous rappelle qu'une véritable réconciliation ne peut s'édifier que sur la reconnaissance lucide des traumatismes laissés par la colonisation.
 
 ### Questions ouvertes
 
@@ -68,11 +78,11 @@ Le choix de Mona Rudao continue de susciter des débats : la résistance armée 
 
 - **[Wikipédia : Incident de Wushe](https://zh.wikipedia.org/wiki/%E9%9C%A7%E7%A4%BE%E4%BA%8B%E4%BB%B6)**
 - **[Wikipédia : Mona Rudao](https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%82%A3%C2%B7%E9%AD%AF%E9%81%93)**
-- **Teng Hsiang-yang, *L'Incident de Wushe*, Yùshān Shè**  
+- **Teng Hsiang-yang, _L'Incident de Wushe_, Yùshān Shè**  
   [Lien d'achat (Books.com.tw)](https://www.books.com.tw/products/0010098994)
 - **Bibliothèque nationale de mémoire culturelle de Taïwan : [Exposition Mona Rudao — Sang et larmes](https://curation.culture.tw/curation/public?id=1784)**  
   (Voir aussi : [Mise en scène en ligne de l'Incident de Wushe](https://curation.culture.tw/curation/public?id=1801))
-- **Sources historiques issues de *Taiwan no Banzoku Kenkyū***  
+- **Sources historiques issues de _Taiwan no Banzoku Kenkyū_**  
   (Rapports d'enquête sur les peuples autochtones sous l'administration japonaise ; voir les travaux cités par la Fondation des archives historiques de Taïwan Wu San-lien)
 - **[Fondation des archives historiques de Taïwan Wu San-lien : Mona Rudao et le mouvement de résistance des peuples autochtones de Taïwan](https://www.twcenter.org.tw/thematic_series/history_class/history01)**
 - **[Mémoire de Taïwan — Bibliothèque nationale : Biographie de Mona Rudao](https://tm.ncl.edu.tw/article?u=016_002_0000294894)**  

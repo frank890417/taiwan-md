@@ -1,8 +1,15 @@
 ---
-title: 'Edward Yang : poète cinématographique de l''aliénation urbaine'
+title: "Edward Yang : poète cinématographique de l'aliénation urbaine"
 description: 'Figure centrale du Nouveau Cinéma taïwanais, Palme de la mise en scène à Cannes, poète de la désaffection métropolitaine'
 date: 2026-03-19
-tags: ['réalisateur', 'Nouveau Cinéma taïwanais', 'Edward Yang', 'Festival de Cannes', 'cinéma urbain']
+tags:
+  [
+    'réalisateur',
+    'Nouveau Cinéma taïwanais',
+    'Edward Yang',
+    'Festival de Cannes',
+    'cinéma urbain',
+  ]
 subcategory: 'Cinéma et arts de la scène'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +17,14 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'People/楊德昌.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7eb377093645b409'
+translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 
 # Edward Yang : poète cinématographique de l'aliénation urbaine
 
-Edward Yang est l'une des figures tutélaires du Nouveau Cinéma taïwanais. Son regard urbain singulier et son acuité sociale hors du commun lui ont permis de signer des œuvres qui ont marqué l'histoire du cinéma mondial : *A Brighter Summer Day* et *Yi Yi*. Sa caméra, froide et précise comme un scalpel, dissèque la psychologie des citadins contemporains et les structures de la société moderne. On l'a surnommé « l'Antonioni de l'Orient ». En 2000, *Yi Yi* lui vaut le Prix de la mise en scène au Festival de Cannes — une étape décisive dans la reconnaissance internationale du cinéma de Taïwan.
+Edward Yang est l'une des figures tutélaires du Nouveau Cinéma taïwanais. Son regard urbain singulier et son acuité sociale hors du commun lui ont permis de signer des œuvres qui ont marqué l'histoire du cinéma mondial : _A Brighter Summer Day_ et _Yi Yi_. Sa caméra, froide et précise comme un scalpel, dissèque la psychologie des citadins contemporains et les structures de la société moderne. On l'a surnommé « l'Antonioni de l'Orient ». En 2000, _Yi Yi_ lui vaut le Prix de la mise en scène au Festival de Cannes — une étape décisive dans la reconnaissance internationale du cinéma de Taïwan.
 
 ## Jeunesse et formation
 
@@ -28,41 +38,41 @@ Installé à Seattle, il travaille comme ingénieur à l'Université de Washingt
 
 En 1981, Edward Yang rentre à Taïwan à un moment où l'industrie cinématographique locale traverse une crise profonde. Avec Hou Hsiao-hsien, Wu Nien-jen, Wan Jen et d'autres, il lance le mouvement du Nouveau Cinéma taïwanais, déterminé à représenter la réalité sociale de l'île avec une honnêteté nouvelle.
 
-En 1982, il réalise le segment *Expectation* du film à sketches *In Our Time* — ses premiers pas derrière la caméra. Avec ses longs plans fixes et sa narration retenue, il y dépeint la psychologie adolescente et pose les jalons de son style inimitable.
+En 1982, il réalise le segment _Expectation_ du film à sketches _In Our Time_ — ses premiers pas derrière la caméra. Avec ses longs plans fixes et sa narration retenue, il y dépeint la psychologie adolescente et pose les jalons de son style inimitable.
 
-En 1983, *That Day, on the Beach* consacre sa place au sein du Nouveau Cinéma. À travers une architecture temporelle complexe, le film explore les impasses affectives de femmes citadines modernes et révèle d'emblée sa sensibilité aiguë à la solitude urbaine.
+En 1983, _That Day, on the Beach_ consacre sa place au sein du Nouveau Cinéma. À travers une architecture temporelle complexe, le film explore les impasses affectives de femmes citadines modernes et révèle d'emblée sa sensibilité aiguë à la solitude urbaine.
 
 ## La trilogie de la maturité urbaine
 
-### *Taipei Story* (1985)
+### _Taipei Story_ (1985)
 
-Premier long métrage entièrement dirigé par Yang, *Taipei Story* raconte l'histoire d'amour d'un couple d'amis d'enfance dans la Taipei contemporaine. En prenant la métropole comme toile de fond, le film interroge l'érosion des sentiments traditionnels sous la pression de la modernité. Yang y déploie une composition visuelle millimétrée et une photographie délibérément distante pour mettre en scène les barrières psychologiques entre les êtres.
+Premier long métrage entièrement dirigé par Yang, _Taipei Story_ raconte l'histoire d'amour d'un couple d'amis d'enfance dans la Taipei contemporaine. En prenant la métropole comme toile de fond, le film interroge l'érosion des sentiments traditionnels sous la pression de la modernité. Yang y déploie une composition visuelle millimétrée et une photographie délibérément distante pour mettre en scène les barrières psychologiques entre les êtres.
 
-### *The Terrorizer* (1986)
+### _The Terrorizer_ (1986)
 
-Considéré comme l'un de ses chefs-d'œuvre, *The Terrorizer* entrelace plusieurs récits pour brosser le portrait de Taipei à travers des fragments de vie de personnages issus de milieux différents. Un faux numéro de téléphone suffit à précipiter plusieurs familles dans la crise, révélant l'isolement et les malentendus qui structurent la vie sociale contemporaine.
+Considéré comme l'un de ses chefs-d'œuvre, _The Terrorizer_ entrelace plusieurs récits pour brosser le portrait de Taipei à travers des fragments de vie de personnages issus de milieux différents. Un faux numéro de téléphone suffit à précipiter plusieurs familles dans la crise, révélant l'isolement et les malentendus qui structurent la vie sociale contemporaine.
 
 Le film remporte le Prix du meilleur scénario original aux 23e Golden Horse Awards et rencontre un accueil international chaleureux, assurant à Yang une reconnaissance dans les cercles du cinéma d'auteur mondial.
 
-### *A Confucian Confusion* (1994)
+### _A Confucian Confusion_ (1994)
 
-*A Confucian Confusion* dresse le portrait des intellectuels taipéiotes dans les années 1990, au lendemain de la levée de la loi martiale, dans une société déboussolée par ses propres mutations. En adoptant une structure chorale, Yang scrute la crise morale et spirituelle de la classe moyenne.
+_A Confucian Confusion_ dresse le portrait des intellectuels taipéiotes dans les années 1990, au lendemain de la levée de la loi martiale, dans une société déboussolée par ses propres mutations. En adoptant une structure chorale, Yang scrute la crise morale et spirituelle de la classe moyenne.
 
-## L'œuvre-mémoire : *A Brighter Summer Day*
+## L'œuvre-mémoire : _A Brighter Summer Day_
 
-Sorti en 1991, *A Brighter Summer Day* est l'une de ses réalisations les plus importantes. Inspiré d'un fait divers réel de 1961, ce film de près de quatre heures reconstitue avec une minutie extraordinaire l'atmosphère sociale de Taipei au début des années 1960 et les tourments de la jeunesse.
+Sorti en 1991, _A Brighter Summer Day_ est l'une de ses réalisations les plus importantes. Inspiré d'un fait divers réel de 1961, ce film de près de quatre heures reconstitue avec une minutie extraordinaire l'atmosphère sociale de Taipei au début des années 1960 et les tourments de la jeunesse.
 
 L'histoire se déroule sous la Terreur Blanche : à travers un meurtre commis par un lycéen, le film expose l'oppression sociale et les distorsions humaines engendrées par le régime autoritaire. Avec une ambition épique, Yang reconstruit la mémoire collective d'une époque et signe l'une des œuvres les plus célébrées de l'histoire du cinéma taïwanais.
 
-Le film remporte plusieurs récompenses aux 28e Golden Horse Awards, dont le Prix du meilleur scénario original et celui du meilleur second rôle masculin. Les *Cahiers du cinéma* le classent parmi les meilleurs films des années 1990.
+Le film remporte plusieurs récompenses aux 28e Golden Horse Awards, dont le Prix du meilleur scénario original et celui du meilleur second rôle masculin. Les _Cahiers du cinéma_ le classent parmi les meilleurs films des années 1990.
 
-## La consécration à Cannes : *Yi Yi*
+## La consécration à Cannes : _Yi Yi_
 
-*Yi Yi* (2000) est le dernier long métrage d'Edward Yang et, à bien des égards, son œuvre aboutie. Le film suit une famille de la classe moyenne taipéiote sur trois générations, interrogeant la quête d'identité des individus pris entre tradition et modernité, entre culture orientale et occidentale.
+_Yi Yi_ (2000) est le dernier long métrage d'Edward Yang et, à bien des égards, son œuvre aboutie. Le film suit une famille de la classe moyenne taipéiote sur trois générations, interrogeant la quête d'identité des individus pris entre tradition et modernité, entre culture orientale et occidentale.
 
 La structure du récit est d'une précision horlogère : chaque personnage dispose de son propre arc narratif, et c'est à travers les détails du quotidien que se dessine le paysage culturel de Taïwan en cette période de transition. Yang pose sur ses personnages un regard à la fois tendre et lucide, attentif aux interrogations existentielles de chaque tranche d'âge.
 
-*Yi Yi* obtient le Prix de la mise en scène au 53e Festival de Cannes — une première pour un réalisateur taïwanais dans les trois grands prix du festival. Le film reçoit également le Prix du meilleur film en langue étrangère décerné par la New York Film Critics Circle, parmi de nombreuses autres distinctions internationales.
+_Yi Yi_ obtient le Prix de la mise en scène au 53e Festival de Cannes — une première pour un réalisateur taïwanais dans les trois grands prix du festival. Le film reçoit également le Prix du meilleur film en langue étrangère décerné par la New York Film Critics Circle, parmi de nombreuses autres distinctions internationales.
 
 ## Esthétique et conception du cinéma
 
@@ -83,5 +93,5 @@ Aux côtés de Hou Hsiao-hsien et Ang Lee, Edward Yang est considéré comme l'u
 ## Références
 
 - [Edward Yang — Taiwan Cinema Database](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12441) — Base de données officielle du cinéma taïwanais
-- [53e Festival de Cannes — Festival de Cannes](https://www.festival-cannes.com/en/editions/2000) — Palmarès de *Yi Yi*
+- [53e Festival de Cannes — Festival de Cannes](https://www.festival-cannes.com/en/editions/2000) — Palmarès de _Yi Yi_
 - [Archives du Nouveau Cinéma taïwanais — Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/) — Contexte historique du mouvement

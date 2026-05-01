@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Technology/台灣太空產業發展.md'
 lastVerified: 2026-03-29
+sourceCommitSha: '429d3cf0'
+sourceContentHash: 'sha256:6d36d0208e7a562f'
+translatedAt: '2026-04-14T06:57:58+08:00'
 ---
 
 # 대만 우주산업 발전: 위성 제조 강국, 그러나 자체 로켓은 없다

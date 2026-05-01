@@ -1,10 +1,23 @@
 ---
-title: "Audrey Tang"
-description: "Primera ministra de gabinete transgénero del mundo y pionera practicante del gobierno abierto y la democracia digital"
+title: 'Audrey Tang'
+description: 'Primera ministra de gabinete transgénero del mundo y pionera practicante del gobierno abierto y la democracia digital'
 date: 2026-03-17
-tags: [personas, Audrey Tang, desarrollo digital, g0v, transgénero, programación, gobierno abierto, vTaiwan]
-translatedFrom: "People/唐鳳.md"
-sourceHash: "de5ca5"
+tags:
+  [
+    personas,
+    Audrey Tang,
+    desarrollo digital,
+    g0v,
+    transgénero,
+    programación,
+    gobierno abierto,
+    vTaiwan,
+  ]
+translatedFrom: 'People/唐鳳.md'
+sourceHash: 'de5ca5'
+sourceCommitSha: 'fa3481d6'
+sourceContentHash: 'sha256:a082c7ac24170454'
+translatedAt: '2026-03-22T11:26:22+08:00'
 ---
 
 # Audrey Tang
@@ -229,7 +242,8 @@ A través de su trabajo, Audrey Tang ha mostrado que la intersección de tecnolo
 
 ---
 
-*Referencias:*
+_Referencias:_
+
 - Registros oficiales del Ministerio de Asuntos Digitales
 - Documentación y archivos de proyectos de la comunidad g0v
 - Conferencias internacionales y entrevistas

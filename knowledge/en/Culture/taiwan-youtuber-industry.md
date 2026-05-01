@@ -10,6 +10,9 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4e725951b40f47ce'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-Second Overview:** In March 2024, Taiwanese magic YouTuber "Chi Hsuan Tricking" became Taiwan's first creator to reach 10 million subscribers, marking Taiwan's YouTube culture evolution from Tsai A-Ga's pro-Taiwan videos in 2008 to an internationally competitive content platform. YouTube reaches over 90% of Taiwan's 18+ audience, while creators earn only 20-40% from ad revenue, relying mainly on brand partnerships, with VTuber industry emerging as a new force.

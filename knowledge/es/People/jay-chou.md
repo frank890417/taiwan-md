@@ -1,10 +1,14 @@
 ---
-title: "Jay Chou"
-description: "Rey del pop mandarín - el creador revolucionario que redefinió la música pop asiática con R&B de estilo chino"
+title: 'Jay Chou'
+description: 'Rey del pop mandarín - el creador revolucionario que redefinió la música pop asiática con R&B de estilo chino'
 date: 2026-03-17
-tags: [people, Jay Chou, música pop mandarín, cantante, creación, R&B, estilo chino]
-translatedFrom: "People/周杰倫.md"
-sourceHash: "6167b8"
+tags:
+  [people, Jay Chou, música pop mandarín, cantante, creación, R&B, estilo chino]
+translatedFrom: 'People/周杰倫.md'
+sourceHash: '6167b8'
+sourceCommitSha: 'b88d3899'
+sourceContentHash: 'sha256:429e6c1fb55123cd'
+translatedAt: '2026-03-22T11:26:22+08:00'
 ---
 
 # Jay Chou (周杰倫)
@@ -40,6 +44,7 @@ Jay mostró un talento musical excepcional desde la infancia, no solo tocando bi
 En noviembre de 2000, el álbum debut de Jay Chou "Jay" fue lanzado, causando inmediatamente una revolución en la escena musical mandarín. El álbum combinó R&B, hip-hop, música clásica y elementos chinos, creando un estilo musical sin precedentes.
 
 **Innovación musical:**
+
 - **"Adorable Woman"**: Mostró su estilo vocal R&B y habilidades de rap
 - **"Perfectionism"**: Combinó piano clásico con ritmos modernos
 - **"Tornado"**: Filosofía de artes marciales oriental se encuentra con hip-hop occidental
@@ -145,7 +150,8 @@ El legado de Jay Chou es la prueba de que la expresión artística auténtica, c
 
 ---
 
-*Referencias:*
+_Referencias:_
+
 - Registros oficiales de JVR Music
 - Archivos de Golden Melody Awards
 - Publicaciones de la industria musical y entrevistas

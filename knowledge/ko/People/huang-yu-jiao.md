@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 translatedFrom: 'People/黃玉嬌.md'
+sourceCommitSha: 'a9bade27'
+sourceContentHash: 'sha256:cac2434cbb03924f'
+translatedAt: '2026-04-15T17:32:28+08:00'
 ---
 
 # 황위자오: 17년을 기다린 여성 정치인

@@ -11,7 +11,10 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
 imageAlt: 'Galette aux œufs taïwanaise'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: 'Food/台灣早餐文化.md'
+translatedFrom: "Food/台灣早餐文化.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:dd384a5d10cf3ad6"
+translatedAt: "2026-04-14T12:29:04+08:00"
 ---
 
 # La culture du petit-déjeuner à Taïwan

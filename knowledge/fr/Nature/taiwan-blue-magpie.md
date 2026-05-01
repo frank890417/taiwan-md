@@ -2,7 +2,14 @@
 title: 'La pie bleue de Taïwan : le gang azur des forêts de montagne'
 description: "Aussi resplendissante qu'un joyau, cette espèce endémique de Taïwan cache sous ses plumes une vie sociale d'une redoutable intensité — instinct de protection du nid, hiérarchie familiale et solidarité de clan."
 date: 2026-03-23
-tags: ['espèce endémique', 'espèce protégée', 'oiseaux', 'écologie', 'longue-queue des montagnes']
+tags:
+  [
+    'espèce endémique',
+    'espèce protégée',
+    'oiseaux',
+    'écologie',
+    'longue-queue des montagnes',
+  ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -10,15 +17,18 @@ featured: false
 lastVerified: 2026-03-23
 readingTime: 8
 translatedFrom: 'Nature/台灣藍鵲.md'
+sourceCommitSha: 'a1e11b6b'
+sourceContentHash: 'sha256:f6980fbd5d5b1fa0'
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 > **En 30 secondes :**
-> La pie bleue de Taïwan (*Urocissa caerulea*) est l'une des espèces endémiques les plus emblématiques de l'île, célèbre pour sa longue queue et son plumage d'un bleu profond et intense.
+> La pie bleue de Taïwan (_Urocissa caerulea_) est l'une des espèces endémiques les plus emblématiques de l'île, célèbre pour sa longue queue et son plumage d'un bleu profond et intense.
 > Mais ne vous laissez pas séduire par ses couleurs : c'est un oiseau au tempérament farouche et à la vie sociale très structurée. Son système de « helpers au nid » — où les aînés restent pour élever leurs cadets — est unique, et ses attaques coordonnées contre les intrus lui ont valu le surnom de « gang azur » des forêts taïwanaises.
 
 ## La « Dame à longue queue » dans les textes anciens
 
-Dès le XVIIIe siècle, l'érudit de l'époque Qing Dong Tiangong en faisait déjà une description saisissante dans ses *Notes sur la mer de Taïwan* :
+Dès le XVIIIe siècle, l'érudit de l'époque Qing Dong Tiangong en faisait déjà une description saisissante dans ses _Notes sur la mer de Taïwan_ :
 
 > « La Dame à trois queues : bec vermillon, ailes vert-jade, dos brun, couleurs qui s'entremêlent et brillent, queue longue d'un pied, vit dans les montagnes profondes de Zhuoluo et Zhanghua. »
 
@@ -44,7 +54,7 @@ Par ailleurs, à mesure que les espaces verts urbains se développent, cet oisea
 
 ## État de conservation et menace invisible
 
-Actuellement classée en « troisième catégorie des espèces sauvages à protéger », la pie bleue de Taïwan jouit d'une population relativement stable. Pourtant, elle fait face à une menace silencieuse : **l'hybridation avec la pie à bec rouge** (*Urocissa erythroryncha*).
+Actuellement classée en « troisième catégorie des espèces sauvages à protéger », la pie bleue de Taïwan jouit d'une population relativement stable. Pourtant, elle fait face à une menace silencieuse : **l'hybridation avec la pie à bec rouge** (_Urocissa erythroryncha_).
 
 Originaire de Chine continentale et d'Asie du Sud-Est, cette espèce proche est arrivée à Taïwan par le biais d'individus relâchés ou échappés de captivité. Les deux espèces étant génétiquement très proches, leurs croisements risquent de diluer le patrimoine génétique de la pie bleue endémique. Le Bureau des forêts et plusieurs associations de conservation surveillent étroitement le phénomène pour préserver l'intégrité génétique de ce « joyau des forêts ».
 
@@ -52,12 +62,12 @@ Originaire de Chine continentale et d'Asie du Sud-Est, cette espèce proche est 
 
 ### Données et vérifications
 
-| Critère | Détail |
-|---|---|
-| Endémisme | 100 % endémique à Taïwan |
-| Longueur totale | Environ 64–65 cm, dont ~40 cm de queue |
+| Critère            | Détail                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------ |
+| Endémisme          | 100 % endémique à Taïwan                                                                               |
+| Longueur totale    | Environ 64–65 cm, dont ~40 cm de queue                                                                 |
 | Régime alimentaire | Omnivore ; pratique la mise en cache des aliments (dissimule des réserves dans les crevasses d'arbres) |
-| Structure sociale | Groupes familiaux de 6 à 12 individus |
+| Structure sociale  | Groupes familiaux de 6 à 12 individus                                                                  |
 
 **Pour aller plus loin :**
 
@@ -69,4 +79,4 @@ Robert Swinhoe — en 1862, ce naturaliste britannique collecta des spécimens d
 2. [Bureau des forêts et de la conservation de la nature, MOEA : Liste des espèces sauvages protégées](https://www.forest.gov.tw/)
 3. [Birdsoftheworld.org: Taiwan Blue-Magpie (Urocissa caerulea)](https://birdsoftheworld.org/bow/species/formag1/cur/introduction)
 4. [Rhythms Monthly : La pie à bec rouge, rivale de la pie bleue endémique de Taïwan](https://www.rhythmsmonthly.com/?p=8021)
-5. Dong Tiangong, *Notes sur la mer de Taïwan* (document de l'époque Qing).
+5. Dong Tiangong, _Notes sur la mer de Taïwan_ (document de l'époque Qing).

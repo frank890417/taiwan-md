@@ -12,7 +12,10 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.jpg'
 imageAlt: 'Bubble tea classique'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: 'Food/珍珠奶茶.md'
+translatedFrom: "Food/珍珠奶茶.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:95857cbd0268032d"
+translatedAt: "2026-04-14T12:29:04+08:00"
 ---
 
 # Le bubble tea

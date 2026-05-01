@@ -13,6 +13,9 @@ translatedFrom: 'Food/台灣眷村菜.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
 imageAlt: '파기름 전병'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9da552eaab0e9bd8'
+translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 
 # 대만 쥐안춘 요리

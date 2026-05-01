@@ -2,7 +2,15 @@
 title: "L'écosystème startup de Taïwan"
 description: "L'évolution de l'écosystème startup taïwanais, depuis ses premiers défis jusqu'à l'émergence d'accélérateurs, d'investisseurs en capital-risque et d'une course aux licornes"
 date: 2026-03-18
-tags: ['startup', 'entrepreneuriat', 'capital-risque', 'accélérateur', 'AppWorks', 'licorne']
+tags:
+  [
+    'startup',
+    'entrepreneuriat',
+    'capital-risque',
+    'accélérateur',
+    'AppWorks',
+    'licorne',
+  ]
 subcategory: 'Économie des startups'
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +20,9 @@ featured: true
 translatedFrom: 'Economy/新創生態系.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:8818217b96aa8dda'
+translatedAt: '2026-04-14T19:21:51+08:00'
 ---
 
 # L'écosystème startup de Taïwan
@@ -234,4 +245,5 @@ Dans un monde où l'IA, le Web3 et le développement durable avancent à marche 
 ---
 
 _Pour aller plus loin :_
+
 - Le miracle économique taïwanais

@@ -7,6 +7,9 @@ subcategory: '예술 및 디자인'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/李國修.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7e394b3479d9d206'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 리궈슈: 대만 희극의 왕

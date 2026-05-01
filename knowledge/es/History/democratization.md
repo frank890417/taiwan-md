@@ -4,6 +4,9 @@ date: 2026-03-17
 tags: [Historia, Democratización, Política]
 description: 'La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios.'
 translatedFrom: 'History/民主化.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:df748c5bdb5127e1'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Democratización de Taiwán

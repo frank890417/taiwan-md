@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
-translatedFrom: 'People/朱經武.md'
+translatedFrom: "People/朱經武.md"
 lastVerified: 2026-03-19
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:9903e2c37b2cac97"
+translatedAt: "2026-04-14T19:15:26+08:00"
 ---
 
 # Chu Ching-Wu : pionnier de la supraconductivité à haute température

@@ -9,12 +9,15 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
-translatedFrom: 'People/郁永河.md'
+translatedFrom: "People/郁永河.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:4070459913f1808f"
+translatedAt: "2026-04-14T19:19:05+08:00"
 ---
 
 # Yu Yonghe — Le lettré de Hangzhou au bout du monde
 
-> **En 30 secondes :** En 1697, un lettré originaire du Zhejiang se porta volontaire pour traverser la mer et rejoindre Taïwan afin d'y collecter du soufre pour le compte des autorités du Fujian. Il parcourut l'île depuis Tainan jusqu'à Beitou, traversant la plaine occidentale entière et une dizaine de villages de peuples autochtones. Neuf mois plus tard, il repartait avec son soufre — et un livre. Ce livre s'intitule *Pihai Jiyou* (« Notes de voyage au-delà des mers »), et il reste à ce jour le témoignage le plus précieux sur le nord de Taïwan à l'époque Qing.
+> **En 30 secondes :** En 1697, un lettré originaire du Zhejiang se porta volontaire pour traverser la mer et rejoindre Taïwan afin d'y collecter du soufre pour le compte des autorités du Fujian. Il parcourut l'île depuis Tainan jusqu'à Beitou, traversant la plaine occidentale entière et une dizaine de villages de peuples autochtones. Neuf mois plus tard, il repartait avec son soufre — et un livre. Ce livre s'intitule _Pihai Jiyou_ (« Notes de voyage au-delà des mers »), et il reste à ce jour le témoignage le plus précieux sur le nord de Taïwan à l'époque Qing.
 
 Sous le règne de l'empereur Kangxi, Taïwan était, pour la plupart des fonctionnaires chinois, un endroit à fuir coûte que coûte. Fièvres tropicales, malaria, raids des « barbares sauvages » — rien que le nom faisait reculer les plus courageux. Et pourtant, un lettré non seulement choisit d'y aller, mais rédigea en chemin un journal de voyage.
 
@@ -30,7 +33,7 @@ C'est alors que Yu Yonghe, conseiller de Wang, prit la parole : « J'y vais. »
 
 ## Un goût rare pour l'aventure
 
-Yu Yonghe, de style Canglang, était originaire du comté de Renhe dans le Zhejiang (aujourd'hui le nord de Hangzhou). Né en 1645, il avait le statut de *zhusheng* — autrement dit, il avait réussi l'examen du *xiucai* mais n'avait pas poursuivi plus haut. Depuis 1691, il servait comme conseiller administratif auprès du préfet de Fuzhou.
+Yu Yonghe, de style Canglang, était originaire du comté de Renhe dans le Zhejiang (aujourd'hui le nord de Hangzhou). Né en 1645, il avait le statut de _zhusheng_ — autrement dit, il avait réussi l'examen du _xiucai_ mais n'avait pas poursuivi plus haut. Depuis 1691, il servait comme conseiller administratif auprès du préfet de Fuzhou.
 
 Mais Yu Yonghe avait une passion rare chez les lettrés de son époque : le voyage. Durant son séjour au Fujian, il avait déjà parcouru la province en tous sens. Quand l'affaire du soufre de Taïwan se présenta, là où tout le monde voyait un calvaire, lui voyait une occasion rêvée d'explorer l'île.
 
@@ -52,11 +55,11 @@ Il n'en tint aucun compte. Il organisa le départ en deux groupes : par mer, son
 
 Le 7 avril, Yu Yonghe part de Tainan. Le périple de vingt jours qui suivit constitue le récit de terrain le plus complet de la plaine occidentale de Taïwan en 1697.
 
-Son itinéraire : il traverse le fleuve Dazhou, passe par les villages de Xingang, Jialiu'an, Madou ; franchit les cours d'eau de Maogangwei et de Tieqiaoxiao, traversant le village de Daoluoguo ; remonte de nuit les rivières Jishui et Bazhang pour atteindre Zhuluoshan (aujourd'hui Chiayi) ; puis, village après village, franchit les rivières Huiwei, Xiluo, Dongluo, traverse les localités de Baxian, Banxian (aujourd'hui Changhua), Daduzi, Daluo, Niuma (aujourd'hui Qingshui) ; continue par Dajia, Tunxiao, Xinganzi, Houlong, Zhonggang, Zhuzhan (aujourd'hui Hsinchu), Nankan (aujourd'hui Nankan) et Balifer. Il embarque ensuite sur un *bangka* — une pirogue des peuples autochtones — pour traverser vers le village de Danshui, remonte le fleuve jusqu'à Gandamen (aujourd'hui Guandu), et parvient enfin au village de Mashaoweng (aujourd'hui Tianmu et Beitou). Le 27 avril, après vingt jours de marche, la grande traversée de l'ouest est achevée.
+Son itinéraire : il traverse le fleuve Dazhou, passe par les villages de Xingang, Jialiu'an, Madou ; franchit les cours d'eau de Maogangwei et de Tieqiaoxiao, traversant le village de Daoluoguo ; remonte de nuit les rivières Jishui et Bazhang pour atteindre Zhuluoshan (aujourd'hui Chiayi) ; puis, village après village, franchit les rivières Huiwei, Xiluo, Dongluo, traverse les localités de Baxian, Banxian (aujourd'hui Changhua), Daduzi, Daluo, Niuma (aujourd'hui Qingshui) ; continue par Dajia, Tunxiao, Xinganzi, Houlong, Zhonggang, Zhuzhan (aujourd'hui Hsinchu), Nankan (aujourd'hui Nankan) et Balifer. Il embarque ensuite sur un _bangka_ — une pirogue des peuples autochtones — pour traverser vers le village de Danshui, remonte le fleuve jusqu'à Gandamen (aujourd'hui Guandu), et parvient enfin au village de Mashaoweng (aujourd'hui Tianmu et Beitou). Le 27 avril, après vingt jours de marche, la grande traversée de l'ouest est achevée.
 
 Les observations qu'il consigna sont saisissantes.
 
-De Zhuzhan à Nankan — soit quatre-vingts à quatre-vingt-dix *li* de route — il ne vit « ni une âme, ni une maison ». Le nord de Taïwan était alors presque entièrement désert.
+De Zhuzhan à Nankan — soit quatre-vingts à quatre-vingt-dix _li_ de route — il ne vit « ni une âme, ni une maison ». Le nord de Taïwan était alors presque entièrement désert.
 
 Le paysage de la plaine dépassait tout ce qu'il avait imaginé : « À perte de vue, des herbes vigoureuses. Les plus hautes recouvraient la tête, les plus basses cachaient les épaules. Le chariot roulait au milieu comme au fond d'un abîme. Les herbes coupaient le visage et le cou ; moustiques et mouches s'acharnaient sur la peau comme des faucons affamés, impossibles à chasser. »
 
@@ -80,7 +83,7 @@ Le travail dura plusieurs mois. Des ouvriers moururent de maladie, les vivres ma
 
 Près du village de Niuma (aujourd'hui Qingshui), des pluies torrentielles clouèrent le groupe sur place. De sa chambre, Yu Yonghe vit les peuples autochtones qui portaient ses bagages, dormant à même la boue sous la pluie. Pris de compassion, il demanda à son interprète de les autoriser à s'abriter sous les avant-toits. Réponse de l'interprète : « C'est leur habitude. »
 
-Dans le *Pihai Jiyou*, Yu Yonghe s'arrêta sur ce moment et écrivit quatre caractères : « Yì rén yě » — *Ce sont aussi des hommes.*
+Dans le _Pihai Jiyou_, Yu Yonghe s'arrêta sur ce moment et écrivit quatre caractères : « Yì rén yě » — _Ce sont aussi des hommes._
 
 Ces quatre caractères constituent, à ce jour, la plus ancienne trace connue d'une réflexion autocritique d'un Han sur la condition des peuples autochtones. En 1697, dans un Empire Qing qui les regardait comme des « gens hors de la civilisation », un lettré de Hangzhou posa cela sur le papier.
 
@@ -94,7 +97,7 @@ Cette hypothèse reste débattue. Certains chercheurs s'appuient sur les descrip
 
 ## Bien plus qu'un journal de voyage
 
-En 1698, Yu Yonghe rédigea à partir de ses neuf mois d'expérience le *Pihai Jiyou* (également connu sous le titre *Caihuang Riji*, « Journal de la collecte du soufre »), divisé en trois volumes. Le premier retrace le voyage maritime de Fuzhou à Tainan, et se conclut par douze poèmes en vers de bambou sur Taïwan. Le second couvre les préparatifs, la grande traversée de l'ouest et l'extraction à Beitou. Le troisième offre une analyse de la géographie, des mœurs et des coutumes de l'île, et se termine par vingt-quatre poèmes en vers de bambou consacrés aux peuples autochtones.
+En 1698, Yu Yonghe rédigea à partir de ses neuf mois d'expérience le _Pihai Jiyou_ (également connu sous le titre _Caihuang Riji_, « Journal de la collecte du soufre »), divisé en trois volumes. Le premier retrace le voyage maritime de Fuzhou à Tainan, et se conclut par douze poèmes en vers de bambou sur Taïwan. Le second couvre les préparatifs, la grande traversée de l'ouest et l'extraction à Beitou. Le troisième offre une analyse de la géographie, des mœurs et des coutumes de l'île, et se termine par vingt-quatre poèmes en vers de bambou consacrés aux peuples autochtones.
 
 La valeur de cet ouvrage dépasse de loin celle d'un simple carnet de voyage.
 
@@ -102,30 +105,30 @@ Le chercheur Huang Wende a noté que Yu Yonghe, « contrairement aux lettrés ch
 
 Ses vingt-quatre poèmes sur les peuples autochtones ne sont pas un regard de surplomb, mais une observation nourrie de curiosité et de respect.
 
-En dehors du *Pihai Jiyou*, Yu Yonghe a également laissé *Fanjing Buyi*, *Haishang Jilüe*, *Wei Zheng Yishi* et *Yunei Xingshi*, mais c'est son récit taïwanais qui exerce l'influence la plus durable.
+En dehors du _Pihai Jiyou_, Yu Yonghe a également laissé _Fanjing Buyi_, _Haishang Jilüe_, _Wei Zheng Yishi_ et _Yunei Xingshi_, mais c'est son récit taïwanais qui exerce l'influence la plus durable.
 
 ## Trois cents ans d'échos
 
-Aujourd'hui, vous pouvez trouver une stèle gravée d'extraits du *Pihai Jiyou* dans la Vallée du Dragon et du Phénix à Beitou. À dix minutes à pied de l'endroit où Yu Yonghe extrayait son soufre commence le quartier thermal de Beitou — les vapeurs soufrées qui lui empoisonnèrent la vie sont devenues la promesse de relaxation du week-end pour les habitants de Taipei.
+Aujourd'hui, vous pouvez trouver une stèle gravée d'extraits du _Pihai Jiyou_ dans la Vallée du Dragon et du Phénix à Beitou. À dix minutes à pied de l'endroit où Yu Yonghe extrayait son soufre commence le quartier thermal de Beitou — les vapeurs soufrées qui lui empoisonnèrent la vie sont devenues la promesse de relaxation du week-end pour les habitants de Taipei.
 
 L'itinéraire de sa grande traversée de l'ouest longe grosso modo l'actuelle Route nationale 1. La zone entre Zhuzhan et Nankan, jadis « sans une âme ni une maison », abrite aujourd'hui le Parc scientifique de Hsinchu et l'aéroport international Taoyuan. Sur la plaine où les herbes dépassaient les épaules se dressent les usines de wafers de TSMC.
 
-En 1979, l'écrivain Chiang Hsun et Yao Mengjia, directeur artistique du magazine *Echo*, partirent avec un exemplaire du *Pihai Jiyou* pour refaire l'intégralité du trajet de Yu Yonghe, en prenant bus après bus, exactement sur le tracé décrit dans le livre. Quarante-huit ans plus tard, en 2026, Chiang Hsun republia ce récit à l'occasion du trentième anniversaire de la mort de Yao Mengjia. Il écrivit : « Certains spectacles des vallées soufrées, dans leur beauté explosive, ressemblent encore beaucoup à ce que Yu Yonghe décrivait il y a trois cents ans. »
+En 1979, l'écrivain Chiang Hsun et Yao Mengjia, directeur artistique du magazine _Echo_, partirent avec un exemplaire du _Pihai Jiyou_ pour refaire l'intégralité du trajet de Yu Yonghe, en prenant bus après bus, exactement sur le tracé décrit dans le livre. Quarante-huit ans plus tard, en 2026, Chiang Hsun republia ce récit à l'occasion du trentième anniversaire de la mort de Yao Mengjia. Il écrivit : « Certains spectacles des vallées soufrées, dans leur beauté explosive, ressemblent encore beaucoup à ce que Yu Yonghe décrivait il y a trois cents ans. »
 
-En 2001, Lu Chuanjie publia une édition savante annotée du texte. En 2004, Yang Hezhi le réinterpréta sous le titre *Rencontrer Taïwan il y a trois cents ans* (éditions Yuanshen). En 2019, Xu Yizhen s'inspira de l'histoire de Yu Yonghe pour écrire le roman *Le Lac de Taïpei sous Kangxi*.
+En 2001, Lu Chuanjie publia une édition savante annotée du texte. En 2004, Yang Hezhi le réinterpréta sous le titre _Rencontrer Taïwan il y a trois cents ans_ (éditions Yuanshen). En 2019, Xu Yizhen s'inspira de l'histoire de Yu Yonghe pour écrire le roman _Le Lac de Taïpei sous Kangxi_.
 
 Le journal de neuf mois d'un lettré de Hangzhou est devenu la fenêtre la plus précieuse sur ce qu'était cette île il y a trois cents ans.
 
-> ✦ « De Zhuzhan à Nankan, sur quatre-vingts à quatre-vingt-dix *li*, pas une âme, pas une maison. »
+> ✦ « De Zhuzhan à Nankan, sur quatre-vingts à quatre-vingt-dix _li_, pas une âme, pas une maison. »
 
 ## Références
 
 - [Yu Yonghe — Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E9%83%81%E6%B0%B8%E6%B2%B3)
 - [Pihai Jiyou — Wikipédia (zh)](https://zh.wikipedia.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)
-- Song Zelai, « Évaluation du *Pihai Jiyou* de Yu Yonghe et l'ère légendaire de la littérature taïwanaise », *Bulletin d'études taïwanaises*, n° 1, octobre 2006
-- Yang Hezhi, *Rencontrer Taïwan il y a trois cents ans : Pihai Jiyou*, éditions Yuanshen, 2004
-- Lu Chuanjie, *Nouvelle annotation du Pihai Jiyou*, éditions Dadi Dili, 2001
-- Huang Wende, « *Pihai Jiyou* de Yu Yonghe : de l'exploration naturelle et humaine de Taïwan à l'ajustement identitaire », Bibliothèque nationale
-- Yang Yunping, *Personnages de l'histoire de Taïwan*, éditions Chengwen, 1981
-- Chiang Hsun, « Refaire le chemin : la grande traversée taïwanaise de Yu Yonghe, trois cents ans après », supplément du *United Daily News*, [30 janvier 2026](https://paper.udn.com/udnpaper/PIC0004/2001356/web/)
-- [Texte intégral du *Pihai Jiyou* — Taiwan Wenxian Congkan, n° 044](https://zh.wikisource.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)
+- Song Zelai, « Évaluation du _Pihai Jiyou_ de Yu Yonghe et l'ère légendaire de la littérature taïwanaise », _Bulletin d'études taïwanaises_, n° 1, octobre 2006
+- Yang Hezhi, _Rencontrer Taïwan il y a trois cents ans : Pihai Jiyou_, éditions Yuanshen, 2004
+- Lu Chuanjie, _Nouvelle annotation du Pihai Jiyou_, éditions Dadi Dili, 2001
+- Huang Wende, « _Pihai Jiyou_ de Yu Yonghe : de l'exploration naturelle et humaine de Taïwan à l'ajustement identitaire », Bibliothèque nationale
+- Yang Yunping, _Personnages de l'histoire de Taïwan_, éditions Chengwen, 1981
+- Chiang Hsun, « Refaire le chemin : la grande traversée taïwanaise de Yu Yonghe, trois cents ans après », supplément du _United Daily News_, [30 janvier 2026](https://paper.udn.com/udnpaper/PIC0004/2001356/web/)
+- [Texte intégral du _Pihai Jiyou_ — Taiwan Wenxian Congkan, n° 044](https://zh.wikisource.org/wiki/%E8%A3%A8%E6%B5%B7%E7%B4%80%E9%81%8A)

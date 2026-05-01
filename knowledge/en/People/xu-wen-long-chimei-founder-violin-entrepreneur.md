@@ -13,6 +13,9 @@ tags:
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-19
 translatedFrom: 'People/許文龍.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:73deed1e850fca3f'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Xu Wen-Long: Music and Business in Perfect Duet

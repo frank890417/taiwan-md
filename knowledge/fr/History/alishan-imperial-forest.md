@@ -20,6 +20,9 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: true
 translatedFrom: 'History/阿里山：帝國的林場與高一生的山.md'
+sourceCommitSha: 'a9bade27'
+sourceContentHash: 'sha256:e62d0eea59514d87'
+translatedAt: '2026-04-14T12:32:06+08:00'
 ---
 
 > **En 30 secondes :** La plupart des visiteurs connaissent Alishan pour ses levers de soleil. Peu savent que le 17 avril 1954, à 14h30, Kao I-sheng — premier maire du district d'Alishan, élite intellectuelle du peuple Tsou que l'on surnommait « le Nietzsche d'Alishan » — a été fusillé dans la cour d'exécution d'Ankeng à Xindian. Trente-cinq ans plus tôt, sur cette même montagne, le forestier japonais Kawai Tetsutarō était revenu sur les lieux de ses propres travaux pour n'y trouver que des souches : il avait écrit un poème de repentir. L'âme d'Alishan ne réside ni dans ses cèdres sacrés, ni dans ses aurores, ni dans ses cerisiers. Elle vit dans cette double mémoire que deux empires ont, l'un après l'autre, tenté d'effacer.
@@ -47,7 +50,7 @@ L'exploitation d'après-guerre a été bien plus intense encore. Entre 1946 et 1
 
 Né le 5 juillet 1908 dans le village de Jibu, sur les hauteurs d'Alishan, Kao I-sheng porte en langue tsou le nom de 'Uongʉ'e Yata'uyungana[^6]. En 1924, il entre à l'École normale de Tainan, où il apprend le piano, compose de la musique, et lit Nietzsche — c'est de là que vient son surnom[^6] [^7].
 
-Il n'est pas seulement musicien. Il compose des chansons comme *Chant de chasse*, *La fée du printemps Saohime*, *La montagne du coucou* ou *Chant de l'ascension du Yushan*, mettant en musique le monde tsou dans sa propre langue[^6]. Il enseigne le japonais, la musique, exerce comme agent de patrouille. Quand les Japonais partent en 1945, il devient le premier maire du district de Wufeng — rebaptisé depuis district d'Alishan[^6]. Sa femme, Yukukawa Haruko (nom sinisé : Gao Chunfang, 1913–1999), lui donne onze enfants. Leur fille aînée, Gao Juhua, devra subvenir aux besoins de la famille sous le nom de scène « Paynayan » dans les cabarets de Taipei[^6].
+Il n'est pas seulement musicien. Il compose des chansons comme _Chant de chasse_, _La fée du printemps Saohime_, _La montagne du coucou_ ou _Chant de l'ascension du Yushan_, mettant en musique le monde tsou dans sa propre langue[^6]. Il enseigne le japonais, la musique, exerce comme agent de patrouille. Quand les Japonais partent en 1945, il devient le premier maire du district de Wufeng — rebaptisé depuis district d'Alishan[^6]. Sa femme, Yukukawa Haruko (nom sinisé : Gao Chunfang, 1913–1999), lui donne onze enfants. Leur fille aînée, Gao Juhua, devra subvenir aux besoins de la famille sous le nom de scène « Paynayan » dans les cabarets de Taipei[^6].
 
 Après l'incident du 28 février 1947, il recueille des mainlandais en fuite — ce geste de bonté deviendra plus tard l'une des charges retenues contre lui. Il milite aussi pour l'autonomie du peuple Tsou, rêve d'un comté autochtone autogouverné[^6] [^8]. Aux yeux du gouvernement nationaliste du début des années 1950, tout cela ressemble à une rébellion.
 
@@ -69,7 +72,7 @@ La Terreur blanche a laissé deux plaies dans les villages tsou.
 
 La première est la disparition de toute une élite. Les intellectuels tsou et atayal exécutés ou emprisonnés pendant des années dans les années 1950 ont privé ces sociétés d'une génération entière de dirigeants[^7] [^8].
 
-La seconde est plus insidieuse : la terreur a imposé le silence à de nombreux villageois. Certaines femmes tsou se sont même retrouvées contraintes d'épouser des militaires mainlandais pour se protéger, ou pour protéger leurs proches. Dans des entretiens accordés au magazine *The Reporter*, des témoins ont décrit cette situation comme « une sorte de prise d'otage »[^8]. Cette mémoire est devenue un tabou dans les villages, que l'on commence seulement à déterrer aujourd'hui.
+La seconde est plus insidieuse : la terreur a imposé le silence à de nombreux villageois. Certaines femmes tsou se sont même retrouvées contraintes d'épouser des militaires mainlandais pour se protéger, ou pour protéger leurs proches. Dans des entretiens accordés au magazine _The Reporter_, des témoins ont décrit cette situation comme « une sorte de prise d'otage »[^8]. Cette mémoire est devenue un tabou dans les villages, que l'on commence seulement à déterrer aujourd'hui.
 
 C'est là le paradoxe le plus saisissant d'Alishan en tant que destination touristique : les visiteurs empruntent le chemin de fer forestier que les Japonais ont construit, ils viennent admirer les cerisiers et les cèdres sacrés — mais la terre sous leurs pieds a englouti six corps dans les années 1950. Le 17 avril 2021, soit le 67e anniversaire de l'exécution de Kao I-sheng, un mémorial aux victimes autochtones de la Terreur blanche a été inauguré sur les pentes d'Alishan[^11].
 
@@ -103,9 +106,9 @@ Alishan n'est pas une montagne. C'est un livre d'histoire qu'on n'a pas encore t
 
 [^3]: [Les Japonais qui ont changé Taïwan : Kawai Tetsutarō, le fondateur du chemin de fer d'Alishan | Nippon.com](https://www.nippon.com/hk/japan-topics/g02087/) — Chronologie détaillée, du point de vue japonais officiel, des cinq missions de Kawai à Taïwan entre 1903 et 1914, et de la planification du réseau ferroviaire.
 
-[^4]: [Un lien humain tissé par un enfant disparu — *La montagne de Miangyue* | Vocus.cc](https://vocus.cc/article/5f9b9bfffd89780001d5f86a) — Analyse du contexte historique du retour de Kawai à Alishan en 1919, du poème « Les haches ont pénétré dans les replis verts des cimes » et de l'origine du nom « Miangyue ».
+[^4]: [Un lien humain tissé par un enfant disparu — _La montagne de Miangyue_ | Vocus.cc](https://vocus.cc/article/5f9b9bfffd89780001d5f86a) — Analyse du contexte historique du retour de Kawai à Alishan en 1919, du poème « Les haches ont pénétré dans les replis verts des cimes » et de l'origine du nom « Miangyue ».
 
-[^5]: [L'ère du grand déboisement à Taïwan : combien d'arbres ont été abattus ? - Blog de Lee Ken-cheng](https://leekc-95kh.blogspot.com/2016/07/blog-post.html) — Le directeur exécutif de la Fondation citoyenne pour la Terre compile les statistiques de *La forêt de la République de Chine à Taïwan* (Yao Henian, 1993) : les trois grands domaines officiels japonais (Alishan/Taipingshan/Baxianshan) ont déboisé 18 432 ha et 6,63 millions de m³ entre 1912 et 1945 ; les chiffres de l'après-guerre sont 6,7 fois supérieurs.
+[^5]: [L'ère du grand déboisement à Taïwan : combien d'arbres ont été abattus ? - Blog de Lee Ken-cheng](https://leekc-95kh.blogspot.com/2016/07/blog-post.html) — Le directeur exécutif de la Fondation citoyenne pour la Terre compile les statistiques de _La forêt de la République de Chine à Taïwan_ (Yao Henian, 1993) : les trois grands domaines officiels japonais (Alishan/Taipingshan/Baxianshan) ont déboisé 18 432 ha et 6,63 millions de m³ entre 1912 et 1945 ; les chiffres de l'après-guerre sont 6,7 fois supérieurs.
 
 [^6]: [Kao I-sheng - Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E4%B8%80%E7%94%9F) — Né le 5 juillet 1908, nom tsou 'Uongʉ'e Yata'uyungana, premier maire du district de Wufeng en 1945, épouse Yukukawa Haruko et père de onze enfants.
 

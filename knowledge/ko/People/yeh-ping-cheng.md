@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 5
 translatedFrom: 'People/葉丙成.md'
+sourceCommitSha: '67fe687d'
+sourceContentHash: 'sha256:342599fa566fd6e8'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 예빙청：확률 수업에서 시작된 교육 혁명

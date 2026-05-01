@@ -17,6 +17,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Food/台灣原住民飲食文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d67f3581051e39e8'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Indigenous Foodways

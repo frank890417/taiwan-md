@@ -10,6 +10,9 @@ lastHumanReview: false
 readingTime: 6
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'Art/台灣現代詩.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:76772688d61c205f'
+translatedAt: '2026-04-14T19:13:49+08:00'
 ---
 
 # La poésie moderne de Taïwan : une prophétie locale inattendue
@@ -34,11 +37,11 @@ Mais ce débat a un effet secondaire inattendu : il pousse les poètes taïwanai
 > Le débat « transplantation horizontale » contre « héritage vertical » ressemble à une querelle esthétique, mais c'est en réalité une anxiété identitaire profonde qui s'exprime.
 > Les poètes venus du continent cherchent à couper le cordon culturel avec la Chine, et ce faisant, ils ouvrent involontairement un chemin vers la voix propre de Taïwan.
 
-**Le Cercle des étoiles bleues** choisit une voie plus modérée. Yu Guangzhong, Qin Zihao et leurs pairs défendent la fusion du classique et du moderne, avec une écriture élégante et tout en retenue. Le poème *Nostalgie* de Yu Guangzhong devient l'un des textes les plus cités de toute la littérature sinophone :
+**Le Cercle des étoiles bleues** choisit une voie plus modérée. Yu Guangzhong, Qin Zihao et leurs pairs défendent la fusion du classique et du moderne, avec une écriture élégante et tout en retenue. Le poème _Nostalgie_ de Yu Guangzhong devient l'un des textes les plus cités de toute la littérature sinophone :
 
 _La nostalgie est un détroit peu profond / moi d'un côté / le continent de l'autre_
 
-**Le Cercle Genesis** pousse l'expérimentation aux extrêmes. Luo Fu, Ya Xian et Zhang Mo s'emparent du surréalisme, composant des œuvres denses en symboles et en métaphores. Luo Fu, surnommé « le démon de la poésie », signe avec *La mort dans la chambre de pierre* — 416 vers explorant la mort et l'existence — une œuvre qui bouleverse l'ensemble du paysage poétique.
+**Le Cercle Genesis** pousse l'expérimentation aux extrêmes. Luo Fu, Ya Xian et Zhang Mo s'emparent du surréalisme, composant des œuvres denses en symboles et en métaphores. Luo Fu, surnommé « le démon de la poésie », signe avec _La mort dans la chambre de pierre_ — 416 vers explorant la mort et l'existence — une œuvre qui bouleverse l'ensemble du paysage poétique.
 
 ## Les graines de la rébellion : le tournant local des années 1970
 
@@ -52,7 +55,7 @@ Wu Sheng incarne ce mouvement. Ce professeur de biologie au collège de Xizou, d
 
 _Je suis fils de paysan / je sais au plus profond de moi / le poids de chaque centimètre de sol_
 
-Ses recueils *La Terre* et *Parler aux enfants* ne documentent pas une métaphysique, mais la vie réelle des champs. **La force de la poésie locale réside précisément dans son refus du modernisme — refus de la métaphore, adhésion au direct ; refus de l'universel, adhésion à l'ancrage territorial.**
+Ses recueils _La Terre_ et _Parler aux enfants_ ne documentent pas une métaphysique, mais la vie réelle des champs. **La force de la poésie locale réside précisément dans son refus du modernisme — refus de la métaphore, adhésion au direct ; refus de l'universel, adhésion à l'ancrage territorial.**
 
 > **💡 Le saviez-vous ?**
 > Wu Sheng vit toujours dans sa maison natale de Xizou, Changhua, où il plante arbres et riz dans ses propres champs.
@@ -60,15 +63,15 @@ Ses recueils *La Terre* et *Parler aux enfants* ne documentent pas une métaphys
 
 ## La percée de la poésie taïwanaise
 
-L'expérimentation locale la plus radicale vient de Xiang Yang. Ce poète originaire de Fengyuan, dans le district de Taichung, ne se contente pas d'écrire en taïwanais : il construit les bases théoriques d'une poésie moderne en langue taïwanaise. Des œuvres comme *Chants de la terre* démontrent que le taïwanais peut non seulement accueillir la poésie, mais en produire une d'une belle musicalité.
+L'expérimentation locale la plus radicale vient de Xiang Yang. Ce poète originaire de Fengyuan, dans le district de Taichung, ne se contente pas d'écrire en taïwanais : il construit les bases théoriques d'une poésie moderne en langue taïwanaise. Des œuvres comme _Chants de la terre_ démontrent que le taïwanais peut non seulement accueillir la poésie, mais en produire une d'une belle musicalité.
 
 L'émergence de la poésie en taïwanais est la réfutation ultime de la « transplantation horizontale ». **Si la poésie est l'art du langage, alors la voix la plus authentique doit naître de la langue que les gens utilisent au quotidien sur cette terre.**
 
-| Héritage des trois cercles | Contre-mouvement de la poésie locale |
-| -------------------------- | ------------------------------------- |
-| Transplantation horizontale des techniques occidentales | Héritage vertical des traditions locales |
-| Quête de la pureté poétique | Engagement de la poésie dans le réel social |
-| Primauté de l'intellectuel et de l'abstrait | Retour au sensible et au concret |
+| Héritage des trois cercles                              | Contre-mouvement de la poésie locale        |
+| ------------------------------------------------------- | ------------------------------------------- |
+| Transplantation horizontale des techniques occidentales | Héritage vertical des traditions locales    |
+| Quête de la pureté poétique                             | Engagement de la poésie dans le réel social |
+| Primauté de l'intellectuel et de l'abstrait             | Retour au sensible et au concret            |
 
 ## Les nouvelles voix à l'ère numérique
 
@@ -84,7 +87,7 @@ Les poètes de la nouvelle génération, comme Chen Yuhong et Jing Xiang Hai, h�
 
 ## La poésie taïwanaise sur la scène internationale
 
-La visibilité internationale de la poésie moderne taïwanaise progresse. Les œuvres de Yu Guangzhong, Yang Mu, Chen Li et d'autres ont été traduites en anglais, en français, en allemand et dans de nombreuses autres langues. La publication de *Voices from Taiwan — An Anthology of Modern Taiwanese Poetry* en anglais et en turc marque le moment où la poésie taïwanaise commence à trouver sa place sur la carte de la littérature mondiale.
+La visibilité internationale de la poésie moderne taïwanaise progresse. Les œuvres de Yu Guangzhong, Yang Mu, Chen Li et d'autres ont été traduites en anglais, en français, en allemand et dans de nombreuses autres langues. La publication de _Voices from Taiwan — An Anthology of Modern Taiwanese Poetry_ en anglais et en turc marque le moment où la poésie taïwanaise commence à trouver sa place sur la carte de la littérature mondiale.
 
 **✦** « La langue poétique d'une petite île doit, en fin de compte, prouver sa valeur dans le contexte du monde. »
 

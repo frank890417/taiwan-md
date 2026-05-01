@@ -8,6 +8,9 @@ featured: false
 lastVerified: 2026-03-31
 category: 'History'
 translatedFrom: 'History/台灣轉型正義.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:7913ed2b9abc7af3'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 > **30초 요약:** 1950년, 대만 칭수이의 한 스무 살 청년이 모르는 방문객 때문에 체포되어 녹도에서 10년을 보냈다. 출소 후 그는 대만 최초의 아동 만화 잡지를 창간했다. 그는 아흔세 살까지 살았고, 생의 마지막까지 같은 질문을 물었다. "도대체 누가 내 친구를 죽인 건가요?" 대만의 전환정의는 약 6,000명의 유죄 판결을 취소했지만, 지금도 그 질문에 답하지 못하고 있다.

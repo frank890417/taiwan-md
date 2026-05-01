@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Technology/台灣AI日常.md'
 lastVerified: 2026-03-29
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:1cb31f3f5b851af8'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 > 동네 내과 의원에서 의사가 25초 만에 과거엔 20분이 걸렸던 당뇨 위험 평가를 끝냈다. 편의점 직원은 3분 만에 예전엔 15분 걸리던 신선식품 발주를 마쳤다. LINE으로 문의한 고객 서비스에 답장을 보낸 건 사람이 아니었다. 대만 사람들은 매일 수십 번씩 AI와 상호작용하지만, 이 사실을 의식하는 사람은 거의 없다.

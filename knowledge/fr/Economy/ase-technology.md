@@ -1,15 +1,25 @@
 ---
-title: 'ASE Technology : le champion discret de l''emballage de puces'
-description: 'Comment une famille de promoteurs immobiliers est devenue le numéro un mondial de l''assemblage et du test de semi-conducteurs'
+title: "ASE Technology : le champion discret de l'emballage de puces"
+description: "Comment une famille de promoteurs immobiliers est devenue le numéro un mondial de l'assemblage et du test de semi-conducteurs"
 date: 2026-03-21
-tags: [Économie, Entreprise, Semi-conducteurs, Assemblage et test, Industrie technologique]
-subcategory: 'Portraits d''entreprises'
+tags:
+  [
+    Économie,
+    Entreprise,
+    Semi-conducteurs,
+    Assemblage et test,
+    Industrie technologique,
+  ]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cb7042e73cb2cef2'
+translatedAt: '2026-04-14T19:20:58+08:00'
 ---
 
 > **En 30 secondes :** En 1984, une mère et ses deux fils — issus de l'immobilier — ont fait le pari fou de se lancer dans l'assemblage de semi-conducteurs. Quarante ans plus tard, ASE Technology est le premier assembleur-testeur mondial, avec un chiffre d'affaires de 10,1 milliards de dollars en 2024 et une part de marché proche de 45 %. Chaque iPhone, chaque ordinateur portable que vous utilisez passe probablement par leurs mains. ASE, c'est l'entreprise qui « habille » les puces et leur fait passer leur examen médical — un champion invisible, mais indispensable.
@@ -48,11 +58,11 @@ La suite lui donnera raison. Ce modèle « assemblage + test » différenciera d
 
 **Classement mondial du marché OSAT en 2024 :**
 
-| Entreprise | CA (Mds USD) | Part de marché |
-|---|---|---|
-| ASE Technology | 10,1 | ~45 % |
-| Amkor Technology | 6,3 | ~28 % |
-| JCET Group | ~3,0 | ~13 % |
+| Entreprise       | CA (Mds USD) | Part de marché |
+| ---------------- | ------------ | -------------- |
+| ASE Technology   | 10,1         | ~45 %          |
+| Amkor Technology | 6,3          | ~28 %          |
+| JCET Group       | ~3,0         | ~13 %          |
 
 **Envergure opérationnelle :**
 
@@ -95,13 +105,13 @@ Une grande part du succès d'ASE repose sur son réseau de fabrication global, p
 
 **Implantations en Asie :**
 
-| Pays | Site(s) | Rôle |
-|---|---|---|
-| Taïwan | Kaohsiung, Zhongli | R&D + production haute valeur |
-| Chine | Kunshan, Shanghai, Weihai | Production à grande échelle |
-| Corée du Sud | Séoul | Centre technologique pour le test |
-| Malaisie | Penang | Premier site hors Taïwan (1998) |
-| Japon | Gunma | Spécialiste SiP |
+| Pays         | Site(s)                   | Rôle                              |
+| ------------ | ------------------------- | --------------------------------- |
+| Taïwan       | Kaohsiung, Zhongli        | R&D + production haute valeur     |
+| Chine        | Kunshan, Shanghai, Weihai | Production à grande échelle       |
+| Corée du Sud | Séoul                     | Centre technologique pour le test |
+| Malaisie     | Penang                    | Premier site hors Taïwan (1998)   |
+| Japon        | Gunma                     | Spécialiste SiP                   |
 
 Cette géographie procure trois avantages structurels :
 

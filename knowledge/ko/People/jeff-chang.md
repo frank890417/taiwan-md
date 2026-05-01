@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/張明正.md'
 readingTime: 7
 featured: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0f8933e82bc3abdb'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 장명정: 디지털 세계의 보안 수호자

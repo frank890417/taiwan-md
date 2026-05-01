@@ -8,7 +8,10 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 category: 'Lifestyle'
 author: 'Taiwan.md Translation Team'
-translatedFrom: 'Lifestyle/台灣公園與日常休閒.md'
+translatedFrom: "Lifestyle/台灣公園與日常休閒.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:5627d196edbadc46"
+translatedAt: "2026-04-15T17:34:27+08:00"
 ---
 
 # Les parcs de Taïwan et les loisirs du quotidien

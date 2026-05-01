@@ -16,6 +16,9 @@ featured: false
 category: 'Food'
 lastVerified: 2026-03-19
 translatedFrom: 'Food/台灣眷村菜.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9da552eaab0e9bd8'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Military Dependents’ Village Cuisine (眷村菜)

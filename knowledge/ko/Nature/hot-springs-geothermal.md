@@ -16,6 +16,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c950b0e6980af7aa'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만의 온천과 지열

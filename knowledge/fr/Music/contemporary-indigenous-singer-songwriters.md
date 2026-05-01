@@ -1,8 +1,15 @@
 ---
 title: 'Chanteurs-compositeurs autochtones contemporains de Taïwan'
-description: "De A-Mei (aMEI) à Suming et Sangpuy, comment les artistes autochtones de Taïwan transmettent une âme ancestrale dans la musique moderne, créant un paysage sonore autochtone contemporain absolument singulier"
+description: 'De A-Mei (aMEI) à Suming et Sangpuy, comment les artistes autochtones de Taïwan transmettent une âme ancestrale dans la musique moderne, créant un paysage sonore autochtone contemporain absolument singulier'
 date: 2026-03-18
-tags: ['chanteurs autochtones', 'musique pop', 'fusion culturelle', 'Golden Melody Awards', 'création contemporaine']
+tags:
+  [
+    'chanteurs autochtones',
+    'musique pop',
+    'fusion culturelle',
+    'Golden Melody Awards',
+    'création contemporaine',
+  ]
 subcategory: 'Musique autochtone contemporaine'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -12,6 +19,9 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/當代原住民創作歌手.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5f9911af7563336d'
+translatedAt: '2026-04-15T17:33:06+08:00'
 ---
 
 # Chanteurs-compositeurs autochtones contemporains de Taïwan
@@ -45,8 +55,8 @@ Le talent musical naturel des peuples autochtones puise ses racines dans des str
 ### A-Mei (aMEI) (1972–) : la voix Puyuma d'une reine d'Asie
 
 **Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album *姊妹* (Sisters), 1996
-**Œuvres majeures :** *Sisters*, *Listen to the Sea*, *Hand in Hand*, *Can I Hold You*
+**Débuts :** Album _姊妹_ (Sisters), 1996
+**Œuvres majeures :** _Sisters_, _Listen to the Sea_, _Hand in Hand_, _Can I Hold You_
 
 L'apparition d'A-Mei (aMEI) a transformé de fond en comble le paysage de la pop en langue chinoise. Grâce à ses capacités vocales époustouflantes et à son charisme scénique irrésistible, elle s'impose comme la chanteuse la plus influente de la fin des années 1990 et du début des années 2000, faisant découvrir au monde entier le génie musical des peuples autochtones de Taïwan.
 
@@ -64,7 +74,7 @@ Le succès d'A-Mei (aMEI) a brisé les stéréotypes qui enfermaient les artiste
 
 **Membres :** Yan Zhi-lin (peuple Paiwan), You Qiu-xing (peuple Amis)
 **Débuts :** 1997
-**Œuvres majeures :** *Dang*, *Walking Zhongxiao East Road Nine Times*
+**Œuvres majeures :** _Dang_, _Walking Zhongxiao East Road Nine Times_
 
 Power Station (le groupe Power Station) se distingue par des harmonies vocales riches et puissantes, où les deux voix se complètent avec une précision remarquable — un modèle pour les duos masculins. Leur style oscille vers le rock lyrique, avec une texture vocale profonde et robuste, marque distinctive des artistes autochtones.
 
@@ -75,10 +85,10 @@ Power Station (le groupe Power Station) se distingue par des harmonies vocales r
 ### Chen Jian-nian (1967–) : les complaintes Puyuma d'un poète de l'océan
 
 **Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album *Ocean*, 1999
-**Œuvres majeures :** *Ocean*, *Love in Orchid Island*, *Hometown Puyuma*
+**Débuts :** Album _Ocean_, 1999
+**Œuvres majeures :** _Ocean_, _Love in Orchid Island_, _Hometown Puyuma_
 
-Salué comme le « père de la folk autochtone », Chen Jian-nian propose une musique d'une chaleur intérieure et d'une retenue qui lui sont propres, une voix qui porte à la fois la profondeur de l'océan et la sérénité des forêts de montagne. L'album *Ocean* remporte lors de la 11e cérémonie des Golden Melody Awards les prix du Meilleur album de musique pop et du Meilleur interprète de musique pop, inaugurant ainsi une ère glorieuse pour la musique autochtone dans cette compétition.
+Salué comme le « père de la folk autochtone », Chen Jian-nian propose une musique d'une chaleur intérieure et d'une retenue qui lui sont propres, une voix qui porte à la fois la profondeur de l'océan et la sérénité des forêts de montagne. L'album _Ocean_ remporte lors de la 11e cérémonie des Golden Melody Awards les prix du Meilleur album de musique pop et du Meilleur interprète de musique pop, inaugurant ainsi une ère glorieuse pour la musique autochtone dans cette compétition.
 
 **Caractéristiques musicales :**
 
@@ -90,14 +100,14 @@ Salué comme le « père de la folk autochtone », Chen Jian-nian propose une mu
 ### Ji Xiao-jun : une voix d'une pureté angélique
 
 **Peuple :** Puyuma (ou Beinan)
-**Œuvres majeures :** *Wild Fire, Spring Breeze*, *Solo Flight*
+**Œuvres majeures :** _Wild Fire, Spring Breeze_, _Solo Flight_
 
 Ji Xiao-jun possède une voix d'une limpidité et d'une transparence saisissantes. Son style d'interprétation se situe à mi-chemin entre tradition et modernité : il conserve l'esthétique brute et originelle de la musique autochtone tout en lui conférant la finesse et le raffinement de la musique contemporaine.
 
 ### Wang Hong-en : l'exploration plurielle d'un créateur de talent
 
 **Peuple :** Amis
-**Œuvres majeures :** *Moonlight*, *Beautiful Folk Ballad*
+**Œuvres majeures :** _Moonlight_, _Beautiful Folk Ballad_
 
 Wang Hong-en n'est pas seulement un interprète de talent : c'est aussi un auteur-compositeur d'une grande inventivité. Sa palette musicale est vaste — folk, rock, traditions autochtones, pop contemporaine —, témoignant de la force créatrice des musiciens autochtones.
 
@@ -109,8 +119,8 @@ Wang Hong-en n'est pas seulement un interprète de talent : c'est aussi un auteu
 
 **Vrai nom :** Jiang Sheng-min
 **Peuple :** Amis (village de Dulan)
-**Débuts :** Album *Suming*, 2010
-**Œuvres majeures :** *Don't Give Up*, *Beautiful Rice Ears*, *Ina*
+**Débuts :** Album _Suming_, 2010
+**Œuvres majeures :** _Don't Give Up_, _Beautiful Rice Ears_, _Ina_
 
 Suming (Suming) est l'un des chanteurs-compositeurs autochtones contemporains les plus représentatifs de sa génération. Sa musique fusionne les traditions Amis, le rock moderne et la musique électronique, créant une « sonorité de Dulan » qui lui est entièrement personnelle.
 
@@ -118,7 +128,7 @@ Suming (Suming) est l'un des chanteurs-compositeurs autochtones contemporains le
 
 - Création simultanément en langue Amis et en mandarin
 - Fusion des chants traditionnels et des arrangements modernes
-- Usage généreux des interjections rituelles Amis (*hai yan*)
+- Usage généreux des interjections rituelles Amis (_hai yan_)
 - Mélange harmonieux de rock, d'électronique et de world music
 
 **Contributions culturelles :**
@@ -131,8 +141,8 @@ Suming (Suming) est l'un des chanteurs-compositeurs autochtones contemporains le
 
 **Vrai nom :** Shen Huai-yi
 **Peuple :** Puyuma (ou Beinan)
-**Débuts :** Album *Yaogan*, 2008
-**Œuvres majeures :** *Yaogan*, *Lahan*, *Myth*
+**Débuts :** Album _Yaogan_, 2008
+**Œuvres majeures :** _Yaogan_, _Lahan_, _Myth_
 
 La musique de Sangpuy est traversée d'une spiritualité intense. Sa voix grave et profondément communicative porte des textes aux accents philosophiques, questionnant l'identité culturelle avec une exigence rare. Souvent comparé au « Bob Dylan de Taïwan », son univers musical est résolument à part.
 
@@ -159,7 +169,7 @@ Ado Kaliting Pacidal incarne l'esprit d'innovation de la nouvelle génération d
 #### Panai Kusui (1969–) : une voix sociale de protestation
 
 **Peuple :** Puyuma (ou Beinan)
-**Œuvres majeures :** *Journal of Wandering*, *Maybe One Day*
+**Œuvres majeures :** _Journal of Wandering_, _Maybe One Day_
 
 Panai Kusui est reconnue pour ses créations profondément engagées. Sa voix porte une conscience sociale acérée et une humanité vibrante ; elle prend régulièrement position pour les droits des peuples autochtones et interpelle la société sur ses contradictions.
 
@@ -170,7 +180,7 @@ Panai Kusui est reconnue pour ses créations profondément engagées. Sa voix po
 
 Ilid Kaolo consacre son œuvre à donner une nouvelle vie aux anciens chants du peuple Amis. Sa musique préserve l'esprit fondamental de la tradition tout en l'enrichissant d'un langage musical contemporain.
 
-🎵 **La beauté de la musique autochtone** : [Hu De-fu (Kimbo) — *Vent du Pacifique*](https://www.youtube.com/watch?v=1orwkijmkIU) | [Œuvres d'ABAO (阿爆)](https://www.youtube.com/@abao_888) | [Écoute de l'album *Yaogan* de Sangpuy](https://www.youtube.com/watch?v=ealNSQUDAaU)
+🎵 **La beauté de la musique autochtone** : [Hu De-fu (Kimbo) — _Vent du Pacifique_](https://www.youtube.com/watch?v=1orwkijmkIU) | [Œuvres d'ABAO (阿爆)](https://www.youtube.com/@abao_888) | [Écoute de l'album _Yaogan_ de Sangpuy](https://www.youtube.com/watch?v=ealNSQUDAaU)
 
 ### L'innovation par les formations en groupe
 
@@ -201,12 +211,12 @@ Depuis la création, en 2003, de la catégorie « Meilleur album en langue autoc
 
 ### Lauréats marquants
 
-| Artiste | Œuvre récompensée | Distinction |
-|---|---|---|
-| Chen Jian-nian | *Ocean* | 11e cérémonie — Meilleur interprète de musique pop |
-| Suming (Suming) | *Suming* | 22e cérémonie — Meilleur album en langue autochtone |
-| Sangpuy Katatepan Mavaliyw | *Yaogan* | 20e cérémonie — Meilleur album en langue autochtone |
-| Ilid Kaolo | *Lumière dans le brouillard* | 30e cérémonie — Meilleur album en langue autochtone |
+| Artiste                    | Œuvre récompensée            | Distinction                                         |
+| -------------------------- | ---------------------------- | --------------------------------------------------- |
+| Chen Jian-nian             | _Ocean_                      | 11e cérémonie — Meilleur interprète de musique pop  |
+| Suming (Suming)            | _Suming_                     | 22e cérémonie — Meilleur album en langue autochtone |
+| Sangpuy Katatepan Mavaliyw | _Yaogan_                     | 20e cérémonie — Meilleur album en langue autochtone |
+| Ilid Kaolo                 | _Lumière dans le brouillard_ | 30e cérémonie — Meilleur album en langue autochtone |
 
 ### La portée culturelle du prix
 
@@ -316,17 +326,17 @@ Pour entrer dans l'univers de la musique autochtone contemporaine de Taïwan, vo
 
 ### Albums incontournables
 
-- Chen Jian-nian — *Ocean*
-- Suming (Suming) — *Suming*
-- Sangpuy Katatepan Mavaliyw — *Yaogan*
-- A-Mei (aMEI) — *A-mei*
-- Ilid Kaolo — *Lumière dans le brouillard*
+- Chen Jian-nian — _Ocean_
+- Suming (Suming) — _Suming_
+- Sangpuy Katatepan Mavaliyw — _Yaogan_
+- A-Mei (aMEI) — _A-mei_
+- Ilid Kaolo — _Lumière dans le brouillard_
 
 ### Festivals et événements
 
 - Festival de musique Amis Gakeng (Dulan, Taitung)
 - Festival de musique des peuples autochtones
-- Fêtes des récoltes de chaque peuple (*Fengnian* / Harvest festivals)
+- Fêtes des récoltes de chaque peuple (_Fengnian_ / Harvest festivals)
 
 ### Ressources en ligne
 
@@ -342,7 +352,7 @@ L'histoire des artistes autochtones contemporains de Taïwan est une histoire de
 
 ## Références
 
-- Lü Yuxiu, *Histoire de la musique taïwanaise*, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
+- Lü Yuxiu, _Histoire de la musique taïwanaise_, Wunan Culture, 2003. [Books.com.tw](https://www.books.com.tw/products/0010906148)
 - [Site officiel du Conseil des peuples autochtones](https://www.cip.gov.tw/)
 - [Palmarès historique des Golden Melody Awards](https://gma.tavis.tw/)
 - [Télévision autochtone (PTS TITV)](https://titv.ipcf.org.tw/)

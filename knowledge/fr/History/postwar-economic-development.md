@@ -8,9 +8,12 @@ category: 'History'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
-translatedFrom: 'History/戰後經濟發展.md'
+translatedFrom: "History/戰後經濟發展.md"
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:bd943f680a0506bf"
+translatedAt: "2026-04-14T12:31:57+08:00"
 ---
 
 # Le développement économique de Taïwan après 1945
@@ -105,12 +108,12 @@ Dès les années 1980, des entreprises comme Acer, Asus et Foxconn partent de la
 
 De 1952 à 1995, Taïwan affiche des performances économiques qui défient la comparaison :
 
-| Indicateur | Valeur |
-|---|---|
-| Taux de croissance annuel moyen du PIB | 8,7 % (40 années consécutives) |
-| PIB par habitant | De 145 $ à 12 396 $ |
-| Exportations totales | De 116 millions $ à 111,8 milliards $ |
-| Taux de chômage | Maintenu entre 2 et 3 % |
+| Indicateur                             | Valeur                                |
+| -------------------------------------- | ------------------------------------- |
+| Taux de croissance annuel moyen du PIB | 8,7 % (40 années consécutives)        |
+| PIB par habitant                       | De 145 $ à 12 396 $                   |
+| Exportations totales                   | De 116 millions $ à 111,8 milliards $ |
+| Taux de chômage                        | Maintenu entre 2 et 3 %               |
 
 ### Une prospérité partagée
 

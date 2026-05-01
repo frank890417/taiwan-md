@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: true
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:7966c0692e2a3fd0'
+translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 
 # 대만 힙합과 랩의 발전

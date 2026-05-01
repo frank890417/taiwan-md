@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 translatedFrom: 'Economy/台灣企業：巨大機械.md'
 lastVerified: 2026-03-22
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:59a5006dd9b19748'
+translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 
 # 대만 기업: 자이언트 기계(巨大機械)

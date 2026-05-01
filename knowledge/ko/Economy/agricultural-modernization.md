@@ -10,6 +10,9 @@ readingTime: 17
 featured: true
 translatedFrom: 'Economy/台灣農業現代化發展.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:e6e4ed55452711e1'
+translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 
 # 대만 농업 현대화의 발전

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: false
 translatedFrom: 'People/明華園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8f30d34794119822'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 명화원：노천 무대에서 자라난 가자희 제국
