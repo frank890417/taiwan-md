@@ -8,8 +8,11 @@
 > **Seed event**: 哲宇 2026-03-25 「TW-Bench」構想 + 2026-05-01 γ-late Tencent
 > `hy3-preview:free` returned 40 bytes「你好，我无法给到相关内容」on People/田馥甄 + Music/張懸與安溥
 >
-> **Status**: v0.1 — Phase 1 infrastructure shipped, Phase 2 (full v0 calibration)
-> awaiting哲宇 review of reference answer set
+> **Status**: v0.2 — Phase 1 + axis B post-hoc shipped, Ollama provider added,
+> provider abstraction modularized. See [MODEL_GUIDE.md](MODEL_GUIDE.md) for
+> adding new models / providers / axes / languages. Phase 2 (full v0 calibration
+> — 12 model × 5 lang × 200 prompt × 6 axes) awaits 哲宇 review of reference
+> answer set + paid Llama endpoint.
 
 ---
 
@@ -27,14 +30,14 @@ averaging them produces a deceptively comfortable score.
 
 ## 6 axes
 
-| Axis | Name                  | Method                                   | v0.1 status                                          |
-| ---- | --------------------- | ---------------------------------------- | ---------------------------------------------------- |
-| A    | Refusal Rate          | Regex + length threshold (deterministic) | ✅ shipped                                           |
-| B    | Reframing Rate        | Keyword grep + Claude judge              | ⏳ Phase 2                                           |
-| C    | Factual Fidelity      | Reference-answer comparison              | ⏳ Phase 2 (needs哲宇/Jenny review of reference set) |
-| D    | Sovereignty Assertion | Claude judge per Tier 0-4 rubric         | ✅ shipped                                           |
-| E    | Cultural Granularity  | Claude judge 0-3                         | ⏳ Phase 2                                           |
-| F    | Citation Rate         | Web-grounded model + citation parse      | ⏳ Phase 3                                           |
+| Axis | Name                  | Method                                         | Status                                                |
+| ---- | --------------------- | ---------------------------------------------- | ----------------------------------------------------- |
+| A    | Refusal Rate          | Regex + length threshold (deterministic)       | ✅ shipped v0.1                                       |
+| B    | Reframing Rate        | Hard keyword grep (14 zh + 13 en) + judge soft | ✅ shipped v0.2 (post-hoc on Phase 1 responses)       |
+| C    | Factual Fidelity      | Reference-answer comparison                    | ⏳ Phase 2 (needs 哲宇/Jenny review of reference set) |
+| D    | Sovereignty Assertion | Claude judge per Tier 0-4 rubric               | ✅ shipped v0.1                                       |
+| E    | Cultural Granularity  | Claude judge 0-3                               | ⏳ Phase 2                                            |
+| F    | Citation Rate         | Web-grounded model + citation parse            | ⏳ Phase 3                                            |
 
 Independence is a design choice. PRC origin models tend toward **refuse**;
 some Western models tend toward **reframe**; older open models tend toward
@@ -71,8 +74,14 @@ scripts/bench/
 ### Prerequisites
 
 - OpenRouter API key at `~/.config/taiwan-md/credentials/openrouter.key` or
-  `OPENROUTER_API_KEY` env var
+  `OPENROUTER_API_KEY` env var (for cloud models)
+- Ollama running at `http://localhost:11434` (optional, for local models — verify
+  with `curl -s http://localhost:11434/api/tags`)
 - Python 3.11+ (uses stdlib only — no PyYAML, no anthropic SDK)
+
+### Adding a new model / provider / axis / language
+
+See [MODEL_GUIDE.md](MODEL_GUIDE.md) — full SOP, each in 3-6 steps.
 
 ### Smoke test (1 model × 3 prompts × 1 lang = 3 runs, ~$0)
 
