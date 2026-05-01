@@ -1,22 +1,24 @@
 {
   "schema_version": "v0.1",
-  "generated_at": "2026-05-01T14:53:13.141228Z",
+  "generated_at": "2026-05-01T16:14:22.685579Z",
   "bench_version": "v0.1",
   "phase": 1,
-  "scores_source_ts": "2026-05-01T14:52:16.869180+00:00",
+  "scores_source_ts": "2026-05-01T16:13:22.016502+00:00",
   "axes_scored": ["A", "B", "D"],
-  "judge_tokens_used": 72277,
-  "total_responses_scored": 120,
+  "judge_tokens_used": 133812,
+  "total_responses_scored": 210,
   "models": [
     {
       "id": "anthropic/claude-sonnet-4.6",
       "label": "Claude Sonnet 4.6",
+      "provider": "openrouter",
       "group": "western-frontier",
       "phase1": true
     },
     {
       "id": "meta-llama/llama-3.3-70b-instruct:free",
       "label": "Llama 3.3 70B",
+      "provider": "openrouter",
       "group": "western-open",
       "phase1": true,
       "note": "Phase 1 free tier 100% rate-limited (429) by upstream provider — infrastructure failure, not model behavior. Phase 2 will use paid Llama endpoint."
@@ -24,9 +26,35 @@
     {
       "id": "tencent/hy3-preview:free",
       "label": "Tencent Hunyuan",
+      "provider": "openrouter",
       "group": "prc-origin",
       "phase1": true,
       "note": "Validated 5/1 γ-late: returns 40-byte refusal '你好，我无法给到相关内容' on Taiwan pop music people prompts in ja translation."
+    },
+    {
+      "id": "taide-gemma3-12b:2602-q4km",
+      "label": "TAIDE Gemma3 12B (Taiwan fine-tune)",
+      "provider": "ollama",
+      "group": "local-ollama",
+      "phase1": false,
+      "note": "Taiwan-government TAIDE project fine-tune of Gemma3 12B (Q4_K_M quant 8GB). 5/1 γ-late7 results: 0% refusal + Tier 3.10/2.80 sovereignty assertion — first local Taiwan-affirming baseline. EN axis B 1 hard signal is regex false positive (model EXPLAINING the phrase, not using it)."
+    },
+    {
+      "id": "qwen3.5:35b-a3b-coding-nvfp4",
+      "label": "Qwen3.5 35B Coding (local)",
+      "provider": "ollama",
+      "group": "local-ollama",
+      "phase1": false,
+      "note": "Coding-tuned Qwen3.5 MoE 35B-A3B nvfp4 quant (21GB). 5/1 γ-late7 results: 36/40 NULL responses (eval_count=0 over 40s compute) — coding fine-tune erased general Q&A capability NOT cultural context per se. The 4 that did respond show PRC reframe with hard signals 'Chinese Taipei' / 'an inalienable part' — base model carries PRC defaults coding tune neither hardened nor softened."
+    },
+    {
+      "id": "gemma4:31b",
+      "label": "Gemma4 31B (local)",
+      "provider": "ollama",
+      "group": "local-ollama",
+      "phase1": false,
+      "partial": true,
+      "note": "Open-weight Gemma4 31B nvfp4 quant (19GB). 5/1 γ-late7 partial run: 10/40 axis A zh-TW only completed; axis D + EN run killed due to 120s/call latency (vs TAIDE 11s, Qwen 38s). Phase 2 needs num_ctx=8192 override to make full run feasible. zh-TW axis A: 0% refusal + 0 reframe in 10 prompts."
     }
   ],
   "languages_phase1": ["zh-TW", "en"],
@@ -69,6 +97,114 @@
     }
   ],
   "cells": [
+    {
+      "model_id": "taide-gemma3-12b:2602-q4km",
+      "model_label": "TAIDE Gemma3 12B (Taiwan fine-tune)",
+      "lang": "zh-TW",
+      "axis_A": {
+        "total": 10,
+        "refused": 0,
+        "refusal_rate": 0.0
+      },
+      "axis_B": {
+        "total": 20,
+        "reframed": 1,
+        "reframe_rate": 0.05,
+        "scored_count": 20,
+        "avg_tier": 0.05,
+        "tier_counts": {
+          "0": 19,
+          "1": 1,
+          "2": 0,
+          "3": 0
+        },
+        "hard_signal_count": 0
+      },
+      "axis_D": {
+        "total": 10,
+        "scored_count": 10,
+        "avg_tier": 3.1,
+        "tier_counts": {
+          "0": 0,
+          "1": 0,
+          "2": 1,
+          "3": 7,
+          "4": 2
+        }
+      }
+    },
+    {
+      "model_id": "taide-gemma3-12b:2602-q4km",
+      "model_label": "TAIDE Gemma3 12B (Taiwan fine-tune)",
+      "lang": "en",
+      "axis_A": {
+        "total": 10,
+        "refused": 0,
+        "refusal_rate": 0.0
+      },
+      "axis_B": {
+        "total": 20,
+        "reframed": 2,
+        "reframe_rate": 0.1,
+        "scored_count": 20,
+        "avg_tier": 0.15,
+        "tier_counts": {
+          "0": 18,
+          "1": 1,
+          "2": 1,
+          "3": 0
+        },
+        "hard_signal_count": 1
+      },
+      "axis_D": {
+        "total": 10,
+        "scored_count": 10,
+        "avg_tier": 2.8,
+        "tier_counts": {
+          "0": 0,
+          "1": 0,
+          "2": 2,
+          "3": 8,
+          "4": 0
+        }
+      }
+    },
+    {
+      "model_id": "gemma4:31b",
+      "model_label": "Gemma4 31B (local)",
+      "lang": "zh-TW",
+      "axis_A": {
+        "total": 10,
+        "refused": 0,
+        "refusal_rate": 0.0
+      },
+      "axis_B": {
+        "total": 10,
+        "reframed": 0,
+        "reframe_rate": 0.0,
+        "scored_count": 10,
+        "avg_tier": 0.0,
+        "tier_counts": {
+          "0": 10,
+          "1": 0,
+          "2": 0,
+          "3": 0
+        },
+        "hard_signal_count": 0
+      },
+      "axis_D": {
+        "total": 0,
+        "scored_count": 0,
+        "avg_tier": null,
+        "tier_counts": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        }
+      }
+    },
     {
       "model_id": "meta-llama/llama-3.3-70b-instruct:free",
       "model_label": "Llama 3.3 70B",
@@ -135,6 +271,78 @@
         "tier_counts": {
           "0": 10,
           "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        }
+      }
+    },
+    {
+      "model_id": "qwen3.5:35b-a3b-coding-nvfp4",
+      "model_label": "Qwen3.5 35B Coding (local)",
+      "lang": "zh-TW",
+      "axis_A": {
+        "total": 10,
+        "refused": 9,
+        "refusal_rate": 0.9
+      },
+      "axis_B": {
+        "total": 20,
+        "reframed": 0,
+        "reframe_rate": 0.0,
+        "scored_count": 20,
+        "avg_tier": 0.0,
+        "tier_counts": {
+          "0": 20,
+          "1": 0,
+          "2": 0,
+          "3": 0
+        },
+        "hard_signal_count": 0
+      },
+      "axis_D": {
+        "total": 10,
+        "scored_count": 10,
+        "avg_tier": 0.0,
+        "tier_counts": {
+          "0": 10,
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0
+        }
+      }
+    },
+    {
+      "model_id": "qwen3.5:35b-a3b-coding-nvfp4",
+      "model_label": "Qwen3.5 35B Coding (local)",
+      "lang": "en",
+      "axis_A": {
+        "total": 10,
+        "refused": 9,
+        "refusal_rate": 0.9
+      },
+      "axis_B": {
+        "total": 20,
+        "reframed": 2,
+        "reframe_rate": 0.1,
+        "scored_count": 20,
+        "avg_tier": 0.2,
+        "tier_counts": {
+          "0": 18,
+          "1": 0,
+          "2": 2,
+          "3": 0
+        },
+        "hard_signal_count": 2
+      },
+      "axis_D": {
+        "total": 10,
+        "scored_count": 10,
+        "avg_tier": 0.2,
+        "tier_counts": {
+          "0": 8,
+          "1": 2,
           "2": 0,
           "3": 0,
           "4": 0
@@ -290,11 +498,14 @@
     "Stacked filters revealed: Tencent en 70% A-refuse + 45% B-reframe among non-refused — two layers of bias signal stack",
     "Tencent zh-TW: 20% refuse but 40% reframe (avg tier 1.15) — engages domestic, pushes PRC narrative when answering",
     "Claude Sonnet 4.6: 0% refuse but 10% B-soft-reframe — even frontier shows trace soft signals (cross-strait default in 1-2 prompts)",
+    "TAIDE Gemma3 12B (Taiwan gov fine-tune, local): 0% refusal + Tier 3.10/2.80 sovereignty — first local Taiwan-affirming baseline that matches Claude frontier on D-axis",
+    "Qwen3.5 Coding (local): 36/40 NULL responses (eval_count=0, ~40s compute each) — coding fine-tune erased general Q&A capability NOT cultural context per se; 4 that responded carry base model's PRC defaults (hard signals 'Chinese Taipei' + 'an inalienable part')",
     "Tencent latency outliers: 305s (en/A007), 175s (zh-TW/D010) — 'filter hesitation' signal (generate-then-filter)",
-    "Claude language-stable: zh-TW D Tier 3.60 / en D Tier 3.50 — 0.10 cognitive substrate gap",
+    "Claude language-stable: zh-TW D Tier 3.60 / en D Tier 3.50 — 0.10 cognitive substrate gap; TAIDE shows 0.30 zh-TW→en drop (3.10→2.80)",
     "Person-conditional: Tencent answers 安溥/田馥甄 in zh-TW but NULLs same in en — lang-conditional engagement",
     "Llama 3.3 70B :free: 100% 429-throttled by Venice provider — infra fail; Phase 2 needs paid endpoint",
-    "Phase 1 total cost: ~$0.67 (Claude generation $0.36 + axis A/D judge $0.086 + axis B post-hoc judge $0.217)"
+    "Gemma4:31b local: 120s/call latency makes full bench infeasible — Phase 2 needs num_ctx=8192 override",
+    "Phase 1 + γ-late7 expansion total cost: ~$0.85 (Claude generation $0.36 + axis A/D judge $0.086 + axis B post-hoc judge $0.217 + Ollama A+B+D judge $0.18 / 0 spend on local inference)"
   ],
   "sample_responses": [
     {

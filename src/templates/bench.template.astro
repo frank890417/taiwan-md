@@ -198,7 +198,7 @@ const tencentLangConditional = bench?.sample_responses?.find(
           >
           <span
             class="rounded-full border border-[#f4f0ea]/20 px-3 py-1 font-mono text-[#f4f0ea]/60"
-            >3 / 12 models</span
+            >6 / 12 models</span
           >
           <span
             class="rounded-full border border-[#f4f0ea]/20 px-3 py-1 font-mono text-[#f4f0ea]/60"
@@ -207,6 +207,10 @@ const tencentLangConditional = bench?.sample_responses?.find(
           <span
             class="rounded-full border border-[#f4f0ea]/20 px-3 py-1 font-mono text-[#f4f0ea]/60"
             >20 / 200 prompts</span
+          >
+          <span
+            class="rounded-full border border-[#4fd1b0]/30 bg-[#4fd1b0]/5 px-3 py-1 font-mono text-[#4fd1b0]"
+            >Local + Cloud</span
           >
           <a
             href="https://github.com/frank890417/taiwan-md/pull/751"
@@ -436,7 +440,9 @@ const tencentLangConditional = bench?.sample_responses?.find(
                       ? '#4fd1b0'
                       : model?.group === 'western-open'
                         ? '#fbbf24'
-                        : '#fb923c';
+                        : model?.group === 'local-ollama'
+                          ? '#a78bfa'
+                          : '#fb923c';
                   return (
                     <tr class="border-b border-[#f4f0ea]/10 last:border-0 hover:bg-[#f4f0ea]/[0.03]">
                       <td class="px-4 py-3 font-medium text-[#f4f0ea]">
