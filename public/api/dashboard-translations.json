@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T11:05:59.107Z",
+  "lastUpdated": "2026-05-01T11:18:28.551Z",
   "languages": [
     "zh-TW",
     "en",
@@ -28,14 +28,14 @@
       "freshPct": 66.1
     },
     "ja": {
-      "total": 458,
-      "percentage": 71.5,
-      "fresh": 402,
-      "stale": 56,
-      "missing": 183,
+      "total": 477,
+      "percentage": 74.4,
+      "fresh": 465,
+      "stale": 12,
+      "missing": 164,
       "orphan": 12,
-      "deficit": 183,
-      "freshPct": 62.7
+      "deficit": 164,
+      "freshPct": 72.5
     },
     "ko": {
       "total": 474,
@@ -80,8 +80,8 @@
       },
       "ja": {
         "count": 6,
-        "fresh": 3,
-        "stale": 3,
+        "fresh": 6,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -118,8 +118,8 @@
       },
       "ja": {
         "count": 29,
-        "fresh": 27,
-        "stale": 2,
+        "fresh": 29,
+        "stale": 0,
         "missing": 1,
         "deficit": 1
       },
@@ -155,11 +155,11 @@
         "deficit": 3
       },
       "ja": {
-        "count": 49,
-        "fresh": 44,
-        "stale": 5,
-        "missing": 4,
-        "deficit": 4
+        "count": 50,
+        "fresh": 49,
+        "stale": 1,
+        "missing": 3,
+        "deficit": 3
       },
       "ko": {
         "count": 40,
@@ -193,11 +193,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 42,
-        "fresh": 36,
-        "stale": 6,
-        "missing": 9,
-        "deficit": 9
+        "count": 43,
+        "fresh": 43,
+        "stale": 0,
+        "missing": 8,
+        "deficit": 8
       },
       "ko": {
         "count": 49,
@@ -231,11 +231,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 31,
-        "fresh": 31,
+        "count": 34,
+        "fresh": 34,
         "stale": 0,
-        "missing": 16,
-        "deficit": 16
+        "missing": 13,
+        "deficit": 13
       },
       "ko": {
         "count": 29,
@@ -308,8 +308,8 @@
       },
       "ja": {
         "count": 32,
-        "fresh": 24,
-        "stale": 8,
+        "fresh": 27,
+        "stale": 5,
         "missing": 4,
         "deficit": 4
       },
@@ -345,11 +345,11 @@
         "deficit": 2
       },
       "ja": {
-        "count": 15,
-        "fresh": 14,
-        "stale": 1,
-        "missing": 6,
-        "deficit": 6
+        "count": 16,
+        "fresh": 16,
+        "stale": 0,
+        "missing": 5,
+        "deficit": 5
       },
       "ko": {
         "count": 14,
@@ -383,11 +383,11 @@
         "deficit": 0
       },
       "ja": {
-        "count": 18,
-        "fresh": 17,
-        "stale": 1,
-        "missing": 11,
-        "deficit": 11
+        "count": 19,
+        "fresh": 19,
+        "stale": 0,
+        "missing": 10,
+        "deficit": 10
       },
       "ko": {
         "count": 24,
@@ -422,8 +422,8 @@
       },
       "ja": {
         "count": 21,
-        "fresh": 19,
-        "stale": 2,
+        "fresh": 21,
+        "stale": 0,
         "missing": 13,
         "deficit": 13
       },
@@ -459,11 +459,11 @@
         "deficit": 10
       },
       "ja": {
-        "count": 103,
-        "fresh": 87,
-        "stale": 16,
-        "missing": 98,
-        "deficit": 98
+        "count": 114,
+        "fresh": 113,
+        "stale": 1,
+        "missing": 87,
+        "deficit": 87
       },
       "ko": {
         "count": 146,
@@ -498,8 +498,8 @@
       },
       "ja": {
         "count": 58,
-        "fresh": 52,
-        "stale": 6,
+        "fresh": 56,
+        "stale": 2,
         "missing": 2,
         "deficit": 2
       },
@@ -536,8 +536,8 @@
       },
       "ja": {
         "count": 42,
-        "fresh": 37,
-        "stale": 5,
+        "fresh": 40,
+        "stale": 2,
         "missing": 3,
         "deficit": 3
       },
@@ -597,24 +597,17 @@
     "ja": [
       "Music/從張懸到安溥——兩個名字，同一個問題.md",
       "People/吳哲宇（Che-Yu Wu）：從彈珠檯到威尼斯白牆，用 0 與 1 逼近靈魂的鐘錶匠.md",
-      "People/楊深坑：帶著兩組氧氣筒去給學生口試的教育哲學家.md",
       "Technology/赤燭遊戲：一張符咒擋不住的台灣故事.md",
-      "Food/糖蔥：藏在白色孔洞裡的「抗爭之糖」.md",
       "Food/鳳梨酥：從選舉招待點心到年產值 250 億的台灣「金磚」.md",
       "History/台海危機與兩岸關係發展.md",
       "People/有感筆電：從「暗黑」到百萬，定義 Roblox 世代的數據策展人.md",
       "People/朱經武.md",
       "Technology/台灣玩家的瘋狂時刻：追物流車、擠爆北投、洛杉磯舉盃.md",
       "People/馬英九.md",
-      "Economy/全聯福利中心：從黑臭福利社到台灣零售之王的逆襲.md",
-      "Food/金牛角：飛機上的意外與漢餅靈魂的台式可頌.md",
       "Geography/台灣板塊運動與地震活動.md",
-      "People/Hello Nico：八年沉默後，「想念舞台了」.md",
       "People/VH（Vast & Hazy）：「出口系樂團」的十五年方向校準.md",
       "People/鄧麗君：跑馬地的白布條、金門的塑膠袋空氣、清邁的五分鐘時差.md",
-      "Culture/菜市場名.md",
       "People/張惠妹.md",
-      "People/豬哥亮.md",
       "People/從地下室到總統府：妮妃雅與台灣變裝皇后的自我賦權史.md",
       "Geography/台灣行政區劃：從「地方會議」到「五都」的權力拼圖.md",
       "People/許美華：從反紫光到大罷免，一個匿名公民代號的十年.md",
@@ -640,7 +633,6 @@
       "People/江振誠.md",
       "Culture/族群（閩南客家原住民外省新住民）.md",
       "People/蔡英文.md",
-      "People/陳樹菊.md",
       "Food/台灣手路菜：意思、由來與辦桌文化的「拿手好菜」.md",
       "Music/台灣聲音地景.md",
       "People/曾雅妮.md",
@@ -657,11 +649,9 @@
       "People/齊柏林.md",
       "Geography/台灣海岸地形與海洋地景.md",
       "Nature/臺灣的鯨豚.md",
-      "People/蔡依林.md",
       "Economy/經濟奇蹟.md",
       "Food/台灣咖啡產業.md",
       "Food/台灣米其林：星光下的代價與重新定義.md",
-      "Food/台灣米食文化.md",
       "Food/台灣茶文化.md",
       "Geography/台灣國家風景區系統.md",
       "Geography/台灣溫泉地景.md",
@@ -690,13 +680,11 @@
       "People/高俊明.md",
       "Geography/台灣生態多樣性熱點.md",
       "Nature/生態多樣性.md",
-      "People/吳明益.md",
       "People/朱宗慶.md",
       "People/李智凱.md",
       "People/聶永真.md",
       "Geography/台灣水庫與水資源管理.md",
       "Geography/台灣都市發展與城鄉差距.md",
-      "Lifestyle/台灣騎樓文化與街景.md",
       "Music/台灣影視配樂：從電影原聲到遊戲音樂的聲音美學.md",
       "Nature/台灣原住民生態智慧與環境保育.md",
       "Nature/台灣環境運動史.md",
@@ -704,7 +692,6 @@
       "People/黃國珍.md",
       "Economy/島嶼的蛻變：台灣產業轉型與經濟發展軌跡.md",
       "Economy/島嶼的蛻變：台灣產業轉型與經濟發展軌跡.md",
-      "Music/台灣客家音樂：從山歌到搖滾的文化傳承與創新.md",
       "Music/台灣樂器製造業：從后里薩克斯風到全球音樂工廠.md",
       "Music/台灣電子音樂與派對文化：從地下 Rave 到國際舞台.md",
       "Nature/台灣步道文化與公民守護.md",
@@ -716,18 +703,14 @@
       "People/張忠謀.md",
       "People/張明正.md",
       "People/張艾嘉.md",
-      "People/方序中.md",
       "People/施明德.md",
       "People/明華園.md",
-      "People/朱天文.md",
       "People/李國修.md",
       "People/李安.md",
-      "People/李宗盛.md",
       "People/李昂.md",
       "People/林俊傑.md",
       "People/林百里.md",
       "People/林義雄.md",
-      "People/林青霞.md",
       "People/桂綸鎂.md",
       "People/楊傳廣.md",
       "People/楊德昌.md",
@@ -752,7 +735,6 @@
       "People/鄧雨賢.md",
       "People/鄭兆村.md",
       "People/鈕承澤.md",
-      "People/鍾理和.md",
       "People/陳俊良.md",
       "People/陳建仁.md",
       "People/陳昇.md",
@@ -774,7 +756,6 @@
       "Geography/漯底山.md",
       "Lifestyle/台灣市場文化與傳統市場.md",
       "Nature/台灣鳥類窗殺議題：隱形的都市殺手.md",
-      "People/Ray(YouTuber).md",
       "Society/台灣社區與里文化.md"
     ],
     "ko": [
