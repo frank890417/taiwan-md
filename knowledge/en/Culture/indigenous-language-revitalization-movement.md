@@ -1,122 +1,116 @@
 ---
 title: "Taiwan's Indigenous Language Revitalization Movement"
-description: "From language endangerment crisis to revitalization efforts: examining Taiwan's indigenous language preservation challenges, policy developments, and community-based achievements"
-date: 2026-03-20
+category: 'Culture'
+subcategory: '語言與文字'
 tags:
   [
-    indigenous languages,
-    language revitalization,
-    indigenous education,
-    language policy,
-    cultural transmission,
+    'indigenous peoples',
+    'language revitalization',
+    'indigenous language education',
+    'language policy',
+    'cultural transmission',
   ]
-author: 'Taiwan.md Contributors'
-readingTime: 7
 featured: false
-category: Culture
-lastVerified: 2026-03-20
 lastHumanReview: false
+description: "The Thao people of Taiwan have only 4 remaining fluent speakers, yet Taiwan has become one of the world's most intensive language revitalization laboratories. From the 2017 Indigenous Languages Development Act to digital language platforms, a quiet rescue operation is accelerating."
+date: 2026-03-29
+author: 'Taiwan.md Contributors'
+readingTime: 8
+lastVerified: 2026-03-29
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
+sourceCommitSha: '26216f73'
+sourceContentHash: 'sha256:9c408bfc603af1d1'
+translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 
 # Taiwan's Indigenous Language Revitalization Movement
 
-Taiwan's indigenous languages form a vital component of the world's Austronesian language family and represent precious assets of Taiwan's cultural diversity. However, with modernization and the spread of Mandarin education, indigenous languages face severe transmission crises. In recent years, Taiwan has launched a comprehensive language rescue movement spanning government policy to grassroots community action.
+## 30-Second Overview
 
-## Current Status and Crisis of Language Loss
+The crisis facing Taiwan's indigenous languages is not simply that fewer people speak the mother tongue — the entire environment for transmission has been severed by colonial policies, urbanization, and the education system. From the 2017 Indigenous Languages Development Act, to language nests, to immersion education, to digital platforms: this revitalization movement is trying to rescue not just vocabulary, but an entire way of seeing the land, the community, and the world.
 
-### Alarming Statistics
+In December 2014, the Ita Thao community on the shores of Sun Moon Lake held two funerals in succession. Thao elder Yuan Ming-chih passed away at age 75. He was one of the most fluent Thao-language speakers of his time. That month, the Thao people numbered over 800 in total, but fewer than 5 individuals capable of speaking complete Thao remained — all of them over 60 years old.
 
-According to a 2023 Ministry of Education survey, the age structure of fluent speakers of Taiwan's 16 indigenous languages shows a severe inverted pyramid pattern. Among those over 60, approximately 70% can speak their indigenous languages fluently; however, among those under 20, this percentage drops to less than 5%.
+This is not a metaphor; it is a UNESCO statistic in black and white. The Thao language is listed as "Critically Endangered" — Taiwan has at least four languages at the same level: Kanakanavu (only about 4 fluent speakers remaining in 2012), Saaroa (facing imminent extinction), and Kavalan (about 70 speakers in 2015). Of Taiwan's 16 officially recognized indigenous peoples with approximately 26 languages, at least 10 have already gone extinct — when the last speaker died, the language's sounds, grammar, and worldview disappeared with them, without even a recording left behind.
 
-UNESCO classifies most of Taiwan's indigenous languages as "severely endangered." The Thao language has fewer than 10 fluent speakers remaining, while both Kanakanavu and Saaroa have fewer than 50 speakers each. Even among more populous groups like the Amis and Atayal, younger generations' mother tongue abilities have dramatically declined.
+> **Linguist's Definition:** A language "goes extinct" not when an ethnic group disappears, but when the last person capable of fluently using that language dies. The Thao people are still here; the Thao language stands at the edge of a cliff. There is broad consensus among linguists that Taiwan is the origin of the entire Austronesian language family — all 1,200+ Austronesian languages globally (including Malay, Hawaiian, and Malagasy) may have branched out from Taiwan. Every extinction of a Taiwanese indigenous language is an irreparable gap in the history of human linguistic evolution.
 
-### Social Factors in Language Loss
+## How Colonial Policy Silenced Languages
 
-Language loss stems from complex, multifaceted causes. Both the Japanese colonial period's "National Language Movement" (國語運動) and post-war "National Language Policy" created structural oppression of indigenous languages. Many indigenous elders recall being forbidden from speaking indigenous languages in school, with violations resulting in punishment or humiliation, creating experiences that discouraged them from teaching their mother tongues to the next generation.
+Language loss is not natural death — it was killed.
 
-Urbanization has accelerated language loss. Over half of indigenous peoples now live in urban areas, removed from traditional language-use environments. Young people moving to cities for education and employment have dramatically reduced contact with indigenous languages.
+During the Japanese colonial period, the "Japanization" language policy explicitly prohibited the use of indigenous languages in schools; violations were punished. After 1945, the Nationalist government took over and continued hanging a different version of the "pay a fine for speaking dialect" sign. Many indigenous elders who grew up in that era learned to hide their mother tongue in their hearts — this habit was later passed on to their children, though what was transmitted was not the language itself, but silence.
 
-The breakdown of family transmission chains proves most critical. Many indigenous families have switched to Mandarin as their primary communication language. While grandparents might speak indigenous languages, their grandchildren can no longer understand them. Linguists term this phenomenon "intergenerational language discontinuity."
+Linguists call this phenomenon "intergenerational transmission rupture." It is not that young people are unwilling to learn; it is that the parents' generation was taught that "indigenous languages are useless." Panay Mulu, an Amis teacher engaged in indigenous language education in Hualien, once said: "My mother was punished as a child, so she always spoke Mandarin to me. I only started learning my indigenous language after I turned 30." Urbanization accelerated this process — more than half of Taiwan's indigenous people now live in cities, detached from the tribal ecology in which language use was embedded. Learning a language requires an environment: neighbors, markets, someone to argue with in that language. When that environment no longer exists, language is reduced to symbols in a textbook.
 
-## Policy Development Timeline
+## 2017: Language Elevated to National Language
 
-### From Marginalization to National Language Status
+Three decades of advocacy finally bore fruit at the legal level.
 
-Taiwan's indigenous language policy has undergone tremendous transformation from oppression to protection. Following democratization in the 1990s, indigenous rights movements emerged, bringing language rights into focus.
+In 2017, the **Indigenous Languages Development Act** (原住民族語言發展法) passed its third reading, formally declaring indigenous languages to be "national languages" with status equal to Mandarin and Taiwanese Hokkien. This was more than a symbolic elevation: the law explicitly obligates the government to train indigenous language teachers, promote indigenous language media, and provide indigenous language public services in indigenous areas. The government simultaneously established an indigenous language education personnel system, training over 1,500 certified indigenous language teachers serving schools at all levels nationwide.
 
-The **Indigenous Education Act** (原住民族教育法) passed in 1998, first establishing the legal status of indigenous language education. The law mandated that schools with significant indigenous populations implement ethnic education, including indigenous language instruction. This marked Taiwan's first legal guarantee of indigenous language educational rights.
+Prior to this, the **Indigenous Language Proficiency Examination**, launched in 2005, had accumulated over 30,000 test-takers across four levels: elementary, intermediate, upper-intermediate, and advanced. The numbers look impressive, but examining the age distribution reveals a problem: test-takers over 40 constitute the majority, while those under 20 amount to less than 10% in many indigenous groups. The language certification exists, but the reasons for learning the language are not yet strong enough.
 
-Indigenous language proficiency certification began in 2005, providing standardized assessment mechanisms for indigenous language abilities. Certification divides into four levels: basic, intermediate, high-intermediate, and advanced, with over 30,000 test-takers accumulated to date.
+Kolas Yotaka (谷辣斯·尤達卡) is an Amis journalist, former Presidential Office spokesperson, and Taiwan's first indigenous Executive Yuan spokesperson (2018). She has said: "Indigenous language is the way I see the world. When I think in Amis, what I see is not just words — it is an entire logic of living with nature and the community. Losing this means losing more than a communication tool." She deliberately uses indigenous language in public settings, regarded as a concrete act of "normalizing" the indigenous tongue.
 
-The passage of the **Indigenous Languages Development Act** (原住民族語言發展法) in 2017 represented a crucial milestone. This law designated indigenous languages as "national languages," equal in status to Mandarin and Taiwanese. The law clearly states the government's obligation to promote indigenous language revitalization and provide indigenous language public services in indigenous areas.
+## Language Nests: Letting Children Grow Up Inside a Language
 
-### Institutionalized Support Systems
+Policy can provide resources, but language revitalization must happen in children.
 
-The Indigenous Languages Development Act established comprehensive institutionalized support systems:
+The **Language Nest** model originated with the Maori of New Zealand's Kohanga Reo program, was introduced to Hawaii in the 1980s, and began taking root in Taiwan in the 2000s. The core concept is to have preschool-age children live daily in the indigenous language environment rather than attending classes to study it — eating, playing, and storytelling in the indigenous language, letting language naturally internalize. At the Bunun Language Nest in Sinyi Township, Nantou County, elders serve as the primary caregivers; children in the nest speak no Mandarin, and even "thank you" must be said in Bunun. Elder Istanda said: "We are not teaching the language — we are living in it. Children don't need to memorize vocabulary; they just need to need to speak." This sentence precisely describes the fundamental difference between language nests and traditional language classes: the former creates demand for the language; the latter merely transmits linguistic knowledge.
 
-**Indigenous Language Promoter System**: The government trains indigenous language teachers, indigenous language caregivers, and indigenous language promoters. Currently, over 1,500 certified indigenous language teachers serve in schools nationwide.
+> **The Full-Immersion Experiment at Taiwu Elementary School:** Taiwu Elementary School in Pingtung uses Paiwan as the primary teaching language, conducting math, science, and life education classes in Paiwan. This model has attracted the attention of international language revitalization researchers and is regarded as one of the few successful "full-immersion indigenous language education" cases in Asia. Students' indigenous language ability and academic performance both improved, overturning the stereotyped assumption that "teaching in the indigenous language will hurt academic performance." Taiwan currently has more than 32 schools implementing varying degrees of immersive indigenous language instruction.
 
-**Immersion Indigenous Language Teaching**: Schools are encouraged to establish indigenous language immersion programs, allowing students to learn indigenous languages in natural contexts. Currently, 32 schools implement varying degrees of immersion teaching.
+## klokah Digital Platform and the Digital Race
 
-**Indigenous Language Media Support**: Indigenous Television (原民台) maintains indigenous language news and programming slots, broadcasting over 20 hours of indigenous language content weekly.
+In the 2020s, language revitalization entered a digital sprint.
 
-**Digital Learning Resources**: The "Indigenous E-Learning" (族語E樂園) website has accumulated rich digital teaching materials, including animations, games, songs, and multimedia content.
+**klokah** (klokah.tw) is the most comprehensive indigenous digital learning platform in Taiwan, jointly operated by the Indigenous Languages Research and Development Foundation and the University of Taipei, containing animations, songs, games, and vocabulary databases in 16 indigenous languages, with hundreds of thousands of users annually. The platform's strategy is clear: make indigenous language learning happen on phones, removing the barrier that "you need to live in a tribal community to learn your language." Taiwan Indigenous Television (原民台), launched in 2005 as the first indigenous peoples' television channel in all of Asia, broadcasts over 20 hours of indigenous language content per week; its digital transformation produced an indigenous language news app providing real-time news in 16 languages.
 
-## Community Practices and Innovation Models
+Kolas once said: "When a language appears on screen, appears in the news, children will feel that this language has status — that it's worth speaking." This observation later became one of the core logics of indigenous language media policy. Young indigenous people are also spontaneously creating indigenous language content on social media; Amis-language Facebook fan pages publish vocabulary and short phrases daily, attracting tens of thousands of followers, transforming indigenous language learning from an obligation into an expression of cultural identity.
 
-### Tribe-Led Revitalization Efforts
+## The Remarkable Comeback of Kavalan
 
-The most effective language revitalization often emerges from autonomous tribal community actions. Many tribes have developed innovative models suited to local conditions.
+Among the stories of critically endangered languages, Kavalan (噶瑪蘭語) is an anomalous case.
 
-The Bunun language revitalization project in Tannan tribal community, Xinyi Township, Nantou County, represents one success story. The community established a "Bunun Language Nest" (布農族語言巢) with elders serving as teachers, instructing children in indigenous languages within natural daily contexts. Children use indigenous languages for games, meals, and traditional knowledge learning in the nest, showing significant language ability improvements.
+The Kavalan people originally lived in Yilan; as Han Chinese settlers moved in during the Qing dynasty, the people were forced to migrate to Fengbin in Hualien and Taitung. Linguists long assumed Kavalan was near extinction — a 2000 survey found only 24 speakers. Yet this very crisis of "facing disappearance" triggered a wave of community-initiated revitalization. People of Xinsheh Village in Fengbin Township began systematically recording elders' oral histories, publishing indigenous language teaching materials, and collaborating with academic institutions to build vocabulary databases. In 2001, the Taiwan government officially recognized the Kavalan as the 11th indigenous people of Taiwan, making them eligible for language preservation resources. By 2015, mother-tongue speakers had risen to approximately 70, and a new generation of young people began bringing Kavalan into songs and social media. The Kavalan revitalization tells us one thing: the policy resources that come with official ethnic recognition can sometimes be the critical variable for a language's survival.
 
-Taitung Elementary School in Pingtung County's Paiwan immersion teaching has gained international attention. The school uses Paiwan as the primary instructional language, teaching not only indigenous languages but also mathematics, science, and other subjects in Paiwan. Students demonstrate excellent indigenous language abilities and academic performance, proving immersion teaching effectiveness.
+## The Race Between Rescue Speed and Language Extinction Speed
 
-### Intergenerational Co-learning Models
+Taiwan's current language revitalization faces a hidden paradox: the languages most urgently needing rescue tend to have such small user populations that it is difficult to establish an environment where "there is someone to talk to"; languages with large enough user populations risk making young people feel "it's not that urgent." Thao needs emergency rescue — any method that leaves behind sounds counts; Amis needs young people to want to use it. A single policy cannot solve both problems simultaneously, which is why Taiwan's revitalization work is necessarily multi-track, running from language nests to proficiency exams to digital platforms in parallel, each path aimed at different groups with different levels of urgency.
 
-Boya Elementary School in Hualien County created an "intergenerational co-learning" model, inviting community elders into schools for shared learning with students. Every Wednesday afternoon is "Elder Time," when elders teach traditional culture and indigenous languages while students help elders learn digital technology. This model not only transmits languages but also strengthens intergenerational connections.
+Based on 2023 data, the proportion of fluent indigenous language users among those under 20 does not exceed 5% in most groups, but the variation between groups is enormous. This is not just a question of educational resource allocation — it is a question of whether contexts for using the language actually exist. Getting children to learn the language is relatively easy; getting them to have reasons to speak it in daily life is the fundamental challenge.
 
-The Puyuma language revitalization project in Nanwang tribal community (Puyuma), Taitung County, adopts a "family language revival" strategy. The project trains young parents to learn indigenous languages, encouraging indigenous language use with young children at home. The community regularly hosts "Indigenous Language Family Days," creating social opportunities for indigenous language use.
+Panay Mulu once said: "I didn't learn my indigenous language to preserve a cultural heritage. I learned because I want to know — when my ancestors looked at the same mountains, what words did they say in their hearts?"
 
-### Digital Technology Applications
+When a word disappears, it is not just a sound that is lost — it is a reality that only speakers of that language could perceive. Fewer than 5 people in Taiwan can see the Sun Moon Lake through Thao eyes. After every funeral, that world shrinks a little more.
 
-New-generation indigenous peoples actively employ digital technology to promote indigenous languages. The "Amis Language Kaleidoscope" Facebook page posts daily Amis vocabulary and phrases, attracting tens of thousands of followers. Founder **Kolas Yotaka** (谷辣斯‧尤達卡) harnesses social media power to make indigenous language learning interesting and fashionable.
+## References
 
-The YouTube channel "Indigenous Languages Are Cool" (族語很潮), operated by young indigenous people, teaches various indigenous languages in lively ways, with videos often exceeding ten thousand views. The channel teaches not only vocabulary but also introduces indigenous languages' cultural backgrounds and usage contexts.
+Primary language data sources: UNESCO Atlas of the World's Languages in Danger, Ethnologue, and Wikipedia articles on individual languages.
 
-The Indigenous Television-launched "Indigenous News" app provides news content in all 16 indigenous languages, allowing users to encounter indigenous languages during commute time. The app also features voice recognition functions for practicing indigenous pronunciation.
+Thao language status (4 fluent speakers, 2021): https://en.wikipedia.org/wiki/Thao_language
 
-## Challenges and Future Prospects
+Kavalan language (approximately 70 speakers, 2015): https://en.wikipedia.org/wiki/Kavalan_language
 
-### Persistent Difficulties
+Overall situation of Taiwan's Austronesian languages (at least 10 extinct): https://en.wikipedia.org/wiki/Formosan_languages
 
-Despite tireless revitalization efforts, indigenous language transmission faces severe challenges. The greatest problem is "insufficient usage contexts." Even after learning indigenous languages, without actual usage opportunities and needs, language abilities quickly deteriorate.
+Taiwan Indigenous Television history (launched 2005, first in all Asia): https://en.wikipedia.org/wiki/Taiwan_Indigenous_Television
 
-Insufficient qualified teachers also presents universal problems. While the government has trained indigenous language teachers, truly fluent traditional indigenous language instructors remain scarce. Many schools can only hire part-time indigenous language teachers with limited instruction time, making immersion learning effects difficult to achieve.
+Kolas Yotaka's political career and language advocacy: https://en.wikipedia.org/wiki/Kolas_Yotaka
 
-Intergenerational attitudinal differences also create challenges. Some young indigenous people consider learning indigenous languages "impractical," preferring to invest time learning English or other skills. How to help young people understand indigenous languages' cultural value remains a challenge the revitalization movement must address.
+klokah Indigenous Digital Learning Platform: https://web.klokah.tw/
 
-### Innovation Directions for Revitalization Strategies
+UNESCO Global Endangered Language Atlas: https://www.unesco.org/languages-atlas/
 
-Future indigenous language revitalization may develop toward more diverse strategies:
+Chinese academic sources: Lee Tai-yuan (2020), _Indigenous Language Revitalization: Policy and Practice_, Avanguard Publishing; Huang Mei-chin (2019), _The Crisis and Revitalization of Taiwan's Austronesian Languages_, Institute of Linguistics, Academia Sinica; Chien Yueh-chen (2021), _Tribal Language Nests: Local Practice of Indigenous Language Revitalization_, National Chengchi University Press.
 
-**Daily Life Applications**: Integrating indigenous languages into daily life contexts, such as developing indigenous language versions of mobile apps, games, and shopping systems, increasing actual usage opportunities.
+**Further reading:**
 
-**Creating Workplace Demands**: Promoting indigenous language services in public departments, medical institutions, and service industries in indigenous areas, creating economic incentives for indigenous language use.
-
-**Inter-tribal Exchanges**: Encouraging exchanges between different indigenous peoples using their respective indigenous languages, increasing the social value of language use.
-
-**International Connections**: Collaborating with other Austronesian-speaking nations to promote international indigenous language research and exchanges, enhancing languages' international status.
-
-Taiwan's indigenous language revitalization movement has traversed 30 years of development, from marginalization to legalization, from individual efforts to institutional support. While challenges remain severe, innovative revitalization models and young generation participation kindle hope for these precious languages. Languages serve not merely as communication tools but as carriers of cultural memory and identity. Every successful revitalization story represents a victory for Taiwan's cultural diversity.
-
-## Reference Materials
-
-- [Indigenous Languages Research and Development Center](https://alilin.apc.gov.tw/) — Indigenous language revitalization policy and research findings
-- [Indigenous E-Learning](https://web.klokah.tw/) — Digital indigenous language learning platform
-- [Indigenous Language Proficiency Certification](https://exam.sce.pccu.edu.tw/Alang/) — Examination information and statistics
-- Li Tai-yuan (2020) _Indigenous Language Revitalization: Policy and Practice_, Qianwei Publishing
-- Huang Mei-jin (2019) _Crisis and Revitalization of Taiwan's Austronesian Languages_, Academia Sinica Institute of Linguistics
-- UNESCO Atlas of the World's Languages in Danger — Global endangered language statistics
-- Chien Yueh-chen (2021) _Tribal Language Nests: Local Practices in Indigenous Language Revitalization_, National Chengchi University Press
+- [Remote Area Schools in Taiwan](/society/台灣偏鄉教育) — The educational challenges of indigenous area schools reach beyond academic performance into whether language and culture can be embraced by schools.
+- [History of Taiwan's Indigenous Peoples and the Name Rectification Movement](/history/台灣原住民族歷史與正名運動) — Language revitalization cannot be separated from rebuilding ethnic names, historical narratives, and political subjecthood.
+- [Taiwan Indigenous Land Justice and Traditional Territories](/society/台灣原住民族土地正義與傳統領域) — Language, land, and ways of life are originally one interconnected fabric.
+- [Taiwan's Indigenous Peoples: A Cultural Map of 16 Tribes](/culture/台灣原住民族16族文化地圖) — For an overview of each group's distribution and cultural profile.
+- [Taiwan Indigenous Foodways](/food/台灣原住民飲食文化) — Food preserves not only flavor but also language, place names, and ecological knowledge.
+- [Indigenous Ecological Wisdom and Environmental Conservation in Taiwan](/nature/台灣原住民生態智慧與環境保育) — Indigenous languages contain extensive knowledge of interactions with forests, rivers, and seasons.
+- [Indigenous Contemporary Art in Taiwan](/art/台灣原住民當代藝術) — Contemporary art is another path for indigenous languages and cultures to be seen again.

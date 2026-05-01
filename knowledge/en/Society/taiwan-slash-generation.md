@@ -1,124 +1,183 @@
 ---
-title: "Taiwan's Slash Generation — Surviving on Multiple Jobs"
-description: "When a master's degree barely covers rent on a Taipei studio, juggling side hustles isn't a lifestyle choice — it's arithmetic"
-date: 2026-03-29
+title: 'Teach For Taiwan: How a Princeton Graduate Came Home and Convinced 400 Young People to Enter Remote Classrooms'
+description: "In 2014, Liu An-ting started with NT$2,000 and nine people. Eleven years later, more than 400 TFT teachers have entered Taiwan's most remote elementary schools, accompanying over 7,000 children forgotten by the system. This is not an inspirational charity story — it is an ongoing debate about who should be responsible for inequality."
+date: 2026-04-08
 tags:
-  ['slash career', 'gig economy', 'wages', 'housing prices', 'youth employment']
-subcategory: 'Generations & Society'
-author: 'p3nchan'
-readingTime: 9
+  [
+    'education',
+    'rural education',
+    'TFT',
+    'Teach For Taiwan',
+    'Liu An-ting',
+    'educational inequality',
+    'social enterprise',
+    'remote areas',
+  ]
 category: 'Society'
-lastVerified: 2026-03-29
+subcategory: '教育'
+author: 'Taiwan.md'
 featured: false
-lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
+sourceCommitSha: '26216f73'
+sourceContentHash: 'sha256:8877b0b0d8b6abd7'
+translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 
-> Taiwanese people aged 25 to 35 are running a survival experiment that nobody officially declared. The median monthly salary sits at TWD 38,000 (roughly USD 1,200). A basic studio apartment in Taipei starts at TWD 14,000. One full-time job doesn't cut it — so after clocking out, they flip on a delivery app, freelance through the weekend, and edit videos past midnight. This isn't a "slash career trend." It's a survival strategy forced into existence by structural failure.
+> **30-second overview:** Taiwan's PISA scores rank among the world's best, but disadvantaged students fall as much as six academic years behind their peers. In 2014, 24-year-old Princeton graduate Liu An-ting founded Teach For Taiwan (TFT) with NT$2,000, sending top university graduates to teach in remote elementary schools for two years. Eleven years on, more than 400 TFT teachers have entered 85 schools across nine counties and cities, accompanying over 7,000 children. Eighty percent of alumni remain in the field of education. But the questions have never stopped: Is six weeks of training enough? Do urban elites understand indigenous communities? Is this a systemic solution, or just another well-meaning cultural intrusion?
 
-Hsiao-Chieh is 28. She graduated from a private university with an English degree. By day she works as a social media editor at a mid-sized marketing firm, earning TWD 33,000 a month. Every evening at six, she hops on her scooter and switches identities — opening the Uber Eats app to deliver food until ten. On weekends she picks up translation gigs from 104 Outsourcing, charging TWD 2,500 for a 3,000-character Chinese-to-English piece. Her three income streams add up to roughly TWD 52,000 a month. After paying TWD 13,500 for a tiny eight-ping studio in Taipei's Songshan district (about 290 square feet), plus scooter fuel, food, and student loan payments, she saves less than TWD 8,000.
+In June 2016, Liu An-ting stood at the National Cheng Kung University commencement podium and said something to the thousands of young people about to enter society. That sentence was later shared hundreds of thousands of times online.
 
-"It's not that I'm not trying," she says. "One salary just isn't enough to live on."
+She did not talk about dreams or the future. She asked a question: "What will you do with your luck?"[^1]
 
-This is the snapshot of Taiwan's 斜槓世代 (xiégàng shìdài) — the "slash generation." Not the polished "portfolio career" narrative you see on LinkedIn, but a survival formula hammered together under the twin pressures of structural wage stagnation and runaway housing costs.
+At the time she was 26, and had already spent two years in Taiwan's most impoverished school districts. She had seen a child named A-Wei, whose father ran a bubble tea stall and whose mother had come from Vietnam as a bride. The family could not afford tuition, and A-Wei skipped school to help sell drinks. After a TFT teacher brought him back, he scored the highest marks among the boys in his class and won an award in a national painting competition for students from remote areas.[^1]
 
----
+The word "luck" in her mouth was not a figure of speech. She was saying: the mere fact that you can sit here and listen to a speech is itself the product of an unfair arrangement. What do you plan to do about that unfairness?
 
-## The Numbers Don't Lie: Wages Can't Keep Up with Rent
+## A Six-Year Gap: The Number Taiwan's Education System Most Resists Facing
 
-Start with wages. According to the Directorate-General of Budget, Accounting and Statistics (DGBAS) — Taiwan's official statistics bureau — the 2025 median monthly regular salary for all employees was TWD 38,319. That's the _median_, meaning half of all workers take home less. Fresh graduates average about TWD 34,000, and if you didn't study STEM, landing somewhere between TWD 28,000 and 32,000 is perfectly normal.
+Taiwan's education performance is among the best in the world. In PISA assessments, Taiwanese students have long ranked in the global top ten in mathematics and science. But if the camera shifts away from the average and points at the gap between the highest and lowest scores — Taiwan was once ranked first in the world for that spread.[^2]
 
-Now look at rent. The average monthly rent for an independent studio apartment in Taipei is TWD 14,400. Even retreating to New Taipei City only gets you down to TWD 13,100. By the widely used international guideline that rent should stay under 30% of income, you'd need to earn at least TWD 43,000 a month for a Taipei studio to be "affordable." But a graduate earning TWD 34,000 is already handing 42% of their paycheck to a landlord.
+The numbers are as follows: students from the most disadvantaged socioeconomic backgrounds fall as many as six years behind students from advantaged families.[^3] The probability of a student in Taipei entering a university is 3.32 times that of a student from a remote area.[^4] There are 814 elementary schools classified as "remote" across Taiwan, serving nearly 100,000 students, who represent 5.3% of the national student population.[^5]
 
-And that's just renting. If we're talking about buying, Taipei's price-to-income ratio hit 16.36 at the end of 2024 — meaning a household would need to save every single dollar earned, spending nothing, for over 16 years to afford a home. That figure tops London, New York, and Toronto, placing Taipei among the most unaffordable cities on the planet.
+The average class size at remote schools is 14.4 students — half the national average. The student-to-teacher ratio appears better on the surface (6:1 vs. the national 11.17:1), but this number conceals the real problem: it is not that there are too many teachers, but that students are leaving. Among the teachers who do stay, substitute and contract teachers make up 19.8% (compared to a national average of 14.1%).[^5]
 
-Does a master's degree help? Marginally. A non-tech graduate degree bumps starting salaries to roughly TWD 38,000–42,000 — a few thousand more than a bachelor's. But Taipei landlords don't offer academic discounts. A humanities MA's starting pay in Taipei just about covers rent plus bare-minimum living expenses. Two extra years of education, and the salary gap gets swallowed by housing costs almost entirely.
+Average years a teacher stays at a remote school: 4.5.[^6]
 
----
+> "Many remote schools post job openings and nobody applies." Not because salaries are low — teacher pay is uniform nationwide. It is because young teachers do not want to spend some of the best years of their lives in a place with no convenience stores, intermittent mobile signal, and after school hours just one outsider left in the whole village.
 
-## Delivery Platforms: A Generation's Airbag
+This is the question TFT set out to answer: if the best teachers won't go to remote areas, how can the children there ever climb out?
 
-The number of food delivery riders in Taiwan exploded from 45,000 in 2019 to 145,000 in 2022. A threefold increase in three years.
+## The Princeton Graduate's NT$2,000
 
-Who are these 145,000 people? An analysis by 104 Job Bank of 8,402 resumes with delivery experience found that 42.9% started delivering before age 24 — many of them still in college — with a heavy concentration among those under 29. The median monthly income was TWD 36,000, and the median tenure was just 0.9 years. Most people burn out or move on within a year.
+Liu An-ting was born in 1989 in Taipei and grew up in Taichung. Both her parents worked for the Linye Foundation, an organization serving single-parent and disadvantaged families.[^7] Watching her parents' work from childhood, she grew up and appeared to choose a completely different path — passing the entrance exam for Taichung First Girls' Senior High School's language gifted program, simultaneously gaining admission to NTU's Department of Foreign Languages, NTU's Department of Political Science, and ten American universities, before accepting a full scholarship to Princeton.[^7]
 
-Delivery work isn't a career destination. It's a buffer — an airbag you deploy when your full-time salary falls short, a landing pad when the job you actually want hasn't materialized yet.
+At Princeton she studied at the Woodrow Wilson School of Public and International Affairs. Her senior thesis was on Cambodian civil society, and it won the departmental thesis prize.[^7] But what truly changed her was not academic achievement — it was the places she went during those four years: teaching elementary school in Ghana, volunteering at a tent school in Haiti, working in an American juvenile prison (her first time standing in front of a classroom to teach), interning in Geneva, working in a Paris slum, and with an NGO in Cambodia.[^8]
 
-In January 2026, Taiwan's legislature (the Legislative Yuan) passed the _Food Delivery Worker Rights Protection and Platform Management Act_ (外送員權益保障及外送平臺管理法), establishing a minimum per-order payment of TWD 45 and requiring hourly pay to be at least 1.25 times the minimum wage. This was a long-overdue patch. Before the law, delivery riders existed in a legal gray zone under the Labor Standards Act (勞基法, láojī fǎ) — not classified as formal employees, with no labor insurance, no occupational accident coverage, and no base pay. Platforms could unilaterally slash per-delivery rates, and riders had zero bargaining power.
+She circled the globe, witnessed the situation of disadvantaged children around the world, and then asked herself one question: what about Taiwan?
 
-Having a law on the books is progress. But it also underscores an uncomfortable truth: a job that over a hundred thousand people depend on took nearly seven years to receive even basic legal protection.
+In 2013, at a social enterprise camp organized by the CommonWealth Foundation, she met Stan Shih, Terry Fang, and NTU Professor Lee Ji-ren. They were discussing the "talent problem" in remote education — not a shortage of resources, but a shortage of good teachers willing to stay.[^9] After the camp, Liu An-ting spent six months conducting feasibility research, traveling through remote areas, interviewing principals and teachers, and studying international cases. The model she drew on was Teach For America — a program founded in 1989 by Princeton alumna Wendy Kopp, which placed top university graduates to fill teacher shortfalls in America's impoverished school districts.[^10]
 
----
+In 2014, TFT was formally established. Capitalization: NT$2,000.[^11]
 
-## Beyond Delivery: The Full Spectrum of Side Hustles
+The first cohort of nine people entered eight schools in Tainan and Taitung.[^9]
 
-Food delivery is just the lowest barrier to entry. The side-hustle spectrum for young Taiwanese is far wider than most people realize.
+## A Two-Year Teacher for 7,000 Children
 
-**Freelance design and development.** Platforms like 104 Outsourcing and Tasker (出任務) connect freelancers with clients, and many just find gigs through social media. A young UI designer earning TWD 38,000 at their day job can charge TWD 15,000–30,000 for a single landing page at night. Software engineers have it even better — a React front-end project can fetch TWD 50,000 or more. The upside is strong hourly rates; the downside is unpredictable deal flow. "Feast this month, famine the next" is the norm.
+TFT's operating model is simple to describe: recruit exceptional young people, give them six weeks of intensive training, and place them as full-time teachers in remote elementary schools for two years. Monthly salary: NT$40,000. Over two years, participants receive more than 500 hours of in-service training.[^12]
 
-**Online teaching and knowledge products.** Hahow (好學校), Taiwan's leading online learning platform, hosts over 1,000 courses with 800,000 registered users. PressPlay Academy has 500+ creators. A hit course can generate millions of TWD in revenue — but that's the tip of the pyramid. Most course creators earn far less, and the production cost is steep: filming, editing, and marketing can easily consume three to six months.
+Behind the simplicity is a rigorous selection process. Data from the sixth cohort: 694 applicants, 63 admitted, 49 ultimately placed in schools — an acceptance rate of around 7%. The selection has three stages: a document review, an online interview, and a full-day in-person interview (including a live teaching demonstration). The last week of the six-week training program is a teaching practicum.[^13]
 
-**Content creation.** YouTube, Instagram, Threads, podcasts. The barrier to entry is the lowest, and the ceiling is the most uncertain. A Taiwanese YouTuber typically needs over 100,000 subscribers before ad revenue becomes meaningful. Until then, content creation is more like "a side hustle that costs you time."
+By 2025, TFT had cumulatively trained more than 400 teachers, placed in 85 schools across nine counties and cities, serving over 7,000 students.[^14] In the Hengchun Peninsula in Pingtung, more than 40% of schools have TFT teachers on site, with a cumulative total of 90 teachers placed.[^14] In southern Hualien, coverage exceeds 45%.[^14]
 
-**Reselling and e-commerce.** Japanese and Korean product reselling, Shopee storefronts. Margins are thin but cash flow is fast. Plenty of young people start with cross-border reselling and gradually build out a small e-commerce operation.
+TFT uses a framework called "3A" to define its goals: Access, Achievement, and Aspiration.[^3] By their own assessment, more than 70% of TFT students meet grade-level learning standards — while the national figure for remote schools is that over half of students do not meet the standard.[^14]
 
-According to a 2025 survey by 104 Job Bank, 39% of salaried workers have a side hustle. Break it down by generation and the numbers jump: 57% of Gen Z (born after ~1997) have one, and 48% of millennials. A separate survey by yes123 Job Bank found that 93.2% of respondents _want_ to have a side hustle.
+At Zhengmin Elementary School in Yunlin, 90% of teachers entered through TFT. The school abolished monthly exams, replacing them with "assessment weeks." Every day before students leave, there is a "sunset circle" where children sit together and share what they learned that day.[^11] None of these practices appear in any Ministry of Education curriculum guidelines. They are things TFT teachers brought in — and they took root there.
 
-The number-one reason? 78.8% said "to earn more money." Not self-actualization. Not passion. The paycheck isn't enough.
+> **Curator's note:** In TFT's "3A Framework," the most easily overlooked is the third A — Aspiration. Children in remote areas lack not only teachers and materials; what they lack is an adult who makes them believe "I can do this." Numbers can quantify the first two A's, but the third can only be measured in stories.
 
----
+## "Don't Believe in Me as an Individual"
 
-## Freelancers in Convenience Stores
+TFT's growth was not an unbroken hero's journey.
 
-Taiwan has a phenomenon you won't find almost anywhere else on Earth: rows of people working on laptops inside convenience stores.
+In 2013, Liu An-ting's talk at TEDxTaipei transformed her overnight from an unknown to a media fixture. But the narrative frame this exposure created was not one she wanted — "Princeton honor student gives up high salary to go teach disadvantaged kids in rural Taiwan." The story became an inspirational tale of personal sacrifice rather than a structural problem of systemic educational failure.[^15]
 
-With over 13,000 convenience stores nationwide — nearly all of them offering seating, free Wi-Fi, and power outlets — a TWD 45 cup of drip coffee (about USD 1.40) buys you an entire afternoon. For freelancers and side hustlers who can't afford a coworking space, 7-ELEVEN and FamilyMart _are_ the budget mobile office.
+She later said in an interview with Cheers magazine: "Don't believe in me as an individual... what has influence is not me personally, but the beliefs I hold."[^16]
 
-Cafés serve the same function. Taiwan has an exceptionally high density of no-time-limit coffee shops. The website Cafe Nomad lists hundreds of work-friendly cafés, complete with ratings for Wi-Fi speed, outlet availability, and noise levels. The very existence of that site tells you something about demand — there's an entire class of people who need a cheap place to sit down with a laptop and earn money.
+She also acknowledged that she had been away from Taiwan for too long, and that her impact at the TED stage far exceeded what she had expected. The media had framed TFT as a "hero story" rather than a systemic movement.[^15]
 
-Taiwan ranked 12th globally and first in Asia in the 2024 Global Digital Nomad Report. That ranking isn't entirely driven by foreign remote workers flocking to Taiwan for the low cost of living. A large part of it reflects the homegrown ecosystem of local freelancers and slash workers who built this infrastructure from the ground up.
+## Is Six Weeks Enough? — Criticism and Controversy
 
----
+The criticism directed at TFT has never stopped.
 
-## The Gray Zone: When the Law Can't Keep Up
+The most systematic critique came in 2014 from an article in NPOst (Common Welfare Exchange Station) that raised five objections:[^17]
 
-Taiwan's Labor Standards Act doesn't prohibit employees from taking on side jobs. The Ministry of Labor's official position is clear: workers have the right to engage in other work outside of regular hours, and employers cannot punish them for it.
+First, six weeks of training is not enough. Bloom's taxonomy of cognitive levels tells us that the distance between "knowing" and "being able to apply it in a real classroom" spans several cognitive tiers. Can six weeks bridge that gap?
 
-Sounds progressive. But reality is messier than the statute.
+Second, TFT addresses only teaching, not children's survival problems. The difficulties faced by children in remote areas extend far beyond a shortage of good teachers — 43.9% of students in remote schools cannot pay tuition, 17.9% take their lunch home (meaning there is nothing for dinner), and 8% of families have debt collectors after them.[^17] Can a two-year teacher solve any of this?
 
-Many companies bury "non-compete" or "full-time exclusivity" clauses in employment contracts or internal rules, effectively barring employees from any other paid work. Legally, these clauses are questionable — non-competes require reasonable compensation and can't exceed two years — but most young workers don't know that, and even fewer would risk challenging their employer. The result: people do side hustles, but they hide them.
+Third, the sharpest question: does rural education have to look like urban education? Sending urban elites into indigenous communities — is that "helping" or "cultural invasion?"[^17]
 
-Taxes are another gray zone. Freelance income, delivery earnings, e-commerce revenue — all of it should theoretically be reported as taxable income. But a huge volume of small transactions — a TWD 3,000 design job here, an extra TWD 15,000 from delivery there — flies under the reporting radar. It's not deliberate tax evasion; it's a tax system that simply wasn't designed for the gig economy's velocity.
+Fourth, the question of motivation: is TFT serving the needs of those it aims to help, or satisfying the volunteers' desire for self-actualization?
 
-The gap in labor protections is even wider. Taiwan counted 804,000 non-standard workers in 2024, about 6.95% of total employment. That number looks modest, but it only captures people whose _primary_ job is non-standard. Those who hold a full-time position by day and deliver food or freelance by night? Their side-hustle identities don't exist in labor statistics at all. No labor insurance, no occupational accident coverage, no pension contributions. If a delivery rider gets into a traffic accident during an evening shift, their employer's labor insurance won't cover it — because it didn't happen during their commute to the day job.
+Fifth, oversight and accountability: how do you assess outcomes after the two years end? Can TFT demonstrate that it is genuinely improving the situation?
 
----
+On PTT's teacher discussion board, grassroots teachers also expressed reservations: TFT teachers enter schools as substitute teachers without formal teaching licenses, creating tension with the regular teacher certification system.[^18]
 
-## Structural Problems Don't Yield to Individual Hustle
+> These criticisms are not malicious attacks. They point to a core question: is good intention enough? If not, what else is needed?
 
-Here's the brutal arithmetic: Taiwan's housing price-to-income ratio surged 77% from 2012 to 2023. Over the same period, the median wage rose just 14%. That scissor gap doesn't close by "picking up one more gig."
+## Making the System See Remote Areas
 
-The statistic that 57% of Gen Z workers have a side hustle often gets spun as "young people are so ambitious" or "slash careers are the new trend." But place it back in context — when more than half of an entire generation feels that a single full-time income can't sustain a basic life — that's not a trend. That's an alarm.
+TFT did not directly bring about legislation, but it was one of the important forces that pushed rural education issues into public debate.
 
-Taiwan's AI-fueled semiconductor industry powered a 52% year-on-year jump in electronics exports in 2024. GDP figures look great. Per-capita income ranks near the top in Asia. But the DGBAS simultaneously reported that 69.77% of employees now earn below the average wage — a record high. The fruits of economic growth are concentrated in a narrow slice of the supply chain, and most people aren't getting a taste.
+On November 21, 2017, the Legislative Yuan passed the Act for Development of Remote Area Schools — a 24-article law allowing remote schools to hire up to one-third of teachers on contract, creating a "specially appointed teacher" system, stipulating that teachers newly assigned to remote areas must serve a minimum of six years before they can transfer, and providing retention bonuses.[^19] In 2018, the Ministry of Education officially recognized the TFT teacher training program as a legitimate channel for teacher practicum certification.[^4]
 
-Young Taiwanese see this clearly. They don't complain — they open a delivery app. They don't wait for policy reform — they freelance on weekends. They've stopped dreaming about homeownership — they're calculating how to stay alive.
+In 2018, Liu An-ting married Lu Guan-wei — chairman of the Junyi Academy Education Foundation and head of Taiwan's largest online education platform.[^20] More than 700 people attended the wedding, which the education community called "the wedding of the century in education." But more important than the gossip is what these two people represent: two distinct paths in Taiwan's educational reform. TFT addresses "places where people cannot reach"; Junyi addresses "places where resources cannot reach." Together, they cover nearly both dimensions of the challenges facing remote education.
 
-The story of the slash generation, at its core, is an arithmetic problem: when income growth permanently trails the cost of living, you either accept getting poorer or you split yourself into several people.
+In 2024, TFT entered its second decade. Liu An-ting passed the executive director role to Shih Hui-wen and moved to the position of founder and board member. The new board chair, Lin Yen-hsi, took over.[^14] The organization has transformed from one woman's personal project into an education foundation with professional governance.
 
-Taiwan's young people chose the latter. But this shouldn't be celebrated. It should be treated as a problem to solve.
+## What Happened to Those First Nine
 
----
+Of the nine people who entered remote areas in 2014, not all of them left when their service ended.
+
+First-cohort teacher Wu Chia-hui, after completing her two-year service, founded the ThereforEd Association, dedicated to developing English teaching materials suited to the context of remote communities.[^11] She had discovered that the scenarios in American-made textbooks — shopping malls, baseball stadiums, Thanksgiving dinners — bore no relation to the lived experience of her students. She needed materials that grew from the soil of where her students lived.
+
+Across TFT's full alumni body, more than 80% remain working in areas related to educational inequality. Sixty percent continue directly in education (as teachers, school administrators, or education researchers), and 30% have moved into social innovation and public policy.[^14]
+
+This number may be TFT's best defense: if all these people left the educational field after two years, the critics would be right — it was simply a gilt-edged volunteer experience. But if 80% of them choose to stay and continue the same work in different forms, then those two years changed not only the children, but also the way these young people see the world.
+
+In 2025, TFT held an event called the "Sensory Festival" at the Huashan 1914 Creative Park, combining music, a market, exhibitions, and cross-disciplinary dialogue.[^14] The organization that started with NT$2,000 eleven years earlier now has more than a hundred corporate and public-good partners and reaches over 10,000 young people each year.[^14]
+
+The twelfth cohort is currently recruiting.[^14]
+
+The fluorescent lights in some remote school classrooms flicker. The mountains outside are quiet. When the bell rings at the end of class, there are only a dozen or so children's voices on the playground — but that sound carries far.
+
+**Further reading:**
+
+- Taiwan's Remote Area Education — If you want to see the overall structure first, rather than just this one organization, that article lays out the four circles of children, schools, family and community, and societal conceptions of success together
+- Taiwan's Low Birth Rate Crisis — The declining birth rate is the fundamental pressure on whether rural schools survive; the ongoing loss of student numbers pushes small schools toward consolidation
+- Taiwan's Indigenous Land Justice and Traditional Territories — Many of the schools TFT operates in are in indigenous communities, where educational issues are intertwined with land justice and cultural continuity
+- Stan Shih (嚴長壽) — One of TFT's catalysts, founder of the CommonWealth Foundation; his educational experiments in Taitung and TFT are two tributaries of the same river
+- Taiwan's Volunteer Culture and Civic Participation — Taiwan's civil society tradition of volunteerism is the soil that allowed TFT to recruit 400 people
 
 ## References
 
-1. [行政院主計總處：薪資中位數及分布統計](https://www.stat.gov.tw/cl.aspx?n=2715) — 2025 median regular salary: TWD 38,319
-2. [104 人力銀行：2025~2026 台灣地區薪資福利調查報告](https://blog.104.com.tw/104data/) — 39% of workers have a side hustle; 57% among Gen Z
-3. [內政部不動產資訊平台：房價所得比統計](https://pip.moi.gov.tw/Publicize/Info/E1050) — Taipei price-to-income ratio: 16.36x
-4. [勞動部職業安全衛生署：外送員人數統計](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — 145,000 delivery riders nationwide in 2022
-5. [數位時代：2026 外送專法明定每單最低 45 元](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Legislature passes delivery worker protection act
-6. [591 新聞：租屋族好苦，全台租金平均低消 6 千起跳](https://news.591.com.tw/news/11622) — Taipei studio average rent: TWD 14,400
-7. [The News Lens 國際版：Taiwan's Housing Crisis — Housing Prices Among the Highest Globally](https://international.thenewslens.com/article/182910) — International comparison of Taiwan housing costs vs. wages
-8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — English coverage of Taipei's youth housing crisis
-9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Wage stagnation and its impact on Taiwanese democracy
-10. [人間福報：2024 年非典型就業人數占比探 10 年低點，兼差族群則創高](https://www.merit-times.com/news/76429) — DGBAS non-standard employment statistics
+[^1]: [Womany: Liu An-ting's NCKU commencement address — "What will you do with your luck?"](https://womany.net/read/article/10943) — The full text of the 2016 NCKU commencement address, including the story of A-Wei and the full context of the "luck" thesis.
+
+[^2]: [UDN: PISA 2022 Taiwan score analysis](https://udn.com/news/story/6885/7620793) — Variation between schools declined from 42% in PISA 2012 to 38% in 2022; historical changes in the gap between high and low scorers.
+
+[^3]: [TFT Official: The Challenges We See](https://www.teach4taiwan.org/challenge/thinkings/) — TFT's systemic analysis of educational inequality in Taiwan, the 3A framework definition, and the key figure of disadvantaged students falling six years behind.
+
+[^4]: [HundrED: Teach for Taiwan](https://hundred.org/en/innovations/teach-for-taiwan) — International assessment of the TFT model by Finnish education innovation organization, including the 2018 Ministry of Education recognition of practicum certification, and the 3.32-fold Taipei university entry rate disparity.
+
+[^5]: [Ministry of Education Statistics Division: Remote School Statistics](https://stats.moe.gov.tw/files/brief/) — Government primary data: 814 remote elementary schools, 99,461 students (5.31%), average class size 14.4, substitute teacher ratio 19.8%.
+
+[^6]: [Zhi Shan Foundation: Report on the Difficulties of Remote Teachers](https://www.zhi-shan.org/article/12/3440) — Average years teachers stay at remote schools: 4.5; proportion of teachers under 30: 13.5% (national: 9.4%).
+
+[^7]: [Wikipedia: Liu An-ting](https://zh.wikipedia.org/zh-tw/劉安婷) — Biographical data, educational background, Princeton thesis prize, family background (Linye Foundation), cross-verified across multiple sources.
+
+[^8]: [Social Enterprise Insights: Liu An-ting — From Ghana to Taiwan](https://www.seinsights.asia/article/1848) — International volunteer experiences during Princeton (Ghana, Haiti, American prison, Geneva, Paris, Cambodia).
+
+[^9]: [TFT Official: About Us](https://www.teach4taiwan.org/about/) — Founding history, origins at the 2013 social enterprise camp, the first cohort of nine entering eight schools in 2014, legal registration history.
+
+[^10]: [Wikipedia: Teach For All](https://en.wikipedia.org/wiki/Teach_For_All) — The global network of the Teach For America model, now spanning 62+ countries, with TFT as the Taiwan affiliate.
+
+[^11]: [Taiwan Panorama: TFT Remote Education Report](https://www.taiwan-panorama.com/en-us/Articles/Details?Guid=4460c37f-237f-4895-a213-4df718fd2d96) — Government-published journal, including the Zhengmin Elementary example, Wu Chia-hui's ThereforEd, the Pingtung English grandparent story, and the NT$2,000 start.
+
+[^12]: [TFT Official: Recruitment Information](https://www.teach4taiwan.org/recruitment/) — Two-year full-time teaching, NT$40,000/month, 500+ hours training, six-week intensive training.
+
+[^13]: [CommonWealth Magazine: TFT Sixth Cohort Recruitment Data](https://www.cw.com.tw/article/5096675) — 694 applicants, 63 admitted, 49 placed; three-stage selection process.
+
+[^14]: [TFT Official: Impact](https://www.teach4taiwan.org/impact/) — Latest cumulative figures: 400+ teachers, 7,000+ students, 85 schools, 9 counties and cities, 40%+ coverage in Hengchun, 80%+ alumni remaining in the education sector.
+
+[^15]: [Cheers: Liu An-ting's TEDx Reflection](https://www.cheers.com.tw/article/article.action?id=5076408) — Liu An-ting describes the unintended effects of her TED talk, and reflects on the media framing a systemic movement as a hero story.
+
+[^16]: [Cheers: "Don't Believe in Me as an Individual"](https://www.cheers.com.tw/article/article.action?id=5086065) — Liu An-ting interview, verbatim: "What has influence is not me personally, but the beliefs I hold."
+
+[^17]: [NPOst: Advice for TFT](https://npost.tw/archives/6898) — The most systematic external critique from 2014: insufficient training, absence of integrated social welfare, cultural invasion concerns, motivational questions, accountability gaps. Includes socioeconomic data on remote students.
+
+[^18]: [PTT studyteacher board: Discussion on TFT teacher qualifications](https://www.ptt.cc/bbs/studyteacher/M.1524054875.A.209.html) — Grassroots teacher concerns about TFT entering schools as substitute teachers; reflects the tension between the regular teacher certification system and alternative pathways.
+
+[^19]: [Laws & Regulations Database of the ROC: Act for Development of Remote Area Schools](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070073) — Passed 2017, 24 articles. Allows up to 1/3 contract teachers, specially appointed teacher system, 6-year minimum service period.
+
+[^20]: [CommonParenting: The Education Wedding of Liu An-ting and Lu Guan-wei](https://www.parenting.com.tw/article/5076324) — January 2018 wedding report; the TFT × Junyi educational reform partnership.

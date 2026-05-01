@@ -1,156 +1,170 @@
 ---
 title: 'Lee Teng-hui'
-description: 'From agricultural economist to the first democratic leader in the Chinese-speaking world'
+description: 'The paradoxical life of an agricultural economist who became the first democratic leader in the Chinese-speaking world'
 date: 2026-03-22
-tags: [People, Politics, Democratization, President]
-subcategory: 'Politics & Democracy'
+tags: ['People', 'Politics', 'Democratization', 'President']
+subcategory: '政治與民主'
 category: 'People'
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'People/李登輝.md'
+sourceCommitSha: 'cbc2ad44'
+sourceContentHash: 'sha256:b7406ab07a0d09c2'
+translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 
-> **30-second overview:** An agricultural economist born under Japanese rule
-> who spoke Japanese as his first language became the first democratic leader
-> in the Chinese-speaking world. He spent 12 years peacefully transitioning Taiwan
-> from authoritarianism to democracy, but at the cost of triggering the Taiwan Strait missile crisis.
+# Lee Teng-hui
+
+> **30-second overview:** An agricultural economics PhD born during the Japanese colonial era, raised speaking Japanese, who ultimately became the first democratic leader in the Chinese-speaking world. He spent twelve years peacefully transforming Taiwan from an authoritarian regime to a democracy — but the price was triggering the Taiwan Strait Missile Crisis and being labeled the "godfather of black gold" politics.
 
 ## From Iwasato Masao to Lee Teng-hui
 
-June 9, 1995, afternoon, Cornell University's Olin Lecture Hall. A 72-year-old man delivered a speech in English titled "Always in My Heart." The audience was packed with American political and academic figures, CNN broadcast live, and the world was watching.
+On the afternoon of June 9, 1995, at Cornell University's Olin Lecture Hall, a 72-year-old man delivered a speech in English titled "Always in My Heart." The audience included American political and academic figures; CNN was broadcasting live; the world was watching.
 
-Few people knew that this man's first language was actually Japanese. His birth name was **Iwasato Masao** (岩里政男, いわさと まさお), born in 1923 to a farming family in Japanese-ruled Taiwan. He grew up speaking Japanese and receiving Japanese education, even earning a scholarship to Kyoto Imperial University—something virtually impossible for Taiwanese at that time.
+But few people knew that this man's first language was actually Japanese. His birth name was **Iwasato Masao** (岩里政男), a farm boy born in 1923 during Japanese-ruled Taiwan. He grew up speaking Japanese, received a Japanese education, and even won a scholarship to Kyoto Imperial University — in that era, an almost impossible achievement for a Taiwanese person.
 
-> **💡 Did you know?**
-> Lee Teng-hui was one of the very few Taiwanese students to receive an Imperial University scholarship. He chose agricultural economics because he witnessed the social injustice of farmers' labor being disproportionate to their harvest.
+> **Did you know?**
+> Lee Teng-hui was one of the extremely few native Taiwanese students to receive a scholarship to a Japanese imperial university. He chose agricultural economics because he saw the social injustice of farmers laboring with no commensurate harvest.
 
-The war changed everything. When Japan surrendered in 1945, Taiwan was "retroceded," and Iwasato Masao was forced to leave Kyoto Imperial University and return to a Chinese-speaking Taiwan. From then on, he became Lee Teng-hui.
+But war changed everything. In 1945, Japan was defeated, Taiwan "returned" to Chinese rule, and Iwasato Masao was forced to leave Kyoto Imperial University and return to a Mandarin-speaking Taiwan. From that point on, he became Lee Teng-hui.
 
-This sense of identity fragmentation would follow him for life.
+That sense of a torn identity would follow him for the rest of his life.
 
 ## The Scholar's Political Ambition
 
-When Lee Teng-hui returned from Cornell University with a PhD in agricultural economics in 1968, no one expected this scholar would change Taiwan's history. He dutifully returned to work at the Joint Commission on Rural Reconstruction (JCRR), researching Taiwan's agricultural policies, publishing papers, and serving as a standard technocrat.
+When Lee Teng-hui returned to Taiwan in 1968 with an agricultural economics doctorate from Cornell University, no one imagined this scholar would change Taiwan's history. He dutifully returned to work at the Joint Commission on Rural Reconstruction, researching Taiwan's agricultural policy, publishing papers, serving as a standard technocrat.
 
 The turning point came in 1972.
 
-**That year, Chiang Ching-kuo became Premier and took notice of this 49-year-old agricultural expert.** Lee Teng-hui was recruited as Minister without Portfolio, becoming the youngest cabinet member in Chiang Ching-kuo's administration. From that moment, Lee ended his scholarly career and embarked on an irreversible political path.
+**That year, Chiang Ching-kuo took over as Premier, and he set his sights on this 49-year-old agricultural expert.** Lee Teng-hui was recruited as a political minister (政務委員), becoming the youngest cabinet member in the Chiang Ching-kuo administration. From that moment, Lee Teng-hui's scholarly career was over; he had set foot on a political path with no return.
 
-This wasn't coincidental. Chiang Ching-kuo was promoting "Taiwanization" policies, needing capable and knowledgeable Taiwanese elites to balance the power structure dominated by mainlanders. Lee's Cornell PhD, fluent English, and agricultural expertise perfectly fit Chiang's needs.
+But this was not accidental. Chiang Ching-kuo was pushing a "Taiwanization" policy and needed capable, educated native Taiwanese elite to balance the Mainlander-dominated power structure. Lee Teng-hui's Cornell doctorate, fluent English, and agricultural expertise perfectly fit Chiang Ching-kuo's needs.
 
-> **📝 Curator's note**
-> This choice rewrote Taiwan's history. If Chiang Ching-kuo hadn't promoted Lee Teng-hui back then, Taiwan's democratization process might have been completely different.
+> **Curator's Note:**
+> This choice rewrote Taiwan's history. Had Chiang Ching-kuo not promoted Lee Teng-hui, Taiwan's democratic transition might have been entirely different.
 
-Over the next decade, Lee climbed from Minister without Portfolio through various positions: Taipei Mayor (1978-1981), Taiwan Provincial Governor (1981-1984), Vice President (1984-1988). Each position was political training and a battlefield in power struggles.
+Over the next ten years, Lee climbed steadily: Mayor of Taipei (1978–1981), Governor of Taiwan Province (1981–1984), Vice President (1984–1988). Each position was political tempering; each was also a battleground of power struggles.
 
-On January 13, 1988, Chiang Ching-kuo passed away. According to the constitution, Vice President Lee Teng-hui succeeded as President.
+On January 13, 1988, Chiang Ching-kuo died. Under the constitution, Vice President Lee Teng-hui succeeded to the presidency.
 
-At that moment, many thought he was just a transitional puppet. After all, he was Taiwanese in a KMT system dominated by mainlanders—how far could he go?
+At that moment, many assumed he would be just a transitional figurehead. After all, he was native Taiwanese, in a KMT system dominated by Mainlanders — how far could he go?
 
 They were all wrong.
 
-## Victor in the Power Game
+## Winner of the Power Game
 
-After becoming President, Lee immediately faced power challenges within the KMT. Party elders led by Soong May-ling, Lien Chan's father Lien Zhan, and various military and political figures didn't believe this "Taiwan boy" could maintain control.
+After Lee Teng-hui succeeded to the presidency, he immediately faced challenges from within the KMT. Party elders led by Soong Mei-ling, along with Lien Chan (whose father was Lien Sheng-wen), military figures, and various political operators — none believed this "Taiwan boy" could master the situation.
 
-Thus began the famous "Mainstream vs. Non-mainstream" struggle.
+Thus erupted the famous "mainstream versus non-mainstream" factional struggle.
 
-Lee demonstrated remarkable political acumen. He appeased party elders while courting local factions and business groups; he pushed for democratic reforms while consolidating personal power. In 1991, Soong May-ling left Taiwan in dejection, relocating to Long Island, New York, never to return.
+Lee Teng-hui demonstrated astonishing political skill. He simultaneously soothed party elders and cultivated local factions and business interests; simultaneously pushed democratic reform and consolidated personal power. In 1991, Soong Mei-ling left Taiwan in disgrace, moving to her Long Island, New York home and never returning.
 
-**The cost of the power struggle was the proliferation of black-gold politics.**
+**The price of the power struggle was the proliferation of "black gold" politics.**
 
-To counter the non-mainstream faction within the party, Lee extensively nominated candidates with business backgrounds and even criminal connections. These people had no political ideals, only knowing how to pursue private interests through traditional networks. Thus "black-gold politics" rapidly developed in the 1990s, earning Lee the criticism of being the "Godfather of Black Gold."
+To counter the non-mainstream KMT faction, Lee Teng-hui heavily nominated candidates with corporate ties or even underworld connections. These individuals had no political principles, knowing only how to pursue private interests through traditional patronage networks. "Black gold politics" rapidly spread through the 1990s, and Lee Teng-hui was criticized as the "godfather of black gold."
 
-But this was political reality: to push for democracy, one must first grasp power. And to grasp power, one must compromise with reality.
+But this was political reality: to advance democracy, you must first hold power. And to hold power, you must make compromises with reality.
 
-> **⚠️ Controversial viewpoint**
-> Whether Lee Teng-hui was "Mr. Democracy" or the "Godfather of Black Gold" remains disputed today. Supporters believe he made necessary choices under specific circumstances; critics argue he initiated Taiwan's political monetization.
+> **Controversial Perspectives:**
+> Whether Lee Teng-hui was "Mr. Democracy" or the "godfather of black gold" remains contested. Supporters argue he made necessary choices under specific historical circumstances; critics argue he opened the door to Taiwan's monetization of politics.
 
-## The Quiet Revolution Through Six Constitutional Amendments
+## The Silent Revolution: Six Constitutional Amendments
 
 Lee Teng-hui's true historical contribution was completing Taiwan's democratic transition through six constitutional amendments.
 
-**July 15, 1987: Martial law was lifted.** This martial law, implemented for 38 years and 56 days, finally ended. Media restrictions and the ban on political parties were lifted, and Taiwanese society regained the breath of freedom.
+**July 15, 1987: Martial law is lifted.** This martial law, which had been in effect for 38 years and 56 days, finally passed into history. Press restrictions and party bans were lifted; Taiwanese society breathed freedom again.
 
 But the real challenge was institutional reform.
 
-The biggest problem was the "Ten-Thousand-Year Congress"—those central representatives elected on the mainland in 1947, who had been in office for over 40 years while still "representing" constituencies that no longer existed. This was the greatest obstacle to democratization.
+The biggest problem was the "Eternal Parliament" — those Central Representatives elected on the Mainland in 1947, still in office for over 40 years, yet still "representing" constituencies that no longer existed. This was the greatest obstacle to democratization.
 
-In 1991, Lee pushed for the first constitutional amendment, allowing these senior central representatives to "retire with honor." The first-term central representatives finally all stepped down, making the "Ten-Thousand-Year Congress" history.
+In 1991, Lee Teng-hui pushed the first constitutional amendment, forcing these senior representatives to "retire with honor." The First Term Central Representatives all finally vacated their seats; the "Eternal Parliament" became history.
 
-This was followed by a series of institutional reconstructions:
+Then came a series of institutional reforms:
 
-- **1992**: Second amendment, establishing direct election of provincial and municipal governors
-- **1994**: Third amendment, establishing direct presidential elections
-- **1997**: Fourth amendment, freezing the provincial government and adjusting central-local authority
-- **1999**: Fifth and sixth amendments, extending presidential terms and abolishing the National Assembly
+- **1992:** Second amendment, establishing direct election of provincial and municipal governors
+- **1994:** Third amendment, establishing direct presidential election
+- **1997:** Fourth amendment, freezing the Taiwan Province, adjusting central-local authority, and reducing the presidential term from six to four years[^term]
+- **1999–2000:** Fifth and sixth amendments, abolishing the National Assembly (the fifth amendment had extended the terms of National Assembly delegates, later declared unconstitutional by the Council of Grand Justices in Interpretation No. 499)
 
-Each constitutional amendment resulted from political maneuvering. Lee had to find balance among pressures within the KMT, with the Democratic Progressive Party, and from various social sectors.
+Each amendment was the product of political maneuvering. Lee Teng-hui had to find balance amid pressures from within the KMT, between the KMT and the DPP, and from across Taiwanese society.
 
-**March 23, 1996: Taiwan held its first direct presidential election.** Lee was elected with 54% of the vote, becoming the first popularly elected president in the Chinese-speaking world.
+> **Data:**
+> According to Constitutional Court records, Taiwan's constitution was amended six times during Lee Teng-hui's tenure, an average of once every two years, reflecting the density of constitutional engineering during the transition period.
 
-The backdrop to this election was the 1995-1996 Taiwan Strait missile crisis.
+**On March 23, 1996, Taiwan held its first direct presidential election.** Lee Teng-hui won with 54% of the vote, becoming the first democratically elected president in the Chinese-speaking world.
 
-## The Butterfly Effect of the Cornell Speech
+This election took place against the backdrop of the 1995–1996 Taiwan Strait Missile Crisis.
 
-Back to that Cornell speech in 1995.
+## The Cornell Speech's Butterfly Effect
 
-In his speech, Lee first proposed the concept of "Republic of China on Taiwan," touching Beijing's red line. China immediately launched a series of military exercises from July 1995 to March 1996, firing missiles near Taiwan's waters, attempting to influence the presidential election.
+Back to that 1995 Cornell speech.
 
-**The crisis peaked during the second round of military exercises on March 8-15, 1996.** China conducted "joint military exercises" in waters near Taiwan, simulating an invasion. The United States immediately dispatched two carrier battle groups through the Taiwan Strait, averting what could have been a full-scale war.
+In his address, Lee Teng-hui first articulated the concept of "the Republic of China on Taiwan" — touching Beijing's red line. China immediately launched a series of military exercises, from July 1995 through March 1996, firing missiles into Taiwan's nearby waters in an attempt to influence the presidential election.
 
-Paradoxically, the missile crisis actually consolidated Taiwan's democracy. Facing external threats, Taiwanese became more united, and Lee's prestige reached new heights. In the March 23 presidential election, he defeated opponents by a wide margin, receiving a historic 5.84 million votes.
+**The crisis peaked in the second round of exercises, March 8–15, 1996.** China conducted "joint war readiness exercises" near Taiwan, simulating an attack on the island. The United States immediately deployed two carrier battle groups to sail through the Taiwan Strait; a war that had nearly ignited was finally extinguished.
 
-**One speech triggered a missile crisis but inadvertently completed democratic consolidation.** This exemplifies the complexity of cross-strait relations: conflict and reconciliation, threat and opportunity, often separated by a thin line.
+Paradoxically, the missile crisis actually consolidated Taiwan's democracy. Facing an external threat, Taiwanese united; Lee Teng-hui's prestige reached its peak. In the March 23 presidential election, he defeated his opponents by a wide margin, winning a historic 5.84 million votes.
 
-## Two-State Theory and Political Legacy
+**A single speech triggered a missile crisis, yet inadvertently completed the consolidation of democracy.** This is the complexity of cross-strait relations: confrontation and reconciliation, threat and opportunity — often separated by a hairline.
 
-In July 1999, Lee told Deutsche Welle that cross-strait relations were "special state-to-state relations," the famous "Two-State Theory."
+> **Curator's Note:**
+> The 1995 Cornell speech is regarded by many scholars as a watershed in cross-strait relations. From that point on, the two sides moved from "one China, each with its own interpretation" toward a more complex sovereignty dispute.
 
-This statement again caused an uproar. Beijing condemned Lee as a "Taiwan independence splittist," and cross-strait relations deteriorated rapidly. Even within his party, some criticized Lee for being "too radical."
+## The Two-States Theory and Political Legacy
 
-But from Lee's perspective, this was an accurate description of reality. The two sides of the Taiwan Strait were indeed governed by two different governments that were not subordinate to each other—what else could this be but "state-to-state relations"?
+In July 1999, in an interview with Deutsche Welle, Lee Teng-hui characterized cross-strait relations as "a special state-to-state relationship" — the famous "Two-States Theory."
 
-**In March 2000, Lee supported Lien Chan in the presidential election, but the KMT lost to Chen Shui-bian.** Twelve years of rule finally ended.
+This formulation again triggered a storm. Beijing denounced Lee Teng-hui as a "Taiwan independence element"; cross-strait relations deteriorated sharply. Even within the KMT, voices criticized Lee Teng-hui as "too radical."
 
-On May 20, 2000, Lee held a departure ceremony at the Presidential Office, formally transferring the seal to Chen Shui-bian. At that moment, Taiwan completed the first democratic transition of power in the Chinese-speaking world.
+But from Lee Teng-hui's perspective, this was an accurate description of reality. The two sides of the Taiwan Strait are indeed each governed by separate governments, neither subordinate to the other — if that is not a "state-to-state relationship," what is it?
 
-## Contradictory Historical Assessment
+**In March 2000, Lee Teng-hui supported Lien Chan in the presidential election, but the KMT lost to Chen Shui-bian.** Twelve years of governance finally ended.
 
-After Lee's death, evaluations of him were polarized:
+On May 20, 2000, Lee Teng-hui held his departure ceremony at the Presidential Office, formally transferring the official seal to Chen Shui-bian. In that moment, Taiwan completed the first democratic transfer of power between political parties in the Chinese-speaking world.
 
-**In supporters' eyes**: Mr. Democracy, Father of Taiwan's Democracy, leader of the Quiet Revolution. US Secretary of State Mike Pompeo called him "the architect of Taiwan's transformation into a democratic beacon," while the White House praised him as "a model of democratic governance worldwide" for respecting term limits.
+## A Contested Historical Assessment
 
-**In critics' eyes**: Godfather of Black Gold, Taiwan independence splittist, the one who split the KMT. Hung Hsiu-chu criticized him for leading Taiwan "from democracy into black-gold," while Chinese state media called him a "traitor to the nation."
+After Lee Teng-hui's death, evaluations of him split sharply:
 
-But perhaps the most balanced assessment came from Tsai Ing-wen: "Without Lee Teng-hui, there would be no Taiwan democracy today."
+**Lee Teng-hui as seen by supporters:** Mr. Democracy, Father of Taiwan's Democracy, architect of the silent revolution. US Secretary of State Pompeo called him "the architect of Taiwan's transformation into a beacon of democracy"; the White House praised him as "a model of world democratic governance for stepping down in accordance with term limits."
 
-**This assessment highlighted history's core dilemma: transitional justice vs. political reality, idealism vs. pragmatism.** Lee chose the latter, bearing all controversies as the price, but achieving Taiwan's democratic system as the result.
+**Lee Teng-hui as seen by critics:** Godfather of black gold, Taiwan independence element, instigator of the KMT's split. Hung Hsiu-chu criticized him for "moving from democracy into black gold"; Chinese state media called him "a criminal against the nation."
 
-## The Cost and Meaning of Democracy
+But perhaps the most apt assessment came from Tsai Ing-wen: "Without Lee Teng-hui, there would be no Taiwan democracy as it exists today."
 
-Lee Teng-hui's life epitomized Taiwan's modern history: from colonization to retrocession, from martial law to freedom, from authoritarianism to democracy. He was both a witness to and creator of history.
+**This assessment points to the core historical question: transitional justice versus political reality, idealism versus pragmatism.** Lee Teng-hui chose the latter, bearing all the controversy as the price — but the result was Taiwan's democratic system.
 
-His achievements were undeniable: completing the transition from authoritarian rule to democratic politics without bloodshed, establishing the first stable democratic system in the Chinese-speaking world.
+> **✦** "Born as Japanese, but not really Japanese; after the war, becoming Chinese, but not really Chinese. This is the sorrow of the Taiwanese, struggling and entangled between identities."
+>
+> — Legislator Freddy Lim on Lee Teng-hui
 
-His controversies were also real: compromising with black-gold forces to consolidate power, intensifying cross-strait relations to resist China, splitting the KMT for Taiwanization.
+## The Price and Meaning of Democracy
 
-**But history is never black and white.** Democratization is a complex political project requiring balance between ideals and reality. Lee made his choices, bore his responsibilities, and endured his criticisms.
+Lee Teng-hui's life is a microcosm of Taiwan's modern history: from colonization to recovery, from martial law to freedom, from authoritarianism to democracy. He was both witness and creator of history.
 
-On July 30, 2020, Lee Teng-hui passed away in Taipei at age 97. At his memorial service, Tsai Ing-wen said: "President Lee used his life to lay the foundation for Taiwan's democracy."
+His achievements are undeniable: without a bloody coup, he completed the transition from authoritarian rule to democratic governance, establishing the first stable democratic system in the Chinese-speaking world.
 
-In the audience sat politicians from various parties and many ordinary citizens. At that moment, regardless of political stance, everyone was bidding farewell to an era: an era of transition from authoritarianism to democracy, an era full of contradictions yet also full of hope.
+His controversies are equally real: compromising with black gold to consolidate power, intensifying cross-strait tensions to resist China, splitting the KMT in the name of nativization.
 
-Lee Teng-hui was gone, but the democratic system he left behind remained. Quadrennial presidential elections, peaceful transitions of power, everyone's right to speak freely—things that seem natural today were once fought for with their lives by Lee's generation.
+**But history is never simply black and white.** Democratization is a complex political undertaking that requires balance between ideals and reality. Lee Teng-hui made his choices, bore his responsibilities, and endured his criticism.
 
-This was perhaps his most important political legacy: imperfect but real; controversial but enduring; filled with human flaws but carrying democratic hope.
+Lee Teng-hui died in Taipei on July 30, 2020, at the age of 97. At his memorial service, Tsai Ing-wen said: "President Lee used his entire life to lay the foundations of democracy for Taiwan."
+
+In the audience sat politicians from all parties and many ordinary citizens. In that moment, regardless of political affiliation, everyone was bidding farewell to an era: an era that moved from authoritarianism to democracy, an era full of contradictions yet full of hope.
+
+Lee Teng-hui is gone, but the democratic system he left behind remains. Every four-year presidential election, every party rotation, every person's right to speak freely — these things that today seem self-evident were once fought for by Lee Teng-hui's generation with their lives.
+
+Perhaps this is his most important political legacy: imperfect, but real; contested, but enduring; full of human flaws, yet carrying the hope of democracy.
 
 ## References
 
-- [Lee Teng-hui: Taiwan's 'father of democracy' dies aged 97 - BBC](https://www.bbc.com/zhongwen/trad/chinese-news-53607253)
-- [1995 Lee Teng-hui Cornell Visit - Wikipedia](https://zh.wikipedia.org/zh-tw/1995%E5%B9%B4%E6%9D%8E%E7%99%BB%E8%BC%9D%E7%B8%BD%E7%B5%B1%E5%BA%B7%E4%B9%83%E7%88%BE%E5%A4%A7%E5%AD%B8%E4%B9%8B%E8%A1%8C)
-- [Lee Teng-hui, Taiwan's 'father of democracy', dies aged 97 - The Guardian](https://www.theguardian.com/world/2020/jul/30/lee-teng-hui-taiwan-father-of-democracy-first-president-dies-aged-97)
-- [Japanese Childhood and Agricultural Economics - OFTaiwan](https://oftaiwan.org/taiwan-profiles/lee-teng-hui/japanese-childhood-and-agricultural-economics/)
-- [Quiet Revolution - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%A7%E9%9D%9C%E9%9D%A9%E5%91%BD)
-- [Taiwan Black Gold Politics - Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E9%BB%91%E9%87%91%E6%94%BF%E6%B2%BB)
+[^term]: [Central Election Commission — Summary of Presidential and Vice-Presidential Elections by Cycle](https://web.cec.gov.tw/central/article/19170) — The 1997 Fourth Constitutional Amendment reduced the presidential term from six to four years, effective from the ninth president onward. Thanks to @kidmoon0087 for the correction (Issue #331).
+
+- [Lee Teng-hui's Death: The "Mr. Democracy" Who Led the "Silent Revolution" and the Pro-Japan "Traitor to the Nation" — BBC Chinese](https://www.bbc.com/zhongwen/trad/chinese-news-53607253)
+- [President Lee Teng-hui's 1995 Visit to Cornell University — Wikipedia](https://zh.wikipedia.org/zh-tw/1995%E5%B9%B4%E6%9D%8E%E7%99%BB%E8%BC%9D%E7%B8%BD%E7%B5%B1%E5%BA%B7%E4%B9%83%E7%88%BE%E5%A4%A7%E5%AD%B8%E4%B9%8B%E8%A1%8C)
+- [Lee Teng-hui, Taiwan's 'father of democracy', dies aged 97 — The Guardian](https://www.theguardian.com/world/2020/jul/30/lee-teng-hui-taiwan-father-of-democracy-first-president-dies-aged-97)
+- [Japanese Childhood and Agricultural Economics — OFTaiwan](https://oftaiwan.org/taiwan-profiles/lee-teng-hui/japanese-childhood-and-agricultural-economics/)
+- [Silent Revolution — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AF%A7%E9%9D%9C%E9%9D%A9%E5%91%BD)
+- [Taiwan Black Gold Politics — Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E9%BB%91%E9%87%91%E6%94%BF%E6%B2%BB)

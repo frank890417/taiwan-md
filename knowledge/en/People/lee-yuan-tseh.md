@@ -1,199 +1,106 @@
 ---
 title: 'Lee Yuan-tseh'
-category: People
+description: "1986 Nobel Prize in Chemistry laureate, pioneer of chemical dynamics with crossed molecular beam technique, Taiwan's first Nobel science laureate"
+date: 2026-03-21
 tags:
   [
-    person,
-    Lee Yuan-tseh,
-    Nobel Prize,
-    chemistry,
-    scientist,
-    Academia Sinica,
-    Taiwan,
+    'People',
+    'Lee Yuan-tseh',
+    'Nobel Prize',
+    'chemistry',
+    'scientist',
+    'Academia Sinica',
+    'Taiwan',
   ]
-subcategory: 'Science & Academia'
-date: 2026-03-17
+subcategory: '科學與學術'
+lastVerified: 2026-03-21
+lastHumanReview: true
+featured: true
 translatedFrom: 'People/李遠哲.md'
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 
 # Lee Yuan-tseh
 
-Lee Yuan-tseh is a name that made Taiwan shine on the world's scientific stage. Born in Hsinchu in 1936, through his passion for science and unwavering research spirit, he became Taiwan's first Nobel Prize laureate. His invention of the "crossed molecular beam technique" not only pioneered new research fields in chemical dynamics but also made the world recognize Taiwan's scientific capabilities anew. From a child in Hsinchu to an internationally renowned scientist, Lee's life trajectory witnesses important milestones in Taiwan's scientific development.
+> **30-second overview:** Lee Yuan-tseh (born November 19, 1936), a chemist born in Hsinchu. In 1986, he shared the Nobel Prize in Chemistry with Dudley R. Herschbach and John C. Polanyi, honoring his breakthrough contributions to the dynamics of chemical reactions. His crossed molecular beam technique allowed scientists to "see" chemical reactions for the first time; he is Taiwan's first Nobel science laureate.
 
-## Early Life and Educational Background
+Lee Yuan-tseh was born on November 19, 1936, in Hsinchu City, Hsinchu Prefecture, under Japanese colonial rule (today's East District, Hsinchu City). His father, Lee Tse-fan, was a renowned watercolor painter and elementary school principal; the artistic and educational family background cultivated his keen powers of observation. As a child, he loved taking apart radios and alarm clocks to understand how they worked — that curiosity would later change the world of chemistry.
 
-### Hsinchu Years of Enlightenment
+## The Academic Path: From Hsinchu to the World Stage
 
-Born November 19, 1936, in Hsinchu City, Hsinchu Prefecture (now Hsinchu City East District) during the Japanese colonial period, Lee grew up during turbulent times when his family provided a stable environment. His father, Lee Tse-fan (李澤藩), was a renowned watercolor artist and elementary school principal, while his mother, Tsai Pei (蔡配), was a traditional homemaker who managed the household diligently. This background in art and education cultivated Lee's keen observation skills and thirst for knowledge.
+Lee Yuan-tseh already showed intense interest in mathematics and science during his years at Hsinchu Senior High School. In 1955, he entered the Chemistry Department at National Taiwan University; although the curriculum at the time focused primarily on analytical chemistry, he organized his own reading groups to study physical chemistry, even learning German and Russian to read foreign literature.
 
-**Childhood Scientific Enlightenment:**
-From early age, Lee was curious about natural phenomena. He enjoyed observing insects, collecting specimens, and frequently disassembling radios and clocks at home, trying to understand their operating principles. This persistent questioning of "why" became important motivation for his later scientific research.
+In 1959, he entered the Institute of Nuclear Science at National Tsing Hua University for his master's degree, specializing in molecular spectroscopy. In 1962, he received a scholarship to study chemical kinetics at the University of California, Berkeley, completing his doctoral degree in 1967.
 
-**Growing Up During Wartime:**
-Lee spent his childhood and adolescence during World War II. While war brought material shortages and social upheaval, it also cultivated his resilient character. He learned to find opportunities amid difficulties and exercise creativity within constraints.
+The real turning point came at Harvard University. From 1967 to 1969, Lee Yuan-tseh conducted postdoctoral research under Nobel laureate Dudley R. Herschbach, and the two collaborated to develop the revolutionary "crossed molecular beam technique."
 
-### Foundation of Academic Journey
+## Crossed Molecular Beams: A Breakthrough in Chemistry
 
-**Hsinchu High School Period:**
-During his time at Hsinchu High School, Lee demonstrated exceptional learning ability. He particularly loved mathematics and physics, often discussing academic problems with classmates after class. During this period, he already showed strong interest in science, frequently reading scientific books in the library.
+Traditional chemical reaction research was like observing crowds in a bustling night market — molecules constantly colliding, moving chaotically, with no clear view of what was actually happening. The crossed molecular beam technique that Lee Yuan-tseh developed was equivalent to making two beams of molecules collide at a specific angle and speed in a high-vacuum environment — like using a high-speed camera to capture a "slow-motion replay" of a chemical reaction.
 
-**National Taiwan University Chemistry Department:**
-In 1955, Lee entered National Taiwan University's Chemistry Department. During the era when NTU was transitioning from the Japanese Imperial University system, the chemistry curriculum mainly focused on analytical and organic chemistry. However, Lee was more interested in the then-flourishing field of physical chemistry.
+This technique allowed scientists for the first time to "see" each step of a chemical reaction at the molecular level: how reactants transform into products, how energy transfers between molecules, the three-dimensional structural changes of the reaction. For chemical kinetics, this was a revolution from "guessing" to "observing."
 
-**Self-Study Spirit:**
-Due to the department's lack of physical chemistry courses, Lee organized study groups with classmates during winter and summer breaks to independently study thermodynamics and quantum mechanics theories. To read more foreign academic papers, he actively studied German, Russian, and other languages commonly used in academia.
+In 1974, Lee Yuan-tseh returned to Berkeley as a professor in the Chemistry Department, continuously refining the technique. He studied seemingly simple reactions such as the fluorine atom and hydrogen molecule (F + H₂ → HF + H), discovering many unexpected phenomena. These studies became classic cases in chemical kinetics textbooks.
 
-**University Research Experience:**
-During his time at NTU, Lee conducted research under chemistry professors. He participated in multiple chemical analysis experiments, cultivating rigorous experimental attitudes and keen observational skills. These early research experiences laid solid foundations for his later scientific career.
+## 1986: Taiwan's Nobel Moment
 
-### National Tsing Hua University Institute of Nuclear Science
+On October 15, 1986, the Royal Swedish Academy of Sciences announced that the Nobel Prize in Chemistry would be awarded to Herschbach, Lee Yuan-tseh, and Polanyi, honoring their "contributions to the dynamics of elementary chemical processes, enabling a more profound understanding of how chemical reactions occur."
 
-After graduating from university in 1959, Lee entered National Tsing Hua University's Institute of Nuclear Science in Hsinchu to pursue his master's degree. Here, he encountered more cutting-edge scientific research and began focusing on physical chemistry.
+When news of Lee Yuan-tseh's award reached Taiwan, the island erupted in celebration. This was Taiwan's first Nobel science laureate — proof that Taiwan was capable of cultivating world-class scientific talent. Lee Yuan-tseh immediately donated one of his medals to his alma mater, Hsinchu Senior High School, saying: "The Nobel Prize was not won by me alone — it was Hsinchu Senior High School that made me."
 
-**Master's Thesis Research:**
-Lee's master's thesis focused on atomic and molecular spectroscopy research. This study gave him deep understanding of relationships between molecular structure and physical properties, planting seeds for his later Nobel Prize research.
+Interestingly, Lee Yuan-tseh's nationality at the time of the award was American. But this in no way diminished Taiwanese pride — they knew that this child who had grown up in Hsinchu, speaking Taiwanese, carried Taiwan's nourishment in his blood.
 
-**Establishing International Vision:**
-During his time at Tsing Hua, Lee read extensive foreign scientific literature, gradually building an international academic perspective. He realized that to achieve breakthroughs in scientific research, he must go beyond Taiwan to learn the most advanced techniques in world-class laboratories.
+## 1994: The Promise to Return Home
 
-## Studying in America: Career Turning Point
+In 1994, at the peak of his academic career, Lee Yuan-tseh made a decision that shocked the international academic world: he resigned his Berkeley professorship, renounced his American citizenship, and returned to Taiwan to serve as President of Academia Sinica (1994–2006).
 
-### University of California, Berkeley
+This decision was full of controversy. Critics argued he was wasting his influence on the international stage; supporters argued he was realizing the ideal of the scholar serving the nation. Lee Yuan-tseh's own reason was simple: "I hope to use my experience to make Taiwan an Asian center of science."
 
-In 1962, Lee received a scholarship to pursue his doctoral degree at UC Berkeley. This decision changed his life and created history for Taiwan's scientific community.
+During his twelve years as Academia Sinica President, Lee Yuan-tseh promoted organizational modernization and established an internationalized research evaluation system, founding multiple new institutes including those for information science, biomedical science, and genomics. He recruited internationally renowned scholars including Chi-Huey Wong (翁啟惠) and Richard Lerner back to Taiwan, injecting new vitality into Taiwan's scientific community.
 
-**Doctoral Research Direction:**
-At Berkeley, Lee chose chemical kinetics as his research direction. His doctoral thesis focused on studying chemical reaction mechanisms, particularly energy transfer problems during molecular collision processes.
+## Controversial Participation in Education Reform
 
-**Rigorous Scientific Training:**
-Berkeley's academic environment was extremely demanding, requiring students to have not only deep theoretical foundations but also exquisite experimental skills. Lee received world-class scientific training here, learning how to design precise experiments, analyze complex data, and write high-quality academic papers.
+Lee Yuan-tseh was not only a scientist but also an advocate for education reform. In the 1990s, he participated in planning the nine-year integrated curriculum, arguing for cultivating students' thinking ability rather than rote learning.
 
-**Completing Doctoral Thesis:**
-After five years of effort, Lee completed his doctoral degree in 1967. His doctoral thesis received high academic evaluation, opening doors for his subsequent research career.
+But the results of the education reform triggered intense controversy; critics argued it lowered learning standards, and Lee Yuan-tseh bore considerable pressure as a result. He later reflected: "Education reform is more complex than scientific research — it involves all aspects of society."
 
-### Harvard University Postdoctoral Research
+This experience gave Lee Yuan-tseh insight that even a Nobel laureate, stepping out of the laboratory to face social issues, does not necessarily find standard answers.
 
-In 1967, Lee went to Harvard University for postdoctoral research under Nobel Chemistry laureate Dudley R. Herschbach. This experience became the most crucial turning point of his scientific career.
+## Environmental Pioneer and International Reputation
 
-**Birth of Crossed Molecular Beam Technique:**
-At Harvard, Lee collaborated with Professor Herschbach, dedicating themselves to improving and developing crossed molecular beam technique. After two years of tireless work, they successfully assembled the world's first crossed molecular beam instrument, a technique that revolutionarily changed chemical kinetics research methods.
+Lee Yuan-tseh was one of the earliest scientists in Taiwan to focus on environmental issues. His research team invested in atmospheric chemistry, ozone layer depletion, and climate change, providing a scientific basis for environmental policy.
 
-**Breakthrough in Technical Innovation:**
-Traditional chemical reaction research was conducted under normal temperature and pressure conditions, where gas molecules constantly collide with each other, changing direction and speed, making molecular motion quite chaotic. Lee's crossed molecular beam technique could make two molecular beams collide at specific angles and speeds in high vacuum environments, enabling precise observation and analysis of chemical reaction processes.
+He served as President of the International Council for Science (2011–2014), promoting global scientific cooperation. He currently serves as Honorary President of the Institute for Advanced Research at Nagoya University, remaining active in the international academic community.
 
-**Importance of Research Results:**
-This technique allowed scientists to "see" every step of chemical reactions at the molecular level, understanding how reactants transform into products, how energy transfers between molecules, and reaction stereochemistry details. This pioneered an entirely new research field in chemical dynamics.
+Lee Yuan-tseh's academic papers have been cited tens of thousands of times, and many of the students he trained have become renowned scientists. But what he is perhaps most proud of is demonstrating that a "Taiwan child" (台灣囡仔) can also shine on the world stage.
 
-## Academic Career Peak: Chicago and Berkeley Periods
+## The Transmission of Scientific Spirit
 
-### University of Chicago Professor Period
+Lee Yuan-tseh frequently says: "Curiosity is the most important driving force of scientific research." He encourages young people to question, think, and innovate — rather than memorize by rote.
 
-In 1969, Lee was appointed Assistant Professor in the Chemistry Department at University of Chicago, beginning his formal career in American academia. During his five years in Chicago, he established his own laboratory, trained his first graduate students, and published many important research results.
+He also emphasizes the social responsibility of scientists: "Scientific knowledge cannot stay confined to the laboratory; it must be returned to society to address the problems humanity faces."
 
-**Laboratory Establishment:**
-Lee established an advanced molecular beam laboratory at University of Chicago. He not only had to guide student research but also personally design and improve experimental equipment. During this period, his technical innovation abilities were fully demonstrated.
+## Continuing Influence
 
-### Return to Berkeley: Pinnacle of Scientific Achievement
+Even approaching 90 years of age, Lee Yuan-tseh still follows scientific developments and social issues. He has witnessed Taiwan transform from an agricultural society into a technology island, and personally participated in that transformation.
 
-In 1974, Lee was invited to return to UC Berkeley as Chemistry Professor. Here, his scientific research reached unprecedented heights.
+From the son of a Hsinchu watercolor painter to a scientific giant on the Nobel stage; from the laboratory at Berkeley to the office of Academia Sinica President — Lee Yuan-tseh's life trajectory is a microcosm of Taiwan's scientific development.
 
-**Continuous Technical Improvements:**
-Lee continuously improved crossed molecular beam technique, enabling study of more complex chemical reactions. He developed new detection methods capable of measuring reaction products' internal energy distribution and angular distribution.
+His most important legacy is not those scientific discoveries, but what he proved to the world: Taiwan is capable of cultivating talent that changes the world. This child from Hsinchu, using the crossed molecular beam technique, redefined what was possible in chemistry — and redefined Taiwan's position on the world scientific map.
 
-**Important Research Results:**
+In an era before the phrase "Taiwan's pride" (台灣之光) even existed, Lee Yuan-tseh was already the brightest light.
 
-1. **Fluorine Atom and Hydrogen Molecule Reaction:** Lee detailed study of F + H₂ → HF + H reaction revealed many unexpected phenomena, becoming a classic case in chemical kinetics textbooks.
+---
 
-2. **Oxygen Atom and Alkane Reactions:** He systematically studied oxygen atom reactions with various alkane molecules, discovering reaction stereoselectivity patterns and providing important theoretical foundations for combustion chemistry.
+**Further reading:**
 
-3. **Metal Atom Reaction Dynamics:** Lee pioneered study of metal atom-molecule reactions, revealing molecular mechanisms of metal catalytic reactions.
+- [Wu Ta-you](/people/吳大猷) — Lee Yuan-tseh's predecessor as Academia Sinica President, who laid the foundations of Taiwan's scientific research system and nurtured two Nobel physics laureates, Chen-Ning Yang and Tsung-Dao Lee
 
-## 1986 Nobel Chemistry Prize: Taiwan's Pride
+## References
 
-### Award Announcement
-
-October 15, 1986, the Royal Swedish Academy of Sciences announced that year's Nobel Chemistry Prize would be awarded to Dudley Herschbach, John Charles Polanyi, and Lee Yuan-tseh for their contributions to "research on chemical elementary process dynamics."
-
-**Award Reasoning:**
-The Nobel Committee specifically mentioned in their citation: "The work of these three scientists enables us to understand how chemical reactions proceed, and their research results are fundamentally important for understanding and controlling chemical reactions."
-
-**Taiwan's Historic Moment:**
-Lee became the first Nobel Prize winner born and raised in Taiwan. This news caused enormous sensation in Taiwan, with people throughout Taiwan feeling proud and excited about this historic achievement.
-
-**International Impact:**
-Lee's Nobel Prize was not only personal honor but also made international society recognize Taiwan's scientific capabilities anew. This award proved Taiwan's ability to cultivate world-class scientific talent.
-
-### Significance of Scientific Contributions
-
-**Technical Innovation Importance:**
-Lee's crossed molecular beam technique is hailed as a revolutionary tool for chemical kinetics research. This technique enables scientists to study chemical reactions at unprecedented detail levels, like using high-speed photography to film chemical reaction "movies."
-
-**Combining Theory and Experiment:**
-Lee's research not only provided precise experimental data but also promoted chemical kinetics theory development. His work built bridges between theoretical calculations and experimental observations.
-
-**Application Value:**
-Crossed molecular beam technique has extremely wide applications, from atmospheric chemistry to combustion science, from catalytic reactions to astrochemistry. This technique provided scientific foundations for solving many practical problems.
-
-## Return to Serve Taiwan: Academia Sinica President Period
-
-### Decision to Return Home
-
-In 1994, at his academic peak, Lee made a surprising decision: resign from UC Berkeley professorship and return to Taiwan as President of Academia Sinica. This decision shocked international academic circles and excited Taiwan's scientific community.
-
-**Motivation for Returning:**
-Lee stated in multiple interviews that he hoped to return to his homeland and contribute to Taiwan's scientific development. He believed Taiwan had potential to become Asia's scientific center, requiring more investment and construction.
-
-**Hometown Sentiment:**
-Despite achieving tremendous success in America, Lee always maintained deep feelings for Taiwan. He hoped to use his experience and reputation to elevate Taiwan's scientific research standards.
-
-### Academia Sinica President Term (1994-2006)
-
-During his twelve years as Academia Sinica President, Lee profoundly influenced Taiwan's scientific development.
-
-**Organizational Reform and Modernization:**
-Upon taking office, Lee immediately began Academia Sinica's organizational reform. He introduced international management systems, established peer review mechanisms, and raised research quality standards.
-
-**Establishing New Research Institutes:**
-Under his leadership, Academia Sinica established multiple new research institutes, including Institute of Information Science, Institute of Biomedical Sciences, and Genomics Research Center, expanding research field breadth.
-
-**Promoting International Cooperation:**
-Lee actively promoted international cooperation, establishing collaborative relationships with world-class research institutions. He invited many internationally renowned scholars to conduct research and exchanges at Academia Sinica.
-
-## Continued Scientific Research and Innovation
-
-### Research Expansion
-
-Even while serving in administrative roles, Lee maintained his passion for scientific research, expanding his research focus to more fields:
-
-**Environmental Chemistry:**
-Lee began focusing on environmental issues, studying atmospheric pollution and ozone layer destruction. His team published multiple important papers on atmospheric chemical reaction mechanisms.
-
-**Cluster Chemistry:**
-He pioneered research on metal clusters and molecular clusters, a field that later developed into an important branch of nanoscience.
-
-**Surface Science:**
-Lee's research team also explored surface science, studying molecular adsorption and reaction processes on solid surfaces.
-
-## Social Participation and Education Reform
-
-### Education Reform Participation
-
-Lee was not only an outstanding scientist but also an active promoter of educational reform.
-
-**Nine-Year Integrated Curriculum Participation:**
-In the late 1990s, Lee participated in planning Taiwan's nine-year integrated curriculum. He advocated that curriculum design should cultivate students' thinking abilities rather than rote knowledge instruction.
-
-**Science Education Reform:**
-He particularly focused on science education reform, believing students should learn science through experiments and observations rather than memorizing formulas and laws.
-
-### International Scientific Cooperation
-
-**International Organization Participation:**
-Lee actively participated in international scientific organization activities. He served as President of the International Council for Science (2011-2014), promoting global scientific cooperation.
-
-**Supporting Asian Science:**
-He particularly focused on Asian regional scientific development, actively promoting scientific exchange and cooperation among Asian countries.
-
-## Continuous Influence and Future Prospects
-
-Lee Yuan-tseh's life exemplifies the pursuit of truth and excellence. From a child in Hsinchu to a world-class scientist, he used his efforts to prove Taiwan people's potential and strength. He not only achieved outstanding accomplishments in scientific research but also made significant contributions to Taiwan's science education and social development. His spirit and philosophy will continue inspiring new generations of Taiwan scientists to explore bravely in the ocean of knowledge and contribute their strength to human civilization's progress. Lee's story tells us that with dreams, persistence, and effort, everyone can potentially create their own miracles.
+- [Lee Yuan-tseh and His Contributions to the Scientific World — Science Portal](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
+- [1986 Chemistry Prize Official Press Release — CASE Science Report](https://case.ntu.edu.tw/blog/?p=25746)
+- [Taiwan's First Nobel Chemistry Laureate "Lee Yuan-tseh" — UDN Time](https://time.udn.com/udntime/story/122833/8158897)
+- [Lee Yuan-tseh — Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9D%8E%E9%81%A0%E5%93%B2)
