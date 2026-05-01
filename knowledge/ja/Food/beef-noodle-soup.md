@@ -11,6 +11,9 @@ image: '/images/wiki/5be514264de6.jpg'
 imageAlt: '台湾牛肉麺'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
+sourceCommitSha: '03431927'
+sourceContentHash: 'sha256:9ff225473fbb73d5'
+translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 
 # 台湾牛肉麺（ビーフヌードル）

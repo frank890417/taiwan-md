@@ -282,7 +282,7 @@ translatedFrom: 'Technology/東亞文字輸入法.md'
 
 ## 関連記事
 
-- [半導体産業](/ja/technology/semiconductor-industry) — キーボードの背後にあるチップ産業
+- [半導体産業](/ja/Technology/semiconductor-industry) — キーボードの背後にあるチップ産業
 
 ## 参考資料
 

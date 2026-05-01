@@ -1,16 +1,28 @@
 ---
 title: '台湾の朝食文化'
-description: '蛋餅や焼餅油条、豆漿から現代的な朝食チェーンまで。台湾の朝を支える多彩な味と、その背景にある社会と文化をたどる。'
+description: '台湾風玉子焼きの餅・焼き餅・油条から永和豆漿のグローバル展開まで、朝食屋のおばちゃんと台湾人の朝の儀式'
 date: 2026-03-18
-tags: ['朝食', '蛋餅', '焼餅油条', '豆漿', '永和豆漿', '美而美', '台湾グルメ']
+tags:
+  [
+    '朝食',
+    '台湾風玉子焼きの餅（蛋餅）',
+    '焼き餅・油条（燒餅油條）',
+    '永和豆漿',
+    '美而美（メイアーメイ）',
+    '朝食屋',
+    '豆漿（豆乳）店',
+  ]
+subcategory: '飲食文化'
 category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danbing_and_sandwitch.jpg/960px-Taiwanese_danbing_and_sandwitch.jpg'
-imageAlt: '台湾の蛋餅'
+imageAlt: '台湾の蛋餅（玉子クレープ）'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-featured: false
 translatedFrom: 'Food/台灣早餐文化.md'
+sourceCommitSha: '82d9f045'
+sourceContentHash: 'sha256:dd384a5d10cf3ad6'
+translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 
 # 台湾の朝食文化

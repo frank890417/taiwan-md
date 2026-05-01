@@ -1,15 +1,17 @@
 ---
-title: '戒厳令解除後の台湾文学'
-description: '38年間の禁錮が一夜にして解かれ、文学創作は爆発的な広がりを見せた――しかし自由は無制約を意味せず、新たな挑戦が静かに訪れていた'
-date: 2026-03-18
-tags: [文学, 戒厳令解除, 本土化, 政治文学, 多元的文学]
+title: 戒厳令解除後の台湾文学
+category: Art
+tags: ['文学', '戒厳令解除', '本土化', '政治文学', '多元文学']
 subcategory: '文学'
-category: 'Art'
-author: 'Taiwan.md Translation Team'
+date: 2026-03-18
+lastVerified: 2026-04-27
+lastHumanReview: false
 readingTime: 8
-featured: false
+description: 38年間の禁錮が一夜にして解かれ、文学創作は大爆発を迎えた——しかし自由は制約のなさを意味しない。新たな挑戦が静かに訪れていた
 translatedFrom: 'Art/解嚴後台灣文學.md'
-lastVerified: 2026-03-23
+sourceCommitSha: 'f553d365'
+sourceContentHash: 'sha256:493c1722ce576d1b'
+translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 
 # 戒厳令解除後の台湾文学

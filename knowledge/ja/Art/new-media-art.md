@@ -22,6 +22,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 18
 featured: true
 translatedFrom: 'Art/台灣新媒體藝術.md'
+sourceCommitSha: 'ee4917f3'
+sourceContentHash: 'sha256:d65b35a4569fdd34'
+translatedAt: '2026-05-01T14:48:26+08:00'
 lastVerified: 2026-04-04
 ---
 
