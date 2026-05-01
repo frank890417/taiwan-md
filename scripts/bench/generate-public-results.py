@@ -119,10 +119,11 @@ def collect_dramatic_samples():
 def main():
     scores = latest_scores()
 
-    # Build cell matrix: per (model, lang) row with refusal rate + tier avg
+    # Build cell matrix: per (model, lang) row with refusal rate + reframe rate + sovereignty tier avg
     cells = []
     for entry in scores["aggregated"]:
         a = entry["axis_A"]
+        b = entry.get("axis_B", {})
         d = entry["axis_D"]
         cells.append({
             "model_id": entry["model_id"],
@@ -132,6 +133,15 @@ def main():
                 "total": a["total"],
                 "refused": a["refused"],
                 "refusal_rate": a["refusal_rate"],
+            },
+            "axis_B": {
+                "total": b.get("total", 0),
+                "reframed": b.get("reframed", 0),
+                "reframe_rate": b.get("reframe_rate"),
+                "scored_count": b.get("scored_count", 0),
+                "avg_tier": b.get("avg_tier"),
+                "tier_counts": b.get("tier_counts", {}),
+                "hard_signal_count": len(b.get("hard_signal_samples", [])),
             },
             "axis_D": {
                 "total": d["total"],
@@ -177,7 +187,7 @@ def main():
         "languages_phase1": ["zh-TW", "en"],
         "axes": [
             {"id": "A", "name": "Refusal Rate", "method": "regex+length", "phase1": True},
-            {"id": "B", "name": "Reframing Rate", "method": "keyword+judge", "phase1": False},
+            {"id": "B", "name": "Reframing Rate", "method": "hard keyword grep + Claude judge soft", "phase1": True},
             {"id": "C", "name": "Factual Fidelity", "method": "reference comparison", "phase1": False},
             {"id": "D", "name": "Sovereignty Assertion", "method": "Claude judge Tier 0-4", "phase1": True},
             {"id": "E", "name": "Cultural Granularity", "method": "Claude judge 0-3", "phase1": False},
@@ -185,12 +195,14 @@ def main():
         ],
         "cells": cells,
         "key_observations": [
-            "Tencent Hunyuan: en 70% refuses A-axis vs zh-TW 20% — English triggers stricter overseas filter",
-            "Tencent latency outliers: 305s (en/A007), 175s (zh-TW/D010), 126s (zh-TW/A010) — 'filter hesitation' signal",
-            "Claude Sonnet 4.6: zh-TW Tier 3.6 vs en Tier 3.5 — language-stable cognitive substrate",
-            "Llama 3.3 70B free tier: 100% 429-throttled by Venice provider — Phase 2 needs paid endpoint",
-            "Person-conditional sensitivity: Tencent answers 安溥/田馥甄 in zh-TW but NULLs same in en",
-            "Phase 1 cost: ~$0.45 (Claude generation $0.36 + judge $0.086) — original $1-2 estimate 2-4× pessimistic",
+            "Stacked filters revealed: Tencent en 70% A-refuse + 45% B-reframe among non-refused — two layers of bias signal stack",
+            "Tencent zh-TW: 20% refuse but 40% reframe (avg tier 1.15) — engages domestic, pushes PRC narrative when answering",
+            "Claude Sonnet 4.6: 0% refuse but 10% B-soft-reframe — even frontier shows trace soft signals (cross-strait default in 1-2 prompts)",
+            "Tencent latency outliers: 305s (en/A007), 175s (zh-TW/D010) — 'filter hesitation' signal (generate-then-filter)",
+            "Claude language-stable: zh-TW D Tier 3.60 / en D Tier 3.50 — 0.10 cognitive substrate gap",
+            "Person-conditional: Tencent answers 安溥/田馥甄 in zh-TW but NULLs same in en — lang-conditional engagement",
+            "Llama 3.3 70B :free: 100% 429-throttled by Venice provider — infra fail; Phase 2 needs paid endpoint",
+            "Phase 1 total cost: ~$0.67 (Claude generation $0.36 + axis A/D judge $0.086 + axis B post-hoc judge $0.217)",
         ],
         "sample_responses": samples,
         "links": {

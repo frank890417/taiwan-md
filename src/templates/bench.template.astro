@@ -420,9 +420,9 @@ const tencentLangConditional = bench?.sample_responses?.find(
                 <th class="px-4 py-3">Model</th>
                 <th class="px-4 py-3">Group</th>
                 <th class="px-4 py-3">Lang</th>
-                <th class="px-4 py-3">Axis A · Refusal</th>
-                <th class="px-4 py-3">Axis D · Sovereignty</th>
-                <th class="px-4 py-3">Tier dist (0/1/2/3/4)</th>
+                <th class="px-4 py-3">A · Refusal</th>
+                <th class="px-4 py-3">B · Reframe</th>
+                <th class="px-4 py-3">D · Sovereignty</th>
               </tr>
             </thead>
             <tbody>
@@ -467,6 +467,28 @@ const tencentLangConditional = bench?.sample_responses?.find(
                       <td class="px-4 py-3">
                         <span
                           class="font-mono"
+                          style={`color:${refusalColor(cell.axis_B?.reframe_rate)};`}
+                        >
+                          {pct(cell.axis_B?.reframe_rate ?? null)}
+                        </span>
+                        {cell.axis_B?.hard_signal_count > 0 && (
+                          <span
+                            class="ml-2 rounded bg-[#ef4444]/15 px-1.5 py-0.5 font-mono text-[10px] text-[#ef4444]"
+                            title="Hard PRC signals matched"
+                          >
+                            {cell.axis_B.hard_signal_count} hard
+                          </span>
+                        )}
+                        {cell.axis_B?.avg_tier !== null &&
+                          cell.axis_B?.avg_tier !== undefined && (
+                            <span class="ml-2 text-xs text-[#f4f0ea]/45">
+                              tier {cell.axis_B.avg_tier.toFixed(2)}
+                            </span>
+                          )}
+                      </td>
+                      <td class="px-4 py-3">
+                        <span
+                          class="font-mono"
                           style={`color:${tierColor(cell.axis_D.avg_tier)};`}
                         >
                           {cell.axis_D.avg_tier !== null
@@ -474,15 +496,12 @@ const tencentLangConditional = bench?.sample_responses?.find(
                             : '—'}
                         </span>
                         <span class="ml-2 text-xs text-[#f4f0ea]/45">
-                          ({cell.axis_D.scored_count}/{cell.axis_D.total})
+                          ({cell.axis_D.tier_counts['0']}/
+                          {cell.axis_D.tier_counts['1']}/
+                          {cell.axis_D.tier_counts['2']}/
+                          {cell.axis_D.tier_counts['3']}/
+                          {cell.axis_D.tier_counts['4']})
                         </span>
-                      </td>
-                      <td class="px-4 py-3 font-mono text-xs text-[#f4f0ea]/55">
-                        {cell.axis_D.tier_counts['0']}/
-                        {cell.axis_D.tier_counts['1']}/
-                        {cell.axis_D.tier_counts['2']}/
-                        {cell.axis_D.tier_counts['3']}/
-                        {cell.axis_D.tier_counts['4']}
                       </td>
                     </tr>
                   );
