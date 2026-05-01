@@ -1,70 +1,72 @@
 ---
-title: “Lee Ju-eun”
-description: “From 'AI goddess' buzz to building a career in Taiwan — her path reimagines how long Korean cheer members can stay in CPBL.”
+title: 'Lee Ju-eun'
+description: 'From the "AI Goddess" phenomenon to fully committing to a career in Taiwan, her path has reshaped the imagination of Korean cheerleaders staying long-term in the CPBL.'
 date: 2026-04-14
+author: 'Taiwan.md Contributors'
+category: People
+subcategory: '流行人物'
 tags:
-  - “pop culture”
-  - “Lee Ju-eun”
-  - “Korea”
-  - “cheerleading”
-  - “Fubon Guardians”
-  - “Fubon Angels”
-  - “CPBL”
-subcategory: “流行人物”
-author: “Taiwan.md Contributors”
+  [
+    '流行人物',
+    '李珠珢',
+    '韓國',
+    '啦啦隊',
+    '富邦悍將',
+    'Fubon Angels',
+    '中華職棒',
+  ]
 readingTime: 10
-featured: false
 lastVerified: 2026-04-14
 lastHumanReview: false
-category: “People”
 translatedFrom: 'People/李珠珢.md'
-sourceCommitSha: “967e77ab”
-sourceContentHash: “sha256:1a5ec966d15fc75f”
-translatedAt: “2026-05-01T13:19:11+08:00”
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:1a5ec966d15fc75f'
+translatedAt: '2026-05-01T20:54:09+08:00'
 ---
 
-> **30-second overview:** In 2025 Lee Ju-eun signed a full management deal with Fubon; in 2026 she placed work more clearly in Taiwan. Her significance is not only traffic—it is pushing Korean support from “shuttling both sides” toward “staying long term.”
+> **30-second overview:** Lee Ju-eun signed a full management contract with the Fubon Guardians in 2025, and in 2026 shifted her career focus more explicitly to Taiwan. Her significance lies not just in high traffic, but in how she pushed the Korean cheerleader path from "shuttling between two sides" to "staying long-term in Taiwan."
 
-After trending in Korea, she did not stop at short cooperation—she moved toward deeper agency integration, clearly different from typical “Taiwan guest” Korean members.
+After rising to fame in Korea, she did not stop at short-term collaborations but moved directly toward deeper management integration. This step clearly set her apart from the typical Korean cheerleaders who come to Taiwan as guest appearances.
 
-Signals around the 2026 season reinforced the path: she did not only visit Taiwan—she put Taiwan on her career main line.
+The signals of her continued stay around the 2026 season further solidified this path: she has not just visited Taiwan — she has placed Taiwan on the main line of her career.
 
-## From viral moment to long-term configuration
+## From Viral Fame to Long-Term Placement
 
-Early Taiwan buzz framed her as a “topic.” Continued roster and schedule extension in 2026 show she is now woven into long-term club operations.
+When Lee Ju-eun first went viral in Taiwan, the public largely understood her as a "phenomenon." But her continued presence and extended schedule in 2026 show that she is no longer just a traffic event — she has been incorporated into the team's long-term operations.
 
-Her appearances tie to major home dates, social cadence, and fan events—shifting her from a “replaceable highlight” to a “core content node.”
+Her appearances are often tied to major home-game events, social media content rhythms, and fan activities. This means her role has shifted from a "replaceable highlight" to a "core content node."
 
-## Why she is amplified
+## Why She Gets Amplified
 
-First, distinctive stage traits and strong visual memory. Second, high resharing efficiency in social video—any clip can spin secondary topics. Third, career moves carry “industry indicator” value for Korean-support trends.
+First, Lee Ju-eun possesses highly recognizable stage characteristics and visual memorability. Second, her retransmission efficiency in the social media environment is extremely high — any short clip can spark a secondary wave of discussion. Third, her career trajectory carries "industry significance," often read as an indicator of broader trends in the Korean cheerleader ecosystem.
 
-Together these make her more than a personal star—she is an observation point for Taiwan’s pro-baseball entertainment shift.
+Taken together, these conditions make her not just an individual star, but an observation point in the entertainment-driven evolution of Taiwanese professional baseball.
 
-> **Curator’s note:** The most important thing to record about Lee Ju-eun is not “how famous” but that she makes people seriously ask whether Korean members can treat Taiwan as a primary workplace.
+> **📝 Curator's Note**
+> What makes Lee Ju-eun most worth documenting is not how "popular" she is, but how she made people start seriously asking: can Korean cheerleaders treat Taiwan as their primary workplace?
 
-## Cultural meaning of staying in Taiwan
+## The Cultural Significance of Staying in Taiwan
 
-When reporting framed her as “going all-in on cheering in Taiwan,” fans saw a relationship upgrade—from invited short runs toward shared, sustained work.
+When Lee Ju-eun was reported as "fully committed to cheering in Taiwan," Taiwanese fans saw a relationship upgrade. This is no longer a short-term, invitation-based engagement — it is closer to a mutually invested working relationship.
 
-For Taiwanese pop culture, the ballpark is no longer passively receiving Hallyu—it co-produces content and topics with it.
+For Taiwanese popular culture, the significance is this: the ballpark is no longer passively receiving the Korean Wave (Hallyu), but has become a platform that can co-create content with it and jointly generate cultural conversation.
 
-## Risks under high volume
+## Risks Under High Visibility
 
-She faces typical high-traffic risks: excessive attention, hostile comments, roster disputes, and emotional labor—not unique to her but common to high-exposure figures in the platform era.
+Lee Ju-eun also faces typical high-traffic risks, including excessive attention, malicious comments, schedule disputes, and emotional labor. These issues are not unique to her — they represent the universal pressures that the platform era places on highly visible individuals.
 
-Discussing her should include how sports entertainment can build healthier work environments so traffic does not burn out workers.
+Therefore, discussions about her should not stop at popularity contests but should also examine how the sports entertainment industry can build healthier work environments to prevent traffic from backfiring on the workers themselves.
 
-## Place in Taiwan.md
+## Lee Ju-eun's Place in Taiwan.md
 
-She belongs in pop culture because her impact on CPBL cheer culture is measurable, observable, and ongoing—shifting imagination of Korean support from short to long term.
+Lee Ju-eun belongs in the "Popular Figures" category not because she merely represents an "idol," but because she has had a quantifiable, observable, and sustainable impact on Taiwanese professional baseball cheerleading culture. She shifted the imagination of Korean cheerleaders in Taiwan from "short-term" to "long-term."
 
-That pivot may be one of the most important shifts in late-2020s Taiwanese sports pop culture.
+This shift may well be one of the most important changes in Taiwanese sports pop culture in the late 2020s.
 
 ## References / Sources
 
-1. https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-2. https://m.mirrormedia.mg/story/20260223edi054
-3. https://stage.newtalk.tw/news/view/2026-02-23/1021071
-4. https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
-5. https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
+Source 1: https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+Source 2: https://m.mirrormedia.mg/story/20260223edi054
+Source 3: https://stage.newtalk.tw/news/view/2026-02-23/1021071
+Source 4: https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
+Source 5: https://news.pchome.com.tw/entertainment/crwant/20260330/index-77484543045734316006.html
