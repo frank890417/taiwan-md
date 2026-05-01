@@ -49,17 +49,18 @@ Instagram 進入台灣初期，1:1 的方形構圖與復古濾鏡，將平凡的
 
 或許，2026 年的台灣社群趨勢正告訴我們：當濾鏡已經完美到失真，人們最終渴望的，依然是那份不需要修飾的、真實的連結。
 
---
-## 參考來源
+---
+
+**參考來源：**
 
 [^1]: [Instagram 用戶飆破 10 億，為何兩位創辦人卻轉身離開？](https://www.managertoday.com.tw/articles/view/61994) - 經理人月刊
-[^2]: [原來這是個愛情故事嗎？創辦人 Kevin Systrom 誕生故事](https://www.facebook.com/tatlertaiwan/posts/1049422470549175/) - Tatler Taiwan
+[^2]: [Hitting the Books: The story behind Instagram’s most famous filter](https://www.engadget.com/hitting-the-books-no-filter-sarah-frier-153013189.html) - Engadget
 [^3]: [Digital 2025: Taiwan Report](https://datareportal.com/reports/digital-2025-taiwan) - DataReportal
-[^4]: [2025 台灣網路報告 (TWNIC_TaiwanInternetReport_2025_CH_summary.pdf)](https://report.twnic.tw/2025/assets/download/TWNIC_TaiwanInternetReport_2025_CH_summary.pdf) - 財團法人台灣網路資訊中心 (TWNIC)
+[^4]: [2025 台灣網路報告](https://report.twnic.tw/2025/) - 財團法人台灣網路資訊中心 (TWNIC)
 [^5]: [Meta Reports Fourth Quarter and Full Year 2025 Results](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx) - Meta Investor Relations
-[^6]: [2025 vs 2026 Instagram 重要轉變：首要核心指標轉向停留時間](https://www.instagram.com/p/DUAhuWzkopV/) - 社群經營趨勢分析
+[^6]: [Instagram algorithm tips for 2026: Everything you need to know](https://blog.hootsuite.com/instagram-algorithm/) - Hootsuite Blog
 [^7]: [2025 台灣網路報告：社群版圖洗牌，Threads 躍升第三](https://report.twnic.tw/2025/) - 財團法人台灣網路資訊中心 (TWNIC)
-[^8]: [Threads 的演算法核心：爭議、爆料與公審](https://www.instagram.com/p/DXqGgOpiqX5/) - 社群文化觀察
+[^8]: [獵奇、虐心、廢文、癖好……媒體人看Threads流量之謎](https://opinion.cw.com.tw/blog/profile/51/article/15174) - 天下雜誌 誌 獨立評論
 [^9]: [Digital in Taiwan 2025: State of Digital](https://datareportal.com/digital-in-taiwan) - DataReportal
 [^10]: [Social Media Users in Taiwan - October 2025](https://stats.napoleoncat.com/social-media-users-in-taiwan/2025/10/) - NapoleonCat
 [^11]: [114 年數位近用調查報告：台灣整體數位化程度深化](https://moda.gov.tw/digital-affairs/digital-service/dv-survey/18672) - 數位發展部 (MODA)
