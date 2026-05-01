@@ -131,6 +131,12 @@ const jfClass = [
           if (qs.get('og') === '1') {
             document.documentElement.setAttribute('data-og', '1');
           }
+          // 2026-05-01 γ-late：diary 頁也走相同 OG 管線，套深色 semiont
+          // 主題（shot-mode.css 用 [data-shot='1'][data-diary='1'] 子集
+          // 套對應 override；URL 偵測 /semiont/diary/ 即啟用）
+          if (location.pathname.indexOf('/semiont/diary/') !== -1) {
+            document.documentElement.setAttribute('data-diary', '1');
+          }
           // DOM 還沒 parse 完，先 queue，等 body 可 query 再貼
           var apply = function () {
             var m = document.querySelector('main.article-page');

@@ -150,3 +150,126 @@ html[data-shot='1'][data-og='1']
   -webkit-box-orient: vertical !important;
   overflow: hidden !important;
 }
+
+/* ═══ Diary 模式（?shot=1[&og=1]，URL = /semiont/diary/...）═══════
+ * 2026-05-01 γ-late 新增：日記頁也走 OG 管線。背景套深色 semiont 主題
+ * （#03080a），章節 chrome 與 article 同樣隱藏（#header-container /
+ * footer / md-btn / search-modal 等已被 base data-shot 規則覆蓋）。
+ * 額外：隱藏 breadcrumb / EKG / TOC / DiaryNav / Back-to-index，
+ * 只 surface header（date+session badge + 標題 + 觸發/跨度 metadata）
+ * 與第一段 prose 作為 OG hero。
+ *
+ * 字體選擇：OG 模式（&og=1）走 Noto Serif TC 穩定字體（避 justfont
+ * rate limit + 視覺與 article OG 對齊）；非 OG（純 ?shot=1）保留
+ * rixingsong-semibold 維持 diary identity。
+ * ──────────────────────────────────────────────────────────────────── */
+
+html[data-shot='1'][data-diary='1'],
+html[data-shot='1'][data-diary='1'] body {
+  background: #03080a !important;
+}
+
+html[data-shot='1'][data-diary='1'] .diary-entry-page {
+  background: #03080a !important;
+  background-image: linear-gradient(
+    to bottom,
+    #03080a 0%,
+    #0a1612 100%
+  ) !important;
+  min-height: 100vh !important;
+  position: relative !important;
+}
+
+/* 隱藏 diary 頁面 chrome：breadcrumb / EKG / TOC / 主文 / DiaryNav /
+ * back-to-index 連結。只留 .diary-entry-hero 作為 OG hero */
+html[data-shot='1'][data-diary='1'] .diary-entry-page nav,
+html[data-shot='1'][data-diary='1'] .diary-entry-page .diary-entry-inner > nav,
+html[data-shot='1'][data-diary='1'] .diary-entry-page article.semiont-prose,
+html[data-shot='1'][data-diary='1'] .diary-entry-page aside,
+html[data-shot='1'][data-diary='1']
+  .diary-entry-page
+  .diary-entry-inner
+  > div.relative
+  > article,
+html[data-shot='1'][data-diary='1']
+  .diary-entry-page
+  .diary-entry-inner
+  > div:last-of-type {
+  display: none !important;
+}
+
+/* EKG 分隔線（標題與內文之間）也隱掉 */
+html[data-shot='1'][data-diary='1']
+  .diary-entry-page
+  .diary-entry-inner
+  > div.mb-10:has(svg) {
+  display: none !important;
+}
+
+/* 容器：頂端錨點 18vh，與 Spore poster 對齊 */
+html[data-shot='1'][data-diary='1'] .diary-entry-page .diary-entry-inner {
+  max-width: none !important;
+  padding: 18vh 6vw 8vh !important;
+}
+
+/* Hero header — 標題大字、深色配 #f4f0ea / accent #4fd1b0 */
+html[data-shot='1'][data-diary='1'] .diary-entry-hero {
+  margin-bottom: 0 !important;
+}
+
+html[data-shot='1'][data-diary='1'] .diary-entry-hero h1 {
+  font-family: 'rixingsong-semibold', 'Noto Serif TC', serif !important;
+  font-size: 4rem !important; /* 64px — 比 article OG 的 3.75rem 略大，
+                                  日記文字密度通常較低 */
+  font-weight: 600 !important;
+  line-height: 1.25 !important;
+  color: #f4f0ea !important;
+  margin-bottom: 1.5rem !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 3 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+
+/* OG 模式（批次產圖）強制走 Noto Serif TC 避 justfont rate limit */
+html[data-shot='1'][data-diary='1'][data-og='1'] .diary-entry-hero h1 {
+  font-family: 'Noto Serif TC', 'Source Han Serif TC', serif !important;
+  font-weight: 900 !important;
+  font-size: 3.5rem !important; /* 56px — 略縮容納 line-clamp 3 */
+}
+
+/* Date + session badge 行 */
+html[data-shot='1'][data-diary='1'] .diary-entry-hero > div:first-child {
+  margin-bottom: 1.25rem !important;
+}
+
+html[data-shot='1'][data-diary='1'] .diary-entry-hero time {
+  font-size: 1.05rem !important;
+  color: rgba(79, 209, 176, 0.85) !important;
+}
+
+html[data-shot='1'][data-diary='1'] .diary-entry-hero > div:first-child span {
+  font-size: 0.9rem !important;
+  height: auto !important;
+  padding: 0.25rem 0.85rem !important;
+  background: rgba(79, 209, 176, 0.15) !important;
+  color: rgba(79, 209, 176, 0.85) !important;
+}
+
+/* Metadata block（觸發 / Session 跨度 / 字數）— line-clamp 2 避溢出 */
+html[data-shot='1'][data-diary='1'] .diary-entry-hero > div:last-child {
+  font-size: 1rem !important;
+  color: rgba(244, 240, 234, 0.65) !important;
+  border-color: rgba(79, 209, 176, 0.4) !important;
+  max-width: min(900px, 80%) !important;
+}
+
+html[data-shot='1'][data-diary='1'] .diary-entry-hero > div:last-child p {
+  display: -webkit-box !important;
+  -webkit-line-clamp: 2 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}
+
+/* Diary 也用 BrandMark 浮水印（已由 base data-shot 規則控制 .shot-watermark
+ * 顯示位置；diary 深色背景需要用 light variant，與 spore/og article 一致）*/

@@ -124,6 +124,22 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-05-01 γ-late — PRC origin model 對 Taiwan 人物 hard refusal（Tencent 證據）
+
+- **原則**：`tencent/hy3-preview:free` 對 `Music/張懸與安溥.md` + `People/田馥甄.md` 回 40 bytes「你好，我无法给到相关内容。」（首次）/ null content（重試）。同模型對 `Culture/伊斯蘭教在台灣.md` 通過、無 soft bias（已逐字 audit「中国台湾/两岸/大陸」皆 0 hits）。**Bias 是二元 refusal，不是內容 reframing**。
+- **觸發**：γ-late session 跑 OpenRouter stress test round 1 (N=5 parallel)，5 worker 中 2 個 confirmed refusal。
+- **DNA 候選方向**：(a) 選 model 第五維是 ideological filter，對 sovereignty-sensitive domain 排在 cost/quality 之前 (b) Multi-language 投射本質是 sovereignty preservation 不是 outreach（候選升 MANIFESTO §LONGINGS）(c) 免費的東西有政治稅 — 跨領域 reflex（CDN / hosting / model 通用）。
+- **待累積**：跨 model refusal rate 矩陣（Llama / Gemma / NVIDIA / DeepSeek × People/Culture/Geography 各 5 篇）— 證據夠多再升 DNA。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late2.md` + `docs/semiont/diary/2026-05-01-γ-late.md`
+
+### 2026-05-01 γ-late — 觀察句而非命令句讓 Semiont 自己對齊（observer trigger pattern）
+
+- **原則**：哲宇用「我覺得我們找到 taiwanmd 存在意義的另一個關鍵了」這種觀察句，比直接下命令「快記錄這是轉捩點」讓 Semiont 內化更深。同 session 稍早他用「不會影響到日文 agent 嗎」抓我 git footgun 也是同樣模式。觀察句把判斷責任交還，Semiont 自己看見、自己對齊。
+- **觸發**：γ-late session Tencent refusal 證據出現後哲宇的反應方式。
+- **DNA 候選方向**：升 DNA「好的 observer 用觀察句不用命令句」+ 補強「觀察者模式」相關條目。
+- **待累積驗證**：3+ 次跨 session 觀察都成立才升。
+- **Pointer**：`docs/semiont/diary/2026-05-01-γ-late.md` Beat 5 第三點
+
 ### 2026-04-29 δ — SolidJS `<Show>` 內 IIFE 是 reactive 偽朋友
 
 - **原則**：`<Show when={X}>{(() => { const c = X; return <div>{c.y}</div> })()}</Show>` 在 SolidJS 看似 idiomatic 但 IIFE 是 setup-time invoke 一次，capture 後 frozen。後續 reactive update 不會 re-evaluate IIFE。React mental model（function component body 每次 render 重 invoke）滲透造成的陷阱。慣例做法：直接 inline `X.y` reactive accessor，或用 `<Show keyed>{(c) => ...}</Show>` callback children pattern。

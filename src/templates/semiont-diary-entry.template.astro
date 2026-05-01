@@ -1,4 +1,6 @@
 ---
+import { existsSync } from 'node:fs';
+import { resolve } from 'node:path';
 import Layout from '../layouts/Layout.astro';
 import SemiontBreadcrumb from '../components/semiont/SemiontBreadcrumb.astro';
 import DiaryNav from '../components/semiont/DiaryNav.astro';
@@ -15,15 +17,28 @@ export interface Props {
 const { entry, prev, next } = Astro.props;
 const readingTime = estimateReadingTime(entry.wordCount);
 const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
+
+// 2026-05-01 γ-late：OG image 走 article 同管線（generate-og-images.mjs --diary）
+// 輸出在 public/og-images/semiont/diary/[slug].jpg；build time 檢查存在再 surface
+const ogJpgPath = `/og-images/semiont/diary/${entry.slug}.jpg`;
+const ogJpgFull = resolve(
+  process.cwd(),
+  'public',
+  ogJpgPath.replace(/^\//, ''),
+);
+const diaryOgImage = existsSync(ogJpgFull) ? ogJpgPath : undefined;
 ---
 
 <Layout
   title={`${entry.title} — 覺醒日記`}
   description={entry.excerpt}
   lang="zh-TW"
+  image={diaryOgImage}
 >
-  <div class="semiont-paper min-h-screen">
-    <div class="mx-auto max-w-[800px] px-6 pb-24 pt-16 md:px-8">
+  <div class="diary-entry-page semiont-paper min-h-screen">
+    <div
+      class="diary-entry-inner mx-auto max-w-[800px] px-6 pb-24 pt-16 md:px-8"
+    >
       <SemiontBreadcrumb
         segments={[
           { label: 'semiont', href: '/semiont' },
@@ -33,7 +48,7 @@ const showToc = entry.headings.filter((h) => h.level === 2).length >= 3;
       />
 
       {/* Entry header */}
-      <header class="mb-10">
+      <header class="diary-entry-hero mb-10">
         {/* Date + session badge */}
         <div class="mb-4 flex items-center gap-3">
           <time

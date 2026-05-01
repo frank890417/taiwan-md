@@ -1,22 +1,22 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-01T15:33:43+08:00",
-    "zhCommitHead": "7edbd890",
+    "lastUpdated": "2026-05-01T16:16:30+08:00",
+    "zhCommitHead": "4da59e73",
     "totalZh": 641,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 641,
-        "fresh": 379,
-        "stale": 230,
-        "missing": 32,
+        "fresh": 429,
+        "stale": 182,
+        "missing": 30,
         "orphan": 6
       },
       "ja": {
         "total_zh": 641,
-        "fresh": 97,
+        "fresh": 100,
         "stale": 243,
-        "missing": 301,
+        "missing": 298,
         "orphan": 2
       },
       "ko": {
@@ -1297,14 +1297,14 @@
         "en": {
           "path": "en/Music/indigenous-music-traditions.md",
           "translatedFrom": "Music/台灣原住民音樂傳統.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:781fad4801f687cc",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -1348,14 +1348,14 @@
         "en": {
           "path": "en/Music/taiwan-screen-scoring-from-cinema-to-games.md",
           "translatedFrom": "Music/台灣影視配樂.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:6cbe8cc1264f871a",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -1399,14 +1399,14 @@
         "en": {
           "path": "en/Music/taiwan-music-festival-culture.md",
           "translatedFrom": "Music/台灣音樂祭文化.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:81daef88e9eeac8f",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -1492,14 +1492,14 @@
         "en": {
           "path": "en/Music/taiwan-soundscape.md",
           "translatedFrom": "Music/台灣聲音地景.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:cbfdd904f2ae5e56",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -1543,14 +1543,14 @@
         "en": {
           "path": "en/Music/taiwan-electronic-music-and-party-culture.md",
           "translatedFrom": "Music/台灣電子音樂與派對文化.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:fc263f7b3e9c2710",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -1594,14 +1594,14 @@
         "en": {
           "path": "en/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
           "translatedFrom": "Economy/台灣企業：巨大機械.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/giant-manufacturing.md",
@@ -1654,14 +1654,14 @@
         "en": {
           "path": "en/Economy/mega-financial-holding-global-banking-network.md",
           "translatedFrom": "Economy/台灣企業：兆豐金控.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:d45f458eabe77e3c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/mega-financial.md",
@@ -1765,14 +1765,14 @@
         "en": {
           "path": "en/Economy/esun-financial-holding-digital-banking-pioneer.md",
           "translatedFrom": "Economy/台灣企業：玉山金控.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:36f7111132b226f6",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/e-sun-financial.md",
@@ -1825,14 +1825,14 @@
         "en": {
           "path": "en/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:51e4bbc49efeda40",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/sme-and-hidden-champions.md",
@@ -2005,14 +2005,14 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-chang-chun-petrochemical.md",
           "translatedFrom": "Economy/台灣企業：長春石化.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:a4e3dd0ffdb02185",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/chang-chun-group.md",
@@ -2065,14 +2065,14 @@
         "en": {
           "path": "en/Economy/advantech-technology.md",
           "translatedFrom": "Economy/台灣企業：研華科技.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:9704201e3df16190",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/advantech.md",
@@ -2269,14 +2269,14 @@
         "en": {
           "path": "en/Economy/industrial-transformation-and-economic-development.md",
           "translatedFrom": "Economy/台灣產業轉型與經濟發展軌跡.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:a20b7c78580c0ee1",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/industrial-transformation-and-economic-development.md",
@@ -2380,14 +2380,14 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:cb7042e73cb2cef2",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/ase-group.md",
@@ -2438,7 +2438,16 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Economy/taiwan-industrial-transformation.md",
+          "translatedFrom": "Economy/產業轉型.md",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:ce20822406c79ae1",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
+          "inferred": false,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -2482,14 +2491,14 @@
         "en": {
           "path": "en/Economy/united-microelectronics-corporation.md",
           "translatedFrom": "Economy/台灣企業：聯華電子.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:872bba83b389ef58",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/umc.md",
@@ -2542,14 +2551,14 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-fubon-financial.md",
           "translatedFrom": "Economy/台灣企業：富邦金控.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:17799d817d240ba2",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/fubon-financial.md",
@@ -2602,14 +2611,14 @@
         "en": {
           "path": "en/Economy/taiwan-companies-china-steel.md",
           "translatedFrom": "Economy/台灣企業：中鋼.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:046697b621d130dd",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/china-steel.md",
@@ -2722,14 +2731,14 @@
         "en": {
           "path": "en/Economy/htc-android-pioneer-vr-transformation.md",
           "translatedFrom": "Economy/台灣企業：宏達電.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:e3a135605ed275be",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/htc.md",
@@ -2884,14 +2893,14 @@
         "en": {
           "path": "en/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:917f1503c2ff61d8",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/quanta-computer.md",
@@ -2944,14 +2953,14 @@
         "en": {
           "path": "en/Economy/taiwanese-companies-realtek-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：瑞昱半導體.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:ab958b73a4cbe23f",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/realtek.md",
@@ -3004,14 +3013,14 @@
         "en": {
           "path": "en/Economy/delta-electronics-taiwan-power-giant.md",
           "translatedFrom": "Economy/台灣企業：台達電子.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:731abae76b18888c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/delta-electronics.md",
@@ -3124,14 +3133,14 @@
         "en": {
           "path": "en/Economy/circular-economy-and-resource-recycling.md",
           "translatedFrom": "Economy/台灣循環經濟與資源再利用.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:14226e8150e93598",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -3175,14 +3184,14 @@
         "en": {
           "path": "en/Economy/taiwan-companies-chunghwa-telecom.md",
           "translatedFrom": "Economy/台灣企業：中華電信.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:2dc422bd153e8b6c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/chunghwa-telecom.md",
@@ -3235,14 +3244,14 @@
         "en": {
           "path": "en/Economy/taiwan-cement-taipower-green-transformation.md",
           "translatedFrom": "Economy/台灣企業：台泥.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:7664edadac92feec",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-cement.md",
@@ -3295,14 +3304,14 @@
         "en": {
           "path": "en/Economy/formosa-plastics-group.md",
           "translatedFrom": "Economy/台灣企業：台塑集團.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:0705937c431692b3",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/formosa-plastics-group.md",
@@ -3355,14 +3364,14 @@
         "en": {
           "path": "en/Economy/compal-electronics-global-odm-leader.md",
           "translatedFrom": "Economy/台灣企業：仁寶電腦.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:95ade25e990d7b77",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/compal-electronics.md",
@@ -3508,14 +3517,14 @@
         "en": {
           "path": "en/Economy/evergreen-marine.md",
           "translatedFrom": "Economy/台灣企業：長榮海運.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:568e51f4fe252bc3",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/evergreen-marine.md",
@@ -3568,14 +3577,14 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-cathay-financial.md",
           "translatedFrom": "Economy/台灣企業：國泰金控.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:15d9f13b5613c8cd",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/cathay-financial.md",
@@ -3739,14 +3748,14 @@
         "en": {
           "path": "en/Economy/night-market-economics.md",
           "translatedFrom": "Economy/夜市經濟學.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:0fad49e81799ba5a",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -3790,14 +3799,14 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-uni-president.md",
           "translatedFrom": "Economy/台灣企業：統一企業.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:3fb7c059831bdebb",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/uni-president.md",
@@ -3850,14 +3859,14 @@
         "en": {
           "path": "en/Economy/taiwanese-companies-far-eastern-group.md",
           "translatedFrom": "Economy/台灣企業：遠東集團.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:d6da6fce353b5bfa",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/far-eastern-group.md",
@@ -3910,14 +3919,14 @@
         "en": {
           "path": "en/Economy/agricultural-technology-and-refined-agriculture.md",
           "translatedFrom": "Economy/農業科技與精緻農業.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:b2ed1a7ff254e589",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "status": "missing"
@@ -3961,14 +3970,14 @@
         "en": {
           "path": "en/Economy/asus-computer.md",
           "translatedFrom": "Economy/台灣企業：華碩.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:00009559de6db0ad",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/asus.md",
@@ -4072,14 +4081,14 @@
         "en": {
           "path": "en/Economy/pegatron-the-invisible-manufacturing-giant.md",
           "translatedFrom": "Economy/台灣企業：和碩聯合.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:8b0c4f42c17a074c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/pegatron.md",
@@ -4132,14 +4141,14 @@
         "en": {
           "path": "en/Economy/chimei-corporation-plastics-empire-and-museum-dreams.md",
           "translatedFrom": "Economy/台灣企業：奇美實業.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:ef66216f5745267b",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/chi-mei-corporation.md",
@@ -4192,14 +4201,14 @@
         "en": {
           "path": "en/Economy/wistron-global-manufacturing-transformation-pioneer.md",
           "translatedFrom": "Economy/台灣企業：緯創資通.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:e06fd51c1363bcdb",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/wistron.md",
@@ -4252,14 +4261,14 @@
         "en": {
           "path": "en/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:934dad079d2918fd",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/tsmc-taiwan-semiconductor.md",
@@ -4372,14 +4381,14 @@
         "en": {
           "path": "en/Economy/acer-pc-industry-pioneer.md",
           "translatedFrom": "Economy/台灣企業：宏碁.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:197235760e486f5d",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/acer.md",
@@ -4432,14 +4441,14 @@
         "en": {
           "path": "en/Economy/foxconn-precision-industry.md",
           "translatedFrom": "Economy/台灣企業：鴻海精密.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:b12e548dfcd9dc9c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/foxconn.md",
@@ -4705,14 +4714,14 @@
         "en": {
           "path": "en/Technology/artificial-intelligence-industry.md",
           "translatedFrom": "Technology/AI人工智慧產業.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:bc36a1af91d28cb5",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/ai-industry.md",
@@ -5347,14 +5356,14 @@
         "en": {
           "path": "en/Art/taiwan-digital-animation-industry.md",
           "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:692543a60baf3299",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/digital-animation-industry.md",
@@ -5416,14 +5425,14 @@
         "en": {
           "path": "en/Technology/taiwan-gaming-industry.md",
           "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:015bc5daa189760c",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/gaming-industry.md",
@@ -5642,7 +5651,16 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/taiwan-television-industry-history.md",
+          "translatedFrom": "Technology/台灣電視產業史.md",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:8a1c3586243b74a9",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
+          "inferred": false,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/television-industry-history.md",
@@ -5764,14 +5782,14 @@
         "en": {
           "path": "en/Technology/taiwan-5g-digital-transformation.md",
           "translatedFrom": "Technology/台灣5G網路建設與數位轉型.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:99a0b29cbafe5bb9",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-5g-and-digital-transformation.md",
@@ -5824,14 +5842,14 @@
         "en": {
           "path": "en/Technology/taiwan-electric-vehicle-industry-chain.md",
           "translatedFrom": "Technology/台灣電動車產業鏈發展.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:b49821a42d715241",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/ev-industry.md",
@@ -5986,14 +6004,14 @@
         "en": {
           "path": "en/Technology/digital-id-and-digital-government.md",
           "translatedFrom": "Technology/數位身分證與數位政府.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:b4175e4786ecfd7b",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/digital-id-and-digital-government.md",
@@ -6148,14 +6166,14 @@
         "en": {
           "path": "en/Technology/taiwan-audio-industry-development.md",
           "translatedFrom": "Technology/台灣音響產業發展.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:012b113f84d2d021",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/audio-industry.md",
@@ -6250,14 +6268,14 @@
         "en": {
           "path": "en/Technology/taiwan-software-industry-development.md",
           "translatedFrom": "Technology/台灣軟體產業發展.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:8309e00340ef142f",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/software-industry.md",
@@ -7036,14 +7054,14 @@
         "en": {
           "path": "en/Art/taiwanese-prose.md",
           "translatedFrom": "Art/台灣散文.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:d7ef47535e3ba2f2",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/taiwan-prose.md",
@@ -7156,14 +7174,14 @@
         "en": {
           "path": "en/Art/taiwanese-photography.md",
           "translatedFrom": "Art/台灣攝影.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "69c16ee9",
-          "translationLastModified": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "a05d2431",
+          "sourceContentHash": "sha256:52b7961ea27ae3bf",
+          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translationLastCommit": "4da59e73",
+          "translationLastModified": "2026-05-01T15:59:06+08:00",
           "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/taiwan-photography.md",
@@ -8630,7 +8648,16 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Lifestyle/wang-a-piau-pog-cards.md",
+          "translatedFrom": "Lifestyle/尪仔標.md",
+          "sourceCommitSha": "56fa1bf1",
+          "sourceContentHash": "sha256:01872081668edbca",
+          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -26132,7 +26159,16 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Food/wheel-cakes-imagawayaki.md",
+          "translatedFrom": "Food/車輪餅.md",
+          "sourceCommitSha": "64abf6f8",
+          "sourceContentHash": "sha256:75886d0c9c5c9b1f",
+          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -31178,7 +31214,16 @@
           "reason": "same-commit"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Culture/islam-in-taiwan.md",
+          "translatedFrom": "Culture/伊斯蘭教在台灣.md",
+          "sourceCommitSha": "dc87c2a6",
+          "sourceContentHash": "sha256:9ab59f274019f37e",
+          "translatedAt": "2026-05-01T16:04:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"

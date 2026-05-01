@@ -18,12 +18,18 @@
  * 用法：
  *   前置：`npm run dev`（另一個 shell）
  *
- *   npm run og:generate                               # 全掃（incremental）
+ *   npm run og:generate                               # 全掃 article（incremental）
  *   npm run og:generate -- --lang zh-TW               # 只產 zh-TW
  *   npm run og:generate -- --lang ko --category food  # 只產 ko/food
  *   npm run og:generate -- --slug 李洋                # 指定 URL slug（跨語言）
  *   npm run og:generate -- --force                    # 全部重產
+ *   npm run og:generate -- --diary                    # 只跑 diary（2026-05-01 γ-late）
+ *   npm run og:generate -- --include-diary            # article + diary
+ *   npm run og:generate -- --diary --slug 2026-05-01-gamma-late  # 單篇 diary
  *   OG_WORKERS=2 npm run og:generate                  # 降 worker 數
+ *
+ * Diary 輸出：public/og-images/semiont/diary/[slug].jpg
+ * Diary URL ：/semiont/diary/[slug]/?shot=1&og=1（深色 semiont 主題）
  */
 
 import { chromium } from 'playwright';
@@ -69,6 +75,18 @@ const TEMPLATE_FILES = [
   'src/layouts/Layout.astro',
   'src/styles/shot-mode.css',
 ];
+
+// 2026-05-01 γ-late：diary 模板影響 mtime
+const DIARY_TEMPLATE_FILES = [
+  'src/templates/semiont-diary-entry.template.astro',
+  'src/pages/semiont/diary/[slug].astro',
+  'src/lib/semiont-diary.ts',
+  'src/layouts/Layout.astro',
+  'src/styles/shot-mode.css',
+];
+
+// Diary 來源資料夾（同 src/lib/semiont-diary.ts getAllDiaryEntries 行為）
+const DIARY_SOURCE_DIR = 'docs/semiont/diary';
 
 const baseUrl = process.env.BASE_URL || 'http://localhost:4321';
 const VIEWPORT = { width: 1200, height: 630 };
@@ -184,6 +202,11 @@ async function findMarkdownFiles(filterLang, filterCategory) {
 }
 
 function outputPathFor(entry) {
+  // 2026-05-01 γ-late：diary 走獨立輸出目錄
+  if (entry.kind === 'diary') {
+    const dir = join(outDir, 'semiont', 'diary');
+    return { dir, jpg: join(dir, `${entry.urlSlug}.jpg`) };
+  }
   const isDefault = entry.lang === DEFAULT_LANG;
   const langPath = isDefault ? '' : entry.lang;
   const categoryOutDir = join(outDir, langPath, entry.categorySlug);
@@ -194,6 +217,10 @@ function outputPathFor(entry) {
 }
 
 function articleUrlFor(entry) {
+  // 2026-05-01 γ-late：diary 用 /semiont/diary/[slug]/ 路由
+  if (entry.kind === 'diary') {
+    return `${baseUrl}/semiont/diary/${entry.urlSlug}/?shot=1&og=1`;
+  }
   const isDefault = entry.lang === DEFAULT_LANG;
   const encodedSlug = encodeURIComponent(entry.urlSlug);
   const base = isDefault
@@ -205,14 +232,89 @@ function articleUrlFor(entry) {
   return `${base}?shot=1&og=1`;
 }
 
-function getTemplateMtimeMs() {
+function getTemplateMtimeMs(kind = 'article') {
+  const list = kind === 'diary' ? DIARY_TEMPLATE_FILES : TEMPLATE_FILES;
   return Math.max(
     0,
-    ...TEMPLATE_FILES.map((f) => {
+    ...list.map((f) => {
       const full = join(repoRoot, f);
       return existsSync(full) ? statSync(full).mtimeMs : 0;
     }),
   );
+}
+
+/**
+ * 2026-05-01 γ-late：列出 diary entries
+ * 直接 mirror src/lib/semiont-diary.ts 的 slug 規則：
+ *   slug = date + (sessionGreek ? '-' + transliterated : '')
+ * 例：2026-05-01-γ-late.md → slug = '2026-05-01-gamma-late'
+ */
+const GREEK_TRANSLIT = {
+  α: 'alpha',
+  β: 'beta',
+  γ: 'gamma',
+  δ: 'delta',
+  ε: 'epsilon',
+  ζ: 'zeta',
+  η: 'eta',
+  θ: 'theta',
+  ι: 'iota',
+  κ: 'kappa',
+  λ: 'lambda',
+  μ: 'mu',
+  ν: 'nu',
+  ξ: 'xi',
+  ο: 'omicron',
+  π: 'pi',
+  ρ: 'rho',
+  σ: 'sigma',
+  τ: 'tau',
+  υ: 'upsilon',
+  φ: 'phi',
+  χ: 'chi',
+  ψ: 'psi',
+  ω: 'omega',
+};
+
+function diarySlugFromFilename(filename) {
+  // filename: 2026-05-01-γ-late.md or 2026-04-04.md
+  const base = basename(filename, '.md');
+  // Match: YYYY-MM-DD-{greek}[-suffix] or YYYY-MM-DD
+  const m = base.match(/^(\d{4}-\d{2}-\d{2})(?:-(.+))?$/);
+  if (!m) return null;
+  const date = m[1];
+  let suffix = m[2] || '';
+  if (!suffix) return date;
+  // Replace greek chars in suffix
+  let translit = '';
+  for (const ch of suffix) {
+    translit += GREEK_TRANSLIT[ch] || ch;
+  }
+  return `${date}-${translit}`;
+}
+
+async function findDiaryEntries(filterSlug) {
+  const folder = join(repoRoot, DIARY_SOURCE_DIR);
+  if (!existsSync(folder)) return [];
+  const files = await readdir(folder);
+  const out = [];
+  for (const f of files) {
+    if (!f.endsWith('.md') || f.startsWith('_') || f.startsWith('.')) continue;
+    const slug = diarySlugFromFilename(f);
+    if (!slug) continue;
+    if (filterSlug && slug !== filterSlug) continue;
+    const full = join(folder, f);
+    const st = await stat(full);
+    out.push({
+      kind: 'diary',
+      lang: 'zh-TW',
+      categorySlug: 'diary',
+      urlSlug: slug,
+      filePath: full,
+      mtimeMs: st.mtimeMs,
+    });
+  }
+  return out;
 }
 
 async function screenshotOne(ctx, entry, skipFontWait) {
@@ -272,6 +374,12 @@ async function main() {
   const filterSlug = getArg('slug');
   const force = hasFlag('force');
   const skipFontWait = hasFlag('no-font-wait');
+  // 2026-05-01 γ-late：模式選擇
+  //   (default)        → 只跑 article（向後相容）
+  //   --diary          → 只跑 diary
+  //   --include-diary  → article + diary 都跑
+  const onlyDiary = hasFlag('diary');
+  const includeDiary = hasFlag('include-diary');
 
   console.log(
     `\n🖼️  OG Image Generator v3 (shot=1 / Noto Serif TC / JPG ${JPEG_QUALITY})`,
@@ -282,6 +390,8 @@ async function main() {
   if (filterLang) console.log(`   lang    : ${filterLang}`);
   if (filterCategory) console.log(`   category: ${filterCategory}`);
   if (filterSlug) console.log(`   slug    : ${filterSlug}`);
+  if (onlyDiary) console.log(`   mode    : --diary (only)`);
+  else if (includeDiary) console.log(`   mode    : --include-diary`);
   if (force) console.log(`   mode    : --force`);
   console.log('');
 
@@ -292,20 +402,30 @@ async function main() {
     return;
   }
 
-  const templateMtimeMs = getTemplateMtimeMs();
-  const entries = await findMarkdownFiles(filterLang, filterCategory);
+  // article entries（除非 --diary only）
+  const articleEntries = onlyDiary
+    ? []
+    : await findMarkdownFiles(filterLang, filterCategory);
+  // diary entries（--diary 或 --include-diary）
+  const diaryEntries =
+    onlyDiary || includeDiary ? await findDiaryEntries(filterSlug) : [];
+  const entries = [...articleEntries, ...diaryEntries];
 
   // 語言分組統計
   const byLang = entries.reduce((acc, e) => {
-    acc[e.lang] = (acc[e.lang] || 0) + 1;
+    const key = e.kind === 'diary' ? 'diary' : e.lang;
+    acc[key] = (acc[key] || 0) + 1;
     return acc;
   }, {});
   console.log(
-    `📂 ${entries.length} routable articles: ` +
+    `📂 ${entries.length} routable items: ` +
       Object.entries(byLang)
         .map(([l, n]) => `${l}=${n}`)
         .join(', '),
   );
+
+  const articleTplMtime = getTemplateMtimeMs('article');
+  const diaryTplMtime = getTemplateMtimeMs('diary');
 
   const toUpdate = entries.filter((entry) => {
     if (filterSlug && entry.urlSlug !== filterSlug) return false;
@@ -313,7 +433,8 @@ async function main() {
     const { jpg } = outputPathFor(entry);
     if (!existsSync(jpg)) return true;
     const jpgMtime = statSync(jpg).mtimeMs;
-    return entry.mtimeMs > jpgMtime || templateMtimeMs > jpgMtime;
+    const tplMtime = entry.kind === 'diary' ? diaryTplMtime : articleTplMtime;
+    return entry.mtimeMs > jpgMtime || tplMtime > jpgMtime;
   });
 
   if (toUpdate.length === 0) {
@@ -342,7 +463,10 @@ async function main() {
         const entry = queue.shift();
         if (!entry) break;
         const idx = ++processedCount;
-        const label = `[${idx}/${toUpdate.length}] w${id} ${entry.lang}/${entry.categorySlug}/${entry.urlSlug}`;
+        const label =
+          entry.kind === 'diary'
+            ? `[${idx}/${toUpdate.length}] w${id} diary/${entry.urlSlug}`
+            : `[${idx}/${toUpdate.length}] w${id} ${entry.lang}/${entry.categorySlug}/${entry.urlSlug}`;
         const result = await screenshotOne(ctx, entry, skipFontWait);
         if (result.ok) {
           if (result.fontOk) {
