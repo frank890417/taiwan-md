@@ -511,7 +511,7 @@
       "en": true,
       "ja": true,
       "ko": false,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -3462,7 +3462,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3500,7 +3500,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3541,7 +3541,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3612,7 +3612,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3643,7 +3643,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3682,7 +3682,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3744,7 +3744,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3775,7 +3775,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3806,7 +3806,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3843,7 +3843,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -3883,7 +3883,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4028,7 +4028,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4067,7 +4067,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -4145,7 +4145,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4187,7 +4187,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4227,7 +4227,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4307,7 +4307,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4377,7 +4377,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4417,7 +4417,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4459,7 +4459,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4497,7 +4497,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4535,7 +4535,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4649,7 +4649,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -4724,7 +4724,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4905,7 +4905,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4943,7 +4943,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -4974,7 +4974,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5051,7 +5051,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5151,7 +5151,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5290,7 +5290,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5403,7 +5403,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5434,7 +5434,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5465,7 +5465,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5496,7 +5496,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5535,7 +5535,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5677,7 +5677,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5801,7 +5801,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5832,7 +5832,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5899,7 +5899,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -5967,7 +5967,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6029,7 +6029,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6066,7 +6066,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6104,7 +6104,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6177,7 +6177,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6214,7 +6214,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6251,7 +6251,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6313,7 +6313,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6350,7 +6350,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6381,7 +6381,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6412,7 +6412,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6443,7 +6443,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6474,7 +6474,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6505,7 +6505,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6582,7 +6582,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6613,7 +6613,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6644,7 +6644,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6684,7 +6684,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6792,7 +6792,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6831,7 +6831,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -6900,7 +6900,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -6937,7 +6937,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7011,7 +7011,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7047,7 +7047,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7122,7 +7122,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7153,7 +7153,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7189,7 +7189,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7226,7 +7226,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7288,7 +7288,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7324,7 +7324,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7428,7 +7428,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7502,7 +7502,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7533,7 +7533,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7570,7 +7570,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7676,7 +7676,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7714,7 +7714,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -7750,7 +7750,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -7869,7 +7869,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -7962,7 +7962,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8155,7 +8155,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8217,7 +8217,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8248,7 +8248,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8279,7 +8279,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8444,7 +8444,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -8512,7 +8512,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -8589,7 +8589,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8666,7 +8666,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8705,7 +8705,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8736,7 +8736,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -8842,7 +8842,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -8919,7 +8919,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -8950,7 +8950,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": true,
       "fr": false
@@ -9600,7 +9600,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -9639,7 +9639,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -9827,7 +9827,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -9905,7 +9905,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -10153,7 +10153,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -10340,7 +10340,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -10588,7 +10588,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -11019,7 +11019,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -11458,7 +11458,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -11495,7 +11495,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -12569,7 +12569,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -13361,7 +13361,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -13400,7 +13400,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -13468,7 +13468,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -13621,7 +13621,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -14164,7 +14164,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -14277,7 +14277,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -14459,7 +14459,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -14636,7 +14636,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -15308,7 +15308,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -15834,7 +15834,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -16362,7 +16362,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -16594,7 +16594,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -17364,7 +17364,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -17975,7 +17975,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -18006,7 +18006,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -18151,7 +18151,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -18226,7 +18226,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -19717,7 +19717,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -20458,7 +20458,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -20720,7 +20720,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -20796,7 +20796,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -20907,7 +20907,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -20975,7 +20975,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -21014,7 +21014,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -21534,7 +21534,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -22057,7 +22057,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -22095,7 +22095,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -22284,7 +22284,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -22395,7 +22395,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -22971,7 +22971,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -23011,7 +23011,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -23051,7 +23051,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -23088,7 +23088,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": false,
       "fr": true
@@ -23128,7 +23128,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -23168,7 +23168,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -23208,7 +23208,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false

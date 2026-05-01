@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T09:00:02.508Z",
+  "lastUpdated": "2026-05-01T11:05:59.107Z",
   "organs": [
     {
       "id": "heart",
@@ -73,7 +73,7 @@
       "trend": "up",
       "metrics": {
         "recentContributors": 21,
-        "recentSpores": 12,
+        "recentSpores": 20,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 152495,
         "hasBlockbuster": true
@@ -98,18 +98,18 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 66,
+      "score": 63,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 638,
           "en": 632,
-          "ja": 346,
+          "ja": 473,
           "ko": 478,
-          "es": 36,
+          "es": 37,
           "fr": 475
         },
-        "translationPct": 66,
+        "translationPct": 63,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -141,15 +141,15 @@
               "pct": 100
             },
             "hubs": {
-              "filled": 12,
+              "filled": 0,
               "total": 12,
-              "pct": 100
+              "pct": 0
             },
             "articles": {
-              "count": 346,
-              "pct": 54
+              "count": 473,
+              "pct": 74
             },
-            "score": 82
+            "score": 70
           },
           "ko": {
             "ui": {
@@ -186,7 +186,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 36,
+              "count": 37,
               "pct": 6
             },
             "score": 22
