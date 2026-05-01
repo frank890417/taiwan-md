@@ -1,170 +1,175 @@
 ---
-title: 'Delta Electronics: From 13-Year-Old War Refugee to Space Legend'
-description: "How NT$300,000 and one man's vision redefined the global power industry — and earned him an asteroid named after him"
+translatedFrom: 'Economy/台灣企業：台達電子.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:731abae76b18888c'
+translatedAt: '2026-05-01T15:38:13+08:00'
+title: "Delta Electronics: Taiwan's Power Giant"
+description: 'A 13-year-old war refugee turned global power industry legend: how NT$300,000 redefined global energy efficiency — and earned an asteroid named after its founder.'
 date: 2026-03-22
 tags:
   [
-    Economy,
-    Corporations,
-    Power Management,
-    Green Technology,
-    Industrial Automation,
-    ESG,
+    'Economy',
+    'enterprises',
+    'power management',
+    'green energy technology',
+    'industrial automation',
+    'ESG',
   ]
+subcategory: 'Enterprise Chronicles'
 author: Taiwan.md
 readingTime: 15
-category: economy
+category: Economy
 featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
-translatedFrom: 'Economy/台灣企業：台達電子.md'
 ---
 
-> **30-second overview:** In 1971, a war refugee launched a startup in New Taipei with NT$300,000 (US$10,000).
-> Fifty-five years later, Delta Electronics became the world's largest switching power supply manufacturer with revenues exceeding NT$550 billion.
-> Most remarkably: he got an asteroid named after him — asteroid 168126 is officially called "Chengbruce."
+> **30-Second Overview:** In 1971, a war refugee founded a company with NT$300,000 in Xinzhuang.
+> 55 years later it became the world's largest manufacturer of switching power supplies, with revenues exceeding NT$554.9 billion.
+> More astonishing: he got his name into space — asteroid 168126 is called "Chengbruce."
 
-April 4, 1971. Minan Road, Xinzhuang, Taipei County. Bruce Cheng (鄭崇華), 36 years old, and two partners started assembling TV transformers in a two-story building with their life savings of NT$300,000. This 13-year-old war refugee who fled to Taiwan during the Chinese Civil War couldn't have imagined he was launching a commercial empire that would change how the world thinks about electrical power.
+On April 4, 1971, at 36 Mian'an Road in Xinzhuang Township, Taipei County: the 36-year-old Bruce Cheng (鄭崇華) and two partners, with savings of NT$300,000, began assembling television transformers on the second floor of a two-story building. This war refugee who had fled Taiwan at age 13 during the Chinese Civil War could not have imagined he was launching a business empire that would change the world's thinking about electricity.
 
-Fifty-five years later, when you charge your smartphone, the technology behind it likely comes from Delta Electronics. When Google's AI processes your search query, the data center's power system is almost certainly Delta-manufactured. From personal computers to supercomputer data centers, from Tesla charging stations to wind power converters — Delta has quietly become the "invisible infrastructure" of modern digital life.
+Fifty-five years later, when you charge your phone, the underlying technology probably comes from Delta Electronics. When Google's AI processes your search query, the data center's power system is odds-on Delta-made. From personal computers to hyperscale data centers, from Tesla charging stations to wind turbine inverters — Delta Electronics quietly became the "invisible infrastructure" of modern digital life.
 
-**But the most startling part of this story isn't the revenue figures — it's how one man turned "environmental protection" from a moral slogan into competitive advantage.**
+**But the most astonishing part of this story is not the revenue figures — it's how one person transformed "environmental protection" from a moral slogan into a competitive business advantage.**
 
 ## A Taiwanese Entrepreneur in Space
 
-On April 1, 2006, Taiwan's Lulin Observatory discovered an asteroid numbered 168126. After certification by the International Astronomical Union, this asteroid was officially named "Chengbruce" in 2008 — it will fly through the universe forever, carrying a Taiwanese entrepreneur's name.
+On April 1, 2006, the Lulin Observatory at National Central University in Taiwan discovered an asteroid numbered 168126. After certification by the International Astronomical Union, this asteroid was formally named "Chengbruce" in 2008 — it will orbit through the universe forever, carrying the name of a Taiwanese entrepreneur.
 
-This wasn't vanity purchased with money. Bruce Cheng spent over a decade supporting astronomical research, donating funds to build Lulin Observatory's 2-meter telescope, rebuilding National Central University's Science Building observatory, and establishing the "Delta Electronics Young Astronomer Lecture Series." During the UN's "International Year of Astronomy" in 2009, he served as Taiwan's "Sky Ambassador."
+This was not vanity bought with money. Bruce Cheng has funded astronomical research for over a decade, donated to build the Lulin Observatory's 2-meter telescope, rebuilt the astronomy observatory at NCU's Science Hall No. 1, and established the "Delta Electronics Young Astronomer Lecture." In 2009 for the United Nations' International Year of Astronomy, he served as Taiwan's "Star Ambassador."
 
-Why would a power supply manufacturer invest in basic science? Cheng's answer was pragmatic: "If humanity can't properly care for the Earth we live on, dreaming about expanding to the universe is just wishful thinking."
+Why would a power manufacturer invest in basic science? Cheng's answer was practical: "If we haven't even taken good care of the earth we live on, dreaming of expanding to the universe is just wishful thinking."
 
-> **📝 Curator's Note**
-> Asteroid "Chengbruce" has an orbital period of about 6.1 years. This marks the first time a Taiwanese entrepreneur has received the honor of asteroid naming.
-> This long-term thinking explains how Delta maintained technological leadership for half a century.
+> **Curator's Note**
+> The asteroid "Chengbruce" has an orbital period of about 6.1 years. This was the first time a Taiwanese entrepreneur received the honor of an asteroid named after him.
+> This long-term thinking explains why Delta has maintained a leading edge in technological innovation for half a century.
 
-## From TV Components to AI Era Power Manager
+## From TV Components to AI-Era Power Manager
 
-The story returns to that Xinzhuang factory. When Delta Electronics was founded in 1971, it mainly produced TV coils and intermediate frequency transformers — components for the black-and-white television era. Bruce Cheng learned theory in National Cheng Kung University's electrical engineering department, acquired hands-on skills repairing aircraft instruments at Asia Airways, and mastered management at American company TRW.
+The story begins at that Xinzhuang factory. When Delta Electronics was founded in 1971, it primarily manufactured television coils and intermediate-frequency transformers — components for the black-and-white television era. Bruce Cheng had learned electrical theory at National Cheng Kung University, learned craftsmanship repairing aircraft instruments at Asia Aviation, and learned management at the American company TRW.
 
-But the decision that truly changed Delta's destiny came in 1975: **switching to switching power supply technology.**
+But the decision that truly changed Delta's fate came in 1975: **the pivot to switching power supply technology.**
 
-This decision seemed like a technical detail but was actually a commercial revolution. Traditional linear power supplies were large and inefficient, usually achieving only 50-60% conversion efficiency. Switching power supplies were compact and highly efficient, achieving 80-90% conversion efficiency. When personal computers emerged in the 1980s, Delta was perfectly positioned at the forefront, becoming a power supply vendor for Apple, Compaq, and other brands.
+This decision appears to be a technical detail, but was actually a commercial revolution. Traditional linear power supplies are bulky and inefficient, typically achieving only 50–60% conversion efficiency. Switching power supplies are compact and efficient, capable of 80–90% conversion efficiency. When personal computers took off in the 1980s, Delta was positioned perfectly, becoming a power supply vendor for Apple, Compaq, and other brands.
 
-**In 2002, Delta surpassed American company Astec to become the world's largest power supply manufacturer.**
+**In 2002, Delta surpassed the American company Astec to become the world's largest power supply manufacturer.**
 
-But the real strategic turning point came in 2000. The dot-com bubble had just burst, and many tech companies were contracting, yet Cheng announced a business mission that seemed "too ahead of its time": "Environmental Protection, Energy Saving, Love the Earth." In an era before ESG concepts became widespread, this decision was viewed by many as a distraction from core business.
+But the real strategic inflection point came in 2000. The dot-com bubble had just burst; many tech companies were contracting. Yet Bruce Cheng proposed a mission statement that seemed "too far ahead of its time": "Environment, Energy, Ecology" (環保節能愛地球 — literally "protect the environment, save energy, love the earth"). In an era before ESG concepts had spread, this decision was seen by many as straying off course.
 
-Looking back 20 years later, this was Delta's wisest strategy.
+Looking back twenty years later, it was Delta's wisest strategy.
 
-## The Invisible but Omnipresent Power Empire
+## The Invisible, Everywhere Power Empire
 
-What scale of commercial empire is Delta Electronics today?
+What scale is Delta Electronics at today?
 
-According to the latest 2025 financial reports, Delta's annual revenue reached NT$554.9 billion (approximately US$17.5 billion), with about 88,000 employees globally and over 200 operations centers across 38 countries. In the global switching power supply market, Delta Electronics holds about 20-25% market share, maintaining world No. 1 position.
+According to the latest 2025 financials, Delta's annual revenue reached NT$554.9 billion (approximately US$17.5 billion), with approximately 88,000 employees globally and over 200 operating locations in 38 countries. In the global switching power supply market, Delta holds approximately 20–25% market share, firmly ranked number one worldwide.
 
-| Q4 2024                                | FY 2025                  |
-| -------------------------------------- | ------------------------ |
-| Revenue NT$161.6 billion (record high) | Revenue NT$554.9 billion |
-| YoY growth 41.5%                       | YoY growth 31.76%        |
+| 2024 Q4                                  | 2025 Full Year                 |
+| ---------------------------------------- | ------------------------------ |
+| Revenue NT$161.6 billion (all-time high) | Revenue NT$554.9 billion       |
+| Year-over-year increase 41.5%            | Year-over-year increase 31.76% |
 
-**"One in every four computers worldwide uses Delta power technology."**
+**"For every four computers worldwide, one uses Delta's power technology."**
 
-Even more remarkable is the transformation brought by the AI wave: by 2024, AI-related business accounted for 23% of Delta's total revenue, with approximately 50% market share in AI server power supplies. Google, Microsoft, and Amazon data centers are all its customers.
+Even more striking is the transformation driven by the AI wave: in 2024, AI-related business already accounted for 23% of Delta's total revenue, with approximately 50% market share in the AI server power supply market. Google, Microsoft, and Amazon's data centers are all customers.
 
-> **⚠️ Controversial Viewpoint**
-> Some analysts believe Delta is over-dependent on the AI windfall and may face overcapacity when the AI bubble bursts.
-> But Delta's management insists that AI brings structural demand, not cyclical speculation.
+> **Contested Perspective**
+> Some analysts believe Delta is overly dependent on the AI tailwind, and may face excess capacity when the AI bubble bursts.
+> But Delta management insists that AI is driving structural demand, not cyclical speculation.
 
 ## New Opportunities and Challenges Under the AI Wave
 
-As artificial intelligence applications explode, global data center power demand is growing dramatically. Tech giants like Meta and Google are building mega data centers that consume 1GW (gigawatt) of power — equivalent to a city of 260,000 people.
+As artificial intelligence applications explode, global data center power demand is growing sharply. Tech giants like Meta and Google are building hyperscale data centers with power consumption reaching 1 GW (gigawatt) — equivalent to the power consumption of a city of 260,000 people.
 
-**The challenge lies in the speed of technological evolution.** New-generation AI chips present unprecedented demands for power management, with power consumption jumping from the traditional 400-800 watts to 8,000 watts or even higher. Delta is developing 800-volt high-voltage DC power systems and ±400-volt DC systems, expected to enter mass production in the second half of 2026.
+**The challenge lies in the pace of technological evolution.** New-generation AI chips impose unprecedented demands on power management, with power consumption jumping from the traditional 400–800 watts to 8,000 watts or higher. Delta is developing 800-volt high-voltage direct current power systems and ±400-volt DC systems, with planned mass production in the second half of 2026.
 
-According to the Taipei Times, Delta's factories in Taiwan, Thailand, and the United States are running at full capacity. After adding three new factories in Thailand in 2025, the company will continue expanding capacity this year.
+According to the Taipei Times, Delta's factories in Taiwan, Thailand, and the United States are already running at full capacity; following the addition of three new factories in Thailand in 2025, capacity expansion will continue this year.
 
-**But Delta's competitive advantage isn't just in capacity — it's in system integration capability.** It's not just a component supplier but a systems company that can provide complete solutions. When automakers need electric vehicle powertrains, Delta can provide everything from onboard chargers to drive motors. When data centers need energy-saving retrofits, Delta can offer one-stop service from power supplies to air conditioning.
+**But Delta's competitive advantage lies not just in capacity — it's in system integration capability.** It is not merely a component supplier but a systems integrator that can deliver complete solutions. When an automaker needs an electric vehicle powertrain system, Delta can provide everything from onboard chargers to drive motors. When a data center needs energy efficiency upgrades, Delta can supply a one-stop service from power to cooling.
 
-## The Business Philosophy of Energy Saving: Turning Environmental Protection into Competitive Advantage
+## The Energy-Saving Business Philosophy: Turning Environmental Protection into Competitive Advantage
 
-Delta's most remarkable figure isn't revenue — it's its contribution to global energy conservation. According to official statistics, from 2010 to 2023, Delta's high-efficiency products cumulatively saved over 40 billion kWh for global customers, equivalent to reducing 21 million tons of carbon emissions — exceeding the annual total emissions of many countries.
+Delta's most astonishing figure is not revenue but its contribution to global energy conservation. According to official statistics, from 2010 to 2023, Delta's high-efficiency products cumulatively saved customers worldwide more than 40 billion kilowatt-hours of electricity, equivalent to reducing 21 million tons of carbon emissions — more than the annual total emissions of many countries.
 
-**The key is that Delta transformed sustainability from a slogan into a business model.**
+**The key: Delta turned sustainability from slogan into business model.**
 
-In 2021, Delta became Taiwan's first manufacturing company to join the RE100 initiative, committing to 100% renewable energy for all global operations by 2030. In 2022, Delta began implementing an internal carbon pricing system — charging $100-300 per ton of carbon emissions. Carbon emissions decreased 13.5% the following year and dropped a further 39% in 2023.
+In 2021, Delta became the first Taiwanese manufacturing company to join the RE100 initiative, committing to 100% renewable energy use at all global operating locations by 2030. In 2022, Delta began implementing an internal carbon pricing system — charging NT$100–300 per metric ton of carbon emissions. The following year carbon emissions fell 13.5%; in 2023 they fell a further 39%.
 
-> **📊 Data Source**
-> According to CSR@CommonWealth reporting, Delta uses internal carbon pricing fees to invest in energy-saving and emission-reduction technologies.
-> In 2022, a production department was charged $24 million in carbon fees. After applying for $22 million in energy-saving investments,
-> carbon emissions decreased 17% and carbon fees dropped 38% the following year.
+> **Data Source**
+> According to CSR@CommonWealth reporting, fees collected through internal carbon pricing are used by Delta to invest in energy-saving and emission-reduction technology.
+> In 2022, one production division was charged US$24 million in carbon fees; after applying for US$22 million in energy-saving investments,
+> carbon emissions fell 17% the following year and carbon fee payments dropped 38%.
 
-Cheng often uses this concept to encourage employees: "Simply improving server power efficiency by 1% can save 1MW (megawatt) of system power consumption!" This isn't moral persuasion but mathematical fact — in an era of rising global energy costs, energy efficiency equals competitiveness.
+Bruce Cheng often used one concept to encourage employees: "If you improve a server power supply's efficiency by just 1%, you can save 1 MW of system power!" This is not moral persuasion but a mathematical fact — in an era of rising global energy costs, energy efficiency is competitiveness.
 
-## Brand Breakthrough for a Contract Manufacturing Giant
+## Breaking Out of OEM: The Brand Challenge
 
-Delta Electronics faces the greatest challenge of finding balance between contract manufacturing mindset and brand innovation. From the 1980s-2000s, it was primarily an ODM supplier to multinational corporations, which brought stable orders but also limited its control over technological development.
+Delta's greatest challenge is finding balance between OEM thinking and brand innovation. In the 1980s–2000s, it was primarily an ODM supplier for multinational companies — providing stable orders but limiting its control over the direction of technology development.
 
-The turning point came in the 21st century. Delta began heavily investing in its proprietary brand "DELTA" while maintaining contract manufacturing business. This dual-track strategy allowed it to maintain cash flow while accumulating brand value.
+The turning point came entering the 21st century. Delta began heavily investing in its own brand "DELTA," while maintaining OEM business. This dual-track strategy allowed it to sustain cash flow while accumulating brand value.
 
-The results were significant: Delta holds about 20% market share in the European electric vehicle charging market and ranks among the top two globally in industrial power supplies alongside Japan's TDK Lambda. These achievements prove that Taiwanese companies can't just do contract manufacturing — they can also establish brand advantages in technology-intensive fields.
+Results are tangible: Delta holds approximately 20% market share in Europe's electric vehicle charging market, and ranks alongside Japan's TDK Lambda in the top two of the global industrial power supply market. These achievements prove that Taiwanese companies are not limited to OEM — they can also build brand advantages in technology-intensive fields.
 
-> **💡 Did You Know**
-> The solar roof system at Kaohsiung World Games Main Stadium in 2009 was designed and installed by Delta.
-> 8,844 solar panels covering 14,155 square meters generate 1.14 million kWh annually,
-> making it the world's largest solar-powered stadium at the time.
+> **Did You Know**
+> The solar rooftop system at the 2009 World Games main stadium in Kaohsiung was designed and installed by Delta.
+> 8,844 solar panels covering 14,155 square meters, with annual power generation of 1.14 million kWh —
+> at the time the world's largest solar-powered stadium.
 
-## Inspiration from a Drop of Polluted Water
+## Inspiration from a Drop of Wastewater
 
-Bruce Cheng's environmental convictions came from a personal experience while working at TRW before starting his business. During one factory wastewater discharge, he saw fish floating belly-up, and in that moment decided: "I will absolutely never do business that pollutes the environment."
+Bruce Cheng's environmental convictions came from a personal experience before he founded the company, while working at TRW. At a factory wastewater discharge, he watched fish floating belly-up. In that moment he decided: "I will never build a business that pollutes the environment."
 
-Fifty years later, this decision became Delta's core competitive advantage. As the world pursues net-zero emissions, Delta's energy-saving technology isn't just products — it's tools for humanity to address climate change.
+Fifty years later, that decision became Delta's core competitive advantage. As the world pursues net-zero emissions, Delta's energy-saving technology is not just a product — it is a tool for humanity's response to climate change.
 
-**Environmental protection isn't a cost but a source of competitiveness.** This statement sounded idealistic in 2000; by 2026, it's become business common sense.
+**Environmental protection is not a cost but a source of competitive advantage.** In 2000 that sounded like idealism; in 2026 it is business common sense.
 
 ## The Wisdom of Succession
 
-In 2012, 76-year-old Bruce Cheng announced his retirement, passing operational control to his eldest son Yancey Hai Cheng (鄭平). This represents a rare case of smooth succession in Taiwan's business world. Yancey worked at Delta for over 20 years, starting as a grassroots engineer, developing deep understanding of both company culture and technology.
+In 2012, the 76-year-old Bruce Cheng announced retirement, handing management to his son Ping Cheng (鄭平). This is a rare case of smooth succession in Taiwan's business world. Ping Cheng worked at Delta for more than 20 years, starting as a grassroots engineer, gaining deep understanding of both company culture and technology.
 
-Under Yancey's leadership, Delta continues deepening the "Environmental Protection, Energy Saving, Love the Earth" mission while strengthening digital transformation and AI applications. In December 2024, Delta launched the "Delta Net Zero Science Laboratory" in Southern Taiwan Science Park, Taiwan's first megawatt-level water electrolysis hydrogen production and hydrogen fuel cell testing platform.
+Under Ping Cheng's leadership, Delta continued deepening the "Environment, Energy, Ecology" mission while strengthening digital transformation and AI applications. In December 2024, Delta inaugurated the "Delta Net Zero Science Laboratory" in Southern Taiwan Science Park — Taiwan's first megawatt-scale water electrolysis hydrogen production and hydrogen fuel cell testing platform.
 
-This shows Delta isn't just executing existing strategies but preparing for the next generation's energy revolution.
+This shows Delta is not merely executing existing strategy but preparing for the next generation's energy revolution.
 
-## Timeline: Half a Century of Innovation
-
-1. **April 4, 1971** — Bruce Cheng founded Delta with NT$300,000 in Xinzhuang
-2. **1975** — Switched to switching power supply technology, laying technical foundation
-3. **1988** — IPO, began international expansion
-4. **2000** — Announced "Environmental Protection, Energy Saving, Love the Earth" mission
-5. **2002** — Became world's largest power supply manufacturer
+1. **1971/4/4** — Bruce Cheng founds Delta Electronics in Xinzhuang with NT$300,000
+2. **1975** — Pivots to switching power supply technology, establishing technological foundation
+3. **1988** — Listed on stock exchange, begins international expansion
+4. **2000** — Announces "Environment, Energy, Ecology" mission
+5. **2002** — Becomes world's largest power supply manufacturer
 6. **2008** — Asteroid 168126 named "Chengbruce"
-7. **2012** — Bruce Cheng passed leadership to son Yancey
-8. **2021** — Joined RE100, committed to 100% renewable energy
+7. **2012** — Bruce Cheng hands over to son Ping Cheng
+8. **2021** — Joins RE100, commits to 100% renewable energy
 
-## Epitome of an Era
+## A Mirror of an Era
 
-Delta Electronics' story perfectly epitomizes Taiwan's manufacturing industry transformation and upgrading. It demonstrates how Taiwanese companies evolved from contract manufacturing mindset to technological innovation, from cost competition to value creation, from local operations to global deployment.
+Delta Electronics' story is the perfect microcosm of Taiwan's manufacturing industry upgrade and transformation. It shows how Taiwanese companies can move from OEM thinking toward technological innovation, from cost competition toward value creation, from local operations to global deployment.
 
-More importantly, Delta proved that "manufacturing" and "sustainable development" aren't opposing forces but can mutually reinforce each other. In an era pursuing net-zero emissions, the green technology Delta began deploying 20 years ago has become its greatest moat.
+More importantly, Delta proved that "manufacturing" and "sustainable development" are not opposites — they can reinforce each other. In an era when the world pursues net-zero emissions, the green technology Delta started laying out 20 years ago has become its widest moat.
 
-**A 13-year-old war refugee spent half a century building a power empire and got his name flying in space.**
+**A 13-year-old war refugee used half a century to build a power empire — and got his name into space.**
 
-This story tells us that Taiwan isn't just the "Island of Manufacturing" but the "Island of Innovation." In the next generation's technological revolution, we have reason to expect more such Taiwanese legends.
+This story tells us that Taiwan is not just "the island of manufacturing" but "the island of innovation." In the next generation's technological revolution, we have reason to expect more such Taiwanese legends.
 
-As AI reshapes the world and climate change redefines business rules, Delta Electronics is already prepared. It used 50 years to prove one thing: true competitive advantage doesn't come from doing things cheaper, but from doing them smarter.
+When AI reshapes the world and climate change redefines business rules, Delta Electronics is ready. It used 50 years to prove one thing: true competitive advantage lies not in doing it cheaper, but in doing it smarter.
 
 > **✦** "Energy doesn't disappear, it transforms."
 > — Bruce Cheng
 
-In a world that needs to be more efficient, greener, and smarter, Delta Electronics isn't just an exemplar of Taiwanese enterprise — it's a driver of human technological progress.
+In a world that needs greater efficiency, more greenness, and more intelligence, Delta Electronics is not merely a model for Taiwanese enterprise — it is a driver of human technological progress.
 
 ---
 
 ## References
 
-- [Delta Electronics Official Website](https://www.deltaww.com/en-US/)
+- [Delta Electronics Official Website](https://www.deltaww.com/zh-TW/)
 - [Delta Electronics posts record-high Q4 revenue - Taipei Times](https://www.taipeitimes.com/News/biz/archives/2026/01/14/2003850546)
-- [Asteroid 168126 Chengbruce - International Astronomical Union IAU](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=168126)
+- [Bruce Cheng asteroid certification - IAU](https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=168126)
 - [Green Entrepreneur - SPIE Professional Magazine](https://spie.org/news/spie-professional-magazine-archive/2009-october/green-entrepreneur)
-- [Bruce Cheng - Wikipedia](https://en.wikipedia.org/wiki/Bruce_Cheng)
-- [Delta's Internal Carbon Pricing Accelerates RE100 - CSR@CommonWealth](https://csr.cw.com.tw/article/44044)
+- [Bruce Cheng - Wikipedia (zh)](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%B4%87%E8%8F%AF)
+- [Delta's Chief Sustainability Officer on internal carbon pricing and RE100 - CSR@CommonWealth](https://csr.cw.com.tw/article/44044)
 - [TDK Lambda and Delta Electronics Leading Players - Markets and Markets](https://www.marketsandmarkets.com/ResearchInsight/industrial-power-supply-market.asp)
+- [Delta Electronics major clients and business landscape - Fugle](https://blog.fugle.tw/2023-delta-report/)
+- [Delta Electronics founding story - Economic Daily News](https://money.udn.com/money/story/5612/7127608)
+- [The Power of Substance: Bruce Cheng and Delta's Management Wisdom - Books.com.tw](https://www.books.com.tw/products/0010457862)

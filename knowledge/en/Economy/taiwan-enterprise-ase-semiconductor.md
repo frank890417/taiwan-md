@@ -1,169 +1,173 @@
 ---
 title: 'Taiwan Enterprise: ASE Semiconductor'
-description: "World's largest assembly and testing company - why did a construction company boss pivot to semiconductors?"
+description: "The world's largest assembly and testing company — why did a real estate developer pivot to semiconductors?"
 date: 2026-03-21
 tags:
   [
-    Economy,
-    Enterprises,
-    Semiconductor,
-    Assembly and Testing,
-    Tech Manufacturing,
+    'Economy',
+    'enterprise',
+    'semiconductor industry',
+    'packaging and testing',
+    'technology manufacturing',
   ]
-author: Taiwan.md
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cb7042e73cb2cef2'
+translatedAt: '2026-05-01T15:38:13+08:00'
 ---
 
-> **30-Second Overview:** In 1984, Zhang Yao Hong-ying and her two sons, coming from a construction background, made a bold cross-industry move into semiconductor assembly and testing, founding ASE. After 40 years, it became the world's largest OSAT (Outsourced Semiconductor Assembly and Test) company, with 2024 revenues of $10.1 billion and nearly 45% global market share. Every iPhone, every laptop likely uses ASE's technology—it's the hidden champion that helps chips "get dressed" and receive "health checkups."
+> **30-Second Overview:** In 1984, the mother-and-sons trio of Chang Yao-hung-ying and her real estate business crossed into semiconductor packaging and testing to found ASE. Forty years later it is the world's largest assembly and testing company, with 2024 revenue of US$10.1 billion and a near-45% global market share. Every iPhone, every laptop may use ASE's technology — it is the invisible champion that "dresses" chips and gives them "physical exams."
 
-## Why Did a Construction Company Boss Pivot to Semiconductors?
+## Why Did a Real Estate Developer Pivot to Semiconductors?
 
-In 1983, Jason C.S. Chang, a National Taiwan University electrical engineering graduate with a master's degree from Illinois Institute of Technology, was pondering his family's real estate business. The Chang family, originally from Wenzhou, Zhejiang, had come to Taiwan, where his mother Zhang Yao Hong-ying founded Hong-Jing Construction. The real estate business was doing well, but Jason Chang couldn't shake his fascination with the electronics industry.
+In 1983, Richard Chang, a National Taiwan University Electrical Engineering graduate with a master's degree from the Illinois Institute of Technology, was worrying about the family's real estate business. The Chang family had come to Taiwan from Wenzhou, Zhejiang; his mother, Chang Yao-hung-ying, had founded Hongching Construction, and the real estate business was going well — but Richard Chang's mind had always been fixed on the electronics industry.
 
-That year, he hired a group of Wall Street consultants to evaluate new business investment opportunities. More than a year later, Chang decided to convince his family to shift funds from real estate to the semiconductor assembly business.
+That year, he hired a team of Wall Street consultants to evaluate new business investment opportunities. Over a year later, Richard Chang decided to persuade the family: to shift capital from real estate into the semiconductor packaging business.
 
-Why assembly? Chang's judgment was astute:
+Why packaging? Richard Chang's judgment was sharp:
 
-1. **Lower technical barriers** — Being downstream in the industry chain meant lower risk
-2. **Labor-intensive** — Philips and Texas Instruments had already established factories in Taiwan, proving feasibility
-3. **Large market potential** — Every chip needs packaging, it's a necessary process
+1. **Lower technology barrier** — positioned at the downstream end of the industry, with lower risk
+2. **Labor-intensive** — Philips and Texas Instruments had both set up plants in Taiwan, proving viability
+3. **Large market space** — every chip needs packaging; it is a mandatory step
 
-On March 23, 1984, "Advanced Semiconductor Engineering Inc." was established in Kaohsiung's Nanzih Export Processing Zone. Chairman Zhang Yao Hong-ying (Jason Chang's mother), General Manager Jason Chang, and Deputy General Manager Richard Chang (Jason's younger brother)—this was a classic family enterprise.
+On March 23, 1984, "Advanced Semiconductor Engineering, Inc." (ASE) was established in the Nanzih Export Processing Zone in Kaohsiung. Chairman Chang Yao-hung-ying (Richard Chang's mother), President Richard Chang (Richard Chang), Vice President Jason Chang (Richard Chang's younger brother) — this was a classic family business.
 
-## Starting from Zero: How Did They Get Their First Customer?
+## Starting from Zero: How Did the First Client Come?
 
-In its early days, ASE was just a small factory primarily doing DIP (Dual In-line Package) assembly, the most traditional technology. But Jason Chang had an advantage: his American education background made it easier for him to engage with international customers.
+In the early days of the business, ASE was just a small factory, primarily doing DIP (Dual Inline Package) — the most traditional technology. But Richard Chang had an advantage: his American educational background made it easier for him to access international clients.
 
-The key turning point came in 1989. ASE went public on the Taiwan Stock Exchange, becoming Taiwan's first dedicated OSAT company to list. The IPO funding gave ASE expansion capital to begin investing in more advanced packaging technologies.
+The critical breakthrough came in 1989. ASE listed on the Taiwan Stock Exchange — the first dedicated packaging and testing company to go public in Taiwan. The capital raised through the listing gave ASE resources for expansion, and it began investing in more advanced packaging technology.
 
-As personal computers rose in the 1990s, ASE seized the opportunity, expanding from DIP to QFP (Quad Flat Package) and BGA (Ball Grid Array). Following technology trends with market demands—this was the key reason ASE could lead.
+In the 1990s, with the rise of the personal computer, ASE seized the opportunity and expanded from DIP to QFP (Quad Flat Package) and BGA (Ball Grid Array). Following technology where the market led — this is the key reason ASE was able to stay ahead.
 
-## Critical Decision: 1998 Acquisition of Korea's K&S
+## The Critical Decision: The 1998 Acquisition of Korea's K&S
 
-In 1998, ASE made a destiny-changing decision: acquiring Korea's K&S company, formally entering the testing business.
+In 1998, ASE made a decision that changed its fate: acquiring Korea's K&S company, formally entering the testing business.
 
-This decision was bold. At the time, most OSAT companies focused on "single technology specialization," but Jason Chang believed customers wanted "one-stop service"—completing both assembly and testing at the same company, reducing switching costs and time.
+This decision was bold. At the time, most packaging and testing companies specialized in "a single technology," but Richard Chang believed that what clients wanted was "one-stop service" — completing both packaging and testing at the same place, reducing switching costs and time.
 
-Facts proved this judgment correct. The integrated "assembly + testing" service model allowed ASE to stand out in competition, significantly improving customer satisfaction.
+This judgment proved correct. The integrated "packaging plus testing" service model allowed ASE to stand out from the competition, and customer satisfaction improved significantly.
 
-## Numbers Tell the Story: How Strong Is Being Global Number One?
+## The Numbers Speak: How Dominant Is the Global Leader?
 
-**2024 Global OSAT Market Rankings:**
+**2024 Global Assembly and Testing Market Rankings:**
 
-1. ASE: $10.1 billion, 45% market share
-2. Amkor: $6.3 billion
-3. JCET (China): ~$3.0 billion
+1. ASE: US$10.1 billion, 45% market share
+2. Amkor: US$6.3 billion
+3. JCET: approximately US$3.0 billion
 
-**Operational Scale:**
+**Operating scale:**
 
 - Global employees: 91,568 (2024)
-- Production sites: 30 facilities across 13 countries
-- Annual capacity: Over 20 billion chips
-- Patent portfolio: Over 15,000 patents
+- Production sites: 30 facilities in 13 countries
+- Annual capacity: over 20 billion chips
+- Patent count: over 15,000
 
-**Technical Capabilities:**
+**Technology capability:**
 
 - Advanced packaging revenue share: 43% (including Bump/FC/WLP/SiP)
-- Traditional wire bonding: 30%
-- End applications: Communications 52%, Automotive/Consumer 30%, Computing 18%
+- Traditional wire bond packaging: 30%
+- Downstream applications: communications 52%, automotive/consumer 30%, computing 18%
 
-**Comparison with other Taiwan enterprises:**
+**A comparison with other Taiwanese enterprises:**
 
-- TSMC: ~54% global foundry market share
-- MediaTek: ~37% global smartphone chip market
-- ASE: 45% global OSAT market share
+- TSMC: approximately 54% global wafer foundry market share
+- MediaTek: approximately 37% global mobile chip share
+- ASE: 45% global assembly and testing market share
 
-All three companies are global leaders in their respective fields, forming Taiwan's semiconductor "Big Three."
+All three companies are global leaders in their respective fields, forming Taiwan's semiconductor "three giants."
 
 ## Why Haven't You Heard of ASE?
 
-Despite being globally number one, why isn't ASE as famous as TSMC? The answer lies in **its position in the industry chain**.
+Clearly the global leader — why is ASE not as well-known as TSMC? The answer is its **position in the supply chain**.
 
-TSMC does "wafer manufacturing," the most critical and technically demanding part of the semiconductor industry, naturally attracting attention. ASE does "assembly and testing," which is downstream with relatively lower technical barriers, receiving less media coverage.
+TSMC does "wafer fabrication" — the most critical and technically demanding step in the entire semiconductor industry, which naturally attracts attention. ASE does "packaging and testing" — the downstream end of the supply chain, with a relatively lower technical barrier and less media coverage.
 
-But this doesn't mean ASE isn't important. Every chip coming out of TSMC needs "processing" by OSAT companies like ASE:
+But this does not mean ASE is unimportant. Every chip that comes out of TSMC needs to be "processed" by a packaging and testing company like ASE:
 
-1. **Assembly**: Packaging bare chips to protect them from external damage
-2. **Testing**: Checking that each chip functions properly
-3. **System-in-Package (SiP)**: Integrating multiple chips into one module
+1. **Packaging:** Encasing the bare chip to protect it from external damage
+2. **Testing:** Checking whether every chip's functions are working correctly
+3. **System-in-Package (SiP):** Integrating multiple chips into a single module
 
-Without ASE, your iPhone, even with the most powerful chips, wouldn't function properly.
+Without ASE, your iPhone — even with the strongest chip — would not function properly.
 
-## Hidden Champion's Global Network
+## The Invisible Champion's Global Layout
 
-ASE's success largely stems from its **global manufacturing network**.
+ASE's success is largely attributable to its **global manufacturing network**.
 
-**Asian Locations:**
+**Asian facilities:**
 
-- Taiwan: Kaohsiung, Chungli (R&D headquarters + high-end manufacturing)
+- Taiwan: Kaohsiung, Zhongli (R&D headquarters and high-end manufacturing)
 - China: Kunshan, Shanghai, Weihai (cost-oriented manufacturing)
-- South Korea: Seoul (test technology center)
-- Malaysia: Penang (first overseas facility in 1998)
-- Japan: Gunma (system-in-package)
+- South Korea: Seoul (testing technology center)
+- Malaysia: Penang (first overseas facility, established 1998)
+- Japan: Gunma (System-in-Package)
 
-This layout offers three major advantages:
+This layout has three major advantages:
 
-1. **Proximity to customers**: Factories where customers are located
-2. **Cost optimization**: High-tech in Taiwan, mass production in China
-3. **Risk diversification**: If one location has issues, other facilities can provide support
+1. **Proximity to clients:** Wherever the client is, so is the factory
+2. **Cost optimization:** High-end technology in Taiwan, mass production in China
+3. **Risk diversification:** If one location has problems, other facilities can provide support
 
-During COVID-19, while other manufacturers faced shutdowns due to lockdowns, ASE's distributed layout demonstrated strong resilience, actually seeing increased orders.
+During the COVID-19 pandemic, when other manufacturers were shut down by lockdowns, ASE's dispersed layout demonstrated powerful resilience — orders actually increased.
 
 ## Technology Innovation: From Contract Manufacturing to System Integration
 
-ASE isn't just a "contract manufacturer" but a "technology innovator."
+ASE is not merely a "contract manufacturer" — it is also a "technology innovator."
 
-**Fan-Out Wafer Level Packaging (Fan-Out WLP):**
-This is ASE's globally leading technology. Traditional packaging is like "wearing a thick coat," while fan-out packaging is like "wearing fitted clothes," making chips thinner, smaller, and better performing. High-end smartphones like iPhones all use this technology.
+**Fan-Out Wafer-Level Packaging (Fan-Out WLP):**
+This is ASE's world-leading technology. Traditional packaging is like "wearing a thick overcoat"; Fan-Out packaging is like "wearing a fitted garment" — making chips thinner, smaller, and better-performing. High-end smartphones including the iPhone use this technology.
 
 **System-in-Package (SiP):**
-Integrating processors, memory, sensors, and other chips into one module. This is the future trend, particularly needed for 5G, AI, and automotive electronics.
+Integrating multiple chips — processors, memory, sensors — into a single module. This is the future trend, particularly for 5G, AI, and automotive electronics — all of which require this technology.
 
-**Smart Manufacturing:**
-ASE has implemented Industry 4.0 technologies, from automated production lines to AI quality inspection, comprehensively improving efficiency. These experiences are also exported for reference by other Taiwanese manufacturers.
+**Smart manufacturing:**
+ASE has introduced Industry 4.0 technology, from automated production lines to AI quality inspection, comprehensively improving efficiency. This experience is also shared with Taiwan's other manufacturing industries as a reference.
 
 ## New Challenges Ahead
 
-**Rising Chinese Competitors:**
-Chinese OSAT companies like JCET, TFME, and Hua Tian are growing rapidly with cost advantages. ASE must rely on technological leadership to maintain its gap.
+**Rising Chinese competitors:**
+Chinese packaging and testing companies such as JCET, Tongfu Microelectronics, and Huatian Technology are growing rapidly, with a cost advantage. ASE must maintain a technology lead to widen the gap.
 
-**Technology Evolution:**
-Semiconductors have moved from "Moore's Law" to the "heterogeneous integration" era, making assembly and testing technologies more complex. ASE needs continuous R&D investment to maintain its lead.
+**Technology evolution:**
+The semiconductor industry is moving from "Moore's Law" into an era of "heterogeneous integration," with packaging technology becoming more complex. ASE must continuously invest in R&D to maintain its lead.
 
-**Geopolitical Risks:**
-US-China tech tensions affect global supply chains. As a Taiwanese enterprise, ASE must navigate carefully in complex international situations.
+**Geopolitical risks:**
+The US-China technology war affects global supply chains, and ASE, as a Taiwanese enterprise, must navigate a complex international situation with care.
 
-**Environmental Pressure:**
-Global environmental regulations are tightening. From lead-free processes to carbon neutrality goals, all challenge ASE's technology and cost control capabilities.
+**Environmental pressure:**
+Tightening global environmental regulations — from lead-free processes to carbon-neutral targets — all test ASE's technology and cost control capabilities.
 
-## Why ASE Matters
+## Why Does ASE Matter?
 
-**Key Link in Taiwan's Semiconductor Industry Chain:**
-Design (MediaTek) → Manufacturing (TSMC) → Assembly & Testing (ASE). Taiwan possesses the world's most complete semiconductor ecosystem. ASE's presence makes this ecosystem more robust.
+**A critical link in Taiwan's semiconductor supply chain:**
+Design (MediaTek) → Manufacturing (TSMC) → Packaging and Testing (ASE) — Taiwan possesses the world's most complete semiconductor ecosystem. ASE's presence makes this ecosystem more robust.
 
-**Employment Contribution:**
-ASE is Kaohsiung's largest private enterprise, providing tens of thousands of jobs. From engineers to operators, all skill levels are represented.
+**Employment contribution:**
+ASE is Kaohsiung's largest private enterprise, providing tens of thousands of jobs — for engineers and operators across all skill levels.
 
-**Technology Spillover Effects:**
-ASE's technological innovation and management experience influence Taiwan's entire manufacturing industry through talent mobility and supply chain cooperation.
+**Technology spillover effects:**
+ASE's technological innovation and management experience, flowing through talent mobility and supply chain collaboration, influences Taiwan's entire manufacturing sector.
 
-**Global Supply Chain Stabilizer:**
-In an era of geopolitical turbulence, ASE's global deployment and technical capabilities provide stable services for the global electronics industry.
+**Global supply chain stabilizer:**
+In an era of geopolitical turbulence, ASE's global layout and technological capability provide stable services to the global electronics industry.
 
-From Zhang Yao Hong-ying and her two sons' family investment in 1984 to today's multinational enterprise with over 90,000 employees worldwide, ASE proves the possibility of Taiwan enterprises' "excellence through specialization."
+From the family investment by Chang Yao-hung-ying and her sons in 1984 to the multinational enterprise with over 90,000 employees worldwide today, ASE demonstrates the possibility of Taiwanese enterprises winning through specialization.
 
-In this era when everyone talks about chip design and manufacturing, ASE reminds us that every link in the industry chain is important. Do one thing well, do it to be globally number one, and you become an irreplaceable hidden champion.
+In this era where everyone talks about chip design and fabrication, ASE reminds us: every link in the supply chain matters. Do one thing well, do it to the standard of world leader, and you become an indispensable invisible champion.
 
 ---
 
 ## References
 
-- [Global OSAT Top 10 List Released! ASE Holds Nearly 45% Market Share as Leader - Business Next](https://www.bnext.com.tw/article/83257/ase-holdings-osat-king)
-- [2024 Global OSAT Company Market Size Rankings Top 10 - Tencent News](https://news.qq.com/rain/a/20250307A08B4C00)
-- [Co-creating ASE's Dual Legend — Jason C.S. Chang, Richard Chang - CommonWealth Magazine](https://www.cw.com.tw/article/5106455)
-- [ASE Group - Wikipedia](https://en.wikipedia.org/wiki/ASE_Group)
-- [ASE Group Official Website](https://www.aseglobal.com/)
+- [Global assembly and testing Top 10 list released — ASE holds nearly 45% market share as the leading company — Business Next](https://www.bnext.com.tw/article/83257/ase-holdings-osat-king)
+- [2024 global OSAT manufacturer market size rankings Top 10 — Tencent News](https://news.qq.com/rain/a/20250307A08B4C00)
+- [Creating the dual legend of ASE — Richard Chang and Jason Chang — CommonWealth Magazine](https://www.cw.com.tw/article/5106455)
+- [ASE Semiconductor — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%9C%88%E5%85%89%E5%8D%8A%E5%B0%8E%E9%AB%94)
+- [ASE official website](https://www.aseglobal.com/)

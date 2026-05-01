@@ -1,110 +1,117 @@
 ---
+translatedFrom: 'Economy/台灣企業：統一企業.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3fb7c059831bdebb'
+translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Enterprise: Uni-President Enterprises'
-description: 'How a 13-Year-Old Child Worker Built a NT$657.6 Billion Revenue Empire from Scratch at Age 38'
+description: 'How a 13-year-old child laborer built a NT$657.6 billion revenue empire from scratch at age 38'
 date: 2026-03-21
-tags: [economy, enterprise, food industry, retail, brand management]
-author: Taiwan.md
+tags: ['Economy', 'Enterprise', 'food industry', 'retail', 'brand management']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Economy/台灣企業：統一企業.md'
 ---
 
-> **30-Second Overview:** In 1967, 38-year-old Kao Ching-yuan founded Uni-President Enterprises in Tainan's Xuejia District, starting from a flour mill to achieving record-high revenue of NT$657.6 billion in 2024. Uni-President didn't just sell noodles—it redefined Taiwanese life. When Taiwan's first 7-ELEVEN opened at Chang'an Road in 1980, it made "24-hour convenience" a uniquely Taiwanese cultural symbol.
+> **30-Second Overview:** In 1967, 38-year-old Kao Ching-yuan founded Uni-President Enterprises in Xuejia, Tainan,
+> starting from a flour mill. By 2024, revenue reached a record-high NT$657.637 billion. Uni-President does not just sell noodles —
+> it redefined how Taiwanese people live. When the first 7-ELEVEN opened its Chang'an store in 1980,
+> "24-hour convenience" became a cultural symbol uniquely Taiwan's own.
 
-## A 13-Year-Old Child Worker's Comeback Story
+## A 13-Year-Old Child Laborer's Comeback
 
-Kao Ching-yuan started working as a child laborer at 13. His father's early death meant his life began as an apprentice in a fabric shop. At 38 (1967), he left Tainan Textile Company, deciding to gamble on his own destiny.
+Kao Ching-yuan started working as a child laborer at age 13. His father's early death meant he began life as an apprentice at a cloth shop. At 38 (1967), he left Tainan Textiles and decided to bet on his own fate.
 
-On August 25th, "Uni-President Enterprises Corporation" opened in Tainan's Xuejia District, with Wu Hsiu-chi as chairman and Kao Ching-yuan as general manager. Initially just a small factory producing flour and animal feed with fewer than 30 employees. But Kao harbored a bigger dream—he wanted to make eating more convenient for Taiwanese people.
+On August 25, "Uni-President Enterprises Co., Ltd." opened in Xuejia, Tainan, with Wu Hsiu-chi as chairman and Kao Ching-yuan as general manager. At the start, it was just a small factory producing flour and animal feed with fewer than 30 employees. But Kao had a bigger dream in his heart — he wanted to make Taiwanese people's eating more convenient.
 
-In 1970, Uni-President launched its first package of "Uni-President Brand Instant Noodles." Taiwan was still an agricultural society then, and many people dared not try this "strange food" called instant noodles. Kao personally traveled around Taiwan's grocery stores, selling pack by pack.
+In 1970, Uni-President launched its first package of "Uni-President Brand Instant Noodles." Taiwan was still an agricultural society at the time, and many people dared not try instant noodles, this "strange food." Kao personally ran through general stores across Taiwan, promoting one package at a time.
 
-"Three goods and one fair" became Kao's business philosophy: good taste, good appearance, good use, fair price. These four principles are still printed on Uni-President products today, unchanged for 57 years.
+"Three goods, one fair price" is Kao Ching-yuan's management philosophy: tasty, good-looking, useful, and fair in price. These four qualities are still printed on Uni-President products today, unchanged for 57 years.
 
-## The Pivotal Turn: Convenience Store Revolution
+## The Key Turning Point: The Convenience Store Revolution
 
-In April 1978, Uni-President signed with American Southland Corporation, sending people to the US to learn 7-ELEVEN operations. Taiwan didn't even have the term "convenience store" then—everyone only knew "grocery stores."
+In April 1978, Uni-President signed an agreement with American South Land Company, sending people to the US to learn the 7-ELEVEN operating model. At the time, Taiwan did not even have the term "convenience store" — everyone only knew "grocery stores."
 
-At 8 AM on February 9, 1980, at Lane 53, Section 1, Chang'an East Road in Taipei, Taiwan's first 7-ELEVEN "Chang'an Store" opened. 24-hour operation, air conditioning, standardized product displays—things that seem natural today were revolutionary innovations 40+ years ago.
+On February 9, 1980, at 8 am, at No. 53, Lane 1, Chang'an East Road, Taipei, the first 7-ELEVEN "Chang'an Store" opened. 24-hour operations, air conditioning, standardized merchandise display — these things that seem taken for granted today were revolutionary innovations more than 40 years ago.
 
-But business was dismal. Taiwanese were accustomed to traditional markets and grocery stores, not understanding why they should shop in "small and expensive" stores. In November 1982, due to persistent losses, 7-ELEVEN merged back into Uni-President Enterprises, becoming the "Superstore Division."
+But business was bleak. Taiwanese people were accustomed to traditional markets and grocery stores and did not understand why they should buy things at a store that was "small and expensive." In November 1982, due to continuous losses, 7-ELEVEN was merged back into Uni-President Enterprises, becoming the "Superstore Business Division."
 
-The turning point came in 1987. Uni-President spun off the superstore division into "Uni-President 7-ELEVEN" while opening franchise systems. Taiwanese lifestyles were changing—more dual-income families, increasing urban population, longer working hours. "Convenience" began to have value.
+The turning point came in 1987. Uni-President spun off the superstore business division into "President Chain Store," simultaneously opening the franchise system. Taiwan's lifestyle was changing — more dual-income families, increasing urban population, longer working hours. "Convenience" began to have value.
 
-## Numbers Tell the Story: From 30 to 250,000 People
+## Numbers Tell the Story: From 30 People to 250,000
 
 **Latest 2024 Data:**
 
-- Revenue: NT$657.637 billion (13.19% YoY growth, historic high)
+- Revenue: NT$657.637 billion (year-on-year growth 13.19%, historic high)
 - Net profit: NT$20.673 billion (4-year high)
 - Global employees: Approximately 250,000 (including subsidiaries)
-- 7-ELEVEN stores: 6,800 in Taiwan, 13,000 globally
+- 7-ELEVEN stores: 6,800 in Taiwan, 13,000 worldwide
 
 **Market Position:**
 
 - Taiwan instant noodle market share: Over 60% (absolute leader)
-- Taiwan convenience store density: One per 2,300 people (world's highest)
-- Uni-President noodles annual sales: Over 1 billion packages
-- Overseas revenue proportion: Approximately 70% (mainly from China)
+- Taiwan convenience store density: 1 store per 2,300 people (world's highest)
+- Annual Uni-President noodle sales: Over 1 billion packages
+- Overseas revenue share: Approximately 70% (primarily from China)
 
-**Comparison:**
+**For Comparison:**
 
-- 1967 founding: 30-person small factory
-- 2024: 250,000-employee multinational enterprise
+- Founded in 1967: Small factory of 30 people
+- 2024: Multinational enterprise with 250,000 employees
 - Growth multiple: Employee count grew 8,333 times over 57 years
 
-## More Than Selling Noodles: Redefining Taiwanese Life
+## Not Just Selling Noodles: Redefining Taiwanese Life
 
-Uni-President's real achievement isn't revenue figures, but how it changed Taiwanese lifestyles.
+Uni-President's true achievement is not revenue figures but how it changed Taiwanese people's way of life.
 
-**Instant Noodle Culture:** From "strange food" to "national cuisine," Uni-President noodles accompanied three generations of Taiwanese. Dormitories, offices, typhoon days—Uni-President noodles became part of Taiwanese people's "sense of security."
+**Instant Noodle Culture:** From "strange food" to "national comfort food," Uni-President noodles have accompanied three generations of Taiwanese. Dormitories, offices, typhoon days — Uni-President noodles have become part of Taiwanese people's "sense of security."
 
-**Convenience Store Revolution:** 24-hour operation, multi-service functions, intensive store expansion. Taiwan's convenience stores aren't just stores but community centers—bill payments, package pickup, photocopying, ATMs, restrooms, free Wi-Fi. This "super convenience" lifestyle was later copied to other Asian countries.
+**Convenience Store Revolution:** 24-hour operations, composite services, dense store openings. Taiwan's convenience stores are not just stores but community centers — paying bills, picking up packages, photocopying, ATMs, restrooms, free Wi-Fi. This "super convenient" lifestyle was later replicated across Asian countries.
 
-**Food Safety Standards:** During the 2014 food safety crisis, Uni-President pioneered voluntary testing and public disclosure. In an era of collapsed trust, Uni-President used transparency to regain consumers' confidence.
+**Food Safety Standards:** During the 2014 food safety scandal, Uni-President was the first to conduct self-inspections and publicly release results. In an era of collapsed trust, Uni-President used transparency to win back consumers.
 
-## Internationalization: Conquering Chinese Palates
+## Going International: Conquering the Chinese-Speaking World's Appetite
 
-In the 1990s, Uni-President began expanding into China. In 1991, Uni-President Enterprises (China) Investment Ltd. was established, building the first production base in Guangzhou.
+In the 1990s, Uni-President began entering the Chinese market. In 1991, Uni-President (China) Investment Co., Ltd. was established, building the first production base in Guangzhou.
 
-Success in China exceeded expectations. Uni-President Ice Tea, Master Kong crispy noodles, Lai Yi Ke cup noodles—brands familiar in Taiwan were equally popular in China. Massive population dividends combined with rapid economic growth meant Uni-President's China revenue quickly exceeded Taiwan's domestic market.
+The success in the China market exceeded expectations. Uni-President Iced Tea, Xiao Dang Jia crunchy noodles, and Lai Yi Ke cup noodles — these brands familiar in Taiwan were equally welcomed in China. The enormous population dividend combined with rapid economic growth made Uni-President's China revenue quickly surpass the Taiwan domestic market.
 
-By 2024, approximately 70% of Uni-President's revenue came from overseas, mainly the China market. From a small flour mill in Tainan's Xuejia to a food empire spanning both sides of the Taiwan Strait, Uni-President proved the possibility of Taiwan enterprises "going global."
+By 2024, approximately 70% of Uni-President's revenue came from overseas, primarily the China market. From a small flour factory in Xuejia, Tainan, to a cross-strait food empire, Uni-President demonstrated the possibility of Taiwanese enterprises "going out."
 
-## Facing Challenges: An Old Brand in the Health Era
+## Facing Challenges: An Old Brand in a Health-Conscious Era
 
-But Uni-President also faces severe challenges. Rising health consciousness among younger generations has led to increasing skepticism about high sodium, high oil, and additives. "Uni-President noodles smell good but aren't healthy" has become a new brand impression.
+But Uni-President also faces severe challenges. The younger generation's growing health consciousness brings increasing questions about high-sodium, high-oil, additive-heavy products. "Uni-President noodles are delicious but not healthy" has become a new brand impression.
 
-The rise of e-commerce and food delivery platforms also impacts convenience stores. Why walk to 7-ELEVEN when I can order via smartphone for home delivery?
+The rise of e-commerce and food delivery platforms has also impacted convenience stores. Why walk to 7-ELEVEN when I can use my phone to order delivery?
 
-Uni-President's response strategy is "health transformation." Launching reduced-sodium and oil versions of instant noodles, sugar-free beverages, plant-based meat products. The goal is to increase healthy food revenue proportion to 30% by 2025.
+Uni-President's response strategy is "health transformation" — launching reduced-sodium, reduced-oil instant noodles, unsweetened teas, and plant-based meat products. The goal is to raise healthy food revenue share to 30% by 2025.
 
-Digitalization is also a focus. 7-ELEVEN apps, mobile payments, online ordering extend "convenience" from physical to digital realms.
+Digitalization is also a priority. The 7-ELEVEN App, mobile payments, and online ordering extend "convenience" from physical to digital.
 
 ## Why Uni-President Matters
 
-Uni-President's importance extends beyond commercial success to witnessing Taiwan's social transformation:
+Uni-President Enterprises' importance lies not just in commercial success but in witnessing Taiwan's social transformation:
 
-**From Agriculture to Industry:** Uni-President's growth trajectory parallels Taiwan's transformation from agricultural to industrial society. Instant noodles and convenience stores are both products of industrialized living.
+**From Agriculture to Industry:** Uni-President's growth trajectory maps precisely onto Taiwan's transformation from agricultural to industrial society. Instant noodles and convenience stores are both products of industrialized life.
 
-**Consumer Culture Shaper:** Uni-President doesn't just sell products—it creates consumer culture. The "convenience first" value system somewhat redefined modern Taiwanese lifestyles.
+**Shaper of Consumer Culture:** Uni-President does not just sell products but creates consumer culture. The "convenience first" value system has, to some degree, redefined how modern Taiwanese people live.
 
-**Corporate Governance Model:** From family enterprise to public listing, from domestic brand to international group, Uni-President's growth path provides important reference for Taiwan enterprises.
+**Corporate Governance Model:** From family enterprise to public listing, from domestic brand to international group — Uni-President's growth path provides important reference for Taiwanese enterprises.
 
-**Corporate Responsibility Practitioner:** Food safety, eco-friendly packaging, community service—Uni-President's efforts in corporate citizenship also influenced entire industry standards.
+**Social Responsibility Practitioner:** Food safety, eco-friendly packaging, community services — Uni-President's efforts as a corporate citizen have also influenced the standards of the entire industry.
 
-Over 57 years, from 13-year-old child worker to food empire, Kao Ching-yuan's story has become a symbol of Taiwan's entrepreneurial spirit. And Uni-President Enterprises evolved from a small noodle-selling factory to a multinational enterprise redefining modern life.
+57 years on, from a 13-year-old child laborer to a food empire, Kao Ching-yuan's story has become a symbol of Taiwanese entrepreneurial spirit. And Uni-President Enterprises has gone from a small noodle factory to a multinational enterprise that redefines modern life.
 
-This isn't just one company's story, but a microcosm of Taiwan's entire social transformation.
+This is not just the story of one company, but a microcosm of the entire transformation of Taiwanese society.
 
 ---
 
 ## References
 
-- [Uni-President Enterprises 2024 Revenue Reaches Record High NT$657.6 Billion - Central News Agency](https://www.cna.com.tw/news/afe/202501100280.aspx)
-- [Uni-President Last Year Net Profit NT$20.673 Billion EPS NT$3.64 - Anue](https://news.cnyes.com/news/id/5886546)
-- [Kao Ching-yuan - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%AB%98%E6%B8%85%E6%84%BF)
-- [Uni-President 7-ELEVEN - Wikipedia](https://zh.wikipedia.org/zh-hant/%E7%B5%B1%E4%B8%80%E8%B6%85%E5%95%86)
-- [Uni-President Enterprises Official Website](https://www.uni-president.com.tw/)
+- [Uni-President 2024 revenue NT$657.6 billion sets new high — CNA](https://www.cna.com.tw/news/afe/202501100280.aspx)
+- [Uni-President net profit last year NT$20.673 billion, EPS NT$3.64 — Anue News](https://news.cnyes.com/news/id/5886546)
+- [Kao Ching-yuan — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%AB%98%E6%B8%85%E6%84%BF)
+- [President Chain Store — Wikipedia](https://zh.wikipedia.org/zh-hant/%E7%B5%B1%E4%B8%80%E8%B6%85%E5%95%86)
+- [Uni-President official website](https://www.uni-president.com.tw/)

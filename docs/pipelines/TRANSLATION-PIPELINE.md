@@ -330,6 +330,29 @@ python3 scripts/tools/lang-sync/verify-batch.py
 
 ---
 
+## §C 模式 P0 鐵律：sub-agents 跑期間禁止 destructive git ops（v3.5 新增）
+
+> **觸發**：2026-05-01 γ session 10 ja agents 跑批中，主 session 為了 ship dashboard fix 跑 `git checkout main && git reset --hard origin/main`，14 篇 stale refresh work 被抹掉。觀察者揭露。
+
+**鐵律**：當 sub-agents 在背景修改 tracked 檔案（包括 stale refresh）時，主 session 禁止以下 ops：
+
+- `git reset --hard`
+- `git checkout main` (如果 working tree 有 sub-agent 修改的 tracked file)
+- `git checkout -- <file>` (如果 file 是 sub-agent 正在改的)
+- `git stash drop` (在 stash 包含 sub-agent work 時)
+
+**為什麼**：untracked 新檔案不受 git ops 影響（被無視），**但 tracked 檔案的 modify 會被 revert 回 main 版本**。Multi-agent context 把這個第三類影響變成第一類風險。
+
+**正確做法**（要 ship 別的修補時）：
+
+1. **Worktree 隔離**：開新 worktree（`git worktree add ../tmp-fix main`）做修補，不影響當前 working tree
+2. **Stash 隔離**：`git stash push -- knowledge/<lang>/` 把 sub-agent work 暫存（含 tracked modifications），切 branch 修補後 `git stash pop` 還原
+3. **Branch 切換但不 reset**：`git checkout -b new-branch` 切到新 branch（保留 working tree），commit 修補相關檔案，不碰 sub-agent files
+
+**對應 DNA #35**。
+
+---
+
 ## sync-on-update mode（v3.4 新增 — D 模式）
 
 > **核心理念**：寫文章時順便同步多語言，**不堆積長尾 stale 債務**。每篇 zh 文章 commit 後立即偵測哪些語言翻譯變 stale，opt-in 立即同步該文章的所有語言版本。
@@ -959,6 +982,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v3.2** | 2026-04-30 δ — 新增 §平行 sub-agent 批次翻譯 SOP（C 模式）+ 三模式架構重整（A 單篇 / B 外部批次合併 / C maintainer 平行 sub-agent）。觸發：4 隻 Opus agent × 5 篇首次跑後揭露批次 antipattern（分散探索浪費 / agent claim 不可信 / refresh.sh insert gap）。SOP 5 階段（P1 預處理 / P2 dispatch / P3 純執行 / P4 統一驗證 / P5 commit），Sonnet 升為預設模型，列出三個 known gaps 待造橋。
 - **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / DNA #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
 - **v3.4** | 2026-05-01 γ — 新增 §sync-on-update mode（D 模式）+ `sync-on-update.py` 工具：article-update 後即時偵測哪些 lang 翻譯變 stale，opt-in 立即同步該篇所有語言版本，避免堆積長尾。修 verify-batch.py YAML pre-flight 限定在 tags block 內檢查（消除 `date: YYYY-MM-DD` false positive）。Slug map 自動推薦：從 `_translations.json` 反推導出 614 個 zh→slug 對應（cross-lang 復用，ja/ko 直接 reuse en slug）。批次規模上限提高到 10 sub-agent × 10 articles = 100/batch（首次 JA batch 驗證）。新增 §C 模式 cross-link auto-fix per cycle 待辦（DNA #33 反向力對策）。觸發：5-cycle EN marathon 後哲宇要求 (1) 多語言 sync 變預設 (2) 文章更新時就處理翻譯 (3) 擴大 batch 規模測試極限。
+- **v3.5** | 2026-05-01 γ — 新增 §C 模式 P0 鐵律「sub-agents 跑期間禁止 destructive git ops」（對應 DNA #35）。觸發：γ session 主 session 為了 ship dashboard fix 跑 `git reset --hard` 把 10 ja agents 的 14 篇 stale refresh work 抹掉。鐵律含 worktree / stash / branch 切換不 reset 三種正確做法。Donut bug v2 修補（threshold ≥99 + 顯式 circumference 99.9）寫進 dashboard 內聯 fix。
 
 ---
 

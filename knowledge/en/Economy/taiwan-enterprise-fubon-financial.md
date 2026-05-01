@@ -18,6 +18,10 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：富邦金控.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:17799d817d240ba2'
+translatedAt: '2026-05-01T15:38:13+08:00'
+subcategory: '企業列傳'
 ---
 
 # Taiwan Enterprise: Fubon Financial Holding

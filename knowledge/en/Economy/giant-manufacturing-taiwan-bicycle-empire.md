@@ -18,6 +18,10 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：巨大機械.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:59a5006dd9b19748'
+translatedAt: '2026-05-01T15:38:13+08:00'
+subcategory: '企業列傳'
 ---
 
 # Giant Manufacturing: From Abandoned Subcontractor to Global Bicycle Empire

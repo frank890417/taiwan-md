@@ -1,174 +1,178 @@
 ---
-title: 'Taiwanese Prose Literature'
+title: 'Taiwanese Prose: A Literary Landscape Transformed by Women Writers'
 description: 'From mainland nostalgia to local identity, from male literati to female-dominated literary landscape. How did the most life-oriented yet hardest-to-define literary form become the vessel of Taiwanese emotional memory?'
 date: 2026-03-24
 tags:
   [
-    prose,
-    literature,
-    taiwanese literature history,
-    female writers,
-    life writing,
-    nature writing,
+    'prose',
+    'literature',
+    'Taiwan literary history',
+    'women writers',
+    'life writing',
+    'nature writing',
   ]
+subcategory: '文學'
 category: 'Art'
 readingTime: 8
 lastVerified: 2026-03-24
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/台灣散文.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d7ef47535e3ba2f2'
+translatedAt: '2026-05-01T15:38:13+08:00'
 ---
 
-# Taiwanese Prose: The Literary Landscape Transformed by Female Writers
+# Taiwanese Prose: A Literary Landscape Transformed by Women Writers
 
-> Yu Guangzhong once said: "Female writers have held up half the sky of Taiwan's prose world for half a century." But this phenomenon itself is a mystery—why would prose, within a traditionally male-dominated literary tradition, experience such a significant gender reversal?
+> Yu Guangzhong once said: "Women writers have held up half the sky of Taiwan's prose world for half a century." But this phenomenon is itself an enigma — why, in a tradition of male-dominated literature, did prose see such a striking reversal of gender dominance?
 
-When Qijun published her first prose collection "Heart of the Qin" in 1954, no one in Taiwan's literary circles predicted that a quiet literary revolution was beginning. Sixty years later, in the United Daily News supplement's selection of "30 Taiwanese Literary Classics," among the 7 prose classics, female writers accounted for 3 volumes (Qijun's "Melancholy in Smoke," Jian Zhen's "Daughter's Red Wine," plus Chen Guanxue, a male writer known for his delicate touch). This ratio is unseen in poetry or fiction.
+In 1954, when Chi Chun published her first prose collection _Qin Xin_ (Heartstrings), no one in the Taiwanese literary world anticipated that a silent revolution was underway. Sixty years later, in the United Daily News literary supplement's poll of "30 Classic Works of Taiwanese Literature," women writers accounted for 3 of the 7 prose classics (Chi Chun's _Smoke and Grief_, Chien Chen's _Daughter's Red_, and Chen Kuan-hsueh, a male writer noted for his meticulous pen). This ratio is not found anywhere in poetry or fiction.
 
-What special DNA did prose develop in Taiwan that made it the literary stage where female voices resonate most powerfully?
+Prose — the literary form closest to everyday life — developed what particular genetic code in Taiwan that made it the most resonant stage for women's voices?
 
 ## 30-Second Overview
 
-**Why is Taiwanese prose important?**
+**Why does Taiwanese prose matter?**
 
-Taiwanese prose is the most life-affirming literary form in Chinese literature, documenting social transformation from post-war reconstruction to democratization, and cultural transition from mainland nostalgia to local identity. More importantly, Taiwanese prose created a unique phenomenon: **a literary landscape dominated by female writers**.
+Taiwanese prose is the literary form with the greatest warmth of lived experience in Chinese-language literature. It records social change from postwar reconstruction to democratization, and the cultural transformation from mainlander nostalgia to local identity. More importantly, Taiwanese prose created a unique phenomenon: **a literary landscape dominated by women writers**.
 
-From Qijun to Jian Zhen, from Sanmao to Liao Yuhui, Taiwanese prose showcased the rich possibilities of female writing: not just traditional "boudoir complaints" or "family chronicles," but comprehensive explorations of nature, society, philosophy, and travel. These works not only profoundly influenced Taiwanese emotional education but also opened new aesthetic dimensions for Chinese prose.
+From Chi Chun to Chien Chen, from San Mao to Liao Yu-huei, Taiwanese prose has demonstrated the rich possibilities of women's writing — not confined to traditional "boudoir lament" or "domestic chronicles," but embracing a full spectrum of exploration covering nature, society, philosophy, and travel. These works have profoundly shaped Taiwanese emotional education and opened new aesthetic dimensions for Chinese-language prose.
 
 ## From Male Literati to Female Dominance: A Literary Revolution
 
-### Early Post-War Period: Classical Echoes in Literati Prose
+### The Early Postwar Period: Classical Echoes of Literati Prose
 
-Early post-war Taiwanese prose inherited the tradition of classical Chinese prose. First-generation writers like Liang Shiqiu, Tai Jingnong, and Su Xuelin brought profound classical literary foundations to Taiwan, with elegant styles and content focused on scholarly interests and nostalgic sentiments.
+Early postwar Taiwanese prose inherited the tradition of classical Chinese prose. First-generation writers such as Liang Shih-chiu, Tai Ching-nung, and Su Hsueh-lin, arriving in Taiwan with deep foundations in classical literature, wrote in an elegant style covering literati pursuits and nostalgic feeling.
 
-Liang Shiqiu's "Elegant Cottage Essays" (1949-1981) is considered a modern prose model, establishing the "Elegant Cottage style" with witty observations of daily life. However, this style remained essentially a modern version of traditional literati prose: intellectual observation, subtle lyricism, refined language.
+Liang Shih-chiu's _Yasheh Sketches_ (1949–1981) is regarded as a model of modern prose; he described daily life with humor and wisdom, establishing the "Yasheh style." But this style remained essentially a modern reincarnation of traditional literati prose: the intellectual's observational perspective, restrained lyricism, and refined linguistic taste.
 
-**The turning point came with the collective rise of female writers in the 1950s.**
+**The turning point came with the collective emergence of women writers in the 1950s.**
 
-### 1950s-1960s: Collective Emergence of Female Voices
+### The 1950s–1960s: The Collective Rise of Women's Voices
 
-True transformation began with Qijun's generation of female writers. In 1954 Qijun published "Heart of the Qin," in 1958 Zhang Xiuya published "Below the North Window," in 1961 Luolan began her newspaper column, in 1965 Lin Haiyin became deputy editor of United Daily News supplement—**this wasn't coincidental, but a conscious reconstruction of the literary field.**
+The real transformation began with Chi Chun's generation of women writers. Chi Chun published _Heartstrings_ in 1954; Chang Hsiu-ya published _Under the North Window_ in 1958; Lo Lan began publishing prose columns in newspaper literary supplements in 1961; Lin Hai-yin became literary editor of the United Daily News in 1965 — **this was not coincidence, but a conscious reconstruction of the literary field.**
 
-What revolutionary changes did Qijun's prose bring?
+What revolutionary change did Chi Chun's prose bring?
 
-First was **intensified emotional depth**. Compared to male literati's restrained elegance, Qijun's prose was direct and passionate. In "Spring Wine," she wrote about her mother: "We never dared say the word 'wine' in front of mother, much less drink her wine." This direct emotional expression was unfamiliar in the literary world of the time.
+First, **an increase in emotional intensity**. Compared with the restrained elegance of male literati, Chi Chun's prose was direct and deeply felt. In "Spring Wine," she writes of her mother: "We never dared say the word 'wine' in front of Mother, let alone drink her wine." This directness of emotional expression was unfamiliar in the literary world of the time.
 
-Second was **emphasis on daily details**. Qijun didn't write about "great events" but focused on the everyday: mother's cooking, neighbors' gossip, childhood snacks. She proved that "small matters" could carry profound emotion and cultural memory.
+Second, **an attention to the details of daily life**. Chi Chun did not write about "grand events" — she wrote about the ordinary: her mother's cooking, neighborhood gossip, childhood snacks. She proved that "small things" can carry profound emotional and cultural memory.
 
-**Most importantly, she redefined what deserved to be written.**
+**Most importantly, she redefined what was worth writing about.**
 
-### The Numbers Behind Female Writers' Dominance
+### The Data on Women Writers' Dominant Position
 
-According to research compiled by Professor Yang Wenxiong at National Cheng Kung University, the proportion of female writers in various prose classic anthologies is strikingly high:
+Based on research compiled by Professor Yang Wen-hsiung at National Cheng Kung University, the proportion of women writers in various prose classic anthologies is strikingly high:
 
-- In the United Daily News supplement's "7 Taiwanese Prose Classics," female writers or works with feminine sensibilities account for 42.8%
-- In Yu Guangzhong's decade-by-decade division of "Female Prose Landscape," each period had clear representatives:
-  - First period (1950-1960): Qijun, Luolan, Lin Haiyin, Zhang Xiuya
-  - Second period (1960-1970): Lin Wenyue
-  - Third period (1970-1980): Zhang Xiaofeng (key transitional figure)
-  - Fourth period (1980-1990): Liao Yuhui, Chen Xinghui
-  - Fifth period (1990-2000): Jian Zhen
+- In the United Daily News literary supplement's poll of "7 Classic Taiwanese Prose Works," women writers or works with characteristically feminine writing accounted for 42.8%
+- In Yu Guangzhong's periodization of "The Women's Prose Landscape" by decade, every period has distinct representative figures:
+  - First period (1950–1960): Chi Chun, Lo Lan, Lin Hai-yin, Chang Hsiu-ya
+  - Second period (1960–1970): Lin Wen-yueh
+  - Third period (1970–1980): Chang Hsiao-feng (a pivotal figure bridging past and future)
+  - Fourth period (1980–1990): Liao Yu-huei, Chen Hsing-huei
+  - Fifth period (1990–2000): Chien Chen
 
-**This phenomenon doesn't exist in other Chinese-speaking literary regions. Neither Hong Kong literature nor mainland contemporary literature shows female dominance in prose.**
+**This phenomenon does not exist in other Chinese-language literary regions. Neither Hong Kong literature nor contemporary mainland literature has seen female dominance in the prose field.**
 
-## Three Major Schools of Taiwanese Prose
+## Three Major Distinctive Streams of Taiwanese Prose
 
 ### Life Writing: From Private Memory to Collective Identity
 
-The greatest characteristic of Taiwanese prose is "life writing"—elevating daily experience to literary heights. This tradition began with Qijun and flourished through Lin Wenyue, Zhang Xiaofeng, and Jian Zhen, forming a unique aesthetic.
+The greatest distinguishing feature of Taiwanese prose is "life writing" — elevating everyday experience to a literary level. This tradition, begun by Chi Chun and carried forward by Lin Wen-yueh, Chang Hsiao-feng, and Chien Chen, formed a distinctive aesthetic.
 
-**Lin Wenyue's "Afternoon Study"** (1980s) showcased the life aesthetics of intellectual women. She wrote about translation work, cooking insights, and interactions with literary friends—elegant but not contrived, scholarly but not pretentious. She proved that scholars could write prose full of warmth.
+**Lin Wen-yueh's _Afternoon Study_ (1980s)** displays the aesthetic of life lived by an educated woman. She writes about translation work, culinary reflections, and interactions with literary friends — the prose elegant without being labored, and deeply learned without showing off. She proved that a scholar, too, can write prose full of warmth.
 
-**Zhang Xiaofeng's "transitional" status** was even more crucial. Her "The Other End of the Carpet" (1966) combined classical literary cultivation with modern feminine observation, possessing both Qijun's emotional depth and her own philosophical thinking. Her prose often extended from small incidents to cosmic views. In "Immortal Insomnia," about Zhang Ji's "Night Mooring at Maple Bridge": "Truly, poets should never age."
+**Chang Hsiao-feng's "bridging" position** is even more pivotal. Her _The Far End of the Carpet_ (1966) combines classical literary cultivation with a modern woman's powers of observation — possessing Chi Chun's depth of feeling alongside her own philosophical thinking. Her prose frequently extends from small events to a cosmological scale; in "The Immortality of Sleeplessness," writing about Zhang Ji's poem "A Night Mooring by Maple Bridge," she writes: "Truly, a poet cannot grow old."
 
-**Jian Zhen's "Daughter's Red Wine"** (1988) represented the awakening of 1980s Taiwanese female consciousness. Her language was freer, emotions more direct, narrative more experimental. She wrote: "I am daughter's red wine, buried in the depths of time, waiting for someone to open me."
+**Chien Chen's _Daughter's Red_ (1988)** represents the awakening of women's consciousness in 1980s Taiwan. Her language is freer, her emotions more direct, her narration more experimental. She writes: "I am daughter's red wine, buried in the depths of time, waiting for someone to open me."
 
-### Nature Writing: From Literati Landscapes to Ecological Concern
+### Nature Writing: From Literati Landscape to Ecological Concern
 
-Starting in the 1980s, Taiwanese prose developed a new school of "nature writing," synchronized with Taiwan's awakening environmental consciousness.
+Beginning in the 1980s, a new stream of "nature writing" appeared in Taiwanese prose, moving in parallel with the awakening of Taiwan's environmental consciousness.
 
-**Liu Kexiang pioneered Taiwanese nature writing.** His "Wind Bird Pinocchio" (1986) combined biological expertise with literary sensitivity, creating an entirely new prose type. He wasn't writing about "scenery" but about "ecosystems."
+**Liu Ke-hsiang is the pioneer of Taiwanese nature writing.** His _Wind Bird Pinochar_ (1986) combines specialized biological knowledge with literary sensibility to create a completely new kind of prose. He was not writing "scenery" — he was writing about an ecosystem.
 
-**Wu Mingyi continued this tradition while adding more historical reflection.** His "Butterfly Book" (2001) wasn't just nature observation but deep thinking about colonial history and ecological catastrophe. He wrote: "Every extinct species is a burned book."
+**Wu Ming-yi continues this tradition but introduces greater historical reflection.** His _Butterfly Trails_ (2001) is not merely natural observation but deep thinking about colonial history and ecological catastrophe. He writes: "Every vanishing species is a book burned."
 
-The rise of this type of prose reflected Taiwanese society's attention to environmental issues and echoed the democratization movement of the 1980s—reconsidering the land was itself a political act.
+The rise of this kind of prose reflects Taiwanese society's growing concern for environmental issues and echoes the democratic movement of the 1980s — a re-recognition of the land as itself a political act.
 
-### Culinary Literature: From Appetite to Cultural Memory
+### Food Literature: From Appetite to Cultural Memory
 
-After the 1990s, Taiwanese prose developed another distinctive school: culinary literature.
+After the 1990s, Taiwanese prose developed another distinctive stream: food literature.
 
-**Jiao Tong was an important pioneer in this field.** His "Taste of Formosa" wasn't just food criticism but a reexamination of Taiwan's cultural memory through cuisine. He wrote about beef noodles: "Beef noodles are the crystallization of mainland immigrants' nostalgia in Taiwan, and also a symbol of Taiwan's culinary culture inclusiveness."
+**Chiao Tung is an important pioneer in this field.** His _Flavors of Formosa_ is not merely food criticism — it is a retracing of Taiwan's cultural memory through food. Writing of beef noodle soup: "Beef noodle soup is the crystallization of mainlander immigrants' nostalgia in Taiwan, and a symbol of Taiwanese culinary culture's inclusiveness."
 
-**Cai Zhu'er's culinary prose was even more refined and delicate.** She wrote cooking processes as poetry and tasting experiences as philosophy. In "Red-Braised Pork," she wrote: "Red-braised pork is the art of time, and also the cultivation of patience."
+**Tsai Chu-er's food prose is more refined and meticulous.** She writes the cooking process as poetry, the tasting experience as philosophy. In "Red-Braised Pork," she writes: "Red-braised pork is the art of time, and the practice of patience."
 
-The rise of culinary literature reflected urban society's renewed appreciation for "the taste of home" after Taiwan's transformation from agricultural to urban society.
+The rise of food literature reflects a renewed appreciation for "the taste of home" as Taiwan transformed from an agricultural society to an urban one.
 
-## Why Women? Deep Analysis of Prose Gender Phenomenon
+## Why Women? A Deep Analysis of the Gender Phenomenon in Prose
 
-The female dominance in Taiwanese prose has several deep causes:
+Taiwan's female dominance in prose has several deeper causes:
 
-### 1. Prose Form's Accessibility
+### 1. The Affinity of the Prose Form
 
-Prose doesn't require highly technical training like poetry, nor complex structural design like novels. It's closer to "letters" and "diaries"—writing forms that women were allowed or even encouraged to practice in traditional society.
+Prose does not require the high technical training of poetry, nor the complex structural design of fiction. It is closer to "letters" and "diary" — forms of writing that women in traditional society were permitted and even encouraged to practice.
 
-### 2. Life-Oriented Subject Matter
+### 2. The Everyday-ness of Subject Matter
 
-Prose emphasizes daily experience, and women, traditionally responsible for family and interpersonal relationships, had keener observation of life details. This sensitivity became a natural advantage in prose writing.
+Prose values everyday experience, and women in the traditional division of labor were more responsible for maintaining the household and interpersonal relations — giving them a sharper sensitivity to life's details. This sensitivity became a natural advantage in prose writing.
 
-### 3. Freedom of Emotional Expression
+### 3. The Freedom of Emotional Expression
 
-In 1950s Taiwanese society, women's voices in public spheres were limited, but prose provided a relatively safe space for expression. Through "personal" writing, female writers could express views on society and culture.
+In 1950s Taiwanese society, women's speech in the public sphere was constrained, but prose offered a relatively safe space for expression. Through "private" writing, women writers were able to articulate their views on society and culture.
 
-### 4. Literary Supplement Culture's Promotion
+### 4. The Propulsive Force of the Literary Supplement Culture
 
-During Lin Haiyin's tenure as deputy editor of United Daily News supplement (1963-1974), she greatly supported female writers, creating a positive cycle of prose creation. The supplement platform provided crucial publication venues for female prose development.
+During Lin Hai-yin's tenure as literary editor of the United Daily News (1963–1974), she vigorously championed women writers, creating a virtuous cycle of prose creativity. The literary supplement as a media platform provided an important publication venue for the development of women's prose.
 
-## Contemporary Development: New Forms of Prose in the Digital Age
+## Contemporary Developments: The New Face of Prose in the Digital Age
 
 Entering the 21st century, Taiwanese prose faces new challenges and opportunities.
 
-### Impact of New Media
+### The Influence of New Media
 
-The rise of blog culture democratized prose writing. Writers like Giddens Ko, author of "You Are the Apple of My Eye," started with internet prose.
+The rise of blog culture democratized prose writing. Authors such as Giddens Ko (_You Are the Apple of My Eye_), for instance, began with online prose.
 
-Social media's "character limit" culture also influenced prose forms, creating new "micro-prose" genres.
+The "character limit" culture of social media has also influenced prose forms, giving rise to the new category of "micro-prose."
 
-### Addition of Diverse Voices
+### The Entry of Diverse Voices
 
-Indigenous writers (Syaman Rapongan) and new immigrant writers began speaking in the prose field, bringing new cultural perspectives to Taiwanese prose.
+Indigenous writers (Syaman Rapongan) and new immigrant writers have begun to find their voice in the prose field, bringing new cultural perspectives to Taiwanese prose.
 
-**The rise of academic writers like Hao Yuxiang and Zhong Yiwen** injected more theoretical thinking and experimental spirit into prose creation.
+**The emergence of academic writers such as Hao Yu-hsiang and Chung Yi-wen** has also injected greater theoretical reflection and experimental spirit into prose writing.
 
-### International Perspectives
+### An Internationalized Vision
 
-With increased international exchange among Taiwanese writers, prose began featuring more cross-cultural themes and perspectives. This isn't just the rise of "travel literature" but deeper cultural dialogue.
+As Taiwanese writers' international exchange has increased, prose has begun to feature more cross-cultural themes and perspectives. This is not merely the rise of "travel literature" — it is a deeper form of cultural dialogue.
 
-## Outlook: Prose as Taiwan's Literary Soft Power
+## Looking Ahead: Prose as Taiwan's Literary Soft Power
 
-The unique value of Taiwanese prose lies not only in recording Taiwan's social transformation but in demonstrating a "gentle yet resilient" literary spirit.
+The unique value of Taiwanese prose lies not only in its record of social change in Taiwan, but also in the literary spirit of "gentleness and resilience" it embodies.
 
-In an era dominated by "speed" and "efficiency," Taiwanese prose maintains the aesthetics of "slowness": slowly observing, slowly feeling, slowly writing. This persistence is itself a cultural stance.
+In an era dominated by the values of "speed" and "efficiency," Taiwanese prose insists on the aesthetic of "slowness": slow observation, slow feeling, slow writing. This insistence is itself a cultural position.
 
-**More importantly, Taiwanese prose proved the possibility of literary democratization.** It doesn't require profound learning or complex techniques, only sincere observation and feeling. Everyone can be a prose writer; everyone's life experience deserves to be written.
+**More importantly, Taiwanese prose has proven the democratic potential of literature.** It requires no deep learning, no complex technique — only sincere observation and feeling. Everyone can be a prose writer; every person's life experience is worth being written about.
 
-This might be Taiwanese prose's greatest contribution: it brought literature back to life and writing back to everyone. In the tide of globalization, this "local universality" is the most precious soft power of Taiwanese literature.
+This may be Taiwanese prose's greatest contribution: it returns literature to life, and returns writing to everyone. In the tide of globalization, this "local universality" is precisely Taiwan's most precious literary soft power.
 
 ---
 
-## Further Reading
+## References
 
-**Classic Prose Collections:**
+**Classic prose collections:**
 
-- Qijun "Melancholy in Smoke" — Classic of Taiwanese nostalgic prose
-- Wang Dingjun "Open Life" — Model of life philosophy prose
-- Jian Zhen "Daughter's Red Wine" — Representative of 1980s female writing
-- Chen Guanxue "Autumn in the Garden" — Pioneer work of nature writing
-- Yang Mu "The Searcher" — Aesthetic heights of intellectual prose
+- Chi Chun, _Smoke and Grief_ — a classic of Taiwanese nostalgic prose
+- Wang Ting-chun, _An Open Life_ — a model of philosophical prose
+- Chien Chen, _Daughter's Red_ — representative of 1980s women's writing
+- Chen Kuan-hsueh, _Autumn in the Fields_ — a pioneer of nature writing
+- Yang Mu, _The Searcher_ — the aesthetic heights of intellectual prose
 
-**Research Sources:**
+**Research materials:**
 
-- [National Cheng Kung University Chinese Department: Current Situation and Trends of Taiwan Modern Prose](https://alumni.ncku.edu.tw/p/404-1004-77547.php)
-- [Books.com.tw: Selected Taiwanese Prose 1970-2010](https://www.books.com.tw/products/0010477248)
-- [National Museum of Taiwan Literature: Symposium on Taiwan Literary Classics](https://www.nmtl.gov.tw/)
-- [United Daily News Supplement Vote: 30 Taiwan Literary Classics](https://udn.com/news/story/7009/4602089)
-- [Yu Guangzhong's Preface: Half-Century Female Prose Landscape](https://udn.com/news/story/7009/4602089)
+- [National Cheng Kung University Department of Chinese: Current Situation and Trends of Taiwan's Modern Prose](https://alumni.ncku.edu.tw/p/404-1004-77547.php)
+- [Books.com.tw: Anthology of Taiwan's Prose 1970–2010](https://www.books.com.tw/products/0010477248)
+- [National Museum of Taiwan Literature: Symposium Proceedings on Taiwan's Literary Classics](https://www.nmtl.gov.tw/)
+- [United Daily News Literary Supplement Poll: 30 Classics of Taiwanese Literature](https://udn.com/news/story/7009/4602089)
+- [Yu Guangzhong preface: Half a Century of Women's Prose Landscape](https://udn.com/news/story/7009/4602089)

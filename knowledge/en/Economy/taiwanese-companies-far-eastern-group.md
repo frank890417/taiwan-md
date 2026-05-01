@@ -1,189 +1,207 @@
 ---
-title: "Far Eastern Group: From Shanghai Textile Mill to Taiwan's Most Diversified Business Empire"
-description: "How did a small textile factory in Shanghai 87 years ago evolve into a Taiwan business empire spanning ten industries with assets exceeding NT$3 trillion? The Far Eastern Group's journey reflects the complete trajectory of Taiwanese businesses from glory to political risk"
+translatedFrom: 'Economy/台灣企業：遠東集團.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d6da6fce353b5bfa'
+translatedAt: '2026-05-01T15:38:13+08:00'
+title: "Far Eastern Group: From a Shanghai Textile Mill to Taiwan's Most Diversified Business Empire"
+description: 'How did a small textile factory in Shanghai 87 years ago evolve into a Taiwanese business empire spanning ten industries with assets exceeding NT$3 trillion? The history of Far Eastern Group traces the complete arc of Taiwanese business — from glory to political risk.'
 date: 2026-03-24
 category: Economy
 tags:
   [
-    Enterprise,
-    Conglomerate,
-    Diversified Business,
-    Textile Industry,
-    Taiwanese Business,
-    Political Risk,
+    'enterprises',
+    'conglomerates',
+    'diversified operations',
+    'textile industry',
+    'Taiwanese business',
+    'political risk',
   ]
+subcategory: 'Enterprise Chronicles'
 author: Taiwan.md
 readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: 'Economy/台灣企業：遠東集團.md'
 ---
 
-In November 2021, shocking news hit Taiwan's business community: Far Eastern Group was fined RMB 474 million (approximately NT$20.6 billion) by mainland China's government for alleged "environmental, land use, and employee occupational health violations." But everyone knew this wasn't simply about regulatory compliance.
+In November 2021, a piece of news shook Taiwan's business community: Far Eastern Group was fined NT$2.06 billion (RMB 474 million) by the Chinese mainland government for "violations in environmental protection, land use, and employee occupational health." But everyone knew this was not a simple regulatory matter.
 
-The Taiwan Affairs Office spokesperson Zhu Fenglian's words were blunt: "We absolutely will not allow those who support 'Taiwan independence' and undermine cross-strait relations to make money on the mainland and 'bite the hand that feeds them.'" Far Eastern Group Chairman Douglas Hsu immediately issued a statement: opposing Taiwan independence, supporting the 1992 Consensus and One China principle.
+Taiwan Affairs Office spokesperson Zhu Fenglian was blunt: "We will absolutely not allow those who support 'Taiwan independence' and damage cross-strait relations to profit on the mainland while biting the hand that feeds them." Far Eastern Group chairman Douglas Hsu (徐旭東) promptly issued a statement: opposing Taiwan independence and supporting the 1992 Consensus and the one-China principle.
 
-A business empire that started as a Shanghai textile mill 87 years ago suddenly faced a life-or-death test in 2021 due to political stance issues. This story is actually a microcosm of the entire development history of Taiwanese businesses.
+A business empire that had started from a Shanghai textile factory 87 years earlier suddenly faced a test of survival over its political stance in 2021. This story is, in essence, a microcosm of the entire history of Taiwanese business on the mainland.
 
-## More Than Just a Company: A Living Archive of Taiwan's Economic Development
+## More Than a Company: A Living Fossil of Taiwan's Economic Development
 
-Far Eastern Group is no ordinary large enterprise. It's Taiwan's only business empire spanning ten major industries: petrochemicals and energy, polyester materials, cement and building materials, department stores and retail, financial services, telecommunications and technology, transportation, construction, hotels and tourism, and social welfare.
+Far Eastern Group is not an ordinary large enterprise. It is Taiwan's only business empire simultaneously spanning ten industries: petrochemicals and energy, polyester materials, cement and building materials, department retail, financial services, telecom technology, transportation, construction, tourism and hotels, and social welfare.
 
-By the end of 2024, Far Eastern Group's total assets reached NT$3.4104 trillion (US$104 billion), with revenue exceeding NT$739.5 billion (US$22.6 billion). The group owns ten listed companies and over 200 affiliated enterprises, ranking among Taiwan's top ten largest conglomerates.
+By the end of 2024, Far Eastern Group's total assets reached NT$3.4104 trillion (US$104 billion), with revenues exceeding NT$739.5 billion (US$22.6 billion), encompassing ten listed companies and more than 200 affiliated enterprises. Among Taiwan's top 100 conglomerates, Far Eastern Group consistently ranks in the top ten.
 
-More importantly, it has witnessed the complete process of Taiwan's economic miracle. From the hasty reconstruction when it relocated to Taiwan with the KMT government in 1949, to the rapid expansion during Taiwan's economic takeoff in the 1970s-80s, and then facing the opportunities and challenges brought by China's rise after 2000—every step of Far Eastern Group's development has closely overlapped with Taiwan's economic development trajectory.
+More importantly, it has witnessed Taiwan's economic miracle in its entirety — from the hurried rebuilding after relocating to Taiwan with the Nationalist government in 1949, through the rapid expansion during Taiwan's economic takeoff in the 1970s and 1980s, to the opportunities and challenges posed by China's rise after 2000. Every step of Far Eastern Group's development traces the same arc as Taiwan's economic trajectory.
 
 ## From Shanghai to Taiwan: A Migration Story of an Era
 
-### Founding Period (1937-1949): Business Vision Amid Chaos
+### Founding Period (1937–1949): Business Vision in a Time of Chaos
 
-In 1937, 24-year-old Yu-Ziang Hsu founded "Tongmao Flower and Grain Company" in Shanghai, dealing in cotton, soybeans, and grain wholesale. This seemingly modest decision actually demonstrated his deep understanding of industrial chains: control the raw materials, and you control the downstream.
+In 1937, the 24-year-old Hsu Yu-siang (徐有庠) founded "Tong Mao Cotton and Grain Trading" in Shanghai, dealing in wholesale cotton, soybeans, and mixed grains. This seemingly modest decision actually reflected a deep understanding of supply chains: control the raw materials, control the downstream.
 
-After the victory in the War of Resistance in 1945, Hsu established "Far Eastern Weaving Mills Co., Ltd." in Shanghai, officially entering textile manufacturing. Why textiles? Because he saw the enormous post-war reconstruction demand for textiles. This keen judgment of market trends became the genetic foundation of Far Eastern Group's future success.
+After Japan's defeat in 1945, Hsu established "Far Eastern Weaving Co., Ltd." in Shanghai, formally entering textile manufacturing. Why textiles? Because he saw the enormous demand for textile goods in postwar reconstruction. This keen judgment of market trends became the genetic code of Far Eastern Group's later success.
 
-### Taiwan Reconstruction Period (1949-1960): Starting Over in Ruins
+### Relocation and Rebuilding Period (1949–1960): Starting Over in the Rubble
 
-In 1949, with dramatic political changes, Yu-Ziang Hsu made a decision that would change Far Eastern Group's destiny: dismantling all machinery and equipment from the Shanghai factory, loading them onto ships, and transporting them to Taiwan.
+In 1949, the political situation changed dramatically. Hsu made a decision that would change Far Eastern Group's destiny: he disassembled all the machinery from his Shanghai factories, loaded it onto ships, and transported it to Taiwan.
 
-Taiwan at that time was devastated, with extremely backward infrastructure. Hsu re-established "Far Eastern Knitting Mills Co., Ltd." in Taipei, which merged with another Taiwan-based company in 1953 to officially form Far Eastern Textiles.
+Taiwan at the time had everything in ruins and extremely underdeveloped infrastructure. Hsu re-established "Far Eastern Knitting Co., Ltd." in Taipei and in 1953 merged with another Taiwan-based Far Eastern Textile company to formally establish Far Eastern Textile.
 
-This wasn't simply a relocation, but a complete technology transfer and industrial reconstruction. The advanced equipment and management experience brought by Far Eastern Textiles laid an important foundation for Taiwan's textile industry development.
+This was not a simple relocation but a complete transfer of technology and industrial reconstruction. The advanced equipment and management experience that Far Eastern Textile brought laid an important foundation for the development of Taiwan's textile industry.
 
-## The Diversification Gamble: Why Did Far Eastern Succeed?
+## The Diversification Bet: Why Far Eastern Succeeded
 
-### 1960s-1990s: Philosophy of Steady Expansion
+### 1960s–1990s: A Philosophy of Steady Expansion
 
-Most companies' diversification ends in failure, but Far Eastern Group managed to establish competitive advantages across ten completely different industries. What's the secret?
+Most corporate diversification attempts end in failure, but Far Eastern Group managed to build competitive advantages across ten completely different industries. What was the secret?
 
-The answer lies in Yu-Ziang Hsu's "steady-hand approach." He didn't just jump at opportunities, but deeply studied each industry's core competitive elements, ensuring he could build long-term competitive advantages before entering.
+The answer is Hsu Yu-siang's "steady-state doctrine." He did not jump at opportunities — he deeply studied the core competitive factors of each industry, entering only after confirming the ability to build a long-term competitive advantage.
 
-**1957 - Entering Cement Industry**: Founded Asia Cement, anticipating Taiwan's infrastructure needs.
-**1967 - Entering Retail**: Far Eastern Department Stores opened, predicting Taiwan's consumption upgrade trend.
-**1989 - Entering Education**: Founded Yuan Ze University to cultivate talent for the group.
-**1996 - Entering Telecommunications**: Established Far EasTone, seizing telecom liberalization opportunities.
+**1957 — entering cement:** Founded Asia Cement, targeting Taiwan's infrastructure construction demand.
+**1967 — entering retail:** Far Eastern Department Store opens, anticipating the trend of Taiwan's consumption upgrade.
+**1989 — entering education:** Founded Yuan Ze University to cultivate talent for the group.
+**1996 — entering telecommunications:** Established FarEasTone, seizing the opportunity of telecommunications liberalization.
 
-Every time Far Eastern Group entered a new industry, it quickly established market leadership. This wasn't luck, but long-accumulated industry insight.
+Every time Far Eastern Group entered a new industry, it rapidly established a market leadership position. This was not luck but the accumulation of long-term industrial insight.
 
-### Naming Philosophy: Understanding Business Logic Through "Asia Eastern"
+### Naming Philosophy: The Business Logic Behind "Asia Eastern"
 
-In 1969, Far Eastern Textiles and Asia Cement jointly founded "Asia Eastern Chemical Fiber," taking one character from each company's name. The same year, Asia Eastern Institute of Technology (now Asia Eastern University of Science and Technology) was established.
+In 1969, Far Eastern Textile and Asia Cement jointly established "Asia Eastern Chemical Fibers," taking one character from each parent company to form "Asia Eastern" (亞東). The same year Asia Eastern Institute of Technology was founded (today Asia Eastern University of Science and Technology).
 
-This naming convention reflects Far Eastern Group's unique business logic: creating synergies between different industries through cross-shareholding and joint ventures. "Asia Eastern" isn't just a name—it's a vertical integration business model.
+This naming convention reflects Far Eastern Group's distinctive business logic: creating synergies across industries through cross-shareholding and joint ventures. "Asia Eastern" is not just a name — it represents a model of vertical integration.
 
-## The Douglas Hsu Era: From Succession to Transcendence
+## The Douglas Hsu Era: From Succession to Surpassing
 
-In 1993, when Yu-Ziang Hsu's eldest son Hsu Hsu-shih left the group and moved to the United States, Douglas Hsu officially took over. Many thought this was just routine second-generation succession, but Douglas Hsu proved he was not just a keeper but an innovator.
+In 1993, Hsu Yu-siang's eldest son Hsu Hsu-shih (徐旭時) withdrew from the group and moved to the United States, and Douglas Hsu (徐旭東) officially took over. Many assumed this was routine second-generation succession, but Douglas Hsu proved he was not merely a caretaker — he was an innovator.
 
-Under Douglas Hsu's leadership, Far Eastern Group completed two crucial transformations:
+Under Douglas Hsu's leadership, Far Eastern Group completed its two most important transformations:
 
-**First Transformation (1990s)**: Extending from traditional manufacturing to services, establishing Far Eastern Bank (later renamed Far Eastern International Bank) and Far EasTone Telecommunications.
+**First transformation (1990s):** Extending from traditional manufacturing into services, establishing Far Eastern International Bank (formerly Far Eastern Bank) and FarEasTone Telecommunications.
 
-**Second Transformation (2000s)**: Massive expansion into the Chinese mainland market, building a complete production and sales network.
+**Second transformation (2000s):** Large-scale expansion into the Chinese mainland market, building a complete production and sales network.
 
-Douglas Hsu's management philosophy can be summarized in one word: "steady." He's not in a rush to win, but builds deep competitive advantages in every industry. CommonWealth Magazine once described him: "Over 20 years, others have risen and fallen, but Far Eastern has continued to grow."
+Douglas Hsu's management philosophy can be summed up in one word: "steadiness." He was not in a rush to win, but rather built deep competitive advantages in each industry. CommonWealth Magazine once described him this way: "Over 20 years, others saw towers rise and fall, while Far Eastern kept growing."
 
-## The 2021 Political Storm: A Microcosm of Taiwanese Business Dilemmas
+## The 2021 Political Storm: A Microcosm of the Dilemma Facing Taiwanese Business
 
-The mainland China fine incident in November 2021 became the biggest crisis in Far Eastern Group's 87-year history. The background of this incident is complex, but the core logic is clear: Beijing wanted to send a clear signal to Taiwanese businesses.
+The mainland fine of November 2021 became the greatest crisis in Far Eastern Group's 87-year history. The background was complex, but the core logic was clear: Beijing wanted to send a clear signal to Taiwanese businesses.
 
-### Event Timeline
+### The Sequence of Events
 
-November 5: Taiwan Affairs Office announced adding Su Tseng-chang, You Si-kun, and Joseph Wu to the "Taiwan independence separatist" list, stating it would impose sanctions on their "affiliated enterprises and financiers."
+November 5: The Taiwan Affairs Office announced placing Su Tseng-chang, You Si-kun, and Wu Chao-hsieh on the list of "die-hard Taiwan independence elements," stating it would impose sanctions on their "related enterprises and financial backers."
 
-November 22: Chinese official media reported that Far Eastern Group's mainland enterprises had violations in "environmental protection, land use, and employee occupational health."
+November 22: Chinese state media reported that Far Eastern Group's mainland enterprises had "environmental, land use, and employee occupational health" violations.
 
-November 24: Taiwan Affairs Office confirmed imposing RMB 474 million in fines on Far Eastern Group.
+November 24: The Taiwan Affairs Office confirmed the fine of RMB 474 million against Far Eastern Group.
 
-November 30: Douglas Hsu issued a statement: opposing Taiwan independence, supporting the 1992 Consensus.
+November 30: Douglas Hsu issued a statement opposing Taiwan independence and supporting the 1992 Consensus.
 
-### Political and Economic Dual Considerations
+### Dual Political and Economic Logic
 
-According to BBC analysis, this incident involved dual logic:
+According to BBC analysis, the event carried dual logic:
 
-**Political Logic**: Creating a chilling effect to influence Taiwan's political donations and DPP funding. Control Yuan records show Far Eastern Group donated to both blue and green camps in the 2020 election, with the largest sum being NT$10 million to Han Kuo-yu, plus donations to about 40 blue and green legislative candidates.
+**Political logic:** Creating a chilling effect to influence Taiwanese political donations and Democratic Progressive Party funding flows. Control Yuan data showed that Far Eastern Group had donated to both the blue and green camps in the 2020 election, with the largest single donation of NT$10 million going to Han Kuo-yu, and smaller donations to approximately 40 legislators from both parties.
 
-**Economic Logic**: With mainland China's industrial upgrading, it no longer needs high-pollution, high-energy-consumption traditional manufacturing. Taiwanese businesses have shifted from "welcome partners" to "targets for elimination."
+**Economic logic:** China's industrial upgrade no longer needs high-pollution, high-energy-consuming traditional manufacturing. Taiwanese businesses have shifted from "welcome partners" to "targets to be phased out."
 
-### Survival Rules for Taiwanese Businesses in the New Era
+### Survival Rules for a New Era of Taiwanese Business
 
-Far Eastern Group's experience reflects the fundamental dilemma facing Taiwanese businesses in the new era: How to balance economic interests with political risks?
+Far Eastern Group's experience reflects the fundamental dilemma facing Taiwanese businesses in the new era: how to balance economic interests with political risk?
 
-For the past 30 years, Taiwanese businesses have been important contributors to mainland China's economic development. But now, political stance has become more important than business performance.
+For thirty years, Taiwanese businesses were important contributors to the mainland's economic development. But now, political stance has become more important than operational performance.
 
-This isn't just Far Eastern Group's dilemma, but a new reality that all Taiwanese businesses with mainland investments must face.
+This is not just Far Eastern Group's dilemma — it is the new reality all Taiwanese businesses with mainland investments must face.
 
-## Managing an Industrial Empire
+## More Than Business: Stories of Social Influence
 
-### Holding Structure: How to Manage 200 Companies?
+To understand why Far Eastern Group could survive across 87 years, the answer lies not only in its diversification strategy, but in its deep engagement with Taiwanese society.
 
-Far Eastern Group adopts a holding company model, establishing competitive advantages across industries through strategic investments and professional management teams. Core group enterprises include:
+### Asia Eastern Memorial Hospital: Guardian During COVID-19
 
-- **Far Eastern New Century** (1402): Major global polyester fiber supplier
-- **Asia Cement** (1102): One of Taiwan's three major cement companies
-- **Far Eastern Department Stores** (2903): Taiwan's established department store operator
-- **Far EasTone Telecommunications** (4904): One of Taiwan's three major telecom operators
-- **Far Eastern International Bank** (2845): Important private bank
+In May 2021, at the critical moment of Taiwan's domestic COVID-19 outbreak, Asia Eastern Memorial Hospital in New Taipei's Banqiao became the front line of epidemic response. While other hospitals were experiencing in-hospital infections, Asia Eastern held firm with strict infection control protocols, becoming one of New Taipei's largest COVID-dedicated hospitals.
 
-### Corporate Culture: Integrity, Diligence, Simplicity, Prudence, Innovation
+During those dark days, hospital president Chiu Kuan-ming wrote an open letter to all medical staff: "The battle against COVID-19 is entering street-level combat. While it may look dark, I believe we are also closest to dawn." In 34-degree heat, medical workers in full protective gear conducted outdoor emergency screenings around the clock.
 
-Far Eastern Group's corporate culture can be summarized in five principles: Integrity, Diligence, Simplicity, Prudence, and Innovation. These aren't just slogans, but consistent management principles followed by Yu-Ziang Hsu and Douglas Hsu over 87 years.
+> **Curator's Note**
+>
+> This is not ordinary corporate social responsibility — it is a conglomerate choosing what to take on at a critical moment. When other companies were thinking about minimizing losses, Far Eastern Group's hospital chose the most dangerous but most necessary mission.
 
-**Integrity**: Honest operation, building long-term trust relationships
-**Diligence**: Hard work, achieving professionalism in every industry
-**Simplicity**: Modest and steady, not pursuing short-term excessive profits
-**Prudence**: Careful investment, with every decision thoroughly evaluated
-**Innovation**: Keeping pace with times, finding opportunities in change
+### Yuan Ze University: More Than a Talent Incubator
 
-### Social Responsibility: More Than Just a Money-Making Machine
+When Hsu Yu-siang founded Yuan Ze University in 1989, many assumed it was mere vanity for a wealthy entrepreneur. But 36 years later, Yuan Ze has become one of Taiwan's important private universities, with its business management programs ranked alongside Japan's Waseda and Keio universities by the Times Higher Education.
 
-Far Eastern Group's investment in social responsibility far exceeds typical corporate CSR activities. It founded two universities (Yuan Ze University, Asia Eastern University of Science and Technology), one hospital (Asia Eastern Hospital), and has long supported the Asia Eastern Women's Basketball Team.
+More important is Yuan Ze's educational philosophy: "Integrity, diligence, simplicity, caution, innovation." These five principles are, in fact, Far Eastern Group's 87-year management philosophy. Hsu Yu-siang once said: "Take from society, give back to society" — founding a university was not for the group's benefit, but to nurture the next generation of talent for Taiwan.
 
-These investments don't show short-term returns, but they build deep social foundations and talent reserves for the group. This long-term thinking is key to Far Eastern Group's 87-year sustainability.
+### From PET Bottles to Fashion Fabrics: The Environmental Pioneer's Transformation
 
-## Challenges and Opportunities: The Next 87 Years?
+While the world was still debating plastic pollution, Far Eastern New Century had quietly become the world's largest supplier of food-grade recycled polyester. Each year it converts 12 billion discarded PET bottles into new products, reducing environmental impact.
 
-### Current Challenges
+This was not done to ride the ESG wave — it was a long-term layout begun in 1993. When most companies still treated environmental protection as a cost, Far Eastern New Century already saw the business opportunity in a circular economy. Today, the eco-friendly clothing of Nike, Adidas, H&M, and other international brands largely uses Far Eastern New Century's recycled polyester fiber.
 
-**Cross-Strait Political Risks**: The 2021 fine incident shows that political factors have become the biggest operational risk for Taiwanese businesses.
+### FarEasTone: From Communications to Smart Cities
 
-**Traditional Industry Transformation**: Traditional industries like textiles and cement face slowing growth, requiring technological upgrades and digital transformation.
+> **Data Box**
+>
+> - FarEasTone's 5G "Big Figure" initiative (Big Data, AI, IoT) has been applied to 19 smart city solutions
+> - Helped New Taipei reduce traffic violations by 70% through tech-based enforcement
+> - 5G private networks cover 200+ enterprises across Taiwan, including TSMC and Chang Gung Memorial Hospital
 
-**Succession and Inheritance**: As a family business, how to build modern governance systems while maintaining family influence?
+When telecommunications liberalization came in 1996 and FarEasTone was founded, Taiwan was still in the pager era. Twenty-eight years later, FarEasTone is no longer just a telecom operator — it is a builder of smart cities. At Taoyuan Airport, FarEasTone's AI image recognition system monitors runway safety; in New Taipei, FarEasTone's smart streetlight system detects illegal parking; in Kaohsiung, FarEasTone's 5G private network has fully digitized port operations.
 
-### Emerging Opportunities
+What impressed people most about FarEasTone was its "tech epidemic prevention" during COVID-19: developing digital vaccine passes, helping the government build the 1922 SMS contact tracing system, and providing location monitoring services for home quarantine. These technological applications that seem taken for granted were backed by FarEasTone engineers on 24-hour standby during the pandemic's most severe moments.
 
-**ESG Transformation**: Environmental, Social, and Governance issues bring new development opportunities, particularly in green energy and sustainable development.
+## Finding an Anchor in the Storm: Challenges and Resilience
 
-**Digital Economy**: The combination of telecommunications technology and financial services can create new business models.
+Eighty-seven years of corporate history is a history of crisis management. Far Eastern Group's survival is not because it has never faced setbacks, but because it has learned to find new anchors in every storm.
 
-**Southeast Asia Expansion**: With the US-China trade war and changing cross-strait relations, Southeast Asia may become a new investment focus.
+### The High-Wire Act Between the Two Straits
 
-### Inheritance of Management Philosophy
+The RMB 474 million fine of 2021 is only the tip of the iceberg of challenges Far Eastern Group faces. The greater challenge: how to survive in the gap between cross-strait political confrontation?
 
-Douglas Hsu once said: "We're not managing enterprises, we're operating an ecosystem." This statement reveals the core of Far Eastern Group's success: not simply pursuing scale or profits, but building sustainable competitive advantages in every industry.
+According to public information, Far Eastern Group's mainland investments exceed billions of US dollars, with over 30,000 employees. These are not assets that can be pulled out at a moment's notice — they are supply chains built up over 28 years. But at the same time, Far Eastern Group is an authentically Taiwanese enterprise, with its roots in Taiwan and its social responsibilities in Taiwan.
 
-This ecosystem thinking has enabled Far Eastern Group to stand firm through 87 years of storms, and will be its greatest asset in facing future challenges.
+This dilemma has no standard answer. Douglas Hsu's choice: adhere to commercial fundamentals, avoid political grandstanding, but take a clear position at critical moments. "We are businesspeople, not politicians" — simple to say, but walking a tightrope to do.
 
-## A Microcosm of Taiwan's Economic Development
+### Digital Transformation of Traditional Industries
 
-Looking back at Far Eastern Group's 87-year development journey, we see not just one enterprise's growth story, but a complete microcosm of Taiwan's economic development.
+Cement, textiles, petrochemicals — these are all traditional manufacturing industries defined as "sunset sectors." But Far Eastern Group has proven one thing: there are no sunset industries, only sunset mindsets.
 
-From a Shanghai textile mill in 1937 to a NT$3 trillion business empire in 2024; from hasty relocation to Taiwan in 1949 to the mainland investment boom in the 1990s; from the 2008 financial crisis test to the 2021 political risk impact—every turning point in Far Eastern Group's journey has been synchronized with Taiwan society's major transformations.
+Take Asia Cement as an example: it no longer just sells cement but provides "construction solutions." Through IoT sensors, clients can monitor concrete strength changes in real time; through AI algorithms, they can predict optimal mix ratios and curing conditions; through blockchain technology, they can trace the origin and quality of every batch of cement.
 
-It proves the resilience and adaptability of Taiwanese enterprises, while reminding us that in the globalization era, no enterprise can be immune from political and economic environmental impacts.
+This transformation is not trend-chasing — it is a survival necessity. When China's cement overcapacity grows and Southeast Asian emerging markets rise, Taiwan's traditional industries have only two paths: be eliminated, or move toward high-value-added services. Far Eastern Group chose the latter.
 
-But more importantly, Far Eastern Group's story tells us that by maintaining long-term management principles and finding opportunities in change, any enterprise can grow from small to large, from weak to strong.
+### Modernizing Family Governance
 
-This perhaps is something Yu-Ziang Hsu never imagined when he started his business in Shanghai: 87 years later, the small textile mill he founded has become one of the most important chapters in Taiwan's business history. And this story continues to be written.
+> **Dialogue Box**
+>
+> Douglas Hsu once said: "We are not managing a company — we are operating an ecosystem." The real meaning: Far Eastern Group has grown too large to manage in the traditional family enterprise manner.
+
+Third-generation succession is a challenge every family business faces. Far Eastern Group's solution: maintain family influence while introducing professional management. Today, while Douglas Hsu remains chairman, each subsidiary has an independent professional management team.
+
+This balance is not easy to maintain. Too much family control loses professionalism; too many professional managers may lose the entrepreneurial spirit. Far Eastern Group has done well on this balance so far — but the real test is still to come.
+
+## The Next 87 Years: Imagining the Future
+
+Looking back from 2026, Far Eastern Group faces not only Taiwan's opportunities and challenges but choices of positioning in a reshaping global order.
+
+Geopolitical restructuring, climate change, the digital revolution, population aging — these are deeper structural changes than any single crisis. Whether Far Eastern Group can once again successfully transform depends not on what resources it possesses, but on whether it can continue to maintain that 87-year capacity for "finding opportunities in change."
+
+Perhaps this is the most valuable asset Hsu Yu-siang left when he started his business in 1937 Shanghai: not capital, not technology, but a courage to move forward in uncertainty. That 24-year-old young man could not have imagined that every choice he made in a time of chaos would become a mirror for his descendants navigating a new era of chaos.
+
+Eighty-seven years have passed, and Far Eastern Group's story continues to be written. But whatever the next chapter says, it has already proven one truth: on this island, there is a resilience called Taiwanese enterprise, and a long-term thinking called the Far Eastern spirit.
 
 ## References
 
-- [Far Eastern Group Official Website Corporate Overview](https://www.feg.com.tw/en/about/profiles.aspx)
-- [BBC Chinese: China Punishes Taiwan's Far Eastern Group - Political and Economic Considerations](https://www.bbc.com/zhongwen/trad/chinese-news-59416392)
-- [CommonWealth Magazine: Taiwan's Most Diversified Group Superman Boss](https://www.cw.com.tw/article/5100299)
-- [TEJ: 2024 Latest Taiwan Top 100 Group Performance Evaluation](https://www.tejwin.com/insight/2024%E5%B9%B4%E5%8F%B0%E7%81%A3%E7%99%BE%E5%A4%A7%E9%9B%86%E5%9C%98/)
-- [CNA: Taiwan Affairs Office: Far Eastern Fined NT$2 Billion](https://www.cna.com.tw/news/acn/202111240098.aspx)
-- [Far Eastern Group Wikipedia](https://en.wikipedia.org/wiki/Far_Eastern_Group)
-- [Wealth Magazine: Taiwan Plastics vs. Far Eastern - Growing Market Cap Gap](https://www.wealth.com.tw/home/articles/19550)
-- [Far Eastern New Century Investor Relations](https://investor.fenc.com/)
+- [Far Eastern Group Official Website — Corporate Overview](https://www.feg.com.tw/tw/about/profiles.aspx)
+- [BBC Chinese: China punishes Taiwan's Far Eastern Group — the political and economic considerations](https://www.bbc.com/zhongwen/trad/chinese-news-59416392)
+- [CommonWealth Magazine: How Far Eastern's super CEO Douglas Hsu commands 10 major businesses](https://www.cw.com.tw/article/5100299)
+- [TEJ: 2024 Taiwan Top 100 Conglomerates Performance Ranking](https://www.tejwin.com/insight/2024%E5%B9%B4%E5%8F%B0%E7%81%A3%E7%99%BE%E5%A4%A7%E9%9B%86%E5%9C%98/)
+- [Far Eastern New Century: Partner in sustainability for top global brands](https://english.cw.com.tw/article/article.action?id=3086)
+- [FarEasTone: What can 5G "Big Figure" do?](https://www.fetnet.net/content/cbu/tw/network/index/5G-trend-applied-articles/19-5G-AI-bigdata-IOT.html)
+- [Yuan Ze University Official Website — About Yuan Ze](https://www.yzu.edu.tw/aboutyzu/index.php/tw/2016-02-09-06-25-54/2016-02-09-06-31-05)
+- [UDN: Asia Eastern Memorial Hospital President's 622-Character Open Letter](https://udn.com/news/story/120940/5469244)

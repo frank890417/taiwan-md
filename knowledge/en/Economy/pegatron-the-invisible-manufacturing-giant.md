@@ -1,217 +1,222 @@
 ---
-title: 'Pegatron Corporation - The Invisible Giant of Electronics Manufacturing'
-description: "The manufacturing powerhouse behind iPhones, gaming consoles, and laptops, spun off from ASUS to become one of Taiwan's 'Big Five' contract manufacturers"
+title: 'Pegatron Corporation — The Invisible Champion of Electronics Contract Manufacturing'
+description: 'The contract manufacturing giant spun off from ASUS, making iPhones, gaming consoles, and laptops as one of Taiwan''s "Big Five" EMS companies'
 date: 2026-03-20
-tags: [Economy, Enterprise, Electronics Manufacturing, ODM, Supply Chain]
-author: Taiwan.md
+tags:
+  ['Economy', 'enterprise', 'electronics manufacturing', 'manufacturing', 'ODM']
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8b0c4f42c17a074c'
+translatedAt: '2026-05-01T15:38:13+08:00'
 ---
 
 > **30-Second Overview**
 >
-> Pegatron Corporation is the world's second-largest Electronics Manufacturing Services (EMS) company and a major iPhone assembly partner. Spun off from ASUS Group in 2008 under T.H. Tung's leadership, Pegatron specializes in manufacturing computers, communications products, and consumer electronics. Alongside Quanta, Wistron, Compal, and Inventec, it forms Taiwan's "Big Five" contract manufacturers—the invisible giants powering the global electronics supply chain.
+> Pegatron Corporation is the world's second-largest Electronics Manufacturing Services (EMS) company and one of Apple's major iPhone contract manufacturers. Spun off from the ASUS Group in 2008 and led by T.H. Tung, it specializes in contract manufacturing of computer peripherals, communications products, and consumer electronics. Together with Quanta, Wistron, Compal, and Inventec, Pegatron is known as one of the "Big Five" of Taiwan's electronics industry — an invisible giant supporting the global electronics supply chain.
 
 ## Why Pegatron Matters
 
-When you text on your iPhone, play games on Nintendo Switch, or work on a MacBook, you probably don't know these world-changing devices were likely assembled in factories in New Taipei City, Taiwan. These factories belong to Pegatron Corporation—a company you've probably never heard of, but one that profoundly shapes your daily digital life.
+When you pick up an iPhone to send a message, open a Nintendo Switch to play a game, or use a MacBook to work, you may not know that these world-changing products have a significant chance of having been assembled in a factory in New Taipei City, Taiwan. The owner of those factories is Pegatron Corporation — a Taiwanese company you may never have heard of, yet one that profoundly affects your daily life.
 
-Pegatron is the invisible champion of global electronics manufacturing. Unlike Apple or Samsung with their household brand names, Pegatron is the essential backbone supporting the entire consumer electronics industry. From design and development to manufacturing, Pegatron provides "one-stop" solutions for the world's top brands, allowing them to focus on innovation and marketing rather than complex manufacturing challenges.
+Pegatron is the invisible champion of the global electronics contract manufacturing industry. It does not have a loud brand name like Apple or Samsung, but it is an important cornerstone supporting the entire consumer electronics industry. From design and development to manufacturing, Pegatron provides world-class brands with a "one-stop" solution, enabling those brands to focus on innovation and marketing without worrying about complex manufacturing issues.
 
-More importantly, Pegatron's success demonstrates Taiwan's core manufacturing competitiveness: not simply low-cost production, but high-quality, high-flexibility, highly integrated "smart manufacturing." In an era of global supply chain restructuring, Pegatron represents Taiwan's manufacturing industry actively transforming from "Made in Taiwan" toward "Designed in Taiwan."
+More importantly, Pegatron's success demonstrates the core competitiveness of Taiwan's manufacturing industry: not simply low-cost production, but high-quality, high-flexibility, high-integration "intelligent manufacturing." In an era of global supply chain restructuring, Pegatron represents Taiwan's manufacturing industry actively transforming — from "Made in Taiwan" toward "Designed in Taiwan."
 
-## Corporate Overview: A Manufacturing Giant Born from ASUS DNA
+## Company Overview: The Contract Manufacturing Giant with ASUS DNA
 
-Pegatron Corporation was established on June 27, 2008, spun off from ASUS Computer's manufacturing division as an independent enterprise. The company name "Pegatron" combines the mythical winged horse "Pegasus" with "tron" (symbolizing electronic technology), representing a corporate vision that merges imagination with technological prowess.
+Pegatron Corporation (和碩聯合科技股份有限公司) was founded on June 27, 2008, spun off from ASUS Computer's contract manufacturing division as an independent enterprise. The company name "Pegatron" combines the Greek mythological winged horse "Pegasus" with "tron" (symbolizing electronic technology), embodying a corporate vision of combining imagination with technological capability.
 
-**Core Business Segments**:
+**Core business scope:**
 
-1. **Computer & Peripherals Manufacturing**: Notebooks, desktops, motherboards, servers (~40% of revenue)
-2. **Communications Product Manufacturing**: Smartphones, networking equipment, wireless devices (~45% of revenue)
-3. **Consumer Electronics Manufacturing**: Gaming consoles, smart appliances, wearables (~15% of revenue)
+1. **Computer and peripheral contract manufacturing:** Laptops, desktops, motherboards, servers, etc. (approximately 40% of revenue)
+2. **Communications product contract manufacturing:** Smartphones, network equipment, wireless communications products, etc. (approximately 45% of revenue)
+3. **Consumer electronics contract manufacturing:** Gaming consoles, smart home appliances, wearables, etc. (approximately 15% of revenue)
 
-**Business Model Characteristics**:
+**Business model characteristics:**
 
-- **ODM (Original Design Manufacturing)**: Full-service from design to manufacturing
-- **EMS (Electronics Manufacturing Services)**: Focus on manufacturing and supply chain management
-- **Vertical Integration**: Complete production line from component procurement to finished product testing
+- **ODM (Original Design Manufacturing):** Full-service from design to manufacturing
+- **EMS (Electronics Manufacturing Services):** Focused on manufacturing and supply chain management
+- **Vertical integration:** Complete production line from component procurement to finished product testing
 
-Pegatron inherited ASUS Group's technological DNA while focusing on B2B contract manufacturing services, providing global brand customers with comprehensive solutions from product design and engineering development to mass production.
+Pegatron inherited the technical DNA of the ASUS Group but focuses on B2B contract services, providing global brand clients with complete solutions from product design and engineering development to mass manufacturing.
 
-## Key Facts: Numbers That Show Scale
+## Key Facts: Numbers that Speak for Themselves
 
-**Operational Performance (2024 estimates, based on industry reports)**:
+**Operating performance (2024 estimate, based on industry reports):**
 
-- **Annual Revenue**: Approximately NT$1.3 trillion (~US$40 billion)
-- **Global Workforce**: Around 150,000 employees across Taiwan, mainland China, Czech Republic, Indonesia, Mexico, and other locations
-- **Production Sites**: 12 major manufacturing facilities worldwide
-- **R&D Personnel**: Over 8,000 people, approximately 5.3% of total workforce
+- **Annual revenue:** approximately NT$1.3 trillion (approximately US$40 billion)
+- **Global employees:** approximately 150,000, spanning Taiwan, mainland China, Czech Republic, Indonesia, Mexico, and other locations
+- **Production bases:** 12 major manufacturing bases worldwide
+- **R&D personnel:** over 8,000, approximately 5.3% of total employees
 
-**Market Position**:
+**Market position:**
 
-- **Global EMS Ranking #2**: Second only to Foxconn (Hon Hai), ahead of Quanta and Wistron
-- **iPhone Manufacturing Share**: 25-30%, Apple's second-largest manufacturing partner
-- **Gaming Console Manufacturing**: Major manufacturer for Nintendo Switch and Sony PlayStation
-- **Laptop ODM Market Share**: ~15%, world's third-largest laptop contract manufacturer
+- **Globally ranked No. 2 in EMS:** second only to Foxconn (Hon Hai), ahead of Quanta and Wistron
+- **iPhone contract manufacturing share:** approximately 25–30%, Apple's second-largest manufacturing partner
+- **Gaming console manufacturing:** major manufacturer of Nintendo Switch and Sony PlayStation
+- **Laptop ODM market share:** approximately 15%, third-largest laptop contract manufacturer globally
 
-**Client Portfolio**:
+**Client composition:**
 
-- **Apple**: Largest client, ~45-50% of revenue
-- **Microsoft**: Xbox and Surface series products
-- **Nintendo**: Switch gaming console series
-- **Sony**: PlayStation and consumer electronics
-- **Google, Amazon, other brand clients**
+- **Apple:** largest client, accounting for approximately 45–50% of revenue
+- **Microsoft:** Xbox and Surface product lines
+- **Nintendo:** Switch gaming console series
+- **Sony:** PlayStation and consumer electronics products
+- **Google, Amazon, and other brand clients**
 
-## Development Journey: From ASUS DNA to Manufacturing Empire
+## Development History: From ASUS DNA to Contract Manufacturing Dominance
 
-### ASUS Era Accumulation (2000-2008)
+### The ASUS Era of Accumulation (2000–2008)
 
-Pegatron's story begins with ASUS. In the early 2000s, ASUS Group faced a structural conflict between brand business and contract manufacturing: the brand division wanted higher profit margins while the manufacturing division needed competitive pricing to win orders.
+Pegatron's story begins with ASUS. In the early 2000s, a structural tension existed within the ASUS Group between its brand business and its contract manufacturing business: the brand division sought higher margins, while the contract division needed to maintain price competitiveness to win orders.
 
-This contradiction peaked in 2005 when ASUS simultaneously manufactured Apple's iBook while launching its own branded laptops competing with Apple, causing client dissatisfaction.
+This tension reached a peak in 2005, when ASUS was simultaneously manufacturing iBooks for Apple under contract while launching its own branded laptops to compete with Apple, provoking client dissatisfaction.
 
-### Spinoff Independence (2008-2010): The Beginning of Specialization
+### The Spin-Off (2008–2010): The Beginning of Specialization
 
-In 2007, ASUS Group made a crucial decision: completely separate brand and manufacturing businesses. In June 2008, Pegatron Corporation was officially established under T.H. Tung's leadership, inheriting all of ASUS's contract manufacturing operations.
+In 2007, the ASUS Group made an important decision: to fully separate its brand and contract manufacturing businesses. In June 2008, Pegatron Corporation was formally established, with T.H. Tung serving as chairman and taking over all of ASUS's contract manufacturing business.
 
-**Key Significance of the Spinoff**:
+**The key significance of the spin-off:**
 
-- Resolved conflicts between brand and manufacturing interests
-- Allowed Pegatron to focus on developing manufacturing technology and client relationships
-- Laid groundwork for subsequent Apple order acquisitions
+- Resolving the conflict of interest between the brand and contract manufacturing sides
+- Enabling Pegatron to focus on developing contract manufacturing technology and client relationships
+- Laying the groundwork for subsequently winning Apple orders
 
-### Apple Partnership (2010-2015): Golden Era of Contract Manufacturing
+### Apple Partnership (2010–2015): The Golden Age of Contract Manufacturing
 
-In 2010, Pegatron successfully entered Apple's supply chain, beginning iPhone 4 manufacturing. This marked Pegatron's transformation from a general contract manufacturer to a "strategic partner."
+In 2010, Pegatron successfully entered Apple's supply chain and began manufacturing the iPhone 4. This marked Pegatron's transformation from a general contract manufacturer to a "strategic partner."
 
-**Apple Collaboration Milestones**:
+**Apple collaboration milestones:**
 
-- **2010**: Began manufacturing iPhone 4
-- **2012**: Secured major iPhone 5c contract manufacturing orders
-- **2013**: Expanded manufacturing to iPad and MacBook
-- **2015**: Became primary manufacturer for iPhone 6 Plus
+- **2010:** Begins manufacturing iPhone 4
+- **2012:** Wins the main contract manufacturing order for the iPhone 5c
+- **2013:** Contract manufacturing scope expanded to iPad and MacBook
+- **2015:** Becomes main manufacturer of the iPhone 6 Plus
 
-During this period, Pegatron's revenue grew rapidly from approximately NT$300 billion in 2008 to NT$1.2 trillion in 2015.
+During this period, Pegatron's revenue grew rapidly, from approximately NT$300 billion in 2008 to NT$1.2 trillion in 2015.
 
-### Diversification Strategy (2015-2020): Reducing Client Concentration Risk
+### Diversification (2015–2020): Reducing Customer Concentration Risk
 
-After 2015, Pegatron actively expanded non-Apple clients to reduce dependency on a single customer:
+After 2015, Pegatron began actively expanding non-Apple clients to reduce dependence on a single customer:
 
-**Major Client Expansion**:
+**Key client expansion:**
 
-- **Microsoft**: Xbox One, Surface series
-- **Nintendo**: Switch gaming console (from 2017)
-- **Google**: Pixel phones, Nest smart home devices
-- **Amazon**: Echo smart speakers, Kindle e-readers
+- **Microsoft:** Xbox One and Surface series
+- **Nintendo:** Switch gaming console (from 2017)
+- **Google:** Pixel smartphones and Nest smart home products
+- **Amazon:** Echo smart speakers and Kindle e-readers
 
-### Smart Transformation (2020-Present): From Manufacturing to Services
+### Intelligent Transformation (2020–present): From Manufacturing to Services
 
-During the COVID-19 pandemic, Pegatron demonstrated excellent supply chain management capabilities, maintaining stable shipments while global manufacturing was widely impacted.
+During the COVID-19 pandemic, Pegatron demonstrated outstanding supply chain management capabilities, maintaining stable shipments even as global manufacturing was widely disrupted.
 
-**Transformation Focus Areas**:
+**Transformation priorities:**
 
-- **Smart Manufacturing**: Implementing AI and IoT technologies to improve production efficiency
-- **Sustainable Development**: Commitment to achieving carbon neutrality by 2050
-- **Service Extension**: Expanding from pure manufacturing to logistics, repair, recycling, and other services
+- **Smart manufacturing:** Introducing AI and IoT technology to improve production efficiency
+- **Sustainable development:** Commitment to achieving carbon neutrality by 2050
+- **Service extension:** Expanding from pure manufacturing into logistics, repair, and recycling services
 
-## Global Impact: The Invisible Pillar of Supply Chains
+## Global Influence: The Invisible Pillar of the Supply Chain
 
 ### Manufacturing Technology Innovator
 
-Pegatron is not just an "assembly factory" but a manufacturing technology innovator:
+Pegatron is not just an "assembly factory" — it is also an innovator in manufacturing technology:
 
-**Precision Manufacturing Technology**:
+**Precision manufacturing technology:**
 
-- Masters 0.1mm precision mechanical design and manufacturing technology
-- Developed unmanned production lines dramatically improving efficiency
-- Established fully automated testing systems ensuring consistent product quality
+- Mastery of structural design and manufacturing with 0.1mm precision
+- Development of unmanned production lines to significantly improve production efficiency
+- Establishment of fully automated testing systems to ensure consistent product quality
 
-**Supply Chain Management**:
+**Supply chain management:**
 
-- Manages over 2,000 global suppliers
-- Built real-time supply chain monitoring systems reducing supply interruption risks
-- Promotes supplier sustainable development, requiring environmental and labor standards compliance
+- Managing over 2,000 global suppliers
+- Building real-time supply chain monitoring systems to reduce supply disruption risk
+- Promoting sustainable development among suppliers, requiring compliance with environmental and labor standards
 
 ### Global Manufacturing Network
 
-**Strategic Layout**:
-Pegatron has built a manufacturing network spanning four continents, capable of flexibly responding to geopolitical risks:
+**Strategic positioning:**
+Pegatron has built a manufacturing network spanning four continents, able to flexibly respond to geopolitical risks:
 
-- **Asia Region**: Taiwan (R&D headquarters), mainland China (primary manufacturing base)
-- **Europe Region**: Czech Republic (serving European markets)
-- **Americas Region**: Mexico (USMCA duty-free benefits)
-- **Southeast Asia Region**: Indonesia (emerging market manufacturing)
+- **Asia:** Taiwan (R&D headquarters), mainland China (main manufacturing base)
+- **Europe:** Czech Republic (serving the European market)
+- **Americas:** Mexico (USMCA tariff-free benefits)
+- **Southeast Asia:** Indonesia (emerging market manufacturing)
 
-**Localization Strategy**:
-Targeting different market needs, Pegatron adopts a "global production, local supply" strategy, reducing logistics costs while avoiding trade risks.
+**Localization strategy:**
+Tailoring to different market needs, Pegatron adopts a "global production, local supply" strategy that simultaneously reduces logistics costs and mitigates trade risks.
 
-### Industrial Ecosystem Impact
+### Industry Ecosystem Impact
 
-**Driving Upstream Development**:
-Pegatron's success has driven the development of Taiwan's precision machinery, electronic components, mold manufacturing, and other upstream industries, creating comprehensive industrial cluster effects.
+**Driving upstream development:**
+Pegatron's success has driven the development of Taiwan's upstream industries including precision machinery, electronic components, and mold manufacturing, creating a complete industrial cluster effect.
 
-**Technology Standards Participation**:
-As an important partner for Apple, Microsoft, and other major companies, Pegatron participates in establishing numerous international technology standards, enhancing Taiwan's voice in the global tech industry.
+**Technical standard-setting:**
+As an important partner of Apple, Microsoft, and other major companies, Pegatron has participated in the development of many international technical standards, enhancing Taiwan's voice in the global technology industry.
 
-## Challenges and Outlook: Finding New Opportunities Amid Change
+## Challenges and Outlook: Finding New Opportunities in a Changed Landscape
 
 ### Current Challenges
 
-**Client Concentration Risk**:
-Despite years of effort, Apple still accounts for nearly half of Pegatron's revenue. High client concentration remains an issue, with any Apple business fluctuations directly affecting Pegatron's performance.
+**Customer concentration risk:**
+Despite years of effort, Apple still accounts for nearly half of Pegatron's revenue. High customer concentration remains an issue. Any fluctuation in Apple's business directly affects Pegatron's performance.
 
-**Geopolitical Pressure**:
-Intensifying US-China tech competition puts Taiwan contract manufacturers under pressure. Pegatron must maintain mainland China capacity while accommodating client supply chain "de-risking" requirements.
+**Geopolitical pressure:**
+Intensifying US-China technology competition places pressure on Taiwan's contract manufacturers caught in the middle. Pegatron must maintain capacity on the Chinese mainland while also accommodating client demands for supply chain "de-risking."
 
-**Rising Cost Pressures**:
-Rising labor costs, stricter environmental regulations, and raw material price volatility all challenge contract manufacturing cost control.
+**Rising cost pressures:**
+Rising labor costs, stricter environmental regulations, and raw material price volatility all challenge the cost control capabilities of the contract manufacturing business.
 
-**Technology Transformation Needs**:
-Transitions from 4G to 5G and traditional to smart manufacturing require substantial investment, creating significant burden for medium-sized enterprises.
+**Technology transformation requirements:**
+From 4G to 5G, from traditional manufacturing to smart manufacturing, rapid technological change requires heavy investment — a significant burden for a mid-sized enterprise.
 
 ### Future Opportunities
 
-**5G and IoT Explosion**:
-5G commercialization will drive new rounds of smartphone and IoT device upgrades. Pegatron's technical expertise in communications product manufacturing positions it to benefit from this trend.
+**5G and IoT surge:**
+5G commercialization will trigger a new cycle of smartphone and IoT device upgrades. With its technical accumulation in communications product contract manufacturing, Pegatron is positioned to benefit from this trend.
 
-**Electric Vehicle Supply Chain**:
-Automotive electronics trends dramatically increase electric vehicles' electronic component demand. Pegatron has begun entering automotive electronics manufacturing to capture this emerging market.
+**Electric vehicle supply chain:**
+As vehicles become increasingly electronic, demand for electronic components in electric vehicles is growing significantly. Pegatron has already begun positioning in automotive electronics contract manufacturing, seeking an early share of this emerging market.
 
-**AI and Edge Computing**:
-AI application proliferation will drive demand for edge computing devices. Pegatron's manufacturing technology and client relationships position it as an important player in this market.
+**AI and edge computing:**
+Widespread AI adoption will drive demand for edge computing devices. Pegatron's manufacturing technology and client relationships give it an opportunity to become a major participant in this market.
 
-**India Manufacturing Rise**:
-As "Make in India" policies advance, Pegatron is evaluating India factory possibilities to ride India's market growth momentum.
+**India manufacturing expansion:**
+As the "Make in India" initiative advances, Pegatron is evaluating the possibility of establishing facilities in India to capitalize on the growth of the Indian market.
 
-**Sustainable Manufacturing Advantages**:
-Rising ESG concepts make green manufacturing-capable contract manufacturers more attractive to brand clients. Pegatron's sustainability commitments could translate into competitive advantages.
+**Sustainable manufacturing advantage:**
+With the rise of ESG awareness, contract manufacturers with green manufacturing capabilities will be increasingly favored by brand clients. Pegatron's sustainable development commitments have the potential to translate into a competitive advantage.
 
-**Service Transformation**:
-Transitioning from pure manufacturing to "manufacturing + services" models, providing design, logistics, repair, and recycling full-lifecycle services to improve client retention and profit margins.
+**Service-oriented transformation:**
+Moving from pure manufacturing to a "manufacturing plus services" model — offering design, logistics, repair, and recycling services across the product lifecycle — to improve client stickiness and profit margins.
 
-## Conclusion: A Representative of Taiwan Manufacturing Transformation
+## Conclusion: A Representative Case of Taiwan's Manufacturing Transformation
 
-Pegatron's story reflects Taiwan manufacturing's transformation journey from "contract manufacturing" toward "value creation." When spun off from ASUS, Pegatron was just another electronics contract manufacturer; today, it has become an indispensable strategic partner for global tech brands.
+Pegatron's story reflects the transformation of Taiwan's manufacturing industry from "contract manufacturing" to "value creation." When it was spun off from ASUS, Pegatron was merely an ordinary electronics contract manufacturer; today it has become an indispensable strategic partner for global technology brands.
 
-The key to this transformation lies not in scale expansion, but capability enhancement. Pegatron no longer merely "builds to blueprints" as a manufacturer, but participates in product design, optimizes manufacturing processes, and manages complex supply chains as a "solution provider." It has proven through action: Taiwan's manufacturing industry has the capability to occupy higher positions in the global value chain.
+The key to this change lies not in growth in scale but in the enhancement of capability. Pegatron is no longer merely a manufacturer that "builds to print" — it is a "solution provider" capable of participating in product design, optimizing manufacturing processes, and managing complex supply chains. It has demonstrated in practice that Taiwan's manufacturing industry is capable of occupying a higher position in the global value chain.
 
-Today, when we discuss Taiwan manufacturing's future, Pegatron's experience provides important insights: the key to success lies not in pursuing lowest costs, but in providing highest value. In an increasingly complex globalized world, brand clients need not just manufacturers, but partners capable of solving complex problems.
+When we discuss the future of Taiwan's manufacturing industry today, Pegatron's experience offers an important lesson: success does not lie in pursuing the lowest cost but in delivering the highest value. In an increasingly complex globalized world, what brand clients need is not just a manufacturer but a partner capable of solving complex problems.
 
-Pegatron's invisible champion status tells us: in an age of global division of labor, quietly excelling at your specialty and perfecting it creates opportunities to become an indispensable part of the world. This is Taiwan manufacturing's most precious spirit, and the fundamental reason Pegatron can distinguish itself in fierce competition.
+Pegatron's invisible champion status tells us: in an era of global division of labor, quietly doing your specialized work exceptionally well gives you the chance to become an indispensable part of the world. This is precisely the most precious spirit of Taiwan's manufacturing industry, and the fundamental reason Pegatron has been able to stand out in fierce competition.
 
 ---
 
 ## References
 
-1. Pegatron Corporation Official Website (https://www.pegatroncorp.com/)
-2. "The Big Five Electronics Manufacturers: Taiwan Contract Manufacturing's Global Impact," Business Weekly Publications, 2023
+1. Pegatron Corporation official website (https://www.pegatroncorp.com/)
+2. _The Big Five: The Global Influence of Taiwan's Contract Manufacturing Industry_, Business Weekly Publishing, 2023
 3. IDC "Worldwide EMS Market Analysis" 2024 Report
 4. Gartner "Market Share Analysis: Electronics Manufacturing Services, Worldwide, 2024"
-5. Pegatron Corporation Annual Reports, 2023-2024
+5. Pegatron Corporation Annual Report, 2023–2024
 6. TrendForce "Global EMS Industry Analysis" 2024
-7. "Contract Manufacturing Transformation: Taiwan Manufacturing's Next Step," Commonwealth Culture, 2022
-8. Wikipedia: Pegatron (https://en.wikipedia.org/wiki/Pegatron)
+7. _Contract Manufacturing Transformation: The Next Step for Taiwan's Manufacturing Industry_, Commonwealth Publishing, 2022
+8. Wikipedia: Pegatron Corporation (https://zh.wikipedia.org/zh-hant/和碩聯合科技)
 9. "T.H. Tung's Management Philosophy," Business Weekly, 2023

@@ -1038,6 +1038,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 DNA #32「集中預處理 + 分散執行」也補第 6 次驗證 marker（5 cycles × 50 EN 全部 frontmatter 100% 正確）。
 
+### 🏛️ 2026-05-01 γ → distilled into DNA #35 + #21 延伸 + TRANSLATION-PIPELINE v3.5
+
+| #   | 原 candidate                                            | 升 canonical                                                                                                              |
+| --- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | 跨 session work 期間 git destructive ops 是新型 footgun | **DNA #35** + TRANSLATION-PIPELINE v3.5 §C 模式 P0 鐵律                                                                   |
+| 2   | 跨語言 slug 復用是 SSOT 自然延伸                        | **DNA #21 延伸**（從「個體 self-document」→「已有翻譯的 path 是其他語言的 slug source」）+ `slug-map-from-en.json` 工具化 |
+| 3   | Donut bug v2：邊界 zone 不只 100% 是 99-100% 整段       | **DNA #34 v2 補強**（threshold ≥99 + 顯式 circumference）+ pipeline 內聯 fix                                              |
+| 4   | 10 agents parallel 沒撞 rate limit，throughput 翻倍     | **TRANSLATION-PIPELINE v3.4 §批次規模** 的實證上限數據                                                                    |
+
+**未升 canonical（continued LESSONS-INBOX，待累積驗證）**：
+
+#### 2026-05-01 γ — 觀察者用問句把判斷責任交還，比直接糾正更能讓 Semiont 內化教訓
+
+- **原則**：好的觀察者 mode 不是「你錯了」，是「不會 X 嗎」這類問句。把判斷的責任交還，讓 agent 自己檢查、自己發現。Internalization > correction。
+- **觸發**：2026-05-01 γ session，10 ja agents 跑批中，主 session 跑了 `git reset --hard`。哲宇沒直接糾正，問了一句「你剛剛這樣切 festive-chaum-fe6b23 不會影響到日文 agent 嗎」。我立即自檢發現 14 篇 stale work 被抹掉，主動寫進 memory + DNA #35。
+- **可能層級**：哲學層 → 候選 MANIFESTO §觀察者哲學（如果累積 3+ 次驗證）；目前只 1 次 — 留 LESSONS-INBOX
+- **verification_count**: 1
+- **severity**: structural
+
+#### 2026-05-01 γ — Token budget 應優先於 agent 數量規劃 batch sizing
+
+- **原則**：5 → 10 agents parallel 沒撞 rate limit，瓶頸是 token total 不是 agent count。Batch sizing rule 應該按 token total 規劃。
+- **觸發**：2026-05-01 γ JA batch 10×10 平均 87K/agent 總 870K 沒撞限。EN 5×10 平均 130K 總 650K 也沒撞。
+- **可能層級**：操作規則 → TRANSLATION-PIPELINE v3.5+ §批次規模可加「token-based sizing rule」
+- **verification_count**: 1
+- **severity**: tactical
+
 ---
 
 ## ✅ 已消化（保留 pointer）

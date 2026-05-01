@@ -9,6 +9,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:872bba83b389ef58'
+translatedAt: '2026-05-01T15:38:13+08:00'
+subcategory: '企業列傳'
 ---
 
 > **30-Second Overview**

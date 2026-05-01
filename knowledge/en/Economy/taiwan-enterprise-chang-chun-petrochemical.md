@@ -9,6 +9,10 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：長春石化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a4e3dd0ffdb02185'
+translatedAt: '2026-05-01T15:38:13+08:00'
+subcategory: '企業列傳'
 ---
 
 > **30-Second Overview:** In 1949, Liao Ding-li founded Chang Chun Chemical in Tainan, growing from a small workshop to a global chemical conglomerate with annual revenues of NT$430 billion. For 75 years, the company has maintained its "no public listing, no debt" philosophy, with 80% self-developed technology, making it one of Taiwan's rare hidden champions that thrives between European and American chemical giants.

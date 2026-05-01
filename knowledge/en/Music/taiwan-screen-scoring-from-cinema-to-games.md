@@ -1,6 +1,10 @@
 ---
-title: 'Taiwan Screen Scoring: From Cinema Soundtracks to Game Worlds'
-description: 'How Taiwan built a distinctive audiovisual language—from Hou Hsiao-hsien and Lim Giong’s minimalist collaborations to epic film scores and the global rise of Rayark’s game music.'
+translatedFrom: 'Music/台灣影視配樂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6cbe8cc1264f871a'
+translatedAt: '2026-05-01T15:38:13+08:00'
+title: 'Taiwan Screen Scoring: The Sound Aesthetics from Cinema to Game Music'
+description: "Exploring the development of Taiwan's screen scoring, from Hou Hsiao-hsien and Lim Giong's collaboration to Wei Te-sheng and Fan Tsung-pei's epic scores, to Rayark Games' innovation in game music — how Taiwan built its own cinematic sound language"
 date: 2026-03-19
 tags:
   [
@@ -10,130 +14,229 @@ tags:
     'Hou Hsiao-hsien',
     'Lim Giong',
     'Fan Tsung-pei',
-    'Rayark',
+    'Rayark Games',
   ]
+subcategory: '音樂產業'
 author: 'Taiwan.md'
 readingTime: 14
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
-translatedFrom: 'Music/台灣影視配樂.md'
+lastHumanReview: false
 ---
 
-# Taiwan Screen Scoring: From Cinema Soundtracks to Game Worlds
+# Taiwan Screen Scoring: The Sound Aesthetics from Cinema to Game Music
 
-## 30-Second Snapshot
+## 30-Second Overview
 
-Taiwan’s screen music grew into its own language in the 1990s, when director **Hou Hsiao-hsien** and composer **Lim Giong (林強)** broke away from conventional, melodramatic scoring. Their collaboration ushered in a minimalist, environmental approach that treated sound as part of the image. In the 2000s, **Fan Tsung-pei (范宗沛)** helped build large‑scale orchestral scores for films like _Cape No. 7_ and _Seediq Bale_, raising production standards. In the 2010s, **Rayark (雷亞遊戲)** proved Taiwan could lead globally in **game music**, especially through titles like _Deemo_ and _Cytus_. The Golden Horse Awards’ **Best Original Film Score** category further professionalized the field.
+Taiwan's screen scoring began building its own aesthetic language in the 1980s. The cross-boundary collaboration between director [Hou Hsiao-hsien](/en/People/hou-hsiao-hsien/) and Lim Giong (林強, zh only) opened a new chapter in Taiwanese film music. [Wei Te-sheng](/en/People/wei-te-sheng-taiwanese-epic-filmmaker/) and Fan Tsung-pei (范宗沛, zh only) brought epic scores to an international production standard, while [Rayark Games](/en/Technology/rayark-games/) earned high acclaim in the global gaming community for its game soundtracks. The establishment of the Golden Horse Award for Best Original Film Score further drove the professionalization of Taiwan's screen scoring.
 
-**Keywords:** film scoring, Hou Hsiao-hsien, Lim Giong, Fan Tsung-pei, Rayark, Golden Horse Awards, Taiwanese cinema
+**Keywords:** film scoring, Hou Hsiao-hsien, Lim Giong, Fan Tsung-pei, Rayark Games, Golden Horse Awards, Taiwanese cinema
 
 ## Why It Matters
 
-Taiwan’s screen music is a mirror of its cultural maturation. It moved from borrowing Hong Kong’s pop-driven templates to building a distinctive audiovisual vocabulary. That shift didn’t just elevate Taiwanese cinema’s artistic profile—it nurtured composers who now shape standards across the Chinese‑language film and game industries. This is soft power: sound as a form of cultural identity.
+The development of Taiwan's screen scoring reflects the maturity and innovative capacity of Taiwan's cultural industries. From early imitation of Hong Kong-style scoring to building a distinctive Taiwanese sound aesthetic, this process not only enhanced the international competitiveness of Taiwanese cinema but also cultivated a generation of world-class scoring talent that raised music production standards across the entire Chinese-language film and television world.
 
-## Early Stage (1980s–1990): Borrowed Sounds, Searching for a Voice
+## The Formative Period: Western Classical and Hong Kong Pop Influence (1980–1990)
 
-In the early 1980s, Taiwanese film scores leaned on two dominant traditions: the orchestral grandeur of Hollywood and the pop‑song montage style of Hong Kong cinema. Many films simply licensed popular songs or mimicked Western symphonic cues. The resulting soundtracks were effective but rarely Taiwanese in character.
+### Early Taiwanese Film Scoring's Exploration
 
-Composer **Weng Ching‑hsi (翁清溪)**, known for scoring romance films such as _A Story of Small Town_ (1979), shaped the era’s emotional tone, but the sonic palette was still largely inherited rather than authored.
+In the early 1980s, Taiwanese film scoring was primarily shaped by two major influences: the orchestral tradition of Hollywood cinema and the pop-music style of Hong Kong films. Many Taiwanese films used ready-made pop songs or imitated Western classical-scoring techniques.
 
-The **Taiwan New Cinema** movement began to disrupt this approach. As directors pursued realism and contemplation, they began to treat music not as wallpaper but as narrative architecture.
+Representative figures of this period included **Weng Ching-hsi**, whose scores for Qiong Yao films such as _A Home Far Away_ (1979) established the emotional tone of early Taiwanese film music. These works, however, had yet to develop a distinctly Taiwanese character.
 
-## The Breakthrough (1990s): Hou Hsiao-hsien × Lim Giong
+### Musical Exploration of the New Cinema Movement
 
-### _Goodbye South, Goodbye_ as a Turning Point
+The 1982 film _In Our Time_ marked the beginning of Taiwan's New Cinema movement, and this creative wave drove renewal in film scoring as well. Directors began to value music's function in film — no longer merely as emotional amplification but as an organic component of storytelling.
 
-The watershed arrived in 1996 with Hou Hsiao‑hsien’s _Goodbye South, Goodbye_. The director invited **Lim Giong**, a Taiwanese pop singer known for the hit “Marching Forward (向前走),” to score the film. The result was radical: electronic textures, ambient field recordings, and sparse motifs that let silence speak.
+## The Breakthrough Period: Hou Hsiao-hsien and Lim Giong's Cross-Boundary Revolution (1990–2000)
 
-Instead of telling audiences what to feel, the score **created space** for them to feel. It captured the humid, drifting mood of Taiwan’s south and blurred the boundary between soundtrack and environment.
+### The Epoch-Making Significance of _Goodbye South, Goodbye_
 
-### Lim Giong’s Aesthetic Language
+In 1996, [Hou Hsiao-hsien](/en/People/hou-hsiao-hsien/) invited Lim Giong (林強, zh only) to score _Goodbye South, Goodbye_ — a collaboration that opened a new era in Taiwanese film music. Lim Giong was originally a Taiwanese-language pop singer known for songs like "Walk Forward" (向前走), and crossing over into film scoring was a bold experiment.
 
-Lim’s style reshaped Taiwanese screen music:
+The score Lim Giong created for the film blended electronic music, ambient sound design, and Taiwanese indigenous music elements to evoke a distinctive southern Taiwanese atmosphere. This experimental approach to scoring perfectly complemented Hou Hsiao-hsien's long-take aesthetic, creating an unprecedented audiovisual experience.
 
-- **Minimalism:** long pauses, restrained themes, and purposeful quiet
-- **Environmental sound:** location audio as musical material
-- **Electronic–traditional fusion:** synthesizers alongside local instruments
-- **Local texture:** the timbre of Taiwan itself—street noise, dialect, humidity
+### The Distinctive Features of Lim Giong's Scoring Aesthetic
 
-### International Recognition
+Lim Giong's film scores exhibit several striking characteristics:
 
-Hou and Lim’s collaboration was celebrated at major festivals like Cannes and Venice. The praise signaled that Taiwanese film music had become more than accompaniment—it was a poetic, internationally legible language.
+- **Minimalism**: Extensive use of silence, allowing sound and image to enter into natural dialogue
+- **Ambient music**: Emphasis on location sound recording, incorporating environmental audio as part of the score
+- **Electronic and traditional fusion**: Skillful blending of synthesizers and traditional instruments
+- **Taiwanese identity**: Incorporating musical elements and cultural symbols unique to Taiwan
 
-## The Epic Era (2008–2012): Fan Tsung‑pei’s Cinematic Scale
+### Recognition at International Film Festivals
 
-### _Cape No. 7_ and the Power of Sentiment
+Lim Giong's film scores received high praise at international festivals. At the Cannes and Venice Film Festivals, the scoring of _Goodbye South, Goodbye_ stood out as a major highlight. This proved that Taiwanese film music had developed a distinctive aesthetic language capable of competing with world-class works on the international stage.
 
-In 2008, _Cape No. 7_ became a box‑office phenomenon. **Fan Tsung‑pei**’s score blended orchestral writing with Taiwanese folk melodies and hints of Japanese music. The theme “No Music, No Life (無樂不作)” (performed by **Natsukawa Rimi**) became a national hit, proving that a film score could stand as a pop-cultural artifact on its own.
+### Follow-Up Collaborations and Influence
 
-### _Seediq Bale_ and Indigenous Resonance
+The successful partnership between Lim Giong and Hou Hsiao-hsien encouraged more cross-boundary experimentation. Other directors began inviting non-traditional scorers into film music creation, including rock musicians and electronic music producers. This openness enriched the diversity of Taiwanese film music.
 
-For the 2011 historical epic _Seediq Bale_, Fan composed a full symphonic score with choir and incorporated **Seediq Indigenous** vocal elements and instruments like the **jaw harp (口簧琴)**. The music didn’t just dramatize battle—it carried cultural memory.
+## The Epic Era: Wei Te-sheng and Fan Tsung-pei's Grand Compositions (2008–2012)
 
-Fan’s approach emphasized **leitmotif**: themes tied to characters and moral arcs. This helped Taiwan’s film scoring reach international production standards.
+### The Music Miracle of _Cape No. 7_
 
-## Golden Horse Awards: Institutionalizing the Craft
+In 2008, [Wei Te-sheng's](/en/People/wei-te-sheng-taiwanese-epic-filmmaker/) _Cape No. 7_ created a box-office miracle in Taiwanese film history, thanks in large part to its moving score. Composer Fan Tsung-pei (范宗沛, zh only) created a score that combined classical orchestration, Taiwanese folk music, and Japanese musical elements.
 
-Since 1996, the Golden Horse Awards have included **Best Original Film Score**. The category elevated the profession, creating a visible trajectory from experimental work to large‑scale productions:
+The film's theme was performed by Nakamori Kosuke (中孝介, zh only), whose tender melody, matched with the film's emotional thread, became one of that year's most beloved film songs. The score not only enhanced the drama but became a beloved independent musical work.
 
-- **Late 1990s:** Lim Giong’s experimental electronic textures
-- **2000s:** orchestral and hybrid scores for mainstream cinema
-- **2010s–present:** diverse aesthetics, from Hakka-inspired scores to minimalist sound design
+### The Epic Score of _Warriors of the Rainbow: Seediq Bale_
 
-Recognition brought legitimacy and drew more musicians into the field.
+[Wei Te-sheng's](/en/People/wei-te-sheng-taiwanese-epic-filmmaker/) other landmark film, _Warriors of the Rainbow: Seediq Bale_ (2011), was even more ambitious in its scoring. Fan Tsung-pei (范宗沛, zh only) created a large-scale score for this epic film, deploying a full symphony orchestra and chorus.
 
-## Television: From Idol Drama to Prestige Sound
+The score blended multiple elements:
 
-The early 2000s idol drama boom built a commercial market for TV soundtracks. Shows like _Meteor Garden_ (2001) turned theme songs into national anthems.
+- **Indigenous music**: Seediq traditional music elements and ancient chants
+- **Epic orchestration**: Drawing on Hollywood epic-film scoring techniques
+- **Taiwanese indigenous instruments**: Incorporating traditional instruments such as the jaw harp (口簧琴)
+- **Modern electronic effects**: Creating the visceral impact of battle scenes
 
-In recent years, prestige dramas like _The World Between Us_ (2019) and _Gold Leaf_ (2021) have moved beyond licensed pop tracks, commissioning original scores that shape narrative tone and period texture.
+### Fan Tsung-pei's Scoring Philosophy
 
-## Game Music: Taiwan’s Global Breakthrough
+Fan Tsung-pei (范宗沛, zh only) emphasized that scoring should serve the story rather than merely display musical technique. His scores have a strong narrative quality, with each thematic melody corresponding to specific characters or situations. This use of leitmotifs brought Taiwanese film scoring to international production standards.
 
-### Rayark’s Music‑First Philosophy
+## The Driving Force of the Golden Horse Awards (1996–Present)
 
-Taiwanese studio **Rayark (雷亞遊戲)** redefined game music. Titles such as _Cytus_, _Deemo_, and _Voez_ treat music not as background but as the game’s core experience. The soundtrack quality rivals standalone albums.
+### Establishment of the Best Original Film Score Award
 
-### _Deemo_: Classical × Electronic
+In 1996, the Golden Horse Awards established the "Best Original Film Score" category, encouraging the professionalization of film scoring. The creation of this award marked the Taiwanese film industry's formal recognition of the importance of scoring.
 
-Released in 2013, _Deemo_ fused classical piano, orchestral writing, and electronic atmospheres. The theme song “ANiMA” surpassed **20 million views** on YouTube, signaling Taiwan’s arrival in global game music culture.
+### Stylistic Evolution of Award-Winning Works
 
-### _Detention_ and the Sound of a Haunted Era
+Looking at the Golden Horse Award winners for Best Original Film Score over the years, one can trace the evolution of Taiwan's film scoring styles:
 
-The 2017 horror game _Detention_ blends 1960s Taiwanese melodies with unsettling electronic sound design. Composer **Zhang Wei‑fan (張衞帆)** reworked the classic Taiwanese song “Moonlit Sorrow (月夜愁),” using cultural memory to heighten psychological dread for global audiences.
+**1996–2000: Exploration Period**
 
-### The OPUS Series
+- _Goodbye South, Goodbye_ (Lim Giong 林強): Experimental electronic score
+- _Happy Together_ (Chen Hsun-chi 陳勳奇, zh only): Emotionally nuanced classical score
 
-Rayark’s _OPUS_ series embraces a cinematic, minimalist style—space‑like reverbs, slow‑burn strings, and a sense of cosmic isolation—showing how Taiwanese game music can be both experimental and emotionally universal.
+**2001–2010: Maturation Period**
 
-## Technology and Production Shifts
+- _Crouching Tiger, Hidden Dragon_ (Tan Dun 譚盾, zh only): East-West fusion wuxia score
+- _Cape No. 7_ (Fan Tsung-pei 范宗沛): Balancing commercial and artistic considerations
 
-- **DAWs and virtual instruments** lowered barriers to entry, enabling indie composers to craft cinematic scores.
-- **Surround sound standards** in theaters (5.1/7.1) increased demand for immersive mixes.
-- **Streaming platforms** raised the bar for original music in serialized content.
+**2011 to Present: Pluralism Period**
 
-## Emerging Trends and Challenges
+- _Warriors of the Rainbow: Seediq Bale_ (Ricky Ho and Fan Tsung-pei 范宗沛): Epic-scale production
+- _The Bold, The Corrupt, and The Beautiful_ (Lin Sheng-xiang): Fusion of Hakka music and cinema
 
-- **Cross‑disciplinary collaboration:** pop artists like **Sandy Lam (林憶蓮)**, **Sandee Chan (陳珊妮)**, and **9m88** contribute to scores, diversifying perspectives.
-- **AI‑assisted composition** is appearing as a workflow tool, though still controversial.
-- **Copyright complexity** increases as works travel across borders and platforms.
+### Driving Industry Professionalization
 
-## Cultural Impact: A Sound Image of Taiwan
+Recognition by the Golden Horse Awards elevated the status of Taiwanese scorers and attracted more musicians to film scoring. Many award winners subsequently became prominent scoring figures across the Chinese-language film world, extending their influence to Hong Kong and mainland China.
 
-From Hou and Lim’s minimalism to Rayark’s global reach, Taiwan’s screen music tells a story of cultural confidence. It proves that **local texture can be international**—that the sound of a place, its dialects, its streets, and its quiet can carry meaning across borders.
+## Development of Television Drama Scoring (2000–Present)
 
-In Taiwan, music for images and games is not just a technical craft; it is a way of writing memory into sound. The next chapter will likely be shaped by deeper cross‑cultural collaboration, immersive media, and new storytelling technologies—but the core impulse remains the same: **to make Taiwan audible to the world**.
+### Commercial Success of Idol Drama Scoring
+
+The rise of Taiwanese idol dramas in the 2000s drove the development of television drama scoring. Original soundtracks from dramas like _Meteor Garden_ (2001) and _Lavender_ (2001) sold in stunning quantities, demonstrating the commercial value of screen music.
+
+These idol dramas typically invited well-known singers to perform theme songs — such as F4 (zh only) performing "Meteor Rain" (流星雨) and Fish Leong (梁靜茹, zh only) performing "Breaking Up Is a Bittersweet Pain" (分手快樂) — becoming cross-media pop culture phenomena.
+
+### Refinement of Recent Television Drama Scoring
+
+In recent years, Taiwanese television dramas have placed greater emphasis on professional scoring. Dramas such as _The World Between Us_ (2019) and _Gold Leaf_ (2021) invited professional composers to create original scores rather than assembling ready-made songs.
+
+## Game Music: Taiwan's New Voice on the International Stage (2010–Present)
+
+### Rayark Games' Music Revolution
+
+Taiwanese game company [Rayark Games](/en/Technology/rayark-games/) has earned international acclaim in game music. The soundtracks of its flagship titles _Cytus_, _Deemo_, and _Voez_ attain the production quality of professional music albums.
+
+### _Deemo_'s Fusion of Classical and Electronic
+
+Released in 2013, _Deemo_ combined piano music with visual storytelling. Its score blended classical piano, electronic music, and orchestral elements. The game's music was composed collaboratively by multiple composers, including Yann van der Cruyssen (zh only), a prominent Japanese composer.
+
+The game's theme song "ANiMA" has accumulated over 20 million YouTube views, demonstrating the international impact of Taiwanese game music.
+
+### _Detention_'s Creation of Horrific Atmosphere
+
+The 2017 horror game _Detention_ cleverly combined musical elements from 1960s Taiwan with modern electronic sound design. Composer Weifan Chang (張衞帆, zh only) used the traditional Taiwanese folk song "Moonlit Night Grief" (月夜愁) as the central melody, creating a musical atmosphere that is simultaneously nostalgic and uncanny.
+
+This localized scoring approach not only served the game's narrative but also presented Taiwan's cultural character to international players.
+
+### OPUS Series' Experimental Spirit
+
+[Rayark Games'](/en/Technology/rayark-games/) OPUS series is known for its distinctive musical aesthetic. The scores of _OPUS: Rocket of Whispers_ (2015) and _OPUS: Echo of Starsong_ (2019) both possess a strong cinematic quality, evoking the solitude of the cosmos in keeping with the games' science fiction themes.
+
+## Technical Innovation and Production Processes (2010–Present)
+
+### Proliferation of Digital Audio Workstations
+
+Advances in digital audio workstation (DAW) technology have dramatically lowered the barriers to score production. Software such as Pro Tools, Logic Pro, and Cubase allow independent composers to produce professional-quality work.
+
+### Development of Virtual Instruments
+
+High-quality virtual instrument samples allow composers to simulate a full orchestra, enabling rich scores even with limited budgets. This has been especially important for Taiwan's independent film score development.
+
+### Application of Surround Sound Technology
+
+With advances in cinema sound systems, composers have increasingly focused on surround sound design. 5.1 and 7.1 channel scores can create a more immersive viewing experience.
+
+## Contemporary Challenges and Trends (2020–Present)
+
+### Streaming Platforms' Emphasis on Scoring
+
+The entry of Netflix, Disney+, and other streaming platforms into the Taiwan market has raised quality requirements for original content scoring. This has driven the internationalization of Taiwanese screen music standards.
+
+### Increasing Cross-Boundary Collaboration
+
+A growing number of pop musicians are participating in screen scoring. Sandy Lam (林憶蓮, zh only), Sandee Chan (陳珊妮, zh only), and 9m88 (zh only) have all composed theme songs for films or television dramas, bringing diverse musical perspectives.
+
+### The Rise of AI-Assisted Composition
+
+Artificial intelligence technology has begun to be applied in score creation. While it cannot yet fully replace human composers, it can already assist with melody generation and arrangement. This brings new possibilities and challenges to the scoring industry.
+
+### Copyright and Licensing Issues
+
+As screen works are distributed on international platforms, copyright licensing for scores has become increasingly complex. How to protect creators' rights while promoting international dissemination of works is an important challenge facing the industry.
+
+## Cultivation Systems and Professional Education
+
+### Establishment of Academic Education
+
+Multiple universities have established relevant departments, such as the Music Department of Taipei National University of the Arts and Shih Chien University's Department of Music, which include courses in screen scoring. This professional education has cultivated a new generation of scoring talent.
+
+### Workshops and Masterclasses
+
+Regularly held scoring workshops allow professionals to exchange experience and learn new techniques. Visits by internationally acclaimed scoring masters provide opportunities to learn from global experience.
+
+### Industry-Academia Collaboration
+
+Some scoring education programs combine academic research with professional practice, allowing students to participate in real scoring projects and accumulate hands-on experience.
+
+## International Influence and Cultural Export
+
+### Taiwan's Screen Scoring at International Film Festivals
+
+Taiwanese film scores have won repeated recognition at major international festivals, enhancing the overall quality of Taiwanese cinema and demonstrating to the world Taiwan's musical creativity.
+
+### Influence in the Chinese-Language Scoring World
+
+Many Taiwanese composers are active throughout the Chinese-language film world, scoring films from Hong Kong and mainland China. This cultural export reflects the reach of Taiwan's soft power.
+
+### Global Recognition of Game Music
+
+The success of companies like [Rayark Games](/en/Technology/rayark-games/) has given Taiwan a prominent place in the international game music world, demonstrating Taiwan's competitiveness in digital entertainment content creation.
+
+## Conclusion: Taiwan's Sonic Identity
+
+From [Hou Hsiao-hsien's](/en/People/hou-hsiao-hsien/) and Lim Giong's (林強, zh only) cross-boundary experiments to [Rayark Games'](/en/Technology/rayark-games/) international success, Taiwan's screen scoring has found its own path over three decades. This development has not been merely a matter of technical progress — it has been the building of cultural self-confidence.
+
+Taiwan's composers have learned to tell Taiwan's stories in sound, whether the languid afternoons of southern Taiwan, the ancient chants of indigenous peoples, or the anxieties and dreams of urban youth. These sounds have formed a distinctive "Taiwan Impression" that speaks for Taiwan on the international stage.
+
+In the future, as technology advances and international collaboration grows, Taiwan's screen scoring will face more opportunities and challenges. But whatever the changes, the original impulse to tell stories through music, and the innovative spirit of blending the local with the international, will remain Taiwan's most precious scoring assets.
 
 ## References
 
-1. [Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/) – historical resources on Taiwanese film music
-2. [Chinese Taipei Film Archive (CTFA)](https://www.ctfa.org.tw/) – studies on New Cinema scoring
-3. [Golden Horse Awards](https://www.goldenhorse.org.tw/) – Best Original Film Score records
-4. [Rayark Official Site](https://www.rayark.com/) – Taiwan game music developments
-5. [Music Times, interview with Fan Tsung‑pei](http://www.musictimes.com.tw/) – scoring philosophy
-6. [Bureau of Audiovisual and Music Industry Development (BAMID)](https://www.bamid.gov.tw/) – industry reports
-7. [Business Next (Bnext) on _Deemo_](https://www.bnext.com.tw/) – game music business models
-8. [The News Lens on _Detention_’s music](https://www.thenewslens.com/) – cultural analysis
-9. [Wikipedia: Taiwanese Film Music](https://zh.wikipedia.org/wiki/)
-10. [NTU Graduate Thesis on TV drama scores](http://ntur.lib.ntu.edu.tw/)
+1. [_History of Taiwan's Film Score Development_, Taiwan Film and Audiovisual Institute](https://www.tfai.org.tw/) — Historical data on Taiwanese film scoring
+2. [_Hou Hsiao-hsien and Lim Giong's Musical Collaboration_, Film Archive, 2018](https://www.ctfa.org.tw/) — Research on New Cinema scoring
+3. [Golden Horse Awards Official Website, Annual Award Lists](https://www.goldenhorse.org.tw/) — Records of the Best Original Film Score award
+4. [Rayark Games Official Website](https://www.rayark.com/) — Development of Taiwanese game music
+5. [_Fan Tsung-pei's Creative Approach to Film Scoring_, Music Times magazine, 2012](http://www.musictimes.com.tw/) — Composer interview
+6. [_Analysis of Taiwan's Screen Music Industry_, Bureau of Audiovisual and Music Industry Development, Ministry of Culture, 2020](https://www.bamid.gov.tw/) — Industry statistics
+7. [_The Success Model of the Deemo Music Game_, Business Next, 2016](https://www.bnext.com.tw/) — Game music business model analysis
+8. [_The Cultural Significance of Detention's Score_, The News Lens, 2017](https://www.thenewslens.com/) — Research on localized game scoring
+9. [Wikipedia: Taiwan Film Score entry](https://zh.wikipedia.org/wiki/) — Related figures and works
+10. [_The Pop Culture Significance of Idol Drama Scoring in Taiwan_, Master's thesis, NTU Graduate Institute of Musicology, 2019](http://ntur.lib.ntu.edu.tw/) — Academic research data

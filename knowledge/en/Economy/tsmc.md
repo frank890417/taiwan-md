@@ -1,125 +1,146 @@
 ---
-title: "TSMC: The World's Most Important Company You've Never Heard Of"
-description: 'How a Taiwanese chipmaker became the linchpin of global digital civilization'
-date: 2026-03-20
-tags: [Economy, Business, Semiconductors, Technology, Manufacturing, TSMC]
-author: Taiwan.md
-readingTime: 8
-featured: false
-lastVerified: 2026-03-20
-lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：台積電.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:934dad079d2918fd'
+translatedAt: '2026-05-01T15:38:13+08:00'
+title: 'Taiwan Enterprise: TSMC'
+description: "A 56-year-old man founded a company in 1987 that 'no one in the world had done before,' and it became the most important factory on earth"
+date: 2026-03-25
+tags:
+  [
+    'Economy',
+    'Enterprise',
+    'Semiconductors',
+    'Technology',
+    'Manufacturing',
+    'TSMC',
+  ]
+subcategory: '企業列傳'
+category: 'Economy'
+author: 'Taiwan.md'
+readingTime: 10
+featured: true
+lastVerified: 2026-03-25
+lastHumanReview: false
 ---
 
 > **30-Second Overview**
 >
-> Taiwan Semiconductor Manufacturing Company (TSMC) is the world's largest contract chipmaker, commanding over 50% market share. It manufactures chips for Apple, NVIDIA, AMD, and other tech giants. In 2026, TSMC became Asia's most valuable company with a market cap exceeding $2 trillion. Starting as a small venture in Taiwan's Hsinchu Science Park, it now controls the world's most advanced 2-nanometer manufacturing technology. TSMC is Taiwan's "sacred mountain" and a flashpoint in global geopolitics.
+> TSMC (Taiwan Semiconductor Manufacturing Company) manufactures more than half of the world's advanced chips, with 2025 revenues of US$122 billion and a market capitalization that briefly surpassed US$2 trillion. But when it was founded in 1987, no one believed a semiconductor company that only did contract manufacturing — without designing its own products — could survive. Founder Morris Chang was 56 when he left Texas Instruments in the US to return to Taiwan, with the government as a "reluctant investor." Thirty-eight years later, this company that started in Hsinchu has become the core of geopolitical competition — the US threw US$165 billion at it to build factories in America, and whether the "silicon shield" can actually protect Taiwan remains something no one dares guarantee.
 
-## Why This Matters
+## "I Just Wanted to Survive"
 
-In our chip-driven world, TSMC functions as the heart of digital civilization. From the iPhone in your hand to AI servers in data centers, from Tesla's self-driving chips to gaming console GPUs, virtually every world-changing tech product must pass through TSMC's factories in Taiwan to exist.
+In 1987, 56-year-old Morris Chang made a decision that at the time seemed far from wise: leaving global semiconductor giant Texas Instruments, flying back to Taiwan, and founding a company that "only does manufacturing, without designing chips."
 
-When TSMC's stock price broke NT$2,000 in February 2026, pushing its market cap past $2 trillion, this wasn't just a financial milestone—it symbolized Taiwan's irreplaceable strategic position in the global tech supply chain. Former U.S. Secretary of State Mike Pompeo once said: "Whoever controls TSMC controls the world economy."
+This business model did not exist at the time. Semiconductor companies either designed and manufactured themselves — like Intel and Samsung — or simply outsourced to Japan. The term "pure-play foundry" had not yet been invented.
 
-## Company Overview
+"When I founded TSMC in 1987, the first few years were really hard. How could I have had a vision for ten years later? I just wanted to survive, just wanted the company to survive!" Chang recalled later (source: [Business Today](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/)).
 
-TSMC was founded in 1987 by Morris Chang, known as the "Godfather of Semiconductors." It invented the "pure-play foundry" business model—focusing solely on manufacturing chips without designing competing products, providing manufacturing services for global semiconductor companies.
+The government invested 48.3%, and Dutch Philips put in 27.5%. But Chang has said the government was "a reluctant investor" — if not for former Economics Minister K.T. Li (李國鼎) throwing his support behind it, the money never would have been allocated (source: [Commercial Times](https://www.ctee.com.tw/news/20230316700469-430502)).
 
-This seemingly simple business model rewrote the entire tech industry. Before TSMC, semiconductor companies had to both design and manufacture, requiring massive capital investments. TSMC's emergence allowed design-focused companies like NVIDIA and Qualcomm to concentrate on innovation while outsourcing manufacturing to specialists, spawning today's thriving ecosystem of "fabless" design companies.
+The first wafer fab was set up in [Hsinchu Science Park](/en/Technology/science-park-development/), with only a 0.8-micron process — four hundred times larger than today's 2-nanometer.
 
-## Key Facts (By the Numbers)
+The biggest problem in the early days was not technology but trust. Chang visited global semiconductor companies one by one, trying to convince them to hand over their most critical manufacturing to a small Taiwanese factory. Most found this inconceivable — hand over the lifeblood to a third party? But Chang insisted on one principle: no proprietary brands, never compete with customers. This commitment later proved to be TSMC's most powerful moat.
 
-**Operating Scale**:
+> 📝 **Editorial Note:** What Chang invented was not a technology but a division of labor. Before him, anyone making chips had to build their own factory. After him, the world's smartest chip designers could focus on design — leaving the manufacturing to Taiwan. This division of labor gave birth to what NVIDIA, Qualcomm, and AMD look like today.
 
-- 2025 Revenue: $75.38 billion (approximately NT$2.4 trillion), up 32% year-over-year
-- Global foundry market share: 54.2%, far ahead of second-place Samsung (17.3%)
-- Employees: Approximately 75,000 (end of 2025)
-- Market cap: Over $2 trillion (March 2026), making it the world's 8th largest company
+## From Contract Manufacturer to the World's Heart
 
-**Technology Leadership**:
+The turning point came in the late 1990s. Personal computers and mobile phones simultaneously exploded, chip demand surged, and "fabless" companies — NVIDIA, Qualcomm, Broadcom — that separated design from manufacturing began to rise. TSMC's business model went from "nobody understands it" to "indispensable."
 
-- Controls the world's most advanced 2-nanometer manufacturing process, with mass production planned for late 2026
-- Commands over 90% market share in 3-nanometer processes
-- R&D spending: Approximately $7 billion in 2025, representing 9.3% of revenue
+In 2000, with the dot-com bubble, most companies pulled back. TSMC went against the tide and expanded, building multiple 12-inch wafer fabs in Hsinchu. This "be greedy when others are fearful" decision laid the foundation for leadership a decade later.
 
-**Customer Base**:
+In 2005, Chang retired for the first time, with Rick Tsai taking over as CEO. After the 2009 financial crisis, 78-year-old Chang returned, leading the company into the smartphone era. In 2016, TSMC won the exclusive contract to manufacture Apple's iPhone processors — from then on, the chip inside every iPhone in the world was made in Taiwan.
 
-- Top five customers include Apple, NVIDIA, AMD, Broadcom, and Qualcomm
-- Apple accounts for roughly 23% of TSMC's revenue
-- AI and high-performance computing chips have become major growth drivers
+By 2018, when Chang officially retired and C.C. Wei took over as CEO, TSMC was no longer just a foundry. It was the bottleneck of all digital civilization.
 
-**Global Footprint**:
+Then AI arrived.
 
-- Taiwan: 4 twelve-inch fabs and 6 eight-inch fabs
-- Two advanced-process fabs under construction in Arizona, USA
-- Kumamoto fab in Japan began operations in 2024, focusing on mature processes
+## The Beast in the Numbers
 
-## Evolution: From Hsinchu Startup to Global Hegemon
+TSMC's scale is hard to convey in words; numbers are more direct:
 
-**Founding Era (1987-1997)**:
-In 1987, 56-year-old Morris Chang left Texas Instruments in the U.S. to return to Taiwan and establish TSMC. The government invested 48.3%, Dutch company Philips invested 27.5%, with the remainder taken up by private investors. The first fab was built in Hsinchu Science Park, starting with only 0.8-micron process technology.
+| Metric                               | Figure                                           | Source                                                                                                         |
+| ------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| 2025 Revenue                         | US$122 billion (approx. 30% year-on-year growth) | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
+| Global advanced process market share | Over 90% (3nm)                                   | TSMC 2025 Annual Report                                                                                        |
+| Global wafer foundry market share    | Approx. 54%                                      | TrendForce 2025 Q4                                                                                             |
+| Market cap (March 2026)              | Approx. US$1.76 trillion (6th globally)          | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/)                                           |
+| 2026 capex budget                    | US$56 billion (25%+ year-on-year growth)         | [Economic Daily News](https://money.udn.com/money/story/5612/9283226)                                          |
+| Employees                            | Approx. 76,000                                   | TSMC 2025 Annual Report                                                                                        |
 
-The biggest initial challenge was convincing global semiconductor companies to trust the "foundry" model. Most companies then considered outsourcing core manufacturing technology to a third party unthinkable. Chang spent years visiting companies one by one to gradually build customer trust.
+At a January 2026 investor call, Wei said: "AI looks like an endless demand." (source: [Economic Daily News](https://money.udn.com/money/story/5612/9283226))
 
-**Growth Period (1998-2010)**:
-In the late 1990s, TSMC caught the wave of PC and mobile phone adoption. During the 2000 dot-com crash, TSMC counter-cyclically expanded capacity, building multiple twelve-inch fabs in Hsinchu that laid the foundation for future leadership.
+NVIDIA's AI training chips, Apple's phone processors, AMD's server chips — all exclusively manufactured by TSMC. What does this mean? It means if TSMC's factories stopped for a week, the global tech industry would grind to a halt with it.
 
-In 2005, Chang retired for the first time, with Rick Tsai taking over as CEO. During this period, TSMC continued advancing process technology from 0.25 microns to 28 nanometers while beginning deep collaboration with Apple.
+## Water Trucks, Farmland, and the Cost of the "Sacred Mountain"
 
-**Transformation Era (2011-2020)**:
-After the 2008 financial crisis, 75-year-old Chang returned as Chairman and CEO, leading TSMC into the "More than Moore" era. TSMC pursued not just process shrinking but also developed specialized process technologies for sensors, automotive electronics, and other applications.
+In the spring of 2021, Taiwan experienced its worst drought in 56 years. The reservoir serving Hsinchu Science Park dropped to historic lows, and TSMC activated water truck deliveries — a 12-ton water truck, at NT$15,000 per trip (source: [Business Next](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly)).
 
-In 2016, TSMC began mass production of 10-nanometer processes, becoming the first foundry to do so and formally opening a technology gap with competitors. That same year, Apple became TSMC's exclusive foundry partner, with all iPhone processors manufactured by TSMC.
+At the same time, the government ordered rice farmers in the Taoyuan-Hsinchu-Miaoli region to stop irrigation. Farmers' water was given to the wafer fabs. The New York Times headline was blunt: "Taiwan's Drought Pits Chip Makers Against Farmers" (source: [NYT, 2021](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html)).
 
-**Leadership Era (2021-Present)**:
-Chang officially retired in 2018, with Mark Liu becoming Chairman and C.C. Wei taking over as CEO. The new leadership team faced entirely new challenges in the AI era.
+This is the other side of the "sacred mountain of national defense." One of TSMC's advanced process wafer fabs uses over 150,000 tons of water per day, and its electricity consumption accounts for more than 7% of Taiwan's total. Between 2015 and 2019, TSMC's own water usage grew 70% (source: [Foreign Policy](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/)). In the environmental impact assessment for the Baoshan Phase 2 expansion, TSMC pledged that its processes would use 100% recycled water — but just running a recycled water pipeline to the science park would cost over NT$10 billion, and the government would have to foot the bill.
 
-The 2020 COVID-19 pandemic triggered a global chip shortage, highlighting TSMC's critical position in global supply chains. Governments began prioritizing semiconductor strategies, with the U.S., EU, and Japan actively courting TSMC to build local fabs.
+Former Hsinchu Science Park Administration Director Lee Chieh-mu told Mirror Media in 2021: "Shipping water by truck is like carrying water to put out a fire — a drop in the bucket, only good for emergencies... If it doesn't rain, TSMC will face production cuts." (source: [Mirror Media](https://www.mirrormedia.mg/story/20210412fin003))
 
-The 2022 ChatGPT explosion sparked an AI boom, dramatically increasing demand for advanced-process chips. TSMC became the biggest beneficiary, with NVIDIA's H100 and A100 AI chips exclusively manufactured by TSMC.
+TSMC has pledged to reach net-zero emissions by 2050 and is investing heavily in renewable energy. But the paradox is: the stronger AI demand gets, the more electricity and water advanced processes consume. The taller the sacred mountain grows, the longer its shadow.
 
-## Global Impact: Redefining Tech Competition
+> 📝 **Editorial Note:** "Sacred mountain of national defense" has become almost a matter of faith in Taiwan — but the other side of faith is the inability to question. When a company grows so large that the entire nation's water and electricity allocation must yield to it, the line between "protection" and "dependence" has already blurred.
 
-**Driver of Technological Innovation**:
-TSMC isn't just a manufacturer—it's a catalyst for innovation. Its advanced process technologies enable chip design companies to realize more complex functionality, driving the entire tech industry forward. From smartphones to AI computing, TSMC's process technology directly affects the technological experiences consumers can enjoy.
+## Silicon Shield: Umbrella or Trap?
 
-**Geopolitical Flashpoint**:
-TSMC's strategic value has made it central to the U.S.-China tech war. The U.S. CHIPS Act allocated $52 billion to support semiconductor industry development, primarily aimed at attracting TSMC to build fabs in America. China is also aggressively developing indigenous semiconductor capabilities, trying to reduce dependence on TSMC.
+"Because TSMC is now Taiwan's most recognizable company, it has become embedded in the concept of Taiwan's sovereignty." Rupert Hammond-Chambers, president of the US-Taiwan Business Council, said this (source: [MIT Technology Review](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/)).
 
-Every TSMC investment decision affects global industry layout. Its $65 billion investment in two advanced-process fabs in Arizona isn't just a business decision—it carries heavy geopolitical overtones.
+This is the "silicon shield" theory: Taiwan manufactures the world's most critical chips, so no one dares touch Taiwan. In 2024, Chang himself said: TSMC has gone from being a "strategically important place" for geopolitical strategists to being a "truly contested place" (source: [Epoch Times](https://www.epochtimes.com/b5/24/10/27/n14358732.htm)).
 
-**Ecosystem Builder**:
-Around TSMC, Taiwan has built a complete semiconductor industry cluster. From equipment suppliers (like Scientech, Gudeng Precision) to materials suppliers (like Topco Scientific) to assembly and test houses (like ASE Group, SPIL), Taiwan formed the world's most complete semiconductor supply chain.
+But the silicon shield has a structural paradox.
 
-This ecosystem's value lies not just in cost reduction but in rapid response capability. When customers have new requirements, TSMC can quickly coordinate with upstream and downstream partners to shorten product development time. This "Taiwan speed" has become TSMC's competitive advantage.
+In March 2025, C.C. Wei stood at the White House alongside Trump to announce: TSMC would invest US$100 billion in Arizona, adding to the previous US$65 billion, bringing the total planned US investment to US$165 billion, with six wafer fabs planned. Trump said: "Semiconductors are the economic backbone of the 21st century." The implication: the US wants to ensure it can get chips "no matter what happens in Taiwan."
 
-## Challenges and Outlook
+MIT Technology Review in 2025 ran a sharply titled report: "Taiwan's 'Silicon Shield' Could Be Weakening." The logic: when the US has its own advanced processes, Taiwan's irreplaceability decreases — the silicon shield's defensive power actually weakens as TSMC expands globally.
 
-**Technical Challenges**:
-As process technology approaches physical limits, each generation's breakthrough becomes more difficult and expensive. The 2-nanometer process alone requires over $20 billion in production investment. TSMC must continue investing massive R&D funds to maintain technical leadership.
+A 2026 Substack analysis put it more directly: "From the US perspective, the core question is not 'how to protect Taiwan because of chips' but 'how to ensure chips are available no matter what happens.' That is a completely different risk calculation." (source: [TSPA Semiconductor](https://tspasemiconductor.substack.com/p/when-chips-meet-geopolitics-tsmc))
 
-**Geopolitical Risk**:
-U.S.-China tech confrontation puts TSMC in a dilemma. It must comply with U.S. technology restrictions on China while not completely losing the Chinese market. Maintaining balance amid great power competition is TSMC's greatest challenge.
+At the same time, TSMC is also surviving in the gap between [the US-China tech war](/en/Economy/mediatek/). Complying with US export controls means losing part of the China market. Not complying could anger its most important ally. Chang has said globalization is dead, free world trade is dead — in such an environment, TSMC's challenge is to "continue seeking development."
 
-**Talent Competition**:
-With global semiconductor industry development, demand for senior engineers has surged. TSMC must compete for talent not just with international giants but also face pressure from employee poaching. Retaining top talent is crucial for TSMC's long-term competitiveness.
+## One Hundred Thousand Youth, One Hundred Thousand Livers
 
-**Sustainable Development**:
-Semiconductor manufacturing is energy-intensive. TSMC has committed to net-zero emissions by 2050. It's heavily investing in renewable energy and developing more energy-efficient process technologies. ESG (Environmental, Social, Governance) performance will affect TSMC's ability to continue receiving international investor support.
+Search "TSMC" on PTT and what most often comes up is not stock analysis but a phrase: "One hundred thousand youth, one hundred thousand livers — shift workers GG save Taiwan." (source: [PTT WomenTalk board](https://www.ptt.cc/bbs/WomenTalk/M.1663169958.A.32F.html) / [CommonWealth Magazine](https://www.gvm.com.tw/article/102167))
 
-**Looking Forward**:
-The AI era brings new opportunities for TSMC. As AI models become increasingly complex, demand for advanced chips will continue growing. TSMC's 2-nanometer and 1.4-nanometer process technologies will be key to supporting next-generation AI applications.
+GG is TSMC's nickname (from the English "Good Game," also implying the game is over). TSMC's salaries are among the highest in Taiwan's tech sector, but the price is high pressure, shift work, and being on call at all times. In a 2024 CommonWealth Magazine report, an engineer described the intensity: "Imagine driving at 160 km/h on the freeway for 10 hours nonstop." (source: [CommonWealth Magazine](https://www.cw.com.tw/article/5132060))
 
-Simultaneously, TSMC is positioning itself in emerging application areas like quantum computing, biological chips, and space electronics, hoping to maintain leadership in the next technology wave.
+Online comments collected by Cheers Magazine were even more direct: "People outside are rushing to get in, people inside want to escape." "Equipment engineers are really the bottom tier at TSMC..."
 
-TSMC's story isn't just about one company's success—it's a microcosm of Taiwan finding its place in the globalized era. From contract manufacturing to technological innovation, from local enterprise to global giant, TSMC proved that small places can achieve great things. In this uncertain era, TSMC isn't just Taiwan's "sacred mountain"—it's an indispensable cornerstone of global digital civilization.
+On his 94th birthday, Chang talked about leadership philosophy and said: "You can be strict with your colleagues, but you must be fair and have no personal bias." He recalled that when he founded TSMC, Chinese-American colleagues from TI wanted to come with him: "You need a team — you can't do anything without a team!" But he didn't bring a single one. (source: [Economic Daily News](https://money.udn.com/money/story/5612/7285345))
+
+This culture of "no mercy but fairness" has passed down from Chang through today's TSMC. It explains why the company can maintain such strict quality standards — and why employees describe their livers using "GG."
+
+## The Weight of an Island
+
+In March 2026, TSMC's market cap was approximately 2.3 times Taiwan's GDP. One company worth more than an entire nation's annual output — there is no second example anywhere in the world.
+
+Chang once told the Wall Street Journal that he had "finished," describing himself like an old soldier — "not dead but fading away" (source: [BusinessWeekly](https://www.businessweekly.com.tw/business/blog/3015159)). But what he created far exceeds a single company. Around TSMC, Taiwan has built the world's most complete [semiconductor industry](/en/taiwan-semiconductor-industry/) cluster — from equipment to materials to packaging and testing, the entire supply chain within a hundred-kilometer radius. This density lets TSMC respond to a customer's engineering change within 24 hours — something Samsung and Intel cannot do.
+
+2nm is expected to enter mass production in the second half of 2026. 1.4nm is already on the way. Each generation of process requires more investment than the last — a single 2nm fab costs over US$20 billion. The closer processes approach physical limits, the higher the cost of each step forward, and the fewer competitors can keep up.
+
+Chang used money from a "reluctant investor" to build, on an island battered by typhoons and short on water and power, the heart of all of humanity's digital civilization. Thirty-eight years later, the whole world wants to replicate this miracle — but so far, no one has succeeded.
 
 ---
 
 ## References
 
-- TSMC Q4 2025 Financial Report (February 13, 2026)
-- TSMC 2025 Annual Report (March 2026)
-- Wikipedia: Taiwan Semiconductor Manufacturing Company (updated February 25, 2026)
-- MacroMicro TSMC Revenue Analysis (July 26, 2025)
-- Nikkei Asia TSMC Technology Leak Report (August 5, 2025)
+- [Business Today: What was Morris Chang thinking when he founded TSMC at 56?](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/) (primary interview)
+- [Commercial Times: Chang reveals the bitterness — the government was a reluctant investor](https://www.ctee.com.tw/news/20230316700469-430502) (primary)
+- [Manufacturing Dive: TSMC 2025 full-year earnings](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) (primary, English)
+- [Economic Daily News: C.C. Wei — AI looks like an endless demand](https://money.udn.com/money/story/5612/9283226) (primary investor call)
+- [Business Next: TSMC deploys water trucks against the worst drought in 56 years](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly)
+- [New York Times: Taiwan's Drought Pits Chip Makers Against Farmers](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html) (English)
+- [Foreign Policy: Climate Planning Could Doom TSMC Arizona Expansion](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/) (English)
+- [MIT Technology Review: Taiwan's "silicon shield" could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) (English)
+- [Mirror Media: Water shortage, production cut crisis — will TSMC face production cuts?](https://www.mirrormedia.mg/story/20210412fin003)
+- [CommonWealth Magazine: Veterans vs. Gen Z — on pressure and pride at TSMC](https://www.cw.com.tw/article/5132060)
+- [BusinessWeekly: Morris Chang — I have achieved what I consider success](https://www.businessweekly.com.tw/business/blog/3015159)
+- [CompaniesMarketCap: TSMC market cap](https://companiesmarketcap.com/tsmc/marketcap/)
+- [TSPA Semiconductor: When Chips Meet Geopolitics](https://tspasemiconductor.substack.com/p/when-chips-meet-geopolitics-tsmc) (English)
+- [Economic Daily News: Morris Chang at 94 — 4 things every leader must understand](https://money.udn.com/money/story/5612/7285345) (primary)
+- [Cheers Magazine: One Day at TSMC — One Hundred Thousand Youth, One Hundred Thousand Livers](https://www.gvm.com.tw/article/102167)

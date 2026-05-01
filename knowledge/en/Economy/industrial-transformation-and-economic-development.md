@@ -1,297 +1,302 @@
 ---
 title: "Island's Metamorphosis: Taiwan's Industrial Transformation and Economic Development Trajectory"
-description: "From agricultural society to tech powerhouse: the complete 70-year trajectory of Taiwan's industrial transformation and economic miracle"
+description: "From agricultural society to technology powerhouse — the complete 70-year trajectory of Taiwan's industrial transformation and the code of its economic miracle"
 date: 2026-03-19
 tags:
   [
     'economic development',
     'industrial transformation',
-    'Asian Tigers',
+    'Four Asian Tigers',
     'semiconductors',
     'economic miracle',
     'Ten Major Construction Projects',
   ]
-author: 'Taiwan.md Editorial Team'
+subcategory: '經濟發展'
+author: 'Taiwan.md 編輯組'
 difficulty: 'intermediate'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-19
+lastHumanReview: false
 translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a20b7c78580c0ee1'
+translatedAt: '2026-05-01T15:38:13+08:00'
 ---
 
 # Island's Metamorphosis: Taiwan's Industrial Transformation and Economic Development Trajectory
 
 ## 30-Second Overview
 
-Since the 1960s, Taiwan has undergone four phases of industrial transformation: Import Substitution (1950s-1960s) → Export Orientation (1960s-1980s) → Industrial Upgrading (1980s-2000s) → Knowledge Economy (2000s-Present). Over 70 years, Taiwan transformed from an impoverished agricultural society to a global technology hub, with per capita GDP soaring from US$186 to US$33,000, creating the "Taiwan Miracle" and ranking among the Asian Tigers. The rise of the semiconductor industry established Taiwan as a critical node in global technology supply chains.
+Starting in the 1960s, Taiwan underwent four stages of industrial transformation: import substitution (1950s–1960s) → export orientation (1960s–1980s) → industrial upgrading (1980s–2000s) → knowledge economy (2000s–present). Over seven decades, it transformed from an impoverished agricultural island into a global technology hub. Per-capita GDP leaped from US$186 to US$33,000, producing the "Taiwan Miracle" and ranking first among the Four Asian Tigers. The rise of the semiconductor industry made Taiwan a critical node in the global technology supply chain.
 
-**Key Tags:** Economic miracle, Asian Tigers, industrial upgrading, tech island, Ten Major Construction Projects
-
----
-
-## Historical Background: Post-War Reconstruction Starting Point (1945-1960)
-
-### Recovery and Reconstruction
-
-When Taiwan was liberated in 1945, Taiwan's infrastructure was severely damaged by war, with a weak industrial foundation. The Nationalist government faced multiple challenges including severe inflation, material shortages, and population surge. As the mainland situation changed, approximately 1.2 million military personnel and civilians migrated to Taiwan, bringing human resources and capital but also adding economic burden.
-
-### Economic Foundation of Land Reform
-
-Land reform implemented from 1949-1953 included three phases: 37.5% rent reduction, public land release, and "land to the tiller," which not only improved farmers' lives but laid the foundation for subsequent industrial development:
-
-- Released rural labor for industrial use
-- Redirected landlord capital to industrial investment
-- Improved agricultural productivity to support food supply for industrial development
-- Created domestic market foundation
-
-### Critical Support During US Aid Period (1950-1965)
-
-US aid totaling US$1.5 billion accounted for 34% of Taiwan's total investment during the same period. US aid provided not only funding but also modern economic management systems and technology transfer:
-
-- Established modern budget systems and economic planning frameworks
-- Introduced modern industrial technology and management methods
-- Trained numerous technical personnel for US education
-- Assisted in establishing export-oriented development strategies
+**Key labels:** Economic miracle, Four Asian Tigers, industrial upgrading, technology island, Ten Major Construction Projects
 
 ---
 
-## Phase 1: Import Substitution Industrialization (1950-Early 1960s)
+## Historical Background: The Starting Point of Postwar Reconstruction (1945–1960)
+
+### Takeover and Reconstruction
+
+When Taiwan was restored in 1945, the island's infrastructure had been severely damaged in the war and its industrial base was thin. The Nationalist government, upon taking over, faced simultaneous challenges of severe inflation, material scarcity, and rapid population growth. As the situation on the mainland changed, approximately 1.2 million military personnel and civilians relocated to Taiwan, bringing human capital and funds — but also adding to the economic burden.
+
+### The Economic Foundation of Land Reform
+
+The land reform carried out between 1949 and 1953 — comprising three phases of rent reduction to 37.5%, release of public land, and land-to-the-tiller — not only improved peasant livelihoods but also laid the foundation for subsequent industrial development:
+
+- Releasing rural labor for industrial use
+- Redirecting landlord capital into industrial sectors
+- Raising agricultural productivity to support food supply for industrial growth
+- Creating the basis for a domestic consumer market
+
+### The Critical Support of the US Aid Period (1950–1965)
+
+Total US aid to Taiwan reached US$1.5 billion, accounting for 34% of Taiwan's total investment during the same period. US aid provided not only funds but, more importantly, transferred modern economic management systems and technology:
+
+- Establishing modern budgeting and economic planning systems
+- Introducing modern industrial technology and management methods
+- Training large numbers of technical personnel to study in the United States
+- Helping to establish an export-oriented development strategy
+
+---
+
+## Phase One: Import-Substitution Industrialization (1950–early 1960s)
 
 ### Policy Design and Implementation
 
-To reduce import dependence and protect domestic industries, the government adopted import substitution strategies:
+To reduce dependence on imports and protect domestic industry, the government adopted an import-substitution strategy:
 
-- High tariff protection for domestic industries (textiles, food processing, cement)
-- Foreign exchange controls and import licensing systems
-- Low-interest loans supporting private industrial development
-- Establishment of basic industries (power, steel, petrochemicals)
+- High tariffs to protect domestic industries (textiles, food processing, cement, etc.)
+- Foreign exchange controls and import licensing
+- Low-interest loans to support private industrial development
+- Building basic industries (electricity, steel, petrochemicals)
 
-### Important Achievements
+### Key Outcomes
 
-- **Textile Industry Rise**: Taiwan became a major global textile production base in the 1950s
-- **Food Processing Development**: Canning, sugar processing, and other agricultural processing industries flourished
-- **Infrastructure Expansion**: Stable power supply and improved transportation
-- **Industrial Output Increase**: Industrial output share rose from 18% in 1952 to 25% in 1962
+- **Rise of the textile industry:** In the 1950s Taiwan became an important global textile production base
+- **Food processing industry development:** Canning, sugar refining, and other agricultural processing industries flourished
+- **Infrastructure expansion:** Stable electricity supply; improved transportation
+- **Rising share of industrial output:** From 18% in 1952 to 25% in 1962
 
-### Background for Policy Transition
+### Context for the Policy Shift
 
-By early 1960s, import substitution limitations became apparent:
+In the early 1960s, the limits of import substitution became apparent:
 
-- Limited domestic market size constraining industrial growth space
-- Lack of international competitive pressure leading to low industrial efficiency
-- Foreign exchange shortage persisting
-- Gradual reduction in US aid requiring self-reliance
+- The domestic market was too small to sustain industrial growth
+- Lack of international competitive pressure kept industrial efficiency low
+- The foreign exchange shortage remained severe
+- US aid was being phased down, requiring self-reliance
 
 ---
 
-## Phase 2: Export-Oriented Industrialization (1960-1980s)
+## Phase Two: Export-Oriented Industrialization (1960s–1980s)
 
-### Export Processing Zone Innovation Model
+### The Export Processing Zone Model
 
-The establishment of Kaohsiung Export Processing Zone in 1966 created a world first, becoming a key innovation for Taiwan's economic transformation:
+The Kaohsiung Export Processing Zone, established in 1966 — the world's first of its kind — was the pivotal innovation of Taiwan's economic transformation:
 
-**Institutional Innovation**:
+**Institutional innovation:**
 
-- Flexible "zone-in, zone-out" management system
+- A flexible "in-zone/out-of-zone" management system
 - Simplified investment review and customs procedures
-- One-stop land, factory, and labor services
-- Attracted foreign investment and technology transfer
+- One-stop services covering land, factory space, and labor
+- Attracting foreign investment and technology transfer
 
-**Industrial Clustering Effects**:
+**Industrial clustering effects:**
 
-- Rapid electronics assembly industry development
-- Upgrading of traditional industries like plastics and textiles
-- Formation of complete upstream and downstream supply chains
-- Cultivation of numerous skilled technical workers
+- Rapid development of electronic assembly
+- Upgrading of traditional industries such as plastics and textiles
+- Formation of complete upstream-downstream supply chains
+- Cultivation of large numbers of skilled workers
 
-### Strategic Investment in Ten Major Construction Projects (1974-1979)
+### The Strategic Investment of the Ten Major Construction Projects (1974–1979)
 
-Facing the 1973 oil crisis impact, Chiang Ching-kuo promoted Ten Major Construction Projects, laying Taiwan's modernization foundation:
+In the face of the 1973 oil crisis, Chiang Ching-kuo launched the Ten Major Construction Projects, establishing the modern foundation of Taiwan's infrastructure:
 
-**Transportation Infrastructure**:
+**Transportation infrastructure:**
 
-- Chung-Shan Freeway: North-South transportation artery
-- Taoyuan International Airport: International gateway
-- Taichung Port and Su-ao Port: Dispersed port risks
+- Zhongshan Freeway: linking the north-south traffic artery
+- Taoyuan International Airport: the gateway to the world
+- Taichung Harbor and Su'ao Harbor: diversifying port capacity
 
-**Heavy Chemical Industry**:
+**Heavy chemical industry:**
 
-- China Steel Corporation: Established steel industry foundation
-- China Shipbuilding Corporation: Developed shipbuilding heavy industry
-- China Petrochemical Corporation: Upstream petrochemical integration
+- China Steel Corporation: building the steel industry foundation
+- China Shipbuilding Corporation: developing heavy shipbuilding
+- China Petrochemical Corporation: upstream integration of the petrochemical industry
 
-**Energy Foundation**:
+**Energy infrastructure:**
 
-- Nuclear power plants: Provided stable electricity supply
+- Nuclear power plants: providing stable electricity supply
 
-### Massive Industrial Structure Transformation
+### The Massive Structural Transformation
 
-From 1960-1980, Taiwan's industrial structure underwent fundamental transformation:
+Between 1960 and 1980, Taiwan's industrial structure underwent a fundamental transformation:
 
-- **Agricultural Share Decline**: From 28.5% in 1960 to 7.7% in 1980
-- **Manufacturing Rise**: From 26.9% in 1960 to 45.7% in 1980
-- **Export Rapid Growth**: Annual growth rate reached 24.4%
-- **Per Capita GDP Breakthrough**: From US$164 in 1960 to US$2,344 in 1980
+- **Agriculture's share declined:** from 28.5% in 1960 to 7.7% in 1980
+- **Manufacturing rose:** from 26.9% in 1960 to 45.7% in 1980
+- **Exports grew rapidly:** annual average growth rate of 24.4%
+- **Per-capita GDP breakthrough:** from US$164 in 1960 to US$2,344 in 1980
 
-### Asian Tigers Competitive Advantage
+### The Four Asian Tigers' Competitive Advantages
 
-Taiwan, alongside Hong Kong, Singapore, and South Korea, formed the "Asian Tigers" with unique competitive advantages:
+Taiwan, alongside Hong Kong, Singapore, and South Korea, formed the "Four Asian Tigers" with distinctive competitive advantages:
 
-**Taiwan Characteristics**:
+**Taiwan's characteristics:**
 
-- SME flexible manufacturing system
-- Complete upstream, midstream, and downstream industrial chains
-- Excellent technical talent foundation
-- Confucian culture's diligent work ethic
+- SME flexible manufacturing ecosystem
+- Complete upstream-midstream-downstream supply chains
+- Strong technical talent base
+- Confucian cultural work ethic
 
-**Differences from Other Tigers**:
+**Differences from the other three:**
 
-- Compared to Hong Kong's financial center positioning, Taiwan specialized in manufacturing
-- Unlike Singapore's multinational corporate dominance, Taiwan was primarily domestic enterprise-led
-- Distinguished from South Korea's large conglomerate system, Taiwan formed SME networks
+- Unlike Hong Kong's financial center positioning, Taiwan specialized in manufacturing
+- Unlike Singapore's multinational corporation dominance, Taiwan was led by domestic enterprises
+- Unlike South Korea's large chaebol system, Taiwan formed an SME network
 
 ---
 
-## Phase 3: Industrial Upgrading and High-Tech Transformation (1980-2000s)
+## Phase Three: Industrial Upgrading and High-Tech Transformation (1980s–2000s)
 
-### Hsinchu Science Park: Birth of Taiwan's Silicon Valley
+### Hsinchu Science Park: The Birth of Taiwan's Silicon Valley
 
-Established in 1980, Hsinchu Science Park modeled after Silicon Valley experience, becoming a crucial base for Taiwan's high-tech industry development:
+Established in 1980, Hsinchu Science Park modeled itself on the American Silicon Valley experience and became a critical base for Taiwan's high-tech industry development:
 
-**Success Factors**:
+**Success factors:**
 
-- Talent advantages from proximity to National Tsing Hua and National Chiao Tung Universities
-- Government providing preferential land, tax, and financing policies
-- Attracting overseas Taiwanese business and technical talent return
-- Establishing comprehensive R&D and innovation ecosystem
+- Talent advantage of proximity to National Tsing Hua University and National Chiao Tung University
+- Government-provided land, tax, and financing incentives
+- Attracting overseas Taiwanese entrepreneurs and technical talent to return
+- Establishing a complete R&D and innovation ecosystem
 
-**Industrial Development Trajectory**:
+**Industry development trajectory:**
 
-- 1980s: Semiconductor design and IC packaging/testing
-- 1990s: Complete PC industry chain establishment
-- 2000s: Foundry and panel industries
-- 2010s: Smartphone supply chain
+- 1980s: semiconductor design and IC packaging and testing
+- 1990s: complete PC supply chain
+- 2000s: wafer foundry and flat panel display industry
+- 2010s: smartphone supply chain
 
-### Strategic Semiconductor Industry Layout
+### The Strategic Layout of the Semiconductor Industry
 
-Taiwan's semiconductor industry success stemmed from forward-thinking strategic planning and execution:
+The success of Taiwan's semiconductor industry originated in forward-looking strategic planning and execution:
 
-**Government Role**:
+**Government role:**
 
-- ITRI Electronics Research & Service Organization executing "Very Large Scale Integration Project"
-- Dispatching engineers to US for latest technology learning
-- Establishing demonstration companies like UMC and TSMC
-- Building complete IC design, manufacturing, and packaging industry chains
+- ITRI's Electronics Research and Service Organization carried out the "VLSI Program"
+- Engineers were sent to the United States to learn the latest technology
+- Demonstration enterprises such as United Microelectronics Corporation and TSMC were established
+- A complete IC design, manufacturing, and packaging supply chain was built
 
-**Industrial Innovation Model**:
+**Industrial innovation model:**
 
-- Morris Chang creating foundry business model
-- Professional division reducing entry barriers
-- Quick response flexible manufacturing capabilities
-- Establishing strategic partnerships with global tech giants
+- Morris Chang established the wafer foundry business model
+- Specialized division of labor lowered barriers to entry
+- Flexible manufacturing capability with rapid response
+- Strategic partnerships built with global technology majors
 
-### Global Information Industry Layout
+### The Global Layout of the Information Industry
 
-In the 1990s, Taiwan became a crucial base for the global PC industry:
+In the 1990s Taiwan became an important base for the global PC industry:
 
-**Key Companies**:
+**Key enterprises:**
 
-- Acer: Pioneering brand internationalization
-- ASUS: Leading motherboard and laptop technology
-- Hon Hai (Foxconn): Electronic contract manufacturing empire
-- TSMC: Global foundry leader
+- Acer: pioneer of international brand building
+- ASUS: leader in motherboard and laptop technology
+- Foxconn: empire of electronics contract manufacturing
+- TSMC: global wafer foundry leader
 
-**Competitive Advantages**:
+**Competitive advantages:**
 
-- Rapid product development capabilities
+- Rapid product development capability
 - Flexible production adjustment mechanisms
-- Complete supply chain systems
-- Excellent cost control abilities
+- Complete supply chain system
+- Excellent cost control capability
 
 ---
 
-## Phase 4: Knowledge Economy and Global Innovation (2000s-Present)
+## Phase Four: Knowledge Economy and Global Innovation (2000s to Present)
 
 ### New Challenges Faced
 
 Entering the 21st century, Taiwan's economy faced new challenges and opportunities:
 
-**External Challenges**:
+**External challenges:**
 
-- Rapid rise of Chinese manufacturing
-- Intensified globalization competition
-- Industrial migration pressures
-- Disruptive innovation from emerging technologies
+- The rapid rise of Chinese manufacturing
+- Intensifying global competition
+- Increasing pressure from industrial relocation
+- Disruptive innovation from new technologies
 
-**Internal Issues**:
+**Internal problems:**
 
 - Stagnant wage growth
-- Industrial upgrading transformation pressure
-- Brain drain problems
-- Limited domestic market size
+- Pressure for industrial upgrading and transformation
+- Brain drain
+- Limited domestic market scale
 
-### Emerging Industry Breakthroughs
+### Breakthroughs in Emerging Industries
 
-**Biotechnology Industry**:
+**Biotech industry:**
 
-- Government promoting "Biotechnology Industry Development Act"
-- Establishing biotech industry clusters
-- Attracting international pharmaceutical companies to establish R&D centers in Taiwan
-- Cultivating domestic biotech startups
+- Government promoted the "Biotech Industry Development Act"
+- Establishment of biotech industry clusters
+- Attracting international pharmaceutical companies to set up R&D centers in Taiwan
+- Nurturing domestic biotech startups
 
-**Green Energy Industry**:
+**Green energy industry:**
 
-- Solar cell industry ranked second globally
-- Rapid wind power technology development
+- Solar cell industry second in the world
+- Rapid development of wind power technology
 - Gradual establishment of electric vehicle supply chain
-- Energy transition policies driving industry development
+- Energy transition policy driving industry development
 
-**Digital Economy**:
+**Digital economy:**
 
-- Rapid e-commerce platform development
+- Rapid development of e-commerce platforms
 - Fintech innovation
 - 5G communication infrastructure
-- AI artificial intelligence industry layout
+- AI industry positioning
 
-### Critical Position in Global Supply Chains
+### Critical Position in the Global Supply Chain
 
-Taiwan occupies a critical position in global supply chains, particularly in:
+Taiwan occupies a critical position in the global supply chain, particularly in:
 
-**Semiconductor Industry**:
+**Semiconductor industry:**
 
-- Over 60% global foundry market share
-- World-leading advanced process technology
-- Second-largest IC design industry globally
-- World-leading packaging and testing technology
+- Global wafer foundry market share exceeds 60%
+- Advanced process technology leads the world
+- IC design industry second globally
+- Packaging and testing technology world-leading
 
-**Precision Machinery**:
+**Precision machinery:**
 
-- Fourth-largest machine tool export globally
-- Leading bicycle industry technology
-- Precision component manufacturing capabilities
+- Machine tool exports fourth globally
+- Bicycle industry technology leadership
+- Precision component manufacturing capability
 - Smart manufacturing technology applications
 
 ---
 
-## Economic Development Achievements and Data
+## Economic Development Outcomes and Data
 
 ### Economic Growth Trajectory
 
-**GDP Growth**:
+**GDP growth:**
 
 - 1951: US$1.5 billion
 - 1980: US$42.4 billion
 - 2000: US$321.3 billion
 - 2023: US$790.6 billion
 
-**Per Capita GDP Enhancement**:
+**Per-capita GDP increase:**
 
 - 1951: US$186
 - 1980: US$2,344
 - 2000: US$14,704
 - 2023: US$33,775
 
-**Export Trade Growth**:
+**Export trade growth:**
 
 - 1952: US$116 million
 - 1980: US$19.7 billion
@@ -300,186 +305,186 @@ Taiwan occupies a critical position in global supply chains, particularly in:
 
 ### Industrial Structure Evolution
 
-**Three-Sector Industry Share Changes (1952 vs 2023)**:
+**Three-sector share changes (1952 vs. 2023):**
 
 - Agriculture: 35.8% → 1.8%
 - Industry: 19.7% → 36.9%
 - Services: 44.5% → 61.3%
 
-**Manufacturing Technology Level Enhancement**:
+**Rising technical level of manufacturing:**
 
-- Labor-intensive industry share decline
-- Capital-intensive industry stable growth
-- Technology-intensive industry rapid development
-- Knowledge-intensive industry emerging growth
+- Labor-intensive industry share declining
+- Capital-intensive industry growing steadily
+- Technology-intensive industry growing rapidly
+- Knowledge-intensive industry newly emerging and expanding
 
 ---
 
-## Development Model Characteristics and Experience
+## Distinctive Features and Lessons of the Development Model
 
-### Balance Between Government and Market
+### Balancing Government and Market
 
-The key to Taiwan's successful economic development lies in effective combination of government and market mechanisms:
+The key to Taiwan's economic development success lies in the effective combination of government and market mechanisms:
 
-**Government Functions**:
+**Government functions:**
 
-- Formulating long-term development strategies
+- Formulating long-term development strategy
 - Investing in infrastructure construction
 - Cultivating human resources
-- Creating favorable investment environment
+- Creating a favorable investment environment
 
-**Market Mechanisms**:
+**Market mechanisms:**
 
-- Private enterprises leading industry development
+- Private enterprises leading industrial development
 - Competition mechanisms improving efficiency
-- Flexible adjustment capabilities
-- Innovation and entrepreneurship spirit
+- Flexible adjustment capability
+- Entrepreneurial spirit and innovation
 
-### SME Vitality
+### The Vitality of Small and Medium Enterprises
 
-Taiwan SMEs account for 98% of total enterprises, creating approximately 78% of employment opportunities:
+Taiwan's SMEs account for 98% of all enterprises and create approximately 78% of employment:
 
-**Advantage Characteristics**:
+**Characteristic strengths:**
 
-- Flexible production adjustment capabilities
-- Quick response to market demands
-- Network-style cooperation models
-- Strong survival capabilities
+- Flexible production capacity adjustment
+- Rapid response to market demand
+- Network-based cooperation model
+- Robust survival capability
 
-**Global Layout**:
+**Global positioning:**
 
 - Early investment in Southeast Asia
-- 1990s entry into China
-- Recent layout in New Southbound countries
-- Risk-diversified global strategy
+- Entry into China in the 1990s
+- Recent positioning in New Southbound Policy countries
+- Global strategy of risk diversification
 
-### Human Resource Investment
+### Investment in Human Resources
 
-**Education System Reform**:
+**Education system reforms:**
 
 - Nine-year compulsory education
-- Technical-vocational education system establishment
-- Higher education popularization
+- Establishment of vocational education system
+- Universalization of higher education
 - Industry-academia cooperation mechanisms
 
-**Talent Development Achievements**:
+**Talent development outcomes:**
 
 - Abundant technical talent
-- Enhanced innovation capabilities
-- High internationalization degree
-- Active entrepreneurship spirit
+- Enhanced innovation capability
+- High degree of internationalization
+- Active entrepreneurial spirit
 
 ---
 
-## Current Challenges and Future Prospects
+## Current Challenges and Future Outlook
 
 ### Structural Problems Faced
 
-**Industrial Transformation Pressure**:
+**Industrial transformation pressure:**
 
-- Traditional manufacturing migration
-- Insufficient emerging industry scale
-- Need for innovation energy enhancement
-- Intensified international competition
+- Traditional manufacturing relocation
+- Insufficient scale of emerging industries
+- Innovation capacity needs enhancement
+- Intensifying international competition
 
-**Talent and Wage Issues**:
+**Talent and wage issues:**
 
 - Stagnant wage growth
-- High-level talent outflow
-- Technical talent shortages
-- Changing generational employment concepts
+- Brain drain of high-level talent
+- Shortage of technical personnel
+- Changing generational employment expectations
 
-**Geopolitical Challenges**:
+**Geopolitical challenges:**
 
-- US-China trade war impacts
-- Supply chain restructuring pressures
-- Cross-strait economic relationship changes
-- International market uncertainties
+- US-China trade war effects
+- Supply chain restructuring pressure
+- Changes in cross-strait economic relations
+- International market uncertainty
 
 ### Future Development Strategies
 
-**Industrial Upgrading Directions**:
+**Industrial upgrading directions:**
 
-- Accelerated digital transformation promotion
-- Net-zero emissions industry layout
-- Biotechnology medical industry development
-- Space industry emerging fields
+- Accelerating digital transformation
+- Net-zero carbon industry positioning
+- Biotech and medical industry development
+- Space industry as an emerging field
 
-**Innovation Ecosystem Construction**:
+**Building the innovation ecosystem:**
 
-- Strengthened R&D investment
-- Startup enterprise cultivation
-- International talent attraction
-- Deepened industry-academia-research collaboration
+- Strengthening R&D investment
+- Nurturing new enterprises
+- Attracting international talent
+- Deepening industry-academia-research cooperation
 
-**Regional Economic Integration**:
+**Regional economic integration:**
 
-- New Southbound Policy promotion
-- Indo-Pacific Economic Framework participation
-- Bilateral trade agreement negotiations
-- Global supply chain resilience enhancement
+- Promoting the New Southbound Policy
+- Participating in the Indo-Pacific Economic Framework
+- Concluding bilateral trade agreements
+- Enhancing global supply chain resilience
 
 ---
 
-## International Comparison and Insights
+## International Comparisons and Lessons
 
-### Asian Tigers Development Comparison
+### Comparative Development Among the Four Asian Tigers
 
-**Taiwan vs Hong Kong**:
+**Taiwan vs. Hong Kong:**
 
-- Taiwan: Strong manufacturing foundation, complete industries
-- Hong Kong: Developed financial services, entrepôt trade
+- Taiwan: strong manufacturing base, complete industries
+- Hong Kong: advanced financial services, entrepot trade
 
-**Taiwan vs Singapore**:
+**Taiwan vs. Singapore:**
 
 - Taiwan: SME vitality, flexible manufacturing
-- Singapore: Multinational enterprise clusters, service-oriented
+- Singapore: multinational enterprise concentration, service-oriented
 
-**Taiwan vs South Korea**:
+**Taiwan vs. South Korea:**
 
-- Taiwan: Semiconductor foundry model, professional division
-- South Korea: Large enterprise groups, vertical integration
+- Taiwan: wafer foundry model, specialized division of labor
+- South Korea: large enterprise conglomerates, vertical integration
 
-### Insights for Developing Countries
+### Lessons for Developing Countries
 
-Taiwan's economic development experience offers insights for other developing countries:
+Taiwan's economic development experience offers the following lessons for other developing countries:
 
-**Institution Building**:
+**Institutional development:**
 
 - Establishing effective government governance systems
 - Protecting private property rights
-- Developing comprehensive financial systems
+- Developing a sound financial system
 - Investing in education and human resources
 
-**Industrial Development**:
+**Industrial development:**
 
-- Progressive industrial upgrading
-- Leveraging international division of labor opportunities
-- Cultivating domestic enterprise capabilities
-- Establishing innovation ecosystems
+- Progressive, step-by-step industrial upgrading
+- Making good use of international division of labor opportunities
+- Cultivating domestic enterprise capability
+- Building innovation ecosystems
 
-**International Participation**:
+**International engagement:**
 
-- Actively integrating into global economy
-- Leveraging foreign investment and technology transfer
-- Cultivating international competitive capabilities
+- Actively integrating into the global economy
+- Making good use of foreign investment and technology transfer
+- Developing international competitiveness
 - Developing comparative advantage industries
 
 ---
 
 ## References
 
-- [Ministry of Economic Affairs: "History of Industrial Development in the Republic of China"](https://www.moea.gov.tw/)
-- [Central Bank: "Monthly Financial Statistics of Taiwan District" Historical Data](https://www.cbc.gov.tw/)
-- [Directorate-General of Budget, Accounting and Statistics: "Summary of National Income Statistics"](https://www.dgbas.gov.tw/)
-- [Industrial Technology Research Institute: "Taiwan Industrial Development Trajectory Research"](https://www.itri.org.tw/)
-- [K.T. Li: "Taiwan Economic Development Strategy," Linking Publishing](https://www.books.com.tw/products/0010308842)
-- Hsiao, Frank S.T.: "Taiwan Economic Development: 40 Years," Yuan-Liou Publishing
-- [Liu Chin-ching: "Post-War Taiwan Economic Analysis," Jen-chien Publishing](https://www.books.com.tw/products/0010531679)
-- [OECD: "Economic Surveys: Chinese Taipei"](https://www.oecd.org/economy/bycountry/chinesetaipei/)
-- [World Bank: "The East Asian Miracle"](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798)
-- [Chung-Hua Institution for Economic Research: "Comparative Study of Asian Four Tigers Economic Development"](https://www.cier.edu.tw/)
+- [Ministry of Economic Affairs: _History of Industrial Development in the Republic of China_](https://www.moea.gov.tw/)
+- [Central Bank of the Republic of China: _Financial Statistics Monthly_, historical data](https://www.cbc.gov.tw/)
+- [Directorate-General of Budget, Accounting and Statistics: _Summary of National Income Statistics_](https://www.dgbas.gov.tw/)
+- [Industrial Technology Research Institute: _Research on Taiwan's Industrial Development Trajectory_](https://www.itri.org.tw/)
+- Li Kuo-ting: _Taiwan's Economic Development Strategy_, Linking Publishing
+- Hsiao Feng-hsiung: _40 Years of Taiwan's Economic Development_, Yuan-Liou Publishing
+- [Liu Chin-ching: _Postwar Economic Analysis of Taiwan_, Renjian Publishing](https://www.books.com.tw/products/0010531679)
+- [OECD: _Economic Surveys: Chinese Taipei_](https://www.oecd.org/economy/bycountry/chinesetaipei/)
+- [World Bank: _The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798)
+- [Chung-Hua Institution for Economic Research: _Comparative Study of the Economic Development of the Four Asian Tigers_](https://www.cier.edu.tw/)
 
 ---
 
-_This article is compiled based on official statistical data and academic research findings, striving to objectively present Taiwan's industrial transformation historical trajectory and development experience. For updates or supplementary suggestions, please contribute through [GitHub](https://github.com/frank890417/taiwan-md)._
+_This article is written on the basis of official statistical data and academic research, striving to objectively present the historical trajectory and development experience of Taiwan's industrial transformation. For updates or suggestions for additions, please contribute through [GitHub](https://github.com/frank890417/taiwan-md)._
