@@ -114,8 +114,11 @@ jobs:
             echo "  📂 Category: $CATEGORY"
             
             # Warn about potential issues
-            if grep -qi "province of china\|part of china\|chinese taipei" "$FILE" 2>/dev/null; then
-              echo "  ❌ Contains problematic Taiwan reference"
+            # 2026-05-01 γ-late2: 排除 URL / citation 行（OECD PISA / WorldSkills
+            # 等國際組織官方使用 "Chinese Taipei"，引用 source URL 屬於忠實
+            # 紀錄不算 endorse；只當文章 prose 用該詞才算 problematic）
+            if grep -iE "province of china|part of china|chinese taipei" "$FILE" 2>/dev/null | grep -vE "https?://" | grep -q .; then
+              echo "  ❌ Contains problematic Taiwan reference (in prose, not source URL)"
               ERRORS=$((ERRORS + 1))
             fi
             
