@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T12:30:13.590Z",
+  "lastUpdated": "2026-05-01T13:56:39.845Z",
   "organs": [
     {
       "id": "heart",
@@ -98,18 +98,18 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 65,
+      "score": 69,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 638,
-          "en": 632,
-          "ja": 641,
-          "ko": 478,
-          "es": 37,
-          "fr": 475
+          "en": 633,
+          "ja": 637,
+          "ko": 519,
+          "es": 189,
+          "fr": 547
         },
-        "translationPct": 65,
+        "translationPct": 69,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -126,7 +126,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 632,
+              "count": 633,
               "pct": 99
             },
             "score": 100
@@ -146,7 +146,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 641,
+              "count": 637,
               "pct": 100
             },
             "score": 80
@@ -166,10 +166,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 478,
-              "pct": 75
+              "count": 519,
+              "pct": 81
             },
-            "score": 90
+            "score": 92
           },
           "es": {
             "ui": {
@@ -186,10 +186,10 @@
               "pct": 100
             },
             "articles": {
-              "count": 37,
-              "pct": 6
+              "count": 189,
+              "pct": 30
             },
-            "score": 22
+            "score": 32
           },
           "fr": {
             "ui": {
@@ -206,10 +206,10 @@
               "pct": 25
             },
             "articles": {
-              "count": 475,
-              "pct": 74
+              "count": 547,
+              "pct": 86
             },
-            "score": 35
+            "score": 39
           }
         }
       }
