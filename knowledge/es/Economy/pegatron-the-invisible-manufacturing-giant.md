@@ -1,222 +1,106 @@
 ---
-title: 'Pegatron: el campeón oculto de la manufactura electrónica por contrato'
-description: 'Un gigante de la manufactura por contrato nacido de la escisión de ASUS, fabricante oculto detrás de iPhone, consolas de videojuegos y computadoras portátiles, uno de los "Cinco Grandes de la Electrónica"'
+title: 'Pegatron Corporation (Pegatron) - El campeón invisible de la fabricación por contrato electrónica'
+description: 'Gigante de la fabricación por contrato nacido de la escisión de ASUS, es el fabricante invisible detrás del iPhone, consolas de videojuegos y portátiles, y forma parte de los «Cinco Hermanos de la Electrónica»'
 date: 2026-03-20
-tags:
-  [Economía, Empresa, Manufactura electrónica por contrato, Manufactura, ODM]
-subcategory: '企業列傳'
 author: Taiwan.md
+subcategory: '企業列傳'
+tags:
+  [
+    Economía,
+    Empresas,
+    'Fabricación por contrato electrónica',
+    'Industria manufacturera',
+    ODM,
+  ]
 readingTime: 8
-featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: Economy/台灣企業：和碩聯合.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:8b0c4f42c17a074c
-translatedAt: 2026-05-01T22:19:10+08:00
+featured: false
+translatedFrom: 'Economy/台灣企業：和碩聯合.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8b0c4f42c17a074c'
+translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 
-> **Panorama en 30 segundos**
+> **Resumen en 30 segundos**
 >
-> Pegatron Corporation es la segunda empresa más grande del mundo en servicios de manufactura electrónica profesional (EMS) y uno de los principales fabricantes por contrato del iPhone de Apple. Se escindió del grupo ASUS en 2008, está dirigida por Tzu-Hsien Tung y se especializa en la manufactura por contrato de periféricos informáticos, productos de comunicación y electrónica de consumo. Junto con Quanta, Wistron, Compal e Inventec, forma parte de los llamados "Cinco Grandes de la Electrónica", gigantes invisibles que sostienen la cadena de suministro de la industria electrónica global.
+> Pegatron Corporation (Pegatron) es la segunda empresa de servicios de fabricación electrónica (EMS) más grande del mundo, y uno de los principales fabricantes por contrato del iPhone de Apple. Se independizó del Grupo ASUS en 2008, está liderada por Tung Tsu-Hsien, y se especializa en la fabricación por contrato de periféricos de computación, productos de comunicación y electrónica de consumo. Junto con Quanta Computer, Wistron, Compal Electronics e Inventec, es conocida como los «Cinco Hermanos de la Electrónica», y es un gigante invisible que sustenta la cadena de suministro de la industria electrónica global.
 
 ## ¿Por qué es importante Pegatron?
 
-Cuando tomas tu iPhone para enviar un mensaje, enciendes tu Nintendo Switch para jugar o usas tu MacBook para trabajar, quizás no sepas que estos productos que han cambiado el mundo tienen una alta probabilidad de haber sido ensamblados en una fábrica en Nuevo Taipéi, Taiwán. El dueño de esas fábricas es Pegatron Corporation: una empresa taiwanesa de la que probablemente nunca has oído hablar, pero que influye profundamente en tu vida cotidiana.
+Cuando tomas tu iPhone para enviar un mensaje, enciendes tu Nintendo Switch para jugar o usas tu MacBook para trabajar, es posible que no sepas que estos productos que han cambiado el mundo tienen una alta probabilidad de haber sido ensamblados en fábricas ubicadas en la ciudad de Nueva Taipéi, en Taiwán. El propietario de estas fábricas es Pegatron Corporation, una empresa taiwanesa que probablemente nunca has escuchado, pero que influye profundamente en tu vida diaria.
 
-Pegatron es el campeón oculto de la industria global de manufactura electrónica por contrato. No tiene una marca tan reconocida como Apple o Samsung, pero es un pilar fundamental que sostiene toda la industria de electrónica de consumo. Desde el diseño y desarrollo hasta la fabricación, Pegatron ofrece soluciones "integrales" a las marcas más importantes del mundo, permitiéndoles concentrarse en la innovación y el marketing sin preocuparse por los complejos problemas de manufactura.
+Pegatron es el campeón invisible de la industria global de fabricación por contrato electrónica. A diferencia de Apple o Samsung, que tienen marcas muy reconocidas, Pegatron es un pilar fundamental que sustenta toda la industria de electrónica de consumo. Desde el diseño y desarrollo hasta la fabricación, Pegatron ofrece soluciones «llave en mano» a las marcas líderes mundiales, permitiendo que estas se enfoquen en la innovación y el marketing sin preocuparse por los complejos problemas de fabricación.
 
-Más aún, el éxito de Pegatron demuestra la competitividad central de la industria manufacturera taiwanesa: no se trata simplemente de manufactura de bajo costo, sino de "manufactura inteligente" de alta calidad, alta flexibilidad y alta integración. En una era de reestructuración de las cadenas de suministro globales, Pegatron representa la transformación activa de la industria manufacturera taiwanesa, pasando de "Hecho en Taiwán" a "Diseñado en Taiwán".
+Más importante aún, el éxito de Pegatron demuestra la competitividad central de la industria manufacturera taiwanesa: no se trata de fabricación de bajo costo puro, sino de «fabricación inteligente» con alta calidad, alta flexibilidad y alta integración. En la era de reestructuración de las cadenas de suministro globales, Pegatron representa la transformación activa de la industria manufacturera taiwanesa, pasando de «Made in Taiwan» a «Designed in Taiwan».
 
-## Perfil corporativo: un gigante de manufactura con ADN de ASUS
+## Descripción de la empresa: Gigante de la fabricación por contrato con genes de ASUS
 
-Pegatron Corporation fue fundada el 27 de junio de 2008 como empresa independiente, escindida de la división de manufactura por contrato de ASUS. El nombre "Pegatron" combina a Pegaso, el caballo alado de la mitología griega, con "tron" (símbolo de tecnología electrónica), reflejando la visión corporativa de unir imaginación y capacidad tecnológica.
+Pegatron Corporation se fundó el 27 de junio de 2008, como una empresa independiente escindida del departamento de fabricación por contrato de ASUS Computer. El nombre de la empresa «Pegatron» combina el caballo alado de la mitología griega «Pegaso» (Pegasus en inglés) y «tron» (que simboliza la tecnología electrónica), lo que refleja la visión corporativa de combinar la imaginación con el poder tecnológico.
 
-**Áreas de negocio principales**:
+**Ámbito de actividades principales**:
 
-1. **Manufactura de computadoras y periféricos**: computadoras portátiles, computadoras de escritorio, placas base, servidores, etc. (aproximadamente 40% de los ingresos)
-2. **Manufactura de productos de comunicación**: teléfonos inteligentes, equipos de red, productos de comunicación inalámbrica, etc. (aproximadamente 45% de los ingresos)
-3. **Manufactura de electrónica de consumo**: consolas de videojuegos, electrodomésticos inteligentes, dispositivos vestibles, etc. (aproximadamente 15% de los ingresos)
+1. **Fabricación por contrato de computadoras y periféricos**: portátiles, computadoras de escritorio, placas base, servidores, etc. (representan aproximadamente el 40% de los ingresos)
+2. **Fabricación por contrato de productos de comunicación**: teléfonos inteligentes, equipos de red, productos de comunicación inalámbrica, etc. (aproximadamente el 45% de los ingresos)
+3. **Fabricación por contrato de electrónica de consumo**: consolas de videojuegos, electrodomésticos inteligentes, dispositivos wearables, etc. (alrededor del 15% de los ingresos)
 
 **Características del modelo de negocio**:
 
-- **ODM (Diseño Original de Manufactura)**: servicio completo desde el diseño hasta la fabricación
-- **EMS (Servicios de Manufactura Electrónica Profesional)**: enfoque en manufactura y gestión de cadena de suministro
-- **Integración vertical**: línea de producción completa desde la adquisición de componentes hasta la prueba del producto terminado
+- **ODM (Fabricación de diseño original)**: servicios integrales desde el diseño hasta la fabricación
+- **EMS (Servicios de fabricación electrónica profesional)**: enfoque en fabricación y gestión de cadenas de suministro
+- **Integración vertical**: líneas de producción completas desde la adquisición de componentes hasta las pruebas de productos terminados
 
-Pegatron heredó el ADN tecnológico del grupo ASUS, pero se enfoca en servicios B2B de manufactura por contrato, ofreciendo a clientes de marcas globales soluciones integrales que abarcan desde el diseño de producto y desarrollo de ingeniería hasta la fabricación a gran escala.
+Pegatron ha heredado el ADN tecnológico del Grupo ASUS, pero se enfoca en servicios de fabricación por contrato B2B, ofreciendo a las marcas globales soluciones completas que abarcan desde el diseño de productos y desarrollo de ingeniería hasta la fabricación en masa.
 
-## Datos clave: los números hablan
+## Datos clave: Los números que demuestran su fortaleza
 
-**Desempeño operativo (estimación 2024, basada en informes de la industria)**:
+**Resultados operativos (estimaciones para 2024, basadas en informes de la industria)**:
 
-- **Ingresos anuales**: aproximadamente 1.3 billones de dólares taiwaneses (aproximadamente 40,000 millones de USD)
-- **Empleados globales**: aproximadamente 150,000, distribuidos entre Taiwán, China continental, República Checa, Indonesia, México y otros países
-- **Bases de producción**: 12 bases de producción principales en todo el mundo
-- **Personal de I+D**: más de 8,000 personas, representando aproximadamente el 5.3% del total de empleados
+- **Ingresos anuales**: aproximadamente 1,3 billones de nuevos dólares taiwaneses (unos 40.000 millones de dólares estadounidenses)
+- **Empleados globales**: unos 150.000 empleados, distribuidos en Taiwán, China continental, República Checa, Indonesia, México y otras regiones
+- **Bases de producción**: 12 bases de fabricación principales en todo el mundo
+- **Personal de I+D**: más de 8.000 personas, lo que representa aproximadamente el 5,3% del total de empleados
 
 **Posición en el mercado**:
 
-- **Segunda posición global en EMS**: solo por detrás de Foxconn (Hon Hai), por delante de Quanta y Wistron
-- **Participación en manufactura de iPhone**: aproximadamente 25-30%, segundo socio de manufactura más importante de Apple
-- **Manufactura de consolas**: fabricante importante de Nintendo Switch y Sony PlayStation
-- **Cuota de mercado en ODM de computadoras portátiles**: aproximadamente 15%, tercera fábrica de computadoras portátiles por contrato más grande del mundo
+- **Segundo puesto en el ranking global de EMS**: solo por detrás de Foxconn (Hon Hai), y por delante de Quanta Computer y Wistron
+- **Cuota de fabricación del iPhone**: aproximadamente 25-30%, siendo el segundo socio de fabricación por contrato de Apple
+- **Fabricación de consolas de videojuegos**: fabricante clave de Nintendo Switch y Sony PlayStation
+- **Cuota de mercado de ODM de portátiles**: alrededor del 15%, siendo la tercera mayor empresa de fabricación por contrato de portátiles del mundo
 
 **Cartera de clientes**:
 
-- **Apple**: cliente más grande, aproximadamente 45-50% de los ingresos
-- **Microsoft**: productos de la serie Xbox y Surface
-- **Nintendo**: serie de consolas Switch
+- **Apple**: cliente principal, representa aproximadamente el 45-50% de los ingresos
+- **Microsoft**: líneas de productos Xbox y Surface
+- **Nintendo**: serie de consolas de videojuegos Switch
 - **Sony**: PlayStation y productos de electrónica de consumo
-- **Google, Amazon y otros clientes de marca**
+- **Google, Amazon y otros clientes de marcas**
 
-## Historia de desarrollo: del ADN de ASUS al dominio en manufactura por contrato
+## Historia de desarrollo: De los genes de ASUS al liderazgo en fabricación por contrato
 
-### Acumulación en la era ASUS (2000-2008)
+### Acumulación en la era de ASUS (2000-2008)
 
-La historia de Pegatron comienza con ASUS. A principios de la década de 2000, existía una contradicción estructural dentro del grupo ASUS entre el negocio de marca y el negocio de manufactura por contrato: el departamento de marca buscaba aumentar el margen bruto, mientras que el departamento de manufactura necesitaba mantener competitividad de precios para ganar pedidos.
+La historia de Pegatron comienza con ASUS. A principios de la década de 2000, el Grupo ASUS enfrentaba una contradicción estructural entre su negocio de marcas y su negocio de fabricación por contrato: el departamento de marcas quería aumentar el margen de beneficio bruto, mientras que el departamento de fabricación por contrato necesitaba mantener la competitividad de precios para obtener pedidos.
 
-Esta contradicción alcanzó su punto máximo en 2005, cuando ASUS fabricaba el iBook para Apple y al mismo tiempo lanzaba computadoras portátiles de marca propia que competían con Apple, generando descontento entre los clientes.
+Esta contradicción alcanzó su punto máximo en 2005, cuando ASUS fabricaba el iBook para Apple al mismo tiempo que lanzaba sus propios portátiles de marca para competir con Apple, lo que generó insatisfacción entre los clientes.
 
-### Escisión e independencia (2008-2010): el inicio de la especialización
+### Escisión e independencia (2008-2010): Inicio de la especialización
 
-En 2007, el grupo ASUS tomó una decisión crucial: separar completamente los negocios de marca y manufactura por contrato. En junio de 2008, Pegatron Corporation fue formalmente establecida, con Tzu-Hsien Tung como presidente, asumiendo todo el negocio de manufactura por contrato de ASUS.
+En 2007, el Grupo ASUS tomó una decisión importante: separar completamente sus negocios de marca y de fabricación por contrato. En junio de 2008, se fundó oficialmente Pegatron Corporation, con Tung Tsu-Hsien como presidente, asumiendo todos los negocios de fabricación por contrato de ASUS.
 
-**El significado clave de la escisión**:
+**Significado clave de la escisión**:
 
-- Resolvió el conflicto de intereses entre marca y manufactura por contrato
-- Permitió a Pegatron concentrarse en el desarrollo de tecnología de manufactura y relaciones con clientes
-- Sentó las bases para la posterior obtención de pedidos de Apple
+- Resolver el conflicto de intereses entre la marca y la fabricación por contrato
+- Permitir que Pegatron se enfocara en desarrollar tecnologías de fabricación por contrato y relaciones con clientes
+- Sentar las bases para obtener pedidos de Apple en el futuro
 
-### Socio de Apple (2010-2015): la era dorada de la manufactura por contrato
+### Socio de Apple (2010-2015): Época dorada del negocio de fabricación por contrato
 
-En 2010, Pegatron ingresó exitosamente a la cadena de suministro de Apple, comenzando a fabricar el iPhone 4. Esto marcó la transformación de Pegatron de una fábrica de manufactura general a un "socio estratégico".
+En 2010, Pegatron ingresó con éxito a la cadena de suministro de Apple y comenzó a fabricar el iPhone 4. Esto marcó la transformación de Pegatron de una fábrica de fabricación por contrato común a un «socio estratégico».
 
 **Hitos de la colaboración con Apple**:
 
-- **2010**: inicio de la manufactura del iPhone 4
-- **2012**: obtención de los principales pedidos de manufactura del iPhone 5c
-- **2013**: expansión de la manufactura a iPad y MacBook
-- **2015**: se convirtió en el principal fabricante del iPhone 6 Plus
-
-Durante este período, los ingresos de Pegatron crecieron rápidamente, pasando de aproximadamente 300,000 millones en 2008 a 1.2 billones de dólares taiwaneses en 2015.
-
-### Diversificación (2015-2020): reducción del riesgo de concentración de clientes
-
-Después de 2015, Pegatron comenzó a expandir activamente su cartera de clientes no relacionados con Apple, reduciendo la dependencia de un solo cliente:
-
-**Expansión importante de clientes**:
-
-- **Microsoft**: Xbox One, serie Surface
-- **Nintendo**: consola Switch (desde 2017)
-- **Google**: teléfonos Pixel, electrodomésticos inteligentes Nest
-- **Amazon**: altavoces inteligentes Echo, lectores electrónicos Kindle
-
-### Transformación inteligente (2020-presente): de la manufactura al servicio
-
-Durante la pandemia de COVID-19, Pegatron demostró una excelente capacidad de gestión de cadena de suministro, manteniendo entregas estables incluso cuando la manufactura global se vio generalmente afectada.
-
-**Enfoques de transformación**:
-
-- **Manufactura inteligente**: implementación de tecnologías de IA e IoT para mejorar la eficiencia productiva
-- **Desarrollo sostenible**: compromiso de alcanzar la neutralidad de carbono para 2050
-- **Extensión de servicios**: de la manufactura pura a servicios de logística, mantenimiento y reciclaje
-
-## Influencia global: pilar invisible de la cadena de suministro
-
-### Innovador en tecnología de manufactura
-
-Pegatron no es simplemente una "fábrica de ensamblaje", sino un innovador en tecnología de manufactura:
-
-**Tecnología de manufactura de precisión**:
-
-- Dominio de tecnología de diseño y manufactura de mecanismos con precisión de 0.1 mm
-- Desarrollo de líneas de producción no tripuladas que mejoran significativamente la eficiencia
-- Establecimiento de sistemas de prueba completamente automatizados que garantizan la consistencia de la calidad del producto
-
-**Gestión de cadena de suministro**:
-
-- Gestión de más de 2,000 proveedores globales
-- Establecimiento de sistemas de monitoreo en tiempo real de la cadena de suministro para reducir el riesgo de interrupciones
-- Promoción del desarrollo sostenible de proveedores, exigiendo cumplimiento de estándares ambientales y laborales
-
-### Red de manufactura global
-
-**Distribución estratégica**:
-Pegatron ha establecido una red de manufactura que abarca cuatro continentes, capaz de responder con flexibilidad a los riesgos geopolíticos:
-
-- **Región asiática**: Taiwán (sede de I+D), China continental (principal base de manufactura)
-- **Región europea**: República Checa (servicio al mercado europeo)
-- **Región americana**: México (beneficios libres de aranceles bajo T-MEC)
-- **Región del sudeste asiático**: Indonesia (manufactura para mercados emergentes)
-
-**Estrategia de localización**:
-Para diferentes demandas de mercado, Pegatron adopta una estrategia de "producción global, suministro local", reduciendo tanto los costos logísticos como evitando riesgos comerciales.
-
-### Impacto en el ecosistema industrial
-
-**Impulso al desarrollo de industrias upstream**:
-El éxito de Pegatron ha impulsado el desarrollo de industrias upstream taiwanesas como maquinaria de precisión, componentes electrónicos y moldes, generando un efecto de agrupamiento industrial completo.
-
-**Establecimiento de estándares técnicos**:
-Como socio importante de grandes fabricantes como Apple y Microsoft, Pegatron ha participado en la formulación de numerosos estándares técnicos internacionales, elevando la influencia de Taiwán en la industria tecnológica global.
-
-## Desafíos y perspectivas: buscando nuevas oportunidades en un entorno cambiante
-
-### Desafíos actuales
-
-**Riesgo de concentración de clientes**:
-A pesar de años de esfuerzos, Apple aún representa cerca de la mitad de los ingresos de Pegatron, por lo que el problema de alta concentración de clientes persiste. Cualquier fluctuación en el negocio de Apple afecta directamente el desempeño de Pegatron.
-
-**Presión geopolítica**:
-La intensificación de la competencia tecnológica entre Estados Unidos y China pone a las fábricas taiwanesas de manufactura por contrato bajo presión intermedia. Pegatron debe mantener la capacidad de producción en China continental al mismo tiempo que cumple con los requisitos de "reducción de riesgos" de la cadena de suministro de sus clientes.
-
-**Presión por aumento de costos**:
-El aumento de costos laborales, regulaciones ambientales más estrictas y la volatilidad de precios de materias primas plantean desafíos para el control de costos en la industria de manufactura por contrato.
-
-**Necesidad de transformación tecnológica**:
-Del 4G al 5G, de la manufactura tradicional a la manufactura inteligente, el rápido cambio tecnológico requiere grandes inversiones, lo que representa una carga considerable para empresas de tamaño medio.
-
-### Oportunidades futuras
-
-**Explosión del 5G e IoT**:
-La comercialización del 5G impulsará una nueva ola de renovación de dispositivos para teléfonos inteligentes y equipos IoT. Con su acumulación tecnológica en manufactura de productos de comunicación, Pegatron tiene la oportunidad de beneficiarse de esta tendencia.
-
-**Cadena de suministro de vehículos eléctricos**:
-Bajo la tendencia de electrificación automotriz, la demanda de componentes electrónicos para vehículos eléctricos ha aumentado significativamente. Pegatron ha comenzado a posicionarse en la manufactura de electrónica automotriz, buscando tomar la delantera en este mercado emergente.
-
-**IA y computación de borde**:
-La popularización de aplicaciones de IA impulsará la demanda de dispositivos de computación de borde. La tecnología de manufactura y las relaciones con clientes de Pegatron le brindan la oportunidad de ser un participante importante en este mercado.
-
-**El auge de la manufactura en India**:
-Con el impulso de la política "Hecho en India", Pegatron está evaluando la posibilidad de establecer fábricas en India, buscando aprovechar el crecimiento del mercado indio.
-
-**Ventaja en manufactura sostenible**:
-El auge del concepto ESG significa que las fábricas de manufactura por contrato con capacidades de manufactura verde serán más valoradas por los clientes de marca. El compromiso de desarrollo sostenible de Pegatron tiene el potencial de convertirse en una ventaja competitiva.
-
-**Transformación hacia servicios**:
-De la manufactura pura al modelo "manufactura + servicios", ofreciendo servicios de ciclo de vida completo como diseño, logística, mantenimiento y reciclaje, aumentando la fidelidad del cliente y el margen bruto.
-
-## Conclusión: representante típico de la transformación de la manufactura taiwanesa
-
-La historia de Pegatron refleja el proceso de transformación de la manufactura taiwanesa, pasando de la "manufactura por contrato" a la "creación de valor". Cuando se escindió de ASUS, Pegatron era solo una fábrica de manufactura electrónica por contrato común; hoy, se ha convertido en un socio estratégico indispensable para las marcas tecnológicas globales.
-
-La clave de esta transformación no reside en la expansión de escala, sino en la mejora de capacidades. Pegatron ya no es simplemente un fabricante que "sigue planos", sino un "proveedor de soluciones" capaz de participar en el diseño de productos, optimizar procesos de manufactura y gestionar cadenas de suministro complejas. Con acciones concretas, ha demostrado que la manufactura taiwanesa tiene la capacidad de ocupar una posición más alta en la cadena de valor global.
-
-Hoy, cuando discutimos el futuro de la manufactura taiwanesa, la experiencia de Pegatron ofrece una lección importante: la clave del éxito no reside en perseguir el costo más bajo, sino en ofrecer el mayor valor. En un mundo globalizado cada vez más complejo, los clientes de marca necesitan no solo fabricantes, sino socios capaces de resolver problemas complejos.
-
-La posición de campeón oculto de Pegatron nos dice: en una era de división global del trabajo, hacer silenciosamente lo que uno domina y llevarlo a la perfección es la oportunidad de convertirse en una parte indispensable del mundo. Este es el espíritu más valioso de la manufactura taiwanesa y la razón fundamental por la que Pegatron ha logrado destacarse en una competencia feroz.
-
----
-
-## Referencias
-
-1. Sitio web oficial de Pegatron Corporation (https://www.pegatroncorp.com/)
-2. _Los Cinco Grandes de la Electrónica: la influencia global de la industria taiwanesa de manufactura por contrato_, Commonwealth Publishing, 2023
-3. Informe IDC "Worldwide EMS Market Analysis" 2024
-4. Gartner "Market Share Analysis: Electronics Manufacturing Services, Worldwide, 2024"
-5. Informe anual de Pegatron Corporation, 2023-2024
-6. TrendForce "Global EMS Industry Analysis" 2024
-7. _Transformación de la manufactura por contrato: el siguiente paso de la industria manufacturera taiwanesa_, Commonwealth Publishing, 2022
-8. Wikipedia: Pegatron Corporation (https://zh.wikipedia.org/zh-hant/和碩聯合科技)
-9. _La filosofía de gestión de Tzu-Hsien Tung_, Business Weekly, 2023
+- **2010**: Inicio de la fabricación del iPhone 4
+- **2012**: Obtención del pedido principal de fabricación del iPhone 5c
+- **2013**: Expansión del alcance de fabricación a iPad y MacBook
+- **2015**: Conversión en fabricante principal del iPhone

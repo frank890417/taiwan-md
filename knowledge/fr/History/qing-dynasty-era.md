@@ -1,104 +1,84 @@
 ---
-title: "L'ère des Qing à Taïwan (1683–1895)"
-description: "Pendant 212 ans, la dynasties des Qing a gouverné Taïwan : d'une administration négligente à une modernisation accélérée, cette période a façonné les structures administratives et la société sino-taïwanaise que nous connaissons aujourd'hui."
+title: 'Période de domination Qing'
+description: "De 1683 à 1895, la dynastie Qing a gouverné Taïwan pendant environ 212 ans, passant d'une administration passive à une construction active, posant les fondations de la structure administrative moderne de Taïwan et de la société han."
 date: 2026-03-17
-tags: [Histoire, Dynasties Qing, Ouverture des ports, Incident de Mudan]
-subcategory: 'Colonisation et empires'
-category: 'History'
-author: 'Taiwan.md Translation Team'
+author: Taiwan.md
+subcategory: '殖民與帝國'
+tags:
+  ['Histoire', 'Dynastie Qing', 'Ouverture commerciale', 'Incident de Mudan']
 readingTime: 10
-featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'History/清治時期.md'
-sourceCommitSha: '9a2361b6'
-sourceContentHash: 'sha256:f1f83caa365a0cc3'
-translatedAt: '2026-04-14T12:31:57+08:00'
+featured: false
+translatedFrom: History/清治時期.md
+sourceCommitSha: 3aba2ea3
+sourceContentHash: sha256:f1f83caa365a0cc3
+translatedAt: 2026-05-01T22:19:06+08:00
 ---
 
-# L'ère des Qing à Taïwan (1683–1895)
+# Période de domination Qing
 
-> **En 30 secondes :** Après avoir absorbé le régime des Zheng en 1683, la dynasties des Qing gouverne Taïwan pendant 212 ans. L'île passe d'une politique d'isolement et de restrictions maritimes à une ouverture commerciale progressive, puis à une modernisation imposée par les pressions étrangères. C'est durant cette période que s'établissent le découpage administratif, les grandes vagues d'immigration chinoise et les fondations culturelles qui définissent encore aujourd'hui la société taïwanaise.
+> **Aperçu en 30 secondes :** En 1683, après l'annexion du régime des Ming loyalistes (Zheng), la dynastie Qing a gouverné Taïwan pendant 212 ans, traversant une évolution d'une politique maritime restrictive à une administration active d'ouverture commerciale. Le système préfectoral et départemental a été établi, la migration massive des Han a été encouragée, l'économie agricole s'est développée, et des réformes de modernisation ont été menées sous la pression extérieure, posant les bases de la société et de la culture taïwanaises ultérieures.
 
-## Pourquoi cette période est-elle décisive ?
+## Pourquoi c'est important
 
-L'ère Qing est le moment où la société taïwanaise prend véritablement forme. Deux siècles de gouvernance impériale consolident une démographie majoritairement issue de l'immigration de Chine du Sud, instaurent un système administratif dont les grandes lignes perdurent, et forgent des traditions culturelles et religieuses propres à Taïwan — un syncrétisme unique entre les cultures Min-nan, Hakka et autochtone.
-
-Parallèlement, l'expérience de l'ouverture commerciale et des tentatives de modernisation prépare le terrain pour le développement économique et l'intégration internationale qui suivront, sous la domination japonaise puis sous la République de Chine.
+La période de domination Qing a été une phase décisive dans la formation de la structure sociale taïwanaise. Deux siècles de gouvernement ont établi le modèle d'une société d'immigration à prédominance han, instauré un système de divisions administratives qui perdure encore aujourd'hui, et forgé les traditions uniques de croyances populaires et de culture taïwanaises. Parallèlement, l'expérience de l'ouverture commerciale et des réformes de modernisation a jeté les bases du développement économique et de l'internationalisation ultérieurs de Taïwan.
 
 ## Vue d'ensemble
 
-L'histoire de la domination Qing sur Taïwan se découpe en trois grandes phases :
+Le règne de la dynastie Qing sur Taïwan peut être divisé en trois phases : **l'administration passive initiale** (1684-1760) avec l'interdiction maritime et les restrictions de traversée vers Taïwan ; **le développement stable intermédiaire** (1760-1860) marqué par la maturation de la société han et la prospérité de l'économie agricole ; et **l'ouverture forcée tardive** (1860-1895) avec l'ouverture commerciale sous la pression internationale et la promotion de la modernisation. Durant cette période, plusieurs révoltes populaires ont eu lieu, telles que l'incident de Zhu Yigui et l'incident de Lin Shuangwen, ainsi que des conflits extérieurs comme l'incident de Mudan, poussant la cour Qing à ajuster sa politique envers Taïwan, jusqu'à la cession finale au Japon après la guerre sino-japonaise.
 
-- **Administration passive (1684–1760)** : restrictions maritimes strictes, interdiction d'amener sa famille ou d'épouser des femmes autochtones, limitation des zones de colonisation.
-- **Consolidation et essor (1760–1860)** : la société des immigrants sino-taïwanais arrive à maturité, l'agriculture se développe, les réseaux commerciaux s'organisent autour des grands ports.
-- **Ouverture contrainte et modernisation (1860–1895)** : sous la pression internationale, les ports s'ouvrent au commerce mondial ; la province de Taïwan est créée en 1885 et Liu Mingchuan engage des réformes profondes.
+## Faits clés
 
-Cette période est jalonnée de révoltes populaires — les incidents Zhu Yigui (1721), Lin Shuangwen (1786) et Dai Chaochun (1862) — ainsi que de confrontations avec des puissances étrangères, comme l'incident de Mudan face au Japon (1874) et l'offensive française sur Jilong (1884–1885). Ces crises successives poussent la cour impériale à reconsidérer l'importance stratégique de Taïwan, avant de l'abandonner au Japon par le traité de Shimonoseki en 1895.
+- **Établissement des préfectures et départements :** En 1684 (23e année du règne de Kangxi), la préfecture de Taïwan a été créée sous la juridiction de la province du Fujian, administrant trois départements : Taïwan, Fengshan et Zhuluo.
+- **Politique d'immigration :** Strictement limitée au début, elle s'est progressivement assouplie après 1760, la population han atteignant 2,5 millions.
+- **Ouverture commerciale :** Le traité de Tianjin de 1858 a ouvert Tamsui et Anping, puis Keelung et Takao en 1863.
+- **Réforme administrative :** En 1885, Taïwan est devenue une province, Liu Mingchuan en tant que premier gouverneur a promu la modernisation.
+- **Cession au Japon :** En 1895, le traité de Shimonoseki a été signé, la dynastie Qing cédant définitivement Taïwan et les Pescadores au Japon.
 
-## Chiffres et jalons clés
+## Contenu approfondi
 
-| Événement                                    | Date | Détail                                                                         |
-| -------------------------------------------- | ---- | ------------------------------------------------------------------------------ |
-| Création du préfecture de Taïwan             | 1684 | Rattachée à la province du Fujian ; trois districts : Taïwan, Fengshan, Zhuluo |
-| Assouplissement des restrictions migratoires | 1760 | Population han dépasse progressivement 2,5 millions                            |
-| Traité de Tianjin — ouverture des ports      | 1858 | Danshui et Anping ouverts au commerce international                            |
-| Ouverture de Jilong et Dagou                 | 1863 | Deux ports supplémentaires intégrés aux échanges mondiaux                      |
-| Création de la province de Taïwan            | 1885 | Liu Mingchuan nommé premier gouverneur (xunfu)                                 |
-| Traité de Shimonoseki                        | 1895 | Taïwan et les Penghu cédés au Japon à titre perpétuel                          |
+### Évolution du système administratif
 
-## Analyse approfondie
+Au début de la dynastie Qing, une **administration passive** a été adoptée, considérant Taïwan comme une région frontalière périphérique. La préfecture de Taïwan a été placée sous la juridiction de la province du Fujian, supervisant les départements de Taïwan, Fengshan et Zhuluo, avec un sous-préfet établi aux Pescadores. Les **restrictions de traversée vers Taïwan** étaient strictes, appliquant la « politique des trois interdictions » : interdiction d'emporter sa famille, interdiction d'épouser des aborigènes, interdiction de franchir les frontières.
 
-### L'évolution du système administratif
+Avec la croissance démographique et les besoins de développement, les divisions administratives se sont progressivement affinées. En 1723, le département de Zhanghua et le bureau de Tamsui ont été ajoutés, et en 1875, la préfecture de Taipei a été nouvellement créée, formant un schéma de trois préfectures et un bureau. **L'établissement de Taïwan comme province en 1885** a été un tournant majeur dans la gouvernance. Le premier gouverneur Liu Mingchuan a vigoureusement promu la construction de la modernisation, développant des infrastructures telles que les chemins de fer, le télégraphe et les services postaux.
 
-Au lendemain de la conquête, la cour des Qing considère Taïwan comme une terre périphérique, difficile à administrer et potentiellement dangereuse. La politique initiale se résume à contenir : on établit une préfecture (fu) rattachée au Fujian, avec trois districts subordonnés et un commissaire aux Penghu. Les fameuses **« trois interdictions »** encadrent sévèrement la colonisation : interdiction d'amener femme et enfants, d'épouser des femmes des peuples autochtones, de s'aventurer au-delà des zones délimitées.
+### Développement socio-économique
 
-Mais la réalité du terrain résiste aux décrets impériaux. La population croît, les besoins administratifs s'intensifient, et le découpage territorial est revu à plusieurs reprises. En 1723, les districts de Zhanghua et de Danshui sont créés pour gérer le nord de l'île. En 1875, la préfecture de Taipei est fondée, portant la structure administrative à trois préfectures et une subdivision spéciale.
+Le **développement agricole** a été l'axe principal de la période de domination Qing, s'étendant progressivement des plaines du sud-ouest vers les régions montagneuses intérieures. Des **systèmes hydrauliques** tels que le canal de Babao et le canal de Liugong ont été construits, favorisant le développement de la riziculture. Les **réseaux commerciaux** centrés sur les ports de Lukang et Manga reliaient le continent à Taïwan.
 
-La véritable rupture survient en **1885 avec la proclamation de Taïwan en province à part entière**. Liu Mingchuan, nommé gouverneur, lance un programme ambitieux : construction d'une ligne de chemin de fer entre Jilong et Xinzhu, installation de lignes télégraphiques, mise en place d'un service postal, réforme militaire. Ces chantiers se heurtent aux contraintes budgétaires et restent inachevés, mais ils posent les bases des transformations à venir sous l'administration japonaise.
+La **société d'immigration** a formé des structures organisationnelles uniques, avec des associations régionales, la croyance en Yimin Ye (seigneurs de la justice), la culture de Mazu et d'autres liens sociaux combinant géographie et parenté. En termes de **relations interethniques**, les Hakkas, les Hoklo et les aborigènes ont connu à la fois compétition et intégration, formant la base de la coexistence multiculturelle de Taïwan.
 
-### Développement économique et social
+### Transformation des relations extérieures
 
-Le moteur principal de l'économie taïwanaise sous les Qing est **l'agriculture**. Les pionniers défrichent d'abord les plaines de l'ouest et du sud-ouest, puis progressent vers les contreforts montagneux. La construction de grands systèmes d'irrigation — le canal Babao (八堡圳) dans la plaine de Changhua, le canal Liugong (瑠公圳) dans le bassin de Taipei — permet d'étendre les rizières et d'intensifier la production.
+L'**incident de Mudan** (1874) a été un tournant important. Le Japon, prétextant le meurtre de naufragés de Ryūkyū, a envoyé des troupes dans le sud de Taïwan, forçant la cour Qing à reconnaître l'importance stratégique de Taïwan. Après l'**ouverture commerciale**, des marchands et missionnaires étrangers sont arrivés, apportant de nouvelles technologies et idées.
 
-Les échanges commerciaux s'organisent autour de ports actifs comme Luka (Lugang) et Mengjia (Wanhua), qui jouent un rôle de pivot entre Taïwan et le continent. Riz, sucre et camphre constituent les principales exportations ; en retour, les marchandises manufacturées et les denrées du Fujian et du Guangdong alimentent la consommation locale.
+La **construction de la modernisation** a atteint son apogée sous Liu Mingchuan, avec la construction du chemin de fer de Keelung à Hsinchu, l'installation de lignes télégraphiques, la mise en place d'un système postal et la promotion de la modernisation militaire. Bien que ces projets n'aient pas pu être entièrement réalisés en raison de difficultés financières, ils ont posé des bases importantes pour la modernisation de Taïwan.
 
-La société immigrante développe ses propres structures de solidarité. Les associations de compatriotes (tongxiang huiguan), le culte de Yimin Ye (les « martyrs justes », figure centrale de la culture Hakka), et les processions de Mazu créent des liens qui transcendent les familles et les villages. Ces réseaux hybrides — entre solidarité géographique et identité ethnique — donnent naissance à une culture locale distincte, qui n'est ni simplement « chinoise » ni réductible à ses composantes séparées.
+### Événements majeurs
 
-Les relations entre les communautés Min-nan, Hakka et les peuples autochtones sont faites autant de rivalités que d'échanges. Des conflits fonciers et des affrontements armés éclatent régulièrement, mais des formes de métissage culturel s'opèrent aussi, jetant les bases d'une société pluriethnique aux identités enchevêtrées.
+L'**incident de Zhu Yigui** (1721) a reflété l'instabilité de la société d'immigration, tandis que l'**incident de Lin Shuangwen** (1786) a montré la complexité des conflits interethniques. Ces révoltes ont poussé la cour Qing à renforcer la défense et l'administration de Taïwan.
 
-### Les grandes crises et les rapports avec l'extérieur
+L'**incident of Dai Chaochun** (1862) s'est produit au début de l'ouverture commerciale, reflétant le conflit entre la société traditionnelle et les changements modernes. La **guerre sino-française** (1884-85) a vu les forces françaises attaquer Keelung et Tamsui, les militaires et civils taïwanais résistant héroïquement, renforçant la conscience locale des Taïwanais.
 
-**L'incident de Mudan (1874)** constitue un tournant dans la perception de Taïwan par la cour impériale. Le Japon, prétextant le meurtre de naufragés ryukyuans par des membres de la communauté Paiwan, envoie des troupes dans le sud de l'île. La cour des Qing, contrainte de négocier et de verser une indemnité, réalise soudain la valeur stratégique de ce territoire qu'elle avait longtemps traité comme une charge encombrante. Cette prise de conscience accélère les projets d'administration et de défense.
+## Impact historique
 
-Après l'ouverture des ports, les marchands étrangers s'installent à Danshui, Anping, Jilong et Dagou (Gaoxiong). Des missionnaires protestants — notamment les Presbytériens canadiens et britanniques — introduisent des pratiques médicales modernes et diffusent une première éducation occidentale. Le commerce du thé, développé dans les collines du nord de l'île, devient une source de revenus majeure et connecte Taïwan aux marchés internationaux.
-
-La **guerre franco-chinoise (1884–1885)** teste la résistance taïwanaise sur son propre sol. Les forces françaises bombardent Jilong et s'emparent brièvement de ses installations portuaires, tandis qu'elles tentent une percée à Danshui. La défense organisée par Liu Mingchuan, malgré des moyens limités, parvient à contenir l'avancée ennemie. Cet épisode renforce le sentiment d'une identité locale distincte et consolide la légitimité de ceux qui ont défendu l'île.
-
-### Les soulèvements populaires
-
-Les révoltes jalonnent toute la période Qing. **L'incident Zhu Yigui (1721)** révèle la fragilité de l'ordre colonial dans une société d'immigrants sans racines profondes. **L'incident Lin Shuangwen (1786)**, l'un des plus importants, illustre les tensions ethniques et les rivalités entre sociétés secrètes dans une population en pleine expansion. Ces événements conduisent la cour à renforcer les garnisons et à affiner son dispositif administratif.
-
-**L'incident Dai Chaochun (1862)**, contemporain de l'ouverture commerciale, signale les tensions entre l'ordre traditionnel et les bouleversements que génère l'intégration à l'économie mondiale. Chaque soulèvement, même réprimé, laisse des traces dans la mémoire collective et dans les négociations permanentes autour du pouvoir et de l'appartenance.
-
-## Héritage historique
-
-L'ère des Qing laisse à Taïwan un héritage ambivalent mais fondateur. Elle implante une population majoritairement han, structure un territoire selon des découpages administratifs qui persistent, et produit une culture originale — mélange de religiosité populaire, de réseaux familiaux et claniques, de mémoires de migration. Les tentatives de modernisation de la fin du XIXe siècle, incomplètes et fragiles, ouvrent néanmoins une voie que l'administration japonaise empruntera avec bien plus de moyens.
-
-La cession de 1895 n'est pas seulement une défaite militaire : c'est le moment où Taïwan, pour la première fois, devient un enjeu en soi — une entité dont l'identité propre commence à se distinguer de la mère patrie continentale.
+La période de domination Qing a posé les bases fondamentales de la société han de Taïwan, établi une structure économique principalement agricole, et formé la culture unique de Taïwan fusionnant les cultures hoklo, hakka et aborigène. L'établissement du système administratif a fourni une base pour le développement politique ultérieur, tandis que les tentatives de modernisation ont ouvert la voie aux constructions de la période de domination japonaise.
 
 **Pour aller plus loin :**
 
-- Robert Swinhoe — Premier consul britannique à Taïwan sous les Qing, il réalise les premiers inventaires naturalistes systématiques de l'île dans le contexte de l'ouverture des ports.
-- Guerre franco-chinoise — En 1884–1885, les forces françaises attaquent Taïwan depuis Jilong ; la résistance dure sept mois et conduit à l'élévation de Taïwan au rang de province.
-- Campagne de 1895 — La fin de l'ère Qing : le traité de Shimonoseki cède Taïwan au Japon ; la République de Taïwan (Taiwan Minzhuguo) tente pendant 148 jours une résistance désespérée avant de s'effondrer.
+- [Robert Swinhoe](/people/史溫侯) — Premier consul britannique à Taïwan durant la période de domination Qing, il a réalisé les premières enquêtes naturalistes systématiques de Taïwan dans le contexte de l'ouverture commerciale
+- [Guerre sino-française](/history/清法戰爭) — En 1884-1885, les forces françaises ont attaqué Taïwan, la cour Qing a tenu pendant sept mois dans les montagnes de Keelung, et après la guerre, Taïwan a été élevé au rang de province
+- [Campagne de Yiwei](/history/乙未之役) — La fin de la période de domination Qing : en 1895, le traité de Shimonoseki a cédé Taïwan, la République démocratique de Taïwan a résisté pendant 148 jours avant de s'effondrer
 
 ## Références
 
-- [Taïwan sous les Qing — Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
-- [Histoire des relations extérieures de Taïwan — Wikipédia](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E5%B0%8D%E5%A4%96%E9%97%9C%E4%BF%82%E5%8F%B2)
+- [Période de domination Qing à Taïwan - Wikipédia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F)
+- [Histoire des relations extérieures de Taïwan - Wikipédia](https://zh.wikipedia.org/zh-hant/%E8%87%BA%E7%81%A3%E5%B0%8D%E5%A4%96%E9%97%9C%E4%BF%82%E5%8F%B2)
 
 ## Thèmes connexes
 
-- Période néerlandaise, espagnole et des Zheng
-- Période japonaise (1895–1945)
+- [Période hollandaise, espagnole et des Ming loyalistes](/history/荷西明鄭時期)
+- [Période de domination japonaise](/history/日治時期)
+- [Guerres du camphre au XIXe siècle](/history/19世紀的樟腦戰爭) — Comment l'ouverture commerciale de 1860 a entraîné Taïwan dans la chaîne industrielle mondiale, le différend du camphre avec les navires de guerre britanniques bombardant Anping en 1868

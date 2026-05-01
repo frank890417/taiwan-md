@@ -1,136 +1,140 @@
 ---
-title: 'Chu Ko-liang : le roi du rire taïwanais'
-description: 'Figure emblématique de la culture des cabarets à Taïwan, comédien populaire bien-aimé, disparu en 2017'
+title: 'Chu Ko-liang'
+description: 'Figure emblématique de la culture des spectacles de variétés taïwanais, comédien national adoré du public, décédé en 2017'
 date: 2026-03-19
-tags: ['Chu Ko-liang', 'cabaret', 'comédie', 'variétés', 'langue taïwanaise']
-subcategory: 'Numérique et médias'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
-featured: false
+tags:
+  [
+    'Chu Ko-liang',
+    'spectacles de variétés',
+    'comédie',
+    'variétés télévisées',
+    'taïwanais',
+  ]
+subcategory: '數位與媒體'
 lastVerified: 2026-03-19
-translatedFrom: 'People/豬哥亮.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:88702d1dcebd6f35'
-translatedAt: '2026-04-14T19:18:50+08:00'
+lastHumanReview: false
+translatedFrom: People/豬哥亮.md
+sourceCommitSha: 83b74a21
+sourceContentHash: sha256:88702d1dcebd6f35
+translatedAt: 2026-05-01T22:19:06+08:00
 ---
 
-# Chu Ko-liang : le roi incontesté de la comédie taïwanaise
+# Chu Ko-liang : le roi populaire de la culture des spectacles de variétés taïwanais
 
-Chu Ko-liang est l'un des comédiens et animateurs de variétés les plus représentatifs de Taïwan. Son style de jeu singulier et son humour en langue taïwanaise ont conquis le public pendant plusieurs décennies. Parti des scènes de nuit des marchés de rue, il a fini par dominer le monde des émissions télévisées, forgeant un genre unique que l'on pourrait appeler l'« humour à la Chu ». Ses numéros collaient au plus près de la vie populaire et lui valaient une adoration profonde des classes modestes, au point d'être surnommé le « comédien national de Taïwan ». Il est décédé d'un cancer colorectal en 2017, à l'âge de soixante-dix ans.
+Chu Ko-liang est le comédien et roi des variétés le plus emblématique de Taïwan, ayant conquis le public taïwanais pendant plusieurs décennies grâce à son style de performance unique et son humour en taïwanais. Issu des spectacles de nuit dans les marchés nocturnes (夜市), il est devenu une figure dominante de la télévision de variétés, créant le style distinctif de l'« humour à la Chu ». Son jeu, ancré dans la vie quotidienne du peuple, lui a valu l'affection profonde du grand public, au point d'être surnommé le « comédien national de Taïwan ». Il est décédé en 2017 d'un cancer du côlon, à l'âge de 70 ans.
 
-## Des origines populaires
+## Un parcours artistique enraciné dans le peuple
 
-Chu Ko-liang, de son vrai nom Hsieh Hsin-ta, est né le 6 décembre 1946 à Wanhua, Taipei. Son père était forgeron, sa mère vendait des légumes au marché. La famille vivait dans la gêne. Il a grandi dans le quartier du temple Longshan, baigné depuis l'enfance dans la culture populaire de ce coin de ville.
+Chu Ko-liang, de son vrai nom Hsieh Hsin-ta, est né le 6 décembre 1946 à Wanhua, Taipei. Son père, Hsieh Huo-yen, était forgeron et sa mère vendait des légumes au marché ; la famille vivait dans une modeste condition. Il a grandi autour du temple Longshan de Wanhua, profondément imprégné de la culture populaire locale.
 
-Après l'école primaire, les difficultés financières l'ont contraint à abandonner ses études pour aider à subvenir aux besoins du foyer dans les marchés de nuit de Wanhua. À quinze ans, il a découvert l'opéra taïwanais et pris des cours de théâtre traditionnel, une expérience qui allait jeter les bases de toute sa carrière.
+Après l'école primaire, contraint d'abandonner ses études en raison des difficultés financières de sa famille, il a commencé à gagner sa vie en aidant sur les marchés nocturnes de Wanhua. À 15 ans, il découvrit l'opéra taïwanais (歌仔戲) et suivit l'enseignement d'un maître de théâtre traditionnel, une expérience qui posa les bases de sa future carrière artistique.
 
-Dans les années 1960, il a commencé à se produire dans les rues et sur les places de marché, imitant les chanteurs et les acteurs populaires de l'époque. Son jeu vivant et expressif lui a rapidement valu une petite notoriété dans le quartier.
+Dans les années 1960, il se lança dans des spectacles de rue sur les marchés nocturnes, imitant les chanteurs et stars de cinéma en vogue à l'époque. Ses performances, vivantes et expressives, lui valurent une certaine notoriété dans le quartier de Wanhua.
 
-## L'âge d'or des cabarets
+## L'essor de la culture des spectacles de variétés
 
-Dans les années 1970, l'essor économique de Taïwan a fait croître la demande en divertissement nocturne, et la culture des cabarets a émergé naturellement. Chu Ko-liang a saisi cette opportunité pour se produire dans des salles à travers tout le pays.
+Dans les années 1970, l'essor économique de Taïwan entraîna une demande croissante de divertissements nocturnes, favorisant l'émergence de la culture des spectacles de variétés (秀場). Chu Ko-liang saisit cette opportunité et commença à se produire dans des salles de spectacle à travers l'île.
 
-Son spectacle mêlait théâtre traditionnel, récitation populaire et éléments de la culture moderne, donnant naissance à un style qui lui était propre. Sa maîtrise du chant parlé en langue taïwanaise — et sa capacité à improviser des textes rimés — fascinait les spectateurs.
+Son jeu mêlait théâtre traditionnel, récitations populaires et éléments de la culture moderne, formant le « style Chu » qui lui était propre. Son talent particulier pour le rap en taïwanais, capable de composer spontanément des vers rimés, séduisit profondément le public.
 
-Ses numéros intégraient volontiers des commentaires sur l'actualité et des critiques sociales, donnant voix avec humour aux préoccupations du petit peuple. Cette proximité avec le public lui a permis de connaître une ascension rapide.
+Ses spectacles de variétés intégraient souvent des commentaires sur l'actualité et une satire sociale, exprimant avec humour le ressenti des petites gens. Ce style proche du peuple le propulsa rapidement au sommet de la popularité.
 
 ## L'âge d'or des variétés télévisées
 
-Dans les années 1980, l'industrie télévisuelle taïwanaise était en plein essor, et Chu Ko-liang a réussi sa transition vers le petit écran. Son émission, _Le Cabaret de Chu Ko-liang_, est devenue l'une des plus populaires de l'époque.
+Dans les années 1980, l'industrie télévisuelle taïwanaise connut un essor considérable, et Chu Ko-liang réussit sa transition vers la télévision de variétés. L'émission qu'il animait, _Chu Ko-liang's Cabaret Show_ (《豬哥亮歌廳秀》), devint l'une des émissions de variétés les plus populaires de l'époque.
 
-L'émission reprenait le format du spectacle de cabaret, combinant chants, danses et numéros comiques. La façon unique qu'avait Chu Ko-liang d'animer et d'improviser en direct rendait chaque épisode plein de surprises et de rires.
+Le programme, conçu sous forme de spectacle de cabaret, combinait chant, danse et sketches comiques. Grâce à son style d'animation unique et ses talents d'improvisation, Chu Ko-ilang remplissait l'émission de surprises et de rires.
 
-Il excelled particularly in interactions with guests — whether famous artists or ordinary members of the public, il savait toujours les amener à révéler leur côté savoureux. Cette capacité à mettre les gens à l'aise était l'une des clés de son succès.
+Il excellait particulièrement dans l'interaction avec ses invités, qu'il s'agisse de célébrités ou de spectateurs anonymes, sachant les mettre en valeur avec humour. Cette qualité de proximité fut un facteur clé de son succès.
 
-## Un style de jeu inimitable
+## Un style de performance singulier
 
-Le style de Chu Ko-liang se distinguait par plusieurs caractéristiques majeures :
+Le style de performance de Chu Ko-liang était unique en son genre, caractérisé par les éléments suivants :
 
-**La maîtrise du langage :** expert en chant parlé taïwanais, il improvisait des comptines rimées avec une aisance déconcertante. Son usage de la langue taïwanaise était vivant, plein de sagesse de rue et d'humour spontané.
+**L'art linguistique :** Maître du rap en taïwanais, il savait composer spontanément des comptines rimées. Son usage du taïwanais était vivant et expressif, empreint de sagesse populaire et d'humour.
 
-**La comédie corporelle :** il utilisait des gestes et des expressions exagérés pour créer des effets comiques visuels. Son jeu portait l'empreinte forte du théâtre traditionnel, mais restait profondément ancré dans la modernité.
+**La comédie physique :** Il utilisait des gestes et des expressions faciales exagérés pour créer des effets comiques visuels. Son jeu portait la marque du théâtre traditionnel tout en conservant une touche de modernité.
 
-**L'improvisation :** doté d'une capacité d'adaptation remarquable, il savait tirer parti de chaque situation pour créer le fou rire. Cette réactivité au contexte donnait à chaque représentation un caractère unique.
+**L'improvisation :** Doté d'une remarquable capacité d'improvisation, il savait créer des moments de rire en fonction du contexte immédiat. Cette réactivité sur scène rendait chaque performance unique.
 
-**Un humour populaire :** ses numéros puisaient dans l'expérience quotidienne du plus grand nombre et cherchaient la gaîté par les voies les plus directes et les plus honnêtes.
+**L'humour populaire :** Le contenu de ses spectacles était ancré dans le vécu quotidien du grand public, créant la joie de la manière la plus simple et directe.
 
-## Controverses et traversée du désert
+## Controverses et période de creux
 
-Au milieu des années 1990, Chu Ko-liang a été contraint de s'éloigner du monde du spectacle en raison de dettes liées au jeu. Il a passé cette période en Chine continentale, laissant sa carrière à Taïwan au point mort.
+Au milieu des années 1990, Chu Ko-liang fut contraint de s'éloigner temporairement du monde du spectacle en raison de problèmes de dettes liées au jeu. Durant cette période, il se retira en Chine continentale, et sa carrière à Taïwan connut un coup d'arrêt.
 
-Les médias se sont fait l'écho de sa vie privée agitée — complications sentimentales, problèmes de dettes — ce qui a quelque peu terni son image. Pourtant, l'affection que lui portait le public populaire n'a jamais vraiment disparu.
+Les médias couvrirent abondamment sa vie privée, y compris ses relations sentimentales et ses difficultés financières, ce qui entacha quelque peu son image. Cependant, l'affection du public populaire à son égard ne disparut pas entièrement.
 
-Cette traversée du désert a amené Chu Ko-liang à une réflexion profonde sur lui-même, et il est dit qu'elle lui a appris à chérir davantage sa relation avec le public. Son retour fut celui d'un artiste qui s'était recentré sur l'essentiel.
+Cette période de creux permit à Chu Ko-liang de mener une profonde réflexion sur sa vie et d'apprécier davantage sa relation avec le public. Son retour ultérieur fut marqué par un investissement accru dans la qualité de ses performances.
 
-## Un retour triomphal
+## Un retour triomphal et une seconde carrière
 
-À la fin des années 2000, Chu Ko-liang est revenu sur la scène taïwanaise pour vivre une seconde vie artistique. Des émissions comme _Le Club de Chu Ko-liang_ ont de nouveau conquis le public.
+À la fin des années 2000, Chu Ko-liang fit son retour dans le monde du spectacle taïwanais, entamant une seconde phase de carrière. Les émissions qu'il anima, telles que _Chu Ko-liang Company_ (《豬哥會社》), retrouvèrent rapidement la faveur du public.
 
-Son retour révélait un artiste mûri, fidèle à son style d'origine mais plus attentif à la qualité de ses productions. Il a collaboré activement avec de jeunes artistes, témoignant d'une capacité d'adaptation remarquable.
+Après son retour, son jeu gagna en maturité ; tout en conservant son style d'origine, il accorda une plus grande attention à la qualité des programmes. Il collabora activement avec de jeunes artistes, démontrant une excellente capacité d'adaptation.
 
-Dans les années 2010, il a participé à plusieurs films, dont la comédie grand public _Zone Pro Site_ et ses suites, prouvant que son charme comique transcendait les formats.
+Dans les années 2010, il participa à plusieurs films à succès, dont la série _The Fierce Wife Final Episode_ (《大尾鱸鰻》), prouvant que son charisme scénique transcendait les différents médias.
 
-## L'aventure cinématographique
+## De nouvelles explorations au cinéma
 
-En fin de carrière, Chu Ko-liang s'est impliqué activement dans le cinéma. Il a joué un rôle central dans la série de films réalisés par Chiu Li-kuan, dont _Zone Pro Site_, qui a réalisé des scores au box-office remarquables.
+Dans la dernière partie de sa carrière, Chu Ko-liang s'investit activement dans le cinéma, jouant un rôle important dans la série _The Fierce Wife Final Episode_ réalisée par Chiu Li-kwan, qui connut un succès commercial remarquable.
 
-Il a su transposer son expérience des variétés télévisées sur grand écran, démontrant le potentiel commercial de la comédie en langue taïwanaise. Ces œuvres ont insufflé une nouvelle énergie au cinéma local.
+Il réussit à transposer son expérience de la comédie télévisée au grand écran, démontrant le potentiel commercial des films comiques en taïwanais. Ces œuvres insufflèrent une nouvelle vitalité au cinéma local taïwanais.
 
-Au cinéma, Chu Ko-liang a préservé son humour caractéristique tout en faisant preuve d'une compréhension plus profonde des personnages qu'il incarnait. Il ne se contentait pas de faire rire ; il transmettait aussi les émotions de ses rôles.
+Ses performances cinématographiques conservèrent son humour caractéristique tout en révélant une compréhension approfondie de ses personnages. Il ne se contentait pas de faire rire : il savait aussi transmettre les émotions de ses personnages.
 
-## Une contribution durable à la culture taïwanaise
+## Contribution à la culture en taïwanais
 
-Chu Ko-liang a joué un rôle majeur dans la promotion de la culture populaire en langue taïwanaise. À une époque marquée par la politique de mandarinoisation, il a continué à se produire exclusivement en taïwanais, lui conférant une place importante dans les médias contemporains.
+Chu Ko-liang fut un acteur majeur de la promotion de la culture populaire en taïwanais, et ses performances conférèrent à cette langue une place importante dans les médias modernes. À une époque de sinisation linguistique, il persista à jouer en taïwanais.
 
-Ses techniques de chant parlé taïwanais ont influencé de nombreux artistes de la génération suivante, dont Peng Chia-chia et Hsu Hsiao-shun, qui ont tous deux déclaré s'être inspirés de lui. Chu Ko-liang a établi une tradition essentielle pour la comédie en langue taïwanaise.
+Ses techniques de rap en taïwanais influencèrent de nombreux artistes de la génération suivante, notamment Peng Chia-chia et Hsu Hsiao-shun, qui reconnurent tous avoir été inspirés par lui. Chu Ko-liang établit ainsi une tradition majeure de la comédie en taïwanais.
 
-Son travail a également permis de conserver de nombreux éléments de la culture traditionnelle taïwanaise — les intonations de l'opéra taïwanais, les formes de récitation populaire — contribuant ainsi à la transmission du patrimoine immatériel.
+Ses performances ont également préservé de nombreux éléments de la culture traditionnelle taïwanaise, notamment les airs de l'opéra taïwanais et les récitations populaires, contribuant ainsi de manière significative à la transmission culturelle.
 
 ## Un lien profond avec le public
 
-Le plus grand succès de Chu Ko-liang réside dans le lien émotionnel fort qu'il a tissé avec ses spectateurs. Ses numéros ont toujours été empreints de sincérité, et le public le sentait.
+Le plus grand succès de Ko-liang résidait dans le lien émotionnel profond qu'il avait tissé avec son public. Ses performances étaient toujours empreintes de sincérité, et le public percevait son dévouement.
 
-Il était particulièrement aimé dans le centre et le sud de Taïwan ainsi que dans les milieux populaires, où on le considérait comme « l'un des nôtres ». Cette proximité est l'un des facteurs qui lui ont permis de maintenir une carrière sur plusieurs décennies.
+Il était particulièrement aimé des spectateurs du centre et du sud de Taïwan ainsi que des classes populaires, qui le considéraient comme « l'un des leurs ». Cette proximité fut un facteur déterminant de sa carrière artistique qui s'étendit sur plusieurs décennies.
 
-Même pendant ses années difficiles, de nombreux fans fidèles lui ont apporté leur soutien, témoignant de la place toute particulière qu'il occupait dans les cœurs.
+Même durant sa période de creux, de nombreux fans fidèles continuèrent à le soutenir, témoignant de la place particulière qu'il occupait dans le cœur du public.
 
-## L'héritage dans les variétés taïwanaises
+## Influence sur la culture des variétés taïwanaises
 
-Chu Ko-liang a posé les bases d'un modèle important pour les émissions de variétés populaires taïwanaises, influençant d'innombrables productions qui lui ont succédé. Son style d'animation a été imité et étudié par de nombreux successeurs.
+Chu Ko-liang a créé un modèle important pour les émissions de variétés locales taïwanaises, influençant la production d'innombrables émissions ultérieures. Son style d'animation a été imité et étudié par de nombreux successeurs.
 
-Il a prouvé la valeur commerciale des variétés en langue taïwanaise, ouvrant un segment de marché essentiel pour l'industrie télévisuelle. Cela a eu une importance considérable pour le développement de la culture télévisuelle taïwanaise.
+Il a prouvé la valeur commerciale des émissions de variétés en taïwanais, ouvrant un segment de marché important pour l'industrie télévisuelle taïwanaise. Cela a eu une signification majeure pour le développement de la culture télévisuelle à Taïwan.
 
-Des animateurs aussi connus que Jacky Wu ou Hu Gua ont affirmé avoir été influencés par Chu Ko-liang. Il a fondé une tradition artistique précieuse pour le monde des variétés taïwanaises.
+De nombreux présentateurs de variétés renommés, tels que Jacky Wu et Hu Kui, ont reconnu avoir été influencés par Chu Ko-liang. Il a établi une tradition scénique fondamentale dans le monde des variétés taïwanaises.
 
-## Le combat contre la maladie et les leçons d'une vie
+## Les dernières années : lutte contre le cancer et réflexions sur la vie
 
-En 2014, Chu Ko-liang a reçu un diagnostic de cancer colorectal et a commencé son traitement. Même affaibli par la maladie, il a continué à travailler, faisant preuve d'une volonté remarquable.
+En 2014, Chu Ko-liang fut diagnostiqué d'un cancer du côlon et commença un traitement. Malgré la maladie, il continua à travailler, faisant preuve d'une volonté tenace.
 
-Pendant cette période difficile, il a chéri encore plus intensément le temps passé avec sa famille et son public, s'investissant dans ses représentations avec encore plus de soin. Son optimisme face à la maladie a ému profondément beaucoup de personnes.
+Durant sa lutte contre le cancer, il chérissait davantage le temps passé avec sa famille et son public, et ses performances étaient encore plus investies. Il affronta la maladie avec un optimisme qui émut beaucoup de monde.
 
-Il a exprimé dans des interviews sa vision de la vie, affirmant que le plus grand accomplissement était de pouvoir apporter de la joie au public. Cet amour du spectacle forçait l'admiration.
+Dans des interviews, il exprima ses réflexions sur la vie, estimant que la plus grande réussite était d'apporter de la joie au public. Cette passion pour la scène forçait l'admiration.
 
-## L'adieu de 2017
+## Les adieux de 2017
 
-Le 15 mai 2017, Chu Ko-liang est décédé des suites d'un cancer colorectal à l'hôpital National Taiwan University, à l'âge de soixante-dix ans. Sa disparition a suscité un deuil profond dans toute la société taïwanaise, et des personnalités de tous horizons ont exprimé leurs hommages.
+Le 15 mai 2017, Chu Ko-liang s'éteignit à l'hôpital de l'Université nationale de Taïwan des suites d'un cancer du côlon, à l'âge de 70 ans. Son décès provoqua un deuil à l'échelle de la société taïwanaise, et de nombreuses personnalités exprimèrent leur nostalgie.
 
-De nombreux collègues du monde du spectacle et des fans se sont rassemblés lors de la cérémonie d'adieu, dans une atmosphère de profonde émotion. Sa mort a marqué la fin d'une époque ; la culture des cabarets taïwanais perdait l'une de ses figures les plus importantes.
+De nombreux amis du monde du spectacle et fans assistèrent à ses funérailles, dans une atmosphère émouvante. Son départ marqua la fin d'une époque : la culture des spectacles de variétés taïwanais perdait l'un de ses représentants les plus importants.
 
-Les médias ont dressé le bilan de sa carrière artistique, saluant sa contribution essentielle à la culture du divertissement taïwanais. Les enregistrements de ses performances sont devenus un patrimoine culturel précieux.
+Les médias revinrent largement sur sa carrière artistique, saluant sa contribution essentielle à la culture du divertissement taïwanais. Ses enregistrements de performances sont devenus un patrimoine culturel précieux.
 
-## Un héritage vivant
+## Héritage culturel et influence éternelle
 
-Ce que Chu Ko-liang a laissé derrière lui, ce n'est pas seulement le rire — c'est un témoignage précieux de la culture populaire taïwanaise. Ses performances ont documenté les transformations de la société taïwanaise et possèdent une valeur historique indéniable.
+Chu Ko-liang a laissé bien plus que des rires : il a été un témoin précieux de la culture populaire taïwanaise. Ses performances ont documenté les transformations de la société taïwanaise et possèdent une valeur historique considérable.
 
-La tradition comique en langue taïwanaise qu'il a contribué à établir continue d'influencer les artistes qui lui ont succédé. De nombreux jeunes artistes apprennent de ses techniques et s'inspirent de son esprit.
+La tradition de la comédie en taïwanais qu'il a fondée continue d'influencer les artistes des générations suivantes, et de nombreux jeunes comédiens ont appris leur art en étudiant ses performances.
 
-Chu Ko-liang a prouvé qu'un artiste issu du milieu populaire peut atteindre une grandeur véritable. Son parcours de vie a inspiré d'innombrables personnes qui nourrissaient un rêve artistique.
+Chu Ko-liang a prouvé qu'un artiste issu du peuple pouvait accomplir de grandes choses, et son parcours de vie a inspiré d'innombrables personnes nourrissant des rêves artistiques.
 
-Son style est devenu une composante essentielle de la culture taïwanaise. L'« humour à la Chu » s'est imposé comme un genre classique de la comédie locale. Quels que soient les changements que l'époque apporte, la place de Chu Ko-liang dans l'histoire du divertissement taïwanais demeurera à jamais irremplaçable.
+Son style de performance est devenu une composante essentielle de la culture taïwanaise, et l'« humour à la Chu » est devenu un genre classique de la comédie taïwanaise. Quelles que soient les évolutions du temps, la place de Chu Ko-liang dans l'histoire de la culture du divertissement taïwanais restera à jamais incontestable.
 
 ## Références
 
-- [Base de données de la télévision taïwanaise — NCCU](https://tv.nccu.edu.tw/) — archives des émissions télévisées
-- [Histoire des variétés taïwanaises — Musée national de la communication](https://museum.ncc.gov.tw/) — documents sur la culture des variétés
-- [Étude sur la culture des cabarets — Institut d'éducation artistique taïwanais](https://ed.arte.gov.tw/) — analyse de la culture du spectacle vivant
+- [Chu Ko-liang — Base de données de la télévision taïwanaise](https://tv.nccu.edu.tw/) — Archives d'émissions télévisées
+- [Histoire du développement des variétés taïwanaises — Musée national de la communication](https://museum.ncc.gov.tw/) — Documents sur la culture des variétés
+- [Études sur la culture des spectacles de variétés — Musée de l'éducation artistique de Taïwan](https://ed.arte.gov.tw/) — Analyses de la culture du spectacle
