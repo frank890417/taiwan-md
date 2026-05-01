@@ -9,6 +9,9 @@ featured: true
 lastVerified: 2026-03-27
 lastHumanReview: true
 translatedFrom: 'History/台灣島史觀.md'
+sourceCommitSha: '53610439'
+sourceContentHash: 'sha256:0d9f6beafb5cc868'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 > **30-second overview:** Taiwan’s history is often told as a sequence of regime changes. Ts’ao Yung-ho (曹永和) flipped that lens: the true subject of Taiwan’s history is the **island itself**. Rulers came and went, but the island remained the stage. This “island historiography” reframes Taiwan from a peripheral appendix to a maritime hub. It highlights how repeated regime shifts forced people on the island to develop a rare ability: adapting, absorbing, and reconstituting institutions into their own civic DNA.
@@ -28,13 +31,13 @@ Ts’ao Yung-ho argued that Taiwan’s history should begin not with rulers but 
 > **📝 Curator’s note**
 > Ts’ao’s achievement was not just academic. By reading Dutch and Spanish archives, he brought Taiwan’s early history out from under a mainland-centered narrative and back onto the island itself.
 
-Related: [[taiwan-maritime-trade-history]]
+Related: [Taiwan Maritime Trade History](/en/History/taiwan-maritime-trade-history/)
 
 ## 2) Austronesian Origins: Islandness as Worldliness
 
 Taiwan’s story doesn’t begin in 1624. Around 6,000 years ago, Taiwan became a key origin point for Austronesian expansion. The Austronesian language family stretches from Madagascar to Easter Island—one of the widest maritime dispersals on earth (Britannica). This means Taiwan’s “islandness” isn’t isolation—it is outward reach.
 
-Related: [[indigenous-peoples-history-and-naming-movement]]
+Related: [Indigenous Peoples History and Naming Movement](/en/History/indigenous-peoples-history-and-naming-movement/)
 
 ## 3) First Imperial Collision: Middag and the Global Stage
 
@@ -43,13 +46,13 @@ When the Dutch (1624) and Spanish (1626) arrived, they entered an existing islan
 > **💡 You know what?**
 > In the 17th century, Taiwan deerskin became a key material for Japanese armor. Anonymous traders—not empires—were the real agents who pulled Taiwan into global markets.
 
-Related: [[dutch-spanish-and-koxinga-era]]
+Related: [Dutch, Spanish, and Koxinga Era](/en/History/dutch-spanish-and-koxinga-era/)
 
 ## 4) A Frontier of Migration: Settlers and Social Reinvention
 
 From Koxinga’s regime (1662) to Qing administration (1683–1895), Taiwan became a frontier of migration. Island historiography reframes this not as linear “civilization” but as **adaptive frontier survival**. People brought agrarian structures, but on an island of constant uncertainty they learned flexibility and hybrid social contracts.
 
-Related: [[qing-dynasty-rule]]
+Related: [Qing Dynasty Rule](/en/History/qing-dynasty-rule/)
 
 ## 5) 1895: Colonial Modernity as a Double-Edged Sword
 
@@ -58,13 +61,13 @@ The Treaty of Shimonoseki (1895) handed Taiwan to Japan. Under Japanese rule, ra
 > **⚠️ Contested terrain**
 > Colonial modernity is Taiwan’s hardest paradox: how do we remember coercion and progress at once? Island historiography insists we hold both truths in the same frame.
 
-Related: [[japanese-colonial-era]], [[taiwan-railway-history]]
+Related: [Japanese Colonial Era](/en/History/japanese-colonial-era/), [Taiwan Railway History](/en/History/taiwan-railway-history/)
 
 ## 6) Authoritarian Memory Layers
 
 After 1945, Taiwan entered a long authoritarian period. The February 28 Incident (1947) and the 38-year martial law period (1949–1987) formed a deep **memory stratum**: prisons, enforced silence, and family trauma. Island historiography reads this not only as repression but as the accumulation of social memory that later fueled democratization.
 
-Related: [[martial-law-era]], [[228-incident]], [[taiwan-white-terror]]
+Related: [Martial Law Era](/en/History/martial-law-era/), [228 Incident](/en/History/228-incident/), [Taiwan White Terror](/en/History/taiwan-white-terror/), Formosa Incident: The Night That Changed Taiwan's Fate (美麗島事件：改變台灣命運的那一夜)
 
 ## 7) Four Core Propositions of Island Historiography
 

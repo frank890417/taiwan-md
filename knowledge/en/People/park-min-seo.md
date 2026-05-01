@@ -1,24 +1,26 @@
 ---
 title: 'Park Min-seo (Mingo)'
-description: 'From Korea to Taiwan’s ballpark—stable stage presence and approachable interaction make her a key member of the CTBC Korean cheer generation.'
+description: 'From Korea to Taiwan’s ballpark — stable stage presence and approachable interaction make her a key member of the CTBC Korean cheer generation.'
 date: 2026-04-14
 tags:
-  [
-    'pop culture',
-    'Park Min-seo',
-    'Mingo',
-    'Korea',
-    'cheerleading',
-    'CTBC Brothers',
-    'Passion Sisters',
-  ]
-subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+  - 'pop culture'
+  - 'Park Min-seo'
+  - 'Mingo'
+  - 'Korea'
+  - 'cheerleading'
+  - 'CTBC Brothers'
+  - 'Passion Sisters'
+subcategory: '流行人物'
+author: 'Taiwan.md Contributors'
 readingTime: 8
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-04-14
+lastHumanReview: false
+category: 'People'
 translatedFrom: 'People/朴旻曙.md'
-category: People
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:1d1af2a03aaae646'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 > **30-second overview:** In the CTBC Brothers cheer ecosystem, Park Min-seo (Mingo) does not rely on one-off spikes—she delivers every game. She shows fans that what keeps Korean members in Taiwan is not buzz alone but sustainable on-field execution.

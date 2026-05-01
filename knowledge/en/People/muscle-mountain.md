@@ -1,24 +1,26 @@
 ---
 title: 'Muscle Mountain'
-description: 'A Korea-born creator in Taiwan building community through fitness and bilingual humor—and bringing Korean everyday flavors into convenience stores via Hi-Life collabs.'
+description: "A Korea-born creator who has put down deep roots in Taiwan, building social influence through fitness and bilingual humor — and bringing Korean everyday flavors to Taiwan's convenience store shelves via a Hi-Life collaboration."
 date: 2026-04-15
 tags:
-  [
-    'pop culture',
-    'Muscle Mountain',
-    'Korea',
-    'YouTuber',
-    'Koreans in Taiwan',
-    'convenience store',
-    'Taiwan',
-  ]
+  - 'pop culture'
+  - 'Muscle Mountain'
+  - 'Korea'
+  - 'YouTuber'
+  - 'Koreans in Taiwan'
+  - 'convenience store'
+  - 'Taiwan'
 subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+author: 'Taiwan.md Contributors'
 readingTime: 9
 featured: false
-lastVerified: 2026-04-16
+lastVerified: 2026-04-15
+lastHumanReview: false
 translatedFrom: 'People/肌肉山山.md'
-category: People
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:a9c781639a414788'
+translatedAt: '2026-05-01T13:19:11+08:00'
+category: 'People'
 ---
 
 > **30-second overview:** Muscle Mountain is a Korea-born YouTuber who has worked in Taiwan for years, building recognition through fitness, life content, and Chinese-Korean interaction. On the retail side, Hi-Life collaborations on fresh food and bakery put “hometown taste + protein” on convenience shelves.

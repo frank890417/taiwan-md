@@ -18,6 +18,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/李多慧.md'
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:c3e61e6efd81f405'
+translatedAt: '2026-05-01T13:19:11+08:00'
 category: People
 ---
 

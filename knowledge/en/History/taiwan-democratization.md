@@ -1,6 +1,6 @@
 ---
-title: "Taiwan's Democratic Transition: When Authoritarianism Dug Its Own Grave"
-description: 'Every act of repression manufactured more resisters. From the February 28 Incident to the Sunflower Movement, how one island made its dictatorship train the very people who buried it.'
+title: "Taiwan's Democratic Transition — Authoritarianism Digging Its Own Grave"
+description: 'Every crackdown produced more resisters. From the 228 Incident to the Sunflower Movement, how an island made an authoritarian system train the very forces that buried it.'
 date: 2026-03-24
 tags:
   [
@@ -19,6 +19,9 @@ featured: true
 lastVerified: 2026-04-07
 lastHumanReview: 2026-04-07
 translatedFrom: 'History/台灣民主轉型.md'
+sourceCommitSha: '59db5de4'
+sourceContentHash: 'sha256:d432b8072ad8da53'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 # Taiwan's Democratic Transition: When Authoritarianism Dug Its Own Grave

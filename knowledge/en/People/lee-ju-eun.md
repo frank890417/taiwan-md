@@ -1,24 +1,26 @@
 ---
-title: 'Lee Ju-eun'
-description: 'From “AI goddess” buzz to building a career in Taiwan—her path reimagines how long Korean cheer members can stay in CPBL.'
+title: “Lee Ju-eun”
+description: “From 'AI goddess' buzz to building a career in Taiwan — her path reimagines how long Korean cheer members can stay in CPBL.”
 date: 2026-04-14
 tags:
-  [
-    'pop culture',
-    'Lee Ju-eun',
-    'Korea',
-    'cheerleading',
-    'Fubon Guardians',
-    'Fubon Angels',
-    'CPBL',
-  ]
-subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+  - “pop culture”
+  - “Lee Ju-eun”
+  - “Korea”
+  - “cheerleading”
+  - “Fubon Guardians”
+  - “Fubon Angels”
+  - “CPBL”
+subcategory: “流行人物”
+author: “Taiwan.md Contributors”
 readingTime: 10
 featured: false
-lastVerified: 2026-04-16
-translatedFrom: 'People/李珠珢.md'
-category: People
+lastVerified: 2026-04-14
+lastHumanReview: false
+category: “People”
+translatedFrom: “People/李珠珢.md”
+sourceCommitSha: “967e77ab”
+sourceContentHash: “sha256:1a5ec966d15fc75f”
+translatedAt: “2026-05-01T13:19:11+08:00”
 ---
 
 > **30-second overview:** In 2025 Lee Ju-eun signed a full management deal with Fubon; in 2026 she placed work more clearly in Taiwan. Her significance is not only traffic—it is pushing Korean support from “shuttling both sides” toward “staying long term.”

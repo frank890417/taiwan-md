@@ -1,24 +1,26 @@
 ---
-title: 'Park Sung-eun'
-description: 'From exchange guest to full-time Fubon Angel—fast adaptation and stage stability make her a new-generation face of the Korean “five pillars.”'
+title: “Park Sung-eun”
+description: “From exchange guest to full-time member of Fubon Angels — fast adaptation and stage stability make her a new-generation face of the Korean five-pillar lineup.”
 date: 2026-04-14
 tags:
-  [
-    'pop culture',
-    'Park Sung-eun',
-    'Korea',
-    'cheerleading',
-    'Fubon Guardians',
-    'Fubon Angels',
-    'CPBL',
-  ]
-subcategory: 'Pop Culture'
-author: 'Taiwan.md Translation Team'
+  - “pop culture”
+  - “Park Sung-eun”
+  - “Korea”
+  - “cheerleading”
+  - “Fubon Guardians”
+  - “Fubon Angels”
+  - “CPBL”
+subcategory: “Pop Culture”
+author: “Taiwan.md Contributors”
 readingTime: 8
 featured: false
-lastVerified: 2026-04-16
-translatedFrom: 'People/朴星垠.md'
-category: People
+lastVerified: 2026-04-14
+lastHumanReview: false
+translatedFrom: “People/朴星垠.md”
+sourceCommitSha: “967e77ab”
+sourceContentHash: “sha256:b387b2ccc5c7905c”
+translatedAt: “2026-05-01T13:19:11+08:00”
+category: “People”
 ---
 
 > **30-second overview:** In 2026 Park Sung-eun officially joined the Fubon Angels as one of the team’s Korean “five pillars.” Her arc reads like a clear career line: Taiwanese fans saw her first, then the club formally wrote her into the season roster.

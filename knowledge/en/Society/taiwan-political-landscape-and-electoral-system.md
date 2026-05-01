@@ -18,6 +18,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣政治環境與選舉制度.md'
+sourceCommitSha: '89c6015e'
+sourceContentHash: 'sha256:dc490efa573c845c'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 # Taiwan’s Political Landscape and Electoral System

@@ -20,6 +20,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-13
 lastHumanReview: false
+translatedFrom: 'People/韓國瑜.md'
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:f8d9a2a7a468041d'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 # Han Kuo-yu: Recalled by 939,000 Voters, Then Elected Speaker of Parliament

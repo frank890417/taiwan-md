@@ -1,15 +1,22 @@
 ---
 title: 'The Sunflower Movement — Twelve Years After Those Thirty Seconds'
-description: "A legislator pinned to the floor mumbled into a lapel mic for thirty seconds, triggering a 24-day occupation of parliament, a generational political awakening, and the beginning of Taiwan's economic pivot away from China. Twelve years later, the law the students demanded was never passed — but they won a war they didn't know they were fighting."
+description: "A legislator lying on the floor read thirty seconds of text into a lapel microphone, triggering a twenty-four-day occupation of parliament, a generational political awakening, and the starting point of Taiwan's economic pivot away from China. Twelve years later, the law the students demanded never passed — but they won a war they did not know they were fighting."
 date: 2026-04-12
-tags: ['social movements', 'democracy', 'cross-strait relations', 'civic tech']
+tags:
+  - 'social movements'
+  - 'democracy'
+  - 'cross-strait relations'
+  - 'civic technology'
 category: 'Society'
-subcategory: 'Democracy and Politics'
+subcategory: '民主與政治'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'Society/太陽花學運.md'
+sourceCommitSha: 'f4dfb120'
+sourceContentHash: 'sha256:3f71545c6d9fa310'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 > **30-Second Overview:** On March 17, 2014, KMT legislator Chang Ching-chung, pinned to the floor by opposition lawmakers, used a lapel microphone to declare in thirty seconds that the Cross-Strait Service Trade Agreement was "deemed reviewed." The next night, over two hundred students stormed parliament, set up a 24-hour iPad livestream, and refused to leave for twenty-four days. The trade deal was never voted down — history buried it instead. Twelve years later: Taiwan's export dependence on China dropped from 42% to 31.5%. The students won a war they didn't know they were fighting.

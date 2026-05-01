@@ -18,6 +18,9 @@ subcategory: 'Sports'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/麟洋配.md'
+sourceCommitSha: 'ddc476ed'
+sourceContentHash: 'sha256:d3037d2c6f885793'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 # Wang Chi-lin and Lee Yang (The Lin-Yang Duo)

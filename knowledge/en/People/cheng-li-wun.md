@@ -3,21 +3,22 @@ title: 'Cheng Li-wun: From Hunger Strike for Taiwan Independence to Meeting Xi J
 description: 'In 1988, a 19-year-old student fasted outside National Taiwan University to demand the release of a Taiwan independence activist. In 2026, she sat across from Xi Jinping in Beijing and said "people on both sides of the strait are all Chinese." What happened in between?'
 date: 2026-04-11
 tags:
-  [
-    'politician',
-    'KMT',
-    'cross-strait relations',
-    'student movement generation',
-    '2026',
-  ]
+  - 'politician'
+  - 'KMT'
+  - 'cross-strait relations'
+  - 'student movement generation'
+  - '2026'
 subcategory: 'Politics & Democracy'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
-readingTime: 14
+readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'People/鄭麗文.md'
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:c454a71817a858ba'
+translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 
 # Cheng Li-wun: From Hunger Strike for Taiwan Independence to Meeting Xi Jinping
