@@ -1,8 +1,15 @@
 ---
 title: 'Le riz au porc braisé de Taïwan'
-description: 'Des cuisines des villages militaires au plat national : l''épopée du lu rou fan et la guerre Nord-Sud qui divise (et unit) Taïwan'
+description: "Des cuisines des villages militaires au plat national : l'épopée du lu rou fan et la guerre Nord-Sud qui divise (et unit) Taïwan"
 date: 2026-03-19
-tags: ['lu rou fan', 'riz au porc braisé', 'cuisine des villages militaires', 'plat national', 'différences régionales']
+tags:
+  [
+    'lu rou fan',
+    'riz au porc braisé',
+    'cuisine des villages militaires',
+    'plat national',
+    'différences régionales',
+  ]
 subcategory: 'Cuisine identitaire'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -13,6 +20,9 @@ translatedFrom: 'Food/台灣滷肉飯.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Braised_pork_rice_in_Taichung.jpg/960px-Braised_pork_rice_in_Taichung.jpg'
 imageAlt: 'Lu rou fan de Taichung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d6df6399bab845eb'
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # Le riz au porc braisé de Taïwan
@@ -21,7 +31,7 @@ Un bol de lu rou fan (滷肉飯), et c'est toute la mémoire collective taïwana
 
 ## La guerre des noms : lu rou fan contre rou zao fan
 
-L'une des querelles gastronomiques les plus savoureuses de Taïwan porte sur le nom même de ce plat. Les habitants du Nord le nomment fermement *lu rou fan* (滷肉飯), tandis que ceux du Sud préfèrent *rou zao fan* (肉燥飯). Ce n'est pas qu'une affaire de vocabulaire : les deux appellations cachent des approches culinaires fondamentalement différentes.
+L'une des querelles gastronomiques les plus savoureuses de Taïwan porte sur le nom même de ce plat. Les habitants du Nord le nomment fermement _lu rou fan_ (滷肉飯), tandis que ceux du Sud préfèrent _rou zao fan_ (肉燥飯). Ce n'est pas qu'une affaire de vocabulaire : les deux appellations cachent des approches culinaires fondamentalement différentes.
 
 Au Nord, la viande de porc est coupée en morceaux généreux, peau comprise — de la poitrine à trois couches —, puis longuement mijotée à feu doux dans de la sauce soja, du sucre candi et de l'alcool de riz. La graisse et le maigre se mêlent, libérant peu à peu leur gélatine naturelle pour former une sauce dense et brillante. Au Sud, la viande est hachée beaucoup plus finement, parfois réduite en farce, et l'assaisonnement se fait plus léger, avec une belle place accordée à l'échalote dorée.
 
@@ -29,11 +39,11 @@ Cette guerre Nord-Sud ne connaît pas de vainqueur — et c'est peut-être sa pl
 
 ## Origines dans les villages militaires, mémoire populaire
 
-Les racines du lu rou fan plongent dans la culture des *juancun* (眷村), ces villages militaires nés après 1949. L'afflux massif de familles de soldats venues du continent confrontait leurs membres à une réalité économique difficile : il fallait nourrir tout un foyer avec les ingrédients les moins chers possible. Le porc, relativement abordable, ajouté à du riz blanc, accomplissait cet objectif.
+Les racines du lu rou fan plongent dans la culture des _juancun_ (眷村), ces villages militaires nés après 1949. L'afflux massif de familles de soldats venues du continent confrontait leurs membres à une réalité économique difficile : il fallait nourrir tout un foyer avec les ingrédients les moins chers possible. Le porc, relativement abordable, ajouté à du riz blanc, accomplissait cet objectif.
 
 Les mères des villages militaires ont fusionné les techniques culinaires de leurs régions d'origine avec les produits locaux taïwanais, inventant leur propre façon de braiser la viande. Elles utilisaient la peau de porc pour apporter du collagène, le sucre candi pour adoucir légèrement, et réduisaient la sauce à feu vif pour obtenir une couleur profonde et caramélisée. Ces gestes en apparence simples portent en réalité une intelligence culinaire remarquable.
 
-À mesure que les villages militaires ont été démolis et leurs habitants dispersés aux quatre coins de l'île, ces savoir-faire se sont répandus dans tout Taïwan. Nombre des meilleures adresses de lu rou fan aujourd'hui peuvent retracer leur histoire jusqu'à un *juancun*. L'un des exemples les plus connus est la patronne d'une célèbre cantine à nouilles de bœuf du quartier de Zhongzheng, à Taipei, dont le lu rou fan conserve les arômes caractéristiques de la cuisine du Shandong.
+À mesure que les villages militaires ont été démolis et leurs habitants dispersés aux quatre coins de l'île, ces savoir-faire se sont répandus dans tout Taïwan. Nombre des meilleures adresses de lu rou fan aujourd'hui peuvent retracer leur histoire jusqu'à un _juancun_. L'un des exemples les plus connus est la patronne d'une célèbre cantine à nouilles de bœuf du quartier de Zhongzheng, à Taipei, dont le lu rou fan conserve les arômes caractéristiques de la cuisine du Shandong.
 
 ## La querelle du « plat national » en 2011
 

@@ -6,6 +6,9 @@ tags: [publishing, media, digital-transformation, management]
 subcategory: 'Digital & Media'
 lastVerified: 2026-03-19
 translatedFrom: 'People/何飛鵬.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bf01513bbf161991'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # He Feipeng — Steering Taiwan’s Publishing Industry into the Digital Era

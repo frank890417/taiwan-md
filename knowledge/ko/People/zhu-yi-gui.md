@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/朱一貴.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:59a6177c37cf5305'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 오리왕 주이구이: 타이완 최초로 왕을 칭한 봉기 지도자

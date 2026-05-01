@@ -9,18 +9,21 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: 'People/侯孝賢.md'
+translatedFrom: "People/侯孝賢.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:5b89549b2ad2cd3d"
+translatedAt: "2026-04-14T19:14:30+08:00"
 ---
 
 # Hou Hsiao-hsien
 
 > **En 30 secondes**
 >
-> Un réalisateur qui refusait le gros plan et n'imposait pas ses dialogues à ses acteurs — et pourtant devenu le cinéaste de langue chinoise le plus influent du monde. Hou Hsiao-hsien (1947–) a bouleversé le langage cinématographique avec une esthétique du plan-séquence évoquant la peinture de paysage traditionnelle. En 1989, *La Cité des douleurs* remporte le Lion d'or à Venise, ouvrant l'âge d'or du cinéma taïwanais à l'international. Son influence s'étend jusqu'à Jia Zhangke et Hirokazu Koreeda, prouvant qu'une approche radicalement anti-hollywoodienne peut engendrer un art éternel. Après avoir reçu le prix de la mise en scène à Cannes en 2015 pour *The Assassin*, il se retire en 2023 en raison de la maladie d'Alzheimer, mettant fin à une carrière légendaire.
+> Un réalisateur qui refusait le gros plan et n'imposait pas ses dialogues à ses acteurs — et pourtant devenu le cinéaste de langue chinoise le plus influent du monde. Hou Hsiao-hsien (1947–) a bouleversé le langage cinématographique avec une esthétique du plan-séquence évoquant la peinture de paysage traditionnelle. En 1989, _La Cité des douleurs_ remporte le Lion d'or à Venise, ouvrant l'âge d'or du cinéma taïwanais à l'international. Son influence s'étend jusqu'à Jia Zhangke et Hirokazu Koreeda, prouvant qu'une approche radicalement anti-hollywoodienne peut engendrer un art éternel. Après avoir reçu le prix de la mise en scène à Cannes en 2015 pour _The Assassin_, il se retire en 2023 en raison de la maladie d'Alzheimer, mettant fin à une carrière légendaire.
 
 En 1988, devant les grilles du Festival de Venise, un groupe de cinéastes taïwanais contemplait les portes de ce temple du cinéma avec envie, se demandant quand ils pourraient enfin y entrer. Parmi eux, Hou Hsiao-hsien, 41 ans, multiprimé dans les festivals européens de second rang, mais encore moqué dans la presse taïwanaise comme le lauréat des « festivals de province ».
 
-Un an plus tard, derrière ces mêmes portes, il repartait avec le Lion d'or pour *La Cité des douleurs* — le premier grand prix d'un festival de catégorie A de l'histoire du cinéma taïwanais. Plus saisissant encore : ce film jugé « incompréhensible » engrangeait 60 millions de dollars taïwanais au box-office, et le livret qui l'accompagnait était dévalisé dans les librairies de la gare principale de Taipei.
+Un an plus tard, derrière ces mêmes portes, il repartait avec le Lion d'or pour _La Cité des douleurs_ — le premier grand prix d'un festival de catégorie A de l'histoire du cinéma taïwanais. Plus saisissant encore : ce film jugé « incompréhensible » engrangeait 60 millions de dollars taïwanais au box-office, et le livret qui l'accompagnait était dévalisé dans les librairies de la gare principale de Taipei.
 
 Du « poison du box-office » au conquérant de Venise, Hou Hsiao-hsien a forgé un langage visuel unique dans l'histoire du cinéma par les moyens les plus anticonformistes : refus du gros plan, refus de plier les acteurs à la caméra, refus de la dramaturgie traditionnelle.
 
@@ -36,17 +39,17 @@ Enfant introverti et observateur, il est un « regardeur silencieux » né. Él�
 
 ### La formation au cinéma commercial (1980–1983)
 
-C'est en 1980, à 33 ans, que Hou tourne son premier film. Ses trois premières œuvres — *Lovable You*, *Cheerful Wind* et *The Green, Green Grass of Home* — sont des comédies romantiques grand public, fraîches, légères, parfaitement calibrées pour le marché.
+C'est en 1980, à 33 ans, que Hou tourne son premier film. Ses trois premières œuvres — _Lovable You_, _Cheerful Wind_ et _The Green, Green Grass of Home_ — sont des comédies romantiques grand public, fraîches, légères, parfaitement calibrées pour le marché.
 
 Mais cette période sème déjà les graines d'une révolution : il commence à se demander pourquoi le cinéma doit se faire de cette façon.
 
 ### L'appel de la Nouvelle Vague (1983–1989)
 
-En 1982, les scénaristes Xiao Ye et Wu Nien-jen orchestrent les projets collectifs *In Our Time* et *The Sandwich Man*, réunissant de jeunes cinéastes dont Edward Yang. Au contact de cette génération trentenaire revenue de l'étranger, Hou se confronte à des questions plus profondes :
+En 1982, les scénaristes Xiao Ye et Wu Nien-jen orchestrent les projets collectifs _In Our Time_ et _The Sandwich Man_, réunissant de jeunes cinéastes dont Edward Yang. Au contact de cette génération trentenaire revenue de l'étranger, Hou se confronte à des questions plus profondes :
 
 **Qu'est-ce que le vrai cinéma ?**
 
-Avec *The Boys from Fengkuei* (1983), il trouve sa réponse.
+Avec _The Boys from Fengkuei_ (1983), il trouve sa réponse.
 
 ## Un langage cinématographique révolutionnaire : quand la machine suit l'humain
 
@@ -63,48 +66,50 @@ Résultat : ses films ne contiennent presque aucun gros plan, car le gros plan e
 
 ### La poétique du plan-séquence
 
-Les critiques des *Cahiers du cinéma* décrivent ainsi les plans-séquences de Hou : « Comme les espaces blancs d'une peinture de paysage chinoise, ils laissent le temps lui-même devenir protagoniste. »
+Les critiques des _Cahiers du cinéma_ décrivent ainsi les plans-séquences de Hou : « Comme les espaces blancs d'une peinture de paysage chinoise, ils laissent le temps lui-même devenir protagoniste. »
 
 Mais son plan-séquence se distingue de celui de Tsai Ming-liang ou d'Angelopoulos — ce n'est pas une lenteur délibérée, c'est un « regard objectif ». Il cherche à effacer la présence de la caméra, à faire ressentir au spectateur quelque chose d'aussi proche que possible du quotidien vécu.
 
 **Innovations techniques :**
+
 - Pas de répétitions détaillées, les acteurs « fusionnent avec le décor »
 - Lumière naturelle privilégiée, éclairage artificiel évité
 - Une scène peut se tourner pendant deux semaines, jusqu'à ce que la « naturalité » soit atteinte
 - La caméra est toujours « témoin », jamais « directrice »
 
-> La scène de *Café Lumière* où les deux personnages se croisent dans des rames de métro différentes a nécessité près de deux semaines de tournage. Le réalisateur allemand Wim Wenders s'est exclamé : « C'est incroyable. »
+> La scène de _Café Lumière_ où les deux personnages se croisent dans des rames de métro différentes a nécessité près de deux semaines de tournage. Le réalisateur allemand Wim Wenders s'est exclamé : « C'est incroyable. »
 
 ### La diffusion de l'influence
 
-Après avoir vu *The Puppetmaster*, Akira Kurosawa a déclaré : « Je suis incapable de réaliser quelque chose comme ça. »
+Après avoir vu _The Puppetmaster_, Akira Kurosawa a déclaré : « Je suis incapable de réaliser quelque chose comme ça. »
 
 La liste des réalisateurs contemporains influencés par Hou est saisissante :
+
 - **Jia Zhangke** (figure de proue de la sixième génération chinoise)
 - **Hirokazu Koreeda** (maître du cinéma japonais contemporain)
 - **Abbas Kiarostami** (nouvelle vague iranienne)
 
 Tous ont hérité, à des degrés divers, du « regard objectif » et de l'esthétique du plan-séquence de Hou.
 
-## Le miracle de Venise : *La Cité des douleurs* et la conquête mondiale
+## Le miracle de Venise : _La Cité des douleurs_ et la conquête mondiale
 
 ### Sept ans de festivals internationaux (1983–1989)
 
-Le Lion d'or pour *La Cité des douleurs* n'est pas sorti du néant. Depuis 1983, Hou accumule sa réputation à l'international :
+Le Lion d'or pour _La Cité des douleurs_ n'est pas sorti du néant. Depuis 1983, Hou accumule sa réputation à l'international :
 
-| Année | Film | Récompense internationale |
-|-------|------|--------------------------|
-| 1983 | *The Boys from Fengkuei* | Grand Prix des 3 Continents (Nantes) |
-| 1984 | *A Summer at Grandpa's* | Grand Prix des 3 Continents, Prix humanitaire de Locarno |
-| 1985 | *The Time to Live and the Time to Die* | Prix FIPRESCI, Berlin |
-| 1986 | *Dust in the Wind* | Prix de la musique et de la photographie, Nantes |
-| 1989 | *La Cité des douleurs* | **Lion d'or, Mostra de Venise** |
+| Année | Film                                   | Récompense internationale                                |
+| ----- | -------------------------------------- | -------------------------------------------------------- |
+| 1983  | _The Boys from Fengkuei_               | Grand Prix des 3 Continents (Nantes)                     |
+| 1984  | _A Summer at Grandpa's_                | Grand Prix des 3 Continents, Prix humanitaire de Locarno |
+| 1985  | _The Time to Live and the Time to Die_ | Prix FIPRESCI, Berlin                                    |
+| 1986  | _Dust in the Wind_                     | Prix de la musique et de la photographie, Nantes         |
+| 1989  | _La Cité des douleurs_                 | **Lion d'or, Mostra de Venise**                          |
 
 ### La réussite d'une stratégie internationale
 
-Le succès de *La Cité des douleurs* résulte d'une préparation minutieuse :
+Le succès de _La Cité des douleurs_ résulte d'une préparation minutieuse :
 
-1. **Offensive médiatique** : le producteur Qiu Fushen invite des journalistes de publications clés comme *The Village Voice* à Taïwan
+1. **Offensive médiatique** : le producteur Qiu Fushen invite des journalistes de publications clés comme _The Village Voice_ à Taïwan
 2. **Traduction culturelle** : élaboration d'un livret soigné accompagné d'un arbre généalogique des personnages et d'un contexte historique
 3. **Le rôle de Peggy Chiao** : critique de cinéma faisant office de pont culturel, aidant les spectateurs occidentaux à appréhender l'esthétique orientale
 
@@ -115,18 +120,19 @@ Le succès de *La Cité des douleurs* résulte d'une préparation minutieuse :
 Après le prix à Venise, les médias taïwanais changèrent d'attitude à 180 degrés envers la Nouvelle Vague. Du « poison du box-office », Hou devint « la fierté de Taïwan ».
 
 Surtout, cette victoire inaugura l'âge d'or du cinéma taïwanais à l'international (1989–1995) :
-- Edward Yang, *A Brighter Summer Day* (prix spécial du jury, Tokyo 1991)
-- Hou Hsiao-hsien, *The Puppetmaster* (prix du jury, Cannes 1993)
-- Ang Lee, *The Wedding Banquet* (Ours d'or, Berlin 1993)
-- Tsai Ming-liang, *Vive l'amour* (Lion d'or, Venise 1994)
+
+- Edward Yang, _A Brighter Summer Day_ (prix spécial du jury, Tokyo 1991)
+- Hou Hsiao-hsien, _The Puppetmaster_ (prix du jury, Cannes 1993)
+- Ang Lee, _The Wedding Banquet_ (Ours d'or, Berlin 1993)
+- Tsai Ming-liang, _Vive l'amour_ (Lion d'or, Venise 1994)
 
 Peggy Chiao résume : « Entre 1989 et 1995, les meilleurs films, les films les plus en vue, c'étaient les films taïwanais. »
 
-## Les sommets artistiques : de *The Puppetmaster* à *The Assassin*
+## Les sommets artistiques : de _The Puppetmaster_ à _The Assassin_
 
 ### La maturité absolue d'un style (années 1990)
 
-*The Puppetmaster* (1993) est unanimement reconnu comme le sommet artistique de Hou. Ce portrait du marionnettiste Li Tianlu pousse l'esthétique houienne à son extrême :
+_The Puppetmaster_ (1993) est unanimement reconnu comme le sommet artistique de Hou. Ce portrait du marionnettiste Li Tianlu pousse l'esthétique houienne à son extrême :
 
 - **Multilinguisme naturel** : taïwanais, japonais et mandarin se mêlent sans effort, reflétant l'écologie linguistique de Taïwan
 - **Structure mise en abyme** : la frontière entre le théâtre de marionnettes et la vie réelle s'estompe
@@ -136,13 +142,13 @@ Le jury de Cannes, où siégeait Abbas Kiarostami, dit avoir été « profondém
 
 ### Innovations continues au XXIe siècle
 
-- ***Flowers of Shanghai* (1998)** : adapté d'un roman de Zhang Ailing, entièrement tourné en shanghaïen
-- ***Millennium Mambo* (2001)** : avec Shu Qi, exploration de l'errance urbaine contemporaine
-- ***Three Times* (2005)** : structure tripartite, une histoire d'amour traversant trois époques
+- **_Flowers of Shanghai_ (1998)** : adapté d'un roman de Zhang Ailing, entièrement tourné en shanghaïen
+- **_Millennium Mambo_ (2001)** : avec Shu Qi, exploration de l'errance urbaine contemporaine
+- **_Three Times_ (2005)** : structure tripartite, une histoire d'amour traversant trois époques
 
-### *The Assassin* : le chant du cygne (2015)
+### _The Assassin_ : le chant du cygne (2015)
 
-*The Assassin*, sept ans en gestation, est le dernier testament cinématographique de Hou. Ce wuxia adapté d'un récit de la dynastie Tang :
+_The Assassin_, sept ans en gestation, est le dernier testament cinématographique de Hou. Ce wuxia adapté d'un récit de la dynastie Tang :
 
 - Remporte le **prix de la mise en scène à Cannes** — deuxième grande distinction aux trois grands festivals européens
 - Est salué comme « l'un des films visuellement les plus beaux jamais réalisés »
@@ -163,24 +169,26 @@ L'influence de Hou sur le cinéma taïwanais et mondial s'articule sur trois niv
 ### Les disciples et la transmission
 
 Les cinéastes taïwanais directement influencés par Hou :
+
 - **Tsai Ming-liang** : héritier du plan-séquence, poussé vers un « slow cinema » encore plus radical
-- **Ang Lee** : bien qu'orienté vers Hollywood, on perçoit l'esthétique de Hou dans *Lust, Caution* et d'autres œuvres
+- **Ang Lee** : bien qu'orienté vers Hollywood, on perçoit l'esthétique de Hou dans _Lust, Caution_ et d'autres œuvres
 - **Edward Yang** : style différent, mais même engagement pour le cinéma d'auteur
 
 ### Une réputation internationale durable
 
 Même à la retraite, Hou est considéré par le monde du cinéma comme une « légende vivante » :
+
 - La **Cinémathèque française** lui a consacré une section dédiée
 - Le **Festival de Cannes** lui a rendu hommage à plusieurs reprises
 - La **Mostra de Venise** l'a qualifié de « poète du cinéma »
 
-> « Le cinéma de Hou Hsiao-hsien a appris au monde que le cinéma peut être de la poésie, et pas seulement de l'histoire. » — *Cahiers du cinéma*
+> « Le cinéma de Hou Hsiao-hsien a appris au monde que le cinéma peut être de la poésie, et pas seulement de l'histoire. » — _Cahiers du cinéma_
 
 ## L'adieu et l'éternité (retraite en 2023)
 
 ### Le congé de la mémoire
 
-En 2023, à 76 ans, Hou Hsiao-hsien prend officiellement sa retraite en raison de la maladie d'Alzheimer, bouleversant le monde du cinéma international. *The Assassin* demeure son œuvre d'adieu.
+En 2023, à 76 ans, Hou Hsiao-hsien prend officiellement sa retraite en raison de la maladie d'Alzheimer, bouleversant le monde du cinéma international. _The Assassin_ demeure son œuvre d'adieu.
 
 Les médias internationaux ont unanimement parlé de « la fin d'une époque ». Mais son influence, elle, ne prendra pas fin.
 

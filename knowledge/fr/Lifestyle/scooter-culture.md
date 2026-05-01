@@ -10,7 +10,10 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: 'Lifestyle/台灣機車文化.md'
+translatedFrom: "Lifestyle/台灣機車文化.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:6e1ce0a29ebd4e81"
+translatedAt: "2026-04-15T17:34:49+08:00"
 ---
 
 # La culture du scooter à Taïwan

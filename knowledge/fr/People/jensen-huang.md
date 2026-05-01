@@ -2,7 +2,17 @@
 title: 'Jensen Huang'
 description: "De l'internat du Kentucky à l'empire des cinq mille milliards — comment un garçon de Tainan qui récurait des toilettes a parié sur un avenir qui n'existait pas encore"
 date: 2026-03-25
-tags: [personnalités, Jensen Huang, NVIDIA, IA, semi-conducteurs, technologie, Tainan, GPU]
+tags:
+  [
+    personnalités,
+    Jensen Huang,
+    NVIDIA,
+    IA,
+    semi-conducteurs,
+    technologie,
+    Tainan,
+    GPU,
+  ]
 category: 'People'
 subcategory: 'Technologie et entreprises'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +20,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-07
 translatedFrom: 'People/黃仁勳.md'
+sourceCommitSha: 'cbc2ad44'
+sourceContentHash: 'sha256:588ff4df368e93d2'
+translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 
 # Jensen Huang (黃仁勳)

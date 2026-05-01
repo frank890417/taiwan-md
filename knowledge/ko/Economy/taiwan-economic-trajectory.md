@@ -11,6 +11,9 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a20b7c78580c0ee1'
+translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 
 # 섬의 탈바꿈: 대만 산업 전환과 경제 발전 궤적

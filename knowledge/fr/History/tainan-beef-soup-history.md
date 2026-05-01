@@ -10,7 +10,10 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: 'History/源興牛與牛肉湯的歷史.md'
+translatedFrom: "History/源興牛與牛肉湯的歷史.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:ed10e8c11ed48896"
+translatedAt: "2026-04-14T12:32:06+08:00"
 ---
 
 > **En 30 secondes :** Plus de 95 % du bœuf consommé à Taïwan est importé. Le territoire est exigu, sans vastes pâturages, et les pouvoirs publics n'ont jamais élaboré de politique sérieuse en faveur des bovins à viande. Pourtant, en 2024, une première race bovine née d'une initiative privée a obtenu la reconnaissance officielle des autorités : la race Genyuan. Tout a commencé en 1933 avec un troupeau de vaches Tajima débarquées du Japon, et tout aboutit à un bol de soupe qu'il faut impérativement servir dans les six à huit heures suivant l'abattage. Ce n'est pas un récit de croissance industrielle triomphante — c'est l'histoire d'un archipel qui a su trouver une fissure dans une structure défavorable et s'y glisser.
@@ -45,15 +48,15 @@ En 2017, l'expert japonais en wagyu Nakamura Satsushi analysa le génome du trou
 
 Lee Teng-hui choisit de baptiser la race « Genyuan » (_源興_), en hommage à sa maison ancestrale de Sanzhi, le manoir Genyuan. La même année, il s'associa à ses partenaires pour fonder la société de biotechnologie Genyuan Ju, chargée de piloter officiellement le programme de reproduction.
 
-| Chronologie   |                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------ |
-| **1933**      | Les vaches Tajima arrivent à Keelung et sont acheminées au Troisième élevage de Wanli |
-| **1945**      | Retrait japonais ; M. Huang rachète 14 têtes et les fait pâturer à Qingtiangang      |
-| **2016**      | La Fondation Lee Teng-hui acquiert les 19 survivants et les transfère à la ferme Zhaoqing de Hualien |
+| Chronologie   |                                                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **1933**      | Les vaches Tajima arrivent à Keelung et sont acheminées au Troisième élevage de Wanli                                                     |
+| **1945**      | Retrait japonais ; M. Huang rachète 14 têtes et les fait pâturer à Qingtiangang                                                           |
+| **2016**      | La Fondation Lee Teng-hui acquiert les 19 survivants et les transfère à la ferme Zhaoqing de Hualien                                      |
 | **2017**      | Un expert japonais confirme génétiquement la lignée indépendante ; création de Genyuan Ju ; la race est officiellement nommée « Genyuan » |
-| **2020**      | Genyuan Ju dépose une demande d'enregistrement de nouvelle race auprès du ministère de l'Agriculture |
-| **2024/6/17** | Approbation officielle publiée : Genyuan devient la première race bovine d'initiative privée reconnue à Taïwan |
-| **2024/11/4** | Dénomination définitive entérinée                                                    |
+| **2020**      | Genyuan Ju dépose une demande d'enregistrement de nouvelle race auprès du ministère de l'Agriculture                                      |
+| **2024/6/17** | Approbation officielle publiée : Genyuan devient la première race bovine d'initiative privée reconnue à Taïwan                            |
+| **2024/11/4** | Dénomination définitive entérinée                                                                                                         |
 
 ---
 
@@ -83,8 +86,8 @@ Pour saisir ce que représente la race Genyuan, il faut d'abord comprendre les c
 
 Selon les statistiques du ministère de l'Agriculture, les importations de bœuf à Taïwan ont atteint 172 000 tonnes en 2023, en provenance principalement des États-Unis (35 %), d'Australie (22,85 %), du Paraguay (22,81 %) et de Nouvelle-Zélande (12,46 %). La même année, la production nationale de bœuf a atteint son plus haut niveau historique avec 8 311 tonnes, soit un taux d'autosuffisance d'environ 4,6 %.
 
-| Production nationale 4,6 % → 8 311 t | Importations 95,4 % → 172 000 t      |
-| ------------------------------------- | ------------------------------------- |
+| Production nationale 4,6 % → 8 311 t               | Importations 95,4 % → 172 000 t                                             |
+| -------------------------------------------------- | --------------------------------------------------------------------------- |
 | Production annuelle de bœuf national (record 2023) | Importations annuelles de bœuf (statistiques du ministère de l'Agriculture) |
 
 Derrière ces chiffres se cache une réalité structurelle plus profonde : la majeure partie de ce « bœuf national » ne provient pas de bovins élevés spécifiquement pour la viande. Il s'agit essentiellement de vaches laitières réformées dont la production a chuté, ou de veaux mâles revendus par les laiteries. En d'autres termes, la filière bœuf taïwanaise n'est, dans sa grande majorité, qu'un sous-produit de la filière laitière.

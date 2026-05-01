@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: true
-translatedFrom: 'People/吳大猷.md'
+translatedFrom: "People/吳大猷.md"
 lastVerified: 2026-04-04
+sourceCommitSha: "bd58e088"
+sourceContentHash: "sha256:341c2f3308bef4d0"
+translatedAt: "2026-04-14T19:14:43+08:00"
 ---
 
 > **En 30 secondes :** Wu Da-You (1907–2000) était physicien théoricien. En 1946, il recommanda personnellement Yang Chen-Ning et Lee Tsung-Dao pour des études aux États-Unis ; onze ans plus tard, les deux hommes reçurent conjointement le prix Nobel de physique. Président de l'Academia Sinica de 1983 à 1994, il défendit les sciences fondamentales à une époque où Taïwan misait tout sur la croissance économique, posant ainsi les bases institutionnelles de la recherche scientifique taïwanaise.

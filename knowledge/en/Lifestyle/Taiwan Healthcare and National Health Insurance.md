@@ -17,6 +17,9 @@ readingTime: 8
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
+sourceCommitSha: 'ecb173b1'
+sourceContentHash: 'sha256:39c821713935f8cf'
+translatedAt: '2026-05-01T17:09:56+08:00'
 ---
 
 # Taiwan Healthcare and National Health Insurance

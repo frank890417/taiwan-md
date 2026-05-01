@@ -2,13 +2,17 @@
 title: '대만 영상 음악: 영화 OST부터 게임 음악까지, 소리의 미학'
 description: '허우샤오시엔과 린창의 협업부터 웨이더성과 판쭝페이의 서사시적 음악, 레이야게임의 게임 음악 혁신까지—대만이 어떻게 독자적인 영상 음악 언어를 구축했는지 탐색한다'
 date: 2026-03-19
-tags: [영화 음악, 영상 음악, 게임 음악, 허우샤오시엔, 린창, 판쭝페이, 레이야게임]
+tags:
+  [영화 음악, 영상 음악, 게임 음악, 허우샤오시엔, 린창, 판쭝페이, 레이야게임]
 subcategory: '음악 산업'
 category: 'Music'
 author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: true
 translatedFrom: 'Music/台灣影視配樂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6cbe8cc1264f871a'
+translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 
 # 대만 영상 음악: 영화 OST부터 게임 음악까지, 소리의 미학

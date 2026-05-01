@@ -8,8 +8,11 @@ category: 'Technology'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
-translatedFrom: 'Technology/數位身分證與數位政府.md'
+translatedFrom: "Technology/數位身分證與數位政府.md"
 lastVerified: 2024-01-01
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:b4175e4786ecfd7b"
+translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 
 # La carte d'identité numérique et le gouvernement électronique à Taïwan

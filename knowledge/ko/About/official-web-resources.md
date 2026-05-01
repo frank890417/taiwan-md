@@ -8,6 +8,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
 translatedFrom: 'About/台灣官方網站資源.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:08b967bc1d90e0f6'
+translatedAt: '2026-04-14T11:06:19+08:00'
 ---
 
 # 대만 공식 웹사이트 자원

@@ -1,162 +1,168 @@
 ---
-title: 'La sensibilité taïwanaise : l'esthétique du quotidien vue par les Coréens'
-description: 'Deux natifs de Kaohsiung ont passé dix ans à photographier deux mille grilles de fenêtre en fer forgé. Des jeunes Coréens ont mis cinq ans à en faire un phénomène culturel mondial — comment la « 대만감성 » (sensibilité taïwanaise) a transformé les rues ordinaires de Taïwan en symbole esthétique le plus fascinant d'Asie'
+title: "La sensibilité taïwanaise : l'esthétique taiwanoise vue par les Coréens"
+description: "Deux habitants de Kaohsiung ont passé dix ans à photographier deux mille motifs de grilles en fer forgé ; des Coréens ont mis cinq ans à en faire un phénomène culturel — comment « 대만감성 » a transformé les rues quotidiennes de Taïwan en l'un des symboles esthétiques les plus fascinants d'Asie"
 date: 2026-03-18
+author: 'Taiwan.md'
 category: 'Culture'
+subcategory: '區域特色'
 tags:
   [
-    'sensibilité taïwanaise',
+    'Sensibilité taïwanaise',
     '대만감성',
     'Corée',
-    'esthétique',
-    'paysage urbain',
-    'rayonnement culturel',
-    'grilles en fer forgé',
-    'vieilles maisons',
+    'Esthétique',
+    'Paysage urbain',
+    'Rayonnement culturel',
+    'Grilles en fer forgé',
+    'Vieux visages de maisons',
   ]
-subcategory: 'Caractéristiques régionales'
-author: 'Taiwan.md Translation Team'
-difficulty: 'beginner'
 readingTime: 14
-featured: true
 lastVerified: 2026-04-08
 lastHumanReview: true
+featured: true
 translatedFrom: 'Culture/台灣感性.md'
+sourceCommitSha: 'b1d38be3'
+sourceContentHash: 'sha256:785a3e1b4966025f'
+translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 
-# La sensibilité taïwanaise : l'esthétique du quotidien vue par les Coréens
+# La sensibilité taïwanaise : l'esthétique taiwanoise vue par les Coréens
 
-> **En 30 secondes :** La « 대만감성 (sensibilité taïwanaise) » est le nom que la jeune génération coréenne donne à ce qu'elle ressent face aux rues de Taïwan — grilles en fer forgé, arcades couvertes, scooters, enseignes délavées. Ces éléments que les Taïwanais songent à démolir sont devenus, sous l'objectif coréen, les symboles esthétiques les plus envoûtants d'Asie. En 2024, les groupes NewJeans et ILLIT sont venus tourner des clips à Taïwan, enflammant les réseaux sociaux. En 2025, le Salon du livre de Séoul a accueilli 150 000 visiteurs sous le thème « sensibilité taïwanaise ». Mais ce mot ne parle pas vraiment de l'esthétique de Taïwan : il parle de la capacité à être touché par Taïwan — car en coréen, « 감성 » désigne la faculté de ressentir elle-même.
-
----
-
-## Deux mille grilles de fenêtre
-
-En 2013, Hsin Yung-sheng et Yang Chao-ching se sont fixé un objectif que d'autres auraient jugé déraisonnable [^1] : recenser toutes les grilles de fenêtre en fer forgé qui existaient à Tainan.
-
-Hsin avait étudié le design d'intérieur, Yang l'informatique. Ces deux natifs de Kaohsiung s'étaient rencontrés en 2011 au Festival d'art des conteneurs de Kaohsiung, découvrant que leurs appareils photo se braquaient instinctivement sur les vieilles maisons. Ils fondèrent ensemble le studio Laoyuyan (老屋顏) et sillonnèrent la ville ruelle par ruelle. En six mois, ils avaient photographié plus de deux mille motifs différents — lignes géométriques, fleurs, oiseaux, poissons — chaque fenêtre portant l'empreinte d'une famille, d'une mémoire, d'un goût.
-
-« On s'est rendu compte que c'était un gouffre sans fond ! » confie Yang [^1].
-
-Ces grilles sont nées entre les années 1960 et 1980 : simples dispositifs antivol fabriqués à la main par des artisans qui pliaient le fer selon les envies du commanditaire. Aucune ne ressemble à une autre. Mais avec l'essor des fenêtres en aluminium, les démolitions liées à la rénovation urbaine et la disparition progressive des forgerons d'antan, ce savoir-faire s'éteint doucement [^2]. Ce qui peine le plus Hsin, ce n'est pas la démolition en elle-même : « Même si l'on sauve une grille et qu'on la déplace ailleurs, le lien avec la famille qui la possédait, le contexte dans lequel elle a été créée — tout cela disparaît. » [^1]
-
-Face à une grille en fer forgé, un Taïwanais pense à savoir s'il faut la remplacer par de l'aluminium. Un Coréen la photographie et la publie avec le hashtag #대만감성.
-
-> **📝 Note de curateur**
-> 감성 (gamsong) ne signifie pas seulement « sensibilité » en coréen : c'est « la capacité à être ému ». 대만감성 ne veut pas dire « l'esthétique de Taïwan », mais « être touché par Taïwan ». Le sujet, c'est celui qui ressent — pas le lieu ressenti.
+> **En 30 secondes :** « 대만감성 (Sensibilité taïwanaise) » est un terme affectif utilisé par la jeune génération coréenne pour décrire les paysages de rues taïwanaises — grilles en fer forgé, arcades (騎樓), scooters, enseignes délavées. Ces éléments que les Taïwanais voudraient voir disparaître sont devenus, à travers l'objectif coréen, les symboles esthétiques les plus fascinants d'Asie. En 2024, les groupes NewJeans et ILLIT ont tourné des clips à Taïwan, déclenchant une vague sur les réseaux sociaux ; en 2025, le Salon du livre de Séoul a accueilli 150 000 visiteurs autour du thème « Sensibilité taïwanaise ». Mais ce terme ne désigne pas réellement l'esthétique de Taïwan — en coréen, « 감성 » (gamsong) renvoie à la capacité même d'être ému.
 
 ---
 
-## D'un clip à un million de voyageurs
+## Deux mille motifs de grilles en fer forgé
 
-Le terme « 대만감성 » est apparu vers 2019 dans les communautés coréennes de photographie et de voyage. Cette année-là, le chanteur indépendant coréen Car, the garden était venu tourner le clip de « Tree » à Taïwan : voies ferrées, scooters, toits en tôle — tout ce que les Taïwanais ne regardent plus [^3].
+En 2013, Hsin Yong-sheng et Yang Chao-ching se sont lancé à Tainan un « idéal présomptueux » [^1] : ils voulaient déterminer combien de motifs de grilles en fer forgé existaient dans la ville.
 
-L'explosion est venue en 2024. En mars, ILLIT, nouveau girl group du label HYBE, débarquait à Taipei pour shooter les photos conceptuelles de son premier EP, Super Real Me : stations de métro, immeubles d'appartements, supérettes de quartier — tous dans le cadre [^4]. En mai, NewJeans sortait le clip de « How Sweet », filmé entre la passerelle circulaire de la cité Huajiang à Wanhua, les rues du quartier Minsheng, les rizières et le passage à niveau de Jiaoxi à Yilan. Chaque décor fut reconstitué, répertorié et pèleriné par les fans coréens [^5].
+Hsin étudiait le design d'intérieur, Yang l'ingénierie informatique. Ces deux habitants de Kaohsiung s'étaient rencontrés en 2011 au Kaohsiung Container Arts Festival et avaient découvert que leurs objectifs photographiques convergeaient spontanément vers les vieilles maisons. Ils ont fondé l'atelier « Vieux visages de maisons » (老屋顏) et sillonné les rues, rue après rue. En six mois, ils ont photographié plus de deux mille motifs différents — des lignes géométriques aux fleurs, oiseaux, poissons et insectes — chaque grille portant l'esthétique et la mémoire d'une famille.
 
-En fin d'année, Oh Hyuk, chanteur du groupe HYUKOH, et la mannequin Hwang Ji-min vinrent à Taipei pour un shooting de mariage. Parmi les lieux retenus : la salle de glaces de la rue Huaxi, le parc culturel 435 de Banqiao, et la passerelle piétonne de Heping Xinsheng — un viaduc vieux de quarante ans, apparu dans Yi Yi d'Edward Yang et Garçon d'honneur, et démoli en novembre 2024 [^6]. Les photos de mariage d'Oh Hyuk sont ainsi devenues la dernière trace artistique de ce pont.
+« On a fini par réaliser qu'on tombait dans un gouffre sans fond ! » a déclaré Yang [^1].
 
-> **✦** « Ce qui est aimé est en train d'être démoli — là réside la contradiction la plus profonde de la sensibilité taïwanaise. »
+Ces grilles en fer forgé sont nées entre les années 1960 et 1980, comme dispositifs antivol pour les habitations civiles taïwanaises. Les forgerons pliaient le fer à la main selon les motifs souhaités par les propriétaires ; il n'en existait pas deux identiques. Mais avec le remplacement du fer par l'aluminium, la démolition des vieilles maisons dans le cadre de la rénovation urbaine et le décès des anciens forgerons, cet artisanat est en train de disparaître [^2]. Ce qui attriste le plus Hsin, ce n'est pas la démolition : « Même si une grille en fer forgé est sauvée et déplacée ailleurs, le lien et le contexte qui l'unissaient au propriétaire d'origine sont perdus. » [^1]
 
-En 2025, l'Office du tourisme de Taïwan choisissait le chanteur Super Junior Kyuhyun comme ambassadeur, sous le thème « La romance est à portée de main » [^7]. La même année, en juin, Taïwan était l'invité d'honneur de la 70e Foire internationale du livre de Séoul sous le thème « Sensibilité taïwanaise » — 23 créateurs taïwanais, 85 maisons d'édition, 550 titres, 63 événements, un pavillon de 360 m². La foire accueillit plus de 150 000 visiteurs [^8].
+Quand les Taïwanais voient une grille en fer forgé, ils pensent à la remplacer par une fenêtre en aluminium. Quand les Coréens voient une grille en fer forgé, ils la photographient et la publient avec le hashtag #대만감성.
 
-| Plus d'un million                                   | 150 000 visiteurs                               |
-| --------------------------------------------------- | ----------------------------------------------- |
-| Touristes coréens à Taïwan en 2024 (3e source) | Entrées au pavillon taïwanais de la Foire de Séoul 2025 (record historique) |
-
----
-
-## Votre quotidien, leur nostalgie
-
-L'engouement coréen pour les rues taïwanaises a une raison structurelle : les Coréens ont perdu les leurs.
-
-À partir des années 1990, la Corée du Sud a connu une rénovation urbaine accélérée, rasant des quartiers entiers pour les remplacer par des tours uniformes. Taïwan, du fait de sa politique foncière et d'un rythme de rénovation plus lent, a conservé une grande partie de ses paysages urbains des années 1960-1980 [^9]. Ce qui est « ordinaire » à Taïwan, c'est pour les Coréens « un paysage qu'ils ont déjà perdu ».
-
-La Corée connaît depuis quelques années un engouement pour la culture Newtro (뉴트로) — contraction de New et Retro. Mais les cafés rétro et les boutiques vintage de Séoul sont le plus souvent des décors construits de toutes pièces. Les grilles en fer forgé et les sols en terrazzo de Taïwan, eux, ne sont pas des décors : ce sont de véritables traces de vie préservées [^3]. Une nostalgie involontaire touche plus profondément qu'un espace vintage soigneusement scénographié.
-
-Il y a aussi une différence de rythme. La pression scolaire, la culture du surmenage et la compétition acharnée de la société coréenne poussent les jeunes générations à chercher un souffle. Les rues taïwanaises au tempo lent — une grand-mère qui prend le thé sous l'arcade, un chat qui sommeille sur la selle d'un scooter, un vendeur de street food qui retourne une galette sans se presser — transmettent ce sentiment que « quelque part, des gens vivent vraiment bien » [^9].
-
-En creusant encore, on trouve les fondations posées par le nouveau cinéma taïwanais. Les longs plans fixes de Hou Hsiao-hsien, le regard urbain d'Edward Yang, l'esthétique de la solitude chez Tsai Ming-liang — tout cela avait déjà ses adeptes dans les cercles cinéphiles coréens. Pour beaucoup de Coréens, Taïwan s'est d'abord révélé à travers ces films, et le langage visuel de la sensibilité taïwanaise résonne profondément avec ces souvenirs de cinéma.
-
-> **📝 Note de curateur**
-> Le charme de la sensibilité taïwanaise ne tient pas à la « beauté » mais à l'« authenticité ». Les grilles en fer forgé n'ont pas été posées pour être jolies ; les arcades n'ont pas été construites pour être photographiées. C'est précisément parce qu'elles n'existent pas pour être regardées que lorsqu'on les regarde, elles touchent quelque chose d'essentiel.
+> **📝 Note du commissaire**
+> 감성 (gamsong) en coréen ne signifie pas simplement « sensibilité » — c'est « la capacité d'être ému ». 대만감성 ne veut pas dire « l'esthétique de Taïwan » mais « être ému par Taïwan ». Le sujet est celui qui ressent, pas l'objet ressenti.
 
 ---
 
-## La carte des pèlerinages et ses ombres
+## D'un clip musical à un million de personnes
 
-Les lieux rendus célèbres par la sensibilité taïwanaise ne sont pas des sites touristiques classiques, mais des endroits chargés de vie quotidienne : la cité Huajiang à Wanhua (clip de NewJeans), les façades baroques de Dihua Street à Dadaocheng, le quartier résidentiel de Minsheng avec ses allées arborées, la rue Shennong à Tainan, le passage à niveau de Jiaoxi à Yilan.
+Le terme « 대만감성 » est apparu vers 2019 dans les communautés coréennes de photographie et de voyage. Cette année-là, le chanteur indépendant coréen Car, the garden est venu à Taïwan tourner le clip de 〈Tree〉, avec des images de voies ferrées, de scooters et de bâtiments en tôle ondulée — tout ce que les Taïwanais ne regardent même pas au quotidien [^3].
 
-Mais quand « l'imperfection du quotidien » devient un argument touristique, les tensions ne tardent pas à surgir.
+La véritable explosion a eu lieu en 2024. En mars, le nouveau groupe féminin d'HYBE, ILLIT, est venu à Taipei photographier les visuels conceptuels de son album de début _Super Real Me_ — stations de métro, immeubles résidentiels, supérettes, tout y est passé [^4]. En mai, NewJeans a sorti le clip de 〈How Sweet〉, filmé au pont circulaire du complexe résidentiel Huajiang à Wanhua, dans les rues du quartier Minsheng, et dans les rizières et passages à niveau de Jiaoxi, dans le Yilan. Chaque lieu a été identifié un par un par les fans coréens, qui s'y sont rendus en pèlerinage [^5].
 
-À Taipei, la touristification de quartiers comme Yongkang Street ou Dadaocheng a déjà changé le visage de ces communautés. Le gérant d'un café à Ximending l'observe : « Vous ne trouvez plus que le même type d'enseignes. » [^10] La diversité des vieux quartiers est lissée par la consommation touristique. Jean-Robert Thomann, réalisateur français de documentaires venu filmer à Taipei, remarque : « Les loyers des nouveaux immeubles sont trop chers — seuls les supérettes et les restaurants haut de gamme peuvent se les payer. Et tous ces nouveaux bâtiments se ressemblent ; il n'y a plus rien de typiquement taïwanais. » [^10]
+En fin d'année, Oh Hyuk, chanteur du groupe coréen HYUKOH, et le mannequin Huang Chih-min ont réalisé une séance photo de mariage à Taipei. Les lieux de tournage comprenaient un glacier de la rue Hua Xi, le district artistique 435 de Banqiao et le pont piétonnier Heping Xinsheng. Ce pont aérien de quarante ans, apparu dans _A Brighter Summer Day_ d'Edward Yang et _Eat Drink Man Woman_ d'Ang Lee, a été démoli en novembre 2024 [^6]. Les photos de mariage d'Oh Hyuk sont devenues le dernier témoignage artistique de ce pont.
 
-Dihua Street s'en sort un peu mieux. Grâce au mécanisme de transfert de coefficient d'occupation des sols (TDR), les façades des bâtiments anciens ont pu être préservées sans démolitions massives [^11]. Mais cette approche ne s'applique pas à tous les quartiers.
+> **✦** « Ce qui est aimé est en train d'être démoli — c'est là la contradiction la plus profonde de la sensibilité taïwanaise. »
 
-Voilà la contradiction centrale de la sensibilité taïwanaise : les scènes que les Coréens chérissent dans leur objectif sont précisément celles que la rénovation urbaine taïwanaise cherche à raser. La passerelle Heping Xinsheng où Oh Hyuk a posé pour ses photos de mariage a été démolie un mois après la séance.
+En 2025, l'Administration du tourisme de Taïwan a choisi Kyuhyun de Super Junior comme ambassadeur, sur le thème « La romance est juste à côté » [^7]. En juin de la même année, Taïwan était le pays invité d'honneur du 70ᵉ Salon international du livre de Séoul, sous le thème « Sensibilité taïwanaise » — 23 créateurs taïwanais, 85 maisons d'édition, 550 titres, 63 événements, un pavillon taïwanais de 360 m². L'affluence totale du salon a dépassé 150 000 visiteurs [^8].
+
+| Plus d'1 million                                       | 150 000 visiteurs                                                                   |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Touristes coréens à Taïwan en 2024 (3ᵉ pays d'origine) | Affluence du pavillon taïwanais au Salon du livre de Séoul 2025 (record historique) |
+
+---
+
+## Votre quotidien est la nostalgie de quelqu'un d'autre
+
+L'attirance des Coréens pour les rues taïwanaises a une structurelle raison : la leur a disparu.
+
+À partir des années 1990, la Corée du Sud a connu une rénovation urbaine massive, avec la démolition de nombreux anciens bâtiments remplacés par des tours uniformes. Taïwan, en raison de sa politique foncière et d'un rythme de rénovation urbaine plus lent, a préservé une grande quantité de paysages de rues datant des années 1960 à 1980 [^9]. Le « quotidien » taïwanais représente pour les Coréens un « paysage déjà perdu ».
+
+La culture Newtro (뉴트로) — contraction de _New_ et _Retro_ — est devenue populaire en Corée ces dernières années. Mais les cafés rétro et les boutiques nostalgiques de Séoul sont pour la plupart des décors délibérément reconstitués. Les grilles en fer forgé et les sols en granito de Taïwan ne sont pas des décors : ce sont de véritables traces de vie préservées [^3]. La nostalgie non intentionnelle touche davantage que les espaces rétro soigneusement conçus.
+
+Il y a aussi la différence de rythme. La pression scolaire, la culture des heures supplémentaires et la forte compétition de la société coréenne poussent les jeunes générations à chercher un souffle. Le rythme lent des rues taïwanaises — une grand-mère (阿媽) préparant du thé sous une arcade, un chat dormant sur une selle de scooter, un vendeur de rue cuisinant une crêpe aux œufs sans se presser — transmet une impression de « gens qui vivent vraiment » [^9].
+
+[^amá]: Ce site utilise la graphie correcte en taïwanais « 阿媽 » (a-má). Le terme taïwanais pour « grand-mère » s'écrit correctement « 媽 » ; « 嬤 » est un caractère introduit ultérieurement dans le système mandarin. Selon le _Dictionnaire des mots courants en taïwanais_ du ministère de l'Éducation, la graphie correcte est « 阿媽 ».
+
+En creusant plus profondément, il faut aussi mentionner le terrain préparé par le Nouveau Cinéma taïwanais. Les plans-séquences d'Hou Hsiao-hsien, l'observation urbaine d'Edward Yang et l'esthétique de la solitude de Tsai Ming-liang avaient déjà un public fidèle parmi les cinéphiles coréens. Pour beaucoup de Coréens, l'image initiale de Taïwan vient de ces films, et le langage visuel de la sensibilité taïwanaise se superpose fortement à ces souvenirs cinématographiques.
+
+> **📝 Note du commissaire**
+> Le charme de la sensibilité taïwanaise ne réside pas dans la « beauté » mais dans l'« authenticité ». Les grilles en fer forgé n'ont pas été installées pour être jolies, les arcades n'ont pas été construites pour servir de décor photo. C'est précisément parce qu'elles n'existaient pas pour être regardées qu'elles sont d'autant touchantes quand on les voit.
+
+---
+
+## Carte de pèlerinage et ses ombres
+
+Les lieux rendus célèbres par la sensibilité taïwanaise ne sont pas des sites touristiques traditionnels, mais des scènes du quotidien empreintes de vie : le complexe résidentiel Huajiang à Wanhua (clip de NewJeans), les façades baroques de la rue Dihua à Dadaocheng, les rues arborées du quartier Minsheng, la rue Shennong à Tainan, le passage à niveau de Jiaoxi dans le Yilan.
+
+Mais quand le « quotidien imparfait » devient un argument commercial touristique, des tensions apparaissent.
+
+À Taipei, la touristification de rues comme Yongkang et Dadaocheng a déjà transformé le visage des quartiers. Un propriétaire de café dans le quartier de Ximen Ting observe : « On ne trouve plus qu'un seul type de commerce. » [^10] La diversité des anciens quarties est érodée par la consommation touristique. Le documentariste français Jean-Robert Thomann, en tournant à Taipei, a déclaré : « Les loyers des nouveaux immeubles sont trop élevés, seuls les supérettes et les restaurants haut de gamme peuvent se les permettre. Et les nouveaux bâtiments se ressemblent tous, sans le caractère de Taïwan. » [^10]
+
+La rue Dihua est un cas relativement heureux. Grâce au mécanisme de transfert de droits à construire (TDR), l'apparence des anciens bâtiments a été préservée sans démolition à grande échelle [^11]. Mais cette méthode n'est pas applicable à tous les quartiers.
+
+La contradiction centrale de la sensibilité taïwanaise réside ici : les scènes que les Coréens chérissent à travers leurs objectifs sont précisément celles que la rénovation urbaine taïwanaise cherche à démolir. Le pont piétonnier Heping Xinsheng, où Oh Hyuk a pris ses photos de mariage, a été démoli un mois après la séance.
 
 ---
 
 ## Se redécouvrir soi-même
 
-La popularité de la sensibilité taïwanaise en Corée a aussi contraint les Taïwanais à reposer les yeux sur leur propre environnement.
+La popularité de la sensibilité taïwanaise en Corée a aussi contraint les Taïwanais à se regarder à nouveau.
 
-Des paysages longtemps jugés « brouillons », « vieillots » ou « bons pour la rénovation » ont retrouvé une valeur esthétique à travers le regard de l'étranger. Le designer Liao Hsiao-tzu garde cependant la tête froide face à cette vague : « Beaucoup de gens disent que mon design est très "taïwanais", mais je ne peux absolument pas représenter Taïwan à moi seul. » Il pousse la réflexion plus loin : « Vouloir définir le "goût taïwanais" à toute force, n'est-ce pas parce qu'on a peur que, si on ne sait pas dire ce qu'est Taïwan, c'est comme si Taïwan n'était rien ? » [^12]
+Des paysages urbains autrefois jugés « désordonnés », « vétustes » ou « à rénover » ont retrouvé une valeur esthétique à travers le regard de l'extérieur. Le designer Liao Xiao-zi garde une lucidité face à ce phénomène : « Beaucoup de gens disent que mes designs ont beaucoup de "saveur taïwanaise" (台味), mais je ne peux absolument pas représenter Taïwan. » Il pousse la réflexion plus loin : « Vouloir définir la saveur taïwanaise à la va-vite, n'est-ce pas justement parce qu'on a peur que si on ne peut pas dire ce qu'est Taïwan, c'est comme si Taïwan n'existait pas ? » [^12]
 
-Le designer Fang Hsu-chung partage ce sentiment : « Ce n'est pas à moi seul d'accomplir cette tâche, parce que je ne peux pas définir la sensibilité de Taïwan à travers une seule logique visuelle ou une seule imagination. » [^12]
+Le designer Fang Shu-chung partage un point de vue similaire : « Cette tâche ne devrait pas m'incomber à moi seul, car je ne peux pas définir l'esthétique de Taïwan par une seule logique visuelle et une seule imagination. » [^12]
 
 > **💡 Le saviez-vous ?**
-> En 2024, plus d'un million de touristes coréens ont visité Taïwan, représentant 12,77 % des visiteurs internationaux de l'année, soit le troisième rang mondial. En janvier 2025, la fréquentation mensuelle a atteint 118 000 personnes, en hausse de 4 % sur un an [^13].
+> En 2024, plus d'un million de touristes coréens se sont rendus à Taïwan, représentant 12,77 % des visiteurs internationaux annuels, au troisième rang. En janvier 2025, le chiffre mensuel a atteint 118 000 personnes, en hausse de 4 % sur un an [^13].
 
-L'écrivain Lu Hung-chin a formulé une observation particulièrement juste : « Pour les Taïwanais, la sensibilité taïwanaise est aussi naturelle que la respiration — elle est inscrite dans leur ADN. » [^14] On ne remarque pas qu'on respire, jusqu'à ce que quelqu'un vous dise que votre façon de respirer est belle.
+L'écrivain Lu Hong-jin a formulé une observation juste : « La sensibilité taïwanaise, pour les Taïwanais, est un quotidien aussi naturel que respirer, un gène déjà intégré dans le sang. » [^14] On ne remarque pas sa propre respiration jusqu'à ce que quelqu'un dise que le son de votre respiration est agréable.
 
-La programmation du Salon du livre de Séoul 2025 visait elle aussi à approfondir cette compréhension. Ses six espaces thématiques — littérature, vie quotidienne, image, territoire et voyage, gastronomie et divertissement, sensibilité historique — ne se contentaient pas de montrer l'esthétique visuelle de Taïwan : ils déployaient le tissu culturel dont cette esthétique est issue [^8]. Lors de l'inauguration du salon, le ministre de la Culture Lee Yuan a déclaré que la sensibilité taïwanaise puise dans la « résilience et l'ouverture » d'une petite île qui, en absorbant les influences extérieures, a développé une profondeur culturelle singulière [^15].
+La programmation du Salon du livre de Séoul 2025 a aussi cherché à approfondir la compréhension. Six grandes sections thématiques — littérature, vie quotidienne, image, voyage et terroir, gastronomie et divertissement, sensibilité historique — ne se contentaient pas de présenter l'esthétique visuelle de Taïwan, mais déployaient les textures culturelles qui se cachent derrière ces beautés [^8]. Le ministre de la Culture Li Yuan a déclaré lors de l'ouverture du salon que la sensibilité de Taïwan naît de la « résilience et de l'inclusivité » d'une petite île, qui, en absorbant les influences extérieures, a développé une profondeur culturelle unique [^15].
 
-Yang Chao-ching, après des années passées à arpenter d'innombrables vieilles maisons, a dit un jour : « Une maison est comme un récipient. Chaque famille y infuse une boisson différente — tout dépend des sentiments qu'on y dépose. » [^1]
+Yang Chao-ching, après avoir visité d'innombrables vieilles maisons, a dit une phrase : « Une maison est comme un récipient : chaque foyer y prépare une boisson différente, selon les émotions qu'on y verse. » [^1]
 
 ---
 
-Le paradoxe ultime de la sensibilité taïwanaise est peut-être celui-ci : les rues qu'elle désigne, les grilles en fer forgé, les bougainvillées accrochées aux façades des vieux immeubles — rien de tout cela n'existe pour être admiré. Ces choses ont simplement vécu. Et ce qui a vécu finira par mourir.
+Le côté le plus paradoxal de la sensibilité taïwanaise est peut-être celui-ci : ces paysages de rues, ces grilles en fer forgé, ces bougainvilliers sur les murs des vieux immeubles — rien de tout cela n'a été conçu pour être admiré. Ils ont simplement vécu. Et ce qui a vécu finira un jour par mourir.
 
-En triant dix années de photos de grilles, Hsin Yung-sheng a constaté que nombre de celles qu'il avait photographiées n'étaient plus là. Certaines avaient été démontées, d'autres avaient disparu avec la maison entière. Il dit aujourd'hui que son appareil photo court une course contre les pelleteuses [^2].
+Hsin Yong-sheng, en compilant dix ans de photographies de grilles en fer forgé, a découvert que beaucoup de celles qu'il avait photographiées n'existaient plus. Certaines avaient été démolies, d'autres avaient disparu avec la maison elle-même. Il dit que la vitesse à laquelle il photographie est désormais une course contre la vitesse de démolition [^2].
 
-La passerelle Heping Xinsheng n'est plus qu'un terrain vague. Mais sur les photos de mariage d'Oh Hyuk, ce pont est encore debout.
+Le pont piétonnier Heping Xinsheng est devenu un terrain vague. Mais sur les photos de mariage d'Oh Hyuk, ce pont est toujours là.
 
-**Lectures complémentaires :**
+**Pour aller plus loin** :
 
-- [Architecture taïwanaise](/art/台灣建築) — De l'ère japonaise à l'époque contemporaine, comment l'architecture taïwanaise s'est construite couche par couche
-- [Cinéma taïwanais](/art/台灣電影) — Les longs plans de Hou Hsiao-hsien, Edward Yang et Tsai Ming-liang, matrice cinématographique de la sensibilité taïwanaise
-- [Art du thé et esthétique de la vie quotidienne à Taïwan](/culture/台灣茶道與生活美學) — Une autre expression de la lenteur taïwanaise, vue à travers la cérémonie du thé
-- [La culture des supérettes à Taïwan](/lifestyle/台灣便利商店文化) — La supérette allumée au fond de la nuit, scène emblématique de la sensibilité taïwanaise
-- [Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) — Les temples, couleurs les plus vives et couches de foi les plus profondes du paysage taïwanais
+- [Architecture taïwanaise](/art/台灣建築) — De la période japonaise à l'époque contemporaine, comment l'architecture taïwanaise s'est superposée jusqu'à prendre sa forme actuelle
+- [Cinéma taïwanais](/art/台灣電影) — Les plans-séquences de Hou Hsiao-hsien, Edward Yang et Tsai Ming-liang sont les gènes cinématographiques de la sensibilité taïwanaise
+- [Cérémonie du taïwanais et esthétique de vie](/culture/台灣茶道與生活美學) — Une autre facette de la vie lente taïwanaise, l'esthétique du quotidien à travers la cérémonie du thé
+- [Culture des supérettes taïwanaises](/lifestyle/台灣便利商店文化) — Les supérettes éclairées au milieu de la nuit sont un décor classique de la sensibilité taïwanaise
+- [Religion et culture des temples taïwanais](/culture/台灣宗教與寺廟文化) — Les temples sont la couleur la plus intense et la strate de foi la plus marquante du paysage urbain taïwanais
+- [Tzuyu Chou](/people/周子瑜) — L'un des premiers visages taïwanais à apparaître sur le chemin par lequel les Coréens découvrent Taïwan
+- [Tehching Hsieh](/art/謝德慶) — L'artiste de performance taïwanais qui fait du « temps et de la vie » son matériau direct, une version extrême de la sensibilité taïwanaise
 
 ## Références
 
-[^1]: [Entretien avec le studio Laoyuyan](https://okapi.books.com.tw/article/3681) — OKAPI 閱讀生活誌深度訪談，記錄辛永勝與楊朝景從 2013 年成立老屋顏工作室到出版多本鐵窗花專書的完整歷程與保存理念。
+[^1]: [Entretien avec l'atelier Vieux visages de maisons](https://okapi.books.com.tw/article/3681) — Entretien approfondi du magazine OKAPI, retraçant le parcours complet de Hsin Yong-sheng et Yang Chao-ching depuis la fondation de l'atelier en 2013 jusqu'à la publication de plusieurs ouvrages sur les grilles en fer forgé, ainsi que leur philosophie de préservation.
 
-[^2]: [Grilles en fer forgé taïwanaises](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E7%AA%97%E8%8A%B1) — 維基百科「鐵窗花」條目，整理台灣鐵窗花的歷史發展、工藝特徵與消失危機，附多項學術及媒體來源。
+[^2]: [Grilles en fer forgé](https://zh.wikipedia.org/zh-tw/%E9%90%B5%E7%AA%97%E8%8A%B1) — Article Wikipédia consacré aux grilles en fer forgé taïwanaises, retraçant leur histoire, leurs caractéristiques artisanales et les menaces de disparition, avec de nombreuses sources académiques et médiatiques.
 
-[^3]: [De la K-pop au Salon du livre : décryptage de la vague taïwanaise en Corée](https://www.wowlavie.com/article/250025783) — La Vie 行動家 2025 年專題報導，分析 대만감성 從攝影圈萌芽到 K-pop 引爆的完整時間軸，含 Car, the garden〈Tree〉MV 及 Newtro 文化脈絡。
+[^3]: [Du K-pop au Salon du livre : analyse approfondie de la vague de sensibilité taïwanaise en Corée](https://www.wowlavie.com/article/250025783) — Reportage spécial de La Vie (2025) analysant la chronologie complète de 대만감성, de ses débuts dans les cercles photographiques à l'explosion via le K-pop, incluant le clip 〈Tree〉 de Car, the garden et le contexte culturel Newtro.
 
-[^4]: [ILLIT Super Real Me](https://en.wikipedia.org/wiki/Illit) — 維基百科 ILLIT 條目，記載 2024 年 1 月台灣拍攝出道 EP 概念照及同年 3 月正式出道資訊。
+[^4]: [ILLIT Super Real Me](https://en.wikipedia.org/wiki/Illit) — Article Wikipédia sur ILLIT, documentant la session photo à Taïwan en janvier 2024 pour les visuels conceptuels de l'EP de début et les informations sur les débuts officiels en mars 2024.
 
-[^5]: [NewJeans "How Sweet" MV filming in Taiwan](https://news.vocofm.com/en/entertainment-news/96629/) — VOCO News 報導，詳列〈How Sweet〉MV 在萬華華江整宅、民生社區、宜蘭礁溪等地的取景細節，及 ADOR 官方聲明。
+[^5]: [Tournage du clip "How Sweet" de NewJeans à Taïwan](https://news.vocofm.com/en/entertainment-news/96629/) — Article de VOCO News détaillant les lieux de tournage du clip 〈How Sweet〉 — complexe résidentiel Huajiang à Wanhua, quartier Minsheng, Jiaoxi dans le Yilan — ainsi que la déclaration officielle d'ADOR.
 
-[^6]: [Lieux de tournage du shooting de mariage d'Oh Hyuk à Taipei](https://www.bella.tw/articles/travel&foodies/50953/taiwanese-retro-wedding-photoshoot-locations-top5) — Bella.tw 整理吳赫與黃智敏 2024 年 12 月在台北和平新生天橋、華西街、板橋 435 藝文特區等地拍攝婚紗照的完整取景清單。
+[^6]: [Lieux de la séance photo de mariage d'Oh Hyuk (HYUKOH) à Taipei](https://www.bella.tw/articles/travel&foodies/50953/taiwanese-retro-wedding-photoshoot-locations-top5) — Article de Bella.tw recensant les lieux de la séance photo de mariage d'Oh Hyuk et Huang Chih-min en décembre 2024 à Taipei : pont piétonnier Heping Xinsheng, rue Hua Xi, district artistique 435 de Banqiao.
 
-[^7]: [Kyuhyun de Super Junior, ambassadeur du tourisme taïwanais](https://www.cna.com.tw/news/ahel/202408160067.aspx) — 中央通訊社 2024 年報導，圭賢獲邀擔任台灣觀光代言人，推廣主題「浪漫就在身邊」，2025 年新拍四支宣傳影片。
+[^7]: [Kyuhyun de Super Junior nommé ambassadeur du tourisme taïwanais](https://www.cna.com.tw/news/ahel/202408160067.aspx) — Reportage de l'Agence centrale de presse (2024) annonçant la nomination de Kyuhyun comme ambassadeur du tourisme taïwanais, sur le thème « La romance est juste à côté », avec quatre nouveaux films promotionnels tournés en 2025.
 
-[^8]: [Taiwan and Its 'Sensibility': Seoul's 2025 Guest of Honor](https://publishingperspectives.com/2025/06/taiwan-and-its-sensibility-seouls-2025-guest-of-honor/) — Publishing Perspectives 英文報導，詳述台灣作為 2025 首爾國際書展主題國的策展規模、六大主題區設計、23 位台灣創作者名單及版權洽談成果。
+[^8]: [Taiwan and Its 'Sensibility': Seoul's 2025 Guest of Honor](https://publishingperspectives.com/2025/06/taiwan-and-its-sensibility-seouls-2025-guest-of-honor/) — Article en anglais de Publishing Perspectives détaillant l'ampleur de la programmation de Taïwan en tant que pays invité d'honneur du Salon international du livre de Séoul 2025 : conception des six sections thématiques, liste des 23 créateurs taïwanais et résultats des négociations de droits.
 
-[^9]: [Why Korean Tourists Are Going Crazy for Taiwan](https://english.cw.com.tw/article/article.action?id=3933) — 天下雜誌英文版分析韓國旅客對台灣的結構性迷戀：都市更新速差、Newtro 文化延伸、慢生活嚮往等深層原因。
+[^9]: [Why Korean Tourists Are Going Crazy for Taiwan](https://english.cw.com.tw/article/article.action?id=3933) — Analyse en anglais du magazine _CommonWealth_ sur l'attirance structurelle des touristes coréens pour Taïwan : décalage dans le rythme de rénovation urbaine, prolongement de la culture Newtro, aspiration à la vie lente.
 
-[^10]: [Modernity, Gentrification, and Café Culture in Taipei](https://newbloommag.net/2018/08/24/modernity-gentrification-cafe-tpe/) — New Bloom Magazine 報導台北街區觀光化與仕紳化的張力，收錄在地咖啡店主及外國紀錄片導演對社區變遷的觀察。
+[^10]: [Modernity, Gentrification, and Café Culture in Taipei](https://newbloommag.net/2018/08/24/modernity-gentrification-cafe-tpe/) — Article de New Bloom Magazine sur les tensions entre touristification et embourgeoisement des rues de Taipei, incluant les observations d'un propriétaire de café local et d'un documentariste étranger sur la transformation des quartiers.
 
-[^11]: [Alternative Gentrification at Dihua Street, Taipei](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2250776) — Taylor & Francis 2023 年學術論文，研究迪化街透過容積移轉（TDR）機制保存歷史建築外觀的都市更新模式。
+[^11]: [Alternative Gentrification at Dihua Street, Taipei](https://www.tandfonline.com/doi/abs/10.1080/13527258.2023.2250776) — Article académique de Taylor & Francis (2023) étudiant le modèle de rénovation urbaine de la rue Dihua à Taipei via le mécanisme de transfert de droits à construire (TDR) pour préserver l'apparence des bâtiments historiques.
 
-[^12]: [Liao Hsiao-tzu × Fang Hsu-chung : qu'est-ce que la sensibilité taïwanaise ?](https://www.wowlavie.com/article/ae1902136) — La Vie 行動家專題，兩位台灣設計師對「台味」定義的深度對話，反思文化定義焦慮與多元美學。
+[^12]: [Liao Xiao-zi × Fang Shu-chung : qu'est-ce que l'esthétique taïwanaise ?](https://www.wowlavie.com/article/ae1902136) — Reportage spécial de La Vie présentant un dialogue approfondi entre deux designers taïwanais sur la définition de la « saveur taïwanaise », la réflexion sur l'anxiété de définition culturelle et l'esthétique pluraliste.
 
-[^13]: [Taiwan Tourism Statistics 2024](https://admin.taiwan.net.tw/english/info/News?a=1329&id=33574) — 台灣觀光署官方英文統計，2024 年全年韓國來台旅客 1,003,086 人次，佔國際旅客 12.77%，排名第三。
+[^13]: [Taiwan Tourism Statistics 2024](https://admin.taiwan.net.tw/english/info/News?a=1329&id=33574) — Statistiques officielles en anglais de l'Administration du tourisme de Taïwan : 1 003 086 arrivées de touristes coréens en 2024, soit 12,77 % des visiteurs internationaux, au troisième rang.
 
-[^14]: [Lu Hung-chin, « Sensibilité taïwanaise »](https://reading.udn.com/read/story/7048/8942251) — 聯合報讀書頻道散文，將台灣感性比喻為「融入血液的基因」與「如呼吸般的日常」，以食物與記憶為線索解讀文化底層。
+[^14]: [Lu Hong-jin, « Sensibilité taïwanaise »](https://reading.udn.com/read/story/7048/8942251) — Essai publié sur la plateforme de lecture du _United Daily News_, comparant la sensibilité taïwanaise à « un gène intégré dans le sang » et à « un quotidien aussi naturel que respirer », explorant les strates culturelles profondes à travers la nourriture et la mémoire.
 
-[^15]: [Taïwan à la Foire du livre de Séoul sous le thème de la sensibilité taïwanaise](https://www.tibe.org.tw/tw/news_detail/4/1702) — 台北國際書展基金會官方新聞，文化部長李遠談台灣文化的韌性與包容性，郝明義擔任策展顧問的完整企劃說明。
+[^15]: [Taïwan participe au Salon du livre de Séoul sous le thème « Sensibilité taïwanaise »](https://www.tibe.org.tw/tw/news_detail/4/1702) — Communiqué officiel de la Fondation du Salon international du livre de Taipei : le ministre de la Culture Li Yuan évoque la résilience et l'inclusivité de la culture taïwanaise, et Hao Ming-yi assure le rôle de conseiller curatorial.

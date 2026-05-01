@@ -9,21 +9,24 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: 'People/林懷民.md'
+translatedFrom: "People/林懷民.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:90c4912ca48f7ecb"
+translatedAt: "2026-04-14T19:15:55+08:00"
 ---
 
-> **En 30 secondes :** En 1973, Lin Huai-min, romancier de 26 ans sans formation professionnelle en danse, fonde à Taïwan la première compagnie de danse contemporaine professionnelle du monde sinophone : le Cloud Gate Dance Theatre. La troupe restera active sur la scène internationale pendant plus de cinquante ans et sera saluée par le *New York Times* comme « la compagnie de danse contemporaine la plus importante d'Asie ».
+> **En 30 secondes :** En 1973, Lin Huai-min, romancier de 26 ans sans formation professionnelle en danse, fonde à Taïwan la première compagnie de danse contemporaine professionnelle du monde sinophone : le Cloud Gate Dance Theatre. La troupe restera active sur la scène internationale pendant plus de cinquante ans et sera saluée par le _New York Times_ comme « la compagnie de danse contemporaine la plus importante d'Asie ».
 
-En 1970, Lin Huai-min, 23 ans, suit une formation de création littéraire à l'Iowa Writers' Workshop. Il a déjà publié son roman fondateur *Chan* (蟬) et est considéré comme l'une des voix prometteuses des lettres taïwanaises. Mais un soir, loin de chez lui, il pousse la porte d'une salle de danse — et enclenche une aventure qui va transformer durablement les arts du spectacle à Taïwan.
+En 1970, Lin Huai-min, 23 ans, suit une formation de création littéraire à l'Iowa Writers' Workshop. Il a déjà publié son roman fondateur _Chan_ (蟬) et est considéré comme l'une des voix prometteuses des lettres taïwanaises. Mais un soir, loin de chez lui, il pousse la porte d'une salle de danse — et enclenche une aventure qui va transformer durablement les arts du spectacle à Taïwan.
 
 Nul n'aurait imaginé que ce romancier créerait, trois ans plus tard, la première compagnie professionnelle de danse moderne du monde sinophone, et qu'il la conduirait pendant un demi-siècle.
 
 ## De la littérature au corps : un tournant inattendu
 
-Lin Huai-min naît en 1947 à Xingang, dans le comté de Chiayi, au sein d'une famille de lettres. Son arrière-grand-père était bachelier sous les Qing, son grand-père un médecin renommé formé au Japon, et son père, Lin Jinsheng, le premier magistrat du comté de Chiayi après la Rétrocession. Dans cet environnement cultivé, l'orientation littéraire de Lin Huai-min semblait toute tracée : il publie ses premiers textes à 14 ans, puis *Chan* à 22, roman qui saisit avec justesse la jeunesse taïwanaise des années 1960, entre les cafés de Ximending et les errances de toute une génération.
+Lin Huai-min naît en 1947 à Xingang, dans le comté de Chiayi, au sein d'une famille de lettres. Son arrière-grand-père était bachelier sous les Qing, son grand-père un médecin renommé formé au Japon, et son père, Lin Jinsheng, le premier magistrat du comté de Chiayi après la Rétrocession. Dans cet environnement cultivé, l'orientation littéraire de Lin Huai-min semblait toute tracée : il publie ses premiers textes à 14 ans, puis _Chan_ à 22, roman qui saisit avec justesse la jeunesse taïwanaise des années 1960, entre les cafés de Ximending et les errances de toute une génération.
 
 > **💡 Le saviez-vous ?**
-> Lin Huai-min tombe amoureux de la danse à 5 ans en regardant le film *Les Chaussons rouges*, mais ne commencera à se former sérieusement que bien plus tard, à 23 ans.
+> Lin Huai-min tombe amoureux de la danse à 5 ans en regardant le film _Les Chaussons rouges_, mais ne commencera à se former sérieusement que bien plus tard, à 23 ans.
 
 Pourtant, c'est à Iowa que ce jeune intellectuel fait volte-face. Il commence l'apprentissage de la danse moderne en parallèle de ses études, obtient un master en beaux-arts en 1972, puis rentre à Taïwan avec une décision qui, de l'aveu même, tient de l'élan impulsif : fonder une compagnie de danse.
 
@@ -35,20 +38,20 @@ C'est en 1973. Sans subvention publique, sans salle dédiée, sans assez de dans
 
 En 1973, cela sonne comme une utopie. La danse moderne est quasi absente du paysage taïwanais. Où trouver un public ? Des financements ? Pourtant, pas à pas, l'impossible devient réalité.
 
-En 1978, Lin Huai-min emmène ses danseurs au bord de la rivière Xindian ramasser des pierres, pour ressentir dans leur corps la gestuelle des pionniers qui défrichèrent cette île. Il en tire *Legacy* (薪傳), épopée chorégraphique sur la traversée des immigrants chinois vers Taïwan — la première œuvre scénique à prendre l'histoire taïwanaise pour matière.
+En 1978, Lin Huai-min emmène ses danseurs au bord de la rivière Xindian ramasser des pierres, pour ressentir dans leur corps la gestuelle des pionniers qui défrichèrent cette île. Il en tire _Legacy_ (薪傳), épopée chorégraphique sur la traversée des immigrants chinois vers Taïwan — la première œuvre scénique à prendre l'histoire taïwanaise pour matière.
 
 > **📝 Note du curateur**
-> La première de *Legacy* tombe le 16 décembre 1978 — le jour même où les États-Unis annoncent la rupture de leurs relations diplomatiques avec la République de Chine. En deux mois de tournée, cette pièce évoquant la traversée périlleuse des ancêtres et leur opiniâtreté face à l'adversité touche et réconforte plus de 20 000 spectateurs.
+> La première de _Legacy_ tombe le 16 décembre 1978 — le jour même où les États-Unis annoncent la rupture de leurs relations diplomatiques avec la République de Chine. En deux mois de tournée, cette pièce évoquant la traversée périlleuse des ancêtres et leur opiniâtreté face à l'adversité touche et réconforte plus de 20 000 spectateurs.
 
 Ce n'est pas un hasard : c'est l'histoire qui se met en scène. Au moment où la société taïwanaise cherche ses repères identitaires, Cloud Gate raconte, par le corps, ce que cette terre porte en elle.
 
 ## La langue moderne du corps oriental
 
-Ce qui force l'admiration dans la démarche de Lin Huai-min, c'est la profondeur de son travail sur la culture orientale et sa capacité à la renouveler. *Nine Songs* (九歌, 1993) réinterprète le poème éponyme de Qu Yuan, transposant l'esthétique de la littérature classique en dynamique chorégraphique. *Songs of the Wanderers* (流浪者之歌, 1994) puise dans le roman de Hermann Hesse et dans les textes du bouddhisme ; en amont de la création, Lin Huai-min se rend en pèlerinage à Bodh Gaya, lieu de l'Éveil du Bouddha, avant de composer cette pièce qui transforme le rituel religieux asiatique en cérémonie de théâtre contemporain.
+Ce qui force l'admiration dans la démarche de Lin Huai-min, c'est la profondeur de son travail sur la culture orientale et sa capacité à la renouveler. _Nine Songs_ (九歌, 1993) réinterprète le poème éponyme de Qu Yuan, transposant l'esthétique de la littérature classique en dynamique chorégraphique. _Songs of the Wanderers_ (流浪者之歌, 1994) puise dans le roman de Hermann Hesse et dans les textes du bouddhisme ; en amont de la création, Lin Huai-min se rend en pèlerinage à Bodh Gaya, lieu de l'Éveil du Bouddha, avant de composer cette pièce qui transforme le rituel religieux asiatique en cérémonie de théâtre contemporain.
 
-*Smoke* (松煙, 2003) s'inspire des paysages en encre de Chine de la période Song : les danseurs évoluent dans les volutes de fumée tels des points d'encre en suspension. *Rice* (稻禾, 2013) transpose sur scène le cycle de vie des rizières de Chichi, dans le comté de Taitung — et en 2013, la pièce est présentée dans de véritables rizières, là où la danse et la terre ne font plus qu'un.
+_Smoke_ (松煙, 2003) s'inspire des paysages en encre de Chine de la période Song : les danseurs évoluent dans les volutes de fumée tels des points d'encre en suspension. _Rice_ (稻禾, 2013) transpose sur scène le cycle de vie des rizières de Chichi, dans le comté de Taitung — et en 2013, la pièce est présentée dans de véritables rizières, là où la danse et la terre ne font plus qu'un.
 
-Ces œuvres incarnent l'esthétique de Lin Huai-min : « le corps comme paysage ». Pour lui, le corps oriental recèle des codes culturels distincts de ceux de l'Occident, et la danse moderne devrait se nourrir de son propre terreau. Le *New York Times* écrit : « Lin Huai-min réussit à fondre les techniques et les concepts dramatiques orientaux et occidentaux. »
+Ces œuvres incarnent l'esthétique de Lin Huai-min : « le corps comme paysage ». Pour lui, le corps oriental recèle des codes culturels distincts de ceux de l'Occident, et la danse moderne devrait se nourrir de son propre terreau. Le _New York Times_ écrit : « Lin Huai-min réussit à fondre les techniques et les concepts dramatiques orientaux et occidentaux. »
 
 ## L'incendie et la renaissance : l'épreuve de 2008
 
@@ -85,13 +88,13 @@ En 2017, un accident de voiture amène Lin Huai-min, alors âgé de 70 ans, à r
 
 « Si je ne partais pas maintenant, il finirait comme le prince Charles », plaisante-t-il.
 
-Ce passage de flambeau s'est construit sur plusieurs années, Lin Huai-min veillant personnellement à former son successeur pour que l'âme artistique de Cloud Gate puisse perdurer. En 2020, Cheng Tsung-lung prend officiellement ses fonctions et signe sa première création pour la compagnie, *Beckoning* (定光).
+Ce passage de flambeau s'est construit sur plusieurs années, Lin Huai-min veillant personnellement à former son successeur pour que l'âme artistique de Cloud Gate puisse perdurer. En 2020, Cheng Tsung-lung prend officiellement ses fonctions et signe sa première création pour la compagnie, _Beckoning_ (定光).
 
 Lin Huai-min a souvent dit : « Je veux que Cloud Gate soit une marque, pas la compagnie d'un seul homme. » En 46 ans à sa tête, il a produit 90 pièces, formé d'innombrables danseurs — dont beaucoup sont devenus chorégraphes ou interprètes de premier plan — et fondé ce que l'on peut appeler une véritable école Cloud Gate.
 
 ## La fin d'une époque, le début d'une autre
 
-En 2000, Lin Huai-min reçoit le Prix national des arts et de la littérature de Taïwan. En 2019, son roman *Chan* sort en édition commémorative pour ses 50 ans. En 2022, son recueil de souvenirs *Torrents et reflets* (激流與倒影) remporte à la fois le Prix d'or du Prix de littérature taïwanaise et le Prix de non-fiction du Taipei International Book Exhibition.
+En 2000, Lin Huai-min reçoit le Prix national des arts et de la littérature de Taïwan. En 2019, son roman _Chan_ sort en édition commémorative pour ses 50 ans. En 2022, son recueil de souvenirs _Torrents et reflets_ (激流與倒影) remporte à la fois le Prix d'or du Prix de littérature taïwanaise et le Prix de non-fiction du Taipei International Book Exhibition.
 
 Du romancier au chorégraphe, d'un élan solitaire à un symbole d'une époque entière, Lin Huai-min a passé un demi-siècle à démontrer une vérité : le vrai artiste n'imite pas, il crée. Il a fait naître la danse contemporaine à Taïwan là où elle n'existait pas, l'a conduite du cercle des initiés jusqu'au grand public, du local vers l'international.
 
@@ -108,8 +111,8 @@ Cinquante ans de Cloud Gate : c'est l'histoire d'une fidélité à un rêve, et 
 - [Cloud Gate Dance Theatre — Wikipédia (zh)](https://zh.wikipedia.org/zh-tw/雲門舞集)
 - [The New York Times: In Taiwan, a Contemporary Dance Troupe Brings in the Crowds](https://www.nytimes.com/2019/07/30/arts/dance/cloud-gate-dance-taiwan.html)
 - [The Reporter : Après l'incendie, vers quel avenir pour le Cloud Gate Theater ?](https://www.twreporter.org/a/theatre-cloud-gate)
-- [The Reporter : *Legacy*, 45 ans après](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
+- [The Reporter : _Legacy_, 45 ans après](https://www.twreporter.org/a/cloud-gate-dance-theatre-legacy-45-years)
 - [The News Lens : Lin Huai-min annonce sa retraite en 2019](https://www.thenewslens.com/article/83952)
-- [China Times : 50e anniversaire de *Chan*](https://www.chinatimes.com/realtimenews/20191022003051-260405)
+- [China Times : 50e anniversaire de _Chan_](https://www.chinatimes.com/realtimenews/20191022003051-260405)
 - [Prix national des arts et de la littérature : Lin Huai-min](https://www.ncafroc.org.tw/artsaward/winnerDetail@1224)
-- [United Daily News : Cloud Gate, 40 ans — la moisson de *Rice*](https://www.chinatimes.com/realtimenews/20131122005081-260508)
+- [United Daily News : Cloud Gate, 40 ans — la moisson de _Rice_](https://www.chinatimes.com/realtimenews/20131122005081-260508)

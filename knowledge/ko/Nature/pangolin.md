@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a5b003502d2f617c'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만 천산갑

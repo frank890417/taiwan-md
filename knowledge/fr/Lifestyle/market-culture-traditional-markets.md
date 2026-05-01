@@ -2,7 +2,14 @@
 title: 'La culture des marchés à Taïwan : les marchés traditionnels'
 description: 'Un miroir de la vie populaire, reflet de la résilience et de la transformation de la société taïwanaise'
 date: 2026-03-19
-tags: ['marchés traditionnels', 'culture populaire', 'fonctions sociales', 'urbanisme', 'économie communautaire']
+tags:
+  [
+    'marchés traditionnels',
+    'culture populaire',
+    'fonctions sociales',
+    'urbanisme',
+    'économie communautaire',
+  ]
 subcategory: 'Alimentation et vie quotidienne'
 category: 'Lifestyle'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0334fef76cff5db1'
+translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 
 # La culture des marchés à Taïwan : les marchés traditionnels

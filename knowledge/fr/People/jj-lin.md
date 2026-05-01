@@ -2,7 +2,15 @@
 title: 'JJ Lin (Lin Junjie)'
 description: 'Auteur-compositeur-interprète né à Singapour, révélé à Taïwan, dont les œuvres comme « Jiangnan » ont conquis le monde sinophone'
 date: 2026-03-19
-tags: ['musique', 'auteur-compositeur', 'pop mandarin', 'Singapour', 'musique populaire', 'Golden Melody Awards']
+tags:
+  [
+    'musique',
+    'auteur-compositeur',
+    'pop mandarin',
+    'Singapour',
+    'musique populaire',
+    'Golden Melody Awards',
+  ]
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/林俊傑.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:88e7c7b4207d65a4'
+translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 
 # JJ Lin : un artiste sans frontières au cœur de la pop mandarine
@@ -18,13 +29,13 @@ Lin Junjie, connu sous le nom de scène JJ Lin, est né en 1981 à Singapour. Il
 
 ## Éveil musical et débuts
 
-JJ Lin manifeste très tôt une sensibilité musicale hors du commun : il commence le piano à quatre ans et compose ses premières mélodies durant l'enfance. Après avoir achevé sa scolarité à Singapour, il choisit de s'établir à Taïwan pour développer sa carrière artistique. En 2003, à vingt-deux ans, il publie son premier album *Music Traveler*, qui retient immédiatement l'attention de l'industrie. La maturité de son écriture — fusionnant R&B, rock et électronique — surprend pour un artiste débutant et laisse entrevoir de nouvelles possibilités pour la pop mandarine.
+JJ Lin manifeste très tôt une sensibilité musicale hors du commun : il commence le piano à quatre ans et compose ses premières mélodies durant l'enfance. Après avoir achevé sa scolarité à Singapour, il choisit de s'établir à Taïwan pour développer sa carrière artistique. En 2003, à vingt-deux ans, il publie son premier album _Music Traveler_, qui retient immédiatement l'attention de l'industrie. La maturité de son écriture — fusionnant R&B, rock et électronique — surprend pour un artiste débutant et laisse entrevoir de nouvelles possibilités pour la pop mandarine.
 
 ## Le phénomène « Jiangnan »
 
-En 2004, son deuxième album *Second Heaven* donne naissance à « Jiangnan », titre qui devient un véritable phénomène culturel. La chanson marie l'esthétique de la poésie classique chinoise à une production pop résolument contemporaine, créant un style inédit. Son succès retentissant à Taïwan, en Chine continentale et à Hong Kong consacre JJ Lin au rang de star de la pop mandarine.
+En 2004, son deuxième album _Second Heaven_ donne naissance à « Jiangnan », titre qui devient un véritable phénomène culturel. La chanson marie l'esthétique de la poésie classique chinoise à une production pop résolument contemporaine, créant un style inédit. Son succès retentissant à Taïwan, en Chine continentale et à Hong Kong consacre JJ Lin au rang de star de la pop mandarine.
 
-Au-delà de sa mélodie envoûtante, « Jiangnan » marque une rupture esthétique : elle incorpore avec élégance les références de la culture classique chinoise dans un langage musical moderne, ouvrant la voie au courant dit « chinois » (*Zhongguo feng*) qui a depuis inspiré d'innombrables artistes.
+Au-delà de sa mélodie envoûtante, « Jiangnan » marque une rupture esthétique : elle incorpore avec élégance les références de la culture classique chinoise dans un langage musical moderne, ouvrant la voie au courant dit « chinois » (_Zhongguo feng_) qui a depuis inspiré d'innombrables artistes.
 
 ## Polyvalence créative et diversité musicale
 

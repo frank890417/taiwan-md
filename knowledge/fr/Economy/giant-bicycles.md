@@ -8,8 +8,11 @@ subcategory: 'Portraits d'entreprises'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
-translatedFrom: 'Economy/台灣企業：巨大機械.md'
+translatedFrom: "Economy/台灣企業：巨大機械.md"
 lastVerified: 2026-03-22
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:59a5006dd9b19748"
+translatedAt: "2026-04-14T19:20:58+08:00"
 ---
 
 # Entreprises taïwanaises : Giant Bicycles
@@ -75,10 +78,10 @@ Les chiffres attestent du succès : en 2003, Taïwan exporte 5 millions de vélo
 
 L'A-Team redéfinit la notion même de « compétition ». Là où l'industrie manufacturière traditionnelle raisonnait en jeu à somme nulle, l'A-Team a démontré que la « concurrence coopérative » peut créer davantage de valeur. Ce modèle sera ensuite appliqué à d'autres secteurs taïwanais, comme les semi-conducteurs ou la mécanique industrielle.
 
-| Comparaison avant/après A-Team | 2003 | 2008 |
-|-------------------------------|------|------|
-| Volume annuel exporté | 5 millions d'unités | 6 millions d'unités |
-| Prix moyen | 200 USD | 400 USD |
+| Comparaison avant/après A-Team | 2003                | 2008                |
+| ------------------------------ | ------------------- | ------------------- |
+| Volume annuel exporté          | 5 millions d'unités | 6 millions d'unités |
+| Prix moyen                     | 200 USD             | 400 USD             |
 
 > **⚠️ Point de débat**
 > Certains critiques voient dans l'A-Team une entente entre grands groupes au détriment des PME. Ses défenseurs répondent que face à la concurrence chinoise sur les prix, ne pas s'unir pour monter en gamme, c'était choisir la mort collective.

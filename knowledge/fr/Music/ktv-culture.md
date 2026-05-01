@@ -11,7 +11,10 @@ featured: true
 category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Music/台灣KTV文化.md'
+translatedFrom: "Music/台灣KTV文化.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:9ec6298d6c909b81"
+translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 
 # La culture KTV à Taïwan : du karaoké japonais au rituel social en salon privatif
@@ -30,7 +33,7 @@ La culture KTV a profondément reconfiguré les pratiques sociales et l'écosyst
 
 ### Naissance du karaoké
 
-Le mot « karaoké » vient du japonais *kara* (vide) et d'une abréviation d'*orchestra* (orchestre). Inventé au Japon dans les années 1970, c'était au départ un équipement de fond sonore dans les bars, permettant aux clients de chanter sur des musiques préenregistrées.
+Le mot « karaoké » vient du japonais _kara_ (vide) et d'une abréviation d'_orchestra_ (orchestre). Inventé au Japon dans les années 1970, c'était au départ un équipement de fond sonore dans les bars, permettant aux clients de chanter sur des musiques préenregistrées.
 
 ### Les premières années à Taïwan
 
@@ -115,14 +118,14 @@ Le salon de KTV a engendré un mode de socialisation unique à Taïwan — bien 
 
 ### Le phénomène du « maître du micro »
 
-La culture KTV a fait naître le concept de *màibà* (麥霸, littéralement « tyran du micro ») — celui ou celle qui monopolise le chant dans le salon. Ce profil se reconnaît à :
+La culture KTV a fait naître le concept de _màibà_ (麥霸, littéralement « tyran du micro ») — celui ou celle qui monopolise le chant dans le salon. Ce profil se reconnaît à :
 
 - **Un chant maîtrisé** : une voix qui porte et une présence qui anime le groupe
 - **Un répertoire vaste** : une connaissance encyclopédique des chansons
 - **Un sens de la convivialité** : l'art d'entretenir l'ambiance dans le salon
 - **Un goût pour la scène** : le plaisir d'être au centre de l'attention
 
-Le *màibà* illustre cette propension à « se mettre en avant » qui traverse les interactions sociales taïwanaises — et est devenu un personnage récurrent de la culture populaire.
+Le _màibà_ illustre cette propension à « se mettre en avant » qui traverse les interactions sociales taïwanaises — et est devenu un personnage récurrent de la culture populaire.
 
 ### La psychologie du choix des chansons
 
@@ -467,11 +470,11 @@ Car au moment où l'on saisit le micro dans un salon de KTV, on ne fait pas que 
 
 1. [Site officiel de Holiday KTV](https://www.holiday.com.tw/) — Histoire du secteur KTV à Taïwan
 2. [Site officiel de Cashbox](https://www.cashbox.com.tw/) — Le modèle de la franchise KTV
-3. [*Histoire du développement du KTV à Taïwan*, Centre de recherche sur les industries du divertissement, 2018](https://entertainment-research.org.tw/) — Analyse sectorielle
-4. [*La localisation de la culture karaoké à Taïwan*, Institut de sociologie de l'Université nationale de Taïwan, 2019](http://sociology.ntu.edu.tw/) — Étude en sociologie culturelle
-5. [*L'influence des classements KTV sur l'industrie musicale*, École de communication de l'Université nationale Chengchi, 2017](http://comm.nccu.edu.tw/) — Recherche en culture médiatique
+3. [_Histoire du développement du KTV à Taïwan_, Centre de recherche sur les industries du divertissement, 2018](https://entertainment-research.org.tw/) — Analyse sectorielle
+4. [_La localisation de la culture karaoké à Taïwan_, Institut de sociologie de l'Université nationale de Taïwan, 2019](http://sociology.ntu.edu.tw/) — Étude en sociologie culturelle
+5. [_L'influence des classements KTV sur l'industrie musicale_, École de communication de l'Université nationale Chengchi, 2017](http://comm.nccu.edu.tw/) — Recherche en culture médiatique
 6. [Fédération nationale des associations professionnelles du divertissement, République de Chine](http://www.entertainment.org.tw/) — Données statistiques du secteur
-7. [*Stratégies de transformation du KTV en temps de pandémie*, Business Weekly, 2021](https://www.businessweekly.com.tw/) — Analyse sectorielle
-8. [*Étude sur les relations entre musique pop taïwanaise et culture KTV*, Département de musique de l'Université normale nationale de Taïwan, 2020](http://www.ntnu.edu.tw/) — Article académique
+7. [_Stratégies de transformation du KTV en temps de pandémie_, Business Weekly, 2021](https://www.businessweekly.com.tw/) — Analyse sectorielle
+8. [_Étude sur les relations entre musique pop taïwanaise et culture KTV_, Département de musique de l'Université normale nationale de Taïwan, 2020](http://www.ntnu.edu.tw/) — Article académique
 9. [Statistiques des services du Ministère des affaires économiques](https://www.moea.gov.tw/) — Données officielles
-10. [*Analyse des comportements de consommation au KTV à l'ère des réseaux sociaux*, MIC-III, 2022](https://mic.iii.org.tw/) — Rapport d'étude de marché
+10. [_Analyse des comportements de consommation au KTV à l'ère des réseaux sociaux_, MIC-III, 2022](https://mic.iii.org.tw/) — Rapport d'étude de marché

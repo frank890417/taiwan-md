@@ -9,6 +9,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/鄧麗君.md'
 featured: true
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:137ce9f0ad4e78d5'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 # 덩리쥔 (Teresa Teng)

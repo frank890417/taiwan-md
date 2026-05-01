@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 translatedFrom: 'Music/當代原住民創作歌手.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5f9911af7563336d'
+translatedAt: '2026-04-14T10:22:29+08:00'
 ---
 
 # 현대 원주민 창작 가수

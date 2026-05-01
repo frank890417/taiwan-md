@@ -1,5 +1,5 @@
 ---
-title: 'Terry Gou — de Banqiao à l''empire mondial de la fabrication'
+title: "Terry Gou — de Banqiao à l'empire mondial de la fabrication"
 description: 'Fondateur de Foxconn, géant mondial des services de fabrication électronique et symbole de la puissance industrielle de Taïwan'
 date: 2026-03-19
 tags: [personnalité, entrepreneur, technologie, industrie manufacturière]
@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'People/郭台銘.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:c664670d7a17c38d'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 ## De Banqiao à un empire industriel mondial

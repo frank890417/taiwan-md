@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/洪醒夫.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7de74580c2e1d825'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 1949년 12월 10일, 장화현 얼린진 베이핑리. 대대로 농사를 지어온 가난한 집안에서 홍마충(洪媽從)이라는 이름으로 태어났다. 열여덟 살에 첫 소설 〈역려(逆旅)〉를 《대만일보》에 발표하며 문학의 길에 들어섰다. 1982년 7월 31일, 태풍 앤디가 몰아치는 귀갓길에 교통사고로 세상을 떠났다. 향년 서른셋. 짧지만 찬란한 창작 인생이 그렇게 끝났다.

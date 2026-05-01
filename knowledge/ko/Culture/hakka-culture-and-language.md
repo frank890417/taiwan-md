@@ -10,6 +10,9 @@ featured: false
 readingTime: 14
 lastVerified: 2026-04-05
 translatedFrom: 'Culture/客家文化與語言.md'
+sourceCommitSha: '5b8ea228'
+sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
+translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 
 # 하카 문화와 언어

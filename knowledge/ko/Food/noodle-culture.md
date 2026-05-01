@@ -20,6 +20,9 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Food/台灣麵食文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b29927b05c617ee'
+translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 
 # 타이완 면 음식 문화: 미국 원조 밀가루에서 국민 음식까지의 70년 서사시

@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Food/台灣麵包與烘焙.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b2065fed8f03e46b'
+translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 
 # Le pain et la pâtisserie à Taïwan

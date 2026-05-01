@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b233a45daf622e6'
+translatedAt: '2026-04-14T04:41:25+08:00'
 ---
 
 > **30초 요약:** 대만의 기루(騎樓, 아케이드형 필로티)는 1900년 일제강점기에 보급이 시작된 건축 양식으로, 남양(동남아시아) 식민지 건축과 현지 수요가 결합된 결과물이다. 2층이 돌출되고 1층이 개방된 구조는 반공공 공간을 만들어내며, 노점 문화, 오토바이 주차, 이웃 간의 교류 등 다양한 기능을 품어왔다. 대만에서 가장 온기 있는 도시 풍경이다.

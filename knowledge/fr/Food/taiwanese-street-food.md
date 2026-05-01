@@ -13,7 +13,10 @@ lastHumanReview: false
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg/960px-East_Entrance_of_Raohe_Street_Night_Market_20170530_night.jpg'
 imageAlt: "L'entrée du marché de nuit de Raohe Street illuminée la nuit, enseignes au néon"
 imageCredit: 'Wikimedia Commons, CC BY-SA'
-translatedFrom: 'Food/台灣小吃.md'
+translatedFrom: "Food/台灣小吃.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:5204a1234af866a0"
+translatedAt: "2026-04-14T12:29:04+08:00"
 ---
 
 # La street food taïwanaise
@@ -36,7 +39,7 @@ Sous la dynastie Qing, à l'époque de l'empereur Qianlong, des migrants du Fuji
 
 Les temples constituent une autre source. Les fêtes religieuses et les processions rassemblent les foules sur les esplanades, et les marchands ambulants suivent le mouvement. Voilà qui explique un phénomène qui déconcerte les étrangers : pourquoi les meilleures adresses de street food se trouvent-elles presque toujours près d'un temple ? Ce ne sont pas les divinités qui bénissent la cuisine — c'est simplement que les gens arrivent en premier, et les vendeurs suivent.
 
-En 1908, le *Taiwan Daily News* (台灣日日新報) documente un marché nocturne sur l'esplanade du temple Tianhou à Qijin, Kaohsiung — la plus ancienne trace écrite d'un marché de nuit à Taïwan. L'explosion réelle viendra dans les années 1950. L'économie d'après-guerre est exsangue, les petits commerces deviennent une bouée de sauvetage pour beaucoup, et des stands commencent à s'installer sur les places laissées libres après la fermeture des marchés de jour. Les marchés de nuit prennent alors leur forme définitive.
+En 1908, le _Taiwan Daily News_ (台灣日日新報) documente un marché nocturne sur l'esplanade du temple Tianhou à Qijin, Kaohsiung — la plus ancienne trace écrite d'un marché de nuit à Taïwan. L'explosion réelle viendra dans les années 1950. L'économie d'après-guerre est exsangue, les petits commerces deviennent une bouée de sauvetage pour beaucoup, et des stands commencent à s'installer sur les places laissées libres après la fermeture des marchés de jour. Les marchés de nuit prennent alors leur forme définitive.
 
 ## Un laboratoire vivant de fusion culturelle
 
@@ -60,7 +63,7 @@ En mars 1661, Koxinga (鄭成功) débarque à Tainan par le détroit de Luermen
 
 ### Le tofu puant : huit mois d'attente pour une philosophie du paradoxe
 
-En 1993, un artisan du nom de Hong accorde un entretien au *Taiwan Panorama* (台灣光華雜誌) et révèle le secret le mieux gardé du tofu puant (臭豆腐) : la saumure de fermentation traditionnelle requiert des dizaines de légumes — amarante sauvage, pousses de bambou, cœurs de chou, courge d'hiver — salés et laissés à fermenter naturellement. La première préparation doit reposer au minimum huit mois avant toute utilisation.
+En 1993, un artisan du nom de Hong accorde un entretien au _Taiwan Panorama_ (台灣光華雜誌) et révèle le secret le mieux gardé du tofu puant (臭豆腐) : la saumure de fermentation traditionnelle requiert des dizaines de légumes — amarante sauvage, pousses de bambou, cœurs de chou, courge d'hiver — salés et laissés à fermenter naturellement. La première préparation doit reposer au minimum huit mois avant toute utilisation.
 
 **Huit mois. Un mois de moins qu'une grossesse.**
 
@@ -68,7 +71,7 @@ Si le tofu puant taïwanais a conquis les palais des journalistes gastronomiques
 
 ### Le geng du bord de chaudron : 300 ans d'ADN fujiannais intact
 
-Dans les années 1720, des pêcheurs de Fuzhou s'installent dans le port de Keelung, apportant avec eux leur recette de *dingbian geng* (鼎邊糊). Sans les poissons de rivière spécifiques au Fuzhou, ils s'adaptent : crevettes et seiches du port de Keelung remplacent les ingrédients d'origine. Trois siècles plus tard, le marché de nuit du temple de Keelung en écoule encore environ 2 000 bols chaque soir — chaque cuillerée est le résultat de trois siècles de mariage entre les gènes fujiannais et les saveurs marines de Taïwan.
+Dans les années 1720, des pêcheurs de Fuzhou s'installent dans le port de Keelung, apportant avec eux leur recette de _dingbian geng_ (鼎邊糊). Sans les poissons de rivière spécifiques au Fuzhou, ils s'adaptent : crevettes et seiches du port de Keelung remplacent les ingrédients d'origine. Trois siècles plus tard, le marché de nuit du temple de Keelung en écoule encore environ 2 000 bols chaque soir — chaque cuillerée est le résultat de trois siècles de mariage entre les gènes fujiannais et les saveurs marines de Taïwan.
 
 ### La boulette de riz de Changhua : bombe calorique pour travailleurs de la Qing
 
@@ -76,11 +79,11 @@ La boulette de riz (肉圓) de Changhua — une enveloppe de fécule de patate d
 
 ## L'ADN des régions : codes gustatifs dans les veines de l'immigration
 
-**Nord** : *dingbian geng* de Keelung (héritage des pêcheurs fujiannais) ; *agei* de Danshui (recyclage des poches de tofu frit, années 1960) ; vermicelles de riz de Hsinchu (séchage naturel au vent de neuvième lune)
+**Nord** : _dingbian geng_ de Keelung (héritage des pêcheurs fujiannais) ; _agei_ de Danshui (recyclage des poches de tofu frit, années 1960) ; vermicelles de riz de Hsinchu (séchage naturel au vent de neuvième lune)
 
-**Centre** : boulettes de riz de Changhua (nourriture de l'agriculture laborieuse) ; marché de nuit de Fengjia (berceau des innovations culinaires) ; *mixian* de Longgang à Taoyuan (cuisine des réfugiés militaires yunnanais des années 1950)
+**Centre** : boulettes de riz de Changhua (nourriture de l'agriculture laborieuse) ; marché de nuit de Fengjia (berceau des innovations culinaires) ; _mixian_ de Longgang à Taoyuan (cuisine des réfugiés militaires yunnanais des années 1950)
 
-**Sud** : nouilles *danzai* de Tainan (activité secondaire des pêcheurs pendant la saison des typhons) ; lait de papaye de la rue Liuhe à Kaohsiung (les produits tropicaux du sud de l'île)
+**Sud** : nouilles _danzai_ de Tainan (activité secondaire des pêcheurs pendant la saison des typhons) ; lait de papaye de la rue Liuhe à Kaohsiung (les produits tropicaux du sud de l'île)
 
 **Est** : cuisine aux légumes sauvages des Amis (花蓮阿美族) de Hualien ; bento de Chishang à Taitung (culture du riz d'exception de l'est)
 
@@ -92,6 +95,7 @@ La boulette de riz (肉圓) de Changhua — une enveloppe de fécule de patate d
 Mars 1987. Lin Xiuhui, responsable de la boutique Chun Shui Tang (春水堂) de Taichung, verse des billes de tapioca dans un thé glacé au lait. Pas de planification, pas d'étude de marché, pas de dépôt de brevet.
 
 Le bilan trente ans plus tard :
+
 - Un marché présent dans 60 pays
 - Un chiffre d'affaires annuel d'environ 300 milliards de dollars taïwanais
 - McDonald's Allemagne intègre le bubble tea à son menu dès 2005
@@ -103,13 +107,13 @@ Le bilan trente ans plus tard :
 
 Statistiques gouvernementales 2023 : 233 000 stands à travers Taïwan, 357 000 emplois, chiffre d'affaires annuel d'environ 395,4 milliards de dollars taïwanais.
 
-| Chiffres clés des marchés de nuit taïwanais (2023) | |
-|---|---|
-| Marchés de nuit répertoriés | 164 |
-| Nombre total de stands | 233 000 |
-| Chiffre d'affaires annuel total | ~395,4 milliards TWD |
-| Population active | 472 000 personnes |
-| Marchés de nuit à Tainan | 49 (le plus élevé de l'île) |
+| Chiffres clés des marchés de nuit taïwanais (2023) |                             |
+| -------------------------------------------------- | --------------------------- |
+| Marchés de nuit répertoriés                        | 164                         |
+| Nombre total de stands                             | 233 000                     |
+| Chiffre d'affaires annuel total                    | ~395,4 milliards TWD        |
+| Population active                                  | 472 000 personnes           |
+| Marchés de nuit à Tainan                           | 49 (le plus élevé de l'île) |
 
 Décortiquons les 50 dollars taïwanais d'une oyster omelette : huîtres 15 TWD, œuf 5 TWD, légumes 3 TWD, fécule de patate douce 2 TWD, part de loyer du stand 8 TWD, gaz et électricité 2 TWD — coût total environ 35 TWD, marge brute 15 TWD. Un stand populaire vend 200 portions par soir, soit 3 000 TWD de marge brute. Un couple gagne entre 50 000 et 80 000 TWD par mois.
 

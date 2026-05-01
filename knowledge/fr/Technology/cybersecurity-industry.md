@@ -2,7 +2,14 @@
 title: "L'essor de l'industrie de la cybersécurité à Taïwan"
 description: "De la politique gouvernementale à l'innovation privée : comment Taïwan a bâti un écosystème complet de cybersécurité face aux menaces numériques mondiales"
 date: 2026-03-19
-tags: ['industrie de la cybersécurité', 'sécurité des réseaux', 'transformation numérique', 'politique de cybersécurité', 'innovation technologique']
+tags:
+  [
+    'industrie de la cybersécurité',
+    'sécurité des réseaux',
+    'transformation numérique',
+    'politique de cybersécurité',
+    'innovation technologique',
+  ]
 subcategory: 'Intelligence artificielle'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +19,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣資安產業發展.md'
+sourceCommitSha: '429d3cf0'
+sourceContentHash: 'sha256:761150547f15ad6a'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 # L'essor de l'industrie de la cybersécurité à Taïwan

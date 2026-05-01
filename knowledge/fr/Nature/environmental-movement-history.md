@@ -10,7 +10,10 @@ featured: false
 category: 'Nature'
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: 'Nature/台灣環境運動史.md'
+translatedFrom: "Nature/台灣環境運動史.md"
+sourceCommitSha: "d4498d97"
+sourceContentHash: "sha256:151e392e734f7b6f"
+translatedAt: "2026-04-14T19:22:44+08:00"
 ---
 
 # Histoire du mouvement environnemental à Taïwan
@@ -104,5 +107,5 @@ Quarante ans après ses débuts, le mouvement environnemental taïwanais a parco
 - [Taiwan Environmental Information Association](https://e-info.org.tw/) — actualité et enjeux environnementaux
 - [Environmental Rights Foundation](https://www.erf.org.tw/) — droit de l'environnement et contentieux d'intérêt général
 - Agence de protection de l'environnement (données officielles) — qualité de l'air, gestion des déchets, etc.
-- He Ming-xiu, *Introduction au mouvement environnemental taïwanais*, Qunshe Press, 2006
-- Fan Yun et al., *Mouvement antinucléaire et société taïwanaise*, Taiwan: A Radical Quarterly in Social Studies, 2014
+- He Ming-xiu, _Introduction au mouvement environnemental taïwanais_, Qunshe Press, 2006
+- Fan Yun et al., _Mouvement antinucléaire et société taïwanaise_, Taiwan: A Radical Quarterly in Social Studies, 2014

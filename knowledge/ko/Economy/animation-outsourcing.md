@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Economy/台灣動畫代工.md'
 lastVerified: '2026-03-24'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:e65745d7776e7d73'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 # 대만 애니메이션 하청 산업

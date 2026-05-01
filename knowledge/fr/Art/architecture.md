@@ -2,7 +2,14 @@
 title: "L'architecture de Taïwan"
 description: "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île"
 date: 2026-03-28
-tags: ['architecture', 'culture', 'histoire', 'peuples autochtones', 'période japonaise']
+tags:
+  [
+    'architecture',
+    'culture',
+    'histoire',
+    'peuples autochtones',
+    'période japonaise',
+  ]
 subcategory: 'Architecture'
 category: 'Art'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 15
 featured: true
 translatedFrom: 'Art/台灣建築.md'
 lastVerified: 2026-03-28
+sourceCommitSha: 'e564525c'
+sourceContentHash: 'sha256:97939516b3de2749'
+translatedAt: '2026-04-14T19:13:26+08:00'
 ---
 
 # L'architecture de Taïwan : un poème en volumes au carrefour des civilisations

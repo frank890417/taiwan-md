@@ -20,6 +20,9 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-23
 translatedFrom: 'Art/台灣電影.md'
+sourceCommitSha: 'e564525c'
+sourceContentHash: 'sha256:066d8323f1454dcc'
+translatedAt: '2026-04-14T09:31:15+08:00'
 ---
 
 # 대만 영화: 작은 섬이 어떻게 세계 영화 언어를 바꿨는가

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-04
 translatedFrom: 'History/戒嚴時期.md'
+sourceCommitSha: 'c0e572fd'
+sourceContentHash: 'sha256:b7dd7f39a026b6ab'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 # 계엄 시기

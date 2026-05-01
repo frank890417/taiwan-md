@@ -10,6 +10,9 @@ featured: true
 lastVerified: 2026-04-07
 lastHumanReview: 2026-04-07
 translatedFrom: 'History/台灣民主轉型.md'
+sourceCommitSha: 'f4dfb120'
+sourceContentHash: 'sha256:d432b8072ad8da53'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 타이완의 민주화 전환 -- 권위주의가 스스로 판 무덤

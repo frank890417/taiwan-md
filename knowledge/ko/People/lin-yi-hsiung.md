@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 translatedFrom: 'People/林義雄.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1c07e29909bcc37a'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 # 린 이슝: 비극과 굳건함이 공존한 민주 투사

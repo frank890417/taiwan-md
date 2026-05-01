@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/李梅樹.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:44a9b62010a8d0da'
+translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 
 > **30초 요약:** 이매수는 단순한 대만미술전람회 특선 화가가 아니다. 서양 아카데미 미학으로 전통 사원 재건을 이끈 대만 유일의 예술가다. 1947년부터 36년간 싼샤 조사묘(祖師廟) 재건을 총지휘하며 전례 없는 '동서 융합'의 기적을 만들어냈다. 시골 사원 하나가 '동방 예술의 전당'이라 불리게 된 배경이다.

@@ -19,6 +19,9 @@ readingTime: 13
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f432308c67b7af9d'
+translatedAt: '2026-04-14T05:53:10+08:00'
 ---
 
 # 대만의 환경 정의와 님비 갈등

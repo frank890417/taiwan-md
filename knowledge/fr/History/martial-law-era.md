@@ -2,7 +2,13 @@
 title: "L'ère de la loi martiale à Taïwan"
 description: "Le 19 mai 1949, Chen Cheng proclame la loi martiale sur Taïwan. Trente-huit ans plus tard, le 15 juillet 1987, Chiang Ching-kuo y met fin. Les îles Kinmen et Matsu devront attendre 1992. Que s'est-il passé durant ces décennies ?"
 date: 2026-03-17
-tags: ['loi martiale', 'autoritarisme', 'terreur blanche', 'justice transitionnelle']
+tags:
+  [
+    'loi martiale',
+    'autoritarisme',
+    'terreur blanche',
+    'justice transitionnelle',
+  ]
 subcategory: 'Après-guerre et autoritarisme'
 category: 'History'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: true
 translatedFrom: 'History/戒嚴時期.md'
+sourceCommitSha: 'c0e572fd'
+sourceContentHash: 'sha256:b7dd7f39a026b6ab'
+translatedAt: '2026-04-14T12:31:57+08:00'
 ---
 
 # L'ère de la loi martiale à Taïwan

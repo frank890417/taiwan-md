@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
-translatedFrom: 'People/聶永真.md'
+translatedFrom: "People/聶永真.md"
 lastVerified: 2026-03-21
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:3c4ca1e1761de74e"
+translatedAt: "2026-04-14T19:16:43+08:00"
 ---
 
 # Aaron Nieh
@@ -24,7 +27,7 @@ C'est dans l'industrie musicale qu'Aaron Nieh s'impose d'abord auprès du milieu
 
 Il crée les pochettes d'artistes de premier plan — Mayday, Jay Chou, Jolin Tsai, Hebe Tien, William Wei — en rompant à chaque fois avec les conventions du moment. Ses créations ne sont pas de simples emballages : ce sont des interprétations visuelles de la musique elle-même.
 
-En 2006, son travail pour l'album *Little Universe* de Sodagreen lui vaut le Golden Melody Award du meilleur habillage d'album — sa première statuette. Deux autres prix dans la même catégorie suivront, faisant de lui l'un des designers les plus récompensés de l'histoire de cette cérémonie.
+En 2006, son travail pour l'album _Little Universe_ de Sodagreen lui vaut le Golden Melody Award du meilleur habillage d'album — sa première statuette. Deux autres prix dans la même catégorie suivront, faisant de lui l'un des designers les plus récompensés de l'histoire de cette cérémonie.
 
 Sa philosophie de design repose sur la soustraction : non pas accumuler des éléments, mais éliminer tout ce qui est superflu. Dans un univers discographique chinophone où le clinquant était roi, cette retenue tranche avec force.
 
@@ -54,7 +57,7 @@ Au-delà de la performance esthétique, ces créations redéfinissent la manièr
 
 ## Le mouvement des Tournesols et la prise de parole internationale
 
-En 2014, lors du mouvement des Tournesols (Sunflower Movement), Aaron Nieh conçoit bénévolement la pleine page publiée dans le New York Times : *Democracy at 4am*. Cette prise de position transmet à la communauté internationale la détermination des étudiants taïwanais pour la démocratie, et démontre la puissance du design comme outil d'expression politique.
+En 2014, lors du mouvement des Tournesols (Sunflower Movement), Aaron Nieh conçoit bénévolement la pleine page publiée dans le New York Times : _Democracy at 4am_. Cette prise de position transmet à la communauté internationale la détermination des étudiants taïwanais pour la démocratie, et démontre la puissance du design comme outil d'expression politique.
 
 Ce geste révèle une dimension essentielle : Aaron Nieh n'est pas seulement un designer commercial, il est un citoyen engagé, qui mobilise son expertise au service de la démocratie taïwanaise.
 
@@ -74,7 +77,7 @@ Ces réalisations, à la croisée du secteur privé et de la sphère publique, t
 
 ## « 永真急制 workshop » : le laboratoire du design
 
-Son studio, *永真急制 workshop*, est lui-même une expérience de marque. Son nom porte l'empreinte de l'expérimentation et traduit une philosophie de travail : rapidité, directness, efficacité.
+Son studio, _永真急制 workshop_, est lui-même une expérience de marque. Son nom porte l'empreinte de l'expérimentation et traduit une philosophie de travail : rapidité, directness, efficacité.
 
 Sur son compte Instagram (@aaronnieh), suivi par plus de 50 000 personnes, Aaron Nieh publie régulièrement des œuvres expérimentales. Sa biographie y résume sa philosophie : « the fragments of meaningful off-meaning 它的意義清楚得不夠乾淨 » — les fragments d'un sens sans-sens, dont la signification est trop nette pour être propre.
 

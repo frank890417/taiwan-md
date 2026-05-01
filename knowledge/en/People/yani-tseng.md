@@ -7,6 +7,9 @@ subcategory: 'Sports'
 lastVerified: 2026-03-19
 translatedFrom: 'People/曾雅妮.md'
 sourceHash: '00cb0d'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:890dbecd669ee83c'
+translatedAt: '2026-03-23T10:17:53+08:00'
 ---
 
 # Yani Tseng: Taiwan’s Golf Empress

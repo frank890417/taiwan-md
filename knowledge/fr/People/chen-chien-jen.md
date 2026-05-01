@@ -2,7 +2,15 @@
 title: 'Chen Chien-jen'
 description: 'Épidémiologiste de renommée internationale, ancien vice-président et Premier ministre, figure clé dans la lutte contre le SRAS et la COVID-19 à Taïwan'
 date: 2026-03-19
-tags: ['universitaire', 'vice-président', 'Premier ministre', 'épidémiologie', 'santé publique', 'gestion des pandémies']
+tags:
+  [
+    'universitaire',
+    'vice-président',
+    'Premier ministre',
+    'épidémiologie',
+    'santé publique',
+    'gestion des pandémies',
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 7
 featured: false
 translatedFrom: 'People/陳建仁.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:95a660352fbbce5b'
+translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 
 # Chen Chien-jen : du laboratoire au sommet de l'État
@@ -20,7 +31,7 @@ Né en 1951 à Kaohsiung, Chen Chien-jen est l'une des figures les plus respect�
 
 Après avoir obtenu sa licence en zoologie à l'Université nationale de Taïwan, Chen Chien-jen part se former aux États-Unis et décroche un doctorat en épidémiologie à l'Université Johns Hopkins. De retour à Taïwan, il rejoint l'École de santé publique de l'Université nationale de Taïwan, où il se spécialise dans l'épidémiologie des maladies chroniques et l'épidémiologie environnementale. Ses travaux portent notamment sur la maladie des pieds noirs, l'intoxication à l'arsenic et les hépatites — autant de problématiques qui ont profondément marqué la santé publique taïwanaise.
 
-Au fil de sa carrière, il signe plus de 500 publications scientifiques, dont de nombreux articles dans des revues de référence comme *The Lancet* et le *New England Journal of Medicine*. L'une de ses contributions les plus remarquables reste l'établissement du lien de causalité entre l'empoisonnement à l'arsenic et la maladie des pieds noirs dans les villages côtiers du sud-ouest de Taïwan — une découverte aux retombées mondiales dans la prévention des intoxications à l'arsenic.
+Au fil de sa carrière, il signe plus de 500 publications scientifiques, dont de nombreux articles dans des revues de référence comme _The Lancet_ et le _New England Journal of Medicine_. L'une de ses contributions les plus remarquables reste l'établissement du lien de causalité entre l'empoisonnement à l'arsenic et la maladie des pieds noirs dans les villages côtiers du sud-ouest de Taïwan — une découverte aux retombées mondiales dans la prévention des intoxications à l'arsenic.
 
 ## Un bâtisseur de politiques de santé publique
 

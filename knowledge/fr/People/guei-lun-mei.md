@@ -9,16 +9,19 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/桂綸鎂.md'
+translatedFrom: "People/桂綸鎂.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:abc35bc4aee48bac"
+translatedAt: "2026-04-14T19:16:13+08:00"
 ---
 
 # Guei Lun-Mei : une actrice discrète et d'une rare profondeur
 
-Guei Lun-Mei est l'une des actrices les plus talentueuses de sa génération à Taïwan. Elle se distingue par un jeu naturel et sincère, ainsi que par une discrétion remarquable dans sa vie publique. Révélée en 2007 dans *The Secret* réalisé par Jay Chou, elle a ensuite démontré toute l'étendue de son talent dans *Blue Gate Crossing* et *GF*BF*, entre autres. Habituée des festivals internationaux, elle a été nommée à plusieurs reprises aux Golden Horse Awards et est aujourd'hui considérée comme un véritable trésor du cinéma taïwanais.
+Guei Lun-Mei est l'une des actrices les plus talentueuses de sa génération à Taïwan. Elle se distingue par un jeu naturel et sincère, ainsi que par une discrétion remarquable dans sa vie publique. Révélée en 2007 dans _The Secret_ réalisé par Jay Chou, elle a ensuite démontré toute l'étendue de son talent dans _Blue Gate Crossing_ et *GF*BF\*, entre autres. Habituée des festivals internationaux, elle a été nommée à plusieurs reprises aux Golden Horse Awards et est aujourd'hui considérée comme un véritable trésor du cinéma taïwanais.
 
 ## Une enfance en village militaire, berceau d'une vocation artistique
 
-Née le 25 décembre 1983 à Taipei, Guei Lun-Mei grandit dans un village de dépendants militaires (*juancun*) : son père est militaire, sa mère, fonctionnaire. Cet environnement, à la fois rigoureux sur le plan éducatif et riche de la diversité culturelle propre aux *juancun*, forge en elle un caractère introverti et réfléchi.
+Née le 25 décembre 1983 à Taipei, Guei Lun-Mei grandit dans un village de dépendants militaires (_juancun_) : son père est militaire, sa mère, fonctionnaire. Cet environnement, à la fois rigoureux sur le plan éducatif et riche de la diversité culturelle propre aux _juancun_, forge en elle un caractère introverti et réfléchi.
 
 Au collège et au lycée — qu'elle effectue à la Jingmei Girls' High School —, elle nourrit une passion pour la littérature et les arts, prend part activement aux activités culturelles de l'établissement. Son allure naturellement raffinée ne s'accompagne pourtant, à cette époque, d'aucune ambition particulière pour le métier d'actrice.
 
@@ -26,15 +29,15 @@ Après le baccalauréat, elle intègre la faculté de droit de l'Université Fu 
 
 ## Ses débuts inattendus dans le monde du spectacle
 
-L'entrée de Guei Lun-Mei dans l'industrie du cinéma doit tout au hasard. En 2002, le premier assistant du réalisateur Yi Chi-yen la remarque sur le campus de son université et l'invite à passer une audition pour *Blue Gate Crossing* — sans qu'elle ait alors la moindre expérience du jeu.
+L'entrée de Guei Lun-Mei dans l'industrie du cinéma doit tout au hasard. En 2002, le premier assistant du réalisateur Yi Chi-yen la remarque sur le campus de son université et l'invite à passer une audition pour _Blue Gate Crossing_ — sans qu'elle ait alors la moindre expérience du jeu.
 
-Dans ce film, qui explore les tourments sentimentaux de l'adolescence, elle incarne Meng Ke-rou, une lycéenne introvertie et sensible. Elle l'interprète avec une spontanéité déconcertante, révélant un don inné pour le jeu. *Blue Gate Crossing* attire l'attention des festivals internationaux, et la prestation de Guei Lun-Mei y est saluée. Si le film ne fait pas de grosses entrées, il lui ouvre néanmoins la voie et fait d'elle un visage que l'industrie cinématographique taïwanaise ne peut plus ignorer.
+Dans ce film, qui explore les tourments sentimentaux de l'adolescence, elle incarne Meng Ke-rou, une lycéenne introvertie et sensible. Elle l'interprète avec une spontanéité déconcertante, révélant un don inné pour le jeu. _Blue Gate Crossing_ attire l'attention des festivals internationaux, et la prestation de Guei Lun-Mei y est saluée. Si le film ne fait pas de grosses entrées, il lui ouvre néanmoins la voie et fait d'elle un visage que l'industrie cinématographique taïwanaise ne peut plus ignorer.
 
-## La révélation grâce à *The Secret*
+## La révélation grâce à _The Secret_
 
-En 2007, Guei Lun-Mei tient le rôle principal de *The Secret*, réalisé par Jay Chou : un tournant décisif dans sa carrière. Elle y joue Lu Xiao-yu, une mystérieuse lycéenne liée au protagoniste par une histoire d'amour traversant le temps.
+En 2007, Guei Lun-Mei tient le rôle principal de _The Secret_, réalisé par Jay Chou : un tournant décisif dans sa carrière. Elle y joue Lu Xiao-yu, une mystérieuse lycéenne liée au protagoniste par une histoire d'amour traversant le temps.
 
-Mêlant romance, fantaisie et musique, le film exige de la comédienne une gamme émotionnelle complexe. Son interprétation — notamment les scènes de piano — touche juste avec finesse et révèle la polyvalence de son talent. *The Secret* rencontre un immense succès public, et Guei Lun-Mei devient une star. Loin de se perdre dans la notoriété, elle choisit au contraire de concentrer ses efforts sur la progression de son art.
+Mêlant romance, fantaisie et musique, le film exige de la comédienne une gamme émotionnelle complexe. Son interprétation — notamment les scènes de piano — touche juste avec finesse et révèle la polyvalence de son talent. _The Secret_ rencontre un immense succès public, et Guei Lun-Mei devient une star. Loin de se perdre dans la notoriété, elle choisit au contraire de concentrer ses efforts sur la progression de son art.
 
 ## L'influence décisive d'Edward Yang
 
@@ -46,9 +49,9 @@ Yang voyait en elle le potentiel d'une grande actrice. Il l'encourageait à se c
 
 Les films de Guei Lun-Mei sont régulièrement sélectionnés dans des festivals internationaux, et elle a elle-même siégé dans plusieurs jurys. Ces expériences ont élargi son horizon et contribué à accroître la visibilité du cinéma taïwanais sur la scène mondiale.
 
-*GF*BF* (2012), l'un de ses films marquants, la voit jouer aux côtés de Feng Shao-feng et Chang Hsiao-chuan dans une histoire de relations complexes à trois, sélectionnée dans plusieurs festivals et très bien reçue par la critique.
+*GF*BF\* (2012), l'un de ses films marquants, la voit jouer aux côtés de Feng Shao-feng et Chang Hsiao-chuan dans une histoire de relations complexes à trois, sélectionnée dans plusieurs festivals et très bien reçue par la critique.
 
-Elle a également collaboré avec la réalisatrice hongkongaise Ann Hui sur *Our Time Will Come*, démontrant une capacité d'adaptation remarquable à des environnements culturels différents. Ces expériences de tournage transfrontaliers ont enrichi son répertoire de jeu.
+Elle a également collaboré avec la réalisatrice hongkongaise Ann Hui sur _Our Time Will Come_, démontrant une capacité d'adaptation remarquable à des environnements culturels différents. Ces expériences de tournage transfrontaliers ont enrichi son répertoire de jeu.
 
 ## Un sens exigeant du choix des rôles
 
@@ -86,7 +89,7 @@ De nombreux jeunes acteurs la citent comme modèle ; elle est devenue une réfé
 
 Guei Lun-Mei excelle dans l'art de nouer une relation créative authentique avec les metteurs en scène. Elle discute longuement de la construction des personnages et des orientations de jeu, ce qui permet à ses performances d'atteindre une précision et une densité remarquables.
 
-Ses collaborations répétées avec le réalisateur Chung Mong-hong se sont révélées particulièrement fructueuses — notamment dans *Soul* et *The Great Buddha+* —, deux films qui démontrent sa capacité à s'adapter à des genres cinématographiques très différents.
+Ses collaborations répétées avec le réalisateur Chung Mong-hong se sont révélées particulièrement fructueuses — notamment dans _Soul_ et _The Great Buddha+_ —, deux films qui démontrent sa capacité à s'adapter à des genres cinématographiques très différents.
 
 Pour Guei Lun-Mei, acteur et réalisateur sont des partenaires créatifs qui se doivent confiance et soutien mutuels. Elle se met toujours entièrement au service de la vision du réalisateur, tout en apportant librement ses propres suggestions.
 

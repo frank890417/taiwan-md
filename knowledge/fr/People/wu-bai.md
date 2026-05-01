@@ -1,8 +1,9 @@
 ---
-title: 'Wu Bai — L''âme du rock taïwanais'
+title: "Wu Bai — L'âme du rock taïwanais"
 description: 'Trésor national du rock à Taïwan, Wu Bai a forgé un style unique en mariant la langue taïwanaise au rock, notamment avec son classique « La Forêt norvégienne »'
 date: 2026-03-19
-tags: ['musique', 'rock', 'chanson taïwanaise', 'Chiayi', 'rock local', 'guitare']
+tags:
+  ['musique', 'rock', 'chanson taïwanaise', 'Chiayi', 'rock local', 'guitare']
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +11,9 @@ readingTime: 5
 featured: false
 translatedFrom: 'People/伍佰.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3ea6fd59542e4310'
+translatedAt: '2026-04-14T19:14:30+08:00'
 ---
 
 # Wu Bai : l'âme du rock taïwanais
@@ -18,13 +22,13 @@ Wu Bai — de son vrai nom Wu Junlin — est né en 1968 à Puzi, dans le comté
 
 ## Des trottoirs de Ximending aux grandes scènes
 
-Wu Bai a commencé à se faire un nom à la fin des années 1980, en se produisant dans les rues de Ximending, le quartier branché de Taipei. C'est là qu'il a bâti son capital scénique. En 1992, il forme le groupe Wu Bai & China Blue, puis sort en 1995 son premier album, *Aimer quelqu'un d'autre est une chose heureuse*, qui crée immédiatement l'événement.
+Wu Bai a commencé à se faire un nom à la fin des années 1980, en se produisant dans les rues de Ximending, le quartier branché de Taipei. C'est là qu'il a bâti son capital scénique. En 1992, il forme le groupe Wu Bai & China Blue, puis sort en 1995 son premier album, _Aimer quelqu'un d'autre est une chose heureuse_, qui crée immédiatement l'événement.
 
-Sur cet album figure *La Forêt norvégienne*, qui deviendra l'une des chansons les plus emblématiques de l'histoire du rock taïwanais. Attention : il ne s'agit pas d'une reprise des Beatles — c'est une composition originale de Wu Bai, chantée en taïwanais sur un riff de guitare sauvage qui a totalement bousculé les codes de la pop locale. La phrase « Mon cœur est sens dessus dessous » a touché une corde sensible chez des milliers d'auditeurs.
+Sur cet album figure _La Forêt norvégienne_, qui deviendra l'une des chansons les plus emblématiques de l'histoire du rock taïwanais. Attention : il ne s'agit pas d'une reprise des Beatles — c'est une composition originale de Wu Bai, chantée en taïwanais sur un riff de guitare sauvage qui a totalement bousculé les codes de la pop locale. La phrase « Mon cœur est sens dessus dessous » a touché une corde sensible chez des milliers d'auditeurs.
 
 ## Pionnier du rock en langue taïwanaise
 
-La contribution majeure de Wu Bai tient à cette synthèse qu'il a réussie entre la langue taïwanaise et le rock, créant ce qu'on appelle aujourd'hui le « rock à la taïwanaise ». Dans les années 1990, quand la quasi-totalité des artistes pop chantait en mandarin, il a fait le choix d'écrire et de chanter en taïwanais — un acte artistique et identitaire fort. Ses paroles dépeignent les petites gens, leurs histoires vraies : *Last Dance*, *La Colombe blanche*, *Soudain soi-même* sont autant de portraits du Taïwan réel.
+La contribution majeure de Wu Bai tient à cette synthèse qu'il a réussie entre la langue taïwanaise et le rock, créant ce qu'on appelle aujourd'hui le « rock à la taïwanaise ». Dans les années 1990, quand la quasi-totalité des artistes pop chantait en mandarin, il a fait le choix d'écrire et de chanter en taïwanais — un acte artistique et identitaire fort. Ses paroles dépeignent les petites gens, leurs histoires vraies : _Last Dance_, _La Colombe blanche_, _Soudain soi-même_ sont autant de portraits du Taïwan réel.
 
 Son écriture est directe, sans fioriture, comme une conversation entre amis. Cette proximité avec le quotidien ordinaire lui a permis de traverser les générations et les milieux sociaux, ancrant ses chansons dans la mémoire collective taïwanaise.
 
@@ -38,7 +42,7 @@ Sa collaboration de longue durée avec China Blue est aussi l'un des piliers de 
 
 Wu Bai a ouvert la voie à toute une génération de rockeurs taïwanais. Des groupes comme Chairman Band ou Fire EX ont exprimé leur dette envers lui. Il a démontré que le rock en taïwanais était non seulement possible, mais puissant, traçant ainsi un sillon que la scène indépendante locale n'a cessé d'approfondir.
 
-Dans les années 2000, Wu Bai a maintenu un rythme de création et de tournée remarquable, sans jamais trahir son esprit d'origine. Son album *Fleur d'épine*, sorti en 2020, en est la preuve : il a remporté le Golden Melody Award du meilleur album en langue taïwanaise, une reconnaissance qui confirme sa place au sommet.
+Dans les années 2000, Wu Bai a maintenu un rythme de création et de tournée remarquable, sans jamais trahir son esprit d'origine. Son album _Fleur d'épine_, sorti en 2020, en est la preuve : il a remporté le Golden Melody Award du meilleur album en langue taïwanaise, une reconnaissance qui confirme sa place au sommet.
 
 ## La fierté de Chiayi, l'esprit du rock taïwanais
 

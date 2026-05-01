@@ -1,8 +1,16 @@
 ---
-title: 'Les échos d''un âge d''or : l''évolution et le savoir-faire de la culture du thé à Taïwan'
+title: "Les échos d'un âge d'or : l'évolution et le savoir-faire de la culture du thé à Taïwan"
 description: 'Dans les années 1930, les grandes puissances signèrent un accord de limitation de la production qui excluait Taïwan — les exportations de thé noir taïwanais bondirent aussitôt de 3,29 à 5,8 millions de kilos. Quatre-vingt-dix ans plus tard, la même île ouvre une nouvelle boutique de thé à emporter toutes les demi-heures.'
 date: 2026-03-24
-tags: ['culture du thé', 'oolong Dong Ding', 'thé de haute montagne', 'thé à emporter', 'bubble tea', 'culture agricole']
+tags:
+  [
+    'culture du thé',
+    'oolong Dong Ding',
+    'thé de haute montagne',
+    'thé à emporter',
+    'bubble tea',
+    'culture agricole',
+  ]
 subcategory: 'Artisanat et esthétique'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Culture/台灣茶文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ad0986e868656595'
+translatedAt: '2026-04-14T12:34:01+08:00'
 ---
 
 # Les échos d'un âge d'or : l'évolution et le savoir-faire de la culture du thé à Taïwan
@@ -24,8 +35,8 @@ En 1869, le négociant écossais John Dodd fit quelque chose que personne ne cro
 
 Ce thé portait l'étiquette « Formosa Oolong Tea » — c'était la première fois que le thé taïwanais apparaissait sur le marché international sous son propre nom. Auparavant, les feuilles de thé de Taïwan devaient être expédiées à Fuzhou pour y être raffinées, puis exportées sous le nom de « thé du Fujian ». Dodd brisa cette chaîne d'approvisionnement en installant directement une manufacture à Dadaocheng, transformant Taïwan d'une simple région de sous-traitance en une véritable marque d'origine.
 
-| 1869                                                | 2024                                                      |
-| --------------------------------------------------- | --------------------------------------------------------- |
+| 1869                                                 | 2024                                                     |
+| ---------------------------------------------------- | -------------------------------------------------------- |
 | Dodd expédie le premier Formosa Oolong vers New York | Le marché du thé à emporter atteint 133,13 milliards NTD |
 
 La portée de ce geste dépassait largement le commerce. Dadaocheng devint le quartier commercial le plus animé de Taïwan, réunissant marchands de thé, comptoirs étrangers et épiceries de toutes sortes, et posa les fondations de Taipei comme centre économique du nord. En 1885, lorsque Liu Mingchuan établit la province, le thé taïwanais représentait déjà plus de la moitié des exportations totales de l'île.

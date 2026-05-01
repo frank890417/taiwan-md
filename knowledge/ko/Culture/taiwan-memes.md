@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Culture/台灣迷因.md'
 lastVerified: 2026-03-24
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
+translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 
 # 사회의 상처가 집단 치유로: 대만 밈 문화의 사회 안전밸브 메커니즘

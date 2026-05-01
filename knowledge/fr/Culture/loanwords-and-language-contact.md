@@ -9,14 +9,17 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: 'Culture/台灣外來語與語言接觸.md'
+translatedFrom: "Culture/台灣外來語與語言接觸.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:eec4f271a84a1f94"
+translatedAt: "2026-04-14T12:33:49+08:00"
 ---
 
 > **En 30 secondes :** Le phénomène des « mots étrangers » que les Taïwanais reprochent souvent à leur langue ? Taïwan est en réalité le laboratoire d'intégration linguistique le plus fructueux du monde. Du « bento » de l'ère japonaise au « OK » de la mondialisation, en passant par le controversé « shipin » (视频) du mandarin continental, cette île porte en elle cinq couches d'histoire du contact linguistique. TikTok a déclenché les « polices du chinois continental », mais la linguistique nous rappelle ceci : chaque emprunt est la trace d'une relation.
 
-Un Taïwanais entre dans un convenience store, achète un bento, paie avec sa carte EasyCard, rentre chez lui regarder Netflix en grignotant un en-cas nocturne. Dans ce simple récit du quotidien, on compte au moins sept mots empruntés. Le mot « bento » vient du japonais, le concept de « carte » (卡) vient de l'anglais *card*, Netflix est une marque anglophone, et l'habitude du repas nocturne elle-même est héritée de l'influence japonaise. Pourtant, personne ne remettra en question le caractère « authentiquement taïwanais » de ce geste.
+Un Taïwanais entre dans un convenience store, achète un bento, paie avec sa carte EasyCard, rentre chez lui regarder Netflix en grignotant un en-cas nocturne. Dans ce simple récit du quotidien, on compte au moins sept mots empruntés. Le mot « bento » vient du japonais, le concept de « carte » (卡) vient de l'anglais _card_, Netflix est une marque anglophone, et l'habitude du repas nocturne elle-même est héritée de l'influence japonaise. Pourtant, personne ne remettra en question le caractère « authentiquement taïwanais » de ce geste.
 
-Mais si la même personne dit « cette vidéo est vraiment touchante » en utilisant le terme continental 視頻 (*shipin*) plutôt que 影片 (*yingpian*), les « polices du chinois continental » débarquent aussitôt sur les réseaux.
+Mais si la même personne dit « cette vidéo est vraiment touchante » en utilisant le terme continental 視頻 (_shipin_) plutôt que 影片 (_yingpian_), les « polices du chinois continental » débarquent aussitôt sur les réseaux.
 
 ## Une géologie linguistique en cinq couches
 
@@ -27,7 +30,7 @@ La deuxième couche est celle du japonais — de loin la plus épaisse. Les cinq
 > **📝 Note du curateur**
 > Le plus savoureux : si vous dites « bàngqiú » (棒球, baseball en mandarin standard), personne ne comprend. Il faut dire « yakyuu » (野球), la transcription phonétique japonaise, pour se faire comprendre. Cela illustre à quel point certains emprunts se sont localisés au point de supplanter le terme d'origine.
 
-La troisième couche est celle de l'anglais, arrivée avec l'aide américaine d'après-guerre et les vagues de mondialisation. « OK », « bye-bye », « sashimi » (calqué de l'anglais calqué du japonais), « bus » — ces mots racontent la trajectoire d'une île qui s'ouvre au monde. Fait notable : nombre de ces anglicismes sont arrivés via l'intermédiaire japonais. « Microphone » en taïwanais ne vient pas directement de l'anglais, mais du japonais マイク (*maiku*).
+La troisième couche est celle de l'anglais, arrivée avec l'aide américaine d'après-guerre et les vagues de mondialisation. « OK », « bye-bye », « sashimi » (calqué de l'anglais calqué du japonais), « bus » — ces mots racontent la trajectoire d'une île qui s'ouvre au monde. Fait notable : nombre de ces anglicismes sont arrivés via l'intermédiaire japonais. « Microphone » en taïwanais ne vient pas directement de l'anglais, mais du japonais マイク (_maiku_).
 
 La quatrième couche est celle du mandarin continental, et c'est la plus controversée. 視頻 vs 影片 (vidéo), 質量 vs 品質 (qualité), 信息 vs 資訊 (information) : ces paires de mots ne reflètent pas seulement des choix de vocabulaire, elles sont des marqueurs identitaires. Avec l'essor de TikTok et de Xiaohongshu, ce contact linguistique est devenu plus intense et plus direct que jamais.
 
@@ -37,7 +40,7 @@ La cinquième et dernière couche, encore embryonnaire, est celle des nouvelles 
 
 Selon une enquête 2023 du Centre d'information sur Internet de Taïwan, plus de 22 % des adultes taïwanais utilisent TikTok ou Douyin. Ce chiffre masque une révolution dans le contact linguistique : là où l'emprunt traditionnel exigeait des décennies pour s'installer, une vidéo virale suffit aujourd'hui.
 
-Des mots comme 給力 (*gěilì*, « au top »), 閨蜜 (*guīmì*, « meilleure amie »), 顏值 (*yánzhí*, « capital beauté »), 網紅 (*wǎnghóng*, « influenceur ») — portés par les algorithmes des réseaux sociaux — s'infiltrent dans le quotidien des jeunes Taïwanais à une vitesse sans précédent. Ce mécanisme est radicalement différent des contacts linguistiques historiques, qui passaient par la domination politique, le commerce ou les migrations. Aujourd'hui, le vecteur, c'est le divertissement et la résonance entre pairs.
+Des mots comme 給力 (_gěilì_, « au top »), 閨蜜 (_guīmì_, « meilleure amie »), 顏值 (_yánzhí_, « capital beauté »), 網紅 (_wǎnghóng_, « influenceur ») — portés par les algorithmes des réseaux sociaux — s'infiltrent dans le quotidien des jeunes Taïwanais à une vitesse sans précédent. Ce mécanisme est radicalement différent des contacts linguistiques historiques, qui passaient par la domination politique, le commerce ou les migrations. Aujourd'hui, le vecteur, c'est le divertissement et la résonance entre pairs.
 
 Un reportage de BBC Chinese dans la rue révèle un paradoxe savoureux : « Certains de mes amis très pro-indépendance sont aussi de grands fans de TikTok. » Cela illustre la relation complexe entre usage linguistique et position politique — on peut intellectuellement rejeter une influence culturelle tout en l'adoptant inconsciemment au quotidien.
 
@@ -45,7 +48,7 @@ Un reportage de BBC Chinese dans la rue révèle un paradoxe savoureux : « Cert
 
 Le terme lui-même — « polices du chinois continental » (支語警察) — est une création de la culture internet taïwanaise, née sur le forum Komica (centré sur les mangas et les jeux), avant de se répandre sur PTT et d'autres plateformes. Ce phénomène traduit une anxiété profonde face à ce que certains perçoivent comme une « invasion culturelle » par le biais de la langue.
 
-Mais la linguistique nous rappelle que le purisme linguistique est intrinsèquement contradictoire. Si l'on voulait éliminer tous les emprunts, les Taïwanais ne pourraient plus dire « bento », « obasan » ni « sashimi » — et certains linguistes suggèrent même que la particule 的 (*de*) pourrait avoir été influencée par le mongol. Où s'arrête la « pureté » ?
+Mais la linguistique nous rappelle que le purisme linguistique est intrinsèquement contradictoire. Si l'on voulait éliminer tous les emprunts, les Taïwanais ne pourraient plus dire « bento », « obasan » ni « sashimi » — et certains linguistes suggèrent même que la particule 的 (_de_) pourrait avoir été influencée par le mongol. Où s'arrête la « pureté » ?
 
 > **⚠️ Point de débat**
 > Les défenseurs des « polices du chinois continental » estiment que la langue est le vecteur central de l'identité culturelle, et qu'il faut se prémunir contre toute « invasion culturelle ». Leurs détracteurs y voient une sur-politisation du langage et une forme de censure qui empiète sur la liberté d'expression.
@@ -58,7 +61,7 @@ Le débat taïwanais n'est pas isolé. En France, la loi Toubon de 1994 oblige l
 
 L'Islande pousse le purisme encore plus loin. L'Institut de la langue islandaise (Íslensk málstöð), fondé en 1966, crée délibérément de nouveaux mots pour éviter les emprunts. L'ordinateur ne s'appelle pas « computer » mais « talva » (prophète des chiffres) ; le téléphone n'est pas « telefon » mais « sími » (long fil). Résultat : à la fin du XXe siècle, plus de 90 % des néologismes techniques islandais s'appuyaient sur des racines du vieux norrois, non sur des emprunts directs.
 
-La Corée du Sud a connu une tension similaire. Après la colonisation japonaise, un vaste mouvement de « purification de la langue nationale » a systématiquement remplacé les japonismes. « Benjo » (toilettes) est devenu « hwajangshil », « kippu » (billet) est redevenu 표 (*pyo*) — et même la façon de lire les chiffres a été déjaponisée.
+La Corée du Sud a connu une tension similaire. Après la colonisation japonaise, un vaste mouvement de « purification de la langue nationale » a systématiquement remplacé les japonismes. « Benjo » (toilettes) est devenu « hwajangshil », « kippu » (billet) est redevenu 표 (_pyo_) — et même la façon de lire les chiffres a été déjaponisée.
 
 Mais l'efficacité de ces politiques reste limitée. En France, les jeunes disent « email » plutôt que « courrier électronique ». En Islande, le vocabulaire anglais s'invite dans les conversations quotidiennes des jeunes, surtout dans les domaines technologique et culturel.
 
@@ -72,7 +75,7 @@ Ce double standard révèle une logique identitaire, non linguistique. Le choix 
 
 ### Question 2 : le fossé générationnel et les natifs du numérique
 
-En 2026, Taïwan fait face à un gouffre linguistique intergénérationnel sans précédent. Les plus de 50 ans disent 影片 (*yingpian*, « vidéo »), les moins de 20 ans disent 視頻 (*shipin*). Les anciens disent 品質 (*pinzhi*, « qualité »), les jeunes disent 質量 (*zhiliang*). TikTok et Xiaohongshu sont majoritairement utilisés par les jeunes, qui absorbent les termes continentaux à une vitesse et dans une proportion bien supérieures à celles de leurs aînés.
+En 2026, Taïwan fait face à un gouffre linguistique intergénérationnel sans précédent. Les plus de 50 ans disent 影片 (_yingpian_, « vidéo »), les moins de 20 ans disent 視頻 (_shipin_). Les anciens disent 品質 (_pinzhi_, « qualité »), les jeunes disent 質量 (_zhiliang_). TikTok et Xiaohongshu sont majoritairement utilisés par les jeunes, qui absorbent les termes continentaux à une vitesse et dans une proportion bien supérieures à celles de leurs aînés.
 
 Ce n'est pas qu'une question de vocabulaire : c'est une question de transmission des valeurs culturelles. Quand les usages linguistiques des jeunes divergent de ceux de leurs parents, qui doit s'adapter ? Comment concilier l'évolution naturelle de la langue et la préservation d'une identité culturelle ?
 
@@ -92,7 +95,7 @@ Ce qui rend Taïwan particulier, c'est la densité de cette histoire : en quatre
 
 ## De la résistance à l'intégration : repenser les emprunts
 
-Plutôt que d'appréhender les emprunts comme des « invasions », il vaut mieux les lire comme des « traces de relations ». Chaque emprunt raconte une histoire : « bento » documente la modernisation coloniale japonaise, « OK » témoigne de l'américanisation d'après-guerre, et 視頻 (*shipin*) porte en lui toute la complexité des relations entre les deux rives du détroit.
+Plutôt que d'appréhender les emprunts comme des « invasions », il vaut mieux les lire comme des « traces de relations ». Chaque emprunt raconte une histoire : « bento » documente la modernisation coloniale japonaise, « OK » témoigne de l'américanisation d'après-guerre, et 視頻 (_shipin_) porte en lui toute la complexité des relations entre les deux rives du détroit.
 
 La Loi sur le développement des langues nationales, adoptée à Taïwan en 2019, reconnaît officiellement le statut juridique des « langues naturelles utilisées par chaque groupe ethnique autochtone de Taïwan ». La sagesse de ce texte réside dans son approche inclusive plutôt qu'excluante : il protège la diversité des langues locales sans établir de hiérarchie entre elles.
 

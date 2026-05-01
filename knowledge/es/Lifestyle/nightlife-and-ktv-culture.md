@@ -12,6 +12,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:b2fc903c97041562'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Vida nocturna y cultura KTV

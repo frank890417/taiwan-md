@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f8dc834054c6b8b9'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 # 대만 고산 생태계와 빙하기 유존종

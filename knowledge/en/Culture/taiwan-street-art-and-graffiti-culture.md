@@ -10,6 +10,9 @@ category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Culture/台灣街頭藝術與塗鴉文化.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:e868357ae72f86c5'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Street Art and Graffiti Culture

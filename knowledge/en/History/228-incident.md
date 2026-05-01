@@ -5,6 +5,9 @@ date: 2026-03-17
 tags: [history, politics, transitional justice, White Terror, democratization]
 translatedFrom: 'History/二二八事件.md'
 sourceHash: '47071c'
+sourceCommitSha: 'cd43dbe6'
+sourceContentHash: 'sha256:634ee0a75c18646d'
+translatedAt: '2026-03-20T14:05:08+08:00'
 ---
 
 # 228 Incident

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Geography/台灣五大地形與地理結構.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9995854111a5a543'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 대만의 5대 지형과 지리 구조: 산맥에서 평원까지의 섬 풍경

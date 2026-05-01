@@ -9,6 +9,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0334fef76cff5db1'
+translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 
 # 대만의 시장 문화와 전통 시장

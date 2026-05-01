@@ -1,8 +1,16 @@
 ---
 title: 'Le pangolin de Taïwan'
-description: "Le mammifère le plus braconné au monde a trouvé un refuge sûr à Taïwan"
+description: 'Le mammifère le plus braconné au monde a trouvé un refuge sûr à Taïwan'
 date: 2026-03-19
-tags: ['pangolin', 'conservation', 'espèces menacées', 'braconnage', 'zoo de Taipei', 'écologie']
+tags:
+  [
+    'pangolin',
+    'conservation',
+    'espèces menacées',
+    'braconnage',
+    'zoo de Taipei',
+    'écologie',
+  ]
 subcategory: 'Faune sauvage'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣穿山甲.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a5b003502d2f617c'
+translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 
 # Le pangolin de Taïwan

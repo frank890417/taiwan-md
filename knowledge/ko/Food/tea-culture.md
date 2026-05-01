@@ -15,6 +15,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Pi
 imageAlt: 'Formosa Oolong Tea 문구가 적힌 대만 우롱차 포장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/茶文化.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:224c9e016e85d4f1'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 대만 차 문화

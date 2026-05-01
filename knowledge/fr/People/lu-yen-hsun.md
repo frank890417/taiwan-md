@@ -2,7 +2,8 @@
 title: 'Lu Yen-hsun'
 description: 'Le numéro un du tennis taïwanais, quart de finaliste à Wimbledon en 2010, représentant de Taïwan à quatre Jeux olympiques'
 date: 2026-03-19
-tags: ['sport', 'tennis', 'Jeux olympiques', 'Wimbledon', 'tennis professionnel']
+tags:
+  ['sport', 'tennis', 'Jeux olympiques', 'Wimbledon', 'tennis professionnel']
 subcategory: 'Sport'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +11,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/盧彥勳.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6523387459c64d0d'
+translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 
 # Lu Yen-hsun : le numéro un du tennis taïwanais

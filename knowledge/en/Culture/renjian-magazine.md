@@ -17,6 +17,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/人間雜誌.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:71f7c3d911b14d72'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Renjian Magazine (人間雜誌)

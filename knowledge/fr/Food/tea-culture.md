@@ -2,7 +2,8 @@
 title: 'La culture du thé à Taïwan'
 description: "Une petite île exclue des accords internationaux de limitation de la production théicole a ainsi créé son âge d'or du thé, avant de conquérir le monde entier avec une tasse de lait aromatisé garnie de petites « perles »"
 date: 2026-03-23
-tags: [Culture du thé, Oolong, Thé de haute montagne, Boissons agitées, Bubble tea]
+tags:
+  [Culture du thé, Oolong, Thé de haute montagne, Boissons agitées, Bubble tea]
 subcategory: 'Culture des boissons'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -11,8 +12,11 @@ featured: true
 lastVerified: 2026-03-23
 translatedFrom: 'Food/茶文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg/960px-Jacksons_of_Piccadilly_Formosa_Oolong_Tea_%2851878727206%29.jpg'
-imageAlt: "Emballage de thé oolong de Taïwan portant la mention « Formosa Oolong Tea »"
+imageAlt: 'Emballage de thé oolong de Taïwan portant la mention « Formosa Oolong Tea »'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:224c9e016e85d4f1'
+translatedAt: '2026-04-14T12:29:04+08:00'
 ---
 
 # La culture du thé à Taïwan
@@ -73,12 +77,12 @@ Il faut noter qu'un établissement de Tainan, le Han Lin Tea Room, revendique lu
 
 L'industrie taïwanaise des boissons à secouer affiche aujourd'hui des dimensions vertigineuses :
 
-| Indicateur | Chiffre |
-|---|---|
-| Chiffre d'affaires 2024 | 133,13 milliards de TWD (record historique) |
-| Nombre de boutiques | 16 070 (57 % des commerces de boissons du pays) |
-| Rythme d'ouverture | En moyenne 40 nouvelles boutiques par mois |
-| Consommation annuelle | Environ 1 075,04 millions de tasses |
+| Indicateur              | Chiffre                                         |
+| ----------------------- | ----------------------------------------------- |
+| Chiffre d'affaires 2024 | 133,13 milliards de TWD (record historique)     |
+| Nombre de boutiques     | 16 070 (57 % des commerces de boissons du pays) |
+| Rythme d'ouverture      | En moyenne 40 nouvelles boutiques par mois      |
+| Consommation annuelle   | Environ 1 075,04 millions de tasses             |
 
 Les habitants de Taichung se distinguent par une consommation particulièrement élevée. Toutes tranches d'âge confondues, les femmes consomment davantage que les hommes ; les femmes de 25 à 34 ans représentent à elles seules environ 20 % de la consommation totale. Côté sucre, plus de la moitié des consommateurs optent pour un niveau faiblement sucré, suivis par les adeptes du sans sucre (39,7 %).
 

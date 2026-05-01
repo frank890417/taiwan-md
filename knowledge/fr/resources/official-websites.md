@@ -6,7 +6,10 @@ tags: [ressources, gouvernement, officiel, Taiwan.md]
 subcategory: 'Ressources'
 category: 'resources'
 author: 'Taiwan.md Translation Team'
-translatedFrom: 'resources/official-websites.md'
+translatedFrom: "resources/official-websites.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:0d481ed818da82f8"
+translatedAt: "2026-04-15T17:35:32+08:00"
 ---
 
 # Répertoire complet des sites officiels de Taïwan 🏛️
@@ -295,7 +298,7 @@ Archivage et promotion du patrimoine cinématographique et audiovisuel.
 
 ### [ARTouch (典藏)](https://artouch.com/) 🌐
 
-Le média de référence de l'actualité et de la critique artistiques à Taïwan, couvrant l'art contemporain, les arts anciens, le marché de l'art et les comptes rendus d'expositions. Depuis la fondation du magazine *典藏藝術* en 1992, ARTouch documente en continu la scène artistique taïwanaise et internationale, constituant une source incontournable pour l'étude de l'écosystème artistique de Taïwan.
+Le média de référence de l'actualité et de la critique artistiques à Taïwan, couvrant l'art contemporain, les arts anciens, le marché de l'art et les comptes rendus d'expositions. Depuis la fondation du magazine _典藏藝術_ en 1992, ARTouch documente en continu la scène artistique taïwanaise et internationale, constituant une source incontournable pour l'étude de l'écosystème artistique de Taïwan.
 
 ---
 

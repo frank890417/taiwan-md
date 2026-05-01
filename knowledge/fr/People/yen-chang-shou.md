@@ -18,7 +18,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-04-06
-translatedFrom: 'People/嚴長壽.md'
+translatedFrom: "People/嚴長壽.md"
+sourceCommitSha: "67fe687d"
+sourceContentHash: "sha256:6bcf8cc662668e7d"
+translatedAt: "2026-04-14T19:14:57+08:00"
 ---
 
 # Yen Chang-shou : du garçon de bureau au parrain du tourisme, puis il a tout abandonné
@@ -61,13 +64,13 @@ Résultat : un taux de fidélisation supérieur à 65 %, presque sans publicité
 
 ## 600 000 exemplaires
 
-En 1997, Yen Chang-shou publia *The Heart of a President* (總裁獅子心)[^7]. Un livre écrit par un directeur d'hôtel — a priori, pas le profil d'un best-seller.
+En 1997, Yen Chang-shou publia _The Heart of a President_ (總裁獅子心)[^7]. Un livre écrit par un directeur d'hôtel — a priori, pas le profil d'un best-seller.
 
 Il s'en vendit plus de 600 000 exemplaires, ce qui en fit l'un des ouvrages de management les plus diffusés de l'histoire éditoriale taïwanaise[^8].
 
 Pourquoi ? Parce qu'il n'écrivait pas sur le management. Il écrivait cette phrase : « Je ne prie jamais pour que tout se passe bien et sans accroc. Je prie seulement pour qu'au moment où chaque problème surgit, j'aie le courage et la persévérance de continuer à lui faire face. »[^9] Dans le Taïwan des années 1990 — une société qui considérait encore le secteur des services comme une activité dégradante — cette phrase, venue d'un homme passé de la salle du courrier à la présidence, avait une force de percussion considérable.
 
-En 2008, *L'Avenir que j'entrevois* fut inscrit sur la liste des lectures obligatoires pour les fonctionnaires[^10]. En 2011, *L'Éducation devrait être différente* s'attaqua directement au système scolaire : « L'enseignement à l'intérieur du système est entièrement faux. Si l'on continue à recourir aux examens, on ne pourra pas former les talents de demain. »[^11] Et, plus incisif encore : « Parents, réveillez-vous — c'est vous qui assassinez les dons de vos enfants. »
+En 2008, _L'Avenir que j'entrevois_ fut inscrit sur la liste des lectures obligatoires pour les fonctionnaires[^10]. En 2011, _L'Éducation devrait être différente_ s'attaqua directement au système scolaire : « L'enseignement à l'intérieur du système est entièrement faux. Si l'on continue à recourir aux examens, on ne pourra pas former les talents de demain. »[^11] Et, plus incisif encore : « Parents, réveillez-vous — c'est vous qui assassinez les dons de vos enfants. »
 
 De l'hôtellerie à l'avenir d'une nation, les livres de Yen Chang-shou allaient de plus en plus loin. Avec le recul, ils annonçaient le deuxième acte de sa vie.
 
@@ -113,7 +116,7 @@ La philosophie éducative de Yen Chang-shou tient en une phrase : ne jamais mesu
 
 En 2010, Yen Chang-shou fut diagnostiqué d'un cancer du rein. La tumeur se trouvant au centre de l'organe, une exérèse partielle était impossible — le rein fut retiré en entier[^20].
 
-Il révéla l'information dans la postface de *L'Éducation devrait être différente*, publié en 2011. Il ne s'arrêta pas pour autant. Après l'ablation du rein, son alimentation quotidienne devint : lait de soja, œuf et papaye au petit-déjeuner ; légumes au déjeuner ; poisson au dîner[^21]. Et il continua à sillonner Hualien et Taïtung, d'école en école, de réunion de fondation en réunion de fondation.
+Il révéla l'information dans la postface de _L'Éducation devrait être différente_, publié en 2011. Il ne s'arrêta pas pour autant. Après l'ablation du rein, son alimentation quotidienne devint : lait de soja, œuf et papaye au petit-déjeuner ; légumes au déjeuner ; poisson au dîner[^21]. Et il continua à sillonner Hualien et Taïtung, d'école en école, de réunion de fondation en réunion de fondation.
 
 Le 25 octobre 2011, il reçut l'Ordre de la Brillante Étoile de troisième classe au Palais présidentiel[^22]. Un garçon de bureau bachelier, debout dans la salle du Palais présidentiel.
 
@@ -158,9 +161,9 @@ Les rangées de bottes de caoutchouc sont toujours là, devant les salles de cla
 
 [^7]: [Books.com.tw : The Heart of a President (édition révisée du 20e anniversaire)](https://www.books.com.tw/products/0010759184) — Première édition en 1997, l'un des ouvrages de management les plus vendus de l'histoire éditoriale taïwanaise
 
-[^8]: *The Heart of a President* s'est vendu à environ 600 000 exemplaires, œuvre phare des éditions CommonWealth
+[^8]: _The Heart of a President_ s'est vendu à environ 600 000 exemplaires, œuvre phare des éditions CommonWealth
 
-[^9]: Citation tirée de *The Heart of a President* de Yen Chang-shou, source confirmée sur [Pixnet](https://yuna771121.pixnet.net/blog/post/5230366)
+[^9]: Citation tirée de _The Heart of a President_ de Yen Chang-shou, source confirmée sur [Pixnet](https://yuna771121.pixnet.net/blog/post/5230366)
 
 [^10]: [Books.com.tw : L'Avenir que j'entrevois](https://www.books.com.tw/products/0011002842) — Publié en 2008, Grand Prix du Salon international du livre de Taipei 2009, inscrit sur la liste des lectures obligatoires pour les fonctionnaires
 

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/陳士駿.md'
+sourceCommitSha: 'fb57de30'
+sourceContentHash: 'sha256:a7528e9b7062bef0'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 # 陳士駿 — 여덟 살에 떠나, 마흔한 살에 돌아온 사람

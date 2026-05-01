@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
 translatedFrom: 'People/吳大猷.md'
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:341c2f3308bef4d0'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 > **30초 요약:** 우다여우(1907–2000)는 이론물리학자다. 1946년 자신의 손으로 양전닝과 리정다오를 미국에 추천했고, 두 사람은 11년 후 노벨물리학상을 공동 수상했다. 1983년부터 11년간 중앙연구원 원장을 맡아, 경제 성장에만 집중하던 시대에 기초과학을 지켜냈으며 대만 과학 연구 체계의 기반을 닦았다.

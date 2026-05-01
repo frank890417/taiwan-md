@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: 'People/蔣中正.md'
+translatedFrom: "People/蔣中正.md"
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:cc927a774bcfd71c"
+translatedAt: "2026-04-14T19:17:00+08:00"
 ---
 
 > **En 30 secondes :** Tchang Kaï-chek (1887–1975) a gouverné Taïwan pendant 26 ans. La loi martiale qu'il a instaurée a duré 38 ans (1949–1987), faisant de Taïwan l'un des régimes de loi martiale les plus longs de l'histoire mondiale. Il a conduit la réforme agraire et instauré la scolarité obligatoire de neuf ans, jetant les bases du miracle économique taïwanais. Mais il a aussi envoyé l'armée réprimer l'incident du 28 Février, et son régime a ordonné l'exécution de milliers de personnes durant la période de la Terreur blanche. Un seul homme, deux bilans historiques radicalement opposés — un débat qui divise encore la société taïwanaise aujourd'hui.
@@ -193,13 +196,13 @@ Tchang Kaï-chek a conduit la réforme agraire, donnant des terres à des centai
 
 Tous ces faits sont l'œuvre du même homme.
 
-| Mérites (arguments des partisans) | Fautes (arguments des détracteurs) |
-|---|---|
-| Réforme agraire (réduction du fermage, « la terre à celui qui la cultive ») | Répression militaire du 28 Février, des milliers de morts |
-| Scolarité obligatoire de neuf ans (1968) | Terreur blanche : 4 000 à 5 000 exécutions dans les années 1950 |
-| Contribution aux fondations du miracle économique taïwanais | 38 ans de loi martiale, suppression de la liberté d'expression, de réunion et d'association |
-| Protection de Taïwan contre la domination communiste | Suspension de la Constitution par les Dispositions provisoires, dictature personnelle durable |
-| Transfert du patrimoine culturel (trésors du Palais, intellectuels) | Culte de la personnalité : 4 500 statues, éducation partisane |
+| Mérites (arguments des partisans)                                           | Fautes (arguments des détracteurs)                                                            |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Réforme agraire (réduction du fermage, « la terre à celui qui la cultive ») | Répression militaire du 28 Février, des milliers de morts                                     |
+| Scolarité obligatoire de neuf ans (1968)                                    | Terreur blanche : 4 000 à 5 000 exécutions dans les années 1950                               |
+| Contribution aux fondations du miracle économique taïwanais                 | 38 ans de loi martiale, suppression de la liberté d'expression, de réunion et d'association   |
+| Protection de Taïwan contre la domination communiste                        | Suspension de la Constitution par les Dispositions provisoires, dictature personnelle durable |
+| Transfert du patrimoine culturel (trésors du Palais, intellectuels)         | Culte de la personnalité : 4 500 statues, éducation partisane                                 |
 
 ---
 

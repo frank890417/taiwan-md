@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'People/鄭麗文.md'
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:c454a71817a858ba'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 # 정리원 (鄭麗文)

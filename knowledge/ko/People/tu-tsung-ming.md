@@ -19,6 +19,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/杜聰明.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:deadae386ada6fea'
+translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 
 # 두총명(杜聰明)

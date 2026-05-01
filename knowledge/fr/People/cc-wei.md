@@ -2,7 +2,13 @@
 title: 'CC Wei — Le maître des procédés à 3 nanomètres'
 description: 'Président de TSMC, artisan des procédés à 3 nanomètres et figure centrale de la domination taïwanaise dans la fabrication de semi-conducteurs'
 date: 2026-03-19
-tags: ['TSMC', 'semi-conducteurs', 'innovation technologique', 'procédés de fabrication']
+tags:
+  [
+    'TSMC',
+    'semi-conducteurs',
+    'innovation technologique',
+    'procédés de fabrication',
+  ]
 subcategory: 'Technologie et entreprises'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ readingTime: 6
 featured: false
 translatedFrom: 'People/魏哲家.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:75d5c36465e7b059'
+translatedAt: '2026-04-14T19:19:52+08:00'
 ---
 
 # CC Wei : le maître des procédés à l'ère des 3 nanomètres

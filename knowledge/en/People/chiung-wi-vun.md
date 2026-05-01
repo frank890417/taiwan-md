@@ -16,6 +16,9 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'People/蔣為文.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1881b8ae5fd55c43'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-Second Overview:** Chiung Wi-vun, the most radical advocate of the Taiwanese language movement, sparked island-wide controversy in 2011 when he held up a protest banner at the Taiwan Literature Museum declaring "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" This Tamkang mechanical engineering graduate later became one of Taiwan's few Vietnamese language experts and now serves as chair of NCKU's Department of Taiwanese Literature. He has spent 30 years proving that language is not just a tool, but the core battlefield of national identity.

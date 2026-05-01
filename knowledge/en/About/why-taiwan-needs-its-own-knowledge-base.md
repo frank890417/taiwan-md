@@ -16,6 +16,9 @@ readingTime: 8
 category: 'About'
 lastVerified: 2026-03-20
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:62ec81a90f901dec'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Why Taiwan Needs Its Own Knowledge Base

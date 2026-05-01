@@ -2,7 +2,14 @@
 title: 'Des sommets aux rivages : les parcs nationaux de Taïwan'
 description: "Découvrez les neuf parcs nationaux de Taïwan — des côtes tropicales aux crêtes alpines — et les écosystèmes exceptionnels qu'ils protègent"
 date: 2026-03-19
-tags: ['parcs nationaux', 'conservation', 'paysages naturels', 'biodiversité', 'environnement']
+tags:
+  [
+    'parcs nationaux',
+    'conservation',
+    'paysages naturels',
+    'biodiversité',
+    'environnement',
+  ]
 subcategory: 'Parcs nationaux et sentiers'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -12,6 +19,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Nature/台灣國家公園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3ce9f00d5b274081'
+translatedAt: '2026-04-14T19:22:26+08:00'
 ---
 
 # Des sommets aux rivages : les parcs nationaux de Taïwan
@@ -106,13 +116,13 @@ Dans cette belle île qu'est Taïwan, les parcs nationaux sont les lieux où s'e
 ## Références
 
 - [Agence des parcs nationaux, Ministère de l'Intérieur](https://www.nps.gov.tw/)
-- *Annales des parcs nationaux de Taïwan*, Ministère de l'Intérieur, 2020
+- _Annales des parcs nationaux de Taïwan_, Ministère de l'Intérieur, 2020
 - [Bureau des forêts et de la conservation de la nature, Ministère de l'Agriculture — Biodiversité](https://www.forest.gov.tw/biodiversity)
-- [*Les parcs nationaux de Taïwan*, Yuan-Liou Publishing](https://www.books.com.tw/products/0010193906)
+- [_Les parcs nationaux de Taïwan_, Yuan-Liou Publishing](https://www.books.com.tw/products/0010193906)
 - [Centre de recherche sur la biodiversité, Academia Sinica — Catalogue des espèces de Taïwan](https://taicol.tw/)
 - [Bureau des forêts et de la conservation de la nature, Ministère de l'Agriculture](https://www.forest.gov.tw/)
 - [TaiBIF — Infrastructure d'information sur la biodiversité de Taïwan](https://portal.taibif.tw/)
-- [*Les plus beaux endroits de Taïwan : carte des parcs nationaux*, Yushan Publishing](https://www.books.com.tw/products/0010811062)
+- [_Les plus beaux endroits de Taïwan : carte des parcs nationaux_, Yushan Publishing](https://www.books.com.tw/products/0010811062)
 - [Administration du tourisme, Ministère des Transports — Annuaire des statistiques touristiques](https://admin.taiwan.net.tw/businessinfo/FilePage?a=14034)
 - [National Geographic — Édition en langue chinoise](https://www.natgeomedia.com/)
 - [Base de données de biodiversité des parcs nationaux](https://npgis.nps.gov.tw/newpublic/)

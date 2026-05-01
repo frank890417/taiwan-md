@@ -2,7 +2,14 @@
 title: 'Kuo Cheng-Kuang'
 description: "Scientifique senior au Johnson Space Center de la NASA à Houston, spécialiste de l'alimentation et de l'environnement des astronautes — et pourtant inscrit sur liste noire comme « terroriste » par le gouvernement nationaliste de Taïwan."
 date: 2026-04-06
-tags: ['Kuo Cheng-Kuang', 'NASA', 'alimentation spatiale', 'liste noire', 'mouvement démocratique taïwanais']
+tags:
+  [
+    'Kuo Cheng-Kuang',
+    'NASA',
+    'alimentation spatiale',
+    'liste noire',
+    'mouvement démocratique taïwanais',
+  ]
 subcategory: 'Sciences et Recherche'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 7
 featured: false
 translatedFrom: 'People/郭正光.md'
 lastVerified: 2026-04-06
+sourceCommitSha: 'fb57de30'
+sourceContentHash: 'sha256:e00af3b07adcb778'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Kuo Cheng-Kuang

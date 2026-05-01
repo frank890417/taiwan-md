@@ -1,9 +1,16 @@
 ---
 title: "L'industrie du jeu vidéo à Taïwan et le divertissement numérique"
-description: "Des premiers distributeurs aux studios de création originale : comment Taïwan a trouvé sa voix sur le marché mondial du jeu vidéo"
+description: 'Des premiers distributeurs aux studios de création originale : comment Taïwan a trouvé sa voix sur le marché mondial du jeu vidéo'
 date: 2026-03-18
 category: 'Technology'
-tags: ['industrie du jeu vidéo', 'divertissement numérique', 'industries créatives', 'secteur technologique', 'jeux indépendants']
+tags:
+  [
+    'industrie du jeu vidéo',
+    'divertissement numérique',
+    'industries créatives',
+    'secteur technologique',
+    'jeux indépendants',
+  ]
 subcategory: 'Industrie numérique et logicielle'
 readingTime: 11
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:015bc5daa189760c'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 # L'industrie du jeu vidéo à Taïwan et le divertissement numérique
@@ -31,7 +41,7 @@ Detention a révélé au monde l'histoire de la terreur blanche sous la loi mart
 
 ### Chiffres clés
 
-Selon le rapport PwC *Global Entertainment & Media Outlook 2024*, le marché taïwanais du jeu vidéo et de l'e-sport a atteint 3,886 milliards de dollars en 2024 (soit environ 126 milliards de NTD), occupant une place significative sur la scène mondiale. Malgré sa taille modeste, le marché local se distingue par un taux élevé de dépenses par joueur, ce qui en fait un terrain de test privilégié pour les éditeurs internationaux.
+Selon le rapport PwC _Global Entertainment & Media Outlook 2024_, le marché taïwanais du jeu vidéo et de l'e-sport a atteint 3,886 milliards de dollars en 2024 (soit environ 126 milliards de NTD), occupant une place significative sur la scène mondiale. Malgré sa taille modeste, le marché local se distingue par un taux élevé de dépenses par joueur, ce qui en fait un terrain de test privilégié pour les éditeurs internationaux.
 
 Le taux de croissance annuel composé estimé entre 2022 et 2027 est de 4,8 %, avec une valeur de marché qui devrait dépasser 4,5 milliards de dollars en 2027. Comparé aux 187,7 milliards de dollars que représente l'ensemble du marché mondial du jeu en 2024, Taïwan — avec moins de 0,4 % de la population mondiale — contribue à plus de 2 % de la valeur globale.
 
@@ -127,12 +137,12 @@ Bien que son démarrage soit tardif et son échelle modeste, l'industrie taïwan
 
 ## Références
 
-- PwC [*Global Entertainment & Media Outlook 2024*](https://www.pwc.tw/zh/publications/global-insights/2020-outlook.html)
-- Newzoo [*2024 Global Games Market Report*](https://newzoo.com/)
+- PwC [_Global Entertainment & Media Outlook 2024_](https://www.pwc.tw/zh/publications/global-insights/2020-outlook.html)
+- Newzoo [_2024 Global Games Market Report_](https://newzoo.com/)
 - [Ministère des Affaires numériques, Bureau de l'industrie numérique](https://moda.gov.tw/) — données statistiques
 - [Taiwan Creative Content Agency (TAICCA)](https://taicca.tw/) — rapports sectoriels
-- LnData [*2024 Game & Esports Industry Data Analysis Report*](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis)
+- LnData [_2024 Game & Esports Industry Data Analysis Report_](https://www.lndata.com/explore/trending/article/2024-game-industry-analysis)
 - Données officielles de Soft-World, Gamania et [Rayark](https://rayark.com/zh/)
-- *Liberty Times*, dossier spécial sur l'industrie du jeu vidéo, section économie (septembre 2024)
+- _Liberty Times_, dossier spécial sur l'industrie du jeu vidéo, section économie (septembre 2024)
 - [光聚晶電聯合 wiki](https://zh.wikipedia.org/w/index.php?title=%E5%85%89%E8%81%9A%E6%99%B6%E9%9B%BB%E8%81%AF%E5%90%88&oldformat=true)
 - [台灣遊戲發展史簡約整理](https://www.ptt.cc/bbs/TW-history/M.1726555035.A.290.html)

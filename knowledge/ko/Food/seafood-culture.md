@@ -11,6 +11,9 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Food/台灣海鮮文化.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:b19eaae2749a2675'
+translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 
 # 타이완 해산물 문화

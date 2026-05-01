@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/陳映真.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8bedbd61019511b0'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 천잉전: 제3세계의 문학적 양심

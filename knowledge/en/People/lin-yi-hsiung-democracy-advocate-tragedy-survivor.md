@@ -13,6 +13,9 @@ tags:
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
 translatedFrom: 'People/林義雄.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1c07e29909bcc37a'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Lin Yi-hsiung: Democracy Fighter Forged by Tragedy and Resilience

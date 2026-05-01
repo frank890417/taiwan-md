@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/施振榮.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d36614a40d07f9c0'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 > **30초 요약:** Acer 창립자 시전룽(施振榮, Stan Shih)은 대만에서 유일하게 1조 원 이상의 손실을 공개 인정한 기업 교부다. 德碁半導體는 단일 회사 손실 기록을 세운 전례로 남았지만, 그가 제창한 '스마일 커브(Smiling Curve)' 이론은 오늘날에도 전 세계 경영대학원의 필수 사례로 살아있다. 이 이론은 대만 산업이 OEM 제조에서 브랜드 전략으로 전환하는 사고에 결정적인 영향을 미쳤다.

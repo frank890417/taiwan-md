@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：奇美實業.md'
+translatedFrom: "Economy/台灣企業：奇美實業.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:ef66216f5745267b"
+translatedAt: "2026-04-14T19:20:40+08:00"
 ---
 
 > **En 30 secondes**

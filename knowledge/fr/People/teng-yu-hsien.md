@@ -2,7 +2,15 @@
 title: 'Teng Yu-hsien'
 description: 'Père de la chanson taïwanaise, compositeur des classiques du folklore taïwanais tels que « Wang Chun Feng », « Yu Ye Hua » et « Yue Ye Chou »'
 date: 2026-03-19
-tags: ['musique', 'chanson taïwanaise', 'compositeur', 'période japonaise', 'musique classique', 'Taoyuan']
+tags:
+  [
+    'musique',
+    'chanson taïwanaise',
+    'compositeur',
+    'période japonaise',
+    'musique classique',
+    'Taoyuan',
+  ]
 subcategory: 'Musique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +18,14 @@ readingTime: 6
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/鄧雨賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8046886d7414c75'
+translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 
 # Teng Yu-hsien : le fondateur de la chanson taïwanaise
 
-Teng Yu-hsien (1906–1944), de son vrai nom Teng Ping-yen, est né dans une famille hakka à Longtan, Taoyuan. Il est l'un des compositeurs les plus importants de l'histoire de la musique populaire taïwanaise, honoré du titre de « Père de la chanson taïwanaise ». En seulement trente-huit ans d'existence, il a créé des œuvres fondatrices telles que *Wang Chun Feng* (望春風), *Yu Ye Hua* (雨夜花) et *Yue Ye Chou* (月夜愁) — des chansons qui demeurent aujourd'hui des emblèmes de la musique taïwanaise en langue hokkien et qui ont posé les bases de toute la musique populaire de Taïwan.
+Teng Yu-hsien (1906–1944), de son vrai nom Teng Ping-yen, est né dans une famille hakka à Longtan, Taoyuan. Il est l'un des compositeurs les plus importants de l'histoire de la musique populaire taïwanaise, honoré du titre de « Père de la chanson taïwanaise ». En seulement trente-huit ans d'existence, il a créé des œuvres fondatrices telles que _Wang Chun Feng_ (望春風), _Yu Ye Hua_ (雨夜花) et _Yue Ye Chou_ (月夜愁) — des chansons qui demeurent aujourd'hui des emblèmes de la musique taïwanaise en langue hokkien et qui ont posé les bases de toute la musique populaire de Taïwan.
 
 ## Éveil musical et formation
 
@@ -24,21 +35,21 @@ Après avoir obtenu son diplôme en 1925, il exerce brièvement comme instituteu
 
 ## Le créateur de la chanson populaire en hokkien
 
-Les années 1930 constituent l'âge d'or de la chanson taïwanaise en langue hokkien, et Teng Yu-hsien en est le principal artisan. En 1933, sa mélodie *Wang Chun Feng*, mise en paroles par le parolier Li Lin-chiu, devient la première véritable chanson populaire taïwanaise au sens moderne du terme. Elle marie les techniques harmoniques occidentales aux éléments de la musique traditionnelle locale, ouvrant ainsi une nouvelle ère pour la chanson taïwanaise.
+Les années 1930 constituent l'âge d'or de la chanson taïwanaise en langue hokkien, et Teng Yu-hsien en est le principal artisan. En 1933, sa mélodie _Wang Chun Feng_, mise en paroles par le parolier Li Lin-chiu, devient la première véritable chanson populaire taïwanaise au sens moderne du terme. Elle marie les techniques harmoniques occidentales aux éléments de la musique traditionnelle locale, ouvrant ainsi une nouvelle ère pour la chanson taïwanaise.
 
-*Yu Ye Hua* (1934) est sans doute son chef-d'œuvre. Sa mélodie d'une beauté saisissante est encore chantée partout à Taïwan aujourd'hui. Fait notable : la mélodie avait d'abord été composée pour une chanson en japonais intitulée *Haru no Ame* (Pluie de printemps), avant que le parolier Chou Tien-wang ne la revête de paroles en hokkien — version qui connut un succès bien plus durable. Cet épisode témoigne de la richesse et de la complexité de la vie culturelle taïwanaise de l'époque.
+_Yu Ye Hua_ (1934) est sans doute son chef-d'œuvre. Sa mélodie d'une beauté saisissante est encore chantée partout à Taïwan aujourd'hui. Fait notable : la mélodie avait d'abord été composée pour une chanson en japonais intitulée _Haru no Ame_ (Pluie de printemps), avant que le parolier Chou Tien-wang ne la revête de paroles en hokkien — version qui connut un succès bien plus durable. Cet épisode témoigne de la richesse et de la complexité de la vie culturelle taïwanaise de l'époque.
 
 ## Style musical et caractéristiques créatives
 
 Le style de composition de Teng Yu-hsien se distingue par un mariage subtil entre les techniques harmoniques occidentales et les éléments musicaux propres à Taïwan. Il maîtrise parfaitement la théorie harmonique européenne, mais ses lignes mélodiques portent une couleur taïwanaise indéniable. Cette synthèse entre Orient et Occident devient la marque de fabrique de la chanson taïwanaise hokkien.
 
-Ses œuvres traitent principalement de l'amour, du mal du pays et des mélancolies que suscite le cours du temps. Sa langue musicale, à la fois simple et profonde, touche directement le grand public. Des chansons comme *Yue Ye Chou* et *Yu Ye Hua* révèlent une perception aiguë de la condition humaine et une sensibilité particulière aux mutations de l'époque.
+Ses œuvres traitent principalement de l'amour, du mal du pays et des mélancolies que suscite le cours du temps. Sa langue musicale, à la fois simple et profonde, touche directement le grand public. Des chansons comme _Yue Ye Chou_ et _Yu Ye Hua_ révèlent une perception aiguë de la condition humaine et une sensibilité particulière aux mutations de l'époque.
 
 ## Collaboration avec les grands paroliers
 
 Le succès de Teng Yu-hsien doit beaucoup à ses partenariats avec des paroliers de talent. Il entretient une fructueuse collaboration avec Li Lin-chiu, Chou Tien-wang, Su Tung et d'autres, qui habillent ses mélodies de paroles proches de la vie quotidienne des Taïwanais, permettant ainsi à sa musique de toucher véritablement le cœur du peuple.
 
-La collaboration avec Li Lin-chiu reste la plus emblématique : le succès de *Wang Chun Feng* établit un modèle de coopération entre musicien et parolier qui influencera durablement la musique populaire taïwanaise.
+La collaboration avec Li Lin-chiu reste la plus emblématique : le succès de _Wang Chun Feng_ établit un modèle de coopération entre musicien et parolier qui influencera durablement la musique populaire taïwanaise.
 
 ## Contraintes d'une époque et grandeur artistique
 

@@ -2,7 +2,13 @@
 title: 'Tung Tzu-hsien'
 description: 'Président de Pegatron Corporation, penseur à la croisée de la technologie et des humanités, soutien essentiel de la librairie Eslite'
 date: 2026-03-19
-tags: ['Pegatron', 'industrie technologique', 'pensée humaniste', 'librairie Eslite']
+tags:
+  [
+    'Pegatron',
+    'industrie technologique',
+    'pensée humaniste',
+    'librairie Eslite',
+  ]
 subcategory: 'Technologie et entreprise'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ readingTime: 5
 featured: false
 translatedFrom: 'People/童子賢.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c1d775b461f7938c'
+translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 
 # Tung Tzu-hsien : penseur à la croisée de la technologie et des humanités

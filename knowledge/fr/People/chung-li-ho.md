@@ -2,7 +2,15 @@
 title: 'Chung Li-ho'
 description: "Auteur de « L'Homme de la terre natale », père de la littérature taïwanaise, écrivain acharné qui n'a jamais cessé de créer malgré la maladie et la pauvreté"
 date: 2026-03-19
-tags: [personnage, Chung Li-ho, L'homme de la terre natale, père de la littérature taïwanaise, Ferme Lishan, littérature terroir]
+tags:
+  [
+    personnage,
+    Chung Li-ho,
+    L'homme de la terre natale,
+    père de la littérature taïwanaise,
+    Ferme Lishan,
+    littérature terroir,
+  ]
 subcategory: 'Littérature'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,11 +18,14 @@ readingTime: 8
 featured: false
 translatedFrom: 'People/鍾理和.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5898ba9c26f93d0f'
+translatedAt: '2026-04-14T19:19:21+08:00'
 ---
 
 # Chung Li-ho : un homme en quête perpétuelle de sa terre natale
 
-Chung Li-ho est l'une des figures les plus poignantes de la littérature moderne taïwanaise — un combattant des lettres qui a mis sa vie entière au service de son écriture. Né en 1915 à Meinong, dans le sud de Taïwan, il s'est éteint en 1960 dans son village natal, emporté par la tuberculose. En quarante-cinq ans d'existence, il a composé des œuvres durables comme *L'Homme de la terre natale* et *La Ferme Lishan*, avec une obstination que ni la pauvreté, ni la maladie, ni l'isolement n'ont pu entamer. On l'appelle le « père de la littérature taïwanaise » — non seulement pour la valeur artistique de ses textes, mais parce qu'il a incarné, pour les générations suivantes, ce que signifie s'acharner à écrire contre vents et marées.
+Chung Li-ho est l'une des figures les plus poignantes de la littérature moderne taïwanaise — un combattant des lettres qui a mis sa vie entière au service de son écriture. Né en 1915 à Meinong, dans le sud de Taïwan, il s'est éteint en 1960 dans son village natal, emporté par la tuberculose. En quarante-cinq ans d'existence, il a composé des œuvres durables comme _L'Homme de la terre natale_ et _La Ferme Lishan_, avec une obstination que ni la pauvreté, ni la maladie, ni l'isolement n'ont pu entamer. On l'appelle le « père de la littérature taïwanaise » — non seulement pour la valeur artistique de ses textes, mais parce qu'il a incarné, pour les générations suivantes, ce que signifie s'acharner à écrire contre vents et marées.
 
 ## L'éveil littéraire d'un fils de Meinong
 
@@ -32,17 +43,17 @@ Entre Shenyang et Pékin, l'expérience de l'exil lui révèle ce que signifie v
 
 Quand le Japon capitule en 1945, Taïwan retrouve sa souveraineté. Chung Li-ho brûle de rentrer, mais le chaos de l'après-guerre le retient en Mandchourie. Ce n'est qu'en 1946 qu'il retrouve enfin Meinong, après huit ans d'absence. L'homme qui revient n'est plus le jeune paysan d'antan : c'est un écrivain mûri par l'épreuve, nourri d'expériences, porteur d'un projet littéraire.
 
-## L'âge d'or de la création et *L'Homme de la terre natale*
+## L'âge d'or de la création et _L'Homme de la terre natale_
 
 De retour à Taïwan, Chung Li-ho entre dans sa période la plus féconde. À partir de 1947, il publie des nouvelles qui le font remarquer sur la scène littéraire. Ses textes prennent pour décor les villages hakkas, leurs habitants ordinaires, leurs combats quotidiens et leurs aspirations profondes. La prose est sobre, le ton sincère, l'émotion tenace.
 
-En 1956, il achève le premier jet de *L'Homme de la terre natale*, son roman le plus important. L'ouvrage s'inspire directement de sa propre trajectoire : l'errance loin du pays natal, le retour et le déchirement intérieur qui s'ensuit. Dans ce roman, la « terre natale » n'est pas seulement un lieu géographique — c'est une demeure de l'âme, un espace intérieur auquel on aspire sans jamais vraiment y revenir.
+En 1956, il achève le premier jet de _L'Homme de la terre natale_, son roman le plus important. L'ouvrage s'inspire directement de sa propre trajectoire : l'errance loin du pays natal, le retour et le déchirement intérieur qui s'ensuit. Dans ce roman, la « terre natale » n'est pas seulement un lieu géographique — c'est une demeure de l'âme, un espace intérieur auquel on aspire sans jamais vraiment y revenir.
 
 La rédaction se fait dans des conditions éprouvantes. Gravement tuberculeux, Chung Li-ho crache le sang régulièrement, mais continue à corriger ses manuscrits depuis son lit de malade. Il aurait dit : « Je veux finir d'écrire ma vie avant de mourir. » Cette obstination a touché d'innombrables lecteurs et est devenue l'une des légendes de la littérature taïwanaise.
 
-## *La Ferme Lishan* : le vrai visage des campagnes
+## _La Ferme Lishan_ : le vrai visage des campagnes
 
-À côté de *L'Homme de la terre natale*, *La Ferme Lishan* est l'autre pilier de son œuvre. Ce roman peint la misère des campagnes taïwanaises d'après-guerre et la lutte pour la survie des paysans. Le protagoniste Li Nanhui est un homme travailleur et honnête, mais la terre ingrate ne lui permet pas de nourrir sa famille.
+À côté de _L'Homme de la terre natale_, _La Ferme Lishan_ est l'autre pilier de son œuvre. Ce roman peint la misère des campagnes taïwanaises d'après-guerre et la lutte pour la survie des paysans. Le protagoniste Li Nanhui est un homme travailleur et honnête, mais la terre ingrate ne lui permet pas de nourrir sa famille.
 
 La force du livre tient à son authenticité. Chung Li-ho était lui-même fils de la terre et connaissait ces réalités de l'intérieur. Les paysans qu'il dépeint ne sont pas idéalisés : ils sont tels qu'ils sont, dans leur dignité et leur dénuement. La pauvreté y est montrée sans fard, et la critique sociale, sans ménagement.
 
@@ -52,9 +63,9 @@ L'ouvrage a fait l'effet d'un coup de tonnerre dans les milieux littéraires. Be
 
 La carrière de Chung Li-ho fut jalonnée d'isolement et de refus. En un temps où la scène littéraire taïwanaise était encore peu structurée, ses textes peinaient à trouver des éditeurs. Les manuscrits lui revenaient, ou ne trouvaient tout simplement pas de tribune. À cette situation déjà précaire s'ajoutaient la gêne familiale et la maladie qui le rongeait.
 
-Rien de tout cela ne l'a fait renoncer. Il croyait en la valeur de la littérature, convaincu que les bonnes œuvres finissent toujours par trouver leur lecteur. Jusque dans les dernières semaines de sa vie, la tuberculose au stade avancé, il continuait à corriger *L'Homme de la terre natale* d'une main tremblante.
+Rien de tout cela ne l'a fait renoncer. Il croyait en la valeur de la littérature, convaincu que les bonnes œuvres finissent toujours par trouver leur lecteur. Jusque dans les dernières semaines de sa vie, la tuberculose au stade avancé, il continuait à corriger _L'Homme de la terre natale_ d'une main tremblante.
 
-Le 4 août 1960, alors qu'il retravaille ses manuscrits, il est pris d'une hémorragie. Il décède peu après, à quarante-quatre ans. *L'Homme de la terre natale* n'était pas encore définitivement achevé — une perte que l'histoire littéraire taïwanaise ne cesse de regretter. Mais son esprit a survécu à sa mort, et continue d'inspirer les écrivains qui lui ont succédé.
+Le 4 août 1960, alors qu'il retravaille ses manuscrits, il est pris d'une hémorragie. Il décède peu après, à quarante-quatre ans. _L'Homme de la terre natale_ n'était pas encore définitivement achevé — une perte que l'histoire littéraire taïwanaise ne cesse de regretter. Mais son esprit a survécu à sa mort, et continue d'inspirer les écrivains qui lui ont succédé.
 
 ## Un héritage fondateur
 

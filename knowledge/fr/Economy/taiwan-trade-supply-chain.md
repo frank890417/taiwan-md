@@ -1,8 +1,17 @@
 ---
-title: 'Taïwan et les chaînes d''approvisionnement mondiales'
-description: 'De l''économie orientée vers l''exportation au nœud stratégique des chaînes d''approvisionnement : comment Taïwan maintient son avantage commercial face à la rivalité sino-américaine'
+title: "Taïwan et les chaînes d'approvisionnement mondiales"
+description: "De l'économie orientée vers l'exportation au nœud stratégique des chaînes d'approvisionnement : comment Taïwan maintient son avantage commercial face à la rivalité sino-américaine"
 date: 2026-03-18
-tags: [commerce extérieur, chaîne d'approvisionnement mondiale, exportation, guerre commerciale sino-américaine, ECFA, accords commerciaux internationaux, semi-conducteurs]
+tags:
+  [
+    commerce extérieur,
+    chaîne d'approvisionnement mondiale,
+    exportation,
+    guerre commerciale sino-américaine,
+    ECFA,
+    accords commerciaux internationaux,
+    semi-conducteurs,
+  ]
 subcategory: 'Développement économique'
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +20,9 @@ featured: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
 lastVerified: 2026-03-19
 lastHumanReview: false
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0bedf0b86c577b3b'
+translatedAt: '2026-04-14T19:21:33+08:00'
 ---
 
 # Taïwan et les chaînes d'approvisionnement mondiales
@@ -346,6 +358,7 @@ Depuis les politiques d'exportation des années 1960 jusqu'à l'intégration dan
 Du bastion tutélaire des semi-conducteurs aux nouvelles industries vertes, Taïwan écrit un nouveau chapitre de son histoire d'économie commerçante. Dans un monde marqué par l'incertitude, seules l'innovation continue et la diversification permettront de maintenir un avantage compétitif dans la compétition mondiale.
 
 ## Pour aller plus loin
+
 - Taïwan : PME et champions cachés
 - Agriculture et revitalisation rurale à Taïwan
 - L'écosystème des startups à Taïwan

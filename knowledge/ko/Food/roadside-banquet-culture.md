@@ -22,6 +22,9 @@ translatedFrom: 'Food/台灣辦桌文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg/960px-The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 imageAlt: '대만 반줘 현장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
+translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 
 # 반줘(辦桌) 문화

@@ -2,7 +2,14 @@
 title: 'Le développement du système de soins de longue durée à Taïwan'
 description: "L'un des systèmes de soins de longue durée les plus avancés d'Asie, et pourtant un recours massif aux aides-soignants étrangers qui reste largement invisible"
 date: 2026-03-22
-tags: ['soins de longue durée', 'vieillissement', 'aides-soignants étrangers', 'Long-Term Care 2.0', 'contradictions institutionnelles']
+tags:
+  [
+    'soins de longue durée',
+    'vieillissement',
+    'aides-soignants étrangers',
+    'Long-Term Care 2.0',
+    'contradictions institutionnelles',
+  ]
 subcategory: 'Protection sociale'
 category: 'Society'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +18,9 @@ lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c735ef0db3cd23ac'
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 # Le développement du système de soins de longue durée à Taïwan
@@ -35,8 +45,8 @@ Lors de l'élection présidentielle de 2016, les soins de longue durée s'impos�
 > **⚠️ Point de débat**
 > Le corps médical s'interroge : au Japon, un financement partagé entre fiscalité et cotisations d'assurance reste largement insuffisant pour couvrir les besoins. Reposer entièrement sur la fiscalité, comme Taïwan le fait, soulève de sérieuses questions sur la soutenabilité à long terme du système.
 
-| 2017 : 29 000 personnes servies | 2024 : 360 000 personnes servies |
-|---|---|
+| 2017 : 29 000 personnes servies      | 2024 : 360 000 personnes servies       |
+| ------------------------------------ | -------------------------------------- |
 | Première année du Long-Term Care 2.0 | Chiffre actuel (multiplication par 12) |
 
 Mais les chiffres séduisants masquent une réalité plus rugueuse.

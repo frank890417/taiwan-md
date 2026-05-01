@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Food/台灣素食文化.md'
+sourceCommitSha: '82d9f045'
+sourceContentHash: 'sha256:24a4870b5a8b1b34'
+translatedAt: '2026-04-27T12:33:10+08:00'
 ---
 
 # 타이완 채식 문화

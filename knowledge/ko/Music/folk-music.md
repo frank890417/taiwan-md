@@ -8,6 +8,9 @@ category: 'Music'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Music/台灣民謠與歌謠.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:b219ae0c22f1ce55'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 > **30초 요약:** 1996년 애틀랜타 올림픽 개막식에서 전 세계는 대만 아미족 노인의 고대 노래를 들었다. 하지만 궈잉난(郭英男) 본인은 1998년 소송을 통해서야 자신의 목소리가 6,500만 명에게 들렸다는 사실을 알게 됐다. 이 "도용당하고 나서야 세계에 알려진" 황당한 이야기는 대만 민요 100년의 운명을 함축한다 — 1930년대 춘춘(純純)이 8만 장 판매 기록을 세운 뒤 군가로 개사됐다가, 1990년대에야 자신의 목소리를 되찾은 그 역정이다.

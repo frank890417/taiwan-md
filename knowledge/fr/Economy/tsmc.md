@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 lastVerified: 2026-03-25
-translatedFrom: 'Economy/台灣企業：台積電.md'
+translatedFrom: "Economy/台灣企業：台積電.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:934dad079d2918fd"
+translatedAt: "2026-04-14T19:20:24+08:00"
 ---
 
 > **En 30 secondes**
@@ -48,14 +51,14 @@ Puis l'IA est arrivée.
 
 L'ampleur de TSMC est difficile à saisir en mots. Les chiffres parlent mieux :
 
-| Indicateur | Chiffre | Source |
-| --- | --- | --- |
-| Chiffre d'affaires 2025 | 122 milliards USD (+ ~30 % sur un an) | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
-| Part de marché procédés avancés | Plus de 90 % (3 nm) | Rapport annuel TSMC 2025 |
-| Part de marché fonderie mondiale | Environ 54 % | TrendForce T4 2025 |
-| Capitalisation boursière (mars 2026) | Environ 1 760 milliards USD (6e mondial) | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/) |
-| Budget d'investissement 2026 | 56 milliards USD (+ 25 % et plus) | [UDN Money](https://money.udn.com/money/story/5612/9283226) |
-| Effectifs | Environ 76 000 personnes | Rapport annuel TSMC 2025 |
+| Indicateur                           | Chiffre                                  | Source                                                                                                         |
+| ------------------------------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Chiffre d'affaires 2025              | 122 milliards USD (+ ~30 % sur un an)    | [Manufacturing Dive](https://www.manufacturingdive.com/news/tsmc-q4-full-year-2025-earnings-ai-taiwan/809775/) |
+| Part de marché procédés avancés      | Plus de 90 % (3 nm)                      | Rapport annuel TSMC 2025                                                                                       |
+| Part de marché fonderie mondiale     | Environ 54 %                             | TrendForce T4 2025                                                                                             |
+| Capitalisation boursière (mars 2026) | Environ 1 760 milliards USD (6e mondial) | [CompaniesMarketCap](https://companiesmarketcap.com/tsmc/marketcap/)                                           |
+| Budget d'investissement 2026         | 56 milliards USD (+ 25 % et plus)        | [UDN Money](https://money.udn.com/money/story/5612/9283226)                                                    |
+| Effectifs                            | Environ 76 000 personnes                 | Rapport annuel TSMC 2025                                                                                       |
 
 En janvier 2026, C. C. Wei a prononcé une phrase lors d'une conférence aux investisseurs : « La demande en IA ressemble à quelque chose sans fin. » (cité dans [UDN Money](https://money.udn.com/money/story/5612/9283226))
 

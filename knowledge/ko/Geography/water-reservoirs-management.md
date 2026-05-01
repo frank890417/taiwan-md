@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 11
 featured: false
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:58cfc27dba0ac67b'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 대만의 저수지와 수자원 관리

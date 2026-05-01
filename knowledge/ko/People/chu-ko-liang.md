@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/豬哥亮.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:88702d1dcebd6f35'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 주거량: 타이완 쇼장 문화의 국민 천왕

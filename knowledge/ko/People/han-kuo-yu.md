@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'People/韓國瑜.md'
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:f8d9a2a7a468041d'
+translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 
 # 한궈위

@@ -18,6 +18,9 @@ featured: true
 category: 'People'
 lastVerified: 2026-03-19
 translatedFrom: 'People/杜奕瑾.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bfd44714801a9d19'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Ethan Tu (杜奕瑾): From PTT to Taiwan’s AI Vanguard

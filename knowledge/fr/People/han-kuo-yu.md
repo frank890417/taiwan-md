@@ -11,7 +11,10 @@ readingTime: 12
 featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: 'People/韓國瑜.md'
+translatedFrom: "People/韓國瑜.md"
+sourceCommitSha: "056136d7"
+sourceContentHash: "sha256:f8d9a2a7a468041d"
+translatedAt: "2026-04-14T19:19:52+08:00"
 ---
 
 # Han Kuo-yu
@@ -64,7 +67,7 @@ Son langage de campagne avait une densité que la politique taïwanaise n'avait 
 
 Ces slogans partagent une même logique : **extrêmement concrets, profondément populaires, viscéralement émotionnels**. Ils ne s'attardent pas sur les détails des politiques publiques ni sur une philosophie de gouvernance — ils touchent directement aux douleurs les plus brutes des électeurs : les jeunes qui fuient, une économie qui stagne, l'espoir qui s'efface. Et ils se prêtent parfaitement à la viralité, au partage, à la mémification.
 
-Une analyse post-électorale du *Reporter* (報導者) en 2018 a qualifié la « vague Han » de phénomène électoral **anti-discours, anti-élite, ancré dans le quotidien**. [^6] Le récit dominant de l'époque était celui du gouvernement PDP de Tsai Ing-wen — un langage orienté vers la rationalité, l'international, la réforme, le progressisme. Pour une partie de l'électorat — notamment les 40-49 ans, ceux qui avaient connu la prospérité de Kaohsiung et qui l'avaient vue décliner —, ce langage était incompréhensible et inaccessible.
+Une analyse post-électorale du _Reporter_ (報導者) en 2018 a qualifié la « vague Han » de phénomène électoral **anti-discours, anti-élite, ancré dans le quotidien**. [^6] Le récit dominant de l'époque était celui du gouvernement PDP de Tsai Ing-wen — un langage orienté vers la rationalité, l'international, la réforme, le progressisme. Pour une partie de l'électorat — notamment les 40-49 ans, ceux qui avaient connu la prospérité de Kaohsiung et qui l'avaient vue décliner —, ce langage était incompréhensible et inaccessible.
 
 L'émergence de Han Kuo-yu leur a donné **des mots pour s'exprimer**.
 
@@ -161,7 +164,7 @@ La vérité se situe peut-être entre les deux. Et Han Kuo-yu lui-même est prob
 
 [^1]: [韓國瑜成史上首名被罷免市長 同意票破 93 萬 - 中央社](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — Dépêche de la CNA du 6 juin 2020 après le dépouillement, enregistrant les résultats définitifs du vote de révocation : 939 090 pour, 25 051 contre, taux de participation d'environ 42 %, et positionnement historique de Han Kuo-yu comme premier maire révoqué dans l'histoire constitutionnelle.
 
-[^2]: [【罷韓紀錄】台灣史上第一位地方首長遭罷 - 報導者](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — Reportage approfondi du *Reporter* sur la révocation de Han Kuo-yu en 2020 : mandat record de 528 jours, vitesse de collecte des signatures et répartition du taux de participation. Archive historique de premier plan sur la révocation dans le système démocratique taïwanais.
+[^2]: [【罷韓紀錄】台灣史上第一位地方首長遭罷 - 報導者](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — Reportage approfondi du _Reporter_ sur la révocation de Han Kuo-yu en 2020 : mandat record de 528 jours, vitesse de collecte des signatures et répartition du taux de participation. Archive historique de premier plan sur la révocation dans le système démocratique taïwanais.
 
 [^3]: [韓國瑜 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Article Wikipédia sur Han Kuo-yu, incluant les résultats complets de l'élection présidentielle du 11 janvier 2020 : Tsai Ing-wen / Lai Ching-te 8,17 millions de voix, Han Kuo-yu / Chang San-cheng 5,52 millions, James Soong / Sandra Yu 1,05 million — et l'écart de défaite de 2,65 millions de voix.
 
@@ -169,9 +172,9 @@ La vérité se situe peut-être entre les deux. Et Han Kuo-yu lui-même est prob
 
 [^5]: [高雄發大財 - 維基百科](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Article Wikipédia consacré au slogan « Kaohsiung va s'enrichir », rassemblant l'ensemble des slogans phares de la campagne de Han Kuo-yu pour la mairie de Kaohsiung en 2018 (« une bouteille d'eau minérale, un bol de viande braisée », « les jeunes exilés vers le nord », « les marchandises sortent, les gens entrent »), et leur rôle dans la construction du phénomène de la « vague Han ».
 
-[^6]: [反論述、反菁英、接地氣，「韓流」是怎麼捲起的？ - 報導者](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Analyse approfondie du *Reporter* après les élections de 2018 : la « vague Han » qualifiée de phénomène anti-discours, anti-élite et ancré dans le quotidien ; explication du rôle central des Kaohsiungais de 40-49 ans dans la base électorale de Han Kuo-yu.
+[^6]: [反論述、反菁英、接地氣，「韓流」是怎麼捲起的？ - 報導者](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Analyse approfondie du _Reporter_ après les élections de 2018 : la « vague Han » qualifiée de phénomène anti-discours, anti-élite et ancré dans le quotidien ; explication du rôle central des Kaohsiungais de 40-49 ans dans la base électorale de Han Kuo-yu.
 
-[^7]: [「最討厭外縣市的人問你發財了沒」韓國瑜怎麼被高雄人罷掉的？- 天下雜誌](https://www.cw.com.tw/article/5100601) — Article du *Commonwealth Magazine* analysant comment l'administration de Han Kuo-yu s'est retrouvée à l'arrêt après son engagement dans la course présidentielle, et les ressorts de la victoire facile de Chen Chi-mai lors de la partielle d'août 2020.
+[^7]: [「最討厭外縣市的人問你發財了沒」韓國瑜怎麼被高雄人罷掉的？- 天下雜誌](https://www.cw.com.tw/article/5100601) — Article du _Commonwealth Magazine_ analysant comment l'administration de Han Kuo-yu s'est retrouvée à l'arrêt après son engagement dans la course présidentielle, et les ressorts de la victoire facile de Chen Chi-mai lors de la partielle d'août 2020.
 
 [^8]: [韓國瑜罷免案 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Article Wikipédia sur la révocation de Han Kuo-yu : procédure légale complète, vitesse de collecte des signatures (objectif atteint en deux mois au lieu des quatre estimés), taux de participation de 42 % et détail des résultats par district administratif.
 

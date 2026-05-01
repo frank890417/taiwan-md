@@ -10,7 +10,10 @@ lastHumanReview: false
 readingTime: 8
 lastVerified: 2026-03-29
 author: 'Taiwan.md Translation Team'
-translatedFrom: 'People/李昌鈺.md'
+translatedFrom: "People/李昌鈺.md"
+sourceCommitSha: "2acf410b"
+sourceContentHash: "sha256:d64c72cf7c6361d3"
+translatedAt: "2026-04-14T19:15:26+08:00"
 ---
 
 # Henry Lee (李昌鈺)

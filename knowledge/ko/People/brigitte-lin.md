@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 12
 translatedFrom: 'People/林青霞.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2eacc434230880ee'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 # 린 칭샤: 순정 여신에서 무협 전설로

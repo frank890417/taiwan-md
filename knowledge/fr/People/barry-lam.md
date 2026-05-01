@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/林百里.md'
+translatedFrom: "People/林百里.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:6e151fb80e93cea0"
+translatedAt: "2026-04-14T19:15:55+08:00"
 ---
 
 # Barry Lam : du roi de l'ordinateur portable aux serveurs de l'ère de l'IA

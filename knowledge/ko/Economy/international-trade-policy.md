@@ -10,6 +10,9 @@ readingTime: 16
 featured: true
 translatedFrom: 'Economy/台灣國際貿易政策.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:e86aa807bf77d463'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 # 대만 국제 무역 정책: 세계화의 물결 속에서 자리를 찾아가며

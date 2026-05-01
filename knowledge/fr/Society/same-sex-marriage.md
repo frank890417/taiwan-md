@@ -1,9 +1,18 @@
 ---
-title: 'Le mariage homosexuel et l''égalité des genres à Taïwan'
-description: 'De la prison sous la loi martiale à la première loi sur le mariage homosexuel en Asie : comment trente ans de combat d''un seul homme ont redéfini l''amour sur cette île'
+title: "Le mariage homosexuel et l'égalité des genres à Taïwan"
+description: "De la prison sous la loi martiale à la première loi sur le mariage homosexuel en Asie : comment trente ans de combat d'un seul homme ont redéfini l'amour sur cette île"
 date: 2026-03-22
 category: 'Society'
-tags: ['mariage homosexuel', 'égalité des genres', 'droits humains', 'justice', 'premier en Asie', 'Chi Chia-wei', 'LGBTQ+']
+tags:
+  [
+    'mariage homosexuel',
+    'égalité des genres',
+    'droits humains',
+    'justice',
+    'premier en Asie',
+    'Chi Chia-wei',
+    'LGBTQ+',
+  ]
 subcategory: 'Droits humains et égalité'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -12,6 +21,9 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Society/台灣同婚與性別平權.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:369f015f40df17bd'
+translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 
 # Le mariage homosexuel et l'égalité des genres à Taïwan

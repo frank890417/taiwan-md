@@ -24,6 +24,9 @@ translatedFrom: 'Food/台灣原住民飲食文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg/960px-Indigenous_group_dancers_at_Amis_Music_Festival_2016_IMF0936.jpg'
 imageAlt: '대만 원주민 문화 축제'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d67f3581051e39e8'
+translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 
 # 대만 원주민 음식 문화

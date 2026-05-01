@@ -10,10 +10,13 @@ readingTime: 8
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'Culture/擲筊.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f8a1e86f13d5a657'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 > **En 30 secondes :**
-> Les bols divinatoires — en taïwanais *jiaobei* — constituent le rituel de « communication entre humains et divinités » le plus répandu dans les croyances populaires de Taïwan. Ces deux plaquettes en demi-lune de bois ne sont pas seulement une curiosité statistique ; elles représentent un artisanat traditionnel au bord de la disparition. À travers la persévérance de l'artisan chiaïen Huang Yi-Hsun et son attachement aux bols taillés en racine de bambou, on perçoit comment les Taïwanais échangent, par ce médium matériel, leurs angoisses et leurs espoirs avec le divin.
+> Les bols divinatoires — en taïwanais _jiaobei_ — constituent le rituel de « communication entre humains et divinités » le plus répandu dans les croyances populaires de Taïwan. Ces deux plaquettes en demi-lune de bois ne sont pas seulement une curiosité statistique ; elles représentent un artisanat traditionnel au bord de la disparition. À travers la persévérance de l'artisan chiaïen Huang Yi-Hsun et son attachement aux bols taillés en racine de bambou, on perçoit comment les Taïwanais échangent, par ce médium matériel, leurs angoisses et leurs espoirs avec le divin.
 
 En juillet 2024, dans un atelier du bourg de Minxiong, dans le comté de Chiayi, Huang Yi-Hsun, 71 ans, se penche sur un tas de racines de bambou épineuses recouvertes de terre. Il ne cherche pas n'importe quel bois : il lui faut des racines souterraines vieillies depuis plusieurs années, dont la densité des fibres est exceptionnellement élevée. Ces modestes plaquettes en demi-lune jouent, dans la vie des Taïwanais, le rôle d'arbitre ultime pour des décisions aussi importantes qu'un déménagement, un changement de carrière ou même un mariage.
 
@@ -21,21 +24,21 @@ En juillet 2024, dans un atelier du bourg de Minxiong, dans le comté de Chiayi,
 
 La plupart des fidèles qui entrent dans un temple saisissent machinalement des bols divinatoires produits en série à l'usine — en plastique ou en bois bon marché moulé sous pression. Aux yeux de Huang Yi-Hsun, ces objets ne sont que des « produits commerciaux », en rien des « vecteurs de foi ». Le « bambou épineux » qu'il utilise doit provenir précisément de la jonction entre le rhizome souterrain et les racines, et doit avoir poussé de manière symétrique.
 
-« Ce que je fabrique n'est pas un produit, c'est le porte-voix de la foi. » Dans une interview accordée à FTV News, Huang Yi-Hsun confiait sa tristesse : une paire de bols de qualité en racine de bambou, depuis la récolte, le séchage en plein air, le séchage à l'ombre jusqu'à la découpe, exige souvent plusieurs années de travail. En taïwanais, « bambou » (*chu*) est homophone de « vertu » (*de*) ; les bols en racine de bambou sont ainsi investis d'un sens plus profond : « garder la vertu » (*liu de*). Il ne s'agit pas seulement d'artisanat, mais d'une forme de révérence envers les dieux.
+« Ce que je fabrique n'est pas un produit, c'est le porte-voix de la foi. » Dans une interview accordée à FTV News, Huang Yi-Hsun confiait sa tristesse : une paire de bols de qualité en racine de bambou, depuis la récolte, le séchage en plein air, le séchage à l'ombre jusqu'à la découpe, exige souvent plusieurs années de travail. En taïwanais, « bambou » (_chu_) est homophone de « vertu » (_de_) ; les bols en racine de bambou sont ainsi investis d'un sens plus profond : « garder la vertu » (_liu de_). Il ne s'agit pas seulement d'artisanat, mais d'une forme de révérence envers les dieux.
 
 > 📝 Note du curateur : Pendant que nous cherchons à obtenir des réponses toujours plus vite, l'artisan, lui, cherche la densité du matériau — car il sait que seule une racine de bambou endurcie par mille épreuves peut porter les prières les plus lourdes des croyants.
 
 ### La science du saint tirage : la probabilité est-elle vraiment de 50 % ?
 
-D'un point de vue mathématique, lancer les bols divinatoires semble relever d'une simple loi binomiale. Une face plate et une face convexe vers le haut donnent un « saint tirage » (*sheng jiao*, accord) ; deux faces plates correspondent au « tirage rieur » (*xiao jiao*, réponse floue ou joie) ; deux faces convexes signifient un « tirage négatif » (*yin jiao*, refus). En théorie, la probabilité d'obtenir un saint tirage devrait être de 50 %.
+D'un point de vue mathématique, lancer les bols divinatoires semble relever d'une simple loi binomiale. Une face plate et une face convexe vers le haut donnent un « saint tirage » (_sheng jiao_, accord) ; deux faces plates correspondent au « tirage rieur » (_xiao jiao_, réponse floue ou joie) ; deux faces convexes signifient un « tirage négatif » (_yin jiao_, refus). En théorie, la probabilité d'obtenir un saint tirage devrait être de 50 %.
 
-Pourtant, selon des recherches publiées par *PanSci* (泛科學) et plusieurs lauréats de prix scientifiques jeunesse, la forme du bol n'est pas géométriquement parfaite : son centre de gravité est légèrement décalé vers la face convexe. Lorsque le bol tombe, la probabilité que la face plate se retrouve vers le haut est en réalité légèrement supérieure à celle de la face convexe (entre 53 % et 56 %). Cela signifie que, grâce aux lois physiques, la probabilité que les dieux accordent un « saint tirage » est en réalité plus généreuse qu'on ne l'imagine — autour de 50 % à 52 %.
+Pourtant, selon des recherches publiées par _PanSci_ (泛科學) et plusieurs lauréats de prix scientifiques jeunesse, la forme du bol n'est pas géométriquement parfaite : son centre de gravité est légèrement décalé vers la face convexe. Lorsque le bol tombe, la probabilité que la face plate se retrouve vers le haut est en réalité légèrement supérieure à celle de la face convexe (entre 53 % et 56 %). Cela signifie que, grâce aux lois physiques, la probabilité que les dieux accordent un « saint tirage » est en réalité plus généreuse qu'on ne l'imagine — autour de 50 % à 52 %.
 
 Ce minuscule biais physique peut, dans des cas extrêmes, donner lieu à des légendes stupéfiantes. Le temple Citian de Guīlái, à Pingtung, organise chaque année lors du Nouvel An lunaire un « concours de bols divinatoires ». En 2026, le grand prix a été porté à 3 millions de dollars en espèces — à condition d'obtenir 20 saints tirages consécutifs. En termes de probabilité, c'est un miracle de l'ordre d'un sur un million (1/2²⁰). À ce jour, le record du temple plafonne à 17 saints tirages consécutifs — un sommet de chance que même un professeur de mathématiques peine à expliquer.
 
 ### Le bol debout : quand la physique se met temporairement en défaut
 
-Dans les nouvelles de temples taïwanais, rien ne provoque autant d'émoi que le « bol debout » (*li jiao*) — lorsque le bol, après avoir touché le sol, tient en équilibre sur sa pointe ou son arête, sans tomber.
+Dans les nouvelles de temples taïwanais, rien ne provoque autant d'émoi que le « bol debout » (_li jiao_) — lorsque le bol, après avoir touché le sol, tient en équilibre sur sa pointe ou son arête, sans tomber.
 
 Les spécialistes du folklore interprètent généralement cela comme un signe que la divinité a une « directive importante » à transmettre ou que « sa puissance se manifeste avec éclat ». L'explication scientifique, elle, invoque le coefficient de friction du sol, le degré d'usure des bords du bol et l'angle de rotation au moment du lancer. Quoi qu'il en soit, lorsqu'un fidèle anxieux voit une paire de bols debout, ce choc visuel « surnaturel » peut instantanément se transformer en un puissant réconfort psychologique.
 
@@ -51,7 +54,7 @@ Par ailleurs, ces dernières années, de nombreux temples ont associé les conco
 
 ### En guise de conclusion : le son cristallin du bol qui touche le sol
 
-Quand ces deux bols rouges rebondissent et pivotent sur le sol en terrazzo avant de produire ce son cristallin — *clic-clac* —, toute la salle du temple semble retenir son souffle l'espace d'un instant.
+Quand ces deux bols rouges rebondissent et pivotent sur le sol en terrazzo avant de produire ce son cristallin — _clic-clac_ —, toute la salle du temple semble retenir son souffle l'espace d'un instant.
 
 Quelle que soit la façon dont la science explique cette probabilité de 50 %, ou l'obsession de l'artisan pour les veines d'une racine de bambou, pour le croyant agenouillé sur le coussin, ce saint tirage est la confirmation la plus chaleureuse du monde entier. Dans une vie moderne saturée d'incertitudes, nous avons encore besoin de ces deux plaquettes en demi-lune pour nous dire, dans le son cristallin de leur chute : n'aie pas peur — vas-y, essaie.
 

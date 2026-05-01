@@ -21,6 +21,9 @@ readingTime: 15
 featured: true
 translatedFrom: 'Technology/東亞文字輸入法.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:073b6227b6cef1d7'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 # 키보드 위의 문명 충돌: 동아시아 문자 입력 방식의 100년 진화

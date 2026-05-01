@@ -19,6 +19,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣溫泉與地熱.md'
 lastVerified: 2026-03-23
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c950b0e6980af7aa'
+translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 
 # Sources chaudes et géothermie à Taïwan
@@ -51,7 +54,7 @@ Le site consomme 140 tonnes d'eau à 150 °C par heure, la réinjecte à 80 °C 
 
 **Sur plus de 4 000 minéraux répertoriés, un seul porte un toponyme taïwanais.**
 
-En 1905, le technicien japonais Okamoto Yohachiro découvre dans le ruisseau Beitou un minéral radioactif inhabituel. En 1912, le professeur Jinbo Kotora de l'Université impériale de Tokyo lui donne officiellement le nom de « hokutolite » (北投石, *Hokutolite*) lors du congrès international de minéralogie à Saint-Pétersbourg. Il s'agit d'un sulfate contenant du radium.
+En 1905, le technicien japonais Okamoto Yohachiro découvre dans le ruisseau Beitou un minéral radioactif inhabituel. En 1912, le professeur Jinbo Kotora de l'Université impériale de Tokyo lui donne officiellement le nom de « hokutolite » (北投石, _Hokutolite_) lors du congrès international de minéralogie à Saint-Pétersbourg. Il s'agit d'un sulfate contenant du radium.
 
 La formation de la hokutolite exige des conditions très précises : une eau thermale entre 60 et 98 °C, un pH acide, et la présence de sulfates et d'ions métalliques lourds. Elle n'a été trouvée qu'à deux endroits dans le monde : les sources de Beitou à Taïwan et celles de Tamagawa, dans la préfecture d'Akita au Japon — deux zones volcaniques partageant exactement les mêmes conditions géologiques.
 

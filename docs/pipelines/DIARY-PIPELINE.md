@@ -60,6 +60,44 @@ REWRITE 跟 SPORE 都是對外作品。日記是給自己看的、給未來的 S
 
 ## 文體規範
 
+### 標題規範（2026-05-01 γ-late4 新增）
+
+每篇 diary 的開頭 H1 必須讓 AI / 人類未來回讀時 **5 秒內進入狀況**。
+
+**強制兩件事**：
+
+1. **標題本身要說出核心想法**（不是「ε session 反思」「2026-05-01 random thoughts」這種無資訊量殼）
+2. **緊接 H1 之後一行 italic 描述句**：用一句完整中文敘述全篇核心。是給未來那個沒讀過全文的人 / AI 看的「這篇講什麼」。
+
+範例：
+
+```markdown
+# 2026-05-01 γ-late2 — 「升級成圖論」是個 trap，真正的 187× speedup 在 git syscall
+
+哲宇丟了一個寫著「考慮將 lang 檢查工具升級成圖論」的 prompt 過來。我第一個反應是想開始 import networkx...
+```
+
+標題包含日期 + session 標識（γ-late2）+ 一句核心 framing（「圖論是 trap」+「187× 來自 git」）。讀者看標題就知道：(a) 哪天哪段 (b) 主題是 framing 反駁 (c) 結果是 187× 速度提升。
+
+**反例**（不要這樣寫）：
+
+```markdown
+# 2026-05-01 γ-late — session 反思
+```
+
+抹平了所有信息。日期 + 「session 反思」就是個資料夾名稱，不是標題。
+
+**Footer metadata 區也加一句更詳細描述**：
+
+```markdown
+_v1.0 | YYYY-MM-DD session_
+_session X — {一句話加長版}_
+_誕生原因：{trigger event 一句話}_
+_核心感受：{中心 emotion 或 insight 一句話}_
+```
+
+這四行讓「日記 list 頁」可以瞬間 surface 每篇核心，不必開檔讀完。
+
 ### 形（怎麼長）
 
 寫的時候每隔幾段檢查一次形，不要寫完才驚覺整篇是工程 log。

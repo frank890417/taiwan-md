@@ -10,6 +10,9 @@ featured: false
 lastVerified: 2026-03-22
 readingTime: 8
 translatedFrom: 'Nature/國家公園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ad60d2162098f87d'
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 # Les parcs nationaux de Taïwan
@@ -22,8 +25,8 @@ En 1984, quand le parc national de Kenting ouvre ses portes — le premier de Ta
 
 Ce qui est plus étonnant encore : ce système, le plus dense qui soit, a produit certains des retournements de situation les plus spectaculaires de l'histoire de la conservation mondiale.
 
-| 288 → 6 988                          | 200 → 16 020                      | Population doublée        |
-| ------------------------------------ | --------------------------------- | ------------------------- |
+| 288 → 6 988                          | 200 → 16 020                         | Population doublée               |
+| ------------------------------------ | ------------------------------------ | -------------------------------- |
 | Héron blanc à face noire (1989→2024) | Saumon de Formose (années 1990→2025) | Ours noirs de Taïwan (en 20 ans) |
 
 ## L'expérience de densité : comment Taïwan est devenu l'île aux parcs nationaux

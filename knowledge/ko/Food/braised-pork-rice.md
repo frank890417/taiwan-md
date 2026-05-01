@@ -14,6 +14,9 @@ image: '/images/food/braised-pork-rice.jpg'
 imageAlt: '타이중의 루로우판'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣滷肉飯.md'
+sourceCommitSha: '5a1e7b8c'
+sourceContentHash: 'sha256:d6df6399bab845eb'
+translatedAt: '2026-04-30T21:08:02+09:00'
 ---
 
 # 대만 루로우판 (滷肉飯)

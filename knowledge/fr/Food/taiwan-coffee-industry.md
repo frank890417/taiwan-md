@@ -17,7 +17,10 @@ author: 'Taiwan.md Translation Team'
 category: 'Food'
 lastVerified: 2026-03-23
 lastHumanReview: true
-translatedFrom: 'Food/台灣咖啡產業.md'
+translatedFrom: "Food/台灣咖啡產業.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:bf3c7b57d2ee1eb5"
+translatedAt: "2026-04-14T12:29:18+08:00"
 ---
 
 # L'industrie du café à Taïwan
@@ -33,7 +36,7 @@ Ce qui surprend vraiment, c'est un chiffre : **la production locale de café avo
 
 ## L'âge d'or oublié : l'ambition industrielle de l'ère japonaise
 
-En 1911, Yasusada Tashiro, ingénieur du Bureau de la mise en valeur de l'agriculture japonais, consigne dans son *Rapport sur les plantations tropicales* le début scientifique de la culture du café à Taïwan. Il ne s'agit pas d'expériences isolées — les Japonais mesurent méthodiquement la qualité des sols, les précipitations, l'ensoleillement et la déclivité des pentes, puis implantent des zones de culture à Guanshan et Zhiben (Taitung), à Houbaosham à Gukeng, et sur le plateau de Ruisui Wuhe à Hualien.
+En 1911, Yasusada Tashiro, ingénieur du Bureau de la mise en valeur de l'agriculture japonais, consigne dans son _Rapport sur les plantations tropicales_ le début scientifique de la culture du café à Taïwan. Il ne s'agit pas d'expériences isolées — les Japonais mesurent méthodiquement la qualité des sols, les précipitations, l'ensoleillement et la déclivité des pentes, puis implantent des zones de culture à Guanshan et Zhiben (Taitung), à Houbaosham à Gukeng, et sur le plateau de Ruisui Wuhe à Hualien.
 
 En 1938, la culture du café atteint son apogée historique à Taïwan. Des plantations s'étendent de la préfecture de Taipei à celle de Kaohsiung, et même dans les régions de l'est ; Douliou abrite alors **la plus grande usine de traitement du café d'Asie**. Cette ampleur invite à reconsidérer une idée reçue : le « déclin » du café taïwanais était-il vraiment dû à une incompatibilité climatique ?
 
@@ -56,7 +59,7 @@ Mais ce modèle commercial porte aussi les germes de ses propres difficultés : 
 
 Là où Gukeng emprunte une voie populaire, le café de l'Alishan a d'emblée ciblé le marché du café de spécialité. **Une altitude comprise entre 1 000 et 1 600 mètres, avec des amplitudes thermiques nocturnes pouvant atteindre 20 °C** — pour un caféiculteur, cela signifie une maturation lente, une densité élevée, et une complexité aromatique accrue.
 
-En 2020, le café Zoujuyuan de l'Alishan a décroché 90 points lors de l'évaluation de la SCAA américaine, confirmant que le café de spécialité taïwanais atteint bel et bien le niveau international. Mais le phénomène le plus fascinant reste l'émergence du « localisme de massif » : les caféiers poussant à des altitudes et des expositions différentes produisent des nuances aromatiques distinctes. Ce concept de *terroir*, emprunté à la viticulture, offre au café de l'Alishan un discours de sophistication comparable à celui des grands vins.
+En 2020, le café Zoujuyuan de l'Alishan a décroché 90 points lors de l'évaluation de la SCAA américaine, confirmant que le café de spécialité taïwanais atteint bel et bien le niveau international. Mais le phénomène le plus fascinant reste l'émergence du « localisme de massif » : les caféiers poussant à des altitudes et des expositions différentes produisent des nuances aromatiques distinctes. Ce concept de _terroir_, emprunté à la viticulture, offre au café de l'Alishan un discours de sophistication comparable à celui des grands vins.
 
 **La ferme de Zhuowushan est perchée à 1 200 mètres d'altitude.** Son propriétaire, Xu Dingye, enchaîne les victoires en compétition ces dernières années. Sa réussite repose sur l'adoption de différents procédés de transformation — honey process, wet process, natural process — pour donner à chaque lot de grains une expression aromatique unique. Cette orientation vers la spécialité permet au café de l'Alishan d'afficher un prix de vente trois à cinq fois supérieur à celui du café de Gukeng.
 
@@ -103,13 +106,13 @@ La multiplication des chaînes — Starbucks, 85°C, Louisa, cama — a fait pas
 
 **Le City Cafe de 7-Eleven écoule 280 millions de tasses par an pour un chiffre d'affaires dépassant 15 milliards de NT$**, soit plus de 150 tasses vendues en moyenne chaque jour dans chaque magasin. Let's Cafe de FamilyMart, Hi Cafe de Hi-Life : ces cafés fraîchement préparés à petit prix ont considérablement abaissé le seuil d'entrée. En termes de qualité, ils ne rivalisent pas avec les cafés spécialisés, mais leur prix de 35 à 50 NT$ et leur omniprésence ont habitué un nombre croissant de Taïwanais à consommer du café.
 
-| **Enseigne**       | **Établissements** | **Positionnement**              |
-| ------------------ | ------------------ | ------------------------------- |
-| Louisa             | 524                | Café de spécialité accessible   |
-| Starbucks          | 500                | Expérience « troisième lieu »   |
-| 85°C               | 435                | Café + boulangerie              |
-| cama               | 151                | Spécialité à emporter           |
-| 7-Eleven City Cafe | 5 000+             | Commodité convenience store     |
+| **Enseigne**       | **Établissements** | **Positionnement**            |
+| ------------------ | ------------------ | ----------------------------- |
+| Louisa             | 524                | Café de spécialité accessible |
+| Starbucks          | 500                | Expérience « troisième lieu » |
+| 85°C               | 435                | Café + boulangerie            |
+| cama               | 151                | Spécialité à emporter         |
+| 7-Eleven City Cafe | 5 000+             | Commodité convenience store   |
 
 La culture des boissons frappées à la main a également favorisé indirectement la consommation de café. Les Taïwanais ont l'habitude d'avoir toujours une boisson à portée de main ; le café s'est naturellement inscrit dans ce rituel. De nombreuses enseignes de boissons fraîches ont commencé à proposer des cafés, brouillant la frontière entre café et thé.
 

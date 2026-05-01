@@ -21,6 +21,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Geography/離島與海洋文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a5ce1cc1637b843d'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 > **30초 요약:** 전 세계 석호(石滬, 고대 물고기 함정)가 600개가 채 안 되는데, 펑후에만 574개 이상이 있어 세계 최고 밀도를 자랑한다. 란위에서는 다우족이 날치 철의 '금기'를 세계에서 가장 정밀한 해양자원 관리 시스템으로 발전시켰다 — 미신이 아니라 과학이다. 이 이도들은 대만의 변방이 아니라, 인류 해양 지혜의 박물관이다.

@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/曾雅妮.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:890dbecd669ee83c'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 쩡야니 (曾雅妮)

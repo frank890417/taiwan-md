@@ -1,8 +1,21 @@
 ---
-title: 'Histoire du métro taïwanais : une évolution urbaine écrite dans le sang et l''argent'
-description: 'Une poutre de 209 tonnes s''effondrant du ciel a coûté 4 vies, une indemnisation de 1,64 milliard de NT$ — et le MRT de Taipei peine encore à rentabiliser son activité principale'
+title: "Histoire du métro taïwanais : une évolution urbaine écrite dans le sang et l'argent"
+description: "Une poutre de 209 tonnes s'effondrant du ciel a coûté 4 vies, une indemnisation de 1,64 milliard de NT$ — et le MRT de Taipei peine encore à rentabiliser son activité principale"
 date: 2026-03-23
-tags: [métro, MRT, transport, Taipei, Kaohsiung, Taoyuan, Taichung, développement urbain, vie quotidienne, sécurité au travail, finances]
+tags:
+  [
+    métro,
+    MRT,
+    transport,
+    Taipei,
+    Kaohsiung,
+    Taoyuan,
+    Taichung,
+    développement urbain,
+    vie quotidienne,
+    sécurité au travail,
+    finances,
+  ]
 subcategory: 'Transports et mobilité'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
@@ -11,6 +24,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0bba0af0611bfce8'
+translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 
 # Histoire du métro taïwanais : une évolution urbaine écrite dans le sang et l'argent
@@ -78,12 +94,12 @@ Alors comment le MRT de Taipei parvient-il à dégager des bénéfices ? La rép
 
 Ce « paradoxe du MRT de Taipei » révèle une réalité cruelle : **si même le métro de Taipei a besoin de ses recettes publicitaires pour survivre, les réseaux des autres villes sont condamnés à perdre de l'argent.**
 
-| Le plus fréquenté est aussi déficitaire | État des métros taïwanais |
-| --------------------------------------- | ------------------------- |
-| MRT de Taipei : 2 millions de voyageurs/jour | Déficit opérationnel : 1,26 milliard NT$ |
-| MRT de Kaohsiung : 180 000 voyageurs/jour | Pertes cumulées : 750 millions NT$ |
-| Aéroport de Taoyuan (MRT) : 40 000 voyageurs/jour | Pertes cumulées : 2 milliards NT$ |
-| MRT de Taichung : 26 000 voyageurs/jour | Pertes la première année : 600 millions NT$ |
+| Le plus fréquenté est aussi déficitaire           | État des métros taïwanais                   |
+| ------------------------------------------------- | ------------------------------------------- |
+| MRT de Taipei : 2 millions de voyageurs/jour      | Déficit opérationnel : 1,26 milliard NT$    |
+| MRT de Kaohsiung : 180 000 voyageurs/jour         | Pertes cumulées : 750 millions NT$          |
+| Aéroport de Taoyuan (MRT) : 40 000 voyageurs/jour | Pertes cumulées : 2 milliards NT$           |
+| MRT de Taichung : 26 000 voyageurs/jour           | Pertes la première année : 600 millions NT$ |
 
 ## La leçon de Kaohsiung : une expérience difficile dans le sud de Taïwan
 
@@ -166,11 +182,11 @@ Aujourd'hui, Taïwan est en plein « âge d'or du métro ».
 
 Selon une enquête du magazine Xin Xin Wen, les réseaux en service ont coûté 1 000 milliards de NT$, et plus de vingt nouvelles lignes sont en construction ou à l'étude, pour un investissement supplémentaire prévu de 1 100 milliards de NT$ sur environ 500 kilomètres — soit l'équivalent de trois fois la longueur actuelle du MRT de Taipei.
 
-| Des investissements colossaux              | Une réalité d'exploitation cruelle |
-| ------------------------------------------ | ----------------------------------- |
+| Des investissements colossaux                              | Une réalité d'exploitation cruelle                          |
+| ---------------------------------------------------------- | ----------------------------------------------------------- |
 | Investissement total dans les métros : 2 400 milliards NT$ | Seul Taipei atteint l'équilibre sur son activité principale |
-| Plus de 20 lignes en construction          | Kaohsiung : déficit annuel de 750 millions NT$ |
-| Coût moyen : 5 milliards NT$/km            | Taoyuan : pertes de 2 milliards NT$ |
+| Plus de 20 lignes en construction                          | Kaohsiung : déficit annuel de 750 millions NT$              |
+| Coût moyen : 5 milliards NT$/km                            | Taoyuan : pertes de 2 milliards NT$                         |
 
 Dans les programmes électoraux des maires, « métro et tramway » figurent invariablement parmi les promesses les plus populaires. Un vieux briscard de la politique l'explique sans détour : « Promettre de construire un métro ne fait que des heureux dans les urnes — ça n'a jamais coûté de voix. »
 
@@ -255,6 +271,7 @@ De la note de frais de 1,64 milliard NT$ avec Matra à Taichung et ses quatre mo
 Elle prouve une chose : une société peut apprendre de ses erreurs, peut bâtir de meilleures institutions à partir d'un prix payé dans la douleur. À condition, toutefois, d'y regarder honnêtement — plutôt que d'effacer ces pages de l'histoire.
 
 ## À lire aussi
+
 - [La culture du scooter à Taïwan](/lifestyle/台灣機車文化) — Comment le plus grand concurrent du métro façonne la vie urbaine
 
 ## Références

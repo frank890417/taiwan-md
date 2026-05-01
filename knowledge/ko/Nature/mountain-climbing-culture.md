@@ -19,6 +19,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
+sourceCommitSha: '12b22368'
+sourceContentHash: 'sha256:a4d9919368dc9dcf'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만의 산악과 등산 문화

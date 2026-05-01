@@ -21,6 +21,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: false
 translatedFrom: 'Nature/蘭嶼生態系.md'
+sourceCommitSha: '82e98bfd'
+sourceContentHash: 'sha256:c5b9ea1f1f0ebfd3'
+translatedAt: '2026-04-16T13:47:37+08:00'
 ---
 
 > **10초 요약:** 란위는 필리핀 화산 섬호의 최북단, 구로시오의 경유지, 다우족의 고향이자

@@ -18,6 +18,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/注音符號.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c02940e263693a53'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Zhuyin Phonetic Symbols: Taiwan's Unique Written Code

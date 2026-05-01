@@ -10,6 +10,9 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-25
 translatedFrom: 'Lifestyle/台灣機車文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:6e1ce0a29ebd4e81'
+translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 
 # 대만의 오토바이 문화

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/翁啟惠.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7c77f160ad3abb8a'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 웡치후이(翁啟惠)

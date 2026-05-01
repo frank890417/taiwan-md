@@ -10,6 +10,9 @@ readingTime: 9
 featured: false
 translatedFrom: 'Economy/台灣企業：宏達電.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e3a135605ed275be'
+translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 
 > **30초 요약**

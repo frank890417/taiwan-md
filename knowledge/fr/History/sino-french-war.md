@@ -19,6 +19,9 @@ author: Taiwan.md Translation Team
 lastVerified: 2026-04-12
 lastHumanReview: false
 translatedFrom: 'History/清法戰爭.md'
+sourceCommitSha: '956a36f3'
+sourceContentHash: 'sha256:e29f16bbd0760f6c'
+translatedAt: '2026-04-14T12:31:57+08:00'
 ---
 
 # La guerre sino-française : huit mois à Keelung et Tamsui
@@ -84,12 +87,12 @@ Sur le plan militaire, la France a dominé : elle a tenu Keelung, pris les Pesca
 
 ## « Si-Á-Huán » : les dieux aussi entrent en guerre
 
-En dialecte taïwanais hokkien, cette guerre s'appelle *Si-Á-Huán* — « la rébellion des Occidentaux » (*Si-Á* désignant les Français, *Huán* signifiant trouble armé)[^20].
+En dialecte taïwanais hokkien, cette guerre s'appelle _Si-Á-Huán_ — « la rébellion des Occidentaux » (_Si-Á_ désignant les Français, _Huán_ signifiant trouble armé)[^20].
 
 À la veille de la bataille de Tamsui, les habitants sortent en procession la statue du patriarche Qingshui pour qu'elle accompagne les défenseurs. Après la victoire, l'empereur Guangxu offre au temple une tablette impériale portant l'inscription « Mérite en faveur du salut » — elle est encore visible aujourd'hui dans la salle principale du temple Zushi à Wanhua[^21]. Cet acte de dévotion impériale déclenche une dispute entre les fidèles de Wanhua et ceux de Tamsui, chacun revendiquant la garde de la statue. La solution trouvée : une vénération alternée, selon un calendrier convenu entre les deux communautés. Cent quarante ans plus tard, cet accord est toujours en vigueur.
 
 > **📝 Note de la rédaction**
-> La guerre sino-française est l'un des rares conflits internationaux du XIXe siècle qui ait laissé une empreinte dans la mémoire populaire de Taïwan. La plupart des Taïwanais ignorent le terme *Si-Á-Huán* — mais pas les habitants de Tamsui et de Keelung. Une tablette impériale qui bénit une statue de dieu, deux temples qui se partagent sa présence, des peintures murales représentant des navires de guerre français : la mémoire de la guerre ne se transmet pas par les manuels scolaires, elle se transmet par les processions religieuses.
+> La guerre sino-française est l'un des rares conflits internationaux du XIXe siècle qui ait laissé une empreinte dans la mémoire populaire de Taïwan. La plupart des Taïwanais ignorent le terme _Si-Á-Huán_ — mais pas les habitants de Tamsui et de Keelung. Une tablette impériale qui bénit une statue de dieu, deux temples qui se partagent sa présence, des peintures murales représentant des navires de guerre français : la mémoire de la guerre ne se transmet pas par les manuels scolaires, elle se transmet par les processions religieuses.
 
 ## L'après-guerre : Taïwan devient une province
 
@@ -127,7 +130,7 @@ La France a obtenu le Vietnam. La Chine des Qing a gardé Taïwan. Six cents sol
 
 [^4]: [Ibidem, Battle of Tamsui, Wikipedia](https://en.wikipedia.org/wiki/Battle_of_Tamsui) — 17 morts et 49 blessés côté français ; environ 80 morts et 200 blessés côté Qing. Tamsui est l'une des rares défaites nettes infligées aux Français dans l'ensemble de la guerre sino-française.
 
-[^5]: [Garnot (Eugène), *L'expédition française de Formose*, Paris, 1894](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage) — Mémoires de l'officier français sur l'expédition. Texte original en français, disponible intégralement sur Gallica avec cartes. La citation est tirée du compte rendu de la journée du 8 octobre.
+[^5]: [Garnot (Eugène), _L'expédition française de Formose_, Paris, 1894](https://gallica.bnf.fr/ark:/12148/bpt6k6462338x.texteImage) — Mémoires de l'officier français sur l'expédition. Texte original en français, disponible intégralement sur Gallica avec cartes. La citation est tirée du compte rendu de la journée du 8 octobre.
 
 [^6]: [Guerre sino-française, Wikipedia](https://en.wikipedia.org/wiki/Sino%E2%80%93French_War) — En 1883, la France entreprend de soumettre le Tonkin ; la Chine des Qing envoie des troupes en soutien. La France décide d'ouvrir un second front à Taïwan pour contraindre Pékin à négocier.
 
@@ -157,7 +160,7 @@ La France a obtenu le Vietnam. La Chine des Qing a gardé Taïwan. Six cents sol
 
 [^19]: [Convention de Tientsin, Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%B3%95%E6%96%B0%E7%B4%84) — Signée le 9 juin 1885 à Tianjin : la Chine reconnaît la suzeraineté française sur le Vietnam ; la France évacue Keelung et les Pescadores.
 
-[^20]: [Si-Á-Huán, Wikipedia](https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BB%94%E5%8F%8D) — Nom populaire hokkien de la guerre sino-française à Taïwan. *Si-Á* désigne les Français (les Occidentaux) ; *Huán* signifie trouble armé.
+[^20]: [Si-Á-Huán, Wikipedia](https://zh.wikipedia.org/wiki/%E8%A5%BF%E4%BB%94%E5%8F%8D) — Nom populaire hokkien de la guerre sino-française à Taïwan. _Si-Á_ désigne les Français (les Occidentaux) ; _Huán_ signifie trouble armé.
 
 [^21]: [Temple de Tamsui Qingshui, Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B7%A1%E6%B0%B4%E6%B8%85%E6%B0%B4%E5%B7%96) — L'empereur Guangxu offre la tablette « Mérite en faveur du salut ». Les fidèles de Wanhua et de Tamsui se partagent alternativement la garde de la statue. Voir aussi [Carte des religions et de la culture taïwanaises](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=174).
 

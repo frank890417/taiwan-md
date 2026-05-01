@@ -8,7 +8,10 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-01
-translatedFrom: 'Culture/噗浪Plurk.md'
+translatedFrom: "Culture/噗浪Plurk.md"
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:a38fe6b9c1f6f658"
+translatedAt: "2026-04-14T12:34:13+08:00"
 ---
 
 > **En 30 secondes :** Plurk est une plateforme de microblog cofondée en 2008 par Alvin Woon, un entrepreneur d'origine malaisienne-chinoise, qui a trouvé à Taïwan sa plus grande communauté d'utilisateurs au monde[^1]. Sa particularité tient à une timeline défilant horizontalement — la « rivière » — et à un environnement social entièrement affranchi des algorithmes de recommandation : ce que vous voyez dépend uniquement des personnes que vous suivez, et non de ce que la plateforme souhaite vous montrer. En 2016, après que le réseau publicitaire Google a définitivement banni Plurk en raison de certains contenus pour adultes présents sur la plateforme, Plurk a lancé les « Plurk Coins », un système d'abonnement payant qui lui a permis de renouer avec la rentabilité grâce au soutien de ses utilisateurs[^2]. En 2026, alors que de nouvelles plateformes comme Threads relancent l'engouement pour le microblog, nombreux sont ceux qui découvrent avec étonnement que Plurk est non seulement toujours en vie, mais en meilleure forme que jamais.

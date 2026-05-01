@@ -2,7 +2,14 @@
 title: "L'économie des créateurs à Taïwan : 23 millions de personnes sur un terrain fragmenté"
 description: "Un marché qui représente moins de 1 % de celui des États-Unis, mais avec deux fois plus de plateformes — comment les créateurs taïwanais s'en sortent-ils ?"
 date: 2026-03-29
-tags: ['médias indépendants', 'économie des créateurs', 'KOL', 'influenceurs', 'marketing affilié']
+tags:
+  [
+    'médias indépendants',
+    'économie des créateurs',
+    'KOL',
+    'influenceurs',
+    'marketing affilié',
+  ]
 subcategory: 'Industrie et économie'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -10,6 +17,9 @@ category: 'Economy'
 lastVerified: 2026-03-29
 featured: false
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:96a6ae9b363e959a'
+translatedAt: '2026-04-14T19:21:33+08:00'
 ---
 
 > Le marché de la publicité d'influence à Taïwan représente environ 210 millions de dollars — moins de 1 % du marché américain. Pourtant, un créateur taïwanais de taille moyenne gère simultanément 5 à 7 plateformes — YouTube, Instagram, Facebook, Threads, Podcast, blog, LINE — soit presque le double de ses homologues américains de même envergure. Marché minuscule, plateformes ultra-fragmentées, monétisation par affiliation plutôt que par abonnement : les règles du jeu sont totalement différentes.

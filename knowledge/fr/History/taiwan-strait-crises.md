@@ -11,7 +11,10 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: 'History/台海危機與兩岸關係發展.md'
+translatedFrom: "History/台海危機與兩岸關係發展.md"
+sourceCommitSha: "89c6015e"
+sourceContentHash: "sha256:cff96f2b8cf87a1f"
+translatedAt: "2026-04-14T12:31:41+08:00"
 ---
 
 # Les crises du détroit de Taïwan et l'évolution des relations entre les deux rives
@@ -148,5 +151,5 @@ Les éclats d'obus récupérés dans ces galeries de granit ont été confiés a
 6. Centre d'études électorales de l'Université nationale Chengchi. Évolution de l'identification Taïwanais / Chinois parmi les résidents de Taïwan. [https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6960)
 7. CommonWealth Magazine (2022). Zhang Rongfeng, témoin de la crise du détroit de 1996 : les manœuvres chinoises sont cette fois « les plus proches ». [https://www.cw.com.tw/article/5122255](https://www.cw.com.tw/article/5122255)
 8. CNN (2022). "TSMC Chairman Mark Liu Interview." [https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn](https://edition.cnn.com/videos/tv/2022/07/31/exp-731-taiwan-tech-mark-liu-tsmc.cnn)
-9. Su Chi (2014). *Vingt ans de turbulences dans le détroit de Taïwan*. CommonWealth Publishing. [https://www.books.com.tw/products/0010831375](https://www.books.com.tw/products/0010831375)
+9. Su Chi (2014). _Vingt ans de turbulences dans le détroit de Taïwan_. CommonWealth Publishing. [https://www.books.com.tw/products/0010831375](https://www.books.com.tw/products/0010831375)
 10. Sankei Shimbun (2019). Série de reportages sur les « archives secrètes de Lee Teng-hui », portant sur le canal des émissaires secrets de Tseng Yung-hsien et les communications confidentielles avant la crise des missiles.

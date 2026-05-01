@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Economy/經濟奇蹟.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:7d77f7eb1285e4d3'
+translatedAt: '2026-04-14T19:21:51+08:00'
 ---
 
 # Le miracle économique de Taïwan
@@ -279,8 +282,8 @@ Les auteurs de cette histoire sont, comme toujours, chacun des habitants de Taï
 - [Directorate-General of Budget, Accounting and Statistics — Statistiques du revenu national](https://www.dgbas.gov.tw/mp.asp?mp=1)
 - [Ministère des Affaires économiques — Histoire du développement économique de Taïwan](https://www.moea.gov.tw/)
 - [Academia Sinica — Recherches sur le développement économique de Taïwan](https://www.sinica.edu.tw/)
-- [*Derrière le miracle économique taïwanais*](https://www.books.com.tw/products/0010123456) — Liu Chin-ching
-- [*De l'île agricole à l'île technologique*](https://www.books.com.tw/products/0010234567) — Chu Wan-wen
+- [_Derrière le miracle économique taïwanais_](https://www.books.com.tw/products/0010123456) — Liu Chin-ching
+- [_De l'île agricole à l'île technologique_](https://www.books.com.tw/products/0010234567) — Chu Wan-wen
 - [Administration de la zone de traitement des exportations — Histoire du développement du parc](https://www.epza.gov.tw/)
 - [Parc scientifique de Hsinchu — Historique du développement](https://web.sipa.gov.tw/)
 - [TSMC — Rapport annuel, historique de l'entreprise](https://investor.tsmc.com/)

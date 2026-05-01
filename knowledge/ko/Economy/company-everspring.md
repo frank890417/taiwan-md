@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：長春石化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a4e3dd0ffdb02185'
+translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 
 > **30초 요약:** 1949년 랴오딩리(廖頂立)가 타이난에 장춘화공을 창립했습니다. 작은 공장에서 출발하여 연 매출 4,300억 신대만달러에 달하는 글로벌 화학 그룹으로 성장했습니다. 75년간 "상장하지 않고, 빌리지 않는다"는 경영 철학을 고수하며, 제품과 공정 기술의 80%를 자체 개발했습니다. 유럽·미국 화학 거인들 틈에서 독자적 영역을 개척한, 대만 손꼽히는 숨은 강자입니다.

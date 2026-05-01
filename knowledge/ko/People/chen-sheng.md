@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: false
 translatedFrom: 'People/陳昇.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:58c4e9bf93190109'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 천성: 인디 정신을 노래하는 음악계의 개구쟁이

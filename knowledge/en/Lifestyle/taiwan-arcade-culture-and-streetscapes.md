@@ -17,6 +17,9 @@ category: 'Lifestyle'
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b233a45daf622e6'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan’s Arcade Culture and Streetscapes

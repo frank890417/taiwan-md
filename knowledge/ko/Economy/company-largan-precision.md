@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 lastVerified: 2026-03-22
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:74469a54ad5b9ae3'
+translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 
 # 대립광전(大立光電): 장인 정신이 아키텍처 혁명을 만났을 때

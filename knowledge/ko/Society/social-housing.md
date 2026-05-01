@@ -10,6 +10,9 @@ readingTime: 13
 featured: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5dd2254f645973f6'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 사회주택과 주거 정의

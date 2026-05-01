@@ -2,7 +2,18 @@
 title: 'Yang Yung-wei'
 description: "Médaillé d'argent en judo (-60 kg) aux Jeux olympiques de Tokyo 2021, premier judoka taïwanais à monter sur un podium olympique, et numéro un mondial en novembre de la même année"
 date: 2026-03-21
-tags: [personnalités, Yang Yung-wei, judo, Jeux olympiques, médaille d'argent, athlète, Taïwan, peuples autochtones, Paiwan]
+tags:
+  [
+    personnalités,
+    Yang Yung-wei,
+    judo,
+    Jeux olympiques,
+    médaille d'argent,
+    athlète,
+    Taïwan,
+    peuples autochtones,
+    Paiwan,
+  ]
 subcategory: 'Sports'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +21,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/楊勇緯.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:66a5e0aae1a572b7'
+translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 
 # Yang Yung-wei

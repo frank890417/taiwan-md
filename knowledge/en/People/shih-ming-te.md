@@ -13,6 +13,9 @@ tags:
 subcategory: 'Politics & Democracy'
 lastVerified: 2026-03-19
 translatedFrom: 'People/施明德.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:04fdf466b4f03b64'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Shih Ming-te: The Unyielding Face of Taiwan’s Democracy

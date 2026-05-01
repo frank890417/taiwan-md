@@ -1,9 +1,17 @@
 ---
 title: 'Rites de passage et cérémonies à Taïwan : de la naissance au deuil'
-description: "Des douze cadeaux de fiançailles aux banquets de rue, découvrez comment les rituels de la vie taïwanaise naviguent entre tradition et modernité"
+description: 'Des douze cadeaux de fiançailles aux banquets de rue, découvrez comment les rituels de la vie taïwanaise naviguent entre tradition et modernité'
 date: 2026-03-18
 category: 'Culture'
-tags: ['mariage', 'funérailles', 'rites de passage', 'culture du banquet', 'coutumes traditionnelles', 'adaptation moderne']
+tags:
+  [
+    'mariage',
+    'funérailles',
+    'rites de passage',
+    'culture du banquet',
+    'coutumes traditionnelles',
+    'adaptation moderne',
+  ]
 subcategory: 'Fêtes et rituels'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
+sourceCommitSha: 'abc5bd75'
+sourceContentHash: 'sha256:ba6b3f7666918555'
+translatedAt: '2026-04-14T12:33:49+08:00'
 ---
 
 # Rites de passage et cérémonies à Taïwan : de la naissance au deuil
@@ -28,7 +39,7 @@ Les rituels de la vie à Taïwan forment une véritable encyclopédie culturelle
 
 « Xiao Mei, n'oublie pas de préparer une enveloppe rouge — la fille de ta tante se marie samedi prochain. » Ce genre d'échange, aussi ordinaire soit-il dans les foyers taïwanais, porte en lui tout un système d'obligations sociales, à la fois complexe et chaleureux.
 
-On dit à Taïwan : *« Laisse toujours une porte ouverte — vous vous reverrez un jour. »* Cette maxime résume parfaitement l'essence des rituels de vie taïwanais : ce ne sont pas de simples cérémonies, mais des actes fondateurs et des ciments du lien social. Chaque enveloppe rouge, chaque lettre de deuil blanche est un nœud dans un réseau de relations — famille, amis, voisins.
+On dit à Taïwan : _« Laisse toujours une porte ouverte — vous vous reverrez un jour. »_ Cette maxime résume parfaitement l'essence des rituels de vie taïwanais : ce ne sont pas de simples cérémonies, mais des actes fondateurs et des ciments du lien social. Chaque enveloppe rouge, chaque lettre de deuil blanche est un nœud dans un réseau de relations — famille, amis, voisins.
 
 À Taïwan, assister aux événements importants de la vie des autres n'est pas qu'une question de politesse : c'est une obligation morale. Manquer les moments clés de la vie d'autrui, c'est accepter implicitement de ne pas pouvoir compter sur son soutien en retour. Cette culture de la réciprocité fait de chacun un maillon indispensable de la communauté.
 
@@ -55,6 +66,7 @@ Les rituels de vie taïwanais commencent dès la naissance. Chaque étape dispos
 La cérémonie du premier anniversaire est l'une des traditions les plus attendrissantes de Taïwan. On dispose devant l'enfant divers objets :
 
 **Objets traditionnels :**
+
 - Pinceau ou stylo : il sera lettré
 - Boulier : il sera commerçant
 - Sceau officiel : il aura le pouvoir, sera fonctionnaire
@@ -62,6 +74,7 @@ La cérémonie du premier anniversaire est l'une des traditions les plus attendr
 - Livre : il sera érudit
 
 **Variantes modernes :**
+
 - Souris d'ordinateur : aptitude pour les technologies de l'information
 - Stéthoscope : il sera médecin
 - Microphone : il sera artiste
@@ -71,9 +84,10 @@ Bien que tout cela reste un jeu, les familles commentent le résultat avec passi
 
 ### L'initiation à seize ans : un rite tainanais
 
-La cérémonie du *zuò shíliù suì* (做十六歲), propre à la ville de Tainan, se tient chaque année le septième jour du septième mois lunaire. Les jeunes gens de seize ans se rendent au temple pour remercier les dieux de leur protection et proclamer leur entrée dans l'âge adulte.
+La cérémonie du _zuò shíliù suì_ (做十六歲), propre à la ville de Tainan, se tient chaque année le septième jour du septième mois lunaire. Les jeunes gens de seize ans se rendent au temple pour remercier les dieux de leur protection et proclamer leur entrée dans l'âge adulte.
 
 **Déroulement du rite :**
+
 1. Passer sous un pont d'étoiles ou sous la litière d'un dieu
 2. Remercier la divinité protectrice (souvent Qi Niang Ma, la déesse des enfants)
 3. Mordre dans une tête de poulet (symbole d'adieu à l'enfance)
@@ -85,7 +99,7 @@ Ce rite prend aujourd'hui un sens nouveau : rappeler aux jeunes leurs responsabi
 
 ## Les douze cadeaux de fiançailles : le contrat sacré de l'amour
 
-Les fiançailles traditionnelles à Taïwan sont une cérémonie complexe et solennelle. Les *Shí'èr lǐ* (十二禮), les douze cadeaux, en constituent le cœur. Même si les pratiques modernes ont simplifié bien des étapes, l'esprit reste vivant.
+Les fiançailles traditionnelles à Taïwan sont une cérémonie complexe et solennelle. Les _Shí'èr lǐ_ (十二禮), les douze cadeaux, en constituent le cœur. Même si les pratiques modernes ont simplifié bien des étapes, l'esprit reste vivant.
 
 ### Les douze cadeaux traditionnels
 
@@ -161,7 +175,7 @@ La culture du mariage à Taïwan illustre parfaitement la façon dont tradition 
 
 ## La culture du banquet de rue : l'esthétique festive à la taïwanaise
 
-Impossible d'évoquer les célébrations taïwanaises sans parler du *bàn zhuō* (辦桌) — le banquet dressé devant la maison. Cette tradition est l'une des plus caractéristiques de la culture culinaire de Taïwan.
+Impossible d'évoquer les célébrations taïwanaises sans parler du _bàn zhuō_ (辦桌) — le banquet dressé devant la maison. Cette tradition est l'une des plus caractéristiques de la culture culinaire de Taïwan.
 
 ### Origines et particularités
 
@@ -176,6 +190,7 @@ Impossible d'évoquer les célébrations taïwanaises sans parler du *bàn zhuō
 La cuisine du bàn zhuō vise l'abondance et les saveurs généreuses : portions copieuses, goûts affirmés, belle présentation.
 
 **Plats emblématiques :**
+
 1. Poulet froid nature ou poulet à l'huile pimentée (entrée)
 2. Riz gluant au crabe bleu ou riz gluant à l'huile (plat principal)
 3. Poisson braisé à la sauce rouge ou poisson à la vapeur (abondance toute l'année)
@@ -183,7 +198,7 @@ La cuisine du bàn zhuō vise l'abondance et les saveurs généreuses : portions
 5. Vermicelles sautés ou nouilles sautées (plat principal généreux)
 6. Rouleau de viande frit aux pousses de bambou (cuisine taïwanaise traditionnelle)
 7. Omelette au navet salé ou aux feuilles de basilic
-8. Bouillabaisse *fotiaoqiang* ou bouillon de poulet (potage)
+8. Bouillabaisse _fotiaoqiang_ ou bouillon de poulet (potage)
 9. Boulettes de riz sucrées frites ou soupe de haricots rouges (dessert)
 10. Plateau de fruits (en clôture)
 
@@ -225,7 +240,7 @@ Les cérémonies funèbres à Taïwan témoignent du respect porté à la vie et
 
 **Les funérailles écologiques** : enterrement sous un arbre, dispersion en mer — ces pratiques respectueuses de l'environnement gagnent en popularité.
 
-**La cérémonie commémorative** : le *zhuīsī huì* remplace le rite d'adieu traditionnel dans une atmosphère plus intime et moins lourde.
+**La cérémonie commémorative** : le _zhuīsī huì_ remplace le rite d'adieu traditionnel dans une atmosphère plus intime et moins lourde.
 
 **Les condoléances numériques** : les plateformes de deuil en ligne permettent à ceux qui ne peuvent être présents d'exprimer leur peine.
 
@@ -236,6 +251,7 @@ Les cérémonies funèbres à Taïwan témoignent du respect porté à la vie et
 **Le vêtement de deuil** : la famille portait autrefois des tenues de deuil codifiées ; aujourd'hui, on se contente généralement de vêtements noirs et d'un brassard de deuil.
 
 **Les interdits :**
+
 - S'abstenir de participer à des festivités pendant quarante-neuf jours
 - Ne pas rendre visite pour les vœux du Nouvel An
 - Certains temples n'accueillent pas les proches en deuil
@@ -249,7 +265,7 @@ Les cérémonies funèbres à Taïwan témoignent du respect porté à la vie et
 
 ### Anniversaires
 
-**Faire un grand anniversaire** : à partir de soixante ans, l'anniversaire prend le nom de *zuòshòu* et est célébré avec faste — les enfants préparent des pêches et des nouilles de la longévité.
+**Faire un grand anniversaire** : à partir de soixante ans, l'anniversaire prend le nom de _zuòshòu_ et est célébré avec faste — les enfants préparent des pêches et des nouilles de la longévité.
 
 **L'anniversaire revisité** : aujourd'hui, la fête d'anniversaire mêle le gâteau occidental aux pêches de la longévité traditionnelles.
 
@@ -257,7 +273,7 @@ Les cérémonies funèbres à Taïwan témoignent du respect porté à la vie et
 
 **Choisir le bon moment** : le déménagement se fait à une date et une heure propices.
 
-**L'offrande au dieu de la Terre** : avant d'entrer dans le nouveau logement, on rend hommage au *Tǔdì Gōng* pour demander sa protection.
+**L'offrande au dieu de la Terre** : avant d'entrer dans le nouveau logement, on rend hommage au _Tǔdì Gōng_ pour demander sa protection.
 
 **La crémaillère** : on invite parents et amis pour animer la nouvelle maison.
 
@@ -346,7 +362,7 @@ Les rituels de vie taïwanais sont le fruit d'un métissage culturel riche, où 
 ### La culture Hakka
 
 **Traits principaux** : frugalité, importance de l'éducation, solidarité communautaire.
-**Rites représentatifs** : le *shí xīnniáng chá* (thé de la nouvelle mariée), le festival du Yimin.
+**Rites représentatifs** : le _shí xīnniáng chá_ (thé de la nouvelle mariée), le festival du Yimin.
 
 ### La culture des familles continentales
 
@@ -394,6 +410,7 @@ La prochaine fois que vous assisterez à un mariage ou recevrez une enveloppe ro
 C'est peut-être là la valeur la plus précieuse des rites de vie taïwanais : dans les moments importants de l'existence, ils font en sorte que nous ne soyons pas seuls ; dans une époque de transformation rapide, ils nous donnent des racines ; dans une société individualiste, ils nous relient les uns aux autres ; dans une vie d'abondance matérielle, ils donnent du sens.
 
 ## Pour aller plus loin
+
 - [Fêtes et célébrations traditionnelles](/culture/傳統節慶與慶典) - Le lien entre rituels de vie et calendrier festif
 - [Groupes ethniques (Hokkien, Hakka, peuples autochtones, familles continentales, nouveaux résidents)](/culture/族群（閩南客家原住民外省新住民）) - Les spécificités rituelles de chaque communauté
 - [Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) - Le rôle du religieux dans les rites de vie

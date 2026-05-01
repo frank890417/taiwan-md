@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/施明德.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:04fdf466b4f03b64'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 스밍더：굴하지 않은 민주 투사

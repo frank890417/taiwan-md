@@ -2,7 +2,14 @@
 title: 'Fang-Yi Sheu'
 description: "D'une petite fille d'Yilan à danseuse étoile de la Martha Graham Dance Company, puis fondatrice de LAFA à Taïwan — elle raconte l'histoire la plus puissante de Taïwan avec son corps"
 date: 2026-03-19
-tags: ['danse', 'arts du spectacle', 'Martha Graham Dance Company', 'LAFA', 'danse contemporaine']
+tags:
+  [
+    'danse',
+    'arts du spectacle',
+    'Martha Graham Dance Company',
+    'LAFA',
+    'danse contemporaine',
+  ]
 subcategory: 'Arts et design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 5
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/許芳宜.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:dc32b7371f317ffc'
+translatedAt: '2026-04-14T19:18:50+08:00'
 ---
 
 # Fang-Yi Sheu : donner voix au corps de Taïwan
@@ -22,11 +32,11 @@ Les premières années dans la ville sont épuisantes. Elle enchaîne les petits
 
 ## Danseuse étoile à la Martha Graham Dance Company
 
-Au sein de la compagnie, Fang-Yi Sheu interprète les rôles les plus emblématiques du répertoire de Martha Graham : *Diversion of Angels*, *Night Journey*, *Errand into the Maze*. La critique new-yorkaise la salue comme « la danseuse contemporaine la plus proche de l'esprit Graham ».
+Au sein de la compagnie, Fang-Yi Sheu interprète les rôles les plus emblématiques du répertoire de Martha Graham : _Diversion of Angels_, _Night Journey_, _Errand into the Maze_. La critique new-yorkaise la salue comme « la danseuse contemporaine la plus proche de l'esprit Graham ».
 
-Son corps possède une puissance d'explosion rare chez les artistes asiatiques. La technique Graham repose sur le principe de contraction et de relâchement (*contraction and release*) — une force du centre issue de la respiration — et Fang-Yi Sheu l'incarne avec une profondeur singulière. Elle a souvent confié : « Je ne danse pas, je respire. La danse n'est que le prolongement du souffle. »
+Son corps possède une puissance d'explosion rare chez les artistes asiatiques. La technique Graham repose sur le principe de contraction et de relâchement (_contraction and release_) — une force du centre issue de la respiration — et Fang-Yi Sheu l'incarne avec une profondeur singulière. Elle a souvent confié : « Je ne danse pas, je respire. La danse n'est que le prolongement du souffle. »
 
-En 2005, le *New York Times* la désigne parmi « les danseuses les plus remarquables ». Elle devient l'un des rares visages asiatiques à s'imposer au sommet du temple de la danse moderne occidentale.
+En 2005, le _New York Times_ la désigne parmi « les danseuses les plus remarquables ». Elle devient l'un des rares visages asiatiques à s'imposer au sommet du temple de la danse moderne occidentale.
 
 ## Le retour : fonder LAFA à Taïwan
 
@@ -38,7 +48,7 @@ Dans le paysage de la danse moderne à Taïwan, elle forme avec Lin Hwai-min deu
 
 ## Rayonnement et transmission
 
-Fang-Yi Sheu ne se limite pas à la scène. Elle a participé à un film de Ang Lee, collaboré avec Cloud Gate 2, pris la parole lors d'un TEDx, et s'est engagée dans les écoles pour promouvoir l'éducation par le corps. En 2020, son documentaire *My Way* — *我心我行* en mandarin — sort sur les écrans et fait découvrir au grand public taïwanais la trajectoire de cette enfant d'Yilan devenue figure internationale de la danse.
+Fang-Yi Sheu ne se limite pas à la scène. Elle a participé à un film de Ang Lee, collaboré avec Cloud Gate 2, pris la parole lors d'un TEDx, et s'est engagée dans les écoles pour promouvoir l'éducation par le corps. En 2020, son documentaire _My Way_ — _我心我行_ en mandarin — sort sur les écrans et fait découvrir au grand public taïwanais la trajectoire de cette enfant d'Yilan devenue figure internationale de la danse.
 
 L'une de ses formules est aujourd'hui largement citée : « Votre corps, c'est votre histoire. »
 

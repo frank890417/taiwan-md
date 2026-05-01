@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-07
 translatedFrom: 'Culture/藍染.md'
+sourceCommitSha: '3d0f24b5'
+sourceContentHash: 'sha256:37c3ddca1ed1a47e'
+translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 
 # 쪽빛 염색(藍染)

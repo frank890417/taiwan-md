@@ -9,12 +9,15 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-07
 lastHumanReview: 2026-04-07
-translatedFrom: 'History/台灣民主轉型.md'
+translatedFrom: "History/台灣民主轉型.md"
+sourceCommitSha: "f4dfb120"
+sourceContentHash: "sha256:d432b8072ad8da53"
+translatedAt: "2026-04-14T12:31:41+08:00"
 ---
 
 # La transition démocratique à Taïwan — quand l'autoritarisme creuse sa propre tombe
 
-Le 7 avril 1989, à l'aube, deux cents policiers encerclent les bureaux du magazine *Free Era Weekly*, situés sur la rue Minquan Est à Taipei. Depuis soixante et onze jours, Cheng Nan-jung — quarante et un ans, rédacteur en chef — s'est volontairement barricadé dans son bureau, refusant de comparaître devant le tribunal pour des charges de « sédition présumée ».[^1] Lorsque l'unité d'élite force la porte, il s'asperge d'essence et met le feu. En réponse à une convocation judiciaire, il choisit les flammes.
+Le 7 avril 1989, à l'aube, deux cents policiers encerclent les bureaux du magazine _Free Era Weekly_, situés sur la rue Minquan Est à Taipei. Depuis soixante et onze jours, Cheng Nan-jung — quarante et un ans, rédacteur en chef — s'est volontairement barricadé dans son bureau, refusant de comparaître devant le tribunal pour des charges de « sédition présumée ».[^1] Lorsque l'unité d'élite force la porte, il s'asperge d'essence et met le feu. En réponse à une convocation judiciaire, il choisit les flammes.
 
 Sept mois plus tard, le mur de Berlin s'effondre. Huit ans après, Taïwan élit son premier président au suffrage universel direct. Onze ans après, le parti qui avait lancé cette convocation perd le pouvoir.
 
@@ -30,7 +33,7 @@ Un paquet de cigarettes illicites met toute l'île à feu et à sang.
 
 Le lendemain, des manifestants se rassemblent devant le Bureau du gouverneur général pour présenter une pétition ; les soldats de garde ouvrent le feu depuis le balcon. Les protestations s'étendent à l'ensemble de Taïwan. Le 8 mars, la 21e division de l'armée nationale débarque à Keelung pour mener des opérations de « pacification ». Le nombre de victimes demeure controversé à ce jour ; le rapport d'enquête du Cabinet de 2006 estime le bilan entre dix-huit mille et vingt-huit mille morts.[^3] Intellectuels, médecins, avocats et notables locaux sont victimes d'une épuration systématique.
 
-> « Ils n'ont pas tué des émeutiers. Ils ont éliminé toute une génération de ceux qui auraient pu conduire Taïwan. » — Wu Cho-liu, *Les Figues stériles*
+> « Ils n'ont pas tué des émeutiers. Ils ont éliminé toute une génération de ceux qui auraient pu conduire Taïwan. » — Wu Cho-liu, _Les Figues stériles_
 
 L'effet immédiat du 228 fut la peur. Son effet indirect : planter dans la mémoire d'une génération entière une question ineffaçable — **pourquoi n'avons-nous pas le droit de décider de notre propre destin ?**
 
@@ -40,7 +43,7 @@ Le régime autoritaire commit une erreur fatale : il crut que le silence valait 
 
 ## La formation professionnelle la plus coûteuse du régime (1979–1980)
 
-Le 10 décembre 1979 — Journée internationale des droits de l'homme. Le magazine *Formosa* organise à Kaohsiung un rassemblement et un défilé. Les autorités refusent le permis, mais environ vingt mille personnes se réunissent quand même. À la nuit tombée, les forces antiémeutes encerclent le lieu ; gaz lacrymogènes et matraques volent.[^5]
+Le 10 décembre 1979 — Journée internationale des droits de l'homme. Le magazine _Formosa_ organise à Kaohsiung un rassemblement et un défilé. Les autorités refusent le permis, mais environ vingt mille personnes se réunissent quand même. À la nuit tombée, les forces antiémeutes encerclent le lieu ; gaz lacrymogènes et matraques volent.[^5]
 
 Une vague d'arrestations s'ensuit. Huang Hsin-chieh, Shih Ming-teh, Annette Lu, Chen Chu, Lin Yi-hsiung, Yao Chia-wen, Chang Chun-hung, Lin Hung-hsuan — huit dirigeants sont traduits devant un tribunal militaire pour « sédition ».
 
@@ -61,13 +64,13 @@ Le gouvernement taïwanais venait d'assassiner un citoyen américain sur le sol 
 
 Washington entre dans une colère noire et menace un moment de suspendre les ventes d'armes. Chiang Ching-kuo est contraint de livrer Wang Hsi-ling et deux autres responsables à la justice. L'affaire Liu confronte Chiang à une équation brutale : le coût de la poursuite de la dictature dépasse désormais celui d'une ouverture démocratique.
 
-> « Les mutations de la scène internationale ont ôté toute légitimité à l'autoritarisme taïwanais. La transition démocratique n'était pas un cadeau généreux — c'était un choix inévitable sous la pression conjointe de l'intérieur et de l'extérieur. » — Larry Diamond, *Taiwan: A Democratic Success Story*[^9]
+> « Les mutations de la scène internationale ont ôté toute légitimité à l'autoritarisme taïwanais. La transition démocratique n'était pas un cadeau généreux — c'était un choix inévitable sous la pression conjointe de l'intérieur et de l'extérieur. » — Larry Diamond, _Taiwan: A Democratic Success Story_[^9]
 
 ## « Arrêter des gens ne résout rien » (1986–1987)
 
 Le 28 septembre 1986, le Parti démocrate progressiste est fondé illégalement à l'hôtel Grand de Taipei. Le quartier général de la police présente une liste d'arrestations. La réponse de Chiang Ching-kuo tient en six caractères : **« Arrêter des gens ne résout rien. »**[^20] Il range la liste.
 
-En janvier 1987, Chiang Ching-kuo accorde une interview à Katharine Graham, éditrice du *Washington Post*, et annonce la levée de la loi martiale et la liberté de fonder des partis. Le traducteur de la rencontre, un certain Ma Ying-jeou — trente-six ans à l'époque — témoignera plus tard : « J'avais la chair de poule, comme si un courant électrique me traversait le corps. »[^20]
+En janvier 1987, Chiang Ching-kuo accorde une interview à Katharine Graham, éditrice du _Washington Post_, et annonce la levée de la loi martiale et la liberté de fonder des partis. Le traducteur de la rencontre, un certain Ma Ying-jeou — trente-six ans à l'époque — témoignera plus tard : « J'avais la chair de poule, comme si un courant électrique me traversait le corps. »[^20]
 
 Pourquoi lever la loi martiale ? Pas par remords. L'affaire Liu avait détruit l'image internationale du régime, le mouvement d'opposition ne cessait de monter en puissance, la fin imminente de la Guerre froide allait priver l'autoritarisme de ses soutiens internationaux — et Chiang lui-même, presque aveugle à cause de son diabète avancé, voyait sa santé décliner rapidement. La levée de la loi martiale était le résultat d'un calcul, non d'une soudaine générosité.
 
@@ -79,7 +82,7 @@ Le 15 juillet 1987 à minuit, la loi martiale est abrogée. Les Taïwanais peuve
 
 Après la levée de la loi martiale, Taïwan n'est pas pour autant un pays tranquille. En 1988, la mort de Chiang Ching-kuo porte Lee Teng-hui à la présidence, tandis que les conservateurs du parti l'observent avec méfiance. Les limites de la liberté d'expression restent floues.
 
-Cheng Nan-jung décide de tester ces limites. En décembre 1988, il publie dans son magazine l'intégralité du *Projet de constitution de la République de Taïwan* rédigé par Hsu Shih-kai. Les autorités émettent une convocation pour « sédition présumée ». Cheng déclare publiquement : « Le Kuomintang ne pourra jamais m'arrêter vivant — seulement s'emparer de mon cadavre. »[^1]
+Cheng Nan-jung décide de tester ces limites. En décembre 1988, il publie dans son magazine l'intégralité du _Projet de constitution de la République de Taïwan_ rédigé par Hsu Shih-kai. Les autorités émettent une convocation pour « sédition présumée ». Cheng déclare publiquement : « Le Kuomintang ne pourra jamais m'arrêter vivant — seulement s'emparer de mon cadavre. »[^1]
 
 À partir du 27 janvier 1989, il se barricade dans son bureau de rédaction, refusant toute comparution. Soixante et onze jours plus tard, au matin du 7 avril, il tient sa promesse par le feu.
 
@@ -173,7 +176,7 @@ De la lettre d'adieu à la présidence du Yuan de contrôle : quarante et un ans
 
 ## Références
 
-[^1]: [Wikipedia (zh) : Cheng Nan-jung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95) — Biographie complète de Cheng Nan-jung, de la fondation du *Free Era Weekly* à son immolation ; citation de Yeh Chu-lan tirée d'un reportage de la CNA en 2022 et d'un article de Focus Taiwan pour le 36e anniversaire en 2025.
+[^1]: [Wikipedia (zh) : Cheng Nan-jung](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95) — Biographie complète de Cheng Nan-jung, de la fondation du _Free Era Weekly_ à son immolation ; citation de Yeh Chu-lan tirée d'un reportage de la CNA en 2022 et d'un article de Focus Taiwan pour le 36e anniversaire en 2025.
 
 [^2]: [Wikipedia (zh) : L'incident des cigarettes de contrebande au Rond-Point](https://zh.wikipedia.org/zh-tw/%E5%9C%93%E7%92%B0%E7%B7%9D%E8%8F%B8%E4%BA%8B%E4%BB%B6) — Récit détaillé de l'incident du 27 février 1947, incluant les sources primaires sur l'agression de Lin Jiang-mai et la blessure par balle de Chen Wen-hsi.
 
@@ -189,7 +192,7 @@ De la lettre d'adieu à la présidence du Yuan de contrôle : quarante et un ans
 
 [^8]: [Médiathèque nationale des droits humains : l'affaire Liu](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/39) — Dossier complet sur l'assassinat de Henry Liu en 1984 : enquête sur la planification de l'attentat par le directeur des renseignements militaires Wang Hsi-ling et retombées diplomatiques internationales.
 
-[^9]: Larry Diamond, « Taiwan: A Democratic Success Story », *Journal of Democracy*, 2015 — Analyse académique par un spécialiste de la démocratie à Stanford ; montre comment la convergence des pressions intérieures et extérieures a contraint le régime autoritaire à se réformer.
+[^9]: Larry Diamond, « Taiwan: A Democratic Success Story », _Journal of Democracy_, 2015 — Analyse académique par un spécialiste de la démocratie à Stanford ; montre comment la convergence des pressions intérieures et extérieures a contraint le régime autoritaire à se réformer.
 
 [^10]: [Wikipedia (zh) : Le mouvement des Nénuphars sauvages](https://zh.wikipedia.org/zh-hant/%E9%87%8E%E7%99%BE%E5%90%88%E5%AD%B8%E9%81%8B) — Documentation complète du mouvement étudiant de mars 1990, dont la rencontre de Lee Teng-hui avec cinquante-trois représentants étudiants et le vote de retrait à vingt-deux voix contre une.
 

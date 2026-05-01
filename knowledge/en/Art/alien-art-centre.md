@@ -4,6 +4,9 @@ description: A Cold War military transit station where soldiers said goodbye bef
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
 translatedFrom: 'Art/金馬賓館當代美術館.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:dc5814dcedc92ae0'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # ALIEN Art Centre — From Military Farewell Station to Art Sanctuary

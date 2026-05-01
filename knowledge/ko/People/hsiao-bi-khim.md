@@ -10,6 +10,9 @@ difficulty: 'intermediate'
 readingTime: 12
 featured: true
 translatedFrom: 'People/蕭美琴.md'
+sourceCommitSha: '202e182d'
+sourceContentHash: 'sha256:911564a213299ba1'
+translatedAt: '2026-04-14T19:25:05+08:00'
 ---
 
 # 샤오비킴(蕭美琴)

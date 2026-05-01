@@ -17,6 +17,9 @@ category: 'Food'
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'Food/台灣咖啡產業.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Coffee Industry

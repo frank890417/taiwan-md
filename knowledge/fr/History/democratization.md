@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
-translatedFrom: 'History/民主化.md'
+translatedFrom: "History/民主化.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:df748c5bdb5127e1"
+translatedAt: "2026-04-14T12:31:57+08:00"
 ---
 
 # La démocratisation de Taïwan
@@ -28,7 +31,7 @@ Le procès offrit aux accusés une tribune nationale. Shih Ming-teh avait prépa
 
 Dans la décennie qui suivit le procès de Kaohsiung, la société taïwanaise ressembla à une casserole sur feu doux. Le mouvement hors-parti poursuivait son expansion — mais c'est un homme, Cheng Nan-jung, un waishengren (originaire du continent), qui allait porter la température au point d'ébullition.
 
-Le 10 décembre 1988, Journée internationale des droits de l'homme, Cheng Nan-jung publie en intégralité, dans le numéro 254 de son hebdomadaire *Ère de liberté*, le texte d'un projet de constitution pour une « République de Taïwan ». À l'époque, un tel acte constituait le crime de rébellion, passible de la peine de mort.
+Le 10 décembre 1988, Journée internationale des droits de l'homme, Cheng Nan-jung publie en intégralité, dans le numéro 254 de son hebdomadaire _Ère de liberté_, le texte d'un projet de constitution pour une « République de Taïwan ». À l'époque, un tel acte constituait le crime de rébellion, passible de la peine de mort.
 
 Après avoir reçu une convocation judiciaire, Cheng se barricade dans les locaux de sa revue et refuse de comparaître. Il dit à sa femme Yeh Chu-lan ces derniers mots :
 
@@ -86,14 +89,14 @@ Le 23 mars, le taux de participation atteint 76,04 %. Lee Teng-hui recueille 5 8
 
 La manœuvre d'intimidation soigneusement orchestrée par Pékin avait produit exactement le résultat qu'elle cherchait à empêcher.
 
-| Indicateur | Résultat |
-| --- | --- |
-| Date du scrutin | 23 mars 1996 |
-| Taux de participation | 76,04 % |
-| Lee Teng-hui (KMT) | 54,00 % — 5 813 699 voix |
-| Peng Ming-min (PDP) | 21,12 % |
-| Lin Yang-kang | 14,90 % |
-| Chen Li-an | 9,98 % |
+| Indicateur            | Résultat                 |
+| --------------------- | ------------------------ |
+| Date du scrutin       | 23 mars 1996             |
+| Taux de participation | 76,04 %                  |
+| Lee Teng-hui (KMT)    | 54,00 % — 5 813 699 voix |
+| Peng Ming-min (PDP)   | 21,12 %                  |
+| Lin Yang-kang         | 14,90 %                  |
+| Chen Li-an            | 9,98 %                   |
 
 ## Trois alternances : la dignité des vaincus
 
@@ -113,7 +116,7 @@ Quatre alternances de pouvoir en trente ans, chacune accomplie pacifiquement. Au
 
 Les révolutions d'Europe de l'Est ont renversé les partis communistes, le Printemps arabe a déclenché des guerres civiles, la junte birmane a réprimé dans le sang. Comment Taïwan a-t-il réussi sa « révolution tranquille » ?
 
-Le politologue Samuel Huntington, dans *La Troisième Vague*, classe Taïwan dans la catégorie « transformation » — une démocratisation pilotée par les élites, de haut en bas —, à l'opposé de la Corée du Sud (« transplacement » par négociation) ou des Philippines (« remplacement » par la base).
+Le politologue Samuel Huntington, dans _La Troisième Vague_, classe Taïwan dans la catégorie « transformation » — une démocratisation pilotée par les élites, de haut en bas —, à l'opposé de la Corée du Sud (« transplacement » par négociation) ou des Philippines (« remplacement » par la base).
 
 Mais si les élites ont choisi la réforme, c'est pour des raisons structurelles :
 
@@ -161,4 +164,4 @@ Voilà ce que signifie la démocratisation. Non pas une belle histoire lisse et 
 - [Taiwan TRC : Article 9 de la Loi sur la sécurité nationale](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
 - [ETtoday : Lee Teng-hui aurait ordonné de ne pas blesser les étudiants](https://www.ettoday.net/news/20150730/542648.htm)
 - [Washington Post : China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (anglais)
-- [Samuel Huntington, *The Third Wave*, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (anglais, académique)
+- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (anglais, académique)

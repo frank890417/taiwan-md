@@ -18,6 +18,9 @@ featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'Culture/台灣茶文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ad0986e868656595'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwanese Tea Culture and Living Aesthetics

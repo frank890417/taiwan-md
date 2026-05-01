@@ -7,6 +7,9 @@ tags:
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
 translatedFrom: 'People/葉國一.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8815002e4ea20721'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Yeh Kuo-Yi: Cornerstone of Taiwan's Electronics Contract Manufacturing Industry

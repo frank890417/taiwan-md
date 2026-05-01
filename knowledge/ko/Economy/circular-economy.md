@@ -18,6 +18,9 @@ readingTime: 14
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:14226e8150e93598'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 # 대만의 순환경제와 자원 재활용

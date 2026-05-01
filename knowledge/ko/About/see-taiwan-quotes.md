@@ -8,6 +8,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: true
 translatedFrom: 'About/看見台灣引言集.md'
+sourceCommitSha: '1a5fc7a9'
+sourceContentHash: 'sha256:cbdbee6d7c03481f'
+translatedAt: '2026-04-14T11:06:19+08:00'
 ---
 
 # 대만을 보다 — 역사 속 대만의 인상

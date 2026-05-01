@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/柯文哲.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:07cd9f09350b5c18'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 # 커 원저

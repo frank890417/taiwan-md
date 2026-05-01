@@ -9,6 +9,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/唐鳳.md'
 featured: true
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:a082c7ac24170454'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 > **30초 요약:** 1981년생 탕펑은 8세에 혼자 프로그래밍을 독학하기 시작했다. 2005년 24세에 성전환 수술을 받았고, 2012년 g0v(거브 제로)를 창설했으며, 2016년 35세에 세계 최초의 공개 트랜스젠더 장관급 정치인이 되었다. "hack don't attack"의 오픈소스 정신으로 디지털 도구를 정부에 도입하며 타이완을 글로벌 열린 정부의 모범 사례로 만들었다.

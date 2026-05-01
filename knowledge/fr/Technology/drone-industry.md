@@ -10,7 +10,10 @@ featured: false
 readingTime: 13
 lastVerified: 2026-04-08
 lastHumanReview: false
-translatedFrom: 'Technology/台灣無人機產業.md'
+translatedFrom: "Technology/台灣無人機產業.md"
+sourceCommitSha: "6c11ef53"
+sourceContentHash: "sha256:291d32db58d18941"
+translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 
 > **En 30 secondes :** L'industrie taïwanaise des drones traverse une phase d'expansion propulsée par la géopolitique. Le ministère de la Défense prévoit d'acquérir près de cinquante mille drones militaires pour 50 milliards de dollars taïwanais, les drones constituant l'un des postes clés du budget spécial de 1 250 milliards du Yuan exécutif. Thunder Tiger est devenue la première entreprise taïwanaise à obtenir la certification américaine Blue UAS. De l'épandage agricole à la reconnaissance sur le champ de bataille, l'industrie taïwanaise des drones passe du statut de sous-traitant à celui d'acteur de la défense autonome — et ambitionne de devenir le prochain secteur stratégique après les semi-conducteurs.
@@ -40,12 +43,12 @@ Le premier lot de 3 600 appareils, d'une valeur d'environ 7 milliards de dollars
 
 Ce n'est qu'un début. Dans le budget spécial de 1 250 milliards du Yuan exécutif, les drones figurent parmi les sept postes prioritaires, avec un objectif de plus de 200 000 appareils de toutes catégories et plus de 1 000 drones de surface sans pilote[^5].
 
-| Premier lot | Plans ultérieurs |
-| --- | --- |
-| 3 600 appareils | ~50 000 appareils (50 milliards NT$) |
-| 7 milliards NT$ | Partie du budget spécial de 1 250 milliards NT$ |
-| Chungshan Robotics, Evergreen Aerospace, etc. | Plus de 20 fabricants en compétition |
-| Livraison en 2026 | Livraisons échelonnées de 2026 à 2033 |
+| Premier lot                                   | Plans ultérieurs                                |
+| --------------------------------------------- | ----------------------------------------------- |
+| 3 600 appareils                               | ~50 000 appareils (50 milliards NT$)            |
+| 7 milliards NT$                               | Partie du budget spécial de 1 250 milliards NT$ |
+| Chungshan Robotics, Evergreen Aerospace, etc. | Plus de 20 fabricants en compétition            |
+| Livraison en 2026                             | Livraisons échelonnées de 2026 à 2033           |
 
 > **💡 Le saviez-vous ?**
 > En 2024, le chiffre d'affaires de Chungshan Institute Intelligent Robotics dans le secteur des drones dépassait à peine 100 millions de dollars taïwanais. Si les contrats gouvernementaux sont livrés comme prévu, le chiffre d'affaires 2026 devrait dépasser le milliard — soit une multiplication par dix en un an. Une commande de défense peut transformer le destin d'une entreprise.

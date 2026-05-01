@@ -4,13 +4,13 @@ description: "L'éducation rurale à Taïwan est bien plus qu'une question de di
 date: 2026-04-09
 tags:
   [
-    "éducation rurale",
-    "éducation",
-    "inégalités éducatives",
-    "TFT",
-    "Teach For Taiwan",
-    "zones éloignées",
-    "équité scolaire",
+    'éducation rurale',
+    'éducation',
+    'inégalités éducatives',
+    'TFT',
+    'Teach For Taiwan',
+    'zones éloignées',
+    'équité scolaire',
   ]
 category: 'Society'
 subcategory: 'Éducation'
@@ -20,6 +20,9 @@ readingTime: 13
 lastVerified: 2026-04-09
 lastHumanReview: false
 translatedFrom: 'Society/台灣偏鄉教育.md'
+sourceCommitSha: 'c5415878'
+sourceContentHash: 'sha256:e3196cb1e8b69382'
+translatedAt: '2026-04-14T12:32:15+08:00'
 ---
 
 > **En 30 secondes :** Taïwan affiche des performances remarquables dans les évaluations internationales, mais Teach For Taiwan (TFT) rappelle que les enfants issus de milieux socio-économiques défavorisés peuvent accuser jusqu'à six années de retard scolaire par rapport à leurs pairs mieux lotis[^1]. D'après les statistiques du ministère de l'Éducation pour l'année scolaire 2018-2019, les établissements situés en zones éloignées — du primaire au lycée — représentent 1 177 écoles et accueillent 117 488 élèves, avec une moyenne de 13,8 élèves par classe, soit environ la moitié de la moyenne nationale[^2]. L'éducation rurale n'est jamais simplement une question d'éloignement géographique : elle met en jeu les enseignants, les transports, l'hébergement, le soutien familial, les liens avec la communauté, et la manière dont toute une société définit ce qu'est réussir sa vie.

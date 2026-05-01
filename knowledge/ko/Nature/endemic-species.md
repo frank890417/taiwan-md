@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 translatedFrom: 'Nature/特有種.md'
+sourceCommitSha: 'a1e11b6b'
+sourceContentHash: 'sha256:c6541151750229dc'
+translatedAt: '2026-04-14T10:55:17+08:00'
 ---
 
 # 대만의 고유종

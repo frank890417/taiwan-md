@@ -4,22 +4,25 @@ description: "De l'époque de la domination Qing et de ses volutes de camphre, e
 date: 2026-03-25
 tags:
   [
-    "politique forestière",
-    "chemin de fer forestier",
-    "forêt au service du gouvernement",
-    "camphre",
+    'politique forestière',
+    'chemin de fer forestier',
+    'forêt au service du gouvernement',
+    'camphre',
     "interdiction d'abattage",
-    "perspective historique mondiale",
-    "géopolitique",
+    'perspective historique mondiale',
+    'géopolitique',
   ]
-subcategory: "Colonialisme et empire"
-category: "History"
-author: "Taiwan.md Translation Team"
+subcategory: 'Colonialisme et empire'
+category: 'History'
+author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
-translatedFrom: "History/台灣森林開發史.md"
+translatedFrom: 'History/台灣森林開發史.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:8069998f1aa354c8'
+translatedAt: '2026-04-14T12:31:41+08:00'
 ---
 
 > Qui a vraiment pris nos précieuses forêts ? La réponse risque de vous surprendre.

@@ -8,7 +8,10 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Culture/台灣文化創意園區發展.md'
+translatedFrom: "Culture/台灣文化創意園區發展.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:0fec167ed85728d4"
+translatedAt: "2026-04-14T12:33:49+08:00"
 ---
 
 # Le développement des parcs culturels et créatifs à Taïwan
@@ -483,7 +486,7 @@ Les parcs culturels et créatifs de Taïwan sont bien plus que de simples platef
 ## Références
 
 - Ministère de la Culture, [《Rapport annuel sur le développement des industries culturelles et créatives》](https://stat.moc.gov.tw/Research.aspx?type=5), 2023
-- Taiwan Design Center, *Étude sur la gestion des parcs culturels et créatifs*
+- Taiwan Design Center, _Étude sur la gestion des parcs culturels et créatifs_
 - Sites officiels : [Huashan 1914](https://www.huashan1914.com/), [Songshan Cultural and Creative Park](https://www.songshanculturalpark.org/)
-- Association d'urbanisme de la République de Chine (Taïwan), *Régénération urbaine et industries culturelles et créatives*
-- Université nationale Chengchi, *Tendances de développement des parcs culturels et créatifs*
+- Association d'urbanisme de la République de Chine (Taïwan), _Régénération urbaine et industries culturelles et créatives_
+- Université nationale Chengchi, _Tendances de développement des parcs culturels et créatifs_

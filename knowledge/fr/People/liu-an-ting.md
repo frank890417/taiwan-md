@@ -20,7 +20,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 14
 featured: true
 lastVerified: 2026-04-12
-translatedFrom: 'People/劉安婷.md'
+translatedFrom: "People/劉安婷.md"
+sourceCommitSha: "4f008ac1"
+sourceContentHash: "sha256:89e13d5f2d14687c"
+translatedAt: "2026-04-14T19:14:30+08:00"
 ---
 
 > **En 30 secondes :** Liu An-Ting est née en 1989 à Taipei et a grandi à Taichung[^1]. Son père, Liu Yi-Chung, a fondé la fondation sociale Lin Ye Sheng ; sa mère, Lin Yi-Rong, est professeure de musique à l'école expérimentale annexe de l'université d'éducation de Taichung et présidente de la fondation caritative Lin Ye Sheng[^2]. En 2008, après avoir obtenu simultanément des admissions à la NTU (département de littérature anglaise et de science politique) et dans dix universités américaines, elle choisit Princeton — avec une bourse complète[^1]. Pendant ses quatre années d'études, elle enseigne dans des salles de classe en terre battue au Ghana, dans des écoles sous tentes en Haïti, dans des prisons pour jeunes adultes aux États-Unis, dans des banlieues défavorisées de Paris et sur des sites de génocide au Cambodge[^3]. À 23 ans, elle démissionne de son poste de consultante à New York et rentre à Taïwan. En 2013, elle lance **Teach For Taiwan (TFT)** avec un capital de 2 000 dollars taïwanais, neuf personnes et huit écoles à Tainan et Taitung[^4]. En 2016, lors de la cérémonie de remise de diplômes de l'université Cheng Kung, sa question — « **Que faites-vous de votre chance ?** » — est partagée des centaines de milliers de fois et devient un slogan collectif pour toute une génération[^5]. Mais sa phrase la plus constante reste : « **Ne me faites pas confiance en tant qu'individu.** »[^6] En 2024, après le dixième anniversaire de TFT, elle passe la présidence du conseil d'administration à Lin Yan-Xi et devient administratrice[^7]. En onze ans, TFT a formé plus de 400 membres du programme dans neuf comtés, 85 écoles, auprès de plus de 7 500 élèves[^8]. Mais le chef-d'œuvre de Liu An-Ting n'est peut-être pas TFT lui-même — c'est **d'avoir pratiqué, dès le premier jour, l'art de s'en aller**.
@@ -51,7 +54,7 @@ Ces expériences lui font faire le tour du monde de la précarité éducative. P
 
 Pas de façon rhétorique. Elle rentre consulter des données et découvre que même dans un Taïwan prospère, une proportion importante d'élèves des zones défavorisées accuse un retard scolaire grave — sans pouvoir compter sur des enseignants stables et qualifiés[^4]. Ce constat devient le point de départ de TFT.
 
-En 2014, elle publie son premier livre, *Apprendre à tenir bon : j'ai été admise à Princeton*, suivi de *Partir pour mieux rentrer : le chemin de Princeton*[^9]. Les deux livres traitent du même sujet : ce qu'une jeune Taïwanaise apprend dans une grande université américaine, ce n'est pas comment devenir une élite plus brillante — c'est comment devenir quelqu'un qui veut rentrer chez soi.
+En 2014, elle publie son premier livre, _Apprendre à tenir bon : j'ai été admise à Princeton_, suivi de _Partir pour mieux rentrer : le chemin de Princeton_[^9]. Les deux livres traitent du même sujet : ce qu'une jeune Taïwanaise apprend dans une grande université américaine, ce n'est pas comment devenir une élite plus brillante — c'est comment devenir quelqu'un qui veut rentrer chez soi.
 
 ## 2013 : deux mille dollars, neuf personnes, huit écoles
 
@@ -89,11 +92,11 @@ Mais cette exposition amène avec elle **un cadrage narratif qu'elle ne voulait 
 
 En 2013, un discours TEDxTaipei propulse Liu An-Ting du statut d'inconnue à celui de personnalité médiatique[^6]. Les étiquettes qui lui sont accolées : « **brillante diplômée de Princeton qui renonce à un salaire élevé pour enseigner à des enfants ruraux** ». L'histoire devient un récit de sacrifice personnel, plutôt qu'un récit sur la défaillance systémique de l'éducation.
 
-Dans un entretien pour le magazine *Cheers*, elle dit directement : « **Ne me faites pas confiance en tant qu'individu… Ce qui a de l'influence, ce n'est pas moi, c'est la conviction que je porte.** »[^6]
+Dans un entretien pour le magazine _Cheers_, elle dit directement : « **Ne me faites pas confiance en tant qu'individu… Ce qui a de l'influence, ce n'est pas moi, c'est la conviction que je porte.** »[^6]
 
 À l'époque, dans les milieux de l'entrepreneuriat social taïwanais, certains ont pris cette phrase pour de la modestie. Mais Liu An-Ting n'était pas en train de faire la politesse. Les dix ans qui ont suivi ont été la mise en pratique littérale de cette phrase.
 
-Dans un autre entretien pour *Cheers*, elle explique : « **Les médias ont encadré TFT comme une "histoire de héros", pas comme un mouvement systémique.** »[^6] Sa crainte : si le succès de TFT est attribué à « une personne exceptionnelle », cette histoire devient un cas unique impossible à reproduire. Les gens entendent : « Wow, elle est formidable. » Et ne font rien. Mais si le succès de TFT est attribué à « une conviction exceptionnelle », cette histoire devient un point de départ que n'importe qui peut s'approprier.
+Dans un autre entretien pour _Cheers_, elle explique : « **Les médias ont encadré TFT comme une "histoire de héros", pas comme un mouvement systémique.** »[^6] Sa crainte : si le succès de TFT est attribué à « une personne exceptionnelle », cette histoire devient un cas unique impossible à reproduire. Les gens entendent : « Wow, elle est formidable. » Et ne font rien. Mais si le succès de TFT est attribué à « une conviction exceptionnelle », cette histoire devient un point de départ que n'importe qui peut s'approprier.
 
 Cette distinction la tient à cœur. Parce qu'elle a toujours su une chose : **elle partirait un jour, et TFT devait survivre à son départ**.
 
@@ -128,11 +131,11 @@ Concrètement, ce passage de témoin signifie :
 - TFT passe officiellement du modèle « fondatrice + équipe » au modèle « gouvernance professionnelle + fondatrice conseillère »
 - Lin Yan-Xi apporte une expertise en développement du leadership et en évaluation des talents qui complète ce qui était jusqu'ici davantage une organisation tournée vers le terrain
 
-Dans un entretien accordé à *Flip Education*, Liu An-Ting a dit une phrase que l'on peut lire à la lumière de ce passage de témoin : « **La présidente de TFT doit d'abord savoir être un adulte capable d'accepter l'échec et l'imperfection.** »[^14] Ce n'est pas seulement un conseil à son successeur — c'est aussi son bilan personnel des onze années écoulées. Seule une fondatrice capable d'accepter l'imperfection peut quitter le poste qu'elle a créé.
+Dans un entretien accordé à _Flip Education_, Liu An-Ting a dit une phrase que l'on peut lire à la lumière de ce passage de témoin : « **La présidente de TFT doit d'abord savoir être un adulte capable d'accepter l'échec et l'imperfection.** »[^14] Ce n'est pas seulement un conseil à son successeur — c'est aussi son bilan personnel des onze années écoulées. Seule une fondatrice capable d'accepter l'imperfection peut quitter le poste qu'elle a créé.
 
 ## Pas une fin, un nouveau départ
 
-La jeune femme de 24 ans de *Apprendre à tenir bon*, et celle de 35 ans qui passe la présidence de TFT en 2024 : est-ce la même personne ?
+La jeune femme de 24 ans de _Apprendre à tenir bon_, et celle de 35 ans qui passe la présidence de TFT en 2024 : est-ce la même personne ?
 
 En surface, l'écart semble immense. À 24 ans, revenue de New York, portée par l'enthousiasme et les idéaux ; à 35 ans, forte de onze ans d'expérience, d'un réseau de plus de 400 alumni, d'une organisation qui a traversé trois renouvellements de conseil et dont une citation est devenue un lieu commun. Mais en regardant chacun de ses choix sur ces onze ans, on découvre qu'elle a toujours fait la même chose : **rendre cela possible sans elle**.
 
@@ -182,7 +185,7 @@ C'est l'histoire de la figure la plus mémorable du mouvement éducatif de cette
 
 [^8]: [TFT — Rapport d'impact 10 ans](https://10yearimpact.teach4taiwan.org/) — Bilan décennal : plus de 400 membres formés, 9 comtés, 85 écoles, plus de 7 500 élèves accompagnés.
 
-[^9]: [Apprendre à tenir bon — librairie en ligne](https://www.books.com.tw/products/0010676071) — Premier livre de Liu An-Ting, 2014. Suivi de *Partir pour mieux rentrer*. Les deux portent sur la même question : qu'apprend-on vraiment dans une grande université américaine ?
+[^9]: [Apprendre à tenir bon — librairie en ligne](https://www.books.com.tw/products/0010676071) — Premier livre de Liu An-Ting, 2014. Suivi de _Partir pour mieux rentrer_. Les deux portent sur la même question : qu'apprend-on vraiment dans une grande université américaine ?
 
 [^10]: [Le couple qui réinvente l'éducation — Podcast Mingren Shufang, Apple Podcasts](https://podcasts.apple.com/us/podcast/ep10-%E7%BF%BB%E8%BD%89%E6%95%99%E8%82%B2%E5%A4%AB%E5%A6%BB%E6%AA%94%E5%8A%89%E5%AE%89%E5%A9%B7-%E5%91%82%E5%86%A0%E7%B7%AF-%E5%BE%9E%E4%BA%BA%E6%89%8D%E5%9F%B9%E8%82%B2%E8%91%97%E6%89%8B%E6%94%B9%E8%AE%8A%E5%8F%B0%E7%81%A3%E7%9A%84%E9%A2%A8%E6%99%AF/id1552178275?i=1000507931963) — Entretien avec Liu An-Ting et Lü Guan-Wei sur leurs approches complémentaires de la formation des talents et de la transformation éducative à Taïwan.
 

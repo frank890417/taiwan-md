@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3ce9f00d5b274081'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 섬의 산과 바다의 정점：대만 국립공원의 생태와 지형

@@ -17,6 +17,9 @@ category: 'Geography'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9dea4a4cafb753d9'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's Biodiversity Hotspots

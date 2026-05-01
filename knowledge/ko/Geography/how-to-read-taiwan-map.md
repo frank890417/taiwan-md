@@ -25,6 +25,9 @@ readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
+sourceCommitSha: 'e70c87a8'
+sourceContentHash: 'sha256:abbfc58a10b3e4aa'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 대만 지도 읽는 법: 고구마에서 위성까지, 400년의 시선

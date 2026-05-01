@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/陳玉勳.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:37de07b59dc6f1fd'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 천위쉰: 대만 코미디 영화의 따뜻한 마술사

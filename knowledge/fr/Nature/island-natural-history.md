@@ -22,6 +22,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-04-01
 translatedFrom: 'Nature/台灣島嶼博物學.md'
+sourceCommitSha: '540031d7'
+sourceContentHash: 'sha256:371da55946bd0c24'
+translatedAt: '2026-04-14T19:22:26+08:00'
 ---
 
 > **En 30 secondes :** Durant les glaciations, un pont terrestre permit aux espèces continentales de migrer vers le sud ; piégées dans les montagnes de Taïwan, elles évoluèrent en espèces endémiques. La punaise des cocotiers découverte par Kano Tadao à Orchid Island révéla que cette petite île, à 80 km de Taïwan, est biologiquement philippine. Pourtant, ce même détroit de Bashi vit, il y a 5 000 ans, les ancêtres des peuples austronésiens partir de Taïwan pour se disperser dans le Pacifique — leur présence inscrite jusque dans l'ADN du mûrier à papier.

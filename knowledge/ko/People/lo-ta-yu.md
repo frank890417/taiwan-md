@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/羅大佑.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2b0a18557d65ed7e'
+translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 
 # 뤄다유(羅大佑): 화어 팝음악의 대부

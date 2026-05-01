@@ -22,6 +22,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Taiwanese_danb
 imageAlt: '대만식 단빙'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣早餐文化.md'
+sourceCommitSha: '82d9f045'
+sourceContentHash: 'sha256:dd384a5d10cf3ad6'
+translatedAt: '2026-04-27T12:33:10+08:00'
 ---
 
 # 대만 아침식사 문화

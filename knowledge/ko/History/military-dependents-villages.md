@@ -11,6 +11,9 @@ category: 'History'
 featured: true
 lastVerified: 2026-03-22
 translatedFrom: 'History/台灣眷村歷史.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e26ca70cc051b743'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 # 대만 군인 가족 마을의 역사

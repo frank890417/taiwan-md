@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：研華科技.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9704201e3df16190'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약**

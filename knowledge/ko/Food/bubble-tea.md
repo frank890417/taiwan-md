@@ -13,6 +13,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Classic_bubble_tea.j
 imageAlt: '쩐주나이차'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/珍珠奶茶.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:95857cbd0268032d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 쩐주나이차(珍珠奶茶)

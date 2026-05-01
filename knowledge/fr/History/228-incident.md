@@ -2,7 +2,16 @@
 title: "L'Incident du 28 février 1947 — Dix jours qui ont changé Taïwan"
 description: "Comment le stand de cigarettes d'une veuve a allumé trente-huit ans de silence sur une île entière : les dix jours de février 1947 qui ont scellé le destin de Taïwan, et une blessure qui, soixante-dix-huit ans plus tard, n'est toujours pas refermée."
 date: 2026-03-31
-tags: [histoire, politique, justice transitionnelle, terreur blanche, démocratisation, loi martiale, 228]
+tags:
+  [
+    histoire,
+    politique,
+    justice transitionnelle,
+    terreur blanche,
+    démocratisation,
+    loi martiale,
+    228,
+  ]
 subcategory: 'Histoire militaire'
 category: 'History'
 author: 'Taiwan.md Translation Team'
@@ -11,6 +20,9 @@ featured: true
 translatedFrom: 'History/二二八事件.md'
 lastVerified: 2026-03-31
 lastHumanReview: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:634ee0a75c18646d'
+translatedAt: '2026-04-14T12:31:41+08:00'
 ---
 
 # L'Incident du 28 Février
@@ -70,7 +82,7 @@ Au matin du 8 mars, la 21e Division réorganisée de l'armée nationaliste déba
 
 ### Après le 9 mars : les « opérations de pacification »
 
-L'armée entreprit des « opérations de pacification » (*qingxiang*), fouillant les maisons une à une. Quiconque avait fait des études, exercé le droit, la médecine, l'enseignement, écrit des articles — et surtout quiconque s'était exprimé au sein des comités de traitement — risquait d'être emmené.
+L'armée entreprit des « opérations de pacification » (_qingxiang_), fouillant les maisons une à une. Quiconque avait fait des études, exercé le droit, la médecine, l'enseignement, écrit des articles — et surtout quiconque s'était exprimé au sein des comités de traitement — risquait d'être emmené.
 
 La logique de ces opérations était celle de la terreur : éliminer les intellectuels capables de s'organiser, réduire les survivants au silence. Ce fut plus difficile à documenter qu'un massacre ouvert, car cela ne nécessitait aucune annonce publique — seulement des coups frappés à une porte au milieu de la nuit, une voiture garée devant l'entrée, puis le vide absolu.
 
@@ -80,16 +92,16 @@ Beaucoup furent réveillés par des coups à leur porte en pleine nuit, et ne re
 
 L'une des caractéristiques les plus cruelles de l'Incident du 28 Février est qu'il élimina systématiquement l'élite de la société taïwanaise — ceux qui auraient été les mieux à même de témoigner de ces événements devant la communauté internationale furent parmi les premiers à disparaître.
 
-**Lin Maosheng**, premier docteur en philosophie de Taïwan, titulaire d'un doctorat de l'Université Columbia, était l'un des intellectuels les mieux formés à la pensée occidentale que l'île ait jamais produit. Après la guerre, il contribua à reprendre en main l'Université impériale de Taipei, participa à la fondation de l'Université nationale de Taïwan, et créa le journal *Minbao* pour documenter le chaos de l'après-guerre. Le soir du 11 mars 1947, huit hommes armés arrivèrent en voiture chez lui et l'emmenèrent. Son fils Lin Zongping se souvint plus tard : « Le lendemain matin, la domestique arriva en courant pour nous dire : "On a emmené le vieux maître hier soir. Les choses ont l'air mauvaises. La vieille dame est très inquiète." » Lin Maosheng disparut comme si la terre l'avait avalé ; sa dépouille ne fut jamais retrouvée. Ce n'est qu'en 2025 que le tribunal de district de Taipei prononça officiellement sa déclaration de décès — soixante-dix-huit ans après son enlèvement.
+**Lin Maosheng**, premier docteur en philosophie de Taïwan, titulaire d'un doctorat de l'Université Columbia, était l'un des intellectuels les mieux formés à la pensée occidentale que l'île ait jamais produit. Après la guerre, il contribua à reprendre en main l'Université impériale de Taipei, participa à la fondation de l'Université nationale de Taïwan, et créa le journal _Minbao_ pour documenter le chaos de l'après-guerre. Le soir du 11 mars 1947, huit hommes armés arrivèrent en voiture chez lui et l'emmenèrent. Son fils Lin Zongping se souvint plus tard : « Le lendemain matin, la domestique arriva en courant pour nous dire : "On a emmené le vieux maître hier soir. Les choses ont l'air mauvaises. La vieille dame est très inquiète." » Lin Maosheng disparut comme si la terre l'avait avalé ; sa dépouille ne fut jamais retrouvée. Ce n'est qu'en 2025 que le tribunal de district de Taipei prononça officiellement sa déclaration de décès — soixante-dix-huit ans après son enlèvement.
 
 > **💡 Le saviez-vous ?**
 > Sous l'occupation japonaise, Lin Maosheng écrivait avec amertume : « Chaque fois que je reçois ma feuille de paie, je ressens douloureusement la discrimination dont je suis victime. Les Japonais perçoivent une prime de soixante pour cent, en plus des allocations familiales — le salaire des Japonais est le double de celui des provinciaux. » Toute sa vie, il lutta pour l'égalité — d'abord contre la discrimination japonaise, puis pour bâtir un système éducatif équitable dans le nouvel ordre politique. Ce fut finalement le gouvernement qu'il avait cru être sa « patrie » qui envoya des hommes le chercher. (Source : [Page commémorative de Lin Maosheng, Fondation commémorative du 228](https://www.228.org.tw/228_elites-view.php?ID=26))
 
 **Tang Dejang**, avocat à Tainan, né d'un père japonais et d'une mère taïwanaise. Ancien policier, il avait été contraint de démissionner pour avoir dénoncé publiquement un cas de violence d'un Japonais contre un jeune Taïwanais. Il se rendit ensuite au Japon, réussit l'examen de la haute fonction publique japonaise, et devint avocat. Lors de l'incident du 28 Février, il parcourut Tainan pour tenter de dissuader les habitants d'avoir recours à la violence, contribuant ainsi à maintenir un calme relatif dans la ville pendant un temps. Mais à l'arrivée de l'armée, il fut arrêté sous la qualification de « meneur de la rébellion ». Sans aucun procès, il fut exécuté publiquement le 13 mars devant le jardin public de Minsheng à Tainan (aujourd'hui le parc commémoratif Tang Dejang). Il avait quarante ans. La municipalité de Tainan a depuis fait du 13 mars sa « Journée de la justice et du courage ».
 
-**Wang Tiandeng**, conseiller provincial et rédacteur en chef du *Renmin Daobao* (journal du Peuple), était l'un des principaux auteurs des trente-deux revendications. Sachant le danger qu'il courait, il refusa de fuir l'île. Des témoins rapportèrent qu'après son arrestation, couvert de sang à la suite des tortures subies, il continua à argumenter avec calme et dignité devant ses geôliers militaires. Il fut finalement aspergé d'essence et brûlé vif. Il avait quarante-cinq ans et laissait cinq enfants mineurs. (D'après les archives de Su Xin, rédacteur au *Renmin Daobao*, et de Zhang Yanxian, citées dans [Storm Media : l'histoire de Wang Tiandeng](https://www.storm.mg/article/83492))
+**Wang Tiandeng**, conseiller provincial et rédacteur en chef du _Renmin Daobao_ (journal du Peuple), était l'un des principaux auteurs des trente-deux revendications. Sachant le danger qu'il courait, il refusa de fuir l'île. Des témoins rapportèrent qu'après son arrestation, couvert de sang à la suite des tortures subies, il continua à argumenter avec calme et dignité devant ses geôliers militaires. Il fut finalement aspergé d'essence et brûlé vif. Il avait quarante-cinq ans et laissait cinq enfants mineurs. (D'après les archives de Su Xin, rédacteur au _Renmin Daobao_, et de Zhang Yanxian, citées dans [Storm Media : l'histoire de Wang Tiandeng](https://www.storm.mg/article/83492))
 
-**Chen Chengpo**, conseiller municipal de Chiayi et l'un des peintres à l'huile les plus importants que Taïwan ait jamais produit. Il se rendit à l'aéroport de Shuishang avec l'intention sincère de négocier une résolution pacifique avec l'armée. Arrêté, il fut exécuté publiquement devant la gare de Chiayi. Son œuvre *Rue à l'extérieur de Chiayi* est conservée au Musée d'art de Taipei — les rues lumineuses de Chiayi représentées sur cette toile forment le contraste le plus cruel avec la dernière rue que ses yeux virent. Pendant des décennies, sa famille conserva secrètement ses peintures ; il fallut attendre la levée de la loi martiale pour que sa mort puisse être évoquée publiquement.
+**Chen Chengpo**, conseiller municipal de Chiayi et l'un des peintres à l'huile les plus importants que Taïwan ait jamais produit. Il se rendit à l'aéroport de Shuishang avec l'intention sincère de négocier une résolution pacifique avec l'armée. Arrêté, il fut exécuté publiquement devant la gare de Chiayi. Son œuvre _Rue à l'extérieur de Chiayi_ est conservée au Musée d'art de Taipei — les rues lumineuses de Chiayi représentées sur cette toile forment le contraste le plus cruel avec la dernière rue que ses yeux virent. Pendant des décennies, sa famille conserva secrètement ses peintures ; il fallut attendre la levée de la loi martiale pour que sa mort puisse être évoquée publiquement.
 
 Ces quatre destins ne sont que les récits nommés parmi d'innombrables autres similaires. La plupart des victimes n'eurent même pas la chance d'être consignées quelque part.
 
@@ -134,13 +146,13 @@ Ce n'était plus seulement le traumatisme d'un massacre. C'était une ingénieri
 
 En 1987, Taïwan leva la loi martiale. Mais il fallut bien plus de courage pour prendre la parole que quiconque ne l'imaginait.
 
-L'une des premières personnes à briser le silence fut Cheng Nanrong. En 1987, dans son hebdomadaire *Freedom Era Weekly*, il organisa des commémorations du 28 Février — c'était la première fois en quarante ans que quelqu'un évoquait publiquement cet événement dans la presse. En 1989, accusé de trahison pour avoir publié un projet de constitution de la République de Taïwan, et refusant de capituler au nom de la liberté d'expression, il s'immola par le feu dans les locaux de sa revue. Il avait quarante et un ans. Sa phrase « Je suis Cheng Nanrong, et je défends l'indépendance de Taïwan » devint, après sa mort, une page de l'histoire. Sa disparition bouleversa la société taïwanaise et accéléra le dégel de la mémoire historique.
+L'une des premières personnes à briser le silence fut Cheng Nanrong. En 1987, dans son hebdomadaire _Freedom Era Weekly_, il organisa des commémorations du 28 Février — c'était la première fois en quarante ans que quelqu'un évoquait publiquement cet événement dans la presse. En 1989, accusé de trahison pour avoir publié un projet de constitution de la République de Taïwan, et refusant de capituler au nom de la liberté d'expression, il s'immola par le feu dans les locaux de sa revue. Il avait quarante et un ans. Sa phrase « Je suis Cheng Nanrong, et je défends l'indépendance de Taïwan » devint, après sa mort, une page de l'histoire. Sa disparition bouleversa la société taïwanaise et accéléra le dégel de la mémoire historique.
 
 En 1991, Taïwan abrogeait les « Dispositions provisoires sur les punitions pour rébellion », mettant fin à quatre décennies de persécution politique organisée. La même année, la « Loi sur les infractions de police » fut abrogée. Ces réformes constituèrent des jalons déterminants dans le processus de démocratisation de Taïwan, et rendirent enfin légalement possible une discussion publique ouverte sur le 28 Février.
 
 Dès lors, la mémoire jaillit comme une nappe phréatique trop longtemps comprimée.
 
-**En 1992**, l'Exécutif publia le *Rapport de recherche sur l'Incident du 28 Février*, premier document officiel dans lequel le gouvernement reconnaissait la violence d'État commise lors de l'événement. Son auteur principal, Lai Zehán, affirma que des milliers de morts étaient une estimation plus raisonnable, tout en admettant qu'« il est impossible aujourd'hui de fournir un chiffre précis ».
+**En 1992**, l'Exécutif publia le _Rapport de recherche sur l'Incident du 28 Février_, premier document officiel dans lequel le gouvernement reconnaissait la violence d'État commise lors de l'événement. Son auteur principal, Lai Zehán, affirma que des milliers de morts étaient une estimation plus raisonnable, tout en admettant qu'« il est impossible aujourd'hui de fournir un chiffre précis ».
 
 **En 1995**, le président Lee Teng-hui, au nom du gouvernement, présenta ses excuses aux familles des victimes. Lors de la cérémonie d'inauguration du monument commémoratif, il déclara : « Assumer les fautes commises par le gouvernement, et présenter mes sincères excuses. » (Source : [Images d'archives CTS, 28/02/1992](https://news.cts.com.tw/cts/general/202002/202002281992012.html)) Ce fut la première fois qu'un chef d'État en exercice présentait des excuses publiques pour le 28 Février — une étape majeure dans la justice transitionnelle taïwanaise.
 
@@ -158,7 +170,7 @@ Pendant les événements, une partie des habitants en colère s'en prit physique
 
 Cette fracture fut rouverte, suturée, puis rouverte à nouveau dans les luttes politiques qui suivirent. La « contradiction provinciale » devint la structure de fond de la politique taïwanaise : quel parti gouvernait et comment il interprétait le 28 Février influençait directement la capacité de cette blessure à se refermer vraiment.
 
-Les historiens continuent de débattre de la qualification de l'événement : certains y voient un mouvement national de résistance d'un peuple colonisé contre un pouvoir étranger ; d'autres soulignent la complexité des tensions ethniques, qu'il serait réducteur de simplifier à l'excès ; d'autres encore soutiennent qu'il s'agissait d'abord d'un échec de gouvernance, et seulement ensuite d'un conflit ethnique. L'historienne Chen Cuilián, dans son ouvrage *Luttes de factions et politique des intrigues*, souligne que les rivalités internes au gouvernement Chen Yi — notamment la concurrence entre le Juntong et le CC clique — furent un facteur déterminant qui empêcha toute gestion appropriée de la crise.
+Les historiens continuent de débattre de la qualification de l'événement : certains y voient un mouvement national de résistance d'un peuple colonisé contre un pouvoir étranger ; d'autres soulignent la complexité des tensions ethniques, qu'il serait réducteur de simplifier à l'excès ; d'autres encore soutiennent qu'il s'agissait d'abord d'un échec de gouvernance, et seulement ensuite d'un conflit ethnique. L'historienne Chen Cuilián, dans son ouvrage _Luttes de factions et politique des intrigues_, souligne que les rivalités internes au gouvernement Chen Yi — notamment la concurrence entre le Juntong et le CC clique — furent un facteur déterminant qui empêcha toute gestion appropriée de la crise.
 
 Ces différents cadres interprétatifs correspondent à différentes positions politiques dans la société taïwanaise, et reflètent la difficulté qu'éprouve une société confrontée à ses propres pages les plus sombres — chaque interprétation contient une part de vérité, et chacune porte aussi une part de blessure.
 
@@ -193,7 +205,7 @@ Peu importe ce que ce papier contenait. Ce qui compte, c'est que quelqu'un, enfi
 - [Musée national commémoratif du 28 Février](https://www.228.org.tw/) — exposition permanente, archives d'histoire orale (source primaire)
 - [Wikipédia : Bilan humain de l'Incident du 28 Février](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6%E6%AD%BB%E5%82%B7%E4%BA%BA%E6%95%B8) — synthèse des estimations et des controverses
 - [Wikipédia : Incident du 28 Février](https://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6) — référence générale, perspectives multiples
-- Chen Yishen & Xue Huayuan (2021) *Rapport d'attribution des responsabilités de l'Incident du 28 Février* — données officielles les plus récentes sur les victimes (source primaire, académique)
+- Chen Yishen & Xue Huayuan (2021) _Rapport d'attribution des responsabilités de l'Incident du 28 Février_ — données officielles les plus récentes sur les victimes (source primaire, académique)
 - [Page commémorative de Lin Maosheng, Fondation du 28 Février](https://www.228.org.tw/228_elites-view.php?ID=26) — biographie et récit de la persécution de Lin Maosheng (source primaire)
 - [Storm Media : l'histoire de Wang Tiandeng](https://www.storm.mg/article/83492) — biographie et récit du martyre de Wang Tiandeng
 - [The News Lens : l'avocat Tang Dejang](https://www.thenewslens.com/article/115558) — biographie et récit de la persécution de Tang Dejang

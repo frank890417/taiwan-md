@@ -11,7 +11,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+translatedFrom: "Geography/台灣島嶼地理特色與形成.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:e8f1153627b23acc"
+translatedAt: "2026-04-15T17:33:26+08:00"
 ---
 
 # Caractéristiques géographiques et formation de l'île de Taïwan
@@ -59,11 +62,11 @@ Malgré sa superficie modeste, Taïwan concentre l'histoire géologique depuis l
 
 La structure topographique de Taïwan illustre parfaitement le profil d'une « île de haute montagne » :
 
-| Type de relief | Altitude | Part de superficie | Principales zones |
-| --- | --- | --- | --- |
-| **Montagnes** | Plus de 1 000 m | 29 % | Cordillère centrale, Chaîne Xuě, Chaîne d'Alishan |
-| **Collines et plateaux** | 100–1 000 m | 40 % | Collines de Miaoli, collines de Zhudong, plateau de Linkou |
-| **Plaines et bassins** | Moins de 100 m | 31 % | Plaine de Jianan, plaine de Pingtung, bassin de Taipei |
+| Type de relief           | Altitude        | Part de superficie | Principales zones                                          |
+| ------------------------ | --------------- | ------------------ | ---------------------------------------------------------- |
+| **Montagnes**            | Plus de 1 000 m | 29 %               | Cordillère centrale, Chaîne Xuě, Chaîne d'Alishan          |
+| **Collines et plateaux** | 100–1 000 m     | 40 %               | Collines de Miaoli, collines de Zhudong, plateau de Linkou |
+| **Plaines et bassins**   | Moins de 100 m  | 31 %               | Plaine de Jianan, plaine de Pingtung, bassin de Taipei     |
 
 ### La disposition en échelon des chaînes montagneuses
 
@@ -234,12 +237,12 @@ Face à la double pression du changement climatique et du développement humain,
 
 ## Références
 
-1. [Bureau de l'enquête géologique et de la gestion minière, Ministère des affaires économiques](https://www.gsmma.gov.tw/) (2023). *Introduction à la géologie de Taïwan*.
-2. [Administration centrale de météorologie](https://www.cwa.gov.tw/) (2024). *Statistiques climatiques de Taïwan*.
-3. Lin Zhao-qi (2019). *Géomorphologie de Taïwan*. Wu-Nan Books.
-4. He Chun-sun (2018). *Introduction à la géologie de Taïwan*. Bureau central de l'enquête géologique, Ministère des affaires économiques.
-5. Centre de cartographie du territoire national, Ministère de l'intérieur (2024). *Annuaire statistique des relevés du territoire national*.
-6. Wang Xin (2017). *Les paysages géomorphologiques de Taïwan*. Yuzu Culture.
+1. [Bureau de l'enquête géologique et de la gestion minière, Ministère des affaires économiques](https://www.gsmma.gov.tw/) (2023). _Introduction à la géologie de Taïwan_.
+2. [Administration centrale de météorologie](https://www.cwa.gov.tw/) (2024). _Statistiques climatiques de Taïwan_.
+3. Lin Zhao-qi (2019). _Géomorphologie de Taïwan_. Wu-Nan Books.
+4. He Chun-sun (2018). _Introduction à la géologie de Taïwan_. Bureau central de l'enquête géologique, Ministère des affaires économiques.
+5. Centre de cartographie du territoire national, Ministère de l'intérieur (2024). _Annuaire statistique des relevés du territoire national_.
+6. Wang Xin (2017). _Les paysages géomorphologiques de Taïwan_. Yuzu Culture.
 7. Wikipédia (2025). « Géographie de Taïwan ». [Ressource en ligne](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E5%9C%B0%E7%90%86)
 8. Wikipédia (2022). « Géologie de Taïwan ». [Ressource en ligne](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%9C%B0%E8%B3%AA)
 9. Réseau de conservation des paysages de Taïwan, Bureau des forêts. « Composition et caractéristiques des paysages insulaires ». [Ressource en ligne](https://landscape.forest.gov.tw/)

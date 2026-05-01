@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4e725951b40f47ce'
+translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 
 > **30초 요약:** 2024년 3월, 대만 마술 YouTuber 'Chi Hsuan Tricking'이 대만 최초로 구독자 1,000만 명을 돌파했다. 이는 2008년 차이아가(蔡阿嘎)의 愛臺灣 시사 영상에서 시작된 대만 YouTube 문화가 국제 경쟁력 있는 콘텐츠 수출 플랫폼으로 진화했음을 보여주는 이정표다. YouTube의 18세 이상 대만 이용자 도달률은 90%를 넘고, 대만 크리에이터의 광고 수익은 전체 소득의 20~40%에 불과하며 대부분 협찬으로 생계를 유지한다. VTuber 산업은 새로운 강자로 급부상 중이다.

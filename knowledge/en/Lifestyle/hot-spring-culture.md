@@ -19,6 +19,9 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5c053dd9110acc9b'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Hot Spring Culture: From Military Medicine to World-Class Mud Springs

@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/楊右任.md'
 readingTime: 8
 featured: false
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:ffd477fca05ec608'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 # 양유런 — 길거리 낙서 중퇴생에서 아프리카 신발 구호 영웅으로

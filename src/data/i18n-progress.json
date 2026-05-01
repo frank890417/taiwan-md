@@ -1,76 +1,146 @@
 {
-  "total_zh": 444,
-  "total_en": 489,
-  "coverage_en": 110.1,
-  "categories": {
-    "People": {
-      "zh": 112,
-      "en": 123
+  "generated": "2026-05-01T11:05:06Z",
+  "max_total": 1956,
+  "modules": [
+    {
+      "name": "home",
+      "langs": {
+        "zh-TW": 73,
+        "en": 73,
+        "ja": 73,
+        "ko": 73,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Economy": {
-      "zh": 47,
-      "en": 52
+    {
+      "name": "about",
+      "langs": {
+        "zh-TW": 233,
+        "en": 233,
+        "ja": 233,
+        "ko": 233,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Food": {
-      "zh": 30,
-      "en": 39
+    {
+      "name": "contribute",
+      "langs": {
+        "zh-TW": 325,
+        "en": 325,
+        "ja": 325,
+        "ko": 325,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "History": {
-      "zh": 21,
-      "en": 20
+    {
+      "name": "changelog",
+      "langs": {
+        "zh-TW": 12,
+        "en": 12,
+        "ja": 12,
+        "ko": 12,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Technology": {
-      "zh": 22,
-      "en": 24
+    {
+      "name": "dashboard",
+      "langs": {
+        "zh-TW": 74,
+        "en": 74,
+        "ja": 74,
+        "ko": 74,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Culture": {
-      "zh": 33,
-      "en": 40
+    {
+      "name": "data",
+      "langs": {
+        "zh-TW": 262,
+        "en": 262,
+        "ja": 262,
+        "ko": 262,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Nature": {
-      "zh": 24,
-      "en": 26
+    {
+      "name": "resources",
+      "langs": {
+        "zh-TW": 361,
+        "en": 361,
+        "ja": 361,
+        "ko": 361,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Society": {
-      "zh": 25,
-      "en": 26
+    {
+      "name": "map",
+      "langs": {
+        "zh-TW": 448,
+        "en": 448,
+        "ja": 448,
+        "ko": 448,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Lifestyle": {
-      "zh": 17,
-      "en": 22
+    {
+      "name": "assets",
+      "langs": {
+        "zh-TW": 34,
+        "en": 34,
+        "ja": 34,
+        "ko": 34,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Geography": {
-      "zh": 18,
-      "en": 25
+    {
+      "name": "notfound",
+      "langs": {
+        "zh-TW": 29,
+        "en": 29,
+        "ja": 29,
+        "ko": 29,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "es": {
-      "zh": 34,
-      "en": 0
+    {
+      "name": "taiwanShape",
+      "langs": {
+        "zh-TW": 46,
+        "en": 46,
+        "ja": 46,
+        "ko": 46,
+        "fr": 0,
+        "es": 0
+      }
     },
-    "Music": {
-      "zh": 20,
-      "en": 22
-    },
-    "ja": {
-      "zh": 7,
-      "en": 0
-    },
-    "Art": {
-      "zh": 26,
-      "en": 58
-    },
-    "About": {
-      "zh": 6,
-      "en": 6
-    },
-    "resources": {
-      "zh": 2,
-      "en": 2
-    },
-    "root": {
-      "zh": 0,
-      "en": 4
+    {
+      "name": "semiont",
+      "langs": {
+        "zh-TW": 59,
+        "en": 59,
+        "ja": 0,
+        "ko": 0,
+        "fr": 0,
+        "es": 0
+      }
     }
-  },
-  "updated": "2026-03-25"
+  ],
+  "lang_totals": {
+    "zh-TW": { "keys": 1956, "coverage_pct": 100.0 },
+    "en": { "keys": 1956, "coverage_pct": 100.0 },
+    "ja": { "keys": 1897, "coverage_pct": 96.98 },
+    "ko": { "keys": 1897, "coverage_pct": 96.98 },
+    "fr": { "keys": 0, "coverage_pct": 0.0 },
+    "es": { "keys": 0, "coverage_pct": 0.0 }
+  }
 }

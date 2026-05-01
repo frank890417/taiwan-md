@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣農業地景與產業分布.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a43ae2332c3edc7d'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 # 대만의 농업 경관과 산업 분포

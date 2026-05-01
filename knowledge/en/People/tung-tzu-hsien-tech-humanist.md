@@ -7,6 +7,9 @@ tags:
 subcategory: 'Tech & Business'
 lastVerified: 2026-03-20
 translatedFrom: 'People/童子賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c1d775b461f7938c'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Tung Tzu-hsien (童子賢): The Tech-Humanist Bridge Builder

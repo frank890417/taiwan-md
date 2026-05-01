@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Music/茄子蛋.md'
+sourceCommitSha: '377006e0'
+sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
+translatedAt: '2026-04-14T10:22:29+08:00'
 ---
 
 # 가지달걀 EggPlantEgg

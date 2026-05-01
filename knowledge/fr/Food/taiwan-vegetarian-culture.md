@@ -2,7 +2,14 @@
 title: 'La culture végétarienne à Taïwan'
 description: 'Taïwan figure parmi les pays ayant les taux de végétarisme les plus élevés au monde — une tradition ancrée dans le bouddhisme, réinventée par la modernité'
 date: 2026-03-19
-tags: ['végétarisme', 'bouddhisme', 'substituts de viande', 'Tzu Chi', 'restaurants végétariens']
+tags:
+  [
+    'végétarisme',
+    'bouddhisme',
+    'substituts de viande',
+    'Tzu Chi',
+    'restaurants végétariens',
+  ]
 subcategory: 'Philosophie alimentaire'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Food/台灣素食文化.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:24a4870b5a8b1b34'
+translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 
 # La culture végétarienne à Taïwan

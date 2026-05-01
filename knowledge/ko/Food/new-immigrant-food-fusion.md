@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Food/台灣新住民美食融合.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:4cea918b3c765295'
+translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 
 # 타이완 신주민 음식 문화 융합

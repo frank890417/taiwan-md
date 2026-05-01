@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/陳建仁.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:95a660352fbbce5b'
+translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 
 # 천젠런: 학자에서 정치인으로, 공중보건의 전문가

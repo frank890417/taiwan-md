@@ -19,6 +19,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 translatedFrom: 'Society/台灣災難志工文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:8688a76c3659d6fa'
+translatedAt: '2026-04-14T05:53:10+08:00'
 ---
 
 # 삽을 든 슈퍼히어로와 섬의 공시성: 대만 재난 자원봉사 문화가 국가 정체성을 형성하는 방식

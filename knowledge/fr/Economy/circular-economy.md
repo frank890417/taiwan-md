@@ -3,16 +3,26 @@ title: "L'économie circulaire à Taïwan : ressources, recyclage et durabilité
 description: "De l'économie linéaire au modèle circulaire, Taïwan a bâti un système de recyclage et de valorisation des déchets reconnu à l'échelle mondiale"
 date: 2026-03-18
 tags:
-  ["économie circulaire", "recyclage", "gestion des déchets", "développement durable", "politique environnementale", "valorisation des ressources"]
-subcategory: "Énergie et durabilité"
-category: "Economy"
-author: "Taiwan.md Translation Team"
-difficulty: "intermediate"
+  [
+    'économie circulaire',
+    'recyclage',
+    'gestion des déchets',
+    'développement durable',
+    'politique environnementale',
+    'valorisation des ressources',
+  ]
+subcategory: 'Énergie et durabilité'
+category: 'Economy'
+author: 'Taiwan.md Translation Team'
+difficulty: 'intermediate'
 readingTime: 14
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: "Economy/台灣循環經濟與資源再利用.md"
+translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:14226e8150e93598'
+translatedAt: '2026-04-14T19:21:33+08:00'
 ---
 
 # L'économie circulaire à Taïwan : ressources, recyclage et durabilité

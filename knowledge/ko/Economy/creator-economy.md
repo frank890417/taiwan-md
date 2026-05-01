@@ -10,6 +10,9 @@ readingTime: 8
 lastVerified: 2026-03-29
 featured: false
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:96a6ae9b363e959a'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 > 대만의 인플루언서 광고 시장 규모는 약 2.1억 달러로, 미국의 1%가 채 안 된다. 그런데도 대만 중형 크리에이터 한 명이 동시에 운영하는 플랫폼 수는 5~7개—YouTube, 인스타그램, 페이스북, Threads, 팟캐스트, 블로그, LINE—에 달해 미국 동급 크리에이터의 거의 두 배다. 시장은 극도로 작고 플랫폼은 극도로 파편화되어 있으며, 수익 창출은 구독제가 아닌 제휴 마케팅에 의존한다. 이것은 완전히 다른 규칙으로 돌아가는 게임이다.

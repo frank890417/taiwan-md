@@ -15,6 +15,9 @@ tags:
 subcategory: 'Sports'
 lastVerified: 2026-03-20
 translatedFrom: 'People/陽岱鋼.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:563a462f0876373a'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Yang Dai-kang: Taiwanese Baseball Star in Japan

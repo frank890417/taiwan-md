@@ -14,6 +14,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/East_Entrance_
 imageAlt: '라오허 야시장 입구의 야경과 네온 간판'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣小吃.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:5204a1234af866a0'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 대만 길거리 음식

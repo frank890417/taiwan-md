@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 6
 featured: false
 translatedFrom: 'People/陳偉殷.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:231187a409527522'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 > **30초 요약:** 陳偉殷은 일본 프로야구에서 메이저리그로 직행한 최초의 대만 투수다. 2016년 5년 8000만 달러(약 25억 신대만 달러) 대만 역대 스포츠 선수 최고액 계약을 체결했지만, 세금과 에이전트 수수료 등을 빼면 실수령액은 47%에 불과했다. 미·일 통산 96승, MLB 59승은 王建民의 68승에 이어 대만 투수 역대 2위다.

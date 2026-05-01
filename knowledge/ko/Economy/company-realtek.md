@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ab958b73a4cbe23f'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약:** 1987년 일곱 명의 엔지니어가 200만 위안으로 신주 과학단지에 리얼텍 반도체를 창립했다. 게를 로고로 내세운 이 회사는 1991년 대만 최초의 자체 개발 네트워크 칩을 내놓았다. 2024년 매출은 800억 위안을 넘어섰고, 대만 3위 IC 설계 기업으로 성장했다. 전 세계 모든 컴퓨터 안에 '리얼텍 게' 한 마리가 숨어 있을지도 모른다.

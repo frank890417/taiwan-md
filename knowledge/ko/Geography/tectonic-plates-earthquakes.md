@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 16
 featured: true
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b3e3292798f3bf59'
+translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 
 # 대만의 판 구조 운동과 지진 활동

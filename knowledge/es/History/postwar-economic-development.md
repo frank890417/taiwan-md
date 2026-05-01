@@ -11,6 +11,9 @@ tags:
     transformación industrial,
   ]
 translatedFrom: 'History/戰後經濟發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bd943f680a0506bf'
+translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 
 # Desarrollo Económico de Posguerra

@@ -12,6 +12,9 @@ tags:
   ]
 date: 2026-03-17
 translatedFrom: 'Lifestyle/台灣教育制度.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:4e9ca27840e47d5f'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Sistema Educativo de Taiwán

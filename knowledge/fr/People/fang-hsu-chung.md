@@ -2,7 +2,14 @@
 title: 'Fang Hsu-chung'
 description: "Directeur artistique des Golden Melody Awards et des Golden Horse Awards, fondateur de Uniform Studio, figure de proue du design d'identité visuelle à Taïwan"
 date: 2026-03-19
-tags: ['designer', 'identité visuelle', 'Golden Melody Awards', 'Golden Horse Awards', 'Uniform Studio']
+tags:
+  [
+    'designer',
+    'identité visuelle',
+    'Golden Melody Awards',
+    'Golden Horse Awards',
+    'Uniform Studio',
+  ]
 subcategory: 'Arts et design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/方序中.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:09b565df3960bd44'
+translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 
 # Fang Hsu-chung : le rénovateur qui redéfinit l'identité visuelle de Taïwan

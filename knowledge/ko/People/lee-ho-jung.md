@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/李晧禎.md'
 readingTime: 8
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:23d7ff4a25548dd1'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 이호정의 2026년 푸방 복귀는 로스터 깊이만이 아니다——익숙한 리듬을 되돌린다. 그녀의 표식은 높은 출석률과 안정성으로, 한국 서포트를 짧은 프로모 창에서 여러 시즌 콘텐츠 기획으로 옮긴다.

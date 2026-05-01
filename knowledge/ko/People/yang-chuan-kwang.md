@@ -7,6 +7,9 @@ subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/楊傳廣.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5d0505271985f7c6'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 # 양촨광 — 아시아의 철인

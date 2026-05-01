@@ -11,6 +11,9 @@ category: 'Food'
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5dc9bb02298749c4'
+translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 
 # 타이완 미쉐린: 별빛 아래의 대가와 재정의

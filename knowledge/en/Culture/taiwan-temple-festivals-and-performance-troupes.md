@@ -18,6 +18,9 @@ category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Culture/台灣廟會與陣頭文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:5ed11fa29fb0b644'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan Temple Festivals and Performance Troupes

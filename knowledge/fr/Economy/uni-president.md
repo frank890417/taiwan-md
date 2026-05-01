@@ -1,15 +1,25 @@
 ---
-title: 'Uni-President Enterprises : l''empire alimentaire de Taïwan'
-description: 'Comment un enfant-ouvrier de 13 ans est devenu le fondateur d''un groupe générant 657,6 milliards de TWD de chiffre d''affaires'
+title: "Uni-President Enterprises : l'empire alimentaire de Taïwan"
+description: "Comment un enfant-ouvrier de 13 ans est devenu le fondateur d'un groupe générant 657,6 milliards de TWD de chiffre d'affaires"
 date: 2026-03-21
-tags: [Économie, Entreprises, Industrie alimentaire, Commerce de détail, Gestion de marque]
-subcategory: 'Portraits d''entreprises'
+tags:
+  [
+    Économie,
+    Entreprises,
+    Industrie alimentaire,
+    Commerce de détail,
+    Gestion de marque,
+  ]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 translatedFrom: 'Economy/台灣企業：統一企業.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3fb7c059831bdebb'
+translatedAt: '2026-04-14T19:20:58+08:00'
 ---
 
 > **En 30 secondes :** En 1967, Kao Ching-yuan, alors âgé de 38 ans, fonde Uni-President Enterprises à Xuejia, dans le comté de Tainan. Parti d'une modeste minoterie, le groupe affiche en 2024 un chiffre d'affaires record de 657,6 milliards de TWD. Mais Uni-President ne vend pas que des nouilles : en inaugurant son premier 7-ELEVEN le 9 février 1980 à Taipei, l'entreprise a réinventé le quotidien des Taïwanais et fait de la « disponibilité 24h/24 » un symbole culturel propre à Taïwan.
@@ -38,12 +48,12 @@ La percée arrive en 1987. Uni-President crée une filiale indépendante, Uni-Pr
 
 **Chiffres clés 2024 :**
 
-| Indicateur | Valeur |
-|---|---|
+| Indicateur         | Valeur                                            |
+| ------------------ | ------------------------------------------------- |
 | Chiffre d'affaires | 657,6 milliards TWD (+13,19 %, record historique) |
-| Bénéfice net | 20,67 milliards TWD (plus haut niveau en 4 ans) |
-| Effectif mondial | ~250 000 personnes (filiales comprises) |
-| Magasins 7-ELEVEN | 6 800 à Taïwan, 13 000 dans le monde |
+| Bénéfice net       | 20,67 milliards TWD (plus haut niveau en 4 ans)   |
+| Effectif mondial   | ~250 000 personnes (filiales comprises)           |
+| Magasins 7-ELEVEN  | 6 800 à Taïwan, 13 000 dans le monde              |
 
 **Position sur le marché :**
 

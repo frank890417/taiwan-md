@@ -1,6 +1,6 @@
 ---
-title: "Le royaume des fruits de Taïwan"
-description: "Sous la couronne du royaume des fruits, les importations dépassent pour la première fois 30,2 milliards de NT$ — tandis que la production locale recule de 20 % en dix ans. La douce réputation, et ses vérités amères."
+title: 'Le royaume des fruits de Taïwan'
+description: 'Sous la couronne du royaume des fruits, les importations dépassent pour la première fois 30,2 milliards de NT$ — tandis que la production locale recule de 20 % en dix ans. La douce réputation, et ses vérités amères.'
 date: 2026-03-24
 tags:
   [
@@ -24,6 +24,9 @@ featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 translatedFrom: 'Food/台灣水果王國.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cec5a64527d2ad7f'
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # Le royaume des fruits de Taïwan

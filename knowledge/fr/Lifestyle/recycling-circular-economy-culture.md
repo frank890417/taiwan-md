@@ -19,6 +19,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692a1090832374e5'
+translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 
 # L'île qui court après les camions-poubelles : de la crise des déchets au miracle du recyclage à Taïwan
@@ -49,7 +52,7 @@ La nouvelle politique était simple et radicale : suppression de toutes les poub
 
 Encore fallait-il prévenir les riverains de l'approche du camion. Il fallait un signal.
 
-Pourquoi avoir choisi *Pour Élise* (Für Elise) de Beethoven et *La Prière d'une Vierge* (A Maiden's Prayer) de Badarzewska ? Une anecdote populaire veut que le directeur de la santé du gouvernement provincial, Xu Ziqiu, ait entendu sa fille jouer ces deux morceaux au piano en rentrant du travail, et qu'il les ait adoptés sur-le-champ, séduit par leur mélodie. Une autre version soutient que les camions-poubelles importés du Japon dans les années 1960 étaient déjà équipés de boîtes à musique jouant *La Prière d'une Vierge*, et que la tradition s'est perpétuée.
+Pourquoi avoir choisi _Pour Élise_ (Für Elise) de Beethoven et _La Prière d'une Vierge_ (A Maiden's Prayer) de Badarzewska ? Une anecdote populaire veut que le directeur de la santé du gouvernement provincial, Xu Ziqiu, ait entendu sa fille jouer ces deux morceaux au piano en rentrant du travail, et qu'il les ait adoptés sur-le-champ, séduit par leur mélodie. Une autre version soutient que les camions-poubelles importés du Japon dans les années 1960 étaient déjà équipés de boîtes à musique jouant _La Prière d'une Vierge_, et que la tradition s'est perpétuée.
 
 Quelle qu'en soit l'origine, le résultat est là : 23 millions de Taïwanais associent désormais ces deux pièces pour piano au réflexe pavlovien de « vite, descends les ordures ! ». Pour bien des visiteurs étrangers, la scène la plus étonnante de Taïwan n'est ni le marché nocturne ni les temples — c'est cette image d'une rue entière où des gens dégringolent les escaliers, sac à ordures à la main, pour rejoindre un grand camion jaune qui diffuse de la musique classique.
 
@@ -86,13 +89,13 @@ En 1997, l'Agence de protection de l'environnement (EPA) a lancé le « Plan de 
 
 ## Les chiffres parlent d'eux-mêmes
 
-| Indicateur | Années 1990 | 2024 |
-| --- | --- | --- |
-| Taux de recyclage | Proche de 0 % | **55 %** (ménages + entreprises) |
-| Taux de recyclage des déchets industriels | — | **77 %** |
-| Déchets par habitant et par jour | 1,14 kg | **< 0,4 kg** |
-| Taux de recyclage des plastiques | — | **73 %** |
-| Score EPI — gestion des déchets | — | **96,7** (1er en Asie) |
+| Indicateur                                | Années 1990   | 2024                             |
+| ----------------------------------------- | ------------- | -------------------------------- |
+| Taux de recyclage                         | Proche de 0 % | **55 %** (ménages + entreprises) |
+| Taux de recyclage des déchets industriels | —             | **77 %**                         |
+| Déchets par habitant et par jour          | 1,14 kg       | **< 0,4 kg**                     |
+| Taux de recyclage des plastiques          | —             | **73 %**                         |
+| Score EPI — gestion des déchets           | —             | **96,7** (1er en Asie)           |
 
 En comparaison régionale : le Japon obtient 94,4 et la Corée du Sud 82 au classement EPI. La production de déchets par habitant à Taïwan représente la moitié de celle des États-Unis.
 

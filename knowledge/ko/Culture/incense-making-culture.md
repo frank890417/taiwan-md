@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Culture/台灣製香文化與香腳原鄉.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4d2a912d036395eb'
+translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 
 # 대만 향 제조 문화와 향심(香心)의 고향

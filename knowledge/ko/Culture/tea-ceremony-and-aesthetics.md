@@ -10,6 +10,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-25
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
+sourceCommitSha: 'e564525c'
+sourceContentHash: 'sha256:741b3d02ada8cbbb'
+translatedAt: '2026-04-14T07:46:34+08:00'
 ---
 
 # 대만의 다도와 생활 미학

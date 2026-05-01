@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'People/幾米.md'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:e547220b8b7d96eb'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 지미(幾米), 본명 랴오푸빈(廖福彬), 1958년 11월 15일 이란(宜蘭)에서 태어났다. 대만에서 가장 국제적으로 알려진 그림책 작가 중 한 명이다. 《왼쪽으로 걸어요·오른쪽으로 걸어요(向左走·向右走)》, 《지하철(地下鐵)》, 《별하늘(星空)》 등의 작품으로 화어권 독자들의 사랑을 받는 것은 물론, 대만 그림책을 세계 무대에서 빛나게 했다. 큰 병이 인생을 다시 보게 했고, 그 계기가 그림책 창작의 문을 열었다.

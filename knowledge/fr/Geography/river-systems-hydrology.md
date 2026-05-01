@@ -10,7 +10,10 @@ readingTime: 11
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Geography/台灣河川系統與水文特色.md'
+translatedFrom: "Geography/台灣河川系統與水文特色.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:4725470c61019afd"
+translatedAt: "2026-04-15T17:33:45+08:00"
 ---
 
 # Systèmes fluviaux et hydrologie de Taïwan : des cours d'eau courts, rapides et saisonniers
@@ -316,7 +319,7 @@ La culture populaire taïwanaise entretient une relation spirituelle riche avec 
 
 - La rivière Meinong sous la plume de Zhong Lihe
 - Le Dajia dans l'œuvre de Yang Kui
-- La rivière Hualian dans le roman *Tristesse* de Wu He
+- La rivière Hualian dans le roman _Tristesse_ de Wu He
 
 ## Corridors écologiques et biodiversité
 
@@ -332,7 +335,7 @@ Les rivières relient la montagne à l'océan, formant des voies migratoires ind
 **Les espèces endémiques :**
 De nombreuses espèces de poissons d'eau douce endémiques à Taïwan peuplent ces rivières :
 
-- **Truite de Taïwan** (*Oncorhynchus masou formosanus*) : relique glaciaire du cours supérieur du Dajia
+- **Truite de Taïwan** (_Oncorhynchus masou formosanus_) : relique glaciaire du cours supérieur du Dajia
 - **Rhodeus ocellatus ocellatus** : espèce propre au Zhuoshui
 - **Varicorhinus barbatulus** : poisson d'eau douce primaire endémique à Taïwan
 

@@ -17,6 +17,9 @@ readingTime: 13
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Geography/台灣國家風景區系統.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9369d7f73b449799'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # National Scenic Area System

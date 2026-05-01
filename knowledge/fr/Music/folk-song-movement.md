@@ -11,7 +11,10 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Music/台灣民歌運動.md'
+translatedFrom: "Music/台灣民歌運動.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:2d4b4a21a7f7fad1"
+translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 
 # Le Mouvement des Chansons Folkloriques Taïwanaises
@@ -28,17 +31,17 @@ Avant les années 1970, le paysage musical taïwanais était presque entièremen
 
 ### Yang Xian : le semeur de la chanson moderne
 
-Le 6 juin 1975, Yang Xian, étudiant à l'Institut d'océanographie de l'Université nationale de Taïwan, organise au Zhongshan Hall de Taipei un « Concert de créations folkloriques modernes ». Il met en musique le poème *Nostalgie en quatre rimes* du célèbre poète Yu Guangzhong, et propose pour la première fois le concept de « chanson folklorique moderne ». C'est un geste fondateur : la poésie savante rencontre la guitare acoustique, et quelque chose de neuf émerge.
+Le 6 juin 1975, Yang Xian, étudiant à l'Institut d'océanographie de l'Université nationale de Taïwan, organise au Zhongshan Hall de Taipei un « Concert de créations folkloriques modernes ». Il met en musique le poème _Nostalgie en quatre rimes_ du célèbre poète Yu Guangzhong, et propose pour la première fois le concept de « chanson folklorique moderne ». C'est un geste fondateur : la poésie savante rencontre la guitare acoustique, et quelque chose de neuf émerge.
 
 ### Hu De-fu : la voix des origines
 
-Hu De-fu, chanteur issu des peuples autochtones de Taïwan, se produisait dans un café appelé le Columbia Coffee à Taipei. Pour beaucoup de jeunes citadins, c'était la première fois qu'ils entendaient une voix venue directement de la terre taïwanaise — brute, pure, irréductible à aucun autre modèle. En 1974, Hu De-fu donna un concert intitulé *Beaux épis de riz*, qui marqua durablement tous ceux qui y assistèrent.
+Hu De-fu, chanteur issu des peuples autochtones de Taïwan, se produisait dans un café appelé le Columbia Coffee à Taipei. Pour beaucoup de jeunes citadins, c'était la première fois qu'ils entendaient une voix venue directement de la terre taïwanaise — brute, pure, irréductible à aucun autre modèle. En 1974, Hu De-fu donna un concert intitulé _Beaux épis de riz_, qui marqua durablement tous ceux qui y assistèrent.
 
 ### Li Shuang-ze : le signal de la révolte
 
 L'Incident de Tamkang du 3 décembre 1976 reste le moment le plus dramatique de tout ce mouvement. Li Shuang-ze brise sa bouteille de Coca-Cola, crie « Chantons nos propres chansons ! », et ce slogan devient instantanément le cri de ralliement de toute une génération de chanteurs de campus à Taïwan.
 
-🎵 **À écouter** : [Li Shuang-ze — *Ilha Formosa*](https://www.youtube.com/watch?v=4UvWeuzhxHw)
+🎵 **À écouter** : [Li Shuang-ze — _Ilha Formosa_](https://www.youtube.com/watch?v=4UvWeuzhxHw)
 
 ## La commercialisation du mouvement : le Golden Melody Award et les restaurants-concerts
 
@@ -47,25 +50,28 @@ En 1977, le label New Format Records lance le concours « Golden Melody Award »
 ## Les grandes figures d'un âge d'or
 
 ### La veine intellectuelle
-Qi Yu en est l'emblème, avec des œuvres comme *L'Olivier* et *Marcher sous la pluie* — des chansons qui portent la méditation poétique au rang d'art populaire.
+
+Qi Yu en est l'emblème, avec des œuvres comme _L'Olivier_ et _Marcher sous la pluie_ — des chansons qui portent la méditation poétique au rang d'art populaire.
 
 ### La veine terrienne
-Ye Jiaxiu célèbre les *Petits chemins de campagne*, Paan An-bang chante *La Baie de Penghu de grand-mère* — deux titres qui incarnent le lien viscéral à la terre et à l'enfance.
+
+Ye Jiaxiu célèbre les _Petits chemins de campagne_, Paan An-bang chante _La Baie de Penghu de grand-mère_ — deux titres qui incarnent le lien viscéral à la terre et à l'enfance.
 
 ### La veine urbaine
+
 Tsai Chin, Zheng Yi et leurs contemporains apportent une sophistication et une maturité nouvelles à la chanson, portant la sensibilité citadine avec élégance.
 
 ### Des œuvres qui traversent le temps
 
-| Titre | Interprète | Remarque |
-|---|---|---|
-| *Héritiers du Dragon* | Li Jianfu (paroles et musique : Hou Dejian) | Hymne générationnel |
-| *L'Olivier* | Qi Yu | Adaptation d'un poème de San Mao |
-| *Tout comme ta douceur* | Tsai Chin | Classique de la mélancolie urbaine |
-| *Petits chemins de campagne* | Ye Jiaxiu | Symbole de la veine terrienne |
-| *La Baie de Penghu de grand-mère* | Paan An-bang | Nostalgie de l'enfance insulaire |
+| Titre                             | Interprète                                  | Remarque                           |
+| --------------------------------- | ------------------------------------------- | ---------------------------------- |
+| _Héritiers du Dragon_             | Li Jianfu (paroles et musique : Hou Dejian) | Hymne générationnel                |
+| _L'Olivier_                       | Qi Yu                                       | Adaptation d'un poème de San Mao   |
+| _Tout comme ta douceur_           | Tsai Chin                                   | Classique de la mélancolie urbaine |
+| _Petits chemins de campagne_      | Ye Jiaxiu                                   | Symbole de la veine terrienne      |
+| _La Baie de Penghu de grand-mère_ | Paan An-bang                                | Nostalgie de l'enfance insulaire   |
 
-🎵 **Une sélection de classiques** : [Pan Yueyun — *Les fleurs sauvages ont elles aussi leur printemps*](https://www.youtube.com/watch?v=GSoLwHTXRmM)
+🎵 **Une sélection de classiques** : [Pan Yueyun — _Les fleurs sauvages ont elles aussi leur printemps_](https://www.youtube.com/watch?v=GSoLwHTXRmM)
 
 ## Le déclin et la transformation
 
@@ -74,9 +80,11 @@ Au début des années 1980, le mouvement des chansons folkloriques de campus ent
 ## L'héritage : des héritiers rebelles
 
 ### Luo Dayou : l'enfant terrible du mouvement
-Luo Dayou hérite de l'esprit du mouvement — « Chantons nos propres chansons » — mais le subvertit avec une énergie rock et une lucidité critique. De *Zhihu Zheye* à *Home*, il ouvre une ère nouvelle pour la pop sinophone, plus sombre, plus urgente, plus adulte.
+
+Luo Dayou hérite de l'esprit du mouvement — « Chantons nos propres chansons » — mais le subvertit avec une énergie rock et une lucidité critique. De _Zhihu Zheye_ à _Home_, il ouvre une ère nouvelle pour la pop sinophone, plus sombre, plus urgente, plus adulte.
 
 ### L'ADN de la musique indépendante contemporaine
+
 Les artistes indépendants d'aujourd'hui — Chen Qizhen, Zhang Xuan, Lu Guangzhong — portent tous, d'une façon ou d'une autre, l'ADN du mouvement folklorique : cette conviction que la chanson doit témoigner d'une expérience vraie, ancrée dans un lieu et une époque précis.
 
 ## En guise de conclusion : ce que signifie une voix
@@ -87,4 +95,4 @@ Le Mouvement des Chansons Folkloriques Taïwanaises n'a duré qu'une petite diza
 
 - [Wikipédia : Article sur les chansons folkloriques de campus (zh)](https://zh.wikipedia.org/zh-tw/%E6%A0%A1%E5%9C%92%E6%B0%91%E6%AD%8C)
 - [Tamsui Wiki : Article sur l'Incident de Tamkang](http://tamsui.dils.tku.edu.tw/wiki/index.php/%E6%B7%A1%E6%B1%9F%E4%BA%8B%E4%BB%B6)
-- [Fondation pour les échanges entre les deux rives du détroit, *Revue Échanges* : Dossier « Quarante ans de chansons folkloriques »](https://www.sef.org.tw/article-1-129-5006)
+- [Fondation pour les échanges entre les deux rives du détroit, _Revue Échanges_ : Dossier « Quarante ans de chansons folkloriques »](https://www.sef.org.tw/article-1-129-5006)

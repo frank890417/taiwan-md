@@ -9,6 +9,9 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c735ef0db3cd23ac'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # The Development of Taiwan’s Long‑Term Care System

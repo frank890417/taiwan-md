@@ -2,7 +2,16 @@
 title: 'Pai Hsien-yung'
 description: 'Auteur des Taipéiois, maître de la littérature moderne et artisan du renouveau du kunqu'
 date: 2026-03-19
-tags: [personnalité, Pai Hsien-yung, littérature moderne, Les Taipéiois, Crystal Boys, kunqu, maître littéraire]
+tags:
+  [
+    personnalité,
+    Pai Hsien-yung,
+    littérature moderne,
+    Les Taipéiois,
+    Crystal Boys,
+    kunqu,
+    maître littéraire,
+  ]
 subcategory: 'Littérature'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'People/白先勇.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:183a7b2c5ae7a688'
+translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 
 # Pai Hsien-yung : un chercheur d'éternité dans les lettres modernes
@@ -20,15 +32,15 @@ Pai Hsien-yung est l'une des figures les plus importantes de la littérature mod
 
 L'enfance de Pai Hsien-yung se déroule sous les bombes, au gré des déplacements dictés par la carrière militaire de son père. Cette vie nomade, source d'une instabilité profonde, deviendra plus tard le terreau de son thème de prédilection : l'errance et le déracinement. En 1952, à quinze ans, il rejoint sa famille à Taïwan et termine ses études secondaires au Lycée Jianguo. C'est durant l'adolescence qu'il découvre la littérature occidentale, et notamment les auteurs russes : la maîtrise de la nouvelle chez Tchekhov et l'humanisme de Tolstoï laissent en lui une empreinte indélébile.
 
-En 1956, il intègre le département de langues étrangères de l'Université nationale de Taïwan, où il rencontre son maître Xia Ji'an, dont l'influence sera déterminante. Sous sa direction, il commence à réfléchir sérieusement au sens et à la technique de l'écriture littéraire. Avec ses condisciples Wang Wenxing et Chen Ruoxi, il fonde la revue *Littérature moderne*, qui devient un vecteur essentiel du modernisme littéraire à Taïwan et le point de départ de sa propre carrière d'écrivain.
+En 1956, il intègre le département de langues étrangères de l'Université nationale de Taïwan, où il rencontre son maître Xia Ji'an, dont l'influence sera déterminante. Sous sa direction, il commence à réfléchir sérieusement au sens et à la technique de l'écriture littéraire. Avec ses condisciples Wang Wenxing et Chen Ruoxi, il fonde la revue _Littérature moderne_, qui devient un vecteur essentiel du modernisme littéraire à Taïwan et le point de départ de sa propre carrière d'écrivain.
 
-## *Les Taipéiois* : un requiem pour une époque
+## _Les Taipéiois_ : un requiem pour une époque
 
 Publié en 1971, Les Taipéiois est considéré comme une œuvre fondatrice de la littérature chinoise moderne. Ce recueil de quatorze nouvelles brosse le portrait d'une génération d'exilés venus du continent, transplantés à Taipei et pris dans les contradictions du déplacement. Avec une précision chirurgicale, Pai Hsien-yung pénètre l'intériorité de ces « survivants d'un monde révolu », vivant repliés sur la gloire passée, incapables de s'adapter au présent qui les bouscule.
 
 Parmi les figures inoubliables du recueil : la courtisane Yin Xueyan, éternellement belle et intemporelle dans La Belle Yin Xueyan ; ou Jin Daban, la reine fanée d'une salle de danse dans La Dernière Nuit de Jin Daban. Ces personnages sont entrés dans l'histoire de la littérature. À travers eux, l'auteur explore les tensions entre tradition et modernité, entre passé et présent, entre idéal et réalité vécue.
 
-## *Crystal Boys* : l'élégie des laissés-pour-compte
+## _Crystal Boys_ : l'élégie des laissés-pour-compte
 
 Publié en 1983, Crystal Boys est le seul roman long de Pai Hsien-yung et constitue une œuvre majeure de son corpus. Situé dans le parc central de Taipei — le New Park —, il donne voix à une communauté d'hommes homosexuels rejetés par la société dominante. À sa parution, le livre suscite une vive polémique dans un climat social encore très conservateur, mais il s'impose rapidement comme une œuvre littéraire d'une portée considérable.
 

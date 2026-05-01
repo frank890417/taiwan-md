@@ -10,6 +10,9 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-29
 translatedFrom: 'Culture/台灣原住民族16族文化地圖.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:36ecabdcaffefea4'
+translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 
 # 대만 원주민족 16부족 문화 지도

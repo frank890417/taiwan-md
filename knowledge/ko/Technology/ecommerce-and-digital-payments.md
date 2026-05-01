@@ -21,6 +21,9 @@ featured: true
 readingTime: 12
 lastVerified: 2026-04-06
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
+sourceCommitSha: 'e844a4b8'
+sourceContentHash: 'sha256:e6d4ecca5e8c9269'
+translatedAt: '2026-04-14T07:15:07+08:00'
 ---
 
 # 대만 전자상거래와 디지털 결제: 하나의 섬에서 벌어진 세 번의 전쟁

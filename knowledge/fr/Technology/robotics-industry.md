@@ -3,7 +3,16 @@ title: "L'industrie robotique à Taïwan"
 description: "L'île qui domine la fabrication de semi-conducteurs doit-elle rattraper son retard à l'ère des robots ? Du lancement du NCAIR en 2026, un regard sur les miracles et les angles morts de la mécanique de précision taïwanaise."
 date: 2026-04-11
 tags:
-  ['robotique', 'mécanique de précision', 'semi-conducteurs', 'IA', 'transformation industrielle', 'HIWIN', 'NCAIR', '2026']
+  [
+    'robotique',
+    'mécanique de précision',
+    'semi-conducteurs',
+    'IA',
+    'transformation industrielle',
+    'HIWIN',
+    'NCAIR',
+    '2026',
+  ]
 subcategory: 'Industries technologiques'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -13,6 +22,9 @@ featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
 translatedFrom: 'Technology/台灣機器人產業.md'
+sourceCommitSha: 'fa95d5e0'
+sourceContentHash: 'sha256:1474f16951c52f9b'
+translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 
 # L'industrie robotique à Taïwan

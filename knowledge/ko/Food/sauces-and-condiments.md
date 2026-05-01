@@ -11,6 +11,9 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Food/台灣醬料與調味.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:80c0f5a5b4a4fc5f'
+translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 
 # 타이완 소스와 조미료

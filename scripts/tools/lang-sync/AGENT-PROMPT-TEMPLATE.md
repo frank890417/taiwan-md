@@ -31,7 +31,17 @@ You are a translation agent for Taiwan.md. Translate ~6-7 zh-TW articles to Engl
    - Never leave broken `[[X]]` in output
 6. **Footnotes `[^N]`**: keep numbering, translate desc, KEEP source URL unchanged
 7. **Write file** to manifest's `en_path` using Write tool. **Verify file size > 1KB before moving on** (so partial writes are detected).
-8. Move to next article.
+8. **Quality self-audit per article (2026-05-01 γ-late5 強制新增)**:
+   - **Size ratio check**: `output_size / zh_source_size` 應 ≥ 0.5
+     - 西語/法語預期 1.2-1.7、韓語 0.6-0.9、日語 0.8-1.3、英語 0.7-1.0
+     - 比例 < 0.5 → 多為 truncation / 中途斷掉 → 必須 rm + 重 translate
+   - **Frontmatter completeness check**: grep 自己寫的 file，確認有 `^title:`、
+     `^description:`、`^category:` 三個關鍵欄位（owl-alpha 嚴格遵從 placeholder
+     偶爾漏，要主動補）
+   - **YAML self-test**: head -40 file，肉眼確認 frontmatter 沒有未閉合的引號、
+     重複 key、apostrophe-in-single-quote bug。如果可疑，rm + retry。
+   - **Tail check**: tail -3 file，確認最後一句完整不被截斷
+9. Move to next article.
 
 **Critical rules**:
 - DO NOT MOCK / SUMMARIZE / SKIP — full translations only
@@ -42,6 +52,12 @@ You are a translation agent for Taiwan.md. Translate ~6-7 zh-TW articles to Engl
 - Translation ratio focus: completeness + structural fidelity (sections / footnotes / URLs preserved 1:1). Don't worry about raw char ratio.
 
 **Final report**: list paths written + any anomalies (zh source bugs, slug suggestions, wikilink edge cases). Concise.
+
+**Batch quality summary (per Z6 audit)**：
+- ok / fail / total
+- size ratio distribution: median + 任何 < 0.5 ratio 的 path（可疑 truncated）
+- frontmatter incomplete files (應 0)
+- YAML errors caught by self-test (應 0)
 ```
 
 ---

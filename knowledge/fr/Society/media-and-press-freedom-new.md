@@ -11,7 +11,10 @@ readingTime: 15
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Society/台灣媒體與新聞自由.md'
+translatedFrom: "Society/台灣媒體與新聞自由.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:a463f0fc05470693"
+translatedAt: "2026-04-15T17:36:38+08:00"
 ---
 
 # Médias et liberté de la presse à Taïwan
@@ -37,7 +40,7 @@ Sous la loi martiale, les médias taïwanais étaient soumis à une réglementat
 **Contrôle de la presse écrite :**
 
 - **Interdiction de la presse** : à partir de 1951, aucun nouveau titre de presse ne peut obtenir de licence
-- Les titres existants — *Central Daily News* (Kuomintang), *China Times* et *United Daily News* — forment les « trois grands »
+- Les titres existants — _Central Daily News_ (Kuomintang), _China Times_ et _United Daily News_ — forment les « trois grands »
 - **Censure préalable** : le Commandement de la garnison exerce un contrôle préventif sur les contenus
 
 **Monopole télévisuel :**
@@ -79,10 +82,10 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Émergence de nouveaux titres :**
 
-- *Liberty Times* (ancêtre : *Ziqiang Daily*, 1987)
-- *Minzhong Daily* (1988)
-- *Taiwan Daily* (1988)
-- *Capital Morning Post* (1988)
+- _Liberty Times_ (ancêtre : _Ziqiang Daily_, 1987)
+- _Minzhong Daily_ (1988)
+- _Taiwan Daily_ (1988)
+- _Capital Morning Post_ (1988)
 
 **Intensification de la concurrence :**
 
@@ -92,9 +95,9 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Polarisation politique :**
 
-- *Liberty Times* : orientation indépendantiste
-- *China Times* et *United Daily News* : orientation pro-réunification
-- *Minzhong Daily* : ligne localiste
+- _Liberty Times_ : orientation indépendantiste
+- _China Times_ et _United Daily News_ : orientation pro-réunification
+- _Minzhong Daily_ : ligne localiste
 
 ### Libéralisation télévisuelle et ouverture du câble
 
@@ -120,7 +123,7 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 ### Recomposition du paysage de la presse écrite
 
-**Arrivée d'*Apple Daily* (2003) :**
+**Arrivée d'_Apple Daily_ (2003) :**
 
 - Créé par le groupe hongkongais Next Media
 - Controversé pour son traitement sensationnaliste
@@ -128,10 +131,10 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Les quatre grands quotidiens :**
 
-1. ***Apple Daily*** : plus fort tirage, culture paparazzi
-2. ***Liberty Times*** : ligne pro-DPP, forte influence politique
-3. ***China Times*** : ligne pro-KMT, lectorat intellectuel
-4. ***United Daily News*** : centre-droit, référence des médias traditionnels
+1. **_Apple Daily_** : plus fort tirage, culture paparazzi
+2. **_Liberty Times_** : ligne pro-DPP, forte influence politique
+3. **_China Times_** : ligne pro-KMT, lectorat intellectuel
+4. **_United Daily News_** : centre-droit, référence des médias traditionnels
 
 ### La guerre des chaînes d'information
 
@@ -143,9 +146,9 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **L'âge d'or des émissions politiques débat :**
 
-- *2100 Quanmin Kaijiang* (TVBS)
-- *News Hacker* (SET)
-- *Touji Lai Kaijiang* (FTV)
+- _2100 Quanmin Kaijiang_ (TVBS)
+- _News Hacker_ (SET)
+- _Touji Lai Kaijiang_ (FTV)
 - Positionnements politiques affirmés, émergence de la culture des commentateurs vedettes
 
 ### Les dérives médiatiques
@@ -168,10 +171,10 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Apparition de médias 100 % numériques :**
 
-- ***ETtoday*** (2011) : modèle orienté audience et clics
-- ***Storm Media*** (2014) : journalisme d'investigation approfondie
-- ***The Reporter*** (2015) : média à but non lucratif dédié au grand reportage
-- ***Up Media*** (2016) : spécialiste de l'économie et de la politique
+- **_ETtoday_** (2011) : modèle orienté audience et clics
+- **_Storm Media_** (2014) : journalisme d'investigation approfondie
+- **_The Reporter_** (2015) : média à but non lucratif dédié au grand reportage
+- **_Up Media_** (2016) : spécialiste de l'économie et de la politique
 
 **L'influence des réseaux sociaux :**
 
@@ -202,10 +205,10 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 **Promotion de l'éducation aux médias :**
 
 - Le ministère de l'Éducation intègre l'éducation aux médias dans les programmes scolaires
-- Médias citoyens comme *Shixiang* et *Watchout*
+- Médias citoyens comme _Shixiang_ et _Watchout_
 - Programmes de développement de la citoyenneté numérique
 
-### La disparition d'*Apple Daily* (2021)
+### La disparition d'_Apple Daily_ (2021)
 
 **Contexte :**
 
@@ -288,10 +291,10 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Textes de référence :**
 
-- *Loi sur la radiodiffusion et la télévision* (1976, plusieurs fois amendée)
-- *Loi sur la télévision câblée* (1993)
-- *Loi sur la radiodiffusion et la télévision par satellite* (1999)
-- *Loi sur la communication et la transmission numériques* (adoptée en 2022)
+- _Loi sur la radiodiffusion et la télévision_ (1976, plusieurs fois amendée)
+- _Loi sur la télévision câblée_ (1993)
+- _Loi sur la radiodiffusion et la télévision par satellite_ (1999)
+- _Loi sur la communication et la transmission numériques_ (adoptée en 2022)
 
 **Autorité de régulation :**
 
@@ -358,7 +361,7 @@ Le 1er janvier 1988, l'interdiction de la presse est officiellement levée, ouvr
 
 **Renaissance du journalisme de fond :**
 
-- *The Reporter* récompensé par des prix internationaux
+- _The Reporter_ récompensé par des prix internationaux
 - Demande croissante des lecteurs pour un journalisme de qualité
 - Émergence des podcasts d'information
 
@@ -392,9 +395,9 @@ Du contrôle autoritaire à la liberté concurrentielle, puis aux défis de l'è
 
 ## Références
 
-- [National Communications Commission](https://www.ncc.gov.tw/), *[Rapport sur le développement de l'industrie des médias à Taïwan](https://commsurvey.ncc.gov.tw/)*, 2025
-- [Reporters sans frontières](https://rsf.org/en/country/taiwan), *Indice mondial de la liberté de la presse 2024*, 2024
-- Conseil d'autorégulation des médias de la République de Chine, *Rapport sur l'autorégulation des médias*, 2024
-- [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/), *Rapport d'analyse sur l'état de la désinformation*, 2025
-- [Département de journalisme de l'Université nationale Chengchi](https://jschool.nccu.edu.tw/), *Enquête sur l'environnement médiatique à Taïwan*, 2024
-- [Ministère de la Culture](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), *Livre blanc sur les politiques de l'industrie des médias*, 2023
+- [National Communications Commission](https://www.ncc.gov.tw/), _[Rapport sur le développement de l'industrie des médias à Taïwan](https://commsurvey.ncc.gov.tw/)_, 2025
+- [Reporters sans frontières](https://rsf.org/en/country/taiwan), _Indice mondial de la liberté de la presse 2024_, 2024
+- Conseil d'autorégulation des médias de la République de Chine, _Rapport sur l'autorégulation des médias_, 2024
+- [Taiwan FactCheck Center](https://tfc-taiwan.org.tw/), _Rapport d'analyse sur l'état de la désinformation_, 2025
+- [Département de journalisme de l'Université nationale Chengchi](https://jschool.nccu.edu.tw/), _Enquête sur l'environnement médiatique à Taïwan_, 2024
+- [Ministère de la Culture](https://nccwp.moc.gov.tw/home/zh-tw/white_paper), _Livre blanc sur les politiques de l'industrie des médias_, 2023

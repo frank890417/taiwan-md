@@ -8,8 +8,11 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 5
 featured: false
-translatedFrom: 'People/黃國珍.md'
+translatedFrom: "People/黃國珍.md"
 lastVerified: 2026-03-20
+sourceCommitSha: "abc5bd75"
+sourceContentHash: "sha256:7d3b709915399ea3"
+translatedAt: "2026-04-14T19:20:08+08:00"
 ---
 
 # Huang Kuo-chen : apprendre aux enfants de Taïwan à « comprendre » et pas seulement à « finir de lire »
@@ -20,9 +23,9 @@ Les élèves taïwanais affichent des résultats honorables dans les classements
 
 Ce n'est pas un défaut des élèves. C'est le système éducatif lui-même qui, depuis des décennies, entraîne les jeunes à « trouver la bonne réponse » plutôt qu'à « comprendre la question ».
 
-## Pinxuetang et la revue *Compréhension de lecture*
+## Pinxuetang et la revue _Compréhension de lecture_
 
-En 2013, Huang Kuo-chen fonde **Pinxuetang** (品學堂) et lance la revue pédagogique *Compréhension de lecture* (閱讀理解) — un matériel conçu spécifiquement pour développer la littératie. À rebours des tests de lecture classiques, les exercices de cette revue mettent l'accent sur le **processus de réflexion** plutôt que sur la bonne réponse : les élèves sont amenés à analyser la structure d'un texte, à confronter des points de vue, à identifier la posture de l'auteur et ses stratégies rhétoriques.
+En 2013, Huang Kuo-chen fonde **Pinxuetang** (品學堂) et lance la revue pédagogique _Compréhension de lecture_ (閱讀理解) — un matériel conçu spécifiquement pour développer la littératie. À rebours des tests de lecture classiques, les exercices de cette revue mettent l'accent sur le **processus de réflexion** plutôt que sur la bonne réponse : les élèves sont amenés à analyser la structure d'un texte, à confronter des points de vue, à identifier la posture de l'auteur et ses stratégies rhétoriques.
 
 La revue est aujourd'hui présente dans plusieurs centaines d'établissements scolaires — collèges, lycées et écoles primaires — à travers tout Taïwan. Elle figure parmi les outils pédagogiques les plus utilisés dans le domaine de la littératie.
 
@@ -33,6 +36,7 @@ Le travail de Huang Kuo-chen résonne directement avec l'esprit du **Curriculum 
 Il est par ailleurs le fils de l'écrivain Huang Chunming, grande figure de la littérature du terroir taïwanais. Deux générations, deux vocations complémentaires : l'un a mis des mots sur la vitalité de la terre taïwanaise, l'autre apprend à la génération suivante à lire le monde.
 
 ## Pour aller plus loin
+
 - Yeh Ping-cheng : professeur à l'Université nationale de Taïwan et créateur de la plateforme d'apprentissage ludique PaGamO
 - Lü Guan-wei : fondateur de la plateforme éducative Junyi Academy
 - Huang Chunming : maître de la littérature du terroir taïwanais, père de Huang Kuo-chen

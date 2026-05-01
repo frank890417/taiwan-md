@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/陳俊良.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:230d66867f466f8b'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 # 陳俊良 — 시로 디자인을 다시 쓴 사람

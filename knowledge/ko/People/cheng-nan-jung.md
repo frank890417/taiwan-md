@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 translatedFrom: 'People/鄭南榕.md'
+sourceCommitSha: '905dadba'
+sourceContentHash: 'sha256:4be2f8c1793b7dcd'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 # 정난룽 (鄭南榕)

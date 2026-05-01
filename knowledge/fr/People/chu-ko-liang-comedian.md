@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/豬哥亮.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:88702d1dcebd6f35'
+translatedAt: '2026-04-14T19:18:50+08:00'
 ---
 
 # Chu Ko-liang : le roi incontesté de la comédie taïwanaise
@@ -34,7 +37,7 @@ Ses numéros intégraient volontiers des commentaires sur l'actualité et des cr
 
 ## L'âge d'or des variétés télévisées
 
-Dans les années 1980, l'industrie télévisuelle taïwanaise était en plein essor, et Chu Ko-liang a réussi sa transition vers le petit écran. Son émission, *Le Cabaret de Chu Ko-liang*, est devenue l'une des plus populaires de l'époque.
+Dans les années 1980, l'industrie télévisuelle taïwanaise était en plein essor, et Chu Ko-liang a réussi sa transition vers le petit écran. Son émission, _Le Cabaret de Chu Ko-liang_, est devenue l'une des plus populaires de l'époque.
 
 L'émission reprenait le format du spectacle de cabaret, combinant chants, danses et numéros comiques. La façon unique qu'avait Chu Ko-liang d'animer et d'improviser en direct rendait chaque épisode plein de surprises et de rires.
 
@@ -62,15 +65,15 @@ Cette traversée du désert a amené Chu Ko-liang à une réflexion profonde sur
 
 ## Un retour triomphal
 
-À la fin des années 2000, Chu Ko-liang est revenu sur la scène taïwanaise pour vivre une seconde vie artistique. Des émissions comme *Le Club de Chu Ko-liang* ont de nouveau conquis le public.
+À la fin des années 2000, Chu Ko-liang est revenu sur la scène taïwanaise pour vivre une seconde vie artistique. Des émissions comme _Le Club de Chu Ko-liang_ ont de nouveau conquis le public.
 
 Son retour révélait un artiste mûri, fidèle à son style d'origine mais plus attentif à la qualité de ses productions. Il a collaboré activement avec de jeunes artistes, témoignant d'une capacité d'adaptation remarquable.
 
-Dans les années 2010, il a participé à plusieurs films, dont la comédie grand public *Zone Pro Site* et ses suites, prouvant que son charme comique transcendait les formats.
+Dans les années 2010, il a participé à plusieurs films, dont la comédie grand public _Zone Pro Site_ et ses suites, prouvant que son charme comique transcendait les formats.
 
 ## L'aventure cinématographique
 
-En fin de carrière, Chu Ko-liang s'est impliqué activement dans le cinéma. Il a joué un rôle central dans la série de films réalisés par Chiu Li-kuan, dont *Zone Pro Site*, qui a réalisé des scores au box-office remarquables.
+En fin de carrière, Chu Ko-liang s'est impliqué activement dans le cinéma. Il a joué un rôle central dans la série de films réalisés par Chiu Li-kuan, dont _Zone Pro Site_, qui a réalisé des scores au box-office remarquables.
 
 Il a su transposer son expérience des variétés télévisées sur grand écran, démontrant le potentiel commercial de la comédie en langue taïwanaise. Ces œuvres ont insufflé une nouvelle énergie au cinéma local.
 

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/朱天文.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:82416bb2c3ed3c55'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 주톈원: 영상과 문자가 만나는 시적 교차점

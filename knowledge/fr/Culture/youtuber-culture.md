@@ -2,7 +2,14 @@
 title: "L'industrie YouTuber à Taïwan : de Tsai A-Ga à Chi Hsuan, l'évolution d'une culture numérique insulaire"
 description: "Comment un magicien est devenu le premier YouTuber taïwanais à dépasser les 10 millions d'abonnés — et ce que cela révèle sur la façon dont Taïwan est passé du divertissement local à l'exportation culturelle internationale."
 date: 2026-03-23
-tags: ['culture', 'culture numérique', 'YouTuber', 'vidéo en ligne', 'impact social']
+tags:
+  [
+    'culture',
+    'culture numérique',
+    'YouTuber',
+    'vidéo en ligne',
+    'impact social',
+  ]
 subcategory: 'Culture internet'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4e725951b40f47ce'
+translatedAt: '2026-04-14T12:33:38+08:00'
 ---
 
 > **En 30 secondes :** En mars 2024, le magicien taïwanais « Chi Hsuan Tricking » est devenu le premier créateur de l'île à franchir le cap des 10 millions d'abonnés sur YouTube — marquant ainsi la transformation de la culture YouTube taïwanaise : d'une scène locale lancée par Tsai A-Ga en 2008, elle est devenue une plateforme d'exportation de contenus compétitive à l'échelle internationale. YouTube touche plus de 90 % des Taïwanais de 18 ans et plus. Les créateurs locaux tirent seulement 20 à 40 % de leurs revenus de la publicité, l'essentiel provenant des partenariats de marque. Et les VTubers ont surgi comme une force montante et inattendue.

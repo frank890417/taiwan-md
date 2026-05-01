@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/張惠妹.md'
 readingTime: 8
 featured: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b4205405eb50bfe0'
+translatedAt: '2026-04-14T19:24:16+08:00'
 ---
 
 # 장혜매: 민족을 넘나드는 목소리의 여신

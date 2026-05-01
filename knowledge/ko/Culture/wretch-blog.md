@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Culture/無名小站.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e0339531e5d43f7e'
+translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 
 > **30초 요약:** 무명소잔(wretch.cc)은 1999년 국립교통대학교 학생 젠즈위(簡志宇)가 창설한 대만 초기 소셜 플랫폼이다. 기숙사의 "고물 줍기"에서 시작해 대만 2위 웹사이트로 성장했고, Yahoo에 약 7억 대만달러에 인수된 후 2013년 문을 닫았다. 이는 단순한 웹사이트의 흥망사가 아니라, 대만 인터넷 세대 전체의 청춘 기억이 응축된 이야기다.

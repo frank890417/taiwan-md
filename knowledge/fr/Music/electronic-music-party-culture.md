@@ -2,7 +2,15 @@
 title: 'Musique électronique et culture des fêtes à Taïwan : des raves underground à la scène internationale'
 description: 'Des soirées rave des années 1990 au festival Road to Ultra, découvrez comment la musique électronique taïwanaise a conquis la scène mondiale, en révélant des DJ de renommée internationale et des labels indépendants visionnaires.'
 date: 2026-03-19
-tags: ['musique électronique', 'rave', 'culture des fêtes', 'DJ', 'festival électro', 'musique underground']
+tags:
+  [
+    'musique électronique',
+    'rave',
+    'culture des fêtes',
+    'DJ',
+    'festival électro',
+    'musique underground',
+  ]
 subcategory: 'Électronique et expérimental'
 author: 'Taiwan.md Translation Team'
 readingTime: 15
@@ -11,6 +19,9 @@ category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:fc263f7b3e9c2710'
+translatedAt: '2026-04-15T17:32:47+08:00'
 ---
 
 # Musique électronique et culture des fêtes à Taïwan : des raves underground à la scène internationale

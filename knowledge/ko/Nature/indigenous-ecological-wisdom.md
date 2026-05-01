@@ -18,6 +18,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 translatedFrom: 'Nature/台灣原住民生態智慧與環境保育.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:d162c579da0f2b9c'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만 원주민의 생태 지혜와 환경 보전

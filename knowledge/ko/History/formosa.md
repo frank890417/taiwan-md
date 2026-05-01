@@ -16,6 +16,9 @@ tags:
 author: 'Taiwan.md Translation Team'
 lastVerified: 2026-04-12
 translatedFrom: 'History/福爾摩沙.md'
+sourceCommitSha: 53610439
+sourceContentHash: 'sha256:7eacbccf24addf9e'
+translatedAt: '2026-04-14T05:29:27+08:00'
 ---
 
 # 포르모사: 서양인들은 이미 사람이 살고 있던 섬을 어떻게 "발견"했는가

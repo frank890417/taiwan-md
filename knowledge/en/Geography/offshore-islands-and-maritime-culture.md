@@ -22,6 +22,9 @@ featured: true
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Geography/離島與海洋文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a5ce1cc1637b843d'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 > **30-Second Overview:** Fewer than 600 stone fish weirs (ancient fishing traps) exist worldwide—Penghu alone has 574+, boasting the world's highest density. On Orchid Island, the Tao people developed flying fish season "taboos" into Earth's most precise ocean resource management system—not superstition, but science. These islands aren't Taiwan's periphery; they're museums of human maritime wisdom.

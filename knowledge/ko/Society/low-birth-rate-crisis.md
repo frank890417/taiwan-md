@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Society/台灣少子化危機.md'
 lastVerified: 2026-03-24
+sourceCommitSha: '6c11ef53'
+sourceContentHash: 'sha256:b6c977b96b8c6c27'
+translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 
 # 섬의 마지막 노래: 대만 저출생 위기 심층 분석

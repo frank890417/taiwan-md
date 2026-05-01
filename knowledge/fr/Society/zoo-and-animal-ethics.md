@@ -20,11 +20,14 @@ featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/動物園與展演動物倫理.md'
+sourceCommitSha: 'ecb173b1'
+sourceContentHash: 'sha256:b513829394ccaf6f'
+translatedAt: '2026-04-14T12:32:15+08:00'
 ---
 
 # Zoos et éthique des animaux en captivité
 
-*De l'éléphant derrière les barreaux à la salle des méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés*
+_De l'éléphant derrière les barreaux à la salle des méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés_
 
 ## En 30 secondes
 
@@ -91,7 +94,7 @@ Les établissements d'exposition de cétacés se trouvent à un carrefour histor
 
 Il ne reste aujourd'hui que deux exploitants de spectacles de cétacés dans l'archipel : le parc marin Far Glory Ocean Park à Hualien (4 grands dauphins et 1 dauphin de Risso) et le parc marin de Yehliu à New Taipei (10 grands dauphins). Les deux établissements voient leurs autorisations d'exploitation arriver à expiration en **2026**. Le compte à rebours vers « la fin du spectacle de dauphins » est enclenché.
 
-En juillet 2024, le ministère de l'Agriculture a publié une nouvelle version du *Règlement sur la gestion des expositions animales*, intégrant officiellement les cétacés dans son périmètre de régulation. L'Agence de conservation des océans a constitué un **Groupe de pilotage de la transition des spectacles de cétacés**, réunissant chercheurs, organisations civiles et collectivités locales. L'orientation est claire : abandon progressif des spectacles de divertissement au profit d'un format à vocation éducative.
+En juillet 2024, le ministère de l'Agriculture a publié une nouvelle version du _Règlement sur la gestion des expositions animales_, intégrant officiellement les cétacés dans son périmètre de régulation. L'Agence de conservation des océans a constitué un **Groupe de pilotage de la transition des spectacles de cétacés**, réunissant chercheurs, organisations civiles et collectivités locales. L'orientation est claire : abandon progressif des spectacles de divertissement au profit d'un format à vocation éducative.
 
 Far Glory a répondu en se repositionnant comme **« sanctuaire pour dauphins »** : les représentations s'arrêtent, mais les animaux ne sont pas relâchés (des dauphins élevés en captivité depuis des années ne peuvent plus survivre en mer) — ils sont présentés dans un cadre éducatif. La direction assure : « Les dauphins ne disparaîtront pas, le public pourra toujours les observer. »
 
@@ -107,7 +110,7 @@ Le retrait progressif des spectacles de dauphins ne se résume pas à la reconve
 
 ## Le cadre légal face aux réalités du terrain
 
-Entré en vigueur en 2017, le *Règlement sur la gestion des expositions animales* dote Taïwan d'un premier texte réglementaire dédié aux animaux exposés au public. Il prévoit notamment :
+Entré en vigueur en 2017, le _Règlement sur la gestion des expositions animales_ dote Taïwan d'un premier texte réglementaire dédié aux animaux exposés au public. Il prévoit notamment :
 
 - L'obligation d'un permis d'exploitation pour tout site d'exposition
 - Des normes minimales pour les conditions d'hébergement des animaux
@@ -148,7 +151,7 @@ Ce spectre ne désigne ni les bons ni les méchants. Il témoigne de la profonde
 - 🏗️ Le zoo de Hsinchu a réduit son nombre d'espèces de plus de 400 à environ **80**, ne conservant que celles qu'il peut vraiment bien prendre en charge — une démarche pratiquement sans précédent dans le monde des zoos asiatiques
 - 🎪 Les spectacles animaliers des cirques traditionnels taïwanais ont pratiquement **entièrement disparu** après les années 2010, remplacés par le cirque sans animaux
 - 🐬 Taïwan ne compte plus que deux exploitants de spectacles de cétacés, et les deux autorisations arrivent à expiration en **2026**. Yehliu a fait reproduire un dauphin en violation des règles en 2024 — amende : **10 000 NT$**
-- 📋 Le *Règlement sur la gestion des expositions animales* est entré en vigueur en 2017, mais les **effectifs d'inspection restent dramatiquement insuffisants** pour couvrir l'ensemble du territoire
+- 📋 Le _Règlement sur la gestion des expositions animales_ est entré en vigueur en 2017, mais les **effectifs d'inspection restent dramatiquement insuffisants** pour couvrir l'ensemble du territoire
 - 🐰 Fin 2025, l'incident du restaurant animalier de Bali (lapins) : **6 morts et 5 malades**, révélant le vide juridique autour des « micro-expositions »
 - 📱 Les contenus d'interactions animales les plus populaires sur les réseaux sociaux sont souvent aussi ceux qui présentent les **risques les plus élevés en matière de bien-être animal**
 - 🌏 Taïwan est l'une des rares régions d'Asie à s'être dotée d'une loi spécifique sur les expositions animales — mais cette loi continue de qualifier les animaux d'« objets » et non de sujets de droit

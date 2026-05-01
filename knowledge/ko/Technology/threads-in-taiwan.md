@@ -18,6 +18,9 @@ readingTime: 15
 featured: true
 translatedFrom: 'Technology/Threads在台灣.md'
 lastVerified: 2026-03-24
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0c7725f61abaf247'
+translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 
 # 대만의 Threads: 트위터 대안에서 "脆(쭈이)" 문화의 주전장으로

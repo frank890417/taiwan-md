@@ -2,13 +2,17 @@
 title: '웨이더성: 영화로 대만의 서사시를 쓴 감독'
 description: '《해각칠호》에서 《세덱·발레》까지, 꿈을 실천하며 대만 영화의 지형을 바꾼 감독 웨이더성'
 date: 2026-03-19
-tags: ['인물', '감독', '영화', '대만 영화', '원주민 문화', '해각칠호', '세덱 발레']
+tags:
+  ['인물', '감독', '영화', '대만 영화', '원주민 문화', '해각칠호', '세덱 발레']
 subcategory: '영화와 드라마'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/魏德聖.md'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:da6124a8ed71cc71'
+translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 
 # 웨이더성: 영화로 대만의 서사시를 쓴 감독

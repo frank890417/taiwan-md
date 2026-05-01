@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/馬偕.md'
+sourceCommitSha: 'c018a424'
+sourceContentHash: 'sha256:96659af055b707e8'
+translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 
 > **30초 요약:**

@@ -10,7 +10,10 @@ featured: false
 readingTime: 12
 lastVerified: 2026-04-08
 lastHumanReview: '2026-04-08'
-translatedFrom: 'Society/為台灣而教TFT.md'
+translatedFrom: "Society/為台灣而教TFT.md"
+sourceCommitSha: "26216f73"
+sourceContentHash: "sha256:8877b0b0d8b6abd7"
+translatedAt: "2026-04-14T12:32:44+08:00"
 ---
 
 > **En 30 secondes :** Taïwan se classe parmi les meilleurs au monde au PISA, mais les élèves défavorisés accusent jusqu'à six ans de retard sur leurs pairs. En 2014, Liu An-Ting, diplômée de Princeton à 24 ans, a fondé Teach For Taiwan (TFT) avec deux mille dollars taïwanais, en envoyant des diplômés des meilleures universités enseigner deux ans dans des écoles rurales. Onze ans plus tard, plus de quatre cents enseignants TFT sont présents dans quatre-vingt-cinq établissements répartis dans neuf comtés, aux côtés de plus de sept mille enfants. Huit anciens élèves sur dix restent dans le domaine de l'éducation. Mais les critiques n'ont jamais cessé : six semaines de formation suffisent-elles ? Les élites citadines comprennent-elles vraiment les communautés rurales ? S'agit-il d'une solution systémique, ou d'une nouvelle forme d'invasion culturelle bien intentionnée ?

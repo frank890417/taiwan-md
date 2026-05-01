@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: true
 lastVerified: 2026-04-03
-translatedFrom: 'People/林書豪.md'
+translatedFrom: "People/林書豪.md"
+sourceCommitSha: "0851f334"
+sourceContentHash: "sha256:8c536e7e37fb32f5"
+translatedAt: "2026-04-14T19:15:55+08:00"
 ---
 
 > **En 30 secondes :** Jeremy Lin est né en 1988 en Californie ; sa famille est originaire de Taïwan depuis neuf générations. Au lycée, il mène son équipe au titre d'État de Californie sans recevoir la moindre bourse d'une université de division I. Il entre à Harvard, n'est sélectionné par personne à la draft, et se fait licencier par deux franchises NBA en quinze jours. En février 2012, il entre comme remplaçant et enchaîne sept matchs à 24,4 points de moyenne, déclenchant le phénomène « Linsanity ».[^1] En 2019, il remporte une bague de champion NBA avec les Raptors de Toronto, devenant le premier joueur américain d'origine asiatique à obtenir ce titre.[^2] En 2025, il prend sa retraite à Taïwan, couronné MVP de la saison régulière et MVP des Finales, bouclant ainsi une trajectoire allant des États-Unis à Taïwan.[^3]
@@ -50,15 +53,15 @@ En février 2012, le meneur titulaire des Knicks se blesse. L'entraîneur Mike D
 
 Ce qui suit, personne ne l'avait prévu :[^9]
 
-| Date | Adversaire | Points | Passes |
-| ---- | ---------- | ------ | ------ |
-| 4/02 | Nets | 25 | 7 |
-| 6/02 | Jazz | 28 | 8 |
-| 8/02 | Wizards | 23 | 10 |
-| 10/02 | Lakers | 38 | 7 |
-| 11/02 | Timberwolves | 20 | 8 |
-| 14/02 | Raptors | 27 | 11 |
-| 15/02 | Kings | 10 | 13 |
+| Date  | Adversaire   | Points | Passes |
+| ----- | ------------ | ------ | ------ |
+| 4/02  | Nets         | 25     | 7      |
+| 6/02  | Jazz         | 28     | 8      |
+| 8/02  | Wizards      | 23     | 10     |
+| 10/02 | Lakers       | 38     | 7      |
+| 11/02 | Timberwolves | 20     | 8      |
+| 14/02 | Raptors      | 27     | 11     |
+| 15/02 | Kings        | 10     | 13     |
 
 Sept victoires consécutives. 24,4 points et 9,1 passes de moyenne, avec un taux de réussite aux tirs de 51,2 %.[^9]
 

@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 9
 featured: false
 lastVerified: 2026-03-24
-translatedFrom: 'Economy/台灣企業：長榮海運.md'
+translatedFrom: "Economy/台灣企業：長榮海運.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:568e51f4fe252bc3"
+translatedAt: "2026-04-14T19:21:16+08:00"
 ---
 
 > **Vue d'ensemble en 30 secondes**
@@ -20,7 +23,7 @@ translatedFrom: 'Economy/台灣企業：長榮海運.md'
 
 Chang Yung-fa naît en 1927 à Su'ao, dans le comté de Yilan. À sept ans, sa famille s'installe à Keelung. Son père est charpentier de marine — un homme souvent absent, toujours en mer. En 1945, Chang a dix-huit ans quand son père meurt en mer, laissant derrière lui une veuve et sept enfants.
 
-Cette tragédie aurait pu le tenir loin de l'océan. Elle a fait l'inverse. Chang Yung-fa commence comme agent de cale dans une compagnie maritime japonaise, et gravit les échelons à force d'autodidaxie jusqu'à obtenir son brevet de capitaine. Les armateurs occidentaux finiront par résumer sa réputation en une phrase : « Quand Y.F. Chang décide quelque chose, c'est décidé — il ne change pas d'avis. » (Propos rapportés par *CommonWealth Magazine*, article « Du fils de charpentier au roi mondial des porte-conteneurs ».)
+Cette tragédie aurait pu le tenir loin de l'océan. Elle a fait l'inverse. Chang Yung-fa commence comme agent de cale dans une compagnie maritime japonaise, et gravit les échelons à force d'autodidaxie jusqu'à obtenir son brevet de capitaine. Les armateurs occidentaux finiront par résumer sa réputation en une phrase : « Quand Y.F. Chang décide quelque chose, c'est décidé — il ne change pas d'avis. » (Propos rapportés par _CommonWealth Magazine_, article « Du fils de charpentier au roi mondial des porte-conteneurs ».)
 
 Deux tentatives d'association échouent. Le 1er septembre 1968, à 41 ans, Chang achète au Japon un cargo d'occasion de 15 ans et fonde Evergreen Marine. L'adresse sur sa carte de visite est à Taipei ; son vrai bureau, c'est le quai.
 
@@ -30,7 +33,7 @@ Deux tentatives d'association échouent. Le 1er septembre 1968, à 41 ans, Chang
 
 Dans les années 1970, le transport maritime mondial traverse une révolution : la conteneurisation. Les marchandises en vrac s'enferment dans des boîtes métalliques standardisées, les grues remplacent les dockers, et les navires grandissent sans cesse. La plupart des armateurs asiatiques attendent de voir. Chang Yung-fa, lui, est déjà en mouvement.
 
-Il consacre deux ans et un million de dollars à une étude de marché, et obtient le soutien financier du négociant japonais Marubeni (*CommonWealth Magazine*, article « Chang Yung-fa d'Evergreen Marine : la stratégie du pionnier »). En 1975, Evergreen ouvre la première ligne régulière entièrement conteneurisée entre l'Extrême-Orient et la côte est des États-Unis — une première pour un armateur taïwanais.
+Il consacre deux ans et un million de dollars à une étude de marché, et obtient le soutien financier du négociant japonais Marubeni (_CommonWealth Magazine_, article « Chang Yung-fa d'Evergreen Marine : la stratégie du pionnier »). En 1975, Evergreen ouvre la première ligne régulière entièrement conteneurisée entre l'Extrême-Orient et la côte est des États-Unis — une première pour un armateur taïwanais.
 
 La décennie suivante ressemble à un blitzkrieg. En 1984, Chang fait construire 24 porte-conteneurs de classe G et inaugure une ligne régulière autour du monde, dans les deux sens — Est et Ouest. Une traversée de l'Atlantique que jamais aucun armateur asiatique n'avait osée.
 
@@ -38,14 +41,14 @@ La décennie suivante ressemble à un blitzkrieg. En 1984, Chang fait construire
 
 > **Chiffres clés**
 >
-> | Indicateur | Données |
-> | ----------- | ------- |
-> | Capital de départ | Un cargo d'occasion de 15 ans (1968) |
-> | Première place mondiale | 1985 — 17 ans après la fondation |
-> | Classement mondial actuel | 7e (par capacité EVP, 2025) |
-> | Capacité de flotte | 1,919 million d'EVP (début 2025) |
-> | Chiffre d'affaires annuel | ~13 milliards USD (TTM, mars 2026) |
-> | Commandes en cours | ~850 000 EVP, soit 44 % de la flotte actuelle |
+> | Indicateur                | Données                                       |
+> | ------------------------- | --------------------------------------------- |
+> | Capital de départ         | Un cargo d'occasion de 15 ans (1968)          |
+> | Première place mondiale   | 1985 — 17 ans après la fondation              |
+> | Classement mondial actuel | 7e (par capacité EVP, 2025)                   |
+> | Capacité de flotte        | 1,919 million d'EVP (début 2025)              |
+> | Chiffre d'affaires annuel | ~13 milliards USD (TTM, mars 2026)            |
+> | Commandes en cours        | ~850 000 EVP, soit 44 % de la flotte actuelle |
 
 ## Le navire qui a paralysé le monde pendant six jours
 
@@ -89,7 +92,7 @@ Cela ressemble à la façon dont Chang Yung-fa avait abordé la conteneurisation
 
 99 % du commerce extérieur de Taïwan transite par voie maritime. Cette île n'a pas de pétrole, pas de minerai de fer, pas même assez d'eau douce sans ses barrages. Mais elle possède une industrie des semi-conducteurs dont le monde dépend, une flotte de porte-conteneurs classée septième mondiale, et des générations de gens de mer — des dockers aux capitaines, en passant par les entrepreneurs.
 
-Chang Yung-fa a écrit dans ses mémoires *La Volonté de fer, le cœur souple* : « Pour conquérir, il ne faut pas craindre le combat — le navire part, la marchandise doit arriver à bon port. » Il l'a fait. La question, c'est : après lui, qui tient la barre ?
+Chang Yung-fa a écrit dans ses mémoires _La Volonté de fer, le cœur souple_ : « Pour conquérir, il ne faut pas craindre le combat — le navire part, la marchandise doit arriver à bon port. » Il l'a fait. La question, c'est : après lui, qui tient la barre ?
 
 En 2024, la Cour suprême a clos le contentieux testamentaire. Mais sur les cartes de navigation d'Evergreen, de nouveaux porte-conteneurs bi-carburant au méthanol prennent forme dans les chantiers navals. Le jour de leur mise à l'eau, leur coque sera encore peinte en vert, avec le mot EVERGREEN dessus. Qui se tiendra sur la passerelle — c'est une autre histoire.
 

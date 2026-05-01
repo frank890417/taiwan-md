@@ -10,6 +10,9 @@ readingTime: 14
 featured: false
 lastVerified: 2026-04-07
 translatedFrom: 'History/台灣選舉與政黨政治.md'
+sourceCommitSha: '001ae5fb'
+sourceContentHash: 'sha256:92e02a6f4332994e'
+translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 
 # 대만의 선거와 정당 정치

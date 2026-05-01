@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Nature/台灣石虎保育.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:51b6f9aa87c5e972'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만 삵 보전

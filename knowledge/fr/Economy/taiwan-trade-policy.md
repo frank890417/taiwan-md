@@ -11,7 +11,10 @@ readingTime: 16
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Economy/台灣國際貿易政策.md'
+translatedFrom: "Economy/台灣國際貿易政策.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:e86aa807bf77d463"
+translatedAt: "2026-04-14T19:21:33+08:00"
 ---
 
 # La politique commerciale internationale de Taïwan : trouver sa place dans la mondialisation

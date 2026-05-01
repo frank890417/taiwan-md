@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 translatedFrom: 'Culture/台灣老街文化與商業街區.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:979c4f4ab814a0ca'
+translatedAt: '2026-04-14T07:46:34+08:00'
 ---
 
 # 대만 올드스트리트 문화와 상업 거리

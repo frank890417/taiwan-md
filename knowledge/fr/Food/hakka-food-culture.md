@@ -2,7 +2,14 @@
 title: 'La culture culinaire hakka'
 description: "Riche et diverse, la cuisine hakka — du thé broyé à l'arôme enveloppant aux zongzi à la fleur de gingembre sauvage au parfum des forêts de montagne — révèle la sagesse pratique d'un peuple attaché à la frugalité et aux ressources du territoire."
 date: 2026-03-19
-tags: [cuisine hakka, lei cha, zongzi fleur de gingembre sauvage, gastronomie traditionnelle, culture ethnique]
+tags:
+  [
+    cuisine hakka,
+    lei cha,
+    zongzi fleur de gingembre sauvage,
+    gastronomie traditionnelle,
+    culture ethnique,
+  ]
 subcategory: 'Cuisine ethnique'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -13,6 +20,9 @@ translatedFrom: 'Food/客家飲食文化.md'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg/960px-%E7%BE%8E%E6%BF%83%E6%B0%91%E4%BF%97%E6%9D%91%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6%E9%AB%94%E9%A9%9780.jpg'
 imageAlt: 'Lei cha hakka (擂茶)'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:ede7b8639406d534'
+translatedAt: '2026-04-14T12:29:04+08:00'
 ---
 
 # La culture culinaire hakka
@@ -59,6 +69,7 @@ Le sauté hakka est la préparation la plus emblématique de la cuisine hakka du
 ### L'art des conserves : le temps comme allié
 
 Les techniques de conservation hakka sont proprement remarquables :
+
 - **Fucai (福菜)** : moutarde fermentée en saumure, à l'arôme acidulé et caractéristique.
 - **Méigancài (梅乾菜)** : moutarde séchée puis salée, aux saveurs profondes et concentrées ; associée au porc mijoté (扣肉), elle forme un accord classique et inoubliable.
 - **Porc salé (鹹豬肉)** : porc mis en sel puis séché au vent, source essentielle de protéines dans la vie quotidienne.
@@ -68,6 +79,7 @@ Les techniques de conservation hakka sont proprement remarquables :
 ### Salé, riche, parfumé : le code gastronomique des travailleurs
 
 La cuisine hakka est réputée pour sa trinité « salée, riche, parfumée » — un reflet direct des conditions de vie et du labeur de ce peuple. Les Hakkas étant majoritairement agriculteurs et artisans, leurs dépenses physiques étaient considérables :
+
 - Le « salé » pour compenser le sel perdu dans l'effort ;
 - Le « riche » pour fournir l'énergie nécessaire aux travaux des champs ;
 - Le « parfumé » pour stimuler l'appétit grâce aux épices et condiments.

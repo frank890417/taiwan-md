@@ -3,7 +3,14 @@ title: 'Huang Chen-nan'
 description: "Huang Chen-nan est un historien amateur, bibliophile et auteur taïwanais. Connu sous le pseudonyme Sizumaru sur PTT, il anime la page « Huoshui Lai Ce Fang » (活水來冊房) dédiée à l'histoire de Taïwan et à la culture du livre ancien. Auteur de l'ouvrage à succès sur l'histoire de Taïwan en version accessible, il est surnommé le « Takeshi Kaneshiro des bibliophiles »."
 date: 2026-03-20T00:00:00Z
 updated: 2026-03-20T00:00:00Z
-tags: ['histoire taïwanaise', 'bibliophile', 'Huang Chen-nan', 'culture du livre', 'Huoshui Lai Ce Fang']
+tags:
+  [
+    'histoire taïwanaise',
+    'bibliophile',
+    'Huang Chen-nan',
+    'culture du livre',
+    'Huoshui Lai Ce Fang',
+  ]
 subcategory: 'Littérature'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -13,6 +20,9 @@ featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'People/黃震南.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:26157944457addef'
+translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 
 # Huang Chen-nan : le bibliophile taïwanais qui rend l'histoire vivante

@@ -1,8 +1,17 @@
 ---
 title: "L'ours noir de Formose"
-description: "Le V blanc sur sa poitrine est sa signature — dernier souverain des forêts de Taïwan, et la bataille inachevée pour sa survie"
+description: 'Le V blanc sur sa poitrine est sa signature — dernier souverain des forêts de Taïwan, et la bataille inachevée pour sa survie'
 date: 2026-03-18
-tags: ['ours noir de Formose', 'conservation', 'espèces menacées', 'Huang Mei-hsiu', 'forêts de montagne', 'peuples autochtones', 'parcs nationaux']
+tags:
+  [
+    'ours noir de Formose',
+    'conservation',
+    'espèces menacées',
+    'Huang Mei-hsiu',
+    'forêts de montagne',
+    'peuples autochtones',
+    'parcs nationaux',
+  ]
 subcategory: 'Parcs nationaux et sentiers'
 category: 'Nature'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣黑熊.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7da94098666855ee'
+translatedAt: '2026-04-14T19:23:02+08:00'
 ---
 
 # L'ours noir de Formose

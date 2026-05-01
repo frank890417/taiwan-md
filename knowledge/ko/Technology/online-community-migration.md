@@ -19,6 +19,9 @@ readingTime: 9
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 lastVerified: 2026-03-29
 featured: false
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:c3630708a8986b72'
+translatedAt: '2026-04-14T06:57:58+08:00'
 ---
 
 > 1999년, 교통대학교 컴퓨터공학과 학생 젠즈위(簡志宇)가 기숙사에 BBS 서버를 세웠다. 2013년, 그 BBS에서 자라난 우밍샤오잔(無名小站)은 야후가 플러그를 뽑으며 5억 장이 넘는 사진과 함께 사라졌다. BBS에서 Threads까지, 대만인의 인터넷 커뮤니티 역사는 끊임없이 이사하고 끊임없이 잊어 온 이주의 역사다. 플랫폼이 바뀔 때마다 한 세대 전체의 집단 기억이 사라졌다.

@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Art/台灣攝影.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:52b7961ea27ae3bf'
+translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 
 # 대만 사진

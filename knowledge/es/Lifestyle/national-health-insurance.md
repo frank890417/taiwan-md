@@ -9,6 +9,9 @@ author: Taiwan.md
 readingTime: 8
 featured: false
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
+sourceCommitSha: 'ecb173b1'
+sourceContentHash: 'sha256:39c821713935f8cf'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Seguro Nacional de Salud

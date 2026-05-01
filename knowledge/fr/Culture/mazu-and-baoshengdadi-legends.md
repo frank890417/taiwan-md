@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
-translatedFrom: 'Culture/媽祖與大道公的傳說.md'
+translatedFrom: "Culture/媽祖與大道公的傳說.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:e0f0df37674e0a42"
+translatedAt: "2026-04-14T12:34:13+08:00"
 ---
 
 > **En 30 secondes** : chaque année, le vent souffle immanquablement le 15e jour du 3e mois lunaire — anniversaire de Baoshengdadi — et la pluie tombe tout aussi fidèlement le 23e jour, anniversaire de Mazu. Le dicton taïwanais « le vent de Baoshengdadi, la pluie de Mazu » consigne des siècles d'observations météorologiques. Mais la tradition populaire y voit surtout les séquelles d'une histoire d'amour inachevée entre deux divinités.

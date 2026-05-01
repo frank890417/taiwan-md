@@ -20,6 +20,9 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-11
 translatedFrom: 'Economy/台灣機械工具產業.md'
+sourceCommitSha: 'fa95d5e0'
+sourceContentHash: 'sha256:74fc634acab51c40'
+translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 
 # 대만 공작기계 산업

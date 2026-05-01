@@ -10,6 +10,9 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'History/日治時期.md'
+sourceCommitSha: '9a2361b6'
+sourceContentHash: 'sha256:fb4775ce7ce7538c'
+translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 
 # 일제 강점기

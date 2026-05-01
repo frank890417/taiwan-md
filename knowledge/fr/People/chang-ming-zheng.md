@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime:
 featured:
 lastVerified: 2026-03-19
-translatedFrom: 'People/張明正.md'
+translatedFrom: "People/張明正.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:0f8933e82bc3abdb"
+translatedAt: "2026-04-14T19:14:57+08:00"
 ---
 
 # Chang Ming-Zheng : gardien de la sécurité dans le monde numérique

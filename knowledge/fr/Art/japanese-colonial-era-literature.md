@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'Art/日治時期文學.md'
+translatedFrom: "Art/日治時期文學.md"
+sourceCommitSha: "221b1708"
+sourceContentHash: "sha256:19723b834d9cebfa"
+translatedAt: "2026-04-14T19:14:02+08:00"
 ---
 
 # La littérature taïwanaise à l'ère coloniale japonaise
@@ -22,9 +25,9 @@ C'est l'époque la plus complexe, la plus contradictoire et la plus dramatique d
 
 ### Les voix de la résistance
 
-« Le chagrin de printemps résiste au regard des montagnes / Le passé me hante, les larmes affleurent / Quatre millions d'âmes pleurent ensemble / Taïwan cédée, un an déjà. » Ces vers du poète Qiu Fengjia, dans son poème *Chagrin de printemps*, disent sans détour la douleur et la révolte des lettrés taïwanais face à la cession de l'île.
+« Le chagrin de printemps résiste au regard des montagnes / Le passé me hante, les larmes affleurent / Quatre millions d'âmes pleurent ensemble / Taïwan cédée, un an déjà. » Ces vers du poète Qiu Fengjia, dans son poème _Chagrin de printemps_, disent sans détour la douleur et la révolte des lettrés taïwanais face à la cession de l'île.
 
-Dans les années qui suivent 1895, Taïwan voit éclore une profusion d'œuvres de résistance, essentiellement poétiques, qui expriment le rejet de la domination japonaise et la nostalgie du continent. L'*Avant-propos de l'Histoire générale de Taïwan* de Lian Yatang, bien que rédigé plus tard, puise son élan dans cette période : sa formule « Taïwan n'a pas d'histoire » traduit la volonté des intellectuels de donner à l'île sa propre mémoire et sa propre parole.
+Dans les années qui suivent 1895, Taïwan voit éclore une profusion d'œuvres de résistance, essentiellement poétiques, qui expriment le rejet de la domination japonaise et la nostalgie du continent. L'_Avant-propos de l'Histoire générale de Taïwan_ de Lian Yatang, bien que rédigé plus tard, puise son élan dans cette période : sa formule « Taïwan n'a pas d'histoire » traduit la volonté des intellectuels de donner à l'île sa propre mémoire et sa propre parole.
 
 Mais la plupart des lettrés choisissent de traverser le détroit pour rejoindre le continent. Cette hémorragie de talents crée un vide temporaire dans le développement littéraire. Ceux qui restent soit se taisent peu à peu sous la pression culturelle japonaise, soit s'épuisent dans les contradictions entre tradition et modernité, entre local et exogène.
 
@@ -32,15 +35,15 @@ Mais la plupart des lettrés choisissent de traverser le détroit pour rejoindre
 
 ### Zhang Wojun, pionnier de la littérature nouvelle
 
-En 1924, paraît dans le *Taiwan Minbao* un article intitulé « Lettre à la jeunesse taïwanaise », signé Zhang Wojun, tout juste rentré de Pékin. Le texte attaque sans ménagement la poésie classique taïwanaise, qu'il juge « poussiéreuse et dépassée », et prône l'adoption du mouvement pour la nouvelle littérature lancé par Hu Shi — une littérature en langue vernaculaire, ancrée dans le présent.
+En 1924, paraît dans le _Taiwan Minbao_ un article intitulé « Lettre à la jeunesse taïwanaise », signé Zhang Wojun, tout juste rentré de Pékin. Le texte attaque sans ménagement la poésie classique taïwanaise, qu'il juge « poussiéreuse et dépassée », et prône l'adoption du mouvement pour la nouvelle littérature lancé par Hu Shi — une littérature en langue vernaculaire, ancrée dans le présent.
 
 La réaction est immédiate et vive. Les lettrés traditionnels, avec Lian Yatang en tête, rejettent catégoriquement le vernaculaire, qu'ils trouvent « plat et sans saveur », indigne de la profondeur culturelle chinoise. Les partisans de Zhang Wojun rétorquent que seul le vernaculaire peut exprimer la sensibilité de l'homme moderne et faire descendre la littérature vers le peuple.
 
 Ce débat dépasse de loin la sphère littéraire. Il pose une question de fond sur l'orientation culturelle de Taïwan : maintenir la tradition ou embrasser la modernité ? Conserver une culture d'élite ou aller vers la masse ? Rester fidèle à la « langue nationale » (le chinois) ou accepter la « langue nationale » au sens colonial (le japonais) ?
 
-### Le *Taiwan Minbao*, berceau de la nouvelle littérature
+### Le _Taiwan Minbao_, berceau de la nouvelle littérature
 
-Fondé en 1925, le *Taiwan Minbao* devient la tribune centrale du mouvement pour la nouvelle littérature. Le journal publie non seulement l'actualité politique, mais offre surtout un espace d'expression aux nouvelles voix littéraires taïwanaises — de nombreux écrivains y publient leurs premiers textes.
+Fondé en 1925, le _Taiwan Minbao_ devient la tribune centrale du mouvement pour la nouvelle littérature. Le journal publie non seulement l'actualité politique, mais offre surtout un espace d'expression aux nouvelles voix littéraires taïwanaises — de nombreux écrivains y publient leurs premiers textes.
 
 Ses pages littéraires reflètent la transition de l'époque : nouveaux poèmes, nouvelles et essais en vernaculaire côtoient encore les pages de poésie classique. Plus important encore, le journal commence à s'intéresser à la réalité sociale taïwanaise, jetant les bases d'un réalisme littéraire à venir.
 
@@ -50,13 +53,13 @@ Si l'on devait désigner l'auteur le plus important de l'ère coloniale, Lai He 
 
 ### Éveil littéraire et conscience nationale
 
-L'œuvre de Lai He est indissociable de son engagement politique. En 1921, il rejoint l'Association culturelle taïwanaise et commence à se préoccuper des questions sociales. En 1925, il publie l'essai *Sans titre* et le poème *Le sacrifice dans la conscience éveillée — à mes camarades de l'incident de Erlin*, entrant ainsi officiellement dans l'arène de la nouvelle littérature.
+L'œuvre de Lai He est indissociable de son engagement politique. En 1921, il rejoint l'Association culturelle taïwanaise et commence à se préoccuper des questions sociales. En 1925, il publie l'essai _Sans titre_ et le poème _Le sacrifice dans la conscience éveillée — à mes camarades de l'incident de Erlin_, entrant ainsi officiellement dans l'arène de la nouvelle littérature.
 
-Son œuvre maîtresse, *La Foire animée* (1926), est considérée comme le premier véritable roman en prose vernaculaire de Taïwan. Prenant pour cadre une fête de temple, le texte dépeint la vie quotidienne du peuple taïwanais tout en glissant subtilement une critique de la domination japonaise. La langue est vivante, truffée de termes du dialecte taïwanais — une première audace qui ouvre la voie à l'ancrage local de la littérature taïwanaise.
+Son œuvre maîtresse, _La Foire animée_ (1926), est considérée comme le premier véritable roman en prose vernaculaire de Taïwan. Prenant pour cadre une fête de temple, le texte dépeint la vie quotidienne du peuple taïwanais tout en glissant subtilement une critique de la domination japonaise. La langue est vivante, truffée de termes du dialecte taïwanais — une première audace qui ouvre la voie à l'ancrage local de la littérature taïwanaise.
 
 ### L'enracinement du réalisme
 
-Lai He ne quitte jamais des yeux la réalité sociale, et en particulier les conditions de vie des couches populaires. Sa nouvelle *La Balance* raconte l'injustice subie par un petit marchand, Qin Decan, à cause de la réforme des poids et mesures coloniale — une dénonciation cinglante de l'absurdité et de la brutalité du système colonial.
+Lai He ne quitte jamais des yeux la réalité sociale, et en particulier les conditions de vie des couches populaires. Sa nouvelle _La Balance_ raconte l'injustice subie par un petit marchand, Qin Decan, à cause de la réforme des poids et mesures coloniale — une dénonciation cinglante de l'absurdité et de la brutalité du système colonial.
 
 Cette orientation réaliste établit une tradition durable dans la littérature taïwanaise : non pas l'art pour l'art, mais une littérature qui s'engage dans le monde, qui reflète la misère du peuple et éveille les consciences. Cette tradition influencera ensuite Yang Kui, Lü Heruo et bien d'autres, devenant l'une des marques distinctives de la littérature taïwanaise.
 
@@ -72,13 +75,13 @@ Plus fondamentalement, Lai He a trouvé, par ce travail sur la langue, une faço
 
 Yang Kui (1906–1985) est la figure centrale de la gauche littéraire taïwanaise. Ses années d'études au Japon le font entrer en contact avec le marxisme et la théorie de la littérature prolétarienne. De retour à Taïwan, il se consacre à la création et à la diffusion d'une littérature socialiste.
 
-Son œuvre phare, *Le Livreur de journaux*, est le premier roman taïwanais à placer un ouvrier au centre du récit. Il suit les malheurs d'un jeune garçon chargé de distribuer des journaux, et dénonce vigoureusement les injustices du capitalisme. La langue y est directe et puissante, les personnages saisissants — une littérature au service de la classe ouvrière.
+Son œuvre phare, _Le Livreur de journaux_, est le premier roman taïwanais à placer un ouvrier au centre du récit. Il suit les malheurs d'un jeune garçon chargé de distribuer des journaux, et dénonce vigoureusement les injustices du capitalisme. La langue y est directe et puissante, les personnages saisissants — une littérature au service de la classe ouvrière.
 
-En 1935, Yang Kui fonde la revue *Nouvelle Littérature de Taïwan*, première revue entièrement consacrée à la littérature dans l'île. En plus de publier les auteurs locaux, elle traduit abondamment les œuvres étrangères de gauche, ouvrant la littérature taïwanaise sur le monde.
+En 1935, Yang Kui fonde la revue _Nouvelle Littérature de Taïwan_, première revue entièrement consacrée à la littérature dans l'île. En plus de publier les auteurs locaux, elle traduit abondamment les œuvres étrangères de gauche, ouvrant la littérature taïwanaise sur le monde.
 
-### Zhang Shenqie et *Taiwan Bungei*
+### Zhang Shenqie et _Taiwan Bungei_
 
-En 1934, la revue *Taiwan Bungei* est fondée par Zhang Shenqie, qui affiche un principe d'ouverture : « ni doctrine unique, ni chapelle ». Ce projet fédère les forces littéraires de Taïwan et deviendra l'une des publications les plus influentes de son histoire.
+En 1934, la revue _Taiwan Bungei_ est fondée par Zhang Shenqie, qui affiche un principe d'ouverture : « ni doctrine unique, ni chapelle ». Ce projet fédère les forces littéraires de Taïwan et deviendra l'une des publications les plus influentes de son histoire.
 
 Sa particularité est son pluralisme. On y trouve des textes d'auteurs de gauche comme des créations modernistes ; des œuvres en chinois comme en japonais ; des regards sur le local comme des fenêtres sur la littérature mondiale. Cette ouverture d'esprit pose les fondations du développement pluriel de la littérature taïwanaise.
 
@@ -86,21 +89,21 @@ Sa particularité est son pluralisme. On y trouve des textes d'auteurs de gauche
 
 ### L'émergence de la littérature en langue japonaise
 
-Après le déclenchement de la guerre sino-japonaise en 1937, le Japon impose à Taïwan le mouvement de « japanisation » (*kōminka*), interdit l'usage public du chinois et généralise l'enseignement en japonais. Dans ce contexte surgit une génération d'auteurs taïwanais qui créent en japonais.
+Après le déclenchement de la guerre sino-japonaise en 1937, le Japon impose à Taïwan le mouvement de « japanisation » (_kōminka_), interdit l'usage public du chinois et généralise l'enseignement en japonais. Dans ce contexte surgit une génération d'auteurs taïwanais qui créent en japonais.
 
 Ces écrivains se trouvent dans une position culturelle extraordinairement complexe : ils doivent s'exprimer dans la langue du colonisateur tout en cherchant à maintenir, dans leurs œuvres, un lien avec la culture taïwanaise. Cette contradiction génère une tension littéraire singulière, et donne naissance à quelques textes remarquables.
 
 ### Lü Heruo : un artiste au-delà des langues
 
-Lü Heruo (1914–1951) est l'auteur le plus important de cette période. Sa nouvelle *La Charrette à bœufs* décrit avec une finesse saisissante le déclin du monde rural taïwanais, montrant des paysans démunis face au choc de la modernisation. Rédigée en japonais, l'œuvre reste profondément enracinée dans la terre taïwanaise.
+Lü Heruo (1914–1951) est l'auteur le plus important de cette période. Sa nouvelle _La Charrette à bœufs_ décrit avec une finesse saisissante le déclin du monde rural taïwanais, montrant des paysans démunis face au choc de la modernisation. Rédigée en japonais, l'œuvre reste profondément enracinée dans la terre taïwanaise.
 
 Son œuvre illustre une stratégie culturelle propre aux écrivains colonisés : se conformer en apparence aux exigences de la politique coloniale, mais exprimer, à travers métaphores et symboles, une fidélité souterraine à la culture locale. Cette écriture en « biais » deviendra une tradition importante de la littérature taïwanaise.
 
 ### Zhang Wenhuan : la résistance par la plume
 
-Zhang Wenhuan (1909–1978) est un autre auteur majeur de la littérature en langue japonaise. Sa nouvelle *Le Coq châtré* raconte l'histoire d'un coq castré pour métaphorer le sort du peuple taïwanais sous la domination coloniale. L'usage du symbole permet de contourner la censure tout en délivrant un message politique d'une profondeur réelle.
+Zhang Wenhuan (1909–1978) est un autre auteur majeur de la littérature en langue japonaise. Sa nouvelle _Le Coq châtré_ raconte l'histoire d'un coq castré pour métaphorer le sort du peuple taïwanais sous la domination coloniale. L'usage du symbole permet de contourner la censure tout en délivrant un message politique d'une profondeur réelle.
 
-En 1941, Zhang Wenhuan fonde la revue *Littérature de Taïwan*, la publication littéraire la plus importante de l'ère de japanisation. Rédigée en japonais, elle maintient néanmoins une position ancrée dans la littérature taïwanaise et offre aux auteurs locaux un espace d'expression précieux.
+En 1941, Zhang Wenhuan fonde la revue _Littérature de Taïwan_, la publication littéraire la plus importante de l'ère de japanisation. Rédigée en japonais, elle maintient néanmoins une position ancrée dans la littérature taïwanaise et offre aux auteurs locaux un espace d'expression précieux.
 
 ## L'esthétique de la littérature coloniale
 
@@ -142,7 +145,7 @@ Cette période a posé des fondations solides pour les générations suivantes :
 
 _Sources :_
 
-- Ye Shitao, [*Esquisse d'une histoire de la littérature taïwanaise*](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ)
-- Chen Fangming, [*Taïwan colonial : histoire du mouvement politique de gauche*](https://www.books.com.tw/products/0010751439)
-- Kawahara Isao, [*Le développement du mouvement pour la nouvelle littérature taïwanaise*](https://www.books.com.tw/products/0010268540)
-- Nakajima Toshiro (dir.), *Essais sur l'histoire de la littérature taïwanaise à l'ère japonaise*
+- Ye Shitao, [_Esquisse d'une histoire de la littérature taïwanaise_](https://books.google.com/books/about/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8%E5%8F%B2%E7%B6%B1.html?id=8fURAAAAYAAJ)
+- Chen Fangming, [_Taïwan colonial : histoire du mouvement politique de gauche_](https://www.books.com.tw/products/0010751439)
+- Kawahara Isao, [_Le développement du mouvement pour la nouvelle littérature taïwanaise_](https://www.books.com.tw/products/0010268540)
+- Nakajima Toshiro (dir.), _Essais sur l'histoire de la littérature taïwanaise à l'ère japonaise_

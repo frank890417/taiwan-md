@@ -21,7 +21,10 @@ readingTime: 13
 featured: true
 lastVerified: 2026-04-12
 lastHumanReview: false
-translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
+translatedFrom: "Society/一個教師的誕生：台灣師資培育制度.md"
+sourceCommitSha: "e5be81a5"
+sourceContentHash: "sha256:8742b676dcfc18c1"
+translatedAt: "2026-04-14T12:32:15+08:00"
 ---
 
 > **En 30 secondes :** Le 7 février 1994, le Parlement taïwanais a adopté en troisième lecture la Loi sur la formation des enseignants, mettant fin à un demi-siècle de filière pédagogique intégrée et ouvrant la formation à toutes les universités[^1]. L'ambition était claire : diversifier les profils d'entrée dans l'enseignement. Trente ans plus tard, le résultat est plus contrasté. Les 9 universités pédagogiques initiales ont été réduites à **3** à la suite d'une vague de fusions[^2]. En 2020-2021 (109e année scolaire), les institutions de formation affichaient un déficit de **1 551 places** non pourvues — un record historique[^3]. En 2018, une nouvelle révision législative a inversé l'ordre du processus : l'examen de qualification précède désormais le stage[^4]. Depuis cette réforme, le taux de réussite au concours a chuté à **51,64 %** en 2023[^5] et **52,2 %** en 2024[^6] — parmi les plus bas depuis l'introduction des nouvelles épreuves. Sur les étudiants entrés en formation entre 2011 et 2018, **42 % ont abandonné avant d'obtenir leur certificat**[^7]. Et près de **47 % des stagiaires en formation** reconnaissent suivre le cursus « au cas où », sans intention ferme d'enseigner[^7]. La réforme de 1994 voulait résoudre le problème de l'uniformité des profils. En 2024, le problème n'est plus là : **les vocations s'amenuisent, et ceux qui restent sont de moins en moins préparés aux réalités du terrain**.

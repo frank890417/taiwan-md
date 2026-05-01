@@ -8,8 +8,11 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
-translatedFrom: 'Culture/台灣原住民語言復振運動.md'
+translatedFrom: "Culture/台灣原住民語言復振運動.md"
 lastVerified: 2026-03-29
+sourceCommitSha: "26216f73"
+sourceContentHash: "sha256:9c408bfc603af1d1"
+translatedAt: "2026-04-14T12:33:49+08:00"
 ---
 
 # Le mouvement de revitalisation des langues autochtones à Taïwan
@@ -92,7 +95,7 @@ Plateforme d'apprentissage numérique en langue autochtone (klokah) : https://we
 
 Atlas des langues en danger de l'UNESCO : https://www.unesco.org/languages-atlas/
 
-Sources académiques en chinois : Li Taiyuan (2020) *Revitalisation des langues autochtones : politiques et pratiques*, Avanguard Publishing ; Huang Meijin (2019) *Crise et revitalisation des langues austronésiennes de Taïwan*, Institut de linguistique, Academia Sinica ; Jian Yuezhen (2021) *Le nid linguistique villageois : pratiques locales de revitalisation des langues autochtones*, National Chengchi University Press.
+Sources académiques en chinois : Li Taiyuan (2020) _Revitalisation des langues autochtones : politiques et pratiques_, Avanguard Publishing ; Huang Meijin (2019) _Crise et revitalisation des langues austronésiennes de Taïwan_, Institut de linguistique, Academia Sinica ; Jian Yuezhen (2021) _Le nid linguistique villageois : pratiques locales de revitalisation des langues autochtones_, National Chengchi University Press.
 
 **Pour aller plus loin** :
 

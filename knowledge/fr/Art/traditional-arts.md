@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-24
-translatedFrom: 'Art/台灣傳統藝術.md'
+translatedFrom: "Art/台灣傳統藝術.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:8199dcc4edeb2fce"
+translatedAt: "2026-04-14T19:13:26+08:00"
 ---
 
 # Les arts traditionnels de Taïwan : l'improbable renaissance d'un théâtre de village en empire culturel
@@ -18,7 +21,7 @@ translatedFrom: 'Art/台灣傳統藝術.md'
 
 ## La révolution culturelle derrière un taux d'audience de 97 %
 
-En 1970, lorsque la série de marionnettes *Yun Zhou Da Ru Xia* de Huang Junxiong fit ses débuts sur Taiwan Television, personne n'imaginait qu'un spectacle de poupées de bois allait écrire l'une des pages les plus étonnantes de l'histoire de la télévision taïwanaise. **97 % de parts de marché** — cela signifie que 97 Taïwanais sur 100 possédant un téléviseur regardaient les aventures de Shi Yan-wen.
+En 1970, lorsque la série de marionnettes _Yun Zhou Da Ru Xia_ de Huang Junxiong fit ses débuts sur Taiwan Television, personne n'imaginait qu'un spectacle de poupées de bois allait écrire l'une des pages les plus étonnantes de l'histoire de la télévision taïwanaise. **97 % de parts de marché** — cela signifie que 97 Taïwanais sur 100 possédant un téléviseur regardaient les aventures de Shi Yan-wen.
 
 Les paysans posaient leur houe pour rentrer suivre l'épisode du soir, les usines s'arrêtaient trente minutes pour laisser les ouvriers regarder leur feuilleton, et même l'efficacité des administrations publiques en pâtissait. Ce n'était plus du divertissement : c'était une possession collective à l'échelle de l'île. La population taïwanaise atteignait alors environ 15 millions d'habitants ; chaque épisode rassemblait plus de 10 millions de spectateurs — un chiffre aujourd'hui inimaginable à l'ère de l'audience fragmentée.
 
@@ -34,15 +37,15 @@ Fondé en 1985, Pili Multimedia a bâti son royaume de distribution sur la casse
 
 Les chiffres parlent d'eux-mêmes. Pili produit chaque année plus de 200 épisodes de marionnettes, avec un coût de production unitaire compris entre 3 et 5 millions de nouveaux dollars taïwanais. Une série de 50 épisodes représente un investissement total pouvant atteindre 250 millions — un budget qui place déjà la production au niveau A de l'industrie audiovisuelle taïwanaise. Mais le modèle économique de Pili va bien au-delà : produits dérivés, licences de jeux vidéo, parcs à thème, cessions de droits internationaux. En 2023, le chiffre d'affaires total a dépassé 6 milliards de nouveaux dollars taïwanais, avec plus de 400 employés. Pili est la licorne invisible de l'industrie créative taïwanaise.
 
-**La collaboration avec le Japon a confirmé la valeur internationale des arts traditionnels de Taïwan.** La série *Thunderbolt Fantasy* — scénarisée par Gen Urobuchi, avec Pili aux commandes de la fabrication des marionnettes — a créé un véritable phénomène au Japon. Un spectacle populaire né dans le Fujian au XVIIe siècle a trouvé, au XXIe siècle, un nouveau public dans le marché de l'animation japonaise. Cette circulation culturelle complexe, aucune politique de préservation n'aurait pu la concevoir.
+**La collaboration avec le Japon a confirmé la valeur internationale des arts traditionnels de Taïwan.** La série _Thunderbolt Fantasy_ — scénarisée par Gen Urobuchi, avec Pili aux commandes de la fabrication des marionnettes — a créé un véritable phénomène au Japon. Un spectacle populaire né dans le Fujian au XVIIe siècle a trouvé, au XXIe siècle, un nouveau public dans le marché de l'animation japonaise. Cette circulation culturelle complexe, aucune politique de préservation n'aurait pu la concevoir.
 
 ## L'opéra gége : des chemins de traverse à la scène internationale
 
-Si le miracle du théâtre de marionnettes tient à sa commercialisation, celui de l'opéra gége (歌仔戲, *gezaixi*) réside dans **le renversement de valeur : ce qui était le plus populaire est devenu le plus universel**.
+Si le miracle du théâtre de marionnettes tient à sa commercialisation, celui de l'opéra gége (歌仔戲, _gezaixi_) réside dans **le renversement de valeur : ce qui était le plus populaire est devenu le plus universel**.
 
 À l'origine, le gége était le « chant local » de Yilan — un divertissement de gens ordinaires, fait de récits chantés et de contes. Dans les années 1920, il pénètre les salles de théâtre pour devenir le « gége de scène couverte ». Dans les années 1950, il monte sur les écrans de télévision. À chaque métamorphose, il se rapproche du centre. À l'époque des quatre grandes stars — Yang Lihua, Ye Qing, Huang Xianglian et Chen Yalan —, le gége s'est imposé comme l'art du spectacle le plus emblématique de Taïwan.
 
-**En 2023, la troupe Ming Hwa Yuan s'est produite au Festival d'Avignon, en France — un fait qui mérite qu'on s'y arrête.** La pièce *San Xi* (La dernière représentation) a valu à ses interprètes une ovation debout de quinze minutes. La langue était étrangère, mais l'émotion, elle, était universelle. Cela prouve une certaine valeur universelle des arts traditionnels de Taïwan : ils ne sont pas appréciés pour leur « mystère oriental », mais pour la force intrinsèque de leur art.
+**En 2023, la troupe Ming Hwa Yuan s'est produite au Festival d'Avignon, en France — un fait qui mérite qu'on s'y arrête.** La pièce _San Xi_ (La dernière représentation) a valu à ses interprètes une ovation debout de quinze minutes. La langue était étrangère, mais l'émotion, elle, était universelle. Cela prouve une certaine valeur universelle des arts traditionnels de Taïwan : ils ne sont pas appréciés pour leur « mystère oriental », mais pour la force intrinsèque de leur art.
 
 Le gége contemporain ne fait pas face à une crise de survie, mais à un choix : préserver l'« authenticité de la tradition » ou embrasser les « possibilités du présent » ? Wang Youhui intègre des éléments de musique pop dans ses créations ; la troupe de Tang Meiyun collabore avec le NSO, l'Orchestre Symphonique National. Toutes ces démarches explorent la même question. Le résultat est clair : le public ne cherche pas une tradition figée, mais un art vivant.
 
@@ -62,7 +65,7 @@ La loi taïwanaise sur la préservation du patrimoine culturel classe le patrimo
 
 Mais la réalité derrière ces chiffres est cruelle : **plus de 60 % des gardiens du patrimoine ont dépassé 70 ans**, sans successeur en vue. Le problème de fond est que la loi traite les « techniques » comme des « savoirs » susceptibles d'être enregistrés et reproduits, en ignorant la nature profonde des arts traditionnels : l'accumulation de l'expérience vécue et la pratique incarnée dans la vie quotidienne.
 
-Prenons l'exemple de la musique nankan. Le gouvernement a investi des dizaines de millions pour la numériser, constituant une base de données complète de partitions. Mais ce dont la transmission du nankan a véritablement besoin, ce ne sont pas des partitions : c'est le *yunwei* — cette sensibilité subtile qui ne se transmet que dans la relation directe entre maître et disciple. Ce « savoir tacite » ne peut pas être quantifié par une politique, ni stocké dans une base de données.
+Prenons l'exemple de la musique nankan. Le gouvernement a investi des dizaines de millions pour la numériser, constituant une base de données complète de partitions. Mais ce dont la transmission du nankan a véritablement besoin, ce ne sont pas des partitions : c'est le _yunwei_ — cette sensibilité subtile qui ne se transmet que dans la relation directe entre maître et disciple. Ce « savoir tacite » ne peut pas être quantifié par une politique, ni stocké dans une base de données.
 
 **Le système japonais des « trésors humains nationaux » propose une approche différente.** Au Japon, on ne protège pas seulement la technique : on protège **l'écosystème social qui permet à cette technique de vivre**. Un grand maître laqueur ne se contente pas de fabriquer des objets laqués — il maintient en bonne santé toute la chaîne de l'industrie de la laque : culture de l'arbre à laque, récolte, fabrication des outils, commercialisation. La préservation du savoir-faire devient protection d'une filière, la politique culturelle devient politique économique.
 
@@ -122,7 +125,7 @@ Le progrès des outils techniques offre également de nouveaux espaces de créat
 
 Le succès international de Netflix a révélé la culture coréenne au monde entier ; Disney+ a mis en lumière l'influence de l'animation japonaise. Quelle est l'opportunité de Taïwan ? La réponse se trouve peut-être dans la modernisation des arts traditionnels. La collaboration de Pili avec le Japon, les tournées européennes de Ming Hwa Yuan, les collections internationales de céramiques jiaozhi — autant de contributions à la visibilité internationale de la culture taïwanaise.
 
-L'essentiel est que cette internationalisation n'est pas là pour répondre à l'« imaginaire de l'Orient » que les étrangers projettent : elle est là pour partager l'énergie créative du peuple taïwanais. Quand le public français s'est levé pour applaudir *San Xi*, ce qu'il admirait n'était pas une « couleur locale exotique » — c'était la puissance émotionnelle de l'art lui-même.
+L'essentiel est que cette internationalisation n'est pas là pour répondre à l'« imaginaire de l'Orient » que les étrangers projettent : elle est là pour partager l'énergie créative du peuple taïwanais. Quand le public français s'est levé pour applaudir _San Xi_, ce qu'il admirait n'était pas une « couleur locale exotique » — c'était la puissance émotionnelle de l'art lui-même.
 
 ## L'avenir imaginé : la tradition renaît dans l'innovation
 

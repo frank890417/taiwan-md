@@ -2,7 +2,14 @@
 title: 'La culture des fruits de mer à Taïwan'
 description: 'Des ports de pêche aux étals de nuit, en passant par les restaurants et les huîtres dorées à la plancha, Taïwan célèbre les trésors de la mer avec une générosité et une fraîcheur incomparables'
 date: 2026-03-20
-tags: ['fruits de mer', 'port de pêche', 'culture insulaire', 'huîtres', 'cuisine maritime']
+tags:
+  [
+    'fruits de mer',
+    'port de pêche',
+    'culture insulaire',
+    'huîtres',
+    'cuisine maritime',
+  ]
 subcategory: 'Ingrédients et assaisonnements'
 author: 'Taiwan.md Translation Team'
 difficulty: 'beginner'
@@ -15,6 +22,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%E5%9F%BA%E9%9
 imageAlt: 'Marché aux poissons de Kanziding à Keelung'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣海鮮文化.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:b19eaae2749a2675'
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # La culture des fruits de mer à Taïwan
@@ -29,9 +39,9 @@ La culture portuaire ne se résume pas à pêcher et à vendre. C'est un art de 
 
 ## Les huîtres : l'âme des saveurs marines taïwanaises
 
-Au cœur de la culture maritime de Taïwan, l'huître (蚵仔, *ke-á*) occupe une place à part. Sur la côte ouest de l'île, l'ostréiculture est une tradition vieille de plusieurs siècles. Budai à Chiayi, Anping à Tainan, Taixi à Yunlin — autant de bassins de production incontournables. La méthode traditionnelle d'élevage sur perches reste en usage : à marée haute, les huîtres se nourrissent du plancton en filtrant l'eau ; à marée basse, exposées à l'air, elles renforcent leur résistance naturelle.
+Au cœur de la culture maritime de Taïwan, l'huître (蚵仔, _ke-á_) occupe une place à part. Sur la côte ouest de l'île, l'ostréiculture est une tradition vieille de plusieurs siècles. Budai à Chiayi, Anping à Tainan, Taixi à Yunlin — autant de bassins de production incontournables. La méthode traditionnelle d'élevage sur perches reste en usage : à marée haute, les huîtres se nourrissent du plancton en filtrant l'eau ; à marée basse, exposées à l'air, elles renforcent leur résistance naturelle.
 
-La crêpe aux huîtres (蚵仔煎, *o-á-tsian*) est l'une des préparations qui incarnent le mieux la culture des fruits de mer à Taïwan. Des huîtres fraîches et charnues, des œufs, une pâte à la fécule de patate douce — le tout saisi sur une plaque en fonte bien chaude jusqu'à obtenir une belle croûte dorée, puis nappé d'une sauce aigre-douce maison. Chaque bouchée concentre toute la douceur iodée de la mer. Ce petit plat, d'apparence modeste, illustre parfaitement la philosophie culinaire taïwanaise : préserver le goût naturel, assaisonner avec parcimonie, exalter la fraîcheur.
+La crêpe aux huîtres (蚵仔煎, _o-á-tsian_) est l'une des préparations qui incarnent le mieux la culture des fruits de mer à Taïwan. Des huîtres fraîches et charnues, des œufs, une pâte à la fécule de patate douce — le tout saisi sur une plaque en fonte bien chaude jusqu'à obtenir une belle croûte dorée, puis nappé d'une sauce aigre-douce maison. Chaque bouchée concentre toute la douceur iodée de la mer. Ce petit plat, d'apparence modeste, illustre parfaitement la philosophie culinaire taïwanaise : préserver le goût naturel, assaisonner avec parcimonie, exalter la fraîcheur.
 
 Les huîtres frites croustillantes (蚵仔酥), les vermicelles aux huîtres (蚵仔麵線) et la soupe aux huîtres (蚵仔湯) témoignent de la profondeur avec laquelle les Taïwanais ont su explorer cet ingrédient. Chaque mode de cuisson révèle un facette différente de l'huître : croustillant ou soyeux, léger ou généreux, les déclinaisons sont infinies.
 
@@ -49,13 +59,13 @@ La grande spécificité du restaurant de fruits de mer à Taïwan, c'est l'expos
 
 ## Les saveurs populaires : encornets et calmars
 
-Face au thon rouge d'exception, les encornets (小卷, *sió-kún*) et les calmars (透抽, *thàu-thiu*) appartiennent à la gastronomie du quotidien. Les eaux du nord de Taïwan regorgent de ces céphalopodes. Un encornet tout frais, simplement blanchi à l'eau bouillante et trempé dans de la sauce soja au gingembre, est un plaisir pur. Le calmar, lui, se prête à la poêlée rapide ou se transforme en soupe épaisse (透抽羹), avec cette texture élastique qui fait le bonheur des Taïwanais.
+Face au thon rouge d'exception, les encornets (小卷, _sió-kún_) et les calmars (透抽, _thàu-thiu_) appartiennent à la gastronomie du quotidien. Les eaux du nord de Taïwan regorgent de ces céphalopodes. Un encornet tout frais, simplement blanchi à l'eau bouillante et trempé dans de la sauce soja au gingembre, est un plaisir pur. Le calmar, lui, se prête à la poêlée rapide ou se transforme en soupe épaisse (透抽羹), avec cette texture élastique qui fait le bonheur des Taïwanais.
 
 Soupe de crabe et beignets de seiche sur le marché nocturne de Keelung, brochettes de calmars frits (花枝燒) aux étals ambulants — ces fruits de mer abordables permettent à chacun de profiter des saveurs de l'océan. Cette démocratisation des fruits de mer est une des caractéristiques les plus précieuses de la culture maritime taïwanaise.
 
 ## L'innovation en aquaculture
 
-La culture des fruits de mer à Taïwan ne repose pas uniquement sur la pêche sauvage : l'aquaculture y joue un rôle tout aussi essentiel. Du milkfish (虱目魚, *sái-bah-hî*) élevé dans le sud au secteur de l'anguille dans le centre, du poisson-chat d'eau douce au mérou côtier, les techniques aquacoles taïwanaises comptent parmi les plus avancées d'Asie.
+La culture des fruits de mer à Taïwan ne repose pas uniquement sur la pêche sauvage : l'aquaculture y joue un rôle tout aussi essentiel. Du milkfish (虱目魚, _sái-bah-hî_) élevé dans le sud au secteur de l'anguille dans le centre, du poisson-chat d'eau douce au mérou côtier, les techniques aquacoles taïwanaises comptent parmi les plus avancées d'Asie.
 
 La filière du mérou (石斑魚) mérite une mention particulière. De la nurserie à la taille commerciale, Taïwan a constitué une chaîne de production intégrée et complète. La qualité des mérous taïwanais est telle que l'île en exporte massivement vers Hong Kong et la Chine continentale, en faisant l'un des fleurons de ses exportations agricoles.
 

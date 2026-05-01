@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/鈕承澤.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c412539523fe8a6a'
+translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 
 # 뉴청쩌 (鈕承澤): 재능과 논란이 공존한 영화인

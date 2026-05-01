@@ -1,8 +1,16 @@
 ---
-title: 'Steve Chen — L''homme qui a inventé YouTube'
-description: 'Il a quitté Taïwan à huit ans, fondé YouTube à vingt-sept ans dans un garage de la Silicon Valley, revendu la plateforme 1,65 milliard de dollars vingt mois plus tard, survécu à un anévrisme cérébral, puis est revenu s''installer à Taïwan avec femme et enfants.'
+title: "Steve Chen — L'homme qui a inventé YouTube"
+description: "Il a quitté Taïwan à huit ans, fondé YouTube à vingt-sept ans dans un garage de la Silicon Valley, revendu la plateforme 1,65 milliard de dollars vingt mois plus tard, survécu à un anévrisme cérébral, puis est revenu s'installer à Taïwan avec femme et enfants."
 date: 2026-04-06
-tags: ['Steve Chen', 'YouTube', 'Silicon Valley', 'entrepreneuriat', 'carte d''emploi dorée', 'anévrisme cérébral']
+tags:
+  [
+    'Steve Chen',
+    'YouTube',
+    'Silicon Valley',
+    'entrepreneuriat',
+    "carte d'emploi dorée",
+    'anévrisme cérébral',
+  ]
 subcategory: 'Technologie et entrepreneuriat'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'People/陳士駿.md'
 lastVerified: 2026-04-05
+sourceCommitSha: 'fb57de30'
+sourceContentHash: 'sha256:a7528e9b7062bef0'
+translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 
 # Steve Chen

@@ -2,7 +2,17 @@
 title: 'La culture populaire des Penghu'
 description: "Chaque année, à la pleine lune du premier mois lunaire, plus de deux cents temples des Penghu procèdent simultanément au rituel de la tortue de riz, certaines pesant jusqu'à vingt-trois tonnes. Sur cet archipel balayé depuis quatre siècles par la mousson du nord-est, les insulaires implorent le retour des pêcheurs partis en mer, capturent le poisson dans des enclos de pierres et chantent leur solitude hivernale en improvisant des couplets."
 date: 2026-03-24
-tags: [Penghu, fête des lanternes, rituel de la tortue, culture des îles éloignées, temples, folklore, enclos de pierre, Mazu]
+tags:
+  [
+    Penghu,
+    fête des lanternes,
+    rituel de la tortue,
+    culture des îles éloignées,
+    temples,
+    folklore,
+    enclos de pierre,
+    Mazu,
+  ]
 subcategory: 'Culture des îles éloignées'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -14,11 +24,14 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou
 imageAlt: 'La salle principale du temple Tianhou de Penghu, le plus ancien temple Mazu conservé à Taïwan'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Culture/澎湖民俗文化.md'
+sourceCommitSha: 'e3376fec'
+sourceContentHash: 'sha256:20a4e415d5a5b5ab'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 # La culture populaire des Penghu
 
-> **En 30 secondes :** La nuit du Yuanxiao 2025, devant le temple Guanyin de Longmen, dans le canton de Huxi, une tortue de riz de vingt-trois tonnes occupait la moitié de l'esplanade. L'entrepreneur Lü Ruijin a obtenu huit saintes réponses consécutives et emporté chez lui cette tortue géante pour la cinquième année de suite — l'an prochain, il devra en rendre une de vingt-quatre tonnes. Pendant que les habitants du continent lâchaient des lanternes célestes et faisaient éclater des pétards, les deux cents temples de l'archipel ouvraient leurs tables d'offrandes simultanément. Ce que l'on y demandait, ce n'était pas la chance, mais une tortue — en taïwanais *ku*, homonyme de « retour ». Ramener sain et sauf celui qui est parti en mer : voilà le vœu le plus ancien de cette île du vent.
+> **En 30 secondes :** La nuit du Yuanxiao 2025, devant le temple Guanyin de Longmen, dans le canton de Huxi, une tortue de riz de vingt-trois tonnes occupait la moitié de l'esplanade. L'entrepreneur Lü Ruijin a obtenu huit saintes réponses consécutives et emporté chez lui cette tortue géante pour la cinquième année de suite — l'an prochain, il devra en rendre une de vingt-quatre tonnes. Pendant que les habitants du continent lâchaient des lanternes célestes et faisaient éclater des pétards, les deux cents temples de l'archipel ouvraient leurs tables d'offrandes simultanément. Ce que l'on y demandait, ce n'était pas la chance, mais une tortue — en taïwanais _ku_, homonyme de « retour ». Ramener sain et sauf celui qui est parti en mer : voilà le vœu le plus ancien de cette île du vent.
 
 Le 15 février 2025, soit le seizième jour du premier mois lunaire, la table d'offrandes du temple Shanshui Shangdi accueillait une tortue d'or de quatre cent trente taëls. Les membres du « Groupe de tourisme Benz Manyfu » se sont agenouillés devant la divinité et ont obtenu huit saintes réponses, remportant ainsi cette tortue d'or d'une valeur supérieure à deux millions de nouveaux dollars taïwanais[^1]. Dans le temple voisin Beijidian de Suogang, Zeng Han Jingui a décroché une tortue d'or porte-bonheur de deux cent soixante taëls avec six réponses favorables. L'artiste Jiang Yongqi a, pour la quatrième année consécutive, emporté du temple Shanshui Shangdi une tortue d'or aux pivoines de cent vingt taëls, puis dans la même soirée a également remporté une tortue en billets de douze mille dollars taïwanais au temple Lingguangdian de Magong[^1].
 
@@ -29,7 +42,7 @@ Il ne s'agit pas d'un jeu de hasard. C'est un contrat : l'homme emprunte à la d
 
 ## La première mention sous l'ère Qianlong
 
-En 1767, Hu Jianwei, dix-huitième commissaire des Penghu, consignait le rituel de la tortue dans ses *Notes sur les Penghu* (《澎湖紀略》)[^2]. À l'époque, les tortues étaient façonnées en pâte de riz sucrée — blanches et tendres, quelques dizaines de kilos — alignées sur l'esplanade, et les fidèles tiraient les blocs de divination pour décider qui les emporterait.
+En 1767, Hu Jianwei, dix-huitième commissaire des Penghu, consignait le rituel de la tortue dans ses _Notes sur les Penghu_ (《澎湖紀略》)[^2]. À l'époque, les tortues étaient façonnées en pâte de riz sucrée — blanches et tendres, quelques dizaines de kilos — alignées sur l'esplanade, et les fidèles tiraient les blocs de divination pour décider qui les emporterait.
 
 Deux cent cinquante ans plus tard, les proportions sont sans commune mesure. En 2025, le temple Houbigun de Chikan exposait une tortue de riz de dix-neuf tonnes[^3]. Les Penghu ont même tenté de faire homologuer une tortue de cent quatre-vingts tonnes par le Livre Guinness des records[^4]. Aux tortues de pâte de riz se sont ajoutées des tortues d'or, des tortues en homards, en choux, en canettes de bière — à Wukan, des choux empilés en forme de tortue ; au temple Maolindian d'Xingren, les fidèles pouvaient tirer les blocs pour gagner un homard vivant. Les formes ont proliféré à l'infini, mais la logique centrale n'a pas changé : vous empruntez quelque chose à la divinité, vous le rendez en plus grande quantité l'année prochaine.
 
@@ -43,9 +56,9 @@ D'octobre à mars, la mousson du nord-est traverse le détroit de Taïwan en s'a
 
 Le vent dicte le calendrier des habitants. L'hiver, on ne peut pas sortir en mer ni travailler aux champs ; presque toute la récolte annuelle est concentrée sur quelques mois d'été. Le vent a également modelé la foi : la densité de temples des Penghu est la plus élevée de tout Taïwan, car chaque sortie en mer peut être la dernière, et chaque village a besoin de sa propre divinité tutélaire.
 
-Le lion de pierre *fengshiye* veille à l'entrée du village, face au nord-est. Les bornes *shigandang* sont gravées aux angles des ruelles. Les temples sont bâtis en *laogu* — du calcaire corallien, résistant au vent et au sel. Ce ne sont pas des ornements, mais des équipements de survie. Les habitants des Penghu n'adorent pas le vent, mais toute leur foi en est l'écho.
+Le lion de pierre _fengshiye_ veille à l'entrée du village, face au nord-est. Les bornes _shigandang_ sont gravées aux angles des ruelles. Les temples sont bâtis en _laogu_ — du calcaire corallien, résistant au vent et au sel. Ce ne sont pas des ornements, mais des équipements de survie. Les habitants des Penghu n'adorent pas le vent, mais toute leur foi en est l'écho.
 
-En taïwanais, *ku* (tortue) est homonyme de *gui* (retour). Sur une île où les hommes partis en mer risquaient de ne jamais revenir, « retour » est le mot le plus lourd qui soit. Le rituel de la tortue n'est pas une quête de richesse — le proverbe dit : « Frotte la tête, tu bâtiras une maison ; frotte la queue, tu épargneras ; frotte la carapace, ton activité sera stable ; frotte les pattes, ta demeure déborderas d'or et d'argent » — mais le premier vœu est toujours « bâtir une maison », autrement dit : « avoir un foyer où revenir ».
+En taïwanais, _ku_ (tortue) est homonyme de _gui_ (retour). Sur une île où les hommes partis en mer risquaient de ne jamais revenir, « retour » est le mot le plus lourd qui soit. Le rituel de la tortue n'est pas une quête de richesse — le proverbe dit : « Frotte la tête, tu bâtiras une maison ; frotte la queue, tu épargneras ; frotte la carapace, ton activité sera stable ; frotte les pattes, ta demeure déborderas d'or et d'argent » — mais le premier vœu est toujours « bâtir une maison », autrement dit : « avoir un foyer où revenir ».
 
 ## Quatre siècles de temples et de stèles
 
@@ -53,7 +66,7 @@ En 1604, l'amiral néerlandais Wijbrand van Warwijck de la Compagnie néerlandai
 
 Cette stèle est encore aujourd'hui incrustée dans le mur droit du pavillon Qingfeng du temple Tianhou — elle mesure 198 centimètres de haut et 28,7 centimètres de large[^7]. Elle constitue l'un des documents les plus anciens conservés à Taïwan sur une négociation avec une puissance étrangère, et confirme l'existence du temple Tianhou avant 1604 — le plus vieux temple Mazu de Taïwan.
 
-En 1722, après que Shi Lang eut soumis les Penghu, il demanda à l'empereur Kangxi d'élever Mazu au rang de Tianhou (Reine des Cieux), et le « temple de la Déesse de la Mer » prit officiellement le nom de « temple Tianhou »[^7]. En 1734, le commissaire des Penghu Zhou Yuren recensait dans ses *Notes abrégées sur les Penghu* les quatre grands temples anciens de Magong : le temple de Guandi, le temple Tianhou, le temple Zhenwu et le temple Shuixian[^2]. En 1922, sous l'ère Taisho, des marchands du Fujian et du Guangdong réunis à Magong financèrent la restauration du temple Tianhou par le maître charpentier cantonais Lan Mu, transformant l'architecture du Fujian méridional en style chaozhou — ce qui explique pourquoi le temple Tianhou des Penghu se distingue visuellement de la plupart des autres temples Mazu de Taïwan[^7].
+En 1722, après que Shi Lang eut soumis les Penghu, il demanda à l'empereur Kangxi d'élever Mazu au rang de Tianhou (Reine des Cieux), et le « temple de la Déesse de la Mer » prit officiellement le nom de « temple Tianhou »[^7]. En 1734, le commissaire des Penghu Zhou Yuren recensait dans ses _Notes abrégées sur les Penghu_ les quatre grands temples anciens de Magong : le temple de Guandi, le temple Tianhou, le temple Zhenwu et le temple Shuixian[^2]. En 1922, sous l'ère Taisho, des marchands du Fujian et du Guangdong réunis à Magong financèrent la restauration du temple Tianhou par le maître charpentier cantonais Lan Mu, transformant l'architecture du Fujian méridional en style chaozhou — ce qui explique pourquoi le temple Tianhou des Penghu se distingue visuellement de la plupart des autres temples Mazu de Taïwan[^7].
 
 > **💡 Le saviez-vous ?**
 > Le nom « Magong » vient de « Mamia », lui-même dérivé de « temple de Mazu ». Le temple de la déesse s'appelait le « palais de la Dame-Mère », abrégé en « Mamia ». Sous la domination japonaise, le nom fut romanisé en « Makō » puis sinisé en « Magong ». À Taïwan, il n'est pas rare qu'une ville porte le nom d'un temple (Xingang, Beigang), mais l'exemple des Penghu est probablement le plus ancien.
@@ -62,20 +75,20 @@ En 1722, après que Shi Lang eut soumis les Penghu, il demanda à l'empereur Kan
 
 Le folklore des Penghu ne vit pas seulement dans les temples, mais aussi dans la mer.
 
-On dénombre plus de cinq cent soixante-quatorze enclos de pierre *shihu* dans l'ensemble des Penghu ; en ajoutant ceux dont il ne reste que des témoignages oraux, le total pourrait dépasser six cents[^8]. L'île de Jibei à elle seule en compte cent neuf, ce qui en fait l'endroit au monde où la densité de pêcheries à marée intertidale est la plus élevée[^8]. Le principe est simple : on construit une muraille de pierres en arc dans la zone de balancement des marées ; à marée montante, l'eau amène les poissons à l'intérieur ; à marée descendante, ils se retrouvent piégés. Pas besoin de carburant, pas besoin de bateau, pas besoin de s'aventurer en mer.
+On dénombre plus de cinq cent soixante-quatorze enclos de pierre _shihu_ dans l'ensemble des Penghu ; en ajoutant ceux dont il ne reste que des témoignages oraux, le total pourrait dépasser six cents[^8]. L'île de Jibei à elle seule en compte cent neuf, ce qui en fait l'endroit au monde où la densité de pêcheries à marée intertidale est la plus élevée[^8]. Le principe est simple : on construit une muraille de pierres en arc dans la zone de balancement des marées ; à marée montante, l'eau amène les poissons à l'intérieur ; à marée descendante, ils se retrouvent piégés. Pas besoin de carburant, pas besoin de bateau, pas besoin de s'aventurer en mer.
 
 Le double enclos en forme de cœur de Qimei est une attraction incontournable pour les visiteurs, mais son nom actuel n'était pas le sien à l'origine. Construit à l'initiative des frères Yan Chong et Yan Yuji du village de Donghu, il était appelé « enclos du nord de Dingxi ». C'est lorsque les héritiers de la deuxième génération firent appel à des artisans de Jibei pour le reconcevoir en configuration « une maison, deux bassins » que la forme de double cœur apparut[^8]. En 2006, le gouvernement du comté de Penghu l'inscrivit au titre de paysage culturel. En 2008, le groupe d'enclos de Jibei fut également classé paysage culturel comtal[^9]. L'ensemble des enclos de pierre des Penghu figure parmi les dix-huit sites du Patrimoine mondial potentiel de Taïwan sélectionnés par le Conseil de la Culture[^9].
 
 > **📝 Note du curateur**
 > Les enclos de pierre sont une façon de pêcher sans quitter le rivage. Sur une île où partir en mer pouvait signifier ne jamais revenir, cette invention va bien au-delà de l'économie — c'est une réponse à la peur.
 
-## Les *baoge* : une littérature orale pour ceux qui ne savent pas lire
+## Les _baoge_ : une littérature orale pour ceux qui ne savent pas lire
 
 L'hiver, quand la mer est trop agitée et les champs impraticables, les habitants des Penghu chantent.
 
-Les *baoge* (en taïwanais *po-kua*) sont des joutes poétiques improvisées de sept syllabes par vers, deux vers par couplet, deux couplets par pièce. Pas d'instrument, pas besoin de savoir lire — mais il faut une mémoire solide, des réflexes vifs et une maîtrise profonde du taïwanais[^10]. Les sujets vont des chansons d'amour aux plaintes sur le travail agricole, en passant par la satire de l'actualité. Dans le village de Erkan à Xiyu, des *baoge* en quatre vers sont encore gravés sur les murs du quartier historique, servant aujourd'hui de toile de fond aux photos des visiteurs[^10].
+Les _baoge_ (en taïwanais _po-kua_) sont des joutes poétiques improvisées de sept syllabes par vers, deux vers par couplet, deux couplets par pièce. Pas d'instrument, pas besoin de savoir lire — mais il faut une mémoire solide, des réflexes vifs et une maîtrise profonde du taïwanais[^10]. Les sujets vont des chansons d'amour aux plaintes sur le travail agricole, en passant par la satire de l'actualité. Dans le village de Erkan à Xiyu, des _baoge_ en quatre vers sont encore gravés sur les murs du quartier historique, servant aujourd'hui de toile de fond aux photos des visiteurs[^10].
 
-Mais les *baoge* s'éteignent peu à peu. Depuis les années 1970, seuls les anciens en connaissent encore les secrets. Les jeunes ne comprennent plus le vieux taïwanais des paroles, et l'improvisation en joute est hors de leur portée. C'est une culture qu'aucune vidéo YouTube ne peut préserver — l'essence du *baoge* réside dans l'improvisation et la joute en direct ; enregistré, il perd son âme ; seuls des êtres vivants peuvent le transmettre[^10].
+Mais les _baoge_ s'éteignent peu à peu. Depuis les années 1970, seuls les anciens en connaissent encore les secrets. Les jeunes ne comprennent plus le vieux taïwanais des paroles, et l'improvisation en joute est hors de leur portée. C'est une culture qu'aucune vidéo YouTube ne peut préserver — l'essence du _baoge_ réside dans l'improvisation et la joute en direct ; enregistré, il perd son âme ; seuls des êtres vivants peuvent le transmettre[^10].
 
 ## Feux d'artifice et catastrophe aérienne
 
@@ -116,7 +129,7 @@ L'an prochain, fais revenir ceux qui sont partis en mer.
 
 [^9]: [澎湖石滬群 — 臺灣世界遺產潛力點](https://twh.boch.gov.tw/taiwan/intro.aspx?id=13&lang=zh_tw) — Page officielle du Bureau du patrimoine culturel expliquant les raisons de l'inscription des enclos de pierre des Penghu parmi les dix-huit sites du Patrimoine mondial potentiel de Taïwan.
 
-[^10]: [澎湖西嶼：即編即唱的褒歌酬對文化](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Story Studio, en collaboration avec le Musée national d'histoire de Taïwan. Présentation approfondie du format en sept syllabes des *baoge*, de la tradition de joute improvisée et des murs gravés du village de Erkan.
+[^10]: [澎湖西嶼：即編即唱的褒歌酬對文化](https://storystudio.tw/article/watch-Taiwan-NMTH/the-south-penghu-folk-songs) — Story Studio, en collaboration avec le Musée national d'histoire de Taïwan. Présentation approfondie du format en sept syllabes des _baoge_, de la tradition de joute improvisée et des murs gravés du village de Erkan.
 
 [^11]: [華航六一一號班機空難 — 維基百科](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA611%E8%99%9F%E7%8F%AD%E6%A9%9F%E7%A9%BA%E9%9B%A3) — Fiche de la catastrophe aérienne du 25 mai 2002 : 225 victimes, l'accident le plus grave de l'histoire de l'aviation taïwanaise.
 

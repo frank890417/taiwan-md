@@ -10,6 +10,9 @@ readingTime: 9
 featured: true
 translatedFrom: 'Economy/新創生態系.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:8818217b96aa8dda'
+translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 
 # 스타트업 생태계

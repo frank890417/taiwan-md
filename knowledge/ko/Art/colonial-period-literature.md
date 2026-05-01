@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Art/日治時期文學.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:19723b834d9cebfa'
+translatedAt: '2026-04-14T09:46:05+08:00'
 ---
 
 # 일제강점기 대만 문학

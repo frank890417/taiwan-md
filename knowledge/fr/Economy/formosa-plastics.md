@@ -1,15 +1,26 @@
 ---
 title: 'Entreprises taïwanaises : le groupe Formosa Plastics'
-description: 'L''empire pétrochimique bâti par Wang Yung-ching, le « dieu du management » de Taïwan, et la légende industrielle des quatre piliers de Formosa'
+description: "L'empire pétrochimique bâti par Wang Yung-ching, le « dieu du management » de Taïwan, et la légende industrielle des quatre piliers de Formosa"
 date: 2026-03-20
-tags: [Économie, Entreprises, Industrie pétrochimique, Groupe Formosa Plastics, Industries traditionnelles, Quatre piliers de Formosa]
-subcategory: 'Portraits d''entreprises'
+tags:
+  [
+    Économie,
+    Entreprises,
+    Industrie pétrochimique,
+    Groupe Formosa Plastics,
+    Industries traditionnelles,
+    Quatre piliers de Formosa,
+  ]
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0705937c431692b3'
+translatedAt: '2026-04-14T19:20:24+08:00'
 ---
 
 > **En 30 secondes**

@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：聯華電子.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:872bba83b389ef58'
+translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 
 > **30초 요약**

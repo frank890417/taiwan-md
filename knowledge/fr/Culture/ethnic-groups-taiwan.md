@@ -2,13 +2,25 @@
 title: 'Les groupes ethniques de Taïwan (Hokkiens, Hakkas, peuples autochtones, Waishengren, nouveaux résidents)'
 description: "Une cérémonie d'excuses, dix mille manifestants, 570 000 nouvelles familles — l'histoire des groupes ethniques de Taïwan est bien plus complexe que le simple concept de « diversité et inclusion »."
 date: 2026-03-30
-tags: [culture, groupes ethniques, peuples autochtones, Hakka, Hokkien, Waishengren, nouveaux résidents]
+tags:
+  [
+    culture,
+    groupes ethniques,
+    peuples autochtones,
+    Hakka,
+    Hokkien,
+    Waishengren,
+    nouveaux résidents,
+  ]
 subcategory: 'Culture ethnique'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
+sourceCommitSha: '44b55077'
+sourceContentHash: 'sha256:9192f33930425491'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 # Les groupes ethniques de Taïwan
@@ -31,7 +43,7 @@ La notion de « quatre grands groupes ethniques », aujourd'hui si familière au
 
 Les législateurs du Parti démocrate progressiste Lin Zhuoshui et Yeh Chu-lan ont formellement proposé la classification « peuples autochtones, Hokkiens (Fuklo), Hakkas, Waishengren », donnant pour la première fois à Taïwan un cadre narratif commun. Cette classification n'est pas le fruit d'une évolution historique naturelle, mais une construction du langage politique — regrouper les Taïwanais en « quatre entités » était un outil du mouvement nativiste de l'époque.
 
-Le chercheur Wang Fuchang, dans son ouvrage *L'imaginaire ethnique dans la société taïwanaise contemporaine*, souligne que cette classification place sur un même plan des distinctions de nature fondamentalement différente : l'opposition « peuples autochtones vs. Chinois Han » n'est pas du même ordre que l'opposition « Hokkiens vs. Hakkas ».
+Le chercheur Wang Fuchang, dans son ouvrage _L'imaginaire ethnique dans la société taïwanaise contemporaine_, souligne que cette classification place sur un même plan des distinctions de nature fondamentalement différente : l'opposition « peuples autochtones vs. Chinois Han » n'est pas du même ordre que l'opposition « Hokkiens vs. Hakkas ».
 
 Et dès le départ, ce cadre excluait certaines personnes.
 
@@ -89,7 +101,7 @@ En 2024, la population des nouveaux résidents à Taïwan s'élève à **570 000
 
 La chercheuse Lan Pei-chia, du département de sociologie de l'Université nationale de Taipei, a constaté que les enfants de la deuxième génération adoptent plusieurs stratégies typiques face à leur identité : la plus courante consiste à dire « ma mère est vietnamienne, mais moi je suis taïwanais » — non pas par identification, mais par protection. Cette stratégie de coupure survient souvent chez ceux qui ont été victimes de harcèlement scolaire en raison de leur origine immigrée.
 
-Une mère vietnamienne confiait dans un reportage du *United Daily News* : « Vous êtes des enfants de Taïwan, mais n'oubliez jamais que le Viêt Nam est votre deuxième patrie. » (*United Daily News*, 2024.) Elle refuse d'enfermer ses enfants dans l'étiquette « deuxième génération de nouveaux résidents », mais elle ne fait pas semblant que cette étiquette n'existe pas.
+Une mère vietnamienne confiait dans un reportage du _United Daily News_ : « Vous êtes des enfants de Taïwan, mais n'oubliez jamais que le Viêt Nam est votre deuxième patrie. » (_United Daily News_, 2024.) Elle refuse d'enfermer ses enfants dans l'étiquette « deuxième génération de nouveaux résidents », mais elle ne fait pas semblant que cette étiquette n'existe pas.
 
 Passer de « épouses étrangères » à « nouveaux résidents » a pris vingt ans. Ces deux expressions représentent deux manières radicalement différentes de considérer les personnes.
 
@@ -131,6 +143,7 @@ Parmi ces 614 000 autochtones, combien peuvent encore parler leur langue materne
 Ces chiffres sont encore en mouvement.
 
 **Lectures complémentaires :**
+
 - Diversité linguistique et culture des langues maternelles — le déclin et les mouvements de revitalisation du taïwanais, du hakka et des langues autochtones
 - Histoire des peuples autochtones de Taïwan et mouvement pour la rectification du nom — dix ans de lutte de « shanbao » à « peuples autochtones »
 - Carte culturelle des 16 nations autochtones de Taïwan — distribution géographique, langues et spécificités culturelles
@@ -140,11 +153,19 @@ Ces chiffres sont encore en mouvement.
 ## Références
 
 [^1]: [Discours d'excuses de la présidente au nom du gouvernement envers les peuples autochtones — Bureau de la présidence](https://www.president.gov.tw/NEWS/20603) — Texte intégral des excuses présentées le 1er août 2016 par la présidente Tsai Ing-wen au nom du gouvernement aux peuples autochtones, source primaire du Bureau de la présidence de la République de Chine.
+
 [^2]: [Citoyens dans le flux de l'histoire : 30 ans de mouvement Hakka — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=d3796858-acd8-4428-ad55-3b218ad0fc4f&CatId=7) — Contient des détails historiques de première main sur le mouvement de 1988, notamment la description de la manifestation sur le terrain, le portrait de Sun Yat-sen masqué et le texte de la cérémonie en hakka.
+
 [^3]: [Conseil des peuples autochtones : présentation de chaque nation](https://www.cip.gov.tw/zh-tw/tribe/grid-list/) — Statistiques officielles du Conseil, incluant les effectifs des 16 nations, leur distribution géographique et un aperçu culturel.
+
 [^4]: [Loi fondamentale sur les peuples autochtones — Base de données nationale des lois et règlements](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0130003) — Texte intégral de la Loi fondamentale sur les peuples autochtones ; l'article 21 stipule que tout développement sur les territoires traditionnels nécessite le consentement éclairé des communautés.
+
 [^5]: [Nous avons trop perdu : les jeunes autochtones face aux territoires traditionnels — The Reporter](https://www.twreporter.org/a/indigenous-areas-tribe-people-view) — Reportage approfondi sur la lutte des Amis de la côte est contre le règlement de délimitation des territoires traditionnels, avec des entretiens de jeunes membres des communautés.
+
 [^6]: [Service national de l'immigration : les nouveaux résidents construisent une société multiculturelle](https://www.immigration.gov.tw/5385/7344/70395/143257/) — Statistiques officielles du Service de l'immigration (jusqu'à janvier 2026), incluant la composition et la répartition par pays d'origine de la population des nouveaux résidents.
+
 [^7]: [Élections taïwanaises 2020 : l'histoire de jeunes électeurs d'origine vietnamienne — BBC Chinois](https://www.bbc.com/zhongwen/trad/chinese-news-51031939) — BBC interviewe des jeunes Taïwanais d'origine vietnamienne, deuxième génération de nouveaux résidents, sur leur identité et leur participation politique.
+
 [^8]: [Le nombre de personnes se considérant comme Hakkas augmente, mais leur capacité à parler la langue diminue fortement — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/1982926) — Données de l'enquête du Conseil Hakka : 4,53 millions de personnes se considèrent comme Hakkas, mais seules 46,8 % parlent la langue.
-[^9]: Wang Fuchang, *L'imaginaire ethnique dans la société taïwanaise contemporaine*, Qunxue Press, 2003 — Ouvrage classique de la science politique taïwanaise sur l'ethnicité, analysant le processus de construction et les fonctions politiques de la classification en « quatre grands groupes ethniques ».
+
+[^9]: Wang Fuchang, _L'imaginaire ethnique dans la société taïwanaise contemporaine_, Qunxue Press, 2003 — Ouvrage classique de la science politique taïwanaise sur l'ethnicité, analysant le processus de construction et les fonctions politiques de la classification en « quatre grands groupes ethniques ».

@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：統一企業.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3fb7c059831bdebb'
+translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 
 > **30초 요약:** 1967년, 38세의 고칭위안(高清愿)이 대남(台南) 쉐자(學甲)에서 통일기업을 창업했다. 밀가루 공장에서 출발해 2024년 매출 6,576억 신대만달러로 사상 최고 기록을 경신했다. 통일은 라면만 파는 회사가 아니다. 1980년 첫 번째 7-ELEVEN 창안(長安) 매장이 문을 열면서 '24시간 편의'는 대만만의 독특한 문화 코드로 자리잡았다.

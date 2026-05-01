@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 9
 translatedFrom: 'People/林良.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ff949a14cc54475a'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 > **30초 요약:**

@@ -17,6 +17,9 @@ category: 'Food'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Food/台灣海鮮文化.md'
+sourceCommitSha: '221b1708'
+sourceContentHash: 'sha256:b19eaae2749a2675'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's Seafood Culture

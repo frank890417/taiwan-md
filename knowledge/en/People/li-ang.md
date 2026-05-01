@@ -6,6 +6,9 @@ tags:
   [people, Li Ang, feminist literature, Taiwanese literature, gender, Lukang]
 subcategory: 'Literature'
 translatedFrom: 'People/李昂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:4f3f80c62e1351eb'
+translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 
 # Li Ang: A Feminist Literary Rebel from Lukang

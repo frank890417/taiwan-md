@@ -2,7 +2,15 @@
 title: "L'art contemporain des peuples autochtones de Taïwan"
 description: "De l'artisanat traditionnel à la création contemporaine, découvrez comment les artistes autochtones de Taïwan font entendre leur voix sur la scène artistique internationale, redéfinissant le dialogue entre identité autochtone et art d'aujourd'hui."
 date: 2026-03-20
-tags: [peuples autochtones, art contemporain, artisanat traditionnel, identité culturelle, artistes, revitalisation culturelle]
+tags:
+  [
+    peuples autochtones,
+    art contemporain,
+    artisanat traditionnel,
+    identité culturelle,
+    artistes,
+    revitalisation culturelle,
+  ]
 subcategory: 'Art contemporain'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
@@ -10,7 +18,10 @@ featured: false
 category: Art
 lastVerified: 2026-03-20
 lastHumanReview: false
-translatedFrom: "Art/台灣原住民當代藝術.md"
+translatedFrom: 'Art/台灣原住民當代藝術.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:83bc82b565683352'
+translatedAt: '2026-04-14T19:13:26+08:00'
 ---
 
 # L'art contemporain des peuples autochtones de Taïwan
@@ -150,11 +161,11 @@ Au cours des trente dernières années, l'art contemporain autochtone de Taïwan
 - [Centre de développement des arts autochtones](https://www.tacp.gov.tw/) — informations sur le développement de l'art contemporain autochtone
 - [Biennale des arts de Taïwan](https://www.museum.ntm.gov.tw/) — informations sur les expositions d'art contemporain
 - [Pavillon taïwanais à la Biennale de Venise](https://www.venezia.culture.tw/) — documentation sur la participation de Rahic Talif en 2019
-- Kao Chun-hong (2019), *Traversée : guerres forestières, empire et images à Taïwan*, Éditions Yuzu
-- Hu Ta-li (2018), *Carnets de terrain sur l'art autochtone*, Éditions Artist
-- Eleng Luluan (2020), *L'art sur la pente : essais sur l'art contemporain autochtone*, Éditions Chunshan
+- Kao Chun-hong (2019), _Traversée : guerres forestières, empire et images à Taïwan_, Éditions Yuzu
+- Hu Ta-li (2018), _Carnets de terrain sur l'art autochtone_, Éditions Artist
+- Eleng Luluan (2020), _L'art sur la pente : essais sur l'art contemporain autochtone_, Éditions Chunshan
 - [Base de données de la littérature et de la culture autochtones contemporaines de Taïwan](http://140.109.24.175/iplm/) — Université nationale Sun Yat-sen
-- Sakinu Pawavalung (2017), *Sculpter la mémoire : réflexions culturelles d'un sculpteur paiwan*, Éditions Yuan-Liou
+- Sakinu Pawavalung (2017), _Sculpter la mémoire : réflexions culturelles d'un sculpteur paiwan_, Éditions Yuan-Liou
 
 ---
 

@@ -10,6 +10,9 @@ readingTime: 8
 featured: true
 translatedFrom: 'Society/環保與永續發展.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:58130043015789fc'
+translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 
 # 환경 보호와 지속 가능한 발전: 섬의 녹색 각성

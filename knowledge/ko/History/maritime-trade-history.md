@@ -11,6 +11,9 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'History/台灣海洋貿易史.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:3828ee010a982636'
+translatedAt: '2026-04-14T04:54:47+08:00'
 ---
 
 # 타이완 해양무역사

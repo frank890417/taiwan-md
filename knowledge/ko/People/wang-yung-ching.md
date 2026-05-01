@@ -7,6 +7,9 @@ category: 'People'
 subcategory: '기술 및 기업 인물'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/王永慶.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:602271271fe217d6'
+translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 
 # 왕융칭: 쌀가게에서 석유화학 제국까지, 경영의 신

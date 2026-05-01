@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/朱宗慶.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9f25e4b33618c84b'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 주쭝칭 (朱宗慶)

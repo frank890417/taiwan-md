@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Technology/開源社群與g0v.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:af78147ce6c1c764'
+translatedAt: '2026-04-14T07:15:07+08:00'
 ---
 
 # 오픈소스 커뮤니티와 g0v

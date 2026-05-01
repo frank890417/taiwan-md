@@ -10,6 +10,9 @@ readingTime: 9
 featured: false
 translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:57fad95b8a079b38'
+translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 
 # 대만 원주민족의 토지 정의와 전통 영역

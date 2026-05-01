@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 13
 featured: true
 translatedFrom: 'Music/台灣樂器製造.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c05b566af47ac375'
+translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 
 # 대만 악기 제조업: 허우리 색소폰에서 세계 음악 공장까지

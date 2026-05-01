@@ -18,6 +18,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'People/黃春明.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2ec7b54fb5bdb0ff'
+translatedAt: '2026-04-15T17:32:28+08:00'
 ---
 
 # 황춘밍: 소시민의 삶을 쓴 작가

@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'People/方序中.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:09b565df3960bd44'
+translatedAt: '2026-04-14T19:24:22+08:00'
 ---
 
 # 팡쉬중：대만 시각 아이덴티티를 재정의한 디자인 혁신가

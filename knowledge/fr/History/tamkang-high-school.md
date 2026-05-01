@@ -10,7 +10,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: 'History/淡江中學.md'
+translatedFrom: "History/淡江中學.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:6515803df49cd854"
+translatedAt: "2026-04-14T12:31:57+08:00"
 ---
 
 > **En 30 secondes :**

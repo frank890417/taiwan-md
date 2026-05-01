@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 lastVerified: 2026-03-27
 translatedFrom: 'Culture/擲筊.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f8a1e86f13d5a657'
+translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 
 > **30초 요약:**

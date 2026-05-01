@@ -1,6 +1,6 @@
 ---
-title: 'Chi Cheng — L''Antilope Bondissante'
-description: 'Médaillée de bronze au 80 m haies lors des Jeux olympiques de Mexico 1968, figure légendaire de l''athlétisme taïwanais'
+title: "Chi Cheng — L'Antilope Bondissante"
+description: "Médaillée de bronze au 80 m haies lors des Jeux olympiques de Mexico 1968, figure légendaire de l'athlétisme taïwanais"
 date: 2026-03-19
 tags: ['sport', 'athlétisme', 'jeux olympiques', 'haies']
 subcategory: 'Sport'
@@ -10,6 +10,9 @@ readingTime: 6
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/紀政.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:db29d3b29cd717d9'
+translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 
 # Chi Cheng : l'Antilope Bondissante

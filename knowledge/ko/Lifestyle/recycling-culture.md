@@ -19,6 +19,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:692a1090832374e5'
+translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 
 # 쓰레기차를 쫓는 섬: 대만의 쓰레기 위기에서 재활용 기적으로

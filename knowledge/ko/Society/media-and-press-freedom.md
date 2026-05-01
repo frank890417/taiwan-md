@@ -10,6 +10,9 @@ readingTime: 15
 featured: false
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:a463f0fc05470693'
+translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 
 # 대만의 미디어와 언론 자유

@@ -2,7 +2,8 @@
 title: 'La culture des marchés de nuit à Taïwan'
 description: '164 marchés de nuit officiellement répertoriés, un pour 38 000 habitants à Tainan — des parvis de temples aux destinations touristiques internationales'
 date: 2026-03-21
-tags: ['marché de nuit', 'street food', 'culture', 'tourisme', 'vie quotidienne']
+tags:
+  ['marché de nuit', 'street food', 'culture', 'tourisme', 'vie quotidienne']
 subcategory: 'Scènes culinaires'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -13,6 +14,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TWShiLinNightM
 imageAlt: 'Culture des marchés de nuit à Taïwan'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/夜市文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cad0161e7864d0ae'
+translatedAt: '2026-04-14T12:29:04+08:00'
 ---
 
 # La culture des marchés de nuit à Taïwan
@@ -23,7 +27,7 @@ translatedFrom: 'Food/夜市文化.md'
 
 Dans le Dadaocheng des années 1870, la nuit ne tombait pas sur le silence. Les commis des maisons de commerce rangeaient leurs registres à la lueur des lampes à pétrole, tandis que les marchands de nouilles et de boulettes de riz maintenant leurs braseros allumés pour servir les travailleurs attardés et les voyageurs de passage. C'est là, vraisemblablement, que se trouve l'embryon du marché de nuit taïwanais.
 
-Le premier témoignage documenté remonte à 1908. Le journal *Taiwan Daily News* décrit un marché nocturne installé sur l'esplanade du temple Tianhou à Qijin, Kaohsiung, ouvert de 18h à minuit, proposant petits plats et articles divers. Durant la période japonaise, les « rassemblements de fraîcheur nocturne » — ces soirées estivales où les habitants se retrouvaient pour profiter de la brise du soir et assister à des représentations — ont également favorisé l'essor des étals ambulants, naturellement attirés par ces foules.
+Le premier témoignage documenté remonte à 1908. Le journal _Taiwan Daily News_ décrit un marché nocturne installé sur l'esplanade du temple Tianhou à Qijin, Kaohsiung, ouvert de 18h à minuit, proposant petits plats et articles divers. Durant la période japonaise, les « rassemblements de fraîcheur nocturne » — ces soirées estivales où les habitants se retrouvaient pour profiter de la brise du soir et assister à des représentations — ont également favorisé l'essor des étals ambulants, naturellement attirés par ces foules.
 
 Les années 1950, dans l'après-guerre, représentent la véritable explosion de la culture des marchés de nuit. Dans une économie dévastée, le petit commerce de rue est devenu pour beaucoup l'unique moyen de subsistance. Les parvis de temples, les espaces libérés après la fermeture des marchés de jour, tout était bon pour installer un étal. Avec l'urbanisation, ces vendeurs dispersés se sont progressivement regroupés pour former les marchés que vous connaissez aujourd'hui.
 
@@ -69,11 +73,11 @@ Le street food de marché de nuit, aussi simple qu'il paraisse, repose sur une f
 
 Le vrai génie des marchés de nuit taïwanais, c'est la **localisation créative** : chaque plat venu d'ailleurs finit par se transformer une fois absorbé par Taïwan.
 
-Le **gâteau au poivre** (*hújiāobǐng*) est originaire de Fuzhou, mais la version taïwanaise adopte du poivre noir, agrémente de ciboule et intensifie les saveurs. Le **gua bao** vient du Fujian, mais Taïwan y ajoute de la choucroute fermentée, de la poudre de cacahuète et de la coriandre, créant une superposition de saveurs absente de l'original.
+Le **gâteau au poivre** (_hújiāobǐng_) est originaire de Fuzhou, mais la version taïwanaise adopte du poivre noir, agrémente de ciboule et intensifie les saveurs. Le **gua bao** vient du Fujian, mais Taïwan y ajoute de la choucroute fermentée, de la poudre de cacahuète et de la coriandre, créant une superposition de saveurs absente de l'original.
 
 **Le bubble tea est une invention purement taïwanaise.** Dans les années 1980, la maison de thé Chun Shui Tang de Taichung a eu l'idée d'incorporer des billes de tapioca dans du lait de thé, créant ainsi l'une des boissons les plus populaires de la planète. Aujourd'hui, au Japon on l'appelle « thé taïwanais », aux États-Unis « Bubble Tea » — tous deux revendiquent ouvertement l'héritage taïwanais.
 
-**La gaufre ronde** (*chēlúnbǐng*) a également été transformée. Là où les Japonais se limitent à la pâte de haricots rouges, les Taïwanais ont inventé des dizaines de garnitures : crème, chocolat, taro, matcha, et bien d'autres encore. Certains stands en proposent vingt variétés — un cauchemar pour les indécis, un paradis pour les gourmands.
+**La gaufre ronde** (_chēlúnbǐng_) a également été transformée. Là où les Japonais se limitent à la pâte de haricots rouges, les Taïwanais ont inventé des dizaines de garnitures : crème, chocolat, taro, matcha, et bien d'autres encore. Certains stands en proposent vingt variétés — un cauchemar pour les indécis, un paradis pour les gourmands.
 
 ## La vie nomade des marchés itinérants
 

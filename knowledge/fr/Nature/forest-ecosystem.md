@@ -1,15 +1,26 @@
 ---
-title: 'L''écosystème forestier de Taïwan'
+title: "L'écosystème forestier de Taïwan"
 description: 'Un voyage vertical du niveau de la mer au sommet du Yushan, à travers le spectre forestier le plus dense du monde'
 date: 2026-03-23
 category: 'Nature'
-tags: ['écologie forestière', 'distribution verticale', 'Taiwania', 'cyprès hinoki', 'forêt de nuages', 'biodiversité']
+tags:
+  [
+    'écologie forestière',
+    'distribution verticale',
+    'Taiwania',
+    'cyprès hinoki',
+    'forêt de nuages',
+    'biodiversité',
+  ]
 subcategory: 'Écosystèmes'
 readingTime: 15
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'Nature/台灣森林生態系.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:07db67d659e5f36c'
+translatedAt: '2026-04-14T19:22:26+08:00'
 ---
 
 # L'écosystème forestier de Taïwan

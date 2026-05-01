@@ -2,7 +2,15 @@
 title: 'Yeh Ping-cheng'
 description: "Professeur au département de génie électrique de l'Université nationale de Taïwan, il a créé PaGamO, une plateforme d'apprentissage ludique, pour réformer l'enseignement par bachotage — et remporté le prix mondial de l'innovation éducative en 2014."
 date: 2026-03-20
-tags: ['éducation', 'pédagogie inversée', 'PaGamO', 'apprentissage par le jeu', 'NTU', 'innovation éducative']
+tags:
+  [
+    'éducation',
+    'pédagogie inversée',
+    'PaGamO',
+    'apprentissage par le jeu',
+    'NTU',
+    'innovation éducative',
+  ]
 subcategory: 'Éducation et société'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 5
 featured: false
 translatedFrom: 'People/葉丙成.md'
 lastVerified: 2026-03-20
+sourceCommitSha: '67fe687d'
+sourceContentHash: 'sha256:342599fa566fd6e8'
+translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 
 # Yeh Ping-cheng : d'un cours de probabilités à une révolution pédagogique par le jeu
@@ -20,7 +31,7 @@ lastVerified: 2026-03-20
 
 En 2012, dans une salle de cours de l'Université nationale de Taïwan, quelque chose a déclenché une prise de conscience chez Yeh Ping-cheng. Il observait des étudiants brillants assis en cours, les yeux perdus dans le vide. Ils maîtrisaient les formules, mais n'avaient jamais vraiment compris pourquoi ils devaient les apprendre. Le système éducatif par bachotage avait très bien entraîné la capacité à « donner la bonne réponse », mais avait progressivement éteint l'instinct de « vouloir comprendre ».
 
-Il a commencé par adopter la classe inversée (*Flipped Classroom*) : les étudiants visionnaient des vidéos chez eux pour se préparer, et le temps en classe était consacré à la discussion et à la résolution de problèmes. En Taïwan, cette approche était alors marginale, mais elle a sensiblement transformé l'atmosphère de ses cours. Pourtant, Yeh voulait aller encore plus loin.
+Il a commencé par adopter la classe inversée (_Flipped Classroom_) : les étudiants visionnaient des vidéos chez eux pour se préparer, et le temps en classe était consacré à la discussion et à la résolution de problèmes. En Taïwan, cette approche était alors marginale, mais elle a sensiblement transformé l'atmosphère de ses cours. Pourtant, Yeh voulait aller encore plus loin.
 
 ## PaGamO : quand le manuel devient un jeu
 

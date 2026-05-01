@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:abb1bddb60e0e0c6'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 # 대만의 도시 발전과 도농 격차

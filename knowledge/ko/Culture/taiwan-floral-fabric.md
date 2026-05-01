@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Culture/台灣花布.md'
 lastVerified: 2026-03-19
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:d3e93a783d8e2299'
+translatedAt: '2026-04-14T07:46:34+08:00'
 ---
 
 # 대만 꽃무늬 천

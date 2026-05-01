@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/李宗盛.md'
 readingTime: 8
 featured: false
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:37754a7922b8e177'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 이종성: 중화권 팝 음악의 인생 시인

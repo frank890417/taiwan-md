@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Technology/台灣音響產業發展.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:012b113f84d2d021'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 # 대만 음향 산업의 발전

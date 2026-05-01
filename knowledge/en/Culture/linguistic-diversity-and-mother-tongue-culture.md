@@ -18,6 +18,9 @@ readingTime: 10
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/語言多樣性與母語文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bf65aaceeac493b6'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Linguistic Diversity and Mother Tongue Culture

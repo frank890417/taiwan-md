@@ -11,7 +11,10 @@ featured: true
 category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Music/台灣影視配樂.md'
+translatedFrom: "Music/台灣影視配樂.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:6cbe8cc1264f871a"
+translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 
 # La musique de Taïwan à l'écran : de la bande originale au jeu vidéo, une esthétique sonore singulière
@@ -32,17 +35,17 @@ L'histoire de la musique pour l'image à Taïwan est aussi l'histoire d'une indu
 
 Au début des années 1980, le paysage de la musique de film à Taïwan était partagé entre deux influences majeures : d'un côté, la tradition orchestrale hollywoodienne, avec ses grandes envolées symphoniques et ses partitions expressives ; de l'autre, le style pop de Hong Kong, plus léger, plus commercial, souvent construit autour de chansons à succès recyclées dans les génériques. Beaucoup de productions taïwanaises de l'époque se contentaient d'emprunter des morceaux existants ou de singer les codes musicaux venus d'ailleurs, sans chercher à développer un point de vue local.
 
-Dans ce contexte, le compositeur翁清溪 (Weng Qingxi) fait figure de pionnier. Les partitions qu'il a créées pour des mélodrames à succès comme *Petit Bourg* (1979) — adapté des romans populaires de Qiong Yao — ont posé les fondations affectives du film taïwanais grand public. Des thèmes lyriques, une certaine mélancolie à fleur de peau, une sensibilité qui parlait directement au cœur du public. Mais stylistiquement, ces œuvres restaient proches des conventions et n'avaient pas encore affirmé une identité taïwanaise distincte.
+Dans ce contexte, le compositeur翁清溪 (Weng Qingxi) fait figure de pionnier. Les partitions qu'il a créées pour des mélodrames à succès comme _Petit Bourg_ (1979) — adapté des romans populaires de Qiong Yao — ont posé les fondations affectives du film taïwanais grand public. Des thèmes lyriques, une certaine mélancolie à fleur de peau, une sensibilité qui parlait directement au cœur du public. Mais stylistiquement, ces œuvres restaient proches des conventions et n'avaient pas encore affirmé une identité taïwanaise distincte.
 
 ### Le Nouveau Cinéma et l'éveil musical
 
-Tout change en 1982, lorsque *In Our Time* (光陰的故事) marque le début officieux du Nouveau Cinéma taïwanais. Ce mouvement, porté par une génération de jeunes réalisateurs qui voulaient filmer la vie telle qu'elle est — sans artifices, sans romantisme de façade — a également transformé la façon d'envisager la musique au cinéma. Il ne s'agissait plus seulement d'habiller les émotions ou de souligner les rebondissements dramatiques : la musique devait devenir un élément narratif à part entière, aussi chargé de sens que le cadrage ou le montage. Les cinéastes de cette génération ont commencé à traiter le son avec la même exigence artistique qu'ils apportaient à l'image — et c'est cette exigence qui allait préparer le terrain pour les révolutions à venir.
+Tout change en 1982, lorsque _In Our Time_ (光陰的故事) marque le début officieux du Nouveau Cinéma taïwanais. Ce mouvement, porté par une génération de jeunes réalisateurs qui voulaient filmer la vie telle qu'elle est — sans artifices, sans romantisme de façade — a également transformé la façon d'envisager la musique au cinéma. Il ne s'agissait plus seulement d'habiller les émotions ou de souligner les rebondissements dramatiques : la musique devait devenir un élément narratif à part entière, aussi chargé de sens que le cadrage ou le montage. Les cinéastes de cette génération ont commencé à traiter le son avec la même exigence artistique qu'ils apportaient à l'image — et c'est cette exigence qui allait préparer le terrain pour les révolutions à venir.
 
 ## La révolution : Hou Hsiao-hsien et Lim Giong, une alliance inattendue (1990–2000)
 
-### *Goodbye South, Goodbye* : un film, une rupture
+### _Goodbye South, Goodbye_ : un film, une rupture
 
-En 1996, Hou Hsiao-hsien tourne *Goodbye South, Goodbye* (南國再見，南國) et prend une décision qui surprend tout le monde : il confie la bande originale à Lim Giong, un chanteur de pop en langue taïwanaise, connu pour son tube *Marche en avant* (向前走), mais sans expérience dans la composition pour l'image. Le risque est immense. Le résultat, historique.
+En 1996, Hou Hsiao-hsien tourne _Goodbye South, Goodbye_ (南國再見，南國) et prend une décision qui surprend tout le monde : il confie la bande originale à Lim Giong, un chanteur de pop en langue taïwanaise, connu pour son tube _Marche en avant_ (向前走), mais sans expérience dans la composition pour l'image. Le risque est immense. Le résultat, historique.
 
 Ce que Lim Giong apporte à ce film, c'est quelque chose qu'aucun compositeur classique n'aurait pu produire : une musique qui semble surgir de la rue, des quartiers populaires, du bitume brûlant du sud de Taïwan. Sa partition mêle des textures électroniques aux sons de l'environnement, des bruits de fond captés en prise directe, des fragments musicaux taïwanais que l'on reconnaît sans vraiment les identifier. C'est une musique qui n'explique pas, qui n'illustre pas : elle habite le film, elle coexiste avec les longs plans-séquences de Hou Hsiao-hsien dans une communion parfaite.
 
@@ -57,7 +60,7 @@ La signature sonore de Lim Giong repose sur plusieurs principes que l'on retrouv
 
 ### La consécration internationale
 
-La musique de *Goodbye South, Goodbye* a été remarquée dans les plus grands festivals internationaux. À Cannes, à Venise, elle a contribué à faire du film bien plus qu'un objet d'exportation exotique : une œuvre avec une voix propre, reconnaissable entre toutes. La preuve était faite que la musique de film taïwanaise avait désormais quelque chose à dire au monde.
+La musique de _Goodbye South, Goodbye_ a été remarquée dans les plus grands festivals internationaux. À Cannes, à Venise, elle a contribué à faire du film bien plus qu'un objet d'exportation exotique : une œuvre avec une voix propre, reconnaissable entre toutes. La preuve était faite que la musique de film taïwanaise avait désormais quelque chose à dire au monde.
 
 ### Un effet d'entraînement
 
@@ -65,15 +68,15 @@ Le succès de cette collaboration a ouvert des portes. D'autres réalisateurs on
 
 ## L'ère épique : Wei Te-sheng et Fan Tsung-pei, la démesure au service de l'histoire (2008–2012)
 
-### *Cape No. 7* : le miracle commercial et musical de 2008
+### _Cape No. 7_ : le miracle commercial et musical de 2008
 
-Lorsque *Cape No. 7* (海角七號) de Wei Te-sheng sort en 2008, personne ne s'attend à ce qui va se passer. Le film devient le plus grand succès commercial du cinéma taïwanais depuis des décennies, dépassant même *Titanic* dans les salles locales. Derrière ce triomphe, la musique joue un rôle central. Le compositeur Fan Tsung-pei a créé pour ce film une partition qui embrasse plusieurs mondes à la fois : l'orchestration classique occidentale, les mélodies folkloriques taïwanaises, et des touches de musique japonaise qui résonnent avec le fil narratif du film, partagé entre le présent et les lettres d'amour d'un soldat japonais de l'époque coloniale.
+Lorsque _Cape No. 7_ (海角七號) de Wei Te-sheng sort en 2008, personne ne s'attend à ce qui va se passer. Le film devient le plus grand succès commercial du cinéma taïwanais depuis des décennies, dépassant même _Titanic_ dans les salles locales. Derrière ce triomphe, la musique joue un rôle central. Le compositeur Fan Tsung-pei a créé pour ce film une partition qui embrasse plusieurs mondes à la fois : l'orchestration classique occidentale, les mélodies folkloriques taïwanaises, et des touches de musique japonaise qui résonnent avec le fil narratif du film, partagé entre le présent et les lettres d'amour d'un soldat japonais de l'époque coloniale.
 
-La chanson principale du film, *Pas de fête sans musique* (無樂不作), interprétée par le chanteur japonais Nakahajime, est devenue l'une des chansons de film les plus populaires de l'année. La partition de Fan Tsung-pei n'était pas simplement un accompagnement : c'était un personnage à part entière, qui portait l'émotion du récit et existait de façon autonome bien au-delà des salles de cinéma.
+La chanson principale du film, _Pas de fête sans musique_ (無樂不作), interprétée par le chanteur japonais Nakahajime, est devenue l'une des chansons de film les plus populaires de l'année. La partition de Fan Tsung-pei n'était pas simplement un accompagnement : c'était un personnage à part entière, qui portait l'émotion du récit et existait de façon autonome bien au-delà des salles de cinéma.
 
-### *Warriors of the Rainbow: Seediq Bale* : la musique comme épopée
+### _Warriors of the Rainbow: Seediq Bale_ : la musique comme épopée
 
-Si *Cape No. 7* avait montré que Fan Tsung-pei savait émouvoir, *Warriors of the Rainbow: Seediq Bale* (賽德克·巴萊, 2011) a révélé qu'il savait aussi frapper de stupeur. Ce film épique, qui retrace l'insurrection de Wushe en 1930 — quand des guerriers du peuple autochtone Seediq se soulevèrent contre la colonisation japonaise —, appelait une musique à sa mesure. Wei Te-sheng a demandé à Fan Tsung-pei de ne pas se retenir. La réponse fut une partition pour orchestre symphonique et chœur au complet, d'une ampleur qui n'avait jamais été tentée dans le cinéma taïwanais.
+Si _Cape No. 7_ avait montré que Fan Tsung-pei savait émouvoir, _Warriors of the Rainbow: Seediq Bale_ (賽德克·巴萊, 2011) a révélé qu'il savait aussi frapper de stupeur. Ce film épique, qui retrace l'insurrection de Wushe en 1930 — quand des guerriers du peuple autochtone Seediq se soulevèrent contre la colonisation japonaise —, appelait une musique à sa mesure. Wei Te-sheng a demandé à Fan Tsung-pei de ne pas se retenir. La réponse fut une partition pour orchestre symphonique et chœur au complet, d'une ampleur qui n'avait jamais été tentée dans le cinéma taïwanais.
 
 La richesse de cette bande originale tient à la façon dont elle fait coexister des univers musicaux radicalement différents :
 
@@ -100,19 +103,19 @@ Chaque année, les lauréats du prix dessinent en creux une carte de l'évolutio
 
 ### Rayark Games et la révolution ludosonique
 
-Taïwan n'a pas seulement su composer pour le grand écran. Depuis le début des années 2010, le studio de jeux vidéo Rayark Games s'est imposé comme une référence mondiale dans un domaine très spécifique : la musique interactive. Ses titres phares — *Cytus*, *Deemo*, *Voez* — proposent des bandes sonores dont la qualité rivalise avec celle des productions musicales les plus exigeantes. Ce n'est pas de la musique fonctionnelle conçue pour remplir l'espace d'un jeu : c'est de la composition à part entière, pensée pour être écoutée, ressentie, collectionnée.
+Taïwan n'a pas seulement su composer pour le grand écran. Depuis le début des années 2010, le studio de jeux vidéo Rayark Games s'est imposé comme une référence mondiale dans un domaine très spécifique : la musique interactive. Ses titres phares — _Cytus_, _Deemo_, _Voez_ — proposent des bandes sonores dont la qualité rivalise avec celle des productions musicales les plus exigeantes. Ce n'est pas de la musique fonctionnelle conçue pour remplir l'espace d'un jeu : c'est de la composition à part entière, pensée pour être écoutée, ressentie, collectionnée.
 
-### *Deemo* : le piano comme architecture émotionnelle
+### _Deemo_ : le piano comme architecture émotionnelle
 
-Lancé en 2013, *Deemo* est bien plus qu'un jeu de rythme : c'est une expérience narrative baignée de mélancolie douce, dans laquelle le joueur fait littéralement pousser un arbre en jouant du piano. La bande sonore mêle pianisme classique, arrangements orchestraux et touches électroniques délicates. Elle a été composée par un collectif d'artistes, dont plusieurs compositeurs japonais de renom, ce qui lui confère une texture internationale tout en maintenant une cohérence esthétique remarquable.
+Lancé en 2013, _Deemo_ est bien plus qu'un jeu de rythme : c'est une expérience narrative baignée de mélancolie douce, dans laquelle le joueur fait littéralement pousser un arbre en jouant du piano. La bande sonore mêle pianisme classique, arrangements orchestraux et touches électroniques délicates. Elle a été composée par un collectif d'artistes, dont plusieurs compositeurs japonais de renom, ce qui lui confère une texture internationale tout en maintenant une cohérence esthétique remarquable.
 
-Le thème principal du jeu, *ANiMA*, a dépassé les 20 millions de vues sur YouTube — un chiffre qui dit tout sur la façon dont cette musique a transcendé son support d'origine pour devenir une œuvre autonome. *Deemo* a démontré que le jeu vidéo pouvait être, pour Taïwan, un vecteur d'influence culturelle aussi puissant que le cinéma.
+Le thème principal du jeu, _ANiMA_, a dépassé les 20 millions de vues sur YouTube — un chiffre qui dit tout sur la façon dont cette musique a transcendé son support d'origine pour devenir une œuvre autonome. _Deemo_ a démontré que le jeu vidéo pouvait être, pour Taïwan, un vecteur d'influence culturelle aussi puissant que le cinéma.
 
-### *Detention* : la mémoire traumatique mise en sons
+### _Detention_ : la mémoire traumatique mise en sons
 
-En 2017, le jeu d'horreur *Detention* (返校) prend le contrepied de l'esthétique habituelle du genre. Le compositeur Zhang Weifan a choisi de construire son atmosphère non pas avec des effets de terreur sonore conventionnels, mais en plongeant dans les archives musicales de Taïwan des années 1960. La chanson populaire taïwanaise *Sorrow of a Moonlit Night* (月夜愁), mélodie traditionnelle hantée par une nostalgie profonde, devient le motif central d'une partition qui oscille entre le nostalgique et l'inquiétant.
+En 2017, le jeu d'horreur _Detention_ (返校) prend le contrepied de l'esthétique habituelle du genre. Le compositeur Zhang Weifan a choisi de construire son atmosphère non pas avec des effets de terreur sonore conventionnels, mais en plongeant dans les archives musicales de Taïwan des années 1960. La chanson populaire taïwanaise _Sorrow of a Moonlit Night_ (月夜愁), mélodie traditionnelle hantée par une nostalgie profonde, devient le motif central d'une partition qui oscille entre le nostalgique et l'inquiétant.
 
-Ce choix est d'une intelligence redoutable : *Detention* se déroule pendant la période de la Loi martiale, une époque de répression politique que beaucoup de Taïwanais vivent encore comme un traumatisme non résolu. En ancrant la terreur dans des mélodies familières — des airs que les joueurs ont peut-être entendu chanter par leurs grands-parents — Zhang Weifan crée un inconfort qui dépasse le simple frisson horrifique pour toucher à quelque chose de profondément mémoriel. C'est de la musique de film appliquée au jeu vidéo, avec toute la subtilité narrative que cela implique.
+Ce choix est d'une intelligence redoutable : _Detention_ se déroule pendant la période de la Loi martiale, une époque de répression politique que beaucoup de Taïwanais vivent encore comme un traumatisme non résolu. En ancrant la terreur dans des mélodies familières — des airs que les joueurs ont peut-être entendu chanter par leurs grands-parents — Zhang Weifan crée un inconfort qui dépasse le simple frisson horrifique pour toucher à quelque chose de profondément mémoriel. C'est de la musique de film appliquée au jeu vidéo, avec toute la subtilité narrative que cela implique.
 
 ## Conclusion : la voix sonore de Taïwan
 
@@ -124,6 +127,6 @@ C'est peut-être la définition la plus juste d'une grande musique de film : par
 
 ## Références
 
-1. [*Histoire de la musique de film taïwanaise*, Centre national de la cinématographie et de l'audiovisuel de Taïwan](https://www.tfai.org.tw/)
+1. [_Histoire de la musique de film taïwanaise_, Centre national de la cinématographie et de l'audiovisuel de Taïwan](https://www.tfai.org.tw/)
 2. [Palmarès historique des Golden Horse Awards](https://www.goldenhorse.org.tw/)
 3. [Site officiel de Rayark Games](https://www.rayark.com/)

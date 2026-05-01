@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/李智凱.md'
 readingTime: 10
 featured: false
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:40c8b34419f44594'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 리즈카이 (李智凱)

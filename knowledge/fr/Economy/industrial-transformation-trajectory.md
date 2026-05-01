@@ -11,7 +11,10 @@ readingTime: 15
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
+translatedFrom: "Economy/台灣產業轉型與經濟發展軌跡.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:a20b7c78580c0ee1"
+translatedAt: "2026-04-14T19:21:33+08:00"
 ---
 
 # La métamorphose d'une île : trajectoire de la transformation industrielle et du développement économique de Taïwan
@@ -272,38 +275,38 @@ Taïwan occupe une position stratégique dans les chaînes d'approvisionnement m
 
 ### Trajectoire de croissance du PIB
 
-| Année | PIB total |
-|-------|-----------|
-| 1951 | 1,5 milliard USD |
-| 1980 | 42,4 milliards USD |
-| 2000 | 321,3 milliards USD |
-| 2023 | 790,6 milliards USD |
+| Année | PIB total           |
+| ----- | ------------------- |
+| 1951  | 1,5 milliard USD    |
+| 1980  | 42,4 milliards USD  |
+| 2000  | 321,3 milliards USD |
+| 2023  | 790,6 milliards USD |
 
 ### PIB par habitant
 
 | Année | PIB/habitant |
-|-------|--------------|
-| 1951 | 186 USD |
-| 1980 | 2 344 USD |
-| 2000 | 14 704 USD |
-| 2023 | 33 775 USD |
+| ----- | ------------ |
+| 1951  | 186 USD      |
+| 1980  | 2 344 USD    |
+| 2000  | 14 704 USD   |
+| 2023  | 33 775 USD   |
 
 ### Croissance des exportations
 
-| Année | Exportations |
-|-------|--------------|
-| 1952 | 116 millions USD |
-| 1980 | 19,7 milliards USD |
-| 2000 | 148,2 milliards USD |
-| 2023 | 432 milliards USD |
+| Année | Exportations        |
+| ----- | ------------------- |
+| 1952  | 116 millions USD    |
+| 1980  | 19,7 milliards USD  |
+| 2000  | 148,2 milliards USD |
+| 2023  | 432 milliards USD   |
 
 ### Évolution de la structure productive (1952 vs 2023)
 
-| Secteur | 1952 | 2023 |
-|---------|------|------|
-| Agriculture | 35,8 % | 1,8 % |
-| Industrie | 19,7 % | 36,9 % |
-| Services | 44,5 % | 61,3 % |
+| Secteur     | 1952   | 2023   |
+| ----------- | ------ | ------ |
+| Agriculture | 35,8 % | 1,8 %  |
+| Industrie   | 19,7 % | 36,9 % |
+| Services    | 44,5 % | 61,3 % |
 
 ---
 
@@ -417,11 +420,11 @@ Les PME représentent 98 % des entreprises taïwanaises et génèrent environ 78
 
 ### Les quatre dragons asiatiques face à face
 
-| | Taïwan | Hong Kong | Singapour | Corée du Sud |
-|---|--------|-----------|-----------|--------------|
-| Modèle | Sous-traitance de semi-conducteurs, spécialisation | Centre financier, commerce de transit | Concentration de multinationales, services | Grands conglomérats (chaebols), intégration verticale |
-| Tissu d'entreprises | PME agiles | Finance | Multinationales | Grands groupes |
-| Spécificité | Division du travail par niche | Services | Attractivité pour les sièges sociaux | Marques mondiales |
+|                     | Taïwan                                             | Hong Kong                             | Singapour                                  | Corée du Sud                                          |
+| ------------------- | -------------------------------------------------- | ------------------------------------- | ------------------------------------------ | ----------------------------------------------------- |
+| Modèle              | Sous-traitance de semi-conducteurs, spécialisation | Centre financier, commerce de transit | Concentration de multinationales, services | Grands conglomérats (chaebols), intégration verticale |
+| Tissu d'entreprises | PME agiles                                         | Finance                               | Multinationales                            | Grands groupes                                        |
+| Spécificité         | Division du travail par niche                      | Services                              | Attractivité pour les sièges sociaux       | Marques mondiales                                     |
 
 ### Enseignements pour les pays en développement
 
@@ -450,17 +453,17 @@ Les PME représentent 98 % des entreprises taïwanaises et génèrent environ 78
 
 ## Références
 
-- [Ministère des Affaires économiques : *Histoire du développement industriel de la République de Chine*](https://www.moea.gov.tw/)
-- [Banque centrale : *Bulletin mensuel de statistiques financières — séries historiques*](https://www.cbc.gov.tw/)
-- [Directorate-General of Budget, Accounting and Statistics : *Résumé des statistiques du revenu national*](https://www.dgbas.gov.tw/)
-- [Industrial Technology Research Institute : *Étude sur la trajectoire du développement industriel taïwanais*](https://www.itri.org.tw/)
-- Li Kuo-ting : *Stratégies de développement économique de Taïwan*, Linking Publishing
-- Hsiao Feng-hsiung : *40 ans de développement économique taïwanais*, Yuan-Liou Publishing
-- [Liu Chin-ching : *Analyse économique de Taïwan d'après-guerre*, Jen-chien Publishing](https://www.books.com.tw/products/0010531679)
-- [OCDE : *Economic Surveys: Chinese Taipei*](https://www.oecd.org/economy/bycountry/chinesetaipei/)
-- [Banque mondiale : *The East Asian Miracle*](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798)
-- [Chung-Hua Institution for Economic Research : *Étude comparative sur le développement économique des quatre dragons asiatiques*](https://www.cier.edu.tw/)
+- [Ministère des Affaires économiques : _Histoire du développement industriel de la République de Chine_](https://www.moea.gov.tw/)
+- [Banque centrale : _Bulletin mensuel de statistiques financières — séries historiques_](https://www.cbc.gov.tw/)
+- [Directorate-General of Budget, Accounting and Statistics : _Résumé des statistiques du revenu national_](https://www.dgbas.gov.tw/)
+- [Industrial Technology Research Institute : _Étude sur la trajectoire du développement industriel taïwanais_](https://www.itri.org.tw/)
+- Li Kuo-ting : _Stratégies de développement économique de Taïwan_, Linking Publishing
+- Hsiao Feng-hsiung : _40 ans de développement économique taïwanais_, Yuan-Liou Publishing
+- [Liu Chin-ching : _Analyse économique de Taïwan d'après-guerre_, Jen-chien Publishing](https://www.books.com.tw/products/0010531679)
+- [OCDE : _Economic Surveys: Chinese Taipei_](https://www.oecd.org/economy/bycountry/chinesetaipei/)
+- [Banque mondiale : _The East Asian Miracle_](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/975081468244550798)
+- [Chung-Hua Institution for Economic Research : _Étude comparative sur le développement économique des quatre dragons asiatiques_](https://www.cier.edu.tw/)
 
 ---
 
-*Cet article a été rédigé à partir de données statistiques officielles et de travaux académiques, avec le souci de restituer fidèlement la trajectoire historique de la transformation industrielle et l'expérience de développement de Taïwan. Pour toute suggestion de mise à jour ou de complément, n'hésitez pas à contribuer via [GitHub](https://github.com/frank890417/taiwan-md).*
+_Cet article a été rédigé à partir de données statistiques officielles et de travaux académiques, avec le souci de restituer fidèlement la trajectoire historique de la transformation industrielle et l'expérience de développement de Taïwan. Pour toute suggestion de mise à jour ou de complément, n'hésitez pas à contribuer via [GitHub](https://github.com/frank890417/taiwan-md)._

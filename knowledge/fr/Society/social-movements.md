@@ -3,7 +3,15 @@ title: 'Mouvements sociaux et participation citoyenne à Taïwan'
 description: 'Du Mouvement des Lys sauvages au Mouvement des Tournesols : comment Taïwan pratique la démocratie et fait avancer le progrès social par la mobilisation citoyenne'
 date: 2026-03-18
 category: 'Society'
-tags: ['mouvements sociaux', 'participation citoyenne', 'démocratie', 'Mouvement des Lys sauvages', 'Mouvement des Tournesols', 'réforme sociale']
+tags:
+  [
+    'mouvements sociaux',
+    'participation citoyenne',
+    'démocratie',
+    'Mouvement des Lys sauvages',
+    'Mouvement des Tournesols',
+    'réforme sociale',
+  ]
 subcategory: 'Démocratie et politique'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:23077f3ea861f854'
+translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 
 # Mouvements sociaux et participation citoyenne à Taïwan
@@ -296,8 +307,8 @@ L'expérience taïwanaise des mouvements sociaux montre comment une société pe
 
 ## Références
 
-- Ho Ming-sho, [*Introduction aux mouvements sociaux*](https://www.books.com.tw/products/0010294565)
-- Hsiao Hsin-huang, [*Les nouveaux mouvements sociaux à Taïwan*](https://www.books.com.tw/products/0010479654)
-- Lin Chia-lung et Zheng Yongnian (dir.), [*Transition et consolidation démocratiques*](https://www.books.com.tw/products/0010008479)
-- [*La génération des mouvements étudiants : des Lys sauvages aux Tournesols*](https://www.books.com.tw/products/0010642379)
+- Ho Ming-sho, [_Introduction aux mouvements sociaux_](https://www.books.com.tw/products/0010294565)
+- Hsiao Hsin-huang, [_Les nouveaux mouvements sociaux à Taïwan_](https://www.books.com.tw/products/0010479654)
+- Lin Chia-lung et Zheng Yongnian (dir.), [_Transition et consolidation démocratiques_](https://www.books.com.tw/products/0010008479)
+- [_La génération des mouvements étudiants : des Lys sauvages aux Tournesols_](https://www.books.com.tw/products/0010642379)
 - Sites officiels des organisations militantes et documentaires associés

@@ -2,7 +2,17 @@
 title: 'Chi Po-lin'
 description: "Comment un fonctionnaire au salaire modeste a hypothéqué sa maison pour financer le documentaire le plus rentable de l'histoire du cinéma taïwanais"
 date: 2026-03-25
-tags: ['personnalité', 'Chi Po-lin', 'documentaire', 'Above the Clouds', 'réalisateur', 'photographe', 'photographie aérienne', 'environnement']
+tags:
+  [
+    'personnalité',
+    'Chi Po-lin',
+    'documentaire',
+    'Above the Clouds',
+    'réalisateur',
+    'photographe',
+    'photographie aérienne',
+    'environnement',
+  ]
 subcategory: 'Arts et création'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +20,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-25
 translatedFrom: 'People/齊柏林.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9451fc2140cbffe0'
+translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 
 # Chi Po-lin
@@ -76,7 +89,7 @@ Le 30 octobre 2013, _Above the Clouds_ est projeté en avant-première en plein 
 
 Le 1er novembre, le film sort en salles. Personne ne s'attend à ce qui suit.
 
-Le premier week-end : 11 millions de NT$, un record pour un documentaire taïwanais. Dix jours plus tard : 35 millions, dépassant _The Old Boys Cycling Round Taiwan_ comme documentaire le plus rentable de l'histoire du pays. Vingt-neuf jours après la sortie, le cap des 100 millions est franchi — troisième film taïwanais à y parvenir en 2013. Le 5 janvier 2014, après soixante-six jours d'exploitation, le compteur dépasse 200 millions. Au total : **220 millions de NT$**.
+Le premier week-end : 11 millions de NT$, un record pour un documentaire taïwanais. Dix jours plus tard : 35 millions, dépassant _The Old Boys Cycling Round Taiwan_ comme documentaire le plus rentable de l'histoire du pays. Vingt-neuf jours après la sortie, le cap des 100 millions est franchi — troisième film taïwanais à y parvenir en 2013. Le 5 janvier 2014, après soixante-six jours d'exploitation, le compteur dépasse 200 millions. Au total : **220 millions de NT$\*\*.
 
 Sorti à Singapour en 2014, il devient le documentaire en langue chinoise le plus rentable de l'histoire cinématographique de la cité-État. Au Japon, il est distribué sous le titre _天空からの招待状_ (_Une invitation venue du ciel_).
 
@@ -130,16 +143,16 @@ Son héritage s'étend bien au-delà de sa disparition :
 
 ### Œuvres photographiques et filmographiques
 
-| Année | Titre | Type |
-|-------|-------|------|
-| 1997 | _Images de l'autoroute nord-2 : l'étreinte de la terre_ | Album photo |
-| 2004 | _Survoler Taïwan : histoires de notre terre_ | Album photo |
-| 2012 | _Taïwan depuis les airs : album aérien de Chi Po-lin_ (2e éd.) | Album photo |
-| 2012 | _Taïwan vue des oiseaux_ (texte : Liu Ke-hsiang ; musique : Chen Ming-chang) | Documentaire |
-| 2013 | _Survol des parcs nationaux de Taïwan_ | Documentaire |
-| 2013 | _Mon cœur, mes yeux, voir Taïwan_ | Livre |
-| 2013 | **_Above the Clouds_** (narration : Wu Nien-jen ; production déléguée : Hou Hsiao-hsien) | Documentaire |
-| 2015 | _Sonate de l'île : album aérien de Chi Po-lin_ | Album photo |
+| Année | Titre                                                                                    | Type         |
+| ----- | ---------------------------------------------------------------------------------------- | ------------ |
+| 1997  | _Images de l'autoroute nord-2 : l'étreinte de la terre_                                  | Album photo  |
+| 2004  | _Survoler Taïwan : histoires de notre terre_                                             | Album photo  |
+| 2012  | _Taïwan depuis les airs : album aérien de Chi Po-lin_ (2e éd.)                           | Album photo  |
+| 2012  | _Taïwan vue des oiseaux_ (texte : Liu Ke-hsiang ; musique : Chen Ming-chang)             | Documentaire |
+| 2013  | _Survol des parcs nationaux de Taïwan_                                                   | Documentaire |
+| 2013  | _Mon cœur, mes yeux, voir Taïwan_                                                        | Livre        |
+| 2013  | **_Above the Clouds_** (narration : Wu Nien-jen ; production déléguée : Hou Hsiao-hsien) | Documentaire |
+| 2015  | _Sonate de l'île : album aérien de Chi Po-lin_                                           | Album photo  |
 
 De 3 millions de NT$ d'économies à 220 millions au box-office. De 20 heures de vol annuel alloué à 1 600 heures cumulées dans les airs. D'une photographie du domaine Wufeng Lin à une décision de justice modifiant le droit minier. Chi Po-lin a consacré 26 ans à une seule mission : permettre aux Taïwanais de voir leur île depuis le ciel.
 
@@ -153,7 +166,7 @@ Le 14 juillet, après les cérémonies d'adieu, Chi Po-lin repose au parc mémor
 
 ## Sources
 
-- [Chi Po-lin (Taïwan) — Wikipédia](https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3))
+- [Chi Po-lin (Taïwan) — Wikipédia](<https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%9F%8F%E6%9E%97_(%E8%87%BA%E7%81%A3)>)
 - [Above the Clouds — Wikipédia](https://zh.wikipedia.org/wiki/%E7%9C%8B%E8%A6%8B%E5%8F%B0%E7%81%A3)
 - [Accident de l'hélicoptère Lingtian Aviation 2017 — Wikipédia](https://zh.wikipedia.org/wiki/2017%E5%B9%B4%E5%87%8C%E5%A4%A9%E8%88%AA%E7%A9%BA%E7%9B%B4%E5%8D%87%E6%A9%9F%E4%BA%8B%E6%95%85)
 - [Fondation Chi Po-lin](https://www.chipolin.org/)

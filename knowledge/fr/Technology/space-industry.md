@@ -2,7 +2,15 @@
 title: "L'industrie spatiale taïwanaise : un géant de la fabrication de satellites sans fusée propre"
 description: "Taïwan assemble chaque année des centaines de milliards de dollars de composants électroniques pour le monde entier, et pourtant ce n'est qu'en 2025 qu'elle a placé en orbite son premier satellite à résolution sous-métrique — une histoire de souveraineté technologique, de réalisme diplomatique et de rêve spatial commercial"
 date: 2026-03-29
-tags: ['industrie spatiale', 'satellites', 'TASA', 'Formosat', 'technologie spatiale', 'espace commercial']
+tags:
+  [
+    'industrie spatiale',
+    'satellites',
+    'TASA',
+    'Formosat',
+    'technologie spatiale',
+    'espace commercial',
+  ]
 subcategory: 'Espace et frontières technologiques'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-29
 translatedFrom: 'Technology/台灣太空產業發展.md'
+sourceCommitSha: '429d3cf0'
+sourceContentHash: 'sha256:6d36d0208e7a562f'
+translatedAt: '2026-04-14T12:33:06+08:00'
 ---
 
 # L'industrie spatiale taïwanaise : un géant de la fabrication de satellites sans fusée propre
@@ -110,12 +121,12 @@ Le contexte technique du programme de satellites de communication taïwanais mé
 
 Les faiblesses de Taïwan résident dans la taille et l'absence de fusée, ainsi que dans des ressources financières et un calendrier de démarrage inférieurs d'environ vingt ans à ceux du Japon et de la Corée du Sud. Mais les atouts de Taïwan sont concrets : chaîne d'approvisionnement des semi-conducteurs, capacités de fabrication de précision, bases industrielles dans les TIC — autant d'avantages différenciants dans les composants satellitaires et les équipements terrestres.
 
-| Indicateur | Taïwan | Japon | Corée du Sud | Singapour |
-|---|---|---|---|---|
-| Budget annuel programme spatial | ~7,1 Mds TWD (depuis 2024) | ~400 Mds JPY | ~760 Mds KRW | ~1,5 Md SGD |
-| Fusée nationale | Aucune | H3 ✅ | Nuri ✅ | Aucune |
-| Résolution satellite de télédétection | Sous-métrique (2025) | Sous-métrique (2006) | Sous-métrique (2006) | Dépendance services commerciaux |
-| Écosystème spatial commercial | En développement | Mature | Mature | En développement |
+| Indicateur                            | Taïwan                     | Japon                | Corée du Sud         | Singapour                       |
+| ------------------------------------- | -------------------------- | -------------------- | -------------------- | ------------------------------- |
+| Budget annuel programme spatial       | ~7,1 Mds TWD (depuis 2024) | ~400 Mds JPY         | ~760 Mds KRW         | ~1,5 Md SGD                     |
+| Fusée nationale                       | Aucune                     | H3 ✅                | Nuri ✅              | Aucune                          |
+| Résolution satellite de télédétection | Sous-métrique (2025)       | Sous-métrique (2006) | Sous-métrique (2006) | Dépendance services commerciaux |
+| Écosystème spatial commercial         | En développement           | Mature               | Mature               | En développement                |
 
 Les meilleures opportunités pour les entreprises taïwanaises ne résident pas dans la « fabrication de satellites complets » (domaine où le Japon et la Corée ont des décennies d'avance), mais dans la « fabrication des quelques composants clés dont dépend la réussite ou l'échec d'un satellite entier ». Les capteurs CMOS TDI, les modules de communication SDR, les composants électroniques résistants aux radiations sont autant de directions où l'industrie des semi-conducteurs peut se différencier dans le domaine spatial. L'écosystème des startups taïwanaises voit aussi un nombre croissant d'entreprises considérer ce secteur comme un prochain créneau porteur.
 

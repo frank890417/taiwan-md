@@ -1,15 +1,18 @@
 ---
-title: 'Cathay Financial Holdings : l''empire financier de Taïwan'
+title: "Cathay Financial Holdings : l'empire financier de Taïwan"
 description: 'Le plus grand groupe financier de Taïwan, un empire bâti par le conglomérat Linyuan'
 date: 2026-03-20
 tags: [Économie, Entreprise, Finance, Holding, Banque, Assurance]
-subcategory: 'Portraits d''entreprises'
+subcategory: "Portraits d'entreprises"
 category: 'Economy'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：國泰金控.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:15d9f13b5613c8cd'
+translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 
 > **En 30 secondes**
@@ -148,8 +151,8 @@ De la petite compagnie d'assurance fondée par Tsai Wan-tsai à l'empire financi
 
 ## Références
 
-- *Business Next* : analyse des profits des 13 holdings financiers — Cathay Financial enregistre 14,62 milliards NT$ en un mois et décroche la couronne des profits (11 décembre 2025)
+- _Business Next_ : analyse des profits des 13 holdings financiers — Cathay Financial enregistre 14,62 milliards NT$ en un mois et décroche la couronne des profits (11 décembre 2025)
 - Cnyes : classement des profits mensuels des 13 holdings financiers, Cathay Financial conserve sa première place (décembre 2025)
-- *Wikipedia : Cathay Financial Holding* (mise à jour du 3 juillet 2025)
+- _Wikipedia : Cathay Financial Holding_ (mise à jour du 3 juillet 2025)
 - StatementDog : classement des holdings financiers par total d'actifs (mars 2026)
 - Smart Self-Learning : analyse des profits des 10 premiers mois de Fubon Financial, Cathay Financial et CTBC Financial (novembre 2025)

@@ -10,6 +10,9 @@ readingTime: 14
 featured: true
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 lastVerified: 2026-04-11
+sourceCommitSha: '056136d7'
+sourceContentHash: 'sha256:059f5d9ff66a77e7'
+translatedAt: '2026-04-14T06:21:59+08:00'
 ---
 
 # 2026 정시회담: 국공 지도자 10년 만의 재회, 단 10분

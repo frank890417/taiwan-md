@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Music/小虎隊.md'
+sourceCommitSha: 'eb0744ad'
+sourceContentHash: 'sha256:14e51d60921e3e85'
+translatedAt: '2026-04-14T10:22:29+08:00'
 ---
 
 # 소호대 (小虎隊)

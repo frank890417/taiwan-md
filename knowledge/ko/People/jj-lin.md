@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'People/林俊傑.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:88e7c7b4207d65a4'
+translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 
 # JJ 린(林俊傑): 국경을 초월한 화어권 음악의 재능

@@ -11,6 +11,9 @@ tags:
   ]
 lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣社區與里文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cd7ff91fe48a2538'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan’s Neighborhood and Li (里) Culture

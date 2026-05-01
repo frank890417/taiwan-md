@@ -2,7 +2,15 @@
 title: 'Shen Sheng-Bo'
 description: "Formé en informatique, il a introduit la programmation dans la scène de l'art contemporain à Taïwan. En trente-quatre ans d'existence, Shen Sheng-Bo a laissé bien plus que des œuvres d'art numérique : il a incarné un esprit expérimental qui traite le code comme un mode de vie et le logiciel libre comme une éthique créative."
 date: 2026-03-23
-tags: ['Personnalité', 'Art numérique', 'Nouveaux médias', 'FLOSS+ART', 'OpenLab.Taipei', 'Taïwan']
+tags:
+  [
+    'Personnalité',
+    'Art numérique',
+    'Nouveaux médias',
+    'FLOSS+ART',
+    'OpenLab.Taipei',
+    'Taïwan',
+  ]
 subcategory: 'Art et design'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,13 +18,16 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-23
 translatedFrom: 'People/沈聖博.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:ba33a2f2652e311d'
+translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 
 # Shen Sheng-Bo
 
 ## En 30 secondes
 
-Shen Sheng-Bo (1980–2014) est un artiste numérique et ingénieur artistique taïwanais, membre d'OpenLab.Taipei et cofondateur de l'espace Youwei. Initialement formé en informatique, il s'est tourné vers l'art technologique pour explorer les liens entre règles numériques, logique algorithmique et vie quotidienne. Son importance tient non seulement à ses œuvres, mais surtout au fait qu'il a été l'un des premiers à démontrer concrètement, à Taïwan, que le logiciel libre pouvait être un outil artistique — et à transmettre cette conviction à travers des ateliers, des cours et la gestion d'espaces culturels, influençant ainsi toute une génération de créateurs en *creative coding*.
+Shen Sheng-Bo (1980–2014) est un artiste numérique et ingénieur artistique taïwanais, membre d'OpenLab.Taipei et cofondateur de l'espace Youwei. Initialement formé en informatique, il s'est tourné vers l'art technologique pour explorer les liens entre règles numériques, logique algorithmique et vie quotidienne. Son importance tient non seulement à ses œuvres, mais surtout au fait qu'il a été l'un des premiers à démontrer concrètement, à Taïwan, que le logiciel libre pouvait être un outil artistique — et à transmettre cette conviction à travers des ateliers, des cours et la gestion d'espaces culturels, influençant ainsi toute une génération de créateurs en _creative coding_.
 
 Né en 1980 à Changhua, Shen Sheng-Bo n'est pas issu du milieu des beaux-arts. Il a d'abord étudié l'informatique à l'Université nationale Chiao Tung, poursuivant en master dans la même discipline avec une spécialisation en systèmes distribués. Ce n'est qu'entre 2006 et 2007 qu'il part en Angleterre pour suivre une formation en art technologique. Ce parcours est typiquement taïwanais : une solide base en sciences et ingénierie, puis une conversion du savoir technique en langage artistique.
 
@@ -41,21 +52,21 @@ C'est ce qui rend les œuvres de Shen Sheng-Bo toujours aussi pertinentes, plus 
 
 ## Les œuvres : non pas des décorations, mais des révélateurs de règles
 
-D'après les données publiques disponibles, Shen Sheng-Bo a exposé régulièrement entre 2008 et 2013, avec des œuvres telles que *Il y avait autrefois un arbre*, *Où êtes-vous ?*, *texture*, *meta-* et *pin shadow*. Il a participé au Taipei Digital Art Festival et au Digital Art Ark du Musée national des beaux-arts de Taïwan, entre autres événements majeurs.
+D'après les données publiques disponibles, Shen Sheng-Bo a exposé régulièrement entre 2008 et 2013, avec des œuvres telles que _Il y avait autrefois un arbre_, _Où êtes-vous ?_, _texture_, _meta-_ et _pin shadow_. Il a participé au Taipei Digital Art Festival et au Digital Art Ark du Musée national des beaux-arts de Taïwan, entre autres événements majeurs.
 
 Les titres eux-mêmes révèlent une caractéristique : ils ne cherchent généralement pas à raconter une histoire complète, mais semblent capturer un état, des règles en action, la relation subtile entre perception et système. C'est très différent des arts traditionnels fondés sur le récit ou le symbole. Shen pratique en quelque chose une traduction de « l'odeur des algorithmes » en expérience sensible.
 
-*Il y avait autrefois un arbre*, par exemple, ne relève pas du naturalisme figuratif — c'est plutôt une question posée : lorsque la vie, la mémoire et les médias numériques se rencontrent, que reste-t-il ? *Où êtes-vous ?* évoque quant à elle les enjeux de localisation, d'existence, de réponse et d'absence à l'ère d'Internet.
+_Il y avait autrefois un arbre_, par exemple, ne relève pas du naturalisme figuratif — c'est plutôt une question posée : lorsque la vie, la mémoire et les médias numériques se rencontrent, que reste-t-il ? _Où êtes-vous ?_ évoque quant à elle les enjeux de localisation, d'existence, de réponse et d'absence à l'ère d'Internet.
 
-Shen ne traite pas la technologie comme une mise en scène futuriste, mais comme un environnement qui transforme la façon dont les humains perçoivent le monde. Ce positionnement est particulièrement manifeste dans ses œuvres tardives *pin shadow* et *texture*. Le critique d'art technologique Chiu Chih-Yung note que les œuvres de Shen discutent d'un côté des propriétés réglementaires du domaine numérique, et de l'autre maintiennent une « chaleur technologique » sensible au sein d'une logique froide et rationnelle. *Pin shadow* et *texture* ne sont pas de simples installations visuelles séduisantes, mais construisent un nouveau sens du temps et de l'espace entre le virtuel et le réel, offrant au spectateur une expérience perceptive à la fois logique et étrangement irréelle.
+Shen ne traite pas la technologie comme une mise en scène futuriste, mais comme un environnement qui transforme la façon dont les humains perçoivent le monde. Ce positionnement est particulièrement manifeste dans ses œuvres tardives _pin shadow_ et _texture_. Le critique d'art technologique Chiu Chih-Yung note que les œuvres de Shen discutent d'un côté des propriétés réglementaires du domaine numérique, et de l'autre maintiennent une « chaleur technologique » sensible au sein d'une logique froide et rationnelle. _Pin shadow_ et _texture_ ne sont pas de simples installations visuelles séduisantes, mais construisent un nouveau sens du temps et de l'espace entre le virtuel et le réel, offrant au spectateur une expérience perceptive à la fois logique et étrangement irréelle.
 
 ## Le logiciel libre : non pas un choix d'outil, mais une éthique créative
 
-Ce qui justifie pleinement la présence de Shen Sheng-Bo dans Taiwan.md, c'est qu'il ne s'est pas contenté de créer des œuvres : très tôt, il a promu à Taïwan le mouvement **FLOSS+ART** — la convergence entre logiciel libre et open source (*Free/Libre Open Source Software*) et pratique artistique.
+Ce qui justifie pleinement la présence de Shen Sheng-Bo dans Taiwan.md, c'est qu'il ne s'est pas contenté de créer des œuvres : très tôt, il a promu à Taïwan le mouvement **FLOSS+ART** — la convergence entre logiciel libre et open source (_Free/Libre Open Source Software_) et pratique artistique.
 
 Ce positionnement semble technique en surface ; il relève en réalité d'une éthique créative. La question sous-jacente est : les artistes doivent-ils comprendre les outils qu'ils utilisent ? Ces outils doivent-ils rester modifiables, partageables, extensibles ? Si la création artistique dépend de plus en plus de plateformes fermées, est-ce qu'on crée véritablement, ou loue-t-on un système sensoriel défini par d'autres ?
 
-Aujourd'hui, des noms comme *creative coding*, Processing, openFrameworks ou p5.js sont familiers à beaucoup. Mais à la fin des années 2000 et au début des années 2010, rares étaient ceux qui promouvaient l'art numérique et le logiciel libre de cette façon. Shen Sheng-Bo faisait partie de ceux qui avaient le plus avancé sur cette voie.
+Aujourd'hui, des noms comme _creative coding_, Processing, openFrameworks ou p5.js sont familiers à beaucoup. Mais à la fin des années 2000 et au début des années 2010, rares étaient ceux qui promouvaient l'art numérique et le logiciel libre de cette façon. Shen Sheng-Bo faisait partie de ceux qui avaient le plus avancé sur cette voie.
 
 Selon la base de données de l'art contemporain taïwanais, outre sa pratique artistique, il a animé de nombreux ateliers et enseigné dans des établissements scolaires. Plus précisément, il a créé un **cours avancé Processing**, mis en place le **Play+Processing Forum**, et donné une conférence intitulée « Open Source & Digital Art Processing » à **COSCUP 2010**, présentant Processing comme un outil permettant aux designers, architectes et artistes — même sans formation approfondie en programmation — d'entrer dans la création numérique.
 
@@ -79,13 +90,13 @@ Si OpenLab.Taipei représente la communauté et le réseau, l'espace Youwei repr
 
 En 2009, Shen Sheng-Bo est diagnostiqué d'un cancer colorectal. Il décède en 2014, à l'âge de 34 ans.
 
-Selon les comptes rendus de son exposition commémorative, la maladie n'a pas interrompu sa pratique créative — elle a au contraire orienté ses préoccupations des émotions et mémoires personnelles vers l'exploration des rythmes de la vie, du changement et de l'écoulement du temps. Des œuvres comme *pin shadow* — qui confère aux objets des ombres virtuelles et des transformations organiques grâce au code et à la logique mathématique — cherchent à comprendre les règles et maîtriser le changement au sein de systèmes virtuels, comme une réponse à la perte de contrôle progressive du corps.
+Selon les comptes rendus de son exposition commémorative, la maladie n'a pas interrompu sa pratique créative — elle a au contraire orienté ses préoccupations des émotions et mémoires personnelles vers l'exploration des rythmes de la vie, du changement et de l'écoulement du temps. Des œuvres comme _pin shadow_ — qui confère aux objets des ombres virtuelles et des transformations organiques grâce au code et à la logique mathématique — cherchent à comprendre les règles et maîtriser le changement au sein de systèmes virtuels, comme une réponse à la perte de contrôle progressive du corps.
 
 Cette dimension confère aux œuvres de Shen Sheng-Bo une tension particulièrement émouvante : il n'utilise pas la technologie pour fuir la vie, mais, au moment où celle-ci est la plus fragile, il se tourne vers elle pour approcher les questions les plus fondamentales — comment l'être humain fait-il face au changement, à la perte de contrôle, au temps qui passe ?
 
 Vu de l'extérieur, cette vie artistique semble interrompue trop tôt. Mais si l'on observe les traces qu'il a laissées, son importance ne se mesure pas au nombre d'œuvres, mais à la figure de créateur qu'il a incarnée — rare à Taïwan à l'époque, mais de plus en plus décisive par la suite.
 
-La base de données des résultats soutenus par le Conseil national des arts présente l'exposition commémorative *Le troisième round — Exposition en mémoire de Shen Sheng-Bo* en le décrivant directement comme « un artiste qui a promu la création en logiciel libre à Taïwan ». Cette évaluation est importante : elle dépasse le cadre du créateur individuel pour faire de Shen Sheng-Bo quelqu'un qui a contribué à faire avancer les méthodes et la culture de l'art numérique taïwanais. Son héritage ne se réduit pas à des œuvres mémorisées, mais inclut leur restauration, leur remontée en scène, les ateliers, la documentation et l'enseignement — autant de choses que ses successeurs ont jugé dignes d'être perpétuées.
+La base de données des résultats soutenus par le Conseil national des arts présente l'exposition commémorative _Le troisième round — Exposition en mémoire de Shen Sheng-Bo_ en le décrivant directement comme « un artiste qui a promu la création en logiciel libre à Taïwan ». Cette évaluation est importante : elle dépasse le cadre du créateur individuel pour faire de Shen Sheng-Bo quelqu'un qui a contribué à faire avancer les méthodes et la culture de l'art numérique taïwanais. Son héritage ne se réduit pas à des œuvres mémorisées, mais inclut leur restauration, leur remontée en scène, les ateliers, la documentation et l'enseignement — autant de choses que ses successeurs ont jugé dignes d'être perpétuées.
 
 En rassemblant tous ces éléments, on comprend mieux pourquoi Shen Sheng-Bo mérite d'être rappelé — non pas parce qu'il est mort jeune, mais parce qu'en une vie brève, il a porté une culture créative encore émergente jusqu'au point où d'autres pouvaient en prendre le relais.
 
@@ -102,7 +113,7 @@ Ces conditions réunies font de lui quelqu'un qui « n'a pas eu le temps de se d
 
 Ce qui mérite d'être retenu de Shen Sheng-Bo aujourd'hui n'est peut-être pas une œuvre représentative unique, mais le fait qu'il ait tracé — avant les autres — une voie qui est devenue de plus en plus évidente à Taïwan : **l'art numérique n'a pas besoin d'être seulement une démonstration high-tech dans un musée — il peut être une culture créative ouverte, apprenante et partageable.**
 
-Cette voie s'est prolongée de différentes façons dans les générations suivantes. Certains font des installations interactives, d'autres des performances sonores, d'autres encore des expériences visuelles avec Processing ou p5.js, d'autres enfin portent l'enseignement du code dans des ateliers, des salles de classe et des communautés. Ces successeurs n'ont pas nécessairement été formés directement par Shen Sheng-Bo, mais le terreau du *creative coding* et du FLOSS+ART à Taïwan a été en partie labouré, retourné et ensemencé par des personnes comme lui.
+Cette voie s'est prolongée de différentes façons dans les générations suivantes. Certains font des installations interactives, d'autres des performances sonores, d'autres encore des expériences visuelles avec Processing ou p5.js, d'autres enfin portent l'enseignement du code dans des ateliers, des salles de classe et des communautés. Ces successeurs n'ont pas nécessairement été formés directement par Shen Sheng-Bo, mais le terreau du _creative coding_ et du FLOSS+ART à Taïwan a été en partie labouré, retourné et ensemencé par des personnes comme lui.
 
 Ce qu'il a laissé n'est pas une formule de succès reproductible, mais une posture : comprendre ses outils, questionner les règles, traiter le code comme une composante de la vie, et accepter de partager ce chemin avec les autres.
 

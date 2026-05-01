@@ -10,6 +10,9 @@ featured: true
 category: 'Lifestyle'
 lastVerified: 2026-03-19
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
+sourceCommitSha: 'e564525c'
+sourceContentHash: 'sha256:a846fc24eb105695'
+translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 
 # 대만 편의점 문화

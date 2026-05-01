@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/楊德昌.md'
 featured: true
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7eb377093645b409'
+translatedAt: '2026-04-14T19:24:47+08:00'
 ---
 
 # 에드워드 양 — 도시 소외의 영화 시인

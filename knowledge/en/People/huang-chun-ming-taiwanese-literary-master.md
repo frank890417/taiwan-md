@@ -16,6 +16,9 @@ subcategory: 'Literature'
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'People/黃春明.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:2ec7b54fb5bdb0ff'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Huang Chun-ming: Master of Taiwanese Literary Humanism

@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Economy/夜市經濟學.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0fad49e81799ba5a'
+translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 
 # 야시장 경제학: 브랜드 없는 상업의 기적

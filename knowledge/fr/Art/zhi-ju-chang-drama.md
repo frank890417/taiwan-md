@@ -1,8 +1,15 @@
 ---
-title: 'Q Series : comment un fabricant d''ordinateurs a planté les graines de la renaissance du drama taïwanais'
+title: "Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais"
 description: 'En 2016, le patron technologique Tung Tzu-hsien a financé un projet hors du commun : confier à Wang Hsiao-ti et aux plus grands réalisateurs de Taïwan une mission anti-commerciale — ne pas tourner de blockbusters, mais former de nouveaux talents.'
 date: 2026-03-30
-tags: ['Q Series', 'drama taïwanais', 'Wang Hsiao-ti', 'Greg Hsu', 'Golden Bell Awards']
+tags:
+  [
+    'Q Series',
+    'drama taïwanais',
+    'Wang Hsiao-ti',
+    'Greg Hsu',
+    'Golden Bell Awards',
+  ]
 category: 'Art'
 subcategory: 'Cinéma et télévision'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 7
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'Art/植劇場.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:52ebdd617f88ce4b'
+translatedAt: '2026-04-14T19:14:02+08:00'
 ---
 
 # Q Series : comment un fabricant d'ordinateurs a planté les graines de la renaissance du drama taïwanais
@@ -31,7 +41,7 @@ Wang Hsiao-ti résumait ainsi son intention : « Le Q Series est un espace où n
 
 Ce projet avait besoin de financement. Et ce financement vint d'un homme en apparence totalement étranger à cet univers : Tung Tzu-hsien, président d'Pegatron.
 Dans le milieu technologique taïwanais, Tung est connu pour avoir cofondé Asus avant de mener Pegatron dans la sous-traitance pour Apple — l'archétype de l'industriel du hardware.
-Mais il soutient Eslite depuis des années, sponsorise le Cloud Gate Theatre, a investi dans la série *Black & White: The Dawn of Assault*, et a doté le prix littéraire Yang Mu — la culture et les arts ont toujours fait partie de son univers personnel.
+Mais il soutient Eslite depuis des années, sponsorise le Cloud Gate Theatre, a investi dans la série _Black & White: The Dawn of Assault_, et a doté le prix littéraire Yang Mu — la culture et les arts ont toujours fait partie de son univers personnel.
 
 En 2016, via sa filiale culturelle Acer Arts, il rend le Q Series possible.
 La décision défie toute logique commerciale : les réalisateurs les plus expérimentés aux côtés des acteurs les moins connus, dans un marché écrasé par les dramas coréens et chinois, sans garantie d'audience ni de retour sur investissement.
@@ -53,45 +63,45 @@ Le Q Series comprend au total 8 séries, soit 52 épisodes, répartis en quatre 
 Chaque thème réunit deux séries au style délibérément contrasté, diffusées en bande quotidienne sur TTV, ETTV Drama et PTS à partir d'août 2016 pendant un an.
 Ce choix de « séries de genre » était en lui-même une déclaration : la télévision taïwanaise ne devait pas se limiter aux dramas romantiques et aux feuilletons sans fin.
 
-| Genre | Titre | Acteurs principaux | Distinctions et particularités |
-|---|---|---|---|
-| Romance et coming-of-age | *Falling in Love* | Wu Kang-jen, Ko Shu-chin, Greg Hsu | 9 nominations aux 52e Golden Bell Awards ; Ko Shu-chin Meilleure actrice, Chen Yu Meilleur espoir |
-| Romance et coming-of-age | *At Café 6 / Someday or One Day* (荼蘼) | Rainie Yang | Scénario de Hsu Yu-ting ; prix au Seoul International Drama Awards et aux Asian Television Awards |
-| Thriller et policier | *Teacher Miss, Have You Ever Loved?* | Lan Cheng-lung, Greg Hsu | Thématiques de l'agression sexuelle et des préjugés ; co-scénarisé par Wang Hsiao-ti et Ko Yen-hsin |
-| Thriller et policier | *Lights Out* | Cheryl Yang, Chang Shu-hao | Réalisé par Ke Chen-nian ; huis clos d'enquête policière à l'atmosphère claustrophobe |
-| Fantastique et horreur | *The House of Blocks* | Cheng Jen-shuo, Ho Hao-chen | Obsessions familiales et liens surnaturels |
-| Fantastique et horreur | *A Thousand Walls in My Dreams* | Huang He, Mo Yun-wen | Le surnaturel comme enveloppe pour explorer la solitude et la réalité sociale |
-| Adaptation littéraire | *The Teenage Psychic* (花甲男孩轉大人) | Crowd Lu, Yen Cheng-lan | Adapté de Yang Fu-min ; phénomène national dit « le phénomène Hua-jia » |
-| Adaptation littéraire | *A Taste of Life* | Ann Hsu, Fu Meng-po | Adapté de l'autobiographie de Fu Pei-mei ; portrait chaleureux de la cuisine taïwanaise |
+| Genre                    | Titre                                   | Acteurs principaux                 | Distinctions et particularités                                                                      |
+| ------------------------ | --------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Romance et coming-of-age | _Falling in Love_                       | Wu Kang-jen, Ko Shu-chin, Greg Hsu | 9 nominations aux 52e Golden Bell Awards ; Ko Shu-chin Meilleure actrice, Chen Yu Meilleur espoir   |
+| Romance et coming-of-age | _At Café 6 / Someday or One Day_ (荼蘼) | Rainie Yang                        | Scénario de Hsu Yu-ting ; prix au Seoul International Drama Awards et aux Asian Television Awards   |
+| Thriller et policier     | _Teacher Miss, Have You Ever Loved?_    | Lan Cheng-lung, Greg Hsu           | Thématiques de l'agression sexuelle et des préjugés ; co-scénarisé par Wang Hsiao-ti et Ko Yen-hsin |
+| Thriller et policier     | _Lights Out_                            | Cheryl Yang, Chang Shu-hao         | Réalisé par Ke Chen-nian ; huis clos d'enquête policière à l'atmosphère claustrophobe               |
+| Fantastique et horreur   | _The House of Blocks_                   | Cheng Jen-shuo, Ho Hao-chen        | Obsessions familiales et liens surnaturels                                                          |
+| Fantastique et horreur   | _A Thousand Walls in My Dreams_         | Huang He, Mo Yun-wen               | Le surnaturel comme enveloppe pour explorer la solitude et la réalité sociale                       |
+| Adaptation littéraire    | _The Teenage Psychic_ (花甲男孩轉大人)  | Crowd Lu, Yen Cheng-lan            | Adapté de Yang Fu-min ; phénomène national dit « le phénomène Hua-jia »                             |
+| Adaptation littéraire    | _A Taste of Life_                       | Ann Hsu, Fu Meng-po                | Adapté de l'autobiographie de Fu Pei-mei ; portrait chaleureux de la cuisine taïwanaise             |
 
 Cette diversité de genres forçait les spectateurs taïwanais à repenser leur définition même de « série télé ».
 À cette époque, la production locale était en perte de vitesse, écrasée par les productions étrangères.
 Le Q Series, par son volume et sa cohérence, démontrait que les dramas taïwanais de genre pouvaient rivaliser en qualité narrative et technique.
 
-## Les nouveaux visages de *Falling in Love*
+## Les nouveaux visages de _Falling in Love_
 
 En 2016, un jeune homme naviguant entre formation de chanteur et carrière d'acteur sans jamais vraiment percer reçoit sa convocation pour le Q Series.
-Il décroche un rôle dans *Falling in Love* — un aîné séduisant avec une touche comique — puis enchaîne avec *Teacher Miss, Have You Ever Loved?*, où il incarne un adolescent à développement retardé souffrant d'une addiction sexuelle.
+Il décroche un rôle dans _Falling in Love_ — un aîné séduisant avec une touche comique — puis enchaîne avec _Teacher Miss, Have You Ever Loved?_, où il incarne un adolescent à développement retardé souffrant d'une addiction sexuelle.
 Un rôle exigeant une maîtrise physique extrême et une gestion émotionnelle d'une précision chirurgicale. Il confiera à la presse que le tournage fut « épuisant ».
 
 Ce jeune homme s'appelle Greg Hsu (許光漢). Aujourd'hui, ce nom n'a plus besoin d'introduction.
-Sa performance dans *Teacher Miss* lui vaut sa première nomination aux 52e Golden Bell Awards dans la catégorie Meilleur acteur dans un second rôle.
+Sa performance dans _Teacher Miss_ lui vaut sa première nomination aux 52e Golden Bell Awards dans la catégorie Meilleur acteur dans un second rôle.
 Ce n'est pas seulement l'histoire d'un inconnu qui explose — c'est la démonstration de la force du modèle « maître-apprenti » du Q Series :
 des réalisateurs chevronnés comme Wang Hsiao-ti et Chen Yu-hsun façonnent en direct, sur le plateau, ces « petits QQ » qui n'avaient aucune expérience professionnelle.
 
-Chen Yu et Liu Kuan-ting brillent également dans cette aventure. Chen Yu remporte le Golden Bell du Meilleur espoir pour *Falling in Love*, et Liu Kuan-ting affûte son jeu sur plusieurs productions.
+Chen Yu et Liu Kuan-ting brillent également dans cette aventure. Chen Yu remporte le Golden Bell du Meilleur espoir pour _Falling in Love_, et Liu Kuan-ting affûte son jeu sur plusieurs productions.
 Le Q Series valide ici son postulat central : pas besoin de miser sur des noms déjà connus pour se protéger.
 Avec un environnement professionnel adapté et un temps de répétition suffisant, des comédiens non aguerris peuvent s'épanouir dans les conditions les plus exigeantes de l'industrie audiovisuelle.
 
-## *The Teenage Psychic* ou quand un village agricole devient scène nationale
+## _The Teenage Psychic_ ou quand un village agricole devient scène nationale
 
-Parmi les huit séries, celle qui toucha le public le plus largement, atteignit les meilleures audiences et s'ancra le plus profondément dans le quotidien des Taïwanais fut *The Teenage Psychic* (花甲男孩轉大人).
+Parmi les huit séries, celle qui toucha le public le plus largement, atteignit les meilleures audiences et s'ancra le plus profondément dans le quotidien des Taïwanais fut _The Teenage Psychic_ (花甲男孩轉大人).
 Adaptée du roman de Yang Fu-min par Chu Yu-ning — réalisateur expert des sensibilités locales —, la série fit le pari audacieux de confier le rôle-titre au chanteur Crowd Lu, sans aucune expérience d'acteur.
 Il incarne Cheng Hua-chia, 28 ans, sans diplôme universitaire, qui a grandi dans le temple ancestral de son village.
 
-En 2017, alors que des productions comme le drama coréen *Descendants of the Sun* dominaient les écrans, cette série s'imposa avec une vitalité brute, mêlant taïwanais et mandarin.
+En 2017, alors que des productions comme le drama coréen _Descendants of the Sun_ dominaient les écrans, cette série s'imposa avec une vitalité brute, mêlant taïwanais et mandarin.
 Son premier épisode atteignit un taux d'audience de 1,22 % — puis une longue scène de dispute filmée en plan-séquence envahit les réseaux sociaux, déclenchant un débat national sur les liens familiaux et l'attachement à la terre.
-Cette vague conduisit en 2018 au film *Papa and Mama Are Getting Divorced* (花甲大人轉男孩), transformant une expérience télévisuelle en succès commercial en salle.
+Cette vague conduisit en 2018 au film _Papa and Mama Are Getting Divorced_ (花甲大人轉男孩), transformant une expérience télévisuelle en succès commercial en salle.
 
 Le triomphe de cette série porte une signification symbolique profonde : il déconstruit le préjugé selon lequel « local rime avec ringard ».
 Grâce à une mise en scène soignée et une structure narrative solide, un enterrement dans un village agricole de Taïwan et les querelles d'une famille élargie pouvaient devenir une mythologie contemporaine aussi captivante qu'un drama coréen.
@@ -101,16 +111,16 @@ Le message était clair : quand l'histoire est bien racontée et les personnages
 
 Les résultats sur deux cérémonies des Golden Bell Awards constituent le bulletin de notes le plus objectif du Q Series.
 En 2017, lors de la 52e édition, les cinq premières séries du Q Series totalisaient 24 nominations — un record pour une seule maison de production.
-En 2018, lors de la 53e édition, *The Teenage Psychic* prenait le relais et raflait plusieurs prix majeurs, portant cette révolution douce à son apogée.
+En 2018, lors de la 53e édition, _The Teenage Psychic_ prenait le relais et raflait plusieurs prix majeurs, portant cette révolution douce à son apogée.
 
-| Édition | Nominations | Prix obtenus | Récompenses notables |
-|---|---|---|---|
-| 52e (2017) | 24 | 5 | Ko Shu-chin (Meilleure actrice), Chen Yu (Meilleur espoir), *Lights Out* (Meilleure série dramatique) |
-| 53e (2018) | 15 | 4 | Crowd Lu (Meilleur acteur, Meilleur espoir), *The Teenage Psychic* (Meilleure série dramatique) |
-| **Total** | **39** | **9** | **Neuf prix sur deux cérémonies, marquant le point de départ officiel de la renaissance du drama taïwanais** |
+| Édition    | Nominations | Prix obtenus | Récompenses notables                                                                                         |
+| ---------- | ----------- | ------------ | ------------------------------------------------------------------------------------------------------------ |
+| 52e (2017) | 24          | 5            | Ko Shu-chin (Meilleure actrice), Chen Yu (Meilleur espoir), _Lights Out_ (Meilleure série dramatique)        |
+| 53e (2018) | 15          | 4            | Crowd Lu (Meilleur acteur, Meilleur espoir), _The Teenage Psychic_ (Meilleure série dramatique)              |
+| **Total**  | **39**      | **9**        | **Neuf prix sur deux cérémonies, marquant le point de départ officiel de la renaissance du drama taïwanais** |
 
 Ces récompenses se répartissent entre plusieurs équipes, preuve que le Q Series ne reposait pas sur un seul chef-d'œuvre mais sur une élévation générale du niveau industriel.
-La performance de *The Teenage Psychic* lors de la 53e cérémonie, en particulier, scelle une rarité : l'accord parfait entre le goût populaire et le jugement des professionnels.
+La performance de _The Teenage Psychic_ lors de la 53e cérémonie, en particulier, scelle une rarité : l'accord parfait entre le goût populaire et le jugement des professionnels.
 Crowd Lu, chanteur transformé en acteur, emportant à la fois Meilleur acteur et Meilleur espoir : une page dans l'histoire des Golden Bell Awards.
 
 ## Turbulences et réflexions après le générique final

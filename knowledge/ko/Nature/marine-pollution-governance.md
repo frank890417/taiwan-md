@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 15
 featured: true
 translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:7b5e9520f2ce542e'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만의 해양 오염 관리와 보전 과제

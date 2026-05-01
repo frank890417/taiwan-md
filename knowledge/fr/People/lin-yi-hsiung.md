@@ -2,7 +2,14 @@
 title: 'Lin Yi-hsiung'
 description: 'Figure pionnière du mouvement démocratique taïwanais, victime du massacre de la famille Lin, et leader du mouvement anti-nucléaire'
 date: 2026-03-19
-tags: ['mouvement démocratique', 'massacre de la famille Lin', 'mouvement anti-nucléaire', 'prisonnier politique', 'Fondation Tzlin']
+tags:
+  [
+    'mouvement démocratique',
+    'massacre de la famille Lin',
+    'mouvement anti-nucléaire',
+    'prisonnier politique',
+    'Fondation Tzlin',
+  ]
 subcategory: 'Politique et démocratie'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'People/林義雄.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1c07e29909bcc37a'
+translatedAt: '2026-04-14T19:15:55+08:00'
 ---
 
 # Lin Yi-hsiung : un militant démocrate forgé par la tragédie et la résilience
@@ -24,7 +34,7 @@ En 1977, Lin Yi-hsiung est élu conseiller du comté de Yilan, marquant ainsi so
 
 ## L'engagement dans le mouvement Formosa
 
-En 1979, Lin Yi-hsiung devient un pilier de la revue *Formosa*, dont il supervise la diffusion dans le nord de l'île. Fort de son statut d'avocat, il apporte un soutien juridique à la publication et participe à l'organisation de diverses activités politiques.
+En 1979, Lin Yi-hsiung devient un pilier de la revue _Formosa_, dont il supervise la diffusion dans le nord de l'île. Fort de son statut d'avocat, il apporte un soutien juridique à la publication et participe à l'organisation de diverses activités politiques.
 
 À la suite de l'Incident de Kaohsiung, il est arrêté en même temps que Shih Ming-teh, Huang Hsin-chieh et d'autres militants, et inculpé de sédition. Lors du procès militaire, il assure lui-même sa défense et refuse de reconnaître les charges retenues contre lui, montrant ainsi une rigueur professionnelle d'avocat alliée à des convictions politiques inébranlables.
 

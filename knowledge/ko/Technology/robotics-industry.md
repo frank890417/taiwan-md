@@ -11,6 +11,9 @@ readingTime: 13
 featured: true
 translatedFrom: 'Technology/台灣機器人產業.md'
 lastVerified: 2026-04-11
+sourceCommitSha: 'fa95d5e0'
+sourceContentHash: 'sha256:1474f16951c52f9b'
+translatedAt: '2026-04-14T06:57:58+08:00'
 ---
 
 # 대만 로봇 산업

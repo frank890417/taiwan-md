@@ -1,9 +1,17 @@
 ---
-title: 'Système éducatif et culture de l''admission scolaire à Taïwan'
-description: 'Du système de concours unifié à l''éducation nationale de douze ans : comment Taïwan cherche l''équilibre entre compétition et diversité'
+title: "Système éducatif et culture de l'admission scolaire à Taïwan"
+description: "Du système de concours unifié à l'éducation nationale de douze ans : comment Taïwan cherche l'équilibre entre compétition et diversité"
 date: 2026-03-18
 category: 'Society'
-tags: ['éducation', 'admission scolaire', 'éducation nationale de douze ans', 'enseignement professionnel', 'réforme éducative', 'culture de la compétition']
+tags:
+  [
+    'éducation',
+    'admission scolaire',
+    'éducation nationale de douze ans',
+    'enseignement professionnel',
+    'réforme éducative',
+    'culture de la compétition',
+  ]
 subcategory: 'Éducation'
 author: 'Taiwan.md Translation Team'
 difficulty: 'intermediate'
@@ -12,6 +20,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/教育制度與升學文化.md'
+sourceCommitSha: '26216f73'
+sourceContentHash: 'sha256:f73e37d01f78db49'
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 # Système éducatif et culture de l'admission scolaire à Taïwan
@@ -348,8 +359,8 @@ L'éducation n'est pas seulement transmission de savoirs ; c'est aussi modélisa
 
 ## Références
 
-- Huang Zheng-jie, *[Réflexions sur la réforme éducative à Taïwan](https://www.books.com.tw/products/0010471343)*
-- Yang Si-wei, *Analyse des politiques de l'éducation nationale de douze ans* (voir [Bulletin de recherche en éducation](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
+- Huang Zheng-jie, _[Réflexions sur la réforme éducative à Taïwan](https://www.books.com.tw/products/0010471343)_
+- Yang Si-wei, _Analyse des politiques de l'éducation nationale de douze ans_ (voir [Bulletin de recherche en éducation](https://www.edubook.com.tw/OAtw/File/PDf/49202.pdf))
 - Documents de politique de [la section officielle du ministère de l'Éducation](https://www.moe.gov.tw/)
 - Informations institutionnelles et données statistiques des établissements de tous niveaux
 - Rapports de recherche et d'évaluation sur les réformes éducatives

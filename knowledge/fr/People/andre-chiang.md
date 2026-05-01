@@ -2,7 +2,16 @@
 title: 'André Chiang — Le chef qui a choisi de rentrer'
 description: "De Tamkang Commercial and Industrial School au 14e rang mondial, de l'épiphanie des Seychelles au retour à Taipei : André Chiang a tracé, grâce à sa philosophie des huit angles, une nouvelle coordonnée internationale pour la cuisine taïwanaise"
 date: 2026-03-30
-tags: [Personnalités, André Chiang, chef cuisinier, Michelin, RAW, gastronomie, Taïwan]
+tags:
+  [
+    Personnalités,
+    André Chiang,
+    chef cuisinier,
+    Michelin,
+    RAW,
+    gastronomie,
+    Taïwan,
+  ]
 subcategory: 'Gastronomie et artisans'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 9
 featured: false
 lastVerified: 2026-03-30
 translatedFrom: 'People/江振誠.md'
+sourceCommitSha: '55c3ff6a'
+sourceContentHash: 'sha256:b95aab4a94d428d9'
+translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 
 # André Chiang (江振誠)
@@ -20,7 +32,7 @@ translatedFrom: 'People/江振誠.md'
 
 En 1997, le Westin Taipei invite deux chefs français en résidence : les frères jumeaux Jacques et Laurent Pourcel, du Jardin des Sens à Montpellier, deux étoiles Michelin chacun — trois au total. L'hôtel désigne un sous-chef de vingt et un ans pour les accompagner comme assistant principal pendant quatre jours.
 
-Ce jeune cuisinier s'appelle Chiang Chen-Cheng, que le monde connaîtra sous le nom d'André Chiang. Il confiera plus tard à la presse : « Je suis tombé amoureux de la culture française, de son histoire, de ses émotions. Un chef qui cuisine pour quelqu'un d'autre — c'est une relation d'une intimité rare. C'est là que j'ai décidé de continuer dans cette direction. » (*South China Morning Post*, 2015)
+Ce jeune cuisinier s'appelle Chiang Chen-Cheng, que le monde connaîtra sous le nom d'André Chiang. Il confiera plus tard à la presse : « Je suis tombé amoureux de la culture française, de son histoire, de ses émotions. Un chef qui cuisine pour quelqu'un d'autre — c'est une relation d'une intimité rare. C'est là que j'ai décidé de continuer dans cette direction. » (_South China Morning Post_, 2015)
 
 Quatre jours plus tard, il achetait un billet pour la France. Il ne parlait pas français.
 
@@ -51,7 +63,7 @@ Pourtant, le sommet technique ne lui apporte pas la certitude d'avoir trouvé sa
 
 ## L'épiphanie des Seychelles : naissance de l'Octaphilosophy
 
-Le magazine *Time* le salue à deux reprises en 2007 comme « le plus grand chef de l'océan Indien » — une reconnaissance qui désigne la période où il officie comme chef au Maia Luxury Resort aux Seychelles.
+Le magazine _Time_ le salue à deux reprises en 2007 comme « le plus grand chef de l'océan Indien » — une reconnaissance qui désigne la période où il officie comme chef au Maia Luxury Resort aux Seychelles.
 
 Loin de Paris, loin des critiques, loin de la pesanteur du système gastronomique français, il se pose, dans cette cuisine de l'océan Indien, la question fondamentale : **Quelle est ma cuisine à moi ?**
 
@@ -71,7 +83,7 @@ Il estime alors que le moment est venu de quitter le cadre hôtelier.
 
 Le palmarès parle rapidement de lui-même :
 
-- 2011 : « 10 restaurants qui valent le voyage en avion », *New York Times*
+- 2011 : « 10 restaurants qui valent le voyage en avion », _New York Times_
 - 2013 et suivantes : présence constante dans le top 10 du classement Asie 50 Best Restaurants
 - 2016 : **deux étoiles Michelin** dans la première édition du guide Michelin Singapour
 - 2017 : **2e** en Asie, **14e** au monde (liste des 50 Best Restaurants), meilleur restaurant de Singapour
@@ -97,7 +109,7 @@ En réalité, André Chiang avait déjà ouvert RAW à Da'an, Taipei, dès 2014 
 
 RAW et le Restaurant André reposent sur des principes opposés. André était à propos de **lui-même** : un chef taïwanais qui crée, sur la scène internationale, une expérience française hautement personnalisée. RAW est à propos de **cette terre** : les ingrédients de Taïwan, les saisons, les agriculteurs et les artisans locaux, réinterprétés par des techniques françaises pour dire quelque chose au monde.
 
-Il promeut le concept des vingt-quatre termes solaires (*jieqi*), une cuisine qui suit les rythmes naturels de l'année. Des éléments comme le millet rouge des peuples autochtones (*djulis*), les baies de corète (*pobuzi*), le canard et les saveurs de la nuit taïwanaise entrent dans le récit de la haute gastronomie. Réserver une table chez RAW est rapidement devenu un sujet de conversation récurrent dans les cercles gastronomiques de Taipei — la presse britannique écrivait dès 2015 qu'« il faut prévoir plusieurs mois à l'avance pour espérer obtenir une table ».
+Il promeut le concept des vingt-quatre termes solaires (_jieqi_), une cuisine qui suit les rythmes naturels de l'année. Des éléments comme le millet rouge des peuples autochtones (_djulis_), les baies de corète (_pobuzi_), le canard et les saveurs de la nuit taïwanaise entrent dans le récit de la haute gastronomie. Réserver une table chez RAW est rapidement devenu un sujet de conversation récurrent dans les cercles gastronomiques de Taipei — la presse britannique écrivait dès 2015 qu'« il faut prévoir plusieurs mois à l'avance pour espérer obtenir une table ».
 
 Le guide Michelin Taipei 2018 lui attribue une étoile ; en 2019, RAW passe à deux étoiles.
 
@@ -122,12 +134,12 @@ Après la fermeture du Restaurant André, le périmètre d'André Chiang ne s'es
 - **Archi Art Kitchen at The Archipelago, Yilan** : cuisine dans le contexte du développement local
 - **Porte 12 à Paris** (depuis 2014) : ancrage parisien dans le 10e arrondissement
 
-En 2020, le réalisateur singapourien Josiah Ng tourne le documentaire *André & His Olive Tree*, qui retrace l'époque du Restaurant André.
+En 2020, le réalisateur singapourien Josiah Ng tourne le documentaire _André & His Olive Tree_, qui retrace l'époque du Restaurant André.
 
 Sur le plan académique, il est Maître culinaire en résidence à l'Université Fu Jen (depuis 2014) et professeur invité au département de gestion de la restauration et des arts culinaires de l'Université Kun Shan (depuis 2020) — premier chef à Taïwan à transmettre de manière systématique la philosophie de la haute gastronomie française au sein d'une institution universitaire.
 
 > 📝 **Ce qu'un chef peut enseigner**
-> La pédagogie culinaire d'André Chiang ne se réduit pas à la technique — elle est avant tout épistémologique. Un cuisinier doit savoir *pourquoi*, pas seulement *comment*. Cette conviction vient de son propre parcours : il a appris tous les gestes en France, mais ce n'est qu'au bord de l'océan Indien qu'il a trouvé ses propres réponses. Pour les jeunes cuisiniers taïwanais, le message le plus important n'est peut-être pas « vous aussi, vous pouvez aller en France », mais plutôt : l'identité d'un chef ne se définit pas par là où il travaille, mais par les questions qu'il se pose.
+> La pédagogie culinaire d'André Chiang ne se réduit pas à la technique — elle est avant tout épistémologique. Un cuisinier doit savoir _pourquoi_, pas seulement _comment_. Cette conviction vient de son propre parcours : il a appris tous les gestes en France, mais ce n'est qu'au bord de l'océan Indien qu'il a trouvé ses propres réponses. Pour les jeunes cuisiniers taïwanais, le message le plus important n'est peut-être pas « vous aussi, vous pouvez aller en France », mais plutôt : l'identité d'un chef ne se définit pas par là où il travaille, mais par les questions qu'il se pose.
 
 ---
 

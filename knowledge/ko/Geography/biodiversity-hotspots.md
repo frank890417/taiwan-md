@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 8
 featured: false
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:9dea4a4cafb753d9'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 # 대만의 생태 다양성 핫스팟

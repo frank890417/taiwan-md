@@ -11,6 +11,9 @@ readingTime: 11
 featured: true
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:015bc5daa189760c'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 # 대만 게임 산업과 디지털 엔터테인먼트

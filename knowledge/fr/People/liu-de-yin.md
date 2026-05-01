@@ -2,7 +2,7 @@
 title: 'Liu De-Yin'
 description: 'Président de TSMC, successeur de Morris Chang, diplomate des semi-conducteurs au cœur des tensions géopolitiques'
 date: 2026-03-19
-tags: ['TSMC', 'semi-conducteurs', 'géopolitique', 'leadership d''entreprise']
+tags: ['TSMC', 'semi-conducteurs', 'géopolitique', "leadership d'entreprise"]
 subcategory: 'Technologie et entreprise'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +10,9 @@ readingTime: 6
 featured: false
 translatedFrom: 'People/劉德音.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:958c8a4a8799c54d'
+translatedAt: '2026-04-14T19:14:30+08:00'
 ---
 
 # Liu De-Yin : capitaine des semi-conducteurs dans la tempête géopolitique

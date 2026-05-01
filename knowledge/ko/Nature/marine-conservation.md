@@ -9,6 +9,9 @@ readingTime: 8
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:b277d24628428df0'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만의 해양 보전: 30년을 들여 만든 체계가 산호 백화 한 번을 막지 못한 이유

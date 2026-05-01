@@ -19,6 +19,9 @@ featured: true
 lastVerified: 2026-03-30
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
+sourceCommitSha: 'ecb173b1'
+sourceContentHash: 'sha256:39c821713935f8cf'
+translatedAt: '2026-04-14T04:41:25+08:00'
 ---
 
 # 대만의 의료 시스템과 전민건강보험

@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 readingTime: 10
 translatedFrom: 'People/桂綸鎂.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:abc35bc4aee48bac'
+translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 
 # 구이 룬메이: 조용하고 단단한 연기파 배우

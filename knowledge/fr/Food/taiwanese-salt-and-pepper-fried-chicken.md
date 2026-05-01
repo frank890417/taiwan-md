@@ -1,8 +1,15 @@
 ---
-title: 'Le poulet frit à la taïwanaise : sociologie d''un classique de rue'
-description: 'Le poulet frit épicé au basilic sacré — le salt-and-pepper chicken — est bien plus qu''un simple snack nocturne : il incarne tout un art de vivre taïwanais, entre rituel de sélection, convivialité de marché et fierté culinaire locale.'
+title: "Le poulet frit à la taïwanaise : sociologie d'un classique de rue"
+description: "Le poulet frit épicé au basilic sacré — le salt-and-pepper chicken — est bien plus qu'un simple snack nocturne : il incarne tout un art de vivre taïwanais, entre rituel de sélection, convivialité de marché et fierté culinaire locale."
 date: 2026-03-19
-tags: ['poulet frit épicé', 'culture nocturne', 'friture', 'basilic sacré', 'marché de nuit']
+tags:
+  [
+    'poulet frit épicé',
+    'culture nocturne',
+    'friture',
+    'basilic sacré',
+    'marché de nuit',
+  ]
 subcategory: 'Scènes culinaires'
 category: 'Food'
 author: 'Taiwan.md Translation Team'
@@ -10,17 +17,20 @@ readingTime: 7
 featured: true
 translatedFrom: 'Food/台灣鹹酥雞.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f78e66c21a3386f0'
+translatedAt: '2026-04-14T12:31:33+08:00'
 ---
 
 # Le poulet frit épicé à la taïwanaise
 
-Chaque soir, dès que la nuit tombe sur Taïwan, une même odeur envahit ruelles et avenues : celle des fritures qui crépitent. Devant les étals de *鹹酥雞* (xián sū jī, littéralement « poulet salé et croustillant »), les files d'attente s'allongent — tableau familier, presque rassurant, de la vie nocturne à l'île. Derrière ce plat en apparence anodin se cache une véritable grammaire culturelle : le choix des ingrédients tient du rituel, l'assaisonnement relève de l'art, et l'ensemble constitue une esthétique propre au snack nocturne taïwanais.
+Chaque soir, dès que la nuit tombe sur Taïwan, une même odeur envahit ruelles et avenues : celle des fritures qui crépitent. Devant les étals de _鹹酥雞_ (xián sū jī, littéralement « poulet salé et croustillant »), les files d'attente s'allongent — tableau familier, presque rassurant, de la vie nocturne à l'île. Derrière ce plat en apparence anodin se cache une véritable grammaire culturelle : le choix des ingrédients tient du rituel, l'assaisonnement relève de l'art, et l'ensemble constitue une esthétique propre au snack nocturne taïwanais.
 
 ## Sociologie d'un étal de rue
 
 L'étal de poulet frit épicé est le véritable centre social de la nuit taïwanaise. Rien à voir avec la retenue d'un restaurant en salle : on est ici dans quelque chose qui ressemble davantage à un point de rassemblement du quartier, à un lieu de passage et d'échange. Les clients s'agglutinent devant l'étal, attendent leur commande, bavardent — une forme de sociabilité à part entière se déploie dans cet intervalle entre la commande et la livraison.
 
-La disposition des étals est pensée avec soin. Une vitrine en verre expose une gamme de produits qui donne le vertige : morceaux de poulet, *tianbula* (sorte de surimi frit), brocolis, haricots verts, pleurotes royaux… La logique est celle du choix libre : chaque client compose sa sélection selon ses envies du moment. Ce système participatif transforme l'acte d'achat en acte de création — vous êtes le concepteur de votre propre assiette nocturne.
+La disposition des étals est pensée avec soin. Une vitrine en verre expose une gamme de produits qui donne le vertige : morceaux de poulet, _tianbula_ (sorte de surimi frit), brocolis, haricots verts, pleurotes royaux… La logique est celle du choix libre : chaque client compose sa sélection selon ses envies du moment. Ce système participatif transforme l'acte d'achat en acte de création — vous êtes le concepteur de votre propre assiette nocturne.
 
 Mais ce qui frappe peut-être le plus, c'est la culture de la file d'attente. Les queues devant les étals populaires peuvent être longues, parfois très longues. Et pourtant, l'impatience est rare. Les habitués savent que la qualité se mérite, que les bonnes choses prennent du temps. Cette patience collective dit quelque chose de profond sur le rapport de Taïwan à la gastronomie de rue : l'exigence y est une valeur, même dans les contextes les plus informels. Ce n'est pas de la lenteur — c'est une forme discrète de philosophie du bien vivre, qui résiste à la frénésie du quotidien.
 
@@ -34,7 +44,7 @@ Puis vient l'apothéose : l'assaisonnement final. Poivre blanc en poudre, piment
 
 ## Le basilic sacré : l'âme des fritures taïwanaises
 
-Le basilic sacré — appelé *jiǔcéng tǎ* (九層塔) à Taïwan, ce qui signifie littéralement « tour aux neuf étages » — joue un rôle central dans la cuisine locale, et il est tout simplement irremplaçable dans le poulet frit épicé. Cette plante aromatique, originaire du sous-continent indien, a voyagé jusqu'à Taïwan avec les migrations successives et s'est progressivement intégrée à la gastronomie locale au point d'en devenir indissociable.
+Le basilic sacré — appelé _jiǔcéng tǎ_ (九層塔) à Taïwan, ce qui signifie littéralement « tour aux neuf étages » — joue un rôle central dans la cuisine locale, et il est tout simplement irremplaçable dans le poulet frit épicé. Cette plante aromatique, originaire du sous-continent indien, a voyagé jusqu'à Taïwan avec les migrations successives et s'est progressivement intégrée à la gastronomie locale au point d'en devenir indissociable.
 
 Le basilic sacré taïwanais se distingue de son cousin méditerranéen par un profil olfactif plus intense, plus camphrée, avec des notes presque cloutées. Au contact de l'huile chaude, il entre dans une réaction chimique quasi immédiate : il libère des composés aromatiques volatils qui enveloppent chaque morceau de friture d'un voile parfumé. L'équilibre est remarquable — la fraîcheur herbacée tempère le gras des fritures, la légère piquance relève l'ensemble sans jamais dominer.
 

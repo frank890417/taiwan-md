@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 7
 featured: true
 translatedFrom: 'People/吳寶春.md'
+sourceCommitSha: '55c3ff6a'
+sourceContentHash: 'sha256:8ca95111311b9e7a'
+translatedAt: '2026-04-14T19:24:10+08:00'
 ---
 
 # 우바오춘 — 한 아이에게 한 약속

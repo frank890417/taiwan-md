@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 translatedFrom: 'Economy/台灣企業：奇美實業.md'
 lastVerified: 2026-03-20
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ef66216f5745267b'
+translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 
 > **30초 요약**

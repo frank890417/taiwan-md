@@ -10,6 +10,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 10
 featured: false
 translatedFrom: 'Nature/台灣皇蛾.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:04090b613f5ed578'
+translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 
 # 대만 아틀라스나방: 세상에서 가장 큰 나방, 평생 먹지 않는 거대한 날개의 전설

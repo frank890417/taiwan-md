@@ -15,6 +15,9 @@ tags:
 subcategory: 'Literature'
 lastVerified: 2026-03-20
 translatedFrom: 'People/龍應台.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:31dfd121dd6c6d8b'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Lung Ying-tai: Observer of Times and Guardian of Culture

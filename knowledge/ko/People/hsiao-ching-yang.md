@@ -8,6 +8,9 @@ tags: ['디자이너', '그래미 어워드', '앨범 패키지', '비주얼 디
 author: 'Taiwan.md Translation Team'
 featured: false
 translatedFrom: 'People/蕭青陽.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c5122b24e37ed6e1'
+translatedAt: '2026-04-14T19:25:05+08:00'
 ---
 
 # 샤오칭양: 대만 디자인을 세계 무대에 올리다

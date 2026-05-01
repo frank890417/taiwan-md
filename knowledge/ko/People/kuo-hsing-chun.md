@@ -7,6 +7,9 @@ subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/許淑淨.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:3b7fb89b51840200'
+translatedAt: '2026-04-14T19:25:11+08:00'
 ---
 
 # 쉬수징 (許淑淨): 역도의 여신

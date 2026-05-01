@@ -15,6 +15,9 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: true
 translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8f1153627b23acc'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Taiwan's Geography and Geology

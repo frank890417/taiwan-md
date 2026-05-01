@@ -25,6 +25,9 @@ readingTime: 10
 lastVerified: 2026-04-07
 lastHumanReview: true
 translatedFrom: 'Geography/台灣地圖怎麼讀.md'
+sourceCommitSha: 'e70c87a8'
+sourceContentHash: 'sha256:abbfc58a10b3e4aa'
+translatedAt: '2026-04-15T17:33:26+08:00'
 ---
 
 > **En 30 secondes :** Une carte de Taïwan n'est pas seulement un document géographique — c'est le témoignage de quatre siècles de regards portés sur cette île. En 1554, les Portugais esquissèrent une vague « I. Fremosa » ; en 1714, l'empereur Kangxi envoya des jésuites lever les plans de l'île, mais ils n'en cartographièrent que la moitié occidentale — l'est appartenait aux peuples autochtones, hors de portée du Fils du Ciel, donc absent de la carte ; sous la domination japonaise, la triangulation topographique produisit les relevés les plus précis que l'île ait jamais connus ; aujourd'hui, la Taïwan visible sur Google Maps depuis la Chine n'est pas la même que celle visible depuis Taipei. Une carte n'a jamais été qu'un reflet du terrain — elle est d'abord un reflet du pouvoir.
@@ -39,11 +42,11 @@ Une carte est une manière de voir. Ce qui compte, c'est de savoir qui dessine, 
 
 À quoi ressemble Taïwan ? Posez la question à un Taïwanais : la plupart vous répondront « à une patate douce »[^2].
 
-La métaphore de la patate douce (en taïwanais : *han-tsî*) dépasse la simple forme. Les premiers migrants traversaient le périlleux détroit pour tenter leur chance à Taïwan ; la patate douce était la culture la plus facile à faire survivre : elle poussait dans les terres pauvres, se passait de beaucoup d'eau et, enfouie sous terre, résistait aux typhons. Les Taïwanais se désignaient eux-mêmes comme « fils de la patate douce », sous-entendant : nous sommes aussi tenaces qu'elle[^2].
+La métaphore de la patate douce (en taïwanais : _han-tsî_) dépasse la simple forme. Les premiers migrants traversaient le périlleux détroit pour tenter leur chance à Taïwan ; la patate douce était la culture la plus facile à faire survivre : elle poussait dans les terres pauvres, se passait de beaucoup d'eau et, enfouie sous terre, résistait aux typhons. Les Taïwanais se désignaient eux-mêmes comme « fils de la patate douce », sous-entendant : nous sommes aussi tenaces qu'elle[^2].
 
 Cette auto-identification est pourtant tardive. L'historienne Hsueh Hsi-chi a montré que le terme « fils de la patate douce » comme désignation collective n'émergea vraiment qu'à l'époque de la colonisation japonaise — les Taïwanais travaillant dans d'autres parties de l'Empire l'utilisaient pour se distinguer des populations locales[^2].
 
-La forme la plus ancienne est la baleine. Les lettrés de jadis appelaient Taïwan l'« île Kun ». Le Kun est cet immense poisson du *Zhuangzi*, « dont nul ne peut mesurer les milliers de li »[^3]. En 2005, le texte publicitaire du Musée national de la littérature taïwanaise écrivait : « Une grande baleine couchée sur la mer d'Asie orientale. » L'artiste autochtone Chen Gang-yi a peint un drapeau représentant Taïwan sous les traits d'une baleine bondissant hors des flots[^3].
+La forme la plus ancienne est la baleine. Les lettrés de jadis appelaient Taïwan l'« île Kun ». Le Kun est cet immense poisson du _Zhuangzi_, « dont nul ne peut mesurer les milliers de li »[^3]. En 2005, le texte publicitaire du Musée national de la littérature taïwanaise écrivait : « Une grande baleine couchée sur la mer d'Asie orientale. » L'artiste autochtone Chen Gang-yi a peint un drapeau représentant Taïwan sous les traits d'une baleine bondissant hors des flots[^3].
 
 La patate douce est une métaphore de survie. La baleine est une métaphore de subjectivité. Un même contour, des regards différents, des sens différents.
 
@@ -51,7 +54,7 @@ En chiffres : l'île principale mesure 394 km du nord au sud, 144 km dans sa plu
 
 ## La demi-carte de Kangxi
 
-Au printemps 1714, trois jésuites français quittèrent Xiamen par bateau, chargés d'une mission : lever la carte de Taïwan pour l'empereur Kangxi[^5]. Ils emportaient des instruments d'observation astronomique et maîtrisaient les techniques de triangulation — c'était l'époque du grand projet cartographique national *Huanyu Quantu*, premier atlas de Chine établi en coordonnées de longitude et de latitude[^5].
+Au printemps 1714, trois jésuites français quittèrent Xiamen par bateau, chargés d'une mission : lever la carte de Taïwan pour l'empereur Kangxi[^5]. Ils emportaient des instruments d'observation astronomique et maîtrisaient les techniques de triangulation — c'était l'époque du grand projet cartographique national _Huanyu Quantu_, premier atlas de Chine établi en coordonnées de longitude et de latitude[^5].
 
 Ils commencèrent par les Penghu, puis gagnèrent la préfecture de Taïwan (l'actuelle Tainan). Ils parcoururent les plaines et les collines de l'ouest, jusqu'au pied des montagnes. Puis ils s'arrêtèrent.
 
@@ -61,7 +64,7 @@ Non pas parce qu'ils en étaient incapables. Le jésuite Jean-Baptiste Régis sa
 
 > 📝 Il s'agit d'une carte du pouvoir, non d'une carte du terrain. Le vide ne signifie pas « inconnu » — il signifie « ce n'est pas à moi ».
 
-Cette demi-carte fait écho à une politique plus ancienne : sous les Qing, Taïwan était soumise à un régime de séparation han-autochtones. Des talus de terre (*tuniu*) et des fossés traçaient une frontière sur le terrain, représentée en rouge sur les cartes — la « ligne rouge des talus »[^6]. À l'ouest de la ligne rouge : les plaines ouvertes à la colonisation han. À l'est : les terres montagneuses des peuples autochtones. La ligne ne cessa de reculer vers les hauteurs ; les anciennes et nouvelles frontières s'accumulèrent sur les cartes, formant un enregistrement visuel de l'expansion impériale[^6].
+Cette demi-carte fait écho à une politique plus ancienne : sous les Qing, Taïwan était soumise à un régime de séparation han-autochtones. Des talus de terre (_tuniu_) et des fossés traçaient une frontière sur le terrain, représentée en rouge sur les cartes — la « ligne rouge des talus »[^6]. À l'ouest de la ligne rouge : les plaines ouvertes à la colonisation han. À l'est : les terres montagneuses des peuples autochtones. La ligne ne cessa de reculer vers les hauteurs ; les anciennes et nouvelles frontières s'accumulèrent sur les cartes, formant un enregistrement visuel de l'expansion impériale[^6].
 
 Les traces de cette ligne rouge sont encore visibles aujourd'hui le long de la route provinciale no 3[^7].
 
@@ -73,13 +76,13 @@ Dès 1903, le service cartographique de l'armée japonaise avait produit 147 feu
 
 Les spécialistes en conviennent : « La cartographie de la période coloniale japonaise a été le moteur déterminant du développement de la cartographie moderne et des cartes thématiques à Taïwan. »[^8]
 
-Les cartes japonaises de Taïwan forment un contraste saisissant avec la demi-carte de Kangxi. Non pas parce que les Japonais respectaient davantage l'est — bien au contraire : ils avancèrent militairement dans les montagnes au moyen du système des « lignes de surveillance » (*aiyu-sen*), intégrant systématiquement les territoires autochtones à l'Empire[^9]. Mais cette fois, **ils dessinèrent le tout**. Gouverner exige de mesurer ; mesurer exige de voir.
+Les cartes japonaises de Taïwan forment un contraste saisissant avec la demi-carte de Kangxi. Non pas parce que les Japonais respectaient davantage l'est — bien au contraire : ils avancèrent militairement dans les montagnes au moyen du système des « lignes de surveillance » (_aiyu-sen_), intégrant systématiquement les territoires autochtones à l'Empire[^9]. Mais cette fois, **ils dessinèrent le tout**. Gouverner exige de mesurer ; mesurer exige de voir.
 
 ## Les cinq reliefs : cinq mondes dans une seule île
 
 La géographie enseignée à Taïwan divise l'île principale en cinq types de relief[^10] :
 
-**Les montagnes** couvrent environ 31 % de l'île. Cinq chaînes orientées nord-sud se succèdent d'ouest en est : les monts Alishan, les monts Yushan, la chaîne centrale (*Zhongyang Shanmai*), les monts Xueshan et la chaîne côtière (*Haiian Shanmai*). Le mont Yu culmine à 3 952 m, sommet le plus élevé d'Asie du Nord-Est. Plus de deux cents pics dépassent 3 000 m sur cette île de moins de quarante mille kilomètres carrés[^10].
+**Les montagnes** couvrent environ 31 % de l'île. Cinq chaînes orientées nord-sud se succèdent d'ouest en est : les monts Alishan, les monts Yushan, la chaîne centrale (_Zhongyang Shanmai_), les monts Xueshan et la chaîne côtière (_Haiian Shanmai_). Le mont Yu culmine à 3 952 m, sommet le plus élevé d'Asie du Nord-Est. Plus de deux cents pics dépassent 3 000 m sur cette île de moins de quarante mille kilomètres carrés[^10].
 
 **Les collines** représentent environ 24 %, disséminées entre montagnes et plaines. Les collines de Miaoli et celles de Zhunan en sont les exemples types.
 
@@ -119,7 +122,7 @@ L'historien Ts'ao Yung-ho, qui consacra toute sa vie à l'étude des anciennes c
 
 Il maîtrisait huit langues — anglais, japonais, français, allemand, espagnol, portugais, latin et néerlandais classique[^18] — car pour déchiffrer les annotations portées sur ces cartes, il faut savoir quelle langue parlait celui qui les a tracées.
 
-Un autre chercheur, Wang Chia-hsiang, a consacré vingt ans à son ouvrage *Taïwan dans les anciennes cartes du monde*, en traquant les représentations de l'île dans les grandes bibliothèques et musées de la planète[^19]. Son cadre d'interprétation : une carte ne se contente pas d'enregistrer l'apparence de Taïwan — elle enregistre **comment le monde regarde Taïwan**.
+Un autre chercheur, Wang Chia-hsiang, a consacré vingt ans à son ouvrage _Taïwan dans les anciennes cartes du monde_, en traquant les représentations de l'île dans les grandes bibliothèques et musées de la planète[^19]. Son cadre d'interprétation : une carte ne se contente pas d'enregistrer l'apparence de Taïwan — elle enregistre **comment le monde regarde Taïwan**.
 
 De la carte en vélin de Lopo Homem en 1554 au Google Maps de votre téléphone en 2026, chaque carte de Taïwan est la projection d'un regard particulier. La patate douce et la baleine regardent la même île, mais les regards ne sont pas les mêmes. Le blanc à l'est de la ligne rouge et le pointillé de la zone d'identification de défense aérienne disent la même chose : ce qui est dessiné ou absent d'une carte n'a jamais été une question de capacité technique.
 
@@ -148,7 +151,7 @@ De la carte en vélin de Lopo Homem en 1554 au Google Maps de votre téléphone 
 
 [^8]: [Mapping Taiwan under Japanese Rule — Academia.edu](https://www.academia.edu/33234924/Mapping_Taiwan_under_Japanese_Rule) — Histoire de la cartographie sous la domination japonaise : 147 feuilles en 1903, triangulation complète en 1909, pionniers de la photogrammétrie aérienne.
 
-[^9]: [隘勇線 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9A%98%E5%8B%87%E7%B7%9A) — Le système militarisé des lignes de surveillance (*aiyu-sen*) par lequel l'administration coloniale japonaise pénétra méthodiquement dans les territoires montagnards autochtones.
+[^9]: [隘勇線 — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9A%98%E5%8B%87%E7%B7%9A) — Le système militarisé des lignes de surveillance (_aiyu-sen_) par lequel l'administration coloniale japonaise pénétra méthodiquement dans les territoires montagnards autochtones.
 
 [^10]: [台灣五大地形 — TMRC 台北市教育局](https://tmrc.tiec.tp.edu.tw/HTML/RSR200811191906220FM/topographytaiwan/tai01.htm) — Ressource pédagogique sur la classification et les proportions des cinq types de relief à Taïwan.
 

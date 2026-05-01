@@ -20,17 +20,21 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 category: 'Music'
 translatedFrom: 'Music/台灣聲音地景.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:cbfdd904f2ae5e56'
+translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 
 # Le paysage sonore de Taïwan
 
 ## En 30 secondes
 
-Fermez les yeux. Pouvez-vous entendre Taïwan ? À dix-huit heures trente, la mélodie de *La Prière d'une vierge* s'approche doucement — c'est le camion-poubelle qui remonte la ruelle, et toute la rue en sort avec ses sacs. Tard le soir devant un temple, le beiguan fait trembler les percussions, les néons de la flower car clignotent sous le regard des dieux. Dans la montagne, des hommes Bunun s'unissent en cercle pour chanter vers le ciel leur prière pour la récolte du millet — l'un des plus anciens chants polyphoniques que l'humanité ait jamais produits.
+Fermez les yeux. Pouvez-vous entendre Taïwan ? À dix-huit heures trente, la mélodie de _La Prière d'une vierge_ s'approche doucement — c'est le camion-poubelle qui remonte la ruelle, et toute la rue en sort avec ses sacs. Tard le soir devant un temple, le beiguan fait trembler les percussions, les néons de la flower car clignotent sous le regard des dieux. Dans la montagne, des hommes Bunun s'unissent en cercle pour chanter vers le ciel leur prière pour la récolte du millet — l'un des plus anciens chants polyphoniques que l'humanité ait jamais produits.
 
 Les sons de Taïwan ne sont pas de simples bruits de fond. Ils forment un code culturel vivant. Chaque son porte en lui de l'histoire, de la mémoire, de l'identité.
 
 **Sons clés :**
+
 - 🚛 Musique des camions-poubelles : rituel sonore urbain unique au monde
 - 🏯 Musique de temple : beiguan, nanguan, processions de l'armée des huit généraux
 - 🏔️ Polyphonie autochtone : le Pasibutbut des Bunun (quatre voix qui engendrent huit harmoniques)
@@ -58,7 +62,7 @@ Les deux mélodies emblématiques des camions-poubelles taïwanais sont un souve
 1. **La Lettre à Élise** (Für Elise) — la pièce pour piano la plus célèbre de Beethoven, utilisée principalement dans le nord et le centre de Taïwan
 2. **La Prière d'une vierge** (A Maiden's Prayer) — une romance pour piano de la compositrice polonaise Tekla Bądarzewska (1856), que l'on entend surtout dans le sud
 
-Le détail est savoureux : selon l'endroit où vous habitez à Taïwan, vous entendrez l'une ou l'autre mélodie — et c'est peut-être le seul endroit au monde où la musique classique sert à délimiter une identité régionale. Un habitant du nord entend *La Prière d'une vierge* et se sent dépaysé. Un habitant du sud entend *La Lettre à Élise* et marque une pause.
+Le détail est savoureux : selon l'endroit où vous habitez à Taïwan, vous entendrez l'une ou l'autre mélodie — et c'est peut-être le seul endroit au monde où la musique classique sert à délimiter une identité régionale. Un habitant du nord entend _La Prière d'une vierge_ et se sent dépaysé. Un habitant du sud entend _La Lettre à Élise_ et marque une pause.
 
 Depuis la politique « zéro déchet au sol » lancée par la ville de Taipei en 1997, cette musique est devenue un souvenir collectif. Ce n'est pas seulement une collecte d'ordures — c'est un micro-rituel communautaire qui se rejoue chaque jour : les voisins se retrouvent au coin de la ruelle, échangent quelques mots, sortent leurs sacs.
 
@@ -176,16 +180,16 @@ En 2018, le collectif Dahe Music a mené un projet d'enregistrement de terrain u
 
 **🎧 À écouter : paysage sonore du métro de Taipei (mars 2018, enregistré par Dahe Music)**
 
-| Station / lieu | Son | Écoute |
-| ------------ | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Temple Xingtian | Offrandes (oracle, récitations) | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio> |
-| Ximending | Salon de tatouage | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio> |
-| Rue Dihua | Achats du Nouvel An | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio> |
-| Taipei 101 | Compte à rebours du Nouvel An | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio> |
-| Mémorial Chiang Kai-shek | Pigeons qui s'envolent | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio> |
-| Parc forestier Da'an | Canards au bord de l'eau | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio> |
-| Tamsui | Achat de calamars | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio> |
-| Librairie Sanmin | Froissement de pages | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio> |
+| Station / lieu           | Son                             | Écoute                                                                                                                                         |
+| ------------------------ | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Temple Xingtian          | Offrandes (oracle, récitations) | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-xingtian-temple-worship.mp3" type="audio/mpeg"></audio>              |
+| Ximending                | Salon de tatouage               | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-ximending-tattoo-parlor.mp3" type="audio/mpeg"></audio>              |
+| Rue Dihua                | Achats du Nouvel An             | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-dihua-street-lunar-new-year-shopping.mp3" type="audio/mpeg"></audio> |
+| Taipei 101               | Compte à rebours du Nouvel An   | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-taipei-101-new-year-countdown.mp3" type="audio/mpeg"></audio>        |
+| Mémorial Chiang Kai-shek | Pigeons qui s'envolent          | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-cks-memorial-hall-pigeons-flying.mp3" type="audio/mpeg"></audio>     |
+| Parc forestier Da'an     | Canards au bord de l'eau        | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-daan-forest-park-ducks.mp3" type="audio/mpeg"></audio>               |
+| Tamsui                   | Achat de calamars               | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-tamsui-buying-squid.mp3" type="audio/mpeg"></audio>                  |
+| Librairie Sanmin         | Froissement de pages            | <audio controls preload="none"><source src="/assets/sounds/mrt-soundscape-sanmin-bookstore-page-flipping.mp3" type="audio/mpeg"></audio>       |
 
 ---
 

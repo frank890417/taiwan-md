@@ -1,146 +1,226 @@
 ---
 title: 'Chen Shui-bian'
-description: 'Dixième et onzième président de Taïwan, artisan de la première alternance démocratique en 2000, initiateur de la loi sur le référendum et de la loi fondamentale sur les peuples autochtones'
-date: 2026-03-30
-tags: ['président', 'alternance démocratique', 'DPP', 'maire de Taipei', 'démocratisation', 'législation des droits humains']
-subcategory: 'Politique et démocratie'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
-featured: false
-translatedFrom: 'People/陳水扁.md'
-lastVerified: 2026-03-30
+description: "Dixième et onzième président de Taïwan, artisan de l'alternance politique en 2000. Fils d'un métayer du Tainan devenu le premier président issu du Parti démocrate progressiste, puis le premier chef d'État destitué à être incarcéré — son parcours condense les tensions les plus complexes de la transition démocratique taïwanaise : ascension, fondations législatives, tempêtes et fractures."
+date: 2026-04-29
+tags:
+  [
+    'président',
+    'alternance politique',
+    'Parti démocrate progressiste',
+    'maire de Taipei',
+    'démocratisation',
+    'législation sur les droits humains',
+    'justice transitionnelle',
+    'relations transstraits',
+  ]
+category: People
+subcategory: '政治與民主'
+author: 'idlccp1984'
+readingTime: 18
+lastVerified: 2026-04-29
+lastHumanReview: false
+translatedFrom: People/陳水扁.md
+sourceCommitSha: dc87c2a6
+sourceContentHash: sha256:6f1095e22173ebb5
+translatedAt: 2026-05-01T20:54:17+08:00
 ---
 
 # Chen Shui-bian
 
-Dans la nuit du 18 mars 2000, les rues de Taipei débordaient de monde. Un avocat né dans une famille de métayers du sud de Taïwan, qui avait financé ses études de droit à l'Université nationale de Taïwan grâce à des bourses, venait de remporter la présidence avec 39,3 % des suffrages — mettant fin à cinquante-cinq ans de domination du Kuomintang. Debout sur l'estrade, Chen Shui-bian lança : « Taïwan se relève ! » Ce n'était pas simplement la conclusion d'une élection. C'était, pour la première fois en un demi-siècle, la démonstration que le pouvoir pouvait changer de mains pacifiquement, sous les yeux du monde entier.
+> **En 30 secondes :** Chen Shui-bian est le symbole le plus complexe de la transition démocratique taïwanaise. Issu d'une famille de métayers du Tainan, il devint un avocat de premier plan grâce à ses talents juridiques, puis entra dans l'arène politique lors du procès de l'Incident de Formosa. Élu maire de Taipei en 1994, il transforma le « yamen » (bureaucratie impériale) en guichet de service ; en 2000, avec 39,3 % des voix, il mit fin à 55 ans de pouvoir du Kuomintang, établissant trois piliers législatifs : la loi sur le référendum, la loi fondamentale des peuples autochtones et la loi sur l'égalité des genres dans l'éducation ; en 2002, il fit adhérer Taïwan à l'OMC ; en 2004, il fut réélu avec un écart de 0,22 % après la tentative d'assassinat par balle. Son deuxième mandat fut entaché par l'affaire des frais spéciaux du Bureau présidentiel et l'affaire de l'achat de terrains de Longtan ; après sa sortie de fonctions en 2008, il devint le premier ancien président de la République de Chine à être incarcéré et condamné, puis fut libéré sous surveillance médicale en 2015, statut qui perdure depuis. Il a fait de l'alternance politique une réalité démocratique taïwanaise, tout en plongeant la société dans une fracture bleu-vert qui reste à ce jour non résolue.
 
-## L'enfant des métayers
+Dans la nuit du 18 mars 2000, les rues de Taipei étaient noyées de monde. Un avocat fils de métayers ruraux du Tainan, diplômé en droit de l'Université nationale de Taïwan grâce à une bourse, venait de mettre fin à 55 ans de pouvoir du Kuomintang à Taïwan avec 39,3 % des voix. Chen Shui-bian, debout sur scène, s'écria : « Taïwan se lève ! » Ce n'était pas seulement la fin d'une élection, mais la première fois en un demi-siècle que les Taïwanais montraient au monde entier, par le vote, qu'un transfert pacifique du pouvoir était possible.
 
-Chen Shui-bian est né le 12 octobre 1950 à Xizhuang, dans le district de Guantian, comté de Tainan. Son père, Chen Songgen, vivait dans une extrême pauvreté, subsistant comme métayer et journalier agricole. Chen Shui-bian a raconté plus tard qu'enfant, il faisait ses devoirs allongé sur le sol, à la lumière filtrée par la fenêtre, pour économiser l'huile de la lampe.
+## L'enfant d'une famille de métayers
 
-Il obtient son baccalauréat avec mention au lycée provincial de Tainan n°1, puis sort diplômé en droit de l'Université nationale de Taïwan en 1974. Dès sa troisième année, en 1973, il réussit l'examen du barreau avec un taux de réussite exceptionnellement faible. Après ses études, il fonde un cabinet de droit maritime et devient conseiller juridique de grands groupes comme Evergreen Marine — une carrière brillante, solidement établie.
+Le 12 octobre 1950, à Xizhuang, dans le canton de Guantian, comté de Tainan. Son père, Chen Songgen, était un ménage classé « extrêmement pauvre », vivant de métayage et de travail journalier. Plus tard, Chen Shui-bian décrivit son enfance : il faisait ses devoirs allongé par terre, profitant de la lumière par la fenêtre, car il ne pouvait se permettre d'allumer la lampe. [^1]
 
-## Le choix de Formosa
+Il obtint d'excellents résultats au lycée provincial de Tainan n°1, puis sortit diplômé de la faculté de droit de l'Université nationale de Taïwan en 1974. En 1973, dès sa troisième année d'études, il réussit l'examen du barreau, se distinguant dans un contexte de taux d'admission extrêmement bas. Après son diplôme, il fonda un cabinet de droit maritime et devint conseiller de sociétés comme Evergreen Marine, s'imposant comme un avocat à succès.
 
-À la fin de 1979, l'Incident de Formosa secoue toute l'île. Des militants du mouvement d'opposition organisent un rassemblement pour les droits humains à Kaohsiung ; la répression est brutale, et plusieurs figures importantes, dont Huang Hsin-chieh, sont arrêtées et poursuivies devant un tribunal militaire.
+> **📝 Note du conservateur**
+> Son parcours juridique amena Chen Shui-bian à accorder une importance extrême à la « procédure » et à l'État de droit. Cette qualité se traduisit par des révisions rapides de la réglementation durant son mandat — les partisans y voyaient de l'efficacité, les critiques du « maniement des règles ». Cette tension traversa toute sa carrière politique.
 
-Chen Shui-bian a alors 29 ans — un avocat reconnu, avec une réputation à protéger. Lorsque l'avocat de la défense Zhang Deming lui propose de rejoindre l'équipe chargée de défendre Huang Hsin-chieh, il sait exactement ce que cela implique : sous la loi martiale, prendre la défense d'un « prisonnier politique », c'est mettre sa carrière et sa sécurité en jeu.
+## Le choix de l'Incident de Formosa
 
-Il accepte. Ce choix le fait passer du droit à la politique. C'est dans ce cercle d'avocats militants qu'il rencontre Hsieh Chang-ting et Su Tseng-chang, qui deviendront des acteurs centraux du mouvement démocratique.
+Fin 1979, l'Incident de Formosa ébranla tout Taïwan. Des militants du mouvement extra-partis organisèrent un rassemblement pour la Journée des droits de l'homme à Kaohsiung, réprimé par l'armée et la police ; des figures importantes comme Huang Xin-zhe furent arrêtées et confrontées à un procès sous haute pression.
 
-En 1981, Chen Shui-bian est élu conseiller municipal de Taipei en tête de liste. En 1986, il devient membre fondateur du Parti démocrate progressiste (DPP).
+Chen Shui-bian avait alors 29 ans et était déjà un avocat réputé. Lorsque l'avocat de la défense Zhang De-ming vint lui demander s'il acceptait de rejoindre l'équipe de défense pour représenter Huang Xin-zhe, il savait parfaitement ce que cela impliquait : défendre des « prisonniers politiques » sous un régime autoritaire, c'était mettre en jeu sa carrière et sa sécurité.
 
-## Maire de Taipei : transformer la mairie en service public
+Il choisit de s'engager. Ce seul décida de son passage du droit à la politique, et c'est au sein du cercle des avocats de la défense qu'il rencontra [[謝長廷]] (Xie Changting) et [[蘇貞昌]] (Su Zhenchang), qui devinrent tous deux des figures majeures du mouvement démocratique. Parmi les 15 avocats de l'équipe de défense, il n'était pas le seul acteur central, mais cette expérience commune le propulsa définitivement du statut d'« avocat maritime » vers celui de militant du mouvement extra-partis.
 
-En décembre 1994, Chen Shui-bian remporte la première élection directe pour la mairie de Taipei, avec 615 090 voix (43,67 %), devançant le candidat du Kuomintang Huang Dazhou — dernier maire nommé d'office. Il devient ainsi le premier maire élu de l'histoire de Taipei, et le premier issu du DPP.
+En 1981, Chen Shui-bian fut élu conseiller municipal de Taipei avec le plus grand nombre de voix, un premier essai retentissant. En 1986, il devint membre fondateur du [[民主進步黨]] (Parti démocrate progressiste).
 
-Son mandat de quatre ans laisse plusieurs traces concrètes dans l'histoire de la gouvernance urbaine taïwanaise :
+## Maire de Taipei : transformer le yamen en guichet de service
 
-> 📝 **Bilan du mandat de maire de Taipei (1994–1998)**
+En décembre 1994, Chen Shui-bian fut élu maire de Taipei au suffrage direct avec 615 090 voix (43,67 %), battant le dernier maire nommé par le gouvernement, [[黃大洲]] (Huang Dazhou), issu du Kuomintang. Il devint le premier maire élu de l'histoire de Taipei et le premier maire issu du Parti démocrate progressiste. [^2]
+
+Durant ses quatre années à la tête de la municipalité, sa marque la plus tangible ne fut pas matérielle, mais une refonte destructrice de la « culture des fonctionnaires ».
+
+À l'époque, les administrations publiques étaient surnommées « yamen » (bureaucratie impériale) : les guichets des bureaux d'état civil se situaient généralement à plus de 125 cm de hauteur, obligeant les citoyens à rester debout, voire à lever les yeux vers les fonctionnaires. Chen Shui-bian ordonna d'abaisser les guichets à 70 cm, instaurant un « service assis » où citoyens et fonctionnaires se retrouvaient au même niveau, et lança le modèle du « sourire et du thé offert ». Cette transformation conceptuelle, passant de « gérer les gens » à « servir les gens », permit à la mairie de Taipei d'obtenir une certification internationale ISO et attira un reportage spécial de la chaîne japonaise NHK.
+
+Pour éradiquer la paresse et l'absentéisme chroniques, il mena personnellement, accompagné des médias, des « inspections surprises » dans les différents services municipaux, sanctionnant sévèrement les fonctionnaires « fainéants » surpris à boire du thé, lire le journal ou absents de leur poste. Le concept selon lequel « le fonctionnaire est le serviteur du public » trouva pour la première fois une application concrète.
+
+> **📝 Principales réalisations du mandat de maire de Taipei (1994-1998)**
 >
-> **Transports et infrastructures :** La ligne Muzha du métro de Taipei entre en service en mars 1996 — première ligne de métro à ouvrir à Taïwan. La tour Taipei 101 est également lancée sous son mandat selon un modèle BOT (Build-Operate-Transfer), première grande application de ce dispositif à Taïwan.
+> **Transports et infrastructures :** La ligne Muzha du métro de Taipei fut mise en service en mars 1996, devenant la première ligne de métro opérationnelle à Taïwan. Le Taipei 101 vit son modèle de développement BOT (Build-Operate-Transfer) confirmé durant ce mandat, constituant le premier cas majeur du système BOT à Taïwan.
 >
-> **Réforme municipale :** Il instaure le tri sélectif obligatoire, transformant la gestion des déchets à Taipei ; il mène des opérations de nettoyage des commerces illicites et des contrôles surprises dans les services municipaux, rompant avec la culture bureaucratique héritée de l'administration impériale.
+> **Réforme municipale :** Mise en place du tri sélectif obligatoire des déchets ; assainissement des établissements de nuit ; réforme bureaucratique axée sur le service avec certification ISO ; déguisements politiques en Superman, Michael Jackson et Peter Pan, inaugurant une nouvelle ère de marketing politique à Taïwan.
 >
-> **Protection sociale :** Il développe des services d'aide à domicile pour les personnes âgées et les personnes en situation de handicap, posant les bases d'un modèle de welfare de proximité.
-
-En 1998, fort d'un taux de satisfaction de 80 % parmi les habitants, Chen Shui-bian brigue un second mandat — qu'il perd face au challenger Ma Ying-jeou avec 45,91 % des voix. Dans toute autre logique électorale, un maire plébiscité à 80 % ne devrait pas perdre. Les analystes politiques y voient la persistance d'un clivage structurel dans l'électorat de Taipei, indépendant du bilan municipal.
-
-Cette défaite ne l'empêchera pas de remporter Taïwan entier deux ans plus tard.
-
-## 2000 : la première alternance en cinquante-cinq ans
-
-L'élection présidentielle de 2000 est l'une des plus dramatiques de l'histoire démocratique taïwanaise.
-
-Le Kuomintang se fracture de l'intérieur : le candidat officiel Lien Chan et le dissident James Soong se retrouvent en compétition, divisant l'électorat pan-bleu en deux. Chen Shui-bian et sa colistière Annette Lu remportent l'élection à trois candidats avec 39,3 % des voix. Du DPP à la présidence, il aura fallu quatorze ans.
-
-> 📊 **Résultats de l'élection présidentielle de 2000**
+> **Marque politique :** En 1998, les accessoires « chapeau Bian » transformèrent le soutien politique en tendance de mode, marquant un tournant dans la culture électorale taïwanaise.
 >
-> | Candidat | Parti | Voix | Score |
-> |---------|-------|------|-------|
-> | Chen Shui-bian | Parti démocrate progressiste | 4 977 697 | 39,30 % |
-> | James Soong | Indépendant | 4 664 972 | 36,84 % |
-> | Lien Chan | Kuomintang | 2 925 513 | 23,10 % |
+> **Innovation sociale :** Promotion de services sociaux pour les groupes vulnérables, incluant des programmes de proximité pour les personnes âgées et les personnes en situation de handicap.
+
+En 1998, Chen Shui-bian briguant un deuxième mandat avec un taux de satisfaction citoyenne de 80 %, il fut néanmoins battu avec 45,91 % des voix par son adversaire [[馬英九]] (Ma Yingjiu). Dans une logique électorale normale, un maire avec 80 % de satisfaction n'aurait pas dû perdre. Les analyses ultérieures des politologues pointèrent le fossé structurel bleu-vert de l'électorat de Taipei — ce n'étaient pas ses réalisations qui avaient faibli, mais la structure même du corps électoral.
+
+Perdre Taipei ne l'empêcha pas, deux ans plus tard, de conquérir tout Taïwan.
+
+## 2000 : la première fois en cinquante-cinq ans
+
+L'élection présidentielle de 2000 fut la plus dramatique de l'histoire démocratique taïwanese.
+
+Le Kuomintang se fractura en interne : le candidat désigné par le parti, Lian Zhan, et le dissident Song Chyu-yu se présentèrent séparément, divisant l'électorat pan-bleu en deux. Chen Shui-bian, avec sa colistière à la vice-présidence [[呂秀蓮]] (Lu Xiulian), l'emporta avec 39,3 % des voix dans une triangulaire. Le Parti démocrate progressiste passa de sa fondation au pouvoir en seulement 14 ans. [^3]
+
+> **📊 Résultats de l'élection présidentielle de 2000**
 >
-> _Source : Commission centrale des élections_
-
-Dans son discours d'investiture, Chen Shui-bian énonce les « quatre non et un sans » : pas de déclaration d'indépendance formelle, pas de changement du nom officiel, pas d'intégration de la théorie des deux États dans la Constitution, pas de référendum sur la réunification ou l'indépendance, et pas de question relative à l'abolition du Conseil national pour la réunification. Une ouverture mesurée, destinée à poser des bases de gouvernance dans un environnement politique extrêmement polarisé.
-
-Cette alternance est depuis analysée par les politologues comme le moment charnière de la consolidation démocratique à Taïwan : si les élections étaient déjà ouvertes, aucun changement de parti au pouvoir n'avait encore eu lieu. Après 2000, « l'alternance est possible » devient un fait acquis dans la démocratie taïwanaise.
-
-## Premier mandat : les fondations législatives des droits et de la démocratie
-
-Chen Shui-bian gouverne en situation de cohabitation — le DPP ne dispose pas de majorité à l'assemblée législative, et toute avancée passe par des négociations transpartisanes. Malgré cela, ces quatre années voient adopter plusieurs textes fondamentaux.
-
-**En 2002, Taïwan rejoint l'Organisation mondiale du commerce (OMC)**, sous la dénomination « Territoire douanier distinct de Taïwan, Penghu, Kinmen et Matsu ». Cette adhésion renforce l'ancrage de Taïwan dans les règles du commerce international et lui permet de s'intégrer pleinement aux chaînes d'approvisionnement mondiales.
-
-**En 2003, la loi sur le référendum est adoptée.** C'est la première loi d'initiative populaire de l'histoire de Taïwan, qui institutionnalise la démocratie directe. Avant ce texte, aucun mécanisme référendaire n'existait. Les chercheurs en démocratisation y voient l'acte fondateur de la démocratie directe à Taïwan.
-
-**En 2004, la loi sur l'égalité des genres dans l'éducation est promulguée.** Elle impose à tous les établissements scolaires la mise en place de mécanismes garantissant l'égalité entre les genres, interdit les discriminations et instaure des procédures de recours. C'est une étape déterminante pour l'égalité dans les établissements scolaires taïwanais.
-
-> 📝 **Législation sur les droits humains du premier mandat (2000–2004)**
+> | Candidat       | Parti                        | Voix      | Pourcentage |
+> | -------------- | ---------------------------- | --------- | ----------- |
+> | Chen Shui-bian | Parti démocrate progressiste | 4 977 697 | 39,30 %     |
+> | Song Chyu-yu   | Sans étiquette               | 4 664 972 | 36,84 %     |
+> | Lian Zhan      | Kuomintang                   | 2 925 513 | 23,10 %     |
 >
-> Les lois adoptées sous le premier mandat de Chen Shui-bian posent plusieurs jalons dans l'histoire juridique taïwanaise :
+> _Source : Commission électorale centrale_
+
+Dans son discours d'investiture, Chen Shui-bian formula les « quatre ne pas et un pas de problème » :
+
+1. Ne pas déclarer l'indépendance
+2. Ne pas changer le nom officiel du pays
+3. Ne pas inscrire la théorie des deux États dans la Constitution
+4. Ne pas promouvoir un référendum sur l'unification ou l'indépendance
+5. Pas de question de supprimer le Conseil de l'unification nationale
+
+C'était une ouverture prudente, cherchant à trouver un point de départ dans un climat politique hautement polarisé.
+
+Cette alternance politique fut définie par les politologues ultérieurs comme un moment clé de consolidation de la démocratie taïwanaise : si les élections étaient déjà ouvertes auparavant, l'alternance n'avait jamais eu lieu ; après 2000, « les partis peuvent alterner » devint un fait concret de la démocratie taïwanaise.
+
+## Premier mandat : les fondations législatives des droits humains et de la démocratie
+
+Le premier mandat de Chen Shui-bian se déroula face à un Parlement où la majorité était détenue par l'opposition — le Parti démocrate progressiste ne disposait pas de la majorité absolue au Yuan législatif, et l'avancement des politiques nécessitait des négociations transpartisanes. Malgré cela, ces quatre années laissèrent plusieurs lois importantes dans l'histoire législative taïwanaise.
+
+**En 2002, Taïwan adhéra à l'Organisation mondiale du commerce (OMC).** L'adhésion fut finalisée sous la désignation « territoire douanier distinct de Taïpen, Kinmen et Matsu », renforçant la position de Taïwan dans les règles commerciales mondiales et offrant un cadre juridique aux industries taïwanaises pour s'intégrer dans les chaînes d'approvisionnement internationales.
+
+**En 2003, la loi sur le référendum fut adoptée.** Ce fut la première loi sur le référendum de l'histoire de Taïwan, établissant les bases juridiques de la démocratie directe. Auparavant, Taïwan ne disposait d'aucun système de référendum ; l'adoption de cette loi inscrivit pour la première fois dans le droit le mécanisme permettant au peuple d'exprimer directement sa volonté sur les grandes politiques, et fut considérée par les chercheurs en démocratisation comme le point de départ de l'institutionnalisation de la démocratie directe à Taïwan. [^4]
+
+**En 2004, la loi sur l'égalité des genres dans l'éducation fut adoptée.** Elle imposa aux établissements scolaires à tous les niveaux de mettre en place des mécanismes d'éducation à l'égalité des genres, interdit la discrimination fondée sur le genre et instaura un système de recours. Ce fut une jalon dans la légalisation de l'égalité des genres dans les établissements scolaires taïwanais.
+
+**En 2005, la loi fondamentale des peuples autochtones fut adoptée.** Ce fut la législation de base la plus importante pour la protection des droits des peuples autochtones à Taïwan. Elle établit le statut juridique des peuples autochtones sur leurs domaines traditionnels, garantit leur autonomie collective en matière de langue, de culture et d'éducation, et fournit un cadre juridique à la politique taïwanaise envers les peuples autochtones, aboutissant à une loi après des années de plaidoyer. [^5]
+
+> **📝 Principales lois sur les droits humains du premier mandat (2000–2004)**
 >
-> - **Loi sur le référendum (2003)** : première loi de démocratie directe à Taïwan
-> - **Loi sur l'égalité des genres dans l'éducation (2004)** : socle juridique pour l'égalité dans les écoles
-> - **Loi fondamentale sur les peuples autochtones (2005)** : texte de référence pour les droits collectifs des peuples autochtones (adoptée lors du second mandat)
-> - **Révision de la loi sur l'éducation des peuples autochtones (2007)** : renforcement des garanties pour la langue et la culture autochtones dans l'enseignement
+> Les lois adoptées durant le premier mandat de Chen Shui-bian posèrent plusieurs fondations dans l'histoire législative taïwanaise :
+>
+> - **Loi sur le référendum de 2003** : première loi sur le référendum à Taïwan, établissant le mécanisme de démocratie directe
+> - **Loi sur l'égalité des genres dans l'éducation de 2004** : base juridique du système d'égalité des genres dans les établissements scolaires
+> - **Loi fondamentale des peuples autochtones de 2005** : loi fondamentale établissant les droits collectifs des peuples autochtones
+> - **Révision de la loi sur l'éducation des peuples autochtones en 2007** : renforcement des garanties éducatives pour les langues et cultures autochtones
+>
+> À cela s'ajoutent l'adhésion à l'OMC (2002), la nationalisation de l'armée, la transparence gouvernementale, l'ajustement des programmes d'histoire, les politiques multilingues — l'orientation principale de ce mandat fut de « compléter les structures institutionnelles de Taïwan, héritées inachevées de l'ère autoritaire, pour en faire ce qu'un État démocratique devrait être ».
 
-**En 2005, la loi fondamentale sur les peuples autochtones est adoptée** — le texte le plus important jamais voté pour la protection de leurs droits à Taïwan. Il reconnaît juridiquement le statut des peuples autochtones sur leurs terres ancestrales et garantit l'autonomie collective en matière de langue, de culture et d'éducation. Ce texte, fruit de longues années de mobilisation, constitue le cadre de référence de toutes les politiques publiques les concernant.
+La promotion de la nationalisation de l'armée et du commandement civil fut une contribution à la consolidation démocratique moins souvent mentionnée mais extrêmement importante du mandat de Chen Shui-bian. Avant lui, l'influence du Kuomintang sur l'armée imprégnait chaque niveau de la chaîne de commandement ; après lui, le terme « armée de parti » disparut complètement du débat public.
 
-## Le mouvement de renomination de Taïwan
+## Le mouvement de rectification du nom de Taïwan
 
-À partir de 2003, le gouvernement Chen engage une série de « renominations » visant à effacer les dénominations à connotation sino-centrée : « Chunghwa Post » devient « Taiwan Post », « l'aéroport international Chiang Kai-shek » devient « l'aéroport international Taiwan Taoyuan », et le mot « TAIWAN » est mis en valeur sur la couverture des passeports.
+À partir de 2003, le gouvernement Chen Shui-bian lança une série d'actions dans le cadre du « mouvement de rectification du nom de Taïwan », modifiant le nom de certaines institutions publiques :
 
-Ses partisans y voient une nécessité pour que Taïwan soit clairement identifié sur la scène internationale ; ses opposants estiment que ces changements provoquent Pékin et aggravent les tensions dans le détroit. Certaines de ces renominations ont été maintenues par les gouvernements suivants, d'autres ont été à nouveau modifiées.
+- « Poste de Chine » renommée « Poste de Taïwan »
+- « Aéroport international de Chiang Kai-shek » renommé « Aéroport international de Taoyuan, Taïwan »
+- Le mot « TAIWAN » agrandi sur la couverture des passeports
 
-## 2004 : la réélection, et les coups de feu
+Les partisans y voyaient une mesure nécessaire pour que Taïwan soit clairement identifié sur la scène internationale ; les opposants estimaient que ces changements de nom provoquaient Pékin et intensifiaient les tensions dans le détroit. Parmi ces changements de nom, certains furent maintenus par les gouvernements ultérieurs, d'autres furent à nouveau modifiés.
 
-Le 19 mars 2004, la veille du scrutin, Chen Shui-bian et la vice-présidente Annette Lu sont victimes d'une fusillade lors d'un déplacement de campagne à Tainan — tous deux légèrement blessés. Le lendemain, Chen Shui-bian est réélu avec 50,11 % des voix, soit un écart de 0,22 point.
+Durant ses huit années au pouvoir, l'identité taïwanaise passa d'environ 30 % à 70 %. Chen Shui-bian fut le moteur de ces projets identitaires, faisant de la perception que « Taïwan est un État souverain » une position majoritaire — ce qui plongea également la société taïwanaise dans une fracture idéologique difficile à résorber à ce jour.
 
-L'enquête sur cet attentat reste entourée de controverses non élucidées. L'opposition a mis en cause l'impact de l'incident sur le résultat électoral et réclamé un recompte des voix ; ses soutiens y ont vu une tentative d'assassinat politique. À ce jour, les interprétations de cet épisode se fracturent selon les lignes politiques — l'un des rares événements de l'histoire récente de Taïwan dont la vérité reste disputée.
+## La position sur les relations transstraits : « un pays de chaque côté »
 
-## Second mandat : la tempête politique
+En 2002, lors d'un discours en visioconférence, Chen Shui-bian formula la position « Taïwan et la Chine, un pays de chaque côté », déclarant explicitement que Taïwan et la Chine sont deux pays distincts. Cette position tranchait avec la prudence des « quatre ne pas et un pas de problème » du discours d'investiture, provoqua une réaction vive de Pékin et inquiéta Washington quant à la situation dans le détroit de Taïwan.
 
-2006 marque un tournant dans le second mandat. Des questions sur l'utilisation des fonds confidentiels de la présidence surgissent, suivies de révélations sur des affaires de corruption impliquant des proches. L'ancien président du DPP Shih Ming-teh lance le mouvement « un million de personnes contre Bian » : pendant plusieurs semaines, des manifestants se rassemblent sur l'avenue Ketagalan pour réclamer la démission de Chen Shui-bian.
+Vers la fin de son deuxième mandat, il alla plus loin avec les « quatre vouloir et pas de problème de ligne » : vouloir l'indépendance, vouloir la rectification du nom, vouloir une nouvelle constitution, vouloir le développement, pas de problème de ligne gauche ou droite. Il promut simultanément le « référendum d'adhésion de Taïwan aux Nations Unies ». Sur le plan diplomatique, la controverse de la « diplomatie de détour » émergea, et les arrangements de transit aux États-Unis créèrent des tensions avec Washington.
 
-Cette crise politique paralyse presque entièrement son action gouvernementale et laisse dans la société taïwanaise des traces durables de division.
+La ligne transstraits qu'il promut — centrée sur la subjectivité de Taïwan et insistant sur l'existence indépendante de Taïwan sur la scène internationale — et la ligne du « consensus de 1992 » de son successeur [[馬英九]] (Ma Yingjiu) constituent le contraste le plus marqué de la politique transstraits taïwanaise. Les différents électorats portent des jugements radicalement différents sur cette période, reflétant la réalité que la société taïwanaise n'a pas encore complètement forgé de consensus sur la question fondamentale : « Qu'est-ce que Taïwan ? »
 
-## Position sur les relations avec Pékin : « un pays des deux côtés »
+## Réélection en 2004 : le coup de feu la veille du scrutin
 
-En 2002, lors d'une conférence en visioconférence, Chen Shui-bian affirme que « Taïwan et la Chine sont deux pays différents, chacun d'un côté du détroit » — un écart marqué par rapport à la prudence des « quatre non et un sans » de son investiture. Pékin réagit vivement ; Washington s'inquiète de la stabilité dans le détroit.
+Le 19 mars 2004, la veille du jour du scrutin, Chen Shui-bian et la vice-présidente Lu Xiulian furent victimes d'une tentative d'assassinat par balle alors qu'ils faisaient campagne dans le Tainan ; les deux furent légèrement blessés. Le lendemain, Chen Shui-bian fut réélu avec 50,11 % des voix, soit un écart de 0,22 %. [^6]
 
-Sa ligne sur les relations avec la Chine — centrée sur la subjectivité politique de Taïwan et son existence autonome sur la scène internationale — contraste radicalement avec la politique du « consensus de 1992 » de son successeur Ma Ying-jeou. Les lectures que font les Taïwanais de cette période divergent profondément selon les appartenances politiques, reflétant l'absence de consensus tranché sur la question fondamentale : qu'est-ce que Taïwan ?
+L'enquête sur la tentative d'assassinat fut entachée de controverses et n'a toujours pas été totalement élucidée. L'opposition remit en question l'impact de l'événement sur le résultat de l'élection et demanda un nouveau décompte des voix ; les partisans y virent une tentative d'assassinat politique. L'interprétation de cet événement par la société taïwanaise reste, à ce jour, divisée selon les lignes de fracture politiques, et il constitue l'un des rares événements politiques de l'histoire moderne de Taïwan dont la vérité demeure contestée.
 
-## Les procédures judiciaires après la présidence
+## Deuxième mandat : la tempête politique
 
-Le 20 mai 2008, Chen Shui-bian quitte la présidence. Deux mois plus tard, les procureurs ouvrent une enquête. En 2009, il est condamné en première instance à vingt ans de prison pour corruption et blanchiment d'argent ; la Cour suprême confirme définitivement la condamnation pour l'affaire d'acquisition de terrains à Longtan.
+2006 marqua le tournant du deuxième mandat. L'utilisation des frais spéciaux du Bureau présidentiel fut remise en question, des scandales d'achats impliquant des proches émergèrent (dont l'affaire SOGO et l'affaire de l'achat de terrains de Longtan), et l'ancien président du Parti démocrate progressiste [[施明德]] (Shi Mingde) lança le mouvement « un million de personnes pour renverser Bian », rassemblant pendant des semaines sur l'avenue Ketagalan pour exiger la démission de Chen Shui-bian.
 
-En janvier 2015, il est libéré pour raisons médicales et placé en liberté conditionnelle, dans laquelle il se trouve depuis lors.
+Cette tempête politique paralysa presque totalement la capacité d'action de Chen Shui-bian et laissa une empreinte profonde de division sociale à Taïwan. Durant la même période, l'incident du confinement de l'hôpital Heping lors de l'épidémie de SRAS en 2003 constitua une autre marque de gestion de crise transversale aux deux mandats.
 
-Ses soutiens ont constamment dénoncé des irrégularités dans la procédure et une instrumentalisation judiciaire à des fins politiques ; ses détracteurs y voient le fonctionnement normal de l'état de droit. Cette affaire est régulièrement citée dans les débats sur l'indépendance judiciaire à Taïwan.
+Mais même au cœur de la tempête, de grands projets d'infrastructure publique furent achevés ou lancés durant ce mandat :
 
-## Ce qui reste
+- Tunnel de Xueshan (mis en service en 2006)
+- Ligne à grande vitesse de Taïwan (mise en service sur l'ensemble de la ligne en 2007)
+- Développement du parc scientifique du centre de Taïwan
+- Aménagement de la rivière Keelung
+  > - Métro de Kaohsiung
 
-Évaluer Chen Shui-bian conduit à des conclusions radicalement opposées selon les convictions de chacun. Mais plusieurs faits sont établis et vérifiables.
+> **📝 Note du conservateur**
+> Le deuxième mandat de Chen Shui-bian est un cas typique de mandat public « impossible à évaluer séparément » : le même mandat comporta à la fois la position identitaire transstraits la plus affirmée, la tempête de scandales la plus grave, et la livraison des infrastructures les plus ambitieuses. Tout cadre unique (succès/échec, progrès/corruption) passerait à côté de la moitié de la vérité de ce mandat.
 
-Une loi sur le référendum, qui a donné aux citoyens un outil de démocratie directe. Une loi fondamentale sur les peuples autochtones, qui a offert à des communautés marginalisées depuis des siècles une première protection juridique de leurs droits collectifs. Une loi sur l'égalité des genres dans l'éducation, qui a formalisé les exigences d'égalité dans les établissements scolaires. La ligne Muzha du métro de Taipei, inaugurée sous son mandat de maire. L'adhésion de Taïwan à l'OMC, conclue sous sa présidence.
+## Les affaires judiciaires après la sortie de fonctions
 
-Et, plus fondamental encore : ce qu'il a établi en 2000. À Taïwan, un parti qui gouverne depuis cinquante-cinq ans peut être renvoyé dans l'opposition par les urnes.
+Le 20 mai 2008, Chen Shui-bian quitta ses fonctions. Deux mois plus tard, les procureurs ouvrirent une enquête. En 2009, il fut condamné en première instance à 20 ans de prison pour corruption, blanchiment d'argent et autres chefs d'accusation, puis la condamnation fut confirmée en appel dans l'affaire de l'achat de terrains de Longtan — Chen Shui-bian devint le premier ancien président de la République de Chine à être incarcéré et condamné à une peine de prison. L'affaire impliqua des membres de la première famille (Wu Shuzhen, Zhao Jianming, etc.) et resta longtemps au centre des débats sur l'indépendance judiciaire et l'intervention politique à Taïwan.
 
-Cette année-là, les Taïwanais ont découvert que c'était vrai.
+En janvier 2015, il obtint une libération sous surveillance médicale pour raisons de santé et se trouve depuis dans ce statut.
 
----
+Ses partisans soutiennent que la procédure judiciaire comportait des vices et que l'affaire était mêlée de persécution politique ; les critiques estiment que le verdict du tribunal relève du fonctionnement normal de l'État de droit taïwanais. Cette affaire est devenue un cas constamment cité dans les débats sur l'indépendance judiciaire à Taïwan.
 
-## Sources
+## La « vitalité Bian » à l'ère numérique : interactions mémétiques sur Threads
 
-- [Présidence de la République — Anciens présidents : Chen Shui-bian](https://www.president.gov.tw/AboutThePresident/Presidents) — biographie officielle
-- [Commission centrale des élections — Résultats électoraux historiques](https://web.cec.gov.tw/central) — base de données électorale
-- [Système législatif — Loi sur le référendum](https://lis.ly.gov.tw/lglawc/lglawkm) — historique législatif et texte intégral
-- [Conseil des peuples autochtones — Loi fondamentale sur les peuples autochtones](https://www.apc.gov.tw/portal/docDetail.html?CID=940F9579765AC6A0&DID=0C3331F0EBD318C4) — référence juridique
-- [Wikipédia — Chen Shui-bian](https://zh.wikipedia.org/wiki/%E9%99%B3%E6%B0%B4%E6%89%81) — données de référence générales
-- [Freedom House Taiwan Report](https://freedomhouse.org/country/taiwan) — évaluation de la liberté et de la démocratie à Taïwan
-- [Archives municipales de Taipei — Inauguration du métro de Taipei](https://www.tcml.taipei.gov.tw/) — documentation historique sur la ligne Muzha
+Ces dernières années, Chen Shui-bian a fait preuve d'une capacité d'adaptation numérique étonnante. Ses interactions avec les internautes sur Threads sont extrêmement fréquentes, et les utilisateurs l'ont surnommé « le roi des vannes présidentielles ».
+
+En avril 2026, répondant à un internaute qui lui demandait « la chose la plus badass de ta vie », il répondit sans détour : « Issu d'un ménage extrêmement pauvre, devenu maire de la capitale avant 50 ans, puis président avant 50 ans », attirant en peu de temps un grand nombre d'interactions. Lorsqu'un internaute demanda en plaisantant si le compte était géré par un community manager, il montra directement son téléphone et se moqua de lui-même en évoquant ses souvenirs d'« être victime de campagnes de dénigrement » — ce style « intrinsèquement mémétique » attira de manière inattendue de nombreuses jeunes générations n'ayant pas vécu son ère au pouvoir. [^7]
+
+De l'ascension d'un ménage extrêmement pauvre, à la figure de défi de l'ère autoritaire, au prisonnier empêtré dans des scandales, pour finalement devenir un symbole mémétique à l'ère des réseaux sociaux — son parcours condense toutes les sinuosités de la transition démocratique taïwanese dans un même corps.
+
+## Ce qu'il a laissé
+
+Évaluer Chen Shui-bian, c'est obtenir des conclusions radicalement différentes selon sa position. Mais certaines choses sont concrètement vérifiables :
+
+Une loi sur le référendum, offrant au peuple un outil juridique de démocratie directe. Une loi fondamentale des peuples autochtones, offrant pour la première fois à des groupes marginalisés depuis des siècles une protection juridique de leurs droits collectifs. Une loi sur l'égalité des genres dans l'éducation, offrant un cadre clair à l'égalité des genres dans les établissements scolaires. La ligne Muzha du métro de Taipei, mise en service durant son mandat de maire. L'adhésion de Taïwan à l'OMC, finalisée sous son gouvernement. Le tunnel de Xueshan et la ligne à grande vitesse de Taïwan, mis en service durant sa présidence. La nationalisation de l'armée, devenue effective sous son mandat.
+
+Plus fondamentalement, c'est ce qu'il établit en 2000 : à Taïwan, un parti au pouvoir depuis 55 ans peut être renversé par les urnes.
+
+Cette année-là, les Taïwanais apprirent pour la première fois que c'était réellement possible.
+
+## Pour aller plus loin
+
+- [[蘇貞昌]] (Su Zhenchang) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
+- [[謝長廷]] (Xie Changting) — compagnon d'équipe de défense lors du procès de l'Incident de Formosa, puis président du Yuan exécutif
+- [[呂秀蓮]] (Lu Xiulian) — vice-présidente en 2000 et 2004
+- [[施明德]] (Shi Mingde) — figure centrale de l'Incident de Formosa, puis président du Parti démocrate progressiste, initiateur du mouvement anti-Bian en 2006
+- [[馬英九]] (Ma Yingjiu) — battit Chen Shui-bian pour la mairie de Taipei en 1998, puis lui succéda à la présidence en 2008
+- [[美麗島事件]] (Incident de Formosa) — le grand procès de 1979 qui engendra une nouvelle génération politique
+- [[民主進步黨]] (Parti démocrate progressiste) — membre fondateur, premier président issu du parti au pouvoir
+- [[台灣民主化進程]] (Processus de démocratisation de Taïwan) — l'alternance politique comme nœud clé de la consolidation démocratique
+
+## Références
+
+[^1]: [Données sur les présidents successifs du Bureau présidentiel — Chen Shui-bian](https://www.president.gov.tw/AboutThePresident/Presidents) — Biographie officielle.
+
+[^2]: [Commission électorale centrale — Base de données des élections passées](https://web.cec.gov.tw/central) — Résultats des voix de l'élection municipale de Taipei de 1994.
+
+[^3]: [Commission électorale centrale — Base de données des élections passées](https://web.cec.gov.tw/central) — Statistiques des voix des trois candidats à l'élection présidentielle de 2000.
+
+[^4]: [Système juridique du Yuan législatif — Loi sur le référendum](https://lis.ly.gov.tw/lglawc/lglawkm) — Processus législatif et texte intégral de 2003.
+
+[^5]: [Commission des affaires des peuples autochtones du Yuan exécutif — Loi fondamentale des peuples autochtones](https://www.apc.gov.tw/portal/docDetail.html?CID=940F9579765AC6A0&DID=0C3331F0EBD318C4) — Données législatives et articles de 2005.
+
+[^6]: [Commission électorale centrale — Base de données des élections passées](https://web.cec.gov.tw/central) — Statistiques des voix de l'élection présidentielle de 2004.
+
+[^7]: [Compte Threads de Chen Shui-bian](https://www.threads.net/@chenshuibian88) — Traces d'interactions numériques d'un ancien président.
+
+⚠️ **Notes de bas de page à affiner ultérieurement** : la version soumise dans la PR originale contenait 20 URL racines (telles que `drnh.gov.tw` / `gov.taipei` / `nhk.or.jp`) ne pointant pas vers des pages spécifiques ; elles ont été remplacées par les 7 sources vérifiées de la version existante. La prochaine phase de peaufinage devrait compléter : (1) les sources spécifiques pour l'incident de la rivière Bazhang, l'arrêt de la construction de

@@ -10,6 +10,9 @@ readingTime: 10
 featured: false
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
 lastVerified: 2026-03-19
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:20aea791d594faee'
+translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 
 # 국제 표준에서 대만의 명칭 문제

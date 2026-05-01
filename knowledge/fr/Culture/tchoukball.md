@@ -2,7 +2,14 @@
 title: 'Le tchoukball : Taïwan, champion du monde discret depuis 43 ans'
 description: "En 1977, un professeur taïwanais rapporte d'Angleterre un cadre de filet, introduisant ainsi à Taïwan ce sport inventé en Suisse et surnommé le « sport des gentlemen ». Quarante ans plus tard, l'équipe nationale trône au sommet du monde, la fédération internationale a son siège à Kaohsiung — et pourtant, la majorité des Taïwanais n'ont jamais entendu parler de ce sport confidentiel."
 date: 2026-03-27
-tags: [tchoukball, sport taïwanais, champion du monde, sport scolaire, culture sportive]
+tags:
+  [
+    tchoukball,
+    sport taïwanais,
+    champion du monde,
+    sport scolaire,
+    culture sportive,
+  ]
 subcategory: 'Culture sportive'
 category: 'Culture'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ readingTime: 12
 featured: false
 translatedFrom: 'Culture/巧固球.md'
 lastVerified: 2026-03-27
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:01a29994f0cdcf17'
+translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 
 ## Origines et introduction à Taïwan

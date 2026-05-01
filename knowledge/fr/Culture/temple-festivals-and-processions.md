@@ -11,7 +11,10 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Culture/台灣廟會與陣頭文化.md'
+translatedFrom: "Culture/台灣廟會與陣頭文化.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:5ed11fa29fb0b644"
+translatedAt: "2026-04-14T12:33:49+08:00"
 ---
 
 # Fêtes de temples et culture des processions à Taïwan

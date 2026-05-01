@@ -8,6 +8,9 @@ category: 'People'
 author: 'Taiwan.md Translation Team'
 featured: true
 translatedFrom: 'People/李安.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:424471225df1f956'
+translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 
 # 이안: 동서양을 잇는 영화의 시인

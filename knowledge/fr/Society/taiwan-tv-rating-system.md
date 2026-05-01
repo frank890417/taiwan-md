@@ -1,15 +1,26 @@
 ---
-title: 'Les gardiens de l''écran : l''évolution du système de classification des films et séries à Taïwan'
+title: "Les gardiens de l'écran : l'évolution du système de classification des films et séries à Taïwan"
 description: 'Le système de classification taïwanais incarne le passage de la "censure d''État" sous la loi martiale à la "protection de l''enfance" à l''ère démocratique. De l''abolition de la loi sur la censure cinématographique en 1983 à la naissance de la catégorie "Protégé" inspirée par Jurassic Park en 1993, jusqu''à l''harmonisation complète au système à cinq niveaux en 2026, cet article retrace une longue évolution entre droit du spectateur et responsabilité sociale.'
 category: 'Society'
 subcategory: 'Médias et communication'
-tags: [classification des films, Jurassic Park, loi sur le cinéma, Ministère de la Culture, loi martiale, protection de l'enfance]
+tags:
+  [
+    classification des films,
+    Jurassic Park,
+    loi sur le cinéma,
+    Ministère de la Culture,
+    loi martiale,
+    protection de l'enfance,
+  ]
 author: 'Taiwan.md Translation Team'
 date: 2026-04-08
 readingTime: 15
 lastVerified: 2026-04-08
 lastHumanReview: '2026-04-08'
 translatedFrom: 'Society/台灣電視分級制度.md'
+sourceCommitSha: '257ae187'
+sourceContentHash: 'sha256:ce5835d56ab02bd7'
+translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 
 > **Résumé en 30 secondes :** Le système de classification taïwanais fut longtemps une paire de ciseaux. Avant 1983, les films devaient passer une "inspection" et non une simple classification — la censure politique et morale était la norme. En 1993, la polémique autour de Jurassic Park révéla les lacunes du système à trois niveaux, donnant naissance à la catégorie "Protégé". Aujourd'hui, Taïwan dispose d'un système à cinq niveaux couvrant cinéma, télévision, vidéo et jeux vidéo, transformant l'"interdiction" en "orientation", pour protéger à la fois la diversité audiovisuelle et la sécurité des plus jeunes.
@@ -26,7 +37,7 @@ Avant l'adoption de la Loi sur le cinéma, Taïwan appliquait une Loi sur l'insp
 
 ### 2. L'établissement du système à trois niveaux (1983–1994)
 
-En 1983, le gouvernement abroge la Loi sur l'inspection cinématographique et adopte la Loi sur le cinéma, instaurant officiellement un système à trois niveaux : **Tout public, Accompagné et Interdit aux mineurs**.[^4] Ce cadre se révéla cependant inadapté face à la nouvelle vague du cinéma taïwanais des années 1980. En 1987, le film *La Fille du Nil* de Hou Hsiao-hsien se trouva dans une zone grise en raison de ses scènes de délinquance juvénile, illustrant la tension croissante entre les créateurs et les instances de contrôle.[^5]
+En 1983, le gouvernement abroge la Loi sur l'inspection cinématographique et adopte la Loi sur le cinéma, instaurant officiellement un système à trois niveaux : **Tout public, Accompagné et Interdit aux mineurs**.[^4] Ce cadre se révéla cependant inadapté face à la nouvelle vague du cinéma taïwanais des années 1980. En 1987, le film _La Fille du Nil_ de Hou Hsiao-hsien se trouva dans une zone grise en raison de ses scènes de délinquance juvénile, illustrant la tension croissante entre les créateurs et les instances de contrôle.[^5]
 
 ### 3. Les dinosaures à l'origine de la catégorie "Protégé" (1994)
 
@@ -39,13 +50,13 @@ Les pictogrammes de classification ont eux aussi connu une transformation notabl
 - **Période ancienne (1988–2015)** : les pictogrammes étaient principalement **circulaires**, avec des teintes légèrement différentes de celles d'aujourd'hui. Le rouge sur fond blanc pour "Interdit aux mineurs" et le vert sur fond blanc pour "Tout public" ont ancré chez les Taïwanais un réflexe instinctif face à ces symboles.
 - **Ère moderne (à partir de 2015)** : afin de s'aligner sur les standards internationaux et d'améliorer la lisibilité, le Ministère de la Culture a uniformisé les pictogrammes en format **carré** et subdivisé la catégorie "Accompagné" en "Accompagné 12" et "Accompagné 15".[^7]
 
-| Pictogramme       | Couleur | Forme  | Signification et évolution                                                  |
-| :---------------- | :------ | :----- | :-------------------------------------------------------------------------- |
-| **🟢 Tout public** | Vert    | Carré  | Symbole de sécurité, accessible à tous les âges.                           |
-| **🔵 Protégé**     | Bleu    | Carré  | Ajouté en 1994, pour combler le vide entre "Tout public" et "Accompagné".  |
-| **🟡 Accompagné 12** | Jaune | Carré  | Issu du fractionnement de 2015, ciblant précisément les collégiens.        |
-| **🟠 Accompagné 15** | Orange | Carré | Ajouté en 2015, adapté aux besoins des lycéens.                            |
-| **🔴 Interdit**    | Rouge   | Carré  | Signal d'alerte, strictement réservé aux adultes.                          |
+| Pictogramme          | Couleur | Forme | Signification et évolution                                                |
+| :------------------- | :------ | :---- | :------------------------------------------------------------------------ |
+| **🟢 Tout public**   | Vert    | Carré | Symbole de sécurité, accessible à tous les âges.                          |
+| **🔵 Protégé**       | Bleu    | Carré | Ajouté en 1994, pour combler le vide entre "Tout public" et "Accompagné". |
+| **🟡 Accompagné 12** | Jaune   | Carré | Issu du fractionnement de 2015, ciblant précisément les collégiens.       |
+| **🟠 Accompagné 15** | Orange  | Carré | Ajouté en 2015, adapté aux besoins des lycéens.                           |
+| **🔴 Interdit**      | Rouge   | Carré | Signal d'alerte, strictement réservé aux adultes.                         |
 
 ## Cas controversés : quand l'art repousse les limites
 

@@ -9,6 +9,9 @@ readingTime: 10
 lastVerified: 2026-03-26
 lastHumanReview: false
 translatedFrom: 'Culture/關聖帝君信仰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:0c930d5c5db17f02'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Guan Sheng Di Jun: How a Defeated General Became Taiwan's God of Everything

@@ -7,6 +7,9 @@ author: 'Taiwan.md Contributors'
 readingTime: 10
 featured: true
 translatedFrom: 'About/看見台灣引言集.md'
+sourceCommitSha: '1a5fc7a9'
+sourceContentHash: 'sha256:cbdbee6d7c03481f'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Seeing Taiwan — Historical Impressions of the Island

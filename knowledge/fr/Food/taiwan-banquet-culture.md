@@ -23,11 +23,14 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/The_End_of_Gho
 imageAlt: 'Un banquet populaire taïwanais en plein air'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣辦桌文化.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
+translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 
 # La culture du banquet populaire taïwanais (辦桌)
 
-> **En 30 secondes :** Départ à 3h30 du matin pour préparer les ingrédients, chasse aux truites sous une averse torrentielle, démontage des tonnelles sous le typhon — voilà le quotidien d'un *zǒng pù shī* (總鋪師, maître traiteur itinérant), et le reflet condensé de trois siècles de culture du 辦桌. À son apogée, la petite commune de Neimen, à Kaohsiung, comptait 150 maîtres traiteurs pour 14 000 habitants. L'année de la pandémie, les commandes se sont évaporées à hauteur de 90 %. Aujourd'hui, avoir 40 ans dans le métier, c'est être considéré comme « un jeune ». Parmi les moins de 30 ans, on en trouve à peine deux sur dix. Ce qui inquiète les connaisseurs, ce n'est pas le rétrécissement du marché : c'est qu'un corpus entier de savoirs rituels — liant les vivants, les dieux et les morts — est en train de disparaître avec eux.
+> **En 30 secondes :** Départ à 3h30 du matin pour préparer les ingrédients, chasse aux truites sous une averse torrentielle, démontage des tonnelles sous le typhon — voilà le quotidien d'un _zǒng pù shī_ (總鋪師, maître traiteur itinérant), et le reflet condensé de trois siècles de culture du 辦桌. À son apogée, la petite commune de Neimen, à Kaohsiung, comptait 150 maîtres traiteurs pour 14 000 habitants. L'année de la pandémie, les commandes se sont évaporées à hauteur de 90 %. Aujourd'hui, avoir 40 ans dans le métier, c'est être considéré comme « un jeune ». Parmi les moins de 30 ans, on en trouve à peine deux sur dix. Ce qui inquiète les connaisseurs, ce n'est pas le rétrécissement du marché : c'est qu'un corpus entier de savoirs rituels — liant les vivants, les dieux et les morts — est en train de disparaître avec eux.
 
 En fin d'après-midi, dans le préau d'une école de Kaohsiung, 120 tables étaient sur le point d'être servies lorsqu'une averse soudaine s'est abattue. L'eau montait jusqu'aux mollets, les armatures des tonnelles pliaient sous le poids de la pluie, les foyers s'éteignaient, ustensiles et casseroles dérivaient — et les truites destinées à la marmite s'échappaient par dizaines.
 
@@ -45,10 +48,10 @@ On dit souvent que le restaurant est un terrain d'art, le 辦桌 un terrain de g
 
 La nuit du typhon Morakot, le maître traiteur Xue Meng-hui, de Neimen, dirigeait un banquet d'action de grâce pour la fête d'un dieu tutélaire à Fengshan. Le vent soufflait fort, la pluie était battante, la tonnelle s'est effondrée, une armature métallique a heurté la tête d'un cuisinier — c'est seulement à ce moment-là que le commanditaire a décidé d'interrompre la soirée. Xue a reconduit ses aides à Qiwei et Shanlin, puis, en rentrant à Neimen, a trouvé tous les ponts coupés — coincé toute la nuit dans un 7-ELEVEN, tandis que la rivière Nanzixian rugissait comme une mer déchainée.
 
-« Ce qui me pesait le plus, c'était de laisser les clients attendre. Dès que je suis rentré, j'ai couru au téléphone. » a-t-il confié. Le lendemain, il avait un autre banquet : l'anniversaire de la déesse Guanyin. *(The Reporter, 2020)*
+« Ce qui me pesait le plus, c'était de laisser les clients attendre. Dès que je suis rentré, j'ai couru au téléphone. » a-t-il confié. Le lendemain, il avait un autre banquet : l'anniversaire de la déesse Guanyin. _(The Reporter, 2020)_
 
 > **📝 Note de la rédaction**
-> L'esprit du « terrain de combat » du 辦桌 est précisément ce que la restauration traditionnelle reproduit de plus en plus difficilement. Un restaurant étoilé gère une cuisine fixe, un personnel fixe, un équipement fixe. Le maître traiteur, lui, construit une cuisine éphémère à partir de rien dans un lieu inconnu à chaque fois. Celui qui peut attraper des poissons sous la pluie et continuer à servir ses tables est le véritable *field cook* de Taïwan — un cuisinier de terrain au sens le plus brut du terme.
+> L'esprit du « terrain de combat » du 辦桌 est précisément ce que la restauration traditionnelle reproduit de plus en plus difficilement. Un restaurant étoilé gère une cuisine fixe, un personnel fixe, un équipement fixe. Le maître traiteur, lui, construit une cuisine éphémère à partir de rien dans un lieu inconnu à chaque fois. Celui qui peut attraper des poissons sous la pluie et continuer à servir ses tables est le véritable _field cook_ de Taïwan — un cuisinier de terrain au sens le plus brut du terme.
 
 ## Un royaume de maîtres traiteurs né sur des terres ingrates
 
@@ -64,12 +67,12 @@ Aujourd'hui, Xue Meng-hui estime qu'il ne reste plus que 30 à 40 maîtres sur p
 
 Le 辦桌 n'est pas une invention moderne. C'est seulement la modernité qui le croit tel.
 
-En 1902, le gouvernement colonial japonais mena l'« Enquête temporaire sur les coutumes anciennes de Taïwan », et documenta un terme déjà courant dans le Taïwan de la fin des Qing : *bàn zhuō* (辦桌) — défini comme « préparer une table, apprêter un banquet, organiser un festin ». Les recherches de l'Institut d'histoire de Taïwan à l'Academia Sinica révèlent qu'à l'époque de l'Empereur Kangxi des Qing, les Taïwanais avaient déjà l'habitude de confier à des cuisiniers l'organisation de banquets chez eux — au moins un siècle avant la plupart des pratiques considérées comme « traditionnelles » à Taïwan.
+En 1902, le gouvernement colonial japonais mena l'« Enquête temporaire sur les coutumes anciennes de Taïwan », et documenta un terme déjà courant dans le Taïwan de la fin des Qing : _bàn zhuō_ (辦桌) — défini comme « préparer une table, apprêter un banquet, organiser un festin ». Les recherches de l'Institut d'histoire de Taïwan à l'Academia Sinica révèlent qu'à l'époque de l'Empereur Kangxi des Qing, les Taïwanais avaient déjà l'habitude de confier à des cuisiniers l'organisation de banquets chez eux — au moins un siècle avant la plupart des pratiques considérées comme « traditionnelles » à Taïwan.
 
 Des Qing aux années 1950, le maître traiteur exerçait surtout en activité secondaire — un voisin un peu plus doué en cuisine que les autres, avec des ingrédients fournis par la famille hôte. **Le véritable tournant vers la professionnalisation coïncide avec le décollage économique de Taïwan.** Lorsque les revenus du 辦桌 en activité accessoire ont commencé à dépasser ceux de l'agriculture, toute une industrie a émergé sans crier gare.
 
 > **💡 Le saviez-vous ?**
-> À l'époque des Qing, le 辦桌 obéissait à la règle des « dix jours avant, huit jours après » : on choisissait la date d'un mariage six mois à l'avance, puis une semaine avant, on construisait un foyer en briques de terre ; les voisins prêtaient tables, chaises et vaisselle ; après le repas, on distribuait le *cài wěi tāng* (菜尾湯, soupe des restes) aux proches qui avaient donné un coup de main. Toute cette mobilisation villageoise — c'est la forme originelle du 辦桌. La nourriture n'était que la dernière étape ; tout le reste était affaire de liens humains.
+> À l'époque des Qing, le 辦桌 obéissait à la règle des « dix jours avant, huit jours après » : on choisissait la date d'un mariage six mois à l'avance, puis une semaine avant, on construisait un foyer en briques de terre ; les voisins prêtaient tables, chaises et vaisselle ; après le repas, on distribuait le _cài wěi tāng_ (菜尾湯, soupe des restes) aux proches qui avaient donné un coup de main. Toute cette mobilisation villageoise — c'est la forme originelle du 辦桌. La nourriture n'était que la dernière étape ; tout le reste était affaire de liens humains.
 
 ## Le « Black Pine Grand Hôtel » des jours fastes
 
@@ -79,10 +82,10 @@ Xue Meng-hui aime mesurer les cycles de l'industrie à l'aune des présidences. 
 
 Le père de Xue Meng-hui, Xue Qing-ji, remplissait chaque page de son almanach de travail : **25 000 tables par an**, parfois plus de dix banquets en une seule journée lors des grandes occasions, **3 000 tables lors des mois lunaires fastes, pour un chiffre d'affaires mensuel atteignant 12 millions de nouveaux dollars taïwanais**. À cette époque, la famille Xue recrutait ses aides jusqu'à Shanlin, à une demi-heure de route.
 
-| Époque de Xue Qing-ji (années 1990) | Époque de Xue Meng-hui (avant la pandémie) |
-| ------------------------------------- | ------------------------------------------- |
+| Époque de Xue Qing-ji (années 1990)     | Époque de Xue Meng-hui (avant la pandémie)          |
+| --------------------------------------- | --------------------------------------------------- |
 | Moyenne de 1 000 tables les petits mois | Déjà content d'atteindre 500 tables les grands mois |
-| 25 000 tables par an | Quelques milliers de tables par an |
+| 25 000 tables par an                    | Quelques milliers de tables par an                  |
 
 Le tournant s'est produit vers la troisième année de la présidence de Chen Shui-bian (2003). Avec la délocalisation de l'industrie vers la Chine continentale, la clientèle des PME s'est raréfiée. Certains anciens clients n'avaient plus passé de commande depuis deux ans — on apprenait après coup qu'ils avaient fait faillite.
 
@@ -90,7 +93,7 @@ Le tournant s'est produit vers la troisième année de la présidence de Chen Sh
 
 Un 辦桌 standard comprend de 12 à 14 plats, avec sa propre dramaturgie.
 
-Les hors-d'œuvre froids accueillent les convives à leur arrivée ; le deuxième plat — une soupe onctueuse — réchauffe l'estomac. Les troisième et quatrième plats constituent le moment fort : homard, crabe rouge, *fó tiào qiáng* (佛跳牆, ragoût de luxe en pot), déclinés en version « populaire » ou « noble » selon le budget alloué à chaque table. Dès que le chou braisé fait son apparition, les convives savent que les grands plats arrivent. Les boules de riz gluant frites signalent la fin d'un banquet de mariage. Lors d'un banquet funéraire, le *guā bāo* (刈包, petit pain fourré) est incontournable — la gueule ouverte du tigre symbolise le fait d'avaler le mauvais sort. À l'occasion d'un emménagement, on évite les plats en boule — dont la prononciation en taiwanais rappelle « c'est fini ». Pour le premier mois d'un nouveau-né, un poulet entier est servi, symbole de perfection.
+Les hors-d'œuvre froids accueillent les convives à leur arrivée ; le deuxième plat — une soupe onctueuse — réchauffe l'estomac. Les troisième et quatrième plats constituent le moment fort : homard, crabe rouge, _fó tiào qiáng_ (佛跳牆, ragoût de luxe en pot), déclinés en version « populaire » ou « noble » selon le budget alloué à chaque table. Dès que le chou braisé fait son apparition, les convives savent que les grands plats arrivent. Les boules de riz gluant frites signalent la fin d'un banquet de mariage. Lors d'un banquet funéraire, le _guā bāo_ (刈包, petit pain fourré) est incontournable — la gueule ouverte du tigre symbolise le fait d'avaler le mauvais sort. À l'occasion d'un emménagement, on évite les plats en boule — dont la prononciation en taiwanais rappelle « c'est fini ». Pour le premier mois d'un nouveau-né, un poulet entier est servi, symbole de perfection.
 
 Chaque plat est porteur d'un langage rituel, chaque décision de présentation est un jugement d'expert en traditions populaires.
 
@@ -99,21 +102,21 @@ Chaque plat est porteur d'un langage rituel, chaque décision de présentation e
 
 ## La fracture générationnelle : 40 ans, c'est « jeune »
 
-« Dans le métier du traiteur itinérant, 40 ans, c'est être jeune. En général, on reprend l'affaire familiale. Parmi les moins de 30 ans, on en trouve à peine deux sur dix. Les aides de cuisine vieillissent de manière généralisée. » confie Li Jun-xiang, maître traiteur du Nouveau Taipei, décrivant la réalité du nord du pays. *(The Reporter, 2020)*
+« Dans le métier du traiteur itinérant, 40 ans, c'est être jeune. En général, on reprend l'affaire familiale. Parmi les moins de 30 ans, on en trouve à peine deux sur dix. Les aides de cuisine vieillissent de manière généralisée. » confie Li Jun-xiang, maître traiteur du Nouveau Taipei, décrivant la réalité du nord du pays. _(The Reporter, 2020)_
 
 Seulement **2 %** des diplômés des écoles de cuisine se tournent vers l'itinérance. La raison est simple : pour un banquet de midi, il faut partir à 3h30 du matin. Les horaires sont longs, les feux de cuisson dégagent une chaleur intense. « Les jeunes se plaignent dès qu'ils restent debout un moment. Autant aller travailler en restaurant, au moins il y a la climatisation. » Les maîtres les plus débrouillards ouvrent un restaurant ou une salle de banquets. Les anciens, quand ils ne peuvent plus tenir debout, choisissent la retraite — et emportent avec eux bien plus que leurs gestes culinaires.
 
 Li Jun-xiang ajoute : « Les anciens faisaient tout eux-mêmes, de l'abattage du porc et du poulet jusqu'aux puddings et gâteaux du dessert. Aujourd'hui, avec les sous-traitants et les plats surgelés, les apprentis n'apprennent plus grand-chose. Avec le temps, tout le monde devient paresseux. On ne prend plus la peine de préparer les anguilles soi-même — on préfère recevoir des ingrédients prêts à réchauffer. C'est comme ça que certains plats de savoir-faire disparaissent. »
 
-Le *jī zǎi zhū dù biē* (雞仔豬肚鱉) du film « The Founder » — tortue à carapace molle et poulet fermier farcis dans un estomac de porc, mijotés trois heures —, presque plus personne ne sait le préparer aujourd'hui.
+Le _jī zǎi zhū dù biē_ (雞仔豬肚鱉) du film « The Founder » — tortue à carapace molle et poulet fermier farcis dans un estomac de porc, mijotés trois heures —, presque plus personne ne sait le préparer aujourd'hui.
 
 ## La pandémie : le plus long des hivers
 
 En 2020, Xue Meng-hui a vu plus de 500 commandes annulées pour les deuxième et troisième mois du calendrier lunaire. Ce fils d'une grande famille de 辦桌, habitué à manier des spatules grandes comme des pelles, n'a pu que saisir une petite louche pour préparer des bento.
 
-*The Reporter* a interrogé une dizaine de maîtres traiteurs du nord au sud du pays : les commandes de traiteur itinérant ont diminué d'au moins **90 %**. Le Ministère de l'Économie a enregistré une baisse de **32,3 %** du chiffre d'affaires annuel d'avril 2020 dans le secteur du traiteur itinérant et de la restauration collective — mais ce chiffre sous-estime encore la réalité : la grande majorité des opérateurs de 辦桌 n'ont pas d'enregistrement commercial et sont tout simplement absents des statistiques.
+_The Reporter_ a interrogé une dizaine de maîtres traiteurs du nord au sud du pays : les commandes de traiteur itinérant ont diminué d'au moins **90 %**. Le Ministère de l'Économie a enregistré une baisse de **32,3 %** du chiffre d'affaires annuel d'avril 2020 dans le secteur du traiteur itinérant et de la restauration collective — mais ce chiffre sous-estime encore la réalité : la grande majorité des opérateurs de 辦桌 n'ont pas d'enregistrement commercial et sont tout simplement absents des statistiques.
 
-> **✦** « Notre inquiétude ne porte pas seulement sur cette année. On craint surtout que les gens prennent l'habitude de ne plus commander de 辦桌. » — Cai Yu-feng, maître traiteur de Tainan *(The Reporter, 2020)*
+> **✦** « Notre inquiétude ne porte pas seulement sur cette année. On craint surtout que les gens prennent l'habitude de ne plus commander de 辦桌. » — Cai Yu-feng, maître traiteur de Tainan _(The Reporter, 2020)_
 
 Dans le nord de Taïwan, les difficultés du 辦桌 sont amplifiées par une dimension politique de l'espace. Li Jun-xiang, qui travaille à Nouveau Taipei, doit déposer des demandes pour bloquer les rues et solliciter des autorisations de voirie — les signalements de voisins sont monnaie courante. « Il nous arrive de faire frire quelque chose, et les résidents d'à côté nous insultent et menacent d'alerter le bureau de l'environnement pour pollution atmosphérique. Certains, plus énervés, jettent des objets depuis leurs fenêtres pour nous chasser. » À Taipei, les centres culturels municipaux et les préaux d'écoles primaires refusent quasiment toujours d'accueillir des banquets — sans lieu où s'installer, comment envisager une transmission ?
 

@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 featured: true
 lastVerified: 2026-04-13
 lastHumanReview: true
-translatedFrom: 'History/大罷免.md'
+translatedFrom: "History/大罷免.md"
+sourceCommitSha: "887af6c4"
+sourceContentHash: "sha256:81f328afe392aa26"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 > 📝 **En 30 secondes :**

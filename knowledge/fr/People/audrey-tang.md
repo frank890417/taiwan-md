@@ -2,7 +2,17 @@
 title: 'Audrey Tang'
 description: "Autodidacte dès l'âge de 8 ans, première ministre transgenre au monde, elle réinvente la démocratie numérique grâce à l'esprit open source"
 date: 2026-03-21
-tags: [Personnalité, Audrey Tang, Ministère du Numérique, g0v, transgenre, programmation, gouvernement ouvert, vTaiwan]
+tags:
+  [
+    Personnalité,
+    Audrey Tang,
+    Ministère du Numérique,
+    g0v,
+    transgenre,
+    programmation,
+    gouvernement ouvert,
+    vTaiwan,
+  ]
 subcategory: 'Éducation et société'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +20,9 @@ readingTime: 10
 featured: true
 translatedFrom: 'People/唐鳳.md'
 lastVerified: 2026-03-21
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:a082c7ac24170454'
+translatedAt: '2026-04-14T19:14:43+08:00'
 ---
 
 # Audrey Tang
@@ -118,11 +131,11 @@ Elle est profondément influencée par le principe **« Code is Law »** : à l'
 
 Le modèle de gouvernance innovant d'Audrey Tang est hautement reconnu à l'étranger :
 
-- En **2019**, elle figure dans la liste des « 100 penseurs mondiaux » du magazine *Foreign Policy*
-- *Time* magazine la désigne comme innovatrice numérique
+- En **2019**, elle figure dans la liste des « 100 penseurs mondiaux » du magazine _Foreign Policy_
+- _Time_ magazine la désigne comme innovatrice numérique
 - Elle a été Jeune Leader Mondial du Forum économique mondial
 
-Sa conférence TED, *How digital innovation can fight pandemics and strengthen democracy*, présente au monde l'expérience de gouvernance numérique de Taïwan. De nombreux gouvernements envoient des représentants à Taïwan pour étudier le modèle qu'elle a contribué à construire.
+Sa conférence TED, _How digital innovation can fight pandemics and strengthen democracy_, présente au monde l'expérience de gouvernance numérique de Taïwan. De nombreux gouvernements envoient des représentants à Taïwan pour étudier le modèle qu'elle a contribué à construire.
 
 ## Une influence durable sur la société taïwanaise
 

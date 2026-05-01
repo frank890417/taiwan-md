@@ -4,11 +4,22 @@ description: "En novembre 1977, lors de l'Incident de Zhongli, cette pharmacienn
 date: 2026-04-05
 category: People
 subcategory: 'Politique et démocratie'
-tags: ['Incident de Zhongli', 'Mouvement Tangwai', 'Assemblée provinciale', 'Transition démocratique', 'Femmes en politique', 'Parti démocrate progressiste']
+tags:
+  [
+    'Incident de Zhongli',
+    'Mouvement Tangwai',
+    'Assemblée provinciale',
+    'Transition démocratique',
+    'Femmes en politique',
+    'Parti démocrate progressiste',
+  ]
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-04-05
 translatedFrom: 'People/黃玉嬌.md'
+sourceCommitSha: 'a9bade27'
+sourceContentHash: 'sha256:cac2434cbb03924f'
+translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 
 > **En 30 secondes :** Le 19 novembre 1977, en fin d'après-midi, devant le commissariat de Zhongli. Huang Yu-chiao, candidate à l'Assemblée provinciale âgée de 58 ans, se tient aux côtés du chef du commissariat He Fuming et de Xu Guotai, frère de Xu Xinliang, pour exhorter la foule à « respecter l'ordre légal et ne pas agir impulsivement ». Elle n'est pas l'instigatrice de l'Incident de Zhongli — elle est celle qui a tenté de le freiner. Et pourtant, ce soir-là, elle est élue à l'Assemblée provinciale aux côtés de Xu Xinliang. Réélue quatre fois consécutives, jusqu'au 9e mandat, elle forme avec Su Hong Yue-jiao de Yunlin le duo surnommé « les Deux Joyaux, Nord et Sud ». C'est un portrait féminin de l'histoire démocratique de Taïwan — plus complexe, et bien moins romantisé, que la légende ne le laisse croire.

@@ -10,6 +10,9 @@ readingTime: 6
 featured: false
 translatedFrom: 'Art/台灣現代詩.md'
 lastVerified: 2026-03-23
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:76772688d61c205f'
+translatedAt: '2026-04-14T09:31:15+08:00'
 ---
 
 # 대만 현대시: 뜻밖의 향토화 예언

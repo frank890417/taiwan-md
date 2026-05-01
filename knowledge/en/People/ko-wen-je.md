@@ -18,6 +18,9 @@ lastHumanReview: false
 featured: false
 readingTime: 8
 translatedFrom: 'People/柯文哲.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:07cd9f09350b5c18'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Ko Wen-je

@@ -20,6 +20,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/金針菇.md'
 readingTime: 9
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:c7df79384a3f8e53'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 김(통칭 ‘금침구’)은 구장 한국 서포트가 아니다——원거리 크리에이터다. 중국어로 대만 생활을 기록해 ‘대만의 한국인’을 정주행 가능한 장르로 만들었고, 단일 영상·이벤트를 넘어선 영향력을 가진다.

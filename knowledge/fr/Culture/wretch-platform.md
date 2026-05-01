@@ -8,7 +8,10 @@ category: 'Culture'
 author: 'Taiwan.md Translation Team'
 featured: false
 lastVerified: 2026-03-23
-translatedFrom: 'Culture/無名小站.md'
+translatedFrom: "Culture/無名小站.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:e0339531e5d43f7e"
+translatedAt: "2026-04-14T19:13:02+08:00"
 ---
 
 > **Résumé en 30 secondes :** Wretch.cc (無名小站) est une plateforme sociale taïwanaise fondée en 1999 par Jian Zhiyu, étudiant à l'Université nationale Chiao Tung.

@@ -9,12 +9,15 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-19
-translatedFrom: 'People/席慕蓉.md'
+translatedFrom: "People/席慕蓉.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:310ac0cea3702788"
+translatedAt: "2026-04-14T19:14:57+08:00"
 ---
 
 # Hsi Mu-jung : Une symphonie poétique entre la steppe et la modernité
 
-Hsi Mu-jung est l'une des poétesses les plus influentes et les plus accessibles du monde sinophone — une femme de lettres dont les vers tendres ont touché d'innombrables âmes. Née en 1943 à Chongqing, d'ascendance mongole, élevée à Hong Kong, formée à Taïwan : cette pluralité de racines culturelles a façonné un univers poétique absolument singulier. Dès 1981, *Sept lieues de jasmin* fait l'effet d'une révélation. *La Jeunesse sans regrets*, l'année suivante, confirme une voix à nulle autre pareille. Par une langue fraîche et naturelle, une profondeur émotionnelle rare et des images d'une beauté saisissante, Hsi Mu-jung a conquis des millions de lecteurs des deux rives du détroit. Poétesse, peintre et essayiste, elle est aussi une ambassadrice culturelle qui relie la ville moderne à la steppe mongole, bâtissant en mots un monde intérieur plein de poésie.
+Hsi Mu-jung est l'une des poétesses les plus influentes et les plus accessibles du monde sinophone — une femme de lettres dont les vers tendres ont touché d'innombrables âmes. Née en 1943 à Chongqing, d'ascendance mongole, élevée à Hong Kong, formée à Taïwan : cette pluralité de racines culturelles a façonné un univers poétique absolument singulier. Dès 1981, _Sept lieues de jasmin_ fait l'effet d'une révélation. _La Jeunesse sans regrets_, l'année suivante, confirme une voix à nulle autre pareille. Par une langue fraîche et naturelle, une profondeur émotionnelle rare et des images d'une beauté saisissante, Hsi Mu-jung a conquis des millions de lecteurs des deux rives du détroit. Poétesse, peintre et essayiste, elle est aussi une ambassadrice culturelle qui relie la ville moderne à la steppe mongole, bâtissant en mots un monde intérieur plein de poésie.
 
 ## Des racines plurielles
 
@@ -30,27 +33,27 @@ Après le lycée, Hsi Mu-jung intègre le département des beaux-arts de l'Unive
 
 Diplômée en 1966, elle reçoit une bourse de l'Université catholique de Louvain, en Belgique. Ce séjour européen élargit encore son horizon : musées, cathédrales, architecture ancienne — autant de chocs esthétiques qui enrichissent sa vision artistique.
 
-## *Sept lieues de jasmin* : une entrée fracassante en poésie
+## _Sept lieues de jasmin_ : une entrée fracassante en poésie
 
-Pendant les années 1970, Hsi Mu-jung se consacre principalement à la peinture et à l'enseignement, la poésie restant une pratique intime et personnelle. La publication de *Sept lieues de jasmin* en 1981 change tout. Le recueil connaît un succès foudroyant, rééditée des dizaines de fois en quelques mois à peine.
+Pendant les années 1970, Hsi Mu-jung se consacre principalement à la peinture et à l'enseignement, la poésie restant une pratique intime et personnelle. La publication de _Sept lieues de jasmin_ en 1981 change tout. Le recueil connaît un succès foudroyant, rééditée des dizaines de fois en quelques mois à peine.
 
 Ce triomphe n'a rien de fortuit. La langue de Hsi Mu-jung est limpide, sans artifice ni obscurité forcée — elle atteint la vérité des sentiments dans le simple, la profondeur dans le dépouillé. Elle a ce talent rare de transformer les images du quotidien — fleurs, lune, vent, pluie — en vecteurs d'émotions complexes.
 
-Le poème emblématique du recueil, *Un arbre en fleurs*, est entré depuis dans le canon de la poésie sinophone : « Comment te faire croiser ma route / au moment le plus beau de ma vie / Pour cela / j'ai supplié le Bouddha pendant cinq cents ans / de nous accorder ce lien d'une existence. » Ces vers, d'une beauté épurée et d'une sincérité bouleversante, continuent d'être récités et chantés des décennies après.
+Le poème emblématique du recueil, _Un arbre en fleurs_, est entré depuis dans le canon de la poésie sinophone : « Comment te faire croiser ma route / au moment le plus beau de ma vie / Pour cela / j'ai supplié le Bouddha pendant cinq cents ans / de nous accorder ce lien d'une existence. » Ces vers, d'une beauté épurée et d'une sincérité bouleversante, continuent d'être récités et chantés des décennies après.
 
-## *La Jeunesse sans regrets* : méditation sur le temps qui passe
+## _La Jeunesse sans regrets_ : méditation sur le temps qui passe
 
-Publié en 1982, *La Jeunesse sans regrets* poursuit l'élan de *Sept lieues de jasmin*. Ce recueil se penche davantage sur la jeunesse, l'amour, l'amitié — les grandes traversées de l'existence. Le poème-titre exprime une tendresse mélancolique pour les années révolues, une célébration de ce qui fut sans en nier la perte.
+Publié en 1982, _La Jeunesse sans regrets_ poursuit l'élan de _Sept lieues de jasmin_. Ce recueil se penche davantage sur la jeunesse, l'amour, l'amitié — les grandes traversées de l'existence. Le poème-titre exprime une tendresse mélancolique pour les années révolues, une célébration de ce qui fut sans en nier la perte.
 
 La maturité technique est ici plus affirmée. Hsi Mu-jung excelle à construire un climat poétique en partant d'un détail concret — une scène, un objet — pour s'élever jusqu'à une dimension philosophique. Sa poésie est également très musicale : le rythme, la cadence, la fluidité des syllabes en font des textes faits pour être dits à voix haute. Nombreux sont ceux qui ont découvert la poésie grâce à ces vers qui s'apprennent presque d'eux-mêmes.
 
 ## L'appel de la steppe mongole
 
-Parallèlement à la poésie, Hsi Mu-jung s'impose comme essayiste. À partir de la fin des années 1980, elle publie plusieurs recueils de prose — *Les traces de la croissance*, *Il existe une chanson* — dans un style qui prolonge la grâce de ses poèmes.
+Parallèlement à la poésie, Hsi Mu-jung s'impose comme essayiste. À partir de la fin des années 1980, elle publie plusieurs recueils de prose — _Les traces de la croissance_, _Il existe une chanson_ — dans un style qui prolonge la grâce de ses poèmes.
 
 En 1989, elle foule pour la première fois la steppe mongole. Ce voyage aux sources est un tournant. La découverte de ses origines mongoles, longtemps vécues de loin, déclenche un flux créateur nouveau. Elle compose alors de nombreux poèmes et essais consacrés à la Mongolie, à sa langue et à sa culture.
 
-Des œuvres comme *Ma demeure est sur les hauts plateaux* et *Les paysages attendent encore* témoignent d'une relation profonde à cet héritage ancestral. Par la forme de la poésie moderne, elle interroge la question de l'appartenance culturelle et de l'identité. Cette dimension mongole enrichit la littérature sinophone d'une voix venue de la steppe.
+Des œuvres comme _Ma demeure est sur les hauts plateaux_ et _Les paysages attendent encore_ témoignent d'une relation profonde à cet héritage ancestral. Par la forme de la poésie moderne, elle interroge la question de l'appartenance culturelle et de l'identité. Cette dimension mongole enrichit la littérature sinophone d'une voix venue de la steppe.
 
 ## Peinture et poésie : une œuvre à double voix
 

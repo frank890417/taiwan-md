@@ -7,6 +7,9 @@ subcategory: '음악'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/鄧雨賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:e8046886d7414c75'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 # 덩위셴: 대만 가요의 토대를 놓은 작곡가

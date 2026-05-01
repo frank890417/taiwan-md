@@ -9,6 +9,9 @@ author: 'Taiwan.md Translation Team'
 featured: false
 readingTime: 8
 translatedFrom: 'People/童子賢.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c1d775b461f7938c'
+translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 
 # 퉁쯔셴: 기술과 인문을 가로지르는 사유가

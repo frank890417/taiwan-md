@@ -11,7 +11,10 @@ category: 'History'
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: 'History/台灣鐵道史.md'
+translatedFrom: "History/台灣鐵道史.md"
+sourceCommitSha: "956a36f3"
+sourceContentHash: "sha256:b934d409b4731aff"
+translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 
 # Histoire ferroviaire de Taïwan
@@ -20,7 +23,7 @@ translatedFrom: 'History/台灣鐵道史.md'
 
 ## La mésaventure ferroviaire de Davidson
 
-En 1895, le journaliste américain James W. Davidson débarque à Taïwan et monte à bord d'un train reliant Keelung à Taipei. Ce qu'il observe là l'amène à en rendre compte dans son ouvrage *The Island of Formosa* : des voyageurs munis de billets de deuxième classe s'entassent dans le wagon de première, d'autres embarquent avec des poulets, des porcelets et des paniers de légumes, et la rame se met à tanguer dès les premiers kilomètres — au point que les passagers et les animaux se balancent ensemble de droite à gauche dans un concert de grincements.
+En 1895, le journaliste américain James W. Davidson débarque à Taïwan et monte à bord d'un train reliant Keelung à Taipei. Ce qu'il observe là l'amène à en rendre compte dans son ouvrage _The Island of Formosa_ : des voyageurs munis de billets de deuxième classe s'entassent dans le wagon de première, d'autres embarquent avec des poulets, des porcelets et des paniers de légumes, et la rame se met à tanguer dès les premiers kilomètres — au point que les passagers et les animaux se balancent ensemble de droite à gauche dans un concert de grincements.
 
 Voilà la réalité du chemin de fer de Liu Mingchuan.
 
@@ -90,14 +93,14 @@ Du bord du gouffre à un chiffre d'affaires annuel de 50 milliards, l'histoire d
 
 > 📝 **Note de mise en perspective :** Le dossier BOT du TGV a appris à Taïwan une chose essentielle : le « zéro investissement public » a beau faire rêver, le risque inhérent à une infrastructure de cette envergure doit bien être assumé par quelqu'un. La grande majorité des lignes à grande vitesse dans le monde sont financées par les États. Il aura fallu vingt ans à Taïwan pour comprendre pourquoi.
 
-| Chiffres clés du TGV taïwanais | |
-|---|---|
-| Longueur de la ligne | 350 km (Nangang — Zuoying) |
-| Année de mise en service | 2007 |
-| Coût de construction | Environ 513,3 milliards NT$ |
-| Passagers transportés en 2024 | 78,25 millions |
-| Chiffre d'affaires 2024 | 53,19 milliards NT$ |
-| Vitesse maximale d'exploitation | 300 km/h |
+| Chiffres clés du TGV taïwanais  |                             |
+| ------------------------------- | --------------------------- |
+| Longueur de la ligne            | 350 km (Nangang — Zuoying)  |
+| Année de mise en service        | 2007                        |
+| Coût de construction            | Environ 513,3 milliards NT$ |
+| Passagers transportés en 2024   | 78,25 millions              |
+| Chiffre d'affaires 2024         | 53,19 milliards NT$         |
+| Vitesse maximale d'exploitation | 300 km/h                    |
 
 ## La réforme au prix de 49 vies
 

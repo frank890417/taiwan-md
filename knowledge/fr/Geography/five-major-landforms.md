@@ -9,7 +9,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
-translatedFrom: 'Geography/台灣五大地形與地理結構.md'
+translatedFrom: "Geography/台灣五大地形與地理結構.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:9995854111a5a543"
+translatedAt: "2026-04-15T17:33:26+08:00"
 ---
 
 # Les cinq grandes formes de relief de Taïwan : du massif central aux plaines côtières
@@ -264,10 +267,10 @@ Cette structure géographique est tout à la fois une contrainte et une source d
 
 ## Références
 
-- [Centre de surveillance géologique et de gestion minière du ministère des Affaires économiques](https://www.gsmma.gov.tw/), *Introduction à la géologie de Taïwan*
-- Kang Hsuan Educational Publishing Group, *Base de données « Connaître Taïwan »*
+- [Centre de surveillance géologique et de gestion minière du ministère des Affaires économiques](https://www.gsmma.gov.tw/), _Introduction à la géologie de Taïwan_
+- Kang Hsuan Educational Publishing Group, _Base de données « Connaître Taïwan »_
 - Wikipédia, [« Liste des chaînes de montagnes de Taïwan »](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%B1%B1%E8%84%88%E5%88%97%E8%A1%A8)
 - Wikipédia, [« Plaine de Jianan »](https://zh.wikipedia.org/zh-tw/%E5%98%89%E5%8D%97%E5%B9%B3%E5%8E%9F)
-- [Département des géosciences de l'Université nationale de Taïwan](http://www.gl.ntu.edu.tw/), *Interprétation géologique de la Chaîne côtière*
-- Association taïwanaise de randonnée et d'alpinisme, série *Les ressources montagneuses de Taïwan*
-- [Hanlin e-Academy](https://www.ehanlin.com.tw/), *Données géographiques sur les plaines de Taïwan*
+- [Département des géosciences de l'Université nationale de Taïwan](http://www.gl.ntu.edu.tw/), _Interprétation géologique de la Chaîne côtière_
+- Association taïwanaise de randonnée et d'alpinisme, série _Les ressources montagneuses de Taïwan_
+- [Hanlin e-Academy](https://www.ehanlin.com.tw/), _Données géographiques sur les plaines de Taïwan_

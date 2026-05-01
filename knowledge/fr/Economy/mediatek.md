@@ -9,7 +9,10 @@ author: Taiwan.md Translation Team
 readingTime: 10
 featured: false
 lastVerified: 2026-03-25
-translatedFrom: 'Economy/台灣企業：聯發科技.md'
+translatedFrom: "Economy/台灣企業：聯發科技.md"
+sourceCommitSha: "800114ea"
+sourceContentHash: "sha256:0c49eb028b1d20ab"
+translatedAt: "2026-04-14T19:21:16+08:00"
 ---
 
 > **En 30 secondes**
@@ -46,14 +49,14 @@ Tsai prend alors deux décisions. Premièrement, abandonner l'affrontement front
 
 > **Chiffres clés**
 >
-> | Indicateur | Données |
-> | --- | --- |
-> | Chiffre d'affaires 2024 | 16,52 milliards USD (hausse de +19 % sur un an) |
-> | CA sur 12 mois glissants (2025) | 19,1 milliards USD |
-> | Part de marché mondiale (puces smartphones) | 39 % (Qualcomm : 25,7 %) |
-> | Classement mondial IC design | 5e (TrendForce, 2024) |
-> | Investissement R&D sur 6 ans | Plus de 500 milliards NTD |
-> | Part des ingénieurs avec master ou doctorat | 81,8 % |
+> | Indicateur                                  | Données                                         |
+> | ------------------------------------------- | ----------------------------------------------- |
+> | Chiffre d'affaires 2024                     | 16,52 milliards USD (hausse de +19 % sur un an) |
+> | CA sur 12 mois glissants (2025)             | 19,1 milliards USD                              |
+> | Part de marché mondiale (puces smartphones) | 39 % (Qualcomm : 25,7 %)                        |
+> | Classement mondial IC design                | 5e (TrendForce, 2024)                           |
+> | Investissement R&D sur 6 ans                | Plus de 500 milliards NTD                       |
+> | Part des ingénieurs avec master ou doctorat | 81,8 %                                          |
 >
 > _Sources : [CompaniesMarketCap](https://companiesmarketcap.com/mediatek/revenue/), [rapport TrendForce 2025](https://www.trendforce.com/presscenter/news/20250317-12519.html), [Mirror Media](https://www.mirrormedia.mg/story/20241231fin001)_
 

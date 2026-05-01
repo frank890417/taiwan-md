@@ -10,6 +10,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/王建民.md'
+sourceCommitSha: '812e7574'
+sourceContentHash: 'sha256:3114edd9c9d8e0c4'
+translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 
 ## L'ascension du roi du sinker

@@ -10,7 +10,10 @@ featured: true
 category: 'Society'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Society/環保與永續發展.md'
+translatedFrom: "Society/環保與永續發展.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:58130043015789fc"
+translatedAt: "2026-04-14T12:32:44+08:00"
 ---
 
 # Environnement et développement durable : l'éveil vert d'une île
@@ -31,7 +34,7 @@ En **mars 1986**, lorsque la firme américaine DuPont annonce son intention d'im
 - Motif d'opposition : les rejets d'acide usé menaçaient l'aquaculture locale
 - Issue : DuPont renonce finalement au projet
 
-C'est la première victoire du mouvement environnemental à Taïwan. Les pêcheurs et habitants de Lukang ont prouvé par l'action que le développement économique ne saurait se payer du sacrifice de l'environnement. Le magazine *Renjian* a immortalisé le slogan de la mobilisation : « Nous voulons vivre, pas seulement survivre ! »
+C'est la première victoire du mouvement environnemental à Taïwan. Les pêcheurs et habitants de Lukang ont prouvé par l'action que le développement économique ne saurait se payer du sacrifice de l'environnement. Le magazine _Renjian_ a immortalisé le slogan de la mobilisation : « Nous voulons vivre, pas seulement survivre ! »
 
 ### 1988 : la création de l'Agence pour la protection de l'environnement, début de l'institutionnalisation
 
@@ -130,10 +133,10 @@ Le **11 mars 2011**, la catastrophe nucléaire de Fukushima au Japon bouleverse 
 **Croissance des capacités installées en énergies renouvelables (2015–2025) :**
 
 | Année | Solaire photovoltaïque (MW) | Éolien (MW) | Part des renouvelables |
-|-------|-----------------------------|-------------|------------------------|
+| ----- | --------------------------- | ----------- | ---------------------- |
 | 2015  | 1 769                       | 848         | 4,8 %                  |
 | 2020  | 6 214                       | 1 693       | 5,7 %                  |
-| 2025  | 20 000*                     | 6 200*      | 20 %*                  |
+| 2025  | 20 000\*                    | 6 200\*     | 20 %\*                 |
 
 \*Valeurs cibles
 

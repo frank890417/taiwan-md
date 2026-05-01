@@ -2,7 +2,13 @@
 title: 'Jian Li-Feng'
 description: "Ancien directeur général de Google Taïwan, figure clé du développement de l'IA à Taïwan, pionnier de la formation aux métiers du numérique"
 date: 2026-03-19
-tags: ['Google', 'Intelligence artificielle', 'Industrie technologique', 'Formation des talents']
+tags:
+  [
+    'Google',
+    'Intelligence artificielle',
+    'Industrie technologique',
+    'Formation des talents',
+  ]
 subcategory: 'Technologie et entreprise'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +16,9 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'People/簡立峰.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:638c3c318359c6b4'
+translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 
 # Jian Li-Feng : Le mentor de l'IA taïwanaise

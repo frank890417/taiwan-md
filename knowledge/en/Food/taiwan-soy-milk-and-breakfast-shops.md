@@ -16,6 +16,9 @@ featured: true
 category: 'Food'
 lastVerified: 2026-03-19
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:ba7ff819ca0777d2'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # Soy Milk and Breakfast Shops in Taiwan

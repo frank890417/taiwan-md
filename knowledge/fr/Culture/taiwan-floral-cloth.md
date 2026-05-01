@@ -10,6 +10,9 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣花布.md'
+sourceCommitSha: '2acf410b'
+sourceContentHash: 'sha256:d3e93a783d8e2299'
+translatedAt: '2026-04-14T12:34:01+08:00'
 ---
 
 # Les tissus à fleurs de Taïwan
@@ -46,7 +49,7 @@ Lorsque le mouvement de localisation prend son essor dans les années 1990, les 
 
 En réalité, les tissus à fleurs de Taïwan n'ont jamais été l'apanage des peuples autochtones d'ethnie hakka. Les recherches en histoire textile montrent que les consommateurs de tissus à fleurs des années 1950-1960 appartenaient à tous les groupes ethniques de l'île : Hokkiens, Hakkas, mais aussi les arrivants du continent. Dans chaque trousseau de mariage figuraient des draps à fleurs ; les cartables des écoliers étaient souvent confectionnés dans ce tissu. Les fleurs imprimées constituaient un souvenir de vie commun à tous les Taïwanais d'alors.
 
-La chercheuse Chen Zong-ping souligne dans son ouvrage *L'Époque des motifs* que l'appellation « tissu à fleurs hakka » serait née d'une stratégie de promotion adoptée dans les années 1990 dans le cadre du mouvement de renaissance de la culture hakka. La communauté hakka aurait enveloppé ces tissus d'une aura de tradition pour affirmer sa spécificité culturelle, sans que cela corresponde aux faits historiques.
+La chercheuse Chen Zong-ping souligne dans son ouvrage _L'Époque des motifs_ que l'appellation « tissu à fleurs hakka » serait née d'une stratégie de promotion adoptée dans les années 1990 dans le cadre du mouvement de renaissance de la culture hakka. La communauté hakka aurait enveloppé ces tissus d'une aura de tradition pour affirmer sa spécificité culturelle, sans que cela corresponde aux faits historiques.
 
 Plus fondamentalement, le tissu véritablement traditionnel des Hakkas est une grosse toile bleu foncé ou bleu-noir, utilisée pour confectionner des vêtements de travail et des tenues quotidiennes. Ce tissu sobre et résistant était l'étoffe de la vie des ancêtres hakkas, reflet de leur esprit d'économie et de labeur. Les tissus à fleurs aux couleurs vives sont, eux, des créations de l'industrialisation, dont les liens avec la tradition hakka restent ténus.
 

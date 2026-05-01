@@ -17,6 +17,9 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 lastVerified: 2026-03-27
 translatedFrom: 'Culture/巧固球.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:01a29994f0cdcf17'
+translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 
 ## 기원과 대만 전래

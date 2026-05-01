@@ -9,6 +9,9 @@ readingTime: 8
 author: 'Taiwan.md Translation Team'
 featured: false
 translatedFrom: 'Nature/台灣步道文化與公民守護.md'
+sourceCommitSha: '84e04168'
+sourceContentHash: 'sha256:c5189b4648b42385'
+translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 
 # 대만의 등산로 문화와 시민 보호 운동

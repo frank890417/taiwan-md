@@ -7,6 +7,9 @@ subcategory: '스포츠'
 category: 'People'
 author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/鄭兆村.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:bd6e73b952c9405f'
+translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 
 # 정자오춘: 창던지기 아시아의 왕

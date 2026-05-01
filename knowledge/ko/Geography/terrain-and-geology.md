@@ -8,6 +8,9 @@ category: 'Geography'
 author: 'Taiwan.md Translation Team'
 readingTime: 8
 translatedFrom: 'Geography/地形與地質.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1c19912f3b7cdf1b'
+translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 
 > **30초 요약:** 대만은 세계에서 가장 젊은 조산대 중 하나이지만, 동시에 2억 년이 넘은 고대 암석을 품고 있다. 필리핀해 판이 연간 8.2cm 속도로 충돌해, 대만은 세계에서 가장 빠른 조산 속도, 가장 조밀한 온천 분포, 연간 약 4만 회의 지진이라는 기록을 보유하고 있다. 36,197㎢의 이 섬은 지구상에서 가장 격렬한 지질 활동의 축소판이다.

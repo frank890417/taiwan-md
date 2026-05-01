@@ -2,7 +2,14 @@
 title: 'Miin : la plateforme qui traque les armées de faux comptes'
 description: "Conçue par le fondateur de PTT, Tu Yi-chin, Miin est une plateforme d'agrégation d'actualités propulsée par l'IA, capable de détecter les campagnes de manipulation coordonnées. Lors de la visite de Nancy Pelosi à Taïwan, ses données ont révélé qu'un compte sur quatre liés à l'événement sur Twitter était impliqué dans des opérations d'influence. Mais fin 2025, la plateforme s'est retrouvée accusée de violation de droits d'auteur après que ses robots d'indexation ont aspiré des centaines d'articles — exposant une zone grise juridique entre agrégation par IA et propriété intellectuelle de la presse."
 date: 2026-04-01
-tags: ['IA', 'désinformation', 'résilience numérique', 'Tu Yi-chin', 'guerre cognitive']
+tags:
+  [
+    'IA',
+    'désinformation',
+    'résilience numérique',
+    'Tu Yi-chin',
+    'guerre cognitive',
+  ]
 subcategory: 'Gouvernance numérique et civic tech'
 category: 'Technology'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +17,9 @@ featured: false
 lastVerified: 2026-04-01
 lastHumanReview: true
 translatedFrom: 'Technology/迷音Miin.md'
+sourceCommitSha: '0851f334'
+sourceContentHash: 'sha256:6a247587b9bacefb'
+translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 
 > **En 30 secondes :** Miin est une plateforme d'agrégation d'actualités développée par Taiwan AI Labs et pilotée par Tu Yi-chin, fondateur de PTT. Elle utilise l'IA pour compiler les reportages de différents médias sur un même événement, signaler les divergences de positionnement éditorial et détecter les « comptes à comportement coordonné » sur les réseaux sociaux. En 2022, lors de la visite de Nancy Pelosi à Taïwan, les analyses de Miin ont indiqué qu'un compte sur quatre lié à cet événement sur Twitter participait à des opérations d'influence[^1]. Fin 2025, le site d'information Apple Daily Taiwan (壹蘋新聞網) a accusé Miin d'avoir aspiré sans autorisation plus de 250 articles exclusifs via ses robots IA, entraînant un dépôt de plainte pénale contre Tu Yi-chin pour violation de la loi sur le droit d'auteur[^2]. L'histoire de Miin illustre, en première ligne, la tension croissante entre la défense contre la désinformation par l'IA et les droits de propriété intellectuelle de la presse.

@@ -19,6 +19,9 @@ featured: false
 lastVerified: 2026-04-16
 translatedFrom: 'People/邊荷律.md'
 readingTime: 9
+sourceCommitSha: '967e77ab'
+sourceContentHash: 'sha256:af29100685c178a2'
+translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 
 > **30초 요약:** 변하율은 CTBC 한국 치어 라인의 주축이다. 이야기의 절반은 무대, 절반은 저점에서도 나타나는 것이다. 2026년 가족 사건은 서사를 ‘높은 인기’에서 ‘높은 회복력’으로 옮겼다.

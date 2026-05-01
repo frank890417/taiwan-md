@@ -21,7 +21,10 @@ readingTime: 12
 category: Technology
 lastVerified: 2026-04-06
 lastHumanReview: false
-translatedFrom: 'Technology/電子商務與數位支付生態系.md'
+translatedFrom: "Technology/電子商務與數位支付生態系.md"
+sourceCommitSha: "e844a4b8"
+sourceContentHash: "sha256:e6d4ecca5e8c9269"
+translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 
 # Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île

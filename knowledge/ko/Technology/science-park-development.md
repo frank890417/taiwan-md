@@ -20,6 +20,9 @@ readingTime: 12
 featured: true
 translatedFrom: 'Technology/科技園區發展.md'
 lastVerified: 2026-03-25
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:9c6e710290cc0283'
+translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
 # 과학 단지 발전

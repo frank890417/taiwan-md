@@ -2,7 +2,16 @@
 title: 'Lee Yuan-tseh'
 description: 'Lauréat du prix Nobel de chimie en 1986, Lee Yuan-tseh a révolutionné la cinétique chimique grâce à la technique des faisceaux moléculaires croisés — premier Taïwanais à obtenir un prix Nobel scientifique'
 date: 2026-03-21
-tags: [personnalité, Lee Yuan-tseh, prix Nobel, chimie, scientifique, Academia Sinica, Taïwan]
+tags:
+  [
+    personnalité,
+    Lee Yuan-tseh,
+    prix Nobel,
+    chimie,
+    scientifique,
+    Academia Sinica,
+    Taïwan,
+  ]
 subcategory: 'Sciences et monde académique'
 category: 'People'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +19,9 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-21
 translatedFrom: 'People/李遠哲.md'
+sourceCommitSha: 'bd58e088'
+sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 
 # Lee Yuan-tseh

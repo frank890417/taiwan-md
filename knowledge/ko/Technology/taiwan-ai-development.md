@@ -12,6 +12,9 @@ featured: true
 lastVerified: 2026-04-04
 lastHumanReview: 2026-04-04
 translatedFrom: 'Technology/AI發展.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:46cf52e8771cb9b3'
+translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 
 # 타이완 인공지능 발전과 미래 전략

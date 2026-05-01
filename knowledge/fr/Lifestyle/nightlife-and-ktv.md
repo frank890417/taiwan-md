@@ -10,6 +10,9 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
 category: 'Lifestyle'
+sourceCommitSha: 87911554
+sourceContentHash: 'sha256:b2fc903c97041562'
+translatedAt: '2026-04-28T21:41:13+08:00'
 ---
 
 # La vie nocturne et la culture KTV

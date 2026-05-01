@@ -10,7 +10,10 @@ author: 'Taiwan.md Translation Team'
 readingTime: 12
 featured: false
 lastVerified: 2026-03-31
-translatedFrom: 'People/曾雅妮.md'
+translatedFrom: "People/曾雅妮.md"
+sourceCommitSha: "a05d2431"
+sourceContentHash: "sha256:890dbecd669ee83c"
+translatedAt: "2026-04-14T19:15:12+08:00"
 ---
 
 # Tseng Ya-ni
@@ -117,14 +120,14 @@ Plus profondément, elle a transformé la façon dont Taïwan perçoit ce sport.
 
 Ses 15 victoires LPGA et 5 trophées en Majeur demeurent le bilan le plus élevé jamais atteint par un athlète taïwanais sur un seul circuit professionnel international.
 
-| Année | Victoires LPGA | Titres Majeurs remportés | Remarques |
-|-------|---------------|--------------------------|-----------|
-| 2008 | 2 | 1 (LPGA Championship) | Premier Majeur en carrière |
-| 2009 | 1 | — | Gains de 2 millions USD — record de vitesse |
-| 2010 | 5 | 2 (Nabisco + Open féminin britannique) | Joueuse de l'année |
-| 2011 | 7 | 2 (LPGA Championship + Open féminin britannique) | Meilleure saison en carrière, 1ère semaine N°1 mondial |
-| 2012 | 3 | — | Troisième titre au classement des gains |
-| **Total (LPGA)** | **15** | **5** | **109 semaines N°1 mondial** |
+| Année            | Victoires LPGA | Titres Majeurs remportés                         | Remarques                                              |
+| ---------------- | -------------- | ------------------------------------------------ | ------------------------------------------------------ |
+| 2008             | 2              | 1 (LPGA Championship)                            | Premier Majeur en carrière                             |
+| 2009             | 1              | —                                                | Gains de 2 millions USD — record de vitesse            |
+| 2010             | 5              | 2 (Nabisco + Open féminin britannique)           | Joueuse de l'année                                     |
+| 2011             | 7              | 2 (LPGA Championship + Open féminin britannique) | Meilleure saison en carrière, 1ère semaine N°1 mondial |
+| 2012             | 3              | —                                                | Troisième titre au classement des gains                |
+| **Total (LPGA)** | **15**         | **5**                                            | **109 semaines N°1 mondial**                           |
 
 Ce chiffre de 109 semaines au sommet ne vaut pas par le rang lui-même, mais par ce qu'il représente : une excellence tenace, constante, inlassablement renouvelée.
 

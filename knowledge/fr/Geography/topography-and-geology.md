@@ -2,7 +2,15 @@
 title: 'Topographie et géologie de Taïwan'
 description: "Une île de 6 millions d'années qui renferme des mémoires vieilles de 200 millions d'années — le miracle d'une des chaînes de montagnes les plus jeunes et de la collision tectonique la plus violente du globe"
 date: 2026-03-23
-tags: [géographie, géologie, tectonique des plaques, orogénèse, séismes, sources thermales]
+tags:
+  [
+    géographie,
+    géologie,
+    tectonique des plaques,
+    orogénèse,
+    séismes,
+    sources thermales,
+  ]
 subcategory: 'Climat et sources thermales'
 category: 'Geography'
 author: 'Taiwan.md Translation Team'
@@ -10,6 +18,9 @@ readingTime: 8
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Geography/地形與地質.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:1c19912f3b7cdf1b'
+translatedAt: '2026-04-15T17:33:45+08:00'
 ---
 
 > **Vue d'ensemble en 30 secondes :** Taïwan est l'une des chaînes de montagnes les plus jeunes du monde, et pourtant l'île conserve des roches vieilles de plus de 200 millions d'années.
@@ -70,13 +81,13 @@ Ces roches anciennes ont traversé plusieurs phases d'orogénèse :
 
 Les cinq grandes chaînes de montagnes de Taïwan se sont formées à des époques très différentes :
 
-| Chaîne de montagnes | Ère géologique | Période de formation | Lithologie principale |
-|---|---|---|---|
-| Chaîne centrale | Paléozoïque – Mésozoïque | 250 M – 65 M d'années | Roches métamorphiques |
-| Chaîne de Xueshan | Paléogène | 58 M – 25 M d'années | Roches sédimentaires |
-| Chaîne de Yushan | Paléogène | 58 M – 20 M d'années | Ardoise, phyllite |
-| Chaîne de l'Alishan | Néogène | 25 M – 1,9 M d'années | Grès, schiste argileux |
-| Chaîne côtière | Néogène – Quaternaire | 25 M – 2 M d'années | Roches volcaniques, sédimentaires |
+| Chaîne de montagnes | Ère géologique           | Période de formation  | Lithologie principale             |
+| ------------------- | ------------------------ | --------------------- | --------------------------------- |
+| Chaîne centrale     | Paléozoïque – Mésozoïque | 250 M – 65 M d'années | Roches métamorphiques             |
+| Chaîne de Xueshan   | Paléogène                | 58 M – 25 M d'années  | Roches sédimentaires              |
+| Chaîne de Yushan    | Paléogène                | 58 M – 20 M d'années  | Ardoise, phyllite                 |
+| Chaîne de l'Alishan | Néogène                  | 25 M – 1,9 M d'années | Grès, schiste argileux            |
+| Chaîne côtière      | Néogène – Quaternaire    | 25 M – 2 M d'années   | Roches volcaniques, sédimentaires |
 
 ## Le quotidien d'un royaume sismique
 
