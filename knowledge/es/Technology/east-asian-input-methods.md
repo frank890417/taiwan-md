@@ -1,19 +1,30 @@
-title: "El conflicto civilizacional sobre el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental"
-description: "Cuando todos los teclados del mundo tienen el mismo diseño, ¿cómo logran distintas civilizaciones insertar sus escrituras dentro de las 26 letras del alfabeto latino? Del zhuyin de Taiwán al dubeolsik de Corea del Sur, los métodos de entrada son una silenciosa batalla por la preservación cultural."
+---
+title: 'El conflicto civilizacional sobre el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental'
+description: 'Cuando todos los teclados del mundo tienen el mismo diseño, ¿cómo logran distintas civilizaciones insertar sus escrituras dentro de las 26 letras del alfabeto latino? Del zhuyin de Taiwán al dubeolsik de Corea del Sur, los métodos de entrada son una silenciosa batalla por la preservación cultural.'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Technology"
-subcategory: "文字與工具"
-tags: ["métodos de entrada", "tecnología", "cultura", "zhuyin", "cangjie", "teclado", "digitalización", "Asia Oriental", "escritura"]
+author: 'Taiwan.md'
+category: 'Technology'
+subcategory: '文字與工具'
+tags:
+  [
+    'métodos de entrada',
+    'tecnología',
+    'cultura',
+    'zhuyin',
+    'cangjie',
+    'teclado',
+    'digitalización',
+    'Asia Oriental',
+    'escritura',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Technology/東亞文字輸入法.md"
-sourceCommitSha: "800114ea"
-sourceContentHash: "sha256:073b6227b6cef1d7"
-translatedAt: "2026-05-01T20:54:23+08:00"
-
+translatedFrom: 'Technology/東亞文字輸入法.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:073b6227b6cef1d7'
+translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 
 # El conflicto civilizacional sobre el teclado: un siglo de evolución de los métodos de entrada de texto en Asia Oriental

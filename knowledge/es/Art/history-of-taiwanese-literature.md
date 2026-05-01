@@ -1,3 +1,4 @@
+---
 title: 'Historia de la literatura taiwanesa'
 description: 'Desde que se cuestionó "¿Tiene Taiwán literatura?" hasta que Yang Kui ganó por primera vez un premio en Japón, desde la represión lingüística hasta la recuperación de múltiples voces: una epopeya de cuatrocientos años sobre voces que buscan palabras y palabras que buscan un hogar'
 date: 2026-03-24

@@ -113,11 +113,18 @@ jobs:
             CATEGORY=$(echo "$FILE" | sed "s|knowledge/$LANG/\([^/]*\)/.*|\1|")
             echo "  📂 Category: $CATEGORY"
             
-            # Warn about potential issues
-            # 2026-05-01 γ-late2: 排除 URL / citation 行（OECD PISA / WorldSkills
-            # 等國際組織官方使用 "Chinese Taipei"，引用 source URL 屬於忠實
-            # 紀錄不算 endorse；只當文章 prose 用該詞才算 problematic）
-            if grep -iE "province of china|part of china|chinese taipei" "$FILE" 2>/dev/null | grep -vE "https?://" | grep -q .; then
+            # 2026-05-01 γ-late5 v3：whitelist 文章路徑（critique context）
+            # 這些文章本身在討論「Chinese Taipei / Province of China」這個爭議
+            # 用詞，必然會引用該詞。lint 不該誤把它們判成 endorsement。
+            BASENAME=$(basename "$FILE" .md)
+            CRITIQUE_FILES="taiwan-in-international-standards taiwans-labeling-in-international-standards taiwan-baseball-culture baseball-culture chi-cheng-flying-antelope"
+            IS_CRITIQUE=0
+            for cf in $CRITIQUE_FILES; do
+              [ "$BASENAME" = "$cf" ] && IS_CRITIQUE=1 && break
+            done
+
+            # Warn about potential issues — skip URL lines + critique-context files
+            if [ "$IS_CRITIQUE" = "0" ] && grep -iE "province of china|part of china|chinese taipei" "$FILE" 2>/dev/null | grep -vE "https?://" | grep -q .; then
               echo "  ❌ Contains problematic Taiwan reference (in prose, not source URL)"
               ERRORS=$((ERRORS + 1))
             fi
