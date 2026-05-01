@@ -3,9 +3,12 @@ title: 'Zhuge Liang (Showman)'
 description: 'Icon of Taiwan’s variety-show culture and a beloved Taiwanese-language comedian'
 date: 2026-03-19
 tags: ['豬哥亮', '秀場', '喜劇', '綜藝', '台語']
-subcategory: 'Digital & Media'
+subcategory: '數位與媒體'
 lastVerified: 2026-03-19
 translatedFrom: 'People/豬哥亮.md'
+sourceCommitSha: 83b74a21
+sourceContentHash: 'sha256:88702d1dcebd6f35'
+translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 
 # Zhuge Liang (豬哥亮): The King of Taiwan’s Variety-Show Stage

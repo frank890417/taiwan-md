@@ -7,6 +7,9 @@ tags:
 subcategory: 'Music'
 lastVerified: 2026-03-19
 translatedFrom: 'People/張惠妹.md'
+sourceCommitSha: 2671bff6
+sourceContentHash: 'sha256:b4205405eb50bfe0'
+translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 
 # A‑Mei: a voice that crossed boundaries
