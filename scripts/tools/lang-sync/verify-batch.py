@@ -108,17 +108,22 @@ def main():
                 yaml_bugs.append(f"{p}: backslash-apostrophe in YAML single-quote (sonnet bug)")
                 errors.append(yaml_bugs[-1])
                 break
-        # Check for unquoted year as tag value
-        tag_match = re.search(r"^tags:\s*\n((?:\s+-.*\n|\s+\[.*?\]))", fm, re.M)
-        bare_year = re.findall(r"(?:[\[,\s])(\d{4})(?:[,\]\s])", fm)
-        if bare_year and "tags" in fm:
-            for y in bare_year:
-                # Heuristic: only complain if it's in tag-like context
-                if re.search(rf"tags:.*?{y}", fm, re.S):
-                    if not re.search(rf"['\"]\s*{y}\s*['\"]", fm):
-                        yaml_bugs.append(f"{p}: unquoted year {y} (will parse as int)")
-                        warnings.append(yaml_bugs[-1])
-                        break
+        # Check for unquoted year as tag value (limit to actual tags block content)
+        # Extract just the tags block to avoid false positives from date: 2026-04-30 etc
+        tags_block_match = re.search(
+            r"^tags:\s*(?:\n((?:\s+-.*\n)+)|\[(.*?)\])",
+            fm, re.M | re.S
+        )
+        if tags_block_match:
+            tags_content = tags_block_match.group(1) or tags_block_match.group(2) or ""
+            # Find bare 4-digit years inside tags block (not inside quotes)
+            for y_match in re.finditer(r"(?:^|[\[,\s-])(\d{4})(?:[,\]\s]|$)", tags_content):
+                y = y_match.group(1)
+                # Check if this specific occurrence is quoted
+                if not re.search(rf"['\"]\s*{y}\s*['\"]", tags_content):
+                    yaml_bugs.append(f"{p}: unquoted year {y} in tags (will parse as int)")
+                    warnings.append(yaml_bugs[-1])
+                    break
     if yaml_bugs:
         log(f"   {len(yaml_bugs)} YAML issue(s) — see errors above")
     else:

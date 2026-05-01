@@ -116,6 +116,17 @@ knowledge/_translations.json (cache, by sync-translations-json.py)
 
 Maintainer 用 `lang-sync status` 抓出 stale/missing 清單，spawn N 隻 sub-agent 平行處理 N 篇。走 §平行 sub-agent 批次翻譯 SOP（2026-04-30 δ 新增）。
 
+### D. 文章更新即時同步（v3.4 新增 — sync-on-update mode）
+
+當 zh 文章 commit 後，自動偵測哪些語言翻譯變 stale，opt-in 立即同步該文章的所有語言翻譯，避免堆積到後續 routine 才處理。走 §sync-on-update 流程。
+
+**典型 use case**：
+
+- Maintainer 寫完 zh 文章 commit 後執行 `python3 scripts/tools/lang-sync/sync-on-update.py --article Lifestyle/X.md` 看每個 lang 的 stale 狀態
+- Pre-commit hook 警告「本次 commit 將 invalidate N 個翻譯」（軟性 reminder）
+- Post-commit cron 自動 prep micro-batch（單篇 × N 語言 = N 個 sub-agent）並 dispatch
+- 寫文章時順便處理多語同步，**不堆積長尾 stale 債務**
+
 ---
 
 ## 平行 sub-agent 批次翻譯 SOP（Maintainer，2026-04-30 δ 新增）
@@ -303,16 +314,48 @@ python3 scripts/tools/lang-sync/verify-batch.py
 | Retry 預算   | 無限                                  | **每 agent 限 1 retry**（防 token 失控）          |
 | Commit 粒度  | 每篇一個 commit                       | **整批一個 commit**（commit history 乾淨）        |
 
-### Known gaps 與已造橋（v3.3 update）
+### Known gaps 與已造橋（v3.4 update）
 
-| Gap                                             | 狀態                             | 工具                                                |
-| ----------------------------------------------- | -------------------------------- | --------------------------------------------------- |
-| Manifest 自動生成                               | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/prepare-batch.py`          |
-| 8 項 verify 統一入口                            | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/verify-batch.py`           |
-| 0-byte purge 自動化                             | ✅ 已造橋（v3.3）                | verify-batch.py Stage 0                             |
-| YAML escape pre-flight                          | ✅ 已造橋（v3.3）                | verify-batch.py Stage 2                             |
-| `refresh.sh --apply --sha-only` insert NEW case | ⏳ 不再緊急（manifest 預先注入） | `refresh.sh --insert` 子命令（待寫，但已 obviated） |
-| Slug map 自動推薦                               | ⏳ pending                       | 目前需手寫 `--slug-map` JSON                        |
+| Gap                                             | 狀態                             | 工具                                                 |
+| ----------------------------------------------- | -------------------------------- | ---------------------------------------------------- |
+| Manifest 自動生成                               | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/prepare-batch.py`           |
+| 8 項 verify 統一入口                            | ✅ 已造橋（v3.3）                | `scripts/tools/lang-sync/verify-batch.py`            |
+| 0-byte purge 自動化                             | ✅ 已造橋（v3.3）                | verify-batch.py Stage 0                              |
+| YAML escape pre-flight                          | ✅ 已造橋（v3.3）                | verify-batch.py Stage 2                              |
+| YAML pre-flight false-positive (date: YYYY)     | ✅ 已修（v3.4）                  | verify-batch.py 限定在 tags block 內檢查             |
+| 文章更新即時同步偵測                            | ✅ 已造橋（v3.4）                | `scripts/tools/lang-sync/sync-on-update.py`          |
+| Cross-link auto-fix per cycle                   | ⏳ pending（DNA #33 反向力對策） | 待加進 verify-batch.py 第 5 step                     |
+| `refresh.sh --apply --sha-only` insert NEW case | ⏳ 不再緊急（manifest 預先注入） | `refresh.sh --insert` 子命令（待寫，但已 obviated）  |
+| Slug map 自動推薦                               | ✅ 已造橋（v3.4 觀察）           | 從 `_translations.json` 反推導出 614 個 zh→slug 對應 |
+
+---
+
+## sync-on-update mode（v3.4 新增 — D 模式）
+
+> **核心理念**：寫文章時順便同步多語言，**不堆積長尾 stale 債務**。每篇 zh 文章 commit 後立即偵測哪些語言翻譯變 stale，opt-in 立即同步該文章的所有語言版本。
+
+### 觸發點
+
+| 觸發點                           | 命令                                                                                     | 行為                                     |
+| -------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 寫完 zh 文章 commit 後           | `python3 scripts/tools/lang-sync/sync-on-update.py --since HEAD~1 --summary-only`        | 顯示本次 commit invalidate 多少翻譯      |
+| 看單篇影響                       | `python3 scripts/tools/lang-sync/sync-on-update.py --article Lifestyle/X.md --all-langs` | 列出該篇所有 lang 狀態                   |
+| Pre-commit hook（軟性 reminder） | hook 跑上面命令 + 顯示提示                                                               | 「本次 commit 將 invalidate N 個翻譯」   |
+| 手動準備 micro-batch             | `--lang en --output-manifest .lang-sync-tasks/en/_micro.json`                            | 產出可餵給 prepare-batch 的 article list |
+
+### 跟 routine （C 模式）的分工
+
+- **C 模式**：定期 batch 處理 stale/missing backlog，適合大規模補空缺
+- **D 模式**：article-level 即時同步，適合每次寫文章後立刻同步該篇所有 lang
+- 兩者互補：C 模式清理累積長尾，D 模式防止新債務堆積
+
+### 工具
+
+`scripts/tools/lang-sync/sync-on-update.py`：
+
+- 輸入：`--since` git ref、`--article` 單篇、`--lang` 單一語言或 `--all-langs`
+- 輸出：summary（每 lang stale/missing count）+ 可選 micro-manifest（給 prepare-batch.py --input 用）
+- 不會自己翻譯 — 純偵測 + manifest 產出，dispatch 仍走主 session（手動 OR cron）
 
 ---
 
@@ -915,6 +958,7 @@ bash scripts/tools/bulk-pr-analyze.sh
 - **v3.1** | 2026-04-30 δ — 新增 §翻譯元則（觀察者校準四條：精準/專業/快速 + 中→英投影 + 不預設篇幅 + frontmatter & cross-ref 鐵律）。觸發：哲宇 EN 批次更新任務時直接 dictate 元則，需 canonical 化高於八階段流程的方向感。
 - **v3.2** | 2026-04-30 δ — 新增 §平行 sub-agent 批次翻譯 SOP（C 模式）+ 三模式架構重整（A 單篇 / B 外部批次合併 / C maintainer 平行 sub-agent）。觸發：4 隻 Opus agent × 5 篇首次跑後揭露批次 antipattern（分散探索浪費 / agent claim 不可信 / refresh.sh insert gap）。SOP 5 階段（P1 預處理 / P2 dispatch / P3 純執行 / P4 統一驗證 / P5 commit），Sonnet 升為預設模型，列出三個 known gaps 待造橋。
 - **v3.3** | 2026-05-01 δ2 — 三個 known gaps 全部造橋完成：(1) `prepare-batch.py` Stage P1 manifest 自動生成（含 snake-balance / wikilink target lookup / frontmatter placeholder） (2) `verify-batch.py` Stage P4 8 項統一驗證入口（含 0-byte purge / YAML pre-flight / DNA #31 自動 grep frontmatter）(3) refresh.sh insert gap 由 manifest 預注入解決，不需另寫子命令。新增 §批次規模 vs Usage budget cycle 對齊（5 小時 limit ≈ 30-35 篇 sonnet / cycle）。觸發：第二波 5 Sonnet × 10 篇驗證 batch antipattern fix 大量成功（frontmatter 正確率 25%→100%）+ usage 90% wrap up 教訓（50/cycle 太大）。完整評估：[reports/translation-batch-design-evaluation-2026-04-30-δ.md](../../reports/translation-batch-design-evaluation-2026-04-30-δ.md)。
+- **v3.4** | 2026-05-01 γ — 新增 §sync-on-update mode（D 模式）+ `sync-on-update.py` 工具：article-update 後即時偵測哪些 lang 翻譯變 stale，opt-in 立即同步該篇所有語言版本，避免堆積長尾。修 verify-batch.py YAML pre-flight 限定在 tags block 內檢查（消除 `date: YYYY-MM-DD` false positive）。Slug map 自動推薦：從 `_translations.json` 反推導出 614 個 zh→slug 對應（cross-lang 復用，ja/ko 直接 reuse en slug）。批次規模上限提高到 10 sub-agent × 10 articles = 100/batch（首次 JA batch 驗證）。新增 §C 模式 cross-link auto-fix per cycle 待辦（DNA #33 反向力對策）。觸發：5-cycle EN marathon 後哲宇要求 (1) 多語言 sync 變預設 (2) 文章更新時就處理翻譯 (3) 擴大 batch 規模測試極限。
 
 ---
 

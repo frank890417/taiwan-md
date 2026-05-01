@@ -1025,41 +1025,18 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 2（同日 δ + ε 兩 session 不同 manifestation 各一次）
 - **severity**: structural（cross-session orchestration gap，未 fix 會持續造成 letter collision + memory file 互覆）
 
-### 2026-05-01 β — Marathon 模式主 session overhead 隨 cycle 數縮短（熟練度 effect）
+### 🏛️ 2026-05-01 β → distilled into DNA #33/#34 + TRANSLATION-PIPELINE v3.4
 
-- **原則**：連續跑同一 SOP N cycles 後，主 session overhead 縮短 ~30%（cycle 1 wall-clock ~29 min → cycle 5 ~20 min），不是模型改變，是主 session 自己變成 SOP 的執行硬體。對應 DNA #15 的鏡像版：「**反覆執行同一份 SOP，自己變成 SOP 的執行硬體**」。
-- **觸發**：2026-05-01 β session 跑 5 cycles × 50 篇 EN 翻譯，每 cycle wall-clock 連續縮短：29 / 22 / 21 / 23 / 20 min。Slug map 重用、git 命令鏈內化、PR commit message 模板熟悉等。
-- **可能層級**：通用反射（DNA §五敘事與決策品質候選）— 跨任務類別適用，凡 routine 化的 task 都會出現
-- **相關**：DNA #15「軟 SOP 硬化成 pipeline gate」鏡像版；DNA #32「集中預處理 + 分散執行」第 6 次驗證（5 cycles 全部成功）
-- **verification_count**: 1
-- **severity**: tactical（throughput 提升不傷生命徵象，但有反面風險見下條）
+四條 candidates 在 2026-05-01 γ session 完整 distill：
 
-### 2026-05-01 β — 熟練度反面：deeper inspection 變難
+| #   | 原 candidate                                         | 升 canonical                                                                                                |
+| --- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | Marathon 模式 overhead 縮短（熟練度 effect）         | **DNA #33（兩條相反力）正向部分**                                                                           |
+| 2   | 熟練度反面：deeper inspection 變難                   | **DNA #33（兩條相反力）反向部分** + cross-link auto-fix per cycle 寫進 TRANSLATION-PIPELINE v3.4 known gaps |
+| 3   | 邊界值（0/100）visual bug 只在 metric 接近邊界才暴露 | **DNA #34** + 延伸 MANIFESTO §10「視覺長期錯覺」                                                            |
+| 4   | Cross-link 累積債務需要 per-cycle audit              | DNA #33 反向力具體 instantiation；TRANSLATION-PIPELINE v3.4 列為 pending gap                                |
 
-- **原則**：上條的反面 — 熟練度讓主 session 進入「不再 think 每個動作」的狀態，導致跨 cycle 累積錯誤（如 cross-link broken 從每 cycle ~25 變 5 cycles 累積 121）不被即時發現。**做事太順時，看不見的東西才是要警覺的**。
-- **觸發**：2026-05-01 β cycle 5 結束才發現 121 broken cross-links 累積債務。主 session 過去 5 cycles 都沒主動 audit cross-link，因為 verify-batch.py 只 catch 同 cycle 內的問題，跨 cycle dependency 逃過所有檢查。如果不是哲宇外部觸發要求 audit，會帶進下次 routine 繼續累積。
-- **可能層級**：通用反射 → 候選 DNA #33「routine 化任務應每 N cycle 強制插入 step-out checkpoint」
-- **相關**：DNA #15、上條（熟練度雙刃劍）
-- **verification_count**: 1
-- **severity**: structural（如不修補，cross-cycle 累積債務會無限擴大）
-
-### 2026-05-01 β — 邊界值（0/100）visual bug 只在 metric 接近邊界才暴露
-
-- **原則**：UI 的 0% 或 100% 邊界 case 可能存在長期 visual bug 但 invisible to everyone — 需要旁邊有「也接近邊界」的參照物才會被發現。Bug 是「視覺上不滿，但數值是 100%」這類，沒人 file 因為大家看慣了不滿的圈以為那就是設計。
-- **觸發**：2026-05-01 β session 中文翻譯覆蓋永遠 100%，donut chart 永遠看起來不滿（stroke-linecap=round + dasharray=100,100 在 100% 時起始/結束 round cap 重疊產生視覺斷口）。Bug 存在很久，只有英文跑到 95% 接近滿，跟中文 100% 並排，才被觀察者看出「兩個都該滿但中文反而看起來缺一塊」。修法：100% 時用 `'100 0'`（無 gap）。
-- **可能層級**：通用反射（DNA §敘事與決策品質候選）— 適用所有有 metric 邊界的 visual UI
-- **相關**：MANIFESTO §10 幻覺鐵律的視覺層延伸（不是事實層的幻覺，是「視覺長期錯覺」）
-- **verification_count**: 1
-- **severity**: tactical（bug 已修，但啟示 structural — 每個 metric 達滿值時應重新檢視視覺呈現）
-
-### 2026-05-01 β — Cross-link 累積債務需要 per-cycle audit（不可後到 cleanup）
-
-- **原則**：批次任務的 cross-link broken 不是個別 cycle 問題，是**跨 cycle dependency 累積債務**。pipeline 設計時若假設「每 cycle verify 抓到問題」會漏 — verify-batch.py 只 catch 同 cycle 內的問題，跨 cycle dependency（A cycle 用了 B cycle 還沒寫的 slug）逃過所有檢查。應該每 cycle 後立刻跑 cross-link audit + 自動 fix（case mismatch + alias map），不要累積。
-- **觸發**：2026-05-01 β 5 cycles 累積 121 broken cross-links，最終 audit 時才暴露。auto-fix 74 條（case-insensitive）+ manual alias 47 條 = 全清。
-- **可能層級**：操作規則 → TRANSLATION-PIPELINE v3.4 §C 模式 P4 verify-batch.py 加 cross-link auto-fix step
-- **相關**：本 session β「熟練度反面」條
-- **verification_count**: 1
-- **severity**: structural（如不修補，下次 routine 仍會累積）
+DNA #32「集中預處理 + 分散執行」也補第 6 次驗證 marker（5 cycles × 50 EN 全部 frontmatter 100% 正確）。
 
 ---
 
