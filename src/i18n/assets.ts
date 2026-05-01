@@ -306,4 +306,105 @@ background-image: url('https://taiwan.md/assets/svg/taiwan-icon-wiki.svg');
     'assets.script.copied': '✅ 已複製',
     'assets.script.failed': '❌ 複製失敗',
   },
+  fr: {
+    'assets.meta.title': 'Taiwan SVG — Contours de Taïwan en open source',
+    'assets.meta.description':
+      "Contours SVG précis et open source de Taïwan. L'IA dessine toujours Taïwan de travers — voici la version correcte.",
+    'assets.hero.title': 'Taiwan SVG — Contours de Taïwan en open source',
+    'assets.hero.subtitle':
+      "L'IA dessine toujours Taïwan de travers. Voici la version correcte.",
+    'assets.problem.title':
+      "🤖 Pourquoi l'IA dessine-t-elle toujours Taïwan de travers ?",
+    'assets.problem.p1':
+      "La plupart des modèles de génération d'images par IA manquent de données géographiques structurées sur Taïwan dans leurs jeux d'entraînement. Résultat : les images de Taïwan générées par IA sont souvent déformées, disproportionnées ou confondues avec d'autres îles.",
+    'assets.problem.p2.html':
+      "Taiwan.md fournit des contours SVG <strong>précis, open source et libres d'utilisation</strong> de Taïwan — une réponse définitive pour chaque situation nécessitant de savoir « à quoi ressemble Taïwan ».",
+    'assets.card1.title': 'taiwan-icon.svg',
+    'assets.card1.desc':
+      'Icône contour de Taïwan — Idéale pour icônes, logos, petites tailles',
+    'assets.card1.meta': 'Wikimedia Commons · ~6 Ko · CC',
+    'assets.card2.title': 'taiwan-simplemaps.svg',
+    'assets.card2.desc':
+      "SimpleMaps — Contour vectoriel propre, parfait pour l'intégration web",
+    'assets.card2.meta': 'SimpleMaps · ~5 Ko',
+    'assets.card3.title': 'taiwan-location-map.svg',
+    'assets.card3.desc':
+      'Carte de localisation — Avec coordonnées, marqueurs de villes, idéale pour référence géographique',
+    'assets.card3.meta': 'Wikimedia Commons · ~120 Ko · CC',
+    'assets.card4.title': 'taiwan-political-division.svg',
+    'assets.card4.desc':
+      'Division politique — Limites des comtés/villes, régions administratives complètes',
+    'assets.card4.meta': 'Wikimedia Commons · ~168 Ko · CC',
+    'assets.btn.download': 'Télécharger le SVG',
+    'assets.btn.copy': 'Copier le code SVG',
+    'assets.usage.title': "📝 Mode d'emploi",
+    'assets.usage.code':
+      '`<!-- Intégrer directement -->\n<img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200">\n<!-- En arrière-plan CSS -->\nbackground-image: url(\'https://taiwan.md/assets/svg/taiwan-icon-wiki.svg\');\n<!-- En Markdown -->\n![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)`',
+    'assets.license.title': '📄 Licence et attribution',
+    'assets.license.intro.html':
+      'Tous les fichiers SVG sont publiés sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Libres d\'utilisation, de modification et d\'usage commercial — il suffit de mentionner la source.',
+    'assets.license.sources.title': 'Sources',
+    'assets.license.source1.html':
+      '<strong>taiwan-icon.svg</strong> — Source : <a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">Wikimedia Commons : Taiwan-icon.svg</a>, Domaine public',
+    'assets.license.source2.html':
+      '<strong>taiwan-simplemaps.svg</strong> — Source : <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>, Licence libre (attribution à simplemaps.com requise)',
+    'assets.license.source3.html':
+      '<strong>taiwan-location-map.svg</strong> — Source : <a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">Wikimedia Commons : Taiwan_location_map.svg</a>, CC BY-SA 3.0, Auteur : NordNordWest',
+    'assets.license.source4.html':
+      '<strong>taiwan-political-division.svg</strong> — Source : <a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">Wikimedia Commons : Taiwan_ROC_political_division_map.svg</a>, CC BY-SA 3.0',
+    'assets.cta.text': 'Vous avez trouvé un problème ou avez des suggestions ?',
+    'assets.cta.btn': 'Contribuer sur GitHub',
+    'assets.script.copied': '✅ Copié',
+    'assets.script.failed': '❌ Échec',
+  },
+  es: {
+    'assets.meta.title': 'Taiwan SVG — Contorno de código abierto de Taiwán',
+    'assets.meta.description':
+      'Contornos SVG precisos y de código abierto de Taiwán. La IA siempre dibuja Taiwán mal — aquí está la versión correcta.',
+    'assets.hero.title': 'Taiwan SVG — Contorno de código abierto de Taiwán',
+    'assets.hero.subtitle':
+      'La IA siempre dibuja Taiwán mal. Aquí está la versión correcta.',
+    'assets.problem.title': '🤖 ¿Por qué la IA siempre dibuja Taiwán mal?',
+    'assets.problem.p1':
+      'La mayoría de los modelos de generación de imágenes con IA carecen de datos geográficos estructurados sobre Taiwán en sus conjuntos de entrenamiento. El resultado: las imágenes de Taiwán generadas por IA suelen estar distorsionadas, desproporcionadas o confundidas con otras islas.',
+    'assets.problem.p2.html':
+      'Taiwan.md proporciona contornos SVG <strong>precisos, de código abierto y de uso libre</strong> de Taiwán — una respuesta definitiva para cada situación que necesite saber «cómo es Taiwán».',
+    'assets.card1.title': 'taiwan-icon.svg',
+    'assets.card1.desc':
+      'Icono de contorno de Taiwán — Ideal para iconos, logotipos y tamaños pequeños',
+    'assets.card1.meta': 'Wikimedia Commons · ~6 KB · CC',
+    'assets.card2.title': 'taiwan-simplemaps.svg',
+    'assets.card2.desc':
+      'SimpleMaps — Contorno vectorial limpio, ideal para incrustar en la web',
+    'assets.card2.meta': 'SimpleMaps · ~5 KB',
+    'assets.card3.title': 'taiwan-location-map.svg',
+    'assets.card3.desc':
+      'Mapa de ubicación — Con coordenadas y marcadores de ciudades, ideal como referencia geográfica',
+    'assets.card3.meta': 'Wikimedia Commons · ~120 KB · CC',
+    'assets.card4.title': 'taiwan-political-division.svg',
+    'assets.card4.desc':
+      'División política — Límites de condados/ciudades, regiones administrativas completas',
+    'assets.card4.meta': 'Wikimedia Commons · ~168 KB · CC',
+    'assets.btn.download': 'Descargar SVG',
+    'assets.btn.copy': 'Copiar código SVG',
+    'assets.usage.title': '📝 Cómo usar',
+    'assets.usage.code':
+      '`<!-- Incrustar directamente -->\n<img src="https://taiwan.md/assets/svg/taiwan-icon-wiki.svg" alt="Taiwan" width="200">\n<!-- Como fondo CSS -->\nbackground-image: url(\'https://taiwan.md/assets/svg/taiwan-icon-wiki.svg\');\n<!-- En Markdown -->\n![Taiwan](https://taiwan.md/assets/svg/taiwan-icon-wiki.svg)`',
+    'assets.license.title': '📄 Licencia y atribución',
+    'assets.license.intro.html':
+      'Todos los archivos SVG se publican bajo <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. Uso, modificación y uso comercial libres — solo se requiere atribución.',
+    'assets.license.sources.title': 'Fuentes',
+    'assets.license.source1.html':
+      '<strong>taiwan-icon.svg</strong> — Fuente: <a href="https://commons.wikimedia.org/wiki/File:Taiwan-icon.svg" target="_blank">Wikimedia Commons: Taiwan-icon.svg</a>, Dominio público',
+    'assets.license.source2.html':
+      '<strong>taiwan-simplemaps.svg</strong> — Fuente: <a href="https://simplemaps.com/svg/country/tw" target="_blank">SimpleMaps</a>, Licencia libre (se requiere atribución a simplemaps.com)',
+    'assets.license.source3.html':
+      '<strong>taiwan-location-map.svg</strong> — Fuente: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_location_map.svg" target="_blank">Wikimedia Commons: Taiwan_location_map.svg</a>, CC BY-SA 3.0, Autor: NordNordWest',
+    'assets.license.source4.html':
+      '<strong>taiwan-political-division.svg</strong> — Fuente: <a href="https://commons.wikimedia.org/wiki/File:Taiwan_ROC_political_division_map.svg" target="_blank">Wikimedia Commons: Taiwan_ROC_political_division_map.svg</a>, CC BY-SA 3.0',
+    'assets.cta.text': '¿Encontraste un problema o tienes sugerencias?',
+    'assets.cta.btn': 'Contribuir en GitHub',
+    'assets.script.copied': '✅ Copiado',
+    'assets.script.failed': '❌ Error',
+  },
 } as const;

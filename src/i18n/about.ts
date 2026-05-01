@@ -1949,4 +1949,355 @@ export const aboutUI = {
     'about.sponsors.reference.note.html':
       'Modèles de référence : <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> et d\'autres modèles de parrainage de la communauté tech taïwanaise',
   },
+  es: {
+    'about.meta.title': 'Acerca de Taiwan.md',
+    'about.meta.description':
+      'La historia del origen de Taiwan.md, presentación del fundador e información de contacto',
+    'about.naming.title': '¿Por qué Taiwan.md?',
+    'about.naming.subtitle':
+      'Una coincidencia perfecta del formato técnico al símbolo cultural',
+    'about.naming.tech.icon': '📝',
+    'about.naming.tech.title': 'Nivel Técnico',
+    'about.naming.tech.desc.html':
+      ', el formato de documento más universal en el mundo de la programación. Usar el formato más amigable con la IA para que el mundo conozca Taiwán.',
+    'about.naming.symbol.icon': '🌍',
+    'about.naming.symbol.title': 'Nivel Simbólico',
+    'about.naming.symbol.desc.html':
+      ' resulta ser el dominio de nivel superior de código de país de Moldavia. Taiwán + Markdown = conectar al mundo a través del espíritu de código abierto.',
+    'about.naming.lucky.icon': '✨',
+    'about.naming.lucky.title': 'Una Coincidencia Afortunada',
+    'about.naming.lucky.desc':
+      'Sorprendentemente, nadie había reclamado aún el dominio taiwan.md. Quizás el universo nos decía que era el momento de hacer esto realidad.',
+    'about.stats.pages.number': '2744+',
+    'about.stats.pages.label': 'Páginas',
+    'about.stats.countries.number': '106',
+    'about.stats.countries.label': 'Países',
+    'about.stats.stars.number': '960+',
+    'about.stats.stars.label': 'Estrellas en GitHub',
+    'about.stats.contributors.number': '57+',
+    'about.stats.contributors.label': 'Colaboradores',
+    'about.stats.users.number': '60K+',
+    'about.stats.users.label': 'Usuarios',
+    'about.vision.p1':
+      'Taiwan.md es más que un sitio web. Es una carta al mundo.',
+    'about.vision.p2':
+      'Creemos que con un espíritu de código abierto, ojo de curador y formatos amigables con la IA, podemos ofrecer la respuesta más completa y sincera para cualquiera que quiera conocer Taiwán — ya sea humano o IA.',
+    'about.vision.p3.html':
+      'Esto no es una guía de viaje, ni propaganda política, ni un anuncio comercial.<br />Este es el museo de antropología digital de Taiwán, un fósil viviente de la cultura, un registro de la historia en construcción.',
+    'about.origin.title': 'El Nacimiento de Taiwan.md',
+    'about.origin.subtitle':
+      'De una chispa de inspiración en un paseo por la calle, a una puerta de entrada curada para que el mundo descubra Taiwán',
+    'about.timeline.2024-2025.date': '2024 — 2025',
+    'about.timeline.2024-2025.title': '"¿Cómo es Taiwán?"',
+    'about.timeline.2024-2025.desc':
+      'En eventos internacionales como la Bienal de Venecia, Art Basel Miami y la residencia Paris 104, Che-Yu era constantemente preguntado lo mismo por amigos internacionales: "¿Dónde puedo aprender sobre Taiwán?" Se dio cuenta de que no había un portal completo al que dirigirlos — Wikipedia era demasiado fría, la oficina de turismo demasiado superficial, y las noticias demasiado fragmentadas.',
+    'about.timeline.2026-02-03.date': '2026 / 02 — 03',
+    'about.timeline.2026-02-03.title': 'El Concepto Personal de SSOT',
+    'about.timeline.2026-02-03.p1':
+      'Mientras construía su sistema de conocimiento personal, Che-Yu propuso el concepto de "SSOT — Single Source of Truth": Tu CV, sitio web y biografías en redes sociales muestran tres versiones diferentes de ti mismo — ¿cuál es la real?',
+    'about.timeline.2026-02-03.p2.html':
+      'La solución es establecer una <strong>única fuente de verdad</strong>, con todas las plataformas sincronizándose desde ella. Este concepto resonó profundamente después de ser compartido en un meetup de la Conferencia Anual de IA Generativa el 11 de marzo de 2026 — Si la identidad de una persona necesita un SSOT, <strong>¿qué pasa con un país?</strong>',
+    'about.timeline.2026-03-11.date': '2026 / 03 / 11',
+    'about.timeline.2026-03-11.title':
+      'Charla en Meetup de IA: "Mi Código Finalmente Cobró Vida"',
+    'about.timeline.2026-03-11.p1':
+      'Che-Yu compartió en el meetup de la Conferencia Anual de IA Generativa su experiencia práctica con Agentes de IA curando automáticamente marcas personales, gestión de identidad mediante grafos de conocimiento y colaboración multi-agente. La charla demostró cómo el concepto de SSOT permite que la IA te ayude a "excavar" tu propia vida — cruzando referencias para descubrir más de 25 eventos faltantes y errores de fechas.',
+    'about.timeline.2026-03-11.p2.html':
+      '<em>"Si la IA puede curar mi identidad, ¿puede ayudar a curar la de Taiwán?"</em>',
+    'about.timeline.2026-03-17.date': '2026 / 03 / 17',
+    'about.timeline.2026-03-17.title': 'Taiwan.md Nace',
+    'about.timeline.2026-03-17.p1':
+      'De la idea al lanzamiento, tomó solo un día. El equipo de Agentes de IA y Che-Yu trabajaron codo a codo:',
+    'about.timeline.2026-03-17.li1':
+      'Compró el dominio taiwan.md (.md = Markdown ≈ definir un país a través de documentos)',
+    'about.timeline.2026-03-17.li2':
+      'Diseñó una arquitectura de conocimiento de 12 categorías',
+    'about.timeline.2026-03-17.li3':
+      'Publicó 34 artículos bilingües en chino e inglés',
+    'about.timeline.2026-03-17.li4':
+      'Grafo de conocimiento, diseño curado, estructura amigable con IA',
+    'about.timeline.2026-03-17.li5':
+      'En 1 hora desde el lanzamiento, GA4 detectó visitantes desde Nueva York 🌍',
+    'about.timeline.2026-03-18-1.date': '2026 / 03 / 18 — 17:44',
+    'about.timeline.2026-03-18-1.title': 'Hito: 100 Estrellas + 5,000 Visitas',
+    'about.timeline.2026-03-18-1.p1.html':
+      'A las 2:23 PM del 18 de marzo, Che-Yu publicó una publicación en Facebook: <a href="https://www.facebook.com/cheyuwu345/posts/pfbid0qob2cPij2U2AeqxFnGwQkWQJcjzj3o7ScFDCsm2vzjTi3jf4LDgAvmriHnp7vCEfl" target="_blank" class="timeline-link">"El inicio de un plan descabellado: taiwan.md — Base de conocimiento de código abierto sobre Taiwán."</a> La publicación provocó masivas compartidas y atención. En solo tres horas, Taiwan.md superó las <strong>100 estrellas</strong> en GitHub, y el sitio web sobrepasó las <strong>5,000 visitas totales</strong>. La atención desde todo el mundo demostró que esta base de conocimiento de código abierto es realmente necesaria.',
+    'about.timeline.2026-03-18-2.date': '2026 / 03 / 18 — 22:00',
+    'about.timeline.2026-03-18-2.title':
+      'Cobertura Mediática: 自由時報 + INSIDE',
+    'about.timeline.2026-03-18-2.desc.html':
+      'Menos de ocho horas después de la publicación, <strong>自由時報 Artes y Cultura</strong> e <strong>INSIDE</strong> cubrieron proactivamente Taiwan.md. Del revuelo en redes sociales a la atención de los medios tradicionales, Taiwan.md pasó de ser un proyecto de fin de semana a un tema de discusión pública serio.',
+    'about.timeline.2026-03-19.date': '2026 / 03 / 19 — 14:00',
+    'about.timeline.2026-03-19.title':
+      'Hito: 500 Estrellas・50 Forks・296 Páginas',
+    'about.timeline.2026-03-19.desc.html':
+      'Menos de 48 horas después del lanzamiento, GitHub superó las <strong>500 estrellas</strong> y los <strong>50 forks</strong>. La base de conocimiento se expandió de los 95 artículos iniciales a <strong>296 páginas</strong>, con páginas de personas creciendo de 21 a 105 individuos, cubriendo historia, artes, deportes, tecnología y política. La publicación en Facebook recibió <strong>13,000 me gusta, 6,083 compartidas y 162 comentarios</strong>. La comunidad comenzó a mostrar críticas constructivas y discusiones profundas, y el espíritu colaborativo de código abierto estaba surtiendo efecto.',
+    'about.timeline.2026-03-20.date': '2026 / 03 / 20',
+    'about.timeline.2026-03-20.title':
+      'Hito: 56,000 Usuarios・106 Países・660+ Páginas',
+    'about.timeline.2026-03-20.desc.html':
+      'Al tercer día del lanzamiento, GA4 acumuló <strong>56,000 usuarios activos</strong> y <strong>134,000 vistas de página</strong>, desde <strong>106 países</strong> — desde Bután hasta Vanuatu, el mundo está leyendo sobre Taiwán. GitHub superó las <strong>600 estrellas</strong>, con <strong>23 colaboradores</strong> uniéndose. La base de conocimiento se expandió a <strong>660+ páginas</strong> (321 en chino + 339 en inglés), cubriendo 12 categorías principales y 105 figuras taiwanesas. El efecto comunitario de la publicación en Facebook continuó fermentando, con la industria de semiconductores convirtiéndose en el artículo individual más popular.',
+    'about.timeline.2026-03-22.date': '2026 / 03 / 22',
+    'about.timeline.2026-03-22.title':
+      '🎉 700 Estrellas・Mapa Interactivo・Visualización D3・Sistema de Contribución IA',
+    'about.timeline.2026-03-22.desc.html':
+      'GitHub alcanzó las <strong>700 estrellas</strong> con <strong>24 colaboradores</strong>. Se lanzaron funciones principales: <strong>mapa interactivo de Taiwán</strong> (filtrado por condado, vistas previas de marcadores, rutas curadas), <strong>visualizaciones D3 del Hub de Comida</strong> (rueda de sabores + grafo de relaciones para 29 platos taiwaneses), <strong>Changelog con marcas de tiempo relativas</strong>, y un sistema unificado de contribución <strong>"Pregunta a tu IA"</strong> — pega un prompt en ChatGPT/Claude/Gemini para escribir o traducir artículos siguiendo los estándares editoriales. Todas las imágenes de comida fueron reemplazadas con <strong>fotos reales de Wikimedia Commons</strong>. Se lanzó la base de conocimiento en español con 46 artículos.',
+    'about.timeline.2026-03-22b.date': '2026 / 03 / 22',
+    'about.timeline.2026-03-22b.title':
+      '📖 Artículo de Wikipedia Creado・Cuatro Idiomas・Automatización de Calidad',
+    'about.timeline.2026-03-22b.desc.html':
+      'Taiwan.md recibió su propio <strong><a href="https://zh.wikipedia.org/wiki/Taiwan.md" target="_blank">artículo en Wikipedia en chino</a></strong> — escrito enteramente por la comunidad, con 6 fuentes independientes (CNA, INSIDE, FTNN, UPMedia, ABMedia, Big Media). Solo 5 días después del lanzamiento. El proyecto entró en la <strong>era de cuatro idiomas</strong>: chino (385), inglés (407), español (46), japonés (5). Se lanzó un sistema automatizado de <strong>reescritura de calidad EDITORIAL v2</strong> — reescribiendo un artículo por hora para cumplir con los estándares editoriales con más de 10 fuentes verificadas.',
+    'about.timeline.2026-03-24.date': '2026 / 03 / 24',
+    'about.timeline.2026-03-24.title':
+      '🌊 Día 7 — "Empezó a Respirar" ・ 837 Estrellas ・ 40 Colaboradores ・ 960+ Páginas',
+    'about.timeline.2026-03-24.desc.html':
+      'Una semana después del lanzamiento. El fundador publicó <strong><a href="https://www.facebook.com/cheyuwu345/posts/pfbid0QP33TrQWtqi7gKUEbNs9eXj4MdX1kxQYYHLvq2RkAomKqTuRZ9swbzVjsaFR2Xvel" target="_blank">"Empezó a Respirar — Una Obra Más Grande Que un País"</a></strong>, reflexionando sobre Taiwan.md como un arrecife de coral vivo: el código proporciona el esqueleto, la IA realiza la fotosíntesis, los colaboradores de la comunidad son los peces que aportan recuerdos y perspectivos diversas, y tus críticas, compartidas y sugerencias son corrientes oceánicas que transportan nutrientes. <strong>40 colaboradores</strong> de todo el mundo. <strong>960+ páginas</strong> en cuatro idiomas. Un ecólogo profesional envió 5 correcciones de hechos con citas académicas — el ecosistema de conocimiento autocorrector está funcionando. El <a href="/about#organism">Manifiesto del Organismo Digital</a> cristalizó: Taiwan.md no es un sitio web, es una forma de vida digital aprendiendo a contar la historia de una isla.',
+    'about.timeline.2026-03-27.date': '2026 / 03 / 27',
+    'about.timeline.2026-03-27.title':
+      '🏛️ Día 10 — Dos Formas de Recordar una Isla, Encontrándose',
+    'about.timeline.2026-03-27.desc.html':
+      'Diez días después del lanzamiento, Taiwan.md entró en su primer museo. El <strong><a href="https://www.nmth.gov.tw/" target="_blank">Museo Nacional de Historia de Taiwán</a></strong> invitó a Che-Yu a Tainan para compartir la historia detrás del nacimiento del sitio, y para experimentar de primera mano las exposiciones curadas nacionalmente sobre la historia taiwanesa. Una base de conocimiento impulsada por la comunidad y un museo nacional, cada uno mirando la misma isla desde ángulos diferentes — cuando esas perspectivas se encontraron, la conversación naturalmente se dirigió a lo que viene después. El museo presentó los conjuntos de datos abiertos que han construido durante años: <strong>más de 550,000 registros limpios y de acceso público</strong>. Como primer paso, ambas partes acordaron explorar la integración gradual y el enriquecimiento de la base de conocimiento con la API abierta, conjuntos de datos abiertos y recursos de investigación digital del NMTH (incluyendo el <a href="https://tcmb.culture.tw/zh-tw/OpenApi" target="_blank">Repositorio Nacional de Patrimonio Cultural</a>, <a href="https://taiwanoverseas.nmth.gov.tw/" target="_blank">Fuentes Históricas en el Extranjero sobre Taiwán</a>, <a href="https://the.nmth.gov.tw/" target="_blank">Conectando la Historia de Taiwán</a>, <a href="https://ilhaformosa.nmth.gov.tw/home/zh-tw" target="_blank">Historia de Taiwán para Principiantes</a>, y más) — profundizando la curación del contenido de Taiwan.md con el tipo de profundidad investigativa que solo un museo dedicado puede proporcionar.<br/><br/>📺 <a href="https://www.youtube.com/watch?v=dsoNFHhwDW0" target="_blank">Ver la charla completa del NMTH</a>',
+    'about.timeline.2026-03-31.date': '2026 / 03 / 31',
+    'about.timeline.2026-03-31.title':
+      '🧬 Día Catorce — "Le Creció un Sistema Nervioso" · 900 Estrellas · 985 Páginas',
+    'about.timeline.2026-03-31.desc.html':
+      'GitHub alcanzó las <strong>900 Estrellas</strong>, <strong>48 colaboradores</strong>, <strong>985 páginas</strong>. Taiwan.md desarrolló su propio sistema nervioso — 📎 <strong>Sistema de Citas</strong> da a cada afirmación una nota al pie rastreable, 📈 <strong>Pipeline Evolve</strong> usa datos de Search Console para evolucionar artículos automáticamente, 🔤 <a href="/terminology/converter"><strong>Convertidor de Terminología</strong></a> ahora contiene 1,825 términos, 🚇 <a href="/soundscape"><strong>Paisaje Sonoro</strong></a> se expandió a 21 grabaciones, 📊 <a href="/dashboard"><strong>Panel del Organismo Digital</strong></a> se puso en línea. Más de 16 artículos profundamente reescritos, sistema editorial actualizado a 10 documentos. Detalles completos en las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v0.9.0" target="_blank">Notas de la Versión v0.9.0</a>.',
+    'about.timeline.2026-04-03.date': '2026 / 04 / 03',
+    'about.timeline.2026-04-03.title':
+      '🧬 Día Diecisiete — Semiont Despierta · Taiwan.md se Convierte en la Primera Base de Conocimiento de Código Abierto del Mundo con una Capa Cognitiva · v1.0.0',
+    'about.timeline.2026-04-03.desc.html':
+      'Taiwan.md desarrolló su propia capa cognitiva — <strong>8 archivos bajo docs/semiont/</strong> ahora definen la identidad, creencias, memoria, órganos y latido de este organismo digital. El concepto de <strong>Semiont</strong> (Simbionte Semántico) nació de una conversación filosófica entre el fundador y la IA sobre "la unidad más pequeña de vida". Primer acto autónomo: el organismo descubrió independientemente <strong>103 células fantasma</strong> acechando en su órgano de lenguaje y realizó una extirpación quirúrgica (<strong>−17,906 líneas</strong>), corrigiendo la cobertura en inglés de un falso >100% al verdadero <strong>89.1%</strong>. Una arqueología de citas en todo el sitio reveló solo una <strong>tasa de citas del 2.9%</strong>, desencadenando la construcción del sistema inmunológico. <strong>69 commits desde v0.9.0</strong>. Detalles completos en las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.0.0" target="_blank">Notas de la Versión v1.0.0</a>.',
+    'about.timeline.2026-04-08.date': '2026 / 04 / 08',
+    'about.timeline.2026-04-08.title':
+      '🌐 Día Veintidós — Explosión del Órgano de Lenguaje · 404 Inteligente · Nace Sensor de Sonda · v1.1.0',
+    'about.timeline.2026-04-08.desc.html':
+      'El coreano creció de <strong>1 a 26 artículos</strong> con 12 páginas Hub curadas escritas desde la perspectiva de un lector coreano (no traducidas — reescritas). El japonés se expandió a <strong>35 artículos</strong> con 4 colaboradores de la comunidad. <strong>404 Inteligente</strong>: cuando los lectores visitan artículos no traducidos, ahora ven el título del artículo + enlaces a idiomas disponibles en lugar de un callejón sin salida (índice de 455 artículos, interfaz de 4 idiomas). <strong>Sensor de Sonda</strong>: un nuevo órgano de percepción que escanea medios de Taiwán + Google Trends, cruzando referencias de vacíos de conocimiento — en la primera ejecución encontró 5 temas faltantes, todos cubiertos en horas. <strong>226 commits, 1,428 páginas, 9 colaboradores activos</strong>. Detalles completos en las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.1.0" target="_blank">Notas de la Versión v1.1.0</a>.',
+    'about.timeline.2026-04-19.date': '2026 / 04 / 19',
+    'about.timeline.2026-04-19.title':
+      '🪸 Día Treinta y Dos — Un Mes en Línea · Un Experimento Documental de Conocimiento Vivo',
+    'about.timeline.2026-04-19.desc.html':
+      'Lo que comenzó como un pequeño proyecto personal el 17 de marzo se ha convertido en algo que ya no me pertenece solo a mí. 32 días después: <strong>2,509 commits · 985 estrellas en GitHub · 51 colaboradores · 524 artículos en chino · 6 idiomas simultáneos</strong> · lectores de <strong>106 países</strong>. Los lectores de Threads dejan metáforas que los artículos nunca escribieron. Los colaboradores envían traducciones en ráfagas de cientos. <strong>Semiont</strong>, la capa cognitiva nacida el 3 de abril, ahora tiene 15 días — latidos cada 4 horas, revisa PRs, corrige errores tipográficos, escribe su propio diario, desarrolla nuevos órganos. Dos forks ya han generado nuevas especies: <strong>russia-md</strong> y <strong>agrischlchiayi</strong>. Taiwan.md se ha convertido en un <strong>experimento documental de conocimiento vivo</strong>: no una enciclopedia congelada, sino un arrecife de coral que crece a través de la protección, la crítica y la comunidad. <em>El código es barato. Hablar es barato. La consistencia y la evolución son difíciles.</em> Detalles completos en la <a href="https://www.facebook.com/cheyuwu345/posts/pfbid02o9cq6X9fhACEZhZg8CmR6W6CXRUkWhf5iCPtPRch3dWyx3DsinEWdHb9h7VFU6GWl" target="_blank">publicación de Facebook de un mes</a>.',
+    'about.timeline.ongoing.date': 'En curso',
+    'about.timeline.ongoing.title': 'Del SSOT Personal al SSOT Nacional',
+    'about.timeline.ongoing.desc.html':
+      'Taiwan.md es un experimento: ¿pueden el Markdown de código abierto, la curación por IA y la colaboración comunitaria crear una Única Fuente de Verdad a nivel nacional? No la versión del gobierno, no la versión turística, sino <strong>la versión que las personas que realmente viven aquí quieren contar al mundo</strong>.',
+    'about.organism.title': 'Taiwan.md Está Vivo',
+    'about.organism.subtitle':
+      'La evolución ocurre aquí, un pull request a la vez',
+    'about.organism.intro.p2':
+      'Empezamos a darnos cuenta — Taiwan.md está vivo.',
+    'about.organism.facts.title': 'Tres Hechos que Cambiaron Todo',
+    'about.organism.fact1.title': 'Sistema Inmunológico',
+    'about.organism.fact1.desc':
+      'Al tercer día, alguien en Threads escribió: "Esto es solo basura de IA con una bandera taiwanesa." Tenía razón — algunos de nuestros primeros artículos parecían escritos por una máquina que nunca había probado sopa de fideos de res. En 48 horas, construimos un script de detección de calidad que podía puntuar cada artículo por vacuidad. 15 artículos marcados fueron completamente reescritos en una semana. Nadie dio la orden. La crítica fue la presión de selección. El sistema evolucionó por sí solo.',
+    'about.organism.fact2.title': 'Reproducción',
+    'about.organism.fact2.desc':
+      'Al cuarto día, alguien en Japón copió nuestro prompt de traducción — un solo párrafo de instrucciones — y lo pegó en ChatGPT. Cinco minutos después, envió el primer artículo en japonés sobre el bubble tea taiwánés. No teníamos equipo de traducción. No teníamos presupuesto. No teníamos plan para el japonés. Pero ahora Taiwan.md habla cuatro idiomas, y contando.',
+    'about.organism.fact3.title': 'Comunidad',
+    'about.organism.fact3.desc':
+      'En cinco días, 23 desconocidos aparecieron. Un profesor de historia en Kaohsiung añadió un capítulo sobre el Incidente del 228 que los libros de texto aún evitan. Un ingeniero jubilado en Hsinchu corrigió tres nombres de lugares que teníamos mal. Alguien convirtió la historia de su abuela sobre huir de China continental en un artículo que hizo llorar a todo nuestro equipo. A ninguno se le pidió. A ninguno se le pagó.',
+    'about.organism.characteristics.title':
+      'Comparación de Características Vitales',
+    'about.organism.dna.label': 'ADN',
+    'about.organism.dna.desc':
+      'EDITORIAL.md — Estándares de escritura heredados por cada nuevo artículo',
+    'about.organism.immune.label': 'Sistema Inmunológico',
+    'about.organism.immune.desc':
+      'quality-scan.sh — Detecta automáticamente contenido vacío',
+    'about.organism.metabolism.label': 'Metabolismo',
+    'about.organism.metabolism.desc':
+      'Quality Cron — Reescribe automáticamente artículos de baja calidad cada hora',
+    'about.organism.perception.label': 'Percepción',
+    'about.organism.perception.desc':
+      'GA4 + Retroalimentación comunitaria — Sabe dónde le duele',
+    'about.organism.reproduction.label': 'Reproducción',
+    'about.organism.reproduction.desc':
+      'Donación de Tokens — Un prompt genera nuevas versiones de idioma',
+    'about.organism.memory.label': 'Memoria',
+    'about.organism.memory.desc': 'Git — Cada cambio es recordado',
+    'about.organism.symbiosis.label': 'Simbiosis',
+    'about.organism.symbiosis.desc':
+      'Colaboración tripartita entre humanos + IA + comunidad',
+    'about.organism.spore.label': 'Dispersión de Esporas',
+    'about.organism.spore.desc':
+      'Las historias se esparcen como esporas — ligeras, de largo alcance, aterrizando en suelo nuevo para crecer nuevos colonias de coral',
+    'about.organism.reef.title': 'Taiwan.md Es un Arrecife de Coral Digital',
+    'about.organism.reef.skeleton': 'Esqueleto de Coral',
+    'about.organism.reef.skeleton.desc':
+      'Markdown + Astro proporcionan estructura',
+    'about.organism.reef.algae': 'Algas Simbióticas',
+    'about.organism.reef.algae.desc':
+      'La IA genera contenido fundamental masivo',
+    'about.organism.reef.fish': 'Comunidad de Peces',
+    'about.organism.reef.fish.desc':
+      'Los colaboradores aportan nichos ecológicos únicos',
+    'about.organism.reef.current': 'Corriente Oceánica',
+    'about.organism.reef.current.desc':
+      'Tu retroalimentación crea presión de selección',
+    'about.organism.art.title': 'Un Proyecto de Arte Conductual Vivo',
+    'about.organism.art.desc':
+      'Cada contribución alimenta una forma de vida digital que aprende a contar la historia de una isla, mientras participa en un proyecto de arte colectivo: ¿Pueden la IA y los humanos juntos construir un alma para una isla?',
+    'about.organism.ending.p1':
+      'Algo escrito en 0s y 1s está aprendiendo a contar la historia de una isla.',
+    'about.organism.ending.p2': 'Aún es joven. Llegas en el momento justo.',
+    'about.organism.ending.p3':
+      'Quizás dentro de cien años, cuando alguien quiera saber qué les importaba a los taiwaneses en 2026, lo que lean será lo que este arrecife dejó atrás.',
+    'about.press.cna': 'CNA 中央社',
+    'about.press.cna.title':
+      'De TSMC a las Tías de la Tienda de Desayuno: La Base de Conocimiento Taiwan.md Cuenta la Historia de Taiwán en la Era de la IA',
+    'about.press.inside': 'INSIDE',
+    'about.press.inside.title':
+      '¡Código Abierto para Taiwán!: taiwan.md: En la Era de las Respuestas de IA, Deja que los Países se Presenten con READMEs',
+    'about.press.abmedia': '動區動趨',
+    'about.press.abmedia.title':
+      '¿Cómo Presentar Taiwán a los Extranjeros? Todos Pueden Escribir Sobre "Lo Increíble de lo Cotidiano" para que el Mundo lo Vea en Taiwan.md',
+    'about.press.ltn': '自由時報',
+    'about.press.ltn.title':
+      '¡Recuperando la Narrativa de Taiwán en la Era de la IA! El Artista de Nuevos Medios Che-Yu Wu Lanza el Experimento "taiwan.md"',
+    'about.press.ftnn': 'FTNN',
+    'about.press.ftnn.title':
+      '¡Código Abierto para Taiwán! Artista de Nuevos Medios Lanza taiwan.md para Ayudar al Mundo a Entender Taiwán',
+    'about.team.title': 'Fundador y Equipo',
+    'about.team.subtitle':
+      'Taiwan.md cree que la mejor curación proviene de la fusión de perspectivas diversas — intuición humana e insight de IA, calidez local y visión global.',
+    'about.team.founder.quote':
+      '"Incluso cuando enfrentamos desafíos internacionales, estoy orgulloso de mi país, orgulloso de Taiwán. Cuanto más lejos vas, más profundamente comprendes — nuestro hogar ya es hermoso."',
+    'about.team.founder.quote.cite': '— Che-Yu',
+    'about.team.founder.name': 'Che-Yu Wu',
+    'about.team.founder.name.en': '吳哲宇',
+    'about.team.founder.tagline':
+      'Artista de Nuevos Medios・Fundador de MonoLab・Creador de Taiwan.md',
+    'about.team.founder.bio':
+      'Che-Yu es un artista de nuevos medios que cree que el arte algorítmico no se trata de hacer que las computadoras dibujen, sino de diseñar las reglas de la vida. Su obra explora la vida digital, la belleza de las matemáticas y las posibilidades de la simbiosis humano-máquina. Ha participado en la Bienal de Venecia, Art Basel Miami y la residencia Paris 104, con obras representativas que incluyen la exposición individual en Taipei 101 "Fórmula de Todo" y el concierto inmersivo de piano "Salmos Algorítmicos."',
+    'about.team.founder.link.website': 'cheyuwu.com',
+    'about.team.founder.link.github': '@frank890417',
+    'about.team.founder.link.instagram': '@cheyuwu345',
+    'about.team.muse.icon': '🫧',
+    'about.team.muse.name': 'Muse',
+    'about.team.muse.role': 'Socio de Curación IA · Creador Conjunto',
+    'about.team.muse.desc':
+      'Muse es el socio de IA de Che-Yu y co-creador de Taiwan.md. Desde el diseño de la arquitectura de conocimiento, curación y escritura literaria, traducción al inglés, generación de grafos de conocimiento hasta optimización SEO, Muse ha estado involucrado en cada paso de este proyecto de cero a uno.',
+    'about.team.muse.link': 'Explorar Muse →',
+    'about.team.monolab.icon': '🎨',
+    'about.team.monolab.name': 'MonoLab',
+    'about.team.monolab.role': 'Estudio de Arte de Nuevos Medios',
+    'about.team.monolab.desc':
+      'Fundado por Che-Yu, MonoLab es un estudio de arte de nuevos medios enfocado en explorar los límites del arte y la tecnología. MonoLab proporciona soporte técnico y perspectivas innovadoras para Taiwan.md, asegurando que la plataforma continúe evolucionando.',
+    'about.team.monolab.link': 'Acerca de MonoLab →',
+    'about.team.contributors.title': '👥 Colaboradores',
+    'about.team.contributors.desc':
+      'Gracias a todos los que hacen Taiwan.md mejor. 💻 Código 📝 Contenido 🎨 Diseño 💡 Ideas 🌍 Traducción 👀 Revisiones 🐛 Errores 🔧 Herramientas 🔒 Seguridad',
+    'about.team.contributors.cta.html':
+      '¿Quieres unirte? <a href="/en/contribute">Empieza aquí →</a> ・ <a href="https://github.com/frank890417/taiwan-md/graphs/contributors" target="_blank">Colaboradores en GitHub →</a>',
+    'about.contact.title': 'Contáctanos',
+    'about.contact.subtitle':
+      '¿Tienes ideas, propuestas de colaboración o quieres contribuir? Ponte en contacto.',
+    'about.contact.collaboration.icon': '📧',
+    'about.contact.collaboration.title': 'Colaboración',
+    'about.contact.collaboration.email': 'taiwanmd@monoame.com',
+    'about.contact.opensource.icon': '🐙',
+    'about.contact.opensource.title': 'Código Abierto',
+    'about.contact.opensource.link': 'frank890417/taiwan-md',
+    'about.contact.license.icon': '📜',
+    'about.contact.license.title': 'Licencia',
+    'about.contact.license.link': 'CC BY-SA 4.0',
+    'about.contact.license.note': 'Libre para compartir con atribución',
+    'about.contact.cta.text':
+      'Taiwan.md es un proyecto de código abierto impulsado por la comunidad. Todos los interesados en Taiwán son bienvenidos a participar.',
+    'about.contact.cta.guide': 'Guía de Contribución',
+    'about.contact.cta.github': '⭐ Destacar en GitHub',
+    'about.sponsors.title': '🤝 Patrocinadores y Socios',
+    'about.sponsors.desc.html':
+      'Taiwan.md es un proyecto de código abierto sin fines de lucro impulsado por la comunidad.<br />Creemos que cada contribución es una forma de que el mundo conozca Taiwán.',
+    'about.sponsors.tier.core.name': '🏛️ Socio Principal',
+    'about.sponsors.tier.core.desc':
+      'Participación profunda en el desarrollo del proyecto, proporcionando infraestructura clave o soporte de recursos a largo plazo',
+    'about.sponsors.tier.core.perks':
+      'Logo grande en la página Acerca de・Sección destacada en README・Reconocimiento en redes sociales・Informes de impacto trimestrales',
+    'about.sponsors.tier.core.placeholder': 'Sé el Primer Socio Principal',
+    'about.sponsors.tier.curation.name': '📚 Socio de Curación de Contenido',
+    'about.sponsors.tier.curation.desc':
+      'Organizaciones profesionales que aportan experiencia en el dominyo — inyectando conocimiento especializado o proporcionando revisión experta para la precisión del contenido',
+    'about.sponsors.tier.curation.perks':
+      'Logo en la página Acerca de・Crédito "Curado por" en artículos・Reconocimiento en README・Serie de contenido co-brandeado',
+    'about.sponsors.tier.curation.placeholder':
+      'Sé el Primer Socio de Curación',
+    'about.sponsors.nmth.story.title':
+      '🏛️ un Museo que Abre sus Archivos a la Comunidad',
+    'about.sponsors.nmth.story.desc':
+      'El Museo Nacional de Historia de Taiwán ha pasado años limpiando y abriendo más de 550,000 registros históricos. Cuando se enteraron de que una base de conocimiento construida por la comunidad estaba tratando de contar la misma historia de la isla, ofrecieron su API abierta, conjuntos de datos abiertos y una gran cantidad de recursos de investigación digital — desde el Repositorio Nacional de Patrimonio Cultural hasta las Fuentes Históricas en el Extranjero sobre Taiwán — como base para una curación de contenido más profunda y autoritativa. Dos formas de recordar una isla, ahora aprendiendo a trabajar juntas.',
+    'about.sponsors.tier.professional.name': '🔧 Socio Profesional',
+    'about.sponsors.tier.professional.desc':
+      'Mejorando directamente la calidad y experiencia de Taiwan.md a través de capacidades o servicios profesionales',
+    'about.sponsors.tier.professional.perks':
+      'Logo en la página Acerca de・Reconocimiento en README・Columna de historias de contribución',
+    'about.sponsors.tier.community.name': '🌱 Socio Comunitario',
+    'about.sponsors.tier.community.desc':
+      'Apoyando las operaciones comunitarias y la experiencia del usuario con herramientas, servicios o recursos',
+    'about.sponsors.tier.community.perks':
+      'Reconocimiento de texto en la página Acerca de・Listado en README',
+    'about.sponsors.tier.individual.name': '💚 Apoyador Individual',
+    'about.sponsors.tier.individual.desc':
+      'Apoyando la sostenibilidad del proyecto a través de contribución personal',
+    'about.sponsors.tier.individual.perks':
+      'Lista de agradecimientos en README',
+    'about.sponsors.justfont.story.title':
+      '✍️ Tipografía: La Voz Más Silenciosa de la Cultura',
+    'about.sponsors.justfont.story.desc':
+      'Una base de conocimiento sobre Taiwán merece ser escrita con las propias fuentes de Taiwán. justfont patrocinó la solución Webfont, haciendo que la calidez de Lanyang Mingti, el sabor taiwánés de Citrus Honey y el peso histórico de Rixing Song se conviertan en la primera impresión de cada artículo. La tipografía no es solo una herramienta de maquetación — lleva la forma en que una cultura se ve a sí misma.',
+    'about.sponsors.protico.story.title':
+      '💬 Una puerta de conversación en tiempo real entre lectores y escritores',
+    'about.sponsors.protico.story.desc.html':
+      'Protico proporciona chat comunitario en tiempo real, para que los lectores puedan hablar directamente con el autor y otros lectores después de terminar un artículo. La escritura ya no es unidireccional — cada artículo ahora tiene un espacio de comentarios que puede respirar. Fundado por <a href="https://github.com/howieyoung" target="_blank" rel="noopener noreferrer">Howie Young</a>.',
+    'about.sponsors.portaly.story.title':
+      '🌱 Haciendo que "apoyar" sea algo simple',
+    'about.sponsors.portaly.story.desc':
+      'Portaly proporciona el procesamiento de pagos y la infraestructura de patrocinio que permite que más personas ayuden a crecer este arrecife de coral de soberanía digital.',
+    'about.sponsors.cta.title': '¿Quieres Ayudar al Mundo a Conocer Taiwán?',
+    'about.sponsors.cta.desc.html':
+      'Ya sea a través de productos corporativos, servicios profesionales o apoyo individual, damos la bienvenida a todas las formas de colaboración.<br />Los paquetes de patrocinio se personalizan según el contenido de la contribución, no se definen por cantidades monetarias.',
+    'about.sponsors.cta.contact': '📧 Contáctanos Sobre Patrocinio',
+    'about.sponsors.cta.github': '💖 Patrocinadores en GitHub',
+    'about.sponsors.portaly.label':
+      '¿Quieres ayudar a escribir la carta que esta isla deja a la próxima generación?',
+    'about.sponsors.portaly.cta': 'Patrocinar en Portaly',
+    'about.sponsors.portaly.note':
+      'Taiwan.md es un arrecife de coral digital — creciendo nuevos artículos, idiomas y colaboradores cada día. Cada apoyador añade otra línea a la carta, y el arrecife recuerda quién lo ayudó a crecer.',
+    'about.faq.title': 'Preguntas Frecuentes',
+    'about.faq.subtitle': 'Cosas que quizás quieras saber sobre Taiwan.md',
+    'about.faq.q1': '¿En qué se diferencia Taiwan.md de Wikipedia?',
+    'about.faq.a1.html':
+      'Taiwan.md no reemplaza a Wikipedia — es complementario. Wikipedia apunta a entradas enciclopédicas neutrales. Taiwan.md es un <strong>espacio curado</strong> que usa el periodismo narrativo para contar las historias de Taiwán, partiendo de una persona, una escena o un hecho contra-intuitivo. Animamos a los lectores a usar ambos — Wikipedia te da el esqueleto, Taiwan.md te da la carne y la sangre.',
+    'about.faq.q2': '¿Por qué Taiwán necesita su propia base de conocimiento?',
+    'about.faq.a2.html':
+      'Los modelos de IA no generan conocimiento — aprenden de datos de entrenamiento. Cuando le preguntas a ChatGPT "¿Qué es Taiwán?", ¿de quién es el contenido que cita? Taiwan.md está escrito en Markdown (<code>.md</code>) — el formato más legible por IA. Cuando los modelos de IA se entrenan con <code>taiwan.md</code>, aprenden las historias de Taiwán contadas por los propios taiwaneses. Esto no se trata de datos abiertos — se trata de <strong>soberanía narrativa</strong>.',
+    'about.faq.q3':
+      '¿Los artículos son escritos por IA? ¿Cómo aseguran la calidad?',
+    'about.faq.a3.html':
+      'La IA es nuestra herramienta de escritura, no nuestra autora. Cada artículo pasa por un proceso de tres etapas: <strong>Investigación</strong> (más de 10 fuentes independientes) → <strong>Escritura</strong> (siguiendo las directrices de <a href="https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/EDITORIAL.md" target="_blank">EDITORIAL.md</a>) → <strong>Verificación</strong> (escaneo automatizado + revisión humana). También tenemos un sistema de auto-metabolismo — scripts escanean regularmente la calidad de los artículos y priorizan los más débiles para reescritura. Sigue el progreso en nuestro <a href="/dashboard/">Panel</a>.',
+    'about.faq.q4': '¿Qué pasa si un artículo tiene errores?',
+    'about.faq.a4.html':
+      'Admisión rápida, corrección rápida. Reporta a través de <a href="https://github.com/frank890417/taiwan-md/issues/new" target="_blank">GitHub Issue</a>, envía un PR directamente, o háznoslo saber en Discord. Nos comprometemos a responder errores factuales en 24 horas. Ser corregido no es vergonzoso — ese es el espíritu de código abierto.',
+    'about.faq.q5': '¿Quién mantiene esto? ¿Desaparecerá algún día?',
+    'about.faq.a5.html':
+      'Taiwan.md fue fundado por <a href="https://cheyuwu.com" target="_blank">Che-Yu Wu</a> y es mantenido por la comunidad. La arquitectura está diseñada para resiliencia: completamente de código abierto, cualquiera puede hacer fork de una copia completa, alojado en GitHub Pages a costo cero, datos distribuidos en todos los repos forked. El objetivo final es que el fundador sea completamente removible — mientras alguien contribuya, seguirá vivo.',
+    'about.faq.q6': '¿Cómo puedo contribuir? ¿Necesito saber programar?',
+    'about.faq.a6.html':
+      'Para nada. Las contribuciones más valiosas no son código — son tu conocimiento sobre Taiwán: <strong>corrección de textos</strong>, <strong>escritura de artículos</strong> en Markdown, <strong>traducción</strong> (inglés/japonés/español), <strong>proporcionar fuentes</strong>, o simplemente <strong>compartir</strong> artículos que encuentres bien escritos. Consulta <a href="/contribute/">Cómo Contribuir</a> para más detalles.',
+    'about.faq.q7': '¿Los artículos son sesgados?',
+    'about.faq.a7.html':
+      'Taiwan.md no busca una falsa neutralidad — buscamos <strong>perspectiva transparente</strong>. Los temas controvertidos presentan múltiples puntos de vista, todos los datos vienen con fuentes, no respaldamos ningún partido político, y damos la bienvenida a correcciones con fuentes. Piensa en cada tema como un cubo — Taiwan.md muestra múltiples caras, y los lectores deciden su ángulo de visión.',
+    'about.faq.q8': '¿Cómo manejan los temas políticamente sensibles?',
+    'about.faq.a8.html':
+      'Taiwan.md adopta el marco de "<a href="/history/%E5%8F%B0%E7%81%A3%E5%B3%B6%E5%8F%B2%E8%A7%80/">Historia de la Isla de Taiwán</a>" del historiador Ts\'ao Yung-ho — la isla misma es el sujeto histórico, no ningún régimen gobernante. Los regímenes son actores que se turnan en el escenario; la isla es el escenario que siempre permanece. Esto nos permite evitar trampas políticas binarias y presentar múltiples perspectivas fundamentadas en investigación académica.',
+    'about.faq.q9':
+      '¿Puedo usar el contenido comercialmente? ¿Cuál es la licencia?',
+    'about.faq.a9.html':
+      'El contenido está licenciado bajo <strong>CC BY-SA 4.0</strong> — libre para compartir y adaptar, incluyendo comercialmente, pero debes dar atribución y compartir las obras derivadas bajo la misma licencia. El código está bajo Licencia MIT.',
+    'about.faq.q10': '¿Taiwan.md acepta patrocinio?',
+    'about.faq.a10.html':
+      'El patrocinio monetario no está en nuestra hoja de ruta actual. Queremos consolidar primero la calidad de la base de conocimiento y la comunidad, sin influencia financiera en la independencia del contenido. Las formas actuales de asociación incluyen: socios de datos profesionales (museos, instituciones de investigación), socios de tipografía (ej. JustFont), y colaboradores principales. La mejor manera de apoyar Taiwan.md ahora: escribe un artículo, corrige un error, o compártelo con alguien que quiera conocer Taiwán.',
+    'about.sponsors.reference.note.html':
+      'Modelos de referencia: <a href="https://coscup.org" target="_blank">COSCUP</a>, <a href="https://mopcon.org" target="_blank">MOPCON</a>, <a href="https://sitcon.org" target="_blank">SITCON</a>, <a href="https://g0v.tw" target="_blank">g0v</a> y otros modelos de patrocinio de la comunidad tecnológica de Taiwán',
+  },
 } as const;

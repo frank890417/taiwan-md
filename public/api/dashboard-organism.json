@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T17:57:58.137Z",
+  "lastUpdated": "2026-05-01T19:33:12.567Z",
   "organs": [
     {
       "id": "heart",
@@ -98,18 +98,18 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 77,
+      "score": 86,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
           "zh-TW": 638,
-          "en": 634,
+          "en": 654,
           "ja": 640,
-          "ko": 637,
-          "es": 585,
-          "fr": 648
+          "ko": 627,
+          "es": 596,
+          "fr": 651
         },
-        "translationPct": 77,
+        "translationPct": 86,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -126,8 +126,8 @@
               "pct": 100
             },
             "articles": {
-              "count": 634,
-              "pct": 99
+              "count": 654,
+              "pct": 103
             },
             "score": 100
           },
@@ -166,19 +166,19 @@
               "pct": 100
             },
             "articles": {
-              "count": 637,
-              "pct": 100
+              "count": 627,
+              "pct": 98
             },
-            "score": 100
+            "score": 99
           },
           "es": {
             "ui": {
               "pct": 0
             },
             "pages": {
-              "filled": 0,
+              "filled": 8,
               "total": 8,
-              "pct": 0
+              "pct": 100
             },
             "hubs": {
               "filled": 12,
@@ -186,19 +186,19 @@
               "pct": 100
             },
             "articles": {
-              "count": 585,
-              "pct": 92
+              "count": 596,
+              "pct": 93
             },
-            "score": 57
+            "score": 82
           },
           "fr": {
             "ui": {
               "pct": 0
             },
             "pages": {
-              "filled": 0,
+              "filled": 8,
               "total": 8,
-              "pct": 0
+              "pct": 100
             },
             "hubs": {
               "filled": 3,
@@ -206,10 +206,10 @@
               "pct": 25
             },
             "articles": {
-              "count": 648,
+              "count": 651,
               "pct": 102
             },
-            "score": 46
+            "score": 71
           }
         }
       }

@@ -72,37 +72,56 @@ def extract_lang_block(content: str, lang: str) -> tuple[int, int, str]:
 
 
 def parse_kv_pairs(body: str) -> list[tuple[str, str]]:
-    """Parse 'key': 'value' pairs from a lang block body. Multi-line tolerant."""
+    """Parse 'key': 'value' pairs from a lang block body. Multi-line + comment tolerant."""
     pairs = []
-    # Single-line: '    'key': 'value','
-    # Multi-line: '    'key': 'value' (continued)\n      'rest','
-    # Use a state machine
-    pattern = re.compile(r"^    '([^']+)':\s*(.*?)(?:,\s*$|\s*$)", re.M)
-    # Simpler: extract each key + value spanning until next key
     lines = body.split("\n")
     cur_key = None
     cur_val_lines = []
-    key_re = re.compile(r"^    '([^']+)':\s*(.*?)(?:,\s*$|\s*$)")
+    key_re = re.compile(r"^    '([^']+)':\s*(.*?)\s*$")
     for line in lines:
+        stripped = line.strip()
+        # Skip comment-only lines and blank lines
+        if not stripped or stripped.startswith("//") or stripped.startswith("/*") or stripped.startswith("*"):
+            continue
         m = key_re.match(line)
         if m:
             if cur_key:
-                pairs.append((cur_key, "\n".join(cur_val_lines).strip().rstrip(',')))
+                raw = "\n".join(cur_val_lines).strip().rstrip(",").strip()
+                pairs.append((cur_key, _unquote_ts_string(raw)))
             cur_key = m.group(1)
-            cur_val_lines = [m.group(2)]
+            cur_val_lines = [m.group(2)] if m.group(2) else []
         elif cur_key:
-            cur_val_lines.append(line)
+            cur_val_lines.append(stripped)
     if cur_key:
-        pairs.append((cur_key, "\n".join(cur_val_lines).strip().rstrip(',')))
+        raw = "\n".join(cur_val_lines).strip().rstrip(",").strip()
+        pairs.append((cur_key, _unquote_ts_string(raw)))
     return pairs
 
 
-def call_owl(api_key, system, user, max_retries=3):
+def _unquote_ts_string(raw: str) -> str:
+    """Unquote a TS string literal, handling concatenated multi-line ones."""
+    raw = raw.strip()
+    if not raw:
+        return ""
+    # Concatenated strings split by newlines: '"part1"\n"part2"' or "'part1' + 'part2'"
+    # Most common: just one quoted string, possibly with escaped quotes inside
+    # Try to extract the content between matching outer quotes
+    if (raw.startswith("'") and raw.endswith("'")) or (raw.startswith('"') and raw.endswith('"')):
+        q = raw[0]
+        inner = raw[1:-1]
+        # Unescape \' or \" or \\
+        inner = inner.replace(f"\\{q}", q).replace("\\\\", "\\").replace("\\n", "\n")
+        return inner
+    # Fallback: best-effort - strip outermost quotes
+    return raw.strip("'\"")
+
+
+def call_owl(api_key, system, user, max_retries=3, max_tokens=32000):
     payload = json.dumps({
         "model": "openrouter/owl-alpha",
         "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}],
         "temperature": 0.2,
-        "max_tokens": 16000,
+        "max_tokens": max_tokens,
     }).encode()
     req = urllib.request.Request(
         "https://openrouter.ai/api/v1/chat/completions",
@@ -148,8 +167,8 @@ def translate_module(module: str, target_lang: str, api_key: str, dry_run: bool 
         print(f"  ❌ {module}: no kv pairs parsed"); return False
     print(f"  → {module}/{target_lang}: {len(pairs)} keys to translate")
 
-    # Build prompt
-    en_json = {k: v.strip("'\"") for k, v in pairs}
+    # Build prompt — values are already unquoted by parser
+    en_json = {k: v for k, v in pairs}
     system = f"""You are a UI string translator for Taiwan.md.
 
 Translate this JSON of English UI strings to {LANG_NAMES.get(target_lang, target_lang)}.
@@ -170,39 +189,63 @@ CRITICAL rules:
         print(f"    DRY RUN: would translate {len(pairs)} keys")
         return True
 
-    try:
-        result = call_owl(api_key, system, user)
-    except Exception as e:
-        print(f"  ❌ {module}/{target_lang}: API error {e}"); return False
+    # Chunk if too many keys (avoids JSON truncation on large modules like map.ts)
+    CHUNK_THRESHOLD = 100
+    chunks = []
+    if len(en_json) > CHUNK_THRESHOLD:
+        items = list(en_json.items())
+        chunk_size = 75
+        for i in range(0, len(items), chunk_size):
+            chunks.append(dict(items[i:i+chunk_size]))
+        print(f"    chunked into {len(chunks)} batches of ~{chunk_size}", flush=True)
+    else:
+        chunks = [en_json]
 
-    # Strip code fence if present
-    result = result.strip()
-    if result.startswith("```"):
-        result = re.sub(r"^```(?:json)?\n", "", result)
-        result = re.sub(r"\n```$", "", result)
+    translated = {}
+    chunk_failures = 0
+    for ci, chunk in enumerate(chunks):
+        chunk_user = f"Source language: English\nTarget language: {LANG_NAMES.get(target_lang, target_lang)}\n\nJSON to translate:\n```json\n{json.dumps(chunk, ensure_ascii=False, indent=2)}\n```\n\nOutput ONLY the translated JSON object."
+        # Up to 2 attempts per chunk (model output can be flaky)
+        chunk_translated = None
+        last_err = None
+        for attempt in range(2):
+            try:
+                result = call_owl(api_key, system, chunk_user)
+            except Exception as e:
+                last_err = f"API error {e}"; continue
 
-    try:
-        translated = json.loads(result)
-    except json.JSONDecodeError as e:
-        print(f"  ❌ {module}/{target_lang}: JSON parse fail — {e}")
-        return False
+            result = result.strip()
+            if result.startswith("```"):
+                result = re.sub(r"^```(?:json)?\n", "", result)
+                result = re.sub(r"\n```$", "", result)
 
+            try:
+                chunk_translated = json.loads(result)
+                break
+            except json.JSONDecodeError as e:
+                last_err = f"JSON parse fail — {e}"
+                continue
+
+        if chunk_translated is None:
+            print(f"  ⚠️  {module}/{target_lang} chunk {ci+1}/{len(chunks)}: SKIPPED ({last_err})", flush=True)
+            chunk_failures += 1
+            continue
+        translated.update(chunk_translated)
+        if len(chunks) > 1:
+            print(f"    chunk {ci+1}/{len(chunks)} ✓ ({len(chunk_translated)} keys)", flush=True)
+
+    if not translated:
+        print(f"  ❌ {module}/{target_lang}: all chunks failed"); return False
     if len(translated) != len(en_json):
-        print(f"  ⚠️  {module}/{target_lang}: key count mismatch {len(translated)} vs {len(en_json)}")
+        print(f"  ⚠️  {module}/{target_lang}: key count {len(translated)}/{len(en_json)} ({chunk_failures} chunks skipped)")
 
-    # Build target lang block (TypeScript format)
+    # Build target lang block (TypeScript format) — always JSON-escape via json.dumps
+    # which yields valid double-quoted strings safe for TS.
     out_lines = [f"  '{target_lang}': {{"]
     for k, v in translated.items():
-        # Escape single quotes in value, prefer double-quote if value has '
         v_str = str(v)
-        if "'" in v_str and '"' not in v_str:
-            quoted = f'"{v_str}"'
-        elif '"' in v_str and "'" not in v_str:
-            quoted = f"'{v_str}'"
-        elif "'" in v_str and '"' in v_str:
-            quoted = f"'{v_str.replace(chr(39), chr(92)+chr(39))}'"
-        else:
-            quoted = f"'{v_str}'"
+        # json.dumps gives a valid JS/TS string literal (double-quoted, properly escaped)
+        quoted = json.dumps(v_str, ensure_ascii=False)
         out_lines.append(f"    '{k}': {quoted},")
     out_lines.append("  },")
     new_block = "\n".join(out_lines)

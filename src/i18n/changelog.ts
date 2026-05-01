@@ -98,4 +98,36 @@ export const changelogUI = {
     'changelog.time.hours-ago': '小時前',
     'changelog.time.days-ago': '天前',
   },
+  es: {
+    'changelog.meta.title': 'Historial de actualizaciones',
+    'changelog.meta.description':
+      'Historial de actualizaciones en tiempo real de Taiwan.md — sigue cada adición de contenido y mejora del sitio.',
+    'changelog.header.title': 'Historial de actualizaciones',
+    'changelog.header.subtitle':
+      'Sigue cada adición de contenido y mejora del sitio en Taiwan.md',
+    'changelog.header.meta.updates': 'actualizaciones',
+    'changelog.header.meta.synced': 'Sincronizado automáticamente desde',
+    'changelog.day.updates': 'actualizaciones',
+    'changelog.locale': 'es',
+    'changelog.time.just-now': 'justo ahora',
+    'changelog.time.minutes-ago': 'hace minutos',
+    'changelog.time.hours-ago': 'hace horas',
+    'changelog.time.days-ago': 'hace días',
+  },
+  fr: {
+    'changelog.meta.title': 'Historique des mises à jour',
+    'changelog.meta.description':
+      'Historique des mises à jour en temps réel de Taiwan.md — suivez chaque ajout de contenu et amélioration du site.',
+    'changelog.header.title': 'Historique des mises à jour',
+    'changelog.header.subtitle':
+      'Suivez chaque ajout de contenu et amélioration du site sur Taiwan.md',
+    'changelog.header.meta.updates': 'mises à jour',
+    'changelog.header.meta.synced': 'Synchronisé automatiquement depuis',
+    'changelog.day.updates': 'mises à jour',
+    'changelog.locale': 'fr-FR',
+    'changelog.time.just-now': "à l'instant",
+    'changelog.time.minutes-ago': 'il y a quelques minutes',
+    'changelog.time.hours-ago': 'il y a quelques heures',
+    'changelog.time.days-ago': 'il y a quelques jours',
+  },
 } as const;

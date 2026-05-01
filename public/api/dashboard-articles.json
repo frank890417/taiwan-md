@@ -696,7 +696,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -1513,7 +1513,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -2161,7 +2161,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -2263,7 +2263,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -2454,7 +2454,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 2,
@@ -2641,7 +2641,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -2909,7 +2909,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -3119,7 +3119,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": false
     },
@@ -3421,7 +3421,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -3502,7 +3502,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -3582,8 +3582,8 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
-      "es": true,
+      "ko": true,
+      "es": false,
       "fr": true
     },
     "revision": 16,
@@ -4347,7 +4347,7 @@
     "translations": {
       "en": true,
       "ja": false,
-      "ko": false,
+      "ko": true,
       "es": false,
       "fr": true
     },
@@ -4686,8 +4686,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -4906,7 +4906,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -5405,8 +5405,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "5032dd64",
@@ -5466,7 +5466,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -5741,7 +5741,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -6030,7 +6030,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -6215,8 +6215,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
-      "es": true,
+      "ko": false,
+      "es": false,
       "fr": true
     },
     "revision": 2,
@@ -6614,7 +6614,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -6686,7 +6686,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": false
     },
     "revision": 1,
@@ -7258,7 +7258,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -8317,7 +8317,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -8379,7 +8379,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": true,
+      "es": false,
       "fr": true
     },
     "revision": 12,
@@ -8738,7 +8738,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -9233,7 +9233,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -10516,7 +10516,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10664,7 +10664,7 @@
       "自然科學"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11055,7 +11055,7 @@
       "台語"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11199,7 +11199,7 @@
       "日治時期"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11349,7 +11349,7 @@
       "金鐘獎"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11680,7 +11680,7 @@
       "語言認同"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11897,7 +11897,7 @@
       "刑事調查"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12010,7 +12010,7 @@
       "校園體育"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12086,7 +12086,7 @@
       "都市設計"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12160,7 +12160,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12199,7 +12199,7 @@
       "LGBTQ+"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12385,7 +12385,7 @@
       "擲筊"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12531,7 +12531,7 @@
       "熱蘭遮城"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12607,7 +12607,7 @@
       "肉牛產業"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12833,7 +12833,7 @@
       "台灣抗日"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12873,7 +12873,7 @@
       "台灣文學"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -13505,7 +13505,7 @@
       "地方記憶"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -13542,10 +13542,10 @@
       "文化符號"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
@@ -13735,7 +13735,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": true,
+      "ja": false,
       "ko": true,
       "es": true,
       "fr": true
@@ -13841,11 +13841,11 @@
       "官方資源"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 5,
     "commitHash": "07a6db95",
@@ -14501,7 +14501,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 13,
@@ -14901,7 +14901,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 9,
@@ -17518,7 +17518,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -17650,11 +17650,11 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 5,
     "commitHash": "bd50da58",
@@ -18456,7 +18456,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -20613,7 +20613,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -21052,7 +21052,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -21535,7 +21535,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": true,
+      "ko": false,
       "es": true,
       "fr": true
     },
@@ -22545,7 +22545,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 1,
