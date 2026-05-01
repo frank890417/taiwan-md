@@ -131,6 +131,79 @@ bash scripts/tools/lang-sync/openrouter-batch.sh ja-hy3 "tencent/hy3-preview:fre
 4. 寫 memory γ-late + diary 紀錄結果
 5. push（user approval）
 
+### Stage Z6：抽樣品質 audit（2026-05-01 γ-late5 強制新增）
+
+「fresh count 上升」≠「品質好」。`status.py` 的 fresh 只看 frontmatter 元資料，
+不看內容是否 truncated / YAML 是否合法 / 翻譯是否 coherent。**「fresh」是
+metadata fresh，不是 content quality**。
+
+**強制 audit 流程（每 round 結束 OR Z3 commit 之間至少跑一次）**：
+
+#### Z6.1 自動掃描（O(n)，1 秒內）
+
+- **Size-ratio scan**：對每個新翻譯，計算 `trans_size / zh_source_size`
+  - 比例 < **0.5** → flag（多為 truncation / API timeout 中斷）
+  - 比例 = 0（zh source = 0 bytes）→ 同樣 flag（empty stub article 不該翻）
+  - 不同語言預期比例：
+    - 西語 / 法語：1.2-1.7（romance language 較啰嗦）
+    - 韓語：0.6-0.9（CJK 中相對緊湊）
+    - 日語：0.8-1.3
+    - 英語：0.7-1.0
+- **Frontmatter completeness**：grep `^title:`、`^description:`、`^category:`
+  - 任一缺 → flag（owl-alpha 嚴格遵從 placeholder 偶爾漏）
+- **YAML parse**：對每個檔案跑 `yaml.safe_load(frontmatter_block)`
+  - 拋例外 → flag（pre-commit hook 已抓但越早越好）
+
+掃描 script 位置：`scripts/tools/lang-sync/audit-quality.py`（待建，可從
+backfill-source-sha.py 的 git history cache 套用）。
+
+#### Z6.2 人眼抽樣（隨機 N 篇，N = max(10, 5%)）
+
+```python
+import random
+random.seed(YYYYMMDD)  # session 日期當 seed 確保 reproducible
+sample = random.sample(new_files_in_branch, max(10, len(new_files)//20))
+```
+
+對每篇 sample：
+
+- **head -30** 檢查 frontmatter + 開頭散文流暢度
+- **tail -10** 檢查結尾沒被截斷（最後一句是完整的）
+- **mid section** 抽 1-2 段，檢查文化詞處理（夜市 → night market 那種）
+
+判定 healthy 比例 ≥ 90% 才能 ship。否則回到 Stage Z4 retry。
+
+#### Z6.3 失敗處理
+
+- **Truncated（size ratio < 0.5）**：直接 `rm`，加入下輪 retry queue
+- **YAML error**：看是 worker output bug（rm + retry）還是 pre-existing
+  source bug（手動修 zh source）
+- **Frontmatter incomplete**：rm + retry，問題出在 placeholder 不夠豐富 →
+  回頭升級 prepare-batch.py 的 placeholder 邏輯
+
+#### Z6.4 報告
+
+ship 前產出：
+
+```
+=== Quality Audit Report ===
+Pool: N 個新 translations
+Auto-scan suspicious: M 個（size < 0.5 ratio: X / yaml-fail: Y / frontmatter-incomplete: Z）
+Sample audit (random K): H 個 healthy / S 個 suspicious
+Healthy ratio: H/K = HH%
+Action: ship / retry-round / manual-fix
+```
+
+範例（2026-05-01 γ-late5）：
+
+```
+Pool: 269 new translations across 5 langs
+Auto-scan suspicious: 19（size < 0.5: 19, yaml-fail: 0, frontmatter-incomplete: 2）
+Sample audit (random 30, seed 42 + 99): 28 healthy / 2 truncated
+Healthy ratio: 28/30 = 93.3%
+Action: purged 19 + ship → status.py 確認 fresh count 反映正確真實基線
+```
+
 ## 量化指標
 
 榨模型MAX run 完之後應提供：
