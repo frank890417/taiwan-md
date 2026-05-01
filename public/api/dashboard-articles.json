@@ -1,5 +1,120 @@
 [
   {
+    "title": "台灣教會公報：一份活了一百四十年的報紙，和它被沒收的那一天",
+    "slug": "台灣教會公報",
+    "category": "culture",
+    "subcategory": "媒體與出版",
+    "date": "2026-04-29",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-29",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2226,
+    "tagCount": 8,
+    "tags": [
+      "媒體",
+      "教會公報",
+      "白話字",
+      "長老教會",
+      "言論自由",
+      "228事件",
+      "台語",
+      "語言政策"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "c5ef5adf",
+    "commitSubject": "content: 台灣教會公報 NEW Culture — 一份活了 140 年的報紙 (#708)",
+    "description": "1885年，英國宣教師巴克禮在台南用白話字印了台灣第一份報紙。這份報紙被日本政府停刊過、被國民黨禁止使用母語、1987年因報導228事件遭警備總部整批扣押。每一次被壓制，它都活了回來。2025年它滿140歲，副刊上在討論生成式AI。",
+    "healthScore": 72,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 10
+  },
+  {
+    "title": "台灣滷肉飯",
+    "slug": "台灣滷肉飯",
+    "category": "food",
+    "subcategory": "族群飲食",
+    "date": "2026-03-19",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": "false",
+    "featured": true,
+    "wordCount": 1793,
+    "tagCount": 5,
+    "tags": [
+      "滷肉飯",
+      "肉燥飯",
+      "眷村菜",
+      "國民美食",
+      "南北差異"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": false,
+      "fr": true
+    },
+    "revision": 13,
+    "commitHash": "5a1e7b8c",
+    "commitSubject": "fix(food): standardize Braised Pork Rice 4-lang footnote + image local + i18n route fix (#709)",
+    "description": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
+    "healthScore": 85,
+    "qualityScore": 7,
+    "formatIssues": 2,
+    "hasOverview": false,
+    "hasReading": false,
+    "fnCount": 5
+  },
+  {
+    "title": "牛肉麵",
+    "slug": "牛肉麵",
+    "category": "food",
+    "subcategory": "經典小吃",
+    "date": "2026-03-17",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": "false",
+    "featured": true,
+    "wordCount": 3152,
+    "tagCount": 6,
+    "tags": [
+      "美食",
+      "牛肉麵",
+      "外省菜",
+      "文化融合",
+      "台北牛肉麵節",
+      "米其林"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true
+    },
+    "revision": 18,
+    "commitHash": "03431927",
+    "commitSubject": "🧬 [semiont] heal: PR #711 + #710 cherry-pick polish + γ memory (#713)",
+    "description": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
+    "healthScore": 95,
+    "qualityScore": 6,
+    "formatIssues": 2,
+    "hasOverview": false,
+    "hasReading": false,
+    "fnCount": 4
+  },
+  {
     "title": "北大特區：三十年都市計畫與大學城生活實驗",
     "slug": "北大特區",
     "category": "geography",
@@ -27,17 +142,17 @@
       "李梅樹"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "1cced31c",
     "commitSubject": "🧬 [semiont] merge: 北大特區 (#693)",
     "description": "從 1895 年的隆恩埔古戰場到 2026 年的捷運大學城，這是一部關於土地、美學與選擇性認同的深度百科全書。",
-    "healthScore": 78,
+    "healthScore": 81,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -73,22 +188,342 @@
       "咖啡文化"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "70821197",
     "commitSubject": "🧬 [semiont] merge: 林口新市鎮 (#692)",
     "description": "1970年代，台灣政府為緩解台北人口壓力，在林口台地規劃了「田園城市」新市鎮。歷經數十年發展，這個曾因交通不便、機能不足被戲稱為「鬼城」的區域，在2017年機場捷運通車後，人口快速成長，產業升級，成為北台灣最年輕、最具活力的都會區之一。然而，交通壅塞與氣候濕冷等挑戰仍待克服。",
-    "healthScore": 78,
+    "healthScore": 81,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 35
+  },
+  {
+    "title": "LINE：從震災中誕生的台灣「數位基礎設施」",
+    "slug": "LINE",
+    "category": "lifestyle",
+    "subcategory": null,
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2986,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "21335999",
+    "commitSubject": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)",
+    "description": "LINE 在台灣擁有超過 93% 的滲透率，從通訊取代 MSN 開始，演變成集支付、金融、公務、長輩圖於一體的生活入口，成為台灣社會的核心數位基礎設施。",
+    "healthScore": 71,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 20
+  },
+  {
+    "title": "合作社：消失在校門口的民主實驗與肉包香",
+    "slug": "合作社",
+    "category": "lifestyle",
+    "subcategory": "教育",
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 3245,
+    "tagCount": 6,
+    "tags": [
+      "校園文化",
+      "合作社",
+      "台灣歷史",
+      "勞動教育",
+      "民主經濟",
+      "少子化"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "d78f10ae",
+    "commitSubject": "🧬 [semiont] heal: PR #712 合作社 polish — frontmatter / footnote / §11 (#718)",
+    "description": "1989 年台大學生會長羅文嘉發起包圍福利社行動，要求改制為師生共同持股的合作社；隔年教育部頒布政策，全台校園「員生消費合作社」高峰期超過 5,000 家。三十年後，建中、景美等名校合作社相繼熄燈，被外送平台、食品禁令與少子化夾擊退場。這篇追問：當 10 元入社股金消失時，台灣失去的不只是肉包香氣，還有一堂未完成的公民與勞動教育課。",
+    "healthScore": 81,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 21
+  },
+  {
+    "title": "台灣水鹿：從消失的「山中神獸」到重返低海拔的生態工程師",
+    "slug": "台灣水鹿",
+    "category": "nature",
+    "subcategory": null,
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2986,
+    "tagCount": 7,
+    "tags": [
+      "台灣水鹿",
+      "生態保育",
+      "顏士清",
+      "逐鹿傳說",
+      "啃樹皮",
+      "原住民文化",
+      "生態工程師"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "21335999",
+    "commitSubject": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)",
+    "description": "2025 年，當登山客在能高越嶺道輕鬆與水鹿對視時，很難想像三十年前見到牠像中彩券一樣難。這篇文探討台灣最大型草食獸如何從瀕滅邊緣回歸，以及牠們為何開始「啃樹皮」——背後牽動著動物自我醫療的研究發現、台灣高山生態的複雜平衡，以及原住民族的文化記憶。",
+    "healthScore": 81,
+    "qualityScore": 0,
+    "formatIssues": 2,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 23
+  },
+  {
+    "title": "台灣獼猴：在中山大學的生存博弈、母系權力與萬年定居者的真相",
+    "slug": "台灣獼猴",
+    "category": "nature",
+    "subcategory": "野生動物",
+    "date": "2026-04-25",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-25",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2581,
+    "tagCount": 7,
+    "tags": [
+      "台灣獼猴",
+      "中山大學",
+      "壽山",
+      "母系社會",
+      "史溫侯",
+      "人猴衝突",
+      "野生動物保育"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 3,
+    "commitHash": "dd7a1d1c",
+    "commitSubject": "🧬 黑冠麻鷺 EVOLVE：當城市變得像森林 (#714)",
+    "description": "從中山大學學生「持槍取外送」的荒謬日常，到 1862 年史溫侯首次向西方介紹這座島嶼的靈長類，台灣獼猴常被冠以「流氓」之名。背後是一個萬年前就定居柴山的嚴謹母系社會，在校園擴張與人類餵食下，被迫演化出的生存文化。",
+    "healthScore": 81,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 12
+  },
+  {
+    "title": "台灣藍鵲：都市叢林裡的藍色幫派，與一場跨百年的基因保衛戰",
+    "slug": "台灣藍鵲",
+    "category": "nature",
+    "subcategory": "野生動物",
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 5259,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": false,
+      "fr": true
+    },
+    "revision": 6,
+    "commitHash": "21335999",
+    "commitSubject": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)",
+    "description": "2007 年以 18 萬票奪下國鳥寶座，這顆山林寶石卻是會「打群架」的強悍家族。從 1862 年郇和採集的首個標本，到今日適應都市搶食貓糧，牠們以 97% 的巢邊幫手制在競爭中勝出。這是一個關於生存、家族凝聚力、基因保衛戰，以及人鳥共存智慧的島嶼故事。",
+    "healthScore": 80,
+    "qualityScore": 12,
+    "formatIssues": 2,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 37
+  },
+  {
+    "title": "特有種",
+    "slug": "特有種",
+    "category": "nature",
+    "subcategory": "野生動物",
+    "date": "2026-03-17",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 1690,
+    "tagCount": 5,
+    "tags": [
+      "Nature",
+      "特有種",
+      "生物多樣性",
+      "台灣黑熊",
+      "櫻花鉤吻鮭"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": false,
+      "fr": true
+    },
+    "revision": 15,
+    "commitHash": "dd7a1d1c",
+    "commitSubject": "🧬 黑冠麻鷺 EVOLVE：當城市變得像森林 (#714)",
+    "description": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
+    "healthScore": 74,
+    "qualityScore": 10,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 0
+  },
+  {
+    "title": "福爾摩沙鳥類學：一個英國副領事、201 個拉丁名字，和他沒踏進去的山",
+    "slug": "福爾摩沙鳥類學",
+    "category": "nature",
+    "subcategory": "博物學",
+    "date": "2026-04-24",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-24",
+    "lastHumanReview": "2026-04-24",
+    "featured": false,
+    "wordCount": 4884,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "dd7a1d1c",
+    "commitSubject": "🧬 黑冠麻鷺 EVOLVE：當城市變得像森林 (#714)",
+    "description": "1861 年，24 歲的史溫侯成為英國首任駐台副領事。五年後他離開時，留下一篇論文，讓世界第一次用拉丁文寫下台灣的鳥。但他的鳥類地圖，是一張從海岸線描出的地圖——中央山脈的空白裡，原住民已經用族語喊過這些鳥千年。",
+    "healthScore": 71,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 25
+  },
+  {
+    "title": "黑冠麻鷺：賞鳥者的夢幻物種，校園裡的大笨鳥",
+    "slug": "黑冠麻鷺",
+    "category": "nature",
+    "subcategory": "野生動物",
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 4944,
+    "tagCount": 5,
+    "tags": [
+      "台灣生態",
+      "都市鳥類",
+      "黑冠麻鷺",
+      "大笨鳥",
+      "公民科學"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": false,
+      "fr": true
+    },
+    "revision": 8,
+    "commitHash": "3d8e68a5",
+    "commitSubject": "🧬 [semiont] heal: 黑冠麻鷺 inline 配圖 + spore #53/#54 ship (#722)",
+    "description": "1985 到 1992 年中華鳥會 4,000 筆鳥類紀錄裡，黑冠麻鷺只佔 25 筆，是賞鳥圖鑑上的「稀有留鳥」。三十年後牠在台大椰林大道、大安森林公園天天可見。通行說法是「牠變不怕人」，但台大袁孝維 2010 年起的繫放研究指向另一個答案：台灣都市的密林化校園與不噴藥草坪，剛好複製了牠原本的低海拔森林棲位——鳥沒變，地變了。",
+    "healthScore": 90,
+    "qualityScore": 11,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 17
+  },
+  {
+    "title": "黑面琵鷺：從三百隻到七千隻，這場跨國復育奇蹟正迎來「成功的代價」",
+    "slug": "黑面琵鷺",
+    "category": "nature",
+    "subcategory": null,
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 1750,
+    "tagCount": 5,
+    "tags": [
+      "黑面琵鷺",
+      "生態保育",
+      "棲地挑戰",
+      "漁電共生",
+      "台灣自然"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "21335999",
+    "commitSubject": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)",
+    "description": "2026 年全球普查顯示黑面琵鷺已達 7,746 隻，台灣記錄到 4,719 隻創歷史新高。這群曾瀕臨滅絕的「黑面舞者」雖在 2025 年調降保育等級，卻在度冬地台灣面臨光電開發、肉毒桿菌與遊蕩犬攻擊等新興生存挑戰。",
+    "healthScore": 71,
+    "qualityScore": 0,
+    "formatIssues": 2,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 12
   },
   {
     "title": "孫運璿：從黑暗中點亮台灣的工程師院長",
@@ -110,22 +545,62 @@
       "十大建設"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "fd75530b",
     "commitSubject": "🧬 [semiont] merge: 孫運璿 (#698)",
     "description": "從戰後廢墟中的五個月復電奇蹟，到押注半導體產業的遠見，孫運璿以工程師的務實與清廉，奠定了台灣現代化的基石。",
-    "healthScore": 71,
+    "healthScore": 74,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 11
+  },
+  {
+    "title": "曹興誠：從晶圓梟雄到抗共護台的「八不居士」",
+    "slug": "曹興誠",
+    "category": "people",
+    "subcategory": null,
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 3083,
+    "tagCount": 8,
+    "tags": [
+      "聯電",
+      "半導體",
+      "曹興誠",
+      "國防",
+      "晶圓代工",
+      "和艦案",
+      "黑熊學院",
+      "張忠謀"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "03431927",
+    "commitSubject": "🧬 [semiont] heal: PR #711 + #710 cherry-pick polish + γ memory (#713)",
+    "description": "1984 年向張忠謀提議晶圓代工卻被冷落，1995 年以「合資模式」挑戰台積電。這位曾推動「統一公投」的聯電創辦人，在經歷西進挫敗與香港變局後，於 2022 年豪擲 30 億台幣協助國防，完成從科技霸主到反共大將的驚人轉身。",
+    "healthScore": 81,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 26
   },
   {
     "title": "莊朱玉女：從碼頭工人的免費餐桌到賣掉七棟房的十元便當",
@@ -148,22 +623,53 @@
       "澎湖"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "03bf4282",
     "commitSubject": "🧬 [semiont] merge: 莊朱玉女 (#699)",
     "description": "1951年，莊朱玉女在高雄港邊架起爐灶，為清苦的碼頭工人提供免費餐點。這位被譽為「窮人守護神」的阿嬤，在往後的五十年間，堅持以十元價格供應無限量自助餐，甚至不惜賣掉七棟房產支撐開銷，將「讓人吃飽」做成了一生的信仰。",
-    "healthScore": 69,
+    "healthScore": 72,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 8
+  },
+  {
+    "title": "台灣彩虹路：從街頭抗爭到「崴孟星球」的愛與平權",
+    "slug": "LGBTQ",
+    "category": "society",
+    "subcategory": null,
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2780,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "21335999",
+    "commitSubject": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)",
+    "description": "2017年司法院釋字第748號解釋，開啟台灣同婚合法化之路。從祁家威的孤身奮戰，到葉永鋕的性別教育啟蒙，再到「崴崴孟孟」的日常甜蜜，台灣LGBTQ+社群如何以愛與韌性，寫下亞洲平權新篇章？",
+    "healthScore": 69,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 13
   },
   {
     "title": "外省人：從被綁架的青春到認同腳下土地的台灣人",
@@ -188,22 +694,154 @@
       "大陳義胞"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "04381328",
     "commitSubject": "🧬 [semiont] merge: 外省人 (#701)",
     "description": "1949 年，一百多萬名帶著創痛與鄉愁的人們渡海來台。他們既是被威權政府猜忌的「政治犯」高風險群，也是被強行抓捕、失去故鄉的「戰爭難民」。這篇文章揭開外省族群在四次心理創傷中，如何從「流亡者」完成向「定居者」的靈魂遷徙。",
-    "healthScore": 72,
+    "healthScore": 75,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 21
+  },
+  {
+    "title": "毒馬鈴薯：200 ppm 之外，還有 30 ppm、14 天、與 15 年的食安傷疤",
+    "slug": "毒馬鈴薯認知作戰",
+    "category": "society",
+    "subcategory": "國際關係",
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 12340,
+    "tagCount": 7,
+    "tags": [
+      "毒馬鈴薯",
+      "食安",
+      "認知作戰",
+      "兩岸關係",
+      "ART 協定",
+      "龍葵鹼",
+      "CIPC"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "d0f90f01",
+    "commitSubject": "content: 毒馬鈴薯認知作戰 NEW Society — 200 ppm 之外的三層真實 (#705)",
+    "description": "2026 年 4 月 29 日，中國國台辦發言人陳斌華以「毒馬鈴薯」批評賴清德政府「再一次把民眾健康作為獻媚美國的投名狀」。爭議真正的核心橫跨三層：抑芽劑 CIPC 殘留 EU 0.2 vs 台灣 30 ppm 的 150 倍落差、邊境 85 名實聘人力如何「逐顆檢查」3 億顆、與 2011 塑化劑以來累積 15 年的食安傷疤——這個敘事踩準的地基。",
+    "healthScore": 78,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 58
+  },
+  {
+    "title": "認知作戰：台灣資訊戰場的 AI 工業化階段",
+    "slug": "認知作戰",
+    "category": "society",
+    "subcategory": "媒體與言論",
+    "date": "2026-04-23",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-23",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 9078,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 9,
+    "commitHash": "d0f90f01",
+    "commitSubject": "content: 毒馬鈴薯認知作戰 NEW Society — 200 ppm 之外的三層真實 (#705)",
+    "description": "2024 年 12 月《中國統戰紀錄片》衝破 200 萬觀看，2025 年第四季 1076 個中共官媒帳號在抖音發布 56 萬支影片、透過臉部辨識識別 57 位台灣人士，2025 年 10 月沈伯洋被重慶公安以「分裂國家罪」立案。認知作戰進入 AI 工業化與「以台批台」的新階段，但「認知作戰」這個詞本身也在台灣內部承受被濫用的張力。",
+    "healthScore": 80,
+    "qualityScore": 7,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 61
+  },
+  {
+    "title": "活俠傳：兩個人、三十趴好評、七十萬套",
+    "slug": "活俠傳",
+    "category": "technology",
+    "subcategory": "社群與數位文化",
+    "date": "2026-04-25",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-25",
+    "lastHumanReview": "false",
+    "featured": false,
+    "wordCount": 2079,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 1,
+    "commitHash": "376ba20d",
+    "commitSubject": "content: add Legend of Mortal article (#702)",
+    "description": "2024 年 6 月，兩個非遊戲業出身的台灣人推出了一款武俠 RPG。上架一週好評率跌到 30%，中國玩家灌了上萬則負評。十二天後回升到 70%，一個月後衝到 94%。半年後銷量突破 70 萬套，韓國和台灣的玩家自己組團翻譯日文版。主角設定是「沒有主角光環的外姓弟子」，開發團隊也是。",
+    "healthScore": 60,
+    "qualityScore": 0,
+    "formatIssues": 2,
+    "hasOverview": false,
+    "hasReading": false,
+    "fnCount": 14
+  },
+  {
+    "title": "海底電纜：矽盾頂上看得到，命脈底下看不見",
+    "slug": "海底電纜",
+    "category": "technology",
+    "subcategory": "通訊與基礎建設",
+    "date": "2026-04-30",
+    "lastModified": "2026-04-30",
+    "lastVerified": "2026-04-29",
+    "lastHumanReview": "false",
+    "featured": true,
+    "wordCount": 6749,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": false,
+      "es": false,
+      "fr": false
+    },
+    "revision": 2,
+    "commitHash": "291fbb3f",
+    "commitSubject": "🧬 [semiont] memory: γ-late 收官 — 海底電纜孢子 #55/#56 + Reader-First-Reaction Gate (#727)",
+    "description": "2023 年 2 月馬祖兩條海底電纜在六天內接連斷掉，連江縣陷入約 50 天的網路黑暗期，民進黨連江縣黨部主委李問形容「Line 上一則文字訊息，要 15 到 20 分鐘才傳得出去」。台灣 99% 對外網路流量靠 14 條深埋海床的線，所有國際海纜集中在本島四個登陸站。台積電的潔淨室是矽盾頂上的英雄鏡頭，海纜是底下沒人拍照的工程師敘事——它們可以在不開一槍的情況下，把 2,300 萬人從世界拔除。",
+    "healthScore": 81,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 49
   },
   {
     "title": "淡江大橋：在河口地平線上，一座為了「透明」而存在的巨大地標",
@@ -227,17 +865,17 @@
       "工程技術"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "cb0a6016",
     "commitSubject": "🧬 [semiont] merge: 淡江大橋 (#695)",
     "description": "淡江大橋預計於 2026 年 5 月 12 日通車。這座由建築女爵 Zaha Hadid 團隊操刀的單塔不對稱斜張橋，耗時三十年規劃，在守護淡水夕照與紓解交通的矛盾中，以流動的線條重新定義台灣的河口景觀。",
-    "healthScore": 73,
+    "healthScore": 76,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -264,17 +902,17 @@
       "台灣精神"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
     },
-    "revision": 1,
+    "revision": 2,
     "commitHash": "57148664",
     "commitSubject": "🧬 [semiont] merge: 雪山隧道 (#694)",
     "description": "1997 年 12 月 15 日，一場湧水意外險些奪走三百條人命，更讓造價十億的挖掘神器 TBM 成了廢鐵。這座被《大英百科全書》列為全球最艱鉅工程之一的隧道，不只是交通動脈，更是由 25 位殉職者與無數無名英雄，在比鋼還硬的四稜砂岩中鑿出的血淚奇蹟。",
-    "healthScore": 78,
+    "healthScore": 81,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -295,7 +933,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -333,8 +971,8 @@
       "台灣歷史"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -364,8 +1002,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -401,7 +1039,7 @@
       "戒嚴"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -411,7 +1049,7 @@
     "commitHash": "5dc50b7a",
     "commitSubject": "docs: correct historical details (#681)",
     "description": "一場本應讓反對運動徹底崩潰的軍事審判，因公開轉播意外成為台灣民主最有力的宣傳片。",
-    "healthScore": 90,
+    "healthScore": 85,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -441,7 +1079,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -481,8 +1119,8 @@
       "大稻埕"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -518,8 +1156,8 @@
       "抹香鯨"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -558,8 +1196,8 @@
       "台灣"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -590,7 +1228,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -627,8 +1265,8 @@
       "何榮幸"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -704,8 +1342,8 @@
       "洪申翰"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -735,8 +1373,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -773,8 +1411,8 @@
       "常民文化"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -789,37 +1427,6 @@
     "hasOverview": false,
     "hasReading": false,
     "fnCount": 15
-  },
-  {
-    "title": "海底電纜：矽盾頂上看得到，命脈底下看不見",
-    "slug": "海底電纜",
-    "category": "technology",
-    "subcategory": "通訊與基礎建設",
-    "date": "2026-04-29",
-    "lastModified": "2026-04-29",
-    "lastVerified": "2026-04-29",
-    "lastHumanReview": "false",
-    "featured": true,
-    "wordCount": 6749,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
-    },
-    "revision": 1,
-    "commitHash": "ee4917f3",
-    "commitSubject": "🧬 [semiont] rewrite: 海底電纜 NEW Technology — 矽盾頂上看得到，命脈底下看不見 (#690)",
-    "description": "2023 年 2 月馬祖兩條海底電纜在六天內接連斷掉，連江縣陷入約 50 天的網路黑暗期，民進黨連江縣黨部主委李問形容「Line 上一則文字訊息，要 15 到 20 分鐘才傳得出去」。台灣 99% 對外網路流量靠 14 條深埋海床的線，所有國際海纜集中在本島四個登陸站。台積電的潔淨室是矽盾頂上的英雄鏡頭，海纜是底下沒人拍照的工程師敘事——它們可以在不開一槍的情況下，把 2,300 萬人從世界拔除。",
-    "healthScore": 78,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 49
   },
   {
     "title": "維基百科在台灣：數位主權、文化實踐與多元族群的知識拼圖",
@@ -842,8 +1449,8 @@
       "法律訴訟"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -976,7 +1583,7 @@
       "多元文學"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -1014,8 +1621,8 @@
       "第三空間"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1052,8 +1659,8 @@
       "辦桌文化"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1090,8 +1697,8 @@
       "飲食文化"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1130,8 +1737,8 @@
       "黃張哖"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1168,8 +1775,8 @@
       "水力工程"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1205,8 +1812,8 @@
       "登山"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1243,8 +1850,8 @@
       "選舉"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1274,8 +1881,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1305,8 +1912,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1344,8 +1951,8 @@
       "人工智慧"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1383,8 +1990,8 @@
       "娛樂百分百"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1420,8 +2027,8 @@
       "移民史"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1459,7 +2066,7 @@
       "戰後台灣文學"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -1490,8 +2097,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1522,7 +2129,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1552,8 +2159,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1583,8 +2190,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1614,8 +2221,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1653,8 +2260,8 @@
       "台灣政治"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1691,8 +2298,8 @@
       "社會運動"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1729,8 +2336,8 @@
       "FAPA"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1806,7 +2413,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1844,8 +2451,8 @@
       "李遠哲"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1880,7 +2487,7 @@
       "數位轉型"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -1918,8 +2525,8 @@
       "麥芽糖"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1955,8 +2562,8 @@
       "國際對比"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -1992,8 +2599,8 @@
       "戊戌大水災"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2031,8 +2638,8 @@
       "廖鴻基"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2068,8 +2675,8 @@
       "林添禎"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2104,8 +2711,8 @@
       "日治時期"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2145,8 +2752,8 @@
       "丘逢甲"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -2184,8 +2791,8 @@
       "殖民地"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2223,8 +2830,8 @@
       "19世紀"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2259,8 +2866,8 @@
       "社會"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2299,8 +2906,8 @@
       "嗩吶"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2368,8 +2975,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -2399,8 +3006,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2430,8 +3037,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2470,8 +3077,8 @@
       "自首"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2550,8 +3157,8 @@
       "斯卡羅"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -2589,8 +3196,8 @@
       "fOx"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2628,7 +3235,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -2658,8 +3265,8 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2715,37 +3322,6 @@
     "fnCount": 22
   },
   {
-    "title": "認知作戰：台灣資訊戰場的 AI 工業化階段",
-    "slug": "認知作戰",
-    "category": "society",
-    "subcategory": null,
-    "date": "2026-04-23",
-    "lastModified": "2026-04-27",
-    "lastVerified": "2026-04-23",
-    "lastHumanReview": "false",
-    "featured": false,
-    "wordCount": 9025,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
-    },
-    "revision": 8,
-    "commitHash": "3e1e177a",
-    "commitSubject": "🧬 [semiont] rewrite: 沈伯洋 NEW (REWRITE-PIPELINE Stage 0-6 完整跑)",
-    "description": "2024 年 12 月《中國統戰紀錄片》衝破 200 萬觀看，2025 年第四季 1076 個中共官媒帳號在抖音發布 56 萬支影片、透過臉部辨識識別 57 位台灣人士，2025 年 10 月沈伯洋被重慶公安以「分裂國家罪」立案。認知作戰進入 AI 工業化與「以台批台」的新階段，但「認知作戰」這個詞本身也在台灣內部承受被濫用的張力。",
-    "healthScore": 80,
-    "qualityScore": 7,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 61
-  },
-  {
     "title": "台灣 Game Jam 社群",
     "slug": "台灣Game-Jam社群",
     "category": "technology",
@@ -2766,8 +3342,8 @@
       "創作"
     ],
     "translations": {
-      "en": false,
-      "ja": false,
+      "en": true,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": false
@@ -2885,7 +3461,7 @@
       "桃子腳"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -2923,7 +3499,7 @@
       "戴記獨臭之家"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -2964,7 +3540,7 @@
       "華元洋芋片"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3004,7 +3580,7 @@
       "太陽花學運"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -3035,7 +3611,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3066,7 +3642,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3105,7 +3681,7 @@
       "棲地破碎"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3167,7 +3743,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3198,7 +3774,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3229,7 +3805,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3266,7 +3842,7 @@
       "焚化爐抗爭"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3306,7 +3882,7 @@
       "19世紀"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3409,7 +3985,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -3424,45 +4000,6 @@
     "formatIssues": 0,
     "hasOverview": true,
     "hasReading": true,
-    "fnCount": 12
-  },
-  {
-    "title": "台灣獼猴：在中山大學的生存博弈、母系權力與萬年定居者的真相",
-    "slug": "台灣獼猴",
-    "category": "nature",
-    "subcategory": "野生動物",
-    "date": "2026-04-25",
-    "lastModified": "2026-04-25",
-    "lastVerified": "2026-04-25",
-    "lastHumanReview": "false",
-    "featured": false,
-    "wordCount": 2515,
-    "tagCount": 7,
-    "tags": [
-      "台灣獼猴",
-      "中山大學",
-      "壽山",
-      "母系社會",
-      "史溫侯",
-      "人猴衝突",
-      "野生動物保育"
-    ],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
-    },
-    "revision": 2,
-    "commitHash": "20baa2f8",
-    "commitSubject": "🧬 [semiont] immune: PR #621/#622 polish — §11 + 腳註格式 + frontmatter 補完",
-    "description": "從中山大學學生「持槍取外送」的荒謬日常，到 1862 年史溫侯首次向西方介紹這座島嶼的靈長類，台灣獼猴常被冠以「流氓」之名。背後是一個萬年前就定居柴山的嚴謹母系社會，在校園擴張與人類餵食下，被迫演化出的生存文化。",
-    "healthScore": 77,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
     "fnCount": 12
   },
   {
@@ -3490,7 +4027,7 @@
       "台灣偶像"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3529,7 +4066,7 @@
       "19世紀"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -3569,7 +4106,7 @@
       "暨南大學"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3607,7 +4144,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3649,7 +4186,7 @@
       "solo"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3689,7 +4226,7 @@
       "道德教育"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3769,7 +4306,7 @@
       "許淑華"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3808,7 +4345,7 @@
       "台灣遊戲"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3839,7 +4376,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3879,7 +4416,7 @@
       "陳添順"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3921,7 +4458,7 @@
       "詹仁雄"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3959,7 +4496,7 @@
       "飲食文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -3997,7 +4534,7 @@
       "嘉義美食"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4036,7 +4573,7 @@
       "抗爭文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4074,7 +4611,7 @@
       "顏新發"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4186,7 +4723,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4233,74 +4770,6 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 21
-  },
-  {
-    "title": "特有種",
-    "slug": "特有種",
-    "category": "nature",
-    "subcategory": "野生動物",
-    "date": "2026-03-17",
-    "lastModified": "2026-04-24",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": "false",
-    "featured": false,
-    "wordCount": 1630,
-    "tagCount": 5,
-    "tags": [
-      "Nature",
-      "特有種",
-      "生物多樣性",
-      "台灣黑熊",
-      "櫻花鉤吻鮭"
-    ],
-    "translations": {
-      "en": true,
-      "ja": false,
-      "ko": true,
-      "es": false,
-      "fr": true
-    },
-    "revision": 14,
-    "commitHash": "14c688eb",
-    "commitSubject": "🧬 [semiont] rewrite: 新文 — 福爾摩沙鳥類學（NMTH P1 batch #1/12）",
-    "description": "台灣豐富的特有種生物，展現島嶼生物地理學的演化奇蹟與保育重要性",
-    "healthScore": 74,
-    "qualityScore": 10,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 0
-  },
-  {
-    "title": "福爾摩沙鳥類學：一個英國副領事、201 個拉丁名字，和他沒踏進去的山",
-    "slug": "福爾摩沙鳥類學",
-    "category": "nature",
-    "subcategory": "博物學",
-    "date": "2026-04-24",
-    "lastModified": "2026-04-24",
-    "lastVerified": "2026-04-24",
-    "lastHumanReview": "2026-04-24",
-    "featured": false,
-    "wordCount": 4821,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": false,
-      "ja": false,
-      "ko": false,
-      "es": false,
-      "fr": false
-    },
-    "revision": 1,
-    "commitHash": "14c688eb",
-    "commitSubject": "🧬 [semiont] rewrite: 新文 — 福爾摩沙鳥類學（NMTH P1 batch #1/12）",
-    "description": "1861 年，24 歲的史溫侯成為英國首任駐台副領事。五年後他離開時，留下一篇論文，讓世界第一次用拉丁文寫下台灣的鳥。但他的鳥類地圖，是一張從海岸線描出的地圖——中央山脈的空白裡，原住民已經用族語喊過這些鳥千年。",
-    "healthScore": 68,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 25
   },
   {
     "title": "吳大猷",
@@ -4435,7 +4904,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4473,7 +4942,7 @@
       "GMP"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4504,7 +4973,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4581,7 +5050,7 @@
       "高雄VR FILM LAB"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4681,7 +5150,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4712,7 +5181,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4820,7 +5289,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4904,7 +5373,7 @@
     "commitHash": "c860d150",
     "commitSubject": "🧬 [semiont] immune: 3 PRs review — #589 fix + #588 林琪兒 + #587 馬英九迷因（觀察者裁定 escalation）",
     "description": "中華民國第十二、十三任總統，兩岸破冰政策的推手，也是22K薪資停滯與太陽花學運的執政背景",
-    "healthScore": 90,
+    "healthScore": 85,
     "qualityScore": 12,
     "formatIssues": 2,
     "hasOverview": false,
@@ -4933,7 +5402,7 @@
       "文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4964,7 +5433,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -4995,7 +5464,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5026,7 +5495,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5065,7 +5534,7 @@
       "林享麟"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5102,7 +5571,7 @@
       "台灣經濟"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5139,7 +5608,7 @@
       "台灣小吃"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5207,7 +5676,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5238,7 +5707,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5331,7 +5800,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5362,7 +5831,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5429,7 +5898,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5497,7 +5966,7 @@
       "有線電視"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5528,7 +5997,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5559,7 +6028,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5596,7 +6065,7 @@
       "社會議題"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5634,7 +6103,7 @@
       "張惠妹"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5676,7 +6145,7 @@
       "屏東"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -5707,7 +6176,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5744,7 +6213,7 @@
       "法律博弈"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5781,7 +6250,7 @@
       "華語流行音樂"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5843,7 +6312,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5880,7 +6349,7 @@
       "紐約時報廣告"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5911,7 +6380,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5942,7 +6411,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -5973,7 +6442,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6004,7 +6473,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6035,7 +6504,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6073,7 +6542,7 @@
       "創新"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -6112,7 +6581,7 @@
       "Three.js"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6143,7 +6612,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6174,7 +6643,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6214,7 +6683,7 @@
       "轉型"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6253,7 +6722,7 @@
       "雅婷"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6322,7 +6791,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6430,7 +6899,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6467,7 +6936,7 @@
       "地獄梗"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6541,7 +7010,7 @@
       "戒嚴禁歌"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6577,7 +7046,7 @@
       "數位媒體"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6652,7 +7121,7 @@
       "迷因"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6683,7 +7152,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6719,7 +7188,7 @@
       "飲食文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6756,7 +7225,7 @@
       "張雨生"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6787,7 +7256,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6818,7 +7287,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6854,7 +7323,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6890,7 +7359,7 @@
       "地方自治"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6927,7 +7396,7 @@
       "日治時期"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -6958,7 +7427,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -6996,7 +7465,7 @@
       "台灣民主"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7032,7 +7501,7 @@
       "人權"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7063,7 +7532,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7100,7 +7569,7 @@
       "地牛傳說"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7175,7 +7644,7 @@
       "青春文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -7206,7 +7675,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7244,7 +7713,7 @@
       "2025"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7280,7 +7749,7 @@
       "微交通"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -7492,7 +7961,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7645,7 +8114,7 @@
       "19世紀"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7685,7 +8154,7 @@
       "海外史料"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7734,43 +8203,6 @@
     "fnCount": 7
   },
   {
-    "title": "台灣藍鵲：山林裡的藍色幫派",
-    "slug": "台灣藍鵲",
-    "category": "nature",
-    "subcategory": "野生動物",
-    "date": "2026-03-23",
-    "lastModified": "2026-04-12",
-    "lastVerified": "2026-03-23",
-    "lastHumanReview": "false",
-    "featured": false,
-    "wordCount": 998,
-    "tagCount": 5,
-    "tags": [
-      "特有種",
-      "保育類",
-      "鳥類",
-      "生態",
-      "長尾山娘"
-    ],
-    "translations": {
-      "en": true,
-      "ja": false,
-      "ko": true,
-      "es": false,
-      "fr": true
-    },
-    "revision": 4,
-    "commitHash": "a1e11b6b",
-    "commitSubject": "🧬 [semiont] rewrite: 史溫侯 Evolution v2 — EDITORIAL v4 + Pipeline v2.14 完整六階段",
-    "description": "一身華麗如寶石的台灣特有種，卻擁有極其強悍的「家族幫派」社會性與護巢本能。",
-    "healthScore": 65,
-    "qualityScore": 12,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 0
-  },
-  {
     "title": "劉安婷",
     "slug": "劉安婷",
     "category": "people",
@@ -7784,7 +8216,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7815,7 +8247,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7846,7 +8278,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7913,7 +8345,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -7980,7 +8412,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8011,7 +8443,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8156,7 +8588,7 @@
       "戰貓"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -8233,7 +8665,7 @@
       "2024"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -8272,7 +8704,7 @@
       "2026"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -8303,7 +8735,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -8340,7 +8772,7 @@
       "世代"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8409,7 +8841,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8486,7 +8918,7 @@
       "信義計畫區"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8517,7 +8949,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -8527,7 +8959,7 @@
     "commitHash": "ecb173b1",
     "commitSubject": "🧬 [semiont] rewrite: 新專題「台灣動物用藥爭議」+ SSODT Phase 0 實驗",
     "description": "99% 覆蓋率的矛盾奇蹟：Numbeo 連六年全球第一的健保制度，為何讓醫護人員以血汗支撐？",
-    "healthScore": 82,
+    "healthScore": 77,
     "qualityScore": 9,
     "formatIssues": 0,
     "hasOverview": true,
@@ -8655,7 +9087,7 @@
       "遠距醫療"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8723,7 +9155,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8836,7 +9268,7 @@
       "生死觀"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -8981,7 +9413,7 @@
       "兒少保護"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9021,7 +9453,7 @@
       "媽祖"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9060,7 +9492,7 @@
       "永續時尚"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9099,7 +9531,7 @@
       "節慶食物"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9130,7 +9562,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9177,7 +9609,7 @@
     "commitHash": "8b302342",
     "commitSubject": "🧬 [semiont] heal: 首頁空分類修復 — 氣候+粽子標 featured，展廳 picks 補齊",
     "description": "年降雨量是全球平均2.5倍，卻名列全球前20缺水國——台灣的氣候從來不是你想的那樣",
-    "healthScore": 100,
+    "healthScore": 95,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -9316,7 +9748,7 @@
       "台灣民主運動"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9354,7 +9786,7 @@
       "腦瘤"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9433,7 +9865,7 @@
       "科技"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9472,7 +9904,7 @@
       "論壇"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9572,7 +10004,7 @@
       "搖滾樂"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9681,7 +10113,7 @@
       "林文安"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -9809,7 +10241,7 @@
     "commitHash": "55c3ff6a",
     "commitSubject": "🧬 [semiont] rewrite: 吳寶春全面重寫（F→A，7腳註）— 排灣族承諾開場 + 舊文事實更正",
     "description": "從淡水商工到世界第14、塞舌爾的頓悟到台北大直的回歸，André Chiang 以八角哲學在國際餐飲界為台灣廚師確立了一個新座標",
-    "healthScore": 90,
+    "healthScore": 85,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -9837,7 +10269,7 @@
       "民進黨"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -9917,7 +10349,7 @@
     "commitHash": "44b55077",
     "commitSubject": "🧬 [semiont] heal: 族群文章格式升級 — QS 5→0, F→B 級",
     "description": "一場道歉儀式、一萬人的遊行、57萬個新來的家庭——台灣族群的故事，比「多元共融」四個字複雜得多。",
-    "healthScore": 90,
+    "healthScore": 85,
     "qualityScore": 4,
     "formatIssues": 0,
     "hasOverview": true,
@@ -10242,7 +10674,7 @@
     "commitHash": "c018a424",
     "commitSubject": "fix(馬偕): remove blank line in frontmatter + add subcategory '歷史人物'",
     "description": "從拔牙兩萬顆到創辦女子學堂，加拿大宣教士馬偕如何成為「正港台灣人」，用三十年生命改寫北台灣的醫療、教育與科學探索史。",
-    "healthScore": 72,
+    "healthScore": 67,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10268,7 +10700,7 @@
       "噗幣"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10304,7 +10736,7 @@
       "台灣美食"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10342,7 +10774,7 @@
       "台灣文化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10379,7 +10811,7 @@
       "認知作戰"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10427,7 +10859,7 @@
     "commitHash": "e3f90096",
     "commitSubject": "rewrite: 台灣手路菜 — Pipeline v2.4 完整重寫（knowledge/ SSOT）",
     "description": "手路菜（台語 tshiú-lōo-tshài）是「拿手好菜」的意思。高雄內門的白堊土種不出作物，卻養出全台密度最高的總鋪師——黃金年代一年辦 25,000 桌，大月營收 1,200 萬。一鍋菜尾湯要花四到八小時，結得好不好，全村隔天都知道。",
-    "healthScore": 97,
+    "healthScore": 92,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10466,7 +10898,7 @@
     "commitHash": "11f80544",
     "commitSubject": "translate: 夜市文化+族群 EN 重翻（Evolve Pipeline）",
     "description": "一個寡婦的私菸攤，如何點燃一座島嶼三十八年的沉默——1947年改變台灣命運的十天，以及七十八年後仍在癒合的傷",
-    "healthScore": 100,
+    "healthScore": 95,
     "qualityScore": 9,
     "formatIssues": 2,
     "hasOverview": false,
@@ -10493,7 +10925,7 @@
       "白色恐怖"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10503,7 +10935,7 @@
     "commitHash": "26967033",
     "commitSubject": "citation: 美麗島事件升級 footnote（12定義，手動精確對應）",
     "description": "台灣撤銷了近六千份威權時期的有罪判決，卻幾乎沒有一個加害者被追究責任——這個落差，比白色恐怖本身更難解釋。",
-    "healthScore": 87,
+    "healthScore": 82,
     "qualityScore": 8,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10565,7 +10997,7 @@
     "commitHash": "c1168911",
     "commitSubject": "rewrite: 曾雅妮 — 二次深化（Evolve Pipeline）",
     "description": "109週世界第一，LPGA 15冠5大賽，22歲成史上最年輕擁有5座大賽金盃的球員，超越老虎伍茲的紀錄；2025年結束11年冠軍荒，再度封后",
-    "healthScore": 80,
+    "healthScore": 75,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10596,7 +11028,7 @@
     "commitHash": "a57fd774",
     "commitSubject": "rewrite: 翁啟惠+曾雅妮+杜聰明+許倬雲 深度改寫 + docs: EVOLVE-PIPELINE v1.1",
     "description": "台灣第一位醫學博士，發明漸進斷癮法在17年間幫助11498人戒除鴉片，高雄醫學大學創辦人",
-    "healthScore": 77,
+    "healthScore": 72,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10633,7 +11065,7 @@
     "commitHash": "7d3b6cda",
     "commitSubject": "feat: 林強 — 台語偶像→電子音樂先鋒（侯孝賢+賈樟柯，11來源）",
     "description": "一個賣出四十萬張唱片的台語搖滾偶像，主動拋棄一切去做沒人聽的電子音樂——然後成為侯孝賢、賈樟柯御用的亞洲頂尖聲音藝術家。",
-    "healthScore": 85,
+    "healthScore": 80,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10672,7 +11104,7 @@
     "commitHash": "a57fd774",
     "commitSubject": "rewrite: 翁啟惠+曾雅妮+杜聰明+許倬雲 深度改寫 + docs: EVOLVE-PIPELINE v1.1",
     "description": "醣化學世界權威，2014年沃爾夫化學獎得主，中研院前院長，因浩鼎案與諾貝爾獎擦肩而過",
-    "healthScore": 88,
+    "healthScore": 83,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10699,7 +11131,7 @@
       "冷戰"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10709,7 +11141,7 @@
     "commitHash": "6e1ddefa",
     "commitSubject": "citation: 蔣中正升級 footnote 格式（15 定義 / 32 引用，移除文末參考資料段）",
     "description": "他的銅像正在被搬走，但他奠下的地基——無論你稱之為建設或枷鎖——還在撐著這座島的每一條路、每一間學校、每一次選舉。",
-    "healthScore": 84,
+    "healthScore": 79,
     "qualityScore": 4,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10740,7 +11172,7 @@
     "commitHash": "49442ab4",
     "commitSubject": "rewrite: 翁啟惠+曾雅妮+杜聰明+許倬雲 — 深度改寫（Search Console 驅動）",
     "description": "史學大師，先天殘障卻用兩根手指寫出近四十部著作，《萬古江河》銷量百萬，2024年獲唐獎，2025年辭世",
-    "healthScore": 80,
+    "healthScore": 75,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10777,7 +11209,7 @@
     "commitHash": "ba826c59",
     "commitSubject": "feat: 陳澄波 — 藝術+歷史雙棲人物（帝展→槍決→閣樓30年→重見天日，11來源）",
     "description": "他以油畫征服了東京的帝展，卻在嘉義車站前被槍斃——而讓世人知道他的，往往是死亡，不是那些畫。",
-    "healthScore": 87,
+    "healthScore": 82,
     "qualityScore": 10,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10814,7 +11246,7 @@
     "commitHash": "da13cc42",
     "commitSubject": "docs: CITATION-SYSTEM v0.2 — Phase 1 技術確認完成（渲染+CSS+手機端全就緒）",
     "description": "省籍矛盾不是兩群人互相討厭的故事，而是一場關於誰有資格定義「台灣人」的權力爭奪——它在選票上死而復生，在眷村拆遷裡悄悄蒸發，卻從未真正終結。",
-    "healthScore": 84,
+    "healthScore": 79,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10842,7 +11274,7 @@
       "台灣戲劇"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -10852,7 +11284,7 @@
     "commitHash": "0beb32d0",
     "commitSubject": "rewrite: 台灣電視產業史 — 從老三台到植劇場 1962-2026",
     "description": "1962 年台視開播到 2016 年植劇場，台灣電視產業從「黨政軍壟斷」到「公共媒體崛起」的 54 年。一個不賣廣告的平台，如何說了一個大家都喜歡的故事？",
-    "healthScore": 95,
+    "healthScore": 90,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10927,7 +11359,7 @@
     "commitHash": "2b1ba281",
     "commitSubject": "rewrite: 植劇場 — EDITORIAL v4 + Pipeline v2 (zh + en)",
     "description": "2016年，科技業大老闆童子賢掏出資金，讓王小棣帶著台灣最頂尖的導演們做一件反商業邏輯的事：不拍大片，只帶新人。",
-    "healthScore": 87,
+    "healthScore": 82,
     "qualityScore": 5,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10958,7 +11390,7 @@
     "commitHash": "837f703b",
     "commitSubject": "feat: 族群文章 rewrite pipeline（304行→146行，場景開場+3引語）",
     "description": "一個清朝就存在的產業，在台灣最貧瘠的土地上養出全球密度最高的總鋪師。疫情讓訂單蒸發九成，但真正讓行家憂心的，從來不是失業——是失傳。",
-    "healthScore": 80,
+    "healthScore": 75,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10996,7 +11428,7 @@
     "commitHash": "722315d9",
     "commitSubject": "feat: 用語保存頁面新增 subcategory 篩選列",
     "description": "1987 年台中的一次員工會議，一個不經意的動作，讓一杯飲料征服了全球。珍珠奶茶的起源爭議、文化政治、與一杯 500 大卡的健康辯論。",
-    "healthScore": 100,
+    "healthScore": 95,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11035,7 +11467,7 @@
     "commitHash": "3ffc6a53",
     "commitSubject": "polish: 台灣石虎保育 — 空洞詞替換 + 破折號精簡（quality-scan 7→≤3）",
     "description": "全台剩不到五百隻的幽靈貓——當最後的原生貓科走上消失的邊緣",
-    "healthScore": 89,
+    "healthScore": 84,
     "qualityScore": 4,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11072,7 +11504,7 @@
     "commitHash": "a7aaedcc",
     "commitSubject": "feat: 江振誠+杜奕瑾 rewrite pipeline + 用語詞條第三波",
     "description": "用一台 486 電腦架起台灣最大論壇、在微軟帶領 Cortana 問世，然後放棄高薪回台做非營利 AI——PTT 創世神的三十年數位史",
-    "healthScore": 100,
+    "healthScore": 95,
     "qualityScore": 6,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11110,7 +11542,7 @@
     "commitHash": "087090ac",
     "commitSubject": "fix: 柯文哲/馬英九/陳水扁 三篇政治人物文章 rewrite（社群 feedback 修正）",
     "description": "從葉克膜 SOP 建立者到第三勢力旗手，台灣第一位無黨籍台北市長的跌宕政治史",
-    "healthScore": 86,
+    "healthScore": 81,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -11285,7 +11717,7 @@
       "聯盟行銷"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11502,7 +11934,7 @@
       "青年就業"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -11918,7 +12350,7 @@
       "許振榮"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -12021,7 +12453,7 @@
       "野百合學運"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": true,
@@ -13035,7 +13467,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -13168,42 +13600,6 @@
     "fnCount": 0
   },
   {
-    "title": "黑冠麻鷺：都市裡的「大笨鳥」生存哲學",
-    "slug": "黑冠麻鷺",
-    "category": "nature",
-    "subcategory": "野生動物",
-    "date": "2026-03-24",
-    "lastModified": "2026-03-24",
-    "lastVerified": "2026-03-24",
-    "lastHumanReview": "false",
-    "featured": false,
-    "wordCount": 830,
-    "tagCount": 4,
-    "tags": [
-      "台灣生態",
-      "都市鳥類",
-      "黑冠麻鷺",
-      "大笨鳥"
-    ],
-    "translations": {
-      "en": false,
-      "ja": true,
-      "ko": true,
-      "es": false,
-      "fr": true
-    },
-    "revision": 5,
-    "commitHash": "ce6efb87",
-    "commitSubject": "content: add 黑冠麻鷺 article (closes #185)",
-    "description": "探索台灣校園與公園最常見的「大笨鳥」黑冠麻鷺，了解牠如何從深山隱士轉化為都市共生者的傳奇故事。",
-    "healthScore": 65,
-    "qualityScore": 11,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 0
-  },
-  {
     "title": "侯孝賢",
     "slug": "侯孝賢",
     "category": "people",
@@ -13261,7 +13657,7 @@
       "鴨母王"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -14062,7 +14458,7 @@
       "升學制度"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": true,
@@ -14177,7 +14573,7 @@
       "海洋國家公園"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -14502,7 +14898,7 @@
       "雨神"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -14607,7 +15003,7 @@
       "公民運動"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
       "es": false,
@@ -15042,43 +15438,6 @@
     "fnCount": 0
   },
   {
-    "title": "台灣滷肉飯",
-    "slug": "台灣滷肉飯",
-    "category": "food",
-    "subcategory": "族群飲食",
-    "date": "2026-03-19",
-    "lastModified": "2026-03-22",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": "false",
-    "featured": true,
-    "wordCount": 1662,
-    "tagCount": 5,
-    "tags": [
-      "滷肉飯",
-      "肉燥飯",
-      "眷村菜",
-      "國民美食",
-      "南北差異"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": false,
-      "fr": true
-    },
-    "revision": 12,
-    "commitHash": "d7ee5e4e",
-    "commitSubject": "feat: Changelog 相對時間顯示 + Food 圖片全換實拍圖",
-    "description": "從眷村廚房到國民美食，探索台灣滷肉飯的南北戰爭與文化認同",
-    "healthScore": 84,
-    "qualityScore": 7,
-    "formatIssues": 3,
-    "hasOverview": false,
-    "hasReading": false,
-    "fnCount": 2
-  },
-  {
     "title": "台灣發酵食品與醃製文化",
     "slug": "台灣發酵食品與醃製文化",
     "category": "food",
@@ -15175,7 +15534,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -15249,7 +15608,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": false,
       "fr": true
@@ -15376,44 +15735,6 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 0
-  },
-  {
-    "title": "牛肉麵",
-    "slug": "牛肉麵",
-    "category": "food",
-    "subcategory": "經典小吃",
-    "date": "2026-03-17",
-    "lastModified": "2026-03-22",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": "false",
-    "featured": true,
-    "wordCount": 3195,
-    "tagCount": 6,
-    "tags": [
-      "美食",
-      "牛肉麵",
-      "外省菜",
-      "文化融合",
-      "台北牛肉麵節",
-      "米其林"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true
-    },
-    "revision": 17,
-    "commitHash": "a70c17f8",
-    "commitSubject": "feat: Food Hub D3 視覺化 — 風味輪 + 風味關係圖",
-    "description": "從外省移民鄉愁到台灣國民美食，牛肉麵的文化融合與全球飄香",
-    "healthScore": 95,
-    "qualityScore": 6,
-    "formatIssues": 3,
-    "hasOverview": false,
-    "hasReading": false,
-    "fnCount": 4
   },
   {
     "title": "溫泉文化",
@@ -17042,7 +17363,7 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -17511,7 +17832,7 @@
       "經濟奇蹟"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -17548,7 +17869,7 @@
       "台灣發展模式"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -20398,7 +20719,7 @@
       "社區營造"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -20617,7 +20938,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": false,
       "es": false,
       "fr": true
@@ -21212,7 +21533,7 @@
       "台灣消費"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -21735,7 +22056,7 @@
       "現代化"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -21773,7 +22094,7 @@
       "獨角獸"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": true,
       "es": false,
@@ -22649,7 +22970,7 @@
       "教育"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -22689,7 +23010,7 @@
       "校園管教"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -22729,7 +23050,7 @@
       "公民與道德"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -22806,7 +23127,7 @@
       "東亞教育"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -22846,7 +23167,7 @@
       "新自由主義"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,
@@ -22886,7 +23207,7 @@
       "教改會"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": false,
       "ko": false,
       "es": false,

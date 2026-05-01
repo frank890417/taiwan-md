@@ -17,7 +17,7 @@ featured: false
 lastVerified: 2026-04-14
 lastHumanReview: false
 category: “People”
-translatedFrom: “People/李珠珢.md”
+translatedFrom: 'People/李珠珢.md'
 sourceCommitSha: “967e77ab”
 sourceContentHash: “sha256:1a5ec966d15fc75f”
 translatedAt: “2026-05-01T13:19:11+08:00”

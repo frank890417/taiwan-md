@@ -22,7 +22,7 @@ featured: false
 readingTime: 15
 lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
-translatedFrom: 'art/王新仁.md'
+translatedFrom: 'Art/王新仁.md'
 researchReport: reports/research/2026-04/王新仁.md
 ---
 

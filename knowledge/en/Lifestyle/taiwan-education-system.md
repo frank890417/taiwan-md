@@ -16,6 +16,7 @@ lastHumanReview: false
 description: Taiwan spent 30 years trying to abolish its brutal university entrance exam system, only to see cram school enrollments double in 2022. How an island repeatedly experiments with balancing exam pressure and educational equity.
 readingTime: 12
 featured: true
+translatedFrom: 'Lifestyle/台灣教育制度.md'
 ---
 
 > **30-second overview:** In 2022, "SAT prep school enrollment now open" posters appeared near Taipei Main Station, with consultation numbers doubling compared to the previous year. Ironically, Taiwan spent 30 years on education reform trying to eliminate "one test determines your fate," only to see the first generation under the new curriculum return to exam panic. From 100,000 retakers on Nanyang Street in 1981 to just 2,500 in 2023, then back to cram school revival in 2022—this cycle reflects an island's ongoing debate over the definition of "fairness."

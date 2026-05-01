@@ -16,6 +16,7 @@ readingTime: 8
 featured: true
 lastVerified: 2026-03-23
 lastHumanReview: false
+translatedFrom: 'Nature/台灣海洋保育與挑戰.md'
 ---
 
 # Taiwan Marine Conservation: Why 30 Years of Protection Couldn't Stop One Coral Bleaching Event?

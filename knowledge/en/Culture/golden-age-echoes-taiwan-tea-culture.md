@@ -18,6 +18,7 @@ readingTime: 12
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+translatedFrom: 'Food/茶文化.md'
 ---
 
 # Echoes of a Golden Age: The Evolution and Craft of Taiwanese Tea

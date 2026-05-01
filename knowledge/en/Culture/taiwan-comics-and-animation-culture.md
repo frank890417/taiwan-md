@@ -10,7 +10,7 @@ readingTime: 12
 category: 'Culture'
 featured: false
 lastVerified: 2026-03-20
-translatedFrom: 'Culture/台灣漫畫與動漫文化.md'
+translatedFrom: 'Culture/台灣動漫文化.md'
 ---
 
 # Taiwan Comics and Animation Culture

@@ -31,6 +31,12 @@ const QUALITY_BASELINE_PATH = path.join(
   'tools',
   '.quality-baseline.json',
 );
+// 2026-05-01 γ-late2：3-state truth source（fresh / stale / missing / orphan）
+// 由 scripts/tools/lang-sync/status.py 產出；prebuild 鏈或 lang-sync run 時更新
+const TRANSLATION_STATUS_PATH = path.join(
+  KNOWLEDGE_DIR,
+  '_translation-status.json',
+);
 
 // PascalCase category directories (zh-TW SSOT)
 const CATEGORIES = [
@@ -651,31 +657,146 @@ async function main() {
   // =========================================================================
   const languages = ['zh-TW', ...TRANSLATION_LANGS];
 
-  // Summary
-  const summary = {
-    'zh-TW': { total: articles.length, percentage: 100 },
-  };
-  for (const lang of TRANSLATION_LANGS) {
-    const total = languageCoverage[lang];
-    summary[lang] = {
-      total,
-      percentage:
-        articles.length > 0
-          ? parseFloat(((total / articles.length) * 100).toFixed(1))
-          : 0,
-    };
+  // 2026-05-01 γ-late2：讀 _translation-status.json 拿 fresh/stale/missing/orphan
+  // 真實 truth（status.py 算的，比 file existence 嚴格）。如不存在就 fallback
+  // 退化成 existence count（向後相容）。
+  let statusByArticle = null;
+  let statusSummary = null;
+  let statusMeta = null;
+  if (fs.existsSync(TRANSLATION_STATUS_PATH)) {
+    try {
+      const raw = JSON.parse(fs.readFileSync(TRANSLATION_STATUS_PATH, 'utf8'));
+      statusByArticle = raw.byArticle || null;
+      statusSummary = raw._meta?.summary || null;
+      statusMeta = raw._meta || null;
+    } catch (e) {
+      console.warn(
+        `⚠️  Failed to parse _translation-status.json: ${e.message} — falling back to existence count`,
+      );
+    }
+  } else {
+    console.warn(
+      `⚠️  ${TRANSLATION_STATUS_PATH} not found — falling back to existence count (run lang-sync status to refresh)`,
+    );
   }
 
-  // Matrix: category -> { lang: count }
+  // Summary（含 3-state breakdown 與 deficit；有 status.json 則用真實，否則 fallback）
+  const summary = {
+    'zh-TW': {
+      total: articles.length,
+      percentage: 100,
+      fresh: articles.length,
+      stale: 0,
+      missing: 0,
+      deficit: 0,
+    },
+  };
+  for (const lang of TRANSLATION_LANGS) {
+    if (statusSummary && statusSummary[lang]) {
+      const s = statusSummary[lang];
+      const fresh = s.fresh || 0;
+      const stale = s.stale || 0;
+      const miss = s.missing || 0;
+      const orphan = s.orphan || 0;
+      const totalZh = s.total_zh || articles.length;
+      // total = fresh + stale（已存在的翻譯，舊 dashboard 顯示用）
+      const total = fresh + stale;
+      summary[lang] = {
+        total,
+        percentage:
+          totalZh > 0 ? parseFloat(((total / totalZh) * 100).toFixed(1)) : 0,
+        fresh,
+        stale,
+        missing: miss,
+        orphan,
+        // deficit = 距 zh 完全覆蓋還差幾篇（fresh+stale 不到 totalZh）
+        deficit: Math.max(0, totalZh - total),
+        // freshPct = 真實健康度（只算 fresh）
+        freshPct:
+          totalZh > 0 ? parseFloat(((fresh / totalZh) * 100).toFixed(1)) : 0,
+      };
+    } else {
+      const total = languageCoverage[lang];
+      summary[lang] = {
+        total,
+        percentage:
+          articles.length > 0
+            ? parseFloat(((total / articles.length) * 100).toFixed(1))
+            : 0,
+        fresh: total, // unknown breakdown → assume all fresh (pre-status.json behaviour)
+        stale: 0,
+        missing: Math.max(0, articles.length - total),
+        orphan: 0,
+        deficit: Math.max(0, articles.length - total),
+        freshPct:
+          articles.length > 0
+            ? parseFloat(((total / articles.length) * 100).toFixed(1))
+            : 0,
+      };
+    }
+  }
+
+  // Matrix: category -> { lang: { fresh, stale, missing, count }, zh-TW: count }
   const matrix = {};
   const zhCategoryCounts = {};
   for (const a of articles) {
     zhCategoryCounts[a.category] = (zhCategoryCounts[a.category] || 0) + 1;
   }
+  // Build per-category 3-state if statusByArticle available
+  // statusByArticle key shape: "Category/zh-filename.md"（PascalCase 來自 zh canonical 路徑）
+  const categoryStateBuckets = {}; // { catLower: { lang: { fresh, stale, missing } } }
+  if (statusByArticle) {
+    for (const [zhPath, entry] of Object.entries(statusByArticle)) {
+      const catRaw = zhPath.split('/')[0];
+      const catLower = catRaw.toLowerCase();
+      if (!categoryStateBuckets[catLower]) {
+        categoryStateBuckets[catLower] = {};
+      }
+      for (const lang of TRANSLATION_LANGS) {
+        const tdata = entry.translations?.[lang];
+        if (!tdata) continue;
+        const status = tdata.status || 'missing';
+        if (!categoryStateBuckets[catLower][lang]) {
+          categoryStateBuckets[catLower][lang] = {
+            fresh: 0,
+            stale: 0,
+            missing: 0,
+          };
+        }
+        if (status === 'fresh' || status === 'stale' || status === 'missing') {
+          categoryStateBuckets[catLower][lang][status]++;
+        }
+      }
+    }
+  }
+
   for (const cat of Object.keys(zhCategoryCounts).sort()) {
-    matrix[cat] = { 'zh-TW': zhCategoryCounts[cat] };
+    const zhCount = zhCategoryCounts[cat];
+    matrix[cat] = { 'zh-TW': zhCount };
     for (const lang of TRANSLATION_LANGS) {
-      matrix[cat][lang] = translationCategoryCounts[lang][cat] || 0;
+      const bucket = categoryStateBuckets[cat]?.[lang];
+      if (bucket) {
+        const fresh = bucket.fresh;
+        const stale = bucket.stale;
+        const miss = bucket.missing;
+        matrix[cat][lang] = {
+          count: fresh + stale, // backward-compat（template 舊版用）
+          fresh,
+          stale,
+          missing: miss,
+          deficit: Math.max(0, zhCount - fresh - stale),
+        };
+      } else {
+        // fallback: existence count only
+        const cnt = translationCategoryCounts[lang][cat] || 0;
+        matrix[cat][lang] = {
+          count: cnt,
+          fresh: cnt,
+          stale: 0,
+          missing: Math.max(0, zhCount - cnt),
+          deficit: Math.max(0, zhCount - cnt),
+        };
+      }
     }
   }
 
@@ -699,6 +820,9 @@ async function main() {
     summary,
     matrix,
     missing,
+    // 2026-05-01 γ-late2：surfacing status.py 來源 + orphan list（healthy = []）
+    statusSource: statusByArticle ? 'translation-status.json' : 'existence',
+    orphans: statusMeta?.orphans || {},
   };
 
   fs.writeFileSync(

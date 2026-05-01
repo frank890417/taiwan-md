@@ -1,16 +1,16 @@
 {
   "_meta": {
-    "lastUpdated": "2026-05-01T16:16:30+08:00",
-    "zhCommitHead": "4da59e73",
+    "lastUpdated": "2026-05-01T17:00:02+08:00",
+    "zhCommitHead": "6802fdd3",
     "totalZh": 641,
     "activeLanguages": ["en", "ja", "ko", "es", "fr"],
     "summary": {
       "en": {
         "total_zh": 641,
-        "fresh": 429,
-        "stale": 182,
-        "missing": 30,
-        "orphan": 6
+        "fresh": 424,
+        "stale": 190,
+        "missing": 27,
+        "orphan": 0
       },
       "ja": {
         "total_zh": 641,
@@ -42,14 +42,7 @@
       }
     },
     "orphans": {
-      "en": [
-        "en/Art/taiwanese-comics-and-illustration.md",
-        "en/Art/aluan-wang.md",
-        "en/Lifestyle/taiwan-coffee-culture.md",
-        "en/People/park-sung-eun.md",
-        "en/People/lee-ju-eun.md",
-        "en/Culture/taiwan-comics-and-animation-culture.md"
-      ],
+      "en": [],
       "ja": [
         "ja/Art/comics-and-illustration.md",
         "ja/Culture/manga-and-anime-culture.md"
@@ -7718,16 +7711,16 @@
       },
       "translations": {
         "en": {
-          "path": "en/Art/taiwan-comics.md",
+          "path": "en/Art/taiwanese-comics-and-illustration.md",
           "translatedFrom": "Art/台灣漫畫.md",
-          "sourceCommitSha": "0d8e06fc",
-          "sourceContentHash": "sha256:3a1178905711b562",
-          "translatedAt": "2026-05-01T12:53:58+08:00",
-          "translationLastCommit": "e53a81d7",
-          "translationLastModified": "2026-05-01T14:43:46+08:00",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "69c16ee9",
+          "translationLastModified": "2026-04-14T12:25:09+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "status": "missing"
@@ -8653,8 +8646,8 @@
           "sourceCommitSha": "56fa1bf1",
           "sourceContentHash": "sha256:01872081668edbca",
           "translatedAt": "2026-05-01T14:48:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6802fdd3",
+          "translationLastModified": "2026-05-01T16:47:24+08:00",
           "inferred": false,
           "status": "fresh",
           "reason": "same-commit"
@@ -8942,16 +8935,16 @@
       },
       "translations": {
         "en": {
-          "path": "en/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
+          "path": "en/Lifestyle/Taiwan Healthcare and National Health Insurance.md",
           "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
-          "sourceCommitSha": "ecb173b1",
-          "sourceContentHash": "sha256:39c821713935f8cf",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
-          "translationLastCommit": "9d5d5a6b",
-          "translationLastModified": "2026-05-01T14:09:08+08:00",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "a8337df8",
+          "translationLastModified": "2026-03-25T07:26:19+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "path": "ja/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
@@ -9173,16 +9166,16 @@
       },
       "translations": {
         "en": {
-          "path": "en/Lifestyle/taiwan-education-system-overview.md",
+          "path": "en/Lifestyle/taiwan-education-system.md",
           "translatedFrom": "Lifestyle/台灣教育制度.md",
-          "sourceCommitSha": "800114ea",
-          "sourceContentHash": "sha256:4e9ca27840e47d5f",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
-          "translationLastCommit": "908badd1",
-          "translationLastModified": "2026-05-01T14:33:39+08:00",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "6293530b",
+          "translationLastModified": "2026-04-03T14:30:43+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "status": "missing"
@@ -13082,7 +13075,16 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Nature/taiwan-marine-conservation-challenges.md",
+          "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "6293530b",
+          "translationLastModified": "2026-04-03T14:30:43+08:00",
+          "inferred": false,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "status": "missing"
@@ -21422,16 +21424,16 @@
       },
       "translations": {
         "en": {
-          "path": "en/People/lee-ju-eun-singer.md",
+          "path": "en/People/lee-ju-eun.md",
           "translatedFrom": "People/李珠珢.md",
-          "sourceCommitSha": "967e77ab",
-          "sourceContentHash": "sha256:1a5ec966d15fc75f",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
-          "translationLastCommit": "9d5d5a6b",
-          "translationLastModified": "2026-05-01T14:09:08+08:00",
+          "sourceCommitSha": "“967e77ab”",
+          "sourceContentHash": "“sha256:1a5ec966d15fc75f”",
+          "translatedAt": "“2026-05-01T13:19:11+08:00”",
+          "translationLastCommit": "2e272bcd",
+          "translationLastModified": "2026-05-01T13:42:08+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "ja": {
           "path": "ja/People/lee-ju-eun.md",
@@ -24089,7 +24091,16 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/jam-hsiao.md",
+          "translatedFrom": "People/蕭敬騰.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "1ce3433e",
+          "translationLastModified": "2026-03-23T22:05:25+08:00",
+          "inferred": false,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "status": "missing"
@@ -26164,8 +26175,8 @@
           "sourceCommitSha": "64abf6f8",
           "sourceContentHash": "sha256:75886d0c9c5c9b1f",
           "translatedAt": "2026-05-01T14:48:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6802fdd3",
+          "translationLastModified": "2026-05-01T16:47:24+08:00",
           "inferred": false,
           "status": "fresh",
           "reason": "same-commit"
@@ -26351,16 +26362,16 @@
       },
       "translations": {
         "en": {
-          "path": "en/Food/tea-culture.md",
+          "path": "en/Culture/golden-age-echoes-taiwan-tea-culture.md",
           "translatedFrom": "Food/茶文化.md",
-          "sourceCommitSha": "800114ea",
-          "sourceContentHash": "sha256:224c9e016e85d4f1",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
-          "translationLastCommit": "908badd1",
-          "translationLastModified": "2026-05-01T14:33:39+08:00",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "f2d8b623",
+          "translationLastModified": "2026-03-25T07:43:30+08:00",
           "inferred": false,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "status": "missing"
@@ -31219,8 +31230,8 @@
           "sourceCommitSha": "dc87c2a6",
           "sourceContentHash": "sha256:9ab59f274019f37e",
           "translatedAt": "2026-05-01T16:04:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6802fdd3",
+          "translationLastModified": "2026-05-01T16:47:24+08:00",
           "inferred": false,
           "status": "fresh",
           "reason": "same-commit"
@@ -32489,7 +32500,16 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/jiutian-xuannu-belief.md",
+          "translatedFrom": "Culture/九天玄女信仰.md",
+          "sourceCommitSha": "",
+          "sourceContentHash": "",
+          "translatedAt": "",
+          "translationLastCommit": "6c753913",
+          "translationLastModified": "2026-03-27T23:48:09+08:00",
+          "inferred": false,
+          "status": "stale",
+          "reason": "no-source-sha"
         },
         "ja": {
           "path": "ja/Culture/nine-heavens-goddess.md",

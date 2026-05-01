@@ -8,6 +8,7 @@ readingTime: 7
 featured: false
 category: 'Food'
 lastVerified: 2026-03-19
+translatedFrom: 'Food/台灣冰品文化.md'
 ---
 
 # Taiwan’s Ice Culture
