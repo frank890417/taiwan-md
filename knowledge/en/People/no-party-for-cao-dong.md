@@ -257,13 +257,13 @@ Then the camera cut to the next award.
 
 **Further reading:**
 
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only) — also belongs to the 2010s independent music ecosystem; the counterpart along the female vocal path
-- [Constant and Change](/en/people/constant-and-change-band) — also on the post-rock spectrum, but taking the lyrical narration path
-- [Cicada](/en/people/cicada) (zh only) — takes the all-instrumental no-vocal path, the exact opposite of Cao Dong's "lyrics as sociology"
-- [Crowd Lu](/en/people/crowd-lu) (zh only) — another path in independent music: the compositional singer across the three major awards
-- [Popular Music and Golden Melody Awards](/en/music/popular-music-golden-melody) (zh only) — the stage coordinates where Cao Dong won Best Band twice
-- [Taiwan Independent Music](/en/music/taiwan-independent-music) (zh only) — the independent music evolution from 1976 to Cao Dong to Sunset Rollercoaster
-- [Taiwan Popular Music](/en/music/taiwan-popular-music) (zh only) — the Mandarin popular music industry environment
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only) — also belongs to the 2010s independent music ecosystem; the counterpart along the female vocal path
+- [Constant and Change](/en/People/constant-and-change-band) — also on the post-rock spectrum, but taking the lyrical narration path
+- [Cicada](/en/People/cicada-band) (zh only) — takes the all-instrumental no-vocal path, the exact opposite of Cao Dong's "lyrics as sociology"
+- [Crowd Lu](/en/People/crowd-lu-indie-folk-treasure) (zh only) — another path in independent music: the compositional singer across the three major awards
+- [Popular Music and Golden Melody Awards](/en/Music/pop-music-and-golden-melody-awards) (zh only) — the stage coordinates where Cao Dong won Best Band twice
+- [Taiwan Independent Music](/en/Music/indie-music-scene) (zh only) — the independent music evolution from 1976 to Cao Dong to Sunset Rollercoaster
+- [Taiwan Popular Music](/en/Music/pop-music-and-golden-melody-awards) (zh only) — the Mandarin popular music industry environment
 
 ## References
 

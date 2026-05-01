@@ -161,10 +161,10 @@ The truth is probably somewhere in between. And Han Kuo-yu may be the quietest b
 
 **延伸閱讀**：
 
-- [Cheng Li-wun](/en/people/cheng-li-wun) — The two most important KMT figures of 2025–2026: one is party chair, the other is Speaker of the Legislative Yuan, representing different ecosystems within the party
-- [Taiwan's Political Landscape and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) — Why does the party-list system allow recalled politicians like Han to return? The answer lies in the electoral rules themselves
-- [Ko Wen-je](/en/people/ko-wen-je) — Another figure who went from outsider to mayor to presidential candidate to the center of a political storm; the "rise-and-fall" arc mirrors Han's
-- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The president who defeated Han by 2.65 million votes in 2020 and reshaped Taiwan's international positioning during her eight years in office
+- [Cheng Li-wun](/en/People/cheng-li-wun) — The two most important KMT figures of 2025–2026: one is party chair, the other is Speaker of the Legislative Yuan, representing different ecosystems within the party
+- [Taiwan's Political Landscape and Electoral System](/en/Society/taiwan-political-landscape-and-electoral-system) — Why does the party-list system allow recalled politicians like Han to return? The answer lies in the electoral rules themselves
+- [Ko Wen-je](/en/People/ko-wen-je) — Another figure who went from outsider to mayor to presidential candidate to the center of a political storm; the "rise-and-fall" arc mirrors Han's
+- [Tsai Ing-wen](/en/People/tsai-ing-wen) — The president who defeated Han by 2.65 million votes in 2020 and reshaped Taiwan's international positioning during her eight years in office
 
 ## 參考資料
 

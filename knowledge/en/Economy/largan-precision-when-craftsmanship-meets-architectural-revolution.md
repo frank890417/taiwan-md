@@ -18,6 +18,9 @@ readingTime: 15
 lastVerified: 2026-03-22
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：大立光電.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:74469a54ad5b9ae3'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Largan Precision: When Craftsmanship Meets Architectural Revolution

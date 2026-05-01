@@ -140,9 +140,9 @@ The rubber boots are still outside the classroom. The rice paddies are still bei
 
 **Further reading:**
 
-- [Taiwan Convenience Store Culture](/en/lifestyle/taiwan-convenience-store-culture) — Yen changed how Taiwan saw "service work"; convenience stores turned service into national infrastructure
-- [Taiwan Indigenous Culture](/en/culture/taiwan-indigenous-culture) — A core principle of Junyi School: Indigenous culture doesn't need saving — it needs respect
-- [Taiwan Coffee Culture](/en/lifestyle/taiwan-coffee-culture) — When Yen was building luxury service at The Landis, Taiwanese were still drinking instant coffee
+- [Taiwan Convenience Store Culture](/en/Lifestyle/convenience-store-culture) — Yen changed how Taiwan saw "service work"; convenience stores turned service into national infrastructure
+- [Taiwan Indigenous Culture](/en/Culture/indigenous-peoples-16-tribes-cultural-map) — A core principle of Junyi School: Indigenous culture doesn't need saving — it needs respect
+- [Taiwan Coffee Culture](/en/Lifestyle/taiwan-coffee-culture) — When Yen was building luxury service at The Landis, Taiwanese were still drinking instant coffee
 
 ## References
 

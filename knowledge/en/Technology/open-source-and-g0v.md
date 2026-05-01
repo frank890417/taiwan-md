@@ -212,5 +212,5 @@ The answer is still being written, and everyone willing to contribute is an auth
 
 ## Related Topics
 
-- [Semiconductor Industry](/en/technology/semiconductor-industry) (zh only: 半導體產業): Taiwan's technological strength base
-- [Mini Taiwan Pulse](/en/technology/mini-taiwan-pulse): 2026 civic technology personal open-source practice — using TDX open data + Three.js to draw Taiwan as 3D light tracks
+- [Semiconductor Industry](/en/taiwan-semiconductor-industry) (zh only: 半導體產業): Taiwan's technological strength base
+- [Mini Taiwan Pulse](/en/Technology/mini-taiwan-pulse-civic-tech): 2026 civic technology personal open-source practice — using TDX open data + Three.js to draw Taiwan as 3D light tracks

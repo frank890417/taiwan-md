@@ -172,11 +172,11 @@ From farewell letter to Control Yuan president: forty-one years. That is what de
 
 **延伸閱讀**：
 
-- [February 28 Incident](/en/history/228-incident) — How the 1947 trauma became the origin of Taiwan's democratic consciousness
-- [Taiwan White Terror](/en/history/taiwan-white-terror) — The full scope of political persecution during 38 years of martial law
-- [Martial Law Era](/en/history/martial-law-era) — The legal foundations and social control mechanisms of the world's longest martial law
-- [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics) — The evolution of Taiwan's electoral system from the eternal parliament to four transfers of power
-- [Taiwan Transitional Justice](/en/history/taiwan-transitional-justice) — How society confronts the historical wounds of the authoritarian era
+- [February 28 Incident](/en/History/228-incident) — How the 1947 trauma became the origin of Taiwan's democratic consciousness
+- [Taiwan White Terror](/en/History/taiwan-white-terror) — The full scope of political persecution during 38 years of martial law
+- [Martial Law Era](/en/History/martial-law-era) — The legal foundations and social control mechanisms of the world's longest martial law
+- [Taiwan Elections and Party Politics](/en/History/taiwan-elections-and-party-politics) — The evolution of Taiwan's electoral system from the eternal parliament to four transfers of power
+- [Taiwan Transitional Justice](/en/History/taiwan-transitional-justice) — How society confronts the historical wounds of the authoritarian era
 
 ## 參考資料
 

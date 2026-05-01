@@ -154,10 +154,10 @@ Those thirty seconds — Chang Ching-chung probably never imagined that what he 
 
 **延伸閱讀**：
 
-- [Taiwan's Democratization](/en/history/taiwan-democratization) — The institutional foundation that made the Sunflower Movement possible
-- [Taiwan's Open-Source Community and g0v](/en/technology/open-source-and-g0v) — The civic hacker community behind the movement's digital infrastructure
-- [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation) — How Taiwan's civil society evolved after the Sunflower Movement
-- [Taiwan Strait Crises and Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The geopolitical context behind the CSSTA controversy
+- [Taiwan's Democratization](/en/History/taiwan-democratization) — The institutional foundation that made the Sunflower Movement possible
+- [Taiwan's Open-Source Community and g0v](/en/Technology/open-source-and-g0v) — The civic hacker community behind the movement's digital infrastructure
+- [Social Movements and Civic Participation](/en/Society/social-movements-and-civic-participation) — How Taiwan's civil society evolved after the Sunflower Movement
+- [Taiwan Strait Crises and Cross-Strait Relations](/en/History/taiwan-strait-crises-and-cross-strait-relations) — The geopolitical context behind the CSSTA controversy
 
 ## 參考資料
 

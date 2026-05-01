@@ -17,6 +17,9 @@ tags:
 subcategory: 'Sports'
 lastVerified: 2026-03-20
 translatedFrom: 'People/楊勇緯.md'
+sourceCommitSha: 'd4498d97'
+sourceContentHash: 'sha256:66a5e0aae1a572b7'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Yang Yung-Wei: Taiwan's Judo Pioneer

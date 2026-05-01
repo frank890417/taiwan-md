@@ -205,13 +205,13 @@ What language her next album will be in, what themes it will explore — no one 
 
 **Further reading**:
 
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only: 魏如萱) — Another path in the same generation of Taiwanese female singers, "self-defining through vocal character" (Wei Ru-xuan's doll-like voice × Enno Cheng's Taiwanese honesty — two different self-identity mechanisms)
-- [Abao (Aljenljeng Tjaluvie)](/en/people/aljenljeng-tjaluvie-abao) — Another breakthrough artist who took "using a non-mainstream language to win major Golden Melody categories" (Abao's Paiwan in 2020 Album of the Year × Enno Cheng's Taiwanese in 2023 Best Taiwanese — two points in time in the relationship between language and the Golden Melody Awards)
-- [Chen Chien-chi](/en/people/chen-chien-chi) (zh only: 陳建騏) — A Mandopop producer's systematic defense against "non-standard sound"; Enno Cheng uses the non-standardness of language, Abao uses the non-mainstream nature of indigenous languages, Chen Jian-qi uses doll-like voices — three types of "vocal boundary expansion"
-- [Popular Music and the Golden Melody Awards](/en/music/golden-melody-awards) (zh only: 流行音樂與金曲獎) — The structural significance of the Taiwanese-language categories at the 34th Golden Melody Awards in 2023
-- [Taiwan Popular Music](/en/music/taiwan-popular-music) (zh only: 台灣流行音樂) — The spectrum from "nativist resistance" to "contemporary tool" in Taiwanese-language songwriting
-- [Taiwan Independent Music](/en/music/taiwan-indie-music) (zh only: 台灣獨立音樂) — Enno Cheng's independent musician identity, from her Lady Zero era to "Mercury Retrograde"
-- [Yoga Lin](/en/people/yoga-lin) — A same-generation singer-songwriter who stepped back from a Mandopop idol position and took on self-production; a contrast case (Enno Cheng uses an unfamiliar language; Yoga Lin uses self-production identity — two paths to "escaping definition")
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only: 魏如萱) — Another path in the same generation of Taiwanese female singers, "self-defining through vocal character" (Wei Ru-xuan's doll-like voice × Enno Cheng's Taiwanese honesty — two different self-identity mechanisms)
+- [Abao (Aljenljeng Tjaluvie)](/en/People/aljenljeng-tjaluvie-abao) — Another breakthrough artist who took "using a non-mainstream language to win major Golden Melody categories" (Abao's Paiwan in 2020 Album of the Year × Enno Cheng's Taiwanese in 2023 Best Taiwanese — two points in time in the relationship between language and the Golden Melody Awards)
+- [Chen Chien-chi](/en/People/chen-chien-chi-music-producer) (zh only: 陳建騏) — A Mandopop producer's systematic defense against "non-standard sound"; Enno Cheng uses the non-standardness of language, Abao uses the non-mainstream nature of indigenous languages, Chen Jian-qi uses doll-like voices — three types of "vocal boundary expansion"
+- [Popular Music and the Golden Melody Awards](/en/Music/pop-music-and-golden-melody-awards) (zh only: 流行音樂與金曲獎) — The structural significance of the Taiwanese-language categories at the 34th Golden Melody Awards in 2023
+- [Taiwan Popular Music](/en/Music/pop-music-and-golden-melody-awards) (zh only: 台灣流行音樂) — The spectrum from "nativist resistance" to "contemporary tool" in Taiwanese-language songwriting
+- [Taiwan Independent Music](/en/Music/indie-music-scene) (zh only: 台灣獨立音樂) — Enno Cheng's independent musician identity, from her Lady Zero era to "Mercury Retrograde"
+- [Yoga Lin](/en/People/yoga-lin) — A same-generation singer-songwriter who stepped back from a Mandopop idol position and took on self-production; a contrast case (Enno Cheng uses an unfamiliar language; Yoga Lin uses self-production identity — two paths to "escaping definition")
 
 ## References
 

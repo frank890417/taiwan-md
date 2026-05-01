@@ -79,6 +79,6 @@ The Qing period established the basic contours of Taiwan's Han settler society, 
 
 ## Related Topics
 
-- [Dutch, Spanish, and Koxinga Era](/en/history/dutch-spanish-and-koxinga-era/)
-- [Japanese Colonial Era](/en/history/japanese-colonial-era/)
+- [Dutch, Spanish, and Koxinga Era](/en/History/dutch-spanish-and-koxinga-era/)
+- [Japanese Colonial Era](/en/History/japanese-colonial-era/)
 - [The Camphor Wars of the 19th Century (19世紀的樟腦戰爭)](/history/19世紀的樟腦戰爭) — How the 1860 opening of treaty ports drew Taiwan into global industrial supply chains, and the full account of the 1868 British naval bombardment of Anping over the camphor dispute

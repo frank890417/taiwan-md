@@ -36,7 +36,7 @@ Erhu, pipa, dizi, guzheng. The instruments themselves had no political stance, b
 
 With that meaning loaded aboard, guoyue crossed the strait to Taiwan.
 
-But Taiwan was not a blank canvas. The island already had nanguan (南管) and beiguan (北管) temple traditions as part of the [Taiwan Folk Music and Songs](/en/Music/Taiwan%20Folk%20Music%20and%20Songs/) tradition, along with Indigenous jaw harps and wooden drums, and a foundation of Western music education left by fifty years of Japanese colonial rule[^5]. When _guoyue_ was transplanted onto an island that already had its own soundscape, it was destined to grow into something different.
+But Taiwan was not a blank canvas. The island already had nanguan (南管) and beiguan (北管) temple traditions as part of the [Taiwan Folk Music and Songs](/en/Music/Taiwan Folk Music and Songs/) tradition, along with Indigenous jaw harps and wooden drums, and a foundation of Western music education left by fifty years of Japanese colonial rule[^5]. When _guoyue_ was transplanted onto an island that already had its own soundscape, it was destined to grow into something different.
 
 > **📝 Curator's Note**
 > Taiwan's guoyue education diverged from opera training from the very beginning. The National Taiwan College of Performing Arts (formerly Fu Hsing Dramatic Arts Academy, founded 1957) specialized in operatic music, while the National Taiwan University of Arts (formerly National Arts Academy, founded 1955) developed pure instrumental performance[^6]. This split is rare in the Chinese-speaking world — conservatories in mainland China typically house opera and folk music under the same roof. The result: Taiwanese guoyue pursued "pure music" from the start, rather than functioning as accompaniment for opera.

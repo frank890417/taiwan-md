@@ -98,7 +98,7 @@ On December 24, 2024, Wei Ru-xuan's "Pearl Punishment" was released. The product
 
 Chen Jian-qi is Wei Ru-xuan's longtime collaborator of 20-plus years, going back to her Natural Roll band era, all the way through Ophelia, Ni Tzu-chun, and Pearl Punishment. But for "Pearl Punishment," achieving the texture of "grotesque pearls" — deformed, heterogeneous, a bit uncomfortable — required bringing in Huang Shao-yong's electronic thinking, a system outside Chen Jian-qi's.
 
-**Huang Shao-yong filled in a piece outside Chen Jian-qi's producer lineage.** This is the most direct contrast between the two in Taiwan.md's producer biography chain. [Chen Jian-qi](/en/people/chen-chien-chi) (zh only: 陳建騏) in his 20 years of work dismantled the "strange sounds" red line in Mandopop, giving non-standard Mandarin voices (Peng Chia-hui, Wei Ru-xuan, Hsu Chia-ying, Hebe Tien) a seat within the mainstream sonic boundary. Huang Shao-yong is dismantling the other half of the same line: opening up a place within the mainstream arrangement system for non-Mandarin languages (Paiwan, Amis, Taiwanese, Japanese).
+**Huang Shao-yong filled in a piece outside Chen Jian-qi's producer lineage.** This is the most direct contrast between the two in Taiwan.md's producer biography chain. [Chen Jian-qi](/en/People/chen-chien-chi-music-producer) (zh only: 陳建騏) in his 20 years of work dismantled the "strange sounds" red line in Mandopop, giving non-standard Mandarin voices (Peng Chia-hui, Wei Ru-xuan, Hsu Chia-ying, Hebe Tien) a seat within the mainstream sonic boundary. Huang Shao-yong is dismantling the other half of the same line: opening up a place within the mainstream arrangement system for non-Mandarin languages (Paiwan, Amis, Taiwanese, Japanese).
 
 One opens the red line on Mandarin vocals, the other opens the red line on non-Mandarin languages. The two jobs look different, but at bottom they are the same thing: **continuously pushing out the line the industry defaults to as "what sounds are allowed to be heard."**
 
@@ -116,11 +116,11 @@ He still hasn't won the producer award. But ten years of Dark Paradise Records, 
 
 ## Further Reading
 
-- [Chen Chien-chi](/en/people/chen-chien-chi) (zh only: 陳建騏) — Another case of an "absent author" in Mandopop; the other lead producer on "Pearl Punishment," forming a "Mandarin / non-Mandarin" dual-line operation on sonic boundaries with Huang Shao-yong
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only: 魏如萱) — Singer Huang Shao-yong has collaborated with from the MATELIN era through "Pearl Punishment," over ten years; two-time Golden Melody Best Female Vocalist, a voice that resists being recognized
-- [Abao (Aljenljeng Tjaluvie)](/en/people/aljenljeng-tjaluvie-abao) — The singer and chief of "kinakaian — Mother Tongue"; jointly leads the MINETJUS indigenous-language electronic music course with Huang Shao-yong
-- [Enno Cheng](/en/people/cheng-i-nung) (zh only: 鄭宜農) — A same-generation Taiwanese-language / mother-tongue musician, "writing the most honest songs in the most unfamiliar language" to win the Golden Melody Taiwanese double award
-- [Yang Cheng-lin](/en/people/yang-cheng-lin) (zh only: 楊丞琳) — The contrast axis of singers moving from "being produced" to "self-production"; the work of producers like Huang Shao-yong is the prerequisite ecosystem for singers ultimately being able to take over production rights
+- [Chen Chien-chi](/en/People/chen-chien-chi-music-producer) (zh only: 陳建騏) — Another case of an "absent author" in Mandopop; the other lead producer on "Pearl Punishment," forming a "Mandarin / non-Mandarin" dual-line operation on sonic boundaries with Huang Shao-yong
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only: 魏如萱) — Singer Huang Shao-yong has collaborated with from the MATELIN era through "Pearl Punishment," over ten years; two-time Golden Melody Best Female Vocalist, a voice that resists being recognized
+- [Abao (Aljenljeng Tjaluvie)](/en/People/aljenljeng-tjaluvie-abao) — The singer and chief of "kinakaian — Mother Tongue"; jointly leads the MINETJUS indigenous-language electronic music course with Huang Shao-yong
+- [Enno Cheng](/en/People/cheng-i-nung) (zh only: 鄭宜農) — A same-generation Taiwanese-language / mother-tongue musician, "writing the most honest songs in the most unfamiliar language" to win the Golden Melody Taiwanese double award
+- [Yang Cheng-lin](/en/Art/wang-lien-cheng-artist) (zh only: 楊丞琳) — The contrast axis of singers moving from "being produced" to "self-production"; the work of producers like Huang Shao-yong is the prerequisite ecosystem for singers ultimately being able to take over production rights
 
 ## References
 

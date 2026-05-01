@@ -388,7 +388,7 @@ This is AI Taiwan: small nation, big dreams, unlimited possibilities.
 
 **Further Reading:**
 
-- [Wu Che-Yu (吳哲宇)](/en/People/wu-che-yu) — How a new media artist insists on being a watchmaker "in an era of rampant AI generation" — a creator's perspective beyond the AI industry
+- [Wu Che-Yu (吳哲宇)](/en/People/che-yu-wu) — How a new media artist insists on being a watchmaker "in an era of rampant AI generation" — a creator's perspective beyond the AI industry
 
 ## References
 

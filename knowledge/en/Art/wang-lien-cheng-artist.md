@@ -129,9 +129,9 @@ From those 23 machines turning pages simultaneously in Linz in September 2017, t
 
 ## Further Reading
 
-- **[Wang Hsin-Jen (A-Luan)](/en/art/wang-hsin-jen)** (zh only) — fellow Hundred Peaks Project artist, first Taiwanese artist on Art Blocks, frequent collaborator with Wang Lien-Cheng
-- **[FAB DAO and the Hundred Peaks Project](/en/art/fab-dao-hundred-peaks)** (zh only) — the complete context of the six-person public-benefit NFT project in which Wang Lien-Cheng participates
-- **[Taiwan New Media Art](/en/art/taiwan-new-media-art)** (zh only) — forty years of Taiwanese new media art from Huang Hsin-Chien to Wang Lien-Cheng
+- **[Wang Hsin-Jen (A-Luan)](/en/Art/wang-hsin-jen-artist)** (zh only) — fellow Hundred Peaks Project artist, first Taiwanese artist on Art Blocks, frequent collaborator with Wang Lien-Cheng
+- **[FAB DAO and the Hundred Peaks Project](/en/Art/taiwanese-experimental-and-new-media-art)** (zh only) — the complete context of the six-person public-benefit NFT project in which Wang Lien-Cheng participates
+- **[Taiwan New Media Art](/en/Art/taiwan-new-media-art)** (zh only) — forty years of Taiwanese new media art from Huang Hsin-Chien to Wang Lien-Cheng
 
 ## References
 

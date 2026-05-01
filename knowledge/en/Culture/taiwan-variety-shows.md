@@ -106,7 +106,7 @@ If what _Star Show_ did in 1962 was move the cabaret into the living room, then 
 
 ## Further Reading
 
-- [Lin You-Jia (Lin Yo-wei)](/en/People/lin-yo-wei) — 2007 winner of _Super Idol Season 1_; one of the most representative cases of Taiwan's television talent-show star-making mechanism
+- [Lin You-Jia (Lin Yo-wei)](/en/People/yoga-lin) — 2007 winner of _Super Idol Season 1_; one of the most representative cases of Taiwan's television talent-show star-making mechanism
 
 ## References
 

@@ -194,14 +194,14 @@ That's true for herself, for the next generation of indigenous musicians, and fo
 
 **Further reading**:
 
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only: 魏如萱) — Another path in the same generation of Mandopop music, "making non-standard sound heard" (Wei Ru-xuan's doll-like voice × Abao's indigenous electronic music — two languages in the expansion of sonic boundaries)
-- [Chen Chien-chi](/en/people/chen-chien-chi) (zh only: 陳建騏) — A Mandopop producer's "absent author" identity as contrast (Chen Jian-qi making the sonic frontier of mainstream Mandarin / Abao making indigenous-language future pop)
-- [Chou Tzu-yu](/en/people/chou-tzu-yu) (zh only: 周子瑜) — The other end of the spectrum of identity strategies for same-generation Taiwanese female musicians (Chou Tzu-yu's K-pop industrialization vs. Abao's ethnic identity × local production)
-- [Popular Music and the Golden Melody Awards](/en/music/golden-melody-awards) (zh only: 流行音樂與金曲獎) — The structural significance of indigenous-language works taking Album of the Year for the first time at Golden Melody 31 in 2020
-- [Taiwan Popular Music](/en/music/taiwan-popular-music) (zh only: 台灣流行音樂) — 2020 as the watershed year when indigenous-language music moved from sidebar to main stage
-- [Taiwan's 16 Indigenous Peoples Cultural Map](/en/culture/indigenous-peoples-cultural-map) (zh only: 台灣原住民族16族文化地圖) — The contemporary landscape of Paiwan language, tribes, and artistic forms
-- [Indigenous Language Policy](/en/society/indigenous-language-policy) (zh only: 原住民族語言政策) — The policy context of indigenous language revitalization and its complementarity with Abao-style musical practice
-- [Huang Shao-yong (musician)](/en/people/huang-shao-yong-musician) — Co-producer of "kinakaian — Mother Tongue"; the two jointly lead the "MINETJUS Electronic Music Production Decoded" indigenous-language electronic music course, now in its fifth session
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only: 魏如萱) — Another path in the same generation of Mandopop music, "making non-standard sound heard" (Wei Ru-xuan's doll-like voice × Abao's indigenous electronic music — two languages in the expansion of sonic boundaries)
+- [Chen Chien-chi](/en/People/chen-chien-chi-music-producer) (zh only: 陳建騏) — A Mandopop producer's "absent author" identity as contrast (Chen Jian-qi making the sonic frontier of mainstream Mandarin / Abao making indigenous-language future pop)
+- [Chou Tzu-yu](/en/People/tzuyu) (zh only: 周子瑜) — The other end of the spectrum of identity strategies for same-generation Taiwanese female musicians (Chou Tzu-yu's K-pop industrialization vs. Abao's ethnic identity × local production)
+- [Popular Music and the Golden Melody Awards](/en/Music/pop-music-and-golden-melody-awards) (zh only: 流行音樂與金曲獎) — The structural significance of indigenous-language works taking Album of the Year for the first time at Golden Melody 31 in 2020
+- [Taiwan Popular Music](/en/Music/pop-music-and-golden-melody-awards) (zh only: 台灣流行音樂) — 2020 as the watershed year when indigenous-language music moved from sidebar to main stage
+- [Taiwan's 16 Indigenous Peoples Cultural Map](/en/Culture/indigenous-peoples-16-tribes-cultural-map) (zh only: 台灣原住民族16族文化地圖) — The contemporary landscape of Paiwan language, tribes, and artistic forms
+- [Indigenous Language Policy](/en/Culture/indigenous-language-revitalization-movement) (zh only: 原住民族語言政策) — The policy context of indigenous language revitalization and its complementarity with Abao-style musical practice
+- [Huang Shao-yong (musician)](/en/People/huang-shao-yong-musician) — Co-producer of "kinakaian — Mother Tongue"; the two jointly lead the "MINETJUS Electronic Music Production Decoded" indigenous-language electronic music course, now in its fifth session
 
 ## References
 

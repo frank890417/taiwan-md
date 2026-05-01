@@ -10,6 +10,10 @@ featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：聯發科技.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0c49eb028b1d20ab'
+translatedAt: '2026-05-01T14:11:02+08:00'
+subcategory: '企業列傳'
 ---
 
 > **30-Second Overview**

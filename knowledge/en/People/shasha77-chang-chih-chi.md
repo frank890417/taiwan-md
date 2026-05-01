@@ -67,9 +67,9 @@ For Chang Chih-chi, entrepreneurship and running the channel is a process of con
 
 ## Further Reading
 
-- **[Adi](/en/people/adi)** (zh only: 阿滴): Co-founder of the Taiwan New Media Video Creators Association; both are "neighborhood captain generation" knowledge YouTubers
-- **[Ba-jiong](/en/people/ba-jiong)** (zh only: 八炯): Another self-media strategy, with current-events commentary as the main focus, but taking the "mocking united front propaganda" route
-- **[Taiwan Democratic Transition](/en/history/taiwan-democratic-transition)** (zh only: 台灣民主轉型): The evolution of Taiwan's public discussion that underlies Chang Chih-chi's "presenting multiple viewpoints" curatorial style
+- **[Adi](/en/People/ray-du-english-youtuber)** (zh only: 阿滴): Co-founder of the Taiwan New Media Video Creators Association; both are "neighborhood captain generation" knowledge YouTubers
+- **[Ba-jiong](/en/People/ba-jiong-political-youtuber)** (zh only: 八炯): Another self-media strategy, with current-events commentary as the main focus, but taking the "mocking united front propaganda" route
+- **[Taiwan Democratic Transition](/en/History/taiwan-democratization)** (zh only: 台灣民主轉型): The evolution of Taiwan's public discussion that underlies Chang Chih-chi's "presenting multiple viewpoints" curatorial style
 
 ---
 

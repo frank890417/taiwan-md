@@ -96,10 +96,10 @@ On this island, a hundred mountains are rising up, and a hundred dreams are spro
 
 **Further reading**:
 
-- [Wang Hsin-jen (Aluàn)](/en/art/aluan-wang) — Creator of Project %'s "Summit" series, the first Taiwanese generative artist to appear on Art Blocks
-- [Wang Lian-sheng](/en/art/wang-lian-sheng) (zh only: 王連晟) — Creator of the mountain-and-water recursive algorithm peak works in Project %, 2017 Lumiere Award Sculpture category first prize winner
-- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — From video art to generative art, the Taiwanese new media art context where FAB DAO operates
-- [Taiwan Contemporary Art](/en/art/contemporary-art) (zh only: 台灣當代藝術) — The position of blockchain art in Taiwan's contemporary art ecosystem
+- [Wang Hsin-jen (Aluàn)](/en/Art/aluan-wang) — Creator of Project %'s "Summit" series, the first Taiwanese generative artist to appear on Art Blocks
+- [Wang Lian-sheng](/en/Art/wang-lien-cheng-artist) (zh only: 王連晟) — Creator of the mountain-and-water recursive algorithm peak works in Project %, 2017 Lumiere Award Sculpture category first prize winner
+- [Taiwan New Media Art](/en/Art/taiwan-new-media-art) — From video art to generative art, the Taiwanese new media art context where FAB DAO operates
+- [Taiwan Contemporary Art](/en/Art/contemporary-art) (zh only: 台灣當代藝術) — The position of blockchain art in Taiwan's contemporary art ecosystem
 
 ## References
 

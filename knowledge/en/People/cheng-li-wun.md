@@ -132,10 +132,10 @@ So the real question is not "did Cheng Li-wun change?" It is: **did Taiwan chang
 **Related reading**:
 
 - The 2026 Cheng-Xi Meeting: Ten Minutes of the KMT-CCP Leaders Reunited After Ten Years — the current endpoint of Cheng's trajectory, with the full Beijing scene and the aftermath back in Taipei (EN version pending)
-- [Taiwan Strait Crises and Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — the historical structure ten years before and after Cheng's path, the invisible forces pulling this person toward Beijing
-- [Taiwan's Political Landscape and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) — why "I am Chinese" could become a winning slogan for the KMT chairmanship. The answer is in the party-member demographics baked into the election rules
-- [Taiwan's Democratization](/en/history/taiwan-democratization) — the year Cheng fasted was year one after martial law ended. To understand her starting point you must first understand the youth culture of those first five democratic years
-- [Ko Wen-je](/en/people/ko-wen-je) — another politician who crossed camps (green-to-blue, or white-to-blue). The two trajectories rhyme but do not match
+- [Taiwan Strait Crises and Cross-Strait Relations](/en/History/taiwan-strait-crises-and-cross-strait-relations) — the historical structure ten years before and after Cheng's path, the invisible forces pulling this person toward Beijing
+- [Taiwan's Political Landscape and Electoral System](/en/Society/taiwan-political-landscape-and-electoral-system) — why "I am Chinese" could become a winning slogan for the KMT chairmanship. The answer is in the party-member demographics baked into the election rules
+- [Taiwan's Democratization](/en/History/taiwan-democratization) — the year Cheng fasted was year one after martial law ended. To understand her starting point you must first understand the youth culture of those first five democratic years
+- [Ko Wen-je](/en/People/ko-wen-je) — another politician who crossed camps (green-to-blue, or white-to-blue). The two trajectories rhyme but do not match
 - Hsiao Bi-khim (蕭美琴) — another archetype of a woman politician on the same 2026 stage, with a completely different path and a different vision of Taiwan (EN version pending)
 - Han Kuo-yu (韓國瑜) — the "party chair + legislative speaker" dual structure of the KMT in 2025-2026, Cheng in the party and Han in the legislature (EN version pending)
 

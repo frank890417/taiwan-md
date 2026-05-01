@@ -2,7 +2,14 @@
 title: 'Paul Ching-Wu Chu'
 description: 'Superconductivity physicist who led the landmark 1987 breakthrough at liquid-nitrogen temperatures'
 date: 2026-03-19
-tags: ['physicist', 'superconductivity', 'Nobel-Prize-candidate', 'Academia-Sinica', 'University-of-Houston']
+tags:
+  [
+    'physicist',
+    'superconductivity',
+    'Nobel-Prize-candidate',
+    'Academia-Sinica',
+    'University-of-Houston',
+  ]
 subcategory: '科學與學術'
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -34,7 +41,7 @@ The significance of this breakthrough lay in its dramatic reduction of the cost 
 
 Chu's high-temperature superconductors held not only enormous practical value but also profound implications for theoretical physics. The traditional BCS theory could not fully explain the mechanism behind high-temperature superconductivity, prompting the global physics community to fundamentally reconsider the nature of the phenomenon. His discovery triggered a worldwide surge of superconductivity research that became known as "superconductivity fever."
 
-His results were swiftly published in leading journals such as *Physical Review Letters* and immediately attracted intense attention from the international scientific community. Laboratories around the world raced to replicate and extend his experiments, driving rapid advances in superconductor research.
+His results were swiftly published in leading journals such as _Physical Review Letters_ and immediately attracted intense attention from the international scientific community. Laboratories around the world raced to replicate and extend his experiments, driving rapid advances in superconductor research.
 
 ## International Academic Standing and Honors
 
@@ -62,8 +69,8 @@ As an outstanding representative of scientists of Chinese heritage, Chu's achiev
 
 ## Further Reading
 
-- [Wu Ta-You (吳大猷)](/en/people/tai-yu-wu/) — The founder of physics in Taiwan, belonging to the same postwar generation of Taiwanese scientists who built influence within the American academic system as Chu
-- [Lee Yuan-Tseh (李遠哲)](/en/people/lee-yuan-tseh/) — Nobel laureate in chemistry and another representative who went from Taiwan to the international scientific elite
+- [Wu Ta-You (吳大猷)](/en/People/tai-yu-wu/) — The founder of physics in Taiwan, belonging to the same postwar generation of Taiwanese scientists who built influence within the American academic system as Chu
+- [Lee Yuan-Tseh (李遠哲)](/en/People/lee-yuan-tseh/) — Nobel laureate in chemistry and another representative who went from Taiwan to the international scientific elite
 - Lin Chi-Er (林琪兒) — A Taipei-born NASA astronaut and medical doctor, showing how a dual Taiwanese-American cultural background can flourish across different disciplines
 
 ## References

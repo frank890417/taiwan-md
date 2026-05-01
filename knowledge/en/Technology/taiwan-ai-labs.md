@@ -3,20 +3,20 @@ title: 'Taiwan AI Labs'
 description: 'A non-profit AI research institute founded by PTT creator Ethan Tu in 2017, focusing on smart healthcare, smart cities, and disinformation defense to promote tech for good and open-source principles.'
 date: 2026-03-19
 tags:
-   [
-     'artificial intelligence',
-     'smart healthcare',
-     'Ethan Tu',
-     'tech innovation',
-     'information warfare defense',
-   ]
+  [
+    'artificial intelligence',
+    'smart healthcare',
+    'Ethan Tu',
+    'tech innovation',
+    'information warfare defense',
+  ]
 author: 'idlccp02'
 readingTime: 8
 featured: true
 subcategory: '人工智慧'
 lastVerified: 2026-03-19
 lastHumanReview: false
-category: "Technology"
+category: 'Technology'
 translatedFrom: 'Technology/台灣人工智慧實驗室.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e74b5658957423e'
@@ -27,7 +27,7 @@ translatedAt: '2026-04-29T23:37:20+08:00'
 
 ## 30-Second Overview
 
-Taiwan AI Labs is a non-profit-oriented research institute founded in 2017 by [Ethan Tu (杜奕瑾)](/en/people/杜奕瑾/), the creator of PTT (Taiwan's largest online bulletin board system) and former Microsoft AI Research Director for Asia-Pacific. Combining Taiwan's semiconductor hardware strengths with its healthcare data advantages, the lab focuses on smart healthcare, smart cities, human-machine interfaces, and cognitive warfare defense, championing "Tech for Good" and open-source principles.
+Taiwan AI Labs is a non-profit-oriented research institute founded in 2017 by [Ethan Tu (杜奕瑾)](/en/People/ethan-tu/), the creator of PTT (Taiwan's largest online bulletin board system) and former Microsoft AI Research Director for Asia-Pacific. Combining Taiwan's semiconductor hardware strengths with its healthcare data advantages, the lab focuses on smart healthcare, smart cities, human-machine interfaces, and cognitive warfare defense, championing "Tech for Good" and open-source principles.
 
 ---
 
@@ -77,7 +77,7 @@ Taiwan AI Labs has demonstrated three things:
 
 ## Further Reading
 
-- [Semiconductor Industry](/en/technology/半導體產業/) — The industrial foundation supporting AI hardware
+- [Semiconductor Industry](/en/taiwan-semiconductor-industry/) — The industrial foundation supporting AI hardware
 
 ## References
 

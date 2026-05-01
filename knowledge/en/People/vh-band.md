@@ -115,10 +115,10 @@ Over fifteen years, Vast & Hazy underwent three identity transformations: the fo
 
 **Further reading**:
 
-- [Chao Tung (No Party for Cao Dong)](/en/people/no-party-for-cao-dong) (zh only: 草東沒有派對) — The same 2010s late Taiwan indie scene; a counterpoint between political rock and VH's gentle route
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only: 魏如萱) — A Taiwanese independent musician who similarly takes "work first, exposure secondary"
-- [Taiwan Independent Music](/en/music/taiwan-indie-music) (zh only: 台灣獨立音樂) — The ecosystem background in which VH emerged
-- [Hello Nico](/en/people/hello-nico) — Same-generation indie circle; after eight years of silence, returned in 2024 with "Plan B" — another counterpoint of gentleness and repression
+- [Chao Tung (No Party for Cao Dong)](/en/People/no-party-for-cao-dong) (zh only: 草東沒有派對) — The same 2010s late Taiwan indie scene; a counterpoint between political rock and VH's gentle route
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only: 魏如萱) — A Taiwanese independent musician who similarly takes "work first, exposure secondary"
+- [Taiwan Independent Music](/en/Music/indie-music-scene) (zh only: 台灣獨立音樂) — The ecosystem background in which VH emerged
+- [Hello Nico](/en/People/hello-nico-band) — Same-generation indie circle; after eight years of silence, returned in 2024 with "Plan B" — another counterpoint of gentleness and repression
 
 ## References
 

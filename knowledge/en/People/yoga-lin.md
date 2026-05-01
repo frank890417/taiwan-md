@@ -117,11 +117,11 @@ The letter of resignation his body wrote — he answered it in the end with an a
 
 **Further reading**:
 
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only: 魏如萱) — A contemporary female singer, two-time Golden Melody Best Female Vocalist, twenty years from Natural Roll lead singer to being mistaken for a random passerby in a street interview
-- [Chang Yu-sheng](/en/people/chang-yu-sheng) (zh only: 張雨生) — An early case of "idol vs. musician" identity tension in Mandopop
-- [Chen Chien-chi](/en/people/chen-chien-chi) (zh only: 陳建騏) — Producer subgenre: he is the guardian of sonic boundaries in Mandopop
-- [Enno Cheng](/en/people/cheng-i-nung) — A same-generation singer-songwriter who writes the most honest songs in the most unfamiliar language
-- [Taiwan Variety Shows](/en/culture/taiwan-variety-shows) (zh only: 台灣綜藝節目) — Taiwan's TV star-making history, half a century from "Star Show" to "Super Star Avenue"
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only: 魏如萱) — A contemporary female singer, two-time Golden Melody Best Female Vocalist, twenty years from Natural Roll lead singer to being mistaken for a random passerby in a street interview
+- [Chang Yu-sheng](/en/People/chang-yu-sheng-singer) (zh only: 張雨生) — An early case of "idol vs. musician" identity tension in Mandopop
+- [Chen Chien-chi](/en/People/chen-chien-chi-music-producer) (zh only: 陳建騏) — Producer subgenre: he is the guardian of sonic boundaries in Mandopop
+- [Enno Cheng](/en/People/cheng-i-nung) — A same-generation singer-songwriter who writes the most honest songs in the most unfamiliar language
+- [Taiwan Variety Shows](/en/Culture/taiwan-variety-shows) (zh only: 台灣綜藝節目) — Taiwan's TV star-making history, half a century from "Star Show" to "Super Star Avenue"
 
 ---
 

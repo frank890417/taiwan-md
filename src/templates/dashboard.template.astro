@@ -335,9 +335,13 @@ const isEn = lang === 'en';
       <p class="text-xs text-gray-500" style="margin-top: 1rem;">
         🟢 = full / 🟡 = partial / 🔴 = missing (FALLBACK_CHAIN active) / — = no
         such module · Re-generate:
-        <code>bash scripts/tools/i18n-coverage-audit.sh --json-out public/api/dashboard-i18n.json</code>
+        <code
+          >bash scripts/tools/i18n-coverage-audit.sh --json-out
+          public/api/dashboard-i18n.json</code
+        >
         · Roadmap:
-        <a href="https://github.com/frank890417/taiwan-md/blob/main/reports/i18n-evolution-roadmap-2026-04-25.md"
+        <a
+          href="https://github.com/frank890417/taiwan-md/blob/main/reports/i18n-evolution-roadmap-2026-04-25.md"
           >reports/i18n-evolution-roadmap-2026-04-25.md</a
         >
       </p>
@@ -1286,7 +1290,9 @@ const isEn = lang === 'en';
       bars.querySelectorAll('.donut-fill').forEach((el) => {
         const target = el.getAttribute('data-target');
         requestAnimationFrame(() => {
-          el.style.strokeDasharray = target + ', 100';
+          // Fix: at 100%, use "100 0" (no gap) to avoid stroke-linecap round artifact
+          el.style.strokeDasharray =
+            parseFloat(target) >= 100 ? '100 0' : target + ', 100';
         });
       });
     });
@@ -1395,7 +1401,9 @@ const isEn = lang === 'en';
       bars.querySelectorAll('.donut-fill').forEach((el) => {
         const target = el.getAttribute('data-target');
         requestAnimationFrame(() => {
-          el.style.strokeDasharray = target + ', 100';
+          // Fix: at 100%, use "100 0" (no gap) to avoid stroke-linecap round artifact
+          el.style.strokeDasharray =
+            parseFloat(target) >= 100 ? '100 0' : target + ', 100';
         });
       });
     });
@@ -1482,7 +1490,9 @@ const isEn = lang === 'en';
       overview.querySelectorAll('.donut-fill').forEach((el) => {
         const target = el.getAttribute('data-target');
         requestAnimationFrame(() => {
-          el.style.strokeDasharray = target + ', 100';
+          // Fix: at 100%, use "100 0" (no gap) to avoid stroke-linecap round artifact
+          el.style.strokeDasharray =
+            parseFloat(target) >= 100 ? '100 0' : target + ', 100';
         });
       });
     });

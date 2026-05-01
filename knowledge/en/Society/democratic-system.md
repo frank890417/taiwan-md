@@ -80,4 +80,5 @@ Taiwan is celebrated as a "democratic miracle," consistently rated "Free" by org
 - [Direct elections and recall of the President and Vice President of the Republic of China in Taiwan - Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%8F%8A%E5%89%AF%E7%B8%BD%E7%B5%B1%E5%9C%A8%E8%87%BA%E7%81%A3%E4%B9%8B%E5%85%AC%E6%B0%91%E7%9B%B4%E6%8E%A5%E9%81%B8%E8%88%89%E8%88%87%E7%BD%B7%E5%85%8D)
 
 ## Related Topics
-- [Human Rights and Gender Equality](/en/society/human-rights-and-gender-equality/)
+
+- [Human Rights and Gender Equality](/en/Society/human-rights-and-gender-equality/)

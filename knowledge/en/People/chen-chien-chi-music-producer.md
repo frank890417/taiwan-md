@@ -197,7 +197,7 @@ In 2021 he said "the Golden Melody was waiting for me." The more precise stateme
 
 **Further Reading:**
 
-- [Wei Ru-Xuan](/en/People/wei-ru-xuan) — The embodiment of Chen Chien-Chi's 25-plus-year producer-mentor relationship; from Sodapop to _Pearl Punishment_, one continuous sonic trajectory
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) — The embodiment of Chen Chien-Chi's 25-plus-year producer-mentor relationship; from Sodapop to _Pearl Punishment_, one continuous sonic trajectory
 - [Lala Hsu](/en/People/lala-hsu-singer) — The starting point for Chen Chien-Chi's first pop production ("Lost Sandbar," 2008)
 - [Hebe Tien](/en/People/hebe-tien-singer) — Chen Chien-Chi's 2021 Golden Melody Award-winning album _Unknown_
 - [Ke Zhi-Tang](/en/People/ke-zhi-tang-musician) — British folk artist who has had all three albums produced by Chen Chien-Chi; co-winner of the 2025 Golden Bell Best Drama Original Song for "God's Reply"

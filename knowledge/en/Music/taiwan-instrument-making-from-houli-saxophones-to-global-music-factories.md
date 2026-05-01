@@ -1,138 +1,310 @@
 ---
-title: 'Taiwan’s Instrument-Making Industry: From Houli Saxophones to Global Music Factories'
-description: 'How Taiwan turned rural craft into world‑class instrument manufacturing—from Houli’s saxophones and OEM guitar empires to precision music‑box movements—and why the industry is now reinventing itself through premium craft and brand building.'
+title: "Taiwan's Instrument-Making Industry: From Houli Saxophones to Global Music Factories"
+description: 'Exploring the development of Taiwan's instrument-making industry: from Houli saxophones dominating global market share to a guitar OEM kingdom, to the precision craft of music-box manufacturing — how Taiwan moved from contract manufacturing toward its own brands.'
 date: 2026-03-19
-tags:
-  [
-    'instrument manufacturing',
-    'Houli saxophones',
-    'guitar OEM',
-    'music boxes',
-    'manufacturing',
-    'Taiwan craftsmanship',
-  ]
+tags: ["instrument manufacturing", "Houli saxophones", "guitar OEM", "music boxes", "manufacturing", "Taiwan craft"]
+subcategory: '樂器與製造'
 author: 'Taiwan.md'
 readingTime: 13
 featured: true
 category: 'Music'
 lastVerified: 2026-03-19
+lastHumanReview: false
 translatedFrom: 'Music/台灣樂器製造.md'
+sourceCommitSha: 'a05d2431'
+sourceContentHash: 'sha256:c05b566af47ac375'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
-# Taiwan’s Instrument-Making Industry: From Houli Saxophones to Global Music Factories
+# Taiwan's Instrument-Making Industry: From Houli Saxophones to Global Music Factories
 
-## 30‑Second Overview
+## 30-Second Overview
 
-Taiwan once dominated global instrument manufacturing. Houli (后里) in Taichung became the “saxophone hometown,” producing roughly a third of the world’s saxophones at its peak. Taiwan also grew into a guitar‑OEM powerhouse, building instruments for major Western brands, while companies like 協櫻工業 (Sankyo Taiwan) mastered the ultra‑precise mechanics behind music‑box movements. The industry now faces cost competition, but is pivoting toward premium manufacturing, customization, and its own brands—turning “Made in Taiwan” into a mark of craft rather than just a price tag.
+Taiwan was once a major global instrument-manufacturing hub. The Houli area's saxophone output at its peak accounted for one-third of the world market, earning it the title "Hometown of the Saxophone." Taiwan was also one of the world's largest guitar exporters, fulfilling OEM orders from European and American brands. Music-box manufacturing further demonstrated Taiwan's precision craft capabilities — Hsieh-Ying Industrial, in collaboration with Japan's Sankyo, reached international top-tier technical standards. Although facing cost competition, Taiwan's instrument industry is now moving toward premium manufacturing and its own brands.
 
-**Keywords:** saxophones, Houli (后里), guitar OEM, music boxes, precision manufacturing, Taiwan craftsmanship
+**Keywords:** saxophone, Houli, guitar OEM, music boxes, Hsieh-Ying Industrial, instrument manufacturing
 
 ## Why It Matters
 
-Taiwan’s instrument‑making story is a compressed history of Taiwan’s industrial rise: start with OEM work, accumulate technique and quality control, then climb toward high‑value, brand‑led manufacturing. Instruments are not just products; they are an intersection of acoustics, metallurgy, wood science, and human touch. The skills developed here—fine machining, surface finishing, tuning by ear—reflect the island’s broader “hidden champion” tradition of making world‑class components that keep global industries running.
+The rise and fall of Taiwan's instrument-making industry reflects the development trajectory of Taiwan's manufacturing sector as a whole: starting from low-cost OEM, gradually accumulating technical capability, and ultimately advancing toward high-value-added proprietary brands. This industry not only created employment and foreign-exchange earnings, but cultivated a craft tradition in precision manufacturing — a textbook example of Taiwan's "hidden champion" enterprises.
 
-## Houli: The Saxophone Kingdom (1970s–Today)
+## The Houli Saxophone Kingdom (1970–present)
 
-### A Rural Innovation That Became a Global Cluster
+### Industry Origins: A Fortuitous Opportunity
 
-Houli’s saxophone industry began with a farmer‑turned‑craftsman: 張連昌 (Chang Lien‑Chang). In the 1970s, seeking off‑season income, he studied how saxophones were made, iterated through trial and error, and founded 張連昌樂器工廠—Taiwan’s first saxophone factory. His success catalyzed a local cluster. Houli soon had dozens of workshops, each specializing in components like brass tubing, keys, springs, and pads.
+The saxophone industry in Houli, Taichung, originated from a chance opportunity in the 1970s. At the time, Houli farmer **Chang Lien-chang** began learning to make saxophones to supplement income during agricultural downtime. He had previously operated a small workshop manufacturing military goods and was looking for a new direction after the war.
 
-### Peak of Global Dominance
+Through self-teaching and continuous experimentation, Chang gradually mastered the craft of saxophone manufacturing. In the early 1970s he established the "Chang Lien-chang Musical Instrument Factory" — Taiwan's first saxophone manufacturer, and the opening chapter of Houli's saxophone industry.
 
-By the 1990s, Houli produced over 100,000 saxophones per year, accounting for about 35% of global supply. The instruments were exported largely to the United States and Europe, with Japan and Southeast Asia as major markets. This was classic Taiwan: flexible production, competitive pricing, and quality strong enough to satisfy international brands.
+### Formation of the Industry Cluster
 
-### What Made Houli Special
+Inspired by Chang's success, multiple saxophone factories gradually appeared in the Houli area. These factories primarily produced for European and American brands as OEM suppliers; well-known brands including Selmer and Yamaha have had production lines or OEM arrangements in Houli.
 
-- **Tone voicing by ear:** Craftsmen learned to adjust the timbre for different markets—brighter for Europe, warmer for the U.S.
-- **Surface finishing:** From lacquered gold to silver and bronze plating, Taiwanese finishing reached world‑class standards.
-- **Custom OEM capability:** Factories could move between student models and professional‑grade horns with precision and speed.
+By the 1980s, Houli had formed a complete saxophone industry cluster:
 
-### Brands and Institutions
+- **Upstream suppliers**: brass tube materials, key components, springs, etc.
+- **Manufacturing factories**: more than 30 factories of varying sizes
+- **Downstream services**: packaging, logistics, quality inspection
 
-- **張連昌薩克斯風博物館** (Chang Lien‑Chang Saxophone Museum): A living archive and tourist draw that keeps the industry’s memory alive.
-- **Jupiter**: One of Taiwan’s most recognized brass‑instrument brands, exported worldwide.
-- **功學社 KHS**: A major Taiwanese music‑instrument group with production ties to Houli.
+### Global Market Dominance
 
-## Taiwan’s Guitar OEM Empire (1960s–2000s)
+The 1990s were the golden era for Houli's saxophone industry. According to statistics from the period, the annual saxophone output from the Houli area exceeded 100,000 units, accounting for approximately 35% of the global market — a genuine "Hometown of the Saxophone."
 
-### The OEM Boom
+Major export markets included:
 
-Guitar manufacturing arrived even earlier than saxophones. In the 1960s, Japanese technicians trained Taiwanese factories. By the 1970s, as rock and pop exploded globally, Taiwan’s guitar output surged. In the 1980s, Taiwan became one of the world’s largest guitar exporters, producing over two million guitars annually.
+- **United States**: more than 50% of export volume
+- **Europe**: Germany, France, United Kingdom, and others
+- **Japan**: mid-to-high-end market
+- **Southeast Asia**: entry-level product market
 
-### Manufacturing Hubs
+### Advances in Manufacturing Technology
 
-- **Taoyuan**: Home to large OEM factories producing for Western brands.
-- **Tainan**: Known for more refined classical and folk guitars, with intricate woodworking.
+Taiwan's saxophone manufacturers continuously raised their manufacturing standards, moving from simple OEM toward developing their own technical advantages:
 
-### Core Competencies
+**Tone calibration techniques**
+Houli craftsmen developed distinctive tone calibration methods, able to adjust the tonal characteristics of instruments according to different market requirements. European markets favor a bright tone; American markets prefer a warmer sound — craftsmen could achieve both with precision.
 
-- **Wood‑drying and humidity control:** Crucial in Taiwan’s climate, and key to stable tuning.
-- **Precision woodworking:** Neck carving, fret placement, inlay work—areas where Taiwanese artisans earned a reputation for consistency.
-- **Flexible small‑batch production:** Taiwan could handle both mass‑market lines and limited high‑end runs.
+**Surface treatment craft**
+From traditional lacquer-gold finishes to modern electroplating technology, Houli factories reached internationally top-tier standards in saxophone surface treatment. Techniques for special finishes — antique bronze, silver, and other distinctive colorations — earned high praise from international clients.
 
-### Decline and Reinvention
+**Customized production**
+The factories are capable of customized manufacturing to the specifications of different brands, from entry-level student instruments to professional performance-grade products.
 
-In the 2000s, low‑cost manufacturing shifted to China and Southeast Asia. Many Taiwanese factories closed or moved overseas. Surviving makers moved upmarket: custom luthier work, boutique lines, and higher‑margin brands.
+### Representative Manufacturers and Brands
 
-## Music Boxes: Micron‑Level Craftsmanship
+**Chang Lien-chang Saxophone Museum**
+Operated by descendants of founder Chang Lien-chang, this institution continues to manufacture saxophones while maintaining a museum displaying the history of the industry. The museum has become a major tourist attraction in Houli, drawing tens of thousands of visitors annually.
 
-### Sankyo Taiwan and the Precision Tradition
+**Jupiter Wind Instruments**
+Founded in 1930, Jupiter is one of Taiwan's oldest wind instrument manufacturers. Starting from Houli, the company is now a globally known wind instrument brand with products sold in more than 100 countries.
 
-Taiwan’s music‑box industry centers on 協櫻工業, founded in 1971 as a joint venture with Japan’s Sankyo, the world’s leading music‑box movement manufacturer. Music‑box mechanics are tiny marvels: each steel comb tooth and cylinder pin must align within microns to produce accurate pitch.
+**KHS (Kung Hsue She)**
+Although headquartered in Taipei, KHS has an important production base in Houli. KHS manufactures not only saxophones but a range of wind and stringed instruments.
 
-### What Makes It Difficult
+## Taiwan's Guitar OEM Kingdom (1960–2000)
 
-- **Comb tuning:** Each tooth must be cut and tuned with microscopic precision.
-- **Cylinder pinning:** The placement of each pin determines melody, requiring high‑end machining and human calibration.
-- **Hand assembly:** Even with machines, skilled hands are essential for final tuning and quality control.
+### Industry Origins and Development
 
-Taiwanese technicians mastered this combination of machine precision and hand‑tuned finesse, producing movements used in luxury gift boxes, jewelry cases, toys, and specialty clocks.
+Taiwan's guitar manufacturing industry originated in the 1960s — earlier than the saxophone industry. It began when Japanese technicians came to Taiwan to teach manufacturing techniques, and Taiwanese factories started taking OEM orders from Japanese brands.
 
-### Cultural Visibility
+In the 1970s, as European and American popular music boomed and guitar demand surged, Taiwan rapidly expanded its market through low cost and good quality. By the 1980s, Taiwan had become one of the world's largest guitar exporters, with annual output exceeding 2 million units.
 
-The **Sun Moon Lake Music Box Museum (日月潭音樂盒博物館)** turns industrial craft into a cultural attraction, showing how a quiet mechanical art became part of Taiwan’s tourism economy.
+### Major Manufacturing Bases
 
-## Beyond Saxophones and Guitars
+**Taoyuan**
+Taoyuan was Taiwan's guitar manufacturing stronghold, home to several large guitar factories. These factories primarily did OEM work for European and American brands; well-known brands including Fender and Gibson have manufactured in Taiwan.
 
-- **Brass and woodwinds:** Trumpets, trombones, clarinets, and oboes are manufactured in smaller but skilled workshops.
-- **Traditional Chinese instruments:** Erhu, guzheng, and indigenous instruments like the jaw harp (口簧琴) are made by craft studios serving cultural and diaspora markets.
-- **Electronic instruments and effects pedals:** Taiwan’s electronics industry supports assembly of digital keyboards and guitar effects units.
+**Tainan**
+The Tainan area focused mainly on folk and classical guitar manufacturing — technically refined, high quality, primarily supplying the Asian market.
 
-## Challenges and the Next Chapter
+### Technical Characteristics and Advantages
 
-### Cost Pressure and Offshoring
+**Wood treatment technology**
+Taiwan's guitar manufacturers developed advanced wood drying and treatment technologies, ensuring tonal stability and durability in instruments. Particularly in moisture-proofing for tropical climates, Taiwanese technology led the world.
 
-China and Southeast Asia undercut Taiwan on price. The result: consolidation and a shift away from low‑margin mass production.
+**Precision machining capability**
+Taiwan's manufacturing sector's precision machining capability was fully realized in guitar production. From shaping necks to inlaying fretboards, extremely high precision requirements were met.
 
-### The Pivot to Premium
+**Flexible production**
+Rapid response to market demand changes, from large-batch entry-level guitars to small-batch high-end hand-crafted instruments.
 
-Taiwan’s surviving makers increasingly focus on:
+### Representative Manufacturers
 
-- **Boutique craftsmanship** (hand‑finished, small‑batch instruments)
-- **Custom orders** for professional musicians
-- **Brand building** that highlights Taiwanese craft heritage
+**Chuan Fong Musical Instruments**
+Founded in 1965, one of Taiwan's earliest guitar manufacturers. Produced OEM work for multiple international brands, with products exported worldwide.
 
-### Manufacturing 4.0 and Sustainability
+**American Musical Instruments**
+Despite the name, this is a Taiwanese company specializing in high-quality folk and electric guitars, with technical standards reaching international top tier.
 
-Taiwan’s instrument firms are experimenting with smart production, quality‑tracking systems, and sustainable materials (certified wood, lower‑toxicity finishes). The goal: maintain artisanal quality while modernizing for global expectations.
+**Music King Musical Instruments**
+In addition to OEM business, also developed proprietary brands with a certain degree of name recognition in the Asian market.
 
-## Cultural Value: Not Just Products, But a Craft Tradition
+### Industry Decline and Transformation
 
-Instrument manufacturing is also cultural transmission. It supports music education by making quality instruments more accessible. It sustains a network of craftsmen and technicians whose skills are passed down through apprenticeship. It even feeds cultural tourism—factory tours, DIY workshops, and festivals that turn manufacturing into a storytelling platform.
+After 2000, as manufacturing in mainland China rose, Taiwan's guitar manufacturing industry faced serious challenges. Competition at lower costs led many factories to close or relocate overseas.
 
-## Conclusion: The Sound of Taiwanese Craft
+Taiwan's guitar industry now focuses primarily on the premium market:
 
-From Houli’s saxophones to music‑box movements, Taiwan has contributed quietly but profoundly to the world’s soundscape. This is not just a manufacturing story; it is a craft story—about ears trained to nuance, hands trained to polish, and a manufacturing culture that values both consistency and soul. The industry’s future lies not in competing on cost, but in turning its deep technical heritage into a signature of excellence.
+- **Custom hand-crafted guitars**: small quantities at high prices, customized products
+- **Brand development**: shifting from OEM toward proprietary brands
+- **Technical services**: providing design, development, and quality control services
+
+## The Precision Craft of Music-Box Manufacturing (1970–present)
+
+### The Success Story of Hsieh-Ying Industrial
+
+The representative of Taiwan's music-box manufacturing industry is **Hsieh-Ying Industrial**, whose collaboration with Japan's **Sankyo Seiki** made Taiwan a significant global music-box manufacturing base.
+
+Hsieh-Ying Industrial was founded in 1971, originally as a joint venture between Sankyo and Taiwanese partners. Sankyo is the world's largest music-box movement manufacturer, with more than a century of manufacturing history and precision craft expertise.
+
+### The Precision Craft of Music-Box Movements
+
+Music-box movements are extremely precise mechanical devices requiring extremely high manufacturing accuracy:
+
+**Comb manufacture**
+The comb in a music box determines its tone and pitch; the length and thickness of each tooth must be controlled to micrometer precision. Taiwanese craftsmen's skill in this area has reached internationally top-tier standards.
+
+**Cylinder machining**
+The positions of the pins on the cylinder determine the melody played, requiring extremely precise machining equipment and technique. Hsieh-Ying introduced advanced Japanese equipment while also cultivating local technical staff.
+
+**Assembly and tuning**
+Every music box requires manual assembly and tuning — a task only experienced craftsmen can perform. Taiwanese craftsmen's manual skills have earned high praise from international clients.
+
+### Product Applications and Markets
+
+Music-box movements manufactured in Taiwan are widely used in:
+
+- **Music-box gifts**: music boxes in various forms
+- **Jewelry boxes**: music mechanisms inside high-end jewelry boxes
+- **Toys**: children's musical toys
+- **Clocks**: music functions in antique clocks
+
+Major export markets include the premium markets of Europe, America, and Japan, with products noted for superior quality.
+
+### Sun Moon Lake Music Box Museum
+
+The Music Box Museum located at Sun Moon Lake in Nantou displays the historical development and manufacturing craft of music boxes. This museum is not only a tourist attraction but also an important showcase for Taiwan's music-box industry.
+
+The museum houses music boxes from around the world — from 18th-century antique pieces to modern electronic music boxes — presenting a complete account of the music box's development.
+
+## Other Areas of Instrument Manufacturing
+
+### Wind Instrument Manufacturing
+
+Beyond saxophones, Taiwan also manufactures other wind instruments:
+
+**Trumpets and trombones**
+The Houli area also has factories producing brass instruments such as trumpets and trombones — technical origins that grew out of saxophone manufacturing.
+
+**Woodwind instruments**
+The manufacture of clarinet, oboe, and other woodwind instruments, though on a smaller scale, also reaches professional standards.
+
+### Traditional Instrument Manufacturing
+
+**Erhu and guzheng**
+Taiwan has factories specializing in traditional Chinese musical instruments, primarily supplying overseas Chinese communities and music education institutions.
+
+**Indigenous instruments**
+Some workshops specialize in crafting indigenous traditional instruments — such as the mouth harp (口簧琴) and row flute (排笛) — combining traditional craft with modern techniques.
+
+### Electronic Instrument Assembly
+
+**Electronic keyboards and synthesizers**
+Taiwan's electronics industry base makes electronic instrument assembly possible; some manufacturers take on international brand assembly for electronic instruments.
+
+**Effects pedals**
+The manufacture of guitar effects pedals and similar audio equipment combines Taiwan's electronics industry with specialized knowledge of music equipment.
+
+## Industry Challenges and Transformation
+
+### Pressure from Cost Competition
+
+As manufacturing in mainland China, Vietnam, and elsewhere developed, Taiwan's instrument manufacturing industry faced serious cost competition. Many factories were forced to close or relocate to lower-cost regions.
+
+### The Necessity of Technical Upgrading
+
+To maintain competitiveness, Taiwan's instrument industry must move toward higher value-added development:
+
+**Premium market positioning**
+Shifting from mass manufacturing to premium manufacturing, emphasizing quality and craft standards.
+
+**Customized services**
+Offering personalized custom instrument manufacturing services to meet the special needs of professional musicians.
+
+**Design innovation**
+Combining traditional craft with modern design to develop instrument products with distinctive Taiwanese characteristics.
+
+### Brand Building and Marketing
+
+Transitioning from OEM to proprietary brands is an important issue for Taiwan's instrument industry:
+
+**Brand positioning**
+Building a high-quality image for "Made in Taiwan" and establishing brand name recognition in international markets.
+
+**Channel development**
+Building global sales networks to reach end consumers directly.
+
+**Digital marketing**
+Using online platforms for marketing, particularly showcasing manufacturing craft through social media.
+
+## Cultural Value and Continuity
+
+### Transmission of Craft Knowledge
+
+Taiwan's instrument-making industry has cultivated large numbers of highly skilled craftsmen; these skills need to be passed down through apprenticeship systems. Many factories have their own craftsman training programs to ensure techniques are not lost.
+
+### Building an Industry Culture
+
+Instrument manufacturing is not just manufacturing — it is also a cultural industry:
+
+**Supporting music education**
+Providing quality, affordable instruments to schools and music education institutions, supporting the spread of music education.
+
+**Promoting music culture**
+Using instrument manufacturing to drive the development of music culture and cultivate more music enthusiasts.
+
+### Developing Tourism Value
+
+Combining instrument manufacturing with tourism to develop industrial tourism:
+
+**Factory visits**
+Opening factories to visitors to observe the instrument manufacturing process.
+
+**DIY experiences**
+Offering simple instrument-making workshop activities, letting visitors craft their own souvenirs.
+
+**Music festivals**
+Combining instrument manufacturing with music festival events to promote Taiwan's instrument industry.
+
+## Future Development Trends
+
+### Applications of Smart Manufacturing
+
+Introducing Industry 4.0 technologies to improve manufacturing efficiency and quality control:
+
+**Automated equipment**
+Introducing automation in appropriate process steps to reduce labor costs.
+
+**Quality monitoring**
+Using advanced inspection equipment to ensure product quality and build complete quality traceability systems.
+
+### Emphasis on Sustainable Development
+
+Environmental protection and sustainable development have become important considerations:
+
+**Eco-friendly materials**
+Using environmentally certified wood and other materials, responding to global environmental trends.
+
+**Green processes**
+Improving manufacturing processes to reduce environmental pollution and resource waste.
+
+### Deepening International Cooperation
+
+Strengthening collaboration with international brands and music education institutions:
+
+**Technical exchange**
+Conducting technical exchanges and collaborative R&D with internationally top-tier manufacturers.
+
+**Market expansion**
+Opening up new markets, particularly music education markets in other Asian countries.
+
+## Conclusion: Taiwan's Mark on Music Manufacturing
+
+Taiwan's instrument-making industry, though not large in scale, holds an important place in the global music industry. From Houli's saxophones to Hsieh-Ying's music boxes, Taiwanese manufacturers have earned respect for Taiwan's manufacturing sector on the international stage through skilled craftsmanship and an innovative spirit.
+
+The development trajectory of this industry reflects the typical path of Taiwan's manufacturing sector: starting from imitation and learning, gradually building technical capability, and ultimately developing its own distinctive characteristics and advantages. Although facing intense international competition, Taiwan's instrument industry is moving toward high quality and high added value.
+
+Every time musicians around the world play a beautifully crafted piece of music on a Taiwan-made instrument, the spirit of Taiwanese craftsmanship travels with the notes across the world. That, perhaps, is the most precious value of Taiwan's instrument-making industry: not merely manufacturing instruments, but participating in the creation of beautiful music culture.
 
 ## References
 
-1. [張連昌薩克斯風博物館官網](http://www.sax.org.tw/) – Houli saxophone industry history
-2. [后里區公所薩克斯風產業介紹](https://www.houli.taichung.gov.tw/) – Official industry overview
-3. [協櫻工業股份有限公司](http://www.sankyo-taiwan.com.tw/) – Taiwan music‑box manufacturing
-4. [《台灣樂器製造業發展史》, 工業技術研究院, 2015](https://www.itri.org.tw/) – Industry report
-5. [《后里薩克斯風產業聚落研究》, 台中科技大學, 2018](http://www.nutc.edu.tw/) – Academic research
-6. [Jupiter 官方網站](http://www.jupitermusic.com/) – Taiwan brass brand
-7. [《台灣吉他代工產業的興衰》, 天下雜誌, 2010](https://www.cw.com.tw/) – Industry analysis
-8. [日月潭音樂盒博物館](http://www.musicbox.com.tw/) – Music‑box museum
-9. [經濟部統計處樂器製造業統計](https://www.moea.gov.tw/) – Government statistics
-10. [《台灣隱形冠軍企業案例研究》, 中華經濟研究院, 2019](http://www.cier.edu.tw/) – Hidden‑champion case studies
+1. [Chang Lien-chang Saxophone Museum official website](http://www.sax.org.tw/) — History of Houli's saxophone industry
+2. [Houli District Office — Saxophone Industry Introduction](https://www.houli.taichung.gov.tw/) — Official industry data
+3. [Hsieh-Ying Industrial Co., Ltd.](http://www.sankyo-taiwan.com.tw/) — Taiwan music-box manufacturing
+4. [_History of Taiwan's Instrument Manufacturing Industry Development_, Industrial Technology Research Institute, 2015](https://www.itri.org.tw/) — Industry research report
+5. [_Study on Houli's Saxophone Industry Cluster_, National Taichung University of Science and Technology, 2018](http://www.nutc.edu.tw/) — Academic research report
+6. [Jupiter Wind Instruments official website](http://www.jupitermusic.com/) — Taiwanese wind instrument brand
+7. [_The Rise and Fall of Taiwan's Guitar OEM Industry_, CommonWealth Magazine, 2010](https://www.cw.com.tw/) — Industry analysis
+8. [Sun Moon Lake Music Box Museum](http://www.musicbox.com.tw/) — Music-box industry showcase
+9. [Ministry of Economic Affairs Statistics Department — Instrument Manufacturing Industry Statistics](https://www.moea.gov.tw/) — Official industry statistics
+10. [_Case Studies of Taiwan's Hidden Champion Enterprises_, Chung-Hua Institution for Economic Research, 2019](http://www.cier.edu.tw/) — Manufacturing competitiveness analysis

@@ -4,6 +4,9 @@ date: 2026-03-17
 tags: [resources, government, official, Taiwan.md]
 description: "Taiwan's official websites serve as more than just government service portals—they're windows into Taiwan's democratic g"
 translatedFrom: 'resources/official-websites.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:0d481ed818da82f8'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Taiwan Official Websites Directory 🏛️

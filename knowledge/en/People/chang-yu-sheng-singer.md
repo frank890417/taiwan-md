@@ -103,8 +103,8 @@ Standing there was a queen he had personally built — and he had been gone long
 
 - [A-mei](/en/People/a-mei/) — Chang Yu-sheng produced _Sisters_ and _Bad Boy_ behind the scenes, propelling her to the throne of Mandarin pop queens; that song on the 2017 Golden Melody Awards stage was the deepest form of remembrance
 - [Taiwan Pop Music](/en/Music/golden-melodies-legacy-taiwan-pop-music/) — the background of the Mandarin pop music industry in the 1980s–90s, and the historical position of Chang Yu-sheng's experimental creation within it
-- [Wei Ju-hsuan](/en/People/wei-ju-hsuan/) — another path of friction between mainstream idol and auteur identities, navigating the tension between market and creation
-- [Lin You-jia](/en/People/lin-you-jia/) — a later generation's version of the "idol versus musician" pull: from the 2007 Starlight champion to a 17-year resignation letter as self-producer in 2024
+- [Wei Ju-hsuan](/en/People/waa-wei-singer/) — another path of friction between mainstream idol and auteur identities, navigating the tension between market and creation
+- [Lin You-jia](/en/People/yoga-lin/) — a later generation's version of the "idol versus musician" pull: from the 2007 Starlight champion to a 17-year resignation letter as self-producer in 2024
 
 ## References
 

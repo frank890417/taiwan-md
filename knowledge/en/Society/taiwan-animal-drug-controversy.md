@@ -302,10 +302,10 @@ This article does not choose for you. It opens the space, so you can see that it
 
 **Further Reading**
 
-- [Taiwan's Stray Animal Culture](/en/society/taiwan-stray-animal-culture) — From "Twelve Nights" to zero-kill policy: how this island relearned what to do with the lives in its streets. The other end of the animal-drug controversy is how Taiwan has been redefining the very status of "animal"
-- [Zoo and Performing Animal Ethics in Taiwan](/en/society/zoo-and-performing-animal-ethics) — Another field where human society argues about "medication and care" of animals: different chapter, same problem
-- [Taiwan's National Health Insurance](/en/lifestyle/taiwan-healthcare-nhi) — The other end of human pharmaceutical regulation: the world's largest national healthcare experiment, with no institutional bridge to animal medicine. The "medical-pharmaceutical separation" principle discussed in this article was built during the NHI era
-- [Taiwan's Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — Human emergency medicine has a floor: 119, emergency response networks, DMAT. Animal emergency care doesn't have anything like that floor. Read side-by-side to see the resource gap between two systems
+- [Taiwan's Stray Animal Culture](/en/Society/stray-animal-culture) — From "Twelve Nights" to zero-kill policy: how this island relearned what to do with the lives in its streets. The other end of the animal-drug controversy is how Taiwan has been redefining the very status of "animal"
+- [Zoo and Performing Animal Ethics in Taiwan](/en/Society/zoo-and-exhibition-animal-ethics) — Another field where human society argues about "medication and care" of animals: different chapter, same problem
+- [Taiwan's National Health Insurance](/en/Lifestyle/taiwan-healthcare-and-national-health-insurance) — The other end of human pharmaceutical regulation: the world's largest national healthcare experiment, with no institutional bridge to animal medicine. The "medical-pharmaceutical separation" principle discussed in this article was built during the NHI era
+- [Taiwan's Disaster Medical System](/en/Technology/taiwan-disaster-medicine-system) — Human emergency medicine has a floor: 119, emergency response networks, DMAT. Animal emergency care doesn't have anything like that floor. Read side-by-side to see the resource gap between two systems
 
 ## References
 

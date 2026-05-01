@@ -152,10 +152,10 @@ That is Our Shame.
 
 ## Further Reading
 
-- [Taiwan Indie Music](/en/Music/taiwan-indie-music/) — the historical context of Taiwan's indie band ecosystem in the 2010s–2020s and the folktronica genre
+- [Taiwan Indie Music](/en/Music/indie-music-scene/) — the historical context of Taiwan's indie band ecosystem in the 2010s–2020s and the folktronica genre
 - [Taiwan Pop Music](/en/Music/golden-melodies-legacy-taiwan-pop-music/) — the Mandarin pop industry structure and indie bands' position within it
-- [Cicada](/en/People/cicada/) — another indie band taking an instrumental / non-mainstream path; a contrast of two "not taking the idol route" creative strategies
-- [Wei Ju-hsuan](/en/People/wei-ju-hsuan/) — another trajectory moving from mainstream visibility to indie music in the second half of the 2000s
+- [Cicada](/en/People/cicada-band/) — another indie band taking an instrumental / non-mainstream path; a contrast of two "not taking the idol route" creative strategies
+- [Wei Ju-hsuan](/en/People/waa-wei-singer/) — another trajectory moving from mainstream visibility to indie music in the second half of the 2000s
 - [Hello Nico](/en/People/hello-nico-band/) — another Taiwanese indie female voice from the 2010s, dream pop sound wrapping suppression
 
 ## References

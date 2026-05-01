@@ -1,6 +1,6 @@
 ---
-title: 'Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution'
-description: "When keyboards worldwide look identical, how do different civilizations fit their scripts into 26 English letters? From Taiwan's Zhuyin to Korea's Dubeolsik, input methods are a silent cultural preservation battle"
+title: 'Civilizational Clash on the Keyboard: A Century of East Asian Input Method Evolution'
+description: "When every keyboard in the world looks the same, how did different civilizations stuff their scripts into 26 letters of the alphabet? From Taiwan's Zhuyin to Korea's Dubeolsik, input methods are a silent cultural battle."
 date: 2026-03-19
 tags:
   [
@@ -20,6 +20,9 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-19
 translatedFrom: 'Technology/東亞文字輸入法.md'
+sourceCommitSha: '800114ea'
+sourceContentHash: 'sha256:073b6227b6cef1d7'
+translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 
 # Clash of Civilizations on Keyboards: A Century of East Asian Input Method Evolution

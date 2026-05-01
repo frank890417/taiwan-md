@@ -157,13 +157,13 @@ And that Alishan railway, the Meigetsu Line, is still running in their songs.
 
 **Further reading:**
 
-- [No Party for Cao Dong](/en/people/no-party-for-cao-dong) — the independent band that rose at the same moment in 2016, writing about the anger of those just entering society; KST writes the stranded state ten years later — two stages of the same generation
-- [Wei Ru-Xuan](/en/people/wei-ru-xuan) (zh only) — also in the 2010s independent music ecosystem, a female vocalist path instead of post-rock
-- [Cicada](/en/people/cicada) (zh only) — all-instrumental no-vocal pure post-rock, a counterpoint to KST's "post-rock + vocals"
-- [Crowd Lu](/en/people/crowd-lu) (zh only) — another path in independent music: compositional singer crossing the three major awards
-- [Popular Music and Golden Melody Awards](/en/music/popular-music-golden-melody) (zh only) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
-- [Taiwan Independent Music](/en/music/taiwan-independent-music) (zh only) — the generational lineage of independent music from 1976 to KST, Cao Dong, and Sunset Rollercoaster
-- [Taiwan Popular Music](/en/music/taiwan-popular-music) (zh only) — the Mandarin popular music industry environment
+- [No Party for Cao Dong](/en/People/no-party-for-cao-dong) — the independent band that rose at the same moment in 2016, writing about the anger of those just entering society; KST writes the stranded state ten years later — two stages of the same generation
+- [Wei Ru-Xuan](/en/People/waa-wei-singer) (zh only) — also in the 2010s independent music ecosystem, a female vocalist path instead of post-rock
+- [Cicada](/en/People/cicada-band) (zh only) — all-instrumental no-vocal pure post-rock, a counterpoint to KST's "post-rock + vocals"
+- [Crowd Lu](/en/People/crowd-lu-indie-folk-treasure) (zh only) — another path in independent music: compositional singer crossing the three major awards
+- [Popular Music and Golden Melody Awards](/en/Music/pop-music-and-golden-melody-awards) (zh only) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
+- [Taiwan Independent Music](/en/Music/indie-music-scene) (zh only) — the generational lineage of independent music from 1976 to KST, Cao Dong, and Sunset Rollercoaster
+- [Taiwan Popular Music](/en/Music/pop-music-and-golden-melody-awards) (zh only) — the Mandarin popular music industry environment
 
 ## References
 

@@ -84,6 +84,6 @@ The modernization projects of the Japanese colonial period became an important f
 
 ## Related Topics
 
-- [Qing Dynasty Rule](/en/history/qing-dynasty-rule)
-- [Martial Law Era](/en/history/martial-law-era)
+- [Qing Dynasty Rule](/en/History/qing-dynasty-rule)
+- [Martial Law Era](/en/History/martial-law-era)
 - 19th Century Camphor Wars (19世紀的樟腦戰爭) — The 1899 Camphor Monopoly Act and the 1900 Dakekan Incident: Qing-era origins of Japanese camphor policy
