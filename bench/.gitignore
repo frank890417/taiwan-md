@@ -1,0 +1,13 @@
+# Raw model responses can be GBs — store snapshots as quarterly tarballs in releases instead
+v0/responses/*/
+v0/responses/**/*.json
+!v0/responses/.gitkeep
+
+# Per-quarter result snapshots (auto-generated, large)
+v0/results/quarterly/
+
+# Local exploration
+v0/results/_local-*.json
+v0/results/_smoke-*.json
+v0/results/_run-summary-*.json
+v0/results/scores-*.json

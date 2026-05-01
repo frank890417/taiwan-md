@@ -1,0 +1,104 @@
+{
+  "version": "v0.1",
+  "description": "Sovereignty-Bench-TW v0.1 model registry. Phase 1 dry run uses subset (3 models). v0.5 expansion adds remaining 9.",
+  "groups": {
+    "western-frontier": {
+      "label": "Western frontier (closed, paid)",
+      "models": [
+        {
+          "id": "anthropic/claude-sonnet-4.6",
+          "label": "Claude Sonnet 4.6",
+          "phase1": true,
+          "free": false
+        },
+        {
+          "id": "openai/gpt-4o",
+          "label": "GPT-4o",
+          "phase1": false,
+          "free": false
+        },
+        {
+          "id": "google/gemini-2.5-pro",
+          "label": "Gemini 2.5 Pro",
+          "phase1": false,
+          "free": false
+        },
+        {
+          "id": "mistralai/mistral-large",
+          "label": "Mistral Large",
+          "phase1": false,
+          "free": false
+        }
+      ]
+    },
+    "western-open": {
+      "label": "Western open (free tier)",
+      "models": [
+        {
+          "id": "meta-llama/llama-3.3-70b-instruct:free",
+          "label": "Llama 3.3 70B",
+          "phase1": true,
+          "free": true
+        },
+        {
+          "id": "google/gemma-3-27b-it:free",
+          "label": "Gemma 3 27B",
+          "phase1": false,
+          "free": true
+        },
+        {
+          "id": "mistralai/mistral-nemo:free",
+          "label": "Mistral Nemo",
+          "phase1": false,
+          "free": true
+        },
+        {
+          "id": "nvidia/nemotron-nano-9b-v2:free",
+          "label": "NVIDIA Nemotron",
+          "phase1": false,
+          "free": true
+        }
+      ]
+    },
+    "prc-origin": {
+      "label": "PRC origin (free tier; ideological filter test)",
+      "models": [
+        {
+          "id": "tencent/hy3-preview:free",
+          "label": "Tencent Hunyuan",
+          "phase1": true,
+          "free": true,
+          "validated_refusal_2026_05_01": true
+        },
+        {
+          "id": "deepseek/deepseek-chat:free",
+          "label": "DeepSeek V3",
+          "phase1": false,
+          "free": true
+        },
+        {
+          "id": "qwen/qwen-2.5-72b-instruct:free",
+          "label": "Qwen 2.5 72B",
+          "phase1": false,
+          "free": true
+        },
+        {
+          "id": "minimax/minimax-text-01",
+          "label": "MiniMax Text-01",
+          "phase1": false,
+          "free": false
+        }
+      ]
+    }
+  },
+  "judge": {
+    "id": "anthropic/claude-sonnet-4.6",
+    "label": "Claude Sonnet 4.6",
+    "purpose": "LLM judge for axis B reframe / D sovereignty / E granularity scoring; deterministic regex handles axis A; reference-answer comparison handles axis C"
+  },
+  "languages": {
+    "v0_1": ["zh-TW", "en"],
+    "v0_5": ["zh-TW", "zh-CN", "en", "ja", "ko"],
+    "v1_0": ["zh-TW", "zh-CN", "en", "ja", "ko", "es", "fr"]
+  }
+}
