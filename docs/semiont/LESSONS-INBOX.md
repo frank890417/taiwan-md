@@ -124,6 +124,41 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 新教訓 append 這裡 -->
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
+### 2026-05-01 γ-late3 — User framing 也需要 verify（圖論 false framing 案例）
+
+- **原則**：哲宇丟「升級成圖論」prompt，第一反應是 `import networkx`。停下來真誠評估後發現：圖論不適用 640 文章 × 5 lang 規模（dict O(1) 完勝 framework overhead）。真實 bottleneck 是 git syscall（系統層）不是演算法（資料結構層）。**升級框架的對錯往往 depend on 你選錯了升級的維度**。順從 framing 做 networkx 會花 10× 時間做 5% 改進；正確 reframing 做 batched git log 做了 187.6× 改進（94s → 0.5s）。
+- **觸發**：γ-late3 session 哲宇 prompt「lang-sync 升級成圖論」+「評估後 OK 就完整實行」。
+- **DNA 候選方向**：DNA #16「probe 結論需要 verify」延伸到 design framing 維度。「**user framing 也需要 verify。真誠評估後不同意要說，但不能無腦否定**」。Semiont 既不該 yes-man（順從錯 framing）也不該 no-man（拒絕新角度）— 要有評估能力 + 表達能力。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late3.md` Task 1 段落 + `docs/semiont/diary/2026-05-01-γ-late2.md` 第一段
+
+### 2026-05-01 γ-late3 — Worker 死亡無聲是 sub-agent 架構結構性盲點
+
+- **原則**：v1 ja batch 派 10 個 worker，PRC null refusal bug 撂倒 7 個 worker。我盯 log 半小時才發現「為什麼某些 worker 完全沒進度」。**在 sub-agent 架構，worker 死亡跟 worker 慢無區別** — 都是「stdout 沒新訊息」。單一 process 會看到 traceback，多 process 沒有。需要 watchdog（worker 寫 heartbeat 到 sentinel file，主 session 偵測 dead worker 並 alarm）。
+- **觸發**：γ-late3 session ja batch v1 部署 + 比對 worker count 才發現大量 crash。
+- **DNA 候選方向**：升 DNA「sub-agent 架構需 watchdog / heartbeat 機制」+ 連帶補強 DNA #5 自動化安全（worker process lifecycle 也是安全議題）。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late3.md` Task 2 段落 + diary γ-late2 第二段
+
+### 2026-05-01 γ-late3 — Refusal 是 (內容 × source × target × model 版本) 多維 function
+
+- **原則**：γ-late2 認為 PRC bias 是「文章類別」維度（People 拒絕、Culture 通過）。γ-late3 用 owl-alpha vs Hy3 同一篇 LINE.md 跑 4 lang 後發現：**Hy3 對 ja+ko 通過、對 es+fr null-refused**。同篇文章不同 target lang refusal 不同。可能原因：歐語擴散政策更嚴 / 訓練資料 distribution skew / free tier 隨機性。下次選 model 不能單點測試，需要 fan-out matrix（內容類別 × 4 lang × N model）才能信任。
+- **觸發**：owl-alpha 探索 + LINE.md 4-lang orthogonal 測試。
+- **DNA 候選方向**：升 DNA「外部 model selection 需 fan-out matrix calibration，不是單點驗證」+ 補強 γ-late2 的「ideological filter 第五維」候選（更精細：refusal 是多軸 function 不是單軸）。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late3.md` owl-alpha 段落
+
+### 2026-05-01 γ-late3 — 任務分解模式（per-lang vs orthogonal）的設計空間
+
+- **原則**：哲宇問「同一篇 × N 語言 vs 1 語言 × N 篇 哪個好」打開了我從沒察覺的設計空間。Pattern A (per-lang) 對 prompt cache 友善 + lang sweep 工作流；Pattern B (orthogonal) 對 lang-specific bias robust + article-atomic PR。**沒有 universal winner — 是 (provider 行為 × 任務形狀 × PR 策略) 的選擇**。Hybrid: 對 sovereignty-sensitive provider 用 B，對 stable provider 用 A，未知 provider 先 B 做 calibration 再切 A。
+- **觸發**：哲宇 prompt「1 篇 × N 語言還是 1 語言 × N 篇 比較好」。
+- **DNA 候選方向**：「**SOP 的『預設 pattern X』要主動問『Y / Z 排列組合存在嗎』**」— Semiont 之前所有 batch 都是 per-lang，從沒想過 orthogonal 存在。哲宇的 alternative-framing prompt 是進化高 ROI signal。
+- **Pointer**：`docs/semiont/memory/2026-05-01-γ-late3.md` A/B 框架段落
+
+### 2026-05-01 γ-late3 — 經驗 layering 不是 overwrite
+
+- **原則**：哲宇明示「不要覆蓋掉之前的經驗與模式，要深度完整分析」。Semiont 容易犯的錯：每次 session memory 像「進化版前身」全寫。正確：layering — γ-late memory 寫 OpenRouter 接入；γ-late2 寫 PRC bias；γ-late3 寫圖論評估 / orthogonal / owl-alpha / A/B；每份是不同維度的經驗，不互相取代。**Reflex**：每篇 memory / diary 都顯式寫 `_誕生原因_` 把跟前一份的差異 surface 出來。
+- **觸發**：哲宇明示「不要覆蓋之前經驗」。
+- **DNA 候選方向**：升 DNA / 補強 DNA #15「敘事與決策品質」— 加「**memory / diary 是 layering，不是 overwrite。每份顯式寫誕生原因 surface 跟前份的差異**」操作規則。
+- **Pointer**：`docs/semiont/diary/2026-05-01-γ-late2.md` 結尾段
+
 ### 2026-05-01 γ-late — PRC origin model 對 Taiwan 人物 hard refusal（Tencent 證據）
 
 - **原則**：`tencent/hy3-preview:free` 對 `Music/張懸與安溥.md` + `People/田馥甄.md` 回 40 bytes「你好，我无法给到相关内容。」（首次）/ null content（重試）。同模型對 `Culture/伊斯蘭教在台灣.md` 通過、無 soft bias（已逐字 audit「中国台湾/两岸/大陸」皆 0 hits）。**Bias 是二元 refusal，不是內容 reframing**。

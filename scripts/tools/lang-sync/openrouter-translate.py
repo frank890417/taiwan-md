@@ -55,8 +55,74 @@ def get_api_key():
     sys.exit(1)
 
 
+def extract_zh_frontmatter_fields(zh_content):
+    """Extract title/description/category/tags/date/author/etc. from zh frontmatter.
+
+    Returns dict of field → raw YAML value (preserved as-is for translation context).
+    Used to enrich the translation prompt so target frontmatter has all needed
+    fields (title/desc translated; category/date/author preserved).
+    """
+    if not zh_content.startswith("---"):
+        return {}
+    end = zh_content.find("\n---\n", 4)
+    if end == -1:
+        end = zh_content.find("\n---", 4)
+        if end == -1:
+            return {}
+    fm_block = zh_content[3:end].strip()
+    fields = {}
+    current_key = None
+    multi_line_value = []
+    for line in fm_block.split("\n"):
+        if not line.strip():
+            continue
+        # Top-level key: "key:" or "key: value"
+        m = re.match(r"^([a-zA-Z_][a-zA-Z0-9_]*):\s*(.*)$", line)
+        if m:
+            if current_key and multi_line_value:
+                fields[current_key] = "\n".join(multi_line_value).strip()
+                multi_line_value = []
+            current_key = m.group(1)
+            value = m.group(2).strip()
+            if value:
+                fields[current_key] = value
+            else:
+                multi_line_value = []
+        elif current_key:
+            multi_line_value.append(line)
+    if current_key and multi_line_value:
+        fields[current_key] = "\n".join(multi_line_value).strip()
+    return fields
+
+
 def build_translation_prompt(article, zh_content, lang):
-    """Build system + user prompt for translation."""
+    """Build system + user prompt for translation.
+
+    2026-05-01 γ-late3: Enriched with zh frontmatter extraction so the model
+    produces COMPLETE frontmatter (not just sync placeholder fields). Without
+    this, strict-following models like owl-alpha output minimal 4-field
+    frontmatter; permissive models like Hy3 infer but inconsistently. Now
+    explicit instructions tell the model to translate title/description, keep
+    category/tags/date/author, then append placeholder sync fields verbatim.
+    """
+    zh_fields = extract_zh_frontmatter_fields(zh_content)
+    placeholder = article.get("frontmatter_placeholder", {}) or {}
+    # Build a "target frontmatter scaffold" — what the model should emit
+    target_fm_lines = []
+    # Translate-from-zh fields
+    for key in ["title", "description"]:
+        if key in zh_fields:
+            target_fm_lines.append(f"{key}: <translate from zh: {zh_fields[key]!r}>")
+    # Preserve-as-is fields
+    for key in ["date", "author", "category", "subcategory", "tags",
+                "readingTime", "lastVerified", "lastHumanReview", "featured"]:
+        if key in zh_fields:
+            target_fm_lines.append(f"{key}: <preserve from zh: {zh_fields[key]!r}>")
+    # Sync placeholder fields (verbatim)
+    for key, value in placeholder.items():
+        target_fm_lines.append(f"{key}: <verbatim from placeholder: {value!r}>")
+    target_scaffold = "\n".join(target_fm_lines) if target_fm_lines else "(no zh frontmatter detected — use placeholder only)"
+
     system = f"""You are a translator for Taiwan.md, an open-source curated knowledge base about Taiwan.
 
 Translate zh-TW articles to {LANG_NAMES.get(lang, lang)} following these rules:
@@ -66,18 +132,32 @@ Translate zh-TW articles to {LANG_NAMES.get(lang, lang)} following these rules:
 3. **Preserve verbatim**: core tension, anchors (people/dates/places/numbers), `> blockquote` quotes, footnote source URLs unchanged
 4. **Reframe cultural common-knowledge** for {lang} readers (e.g., "夜市 = night market" inline)
 
-CRITICAL output rules:
-- Output ONLY the translated markdown file content (frontmatter + body)
-- Use the EXACT frontmatter values from the manifest's `frontmatter_placeholder`
-- ALL YAML tag values quoted strings; descriptions with apostrophes use DOUBLE QUOTES
+CRITICAL frontmatter rules — emit ALL fields from the target scaffold:
+- `title`: translate the zh title to {LANG_NAMES.get(lang, lang)}
+- `description`: translate the zh description to {LANG_NAMES.get(lang, lang)}
+- `tags`: translate each tag value to {LANG_NAMES.get(lang, lang)} (keep YAML list shape)
+- `category`, `subcategory`, `date`, `author`, `readingTime`, `lastVerified`, `lastHumanReview`, `featured`: keep zh value VERBATIM (do not translate or alter)
+- Sync placeholder fields (translatedFrom / sourceCommitSha / sourceContentHash / translatedAt): VERBATIM from placeholder
+- ALL YAML string values quoted; descriptions with apostrophes use DOUBLE QUOTES
 - Frontmatter ends with `\\n---\\n` newline before closing `---`
+
+CRITICAL body rules:
 - Wikilinks `[[X]]`: use manifest's `wikilink_targets[X]` mapping (markdown link if `/lang/...`, plain text + Chinese parenthesis if `(zh only)`)
 - Footnotes `[^N]`: keep numbering, translate desc, KEEP source URL unchanged
-- DO NOT add ```markdown wrapper or any meta-commentary"""
+
+CRITICAL output rules:
+- Output ONLY the translated markdown file content (frontmatter + body)
+- DO NOT add ```markdown wrapper or any meta-commentary
+- DO NOT include any text before the opening `---` or after the body"""
 
     user_msg = f"""Translate this zh-TW article to {LANG_NAMES.get(lang, lang)}.
 
-**Manifest entry**:
+**Target frontmatter scaffold (produce these fields in your output, with values translated/preserved per system prompt rules)**:
+```
+{target_scaffold}
+```
+
+**Manifest entry (wikilink targets + slug + sync placeholder)**:
 ```json
 {json.dumps(article, ensure_ascii=False, indent=2)}
 ```
