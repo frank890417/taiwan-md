@@ -998,6 +998,73 @@ Chrome MCP harvest
 
 **canonical 時間戳格式**：`YYYY-MM-DD HH:MM +0800 (session)`，對應 MANIFESTO §時間是結構 per-record provenance。
 
+#### 4.5e.i Harvest 數字格式鐵律（v2.8 新增，2026-05-03 objective-khorana day 2）
+
+寫進 SPORE-LOG「最後 harvest」column 的 views 數字**必須是 generator parser 認得的格式**：
+
+| 格式 | 範例 | parser 支援 |
+|---|---|---|
+| 完整數字含逗號 | `**65,400 views**` | ✅ |
+| 完整數字無逗號 | `65000 views` | ✅ |
+| K suffix | `**65.4K views**` / `1.8K views` / `180K views` | ✅（v2.8 修） |
+| M suffix | `2.5M views` | ✅（v2.8 修） |
+
+**v2.8 修補背景**：generator regex `[\d,]+\s+views?` 不認 K/M suffix（`.4K` 打斷 `[\d,]+`）。
+sleepy-colden ι session 多個 backfill 寫成「65.4K views」（為 readability）→ generator 抓不到 → dashboard 顯示舊 `views_latest=null`。
+今日（2026-05-03）發現後 patch parser to handle 4 種格式。
+
+**最 safe**：harvest 寫整數 + 逗號（`65,400 views`）— 兩種 parser 都能抓。
+
+#### 4.5e.ii 必跑 validation（v2.8 新增）
+
+每次 harvest backfill SPORE-LOG 後**必跑**：
+
+```bash
+python3 scripts/tools/validate-spore-data.py
+```
+
+檢查 4 維度：
+1. **Parser regression**：8 cases K/M/comma 格式 round-trip
+2. **Dashboard freshness**：`dashboard-spores.json` mtime ≥ `SPORE-LOG.md` mtime
+3. **Harvest parseability**：所有「最後 harvest」column 含「views」字串都能被 parser 抓到值
+4. **Dashboard <-> SPORE-LOG consistency**：`dashboard-spores.json.recent[].views_latest` 對得上 SPORE-LOG 解析值
+
+任一 ❌ → 修。任一 ⚠️（warning）→ 評估。`--strict` mode 把 warnings 變 errors（CI 用）。
+
+已整合進 `refresh-data.sh` Step 5.5 — 每次 refresh 自動跑。
+
+#### 4.5e.iii Dashboard rendering 視覺驗證（v2.8 新增）
+
+每次大規模 harvest backfill 後**建議**開 dev server 視覺驗證：
+
+```bash
+npm run dev &
+# Wait for ready
+curl -sf http://localhost:4321/api/dashboard-spores.json > /dev/null
+
+# Playwright screenshot dashboard #spores section
+node -e "
+const { chromium } = require('playwright');
+(async () => {
+  const b = await chromium.launch();
+  const p = await b.newPage({ viewport: { width: 1400, height: 1400 } });
+  await p.goto('http://localhost:4321/dashboard', { waitUntil: 'networkidle' });
+  await p.evaluate(() => document.getElementById('spores-top')?.scrollIntoView({ block: 'center' }));
+  await p.waitForTimeout(2000);
+  await (await p.\$('#spores-top'))?.screenshot({ path: '/tmp/dashboard-spores-top.png' });
+  console.log('✅ Screenshot: /tmp/dashboard-spores-top.png');
+  await b.close();
+})();
+"
+```
+
+驗證點：
+- topPerformers 顯示最新 ⭐ 高峰 / 🔥 平台最強 / 🌋 史上最強 badges 正確
+- views 數字反映 latest harvest（不是 stale）
+- 「資料更新」timestamp 是「N 分鐘前」（今天）
+
+**為什麼視覺驗證**：dashboard JSON 對 ≠ UI 對。frontend template 也可能 cap rendering（例 slice(0, N)）— 改 generator 後要 verify template 也更新。
+
 ---
 
 ## Step 5: 英文版與多語 SSOT freshness（EN SPORE + TRANSLATION CHECK）

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T17:12:37.885785Z",
+  "lastUpdated": "2026-05-02T18:00:39.939473Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 58,
@@ -80,10 +80,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DXwm8KLk5QP",
       "highlight": "**SPORE-PIPELINE v2.7 + 觀察者責任倫理 reflection**：海底電纜剛 ship 隔日首發。Angle B「LINE『已送達』那一秒，背後是 14 條深埋海床下、頭髮粗的玻璃光纖」hook + 闕河鳴「I say this is 'accidental,' and they also said it was 'accidental,' so 'accidentally' all this happened within a week」verbatim 翻譯。Threads 主貼不含 URL，self-reply 加連結（utm_source=threads&utm_medium=spore&utm_campaign=s55）。square 1080×1080 配圖。**Reflection 過程**：哲宇看到 UDN 「506 大樓」報導讀者反感留言「都機密了還報導」「此地無銀三百兩」，質疑原 Angle A（506 大樓地理 hook）會被框架成同類反感。即使內容事實全公開（Rest of World 國際媒體已報導、moda 官方頁列出全 5 個登陸站、Submarine Cable Map 公開 TPU 路徑），讀者第一反應仍是公民直覺。換 Angle B 保留同樣核心矛盾「矽盾頂上看得到，命脈底下看不見」但避開讀者反感 vector。",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 1300,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 54,
@@ -151,12 +151,45 @@
       "n": 45,
       "article": "壞特",
       "platform": "threads",
-      "views": 65000,
+      "views": 65400,
       "viewsSource": "latest",
       "engagements": null,
       "rate": null,
       "badge": "⭐ 高峰",
       "date": "2026-04-26"
+    },
+    {
+      "n": 53,
+      "article": "黑冠麻鷺",
+      "platform": "threads",
+      "views": 64800,
+      "viewsSource": "latest",
+      "engagements": null,
+      "rate": null,
+      "badge": "⭐ 高峰",
+      "date": "2026-04-30"
+    },
+    {
+      "n": 36,
+      "article": "台灣高鐵（v3 事實修正版）",
+      "platform": "x",
+      "views": 63868,
+      "viewsSource": "7d",
+      "engagements": 450,
+      "rate": 0.7,
+      "badge": "⭐ 高峰",
+      "date": "2026-04-19"
+    },
+    {
+      "n": 22,
+      "article": "鄭麗文",
+      "platform": "threads",
+      "views": 49000,
+      "viewsSource": "7d",
+      "engagements": 448,
+      "rate": 0.91,
+      "badge": null,
+      "date": "2026-04-11"
     }
   ],
   "amplification": [
@@ -398,12 +431,12 @@
     {
       "week": "2026-W17",
       "published": 10,
-      "avgViews": 18633
+      "avgViews": 18668
     },
     {
       "week": "2026-W18",
       "published": 12,
-      "avgViews": 6735
+      "avgViews": 17287
     }
   ],
   "harvestStatus": [

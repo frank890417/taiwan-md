@@ -141,6 +141,18 @@ else
 fi
 echo ""
 
+# Step 5.5 — spore data SSOT validation (2026-05-03 objective-khorana day 2)
+# 為什麼: dashboard freshness check 只看 mtime，不檢查 spore 解析正確性。
+# 過去發現 generator parser bug (K suffix) silent fail → views_latest=null but mtime fresh.
+# 這條跑 validate-spore-data.py 主動檢查 SPORE-LOG / dashboard JSON 內容一致性。
+echo -e "${GRN}[5.5/6]${RST} spore data SSOT validation..."
+if python3 scripts/tools/validate-spore-data.py 2>&1 | tail -4 | head -3; then
+  echo -e "${DIM}   ✓ spore data validation passed${RST}"
+else
+  echo -e "${RED}⚠️  spore data validation reported issues — see above${RST}"
+fi
+echo ""
+
 echo -e "${DIM}═══════════════════════════════════${RST}"
 echo -e "${GRN}🧬 資料更新 pipeline 完成${RST}"
 echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"

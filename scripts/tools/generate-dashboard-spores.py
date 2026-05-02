@@ -169,18 +169,35 @@ def parse_latest_views_from_harvest(harvest_text):
 
     Format examples produced by harvest write-back（clean_cell 已 strip ** markers）：
       'D+3 ~3.8d backfill (...)：24,435 views / 1,417♥ / 345🔁'
+      'D+7 backfill (...)：65.4K views / 1K♥ / 23🔁'  (K-suffix variant)
       'D+0 ~30min 首抓 (...)：40 views / 3♥ / 1🔁'
+      'D+5 backfill (...)：12.7K views / 1.1K♥ / 110🔁'
 
     Multiple D+N stacks: latest harvest is at the TOP (we prepend new harvests
     when backfilling). So FIRST 'N views' match = latest. Returns int or None.
+
+    2026-05-03 objective-khorana day 2 fix: was failing on K/M-suffix forms
+    (e.g. '65.4K views' -> None) because regex bracket-d-comma doesn't match '.4K'.
+    Now handles: 65,400 / 65000 / 65.4K / 1.8K / 180K / 2.5M.
     """
     if not harvest_text:
         return None
-    # Match '24,435 views' or '40 views' — clean_cell removes ** so no need to handle bold
-    m = re.search(r"([\d,]+)\s+views?\b", harvest_text)
+    # Pattern: number with optional decimal/comma + optional K/M suffix
+    # Tries 'X.YK' / 'X,YYY' / 'XYZ' followed by 'views'
+    m = re.search(
+        r"(\d+(?:\.\d+)?[KMkm]|\d{1,3}(?:,\d{3})+|\d+)\s+views?\b",
+        harvest_text,
+    )
     if not m:
         return None
-    return parse_number(m.group(1))
+    s = m.group(1)
+    # K/M suffix conversion
+    if s[-1] in "Kk":
+        return int(float(s[:-1]) * 1000)
+    if s[-1] in "Mm":
+        return int(float(s[:-1]) * 1_000_000)
+    # Plain integer with optional commas
+    return int(s.replace(",", ""))
 
 
 def parse_metrics_rows(raw_rows):
@@ -571,7 +588,7 @@ def main():
         "schemaVersion": "1.1",
         "totals": compute_totals(entries),
         "recent": compute_recent(entries, 5),
-        "topPerformers": compute_top_performers(entries, 5),
+        "topPerformers": compute_top_performers(entries, 8),
         "amplification": compute_amplification(entries),
         "platformComparison": compute_platform_comparison(entries),
         "backfillWarnings": bf["warnings"],
