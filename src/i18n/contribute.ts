@@ -2422,6 +2422,8 @@ export const contributeUI = {
     'contribute.guides.ai.icon': '🤖',
     'contribute.guides.ai.title': 'Contribución Asistida por IA',
     'contribute.guides.ai.onerule': '🎯 Una Regla de Oro',
+    'contribute.guides.ai.onerule.desc':
+      '<strong>La IA no es la autora, tú eres el curador.</strong> La mayor trampa de la IA: "saber un poco y empezar a inventar". El enfoque de Taiwan.md: recopila primero fuentes de calidad, luego cura un artículo a partir de ellas.',
     'contribute.guides.ai.onerule.desc.html':
       '<strong>La IA no es la autora, tú eres el curador.</strong> La mayor trampa de la IA: "saber un poco y empezar a inventar". El enfoque de Taiwan.md: recopila primero fuentes de calidad, luego cura un artículo a partir de ellas.',
     'contribute.guides.ai.correct': '✅ Uso Correcto',

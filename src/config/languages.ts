@@ -72,7 +72,7 @@ export const LANGUAGES = [
     hreflang: 'es',
     enabled: true,
     notes:
-      '2026-04-25 enabled. 36 articles from knowledge/es/. UI fallback chain: es → en → zh-TW until es i18n keys are translated.',
+      '2026-04-25 enabled. 36 articles from knowledge/es/. UI bundle wired through src/i18n/ui.ts on 2026-05-02.',
   },
   {
     code: 'fr',
@@ -80,7 +80,7 @@ export const LANGUAGES = [
     hreflang: 'fr',
     enabled: true,
     notes:
-      '2026-04-24 β3 enabled. 484 articles from ceruleanstring + community. UI fallback chain: fr → en → zh-TW until fr i18n keys are translated.',
+      '2026-04-24 β3 enabled. 484 articles from ceruleanstring + community. UI bundle wired through src/i18n/ui.ts on 2026-05-02.',
   },
 ] as const satisfies readonly LanguageEntry[];
 

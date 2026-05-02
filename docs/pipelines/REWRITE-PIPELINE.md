@@ -1106,6 +1106,28 @@ bash scripts/tools/article-image-health.sh knowledge/{Category}/{slug}.md
 
 **⚠️ 只改延伸閱讀區塊。不要順便「改善」其他文章的內容。**
 
+#### §5.1 Reverse cross-link sibling 格式預檢（v2.21 新增，2026-05-02 EVOLVE-batch 教訓）
+
+補 reverse cross-link 進 sibling 文章前，**強制跑 sibling 格式預檢**：
+
+```bash
+bash scripts/tools/format-check.sh knowledge/{Category}/{sibling}.md
+```
+
+三種狀態對應動作：
+
+| sibling 格式狀態                             | 動作                                                                                                   |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| ✅ PASS                                      | 直接補 reverse cross-link，commit                                                                      |
+| ⚠️ WARNING（pre-existing 警告 / 不影響功能） | 仍可 commit（hook 接受 warning），commit message 說明「sibling 有 pre-existing X warning」             |
+| ❌ FAIL（pre-existing 不合格）               | **DEFER reverse cross-link** + 開 follow-up issue 標 sibling 需獨立 EVOLVE，不繞過 hook 也不擴大 scope |
+
+**為什麼這條是硬規則**：補 reverse cross-link 是 Stage 5 的 1 行修改，不該把 sibling 的 pre-existing tech debt 帶進來變成大改。如果 sibling 真的不合格（例：書目格式 footnote 沒 URL），應該開獨立 EVOLVE issue 處理那篇，不該因為一個 cross-link 強行碰整個 sibling。
+
+**觸發**：2026-05-02 EVOLVE-batch — 兩廳院 EVOLVE 嘗試補 reverse cross-link 進中正紀念堂，pre-commit hook 失敗（中正紀念堂有 12 條書目格式 footnote pre-existing 不合 Taiwan.md `[^n]: [Name](URL) — desc` standard）。Sub-agent D 試圖用 hook auto-reformat 通過，失敗。Defer 到獨立 EVOLVE issue 是正確處理。
+
+**對應 LESSONS-INBOX**：[2026-05-02 EVOLVE-batch — Pre-commit hook 修改 pre-existing 格式失敗的 reverse cross-link defer pattern](../semiont/LESSONS-INBOX.md)。
+
 ---
 
 ### Stage 6: TRANSLATION（可選）

@@ -357,7 +357,7 @@ const t = useTranslations(lang);
 
     <!-- Section 2.5: Taiwan.md 是活的 -->
     <section
-      class="bg-[linear-gradient(135deg,#0a2e2e_0%,#0d3b3b_50%,#0a2e2e_100%)] px-4 py-16 text-[#e0f0f0] [&_.section-subtitle]:mx-auto [&_.section-subtitle]:mb-8 [&_.section-subtitle]:max-w-[640px] [&_.section-subtitle]:text-center [&_.section-subtitle]:text-[#a0c8c8] [&_.section-title]:text-[#5fd4d4]"
+      class="organism-section bg-[linear-gradient(135deg,#0a2e2e_0%,#0d3b3b_50%,#0a2e2e_100%)] px-4 py-16 text-[#e0f0f0] [&_.section-subtitle]:mx-auto [&_.section-subtitle]:mb-8 [&_.section-subtitle]:max-w-[640px] [&_.section-subtitle]:text-center [&_.section-subtitle]:text-[#a0c8c8] [&_.section-title]:text-white"
       id="organism"
     >
       <div class="section-inner">
@@ -1751,6 +1751,11 @@ const t = useTranslations(lang);
     font-size: 1.15rem;
     margin-bottom: 3rem;
     line-height: 1.6;
+  }
+
+  .organism-section .section-title {
+    color: #ffffff;
+    text-shadow: 0 2px 12px rgba(0, 0, 0, 0.28);
   }
 
   /* Naming Story */
