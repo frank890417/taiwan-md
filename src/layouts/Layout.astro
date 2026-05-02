@@ -49,6 +49,15 @@ const isEn = lang === 'en';
 const categorySlug = category?.toLowerCase() || '';
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 const isHome = currentPath === '/' || currentPath === '/en';
+
+// Reader options (dark mode + ReaderSettings panel) only run on standard
+// category article pages — those are the only routes whose prose CSS is
+// dark-ready. Dashboard / home / bench / hub pages still have white-island
+// component layouts that look broken on a dark body, so we keep them
+// light until a dedicated dark-mode pass per surface lands.
+// Detection: only [category]/[slug].astro pages pass BOTH props.
+// (Hub pages pass category only; lifetree passes slug only; landings pass neither.)
+const isArticlePage = Boolean(category && slug);
 // justfont: only put the body font class on <body> to avoid rate-limit.
 // Other font classes go on specific elements (h1-h6, blockquote, nav, etc.)
 const jfClass = [
@@ -180,10 +189,19 @@ const jfClass = [
          Reads localStorage and prefers-color-scheme BEFORE first paint
          so toggling theme doesn't flash. Idempotent. ?shot=1 short-circuits
          to keep OG image generation fully light, regardless of user pref.
-         (2026-05-01 γ-late, Issue #615 / idlccp1984 reader options) -->
+         Server-side gate via window.__TW_MD_IS_ARTICLE: dark theme + font
+         size only auto-apply on standard category article pages. Other
+         pages (dashboard / home / hub / bench) keep light v1 — their
+         component layouts assume light bg and look broken on dark body.
+         (2026-05-01 γ-late, Issue #615 / idlccp1984 reader options;
+          v1.1 fix 2026-05-02 γ-late after dark-on-dashboard regression.) -->
+    <script is:inline define:vars={{ isArticlePage }}>
+      window.__TW_MD_IS_ARTICLE = !!isArticlePage;
+    </script>
     <script is:inline>
       (function () {
         try {
+          if (!window.__TW_MD_IS_ARTICLE) return;
           var qs = new URLSearchParams(location.search);
           if (qs.get('shot') === '1') return;
           var html = document.documentElement;
@@ -191,16 +209,24 @@ const jfClass = [
           try {
             saved = localStorage.getItem('tw-md-theme');
           } catch (_) {}
+          // Default = light. Dark only when user explicitly picks 'dark'
+          // OR they opt into 'auto' (follow system pref). prefers-color-scheme
+          // is NEVER auto-honored without explicit opt-in — Taiwan.md's
+          // identity is light by default.
+          // (2026-05-02 γ-late, observer feedback after #764 deploy:
+          //  「全部網站都預設用亮色模式 除非特別切換暗色模式」)
           var prefersDark =
             window.matchMedia &&
             window.matchMedia('(prefers-color-scheme: dark)').matches;
-          var theme =
-            saved === 'dark' || saved === 'light'
-              ? saved
-              : prefersDark
-                ? 'dark'
+          var effective =
+            saved === 'dark'
+              ? 'dark'
+              : saved === 'auto'
+                ? prefersDark
+                  ? 'dark'
+                  : 'light'
                 : 'light';
-          if (theme === 'dark') html.setAttribute('data-theme', 'dark');
+          if (effective === 'dark') html.setAttribute('data-theme', 'dark');
           var size = null;
           try {
             size = localStorage.getItem('tw-md-text-size');
@@ -854,8 +880,10 @@ const jfClass = [
     </a>
 
     <!-- Reader settings: theme + size + plain-text link
-         (Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late) -->
-    <ReaderSettings lang={lang} />
+         (Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late)
+         v1.1 (2026-05-02 γ-late): only render on article pages — same
+         gate as the FOUC init script above. Other pages aren't dark-ready. -->
+    {isArticlePage && <ReaderSettings lang={lang} />}
 
     <script is:inline>
       // Set .md button href based on current path

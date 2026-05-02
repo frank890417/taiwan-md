@@ -235,8 +235,11 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
       try {
         saved = localStorage.getItem('tw-md-theme');
       } catch (_) {}
-      if (saved === 'light' || saved === 'dark') return saved;
-      return 'auto';
+      // Default = 'light' when LS is empty. 'auto' is now an explicit
+      // opt-in (no longer the default state, post 2026-05-02 γ-late
+      // observer feedback to default-light everywhere).
+      if (saved === 'dark' || saved === 'auto') return saved;
+      return 'light';
     }
     function readSize() {
       var saved = null;
@@ -247,9 +250,11 @@ const t: Strings = STRINGS[lang] ?? STRINGS['zh-TW'];
     }
 
     function applyTheme(value) {
-      // value: 'light' | 'auto' | 'dark'
+      // value: 'light' | 'auto' | 'dark'.
+      // 'light' clears LS (it's the default). 'auto' and 'dark' write
+      // explicit values so the FOUC init script knows the user opted in.
       try {
-        if (value === 'auto') localStorage.removeItem('tw-md-theme');
+        if (value === 'light') localStorage.removeItem('tw-md-theme');
         else localStorage.setItem('tw-md-theme', value);
       } catch (_) {}
       var effective =
