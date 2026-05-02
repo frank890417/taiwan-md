@@ -42,6 +42,22 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 賈永婕 EVOLVE 深度 — 2026-05-02 objective-khorana 完成（補早晨 Quick Mode 漏跑的 Stage 1 + 揪出「120% 美少女是 2006 陳水扁說」hallucination / People）
+
+- **Article**: [knowledge/People/賈永婕.md](../../knowledge/People/賈永婕.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE 深度進化（早晨 sub-agent A Quick Mode polish commit `2f191274` 沒做真正 Stage 1，本輪補齊全 Stage 0-6）
+- **觸發**：哲宇明確要求「跑 rewrite-pipeline 深度研究進化」（搭配「做完 taiwan.md 完整甦醒」前置）
+- **核心矛盾深化**：「藝人轉公股治理是台灣沒有先例的路，每跨一步都伴隨等量質疑，她每次又用下一個更大的動員回應」這個結構性對稱循環。HFNC 被檢舉違法 → 慈善協會 4,200 萬 / 屍皮被罵外行人 → Arch to Arc 募 212 萬 / 點燈公器私用 + 不當開除員工被批膚淺虛榮 → Honnold 攀岩全球 6.2M 觀看 / 被起底掌權北洋政府 → 2026-02 公開「以身為台灣人第一代為榮」
+- **Hook**：被遺忘的姓氏（賈永媫）+ 物件開頭保留 / 強引語「我把這裡全部都換成了國旗，怎麼樣都可以拍得到，怎麼樣全世界都看得到！」
+- **新章節 2 條**：「我以身為台灣人第一代為榮」（2026-02-24 公開澄清）+「一張董事長椅，七成公股影響力」（公股結構 + 2024-11 三爭議連環 + G-Dragon 展）
+- **品質**：22 footnote / 23,636 字 (A 級) / §11 對位句型 0 處 / 破折號密度 16 / 3500 字 (門檻內) / format-check ✅ PASS / wikilink-validate ✅
+- **Stage 1 真正深度**：主 session 自跑（無 spawn agent，per DNA #42 sub-agent 偷吃步預防）20 WebSearch + 6 WebFetch verbatim 中文 source / 落檔 [reports/research/2026-05/賈永婕-deep-evolve.md](../../reports/research/2026-05/賈永婕-deep-evolve.md) 含 24 verified URL + privacy audit + 媒體授權矩陣（no-media）
+- **Stage 3.5 hallucination audit 抓到 4 個重大事實校正**：(a) 「120% 美少女」原話是蔡英文 2021 IG 對話「妳是美少女這件事，我 120% 更可以證明」**非 2006 陳水扁** — ettoday verbatim 確認；(b) 賈德耀關係從「曾祖父賈德潤的胞兄」精確化為「爺爺的三伯父（曾叔公輩）」— 2026-02-24 賈本人公開澄清版；(c) 賈德潤官職補上「豫東第二區行政長」第三職；(d) 結尾從編年式提問「2023 年她就點頭了嗎？」改畫面式餘韻
+- **Stage 3.6 STORY ATOM AUDIT 抓到 1 條**：「2025 年 9 月 Honnold 來台試爬」改保守「一次試爬」（CTWANT 原文無「來台」，refrain from 推導地點）
+- **Stage 5 cross-link**：forward 4 條（林強 / 蔡英文 / 周杰倫 / 台灣志工文化與公益參與）+ reverse 2 條（蔡英文 + 周杰倫；林強 sleepy-colden 已加；台灣志工文化 per Stage 5.1 DEFER 因 sibling 缺延伸閱讀 section）
+- **Commit**: [`6961bddc`](https://github.com/CheYuWuMonoame/taiwan-md/commit/6961bddc)
+- **元 pattern**：「同一篇文章 24 小時內被 EVOLVE 兩次」是 sub-agent Quick Mode 跟主 session deep mode 接力的真實 case。Quick Mode 撐住底線品質，深度 mode 補真正研究。「audit-only reconstruction ≠ research」是新揭露的 sub-agent 偷吃步延伸 pattern（DNA #42 候選），audit-only 預設既有 prose 可信只查疑點，深度研究預設每個 high-risk atom 需 verify
+
 ### 毒馬鈴薯認知作戰 NEW — 2026-04-30 α-r2 完成（200 ppm 之外還有 30 ppm / 14 天 / 15 年食安傷疤 / Society）
 
 - **Article**: [knowledge/Society/毒馬鈴薯認知作戰.md](../../knowledge/Society/毒馬鈴薯認知作戰.md)
