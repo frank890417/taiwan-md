@@ -1,32 +1,32 @@
 {
-  "totalArticles": 3972,
+  "totalArticles": 3991,
   "totalCategories": 21,
   "estimatedContributors": 57,
-  "totalTags": 5214,
+  "totalTags": 5235,
   "categories": [
     {
       "name": "es",
-      "count": 651
+      "count": 654
     },
     {
       "name": "ko",
-      "count": 656
+      "count": 659
     },
     {
       "name": "en",
-      "count": 672
-    },
-    {
-      "name": "fr",
       "count": 675
     },
     {
+      "name": "fr",
+      "count": 678
+    },
+    {
       "name": "ja",
-      "count": 665
+      "count": 668
     },
     {
       "name": "History",
-      "count": 36
+      "count": 37
     },
     {
       "name": "Society",
@@ -38,7 +38,7 @@
     },
     {
       "name": "People",
-      "count": 202
+      "count": 203
     },
     {
       "name": "Music",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Economy",
-      "count": 51
+      "count": 52
     },
     {
       "name": "Technology",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Nature",
-      "count": 34
+      "count": 35
     },
     {
       "name": "About",
@@ -143,15 +143,15 @@
       "count": 21
     },
     {
+      "name": "歷史",
+      "count": 20
+    },
+    {
       "name": "Économie",
       "count": 20
     },
     {
       "name": "YouTuber",
-      "count": 19
-    },
-    {
-      "name": "歷史",
       "count": 19
     },
     {
@@ -172,13 +172,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 3972,
+    "zh-TW": 3991,
     "en": 0
   },
-  "lastUpdated": "2026-05-02T06:30:53.347Z",
-  "stars": 965,
+  "lastUpdated": "2026-05-02T17:12:39.488Z",
+  "stars": 967,
   "forks": 144,
-  "zhPages": 3300,
-  "enPages": 672,
-  "totalPages": 3972
+  "zhPages": 3316,
+  "enPages": 675,
+  "totalPages": 3991
 }

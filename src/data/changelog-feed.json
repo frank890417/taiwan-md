@@ -1,7 +1,85 @@
 {
-  "generatedAt": "2026-05-02T06:26:16.465Z",
+  "generatedAt": "2026-05-02T17:12:38.834Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "c9138dca60627e2a1ebae54a33b49b9f48fc0387",
+      "date": "2026-05-02T23:47:52+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 賈永婕 EVOLVE 深度進化 + spore #57/#58 (Threads + X) (#793)"
+    },
+    {
+      "hash": "ca66ed9205d45983066f70a9e698a1ff7144da77",
+      "date": "2026-05-02T23:43:45+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: sleepy-colden v3 收官 — 5 PR full session + i18n 三層 bug 揭露 + 跨 N matrix verify 教訓 (#792)"
+    },
+    {
+      "hash": "41d1128b84eb5a7f78ab1fc4b45fcf594fb09220",
+      "date": "2026-05-02T22:44:36+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] 跨語系健檢工具 + getLangSwitchPath 抽象化 + es lang attr fix (#788)"
+    },
+    {
+      "hash": "85b83e491dfccf7bcf8f34c3c8a82c6ddb8f4412",
+      "date": "2026-05-02T22:15:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: PR #785 退出聯合國 frontmatter follow-up (#787)"
+    },
+    {
+      "hash": "74b610bc240973c5aae5f63625bbea497f42dc35",
+      "date": "2026-05-02T22:13:10+08:00",
+      "author": "idlccp1984",
+      "message": "Create 退出聯合國.md (#785)"
+    },
+    {
+      "hash": "c7aeb6079a37ba7552e6d91edacba72b1469de97",
+      "date": "2026-05-02T22:12:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: sleepy-colden 進化升 v2.4 — DNA #45/#46/#42 v3 + SOP + 工具 + memory/diary v2 (#786)"
+    },
+    {
+      "hash": "14c7b362cbf2f2299b779df137a61fd68625c92d",
+      "date": "2026-05-02T21:06:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] sleepy-colden session — Owl report + 3 idlccp1984 PR follow-up polish (#784)"
+    },
+    {
+      "hash": "c5e121fbc14cf34603ee61b15c1e782981fb7699",
+      "date": "2026-05-02T19:38:39+08:00",
+      "author": "idlccp1984",
+      "message": "Create 梅雨.md (#783)"
+    },
+    {
+      "hash": "94b10cd87f9a7f29b940f74faf7c45d73324f934",
+      "date": "2026-05-02T19:38:36+08:00",
+      "author": "idlccp1984",
+      "message": "Create 殷海光.md (#782)"
+    },
+    {
+      "hash": "876588bcfbf5d8c48cb4a79c3f4f592e10d175ed",
+      "date": "2026-05-02T19:38:33+08:00",
+      "author": "idlccp1984",
+      "message": "Create 發票.md (#780)"
+    },
+    {
+      "hash": "e1cd70a630d8bdf51fb28c5ac185b46a10632482",
+      "date": "2026-05-02T15:08:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] bench: v0.3 — Owl Alpha + BENCH-PIPELINE canonical + Opus sub-agent judge (#778)"
+    },
+    {
+      "hash": "85bd801a72f23be985fc05551f7cd16bdd171e8d",
+      "date": "2026-05-02T14:34:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🔧 [造橋鋪路] DATA-REFRESH-PIPELINE evolve — 加 Step 2.9 i18n-coverage + Step 5 verify gate (#777)"
+    },
+    {
+      "hash": "2b5b32fe1e5558b950a42397eff8d73448e70faa",
+      "date": "2026-05-02T14:27:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] dashboard: refresh all data — i18n 100% × 5 langs / spores 56 / articles 648 (#776)"
+    },
     {
       "hash": "c11c6fc5eede989c116e165e775286c793058a46",
       "date": "2026-05-02T14:22:26+08:00",

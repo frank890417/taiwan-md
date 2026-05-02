@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T06:30:52.632Z",
+  "lastUpdated": "2026-05-02T17:12:38.756Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,62 +10,62 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 648,
+      "total": 652,
       "percentage": 100,
-      "fresh": 648,
+      "fresh": 652,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
-      "total": 650,
+      "total": 653,
       "percentage": 99.8,
-      "fresh": 650,
-      "stale": 0,
+      "fresh": 647,
+      "stale": 6,
       "missing": 1,
       "orphan": 0,
       "deficit": 1,
-      "freshPct": 99.8
+      "freshPct": 98.9
     },
     "ja": {
-      "total": 650,
+      "total": 653,
       "percentage": 99.8,
-      "fresh": 650,
-      "stale": 0,
+      "fresh": 647,
+      "stale": 6,
       "missing": 1,
       "orphan": 7,
       "deficit": 1,
-      "freshPct": 99.8
+      "freshPct": 98.9
     },
     "ko": {
-      "total": 650,
+      "total": 653,
       "percentage": 99.8,
-      "fresh": 650,
-      "stale": 0,
+      "fresh": 647,
+      "stale": 6,
       "missing": 1,
       "orphan": 3,
       "deficit": 1,
-      "freshPct": 99.8
+      "freshPct": 98.9
     },
     "es": {
-      "total": 650,
-      "percentage": 99.8,
-      "fresh": 650,
-      "stale": 0,
-      "missing": 1,
+      "total": 654,
+      "percentage": 100,
+      "fresh": 648,
+      "stale": 6,
+      "missing": 0,
       "orphan": 0,
-      "deficit": 1,
-      "freshPct": 99.8
+      "deficit": 0,
+      "freshPct": 99.1
     },
     "fr": {
-      "total": 650,
-      "percentage": 99.8,
-      "fresh": 650,
-      "stale": 0,
-      "missing": 1,
+      "total": 654,
+      "percentage": 100,
+      "fresh": 648,
+      "stale": 6,
+      "missing": 0,
       "orphan": 3,
-      "deficit": 1,
-      "freshPct": 99.8
+      "deficit": 0,
+      "freshPct": 99.1
     }
   },
   "matrix": {
@@ -184,39 +184,39 @@
       }
     },
     "economy": {
-      "zh-TW": 51,
+      "zh-TW": 52,
       "en": {
-        "count": 51,
+        "count": 52,
         "fresh": 51,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 51,
+        "count": 52,
         "fresh": 51,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 51,
+        "count": 52,
         "fresh": 51,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 51,
+        "count": 52,
         "fresh": 51,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 51,
+        "count": 52,
         "fresh": 51,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -298,77 +298,77 @@
       }
     },
     "history": {
-      "zh-TW": 36,
+      "zh-TW": 37,
       "en": {
         "count": 36,
-        "fresh": 36,
-        "stale": 0,
+        "fresh": 34,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ja": {
         "count": 36,
-        "fresh": 36,
-        "stale": 0,
+        "fresh": 34,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "ko": {
         "count": 36,
-        "fresh": 36,
-        "stale": 0,
+        "fresh": 34,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "es": {
         "count": 36,
-        "fresh": 36,
-        "stale": 0,
+        "fresh": 34,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       },
       "fr": {
         "count": 36,
-        "fresh": 36,
-        "stale": 0,
+        "fresh": 34,
+        "stale": 2,
         "missing": 0,
-        "deficit": 0
+        "deficit": 1
       }
     },
     "lifestyle": {
       "zh-TW": 21,
       "en": {
         "count": 21,
-        "fresh": 21,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
         "count": 21,
-        "fresh": 21,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
         "count": 21,
-        "fresh": 21,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
         "count": 21,
-        "fresh": 21,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
         "count": 21,
-        "fresh": 21,
-        "stale": 0,
+        "fresh": 20,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -412,77 +412,77 @@
       }
     },
     "nature": {
-      "zh-TW": 34,
+      "zh-TW": 35,
       "en": {
-        "count": 34,
+        "count": 35,
         "fresh": 34,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 34,
+        "count": 35,
         "fresh": 34,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 34,
+        "count": 35,
         "fresh": 34,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 34,
+        "count": 35,
         "fresh": 34,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "fr": {
-        "count": 34,
+        "count": 35,
         "fresh": 34,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
     },
     "people": {
-      "zh-TW": 202,
+      "zh-TW": 203,
       "en": {
-        "count": 202,
+        "count": 203,
         "fresh": 202,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ja": {
-        "count": 202,
+        "count": 203,
         "fresh": 202,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "ko": {
-        "count": 202,
+        "count": 203,
         "fresh": 202,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       },
       "es": {
-        "count": 201,
-        "fresh": 201,
-        "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "count": 203,
+        "fresh": 202,
+        "stale": 1,
+        "missing": 0,
+        "deficit": 0
       },
       "fr": {
-        "count": 202,
+        "count": 203,
         "fresh": 202,
-        "stale": 0,
+        "stale": 1,
         "missing": 0,
         "deficit": 0
       }
@@ -518,11 +518,11 @@
         "deficit": 0
       },
       "fr": {
-        "count": 62,
-        "fresh": 62,
+        "count": 63,
+        "fresh": 63,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 0,
+        "deficit": 0
       }
     },
     "technology": {
@@ -566,7 +566,20 @@
   },
   "missing": {
     "en": [
+      "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md",
       "Technology/半導體產業.md"
+    ],
+    "ja": [
+      "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
+    ],
+    "ko": [
+      "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
+    ],
+    "es": [
+      "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
+    ],
+    "fr": [
+      "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ]
   },
   "statusSource": "translation-status.json",

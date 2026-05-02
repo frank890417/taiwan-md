@@ -3,15 +3,15 @@
     "About": 30,
     "Art": 155,
     "Culture": 284,
-    "Economy": 255,
+    "Economy": 260,
     "Food": 240,
     "Geography": 125,
-    "History": 186,
+    "History": 187,
     "Language": 3,
     "Lifestyle": 108,
     "Music": 153,
-    "Nature": 170,
-    "People": 1012,
+    "Nature": 175,
+    "People": 1017,
     "Society": 333,
     "Technology": 234,
     "resources": 10,
@@ -200,7 +200,7 @@
     },
     {
       "date": "2026-05-02",
-      "count": 14
+      "count": 19
     }
   ],
   "updated": "2026-05-02"

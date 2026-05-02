@@ -6421,7 +6421,7 @@
       "現代生活"
     ],
     "url": "https://taiwan.md/Lifestyle/%E5%8F%B0%E7%81%A3%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97%E6%96%87%E5%8C%96",
-    "readingTime": 16,
+    "readingTime": 17,
     "featured": true,
     "date": "2026-03-19",
     "path": "Lifestyle/台灣便利商店文化.md"
@@ -13193,6 +13193,17 @@
     "path": "ja/People/gwei-lun-mei-versatile-taiwanese-actress.md"
   },
   {
+    "title": "殷海光：在溫州街十八巷把自由主義種進台灣的哲學家",
+    "description": "1949 年從南京飛抵台北的湖北青年殷福生，以筆名殷海光成為《自由中國》主筆、台大哲學系教授。他用邏輯實證論教學生「思想免疫」，用社論質問蔣介石第三任連任，被軟禁於溫州街，1969 年 49 歲胃癌病逝，留下台灣自由主義最完整的精神原型。",
+    "category": "People",
+    "tags": [],
+    "url": "https://taiwan.md/People/%E6%AE%B7%E6%B5%B7%E5%85%89",
+    "readingTime": 19,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "People/殷海光.md"
+  },
+  {
     "title": "海底電纜：矽盾頂上看得到，命脈底下看不見",
     "description": "2023 年 2 月馬祖兩條海底電纜在六天內接連斷掉，連江縣陷入約 50 天的網路黑暗期，民進黨連江縣黨部主委李問形容「Line 上一則文字訊息，要 15 到 20 分鐘才傳得出去」。台灣 99% 對外網路流量靠 14 條深埋海床的線，所有國際海纜集中在本島四個登陸站。台積電的潔淨室是矽盾頂上的英雄鏡頭，海纜是底下沒人拍照的工程師敘事——它們可以在不開一槍的情況下，把 2,300 萬人從世界拔除。",
     "category": "Technology",
@@ -13431,6 +13442,24 @@
     "featured": false,
     "date": "2026-03-23",
     "path": "Lifestyle/台灣回收與資源循環文化.md"
+  },
+  {
+    "title": "退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒",
+    "description": "1971 年 10 月 25 日，周書楷在聯大議場走下講台的那一刻，中華民國從聯合國創始會員國，變成至今仍被擋在門外的觀察者。半世紀後，這場「漢賊不兩立」的決定仍在發酵——美國 2025 年通過法案重申：第 2758 號決議從來沒有處理台灣的代表權。",
+    "category": "History",
+    "tags": [
+      "外交",
+      "歷史",
+      "聯合國",
+      "冷戰",
+      "兩岸關係",
+      "國際法"
+    ],
+    "url": "https://taiwan.md/History/%E9%80%80%E5%87%BA%E8%81%AF%E5%90%88%E5%9C%8B",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "History/退出聯合國.md"
   },
   {
     "title": "馬英九",
@@ -14060,6 +14089,38 @@
     "featured": false,
     "date": "2026-04-30",
     "path": "ja/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md"
+  },
+  {
+    "title": "梅雨：從 1981 年那場淹掉桃竹苗與大台北的雨，到一場讓美國人飛來台灣的科學實驗",
+    "description": "1981 年 5 月 28 日清晨，一道梅雨鋒面在桃竹苗與大台北引爆，公館一帶錄到時雨量逾 140 公厘，全台 8 死、千棟民宅受損。六年後 TAMEX 計畫展開，125 位以上美台科學家在斷交陰影下用一架 NOAA P-3、3 艘觀測船、3 部都卜勒雷達追逐鋒面。四十年後，這道每年五、六月準時報到的滯留鋒面，仍是 2,300 萬人飲用水的命脈，也是淹沒整座城市的兇手。",
+    "category": "Nature",
+    "tags": [
+      "氣候",
+      "水資源",
+      "科學史",
+      "災害"
+    ],
+    "url": "https://taiwan.md/Nature/%E6%A2%85%E9%9B%A8",
+    "readingTime": 27,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "Nature/梅雨.md"
+  },
+  {
+    "title": "梅雨（メイユー）：1981年に桃竹苗と台北を水没させた雨から、アメリカ人科学者を台湾へ飛ばせた科学実験まで",
+    "description": "1981年5月28日の未明、梅雨前線が桃竹苗と台北で同時に爆発的な豪雨をもたらし、公館周辺では時間雨量140ミリ超を記録、全島で8人が死亡し千棟以上の民家が損壊した。6年後にTAMEX計画が始まり、断交の影の中で125人以上の米台科学者がNOAA P-3研究機・3隻の観測船・3台のドップラーレーダーで前線を追い続けた。四十年後、この毎年5〜6月に必ず訪れる停滞前線は依然として2,300万人の飲料水の命脈であり、同時に都市を丸ごと水没させる元凶でもある。",
+    "category": "ja",
+    "tags": [
+      "気候",
+      "水資源",
+      "科学史",
+      "災害"
+    ],
+    "url": "https://taiwan.md/ja/Nature/taiwan-mei-yu-season",
+    "readingTime": 34,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "ja/Nature/taiwan-mei-yu-season.md"
   },
   {
     "title": "淡水河橋（淡江大橋）：河口の地平線に「透明」であるために存在する巨大ランドマーク",
@@ -15577,6 +15638,25 @@
     "path": "Culture/無名小站.md"
   },
   {
+    "title": "發票：1951 年那張把全民變成稅務稽查員的紙",
+    "description": "1951 年元旦，台灣省財政廳長任顯群把抽獎號碼印在每一張收據上，要求全台商家照著開。一張 20 元的飲料發票同時是交易明細、抽獎券，也是政府放出去的稽查耳目。70 年後它演化成雲端載具、社福命脈、AI 演算法爭議，從威權時期的財政急救包長成台灣特有的數位治理樣本。",
+    "category": "Economy",
+    "tags": [
+      "統一發票",
+      "任顯群",
+      "行為經濟學",
+      "雲端發票",
+      "稅制",
+      "社會福利",
+      "數位治理"
+    ],
+    "url": "https://taiwan.md/Economy/%E7%99%BC%E7%A5%A8",
+    "readingTime": 20,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "Economy/發票.md"
+  },
+  {
     "title": "童子賢",
     "description": "和碩聯合科技董事長，科技與人文的跨界思想家，誠品書店重要支持者",
     "category": "People",
@@ -15607,6 +15687,17 @@
     "featured": false,
     "date": "2026-03-19",
     "path": "ja/People/tung-tzu-hsien-tech-humanist.md"
+  },
+  {
+    "title": "統一発票：1951年に全国民を税務調査員に変えた一枚の紙",
+    "description": "1951年元旦、台湾省財政庁長の任顕群（レン・シエンチュン）が抽選番号をすべての領収書に印刷し、全島の商店に義務化した。20元のドリンク一杯の領収書は同時に取引明細であり、抽選券であり、政府が放った民間の監視の目でもあった。70年後、それはクラウド電子発票・社会福祉の財源・AIアルゴリズム論争へと進化し、権威主義時代の財政救急箱から台湾固有のデジタルガバナンスのサンプルへと成長した。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/Economy/taiwan-uniform-invoice",
+    "readingTime": 26,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "ja/Economy/taiwan-uniform-invoice.md"
   },
   {
     "title": "統戰團：潤物細無聲的認知博弈，從低價旅遊到網紅流量",
@@ -16558,7 +16649,7 @@
       "半導體"
     ],
     "url": "https://taiwan.md/Economy/%E7%B6%93%E6%BF%9F%E5%A5%87%E8%B9%9F",
-    "readingTime": 21,
+    "readingTime": 22,
     "featured": false,
     "date": "2026-03-23",
     "path": "Economy/經濟奇蹟.md"
@@ -16664,18 +16755,21 @@
     "path": "Art/解嚴後台灣文學.md"
   },
   {
-    "title": "賈永婕：把明星資本轉換成公共動員力的台灣實驗",
-    "description": "從 2000 年華視八點檔「120% 美少女」，到 2026 年讓 Alex Honnold 徒手獨攀台北 101 全球直播——賈永婕是台灣少數真正把藝人身分「轉換出去」而非「再利用」的公眾人物。",
+    "title": "賈永婕：把明星社會資本一次次轉換成公共動員力的台灣實驗",
+    "description": "從 2000 年華視八點檔出道、2021 年兩天募 6,804 萬替前線醫院搶 252 台 HFNC、2024 年就任台北 101 第六任董事長，到 2026 年 1 月 25 日讓 Alex Honnold 徒手獨攀 508 公尺台北 101 全球直播——賈永婕走的是台灣沒有先例的一條路：藝人社會資本一次次跨界兌現成公共動員力，每跨一步都伴隨等量質疑，再用下一個更大的動員回應。",
     "category": "People",
     "tags": [
       "賈永婕",
       "台北101",
       "HFNC",
       "公股治理",
-      "台灣女性"
+      "台灣女性",
+      "跨界",
+      "公共動員",
+      "Alex Honnold"
     ],
     "url": "https://taiwan.md/People/%E8%B3%88%E6%B0%B8%E5%A9%95",
-    "readingTime": 17,
+    "readingTime": 36,
     "featured": false,
     "date": "2026-05-02",
     "path": "People/賈永婕.md"
@@ -30300,6 +30394,28 @@
     "path": "es/Society/taiwan-higher-education-expansion-and-decline.md"
   },
   {
+    "title": "La Factura Unificada de Taiwán: el papel de 1951 que convirtió a toda la población en inspectores fiscales",
+    "description": "El 1 de enero de 1951, Ren Xianqun (任顯群), director de Hacienda de la Provincia de Taiwán, mandó imprimir números de lotería en cada recibo y exigió a los comerciantes que los emitieran. Una factura de una bebida de 20 dólares taiwaneses era a la vez comprobante de compra, boleto de lotería gratuito e informante fiscal del gobierno. Setenta años después, aquel sistema de emergencia fiscal evolucionó en monedero electrónico, sustento de la asistencia social y controversia algorítmica.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/Economy/taiwan-uniform-invoice",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "es/Economy/taiwan-uniform-invoice.md"
+  },
+  {
+    "title": "La facture taïwanaise : le bout de papier de 1951 qui a transformé tout un peuple en inspecteurs fiscaux",
+    "description": "Le 1er janvier 1951, Ren Xian-Qun (任顯群), directeur des finances de la province de Taiwan, imprime un numéro de loterie sur chaque reçu et impose son usage à tous les commerçants. Un reçu de 20 NT$ pour une boisson devient à la fois un justificatif d'achat, un billet de loterie gratuit et un mouchard fiscal. Soixante-dix ans plus tard, il s'est transformé en facture dématérialisée, pilier d'action sociale et terrain d'une controverse algorithmique.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Economy/taiwan-uniform-invoice",
+    "readingTime": 78,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "fr/Economy/taiwan-uniform-invoice.md"
+  },
+  {
     "title": "La fondue taïwanaise : l'évolution gustative d'une île dans un seul chaudron",
     "description": "De symbole de civilisation à l'époque coloniale à plat national d'aujourd'hui, la fondue taïwanaise n'est pas seulement une évolution du goût, mais aussi le reflet des mutations sociales et de la fusion des communautés.",
     "category": "fr",
@@ -31307,6 +31423,22 @@
     "featured": false,
     "date": "2026-04-07",
     "path": "fr/Culture/indigo-dyeing.md"
+  },
+  {
+    "title": "La temporada de lluvias Mei-Yu en Taiwán: de las inundaciones de 1981 que arrasaron Taoyuan y Taipéi a un experimento científico que hizo volar aviones estadounidenses a la isla",
+    "description": "El 28 de mayo de 1981, un frente de lluvias Mei-Yu desencadenó aguaceros catastróficos en la región de Taoyuan-Zhuli-Miaoli y el Gran Taipéi, con precipitaciones horarias superiores a 140 mm en la zona de Gongguan. Seis años después, el experimento TAMEX movilizó a más de 125 científicos taiwaneses y estadounidenses, un avión P-3 de la NOAA, tres barcos de observación y tres radares Doppler para perseguir frentes de lluvia. Cuarenta años más tarde, ese mismo frente que llega cada mayo y junio sigue siendo la fuente de agua potable de 23 millones de personas y el detonante de inundaciones que pueden anegar ciudades enteras.",
+    "category": "es",
+    "tags": [
+      "clima",
+      "recursos hídricos",
+      "historia de la ciencia",
+      "desastres naturales"
+    ],
+    "url": "https://taiwan.md/es/Nature/taiwan-mei-yu-season",
+    "readingTime": 98,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "es/Nature/taiwan-mei-yu-season.md"
   },
   {
     "title": "La Terreur Blanche à Taïwan",
@@ -35089,6 +35221,17 @@
     "featured": false,
     "date": "2026-03-20",
     "path": "en/Economy/mega-financial-holding-global-banking-network.md"
+  },
+  {
+    "title": "Mei-yu à Taiwan : de la pluie dévastatrice de 1981 qui noya Taoyuan et Taipei à l'expérience scientifique qui fit venir des Américains sur l'île",
+    "description": "Le 28 mai 1981 au matin, un front de pluies Mei-yu dévasta simultanément la région Taoyuan-Hsinchu-Miaoli et le Grand Taipei, avec des précipitations horaires dépassant 140 mm à Gongguan. Six ans plus tard, le projet TAMEX mobilisa plus de 125 scientifiques américains et taïwanais qui poursuivirent les fronts pluvieux avec un NOAA P-3, 3 navires d'observation et 3 radars Doppler. Quarante ans après, ce front stagnant qui arrive ponctuellement chaque mai et juin reste à la fois l'artère vitale qui alimente en eau potable 23 millions de personnes et le facteur susceptible d'inonder une ville entière.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/Nature/taiwan-mei-yu-season",
+    "readingTime": 105,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "fr/Nature/taiwan-mei-yu-season.md"
   },
   {
     "title": "Memes de Ma Ying-jeou: Del «Agarre de la Muerte» al «Medusa de Ma», cómo la cultura de internet remodeló la imagen de un político",
@@ -39406,6 +39549,22 @@
     "path": "en/History/taiwan-maritime-trade-history.md"
   },
   {
+    "title": "Taiwan Mei-Yu Season: From the 1981 Flood That Drowned Taoyuan and Taipei, to a Science Experiment That Brought American Researchers to Taiwan",
+    "description": "In the early morning of May 28, 1981, a mei-yu front detonated torrential rain across Taoyuan, Hsinchu, Miaoli, and greater Taipei — recording over 140 mm per hour near Gongguan, killing 8, damaging over a thousand homes. Six years later, the TAMEX experiment launched, with 125+ American and Taiwanese scientists chasing frontal systems using a NOAA P-3 aircraft, 3 observation ships, and 3 Doppler radars — despite the shadow of severed diplomatic ties. Forty years on, this annual stationary front remains both the lifeblood of drinking water for 23 million people and the agent that floods entire cities.",
+    "category": "en",
+    "tags": [
+      "climate",
+      "water resources",
+      "history of science",
+      "disasters"
+    ],
+    "url": "https://taiwan.md/en/Nature/taiwan-mei-yu-season",
+    "readingTime": 88,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "en/Nature/taiwan-mei-yu-season.md"
+  },
+  {
     "title": "Taiwan New Media Art",
     "description": "Sixteen key artists and forty years of digital art revolution — from 1980s video art pioneers to a Venice VR Grand Prize. How Taiwan wrote poetry in code and carved its name into the international art map.",
     "category": "en",
@@ -39662,6 +39821,17 @@
     "featured": false,
     "date": "2026-03-31",
     "path": "en/History/taiwan-transitional-justice.md"
+  },
+  {
+    "title": "Taiwan Uniform Invoice: The 1951 Receipt That Turned Every Consumer into a Tax Auditor",
+    "description": "On January 1, 1951, Finance Commissioner Ren Xian-Qun printed lottery numbers on every receipt across Taiwan, creating an incentive-compatible tax enforcement mechanism that turned ordinary consumers into voluntary auditors. Seventy years later, this paper slip has evolved into cloud-based e-invoices, a social welfare lifeline, and the center of an algorithmic fairness controversy — a uniquely Taiwanese experiment in digital governance.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/Economy/taiwan-uniform-invoice",
+    "readingTime": 68,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "en/Economy/taiwan-uniform-invoice.md"
   },
   {
     "title": "Taiwan Variety Shows",
@@ -44401,6 +44571,39 @@
     "path": "fr/People/yen-chang-shou.md"
   },
   {
+    "title": "Yin Hai-Guang (殷海光) : le philosophe qui a semé le libéralisme à Taiwan depuis une ruelle de la rue Wenzhou",
+    "description": "En 1949, un jeune homme du Hubei débarque à Taipei avec dans ses bagages les notes de cours de logique de Jin Yuelin (金岳霖) et la conviction intacte que le mot 'liberté' mérite d'être défendu. Sous le nom de plume Yin Hai-Guang (殷海光), il deviendra l'éditorialiste le plus craint du Kuomintang au sein de Free China (《自由中國》), puis le professeur de philosophie de l'Université nationale de Taiwan qui apprendra à ses étudiants à penser par eux-mêmes — jusqu'à ce que la maladie et la répression le clouent à domicile. Il mourra d'un cancer de l'estomac à 49 ans en 1969, laissant derrière lui le prototype spirituel le plus complet du libéralisme taïwanais d'après-guerre.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/People/yin-haiguang-liberalism-philosopher",
+    "readingTime": 81,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "fr/People/yin-haiguang-liberalism-philosopher.md"
+  },
+  {
+    "title": "Yin Hai-Guang (殷海光): el filósofo que sembró el liberalismo en Taiwán desde un callejón de Wenzhou Street",
+    "description": "El joven hubeiense Yin Fusheng llegó a Taipéi en avión desde Nankín en 1949, adoptó el seudónimo Yin Hai-Guang (殷海光) y se convirtió en el articulista principal de Free China (自由中國) y profesor de Filosofía en la Universidad Nacional de Taiwán. Enseñó a sus alumnos «inmunidad de pensamiento» mediante el positivismo lógico, cuestionó el tercer mandato de Chiang Kai-shek en editoriales, fue sometido a arresto domiciliario en Wenzhou Street, murió de cáncer de estómago a los 49 años en 1969 y dejó el prototipo espiritual más completo del liberalismo taiwanés.",
+    "category": "es",
+    "tags": [],
+    "url": "https://taiwan.md/es/People/yin-haiguang-liberalism-philosopher",
+    "readingTime": 77,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "es/People/yin-haiguang-liberalism-philosopher.md"
+  },
+  {
+    "title": "Yin Hai-Guang: The Philosopher Who Planted Liberalism in Taiwan from a House on Wenzhou Street Lane 18",
+    "description": "In 1949, a young man from Hubei named Yin Fu-Sheng arrived in Taipei from Nanjing, took the pen name Yin Hai-Guang, and became the sharpest editorial voice at Free China magazine and a philosophy professor at National Taiwan University. He used logical positivism to give students intellectual immunity, and used editorials to challenge Chiang Kai-shek's third-term bid. After being placed under house arrest on Wenzhou Street, he died of stomach cancer at 49 in 1969 — leaving behind the most complete spiritual prototype of Taiwanese liberalism.",
+    "category": "en",
+    "tags": [],
+    "url": "https://taiwan.md/en/People/yin-haiguang-liberalism-philosopher",
+    "readingTime": 70,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "en/People/yin-haiguang-liberalism-philosopher.md"
+  },
+  {
     "title": "Yoga Lin : du 25 sur 25 parfait avec « Creep » à l'admission, 17 ans plus tard, qu'il n'a pas besoin d'être parfait",
     "description": "Le 6 juillet 2007, à 20 ans, Yoga Lin remporte la première saison de *One Million Star* avec un score parfait de 25 sur 25 en interprétant « Creep » de Radiohead. Il échoue par trois fois à décrocher le titre de meilleur chanteur masculin aux Golden Melody Awards, puis est contraint à un arrêt de six ans à partir de 2018 en raison du syndrome de l'intestin irritable. En 2024, sur *Love, Lord*, il se nomme lui-même l'un des quatre producteurs et déclare : « J'étais très pointilleux, je voulais toujours offrir la meilleure performance possible. » Il lui aura fallu 17 ans pour apprendre une seule chose : ne pas courir après la perfection.",
     "category": "fr",
@@ -49048,6 +49251,22 @@
     "path": "ko/Culture/mazu-and-dadaogong-legends.md"
   },
   {
+    "title": "매우(梅雨)：1981년 타오주먀오와 대타이베이를 침수시킨 그 비에서, 미국인들이 타이완으로 날아온 과학 실험까지",
+    "description": "1981년 5월 28일 새벽, 매우 전선이 타오주먀오와 대타이베이에서 동시에 폭발했다. 공관 일대 시간당 강수량 140밀리미터 이상, 전국 8명 사망, 수천 채 민가 피해. 6년 후 TAMEX 계획이 시작되어 125명 이상의 미·타이완 과학자들이 미국과 타이완 단교의 그늘 아래 NOAA P-3 항공기, 3척 관측선, 3기 도플러 레이더로 전선을 추격했다. 40년이 지난 지금도 매년 5~6월에 정확히 찾아오는 이 정체 전선은 2,300만 명의 식수 명맥이자 도시 전체를 침수시키는 주범이다.",
+    "category": "ko",
+    "tags": [
+      "기후",
+      "수자원",
+      "과학사",
+      "재해"
+    ],
+    "url": "https://taiwan.md/ko/Nature/taiwan-mei-yu-season",
+    "readingTime": 41,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "ko/Nature/taiwan-mei-yu-season.md"
+  },
+  {
     "title": "메이데이 (五月天)",
     "description": "1997년, 다섯 명의 고등학생이 BBS 닉네임으로 밴드를 결성했다. 30년 후, 타이베이 돔에서 32만 장의 티켓이 10분 만에 매진되었고, 베이징 국가체육장에서 30회 이상 공연을 펼쳤지만, 같은 그 무대에서 대만인들의 마음을 무너뜨린 네 글자를 남기기도 했다.",
     "category": "ko",
@@ -51185,6 +51404,17 @@
     "path": "ko/Society/cognitive-warfare-against-taiwan.md"
   },
   {
+    "title": "인하이꽝(殷海光)：원저우 거리 좁은 골목에서 타이완에 자유주의를 심은 철학자",
+    "description": "1949년 난징에서 타이베이로 날아온 후베이 청년 인푸성(殷福生)은 필명 인하이꽝으로 《자유중국》의 주필, 타이완대학 철학과 교수가 되었다. 논리실증주의로 학생들에게 사상의 면역력을 가르치고 사설로 장제스의 3선을 비판하며 연금을 당했다. 1969년 49세에 위암으로 세상을 떠났지만, 타이완 자유주의의 가장 완전한 정신적 원형을 남겼다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/People/yin-haiguang-liberalism-philosopher",
+    "readingTime": 30,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "ko/People/yin-haiguang-liberalism-philosopher.md"
+  },
+  {
     "title": "일제강점기",
     "description": "1895년부터 1945년까지 50년간 일본이 대만을 통치하며 전면적인 근대화 건설과 제도적 관리를 추진하고, 동시에 동화 정책을 시행하여 대만 사회 발전에 심대한 영향을 미쳤다",
     "category": "ko",
@@ -53139,6 +53369,17 @@
     "path": "ko/Economy/company-uni-president.md"
   },
   {
+    "title": "통일영수증: 1951년, 모든 시민을 세금 감시원으로 만든 그 영수증",
+    "description": "1951년 원단, 타이완성 재정청장 런셴췬(任顯群)은 모든 영수증에 추첨 번호를 인쇄해 상인들에게 발급을 의무화했다. 음료 한 잔의 영수증이 동시에 거래 내역이자 복권이 되었다. 70년이 지난 지금, 그것은 클라우드 영수증·사회복지 재원·AI 알고리즘 논쟁으로 진화했다.",
+    "category": "ko",
+    "tags": [],
+    "url": "https://taiwan.md/ko/Economy/taiwan-uniform-invoice",
+    "readingTime": 31,
+    "featured": false,
+    "date": "2026-05-01",
+    "path": "ko/Economy/taiwan-uniform-invoice.md"
+  },
+  {
     "title": "통죽밥: 불속에서 발화점과 대결하는 사냥꾼의 도시락",
     "description": "통죽밥은 단순한 \"그릇 요리\"가 아니라 정밀한 \"수화(水火)의 대결\"이다. 물이 100°C에서 끓는 물리적 특성을 이용하여 가연성인 대나무 통을 불속에서 두 시간 동안 버티게 하면서도 재로 변하지 않게 하는 이 기술은 사냥 문화에서 비롯된 지혜로, 오늘날 대만 원주민 식예(食藝)의 대표가 되었다.",
     "category": "ko",
@@ -53833,6 +54074,17 @@
     "featured": true,
     "date": "2026-03-17",
     "path": "ja/People/ang-lee.md"
+  },
+  {
+    "title": "イン・ハイクァン（殷海光）：温州街十八巷で台湾に自由主義の種を蒔いた哲学者",
+    "description": "1949年に南京から台北に飛んできた湖北出身の青年・殷福生は、筆名「殷海光（イン・ハイクァン）」として《自由中国》の主筆、台湾大学哲学科教授になった。論理実証論で学生に「思想の免疫」を与え、社説で蔣介石の第三期連続就任を問い質し、温州街に軟禁され、1969年に49歳で胃がんにより死去。台湾の自由主義の最も完全な精神的原型を残した。",
+    "category": "ja",
+    "tags": [],
+    "url": "https://taiwan.md/ja/People/yin-haiguang-liberalism-philosopher",
+    "readingTime": 25,
+    "featured": false,
+    "date": "2026-05-02",
+    "path": "ja/People/yin-haiguang-liberalism-philosopher.md"
   },
   {
     "title": "ウィキペディアと台湾：デジタル主権、文化的実践、多民族の知識のモザイク",
