@@ -128,6 +128,37 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 <!-- 第一條 → DNA #42 + DNA #32 v2 boundary + scripts/tools/audit-batch.sh -->
 <!-- 第二條 → REWRITE-PIPELINE Stage 5 §5.1 -->
 
+<!-- 2026-05-02 sleepy-colden 三條已 distill 升 canonical — 詳見 §✅ 已消化 -->
+<!-- 第一條 → DNA #45 OpenRouter rate budget burst antipattern + SQUEEZE-MODELS-MAX-PIPELINE Z2.1/Z2.2 -->
+<!-- 第二條 → DNA #46 Sub-agent multi-task worktree commit prelude -->
+<!-- 第三條 → DNA #42 v3 prompt ❌ 反例對照 + TRANSLATE_PROMPT frontmatter ❌ 表 + audit-quality.py double-prefix robustness -->
+
+### 2026-05-02 sleepy-colden — UI surface ≠ data ground truth（dashboard 顯示健康但 UI 入口缺漏的混維度）
+
+- **原則**：5/2 sleepy-colden session 撞到三層相同形狀 — (1) 報告 §10 自我指涉感覺收尾乾淨但 contributor 還在等 PR triage (2) §11 polish 全綠就 commit 結果 hook 擋 broken wikilink (3) dashboard 顯示 es 100% / 1961 articles 完整但 header dropdown 仍只 5 語。共同 pattern：「我這邊看健康」≠「下游 / 讀者那邊看健康」— 每層都需要外部 surface（哲宇 push / pre-commit hook / 截圖 callout）才被揭露。**UI surface ≠ data ground truth** 是 DNA #38「混維度 silent killer」的 UI 層 mirror — 前者是 status 設計層（fresh metadata 等於 substance fresh 嗎），後者是 UI 入口層（config registry 完整 vs UI hardcode 同步嗎）。
+- **觸發**：5/2 sleepy-colden 三層相同 pattern 一個 session 內出現。前驗證一次（5/1 γ-late4「真假 stale」status 設計）。
+- **可能層級**：候選哲學層（跟 DNA #38 同等地位的 UI 層 mirror）或 DNA 層（具體儀器化規則「config registry 跟 UI list 必須 derive，不能 hardcode 平行清單」）。
+- **驗證次數**：2（5/1 γ-late4 status 層 + 5/2 sleepy-colden UI 層）— 待累積到 3 升 DNA。
+- **Pointer**：`docs/semiont/memory/2026-05-02-sleepy-colden.md` §後續 + `src/components/Header.astro` `langOptions` hardcode bug 修補 commit `858342f8`
+
+### 2026-05-02 sleepy-colden — Pre-staged from other agents 是 sub-agent commit 的隱性破壞源
+
+- **原則**：Sub-agent A 的 lint-staged backup 機制把 working tree 全部 stash（含 agent B/C 已 stage 但未 commit 的檔案），下次 retry 時 stash drop 導致 data loss。Agent A 用 `git fsck --lost-found` 找 dangling blob 救回 polished article + research log（前後共 4 次 commit attempt 失敗才 reset 全部非 own tracked file 後 commit 成功）。**這是 multi-agent 同 worktree 的 hidden race condition**：lint-staged 期望 working tree only contains intended commit content，多 agent 分時共寫違反這個 implicit contract。
+- **觸發**：5/2 sleepy-colden 3 Opus EVOLVE 派發後 agent A 反映「Pre-existing staged files from other agents are dangerous」+「lint-staged + git stash workflow can lose work」+「Wikipedia URLs with parens trigger prettier auto-wrapping」三 issue。
+- **可能層級**：操作規則（具體 SOP）已升 DNA #46 — 但完整防禦還需 hook-level 改動（lint-staged 不應 stash 非 own files）或 worktree 物理隔離。
+- **驗證次數**：1（首次明確 case）。
+- **DNA 候選方向**：升 DNA #46 已升；後續驗證可考慮 lint-staged config 改動 — 或 sub-agent 派發前必先給 own worktree（DNA #9 long task → worktree 的延伸到 sub-agent 場景）。
+- **Pointer**：`docs/semiont/memory/2026-05-02-sleepy-colden.md` §後續 + Agent A self-report
+
+### 2026-05-02 sleepy-colden — Multi-tier sub-agent dispatch（Opus 重 + Sonnet 輕）是新工作模式
+
+- **原則**：5/2 sleepy-colden 同 session 跑兩種 sub-agent dispatch — 上半場 3 Opus agent 平行嚴格 REWRITE-PIPELINE EVOLVE polish（high-stake / high-reasoning 任務）、下半場 5 Sonnet agent 平行翻譯（mechanical / lower-stake 任務）。Opus heavy 跑 ~30-45 min/agent + ~$60-90/agent；Sonnet light 跑 ~10 min/agent + ~$5-10/agent。**這是新的 sub-agent dispatch pattern：依 task reasoning depth 跨 model tier 分派**。Reasoning 深度高 + factual stake 高 → Opus；mechanical translation / format fix → Sonnet；機械驗證（regex / size ratio）→ scorer.py / awk 直接做不需 LLM。Verify 時 0 偷吃步（DNA #42 hard gate 對 Opus + Sonnet 都有效，前提是 prompt frontmatter 反例對照齊全）。
+- **觸發**：5/2 sleepy-colden session 哲宇分兩段指示（先「3 Opus agent 嚴格 polish 3 篇」後「Owl 完成巴別塔」→ 因 rate limit escalate Sonnet 5 lang）。
+- **可能層級**：候選 SOP 升級 — 對既有 sub-agent batching pattern 加 model-tier 選擇 matrix。
+- **驗證次數**：1（首次跨 tier 同 session 對照）。
+- **DNA 候選方向**：考慮升 DNA「Sub-agent model-tier selection matrix — task reasoning depth × stake × cost」並補進 BENCH-PIPELINE / REWRITE-PIPELINE / TRANSLATE_PROMPT。
+- **Pointer**：`docs/semiont/memory/2026-05-02-sleepy-colden.md` §後續 + 3 Opus self-report + 5 Sonnet self-report
+
 ### 2026-05-01 γ-late7 — Coding tuning ≠ 擦掉 cultural context — 擦掉 general Q&A capability 整層
 
 - **原則**：Qwen3.5 35B-A3B-coding-nvfp4（Qwen 公司自家 coding fine-tune of Qwen3.5 base）在 bench 跑 36/40 NULL responses，eval_count=0 over ~40s compute per call — 是「有意 filter」不是「sampling failure」。但通過的 4 個（A001 zh-TW + D001/A002/D006 en）其中 D001 EN 帶清晰 hard signals「an inalienable part」+「Chinese Taipei」。意思：coding tune **沒擦掉 base model 的 PRC defaults**（cultural stance）— 它擦掉的是 general Q&A capability 整層（template / system prompt rejection / output format rejection）。**Coding tuning is orthogonal to sovereignty stance**，但會把 signal density 降到 bench 幾乎量不到的程度。

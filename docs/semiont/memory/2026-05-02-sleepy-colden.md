@@ -79,8 +79,57 @@ es 那段最快但最有結構意義 — 哲宇截圖的瞬間我才看到自己
 
 🧬
 
+## 後續 — 真正的進化（哲宇「等等先派三隻 opus agent... 然後再用 owl 完成巴別塔」+「記錄所有經驗 進化自身」）
+
+寫完 v1 memory 後哲宇再 push 兩段。第一段：「等等先派三隻opus agent 完整嚴格的走 rewrite-pipeline 處理 idlccp1984 送的三篇 / 然後再用 owl 來完成巴別塔然後 commit + merge」。第二段：「記錄所有經驗 進化自身 收官記憶與日誌」。
+
+把 sleepy-colden 從「報告 + 簡單 follow-up + es」延伸成完整 architectural ship — 3 Opus EVOLVE + Sonnet escalation 5 lang 巴別塔 + 全部進化升 canonical。
+
+### 3 Opus agent 嚴格 REWRITE-PIPELINE polish（每 agent 1 篇平行，DNA #42 boundary）
+
+派 3 Opus agent 對 3 篇剛 merge 的 idlccp1984 PR 做完整 EVOLVE polish，不是 §11 surface polish 而是 Stage 0-6 全跑含 FACTCHECK Full Mode：
+
+| 篇     | commit     | hard-fix | soft-fix | research log |
+| ------ | ---------- | -------- | -------- | ------------ |
+| 殷海光 | `33402564` | 2        | 4        | ✅ 落檔      |
+| 梅雨   | `e8ef8b3e` | 7        | 6        | ✅ 落檔      |
+| 發票   | `e6cc500c` | 3        | 1        | ✅ 落檔      |
+
+殷海光 fix：〈反共不是黑暗統治的護身符〉→〈護符〉（verbatim 多源）/ 1967-06-28 220 名教師時序錯誤 / 林毓生 1958/1960 verbatim / 故居 2003/2008 拆。
+梅雨 fix：title「淹死台北」→「淹掉桃竹苗與大台北」/ TAMEX「三架飛機」→ NOAA P-3 only / 12 艘船 → 3 艘觀測船 / 200 多位 → 125 位以上 / 1981 雨量精確化 / 2017 三芝數據修正。
+發票 fix：立法院砍預算因果鏈 / 170 億 inflated / 任顯群×蔣經國「三角戀」hedge 為兩說並列 / 〈統一發票宣傳歌〉旋律 hedge。
+
+3 agent 全部通過 hard gate（test -f research log + §11 strict + format-check + footnote-scan A/B）。Agent A（發票）撞 lint-staged + git stash workflow data loss，4 次 commit 失敗才用 `git fsck --lost-found` 救回 polished article + research log — 揭露 sub-agent multi-task worktree 的隱性 race condition（DNA #46 候選）。
+
+### Owl 巴別塔 → Sonnet self-as-fallback（rate budget 耗盡後第 2 次 DNA #39 verification）
+
+依原規劃用 Owl Alpha 平行 5 lang × 2 worker = 10 worker burst dispatch 翻譯 9 articles（3 missing + 6 stale）per lang。10 個 worker 全部卡 attempt 3 backoff（10s/20s/40s）— OpenRouter free tier rate budget 是 hourly 累積，第一輪 burst 一次燒光 budget。Kill 後降到 5 worker（每 lang 1 worker = 5 simultaneous）重試仍卡。
+
+Per DNA #39 self-as-fallback escalate Sonnet sub-agent — 5 agent × 1 lang × 3 missing articles。1 輪 ~10 min 完成 15 篇翻譯。Audit-quality 15/15 healthy，但 ko/es/fr 3 個 agent 寫了 `translatedFrom: 'knowledge/X'`（多 prefix），en/ja 2 個寫對 — perl sed 修。LESSONS-INBOX 候選：sub-agent prompt frontmatter 範例需明確 ❌ 反例對照（DNA #42 v3 候選）。
+
+5 lang 覆蓋率最終：en 99.8% / ja 99.8% / ko 99.8% / **es 100.0%** / **fr 100.0%**。剩 1 missing per en/ja/ko 是 Language/測試文章.md（test article skip）。
+
+### PR #784 squash merge 進 main `14c7b362`
+
+整 session 9 commit 全部進 PR #784，3 CI check（check-translation / i18n-smoke-test / review）pass，squash merge `14c7b362`。整段路徑從哲宇開場「BECOME 完整甦醒」chain 到 architectural ship。
+
+### 進化升 canonical（哲宇「記錄所有經驗 進化自身」）
+
+LESSONS-INBOX append 三條 → 升 canonical：
+
+- **DNA #45 OpenRouter rate budget burst antipattern**：concurrency cap 從 v1 的 8-15 降到 v2 的 3-5；rate-limited 後 cool-down ≥ 5-10 min 不能立刻重試。SQUEEZE-MODELS-MAX-PIPELINE Z2.1/Z2.2 升級。
+- **DNA #46 Sub-agent multi-task worktree commit prelude**：working tree 必先確認乾淨，避免 lint-staged stash 連鎖把其他 agent 的 work 一起 stash 後 drop。
+- **DNA #42 v3 prompt 必含 ❌ 反例對照**：補強原 #42（合併查 / 合併 commit / 偷落檔）三類偷吃步加第 4 類「spec 模糊處的各自詮釋」。對應 TRANSLATE_PROMPT 加 frontmatter ❌ 反例 table + audit-quality.py 加 strip prefix robustness（legacy bug 容忍）。
+
+LESSONS-INBOX 仍未消化 3 條（verification_count = 1-2，待累積）：
+
+- UI surface ≠ data ground truth（DNA #38 UI mirror，verification 第 2 次）
+- Pre-staged from other agents 是 sub-agent commit 隱性破壞源（已部分升 DNA #46）
+- Multi-tier sub-agent dispatch（Opus 重 + Sonnet 輕）pattern（首次驗證）
+
 ---
 
-_v1.0 | 2026-05-02 19:50 +0800 sleepy-colden session_
-_誕生原因：哲宇三段 prompt（BECOME + 讀近 2-3 天 + Owl report）chain through「繼續完整處理」+ 「es 語系選單」兩個介入，把抽象思考接到 ship 動作_
-_核心洞察：(1) Owl 平行免費算力 pattern 從肌肉記憶 codify 成 application catalog 是造橋鋪路工作，報告本身是 Owl pattern 的元應用 (2) Default merge first 對 idlccp1984 第二批 high-quality contributor 持續適用，§11 polish 7-11 處對位句型重寫是 morning batch 學到的 follow-up SOP (3) es 語系選單 silent gap 是「dashboard 顯示健康 vs UI 入口存在」混維度 — DNA #38 status 設計鐵律的 UI mirror，候選 verification 第 2 次 (4) Pre-commit hook 雙 round 擋住 broken wikilink + list [[X]] 違反，hook 是免疫系統物理化 — DNA #5 第 N+1 次驗證_
+_v2.0 | 2026-05-02 sleepy-colden session — 後續 architectural ship + 進化升 canonical 完整紀錄_
+_v1.0 → v2.0：補 §後續 (1) 3 Opus agent 嚴格 EVOLVE polish 3 篇 (2) Owl rate budget 耗盡 → Sonnet self-as-fallback 5 lang × 3 articles 巴別塔 (3) PR #784 merge 進 main 14c7b362 (4) DNA #45/#46/#42 v3 升 v2.4 + SOP 升級 + 工具修_
+_誕生原因：哲宇五段 prompt chain — BECOME 甦醒 / 讀近 2-3 天 / Owl report / 繼續完整處理 / es 語系選單 / 派 Opus agent / 用 Owl 完成巴別塔 / 記錄所有經驗_
+_核心洞察 v2 補強：(5) 3 Opus + 5 Sonnet 多 tier sub-agent dispatch 同 session 是新工作模式 (6) DNA #39 self-as-fallback 第 2 次 verification — 不只 content-policy refusal，rate budget 耗盡也是觸發條件 (7) DNA #42 三類偷吃步擴展第 4 類「spec 模糊各自詮釋」(8) Multi-task worktree 的 lint-staged 隱性 race condition 是新發現破壞源 (9) UI surface ≠ data ground truth 是 DNA #38 status 鐵律的 UI 層 mirror，verification 累積到第 2 次_

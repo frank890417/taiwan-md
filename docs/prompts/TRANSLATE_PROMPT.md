@@ -133,6 +133,24 @@ wc -m knowledge/Category/原文.md knowledge/{lang}/Category/translated.md
 - 保留 Markdown 格式（標題層級、粗體、表格等）
 - `author` 改為 `"Taiwan.md Translation Team"`
 
+#### Frontmatter `translatedFrom` 格式（DNA #42 v3 反例對照，2026-05-02 sleepy-colden 強化）
+
+translatedFrom 必須是 **相對於 `knowledge/` 的 zh source path，不含 `knowledge/` 前綴**：
+
+```yaml
+✅ translatedFrom: 'Economy/發票.md'              # 正確：含中文檔名 + 單引號 + .md
+✅ translatedFrom: 'People/殷海光.md'             # 正確
+✅ translatedFrom: 'Nature/梅雨.md'               # 正確
+
+❌ translatedFrom: 'knowledge/Economy/發票.md'    # 錯：多 'knowledge/' 前綴
+❌ translatedFrom: knowledge/Economy/發票.md      # 錯：缺 quotes + 多 prefix
+❌ translatedFrom: 'Economy/發票'                 # 錯：缺 .md 副檔名
+❌ translatedFrom: 'Economy/invoice.md'           # 錯：用英文 slug 而非中文檔名
+❌ translatedFrom: '../knowledge/Economy/發票.md' # 錯：相對路徑跳出
+```
+
+**為什麼**：sync-translations-json.py（SSOT 重建）+ audit-quality.py（健康度 audit）+ sourceCommitSha 計算都靠 `knowledge/` + translatedFrom 拼路徑。多 prefix → `knowledge/knowledge/...` → false flag。觸發：5/2 sleepy-colden session 5 個 sub-agent 翻譯，3/5 寫多 prefix（en/ja 寫對，ko/es/fr 寫錯）。
+
 ### Wikilink 處理規則
 
 中文原文可能包含 `[[竹科]]` 或 `[[公視|公視]]` 格式的 wikilink。翻譯時必須處理：
