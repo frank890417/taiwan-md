@@ -1,6 +1,6 @@
 ---
 title: 'Justice environnementale et conflits NIMBY à Taïwan'
-description: 'Une analyse de la répartition inégale des charges environnementales à Taïwan — des incinérateurs aux déchets nucléaires en passant par la pétrochimie — et des enjeux de justice sociale qui en découlent'
+description: "Examen du phénomène de répartition inégale des charges environnementales à Taïwan, des conflits de type « pas dans mon jardin » (NIMBY) liés aux incinérateurs, aux déchets nucléaires et à l'industrie pétrochimique, analyse des inégalités environnementales et des enjeux de justice sociale"
 date: 2026-03-20
 tags:
   [
@@ -12,224 +12,229 @@ tags:
     'déchets nucléaires',
     'industrie pétrochimique',
   ]
-subcategory: 'Mouvements sociaux'
-author: 'Taiwan.md Translation Team'
+subcategory: '社會運動'
+author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false
 category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:f432308c67b7af9d'
-translatedAt: '2026-04-14T12:32:24+08:00'
+sourceCommitSha: 'c67109e5'
+sourceContentHash: 'sha256:22f9e7120cb13c9d'
+translatedAt: '2026-05-02T13:31:21+08:00'
 ---
 
 # Justice environnementale et conflits NIMBY à Taïwan
 
-La justice environnementale (Environmental Justice) interroge l'équité dans la répartition des charges et des bénéfices environnementaux. À Taïwan, les problèmes générés par l'industrialisation se concentrent souvent sur certains territoires et certaines communautés, créant un phénomène d'« inégalité environnementale ». Des incinérateurs aux sites d'enfouissement des déchets nucléaires, en passant par les zones pétrochimiques, ces infrastructures nécessaires mais risquées suscitent invariablement des conflits NIMBY (Not In My Back Yard), révélant les contradictions profondes de la société taïwanaise dans la distribution des risques environnementaux.
+La justice environnementale s'intéresse à l'équité de la répartition des charges et des bénéfices environnementaux. À Taïwan, les problèmes environnementaux engendrés par le développement industriel se concentrent souvent dans des régions et des communautés spécifiques, créant un phénomène d'« inégalité environnementale ». Des incinérateurs d'ordures ménagères aux sites de stockage de déchets nucléaires en passant par les zones industrielles pétrochimiques, ces installations nécessaires mais risquées suscitent systématiquement des conflits de type NIMBY (_Not In My Back Yard_, « pas dans mon jardin »), reflétant les contradictions profondes de la société taïwanaise en matière de répartition des risques environnementaux.
 
-## Les fondements théoriques de la justice environnementale
+## Fondements théoriques de la justice environnementale
 
-### Une répartition des charges déséquilibrée
+### Répartition inégale des charges environnementales
 
-Le cœur de la justice environnementale réside dans l'« équité distributive ». En théorie, les bénéfices environnementaux (air pur, paysages préservés) et les charges environnementales (installations polluantes, risques sanitaires) devraient être distribués équitablement. En pratique, les charges se concentrent dans des zones précises, généralement habitées par des communautés économiquement défavorisées et politiquement peu influentes.
+Le concept central de la justice environnementale est l'« équité distributive ». Dans un scénario idéal, les bénéfices environnementaux (air pur, paysages préservés) et les charges environnementales (installations polluantes, risques sanitaires) devraient être répartis de manière uniforme. Dans la réalité, les charges environnementales se concentrent souvent dans des zones spécifiques, généralement des communautés économiquement vulnérables et politiquement marginalisées.
 
-La répartition des charges environnementales à Taïwan est nettement déséquilibrée. Le complexe pétrochimique de Liuqing (六輕) est implanté à Mailiao, dans le comté de Yunlin, une zone à dominante agricole et halieutique dont les habitants disposent de revenus modestes. La zone industrielle côtière de Kaohsiung se trouve dans le district de Xiaogang, densément peuplé mais politiquement peu influent. Ce schéma reflète le « principe du moindre résistance » : les installations polluantes tendent à s'installer là où l'opposition est la plus faible.
+La répartition des charges environnementales à Taïwan est manifestement inégale. Le complexe pétrochimique de Mailiao (六輕), dans le comté de Yunlin, est situé dans une région dont l'économie repose principalement sur l'agriculture et la pêche, avec des revenus faibles. La zone industrielle côtière de Linhai (臨海) à Kaohsiung est implantée dans le district de Siaogang, densément peuplé mais à influence politique limitée. Ce modèle de répartition reflète le « principe de moindre résistance » : les installations polluantes ont tendance à être implantées là où l'opposition est la plus faible.
 
-### La justice procédurale et le droit de participation
+### Justice procédurale et droit à la participation
 
-Au-delà de l'équité distributive, la justice environnementale insiste sur la « justice procédurale » : toutes les communautés concernées doivent pouvoir participer à égalité aux décisions environnementales. Or, le système d'évaluation de l'impact environnemental à Taïwan a longtemps privilégié l'expertise technique au détriment de la participation citoyenne.
+Outre l'équité distributive, la justice environnementale met également l'accent sur la « justice procédurale », c'est-à-dire la possibilité pour toutes les populations concernées de participer sur un pied d'égalité aux décisions environnementales. Or, le système taïwanais d'évaluation de l'impact environnemental a longtemps privilégié l'évaluation technique au détriment de la participation publique.
 
-Les habitants apprennent souvent l'implantation d'une installation une fois la décision arrêtée, sans possibilité de prendre part aux délibérations en amont. Même lorsque des audiences publiques sont organisées, elles restent souvent formelles, et l'avis des citoyens ne pèse guère sur les décisions finales. Ce modèle du « décider d'abord, consulter ensuite » est l'une des causes principales des conflits NIMBY.
+Les habitants découvrent souvent l'implantation d'une installation après que la décision a été prise, sans avoir eu la possibilité de participer en amont. Même lorsque des auditions publiques sont organisées, elles restent souvent formelles, et l'opinion des citoyens peine à influencer réellement les décisions. Ce modèle de « décider d'abord, communiquer ensuite » est une cause majeure des conflits NIMBY.
 
-### La justice intergénérationnelle et l'héritage des risques
+### Justice intergénérationnelle et prise de risque
 
-La justice environnementale soulève également la question de l'équité entre les générations. La période de demi-vie des déchets nucléaires atteint plusieurs dizaines de milliers d'années : les contemporains profitent de l'électricité nucléaire, mais les risques sont reportés sur les générations futures. De même, le développement industriel génère de la croissance économique, mais ses conséquences environnementales peuvent se prolonger pendant des décennies.
+La justice environnementale concerne aussi l'équité entre les générations. La demi-vie des déchets nucléaires peut atteindre des dizaines de milliers d'années : la génération actuelle bénéficie de l'énergie nucléaire, mais les risques sont transférés aux générations futures. De même, le développement industriel apporte une croissance économique, mais les coûts environnementaux peuvent se prolonger pendant des décennies.
 
-Les territoires traditionnels des peuples autochtones deviennent souvent des lieux de stockage de déchets — le site de déchets nucléaires de l'île d'Orchidée (Lanyu, habitée par les Tao/Dawu), les décharges dans les communes de montagne. Ces décisions ont été prises à une époque où les peuples autochtones étaient dépourvus de voix politique, mais leurs effets se prolongent jusqu'à aujourd'hui, constituant ce qu'on peut appeler un « colonialisme environnemental ».
+Les territoires traditionnels des peuples autochtones sont souvent devenus des sites de traitement des déchets, comme le stockage de déchets nucléaires à Lanyu (蘭嶼) ou les décharges en montagne. Ces décisions ont souvent été prises à une époque où les peuples autochtones disposaient de peu de poids politique, mais leurs effets perdurent jusqu'à aujourd'hui, constituant une forme d'« environnementalisme colonial ».
 
-## L'impasse NIMBY dans la gestion des déchets
+## Le dilemme NIMBY de la gestion des déchets
 
-### Les conflits autour de l'implantation des incinérateurs
+### Controverses sur la localisation des incinérateurs
 
-La construction des incinérateurs à Taïwan a été jalonnée de résistances NIMBY. Dans les années 1990, lorsque la politique « un incinérateur par ville ou comté » a été lancée, presque chaque projet a rencontré une opposition vigoureuse. Le cas de l'incinérateur d'Ankeng à Xindian a été particulièrement intense : les habitants ont constitué une association d'autodéfense et mené un mouvement d'opposition pendant une décennie.
+La construction d'incinérateurs d'ordures ménagères à Taïwan a été jalonnée de luttes NIMBY. Dans les années 1990, la politique « un incinérateur par comté » s'est heurtée à une opposition quasi systématique. La résistance la plus farouche a eu lieu à Ankeng (安坑), dans la ville de Xindian, où les habitants ont formé un comité d'autodéfense et mené un mouvement d'opposition pendant dix ans.
 
-Les griefs portaient sur les risques sanitaires, la dépréciation immobilière et la dégradation de la qualité de vie. Les émissions de dioxines constituaient la principale crainte ; bien que les incinérateurs modernes aient ramené ces émissions à un niveau extrêmement bas, la peur des « substances toxiques » reste difficile à dissiper. La réticence à accueillir ces installations dans son voisinage est compréhensible, mais les déchets doivent bien être traités quelque part.
+Les motifs d'opposition incluaient les risques sanitaires, la dépréciation immobilière et la dégradation de la qualité de vie. Les émissions de dioxines étaient la principale préoccupation : bien que les incinérateurs modernes aient réduit ces émissions à des niveaux extrêmement bas, la peur des « substances toxiques » reste difficile à dissiper. Le réflexe du « pas dans mon jardin » est compréhensible, mais les déchets doivent bien être traités quelque part.
 
-Les pouvoirs publics ont tenté de résoudre le problème par des compensations financières. Les communes d'accueil perçoivent une redevance de plusieurs dizaines de dollars par tonne de déchets traités, destinée au développement local. Mais l'argent ne suffit pas à dissiper les inquiétudes liées aux risques environnementaux, et l'équité de ces mécanismes de compensation est elle-même contestée.
+Le gouvernement a tenté de résoudre les conflits par des compensations financières. Les communes accueillant un incinérateur reçoivent une redevance par tonne de déchets traités, destinée au développement local. Cependant, l'argent ne suffit pas à dissiper totalement les craintes liées aux risques environnementaux, et l'équité du mécanisme de compensation est également remise en question.
 
-### La gestion transfrontalière des déchets
+### Traitement inter-municipal des déchets
 
-Taipei envoie ses déchets à New Taipei, New Taipei les envoie à Taoyuan : c'est le phénomène des « déchets voyageurs ». Si ces transferts interrégionaux résolvent les problèmes immédiats de chaque collectivité, ils génèrent de nouvelles injustices.
+Les déchets de Taipei sont traités dans le Nouveau Taipei, ceux du Nouveau Taipei à Taoyuan, créant un phénomène de « voyage des déchets ». Ce traitement interrégional résout l'urgence immédiate de chaque municipalité, mais engendre de nouvelles inégalités.
 
-Les décharges situées dans les zones rurales de montagne deviennent la destination finale des déchets urbains. Des communes comme Wulai, Sanxia ou Shiding, peu peuplées et politiquement marginales, se retrouvent régulièrement désignées comme sites d'enfouissement. Les habitants s'insurgent : « Pourquoi devons-nous subir les déchets produits par les citadins ? »
+Les décharges en montagne, dans des zones reculées, deviennent le dernier refuge des déchets urbains. Des communes montagneuses comme Wulai (烏來), Sanxia (三峽) et Shiding (石碇), faiblement peuplées et à influence politique limitée, sont régulièrement désignées comme sites potentiels de décharge. Les habitants protestent : « Pourquoi devrions-nous subir les déchets produits par les citadins ? »
 
-La répartition des coûts de traitement manque également d'équité. Les communes qui produisent les déchets s'acquittent des frais de traitement, mais la compensation reçue par celles qui supportent les risques environnementaux est souvent disproportionnée. Le principe du « pollueur-payeur » s'avère difficile à appliquer dans le cadre des transferts interdépartementaux.
+La répartition des coûts de traitement des déchets est elle aussi inéquitable. Les municipalités productrices de déchets paient les frais de traitement, mais les communes qui supportent les risques environnementaux reçoivent souvent une compensation disproportionnée. Le principe du « pollueur-payeur » est difficile à appliquer dans le cadre du traitement inter-municipal des déchets.
 
-### Les inégalités de classe dans le recyclage
+### Disparités sociales dans le recyclage
 
-Les politiques de réduction des déchets n'affectent pas de la même façon toutes les couches socio-économiques. Les ménages à revenus moyens ou élevés peuvent se permettre d'acheter des produits de meilleure qualité, souvent moins emballés, et génèrent proportionnellement moins de déchets. Les ménages à faibles revenus achètent davantage de produits bas de gamme, souvent suremballés, et produisent ainsi plus de déchets.
+Les politiques de réduction des déchets affectent différemment les différentes classes socio-économiques. Les ménages à revenus moyens ou élevés peuvent acheter des produits de meilleure qualité, moins emballés, et génèrent relativement moins de déchets. Les ménages à faibles revenus achètent souvent des produits bon marché, plus emballés, et produisent davantage de déchets.
 
-Le fardeau du recyclage pèse lui aussi de façon inégale. Les chiffonniers qui sillonnent les rues sont le plus souvent des personnes âgées économiquement précaires, qui exercent un travail dangereux et pénible pour des revenus dérisoires. Les ménages aisés jouissent d'un environnement propre, tandis que le coût humain du recyclage est supporté par les plus vulnérables.
+La charge du recyclage est également inégalement répartie. Les récupérateurs de rue sont souvent des personnes âgées en situation de précarité économique : elles exercent un travail dangereux et insalubre pour des revenus dérisoires. Les ménages aisés bénéficient d'un environnement propre, tandis que les populations les plus défavorisées assument le coût physique du recyclage.
 
-## Les tensions ethniques autour des déchets nucléaires
+## Controverses ethniques autour de la gestion des déchets nucléaires
 
-### L'affaire des déchets nucléaires de Lanyu (île d'Orchidée)
+### L'affaire des déchets nucléaires de Lanyu
 
-Le site de stockage de déchets nucléaires de Lanyu est un cas d'école de la justice environnementale à Taïwan. En 1982, Taipower a installé un dépôt de déchets radioactifs de faible activité sur l'île, sans informer suffisamment les habitants Tao (Dawu) des risques liés aux rayonnements. On leur avait présenté le projet comme une « conserverie de poissons » : les Tao ont accepté les déchets nucléaires sans en connaître la nature réelle.
+Le site de stockage de déchets faiblement radioactifs de Lanyu est un cas emblématique de la controverse sur la justice environnementale à Taïwan. En 1982, Taipower (台電) y a installé un centre de stockage sans informer adéquatement les résidents du peuple Tao (達悟族) des risques de rayonnement. Le site avait été présenté comme une « conserverie de poisson », et les Tao ont accepté la présence de déchets nucléaires sans en connaître la nature réelle.
 
-Cet épisode cumule plusieurs injustices : injustice ethnique (exploitation de la vulnérabilité des peuples autochtones), injustice intergénérationnelle (les déchets nucléaires resteront dangereux pendant des centaines d'années), injustice informationnelle (dissimulation des risques réels) et injustice procédurale (absence de consentement éclairé véritable).
+Cet épisode illustre de multiples injustices : injustice ethnique (exploitation de la vulnérabilité des peuples autochtones), injustice intergénérationnelle (les déchets nucléaires ont des répercussions sur plusieurs siècles), injustice informationnelle (dissimulation des risques réels) et injustice procédurale (absence de véritable consentement éclairé).
 
-La mobilisation du peuple Tao se poursuit depuis quarante ans. Ils réclament le retrait des déchets nucléaires et la restitution de la terre de leurs ancêtres. « Que les déchets nucléaires quittent Lanyu » n'est pas seulement une revendication écologique : c'est aussi une affirmation du droit à l'autodétermination des peuples autochtones. Bien que le gouvernement ait promis d'évacuer les déchets, l'identification d'un site de stockage définitif se heurte à de sérieux obstacles, et les déchets sont toujours sur l'île.
+La lutte des Tao dure depuis quarante ans. Ils exigent le retrait des déchets nucléaires et la restitution de la terre de leurs ancêtres. « Les déchets nucléaires hors de Lanyu » n'est pas seulement une revendication environnementale, mais aussi une affirmation du droit à l'autodétermination des peuples autochtones. Bien que le gouvernement ait promis de déplacer les déchets, le choix d'un site de stockage définitif s'est avéré difficile, et les déchets nucléaires demeurent à Lanyu.
 
-### L'impasse dans la sélection d'un site de stockage définitif
+### Le dilemme du choix du site de stockage définitif
 
-Les déchets hautement radioactifs nécessitent un enfouissement profond dans une formation géologique stable. Taipower a confié à China Engineering Consultants les investigations géologiques ; des sites comme Jinshan, Wanli et les îles Penghu ont été envisagés, mais tous ont suscité une opposition farouche.
+Les déchets hautement radioactifs nécessitent un stockage géologique profond dans des formations géologiques stables. Taipower a confié à Sinotech (中興工程) la réalisation d'études géologiques : les régions de Jinshan (金山), Wanli (萬里) et Penghu (澎湖) ont été envisagées comme sites candidats, mais toutes ont fait l'objet d'une opposition farouche.
 
-La peur des déchets nucléaires est compréhensible, mais la réalité incontournable demeure : quelqu'un doit en assumer la responsabilité. Des pays comme la Suède et la Finlande ont résolu le problème en associant des communautés volontaires, en proposant des compensations substantielles et en garantissant une transparence totale dans les décisions. Mais la faible confiance institutionnelle qui caractérise la société taïwanaise rend difficile la transposition de ce modèle.
+La peur des déchets nucléaires est compréhensible, mais la réalité — « quelqu'un doit bien en assumer la charge » — est incontournable. Des pays comme la Suède et la Finlande ont résolu le problème de la sélection des sites grâce à des communautés volontaires, des compensations généreuses et des processus décisionnels transparents, mais la confiance sociale à Taïwan est trop fragile pour reproduire ce modèle.
 
-Les critères de sélection des sites suscitent eux-mêmes des controverses. La sûreté technique est certes primordiale, mais l'acceptabilité sociale l'est tout autant. Se fonder exclusivement sur des critères géologiques en ignorant l'opinion locale conduit inévitablement au conflit. Trouver l'équilibre entre rationalité technique et rationalité sociale constitue l'un des défis majeurs des décideurs publics.
+Les critères de sélection des sites candidats soulèvent eux aussi des controverses. La sécurité technique est certes essentielle, mais l'acceptabilité sociale ne peut être ignorée. Choisir un site uniquement sur la base de critères géologiques, sans tenir compte de l'opinion locale, conduit inévitablement à des contestations. Trouver un équilibre entre rationalité technique et rationalité sociale constitue un défi pour l'élaboration des politiques.
 
-### La répartition équitable du coût du démantèlement nucléaire
+### La charge équitable du démantèlement nucléaire
 
-Les trois centrales nucléaires de Taïwan sont en cours de démantèlement, générant d'importants volumes de déchets faiblement radioactifs. L'évacuation de ces déchets soulève elle aussi des questions de justice environnementale. Les centrales sont principalement situées dans le nord du pays et alimentent essentiellement les zones urbaines du Grand Taipei, mais les sites de stockage des déchets pourraient être implantés dans d'autres comtés.
+Les trois centrales nucléaires de Taïwan sont progressivement démantelées, générant un volume important de déchets faiblement radioactifs. La gestion de ces déchets soulève également des questions de justice environnementale. Les centrales sont principalement situées dans le nord de l'île, l'électricité alimentant surtout les zones urbaines de Taipei et du Nouveau Taipei, mais les sites de stockage des déchets pourraient être implantés dans d'autres comtés.
 
-Le coût du démantèlement est mutualisé à l'échelle nationale, mais les risques environnementaux sont concentrés dans des zones spécifiques. Ce modèle — socialisation des coûts, localisation des risques — illustre l'injustice environnementale inhérente à la politique nucléaire. Il faudra des innovations institutionnelles pour contraindre les bénéficiaires à assumer leurs responsabilités.
+Les coûts de démantèlement sont supportés par l'ensemble de la population, tandis que les risques environnementaux se concentrent dans des régions spécifiques. Ce modèle de socialisation des coûts et de localisation des risques illustre l'injustice environnementale de la politique nucléaire. Faire en sorte que les bénéficiaires assument les responsabilités correspondantes nécessite une innovation dans la conception des institutions.
 
-## Le fardeau environnemental de l'industrie pétrochimique
+## Les charges environnementales de l'industrie pétrochimique
 
-### Les risques sanitaires du complexe de Liuqing
+### Risques sanitaires du complexe de Mailiao
 
-Le complexe pétrochimique de Mailiao dans le comté de Yunlin est le plus grand pôle pétrochimique de Taïwan, avec une valeur de production annuelle dépassant les 2 000 milliards de nouveaux dollars taïwanais. Mais cette implantation s'accompagne de charges environnementales considérables : pollution atmosphérique, contamination des eaux, dégradation des sols et risques sanitaires graves.
+Le complexe pétrochimique de Mailiao (六輕), dans le comté de Yunlin, est la plus grande base pétrochimique de Taïwan, avec une production annuelle dépassant 2 milliards de dollars taïwanais. Mais il engendre aussi de lourdes charges environnementales : pollution de l'air, pollution de l'eau, pollution des sols et risques sanitaires.
 
-Des recherches menées par l'École de santé publique de l'Université nationale de Taïwan ont révélé que le taux de cancers parmi les habitants des environs de Liuqing est significativement plus élevé. Le taux d'incidence du cancer du poumon et du cancer du foie dépasse de 20 à 30 % la moyenne nationale. Les taux d'asthme et d'allergies chez les enfants sont également nettement plus élevés. Ces risques sanitaires sont supportés principalement par les habitants locaux, tandis que les bénéfices économiques reviennent essentiellement aux entreprises et à leurs actionnaires.
+Des chercheurs de l'École de santé publique de l'Université nationale de Taïwan (NTU) ont constaté que l'incidence des cancers chez les résidents à proximité de Mailiao est significativement plus élevée. Les taux de cancer du poumon et du foie dépassent de 20 à 30 % la moyenne nationale. L'incidence de l'asthme et des allergies chez les enfants est également nettement plus élevée. Ces risques sanitaires sont principalement supportés par les résidents locaux, tandis que les bénéfices économiques reviennent essentiellement aux entreprises et à leurs actionnaires.
 
-La pollution atmosphérique de Liuqing affecte une vaste zone. Les particules PM2,5, le dioxyde de soufre et les oxydes d'azote se propagent avec les vents, touchant les comtés voisins de Changhua et Nantou. Les données de surveillance de la qualité de l'air de l'Agence pour la protection de l'environnement (EPA) montrent que les niveaux de pollution dans la région de Yunlin dépassent régulièrement les normes en vigueur.
+La pollution atmosphérique de Mailiao a un impact étendu. Les polluants tels que les PM2.5, le dioxyde de soufre et les oxydes d'azote se dispersent avec le vent, affectant les comtés voisins de Changhua (彰化) et Nantou (南投). Les stations de surveillance de la qualité de l'air de l'Agence de protection de l'environnement montrent que les concentrations de pollution dans la région de Yunlin dépassent régulièrement les normes.
 
-### La controverse du relogement de Dalimpupu
+### La controverse du relogement de Dalinpu (大林蒲)
 
-Le quartier de Dalimpupu à Kaohsiung est encerclé par des zones industrielles pétrochimiques, exposant les habitants à une pollution atmosphérique chronique. Le gouvernement a lancé un programme de relogement, mais sa mise en œuvre progresse lentement, suscitant la frustration des résidents.
+Le quartier de Dalinpu à Kaohsiung est encerclé par des zones industrielles pétrochimiques, et ses habitants sont exposés de longue date à la pollution atmosphérique. Le gouvernement a lancé un plan de relogement, mais sa lenteur a suscité le mécontentement des résidents.
 
-Les modalités de l'indemnisation sont au cœur du débat. Le gouvernement rachète les logements au prix du marché, mais les habitants jugent la compensation insuffisante pour acquérir un logement équivalent ailleurs. Les personnes âgées sont attachées à leur terre natale ; les jeunes s'inquiètent pour leur emploi. Le relogement implique la reconstruction d'un tissu communautaire tout entier — ce n'est pas une simple transaction immobilière.
+Les critères d'indemnisation sont au cœur du litige. Le gouvernement rachète les logements au prix du marché, mais les résidents estiment que cette compensation ne leur permet pas d'acquérir un logement équivalent ailleurs. Les personnes âgées sont attachées à leur terre natale, les jeunes s'inquiètent pour leur emploi. Le relogement implique la reconstruction d'une communauté entière, pas seulement une transaction immobilière.
 
-Les conditions de vie pendant la période de transition posent également problème. La scolarisation des enfants, l'accès aux soins pour les personnes âgées, les trajets domicile-travail : tout doit être réorganisé. Le plan de relogement du gouvernement manque de précision, et les résidents ne savent pas à quoi s'attendre pour leur avenir.
+L'organisation de la vie pendant la période de transition pose également problème. La scolarisation des enfants, l'accès aux soins pour les personnes âgées et les trajets domicile-travail doivent être réorganisés. Le plan de relogement gouvernemental manque de détails, laissant les résidents dans l'incertitude quant à leur avenir.
 
-### La transparence du suivi environnemental
+### Transparence de la surveillance environnementale
 
-La surveillance environnementale de l'industrie pétrochimique est souvent confiée aux entreprises elles-mêmes, ce qui compromet la crédibilité des données produites. Les citoyens réclament que l'État mette en place des stations de surveillance indépendantes, mais le seuil de technicité nécessaire pour interpréter ces données reste hors de portée de la plupart des habitants.
+La surveillance environnementale de l'industrie pétrochimique est souvent réalisée par les entreprises elles-mêmes, ce qui soulève des doutes sur la fiabilité des résultats. Les citoyens demandent au gouvernement de mettre en place des stations de surveillance indépendantes, mais l'interprétation des données requiert une expertise technique qui dépasse la portée du grand public.
 
-Les mécanismes de suivi post-évaluation de l'impact environnemental sont insuffisants. Les engagements pris dans le cadre des études d'impact sont difficiles à vérifier a posteriori, et les sanctions en cas de violation manquent d'effet dissuasif. Le manque de confiance dans la capacité des autorités à exercer leur mission de surveillance exacerbe la défiance à l'égard des installations industrielles.
+Les mécanismes de suivi et de contrôle des évaluations d'impact environnemental sont insuffisants. De nombreux engagements pris dans le cadre des évaluations environnementales des zones industrielles sont difficiles à vérifier a posteriori, et les sanctions en cas d'infraction sont trop légères. Le manque de confiance du public envers la capacité de régulation de l'approfondit la méfiance vis-à-vis des installations industrielles.
 
-Les mouvements de surveillance citoyenne se développent en réponse. Des organisations comme la Fédération pour la protection de l'environnement de Changhua ou l'Alliance pour la protection de l'environnement de Yunlin achètent leurs propres équipements de mesure et conduisent une surveillance autonome de la qualité de l'air. Cette science citoyenne comble partiellement les lacunes du suivi officiel, mais elle révèle aussi les défaillances de la régulation publique.
+Des mouvements de surveillance citoyenne ont émergé. Des organisations comme l'Alliance environnementale de Changhua (彰化環保聯盟) et l'Alliance environnementale de Yunlin (雲林環保聯盟) ont acheté leurs propres équipements de surveillance de la qualité de l'air. Cette science citoyenne pallie les insuffisances de la surveillance officielle, mais reflète aussi les lacunes de la régulation gouvernementale.
 
-## La distribution sociale des risques environnementaux
+## La répartition sociale des risques environnementaux
 
 ### Classe sociale et exposition environnementale
 
-À Taïwan, les risques environnementaux sont clairement corrélés à la position sociale. Les logements à proximité des zones industrielles sont surtout occupés par des familles à revenus modestes, attirées par des loyers et des prix d'achat plus bas. Les ménages aisés s'installent dans des quartiers préservés — résidences en flanc de colline, villas avec vue sur la mer.
+À Taïwan, les risques environnementaux sont clairement corrélés à la classe sociale. Les logements à proximité des zones industrielles sont principalement occupés par des ménages à faibles revenus, en raison des prix immobiliers et des loyers plus bas. Les ménages aisés résident dans des zones de meilleure qualité environnementale, comme les résidences en hauteur ou les villas en bord de mer.
 
-Les expositions professionnelles obéissent à la même logique de classe. Les ouvriers d'usine, les travailleurs du bâtiment et le personnel de voirie sont exposés à des niveaux de risque environnemental plus élevés. Les cols blancs travaillant dans des bureaux climatisés sont comparativement beaucoup moins exposés.
+L'exposition environnementale liée à l'activité professionnelle présente également des disparités de classe. Les ouvriers d'usine, les travailleurs du bâtiment et les agents d'entretien — des travailleurs manuels — sont exposés à des risques environnementaux plus élevés. Les employés de bureau travaillent dans des locaux climatisés, avec une exposition environnementale relativement plus faible.
 
-Le niveau d'éducation influence la perception des risques environnementaux. Les personnes ayant un niveau d'instruction élevé sont généralement mieux à même de comprendre ces risques et d'adopter des mesures de protection. Les personnes moins éduquées peuvent sous-estimer les dangers ou, pour des raisons économiques, ne pas avoir la possibilité de quitter des zones à risque.
+Le niveau d'éducation influence la perception des risques environnementaux. Les citoyens les plus instruits comprennent mieux les risques et sont plus à même de prendre des mesures de protection. Les personnes moins éduquées peuvent sous-estimer les risques ou, pour des raisons économiques, être dans l'impossibilité de quitter les zones à haut risque.
 
-### Les disparités environnementales entre ville et campagne
+### Fractures environnementales entre villes et campagnes
 
-Les zones urbaines bénéficient d'une meilleure qualité environnementale et de services publics plus développés — transports en commun performants, espaces verts, accès aux soins. À l'inverse, les zones rurales supportent souvent les charges environnementales produites par les villes : décharges, stations d'épuration, centrales thermiques sont généralement implantées en milieu rural.
+Les zones urbaines bénéficient d'une meilleure qualité environnementale et de meilleurs services publics : transports en commun développés, espaces verts plus nombreux, ressources médicales suffisantes. Les zones rurales supportent souvent les charges environnementales générées par les villes : décharges, stations d'épuration et centrales thermiques sont fréquemment implantées en milieu rural.
 
-Les réseaux de surveillance environnementale sont plus épars dans les campagnes, ce qui rend les incidents de pollution plus difficiles à détecter rapidement. L'insuffisance des ressources médicales complique la gestion des risques sanitaires environnementaux. Des agriculteurs peuvent continuer à cultiver des terres contaminées par nécessité économique.
+Le réseau de surveillance environnementale en milieu rural est plus clairsemé, ce qui rend les épisodes de pollution plus difficiles à détecter rapidement. Les ressources médicales sont insuffisantes pour traiter les risques sanitaires environnementaux en temps réel. Les agriculteurs, pour des raisons économiques, peuvent continuer à cultiver des terres polluées.
 
-La problématique de la justice environnementale dans les processus d'urbanisation mérite également attention. La rénovation urbaine déplace souvent les résidents à faibles revenus vers des zones de moins bonne qualité environnementale. La dépollution des friches industrielles est généralement financée par les collectivités, mais la valorisation des terrains qui s'ensuit profite au secteur privé.
+Les enjeux de justice environnementale liés à l'urbanisation méritent également attention. La rénovation urbaine déplace souvent les résidents à faibles revenus vers des zones de moindre qualité environnementale. La décontamination des sols des friches industrielles est généralement financée par les pouvoirs publics, tandis que la plus-value foncière profite aux acteurs privés.
 
-### Appartenance ethnique et justice environnementale
+### Ethnicité et justice environnementale
 
-Les territoires des peuples autochtones sont souvent désignés comme sites d'accueil d'installations à risque environnemental. Les décharges dans les communes de montagne, les sites de stockage de déchets nucléaires, les grands barrages hydrauliques — tous ont un impact sur les territoires traditionnels des peuples autochtones.
+Les territoires des peuples autochtones sont souvent désignés comme sites potentiels pour des installations à risque environnemental : décharges en montagne, sites de stockage de déchets nucléaires, grands barrages — autant d'infrastructures qui portent atteinte aux territoires traditionnels des peuples autochtones.
 
-La répartition de l'accès à l'eau est elle aussi marquée par des inégalités ethniques. Les communautés autochtones de montagne sont souvent privées d'eau potable sûre, alors que les zones urbaines en aval n'en manquent pas. Le déséquilibre entre bénéficiaires et porteurs de coûts en matière de ressources hydriques est frappant.
+La répartition des ressources en eau présente également des disparités ethniques. Les communautés autochtones en montagne manquent souvent d'eau potable sûre, tandis que les zones urbaines en aval ne connaissent aucune pénurie. Les bénéfices et les coûts liés à l'eau sont répartis de manière disproportionnée.
 
-Les savoirs et les systèmes de gestion environnementale traditionnels des peuples autochtones sont longtemps restés ignorés des politiques publiques. Les pratiques ancestrales de gestion des ressources naturelles peuvent pourtant s'avérer plus durables que la gestion scientifique moderne — mais elles peinent encore à obtenir une reconnaissance institutionnelle.
+Les savoirs environnementaux et les systèmes de gestion des peuples autochtones ont été longtemps ignorés. Les méthodes traditionnelles de gestion des ressources naturelles peuvent être plus durables que la gestion scientifique moderne, mais elles ne bénéficient que de peu d'attention politique.
 
 ## Stratégies et réformes institutionnelles
 
-### Réformer le système d'évaluation de l'impact environnemental
+### Réforme du système d'évaluation de l'impact environnemental
 
-Le système actuel d'évaluation d'impact environnemental accorde une place prépondérante aux aspects techniques au détriment des dimensions sociales. Il faudrait rééquilibrer en intégrant davantage l'évaluation d'impact social, incluant les risques sanitaires, les perturbations sociales et les impacts culturels. La procédure d'évaluation devrait offrir davantage d'opportunités de participation citoyenne.
+Le système actuel d'évaluation d'impact environnemental privilégie la technique au détriment du social : il convient d'accorder davantage de poids à l'évaluation de l'impact social. Le champ de l'évaluation devrait inclure les risques sanitaires, les répercussions sociales et les impacts culturels. Le processus d'évaluation devrait offrir davantage de possibilités de participation publique.
 
-La composition des commissions d'évaluation environnementale doit être diversifiée. Aux experts techniques, il faudrait associer des chercheurs en sciences sociales, des représentants locaux et des représentants d'ONG. Le processus décisionnel doit gagner en transparence, et les avis citoyens doivent faire l'objet d'un traitement explicite.
+La composition des comités d'évaluation environnementale devrait être diversifiée. Outre les experts techniques, des spécialistes en sciences sociales, des représentants locaux et des représentants d'ONG devraient y siéger. Le processus décisionnel devrait être plus transparent, et les avis du public devraient faire l'objet de procédures de traitement claires.
 
-Les mécanismes de suivi post-évaluation doivent être renforcés. Il faudrait créer des organismes de contrôle indépendants chargés de vérifier régulièrement le respect des engagements pris lors des évaluations. Les sanctions en cas de non-conformité doivent avoir un réel effet dissuasif, au-delà de simples amendes symboliques.
+Les mécanismes de suivi et de contrôle des évaluations environnementales doivent être renforcés. La mise en place d'organismes de surveillance tiers indépendants permettrait de vérifier régulièrement le respect des engagements pris lors des évaluations. Les sanctions en cas d'infraction devraient avoir un effet dissuasif et ne pas se limiter à des amendes symboliques.
 
-### Des mécanismes de communication sur les risques
+### Mécanismes de communication des risques
 
-Il est nécessaire d'établir des dispositifs efficaces de communication sur les risques, permettant aux citoyens de comprendre les enjeux et de participer aux décisions. L'information sur les risques doit être présentée de manière accessible, sans recours à des boîtes noires techniques.
+Il est nécessaire d'établir des mécanismes efficaces de communication des risques, permettant aux citoyens de comprendre et de participer aux décisions relatives aux risques. Les informations sur les risques doivent être présentées de manière accessible, en évitant l'opacité technique.
 
-Des plateformes permanentes de dialogue doivent être créées, et pas seulement lors de la construction de nouvelles installations. Des réunions communautaires régulières permettraient de recueillir les préoccupations des habitants et d'y apporter des réponses. Construire la confiance est un processus de longue haleine.
+La création de plateformes de communication permanentes, et non limitées à la phase de construction des installations, est essentielle. Des réunions communautaires régulières permettraient de recueillir l'opinion des habitants et de répondre à leurs préoccupations. La construction de la confiance exige un effort de long terme.
 
-Les médias jouent un rôle crucial dans la communication sur les risques. Les journalistes spécialisés en environnement ont besoin d'une meilleure formation pour rendre compte avec précision des risques environnementaux. Il s'agit d'éviter à la fois le sensationnalisme et l'occultation des préoccupations légitimes des citoyens.
+Les médias jouent un rôle important dans la communication des risques. Les journalistes scientifiques ont besoin d'une meilleure formation professionnelle pour rendre compte avec exactitude des risques environnementaux. Il convient d'éviter les reportages sensationnalistes tout en ne négligeant pas les préoccupations légitimes du public.
 
-### Des mécanismes de compensation et de rétribution
+### Mécanismes de compensation et de rétrocession
 
-Il faut concevoir des mécanismes de compensation équitables, qui ne se limitent pas aux indemnités financières mais prennent en compte les besoins de développement des communautés. L'utilisation des fonds de compensation doit être transparente et orientée vers l'amélioration concrète de la qualité de vie locale.
+Il est nécessaire de concevoir des mécanismes de compensation équitables, qui ne se limitent pas à une indemnisation financière mais prennent également en compte les besoins de développement communautaire. L'utilisation des fonds de rétrocession devrait être transparente et effectivement consacrée à l'amélioration de la qualité de vie locale.
 
-Un système de fonds santé pourrait être mis en place pour assurer le suivi médical et la couverture des frais de santé des habitants vivant à proximité d'installations à risque environnemental. Bilans de santé réguliers, prise en charge médicale, financement de la recherche sur les risques sanitaires — tout cela pourrait relever de ce fonds.
+La création d'un fonds de santé permettrait d'offrir aux résidents des zones à risque environnemental un suivi sanitaire et une couverture médicale. Des examens médicaux réguliers, des subventions pour les frais de santé et des recherches sur les risques sanitaires pourraient être financés par ce fonds.
 
-La création d'un « Fonds pour la justice environnementale » permettrait d'aider les communautés les plus exposées à améliorer leur cadre de vie. Ce fonds pourrait être alimenté par des taxes sur la pollution, des écotaxes, des taxes carbone et d'autres recettes environnementales.
+La mise en place d'un « fonds de justice environnementale » pourrait aider les communautés environnementalement vulnérables à améliorer leur qualité de vie. Les sources de financement pourraient inclure les redevances de pollution, les taxes environnementales, la taxe carbone et autres recettes liées à l'environnement.
 
-### Des institutions de participation citoyenne
+### Institutions de participation citoyenne
 
-Il faut consolider les bases juridiques de la participation citoyenne aux décisions environnementales. Les droits à l'information, à la participation et au contrôle en matière d'environnement doivent être clairement établis. Les informations détenues par les pouvoirs publics doivent être proactivement rendues accessibles, et les avis citoyens doivent faire l'objet d'un traitement formalisé.
+Il convient de renforcer les fondements juridiques de la participation citoyenne aux décisions environnementales. Le droit du public à l'information environnementale, à la participation et au contrôle devrait être consacré. Les informations gouvernementales devraient être activement rendues publiques, et les avis des citoyens devraient faire l'objet de procédures de traitement claires.
 
-Il est également nécessaire de renforcer les capacités des communautés vulnérables à participer aux décisions environnementales, en leur apportant une assistance juridique, un soutien technique et une aide à l'organisation, afin qu'elles puissent peser réellement dans les processus décisionnels.
+Il est nécessaire de renforcer les capacités de participation des communautés environnementalement vulnérables. La fourniture d'une assistance juridique, d'un soutien technique et d'une formation organisationnelle permettrait à ces communautés de participer efficacement aux décisions environnementales.
 
-La budgétisation participative appliquée à la politique environnementale permettrait aux citoyens de s'impliquer directement dans l'allocation des ressources budgétaires consacrées à l'environnement, renforçant la légitimité démocratique des politiques.
+La promotion du budget participatif dans le domaine de l'environnement permettrait aux citoyens de participer directement aux décisions d'allocation du budget environnemental, renforçant ainsi la légitimité démocratique des politiques.
 
 ## Expériences internationales et enseignements
 
 ### Le mouvement pour la justice environnementale aux États-Unis
 
-Le mouvement pour la justice environnementale est né aux États-Unis dans les années 1980, autour de la concentration des déchets toxiques dans les quartiers afro-américains. Après trente ans de développement, la justice environnementale est désormais intégrée aux politiques fédérales.
+Le mouvement pour la justice environnementale aux États-Unis a émergé dans les années 1980, attirant l'attention sur la concentration des installations de traitement de déchets toxiques dans les communautés afro-américaines. Après trente ans de développement, la justice environnementale a été intégrée dans les politiques fédérales.
 
-L'Agence fédérale de protection de l'environnement (EPA) a créé un Bureau de la justice environnementale, chargé de veiller à ce que toutes les politiques tiennent compte de cette dimension. Les administrations fédérales doivent évaluer l'impact de leurs politiques sur les communautés vulnérables.
+L'Agence américaine de protection de l'environnement (EPA) a créé un bureau de la justice environnementale, veillant à ce que toutes les politiques prennent en compte la dimension de justice environnementale. Les agences fédérales doivent évaluer l'impact de leurs politiques sur les communautés vulnérables lors de l'élaboration de celles-ci.
 
-La loi californienne SB 535 stipule que 25 % des investissements liés à la réduction des gaz à effet de serre doivent bénéficier aux communautés défavorisées. Ce principe de « priorité aux bénéficiaires » mérite d'être étudié par Taïwan.
+La loi californienne sur la justice environnementale (SB 535) stipule que 25 % des investissements liés à la réduction des émissions de gaz à effet de serre doivent bénéficier aux communautés vulnérables. Ce principe de « priorité aux bénéficiaires » pourrait inspirer Taïwan.
 
 ### La justice procédurale en Europe
 
-La Convention d'Aarhus établit en Europe les droits à l'accès à l'information environnementale, à la participation au processus décisionnel et à l'accès à la justice. Les États membres doivent mettre en place les dispositions législatives correspondantes.
+La Convention d'Aarhus (_Convention sur l'accès à l'information, la participation du public au processus décisionnel et l'accès à la justice en matière d'environnement_) a consacré le droit à l'information environnementale, le droit à la participation publique et le droit au recours judiciaire. Les États membres sont tenus de mettre en place les institutions juridiques correspondantes.
 
-Le système suédois de tribunaux environnementaux permet aux citoyens de défendre efficacement leurs droits. Des juges spécialisés, des experts techniques et des représentants de la société civile siègent ensemble pour examiner les affaires environnementales. Les décisions ont force contraignante pour les pouvoirs publics comme pour les entreprises.
+Le système de tribunaux environnementaux suédois permet au public de faire valoir efficacement ses droits environnementaux. Des juges spécialisés, des experts techniques et des représentants de la société civile siègent ensemble dans les affaires environnementales. Les décisions ont force exécutoire et s'imposent tant au gouvernement qu'aux entreprises.
 
-Le système néerlandais d'évaluation de l'impact environnemental met fortement l'accent sur la participation citoyenne. Les habitants ne peuvent pas seulement exprimer un avis : ils peuvent influer sur la définition du périmètre et des méthodes d'évaluation. Les résultats doivent répondre aux préoccupations exprimées par le public.
+Le système d'évaluation d'impact environnemental des Pays-Bas met l'accent sur la participation publique. Les citoyens peuvent non seulement exprimer leur avis, mais aussi influencer le périmètre et les méthodes d'évaluation. Les résultats de l'évaluation doivent répondre aux préoccupations soulevées par le public.
 
-### La communication sur les risques au Japon
+### La communication des risques au Japon
 
-Après la catastrophe nucléaire de Fukushima, le Japon a fortement développé ses dispositifs de communication sur les risques. Des organismes spécialisés ont été créés, des experts formés, des procédures standardisées mises en place.
+Après la catastrophe nucléaire, le Japon a fortement investi dans les mécanismes de communication des risques. Le gouvernement a créé des organismes dédiés, formé des experts en communication des risques et établi des procédures standardisées.
 
-L'expérience de gestion de la catastrophe de Fukushima montre que la communication sur les risques n'est pas seulement une question technique : c'est avant tout une question de confiance. Les pouvoirs publics doivent reconnaître les incertitudes et assumer leurs responsabilités décisionnelles pour regagner la confiance des citoyens.
+L'expérience de la gestion de la catastrophe de Fukushima montre que la communication des risques n'est pas seulement une question technique, mais aussi une question de confiance. Le gouvernement doit reconnaître les incertitudes et assumer la responsabilité de ses décisions pour gagner la confiance du public.
 
-Les collectivités locales jouent un rôle déterminant dans cette communication. L'attitude et les politiques des élus locaux conditionnent souvent la réussite ou l'échec des démarches de communication sur les risques.
+Les collectivités locales japonaises jouent un rôle important dans la communication des risques. L'attitude et les politiques des élus locaux déterminent souvent le succès ou l'échec de cette communication.
 
 ## Perspectives et conclusion
 
-Les problèmes de justice environnementale à Taïwan reflètent des inégalités sociales plus profondes. Les résoudre implique de s'attaquer simultanément aux multiples inégalités de classe, d'appartenance ethnique, de territoire et de génération.
+Les problèmes de justice environnementale à Taïwan reflètent des inégalités sociales plus profondes. Résoudre ces problèmes nécessite de traiter simultanément les inégalités de classe, d'ethnie, de territoire et de génération.
 
-Les défis à venir incluent : l'aggravation des inégalités dans la distribution des risques climatiques liée au changement climatique, l'équité dans la transition énergétique, les impacts sociaux de l'économie circulaire, et les enjeux de justice environnementale dans le commerce international.
+Les défis futurs incluent : l'intensification des inégalités dans la répartition des risques environnementaux due au changement climatique, la transition juste dans le cadre de la transition énergétique, les impacts sociaux du développement de l'économie circulaire, ainsi que les questions de justice environnementale liées au commerce international.
 
-La justice environnementale n'est pas seulement un idéal : c'est une exigence pratique. Construire un système de gouvernance environnementale juste, transparent et participatif, permettant à tous les citoyens de jouir d'un environnement de qualité et d'assumer leurs responsabilités environnementales, est une condition nécessaire pour que Taïwan devienne une société véritablement durable.
+La justice environnementale n'est pas seulement un idéal, mais aussi une pratique. Il s'agit d'établir un système de gouvernance environnementale équitable, transparent et participatif, permettant à l'ensemble de la population de bénéficier d'une qualité environnementale et d'assumer ses responsabilités environnementales. C'est une condition nécessaire pour que Taïwan s'engage sur la voie d'une société durable.
 
-Les décisions environnementales dans une démocratie doivent reposer sur une information complète, un débat ouvert et une procédure équitable. Il n'existe pas de solution parfaite, mais il est possible de viser des processus plus justes. La réalisation de la justice environnementale requiert l'engagement conjugué de l'État, des entreprises et de la société civile — et, plus fondamentalement, la participation active de chaque citoyen.
+Dans une société démocratique, les décisions environnementales devraient reposer sur une information complète, un débat public et la justice procédurale. Il n'existe pas de solution parfaite, mais il est possible de rechercher un processus plus équitable. La réalisation de la justice environnementale nécessite les efforts conjoints du gouvernement, des entreprises et de la société civile, ainsi que la participation active de chaque citoyen.
+
+**Pour aller plus loin** :
+
+- [鐵皮屋](/society/鐵皮屋) — Le démantèlement de la zone industrielle de Wenzizun est un cas emblématique de justice environnementale : pollution, démolition et difficultés de relogement d'un ensemble de 400 hectares d'ateliers sous bâches métalliques
+- [社會住宅與居住正義](/society/社會住宅與居住正義) — La dimension politique des questions de logement : offre de logements sociaux et réforme du marché locatif
 
 ## Références
 
-- [Fondation pour la garantie des droits environnementaux](https://www.erf.org.tw/) — Droit environnemental et contentieux d'intérêt public
+- [Fondation pour la garantie des droits environnementaux](https://www.erf.org.tw/) — Droit de l'environnement et contentieux d'intérêt public
 - [Fondation Citizens of the Earth, Taiwan](https://www.cet-taiwan.org/) — Plaidoyer pour la justice environnementale et action citoyenne
-- [Association pour l'information environnementale de Taïwan](https://e-info.org.tw/) — Actualités et analyses environnementales
-- [Alliance des citoyens verts pour l'action](https://www.gcaa.org.tw/) — Mouvement antinucléaire et politique énergétique
-- [Wild at Heart Legal Defense Association](https://www.wildatheart.org.tw/) — Droit et surveillance des politiques environnementales
+- [Association taiwanaise d'information environnementale](https://e-info.org.tw/) — Actualités et analyses environnementales
+- [Alliance citoyenne pour l'action verte](https://www.gcaa.org.tw/) — Lutte antinucléaire et plaidoyer pour la politique énergétique
+- [Association écologique Wild at Heart de Taïwan](https://www.wildatheart.org.tw/) — Droit de l'environnement et suivi des politiques
 - [Association Chaishan de Kaohsiung](https://www.takao.org.tw/) — Protection de l'environnement local et participation communautaire
-- [Fédération pour la protection de l'environnement du comté de Changhua](http://www.cepf.org.tw/) — Lutte contre la pollution atmosphérique et surveillance environnementale
-- [Fondation culturelle et éducative Tao de Lanyu](http://www.teyaw.org/) — Retrait des déchets nucléaires et droits des peuples autochtones
-- [Agence pour la protection de l'environnement (EPA)](https://www.epa.gov.tw/) — Politiques et réglementations environnementales
-- [École de santé publique de l'Université nationale de Taïwan](https://www.sph.ntu.edu.tw/) — Recherche sur les risques sanitaires environnementaux
-- 《環境正義：弱勢社區的環境風險》, Du Wenling, Kaixue Culture, 2012
-- 《台灣環境運動概論》, He Mingxiu, Qunxue Press, 2006
+- [Alliance environnementale de Changhua](http://www.cepf.org.tw/) — Lutte contre la pollution atmosphérique et surveillance environnementale
+- [Fondation culturelle et éducative du peuple Tao de Lanyu](http://www.teyaw.org/) — Retrait des déchets nucléaires et droits des peuples autochtones
+- [Agence de protection de l'environnement, Yuan exécutif](https://www.epa.gov.tw/) — Politiques et réglementation environnementales
+- [École de santé publique, Université nationale de Taïwan](https://www.sph.ntu.edu.tw/) — Recherche sur les risques sanitaires environnementaux
+- _Justice environnementale : les risques environnementaux des communautés vulnérables_, par Du Wenling (杜文啉), OpenBook, 2012
+- _Introduction aux mouvements environnementaux à Taïwan_, par He Mingxiu (何明修), Qunxue Publishing, 2006

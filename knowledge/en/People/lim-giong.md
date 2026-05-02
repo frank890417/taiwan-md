@@ -1,132 +1,145 @@
 ---
-title: 'Lim Giong'
-description: "A Taiwanese-language rock idol who sold four hundred thousand records, then walked away from everything to make electronic music nobody listened to—and went on to become the go-to sound artist for Hou Hsiao-hsien and Jia Zhangke, two of Asia's most celebrated filmmakers."
+title: "Lim Giong: From the Platform of 'Moving Forward' to Cannes for The Assassin — Three Decades of a Hokkien Rock Defector"
+description: "On December 7, 1990, 26-year-old Changhua native Lin Chih-feng turned Hokkien song from melancholy into rock with 'Moving Forward'; three years later he had almost stopped singing. From Goodbye South, Goodbye to The Assassin, four Golden Horses, a Cannes Soundtrack Award, and the 2018 National Award for Arts — over thirty years he folded up his superstar identity to become the man behind the synthesizer for Hou Hsiao-hsien and Jia Zhangke."
 date: 2026-03-31
-tags: [音樂, 電子音樂, 電影配樂, 聲音藝術, 台語]
+tags: ['music', 'electronic music', 'film score', 'sound art', 'Hokkien']
+category: 'People'
 subcategory: '音樂'
+author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-31
+lastVerified: 2026-05-02
 lastHumanReview: false
-translatedFrom: People/林強.md
-sourceCommitSha: a05d2431
-sourceContentHash: sha256:048e7f1bf03af1e2
-translatedAt: 2026-05-02T02:50:54+08:00
+translatedFrom: 'People/林強.md'
+sourceCommitSha: '2f191274'
+sourceContentHash: 'sha256:b7a8166bcc17bf2b'
+translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 
-> **30-second overview:** In 1990, Lim Giong (林強) sold four hundred thousand copies of a single track, "Moving Forward" (向前走), becoming the poster child of the New Taiwanese Song Movement—packaged by his label as an idol star. Four years later, he torched that persona with an electronic noise album called _Entertainment World_ (娛樂世界), then virtually vanished from public view. He hadn't disappeared—he'd walked into a dark editing room. Hou Hsiao-hsien's editing room. Over the following three decades, he transformed from a Taiwanese-language rock star into an electronic music pioneer, then into a Cannes Best Film Soundtrack winner, working across three music scenes—Taiwan, China, and Europe. In 2017 he received the National Award for Arts, completing one of the most extraordinary identity metamorphoses in the history of Taiwanese popular music.
+> **30-second overview:** On December 7, 1990, 26-year-old Changhua native Lin Chih-feng turned Hokkien song from melancholy into rock with "Moving Forward" (向前走), and the album sold so fast Rock Records' warehouse couldn't keep up with restocking. Four years later he burned down his idol persona with an electronic noise album, then nearly vanished from public view. He hadn't vanished — he'd walked into Hou Hsiao-hsien's editing room. Over the next three decades, he transformed from spokesperson for the New Hokkien Song Movement into an electronic music pioneer, winning four Golden Horses for Best Original Film Score, one Cannes Soundtrack Award, and one National Award for Arts, crossing the Taiwanese and Chinese cinema scenes — completing one of the rarest identity defections in Taiwan pop music history.
 
 ---
 
-In December 1990, a young man from Changhua stood in front of a camera and sang: "I'd always heard people say Taipei isn't my home, but I never felt a thing."
+## The Watermelon-Cut Boy on the Platform
 
-"Moving Forward" (向前走) overnight changed what the Taiwanese music world thought a Taiwanese-language song could be. Lo Ta-yu's "Lukang, the Little Town" (鹿港小鎮) was about homesickness for a hometown left behind; Lim Giong's "Moving Forward" was unburdened confidence in Taipei. Rock arrangements replaced the sentimental string sections that had been the default in traditional Taiwanese ballads. The record sold four hundred thousand copies, won Best Song of the Year and Best Album Producer at the third Golden Melody Awards, and became one of the canonical texts of the "New Taiwanese Song Movement" in the history of [Taiwanese pop music](/en/Music/golden-melodies-legacy-taiwan-pop-music/).
+On December 7, 1990, Rock Records released a strange album.[^2]
 
-Lim Giong became an idol overnight.
+The cover featured a young man with naturally curly watermelon-cut hair in a white shirt, standing on a Taipei Main Station platform. The album was titled _Moving Forward_ (向前走), with the title also printed in Hokkien romanization "Hiòng-tsiân-kiânn" beneath — a slightly provocative gesture for the time. The mainstream of the 1990 Hokkien song market was the lament path: Jody Chiang, Hung Jung-hung, Yeh Chi-tien — sorrowful in tone, enka in arrangement, as if Hokkien as a language could only be used for losers' songs.
 
-But he didn't want to be an idol.
+Producers Bobby Chen, Jonathan Lee, and Chou Shih-hui decided to do the opposite. They wove rock into Hokkien, letting the singer use a youthful "I'm going to make it in Taipei" voice to sing the excitement of a train pulling into the station: "I used to hear people sing 'Taipei isn't my home,' but I don't feel that way at all."[^3]
 
-## From Singer to Stranger
-
-After fame hit, Rock Records packaged Lim Giong as an image act—Armani suits, variety show appearances, the role of "Taiwanese rock spokesperson." In one interview, Lim described that period: "Sometimes I deliberately tried to escape that former self." (_The Reporter_, 2017)
-
-In 1992, his second Taiwanese-language album, _Springtime Lads_ (春風少年兄), sold five hundred thousand copies—bigger numbers, less freedom. Lim wanted to break through; the label just wanted another "Moving Forward." Three non-single tracks quietly slipped in electronic beats and industrial noise. Nobody noticed, but that was the sound he actually wanted to make.
-
-The contradiction exploded in 1994.
-
-_Entertainment World_ (娛樂世界), Lim Giong's third Taiwanese-language album, was a full "declaration of defection." Electronic pioneer DJ Loo Bachi (羅百吉) handled all arrangements. Lim flew to the UK to record, working with producer John Fryer and guest guitarist Ben Blakeman of Cocteau Twins. Electronic dance beats, industrial noise, and electric guitar reverb were mashed together. The cover was an abstract painting—a complete break from the label's convention of glossy portrait photography.
+The singer was Lim Giong (林強), born Lin Chih-feng (林志峰) on June 7, 1964 in Changhua.[^4] When he was doing military service in Matsu, the army screened Hou Hsiao-hsien's 1983 film _The Boys from Fengkuei_. After watching, he thought: so Taiwanese cinema can be made like this, can have so much feeling for this land. He resolved that after discharge, if he couldn't get into music, he'd go learn cinema, even starting from Hou Hsiao-hsien's assistant.[^5] He didn't expect that after discharge, the music path would open first — and explode.
 
 > **📝 Curator's note**
-> In the liner notes for _Entertainment World_, Lim Giong wrote: "Turn on the TV—a bunch of faces with the same cute smiles; turn on the radio—besides love songs, there's nothing else to sing about?" This wasn't just a critique of Taiwan's entertainment industry; it was a public mockery of his own idol career. A singer who had sold five hundred thousand records used an album nobody bought to say goodbye to his own past.
+> The year "Moving Forward" went big, the KTV Hokkien song chart was dominated by it for months. Just three years after martial law ended, the whole island was learning the lesson "you don't have to feel ashamed." Lim Giong used a youthful voice not trained in melancholy to sing out the collective accent of that era. The melancholy mode of Hokkien song was shaped by historical circumstances; "Moving Forward" demonstrated another possibility.
 
-The market didn't buy it. But one person noticed.
+## Fastest Train, Fastest Brakes
 
-## A Door, Inside a Dark Editing Room
+After _Moving Forward_, 1992's _Spring Wind Young Brother_ (春風少年兄) kept selling. Lim Giong became an idol overnight, packaged by Rock Records as an image artist: wearing Armani, going on variety shows, playing the role of Hokkien rock spokesperson.
 
-In 1996, Hou Hsiao-hsien was preparing _Goodbye South, Goodbye_ (南國再見，南國) and needed a composer who understood electronic music and had an instinct for Taiwan's marginal societies.
+He didn't like it.
 
-He called Lim Giong.
+In an interview, Lim Giong said: "Sometimes I quite deliberately try to escape that person from before."[^6] In his fifties, he said this with a laugh, pointing at his early MVs — but in that moment, the contradiction was real.
 
-This collaboration changed Lim's trajectory. He brought his passion for electronic synthesizers into the world of cinema, collaborating with figures from Taiwan's underground music scene—LTK Commune (濁水溪公社), Xia Lei-Guang (雷光夏)—to create a soundtrack Hou described as "every single track fitting perfectly." _Goodbye South, Goodbye_ earned Lim Giong the Best Film Song award at the 33rd Golden Horse Awards. He had barely started composing for film and was already on the awards stage.
+1994's _Entertainment World_ (娛樂世界) was his defection manifesto. The whole album's arrangements were handled by electronic pioneer Lo Pai-chi; Lim Giong went to England to record, working with producer John Fryer. Electronic dance, industrial noise, and electric guitar reverb mixed together; the cover was abstract painting, completely against the salon-photo album-cover convention of the time. The market didn't buy it.[^7]
 
-> **💡 Did you know?**
-> Lim Giong's first acting role was also for Hou Hsiao-hsien. In _Dust of Angels_ (少年吔，安啦！, 1993), he played a fringe figure in Taiwan's underworld—Hawaiian shirt, bell-bottoms, the way he held a cigarette and the cadence of his speech all completely real, because he himself lived on the edge of that world. That performance was what made Hou remember him.
+But one person noticed.
 
-The National Culture and Arts Foundation's award citation described the space Hou gave Lim: "Director Hou Hsiao-hsien continued to explore the art of cinema through the 1990s, maintaining an organic and open working model. This gave Lim Giong an extraordinary degree of creative freedom, allowing him to break free from established conventions, escape the formula of the theme song, and create alternative possibilities for film scoring—pursuing not melodies that assist narrative and amplify emotion, but an abstract atmosphere and scent."
+## "Why Don't You Stop Singing"
 
-This statement makes one thing clear: Lim Giong was never "making music for films." He was "using music to shoot another film."
+In 1995, through Rock Records, Lim Giong met Hou Hsiao-hsien. Hou said one thing to him: "Why don't you stop singing — being a creator is more pure."[^8]
 
-## _Millennium Mambo_ and the Establishment of Electronic Music
+This was the beginning of the turn. In 1996, Hou was preparing _Goodbye South, Goodbye_ (南國再見，南國) and asked Lim Giong to do the score and theme song. Lim Giong was so nervous he said he "didn't know how to do film music." Hou's reply: "If you don't know, can't you ask people!" — and took him to study with teachers at the music conservatory.[^8]
 
-In 2001, Hou Hsiao-hsien called on Lim Giong again.
+Lim Giong brought the language of electronic synthesizers into film, working with creators from Taiwan's underground music scene (LTK Commune, Lei Kuang-hsia), and produced a score Hou described as "every track fits perfectly." His "Self-Destruction" (自我毀滅) won him Best Original Film Song at the 33rd Golden Horse Awards,[^9] and he stood on the awards stage just as he was beginning his film scoring work.
 
-_Millennium Mambo_ (千禧曼波) was a film about the generation straddling the millennium—nightclubs, the Shutter Island project, and the foggy nights of Taipei. Lim Giong, DJ Fish (Huang Kai-yu 黃凱宇), and Japanese musician Yoshihiro Hanno (半野喜弘) jointly scored the film, electronic beats seeping into the light and shadow of celluloid. The soundtrack won Lim the Best Film Music award at the 38th Golden Horse Awards.
+The National Culture and Arts Foundation later wrote of him: what Lim Giong pursued was "abstract atmosphere and scent" rather than melodies that aided narrative or rendered emotion.[^18] He was never "scoring films" — he was "shooting another film with music."
 
-From that point on, nearly every [Hou Hsiao-hsien](/en/People/hou-hsiao-hsien/) film bore Lim Giong's name—_The Best of Times_ (最好的時光), _Café Lumière_ (咖啡時光), all the way to 2015's _The Assassin_ (刺客聶隱娘).
+## Walking Into a Dark Editing Room
 
-_The Assassin_ won Best Director at Cannes and swept five Golden Horse Awards in Taiwan. And Lim Giong's score, outside the formal competition at the awards ceremony, had already received the Cannes Soundtrack Award. No ceremony, no red carpet—but it was a confirmation from France: Taiwanese electronic film scoring was world-class.
+In 2001, Hou Hsiao-hsien asked Lim Giong to score _Millennium Mambo_ (千禧曼波).
 
-| Golden Horse Best Film Music × 4                                                                            | Cannes Soundtrack Award × 1 |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------- |
-| _Millennium Mambo_ (2001), _Still Life_ (2006), _A Touch of Sin_ (2013); additional Golden Horse nomination | _The Assassin_ (2015)       |
+This film about generations at the millennium turn, nightclubs and the misty nights of Taipei, was credited to Lim Giong (Yokichi Hayashi) and Japanese composer Yoshihiro Hanno.[^10] Electronic beats seeped into the film's light and shadow. The slow-motion shot of Shu Qi crossing the Zhongxiao East Road footbridge at the opening was later homaged by countless Sinophone directors. Lim Giong and Hayashi won the 38th Golden Horse Award for Best Original Film Score for this film.[^11]
 
-## Across the Strait: Jia Zhangke's China
+After this, almost every [[Hou Hsiao-hsien]] film carried Lim Giong's name. In 2015, _The Assassin_ (刺客聶隱娘) won Best Director at Cannes; Lim Giong's score was also recognized in the Cannes Soundtrack Award (outside the main competition) — an international affirmation of Taiwan's electronic film score by Cannes.[^12]
 
-In 2004, Jia Zhangke invited Lim Giong to score _The World_ (世界).
+> **💡 Did you know**
+> Lim Giong's first acting role was also Hou Hsiao-hsien's. In 1993's _Dust of Angels_ (少年吔，安啦！), he played a marginal Taiwanese gangster. That performance made Hou remember him; it also confirmed for Lim Giong that he wanted to be more behind the camera.
 
-The film was about workers at a Beijing theme park, a setting saturated with the symbols of globalization—miniature replicas of famous landmarks from around the world, populated by China's lowest-rung laborers. Lim Giong used electronic music to process this absurd dissonance, fusing the meditative quality of Eastern folk traditions into Western electronic beats to create a sense of "rootlessness with a modern sensibility."
+## From Taipei to Shanxi: Fifteen Years of Jia Zhangke in China
 
-Jia Zhangke's collaborative method with Lim was very different from Hou Hsiao-hsien's. Lim once said in an interview: "Before he shoots, he always invites me to the set. For _24 City_ (二十四城記), we went to Chengdu, Sichuan, and walked through the factory... For _Still Life_ (三峽好人), he invited me to Chongqing, and we took a boat to Fengjie, lived there for a few days, so I could truly enter that state." (_Simple Life_ (簡單生活), 2016 interview)
+Jia Zhangke was introduced by Hou Hsiao-hsien.
 
-_Still Life_ won the Golden Lion at the Venice Film Festival in 2006, and Lim Giong's score also won Best Film Music at the Golden Horse Awards. For 2013's _A Touch of Sin_ (天注定), Lim used the traditional opera concept of "Chu Jiang" (出將, the entrance of a general) as the basis for the opening music, channeling the tension of electronic instrumentation to blend classical cultural sensibility into a narrative of contemporary violence—winning Best Film Music at the Golden Horse Awards once again.
+Starting with 2004's _The World_, Lim Giong scored almost all of Jia Zhangke's most important films of the next fifteen years: _Dong_ (2006), _Still Life_ (2006), _24 City_ (2008), _A Touch of Sin_ (2013), _Ash Is Purest White_ (2018).[^13] Their working method was very different from Hou's — Jia always brought Lim Giong to location before filming. For _24 City_, they walked through the Chengdu factory together; for _Still Life_, Lim Giong took the boat to Fengjie and lived there for several days, letting himself truly enter that state.[^13]
 
-The scores Lim Giong composed for Jia Zhangke's films (_The World_, _Dong_ (東), _Still Life_, _Our Ten Years_ (我們的十年)) were later compiled into a collection, designed by graphic design master Ouyang Yingzhe (歐陽應霽) and released simultaneously in Taiwan and China.
+Jia Zhangke once said: "Music is like oxygen — it provides us with the simplest and most necessary emotional help."[^14]
 
-> **✦** "Music is like oxygen—it gives us the simplest emotional help." —Jia Zhangke, 2016
+This is exactly Lim Giong's approach. He used electronic music to handle the absurd disjunctions of contemporary China, blending the Zen of Eastern folk into Western electronic beats. _Still Life_ won the Venice Golden Lion in 2006, and Lim Giong won the 43rd Golden Horse Award for Best Original Film Score for Doze Niu's _Do Over_ (一年之初).[^15] In 2013, for _A Touch of Sin_, he opened with music based on the traditional opera concept of "Chu Jiang" (出將), winning Best Original Film Score at the Golden Horse again.[^15] In 2016, he won the same Golden Horse award a fourth time, for Midi Z's documentary _City of Jade_ (翡翠之城).[^16]
 
-## 2004: The Moment the Laptop Powered On
+> **📝 Curator's note**
+> In the same decade, behind two of the most important Sinophone film auteurs from Taiwan — Hou Hsiao-hsien and Jia Zhangke — was the same person at the synthesizer. He found a sound language that belonged both to Taipei nights and Shanxi factories: lonely electronic notes, the kind that grow on their own in urban ruins.
 
-Around 2004, Lim Giong began creating electronic music on a laptop and started cross-disciplinary collaborations with visual artists, VJs, dancers, temple fair performers, guqin players, and installation artists.
+## Words Are Spent, Only Music Remains
 
-This wasn't a "transition." It was a "wall demolition."
+In August 2017, _The Reporter_ published an in-depth interview, written by Wang Yi-chun, with a heavy title: "Words Are Spent, Only Music Remains — Lim Giong's Way of Withdrawal."[^6]
 
-With a laptop in hand, he traveled to mainland China, Malaysia, Singapore, France, and Switzerland for audiovisual performances. In those cities, he wasn't "Lim Giong of Taiwanese rock" or "Hou Hsiao-hsien's composer"—he was a live electronic music performer. The people in the room didn't need to know who he used to be.
+He said he wouldn't return to the stage as a singer because "there's nothing more to say."[^6] He converted to Buddhism, became a long-term vegetarian, and his studio setup is not complex — mainly an Ableton Live digital audio workstation and an old MicroKORG synthesizer. With these two things, in his Sanxia home, he continues to make sound that no one has commissioned.
 
-Taiwan's [electronic music and party culture](/en/Music/taiwan-electronic-music-and-party-culture/) scene also began to know him. He wasn't just doing film scores anymore—he was in the club, at performing arts festivals, in experimental music spaces.
+He mostly doesn't take commercial film scores, "because directors will demand a clear emotion, and I can't fake an emotion I don't feel."[^17]
 
-In 2015, Lim Giong and DJ Point (Hsu Chih-yuan 許志遠) launched a long-term collaboration under the name "Zhi Le Zhi Yue" (志樂制樂), performing as a computer band in diverse venues. In 2017, Zhi Le Zhi Yue performed at the National Theater's 30th Anniversary event _A Place for All Voices_ (眾聲之所) and presented a live electronic installation at Taipei's _Nuit Blanche_. In early 2025, Lim Giong performed at C-LAB (Taiwan Contemporary Culture Lab) in "Sound Meditation: A Journey Through Sound and Silence," collaborating with 3D artist CSSSS to construct a meditative, boundless perceptual space with sound and imagery.
+In 2018, Lim Giong won the 20th National Award for Arts — the first time the award was given to a film music creator.[^18] At the awards ceremony he barely spoke.
 
-He was no longer just a "composer." He was a sound installation artist.
+## Coordinates of a Defector
 
-## The 2017 National Award for Arts: The Return of a Fugitive
+When you lay out Lim Giong's trajectory, the most counterintuitive thing isn't "superstar turns to behind-the-scenes" — that's a common move in pop music history. The counterintuitive part is the timing: he withdrew from the mainstream market in 1996, the year he should have been pressing his advantage hardest. He was 32.
 
-In December 2017, Lim Giong received the 20th National Award for Arts, the most watched winner in the music category that year.
+> Six Golden Horse Awards, one Cannes Soundtrack Award, one National Award for Arts — from the boy who finished watching _The Boys from Fengkuei_ in the Matsu barracks.
 
-The press release called him a "music category winner," but Lim's identity had long since overflowed any single frame—singer, actor, film composer, electronic music producer, sound artist.
-
-This award confirmed something: the person who fled the Taiwanese-language idol market hadn't disappeared along the way. He'd built, in a more remote and quieter place, a sound universe that nobody else could enter.
-
-Lim Giong once said: "Sometimes I deliberately tried to escape that former self." This is honest, but it's also easy to misread. He wasn't escaping Taiwanese language, or pop, or the song that made him famous—he was escaping "being defined."
-
-In 1990, "First Person of the New Taiwanese Song Movement" defined him.
-In 1994, he rejected that definition with _Entertainment World_.
-In 1996, he began building a new definition in the editing room of _Goodbye South, Goodbye_.
-
-Thirty years later, that definition reads: one of Taiwan's most important sound artists.
+The New Hokkien Song Movement marked his starting point; the Golden Horses, Venice, and Cannes mark where he went. And between these two coordinates is a thirty-year story of escape.
 
 ---
 
-Lin Chih-feng (林志峰) of Changhua, born 1964, is probably still somewhere right now, opening a laptop and starting to make sounds nobody commissioned. That's the thing he works hardest at.
+That train left the Taipei Main Station platform a long time ago. The watermelon-cut boy never got back on to sing. In a quieter place, he opens his laptop and makes sound no one commissioned.
+
+**Further reading**:
+
+- [Hou Hsiao-hsien](/people/侯孝賢) — Lim Giong's first cinema teacher, the central figure of Taiwan New Cinema
+- [The Evolution of Taiwanese Hokkien Song](/music/台灣台語歌曲演進) — The cultural wave to which Lim Giong's "Moving Forward" belonged, the lineage from lament-mode Hokkien to rock Hokkien
+- [Chia Yung-chieh](/people/賈永婕) — A Taiwanese public figure who similarly completed an identity transition, from celebrity status to public-governance mobilization
 
 ## References
 
-- [話已說完只剩音樂──林強的遁世道](https://www.twreporter.org/a/interview-lim-giong) (_The Reporter_, 2017, primary interview)
-- [國家文藝獎 林強得獎頁面](https://www.ncafroc.org.tw/artsaward/winnerDetail@47263) (National Culture and Arts Foundation, primary)
-- [Lim Giong - Wikipedia](https://en.wikipedia.org/wiki/Lim_Giong) (English Wikipedia)
-- [Musical Wanderer--Lim Giong](https://www.taiwan-panorama.com/en/Articles/Details?Guid=a9bd08bc-5ed6-47b9-bbd8-1510f7272773&CatId=8&postname=Musical+Wanderer--Lim+Giong) (_Taiwan Panorama_, 2008)
-- [跨界音樂旅人──林強](https://www.taiwan-panorama.com/Articles/Details?Guid=1d1c55fd-6c74-4f82-a670-225afafd9109&CatId=8&postname=%E8%B7%A8%E7%95%8C%E9%9F%B3%E6%A8%82%E6%97%85%E4%BA%BA%E2%94%80%E2%94%80%E6%9E%97%E5%BC%B7) (_Taiwan Panorama_, 2008)
-- [《千禧曼波》配樂：林強與 fish.the 引領台灣電子樂新浪潮](https://ysolife.com/millennium-mambo/) (YSOLIFE, 2025)
-- [賈樟柯 × 林強：音樂像氧氣，給我們最簡單的情感幫助](https://simplelife.streetvoice.com/post/music_is_oxygen/) (_Simple Life_, 2016)
-- [為侯孝賢做出一曲落葉，聽林強用音樂拍電影](https://flipermag.com/2015/06/08/525/) (FLiPER, 2015)
-- [第20屆國家文藝獎得主：音樂家林強獲得電影類獎項](https://www.thenewslens.com/article/84784) (The News Lens, 2017)
-- [向前走 - 維基百科](https://zh.wikipedia.org/zh-tw/%E5%90%91%E5%89%8D%E8%B5%B0)
-- [林強 (1964年) - 維基百科](<https://zh.wikipedia.org/zh-tw/%E6%9E%97%E5%BC%B7_(1964%E5%B9%B4)>)
+[^1]: [Taipei Golden Horse Film Festival — LIM Giong](https://www.goldenhorse.org.tw/academy/filmacademyplus/class/history/1407) — Official page noting "fourteen Golden Horse nominations and six wins for Best Original Film Score and Song."
+
+[^2]: [Taiwan Pop Music Wiki — Moving Forward](http://www.tpmw.org.tw/index.php/%E5%90%91%E5%89%8D%E8%B5%B0) — December 7, 1990 release by Rock Records, producers Bobby Chen, Jonathan Lee, Chou Shih-hui — full information on the new Hokkien rock landmark.
+
+[^3]: [Wikipedia — Moving Forward (album)](https://zh.wikipedia.org/wiki/%E5%90%91%E5%89%8D%E8%B5%B0) — Production credits, tracklist, historical context, and reissue records.
+
+[^4]: [Lim Giong (1964) — Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%BC%B7_%281964%E5%B9%B4%29) — Born Lin Chih-feng, June 7, 1964, Changhua, with full biography and discography.
+
+[^5]: [A Falling Leaf for Hou Hsiao-hsien — Lim Giong's Cinema in Music](https://flipermag.com/2015/06/08/525/) — FLiPER, June 2015. Documents the full story of Lim Giong watching _The Boys from Fengkuei_ in Matsu and resolving to study cinema after discharge.
+
+[^6]: [The Reporter — Words Are Spent, Only Music Remains: Lim Giong's Way of Withdrawal](https://www.twreporter.org/a/interview-lim-giong) — August 2017, written by Wang Yi-chun. In-depth interview including the original "sometimes I quite deliberately try to escape that person from before," Sanxia life, and the Ableton Live and MicroKORG setup.
+
+[^7]: [BNext — Not Spring Wind Young Brother, Still Moving Forward: Shedding Superstar Halo to Find True Self in Electronic Music](https://www.bnext.com.tw/article/8993/BN-ARTICLE-8993) — _Entertainment World_ market reception and the background of Lim Giong's turn to electronic music.
+
+[^8]: [Remembering Mentor Hou Hsiao-hsien: "Why Don't You Stop Singing" — How Lim Giong Was Drawn Into Film Scoring](https://www.thenewslens.com/article/30994) — The News Lens, the original key dialogue and full origin of Lim Giong's turn behind the scenes.
+
+[^9]: [Golden Horse Award for Best Original Film Song — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E7%8D%8E%E6%9C%80%E4%BD%B3%E5%8E%9F%E5%89%B5%E9%9B%BB%E5%BD%B1%E6%AD%8C%E6%9B%B2) — 33rd (1996) winner: Lim Giong, "Self-Destruction" (_Goodbye South, Goodbye_).
+
+[^10]: [Wikipedia — Millennium Mambo](https://zh.wikipedia.org/zh-tw/%E5%8D%83%E7%A6%A7%E6%9B%BC%E6%B3%A2) — Score credited to Lim Giong (Yokichi Hayashi) and Yoshihiro Hanno; won the Cannes Technical Grand Prize (sound design by Tu Du-chih) and Best Sound Effects at the Golden Horse, among other awards.
+
+[^11]: [Lim Giong Wins 43rd Golden Horse "Best Original Film Score" — National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=621829) — Official record: Lim Giong won the 43rd Golden Horse Award for Best Original Film Score for _Do Over_.
+
+[^12]: [The Music Genius Ahead of His Time, Lim Giong — From Avant-Garde to Cannes Best Film Soundtrack](https://today.line.me/tw/v2/article/oqzvLaj) — VERSE, 2015 Cannes Soundtrack Award (parallel competition) and 52nd Golden Horse nomination records for _The Assassin_.
+
+[^13]: [Jia Zhangke × Lim Giong: Music Is Like Oxygen, Giving Us the Simplest Emotional Help](https://simplelife.streetvoice.com/post/music_is_oxygen/) — Simple Life, October 2016. Complete list of their collaborations, with Lim Giong recounting his "live on location for several days" working method.
+
+[^14]: [Jia Zhangke × Lim Giong: Music Is Like Oxygen, Giving Us the Simplest Emotional Help](https://simplelife.streetvoice.com/post/music_is_oxygen/) — Jia Zhangke's original quote: "Music is like oxygen — it provides us with the simplest and most necessary emotional help." (Simple Life 2016)
+
+[^15]: [Lim Giong (1964) — Wikipedia Awards Timeline](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%BC%B7_%281964%E5%B9%B4%29) — Complete records: 1996 Golden Horse Best Original Film Song, 2001 _Millennium Mambo_ Golden Horse Best Original Film Score, 2006 _Do Over_ Golden Horse Best Original Film Score, 2013 _A Touch of Sin_ Golden Horse Best Original Film Score.
+
+[^16]: [Taipei Golden Horse Film Festival — City of Jade](https://www.goldenhorse.org.tw/film/about/archive/detail/1521) — 53rd (2016) Golden Horse Award Best Original Film Score winner: Lim Giong, _City of Jade_ (Midi Z documentary).
+
+[^17]: [Storm Media — A Decade Behind the Scenes, Lim Giong: I Won't Sing Again](https://www.storm.mg/lifestyle/325203) — 2017 interview. Lim Giong's clear declaration of why he won't sing again, including his attitude toward commercial scoring and his work philosophy.
+
+[^18]: [Film Music Creator Lim Giong — National Culture and Arts Foundation 20th National Award for Arts Page](https://www.ncafroc.org.tw/artsaward/winnerDetail@47263) — 2018, 20th National Award for Arts winner. Official citation: "Distinctive style in contemporary Asian film scoring, and active participation in cross-disciplinary art creation."

@@ -1,224 +1,226 @@
 ---
 title: 'Chen Shui-bian'
-description: '10.º y 11.º presidente de Taiwán y artífice de la primera alternancia política en 2000. De hijo de aparceros en Tainan al primer presidente del PDP, y al primer expresidente puesto bajo custodia: su trayectoria condensa las tensiones más complejas de la transición democrática taiwanesa: ascenso, fundamento legislativo, tormenta y ruptura.'
+description: "The 10th and 11th President of Taiwan, the architect of the first peaceful transfer of power in 2000. From the son of a tenant farmer in Tainan to the first DPP President, and finally the first former head of state to be imprisoned—his trajectory encapsulates the most complex tensions of Taiwan's democratic transition: inspirational, foundational legislation, storm, and polarization."
 date: 2026-04-29
 tags:
   [
-    'Presidente',
-    'Alternancia política',
-    'PDP',
-    'Alcalde de Taipéi',
-    'Democratización',
-    'Legislación de derechos humanos',
-    'Justicia transicional',
-    'Relaciones a través del estrecho',
+    'President',
+    'Party Rotation',
+    'Democratic Progressive Party',
+    'Mayor of Taipei',
+    'Democratization',
+    'Human Rights Legislation',
+    'Transitional Justice',
+    'Cross-Strait Relations',
   ]
-subcategory: '政治與民主'
-author: 'Taiwan.md'
-category: 'People'
+category: People
+subcategory: 'Politics and Democracy'
+author: 'idlccp1984'
 readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:17199abc01d2e3f4'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: 'dc87c2a6'
+sourceContentHash: 'sha256:e2baea53b57c2d58'
+translatedAt: '2026-05-02T14:15:00+08:00'
 ---
 
 # Chen Shui-bian
 
-> **Resumen en 30 segundos:** Chen Shui-bian es el símbolo más complejo de la transición democrática taiwanesa. Hijo de una familia de aparceros de Tainan, gracias a su talento jurídico se convirtió en abogado de élite y entró en política con el gran juicio del Incidente de Formosa. En 1994 ganó la alcaldía de Taipéi y transformó el "yamen" en una "sala de servicio". En 2000, con el 39,3 % de los votos, puso fin a 55 años de gobierno del KMT y sentó tres pilares legislativos: la Ley de Referéndum, la Ley Básica de Pueblos Indígenas y la Ley de Igualdad de Género en la Educación. En 2002 entró en la OMC; en 2004 fue reelegido por solo 0,22 % tras un atentado. En su segundo mandato lo arrastraron los casos de los gastos discrecionales y la compra de terrenos en Longtan; en 2008 se convirtió en el primer expresidente de la República de China detenido y condenado, y desde 2015 está en libertad por motivos médicos. Hizo posible que "la alternancia" sea hoy normalidad democrática en Taiwán y, a la vez, abrió una grieta roja-verde que aún no ha cicatrizado.
+> **30-Second Overview:** Chen Shui-bian is the most complex symbol of Taiwan's democratic transition. Born into a tenant farmer family in Tainan, he rose to become a top-tier lawyer through legal talent, entering politics during the Formosa Incident trial. Elected Mayor of Taipei in 1994, he transformed "government offices" into service halls; in 2000, he ended 55 years of KMT rule with 39.3% of the vote, establishing three major legal foundations: the Referendum Act, the Indigenous Peoples Basic Act, and the Gender Equality Education Act; joined the WTO in 2002; and was re-elected by a margin of 0.22% after the 2004 shooting incident. His second term was engulfed by the State Opera Fund and Longtan land purchase cases. After leaving office in 2008, he became the first former President of the Republic of China to be imprisoned and sentenced. Released on medical parole in 2015, he remains so to this day. He personally made "party rotation is possible" a norm in Taiwan's democracy, while also leading society into the red-green polarization that remains unhealed today.
 
-La noche del 18 de marzo de 2000, las calles de Taipéi se llenaron de gente. Un abogado nacido en una familia aparcera de un pueblo de Tainan, formado en Derecho en la NTU gracias a las becas, acababa de poner fin a 55 años de gobierno del KMT con el 39,3 % de los votos. Chen Shui-bian, en el escenario, gritó "¡Taiwán se levanta!". No era el final de una elección: por primera vez en medio siglo, los taiwaneses mostraron al mundo que el poder político se podía transferir en paz.
+On the night of March 18, 2000, Taipei streets were crowded with people. A lawyer from a tenant farmer family in rural Tainan, who had completed his law studies at National Taiwan University on scholarships, had just ended the Kuomintang's 55-year rule in Taiwan with 39.3% of the vote. Standing on the stage, Chen Shui-bian shouted, "Taiwan stands up!" This was not just the end of an election, but for the first time in half a century, Taiwanese people used their votes to show the world: power can be transferred peacefully.
 
-## El niño de la familia aparcera
+## The Child of a Tenant Farmer
 
-12 de octubre de 1950, aldea Hsi-chuang, distrito de Guantian (Tainan). Su padre, Chen Sung-ken, pertenecía a la categoría más baja de hogar pobre y vivía como aparcero y peón. Chen Shui-bian recordaría en su infancia haber hecho los deberes tumbado en el suelo, junto a la ventana, para aprovechar la luz, porque no podían encender la lámpara.[^1]
+On October 12, 1950, in Xizhuang Village, Guantian Township, Tainan County. His father, Chen Song-gen, was a level-three poor household, surviving as a tenant farmer and laborer. Chen Shui-bian later described his childhood, saying he did homework lying on the floor, borrowing light from the window, because he was reluctant to turn on the lights. [^1]
 
-Se graduó con honores en el Instituto Provincial de Tainan y, en 1974, en Derecho (rama judicial) por la Universidad Nacional de Taiwán. Aprobó el examen de abogados en 1973, en su tercer año, con tasas de aprobación bajísimas. Fundó después un bufete especializado en derecho marítimo y asesoró a empresas como Evergreen Marine Corporation. Era ya un abogado de éxito.
+He graduated with excellent grades from the Taiwan Provincial Tainan First Middle School and graduated from the Judicial Group of the Department of Law at National Taiwan University in 1974. In 1973, during his junior year, he passed the lawyer qualification exam, standing out under the extremely low acceptance rate at the time. After graduation, he established the Maritime Law Office, serving as a consultant for companies such as Evergreen Marine Corporation, becoming a successful lawyer.
 
-> **📝 Nota de la curadora**
-> Su formación jurídica le hizo conceder enorme importancia al "procedimiento" y a la "ley". Esa característica se manifestó después en una rápida reforma normativa: para sus seguidores, eficiencia; para sus críticos, "jugar con la ley". Esa tensión recorre toda su carrera política.
+> **📝 Curator's Note**
+> Chen Shui-bian's legal background made him highly value "procedure" and "rule of law," a trait that later manifested in his administration as rapid revision of regulations—supporters saw efficiency, while critics saw "manipulation." This tension ran through his entire political career.
 
-## La elección del Incidente de Formosa
+## The Choice in the Formosa Incident
 
-A finales de 1979, el Incidente de Formosa sacudió a toda Taiwán. Activistas dangwai habían organizado en Kaohsiung un mitin por el Día de los Derechos Humanos; militares y policías reprimieron, Huang Hsin-chieh y otras figuras clave fueron detenidos y se enfrentaron a un juicio bajo gran presión.
+In late 1979, the Formosa Incident shook the entire island. Non-partisan movement figures held a Human Rights Day rally in Kaohsiung, which was suppressed by military and police. Key figures such as Huang Hsin-chieh were arrested and faced high-pressure trials.
 
-Chen Shui-bian tenía 29 años y ya prestigio como abogado. Cuando Chang Te-ming acudió a él para incorporarlo al equipo de la defensa y representar a Huang Hsin-chieh, sabía perfectamente lo que significaba: defender a "presos políticos" bajo la ley marcial era poner en juego carrera y seguridad personal.
+Chen Shui-bian was 29 years old that year, already a lawyer with a good reputation. When defense lawyer Chang Te-ming approached him, asking if he was willing to join the defense team to represent Huang Hsin-chieh, he clearly understood what this meant: standing up for "political prisoners" under martial law rule meant betting his career and safety.
 
-Aceptó. Esa decisión lo llevó del derecho a la política y, en aquel círculo de defensores, conoció a [[Frank Hsieh]] y [[Su Tseng-chang]], que después serían figuras clave del movimiento democrático. Entre los 15 abogados defensores no era el único central, pero la experiencia común lo desplazó por completo del derecho marítimo al movimiento dangwai.
+He chose to join. This decision transformed him from a legal professional to a political figure, and in the subsequent circle of defense lawyers, he met [[Hsieh Chang-ting]] and [[Su Tseng-chang]]—who later became important figures in the democratic movement. Among the 15 lawyers in the defense team at the time, he was not the only core member, but this shared experience pushed him completely from a "maritime lawyer" into the non-partisan movement.
 
-En 1981 fue elegido concejal de Taipéi con la mayor votación. En 1986 fue miembro fundador del [[Partido Democrático Progresista]].
+In 1981, Chen Shui-bian was elected as a Taipei City Councilor with the highest number of votes, making his debut. In 1986, he became a founding member of the [[Democratic Progressive Party]].
 
-## Alcalde de Taipéi: del yamen a la sala de servicio
+## Mayor of Taipei: Turning Government Offices into Service Halls
 
-En diciembre de 1994, Chen Shui-bian se convirtió en el primer alcalde de Taipéi elegido por sufragio directo, con 615.090 votos (43,67 %), derrotando al último alcalde designado por el KMT, [[Huang Ta-chou]]. Fue también el primer alcalde del PDP.[^2]
+In December 1994, Chen Shui-bian defeated the last appointed KMT Mayor, [[Huang Ta-chou]], in the first direct election for Mayor of Taipei with 615,090 votes (43.67% of the vote), becoming the first directly elected Mayor of Taipei in history and the first DPP mayor. [^2]
 
-En sus cuatro años, su huella más concreta no fue la obra pública, sino la transformación devastadora de la "cultura funcionarial".
+He served for four years. His most concrete legacy was not hardware, but the destructive reshaping of "civil service culture."
 
-A los organismos públicos se les llamaba entonces "yamen" (oficinas mandarinas). Los mostradores de los registros civiles solían superar los 125 cm: el ciudadano debía atender de pie y, a veces, mirando hacia arriba al funcionario. Chen ordenó bajarlos a 70 cm para que ciudadanos y funcionarios estuvieran sentados al mismo nivel ("servicio sentado"), y promovió el modelo "sonríe y ofrece té". El Gobierno municipal obtuvo certificación ISO y NHK le dedicó un especial.
+At that time, government agencies were known as "yamen" (ancient government offices). The counters in household registration offices were usually over 125 cm high, forcing citizens to stand or even look up at civil servants. Chen Shui-bian ordered the counters to be lowered to 70 cm, achieving "sitting service" where citizens and civil servants sat at the same level, and implemented a "smiling tea service" model. This conceptual shift from "managing people" to "serving people" earned the Taipei City Government ISO international certification and attracted NHK to produce a special report.
 
-Para erradicar la pereza, hizo "inspecciones sorpresa" llevando a la prensa por las distintas dependencias municipales y aplicando evaluaciones severas a quienes pillaba tomando té, leyendo prensa o ausentes. La idea de que "el funcionario es servidor público" tuvo, por primera vez, ejecución concreta.
+To eradicate laziness and absenteeism, he personally led media "surprise inspections" of various city government units multiple times, strictly assessing "deadwood" civil servants caught drinking tea, reading newspapers, or being absent. The concept that "civil servants are public servants" had its first concrete execution.
 
-> **📝 Logros de la alcaldía (1994-1998)**
+> **📝 Mayor of Taipei Term (1994-1998) Key Achievements**
 >
-> **Transporte e infraestructura:** la línea Muzha del MRT abrió en marzo de 1996, primera línea de metro en operar en Taiwán. Se consolidó el modelo BOT del Taipei 101: primer caso BOT relevante de Taiwán.
+> **Transportation and Construction:** The Taipei Metro Muzha Line opened in March 1996, becoming the first metro line in Taiwan to open for service. The Taipei 101 Building established the BOT development model during his term, marking the first major case of the BOT system in Taiwan.
 >
-> **Reforma municipal:** reciclaje obligatorio de basura; redadas a sectores especiales; reforma de servicio bajo certificación ISO; _cosplay_ político (Superman, Michael Jackson, Peter Pan), abriendo una nueva era del marketing político taiwanés.
+> **Municipal Reform:** Promoted mandatory garbage classification and recycling; swept away special industries; ISO-certified service-oriented bureaucratic reform; political cosplay dressed as Superman, Michael Jackson, and Peter Pan, opening a new era of Taiwan's political marketing.
 >
-> **Marca política:** los "gorros Bian" de 1998 convirtieron el apoyo en moda: punto de inflexión de la cultura electoral.
+> **Political Brand:** The 1998 "Bian Hat" merchandise turned political support into a fashion trend, a turning point in Taiwan's election culture.
 >
-> **Innovación social:** apoyo a colectivos vulnerables, mayores y personas con discapacidad mediante servicios locales.
+> **Social Welfare Innovation:** Promoted welfare services for disadvantaged groups, including local service plans for the elderly and people with disabilities.
 
-En 1998, con un 80 % de satisfacción ciudadana, perdió la reelección frente al retador [[Ma Ying-jeou]] con un 45,91 %. En la lógica electoral normal, un alcalde con 80 % no debería perder; los politólogos lo atribuyeron después a una brecha estructural azul-verde en Taipéi. No era su gestión; era la estructura.
+In 1998, Chen Shui-bian sought re-election with an 80% citizen satisfaction rate but lost to challenger [[Ma Ying-jeou]] with 45.91% of the vote. Under normal election logic, a mayor with 80% satisfaction should not lose. Political scholars' later analysis pointed to the structural blue-green gap in Taipei voters—not that his administration was poor, but that the structure was inherently so.
 
-Perder Taipéi no le impidió ganar Taiwán dos años después.
+Losing Taipei did not stop him from winning all of Taiwan two years later.
 
-## 2000: la primera vez en 55 años
+## 2000: The First Time in 55 Years
 
-Las presidenciales de 2000 fueron las más dramáticas de la historia democrática taiwanesa.
+The 2000 Presidential Election was the most dramatic election in Taiwan's democratic history.
 
-El KMT se partió: el candidato oficial Lien Chan y el escindido Soong Chu-yu se presentaron por separado y dividieron el voto pan-azul. Chen Shui-bian, con [[Annette Lu]] como vicepresidenta, ganó con el 39,3 %. El PDP había pasado de su fundación al poder en solo 14 años.[^3]
+The KMT split internally: the party-nominated Lien Chan and the defector Song Chu-yu ran separately, splitting the pan-blue vote. Chen Shui-bian, paired with Vice Presidential candidate [[Liu Hsiu-lien]], won with 39.3% of the vote in a three-way contest. The DPP went from founding to governing in just 14 years. [^3]
 
-> **📊 Resultados de las presidenciales 2000**
+> **📊 2000 Presidential Election Results**
 >
-> | Candidato      | Partido       | Votos     | Porcentaje |
-> | -------------- | ------------- | --------- | ---------- |
-> | Chen Shui-bian | PDP           | 4.977.697 | 39,30 %    |
-> | Soong Chu-yu   | Independiente | 4.664.972 | 36,84 %    |
-> | Lien Chan      | KMT           | 2.925.513 | 23,10 %    |
+> | Candidate      | Party                        | Votes     | Vote Share |
+> | -------------- | ---------------------------- | --------- | ---------- |
+> | Chen Shui-bian | Democratic Progressive Party | 4,977,697 | 39.30%     |
+> | Song Chu-yu    | Independent                  | 4,664,972 | 36.84%     |
+> | Lien Chan      | Kuomintang                   | 2,925,513 | 23.10%     |
 >
-> _Fuente: Comisión Central de Elecciones._
+> _Source: Central Election Commission_
 
-En su discurso de toma de posesión planteó los "cuatro no y un sin":
+In his inaugural address, Chen Shui-bian proposed the "Four No's and One Without":
 
-1. No declarar la independencia.
-2. No cambiar el nombre del país.
-3. No incorporar a la Constitución la "tesis de los dos Estados".
-4. No promover un referéndum sobre unificación o independencia.
-5. No habría problema con suprimir el Consejo de Unificación Nacional.
+1. No declaration of independence
+2. No change of national name
+3. No promotion of the Two-State Theory into the Constitution
+4. No promotion of a referendum on unification or independence
+5. No issue of abolishing the National Unification Council
 
-Una apertura cauta, en busca de un punto de partida en un clima muy polarizado.
+This was a cautious opening, attempting to find a starting point in a highly polarized political atmosphere.
 
-Esa alternancia se considera el momento clave de consolidación democrática en Taiwán: las elecciones eran libres antes, pero nunca había habido alternancia. Desde 2000, "el gobierno puede cambiar" es un hecho concreto.
+This party rotation was defined by later political scientists as a key moment of Taiwan's democratic consolidation: before this, elections had been open, but party rotation had never occurred; after 2000, "parties can rotate" became a concrete fact of Taiwan's democracy.
 
-## Primer mandato: bases de derechos humanos y democracia
+## First Term: Foundation of Human Rights and Democratic Legislation
 
-Chen Shui-bian afrontó un Yuan Legislativo "minoritario": el PDP no tenía mayoría y debía negociar entre partidos. Aun así, este mandato dejó leyes capitales en la historia jurídica de Taiwán.
+Chen Shui-bian's first term faced a "small president, large opposition" legislature—the DPP did not hold a majority in the Legislative Yuan, so policy advancement relied on cross-party negotiation. Despite this, these four years left several important legislations in Taiwan's legal history.
 
-**2002: ingreso en la OMC.** Como "Territorio aduanero distinto de Taiwán, Penghu, Kinmen y Matsu", Taiwán se incorporó a la OMC y consolidó su posición en las reglas del comercio global, además de aportar marco jurídico para la inserción industrial en cadenas de suministro internacionales.
+**In 2002, Taiwan joined the World Trade Organization (WTO).** Completed under the name "Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu," strengthening Taiwan's position under global trade rules and providing a legal framework for connecting Taiwan's industries to international supply chains.
 
-**2003: Ley de Referéndum.** Primera ley de referéndum de la historia de Taiwán; sienta la base legal de la democracia directa. Antes no existía ningún mecanismo de referéndum; se considera el inicio de la institucionalización de la democracia directa.[^4]
+**In 2003, the Referendum Act was passed.** This was the first referendum law in Taiwan's history, establishing the legal foundation for direct democracy. Previously, Taiwan had no citizen referendum system; the passage of the Referendum Act allowed the mechanism for people to directly express their will on major policies to enter the law for the first time, viewed by democratization researchers as the starting point of Taiwan's institutionalized direct democracy. [^4]
 
-**2004: Ley de Igualdad de Género en la Educación.** Obliga a las escuelas a establecer mecanismos de igualdad de género, prohíbe la discriminación y crea procedimientos de queja. Hito en la institucionalización de la igualdad de género en los centros educativos.
+**In 2004, the Gender Equality Education Act was passed.** Required all levels of schools to establish gender equality education mechanisms, prohibited gender discrimination, and established complaint systems. This was a milestone in the legalization of gender equality in Taiwan's campuses.
 
-**2005: Ley Básica de Pueblos Indígenas.** La ley fundamental más importante en la protección de derechos indígenas en Taiwán: estatus legal de los territorios tradicionales, autonomía colectiva sobre lengua, cultura y educación, marco jurídico para la política indígena. Resultado de años de incidencia.[^5]
+**In 2005, the Indigenous Peoples Basic Act was passed.** It is the most important foundational legislation for protecting indigenous peoples' rights in Taiwan. It established the legal status of indigenous peoples' traditional territories, guaranteed collective autonomy of language, culture, and education, providing a legal framework for Taiwan's indigenous policies, completing legislation after years of advocacy. [^5]
 
-> **📝 Legislación de derechos humanos del primer mandato (2000-2004)**
+> **📝 Key Human Rights Legislation of the First Term (2000–2004)**
 >
-> - **Ley de Referéndum (2003)**: primera ley de referéndum, mecanismo de democracia directa.
-> - **Ley de Igualdad de Género en la Educación (2004)**: base legal de la igualdad de género en las aulas.
-> - **Ley Básica de Pueblos Indígenas (2005)**: derechos colectivos de los pueblos indígenas.
-> - **Reforma de la Ley de Educación de los Pueblos Indígenas (2007)**: protección reforzada de la lengua y la cultura.
+> The legislations passed during Chen Shui-bian's first term laid several foundations in Taiwan's legal history:
 >
-> Sumando el ingreso en la OMC (2002), la nacionalización del ejército, la transparencia gubernamental, los ajustes en el currículo histórico y la política plurilingüe, este mandato se centró en "completar el sistema democrático que la transición había dejado a medias".
+> - **2003 Referendum Act**: Taiwan's first referendum law, establishing a direct democracy mechanism.
+> - **2004 Gender Equality Education Act**: The legal basis for campus gender equality systems.
+> - **2005 Indigenous Peoples Basic Act**: The fundamental law establishing the collective rights of indigenous peoples.
+> - **2007 Amendment of the Indigenous Peoples Education Act**: Strengthened educational guarantees for indigenous languages and cultures.
+>
+> Coupled with broader WTO accession (2002), militarization of the military, government information disclosure, history curriculum adjustments, and multi-language policies—the focus of this term's administration was "completing Taiwan's institutional framework from a semi-finished product at the end of authoritarianism to what a democratic nation should look like."
 
-La nacionalización del ejército y el liderazgo civil son una contribución democrática poco mencionada, pero crucial. Antes, la influencia del KMT permeaba toda la cadena de mando; tras él, la palabra "ejército del partido" desapareció del debate público.
+The promotion of military nationalization and civilian leadership was a less frequently mentioned but extremely important contribution to democratic consolidation in Chen Shui-bian's administration. Before him, the KMT's influence penetrated every layer of the military chain of command; after him, the term "party army" completely exited public discourse.
 
-## Movimiento por el "renombrar Taiwán"
+## Taiwan Naming Movement
 
-A partir de 2003, su gobierno impulsó cambios de nombre en empresas y servicios estatales:
+Starting in 2003, the Chen Shui-bian administration promoted a series of "Taiwan Naming Movements," changing the names of some state-owned institutions:
 
-- "Chunghwa Post" → "Taiwan Post".
-- "Aeropuerto Internacional de Chung Cheng" → "Aeropuerto Internacional de Taoyuan, Taiwán".
-- Aumento del tamaño de la palabra "TAIWAN" en la portada de los pasaportes.
+- "China Post" renamed "Taiwan Post"
+- "Chung Cheng International Airport" renamed "Taiwan Taoyuan International Airport"
+- Passport cover "TAIWAN" text enlarged
 
-Para sus partidarios, era una vía necesaria para que Taiwán fuera reconocida internacionalmente; para los detractores, una provocación a Pekín que agravaba la tensión. Algunos nombres se mantuvieron, otros volvieron a cambiarse.
+Supporters believed this was a necessary step to make Taiwan clearly identifiable internationally; opponents believed the renaming actions provoked Beijing and intensified cross-strait tensions. Some of these naming changes were continued by subsequent governments, while others were changed again.
 
-Durante sus ocho años, la identidad como "taiwanés" pasó de cerca del 30 % a alrededor del 70 %. Chen empujó esos proyectos de identidad para que la idea de "Taiwán es un país soberano" se hiciera mainstream; el coste fue una división de posiciones políticas que aún no ha cicatrizado.
+During the eight-year term of governance, the percentage of people identifying as Taiwanese rose from about 30% to 70%. Chen Shui-bian personally promoted these identity projects, making the perception that "Taiwan is a sovereign state" mainstream—this also plunged Taiwanese society into a stance division that remains difficult to heal today.
 
-## Discurso a través del estrecho: "un país a cada lado"
+## Cross-Strait Discourse: One Country on Each Side
 
-En 2002, en una videoconferencia, Chen formuló "Taiwán y China, un país a cada lado", afirmando con claridad que Taiwán y China son dos países distintos. La declaración chocó con los "cuatro no y un sin" iniciales y desató una fuerte respuesta de Pekín, además de preocupar a Washington por la situación en el estrecho.
+In 2002, Chen Shui-bian proposed "Taiwan, China, one country on each side" in a video speech, explicitly declaring that Taiwan and China are two different countries. This discourse contrasted with the cautious wording of his inauguration "Four No's," triggering a strong reaction from Beijing and causing concern in the United States regarding the situation in the Taiwan Strait.
 
-En la última fase del segundo mandato avanzó hacia los "cuatro sí y un sin": sí a la independencia, sí al renombramiento, sí a una nueva constitución, sí al desarrollo, sin problemas de izquierda-derecha. Promovió el "referéndum para el ingreso en la ONU". En diplomacia surgió la polémica del "viaje errante", y los tránsitos por EE. UU. tensaron las relaciones con Washington.
+In the later part of his second term, he further proposed the "Four Needs and One Without": need for independence, need for renaming, need for a new constitution, need for development, without issues of left-right ideological lines. He simultaneously promoted the "Taiwan UN Referendum." Diplomatically, there were controversies over "detour diplomacy," and arrangements for transiting the United States became tense with Washington.
 
-Su política de las dos orillas —centrada en la subjetividad taiwanesa y en la presencia internacional independiente— contrasta nítidamente con el "consenso de 1992" del posterior [[Ma Ying-jeou]], el contraste más vívido en la política taiwanesa hacia China. Distintos votantes valoran esa etapa de modos opuestos: refleja que la sociedad taiwanesa aún no ha sellado un consenso sobre la pregunta básica "¿qué es Taiwán?".
+The cross-strait path he promoted—centered on Taiwan's subjectivity, emphasizing Taiwan's independent existence internationally—forms the most distinct contrast in cross-strait policy with the "Nine-Point Consensus" path of his successor, [[Ma Ying-jeou]]. Different voters have entirely different evaluations of this history, reflecting the reality that Taiwanese society has not yet fully consolidated a consensus on the fundamental question of "what Taiwan is."
 
-## 2004: el disparo previo a la elección
+## 2004 Re-election: The Gunshot Before the Vote
 
-El 19 de marzo de 2004, día previo a las elecciones, Chen y la vicepresidenta Annette Lu fueron tiroteados durante un acto de campaña en Tainan; ambos resultaron heridos leves. Al día siguiente, Chen fue reelegido con el 50,11 % y solo 0,22 % de margen.[^6]
+On March 19, 2004, the day before voting, Chen Shui-bian and Vice President Liu Hsiu-lien were shot while canvassing in Tainan, both sustaining minor injuries. The following day, Chen Shui-bian was successfully re-elected with 50.11% of the vote, a margin of 0.22%. [^6]
 
-La investigación del tiroteo ha sido controvertida y aún hoy no está completamente esclarecida. La oposición lo cuestionó y exigió recuento; sus partidarios lo vieron como un intento de magnicidio. La sociedad taiwanesa interpreta este suceso desde la línea de fractura política y queda como uno de los episodios cuya verdad sigue en debate.
+The investigation process of the shooting incident was full of controversies and has not been fully clarified to this day. The opposition questioned the event's impact on the election and demanded a recount; supporters viewed it as an attempted political assassination. Taiwanese society's interpretation of this event remains split along political lines, making it one of the few political events in modern Taiwan's history where the truth is still controversial.
 
-## Segundo mandato: tormenta política
+## Second Term: Political Storm
 
-2006 fue el punto de inflexión. Se cuestionó el uso de los "gastos discrecionales presidenciales"; salieron a la luz casos de personas cercanas (caso SOGO, compra de terrenos en Longtan). El expresidente del PDP [[Shih Ming-teh]] convocó el "Movimiento del Millón para derribar a Bian": durante semanas, la avenida Ketagalan se llenó pidiendo su dimisión.
+2006 was the turning point of the second term. The use of the State Opera Fund was questioned, and corruption cases involving close associates emerged (including the SOGO case and the Longtan land purchase case). Former DPP Chairman [[Shih Ming-teh]] launched the "One Million People Anti-Bian" demonstration movement, gathering for weeks on the Ketagalan Boulevard, demanding Chen Shui-bian's resignation.
 
-La tormenta paralizó casi por completo la acción de gobierno y dejó una cicatriz social profunda. En paralelo, en 2003, durante el SARS, había estallado el caso de la cuarentena del Hospital de la Paz: otra crisis transversal de su carrera.
+This political storm nearly brought Chen Shui-bian's administration to a standstill and left a deep mark of social polarization in Taiwan. Concurrently, the Peace Hospital quarantine incident during the 2003 SARS epidemic was another cross-term crisis management mark.
 
-Pese a la tormenta, en este mandato se completaron o iniciaron grandes obras:
+But even amidst the storm, major public construction was completed or launched during this term:
 
-- Túnel de Hsuehshan (2006).
-- Tren de Alta Velocidad de Taiwán (línea completa, 2007).
-- Desarrollo del Parque Científico Central.
-- Saneamiento del río Keelung.
-- MRT de Kaohsiung.
+- Xueshan Tunnel (opened in 2006)
+- Taiwan High Speed Rail (fully opened in 2007)
+- Development of the Central Science Park
+- Keelung River remediation
+- Kaohsiung Metro
 
-> **📝 Nota de la curadora**
-> El segundo mandato es el caso típico que el debate público taiwanés "no puede valorar separando": el mismo periodo concentra el discurso identitario más fuerte, los escándalos más graves y las grandes infraestructuras. Cualquier marco unilateral (éxito/fracaso, progreso/corrupción) deja fuera la mitad de la verdad.
+> **📝 Curator's Note**
+> Chen Shui-bian's second term is a typical case where Taiwan's public discussion "cannot be evaluated separately": the same term had the strongest cross-strait identity discourse, the most serious corruption storm, and the largest scale of infrastructure delivery. Any single framework (success/failure, progress/corruption) would miss half the truth of this term.
 
-## Tras el cargo: los procesos judiciales
+## Post-Resignation Judicial Cases
 
-El 20 de mayo de 2008, Chen dejó el poder. Dos meses después, la fiscalía abrió diligencias. En 2009, una primera instancia lo condenó a 20 años por corrupción y blanqueo; tras múltiples recursos, la condena se confirmó en el caso de la compra de terrenos de Longtan: Chen se convirtió en el primer expresidente de la República de China en estar bajo custodia y condenado a prisión. El proceso afectó a miembros de la "primera familia" (Wu Shu-chen, Chao Chien-ming, etc.) y ha sido foco perdurable del debate sobre independencia judicial e injerencia política.
+On May 20, 2008, Chen Shui-bian resigned. Two months later, prosecutors launched an investigation. In 2009, he was sentenced to 20 years in prison in the first instance for crimes such as embezzlement and money laundering. The case was finally settled in the third instance regarding the Longtan land purchase case—Chen Shui-bian became the first former President of the Republic of China to be imprisoned and sentenced. The case involved members of the First Family (Wu Shu-zhen, Chao Chien-ming, etc.) and has long been a focal point in discussions of Taiwan's judicial independence and political interference.
 
-En enero de 2015 obtuvo la libertad provisional por motivos médicos, situación que se mantiene.
+In January 2015, he was granted medical parole on health grounds, remaining in a state of medical parole since then.
 
-Sus partidarios sostienen que el proceso tuvo defectos y un componente de persecución política; sus críticos consideran que las sentencias son funcionamiento normal del Estado de derecho. El caso es uno de los más citados al hablar de la independencia judicial taiwanesa.
+His supporters have always argued that the judicial process was flawed and that the case was mixed with political persecution factors; critics believe the court's judgment was the normal operation of Taiwan's rule of law. This case has become a continuously cited example in discussions of Taiwan's judicial independence.
 
-## Vitalidad "estilo Bian" en la era digital: memes en Threads
+## Digital Era's "Bian-style Vitality": Meme Interaction on Threads
 
-En los últimos años, Chen Shui-bian ha demostrado una sorprendente capacidad de adaptación digital. En Threads interactúa muy a menudo con los internautas y se ha ganado el apodo de "rey del meme infernal a nivel presidencial".
+In recent years, Chen Shui-bian has shown amazing digital adaptability. He interacts very frequently with netizens on Threads, earning the nickname "Presidential-level Hell Meme King" from netizens.
 
-En abril de 2026 respondió en Threads a la pregunta "lo más bestia de tu vida" diciendo: "Pasar de pobre de tercer grado a alcalde de la capital antes de los 50, y a presidente antes de los 50". El mensaje generó muchísima interacción. Cuando un usuario bromeó preguntando si la cuenta la llevaba un community manager, él enseñó el móvil y se autoparodió por las acusaciones de "manipulación" del pasado: ese estilo "self-meme" ha atraído inesperadamente a muchas personas jóvenes que no vivieron su mandato.[^7]
+In April 2026, when responding to a netizen's question about "the coolest thing in life" on Threads, he bluntly stated, "Becoming a mayor before the age of 50 as a level-three poor person, becoming president before the age of 50," attracting massive interaction in a short time. When a netizen jokingly asked if the account was operated by a staff member, he directly showed his phone and self-deprecated about past "smear" incidents—this "self-contained meme" style unexpectedly attracted a large number of young generations who had not experienced his presidency. [^7]
 
-Del salto desde la pobreza al desafío al autoritarismo, al preso por corrupción y al meme de la era social: su trayectoria comprime en un solo cuerpo todos los recodos de la transición democrática taiwanesa.
+From the counterattack of a level-three poor household, to the challenger in the authoritarian era, to the prisoner深陷 in corruption cases, and finally to the meme symbol in the social media era—his trajectory compresses all the twists and turns of Taiwan's democratic transition into a single body.
 
-## Lo que queda
+## What Remains
 
-Personas con posiciones distintas llegarán a conclusiones opuestas sobre Chen Shui-bian. Pero hay hechos concretos:
+Evaluating Chen Shui-bian, people from different standpoints will reach entirely different conclusions. But there are several things that are concretely verifiable:
 
-Una Ley de Referéndum que dio a la ciudadanía herramientas legales de democracia directa. Una Ley Básica de Pueblos Indígenas que, por primera vez en siglos, blindó derechos colectivos para comunidades marginadas. Una Ley de Igualdad de Género en la Educación que normó la igualdad en las aulas. La línea Muzha del MRT abrió cuando él era alcalde. El ingreso en la OMC se completó en su mandato. El Túnel de Hsuehshan y el HSR comenzaron a operar con él presidente. La nacionalización del ejército se hizo realidad.
+A _Referendum Act_ gave people a legal tool for direct democracy. An _Indigenous Peoples Basic Act_ gave a marginalized ethnic group for centuries the first legal guarantee of collective rights. A _Gender Equality Education Act_ gave clear norms for campus gender equality. The Taipei Metro Muzha Line opened during his term as Mayor. Taiwan joined the WTO during his presidency. The Xueshan Tunnel and Taiwan High Speed Rail opened during his presidency. Military nationalization became a fact during his term.
 
-Y, sobre todo, lo que estableció en 2000: en Taiwán, un partido que llevaba 55 años en el poder podía perder el poder con los votos.
+More fundamentally, what he established in 2000 was this: In Taiwan, a party that had governed for 55 years can be voted out of office.
 
-Aquel año, los taiwaneses supieron por primera vez que esto era verdad.
+In that year, Taiwanese people first knew that this was true.
 
-## Lectura ampliada
+## Further Reading
 
-- [[Su Tseng-chang]] — compañero del equipo de defensa del Incidente de Formosa; después premier.
-- [[Frank Hsieh]] — compañero del mismo equipo; después premier.
-- [[Annette Lu]] — vicepresidenta 2000/2004.
-- [[Shih Ming-teh]] — protagonista del Incidente de Formosa; después presidente del PDP; impulsó el movimiento contra Chen en 2006.
-- [[Ma Ying-jeou]] — derrotó a Chen en la alcaldía en 1998; presidente desde 2008.
-- [[Incidente de Formosa]] — el gran juicio de 1979 dio a luz a una nueva generación política.
-- [[Partido Democrático Progresista]] — Chen, miembro fundador y primer presidente del partido en el cargo.
-- [[Proceso de democratización de Taiwán]] — la alternancia como nodo clave de consolidación.
+- [[Su Tseng-chang]] — Formosa Incident trial defense team partner, later Premier
+- [[Hsieh Chang-ting]] — Formosa Incident trial defense team partner, later Premier
+- [[Liu Hsiu-lien]] — Vice President 2000 / 2004
+- [[Shih Ming-teh]] — Main figure in the Formosa Incident, later DPP Chairman, initiator of the 2006 Anti-Bian movement
+- [[Ma Ying-jeou]] — Defeated Chen Shui-bian to become Mayor of Taipei in 1998, succeeded as President in 2008
+- [[Formosa Incident]] — The 1979 trial spawned a new generation of politicians
+- [[Democratic Progressive Party]] — Founding member, first ruling party President
+- [[Taiwan Democratization Process]] — Party rotation as a key node in democratic consolidation
 
-## Referencias
+## References
 
-[^1]: [Datos de presidentes – Oficina de la Presidencia](https://www.president.gov.tw/AboutThePresident/Presidents)
+[^1]: [Presidential Office Former Presidents Data — Chen Shui-bian](https://www.president.gov.tw/AboutThePresident/Presidents) — Official biography data.
 
-[^2]: [Comisión Central de Elecciones – Histórico electoral](https://web.cec.gov.tw/central) — alcaldía de Taipéi 1994.
+[^2]: [Central Election Commission — Historical Election Database](https://web.cec.gov.tw/central) — 1994 Taipei Mayor election vote results.
 
-[^3]: [Comisión Central de Elecciones – Histórico electoral](https://web.cec.gov.tw/central) — presidenciales 2000.
+[^3]: [Central Election Commission — Historical Election Database](https://web.cec.gov.tw/central) — 2000 Presidential election three-way vote statistics.
 
-[^4]: [Sistema Legal del Yuan Legislativo – Ley de Referéndum](https://lis.ly.gov.tw/lglawc/lglawkm) — proceso legislativo y texto.
+[^4]: [Legislative Yuan Legal System — Referendum Act](https://lis.ly.gov.tw/lglawc/lglawkm) — 2003 legislative process and full text.
 
-[^5]: [Consejo de Pueblos Indígenas del Yuan Ejecutivo – Ley Básica de Pueblos Indígenas](https://www.apc.gov.tw/portal/docDetail.html?CID=940F9579765AC6A0&DID=0C3331F0EBD318C4)
+[^5]: [Council of Indigenous Peoples — Indigenous Peoples Basic Act](https://www.apc.gov.tw/portal/docDetail.html?CID=940F9579765AC6A0&DID=0C3331F0EBD318C4) — 2005 legislative data and articles.
 
-[^6]: [Comisión Central de Elecciones – Histórico electoral](https://web.cec.gov.tw/central) — presidenciales 2004.
+[^6]: [Central Election Commission — Historical Election Database](https://web.cec.gov.tw/central) — 2004 Presidential election vote statistics.
 
-[^7]: [Cuenta de Threads de Chen Shui-bian](https://www.threads.net/@chenshuibian88) — interacción digital del expresidente.
+[^7]: [Chen Shui-bian Threads Account](https://www.threads.net/@chenshuibian88) — Digital interaction trail of the former president.
 
-⚠️ **Notas pendientes de revisión**: la versión PR original incluía 20 URLs raíz sin página específica; se han mantenido las 7 fuentes verificadas. En sucesivas revisiones se añadirá: (1) cobertura específica de los casos del río Bachang, suspensión de la cuarta nuclear y primera reforma financiera; (2) páginas concretas del Gobierno municipal o de medios sobre la reforma de "sonríe y ofrece té + mostradores 70 cm + ISO + NHK"; (3) sentencias judiciales en los casos de gastos discrecionales, SOGO y Longtan; (4) enlaces concretos de Threads y noticias para el segmento digital.
+⚠️ **This article's footnotes need subsequent detailed refinement**: The original PR submission version contained 20 root URLs (such as `drnh.gov.tw` / `gov.taipei` / `nhk.or.jp`) that did not point to specific pages, and has been replaced with 7 verified sources from the existing version. The next round of polish should add: (1) specific report sources for the Bazan Stream incident / Nuclear Four suspension / First Financial Reform; (2) specific pages of Taipei City Government or news reports for the "Smiling Tea Service + 70 cm Counter + ISO + NHK" reform; (3) court judgment citations for the State Opera Fund / SOGO case / Longtan land purchase case; (4) specific post URLs and news sources for the Threads interaction section.

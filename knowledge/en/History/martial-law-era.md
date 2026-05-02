@@ -1,6 +1,6 @@
 ---
-title: 'The Martial Law Era'
-description: 'On May 19, 1949, Chen Cheng proclaimed the Taiwan Provincial Martial Law Decree. Thirty-eight years later, on July 15, 1987, Chiang Ching-kuo announced its lifting. The Kinmen-Matsu area did not lift martial law until 1992. What did those five years cost?'
+title: 'Martial Law Era'
+description: 'On May 19, 1949, Chen Cheng issued the Taiwan Province martial law decree. 38 years later, on July 15, 1987, Chiang Ching-kuo announced its lifting. The Kinmen-Matsu region was not lifted until 1992. What did they live through in those five years?'
 date: 2026-03-17
 tags:
   ['martial law', 'authoritarianism', 'White Terror', 'transitional justice']
@@ -9,136 +9,137 @@ category: 'History'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-04
-lastHumanReview: true
+lastHumanReview: false
 translatedFrom: 'History/戒嚴時期.md'
-sourceCommitSha: '6ac22c3f'
-sourceContentHash: 'sha256:b7dd7f39a026b6ab'
-translatedAt: '2026-05-01T12:21:52+08:00'
+sourceCommitSha: '8084798e'
+sourceContentHash: 'sha256:e5dd33be9144a0af'
+translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 
-# The Martial Law Era
+# Martial Law Era
 
-> **30-Second Overview:** On May 19, 1949, Chen Cheng — Taiwan Provincial Governor and Commander-in-Chief of the Taiwan Garrison — proclaimed the Taiwan Provincial Martial Law Decree, taking effect at midnight on May 20. This decision placed Taiwan under one of the world's longest martial law periods: 38 years and 56 days, until Chiang Ching-kuo announced its lifting on July 15, 1987. The Kinmen-Matsu area did not lift martial law until November 7, 1992 — five years after the main island of Taiwan.
+> **30-second overview:** On May 19, 1949, Chen Cheng, then Chairman of the Taiwan Provincial Government and concurrently Garrison Commander, issued the "Taiwan Province Martial Law Decree," which took effect at midnight on May 20. This decision put Taiwan under martial law for 38 years and 56 days, until July 15, 1987, when Chiang Ching-kuo announced its lifting. The Kinmen-Matsu region's martial law was not lifted until 1992 — five years later than the main island of Taiwan.
 
-> **Curator's Note**
-> The martial law era has never truly receded for many families — the stories of 140,000 victim families are alive and present, and they have not yet been fully told.
+> **📝 Curator's note**
+> For many families, the martial law era has never receded — the stories of 140,000 victim families live on, and they have never been fully told.
 
-## The Night They Came for Lei Chen
+## The Night Lei Chen Was Imprisoned
 
-In the early hours of April 28, 1960, agents knocked on Lei Chen's door[^1]. This political scientist, who had declared his candidacy for president in the Republic of China's 49th year (1960), was arrested on charges of "harboring communist agents." His wife, Chao Ju-ying, wept at the door as Lei turned back and told her: "Don't cry. I'll be back."
+In the early hours of April 28, 1960, secret police knocked on Lei Chen's door[^1]. This political scientist who had run for president in 1960 was arrested on charges of "harboring communist spies." His wife Chao Ju-ying cried out outside the door; Lei Chen turned back and said to her: "Don't cry, I'll come back."
 
-He did not come back. Lei Chen spent 11 years in prison, released only in 1970. During those 11 years, Taiwan was under martial law.
+He didn't come back. Lei Chen spent 11 years in prison, not released until 1970. During those 11 years, Taiwan was under martial law.
 
-> **✦** "A plain-text BBS from 30 years ago is still influencing Taiwanese politics today." The martial law era is the key to understanding modern Taiwan's political development — yet few people ask: how could martial law last 38 years?
+> **✦** "A pure-text BBS from 30 years ago is still influencing Taiwanese politics today." The martial law era is the key to understanding Taiwan's modern political development, but few ask: why was martial law able to last 38 years?
 
-## 38 Years of Martial Law
+## The 38-Year Martial Law Decree
 
-In 1949, the Chinese Civil War was nearing its end. The Kuomintang (KMT) suffered consecutive defeats in the Liaoshen, Huaihai, and Beiping-Tianjin campaigns, with catastrophic losses to its elite forces[^2]. Facing the deteriorating situation on the mainland, Chiang Kai-shek began developing a "protect Taiwan" strategy.
+In 1949, the Chinese Civil War entered its final stages. The KMT suffered successive defeats in three major campaigns — Liaoshen, Huaihai, and Pingjin — losing crack troops in heavy losses[^2]. Facing the worsening situation on the mainland, Chiang Kai-shek began considering a "defend Taiwan" strategy.
 
-On May 19, Taiwan Provincial Governor and Garrison Commander Chen Cheng proclaimed the Taiwan Provincial Martial Law Decree. At midnight on May 20, martial law took effect.
+On May 19, Chen Cheng, Chairman of the Taiwan Provincial Government and concurrently Garrison Commander, issued the _Taiwan Province Martial Law Decree_. At midnight on May 20, martial law formally took effect.
 
-This decision launched what would become one of the world's longest martial law periods: 38 years and 56 days, until Chiang Ching-kuo announced the lifting on July 15, 1987.
+This decision pushed Taiwan into one of the longest periods of martial law in world history. 38 years and 56 days, until July 15, 1987, when Chiang Ching-kuo announced its lifting.
 
-**The legal basis for martial law:** The Martial Law Act stipulated that "during the period of declared martial law, the highest commanding officer of the martial law zone shall exercise administrative and judicial powers."[^3] The Taiwan Garrison Command became the central institution implementing martial law in practice, wielding broad administrative and judicial authority.
+**Legal basis of martial law**: The _Martial Law Act_ stipulated that "during the period of declared martial law, the highest commander in the martial law area is in charge of administrative and judicial affairs"[^3]. The Taiwan Garrison Command became the core agency actually executing martial law, holding broad administrative and judicial powers.
 
-> **Curator's Note**
-> During the martial law period, the government issued more than 30 control decrees, severely restricting the constitutional freedoms of the people. Freedom of assembly, freedom of association, freedom of speech, freedom of movement, personal liberty — almost every fundamental human right was stripped away.
+> **📝 Curator's note**
+> During the martial law period, the government issued more than 30 control regulations, severely restricting the freedoms granted to citizens by the Constitution. Freedom of assembly, association, speech, movement, personal freedom — almost all basic human rights were stripped away.
 
 ## The Scale of the White Terror
 
-Martial law was accompanied by severe political persecution, known as the "White Terror." In the name of anti-communism, the government conducted mass arrests, trials, imprisonments, and executions of political dissidents.
+The martial law period was accompanied by severe political persecution, known as the "White Terror." In the name of anti-communism, the government carried out mass arrests, trials, imprisonment, or execution of political dissidents.
 
-According to official Ministry of Justice data, during the 38 years of martial law, military tribunals handed down criminal judgments in 29,407 cases involving non-serving military personnel[^4]. Civil society estimates put the number of people implicated in politically related cases at approximately 140,000, with an estimated 4,500 executions.
+According to official Ministry of Justice data, during 38 years of martial law, military tribunals adjudicated 29,407 criminal cases involving non-active-duty military personnel[^4]. Civilian statistics show that political cases involved approximately 140,000 people, with estimates of around 4,500 executed.
 
-The Taiwan Association for Truth and Reconciliation has documented 1,061 individuals executed under death sentences during the martial law period (as of 2013)[^5].
+The Taiwan Association for Truth and Reconciliation counted 1,061 death-penalty victims during the martial law period (as of 2013)[^5].
 
-> **Data Sources**
-> The Ministry of Justice records 29,407 military tribunal cases during martial law. Civil estimates suggest approximately 140,000 victims, with 1,061 to 4,500 executed.
+> **📊 Data source**
+> The Ministry of Justice statistics show 29,407 military tribunal cases during the martial law period; civilian statistics show approximately 140,000 victims, with executions of 1,061–4,500.
 
-### Landmark Political Cases
+### Notable Political Cases
 
-The Lei Chen case, the Formosa Incident, the Lin Family Massacre, the Chen Wen-chen case, and the Liu Yi-liang (Henry Liu) case. These five became symbols of the martial law era. Lei Chen was imprisoned for 11 years; Lin Yi-hsiung was imprisoned for 8 years; Liu Yi-liang was assassinated in San Francisco. Behind each case, countless families were shattered.
+The Lei Chen Case, the Kaohsiung Incident, the Lin Family Massacre, the Chen Wen-chen Case, the Chiang Nan Case. These five cases became symbols of the martial law era. Lei Chen was imprisoned 11 years, Lin Yi-hsiung detained 8 years, Liu Yi-liang murdered in San Francisco. Behind every case were countless shattered families.
 
-> **Contested Points**
-> Precise figures for the White Terror vary across sources. Official statistics suggest about 140,000 were implicated; civil society organizations estimate the number may reach 200,000.
+> **⚠️ Contested view**
+> On the specific numbers of the White Terror, sources differ. Official statistics put it at about 140,000 affected, but civic groups estimate it could reach 200,000.
 
-## The Mutual Guarantee System
+## The Joint Surety System
 
-Beginning in July 1949, Taiwan implemented a comprehensive mutual guarantee (連坐保證) system[^6]. Government employees were required to have guarantors before being hired; the system gradually extended to virtually every institution in society, becoming a political screening mechanism covering the vast majority of the population. It made every person a potential informer: if your guarantor "caused trouble," you could be implicated as well.
+Starting in July 1949, Taiwan implemented a comprehensive joint surety (連坐保證) system[^6]. Government employees needed guarantors to be hired; the system gradually extended to all institutions in society, becoming a political vetting system covering the vast majority of the population. This system made everyone potentially an informer. If your guarantor "had a problem," you'd be implicated too.
 
-> **Curator's Note**
-> From the Lei Chen case to the Liu Yi-liang assassination, every case left countless families shattered. The destructive force of political persecution lay not only in the arrests and executions, but in keeping the entire society in a sustained state of fear.
+> **📝 Curator's note**
+> From the Lei Chen Case to the Chiang Nan Case, behind every case were countless shattered families. The destructive power of political persecution lay both in the arrests and executions, and in keeping the entire society living continually in fear.
 
-## The Path to Lifting Martial Law
+## The Process of Lifting Martial Law
 
-On July 14, 1987, President Chiang Ching-kuo issued a presidential decree announcing that the martial law decree in the Taiwan region would be lifted as of midnight on July 15[^7]. Thirty control-related decrees were simultaneously repealed; 237 individuals who had been tried by military court during the martial law period received sentence reductions or releases; the bans on forming new political parties and on new newspapers were lifted.
+On July 14, 1987, President Chiang Ching-kuo issued a presidential order, declaring that from midnight on July 15, the martial law decree over the Taiwan area would be lifted[^7]. At the same time, 30 related laws from the martial law period were abolished, 237 people who had been court-martialed during martial law were granted commutation or release, and the bans on political parties and newspapers were lifted.
 
-The decision was not sudden. Domestic and international factors converged: shifts in the Cold War landscape, pressure from the democracy movement, the growth of a middle class driven by economic development, and a leadership decision to pursue political reform.
+The decision to lift martial law was not sudden. Domestic and international factors converged. Changes in the Cold War order, pressure from the democratic movement, the growth of a middle class brought by economic development, leaders' political reform decisions.
 
-The lifting of martial law meant more than its literal text: it was Taiwan's turning point from authoritarianism to democracy.
+The meaning of lifting martial law exceeded its words: it was the turning point of Taiwan's transition from authoritarianism to democracy.
 
-> **✦** "Lifting martial law was a door. The real democracy started walking from that moment."
+> **✦** "Lifting martial law was a door — true democracy only began walking from that moment."
 
-## The Kinmen-Matsu Five Years
+## The Five Years of Kinmen-Matsu
 
-After the martial law decree was lifted on the main island, Taiwan entered a new era. But the Kinmen-Matsu area did not lift martial law until November 7, 1992[^8]. Those five years — what did the people of Kinmen and Matsu experience?
+After martial law was lifted, the main island of Taiwan entered a new era. But Kinmen-Matsu didn't have its martial law lifted until November 7, 1992[^8]. Those five years — what did the people of Kinmen-Matsu live through?
 
-Duration under martial law: 38 years and 56 days on the main island; 43 years for the Kinmen-Matsu area.
+Duration of martial law: 38 years 56 days for the main island of Taiwan; 43 years for Kinmen-Matsu.
 
-The last political prisoners: Lin Shu-yang and Li Chin-mu were released in December 1984, having served 34 years and 7 months.
+Last political prisoners: In December 1984, Lin Shu-yang and Li Chin-mu were released after 34 years and 7 months in prison.
 
-> **Curator's Note**
-> Kinmen and Matsu lifted martial law five years after the main island of Taiwan. During those five years — did the people of Kinmen and Matsu know that the main island had already ended martial law?
+> **📝 Curator's note**
+> Kinmen-Matsu's martial law was lifted five years later than the main island. In those five years, what did the people of Kinmen-Matsu live through? Did they know that the main island had already lifted martial law?
 
-## The Martial Law Legacy
+## Legacy of Martial Law
 
-The political legacy of the martial law period continues to influence Taiwan. Authoritarian thinking, polarized opposition, complex questions of identity — these are all inheritances of the martial law era.
+The political legacy left by the martial law era still influences Taiwan today. Authoritarian thinking, polarized opposition, complex identity issues. These are all legacies of the martial law era.
 
-Transitional justice has become the effort to confront this history: investigating human rights violations during the authoritarian period, compensating political victims, and preserving historical testimony from the martial law years.
+Transitional justice has become an effort to face this history: investigating human rights violations during the authoritarian period, providing compensation to political victims, preserving historical witness from the martial law era.
 
-The experience of martial law has become an important reference point in Taiwan's democratic development: respect for fundamental human rights, insistence on rule of law, active participation by civil society.
+The experience of martial law has become an important reference for Taiwan's democratic development: emphasis on basic human rights, insistence on rule of law, vibrant civil society participation.
 
-> **Curator's Note**
-> The martial law era is a dark chapter in Taiwan's history — but it was also the catalyst for the awakening of democratic consciousness. Remembering this history is the commitment to ensuring such tragedies do not recur.
+> **📝 Curator's note**
+> The martial law era is a dark chapter in Taiwan's history, but also a catalyst for the awakening of democratic consciousness. To remember this history is to ensure similar tragedies do not repeat.
 
-## Closing
+## Ending
 
-At midnight on July 15, 1987, the martial law decree was officially lifted. That night, Taiwan's streets heard no firecrackers, saw no celebrations — only countless families watching the news in silence on television. An era had ended.
+At midnight on July 15, 1987, the martial law decree was formally lifted. That night, on Taiwan's streets there were no firecrackers, no celebrations — only countless families silently watching the news in front of their TV sets. An era ended.
 
-But the people of Kinmen and Matsu did not yet know. They would have to wait five more years.
+But the people of Kinmen-Matsu didn't know yet. They still had to wait another five years.
 
-If someone in 2050 wants to know what Taiwanese people cared about in 1987, what they may read is files like this one.
+If, in 2050, someone wants to know what Taiwanese in 1987 cared about, what they read may well be these Markdown files.
 
 ---
 
 ## References
 
-[^1]: [Lei Chen — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Chen, political scientist who declared presidential candidacy in the ROC's 49th year, imprisoned for 11 years on charges of "harboring communist agents."
+[^1]: [Lei Chen - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%9B%B7%E9%9C%87) — Lei Chen, the political scientist who ran for president in 1960, was imprisoned 11 years on charges of "harboring communist spies."
 
-[^2]: [Taiwan Provincial Martial Law Decree — Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Martial law proclaimed May 19, 1949, taking effect at midnight on May 20.
+[^2]: [Taiwan Province Martial Law Decree - Wikipedia](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E7%9C%81%E6%88%92%E5%9A%B4%E4%BB%A4) — Issued May 19, 1949, taking effect at midnight on May 20.
 
-[^3]: [Martial Law Act — Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%92%E5%9A%B4%E6%B3%95) — The law granting the zone's highest commanding officer authority over administrative and judicial matters during martial law.
+[^3]: [Martial Law Act - Wikipedia](https://zh.wikipedia.org/wiki/%E6%88%92%E5%9A%B4%E6%B3%95) — The act under which the highest commander of the martial law area takes charge of administrative and judicial affairs during martial law.
 
-[^4]: [White Terror in Taiwan — Ministry of Justice](https://www.moj.gov.tw/) — Ministry of Justice statistics: 29,407 military tribunal cases during martial law.
+[^4]: [Taiwan White Terror Era - Ministry of Justice](https://www.moj.gov.tw/) — Ministry of Justice statistics: 29,407 military tribunal cases during the martial law period.
 
-[^5]: [Taiwan Association for Truth and Reconciliation](https://www.taiwantrc.org/) — Documents 1,061 individuals executed under death sentences during the martial law period (as of 2013).
+[^5]: [Taiwan Association for Truth and Reconciliation](https://www.taiwantrc.org/) — Statistics show 1,061 death-penalty victims during the martial law period (as of 2013).
 
-[^6]: [Mutual Guarantee System — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%80%94%E5%BA%A7%E4%BF%9D%E8%AD%98%E5%88%B6%E5%BA%A6) — Political screening system implemented from July 1949.
+[^6]: [Joint Surety System - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%80%94%E5%BA%A7%E4%BF%9D%E8%AD%98%E5%88%B6%E5%BA%A6) — A political vetting system implemented starting July 1949.
 
-[^7]: [Lifting of Martial Law — Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%A7%A3%E5%9A%B4) — Presidential decree of July 14, 1987 announcing the lifting of the Taiwan region martial law decree.
+[^7]: [Lifting of Martial Law - Wikipedia](https://zh.wikipedia.org/zh-hant/%E8%A7%A3%E5%9A%B4) — On July 14, 1987, presidential order lifted martial law over the Taiwan area.
 
-[^8]: [Kinmen-Matsu Region Martial Law Lifting — Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%A6%AC%E5%9C%B0%E5%8D%80%E8%A7%A3%E5%9A%B4) — Kinmen-Matsu did not lift martial law until November 7, 1992.
+[^8]: [Lifting of Martial Law in Kinmen-Matsu - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%87%91%E9%A6%AC%E5%9C%B0%E5%8D%80%E8%A7%A3%E5%9A%B4) — Kinmen-Matsu martial law not lifted until November 7, 1992.
 
-**Further Reading**:
+**Further reading**:
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full forty-year transformation from martial law to Asia's freest democracy
-- [Taiwan's White Terror](/history/台灣白色恐怖) — The real cost of 38 years of martial law: political cases, victims, and the mutual guarantee system
-- [The Formosa Incident](/history/美麗島事件) — A key turning point in the late martial law period, 1979
-- [Democratization](/history/民主化) — Taiwan's path toward democracy after martial law was lifted
-- [The 228 Incident](/history/二二八事件) — The 1947 historical turning point on the eve of martial law
-- [Taiwan's Transitional Justice](/history/台灣轉型正義) — Truth investigation and accountability for perpetrators after martial law
-- [Teresa Teng](/people/鄧麗君) — A daughter of mainlander military dependents who grew up under martial law; spent her life on the Cold War frontline, from performing for troops on Kinmen to turning to face the crowd at Happy Valley in 1989 wearing a "Oppose Martial Law" sign
+- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full forty-year transformation from martial law to Asia's freest democratic system
+- [Taiwan White Terror](/history/台灣白色恐怖) — The real cost of 38 years of martial law: political cases, victims, and the "joint surety" system
+- [Kaohsiung Incident](/history/美麗島事件) — A key turning point in the late martial law era of 1979
+- [Democratization](/history/民主化) — Taiwan's path to democracy after the lifting of martial law
+- [228 Incident](/history/二二八事件) — The 1947 historical turning point on the eve of martial law
+- [Taiwan Transitional Justice](/history/台灣轉型正義) — Truth investigations and accountability after the lifting of martial law
+- [Teresa Teng](/people/鄧麗君) — A Mainlander military-dependent daughter who grew up under martial law, spending her life on the Cold War frontline: from entertaining troops on Kinmen to her 1989 turn at Happy Valley wearing the "Oppose Military Rule" sign
+- [National Theater and Concert Hall](/culture/兩廳院) — Opened in 1987, the same year martial law was lifted; born from authoritarian architectural language, it witnesses the democratization of cultural space in post-martial-law Taiwan
 
 ---
 
-_The martial law era is a dark chapter in Taiwan's history — but it was also the catalyst for the awakening of democratic consciousness. Remembering this history is the commitment to ensuring such tragedies do not recur._
+_The martial law era is a dark chapter in Taiwan's history, but also a catalyst for the awakening of democratic consciousness. To remember this history is to ensure similar tragedies do not repeat._

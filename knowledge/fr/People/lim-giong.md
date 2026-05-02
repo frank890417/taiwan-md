@@ -1,132 +1,152 @@
 ---
-title: 'Lim Giong'
-description: "Une icône du rock en taïwanais qui a vendu 400 000 albums, avant de tout abandonner pour une musique électronique que personne n'écoutait — pour devenir l'un des plus grands compositeurs de cinéma d'Asie, artiste attitré de Hou Hsiao-hsien et Jia Zhangke."
+title: "Lim Giong : du quai de « Marche en avant » au Cannes de The Assassin, trente ans d'un déserteur du rock taïwanais"
+description: "Le 7 décembre 1990, à 26 ans, le natif de Changhua Lin Chih-feng a transformé la chanson taïwanaise du registre tragique en rock avec « Marche en avant » ; trois ans plus tard, il ne chantait presque plus. De Goodbye South, Goodbye à The Assassin, quatre prix du Cheval d'or, le prix de la bande originale au Festival de Cannes, le Prix national des arts et de la culture en 2018 : il a passé trente ans à plier son statut de superstar pour devenir, derrière Hou Hsiao-hsien et Jia Zhangke, l'homme qui appuie sur le synthétiseur."
 date: 2026-03-31
-tags: [musique, musique électronique, bande originale, art sonore, taïwanais]
-subcategory: 'Musique'
+tags:
+  [
+    'Musique',
+    'Musique électronique',
+    'Musique de film',
+    'Art sonore',
+    'Taïwanais',
+  ]
 category: 'People'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+subcategory: '音樂'
+author: 'Taiwan.md'
 featured: false
-lastVerified: 2026-03-31
+lastVerified: 2026-05-02
+lastHumanReview: false
 translatedFrom: 'People/林強.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:048e7f1bf03af1e2'
-translatedAt: '2026-04-14T19:15:40+08:00'
+sourceCommitSha: '2f191274'
+sourceContentHash: 'sha256:b7a8166bcc17bf2b'
+translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 
-> **En 30 secondes :** En 1990, Lim Giong vend 400 000 exemplaires de son premier album avec le titre _Vers l'avant_ et devient le visage du mouvement du nouveau rock en taïwanais, façonné par son label en idole de scène. Quatre ans plus tard, il brûle lui-même cette image avec un album de noise électronique, _Entertainment World_, puis disparaît presque totalement des écrans radar. Pas vraiment — il est entré dans une salle de montage plongée dans l'obscurité : celle de Hou Hsiao-hsien. Au cours des trente années suivantes, il se transforme de star du rock taïwanais en pionnier de la musique électronique, puis en lauréat du prix de la meilleure bande originale à Cannes, traversant trois scènes musicales — Taïwan, Chine, Europe. En 2017, il reçoit le Prix national des arts, accomplissant la métamorphose identitaire la plus rare de l'histoire de la pop taïwanaise.
-
----
-
-En décembre 1990, un jeune homme originaire de Changhua se plante devant une caméra et chante : « On m'avait dit que Taipei n'était pas ma maison, mais ça ne m'a jamais touché. »
-
-_Vers l'avant_ transforme du jour au lendemain l'imaginaire du rock en langue taïwanaise. Là où _La ville de Lukang_ de Lo Ta-yu distillait la nostalgie de l'exil, _Vers l'avant_ affirme une confiance désinvolte face à Taipei : les arrangements rock remplacent les cordes mélancoliques du taïwanais traditionnel. L'album se vend à 400 000 exemplaires, décroche le Meilleur single et le Meilleur producteur aux 3e Golden Melody Awards, et devient l'un des textes fondateurs du « nouveau rock taïwanais » dans l'histoire de la pop de Taïwan.
-
-Du jour au lendemain, Lim Giong devient une idole.
-
-Mais il ne veut pas l'être.
-
-## De chanteur à inconnu
-
-Après le succès, Rock Records emballe Lim Giong en artiste d'image : Armani, émissions de variétés, rôle de « porte-étendard du rock taïwanais ». Il confiera lors d'entretiens : « Parfois, je faisais vraiment tout pour fuir la personne que j'avais été. » (Interview dans _The Reporter_, 2017)
-
-En 1992, son second album en taïwanais, _Frère des vents printaniers_, s'écoule à 500 000 exemplaires — encore plus vendu, encore moins libre. Lim Giong veut aller ailleurs ; le label ne veut qu'un nouveau _Vers l'avant_. Il glisse discrètement dans trois titres non promus des beats électroniques et du bruit industriel — personne ne s'en aperçoit, mais c'est là que se trouve sa vraie voix.
-
-La tension éclate en 1994.
-
-_Entertainment World_, son troisième album, est un manifeste de rupture totale. Entièrement arrangé par le pionnier de l'électronique Lo Bai-ji, enregistré en Angleterre avec le producteur John Fryer, le guitariste invité Ben Blakeman des Cocteau Twins en session. Dance électronique, noise industriel, échos de guitare électrique — la pochette est une peinture abstraite, à mille lieues des photos de studio que le label imposait habituellement.
-
-> **📝 Note éditoriale**
-> Dans _Entertainment World_, Lim Giong écrit : « Tu allumes la télé, une rangée de sourires tous pareils, figés et mignons ; tu allumes la radio, et dans la vie, à part les chansons d'amour, il n'y a rien d'autre à chanter ? » Ce n'est pas seulement une critique de l'industrie du divertissement taïwanaise — c'est aussi une moquerie publique de sa propre carrière d'idole. Un artiste à 500 000 albums qui dit adieu à son passé avec un disque que personne n'achètera.
-
-Le marché ne suit pas. Mais quelqu'un a remarqué.
-
-## Une porte, dans une salle de montage sombre
-
-En 1996, Hou Hsiao-hsien prépare _Goodbye South, Goodbye_ et cherche un compositeur qui comprend la musique électronique tout en ayant une sensibilité pour les marges de la société taïwanaise.
-
-Il appelle Lim Giong.
-
-Cette collaboration change la trajectoire de Lim Giong. Il entre dans l'univers du cinéma avec sa passion des synthétiseurs électroniques, collabore avec des créateurs du circuit underground taïwanais — Chthonic, Lei Guang-xia — et livre une bande originale que Hou Hsiao-hsien décrira comme « chaque piste parfaitement à sa place ». _Goodbye South, Goodbye_ lui vaut le Meilleur titre de film aux 33e Golden Horse Awards — il monte sur scène dès ses premiers pas dans la composition.
-
-> **💡 Le saviez-vous ?**
-> La première apparition de Lim Giong au cinéma est également sous la direction de Hou Hsiao-hsien. En 1993, dans _The Boys from Fengkuei_, il joue un homme en marge de la pègre taïwanaise — chemise hawaïenne, pantalon pattes d'éléphant, gestes vrais avec la cigarette, façon de parler authentique — parce qu'il vivait lui-même à la lisière de ces espaces. Cette performance a marqué les esprits de Hou Hsiao-hsien.
-
-La Fondation nationale des arts décrit ainsi la liberté que Hou Hsiao-hsien a accordée à Lim Giong : « Le réalisateur Hou Hsiao-hsien a maintenu tout au long des années 1990 un mode de travail ouvert et organique, offrant à Lim Giong une liberté créative exceptionnelle, lui permettant de s'affranchir des formules établies, de dépasser le cliché de la chanson-titre, d'explorer de nouvelles possibilités pour la bande originale de cinéma — non pas pour soutenir le récit ou exalter les émotions par une mélodie, mais pour créer une atmosphère abstraite, une texture, un parfum. »
-
-Ce passage dit l'essentiel : Lim Giong n'a jamais « fait de la musique pour le film » — il « faisait un autre film avec la musique ».
-
-## _Millennium Mambo_ et la consécration de l'électronique
-
-En 2001, Hou Hsiao-hsien le rappelle.
-
-_Millennium Mambo_ — un film sur la génération à cheval sur le millénaire, les boîtes de nuit, les plans nocturnes à Taipei dans le brouillard. Lim Giong co-signe la bande originale avec DJ Fish (Huang Kai-yu) et le musicien japonais Yoshihiro Hanno : les beats électroniques s'infiltrent dans la lumière de la pellicule. La bande originale lui vaut le Meilleur musique de film aux 38e Golden Horse Awards.
-
-Dès lors, le nom de Lim Giong accompagne presque tous les films de Hou Hsiao-hsien — _Three Times_, _Café Lumière_ — jusqu'à _The Assassin_ en 2015.
-
-_The Assassin_ remporte la Palme du meilleur réalisateur à Cannes et cinq Golden Horse Awards à Taïwan. La bande originale de Lim Giong, en dehors de la compétition officielle, reçoit le Cannes Soundtrack Award. Pas de cérémonie, pas de tapis rouge — mais c'est une confirmation venue de France : la musique électronique de Taïwan est au niveau mondial.
-
-| Golden Horse — Meilleure musique de film × 4                                                | Cannes Soundtrack Award × 1 |
-| ------------------------------------------------------------------------------------------- | --------------------------- |
-| Millennium Mambo (2001), Still Life (2006), A Touch of Sin (2013), et plusieurs nominations | The Assassin (2015)         |
-
-## De l'autre côté du détroit : la Chine de Jia Zhangke
-
-En 2004, Jia Zhangke invite Lim Giong à composer la musique de _The World_.
-
-Un film sur des ouvriers d'un parc à thème pékinois où des reproductions miniatures de monuments célèbres du monde entier côtoient des travailleurs de la Chine profonde. Lim Giong traite cet absurde avec de l'électronique, mêlant le zen de la musique populaire orientale aux beats de l'électronique occidentale pour créer « un sentiment de déracinement dans la modernité ».
-
-La manière de travailler avec Jia Zhangke est très différente de celle avec Hou Hsiao-hsien. Lim Giong a expliqué en interview : « Avant de tourner, il m'invite systématiquement sur le lieu de tournage. Pour _24 City_, on est allés ensemble à Chengdu, on a visité l'usine… Pour _Still Life_, il m'a invité à Chongqing, on a pris le bateau jusqu'à Fengjie, on a vécu là quelques jours pour que j'entre vraiment dans cet état. » (Interview dans _Simple Life_, 2016)
-
-_Still Life_ remporte le Lion d'or à Venise en 2006 ; la bande originale de Lim Giong décroche le Golden Horse du Meilleur musique. Pour _A Touch of Sin_ (2013), il ouvre le film sur le concept théâtral traditionnel du « chū jiàng » (entrée en scène), conjuguant la tension sonore des instruments électroniques à l'esthétique classique pour l'insérer dans une narration de violence contemporaine — et remporte à nouveau le Golden Horse.
-
-Les bandes originales composées par Lim Giong pour les films de Jia Zhangke (_The World_, _Dong_, _Still Life_, _Our Ten Years_) ont été réunies en une compilation éditée par le grand directeur artistique Hanzi Oyoung et distribuée simultanément à Taïwan et en Chine.
-
-> **✦** « La musique est comme l'oxygène — elle nous apporte l'aide la plus simple qui soit sur le plan des émotions. » — Jia Zhangke, 2016
-
-## 2004 : le moment où l'ordinateur portable démarre
-
-Vers 2004, Lim Giong commence à créer de la musique électronique sur ordinateur portable et s'engage dans des collaborations trans-disciplines avec des artistes visuels, des VJ, la danse, les cérémonies de temple, le qin ancien et des artistes d'installation.
-
-Ce n'est pas une « reconversion » — c'est une « démolition des murs ».
-
-Il voyage avec son ordinateur portable en Chine continentale, en Malaisie, à Singapour, en France, en Suisse pour des performances audiovisuelles live. Dans ces villes, il n'est ni « Lim Giong, la star du rock taïwanais », ni « le compositeur de Hou Hsiao-hsien » — il est un performer de musique électronique live, et le public n'a pas besoin de savoir qui il était avant.
-
-La scène électronique taïwanaise commence également à le connaître autrement. Il ne compose plus seulement des bandes originales : il s'invite dans les raves, les festivals d'arts vivants, les espaces de musique expérimentale.
-
-En 2015, Lim Giong entame une longue collaboration avec DJ Point (Xu Zhiyuan) sous le nom de « Zhiyue Zhiyue », un groupe de musiciens sur ordinateurs pour des performances dans des espaces multiples. En 2017, Zhiyue Zhiyue se produit lors des 30 ans du Centre national des arts de spectacle dans _Voices Together_, puis présente une installation de musique électronique live lors de la _Nuit Blanche_ de Taipei. Début 2025, Lim Giong participe à « Sound Meditation : A Journey Through Sound and Silence » au C-LAB (Laboratoire culturel contemporain de Taïwan), aux côtés de l'artiste 3D CSSSS — sons et images construisant un espace de perception serein et sans limites.
-
-Il n'est plus seulement « compositeur » — il est architecte du son.
-
-## Prix national des arts 2017 : le retour de celui qui avait fui
-
-En décembre 2017, Lim Giong reçoit le 20e Prix national des arts, lauréat le plus remarqué de l'année dans la catégorie musique.
-
-Le communiqué officiel dit « lauréat musique », mais l'identité de Lim Giong déborde depuis longtemps tout cadre — chanteur, acteur, compositeur, producteur de musique électronique, artiste sonore.
-
-Ce prix confirme une chose : celui qui avait fui le marché de l'idole taïwanaise ne s'est pas perdu en fuyant. Il a construit, dans des endroits plus reculés et plus silencieux, un univers sonore où personne d'autre ne peut entrer.
-
-Lim Giong a dit : « Parfois, je faisais vraiment tout pour fuir la personne que j'avais été. » C'est honnête — mais facile à mal interpréter. Ce qu'il fuyait, ce n'était pas le taïwanais, ni la pop, ni la chanson qui l'avait rendu célèbre. Ce qu'il fuyait, c'était d'être _défini_.
-
-En 1990, « première figure du nouveau rock taïwanais » le définissait.
-En 1994, il niait cette définition avec _Entertainment World_.
-En 1996, dans la salle de montage de _Goodbye South, Goodbye_, il commençait à en construire une nouvelle.
-
-Trente ans plus tard, cette définition s'appelle : l'un des artistes sonores les plus importants de Taïwan.
+> **Aperçu en 30 secondes :** Le 7 décembre 1990, à 26 ans, Lin Chih-feng, natif de Changhua, a fait passer la chanson taïwanaise du registre tragique au rock avec « Marche en avant » ; les ventes de ce disque dépassaient le rythme de réapprovisionnement des entrepôts de Rock Records. Quatre ans plus tard, il a brûlé de ses propres mains son personnage d'idole avec un album de bruit électronique, puis a presque disparu de la scène publique. Il n'a pas disparu : il était entré dans la salle de montage de Hou Hsiao-hsien. Pendant les trente années qui ont suivi, il s'est transformé de porte-parole du mouvement de la nouvelle chanson taïwanaise en pionnier de la musique électronique, remportant quatre prix du Cheval d'or de la meilleure musique de film originale, un prix de la bande originale au Festival de Cannes et un Prix national des arts et de la culture, traversant les scènes cinématographiques taïwanaise et chinoise — accomplissant une des désertions identitaires les plus rares de l'histoire de la musique populaire taïwanaise.
 
 ---
 
-Lin Zhi-feng, natif de Changhua, né en 1964, est sans doute encore quelque part en train d'ouvrir son ordinateur portable pour faire de la musique que personne ne lui a commandée. C'est ce à quoi il travaille avec le plus d'ardeur.
+## L'adolescent à la coupe pastèque sur le quai
+
+Le 7 décembre 1990, Rock Records a sorti un album étrange.[^2]
+
+La pochette montrait un jeune homme aux cheveux frisés en coupe pastèque, en chemise blanche, devant la gare de Taipei. L'album s'appelait « Marche en avant », et sous le titre était imprimée la transcription minnan « hiàng-tsîng-kiânn » — c'était à l'époque une posture quelque peu provocante. En 1990, le marché de la chanson taïwanaise était dominé par la voie du registre triste : Jody Chiang, Hung Jung-hung, Yeh Ch'i-t'ien, tons douloureux, arrangements proches de l'enka, comme si la langue minnan ne pouvait par nature chanter que la déconvenue.
+
+Les producteurs Bobby Chen, Jonathan Lee et Chou Shih-hui ont décidé de faire l'inverse. Ils ont introduit le rock dans le minnan, laissant le chanteur principal user d'un ton adolescent du genre « je vais tenter ma chance à Taipei », chantant l'excitation d'un train entrant en gare : « On disait avant que Taipei n'est pas chez moi, mais je n'en ressens absolument rien. »[^3]
+
+Le chanteur s'appelle Lim Giong, de son vrai nom Lin Chih-feng, né le 7 juin 1964 à Changhua.[^4] Pendant son service militaire à Matsu, l'armée a projeté Les Garçons de Fengkuei (1983) de Hou Hsiao-hsien. Après l'avoir vu, il s'est dit : voilà ce que peut être le cinéma taïwanais ; voilà combien de sentiments il peut porter envers cette terre. Il s'est juré qu'à la fin de son service, s'il ne pouvait pas faire de musique, il étudierait le cinéma, quitte à commencer comme assistant de Hou Hsiao-hsien.[^5] Il ne s'attendait pas à ce que la voie de la musique s'ouvre la première — et qu'elle s'ouvre en grand.
+
+> **📝 Note du curateur**
+> L'année où « Marche en avant » a explosé, le classement minnan des KTV en a été occupé pendant plusieurs mois. Trois ans après la levée de la loi martiale, toute l'île apprenait à « ne plus se sentir gêné ». Lim Giong, avec une voix d'adolescent qui n'avait pas reçu l'apprentissage du tragique, a chanté le ton collectif de cette époque. Le registre triste de la chanson taïwanaise est façonné par l'environnement temporel ; « Marche en avant » a montré une autre possibilité.
+
+## Le train le plus rapide, qui freine le plus vite
+
+Après « Marche en avant », « Le jeune homme du vent printanier » de 1992 a continué à se vendre. Lim Giong est devenu en une nuit une idole ; Rock Records l'a packagé en artiste-image : Armani, plateaux de variétés, rôle de porte-parole du rock taïwanais.
+
+Il n'aimait pas cela.
+
+Lim Giong a déclaré dans un entretien : « Parfois, je fuis assez délibérément la personne que j'étais autrefois. »[^6] Plus de cinquante ans, il pointait du doigt en riant ses anciens clips MV en disant cette phrase ; mais à l'époque, la contradiction était réelle.
+
+L'album « Entertainment World » de 1994 fut sa déclaration de désertion. Tout l'arrangement fut confié au pionnier de l'électronique Lo Pai-chi ; Lim Giong se rendit en Angleterre pour l'enregistrer, collaborant avec le producteur John Fryer. Dance électronique, bruit industriel, échos de guitares électriques se mêlent ; la pochette est une peinture abstraite, à l'opposé des photos de salon habituelles. Le marché n'a pas suivi.[^7]
+
+Mais quelqu'un a remarqué.
+
+## « Tu ferais mieux de ne pas chanter »
+
+En 1995, Lim Giong fait la connaissance de Hou Hsiao-hsien par l'intermédiaire de Rock Records. Le réalisateur lui dit cette phrase : « Tu ferais mieux de ne pas chanter ; viens donc faire des créations, c'est plus simple. »[^8]
+
+C'est le début du tournant. En 1996, Hou Hsiao-hsien prépare Goodbye South, Goodbye et demande à Lim Giong d'en composer la musique et le thème principal. Lim Giong est si nerveux qu'il dit « ne pas savoir faire de musique de film ». La réponse de Hou Hsiao-hsien : « Si tu ne sais pas, tu n'as qu'à demander aux autres ! » Il l'a emmené étudier auprès de professeurs de conservatoire.[^8]
+
+Lim Giong a apporté la langue du synthétiseur électronique au cinéma, collaborant avec des créateurs de la scène underground taïwanaise (Loh Tsui Kweh Commune, Summer Lei) ; il a fait une musique que Hou Hsiao-hsien décrivait comme « collant à chaque plan de manière incroyable ». Le morceau « Auto-destruction » lui a valu le 33ᵉ prix du Cheval d'or de la meilleure chanson originale de film,[^9] et il était à peine entré dans le travail de musique de film qu'il était déjà sur le podium.
+
+La Fondation nationale pour la culture et les arts écrira plus tard : ce que Lim Giong recherche, c'est « une atmosphère et une odeur abstraites », et non une mélodie qui assiste la narration et amplifie les émotions.[^18] Il n'a jamais « fait de la musique pour le cinéma » : il « tournait un autre film avec la musique ».
+
+## Entré dans une salle de montage obscure
+
+En 2001, Hou Hsiao-hsien sollicite Lim Giong pour Millennium Mambo.
+
+Ce film sur la génération du tournant du millénaire, les boîtes de nuit et les nuits brumeuses de Taipei a une musique cosignée par Lim Giong (Huang Kai-yu) et le compositeur japonais Yoshihiro Hanno.[^10] Les rythmes électroniques s'infiltrent dans la lumière de la pellicule. Le ralenti d'ouverture où Shu Qi traverse la passerelle de la rue Zhongxiao Est sera plus tard repris en hommage par d'innombrables réalisateurs sinophones. Lim Giong et Huang Kai-yu remportent avec ce film le 38ᵉ prix du Cheval d'or de la meilleure musique de film originale.[^11]
+
+Ensuite, presque tous les films de [[Hou Hsiao-hsien]] portent le nom de Lim Giong. En 2015, The Assassin remporte le prix de la mise en scène à Cannes, et la musique de Lim Giong reçoit également une reconnaissance hors compétition principale, au « Cannes Soundtrack Award » — une reconnaissance internationale du Festival de Cannes pour la musique électronique taïwanaise.[^12]
+
+> **💡 Le saviez-vous**
+> Le premier rôle d'acteur de Lim Giong fut aussi avec Hou Hsiao-hsien. Dans Dust of Angels (1993), il joue un marginal de la pègre taïwanaise. Cette interprétation a permis à Hou Hsiao-hsien de se souvenir de lui ; lui-même y a confirmé qu'il préférait le derrière de la caméra.
+
+## De Taipei au Shanxi : quinze années chinoises avec Jia Zhangke
+
+Jia Zhangke est présenté par Hou Hsiao-hsien.
+
+À partir de The World (2004), Lim Giong assure presque toute la musique des films les plus importants de Jia Zhangke pour les quinze années suivantes : Dong (2006), Still Life (2006), 24 City (2008), A Touch of Sin (2013), Ash Is Purest White (2018).[^13] La méthode de collaboration avec Jia Zhangke est très différente de celle avec Hou Hsiao-hsien — avant le tournage, il emmène toujours Lim Giong sur place. Pour 24 City, ils sont allés se promener dans une usine à Chengdu, dans le Sichuan ; pour Still Life, Lim Giong a pris le bateau jusqu'à Fengjie pour y vivre quelques jours, afin de vraiment entrer dans l'état du film.[^13]
+
+Jia Zhangke a déjà dit : « La musique est comme l'oxygène ; elle peut nous fournir l'aide émotionnelle la plus simple et la plus indispensable. »[^14]
+
+La méthode de Lim Giong est exactement cela. Il utilise la musique électronique pour traiter le décalage absurde de la Chine moderne, intégrant la sérénité zen des chants populaires orientaux dans les rythmes électroniques occidentaux. Still Life remporte en 2006 le Lion d'or à Venise ; Lim Giong remporte également avec Do Over de Niu Cheng-tse le 43ᵉ prix du Cheval d'or de la meilleure musique de film originale.[^15] En 2013, pour A Touch of Sin, il utilise comme musique d'ouverture le concept de la « sortie de scène du général » de l'opéra traditionnel et remporte à nouveau le prix du Cheval d'or de la meilleure musique de film originale.[^15] En 2016, il remporte une quatrième fois le même prix pour le documentaire City of Jade de Midi Z.[^16]
+
+> **📝 Note du curateur**
+> La même décennie, derrière les deux auteurs sinophones les plus importants, Hou Hsiao-hsien et Jia Zhangke, c'est la même personne qui appuie sur le synthétiseur. Il a trouvé un langage sonore qui appartient à la fois aux nuits de Taipei et aux usines du Shanxi : ces notes électroniques solitaires qui poussent toutes seules dans les ruines urbaines.
+
+## Tout est dit, il ne reste que la musique
+
+En août 2017, The Reporter publie un entretien approfondi, sous la plume de Wang Yi-chun, avec un titre lourd : « Tout est dit, il ne reste que la musique — la voie de retrait de Lim Giong ».[^6]
+
+Il dit qu'il ne reviendra plus sur scène en tant que chanteur, parce qu'« il n'y a plus rien à dire ».[^6] Il s'est converti au bouddhisme, suit un régime végétarien depuis longtemps ; son studio n'est pas compliqué : surtout une station audio numérique Ableton Live et un vieux synthétiseur MicroKORG. Avec ces deux choses, chez lui à Sansia, il continue à faire des sons que personne ne lui a commandés.
+
+Il refuse la plupart des musiques de films commerciaux, « parce que les réalisateurs demandent une émotion claire, et que je ne sais pas feindre une émotion que je ne ressens pas ».[^17]
+
+En 2018, Lim Giong a remporté le 20ᵉ Prix national des arts et de la culture, première fois que ce prix est attribué à un compositeur de musique de film.[^18] Lors de la cérémonie, il n'a presque pas parlé.
+
+## Coordonnées d'un déserteur
+
+En étalant la trajectoire de Lim Giong, le plus contre-intuitif n'est pas le « passage de superstar à coulisses » — c'est un mouvement courant de l'histoire de la musique populaire. Le contre-intuitif, c'est le moment : il a quitté le marché grand public en 1996, l'année où il aurait le plus dû capitaliser sur sa victoire ; il avait 32 ans.
+
+> Six prix du Cheval d'or, un prix de la bande originale à Cannes, un Prix national des arts et de la culture — venant de cet adolescent qui avait fini de regarder Les Garçons de Fengkuei dans une caserne de Matsu.
+
+Le mouvement de la nouvelle chanson taïwanaise marque son point de départ ; le Cheval d'or, Venise et Cannes marquent le lieu où il est arrivé. Et entre ces deux coordonnées, il y a une histoire de fuite de trente ans.
+
+---
+
+Ce train a quitté le quai de la gare de Taipei depuis longtemps. Le jeune homme à la coupe pastèque n'est jamais remonté à bord pour chanter. Dans un endroit plus silencieux, il ouvre son ordinateur portable et fabrique un son que personne ne lui a commandé.
+
+**Pour aller plus loin** :
+
+- [Hou Hsiao-hsien](/people/侯孝賢) — Premier maître de cinéma de Lim Giong, figure centrale du Nouveau cinéma taïwanais
+- [Évolution de la chanson en taïwanais](/music/台灣台語歌曲演進) — Vague culturelle à laquelle appartient « Marche en avant » de Lim Giong, contexte de l'évolution du registre triste vers le rock en taïwanais
+- [Chia Yung-chieh](/people/賈永婕) — Personnalité publique taïwanaise ayant elle aussi accompli une transformation identitaire, du statut d'artiste à celui de force de mobilisation pour la gouvernance publique
 
 ## Références
 
-- [話已說完只剩音樂──林強的遁世道](https://www.twreporter.org/a/interview-lim-giong) (The Reporter, 2017, entretien direct)
-- [Page lauréat du Prix national des arts — Lim Giong](https://www.ncafroc.org.tw/artsaward/winnerDetail@47263) (Fondation nationale des arts de Taïwan, source primaire)
-- [Lim Giong - Wikipedia](https://en.wikipedia.org/wiki/Lim_Giong) (Wikipedia anglais)
-- [Musical Wanderer--Lim Giong](https://www.taiwan-panorama.com/en/Articles/Details?Guid=a9bd08bc-5ed6-47b9-bbd8-1510f7272773&CatId=8&postname=Musical+Wanderer--Lim+Giong) (Taiwan Panorama, 2008)
-- [跨界音樂旅人──林強](https://www.taiwan-panorama.com/Articles/Details?Guid=1d1c55fd-6c74-4f82-a670-225afafd9109&CatId=8&postname=%E8%B7%A8%E7%95%8C%E9%9F%B3%E6%A8%82%E6%97%85%E4%BA%BA%E2%94%80%E2%94%80%E6%9E%97%E5%BC%B7) (Taiwan Panorama, 2008)
-- [《千禧曼波》配樂：林強與 fish.the 引領台灣電子樂新浪潮](https://ysolife.com/millennium-mambo/) (YSOLIFE, 2025)
-- [賈樟柯 × 林強：音樂像氧氣，給我們最簡單的情感幫助](https://simplelife.streetvoice.com/post/music_is_oxygen/) (Simple Life, 2016)
-- [為侯孝賢做出一曲落葉，聽林強用音樂拍電影](https://flipermag.com/2015/06/08/525/) (FLiPER, 2015)
-- [第20屆國家文藝獎得主：音樂家林強獲得電影類獎項](https://www.thenewslens.com/article/84784) (The News Lens, 2017)
+[^1]: [Festival du Cheval d'or de Taipei — Lim Giong](https://www.goldenhorse.org.tw/academy/filmacademyplus/class/history/1407) — La page officielle indique « quatorze nominations au Cheval d'or, six prix de la meilleure musique et chanson originales de film remportés ».
+
+[^2]: [Wiki de la musique populaire taïwanaise — Marche en avant](http://www.tpmw.org.tw/index.php/%E5%90%91%E5%89%8D%E8%B5%B0) — Sortie chez Rock Records le 7 décembre 1990, producteurs Bobby Chen, Jonathan Lee et Chou Shih-hui ; données complètes sur ce chef-d'œuvre du rock minnan nouveau.
+
+[^3]: [Wikipédia — Marche en avant (album)](https://zh.wikipedia.org/wiki/%E5%90%91%E5%89%8D%E8%B5%B0) — Informations de production, liste des morceaux, contexte historique et historique des rééditions.
+
+[^4]: [Lim Giong (1964) — Wikipédia](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%BC%B7_%281964%E5%B9%B4%29) — Vrai nom Lin Chih-feng, né le 7 juin 1964 à Changhua, biographie complète et chronologie des œuvres.
+
+[^5]: [Pour Hou Hsiao-hsien, faire chanter une feuille morte — Écouter Lim Giong filmer avec la musique](https://flipermag.com/2015/06/08/525/) — FLiPER, juin 2015. Récit complet de Lim Giong inspiré par Les Garçons de Fengkuei pendant son service militaire à Matsu, et de sa décision d'étudier le cinéma après son service.
+
+[^6]: [The Reporter — Tout est dit, il ne reste que la musique : la voie de retrait de Lim Giong](https://www.twreporter.org/a/interview-lim-giong) — Août 2017, par Wang Yi-chun. Entretien approfondi avec la phrase originale « Parfois, je fuis assez délibérément la personne que j'étais autrefois », descriptions de la vie à Sansia, de l'équipement Ableton Live et MicroKORG.
+
+[^7]: [Business Next — Sans devenir le jeune homme du vent printanier, marcher en avant : retrouver soi-même dans le monde de l'électronique](https://www.bnext.com.tw/article/8993/BN-ARTICLE-8993) — Réception de marché de « Entertainment World » et contexte du virage de Lim Giong vers la musique électronique.
+
+[^8]: [Souvenir d'un bienfaiteur Hou Hsiao-hsien : « Tu ferais mieux de ne pas chanter », Lim Giong introduit aux musiques de film](https://www.thenewslens.com/article/30994) — The News Lens, dialogue clé original et genèse complète du passage de Lim Giong dans les coulisses.
+
+[^9]: [Prix du Cheval d'or de la meilleure chanson originale de film — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E7%8D%8E%E6%9C%80%E4%BD%B3%E5%8E%9F%E5%89%B5%E9%9B%BB%E5%BD%B1%E6%AD%8C%E6%9B%B2) — Lauréat de la 33ᵉ édition (1996) : Lim Giong, « Auto-destruction » (Goodbye South, Goodbye).
+
+[^10]: [Wikipédia — Millennium Mambo](https://zh.wikipedia.org/zh-tw/%E5%8D%83%E7%A6%A7%E6%9B%BC%E6%B3%A2) — Musique cosignée par Lim Giong (Huang Kai-yu) et Yoshihiro Hanno ; prix technique du Festival de Cannes (design sonore Tu Duu-chih) et plusieurs prix Cheval d'or dont le meilleur son.
+
+[^11]: [Lim Giong remporte le 43ᵉ prix du Cheval d'or de la meilleure musique de film originale — Banque nationale de mémoire culturelle](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=621829) — Document officiel : Lim Giong remporte avec Do Over le 43ᵉ prix du Cheval d'or de la meilleure musique de film originale.
+
+[^12]: [Lim Giong, génie musical en avance : de la musique avant-gardiste au prix de la meilleure bande originale de Cannes](https://today.line.me/tw/v2/article/oqzvLaj) — VERSE, prix de la bande originale au Festival de Cannes 2015 (hors compétition) pour The Assassin et nominations à la 52ᵉ édition du Cheval d'or.
+
+[^13]: [Jia Zhangke × Lim Giong : la musique est comme l'oxygène, elle nous donne l'aide émotionnelle la plus simple](https://simplelife.streetvoice.com/post/music_is_oxygen/) — Simple Life, octobre 2016. Liste complète des collaborations et méthode de travail décrite par Lim Giong : « aller vivre quelques jours sur le lieu de tournage ».
+
+[^14]: [Jia Zhangke × Lim Giong : la musique est comme l'oxygène](https://simplelife.streetvoice.com/post/music_is_oxygen/) — Phrase originale de Jia Zhangke : « La musique est comme l'oxygène ; elle peut nous fournir l'aide émotionnelle la plus simple et la plus indispensable. » (Simple Life 2016)
+
+[^15]: [Lim Giong (1964) — Chronologie des prix sur Wikipédia](https://zh.wikipedia.org/zh-hant/%E6%9E%97%E5%BC%B7_%281964%E5%B9%B4%29) — Cheval d'or de la meilleure chanson originale de film 1996, Cheval d'or de la meilleure musique de film originale 2001 (Millennium Mambo), 2006 (Do Over), 2013 (A Touch of Sin) — chronologie complète.
+
+[^16]: [Festival du Cheval d'or de Taipei — City of Jade](https://www.goldenhorse.org.tw/film/about/archive/detail/1521) — 53ᵉ édition (2016) : prix du Cheval d'or de la meilleure musique de film originale pour Lim Giong, City of Jade (documentaire de Midi Z).
+
+[^17]: [Storm Media — Dans les coulisses depuis plus de 10 ans, Lim Giong : « Je ne reviendrai plus chanter »](https://www.storm.mg/lifestyle/325203) — Entretien de 2017. Lim Giong déclare clairement qu'il ne reviendra plus chanter, avec sa position sur les musiques de films commerciaux et sa vision du travail.
+
+[^18]: [Compositeur de musique de film Lim Giong — Page de la 20ᵉ édition du Prix national de la culture et des arts](https://www.ncafroc.org.tw/artsaward/winnerDetail@47263) — Lauréat de la 20ᵉ édition du Prix national de la culture et des arts en 2018, citation officielle : « Une musique de film d'un style singulier dans le cinéma asiatique contemporain, avec une participation active aux créations artistiques transversales. »

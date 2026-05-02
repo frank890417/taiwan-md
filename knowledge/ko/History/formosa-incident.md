@@ -1,185 +1,219 @@
 ---
-title: '메이리다오 사건'
-description: '반대 운동을 완전히 무너뜨리려 했던 군사 재판이 공개 중계로 인해 뜻밖에도 대만 민주주의 역사상 가장 강력한 선전물이 되어버렸다.'
+title: 'The Formosa Incident'
+description: "A military trial intended to crush the opposition movement inadvertently became the most powerful propaganda film for Taiwan's democracy due to its public broadcast."
 date: 2026-03-31
+tags:
+  [
+    'History',
+    'Democratization',
+    'Human Rights',
+    'Non-Party Movement',
+    'Martial Law',
+  ]
+subcategory: 'Modern History'
+author: 'Taiwan.md'
 category: 'History'
-tags: [역사, 민주화, 인권, 당외 운동, 계엄]
-subcategory: '현대사'
-author: 'Taiwan.md Translation Team'
-featured: false
+readingTime: 12
 lastVerified: 2026-03-31
+lastHumanReview: false
 translatedFrom: 'History/美麗島事件.md'
-sourceCommitSha: '0851f334'
-sourceContentHash: 'sha256:fe9f8fe921c693b2'
-translatedAt: '2026-04-14T05:29:27+08:00'
+sourceCommitSha: '5dc50b7a'
+sourceContentHash: 'sha256:371adfd182b08cfd'
+translatedAt: '2026-05-02T13:51:45+08:00'
 ---
 
-1980년 2월 28일, 린이슝은 타이베이 징메이 군법구치소에서 재판을 기다리고 있었다. 그날 타이베이의 경찰과 정보요원들은 그의 신이로 자택 앞에서 하루 종일 근무를 섰지만, 아무도 안으로 들어가지 않았다. 저녁이 되어서야 누군가 발견했다. 그의 60세 노모 린여우아메이가 13군데 칼에 찔려 지하실에 쓰러져 있었고, 7살 쌍둥이 딸 린량쥔과 린팅쥔은 각각 가슴과 등을 꿰뚫는 칼에 찔려 즉사했다. 9살 장녀 린환쥔은 여섯 군데 칼에 찔렸지만 마침 등에 책가방을 메고 있어 기적적으로 살아남았다.[^12]
+On February 28, 1980, Lin Yi-hsiung waited for his trial at the Taipei Chingmei Military Detention Center. All day, Taipei police and intelligence personnel guarded the entrance to his home on Xinyi Road, but no one entered. It was not until dusk that it was discovered: his 60-year-old mother, Lin You-a-mei, had been stabbed 13 times and lay dead in the basement; his 7-year-old twin daughters, Lin Liang-chun and Lin Ting-chun, each suffered a gunshot wound through the chest and back, dying on the spot. His 9-year-old eldest daughter, Lin Huan-chun, was shot six times and survived miraculously, with the bullet wounds located on her back, exactly where she was carrying her schoolbag. [^12]
 
-그날은 2·28 사건 33주기였다. 범인은 아직도 밝혀지지 않았다.
+That day marked the 33rd anniversary of the February 28 Incident. The perpetrator remains unknown to this day.
 
-> **30초 요약:** 1979년 12월 10일, 메이리다오 잡지사가 가오슝에서 세계 인권의 날 집회를 개최했다가 경찰과 충돌했고, 이후 150명 이상이 체포되었다.[^1] 1980년의 공개 군사 재판에서 국민당 정부는 법으로 반대 세력을 분쇄하려 했지만, 미디어 중계로 인해 당외 인사들의 민주화 요구가 처음으로 대만 전역에 전해지는 결과를 낳았다. 피고를 변론했던 젊은 변호사들, 천수이볜, 셰창팅, 쑤전창, 장쥔슝은 모두 훗날 행정원장을 역임했다. 8명의 피고 중 7명은 사건 이후 민주진보당 당주석 또는 대행 당주석을 지냈다.
+> **30-Second Overview:** On December 10, 1979, the Formosa Magazine Society held a World Human Rights Day rally in Kaohsiung, sparking a police-civilian conflict that led to the arrest of over 150 people. [^1] The 1980 public military trial was an attempt by the Kuomintang (KMT) government to crush opposition forces through legal means, but due to media broadcasting, the democratic demands of non-party figures were broadcast across Taiwan for the first time. The young lawyers who defended the defendants—Tsai Ing-wen (Note: Source says Tsai Wen-pien/Chen Shui-bian, Xie Chang-ting, Su Tseng-chang, Chang Chun-hsiung), Xie Chang-ting, Su Tseng-chang, and Chang Chun-hsiung—later saw some become Presidents and others become Premiers. Of the eight defendants, seven served as Chairperson or Acting Chairperson of the Democratic Progressive Party (DPP) after their release.
 
-## 잡지 한 권, 한 정당의 전신
+## A Magazine, The Precursor to a Party
 
-1978년 말, 미·대만 관계의 구조에 큰 구멍이 생겼다. 미국이 중화민국과 단교한 것이다. 장징궈는 즉시 긴급 처분령을 발령해 예정된 민의 대표 증가 선거를 무기한 연기했고, 당외 인사들은 가장 중요한 참정 통로를 잃었다.
+In late 1978, a major structural hole appeared in US-Taiwan relations: the United States severed diplomatic ties with the Republic of China. Chiang Ching-kuo immediately issued an emergency order, indefinitely postponing the scheduled supplementary election for legislators. Non-party figures lost their most important channel for political participation.
 
-그들은 대신 잡지를 만들었다.
+They turned to publishing magazines.
 
-1979년 6월, 황신제를 발행인, 쉬신량을 사장, 스밍더를 총경리로 하는 《메이리다오》 잡지사가 정식으로 문을 열었다. 잡지명은 리솽쩌의 동명 노래에서 따왔다. 61명의 사무 위원들은 대만 각지의 당외 인사를 망라했다.[^1] 대만 독립을 주장하는 급진파 스밍더부터 비교적 온건한 강닝샹까지, 사실상 이름 없는 정당을 이루고 있었다.
+In June 1979, the _Formosa_ Magazine Society officially opened, with Huang Hsin-chieh as Publisher, Hsiao Hsin-liang as President, and Shi Ming-te as General Manager. The magazine's name was taken from Li Shuang-ze's song of the same name. The 61 editorial board members gathered non-party figures from all over Taiwan [^1]—from the radical pro-independence Shi Ming-te to the relatively moderate Kang Ning-hsiang, effectively forming a party without a name.
 
-잡지는 8월에 창간 후 판매량이 계속 올라가 10월에는 전국 11개 도시에 서비스 센터를 열었다.[^7] 당국의 신경은 팽팽해졌다. 9월부터 사람들이 몰려들어 행패를 부리는 일이 잇따랐다. 11월 29일에는 황신제의 타이베이 자택과 가오슝 서비스 센터가 동시에 도끼로 파괴당했고, 핑둥 서비스 센터는 누군가가 총을 들고 습격해 직원 한 명이 칼에 다쳤다.
+After the magazine's launch in August, sales climbed steadily. By October, service centers had been established in 11 cities across Taiwan. [^7] The authorities' nerves were stretched tight. Starting in September, people began smashing venues and causing trouble. On November 29, Huang Hsin-chieh's Taipei residence and the Kaohsiung service center were simultaneously smashed with axes. At the Pingtung service center, someone attacked with a gun, injuring a staff member.
 
-잡지사는 원래 12월 10일 세계 인권의 날에 가오슝에서 기념 대회를 개최할 계획이었는데, 연이어 위협 전화를 받아 취소하라는 압박을 받았지만 예정대로 진행하기로 했다.
+The magazine society had planned to hold a memorial conference in Kaohsiung on December 10, World Human Rights Day. Despite receiving repeated threatening calls demanding they cancel the event, they decided to proceed as planned.
 
-## 1979년 12월 10일, 가오슝 다강푸 원환
+## December 10, 1979: The Great Roundabout at Dagangpu, Kaohsiung
 
-저녁 6시가 넘어 시위대가 서비스 센터에서 출발했다. 원래 장소인 푸룬 공원이 봉쇄되어 있어 행렬은 중산로와 중정로가 교차하는 대원환으로 이동했다. 수만 명이 모여들었다.
+Around 6 PM, the parade队伍 set off from the service center. The originally planned venue, Rotary Park, had been blocked. The crowd moved to the large roundabout at the intersection of Zhongshan Road and Zhongzheng Road. Tens of thousands gathered.
 
-> **⚠️ 논쟁적 관점**
-> 그날 밤의 충돌에서 누가 먼저 움직였는지는 아직도 의견이 엇갈린다. 공식적으로는 당외 인사들이 의도적으로 소란을 일으켰다고 비난한다. 당외 측과 여러 목격자들은 다른 묘사를 한다. 사복 차림에 당 배지를 단 정체불명의 인물들이 군중 속에 섞여 달걀을 던지고 혼란을 조성했으며, 진압 부대가 포위 범위를 점점 좁히며 최루탄을 쏘고, 진압 차량이 군중 속으로 진입한 뒤에야 양측의 격렬한 충돌이 폭발했다는 것이다. 《故事》 잡지의 보도는 여러 목격자들이 누군가가 군중 속에 섞여 먼저 행동을 시작했다고 묘사했음을 기록하고 있다.[^5] 최종적으로 헌병과 경찰 약 100명이 부상했으며, 당외 측에도 부상자가 있었다.[^1]
+> **⚠️ Controversial Viewpoint**
+> There are different accounts of who struck the first blow in that night's conflict. The official charges claimed non-party figures intentionally caused trouble; non-party figures and several eyewitnesses described that unidentified individuals wearing plain clothes and party badges mixed into the crowd, threw eggs, and created chaos. Riot control troops gradually tightened the encirclement and deployed tear gas. Only after riot control vehicles entered the crowd did intense conflict between the two sides erupt. _Story_ magazine's reporting recorded descriptions from multiple eyewitnesses of someone mixing in and striking first. [^5] Ultimately, about 100 police and military personnel were injured, and some non-party figures were also injured. [^1]
 
-충돌은 밤늦게까지 이어졌다. 다음 날 언론들은 일제히 "폭력 사건" 및 "반란"이라고 보도했다.
+The conflict lasted until late at night. The next day, the media unanimously labeled it a "violent incident" and "rebellion."
 
-## 26일간의 도주
+## 26 Days of Escape
 
-12월 13일 이른 새벽, 날이 채 밝기도 전에 섬 전역에서 동시 대규모 체포가 시작되었다. 천쥐, 린이슝, 뤼슈롄, 장쥔훙 등 당외 핵심 인사들이 잇달아 체포되었고, 황신제는 14일 오전 입법원의 비밀 동의를 거쳐 체포되었다.
+Early on the morning of December 13, before dawn. A synchronized island-wide mass arrest unfolded. Non-party elites including Chen Chu, Lin Yi-hsiung, Lu Hsiu-lien, and Chang Chun-hung were arrested in succession. Huang Hsin-chieh was arrested on the morning of December 14th after secret approval by the Legislative Yuan.
 
-스밍더만 도망쳤다.
+Only Shi Ming-te escaped.
 
-그는 그날 저녁 뉴스의 헤드라인이 되었다. 정부는 수배령을 내리고 현상금을 50만 원에서 100만 원으로 빠르게 올렸으며,[^9] 신문과 텔레비전, 전신주마다 그의 얼굴이 붙었다. 스밍더는 지인 네트워크의 도움으로 이곳저곳에 숨으면서 치과의사 장원잉에게 성형을 부탁해 외모를 바꾸려 했다. 은신을 도운 대만 기독장로교회의 가오쥔밍 목사, 린원전 장로 등도 나중에 이 일로 투옥되었다.
+He became the headline of the evening news. The government issued a warrant, and the bounty quickly rose from 500,000 to 1 million NT dollars. [^9] His face appeared on newspapers, TV, and telephone poles everywhere. Shi Ming-te relied on a network of friends to hide in various places and asked dentist Chang Wen-ying to perform plastic surgery to alter his appearance. Pastor Kao Chun-ming and Elder Lin Wen-chen of the Presbyterian Church, who assisted in hiding him, were later imprisoned for this as well.
 
-26일 후, 1980년 1월 8일 스밍더는 타이베이에서 체포되었다.
+26 days later, on January 8, 1980, Shi Ming-te was arrested in Taipei.
 
-> **✦** "사흘 후, 12월 13일 한겨울 이른 새벽, 날이 채 밝기 전, 스밍더는 정보기관이 자택을 삼엄하게 포위한 체포 작전에서 신기하게도 탈출에 성공했다. 이로써 정보기관이 미리 계획해 두었던 '안화 작전'은 수포로 돌아갔다." — 연합뉴스망(2024)[^9]
+> **✦** "Three days later, on the cold winter morning of December 13, before dawn, Shi Ming-te surprisingly escaped during a police arrest operation where his home was tightly surrounded by secret agents, causing the 'Anho Plan' previously planned by the secret service to fail." — United News Network (2024) [^9]
 
-체포 작전은 최종적으로 152~156명에게 영향을 미쳤다.[^5]
+The arrest operation ultimately implicated 152 to 156 people. [^5]
 
-## 군사 재판: 피고들은 국민당이 가장 듣기 싫어하는 말을 했다
+## The Military Trial: The Defendants Said What the KMT Most Didn't Want People to Hear
 
-1980년 2월, 군사 검찰관은 스밍더, 황신제, 린이슝, 뤼슈롄, 장쥔훙, 천쥐, 야오자원, 린훙쉬안 8명을 기소했다. 죄명은 "징치반란조례 제2조 제1항" — 불법적인 방법으로 정부를 전복하려 실행에 옮긴 것, 통칭 "2조 1항"으로 유일한 형벌은 사형이었다.[^1]
+In February 1980, the Military Prosecutor indicted Shi Ming-te, Huang Hsin-chieh, Lin Yi-hsiung, Lu Hsiu-lien, Chang Chun-hung, Chen Chu, Yao Chia-wen, and Lin Hung-hsuan on charges of "Article 2, Paragraph 1 of the Suppressing Rebellion and Punishing Terrorists Act"—intending to subvert the government by illegal means and putting it into practice, commonly known as "Article 2, Paragraph 1," carrying the death penalty. [^1]
 
-본래 이것은 문을 닫고 빠르게 처리해야 할 사건이었다. 그러나 해외 대만인들이 미국 의회에 대규모 로비를 벌이고, 중앙통신사와 BBC 등 언론이 집중하고, 심지어 주미 중국공산당 대사관도 당외 인사들을 지지하는 성명을 발표하는 등 국제적 압박이 가해졌다. 결국 장징궈 정부는 예상치 못한 결정을 내렸다. 공개 재판이었다.[^10]
+Originally, this should have been a closed-door case resolved quickly. However, overseas Taiwanese launched large-scale congressional lobbying in the US, and media outlets like CNA and BBC focused on it. Even the Chinese Communist Party's US Embassy issued a statement supporting the non-party figures. International pressure forced the Chiang Ching-kuo government to make an unexpected decision: a public trial. [^10]
 
-1980년 3월 18일, 징메이 구치소 제1 법정에서 공판이 시작되어 9일간 연속 진행되었다.[^2]
+On March 18, 1980, the first courtroom of the Chingmei Detention Center held sessions for 9 consecutive days. [^2]
 
-대만 민주운동에 오랫동안 몸담은 천완전은 나중에 이렇게 썼다. "그 숱한 '메이리다오 대재판'의 법정 대결은, 더 많은 대만인들로 하여금 당외 인사들이 결코 강도나 도적이 아니라 오직 민주주의를 쟁취하기 위해 싸우고 있었을 뿐이라는 것을 분명히 이해하게 만들었다."[^6][^1]
+Chen Wan-chin, who had been involved in Taiwan's democratic movement for many years, later wrote: "In those 'Formosa Great Trial' courtroom showdowns, more Taiwanese realized that non-party figures were not some kind of notorious bandits, but were only striving for democracy." [^6][^1]
 
-스밍더는 법정에서 "대만은 독립해야 하며 사실 이미 30여 년 전부터 독립해 있었다. 지금의 이름이 중화민국일 뿐"이라고 밝히고, "당금, 보도 금지, 계엄령, 만년 국회가 대만 민주화의 네 가지 해악"이라고 열거했다.[^1] 이 말들은 언론을 통해 대만 전역에 퍼졌고, 그 효과는 정부가 전혀 예상하지 못한 것이었다.
+Shi Ming-te stated in court: "Taiwan should be independent, and in fact has been independent for over thirty years, with the current name being the Republic of China." He listed "the ban on parties, the ban on newspapers, martial law, and the perennial National Assembly" as the four great evils of Taiwan's democratization. [^1] These words were broadcast across Taiwan through the media, achieving an effect the government had completely not anticipated.
 
-4월 5일 군사 재판 판결이 나왔다. 스밍더 무기징역, 황신제 14년, 나머지 6명 각각 12년. 국제적 압박으로 스밍더의 사형은 감형되었다.[^10][^2]
+On April 5, the military judgment was issued: Shi Ming-te received life imprisonment, Huang Hsin-chieh received 14 years, and the other six received 12 years each. Under international pressure, Shi Ming-te's death sentence was commuted. [^10][^2]
 
-| 피고     | 판결      |
-| -------- | --------- |
-| 스밍더   | 무기징역  |
-| 황신제   | 징역 14년 |
-| 린이슝   | 징역 12년 |
-| 뤼슈롄   | 징역 12년 |
-| 장쥔훙   | 징역 12년 |
-| 천쥐     | 징역 12년 |
-| 야오자원 | 징역 12년 |
-| 린훙쉬안 | 징역 12년 |
+| Defendant        | Sentence              |
+| ---------------- | --------------------- |
+| Shi Ming-te      | Life Imprisonment     |
+| Huang Hsin-chieh | 14 Years Imprisonment |
+| Lin Yi-hsiung    | 12 Years Imprisonment |
+| Lu Hsiu-lien     | 12 Years Imprisonment |
+| Chang Chun-hung  | 12 Years Imprisonment |
+| Chen Chu         | 12 Years Imprisonment |
+| Yao Chia-wen     | 12 Years Imprisonment |
+| Lin Hung-hsuan   | 12 Years Imprisonment |
 
-## 린택 혈사: 1980년 2월 28일
+## The Lin Family Mansion Massacre: February 28, 1980
 
-군사 재판 9일 전, 린이슝의 집에서 본문 서두에 언급한 사건이 벌어졌다.
+Nine days before the military trial began, the event described at the beginning of this article occurred in Lin Yi-hsiung's home.
 
-타이베이 신이로에 위치한 그 집은 사건 당일 내내 정보요원들의 감시를 받고 있었다. 사건이 발생하는 동안 아무도 들어가지 않았다.[^12]
+That house on Xinyi Road in Taipei was under the surveillance of intelligence personnel all day before and after the incident. No one entered during the incident. [^12]
 
-이 세부 사실은 "아직도 미제 사건"이라는 네 글자에 말로 표현할 수 없는 무게를 부여한다.
+This detail gives the phrase "unsolved to this day" an unspeakable weight.
 
-린이슝은 감옥 안에서 가족이 이미 죽었다는 사실을 몰랐고, 이틀이 지나서야 알게 되었다. 그는 그때 발인에 참석할 수 없었다. 장녀 린환쥔은 훗날 어머니 팡쑤민과 함께 미국에서 생활했다. 린택 혈사는 린이슝 일생 정치 행동의 가장 깊은 낙인이 되었으며, 대만 전환적 정의 과정에서 아직도 미결로 남아 있는 가장 무거운 사례 중 하나다.[^12]
+Lin Yi-hsiung did not know his family was dead while in prison; he was only informed two days later. He could not go back to mourn at that time. His eldest daughter, Lin Huan-chun, later lived in the US with her mother, Fang Su-min. The Lin Family Mansion Massacre became the deepest imprint on [[Lin Yi-hsiung]]'s political life and remains one of the heaviest unresolved cases in the process of [[Taiwan Transitional Justice|Transitional Justice]] in Taiwan. [^12]
 
-> **📝 큐레이터 노트**
-> 린택 혈사가 왜 2·28 그날에 발생했는지는 여전히 수수께끼다. 의도적으로 날을 선택했다고 보는 사람도 있고, 우연이라고 보는 사람도 있다. 대만 백색테러 시대에 얼마나 많은 일들이 "마침 그렇게" 되었는지, 그 답은 법원 판결문이 줄 수 있는 것이 아니다.
+> **📝 Curator's Note**
+> Why the Lin Family Mansion Massacre occurred on February 28th remains a mystery. Some believe it was a deliberate choice of date; others think it was a coincidence. During Taiwan's [[Taiwan White Terror|White Terror]] period, how many things happened "coincidentally" like this? The answer has never been given in court verdicts.
 
-## 변론석 하나가 행정원장 네 명을 키웠다
+## A Defense Bench That Produced a President and Three Premiers
 
-15명의 변호인이 1980년 메이리다오 대재판의 사건을 맡았을 때, 그들은 사실상 자신의 정치적 생명을 건 것이나 다름없었다. 그 시대에 "반란범"을 변론한다는 것 자체가 정치적 입장 선언이었다.[^1]
+When 15 defense lawyers took on the Formosa Great Trial case in 1980, they were essentially betting their political lives on it. In that era, defending a "rebel" was itself a declaration of political stance. [^1]
 
-그들은 천수이볜, 셰창팅, 쑤전창, 장쥔슝, 장펑젠, 유칭, 장정슝, 궈지런, 정성주, 그 외 몇 명이었다.
+They were: Chen Shui-bian, Xie Chang-ting, Su Tseng-chang, Chang Chun-hsiung, Chiang Peng-chien, Yu Ching, Chang Cheng-hsiung, Kuo Chi-jen, Cheng Sheng-chu, and several others.
 
-이 사람들은 훗날:
+These people later:
 
-1. **1986/9/28** — 민주진보당 창당, 장펑젠이 초대 당주석으로 선출됨
-2. **1990/5/20** — 리덩후이가 메이리다오 정치범을 특사 석방
-3. **2000/3/18** — 천수이볜이 중화민국 총통에 당선, 최초의 비국민당 총통
-4. **2006~2016** — 셰창팅, 장쥔슝, 쑤전창이 차례로 행정원장 역임
-5. **2016~2024** — 쑤전창이 차이잉원 총통 임기 중 행정원장 재임
+1. **1986/9/28** — The Democratic Progressive Party (DPP) was founded; Chiang Peng-chien was elected as the first party chairperson.
+2. **1990/5/20** — Lee Teng-hui granted amnesty to the Formosa political prisoners.
+3. **2000/3/18** — Chen Shui-bian was elected President of the Republic of China, the first non-KMT president.
+4. **2000–2008** — Chang Chun-hsiung, Xie Chang-ting, and Su Tseng-chang served as Premier in succession.
+5. **2019–2023** — Su Tseng-chang served as Premier again during [[Tsai Ing-wen]]'s presidency.
 
-천수이볜이 맡은 것은 황신제 변론이었다. 그가 변론한 그 인물은 훗날 민주진보당 제3대 당주석이 되었다.
+Chen Shui-bian took on the defense of Huang Hsin-chieh. That person he defended later became the third chairperson of the DPP.
 
-한편 8명의 피고 중 린훙쉬안을 제외한 나머지 7명은 출소 후 모두 민주진보당 당주석 또는 대행 당주석을 지냈다. 뤼슈롄은 두 차례 부총통을 역임했고, 천쥐는 가오슝 시장을 12년 재임한 후 감찰원장을 맡았으며, 야오자원은 고시원장을 역임했다.[^3]
+At the same time, of the eight defendants, all seven except Lin Hung-hsuan served as DPP Chairperson or Acting Chairperson after their release. Lu Hsiu-lien later served two terms as Vice President, [[Chen Chu]] served as Mayor of Kaohsiung for 12 years before becoming President of the Control Yuan, and Yao Chia-wen served as President of the Examination Yuan. [^3]
 
-중앙연구원 연구원 우나이더는 이렇게 분석한다. "'메이리다오 사건' 이후 수년은 국민당 독재 정권이 가장 취약했던 시기였다. 유엔 탈퇴와 미·중 수교는 국민당 권위주의 체제의 정당성을 상실케 했다. 대륙 수복이 불가능해진 이상, 헌법과 삼민주의에 따르면 국회는 전면 개선되어야 하고 계엄도 해제되어야 했다." (BBC 중국어, 2019 인용)[^3]
+Academician Wu Nai-te of the Academia Sinica analyzed: "The few years after the 'Formosa Incident' were also the most fragile time for the KMT's dictatorship. Leaving the UN and establishing diplomatic relations with the US caused the KMT's authoritarian regime to lose legitimacy; since recovering the mainland was impossible, according to the Constitution and its Three Principles of the People, the National Assembly must be fully re-elected, and martial law must also be lifted." (Quote from BBC Chinese, 2019) [^3]
 
-> **📝 큐레이터 노트**
-> 대만의 민주화 이행은 아주 독특한 경로를 밟았다. 계엄 해제를 최종적으로 추진한 것은 거리의 압력이 그를 무너뜨린 것이 아니라 장징궈 본인이었다. 메이리다오 사건은 역설적인 과정을 열었다. 당외 핵심 인사들이 거의 모두 투옥되면서도, 동시에 대만인들을 처음으로 "나는 투표하고 싶다, 자유롭게 신문을 내고 싶다, 진정한 선거를 원한다"는 공공 토론으로 이끌어냈다.
+> **📝 Curator's Note**
+> Taiwan's [[Taiwan Democratic Transition|Democratic Transition]] has a peculiar path: the one who finally pushed for the lifting of martial law was Chiang Ching-kuo himself, rather than street pressure forcing him to fall. The Formosa Incident opened a contradictory process—it imprisoned almost all non-party elites, yet simultaneously brought Taiwanese people into public discussion for the first time about "I want to vote, I want to freely publish newspapers, I want real elections."
 
-## 민주화의 물결: 1980년대의 메아리
+## Ripples of Democratization: Echoes of the 1980s
 
-메이리다오 사건 이후 수형자의 가족과 변호인들이 "출마"를 통해 정치인들이 투옥으로 생긴 공백을 채웠다. 1981년 현시장 선거에서 팡쑤민(린이슝의 처), 쉬룽수(장쥔훙의 처), 천수이볜 등이 가족 또는 변호사 신분으로 선거전에 뛰어들어 더 큰 반대 에너지를 불러일으켰다.[^6]
+After the Formosa Incident, the families of the convicts and defense lawyers filled the political vacuum left by the imprisonment of political figures by "running for office." In the 1981 county and city mayor elections, Fang Su-min (Lin Yi-hsiung's wife), Hsu Jung-shu (Chang Chun-hung's wife), Chen Shui-bian, and others entered the election as family members or lawyers, stirring up even greater opposition energy. [^6]
 
-이 노선은 결국:
+This path ultimately led to:
 
-- 1986년 9월 28일, 아직 계엄이 해제되지 않은 상황에서 타이베이 원산 호텔에서 민주진보당이 창당 선언
-- 1987년 7월, 대만이 38년에 걸친 계엄 해제
-- 1988년 보도 금지 해제, 리덩후이 총통 취임
-- 1990년 메이리다오 정치범 특사 석방
-- 1996년 첫 총통 직선
+- September 28, 1986: The Democratic Progressive Party was announced in Taipei at the Grand Hotel in Taipei without martial law being lifted.
+- July 1987: [[Taiwan under Martial Law|Taiwan lifted martial law]] for 38 years.
+- 1988: The ban on newspapers was lifted; [[Lee Teng-hui]] succeeded as President.
+- 1990: The Formosa political prisoners were granted amnesty.
+- 1996: The first direct presidential election.
 
-사건의 영향은 문화계로도 뻗었다. 《보도자》 북리뷰는 문화계의 여러 작가들이 메이리다오 사건 이후 본토 관심과 인권 문학으로 전향해 1980년대 본토 문학 운동의 중요한 동력이 되었다고 지적한다.[^8]
+The incident's influence also extended to the cultural sphere. _The Reporter_ book excerpt points out that many writers in the cultural circle turned to local concerns and human rights literature after the Formosa Incident, becoming an important driving force for the local literature movement of the 1980s. [^8]
 
-## 스밍더의 말년: 영웅의 또 다른 면
+## Shi Ming-te's Later Years: The Other Side of a Hero
 
-스밍더는 메이리다오 사건으로 10년을 복역하고, 인생의 가장 중요한 세월을 감옥 안에서 보냈다. 출소 후 민주진보당 주석이 되어 많은 이들로부터 "대만의 만델라"라는 칭호를 받았다.[^4]
+Shi Ming-te served 10 years in prison for the Formosa Incident, spending the most important years of his life there. After release, he became the DPP chairperson and was called by many "Taiwan's Mandela." [^4]
 
-그러다 2006년, 그는 예전 전우들 거의 전부가 등을 돌리게 만든 한 가지 일을 했다.
+Then, in 2006, he did something that caused almost all his former comrades to turn against him.
 
-시임 총통 천수이볜이 부패 혐의에 연루되었다고 판단한 그는 1인당 100원의 방식으로 백만 명에게 모금을 호소하며 "백만 인민 반부패 천수이볜 퇴진 운동"을 발기했고, 붉은 셔츠 군중을 이끌고 카이다거란 대도에서 수개월간 연속 시위를 벌였다. 그는 천수이볜과 결별했고, 사실상 민주진보당 전체와도 선을 그었다.
+He believed then-President Chen Shui-bian was involved in corruption. He mobilized one million people to donate, 100 NT dollars each, launching the "Million People Anti-Greed Anti-Lin Movement," leading the Red Shirts in continuous sit-ins on the Ketagalan Boulevard for months. He broke with Chen Shui-bian and almost drew a clear line with the entire DPP.
 
-> **⚠️ 논쟁적 관점**
-> 스밍더의 지지자들은 그의 일생 입장이 일관됐다고 본다. 독재자에 맞선다, 그것이 어떤 색깔의 옷을 입고 있든. 비판자들은 그의 퇴진 운동이 객관적으로 국민당의 재집권을 도왔으며, 함께 옥살이를 했던 이상을 배신했다고 본다. BBC 중국어는 그가 2019년에 쓴 글을 기록한다. "40년이 지났다. 오늘의 국민당원은 이미 예전의 억압자가 아니지만 적대감은 여전히 존재한다. 오늘의 민주진보당원은 예전의 투사들이 거의 아니지만 증오는 아직도 타오른다."[^3] 스밍더는 2024년 1월 15일에 향년 83세로 세상을 떠났다.[^3][^4]
+> **⚠️ Controversial Viewpoint**
+> Shi Ming-te's supporters believe his stance throughout his life was consistent—fighting dictators, regardless of what color clothes they wore. Critics argue that his anti-Lin action objectively assisted the KMT in returning to power, betraying the ideals of those who sat in prison together. BBC Chinese recorded words he wrote in 2019: "Forty years have passed. Today's KMT members are not the oppressors of the past; hostility remains. Today's DPP members are rarely the fighters of the past; hatred still burns." [^3] Shi Ming-te passed away on January 15, 2024, at the age of 83. [^3][^4]
 
-대만 정치의 숱한 이야기 중에서 스밍더의 인생 궤적은 보기 드문 것이다. 그는 상징이 아니라, 살아있는 모순이었다.
+In the many stories of Taiwanese politics, Shi Ming-te's life trajectory is somewhat rare—he was not a symbol; he was a living contradiction.
 
-## 메이리다오 역, 매일 15만 명이 지나치는 지명
+## Formosa Station: A Place Name Walked Through by 18,000 People Daily
 
-가오슝 지하철 오렌지색·빨간색 노선의 환승역은 다강푸 원환 원래 자리에 세워졌으며, '메이리다오 역'이라고 명명되었다. 역 내 원형 천장에는 "빛의 돔"이 스테인드글라스로 표현되어 있으며, 면적은 2,180평방미터로 세계 최대 규모의 유리 예술 설치 작품 중 하나다.[^11]
+The Kaohsiung MRT Orange Line interchange station, built on the site of the Dagangpu Roundabout, is named "Formosa Station." The station's dome features a "Dome of Light" depicted in stained glass, with a diameter of about 30 meters and an area of about 660 square meters, making it one of the most representative public artworks of the Kaohsiung MRT. [^11]
 
-매일 약 15만 명의 승객이 그 돔 아래를 지나간다. 대부분은 그저 환승할 뿐이다.[^11]
+About 18,000 passengers pass under that dome every day, most just changing lines. [^11]
 
-태양화 운동의 학생들이 2014년 입법원을 점거했을 때 그들이 인용한 것은 "인민은 불의에 저항할 권리가 있다"는 말이었다. 그 맥락을 거슬러 올라가면 1979년 12월 10일 밤, 대원환에서 한 무리의 사람들이 "계엄 해제, 당금 철폐"를 외치다가 최루탄과 10년 이상의 옥살이로 돌려받은 그날 밤에 닿는다.
+Students in the [[Sunflower Student Movement]] who occupied the Legislative Yuan in 2014 cited "the people's right to resist injustice." That lineage traces back to the night of December 10, 1979, when a group of people at the Great Roundabout said "lift martial law, lift the party ban," only to receive tear gas and over ten years of imprisonment.
 
-1980년 린택 혈사의 범인은 끝내 찾지 못했다.
+The perpetrator of the 1980 Lin Family Mansion Massacre was never found.
 
-> **📝 큐레이터 노트**
-> 대만 전환적 정의의 가장 어려운 점은 "무언가를 했던" 사람을 추궁하는 것이 아니라, "왜 아무도 아무 말도 하지 않았던" 현장을 복원하는 것이다. 메이리다오 사건의 충돌은 누가 촉발했는가? 린택 혈사의 범인은 누구인가? 이 질문의 답은 어쩌면 법정에서 영원히 찾을 수 없겠지만, 한 사회가 어떻게 자신의 과거를 솔직하게 직면할 수 있는지에 있어 여전히 피할 수 없는 과제다.
+> **📝 Curator's Note**
+> The most difficult part of Taiwan's Transitional Justice is not pursuing those who "did what," but reconstructing the scene of "why no one said anything." Who ignited the conflict in the Formosa Incident? Who is the perpetrator of the Lin Family Mansion Massacre? The answers to these questions may never be found in court, but they remain an unavoidable topic for how a society honestly faces its past.
 
 ---
 
-## 참고 자료
+## References
 
-[^1]: [국가인권기억관: 가오슝 사건(메이리다오 사건)](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5)
+[^1]: [National Human Rights Memory Bank: Kaohsiung Incident (Formosa Incident)](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5)
 
-[^2]: [국가인권박물관: 징메이 제1 법정](https://www.nhrm.gov.tw/information_229_80685.html)
+[^2]: [National Human Rights Museum: Chingmei First Courtroom](https://www.nhrm.gov.tw/information_229_80685.html)
 
-[^3]: [BBC 중국어: 메이리다오 사건 40주년 — 주요 정치 인물 결산(2019)](https://www.bbc.com/zhongwen/trad/world-50726110)
+[^3]: [BBC Chinese: 40th Anniversary of the Formosa Incident — Reviewing Important Political Figures (2019)](https://www.bbc.com/zhongwen/trad/world-50726110)
 
-[^4]: [중앙통신사: 스밍더, 25년 이상 정치범 생활로 대만의 만델라로 불려(2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx)
+[^4]: [CNA: Shi Ming-te Imprisoned for Over 25 Years in Political Black Jail, Hailed as Taiwan's Mandela (2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx)
 
-[^5]: [故事 StoryStudio: 대규모 체포에서 군사 대재판까지(2022)](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C)
+[^5]: [Story Studio: From Mass Arrest to Military Great Trial (2022)](https://storystudio.tw/article/gushi/%E5%BE%9E%E5%A4%A7%E9%80%AE%E6%8D%95%E5%88%B0%E8%BB%8D%E6%B3%95%E5%A4%A7%E5%AF%A9%EF%BC%9A%E7%BE%8E%E9%BA%97%E5%B3%B6%E6%B0%91%E4%B8%BB%E9%81%8B%E5%8B%95%E5%BD%B1%E5%83%8F%E5%8F%B2%EF%BC%88%E4%BA%8C)
 
-[^6]: [대만교수협회: 메이리다오 사건의 회고와 성찰(1999)](https://taup.yam.org.tw/announce/9912/991208-d.htm)
+[^6]: [Taiwan Professors Association: Reflections on the Formosa Incident (1999)](https://taup.yam.org.tw/announce/9912/991208-d.htm)
 
-[^7]: [쥐전 대만: 1979년 12월 10일, 메이리다오 사건(2020)](https://www.gjtaiwan.com/new/?p=79870)
+[^7]: [Ju Zhen Taiwan: December 10, 1979, The Formosa Incident (2020)](https://www.gjtaiwan.com/new/?p=79870)
 
-[^8]: [보도자 북리뷰: 민족 기억 메이리다오(2020)](https://www.twreporter.org/a/bookreview-taiwan-finest-hour-kaohsiung-formosa-incident)
+[^8]: [The Reporter Book Excerpt: National Memory Formosa (2020)](https://www.twreporter.org/a/bookreview-taiwan-finest-hour-kaohsiung-formosa-incident)
 
-[^9]: [연합뉴스망: 메이리다오 사건 45년 회고 스밍더(2024)](https://udn.com/news/story/7339/8414750)
+[^9]: [United News Network: 45th Anniversary Review of the Formosa Incident Shi Ming-te (2024)](https://udn.com/news/story/7339/8414750)
 
-[^10]: [Taipei Times: The Formosa Incident: a look back(2019)](https://www.taipeitimes.com/News/editorials/archives/2019/12/10/2003727276)
+[^10]: [Taipei Times: The Formosa Incident: a look back (2019)](https://www.taipeitimes.com/News/editorials/archives/2019/12/10/2003727276)
 
-[^11]: [위키백과: 메이리다오 사건(참고용, 1차 출처 추적)](https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6)
+[^11]: [Wikipedia: Formosa Incident (For Reference, Tracing Primary Sources)](https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6)
 
-[^12]: [위키백과: 린택 혈사(참고용)](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88)
+[^12]: [Wikipedia: Lin Family Mansion Massacre (For Reference)](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88)
+
+---
+
+[^1]: [National Human Rights Memory Bank: Kaohsiung Incident (Formosa Incident)](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/5)
+
+[^2]: [National Human Rights Museum: Chingmei First Courtroom](https://www.nhrm.gov.tw/information_229_80685.html)
+
+[^3]: [BBC Chinese: 40th Anniversary of the Formosa Incident (2019)](https://www.bbc.com/zhongwen/trad/world-50726110)
+
+[^4]: [CNA: Shi Ming-te Imprisoned for Over 25 Years in Political Black Jail (2024)](https://www.cna.com.tw/news/aipl/202401150025.aspx)
+
+[^5]: [Story Studio: From Mass Arrest to Military Great Trial (2022)](https://storystudio.tw/article/gushi/)
+
+[^6]: [Taiwan Professors Association: Reflections on the Formosa Incident (1999)](https://taup.yam.org.tw/announce/9912/991208-d.htm)
+
+[^7]: [Ju Zhen Taiwan: December 10, 1979 (2020)](https://www.gjtaiwan.com/new/?p=79870)
+
+[^8]: [The Reporter Book Excerpt: National Memory Formosa (2020)](https://www.twreporter.org/a/bookreview-taiwan-finest-hour-kaohsiung-formosa-incident)
+
+[^9]: [United News Network: 45th Anniversary Review of the Formosa Incident Shi Ming-te (2024)](https://udn.com/news/story/7339/8414750)
+
+[^10]: [Taipei Times: The Formosa Incident (2019)](https://www.taipeitimes.com/News/editorials/archives/2019/12/10/2003727276)
+
+[^11]: [Wikipedia: Formosa Incident](https://zh.wikipedia.org/zh-hant/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6)
+
+[^12]: [Wikipedia: Lin Family Mansion Massacre](https://zh.wikipedia.org/wiki/%E6%9E%97%E5%AE%85%E8%A1%80%E6%A1%88)

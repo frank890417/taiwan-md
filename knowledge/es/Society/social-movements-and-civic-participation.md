@@ -1,296 +1,318 @@
 ---
-title: 'Movimientos sociales y participación cívica'
-description: 'Del Lirio Silvestre al Girasol: cómo Taiwán ha practicado la democracia y empujado el progreso social a través de los movimientos sociales.'
+title: 'Social Movements and Civic Engagement'
+description: 'How Taiwan has practiced democracy and driven social progress through social movements, from the Wild Lily to the Sunflower movements'
 date: 2026-03-18
 tags:
   [
-    'Movimientos sociales',
-    'Participación cívica',
-    'Democracia',
-    'Movimiento del Lirio Silvestre',
-    'Movimiento del Girasol',
-    'Reforma social',
+    'social movements',
+    'civic engagement',
+    'democracy',
+    'Wild Lily Student Movement',
+    'Sunflower Movement',
+    'social reform',
   ]
-subcategory: '民主與政治'
+subcategory: 'Democracy and Politics'
 author: 'Taiwan.md'
 category: 'Society'
 readingTime: 12
-featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:12118abc1d2e3f45'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: 'ee4917f3'
+sourceContentHash: 'sha256:ac992e6924f3e5d0'
+translatedAt: '2026-05-02T13:56:47+08:00'
 ---
 
-# Movimientos sociales y participación cívica
+# Social Movements and Civic Engagement
 
-## Resumen en 30 segundos
+## 30-Second Overview
 
-Taiwán es una sociedad con un movimientismo muy activo: del fin de la ley marcial en los años ochenta al Lirio Silvestre de 1990, del Girasol de 2014 a la legalización del matrimonio igualitario en 2019, los movimientos sociales han sido motor de la democratización y del progreso. Los movimientos taiwaneses se distinguen por su carácter pacífico y racional, su transmisión generacional y su pluralidad temática; reflejan la madurez y la vitalidad de la sociedad civil y son un referente clave de la democratización en Asia oriental.
+Taiwan is a society with active social movements. From the democratization movement in the 1980s, the 1990 Wild Lily Student Movement, the 2014 Sunflower Movement, to the legalization of same-sex marriage in 2019, social movements have always been an important force driving Taiwan's democratization and social progress. Taiwan's social movements are characterized by peaceful rationality, generational transmission, and diverse issues, demonstrating the maturity and vitality of civil society, and serving as an important model for democratization in East Asia.
 
-**Movimientos clave**: Lirio Silvestre (1990), Girasol (2014), matrimonio igualitario, ecologismo, sindicalismo.
+**Key Movements:** Wild Lily Student Movement (1990), Sunflower Movement (2014), Marriage Equality Movement, Environmental Movement, Labor Movement
 
-## Por qué importa
+## Why It Matters
 
-La experiencia taiwanesa muestra las múltiples vías de la participación política en una sociedad democrática. A diferencia de las democracias maduras occidentales, los movimientos sociales taiwaneses se desarrollaron al hilo de la democratización: son a la vez producto y motor de profundización democrática.
+Taiwan's experience with social movements demonstrates the diverse pathways for civic participation in politics within a democratic society. Unlike mature democratic countries in the West, Taiwan's social movements developed gradually during the process of democratization; they are both a product of democratization and a driving force for deepening democracy.
 
-Para la comunidad internacional, ofrecen un caso clave de "transición democrática en contexto asiático oriental": cómo impulsar reformas políticas manteniendo la estabilidad y cómo, mediante la participación, fiscalizar al gobierno y promover el progreso social.
+For the international community, Taiwan's experience with social movements provides an important case study on "how to achieve democratic transition within an East Asian context." Specifically, it illustrates how to promote political reform while maintaining social stability, and how to use civic participation to supervise the government and promote social progress.
 
-## Contexto histórico y fases
+## Historical Context and Development Stages
 
-### Oposición durante el autoritarismo (1949-1987)
+### Opposition Movements During the Martial Law Period (1949-1987)
 
-Bajo la ley marcial el espacio político era restringido, pero hubo protestas:
+During the martial law period, although the political space was restricted, there were still sporadic protest activities:
 
-**Primeras luchas:**
+**Early Protests:**
 
-- **Incidente de Zhongli (1977)**: protesta multitudinaria por fraude electoral.
-- **Incidente de Formosa (1979)**: concentración política de activistas demócratas.
-- **Movimientos universitarios**: estudiantes peleando por la autonomía y la libertad de expresión.
+- **Zhongli Incident (1977):** Mass protests sparked by electoral fraud.
+- **Formosa Incident (1979):** Political gatherings by democratic activists.
+- **Campus Democracy Movement:** College students fighting for autonomy and freedom of speech.
 
-Acumularon experiencia organizativa y energía social que sostendrían la posterior democratización.
+These movements accumulated organizational experience and social energy for subsequent democratization.
 
-### Estallido tras el levantamiento de la ley marcial (1987-1990)
+### Explosion of Social Movements After the Lifting of Martial Law (1987-1990)
 
-Tras el levantamiento de la ley marcial, la energía contenida explotó:
+After the lifting of martial law, suppressed social energy erupted instantly, and social movements on various issues developed vigorously:
 
-**Ecologismo:**
+**Environmental Movement:**
 
-- **Movimiento anti-DuPont (1986)**: oposición a la planta de DuPont en Lugang (Changhua).
-- **Movimiento antinuclear**: exigencia de paralizar la cuarta central nuclear.
-- **Defensa de los humedales**: oposición a la zona industrial Pinnan.
+- **Anti-DuPont Movement (1986):** Opposition to DuPont setting up a factory in Lukang, Changhua.
+- **Anti-Nuclear Movement:** Demanding the suspension of the construction of Nuclear Power Plant No. 4.
+- **Wetland Protection:** Opposition to the development of the Binnan Industrial Zone.
 
-**Movimiento obrero:**
+**Labor Movement:**
 
-- **Incidente del 519 (1988)**: huelga de conductores de Chiayi Bus.
-- **Derechos laborales**: lucha por las "tres libertades" (asociación, negociación y huelga).
+- **May 19 Incident (1988):** Strike by Chiayi bus drivers.
+- **Labor Rights:** Fighting for the three labor rights and job security.
 
-**Movimiento campesino:**
+**Peasant Movement:**
 
-- **Movimiento campesino del 520 (1988)**: defensa de la agricultura.
-- **Oposición a la importación de carne de vacuno estadounidense**.
+- **May 20 Peasant Movement (1988):** Fighting for agricultural protection policies.
+- **Opposition to US Beef Imports:** Protecting local agriculture.
 
-## Casos relevantes
+## Important Social Movement Cases
 
-### Movimiento del Lirio Silvestre (marzo 1990)
+### The Wild Lily Student Movement (March 1990)
 
-**Contexto**: renovación total del Parlamento y reforma constitucional.
-**Magnitud**: 6.000-10.000 estudiantes universitarios.
-**Lugar**: Plaza de la Libertad del Memorial de Chiang Kai-shek.
+**Background:** Comprehensive revision of the legislature and political system reform.
+**Scale:** Approximately 6,000-10,000 college students participated.
+**Location:** Liberty Square, Chiang Kai-shek Memorial Hall.
 
-Primer gran movimiento estudiantil taiwanés, decisivo para la democratización política.
+The Wild Lily Student Movement was Taiwan's first large-scale student movement and had a significant impact on promoting political democratization.
 
-**Cuatro demandas:**
+**Four Major Demands:**
 
-1. Disolución de la Asamblea Nacional.
-2. Derogación de las Cláusulas Temporales.
-3. Convocatoria de la Conferencia Nacional de Asuntos del Estado.
-4. Calendario de reformas constitucionales.
+1. Dissolve the National Assembly.
+2. Repeal the Temporary Provisions.
+3. Convene a National Affairs Conference.
+4. Establish a timeline for democratic reform of the political system.
 
-**Rasgos:**
+**Characteristics of the Movement:**
 
-- Pacífico y racional, con orden propio.
-- Estrategia mediática eficaz.
-- Coalición intercampus a escala nacional.
-- Apoyo de profesores e intelectuales.
+- **Peaceful and Rational:** Emphasized non-violent protest and maintained order at the site.
+- **Media Strategy:** Effectively used media to disseminate demands.
+- **Cross-School Alliance:** Nationwide joint action by college students.
+- **Intellectual Participation:** Professors and scholars publicly supported the movement.
 
-**Significado histórico:** impulsó la reforma constitucional y aceleró la democratización: renovación parlamentaria, elección directa del presidente, etc.
+**Historical Significance:**
+The Wild Lily Student Movement directly promoted political system reform and accelerated Taiwan's democratization process. After the movement ended, the government promised to implement political reform, leading to the comprehensive revision of the legislature, direct presidential elections, and other democratic institutions being gradually established.
 
-### Movimiento del Girasol (marzo 2014)
+### The Sunflower Movement (March 2014)
 
-**Contexto**: oposición al opaco Acuerdo de Servicios a través del Estrecho.
-**Magnitud**: hasta 500.000 personas en su pico.
-**Lugar**: salón del Yuan Legislativo, Yuan Ejecutivo, Plaza de la Libertad.
+**Background:** Opposition to the black-box operation of the Cross-Strait Service Trade Agreement.
+**Scale:** Approximately 500,000 people participated at its peak.
+**Location:** Legislative Yuan, Executive Yuan, Liberty Square.
 
-El mayor movimiento social del Taiwán post-democratización; mostró la atención de la nueva generación a la calidad democrática y a la subjetividad taiwanesa.
+The Sunflower Movement was the largest-scale social movement in Taiwan since democratization, demonstrating the new generation's concern for the quality of democracy and Taiwan's subjectivity.
 
-**Demandas:**
+**Core Demands:**
 
-1. Devolución del Acuerdo de Servicios.
-2. Mecanismo parlamentario de supervisión de los acuerdos con China.
-3. Asamblea Constituyente Cívica.
-4. Justicia procesal y transparencia.
+1. Return the Service Trade Agreement.
+2. Establish a supervision mechanism for cross-strait agreements.
+3. Convene a Civic Constitutional Conference.
+4. Procedural justice and transparent governance.
 
-**Rasgos:**
+**Characteristics of the Movement:**
 
-- Primera ocupación del salón del Parlamento.
-- Movilización por redes sociales y _streaming_ en directo.
-- Liderazgo estudiantil con apoyo intergeneracional.
-- Amplia cobertura internacional.
+- **Occupation of the Legislative Yuan:** The first action to occupy the national legislature.
+- **Online Mobilization:** Full use of social media and live streaming.
+- **Generational Participation:** Student-led with cross-generational support.
+- **International Attention:** Widely reported by international media.
 
-**Impacto:**
+**Social Impact:**
 
-- Influencia en las elecciones locales de 2014 y presidenciales de 2016.
-- Aumento de la conciencia política juvenil.
-- Reformas de transparencia y participación cívica.
+- **Political Impact:** Influenced the 2014 local elections and the 2016 presidential election.
+- **Civic Awareness:** Enhanced political participation among the younger generation.
+- **Deepening Democracy:** Promoted government information transparency and civic participation systems.
 
-### Movimiento por el matrimonio igualitario (2013-2019)
+### The Marriage Equality Movement (2013-2019)
 
-**Tema**: legalización del matrimonio entre personas del mismo sexo.
+**Issue:** Seeking the legalization of same-sex marriage.
+**Key Events:** Judicial interpretation by the Constitutional Court, referendums, legislation.
 
-Tras años de esfuerzo, en 2019 Taiwán se convirtió en la primera jurisdicción asiática en legalizar el matrimonio igualitario.
+Taiwan's marriage equality movement went through years of effort, finally becoming the first region in Asia to legalize same-sex marriage in 2019.
 
-**Cronología:**
+**Movement Process:**
 
-- **2013**: presentación legislativa del matrimonio igualitario.
-- **2016**: decenas de miles en la avenida Ketagalan.
-- **2017**: la Interpretación n.º 748 declara inconstitucional la prohibición.
-- **2018**: el referéndum no respalda al lado pro-igualdad.
-- **2019**: aprobación de la "Ley de Aplicación de la Interpretación n.º 748".
+- **2013:** Legislative Yuan members proposed the Marriage Equality Act.
+- **2016:** Tens of thousands marched on Liberty Square supporting same-sex marriage.
+- **2017:** Constitutional Interpretation No. 748 declared same-sex marriage unconstitutional.
+- **2018:** Supporters of same-sex marriage lost in the referendum.
+- **2019:** The "Act for Implementation of Judicial Interpretation No. 748 of the Judicial Yuan" was passed.
 
-**Estrategias:**
+**Movement Strategies:**
 
-- Vía legislativa y judicial.
-- Educación social a largo plazo.
-- Conexión con organizaciones internacionales de derechos humanos.
-- Pluralidad de voces y aliados.
+- **Legal Pathways:** Through legislation and judicial relief.
+- **Social Education:** Long-term social communication and education.
+- **International Connections:** Cooperation with international human rights organizations.
+- **Diverse Voices:** Combining supporters from different backgrounds.
 
-## Desarrollo del ecologismo
+**Historical Significance:**
+Taiwan became the first region in Asia to legalize same-sex marriage, demonstrating the progressive values and human rights protection of Taiwanese society.
 
-### Primeros movimientos (años 80-90)
+## Development of the Environmental Movement
 
-**Antitóxicos**: protestas contra la contaminación industrial.
-**Conservación**: defensa de la naturaleza y la biodiversidad.
+### Early Environmental Movement (1980s-1990s)
 
-**Casos clave:**
+**Anti-Pollution Movements:** Protests against industrial pollution and environmental damage.
+**Conservation Movements:** Protecting the natural environment and biodiversity.
 
-- Anti-DuPont: bloqueo del proyecto en Lugang.
-- Antinuclear: oposición sostenida a las centrales nucleares.
-- Salvar los cipreses de Qilan: protección de los bosques primigenios.
+**Important Cases:**
 
-### Ecologismo contemporáneo
+- **Anti-DuPont Movement:** Successfully prevented DuPont from setting up a factory in Lukang.
+- **Anti-Nuclear Movement:** Long-term opposition to the construction of nuclear power plants.
+- **Saving the Qilan Cypress Forest:** Protecting primary forests.
 
-**Cambio climático**, **transición energética**, **justicia ambiental**.
+### Modern Environmental Movement
 
-## Movimiento obrero y derechos sociales
+**Climate Change:** Focus on global warming and carbon reduction issues.
+**Energy Transition:** Promoting the development of renewable energy.
+**Environmental Justice:** Focusing on the impact of environmental pollution on vulnerable communities.
 
-### Derechos laborales
+## Labor Movements and Social Rights
 
-- "Tres libertades" laborales.
-- Lucha contra el abuso del "_responsabilidad system_"; defensa de jornadas razonables.
-- Aumento del salario mínimo.
+### Labor Rights Movements
 
-### Casos relevantes
+**Three Labor Rights:** Fighting for the right to organize, the right to negotiate, and the right to dispute.
+**Working Hours Issues:** Opposing the abuse of the responsibility system and fighting for reasonable working hours.
+**Wages and Benefits:** Demanding increases in the minimum wage.
 
-- Caso Hualon: lucha de trabajadoras textiles.
-- Movimiento de obreros de fábricas cerradas: indemnizaciones y pensiones.
-- Huelga de tripulantes de cabina.
+### Important Labor Movements
 
-## Rasgos y modelos
+- **Hualong Incident:** Protests by textile workers.
+- **Factory Closure Worker Movements:** Fighting for severance pay and pensions.
+- **Flight Attendant Strikes:** Fighting for improved working conditions.
 
-**1. Pacífico y racional**: protesta no violenta, énfasis en el "discurso racional" y la "expresión pacífica".
+## Characteristics and Models of Social Movements
 
-**2. Transmisión generacional**: del Lirio Silvestre al Girasol, transferencia explícita de experiencia y valores.
+### Characteristics of Taiwan's Social Movements
 
-**3. Pluralidad temática**: política, ecología, trabajo, género, derechos humanos.
+**1. Peaceful and Rational**
+Taiwan's social movements mostly adopt peaceful protest methods, with fewer instances of intense violent conflicts. Participants value "rational discourse" and "peaceful expression," a culture that helps maintain social stability.
 
-**4. Era digital**: movilización masiva por redes y nuevos medios.
+**2. Generational Transmission**
+From the Wild Lily generation to the Sunflower generation, Taiwan's social movements show clear generational transmission characteristics. The experiences and ideas of older movement participants are passed on to the younger generation, forming a continuation of movement culture.
 
-### Modelo organizativo y estrategias
+**3. Diversification of Issues**
+Taiwan's social movements cover various issues such as politics, environment, labor, gender, and human rights, reflecting the diverse needs and concerns of civil society.
 
-- ONG como agentes de incidencia y trabajo a largo plazo.
-- Asociaciones estudiantiles como base.
-- Coaliciones intersectoriales temáticas.
-- Estrategia mediática híbrida (medios tradicionales y nuevos).
+**4. Characteristics of the Internet Age**
+New-generation social movements fully utilize the internet and social media for mobilization, communication, and discourse, demonstrating the characteristics of movements in the digital age.
 
-## Movimientos sociales y política
+### Organizational Models and Mobilization Strategies
 
-### Influencia en la política
+**Role of NGOs:** Non-governmental organizations play an important role in issue advocacy and long-term management.
+**Student Organizations:** College student clubs are an important foundation for many social movements.
+**Cross-Disciplinary Alliances:** Different groups form alliances on specific issues.
+**Media Strategy:** Making good use of traditional media and new media to disseminate information.
 
-- Incidencia sobre las posiciones y estrategias electorales de los partidos.
-- Las demandas se traducen en propuestas legislativas.
-- Ajustes de políticas y reformas institucionales.
+## The Relationship Between Social Movements and Politics
 
-### Participación institucionalizada
+### Impact on Politics
 
-- Asambleas ciudadanas convocadas por el gobierno.
-- Audiencias públicas para políticas relevantes.
-- Referendos como vía de decisión directa.
+**Party Politics:** Social movements influence the policy positions and election strategies of political parties.
+**Legislative Process:** Movement demands often become legislative issues.
+**Government Response:** Promoting government policy adjustments and institutional reforms.
 
-## Maduración de la sociedad civil
+### Institutionalized Participation
 
-### Desarrollo del tercer sector
+**Citizen Conferences:** The government invites citizens to participate in policy-making.
+**Public Hearing System:** A mechanism for civic participation in major policies.
+**Referendum System:** A pathway for citizens to directly participate in political decision-making.
 
-ONG activas en distintos ámbitos:
+## Maturation of Civil Society
 
-- Derechos humanos: Asociación Taiwanesa por los Derechos Humanos (TAHR), Fundación de Reforma Judicial.
-- Ecologismo: Green Citizen Action Alliance, Homemakers United Foundation.
-- Género: Awakening Foundation, Taiwan Tongzhi (LGBT) Hotline Association.
-- Trabajadores: Taiwan Labor Front, Asociación de Víctimas de Lesiones Laborales.
+### Development of NGOs
 
-### Cultura de participación cívica
+Taiwan has active non-governmental organizations that promote social reform in various fields:
 
-- Voluntariado masivo.
-- Empresas sociales que combinan modelo de negocio y misión social.
-- _Crowdfunding_ para causas sociales.
-- Plataformas digitales de participación.
+- **Human Rights Organizations:** Taiwan Human Rights Promotion Association, Civil Judicial Reform Foundation.
+- **Environmental Groups:** Green Action, Housewives' Union.
+- **Gender Groups:** Women's New Knowledge Foundation, Taiwan LGBT Hotline.
+- **Labor Groups:** Taiwan Labor Front, Association for the Assistance of Workers with Occupational Injuries.
 
-## Retos y reflexión
+### Civic Participation Culture
 
-### Retos actuales
+**Volunteer Culture:** Taiwan has a high proportion of volunteer participation.
+**Social Enterprises:** Organizations combining business models with social missions.
+**Crowdfunding:** Citizens support social issues through small donations.
+**Online Participation:** Online platforms promote civic participation in policy discussions.
 
-- Competencia entre temas por la atención y los recursos.
-- Brecha intergeneracional en percepciones y formas de participar.
-- Cambios mediáticos: desinformación y burbujas.
-- Polarización política.
+## Challenges and Reflections
 
-### Líneas de futuro
+### Current Challenges
 
-- Más participación digital.
-- Mayor articulación con la sociedad civil internacional.
-- Cooperación entre temas y coaliciones estratégicas.
-- Innovación institucional en los mecanismos de participación.
+**Issue Competition:** Various issues compete for social attention and resources.
+**Generational Differences:** Different generations have different perceptions and participation methods regarding issues.
+**Changes in Media Environment:** The impact of fake news and echo chamber effects.
+**Political Polarization:** Political stances affect movement participation and support.
 
-## Comparación internacional y rasgos propios
+### Future Development
 
-### Contexto del este de Asia
+**Digital Participation:** Developing more diverse online participation models.
+**International Connections:** Cooperating with international civil society organizations.
+**Cross-Issue Cooperation:** Strategic alliances between different issues.
+**Institutional Innovation:** Exploring new mechanisms for civic participation.
 
-Frente a movimientos más introspectivos en Japón o más radicalizados en Corea del Sur, los movimientos taiwaneses muestran un perfil moderado-eficaz.
+## International Comparison and Characteristics
 
-### Experiencia democratizadora
+### East Asian Context
 
-Caso paradigmático de "transición democrática gradual": reforma política sin renunciar a la estabilidad social.
+Compared to the inward-looking social movements in Japan or the radicalized protests in South Korea, Taiwan's social movements present characteristics of being rational and moderate yet consistently effective.
 
-### Influencia en Hong Kong
+### Democratization Experience
 
-Las experiencias taiwanesas influyeron en Occupy Central y el movimiento de los paraguas, demostrando que las sociedades chinas pueden practicar la democracia.
+Taiwan's experience with social movements provides an important case study of "gradual democratic transition," demonstrating how to achieve political reform while maintaining social stability.
 
-## Significado cultural
+### Influence on Hong Kong
 
-### Cultivo de conciencia ciudadana
+Taiwan's experience with social movements had a significant impact on Hong Kong's Occupy Central, Umbrella Movement, etc., demonstrating the possibility of practicing democracy in Chinese-speaking societies.
 
-Los movimientos son escuelas de educación cívica: valores democráticos, participación pública y responsabilidad social.
+## Cultural Significance of Social Movements
 
-### Debate sobre los valores
+### Cultivation of Civic Awareness
 
-Empujan a la sociedad a discutir y revisar valores, alimentando su renovación.
+Social movements are an important pathway for civic education. Through participating in movements, citizens learn democratic values, public participation, and social responsibility.
 
-### Profundización de la cultura democrática
+### Debate on Social Values
 
-A través de los movimientos, Taiwán ha forjado una cultura de "respeto a la pluralidad", "debate racional" y "expresión pacífica".
+Social movements promote discussion and reflection on different values within society, driving value updates and progress.
 
-## Lecciones para observadores extranjeros
+### Deepening Democratic Culture
 
-- **Diversidad de la práctica democrática**: la democracia puede tener formas distintas; no hay que imitar exactamente el modelo occidental.
-- **Función positiva de los movimientos sociales**: en una democracia madura son una vía sana de participación.
-- **Importancia de la sociedad civil**: una sociedad civil fuerte es base de la consolidación democrática y requiere cultivo a largo plazo.
+Through social movements, Taiwanese society has gradually formed a democratic culture of "respect for diversity," "rational debate," and "peaceful expression."
 
-## Reflexión final
+## Insights for Foreign Observers
 
-La experiencia taiwanesa muestra cómo una sociedad puede reformarse y avanzar mediante la participación cívica. En la era digital, la globalización y la polarización, mantener la eficacia y la legitimidad de los movimientos sociales sigue siendo un reto que merece observarse y pensarse.
+### Diversity of Democratic Practice
 
-**Lectura ampliada**:
+Taiwan's experience shows that democratic practice can take different forms and paths, and there is no need to completely imitate Western models.
 
-- [The Reporter: cómo, en diez años, el periodismo de investigación pasó de servicio comercial a bien público](/society/報導者) — desde 2015, la sociedad civil taiwanesa convierte el periodismo de investigación en bien público mediante donaciones recurrentes.
-- [Justfont y el desarrollo tipográfico taiwanés](/technology/justfont與台灣字體發展) — otro caso del año en que el _crowdfunding_ reescribe la percepción cultural.
-- [Cables submarinos: visibles desde el "escudo de silicio", invisibles bajo tierra](/technology/海底電纜) — Ley Marítima 7, plataforma de defensa conjunta de Pingtung y caso Hongtai 58: cómo la presión cívica empuja la legislación de seguridad nacional.
+### Positive Functions of Social Movements
 
-## Referencias
+In mature democratic societies, social movements are a healthy form of political participation that helps continuously improve democracy.
 
-- He Ming-hsiu, _Introducción a los movimientos sociales_.
-- Hsiao Hsin-huang, _Los nuevos movimientos sociales en Taiwán_.
-- Lin Chia-lung y Zheng Yongnian (eds.), _Transición y consolidación democráticas_.
-- _Generación de los movimientos estudiantiles: del Lirio Silvestre al Girasol_.
-- Webs y documentales de las propias organizaciones.
+### Importance of Civil Society
+
+A strong civil society is an important foundation for consolidating democracy, requiring long-term cultural cultivation and institutional support.
+
+## Extended Thinking
+
+Taiwan's experience with social movements demonstrates how a society can achieve self-reform and progress through civic participation. This experience has important reference value for understanding the operational mechanisms of modern democratic societies and how to seek consensus in a diverse society.
+
+In the future, Taiwan's social movements face new challenges such as the digital age, globalization, and political polarization. How to maintain the effectiveness and legitimacy of movements in a changing environment is an important issue worth continuous observation and reflection.
+
+**Further Reading:**
+
+- [The Reporter: Saving Investigative Journalism from Being a Business Item into a Public Good for Ten Years](/society/報導者) — Starting in 2015, Taiwan's civil society used a method of monthly deductions from strangers to save investigative journalism from being a commercial media business item into a public good.
+- [justfont and the Development of Taiwanese Fonts: From Wacom's 25 Years to a 76-Minute Typeface History](/technology/justfont與台灣字體發展) — Another case where crowdfunding rewrote cultural perception in the same year, extending the narrative of civil society from the perspective of typeface infrastructure.
+- [Submarine Cables: Visible from the Top of the Silicon Shield, Invisible at the Bottom of the Lifeline](/technology/海底電纜) — The legislation of the Seven Laws on Submarine Cables, the Pingtung Joint Defense Platform, and the Hongtai No. 58 judicial precedent demonstrate the axis of civil society pressure promoting the legislation of national security infrastructure.
+
+## References
+
+- He Mingxiu, _[Introduction to Social Movements](https://www.books.com.tw/products/0010294565)_
+- Hsiao Hsin-huang, _[Taiwan's New Social Movements](https://www.books.com.tw/products/0010479654)_
+- Lin Chia-lung, Zheng Yongnian (eds.), _[Democratic Transition and Consolidation](https://www.books.com.tw/products/0010008479)_
+- _[The Student Movement Generation: From Wild Lily to Sunflower](https://www.books.com.tw/products/0010642379)_
+- Official websites of various social movement groups and related documentaries

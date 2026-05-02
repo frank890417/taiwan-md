@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T02:13:38.395Z",
+  "lastUpdated": "2026-05-02T06:19:44.262Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 120,
-        "articlesLast30Days": 297,
-        "totalArticles": 638
+        "articlesLast7Days": 134,
+        "articlesLast30Days": 310,
+        "totalArticles": 648
       }
     },
     {
@@ -24,9 +24,9 @@
       "score": 99,
       "trend": "up",
       "metrics": {
-        "humanReviewedCount": 630,
-        "totalArticles": 638,
-        "humanReviewedPercent": 98.7
+        "humanReviewedCount": 640,
+        "totalArticles": 648,
+        "humanReviewedPercent": 98.8
       }
     },
     {
@@ -98,18 +98,18 @@
       "nameZh": "語言器官",
       "metaphor": "多語言複製",
       "emoji": "🌐",
-      "score": 87,
+      "score": 88,
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 638,
-          "en": 658,
-          "ja": 651,
-          "ko": 644,
-          "es": 637,
-          "fr": 660
+          "zh-TW": 648,
+          "en": 668,
+          "ja": 663,
+          "ko": 654,
+          "es": 648,
+          "fr": 672
         },
-        "translationPct": 87,
+        "translationPct": 88,
         "langHealthDetails": {
           "en": {
             "ui": {
@@ -126,7 +126,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 658,
+              "count": 668,
               "pct": 103
             },
             "score": 100
@@ -146,7 +146,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 651,
+              "count": 663,
               "pct": 102
             },
             "score": 81
@@ -166,7 +166,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 644,
+              "count": 654,
               "pct": 101
             },
             "score": 100
@@ -186,7 +186,7 @@
               "pct": 100
             },
             "articles": {
-              "count": 637,
+              "count": 648,
               "pct": 100
             },
             "score": 85
@@ -206,10 +206,10 @@
               "pct": 25
             },
             "articles": {
-              "count": 660,
-              "pct": 103
+              "count": 672,
+              "pct": 104
             },
-            "score": 71
+            "score": 72
           }
         }
       }
