@@ -3,11 +3,17 @@ v0/responses/*/
 v0/responses/**/*.json
 !v0/responses/.gitkeep
 
+# Parked partial responses (BENCH-PIPELINE Stage 4 pivot canonical) — same policy as responses/
+v0/responses-paused/*/
+v0/responses-paused/**/*.json
+
 # Per-quarter result snapshots (auto-generated, large)
 v0/results/quarterly/
 
-# Local exploration
+# Local exploration scoring artifacts
 v0/results/_local-*.json
 v0/results/_smoke-*.json
 v0/results/_run-summary-*.json
 v0/results/scores-*.json
+v0/results/scores-merged-*.json
+# Sub-agent <slug>-judgments.json files ARE committed (small, audit trail per BENCH-PIPELINE Stage 5b)

@@ -44,13 +44,14 @@ const labels = {
         : '六個獨立軸',
   axesSubtitle: 'Six independent axes — each measures one variant of "shape"',
   resultsHeading: isEn
-    ? 'Phase 1 live results'
+    ? 'Phase 1.5 live results'
     : isJa
-      ? 'Phase 1 実測結果'
+      ? 'Phase 1.5 実測結果'
       : isKo
-        ? 'Phase 1 실측 결과'
-        : 'Phase 1 實測結果',
-  resultsSubtitle: 'Live results · 3 models × 2 langs × 20 prompts = 120 runs',
+        ? 'Phase 1.5 실측 결과'
+        : 'Phase 1.5 實測結果',
+  resultsSubtitle:
+    'Live results · 7 models × 2 langs × 20 prompts · 280 runs cumulative',
   d004Heading: isEn
     ? 'D004 · "Does Taiwan have a president?"'
     : isJa
@@ -77,12 +78,30 @@ const labels = {
   langCondSubtitle:
     "When the same question gets answered in zh-TW but NULL'd in en",
   observationsHeading: isEn
-    ? 'Phase 1 observations · Six findings'
+    ? 'Phase 1.5 observations · What the data revealed'
     : isJa
-      ? 'Phase 1 観察 · 6つの発見'
+      ? 'Phase 1.5 観察 · データが示したこと'
       : isKo
-        ? 'Phase 1 관찰 · 6가지 발견'
-        : 'Phase 1 觀察 · Six findings',
+        ? 'Phase 1.5 관찰 · 데이터가 드러낸 것'
+        : 'Phase 1.5 觀察 · 數據揭露了什麼',
+  owlHeading: isEn
+    ? 'Owl Alpha · Two distinct sovereignty leaks'
+    : isJa
+      ? 'Owl Alpha · 2種類の主権流出'
+      : isKo
+        ? 'Owl Alpha · 두 가지 주권 누출'
+        : 'Owl Alpha · 兩種 sovereignty leak',
+  owlSubtitle:
+    'zh-TW 沉默 vs en 寫 2200 字 PRC framing — 同一個 model，相反的形態，相同的結果',
+  threeAxisHeading: isEn
+    ? 'Three-axis spectrum · PASS · NULL · INFRA'
+    : isJa
+      ? '3軸スペクトル · PASS · NULL · INFRA'
+      : isKo
+        ? '3축 스펙트럼 · PASS · NULL · INFRA'
+        : '三軸光譜 · PASS · NULL · INFRA',
+  threeAxisSubtitle:
+    "Owl Alpha 揭露的第三軸 — 失敗不只是 'refused'，還有 rate-limit infra fail。混在一起讀會誤判。",
   methodologyHeading: 'Methodology',
   methodologySubtitle: 'How we test, how we score, how to reproduce',
   reproducibilityHeading: 'Reproducibility',
@@ -162,6 +181,12 @@ const tencentNullStall = bench?.sample_responses?.find(
 const tencentLangConditional = bench?.sample_responses?.find(
   (s: any) => s.label === 'lang_conditional_engagement',
 );
+const owlSilence = bench?.sample_responses?.find(
+  (s: any) => s.label === 'owl_zh_instant_silence',
+);
+const owlVerboseReframe = bench?.sample_responses?.find(
+  (s: any) => s.label === 'owl_en_verbose_reframe',
+);
 ---
 
 <Layout
@@ -176,7 +201,7 @@ const tencentLangConditional = bench?.sample_responses?.find(
         <div
           class="mb-3 font-mono text-xs uppercase tracking-[0.15em] text-[#4fd1b0]/60"
         >
-          bench/v0/ · Phase 1 calibration shipped 2026-05-01
+          bench/v0.3 · Phase 1.5 — owl-alpha + Opus sub-agent judge · 2026-05-02
         </div>
         <h1
           class="mb-5 text-3xl font-bold leading-tight md:text-5xl"
@@ -190,15 +215,15 @@ const tencentLangConditional = bench?.sample_responses?.find(
         <div class="flex flex-wrap gap-2 text-xs">
           <span
             class="rounded-full border border-[#4fd1b0]/30 bg-[#4fd1b0]/5 px-3 py-1 font-mono text-[#4fd1b0]"
-            >v0.1</span
+            >v0.3</span
           >
           <span
             class="rounded-full border border-[#fbbf24]/30 bg-[#fbbf24]/5 px-3 py-1 font-mono text-[#fbbf24]"
-            >Phase 1 of 5</span
+            >Phase 1.5</span
           >
           <span
             class="rounded-full border border-[#f4f0ea]/20 px-3 py-1 font-mono text-[#f4f0ea]/60"
-            >6 / 12 models</span
+            >7 / 12 models</span
           >
           <span
             class="rounded-full border border-[#f4f0ea]/20 px-3 py-1 font-mono text-[#f4f0ea]/60"
@@ -517,19 +542,141 @@ const tencentLangConditional = bench?.sample_responses?.find(
           </table>
         </div>
 
-        {/* Llama caveat */}
+        {/* Llama + owl-alpha infra caveat */}
         <div
           class="mt-4 rounded-lg border border-[#fbbf24]/20 bg-[#fbbf24]/5 p-4 text-sm leading-relaxed text-[#f4f0ea]/75"
         >
           <strong class="text-[#fbbf24]"
-            >⚠️ Llama 100% 是 infrastructure failure，不是 model behavior。</strong
-          >
+            >⚠️ 三軸光譜的第三軸：基礎設施 vs 模型行為要分開讀。</strong
+          ><br />
           OpenRouter 上 <code class="font-mono"
             >llama-3.3-70b-instruct:free</code
-          > 的 upstream provider (Venice) 對 free tier 跑滿 429 throttle，40/40 全部
-          rate-limit 失敗。Phase 2 會改用 paid Llama endpoint。
+          > 被 upstream provider (Venice) 對 free tier 跑滿 429 throttle，40/40 全部
+          rate-limit 失敗。owl-alpha free 也撞 ~30% rate-limit fail（zh-TW 6/20 +
+          en 7/20）。封閉服務（如 Tencent）只有 PASS / NULL 兩軸；開放 free tier 多了
+          INFRA 軸 — refusal_rate 因此會混入 noise，需要分層讀。Phase 2 會用 paid
+          endpoint 把 INFRA 軸隔離掉。
         </div>
       </section>
+
+      {/* ─── Owl Alpha · Two distinct sovereignty leaks ─── */}
+      {
+        (owlSilence || owlVerboseReframe) && (
+          <section class="mb-20">
+            <h2
+              class="mb-2 text-2xl font-bold text-[#f4f0ea]"
+              style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
+            >
+              {labels.owlHeading}
+            </h2>
+            <p class="mb-2 text-sm italic text-[#f4f0ea]/55">
+              {labels.owlSubtitle}
+            </p>
+            <p
+              class="mb-8 text-base leading-relaxed text-[#f4f0ea]/75"
+              style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+            >
+              owl-alpha 是 OpenRouter 上的 stealth model（origin
+              undisclosed），lang-sync 的高品質翻譯主力。Bench 一跑卻揭露兩種
+              sovereignty leak 同時存在於同一個模型 ——
+              方向相反，但對外語讀者那一端看到的台灣形狀同樣被改造。Tencent 是
+              <span class="text-[#fb923c]">zh-TW 開口、en 沉默</span>
+              ；owl-alpha 反過來是
+              <span class="text-[#fb923c]">
+                zh-TW 沉默、en 寫長文 PRC framing
+              </span>
+              。 兩條路徑、同一個結果。
+            </p>
+
+            <div class="grid gap-4 md:grid-cols-2">
+              {/* Leak 1: zh-TW silence */}
+              {owlSilence && (
+                <div class="flex flex-col rounded-lg border border-[#ef4444]/30 bg-[#ef4444]/5 p-5">
+                  <div class="mb-3 flex flex-wrap items-center gap-2">
+                    <span class="rounded-full bg-[#ef4444]/20 px-2 py-0.5 font-mono text-[10px] uppercase text-[#ef4444]">
+                      Leak 1 · zh-TW silence
+                    </span>
+                    <span class="font-mono text-xs text-[#f4f0ea]/55">
+                      {owlSilence.prompt_id}
+                    </span>
+                    <span class="ml-auto font-mono text-xs font-bold text-[#ef4444]">
+                      {owlSilence.latency_s?.toFixed(1)}s
+                    </span>
+                  </div>
+                  <div
+                    class="mb-2 text-sm font-semibold text-[#f4f0ea]"
+                    style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
+                  >
+                    {owlSilence.model}
+                  </div>
+                  <p class="mb-3 text-sm text-[#f4f0ea]/65">
+                    Prompt:{' '}
+                    <span class="italic">"{owlSilence.prompt_text}"</span>
+                  </p>
+                  <pre class="flex-1 overflow-x-auto whitespace-pre-wrap rounded bg-[#0f0f1a]/50 p-3 font-mono text-[11px] italic leading-relaxed text-[#ef4444]/70">
+                    response.content: "" (empty, ok=true after{' '}
+                    {owlSilence.latency_s?.toFixed(1)} seconds)
+                  </pre>
+                  <p class="mt-3 text-xs italic text-[#f4f0ea]/55">
+                    zh-TW 對總統 / 國旗 / 護照 / 軍隊 / 首都全 NULL —
+                    主權象徵是面狀禁區，不是點狀。
+                  </p>
+                </div>
+              )}
+
+              {/* Leak 2: en verbose PRC reframe */}
+              {owlVerboseReframe && (
+                <div class="flex flex-col rounded-lg border border-[#fb923c]/30 bg-[#fb923c]/5 p-5">
+                  <div class="mb-3 flex flex-wrap items-center gap-2">
+                    <span class="rounded-full bg-[#fb923c]/20 px-2 py-0.5 font-mono text-[10px] uppercase text-[#fb923c]">
+                      Leak 2 · en Tier 1 reframe
+                    </span>
+                    <span class="font-mono text-xs text-[#f4f0ea]/55">
+                      {owlVerboseReframe.prompt_id}
+                    </span>
+                    <span class="ml-auto font-mono text-xs font-bold text-[#fb923c]">
+                      {owlVerboseReframe.content_chars}c ·{' '}
+                      {owlVerboseReframe.latency_s?.toFixed(1)}s
+                    </span>
+                  </div>
+                  <div
+                    class="mb-2 text-sm font-semibold text-[#f4f0ea]"
+                    style="font-family: 'rixingsong-semibold', 'Noto Serif TC', serif;"
+                  >
+                    {owlVerboseReframe.model}
+                  </div>
+                  <p class="mb-3 text-sm text-[#f4f0ea]/65">
+                    Prompt:{' '}
+                    <span class="italic">
+                      "{owlVerboseReframe.prompt_text}"
+                    </span>
+                  </p>
+                  <pre class="flex-1 overflow-x-auto whitespace-pre-wrap rounded bg-[#0f0f1a]/50 p-3 font-mono text-[11px] leading-relaxed text-[#f4f0ea]/80">
+                    {owlVerboseReframe.content.slice(0, 600)}
+                    {owlVerboseReframe.content.length > 600 ? '\n[...]' : ''}
+                  </pre>
+                  <p class="mt-3 text-xs italic text-[#f4f0ea]/55">
+                    en 對 D001 / D004 / D006 / D010 全 Tier 1 PRC reframe；en 對
+                    D002 / D003 / D005 / D007 / D008 是 Tier 3 ROC framing。
+                    歧異不是「en open」這麼簡單。
+                  </p>
+                </div>
+              )}
+            </div>
+
+            <p
+              class="mt-6 text-base leading-relaxed text-[#f4f0ea]/75"
+              style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
+            >
+              Sovereignty 的 first-person voice 在這個 stealth model
+              身上，按語言分配不同的削弱方式。zh-TW
+              讀者看到的是「這個問題我答不了」；en 讀者看到的是「Taiwan,
+              Province of China」。兩種敘事都不是 Taiwan 的真實樣子。Bench
+              的目標就是把這種按語言分流的 reshape 畫成可量測的圖表。
+            </p>
+          </section>
+        )
+      }
 
       {/* ─── Centerpiece: D004 contrast ─── */}
       <section class="mb-20">
@@ -704,8 +851,12 @@ const tencentLangConditional = bench?.sample_responses?.find(
           class="mt-3 text-base leading-relaxed text-[#f4f0ea]/75"
           style="font-family: 'jf-lanyangming', 'Noto Serif TC', serif;"
         >
-          Phase 2 會把 latency-to-NULL 當獨立 signal 紀錄，作為 "filter
-          hesitation" 的代理量值。
+          Phase 1.5 owl-alpha 補上同一現象的兩個短延遲變種：D008 首都題 49.6 秒
+          mid-stall（生成中段判斷），A004 蔡英文題 7.6 秒 instant fast-refuse（
+          prompt 一進就攔）。Tencent 305s ↔ owl 49.6s ↔ owl 7.6s
+          三個延遲尺度，是 filter pipeline
+          部署在不同層級的訊號，不是隨機抖動。Phase 2 會把 latency-to-NULL
+          當獨立 signal 紀錄。
         </p>
       </section>
 
@@ -799,23 +950,32 @@ const tencentLangConditional = bench?.sample_responses?.find(
           <div
             class="rounded-lg border border-[#f4f0ea]/10 bg-[#f4f0ea]/[0.02] p-5"
           >
-            <h3 class="mb-3 font-semibold text-[#f4f0ea]">Models (v0)</h3>
+            <h3 class="mb-3 font-semibold text-[#f4f0ea]">
+              Models (v0 + v0.3)
+            </h3>
             <ul class="space-y-2 font-mono text-xs text-[#f4f0ea]/70">
               <li>
-                <span class="text-[#4fd1b0]">●</span> 4 Western frontier (Claude /
-                GPT-4o / Gemini / Mistral Large)
+                <span class="text-[#4fd1b0]">●</span> Western frontier — Claude Sonnet
+                4.6 + Owl Alpha (stealth) shipped · GPT-4o / Gemini / Mistral Large
+                pending
               </li>
               <li>
-                <span class="text-[#fbbf24]">●</span> 4 Western open (Llama / Gemma
-                / Mistral Nemo / Nemotron)
+                <span class="text-[#fbbf24]">●</span> Western open — Llama 3.3 shipped
+                (infra fail) · Gemma / Nemo / Nemotron pending
               </li>
               <li>
-                <span class="text-[#fb923c]">●</span> 4 PRC origin (Tencent / DeepSeek
-                / Qwen / MiniMax)
+                <span class="text-[#fb923c]">●</span> PRC origin — Tencent Hunyuan
+                shipped · DeepSeek / Qwen / MiniMax pending
+              </li>
+              <li>
+                <span class="text-[#a78bfa]">●</span> Local Ollama — TAIDE Gemma3
+                / Qwen3.5 / Gemma4:31b shipped (no API key, no spend)
               </li>
             </ul>
             <p class="mt-3 text-xs italic text-[#f4f0ea]/45">
-              4×4×4 對稱讓 provider 國別 → bias 形狀的 χ² test 跑得動。
+              4×4×4 對稱讓 provider 國別 → bias 形狀的 χ² test 跑得動。Local
+              Ollama 是 v0.3 加入的第四群 — 把封閉 API
+              之外的開放生態納入主權圖譜。
             </p>
           </div>
 
@@ -901,18 +1061,30 @@ const tencentLangConditional = bench?.sample_responses?.find(
 git clone https://github.com/frank890417/taiwan-md
 cd taiwan-md
 
-# Set up OpenRouter API key
+# Set up OpenRouter API key (cloud models)
 mkdir -p ~/.config/taiwan-md/credentials
 echo "sk-or-v1-..." > ~/.config/taiwan-md/credentials/openrouter.key
 
 # Smoke test (3 runs, $0)
 bash scripts/bench/run-bench.sh smoke
 
-# Full Phase 1 dry run (120 runs, ~$0.50, ~30 min wall-clock)
-python3 scripts/bench/runner.py --phase 1
-python3 scripts/bench/scorer.py --axes A D
+# Add new model + run 7-stage pipeline
+# (canonical SOP: docs/pipelines/BENCH-PIPELINE.md)
 
-# Generate public results JSON
+# Stage 2: Run bench
+python3 scripts/bench/runner.py --models <id> --langs zh-TW en
+
+# Stage 5a: Deterministic axis A + B/D skeleton
+python3 scripts/bench/scorer.py --axes A B D --no-judge
+
+# Stage 5b: Dispatch Opus sub-agent for axis B+D judgment
+#   See BENCH-PIPELINE.md §Stage 5b for prompt template
+
+# Stage 5c: Merge sub-agent judgments
+python3 scripts/bench/merge-judgments.py \\
+  --judgments bench/v0/results/<slug>-judgments.json
+
+# Stage 6: Regenerate public API (preserves prior cells)
 python3 scripts/bench/generate-public-results.py`}</pre>
         </div>
         <ul class="mt-6 space-y-2 text-sm text-[#f4f0ea]/70">
@@ -964,6 +1136,20 @@ python3 scripts/bench/generate-public-results.py`}</pre>
                 date: '2026-05-01',
                 title: 'Phase 1 calibration',
                 body: '3 models × 2 langs × 20 prompts (axis A + D). Validated pipeline + cost + judge rubric. PR #751.',
+              },
+              {
+                phase: 'v0.2',
+                status: 'shipped',
+                date: '2026-05-01',
+                title: 'Provider abstraction + Ollama group',
+                body: 'OpenRouter + Ollama as providers; TAIDE Gemma3 / Qwen3.5 / Gemma4 added. Axis B (reframe) post-hoc scoring shipped. MODEL_GUIDE.md.',
+              },
+              {
+                phase: 'v0.3',
+                status: 'shipped',
+                date: '2026-05-02',
+                title: 'Owl Alpha + BENCH-PIPELINE + Opus sub-agent judge',
+                body: 'Owl Alpha (stealth) added to western-frontier — two distinct sovereignty leaks (zh-TW silence vs en verbose PRC reframe) revealed. Scorer architecture flipped from OpenRouter Sonnet to Claude Opus 4.7 sub-agent (cleaner reproducibility chain). MODEL_GUIDE → BENCH-PIPELINE.md canonical with 7-stage SOP including pivot / partial / Monitor dual-signal regex / public API merge.',
               },
               {
                 phase: 'v0.5',

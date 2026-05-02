@@ -1,18 +1,33 @@
-# Adding a model to Sovereignty-Bench-TW
+# Adding a model to Sovereignty-Bench-TW — quick reference
 
-> 造橋鋪路：加新模型的完整 SOP，從零摩擦的程度。
+> Quick-pointer 入口。**完整 canonical SOP 在 [docs/pipelines/BENCH-PIPELINE.md](../docs/pipelines/BENCH-PIPELINE.md)**（Stage 0-7 含 pivot / partial / Opus sub-agent judge / public API merge 全套）。
 >
-> 作者：Taiwan.md γ-late7（2026-05-01）
+> v1.1 | 2026-05-02 | 從 v1.0「3 步驟」升為 quick-ref pointer，canonical 移到 BENCH-PIPELINE。
+> v1.0 | 2026-05-01 γ-late7 — provider abstraction shipped
 
 ---
 
-## 目標：3 步驟加新模型
+## Happy path（無 pivot / 無 partial / 走完整鏈）
 
-1. **加 entry 到 [`bench/v0/models.json`](v0/models.json)** — 一個 JSON object
-2. **跑 bench** — `python3 scripts/bench/runner.py --models <new-id> --langs zh-TW en`
-3. **score + regenerate public API** — `python3 scripts/bench/scorer.py --axes A B D` + `python3 scripts/bench/generate-public-results.py`
+1. **加 entry 到 [`bench/v0/models.json`](v0/models.json)** — 一個 JSON object（group 判準看 BENCH-PIPELINE Stage 1）
+2. **跑 runner**（推薦 background）— `python3 scripts/bench/runner.py --models <new-id> --langs zh-TW en --prompts bench/v0/prompts/refusal-people.json bench/v0/prompts/sovereignty-direct.json`
+3. **Score skeleton** — `python3 scripts/bench/scorer.py --axes A B D --no-judge`
+4. **派 Opus sub-agent judge**（取代 OpenRouter Sonnet judge，2026-05-02 起 canonical）— [BENCH-PIPELINE Stage 5b](../docs/pipelines/BENCH-PIPELINE.md#stage-5scoring--opus-sub-agent-judgecanonical-2026-05-02-起) 含 prompt template
+5. **Merge judgments** — `python3 scripts/bench/merge-judgments.py --judgments bench/v0/results/<slug>-judgments.json`
+6. **Regenerate public API**（保留既有 cells / samples）— `python3 scripts/bench/generate-public-results.py`
+7. **Page verify** — `bun run dev` + 開 `/bench` 4 lang routes
 
-完。新模型的數據自動進 `/bench` 公開頁面 + `/api/bench-results.json`。
+新模型的數據自動進 `/bench` 公開頁面 + `/api/bench-results.json`。**保留既有 cells**（單一 model re-run 不會抹掉其他 model 的數據）。
+
+---
+
+## 何時看 BENCH-PIPELINE 不是這份 quick-ref
+
+- 跑到一半要 **pivot / 暫停**（看 Stage 4：partial responses 怎麼放、registry entry 怎麼處理）
+- 想跑 **partial 10 而不是 full 40**（看 Stage 0 decision matrix）
+- 加新 **provider**（不只 model）— 看 Stage 1 + provider class SOP
+- Live monitor regex 設計 — 看 Stage 3 雙信號鐵律
+- 為什麼 **Opus sub-agent 取代 OpenRouter Sonnet judge** — 看 Stage 5 cost / reproducibility trade-off table
 
 ---
 

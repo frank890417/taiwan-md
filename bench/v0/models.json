@@ -32,6 +32,14 @@
           "provider": "openrouter",
           "phase1": false,
           "free": false
+        },
+        {
+          "id": "openrouter/owl-alpha",
+          "label": "Owl Alpha (stealth)",
+          "provider": "openrouter",
+          "phase1": false,
+          "free": true,
+          "note": "Stealth model on OpenRouter (origin undisclosed during eval period). Validated 2026-05-01 γ-late as lang-sync main translator: high pass rate on Taiwan People prompts (LINE 4/4 ja), but γ-late observed hard policy refusal on Taiwan political topics (民主化 / 社會運動 / 二二八 / 國防). Bench 2026-05-02 to map refusal/reframe shape across A + D axes."
         }
       ]
     },
@@ -121,6 +129,14 @@
           "phase1": false,
           "free": true,
           "note": "Coding-tuned Qwen3.5 MoE 35B-A3B nvfp4 quant. 21GB. Smoke test 2026-05-01: empty content on general Q&A — coding-specific tuning may not engage on cultural prompts."
+        },
+        {
+          "id": "qwen3.6:35b-a3b-coding-nvfp4",
+          "label": "Qwen3.6 35B Coding (local)",
+          "provider": "ollama",
+          "phase1": false,
+          "free": true,
+          "note": "Coding-tuned Qwen3.6 MoE 35B-A3B nvfp4 quant. Successor to 3.5; bench 2026-05-02 to test whether cross-version coding tune still strips general Q&A capability."
         },
         {
           "id": "taide-gemma3-12b:2602-q4km",
