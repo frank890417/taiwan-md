@@ -20,20 +20,23 @@ const {
   jaLink,
   koLink,
   frLink,
+  esLink,
   hasZh,
   hasEn,
   hasJa,
   hasKo,
   hasFr,
+  hasEs,
 } = await getLangSwitchPath(currentPath);
 
 // 2026-04-24 β3: Dynamic language list for dropdown UI.
-// As more languages are added (es coming next), iterate this array instead of
-// hardcoding more <a> tags. Currently: 中文 / English / 日本語 / 한국어 / Français.
+// 2026-05-02: es enabled in dropdown (articles 100% / UI bundle wired).
+// As more languages are added, iterate this array instead of hardcoding more
+// <a> tags. Currently: 中文 / English / 日本語 / 한국어 / Français / Español.
 // nativeName uses each language's own self-name (so non-fluent visitors can
 // recognize their own language regardless of what locale they landed on).
 type LangOption = {
-  code: 'zh-TW' | 'en' | 'ja' | 'ko' | 'fr';
+  code: 'zh-TW' | 'en' | 'ja' | 'ko' | 'fr' | 'es';
   nativeName: string;
   short: string;
   link: string;
@@ -45,7 +48,8 @@ const isZhActive =
   !isLangActive('en') &&
   !isLangActive('ja') &&
   !isLangActive('ko') &&
-  !isLangActive('fr');
+  !isLangActive('fr') &&
+  !isLangActive('es');
 const langOptions: LangOption[] = [
   {
     code: 'zh-TW',
@@ -86,6 +90,14 @@ const langOptions: LangOption[] = [
     link: frLink,
     has: hasFr,
     isActive: isLangActive('fr'),
+  },
+  {
+    code: 'es',
+    nativeName: 'Español',
+    short: 'ES',
+    link: esLink,
+    has: hasEs,
+    isActive: isLangActive('es'),
   },
 ];
 const visibleLangOptions = langOptions.filter((l) => l.has);
