@@ -28,7 +28,20 @@
 bash scripts/tools/refresh-data.sh
 ```
 
-這個 wrapper 依序跑下面 4 個步驟。任何一步失敗會 stderr 警告但不 abort pipeline（因為通常還有其他資料可以用）。
+這個 wrapper 依序跑下面 **8 個步驟**（5 主階段 + 3 子階段 2.5/2.8/2.9）。任何一步失敗會 stderr 警告但不 abort pipeline（git pull conflict 例外 — hard abort）。
+
+**Step 5（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（DNA #43）。
+
+| Step    | 內容                                                     | Output                                                       |
+| ------- | -------------------------------------------------------- | ------------------------------------------------------------ |
+| 1       | git pull --rebase origin main                            | (sync)                                                       |
+| 2       | fetch-sense-data.sh                                      | dashboard-analytics.json                                     |
+| 2.5     | sync-translations-json.py                                | knowledge/\_translations.json                                |
+| 2.8     | generate-dashboard-spores.py                             | dashboard-spores.json                                        |
+| **2.9** | **i18n-coverage-audit.sh --json-out** ★ 2026-05-02 added | **dashboard-i18n.json**                                      |
+| 3       | npm run prebuild                                         | dashboard-articles/translations/vitals/organism + supporters |
+| 4       | update-stats.sh                                          | README + stats.json                                          |
+| **5**   | **verify dashboard freshness** ★ 2026-05-02 added        | (gate)                                                       |
 
 ---
 
@@ -262,3 +275,15 @@ echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"
 ---
 
 _v1.0 | 2026-04-11 session ε | 建立原因：哲宇觀察到 heartbeat 三處重複定義資料抓取步驟_
+_v1.1 | 2026-05-02 γ-late | 加 Step 2.9 (i18n-coverage) + Step 5 (verify freshness)。觸發：哲宇看 dashboard 顯示「資料更新 12 小時前」+ ja UI 還是 97%（其實已 100%），原因是 i18n-coverage-audit 沒在 refresh-data.sh 裡。canonical: DNA #43 silent stale risk._
+
+## 新 dashboard JSON 加入 pipeline 的 SOP（DNA #43 反射）
+
+每次新增 `public/api/dashboard-*.json` 時必須同步：
+
+1. 寫一個 generator script（python / node / bash 都行）
+2. **加進 refresh-data.sh** — 找一個適當的 step 號碼（2.x 子階段或 3 後）
+3. 加進 [DATA-REFRESH-PIPELINE.md §一鍵執行](#一鍵執行) 表格
+4. Step 5 verify 會自動偵測 — 如果忘記加 generator，下次跑 pipeline 會看到 stale 警告
+
+**反模式**: 寫了 generator 但只在 commit 之前手動跑一次。下次 generator 就被遺忘了。所有 dashboard JSON 必須有自動 refresh path。

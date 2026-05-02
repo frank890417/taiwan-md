@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T14:26:15.814012",
+  "lastUpdated": "2026-05-02T14:30:51.367728",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
     "label": "2026-04-04 to 2026-05-02",
@@ -1543,33 +1543,33 @@
     "endDate": "2026-05-02",
     "days": 7,
     "summary": {
-      "requests": 256641,
-      "pageViews": 67956,
-      "uniques": 48607,
-      "cachedRequests": 49011,
+      "requests": 257039,
+      "pageViews": 68049,
+      "uniques": 48647,
+      "cachedRequests": 49060,
       "threats": 277,
-      "bytes": 16528354727
+      "bytes": 16563965316
     },
     "statusBreakdown": [
       {
         "status": 200,
-        "count": 179378
+        "count": 179617
       },
       {
         "status": 404,
-        "count": 26785
+        "count": 26872
       },
       {
         "status": 301,
-        "count": 23110
+        "count": 23140
       },
       {
         "status": 204,
-        "count": 23035
+        "count": 23071
       },
       {
         "status": 304,
-        "count": 2296
+        "count": 2302
       },
       {
         "status": 206,
@@ -1600,33 +1600,33 @@
         "count": 2
       }
     ],
-    "fourOhFourRate": 10.44,
+    "fourOhFourRate": 10.45,
     "traffic": {
       "topCountries": [
         {
           "country": "Taiwan",
           "code": "TW",
-          "requests": 97714
+          "requests": 97862
         },
         {
           "country": "United States",
           "code": "US",
-          "requests": 86420
+          "requests": 86511
         },
         {
           "country": "Singapore",
           "code": "SG",
-          "requests": 19600
+          "requests": 19624
         },
         {
           "country": "Japan",
           "code": "JP",
-          "requests": 7389
+          "requests": 7416
         },
         {
           "country": "China",
           "code": "CN",
-          "requests": 7355
+          "requests": 7358
         },
         {
           "country": "Vietnam",
@@ -1641,7 +1641,7 @@
         {
           "country": "France",
           "code": "FR",
-          "requests": 4246
+          "requests": 4305
         },
         {
           "country": "Malaysia",
@@ -1658,15 +1658,15 @@
     "dailyBreakdown": [
       {
         "date": "2026-05-02",
-        "requests": 16496,
-        "pageViews": 5502,
-        "cachedRequests": 2363,
+        "requests": 16894,
+        "pageViews": 5595,
+        "cachedRequests": 2412,
         "threats": 7,
-        "bytes": 1168215297,
-        "uniques": 4050,
-        "status200": 10663,
-        "status404": 1618,
-        "status4xx": 1638,
+        "bytes": 1203825886,
+        "uniques": 4090,
+        "status200": 10902,
+        "status404": 1705,
+        "status4xx": 1725,
         "status5xx": 1
       },
       {
@@ -1762,27 +1762,27 @@
       }
     ],
     "aiCrawlers": {
-      "detectedRequests": 68777,
-      "http200": 38257,
-      "allowedRequests": 68777,
-      "unsuccessfulRequests": 30520,
+      "detectedRequests": 68771,
+      "http200": 38266,
+      "allowedRequests": 68771,
+      "unsuccessfulRequests": 30505,
       "topCrawler": {
         "name": "BingBot",
-        "requests": 9984,
-        "http200": 4994,
+        "requests": 9973,
+        "http200": 4991,
         "category": "Microsoft"
       },
       "crawlers": [
         {
           "name": "BingBot",
-          "requests": 9984,
-          "http200": 4994,
+          "requests": 9973,
+          "http200": 4991,
           "category": "Microsoft"
         },
         {
           "name": "FacebookBot",
-          "requests": 9196,
-          "http200": 8538,
+          "requests": 9201,
+          "http200": 8543,
           "category": "Meta"
         },
         {
@@ -1793,8 +1793,8 @@
         },
         {
           "name": "Googlebot",
-          "requests": 6342,
-          "http200": 3997,
+          "requests": 6350,
+          "http200": 4006,
           "category": "Google"
         },
         {
@@ -1805,14 +1805,14 @@
         },
         {
           "name": "ChatGPT-User",
-          "requests": 6078,
-          "http200": 5492,
+          "requests": 6080,
+          "http200": 5494,
           "category": "OpenAI"
         },
         {
           "name": "PetalBot",
-          "requests": 4809,
-          "http200": 2107,
+          "requests": 4808,
+          "http200": 2108,
           "category": "Huawei"
         },
         {
@@ -1834,16 +1834,16 @@
           "category": "Meta"
         },
         {
-          "name": "Bytespider",
-          "requests": 2563,
-          "http200": 704,
-          "category": "ByteDance"
-        },
-        {
           "name": "GPTBot",
           "requests": 2562,
           "http200": 1125,
           "category": "OpenAI"
+        },
+        {
+          "name": "Bytespider",
+          "requests": 2556,
+          "http200": 701,
+          "category": "ByteDance"
         },
         {
           "name": "Applebot",
@@ -1853,8 +1853,8 @@
         },
         {
           "name": "YandexBot",
-          "requests": 711,
-          "http200": 598,
+          "requests": 709,
+          "http200": 596,
           "category": "Yandex"
         },
         {
@@ -1883,8 +1883,8 @@
         }
       ],
       "period": {
-        "start": "2026-04-25T06:26:01Z",
-        "end": "2026-05-02T06:26:01Z",
+        "start": "2026-04-25T06:30:36Z",
+        "end": "2026-05-02T06:30:36Z",
         "days": 7,
         "daysFetched": 7,
         "daysFailed": 0
