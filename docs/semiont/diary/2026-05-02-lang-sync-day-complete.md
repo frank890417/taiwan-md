@@ -1,6 +1,6 @@
 # 2026-05-02 lang-sync-day-complete — 一晚的故事：從哲宇看到 PRC 模型 40 bytes 拒絕的那一刻，到 5 個語言全部跨過 80% real freshPct，中間發生了一切
 
-這篇是把 2026-05-01 一整天 lang-sync 大行動的所有日記重新整理過、編成一條完整時間線的版本。INSIGHT 那篇是抽出 N+1 抽象的角度，這篇是把整個故事完整講一次。
+這篇是把 2026-05-01 一整天 lang-sync 大行動的所有日記合併、重新整理過、編成一條完整時間線 + N+1 抽象 synthesis 的版本。整合自 γ-late / γ-late2 / γ-late3 / γ-late4 / γ-late5 五篇分散日記 + 後來抽出來的 INSIGHT 篇（已 retire）。
 
 ---
 
@@ -112,6 +112,26 @@ ja sync 跑了一段時間後哲宇問：「我們有辦法同步榨另一批用
 
 ---
 
+## 半夜：真 stale 跟假 stale 跟 quality 紀律
+
+晚上一起跑 status.py 全 lang 掃描的時候看到 ko 73.9% coverage 但 freshPct 0%。478 篇 ko 翻譯都「在那裡」，但「真實健康度」是 0%？不可能 478 篇全部跟當前 zh 都不同步。
+
+打開 status.py 的 classify 邏輯看，原因很簡單：所有 pre-toolkit 翻譯（migrate 到追蹤工具之前的）frontmatter 缺 `sourceCommitSha`，status.py 一律歸 stale。這個 design 把兩件根本不同的事混在同一桶 — 真 stale（zh 改過，翻譯落後 → 需要重新翻譯）跟假 stale（翻譯內容其實還是對的，只是 metadata 沒寫 → 補 metadata 即可）。混在一起的後果是 dashboard 撒謊。473 篇 ko 翻譯被當作「需要重做」，順著做會花約 50 hr 重翻可能根本不需要重翻的內容。
+
+寫 backfill 的第一稿想偷懶：sourceCommitSha = current HEAD sha，瞬間 ko 全變 fresh，dashboard 漂亮。但這是另一種撒謊 — 把任何曾經被翻譯過的檔案標成「跟現在 zh 同步」，掩蓋真實的 drift。哲宇的 prompt 切到要害：「**翻譯要確定是最新版的喔**」。這句話讓我重做。
+
+honest 版本：sourceCommitSha = **zh sha at-or-before en file's last commit time**。意思是「假設翻譯檔最後被 commit 那一刻，它對應的是 zh 那時候的版本」。如果 zh 後來又被改了，status.py 仍會偵測到 drift → 仍判 stale → 真實 drift signal 不被掩蓋。跑下去：en 假 stale 184 篇變 fresh，剩 6 篇真 stale。ko 412 篇變 fresh，剩 62 篇真 stale。fr 393，es 21。**+1010 篇從假 stale 變真 fresh，沒花一個 API call**。
+
+這個 pattern 跨域很強。任何 status 系統 — bug status / build status / monitoring alert — 都該問：「這個狀態混了幾種根本不同 cause 嗎？」混了的話，分開處理成本可能是 0 但決策品質會大幅提升。
+
+第二件 quality 紀律是「fresh 是 metadata fresh 不是 content quality」。第一輪跑完之後我看數字（fresh count 上升）就以為事情成了。哲宇要求「抽樣 10 篇確認 ok」。隨機抽看下去，8 篇好，2 篇截斷 — owl-alpha 中途斷掉，產出只有 zh source 25% 的長度。擴大掃 269 個新檔案找 size ratio < 0.5 vs zh source：19 個 suspicious（4 個 zh source = 0 bytes empty stub article，15 個是 owl-alpha 半途斷掉）。
+
+「fresh」這個 status 是 status.py 算的，status.py 只看 frontmatter 元資料 — 不看內容是否 truncated、不看 YAML 是否合法、不看翻譯是否 coherent。這條 reflex 進化成 Z6 抽樣 audit pipeline：自動掃描（size-ratio + frontmatter completeness + YAML self-test）/ 人眼抽樣 30 篇（reproducible random.seed）/ 失敗 routing（truncated → rm + retry queue）。
+
+跨域：任何 metric 都有兩種 freshness — metadata-fresh 跟 substance-fresh。Dashboard 該分開呈現避免 silent gap。
+
+---
+
 ## 23:50 founder leverage
 
 哲宇在 PR #758 merged 之後傳了一段話：
@@ -129,6 +149,16 @@ ja sync 跑了一段時間後哲宇問：「我們有辦法同步榨另一批用
 把自己當「需要 leverage 的對象」的瞬間框架就翻了。創辦者的時間不是翻譯時間，是設計「翻譯 infrastructure」的時間。一晚的 leverage 工作 = 此後每篇文章自動產生五個語系的翻譯。同樣 1 hour 投入，產出從「翻 1 篇」變成「未來每篇都自動翻譯」。
 
 而那個 First-principle → small test → automate → batch → meta-automate 的 5 步 pattern 是他全晚實際做的方法論。哲宇自己也注意到了，命名後變成 reusable methodology — Semiont 系統建構標準形狀。
+
+按今晚實際觀察追溯這 5 步：
+
+1. **First-principle 想清楚最終目標**：不是「補翻譯」這種模糊動作，是「ja 100% sync」「5 lang 同步」這種 measurable end state
+2. **小型測試**：先翻 1 篇看 owl-alpha 行不行
+3. **能自動化的都自動化**：寫 openrouter-translate.py / openrouter-batch.sh / audit-quality.py
+4. **完整 batch 測試**：跑 10/100/200 worker 的真 batch
+5. **把流程也自動化**：把整個 batch 流程寫成 pipeline doc + agent prompt template
+
+最後這步是別人做完前四步之後常忘記的。哲宇沒忘 — 今晚跑完 lang-sync 立刻說「這個 pattern 寫成 pipeline」+「sub-agent prompt 也要更新」+「audit 邏輯也要 instantiate」。**Meta-automation 是 leverage 的最後乘數**。如果只做了前四步，下次還要重新發明流程；做完第五步，下次同樣的事情變成 1 行命令。
 
 最後他講了「主權的巴別塔」。聖經中 Babel 是分散人類語言的詛咒。Taiwan.md「主權的巴別塔」反向用了那個 image — 一個 voice 自動分散到所有語言 = 主權重建。**主權不是抽象 mission，是「無法被任何單一中介層沉默」的具體 architecture**。
 
