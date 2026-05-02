@@ -5,26 +5,23 @@ import { LANGUAGES } from '../config/languages';
 
 // 2026-04-25 β7 Phase 1：路由疊加 fix（i18n-evolution-roadmap audit B1）
 // 從 LANGUAGES_REGISTRY 動態 derive 非預設啟用語言清單，
-// 取代之前 hardcoded ['en', 'ja', 'ko']（會把 fr/es 路由疊加成 /ja/fr/...）。
 // 對應 MANIFESTO §指標 over 複寫 + DNA #20 architecture-as-data。
 const NON_DEFAULT_ENABLED_LANGS = LANGUAGES.filter(
   (l) => l.enabled && !l.isDefault,
 ).map((l) => l.code) as readonly Lang[];
 
+const ALL_ENABLED_LANGS = LANGUAGES.filter((l) => l.enabled).map(
+  (l) => l.code,
+) as readonly Lang[];
+
 // ── Module-level cache: valid zh files on disk ─────────────────────────────
-//
-// _translations.json has ~36 stale entries whose zh target no longer exists
-// on disk (content was renamed/consolidated but mapping wasn't updated).
-// Those stale entries cause the lang switcher to confidently link to 404s.
-// We defensively filter against this set so the switcher never points at a
-// non-existent zh file. Rebuilt once per process then reused across all
-// getLangSwitchPath() calls during the Astro build.
+// _translations.json has stale entries whose zh target no longer exists.
+// We defensively filter against this set so the switcher never points at 404s.
 let _validZhFilesCache: Set<string> | null = null;
 async function getValidZhFiles(): Promise<Set<string>> {
   if (_validZhFilesCache) return _validZhFilesCache;
   const set = new Set<string>();
   const knowledgeRoot = resolve(process.cwd(), 'knowledge');
-  // Top-level zh category folders (same set used across the codebase)
   const categoryFolders = [
     'History',
     'Geography',
@@ -51,8 +48,6 @@ async function getValidZhFiles(): Promise<Set<string>> {
       }
     } catch {}
   }
-  // Also track bare (no-folder) zh files that sit directly under knowledge/
-  // (e.g. "民主化.md" mapped from old entries).
   try {
     const topFiles = await readdir(knowledgeRoot);
     for (const f of topFiles) {
@@ -63,34 +58,54 @@ async function getValidZhFiles(): Promise<Set<string>> {
   return set;
 }
 
-export async function getLangSwitchPath(currentPath: string) {
-  let zhLink = '/';
-  let enLink = '/en';
-  let jaLink = '/ja';
-  let koLink = '/ko';
-  // 2026-04-24 β3: fr added with basePath fallback only (UI strings fall
-  // back to en via FALLBACK_CHAIN in utils.ts). Precise article mapping for
-  // fr will be added when fr entries are populated in knowledge/_translations.json.
-  let frLink = '/fr';
-  // 2026-04-25: es added with same basePath fallback pattern as fr.
-  let esLink = '/es';
+// ── LangMap: per-language URL ↔ zh URL mapping ─────────────────────────────
+// Single uniform abstraction replacing the previous per-lang Map<> + per-lang
+// branch duplication. 2026-05-02 sleepy-colden refactor: from 5 lang × 4 branch
+// duplicate (~100 lines) to 1 LangMap registry + uniform loop (this is the
+// 造橋鋪路 application of MANIFESTO §指標 over 複寫 + DNA #20).
+interface LangMap {
+  // langUrl (e.g., '/en/art/...') → zhUrl (e.g., '/art/中文檔')
+  toZh: Map<string, string>;
+  // zhUrl → langUrl (canonical, may have multiple entries via aliases)
+  fromZh: Map<string, string>;
+}
 
-  const normalizePath = (path: string) => {
-    if (!path) return '/';
-    const withLeading = path.startsWith('/') ? path : `/${path}`;
-    if (withLeading.length > 1 && withLeading.endsWith('/')) {
-      return withLeading.slice(0, -1);
-    }
-    return withLeading;
-  };
+type LangMapRegistry = Map<Lang, LangMap>;
 
-  // Build translation lookup from _translations.json
-  const translationMap = new Map<string, string>(); // enUrl → zhUrl
-  const reverseMap = new Map<string, string>(); // zhUrl → enUrl
-  const jaMap = new Map<string, string>(); // jaUrl → zhUrl
-  const jaReverseMap = new Map<string, string>(); // zhUrl → jaUrl
-  const koMap = new Map<string, string>(); // koUrl → zhUrl
-  const koReverseMap = new Map<string, string>(); // zhUrl → koUrl
+const CATEGORY_FOLDER_TO_SLUG: Record<string, string> = {
+  History: 'history',
+  Geography: 'geography',
+  Culture: 'culture',
+  Food: 'food',
+  Art: 'art',
+  Music: 'music',
+  Technology: 'technology',
+  Nature: 'nature',
+  People: 'people',
+  Society: 'society',
+  Economy: 'economy',
+  Lifestyle: 'lifestyle',
+  About: 'about',
+  Resources: 'resources',
+};
+
+function normalizePath(path: string): string {
+  if (!path) return '/';
+  const withLeading = path.startsWith('/') ? path : `/${path}`;
+  if (withLeading.length > 1 && withLeading.endsWith('/')) {
+    return withLeading.slice(0, -1);
+  }
+  return withLeading;
+}
+
+// ── Build LangMapRegistry from _translations.json ──────────────────────────
+async function buildLangMapRegistry(): Promise<LangMapRegistry> {
+  const registry: LangMapRegistry = new Map();
+  for (const lang of NON_DEFAULT_ENABLED_LANGS) {
+    registry.set(lang, { toZh: new Map(), fromZh: new Map() });
+  }
+
+  let translations: Record<string, string> = {};
   try {
     const translationsPath = resolve(
       process.cwd(),
@@ -100,124 +115,113 @@ export async function getLangSwitchPath(currentPath: string) {
     const raw = await readFile(translationsPath, 'utf-8');
     const translationsRaw: Record<string, string> = JSON.parse(raw);
     // Defensive filter: drop entries whose zh target doesn't exist on disk.
-    // Prevents the lang switcher from confidently linking to 404s when
-    // _translations.json has stale mappings.
     const validZh = await getValidZhFiles();
-    const translations: Record<string, string> = {};
     for (const [lf, zf] of Object.entries(translationsRaw)) {
       if (validZh.has(zf)) translations[lf] = zf;
     }
-    const categoryFolderToSlug: Record<string, string> = {
-      History: 'history',
-      Geography: 'geography',
-      Culture: 'culture',
-      Food: 'food',
-      Art: 'art',
-      Music: 'music',
-      Technology: 'technology',
-      Nature: 'nature',
-      People: 'people',
-      Society: 'society',
-      Economy: 'economy',
-      Lifestyle: 'lifestyle',
-      About: 'about',
-      Resources: 'resources',
-    };
-    const addTranslation = (
-      langUrl: string,
-      zhUrl: string,
-      langPrefix: string,
-    ) => {
-      const normalizedLang = normalizePath(langUrl);
-      const normalizedZh = normalizePath(zhUrl);
-      const langCandidates = new Set([
-        normalizedLang,
-        decodeURIComponent(normalizedLang),
-      ]);
-      const zhCandidates = new Set([
-        normalizedZh,
-        decodeURIComponent(normalizedZh),
-      ]);
+  } catch {
+    return registry;
+  }
+
+  // URL convention (post Tailwind-Phase-6 fix, 2026-04-12):
+  // All locales use the EN slug as URL path. Body content loads from the
+  // locale's own knowledge/ folder via _translations.json. EN slug = canonical.
+  // Build zhFile → enEntry index for canonicalization.
+  const zhToEnEntry: Record<string, { catSlug: string; slug: string }> = {};
+  for (const [langFile, zhFile] of Object.entries(translations)) {
+    if (!langFile.startsWith('en/')) continue;
+    const parts = langFile.replace(/\.md$/, '').split('/');
+    if (parts.length < 3) continue;
+    const catSlug = CATEGORY_FOLDER_TO_SLUG[parts[1]] || parts[1].toLowerCase();
+    zhToEnEntry[zhFile] = { catSlug, slug: parts[2] };
+  }
+
+  // Add helper: register both langUrl→zh and zh→langUrl into registry,
+  // including URL-decoded variants for robust matching.
+  function add(lang: Lang, langUrl: string, zhUrl: string) {
+    const m = registry.get(lang);
+    if (!m) return;
+    const nL = normalizePath(langUrl);
+    const nZ = normalizePath(zhUrl);
+    const langKeys = new Set([nL, decodeURIComponent(nL)]);
+    const zhKeys = new Set([nZ, decodeURIComponent(nZ)]);
+    for (const k of langKeys) m.toZh.set(k, nZ);
+    for (const k of zhKeys) m.fromZh.set(k, nL);
+  }
+
+  for (const [langFile, zhFile] of Object.entries(translations)) {
+    const langParts = langFile.replace(/\.md$/, '').split('/');
+    const zhParts = zhFile.replace(/\.md$/, '').split('/');
+    if (langParts.length < 2) continue;
+
+    const langPrefix = langParts[0] as Lang;
+    if (!NON_DEFAULT_ENABLED_LANGS.includes(langPrefix)) continue;
+
+    if (langParts.length >= 3 && zhParts.length >= 2) {
+      const zhCatSlug =
+        CATEGORY_FOLDER_TO_SLUG[zhParts[0]] || zhParts[0].toLowerCase();
+      const zhUrl = `/${zhCatSlug}/${encodeURIComponent(zhParts[1])}`;
+      const langCatSlug =
+        CATEGORY_FOLDER_TO_SLUG[langParts[1]] || langParts[1].toLowerCase();
+
       if (langPrefix === 'en') {
-        for (const key of langCandidates) translationMap.set(key, normalizedZh);
-        for (const key of zhCandidates) reverseMap.set(key, normalizedLang);
-      } else if (langPrefix === 'ja') {
-        for (const key of langCandidates) jaMap.set(key, normalizedZh);
-        for (const key of zhCandidates) jaReverseMap.set(key, normalizedLang);
-      } else if (langPrefix === 'ko') {
-        for (const key of langCandidates) koMap.set(key, normalizedZh);
-        for (const key of zhCandidates) koReverseMap.set(key, normalizedLang);
-      }
-    };
-    // URL convention (post Tailwind-Phase-6 fix, 2026-04-12):
-    //
-    // All locales (/en/, /ja/, /ko/) use the EN slug as the URL path, even
-    // though the body content is loaded from the locale's own knowledge/
-    // folder via _translations.json. This keeps inbound links & AI crawler
-    // indexing stable across locales.
-    //
-    // The ja/ko translation map must therefore be keyed by the EN slug.
-    // To build it: for each ja/ko entry in _translations.json, join via its
-    // zh file to find the corresponding en entry, then use the en slug in
-    // the URL. Falls back to the ja/ko-native slug only if no en entry exists.
-    //
-    // Also build a direct zhFile → enEntry index for en map construction.
-    const zhToEnEntry: Record<string, { catSlug: string; slug: string }> = {};
-    for (const [langFile, zhFile] of Object.entries(translations)) {
-      if (!langFile.startsWith('en/')) continue;
-      const parts = langFile.replace(/\.md$/, '').split('/');
-      if (parts.length < 3) continue;
-      const catSlug = categoryFolderToSlug[parts[1]] || parts[1].toLowerCase();
-      zhToEnEntry[zhFile] = { catSlug, slug: parts[2] };
-    }
-    for (const [langFile, zhFile] of Object.entries(translations)) {
-      const langParts = langFile.replace(/\.md$/, '').split('/');
-      const zhParts = zhFile.replace(/\.md$/, '').split('/');
-      // langParts[0] = 'en' or 'ja' or 'ko', langParts[1] = Category, langParts[2] = slug
-      if (langParts.length >= 3 && zhParts.length >= 2) {
-        const langPrefix = langParts[0]; // 'en', 'ja', 'ko'
-        const zhCatSlug =
-          categoryFolderToSlug[zhParts[0]] || zhParts[0].toLowerCase();
-        const zhUrl = `/${zhCatSlug}/${encodeURIComponent(zhParts[1])}`;
-
-        if (langPrefix === 'en') {
-          // EN URL is authoritative: /en/<cat>/<en-slug>
-          const langCatSlug =
-            categoryFolderToSlug[langParts[1]] || langParts[1].toLowerCase();
-          const langUrl = `/en/${langCatSlug}/${langParts[2]}`;
-          addTranslation(langUrl, zhUrl, 'en');
-        } else {
-          // ja/ko URL must use the EN slug (URL-stability convention).
-          // Look up the corresponding en entry via the shared zh file.
-          const enEntry = zhToEnEntry[zhFile];
-          const langCatSlug =
-            categoryFolderToSlug[langParts[1]] || langParts[1].toLowerCase();
-          const nativeLangUrl = `/${langPrefix}/${langCatSlug}/${langParts[2]}`;
-          addTranslation(nativeLangUrl, zhUrl, langPrefix);
-
-          if (enEntry) {
-            const canonicalLangUrl = `/${langPrefix}/${enEntry.catSlug}/${enEntry.slug}`;
-            addTranslation(canonicalLangUrl, zhUrl, langPrefix);
-          }
+        // EN URL is authoritative
+        add(langPrefix, `/en/${langCatSlug}/${langParts[2]}`, zhUrl);
+      } else {
+        // Non-en lang: register native slug + canonical (en) slug both pointing to same zh
+        const nativeLangUrl = `/${langPrefix}/${langCatSlug}/${langParts[2]}`;
+        add(langPrefix, nativeLangUrl, zhUrl);
+        const enEntry = zhToEnEntry[zhFile];
+        if (enEntry) {
+          const canonicalLangUrl = `/${langPrefix}/${enEntry.catSlug}/${enEntry.slug}`;
+          add(langPrefix, canonicalLangUrl, zhUrl);
         }
-      } else if (langParts.length === 2 && zhParts.length === 1) {
-        const langPrefix = langParts[0];
-        const langUrl = `/${langPrefix}/${langParts[1]}`;
-        const zhUrl = `/${encodeURIComponent(zhParts[0])}`;
-        addTranslation(langUrl, zhUrl, langPrefix);
       }
+    } else if (langParts.length === 2 && zhParts.length === 1) {
+      // Bare-name files (e.g., 民主化.md → /en/民主化)
+      const langUrl = `/${langPrefix}/${langParts[1]}`;
+      const zhUrl = `/${encodeURIComponent(zhParts[0])}`;
+      add(langPrefix, langUrl, zhUrl);
     }
-  } catch {}
+  }
+
+  return registry;
+}
+
+// ── isArticlePage detection ────────────────────────────────────────────────
+const NON_ARTICLE_PATHS = new Set([
+  'about',
+  'contribute',
+  'map',
+  'data',
+  'soundscape',
+  'resources',
+  'dashboard',
+  'changelog',
+  'graph',
+  'terminology',
+  'taiwan-shape',
+  'semiont',
+  'bench',
+]);
+
+function isArticlePagePath(basePath: string): boolean {
+  if (basePath === '/') return false;
+  const parts = basePath.split('/').filter(Boolean);
+  if (parts.length !== 2) return false;
+  return !NON_ARTICLE_PATHS.has(parts[0]);
+}
+
+// ── Main entry ─────────────────────────────────────────────────────────────
+export async function getLangSwitchPath(currentPath: string) {
+  const registry = await buildLangMapRegistry();
 
   const normalizedPath = normalizePath(currentPath);
   const decodedPath = normalizePath(decodeURIComponent(normalizedPath));
 
-  // Detect current language from path
-  // 2026-04-25 β7: 改從 LANGUAGES_REGISTRY 動態 derive，避免新加語言時忘記同步
-  // 此清單包含所有 enabled 且非 default 的語言（en/ja/ko/fr/es 自動包含）
-  const langPrefixes = NON_DEFAULT_ENABLED_LANGS;
+  // Detect current language from path prefix
   let currentLang: Lang = 'zh-TW';
-  for (const prefix of langPrefixes) {
+  for (const prefix of NON_DEFAULT_ENABLED_LANGS) {
     if (
       normalizedPath.startsWith(`/${prefix}/`) ||
       normalizedPath === `/${prefix}`
@@ -227,155 +231,94 @@ export async function getLangSwitchPath(currentPath: string) {
     }
   }
 
-  // Extract the category/slug part from the path
-  const stripLangPrefix = (path: string) => {
-    for (const prefix of langPrefixes) {
-      if (path.startsWith(`/${prefix}/`)) return path.slice(prefix.length + 1);
-      if (path === `/${prefix}`) return '/';
+  // basePath: path without lang prefix (used for fallback links)
+  const basePath = (() => {
+    for (const prefix of NON_DEFAULT_ENABLED_LANGS) {
+      if (normalizedPath.startsWith(`/${prefix}/`))
+        return normalizedPath.slice(prefix.length + 1);
+      if (normalizedPath === `/${prefix}`) return '/';
     }
-    return path;
-  };
+    return normalizedPath;
+  })();
 
-  const basePath = stripLangPrefix(normalizedPath);
+  const isArticle = isArticlePagePath(basePath);
 
-  // Set all language links (defaults use basePath fallback)
-  zhLink = basePath === '/' ? '/' : basePath;
-  enLink = basePath === '/' ? '/en' : `/en${basePath}`;
-  jaLink = basePath === '/' ? '/ja' : `/ja${basePath}`;
-  koLink = basePath === '/' ? '/ko' : `/ko${basePath}`;
-  frLink = basePath === '/' ? '/fr' : `/fr${basePath}`;
-  esLink = basePath === '/' ? '/es' : `/es${basePath}`;
-
-  // Availability flags — true = the translation was explicitly found in the
-  // map (confident link), false = using basePath fallback (may 404).
-  // For non-article pages (home, /about, /map, etc.) we always show all
-  // language buttons. For article pages (category/slug pattern), we only
-  // show buttons for languages that have confirmed translations.
-  const isArticlePage =
-    basePath !== '/' &&
-    basePath.split('/').filter(Boolean).length === 2 &&
-    ![
-      'about',
-      'contribute',
-      'map',
-      'data',
-      'soundscape',
-      'resources',
-      'dashboard',
-      'changelog',
-      'graph',
-      'terminology',
-      'taiwan-shape',
-    ].includes(basePath.split('/').filter(Boolean)[0]);
-
-  // Default: all available for non-article pages
-  let hasZh = true;
-  let hasEn = true;
-  let hasJa = true;
-  let hasKo = true;
-  // 2026-04-24 β3: fr availability — for article pages, mark unavailable
-  // until fr translation mapping exists in knowledge/_translations.json.
-  // Non-article pages always show fr (basePath fallback always works for
-  // hub pages like /fr/about/, /fr/, etc.).
-  let hasFr = !isArticlePage;
-  // 2026-04-25: es availability — same logic as fr.
-  let hasEs = !isArticlePage;
-
-  // Try to resolve through translation maps for more precise linking
+  // Step 1: resolve currentPath → zhUrl (the canonical SSOT URL)
+  // - If on zh-TW, currentPath IS the zhUrl
+  // - Else look up via current lang's toZh map
+  let zhUrl: string | null = null;
   if (currentLang === 'zh-TW') {
-    // From Chinese, look up other languages
-    const zhUrl = decodedPath || normalizedPath;
-    if (reverseMap.has(zhUrl)) {
-      enLink = reverseMap.get(zhUrl)!;
-    } else if (isArticlePage) {
-      hasEn = false;
-    }
-    if (jaReverseMap.has(zhUrl)) {
-      jaLink = jaReverseMap.get(zhUrl)!;
-    } else if (isArticlePage) {
-      hasJa = false;
-    }
-    if (koReverseMap.has(zhUrl)) {
-      koLink = koReverseMap.get(zhUrl)!;
-    } else if (isArticlePage) {
-      hasKo = false;
-    }
-  } else if (currentLang === 'en') {
-    const enUrl = decodedPath || normalizedPath;
-    if (translationMap.has(enUrl)) {
-      zhLink = translationMap.get(enUrl)!;
-    } else if (isArticlePage) {
-      hasZh = false;
-    }
-    // For ja/ko from en: check if jaReverseMap/koReverseMap has the zh target
-    // (en→zh→ja/ko chain). If zhLink was resolved, check if ja/ko exists for that zh.
-    if (hasZh) {
-      const resolvedZh = normalizePath(decodeURIComponent(zhLink));
-      if (jaReverseMap.has(resolvedZh)) {
-        jaLink = jaReverseMap.get(resolvedZh)!;
-      } else if (isArticlePage) {
-        hasJa = false;
-      }
-      if (koReverseMap.has(resolvedZh)) {
-        koLink = koReverseMap.get(resolvedZh)!;
-      } else if (isArticlePage) {
-        hasKo = false;
-      }
-    } else if (isArticlePage) {
-      hasJa = false;
-      hasKo = false;
-    }
-  } else if (currentLang === 'ja') {
-    const jaUrl = decodedPath || normalizedPath;
-    if (jaMap.has(jaUrl)) {
-      zhLink = jaMap.get(jaUrl)!;
-    } else if (isArticlePage) {
-      hasZh = false;
-    }
-    // From ja, en fallback (/en${basePath}) uses the same en-slug → always valid
-    // ko: check via zh
-    if (hasZh) {
-      const resolvedZh = normalizePath(decodeURIComponent(zhLink));
-      if (koReverseMap.has(resolvedZh)) {
-        koLink = koReverseMap.get(resolvedZh)!;
-      } else if (isArticlePage) {
-        hasKo = false;
-      }
-    } else if (isArticlePage) {
-      hasKo = false;
-    }
-  } else if (currentLang === 'ko') {
-    const koUrl = decodedPath || normalizedPath;
-    if (koMap.has(koUrl)) {
-      zhLink = koMap.get(koUrl)!;
-    } else if (isArticlePage) {
-      hasZh = false;
-    }
-    // ja: check via zh
-    if (hasZh) {
-      const resolvedZh = normalizePath(decodeURIComponent(zhLink));
-      if (jaReverseMap.has(resolvedZh)) {
-        jaLink = jaReverseMap.get(resolvedZh)!;
-      } else if (isArticlePage) {
-        hasJa = false;
-      }
-    } else if (isArticlePage) {
-      hasJa = false;
+    zhUrl = decodedPath || normalizedPath;
+  } else {
+    const m = registry.get(currentLang);
+    if (m) {
+      zhUrl = m.toZh.get(normalizedPath) ?? m.toZh.get(decodedPath) ?? null;
     }
   }
 
+  // Step 2: build per-lang link + has flag uniformly
+  // For each enabled lang (including current — symmetry simplifies caller code):
+  // - If zhUrl resolved AND lang has fromZh entry → confident link
+  // - Else for non-article pages → basePath fallback (always show)
+  // - Else for article pages without explicit translation → mark unavailable
+  const links: Record<string, string> = {};
+  const has: Record<string, boolean> = {};
+
+  // zh-TW
+  if (currentLang === 'zh-TW') {
+    links.zh = basePath === '/' ? '/' : basePath;
+    has.zh = true;
+  } else if (zhUrl) {
+    links.zh = zhUrl;
+    has.zh = true;
+  } else {
+    links.zh = basePath === '/' ? '/' : basePath;
+    has.zh = !isArticle;
+  }
+
+  // Non-default langs (en/ja/ko/es/fr...)
+  for (const lang of NON_DEFAULT_ENABLED_LANGS) {
+    const m = registry.get(lang);
+    const fallback = basePath === '/' ? `/${lang}` : `/${lang}${basePath}`;
+
+    if (lang === currentLang) {
+      // Current lang: always self-link (used for active highlight + dropdown badge)
+      links[lang] = normalizedPath;
+      has[lang] = true;
+      continue;
+    }
+
+    if (zhUrl && m) {
+      const explicit =
+        m.fromZh.get(zhUrl) ?? m.fromZh.get(decodeURIComponent(zhUrl)) ?? null;
+      if (explicit) {
+        links[lang] = explicit;
+        has[lang] = true;
+        continue;
+      }
+    }
+
+    // No explicit mapping: fallback for non-article pages (hub pages always work),
+    // mark unavailable for article pages (slug mismatch would 404).
+    links[lang] = fallback;
+    has[lang] = !isArticle;
+  }
+
+  // Map abstract result back to legacy named exports for backwards compat with
+  // existing callers (Header.astro, etc.). Future: callers should iterate the
+  // registry directly.
   return {
-    enLink,
-    zhLink,
-    jaLink,
-    koLink,
-    frLink,
-    esLink,
-    hasEn,
-    hasZh,
-    hasJa,
-    hasKo,
-    hasFr,
-    hasEs,
+    zhLink: links.zh ?? '/',
+    enLink: links.en ?? '/en',
+    jaLink: links.ja ?? '/ja',
+    koLink: links.ko ?? '/ko',
+    frLink: links.fr ?? '/fr',
+    esLink: links.es ?? '/es',
+    hasZh: has.zh ?? true,
+    hasEn: has.en ?? true,
+    hasJa: has.ja ?? true,
+    hasKo: has.ko ?? true,
+    hasFr: has.fr ?? true,
+    hasEs: has.es ?? true,
   };
 }
