@@ -18,8 +18,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     # 2026-04-22 β post-mortem: run 24782448133 `npx playwright install --with-deps`
-    # silent hang 6 小時才被 default 360 min timeout 殺掉。加 30 分上限避免重演。
-    timeout-minutes: 35
+    # silent hang 6 小時才被 default 360 min timeout 殺掉。加上限避免重演。
+    # 2026-05-02 γ: 35 → 60 — article volume grew (641 zh × 6 langs ≈ 3800 pages)
+    # 加 OG generation，到 2411/2520 才被 35 min timeout 砍。
+    # If this hits 60 again, profile build (likely OG generation tail).
+    timeout-minutes: 60
     env:
       # 防 apt-get 互動 prompt（Playwright --with-deps 會呼叫 sudo apt-get）
       DEBIAN_FRONTEND: noninteractive
