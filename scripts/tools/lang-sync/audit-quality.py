@@ -38,7 +38,14 @@ def get_lang_from_path(p: str) -> str:
 
 
 def find_zh_source(trans_path: str) -> str:
-    """Read translatedFrom from frontmatter; return knowledge/{zh_path}."""
+    """Read translatedFrom from frontmatter; return knowledge/{zh_path}.
+
+    Strip any leading 'knowledge/' prefix from the captured value to match
+    sync-translations-json.py behavior (some sub-agents wrote
+    `translatedFrom: 'knowledge/Category/檔.md'` instead of the canonical
+    `'Category/檔.md'`; without strip, this function returned
+    `knowledge/knowledge/Category/檔.md` and falsely flagged 'zh source not
+    found'). 2026-05-02 sleepy-colden — DNA #42 v3 sub-agent prompt 反例補強."""
     full = REPO / trans_path
     if not full.exists():
         return ""
@@ -46,7 +53,9 @@ def find_zh_source(trans_path: str) -> str:
     m = re.search(r"^translatedFrom:\s*['\"]?(.+?\.md)['\"]?\s*$", content, re.M)
     if not m:
         return ""
-    return f"knowledge/{m.group(1).strip()}"
+    captured = m.group(1).strip()
+    captured = re.sub(r"^knowledge/", "", captured)
+    return f"knowledge/{captured}"
 
 
 def has_frontmatter_field(content: str, key: str) -> bool:

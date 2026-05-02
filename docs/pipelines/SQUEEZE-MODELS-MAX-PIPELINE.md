@@ -103,6 +103,35 @@ bash scripts/tools/lang-sync/openrouter-batch.sh ja-hy3 "tencent/hy3-preview:fre
 - alive worker count（ps -ef | grep openrouter-translate）
 - API HTTP 429 熱頻（worker logs 中「Rate limit (attempt」字樣）
 
+#### Z2.1 Concurrency cap 鐵律（2026-05-02 sleepy-colden 實戰修補，DNA #45）
+
+**初次 dispatch concurrency cap = 3-5 worker，不是上面 v1 寫的 8-15**。OpenRouter free tier rate limit 不是 per-minute throttle 而是 hourly/daily 累積 budget。一次 N-worker burst（N ≥ 8）會把當前 budget 一次性消耗光，後續即使降到 1 worker 仍會 stuck attempt 3 backoff。
+
+| Concurrency | 結果                                                        |
+| ----------- | ----------------------------------------------------------- |
+| 1-3 worker  | ✅ 緩慢但穩定，rate budget 慢慢累積 cap                     |
+| 4-5 worker  | ⚠️ 邊緣安全，前 5 篇可能 rate-limit，之後逐漸通暢           |
+| 6-7 worker  | 🔴 開始 burst — 多數 worker 卡 attempt 1-2，少數通過        |
+| 8+ worker   | 🚨 全部卡 attempt 3 backoff（10s/20s/40s），budget 一次燒光 |
+
+**規則 v2**（取代原 v1 的 8-15 worker 上限）：
+
+- 跨 5 lang 平行：**每 lang 1 worker（5 simultaneous）= safe baseline**
+- 跨 5 lang × 2 worker = 10 simultaneous → ❌ 不要這樣 dispatch
+- 同 lang 多 worker 場景：1-3 worker，分批 dispatch 而非 burst
+
+#### Z2.2 Rate-limited cool-down 鐵律（DNA #45）
+
+**Rate-limited 後立刻降 concurrency 重試 = 沒用**。Budget 耗盡後不會立刻補充，需要 cool-down ≥ 5-10 min。Cool-down 期間 fallback 路徑：
+
+1. **Tier-2 fallback (DNA #39 self-as-fallback)**：派 Sonnet sub-agent 平行 ship（5 agent × 1 lang × N articles）— 5/2 sleepy-colden 實證 ~10 min 一輪 15 翻譯
+2. **跨 provider fallback**：切到 Anthropic（已用 Sonnet sub-agent 等於同 path）/ paid OpenAI / etc.
+3. **Wait + retry**：~10 min 後重試 1-3 worker，但這時通常 task urgency 已 escalate，不如直接走 (1)
+
+**規則**：rate-limit 出現後 ≤ 30s 內決定走 (1) 還是 (3)，不要無限 retry。
+
+**觸發 v1 → v2 升級**：2026-05-02 sleepy-colden session 5 lang × 2 worker = 10 burst dispatch 全卡 attempt 3 backoff，kill 後 5 worker 重試仍卡，最終走 Sonnet escalation 一輪到位。Verification 第 2 次（5/1 γ-late 系列也踩過類似 issue 但沒 codify）。
+
 ### Stage Z3：增量 commit（防 context 流失）
 
 每完成 ~50 fresh translations local commit 一次：
