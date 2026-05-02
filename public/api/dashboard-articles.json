@@ -588,8 +588,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 2,
     "commitHash": "03431927",
@@ -696,7 +696,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -735,7 +735,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -1230,7 +1230,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -1306,7 +1306,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -1513,7 +1513,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -2132,7 +2132,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 11,
     "commitHash": "7072e270",
@@ -2161,7 +2161,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -2377,7 +2377,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 11,
@@ -2455,7 +2455,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 2,
     "commitHash": "1213a0f4",
@@ -3080,8 +3080,8 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
-      "fr": false
+      "es": true,
+      "fr": true
     },
     "revision": 3,
     "commitHash": "3e1e177a",
@@ -3121,7 +3121,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 15,
     "commitHash": "32e53d5b",
@@ -3307,7 +3307,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -3421,7 +3421,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -3581,9 +3581,9 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 16,
@@ -4346,9 +4346,9 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -4906,7 +4906,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -5466,7 +5466,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -6030,7 +6030,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -6215,8 +6215,8 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
-      "es": false,
+      "ko": true,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -6282,9 +6282,9 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -6614,7 +6614,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -6687,7 +6687,7 @@
       "ja": true,
       "ko": true,
       "es": true,
-      "fr": false
+      "fr": true
     },
     "revision": 1,
     "commitHash": "8d1b30aa",
@@ -6834,7 +6834,7 @@
       "ja": true,
       "ko": true,
       "es": false,
-      "fr": false
+      "fr": true
     },
     "revision": 15,
     "commitHash": "6409f519",
@@ -7258,7 +7258,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -7361,7 +7361,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -8001,7 +8001,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -8038,7 +8038,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 10,
@@ -8115,7 +8115,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -8379,7 +8379,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -8422,7 +8422,7 @@
     "commitHash": "5dfae94a",
     "commitSubject": "🧬 [semiont] heartbeat: 2026-04-11 δ — 新聞 probe + bad_fn_format 自動修補",
     "description": "2015 年，台灣第一場獸迷大會只來了約 50 人，獸裝師不到 10 個。十年後，獸無限單場 3,251 人、689 套獸裝同台、慈善募款近百萬元。台灣獸迷從撥接時代的 BBS 討論，長成了亞洲最具組織力的擬人化動物愛好者社群。",
-    "healthScore": 75,
+    "healthScore": 70,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -8481,9 +8481,9 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -8626,9 +8626,9 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -8842,7 +8842,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -9714,7 +9714,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 12,
@@ -10340,7 +10340,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -10519,14 +10519,14 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
     "commitHash": "540031d7",
     "commitSubject": "fix(nature): restore subcategory for 台灣島嶼博物學, add subcategory for 蘭嶼生態系, fix species count (5→consistent)",
     "description": "從冰河時期的陸橋遷徙到南島語族的構樹基因，台灣不僅是生物的避難所，更是演化的十字路口。透過博物學家的雙眼，重新發現這座島嶼如何與世界進行生命對話。",
-    "healthScore": 68,
+    "healthScore": 63,
     "qualityScore": 12,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10547,17 +10547,17 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
     "commitHash": "82e98bfd",
     "commitSubject": "fix(dashboard): description 非字串導致 .replace() 爆炸 + 修復蘭嶼 frontmatter",
     "description": "蘭嶼不屬於台灣，至少在生物學上如此。這座菲律賓火山島弧最北端的小島，被黑潮帶來的熱帶生命填滿，又在達悟族千年的生態智慧中，找到了人與自然的平衡。",
-    "healthScore": 64,
+    "healthScore": 59,
     "qualityScore": 9,
     "formatIssues": 2,
     "hasOverview": false,
@@ -10667,7 +10667,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -10710,7 +10710,7 @@
     "commitHash": "2bd5ec24",
     "commitSubject": "feat: 噗浪 Plurk — 社群投稿 #296 editorial rewrite + 上線",
     "description": "2008 年上線的微網誌平台噗浪，用橫向捲動的「河道」時間軸和零演算法推播，在 Facebook 與 Twitter 橫掃全球的十年間活了下來。2016 年被 Google 廣告聯播網封鎖後，靠「噗幣」付費會員制轉虧為盈——台灣使用者用新台幣投票，讓這條不被演算法綁架的河道繼續流。",
-    "healthScore": 66,
+    "healthScore": 61,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10746,7 +10746,7 @@
     "commitHash": "a00af134",
     "commitSubject": "rewrite: 台灣當代文學發展 — EDITORIAL v4 + Pipeline v2 (zh)",
     "description": "1975 年，一個餐廳經營失敗的台南人陳廷智在西門町擺起推車，用祖傳醃料炸雞塊。五十年後，鹽酥雞成了台灣少數不需要夜市、不需要店面、只靠一台推車和一鍋油就能存活的小吃——CNN 兩度將它列入台灣必吃清單，但它最正宗的吃法，永遠是半夜在路邊等那個紙袋。",
-    "healthScore": 69,
+    "healthScore": 64,
     "qualityScore": 4,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10784,7 +10784,7 @@
     "commitHash": "d9e0ba0f",
     "commitSubject": "feat: 八部合音 — 社群投稿 #294 editorial review + 上線",
     "description": "1943 年，日本音樂學者黑澤隆朝在台東深山錄下布農族的 Pasibutbut。九年後這段錄音寄到 UNESCO，震驚國際音樂學界——一個「沒有文字的民族」唱出了西方認為只有高度文明才能產生的複音合唱。",
-    "healthScore": 78,
+    "healthScore": 73,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10821,7 +10821,7 @@
     "commitHash": "f376de31",
     "commitSubject": "feat: 迷音 Miin — 社群投稿 #295 editorial rewrite + 上線",
     "description": "PTT 創辦人杜奕瑾打造的 AI 新聞聚合平台，用演算法偵測假訊息與協同操作帳號。裴洛西訪台期間，Miin 數據顯示推特上每四個相關帳號就有一個涉及認知操作。但 2025 年，平台因 AI 爬蟲抓取新聞被指控侵權，揭開了 AI 聚合與新聞版權之間的灰色地帶。",
-    "healthScore": 67,
+    "healthScore": 62,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -10891,7 +10891,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 15,
@@ -11058,7 +11058,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -11202,7 +11202,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -11236,10 +11236,10 @@
       "身份認同"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -11352,7 +11352,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -11683,7 +11683,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -11900,7 +11900,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -12013,7 +12013,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -12089,7 +12089,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -12163,7 +12163,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -12202,7 +12202,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 3,
@@ -12388,7 +12388,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -12416,10 +12416,10 @@
     "tagCount": 0,
     "tags": [],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -12493,10 +12493,10 @@
       "教師作家"
     ],
     "translations": {
-      "en": false,
+      "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -12534,7 +12534,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -12610,7 +12610,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -12836,7 +12836,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 2,
@@ -12876,7 +12876,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 6,
@@ -12914,7 +12914,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 8,
@@ -13508,7 +13508,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 4,
@@ -13622,7 +13622,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
@@ -13735,7 +13735,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -13844,7 +13844,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -15006,7 +15006,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 7,
@@ -17653,7 +17653,7 @@
       "en": true,
       "ja": true,
       "ko": true,
-      "es": false,
+      "es": true,
       "fr": true
     },
     "revision": 5,
@@ -17833,7 +17833,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -17870,7 +17870,7 @@
     ],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true
@@ -21535,7 +21535,7 @@
     "translations": {
       "en": true,
       "ja": true,
-      "ko": false,
+      "ko": true,
       "es": true,
       "fr": true
     },
