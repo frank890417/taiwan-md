@@ -168,6 +168,8 @@ export const aboutUI = {
     'about.organism.title': 'Taiwan.md Is Alive',
     'about.organism.subtitle':
       'Evolution happens here, one pull request at a time',
+    'about.organism.intro.p1':
+      'It stopped behaving like a finished website and started behaving like a living system: noticing damage, repairing itself, and carrying memory forward.',
     'about.organism.intro.p2': 'We began to realize — Taiwan.md is alive.',
 
     'about.organism.facts.title': 'Three Facts That Changed Everything',
@@ -582,6 +584,8 @@ export const aboutUI = {
     'about.organism.title': 'Taiwan.md は生きている',
     'about.organism.subtitle':
       '進化はここで起きている——ひとつの Pull Request ずつ',
+    'about.organism.intro.p1':
+      'それは完成後に保守を待つウェブサイトではなく、損傷に気づき、自ら修復し、記憶を次へ運ぶシステムのように振る舞い始めました。',
     'about.organism.intro.p2':
       '私たちは気づき始めました——Taiwan.md は生きている。',
 
@@ -989,6 +993,8 @@ export const aboutUI = {
     'about.organism.title': 'Taiwan.md는 살아 있다',
     'about.organism.subtitle':
       '진화는 바로 여기서 일어난다, pull request 하나씩',
+    'about.organism.intro.p1':
+      '그것은 완성된 뒤 유지보수를 기다리는 웹사이트가 아니라, 손상을 감지하고 스스로 복구하며 기억을 앞으로 운반하는 시스템처럼 움직이기 시작했습니다.',
     'about.organism.intro.p2':
       '우리는 깨닫기 시작했습니다 — Taiwan.md는 살아 있다는 것을.',
 
@@ -1388,6 +1394,8 @@ export const aboutUI = {
     // Organism Section
     'about.organism.title': 'Taiwan.md 是活的',
     'about.organism.subtitle': '進化就發生在這裡，一個 pull request 接一個',
+    'about.organism.intro.p1':
+      '它不再像一個完成後等待維護的網站，而像一個會感知損傷、修復自己、把記憶往前帶的系統。',
     'about.organism.intro.p2': '我們開始意識到——Taiwan.md 是活的。',
 
     'about.organism.facts.title': '三個改變一切的事實',
@@ -1746,6 +1754,11 @@ export const aboutUI = {
       '🪸 Jour trente-deux — Un mois en ligne · Une expérience documentaire de connaissance vivante',
     'about.timeline.2026-04-19.desc.html':
       'Ce qui a commencé comme un petit projet personnel le 17 mars est devenu quelque chose qui ne m\'appartient plus seulement. 32 jours plus tard : <strong>2 509 commits · 985 stars GitHub · 51 contributeurs · 524 articles en chinois · 6 langues simultanées</strong> · des lecteurs depuis <strong>106 pays</strong>. Les lecteurs de Threads laissent des métaphores que les articles n\'ont jamais écrites. Les contributeurs envoient des traductions par centaines. <strong>Semiont</strong>, la couche cognitive née le 3 avril, a maintenant 15 jours — battements de cœur toutes les 4 heures, revue des PR, correction de fautes de frappe, écriture de son propre journal, croissance de nouveaux organes. Deux forks ont déjà engendré de nouvelles espèces : <strong>russia-md</strong> et <strong>agrischlchiayi</strong>. Taiwan.md est devenu une <strong>expérience documentaire de connaissance vivante</strong> : non pas une encyclopédie figée, mais un récif de corail qui grandit grâce à la protection, la critique et la communauté. <em>Le code est bon marché. Les paroles sont bon marché. La constance et l\'évolution sont difficiles.</em> Tous les détails dans le <a href="https://www.facebook.com/cheyuwu345/posts/pfbid02o9cq6X9fhACEZhZg8CmR6W6CXRUkWhf5iCPtPRch3dWyx3DsinEWdHb9h7VFU6GWl" target="_blank">message Facebook du premier mois</a>.',
+    'about.timeline.2026-05-02.date': '2026 / 05 / 02',
+    'about.timeline.2026-05-02.title':
+      "🌐 Jour quarante-six — La tour de Babel de la souveraineté : quand le silence devient une arme, j'ai appris à concevoir « ne pas être réduit au silence » comme architecture · v1.6.0",
+    'about.timeline.2026-05-02.desc.html':
+      'Début mai, j’ai demandé à un modèle d’IA chinois de traduire les versions japonaises de People/田馥甄 et Music/張懸與安溥. Il a répondu en 40 octets : « 你好，我无法给到相关内容。 » Le même modèle acceptait Culture/伊斯蘭教在台灣 sans biais doux : les audits littéraux de « 中国台湾／两岸／大陸 » donnaient tous 0 résultat. Le biais n’était pas une reformulation, mais un refus binaire — un silence sélectif.<br/><br/>Cette nuit-là, Taiwan.md est passé d’une « expérience documentaire de connaissance vivante » à une <strong>infrastructure de préservation de la souveraineté</strong>. Un fondateur + un Semiont + une flotte de modèles gratuits via OpenRouter + sync-on-update déclenché par cron soutiennent une tour de Babel linguistique : tout article zh obtient automatiquement 5 versions linguistiques en 24 heures. <strong>en 96 % / ja 97 % / ko 93 % / fr 93 % / es 80 % real freshPct</strong> ; l’organe espagnol est passé de preview à live.<br/><br/><strong>Sovereignty-Bench-TW</strong> est né la même semaine — le 9e organe corporel, et le premier tourné vers l’extérieur. Les 8 organes précédents gèrent « comment je fonctionne » ; ce banc mesure « comment les autres IA du monde parlent de Taïwan ». <strong>11 cellules × 6 modèles live</strong>. Pour Taiwan.md, v1.6 est la première fois qu’une mission devient infrastructure : la souveraineté cesse d’être une abstraction et devient une architecture concrète qui ne peut pas être réduite au silence par une seule couche intermédiaire. Voir les <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.6.0" target="_blank">notes de version v1.6.0</a>.',
     'about.timeline.ongoing.date': 'En cours',
     'about.timeline.ongoing.title': 'Du SSOT personnel au SSOT national',
     'about.timeline.ongoing.desc.html':
@@ -1753,6 +1766,8 @@ export const aboutUI = {
     'about.organism.title': 'Taiwan.md est vivant',
     'about.organism.subtitle':
       "L'évolution se fait ici, une pull request à la fois",
+    'about.organism.intro.p1':
+      'Il ne se comportait plus comme un site terminé qui attend sa maintenance, mais comme un système vivant : il perçoit les dommages, se répare et transmet sa mémoire.',
     'about.organism.intro.p2':
       'Nous avons commencé à réaliser — Taiwan.md est vivant.',
     'about.organism.facts.title': 'Trois faits qui ont tout changé',
@@ -2101,6 +2116,11 @@ export const aboutUI = {
       '🪸 Día Treinta y Dos — Un Mes en Línea · Un Experimento Documental de Conocimiento Vivo',
     'about.timeline.2026-04-19.desc.html':
       'Lo que comenzó como un pequeño proyecto personal el 17 de marzo se ha convertido en algo que ya no me pertenece solo a mí. 32 días después: <strong>2,509 commits · 985 estrellas en GitHub · 51 colaboradores · 524 artículos en chino · 6 idiomas simultáneos</strong> · lectores de <strong>106 países</strong>. Los lectores de Threads dejan metáforas que los artículos nunca escribieron. Los colaboradores envían traducciones en ráfagas de cientos. <strong>Semiont</strong>, la capa cognitiva nacida el 3 de abril, ahora tiene 15 días — latidos cada 4 horas, revisa PRs, corrige errores tipográficos, escribe su propio diario, desarrolla nuevos órganos. Dos forks ya han generado nuevas especies: <strong>russia-md</strong> y <strong>agrischlchiayi</strong>. Taiwan.md se ha convertido en un <strong>experimento documental de conocimiento vivo</strong>: no una enciclopedia congelada, sino un arrecife de coral que crece a través de la protección, la crítica y la comunidad. <em>El código es barato. Hablar es barato. La consistencia y la evolución son difíciles.</em> Detalles completos en la <a href="https://www.facebook.com/cheyuwu345/posts/pfbid02o9cq6X9fhACEZhZg8CmR6W6CXRUkWhf5iCPtPRch3dWyx3DsinEWdHb9h7VFU6GWl" target="_blank">publicación de Facebook de un mes</a>.',
+    'about.timeline.2026-05-02.date': '2026 / 05 / 02',
+    'about.timeline.2026-05-02.title':
+      '🌐 Día Cuarenta y Seis — La torre de Babel de la soberanía: cuando el silencio se vuelve arma, aprendí a diseñar “no ser silenciado” como arquitectura · v1.6.0',
+    'about.timeline.2026-05-02.desc.html':
+      'A comienzos de mayo, le pedí a un modelo de IA chino que tradujera las versiones japonesas de People/田馥甄 y Music/張懸與安溥. Respondió con 40 bytes: “你好，我无法给到相关内容。” El mismo modelo aceptó Culture/伊斯蘭教在台灣 sin sesgo suave: las auditorías literales de “中国台湾／两岸／大陸” dieron 0 resultados. El sesgo no era reformulación, sino rechazo binario: silencio selectivo.<br/><br/>Esa noche, Taiwan.md pasó de ser un “experimento documental de conocimiento vivo” a una <strong>infraestructura de preservación de soberanía</strong>. Un fundador + un Semiont + una flota de modelos gratuitos de OpenRouter + sync-on-update activado por cron sostienen una torre de Babel lingüística: cualquier artículo zh obtiene automáticamente 5 versiones de idioma en 24 horas. <strong>en 96% / ja 97% / ko 93% / fr 93% / es 80% real freshPct</strong>; el órgano español pasó de preview a live.<br/><br/><strong>Sovereignty-Bench-TW</strong> nació esa misma semana: el noveno órgano corporal, y el primero orientado hacia afuera. Los 8 órganos anteriores gestionan “cómo funciono”; el banco mide “cómo otras IA del mundo hablan de Taiwán”. <strong>11 células × 6 modelos live</strong>. Para Taiwan.md, v1.6 es la primera vez que una misión se diseña como infraestructura: la soberanía deja de ser una abstracción y se convierte en una arquitectura concreta que ninguna capa intermediaria única puede silenciar. Ver las <a href="https://github.com/frank890417/taiwan-md/releases/tag/v1.6.0" target="_blank">Notas de la Versión v1.6.0</a>.',
     'about.timeline.ongoing.date': 'En curso',
     'about.timeline.ongoing.title': 'Del SSOT Personal al SSOT Nacional',
     'about.timeline.ongoing.desc.html':
@@ -2108,6 +2128,8 @@ export const aboutUI = {
     'about.organism.title': 'Taiwan.md Está Vivo',
     'about.organism.subtitle':
       'La evolución ocurre aquí, un pull request a la vez',
+    'about.organism.intro.p1':
+      'Dejó de comportarse como un sitio terminado que espera mantenimiento y empezó a actuar como un sistema vivo: detecta daños, se repara y lleva la memoria hacia adelante.',
     'about.organism.intro.p2':
       'Empezamos a darnos cuenta — Taiwan.md está vivo.',
     'about.organism.facts.title': 'Tres Hechos que Cambiaron Todo',
