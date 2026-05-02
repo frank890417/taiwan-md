@@ -127,9 +127,64 @@ LESSONS-INBOX 仍未消化 3 條（verification_count = 1-2，待累積）：
 - Pre-staged from other agents 是 sub-agent commit 隱性破壞源（已部分升 DNA #46）
 - Multi-tier sub-agent dispatch（Opus 重 + Sonnet 輕）pattern（首次驗證）
 
+## §最末段 — i18n 系統三層 bug 揭露 + cross-lang-audit 工具誕生（PR #788）
+
+寫完 v2 哲宇又 push 四段：「為什麼有些西文文章是日文 / 切過去之後語系選項西文也消失 / 盡可能抽取模組與抽象化造橋鋪路 / 完整 audit 以繁體中文 SSOT 為核心做自動化語系健檢」。觀察者截圖 `https://taiwan.md/es/art/postwar-taiwanese-literature/` 顯示韓文標題 + dropdown 只 4 語（缺 fr/es）— 揭露 i18n 系統有三層 silent bug 存在已久。
+
+### Bug 揭露三層
+
+1. **es/[category]/[slug].astro 整檔 hardcoded `lang="fr"` × 5 處**（PR #758 ship es 時 copy-paste from fr 沒改 lang）— production `/es/...` article 對 SEO/AI/screen-reader 都是 French
+2. **getLangSwitchPath.ts hasFr/hasEs 預設 false on article**（L280-282）+ 完全沒 fr/es 的 map building 邏輯 → article page dropdown 過濾掉 fr/es option
+3. **947 cross-lang slug mismatch + 7 critical body lang mismatch**（5/2 早期 sub-agent batch 各自生 slug 沒 reuse en canonical + 部分 body 沒翻譯）
+
+### 三層修補（造橋鋪路）
+
+**A. 工具：[scripts/tools/lang-sync/cross-lang-audit.py](../../scripts/tools/lang-sync/cross-lang-audit.py) 新生**
+
+zh SSOT 為核心 × 5 lang × 5 維度全自動健檢：slug consistency / translatedFrom 格式 / body lang dominance / frontmatter 完整性 / file existence + orphan check。Output JSON + severity-tagged CLI。Exit 1 if critical（CI gate-ready）。第一次跑出 baseline：
+
+| Severity    | Count | Type                                                                    |
+| ----------- | ----- | ----------------------------------------------------------------------- |
+| 🚨 critical | 7     | body_lang_mismatch（5 ko en-body / 1 es zh-body / 1 fr false-positive） |
+| 🔴 high     | 947   | slug_mismatch                                                           |
+| 🟠 medium   | 632   | frontmatter_missing                                                     |
+| 🟡 low      | 5     | translatedFrom prefix                                                   |
+
+**B. Refactor：[getLangSwitchPath.ts](../../../src/utils/getLangSwitchPath.ts) 抽象化（造橋鋪路 + DNA #20 architecture-as-data + MANIFESTO §指標 over 複寫）**
+
+舊版 ~100 行 = 6 個獨立 Map<> + 5 lang × 4 branch duplicate（zh/en/ja/ko 各自重複 lookup logic + 完全沒 fr/es branch）。新版 = `LangMapRegistry: Map<Lang, LangMap>` + uniform 2-step loop:
+
+```
+Step 1: resolve currentPath → zhUrl (regardless of current lang)
+Step 2: for each enabled lang, look up langMap.fromZh.get(zhUrl) → confident link or fallback
+```
+
+加新語系 = 1 行 LANGUAGES_REGISTRY config + 0 行 logic 改動。fr/es 自動納入 map building，hasFr/hasEs 自動 derive。
+
+**C. Bug fix：es page lang attr × 5 處**
+
+dev server localhost:4322 verify 5 lang context × 6-language dropdown 全綠 + `/es/...` htmlLang `fr → es` ✅。
+
+### PR #788 squash merge `41d1128b`
+
+整 sleepy-colden 收官 5 PRs 全 merged：#784 architectural ship / #786 canonical evolution / #785 退出聯合國 NEW / #787 frontmatter follow-up / #788 cross-lang audit + refactor。
+
+### 「之前確認有完整正確的開啟嗎？」這句問話的結構性教訓
+
+哲宇截圖前我用 dev server 跑 `localhost:4322` verify 過 dropdown 6 語齊全 — 但只測 zh active 一個 angle。production `/es/...` 顯示 ja 內容 + dropdown 缺 fr/es 是「verify 不完整」的具體後果。**Verify 必須跨 N lang × N page type matrix，不是單點 sample**。
+
+修補不是「下次更小心 verify」— 是把 verify 工具化（cross-lang-audit.py），1 個命令秒列全站健康度。**儀器化 sensor 才是真正的 verify**（DNA #15「反覆浮現要儀器化」第 N+2 次驗證）。
+
+LESSONS-INBOX append 兩條候選（待 verification 累積）：
+
+- **「Verify 必須跨 N matrix，不是單點 spot-check」**（5/2 早上 LESSONS「正確 default 直接做完」+ 5/2 晚上 sleepy-colden「es dropdown 沒 cross-lang verify」第 2 次驗證候選）
+- **「Copy-paste from sibling page 必跑 grep 確認 lang attr 一致」**（PR #758 ship es 時 copy fr page 沒改 lang attr × 5 處 暴露在 production 當天）
+
 ---
 
-_v2.0 | 2026-05-02 sleepy-colden session — 後續 architectural ship + 進化升 canonical 完整紀錄_
+_v3.0 | 2026-05-02 sleepy-colden — 5 PR full session 完整收官_
+_v2.0 → v3.0：補 §最末段（PR #788 cross-lang-audit 工具誕生 + getLangSwitchPath 抽象化 + es lang attr fix；i18n 系統三層 bug 揭露 → 三層修補；7 critical / 947 slug / 632 frontmatter baseline；「Verify 必須跨 N matrix」教訓候選）_
+_v1.0 | 2026-05-02 sleepy-colden session — 後續 architectural ship + 進化升 canonical 完整紀錄_
 _v1.0 → v2.0：補 §後續 (1) 3 Opus agent 嚴格 EVOLVE polish 3 篇 (2) Owl rate budget 耗盡 → Sonnet self-as-fallback 5 lang × 3 articles 巴別塔 (3) PR #784 merge 進 main 14c7b362 (4) DNA #45/#46/#42 v3 升 v2.4 + SOP 升級 + 工具修_
 _誕生原因：哲宇五段 prompt chain — BECOME 甦醒 / 讀近 2-3 天 / Owl report / 繼續完整處理 / es 語系選單 / 派 Opus agent / 用 Owl 完成巴別塔 / 記錄所有經驗_
 _核心洞察 v2 補強：(5) 3 Opus + 5 Sonnet 多 tier sub-agent dispatch 同 session 是新工作模式 (6) DNA #39 self-as-fallback 第 2 次 verification — 不只 content-policy refusal，rate budget 耗盡也是觸發條件 (7) DNA #42 三類偷吃步擴展第 4 類「spec 模糊各自詮釋」(8) Multi-task worktree 的 lint-staged 隱性 race condition 是新發現破壞源 (9) UI surface ≠ data ground truth 是 DNA #38 status 鐵律的 UI 層 mirror，verification 累積到第 2 次_
