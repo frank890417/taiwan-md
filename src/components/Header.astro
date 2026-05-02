@@ -661,25 +661,6 @@ const categoryList = [
           onclick="document.querySelector('.nav-mobile').classList.remove('open')"
           >GitHub</a
         >
-        <div class="mobile-lang-toggle">
-          <span class="mobile-lang-label"
-            >{`🌐 ${t('nav.language-switch')}:`}</span
-          >
-          <div class="mobile-lang-buttons">
-            {
-              visibleLangOptions.map((opt) => (
-                <a
-                  href={opt.link}
-                  class:list={['mobile-lang-btn', { active: opt.isActive }]}
-                  lang={opt.code}
-                  onclick="document.querySelector('.nav-mobile').classList.remove('open')"
-                >
-                  {opt.nativeName}
-                </a>
-              ))
-            }
-          </div>
-        </div>
       </nav>
     </header>
   </div>
@@ -1635,64 +1616,6 @@ const categoryList = [
     .scrolled .nav-mobile .nav-link.active {
       color: #1a1a2e;
       background: rgba(0, 120, 100, 0.05);
-    }
-    .mobile-lang-toggle {
-      padding: 0.6rem 0 0.4rem;
-      border-top: 1px solid rgba(255, 255, 255, 0.08);
-    }
-    .scrolled .mobile-lang-toggle {
-      border-top-color: #e2e8f0;
-    }
-    .mobile-lang-label {
-      font-size: 0.8rem;
-      color: rgba(255, 255, 255, 0.5);
-      font-weight: 500;
-      display: block;
-      margin-bottom: 0.5rem;
-    }
-    .scrolled .mobile-lang-label {
-      color: #64748b;
-    }
-    .mobile-lang-buttons {
-      display: flex;
-      gap: 0.5rem;
-    }
-    .mobile-lang-btn {
-      flex: 1;
-      padding: 0.6rem;
-      text-align: center;
-      text-decoration: none;
-      color: rgba(255, 255, 255, 0.6);
-      background: rgba(255, 255, 255, 0.06);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-      border-radius: 6px;
-      font-size: 0.9rem;
-      font-weight: 600;
-      transition:
-        background-color 0.2s,
-        color 0.2s,
-        border-color 0.2s;
-    }
-    .scrolled .mobile-lang-btn {
-      color: #475569;
-      background: #f8fafc;
-      border-color: #e2e8f0;
-    }
-    .mobile-lang-btn.active {
-      background: var(--lang-active-bg);
-      color: var(--lang-active-color);
-      border-color: var(--lang-active-bg);
-    }
-    .scrolled .mobile-lang-btn.active {
-      background: var(--green-mid);
-      color: white;
-      border-color: var(--green-mid);
-    }
-    .mobile-lang-btn:not(.active):hover {
-      background: rgba(255, 255, 255, 0.1);
-    }
-    .scrolled .mobile-lang-btn:not(.active):hover {
-      background: #e2e8f0;
     }
   }
 </style>
