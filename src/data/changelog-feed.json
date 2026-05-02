@@ -1,7 +1,517 @@
 {
-  "generatedAt": "2026-04-29T17:47:55.607Z",
+  "generatedAt": "2026-05-02T06:26:16.465Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "c11c6fc5eede989c116e165e775286c793058a46",
+      "date": "2026-05-02T14:22:26+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] 100% real-real-real final — multi-tier escalation: sub-agent + owl + ollama qwen3.6 (#775)"
+    },
+    {
+      "hash": "04e8a4514547e06434a0a14eeb96447f46c6f16a",
+      "date": "2026-05-02T12:29:33+08:00",
+      "author": "Wu Che Yu",
+      "message": "fix: add missing about organism intro copy (#774)"
+    },
+    {
+      "hash": "c6d71679360f475bcf4c1cb4c5a363a7c52c23a8",
+      "date": "2026-05-02T12:07:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "fix: restore about organism title contrast (#773)"
+    },
+    {
+      "hash": "ae885eb891fa02eb362bc9d7a545faa7ecd32f9b",
+      "date": "2026-05-02T12:00:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "fix: promote Che-Yu Wu article headings (#772)"
+    },
+    {
+      "hash": "431ea58ff73a6bbe0f6c3636857b1df68033f117",
+      "date": "2026-05-02T11:54:39+08:00",
+      "author": "Wu Che Yu",
+      "message": "fix: default reader theme to light (#771)"
+    },
+    {
+      "hash": "3b8ff04f3730557771933f5cdb635db0c4bd900b",
+      "date": "2026-05-02T10:48:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Phase F 完整進化 — DNA #42 + #32 v2 + REWRITE Stage 5 §5.1 + audit-batch.sh"
+    },
+    {
+      "hash": "f5c9b6808f3c27770af5b287dbc0a30cc180f8f3",
+      "date": "2026-05-02T10:42:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] 100% real final — sub-agent escalation 95 articles + 5 langs ≥99.8% + DNA #39-41 (#770)"
+    },
+    {
+      "hash": "c37aa93265ffca9ad1ba9a182567409968f4fb55",
+      "date": "2026-05-02T10:06:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 2026-05-02 batch EVOLVE 收官 + sub-agent 偷吃步教訓 distill"
+    },
+    {
+      "hash": "7bb2f40e2023f5dd352102be9d32469063f2fa57",
+      "date": "2026-05-02T09:49:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] stage5: 統戰團 延伸閱讀加入法輪功在台灣 reverse cross-link"
+    },
+    {
+      "hash": "4a42ae8d3e6367df3775aea43a651bafb17eb80d",
+      "date": "2026-05-02T09:48:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 法輪功在台灣 EVOLVE polish (FACTCHECK Full Mode + no-media)"
+    },
+    {
+      "hash": "531353d0bc36cbafd71cd6d22de5425ed17ec10e",
+      "date": "2026-05-02T09:48:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 布袋戲 EVOLVE polish (no-media)"
+    },
+    {
+      "hash": "c67109e583e540b177a3cacc9599b26d7d13c8ec",
+      "date": "2026-05-02T09:47:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 鐵皮屋 EVOLVE polish — Lovable AI 第一稿事實 verify (no-media)"
+    },
+    {
+      "hash": "8084798efdfde06597530ea96076f905fa991557",
+      "date": "2026-05-02T09:47:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 兩廳院 EVOLVE polish (no-media)"
+    },
+    {
+      "hash": "2f1912748bc80acdbd79aff7402b0ca2a4e3f7ac",
+      "date": "2026-05-02T09:45:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 賈永婕 EVOLVE polish (no-media)"
+    },
+    {
+      "hash": "23333124e5372f625653d05e77bae235179239c8",
+      "date": "2026-05-02T09:42:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 統戰團 EVOLVE polish (FACTCHECK Full Mode + no-media)"
+    },
+    {
+      "hash": "583d4be9fc06d6e0c058bb94397492449520728f",
+      "date": "2026-05-02T09:40:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: Facebook EVOLVE polish + cross-link IG sibling (no-media)"
+    },
+    {
+      "hash": "e42d7520c76b8f7a477ecba38793d708d937767c",
+      "date": "2026-05-02T09:38:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [evolve+merge] rewrite: 林強 EVOLVE+MERGE issue #761 (no-media)"
+    },
+    {
+      "hash": "d94bc431329fb0e4c5d27abcd301c6562fa9abe0",
+      "date": "2026-05-02T09:38:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 埔里紹興酒 EVOLVE polish (no-media)"
+    },
+    {
+      "hash": "e63e0bbdd3bf5675fea9483d7dea38162c3a37c0",
+      "date": "2026-05-02T09:11:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: idlccp1984 batch 10 PR path/category 對齊"
+    },
+    {
+      "hash": "b7fb6b585160329be79872216cdc9424b50c8234",
+      "date": "2026-05-02T09:10:17+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 賈永婕 NEW People（《娛樂晚點名》到拍板 Honnold 徒手爬 101 / 賈德耀旁支 + HFNC 6,804 萬 / idlccp1984 #763 — path fix follow-up needed）"
+    },
+    {
+      "hash": "272f753b4d73d7e050bb464a51e8e551306b4107",
+      "date": "2026-05-02T09:10:13+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 法輪功在台灣 NEW（陽明山花鐘到中南海與 101 兩岸稜鏡 / 台大教授 + 社團法人 / idlccp1984 #675 — path fix follow-up needed）"
+    },
+    {
+      "hash": "ba8dd3656283f50f2228cb58aaf031a54fcdf422",
+      "date": "2026-05-02T09:09:40+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 統戰團 NEW Society（落地招待到網紅流量 / 潤物細無聲 + 制度性網絡 + AI 認知作戰 / idlccp1984 #735 — 紀實非煽情）"
+    },
+    {
+      "hash": "f39b38765d50a251223199ea5466c1b754a8e8c2",
+      "date": "2026-05-02T09:09:36+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 皮影戲 NEW Culture（阿萬師隱居彌陀 + 皇民化「皮戲挺身隊」 + 牛車光影 / idlccp1984 #755 — category fix follow-up needed）"
+    },
+    {
+      "hash": "6e16d9a64d4bfe4a812bd6b6d94a9a214ac619ad",
+      "date": "2026-05-02T09:09:32+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 兩廳院 NEW（威權符號到全民藝文殿堂 / Flentrop 管風琴 + DEI 共融轉型 / idlccp1984 #756 — path fix follow-up needed）"
+    },
+    {
+      "hash": "313dd48c3305c0ecadee2bfc551c5f9414f6ded4",
+      "date": "2026-05-02T09:09:28+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 鐵皮屋 NEW（71.6 萬件違章 + 1995 年那條線 + 鐵棺材 / idlccp1984 #759 — category fix follow-up needed）"
+    },
+    {
+      "hash": "d37c1eba50995c81575ebcb2d6ae38b2fe2199ae",
+      "date": "2026-05-02T09:08:42+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: Facebook NEW Technology（哈佛宿舍到太陽花學運 / 開心農場 + 帝吧出征 + 數位民主雙面刃 / idlccp1984 #752）"
+    },
+    {
+      "hash": "ab36d7196312373706ea5585e8174b672ec67912",
+      "date": "2026-05-02T09:08:38+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: IG NEW Technology（攝影師濾鏡到台灣人「脆」焦慮 / 1130 萬使用者 / Reels 演算法轉型 / idlccp1984 #753）"
+    },
+    {
+      "hash": "b8426e0ce672460e0e28856a61544e64c244d618",
+      "date": "2026-05-02T09:08:34+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 布袋戲 NEW Culture（廟埕酬神到《東離劍遊紀》掌中宇宙 / 史豔文 97% 收視 / 皇民化「皮戲挺身隊」 / idlccp1984 #757）"
+    },
+    {
+      "hash": "00de2dba3c9192d066fd8f5a415e2d0b6f7e928e",
+      "date": "2026-05-02T09:08:07+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [semiont] rewrite: 埔里紹興酒 NEW Food（1952 年發明的台灣國酒 + 愛蘭甘泉 + 大陳義胞工藝記憶 / idlccp1984 #760）"
+    },
+    {
+      "hash": "09b563c018cd237c6f1410aecc5e0c8ec7430704",
+      "date": "2026-05-02T08:58:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "🔧 [ci] fix CI failures — Node 22 for i18n-smoke + 60min build timeout (#769)"
+    },
+    {
+      "hash": "814f5d5b65ca0df577a405a26c327dedb67124b7",
+      "date": "2026-05-02T03:35:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] 100% push round 2 — UI i18n 100% × 6 langs + articles 93-99% (#768)"
+    },
+    {
+      "hash": "a346ecbea636330f2160d6d0a0a23bea30d8a7e9",
+      "date": "2026-05-02T01:00:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 v1.6.0 release prep — 認知層同步 + about page 第 46 天里程碑 + RELEASE-PIPELINE 進化 (#767)"
+    },
+    {
+      "hash": "17d2109218799c711bc3e2e65df2f75480fef348",
+      "date": "2026-05-02T00:39:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] multi-lang final + DEEP-INSIGHT-SYNTHESIS — 5 lang ≥80% real freshPct + 3 DNA + MANIFESTO §主權的巴別塔 (#766)"
+    },
+    {
+      "hash": "78f5bd545addafe629debe696eeadce5ecd1df81",
+      "date": "2026-05-02T00:32:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 文章閱讀設定 — dark mode + 字級 + 純文字 endpoint (#615) (#764)"
+    },
+    {
+      "hash": "0f7fde781463660779a9e8ca351af5cee735fbfa",
+      "date": "2026-05-02T00:26:51+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] Sovereignty-Bench-TW v0.2 — axis B + Ollama provider + 8-year thesis 整合 (#765)"
+    },
+    {
+      "hash": "6fe4ada67c01a418fa6493d667edcaa5a991433a",
+      "date": "2026-05-01T23:27:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] reports: CI build 文章頁面 cache 化深度研究 + per-lang matrix 實驗 (γ-late4) (#762)"
+    },
+    {
+      "hash": "52e41aba4c43dd82d89377257eb62384e9b53cd2",
+      "date": "2026-05-01T22:44:37+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] Sovereignty-Bench-TW v0.1 — design + Phase 1 infra (#751)"
+    },
+    {
+      "hash": "d5305768b016a386b8a5ea676b067bec15f270a3",
+      "date": "2026-05-01T22:16:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] multi-lang 5-lang sync: en 96% / ja 97% / ko 80% / fr 83% / es 27% + 榨模型MAX Z6 audit + honest backfill (#758)"
+    },
+    {
+      "hash": "8d79a7c3facee9a5091f953977e4ee46367ebeda",
+      "date": "2026-05-01T20:34:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] ja 100% sync near-complete (97.7%) — 榨模型MAX production run (#754)"
+    },
+    {
+      "hash": "af94a286e64b98d31596778d05501513d26257d0",
+      "date": "2026-05-01T18:00:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: γ-late3 — status.py 188× speedup + orthogonal mode + owl-alpha 突破 + 任務分解 A/B 框架 (#750)"
+    },
+    {
+      "hash": "68bd11c2988d171251854ce7d0f7cd835eb2e5ce",
+      "date": "2026-05-01T17:09:56+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] dashboard 3-state + en orphan cleanup + MANIFESTO sovereignty (#749)"
+    },
+    {
+      "hash": "6802fdd376f5186c0cc528315803173799881323",
+      "date": "2026-05-01T16:47:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: γ-late — PRC bias 證據 + diary OG 管線 + OpenRouter 工具 (#748)"
+    },
+    {
+      "hash": "4da59e73c08afb3b4c72fdeacf406c2aa1eae4bf",
+      "date": "2026-05-01T15:59:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: γ session — JA batch1(96/100)+EN cleanup(50)+DNA #35+#21延伸+pipeline v3.5+memory/diary γ (#747)"
+    },
+    {
+      "hash": "7edbd89045df2958c334e755909fdc55abff02a4",
+      "date": "2026-05-01T15:31:54+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync JA batch 1 — 96 sonnet (10×10 first time) (#746)"
+    },
+    {
+      "hash": "9b0b02d83d93aa0553e104597cc3323341b20ed0",
+      "date": "2026-05-01T15:08:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: dashboard donut bug v2 — explicit circumference + threshold ≥99 (#745)"
+    },
+    {
+      "hash": "00edd481e70c908f2c2df5528dcbd84d4bf61b1e",
+      "date": "2026-05-01T14:55:39+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: TRANSLATION-PIPELINE v3.4 + DNA #33/#34 + sync-on-update + handoff cleanup (#744)"
+    },
+    {
+      "hash": "e53a81d7956ff522427a0c96f6390df756ec2da4",
+      "date": "2026-05-01T14:43:46+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 9 — 49 sonnet 平行翻譯 (cycle 5/5 final EN) (#742) (#743)"
+    },
+    {
+      "hash": "908badd19b61bf9c36c49974c57f3cd2f7b12eaa",
+      "date": "2026-05-01T14:33:39+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 9 — 49 sonnet 平行翻譯 (cycle 5/5 final EN) (#742)"
+    },
+    {
+      "hash": "9d5d5a6b80ac2d7d0c7ae5167f63e1d4f0bac5e6",
+      "date": "2026-05-01T14:09:08+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 8 — 50 sonnet 平行翻譯 (cycle 4/5) (#741)"
+    },
+    {
+      "hash": "2e272bcdffd4388cec23aacd9950183f546f3f0c",
+      "date": "2026-05-01T13:42:08+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 7 — 50 sonnet 平行翻譯 (cycle 3/5) (#740)"
+    },
+    {
+      "hash": "cc9175bf7e17481faee5fc679f042e58d7887eea",
+      "date": "2026-05-01T13:17:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 6 — 50 sonnet 平行翻譯 (cycle 2/5) (#739)"
+    },
+    {
+      "hash": "8aa6483423d934147223b3121dcd4410a2b8f08b",
+      "date": "2026-05-01T12:52:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch 5 — 50 sonnet 平行翻譯（cycle 1/5） (#738)"
+    },
+    {
+      "hash": "db23ee1a6a5e3012dc8b779d2b42f560b45fb454",
+      "date": "2026-05-01T12:19:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: 2026-05-01 α-late — cron post-mortem + permission fix (#737)"
+    },
+    {
+      "hash": "08d176700a817a46817f7010f09871d9fa104bfd",
+      "date": "2026-05-01T09:20:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: 2026-05-01 α 收官 — autonomous lang-sync routine 啟動 + cron 設置 (#734) (#736)"
+    },
+    {
+      "hash": "f7bf3110df8f38e7e9e2268da77a1b263156550d",
+      "date": "2026-05-01T02:13:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: 2026-05-01 α 收官 — autonomous lang-sync routine 啟動 + cron 設置 (#734)"
+    },
+    {
+      "hash": "6994e76bcd037fdbd31d4c41b48fb26c7ea1c4b5",
+      "date": "2026-05-01T02:10:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: lang-sync 平行批次工具鏈 v3.3 — prepare-batch + verify-batch + budget cycle 校準 (#732) (#733)"
+    },
+    {
+      "hash": "9a5775070710a7281c9e41464e54347f6fc25c02",
+      "date": "2026-05-01T01:43:53+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: lang-sync 平行批次工具鏈 v3.3 — prepare-batch + verify-batch + budget cycle 校準 (#732)"
+    },
+    {
+      "hash": "d0968591e394890202d8ea9289d143d398961219",
+      "date": "2026-04-30T23:29:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "Merge pull request #731 from frank890417/claude/crazy-albattani-d03441"
+    },
+    {
+      "hash": "f24f52d6f0672b5aeea6f1844d48162f27e33f6b",
+      "date": "2026-04-30T23:28:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main' into claude/crazy-albattani-d03441"
+    },
+    {
+      "hash": "0e0ae58f8e39114a3cec7518275ce8eaad2d286a",
+      "date": "2026-04-30T23:28:00+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: lang-sync EN batch — 20 articles (newest first) + TRANSLATION-PIPELINE 元則 v3.1 (#723)"
+    },
+    {
+      "hash": "47cf84d1b31505298642bffa5524c86b5a865979",
+      "date": "2026-04-30T23:26:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: codify contributor lifecycle SOP"
+    },
+    {
+      "hash": "213359995d8cb0f7bc34c345b8ff1b70dd9f8803",
+      "date": "2026-04-30T23:19:44+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 5 PR (715/716/719/724/726) polish + LGBTQ inbox P0 (#730)"
+    },
+    {
+      "hash": "79d9a03364d070def59cacfa712a1884d191a4c2",
+      "date": "2026-04-30T22:53:13+08:00",
+      "author": "idlccp1984",
+      "message": "Create LGBTQ.md (#726)"
+    },
+    {
+      "hash": "ab576b45a539e660ffbe6ea68bd748ce6f999bf1",
+      "date": "2026-04-30T22:53:08+08:00",
+      "author": "idlccp1984",
+      "message": "Create LINE.md on its role in Taiwan's digital landscape (#724)"
+    },
+    {
+      "hash": "3fb2be56279341ded5f38419a41647965ba2dfc4",
+      "date": "2026-04-30T22:53:03+08:00",
+      "author": "idlccp1984",
+      "message": "Update 台灣藍鵲.md (#719)"
+    },
+    {
+      "hash": "08bf23d747af725464cda914aa8939b0753746ad",
+      "date": "2026-04-30T22:52:56+08:00",
+      "author": "idlccp1984",
+      "message": "Create 黑面琵鷺.md (#716)"
+    },
+    {
+      "hash": "d5a06914b76dd3a87d7c66edf30d5797f5b05e83",
+      "date": "2026-04-30T22:52:50+08:00",
+      "author": "idlccp1984",
+      "message": "Create 台灣水鹿.md (#715)"
+    },
+    {
+      "hash": "291fbb3f7e6bf92947c993cd72a16b1abe8ad0cf",
+      "date": "2026-04-30T22:52:13+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: γ-late 收官 — 海底電纜孢子 #55/#56 + Reader-First-Reaction Gate (#727)"
+    },
+    {
+      "hash": "3d8e68a5e830ddf660eb0e8bd9acb37f57caa1c1",
+      "date": "2026-04-30T22:21:10+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 黑冠麻鷺 inline 配圖 + spore #53/#54 ship (#722)"
+    },
+    {
+      "hash": "8e1fd723c7ead6762b54ad7c59e090a69f2eb391",
+      "date": "2026-04-30T22:01:47+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 黑冠麻鷺 title 改 catchy 版 (#721)"
+    },
+    {
+      "hash": "142d3ab317f97f26c7cdbcb07ebfbbcfaef44f9c",
+      "date": "2026-04-30T21:58:50+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: restore 黑冠麻鷺 γ memory file（被 PR #713 rebase 誤刪） (#720)"
+    },
+    {
+      "hash": "034319278e1a377e2e1548c0aa05d0525ac3c47e",
+      "date": "2026-04-30T21:57:32+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: PR #711 + #710 cherry-pick polish + γ memory (#713)"
+    },
+    {
+      "hash": "d78f10aecb98402c0472a6c98e35a0a52a1c63c8",
+      "date": "2026-04-30T21:36:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: PR #712 合作社 polish — frontmatter / footnote / §11 (#718)"
+    },
+    {
+      "hash": "fdaeec7c9661e0ee71df9af9e5c055c826264f66",
+      "date": "2026-04-30T21:29:35+08:00",
+      "author": "idlccp1984",
+      "message": "Create 合作社.md (#712)"
+    },
+    {
+      "hash": "dd7a1d1c4ef0a487c07a176f48436d4a02a6e480",
+      "date": "2026-04-30T20:46:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 黑冠麻鷺 EVOLVE：當城市變得像森林 (#714)"
+    },
+    {
+      "hash": "5a1e7b8c42a9d0df918be0f9b7b82fc6a902c41a",
+      "date": "2026-04-30T21:08:02+09:00",
+      "author": "Wilson Chen",
+      "message": "fix(food): standardize Braised Pork Rice 4-lang footnote + image local + i18n route fix (#709)"
+    },
+    {
+      "hash": "9859137b498b6c5320692c2a6754f4954b2acae9",
+      "date": "2026-04-30T20:06:02+08:00",
+      "author": "idlccp1984",
+      "message": "content: 曹興誠 NEW People — 從晶圓梟雄到抗共大將 (#711)"
+    },
+    {
+      "hash": "c5ef5adf1163e0697cec08fd26a8febc6df05650",
+      "date": "2026-04-30T20:05:28+08:00",
+      "author": "Zaious (@ChronicleCore)",
+      "message": "content: 台灣教會公報 NEW Culture — 一份活了 140 年的報紙 (#708)"
+    },
+    {
+      "hash": "d0f90f0180128aad239e2ae405c76175ff09dee9",
+      "date": "2026-04-30T14:48:24+08:00",
+      "author": "Wu Che Yu",
+      "message": "content: 毒馬鈴薯認知作戰 NEW Society — 200 ppm 之外的三層真實 (#705)"
+    },
+    {
+      "hash": "aae87ffcf355a473d79f8a7e1d1abe6b3e2a9449",
+      "date": "2026-04-30T11:43:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: DIARY/MEMORY index 警示 + 凝練最近一週 row (#707)"
+    },
+    {
+      "hash": "ed84ec3d8687f6e318658e6be2a93fd3f2e62751",
+      "date": "2026-04-30T11:27:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: β session 收官 — refresh-data + 三源洞察 + dead-cross-ref scan (#706)"
+    },
+    {
+      "hash": "69c3b3dfca5ff1b2f8a1166890f39eaa5c0cf856",
+      "date": "2026-04-30T10:19:19+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: α 收官 — dogfood diary + handoff retire (#704)"
+    },
+    {
+      "hash": "ad0068a3c212dd40a48a045a508aca28f0d05eee",
+      "date": "2026-04-30T10:12:54+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: DIARY-PIPELINE + MEMORY-PIPELINE 雙誕生 + 5 hook 接管 (#703)"
+    },
+    {
+      "hash": "376ba20d9f8d6e2e97da5d2f679ad291c91928c1",
+      "date": "2026-04-30T09:48:54+08:00",
+      "author": "Zaious (@ChronicleCore)",
+      "message": "content: add Legend of Mortal article (#702)"
+    },
+    {
+      "hash": "751831b260a72994f0e9bd1d61f266516ac467c9",
+      "date": "2026-04-30T01:50:41+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] content: 合併並拋光線上 PR"
+    },
     {
       "hash": "70821197629d6cc184759861fa517d93b804d29f",
       "date": "2026-04-30T01:35:33+08:00",
