@@ -9,6 +9,7 @@ translatedFrom: 'People/紀政.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:db29d3b29cd717d9'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Chi Cheng: The Flying Antelope

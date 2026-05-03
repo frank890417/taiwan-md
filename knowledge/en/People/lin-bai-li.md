@@ -8,6 +8,7 @@ translatedFrom: 'People/林百里.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:6e151fb80e93cea0'
 translatedAt: '2026-04-17T10:33:16+08:00'
+category: People
 ---
 
 # Lin Bai-li: From Laptop King to AI Infrastructure Builder

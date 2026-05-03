@@ -10,6 +10,7 @@ translatedFrom: 'People/林百里.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:6e151fb80e93cea0'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 林百里：ノートパソコン受託製造の王者からAIサーバー新章へ

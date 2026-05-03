@@ -10,6 +10,7 @@ translatedFrom: 'People/張艾嘉.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b98aee16ecfe25b3'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Sylvia Chang: Reina polifacética del cine de habla china

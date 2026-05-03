@@ -21,6 +21,7 @@ translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:83aadc055a63682c'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Food
 ---
 
 # Taiwan’s Fermented and Pickled Foods

@@ -20,6 +20,7 @@ tags:
 subcategory: 'Sports'
 lastVerified: 2026-03-21
 lastHumanReview: true
+category: People
 ---
 
 # Li Chih-kai

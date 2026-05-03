@@ -13,6 +13,7 @@ translatedFrom: History/日治時期.md
 sourceCommitSha: 3aba2ea3
 sourceContentHash: sha256:fb4775ce7ce7538c
 translatedAt: 2026-05-01T22:19:10+08:00
+category: History
 ---
 
 # Período colonial japonés

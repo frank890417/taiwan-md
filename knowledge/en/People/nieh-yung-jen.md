@@ -18,6 +18,7 @@ translatedFrom: 'People/聶永真.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3c4ca1e1761de74e'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Nieh Yung‑jen (聶永真)

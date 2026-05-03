@@ -10,6 +10,7 @@ translatedFrom: People/盧彥勳.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:6523387459c64d0d
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 盧彦勳：台湾テニスのエース

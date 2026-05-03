@@ -18,6 +18,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+category: Technology
 ---
 
 # Taiwan Software Industry Development

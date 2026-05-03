@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T03:23:58.396238Z",
+  "lastUpdated": "2026-05-02T18:00:39.939473Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 58,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2050601653792047479",
       "highlight": "**SPORE-PIPELINE v2.7 完整跑通 + 2 round FACTCHECK Full Mode**：賈永婕 EVOLVE 深度進化（commit `6961bddc`）後立即孢子化。Angle A+D 混合（旗桿 hook → HFNC 紀實 list → 5 年後首尾呼應），結構走 Step 3.6 故事弧線串接（首尾「往前推 5 年」+「5 年後」純時序對稱 framing，避免 forced causation hallucination）。Round 1 STORY ATOM AUDIT 抓 3 ❌（杜撰「我來」/「十通」/「都接」）+ 2 ⚠️（推算「1 小時」/「上午八點」）；Round 2 FACTCHECK Full Mode 抓 6 條（article 內部「兩天 vs 三天」+「1995 vs 2004 CH Wedding」+「世界第五高樓」實為第 11 高 + 刪 unverified《魔鬼佳人 72 變》+ spore 「她敢這麼做跟⋯有關」forced causation + 結尾日期+地點 redundant）。§11 ALL CLEAR / 純中文 258 字 / 配圖 landscape 3200×1800 + square 2160×2160 已產出（rixingsong-semibold + BrandMark）。Per Step 4.5a「中等明星」platform allocation Threads 主 X 次。",
       "views_7d": null,
-      "views_latest": 12000,
+      "views_latest": null,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": true
+      "backfilled": false
     },
     {
       "n": 57,
@@ -64,10 +64,10 @@
       "url": "https://x.com/taiwandotmd/status/2049860918641893571",
       "highlight": "**SPORE-PIPELINE v2.7 完整跑通 + 觀察者責任倫理 reflection**（海底電纜 NEW 隔日首發）：哲宇看到 UDN 報導 506 大樓的留言「都機密了還報導」「此地無銀三百兩」，質疑原 Angle A（506 大樓地理 hook）會被讀者框架成同類反感。換 Angle B：LINE「已送達」hook + 闕河鳴「accidentally × 3」verbatim。Hook tier 1b 具體性槓桿（讀者每天動作 → 物理事實 → 全島尺度）。中文字 322（觀察者 override 300 hint）、對位句型 0 / 破折號 0 / 不僅 0、Fact-Check Gate 11 atoms 全 ✅。本次 reflection 是「公開資料策展 vs 公民反感反應」張力的首次系統性處理 — 即使事實層全公開，hook 選擇仍有公關責任。",
       "views_7d": null,
-      "views_latest": 20100,
+      "views_latest": null,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": true
+      "backfilled": false
     },
     {
       "n": 55,
@@ -96,10 +96,10 @@
       "url": "https://x.com/taiwandotmd/status/2049854898108522575",
       "highlight": "**SPORE-PIPELINE v2.7 完整跑通**（黑冠麻鷺剛 EVOLVE D 級→A 級當天首發孢子）：Hook「東南亞賞鳥者眼中的『夢幻物種』，三十年後台北學生口中的『大笨鳥』」反差 hook + 機制翻轉「變的不是這隻鳥，是這座城市」。袁孝維「以蚯蚓為主要食物的鳥類其實並不多，所以牠有一點點獨享這個都市裡面這個資源」verbatim（公視 News 507373 確認）。Step 4.5a default zh 自然冷知識 → Threads only，但觀察者主動加 X（自然議題反差 hook 跨平台試水）。中文字 300 字、§11 ALL CLEAR、深層三板斧（不是 1 / —— 1 / 不僅 0）、Fact-Check Gate 11 atoms 全 ✅。配圖 landscape + square 雙圖。文章內首次 inline 插圖（Kasambe 2010 台北 city garden + Nature Box 2026 高雄綠地兩張 Wikimedia Commons CC 授權圖）同 commit ship。",
       "views_7d": null,
-      "views_latest": 68000,
+      "views_latest": null,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": true
+      "backfilled": false
     }
   ],
   "topPerformers": [
@@ -148,17 +148,6 @@
       "date": "2026-04-19"
     },
     {
-      "n": 54,
-      "article": "黑冠麻鷺",
-      "platform": "x",
-      "views": 68000,
-      "viewsSource": "latest",
-      "engagements": null,
-      "rate": null,
-      "badge": "⭐ 高峰",
-      "date": "2026-04-30"
-    },
-    {
       "n": 45,
       "article": "壞特",
       "platform": "threads",
@@ -190,6 +179,17 @@
       "rate": 0.7,
       "badge": "⭐ 高峰",
       "date": "2026-04-19"
+    },
+    {
+      "n": 22,
+      "article": "鄭麗文",
+      "platform": "threads",
+      "views": 49000,
+      "viewsSource": "7d",
+      "engagements": 448,
+      "rate": 0.91,
+      "badge": null,
+      "date": "2026-04-11"
     }
   ],
   "amplification": [
@@ -431,12 +431,12 @@
     {
       "week": "2026-W17",
       "published": 10,
-      "avgViews": 18791
+      "avgViews": 18668
     },
     {
       "week": "2026-W18",
       "published": 12,
-      "avgViews": 25344
+      "avgViews": 17287
     }
   ],
   "harvestStatus": [

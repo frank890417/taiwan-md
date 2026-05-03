@@ -10,6 +10,7 @@ translatedFrom: People/簡立峰.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:638c3c318359c6b4
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 簡立峰：台湾AI産業の啓蒙的指導者

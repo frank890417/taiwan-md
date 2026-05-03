@@ -21,6 +21,7 @@ translatedFrom: 'Art/台灣當代雕塑發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f29e2e2ec385f748'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Art
 ---
 
 # Development of Contemporary Taiwanese Sculpture

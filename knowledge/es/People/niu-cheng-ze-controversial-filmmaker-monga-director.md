@@ -10,6 +10,7 @@ translatedFrom: People/鈕承澤.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c412539523fe8a6a
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Niu Chengze: un cineasta entre el talento y la polémica

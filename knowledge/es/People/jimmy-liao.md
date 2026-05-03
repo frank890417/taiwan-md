@@ -19,6 +19,7 @@ translatedFrom: People/幾米.md
 sourceCommitSha: 812e7574
 sourceContentHash: sha256:e547220b8b7d96eb
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 Jimmy Liao, cuyo nombre real es Liao Fu-bin, nació el 15 de noviembre de 1958 en Yilan y es uno de los escritores de álbumes ilustrados taiwaneses con mayor reconocimiento internacional. Con un estilo pictórico único y narrativas profundas, creó obras tan célebres como _Turn Left, Turn Right_, _Underground_ y _Starry Starry Night_, que no solo gozaron de enorme popularidad en el mundo sinófono, sino que también hicieron brillar al libro álbum taiwanés en el escenario internacional. Una grave enfermedad le llevó a replantearse la vida y, de manera inesperada, abrió el camino hacia su carrera como creador de álbumes ilustrados.

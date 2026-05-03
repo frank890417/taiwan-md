@@ -1,6 +1,6 @@
 ---
 title: 'La literatura taiwanesa durante el período colonial japonés'
-description: ''
+description: 'Desde el Tratado de Shimonoseki en 1895 hasta la rendición japonesa en 1945, la literatura taiwanesa nació como voz independiente bajo la presión colonial. Lai He (賴和), el «padre de la nueva literatura taiwanesa», Yang Kui (楊逵) y Lü Heruo (呂赫若) usaron el chino y el japonés para resistir, registrar y crear, forjando la tradición realista y el lenguaje literario localizado que marcaría toda la escritura taiwanesa posterior.'
 tags: ['literatura', 'período colonial japonés', 'literatura colonial']
 category: 'Art'
 subcategory: "'文學'"

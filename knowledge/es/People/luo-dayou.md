@@ -17,6 +17,7 @@ translatedFrom: 'People/羅大佑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b0a18557d65ed7e'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Luo Dayou: el padrino de la música popular en chino mandarín

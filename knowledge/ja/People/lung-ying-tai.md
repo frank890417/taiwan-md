@@ -10,6 +10,7 @@ translatedFrom: People/龍應台.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:31dfd121dd6c6d8b
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 龍應台：時代の観察者であり文化の守護者

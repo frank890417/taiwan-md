@@ -7,6 +7,8 @@ translatedFrom: 'Art/金馬賓館當代美術館.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:dc5814dcedc92ae0'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Art
+date: 2026-03-22
 ---
 
 # ALIEN Art Centre — From Military Farewell Station to Art Sanctuary

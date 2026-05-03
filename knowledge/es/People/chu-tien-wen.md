@@ -10,6 +10,7 @@ translatedFrom: People/朱天文.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:82416bb2c3ed3c55
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Chu Tien-wen: La fusión poética de imagen y palabra

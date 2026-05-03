@@ -22,6 +22,7 @@ translatedFrom: People/蕭美琴.md
 sourceCommitSha: 202e182d
 sourceContentHash: sha256:911564a213299ba1
 translatedAt: 2026-05-01T20:54:23+08:00
+category: People
 ---
 
 # Hsiao Bi-khim

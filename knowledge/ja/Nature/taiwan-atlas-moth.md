@@ -13,6 +13,7 @@ translatedFrom: 'Nature/台灣皇蛾.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:04090b613f5ed578'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: Nature
 ---
 
 # 台湾皇蛾：世界最大の蛾、一生摂食しない巨翼の伝説

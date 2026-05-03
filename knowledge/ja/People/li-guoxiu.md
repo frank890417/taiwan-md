@@ -10,6 +10,7 @@ translatedFrom: 'People/李國修.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7e394b3479d9d206'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 李國修：台灣の喜劇の王

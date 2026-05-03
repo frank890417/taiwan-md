@@ -20,6 +20,7 @@ translatedFrom: 'Economy/台灣企業：日月光半導體.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cb7042e73cb2cef2'
 translatedAt: '2026-05-01T15:38:13+08:00'
+category: Economy
 ---
 
 > **30-Second Overview:** In 1984, the mother-and-sons trio of Chang Yao-hung-ying and her real estate business crossed into semiconductor packaging and testing to found ASE. Forty years later it is the world's largest assembly and testing company, with 2024 revenue of US$10.1 billion and a near-45% global market share. Every iPhone, every laptop may use ASE's technology — it is the invisible champion that "dresses" chips and gives them "physical exams."

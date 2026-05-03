@@ -18,6 +18,7 @@ translatedFrom: 'Lifestyle/台灣便利商店文化.md'
 sourceCommitSha: 'e564525c'
 sourceContentHash: 'sha256:a846fc24eb105695'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Lifestyle
 ---
 
 # Cultura de las tiendas de conveniencia

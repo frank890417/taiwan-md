@@ -13,6 +13,7 @@ sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:197235760e486f5d'
 translatedAt: '2026-05-01T15:38:13+08:00'
 subcategory: '企業列傳'
+category: Economy
 ---
 
 > **30-second overview**

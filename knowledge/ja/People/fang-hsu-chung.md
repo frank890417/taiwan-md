@@ -17,6 +17,7 @@ translatedFrom: 'People/方序中.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:09b565df3960bd44'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 方序中：台湾のビジュアルアイデンティティを再定義するデザイン革新者

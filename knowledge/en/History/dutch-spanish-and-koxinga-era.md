@@ -24,6 +24,7 @@ translatedFrom: 'History/荷西明鄭時期.md'
 sourceCommitSha: '53610439'
 sourceContentHash: 'sha256:bede1d5ee64e87b9'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: History
 ---
 
 # The Dutch, Spanish, and Koxinga Era

@@ -12,6 +12,7 @@ translatedFrom: 'Society/民主制度.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:3d52222ebbb25430'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Society
 ---
 
 # Sistema Democrático

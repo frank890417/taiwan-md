@@ -25,6 +25,7 @@ translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 sourceCommitSha: '87911554'
 sourceContentHash: 'sha256:8d534bf965b094a9'
 translatedAt: '2026-05-01T14:48:26+08:00'
+category: Culture
 ---
 
 # 台湾の宗教信仰：恐怖から生まれた信仰帝国

@@ -18,6 +18,7 @@ translatedFrom: 'Society/台灣少子化危機.md'
 sourceCommitSha: '6c11ef53'
 sourceContentHash: 'sha256:b6c977b96b8c6c27'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: Society
 ---
 
 # The Island's Last Song: An In-Depth Look at Taiwan's Low Birth Rate Crisis

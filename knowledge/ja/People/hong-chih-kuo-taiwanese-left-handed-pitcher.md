@@ -10,6 +10,7 @@ translatedFrom: People/郭泓志.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:afabda9042512747
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 郭泓志：左投の猛将

@@ -19,6 +19,7 @@ translatedFrom: 'Society/野百合學運.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:9f7ab13677794cd4'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: Society
 ---
 
 # Wild Lily Student Movement

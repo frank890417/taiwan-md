@@ -22,6 +22,7 @@ translatedFrom: 'Society/台灣流浪動物文化.md'
 sourceCommitSha: 'ecb173b1'
 sourceContentHash: 'sha256:aa70d55ab7f81779'
 translatedAt: '2026-05-01T13:44:02+08:00'
+category: Society
 ---
 
 # Stray Animal Culture in Taiwan

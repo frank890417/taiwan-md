@@ -11,6 +11,7 @@ translatedFrom: 'History/二二八事件.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:634ee0a75c18646d'
 translatedAt: '2026-05-02T01:17:14+08:00'
+category: History
 ---
 
 # 二二八事件

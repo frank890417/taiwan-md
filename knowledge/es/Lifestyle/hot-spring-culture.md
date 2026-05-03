@@ -15,6 +15,7 @@ translatedFrom: 'Lifestyle/溫泉文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
 translatedAt: '2026-04-14T12:25:09+08:00'
+description: 'Desde la terapia militar japonesa hasta una de las tres termas de barro del mundo: la historia de cómo Taiwán se convirtió accidentalmente en un reino de aguas termales. Con 128 zonas termales, la densa densidad de la isla supera a Japón; el barro de Guanziling y las termas submarinas de Isla Verde son fenómenos geológicos únicos en el planeta.'
 ---
 
 # Cultura de Aguas Termales

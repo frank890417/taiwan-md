@@ -22,6 +22,7 @@ featured: false
 lastVerified: 2026-04-20
 lastHumanReview: 2026-04-20
 researchReport: reports/research/2026-04/Taiwan-md.md
+category: About
 ---
 
 # Taiwan.md Writes About Taiwan.md

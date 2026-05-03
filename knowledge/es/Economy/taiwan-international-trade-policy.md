@@ -22,6 +22,7 @@ translatedFrom: 'Economy/台灣國際貿易政策.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:e86aa807bf77d463'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Economy
 ---
 
 # Política comercial internacional de Taiwán: buscando un posicionamiento en la ola de la globalización

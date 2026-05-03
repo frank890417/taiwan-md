@@ -10,6 +10,7 @@ translatedFrom: People/明華園.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8f30d34794119822
 translatedAt: 2026-05-01T20:54:09+08:00
+category: People
 ---
 
 # Ming Hua Yuan: The Opera Empire That Grew from the Temple Stage

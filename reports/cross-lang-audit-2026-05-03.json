@@ -1,0 +1,1168 @@
+{
+  "summary": {
+    "zh_canonical_count": 655,
+    "translations_per_lang": {
+      "en": 671,
+      "ja": 668,
+      "ko": 659,
+      "es": 654,
+      "fr": 678
+    },
+    "files_with_issues": 77,
+    "issues_by_severity": {
+      "high": 45,
+      "medium": 29,
+      "low": 5,
+      "critical": 1
+    },
+    "issues_by_type": {
+      "slug_mismatch": 45,
+      "frontmatter_missing": 29,
+      "body_lang_mismatch": 6
+    }
+  },
+  "issues": [
+    {
+      "lang": "fr",
+      "path": "fr/Music/ktv-karaoke-culture.md",
+      "zh_source": "Music/台灣KTV文化.md",
+      "slug": "ktv-karaoke-culture",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `ktv-karaoke-culture` ≠ en canonical `ktv-culture`",
+          "canonical": "ktv-culture",
+          "actual": "ktv-karaoke-culture"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/traditional-chinese-music.md",
+      "zh_source": "Music/台灣國樂.md",
+      "slug": "traditional-chinese-music",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `traditional-chinese-music` ≠ en canonical `taiwanese-traditional-chinese-orchestra-music`",
+          "canonical": "taiwanese-traditional-chinese-orchestra-music",
+          "actual": "traditional-chinese-music"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/guoyue-chinese-instruments.md",
+      "zh_source": "Music/台灣國樂.md",
+      "slug": "guoyue-chinese-instruments",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `guoyue-chinese-instruments` ≠ en canonical `taiwanese-traditional-chinese-orchestra-music`",
+          "canonical": "taiwanese-traditional-chinese-orchestra-music",
+          "actual": "guoyue-chinese-instruments"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/hakka-music-heritage.md",
+      "zh_source": "Music/台灣客家音樂.md",
+      "slug": "hakka-music-heritage",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `hakka-music-heritage` ≠ en canonical `taiwan-hakka-music-from-mountain-songs-to-rock`",
+          "canonical": "taiwan-hakka-music-from-mountain-songs-to-rock",
+          "actual": "hakka-music-heritage"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/hakka-music.md",
+      "zh_source": "Music/台灣客家音樂.md",
+      "slug": "hakka-music",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `hakka-music` ≠ en canonical `taiwan-hakka-music-from-mountain-songs-to-rock`",
+          "canonical": "taiwan-hakka-music-from-mountain-songs-to-rock",
+          "actual": "hakka-music"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/hip-hop-and-rap-development.md",
+      "zh_source": "Music/台灣嘻哈與饒舌發展.md",
+      "slug": "hip-hop-and-rap-development",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `hip-hop-and-rap-development` ≠ en canonical `taiwan-hip-hop-and-rap`",
+          "canonical": "taiwan-hip-hop-and-rap",
+          "actual": "hip-hop-and-rap-development"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/hip-hop-rap.md",
+      "zh_source": "Music/台灣嘻哈與饒舌發展.md",
+      "slug": "hip-hop-rap",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `hip-hop-rap` ≠ en canonical `taiwan-hip-hop-and-rap`",
+          "canonical": "taiwan-hip-hop-and-rap",
+          "actual": "hip-hop-rap"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/taiwanese-language-song-evolution.md",
+      "zh_source": "Music/台灣台語歌曲演進.md",
+      "slug": "taiwanese-language-song-evolution",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwanese-language-song-evolution` ≠ en canonical `taiwanese-hokkien-song-evolution`",
+          "canonical": "taiwanese-hokkien-song-evolution",
+          "actual": "taiwanese-language-song-evolution"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/taiwanese-language-songs-evolution.md",
+      "zh_source": "Music/台灣台語歌曲演進.md",
+      "slug": "taiwanese-language-songs-evolution",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwanese-language-songs-evolution` ≠ en canonical `taiwanese-hokkien-song-evolution`",
+          "canonical": "taiwanese-hokkien-song-evolution",
+          "actual": "taiwanese-language-songs-evolution"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/bunun-pasibutbut.md",
+      "zh_source": "Music/八部合音.md",
+      "slug": "bunun-pasibutbut",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `bunun-pasibutbut` ≠ en canonical `bunun-pasibutbut-eight-part-polyphony`",
+          "canonical": "bunun-pasibutbut-eight-part-polyphony",
+          "actual": "bunun-pasibutbut"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/polyphonic-chanting.md",
+      "zh_source": "Music/八部合音.md",
+      "slug": "polyphonic-chanting",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `polyphonic-chanting` ≠ en canonical `bunun-pasibutbut-eight-part-polyphony`",
+          "canonical": "bunun-pasibutbut-eight-part-polyphony",
+          "actual": "polyphonic-chanting"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/zhang-xuan-anpu.md",
+      "zh_source": "Music/張懸與安溥.md",
+      "slug": "zhang-xuan-anpu",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `zhang-xuan-anpu` ≠ en canonical `deserts-chang-and-anpu`",
+          "canonical": "deserts-chang-and-anpu",
+          "actual": "zhang-xuan-anpu"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Music/indigenous-musical-traditions.md",
+      "zh_source": "Music/台灣原住民音樂傳統.md",
+      "slug": "indigenous-musical-traditions",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `indigenous-musical-traditions` ≠ en canonical `indigenous-music-traditions`",
+          "canonical": "indigenous-music-traditions",
+          "actual": "indigenous-musical-traditions"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/resources/official-websites.md",
+      "zh_source": "resources/official-websites.md",
+      "slug": "official-websites",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/resources/official-websites.md",
+      "zh_source": "resources/official-websites.md",
+      "slug": "official-websites",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/resources/official-websites.md",
+      "zh_source": "resources/official-websites.md",
+      "slug": "official-websites",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/resources/official-websites.md",
+      "zh_source": "resources/official-websites.md",
+      "slug": "official-websites",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/resources/mini-taiwan-pulse.md",
+      "zh_source": "resources/mini-taiwan-pulse.md",
+      "slug": "mini-taiwan-pulse",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/resources/mini-taiwan-pulse.md",
+      "zh_source": "resources/mini-taiwan-pulse.md",
+      "slug": "mini-taiwan-pulse",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/resources/mini-taiwan-pulse.md",
+      "zh_source": "resources/mini-taiwan-pulse.md",
+      "slug": "mini-taiwan-pulse",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/resources/mini-taiwan-pulse.md",
+      "zh_source": "resources/mini-taiwan-pulse.md",
+      "slug": "mini-taiwan-pulse",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/resources/mini-taiwan-pulse.md",
+      "zh_source": "resources/mini-taiwan-pulse.md",
+      "slug": "mini-taiwan-pulse",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['category']"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+      "zh_source": "Lifestyle/台灣市場文化與傳統市場.md",
+      "slug": "taiwan-traditional-markets-and-market-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+      "zh_source": "Lifestyle/台灣市場文化與傳統市場.md",
+      "slug": "taiwan-traditional-markets-and-market-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+      "zh_source": "Lifestyle/台灣市場文化與傳統市場.md",
+      "slug": "taiwan-traditional-markets-and-market-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Lifestyle/taiwan-traditional-markets-and-market-culture.md",
+      "zh_source": "Lifestyle/台灣市場文化與傳統市場.md",
+      "slug": "taiwan-traditional-markets-and-market-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+      "zh_source": "Lifestyle/台灣公園與日常休閒.md",
+      "slug": "taiwan-parks-and-everyday-leisure",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+      "zh_source": "Lifestyle/台灣公園與日常休閒.md",
+      "slug": "taiwan-parks-and-everyday-leisure",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+      "zh_source": "Lifestyle/台灣公園與日常休閒.md",
+      "slug": "taiwan-parks-and-everyday-leisure",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Lifestyle/taiwan-parks-and-everyday-leisure.md",
+      "zh_source": "Lifestyle/台灣公園與日常休閒.md",
+      "slug": "taiwan-parks-and-everyday-leisure",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Lifestyle/taiwan-education-system.md",
+      "zh_source": "Lifestyle/台灣教育制度.md",
+      "slug": "taiwan-education-system",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-education-system` ≠ en canonical `taiwan-education-system-overview`",
+          "canonical": "taiwan-education-system-overview",
+          "actual": "taiwan-education-system"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/low-birth-rate-crisis.md",
+      "zh_source": "Society/台灣少子化危機.md",
+      "slug": "low-birth-rate-crisis",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `low-birth-rate-crisis` ≠ en canonical `taiwan-low-birth-rate-crisis`",
+          "canonical": "taiwan-low-birth-rate-crisis",
+          "actual": "low-birth-rate-crisis"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/low-birth-rate-crisis-new.md",
+      "zh_source": "Society/台灣少子化危機.md",
+      "slug": "low-birth-rate-crisis-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `low-birth-rate-crisis-new` ≠ en canonical `taiwan-low-birth-rate-crisis`",
+          "canonical": "taiwan-low-birth-rate-crisis",
+          "actual": "low-birth-rate-crisis-new"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/taiwan-defense-military-modernization.md",
+      "zh_source": "Society/台灣國防與軍事現代化.md",
+      "slug": "taiwan-defense-military-modernization",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-defense-military-modernization` ≠ en canonical `taiwan-defense-modernization`",
+          "canonical": "taiwan-defense-modernization",
+          "actual": "taiwan-defense-military-modernization"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/national-defense-modernization.md",
+      "zh_source": "Society/台灣國防與軍事現代化.md",
+      "slug": "national-defense-modernization",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `national-defense-modernization` ≠ en canonical `taiwan-defense-modernization`",
+          "canonical": "taiwan-defense-modernization",
+          "actual": "national-defense-modernization"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/taiwan-national-defense-modernization.md",
+      "zh_source": "Society/台灣國防與軍事現代化.md",
+      "slug": "taiwan-national-defense-modernization",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-national-defense-modernization` ≠ en canonical `taiwan-defense-modernization`",
+          "canonical": "taiwan-defense-modernization",
+          "actual": "taiwan-national-defense-modernization"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/taiwan-defense-military-modernization.md",
+      "zh_source": "Society/台灣國防與軍事現代化.md",
+      "slug": "taiwan-defense-military-modernization",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-defense-military-modernization` ≠ en canonical `taiwan-defense-modernization`",
+          "canonical": "taiwan-defense-modernization",
+          "actual": "taiwan-defense-military-modernization"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/environmental-justice.md",
+      "zh_source": "Society/台灣環境正義與鄰避爭議.md",
+      "slug": "environmental-justice",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `environmental-justice` ≠ en canonical `taiwan-environmental-justice-nimby-conflicts`",
+          "canonical": "taiwan-environmental-justice-nimby-conflicts",
+          "actual": "environmental-justice"
+        },
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/environmental-justice-new.md",
+      "zh_source": "Society/台灣環境正義與鄰避爭議.md",
+      "slug": "environmental-justice-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `environmental-justice-new` ≠ en canonical `taiwan-environmental-justice-nimby-conflicts`",
+          "canonical": "taiwan-environmental-justice-nimby-conflicts",
+          "actual": "environmental-justice-new"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/environmental-justice.md",
+      "zh_source": "Society/台灣環境正義與鄰避爭議.md",
+      "slug": "environmental-justice",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `environmental-justice` ≠ en canonical `taiwan-environmental-justice-nimby-conflicts`",
+          "canonical": "taiwan-environmental-justice-nimby-conflicts",
+          "actual": "environmental-justice"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/volunteer-culture-new.md",
+      "zh_source": "Society/台灣志工文化與公益參與.md",
+      "slug": "volunteer-culture-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `volunteer-culture-new` ≠ en canonical `volunteering-and-civic-charity-in-taiwan`",
+          "canonical": "volunteering-and-civic-charity-in-taiwan",
+          "actual": "volunteer-culture-new"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/volunteer-culture.md",
+      "zh_source": "Society/台灣志工文化與公益參與.md",
+      "slug": "volunteer-culture",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `volunteer-culture` ≠ en canonical `volunteering-and-civic-charity-in-taiwan`",
+          "canonical": "volunteering-and-civic-charity-in-taiwan",
+          "actual": "volunteer-culture"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/social-housing.md",
+      "zh_source": "Society/社會住宅與居住正義.md",
+      "slug": "social-housing",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `social-housing` ≠ en canonical `social-housing-and-housing-justice`",
+          "canonical": "social-housing-and-housing-justice",
+          "actual": "social-housing"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/united-front-tour-groups.md",
+      "zh_source": "Society/統戰團.md",
+      "slug": "united-front-tour-groups",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/media-and-press-freedom.md",
+      "zh_source": "Society/台灣媒體與新聞自由.md",
+      "slug": "media-and-press-freedom",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `media-and-press-freedom` ≠ en canonical `media-and-press-freedom-in-taiwan`",
+          "canonical": "media-and-press-freedom-in-taiwan",
+          "actual": "media-and-press-freedom"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/media-and-press-freedom-new.md",
+      "zh_source": "Society/台灣媒體與新聞自由.md",
+      "slug": "media-and-press-freedom-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `media-and-press-freedom-new` ≠ en canonical `media-and-press-freedom-in-taiwan`",
+          "canonical": "media-and-press-freedom-in-taiwan",
+          "actual": "media-and-press-freedom-new"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/disaster-volunteers-new.md",
+      "zh_source": "Society/台灣災難志工文化.md",
+      "slug": "disaster-volunteers-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `disaster-volunteers-new` ≠ en canonical `taiwan-disaster-volunteer-culture`",
+          "canonical": "taiwan-disaster-volunteer-culture",
+          "actual": "disaster-volunteers-new"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/disaster-volunteers.md",
+      "zh_source": "Society/台灣災難志工文化.md",
+      "slug": "disaster-volunteers",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `disaster-volunteers` ≠ en canonical `taiwan-disaster-volunteer-culture`",
+          "canonical": "taiwan-disaster-volunteer-culture",
+          "actual": "disaster-volunteers"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/political-environment-new.md",
+      "zh_source": "Society/台灣政治環境與選舉制度.md",
+      "slug": "political-environment-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `political-environment-new` ≠ en canonical `taiwan-political-landscape-and-electoral-system`",
+          "canonical": "taiwan-political-landscape-and-electoral-system",
+          "actual": "political-environment-new"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/political-environment.md",
+      "zh_source": "Society/台灣政治環境與選舉制度.md",
+      "slug": "political-environment",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `political-environment` ≠ en canonical `taiwan-political-landscape-and-electoral-system`",
+          "canonical": "taiwan-political-landscape-and-electoral-system",
+          "actual": "political-environment"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/wild-lily-movement.md",
+      "zh_source": "Society/野百合學運.md",
+      "slug": "wild-lily-movement",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `wild-lily-movement` ≠ en canonical `wild-lily-student-movement`",
+          "canonical": "wild-lily-student-movement",
+          "actual": "wild-lily-movement"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/Society/social-movements.md",
+      "zh_source": "Society/社會運動與公民參與.md",
+      "slug": "social-movements",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `social-movements` ≠ en canonical `social-movements-and-civic-participation`",
+          "canonical": "social-movements-and-civic-participation",
+          "actual": "social-movements"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/social-movements.md",
+      "zh_source": "Society/社會運動與公民參與.md",
+      "slug": "social-movements",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `social-movements` ≠ en canonical `social-movements-and-civic-participation`",
+          "canonical": "social-movements-and-civic-participation",
+          "actual": "social-movements"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/diplomatic-allies.md",
+      "zh_source": "Society/台灣邦交國與國際外交.md",
+      "slug": "diplomatic-allies",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `diplomatic-allies` ≠ en canonical `taiwan-diplomatic-allies-and-international-relations`",
+          "canonical": "taiwan-diplomatic-allies-and-international-relations",
+          "actual": "diplomatic-allies"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/Society/taiwan-neighborhood-and-li-culture.md",
+      "zh_source": "Society/台灣社區與里文化.md",
+      "slug": "taiwan-neighborhood-and-li-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Society/taiwan-neighborhood-and-li-culture.md",
+      "zh_source": "Society/台灣社區與里文化.md",
+      "slug": "taiwan-neighborhood-and-li-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/Society/taiwan-neighborhood-and-li-culture.md",
+      "zh_source": "Society/台灣社區與里文化.md",
+      "slug": "taiwan-neighborhood-and-li-culture",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/slash-generation.md",
+      "zh_source": "Society/台灣斜槓世代.md",
+      "slug": "slash-generation",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `slash-generation` ≠ en canonical `taiwan-slash-generation-multi-job-economy`",
+          "canonical": "taiwan-slash-generation-multi-job-economy",
+          "actual": "slash-generation"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Society/slash-generation-new.md",
+      "zh_source": "Society/台灣斜槓世代.md",
+      "slug": "slash-generation-new",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `slash-generation-new` ≠ en canonical `taiwan-slash-generation-multi-job-economy`",
+          "canonical": "taiwan-slash-generation-multi-job-economy",
+          "actual": "slash-generation-new"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/People/potter-king-youtuber.md",
+      "zh_source": "People/波特王.md",
+      "slug": "potter-king-youtuber",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/potter-king-youtuber.md",
+      "zh_source": "People/波特王.md",
+      "slug": "potter-king-youtuber",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/potter-king-youtuber.md",
+      "zh_source": "People/波特王.md",
+      "slug": "potter-king-youtuber",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/People/potter-king-youtuber.md",
+      "zh_source": "People/波特王.md",
+      "slug": "potter-king-youtuber",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/lin-qiang.md",
+      "zh_source": "People/林強.md",
+      "slug": "lin-qiang",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `lin-qiang` ≠ en canonical `lim-giong`",
+          "canonical": "lim-giong",
+          "actual": "lin-qiang"
+        }
+      ]
+    },
+    {
+      "lang": "en",
+      "path": "en/People/chen-tzu-jian.md",
+      "zh_source": "People/陳子見.md",
+      "slug": "chen-tzu-jian",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/People/chen-tzu-jian.md",
+      "zh_source": "People/陳子見.md",
+      "slug": "chen-tzu-jian",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/People/chen-tzu-jian.md",
+      "zh_source": "People/陳子見.md",
+      "slug": "chen-tzu-jian",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "es",
+      "path": "es/People/chen-tzu-jian.md",
+      "zh_source": "People/陳子見.md",
+      "slug": "chen-tzu-jian",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/People/chen-tzu-jian.md",
+      "zh_source": "People/陳子見.md",
+      "slug": "chen-tzu-jian",
+      "issues": [
+        {
+          "type": "frontmatter_missing",
+          "severity": "medium",
+          "msg": "missing frontmatter: ['date']"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/democratization.md",
+      "zh_source": "History/民主化.md",
+      "slug": "democratization",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `democratization` ≠ en canonical `taiwan-democratization-history`",
+          "canonical": "taiwan-democratization-history",
+          "actual": "democratization"
+        },
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.8,
+            "han_pct": 0.2,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/democratic-transition.md",
+      "zh_source": "History/台灣民主轉型.md",
+      "slug": "democratic-transition",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `democratic-transition` ≠ en canonical `taiwan-democratization`",
+          "canonical": "taiwan-democratization",
+          "actual": "democratic-transition"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/History/democratic-transition.md",
+      "zh_source": "History/台灣民主轉型.md",
+      "slug": "democratic-transition",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `democratic-transition` ≠ en canonical `taiwan-democratization`",
+          "canonical": "taiwan-democratization",
+          "actual": "democratic-transition"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/History/island-centric-history.md",
+      "zh_source": "History/台灣島史觀.md",
+      "slug": "island-centric-history",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `island-centric-history` ≠ en canonical `taiwan-island-historiography`",
+          "canonical": "taiwan-island-historiography",
+          "actual": "island-centric-history"
+        },
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 99.9,
+            "han_pct": 0.1,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "ko",
+      "path": "ko/History/formosa-incident.md",
+      "zh_source": "History/美麗島事件.md",
+      "slug": "formosa-incident",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `formosa-incident` ≠ en canonical `kaohsiung-incident-formosa-incident`",
+          "canonical": "kaohsiung-incident-formosa-incident",
+          "actual": "formosa-incident"
+        }
+      ]
+    },
+    {
+      "lang": "fr",
+      "path": "fr/Culture/islam-in-taiwan.md",
+      "zh_source": "Culture/伊斯蘭教在台灣.md",
+      "slug": "islam-in-taiwan",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "critical",
+          "msg": "body latin = 16.6% (expected ≥ 70%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 16.6,
+            "han_pct": 83.4,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Culture/taiwan-anime-culture.md",
+      "zh_source": "Culture/台灣動漫文化.md",
+      "slug": "taiwan-anime-culture",
+      "issues": [
+        {
+          "type": "slug_mismatch",
+          "severity": "high",
+          "msg": "slug `taiwan-anime-culture` ≠ en canonical `taiwan-comics-and-animation-culture`",
+          "canonical": "taiwan-comics-and-animation-culture",
+          "actual": "taiwan-anime-culture"
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "path": "ja/Culture/zhuyin-phonetic-symbols.md",
+      "zh_source": "Culture/注音符號.md",
+      "slug": "zhuyin-phonetic-symbols",
+      "issues": [
+        {
+          "type": "body_lang_mismatch",
+          "severity": "low",
+          "msg": "body jp_kana = 0.0% (expected ≥ 1%) — likely wrong lang content",
+          "stats": {
+            "latin_pct": 5.4,
+            "han_pct": 94.6,
+            "jp_kana_pct": 0.0,
+            "ko_hangul_pct": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

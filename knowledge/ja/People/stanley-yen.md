@@ -22,6 +22,7 @@ translatedFrom: 'People/嚴長壽.md'
 sourceCommitSha: '67fe687d'
 sourceContentHash: 'sha256:6bcf8cc662668e7d'
 translatedAt: '2026-05-01T22:19:01+08:00'
+category: People
 ---
 
 # 厳長寿：郵便室の使い走りから観光の教父へ、そしてすべてを手放した男

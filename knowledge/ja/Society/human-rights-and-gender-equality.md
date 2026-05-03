@@ -13,6 +13,7 @@ translatedFrom: Society/人權與性別平等.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:b007d781b4327433
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Society
 ---
 
 # 人権とジェンダー平等

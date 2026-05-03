@@ -20,6 +20,7 @@ translatedFrom: 'Economy/台灣企業：統一企業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3fb7c059831bdebb'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Economy
 ---
 
 > **Resumen en 30 segundos:** En 1967, Kao Ching-yuan, a los 38 años, fundó Uni-President Enterprise en Xuejia, Tainan,

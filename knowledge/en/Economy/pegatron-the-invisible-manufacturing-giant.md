@@ -14,6 +14,7 @@ translatedFrom: 'Economy/台灣企業：和碩聯合.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8b0c4f42c17a074c'
 translatedAt: '2026-05-01T15:38:13+08:00'
+category: Economy
 ---
 
 > **30-Second Overview**

@@ -20,6 +20,7 @@ translatedFrom: Lifestyle/小綠人.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:0e8351a88b984c1d
 translatedAt: 2026-05-02T02:50:54+08:00
+category: Lifestyle
 ---
 
 ## A Miracle That Runs

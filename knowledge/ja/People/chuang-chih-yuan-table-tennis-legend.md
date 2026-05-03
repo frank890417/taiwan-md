@@ -10,6 +10,7 @@ translatedFrom: People/莊智淵.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:64d1439fdfb0a46b
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 莊智淵：卓球の教父

@@ -10,6 +10,7 @@ translatedFrom: 'People/李昂.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4f3f80c62e1351eb'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 李昂：フェミニズム文学の勇敢な開拓者

@@ -20,6 +20,7 @@ translatedFrom: History/日治時期臺灣社會運動.md
 sourceCommitSha: 8413cde6
 sourceContentHash: sha256:fbdfa92c6cd4f978
 translatedAt: 2026-05-01T20:54:17+08:00
+category: History
 ---
 
 # Les mouvements sociaux à Taïwan sous la domination japonaise

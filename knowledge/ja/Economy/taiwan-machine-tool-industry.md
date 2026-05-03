@@ -14,6 +14,7 @@ translatedFrom: 'Economy/台灣機械工具產業.md'
 sourceCommitSha: 'fa95d5e0'
 sourceContentHash: 'sha256:74fc634acab51c40'
 translatedAt: '2026-05-01T19:52:32+08:00'
+category: Economy
 ---
 
 # 台湾の機械工具産業

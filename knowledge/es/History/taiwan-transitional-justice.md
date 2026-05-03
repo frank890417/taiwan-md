@@ -18,6 +18,7 @@ translatedFrom: History/台灣轉型正義.md
 sourceCommitSha: 0851f334
 sourceContentHash: sha256:7913ed2b9abc7af3
 translatedAt: 2026-05-01T20:54:23+08:00
+category: History
 ---
 
 > **Panorama en 30 segundos:** En 1950, un joven de veinte años en Qingshui, Taiwán, fue arrestado por la visita de un desconocido, pasó diez años preso en la Isla Verde y, tras su liberación, fundó la primera revista de cómics infantil de Taiwán. Vivió hasta los noventa y tres años y dedicó el resto de su vida a hacerse la misma pregunta: "¿Quién mató a mis amigos?" La justicia transicional de Taiwán ha revocado las sentencias condenatorias de casi seis mil personas, pero hasta hoy no ha logrado responder a su pregunta.

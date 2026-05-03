@@ -11,6 +11,7 @@ translatedFrom: 'People/林書豪.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:8c536e7e37fb32f5'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 > **Panorama en 30 segundos:** Jeremy Lin, nacido en 1988 en California, es descendiente de inmigrantes taiwaneses de novena generación. En la secundaria lideró a su equipo al campeonato estatal de California, pero ninguna universidad de la División I de la NCAA le ofreció una beca. Ingresó en Harvard, nadie lo seleccionó en el draft y fue cortado por dos equipos de la NBA en apenas 15 días. En febrero de 2012, entrando desde el banquillo, promedió 24.4 puntos en siete partidos consecutivos, desatando el fenómeno conocido como "Linsanity".[^1] En 2019 se coronó campeón de la NBA con los Toronto Raptors, convirtiéndose en el primer jugador asiático-estadounidense en obtener un anillo de campeón.[^2] En 2025 se retiró en Taiwán como MVP de la temporada y MVP de las Finales, completando un arco vital de Estados Unidos a Taiwán.[^3]

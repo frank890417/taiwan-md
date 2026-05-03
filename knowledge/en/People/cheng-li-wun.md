@@ -19,6 +19,7 @@ translatedFrom: 'People/鄭麗文.md'
 sourceCommitSha: '056136d7'
 sourceContentHash: 'sha256:c454a71817a858ba'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: People
 ---
 
 # Cheng Li-wun: From Hunger Strike for Taiwan Independence to Meeting Xi Jinping

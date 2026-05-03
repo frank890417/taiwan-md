@@ -7,6 +7,7 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
 translatedFrom: 'Art/台灣建築.md'
+description: "From stone slab houses to skyscrapers: a time-travel through 400 years of architecture on a multicultural island. Paiwan slate dwellings, Moriyama Matsunosuke's (森山松之助) colonial red-brick landmarks, Wang Ta-hung's (王大閎) Harvard-trained modernism, the 660-ton damper inside Taipei 101, and Huang Sheng-yuan's (黃聲遠) wall-less public buildings in Yilan rice fields — each era carved its own grammar into this island."
 ---
 
 # Taiwanese Architecture: Multicultural Layers

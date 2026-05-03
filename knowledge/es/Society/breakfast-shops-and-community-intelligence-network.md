@@ -21,6 +21,7 @@ translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:753337c350d2acc3'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Society
 ---
 
 # La tía de la tienda de desayunos y la red de inteligencia comunitaria

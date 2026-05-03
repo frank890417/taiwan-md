@@ -16,6 +16,7 @@ translatedFrom: 'People/魏哲家.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:75d5c36465e7b059'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # CC Wei: El maestro de los procesos de fabricación en la era de los 3 nm

@@ -21,6 +21,7 @@ translatedFrom: Food/客家飲食文化.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:ede7b8639406d534
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Food
 ---
 
 # La cultura culinaria hakka

@@ -10,6 +10,7 @@ translatedFrom: People/桂綸鎂.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:abc35bc4aee48bac
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 桂綸鎂：控えめで堅実な実力派女優

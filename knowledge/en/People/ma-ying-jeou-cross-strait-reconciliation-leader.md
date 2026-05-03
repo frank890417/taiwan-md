@@ -11,6 +11,7 @@ subcategory: 'Politics and Democracy'
 featured: false
 lastVerified: 2026-03-30
 lastHumanReview: false
+category: People
 ---
 
 # Ma Ying-jeou: Cross-Strait Peacemaker, or the President Who Gave Young People the 22K Wage

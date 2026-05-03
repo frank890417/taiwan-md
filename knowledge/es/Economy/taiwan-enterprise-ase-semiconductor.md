@@ -20,6 +20,7 @@ translatedFrom: Economy/台灣企業：日月光半導體.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:cb7042e73cb2cef2
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Resumen en 30 segundos:** En 1984, Zhang Yao-Hongying, madre de familia dedicada a la construcción, y sus dos hijos incursionaron en el sector de encapsulado y pruebas de semiconductores, fundando ASE Semiconductor. Cuarenta años después, se convirtió en el mayor fabricante de encapsulado y pruebas del mundo, con ingresos de 10.100 millones de dólares en 2024 y una cuota de mercado global cercana al 45%. Cada iPhone y cada computadora portátil pueden utilizar tecnología de ASE: es el campeón oculto que "viste" y "examina" los chips.

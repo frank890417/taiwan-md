@@ -9,6 +9,7 @@ translatedFrom: 'People/伍佰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ea6fd59542e4310'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Wu Bai — The Soul of Taiwanese‑Language Rock

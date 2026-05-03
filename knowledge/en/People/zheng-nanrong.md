@@ -10,6 +10,7 @@ translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '905dadba'
 sourceContentHash: 'sha256:4be2f8c1793b7dcd'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Zheng Nanrong: The Man Who Burned for Freedom of Speech

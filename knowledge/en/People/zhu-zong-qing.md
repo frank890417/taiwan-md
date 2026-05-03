@@ -10,6 +10,7 @@ translatedFrom: People/朱宗慶.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:9f25e4b33618c84b
 translatedAt: 2026-05-01T20:54:09+08:00
+category: People
 ---
 
 # Zhu Zong-qing

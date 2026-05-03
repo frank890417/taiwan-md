@@ -12,6 +12,7 @@ translatedFrom: 'About/緣起故事.md'
 sourceCommitSha: 818f3cc1
 sourceContentHash: 'sha256:90a44cb111462766'
 translatedAt: '2026-04-29T12:22:02Z'
+category: About
 ---
 
 # Taiwan.md Origin Story

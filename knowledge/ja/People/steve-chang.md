@@ -10,6 +10,7 @@ translatedFrom: 'People/張明正.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0f8933e82bc3abdb'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 張明正：デジタル世界の安全守護者

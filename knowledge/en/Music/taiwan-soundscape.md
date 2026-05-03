@@ -22,6 +22,7 @@ translatedFrom: 'Music/台灣聲音地景.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cbfdd904f2ae5e56'
 translatedAt: '2026-05-01T15:38:13+08:00'
+category: Music
 ---
 
 # Taiwan's Soundscape

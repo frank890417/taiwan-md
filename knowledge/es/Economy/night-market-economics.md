@@ -16,6 +16,7 @@ translatedFrom: 'Economy/夜市經濟學.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0fad49e81799ba5a'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Economy
 ---
 
 > Cada noche, a las seis en punto, 233 000 puestos de Taiwán encienden sus luces al mismo tiempo. No hay marca unificada, no hay decoración lujosa, ni siquiera hay ubicaciones fijas, pero estos puestos aparentemente "poco profesionales" generan una producción anual cercana a los 400 mil millones de dólares taiwaneses y sostienen a 470 000 familias. Es el modelo de negocio más peculiar del mundo y el experimento económico más exitoso de Taiwán.

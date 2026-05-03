@@ -12,6 +12,7 @@ translatedFrom: People/曾雅妮.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:890dbecd669ee83c
 translatedAt: 2026-05-02T02:50:54+08:00
+category: People
 ---
 
 # Yani Tseng

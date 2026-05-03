@@ -9,6 +9,7 @@ translatedFrom: 'People/陳映真.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8bedbd61019511b0'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Chen Yingzhen: A Conscience of the Third World in Taiwan’s Literature

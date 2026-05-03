@@ -11,6 +11,7 @@ translatedFrom: 'People/蔣中正.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:cc927a774bcfd71c'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: People
 ---
 
 > **30-second overview:** Chiang Kai-shek (1887–1975) ruled Taiwan for 26 years under a martial law that lasted 38 years (1949–1987) — one of the longest in world history. He simultaneously promoted land reform and nine-year compulsory education, laying the groundwork for Taiwan's economic takeoff; he also sent troops to suppress the 228 Incident and presided over a White Terror period during which thousands were executed. One person, two diametrically opposed historical records — a debate that continues to divide Taiwanese society today.

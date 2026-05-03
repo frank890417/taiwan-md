@@ -11,6 +11,7 @@ translatedFrom: People/陳澄波.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:12bbbe1f09116e18
 translatedAt: 2026-05-02T02:50:54+08:00
+category: People
 ---
 
 > **30-second overview:** On March 25, 1947, in front of Chiayi Railway Station, a man who wielded a paintbrush was bound with wire and shot dead in the street. His name was Chen Cheng-po — the first Taiwanese artist to break into Japan's Imperial Art Exhibition with oil paintings, and the one who went to negotiate during the [228 Incident](/en/History/228-incident/) and never came back.

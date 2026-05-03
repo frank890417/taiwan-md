@@ -10,6 +10,7 @@ translatedFrom: People/張惠妹.md
 sourceCommitSha: 2671bff6
 sourceContentHash: sha256:b4205405eb50bfe0
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 張惠妹：民族を超えた天籁の声

@@ -12,6 +12,7 @@ translatedFrom: About/看見台灣引言集.md
 sourceCommitSha: 1a5fc7a9
 sourceContentHash: sha256:cbdbee6d7c03481f
 translatedAt: 2026-05-01T22:19:10+08:00
+category: About
 ---
 
 # Ver Taiwán — Impresiones históricas de Taiwán

@@ -21,6 +21,7 @@ translatedFrom: People/杜聰明.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:deadae386ada6fea
 translatedAt: 2026-05-02T01:17:17+08:00
+category: People
 ---
 
 # Du Congming

@@ -10,6 +10,7 @@ translatedFrom: 'People/周杰倫.md'
 sourceCommitSha: '4a5b7958'
 sourceContentHash: 'sha256:429e6c1fb55123cd'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 周杰倫

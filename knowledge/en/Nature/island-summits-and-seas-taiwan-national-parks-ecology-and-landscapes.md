@@ -19,6 +19,7 @@ translatedFrom: 'Nature/台灣國家公園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ce9f00d5b274081'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Nature
 ---
 
 # Island Summits and Seas: Taiwan’s National Parks as Living Ecological Archives

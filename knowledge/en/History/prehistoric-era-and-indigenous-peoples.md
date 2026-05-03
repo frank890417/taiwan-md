@@ -10,6 +10,7 @@ sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:eba099f97dfd72b7'
 translatedAt: '2026-04-04T15:57:40+08:00'
 translatedFromInferred: false
+category: History
 ---
 
 # Prehistoric Era and Indigenous Peoples

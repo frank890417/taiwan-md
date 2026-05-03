@@ -17,6 +17,7 @@ translatedFrom: 'People/莊智淵.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:64d1439fdfb0a46b'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Chuang Chih-yuan: El padrino del tenis de mesa

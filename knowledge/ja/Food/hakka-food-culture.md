@@ -13,6 +13,7 @@ translatedFrom: Food/客家飲食文化.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:ede7b8639406d534
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Food
 ---
 
 # 客家飲食文化

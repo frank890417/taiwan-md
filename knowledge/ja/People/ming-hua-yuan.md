@@ -10,6 +10,7 @@ translatedFrom: 'People/明華園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8f30d34794119822'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 明華園：野台から生まれた歌仔戯帝国

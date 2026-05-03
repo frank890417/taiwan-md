@@ -21,6 +21,7 @@ translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:99a0b29cbafe5bb9'
 translatedAt: '2026-05-01T15:38:13+08:00'
+category: Technology
 ---
 
 # Taiwan's 5G Network Buildout and Digital Transformation

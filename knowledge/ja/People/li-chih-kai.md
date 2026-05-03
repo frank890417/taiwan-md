@@ -11,6 +11,7 @@ translatedFrom: 'People/李智凱.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:40c8b34419f44594'
 translatedAt: '2026-05-01T19:52:32+08:00'
+category: People
 ---
 
 # 李智凱

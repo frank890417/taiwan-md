@@ -11,6 +11,7 @@ translatedFrom: 'Geography/氣候.md'
 sourceCommitSha: '8b302342'
 sourceContentHash: 'sha256:a5e1f79ea8f1e346'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: Geography
 ---
 
 # 台湾の気候

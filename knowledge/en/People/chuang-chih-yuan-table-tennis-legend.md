@@ -16,6 +16,7 @@ translatedFrom: 'People/莊智淵.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:64d1439fdfb0a46b'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Chuang Chih-yuan: The Godfather of Table Tennis

@@ -25,6 +25,7 @@ translatedFrom: Lifestyle/台灣交通系統.md
 sourceCommitSha: a8471cc2
 sourceContentHash: sha256:f955209c0b809e4b
 translatedAt: 2026-05-01T22:19:01+08:00
+category: Lifestyle
 ---
 
 # 대만 교통 시스템: 한 섬이 어떻게 자신을 90분으로 압축했는가

@@ -14,6 +14,7 @@ translatedFrom: Economy/台灣企業：兆豐金控.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:d45f458eabe77e3c
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Panorama en 30 segundos**

@@ -9,6 +9,7 @@ translatedFrom: Lifestyle/台灣市場文化與傳統市場.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:0334fef76cff5db1
 translatedAt: 2026-05-01T19:52:32+08:00
+category: Lifestyle
 ---
 
 # 台湾の市場文化と伝統市場

@@ -13,6 +13,7 @@ translatedFrom: 'Nature/台灣步道文化與公民守護.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:c5189b4648b42385'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Nature
 ---
 
 # Cultura de senderos de Taiwán y custodia ciudadana

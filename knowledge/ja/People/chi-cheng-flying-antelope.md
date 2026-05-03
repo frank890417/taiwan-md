@@ -10,6 +10,7 @@ translatedFrom: People/紀政.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:db29d3b29cd717d9
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 紀政：飛躍する羚羊

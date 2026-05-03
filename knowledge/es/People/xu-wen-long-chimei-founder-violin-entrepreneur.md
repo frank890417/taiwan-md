@@ -11,6 +11,7 @@ translatedFrom: 'People/許文龍.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:73deed1e850fca3f'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Xu Wenlong: la doble sonata de la música y los negocios

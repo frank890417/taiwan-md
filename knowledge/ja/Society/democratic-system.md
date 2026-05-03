@@ -13,6 +13,7 @@ translatedFrom: Society/民主制度.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:3d52222ebbb25430
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Society
 ---
 
 # 民主制度

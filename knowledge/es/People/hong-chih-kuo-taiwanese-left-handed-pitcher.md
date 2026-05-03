@@ -10,6 +10,7 @@ translatedFrom: 'People/郭泓志.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:afabda9042512747'
 translatedAt: '2026-05-02T01:17:17+08:00'
+category: People
 ---
 
 # Hong-chih Kuo: Lanzador zurdo de élite

@@ -21,6 +21,7 @@ translatedFrom: 'Nature/台灣黑熊.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7da94098666855ee'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Nature
 ---
 
 # Taiwanese Black Bear

@@ -16,6 +16,7 @@ tags:
   ]
 subcategory: '經濟發展'
 date: 2026-03-21
+category: Economy
 ---
 
 > Every evening at six o'clock, 233,000 stalls across Taiwan light up simultaneously. No unified brand, no lavish decor, not even a fixed location — yet these seemingly "unprofessional" small stalls create an annual output value of nearly NT$400 billion, supporting 470,000 families. This is the world's strangest business model, and Taiwan's most successful economic experiment.

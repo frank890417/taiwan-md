@@ -24,6 +24,7 @@ translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: d0343c92
 sourceContentHash: 'sha256:137ce9f0ad4e78d5'
 translatedAt: '2026-05-01T12:53:58+08:00'
+category: People
 ---
 
 # Teresa Teng

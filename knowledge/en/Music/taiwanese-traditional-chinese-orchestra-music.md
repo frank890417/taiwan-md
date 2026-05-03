@@ -18,6 +18,7 @@ translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: '5dfae94a'
 sourceContentHash: 'sha256:0bcde4a3f239bc5d'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: Music
 ---
 
 # Taiwanese Guoyue: The Island Sound That Grew from Chinese Instruments

@@ -13,6 +13,7 @@ translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 sourceCommitSha: '056136d7'
 sourceContentHash: 'sha256:059f5d9ff66a77e7'
 translatedAt: '2026-05-01T18:02:56+08:00'
+category: Society
 ---
 
 # 2026 鄭習会：国共指導者十年ぶりに再会した十分間

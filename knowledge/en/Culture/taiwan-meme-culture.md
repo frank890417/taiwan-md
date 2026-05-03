@@ -13,6 +13,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+category: Culture
 ---
 
 # When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve

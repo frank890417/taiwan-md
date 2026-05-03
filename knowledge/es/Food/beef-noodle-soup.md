@@ -22,6 +22,7 @@ translatedFrom: 'Food/牛肉麵.md'
 sourceCommitSha: '03431927'
 sourceContentHash: 'sha256:9ff225473fbb73d5'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Food
 ---
 
 # Sopa de fideos con carne de res

@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣產業轉型與經濟發展軌跡.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:a20b7c78580c0ee1
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Economy
 ---
 
 # 島の変貌：台湾の産業転換と経済発展の軌跡

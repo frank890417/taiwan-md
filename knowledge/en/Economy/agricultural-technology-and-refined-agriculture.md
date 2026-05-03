@@ -19,6 +19,7 @@ readingTime: 11
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+category: Economy
 ---
 
 # Agricultural Technology and Refined Agriculture

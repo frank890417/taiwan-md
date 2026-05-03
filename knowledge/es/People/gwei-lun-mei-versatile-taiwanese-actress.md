@@ -10,6 +10,7 @@ translatedFrom: People/桂綸鎂.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:abc35bc4aee48bac
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Gwei Lun-mei: una actriz de talento discreto y tenaz

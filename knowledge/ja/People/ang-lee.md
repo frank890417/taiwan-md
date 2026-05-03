@@ -11,6 +11,7 @@ translatedFrom: People/李安.md
 sourceCommitSha: 2acf410b
 sourceContentHash: sha256:424471225df1f956
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # アン・リー

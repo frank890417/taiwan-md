@@ -20,6 +20,7 @@ translatedFrom: Nature/特有種.md
 sourceCommitSha: dd7a1d1c
 sourceContentHash: sha256:c6541151750229dc
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Nature
 ---
 
 # Especies endémicas

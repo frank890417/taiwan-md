@@ -13,6 +13,7 @@ translatedFrom: 'Nature/台灣海洋污染治理與保育挑戰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7b5e9520f2ce542e'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: Nature
 ---
 
 # 台湾の海洋汚染対策と保全の課題

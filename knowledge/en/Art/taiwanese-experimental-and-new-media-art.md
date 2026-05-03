@@ -22,6 +22,7 @@ translatedFrom: 'Art/FAB DAO與百岳計畫.md'
 sourceCommitSha: 'cc65d0f3'
 sourceContentHash: 'sha256:a569386269241d61'
 translatedAt: '2026-05-01T12:53:58+08:00'
+category: Art
 ---
 
 # The Perpetual Donation Machine: FAB DAO and the Project % Social Experiment

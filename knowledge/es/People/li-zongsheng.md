@@ -18,6 +18,7 @@ translatedFrom: People/李宗盛.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:37754a7922b8e177
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Li Zongsheng: el poeta de la vida en el mundo musical mandarín

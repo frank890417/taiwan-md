@@ -19,6 +19,7 @@ translatedFrom: Society/社會住宅與居住正義.md
 sourceCommitSha: c67109e5
 sourceContentHash: sha256:98f75466eab59da6
 translatedAt: 2026-05-02T13:31:21+08:00
+category: Society
 ---
 
 # Vivienda social y justicia habitacional

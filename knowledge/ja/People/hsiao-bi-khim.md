@@ -13,6 +13,7 @@ translatedFrom: 'People/蕭美琴.md'
 sourceCommitSha: '202e182d'
 sourceContentHash: 'sha256:911564a213299ba1'
 translatedAt: '2026-05-01T18:02:56+08:00'
+category: People
 ---
 
 # 蕭美琴

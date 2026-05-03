@@ -20,6 +20,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+category: Economy
 ---
 
 > **30-Second Overview**

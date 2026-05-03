@@ -19,6 +19,7 @@ translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '905dadba'
 sourceContentHash: 'sha256:8343cc68a2670916'
 translatedAt: '2026-05-02T14:15:00+08:00'
+category: People
 ---
 
 # Zheng Nanrong

@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：仁寶電腦.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:95ade25e990d7b77
 translatedAt: 2026-05-02T01:17:17+08:00
+category: Economy
 ---
 
 # Compal Electronics: el gigante ODM oculto a nivel mundial

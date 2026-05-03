@@ -19,6 +19,7 @@ translatedFrom: People/魏德聖.md
 sourceCommitSha: 812e7574
 sourceContentHash: sha256:da6124a8ed71cc71
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 Wei Te-sheng, nacido el 16 de agosto de 1969 en Yongkang, Tainan, es uno de los directores de cine más representativos de Taiwán. Con _Cape No. 7_ batió el récord de taquilla del cine taiwanés, y con _Seediq Bale_ demostró una visión cinematográfica de escala épica. De asistente de dirección desconocido pasó a convertirse en una figura clave que transformó el panorama de la industria cinematográfica taiwanesa. Sus películas no solo alcanzaron éxito comercial, sino que, lo que es más importante, reavivaron la confianza del público taiwanés en el cine local.

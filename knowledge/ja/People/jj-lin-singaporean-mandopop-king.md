@@ -10,6 +10,7 @@ translatedFrom: 'People/林俊傑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:88e7c7b4207d65a4'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 林俊傑：国境を越える華語音楽の才子

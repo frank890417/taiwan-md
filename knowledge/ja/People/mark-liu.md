@@ -10,6 +10,7 @@ translatedFrom: 'People/劉德音.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:958c8a4a8799c54d'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 劉德音：地政学の嵐における半導体の船長

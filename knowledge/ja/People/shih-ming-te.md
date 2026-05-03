@@ -11,6 +11,7 @@ translatedFrom: People/施明德.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:04fdf466b4f03b64
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 施明德：不屈の民主闘士

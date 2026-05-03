@@ -21,6 +21,7 @@ translatedFrom: People/許倬雲.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:77e8dd6633b6a3b4
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 許倬雲

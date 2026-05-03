@@ -16,6 +16,7 @@ translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0334fef76cff5db1'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Lifestyle
 ---
 
 # Cultura de mercados y mercados tradicionales de Taiwán

@@ -11,6 +11,7 @@ translatedFrom: 'People/朱天文.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:82416bb2c3ed3c55'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 朱天文：映像と文字の詩的融合

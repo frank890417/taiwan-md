@@ -18,6 +18,7 @@ translatedFrom: 'Technology/台灣災難醫療體系.md'
 sourceCommitSha: 'ecb173b1'
 sourceContentHash: 'sha256:eaa687a658bed0b7'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: Technology
 ---
 
 ## Opening: An 8-Minute Life-or-Death Decision

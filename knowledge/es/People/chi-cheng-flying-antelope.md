@@ -10,6 +10,7 @@ translatedFrom: People/紀政.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:db29d3b29cd717d9
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Chi Cheng: El Antílope Volador

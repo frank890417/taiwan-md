@@ -10,6 +10,7 @@ translatedFrom: People/張艾嘉.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:b98aee16ecfe25b3
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 張艾嘉：華語映画界のマルチクイーン

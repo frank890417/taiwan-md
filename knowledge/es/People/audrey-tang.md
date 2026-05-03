@@ -11,6 +11,7 @@ translatedFrom: 'People/唐鳳.md'
 sourceCommitSha: '32e53d5b'
 sourceContentHash: 'sha256:a082c7ac24170454'
 translatedAt: '2026-05-01T20:54:23+08:00'
+category: People
 ---
 
 # Audrey Tang

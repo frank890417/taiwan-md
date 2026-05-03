@@ -17,6 +17,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
+category: Art
 ---
 
 # Taiwan Contemporary Art

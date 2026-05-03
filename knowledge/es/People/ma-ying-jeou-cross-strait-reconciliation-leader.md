@@ -18,6 +18,7 @@ translatedFrom: People/馬英九.md
 sourceCommitSha: c860d150
 sourceContentHash: sha256:b41414618f20f1f9
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Ma Ying-jeou: ¿Constructor del deshielo entre ambas costas, o el presidente bajo cuyo gobierno los jóvenes cobraban 22.000 NTD?

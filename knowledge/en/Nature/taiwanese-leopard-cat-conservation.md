@@ -21,6 +21,7 @@ translatedFrom: 'Nature/台灣石虎保育.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:51b6f9aa87c5e972'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Nature
 ---
 
 # Taiwanese Leopard Cat Conservation

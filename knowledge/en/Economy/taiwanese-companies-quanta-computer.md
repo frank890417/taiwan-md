@@ -21,6 +21,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+category: Economy
 ---
 
 > **30-Second Overview:** In 1987, a factory fire led Barry Lam to resign from Kinpo Electronics.

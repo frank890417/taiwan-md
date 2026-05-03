@@ -10,6 +10,7 @@ translatedFrom: 'People/王建民.md'
 sourceCommitSha: '812e7574'
 sourceContentHash: 'sha256:3114edd9c9d8e0c4'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 ## El ascenso del rey de la sinker

@@ -21,6 +21,7 @@ translatedFrom: 'History/台海危機與兩岸關係發展.md'
 sourceCommitSha: 'f78028db'
 sourceContentHash: 'sha256:cff96f2b8cf87a1f'
 translatedAt: '2026-05-01T12:21:52+08:00'
+category: History
 ---
 
 # Taiwan Strait Crises and Cross-Strait Relations

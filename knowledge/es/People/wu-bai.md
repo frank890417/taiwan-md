@@ -18,6 +18,7 @@ translatedFrom: People/伍佰.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:3ea6fd59542e4310
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Wu Bai: el alma del rock local taiwanés

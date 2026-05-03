@@ -1,18 +1,18 @@
 ---
-title: "Facebook: From the 'Stealing Vegetables' Craze to the Double-Edged Sword of Digital Democracy, Defining Taiwan's Social Blueprints for Twenty Years"
-description: "In 2009, 'Happy Farm' ignited a craze for stealing vegetables in Taiwan; in 2014, it became the mobilization nerve center for the Sunflower Student Movement. Facebook has traversed two identities in Taiwan: 'infrastructure' and 'cognitive battlefield.' In 2025, review controversies added another title: the starting point for 'FB refugees.'"
+title: 'Facebook: "작물 훔치기" 열풍부터 디지털 민주주의의 양날의 검까지, 20년간 대만 소셜을 정의한 파란 좌표'
+description: '2009년 《해피팜(開心農場)》이 대만에 작물 훔치기 열풍을 일으켰고, 2014년에는 해바라기 학생운동(太陽花學運)의 동원 신경망이 되었다. Facebook은 대만에서 "기반시설"과 "인지전 전장"이라는 두 가지 정체성을 거쳐왔으며, 2025년의 콘텐츠 심사 논란으로 또 하나의 이름을 얻었다: FB 난민의 출발점.'
 date: 2026-05-01
 tags:
   [
     'Facebook',
-    'Social Media',
-    'Digital Democracy',
-    'Sunflower Student Movement',
-    'Cognitive Warfare',
-    'Misinformation',
+    '소셜미디어',
+    '디지털 민주주의',
+    '해바라기 학생운동',
+    '인지작전',
+    '가짜뉴스',
   ]
-subcategory: 'Social and Digital Culture'
-author: 'Taiwan.md Contributors'
+subcategory: '소셜 및 디지털 문화'
+author: 'Taiwan.md Translation Team'
 category: 'Technology'
 readingTime: 28
 lastVerified: 2026-05-02
@@ -23,107 +23,107 @@ sourceContentHash: 'sha256:c743dd48e389f657'
 translatedAt: '2026-05-02T13:53:23+08:00'
 ---
 
-> **30-Second Overview:**
-> The development history of Facebook (Facebook) in Taiwan is a compressed version of a 20-year digital social history: from the 2009 "stealing vegetables" craze of _Happy Farm_, to the core online mobilization of the 2014 Sunflower Student Movement, to the 2025 "FB refugee wave" triggered by Meta's speech review controversies. It serves simultaneously as Taiwan's largest public discussion square and the most active front line of cognitive warfare. By the end of 2025, Facebook's reach in Taiwan still exceeded 75%, but its market share continued to decline from 61% in 2022 to below 50%, shrinking for three consecutive years.
+> **30초 개요:**
+> 대만에서 Facebook(페이스북)의 발전사는 20년 디지털 소셜 역사의 압축판이다. 2009년 《해피팜(開心農場)》의 작물 훔치기 열풍, 2014년 해바라기 학생운동의 온라인 동원 핵심, 그리고 2025년 Meta의 언론 심사 논란이 촉발한 "FB 난민 물결"까지. Facebook은 동시에 대만 최대의 공공 토론 광장이자 인지작전이 가장 활발한 최전선이기도 하다. 2025년 말 기준, Facebook의 대만 내 도달률은 여전히 75%를 초과하지만, 시장 점유율은 2022년 61%에서 지속적으로 하락하며 50% 아래로 떨어졌고, 3년 연속 후퇴하고 있다.
 
-"Did you steal vegetables today?" This greeting swept through Taiwanese offices and campuses in 2009, originating from a web game called _Happy Farm_[^1]. At that time, Facebook, which had just entered the Taiwan market, relied on this simple game that allowed office workers to set alarms in the middle of the night to wake up and "harvest crops" to break through 5.7 million visits in Taiwan in August 2009[^2]. Taiwan once became one of the most popular markets for _Happy Farm_ globally[^3].
+"오늘 작물 훔쳤어?" 2009년 대만의 사무실과 학교 전체를 휩쓸었던 이 인삿말은 《해피팜(Happy Farm)》이라는 웹 게임에서 유래했다[^1]. 당시 막 대만 시장에 진입한 Facebook은 직장인들이 새벽에 알람을 맞추고 일어나 "수확"을 하게 만드는 이 단순한 게임 덕분에 2009년 8월 대만 방문자 수 570만 명을 돌파했다[^2]. 대만은 한때 《해피팜》의 전 세계 최인기 시장 중 하나가 되었다[^3].
 
-📝 **Curator's Note:** In an era before smartphones were ubiquitous, Facebook used "games" as the lowest-barrier social method to move Taiwan people's social circles from the physical world to the cloud, allowing it to stand out in competition with the then-popular microblogging platform Plurk[^4].
+📝 **큐레이터 노트:** 스마트폰이 아직 보급되지 않던 시대, Facebook은 "게임"이라는 가장 낮은 진입장벽의 소셜 방식으로 대만인의 소셜 서클을 오프라인에서 클라우드로 옮겼으며, 당시 대만에서 인기 있던 마이크로블로그 플랫폼 Plurk(푸랑)와의 경쟁에서 두각을 나타냈다[^4].
 
-## From Harvard Dorms to Taipei Offices
+## 하버드 기숙사에서 타이베이 사무실로
 
-Facebook's origins date back to February 2004, when Mark Zuckerberg and his Harvard roommate set up "TheFacebook" in their dorm[^5]. Initially just a campus contact book, its real-name and closed-circle characteristics spread rapidly among Ivy League schools. In the United States, Facebook started as a student social network; in Taiwan, it directly captured the office workers and middle-aged/elderly demographics with the strongest purchasing power through social games like _Happy Farm_[^6], laying the foundation for "all-age" coverage.
+Facebook의 기원은 2004년 2월, 마크 저커버그(Mark Zuckerberg)와 하버드 룸메이트가 기숙사에서 구축한 "TheFacebook"이다[^5]. 처음에는 단순한 캠퍼스 연락처에 불과했지만, 실명제와 폐쇄적 서클이라는 특성이 아이비리그 학교들로 빠르게 퍼져나갔다. 미국에서 Facebook은 학생 소셜에서 시작했지만, 대만에서는 《해피팜》 등의 소셜 게임을 통해 구매력이 가장 강한 직장인과 중장년층을 직접 공략하며[^6] "전 연령대" 커버리지의 기반을 다졌다.
 
-Meta's office in Taiwan was established in 2015, with its initial three employees squeezed into a small conference room. In 2019, the Taiwan office moved to the Nanshan Plaza building in Taipei, occupying an entire floor of 804 ping (approx. 2,650 square meters), equipped with Taiwanese employee facilities such as KTVs and mahjong tables, publicly declaring a long-term investment in the Taiwan market[^7].
+Meta의 대만 사무소는 2015년에 설립되었는데, 초기에는 직원 세 명이 작은 회의실 한 칸에 빽빽이 들어차 일했다. 2019년 대만 사무소는 타이베이 난산광장(南山廣場) 빌딩으로 이전해 총 804평 규모의 층 전체를 사용하게 되었으며, KTV와 마작 테이블 등 대만식 직원 편의시설을 갖추고 대만 시장에 대한 장기 투자를 공개적으로 선언했다[^7].
 
-## The Mobilization Map of the Sunflower Student Movement
+## 해바라기 학생운동의 동원 지도
 
-If 2009 was Facebook's "social first year" in Taiwan, 2014 was its "political first year."
+2009년이 Facebook의 대만 "소셜 원년"이었다면, 2014년은 "정치 원년"이었다.
 
-During the March 2014 Sunflower Student Movement, Facebook demonstrated astonishing mobilization energy: live broadcasts, material collection, and discourse dissemination all occurred synchronously on Facebook. Academic research shows that Facebook usage related to the student movement had a significant impact on whether college students participated in the movement; the participation level brought by weak ties (strange netizens) was even higher than that of strong ties (relatives and friends)[^8].
+2014년 3월 해바라기 학생운동(太陽花學運) 기간 동안 Facebook은 놀라운 동원력을 발휘했다. 실시간 생중계, 물자 모집, 담론 확산이 모두 Facebook에서 동시에 이루어졌다. 학술 연구에 따르면 학생운동과 관련된 Facebook 사용은 대학생의 학생운동 참여 여부에 유의미한 영향을 미쳤으며, 약한 연대(낯선 온라인 친구)가 가져온 참여 수준은 강한 연대(친지와 가족)보다도 높은 것으로 나타났다[^8].
 
-However, Facebook's role in this movement was also double-edged—information overload, the spread of misinformation, and community polarization emerged simultaneously[^9]. This movement completely changed Taiwan's political ecology, making Facebook the foundational infrastructure for civil society, political figures, and NGOs to voice their opinions.
+그러나 이 운동에서 Facebook의 역할은 양면적이기도 했다—정보 과부하, 가짜뉴스 전파, 커뮤니티 양극화가 동시에 나타났다[^9]. 이 운동은 대만의 정치 생태계를 완전히 바꾸어 놓았고, Facebook을 시민사회, 정치인, NGO의 발언 기반시설로 만들었다.
 
-## Diti Expedition and Fan Page Trading
+## 디바 원정대(帝吧出征)와 팬페이지 거래
 
-Facebook's expanding influence in Taiwan also made it a front line for cross-strait cognitive warfare.
+Facebook의 대만 영향력 확대는 그것을 양안(兩岸) 인지전의 최전선으로 만들기도 했다.
 
-In 2016, following the Zhou Ziyu flag incident, some Chinese netizens launched the "Diti Expedition" action through Facebook, flooding comments on relevant Taiwan fan pages and forming cross-border cyber conflicts[^10]. In 2019, the Investigation Bureau publicly stated that it was continuously monitoring cross-strait forces attempting to buy out Taiwan fan pages for political propaganda[^11], revealing the structural vulnerability of Facebook as a cross-border information battlefield.
+2016년 쩌우쯔위(周子瑜) 국기 사건을 계기로 일부 중국 누리꾼들이 Facebook을 통해 "디바 원정대(帝吧出征)" 행동을 일으켜, 관련 대만 팬페이지에 대량으로 댓글을 도배하며 국경을 넘은 사이버 갈등을 형성했다[^10]. 2019년 조사국은 상대편 세력이 대만 팬페이지를 사들여 정치 선전을 하려는 시도를 지속적으로 감시하고 있다고 공개적으로 밝혀[^11], Facebook이 국경을 넘는 정보전 전장으로서 갖는 구조적 취약성을 드러냈다.
 
-## Algorithm Black Boxes and Media Dependence
+## 알고리즘 블랙박스와 미디어 의존
 
-As Facebook transformed into Meta, the algorithm black box, opaque ad revenue sharing, and control over news media traffic gradually sparked dissatisfaction. Many Taiwan news media heavily rely on the traffic brought by Facebook; any adjustment to the algorithm could severely impact revenue, creating an inescapable "traffic dependence"[^12].
+Facebook이 Meta로 전환하면서 알고리즘 블랙박스, 불투명한 광고 수익 배분, 뉴스 미디어 트래픽 장악이 점점 더 큰 불만을 불러일으켰다. 많은 대만 뉴스 미디어들이 Facebook에서 유입되는 트래픽에 크게 의존하고 있어, 알고리즘의 어떤 조정도 수익에 심각한 타격을 줄 수 있으며 해소하기 어려운 "트래픽 의존"을 형성했다[^12].
 
-For a long time, there have been controversies over the review standards of political speech on Facebook in Taiwan, labeled as "Red Facebook" and "Green Facebook"[^13]. Creators have also had their accounts suspended without warning, causing years of accumulated digital assets to vanish overnight[^14].
+오래전부터 대만 Facebook에서의 정치적 발언에 대한 심사 기준이 "빨간 페이스북"과 "초록 페이스북"으로 편향되어 있다는 논란이 있었다[^13]. 창작자들 역시 예고 없이 계정이 정지되어 수년간 쌓아온 디지털 자산이 하룻밤 사이에 사라지는 피해를 겪기도 했다[^14].
 
-## 2025: The FB Refugee Wave
+## 2025년: FB 난민 물결
 
-The most severe crisis of trust erupted in 2025. Reports indicated that Meta collaborated with specific political forces to conduct opaque reviews and downrank popular posts in Taiwan and Hong Kong regions, with many accounts discussing public issues being banned without warning[^15]. The famous "FB Refugee Wave" in Taiwan's internet history was thus triggered—approximately 20,000 users flooded decentralized platforms like Mastodon[^16].
+가장 심각한 신뢰 위기는 2025년에 터졌다. 보도에 따르면 Meta가 특정 정치 세력과 협력해 대만과 홍콩 지역의 인기 게시물에 불투명한 심사와 노출 저하를 가하고, 공공 이슈를 논하는 다수의 계정이 예고 없이 차단당했다고 한다[^15]. 대만 인터넷 역사에 유명한 "FB 난민 물결"이 이로써 촉발되었다—약 2만 명의 이용자가 Mastodon 등 탈중앙화 플랫폼으로 이동했다[^16].
 
-Meta officially clarified, stating it never accepted content review requests from the Chinese government for Taiwan users, nor did it share Taiwan user data; content reviews are handled by Taiwan-based Traditional Chinese teams based on global community guidelines[^17].
+Meta는 공식적으로 강력히 해명하며, 중국 정부의 대만 이용자 콘텐츠 심사 요구에 응한 적이 없고 대만 이용자 데이터를 공유한 적도 없다고 밝혔다. 콘텐츠 심사는 글로벌 커뮤니티 가이드라인에 따라 대만 현지 번체 중국어 팀이 처리한다고 설명했다[^17].
 
-📝 **Curator's Note:** When social platforms become public infrastructure, their review standards directly impact democratic operations—this goes beyond the scope of commerce.
+📝 **큐레이터 노트:** 소셜 플랫폼이 공공 기반시설이 되면, 그 심사 기준은 민주주의 운영에 직접적인 영향을 미친다—이는 이미 상업적 범위를 초월한다.
 
-## Anti-Fake News Operations
+## 가짜뉴스 단속 작전
 
-Facing the complex online environment, Meta is also promoting anti-fake news strategies in Taiwan. From October to December 2019, Facebook cracked down heavily on Taiwan content farms "violating content guidelines," with over a hundred fan pages, including "Mi Xun," being delisted en masse[^18]. In November of the same year, Facebook held a hackathon in Taipei themed around "fighting misinformation"[^19].
+복잡한 온라인 환경에 맞서 Meta는 대만에서 가짜뉴스 단속 전략도 추진했다. 2019년 10월부터 12월까지 Facebook은 "콘텐츠 가이드라인 위반" 대만 콘텐츠 농장을 대대적으로 단속해, "미쉰(密訊)"을 포함한 100여 개 이상의 팬페이지를 집중적으로 삭제했다[^18]. 같은 해 11월 Facebook은 타이베이에서 "가짜뉴스 대응"을 주제로 한 해커톤을 개최했다[^19].
 
-## Current Status: High Reach, Continuous Loss of Stickiness
+## 현황: 도달률은 여전히 높지만 이용자 충성도는 지속 하락
 
-By the end of 2025, Facebook's reach in Taiwan remained the highest among all platforms (over 75%), but its market share continued to decline from 61.22% in 2022[^20]. Meta's Threads, however, rose rapidly in Taiwan after the 2024 Taiwan elections due to its more open atmosphere for political discussion[^21]. According to 2026 data, Taiwan users contributed 21.08% of Threads' global total traffic, making it one of the countries with the highest participation globally[^22].
+2025년 말 기준, 대만에서 Facebook의 도달률은 여전히 모든 플랫폼 중 최고(75% 초과)이지만, 시장 점유율은 2022년 61.22%에서 지속적으로 하락하고 있다[^20]. 반면 Meta 산하의 Threads는 2024년 대만 대선 이후 보다 개방적인 정치 토론 분위기 덕분에 빠르게 급부상했다[^21]. 2026년 데이터에 따르면 대만 이용자들은 Threads 전 세계 총 트래픽의 21.08%를 기여하고 있어, 전 세계에서 참여도가 가장 높은 국가 중 하나다[^22].
 
-Facebook's story is a microcosm of Taiwan's 20-year digital transformation: it taught Taiwan people to socialize in virtual farms, learn civic mobilization on the streets outside the Legislative Yuan, and rethink the boundaries of digital trust amid review controversies. Today, it is in an awkward position—it is still the largest platform, yet also the one people complain about most.
+Facebook의 이야기는 대만 디지털 전환 20년의 축소판이다. 가상 농장에서 사교를 배우고, 입법원 밖 거리에서 시민 동원을 익혔으며, 심사 논란 속에서 디지털 신뢰의 경계를 다시 생각하게 만들었다. 지금 Facebook은 어색한 위치에 놓여 있다—여전히 가장 큰 플랫폼이지만, 동시에 사람들이 가장 많이 불평하는 플랫폼이기도 하다.
 
 ---
 
-**Further Reading:**
+**더 읽어보기:**
 
-- [IG: From Photographers' Filters to Taiwan People's "Crispy" Anxiety](/technology/IG) — Another major Meta platform in Taiwan, forming different usage scenarios with Facebook: Facebook is for "contacting elders," IG is for "seeing for oneself," and Threads is the "square for big arguments."
-- [Threads in Taiwan](/technology/Threads%20%E5%9C%A8%E5%8F%B0%E6%B9%BE) — Why do Taiwan people call Threads "Crispy"? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwan users in the Meta ecosystem.
-- [History of Taiwan Internet Community Migration](/technology/%E5%8F%B0%E6%B9%BE%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%8B%E7%A7%BB%E5%8F%B2) — From BBS, Wretch, Plurk to Facebook, IG, Threads. To understand why Facebook rose and began to recede in Taiwan, this complete migration map is necessary.
+- [Instagram: 사진작가의 필터에서 대만인의 "쥐이" 불안까지](/technology/IG) — Meta 산하 또 다른 대만 주력 플랫폼으로, Facebook과 다른 이용 맥락을 형성한다. Facebook이 "어른들과 연락하는 곳"이라면 IG는 "자신을 위한 공간", Threads는 "큰 싸움이 일어나는 광장"이다.
+- [Threads in Taiwan](/technology/Threads%20%E5%9C%A8%E5%8F%B0%E6%B9%BE) — 대만인은 왜 Threads를 "쥐이(脆)"라고 부를까? FB 난민 물결부터 "쥐이"의 전 세계 트래픽 1위까지, Meta 생태계 안에서 대만 이용자의 독특한 위치.
+- [대만 인터넷 커뮤니티 이주 역사](/technology/%E5%8F%B0%E6%B9%BE%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%8B%E7%A7%BB%E5%8F%B2) — BBS, 무명소잔(無名小站), Plurk에서 Facebook, IG, Threads까지. Facebook이 대만에서 왜 부상했고 왜 퇴조하기 시작했는지 이해하려면 이 완전한 이주 지도가 필요하다.
 
-## References
+## 참고자료
 
-[^1]: [Facebook founded in the US in 2004, caused a sensation in Taiwan in 2009](https://www.facebook.com/UDNtime/posts/851024853897918/) — United Daily News Time Machine, recording the media record of Facebook igniting the social craze in Taiwan through _Happy Farm_.
+[^1]: [Facebook, 2004년 미국에서 창립, 2009년 대만에서 선풍을 일으키다](https://www.facebook.com/UDNtime/posts/851024853897918/) — 연합보 타임머신(聯合報時光機), Facebook이 《해피팜》을 통해 대만에 소셜 열풍을 일으켰음을 기록한 미디어 자료.
 
-[^2]: [Happy Farm is the most used Facebook application by Taiwan netizens](https://www.ixresearch.com/news/news_09_17_09/) — ARO Creativity, September 2009 survey, recording that in August 2009, there were 5,735,530 visits to Facebook in Taiwan, of which 62% had used applications, with Happy Farm being the most used.
+[^2]: [해피팜은 대만 누리꾼들이 가장 많이 사용하는 Facebook 애플리케이션](https://www.ixresearch.com/news/news_09_17_09/) — ARO 창시지(創市際), 2009년 9월 조사, 2009년 8월 대만 Facebook 방문자 수 5,735,530명 중 62%가 앱을 이용했으며 해피팜이 가장 많이 사용된 앱임을 기록.
 
-[^3]: [Otaku Economy: Three Young Developers of Happy Farm Realize FB Dreams](https://ithelp.ithome.com.tw/articles/10031537) — iT邦幫忙, reporting on the background of Happy Farm's development and the context of Taiwan becoming one of the most popular markets globally.
+[^3]: [오타쿠 경제: 해피팜 개발팀 세 청년의 FB 꿈](https://ithelp.ithome.com.tw/articles/10031537) — iT邦幫忙, 해피팜 개발 배경과 대만이 전 세계 최인기 시장 중 하나가 된 맥락 보도.
 
-[^4]: [Taiwan Internet Penetration Breaks 95%! Facebook is Still the Main Battlefield](https://www.foodnext.net/column/columnist/paper/6111120817) — FoodNEXT, recording the development process of Facebook surpassing Plurk in competition and establishing its status as Taiwan's largest social platform.
+[^4]: [대만 인터넷 보급률 95% 돌파! Facebook은 여전히 주전장](https://www.foodnext.net/column/columnist/paper/6111120817) — 식력(食力) foodNEXT, Facebook이 Plurk와의 경쟁에서 앞서 대만 최대 소셜 플랫폼 지위를 굳힌 발전 과정 기록.
 
-[^5]: [Facebook - Wikipedia](https://en.wikipedia.org/wiki/Facebook) — Wikipedia, recording the origin of TheFacebook being established in Harvard dorms in February 2004, and the complete history of Zuckerberg and his roommate co-founding it.
+[^5]: [Facebook - Wikipedia](https://en.wikipedia.org/wiki/Facebook) — 위키백과, 2004년 2월 하버드 기숙사에서 TheFacebook이 설립된 기원과 저커버그와 룸메이트의 공동 창업 전체 역사 수록.
 
-[^6]: [Sex, Beer, and Coding: The Wild Story of Facebook's Early Days](https://www.inside.com.tw/article/13564-sex-beer-and-coding-inside-facebooks-wild-early-days) — INSIDE, recording Facebook's early core of student social networking and its differentiated path to becoming an all-age platform in Taiwan.
+[^6]: [섹스, 맥주, 코딩: Facebook 초기의 와일드한 이야기](https://www.inside.com.tw/article/13564-sex-beer-and-coding-inside-facebooks-wild-early-days) — INSIDE, Facebook 초기 학생 소셜 중심에서 대만에서 전 연령대 플랫폼으로 차별화된 경로를 기록.
 
-[^7]: [Facebook Taiwan Office Moves to New Home, Promises Continued Investment in Taiwan](https://www.ithome.com.tw/news/129926) — iThome, April 2019 report, recording the process of the Taiwan office's establishment in a three-person conference room in 2015 and its move to an entire floor (804 ping) in Taipei Nanshan Plaza in 2019.
+[^7]: [Facebook 대만 사무소 새 둥지로 이사, 대만에 지속 투자 약속](https://www.ithome.com.tw/news/129926) — iThome, 2019년 4월 보도, 2015년 세 명의 회의실에서 출발해 2019년 타이베이 난산광장 빌딩 전 층(804평)으로 이전한 과정 기록.
 
-[^8]: [Student Facebook Usage and Political Participation: A Case Study of the Sunflower Student Movement](https://www.airitilibrary.com/Article/Detail/10192433-201612-201701040022-201701040022-61-91) — Airiti Library, Chen Ya-mei's 2016 academic research, using empirical methods to analyze the impact mechanism of Facebook usage on college students' participation in the Sunflower Student Movement, finding significant weak-tie effects.
+[^8]: [학생의 Facebook 사용과 정치 참여: 해바라기 학생운동을 사례로](https://www.airitilibrary.com/Article/Detail/10192433-201612-201701040022-201701040022-61-91) — 화예온라인도서관(華藝線上圖書館), 천야메이(陳雅玫) 2016년 학술 연구, 실증적 방법으로 Facebook 사용이 대학생의 해바라기 학생운동 참여에 미치는 영향 메커니즘 분석, 약한 연대 효과가 유의미함을 발견.
 
-[^9]: [2024 Taiwan Elections: Foreign Influence Observation](https://medium.com/doublethinklab/2024-taiwan-elections-foreign-influence-observation-preliminary-statement-caeeccb5b88e) — Doublethink Lab, analyzing external force information intervention patterns during Taiwan elections, indirectly presenting Facebook's double-edged role in political mobilization.
+[^9]: [2024 Taiwan Elections: Foreign Influence Observation](https://medium.com/doublethinklab/2024-taiwan-elections-foreign-influence-observation-preliminary-statement-caeeccb5b88e) — Doublethink Lab, 대만 선거 기간 외부 세력의 정보 개입 패턴 분석, Facebook의 정치 동원에서의 양면적 역할을 간접적으로 보여줌.
 
-[^10]: [Diti Expedition: A War Without Smoke](https://foreignpolicy.com/2016/01/20/china-taiwan-tsai-ing-wen-facebook-troll-election/) — Foreign Policy, 2016 report on the Chinese netizens' "Diti Expedition" incident triggered by the Zhou Ziyu flag incident, detailing the cross-border cyber conflict of mass commenting on Taiwan fan pages.
+[^10]: [디바 원정대: 연기 없는 전쟁](https://foreignpolicy.com/2016/01/20/china-taiwan-tsai-ing-wen-facebook-troll-election/) — Foreign Policy, 2016년 쩌우쯔위 국기 사건이 촉발한 중국 누리꾼 "디바 원정대(帝吧出征)" 사건 보도, 대만 팬페이지에 대량으로 댓글을 도배한 국경을 넘은 사이버 갈등 전말.
 
-[^11]: [Cross-Strait Forces Buying Taiwan Fan Pages? Investigation Bureau: Continuously Monitoring](https://www.cna.com.tw/news/aipl/201909250239.aspx) — Central News Agency, 2019 report on the Investigation Bureau publicly stating it continues to track cases of cross-strait forces buying Taiwan fan pages for political propaganda.
+[^11]: [상대편 세력이 대만 팬페이지 매수? 조사국: 지속 감시 중](https://www.cna.com.tw/news/aipl/201909250239.aspx) — 중앙통신사(中央通訊社), 2019년 조사국이 공개적으로 상대편 세력이 대만 팬페이지를 매수해 정치 선전을 하는 사례를 계속 추적 중이라고 밝힌 보도.
 
-[^12]: [Uncovering the Money and China Factor Behind "Mission"](https://www.twreporter.org/a/information-warfare-business-content-farm-mission-english) — The Reporter English Edition, in-depth investigation into the funding and China factors behind Taiwan content farm "Mi Xun," revealing the structural vulnerability caused by media dependence on Facebook traffic.
+[^12]: [Uncovering the Money and China Factor Behind "Mission"](https://www.twreporter.org/a/information-warfare-business-content-farm-mission-english) — 보도자(報導者) 영문판, 대만 콘텐츠 농장 "미쉰(密訊)" 배후의 자금과 중국 요인에 대한 심층 조사, 미디어가 Facebook 트래픽에 의존함으로써 생기는 구조적 취약성 폭로.
 
-[^13]: ["Red Facebook" and "Green Facebook" Mystery: Taiwan Social Media Political Review Controversies](https://www.voacantonese.com/a/taiwan-facebook-censorship-20200115/5247146.html) — Voice of America, 2020 report on long-standing controversies among Taiwan users regarding biased review standards for political speech on Facebook.
+[^13]: ["빨간 페이스북"과 "초록 페이스북" 의혹: 대만 소셜미디어의 정치 심사 논란](https://www.voacantonese.com/a/taiwan-facebook-censorship-20200115/5247146.html) — 미국의 소리(美國之音), 2020년 대만 이용자들이 Facebook의 정치 발언 심사 기준이 편향되어 있다는 장기적 논란 보도.
 
-[^14]: [Account Suspended Without Warning! Creators怒控 Meta "Digital Assets Vanish Overnight"](https://www.ettoday.net/news/20230504/2491907.htm) — ETtoday News Cloud, 2023 event where creators' accounts were suspended without warning, recording actual cases where years of accumulated community assets disappeared instantly.
+[^14]: [계정 예고 없이 정지! 창작자들 Meta "디지털 자산 하룻밤에 사라져" 항의](https://www.ettoday.net/news/20230504/2491907.htm) — ETtoday 뉴스클라우드, 2023년 창작자 계정이 예고 없이 정지된 사건, 수년간 쌓아온 소셜 자산이 순식간에 사라진 실제 사례 기록.
 
-[^15]: [Meta Review Controversy Sparks Taiwan "FB Refugee Wave"!](https://tw.news.yahoo.com/meta%E5%AF%A9%E6%9F%A5%E7%88%AD%E8%AD%B0%E6%8E%80%E5%8F%B0%E7%81%A3-fb%E9%9B%A3%E6%B0%91%E6%BD%AE-2%E8%90%AC%E4%BA%BA%E6%B9%A7%E9%80%B2mastodon%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6-%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E4%BE%86%E6%AD%B7-103643979.html) — Yahoo News, April 18, 2025 report, recording the origins and scale of impact of Meta's Taiwan speech review controversies.
+[^15]: [Meta 심사 논란, 대만 "FB 난민 물결" 촉발!](https://tw.news.yahoo.com/meta%E5%AF%A9%E6%9F%A5%E7%88%AD%E8%AD%B0%E6%8E%80%E5%8F%B0%E7%81%A3-fb%E9%9B%A3%E6%B0%91%E6%BD%AE-2%E8%90%AC%E4%BA%BA%E6%B9%A7%E9%80%B2mastodon%E5%8F%A6%E8%B5%B7%E7%88%90%E7%81%B6-%E9%80%99%E5%80%8B%E5%B9%B3%E5%8F%B0%E6%9C%89%E4%BB%80%E9%BA%BC%E4%BE%86%E6%AD%B7-103643979.html) — Yahoo 뉴스, 2025년 4월 18일 보도, Meta 대만 언론 심사 논란의 전말과 영향 규모 기록.
 
-[^16]: [Meta denies censoring Taiwan content; backlash suggests ...](https://www.digitimes.com/news/a20250502PD223/meta-taiwan-government-data-facebook.html) — DIGITIMES, reporting on the "FB Refugee Wave" in 2025 where approximately 20,000 Taiwan users migrated to decentralized platforms like Mastodon following the Facebook review controversy.
+[^16]: [Meta denies censoring Taiwan content; backlash suggests ...](https://www.digitimes.com/news/a20250502PD223/meta-taiwan-government-data-facebook.html) — DIGITIMES, 2025년 Facebook 심사 논란으로 약 2만 명의 대만 이용자가 Mastodon 등 탈중앙화 플랫폼으로 이주한 "FB 난민 물결" 보도.
 
-[^17]: [Meta rejects claim it had a censorship deal with Beijing](https://www.taipeitimes.com/News/taiwan/archives/2025/05/04/2003836297) — Taipei Times, May 4, 2025, Meta's official statement denying accepting Beijing's review requests, denying sharing Taiwan user data, and explaining that reviews are executed by Taiwan-based Traditional Chinese teams based on global guidelines.
+[^17]: [Meta rejects claim it had a censorship deal with Beijing](https://www.taipeitimes.com/News/taiwan/archives/2025/05/04/2003836297) — Taipei Times, 2025년 5월 4일, Meta 공식 성명으로 베이징의 심사 요구 수용을 부인하고, 대만 이용자 데이터 공유를 부인하며, 심사는 대만 현지 번체 중국어 팀이 글로벌 가이드라인에 따라 처리함을 설명.
 
-[^18]: [Facebook Sweeps Content Farms, Over 100 Fan Pages Delisted](https://www.cna.com.tw/news/ait/201912170242.aspx) — Central News Agency, December 2019 report on Facebook delisting over a hundred Taiwan content farm fan pages focused on information warfare en masse.
+[^18]: [Facebook, 콘텐츠 농장 대대적 단속 100여 개 팬페이지 삭제](https://www.cna.com.tw/news/ait/201912170242.aspx) — 중앙통신사(中央通訊社), 2019년 12월 Facebook이 대만의 정보전 중심 콘텐츠 농장 100여 개 팬페이지를 집중 삭제한 보도.
 
-[^19]: [Facebook Holds Hackathon in Taiwan, Collaborates to Develop Anti-False News Mechanisms](https://www.cna.com.tw/news/ait/201911160170.aspx) — Central News Agency, November 2019 report on Facebook holding a hackathon in Taipei themed around fighting false news, inviting students and industry to jointly develop identification mechanisms.
+[^19]: [Facebook, 대만서 해커톤 개최, 가짜뉴스 차단 메커니즘 공동 개발](https://www.cna.com.tw/news/ait/201911160170.aspx) — 중앙통신사(中央通訊社), 2019년 11월 Facebook이 타이베이에서 가짜뉴스 퇴치를 주제로 한 해커톤을 개최해 학생과 업계가 공동으로 식별 메커니즘을 연구한 보도.
 
-[^20]: [Facebook Market Share Continues to Decline Since 2022](https://www.facebook.com/photo.php?fbid=954008873424688) — TWNIC Taiwan Internet Report Social Chart, recording the three-year trend of Facebook's market share declining from 61.22% in 2022 to 50.28% in 2024.
+[^20]: [Facebook 시장 점유율, 2022년부터 지속 하락](https://www.facebook.com/photo.php?fbid=954008873424688) — TWNIC 대만 인터넷 보고서 소셜 차트, 2022년 61.22%에서 2024년 50.28%로 3년간 하락한 추세 기록.
 
-[^21]: [Are You "Crispy"? Elections Spark New Threads Hype](https://dailyview.tw/popular/detail/25100) — Internet Temperature Meter, recording Threads' explosive growth in Taiwan after the 2024 Taiwan elections and the adoption trends among younger generations.
+[^21]: [당신도 "쥐이(脆)" 했어요? 선거가 Threads 새 열풍 불러](https://dailyview.tw/popular/detail/25100) — 인터넷 온도계(網路溫度計), 2024년 대만 대선 이후 Threads의 대만 내 폭발적 성장과 젊은 세대의 채택 트렌드 기록.
 
-[^22]: [Threads is Taiwan People's Threads, Taiwan Traffic Accounts for 21.08% of Global First](https://www.hkepc.com/25548/Threads_%E6%98%AF%E5%8F%B0%E7%90%86%E7%9A%84_Threads_%E5%8F%B0%E7%90%86%E6%B5%81%E9%87%8F%E4%BD%94_21.08%25___%E5%85%A8%E7%90%86%E7%AC%AC%E4%B8%80) — HKEPC, reporting data that Taiwan users contributed 21.08% of Threads' global total traffic, making it the market with the highest participation globally.
+[^22]: [Threads는 대만인의 Threads, 대만 트래픽이 전 세계 21.08% 차지 1위](https://www.hkepc.com/25548/Threads_%E6%98%AF%E5%8F%B0%E7%90%86%E7%9A%84_Threads_%E5%8F%B0%E7%90%86%E6%B5%81%E9%87%8F%E4%BD%94_21.08%25___%E5%85%A8%E7%90%86%E7%AC%AC%E4%B8%80) — HKEPC, 대만 이용자가 Threads 전 세계 총 트래픽의 21.08%를 기여한다는 데이터를 보도, 전 세계 참여도가 가장 높은 시장임.
