@@ -10,6 +10,7 @@ featured: true
 translatedFrom: People/白先勇.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:183a7b2c5ae7a688
+sourceBodyHash: 'sha256:3a8baf67f474184b'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

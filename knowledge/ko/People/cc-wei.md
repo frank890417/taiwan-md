@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/魏哲家.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:75d5c36465e7b059'
+sourceBodyHash: 'sha256:0829d2181855d05e'
 translatedAt: '2026-04-15T17:32:22+08:00'
 ---
 

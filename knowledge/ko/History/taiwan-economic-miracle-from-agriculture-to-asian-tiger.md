@@ -14,6 +14,7 @@ category: 'History'
 translatedFrom: 'History/台灣經濟奇蹟.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:59051517307ea5dd'
+sourceBodyHash: 'sha256:fbdf196b93386d0c'
 translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 

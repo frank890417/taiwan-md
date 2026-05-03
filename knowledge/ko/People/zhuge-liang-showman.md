@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/豬哥亮.md
 sourceCommitSha: 83b74a21
 sourceContentHash: sha256:88702d1dcebd6f35
+sourceBodyHash: 'sha256:75ed9a5646b17b48'
 translatedAt: 2026-05-02T01:17:15+08:00
 category: People
 ---

@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Technology/傳奇網路與台灣線上遊戲出海.md'
 sourceCommitSha: '1cdf2763'
 sourceContentHash: 'sha256:fc8499d85802cbbd'
+sourceBodyHash: 'sha256:04d95f993c4d6e33'
 translatedAt: '2026-05-01T22:19:01+08:00'
 ---
 

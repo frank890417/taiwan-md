@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'People/張明正.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0f8933e82bc3abdb'
+sourceBodyHash: 'sha256:eebbee99bcaa9b88'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
 ---

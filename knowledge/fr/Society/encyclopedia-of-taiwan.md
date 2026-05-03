@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/臺灣大百科全書.md'
 sourceCommitSha: '1213a0f4'
 sourceContentHash: 'sha256:578cad09bcd30716'
+sourceBodyHash: 'sha256:8f59f38adc348115'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

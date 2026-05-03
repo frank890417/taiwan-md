@@ -11,6 +11,7 @@ lastHumanReview: false
 translatedFrom: People/翁啟惠.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:7c77f160ad3abb8a
+sourceBodyHash: 'sha256:0b4394709e1c1e82'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

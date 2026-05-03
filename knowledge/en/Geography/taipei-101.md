@@ -27,6 +27,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/台北101.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0b35412227ffb8b0'
+sourceBodyHash: 'sha256:7d381eeb77a43103'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

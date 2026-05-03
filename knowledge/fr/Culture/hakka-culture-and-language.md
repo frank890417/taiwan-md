@@ -20,6 +20,7 @@ translatedFrom: 'Culture/客家文化與語言.md'
 lastVerified: 2026-04-05
 sourceCommitSha: '5b8ea228'
 sourceContentHash: 'sha256:b7e6cdcd3f8a0bf5'
+sourceBodyHash: 'sha256:af3d2488463632de'
 translatedAt: '2026-04-14T12:34:13+08:00'
 ---
 

@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣麵包與烘焙.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b2065fed8f03e46b'
+sourceBodyHash: 'sha256:61a9d0ad7fe3cd11'
 translatedAt: '2026-04-14T04:09:26+08:00'
 ---
 

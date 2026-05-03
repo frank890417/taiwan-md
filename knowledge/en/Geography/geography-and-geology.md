@@ -17,6 +17,7 @@ featured: true
 translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e8f1153627b23acc'
+sourceBodyHash: 'sha256:8fc62a1f8b60ec03'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Geography
 ---

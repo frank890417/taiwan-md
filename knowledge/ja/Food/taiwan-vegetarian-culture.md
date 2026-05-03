@@ -13,6 +13,7 @@ readingTime: 8
 translatedFrom: 'Food/台灣素食文化.md'
 sourceCommitSha: '82d9f045'
 sourceContentHash: 'sha256:24a4870b5a8b1b34'
+sourceBodyHash: 'sha256:82910774988d36fc'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

@@ -13,6 +13,7 @@ lastVerified: 2026-03-24
 translatedFrom: 'History/台灣鐵道史.md'
 sourceCommitSha: '956a36f3'
 sourceContentHash: 'sha256:b934d409b4731aff'
+sourceBodyHash: 'sha256:2cf5dced3bae0d77'
 translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 

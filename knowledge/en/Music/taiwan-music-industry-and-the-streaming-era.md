@@ -2,6 +2,7 @@
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e8d2c98ba6bf8e0d'
+sourceBodyHash: 'sha256:cfd94d19f3ed25b0'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "Taiwan's Music Industry and the Streaming Era: From Record Stores to Digital Platforms"
 description: "How Taiwan's music industry moved from the golden age of record stores through a piracy crisis, pioneered KKBOX as the world's first legal streaming service, and arrived at today's digital music ecosystem coexisting with Spotify and Apple Music."

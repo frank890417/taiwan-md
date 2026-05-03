@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '905dadba'
 sourceContentHash: 'sha256:8343cc68a2670916'
+sourceBodyHash: 'sha256:e8dd956e4b216bc3'
 translatedAt: '2026-05-02T14:15:00+08:00'
 category: People
 ---

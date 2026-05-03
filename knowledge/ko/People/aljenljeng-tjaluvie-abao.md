@@ -30,6 +30,7 @@ lastHumanReview: true
 translatedFrom: People/阿爆.md
 sourceCommitSha: 7bcc3ce4
 sourceContentHash: sha256:73f220f8acacaea9
+sourceBodyHash: 'sha256:49c7778d68057c04'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---
 

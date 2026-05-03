@@ -12,6 +12,7 @@ translatedFrom: 'Economy/農業科技與精緻農業.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b2ed1a7ff254e589'
+sourceBodyHash: 'sha256:bb17e44e9574ab34'
 translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 

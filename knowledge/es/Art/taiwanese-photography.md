@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'Art/台灣攝影.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:52b7961ea27ae3bf'
+sourceBodyHash: 'sha256:e35e89d8cffd872c'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

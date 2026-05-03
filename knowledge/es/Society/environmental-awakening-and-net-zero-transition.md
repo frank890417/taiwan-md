@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: Society/環保與永續發展.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:58130043015789fc
+sourceBodyHash: 'sha256:4ec983b4e284ca15'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

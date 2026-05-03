@@ -22,6 +22,7 @@ lastHumanReview: 2026-04-19
 translatedFrom: Culture/菜市場名.md
 sourceCommitSha: 8d1b30aa
 sourceContentHash: 'sha256:4f24d54138c9fd30'
+sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

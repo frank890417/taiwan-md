@@ -24,6 +24,7 @@ lastVerified: 2026-04-01
 translatedFrom: 'Nature/蘭嶼生態系.md'
 sourceCommitSha: '82e98bfd'
 sourceContentHash: 'sha256:c5b9ea1f1f0ebfd3'
+sourceBodyHash: 'sha256:31718e0ce0828285'
 translatedAt: '2026-04-14T19:23:22+08:00'
 ---
 

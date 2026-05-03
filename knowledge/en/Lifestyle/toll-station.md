@@ -24,6 +24,7 @@ featured: false
 translatedFrom: 'Lifestyle/收費站.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:51547944c653872d'
+sourceBodyHash: 'sha256:bc9b5cd80bcd52ef'
 translatedAt: '2026-05-03T21:10:03+08:00'
 ---
 

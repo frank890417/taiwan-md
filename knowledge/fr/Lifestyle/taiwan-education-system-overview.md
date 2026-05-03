@@ -22,6 +22,7 @@ translatedFrom: 'Lifestyle/台灣教育制度.md'
 lastVerified: 2026-03-23
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
+sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-15T17:34:49+08:00'
 ---
 

@@ -20,6 +20,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:14226e8150e93598'
+sourceBodyHash: 'sha256:8cf8889ff81d5115'
 translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 

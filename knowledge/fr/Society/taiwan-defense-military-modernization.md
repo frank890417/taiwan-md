@@ -1,203 +1,198 @@
 ---
-title: 'Défense et modernisation militaire de Taïwan'
-description: "En octobre 2025, Lai Ching-te préside à Hukou la cérémonie d'incorporation du bataillon de chars M1A2T. Le même mois, l'ancien chef d'état-major Lee Hsi-min sourit, amer : « Si même les chars peuvent être des armes asymétriques, qu'est-ce qui ne l'est pas ? » C'est l'histoire d'une île tiraillée entre deux logiques de défense."
+title: "Taiwan's Defense and Military Modernization"
+description: "In October 2025, Lai Ching-te presided over the commissioning of an M1A2T tank battalion in Hukou. In the same month, former Chief of the General Staff Li Hsi-ming smiled wryly and said, 'If tanks can be asymmetric weapons, what is not an asymmetric weapon?' This is the story of an island torn between two defense logics."
 date: 2026-04-10
-tags:
-  [
-    'Défense',
-    'Militaire',
-    'Guerre asymétrique',
-    'Stratégie du porc-épic',
-    'Drones',
-    'Service militaire',
-    'Défense de tous',
-  ]
+tags: ['Defense', 'Military', 'Asymmetric Warfare', 'Porcupine Strategy', 'Drones', 'Military Service', 'Total Defense']
 subcategory: 'Society'
 author: 'Taiwan.md'
-category: 'Society'
+featured: false
 readingTime: 16
-lastVerified: 2026-05-02
+lastVerified: 2026-04-10
 lastHumanReview: false
 translatedFrom: 'Society/台灣國防與軍事現代化.md'
-sourceCommitSha: '3e1e177a'
-sourceContentHash: 'sha256:bca94650f506c715'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:01886a62843216c0'
+translatedAt: '2026-05-04T01:02:36+08:00'
 ---
 
-> **Aperçu en 30 secondes :** La guerre russo-ukrainienne de 2022 a changé la logique de défense de Taïwan. En 2024, le service militaire est passé de 4 mois à 1 an ; l'exercice Han Kuang n°41 de 2025 a duré 10 jours et 9 nuits, le plus long de l'histoire, mobilisant 20 000 réservistes ; en novembre, le gouvernement Lai a proposé un budget spécial de 1 250 milliards de NT$ pour acquérir 200 000 drones. Mais sur la même liste, l'essentiel des fonds va encore aux chars, avions et sous-marins — équipements traditionnels coûteux. L'ancien chef d'état-major Lee Hsi-min commente, amer : « Si même les chars peuvent être asymétriques, qu'est-ce qui ne l'est pas ? » Taïwan suit en même temps deux voies de défense, et ces deux voies se contredisent.
+> **30-Second Overview:** The 2022 Russia-Ukraine War changed Taiwan's defense logic. In 2024, military service was restored from four months to one year. In 2025, the Han Kuang 41 exercise lasted the longest in history—ten days and nine nights—mobilizing 20,000 reservists. In November of the same year, the Lai Ching-te administration proposed a NT$1.25 trillion special budget to procure 200,000 drones. Yet, on the same list, most of the money still goes toward expensive traditional equipment like tanks, fighter jets, and submarines. Former Chief of the General Staff Li Hsi-ming smiled wryly at this: "If tanks can be asymmetric weapons, what is not an asymmetric weapon?" Taiwan is walking two defense paths simultaneously, and these two paths contradict each other.
 
-Fin octobre 2025, sur le terrain national de revue militaire de Hukou, une rangée de chars M1A2T « Abrams » est alignée sur le béton. Lai Ching-te descend de la tribune pour présider la cérémonie d'incorporation et annonce officiellement l'entrée en service « du char le plus puissant de la planète ». Le premier lot de 38 chars est arrivé en décembre 2024, le deuxième de 42 en juillet 2025, le dernier de 28 au premier trimestre 2026, soit 108 chars au total, déployés à la 584e brigade blindée et à la 269e brigade mécanisée de Hukou[^1].
+In late October 2025, at the Hukou National Review Ground, a row of M1A2T "Abrams" tanks sat on the concrete ground. Lai Ching-te stepped down from the rostrum to preside over the commissioning ceremony, announcing that the "world's strongest tank" had officially entered the Republic of China Armed Forces' combat sequence. The first batch of 38 units arrived in Taiwan in December 2024, the second batch of 42 units arrived in July 2025, and the final batch of 28 units completed delivery in the first quarter of 2026, totaling 108 units, deployed at the Hukou-based 584th Armored Brigade and the 269th Mechanized Brigade[^1].
 
-Au même moment, l'ancien chef d'état-major Lee Hsi-min dédicaçait en librairie. Son livre _La Chance de Taïwan_ défend la thèse selon laquelle Taïwan ne devrait pas acheter d'armes lourdes coûteuses, mais investir dans une multitude de petits systèmes peu chers, mobiles et dissimulables. Quand on lui demande comment il voit le ministère de la Défense justifier l'achat de M1A2T par la « décision sur la plage », il sourit, amer : « Si même les chars peuvent être asymétriques, qu'est-ce qui ne l'est pas ? »[^2]
+At the same time, former Chief of the General Staff Li Hsi-ming was signing books at a bookstore. His book, *Taiwan's Winning Chance*, argues that Taiwan should not buy expensive large-scale weapons but should invest in numerous cheap, mobile, and concealable small systems. When asked how he viewed the Ministry of National Defense's purchase of M1A2T tanks under the rationale of "beachhead decisive battle," he smiled wryly and said, "Seeing this, I can only smile wryly. If tanks can be asymmetric weapons, what is not an asymmetric weapon?"[^2]
 
-Cette phrase est la clé la plus honnête pour comprendre la défense taïwanaise en 2026. Le gouvernement parle de stratégie du porc-épic, mais signe les contrats les plus chers avec les États-Unis ; il proclame l'autonomie de défense, mais 90 % du budget va à des fournisseurs américains ; il prolonge le service militaire, tout en reconnaissant que ce sont 200 000 drones qui constitueront la force principale future. Ces contradictions ne sont pas des oublis ; c'est une île tiraillée entre deux logiques de survie. Elle veut devenir un porc-épic, mais son corps se souvient encore d'avoir été un léopard.
+This sentence is the most honest key to understanding Taiwan's defense in 2026. The government speaks of the Porcupine Strategy while signing the most expensive weapons contracts with the United States; it claims defense autonomy while 90% of the budget goes to US suppliers; it extends military service while admitting that 200,000 drones are the future main combat force. These contradictions are not oversights; they represent an island pulling back and forth between two survival logics. It wants to become a porcupine, but its body still remembers it was originally a leopard.
 
-## Pourquoi le porc-épic
+## Why a Porcupine
 
-L'expression « stratégie du porc-épic » a été inventée en 2008 par William Murray, professeur au U.S. Naval War College. Sa thèse : Taïwan ne peut pas vaincre l'APL en force conventionnelle ; tout navire à des milliards de dollars, tout avion coûteux pourrait ne survivre que quelques heures en cas de guerre. La seule approche raisonnable est d'acquérir massivement des missiles mobiles terrestres bon marché, des mines, et des défenses antiaériennes, pour faire de Taïwan un hérisson « pas rentable à manger »[^3].
+The term "Porcupine Strategy" was coined by William Murray, a professor at the US Naval War College, in a 2008 paper. His argument was simple: Taiwan cannot win against the People's Liberation Army (PLA) in conventional military power. Any warship costing billions or any expensive fighter jet may survive for only hours once war breaks out. The only reasonable approach is to buy large quantities of cheap land-based mobile missiles, mines, and air defense systems, turning Taiwan into a "not worth eating" porcupine[^3].
 
-Ce concept ne fut pas immédiatement adopté à Taïwan. Celui qui l'a vraiment écrit en stratégie militaire est l'ancien chef d'état-major Lee Hsi-min. En 2017, Lee a finalisé un document interne baptisé par l'armée « Concept de défense globale » (Overall Defense Concept, ODC). Une seule question : si l'APL attaquait vraiment, comment Taïwan peut-il devenir « peu appétissant » ? La réponse de Lee : mines, lanceurs mobiles de missiles, missiles portatifs lance-épaule, et grandes quantités de drones — pas chers, nombreux, dissimulables, frappent et fuient[^4].
+This concept was not immediately accepted in Taiwan. It was former Chief of the General Staff Li Hsi-ming who truly wrote it into military strategy. In 2017, while in office, Li completed an internal document known within the military as the "Overall Defense Concept" (ODC). The core question was only one: If the PLA really attacks, how can Taiwan make itself "not tasty"? Li's answer was mines, mobile missile vehicles, shoulder-fired missiles, and large numbers of drones: cheap, numerous, concealable, and hit-and-run[^4].
 
-Sa logique est celle de Murray : Taïwan n'a pas besoin de gagner ; il lui suffit de rendre le coût d'invasion si élevé que l'adversaire n'osera pas parier.
+His logic was the same as Murray's: Taiwan does not need to win; it only needs to make the cost of invasion so high that the other side dares not gamble.
 
-Mais après la retraite de Lee en 2019, l'ODC fut mis sous le boisseau. Le ministère de la Défense a acheté plus d'avions, plus de chars, et continue le programme national de sous-marins. Quand on a interrogé Lee, il a dit que la présidente Tsai Ing-wen était « la présidente la plus respectueuse des militaires » qu'il ait connue, mais a ajouté : « Comprend-elle vraiment l'ODC ? Je ne sais pas, parce que des personnes différentes peuvent l'interpréter différemment. »[^5]
+However, the ODC was cold-shouldered after Li retired in 2019. The Ministry of National Defense bought more fighter jets, more tanks, and continued to push the submarine domestic construction project. When reporters asked Li for his views, he said President Tsai Ing-wen was "the president who respects the military the most I have ever seen," but he added, "Whether she understands the ODC? I am not sure, because different people might make different interpretations."[^5]
 
-> **📝 Note du commissaire**
-> Le caractère contre-intuitif de l'ODC est qu'il défie l'identité de l'armée. Pour les militaires de carrière, « avions, navires, chars » sont les piliers de la culture des armes. Acheter des drones revient à reconnaître que les trois armées sont devenues « secondaires ». L'ODC mis de côté après le départ de Lee, c'est en partie un désaccord stratégique, en partie un instinct de survie d'arme.
+> **📝 Curator's Note**
+> The counter-intuitive nature of the ODC lies in the fact that it challenges the entire self-identity of the military. For professional soldiers, "fighter jets, warships, tanks" are the pillars of service culture; buying drones is equivalent to admitting that the Army, Navy, and Air Force have all become "secondary" roles. The reason the ODC was cold-shouldered after Li's retirement was partly due to strategic differences and partly due to service survival instincts.
 
-## De quatre mois à un an
+## From Four Months to One Year
 
-Le service militaire de Taïwan est le thermomètre de l'angoisse sécuritaire de l'île.
+Taiwan's military service system is the thermometer of the island's security anxiety.
 
-Années 1950 : trois ans. Au pic de la guerre froide, Taïwan maintenait 600 000 hommes en armes ; tout homme adulte servait. Après la fin de la guerre froide dans les années 1990, on commence à raccourcir ; dans les années 2000, on lance le « modèle mixte » ; en 2013, on tombe à quatre mois. Les commentateurs parlent de « colonie de vacances »[^6].
+In the 1950s, conscription was three years. During the height of the Cold War, Taiwan maintained a standing army of 600,000, with males enlisting upon reaching adulthood. Conscription was shortened starting in the 1990s after the Cold War ended. In the 2000s, "volunteer and conscript combined" was promoted, and in 2013, conscription was shortened to four months. Military commentators jokingly called this a "summer camp"[^6].
 
-Le tournant : la guerre russo-ukrainienne, février 2022. Un pays que l'on croyait capable de capituler en trois jours a tenu avec drones, lance-missiles portatifs Stinger et mobilisation totale, et a, en six mois, repoussé les forces russes hors de Kiev. La résonance dans la société taïwanaise fut indescriptible. Soudain, tout le monde se posait la question qu'on n'osait pas formuler : et si c'était nous ?
+The turning point was the Russia-Ukraine War in February 2022. A country once thought to surrender within three days held out using drones, portable Stinger missiles, and total mobilization, and drove the Russian army out of Kyiv within half a year. The resonance this war caused in Taiwanese society was indescribable. Suddenly, everyone was asking a question they had previously dared not ask: What if it were us?
 
-Le 27 décembre 2022, Tsai Ing-wen annonce en conférence de presse le retour à un an de service obligatoire, à compter de janvier 2024. Une « décision difficile mais nécessaire ». La solde mensuelle passe d'environ 6 500 NT$ à 26 307 NT$[^7].
+On December 27, 2022, Tsai Ing-wen stood at a press conference to announce the restoration of conscription to one year, effective from January 2024. She said this was a "difficult but necessary decision." The monthly salary for conscripts was raised from approximately NT$6,500 to NT$26,307[^7].
 
-Le contenu de la formation est aussi rénové : 8 semaines de classe, 18 en garnison, 7 en spécialisation, 13 en base, 6 d'exercices interarmes ; au moins 800 cartouches réelles pour les fusiliers. Comparé au cliché du « monter la garde et balayer » de l'ancien régime de quatre mois, c'est une refonte structurelle.
+The training content for the new one-year service was also renewed: 8 weeks of basic enlistment training, 18 weeks of garrison training, 7 weeks of specialized training, 13 weeks of base training, and 6 weeks of joint exercises. Rifleman live-fire shooting is not less than 800 rounds. Compared to the stereotypical impression of the old four-month system of "standing guard and sweeping floors," this was a backbone reconstruction.
 
-> **⚠️ Point de vue controversé**
-> Plus de 70 % des sondages soutiennent le retour à un an, mais les jeunes concernés réagissent de manière mixte. La VOA a interviewé plusieurs appelés : certains avouent la peur, d'autres doutent que la formation suffise, d'autres encore disent franchement « je ne veux pas mourir pour les erreurs des politiciens ». Les partisans estiment qu'il s'agit du minimum vital ; les critiques jugent un an encore insuffisant. Le service d'un an est à la fois un consensus et un compromis ; personne n'est vraiment satisfait, mais la majorité accepte que c'est l'étape la plus loin où l'on peut aller maintenant[^8].
+> **⚠️ Controversial Viewpoint**
+> Poll support for restoring one-year military service exceeds 70%, but the response of the young generation facing enlistment is complex. VOA interviewed several eligible conscripts; some admitted to "combat fear," some questioned whether one year of training could truly possess combat capability, and some directly stated, "I do not want to pay with my life for the mistakes of political figures." Supporters believe this is the minimum national defense obligation, while critics argue that one year is still not enough. One-year military service is both a consensus and a compromise; no one is truly satisfied, but most accept that this is the furthest they can go currently[^8].
 
-## Les 147 jours du Hai Kun
+## The 147 Days of Hai-Shun
 
-Taïwan dépend depuis longtemps des ventes d'armes américaines. F-16, missiles Patriot, chars M1A2, missiles Harpoon — presque tout l'armement lourd vient de Washington. La défense taïwanaise est donc liée à la volonté politique américaine : un changement à la Maison-Blanche peut accélérer ou ralentir les livraisons.
+Taiwan has long relied on US arms sales. F-16 fighter jets, Patriot missiles, M1A2 tanks, Harpoon missiles—almost all heavy equipment comes from Washington. This ties Taiwan's defense to US political will: if the White House changes hands, the speed of arms sales may change.
 
-L'« autonomie de défense » est devenue un objectif de long terme ; le programme phare est le sous-marin national. Le 28 septembre 2023, le premier sous-marin national, le « Hai Kun » (n° 711), est mis à l'eau aux chantiers CSBC de Kaohsiung. Long de 70 mètres, déplacement d'environ 2 500 tonnes, gouvernes en X. Tsai Ing-wen, ce jour-là : « L'histoire se souviendra de ce jour. » Le programme prévoit sept autres unités du même type[^9].
+"Defense Autonomy" has therefore become a long-term goal, with submarine domestic construction as the flagship project. On September 28, 2023, the first self-built submarine, "Hai-Shun" (Hull No. 711), was launched at the CSBC Kaohsiung Shipyard. The ship is 70 meters long with a displacement of approximately 2,500 tons, adopting an X-tail rudder design. Tsai Ing-wen said that day: "History will remember this day." The plan calls for the subsequent construction of seven more ships of the same class[^9].
 
-Mais ce dont l'histoire se souviendra, ce ne sera peut-être pas la cérémonie de mise à l'eau de 2023, mais les deux ans de retards qui ont suivi. La livraison initialement prévue en 2024 est repoussée ; ce n'est que le 17 juin 2025 que le Hai Kun entre en essais en mer, d'abord en surface, puis en plongée peu profonde, puis en plongée profonde. Au 28 novembre 2025, le Hai Kun, après 147 jours sans sortir en mer, repart pour des essais en surface — il reste plusieurs étapes critiques avant de finir les tests en plongée[^10].
+But history may not remember the launch ceremony of 2023, but the delays of the following two years. The delivery schedule originally set for 2024 was delayed; on June 17, 2025, Hai-Shun officially entered sea trials, first conducting surface floating tests, then shallow-water diving, and finally deep-water diving. By November 28, 2025, Hai-Shun ended a 147-day mooring period without going to sea and went to sea again for surface floating verification, with several key steps remaining before completing diving tests[^10].
 
-Interrogé sur le calendrier, le ministre de la Défense Wellington Koo a livré une réponse rare dans la haute hiérarchie : « Les autres pays construisent en général un sous-marin national en plus de 7 ans, parfois 16 ; on s'est fixé 5 ans, c'était trop optimiste, on n'a pas compris la réalité, surtout pas la situation locale. »[^11]
+When asked about Hai-Shun's schedule, Defense Minister Kuo Li-hsiung gave an answer rarely spoken by military high-ups: "Other countries' self-built new submarines usually take more than 7 years, with examples of 16 years. Our country originally set a 5-year schedule, which was overly optimistic, lacking understanding of reality, especially failing to consider national conditions."[^11]
 
-Koo n'a pas fixé de calendrier. Il a juste dit : « Nous n'engagerons les procédures de livraison qu'après que les essais seront complets et la sécurité assurée. »
+Kuo Li-hsiung did not set a delivery timeline. He only said: "Only when testing is complete and safe without any issues will the subsequent delivery procedures enter."
 
-> **✦** « L'histoire se souviendra de ce jour. » C'est ce que Tsai Ing-wen a dit le 28 septembre 2023, lors de la mise à l'eau du Hai Kun. Deux ans plus tard, le Hai Kun n'a toujours pas terminé ses essais en plongée. L'histoire s'en souviendra, mais pas forcément de la manière à laquelle pensait celle qui prononça ces mots.
+> **✦** "History will remember this day." These were Tsai Ing-wen's exact words at the Hai-Shun launch ceremony on September 28, 2023. Two years later, Hai-Shun has not yet completed diving tests. History will remember this day, but not necessarily in the way the person who said it that day intended.
 
-## Entre « le char le plus puissant » et « le drone le moins cher »
+## Between the "Strongest Tank" and the "Cheapest Drone"
 
-En novembre 2025, le gouvernement Lai propose la « Loi spéciale pour le renforcement de la résilience de défense et l'acquisition de capacités asymétriques », planifiant un budget spécial de 1 250 milliards de NT$ (environ 40 milliards USD) sur 8 ans. Si elle est adoptée, la dépense de défense passera de 2,5 % à 3,3 % du PIB. Environ 950 milliards (76 %) iront aux fabricants d'armes américains pour des plateformes traditionnelles[^12].
+In November 2025, the Lai Ching-te administration proposed the *Special Regulations on Strengthening National Defense Resilience and Procuring Asymmetric Combat Power*, planning a special defense budget of NT$1.25 trillion (approximately $40 billion USD) over 8 years. If passed, Taiwan's defense spending would rise from the current 2.5% of GDP to 3.3%. Of this, approximately NT$950 billion (76%) would flow to US arms dealers to purchase traditional weapon platforms[^12].
 
-L'autre moitié du tableau : plus de 200 000 drones de tous types et plus de mille bateaux sans équipage — multirotors d'observation, ailes fixes d'attaque, drones suicide. Environ 300 milliards seront fabriqués localement, pour bâtir une « chaîne d'approvisionnement non rouge » excluant les composants chinois[^13].
+The other half of the picture of the same budget: The plan calls for the procurement of over 200,000 drones of various types and over a thousand unmanned surface vessels, covering multi-rotor reconnaissance drones, fixed-wing attack drones, loitering munitions, etc. Approximately NT$300 billion will be manufactured locally in Taiwan, creating a so-called "non-red supply chain," an defense industrial system excluding Chinese components[^13].
 
-Mises côte à côte, ces deux moitiés sont la contradiction qui a fait sourire Lee Hsi-min : la stratégie du porc-épic est acceptée verbalement, mais le budget penche encore pour les grandes plateformes traditionnelles.
+Placing these two halves together reveals the contradiction of Li Hsi-ming's wry smile: The Porcupine Strategy is accepted in words, but the budget still favors traditional large-scale weapons.
 
-Le programme de drones nationaux du NCSIST (Institut national de sciences et technologies Chung-Shan) compte trois noms incarnant la « localisation de l'expérience ukrainienne » :
+At the same time, three names appear in the National Science and Technology Center (NSTC)'s domestic drone program, representing Taiwan's attempt to localize the "Ukraine experience":
 
-- **Chien Hsiang** : drone suicide anti-radiation, en série depuis 2023, 104 unités produites pour l'armée de l'air en six ans. Capable d'analyser les paramètres électroniques radar, il détecte les signaux de défense aérienne ennemie et frappe à grande vitesse — proche du concept israélien Harpy[^14]
-- **Tien Yi 2** : drone de reconnaissance moyen-long terme, envergure 12 m, portée de contrôle 300 km, autonomie max. 2 000 km, version « attaque » en développement
-- **Teng Yun 2** : drone MALE (moyenne altitude longue endurance), même moteur que le MQ-9B américain, plus de 20 h en vol, pas encore en série
+- **Chien Hsiang**: Anti-radiation loitering munition, mass-produced starting in 2023, producing 104 units for the Air Force within six years. It has radar electronic parameter analysis capabilities, capable of detecting enemy air defense radar signals and then conducting high-speed "suicide attacks," similar to the concept of the Israeli Harpy[^14].
+- **Rui Yuan Type II**: Medium-to-long range reconnaissance drone, with a wingspan of 12 meters, control distance of 300 kilometers, and maximum range of 2,000 kilometers; a derived "armed attack type" is under development.
+- **Teng Yun Type II**: MALE (Medium Altitude Long Endurance) large drone, using the same engine as the US military's MQ-9B, staying airborne for over 20 hours, not yet mass-produced.
 
-Les trois ne sont ni bon marché ni « massifs ». Les vrais 200 000 drones seront probablement des drones tactiques bien plus petits et bon marché, peut-être imprimés en 3D. Sur le front ukrainien, un drone FPV à quelques dizaines de milliers de NT$ peut détruire un char à plusieurs centaines de millions ; cette équation a changé tous les calculs des armées modernes.
+None of the three are cheap, nor are they considered "mass-produced." The true 200,000 units will likely be smaller, cheaper, possibly even 3D-printed tactical drones. On the Ukraine battlefield, an FPV drone costing tens of thousands of yuan can destroy a tank worth hundreds of millions. This calculation has changed the way all modern armies compute.
 
-Mais le sort des 1 250 milliards n'est pas une question stratégique, c'est une question politique. Depuis le 2 décembre 2025, le Yuan législatif, dominé par l'opposition, a bloqué le budget spécial au moins huit fois. L'opposition conteste la méthode budgétaire et les mécanismes de contrôle ; le pouvoir accuse de bloquer la défense en bloquant le budget. Lors des visites de délégations parlementaires américaines, plusieurs ont publiquement exhorté le Yuan à voter le budget ; le représentant en poste à Taïwan a, fait rare, parlé directement en faveur[^15].
+But the fate of the NT$1.25 trillion budget is not a strategic issue, but a political one. Since December 2, 2025, the opposition-dominated Legislative Yuan has blocked the special budget bill at least eight times. The opposition questions the budget compilation method and supervision mechanism, while the ruling party accuses blocking the budget as blocking national defense. A US Congressional delegation visiting Taiwan publicly called on the Legislative Yuan to pass the budget, and the Taiwan Representative to the US spoke in support directly[^15].
 
-Cette bataille au Yuan révèle la troisième couche de contradiction : décider de dépenser et comment dépenser, c'est déjà la question la plus sensible des relations entre les deux rives.
+This Legislative Yuan offensive and defensive battle is actually the third layer of contradiction in Taiwan's defense: Whether to spend this money and how to spend it is itself the most sensitive issue in cross-strait relations.
 
-> **📝 Note du commissaire**
-> Le budget de défense est un miroir : il ne reflète pas la puissance militaire mais la volonté politique. Beaucoup de pays peuvent acheter des armes, peu acceptent de payer politiquement pour le faire. Taïwan est les deux à la fois : riche et divisé. Le vrai pari de 1 250 milliards n'est pas dans l'acquisition, mais dans la capacité même à passer politiquement.
+> **📝 Curator's Note**
+> National defense budgets are a mirror, reflecting not military power but political will. Many countries have money to buy weapons; few are willing to bear political costs to buy weapons. Taiwan is both of these countries, both wealthy and divided. The true bet of the NT$1.25 trillion is not what is procured, but "whether it can pass politically" itself.
 
-## Kuma Academy : la lettre ouverte de Chen Shui-bian
+## Black Bear Academy: Chen Shui-bian's Open Letter
 
-La transformation la plus profonde de la défense taïwanaise n'est pas dans les listes d'armes ; elle est dans les conversations de salon et de café.
+The deepest transformation in Taiwan's defense is not in the weapon list, but in the conversations in living rooms and coffee shops.
 
-La « Kuma Academy » est une organisation civile fondée en 2021 par le professeur de criminologie Puma Shen (NTPU) et le chercheur en défense civile Ho Cheng-hui, axée sur l'éducation à la « défense de tous ». Le programme de base comporte quatre cours : démythifier les rumeurs militaires (vulgarisation), reconnaître la désinformation et la guerre cognitive, premiers secours et hémostase en temps de guerre, planification d'évacuation[^16].
+"Black Bear Academy" is a civilian organization founded in 2021 by Shen Po-yang, a professor of criminology at National Taipei University, and Ho Cheng-hui, a senior civil defense researcher. It focuses on "Total Defense" education. Its basic camp has four classes: modern military science popularization to break military rumors, information identification and cognitive warfare to break fake news, wartime first aid止血 and casualty transport, and evacuation preparation planning[^16].
 
-En 2022, l'industriel des semi-conducteurs Robert Tsao annonce un don de 600 millions de NT$. Le 7 janvier 2025, l'ancien président Chen Shui-bian révèle publiquement en ligne que Tsao a tenu sa promesse et que l'objectif fixé est de « former 300 000 guerriers ours noirs en 3 ans » — environ un tiers des 9 millions de foyers taïwanais —, en espérant qu'au moins une personne par foyer dispose des connaissances de base en défense[^17].
+In 2022, semiconductor entrepreneur Tsao Hsing-cheng announced a donation of NT$600 million to fund Black Bear Academy. On January 7, 2025, former President Chen Shui-bian publicly disclosed on the internet that Tsao Hsing-cheng had fulfilled this commitment, revealing that the goal set between the two was to "train 3 million Black Bear Warriors within 3 years," accounting for about one-third of Taiwan's 9 million households, hoping that at least one person in each household would possess basic defense knowledge[^17].
 
-Les cours sont saturés depuis l'ouverture. Une participante, dans une interview à _Global Views_ : « Je ne veux pas faire la guerre, je veux juste, en cas de guerre, savoir comment protéger mes enfants. » Cette phrase est devenue le slogan publicitaire de la Kuma Academy[^18].
+Black Bear Academy's classes were full from the start. A female student said in a *Vision* magazine interview: "I don't want to fight a war; I just don't want to be unable to protect my children when war comes." This sentence later became Black Bear Academy's own promotional copy[^18].
 
-> **✦** « Je ne veux pas faire la guerre, je veux juste, en cas de guerre, savoir comment protéger mes enfants. » C'est la phrase la plus honnête de la conscience de défense taïwanaise en 2026. Ce n'est pas du patriotisme, c'est l'instinct familial le plus primitif.
+> **✦** "I don't want to fight a war; I just don't want to be unable to protect my children when war comes." This is the most honest sentence in Taiwan's defense consciousness in 2026. It is not patriotism; it is the most primitive family instinct.
 
-La loi sur la mobilisation pour la défense de tous a aussi établi le système de mobilisation des réservistes. Depuis 2022, les rappels passent de 5 à 14 jours, avec une intensité fortement accrue. L'estimation officielle dépasse 2 millions de réservistes mobilisables ; ajouté aux 180 000 actifs, cela représente, en théorie, près d'un dixième de la population active mobilisable en cas de guerre.
+The Total Defense Mobilization Preparation Act simultaneously established a reserve mobilization system. After 2022, reserve training expanded from 5 days to 14 days, significantly increasing training intensity. Official estimates suggest that over 2 million reservists can be mobilized. This number, added to the 180,000 standing army, means that in wartime, the theoretically mobilizable armed manpower approaches one-tenth of Taiwan's labor force.
 
-## Han Kuang n° 41 : 10 jours et 9 nuits de défense en profondeur
+## Han Kuang 41: Ten Days and Nine Nights of Depth Defense
 
-Le 9 juillet 2025 à l'aube, l'exercice Han Kuang n° 41 démarre simultanément dans tout Taïwan. 10 jours et 9 nuits, le plus long depuis la création des exercices en 1984, mobilisant 20 000 réservistes, le plus grand nombre[^19].
+At dawn on July 9, 2025, the Han Kuang 41 exercise unfolded simultaneously across Taiwan. Lasting 10 days and 9 nights, it was the longest in the history of the Han Kuang exercises since their inception in 1984, mobilizing 20,000 reservists, also the largest number[^19].
 
-Ce qui distingue le plus Han Kuang 41 des précédents, c'est l'esprit du scénario. Avant, les exercices tendaient à montrer la pompe : chars défilant, avions rasant, navires en formation. Le scénario central de Han Kuang 41 est cruel : **l'armée taïwanaise n'aura qu'une supériorité aérienne partielle en temps de guerre, et devra mener une guerre prolongée**.
+The biggest difference between Han Kuang 41 and the past is the mood of the script. Past Han Kuang exercises tended to display military might: tank formations, fighter jets skimming the sky, naval ship formations. The core assumption of Han Kuang 41 is cruel: **The ROC Armed Forces will only possess partial air superiority in wartime and must fight a protracted war.**
 
-L'exercice se déroule en six phases :
+The exercise is divided into six stages:
 
-1. **Jours 1-3** : harcèlement chinois en zone grise ; Taïwan entre en « gestion de crise normale ». C'est la leçon de la guerre ukrainienne : la guerre ne commence pas avec les chars qui passent la frontière, mais avec le harcèlement des bateaux de pêche, le brouillage des communications et les flots de fausses informations.
-2. **Jour 4** : préparation, mouvements de troupes, mise en place des positions
-3. **Jours 5-10** : guerre déclarée, en quatre sous-phases : « anti-débarquement, combat littoral, défense en profondeur, guerre prolongée »
+1. **Days 1-3**: Chinese gray zone harassment, Taiwan enters "normal crisis handling." This is a lesson from the Russia-Ukraine War for Taiwan; war does not start with tanks crossing the border, but with fishing boat harassment, communication jamming, and floods of fake news.
+2. **Day 4**: Combat preparation deployment, moving troops and setting up positions.
+3. **Days 5-10**: Formal outbreak of war, divided into four sub-stages: "Anti-landing, Coastal Battle, Depth Defense, Protracted War."
 
-Les trois dernières — combat littoral, défense en profondeur, guerre prolongée — sont la vraie nouveauté. Han Kuang 41 reconnaît clairement : l'armée d'active ne peut pas tenir toute la profondeur ; les réservistes doivent monter en seconde ligne, freiner l'ennemi avec les appelés et les unités de réserve, pour permettre aux unités principales (volontaires) de trouver des failles pour contre-attaquer.
+The last three sub-stages—Coastal Battle, Depth Defense, Protracted War—are the true new things in Han Kuang 41. It explicitly acknowledges: The standing army cannot defend the entire depth; reservists must go to the second line, using conscripts and reserve units to drag down the invading enemy, allowing volunteer-formed main combat units to find gaps to counterattack.
 
-C'est l'ombre de l'ODC. L'idée originale de Lee : faire de Taïwan un « filet », céder de la profondeur quand le front ne tient plus, faire payer l'ennemi à chaque pas. Han Kuang 41 est la première mise en œuvre systémique de ce concept dans un script d'exercice[^20].
+This is the shadow of the ODC. Li Hsi-ming's idea was to turn Taiwan into a "net"; if the front cannot be held, retreat to the depth, making the enemy pay a price wherever they retreat. Han Kuang 41 is the first time this concept is systematically adopted in the exercise script[^20].
 
-| Crise des missiles 1995     | 2026                                           |
-| --------------------------- | ---------------------------------------------- |
-| 600 000 actifs              | 180 000 actifs + 2 000 000 réservistes         |
-| Service de 2 ans            | 1 an + force volontaire dominante              |
-| Décision sur la plage       | Zone grise → profondeur → guerre prolongée     |
-| Armes 100 % USA             | USA dominant + autonomie complémentaire        |
-| Grands navires, gros canons | Drones × missiles mobiles × mines              |
-| Défense civile = accessoire | Défense civile = trésorerie de la Kuma Academy |
+| 1995 Missile Crisis | 2026 |
+| ----------------- | ------------------------ |
+| 600,000 Standing Army | 180,000 Standing + 2 Million Reservists |
+| 2-Year Conscription | 1-Year Conscription + Volunteer Core |
+| Beachhead Decisive Battle Mindset | Gray Zone → Depth → Protracted War |
+| Weapons Entirely from US Aid | US Aid Main + Defense Autonomy Reinforcement |
+| Big Ships and Big Guns | Drones × Mobile Missiles × Mines |
+| Civil Defense as Exercise Props | Civil Defense as Black Bear Academy's Cash Flow |
 
-## 160 km et un pari
+## 160 Kilometers and a Bet
 
-Le détroit de Taïwan fait au plus étroit 130 km, au plus large 400 km. Cette eau est appelée, en doctrine militaire, une barrière naturelle d'« anti-accès / déni de zone » (A2/AD). Pour traverser, l'APL ne lui faudrait pas seulement des navires et des avions, mais des semaines de supériorité aérienne et navale et une capacité de débarquement amphibie — ce que seules deux ou trois armées au monde maîtrisent[^21].
+The narrowest point of the Taiwan Strait is approximately 130 kilometers, and the widest is approximately 400 kilometers. This body of water is referred to in military academia as a natural barrier of "Anti-Access/Area Denial" (A2/AD). For the PLA to cross the Taiwan Strait, it needs not just ships and aircraft, but continuous weeks of air and sea superiority and amphibious landing capability. This is something only two or three existing armies in the world can do[^21].
 
-La stratégie taïwanaise repose sur un calcul froid : **inutile de gagner, il faut tenir jusqu'à l'intervention internationale**. Le porc-épic n'a pas à battre le chasseur ; il lui suffit de lui faire penser que « ça ne vaut pas le coup ». Les chars M1A2T, les F-16V, le sous-marin Hai Kun n'ont pas pour mission de battre l'APL ; leur mission est de gagner du temps. Les 200 000 drones, les 20 000 réservistes et les 3 millions de guerriers ours noirs font la même chose.
+Taiwan's defense strategy is built on a cold calculation: **No need to win, only need to hold out until international intervention intervenes.** A porcupine does not need to defeat the hunter; it only needs to make the hunter feel "eating this is not worth it." M1A2T tanks, F-16V fighter jets, Hai-Shun submarines—their mission is not to defeat the PLA, but to buy time. 200,000 drones, 20,000 reservists, 3 million Black Bear Warriors are doing the same thing.
 
-Mais le calcul présuppose que la communauté internationale interviendra.
+But the premise of this calculation is: The international community will intervene.
 
-Les F-16V Block 70, prévus pour 2024, sont retardés à 2027 par les problèmes de chaîne et de logiciels américains[^22]. Le Hai Kun a plus de deux ans de retard. Le budget spécial de 1 250 milliards a été bloqué huit fois au Yuan. Les chars M1A2T sont arrivés à temps — mais ce sont, aux yeux de Lee Hsi-min, ces armes-là qui posent la question : « comment un char peut-il être asymétrique ? » Chaque calendrier, chaque budget, chaque équipement rappelle la même chose : la défense de Taïwan n'est pas le projet de Taïwan seul.
+The F-16V Block 70 was originally scheduled for delivery in 2024, but due to US supply chain and software issues, it was delayed until 2027[^22]. Hai-Shun's delay from launch to expected delivery exceeded two years. The NT$1.25 trillion special budget was blocked eight times in the Legislative Yuan. M1A2T tanks arrived in Taiwan as scheduled, but it is the kind of weapon Li Hsi-ming sees as "how can a tank be an asymmetric weapon." Every schedule, every budget, every type of equipment reminds us of the same thing: Taiwan's defense is not a plan for Taiwan alone.
 
-**Pour aller plus loin** :
+**Further Reading**:
 
-- [Crises du détroit et relations entre les deux rives](/history/台海危機與兩岸關係發展) — Comment trois crises ont façonné la logique militaire actuelle entre les deux rives
-- [Alliés diplomatiques et relations internationales de Taïwan](/society/台灣邦交國與國際外交) — Au-delà de l'autodéfense, l'autre voie : la percée diplomatique
-- [Environnement politique et système électoral de Taïwan](/society/台灣政治環境與選舉制度) — Pourquoi les 1 250 milliards ont été bloqués huit fois
-- [Industrie de la cybersécurité à Taïwan](/technology/台灣資安產業發展) — La première ligne de la guerre en zone grise n'est pas les mines, ce sont les pare-feu
-- [Industrie spatiale taïwanaise](/technology/台灣太空產業發展) — Du satellite civil à la communication militaire, l'espace nouveau front de la résilience
-- [Rencontre Cheng-Xi 2026](/society/2026鄭習會與國共十年再會) — Quand Cheng Li-wen évoque les « arrangements institutionnels pour prévenir la guerre », c'est la bataille politique du budget de défense
-- [Puma Shen](/people/沈伯洋) — Co-fondateur de la Kuma Academy
+- [Taiwan Strait Crisis and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — How three Taiwan Strait crises shaped the structural logic of today's cross-strait military confrontation
+- [Taiwan's Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — Another path beyond military self-preservation: Taiwan's diplomatic breakthrough in finding presence in the international system
+- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — Why the NT$1.25 trillion special budget was blocked eight times in the Legislative Yuan; national defense is not decided by a single government
+- [Taiwan's Cybersecurity Industry Development](/technology/台灣資安產業發展) — The frontline of gray zone warfare is not mines, but firewalls
+- [Taiwan's Aerospace Industry Development](/technology/台灣太空產業發展) — From civilian satellites to defense communications, space is the new battlefield for Taiwan's national defense resilience
+- [2026 Cheng-Xi Meeting: Ten Minutes of the First Reunion of KMT and CCP Leaders in Ten Years](/society/2026鄭習會與國共十年再會) — When Cheng Li-wen proposed "institutional arrangements to prevent war," behind it is the political offensive and defensive battle of the national defense special budget
+- [Shen Po-yang](/people/沈伯洋) — Co-founder of Black Bear Academy, strengthening Taiwan's total defense resilience through civil defense education; investigated by China for "crime of splitting the country" after studying CCP cognitive warfare for seven years
+- [Chuo Rong-tai](/people/卓榮泰) — Main proponent of the NT$1.25 trillion national defense special budget at the Executive Yuan, proposer of "Taiwan's Shield" and "Three Good Balls"
+- [Lu Hsiu-yen](/people/盧秀燕) — Vice Chairman of the KMT / Mayor of Taichung, adopted a "NT$800 billion - 1 Trillion" middle-ground stance in the 2026 arms purchase controversy
+- [Hsu Chiao-hsin](/people/徐巧芯) — KMT Legislator / Proponent of the NT$800 billion arms purchase version, political prototype of repeated clashes with Lai Ching-te on the interrogation stage
+- [Chi Lin-lien](/people/季麟連) — Vice Chairman of the KMT / Retired Lieutenant General, ignited the KMT's arms purchase route split at the Central Executive Committee meeting on April 29
 
-## Références
+## References
 
-[^1]: [UDN — Cérémonie d'incorporation du bataillon M1A2T](https://udn.com/news/story/10930/9108896)
+[^1]: [UDN News: Generational Transition! M1A2T Tank Battalion Commissioned, Yonghu Tank Hands Over Combat Mission](https://udn.com/news/story/10930/9108896) — In October 2025, Lai Ching-te personally presided over the commissioning ceremony of the first M1A2T tank battalion in Hukou, recording the complete process of the first batch of 38 units arriving in December 2024, the second batch of 42 units arriving in July 2025, and deployment at the 584th Armored Brigade and 269th Mechanized Brigade.
 
-[^2]: [China Times — Lee Hsi-min sur l'ODC renversé](https://www.chinatimes.com/realtimenews/20220902003585-260407)
+[^2]: [China Times News Network: ODC Pushed During Tenure Overturned, Former Chief of General Staff Li Hsi-ming Says This](https://www.chinatimes.com/realtimenews/20220902003585-260407) — Li Hsi-ming's comment on the Ministry of National Defense's procurement of M1A2 tanks under the rationale of "beachhead decisive battle," the exact quote "Seeing this, I can only smile wryly. If tanks can be asymmetric weapons, what is not an asymmetric weapon," is the key statement for understanding the gap between ODC and actual national defense policy.
 
-[^3]: [Wikipédia — Stratégie du porc-épic](https://zh.wikipedia.org/zh-tw/%E8%B1%AA%E8%B1%AC%E6%88%B0%E7%95%A5)
+[^3]: [Wikipedia: Porcupine Strategy](https://zh.wikipedia.org/zh-tw/%E8%B1%AA%E8%B1%AC%E6%88%B0%E7%95%A5) — In 2008, William Murray, a professor at the US Naval War College, first proposed the concept of the Porcupine Strategy in a paper, arguing that Taiwan should abandon expensive large-scale weapon platforms and instead invest in land-based mobile missiles, mines, air defense systems, and other asymmetric combat power.
 
-[^4]: [Opinion UDN — Concept de défense globale par Lee Hsi-min](https://opinion.udn.com/opinion/story/10124/5024202)
+[^4]: [Ming Pao Online: Li Hsi-ming, Li Ai-rui — Explanation of the Overall Defense Concept](https://opinion.udn.com/opinion/story/10124/5024202) — Former Chief of the General Staff Li Hsi-ming personally wrote an article elaborating on the core concept of the ODC: replacing a small number of expensive large-scale platforms with numerous small, mobile, low-cost weapon systems, with the goal of preventing the PLA from successfully invading or politically controlling Taiwan.
 
-[^5]: [Liberty Times — Tsai et l'ODC](https://news.ltn.com.tw/news/politics/breakingnews/4046270)
+[^5]: [Liberty Times Net: Tsai Ing-wen Supports Overall Defense Concept, Li Hsi-ming Says This Is the President Who Respects the Military Most I Have Ever Seen](https://news.ltn.com.tw/news/politics/breakingnews/4046270) — In an interview, Li Hsi-ming commented on Tsai Ing-wen's attitude of support for the ODC, while tactfully pointing out "Whether she understands the ODC? I am not sure," reflecting that the ODC continues to encounter resistance at the policy execution level.
 
-[^6]: [ETtoday — Évolution du service militaire](https://www.ettoday.net/news/20221227/2409475.htm)
+[^6]: [ETtoday: Military Service Lengthened for the First Time in 70 Years, From 3 Years to 4 Months to 1 Year](https://www.ettoday.net/news/20221227/2409475.htm) — The complete institutional evolution of Taiwan's conscription from the 1950s three-year term, to the 2013 four-month term, to the 2024 restoration of one year, including the historical background of the 600,000 standing army during the Cold War.
 
-[^7]: [Future City CW — Détails de l'extension du service](https://futurecity.cw.com.tw/article/2913)
+[^7]: [Global Views Monthly City: Details of the Implementation of Extended Military Service at a Glance](https://futurecity.cw.com.tw/article/2913) — Details of Tsai Ing-wen's press conference on December 27, 2022, announcing the restoration of one-year military service, including monthly salary raised from NT$6,500 to NT$26,307, the 8+18+7+13+6 week training structure, and the complete plan for 800 rounds of rifle live-fire.
 
-[^8]: [VOA — Réactions complexes des appelés](https://www.voacantonese.com/a/the-real-military-front-liners-what-do-taiwanese-young-men-say-123023/7418748.html)
+[^8]: [VOA: Taiwan Restarts One-Year Military Service, Eligible Males' Reactions Are Complex](https://www.voacantonese.com/a/the-real-military-front-liners-what-do-taiwanese-young-men-say-123023/7418748.html) — Interviews with several eligible conscripts on their complex reactions to the restoration of one-year military service, including combat fear psychology, questioning of training quality, and direct statements like "I do not want to pay with my life for the mistakes of political figures."
 
-[^9]: [Présidence — Achèvement du Hai Kun](https://www.president.gov.tw/News/27939)
+[^9]: [Office of the President News: First Self-Built Submarine Hai-Shun Warship Completed](https://www.president.gov.tw/News/27939) — Record of the naming ceremony of Hai-Shun launched at the CSBC Kaohsiung Shipyard on September 28, 2023, including Tsai Ing-wen's exact words "History will remember this day," ship length of 70 meters, displacement of 2,500 tons, and the complete plan for the subsequent construction of seven more ships.
 
-[^10]: [Newtalk — Tests en surface du Hai Kun](https://newtalk.tw/news/view/2025-11-28/1007039)
+[^10]: [Newtalk News: Hai-Shun Conducts Surface Floating Tests for Two Consecutive Days, Rushing Progress Toward Key Step of Diving](https://newtalk.tw/news/view/2025-11-28/1007039) — Record of Hai-Shun ending a 147-day mooring period and going to sea again for surface floating tests on November 28, 2025, explaining that tests are divided into surface floating, shallow-water diving, and deep-water diving stages, currently still in preliminary verification.
 
-[^11]: [Epoch Times — Wellington Koo : « trop optimiste »](https://www.epochtimes.com/b5/25/10/20/n14620177.htm)
+[^11]: [The Epoch Times: Hai-Shun Delivery Delayed, Defense Minister Admits Initial Optimism Was Too High](https://www.epochtimes.com/b5/25/10/20/n14620177.htm) — Defense Minister Kuo Li-hsiung admitted in the Legislative Yuan that the 5-year construction schedule was "overly optimistic," contrasting with other countries' 7 to 16-year construction cycles, a rare statement by military high-ups admitting that the schedule design for self-built submarines is unrealistic.
 
-[^12]: [Global Taiwan Institute — Contenu et controverses du budget spécial](https://globaltaiwan.org/2026/03/the-contents-and-controversies-of-taiwans-special-defense-budget/)
+[^12]: [Global Taiwan Institute: Contents and Controversies of Taiwan's Special Defense Budget](https://globaltaiwan.org/2026/03/the-contents-and-controversies-of-taiwans-special-defense-budget/) — Complete analysis of the NT$1.25 trillion special budget, including the 8-year schedule from 2026-2033, GDP share rising from 2.5% to 3.3%, and the budget structure where NT$950 billion (76%) flows to US arms dealers.
 
-[^13]: [TechNews — 200 000 drones dans le budget de 1 250 Mds](https://finance.technews.tw/2026/01/26/non-red-supply-chain/)
+[^13]: [TechNews: Ministry of National Defense NT$1.25 Trillion Budget Confirms 200,000 Drones](https://finance.technews.tw/2026/01/26/non-red-supply-chain/) — Specific procurement plans for 200,000 drones of various types, over a thousand unmanned surface vessels, NT$300 billion in local manufacturing, and the concept of a "non-red supply chain."
 
-[^14]: [Liberty Times Defense — NCSIST drone Teng Yun](https://def.ltn.com.tw/article/breakingnews/4982215)
+[^14]: [Liberty Times Military Channel: Strengthening MIT Drones, NSTC Will Release Teng Yun, Red Sparrow Type III Drone Technology Again](https://def.ltn.com.tw/article/breakingnews/4982215) — Current status of NSTC domestic drone programs, including Chien Hsiang anti-radiation loitering munition 104 units in 6 years, Teng Yun Type II MALE large drone, and Rui Yuan Type II reconnaissance drone with 12-meter wingspan and 2000-kilometer range technical specifications.
 
-[^15]: [NPR — Plan de défense bloqué au Yuan](https://www.npr.org/2026/01/22/nx-s1-5683130/taiwan-defense-spending)
+[^15]: [NPR: Taiwan president's defense plan hits gridlock as China ramps up pressure](https://www.npr.org/2026/01/22/nx-s1-5683130/taiwan-defense-spending) — Complete political struggle record of the NT$1.25 trillion special budget being blocked at least eight times in the Legislative Yuan since December 2, 2025, including opposition party positions and events of a US Congressional delegation visiting Taiwan to voice support.
 
-[^16]: [Wikipédia — Kuma Academy](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2)
+[^16]: [Wikipedia: Black Bear Academy](https://zh.wikipedia.org/zh-tw/%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2) — Black Bear Academy was co-founded in 2021 by Shen Po-yang (professor of criminology at National Taipei University) and Ho Cheng-hui (senior civil defense researcher), with a complete course structure of the basic camp's four classes: "modern military science popularization, information identification and cognitive warfare, basic first aid and hemostasis, evacuation preparation."
 
-[^17]: [Liberty Times — Tsao 600 M, objectif 3 millions](https://news.ltn.com.tw/news/politics/breakingnews/4045927)
+[^17]: [Liberty Times Net: Tsao Hsing-cheng Donates NT$600 Million! Black Bear Academy Background Questioned, Shen Po-yang's Thousand-Word Article Appeals to Original Intent](https://news.ltn.com.tw/news/politics/breakingnews/4045927) — The story behind Tsao Hsing-cheng's announcement of a NT$600 million donation to Black Bear Academy in 2022, and the process of setting the goal of "training 3 million Black Bear Warriors within 3 years" disclosed by former President Chen Shui-bian on January 7, 2025.
 
-[^18]: [Global Views — Pourquoi tant de femmes à la Kuma Academy](https://www.gvm.com.tw/article/96386)
+[^18]: [Vision Magazine: No Militia Training! Revealing Tsao Hsing-cheng's Black Bear Academy, Why Female Students Are Surprisingly Many](https://www.gvm.com.tw/article/96386) — Analysis of Black Bear Academy student structure and on-site course reports, including the interview quote from a female student: "I don't want to fight a war; I just don't want to be unable to protect my children when war comes."
 
-[^19]: [The Reporter — Han Kuang 41 sur le terrain](https://www.twreporter.org/a/2025-han-kuang-exercise)
+[^19]: [The Reporter: On-site Observation of Han Kuang 41 Exercise — From National Defense Depth to National Unity, Taiwan's New Grand Strategy](https://www.twreporter.org/a/2025-han-kuang-exercise) — In-depth on-site observation of the Han Kuang 41 exercise from July 9-18, 2025, including the longest 10 days and 9 nights in history, mobilization of 20,000 reservists, and complete analysis of the depth defense strategic transformation.
 
-[^20]: [Liberty Times Defense — Han Kuang 41 : guerre prolongée](https://def.ltn.com.tw/article/breakingnews/5092088)
+[^20]: [Liberty Times Military Channel: Han Kuang 41 Exercise Extreme Training, Simulating ROC Armed Forces Only Having Partial Air Superiority, Must Fight Protracted War](https://def.ltn.com.tw/article/breakingnews/5092088) — Tactical design and ODC impact analysis of the Han Kuang 41 exercise's six-stage script (Gray Zone → Combat Preparation Deployment → Anti-landing → Coastal Battle → Depth Defense → Protracted War).
 
-[^21]: [Yuan exécutif — Présentation de la défense](https://www.ey.gov.tw/state/B099023D3EE2B593/a3105a8d-dd44-4587-8627-92eafef30973)
+[^21]: [Executive Yuan National Condition Briefing: National Defense](https://www.ey.gov.tw/state/B099023D3EE2B593/a3105a8d-dd44-4587-8627-92eafef30973) — Overview of the Republic of China's national defense policy, adhering to the "Defensive Defense, Multi-layer Deterrence" military strategy concept, discussing the geographical barrier of the Taiwan Strait's 130-400 kilometer width.
 
-[^22]: [Flight Global — Livraison F-16 Block 70 reportée à 2027](https://www.flightglobal.com/fixed-wing/taiwan-f-16-block-70-deliveries-slip-into-2027/165025.article)
+[^22]: [Flight Global: Taiwan F-16 Block 70 deliveries slip into 2027](https://www.flightglobal.com/fixed-wing/taiwan-f-16-block-70-deliveries-slip-into-2027/165025.article) — Taiwan's procurement of 66 F-16V Block 70 (an $8 billion contract) delivery schedule is delayed to 2027 due to Lockheed Martin supply chain and software issues, with delivery expected to be completed by the end of 2028.

@@ -20,6 +20,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Society/台灣再生醫療雙法沿革從業人員告白.md'
 sourceCommitSha: 'eb57c596'
 sourceContentHash: 'sha256:2089e1e69b688487'
+sourceBodyHash: 'sha256:5509b7826b80ddd5'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

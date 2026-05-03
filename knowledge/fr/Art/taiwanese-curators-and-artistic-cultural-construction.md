@@ -12,6 +12,7 @@ lastVerified: 2026-03-24
 translatedFrom: "Art/台灣策展人與藝術文化建構.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:321e09715c3afee4"
+sourceBodyHash: 'sha256:3ddfebeada2ca7e5'
 translatedAt: "2026-04-14T19:13:49+08:00"
 ---
 

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣麻將與明星三缺一.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:ef208b370e332f10'
+sourceBodyHash: 'sha256:1f3fd4501700702b'
 translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 

@@ -24,6 +24,7 @@ lastHumanReview: false
 translatedFrom: "Technology/電子商務與數位支付生態系.md"
 sourceCommitSha: "e844a4b8"
 sourceContentHash: "sha256:e6d4ecca5e8c9269"
+sourceBodyHash: 'sha256:8a4126afbbcc2d61'
 translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 

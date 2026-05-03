@@ -2,6 +2,7 @@
 translatedFrom: People/楊致遠.md
 sourceCommitSha: abf94a40
 sourceContentHash: sha256:7eb1ec67bda096c8
+sourceBodyHash: 'sha256:e0245844724d0a9c'
 translatedAt: '2026-05-01T14:48:26+08:00'
 category: People
 date: 2026-04-29

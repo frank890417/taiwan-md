@@ -21,6 +21,7 @@ translatedFrom: 'People/莫那·魯道.md'
 lastVerified: 2026-03-25T00:00:00Z
 sourceCommitSha: '221b1708'
 sourceContentHash: 'sha256:87f54ad98e5a6fd1'
+sourceBodyHash: 'sha256:b0bcf45b1cb74d70'
 translatedAt: '2026-04-14T19:16:43+08:00'
 ---
 

@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Technology/不入地窖焉能睡覺.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:d882a7c06037e89c'
+sourceBodyHash: 'sha256:abaef255e91e930b'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

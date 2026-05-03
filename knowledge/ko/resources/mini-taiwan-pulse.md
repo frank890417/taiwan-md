@@ -6,6 +6,7 @@ tags: [리소스, 공개데이터, 시각화, 교통, 3D, 실시간, Taiwan.md]
 translatedFrom: resources/mini-taiwan-pulse.md
 sourceCommitSha: 528d1c04
 sourceContentHash: sha256:409b7d5c9d0f3bbd
+sourceBodyHash: 'sha256:215016d553b05404'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

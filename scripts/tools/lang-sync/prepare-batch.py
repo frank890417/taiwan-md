@@ -33,8 +33,25 @@ KNOWLEDGE = REPO / "knowledge"
 TASKS = REPO / ".lang-sync-tasks"
 
 
+_TRAILER_PATTERNS = [
+    r"\n#{1,4}\s*延伸閱讀\s*\n.*?(?=\n#{1,4}\s|\Z)",
+    r"\n#{1,4}\s*參考(?:資料|來源)?\s*\n.*?(?=\n#{1,4}\s|\Z)",
+    r"\n#{1,4}\s*(?:同分類更多文章|相關閱讀|延伸資源|See also)\s*\n.*?(?=\n#{1,4}\s|\Z)",
+    r"\n_v\d+\.\d+[^\n]*$",
+]
+
+
+def _body_hash_pure(body: str) -> str:
+    """Same as status.py body_hash_pure — strip trailers + footnote defs (DNA #38 第 2 次)."""
+    for pattern in _TRAILER_PATTERNS:
+        body = re.sub(pattern, "", body, flags=re.DOTALL | re.MULTILINE)
+    body = re.sub(r"\n\[\^[\w-]+\]:\s.+?(?=\n\[\^|\n#|\Z)", "\n", body, flags=re.DOTALL)
+    body = re.sub(r"\n{3,}", "\n\n", body).strip()
+    return "sha256:" + hashlib.sha256(body.encode("utf-8")).hexdigest()[:16]
+
+
 def get_zh_meta(zh_path):
-    """Get zh HEAD sha + body content hash."""
+    """Get zh HEAD sha + content hash + body hash (trailer-stripped pure narrative)."""
     full = KNOWLEDGE / zh_path
     sha = subprocess.check_output(
         ["git", "log", "-1", "--format=%h", "--", f"knowledge/{zh_path}"],
@@ -46,8 +63,9 @@ def get_zh_meta(zh_path):
         body = content[e + 3:] if e != -1 else content
     else:
         body = content
-    h = "sha256:" + hashlib.sha256(body.encode()).hexdigest()[:16]
-    return sha, h
+    content_hash = "sha256:" + hashlib.sha256(body.encode()).hexdigest()[:16]
+    body_hash = _body_hash_pure(body)
+    return sha, content_hash, body_hash
 
 
 def extract_wikilinks(zh_path):
@@ -180,7 +198,7 @@ def main():
                 missing_slugs.append((zh_path, slug))
             en_path = f"knowledge/{args.lang}/{category}/{slug}.md"
 
-        sha, content_hash = get_zh_meta(zh_path)
+        sha, content_hash, body_hash = get_zh_meta(zh_path)
 
         wikilinks = extract_wikilinks(zh_path)
         target_map = {}
@@ -196,12 +214,14 @@ def main():
             "slug": slug,
             "zh_head_sha": sha,
             "zh_content_hash": content_hash,
+            "zh_body_hash": body_hash,
             "_zh_size": (KNOWLEDGE / zh_path).stat().st_size,
             "wikilink_targets": target_map,
             "frontmatter_placeholder": {
                 "translatedFrom": zh_path,
                 "sourceCommitSha": sha,
                 "sourceContentHash": content_hash,
+                "sourceBodyHash": body_hash,
                 "translatedAt": now_taipei,
             },
         })

@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'Lifestyle/遊覽車.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:2b757d54650fbf73'
+sourceBodyHash: 'sha256:9e75f80aeb03d94c'
 translatedAt: '2026-05-03T21:10:10+08:00'
 ---
 

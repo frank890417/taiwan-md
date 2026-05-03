@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/2026鄭習會與國共十年再會.md'
 sourceCommitSha: '056136d7'
 sourceContentHash: 'sha256:059f5d9ff66a77e7'
+sourceBodyHash: 'sha256:05a0af91a175d45e'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 

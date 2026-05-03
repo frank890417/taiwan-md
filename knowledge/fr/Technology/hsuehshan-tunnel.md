@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/雪山隧道.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:34deb734c78799b0'
+sourceBodyHash: 'sha256:ecf74f93c1fa207f'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

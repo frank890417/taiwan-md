@@ -2,6 +2,7 @@
 translatedFrom: 'People/黃玉嬌.md'
 sourceCommitSha: 'a9bade27'
 sourceContentHash: 'sha256:cac2434cbb03924f'
+sourceBodyHash: 'sha256:80650db2e1788a43'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: 'Huang Yu-chiao: Democracy Elder'
 description: 'At the critical moment of the 1977 Zhongli Incident, she stood at the police station door urging the crowd not to act rashly — this 58-year-old pharmacist who had studied in Japan, later a four-term Provincial Assemblywoman and DPP founding member, has long been overlooked in historical narratives.'

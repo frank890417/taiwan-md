@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣動畫代工.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:e65745d7776e7d73'
+sourceBodyHash: 'sha256:6d0f53daee394572'
 translatedAt: '2026-04-14T19:21:16+08:00'
 ---
 

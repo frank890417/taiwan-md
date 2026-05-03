@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: Economy/全聯福利中心.md
 sourceCommitSha: 97c89be8
 sourceContentHash: sha256:f837824c471a2ac3
+sourceBodyHash: 'sha256:cf4e3b7d187326d2'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

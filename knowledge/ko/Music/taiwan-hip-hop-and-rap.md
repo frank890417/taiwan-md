@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: Music/台灣嘻哈與饒舌發展.md
 sourceCommitSha: abf94a40
 sourceContentHash: sha256:7966c0692e2a3fd0
+sourceBodyHash: 'sha256:19d33338e53cee03'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

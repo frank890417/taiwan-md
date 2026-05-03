@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Music/台灣音樂產業與串流時代.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e8d2c98ba6bf8e0d'
+sourceBodyHash: 'sha256:cfd94d19f3ed25b0'
 translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 

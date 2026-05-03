@@ -12,6 +12,7 @@ translatedFrom: "People/魏德聖.md"
 lastVerified: 2026-03-19
 sourceCommitSha: "812e7574"
 sourceContentHash: "sha256:da6124a8ed71cc71"
+sourceBodyHash: 'sha256:f4f822df5584044a'
 translatedAt: "2026-04-14T19:19:52+08:00"
 ---
 

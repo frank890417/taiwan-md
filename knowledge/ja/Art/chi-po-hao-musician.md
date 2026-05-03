@@ -29,6 +29,7 @@ featured: 'false'
 translatedFrom: 'Art/紀柏豪.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:27f5f8bd9b79dc39'
+sourceBodyHash: 'sha256:4548be6076ba4c32'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

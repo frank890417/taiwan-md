@@ -12,6 +12,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Culture/巧固球.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:01a29994f0cdcf17'
+sourceBodyHash: 'sha256:620db6741686fb51'
 translatedAt: '2026-05-02T02:50:54+08:00'
 ---
 

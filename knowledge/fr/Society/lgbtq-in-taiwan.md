@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: Society/LGBTQ.md
 sourceCommitSha: 21335999
 sourceContentHash: sha256:2dceb8d4eac7775f
+sourceBodyHash: 'sha256:693cd449aa89ed1d'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

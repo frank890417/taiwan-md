@@ -22,6 +22,7 @@ category: 'Society'
 translatedFrom: "Society/自助餐阿姨的謎之目測精算能力.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:c40e9256e5031f97"
+sourceBodyHash: 'sha256:b933f7d83c83a92f'
 translatedAt: "2026-04-14T12:32:44+08:00"
 ---
 

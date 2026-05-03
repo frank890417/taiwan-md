@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: Geography/清水斷崖.md
 sourceCommitSha: a6b467e5
 sourceContentHash: sha256:641da5668e0d4302
+sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: 2026-05-02T02:50:57+08:00
 ---
 

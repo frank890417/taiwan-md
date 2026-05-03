@@ -2,6 +2,7 @@
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:f007d55cb9bbfd03'
+sourceBodyHash: 'sha256:08c56227ca69228f'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Potter King — From 'Pickup Lines' Entertainment to 'Pink Spy' Hunter: A Digital Sovereignty Gambler Caught Between Law and Principle"
 description: "The career arc of Potter King (Chen Jia-Jin) documents a Taiwanese creator's transformation from harvester of cross-strait commercial profits to defender of digital sovereignty, while simultaneously exposing the legal, property rights, and financial complexities of a creator's long entanglement with a capital system."

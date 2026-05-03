@@ -2,6 +2,7 @@
 translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b49821a42d715241'
+sourceBodyHash: 'sha256:a73fd571d71999d2'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Electric Vehicle Industry Chain Development'
 description: "From battery technology to charging infrastructure, exploring Taiwan's complete EV industry ecosystem and 2030 net-zero transition strategy"

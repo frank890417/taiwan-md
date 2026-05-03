@@ -2,6 +2,7 @@
 translatedFrom: 'People/HUR-plus.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:f585a86608bf6a28'
+sourceBodyHash: 'sha256:396a9fed148c94a2'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: 'HUR+: From DD52 Runners-Up to Zepp New Taipei — A Nine-Member Girl Group That Never Stopped'
 description: "In the 2020 idol competition finale, they lost by 2.5 points. Six years later, the champions have disbanded, and the runners-up are still here. The producer put in fifty million NT and said 'the less like a K-pop group, the better' — this is the story of a Taiwanese girl group that survived."

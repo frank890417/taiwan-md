@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: People/吳百福.md
 sourceCommitSha: abf94a40
 sourceContentHash: sha256:c1c38734cfc8d0d1
+sourceBodyHash: 'sha256:56698784d5f14d56'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

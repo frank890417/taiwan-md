@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：宏碁.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:197235760e486f5d'
+sourceBodyHash: 'sha256:bbb87048282a48a9'
 translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 

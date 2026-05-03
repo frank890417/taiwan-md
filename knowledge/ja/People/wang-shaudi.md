@@ -12,6 +12,7 @@ featured: 'false'
 translatedFrom: 'People/王小棣.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4511682266317092'
+sourceBodyHash: 'sha256:1301d595b3900dd8'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

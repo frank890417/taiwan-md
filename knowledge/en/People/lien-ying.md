@@ -2,6 +2,7 @@
 translatedFrom: 'People/連穎.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:5f1555ccc3c4f606'
+sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Lien Ying: Six Years from 'The Dance Standard a Girl Group Should Have' to a Solo EP"
 description: "In 2020, a twenty-one-year-old girl from Taichung looked at Pan Wei-Po and said: 'I want everyone to know the standard of dance a girl group should have.' Six years later she has a solo EP, fans who crowdfunded a birthday stage in Dadaocheng, and simultaneous support campaigns in three countries. She is delivering on that promise."

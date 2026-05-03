@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: "Society/台灣斜槓世代.md"
 sourceCommitSha: "800114ea"
 sourceContentHash: "sha256:bdd6bcaeb167f0b4"
+sourceBodyHash: 'sha256:cfe750f00aea3ad6'
 translatedAt: "2026-04-15T17:36:38+08:00"
 ---
 

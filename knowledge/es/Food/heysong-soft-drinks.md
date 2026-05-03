@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: Food/黑松.md
 sourceCommitSha: fab473cc
 sourceContentHash: sha256:764c87b479e4e9af
+sourceBodyHash: 'sha256:6c2df9f7c1f07744'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Geography/清水斷崖.md'
 sourceCommitSha: 'a6b467e5'
 sourceContentHash: 'sha256:641da5668e0d4302'
+sourceBodyHash: 'sha256:71b9d132fec3feff'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '清水断崖（せいすいだんがい）：プレート衝突が刻んだ絶美の傷跡と生命の強さ'
 description: '1874年、清朝の羅大春が蘇花古道を開削したことで、この東海岸の険峻な道が始まった。大理岩と片麻岩から成る垂直の断崖は台湾東部の地質進化の縮図であり、固有植物と海洋文学のインスピレーションの源泉であると同時に、環境と安全という二重の課題にも直面している。'

@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: Music/交工樂隊.md
 sourceCommitSha: 1e9b2ffb
 sourceContentHash: sha256:04619d86707f3bb4
+sourceBodyHash: 'sha256:f533cc54ee657769'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

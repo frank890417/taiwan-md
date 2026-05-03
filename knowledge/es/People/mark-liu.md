@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'People/劉德音.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:958c8a4a8799c54d'
+sourceBodyHash: 'sha256:366bd46a2354e0ef'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: People
 ---

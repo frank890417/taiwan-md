@@ -12,6 +12,7 @@ featured: false
 translatedFrom: Lifestyle/高速公路.md
 sourceCommitSha: 053efd9a
 sourceContentHash: sha256:5a8bf0cfcaa7dbd2
+sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
 translatedAt: 2026-05-03T21:10:09+08:00
 ---
 

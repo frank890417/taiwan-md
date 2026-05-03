@@ -10,6 +10,7 @@ slug: article-de-test
 translatedFrom: 'Language/測試文章.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d8f348b19c2bb167'
+sourceBodyHash: 'sha256:c724d45a95ccd697'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

@@ -12,6 +12,7 @@ featured: 'false'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
+sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

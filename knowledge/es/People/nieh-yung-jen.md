@@ -9,6 +9,7 @@ lastHumanReview: true
 translatedFrom: 'People/聶永真.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3c4ca1e1761de74e'
+sourceBodyHash: 'sha256:1e22d1ecfc023764'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: People
 ---

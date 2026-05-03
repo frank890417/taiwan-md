@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/許文龍.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:73deed1e850fca3f
+sourceBodyHash: 'sha256:f354ab65e7c9ebc7'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

@@ -20,6 +20,7 @@ category: 'About'
 translatedFrom: 'About/台灣官方網站資源重寫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:73ee4c24e755afd6'
+sourceBodyHash: 'sha256:7e5da6fad0f6882b'
 translatedAt: '2026-05-02T02:50:56+08:00'
 ---
 

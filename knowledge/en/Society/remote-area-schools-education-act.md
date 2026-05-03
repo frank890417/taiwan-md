@@ -24,6 +24,7 @@ lastHumanReview: false
 translatedFrom: 'Society/偏遠地區學校教育發展條例全解.md'
 sourceCommitSha: '8e0d85f2'
 sourceContentHash: 'sha256:4299eac35c7a3902'
+sourceBodyHash: 'sha256:1c338a244e1bf25e'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 

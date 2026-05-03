@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/陳映真.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8bedbd61019511b0
+sourceBodyHash: 'sha256:0a59fee55688aa77'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

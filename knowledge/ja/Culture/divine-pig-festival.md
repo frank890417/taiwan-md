@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/神豬.md'
 sourceCommitSha: '292ec5fe'
 sourceContentHash: 'sha256:4e7bd6002d83c43b'
+sourceBodyHash: 'sha256:0f6781254171f7ba'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

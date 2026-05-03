@@ -12,6 +12,7 @@ lastVerified: 2026-03-31
 translatedFrom: 'People/陳澄波.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:12bbbe1f09116e18'
+sourceBodyHash: 'sha256:daa58274ba5f4a8d'
 translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 

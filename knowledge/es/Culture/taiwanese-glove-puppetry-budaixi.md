@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/布袋戲.md'
 sourceCommitSha: '531353d0'
 sourceContentHash: 'sha256:c66292fce61243df'
+sourceBodyHash: 'sha256:79bbd46fe867d775'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：廣達電腦.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
+sourceBodyHash: 'sha256:8336e4cef45a1444'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwanese Companies: Quanta Computer'
 description: "From a factory fire to the world's laptop king — how Barry Lam built an AI-era empire. The story of Quanta Computer: founding, ODM innovation, Apple partnership, and its pivot to AI servers."

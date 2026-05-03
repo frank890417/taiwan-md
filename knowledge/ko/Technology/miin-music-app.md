@@ -11,6 +11,7 @@ lastVerified: 2026-04-01
 translatedFrom: 'Technology/迷音Miin.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:6a247587b9bacefb'
+sourceBodyHash: 'sha256:82deaf21752f91fe'
 translatedAt: '2026-04-14T07:15:07+08:00'
 ---
 

@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/陳澄波.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:12bbbe1f09116e18'
+sourceBodyHash: 'sha256:daa58274ba5f4a8d'
 translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 

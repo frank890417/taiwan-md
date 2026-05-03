@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Society/台灣學校輔導室的前世今生.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:3fa630df33c49cfb'
+sourceBodyHash: 'sha256:ca46407007f84f25'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

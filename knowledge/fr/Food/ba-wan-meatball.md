@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: 'Food/肉圓.md'
 sourceCommitSha: '745b6393'
 sourceContentHash: 'sha256:dea61b71091ca9ff'
+sourceBodyHash: 'sha256:991acbebd86781ad'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

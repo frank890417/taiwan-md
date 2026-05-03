@@ -19,6 +19,7 @@ lastVerified: '2026-03-20'
 translatedFrom: 'People/黃國珍.md'
 sourceCommitSha: 'abc5bd75'
 sourceContentHash: 'sha256:7d3b709915399ea3'
+sourceBodyHash: 'sha256:2b34fd0038a36214'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

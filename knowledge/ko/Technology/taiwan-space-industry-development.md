@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: Technology/台灣太空產業發展.md
 sourceCommitSha: 4af626f4
 sourceContentHash: sha256:6d36d0208e7a562f
+sourceBodyHash: 'sha256:a6c98698fb79ebb5'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---
 

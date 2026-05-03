@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Society/社會運動與公民參與.md'
 sourceCommitSha: 'ee4917f3'
 sourceContentHash: 'sha256:23077f3ea861f854'
+sourceBodyHash: 'sha256:78644475d848ff74'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: Technology/台灣災難醫療體系.md
 sourceCommitSha: ecb173b1
 sourceContentHash: sha256:eaa687a658bed0b7
+sourceBodyHash: 'sha256:b629f53ab0b8e508'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Technology
 ---

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Society/野百合學運.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:9f7ab13677794cd4'
+sourceBodyHash: 'sha256:68bbd52c379ede79'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

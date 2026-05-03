@@ -10,6 +10,7 @@ featured: false
 translatedFrom: 'History/日治時期臺灣社會運動.md'
 sourceCommitSha: '8413cde6'
 sourceContentHash: 'sha256:fbdfa92c6cd4f978'
+sourceBodyHash: 'sha256:404b899a07fee60d'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

@@ -16,7 +16,9 @@ readingTime: 20
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: e8ef8b3e
+sourceCommitSha: '14c7b362'
+sourceBodyHash: 'sha256:31c92fd7633ce35e'
+sourceContentHash: 'sha256:08c48a6ddad4519e'
 ---
 
 Chaque année à la mi-mai, lorsque le premier front stagnant glisse depuis le sud de la Chine vers le sud-est pour envelopper Taiwan tout entier, les présentateurs météo prononcent une phrase que les Taïwanais entendent depuis l'enfance : « La saison des pluies Mei-yu (梅雨, _méiyǔ_) est arrivée. » Cela semble une annonce romantique du changement de saison. Mais pour une île située en zone subtropicale, dont soixante-dix pour cent des précipitations annuelles se concentrent entre mai et octobre[^1], ce front n'est en réalité rien d'autre qu'un pari vital. S'il apporte trop d'eau, des gens meurent noyés. S'il en apporte trop peu, il faut rationner l'eau. L'espace infime entre les deux, c'est le quotidien de 23 millions d'habitants.

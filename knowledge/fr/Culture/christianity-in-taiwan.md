@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: Culture/基督教在台灣.md
 sourceCommitSha: dc87c2a6
 sourceContentHash: sha256:5bd661cb477b8c99
+sourceBodyHash: 'sha256:4b3f831fea6a96bf'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

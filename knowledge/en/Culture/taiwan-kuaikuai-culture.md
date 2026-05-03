@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/台灣乖乖文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b95317cbf18e6ec7'
+sourceBodyHash: 'sha256:2856e1a6d3a978a3'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

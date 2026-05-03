@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: People/南珉貞.md
 sourceCommitSha: 967e77ab
 sourceContentHash: sha256:000d5a7dca77f804
+sourceBodyHash: 'sha256:08bb733df9b2880d'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

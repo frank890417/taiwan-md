@@ -4,6 +4,7 @@ description: "In 2020, YouTuber Ray Du launched the New York Times advertising c
 translatedFrom: 'People/阿滴.md'
 sourceCommitSha: 'fceb6784'
 sourceContentHash: 'sha256:bc1390f13b2a7b07'
+sourceBodyHash: 'sha256:5621e86f4a6c80eb'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-20
 tags:

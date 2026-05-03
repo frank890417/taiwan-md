@@ -9,6 +9,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/鄧雨賢.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e8046886d7414c75'
+sourceBodyHash: 'sha256:02cd0544fb20b8a9'
 translatedAt: '2026-04-14T19:25:17+08:00'
 ---
 

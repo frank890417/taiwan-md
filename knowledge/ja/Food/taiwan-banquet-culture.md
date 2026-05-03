@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣辦桌文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
+sourceBodyHash: 'sha256:cfc9322860941967'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

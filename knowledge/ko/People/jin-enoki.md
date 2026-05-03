@@ -22,6 +22,7 @@ translatedFrom: 'People/金針菇.md'
 readingTime: 9
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:c7df79384a3f8e53'
+sourceBodyHash: 'sha256:ee002af28b6f5f29'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

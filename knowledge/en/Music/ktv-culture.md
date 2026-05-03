@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Music/台灣KTV文化.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:9ec6298d6c909b81'
+sourceBodyHash: 'sha256:93b7dc55fa7bfc35'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

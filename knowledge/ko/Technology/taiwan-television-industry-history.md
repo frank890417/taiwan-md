@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: 'Technology/台灣電視產業史.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8a1c3586243b74a9'
+sourceBodyHash: 'sha256:ed795e563186762b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

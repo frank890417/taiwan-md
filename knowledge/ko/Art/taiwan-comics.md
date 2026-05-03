@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Art/台灣漫畫.md'
 sourceCommitSha: '0d8e06fc'
 sourceContentHash: 'sha256:34ab373bee4f5364'
+sourceBodyHash: 'sha256:a9f04ad63339e270'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

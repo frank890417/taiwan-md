@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'History/清治時期.md'
 sourceCommitSha: '3aba2ea3'
 sourceContentHash: 'sha256:f1f83caa365a0cc3'
+sourceBodyHash: 'sha256:d0f664f6960a31bb'
 translatedAt: '2026-04-29T20:23:51+08:00'
 category: History
 ---

@@ -26,6 +26,7 @@ category: 'People'
 translatedFrom: 'People/李洋.md'
 sourceCommitSha: '3289f32e'
 sourceContentHash: 'sha256:6b5f90a7107dd4a7'
+sourceBodyHash: 'sha256:57937e9b25b2f462'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

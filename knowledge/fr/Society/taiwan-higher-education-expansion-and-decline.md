@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Society/台灣高等教育擴張與退場.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:e485dd8c00134c67'
+sourceBodyHash: 'sha256:a1690337698d47c6'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

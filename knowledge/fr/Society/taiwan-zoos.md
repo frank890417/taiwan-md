@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣有哪些動物園.md'
 sourceCommitSha: 'eb1ea071'
 sourceContentHash: 'sha256:11766ba8870a1b0b'
+sourceBodyHash: 'sha256:11854debbf35b879'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

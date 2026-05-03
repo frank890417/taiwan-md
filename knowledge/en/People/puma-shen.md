@@ -22,8 +22,9 @@ lastVerified: 2026-04-28
 lastHumanReview: 2026-04-28
 researchReport: reports/research/2026-04/沈伯洋.md
 translatedFrom: People/沈伯洋.md
-sourceCommitSha: '7072e270'
+sourceCommitSha: '616cbd07'
 sourceContentHash: 'sha256:264471f17f1dd86d'
+sourceBodyHash: 'sha256:ff76539057c18498'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

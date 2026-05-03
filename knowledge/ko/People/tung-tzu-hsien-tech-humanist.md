@@ -11,6 +11,7 @@ readingTime: 8
 translatedFrom: 'People/童子賢.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c1d775b461f7938c'
+sourceBodyHash: 'sha256:54860a304b159c26'
 translatedAt: '2026-04-14T19:24:53+08:00'
 ---
 

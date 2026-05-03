@@ -16,6 +16,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣眷村菜.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9da552eaab0e9bd8'
+sourceBodyHash: 'sha256:3bb2b7ca8725757b'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

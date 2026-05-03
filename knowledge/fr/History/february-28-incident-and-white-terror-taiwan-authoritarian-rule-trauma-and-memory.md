@@ -22,6 +22,7 @@ lastVerified: 2026-03-31
 lastHumanReview: false
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:634ee0a75c18646d'
+sourceBodyHash: 'sha256:af07edaeaadb2899'
 translatedAt: '2026-04-14T12:31:41+08:00'
 ---
 

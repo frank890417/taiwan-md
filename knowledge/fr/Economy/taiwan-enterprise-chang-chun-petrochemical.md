@@ -12,6 +12,7 @@ lastVerified: 2026-03-20
 translatedFrom: "Economy/台灣企業：長春石化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:a4e3dd0ffdb02185"
+sourceBodyHash: 'sha256:36b0a9584ba9eefb'
 translatedAt: "2026-04-14T19:21:16+08:00"
 ---
 

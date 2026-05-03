@@ -19,6 +19,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：和碩聯合.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8b0c4f42c17a074c'
+sourceBodyHash: 'sha256:4944ed0ce1805587'
 translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 

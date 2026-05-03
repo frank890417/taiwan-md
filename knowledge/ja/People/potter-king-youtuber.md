@@ -14,6 +14,7 @@ lastHumanReview: '2026-04-20'
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:f007d55cb9bbfd03'
+sourceBodyHash: 'sha256:08c56227ca69228f'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

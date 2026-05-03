@@ -13,6 +13,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/葉國一.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8815002e4ea20721'
+sourceBodyHash: 'sha256:ea97be04d985b44d'
 translatedAt: '2026-04-14T19:17:00+08:00'
 ---
 

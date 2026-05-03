@@ -1,177 +1,183 @@
 ---
-title: '정리원 (鄭麗文)'
-description: '1988년 대만대학교 정문 앞에서 대만 독립을 위해 단식했던 학생운동 소녀가, 2026년 베이징에서 시진핑에게 "양안 동포는 모두 중국인"이라고 말하기까지—그 궤적 사이에 무슨 일이 있었나'
+title: "Cheng Li-wen"
+description: "From the student activist who went on a hunger strike for independence at the gates of NTU in 1988 to the KMT Chairperson who told Xi Jinping in Beijing in 2026 that 'compatriots across the strait are all Chinese.' What happened along this trajectory?"
 date: 2026-04-11
-tags: ['정치인', '국민당', '양안관계', '학생운동세대', '2026']
-subcategory: '정치인'
-category: 'People'
-author: 'Taiwan.md Translation Team'
+tags: ['political_figures', 'Kuomintang', 'cross-strait_relations', 'student_movement_generation', '2026']
+subcategory: 'Political Figures'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
 featured: true
-translatedFrom: 'People/鄭麗文.md'
-sourceCommitSha: '056136d7'
-sourceContentHash: 'sha256:c454a71817a858ba'
-translatedAt: '2026-04-14T19:25:23+08:00'
+lastVerified: 2026-04-11
+lastHumanReview: false
+translatedFrom: 'People/Cheng Li-wen.md'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:6f46478c914942d6'
+translatedAt: '2026-05-04T00:30:35+08:00'
 ---
 
-# 정리원 (鄭麗文)
+# Cheng Li-wen
 
-## 1988년, 대만대학교 정문 앞의 단식
+## A Hunger Strike at the Gates of NTU in 1988
 
-1988년 겨울, 대만대학교 정문 앞에 19세 여대생이 단식을 하고 있었다.
+In the winter of 1988, a 19-year-old female university student was on a hunger strike at the gates of National Taiwan University.
 
-그녀의 이름은 정리원. 윈린 출신으로, 아버지는 윈난성에서 건너온 영민(榮民, 퇴역 군인)이고 어머니는 토박이 윈린인이었다.[^1] 타이난 징충 삼촌(眷村)에서 자란 그녀는, 외성 2세와 본성인이 뒤섞인 가정 환경에서 성장했다. 대학교 1학년 때 이미 막 계엄이 해제된 민주진보당에 가입하여 스스로를 '근본주의파' 대만 독립 지지자라고 불렀다.[^2]
+Her name was Cheng Li-wen. Her father was a retired soldier (Rongmin) from Yunnan who had come to Taiwan, and her mother was a local from Yunlin. [^1] Born in Jingzhong Village No. 3 in Tainan, she grew up in a family mixing second-generation mainlanders and locals. In her freshman year, she joined the newly legalized Democratic Progressive Party (DPP), calling herself a "fundamentalist" supporter of Taiwan independence. [^2]
 
-그 단식은 황화(黃華)라는 사람을 위한 것이었다. 황화는 대만 독립을 주장하다 '반란죄'로 기소됐다. 정리원은 대만대학교 정문에 자리를 잡고 밥을 먹지 않으며 당국에 황화의 석방을 요구했다. 그때 그녀는 자신이 하는 것이 위권에 저항하고 독립을 쟁취하는 순수한 일이라고 믿었다.
+Her hunger strike was for a man named Huang Hua. Huang Hua was prosecuted by the government for treason due to his advocacy of Taiwan independence. Cheng Li-wen set up a point at the NTU gates, refusing food to demand the authorities release Huang Hua. At the time, she believed she was doing something pure: resisting authoritarianism and striving for independence.
 
-그녀는 훗날 인터뷰에서 이렇게 회고했다. 며칠이 지났지만, 단식장에 찾아온 것은 국민당 특무가 아니라 민진당이었다. 민진당에서 사람을 보내 이렇게 말했다. "황화는 골칫거리야. 그러지 말아. 네가 이렇게 단식하면 우리 당이 곤란해."[^3]
+She later recalled in an interview: She waited for a few days, but the ones who came to persuade her to withdraw were not KMT agents, but members of the DPP. People from the DPP told her: "Huang Hua is a troublesome figure; don't get involved. Your hunger strike makes our party look awkward." [^3]
 
-그것이 그녀가 처음으로 깨달은 순간이었다. 자신이 마음속에 그리던 '대만 독립'과 민진당이 실제로 하는 '대만 독립'은 같은 것이 아닐 수도 있다는 것을. 37년 뒤 2026년 4월 10일, 그녀는 베이징 인민대회당 푸젠청으로 걸어들어가 시진핑을 향해 이렇게 말했다. "양안 동포는 모두 중국인입니다."
+This was the first time she realized that the "Taiwan independence" she imagined and the "Taiwan independence" the DPP was actually practicing might not be the same thing at all. Thirty-seven years later, on April 10, 2026, she walked into the Fujian Hall of the Great Hall of the People in Beijing and told Xi Jinping: "Compatriots across the strait are all Chinese."
 
-그 단식했던 여대생과 베이징에서 말하는 국민당 주석 사이에, 무슨 일이 있었을까.
+What happened between that female student on hunger strike and this KMT Chairperson speaking in Beijing?
 
-> **30초 요약**: 정리원, 1969년생. 타이난 영민 가정 출신. 1988년 민진당 입당, 황화 대만 독립 사건을 위해 대만대학교 정문에서 단식. 1996년 국민대회 의원 당선. 2002년 우루이런 사건으로 민진당 탈당. 2005년 롄잔의 권유로 국민당 입당. 2008년부터 세 차례 입법위원 및 행정원 대변인 역임. 2014-2015년 TVBS 정치 토크쇼 《리원 정경화》 진행. 2025년 10월 국민당 주석 당선, 당 역사상 두 번째 여성 직선 당수. 선거 구호는 "나는 중국인이다". 취임 후 백색테러 추도식 공산당 간첩 추모 논란에 휩싸임. 2026년 4월 10일 국민당 대표로 베이징을 방문하여 시진핑과 회담, 10년 만에 중화민국 주요 정당 지도자가 중공 총서기와 만난 최초 사례.
+> **30-Second Overview**: Cheng Li-wen, born in 1969 into a Rongmin family in Tainan, joined the DPP in 1988 and went on a hunger strike at the NTU gates for the Huang Hua Taiwan independence case, was elected a National Convention delegate in 1996, left the DPP in 2002 due to the Wu Rui-ren incident, and was invited by Lien Chan to join the KMT in 2005. Serving as a legislator and spokesperson for the Executive Yuan three times starting in 2008, she hosted the political talk show *Li-wen's Straight Talk* on TVBS from 2014 to 2015. Elected KMT Chairperson in October 2025, she became the second female directly elected leader in the party's history; her election slogan was "I am Chinese." Upon taking office, she faced controversy over the White Terror Autumn Memorial mourning of spy cases. On April 10, 2026, she represented the KMT in meeting Xi Jinping in Beijing, becoming the first leader of a major ROC political party to meet with the CCP General Secretary in ten years.
 
-## 국제정치를 배운 학생
+## How a Scholar Learned International Politics
 
-정리원은 단식 이야기 하나뿐인 학생운동 소녀가 아니었다.
+Cheng Li-wen is not just a student activist with a hunger strike story.
 
-1993년 그녀는 미국 템플대학교(Temple University) 비즐리 법학대학원에서 국제법 법학석사(LL.M.)를 취득했다.[^4] 그리고 2000년에는 케임브리지대학교 국제관계학 석사(MSc)를 마쳤고, 당시에는 국제관계학 박사 후보생이었다.[^5] 이 두 학위는 이후 그녀의 전 직업 인생에 걸쳐 은연중에 작동했다. 나중에 그녀가 '국공 플랫폼', '평화 프레임워크', '전쟁 예방을 위한 제도적 장치' 같은 단어를 말할 때, 그녀는 그 말들이 국제정치학 교과서에서 무엇을 의미하는지 아는 사람이었다.
+In 1993, she obtained a Master of Laws (LL.M.) in International Law from the Beasley School of Law at Temple University in the United States. [^4] Then, in 2000, she obtained a Master of Science (MSc) in International Relations from the University of Cambridge, while still a PhD candidate in International Relations. [^5] These two degrees played a subtle role throughout her subsequent career—when she later discussed terms like the "KMT-CCP platform," "peace framework," and "institutional arrangements to prevent war," she was someone who knew what these terms meant in international political textbooks.
 
-1996년부터 2000년까지 정리원은 민진당 소속으로 타이베이시를 대표하는 국민대회 의원을 4년간 역임했다. 동시에 민진당 중앙에서 청년발전부 부주임, 국민대회 당단 부소집인을 맡았다. 계엄 해제 후 첫 번째 학생운동 세대가 체제에 편입되는 전형적인 궤적이었다.
+From 1996 to 2000, Cheng Li-wen served as a National Convention delegate representing Taipei City under the DPP banner. Simultaneously, she served as Deputy Director of the Youth Development Department at the DPP Central and as Deputy Convener of the National Convention Party Group. This was a typical trajectory for the first generation of student movement activists entering the system after the lifting of martial law.
 
-2002년, 민진당 내부에서 우루이런 성희롱 사건이 발생했다. 정리원은 당 중앙의 처리 방식에 불만을 품고 당권이 정지된 뒤 민진당직을 사퇴했다.[^6] 이것이 공식적으로 녹색 진영을 떠난 시점이지만, 그녀 자신의 나중 설명은 더 직접적이었다. "대만 독립이 이미 오래전부터 웃음거리이자 사기극이라는 것을 깨달았다."[^7]
+In 2002, a sexual harassment case involving Wu Rui-ren occurred within the DPP. Dissatisfied with the party central's handling of the matter, Cheng Li-wen was suspended from party rights and subsequently resigned from her DPP positions. [^6] This was the formal point of her departure from the green camp, but her later explanation was more direct: "I realized that Taiwan independence had long been a joke, a scam." [^7]
 
-2005년 롄잔의 초청을 받아 정식으로 국민당에 입당했다. 30대 여성, 법학석사, 케임브리지 국제관계 훈련, 대만 독립을 위해 단식한 이력. 2005년 국민당에서 이런 이력은 예외적인 존재였다. 롄잔이 원한 것이 바로 그 예외였다.
+In 2005, she officially joined the KMT at the invitation of Lien Chan. A woman in her thirties, with a Master of Laws degree, trained in Cambridge International Relations, and having once gone on hunger strike for Taiwan independence—such a resume was an exception in the KMT of 2005. Lien Chan wanted that very exception.
 
-## 전장(戰將), 논란, 그리고 토크쇼
+## The Warrior, Controversies, and a TV Show
 
-국민당에 입당한 이후 정리원은 대변인, 행정원 대변인을 거쳐 2008년 비례대표 입법위원이 됐다.
+After joining the KMT, Cheng Li-wen first served as a spokesperson, then as a spokesperson for the Executive Yuan, and entered the Legislative Yuan as a proportional representative legislator in 2008.
 
-당 안에서 그녀에게 붙은 별명은 '전장(戰將)'이었다. 발언이 날카롭고 정치 토크쇼에 능하며 카메라를 피하지 않기 때문이었다. 마잉주 시대 남색 진영이 '수세에 몰리는' 분위기 속에서 정리원은 정면 대결이 가능한 몇 안 되는 인물 중 하나였다. 중앙통신사는 그녀가 주석에 당선됐을 때 이렇게 묘사했다. "전장 이미지로 돌파구를 만들었다".[^8]
+Within the party, she earned the title "Warrior" (Zhan Jiang). The reason was that her statements were sharp, she was skilled at appearing on political talk shows, and she did not shy away from the camera. During the Ma Ying-jeou era, the blue camp entered an atmosphere of being "pressed and beaten"; Cheng Li-wen was one of the few who could confront them head-on. CNA described her at the time of her election as Chairperson: "Breaking through with the image of a warrior." [^8]
 
-하지만 '전장'에는 대가가 따랐다. 2005년 국민당 문전(文傳)회 주임위원 시절 선거 광고에서 민진당 타이중시장 후보 린자룽을 '부패한 폭도'라고 지명 비판했다가, 린에게 선거법 위반으로 고소당해 1심에서 징역 3개월, 공민권 정지 1년을 선고받았고 나중에 구류 1개월 집행유예로 감형됐다.[^9] 또 다른 논란은 국민당 당직 규정을 어기고 라디오 진행자로 활동하면서 주당 4시간 상한을 초과한 것이었다. 이 두 번의 논란은 치명적이지는 않았지만 그녀의 정치 경력에 공통된 꼬리표를 달았다. **"잘 싸우지만 선을 자주 넘는다."**
+But being a "Warrior" came with a cost. In 2005, while serving as Chairman of the KMT's Information and Communication Committee, she named and criticized DPP Taichung Mayor candidate Lin Chia-lung as a "corrupt mob" in an election advertisement. Lin sued her under the Election and Recall Act; the first instance sentenced her to three months in prison with a one-year deprivation of public rights, later reduced to one month in detention suspended. [^9] Another controversy involved her violating KMT party regulations by hosting a radio show for more than the four-hour weekly limit. Neither of these controversies was fatal, but they left a common label on her political career: **"Very capable, but often crossing the line."**
 
-2014-2015년에는 TVBS 정치 토크쇼 《리원 정경화》를 진행했다.[^10] 이 프로그램은 그녀의 '토크쇼 스타일'을 정형화했다. 직접적이고 날카로우며, 한 마디로 상대를 구석으로 몰아붙이는 방식. 이 스타일은 나중에 국민당 주석이 되는 경로와 직접 연결된다. 조직도, 지방 파벌도 아닌, '말을 잘하는 것'으로 올라온 것이다.
+From 2014 to 2015, she hosted the TVBS political talk show *Li-wen's Straight Talk*. [^10] This show solidified her "political talk style": direct, sharp, hitting the nail on the head, often using a single sentence to corner her opponents. This style was directly related to her path to becoming KMT Chairperson—she did not rely on organization or local factions, but on "being able to speak."
 
-2025년 10월 18일, 국민당 제12대 주석 선거 결과가 나왔다. 정리원은 네 명의 후보 중 약 50% 득표율로 전 타이베이시장 하오룽빈과 현직 입법위원 뤄즈창을 누르고 국민당 역사상 두 번째 여성 직선 당수가 됐다. 첫 번째는 훙슈주였다.[^11]
+On October 18, 2025, the results of the 12th KMT Chairperson election were announced. Cheng Li-wen defeated former Taipei Mayor Hau Lung-bin and current legislator Luo Chih-chiang with approximately 50% of the vote, becoming the second female directly elected Chairperson in KMT history, the first being Hung Hsiu-chu. [^11]
 
-선거의 핵심 구호는 여섯 글자였다. **"나는 중국인이다."**
+The key slogan of the election campaign was only six characters: **"I am Chinese."**
 
-## "대만 독립을 위해 단식"에서 "나는 중국인이다"로
+## From "Hunger Strike for Taiwan Independence" to "I am Chinese"
 
-정리원이라는 인물에서 가장 이해하기 어려운 부분이 이것이다.
+This is the most difficult part of Cheng Li-wen's persona to understand.
 
-그녀 자신의 버전은 이렇다. 젊을 때는 대만 독립이 정의로운 길이라고 믿었다. 하지만 체제에 들어가고 보니 민진당의 '대만 독립' 정의는 자기모순이었다. 한쪽으로는 독립을 말하면서, 제도적으로는 실제로 독립을 밀어붙이지 않는다. 그녀는 이 괴리를 "대만 독립은 사기"라고 표현했다.[^12] 심지어 더 격렬하게 "대만 독립 파시즘"이라고까지 했다.[^13] 자신의 정치적 입장은 변하지 않았으며, 바뀐 것은 '누가 진실을 말하는가'에 대한 판단이라는 것이다.
+Her own version is this: In her youth, she believed Taiwan independence was a just path, but after entering the system, she discovered that the DPP's definition of "Taiwan independence" was fundamentally self-contradictory—claiming to seek independence while never truly pushing for it within the system. She called this gap "Taiwan independence is a scam," [^12] and even more fiercely, "Taiwan independence fascism." [^13] She believed her political stance had not changed; what changed was her judgment of "who is telling the truth."
 
-반대 진영의 버전은 이렇다. 정리원은 이상이 있었던 학생운동 소녀에서, 롄잔 그 세대의 낡은 국민당 시스템에 의해 체계적으로 '개조'된 북경 친화적 투사가 됐다. 그녀의 모든 '반대만독립' 선언은 다음 자리로 올라가기 위한 것이었다. 2026년 그녀가 베이징 인민대회당 푸젠청에 앉아 시진핑과 마주할 수 있었던 것은, 이 개조 경로의 최종 결과물이다.
+The opposing version is this: Cheng Li-wen, an idealistic student activist, was systematically "transformed" by the old KMT system, led by Lien Chan, into a combatant friendly to Beijing. Each of her "anti-Taiwan independence" declarations was a step to climb to the next position. Her sitting in the Fujian Hall of the Great Hall of the People in Beijing in 2026 to talk with Xi Jinping is the ultimate result of this transformation route.
 
-두 버전 모두 증거가 있고, 두 버전 모두 맹점이 있다.
+Both versions have evidence and blind spots.
 
-첫 번째 버전의 맹점은 이렇다. "대만 독립은 사기"라는 판단이 진정한 경험에서 나온 것이라면, 왜 그 판단이 공교롭게도 "그 판단을 환영하는 다른 정당에 입당하는 것"으로 이어졌는가. 순수한 인식론적 전환이라면 직업 경로와 이토록 완벽하게 일치하는 우연은 없다.
+The blind spot of the first version is: If the judgment that "Taiwan independence is a scam" comes from real experience, why did this judgment happen to lead to "joining the other party that welcomes exactly this judgment"? A pure epistemological shift would not coincide so perfectly with a career path.
 
-두 번째 버전의 맹점은 이렇다. 정리원이 국민당에 들어간 뒤에도 오랫동안 남색 진영 내부에서 상대적으로 더 급진적이고 구세대 남색에게 '말 안 듣는다'는 평가를 받는 파였다. 그녀의 노선은 표준 국민당 노선의 복제가 아니라 독립적인 하위 노선이다. "국민당이 어느 대역이든 보낼 수 있었다"고 말하는 것은 정확하지 않다.
+The blind spot of the second version is: After entering the KMT, Cheng Li-wen was indeed long part of the more radical faction within the blue camp, even viewed by old blues as "disobedient." Her route was not a copy of the standard KMT line, but an independent sub-route. Saying she is "any substitute the KMT sends" is inaccurate—she indeed has her own political judgment.
 
-진실은 아마도 그 사이 어딘가일 것이다. 학문적 훈련을 받고, 토론을 잘하고, 영향력을 원하는 사람이 2000년대 대만 정치 무대에서 녹색 진영에서 자신의 자리를 찾지 못하자 남색 진영으로 향했다. 그리고 남색 진영은 마침 그때 "말할 수 있고, 학력이 있고, 학생운동 배경을 가진" 사람이 이미지를 바꿔줄 필요가 있었다. 양측이 맞아떨어진 것이다. 이것은 배신도 아니고 순수한 신념의 전환도 아니다. 자신에게 가장 유리하면서 동시에 스스로 설명이 되는 경로를 선택한 정치 활동가의 이야기다.
+The truth likely lies between the two: A person with academic training, who knows how to debate and wants influence, found no place for herself in the green camp in Taiwan's political field in the 2000s, so she moved to the blue camp—the blue camp, at that time, needed someone "who could speak, had academic credentials, and had a student movement background" to change its image. The two sides clicked. This was not betrayal, nor a pure shift in belief, but a political worker choosing a path that was most beneficial to herself while still being able to justify it.
 
-그러나 이 선택의 대가는 이렇다. **그녀는 이 선택이 내적 논리를 잃지 않으려면 베이징 방향으로 계속 나아가야 한다.** "대만 독립은 사기"에서 "나는 중국인이다"로, "양안 동포는 모두 중국인이다"로. 그녀는 중간에 멈출 수 없다.
+But the cost of this choice was: **She had to move continuously toward Beijing for this choice to lose its internal logic.** From "Taiwan independence is a scam" to "I am Chinese" to "Compatriots across the strait are all Chinese"—she could not stop in the middle.
 
-## 백색테러 추도식과 우스 사진
+## The White Terror Autumn Memorial and Wu Shi's Photo
 
-이 역학 관계를 구체적으로 보여주는 사건이 있다. 2025년 11월의 백색테러 추도식이다.
+If there is one event that concretizes the dynamics above, it is the White Terror Autumn Memorial in November 2025.
 
-정리원이 국민당 주석에 당선된 지 3주가 채 안 되어, '대만 지구 정치 수난자 상조회'가 주최하는 '1950년대 백색테러 추도 위령 대회'에 참석했다. 추도 대상 명단에 **우스(吳石)**라는 이름이 있었다.[^14]
+Less than three weeks after becoming KMT Chairperson, Cheng Li-wen attended the "1950s White Terror Autumn Memorial and Consolation Assembly" hosted by the "Taiwan Political Prisoners Mutual Aid Association." On the memorial list, there was a name: **Wu Shi**. [^14]
 
-우스는 누구인가. 그는 중화민국 국방부 전(前) 참모차장으로, 1950년 타이베이 마장정(馬場町) 형장에서 처형됐다. 죄명은 **공산당 간첩**이었다. 그는 실제로 대만에 잠입한 공산당 고급 정보원이었으며 암호명은 '밀사 1호'였다. 그는 1949년 국군의 대만 철수 전후 공산당에 정보를 제공했다. 역사적으로 공인된 공산당 간첩이다. 중국공산당도 이후 공개적으로 인정하고 그를 '혁명열사'로 등재했다.
+Who is Wu Shi? He was the former Deputy Chief of Staff of the Republic of China Ministry of National Defense, executed at the Machangding firing range in Taipei in 1950. His charge was: **Communist Spy**. He was indeed a high-level intelligence agent for the CCP潜伏 (hidden) in Taiwan, codenamed "Secret Agent No. 1," providing intelligence to the CCP around the time of the KMT's retreat to Taiwan in 1949. Historically, he is recognized as a CCP spy—the CCP itself later publicly acknowledged this and listed him as a "Revolutionary Martyr."
 
-정리원이 참석한 추도 행사는 우스를 다른 '백색테러 피해자'들과 같은 추도 명단에 올렸고, 현장에서는 중국 홍색 노래 《안식가》가 흘렀다. 육위회는 이후 성명을 통해 강도 높게 비판했다. 이것은 "국가를 배반하고 전우를 팔아넘긴 죄인을 국공 간의 자기 살육과 역사적 비극으로 세탁하는 것"이며, "국가 존엄에 대한 가장 심각한 훼손"이라고.[^15]
+The autumn memorial Cheng Li-wen attended placed Wu Shi on the same memorial list as other "White Terror victims," and a Chinese red song, *Anthem of Rest*, was played on site. The wording of the statement issued by the Mainland Affairs Council (MAC) afterward was very heavy: This is "whitewashing criminals who betrayed the country and sold out their comrades into a self-mutilation and historical tragedy between KMT and CCP," representing "the most serious harm to national dignity." [^15]
 
-정리원의 반응은 두 부분이었다. 첫째는 부인. 그녀는 사전에 추도 명단에 우스가 있는 줄 몰랐으며, 참석 목적은 '백색테러 추도'이지 '공산당 간첩 추도'가 아니라고 했다.[^16] 둘째는 확장. 그녀는 자신도 젊은 시절 황화를 위해 단식한 적이 있음을 언급하며, 양안 사이의 비극은 동일한 역사적 서사 안에서 바라봐야 한다는 '거대 역사적 화해'의 언어를 구사했다.[^17]
+Cheng Li-wen's response was divided into two parts. The first part was denial: She said she did not know beforehand that Wu Shi was on the memorial list; she went for "White Terror memorial," not "communist spy mourning." [^16] The second part was extension: She mentioned that she too had gone on hunger strike for Huang Hua in her youth, believing that tragedies between the two sides of the strait should be viewed within the same historical narrative—a language of "grand historical reconciliation." [^17]
 
-그러나 둘째 부분이 바로 논란의 핵심이었다. 어떤 '국가 안보 담론'이 **반국가 정보원**과 **정부에 의해 억울하게 수감된 일반 시민**을 같은 추도 의식에 올릴 때, 역사는 다시 쓰인다. 위권 국가가 자국 인민을 탄압한 것이, '중국인들 사이의 내전 비극'으로 바뀐다. 이 재기술은 사소한 일이 아니다. '중화민국의 피해자'를 '대만인'의 자리에서 '중국인'의 자리로 미끄러지게 만든다.
+But the second part is exactly the core of the controversy. When a "national security narrative" places **a traitorous intelligence agent** and **ordinary citizens wrongfully imprisoned by the government** in the same memorial ritual, history is rewritten. From the suppression of a people by an authoritarian state, it becomes a "tragedy of civil war among Chinese people." This rewriting is no small matter—it slides the "ROC victims" from the position of "Taiwanese" to the position of "Chinese."
 
-육위회 비판의 핵심은 "백색테러를 추도하지 말라"가 아니라 "백색테러를 본토 피해자 서사에서 중국 내전 서사로 재편성했다"는 것이었다. 이것은 정체성의 전위다.
+The core of the MAC's criticism was not "You shouldn't memorialize the White Terror," but "You reshaped the White Terror from a local victim narrative into a Chinese civil war narrative." This is a shift in identity.
 
-이 사건과 5개월 뒤 시진핑 앞에서 한 말 "양안 동포는 모두 중국인이다"는 서로 다른 자리에서 같은 서사가 두 번 나타난 것이다.
+This event and the phrase "Compatriots across the strait are all Chinese" in the Cheng-Xi meeting five months later are the same narrative appearing in two different contexts.
 
-## 2026년 4월 10일: 궤적의 종착점, 혹은 중간 지점
+## April 10, 2026: The End of the Trajectory, or the Midpoint
 
-2026년 4월 10일 오후, 정리원은 베이징 인민대회당 푸젠청에 들어가 시진핑과 약 10분간 회담했다.[^18] 그녀는 5가지 주장을 제시했고, 그 중 가장 주목받은 것은 "양안 관계 평화 발전의 제도화를 추진하고, 점진적으로 '평화 프레임워크'에 도달한다"는 항목이었다. 시진핑의 반응은 "양안 동포는 모두 중국인이며, 한 가족"이었다.[^19]
+On the afternoon of April 10, 2026, Cheng Li-wen walked into the Fujian Hall of the Great Hall of the People in Beijing and met with Xi Jinping for approximately ten minutes. [^18] She proposed five points, the most notable of which was "promoting the institutionalization of peaceful cross-strait development, gradually achieving a 'peace framework'." Xi Jinping's response was "Compatriots across the strait are all Chinese, one family." [^19]
 
-이 회담을 그녀 자신은 '평화의 여정'이라 불렀다. NPR의 분석에 따르면, 그녀의 전략은 대만 사회의 트럼프 정부에 대한 불안감을 활용하여 국민당이 '헤지, 중간 노선'의 양안 포지션을 구축하는 것이었다.[^20] 대서양이사회 연구원 쑹원디는 정리원이 말한 '전쟁 예방을 위한 제도적 장치'가 정책적 함의로는 실질적으로 "국방 건설 속도를 낮추고 미국 무기 구매를 줄이는 것"이라고 지적했다.
+This meeting was called by herself a "Peace Journey." According to NPR's analysis, her strategy was to use Taiwan society's uncertainty regarding the Trump administration to build a "hedging, centrist" cross-strait positioning for the KMT. [^20] Atlantic Council researcher Song Wendi pointed out that Cheng Li-wen's talk of "institutional arrangements to prevent war" actually implies, in policy terms, "slowing down national defense buildup and reducing US weapons procurement."
 
-회담 후 육위회는 한 문장으로 그녀의 행동을 정리했다. "우리가 정 주석에게 시진핑에게 전달해 달라고 요청한 대만 국민의 세 가지 요구—중화민국의 존재를 인정할 것, 대만 국민의 의사를 존중할 것, 군용기와 함선의 교란을 중단할 것—를 그녀는 단 하나도 말하지 않았다." 부주임 량원제의 어조는 지쳐 있었다.[^21]
+After the talks, the MAC summarized her performance with one sentence: "We repeatedly asked Chairperson Cheng to present the three major demands of the Taiwan people to Xi Jinping—recognize the existence of the ROC, respect the will of the Taiwan people, and stop military aircraft and warship harassment—but she did not mention a single one." Deputy Chairman Liang Wen-jie's tone was weary. [^21]
 
-이 순간에는 기묘한 대칭이 있다.
+This moment has an absurd symmetry.
 
-1988년 대만대학교 정문 앞에서 정리원은 반란죄로 기소된 대만 독립 인사의 석방을 요구하며 단식했다. 그때 그녀에게 '정부'는 위권 체제였다. 2026년 베이징 푸젠청에서 그녀는 시진핑 맞은편에 앉아 베이징에 구금된 어떤 대만인을 위해서도 말하지 않았다. 중국 내 대만 정치범을 위해서도, 중국으로 납치된 대만 작가를 위해서도, 해외에서 괴롭힘을 당하는 대만 학자를 위해서도. 그녀는 더 이상 항의하지 않고 대화한다.
+In 1988 at the NTU gates, Cheng Li-wen went on hunger strike to force the government to release a Taiwan independence activist prosecuted for treason. At that time, she believed the "government" was an authoritarian regime. In 2026 in Beijing's Fujian Hall, she sat opposite Xi Jinping without speaking for any Taiwanese detained in Beijing—neither for Taiwan-born political prisoners in China, nor for Taiwan writers extradited to China for trial, nor for those harassed abroad. She no longer protested; she was in dialogue.
 
-다만 이번에는 테이블 맞은편이 훨씬 강력하고, 법치 절차를 그다지 따지지 않는 또 다른 종류의 권위주의다.
+But this time, the person across the table was a different kind of authoritarian power, greater and less concerned with procedural justice.
 
-## 결말: 두 명의 정리원은 모두 진짜다
+## Ending: Both Cheng Li-wens Are Real
 
-누군가는 말한다. 1988년 단식한 정리원은 이미 죽었으며, 나중에 베이징에서 시진핑에게 고개를 끄덕인 사람은 같은 이름을 달고 있는 전혀 다른 사람이라고.
+Some say the Cheng Li-wen who went on hunger strike in 1988 is dead. The person who nodded to Xi Jinping in Beijing later is a completely different person wearing the same name.
 
-또 다른 누군가는 말한다. 이 두 명의 정리원은 사실 같은 사람이라고. 그녀는 언제나 '기존 구조를 흔들 수 있는 것'을 해왔다고. 1988년에는 국민당의 위권에 저항했고, 2026년에는 민진당의 대만 독립 담론에 저항한다. 도구는 바뀌었지만 자세는 바뀌지 않았다.
+Others say these two Cheng Li-wens are actually the same person—she has always been doing what she believes can most shake the "existing structure." In 1988, challenging the KMT's authoritarianism; in 2026, challenging the DPP's Taiwan independence narrative. The tools changed, the posture did not.
 
-두 가지 설명 모두 일리가 있다. 하지만 아마도 세 번째 설명이 있을 것이다. 1988년의 정리원과 2026년의 정리원은 모두 진짜이며, 동시에 같은 대만 사회가 서로 다른 단계에서 만들어낸 산물이다. 계엄에서 막 벗어난 섬이 대만 독립을 위해 단식하는 청년을 만들었고, 중국 굴기의 그림자 아래 발판을 찾는 섬이 베이징에서 '평화 프레임워크'를 말하는 중년 정치인을 만들었다. 바뀐 것은 정리원이 아니라, 대만이라는 문제의 모양이다.
+Both statements make sense. But perhaps there is a third: The Cheng Li-wen of 1988 and the Cheng Li-wen of 2026 are both real, and they are both products of Taiwan society at different stages. An island just emerging from martial law produced a youth who went on hunger strike for Taiwan independence; an island seeking its footing under the shadow of China's rise produced a middle-aged political figure talking about a "peace framework" in Beijing. It is not that Cheng Li-wen changed, but that the shape of the "Taiwan question" changed.
 
-하지만 이 설명에도 냉혹한 면이 있다. 만약 정리원이 '대만 문제 모양의 변화'의 산물이라면, 그녀의 노선이 성공했다는 것은 대만 문제의 모양이 이미 그녀가 단식하며 저항했던 그 방향으로 바뀌었다는 의미다.
+But this statement also has its cruel side: If Cheng Li-wen is a product of the "change in the shape of the Taiwan question," then the success of her route means the shape of the Taiwan question has already been changed to the direction she originally protested against.
 
-그러므로 진짜 질문은 "정리원이 변했는가"가 아니라, **"대만이 변했는가"다.**
+So the real question is not "Has Cheng Li-wen changed?" but: **Has Taiwan changed?**
 
 ---
 
-**더 읽기**:
+**Further Reading**:
 
-- [2026 시진핑-정리원 회담: 국공 지도자 10년 만의 재회 10분](/society/2026鄭習會與國共十年再會)
-- [대만해협 위기와 양안관계 발전](/history/台海危機與兩岸關係發展)
-- [대만 정치 환경과 선거 제도](/society/台灣政治環境與選舉制度)
-- [대만 민주 전환](/history/台灣民主轉型)
-- [커원저](/people/柯文哲)
-- [샤오메이친](/people/蕭美琴)
-- [한궈위](/people/韓國瑜)
+- [2026 Cheng-Xi Meeting: The Ten Minutes of the KMT-CCP Leaders' Reunion After Ten Years](/society/2026ChengXiMeeting) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
+- [Taiwan Strait Crisis and Development of Cross-Strait Relations](/history/TaiwanStraitCrisis) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
+- [Taiwan Political Environment and Electoral System](/society/TaiwanPoliticalEnvironment) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system gives the answer
+- [Taiwan Democratic Transition](/history/TaiwanDemocraticTransition) — The year Cheng Li-wen went on hunger strike was the first year after lifting martial law; to understand her starting point, one must first understand the youth culture of those five years of democratization
+- [Ko Wen-je](/people/KoWen-je) — Another cross-boundary political figure from green to blue (or white to blue); their paths are similar yet different
+- [Hsieh Tsung-yi](/people/HsiehTsung-yi) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
+- [Han Kuo-yu](/people/HanKuo-yu) — The "Chairperson + Legislative Yuan President" dual structure of the KMT in 2025-2026; Cheng Li-wen in the party, Han Kuo-yu in the Yuan
+- [Chao Jung-tai](/people/ChaoJung-tai) — The main proponent of the 1.25 trillion military purchase in the Executive Yuan; Cheng Li-wen's opposing position of "Party version 380 billion + N"
+- [Liu Siu-yen](/people/LiuSiu-yen) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, whose "not running" opened the channel for Cheng Li-wen's entry
+- [Hsu Chiao-hsin](/people/HsuChiao-hsin) — In the 2026 military purchase controversy, the proponent of the "800 billion" version colliding with Cheng Li-wen's "Party version 380 billion + N"
+- [Chi Lin-lian](/people/ChiLin-lian) — The vice chairperson appointed by Cheng Li-wen in 2026; the person involved in the event where the KMT Central Committee pointed out Han Kuo-yu on 4/29, igniting the split in the blue camp
 
-## 참고자료
+## References
 
-[^1]: [鄭麗文 - 위키피디아](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87)
+[^1]: [Cheng Li-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipedia records Cheng Li-wen was born on November 12, 1969, in Kouhu Township, Yunlin County. Her father was a retired soldier from Yunnan who came to Taiwan, and her mother was from Yunlin. She grew up in a Rongmin family background in Jingzhong Village No. 3, Tainan.
 
-[^2]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun)
+[^2]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia records Cheng Li-wen's activity history of participating in the Wild Lily Student Movement and advocating Taiwan independence during her university days, as well as the extent of her participation in DPP party affairs during her student days.
 
-[^3]: [정리원은 누구인가? - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/)
+[^3]: [Who is Cheng Li-wen? What are her studies, experience, and stories? - KidsMedia](https://kidsmedia.com.tw/2025/10/20/from-green-to-blue-cheng-li-wen-becomes-kmts-first-chairperson-with-dpp-roots/) — KidsMedia compiled an article on Cheng Li-wen's political transformation trajectory, including the 1988 hunger strike at the NTU gates for the Huang Hua Taiwan independence case, the DPP persuading her to withdraw, and the key turning point from green to blue.
 
-[^4]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun)
+[^4]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia records Cheng Li-wen's academic resume: obtaining an LL.M. in International Law from the Beasley School of Law at Temple University (USA) in 1993, and obtaining an MSc in International Relations from the University of Cambridge in 2000 while pursuing a PhD.
 
-[^5]: [Who is Cheng Li-wun? - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/11/19/2003847439)
+[^5]: [Who is Cheng Li-wun? - Taipei Times](https://www.taipeitimes.com/News/feat/archives/2025/11/19/2003847439) — A deep profile in the Taipei Times in November 2025, detailing Cheng Li-wen's Anglo-American legal training background, her status as a PhD candidate in International Relations, and her overseas study experience after being elected KMT Chairperson.
 
-[^6]: [鄭麗文 - 위키피디아](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87)
+[^6]: [Cheng Li-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E9%BA%97%E6%96%87) — Wikipedia records Cheng Li-wen's process of leaving the DPP in 2002 due to controversies over the handling of the Wu Rui-ren sexual harassment case, as well as her critical stance toward the DPP high command's handling of controversial cases.
 
-[^7]: [민진당 자진 탈당 재확인 정리원: 대만 독립이 오래전부터 웃음거리이자 사기극이라는 것을 깨달았다 - 자유시보](https://news.ltn.com.tw/news/politics/breakingnews/3703655)
+[^7]: [Reaffirming Active Departure from DPP Cheng Li-wen: Discovered Taiwan Independence Was Long a Joke, a Scam - Liberty Times Net](https://news.ltn.com.tw/news/politics/breakingnews/3703655) — A Liberty Times Net interview with Cheng Li-wen discussing her reasons for leaving the DPP, directly quoting her original words "Taiwan independence was long a joke, a scam," serving as first-hand data for her self-narrative.
 
-[^8]: [전장 이미지로 돌파구 만든 정리원, 녹색 진영 출신으로 국민당 주석 당선 - 중앙통신사](https://www.cna.com.tw/news/aipl/202510180186.aspx)
+[^8]: [Cheng Li-wen Breaks Through with Warrior Image, Green Camp Background Elected KMT Chairperson - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — CNA compiled the full background of Cheng Li-wen's election as KMT Chairperson, recording the origin of her "warrior image" and how the path from the DPP to the KMT affected her positioning in the blue camp.
 
-[^9]: [郑丽文 - 바이두 백과](https://baike.baidu.com/item/%E9%83%91%E4%B8%BD%E6%96%87/2093188)
+[^9]: [Cheng Li-wen - Baidu Baike](https://baike.baidu.com/item/%E9%83%91%E4%B8%BD%E6%96%87/2093188) — Baidu Baike records Cheng Li-wen's complete judicial record during her tenure as Chairman of the KMT's Information and Communication Committee in 2005, when she was sued by Lin Chia-lung for violating the Election and Recall Act due to an election advertisement, initially sentenced to three months in prison with a one-year deprivation of public rights, later reduced to one month in detention suspended.
 
-[^10]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun)
+[^10]: [Cheng Li-wun - Wikipedia](https://en.wikipedia.org/wiki/Cheng_Li-wun) — The English Wikipedia records Cheng Li-wen's tenure and style positioning hosting the political talk show *Li-wen's Strait Talk* on TVBS Cable TV Network between 2014 and 2015.
 
-[^11]: [전장 이미지로 돌파구 만든 정리원 - 중앙통신사](https://www.cna.com.tw/news/aipl/202510180186.aspx)
+[^11]: [Cheng Li-wen Breaks Through with Warrior Image, Green Camp Background Elected KMT Chairperson - CNA](https://www.cna.com.tw/news/aipl/202510180186.aspx) — CNA's election night report recorded the results of the 12th KMT Chairperson election on October 18, 2025, where Cheng Li-wen defeated Hau Lung-bin and Luo Chih-chiang with approximately 50% of the vote, becoming the second female directly elected Chairperson in party history.
 
-[^12]: [민진당 탈당 원인 직접 공개 정리원: 대만 독립이 거짓말임을 깨달았다 - 중시신문](https://www.chinatimes.com/realtimenews/20211014002067-260407)
+[^12]: [Revealing Reasons for Leaving DPP Cheng Li-wen: Discovered Taiwan Independence Was a Lie - China Times News Network](https://www.chinatimes.com/realtimenews/20211014002067-260407) — A China Times News interview with Cheng Li-wen in 2021, recording her original words "Taiwan independence is a lie" when publicly explaining the reasons for leaving the DPP, serving as the baseline for her long-term self-narrative of political stance shifts.
 
-[^13]: [연합보 인터뷰 / 정리원: 대만 독립은 사기, 남색은 떨쳐 일어나야 - 연합신문](https://udn.com/news/story/122404/9044503)
+[^13]: [United Daily News Interview / Cheng Li-wen: Taiwan Independence Is a Scam, Blue Camp Must Rise - United News Network](https://udn.com/news/story/122404/9044503) — A United News Network character interview during the 2025 KMT Chairperson election, recording Cheng Li-wen's stronger statement of "Taiwan independence fascism" and her主张 for restructuring the KMT line.
 
-[^14]: [정리원의 백색테러 추도 참석, 공산당 간첩 제사 비판 - 경제일보](https://money.udn.com/money/story/5603/9126873)
+[^14]: [Cheng Li-wen Criticized for Mourning Communist Spy at White Terror Memorial, MAC: Severely Harms National Dignity - Economic Daily News](https://money.udn.com/money/story/5603/9126873) — Economic Daily News recorded the controversy of Cheng Li-wen attending the "1950s White Terror Autumn Memorial and Consolation Assembly" in November 2025. The memorial list included CCP intelligence agent Wu Shi (executed at Machangding firing range in 1950), providing the full event background.
 
-[^15]: [국민당 주석 정리원의 전 반역 공산 간첩 추도, 육위회 엄정 입장 - 육위회 공식 사이트](https://www.mac.gov.tw/News_Content.aspx?n=05B73310C5C3A632&sms=1A40B00E4C745211&s=0064E84717B052BD)
+[^15]: [KMT Chairperson Cheng Li-wen Mourns Former Traitor Communist Spy, MAC Takes Firm Stance - MAC Official Website](https://www.mac.gov.tw/News_Content.aspx?n=05B73310C5C3A632&sms=1A40B00E4C745211&s=0064E84717B052BD) — A MAC official press release, directly criticizing Cheng Li-wen's narrative operation of whitewashing criminals like Wu Shi who "betrayed the country and sold out their comrades" into a "KMT-CCP civil war tragedy," serving as the first-hand official statement of the government's stance.
 
-[^16]: [백색테러 추도식 참석 정리원: 우스 포함 사전에 몰랐다 - 공시뉴스](https://news.pts.org.tw/article/780371)
+[^16]: [Attending White Terror Memorial Cheng Li-wen: Did Not Know It Included Communist Spy Wu Shi Beforehand - Public Television Service News](https://news.pts.org.tw/article/780371) — PTS News recorded Cheng Li-wen's direct response to the White Terror memorial controversy, stating she did not know beforehand that Wu Shi was on the memorial list, and emphasizing she attended the event for "White Terror memorial" rather than mourning communist spies.
 
-[^17]: [정리원: 백색테러 추도는 우스 등을 주인공으로 한 것이 아니다 - 중앙통신사](https://www.cna.com.tw/news/aipl/202511080093.aspx)
+[^17]: [Cheng Li-wen: White Terror Memorial Does Not Focus on Wu Shi and Others - CNA](https://www.cna.com.tw/news/aipl/202511080093.aspx) — CNA recorded Cheng Li-wen's further clarification after the memorial controversy, stating that Wu Shi, Zhu Feng, and others are not within the scope of "political prisoners" in her definition, and calling on all sectors to focus on historical facts.
 
-[^18]: [시진핑-정리원 회담 종료, 정리원: 5가지 주장 제시, 대만 국제 활동 공간 확대 포함 - 중앙통신사](https://www.cna.com.tw/news/acn/202604100199.aspx)
+[^18]: [Cheng-Xi Meeting Ends Cheng Li-wen: Proposed 5 Points Including Increasing Taiwan's International Activity Space - CNA](https://www.cna.com.tw/news/acn/202604100199.aspx) — CNA's on-site recording of the Cheng-Xi meeting at the Great Hall of the People in Beijing on April 10, 2026, including the original text of Cheng Li-wen's five points and details of the meeting time, serving as the first-hand record of the official news agency.
 
-[^19]: [시진핑-정리원 회담》시진핑 발언 전문 공개, 양안 평화 교류 조건 제시 - Newtalk](https://newtalk.tw/news/view/2026-04-10/1029065)
+[^19]: [Cheng-Xi Meeting] Xi Jinping's Speech Full Text Exposed, Proposes Conditions for Cross-Strait Peaceful Exchange - Newtalk News](https://newtalk.tw/news/view/2026-04-10/1029065) — Newtalk News exposed the full text of Xi Jinping's speech at the Cheng-Xi meeting, recording the original words "Compatriots across the strait are all Chinese" and the prerequisite conditions of "adhering to the Nine-Point Consensus and opposing Taiwan independence."
 
-[^20]: [China's Xi meets Taiwan opposition leader - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition)
+[^20]: [China's Xi meets Taiwan opposition leader ahead of key summit with Trump - NPR](https://www.npr.org/2026/04/10/nx-s1-5780605/china-xi-taiwan-opposition) — NPR in-depth analysis, quoting Asian affairs analysts' judgment on Cheng Li-wen's strategy for visiting China: using Taiwan's anxiety regarding the Trump administration to push the KMT toward a "hedging, centrist" strategic positioning.
 
-[^21]: [육위회: 정리원에게 말해달라고 한 것 '하나도 말하지 않아', 오히려 상대방 입장에 동조 - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm)
+[^21]: [MAC: What We Asked Cheng Li-wen to Say, She Didn't Say a Word, But Continuously Echoed the Mainland - ETtoday](https://www.ettoday.net/news/20260410/3147289.htm) — ETtoday recorded MAC Deputy Chairman Liang Wen-jie's direct comment after the Cheng-Xi meeting: Cheng Li-wen did not present the three major demands of the Taiwan people to Xi Jinping at all, highlighting the gap between the meeting results and expectations.

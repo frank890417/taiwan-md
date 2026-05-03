@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'History/台灣鐵道史.en.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:181632bb884fbfa4'
+sourceBodyHash: 'sha256:12681a1f82b1447f'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

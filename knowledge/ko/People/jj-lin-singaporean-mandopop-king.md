@@ -10,6 +10,7 @@ readingTime: 8
 translatedFrom: 'People/林俊傑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:88e7c7b4207d65a4'
+sourceBodyHash: 'sha256:ee71b811d4844d3f'
 translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 

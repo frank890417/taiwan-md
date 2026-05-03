@@ -4,6 +4,7 @@ description: '"Hsu Mei-hua" is not a real name but a pseudonym that appeared at 
 translatedFrom: 'People/許美華.md'
 sourceCommitSha: 'fb9ddcae'
 sourceContentHash: 'sha256:1b5d90dfca7bb147'
+sourceBodyHash: 'sha256:e380720def0effee'
 translatedAt: '2026-05-01T12:53:58+08:00'
 category: People
 tags:

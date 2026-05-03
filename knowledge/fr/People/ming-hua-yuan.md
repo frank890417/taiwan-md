@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/明華園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8f30d34794119822'
+sourceBodyHash: 'sha256:7752f45fb1ac6348'
 translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 

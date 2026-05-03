@@ -18,6 +18,7 @@ translatedFrom: 'People/王永慶.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:602271271fe217d6'
+sourceBodyHash: 'sha256:859e8caae2f2ba54'
 translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 

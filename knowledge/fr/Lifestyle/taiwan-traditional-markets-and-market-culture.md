@@ -19,6 +19,7 @@ translatedFrom: 'Lifestyle/台灣市場文化與傳統市場.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0334fef76cff5db1'
+sourceBodyHash: 'sha256:1f68acc56a66c3d5'
 translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 

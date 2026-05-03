@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/產業轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ce20822406c79ae1'
+sourceBodyHash: 'sha256:f3709634beb4667c'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Island Metamorphosis: Taiwan's Industrial Transformation and Economic Development"
 description: "From agrarian society to one of the Four Asian Tigers and then a technology powerhouse — the complete story of Taiwan's three remarkable industrial transformations"

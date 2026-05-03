@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣農業與農村再生.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:d99b81502fe8995b'
+sourceBodyHash: 'sha256:50574d790744d84c'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

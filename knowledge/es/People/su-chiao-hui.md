@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: People/蘇巧慧.md
 sourceCommitSha: 64abf6f8
 sourceContentHash: sha256:eb7e3bede251836b
+sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

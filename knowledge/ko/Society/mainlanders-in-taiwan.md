@@ -20,8 +20,9 @@ lastVerified: 2026-05-02
 lastHumanReview: false
 subcategory: '族群與認同'
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '751831b2'
-sourceContentHash: 'sha256:ce341399ca31b24c'
+sourceCommitSha: 'a3d4e1d2'
+sourceContentHash: 'sha256:1f3418795ae93daa'
+sourceBodyHash: 'sha256:8d670fc3433148ca'
 translatedAt: '2026-05-02T09:05:00+08:00'
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Society/地震.md'
 sourceCommitSha: 'f94d76ee'
 sourceContentHash: 'sha256:46d8489f600c0049'
+sourceBodyHash: 'sha256:58b5b912b5042f24'
 translatedAt: '2026-05-02T01:17:16+08:00'
 ---
 

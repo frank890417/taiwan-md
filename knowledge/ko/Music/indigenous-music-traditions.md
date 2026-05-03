@@ -11,6 +11,7 @@ featured: true
 translatedFrom: 'Music/台灣原住民音樂傳統.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:781fad4801f687cc'
+sourceBodyHash: 'sha256:04283fa04fa2b945'
 translatedAt: '2026-04-14T09:55:38+08:00'
 ---
 

@@ -25,6 +25,7 @@ lastVerified: 2026-03-23
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:0bba0af0611bfce8'
+sourceBodyHash: 'sha256:e5a7aa30573d4059'
 translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 

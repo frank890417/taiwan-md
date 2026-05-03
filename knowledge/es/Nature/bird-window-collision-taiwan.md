@@ -21,6 +21,7 @@ featured: false
 translatedFrom: Nature/台灣鳥類窗殺議題.md
 sourceCommitSha: 2acf410b
 sourceContentHash: sha256:7b5c9a385e90141f
+sourceBodyHash: 'sha256:e55bf8d3c335463a'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

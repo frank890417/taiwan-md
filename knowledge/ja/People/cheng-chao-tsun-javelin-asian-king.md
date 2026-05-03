@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'People/鄭兆村.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bd6e73b952c9405f'
+sourceBodyHash: 'sha256:885d51e85cef03b2'
 translatedAt: '2026-05-01T19:52:32+08:00'
 category: People
 ---

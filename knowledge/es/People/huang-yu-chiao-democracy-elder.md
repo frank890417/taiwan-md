@@ -20,6 +20,7 @@ featured: false
 translatedFrom: People/黃玉嬌.md
 sourceCommitSha: a9bade27
 sourceContentHash: sha256:cac2434cbb03924f
+sourceBodyHash: 'sha256:80650db2e1788a43'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

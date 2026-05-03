@@ -12,6 +12,7 @@ translatedFrom: 'Culture/台灣製香文化與香腳原鄉.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4d2a912d036395eb'
+sourceBodyHash: 'sha256:ff06812d4ea7476e'
 translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 

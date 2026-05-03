@@ -15,6 +15,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/賴聲川.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5a4167cb8b4d6e8d'
+sourceBodyHash: 'sha256:19b0aa996efe749d'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

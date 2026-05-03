@@ -27,6 +27,7 @@ lastHumanReview: true
 translatedFrom: Geography/台灣地圖怎麼讀.md
 sourceCommitSha: e70c87a8
 sourceContentHash: sha256:abbfc58a10b3e4aa
+sourceBodyHash: 'sha256:19fd80a6deabc5cb'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Music/台灣原住民音樂傳統.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:781fad4801f687cc'
+sourceBodyHash: 'sha256:04283fa04fa2b945'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Taiwan's Indigenous Music Traditions"
 description: "Exploring the rich musical cultures of Taiwan's 16 indigenous peoples — from ancient chants to traditional instruments, witnessing thousands of years of cultural transmission"

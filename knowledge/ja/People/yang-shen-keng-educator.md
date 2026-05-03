@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'People/楊深坑.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:86136985cda69b56'
+sourceBodyHash: 'sha256:481eaba369f94755'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

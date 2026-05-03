@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：統一企業.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:3fb7c059831bdebb
+sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Economy
 ---

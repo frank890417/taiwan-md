@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: Food/台灣早餐文化.md
 sourceCommitSha: 82d9f045
 sourceContentHash: sha256:dd384a5d10cf3ad6
+sourceBodyHash: 'sha256:b99b2bb674387464'
 translatedAt: 2026-05-01T20:54:17+08:00
 ---
 

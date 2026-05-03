@@ -20,6 +20,7 @@ translatedFrom: 'People/陳玉勳.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:37de07b59dc6f1fd'
+sourceBodyHash: 'sha256:f33484f2f7bf8baf'
 translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 

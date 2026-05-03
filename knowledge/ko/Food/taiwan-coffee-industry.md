@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣咖啡產業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bf3c7b57d2ee1eb5'
+sourceBodyHash: 'sha256:9eb2ce39000f61fe'
 translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 

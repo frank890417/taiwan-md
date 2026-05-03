@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Music/台灣獨立音樂.md'
 sourceCommitSha: '83b8a92b'
 sourceContentHash: 'sha256:9b099c2af8064aa9'
+sourceBodyHash: 'sha256:9a12a72e1d631bd1'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

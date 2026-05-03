@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'People/明華園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8f30d34794119822'
+sourceBodyHash: 'sha256:7752f45fb1ac6348'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
 ---

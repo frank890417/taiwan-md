@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：緯創資通.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e06fd51c1363bcdb'
+sourceBodyHash: 'sha256:b0dec6214f7eed84'
 translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 

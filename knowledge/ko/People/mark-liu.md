@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/劉德音.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:958c8a4a8799c54d'
+sourceBodyHash: 'sha256:366bd46a2354e0ef'
 translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 

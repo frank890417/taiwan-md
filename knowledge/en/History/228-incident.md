@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'History/二二八事件.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f869173d0ef1733b'
+sourceBodyHash: 'sha256:af07edaeaadb2899'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

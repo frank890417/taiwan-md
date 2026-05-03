@@ -13,6 +13,7 @@ lastHumanReview: 2026-04-19
 translatedFrom: 'Culture/台灣綜藝.md'
 sourceCommitSha: '4d3d206a'
 sourceContentHash: 'sha256:a2572613f79ed394'
+sourceBodyHash: 'sha256:e10637f3a982deb1'
 translatedAt: '2026-05-01T22:19:01+08:00'
 ---
 

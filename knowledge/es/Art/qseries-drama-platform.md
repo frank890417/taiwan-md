@@ -20,6 +20,7 @@ readingTime: 7
 translatedFrom: 'Art/植劇場.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:a4dd72c35e6cc743'
+sourceBodyHash: 'sha256:c47cc8538936b060'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

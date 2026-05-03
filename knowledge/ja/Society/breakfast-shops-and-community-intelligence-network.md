@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:753337c350d2acc3'
+sourceBodyHash: 'sha256:7215c472ebf36aad'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Society
 ---

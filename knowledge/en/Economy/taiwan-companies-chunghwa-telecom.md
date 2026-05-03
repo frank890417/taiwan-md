@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：中華電信.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2dc422bd153e8b6c'
+sourceBodyHash: 'sha256:7cf96bc35fdd604f'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Companies: Chunghwa Telecom'
 description: "Taiwan's largest telecommunications operator, transforming from state monopoly to digital transformation leader"

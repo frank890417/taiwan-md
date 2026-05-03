@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：奇美實業.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ef66216f5745267b'
+sourceBodyHash: 'sha256:311e82e102e15eb1'
 translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 

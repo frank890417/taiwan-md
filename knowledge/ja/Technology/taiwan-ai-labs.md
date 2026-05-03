@@ -13,6 +13,7 @@ featured: true
 translatedFrom: 'Technology/台灣人工智慧實驗室.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e74b5658957423e'
+sourceBodyHash: 'sha256:2c51a2d73a243593'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

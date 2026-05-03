@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/朴星垠.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:b387b2ccc5c7905c'
+sourceBodyHash: 'sha256:e7707b2af3303c6e'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

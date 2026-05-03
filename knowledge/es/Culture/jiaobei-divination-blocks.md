@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/擲筊.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:30bfc298addfbbfa'
+sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

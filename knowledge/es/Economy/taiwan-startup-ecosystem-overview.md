@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/新創生態系.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:8818217b96aa8dda'
+sourceBodyHash: 'sha256:ae328957faee62bc'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

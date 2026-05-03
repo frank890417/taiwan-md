@@ -21,6 +21,7 @@ readingTime: 12
 translatedFrom: 'Society/為台灣而教TFT.md'
 sourceCommitSha: '26216f73'
 sourceContentHash: 'sha256:8877b0b0d8b6abd7'
+sourceBodyHash: 'sha256:a37786359a5d674c'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

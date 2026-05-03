@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/高速公路.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:8da1bf163616fdc6'
+sourceBodyHash: 'sha256:6f25b03f0ed1d8d2'
 translatedAt: '2026-05-03T21:36:22+08:00'
 ---
 

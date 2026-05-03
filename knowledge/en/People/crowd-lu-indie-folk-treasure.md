@@ -28,6 +28,7 @@ lastHumanReview: true
 translatedFrom: 'People/盧廣仲.md'
 sourceCommitSha: '55adefac'
 sourceContentHash: 'sha256:6563f57d9c93f464'
+sourceBodyHash: 'sha256:bff59abbbb3fe6a1'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

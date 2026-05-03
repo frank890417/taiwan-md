@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/陳建仁.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95a660352fbbce5b'
+sourceBodyHash: 'sha256:47ca4b995c96a822'
 translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 

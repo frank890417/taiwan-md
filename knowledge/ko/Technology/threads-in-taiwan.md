@@ -20,6 +20,7 @@ translatedFrom: 'Technology/Threads在台灣.md'
 lastVerified: 2026-03-24
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:0c7725f61abaf247'
+sourceBodyHash: 'sha256:be91d069d3d81840'
 translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 

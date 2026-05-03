@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Culture/台灣製香文化與香腳原鄉.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:4d2a912d036395eb"
+sourceBodyHash: 'sha256:ff06812d4ea7476e'
 translatedAt: "2026-04-14T12:34:13+08:00"
 ---
 

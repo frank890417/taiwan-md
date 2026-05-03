@@ -25,6 +25,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣島嶼博物學.md'
 sourceCommitSha: '540031d7'
 sourceContentHash: 'sha256:f56942a615c27046'
+sourceBodyHash: 'sha256:7e95d6d709cb27df'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

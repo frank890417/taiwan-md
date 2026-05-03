@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/台灣行政區劃.md'
 sourceCommitSha: '4caeb669'
 sourceContentHash: 'sha256:e04df8f4634554d6'
+sourceBodyHash: 'sha256:a900fc355006c673'
 translatedAt: '2026-05-02T08:55:00+08:00'
 ---
 

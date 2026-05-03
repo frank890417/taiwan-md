@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Music/茄子蛋.md'
 sourceCommitSha: '377006e0'
 sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
+sourceBodyHash: 'sha256:06f0fe3b93639905'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Music
 ---

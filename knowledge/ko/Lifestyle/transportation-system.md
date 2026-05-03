@@ -24,6 +24,7 @@ lastHumanReview: true
 translatedFrom: Lifestyle/台灣交通系統.md
 sourceCommitSha: a8471cc2
 sourceContentHash: sha256:f955209c0b809e4b
+sourceBodyHash: 'sha256:c2b8a86142503325'
 translatedAt: 2026-05-01T22:19:01+08:00
 category: Lifestyle
 ---

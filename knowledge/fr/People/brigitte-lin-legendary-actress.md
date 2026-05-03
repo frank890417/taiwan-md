@@ -19,6 +19,7 @@ translatedFrom: 'People/林青霞.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2eacc434230880ee'
+sourceBodyHash: 'sha256:d26764e2c2a5eff6'
 translatedAt: '2026-04-14T19:15:55+08:00'
 ---
 

@@ -12,6 +12,7 @@ translatedFrom: 'Art/台灣散文.md'
 lastVerified: 2026-03-24
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d7ef47535e3ba2f2'
+sourceBodyHash: 'sha256:9cb5aac080fec83b'
 translatedAt: '2026-04-14T09:20:00+08:00'
 ---
 

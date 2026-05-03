@@ -21,6 +21,7 @@ featured: 'true'
 translatedFrom: 'Economy/產業轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ce20822406c79ae1'
+sourceBodyHash: 'sha256:f3709634beb4667c'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

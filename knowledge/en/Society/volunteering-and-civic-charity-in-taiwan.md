@@ -17,6 +17,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3da44641d134eb50'
+sourceBodyHash: 'sha256:cf71241a19c21d04'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

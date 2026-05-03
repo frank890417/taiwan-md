@@ -20,6 +20,7 @@ readingTime: 8
 translatedFrom: 'Music/台灣民謠與歌謠.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
+sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

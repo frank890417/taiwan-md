@@ -25,6 +25,7 @@ lastHumanReview: true
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
 sourceCommitSha: '87911554'
 sourceContentHash: 'sha256:837f5b46feb37f61'
+sourceBodyHash: 'sha256:ef11b70d69d87737'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

@@ -13,6 +13,7 @@ featured: false
 translatedFrom: People/郭正光.md
 sourceCommitSha: fb57de30
 sourceContentHash: sha256:e00af3b07adcb778
+sourceBodyHash: 'sha256:beb2338ff10788ce'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

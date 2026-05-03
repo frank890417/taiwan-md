@@ -18,6 +18,7 @@ featured: true
 translatedFrom: 'Art/台灣策展人與藝術文化建構.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:321e09715c3afee4'
+sourceBodyHash: 'sha256:3ddfebeada2ca7e5'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

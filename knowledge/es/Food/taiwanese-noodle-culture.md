@@ -20,6 +20,7 @@ featured: true
 translatedFrom: 'Food/台灣麵食文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b29927b05c617ee'
+sourceBodyHash: 'sha256:07d9c3b482846ce9'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: Food
 ---

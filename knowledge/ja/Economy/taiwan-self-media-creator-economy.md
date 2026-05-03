@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:96a6ae9b363e959a'
+sourceBodyHash: 'sha256:ccfe4d55665e1140'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

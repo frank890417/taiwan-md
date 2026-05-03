@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/台灣板塊運動與地震活動.md'
 sourceCommitSha: '6ff654e9'
 sourceContentHash: 'sha256:b3e3292798f3bf59'
+sourceBodyHash: 'sha256:f92d8fa095bcec61'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

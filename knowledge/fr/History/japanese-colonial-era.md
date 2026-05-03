@@ -18,6 +18,7 @@ featured: true
 translatedFrom: History/日治時期.md
 sourceCommitSha: 3aba2ea3
 sourceContentHash: sha256:fb4775ce7ce7538c
+sourceBodyHash: 'sha256:a19f66d12d9ae924'
 translatedAt: 2026-05-01T22:19:06+08:00
 category: History
 ---

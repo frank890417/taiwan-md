@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/溫泉文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5c053dd9110acc9b'
+sourceBodyHash: 'sha256:62212c95c5c34acf'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

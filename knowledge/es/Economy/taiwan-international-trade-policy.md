@@ -21,6 +21,7 @@ featured: 'true'
 translatedFrom: 'Economy/台灣國際貿易政策.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:e86aa807bf77d463'
+sourceBodyHash: 'sha256:50732ecac41f23f8'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: Economy
 ---

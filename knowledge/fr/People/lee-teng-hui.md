@@ -12,6 +12,7 @@ translatedFrom: 'People/李登輝.md'
 lastVerified: 2026-03-22
 sourceCommitSha: 'cbc2ad44'
 sourceContentHash: 'sha256:b7406ab07a0d09c2'
+sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-04-14T19:15:40+08:00'
 ---
 

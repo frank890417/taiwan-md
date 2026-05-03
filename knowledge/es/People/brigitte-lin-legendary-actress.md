@@ -16,6 +16,7 @@ lastHumanReview: false
 translatedFrom: People/林青霞.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:2eacc434230880ee
+sourceBodyHash: 'sha256:d26764e2c2a5eff6'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

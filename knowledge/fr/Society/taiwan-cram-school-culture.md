@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣補習班文化.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:0ad8f24127489ef0'
+sourceBodyHash: 'sha256:2b22c43058efac00'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

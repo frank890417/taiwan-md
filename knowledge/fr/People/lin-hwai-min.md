@@ -12,6 +12,7 @@ lastVerified: 2026-03-23
 translatedFrom: "People/林懷民.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:90c4912ca48f7ecb"
+sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: "2026-04-14T19:15:55+08:00"
 ---
 

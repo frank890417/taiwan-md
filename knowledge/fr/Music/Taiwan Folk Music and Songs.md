@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Music/台灣民謠與歌謠.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:b219ae0c22f1ce55'
+sourceBodyHash: 'sha256:943159c3ad5fba6c'
 translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 

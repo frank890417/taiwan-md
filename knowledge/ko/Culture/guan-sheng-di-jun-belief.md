@@ -11,6 +11,7 @@ lastVerified: 2026-03-26
 translatedFrom: 'Culture/關聖帝君信仰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
+sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 

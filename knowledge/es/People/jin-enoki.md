@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/金針菇.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:c7df79384a3f8e53'
+sourceBodyHash: 'sha256:ee002af28b6f5f29'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

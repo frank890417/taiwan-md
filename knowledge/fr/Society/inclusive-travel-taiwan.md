@@ -20,6 +20,7 @@ readingTime: 12
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:8a4d3295bf443494'
+sourceBodyHash: 'sha256:be2327c5c3e0748e'
 translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Society/社會住宅與居住正義.md'
 sourceCommitSha: 'c67109e5'
 sourceContentHash: 'sha256:0b357a241c1eb7d6'
+sourceBodyHash: 'sha256:753e4d8b4e01e195'
 translatedAt: '2026-05-02T13:50:40+08:00'
 ---
 

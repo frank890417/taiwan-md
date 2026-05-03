@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/林義雄.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:1c07e29909bcc37a'
+sourceBodyHash: 'sha256:7e9076250edc5a41'
 translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 

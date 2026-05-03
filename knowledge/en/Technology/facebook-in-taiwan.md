@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/Facebook.md'
 sourceCommitSha: '583d4be9'
 sourceContentHash: 'sha256:b95e3374b854ce1d'
+sourceBodyHash: 'sha256:491bf14e00bda07d'
 translatedAt: '2026-05-02T13:31:21+08:00'
 ---
 

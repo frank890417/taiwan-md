@@ -17,6 +17,7 @@ lastHumanReview: true
 translatedFrom: 'Music/台灣國樂.md'
 sourceCommitSha: '5dfae94a'
 sourceContentHash: 'sha256:0bcde4a3f239bc5d'
+sourceBodyHash: 'sha256:c0bd2cc77ca9d51c'
 translatedAt: '2026-05-01T13:19:11+08:00'
 category: Music
 ---

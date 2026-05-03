@@ -29,6 +29,7 @@ lastHumanReview: false
 translatedFrom: People/黃少雍.md
 sourceCommitSha: 7bcc3ce4
 sourceContentHash: sha256:65cb3b32c20f1e8b
+sourceBodyHash: 'sha256:7cbe89f3dbd3a776'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

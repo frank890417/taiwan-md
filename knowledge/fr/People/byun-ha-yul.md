@@ -12,6 +12,7 @@ category: People
 translatedFrom: People/邊荷律.md
 sourceCommitSha: 967e77ab
 sourceContentHash: sha256:af29100685c178a2
+sourceBodyHash: 'sha256:be4e8ced9d5948a0'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

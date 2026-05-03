@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/伍佰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ea6fd59542e4310'
+sourceBodyHash: 'sha256:cc1e0075f9bb9389'
 translatedAt: '2026-04-14T19:24:04+08:00'
 ---
 

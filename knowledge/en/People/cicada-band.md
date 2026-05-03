@@ -4,6 +4,7 @@ description: "Founded in Taipei in 2009, Cicada is a fully instrumental, vocally
 translatedFrom: 'People/Cicada.md'
 sourceCommitSha: 'e53be21c'
 sourceContentHash: 'sha256:fe41f66467969b5d'
+sourceBodyHash: 'sha256:94ae560f9807778b'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-18
 tags:

@@ -22,6 +22,7 @@ lastHumanReview: true
 translatedFrom: 'History/阿里山：帝國的林場與高一生的山.md'
 sourceCommitSha: '3aba2ea3'
 sourceContentHash: 'sha256:e62d0eea59514d87'
+sourceBodyHash: 'sha256:a7df3087b3ccbab6'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

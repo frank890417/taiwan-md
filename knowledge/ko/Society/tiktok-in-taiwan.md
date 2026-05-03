@@ -23,6 +23,7 @@ translatedFrom: 'Society/TikTok.md'
 lastVerified: 2026-04-12
 sourceCommitSha: '92f224cf'
 sourceContentHash: 'sha256:5107a48f2b5cfa08'
+sourceBodyHash: 'sha256:6054d2cc1d83cb36'
 translatedAt: '2026-04-14T06:21:59+08:00'
 ---
 

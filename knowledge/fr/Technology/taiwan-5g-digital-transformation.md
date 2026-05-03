@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:99a0b29cbafe5bb9'
+sourceBodyHash: 'sha256:c52a64f6601d0c03'
 translatedAt: '2026-04-14T12:32:55+08:00'
 ---
 

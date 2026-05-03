@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Society/報導者.md'
 sourceCommitSha: 'ee4917f3'
 sourceContentHash: 'sha256:49cc6bc592e21101'
+sourceBodyHash: 'sha256:eb5141137b65e66f'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

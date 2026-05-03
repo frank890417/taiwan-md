@@ -4,6 +4,7 @@ description: "Vocalist 'Wawa' of Naturally Curly in 2003, going solo as 'Waa Wei
 translatedFrom: 'People/魏如萱.md'
 sourceCommitSha: '7bcc3ce4'
 sourceContentHash: 'sha256:c0bf0a88da519f63'
+sourceBodyHash: 'sha256:071293de94a6fba8'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-18
 tags:

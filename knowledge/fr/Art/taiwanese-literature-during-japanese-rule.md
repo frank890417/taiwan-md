@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: Art/日治時期文學.md
 sourceCommitSha: f553d365
 sourceContentHash: sha256:19723b834d9cebfa
+sourceBodyHash: 'sha256:f40bf580a8b9cd38'
 translatedAt: 2026-05-01T22:19:06+08:00
 description: "Du traité de Shimonoseki en 1895 à la reddition japonaise en 1945, la littérature taïwanaise est née comme voix indépendante sous la pression coloniale. Lai Ho (賴和), le père de la nouvelle littérature taïwanaise, Yang Kui (楊逵) et Lü He-ruo (呂赫若) utilisèrent le chinois et le japonais pour résister, témoigner et créer, forgeant la tradition réaliste et le langage littéraire localisé qui allait marquer toute l'écriture taïwanaise ultérieure."
 ---

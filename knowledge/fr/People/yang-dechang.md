@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7eb377093645b409'
+sourceBodyHash: 'sha256:17251b5f245f8706'
 translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 

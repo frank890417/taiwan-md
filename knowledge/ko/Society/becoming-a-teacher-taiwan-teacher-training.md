@@ -23,6 +23,7 @@ translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
 lastVerified: 2026-04-12
 sourceCommitSha: 'e5be81a5'
 sourceContentHash: 'sha256:8742b676dcfc18c1'
+sourceBodyHash: 'sha256:bc28058b9b5c1450'
 translatedAt: '2026-04-14T06:21:59+08:00'
 ---
 

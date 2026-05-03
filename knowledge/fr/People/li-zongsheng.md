@@ -12,6 +12,7 @@ translatedFrom: "People/李宗盛.md"
 lastVerified: 2026-03-19
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:37754a7922b8e177"
+sourceBodyHash: 'sha256:35af853224238a69'
 translatedAt: "2026-04-14T19:15:26+08:00"
 ---
 

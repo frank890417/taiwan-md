@@ -8,6 +8,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/劉德音.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:958c8a4a8799c54d'
+sourceBodyHash: 'sha256:366bd46a2354e0ef'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

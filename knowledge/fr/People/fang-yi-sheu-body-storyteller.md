@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/許芳宜.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:dc32b7371f317ffc'
+sourceBodyHash: 'sha256:6f922a26bc4470c3'
 translatedAt: '2026-04-14T19:18:50+08:00'
 ---
 

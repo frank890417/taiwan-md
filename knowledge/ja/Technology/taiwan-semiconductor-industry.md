@@ -1,17 +1,9 @@
 ---
-title: '半導体産業'
-description: '張忠謀の歴史的賭けから2ナノメートル時代へ：TSMCが台湾を世界の科技の生命線にした方法'
+title: "Semiconductor Industry"
+description: "From Morris Chang's Historical Bet to the 2nm Era: How TSMC Made Taiwan the Global Tech Lifeline"
 date: 2026-03-17
-tags:
-  [
-    '半導体',
-    'TSMC',
-    '台積電',
-    '先進プロセス',
-    'テクノロジーアイランド',
-    'シールド',
-  ]
-subcategory: '半導體與硬體'
+tags: ['semiconductor', 'TSMC', 'TSMC', 'advanced process', 'tech island', 'silicon shield']
+subcategory: 'Semiconductors and Hardware'
 author: 'Taiwan.md'
 difficulty: 'intermediate'
 readingTime: 15
@@ -19,252 +11,249 @@ featured: true
 category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
-translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: 'f78028db'
-sourceContentHash: 'sha256:af4fb282e9cb0e30'
-translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 
-# 半導体産業
+# Semiconductor Industry
 
-> **30秒概要：** TSMCは2025年末から2ナノメートルプロセスの量産を開始し、世界を2〜3年リードしています。3ナノメートルプロセスの稼働率はすでに100%に達し、先進プロセスの売上高は全体の69%を占めています。1987年の張忠謀による「ファウンドリモデル」の賭けから、今日の世界の科技の生命線へ——台湾は地球上で最も高度なチップ製造技術を握っています。
+> **30-Second Overview:** TSMC begins mass production of 2nm chips by the end of 2025, leading the world by 2-3 years. The utilization rate for 3nm processes has reached 100%, with advanced process revenue accounting for 69%. From Morris Chang's "foundry model" bet in 1987 to today's global tech lifeline—Taiwan holds the most advanced chip manufacturing technology on Earth.
 
-1985年のある午後、政務委員の李国鼎は行政院で、帰国して工研院院長に就任したばかりの張忠謀を見つけました。李国鼎は単刀直入に言いました。「超大規模集積回路製造会社を作りたい。あなたに主導してもらいたい。」
+In the afternoon of 1985, State Councilor Kuo-Tung Lee visited Morris Chang, who had just returned to Taiwan to assume the presidency of the Industrial Technology Research Institute (ITRI). Lee got straight to the point: "We want to create a mega integrated circuit manufacturing company. You will lead it."
 
-張忠謀は驚きました。院長になるだけだと思っていたのに、2週間後には誰も試したことのないビジネスモデルを持つ会社の創設に駆り出されることになったのです。
+Chang was taken aback. He thought he was only there to serve as the institute's president, only to be pulled into founding a company with a business model no one had ever tried commercially two weeks later.
 
-この会話が、世界を変えました。
+This conversation changed the world.
 
-## 1987年：前例なき賭け
+## 1987: An Unprecedented Bet
 
-### RCA技術移転の前史
+### The Prelude to RCA Technology Transfer
 
-物語は1973年に遡ります。この年、工研院は450万ドルをかけて米国RCA社の集積回路技術を購入し、19人のエンジニアを米国に派遣して訓練を受けさせました。当時、この「授業料」が台湾半導体王国の最初の礎石になるとは誰も思っていませんでした。
+The story begins in 1973. That year, ITRI spent $4.5 million to purchase integrated circuit technology from the US RCA company, sending 19 engineers to the US for training. At the time, no one could have imagined that this "tuition fee" would become the first cornerstone of Taiwan's semiconductor kingdom.
 
-1980年、工研院から技術移転を受けて聯華電子が設立され、台湾初の半導体会社が誕生しました。しかし李国鼎は満足しませんでした——聯電は規模が小さく、技術が国際水準に追いつけません。台湾にはさらなるブレイクスルーが必要でした。
+In 1980, ITRI spun off United Microelectronics Corporation (UMC), giving Taiwan its first semiconductor company. But Lee Kuo-tung was not satisfied—UMC was too small, and its technology could not keep up with international standards. Taiwan needed a bigger breakthrough.
 
-### 張忠謀の狂気のアイデア
+### Chang's Crazy Idea
 
-1987年2月21日、張忠謀は新竹科学園區で台湾積體電路製造股份有限公司を設立し、前例のないビジネスモデルを切り開きました：**純粋なファウンドリ（受託製造）**。
+On February 21, 1987, Morris Chang established Taiwan Semiconductor Manufacturing Company (TSMC) in the Hsinchu Science Park, pioneering an unprecedented business model: **pure foundry**.
 
-このアイデアは当時、聞いただけでも狂気じみたものでした。世界中の半導体会社はすべて垂直統合——設計から製造まで一貫して行っていました。製造だけを行い、設計をしないというビジネスが成り立つはずがない。顧客が最も機密性の高い設計図を預けるはずがない。
+This idea sounded crazy at the time. All semiconductor companies worldwide were vertically integrated—from design to manufacturing in one go. How could a company only do manufacturing without design? Would clients hand over their most confidential design blueprints to you?
 
-張忠謀のロジックはシンプルでした。半導体産業の発展はますます複雑になっており、設計と製造はまったく異なる専門分野である。すべてを手広くやってすべてを中途半端にするよりも、一つのことに集中する——チップ製造を世界一にすることに専念する。
+Chang's logic was simple: The semiconductor industry is becoming increasingly complex; design and manufacturing are two completely different specialties. Rather than doing everything and mastering nothing, it is better to focus on doing one thing well—making chip manufacturing the best in the world.
 
-### 国際協力の巧みな設計
+### Clever International Cooperation
 
-TSMC設立時の株式構成は巧みなものでした：
+TSMC's initial equity structure was clever:
 
-- 政府出資：48.3%（国家戦略的地位の確保）
-- 民間出資：24.2%（台湾資本の参加）
-- オランダ・フィリップス：27.5%（国際技術と顧客の導入）
+- Government investment: 48.3% (ensuring national strategic status)
+- Private investment: 24.2% (participation of Taiwanese capital)
+- Philips (Netherlands): 27.5% (introducing international technology and customers)
 
-フィリップスの参加が鍵でした。当時、半導体産業は米国と日本に独占されており、欧州は代替供給源を切望していました。フィリップスは出資だけでなく、自社のチップ注文をTSMCに出し、最初の重要な顧客となりました。
+Philips' participation was key. At the time, the semiconductor industry was dominated by the US and Japan, and Europe urgently needed alternative suppliers. Philips not only invested but also handed its chip orders to TSMC, becoming the first major customer.
 
-## ファウンドリモデル：世界の半導体エコシステムを再構築
+## The Foundry Model: Reshaping the Global Semiconductor Ecosystem
 
-### 産業分業の革命
+### Revolution in Industrial Division
 
-TSMCのファウンドリモデルは、半導体産業の大分業を引き起こしました：
+TSMC's foundry model triggered a major division of labor in the semiconductor industry:
 
-- **IC設計会社**はチップの設計に専念する（クアルコム、NVIDIA、聯發科など）
-- **ファウンドリ**はチップの製造に専念する（TSMC、聯電、グローバルファウンドリーズなど）
-- **パッケージング・テスト工場**は後工程を担当する（日月光、矽品など）
+- **IC Design Companies** focus on designing chips (e.g., Qualcomm, NVIDIA, MediaTek)
+- **Foundries** focus on manufacturing chips (TSMC, UMC, GlobalFoundries)
+- **Packaging and Testing Plants** handle downstream processes (ASE, SPIL)
 
-このモデルにより、より多くの企業が半導体産業に参入できるようになりました。かつてはインテルやIBMのような巨大企業でなければ、ウェハ工場の天文学的な投資を負担できませんでしたが、今では優れたアイデアを持つ新興企業でもチップを設計し、TSMCに製造を委託できるようになりました。
+This model allowed more companies to enter the semiconductor industry. In the past, only giants like Intel and IBM could afford the astronomical investments in wafer fabs. Now, any startup with a good idea can design a chip and have it manufactured by TSMC.
 
-### 信頼メカニズムの構築
+### Building a Trust Mechanism
 
-ファウンドリモデルの核心は信頼です。顧客はTSMCが設計を盗まない、営業秘密を漏らさない、競合しないと信じなければなりません。
+The core of the foundry model is trust. Clients must believe that TSMC will not steal their designs, leak trade secrets, or compete with them.
 
-TSMCは厳格な「信頼ルール」を確立しました：
+TSMC established strict "rules of trust":
 
-1. **技術的中立性**：自社でチップを設計することは絶対にしない
-2. **顧客平等**：すべての顧客が同じ技術とサービスを受けられる
-3. **秘密保持契約**：最高レベルの情報セキュリティ対策
-4. **生産能力配分**：先進プロセスの生産能力を公平に配分
+1. **Technological Neutrality**: Never design chips for itself.
+2. **Customer Equality**: All customers receive the same technology and services.
+3. **Confidentiality Agreements**: Highest level of information security protection.
+4. **Capacity Allocation**: Fair allocation of advanced process capacity.
 
-このルールは40年間実行されており、一度も破られたことはありません。
+These rules have been enforced for nearly 40 years without exception.
 
-## プロセス技術：終わりなき軍拡競争
+## Process Technology: The Eternal Arms Race
 
-### ムーアの法則の追跡者
+### Chasing Moore's Law
 
-1965年、インテルの創設者ゴードン・ムーアが「ムーアの法則」を提唱しました：チップ上のトランジスタ数は18ヶ月ごとに倍増する。この法則は50年以上にわたり半導体産業の発展を牽引し、TSMCと世界の競合者たちのレースコースとなりました。
+In 1965, Intel co-founder Gordon Moore proposed "Moore's Law": The number of transistors on a chip doubles every 18 months. This law has driven the semiconductor industry's development for over 50 years and serves as the track for TSMC and global competitors.
 
-1987年の3マイクロメートルプロセスからスタートし、TSMCは追い続けてきました：
+Starting from the 3-micron process in 1987, TSMC has been catching up:
 
-- **1990年代**：1.2マイクロメートル、0.8マイクロメートル、0.6マイクロメートル
-- **2000年代**：0.35マイクロメートル、0.25マイクロメートル、0.18マイクロメートル、0.13マイクロメートル、90ナノメートル
-- **2010年代**：65ナノメートル、40ナノメートル、28ナノメートル、20ナノメートル、16ナノメートル、10ナノメートル、7ナノメートル
-- **2020年代**：5ナノメートル、3ナノメートル、2ナノメートル
+- **1990s**: 1.2 microns, 0.8 microns, 0.6 microns
+- **2000s**: 0.35 microns, 0.25 microns, 0.18 microns, 0.13 microns, 90 nanometers
+- **2010s**: 65nm, 40nm, 28nm, 20nm, 16nm, 10nm, 7nm
+- **2020s**: 5nm, 3nm, 2nm
 
-### 2ナノメートル時代の到来
+### The Arrival of the 2nm Era
 
-2025年第4四半期、TSMCは2ナノメートルプロセスの量産を開始しました。主要な生産拠点は新竹宝山20工場と高雄22工場にあります。これは人類の製造技術の新たな限界です——2ナノメートルは原子20個分の直径に相当し、物理学の理論的境界に近づいています。
+In the fourth quarter of 2025, TSMC began mass production of the 2nm process, with main production lines located at Hsinchu Hsinchu 20 and Kaohsiung 22. This is the new limit of human manufacturing technology—2nm is equivalent to the diameter of 20 atoms, approaching the theoretical boundaries of physics.
 
-TSMCは、2026年末までに2ナノメートルプロセスの月間生産能力が10万枚に達すると予測しています。最初の顧客にはアップルのAシリーズチップとNVIDIAのAIチップが含まれます。
+TSMC estimates that by the end of 2026, the monthly capacity for 2nm processes will reach 100,000 wafers. First customers include Apple's A-series chips and NVIDIA's AI chips.
 
-競合者にとってさらに絶望的なのは、TSMCがすでに1.6ナノメートル（A16）プロセスの研究開発を進めており、2026年後半に量産を予定していることです。世界中がまだ3ナノメートルを追いかけている間に、TSMCはすでにエングストロム級（1ナノメートル以下）に向けて突き進んでいます。
+What is even more despairing for competitors is that TSMC is already developing the 1.6nm (A16) process, expected to be mass-produced in the second half of 2026. While the rest of the world is still chasing 3nm, TSMC is already sprinting towards the Angstrom era (below 1nm).
 
-### 技術リードの代償
+### The Cost of Technological Leadership
 
-先進プロセスの研究開発コストは指数関数的に増大しています：
+The R&D costs for advanced processes are growing exponentially:
 
-- 28ナノメートルプロセス：10億ドル
-- 7ナノメートルプロセス：30億ドル
-- 3ナノメートルプロセス：100億ドル
-- 2ナノメートルプロセス：推定200億ドル以上
+- 28nm process: $1 billion
+- 7nm process: $3 billion
+- 3nm process: $10 billion
+- 2nm process: Estimated at over $20 billion
 
-この天文学的な投資により、このゲームについてこれる企業はますます少なくなっています。現在、世界で先進プロセスの軍拡競争に残っているのはTSMC、サムスン、インテルの3社のみであり、TSMCは他の競合者に2〜3世代のリードを保っています。
+This astronomical investment means fewer and fewer companies can keep up with this game. Currently, only three companies in the world—TSMC, Samsung, and Intel—are still in the advanced process arms race, with TSMC leading its competitors by 2-3 generations.
 
-## 護国神山：地政学の新たな切り札
+## The Sacred Mountain of Protection: New Geopolitical Chips
 
-### シリコンシールド効果
+### The Silicon Shield Effect
 
-TSMCの技術的優位性は、意図せずして台湾の地政学における「シリコンシールド」となりました。世界のテクノロジー大手企業はすべてTSMCの先進プロセスに依存しています：
+TSMC's technological advantage has inadvertently become Taiwan's "silicon shield" in geopolitics. The world's tech giants all rely on TSMC's advanced processes:
 
-- **アップル**：iPhone、iPad、Macのコアチップ
-- **NVIDIA**：AI学習・推論チップ
-- **AMD**：CPUおよびGPUチップ
-- **クアルコム**：5Gスマートフォンチップ
-- **テスラ**：自動運転チップ
+- **Apple**: Core chips for iPhone, iPad, Mac
+- **NVIDIA**: AI training and inference chips
+- **AMD**: CPU and GPU chips
+- **Qualcomm**: 5G mobile chips
+- **Tesla**: Autonomous driving chips
 
-もしTSMCが1週間停止した場合、世界のテクノロジーサプライチェーンは麻痺します。この戦略的地位により、台湾は国際政治において前例のない影響力を持つようになりました。
+If TSMC stops production for one week, the global tech supply chain would paralyze. This strategic position gives Taiwan unprecedented influence in international politics.
 
-### 各国の争奪戦
+### The Global Scramble
 
-TSMCがあまりにも重要であるため、各国はこの技術を自国に移そうとしています：
+Because TSMC is so important, various countries want to move this technology to their own homes:
 
-**米国アリゾナ工場**（2025〜2028年）：
-400億ドルを投資し、5ナノメートルおよび3ナノメートルチップの生産を予定しています。しかし生産能力は限定的であり、実質的な意味よりも象徴的な意味合いが強いです。
+**US Arizona Plant** (2025-2028):
+Investing $40 billion, expected to produce 5nm and 3nm chips. However, capacity is limited, and the symbolic significance outweighs the practical impact.
 
-**日本熊本工場**（2024年稼働）：
-ソニー、トヨタと協力し、22ナノメートルから28ナノメートルの車載チップを生産します。これらは最先端プロセスではありませんが、日本の自動車産業の需要を満たすには十分です。
+**Japan Kumamoto Plant** (Production started in 2024):
+Collaborating with Sony and Toyota to produce 22nm to 28nm automotive chips. These are not the most advanced processes but are sufficient to meet the needs of the Japanese automotive industry.
 
-**ドイツドレスデン工場**（2027年稼働開始）：
-BMW、ボッシュと協力し、欧州市場の車載エレクトロニクスを主なターゲットとしています。
+**Germany Dresden Plant** (To be activated in 2027):
+Collaborating with BMW and Bosch, focusing on the European automotive electronics market.
 
-しかし、これらの海外工場の重要な点は：**最も高度なプロセス技術は依然として台湾に残っている**ということです。2ナノメートル、1.6ナノメートルなどの先端技術は、短期的には海外に移転しません。台湾は依然として世界の半導体技術の心臓部です。
+But the key to these overseas plants is: **The most advanced process technology remains in Taiwan**. Cutting-edge technologies like 2nm and 1.6nm will not be moved out in the short term. Taiwan remains the heart of global semiconductor technology.
 
-## AIブーム：予想外の第二の春
+## The AI Wave: An Unexpected Second Spring
 
-### スマートフォンからAIへの転換
+### Transition from Mobile to AI
 
-2020年以前、TSMCの主要顧客はスマートフォンチップメーカーでした。しかし2022年のChatGPTの爆発的人気により、AIが新たな成長エンジンとなりました。
+Before 2020, TSMC's main customers were mobile chip manufacturers. But after ChatGPT went viral in 2022, AI became a new growth engine.
 
-AIの学習と推論には膨大な計算能力が必要であり、高性能チップの需要が急増しました。NVIDIAのH100、H200 AIチップはすべて、TSMCの4ナノメートルおよび5ナノメートルプロセスで生産されています。アップルのMシリーズチップにもAI機能がさらに追加されています。
+AI training and inference require massive computing power, driving a surge in demand for high-end chips. NVIDIA's H100 and H200 AI chips are all produced using TSMC's 4nm and 5nm processes. Apple's M-series chips have also added more AI features.
 
-2024年のデータによると、先進プロセス（7ナノメートルおよびそれより微細なプロセス）の売上高はTSMCの総ウェハ売上高の69%に達しています。この比率は今後も上昇し続けています。
+Data from 2024 shows that revenue from advanced processes (7nm and more advanced) has reached 69% of TSMC's total wafer sales. This proportion continues to rise.
 
-### CoWoSパッケージング技術のブレイクスルー
+### Breakthrough in CoWoS Packaging Technology
 
-AIチップは膨大なデータを処理する必要があり、単一のチップではもう不十分です。複数のチップを「積み重ねる」必要があります。TSMCのCoWoS（チップオンワオンパッケージング）技術は、AI時代の鍵となる技術となりました。
+AI chips need to process massive amounts of data. A single chip is no longer enough; multiple chips must be "stacked" together. TSMC's CoWoS (Chip-on-Wafer-on-Substrate) packaging technology has become the key technology of the AI era.
 
-NVIDIAのH100チップは、CoWoS技術を使用してGPUチップと高速メモリを一つのパッケージに封入しています。この技術の参入障壁は非常に高く、現在量産できるのはTSMCだけです。
+NVIDIA's H100 chip uses CoWoS technology to package the GPU chip and high-speed memory together. This technology has a very high barrier to entry, and currently, only TSMC can mass-produce it.
 
-## 競合他社：サムスンの猛追とインテルの苦闘
+## Competitors: Samsung's Tight Pursuit and Intel's Struggle
 
-### サムスンの韓国式攻勢
+### Samsung's Korean Offensive
 
-韓国のサムスンはTSMC最大の競合企業であり、まったく異なる戦略を採用しています：
+Samsung is TSMC's main competitor, adopting a completely different strategy:
 
-- **垂直統合**：メモリ、チップファウンドリ、スマートフォン製造まで一貫体制
-- **巨額投資**：2022〜2026年に2,300億ドルを投資
-- **政府支援**：韓国の「K-半導体ベルト」計画による全面的な支援
+- **Vertical Integration**: From memory and chip foundry to mobile phone manufacturing in one go.
+- **Huge Investment**: Investing $230 billion from 2022 to 2026.
+- **Government Support**: The Korean "K-Semiconductor Belt" plan fully supports this.
 
-しかしサムスンは先進プロセスにおける歩留まりでTSMCにまだ遅れを取っています。2023年時点でサムスンの3ナノメートルプロセスの歩留まりは約60%ですが、TSMCは90%以上に達しています。チップファウンドリという精度がすべてを決める産業において、歩留まりの差は天地の差です。
+However, Samsung still lags behind TSMC in advanced process yield. In 2023, Samsung's 3nm process yield was about 60%, while TSMC had reached over 90%. In the semiconductor foundry industry, where precision determines everything, the yield gap is worlds apart.
 
-### インテルの転換苦闘
+### Intel's Transformation Struggles
 
-インテルはかつて世界の半導体技術のリーダーでしたが、10ナノメートルプロセスで数年にわたり行き詰まり、TSMCとの競争の最良のタイミングを逃しました。
+Intel was once the global leader in semiconductor technology but got stuck on the 10nm process for years, missing the best opportunity to compete with TSMC.
 
-2021年、インテルは「IDM 2.0」戦略を発表し、自社のチップ設計とファウンドリ事業を同時に運営することを目指しました。しかし2025年になっても、インテルのファウンドリ事業は主要顧客を獲得できていません。最も皮肉なことに、インテルが自社設計した一部の高性能チップの製造も、TSMCに委託するようになりました。
+In 2021, Intel proposed the "IDM 2.0" strategy to operate both its own chip design and foundry business. But by 2025, Intel's foundry business had not yet secured major customers. Ironically, some of Intel's own high-end chips are now also manufactured by TSMC.
 
-## 台湾の半導体エコシステム：TSMCだけではない
+## Taiwan's Semiconductor Ecosystem: More Than Just TSMC
 
-### 完全な産業チェーンの強み
+### Advantages of a Complete Industrial Chain
 
-台湾の半導体産業の競争力はTSMCだけから来ているのではなく、エコシステム全体から生まれています：
+Taiwan's semiconductor industry competitiveness comes not just from TSMC, but from the entire ecosystem:
 
-**IC設計**：聯発科（世界トップ3）、聯詠、瑞昱、奇景
-**ウェハファウンドリ**：TSMC（世界第1）、聯電、世界先進
-**パッケージング・テスト**：日月光（世界第1）、矽品、京元電
-**設備・材料**：南亞科、華邦電、穩懋
+**IC Design**: MediaTek (Top 3 globally), Novatek, Realtek, PixArt
+**Wafer Foundry**: TSMC (Global No. 1), UMC, Vanguard International Semiconductor
+**Packaging and Testing**: ASE (Global No. 1), SPIL, KEMET
+**Equipment and Materials**: Nan Ya Technology, Winbond, Vanguard
 
-この完全な産業集団は、強力なシナジー効果を生み出しています。チップの設計から完成まで、台湾内で一巡するだけで完結し、国際的な輸送は不要です。
+This complete industrial cluster creates strong synergies. A chip can go from design to completion in a loop around Taiwan, without needing cross-border transportation.
 
-### 人材が集まる新竹科学園區
+### Talent Aggregation in Hsinchu Science Park
 
-新竹科学園區は1980年に設立され、40年以上の発展を経て、世界で最も重要な半導体集団の一つとなりました。園區内には500社以上の企業があり、従業員は17万人を超えています。
+Established in 1980, the Hsinchu Science Park has developed over 40 years into one of the most important semiconductor clusters in the world. The park has over 500 companies and more than 170,000 employees.
 
-さらに重要なのは人材の流動性です。エンジニアはTSMCで数年間働いた後、聯発科に移ってチップ設計を担当し、さらに日月光に転じてパッケージングを担当するというキャリアパスが可能です。この人材の循環により、産業全体の技術水準が絶えず向上しています。
+More importantly is talent mobility. Engineers may spend a few years at TSMC, then jump to MediaTek to design chips, and then move to ASE to handle packaging. This talent circulation continuously raises the technical level of the entire industry.
 
-## 将来の課題：物理的限界と地政学リスク
+## Future Challenges: Physical Limits and Geopolitical Risks
 
-### ムーアの法則の終焉
+### The End of Moore's Law
 
-2ナノメートルはシリコンベースの半導体の物理的限界に近づいています。微細化を続けるためには、新しい材料（カーボンナノチューブ、グラフェンなど）や新しいアーキテクチャ（量子コンピューティング、フォトニックコンピューティングなど）が必要になるかもしれません。
+2nm is already approaching the physical limits of silicon-based semiconductors. To continue shrinking, new materials (such as carbon nanotubes, graphene) or new architectures (such as quantum computing, photonics) may be required.
 
-TSMCが研究開発を進めている「エングストロム級」プロセス（1ナノメートル以下）では、技術的難易度が指数関数的に上昇しています。トランジスタ1個あたりのコストは逆に上昇する可能性があり、従来の経済的論理に挑戦しています。
+TSMC is developing "Angstrom-level" processes (below 1nm), where the technical difficulty grows exponentially. The cost per transistor may actually increase, challenging traditional economic logic.
 
-### 地政学の両刃の剣
+### The Double-Edged Sword of Geopolitics
 
-TSMCの戦略的地位は保護であると同時にリスクでもあります。米中テクノロジー戦争により、台湾は両国の間に挟まれ、二つの超大国の間でバランスを保たなければなりません：
+TSMC's strategic position is both protection and risk. The US-China tech war has Taiwan caught in the middle, requiring balance between the two superpowers:
 
-- **米国の圧力**：TSMCに対し中国への技術制裁の遵守を要求
-- **中国市場**：依然としてTSMCの重要な収益源
-- **サプライチェーンリスク**：台湾に過度に集中した生産リスク
+- **US Pressure**: Demands TSMC comply with tech sanctions against China.
+- **Chinese Market**: Remains an important source of TSMC's revenue.
+- **Supply Chain Risk**: Risks of production concentration in Taiwan.
 
-### 人材戦争
+### The Talent War
 
-世界中が半導体人材を奪い合っています。米国「CHIPS法」、欧州「CHIPS法」、日本の半導体戦略はいずれも、巨額の補助金を提供して人材を引き付けています。TSMCは世界の人材市場で競争力を維持しなければなりません。
+The world is competing for semiconductor talent. The US CHIPS Act, EU CHIPS Act, and Japan's semiconductor strategy all offer huge subsidies to attract talent. TSMC must remain competitive in the global talent market.
 
-## 2030年の想像：ムーアの法則を超えて
+## Imagination for 2030: Beyond Moore's Law
 
-### ヘテロジェナス統合の新たな時代
+### The New Era of Heterogeneous Integration
 
-トランジスタの微細化が限界に達したとき、半導体産業は「ヘテロジェナス統合」へと転換します——異なる機能を持つチップを一つのパッケージ内に統合するのです：
+When transistors can no longer be continuously shrunk, the semiconductor industry shifts to "heterogeneous integration"—integrating chips with different functions into the same package:
 
-- **プロセッサチップ**：演算を担当
-- **メモリチップ**：記憶を担当
-- **センサーチップ**：感知を担当
-- **RFチップ**：通信を担当
+- **Processor Chips**: Responsible for computing
+- **Memory Chips**: Responsible for storage
+- **Sensor Chips**: Responsible for perception
+- **RF Chips**: Responsible for communication
 
-TSMCの3D IC技術により、チップを「垂直に積み重ねる」ことが可能になり、限られた面積により多くの機能を詰め込むことができます。
+TSMC's 3D IC technology allows chips to be "vertically stacked," packing more functions into a limited area.
 
-### 量子コンピューティングの挑戦
+### The Challenge of Quantum Computing
 
-Google、IBM、IonQなどの企業が量子コンピューティングの開発を進めており、従来のコンピュータでは処理できない複雑な問題を解決できると主張しています。もし量子コンピューティングが本当にブレイクスルーを果たせば、半導体産業全体を覆す可能性があります。
+Companies like Google, IBM, and IonQ are developing quantum computing, claiming to solve complex problems that traditional computers cannot handle. If quantum computing truly breaks through, it could overturn the entire semiconductor industry.
 
-しかしTSMCもこの分野に参入しています。同社はIBMと協力して量子コンピューティングの製造技術を研究開発しており、次なる技術革命に備えています。
+But TSMC is also laying the groundwork. The company is collaborating with IBM to develop manufacturing technologies for quantum computing, preparing for the next wave of technological revolution.
 
-## 結語：テクノロジーアイランドの終わりなき競争
+## Conclusion: The Eternal Race of the Tech Island
 
-1987年の張忠謀の冒険から始まり、TSMCは約40年をかけて台湾を世界の科技の生命線に変えました。これは一つの企業の成功ではなく、島全体の戦略的奇跡です。
+From Morris Chang's adventure in 1987, TSMC has spent nearly 40 years turning Taiwan into the lifeline of global technology. This is not just the success of one company, but a strategic miracle of the entire island.
 
-今日、iPhoneでメッセージを送り、ChatGPTに質問し、テスラの自動運転を起動するとき、あなたは実際には台湾の技術を使っています。世界で最も高度なチップの69%が、この小さな島で製造されています。
+Today, when you send a message on an iPhone, ask ChatGPT a question, or activate Tesla's autonomous driving, you are actually using Taiwan's technology. 69% of the world's most advanced chips are manufactured on this small island.
 
-しかし、この優位性はどれくらい維持できるでしょうか。技術のリードに終わりはなく、毎日が新たな始まりです。TSMCは投資を続け、革新を続け、リードを続けることで、この終わりなき技術競争の中で地位を維持しなければなりません。
+But how long can this advantage last? Technological leadership has no endpoint; every day is a new beginning. TSMC must continue to invest, innovate, and lead to maintain its position in this eternal tech race.
 
-台湾にとって、半導体産業は経済の支柱であるだけでなく、グローバル化時代における生存戦略でもあります。地政学がますます複雑化する中で、技術的優位性は小国にとって最も強力な護身符かもしれません。
+For Taiwan, the semiconductor industry is not just an economic pillar, but a survival strategy in the era of globalization. As geopolitics becomes increasingly complex, technological advantage may be the most powerful talisman for a small nation.
 
-台湾の物語はまだ書かれています。そして次の章は、エングストロム級プロセスの挑戦となるでしょう。
+Taiwan's story is still being written. And the next chapter will be the challenge of Angstrom-level processes.
 
 ---
 
-**関連記事**：
+**Further Reading**:
 
-- [造山者：世紀の賭注](/art/造山者世紀的賭注) — 蕭菊貞 2025年ドキュメンタリー。5年にわたり80人以上の半導体業界の先輩にインタビューを行い、2026年にはCHIPS法の投資拠点であるパデュー大学、ウィスコンシン大学、ミシガン大学の3校を訪れる
+- [The Mountain Makers: A Bet of the Century](/art/造山者世紀的賭注) — Xiao Juzhen 2025 Documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in Purdue/Wisconsin/Michigan in 2026
 
-- [吳大猷](/people/吳大猷) — 1980年代、台湾が半導体に注力する同時期に中央研究院院長を務め、基礎科学の重要性を堅持し、台湾の科学研究体制の基礎を築いた
-- [台湾ロボット産業](/technology/台湾機器人産業) — 半導体で世界一の島が、なぜロボット時代に追い上げ組なのか？NCAIRの開幕から見る産業の断層
+- [Wu Da-you](/people/吳大猷) — While Taiwan was拼 (piecing together) semiconductors in the 1980s, serving as President of Academia Sinica, he insisted on the importance of basic science, laying the foundation for Taiwan's scientific research system.
+- [Taiwan's Robotics Industry](/technology/台灣機器人產業) — The island that is world number one in semiconductors, why is it a catch-up student in the era of robotics? Looking at the industrial gap from the unveiling of NCAIR.
+- [Taiwan Stock Market and Capital Market](/economy/台灣股市與資本市場) — How the entire supply chain ecosystem supporting Taiwan's stock market as the world's 6th largest in 2026 is presented in the capital market.
 
-## 参考資料
+## References
 
-- [TSMC公式ウェブサイト](https://www.tsmc.com/)
-- [経済日報：TSMC 2ナノメートル量産の進展](https://money.udn.com/money/story/5612/9080842)
-- [デジタルタイムズ：TSMC 2ナノメートル正式量産の報道](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
-- [テクノロジーニュース：3ナノメートル稼働率100%に達する](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
-- [天下雑誌：李国鼎とTSMCの誕生](https://www.cw.com.tw/article/5095492)
-- [工研院：張忠謀と半導体産業の発展](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)
+- [TSMC Official Website](https://www.tsmc.com/)
+- [Economic Daily: TSMC 2nm Mass Production Progress](https://money.udn.com/money/story/5612/9080842)
+- [Bnext: TSMC 2nm Official Mass Production Report](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
+- [TechNews: 3nm Utilization Rate Reaches 100%](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
+- [Cw.com.tw: Kuo-Tung Lee and the Birth of TSMC](https://www.cw.com.tw/article/5095492)
+- [ITRI: Morris Chang and the Development of the Semiconductor Industry](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)

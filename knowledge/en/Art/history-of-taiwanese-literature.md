@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Art/台灣文學史.md'
 sourceCommitSha: 'f553d365'
 sourceContentHash: 'sha256:7fdaaa3e5c949ce3'
+sourceBodyHash: 'sha256:b3ce615995198c0c'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

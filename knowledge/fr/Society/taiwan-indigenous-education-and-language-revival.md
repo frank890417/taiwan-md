@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣原住民族教育與語言復振的交界.md'
 sourceCommitSha: '45b62300'
 sourceContentHash: 'sha256:ed157e0ec93c7134'
+sourceBodyHash: 'sha256:57d3b8ceecf4a7d0'
 translatedAt: '2026-04-14T12:32:24+08:00'
 ---
 

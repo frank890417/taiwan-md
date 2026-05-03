@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: "Nature/台灣海洋污染治理與保育挑戰.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:7b5e9520f2ce542e"
+sourceBodyHash: 'sha256:65690f9882d428bc'
 translatedAt: "2026-04-14T19:22:44+08:00"
 ---
 

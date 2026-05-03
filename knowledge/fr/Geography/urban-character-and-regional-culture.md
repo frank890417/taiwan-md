@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Geography/城市特色與區域文化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:14ee4edcca68b831"
+sourceBodyHash: 'sha256:65aaa8af661c1d8b'
 translatedAt: "2026-04-15T17:33:45+08:00"
 ---
 

@@ -32,6 +32,7 @@ lastHumanReview: true
 translatedFrom: People/魏如萱.md
 sourceCommitSha: 7bcc3ce4
 sourceContentHash: sha256:c0bf0a88da519f63
+sourceBodyHash: 'sha256:071293de94a6fba8'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

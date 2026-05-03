@@ -9,6 +9,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/王建民.md'
 sourceCommitSha: '812e7574'
 sourceContentHash: 'sha256:3114edd9c9d8e0c4'
+sourceBodyHash: 'sha256:e926431833fb9870'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

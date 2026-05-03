@@ -25,6 +25,7 @@ featured: false
 translatedFrom: 'Art/王新仁.md'
 sourceCommitSha: '72ec8595'
 sourceContentHash: 'sha256:25ec392b5ce7e019'
+sourceBodyHash: 'sha256:e40b70041a0b9945'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

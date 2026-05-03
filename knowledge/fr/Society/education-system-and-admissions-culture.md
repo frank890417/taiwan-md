@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Society/教育制度與升學文化.md'
 sourceCommitSha: '26216f73'
 sourceContentHash: 'sha256:f73e37d01f78db49'
+sourceBodyHash: 'sha256:105cf2755699d0ca'
 translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 

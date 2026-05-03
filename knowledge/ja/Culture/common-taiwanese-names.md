@@ -12,6 +12,7 @@ featured: 'false'
 translatedFrom: 'Culture/菜市場名.md'
 sourceCommitSha: '8d1b30aa'
 sourceContentHash: 'sha256:4f24d54138c9fd30'
+sourceBodyHash: 'sha256:e1adcb11fb9e8afa'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

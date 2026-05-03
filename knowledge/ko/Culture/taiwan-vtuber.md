@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/台灣VTuber.md'
 sourceCommitSha: '1a822274'
 sourceContentHash: 'sha256:71db3b046d5a6a9b'
+sourceBodyHash: 'sha256:9db6332ac9055b04'
 translatedAt: '2026-05-02T08:53:00+08:00'
 ---
 

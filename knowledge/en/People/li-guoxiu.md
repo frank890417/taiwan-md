@@ -8,6 +8,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/李國修.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7e394b3479d9d206'
+sourceBodyHash: 'sha256:1d9adba620e48b4b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

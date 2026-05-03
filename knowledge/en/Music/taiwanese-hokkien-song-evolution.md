@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Music/台灣台語歌曲演進.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0445ff98900d4846'
+sourceBodyHash: 'sha256:400ae92fdbfe7b40'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

@@ -12,6 +12,7 @@ readingTime: 9
 translatedFrom: People/江振誠.md
 sourceCommitSha: 55c3ff6a
 sourceContentHash: sha256:b95aab4a94d428d9
+sourceBodyHash: 'sha256:12c31fa42e4be425'
 translatedAt: 2026-05-01T19:52:32+08:00
 ---
 

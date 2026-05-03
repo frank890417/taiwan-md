@@ -11,6 +11,7 @@ lastVerified: 2026-03-27
 translatedFrom: 'Culture/擲筊.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
+sourceBodyHash: 'sha256:ef724755039c89a7'
 translatedAt: '2026-04-14T08:05:20+08:00'
 ---
 

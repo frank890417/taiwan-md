@@ -20,6 +20,7 @@ featured: true
 translatedFrom: 'Technology/台灣新創生態系.md'
 sourceCommitSha: '32e53d5b'
 sourceContentHash: 'sha256:3304801c4c62ac90'
+sourceBodyHash: 'sha256:f40cc2ed2b0c0777'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

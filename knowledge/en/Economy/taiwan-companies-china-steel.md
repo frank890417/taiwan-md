@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：中鋼.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:046697b621d130dd'
+sourceBodyHash: 'sha256:3296fd82b3d8a938'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'China Steel: The Iron-Headed Minister and the Steel Legend of the Ten Major Constructions'
 description: "From Zhao Yao-dong's clever negotiations with Europe and America to win technology, to the first plume of white smoke rising from Kaohsiung's Xiaogang — China Steel spent 50 years building Taiwan's heavy industry backbone, the most successful jewel of the Ten Major Constructions."

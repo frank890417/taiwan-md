@@ -23,6 +23,7 @@ featured: true
 translatedFrom: 'Technology/科技園區發展.md'
 sourceCommitSha: 'f78028db'
 sourceContentHash: 'sha256:9c6e710290cc0283'
+sourceBodyHash: 'sha256:a3981dca8f771cd5'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

@@ -15,6 +15,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/陳俊良.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:230d66867f466f8b'
+sourceBodyHash: 'sha256:0738f24a7fbe249b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

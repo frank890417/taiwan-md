@@ -43,8 +43,9 @@ sporeLinks:
     comments: 0
     shares: 0
 translatedFrom: People/壞特.md
-sourceCommitSha: 619be742
-sourceContentHash: sha256:28a7c9490bcdaa67
+sourceCommitSha: '616cbd07'
+sourceContentHash: 'sha256:28a7c9490bcdaa67'
+sourceBodyHash: 'sha256:f96db07a5b8f044c'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

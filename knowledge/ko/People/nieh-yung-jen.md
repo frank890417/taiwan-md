@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'People/聶永真.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3c4ca1e1761de74e'
+sourceBodyHash: 'sha256:1e22d1ecfc023764'
 translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 

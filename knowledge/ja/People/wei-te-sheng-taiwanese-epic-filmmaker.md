@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/魏德聖.md
 sourceCommitSha: 812e7574
 sourceContentHash: sha256:da6124a8ed71cc71
+sourceBodyHash: 'sha256:f4f822df5584044a'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

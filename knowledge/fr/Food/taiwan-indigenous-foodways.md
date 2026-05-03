@@ -23,6 +23,7 @@ translatedFrom: 'Food/台灣原住民飲食文化.md'
 lastVerified: 2026-03-29
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
+sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-04-14T12:31:33+08:00'
 ---
 

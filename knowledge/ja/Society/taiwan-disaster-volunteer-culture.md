@@ -22,6 +22,7 @@ category: 'Society'
 translatedFrom: 'Society/台灣災難志工文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2f7978d5d766aa90'
+sourceBodyHash: 'sha256:f9786d423847a872'
 translatedAt: '2026-05-02T09:50:00+08:00'
 ---
 

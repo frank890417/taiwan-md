@@ -21,6 +21,7 @@ lastVerified: 2026-04-07
 translatedFrom: 'Culture/藍染.md'
 sourceCommitSha: '3d0f24b5'
 sourceContentHash: 'sha256:37c3ddca1ed1a47e'
+sourceBodyHash: 'sha256:b0a777d5c046d41c'
 translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 

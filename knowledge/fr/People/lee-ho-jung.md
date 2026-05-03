@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/李晧禎.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:23d7ff4a25548dd1'
+sourceBodyHash: 'sha256:7920b3c19edb9fba'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

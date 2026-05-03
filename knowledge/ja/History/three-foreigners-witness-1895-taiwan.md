@@ -2,6 +2,7 @@
 translatedFrom: 'History/三個外國人看乙未.md'
 sourceCommitSha: 'a98d745f'
 sourceContentHash: 'sha256:59c75f463fb26dd1'
+sourceBodyHash: 'sha256:f4c2468d7055a6c1'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '三人の外国人が見た乙未（いつび）の役：写真師のアルバム、記者の手帳、牧師の日記'
 description: '1895年の乙未の役（台湾割譲戦争）において、三人の外国人が最も重要な外語目撃文献を残した——日本の写真師・遠藤誠の凱旋アルバム、アメリカ人記者・ダビッドソンの従軍手帳、日本の牧師・細川瀏の渡台日記。問題は彼らが何を見たかではなく、誰のために見たかだ。'

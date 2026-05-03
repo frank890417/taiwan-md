@@ -24,6 +24,7 @@ lastVerified: 2026-04-01
 translatedFrom: 'Nature/台灣島嶼博物學.md'
 sourceCommitSha: '540031d7'
 sourceContentHash: 'sha256:371da55946bd0c24'
+sourceBodyHash: 'sha256:7e95d6d709cb27df'
 translatedAt: '2026-04-14T19:22:26+08:00'
 ---
 

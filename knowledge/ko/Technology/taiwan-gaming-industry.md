@@ -13,6 +13,7 @@ translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:015bc5daa189760c'
+sourceBodyHash: 'sha256:5fb0ef5f5d04e117'
 translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 

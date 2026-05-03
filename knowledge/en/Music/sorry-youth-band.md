@@ -22,6 +22,7 @@ lastHumanReview: ''
 translatedFrom: Music/拍謝少年.md
 sourceCommitSha: bb7a2ab0
 sourceContentHash: sha256:a3a6f5b85db8c272
+sourceBodyHash: 'sha256:07737a8d590520a4'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

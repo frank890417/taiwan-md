@@ -21,6 +21,7 @@ lastHumanReview: '2026-04-28'
 translatedFrom: Food/油飯.md
 sourceCommitSha: c5197b41
 sourceContentHash: sha256:9645370116faf0ce
+sourceBodyHash: 'sha256:e335b1f6c8cbb675'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

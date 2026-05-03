@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'History/心戰.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:d64911e3fd5d8404'
+sourceBodyHash: 'sha256:2904cf32d3eb3626'
 translatedAt: '2026-05-03T21:41:10+08:00'
 ---
 

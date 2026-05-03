@@ -2,6 +2,7 @@
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:692543a60baf3299'
+sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Taiwan's Digital Animation and Imagery Industry"
 description: "From the world's largest animation contract manufacturing kingdom to a new force in original content, the half-century transformation of Taiwan's digital imagery industry"

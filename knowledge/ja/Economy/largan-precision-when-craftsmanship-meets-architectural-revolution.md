@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：大立光電.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:74469a54ad5b9ae3'
+sourceBodyHash: 'sha256:4ac8e9cdef3a165c'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

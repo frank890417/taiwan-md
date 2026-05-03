@@ -13,6 +13,7 @@ featured: false
 translatedFrom: Economy/台灣企業：聯發科技.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:0c49eb028b1d20ab
+sourceBodyHash: 'sha256:ca7ccf342ddb45cb'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

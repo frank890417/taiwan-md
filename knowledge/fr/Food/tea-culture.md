@@ -16,6 +16,7 @@ imageAlt: 'Emballage de thé oolong de Taïwan portant la mention « Formosa Ool
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:224c9e016e85d4f1'
+sourceBodyHash: 'sha256:6ba7adb37f74ad5b'
 translatedAt: '2026-04-14T12:29:04+08:00'
 ---
 

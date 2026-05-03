@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Society/台灣在國際標準中的標示問題.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:20aea791d594faee"
+sourceBodyHash: 'sha256:de1fb2e5b744ba19'
 translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 

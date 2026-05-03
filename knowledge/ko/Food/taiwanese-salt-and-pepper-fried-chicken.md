@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣鹹酥雞.md'
 sourceCommitSha: '82d9f045'
 sourceContentHash: 'sha256:f78e66c21a3386f0'
+sourceBodyHash: 'sha256:f601237f7e38aaea'
 translatedAt: '2026-04-27T12:33:10+08:00'
 ---
 

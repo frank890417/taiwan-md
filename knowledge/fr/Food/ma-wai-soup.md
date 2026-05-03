@@ -12,6 +12,7 @@ featured: false
 translatedFrom: "Food/麻芛湯.md"
 sourceCommitSha: "053efd9a"
 sourceContentHash: "sha256:37e6bdeac5fb1d7c"
+sourceBodyHash: 'sha256:3db5773500588245'
 translatedAt: "2026-05-03T21:10:10+08:00"
 ---
 

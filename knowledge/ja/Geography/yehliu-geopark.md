@@ -19,6 +19,7 @@ readingTime: 8
 translatedFrom: 'Geography/野柳.md'
 sourceCommitSha: 'a4cdf426'
 sourceContentHash: 'sha256:cc375ba3f344da80'
+sourceBodyHash: 'sha256:c1c41f5f0c9f31d6'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

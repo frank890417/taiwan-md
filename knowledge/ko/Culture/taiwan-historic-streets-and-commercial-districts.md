@@ -11,6 +11,7 @@ translatedFrom: 'Culture/台灣老街文化與商業街區.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:979c4f4ab814a0ca'
+sourceBodyHash: 'sha256:58eb03f7f8ab81ca'
 translatedAt: '2026-04-14T07:46:34+08:00'
 ---
 

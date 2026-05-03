@@ -12,6 +12,7 @@ translatedFrom: "Food/台灣手路菜.md"
 lastVerified: 2026-03-31
 sourceCommitSha: "ae9e1b75"
 sourceContentHash: "sha256:0472e30648b041f9"
+sourceBodyHash: 'sha256:36f30f4b81431a3f'
 translatedAt: "2026-04-14T12:31:33+08:00"
 ---
 

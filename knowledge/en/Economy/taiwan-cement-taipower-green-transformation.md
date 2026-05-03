@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: 'Economy/台灣企業：台泥.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7664edadac92feec'
+sourceBodyHash: 'sha256:aefdee9f1ebaabc5'
 translatedAt: '2026-05-01T15:38:13+08:00'
 category: Economy
 ---

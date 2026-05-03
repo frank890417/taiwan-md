@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
 sourceCommitSha: '12b22368'
 sourceContentHash: 'sha256:a4d9919368dc9dcf'
+sourceBodyHash: 'sha256:431f7ebbea017095'
 translatedAt: '2026-04-14T10:34:15+08:00'
 ---
 

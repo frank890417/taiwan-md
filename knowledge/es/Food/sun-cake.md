@@ -19,6 +19,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Food/太陽餅.md'
 sourceCommitSha: 'eaef8b77'
 sourceContentHash: 'sha256:8d8d05b5b9b080eb'
+sourceBodyHash: 'sha256:4b1b088d8a0fbe11'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

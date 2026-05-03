@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/楊致遠.md'
 sourceCommitSha: 'abf94a40'
 sourceContentHash: 'sha256:7eb1ec67bda096c8'
+sourceBodyHash: 'sha256:e0245844724d0a9c'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：研華科技.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9704201e3df16190'
+sourceBodyHash: 'sha256:f26ece62a9fac047'
 translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 

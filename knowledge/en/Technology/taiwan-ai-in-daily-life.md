@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/台灣AI日常.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:1cb31f3f5b851af8'
+sourceBodyHash: 'sha256:21f036f1bf71fe83'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

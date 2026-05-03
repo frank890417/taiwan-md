@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: Nature/台灣穿山甲.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:a5b003502d2f617c
+sourceBodyHash: 'sha256:842dfe18f6392e3e'
 translatedAt: 2026-05-01T20:54:09+08:00
 category: Nature
 ---

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
+sourceBodyHash: 'sha256:4e6245b3f0401bec'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

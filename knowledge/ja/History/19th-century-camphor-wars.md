@@ -21,6 +21,7 @@ researchReport: 'reports/research/2026-04/19世紀的樟腦戰爭.md'
 translatedFrom: 'History/19世紀的樟腦戰爭.md'
 sourceCommitSha: '3aba2ea3'
 sourceContentHash: 'sha256:0a0b650eeeb1074e'
+sourceBodyHash: 'sha256:308ab8066ca9a9d0'
 translatedAt: '2026-05-01T17:15:07+08:00'
 ---
 

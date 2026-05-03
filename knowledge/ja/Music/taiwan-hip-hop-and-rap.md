@@ -2,6 +2,7 @@
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
 sourceCommitSha: 'abf94a40'
 sourceContentHash: 'sha256:7966c0692e2a3fd0'
+sourceBodyHash: 'sha256:19d33338e53cee03'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '台湾のヒップホップとラップの発展'
 description: 'ダージー（大支）、ホットドッグ（熱狗）からワンチャイMJ116（頑童MJ116）、ソフトリパ（蛋堡）、レオワン（Leo王）まで——台湾のヒップホップ文化のローカライズと金曲獎（Golden Melody Awards）による認定'

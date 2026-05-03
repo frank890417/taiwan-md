@@ -38,8 +38,9 @@ sporeLinks:
     comments: 0
     shares: 0
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '3d8e68a5'
+sourceCommitSha: '616cbd07'
 sourceContentHash: 'sha256:105878c02485b2e2'
+sourceBodyHash: 'sha256:4ff81a4c7e98c835'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

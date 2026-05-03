@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/淡江大橋.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:49327f6673debe98'
+sourceBodyHash: 'sha256:a0b72b981b016b86'
 translatedAt: '2026-04-30T22:33:56+08:00'
 ---
 

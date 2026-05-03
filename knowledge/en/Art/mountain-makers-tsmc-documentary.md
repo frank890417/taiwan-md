@@ -2,6 +2,7 @@
 translatedFrom: 'Art/造山者世紀的賭注.md'
 sourceCommitSha: '1ddc3b1d'
 sourceContentHash: 'sha256:48d568156f2d8bb9'
+sourceBodyHash: 'sha256:dae45d5a23a409e0'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Mountain Makers: A Century's Bet — A TSMC Epic Without Morris Chang, From Hsinchu to Purdue"
 description: "One evening in June 2025, 84-year-old Morris Chang and his wife bought two tickets and walked into Hsinchu Vieshow Cinema. The film contained no formal interview with him — he was busy writing the second volume of his memoir. Director Hsiao Chu-chen spent five years interviewing more than 80 pioneers, shooting from a 1974 breakfast meeting at a small Hsinchu soy milk shop all the way to CC Wei's 2025 White House visit. A Chip Odyssey became one of Taiwan's top five highest-grossing documentaries and in 2026 entered university lecture halls at Purdue, Wisconsin, and Michigan — all CHIPS Act investment hubs."

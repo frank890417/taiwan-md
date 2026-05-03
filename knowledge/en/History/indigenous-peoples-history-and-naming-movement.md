@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'History/台灣原住民族歷史與正名運動.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e4ab0082a9409924'
+sourceBodyHash: 'sha256:93eb4a0251be6dd2'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

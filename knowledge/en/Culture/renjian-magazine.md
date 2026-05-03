@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Culture/人間雜誌.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:71f7c3d911b14d72'
+sourceBodyHash: 'sha256:39b5ed0bb97ef89b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Culture
 ---

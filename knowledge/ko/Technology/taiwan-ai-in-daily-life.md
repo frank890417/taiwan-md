@@ -12,6 +12,7 @@ translatedFrom: 'Technology/台灣AI日常.md'
 lastVerified: 2026-03-29
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:1cb31f3f5b851af8'
+sourceBodyHash: 'sha256:21f036f1bf71fe83'
 translatedAt: '2026-04-14T06:47:03+08:00'
 ---
 

@@ -12,6 +12,7 @@ lastVerified: 2026-03-22
 translatedFrom: "People/呂秀蓮.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:809d857cd912d504"
+sourceBodyHash: 'sha256:6824251a06515b3a'
 translatedAt: "2026-04-14T19:14:43+08:00"
 ---
 

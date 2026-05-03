@@ -30,6 +30,7 @@ lastHumanReview: true
 translatedFrom: People/Cicada.md
 sourceCommitSha: e53be21c
 sourceContentHash: sha256:fe41f66467969b5d
+sourceBodyHash: 'sha256:94ae560f9807778b'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

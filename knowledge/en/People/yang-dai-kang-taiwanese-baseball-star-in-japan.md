@@ -17,6 +17,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/陽岱鋼.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:563a462f0876373a'
+sourceBodyHash: 'sha256:88c4c0a60304a5dd'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

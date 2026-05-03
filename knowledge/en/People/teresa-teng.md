@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/鄧麗君.md'
 sourceCommitSha: d0343c92
 sourceContentHash: 'sha256:137ce9f0ad4e78d5'
+sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-05-01T12:53:58+08:00'
 category: People
 ---

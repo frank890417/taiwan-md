@@ -19,6 +19,7 @@ featured: 'false'
 translatedFrom: 'Economy/台灣動畫代工.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:e65745d7776e7d73'
+sourceBodyHash: 'sha256:6d0f53daee394572'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Economy
 ---

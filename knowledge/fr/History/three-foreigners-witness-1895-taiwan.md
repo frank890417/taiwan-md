@@ -16,6 +16,7 @@ featured: false
 translatedFrom: 'History/三個外國人看乙未.md'
 sourceCommitSha: 'a98d745f'
 sourceContentHash: 'sha256:59c75f463fb26dd1'
+sourceBodyHash: 'sha256:f4c2468d7055a6c1'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

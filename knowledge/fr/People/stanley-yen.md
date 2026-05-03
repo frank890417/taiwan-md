@@ -21,6 +21,7 @@ lastVerified: 2026-04-06
 translatedFrom: "People/嚴長壽.md"
 sourceCommitSha: "67fe687d"
 sourceContentHash: "sha256:6bcf8cc662668e7d"
+sourceBodyHash: 'sha256:c4adf4d38cbc289a'
 translatedAt: "2026-04-14T19:14:57+08:00"
 ---
 

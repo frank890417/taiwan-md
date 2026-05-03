@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/童子賢.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c1d775b461f7938c
+sourceBodyHash: 'sha256:54860a304b159c26'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

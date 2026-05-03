@@ -12,6 +12,7 @@ translatedFrom: 'Society/人權與性別平等.md'
 lastVerified: 2026-03-19
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:b007d781b4327433'
+sourceBodyHash: 'sha256:318958941cae16c4'
 translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 

@@ -10,6 +10,7 @@ lastHumanReview: false
 translatedFrom: 'Art/日治時期文學.md'
 sourceCommitSha: 'f553d365'
 sourceContentHash: 'sha256:19723b834d9cebfa'
+sourceBodyHash: 'sha256:f40bf580a8b9cd38'
 translatedAt: '2026-05-01T20:54:23+08:00'
 featured: false
 ---

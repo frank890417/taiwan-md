@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: Economy/台灣企業：台積電.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:934dad079d2918fd
+sourceBodyHash: 'sha256:6035b486373fd426'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

@@ -25,6 +25,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/颱風.md'
 sourceCommitSha: 'f94d76ee'
 sourceContentHash: 'sha256:0bfc1078b896f9a5'
+sourceBodyHash: 'sha256:b42acf7cd572bd18'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

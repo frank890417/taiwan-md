@@ -22,6 +22,7 @@ featured: false
 translatedFrom: People/Ray.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:d89e2ce7459672fc
+sourceBodyHash: 'sha256:bfea2eb77a7d1c05'
 translatedAt: 2026-05-02T01:17:15+08:00
 ---
 

@@ -21,6 +21,7 @@ lastVerified: 2026-03-21
 translatedFrom: 'People/吳明益.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2244fabc33ee8056'
+sourceBodyHash: 'sha256:33817e164492daa0'
 translatedAt: '2026-04-14T19:14:43+08:00'
 ---
 

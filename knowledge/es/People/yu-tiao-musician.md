@@ -29,6 +29,7 @@ lastHumanReview: false
 translatedFrom: People/魚條.md
 sourceCommitSha: b50810dc
 sourceContentHash: sha256:bd29d1a24daa64e4
+sourceBodyHash: 'sha256:e1d78513cc7ffb2f'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Culture/台灣廟會與陣頭文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5ed11fa29fb0b644'
+sourceBodyHash: 'sha256:dadcaae88d48fbb1'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

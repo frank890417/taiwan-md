@@ -23,6 +23,7 @@ readingTime: 8
 translatedFrom: 'Art/台灣電影.md'
 sourceCommitSha: 'e564525c'
 sourceContentHash: 'sha256:066d8323f1454dcc'
+sourceBodyHash: 'sha256:8e9ec585dc056a94'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

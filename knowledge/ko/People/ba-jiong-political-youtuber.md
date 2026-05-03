@@ -13,6 +13,7 @@ lastHumanReview: 2026-04-20
 translatedFrom: 'People/八炯.md'
 sourceCommitSha: '3e1e177a'
 sourceContentHash: 'sha256:6599b2ad4c30bd09'
+sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-02T01:17:15+08:00'
 ---
 

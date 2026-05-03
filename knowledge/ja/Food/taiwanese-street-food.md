@@ -22,6 +22,7 @@ featured: false
 translatedFrom: 'Food/台灣小吃.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:5204a1234af866a0'
+sourceBodyHash: 'sha256:8280e871af75b399'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

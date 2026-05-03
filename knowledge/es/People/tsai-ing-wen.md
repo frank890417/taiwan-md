@@ -1,290 +1,132 @@
 ---
-title: 'Tsai Ing-wen'
-description: 'Primera presidenta de Taiwán, un símbolo democrático y pionera histórica que se transformó de académica a líder política'
+title: "Tsai Ing-wen"
+description: "Primera presidenta de Taiwán (2016-2024), especialista en derecho internacional comercial. Durante su mandato se promulgó la primera ley de matrimonio homosexual de Asia, representó al gobierno en una disculpa oficial a los pueblos indígenas y es de ascendencia paiwan."
 date: 2026-03-17
-tags: [people, Tsai Ing-wen, presidenta, líder femenina, democracia, política]
-translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: '59db5de4'
-sourceContentHash: 'sha256:783d9b2f1f815187'
-translatedAt: '2026-04-17T10:33:16+08:00'
-category: People
+tags: [personaje, Tsai Ing-wen, presidenta, liderazgo femenino, democracia, política, pueblos indígenas]
+subcategory: "政治與民主"
+lastVerified: 2026-04-04
+lastHumanReview: 2026-04-04
+translatedFrom: "People/蔡英文.md"
+sourceCommitSha: "c9138dca"
+sourceContentHash: "sha256:4bb37557e229f5c6"
+sourceBodyHash: "sha256:a47845d84d432cf6"
+translatedAt: "2026-05-03T23:14:07+08:00"
 ---
 
 # Tsai Ing-wen
 
-Tsai Ing-wen 蔡英文 es un hito importante en la historia política taiwanesa, sirviendo como la 14ª y 15ª presidenta de la República de China, y la primera jefa de estado femenina de Taiwán. Su carrera política es testigo de la profundización y desarrollo de la democracia taiwanesa. Su transformación de académica a política encarna la aceptación de diversidad e inclusión de la sociedad taiwanesa, así como avances para las mujeres en el campo político. Tsai Ing-wen no es solo la líder política de Taiwán, sino también un símbolo importante del desarrollo democrático en Asia.
+El 14 de enero de 2012, Tsai Ing-wen perdió las elecciones presidenciales por ochocientos mil votos. Aquella noche de derrota, se dirigió a sus seguidores desde el estrado y dijo: «Pueden llorar, pero no se desanimen. Pueden estar tristes, pero no se rindan.»[^1]
 
-## Vida temprana y antecedentes educativos
+Cuatro años después, con seis millones ochocientos noventa y cuatro mil votos —un 56,1 % del total— se convirtió en la decimocuarta presidenta de la República de China y en la primera mujer jefa de Estado de Taiwán[^2].
 
-### Orígenes familiares y entorno de crecimiento
+## Panorama en 30 segundos
 
-**Antecedentes familiares:**
-Nacida el 31 de agosto de 1956 en el distrito de Zhongshan, Taipei, Tsai Ing-wen era la menor de 11 hijos en una familia hakka tradicional. Su padre, Tsai Jie-sheng 蔡潔生, dirigía un negocio de reparación de automóviles, y su madre, Chang Jin-feng 張金鳳, era ama de casa. La familia tiene herencia indígena paiwan, un fondo étnico diverso que influyó en su posterior comprensión del multiculturalismo taiwanés.
+Tsai Ing-wen nació en 1956 en Taipéi y es de ascendencia paiwan[^3]. Se licenció en Derecho por la Universidad Nacional de Taiwán, obtuvo un máster en Derecho por la Universidad de Cornell y se doctoró en la London School of Economics and Political Science. Antes de entrar en política, fue especialista en derecho del comercio internacional y representante en las negociaciones de la OMC. Ejerció la presidencia entre 2016 y 2024, periodo en el que se promulgó la primera ley de matrimonio homosexual de Asia[^4], representó al gobierno en una disculpa oficial a los pueblos indígenas[^5], impulsó la reforma de las pensiones y dirigió la respuesta inicial de Taiwán a la COVID-19. En 2020 fue reelegida con ocho millones ciento setenta mil votos, la cifra más alta de la historia de las elecciones presidenciales en Taiwán[^6].
 
-**Trayectoria académica:**
-Mostrando excelencia desde joven, Tsai recibió educación superior completa con apoyo familiar. En 1978, se graduó del Departamento de Derecho de la National Taiwan University, demostrando fuerte interés en derecho y política.
+## La menor de once hermanos
 
-### Estudio en el extranjero y educación avanzada
+Tsai Ing-wen nació el 31 de agosto de 1956 en el Hospital Mackay de Taipéi. Su padre, Tsai Chieh-sheng, regentaba un taller de reparación de automóviles que en sus inicios daba servicio a vehículos del ejército estadounidense destinado en Taiwán, y más tarde se expandió al sector inmobiliario. Su madre era Zhang Jin-feng. Tsai era la undécima hija, la menor de los once hijos de cuatro familias[^3].
 
-**Experiencia de estudio en EE.UU.:**
-En 1980, obtuvo un título de Maestría en Derecho de Cornell University, especializándose en derecho comercial internacional. Su experiencia de estudio en EE.UU. la expuso a sistemas democráticos avanzados y conceptos de estado de derecho, sentando las bases para su filosofía política futura.
+Su herencia étnica es en sí misma un reflejo de Taiwán: ascendencia hakka, hoklo y paiwan entrelazadas. Por línea materna de su abuela tenía sangre paiwan, lo que la convirtió en la primera presidenta de la historia de Taiwán con ascendencia indígena; su nombre en paiwan es Tjuku[^3].
 
-**Doctorado en Reino Unido:**
-En 1984, obtuvo un doctorado en Derecho de la London School of Economics and Political Science (LSE), enfocándose en derecho económico internacional. El ambiente académico europeo cultivó su visión internacional y pensamiento académico riguroso.
+Tras licenciarse en Derecho por la Universidad Nacional de Taiwán en 1978, se marchó a Estados Unidos. En 1980 obtuvo el máster en Derecho por la Universidad de Cornell y luego se doctoró en la London School of Economics and Political Science. En 1984 defendió su tesis doctoral, *Unfair Trade Practices and Safeguard Measures*, bajo la dirección de Michael J. Elliott[^7].
 
-**Especialización académica:**
-La experiencia académica de Tsai se concentró en derecho comercial internacional, sistemas legales de la OMC y derecho de competencia. Este conocimiento especializado proporcionó una base profunda para su posterior manejo del comercio a través del estrecho y asuntos internacionales.
+> En 2019, su tesis doctoral se convirtió en arma de ataque político: se cuestionó su existencia. La London School of Economics emitió un comunicado oficial en octubre de 2019 confirmando que el título era auténtico y válido[^7]. La razón por la que la tesis no había sido archivada durante treinta y cinco años era simplemente que ella no entregó una copia a la biblioteca en su momento.
 
-## Período académico: educación legal e investigación
+## De la mesa de negociaciones al campo político
 
-### Carrera de enseñanza universitaria
+Tras regresar a Taiwán, Tsai enseñó derecho del comercio internacional en la Universidad Chengchi. A partir de 1993 fue asesora legal del gobierno en las negociaciones de adhesión al GATT/OMC, participando en el largo proceso de ingreso de Taiwán en la Organización Mundial del Comercio[^8]. Esa experiencia la formó en un arte: ganar espacio para una economía pequeña en la rivalidad entre grandes potencias.
 
-**Logros académicos:**
-Después de regresar a Taiwán en 1984, Tsai enseñó en National Chengchi University y Soochow University, especializándose en derecho económico internacional. No solo era una académica excelente, sino también amada por estudiantes por su rigurosa erudición y métodos de enseñanza innovadores.
+En 1999 participó en la redacción de la tesis de las «relaciones especiales Estado a Estado» (teoría de los dos Estados) de Lee Teng-hui[^8]. Fue la primera vez que tocó la línea más sensible de las relaciones entre las dos orillas.
 
-**Participación en políticas:**
-En la década de 1990, Tsai comenzó a participar en reforma legal gubernamental y negociaciones internacionales, usando su conocimiento profesional para ayudar a la integración de Taiwán en el sistema económico internacional, particularmente negociaciones de acceso a la OMC.
+Tras el cambio de partido en el poder en 2000, Chen Shui-bian la nombró presidenta del Consejo de Asuntos de la China Continental (2000-2004)[^8]. No era miembro del Partido Democrático Progresista; no se afilió formalmente hasta 2004. Que una académica sin filiación partidista dirigiera los asuntos de las relaciones entre las dos orillas era algo casi imposible en la política taiwanesa, pero así fue como Tsai Ing-wen entró en el núcleo del poder.
 
-**Influencia interdisciplinaria:**
-Como académica legal, la investigación de Tsai no se detuvo a nivel académico, sino que se enfocó en aplicar teoría a las necesidades de desarrollo real de Taiwán.
+## Perdió ochocientos mil votos, y luego, ¿qué?
 
-## Inicio de la carrera política
+En 2008, Tsai asumió la presidencia del Partido Democrático Progresista. Era el momento en que la reputación del partido había tocado fondo por los escándalos de corrupción de Chen Shui-bian[^1].
 
-### Períodos en NSC y MAC
+En 2012 se presentó por primera vez a la presidencia y perdió contra Ma Ying-jeou por ochocientos mil votos. Fue el punto más bajo de su carrera política. Pero no se fue.
 
-**Consejera del Consejo de Seguridad Nacional (1999-2000):**
-Tsai participó formalmente en el trabajo gubernamental por primera vez como consejera del Consejo de Seguridad Nacional, comenzando su transición de académica a formuladora de políticas.
+En 2014 volvió a asumir la presidencia del partido, justo cuando la confianza en el Kuomintang se desplomaba tras el Movimiento del Girasol. El 16 de enero de 2016 fue elegida con un 56,1 % de los votos, un total de seis millones ochocientos noventa y cuatro mil[^2]. El día de su toma de posesión, Taiwán tuvo su primera presidenta.
 
-**Presidenta de MAC (2000-2004):**
-Durante la administración Chen Shui-bian, sirvió como presidenta del Consejo de Asuntos Continentales (MAC), responsable de formular y ejecutar políticas a través del estrecho. Esta experiencia le dio una visión profunda de la complejidad de las relaciones a través del estrecho y estableció su reputación profesional en política a través del estrecho.
+La reacción de China fue casi inmediata. Tsai se negó a reconocer el «consenso de 1992» y Pekín cortó todos los canales oficiales de comunicación entre las dos orillas[^9].
 
-**Filosofía de política a través del estrecho:**
-En el MAC, Tsai abogó por políticas a través del estrecho de "gestión activa, apertura efectiva" 積極管理、有效開放, enfatizando promover intercambios mientras se mantiene la subjetividad taiwanesa.
+## Dos firmas
 
-### Uniéndose al Partido Progresista Democrático
+Los dos momentos de mayor significado histórico durante la presidencia de Tsai fueron dos firmas.
 
-**Elección de partido:**
-En 2004, Tsai se unió formalmente al Partido Progresista Democrático (DPP) y fue elegida como legisladora general, entrando oficialmente en la política. Esta decisión reflejó su identificación con los valores democráticos taiwaneses.
+**El 1 de agosto de 2016**, Día de los Pueblos Indígenas, pronunció en la Sala Ching-kuo del Palacio Presidencial la disculpa oficial del gobierno a los pueblos indígenas, la primera en la historia de Taiwán[^5]. La anciana bunun Hu Chin-niang encendió tallos de mijo para guiar a los espíritus ancestrales. Pero fuera de las puertas del Palacio Presidencial, otro grupo de indígenas fue bloqueado por los escudos de la policía y rechazó aquella disculpa.
 
-**Desempeño legislativo:**
-En el Yuan Legislativo, Tsai se especializó en relaciones a través del estrecho y política económica, ganando reconocimiento entre partidos por su habilidad profesional y estilo de cuestionamiento moderado y racional.
+> «Por el sufrimiento y el trato injusto que han soportado a lo largo de los últimos cuatrocientos años, en nombre del gobierno, les pido disculpas.»[^5]
 
-**Viceprimera ministra (2006-2007):**
-Promovida a viceprimera ministra, ayudó a manejar políticas nacionales importantes, demostrando habilidad administrativa sobresaliente.
+**El 24 de mayo de 2019**, entró en vigor la *Ley de Aplicación de la Interpretación n.º 748 del Yuan Judicial*. Taiwán se convirtió en el primer país de Asia en legalizar el matrimonio homosexual[^4]. Tsai escribió en Twitter: «En Taiwán, #LoveWins.» El primer día se inscribieron quinientas veintiséis parejas del mismo sexo.
 
-## Período como presidenta del partido: liderando la resurgencia del DPP
+Dos firmas. Una frente a una herida histórica de cuatrocientos años, otra frente a un tabú social de milenios. Ambas provocaron una enorme reacción en contra. La disculpa fue criticada como «solo palabras, sin acciones», y la ley del matrimonio homosexual fue rechazada en referéndum. Pero las firmas ya estaban estampadas.
 
-### Primera líder femenina de partido
+## Ocho millones ciento setenta mil votos
 
-**Avance histórico:**
-En 2008, después de que el DPP sufriera una aplastante derrota en la elección presidencial, Tsai se destacó en la elección de presidenta del partido, convirtiéndose en la primera líder femenina de un partido político importante de Taiwán y la primera presidenta formal del partido femenina en la historia del DPP.
+En las elecciones presidenciales de 2020, Tsai obtuvo ocho millones ciento setenta mil votos, un 57,1 % del total, la cifra más alta de la historia de las elecciones presidenciales en Taiwán[^6].
 
-**Reforma y reconstrucción:**
-Enfrentando un DPP derrotado, Tsai promovió reforma organizacional y ajustes de ruta, dedicada a reconstruir la imagen y competitividad del partido. Enfatizó conceptos de "humildad, tolerancia y unidad", inyectando nueva vitalidad al partido.
+El punto de inflexión de aquella elección no estuvo en Taiwán, sino en Hong Kong. El movimiento contra la ley de extradición de 2019 mostró directamente a los votantes taiwaneses el destino del principio «un país, dos sistemas». El eje de la campaña de Tsai pasó de la política interna a la soberanía, y su frase repetida se convirtió en la definición de la elección: «El futuro de Taiwán lo deciden por sí mismos los veintitrés millones de taiwaneses.»
 
-### Elección presidencial 2012
+Ese mismo año estalló la COVID-19. La gestión inicial de la epidemia en Taiwán —sistema de mascarillas con nombre real, aplicación de rastreo de contactos, más de doscientos días sin casos locales— fue denominada por los medios internacionales como el «modelo taiwanés»[^10].
 
-**Primera candidata presidencial femenina:**
-En 2012, Tsai representó al DPP en la elección presidencial, convirtiéndose en la primera candidata presidencial femenina en la historia de Taiwán, en sí mismo un hito importante en el desarrollo democrático taiwanés.
+Sin embargo, en mayo de 2021 se desató un brote local y el retraso en la adquisición de vacunas provocó duras críticas. La «preparación anticipada» pasó de ser un elogio a convertirse en sarcasmo.
 
-**Resultado de la elección:**
-Aunque perdió ante Ma Ying-jeou por 800,000 votos, la imagen racional y moderada de Tsai y profundo discurso de políticas acumularon una amplia base de apoyo de opinión pública.
+## La olla a presión del estrecho de Taiwán
 
-**Reflexión después de la derrota:**
-Después de la pérdida, Tsai se involucró en reflexión profunda, ajustando rutas políticas y poniendo más énfasis en la comunicación social y necesidades públicas.
+Durante los ocho años de gobierno de Tsai, la presión militar en el estrecho de Taiwán se multiplicó.
 
-## Camino a la presidencia: victoria histórica
+En agosto de 2022, la presidenta de la Cámara de Representantes de Estados Unidos, Nancy Pelosi, visitó Taiwán[^11]. La respuesta de China fue un ejercicio militar alrededor de la isla: el Ejército Popular de Liberación lanzó once misiles balísticos, cinco de los cuales cayeron en la zona económica exclusiva de Japón. Solo en 2022, el EPL cruzó la línea media del estrecho de Taiwán quinientas sesenta y cuatro veces, veinticuatro veces la suma de todos los años anteriores[^9].
 
-### Elección presidencial 2016
+La estrategia de Tsai fue no provocar y no ceder. No declaró la independencia ni aceptó el consenso de 1992. Compró armas, reforzó la movilización de la reserva y fortaleció las relaciones informales con Estados Unidos y Japón. Era un estado sin nombre: ni unificación ni independencia, sino la persistencia de Taiwán en la grieta.
 
-**Victoria histórica:**
-El 16 de enero de 2016, Tsai fue elegida la 14ª presidenta con un récord de 6.89 millones de votos (56.12%), convirtiéndose en la primera jefa de estado femenina de Taiwán y la primera presidenta asiática no de una dinastía política.
+## Al irse
 
-**Alternancia de poder:**
-Esta elección logró la tercera alternancia de poder político en la historia taiwanesa. El DPP regresó al poder y aseguró una mayoría legislativa, formando una estructura de gobernanza completa.
+El 20 de mayo de 2024, Tsai Ing-wen dejó el cargo. Su vicepresidente, Lai Ching-te, había ganado las elecciones de enero de ese mismo año: era la primera vez que el Partido Democrático Progresista ganaba tres elecciones presidenciales consecutivas, un hecho sin precedentes en la historia democrática de Taiwán[^12].
 
-**Significado internacional:**
-La elección de Tsai recibió atención internacional, vista como un avance importante para el desarrollo democrático asiático y la participación política femenina.
+Fue incluida dos veces en la lista de las cien personas más influyentes de la revista *TIME* (2016 y 2020)[^13]. Tras dejar el cargo, realizó visitas como ciudadana particular a Lituania, Dinamarca y el Reino Unido.
 
-### Éxito de reelección 2020
+Tuvo dos gatos: Tsai Xiangxiang (un atigrado gris rescatado tras un tifón en 2012) y Tsai Acai (un gato naranja encontrado en Taitung en 2015)[^14]. No se casó nunca. Durante la campaña electoral de 2016, la agencia de noticias Xinhua de China publicó un comentario insinuando que «las mujeres solteras son emocionalmente inestables», lo que fue ampliamente condenado como discriminación de género[^14].
 
-**Récord histórico de votos:**
-El 11 de enero de 2020, Tsai fue exitosamente reelegida como la 15ª presidenta con un récord histórico de 8.17 millones de votos (57.13%), demostrando poderoso apoyo público.
+Tsai Ing-wen demostró en ocho años que una política de perfil académico, poco dada a los discursos brillantes, a los apretones de manos y a la televisión, puede gobernar un país con la fuerza de la ley y las instituciones en una era de populismo global. No solo dejó políticas: dejó una prueba de que el silencio también puede ser un estilo de liderazgo.
 
-**Atención internacional:**
-La reelección tuvo lugar en el contexto de las protestas antiextradición de Hong Kong y la guerra comercial EE.UU.-China. La victoria de Tsai fue vista por la comunidad internacional como la persistencia del pueblo taiwanés en valores democráticos.
+**Lecturas complementarias**:
 
-## Filosofía de gobierno y características de políticas
+- [Transición democrática de Taiwán](/history/台灣民主轉型) — La evolución institucional de la autoritaria a la libertad
+- [Lai Ching-te](/people/賴清德) — Sucesor de Tsai Ing-wen, actual presidente de Taiwán
+- [Matrimonio homosexual e igualdad de género en Taiwán](/society/台灣同婚與性別平權) — El proceso legislativo de la primera ley de matrimonio homosexual de Asia
+- [Historia de los pueblos indígenas de Taiwán y movimiento de reconocimiento](/history/台灣原住民族歷史與正名運動) — De «compatriotas de la montaña» a «pueblos indígenas»: una lucha por el reconocimiento
+- [Movimiento del Girasol](/society/太陽花學運) — El movimiento social de 2014 que transformó el mapa político de Taiwán
+- [Chou Tzu-yu](/people/周子瑜) — Aquel vídeo de disculpa de noventa segundos la noche antes de las elecciones de 2016 fue el detonante del discurso de victoria de Tsai: «Nadie tiene que disculparse por su identidad»
+- [Chia Yong-chieh](/people/賈永婕) — Al otro lado de aquella llamada de la «belleza al 120 %» en junio de 2021; la recaudación de fondos para HFNC fue una sincronización inusual entre la movilización civil y el sistema de la Presidencia
 
-### Política de relaciones a través del estrecho
+## Referencias
 
-**Manteniendo el status quo:**
-Tsai aboga por una política de "mantener el status quo", preservando paz y estabilidad en el Estrecho de Taiwán sin provocación ni sumisión.
+[^1]: [Wikipedia: Tsai Ing-wen](https://zh.wikipedia.org/wiki/%E8%94%A1%E8%8B%B1%E6%96%87) — Recoge la carrera política completa de Tsai Ing-wen, su discurso de derrota de 2012, datos de votación de sucesivas elecciones, contrastados con múltiples fuentes.
 
-**Cuatro compromisos:**
-Compromiso con la existencia de la República de China; compromiso de que la República de China y la República Popular China no están subordinadas entre sí; compromiso de que la soberanía es inviolable e inanexable; y compromiso de que el futuro de la República de China (Taiwán) debe seguir la voluntad del pueblo taiwanés.
+[^2]: [Comisión Electoral Central: elecciones presidenciales y vicepresidenciales de 2016](https://www.cec.gov.tw/) — Resultados oficiales: Tsai Ing-wen, 6.894.744 votos (56,12 %); Eric Chu, 3.813.365 votos (31,04 %).
 
-### Política de transformación económica
+[^3]: [ETtoday: ascendencia indígena y antecedentes familiares de Tsai Ing-wen](https://www.ettoday.net/news/20160514/694830.htm) — Reportaje sobre la ascendencia paiwan de Tsai (por línea materna de su abuela), su nombre en paiwan Tjuku y su condición de menor de once hermanos.
 
-**Innovación industrial 5+2:**
-Promoviendo cinco industrias innovadoras importantes: biotecnología y farmacéutica, energía verde, maquinaria inteligente, defensa y nueva agricultura, junto con los planes de Silicon Valley Asiático y economía circular.
+[^4]: [BBC News: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Reportaje sobre la aprobación legislativa del 17 de mayo de 2019 y la entrada en vigor el 24 de mayo, convirtiendo a Taiwán en el primer país de Asia en legalizar el matrimonio homosexual.
 
-**Nueva política del sur:**
-Fortaleciendo la cooperación económica, comercial y de inversión con 18 países en el sudeste asiático, sur de Asia y Australasia, reduciendo dependencia del mercado chino continental.
+[^5]: [Presidencia de la República de China: disculpa de la presidenta Tsai Ing-wen al pueblo indígena en nombre del gobierno](https://www.president.gov.tw/NEWS/20603) — Texto íntegro de la disculpa del 1 de agosto de 2016, fuente primaria.
 
-### Reforma social
+[^6]: [Comisión Electoral Central: elecciones presidenciales y vicepresidenciales de 2020](https://www.cec.gov.tw/) — Resultados oficiales: Tsai Ing-wen, 8.170.231 votos (57,13 %); Han Kuo-yu, 5.522.119 votos (38,61 %).
 
-**Igualdad matrimonial:**
-Promoviendo la legalización del matrimonio entre personas del mismo sexo, haciendo a Taiwán el primer lugar en Asia en reconocer el matrimonio entre personas del mismo sexo.
+[^7]: [LSE: Statement on Tsai Ing-wen's PhD](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — Comunicado oficial de la London School of Economics de octubre de 2019, confirmando la autenticidad y validez del doctorado de Tsai Ing-wen de 1984.
 
-**Reforma de pensiones:**
-Impulsando reforma de pensiones para militares, funcionarios civiles y maestros para asegurar sostenibilidad del sistema. Aunque el proceso fue controvertido, demostró determinación para la reforma.
+[^8]: [Wikipedia: Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen) — La Wikipedia en inglés recoge su experiencia en las negociaciones de la OMC, su participación en la redacción de la teoría de los dos Estados y su mandato como presidenta del MAC (2000-2004).
 
-**Justicia transicional:**
-Estableciendo la Comisión de Justicia Transicional para abordar legados injustos del período autoritario.
+[^9]: [CSIS: Cross-Strait Relations Under Tsai](https://www.csis.org/) — Análisis del Center for Strategic and International Studies sobre la evolución de las relaciones entre las dos orillas durante el mandato de Tsai, incluyendo los datos de las 564 incursiones del EPL a través de la línea media en 2022.
 
-## Relaciones internacionales y logros diplomáticos
+[^10]: [NPR: How Taiwan Battled Covid-19](https://www.npr.org/sections/goatsandsoda/2020/07/15/887616529/) — Reportaje sobre las medidas iniciales de control de la COVID-19 en Taiwán (sistema de mascarillas con nombre real, rastreo de contactos), denominadas «modelo taiwanés».
 
-### Elevación de estatus internacional
+[^11]: [CNN: Pelosi's Taiwan Visit](https://edition.cnn.com/2022/08/02/politics/nancy-pelosi-taiwan/) — Reportaje sobre la visita de Pelosi a Taiwán en agosto de 2022 y los posteriores ejercicios militares chinos alrededor de la isla, incluyendo los datos de los once misiles balísticos.
 
-**Relaciones EE.UU.-Taiwán:**
-Durante la administración de Tsai, las relaciones EE.UU.-Taiwán alcanzaron su mejor nivel desde que se cortaron lazos diplomáticos en 1979, con intercambios cercanos en política, economía y asuntos militares.
+[^12]: [Focus Taiwan: Lai Ching-te wins 2024 presidential election](https://focustaiwan.tw/politics/202401130014) — Reportaje en inglés de la agencia CNA sobre los resultados de las elecciones de 2024, primera victoria consecutiva de tres mandatos del Partido Democrático Progresista.
 
-**Asociaciones democráticas:**
-Fortaleciendo cooperación con países de ideas afines y participando en mecanismos multilaterales de naciones democráticas para mejorar la visibilidad internacional de Taiwán.
+[^13]: [TIME: The 100 Most Influential People](https://time.com/collection/100-most-influential-people-2020/5888228/tsai-ing-wen/) — Tsai Ing-wen fue incluida en la lista de las cien personas más influyentes de 2020, con un texto de presentación de Ted Cruz.
 
-**Participación en organizaciones internacionales:**
-A pesar de la supresión de China, la participación de Taiwán en organizaciones internacionales ha aumentado, particularmente en campos profesionales como tecnología y salud.
-
-### Desempeño internacional durante la pandemia
-
-**Logro de prevención de pandemia:**
-Durante la pandemia de COVID-19, el desempeño preventivo de Taiwán recibió reconocimiento internacional, haciendo "Taiwán puede ayudar" una marca internacional resonante.
-
-**Diplomacia de mascarillas:**
-Donando mascarillas y otros suministros a varios países demostró preocupación humanitaria y mejoró la imagen internacional de Taiwán.
-
-## Estilo de liderazgo y rasgos personales
-
-### Estilo político
-
-**Racional y pragmática:**
-Tsai es conocida por su estilo político racional y pragmático, analizando calmadamente temas controvertidos para buscar soluciones óptimas.
-
-**Comunicación y coordinación:**
-Buena en escuchar diferentes opiniones, valorando la comunicación de políticas y esforzándose por construir consenso social.
-
-**Gestión de crisis:**
-Demostrando capacidades de gestión de crisis tranquilas cuando se enfrentan desafíos importantes, ya sean desastres naturales, pandemias o tensiones a través del estrecho.
-
-### Rasgos personales
-
-**Ventaja de antecedentes académicos:**
-Su profundo fondo académico la hace más rigurosa en la formulación de políticas, valorando análisis de datos y opinión profesional.
-
-**Características de liderazgo femenino:**
-Mostrando la delicadeza y resiliencia de una líder femenina, ganando reconocimiento en la arena política con un estilo diferente de los políticos masculinos tradicionales.
-
-**Visión internacional:**
-Estudio en el extranjero y rica experiencia internacional le dan ventajas en el manejo de asuntos internacionales.
-
-## Desafíos y críticas
-
-### Desafíos domésticos
-
-**Transformación económica:**
-Problemas estructurales en la transformación económica taiwanesa, incluyendo salarios bajos, precios altos de vivienda y desafíos de actualización industrial.
-
-**Divisiones sociales:**
-Divisiones sociales causadas por temas como reforma de pensiones y política laboral requieren más tiempo para tender puentes.
-
-**Política energética:**
-La política de tierra natal libre de energía nuclear enfrenta desafíos técnicos y de costos durante la ejecución.
-
-### Presión externa
-
-**Relaciones a través del estrecho:**
-Enfrentando amenazas militares y supresión diplomática de China, mantener la seguridad y dignidad taiwanesas es la mayor prueba.
-
-**Espacio internacional:**
-Bajo el telón de fondo del ascenso de China, expandir el espacio internacional de Taiwán sigue siendo un desafío importante.
-
-## Estatus histórico e influencia
-
-### Profundización de la democracia taiwanesa
-
-**Participación política femenina:**
-El éxito de Tsai estableció un modelo para la participación política femenina en Taiwán, inspirando a más mujeres a participar en asuntos públicos.
-
-**Valores democráticos:**
-En medio de tendencias globales de resurgimiento autoritario, el Taiwán liderado por Tsai se convirtió en un faro de democracia en Asia.
-
-**Cultura política:**
-Promoviendo una cultura política más racional y moderada, reduciendo confrontación y odio político.
-
-### Significado internacional
-
-**Líder femenina asiática:**
-Como una importante líder política femenina en Asia, el éxito de Tsai sirve como demostración para el desarrollo democrático asiático.
-
-**Paradigma democrático:**
-La práctica democrática taiwanesa bajo el liderazgo de Tsai proporciona experiencia valiosa para otras democracias en desarrollo.
-
-## Influencia después de dejar el cargo
-
-### Legado político
-
-**Construcción institucional:**
-Las reformas institucionales promovidas durante su mandato sentaron las bases para el desarrollo a largo plazo de Taiwán.
-
-**Relaciones internacionales:**
-Las asociaciones internacionales establecidas y logros diplomáticos continuarán influyendo en el estatus internacional de Taiwán.
-
-**Progreso social:**
-Las reformas sociales promovidas, especialmente el progreso en derechos humanos e igualdad, se han convertido en activos importantes de la sociedad taiwanesa.
-
-### Perspectiva futura
-
-**Modelo democrático:**
-La carrera política de Tsai continuará sirviendo como modelo importante para el desarrollo democrático taiwanés.
-
-**Participación política femenina:**
-Su éxito inspirará a más mujeres a participar en política, avanzando la igualdad de género.
-
-**Académicos en política:**
-Demostrando un modelo exitoso de académicos entrando en política, proporcionando referencia para intelectuales participando en asuntos públicos.
-
-## Vida personal e intereses
-
-### Estilo de vida
-
-**Amante de gatos:**
-Tsai es una conocida amante de gatos, poseyendo varios gatos y frecuentemente compartiendo vida con ellos en redes sociales.
-
-**Hábitos de lectura:**
-Manteniendo amplios hábitos de lectura, cubriendo historia, literatura, política y otros campos.
-
-**Ejercicio y fitness:**
-Valorando la salud física y ejercitándose regularmente para mantener buena condición física para el pesado trabajo político.
-
-### Uso de redes sociales
-
-**Comunicación digital:**
-Hábil en usar redes sociales como Facebook e Instagram para comunicarse con el público, rompiendo la distancia de los políticos tradicionales.
-
-**Imagen accesible:**
-Construyendo una imagen política accesible compartiendo vida diaria y experiencias de comida.
-
-La carrera política de Tsai Ing-wen es testigo de la madurez y progreso de la democracia taiwanesa. De académica a política, de primera líder femenina de partido a primera presidenta femenina, cada paso que dio escribió nuevas páginas en la historia taiwanesa. Su éxito no es solo una victoria personal, sino un símbolo de apertura, tolerancia y progreso de la sociedad taiwanesa.
-
-Como primera presidenta femenina de Taiwán, el estatus histórico de Tsai está establecido. Su estilo de liderazgo, filosofía política y desempeño en el gobierno continuarán influyendo en la cultura política taiwanesa y el desarrollo democrático. En el proceso de Taiwán hacia una sociedad democrática más madura, Tsai Ing-wen es indudablemente una figura histórica importante cuyas contribuciones e influencia serán recordadas por mucho tiempo.
-
----
-
-_Referencias:_
-
-- Sitio web oficial de la Oficina del Presidente, ROC
-- Datos históricos del Partido Progresista Democrático
-- Registros de elección de la Comisión Electoral Central
-- Informes de medios noticiosos y análisis político
-- Artículos de investigación académica y biografías políticas
+[^14]: [Reuters: Taiwan's cat-loving president](https://www.reuters.com/article/us-taiwan-president-cats-idUSKCN0Z005V) — Reportaje sobre los dos gatos de Tsai Ing-wen (Tsai Xiangxiang y Tsai Acai) y el incidente del ataque sexista de la agencia Xinhua.

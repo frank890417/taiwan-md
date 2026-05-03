@@ -12,6 +12,7 @@ translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:57fad95b8a079b38'
+sourceBodyHash: 'sha256:4f732aefea1fd604'
 translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 

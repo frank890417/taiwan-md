@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣機車文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:6e1ce0a29ebd4e81'
+sourceBodyHash: 'sha256:5fa0068bcb11d00b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

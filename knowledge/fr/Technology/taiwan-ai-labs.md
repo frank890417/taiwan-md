@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: "Technology/台灣人工智慧實驗室.md"
 sourceCommitSha: "800114ea"
 sourceContentHash: "sha256:4e74b5658957423e"
+sourceBodyHash: 'sha256:2c51a2d73a243593'
 translatedAt: "2026-04-14T12:32:55+08:00"
 ---
 

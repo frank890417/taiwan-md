@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/莊朱玉女.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:983dd4462b680d89'
+sourceBodyHash: 'sha256:59833698754e5cb0'
 translatedAt: '2026-04-30T22:28:43+08:00'
 ---
 

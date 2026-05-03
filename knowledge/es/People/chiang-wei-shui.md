@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'People/蔣渭水.md'
 sourceCommitSha: '1213a0f4'
 sourceContentHash: 'sha256:0f3a996ef981d6ff'
+sourceBodyHash: 'sha256:d65332102dab634a'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

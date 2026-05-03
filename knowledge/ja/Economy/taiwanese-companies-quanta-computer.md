@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：廣達電腦.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:917f1503c2ff61d8
+sourceBodyHash: 'sha256:8336e4cef45a1444'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Economy
 ---

@@ -20,6 +20,7 @@ translatedFrom: 'People/陳建仁.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95a660352fbbce5b'
+sourceBodyHash: 'sha256:47ca4b995c96a822'
 translatedAt: '2026-04-14T19:19:36+08:00'
 ---
 

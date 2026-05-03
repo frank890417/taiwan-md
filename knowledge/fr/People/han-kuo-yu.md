@@ -1,181 +1,183 @@
 ---
-title: 'Han Kuo-yu'
-description: 'Premier maire révoqué de l'histoire constitutionnelle de Taïwan, il est devenu président du Yuan législatif quatre ans plus tard. Quel parcours politique que le sien.'
+title: "Han Kuo-yu"
+description: "Premier maire d'une municipalité spéciale à avoir été destitué, il est devenu président du Parlement quatre ans plus tard. Quelle trajectoire politique est-ce là ?"
 date: 2026-04-11
-tags: ['personnalité politique', 'Kuomintang', 'président du Yuan législatif', 'vague Han', 'Kaohsiung', '2018', '2020', '2024']
-subcategory: 'Personnalités politiques'
-category: 'People'
-author: 'Taiwan.md Translation Team'
-difficulty: 'intermediate'
+tags: ["personnalité politique", "Kuomintang", "président du Parlement", "vague Han", "Kaohsiung", "2018", "2020", "2024"]
+subcategory: "政治人物"
+author: "Taiwan.md"
 readingTime: 12
-featured: true
 lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: "People/韓國瑜.md"
-sourceCommitSha: "056136d7"
-sourceContentHash: "sha256:f8d9a2a7a468041d"
-translatedAt: "2026-04-14T19:19:52+08:00"
+featured: true
+translatedFrom: People/韓國瑜.md
+sourceCommitSha: 2d0c126f
+sourceContentHash: sha256:ee41f08167c2c2aa
+sourceBodyHash: sha256:73cf0e41be5a3b9e
+translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
 # Han Kuo-yu
 
-## Le soir du 6 juin 2020
+## La soirée du 6 juin 2020
 
-Le 6 juin 2020, à 19 h 25, la commission électorale de Kaohsiung proclame les résultats. Votes en faveur de la révocation de Han Kuo-yu : **939 090 voix**, soit près du double du seuil requis de 570 000. Votes contre : 25 051. Le dépouillement n'est pas terminé, mais le verdict ne fait plus aucun doute. [^1]
+Le 6 juin 2020, à 19 h 25, la Commission électorale de Kaohsiung annonce les résultats du dépouillement. Les voix en faveur de la destitution de Han Kuo-yu : **939 090 voix**, soit près du double du seuil de 570 000 voix requis. Les voix contre : 25 051. Le dépouillement n'est pas encore terminé, mais le résultat ne fait plus aucun doute.[^1]
 
-Han Kuo-yu, 62 ans à l'époque, devient **le premier maire d'une ville-région directement administrée à être révoqué dans toute l'histoire constitutionnelle de la République de Chine**. Son mandat de maire de Kaohsiung n'aura duré que **528 jours** — le plus court jamais enregistré pour ce type de poste. [^2]
+Han Kuo-yu, alors âgé de 62 ans, devient **le premier maire d'une municipalité spéciale destitué dans l'histoire constitutionnelle de la République de Chine**. Son mandat à la mairie de Kaohsiung aura duré **528 jours**, le plus court de l'histoire pour un maire de municipalité spéciale.[^2]
 
-À cet instant, sa carrière politique semble définitivement terminée. En janvier 2020, lors de l'élection présidentielle, il avait perdu face à Tsai Ing-wen par plus de 2,65 millions de voix : 5,52 millions contre 8,17 millions. [^3] Cinq mois plus tard, le voilà révoqué. En l'espace de six mois, il aura vécu une trajectoire inédite dans l'histoire démocratique de Taïwan : candidat à la présidentielle, défaite, puis révocation en tant que maire.
+À cet instant, sa carrière politique semble terminée. Lors de l'élection présidentielle de janvier 2020, il avait perdu face à Tsai Ing-wen avec 5,52 millions de voix contre 8,17 millions, un écart de 2,65 millions de voix.[^3] Cinq mois plus tard, il est destitué. En six mois, il a connu une trajectoire qu'aucune figure politique n'avait connue depuis la démocratisation de Taïwan — candidat à la présidence → défaite → destitution du maire.
 
 Mais l'histoire ne s'arrête pas là.
 
-Quatre ans plus tard, le 1er février 2024, ce même Han Kuo-yu prête serment en tant que **président du 11e Yuan législatif**. La plus haute fonction au sein du parlement de la République de Chine est ainsi occupée par un ancien maire chassé de son poste par 930 000 électeurs.
+Quatre ans plus tard, le 1er février 2024, le même Han Kuo-yu prête serment dans l'enceinte du Yuan législatif en tant que **président de la 11e législature du Parlement**. Le plus haut poste du parlement de la République de Chine, occupé par un ancien maire destitué par 930 000 électeurs quatre ans auparavant.
 
-Entre 2020 et 2024, Han Kuo-yu n'a remporté aucune nouvelle élection, n'a triomphé dans aucun débat. Il n'a fait qu'une seule chose : **attendre**. Attendre que le Parti démocrate progressiste (PDP) perde sa majorité absolue au Yuan législatif lors des élections de 2024, attendre que le Kuomintang devienne le premier parti au parlement, attendre que Chu Li-luan le place en tête de liste des candidats proportionnels. Et il est revenu.
+Entre 2020 et 2024, Han Kuo-yu n'a participé à aucune nouvelle élection, n'a remporté aucun nouveau débat. Il n'a fait qu'une chose : **attendre**. Attendre que le DPP ne conserve pas sa majorité absolue à l'élection présidentielle de 2024, attendre que le Kuomintang devienne le premier parti au Parlement, attendre que Eric Chu le place en tête de la liste nationale. Et il est revenu.
 
-Entre l'effacement politique et la résurrection, il n'y avait qu'une liste de représentants proportionnels.
+Entre la mort politique et la résurrection politique, il n'y avait qu'une liste de candidats nationaux.
 
-> **En 30 secondes** : Han Kuo-yu est né en 1957 à Banqiao, Taipei. Fils de mainlandais originaires de Shanqiu, dans le Henan. Il a suivi une formation à l'Académie militaire terrestre, puis obtenu une licence en anglais à l'université Soochow et un master en études est-asiatiques à l'université nationale Chengchi. Législateur du 2e au 4e mandat, vice-maire de Zhonghe (comté de Taipei). Directeur général de la Société de vente en gros des produits agricoles de Taipei (TAPMC) à partir de 2016, il disparaît trois ans de la scène politique. En 2018, il brigue la mairie de Kaohsiung sous l'étiquette du KMT, déclenchant une « vague Han » avec des slogans comme « Kaohsiung va s'enrichir », « les jeunes exilés vers le nord » ou « les marchandises sortent, les gens entrent ». Il l'emporte de 150 000 voix. Quatre mois après son entrée en fonction, il annonce sa candidature à la présidentielle, perd en janvier 2020 par 2,65 millions de voix, puis est révoqué le 6 juin de la même année — premier maire à vivre cette sanction dans l'histoire constitutionnelle. En 2024, il revient au Yuan législatif en tête de la liste proportionnelle du KMT et est élu président du parlement le 1er février.
+> **Aperçu en 30 secondes** : Han Kuo-yu, né en 1957 à Banciao, Taipei, est un descendant de deuxième génération de *waishengren* (originaires de la province du Henan, Shangqiu). Diplômé de la filière spéciale de l'Académie militaire de l'armée de terre, du département d'anglais de l'université Soochow et de l'Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi. Il a été législateur aux 2e, 3e et 4e législatures et adjoint au maire de Zhonghe, dans le comté de Taipei. Après avoir été nommé directeur général de la société de commercialisation des produits agricoles de Taipei (TPPC) en 2016, il est resté dans l'ombre pendant trois ans. En 2018, il s'est présenté aux élections municipales de Kaohsiung sous la bannière du Kuomintang, déclenchant la « vague Han » avec des slogans comme « Kaohsiung, devenons riches ! », « les jeunes qui ont migré vers le nord » et « les marchandises sortent, les gens entrent », battant son adversaire avec 150 000 voix d'avance. Quatre mois après son élection comme maire en 2019, il a annoncé sa candidature à la présidence. En janvier 2020, il a perdu l'élection présidentielle avec un écart de 2,65 millions de voix, puis a été destitué le 6 juin de la même année, devenant le premier maire de municipalité spéciale destitué de l'histoire constitutionnelle. En 2024, il est revenu au Yuan législatif en tant que premier candidat national du Kuomintang et a été élu président du Parlement le 1er février.
 
-## De Banqiao à Kaohsiung : un itinéraire atypique
+## De Banciao à Taipei à la base avancée de Kaohsiung
 
-Han Kuo-yu est un enfant de Banqiao, fils de mainlandais de la deuxième génération. Son père, originaire de Shanqiu dans le Henan, a suivi le gouvernement nationaliste lors du repli vers Taïwan en 1949. Sa mère est également originaire du continent. Il a grandi dans les quartiers de dépendants militaires (juancun) ou leurs abords, à Banqiao — le profil typique d'un enfant de la première génération de familles mainlandaises de l'après-guerre. [^4]
+Le milieu familial de Han Kuo-yu est celui d'un « descendant de deuxième génération de *waishengren* de Banciao, Taipei ». Son père, originaire de Shangqiu dans le Henan, a suivi le gouvernement nationaliste à Taïwan en 1949. Sa mère est également d'origine continentale. Il a grandi dans un *juancun* (village militaire) ou dans ses environs à Banciao, enfant typique d'une famille de première génération de *waishengren* d'après-guerre.[^4]
 
-Son parcours scolaire mêle formation militaire et humanités. Il fréquente d'abord le programme court de l'Académie militaire terrestre — une formation accélérée, bien différente des quatre années du cursus régulier. Il enchaîne ensuite avec une licence de langue et littérature anglaises à l'université Soochow, puis un master en études est-asiatiques à l'université nationale Chengchi. Ce département est l'une des institutions les plus réputées de Taïwan pour l'étude de la question chinoise ; ses diplômés rejoignent souvent les secteurs de la sécurité nationale, de la diplomatie et de la recherche sur les relations entre les deux rives du détroit.
+Son parcours éducatif mêle formation militaire et études littéraires. À l'université, il a suivi la filière spéciale de l'Académie militaire de l'armée de terre — une formation militaire de courte durée, distincte du cursus régulier de quatre ans. Après en être sorti, il a obtenu une licence au département d'anglais de l'université Soochow, puis une maîtrise à l'Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi. Cet institut est l'établissement académique le plus réputé de Taïwan pour l'étude des questions chinoises, et ses diplômés travaillent principalement dans les systèmes de sécurité nationale, de diplomatie et de recherche sur les relations transstraitières.
 
-Ces trois étapes dessinent le profil classique d'une élite mainlandaise de la deuxième génération : **socle militaire + formation en lettres + spécialisation dans les études est-asiatiques**. Ce n'est pas un hasard — c'est la formule standard par laquelle le KMT formait ses successeurs à l'époque de la Guerre froide. Pour les mainlandais de la deuxième génération nés entre 1950 et 1970 qui aspiraient à une carrière politique, ce type de parcours était monnaie courante.
+Ces trois étapes éducatives reflètent un parcours typique d'« élite de deuxième génération de *waishengren* » : **fond militaire + diplôme en sciences humaines + spécialisation en études transstraitières**. Ce n'est pas une combinaison aléatoire, mais la formule standard utilisée par le système du Kuomintang pour former ses successeurs durant la Guerre froide. Pour les descendants de *waishengren* nés entre les années 1950 et 1970 qui souhaitaient entrer en politique, un parcours éducatif similaire était courant.
 
-Élu législateur à sa première tentative en 1993, il est réélu deux fois (2e, 3e et 4e mandats, 1993-2002). Pendant ses neuf ans au Yuan législatif, il se forge une réputation de franc-tireur — offensif, tranchant, n'hésitant jamais à affronter ses adversaires de front. Le KMT de cette époque avait besoin de tels profils, dans un parlement où les législateurs du PDP jouaient sur le même registre.
+En 1993, il est élu à la 2e législature et réélu pour deux mandats consécutifs (2e, 3e et 4e législatures, 1993-2002). Durant ses neuf années au Parlement, il s'est fait connaître pour son style de « canonnier » — prêt à insulter, à charger, à affronter directement ses adversaires. Le Kuomintang avait besoin de ce type de personnage à l'époque, car les législateurs du DPP adoptaient un style similaire.
 
-Après 2002, Han Kuo-yu s'efface progressivement de la scène politique. Il devient vice-maire de Zhonghe dans le comté de Taipei, un poste qui ne lui offre guère de visibilité. Entre 2013 et 2017, il dirige la **Société de vente en gros des produits agricoles de Taipei (TAPMC)**, en charge des marchés de gros de fruits et légumes — une fonction qui, politiquement, s'apparente à un exil.
+Après 2002, Han Kuo-yu s'est progressivement effacé de la scène politique. Il a occupé le poste d'adjoint au maire de Zhonghe, dans le comté de Taipei, mais ce poste ne lui permettait pas de revenir sous les projecteurs. De 2013 à 2017, il a été directeur général de la **Taipei Produce Marketing Corporation** (TPPC) — un poste de gestion du marché de gros des fruits et légumes, politiquement proche d'un exil.
 
-Durant ces années, il disparaît presque totalement du débat public. Jusqu'au tournant inattendu de 2018.
+Pendant cette période, il a presque complètement disparu du regard du public. Jusqu'à l'imprévu de 2018.
 
-## « Kaohsiung va s'enrichir » : comment un slogan peut changer une ville
+## « Kaohsiung, devenons riches ! » : comment un slogan a transformé une ville
 
-Lors des élections locales de 2018 à Taïwan, le KMT cherche un candidat pour Kaohsiung. La ville est le fief du PDP depuis 1998, vingt années de règne consécutif. Aucune personnalité influente du KMT ne souhaitait y aller à la mort certaine.
+Lors des élections locales de 2018, le Kuomintang cherchait un candidat pour Kaohsiung. Kaohsiung était un « bastion vert » sous contrôle continu du DPP depuis 1998, et aucun politicien de quelque faction que ce soit au sein du Kuomintang ne voulait y aller pour perdre.
 
-Han Kuo-yu est désigné. Le calcul à l'époque : de toute façon il va perdre — autant envoyer quelqu'un de suffisamment bruyant pour « faire acte de présence », générer du bruit médiatique, et accessoirement booster le KMT dans les autres comtés. **Il était le sacrifié.**
+Han Kuo-yu a été désigné. Le raisonnement était le suivant : de toute façon, il allait perdre, autant envoyer quelqu'un d'assez bruyant pour « faire le figurant », créer du bruit médiatique et, accessoirement, soutenir les candidats du Kuomintang dans les autres villes et comtés. **Il était le bouc émissaire.**
 
-Puis la « vague Han » a tout emporté.
+Puis la « vague Han » s'est produite.
 
-Son langage de campagne avait une densité que la politique taïwanaise n'avait jamais connue :
+Son langage électoral avait une densité jamais vue dans la politique taïwanaise :
 
-- **« Une bouteille d'eau minérale, un bol de viande de porc braisée »** — pour signifier qu'il ne dépendait d'aucun groupe financier, qu'il faisait campagne avec les moyens du peuple
-- **« Les jeunes exilés vers le nord »** — pour nommer le phénomène des Kaohsiungais contraints de quitter leur ville natale pour trouver du travail à Taipei
-- **« Les marchandises sortent, les gens entrent, Kaohsiung va s'enrichir »** — trois phrases condensant à la fois le diagnostic économique et la promesse d'un avenir meilleur [^5]
+- **« Une bouteille d'eau minérale, un bol de *lu rou fan* »** — pour montrer qu'il ne dépendait pas des grands groupes financiers et faisait campagne avec les choses les plus simples
+- **« Les jeunes qui ont migré vers le nord »** — pour nommer le phénomène des habitants de Kaohsiung contraints de quitter leur ville pour travailler à Taipei
+- **« Les marchandises sortent, les gens entrent, Kaohsiung devient riche ! »** — trois phrases résumant la détresse économique et l'espoir en un slogan[^5]
 
-Ces slogans partagent une même logique : **extrêmement concrets, profondément populaires, viscéralement émotionnels**. Ils ne s'attardent pas sur les détails des politiques publiques ni sur une philosophie de gouvernance — ils touchent directement aux douleurs les plus brutes des électeurs : les jeunes qui fuient, une économie qui stagne, l'espoir qui s'efface. Et ils se prêtent parfaitement à la viralité, au partage, à la mémification.
+Le point commun de ces slogans : **extrêmement concrets, extrêmement populaires, extrêmement émotionnels**. Ils ne détaillaient pas les politiques, ne développaient pas de philosophie de gouvernance, mais touchaient directement la douleur la plus brute des électeurs — les jeunes ne restent pas, l'économie ne croît pas, l'espoir est introuvable. Et ils étaient reproductibles, partageables, transformables en mèmes Internet.
 
-Une analyse post-électorale du _Reporter_ (報導者) en 2018 a qualifié la « vague Han » de phénomène électoral **anti-discours, anti-élite, ancré dans le quotidien**. [^6] Le récit dominant de l'époque était celui du gouvernement PDP de Tsai Ing-wen — un langage orienté vers la rationalité, l'international, la réforme, le progressisme. Pour une partie de l'électorat — notamment les 40-49 ans, ceux qui avaient connu la prospérité de Kaohsiung et qui l'avaient vue décliner —, ce langage était incompréhensible et inaccessible.
+L'analyse post-électorale de *The Reporter* en 2018 a classé la « vague Han » comme un phénomène électoral **anti-discours, anti-élitiste, proche du peuple**.[^6] À l'époque, le récit politique taïwanais était dominé par le DPP sous la présidence de Tsai Ing-wen, avec un langage orienté vers la rationalité, l'international, la réforme et le progrès. Ce langage était incompréhensible et inaudible pour certains électeurs — en particulier les 40-49 ans, ceux qui avaient connu la prospérité économique de Kaohsiung puis l'avaient vue décliner.
 
-L'émergence de Han Kuo-yu leur a donné **des mots pour s'exprimer**.
+L'apparition de Han Kuo-yu leur a donné **des mots pour s'exprimer**.
 
-En novembre 2018, Han Kuo-yu écrase son adversaire Chen Chi-mai de **150 000 voix** et remporte la mairie de Kaohsiung. Le bastion vert devient bleu. C'est la première fois depuis 1998 que le PDP perd Kaohsiung.
+En novembre 2018, Han Kuo-yu a largement battu son adversaire Chen Chi-mai avec **150 000 voix d'avance**, devenant maire de Kaohsiung. Le vert est devenu bleu. C'était la première fois depuis 1998 que le DPP perdait Kaohsiung.
 
-## Quatre mois après, il décide de briguer la présidence
+## Quatre mois plus tard, il a décidé de se présenter à la présidence
 
-Le problème viendra ensuite.
+Le problème est venu ensuite.
 
-Entre fin février et début mars 2019, à peine quatre mois après avoir pris ses fonctions, Han Kuo-yu commence à laisser entendre qu'il veut se présenter à la présidentielle de 2020. Il se dit « candidat passif », attendant l'investiture du KMT — mais dans les faits, son équipe organise des meetings à travers tout le pays, signant le début d'une véritable campagne présidentielle.
+Fin février – début mars 2019, à peine quatre mois après son élection comme maire de Kaohsiung, Han Kuo-yu a commencé à laisser filtrer qu'il envisageait de se présenter à l'élection présidentielle de 2020. Il a déclaré qu'il était « candidat passif », attendant d'être investi par le Kuomintang ; mais dans les faits, son équipe organisait des rassemblements dans tout le pays, ce qui équivalait à une campagne présidentielle.
 
-Cette décision marque le début de son effondrement politique.
+Cette décision a été le point de départ de son effondrement politique.
 
-Les électeurs de Kaohsiung l'avaient choisi pour « relancer l'économie, faire s'enrichir la ville » — pas pour en faire un tremplin vers la présidence. En s'engageant dans la course présidentielle, l'administration municipale se retrouve en pratique à l'arrêt : le maire est rarement à Kaohsiung pour gérer les affaires courantes, le cabinet manque de direction, les grands travaux accumulent les retards, les négociations intercommunales se bloquent. Chen Chi-mai remportera d'ailleurs haut la main la partielle d'août 2020, en incarnant précisément l'image d'un « maire qui peut se consacrer pleinement à sa tâche ». [^7]
+Les électeurs de Kaohsiung l'avaient choisi pour qu'il « relance l'économie et rende Kaohsiung riche », pas pour qu'il utilise la maire comme tremplin vers la présidence. Lorsqu'il s'est lancé dans la course présidentielle, la gestion municipale de Kaohsiung s'est de facto paralysée — le maire passait la majeure partie de son temps loin de Kaohsiung, le cabinet municipal manquait de direction, les grands projets étaient retardés, les négociations inter-municipalités étaient bloquées. Chen Chi-mai a ensuite remporté facilement l'élection partielle d'août 2020, en jouant précisément sur le thème « un maire qui peut se consacrer pleinement à sa tâche ».[^7]
 
-Les résultats de la présidentielle du 11 janvier 2020 sont sans appel :
+Pire encore, la performance de Han Kuo-yu lors de l'élection présidentielle. Le 11 janvier 2020, les résultats du vote :
 
 - Tsai Ing-wen / Lai Ching-te : **8 170 231 voix** (57,13 %)
 - Han Kuo-yu / Chang San-cheng : **5 522 119 voix** (38,61 %)
-- James Soong / Sandra Yu : 1 050 600 voix (4,26 %)
+- James Soong / Yu Hsiang : 1 050 600 voix (4,26 %)
 
-**Han Kuo-yu perd avec un écart de 2,65 millions de voix.** Cet écart est le troisième plus grand de toute l'histoire de l'élection présidentielle au suffrage direct à Taïwan, après la victoire de Ma Ying-jeou sur Frank Hsieh en 2008 (2,21 millions) et celle de Tsai Ing-wen sur Eric Chu en 2016 (3,08 millions).
+**Han Kuo-yu a perdu avec un écart de 2,65 millions de voix.** Cet écart est le troisième plus important de l'histoire de l'élection présidentielle directe de Taïwan, derrière les 2,21 millions de voix de Ma Ying-jeou face à Hsieh Chang-ting en 2008 et les 3,08 millions de voix de Tsai Ing-wen face à Eric Chu en 2016.
 
-La vague Han de 2018 s'est brisée en janvier 2020, treize mois plus tard.
+Le mythe de la vague Han de 2018 s'est transformé en désillusion de la vague Han en janvier 2020, treize mois plus tard.
 
-## La révocation : la punition d'une ville
+## La destitution : la punition d'une ville
 
-Deux semaines après la présidentielle, des habitants de Kaohsiung lancent une pétition de révocation. Le motif : **Han Kuo-yu a utilisé Kaohsiung comme tremplin vers la présidence, trahissant ainsi sa promesse envers ses électeurs**.
+Deux semaines après l'élection présidentielle, les citoyens de Kaohsiung ont lancé une pétition de destitution. Le motif : **Han Kuo-yu a utilisé Kaohsiung comme tremplin vers la présidence, trahissant sa promesse envers les électeurs.**
 
-La procédure de révocation comprend trois étapes : proposition (signatures représentant 1 % de l'électorat), collecte de signatures (10 %), puis vote (les votes favorables doivent dépasser 25 % des électeurs inscrits et être supérieurs aux votes contre). La collecte de signatures à Kaohsiung bat des records : estimée initialement à quatre mois minimum, elle atteint le seuil en deux mois. [^8]
+La procédure de destitution comporte trois étapes : proposition (pétition de 1 %), parrainage (10 %), vote (les voix pour doivent dépasser 25 % des électeurs inscrits et être supérieures aux voix contre). La vitesse de parrainage de la destitution à Kaohsiung a battu un record — ce qui était initialement estimé à au moins quatre mois a été atteint en deux mois.[^8]
 
-Vote le 6 juin 2020. Taux de participation : **42 %**. En faveur de la révocation : **939 090 voix**. Contre : **25 051 voix**. [^1]
+Le vote a eu lieu le 6 juin 2020. Le taux de participation était de **42 %**. Voix pour la destitution : **939 090**. Voix contre : **25 051**.[^1]
 
-Mis en regard, les deux chiffres parlent d'eux-mêmes : **930 000 contre 25 000**. Les partisans de la révocation sont **37 fois plus nombreux** que ses opposants. Ce n'est pas un résultat serré — c'est le rejet total et sans équivoque d'un homme par toute une ville.
+Mettre ces deux chiffres côte à côte rend les choses encore plus claires : **939 000 contre 25 000**. Les partisans de la destitution étaient **37 fois plus nombreux** que ses opposants. Ce n'était pas un résultat serré — c'était le rejet catégorique d'un homme par une ville entière.
 
-Han Kuo-yu devient ainsi **le premier maire d'une ville-région directement administrée à être révoqué dans l'histoire constitutionnelle de la République de Chine**. [^2] Ses 528 jours de mandat resteront les plus courts jamais enregistrés pour ce type de poste.
+Han Kuo-yu est devenu le **premier maire d'une municipalité spéciale destitué** dans l'histoire constitutionnelle de la République de Chine.[^2] Son mandat de 528 jours est également devenu le plus court de l'histoire pour un maire de municipalité spéciale.
 
-Ce soir-là, la déclaration de Han Kuo-yu est brève : « Je respecte la décision des habitants de Kaohsiung. » Ni colère, ni justification, ni théorie du complot. Aux antipodes de l'enthousiasme « Kaohsiung va s'enrichir » de 2018 — mais c'était peut-être là son vrai caractère : celui d'un homme mêlant discipline militaire et calcul politique, un mainlandais de la deuxième génération qui sait quand s'incliner.
+Ce soir-là, la déclaration de Han Kuo-yu a été brève : « Je respecte la décision des citoyens de Kaohsiung. » Pas de colère, pas de justification, pas de théorie du complot. C'était l'exact opposé de l'enthousiasme de « Kaohsiung, devenons riches ! » de 2018 — mais c'était peut-être sa vraie nature, un descendant de deuxième génération de *waishengren* mêlant discipline militaire et calcul politique, sachant quand baisser la tête.
 
-## De la révocation à la présidence du parlement : quatre ans d'attente
+## De la destitution au président du Parlement : quatre ans d'attente
 
-De juin 2020 à novembre 2023, Han Kuo-yu disparaît presque totalement du débat public. Il ne brigue aucun mandat local, n'assume aucune fonction dans le parti, n'anime aucune émission de télévision, ne publie aucun livre. Il apparaît ponctuellement lors d'événements internes au KMT, mais sans peser sur les grands débats.
+De juin 2020 à novembre 2023, Han Kuo-yu a presque complètement disparu du regard du public. Il n'a candidaté à aucun poste local, n'a occupé aucun poste au sein du parti, n'a animé aucune émission de télévision, n'a publié aucun livre. Il apparaissait occasionnellement lors d'événements internes du Kuomintang, mais ne dirigeait aucun débat important.
 
-Ces trois années sont une attente calculée.
+Ces trois ans ont été une attente soigneusement calculée.
 
-En janvier 2024, l'élection présidentielle et les législatives se tiennent simultanément. Résultat : le PDP remporte la présidentielle (Lai Ching-te et Hsiao Bi-khim avec 40 % des voix) mais **perd sa majorité absolue au Yuan législatif**. Répartition des sièges :
+En janvier 2024, la 16e élection présidentielle et vice-présidentielle et la 11e élection législative de Taïwan se sont tenues simultanément. Le résultat : le DPP a remporté la présidence (Lai Ching-te et Hsiao Bi-khim, 40 %) mais a **perdu sa majorité absolue au Parlement**. La répartition des sièges au Parlement :
 
 - Kuomintang : **52 sièges** (premier parti)
-- PDP : 51 sièges
-- Parti populaire de Taïwan : 8 sièges
+- DPP : 51 sièges
+- Parti populaire de Taïwan (TPP) : 8 sièges
 - Indépendants : 2 sièges
 
-Avec un siège d'avance, le KMT devient le premier parti au Yuan législatif et peut, selon la tradition constitutionnelle, proposer le président du parlement.
+Le Kuomintang, avec un siège d'avance, est devenu le premier parti du Parlement et pouvait, selon la convention constitutionnelle, proposer un candidat à la présidence du Parlement.
 
-Fin 2023, Chu Li-luan (président du KMT) annonce que Han Kuo-yu sera la première tête de liste des candidats proportionnels du KMT. [^9] La logique : sa discrétion après la révocation prouve qu'il respecte les institutions démocratiques ; sa capacité à mobiliser les électeurs reste un atout pour le KMT ; en tant que futur président du parlement, son expérience des joutes oratoires, son aisance médiatique et sa capacité à négocier entre tendances diverses en font le profil idéal.
+Eric Chu (président du Kuomintang) a annoncé fin 2023 que Han Kuo-yu serait le premier candidat de la liste nationale du Kuomintang pour les législatives de 2024.[^9] La raison invoquée : la discrétion de Han Kuo-yu après sa destitution de la mairie de Kaohsiung prouvait qu'il respectait le système démocratique ; sa capacité de mobilisation électorale restait un atout pour le Kuomintang ; en tant que candidat à la présentation du Parlement, il avait l'expérience des débats, le charisme médiatique et les qualités pour la négociation trans-factionnelle.
 
-Être en tête de liste proportionnelle, c'est être assuré d'être élu. Le 13 janvier 2024, au soir du dépouillement, le KMT obtient assez de voix pour que Han Kuo-yu retrouve son siège au Yuan législatif.
+Être en tête de la liste nationale équivalait à une « élection garantie ». Le 13 janvier 2024, après le dépouillement, les sièges de la liste nationale du Kuomintang ont été attribués selon le pourcentage des voix, et Han Kuo-yu est revenu au Parlement.
 
-Le 1er février, premier jour de session, les groupes bleu et blanc s'allient pour proposer Han Kuo-yu à la présidence du parlement. Résultat : Han Kuo-yu **54 voix** (52 KMT + 2 PPT), Yu Shyi-kun candidat du PDP 51 voix. Han Kuo-yu est élu président du Yuan législatif.
+Le 1er février, premier jour de la session, les partis bleu et blanc ont conjointement soutenu Han Kuo-yu pour la présidence du Parlement. Résultat du vote : Han Kuo-yu **54 voix** (52 bleues + 2 blanches), contre 51 pour You Xikun, candidat du DPP. Han Kuo-yu a été élu président du Parlement.
 
-De la révocation à la présidence du parlement : **3 ans et 8 mois**.
+De la destitution à la présidence du Parlement, il aura fallu **3 ans et 8 mois**.
 
-## Pour finir : les deux vies d'un homme politique
+## Épilogue : les deux vies d'un homme politique
 
-L'histoire de Han Kuo-yu recèle une dimension rarement examinée : **il est le premier personnage de l'histoire démocratique de Taïwan à avoir traversé à la fois la révocation et la résurrection politique**.
+L'histoire de Han Kuo-yu a un aspect rarement examiné en détail : **il est la première figure politique de l'histoire démocratique de Taïwan à avoir connu à la fois la destitution et la résurrection.**
 
-Du 6 juin 2020, date de sa révocation, au 1er février 2024, jour de son installation dans le fauteuil de président du Yuan législatif, ce parcours est sans précédent dans les quarante ans de démocratie taïwanaise. Chen Shui-bian, après ses mises en examen, n'a jamais connu de renaissance ; Lien Chan, après avoir quitté la présidence du parti, est resté en retrait ; James Soong, malgré ses multiples rebondissements, n'a jamais retrouvé le cœur du pouvoir central. Han Kuo-yu est **le seul à avoir subi une révocation au plus haut niveau constitutionnel, puis à avoir rejoint la plus haute fonction du parlement**.
+Du 6 juin 2020, date de sa destitution, au 1er février 2024, jour où il a pris ses fonctions de président du Parlement, ce parcours n'a aucun précédent dans les quarante années de démocratisation de Taïwan. Chen Shui-bian n'a pas ressuscité après ses poursuites judiciaires, Lien Chan s'est retiré dans l'ombre après avoir perdu la présidence du parti, James Soong a connu des hauts et des bas en tant que président du Parti populaire de Taïwan sans revenir au cœur du pouvoir central. Han Kuo-yu est **la seule personne à avoir subi une destitution au niveau constitutionnel, puis à avoir occupé la plus haute fonction parlementaire au niveau constitutionnel.**
 
-Ce qui importe ici, ce n'est pas l'individu. C'est la question des **effets réels de la révocation comme institution**.
+La signification de cet épisode ne réside pas en lui-même. Elle réside dans **l'effet réel du mécanisme de destitution**.
 
-Dans sa conception, la révocation est la sanction ultime du peuple envers un élu défaillant. Mais l'exemple de Han Kuo-yu révèle qu'elle n'entraîne en réalité que « la perte d'un poste précis », pas « la fin d'une vie politique ». Les électeurs l'ont révoqué comme maire de Kaohsiung — ils ne pouvaient pas le révoquer en tant que législateur, en tant que dirigeant de parti, ni dans aucune autre fonction. Il pouvait attendre — et dès qu'une nouvelle opportunité s'est présentée, il est revenu.
+En théorie, la destitution est le châtiment ultime du peuple envers un fonctionnaire défaillant. Mais dans le cas de Han Kuo-yu, la destitution n'a en réalité signifié que « la perte d'un poste spécifique », pas « la fin de la vie politique ». Les électeurs l'ont destitué de son poste de maire de Kaohsiung, mais ne pouvaient pas le destituer de ses fonctions de législateur, de président ou de tout autre poste. Il pouvait attendre — il suffisait qu'une nouvelle opportunité se présente pour qu'il revienne.
 
-C'est là une caractéristique intéressante du système constitutionnel taïwanais : **un poste précis peut être révoqué, mais un acteur politique précis ne peut pas être banni à vie**. Cette caractéristique a sa logique propre (éviter les persécutions politiques, préserver la liberté de choix du peuple), mais elle a aussi un prix (les acteurs politiques échoués peuvent toujours revenir).
+C'est une caractéristique intéressante du système constitutionnel taïwanais : **un poste individuel peut être retiré par destitution, mais un individu politique n'est jamais définitivement exclu**. Cette caractéristique a sa logique (éviter la persécution politique, préserver la liberté de choix du peuple), mais elle a aussi son prix (les politiciens défaillants peuvent toujours revenir).
 
-Le retour de Han Kuo-yu en février 2024 a mis ce prix en pleine lumière. Lorsque l'homme chassé du bureau du maire de Kaohsiung par 930 000 électeurs est revenu quatre ans plus tard prêter serment en tant que plus haute autorité du parlement national — que signifient alors ces 930 000 voix des habitants de Kaohsiung ?
+Le retour de Han Kuo-yu en février 2024 a mis ce prix au grand jour. Quand celui que 930 000 électeurs avaient chassé de la mairie de Kaohsiung à coups de pied entre, quatre ans plus tard, dans l'enceinte du Yuan législatif pour prêter serment en tant que plus haut responsable du Parlement national — que signifiaient ces 930 000 voix des citoyens de Kaohsiung ?
 
-Une interprétation : la démocratie ne garde pas rancune. La révocation est une décision sur le moment, pas un verdict pour l'éternité.
+Une interprétation est que le système démocratique ne garde pas rancune. La destitution est une décision du moment, pas un jugement éternel.
 
-Une autre interprétation : la révocation est structurellement limitée. Elle garantit le droit de « renvoyer un maire », mais pas le droit de « ne plus jamais revoir cette personne ». La démocratie est une procédure, non un sentiment.
+Une autre interprétation est que la destitution est par nature limitée. Elle garantit le droit de « changer de maire », mais ne garantit pas le droit de « ne plus jamais revoir cette personne ». Le système démocratique est une procédure, pas une émotion.
 
-La vérité se situe peut-être entre les deux. Et Han Kuo-yu lui-même est probablement le bénéficiaire le plus silencieux de cette faille dans le système.
+La vérité se situe probablement entre les deux. Et Han Kuo-yu lui-même est peut-être le bénéficiaire le plus silencieux de cette lacune de la procédure.
 
 ---
 
 **Pour aller plus loin** :
 
-- 2026 : la rencontre Cheng-Xi — la semaine où la rencontre inter-détroit et les négociations budgétaires au Yuan législatif coïncident, sous la présidence de Han Kuo-yu
-- Cheng Li-wun — les deux figures les plus importantes du KMT en 2025-2026 : l'une à la tête du parti, l'autre à la présidence du parlement, incarnant deux écosystèmes distincts au sein du parti
-- Hsiao Bi-khim — lecture en miroir : Hsiao a mis six ans à remporter un mandat législatif à Hualien ; Han a été révoqué après 528 jours. Les courbes du temps en démocratie sont multiples
-- Le système électoral et l'environnement politique de Taïwan — pourquoi le système des candidats proportionnels permet à des personnalités « révoquées » comme Han Kuo-yu de revenir ? La réponse est dans les règles électorales elles-mêmes
-- Ko Wen-je — autre figure passée de maire outsider à candidat à la présidentielle, de candidat à la présidentielle au cœur d'une tempête ; les deux hommes partagent une structure similaire de « montée fulgurante et chute brutale »
+- [La rencontre Zheng-Xi de 2026 : dix minutes pour une rencontre entre dirigeants nationalistes et communistes après dix ans](/society/2026鄭習會與國共十年再會) — La négociation budgétaire du Parlement en avril 2026, présidée par Han Kuo-yu ; la rencontre Zheng-Xi et le projet de loi spécial sur le budget du Parlement ont eu lieu la même semaine
+- [Cheng Li-wen](/people/鄭麗文) — Deux figures les plus importantes du Kuomintang en 2025-2026, l'une présidente du parti, l'autre président du Parlement, représentant des écosystèmes différents au sein du parti
+- [Hsiao Bi-khim](/people/蕭美琴) — Lecture en regard : il a fallu six ans à Hsiao Bi-khim pour remporter une élection législative à Hualien, tandis que Han Kuo-yu a été destitué après 528 jours à Kaohsiung. Les courbes du temps en démocratie sont multiples
+- [L'environnement politique et le système électoral de Taïwan](/society/台灣政治環境與選舉制度) — Pourquoi le système de législateurs nationaux permet-il à des politiciens « destitués » comme Han Kuo-yu de revenir ? La réponse se trouve dans les règles électorales elles-mêmes
+- [Ko Wen-je](/people/柯文哲) — Un autre parcours allant de l'outsider au maire, du maire au candidat présidentiel, du candidat présidentiel à l'œil de la tempête ; la structure « montée et chute brutale » des deux hommes est similaire
+- [Lu Shiow-yen](/people/盧秀燕) — L'autre pôle de la vague Han de 2018, maire de Taichung élue la même année que Han Kuo-yu, ayant fait basculer un bastion vert vers le bleu
+- [Hsu Chiao-hsin](/people/徐巧芯) — Principale promotrice de la version 80 milliards de la controverse sur les achats militaires de 2026, figure clé présente lors des négociations du président du Parlement Han Kuo-yu
+- [Chi Lin-lian](/people/季麟連) — Vice-président du Kuomintang qui a menacé lors d'un comité central du 29 avril 2026 d'« exclure pour trahison envers le parti », une déclaration visant en réalité Han Kuo-yu
 
 ## Références
 
-[^1]: [韓國瑜成史上首名被罷免市長 同意票破 93 萬 - 中央社](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — Dépêche de la CNA du 6 juin 2020 après le dépouillement, enregistrant les résultats définitifs du vote de révocation : 939 090 pour, 25 051 contre, taux de participation d'environ 42 %, et positionnement historique de Han Kuo-yu comme premier maire révoqué dans l'histoire constitutionnelle.
+[^1]: [Han Kuo-yu devient le premier maire destitué de l'histoire, les voix pour dépassent 930 000 — CNA](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — Reportage en temps réel de CNA après le dépouillement du 6 juin 2020, enregistrant les résultats finaux de la destitution du maire de Kaohsiung Han Kuo-yu : 939 090 voix pour, 25 051 voix contre, taux de participation d'environ 42 %, ainsi que la désignation historique de Han Kuo-yu comme premier maire de municipalité spéciale destitué de l'histoire constitutionnelle.
 
-[^2]: [【罷韓紀錄】台灣史上第一位地方首長遭罷 - 報導者](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — Reportage approfondi du _Reporter_ sur la révocation de Han Kuo-yu en 2020 : mandat record de 528 jours, vitesse de collecte des signatures et répartition du taux de participation. Archive historique de premier plan sur la révocation dans le système démocratique taïwanais.
+[^2 : [Record de la destitution de Han : le premier responsable local destitué de l'histoire de Taïwan — The Reporter](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — Reportage approfondi de The Reporter sur la destitution de Han en 2020, documentant le mandat de 528 jours de Han Kuo-yu, le plus court de l'histoire pour un maire de municipalité spéciale, la vitesse de parrainage de la pétition de destitution et la répartition du taux de participation, constituant un dossier historique de première main sur la destitution dans le système démocratique taïwanais.
 
-[^3]: [韓國瑜 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Article Wikipédia sur Han Kuo-yu, incluant les résultats complets de l'élection présidentielle du 11 janvier 2020 : Tsai Ing-wen / Lai Ching-te 8,17 millions de voix, Han Kuo-yu / Chang San-cheng 5,52 millions, James Soong / Sandra Yu 1,05 million — et l'écart de défaite de 2,65 millions de voix.
+[^3]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — L'article Wikipédia rassemble les résultats complets de l'élection présidentielle du 11 janvier 2020 : Tsai Ing-wen et Lai Ching-te 8,17 millions de voix, Han Kuo-yu et Chang San-cheng 5,52 millions de voix, James Soong et Yu Hsiang 1,05 million de voix, ainsi que l'écart de défaite de 2,65 millions de voix pour Han Kuo-yu.
 
-[^4]: [韓國瑜 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Article Wikipédia sur Han Kuo-yu, mentionnant sa naissance le 17 juin 1957 à Banqiao (Taipei), ses origines de mainlandais de la deuxième génération de Shanqiu (Henan), et son parcours éducatif : Académie militaire terrestre → licence d'anglais à l'université Soochow → master à l'université nationale Chengchi.
+[^4]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — L'article Wikipédia sur Han Kuo-yu, documentant sa naissance le 17 juin 1957 à Banciao, Taipei, son origine de deuxième génération de *waishengren* du Henan, Shangqiu, ainsi que son parcours éducatif : filière spéciale de l'Académie militaire de l'armée de terre → département d'anglais de l'université Soochow → Institut d'études sur l'Asie de l'Est de l'université nationale de Chengchi.
 
-[^5]: [高雄發大財 - 維基百科](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Article Wikipédia consacré au slogan « Kaohsiung va s'enrichir », rassemblant l'ensemble des slogans phares de la campagne de Han Kuo-yu pour la mairie de Kaohsiung en 2018 (« une bouteille d'eau minérale, un bol de viande braisée », « les jeunes exilés vers le nord », « les marchandises sortent, les gens entrent »), et leur rôle dans la construction du phénomène de la « vague Han ».
+[^5]: [« Kaohsiung, devenons riches ! » — Wikipédia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Article Wikipédia dédié à « Kaohsiung, devenons riches ! », compilant de manière exhaustive l'ensemble des slogans centraux de la campagne de Han Kuo-yu pour l'élection municipale de Kaohsiung en 2018 (« une bouteille d'eau minérale, un bol de *lu rou fan* », « les jeunes qui ont migré vers le nord », « les marchandises sortent, les gens entrent »), ainsi que la structure linguistique par laquelle ces slogans ont formé le phénomène de la « vague Han ».
 
-[^6]: [反論述、反菁英、接地氣，「韓流」是怎麼捲起的？ - 報導者](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Analyse approfondie du _Reporter_ après les élections de 2018 : la « vague Han » qualifiée de phénomène anti-discours, anti-élite et ancré dans le quotidien ; explication du rôle central des Kaohsiungais de 40-49 ans dans la base électorale de Han Kuo-yu.
+[^6]: [Anti-discours, anti-élitiste, proche du peuple : comment la « vague Han » s'est-elle levée ? — The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — Analyse approfondie de The Reporter après les élections locales de 2018, positionnant la « vague Han » comme un phénomène électoral anti-discours, anti-élitiste et proche du peuple, et expliquant pourquoi la tranche des 40-49 ans de la population de Kaohsiung est devenue la base de soutien la plus solide de Han Kuo-yu.
 
-[^7]: [「最討厭外縣市的人問你發財了沒」韓國瑜怎麼被高雄人罷掉的？- 天下雜誌](https://www.cw.com.tw/article/5100601) — Article du _Commonwealth Magazine_ analysant comment l'administration de Han Kuo-yu s'est retrouvée à l'arrêt après son engagement dans la course présidentielle, et les ressorts de la victoire facile de Chen Chi-mai lors de la partielle d'août 2020.
+[^7 : [« Ce que je déteste le plus, c'est qu'un habitant d'une autre ville me demande si je suis devenu riche » : comment Han Kuo-yu a-t-il été destitué par les habitants de Kaohsiung ? — CommonWealth Magazine](https://www.cw.com.tw/article/5100601) — Article spécial de CommonWealth Magazine analysant comment la gestion municipale de Kaohsiung est tombée dans la paralysie après que Han Kuo-yu s'est lancé dans la campagne présidentielle, ainsi que la source de la dynamique politique ayant permis à Chen Chi-mai de remporter facilement l'élection partielle d'août 2020.
 
-[^8]: [韓國瑜罷免案 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Article Wikipédia sur la révocation de Han Kuo-yu : procédure légale complète, vitesse de collecte des signatures (objectif atteint en deux mois au lieu des quatre estimés), taux de participation de 42 % et détail des résultats par district administratif.
+[^8]: [Affaire de destitution de Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Wikipédia documente intégralement la procédure juridique de l'affaire de destitution de Han, la vitesse de parrainage (initialement estimée à quatre mois, réduite à deux mois), le taux de participation de 42 % et les détails du dépouillement par district.
 
-[^9]: [韓國瑜 - 維基百科](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Article Wikipédia sur Han Kuo-yu : décision de Chu Li-luan en novembre 2023 de le placer en tête de la liste proportionnelle du KMT pour les élections de 2024, et élection comme président du 11e Yuan législatif le 1er février 2024 avec 54 voix.
+[^9]: [Han Kuo-yu — Wikipédia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipédia documente la décision d'Eric Chu en novembre 2023 de placer Han Kuo-yu en tête de la liste nationale du Kuomintang pour les législatives de 2024, ainsi que le processus de son élection comme président de la 11e législature du Parlement le 1er février 2024 avec 54 voix.

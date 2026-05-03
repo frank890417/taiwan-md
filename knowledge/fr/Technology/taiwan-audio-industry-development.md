@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Technology/台灣音響產業發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:012b113f84d2d021'
+sourceBodyHash: 'sha256:1090edb0d694b0dc'
 translatedAt: '2026-04-14T12:33:27+08:00'
 ---
 

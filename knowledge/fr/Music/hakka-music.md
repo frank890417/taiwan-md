@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Music/台灣客家音樂.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:214584e7c5f88b5f'
+sourceBodyHash: 'sha256:7b58dee044509512'
 translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 

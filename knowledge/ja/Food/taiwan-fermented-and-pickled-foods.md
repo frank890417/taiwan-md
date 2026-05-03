@@ -13,6 +13,7 @@ featured: false
 translatedFrom: Food/台灣發酵食品與醃製文化.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:83aadc055a63682c
+sourceBodyHash: 'sha256:c6a05009c0ee406c'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: Food
 ---

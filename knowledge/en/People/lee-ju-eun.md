@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/李珠珢.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:1a5ec966d15fc75f'
+sourceBodyHash: 'sha256:286ea06e2dfa5442'
 translatedAt: '2026-05-01T20:54:09+08:00'
 ---
 

@@ -14,6 +14,7 @@ date: 2026-03-17
 translatedFrom: 'Lifestyle/台灣教育制度.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
+sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-04-14T12:25:09+08:00'
 description: 'Taiwán tardó 30 años en intentar romper el sistema del examen único, pero el nuevo currículo de 2022 hizo que las inscripciones en clases de reexamen se duplicaran. Un experimento de isla sobre cómo equilibrar la presión académica con la equidad educativa: desde las 100.000 personas que repetían en la calle Nanyang en 1981, hasta el renacimiento de las academias en 2022.'
 ---

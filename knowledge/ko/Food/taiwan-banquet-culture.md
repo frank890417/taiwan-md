@@ -24,6 +24,7 @@ imageAlt: '대만 반줘 현장'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
+sourceBodyHash: 'sha256:cfc9322860941967'
 translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 

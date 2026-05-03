@@ -12,6 +12,7 @@ translatedFrom: 'Society/台灣同婚與性別平權.md'
 lastVerified: 2026-03-22
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:369f015f40df17bd'
+sourceBodyHash: 'sha256:87466d8232d3f86e'
 translatedAt: '2026-04-14T05:40:02+08:00'
 ---
 

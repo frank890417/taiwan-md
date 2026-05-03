@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/新創生態系.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:8818217b96aa8dda'
+sourceBodyHash: 'sha256:ae328957faee62bc'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: 'Taiwan Startup Ecosystem Overview'
 description: "The development of Taiwan's startup ecosystem — from early challenges to today's accelerators, venture capital environment, and the pursuit of unicorns"

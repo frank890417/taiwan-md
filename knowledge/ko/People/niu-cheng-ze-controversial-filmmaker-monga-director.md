@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/鈕承澤.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c412539523fe8a6a'
+sourceBodyHash: 'sha256:542c1db901d15440'
 translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 

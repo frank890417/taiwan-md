@@ -11,6 +11,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Food/客家飲食文化.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:ede7b8639406d534'
+sourceBodyHash: 'sha256:1aefe16226579707'
 translatedAt: '2026-05-01T14:11:02+08:00'
 subcategory: '族群飲食'
 category: Food

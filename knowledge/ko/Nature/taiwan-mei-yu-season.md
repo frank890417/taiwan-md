@@ -9,7 +9,9 @@ featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: 'e8ef8b3e'
+sourceCommitSha: '14c7b362'
+sourceBodyHash: 'sha256:31c92fd7633ce35e'
+sourceContentHash: 'sha256:08c48a6ddad4519e'
 ---
 
 매년 5월 중순이 되면, 첫 번째 정체 전선이 화난(華南)에서 동남 방향으로 미끄러져 내려와 타이완 전역을 뒤덮을 때, 기상 앵커는 타이완인들이 어릴 때부터 귀에 못이 박히도록 들어온 말을 한다: "매우철이 왔습니다." 계절이 바뀌는 낭만적인 선언처럼 들린다. 하지만 아열대에 위치해 연간 강우량의 70퍼센트가 5월부터 10월 사이에 집중되는 이 섬에게[^1], 이 전선은 사실 생사의 도박이다. 너무 많이 오면 사람이 죽고, 너무 적게 오면 제한급수를 해야 한다. 그 사이의 극도로 좁은 틈이 바로 2,300만 명의 일상이다.

@@ -1,7 +1,8 @@
 ---
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '751831b2'
+sourceCommitSha: 'a3d4e1d2'
 sourceContentHash: 'sha256:1f3418795ae93daa'
+sourceBodyHash: 'sha256:8d670fc3433148ca'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '外省人（がいしょうじん）：連れ去られた青春から、足元の大地を愛するようになるまで'
 description: '1949年、百万人以上の傷と郷愁を抱えた人々が海を渡って台湾に来た。彼らは威権政府から「政治犯」として疑われた高リスク集団であり、強制連行によって故郷を奪われた「戦争難民」でもあった。この記事は、外省族群（がいしょうぞくぐん）が四度の心理的外傷の中でいかに「亡命者」から「定着者」へと魂の移住を成し遂げてきたかを明かす。'

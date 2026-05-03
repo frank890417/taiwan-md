@@ -17,6 +17,7 @@ lastHumanReview: false
 translatedFrom: People/林強.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:048e7f1bf03af1e2
+sourceBodyHash: 'sha256:465011cd07dcc480'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: People
 ---

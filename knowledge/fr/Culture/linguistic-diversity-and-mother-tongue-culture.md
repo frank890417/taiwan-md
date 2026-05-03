@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/語言多樣性與母語文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bf65aaceeac493b6'
+sourceBodyHash: 'sha256:2a6787c2204335a8'
 translatedAt: '2026-04-14T19:13:14+08:00'
 ---
 

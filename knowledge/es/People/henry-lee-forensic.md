@@ -19,6 +19,7 @@ lastVerified: 2026-03-29
 translatedFrom: 'People/李昌鈺.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:11cb25407f74a496'
+sourceBodyHash: 'sha256:6f5a343122533934'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

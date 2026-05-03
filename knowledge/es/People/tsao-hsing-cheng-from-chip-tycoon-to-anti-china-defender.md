@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'People/曹興誠.md'
 sourceCommitSha: '03431927'
 sourceContentHash: 'sha256:5ef420e2cdc902b5'
+sourceBodyHash: 'sha256:ae002bb900693bc1'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

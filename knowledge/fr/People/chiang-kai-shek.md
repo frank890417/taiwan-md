@@ -12,6 +12,7 @@ lastVerified: 2026-03-31
 translatedFrom: "People/蔣中正.md"
 sourceCommitSha: "0851f334"
 sourceContentHash: "sha256:cc927a774bcfd71c"
+sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: "2026-04-14T19:17:00+08:00"
 ---
 

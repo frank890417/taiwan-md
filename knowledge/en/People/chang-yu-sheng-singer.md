@@ -20,6 +20,7 @@ researchReport: 'reports/research/2026-04/張雨生.md'
 translatedFrom: 'People/張雨生.md'
 sourceCommitSha: '4d3d206a'
 sourceContentHash: 'sha256:f4eb416f9486c9fa'
+sourceBodyHash: 'sha256:fa4f2d152a7b850d'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

@@ -21,6 +21,7 @@ featured: true
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
 sourceCommitSha: 'ecb173b1'
 sourceContentHash: 'sha256:39c821713935f8cf'
+sourceBodyHash: 'sha256:75e9dea7607dd460'
 translatedAt: '2026-05-02T01:17:16+08:00'
 ---
 

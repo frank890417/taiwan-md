@@ -15,6 +15,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/許倬雲.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:77e8dd6633b6a3b4'
+sourceBodyHash: 'sha256:4b05f06a8d450f72'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

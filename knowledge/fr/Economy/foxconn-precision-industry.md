@@ -1,148 +1,186 @@
 ---
-title: "Foxconn : l'empire discret de l'électronique mondiale"
-description: "Le plus grand sous-traitant électronique au monde, champion invisible derrière l'iPhone"
-date: 2026-03-20
-tags:
-  [
-    Économie,
-    Entreprise,
-    Fabrication électronique,
-    Sous-traitance,
-    Foxconn,
-    Hon Hai,
-  ]
-subcategory: "Portraits d'entreprises"
-category: 'Economy'
-author: 'Taiwan.md Translation Team'
-readingTime: 8
+title: 'Entreprises taïwanaises : Foxconn — 8 000 milliards de chiffre d''affaires et la guerre anti-corruption interne sur le même bilan'
+description: 'Le 30 avril 2026 au matin, le magazine Time inscrivait Foxconn parmi les 100 entreprises les plus influentes au monde ; le même jour en fin d''après-midi, des enquêteurs munis de mandats de perquisition entraient dans l''usine Foxconn de Tucheng. De 1974, lorsque la mère de Terry Gou emprunta 100 000 dollars taïwanais lors d''une tontine, à 2025, année où le cloud et les réseaux dépassèrent l''électronique grand public pour atteindre 8 000 milliards de chiffre d''affaires, le plus difficile à gérer chez Foxconn n''est ni la géopolitique, ni le rythme d''expédition des baies de serveurs d''IA — c''est son propre personnel.'
+date: 2026-05-03
+tags: [Économie, Entreprises, Fabrication électronique, Sous-traitance, Foxconn, Gouvernance d''entreprise]
+subcategory: '企業列傳'
+author: Taiwan.md
+readingTime: 10
 featured: false
-lastVerified: 2026-03-20
-translatedFrom: 'Economy/台灣企業：鴻海精密.md'
-sourceCommitSha: 'a05d2431'
-sourceContentHash: 'sha256:b12e548dfcd9dc9c'
-translatedAt: '2026-04-14T19:21:16+08:00'
+lastVerified: 2026-05-03
+lastHumanReview: false
+translatedFrom: Economy/台灣企業：鴻海精密.md
+sourceCommitSha: c2985874
+sourceContentHash: sha256:58c3399a6b0788c3
+sourceBodyHash: sha256:e1fa0334f3912ed8
+translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
 > **En 30 secondes**
 >
-> Foxconn (Hon Hai Precision Industry) est le plus grand fabricant sous-traitant d'électronique au monde, avec une part de marché dépassant les 40 %. L'entreprise assemble des produits pour Apple, Tesla, Sony et bien d'autres. Tout a commencé en 1974, quand Terry Gou a fondé une petite usine de plastique avec l'équivalent de quelques milliers d'euros. Aujourd'hui, le groupe affiche un chiffre d'affaires annuel dépassant 8 000 milliards de dollars taïwanais (TWD) et emploie près d'un million de personnes. Foxconn est l'incarnation du « Made in Taiwan » — et un rouage absolument central dans la chaîne d'approvisionnement mondiale de l'électronique grand public.
+> Foxconn (Hon Hai Precision Industry) a réalisé un chiffre d''affaires consolidé de 8 100 milliards de dollars taïwanais en 2025. Les produits cloud et réseaux ont pour la première fois dépassé l''électronique grand public (40 % contre 38 %), devenant le plus grand segment du groupe. En avril 2026, Foxconn a été inscrite au classement des 100 entreprises les plus influentes du magazine Time, qui l''a qualifiée de « l''une des entreprises les plus importantes dans le domaine de l''intelligence artificielle »[^9][^10]. Mais le même jour du même mois, le parquet de Nouveau Taipei a perquisitionné le siège de Foxconn à Tucheng. Un directeur et un chef de service de la division des opérations internationales ont été libérés sous caution, soupçonnés d''avoir perçu des pots-de-vin de plusieurs dizaines de millions de dollars dans le cadre d''achats liés à l''expansion mondiale du groupe[^1][^2]. Foxconn avait déjà traité des affaires internes de plus grande envergure : de l''affaire des 160 millions de pots-de-vin impliquant Liao Wanchen, ancien vice-président senior, en 2014[^7], à la création en 2015 d''un département de prévention des irrégularités et d''une prime de dénonciation de 50 millions de dollars taïwanais[^6], jusqu''à la première exposition publique de la « chasse aux fantômes » (抓鬼三人組) en 2026[^5]. Dans un empire de sous-traitance présent dans 24 pays et employant environ 900 000 personnes, le plus difficile à gérer reste son propre personnel.
 
-## Pourquoi Foxconn compte
+## Pourquoi cet article maintenant
 
-Vous ne connaissez peut-être pas le nom Foxconn, mais vous utilisez presque certainement ses produits chaque jour. L'iPhone dans votre poche, la PlayStation dans votre salon, peut-être même votre voiture électrique — tout cela sort des lignes de production de cette entreprise taïwanaise. Foxconn soutient discrètement l'industrie mondiale de l'électronique grand public : c'est le champion invisible par excellence.
+L''iPhone entre vos mains, la PlayStation dans votre salon, les baies de serveurs NVIDIA GB200 utilisées pour entraîner GPT dans le cloud — l''assemblage final de ces produits sort très probablement d''une usine Foxconn[^10][^14].
 
-Son importance va bien au-delà de sa taille. Foxconn illustre la transformation de l'industrie manufacturière taïwanaise : d'une production à forte main-d'œuvre vers l'automatisation, en passant par le virage vers le véhicule électrique. Chaque étape de cette mutation influence l'orientation de toute l'industrie de Taïwan.
+De la création de « Honghai Plastics » en 1974 par [Terry Gou](/people/郭台銘) avec les 100 000 dollars taïwanais empruntés par sa mère Chu Yung-chen lors d''une tontine[^13], à 2025, année où Foxconn est devenue la première entreprise cotée de Taïwan à dépasser les 8 000 milliards de chiffre d''affaires annuel[^9], l''histoire de Foxconn a été racontée des centaines de fois. Cet article ne répète pas ce récit.
 
-Quand Apple a besoin de produire des centaines de millions d'iPhones en un temps record, quand Tesla veut multiplier rapidement ses capacités de production, c'est vers Foxconn qu'ils se tournent. Cette « vitesse taïwanaise » et cette « qualité taïwanaise » font de Foxconn un partenaire incontournable pour les grandes marques mondiales.
+Le 30 avril 2026 est la journée la plus contradictoire de l''histoire récente de Foxconn : le matin, c''est le champion mondial de la sous-traitance en IA désigné par le magazine Time ; le soir, c''est l''objet d''une perquisition du parquet de Nouveau Taipei[^1][^10]. Le même bilan, deux écritures simultanées dans des directions opposées. C''est le cœur de cette réécriture.
 
-## L'entreprise en bref
+## Mandat de perquisition la veille d''un jour férié
 
-Hon Hai Precision Industry Co., Ltd. — connue à l'international sous le nom Foxconn — a été fondée en 1974. Son fondateur, Terry Gou, est parti d'un capital de 100 000 TWD issus d'une tontine familiale. Le groupe est aujourd'hui le premier fournisseur mondial de services de fabrication électronique (EMS).
+Le 30 avril 2026, veille du long week-end de la Fête du Travail. Le parquet de Nouveau Taipei, coordonnant le Bureau d''enquête de Taipei, a lancé des perquisitions simultanées au siège-usine de Foxconn à Tucheng, Nouveau Taipei, ainsi qu''aux domiciles des employés impliqués[^1].
 
-Son modèle économique repose sur une intégration verticale totale : de la conception des moules à l'assemblage final, en passant par la production de composants, Foxconn propose un service de fabrication clé en main. Ses clients peuvent ainsi se concentrer sur le design produit et le marketing, pendant que Foxconn gère toute la complexité industrielle.
+Les personnes ramenées pour interrogatoire comprenaient **Zeng Xinmin**, directeur de la division des opérations internationales (libéré sous caution de 2 millions de dollars taïwanais), **Qian Yunru**, chef de service (libéré sous caution de 1 million de dollars taïwanais), ainsi que l''épouse de M. Zeng, Mme Chang (d''abord témoin, puis mise en examen pour blanchiment d''argent, relâchée après interrogatoire)[^2][^3]. Le parquet a ouvert une enquête pour violation de la loi sur les valeurs mobilières (délit spécial de détournement de confiance), faux en écriture commerciale et falsification de documents. Les deux suspects ont été interdits de quitter le territoire[^3].
 
-Le groupe opère dans quatre grands domaines : l'électronique grand public, les infrastructures cloud et réseau, les terminaux informatiques, ainsi que les composants et autres produits. Ces dernières années, Foxconn s'est aussi lancé activement dans les véhicules électriques, les semi-conducteurs et la santé numérique — ambition clairement affichée : passer du statut de « roi de la sous-traitance » à celui d'acteur de la « tech services ».
+L''agence de presse Central News Agency (CNA) a cité les déclarations du parquet : « MM. Zeng et Qian, dans le cadre du plan d''expansion mondiale de Foxconn, sont soupçonnés d''avoir manqué à leurs devoirs en recevant des pots-de-vin de fournisseurs, pour un montant estimé à plusieurs dizaines de millions de dollars taïwanais, et d''avoir commis des actes de fausses inscriptions et de falsification de documents. »[^2] Les méthodes reprochées consistaient à « utiliser leur position pour, dans le cadre des opérations d''achat, recevoir via des comptes à l''étranger plus de 10 millions de dollars taïwanais de pots-de-vin illégaux de fournisseurs, et à falsifier des documents d''achat afin d''aider les fournisseurs à passer les contrôles de réception »[^2].
 
-## Les chiffres clés
+Foxconn a publié le même jour un communiqué sur le Market Observation Post System (MOPS) :
 
-**Taille opérationnelle :**
+> **« Cette affaire concerne des employés spécifiques et n''implique pas l''entreprise elle-même. Nous soulignons que les opérations sont normales et qu''il n''y a pas d''impact majeur sur les finances ou les activités. Nous coopérerons pleinement avec l''enquête judiciaire. »**[^4]
 
-- Chiffre d'affaires 2025 : 8 090 milliards TWD, en hausse de 8,9 % sur un an — première fois que le groupe franchit le cap des 8 000 milliards (TechNews, 5 janvier 2026)
-- Part de marché mondiale dans la sous-traitance électronique : plus de 40 %, loin devant ses concurrents
-- Effectifs : environ 900 000 personnes dans le monde (en période de pic saisonnier)
-- Sites de production : 24 pays répartis sur trois continents — Asie, Amériques, Europe
+La formulation de ce communiqué suit presque le format standard de divulgation des risques de gouvernance pour les entreprises cotées taïwanaises : délimitation du périmètre, minimisation de l''impact, déclaration de coopération. Mais ce qu''il ne mentionne pas, c''est que cette « coopération » comportait une dimension proactive.
 
-**Structure clientèle :**
+## La « chasse aux fantômes » (抓鬼三人組)
 
-- Apple représente plus de 50 % du chiffre d'affaires
-- Autres clients majeurs : Tesla, Sony, Nintendo, Amazon, Google
-- Les produits cloud et réseaux constituent le principal moteur de croissance en 2025
+Le 1er mai 2026, le magazine Mirror Weekly a révélé en exclusivité que les personnes présentes « tout au long de la perquisition, supervisant de près », faisaient partie d''une équipe interne de Foxconn baptisée par les médias la « chasse aux fantômes » (抓鬼三人組)[^5].
 
-**Capacités de production :**
+| Rôle | Nom | Parcours antérieur |
+|---|---|---|
+| Chef de l''audit | Li Shunbao | Ancien vice-chef de l''audit au Bureau de l''audit |
+| Directeur du département de prévention des irrégularités | Li Mingyin | Ancien chef de la section de prévention criminelle du Bureau d''enquête de Taoyuan / Ancien chef du poste mobile de Taoyuan |
+| Manager du département de prévention des irrégularités | Lin Minghong | Ancien chef adjoint du poste d''enquête de Penghu / Ancien chef adjoint du poste mobile de Taoyuan |
 
-- Le campus de Longhua à Shenzhen, surnommé « iPhone City », peut accueillir jusqu'à 350 000 employés en période de pointe
-- L'usine de Zhengzhou peut produire jusqu'à 100 millions d'iPhones par an
-- Plus de 200 usines dans le monde
+Trois personnes, trois parcours issus de la lutte anti-corruption gouvernementale. Ce ne sont pas des « responsables de conformité d''entreprise » de niveau relations publiques — ce sont des personnes qui ont transposé la logique d''enquête du Bureau d''enquête au sein de Foxconn[^5].
 
-**Résultats financiers :**
+Cette structure n''est pas apparue en 2026. Son origine remonte à une affaire survenue 11 ans plus tôt.
 
-- Marge brute : environ 6 à 8 % (caractéristique d'un modèle de sous-traitance axé sur la rotation des actifs plutôt que les marges)
-- Bénéfice net estimé en 2025 : environ 150 milliards TWD
-- Trésorerie et équivalents de trésorerie : plus de 1 500 milliards TWD
+## Les 160 millions de 11 ans plus tôt
 
-## Histoire : d'un atelier de plastique à un empire industriel
+Début 2014, **Liao Wanchen**, ancien vice-président du comité technique SMT et ancien vice-président senior du groupe Foxconn, ainsi que Deng Zhi-xian, ancien secrétaire général, et Hao Xu-guang, prête-nom, ont été poursuivis par le parquet pour extorsion de pots-de-vin d''environ 160 millions de dollars taïwanais auprès de fournisseurs[^7].
 
-**Les débuts (1974–1988)**
-En 1974, Terry Gou, 30 ans, fonde la « Hon Hai Plastics Enterprise Co., Ltd. » à Tucheng, dans la banlieue de Taipei, avec l'argent d'une tontine de sa mère. L'entreprise ne compte alors que dix employés, et fabrique des boutons de réglage pour téléviseurs noir et blanc.
+Le comité SMT contrôlait un pouvoir d''achat et d''approbation d''environ 50 milliards de dollars taïwanais par an pour le groupe Foxconn[^7]. Liao Wanchen et ses co-accusés étaient soupçonnés d''avoir ordonné à leurs subordonnés d''acheter des produits spécifiques pour le bénéfice de certains fournisseurs, et de s''approprier la différence de prix via un mécanisme d''« achat à bas prix, revente à prix élevé ».
 
-Dès cette époque, Gou impose une exigence de qualité absolue. Il demande à ses employés de traiter chaque produit comme une œuvre d'art — zéro défaut toléré. Cette culture du détail deviendra la clé de la confiance que lui accordent plus tard les grands fabricants internationaux.
+Cette affaire a traversé le système judiciaire pendant 7 ans :
 
-**Le virage industriel (1988–2001)**
-En 1981, Hon Hai développe ses premiers connecteurs pour ordinateurs personnels et entre dans l'univers de l'informatique. En 1988, l'entreprise ouvre des usines en Chine continentale — l'une des premières sociétés électroniques taïwanaises à faire ce choix.
+- **2014** : Le parquet de Taipei poursuit Liao Wanchen et 5 autres personnes[^7]
+- **Premier procès** : Le tribunal de Taipei condamne Liao Wanchen à 10 ans et 6 mois de prison pour délit spécial de détournement de confiance selon la loi sur les valeurs mobilières[^7]
+- **Appel** (27 novembre 2018) : La haute cour requalifie en délit commun de détournement de confiance et réduit la peine à 1 an et 4 mois, provoquant une vive réaction de l''opinion publique[^7]
+- **Nouveau procès en appel** (novembre 2020) : La haute cour condamne à 2 ans de prison et confisque 3,16 millions de dollars taïwanais de produits du crime[^7]
+- **24 mai 2021** : La Cour suprême rejette le pourvoi en cassation, la condamnation de Liao Wanchen devient définitive[^7]
 
-Dans les années 1990, Hon Hai profite de l'explosion du marché PC pour assembler des produits pour Compaq, IBM et Hewlett-Packard. Gou formalise alors le modèle « eCMMS » (Electronics Contract Manufacturing and Micro-segmentation), décomposant le processus de fabrication en segments spécialisés pour en maximiser l'efficacité.
+Notons l''écart entre le montant des pots-de-vin reprochés par le parquet (**environ 160 millions de dollars taïwanais**) et le montant des produits du crime reconnu par le tribunal (**3,16 millions de dollars taïwanais**) : plus de 50 fois. Cet écart relève du seuil de preuve du système judiciaire, non de la gravité de l''affaire. Foxconn a par ailleurs engagé une action civile en dommages-intérêts ; en janvier 2021, la haute cour en appel a jugé que Liao Wanchen avait violé l''« accord d''intégrité, de propriété intellectuelle et de loyauté » signé lors de son embauche, et lui a ordonné de verser à Foxconn environ 770 000 dollars US (environ 21,8 millions de dollars taïwanais) d''avantages indus[^8].
 
-**L'ère de la croissance (2001–2010)**
-En 2001, Foxconn intègre la chaîne d'approvisionnement d'Apple et commence à assembler l'iPod. C'est le tournant majeur de son histoire. Portée par le succès de l'iPod, de l'iPhone et de l'iPad, l'entreprise voit son chiffre d'affaires bondir de quelques centaines de milliards à plusieurs milliers de milliards de TWD.
+L''affaire Liao Wanchen est une histoire judiciaire longue, mais pour Foxconn, elle a conduit à une décision.
 
-Dès 2007, lors du lancement de l'iPhone, Foxconn en devient le partenaire exclusif d'assemblage. Le campus de Longhua est transformé en « iPhone City » — des centaines de milliers d'employés y fabriquent, nuit et jour, le produit qui va changer le monde.
+## La décision de 2015
 
-**La consolidation (2010–2020)**
-Avec l'explosion du marché des smartphones, Foxconn atteint un pic de chiffre d'affaires de 4 100 milliards TWD en 2013. Mais c'est aussi la période de sa plus grande crise : une vague de suicides parmi les employés attire l'attention mondiale sur les conditions de travail dans les usines de sous-traitance.
+Mi-2015, en plus du département juridique et du département d''audit, [Terry Gou](/people/郭台銘) a créé un département indépendant : le **département de prévention des irrégularités**[^6].
 
-Foxconn tire alors la leçon, améliore ses conditions de travail, revoit à la hausse les salaires et les avantages sociaux, et accélère l'automatisation de ses lignes de production. Le programme « remplacer les humains par des machines » amorce la transition d'un modèle intensif en main-d'œuvre vers un modèle intensif en technologie.
+Le magazine CommonWealth l''a qualifié de « bureau anti-corruption de Foxconn »[^6]. Terry Gou a simultanément mis en place une prime de dénonciation pouvant atteindre 50 millions de dollars taïwanais par affaire, afin d''encourager les employés à signaler les irrégularités internes[^6.
 
-**La transformation (2020–aujourd'hui)**
-En 2019, Terry Gou passe la main à Young Liu. L'ère post-Gou commence. La nouvelle direction présente la stratégie « 3+3 » : trois marchés émergents (véhicule électrique, santé numérique, robotique) combinés à trois nouvelles technologies (intelligence artificielle, semi-conducteurs, communications de nouvelle génération).
+C''est une conception inhabituelle dans l''histoire de la gouvernance des entreprises chinoises. La plupart des entreprises familiales s''appuient sur un triangle composé de proches du dirigeant, de cabinets d''experts-comptables et du directeur juridique ; Foxconn a externalisé ce dispositif à un groupe d''audit interne composé d''anciens responsables gouvernementaux de la lutte anti-corruption, leur conférant un pouvoir d''enquête indépendant et des primes de dénonciation élevées. La logique est la suivante : quand une entreprise atteint 24 pays et 900 000 employés[^11], les proches du dirigeant ne peuvent pas voir tous les bons de commande, les experts-comptables ne peuvent pas voir les comptes à l''étranger, et le directeur juridique intervient trop tard. Il faut une équipe interne qui maîtrise les outils du Bureau d''enquête.
 
-En 2021, Foxconn lance la marque automobile Foxtron et signe des accords de partenariat avec plusieurs constructeurs. En 2025, la forte croissance des produits cloud et réseaux montre que l'entreprise a trouvé son nouveau moteur de croissance à l'ère de l'IA.
+Le 30 avril 2026, ce dispositif a été mis à l''épreuve. La réponse de Foxconn n''a pas mis cet aspect en avant, mais les reportages de Mirror Weekly et de CTS News ont indiqué que cette affaire avait été détectée par l''audit interne du département de prévention des irrégularités de Foxconn, qui avait ensuite dénoncé spontanément les faits séparément au parquet de Nouveau Taipei et au Bureau d''enquête de Taipei[^15].
 
-## Influence mondiale : façonner l'industrie manufacturière
+## L''autre voie, transfrontalière
 
-**Définir les standards de la sous-traitance**
-Foxconn n'est pas simplement un fabricant sous-traitant — c'est l'inventeur et le normalisateur du modèle même de la sous-traitance. En standardisant et en modularisant des processus de fabrication complexes, il a fait du « Made in Taiwan » un synonyme de fiabilité.
+L''autre dimension du risque de gouvernance de Foxconn est transfrontalière.
 
-Plus de 500 entreprises dans le monde font appel aux services de fabrication de Foxconn, des produits grand public aux équipements industriels. Son influence s'exerce sur la structure concurrentielle de nombreuses industries mondiales.
+Depuis 2024, quatre cadres taïwanais de l''usine Foxconn de Zhengzhou ont été placés en détention par la police chinoise pour des soupçons de « corruption non liée à une fonction publique »[^12]. En avril, la police de Zhengzhou avait également traversé les provinces pour interpeller deux cadres taïwanais à l''usine Foxconn de Shenzhen, sans présenter de documents légaux, en présence uniquement d''un responsable de sécurité de nationalité chinoise[^12].
 
-**L'intégrateur de chaîne d'approvisionnement**
-Foxconn a bâti l'un des réseaux de chaîne d'approvisionnement les plus complexes au monde. Un iPhone contient des composants provenant de centaines de fournisseurs différents répartis sur la planète. Foxconn coordonne l'ensemble — s'assurant que les bons composants arrivent au bon endroit au bon moment.
+Le 11 octobre, le Bureau des affaires taïwanaises du Conseil d''État chinois a confirmé que les quatre personnes étaient soupçonnées de « corruption par un agent non-État » et de « détournement de fonds », et que l''enquête était en cours[^12].
 
-Cette capacité d'orchestration fait de Foxconn le « cerveau de la supply chain ». Quand la pandémie mondiale a perturbé les chaînes d'approvisionnement, la réactivité de Foxconn lui a permis d'ajuster rapidement ses opérations et de maintenir la livraison des produits à ses clients.
+La réponse du Conseil des affaires continentales (MAC) est inhabituelle dans les actualités judiciaires : un vice-président a qualifié publiquement cette affaire de « **l''intrigue est assez étrange** », évoquant la possibilité de « corruption et abus de pouvoir par certains policiers », et a appelé Pékin à clarifier la situation au plus vite[^12]. Foxconn a de son côté déclaré que le comportement des employés n''avait pas causé de pertes à l''entreprise et n''avait pas porté atteinte à ses intérêts[^12].
 
-**L'innovation dans la fabrication**
-Foxconn n'est pas qu'un exécutant industriel : c'est aussi un innovateur technologique. De la précision des outillages à la finition de surface, de l'automatisation des lignes à l'usine intelligente, Foxconn fait progresser la technologie manufacturière.
+Cet article ne s''étend pas sur le récit politique transstraitier. La question qu''il soulève se situe à un autre niveau : lorsque les bases de production d''une entreprise s''étendent sur plusieurs juridictions, systèmes de droit du travail et systèmes de police et de justice, les mêmes faits de « réception d''avantages indus dans le cadre d''une relation de mandat commercial » sont traités comme des affaires de nature complètement différente selon les lieux. L''affaire de Tucheng est instruite par le parvet de Nouveau Taipei selon la loi sur les valeurs mobilières ; l''affaire de Zhengzhou est traitée par la police chinoise selon l''article 163 du Code pénal (« corruption par un agent non-État »). **La même chaîne d''approvisionnement sur la carte, mais des galaxies différentes en droit.**
 
-Son concept d'« usines éteintes » — des usines sans éclairage permanent car entièrement robotisées — représente l'avenir de l'industrie. Dans ces installations, des robots assurent la production, l'IA contrôle la qualité, et les employés humains se contentent de superviser et de maintenir les systèmes.
+## 8 000 milliards et plusieurs dizaines de millions
 
-## Défis et perspectives
+Revenons au contraste évoqué en introduction.
 
-**La pression de la transformation**
-Le marché des smartphones arrivant à maturité, la croissance du métier de sous-traitant traditionnel ralentit. Foxconn doit trouver de nouveaux moteurs. Les secteurs émergents — véhicule électrique, serveurs IA, healthtech — offrent de belles perspectives, mais exigent des compétences techniques et des modèles économiques entièrement différents.
+En 2025, le chiffre d''affaires consolidé du groupe Foxconn s''est élevé à 8 103,1 milliards de dollars taïwanais, en hausse de 18 % par rapport aux 6 860 milliards de 2024[^9][^14]. La part des produits cloud et réseaux a atteint 40 %, **dépassant pour la première fois** celle des produits d''électronique grand public (38 %), devenant le plus grand segment du groupe ; le chiffre d''affaires des serveurs d''IA a augmenté de 170 % en glissement annuel[^9]. Le président Liu Yangwei a déclaré lors de la conférence téléphonique du 30 avril 2026 que les expéditions de baies de serveurs d''IA connaissaient une « croissance exponentielle », que les investissements annuels en R&D du groupe dépassaient les 100 milliards de dollars taïwanais, axés sur le refroidissement haute performance pour l''IA, l''automatisation de la fabrication intelligente et les modules clés pour les véhicules électriques[^9].
 
-**Les risques géopolitiques**
-La guerre commerciale sino-américaine place Foxconn dans une position délicate, contrainte de naviguer entre l'avantage productif de la Chine continentale et les exigences de ses clients américains. La tendance à la « désinisation » pousse Foxconn à accélérer sa diversification géographique, en développant de nouvelles implantations en Inde, au Vietnam et au Mexique.
+Le même jour, le magazine Time a publié son classement des 100 entreprises les plus influentes de 2026, et Foxconn y figurait dans la catégorie « Innovateurs », décrite comme « l''une des entreprises les plus importantes dans le domaine de l''intelligence artificielle » ; elle figurait également dans la première édition du classement TIME100 des leaders industriels[^10]. Liu Yangwei a répondu :
 
-**Une concurrence accrue**
-Des fabricants sous-traitants émergent rapidement en Inde, au Vietnam et sur d'autres marchés en développement, défiant la position de Foxconn avec des coûts plus bas. Parallèlement, les grands donneurs d'ordre cherchent à diversifier leurs fournisseurs pour ne pas dépendre d'un seul acteur.
+> **« Cette distinction valide la vision de Foxconn de continuer à avancer vers l''objectif de devenir une entreprise mondiale de premier plan, avec l''IA comme moteur principal. »**[^10]
 
-**Les exigences de durabilité**
-Les attentes mondiales en matière d'ESG (environnement, social, gouvernance) se durcissent. Foxconn doit investir en continu dans l'efficacité énergétique, la réduction des émissions carbone et l'amélioration des conditions de travail. Ces investissements pèsent sur les coûts à court terme, mais sont incontournables sur le long terme.
+Quelques heures plus tard, les enquêteurs du Bureau d''enquête de Taipei arrivaient à Tucheng.
 
-**Vers l'avenir**
-L'avènement de l'IA ouvre de nouvelles opportunités pour Foxconn. Alors que tous les secteurs intègrent l'intelligence artificielle, la demande en serveurs IA et matériel associé explose. La forte croissance des produits cloud de Foxconn en 2025 montre que l'entreprise a su saisir cette tendance.
+Deux Foxconn : l''un en couverture du magazine Time, l''autre dans un communiqué du MOPS. Le premier est le Foxconn des 8 000 milliards de chiffre d''affaires et de la plaque tournante mondiale de la chaîne d''approvisionnement en IA ; le second est le Foxconn des dizaines de millions de pots-de-vin via des comptes à l''étranger et des documents d''achat falsifiés. Ce ne sont pas deux entreprises — ce sont deux voies simultanément inscrites dans des directions opposées sur le même bilan.
 
-Le véhicule électrique est un autre axe stratégique majeur. L'industrie automobile traverse une transformation comparable à celle qu'a connue l'industrie des téléphones mobiles. Foxconn espère reproduire dans l'automobile le succès qu'il a construit dans l'assemblage de smartphones — et s'imposer comme le leader mondial de la sous-traitance automobile.
+## De 100 000 dollars à 8 000 milliards
 
-Mais l'enjeu le plus profond est ailleurs : Foxconn cherche à passer de « fabricant de services » à « prestataire de services technologiques ». Le Foxconn de demain ne fabriquera pas seulement du matériel — il proposera des solutions complètes intégrant design, logiciel et services.
+En 1974, Terry Gou, alors âgé de 30 ans, fonde la « Honghai Plastics Enterprise Co. » à Tucheng, Taipei, avec les 100 000 dollars taïwanais provenant de la tontine de sa mère Chu Yung-chen (la moitié des 200 000 dollars totaux, l''autre moitié servant au mariage de Terry Gou), associé à des amis pour un capital total de 300 000 dollars taïwanais, avec 10 employés, produisant principalement des boutons de téléviseurs noir et blanc[^13].
 
-L'histoire de Foxconn est, en miniature, celle de l'industrie manufacturière taïwanaise : partir de rien, grandir pas à pas. Elle démontre que Taïwan, malgré l'absence de ressources naturelles, peut s'imposer dans la compétition mondiale grâce à l'innovation technologique, l'exigence de qualité et une capacité d'adaptation remarquable. Dans cette époque de transformations rapides, le chemin que trace Foxconn indique aussi la direction que prendra l'ensemble de l'industrie manufacturière de Taïwan.
+L''année suivante, en période de récession, les 300 000 dollars de capital sont épuisés et les associés d''origine se retirent. Terry Gou emprunte 700 000 dollars taïwanais à son beau-père pour racheter l''intégralité de l''entreprise et la renommer « Honghai Industry »[^13].
+
+De ces 100 000 dollars aux 8 000 milliards de 2025, il y a 51 ans d''histoire industrielle. Connecteurs (1981) → implantation en Chine continentale (1988) → entrée dans la chaîne d''approvisionnement Apple (2001 iPod / 2007 iPhone) → transition vers l''automatisation après les 12 suicides de Shenzhen (2010) → succession de Liu Yangwei (2019) → stratégie 3+3 (véhicules électriques / santé numérique / robots + IA / semi-conducteurs / communications nouvelle génération) → 2025 : le cloud dépasse l''électronique grand public.
+
+Mais l''autre chronologie de cette histoire est celle des risques de gouvernance :
+
+- 2010 — 12 suicides à l''usine de Shenzhen
+- 2013-2014 — Affaire des pots-de-vin collectifs du comité SMT (Liao Wanchen)
+- 2015 — Création du département de prévention des irrégularités + prime de dénonciation de 50 millions
+- 2021 — Condamnation définitive de Liao Wanchen par la Cour suprême
+- 2024 — 4 cadres taïwanais de Zhengzhou placés en détention par la police chinoise
+- 30 avril 2026 — Perquisition pour pots-de-vin de plusieurs dizaines de millions au directeur et au chef de service de l''usine de Tucheng
+
+Onze ans après la création du département de prévention des irrégularités, le mécanisme d''audit interne a détecté une deuxième affaire et a choisi la voie de la « dénonciation externe ». C''est un signal que le système fonctionne, et aussi un signal qu''il reste nécessaire.
+
+## La zone grise
+
+L''histoire de Foxconn a été racontée des centaines de fois par les médias taïwanais : « roi de la sous-traitance », « fleuron de la fabrication taïwanaise », « champion caché derrière l''iPhone ». Tout cela est vrai.
+
+Mais il est également vrai que cet empire de sous-traitance aux 8 000 milliards de chiffre d''affaires compte encore chaque année des employés qui choisissent les comptes à l''étranger et la falsification de documents d''achat ; que chaque prime de dénonciation de 50 millions de dollars taïwanais représente le coût réel de la remise en marche périodique des mécanismes de contrôle interne.
+
+Foxconn a volontairement rendu publique la « chasse aux fantômes », a volontairement dénoncé les faits aux autorités judiciaires, et a volontairement divulgué l''événement de perquisition par un communiqué officiel — ces actions ne sont pas la norme dans l''histoire de la gouvernance des entreprises chinoises. Elles sont le fruit de 11 ans d''apprentissage issus de l''affaire Liao Wanchen.
+
+Que se passera-t-il dans les 11 prochaines années ? Personne ne le sais. Mais le 30 avril 2026 nous apprend ceci : lorsque le chiffre d''affaires d''un empire de sous-traitance approche les 10 000 milliards[^9], qu''il emploie 900 000 personnes dans 24 pays[^11], et que les produits cloud et réseaux sont devenus son plus grand segment, **le plus difficile à gérer reste son propre personnel**.
+
+Le classement du magazine Time continuera d''être mis à jour. Le bénéfice par action (BPA) des conférences téléphoniques continuera de battre des records. Les mandats de perquisition du parvet de Nouveau Taipei continueront d''être envoyés à la prochaine adresse.
 
 ---
 
-## Sources
+## Pour aller plus loin
 
-- Site officiel du Foxconn Technology Group, présentation de l'entreprise (mise à jour mars 2026)
-- TechNews, « 鴻海 2025 全年營收破八兆元 » (5 janvier 2026)
-- Wikipédia : « Hon Hai Precision Industry » (mise à jour février 2026)
-- Rapport financier annuel Foxconn 2025 (estimé, mars 2026)
-- Commercial Times, analyse des bénéfices 2025 (13 janvier 2026)
+- [Terry Gou](/people/郭台銘) — Fondateur de Foxconn, de la tontine de 100 000 dollars de sa mère à l''empire manufacturier mondial
+- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — Autre fleuron taïwanais de portée internationale, mais sur le modèle de la fonderie de semi-conducteurs ; structure de gouvernance radicalement différente de l''empire de sous-traitance Foxconn
+- [Bourse de Taïwan et marchés financiers](/economy/台灣股市與資本市場) — Foxconn, code boursier 2317, et le fonctionnement du mécanisme de divulgation des informations privilégiées
+- [Transformation industrielle de Taïwan](/economy/台灣產業轉型升級) — De la sous-traitance à forte intensité de main-d''œuvre à l''assemblage de serveurs d''IA, Foxconn est le condensé de ce parcours
+- [Commerce extérieur et chaînes d''approvisionnement mondiales de Taïwan](/economy/台灣外貿與全球供應鏈) — Un déploiement mondial de 24 pays et 900 000 personnes, le plus grand laboratoire de gouvernance transfrontalière de l''industrie manufacturière taïwanaise
+
+---
+
+## Références
+
+[^1]: [Liberty Times, 30 avril 2026 — Un directeur soupçonné de pots-de-vin : perquisition au siège Foxconn de Tucheng, 3 personnes interpellées](https://news.ltn.com.tw/news/society/breakingnews/5421541) — Reportage du centre de presse social du Liberty Times sur la chronologie de la perquisition du 30 avril 2026 au siège de Foxconn à Tucheng par le parquet de Nouveau Taipei coordonnant le Bureau d''enquête de Taipei, le nombre de suspects et les qualifications pénales initiales retenues par le parquet.
+
+[^2]: [Central News Agency (CNA), 1er mai 2026 — Un directeur et un chef de service de l''usine Foxconn de Tucheng impliqués dans une affaire de pots-de-vin : libérés sous caution, interdits de quitter le territoire](https://www.cna.com.tw/news/asoc/202605010140.aspx) — Reportage de l''agence de presse centrale, incluant les déclarations du parquet : « manquement aux devoirs dans le cadre du plan d''expansion mondiale en recevant des pots-de-vin de fournisseurs » et la description détaillée des méthodes : « réception de plus de 10 millions de dollars taïwanais de pots-de-vin illégaux via des comptes à l''étranger, et falsification de documents d''achat pour aider les fournisseurs à passer les contrôles de réception ».
+
+[^3]: [United Daily News, 1er mai 2026 — Deux cadres supérieurs de Foxconn impliqués dans une affaire de dizaines de millions de pots-de-vin : le directeur sous caution de 2 millions, le chef de service sous caution de 1 million](https://udn.com/news/story/7321/9475893) — Reportage de la rubrique juridique de l''United Daily News, mentionnant les montants des cautions, l''interdiction de quitter le territoire, et les qualifications pénales retenues par le parquet (délit spécial de détournement de confiance selon la loi sur les valeurs mobilières + faux en écriture commerciale + falsification de documents).
+
+[^4]: [Liberty Times Finance, 30 avril 2026 — L''usine de Tucheng perquisitionnée par le Bureau d''enquête : Foxconn répond officiellement](https://ec.ltn.com.tw/article/breakingnews/5421502) — Reportage de Liberty Times Finance sur le communiqué intégral publié par Foxconn via le Market Observation Post System (MOPS), incluant mot pour mot : « des employés spécifiques sont impliqués », « l''entreprise elle-même n''est pas impliquée », « coopération pleine et entière avec l''enquête judiciaire ».
+
+[^5]: [Mirror Weekly, 1er mai 2026 — Exclusif : expansion des usines mondiales et pots-de-vin de cadres supérieurs — la « chasse aux fantômes » de Foxconn révélée pour la première fois](https://www.mirrormedia.mg/story/20260501inv003) — Reportage exclusif de Mirror Weekly révélant pour la première fois la « chasse aux fantômes » interne de Foxconn, incluant les noms des trois membres (Li Shunbao / Li Mingyin / Lin Minghong), leurs parcours antérieurs dans la lutte anti-corruption gouvernementale, et le fait qu''ils ont supervisé l''intégralité de la perquisition le jour même.
+
+[^6]: [Manager Today — Les pots-de-vin dans les achats peuvent atteindre des centaines de millions ! Comment les endiguer ? Procédure anti-fraude pour les managers](https://www.managertoday.com.tw/columns/view/63927) — Article de la rubrique Manager Today sur le mécanisme anti-fraude de Foxconn : création du département de prévention des irrégularités en 2015 (qualifié de « bureau anti-corruption de Foxconn » par les médias), prime de dénonciation de 50 millions de dollars taïwanais, et conception du système de collaboration avec le Bureau d''enquête pour lutter contre les irrégularités internes, présenté comme un modèle pour la réforme de la gouvernance d''autres entreprises.
+
+[^7]: [Liberty Times, 24 mai 2021 — Un employé corrompu ayant reçu 160 millions de pots-de-vin de fournisseurs : l''ancien vice-président de Foxconn Liao Wanchen condamné à 2 ans, condamnation définitive](https://news.ltn.com.tw/news/society/breakingnews/3544038) — Reportage du centre de presse social du Liberty Times sur la chronologie complète de l''affaire Liao Wanchen, de la condamnation en première instance à 10 ans et 6 mois, en appel à 1 an et 4 mois, en nouveau procès en appel à 2 ans, jusqu''au rejet du pourvoi en cassation par la Cour suprême le 24 mai 2021, incluant l''écart entre les 160 millions reprochés par le parvet et les 3,16 millions reconnus par le tribunal.
+
+[^8]: [Central News Agency (CNA), 19 janvier 2021 — L''ancien bras droit de Foxconn Liao Wanchen en rupture de contrat : la haute cour le condamne à verser plus de 20 millions de dollars taïwanais](https://www.cna.com.tw/news/firstnews/202101190087.aspx) — Reportage de l''agence de presse centrale sur l''action civile en dommages-intérêts contre Liao Wanchen : la haute cour en appel a condamné Liao à verser 773 744 dollars US (environ 21,8 millions de dollars taïwanais) à Foxconn, constatant qu''il avait violé la clause de l''« accord d''intégrité, de propriété intellectuelle et de loyauté » interdisant de « convenir ou exiger tout avantage indu de la part de parties contractantes ».
+
+[^9]: [CM Media, 2026 — Foxconn : chiffre d''affaires 2025 de 8 100 milliards, un record pour une entreprise cotée taïwanaise](https://www.cmmedia.com.tw/home/articles/59971) — Reportage de CM Media sur les chiffres détaillés de Foxconn en 2025 : chiffre d''affaires consolidé de 8 103,1 milliards de dollars taïwanais (+18 % en glissement annuel), BPA de 13,61 dollars taïwanais, double record, part des produits cloud et réseaux à 40 % dépassant pour la première fois les 38 % de l''électronique grand public, croissance de 170 % du chiffre d''affaires des serveurs d''IA.
+
+[^10]: [Central News Agency (CNA), 1er mai 2026 — Foxconn inscrite au classement des 100 entreprises les plus influentes du magazine Time, entreprise majeure de l''IA](https://www.cna.com.tw/news/afe/202605010220.aspx) — Reportage de l''agence de presse centrale sur la publication par le magazine Time le 30 avril 2026 du classement des 100 entreprises les plus influentes de 2026, Foxconn figurant dans la catégorie « Innovateurs », décrite comme « l''une des entreprises les plus importantes dans le domaine de l''intelligence artificielle », et également inscrite dans la première édition du classement TIME100 des leaders industriels.
+
+[^11]: [Site officiel du groupe Foxconn — À propos de Foxconn](https://www.foxconn.com/zh-tw/about/group-profile) — Présentation officielle du groupe Foxconn Technology, mentionnant les données de base : 24 pays / 205 sites et bureaux / environ 900 000 employés (pic saisonnier), 28e rang du Fortune Global 500.
+
+[^12]: [Central News Agency (CNA), 9 octobre 2024 — 4 cadres taïwanais de Foxconn placés en détention : le MAC n''exclut pas des abus de pouvoir policiers](https://www.cna.com.tw/news/acn/202410090437.aspx) — Reportage de l''agence de presse centrale sur la détention de 4 cadres taïwanais de l''usine Foxconn de Zhengzhou par la police chinoise, la confirmation par le Bureau des affaires taïwanaises le 11 octobre des soupçons de « corruption par un agent non-État » et de « détournement de fonds », et la réponse publique du MAC qualifiant l''affaire de « l''intrigue est assez étrange » et n''excluant pas « la corruption et les abus de pouvoir de certains policiers ».
+
+[^13]: [Wikipédia : Foxconn (Hon Hai Precision Industry)](https://zh.wikipedia.org/zh-tw/%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86) — Article Wikipédia sur Foxconn, détaillant la création de Honghai Plastics Enterprise Co. le 20 février 1974 par Terry Gou avec la moitié des 200 000 dollars taïwanais provenant de la tontine de sa mère Chu Yung-chen (100 000 dollars), associé à des amis pour un capital total de 300 000 dollars taïwanais, et le rachat en 1975 avec un emprunt de 700 000 dollars taïwanais auprès de son beau-père pour la transformer en Honghai Industry.
+
+[^14]: [Mirror Weekly, janvier 2025 — La réforme silencieuse de l''empire Foxconn aux 6 000 milliards : Liu Yangwei révèle les clés de l''explosion des performances 2025](https://www.mirrormedia.mg/story/20250115fin002) — Reportage approfondi de Mirror Weekly sur le processus de transformation structurelle de Foxconn de 6 860 milliards (2024) à 8 100 milliards (2025), incluant le moment charnière du croisement entre cloud/réseaux à 40 % et électronique grand public à 38 %.
+
+[^15]: [CTS News, 1er mai 2026 — Un employé impliqué dans une fraude perquisitionné : la « chasse aux fantômes » de Foxconn supervise l''intégralité des opérations sur place](https://news.cts.com.tw/cts/money/202605/202605013026432.html) — Reportage du centre financier de CTS News sur les détails du processus interne : le département de prévention des irrégularités de Foxconn a détecté des anomalies lors d''un audit interne, puis a dénoncé spontanément les faits séparément au parquet de Nouveau Taipei et au Bureau d''enquête de Taipei.

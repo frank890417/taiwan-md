@@ -17,6 +17,7 @@ lastHumanReview: true
 translatedFrom: 'People/蕭敬騰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4623d2d2492d155b'
+sourceBodyHash: 'sha256:be34f4048a4b8d45'
 translatedAt: '2026-05-01T17:09:56+08:00'
 category: People
 ---

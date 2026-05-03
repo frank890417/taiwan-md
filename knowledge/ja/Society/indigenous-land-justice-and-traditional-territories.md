@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Society/台灣原住民族土地正義與傳統領域.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:57fad95b8a079b38'
+sourceBodyHash: 'sha256:4f732aefea1fd604'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

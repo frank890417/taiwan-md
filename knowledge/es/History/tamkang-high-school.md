@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'History/淡江中學.md'
 sourceCommitSha: '01bfab3c'
 sourceContentHash: 'sha256:6515803df49cd854'
+sourceBodyHash: 'sha256:68be41dd8378b384'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

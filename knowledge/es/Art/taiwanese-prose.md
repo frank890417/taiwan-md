@@ -20,6 +20,7 @@ featured: true
 translatedFrom: Art/台灣散文.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:d7ef47535e3ba2f2
+sourceBodyHash: 'sha256:9cb5aac080fec83b'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

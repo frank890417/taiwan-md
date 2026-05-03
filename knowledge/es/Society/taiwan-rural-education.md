@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: Society/台灣偏鄉教育.md
 sourceCommitSha: c5415878
 sourceContentHash: sha256:e3196cb1e8b69382
+sourceBodyHash: 'sha256:f62fa73eb61a1077'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

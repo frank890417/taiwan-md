@@ -19,6 +19,7 @@ lastHumanReview: true
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:692543a60baf3299'
+sourceBodyHash: 'sha256:bb5064886298647d'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

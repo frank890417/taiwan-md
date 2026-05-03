@@ -22,6 +22,7 @@ researchReport: reports/research/2026-04/heibai-kitchen-taiwan.md
 translatedFrom: 'Culture/黑白大廚在台灣.md'
 sourceCommitSha: 'daf5ee02'
 sourceContentHash: 'sha256:31883f60285a57e2'
+sourceBodyHash: 'sha256:bf7679056e96cbe1'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

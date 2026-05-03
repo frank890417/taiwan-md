@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: Nature/台灣山岳與登山文化.md
 sourceCommitSha: 12b22368
 sourceContentHash: sha256:a4d9919368dc9dcf
+sourceBodyHash: 'sha256:431f7ebbea017095'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/伊斯蘭教在台灣.md'
 sourceCommitSha: 'dc87c2a6'
 sourceContentHash: 'sha256:9ab59f274019f37e'
+sourceBodyHash: 'sha256:dbceb7d9f3f49bcd'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

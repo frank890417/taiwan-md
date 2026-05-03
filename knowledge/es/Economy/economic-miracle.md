@@ -1,37 +1,31 @@
 ---
-title: 'El milagro económico'
-description: 'En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, menos que el de Haití. Cuarenta años después, Taiwán se convirtió en el líder de los «cuatro tigres asiáticos», con un PIB per cápita superior a los 10.000 dólares. Pero, ¿cuál fue el precio de este «milagro»? Cuando alabamos la época en que «los dólares llegaban hasta los tobillos» en Taiwán, pocos hablan de las obreras que trabajaban 12 horas diarias en las zonas de procesamiento para la exportación, ni de los dueños de pequeñas fábricas que apostaron los ahorros de toda su vida.'
+title: "El milagro económico"
+description: "En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, más bajo que el de Haití. Cuarenta años después, Taiwán se convirtió en el líder de los «cuatro tigres asiáticos», con un PIB per cápita superior a los 10.000 dólares. Pero, ¿cuál fue el precio de este «milagro»? Cuando alabamos la época en que «los dólares llegaban hasta los tobillos» en Taiwán, pocos hablan de las obreras que trabajaban 12 horas diarias en las zonas de procesamiento para la exportación, ni de los dueños de pequeñas fábricas que apostaron los ahorros de toda su vida."
 date: 2026-03-23
 author: Taiwan.md
 category: Economy
 subcategory: '經濟發展'
-tags:
-  [
-    Economy,
-    Economía taiwanesa,
-    Pequeñas y medianas empresas,
-    Parques científicos,
-    Semiconductores,
-  ]
+tags: ["Economy", "Economía taiwanesa", "Pequeñas y medianas empresas", "Parques científicos", "Semiconductores"]
 readingTime: 10
 lastVerified: 2026-03-23
 lastHumanReview: true
 featured: false
 translatedFrom: Economy/經濟奇蹟.md
-sourceCommitSha: 800114ea
-sourceContentHash: sha256:7d77f7eb1285e4d3
-translatedAt: 2026-05-01T20:54:23+08:00
+sourceCommitSha: 14c7b362
+sourceContentHash: sha256:18f44148c9c813dd
+sourceBodyHash: sha256:418b6e8bc018ebdd
+translatedAt: 2026-05-03T23:14:07+08:00
 ---
 
 # El milagro económico
 
-> **Panorama en 30 segundos:** En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, ocupando el puesto 20 desde el fondo a nivel mundial. El salario mensual de un trabajador taiwanés no alcanzaba para comprar un par de zapatillas fabricadas en Estados Unidos. Cuarenta años después, el PIB per cápita de Taiwán superó los 10.000 dólares, y el país fue reconocido junto con Corea del Sur, Hong Kong y Singapur como uno de los «cuatro tigres asiáticos». Pero, ¿qué había detrás del milagro? Las obreras de la Zona de Procesamiento para la Exportación de Kaohsiung que trabajaban 12 horas al día; los dueños de pequeñas y medianas empresas que apostaron los ahorros de toda su familia en una fábrica; los empresarios taiwaneses que recorrieron el mundo con solo una maleta. El milagro económico de Taiwán no fue obra del gobierno: fue una historia de sangre y sudor escrita por veinte millones de personas.
+> **Resumen en 30 segundos:** En 1952, el PIB per cápita de Taiwán era de apenas 196 dólares, ocupando el puesto 20 desde el fondo a nivel mundial. En aquella época, el salario mensual de un trabajador taiwanés no alcanzaba para comprar un par de zapatillas fabricadas en Estados Unidos. Cuarenta años después, el PIB per cápita de Taiwán superó los 10.000 dólares, y el país fue reconocido junto con Corea del Sur, Hong Kong y Singapur como uno de los «cuatro tigres asiáticos». Pero, ¿qué había detrás del milagro? Las obreras de la Zona de Procesamiento para la Exportación de Kaohsiung que trabajaban 12 horas al día; los dueños de pequeñas y medianas empresas que apostaron los ahorros de toda su familia en una fábrica; los empresarios taiwaneses que recorrieron el mundo con solo una maleta. El milagro económico de Taiwán no fue obra del gobierno, sino una historia de sangre y sudor escrita por veinte millones de personas.
 
 El 3 de diciembre de 1966, la Zona de Procesamiento para la Exportación de Kaohsiung entró oficialmente en funcionamiento. Fue la primera «zona de procesamiento para la exportación» del mundo, un experimento económico que solo existía en la imaginación de los funcionarios taiweses.
 
-Esa mañana, solo una fábrica comenzó a producir dentro de la zona: la planta electrónica National (Panasonic). Treinta obreras se sentaron en la línea de producción para ensamblar piezas de radio. Su salario mensual era de 600 dólares taiwaneses, unos 20 dólares estadounidenses, apenas suficiente para comprar un saco de 10 kilos de arroz.
+Esa mañana, solo una fábrica dentro de la zona comenzó a producir: la planta electrónica National (Panasonic). Treinta obreras se sentaron en la línea de producción para ensamblar piezas de radios. Su salario mensual era de 600 dólares taiwaneses, aproximadamente 20 dólares estadounidenses, apenas suficiente para comprar un saco de 10 kilos de arroz.
 
-Nadie sabía que este experimento tendría éxito. Los consultores estadounidenses consideraban que «la calidad de los trabajadores taiwaneses era demasiado baja»; los empresarios japoneses pensaban que «la infraestructura de Taiwán era un desastre»; ni siquiera los funcionarios del gobierno tenían confianza, simplemente lo intentaron con la mentalidad de «probar lo imposible».
+Nadie sabía que este experimento tendría éxito. Los consultores estadounidenses consideraban que «la calidad de los trabajadores taiwaneses era demasiado baja»; los empresarios japoneses pensaban que «la infraestructura de Taiwán era un desastre»; ni siquiera los funcionarios del gobierno tenían confianza, simplemente lo intentaron con la mentalidad de «probar con un caballo muerto como si estuviera vivo».
 
 Veinte años después, la Zona de Procesamiento para la Exportación de Kaohsiung se convirtió en un símbolo del despegue económico de Taiwán. Una tarde de 1985, en la misma línea de producción, las obreras ensamblaban las calculadoras electrónicas más recientes. Su salario mensual había subido a 15.000 dólares taiwaneses, suficiente para comprar una motocicleta.
 
@@ -39,7 +33,7 @@ Este es el retrato del milagro económico de Taiwán: **no es un cuento de enriq
 
 ## De la pobreza a la clase media: la historia real detrás de los números
 
-### La década de 1950: un punto de partida de miseria
+### Década de 1950: un punto de partida de miseria
 
 ¿Qué tan pobre era Taiwán en 1952? Basta con ver algunos datos:
 
@@ -48,30 +42,30 @@ Este es el retrato del milagro económico de Taiwán: **no es un cuento de enriq
 - **Esperanza de vida: 53 años** (30 años menos que en la actualidad)
 - **Tasa de alfabetización: 42%** (menos de la mitad de la población sabía leer y escribir)
 
-¿Qué comían los taiwaneses de aquella época? **Tallos de batata con gachas diluidas.** Los tallos de batata son batatas cortadas en tiras y secadas para su conservación; el arroz era demasiado caro y no se podía permitir. En una familia común, un «buen día» significaba comer tallos de batata mezclados con arroz blanco, en una proporción aproximada de 7:3.
+¿Qué comían los taiwaneses de aquella época? **Tallos de batata con gachas claras.** Los tallos de batata son batatas cortadas en tiras y secadas para su conservación; el arroz era demasiado caro y no se podía permitir. Un «buen día» para una familia normal era comer tallos de batata mezclados con arroz blanco, en una proporción aproximada de 7:3.
 
 > **📝 Nota del curador**
-> En aquella época existía un dicho popular: «Cría gallinas y patos, pero mejor cría una hija que sepa leer». Significaba que criar gallinas y patos no era tan valioso como tener una hija educada. ¿Por qué? Porque una hija que supiera leer podía casarse con un funcionario público, y la familia tendría un ingreso estable. Este dicho refleja el nivel de pobreza de la época: incluso criar gallinas y patos era un lujo.
+> En aquella época había un dicho popular: «Cría gallinas y patos, pero mejor cría una hija que sepa leer». Significaba que criar gallinas y patos no era tan valioso como tener una hija que supiera leer. ¿Por qué? Porque una hija educada podía casarse con un funcionario público, y la familia tendría un ingreso estable. Este dicho refleja el nivel de pobreza de la época: incluso criar gallinas y patos era un lujo.
 
-### La década de 1960: el milagro de las zonas de procesamiento para la exportación
+### Década de 1960: el milagro de las zonas de procesamiento para la exportación
 
 En 1966, Taiwán tomó una decisión que cambiaría su destino: establecer la Zona de Procesamiento para la Exportación de Kaohsiung, dedicada exclusivamente a recibir pedidos del extranjero para la producción por encargo.
 
-El contexto de esta decisión era muy realista: **Taiwán no tenía nada excepto mano de obra barata.** No tenía petróleo, ni mineral de hierro, ni tecnología, ni marcas propias. Su única ventaja era que los trabajadores estaban dispuestos a largas jornadas laborales y sus salarios eran muy bajos.
+El contexto de esta decisión era muy realista: **Taiwán no tenía nada excepto mano de obra barata.** No tenía petróleo, ni mineral de hierro, ni tecnología, ni marcas. Su única ventaja era que los trabajadores estaban dispuestos a largas jornadas laborales y sus salarios eran muy bajos.
 
 Las primeras empresas en instalarse incluyeron:
 
 - **National Electronics** (empresa japonesa, ensamblaje de radios)
-- **Philips Electronics** (empresa holandesa, producción de piezas para televisores)
+- **Philips Electronics** (empresa holandesa, producción de piezas de televisores)
 - **General Instrument** (empresa estadounidense, fabricación de semiconductores)
 
 Estas fábricas tenían una característica común: **empleaban a un gran número de mujeres jóvenes.** ¿Por qué? Porque el ensamblaje electrónico requería trabajo manual delicado, y la mentalidad social de la época consideraba que «las mujeres tienen manos hábiles, son pacientes y no causan problemas».
 
-En 1970, las obreras representaban el 85% del total de empleados en la Zona de Procesamiento para la Exportación de Kaohsiung. En su mayoría eran mujeres solteras de entre 18 y 25 años, que habían venido del campo a Kaohsiung, vivían en dormitorios de la fábrica y trabajaban entre 10 y 12 horas al día.
+En 1970, las obreras representaban el 85% del total de empleados en la Zona de Procesamiento para la Exportación de Kaohsiung. La mayoría eran mujeres solteras de entre 18 y 25 años, que venían del campo a Kaohsiung, vivían en dormitorios de la fábrica y trabajaban de 10 a 12 horas diarias.
 
 **Estas obreras reescribieron la historia económica de Taiwán.**
 
-### La década de 1970: la apuesta de las Diez Grandes Obras
+### Década de 1970: la apuesta de las Diez Grandes Obras
 
 En 1973, la crisis del petróleo estalló y la economía taiwanesa se vio gravemente afectada. Las exportaciones se contrajeron, la inflación se disparó y el desempleo aumentó. Muchos pensaron que «Taiwán estaba acabado».
 
@@ -85,18 +79,18 @@ Incluían:
 2. **Aeropuerto Internacional de Taoyuan**: la puerta de entrada de Taiwán al mundo
 3. **Puerto de Taichung**: alivió la presión de carga del puerto de Keelung
 4. **Centrales nucleares 1 y 2**: resolvieron el problema de la escasez de electricidad
-5. **China Steel**: suministro de materia prima de acero
-6. **China Shipbuilding**: construcción de buques mercantes de gran tamaño
-7. **Industria petroquímica**: desarrollo de las industrias del plástico y la fibra
+5. **China Steel**: suministró materia prima de acero
+6. **China Shipbuilding**: construyó buques mercantes de gran tamaño
+7. **Industria petroquímica**: desarrolló las industrias del plástico y la fibra
 
 Estas obras fueron criticadas en su momento como «grandilocuentes» y «deuda para las generaciones futuras». Pero la historia demostró que, sin esta infraestructura, el despegue económico de la década de 1980 habría sido imposible.
 
 > **⚠️ Punto de vista controvertido**
 > Aunque las Diez Grandes Obras fueron un éxito, su precio también fue alto. Para financiarlas, el gobierno emitió una gran cantidad de deuda pública, generando una pesada carga. Además, el desarrollo de la industria pesada causó contaminación ambiental, cuyas consecuencias aún se están gestionando hoy. El milagro económico no fue gratuito.
 
-### La década de 1980: la era dorada de las pequeñas y medianas empresas
+### Década de 1980: la era dorada de las pequeñas y medianas empresas
 
-La década de 1980 fue el período más brillante de la economía taiwanesa. Pero los verdaderos protagonistas no fueron las grandes obras gubernamentales, sino las pequeñas y medianas empresas repartidas por todo Taiwán.
+La década de 1980 fue la más gloriosa de la economía taiwanesa. Pero los verdaderos protagonistas no fueron las grandes obras gubernamentales, sino las pequeñas y medianas empresas repartidas por todo Taiwán.
 
 Algunos datos:
 
@@ -104,17 +98,17 @@ Algunos datos:
 - **1990**: Taiwán tenía 900.000 pequeñas y medianas empresas
 - **Empleo en pymes**: representaban más del 70% de la población ocupada en todo Taiwán
 
-¿A qué se dedicaban estas pequeñas y medianas empresas? **Fabricación OEM (Original Equipment Manufacturer).**
+¿Qué hacían estas pequeñas y medianas empresas? **Fabricación OEM.**
 
-OEM significa fabricante de equipo original, es decir, fabricación por encargo. En términos simples: empresas extranjeras proporcionaban los planos y las especificaciones, las fábricas taiwanesas se encargaban de la producción y los productos se vendían con la marca extranjera.
+OEM significa Original Equipment Manufacturer, es decir, fabricación por encargo. En términos simples: empresas extranjeras proporcionaban los planos y las especificaciones, las fábricas taiwanesas se encargaban de la producción y los productos se vendían con la marca extranjera.
 
 **Las zapatillas de Nike, la ropa de Gap, los ordenadores de Dell** — en la década de 1980, la mayoría de los productos de estas marcas estadounidenses eran «Hecho en Taiwán».
 
 ### La leyenda de los empresarios taiwaneses con una maleta
 
-El éxito de las pequeñas y medianas empresas taiwanesas se debió al «espíritu de lucha» de sus dueños.
+El éxito de las pequeñas y medianas empresas taiwanesas se debió al espíritu incansable de sus dueños.
 
-La imagen más clásica es la de «una maleta para recorrer el mundo»: el dueño llevaba muestras, volaba a ferias comerciales por todo el mundo y cerraba pedidos in situ. **No importaba si no dominaba el idioma, bastaba con usar la calculadora para señalar los números; no importaban las diferencias culturales, bastaba con que el precio fuera competitivo.**
+La imagen más clásica es la de «una maleta para recorrer el mundo»: el dueño llevaba muestras y volaba a ferias comerciales por todo el mundo para recibir pedidos en persona. **No importaba si no dominaba el idioma, bastaba con usar la calculadora para señalar los números; no importaban las diferencias culturales, bastaba con que el precio fuera bajo.**
 
 Este modelo de negocio tenía varias características:
 
@@ -123,9 +117,9 @@ Este modelo de negocio tenía varias características:
 3. **Control de costos**: reducían todo gasto innecesario
 4. **Velocidad ante todo**: respondían rápidamente a las necesidades del cliente
 
-La historia del **Grupo Pou Chen** es muy representativa. Su fundador, Tsai Chi-jui, inició el negocio en 1969 con 200.000 dólares taiwaneses, dedicándose exclusivamente a la fabricación por encargo de zapatillas deportivas. Él mismo viajó a Estados Unidos, visitando tienda por tienda, hasta que finalmente consiguió el pedido de fabricación para Nike.
+La historia del **Grupo Pou Chen** es muy representativa. Su fundador, Tsai Chi-jui, inició su negocio en 1969 con 200.000 dólares taiwaneses, dedicándose exclusivamente a la fabricación por encargo de zapatillas deportivas. Él mismo viajó a Estados Unidos, visitando tienda por tienda, hasta que finalmente consiguió el pedido de Nike.
 
-Cuarenta años después, Pou Chen se convirtió en la fábrica de zapatillas más grande del mundo, con una producción anual de 300 millones de pares: casi una de cada tres zapatillas de Nike es fabricada por Pou Chen.
+Cuarenta años después, Pou Chen se convirtió en la fábrica de zapatillas más grande del mundo, con una producción anual de 300 millones de pares, y casi una de cada tres zapatillas Nike era fabricada por Pou Chen.
 
 ## El costo humano detrás del milagro
 
@@ -140,30 +134,30 @@ En la década de 1970, la Zona de Procesamiento para la Exportación de Kaohsiun
 - Jornadas de 10 a 12 horas diarias, con un día de descanso semanal
 - Salario mensual de 2.000 a 3.000 dólares taiwaneses (aproximadamente 60-90 dólares estadounidenses)
 - Dormitorios de 8 personas, con toque de queda a las 11 de la noche
-- Prohibido tener relaciones sentimentales, prohibido casarse
+- Prohibido enamorarse, prohibido casarse
 
 **Problemas de salud:**
 
-- Trabajo prolongado con la cabeza agachada, problemas graves de columna cervical y vista
-- Contacto con solventes químicos, alergias cutáneas y enfermedades respiratorias frecuentes
-- Alta presión psicológica, tasas elevadas de depresión y suicidio
+- Trabajar largas horas con la cabeza agachada causaba graves problemas cervicales y oculares
+- El contacto con solventes químicos provocaba alergias cutáneas y enfermedades respiratorias con frecuencia
+- La alta presión psicológica generaba depresión y tasas de suicidio elevadas
 
-Pero estas obreras no tenían opción. Para una chica del campo, entrar en una zona de procesamiento para la exportación ya era la mejor salida posible. En su pueblo, solo podían dedicarse a la agricultura o al trabajo doméstico a destajo, con ingresos aún menores y un futuro aún más sombrío.
+Pero estas obreras no tenían opción. Para una chica del campo, entrar en una zona de procesamiento para la exportación ya era la mejor salida. En su pueblo, solo podían dedicarse a la agricultura o al trabajo doméstico a destajo, con ingresos aún menores y un futuro más sombrío.
 
 > **💡 ¿Sabías que...?**
-> En la década de 1970 existía una canción popular llamada _«El hogar en el crepúsculo»_ (黃昏的故鄉), cuya letra decía «las personas que viven para trabajar, son pasajeros temporales en tierras lejanas», describiendo a los jóvenes que dejaban su hogar para trabajar en las fábricas. Esta canción fue un éxito rotundo porque expresaba el sentimiento de toda una generación de taiwaneses.
+> En la década de 1970 había una canción popular llamada «Hometown at Dusk» (《黃昏的故鄉》), cuya letra decía «Las personas que viven para trabajar, son transeúntes temporales en tierras lejanas», describiendo a los jóvenes que dejaban su hogar para trabajar en las fábricas. Esta canción fue un éxito rotundo porque expresaba el sentimiento de toda una generación de taiwaneses.
 
 ### El costo de la contaminación ambiental
 
 Otro precio del desarrollo económico fue la contaminación ambiental.
 
-**Durante las décadas de 1970 y 1980**, Taiwán mantuvo estándares ambientales muy laxos para acelerar la industrialización. El resultado fue:
+**Entre las décadas de 1970 y 1980**, Taiwán mantuvo estándares ambientales muy laxos para acelerar la industrialización. El resultado fue:
 
-- **Contaminación fluvial**: el río Love en Kaohsiung se volvió negro; el río Green en Taichung se volvió rojo (por los tintes residuales)
-- **Contaminación atmosférica**: las refinerías y plantas petroquímicas de Kaohsiung emitían grandes cantidades de gases de escape, y la tasa de cáncer de pulmón entre los residentes locales era elevada
-- **Contaminación del suelo**: los solventes orgánicos utilizados en las plantas electrónicas se filtraron en las aguas subterráneas, causando contaminación a largo plazo
+- **Contaminación fluvial**: el río Love en Kaohsiung se volvió negro, y el río Green en Taichung se volvió rojo (por los tintes residuales)
+- **Contaminación del aire**: las refinerías y plantas petroquímicas de Kaohsiung emitían grandes cantidades de gases de escape, y la tasa de cáncer de pulmón entre los residentes locales era elevada
+- **Contaminación del suelo**: los solventes orgánicos utilizados en las plantas electrónicas se filtraron en el agua subterránea, causando contaminación a largo plazo
 
-**Las consecuencias aún se sufren hoy.** El río Love tardó 30 años en recuperar su claridad, y la contaminación del suelo en algunas zonas industriales aún no ha sido completamente remediada.
+**Las consecuencias aún se sufrieron hasta hoy.** El río Love tardó 30 años en recuperar su claridad, y la contaminación del suelo en algunas zonas industriales aún no ha sido completamente eliminada.
 
 ### El sacrificio de los derechos laborales
 
@@ -175,23 +169,23 @@ El caso más extremo fue el **accidente por explosión en la fábrica Asian Chem
 
 ## De la imitación a la innovación: el auge de la industria tecnológica
 
-A finales de la década de 1980, la economía taiwanesa enfrentó presiones de transformación. El aumento de los salarios y la apreciación del dólar taiwanés eliminaron la ventaja competitiva del modelo tradicional de fabricación por encargo. Taiwán debía encontrar un nuevo camino de desarrollo.
+A finales de la década de 1980, la economía taiwanesa enfrentó presiones de transición. El aumento de los salarios y la apreciación del dólar taiwanés eliminaron la ventaja competitiva del modelo tradicional de fabricación por encargo. Taiwán debía encontrar un nuevo camino de desarrollo.
 
 ### El Parque Científico de Hsinchu: la visión del gobierno
 
-En 1980, se fundó el Parque Científico Industrial de Hsinchu. Fue un intento del gobierno de imitar el Silicon Valley estadounidense, con la esperanza de desarrollar una industria de alta tecnología.
+En 1980, se estableció el Parque Científico Industrial de Hsinchu. Fue un intento del gobierno de imitar el Silicon Valley estadounidense, con la esperanza de desarrollar la industria de alta tecnología.
 
-**En su fase inicial, solo 20 empresas se instalaron en el parque**, en su mayoría centros de I+D de multinacionales o pequeñas empresas taiwanesas. Muchos consideraron que era un «pozo de dinero gubernamental», dada la enorme inversión y el lento retorno.
+**En su fase inicial, solo 20 empresas se instalaron en el parque**, en su mayoría centros de I+D de multinacionales o pequeñas empresas taiwanesas. Muchos consideraron que era un «pozo de dinero gubernamental», debido a la enorme inversión y el lento retorno.
 
-Pero los funcionarios del gobierno Kuo Ting-yee y Sun Yun-suan tenían una visión diferente. Veían el futuro: **la era de la información estaba por llegar, y Taiwán debía posicionarse con anticipación.**
+Pero los funcionarios gubernamentales Kuo Ting-yee y Sun Yun-suan tenían una visión diferente. Veían el futuro: **la era de la información estaba por llegar, y Taiwán debía prepararse con antelación.**
 
-El avance clave vino del **Programa de Retorno de Académicos en el Extranjero**. El gobierno ofreció condiciones generosas para atraer a ingenieros taiwaneses que trabajaban en Estados Unidos a regresar y emprender.
+El avance clave vino del **Programa de Retorno de Académicos en el Extranjero**. El gobierno ofreció condiciones favorables para atraer a ingenieros taiwaneses que trabajaban en Estados Unidos a regresar y emprender.
 
 ### El nacimiento de TSMC: una decisión que cambió el mundo
 
-En 1987, el presidente del Instituto de Investigación Tecnológica Industrial (ITRI), Morris Chang, tomó una decisión que cambió la historia: fundar TSMC (Taiwan Semiconductor Manufacturing Company), dedicada exclusivamente a la fabricación por encargo de chips para otras empresas.
+En 1987, el presidente del Instituto de Investigación Tecnológica Industrial (ITRI), Morris Chang, tomó una decisión que cambió la historia: fundar TSMC (Taiwan Semiconductor Manufacturing Company), dedicada exclusivamente a fabricar chips por encargo para otras empresas.
 
-En aquel momento, no existía ninguna empresa de «fabricación pura de obleas» en el mundo. Intel diseñaba y fabricaba sus propios chips; IBM hacía lo mismo. La idea de Morris Chang fue considerada una locura: «¿Quién necesitaría una empresa que solo fabrica y no diseña?»
+En aquella época, no existía ninguna empresa de «fabricación pura de obleas» en el mundo. Intel diseñaba y fabricaba sus propios chips; IBM hacía lo mismo. La idea de Morris Chang fue considerada una locura: «¿Quién necesitaría una empresa que solo fabrica y no diseña?»
 
 Pero Morris Chang vio la tendencia: en el futuro, cada vez más empresas querrían concentrarse en el diseño de chips sin gastar miles de millones de dólares en construir fábricas. **TSMC sería la «fábrica de chips» para esas empresas.**
 
@@ -201,15 +195,15 @@ Treinta y siete años después, TSMC se convirtió en la empresa de semiconducto
 
 El éxito de TSMC impulsó el desarrollo de toda la cadena de valor:
 
-- **Diseño de circuitos integrados**: empresas como MediaTek, VIA y Realtek diseñan chips
-- **Empaquetado y pruebas**: ASE y SPIL se encargan del procesamiento posterior de los chips
-- **Equipos y materiales**: empresas como Hermes-Epitek y Hermes proporcionan equipos de fabricación
+- **Diseño de circuitos integrados**: empresas como MediaTek, VIA y Realtek diseñaban chips
+- **Empaquetado y pruebas**: ASE y SPIL se encargaban del procesamiento posterior de los chips
+- **Equipos y materiales**: empresas como Hermes-Epitek y Hermes proporcionaban equipos de fabricación
 
-**El Parque Científico de Hsinchu se convirtió en el clúster más completo de la industria de semiconductores del mundo.** Desde el diseño de chips hasta la fabricación y el empaquetado, todos los eslabones se encuentran en un radio de 50 kilómetros, formando un ecosistema industrial imposible de replicar.
+**El Parque Científico de Hsinchu se convirtió en el clúster más completo de la industria de semiconductores del mundo.** Desde el diseño de chips hasta la fabricación y el empaquetado, todos los eslabones se encontraban en un radio de 50 kilómetros, formando un ecosistema industrial imposible de replicar.
 
 ## La verdad detrás de los números del milagro
 
-Al revisar las cifras del milagro económico de Taiwán, los resultados son realmente asombrosos:
+Al revisar las cifras del milagro económico de Taiwán, son realmente asombrosas:
 
 ### Tasa de crecimiento económico
 
@@ -232,27 +226,27 @@ Al revisar las cifras del milagro económico de Taiwán, los resultados son real
 
 - **En 1952, la agricultura representaba el 32% del PIB**
 - **En 1990, la agricultura representaba el 4% del PIB**
-- **La industria pasó del 18% al 46%, y los servicios del 50% al 50%**
+- **La industria creció del 18% al 46%, y los servicios del 50% al 50%**
 
 La historia detrás de estos números es: **veinte millones de taiwaneses transformaron con éxito una sociedad agrícola en una sociedad industrial en 40 años.**
 
 ## El costo y la reflexión del milagro
 
-El milagro económico de Taiwán fue un éxito, pero también tuvo un precio.
+El milagro económico de Taiwán fue exitoso, pero también tuvo un precio.
 
 ### Factores del éxito
 
 1. **Políticas gubernamentales visionarias**: reforma agraria, zonas de procesamiento para la exportación, las Diez Grandes Obras, parques científicos
 2. **El espíritu trabajador de la población**: largas jornadas laborales, alta tasa de ahorro, inversión en educación
-3. **Oportunidades del entorno internacional**: ayuda estadounidense durante la Guerra Fría, demanda de fabricación por encargo en la primera fase de la globalización
+3. **Oportunidades del entorno internacional**: ayuda estadounidense durante la Guerra Fría, demanda de fabricación por encargo en la primera etapa de la globalización
 4. **Estabilidad social**: aunque el régimen autoritario limitó las libertades, mantuvo la estabilidad política
 
 ### Costos pagados
 
-1. **Contaminación ambiental**: la destrucción de ríos, aire y suelo aún se está remediando
+1. **Contaminación ambiental**: la destrucción de ríos, aire y suelo aún se está reparando
 2. **Derechos laborales**: largas jornadas, salarios bajos, falta de protección
-3. **Desigualdad social**: la riqueza se concentró en manos de los empresarios, los trabajadores recibieron una porción menor
-4. **Pérdida de raíces culturales**: para integrarse en el mercado internacional, se descuidó la cultura local
+3. **Desigualdad social**: la riqueza se concentró en manos de los empresarios, los trabajadores recibieron una parte menor
+4. **Pérdida de raíces culturales**: para integrarse en el mercado internacional, se ignoró la cultura local
 
 ### Lecciones para hoy
 
@@ -263,19 +257,19 @@ La experiencia del milagro económico de Taiwán sigue siendo relevante hoy:
 3. **La innovación es más importante que la imitación**: pasar de la fabricación por encargo a la innovación de marca y tecnología
 4. **El desarrollo sostenible debe considerarse**: el crecimiento económico no puede sacrificar el medio ambiente y la justicia social
 
-> **✦** «Lo más valioso del milagro económico de Taiwán no son las cifras del PIB, sino que demostró algo: con voluntad de esfuerzo, incluso un lugar pequeño puede lograr grandes cosas. Pero el próximo milagro debe ser un milagro más sostenible, más justo y más humano.»
+> **✦** «Lo más valioso del milagro económico de Taiwán no son las cifras del PIB, sino que demostró algo: con voluntad de esfuerzo, un lugar pequeño puede lograr grandes cosas. Pero el próximo milagro debe ser un milagro más sostenible, más justo y más humano.»
 
-## Del milagro a la transformación: los desafíos del futuro
+## Del milagro a la transición: los desafíos del futuro
 
 Taiwán en 2024 ya no necesita un «milagro económico». Con un PIB per cápita superior a los 30.000 dólares, es sin duda un país desarrollado. Pero nuevos desafíos están emergiendo:
 
-### Presión de transformación industrial
+### Presión de la transición industrial
 
 La deslocalización de la manufactura, la baja productividad del sector servicios y el estancamiento del crecimiento salarial: la economía taiwanesa necesita un nuevo motor de crecimiento. Aunque la industria de semiconductores es poderosa, no puede sostener la economía en su conjunto. Taiwán necesita cultivar más empresas «campeones ocultos».
 
-### El desafiante del envejecimiento poblacional
+### El desafío del envejecimiento poblacional
 
-La baja natalidad y el envejecimiento demográfico están generando una escasez de mano de obra en Taiwán. El modelo de desarrollo basado en la «estrategia de masas» debe cambiar. La automatización, la inteligencia artificial y la atracción de talento internacional son temas ineludibles.
+La baja natalidad y el envejecimiento de la población están generando una escasez de mano de obra en Taiwán. El modelo de desarrollo basado en la «estrategia de masas» debe cambiar; la automatización, la inteligencia artificial y la atracción de talento internacional son temas ineludibles.
 
 ### Requisitos de desarrollo sostenible
 
@@ -285,13 +279,17 @@ La historia del milagro económico de Taiwán aún no ha terminado. Las décadas
 
 El autor de esta historia sigue siendo cada taiwanés.
 
+**Lectura complementaria:**
+
+- [Factura: aquel papel de 1951 que convirtió a todo ciudadano en inspector fiscal](/economy/發票) — La factura unificada fue una infraestructura fiscal clave contemporánea al milagro económico; en su primer año, 1951, hizo que los ingresos por impuestos sobre negocios aumentaran un 75%
+
 ## Referencias
 
 - [Dirección General de Presupuesto, Contabilidad y Estadísticas - Estadísticas de ingreso nacional](https://www.dgbas.gov.tw/mp.asp?mp=1)
 - [Ministerio de Asuntos Económicos - Historia del desarrollo económico de Taiwán](https://www.moea.gov.tw/)
 - [Academia Sinica - Investigación sobre el desarrollo económico de Taiwán](https://www.sinica.edu.tw/)
-- [_Detrás del milagro económico de Taiwán_](https://www.books.com.tw/products/0010123456) - por Liu Jin-qing
-- [_De Taiwán agrícola a isla tecnológica_](https://www.books.com.tw/products/0010234567) - por Qu Wan-wen
+- [《Detrás del milagro económico de Taiwán》](https://www.books.com.tw/products/0010123456) - por Liu Jin-qing
+- [《De Taiwán agrícola a isla tecnológica》](https://www.books.com.tw/products/0010234567) - por Qu Wan-wen
 - [Administración de Zonas de Procesamiento para la Exportación - Historia del desarrollo del parque](https://www.epza.gov.tw/)
 - [Parque Científico de Hsinchu - Historia de desarrollo](https://web.sipa.gov.tw/)
 - [Informe anual de TSMC - Historia de la empresa](https://investor.tsmc.com/)

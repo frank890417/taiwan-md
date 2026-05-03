@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: "Society/台灣國防與軍事現代化.md"
 sourceCommitSha: "89c6015e"
 sourceContentHash: "sha256:6f217759afe3da2a"
+sourceBodyHash: 'sha256:f400e3cc75d5d9e1'
 translatedAt: "2026-04-14T12:32:24+08:00"
 ---
 

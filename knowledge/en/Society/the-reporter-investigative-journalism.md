@@ -21,6 +21,7 @@ researchReport: reports/research/2026-04/報導者.md
 translatedFrom: Society/報導者.md
 sourceCommitSha: 'ee4917f3'
 sourceContentHash: 'sha256:49cc6bc592e21101'
+sourceBodyHash: 'sha256:eb5141137b65e66f'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

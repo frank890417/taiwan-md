@@ -12,6 +12,7 @@ lastVerified: 2026-03-24
 translatedFrom: "Art/台灣傳統藝術.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:8199dcc4edeb2fce"
+sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: "2026-04-14T19:13:26+08:00"
 ---
 

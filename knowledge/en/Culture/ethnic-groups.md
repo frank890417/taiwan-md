@@ -2,6 +2,7 @@
 translatedFrom: 'Culture/族群（閩南客家原住民外省新住民）.md'
 sourceCommitSha: '44b55077'
 sourceContentHash: 'sha256:9192f33930425491'
+sourceBodyHash: 'sha256:7675a44fa40054c8'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: 'Ethnic Groups (Minnan, Hakka, Indigenous, Mainlanders, New Immigrants)'
 description: "An apology ceremony, a march of ten thousand, 570,000 new families — Taiwan's ethnic story is far more complicated than 'multicultural harmony' suggests."

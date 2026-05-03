@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Nature/台灣國家公園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ce9f00d5b274081'
+sourceBodyHash: 'sha256:4ed766623132c30e'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: Nature
 ---

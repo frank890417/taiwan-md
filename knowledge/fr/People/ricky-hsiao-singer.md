@@ -19,6 +19,7 @@ lastHumanReview: 2026-04-19
 translatedFrom: People/蕭煌奇.md
 sourceCommitSha: 2d6af4d2
 sourceContentHash: sha256:566f9f83e753fc69
+sourceBodyHash: 'sha256:2a6df4f467257ee5'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

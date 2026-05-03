@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Technology/台灣電動車產業鏈發展.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:b49821a42d715241"
+sourceBodyHash: 'sha256:a73fd571d71999d2'
 translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 

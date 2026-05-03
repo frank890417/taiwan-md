@@ -12,6 +12,7 @@ translatedFrom: 'Economy/產業轉型與經濟發展軌跡.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:bfcbba1c658dedbc'
+sourceBodyHash: 'sha256:c5c8ac186296ceb1'
 translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 

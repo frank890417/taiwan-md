@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Culture/台灣VTuber.md'
 sourceCommitSha: '1a822274'
 sourceContentHash: 'sha256:a734956b42d0e857'
+sourceBodyHash: 'sha256:9db6332ac9055b04'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

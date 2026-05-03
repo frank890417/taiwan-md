@@ -22,6 +22,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Nature/臺灣的鯨豚.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:07527dba7e956bb0'
+sourceBodyHash: 'sha256:e23b2794eedebfe3'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

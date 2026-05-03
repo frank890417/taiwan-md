@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'People/葉國一.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8815002e4ea20721'
+sourceBodyHash: 'sha256:ea97be04d985b44d'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
 ---

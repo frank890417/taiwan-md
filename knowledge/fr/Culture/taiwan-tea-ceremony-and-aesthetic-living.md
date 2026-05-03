@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Culture/台灣茶道與生活美學.md"
 sourceCommitSha: "e564525c"
 sourceContentHash: "sha256:741b3d02ada8cbbb"
+sourceBodyHash: 'sha256:31e39ab99f97ad00'
 translatedAt: "2026-04-14T12:34:01+08:00"
 ---
 

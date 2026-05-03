@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Music/台灣電子音樂與派對文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:fc263f7b3e9c2710'
+sourceBodyHash: 'sha256:2ef2ac66c5c075c5'
 translatedAt: '2026-04-14T10:10:05+08:00'
 ---
 

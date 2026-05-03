@@ -11,6 +11,7 @@ featured: true
 translatedFrom: 'People/李遠哲.md'
 sourceCommitSha: 'bd58e088'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-04-14T19:24:35+08:00'
 ---
 

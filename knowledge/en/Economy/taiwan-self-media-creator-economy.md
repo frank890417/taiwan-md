@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣自媒體創作者經濟.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:96a6ae9b363e959a'
+sourceBodyHash: 'sha256:ccfe4d55665e1140'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "Taiwan's Self-Media Creator Economy: The Fragmented Battleground of 23 Million"
 description: "A market less than 1% the size of America's, yet with nearly twice as many platforms — how do Taiwan's creators survive?"

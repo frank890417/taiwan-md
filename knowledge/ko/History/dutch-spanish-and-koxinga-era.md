@@ -20,6 +20,7 @@ lastVerified: 2026-04-05
 translatedFrom: 'History/荷西明鄭時期.md'
 sourceCommitSha: 53610439
 sourceContentHash: 'sha256:bede1d5ee64e87b9'
+sourceBodyHash: 'sha256:2e2c318b800146b6'
 translatedAt: '2026-04-14T05:29:27+08:00'
 ---
 

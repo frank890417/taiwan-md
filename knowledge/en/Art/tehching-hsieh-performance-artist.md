@@ -22,6 +22,7 @@ researchReport: 'reports/research/2026-04/謝德慶.md'
 translatedFrom: 'Art/謝德慶.md'
 sourceCommitSha: 'b1d38be3'
 sourceContentHash: 'sha256:6c03cf0ef8e01a7d'
+sourceBodyHash: 'sha256:63227fedc7d1144a'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

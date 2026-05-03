@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: '53610439'
 sourceContentHash: 'sha256:f2cbdffcc80fbaa7'
+sourceBodyHash: 'sha256:445f37a76bc05a73'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

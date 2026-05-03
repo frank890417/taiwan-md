@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: Lifestyle/台灣垃圾車音樂.md
 sourceCommitSha: c71f1568
 sourceContentHash: sha256:7d76547cf6787938
+sourceBodyHash: 'sha256:ef5fcbe573c213a1'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Lifestyle
 ---

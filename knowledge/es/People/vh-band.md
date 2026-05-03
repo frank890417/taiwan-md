@@ -25,6 +25,7 @@ lastHumanReview: 2026-04-19
 translatedFrom: People/VH.md
 sourceCommitSha: 0ecfa053
 sourceContentHash: sha256:12627c86b39f3cf2
+sourceBodyHash: 'sha256:cac852a1ab84bcac'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

@@ -30,6 +30,7 @@ researchReport: reports/research/2026-04/阿爆.md
 translatedFrom: 'People/阿爆.md'
 sourceCommitSha: '7bcc3ce4'
 sourceContentHash: 'sha256:73f220f8acacaea9'
+sourceBodyHash: 'sha256:49c7778d68057c04'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

@@ -22,6 +22,7 @@ lastHumanReview: true
 translatedFrom: 'People/洪醒夫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0279a183bcf27d60'
+sourceBodyHash: 'sha256:669b88afae826e6b'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

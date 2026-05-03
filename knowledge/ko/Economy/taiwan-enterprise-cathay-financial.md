@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：國泰金控.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:15d9f13b5613c8cd'
+sourceBodyHash: 'sha256:d03224ca8bd3574e'
 translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: People/李仙得.md
 sourceCommitSha: 8413cde6
 sourceContentHash: sha256:b35bf2bd112055a5
+sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

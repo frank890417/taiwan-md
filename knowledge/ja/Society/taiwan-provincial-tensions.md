@@ -10,6 +10,7 @@ lastHumanReview: false
 translatedFrom: Society/台灣省籍矛盾.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:1ad089e1b6d004d2
+sourceBodyHash: 'sha256:b040587ba3041a93'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Society
 ---

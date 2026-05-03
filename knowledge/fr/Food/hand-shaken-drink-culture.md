@@ -16,6 +16,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: "Food/台灣手搖飲文化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:71fc720819f04eb1"
+sourceBodyHash: 'sha256:9c17e0b805a624e7'
 translatedAt: "2026-04-14T12:29:04+08:00"
 ---
 

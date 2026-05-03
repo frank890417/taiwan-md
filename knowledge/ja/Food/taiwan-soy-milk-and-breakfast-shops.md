@@ -13,6 +13,7 @@ featured: true
 translatedFrom: 'Food/台灣豆漿與早餐店.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ba7ff819ca0777d2'
+sourceBodyHash: 'sha256:a157234d7add2561'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

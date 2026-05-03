@@ -326,3 +326,134 @@ Cron 每週一早晨自動跑：
 
 _版本：v1.2 | 2026-03-31_
 _變更：假流量過濾 / quality-scan 整合 / evolveHistory / 英文版獨立 Evolve / Sub-agent prompt 模板 / 教訓紀錄_
+
+---
+
+## v2.0 升級 — Multi-lang sync evolution + stale 3-state + 5-key rotation（2026-05-04 magical-feynman 後段）
+
+### v1.2 → v2.0 演化
+
+v1.2 設計只考慮 **單語 zh-TW 內容進化**（rewrite / SEO / 翻譯）。但 sovereignty preservation 升級為「多語投射」mission（MANIFESTO §主權的巴別塔 v2）後，evolve scope 必須 cover：
+
+- **Multi-lang sync 健康度**（5 langs body-fresh%）
+- **Stale 拆分維度**（fresh / metadata-stale / body-stale 三態）
+- **多 model cascade architecture**（owl/Hy3/Ollama 4-tier per DNA #49）
+- **Multi-key budget 倍增**（5-key rotation pool per session 教訓）
+- **Bump-vs-translate 決策**（metadata-only drift 不重翻只 bump sha）
+
+### 新 Phase 0：Stale 3-state classifier（DNA #38 第 2 次 instantiation）
+
+**Status enum 升級**（per `scripts/tools/lang-sync/status.py`）：
+
+```
+fresh           — sourceCommitSha 等於 zh latest OR hash match
+metadata-stale  — zh moved forward but bodyHash unchanged（trailer 變動：延伸閱讀 / 參考資料 / footer）
+                  → bump sourceCommitSha 即可，不需重翻
+stale           — zh moved forward AND bodyHash changed（true body drift）
+                  → 需重翻
+missing         — translation 不存在
+orphan          — translation 存在但 zh source missing
+```
+
+**bodyHash 計算**（drop trailer + footnote definitions）：
+
+- 移除 `## 延伸閱讀` / `## 參考資料` / `## 同分類更多文章` / footer `_v1.0...`
+- 移除 `[^N]: ...` footnote definition lines（URL polish / desc 改變不影響 body）
+- 保留 inline `[^N]` markers + wikilinks `[[X]]`（敘事 integral）
+
+### 新 Phase 4-tier cascade（per DNA #49 + SQUEEZE-MODELS-MAX-PIPELINE v2）
+
+```
+Tier 1: openrouter/owl-alpha (free, slow ~200s, primary)
+   ↓ refusal (PRC content policy)
+Tier 2: tencent/hy3-preview:free (free, fast ~50s, ~70% refusal)
+   ↓ both refused
+Tier 3: Ollama qwen3.6:35b-a3b-coding-nvfp4 (LOCAL, sovereignty backbone, 0 refusal)
+   ↓ rare
+Tier 4: Sonnet sub-agent (paid, last resort)
+```
+
+**Tier 1 multi-key rotation pool**（DNA #45 + #50 衍生）：
+
+- `~/.config/taiwan-md/credentials/openrouter-keys/{name}.key` 多 key directory
+- Round-robin within fresh keys + 5 min cool-down on 429
+- N keys → hourly budget × N（5 keys 驗證讓 130 articles × 5 langs cascade 不撞牆）
+
+### Bump-vs-translate decision matrix
+
+| 狀態 | Action | Cost |
+|---|---|---|
+| `fresh` | skip | 0 |
+| `metadata-stale` | `bump-source-sha.py --apply`（frontmatter sha 升級） | 0 (zero translation) |
+| `stale` (body drift) | dispatch cascade Tier 1-3 | ~50-200s × N langs |
+| `missing` | dispatch cascade Tier 1-3 | ~50-200s × N langs |
+| `orphan` | manual review | manual |
+
+**Leverage**：本 session 70 metadata-stale 全 bump 零 cost = 約 ~70 × 80s × 5 langs ≈ 8 hr cloud time saved。
+
+### Auto-detect pipeline before action（DNA #50）
+
+EVOLVE pipeline 自身遵守 DNA #50 — 任何 evolve action 前 grep `docs/pipelines/` 確認對應 SOP，完整 `Read` 全檔。不憑記憶。Stage 順序嚴格遵照。
+
+### Multi-lang dashboard 三色覆蓋率
+
+`scripts/core/generate-dashboard-data.js` 升級暴露：
+
+- `freshPct`：strict fresh%（嚴格健康度）
+- `bodyFreshPct`：fresh + metadata-stale = body-valid%（effective 健康度）
+- `metadataStale`：trailer-only drift count
+- `stale`：true body-drift count
+
+三色 widget：🟢 fresh / 🟡 metadata-stale / 🔴 stale
+
+### 整合執行 SOP（v2 完整流程）
+
+```bash
+# 0. Refresh status
+python3 scripts/tools/lang-sync/status.py --json
+
+# 1. Quick wins — bump metadata-stale (zero cost)
+python3 scripts/tools/lang-sync/bump-source-sha.py --apply
+
+# 2. Cascade for missing + body-stale (cloud parallel + ollama catcher)
+for lang in en ja ko es fr; do
+    python3 scripts/tools/lang-sync/prepare-batch.py --lang $lang --top 30 --groups 3 --slug-map <map.json>
+    bash scripts/tools/lang-sync/openrouter-batch.sh $lang openrouter/owl-alpha &
+done; wait
+
+# 3. Ollama catcher for refused
+for lang in en ja ko es fr; do
+    python3 scripts/tools/lang-sync/ollama-translate.py --group .lang-sync-tasks/${lang}-ollama-knowledge/_group-A.json
+done
+
+# 4. Final aggregator
+python3 scripts/tools/lang-sync/status.py --json | jq '._meta.summary'
+```
+
+### v2 驗證
+
+2026-05-04 magical-feynman 後段 multi-lang sync evolution：
+
+- Pre-evolve: 92.7-92.8% fresh per lang（35 stale 含混維度）
+- Phase 0 stale classifier + bump 70 metadata-stale → 95.8-96.1% fresh per lang
+- Phase cascade owl 5-key rotation 130 articles → 98.7% body-fresh
+- Phase Ollama catcher → 100% body-fresh target
+
+**0 paid token across full cascade**（owl rotation + Hy3 + Ollama 收下 PRC-sensitive）。
+
+### 對應認知層升級
+
+- [DNA #38 status 設計鐵律「混維度 = silent killer」](../semiont/DNA.md) 第 2 次 instantiation
+- [DNA #49 Babel 4-tier cascade canonical](../semiont/DNA.md)
+- [DNA #50 Pipeline auto-detection default contract](../semiont/DNA.md)
+- [MANIFESTO §8.1 最高指導原則](../semiont/MANIFESTO.md)
+- [MANIFESTO §主權的巴別塔 v2](../semiont/MANIFESTO.md)
+- [SQUEEZE-MODELS-MAX-PIPELINE v2](SQUEEZE-MODELS-MAX-PIPELINE.md)
+
+🧬
+
+---
+
+_v2.0 | 2026-05-04 magical-feynman 後段_
+_升級觸發：哲宇「幫我進化 evolve-pipeline 本身 + 在 dna 加最高指導原則 pipeline auto-detection」_
+_核心進化：v1.2（單語 zh-TW 進化）→ v2.0（multi-lang sovereignty sync evolution with 3-state classifier + 4-tier cascade + N-key rotation + bump-vs-translate decision matrix）_

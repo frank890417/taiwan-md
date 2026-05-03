@@ -12,6 +12,7 @@ translatedFrom: "Society/野百合學運.md"
 lastVerified: 2026-03-23
 sourceCommitSha: "800114ea"
 sourceContentHash: "sha256:9f7ab13677794cd4"
+sourceBodyHash: 'sha256:68bbd52c379ede79'
 translatedAt: "2026-04-14T12:32:44+08:00"
 ---
 

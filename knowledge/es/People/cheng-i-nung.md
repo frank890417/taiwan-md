@@ -30,6 +30,7 @@ lastHumanReview: true
 translatedFrom: People/鄭宜農.md
 sourceCommitSha: 4d3d206a
 sourceContentHash: sha256:8009f6cea2dff966
+sourceBodyHash: 'sha256:9bc9513fe8a31def'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/黃震南.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:26157944457addef'
+sourceBodyHash: 'sha256:5572b1dffb016fcd'
 translatedAt: '2026-04-15T17:32:28+08:00'
 ---
 

@@ -20,6 +20,7 @@ lastVerified: 2026-03-25
 translatedFrom: 'People/鄭南榕.md'
 sourceCommitSha: '905dadba'
 sourceContentHash: 'sha256:4be2f8c1793b7dcd'
+sourceBodyHash: 'sha256:e8dd956e4b216bc3'
 translatedAt: '2026-04-14T19:19:21+08:00'
 ---
 

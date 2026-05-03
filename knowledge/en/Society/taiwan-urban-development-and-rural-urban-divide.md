@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:abb1bddb60e0e0c6'
+sourceBodyHash: 'sha256:85a0db4806eee7dd'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

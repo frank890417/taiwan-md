@@ -2,6 +2,7 @@
 translatedFrom: 'Technology/台灣遊戲產業與數位娛樂.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:015bc5daa189760c'
+sourceBodyHash: 'sha256:5fb0ef5f5d04e117'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Gaming Industry and Digital Entertainment'
 description: 'From early distributors to original developers — how Taiwan found its voice in the global gaming market'

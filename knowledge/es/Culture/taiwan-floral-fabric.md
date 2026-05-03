@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/台灣花布.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:d3e93a783d8e2299'
+sourceBodyHash: 'sha256:bfe64f8e2199eaf4'
 translatedAt: '2026-05-01T20:54:23+08:00'
 category: Culture
 ---

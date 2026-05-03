@@ -2,6 +2,7 @@
 translatedFrom: 'Society/台灣偏鄉教育.md'
 sourceCommitSha: 'c5415878'
 sourceContentHash: 'sha256:e3196cb1e8b69382'
+sourceBodyHash: 'sha256:f62fa73eb61a1077'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Rural Education in Taiwan: What Children Need Isn't an Inspiring Story — It's a Support System That Doesn't Collapse"
 description: "Rural education is not as simple as 'the school is farther away in the mountains.' From teacher turnover, multi-grade classrooms, transportation and housing to family support, community connections, and society's single-track definition of success — the real difficulty is that when a child steps out of the classroom, the entire support system often unravels layer by layer."

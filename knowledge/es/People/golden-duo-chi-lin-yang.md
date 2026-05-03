@@ -24,6 +24,7 @@ lastHumanReview: true
 translatedFrom: People/麟洋配.md
 sourceCommitSha: ddc476ed
 sourceContentHash: sha256:d3037d2c6f885793
+sourceBodyHash: 'sha256:2c9db3cb9fda0ceb'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

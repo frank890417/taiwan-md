@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b233a45daf622e6'
+sourceBodyHash: 'sha256:8f231aa6641c39c8'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

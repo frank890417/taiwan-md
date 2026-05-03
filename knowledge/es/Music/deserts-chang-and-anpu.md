@@ -23,6 +23,7 @@ lastHumanReview: '2026-04-13'
 translatedFrom: 'Music/張懸與安溥.md'
 sourceCommitSha: '4a5b7958'
 sourceContentHash: 'sha256:8db767c623103846'
+sourceBodyHash: 'sha256:5705b435f269e6ca'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

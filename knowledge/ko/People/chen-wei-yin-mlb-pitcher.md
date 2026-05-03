@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/陳偉殷.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:231187a409527522'
+sourceBodyHash: 'sha256:d108a9297d14dc10'
 translatedAt: '2026-04-14T19:25:23+08:00'
 ---
 

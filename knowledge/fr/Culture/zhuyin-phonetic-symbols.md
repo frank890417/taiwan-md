@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/注音符號.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c02940e263693a53'
+sourceBodyHash: 'sha256:fa152464d6c3c1f1'
 translatedAt: '2026-04-14T19:13:02+08:00'
 ---
 

@@ -21,6 +21,7 @@ featured: 'false'
 translatedFrom: 'People/陳士駿.md'
 sourceCommitSha: 'fb57de30'
 sourceContentHash: 'sha256:a7528e9b7062bef0'
+sourceBodyHash: 'sha256:9f3cbb43337753f0'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

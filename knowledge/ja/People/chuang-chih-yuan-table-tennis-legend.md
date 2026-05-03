@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/莊智淵.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:64d1439fdfb0a46b
+sourceBodyHash: 'sha256:6060b8e3b8a4895d'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

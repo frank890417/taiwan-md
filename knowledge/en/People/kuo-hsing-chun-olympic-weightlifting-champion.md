@@ -19,6 +19,7 @@ lastHumanReview: '2026-04-04'
 translatedFrom: 'People/郭婞淳.md'
 sourceCommitSha: 'ddc476ed'
 sourceContentHash: 'sha256:d608fc5111d3aa4f'
+sourceBodyHash: 'sha256:81622b39bea33457'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 

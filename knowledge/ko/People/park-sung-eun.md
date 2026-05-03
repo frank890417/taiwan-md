@@ -21,6 +21,7 @@ translatedFrom: 'People/朴星垠.md'
 readingTime: 8
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:b387b2ccc5c7905c'
+sourceBodyHash: 'sha256:e7707b2af3303c6e'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

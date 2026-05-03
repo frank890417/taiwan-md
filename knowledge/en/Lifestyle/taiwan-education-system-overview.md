@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣教育制度.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e9ca27840e47d5f'
+sourceBodyHash: 'sha256:0a4c39eae3411ae0'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

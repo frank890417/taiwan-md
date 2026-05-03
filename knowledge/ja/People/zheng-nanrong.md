@@ -10,6 +10,7 @@ lastHumanReview: false
 translatedFrom: People/鄭南榕.md
 sourceCommitSha: 905dadba
 sourceContentHash: sha256:4be2f8c1793b7dcd
+sourceBodyHash: 'sha256:e8dd956e4b216bc3'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

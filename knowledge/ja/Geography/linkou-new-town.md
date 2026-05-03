@@ -27,6 +27,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/林口新市鎮.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:c736e66e79ae24bb'
+sourceBodyHash: 'sha256:57cdd81fe5d56c02'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

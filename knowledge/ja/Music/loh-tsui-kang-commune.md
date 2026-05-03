@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Music/濁水溪公社.md'
 sourceCommitSha: '83b8a92b'
 sourceContentHash: 'sha256:9376f811cccfc241'
+sourceBodyHash: 'sha256:ba486d59e98b80d0'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

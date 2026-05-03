@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: "Society/學習貧窮.md"
 sourceCommitSha: "e22337b2"
 sourceContentHash: "sha256:b55224a5fdf8b684"
+sourceBodyHash: 'sha256:605da09515483b90'
 translatedAt: "2026-04-14T12:32:34+08:00"
 ---
 
