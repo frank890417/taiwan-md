@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/莫那·魯道.md'
 sourceCommitSha: '221b1708'
 sourceContentHash: 'sha256:ead303c95dc25bc9'
+sourceBodyHash: 'sha256:b0bcf45b1cb74d70'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 

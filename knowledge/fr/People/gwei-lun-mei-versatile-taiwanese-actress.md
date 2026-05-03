@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: "People/桂綸鎂.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:abc35bc4aee48bac"
+sourceBodyHash: 'sha256:df4e818396c5d890'
 translatedAt: "2026-04-14T19:16:13+08:00"
 ---
 

@@ -10,8 +10,9 @@ readingTime: 16
 featured: false
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
 lastVerified: 2026-03-19
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:0bedf0b86c577b3b'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:c9c74a5987b6a57a'
+sourceBodyHash: 'sha256:fc166b853b9db56b'
 translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 

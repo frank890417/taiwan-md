@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'Culture/台灣原住民語言復振運動.md'
 sourceCommitSha: '26216f73'
 sourceContentHash: 'sha256:9c408bfc603af1d1'
+sourceBodyHash: 'sha256:f60b7a2b3f864e75'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

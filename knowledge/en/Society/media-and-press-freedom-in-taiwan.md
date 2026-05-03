@@ -18,6 +18,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣媒體與新聞自由.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:a463f0fc05470693'
+sourceBodyHash: 'sha256:9300996efcda2a10'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Society
 ---

@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Culture/澎湖民俗文化.md'
 sourceCommitSha: 'e3376fec'
 sourceContentHash: 'sha256:20a4e415d5a5b5ab'
+sourceBodyHash: 'sha256:800e8b0751351b5e'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

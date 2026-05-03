@@ -11,6 +11,7 @@ lastVerified: 2026-04-01
 translatedFrom: "Culture/台灣獸迷文化.md"
 sourceCommitSha: "5dfae94a"
 sourceContentHash: "sha256:ba17289b87055288"
+sourceBodyHash: 'sha256:b8b517c948537006'
 translatedAt: "2026-04-14T12:34:01+08:00"
 ---
 

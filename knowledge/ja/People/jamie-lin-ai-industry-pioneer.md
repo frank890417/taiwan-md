@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/簡立峰.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:638c3c318359c6b4
+sourceBodyHash: 'sha256:527a49e2fa2b8dad'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

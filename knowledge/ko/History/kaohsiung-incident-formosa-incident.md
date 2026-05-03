@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'History/美麗島事件.md'
 sourceCommitSha: '5dc50b7a'
 sourceContentHash: 'sha256:371adfd182b08cfd'
+sourceBodyHash: 'sha256:023966d5fd73721a'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 

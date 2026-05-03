@@ -14,6 +14,7 @@ translatedFrom: "Geography/台灣農業地景與產業分布.md"
 category: 'Geography'
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:a43ae2332c3edc7d"
+sourceBodyHash: 'sha256:c8d5c569a0a2b4a6'
 translatedAt: "2026-04-15T17:33:45+08:00"
 ---
 

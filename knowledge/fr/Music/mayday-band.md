@@ -24,6 +24,7 @@ featured: true
 translatedFrom: "Music/五月天.md"
 sourceCommitSha: "eb0744ad"
 sourceContentHash: "sha256:683ec3194ba4aa3c"
+sourceBodyHash: 'sha256:7f6b080a953be003'
 translatedAt: "2026-04-15T17:32:16+08:00"
 ---
 

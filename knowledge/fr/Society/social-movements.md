@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Society/社會運動與公民參與.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:23077f3ea861f854'
+sourceBodyHash: 'sha256:574c2892f4622c24'
 translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 

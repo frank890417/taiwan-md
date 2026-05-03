@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：統一企業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3fb7c059831bdebb'
+sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Enterprise: Uni-President Enterprises'
 description: 'How a 13-year-old child laborer built a NT$657.6 billion revenue empire from scratch at age 38'

@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣國際貿易政策.md'
 lastVerified: 2026-03-19
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:e86aa807bf77d463'
+sourceBodyHash: 'sha256:50732ecac41f23f8'
 translatedAt: '2026-04-14T08:16:50+08:00'
 ---
 

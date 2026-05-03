@@ -18,6 +18,7 @@ translatedFrom: 'People/童子賢.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c1d775b461f7938c'
+sourceBodyHash: 'sha256:54860a304b159c26'
 translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 

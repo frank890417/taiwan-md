@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/席慕蓉.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:310ac0cea3702788
+sourceBodyHash: 'sha256:78271b6f20943b55'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

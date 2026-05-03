@@ -22,6 +22,7 @@ featured: false
 translatedFrom: 'People/Hello-Nico.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
+sourceBodyHash: 'sha256:bab18d5114976850'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

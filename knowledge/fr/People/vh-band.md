@@ -25,6 +25,7 @@ featured: false
 translatedFrom: People/VH.md
 sourceCommitSha: 0ecfa053
 sourceContentHash: sha256:12627c86b39f3cf2
+sourceBodyHash: 'sha256:cac852a1ab84bcac'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

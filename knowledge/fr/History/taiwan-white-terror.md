@@ -1,197 +1,197 @@
 ---
-title: 'La Terreur Blanche à Taïwan'
-description: 'Les 38 ans de loi martiale ne se sont pas maintenus grâce à quelques milliers d'agents secrets, mais grâce à un système de garanties solidaires qui obligeait deux millions de familles à se cautionner mutuellement pour travailler, étudier ou se marier. Chen Chih-hsiung, Shih Shui-huan, Kao I-sheng, Bo Yang — quatre noms, quatre raisons d'être arrêtés, une seule et même machine.'
+title: "Taiwan White Terror"
+description: "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system where every family in Taiwan had to mutually guarantee each other to work, enroll in school, or marry. Chen Chih-hsiung, Shih Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine."
 date: 2026-04-05
-tags: [Histoire, Terreur Blanche, loi martiale, répression politique, garanties solidaires, île Verte, Machang]
-subcategory: 'Après-guerre et autoritarisme'
-author: 'Taiwan.md Translation Team'
-readingTime: 11
-featured: true
+tags: ['History', 'White Terror', 'Martial Law', 'Political Persecution', 'Joint Liability Guarantee', 'Green Island', 'Machangting']
+subcategory: 'Post-War and Authoritarianism'
+author: 'Taiwan.md'
 category: 'History'
+readingTime: 11
 lastVerified: 2026-04-05
 lastHumanReview: false
-translatedFrom: "History/台灣白色恐怖.md"
-sourceCommitSha: "c0e572fd"
-sourceContentHash: "sha256:97d17c1374f9b150"
-translatedAt: "2026-04-14T12:31:41+08:00"
+translatedFrom: 'History/台灣白色恐怖.md'
+sourceCommitSha: '14c7b362'
+sourceContentHash: 'sha256:1cfbc40a8f8136f4'
+translatedAt: '2026-05-04T01:11:15+08:00'
 ---
 
-# La Terreur Blanche à Taïwan
+# Taiwan White Terror
 
-> **En 30 secondes :** De 1949 à 1987, soit 38 ans et 56 jours, Taïwan a enregistré au moins 29 407 jugements militaires prononcés contre des civils. Plus de 20 000 victimes ont été officiellement recensées, et les estimations populaires évoquent entre 140 000 et 200 000 personnes. Mais ce qui a permis à ce système de tenir 38 ans, ce ne sont pas les agents secrets — ils n'étaient que quelques milliers. C'est le système des « garanties solidaires » : pour décrocher un emploi, entrer dans une école ou se marier, chaque Taïwanais devait trouver des voisins prêts à se porter garants. L'épicier du rez-de-chaussée était votre caméra de surveillance.
-
----
-
-Le 28 mai 1963, à l'aube, dans le quartier de Machang à Taipei. Chen Chih-hsiung, 46 ans, est tiré de sa cellule et conduit vers le lieu d'exécution. Les gardes de la garnison savaient qu'il crierait des slogans : ils lui tranchèrent les pieds à la hache pour qu'il ne puisse se tenir debout, lui fourrèrent un chiffon dans la bouche et lui traversèrent les deux joues avec du fil de fer.[^1]
-
-Mais au moment où les coups de feu retentirent, il parvint encore à crier en japonais : « Vive le peuple taïwanais ! Vive l'indépendance de Taïwan ! »
-
-Chen Chih-hsiung était diplômé en néerlandais de l'Université des langues étrangères de Tokyo, ancien fonctionnaire du ministère japonais des Affaires étrangères, revenu à Taïwan après la guerre pour s'engager dans le mouvement indépendantiste. En 1961, il fonda la « Tongxin She » (Association du même cœur). Deux ans plus tard, il devint le premier Taïwanais exécuté pour avoir « préconisé l'indépendance de Taïwan » pendant les 38 ans de loi martiale. Soixante ans après sa mort, une petite cérémonie commémorative se tient encore chaque 28 mai. La plupart des Taïwanais ignorent ce nom.
-
-Cet article traite de la machine qui conduisit Chen Chih-hsiung à Machang, qui fit figurer Shih Shui-huan dans les listes de ses collègues du bureau de poste, qui attira Kao I-sheng loin de l'Alishan par la ruse, et qui envoya Bo Yang en prison neuf ans pour une bande dessinée. **La Terreur Blanche n'était pas l'œuvre d'un exécutant particulier : elle était entretenue par un système qui avait transformé deux millions de familles en un réseau de surveillance mutuelle couvrant toute l'île.**
+> **30-Second Overview:** From 1949 to 1987, spanning 38 years and 56 days, Taiwan had at least 29,407 military trial cases, with over 20,000 confirmed victims and民间 estimates reaching between 140,000 and 200,000. But what sustained this system for 38 years was not secret agents—there were only a few thousand of them; it was the "joint liability guarantee" system where everyone in Taiwan had to find neighbors to vouch for them to work, enroll in school, or marry. The uncle running the grocery store downstairs from your home was your surveillance camera.
 
 ---
 
-## De 29 407 à 140 000 — Pourquoi les chiffres ne collent jamais
+On the morning of May 28, 1963, in Machangting, Taipei, 46-year-old Chen Chih-hsiung was dragged out of his cell and escorted to the execution ground. Knowing he would shout slogans loudly, the guards of the General Command of the Army and Navy first chopped off the soles of his feet with an axe, leaving him unable to stand, then stuffed a rag in his mouth and pierced his cheeks with iron wire. [^1]
 
-En novembre 1988, seize mois après la levée de la loi martiale, le procureur en chef du ministère de la Justice, Chen Shou-huang, annonça devant le Parlement un chiffre officiel : en 38 ans de loi martiale, les autorités militaires avaient rendu **29 407 jugements** dans des affaires pénales impliquant des civils.[^2]
+But in the moment before the gunshots rang out, he still shouted in Japanese: "Long live the Taiwanese! Long live the independence of Taiwan!"
 
-C'était la première fois qu'un chiffre officiel était établi. Mais tous les chercheurs savaient que ce nombre ne représentait que la partie émergée de l'iceberg.
+Chen Chih-hsiung was a graduate of the Dutch Department at Tokyo University of Foreign Studies and a former official of the Japanese Ministry of Foreign Affairs. After the war, he returned to Taiwan to devote himself to the independence movement. In 1961, he organized the "Tongxin Society." Two years later, he became the first Taiwanese to be executed for "advocating the independence of Taiwan" during the 38-year martial law period. Sixty years after his death, a small group of people still hold memorial services for him every May 28. Most Taiwanese do not know this name.
 
-| 29 407 affaires                                | 14 946 dossiers                                                                           | 1 061 personnes       |
-| ---------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------- |
-| Jugements militaires (ministère de la Justice) | Personnes jugées dans la base de données de la Commission pour la Justice transitionnelle | Exécutions confirmées |
-
-La « Base de données pour la justice transitionnelle à Taïwan », mise en ligne en 2020 par la Commission pour la promotion de la justice transitionnelle, recense **14 946 dossiers** de personnes condamnées dans des affaires politiques.[^3] L'Association taïwanaise pour la vérité et la réconciliation dénombre quant à elle **1 061 condamnés à mort** pendant la loi martiale (jusqu'en 2013).[^4] En 2017, l'Exécutif estimait par ailleurs que le nombre réel de victimes pourrait dépasser **200 000 personnes**.[^5]
-
-Ces chiffres ne se recoupent jamais. Non pas parce que les méthodes de calcul diffèrent, mais parce qu'il est fondamentalement impossible de comptabiliser : combien sont morts en fuyant, combien ont été exécutés en secret, combien ont été abattus lors de leur arrestation — aucun registre n'en garde la trace. Tsai Kuan-yu, de l'Association taïwanaise pour la vérité et la réconciliation, indique que les victimes originaires de Chine continentale représentent 46 % du total.[^5] Ce chiffre remet en question l'image répandue selon laquelle « la Terreur Blanche, c'était le Kuomintang contre les Taïwanais de souche ». Une fois lancée, cette machine pouvait broyer n'importe qui.
-
-> **⚠️ Point de controverse**
-> Le nombre de victimes de la Terreur Blanche reste à ce jour une question politique, non statistique. Les conservateurs tendent à retenir les 29 407 du ministère de la Justice en soulignant que la plupart des cas sont documentés ; les milieux indépendantistes préfèrent le chiffre de 140 000 à 200 000, insistant sur l'impossibilité de comptabiliser les victimes clandestines. Les deux chiffres contiennent une part de vérité, car la « réalité » de cette époque était elle-même une marchandise systématiquement dissimulée.
+This article discusses the machine that led Chen Chih-hsiung to Machangting, that caused Shih Shui-huan to die on the list of colleagues at the Taipei Postal and Telecommunications Bureau, that lured Gao Yi-sheng down from Alishan, and that imprisoned Bo Yang for nine years for a single comic strip—**White Terror was not executed by anyone, but sustained by a system that turned all two million families on the island into a web of mutual surveillance.**
 
 ---
 
-## Les garanties solidaires — Sur quoi reposaient 38 ans de loi martiale
+## From 29,407 to 140,000 — Why the Numbers Never Match
 
-En 1963, quand Chen Chih-hsiung fut exécuté, Taïwan comptait environ 12 millions d'habitants. Combien d'entre eux travaillaient comme agents secrets ? D'après différentes sources historiques, les effectifs réels du Commandement de la garnison, du Commandement de sécurité, du Bureau d'investigation, du Corps de la jeunesse pour le service national et autres organes du renseignement combinés se chiffraient en quelques milliers.
+In November 1988, one year and four months after the lifting of martial law, Chen Shou-huang, the Chief Public Prosecutor of the Ministry of Justice, reported a figure to the Legislative Yuan: during the 38 years of martial law, military organs sentenced a total of **29,407** criminal cases involving non-active-duty military personnel. [^2]
 
-Alors, sur quoi reposaient ces 38 ans ?
+This was the first official number. But all researchers know that this number is only the tip of the iceberg.
 
-**Sur le fait que chaque Taïwanais souhaitant obtenir un emploi, entrer dans une école ou se marier devait trouver deux personnes prêtes à se porter garantes.**
+| 29,407 Cases | 14,946 Records | 1,061 Individuals |
+| :--- | :--- | :--- |
+| Ministry of Justice Military Trial Cases | Victims in the Transition Justice Commission Database | Confirmed Number of Executions |
 
-Ce système était inscrit dans l'« Ordonnance pour l'élimination des espions communistes en période de rébellion » promulguée en 1950, sous le nom de « système de caution solidaire ».[^4] Pour être libéré, un prisonnier devait trouver deux garants prêts à remplir de multiples formulaires de cautionnement : les enfants ne pouvaient pas cautionner leurs parents, les garants devaient justifier d'un certain patrimoine, et en plus de la garantie personnelle, une garantie commerciale était requise. Le formulaire transitait ensuite par le commissariat de l'arrondissement, puis par le siège central de la police, puis par le Bureau juridique du ministère de la Défense nationale, avant que la prison délivre enfin l'attestation de libération. Si la personne cautionnée « récidivait », les garants étaient tenus solidairement responsables.
+The Taiwan Transition Justice Database, launched by the Promotion of Transitional Justice Commission in 2020, contains data on **14,946** political case defendants. [^3] The Taiwan Truth and Reconciliation Commission, meanwhile, statistics show that there were **1,061** death row prisoners during the martial law period (as of 2013). [^4] The Executive Yuan estimated in 2017 that the actual number of victims may exceed **200,000**. [^5]
 
-Ce mécanisme ne s'appliquait pas seulement à la libération des prisonniers. Recrutement dans la fonction publique et l'enseignement, admissions scolaires, demandes de sortie du territoire, enregistrement des mariages — chaque acte de la vie quotidienne nécessitait une « attestation de bonne conduite », laquelle exigeait à son tour que quelqu'un se porte garant pour vous.
+These numbers never match. The reason is not different statistical methods, but the fact that they are fundamentally impossible to count: how many died while fleeing, how many were secretly executed, how many were killed while resisting arrest—the archives do not have records. Cai Kuan-yu from the Taiwan Truth and Reconciliation Commission stated that Mainlander victims accounted for 46%. [^5] This number overturns the general impression that "White Terror equals the Kuomintang targeting locals." Once the machine started, anyone could be绞 (绞入/joined) into the grinder.
 
-> **📝 Note de la rédaction**
-> Dans les registres d'état civil taïwanais des années 1950 à 1980, de nombreuses notices portaient un tampon rouge en marge : le nom, l'adresse et le numéro d'identité du garant. Ouvrir aujourd'hui un ancien livret de famille, c'est voir les relations de voisinage et de parenté de cette époque consignées sous forme de responsabilité politique. Si votre voisin vous a gardé en mémoire, c'est parce qu'il s'était porté garant pour vous. Si votre oncle a pendant un temps cessé de parler à votre père, c'est peut-être parce qu'il avait refusé de le cautionner. Ces silences, ces ruptures, ces nœuds au sein des familles — beaucoup d'entre eux commencent par un formulaire de caution.
-
-### D'autres yeux que ceux des agents secrets
-
-Outre le système des garanties, il existait un réseau d'informateurs. En 1983, les campus universitaires de Taïwan comptaient plus de **5 000 informateurs**.[^6] De 1980 à 2000, le nombre de citoyens surveillés chaque année par le gouvernement du Kuomintang oscillait entre **7 000 et 15 000 personnes**.[^6]
-
-Les rapports rédigés par ces informateurs mentionnaient l'orientation sexuelle de dissidents, leurs aventures extraconjugales, leurs vices secrets. Certains dossiers envisageaient d'exploiter les « faiblesses psychologiques des femmes » pour neutraliser des actrices militantes.[^6] Une information pouvait être inventée, amplifiée, utilisée comme outil dans des luttes d'influence. Mais une fois versée au dossier, elle devenait vraie.
-
-> **✦** « Il y a des agents qui me surveillent dehors, je dois m'enfuir. » — Ces mots du survivant de la Terreur Blanche Chen Meng-ho, prononcés sur son lit d'hôpital en fin de vie à l'intention de visiteurs (cité dans le reportage de The Reporter, « À la recherche des blessés politiques »).
-
-Chen Meng-ho avait été emprisonné plus de dix ans comme prisonnier politique. Après sa libération, il devint photographe et immortalisa d'autres survivants. Mais soixante ans plus tard, alité à l'hôpital, il était encore convaincu que des agents l'espionnaient depuis le couloir.[^7] On ne peut pas dire qu'il se trompait. La plus grande réussite de la Terreur Blanche, c'est d'avoir gravé ce souvenir pour toute une vie.
+> **⚠️ Controversial Viewpoint**
+> The number of White Terror victims remains a political issue, not a statistical one. Conservatives tend to use the Ministry of Justice's 29,407, emphasizing that most people have case records; independence advocates tend to use 140,000 to 200,000, emphasizing the unknowability of underground victims. Both numbers are partially true because "truth" in that era was itself a commodity systematically hidden.
 
 ---
 
-## Trois façons d'être arrêté : la pensée, les relations, le hasard
+## Joint Liability Guarantee — Who Maintained 38 Years of Martial Law
 
-Ce qui rendait la Terreur Blanche si terrifiante n'est pas qu'elle obéissait à des critères précis — c'est justement qu'elle n'en avait aucun.
+In the year Chen Chih-hsiung was executed, Taiwan's population was approximately 12 million. How many were secret agents? According to various historical materials, the actual personnel of the intelligence system, including the General Command of the Army and Navy, the Security Command, the Bureau of Investigation and Investigation, and the Youth Salvation Corps, totaled only a few thousand.
 
-### La pensée : une bande dessinée de Bo Yang (1968)
+So what sustained it for 38 years?
 
-Le 3 janvier 1968, l'édition familiale du _China Daily News_ publie une traduction du dessinateur américain _Popeye_ signée Bo Yang.[^8] L'histoire : Popeye et son fils achètent ensemble une petite île et y fondent un État privé, chacun candidatant à la présidence. Dans la traduction de Bo Yang, l'enfant dit à Popeye : « Il n'y a que nous deux dans tout le pays, tu sais ! »
+**It relied on every Taiwanese who wanted to work, enroll in school, or marry having to find 2 people willing to guarantee them.**
 
-Le tribunal militaire considéra que cette phrase faisait allusion aux deux Chiang. Le 7 mars, Bo Yang fut arrêté et condamné à douze ans. À la mort de Chiang Kai-shek en 1975, sa peine fut commuée à huit ans. Le 7 mars 1976, le jour même de sa libération théorique, il fut transféré à l'île Verte par décision du Bureau de sécurité nationale pour y être « maintenu en observation ». Ce n'est qu'en avril 1977, sous la pression du gouvernement américain, qu'il fut enfin relâché.[^8]
+This system was written in the "Regulations for Suppressing Bandit Traitors during the Period of Rebellion" promulgated in 1950, called the "Joint Guarantee and Joint Liability System." [^4] To be released from prison, convicts had to find 2 guarantors to fill out multiple guarantee forms: children could not guarantee parents, guarantors had to have certain property, and in addition to personal guarantees, there had to be merchant guarantees. The guarantee forms were sent to the household registration police station for verification, then to the Police General Bureau, then to the Military Justice Bureau of the Ministry of National Defense, and finally, the prison issued the release certificate. If the guaranteed person "reoffended," the guarantors would be held jointly liable.
 
-Au total : neuf ans et vingt-six jours. Pour avoir traduit une bande dessinée américaine.
+This mechanism was not only used for release. For the appointment of public officials and teachers, school enrollment, applications to go abroad, and marriage registration, every daily action required a "clean record," and a clean record required someone to vouch for you.
 
-> **💡 Le saviez-vous ?**
-> Durant ses neuf années à l'île Verte, Bo Yang lut l'intégrale du _Zizhi Tongjian_ et rédigea trois ouvrages : _Une histoire du peuple chinois_, _Généalogies des empereurs, impératrices, princes et princesses de toutes les dynasties chinoises_ et un _Tableau chronologique de l'histoire chinoise_. Après sa libération, il consacra encore dix ans à traduire le _Zizhi Tongjian_ en 72 volumes. Cette cellule avait transformé un simple traducteur en historien.
+> **📝 Curator's Note**
+> On household registers in Taiwan from the 1950s to the 1980s, many people had a red stamp next to their names: the name, address, and ID number of the guarantor. If you open an old household register today, you will see the relationships of relatives and neighbors from that era recorded in the form of political responsibility. Why did your neighbor remember you? Because he guaranteed you. Why did your uncle stop talking to your father for a while? Because he refused to guarantee your father. Those silent, fractured, and tangled family relationships often started from a single guarantee form.
 
-### Les relations : le plafond de Shih Shui-huan (1954)
+### Eyes Beyond Secret Agents
 
-Shih Shui-huan est née en 1926 à Tainan. Diplômée de l'École ménagère pour filles de Tainan, elle vint travailler à Taipei comme employée du bureau de poste. En 1954, elle avait 28 ans.
+In addition to the joint liability system, there was a network of informants. In 1983, there were over **5,000 informants** on university campuses across Taiwan. [^6] Between 1980 and 2000, the number of citizens monitored by the Kuomintang government annually ranged between **7,000 and 15,000**. [^6]
 
-Son frère cadet, Shih Chih-cheng, était étudiant à l'Université nationale de Taïwan. Impliqué dans l'affaire de la « cellule de l'Université nationale de Taïwan », il prit la fuite et se cacha dans le faux plafond de la chambre que sa sœur occupait dans sa résidence de Taipei. **Il y resta deux ans.** Le 19 juillet 1954, Shih Shui-huan fut arrêtée pour avoir protégé son frère, et ses collègues Qian Jingzhi et Ding Yaotiao furent entraînés dans l'affaire de la « cellule du bureau de poste ».[^9] Deux ans plus tard, le 24 juillet 1956, elle fut exécutée à Taipei. Elle avait 30 ans. Son frère Shih Chih-cheng disparut sans laisser de trace.
+In the reports written by these informants, some recorded the sexual orientation, marital infidelity, and secret vices of dissidents. Some files discussed using "female psychological weaknesses" to strike at radical actors. [^6] Information could be fabricated, exaggerated, or used as a tool for power struggles, but once it entered the files, it was considered true.
 
-Pendant ses deux années de détention, elle écrivit 69 lettres à sa mère.[^10]
+> **✦** "There are secret agents watching me at the door; I have to escape." — Words spoken by White Terror survivor Chen Meng-he to visitors while hospitalized and critically ill in his later years (from The Reporter's "Finding Political Trauma Victims")
 
-> **✦** « Chère maman, ce soir, je ne sais pourquoi, j'ai le cœur si lourd que je n'arrive pas à respirer, les larmes me montent aux yeux sans cesse. Mais je me mords les lèvres pour les retenir de toutes mes forces, car je sais que je ne dois plus pleurer à cause de maman, que cela ne ferait qu'augmenter sa tristesse... » — Lettre de Shih Shui-huan depuis sa cellule (citée dans « Les lettres de Shih Shui-huan », Association taïwanaise pour la vérité et la réconciliation).
-
-Dans sa dernière lettre, elle écrivit : « Chaque matin, comme maman me l'a recommandé, je lis la Bible et je prie. Que la grâce de Dieu descende sur toute notre famille. Amen ! »[^10]
-
-Le motif de sa condamnation était « complicité avec les bandits communistes ». Sa véritable faute : avoir un frère en fuite.
-
-### Le hasard : les 896 villageois de Luku (1952)
-
-Les 28 et 29 décembre 1952, le ministère de la Défense dépêcha plusieurs milliers de soldats et de policiers pour encercler le massif montagneux de Luku, dans le district de Shiding du comté de Taipei (aujourd'hui le quartier Guangming du district de Shiding, Nouveau Taipei), afin de traquer la soi-disant « Force de défense armée du peuple taïwanais ». L'organisation clandestine dirigée par Chen Ben-jiang et Chen Chun-qing, secrétaire de cellule, existait bel et bien. Mais la grande majorité des villageois qu'ils avaient recrutés ignorait dans quoi ils s'étaient engagés ; certains avaient simplement offert un repas à ces fugitifs.[^11]
-
-896 personnes furent arrêtées. 135 furent condamnées, dont 41 à mort.[^11] Les indemnisations versées atteignirent au final 545 630 000 nouveaux dollars taïwanais, et le Yuan de contrôle adressa un blâme au ministère de la Défense.[^11] Il s'agit de l'affaire politique individuelle la plus importante de la période de la Terreur Blanche.
-
-L'ancien directeur de l'Institut d'histoire nationale, Chang Yen-hsien, consacra de son vivant une grande part de ses recherches à Luku, recueillant les témoignages oraux de plus de 100 villageois.[^11] Tous partageaient un trait commun : l'incapacité à raconter clairement « ce qui s'est passé cette année-là ». Non pas parce qu'ils avaient oublié, mais parce qu'ils n'avaient jamais vraiment su. Certains n'apprirent qu'après leur libération, plusieurs années plus tard, à quelle organisation ils avaient « adhéré ».
-
-> **📝 Note de la rédaction**
-> _Cité des douleurs_ et _Dust in the Wind_, deux films du réalisateur Wu Nien-jen, s'inspirent en partie des événements de Luku. Le site s'appelle aujourd'hui « Parc commémoratif de l'incident de Luku ». Une stèle y a été érigée. En 2017, lors d'une cérémonie commémorative, le fils du meneur Chen Ben-jiang prit la parole : « Je viens m'excuser auprès de vous au nom de mon père. » Un enfant du côté des bourreaux qui présente des excuses — c'est une chose rarissime dans les cérémonies en mémoire de la Terreur Blanche.
+Chen Meng-he was a political prisoner imprisoned for over ten years. After his release, he became a photographer, leaving images of other survivors. But on his hospital bed 60 years later, he still believed there were secret agents at the door. [^7] You cannot say he remembered wrong. The greatest achievement of White Terror was making people remember for a lifetime.
 
 ---
 
-## Les couchettes de l'île Verte et les lettres de Kao I-sheng
+## Three Reasons for Arrest: Ideology, Relationships, Luck
 
-En 1951, la plupart des prisonniers politiques de Taïwan furent rassemblés et envoyés à l'île Verte pour être « rééduqués » au Centre de formation des « nouvelles vies ».[^12] Cette institution fonctionna jusqu'en 1965 et accueillit jusqu'à **2 000 détenus** à son apogée, répartis en 3 bataillons et 12 compagnies de 120 à 160 personnes chacune.[^12]
+The most terrifying thing about White Terror was not that it had clear standards, but that it did not.
 
-Les détenus — officiellement appelés « nouvelles vies » — suivaient trois heures quotidiennes de rééducation idéologique : le Testament du fondateur de la nation, les discours du chef, les Trois Principes du peuple, les crimes des bandits communistes, la critique du communisme. Le reste du temps était consacré au travail : construire des bâtiments, entretenir les routes, cultiver des légumes.
+### Ideology: Bo Yang's Comic Strip (1968)
 
-La victime Zhang Ze-zhou revint plus tard visiter les baraquements reconstruits et confia : « Il n'y avait pas assez de couchettes ; beaucoup de gens dormaient par terre. Il m'arrivait souvent d'être réveillé par les gens qui me marchaient dessus ! »[^12]
+On January 3, 1968, the translated American comic strip "Popeye" appeared in the family section of the *China Daily News*. [^8] The story involved Popeye and his father jointly purchasing a small island, establishing a private nation on the island, and the two competing for president. In Bo Yang's translation, the child said to Popeye: "There are only the two of us in the whole country, you know!"
 
-Entre 1953 et 1956, le Centre fut également le théâtre d'une nouvelle vague d'arrestations pour « rébellion » : des détenus déjà en cours de peine furent accusés de continuer à s'organiser clandestinement depuis leur cellule. Rejugés et recondamnés, certains passèrent ainsi plus de dix ans supplémentaires à l'île Verte.[^12]
+The military trial court believed this sentence alluded to Chiang Kai-shek and Chiang Ching-kuo. On March 7, Bo Yang was arrested and sentenced to 12 years by the military court. In 1975, upon Chiang Kai-shek's death, his sentence was reduced to 8 years. On March 7, 1976, the day his sentence expired, he was ordered by the National Security Bureau to be transferred to Green Island as a "guard employee" to continue his imprisonment. It was not until April 1977, following concern from the United States government, that he was released. [^8]
 
-### Les 60 lettres de Kao I-sheng
+A total of 9 years and 26 days. For translating an American comic strip.
 
-Kao I-sheng (nom zou : Uyongu Yatauyungana, 1908–1954) était un chef de la tribu Tsou de l'Alishan, musicien, pédagogue et premier maire élu du canton de Wufeng (aujourd'hui canton d'Alishan). Le 10 septembre 1952, la « Conférence de sécurité des zones montagneuses » — un leurre — le fit descendre de l'Alishan jusqu'à Taipei, où il fut incarcéré dans la maison d'arrêt militaire du 3, rue Qingdao Est.[^13]
+> **💡 Did You Know**
+> During his nine years on Green Island, Bo Yang studied hard, reading the *Zizhi Tongjian* (Comprehensive Mirror in Aid of Governance), and completed three manuscripts: *The History of Chinese People*, *The Lineage of Emperors, Empresses, Princes, and Princesses in Chinese Dynasties*, and *The Chronology of Chinese History*. After his release, he spent another ten years translating the *Bo Yang Version of Zizhi Tongjian* in 72 volumes. That prison cell turned him from a translator into a historian.
 
-Pendant ses deux années de détention, il adressa 60 lettres en japonais à sa famille à l'Alishan.[^13] Le 17 avril 1954, il fut exécuté à Taipei avec cinq autres personnes. Chef d'accusation : « rassemblement et rébellion au profit des communistes ».
+### Relationships: Shih Shui-huan's Ceiling (1954)
 
-Le contenu de ces lettres était pour l'essentiel fait de choses ordinaires : bien s'occuper des rizières, prendre soin des enfants, garder confiance en Dieu. Six mois avant d'être exécuté, il écrivit : « Si je rentre sain et sauf, je veux continuer à travailler pour mon peuple. »
+Shih Shui-huan was born in 1926 in Tainan. She graduated from Tainan Girls' Home Economics School and worked as a clerk at the Taipei Postal and Telecommunications Bureau. In 1954, she was 28 years old.
 
-Le 10 décembre 2013, Journée mondiale des droits de l'homme, le fils de Kao I-sheng, Kao Ying-chieh, offrit ces 60 lettres au Musée national des droits de l'homme. En 2020, le ministère de la Culture publia officiellement les _Lettres de prison de Kao I-sheng_ — premier ouvrage publié dans le cadre de la **justice transitionnelle pour les peuples autochtones** à Taïwan.[^14] Un demi-siècle plus tard, le peuple Tsou pouvait enfin lire dans leur intégralité les dernières paroles de leur chef.
+Her younger brother, Shih Cheng-sheng, was a student at National Taiwan University. After becoming involved in the "NTU Branch Case," he went on the run, hiding in the ceiling of Shih Shui-huan's Taipei dormitory for **two years**. On July 19, 1954, Shih Shui-huan was arrested for protecting her brother, and her colleagues Qian Jingzhi and Ding Yaotiao were implicated in the "Postal and Telecommunications Branch Case." [^9] Two years later, on July 24, 1956, she was executed in Taipei at the age of 30. The final fate of her brother, Shih Cheng-sheng, remains a mystery.
 
-> **📝 Note de la rédaction**
-> Lors de la cérémonie de don, Kao Ying-chieh dit qu'il avait lu ces lettres pendant des dizaines d'années, mais qu'il ne les avait vraiment comprises que maintenant — parce que son père les avait écrites en japonais, et que sa génération avait grandi sous l'interdiction du japonais imposée par le gouvernement nationaliste. La Terreur Blanche n'avait pas seulement tué un chef tsou : elle avait tranché le lien linguistique entre deux générations. Un père qui écrit des mots que son fils ne peut pas lire — c'est là l'une des violences les plus profondes de la Terreur Blanche.
+During her two years in prison, she wrote 69 family letters to her mother. [^10]
+
+> **✦** "Dear Mother, I don't know why, but my heart feels suffocatingly sad tonight, and tears are swirling in my eyes. But I still bite my lip and endure desperately, because I know I should not cry for Mother anymore, as that would only cause Mother more sorrow..." — Shih Shui-huan's prison letter (from the Taiwan Truth and Reconciliation Commission's "Shih Shui-huan's Family Letters")
+
+In the last letter, she wrote: "Every morning, as Mother instructed, I read the Bible and pray. May God's grace descend upon our whole family. Amen!" [^10]
+
+The charge for her execution was "colluding with bandits." In reality, her crime was having an escaped younger brother.
+
+### Luck: The 896 Villagers of Lukuku (1952)
+
+From December 28 to 29, 1952, the Ministry of National Defense mobilized thousands of military and police officers to surround the Lukuku mountainous area in Shihkeng Township, Taipei County (now Guangmingli, Shihkeng District, New Taipei City), launching a massive search for the so-called "Taiwan People's Armed Guard Corps." The underground organization led by Commander-in-Chief Chen Ben-jiang and Branch Secretary Chen Chun-ching did indeed exist at the time, but most of the villagers they absorbed had no idea what they had joined; some had simply given the fleeing group a meal. [^11]
+
+896 people were arrested. 135 were sentenced, including 41 death sentences. [^11] Compensation payments eventually totaled NT$545.63 million, and the Control Yuan criticized the Ministry of National Defense. [^11] This was the largest political case in terms of scale during the White Terror period.
+
+Former Director of the Academia Historica, Chang Yan-hsien, visited Lukuku before his death, conducting oral history interviews with over 100 villagers. [^11] The common characteristic of the villagers was: they could not clearly explain "what exactly happened that year." Not because they forgot, but because they never truly knew. Some did not know what organization they had "joined" until several years after their release.
+
+> **📝 Curator's Note**
+> Director Wu Nien-jen's films *A City of Sadness* and *Dust in the Wind* have prototypes from Lukuku. It is now called the "Lukuku Incident Memorial Park," which contains a memorial stele. In 2017, the son of the ringleader Chen Ben-jiang said at the memorial ceremony: "I apologize to everyone on behalf of my father." The apology of the perpetrators' descendants is very rare in White Terror memorial ceremonies.
 
 ---
 
-## Pourquoi cette page d'histoire n'est pas encore tournée
+## Green Island Bunks and Gao Yi-sheng's Letters
 
-Dire que « la Terreur Blanche, c'est du passé » est facile. La loi martiale levée en 1987, l'ordonnance pénale sur la rébellion abrogée en 1991, la fondation pour l'indemnisation créée en 1995, la Commission pour la justice transitionnelle lancée en 2018 — la machine d'État a cessé de tuer il y a 38 ans.
+In 1951, most political prisoners in Taiwan were concentrated on Green Island at the "New Life Training and Guidance Center" for ideological transformation. [^12] This institution existed until 1965, holding up to **2,000 people** at its peak, organized into 3 battalions and 12 companies, with each company holding 120 to 160 people. [^12]
 
-Mais si vous feuill'etez l'histoire familiale de n'importe quel Taïwanais né entre les années 1950 et 1980, et que vous parvenez aux pages concernant ses parents, les mots « se porter garant » apparaissent souvent — suivis d'un silence. Son oncle a refusé de cautionner quelqu'un, son voisin a autrefois servi de garant, son grand-père maternel a failli perdre son emploi faute de caution. Ce silence, c'est l'endroit où la Terreur Blanche n'est pas encore terminée.
+The "new lives" (prisoners were collectively called "new lives") attended three hours of ideological transformation classes daily: Sun Yat-sen's Last Will and Testament, the Leader's Words and Deeds, the Three Principles of the People, the Atrocities of the Communist Bandits, and the Critique of Communism. Other times were spent on labor: building houses, repairing roads, and growing vegetables.
 
-Chen Chih-hsiung fut fusillé à Machang en 1963. Kao I-sheng fut exécuté à Taipei en 1954. Shih Shui-huan fut abattue à Taipei en 1956. Leurs familles mirent un demi-siècle avant d'oser prononcer publiquement ces noms. La justice transitionnelle taïwanaise a annulé 5 983 condamnations,[^3] créé des sites commémoratifs, érigé des stèles.
+Victim Chang Ze-zhou later returned to the reconstructed barracks: "There were not enough bunks; many people had to sleep on the ground, and I was often woken up by many people stepping on me while sleeping on the ground!" [^12]
 
-Mais les descendants des 5 000 informateurs des campus universitaires vivent toujours à Taïwan, y travaillent, y votent. Ce que leurs pères ou grands-pères ont fait, aucune loi de lustration ne les oblige à l'expliquer.[^6] Ce qu'on appelle « le passé » n'a jamais fait l'objet d'un règlement de comptes public.
+Between 1953 and 1956, the New Life Training and Guidance Center also experienced the "Re-rebellion Case": people already serving sentences on Green Island were accused of continuing to organize connections in prison, sentenced again, and sent to serve even heavier sentences. [^12] Some were therefore imprisoned on Green Island for another ten-plus years.
 
-Ce n'est pas de la haine. C'est une comptabilité. La Terreur Blanche ne sera pas terminée le jour de la levée de la loi martiale ni le jour de la dissolution de la Commission pour la justice transitionnelle. Elle le sera quand la société taïwanaise acceptera de reconnaître que ce système, qui avait transformé deux millions de familles en réseau de surveillance mutuelle, a laissé des traces : dans notre méfiance vis-à-vis des voisins, des étrangers, et dans ce malaise que suscitent encore les mots « se porter garant ».
+### Gao Yi-sheng's 60 Letters
 
-**Pour aller plus loin :**
+Gao Yi-sheng (Tsou name: Uyongu Yatauyungana, 1908-1954) was an Alishan Tsou leader, musician, educator, and the first elected township mayor of Wu Feng Township (now Alishan Township). On September 10, 1952, he was lured down from Alishan by the bait of the "Mountain Security Conference" and imprisoned in the military justice detention center at No. 3 Qingdao East Road, Taipei. [^13]
 
-- La démocratisation de Taïwan — Quarante ans de transition d'un régime de loi martiale vers la démocratie la plus libre d'Asie
-- La période de la loi martiale — Le cadre juridique de 38 ans et 56 jours, et le processus qui y mit fin
-- La justice transitionnelle à Taïwan — L'enquête sur la vérité et la poursuite des responsables depuis la levée de la loi martiale : un chantier inachevé
-- L'incident du 28 février — Le prélude à la Terreur Blanche : la répression de 1947 et comment elle annonça le régime martial
-- L'incident de Formosa — Un tournant décisif à la fin de la Terreur Blanche, en 1979
-- L'Alishan : la forêt impériale et la montagne de Kao I-sheng — La montagne de Kao I-sheng et l'histoire d'un peuple réduit au silence
+During his two years in prison, he wrote 60 family letters in Japanese to send back to Alishan. [^13] On April 17, 1954, he and five others were executed in Taipei. The charge was "bandit spy gathering and rebellion."
 
-## Références
+The content of those letters was mostly trivial: to plant rice well, to take care of the children, to believe in God. Half a year before his execution, he wrote: "If I can return home safely, I will continue to work for the tribe."
 
-[^1]: [新台灣和平基金會：歷史上的今天——陳智雄先生受難日](https://www.twpeace.org.tw/wordpress/?p=2778) — Récit détaillé des derniers instants de l'exécution du 28 mai 1963 à Machang, incluant la hache, le fil de fer dans les joues et les cris en japonais « Vive l'indépendance de Taïwan ».
+On World Human Rights Day in 2013, Gao Yi-sheng's son, Gao Ying-jie, donated these 60 letters to the National Human Rights Museum. In 2020, the Ministry of Culture officially published *Gao Yi-sheng's Prison Letters*—this was the first book publication result of Taiwan's **Indigenous Transitional Justice**. [^14] Half a century later, the Tsou people could finally read the voice of their leader before his death in full.
 
-[^2]: [自由時報：白恐冤獄 10 年／廣播人崔小萍病逝](https://news.ltn.com.tw/news/life/paper/1085351) — Cite les chiffres officiels communiqués par le procureur en chef Chen Shou-huang au comité des affaires intérieures du Yuan législatif en 1988 : 29 407 jugements militaires prononcés contre des civils en 38 ans de loi martiale.
+> **📝 Curator's Note**
+> Gao Ying-jie, Gao Yi-sheng's son, said at the donation ceremony that he had read those letters for decades, but only now did he truly understand—because his father wrote in Japanese, and Gao Ying-jie's generation was raised by the Nationalist government forbidden to speak Japanese. White Terror did not just kill a Tsou tribal leader; it also severed the common language between two generations. The words written by the father were unreadable to the son; this is the deepest form of violence in White Terror.
 
-[^3]: [促進轉型正義委員會官方網站](https://www.tjc.gov.tw/) — 14 946 dossiers de personnes condamnées dans des affaires politiques, 876 condamnations à mort confirmées, 5 983 condamnations annulées au cours des quatre ans de mandat de la Commission.
+---
 
-[^4]: [台灣民間真相與和解促進會：白色恐怖簡介](https://taiwantrc.org/taiwan-history/white-terror-history/) — Organisation indépendante de recherche civile ; détails de fonctionnement du « système de caution solidaire » instauré par l'ordonnance de 1950, et statistiques faisant état de 1 061 exécutions pendant la loi martiale.
+## Why This History Has Not Ended
 
-[^5]: [風傳媒：白色恐怖外省受害達 46%！受難者蔡寬裕](https://www.storm.mg/article/487266) — Cite l'estimation de l'Exécutif de 2017 selon laquelle le nombre réel de victimes pourrait dépasser 200 000, et analyse le fait inattendu que 46 % des victimes étaient originaires de Chine continentale.
+It is easy to say "White Terror is over." Martial law was lifted in 1987, the Regulations for Punishing Rebellion were abolished in 1991, the Compensation Foundation was established in 1995, and the Transition Justice Commission began operations in 2018. The state machine has not killed for 38 years.
 
-[^6]: [Wikipedia: White Terror (Taiwan)](<https://en.wikipedia.org/wiki/White_Terror_(Taiwan)>) — Synthèse de sources académiques anglophones : entre 7 000 et 15 000 citoyens surveillés par an de 1980 à 2000, plus de 5 000 informateurs sur les campus universitaires en 1983, et analyse du contenu des archives des services de renseignement.
+But open the family history of any Taiwanese born in the 1950s-1980s, flip to the pages about their parents, and the word "guarantee" often appears, followed by a pause. His uncle refused to guarantee; his neighbor once guaranteed; his grandfather almost lost his job because he had no guarantor. That pause is where White Terror has not yet ended.
 
-[^7]: [報導者：尋找政治隱傷者──那些受難者、他們的家人，還有我們](https://www.twreporter.org/a/228-political-victims-families) — Grand reportage de la chercheuse Peng Jen-yu de l'Academia Sinica sur les survivants de la Terreur Blanche, avec le témoignage de Chen Meng-ho, encore convaincu d'être surveillé à la fin de sa vie.
+Chen Chih-hsiung was executed in Machangting in 1963. Gao Yi-sheng was executed in Taipei in 1954. Shih Shui-huan was executed in Taipei in 1956. Their families spent half a century before daring to publicly speak these names. Taiwan's transitional justice revoked 5,983 guilty verdicts, [^3] established memorial parks, and built memorial steles.
 
-[^8]: [國家人權記憶庫：柏楊大力水手漫畫案](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — Base de données des événements du Musée national des droits de l'homme : détails de la condamnation de Bo Yang en 1968 à douze ans de prison pour avoir traduit _Popeye_, et son maintien forcé à l'île Verte après sa peine purgée.
+But the descendants of those 5,000 university campus informants still live, work, and vote in Taiwan. What their fathers or grandfathers did is not required to be clarified by any decontamination law. [^6] The so-called "past" has never been publicly reconciled.
 
-[^9]: [維基百科：施水環](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Chronologie complète de l'arrestation de Shih Shui-huan en 1954 (après que son frère Shih Chih-cheng se fut caché deux ans chez elle) et de son exécution le 24 juillet 1956.
+This is not hatred; it is a ledger. The day White Terror ends will not be the day martial law was lifted, nor the day the Transition Justice Commission dissolved. It will be the day Taiwanese society is willing to admit: the system that turned two million families into a web of mutual surveillance, its traces are still carved into our unease towards neighbors, strangers, and the two words "guarantee."
 
-[^10]: [台灣民間真相與和解促進會：施水環的家書承載白色恐怖悲歌](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — Extraits des 69 lettres écrites par Shih Shui-huan à sa mère depuis sa cellule, avec leur contexte historique. Source essentielle pour l'étude des femmes victimes de la Terreur Blanche.
+**Further Reading**:
 
-[^11]: [自由時報：小檔案／鹿窟事件 最大白色恐怖案](https://news.ltn.com.tw/news/politics/paper/1145206) — Données complètes sur l'incident de Luku : arrestation de 896 personnes le 28 décembre 1952, 135 condamnations, 41 exécutions, 545 630 000 TWD d'indemnisations, blâme du Yuan de contrôle, et plus de 100 témoignages oraux recueillis par l'ancien directeur de l'Institut d'histoire nationale Chang Yen-hsien.
+- [Taiwan Democratic Transition](/history/台灣民主轉型) — The full picture of the forty-year transition from martial law to Asia's most liberal democratic system
+- [Martial Law Period](/history/戒嚴時期) — The legal container of 38 years and 56 days and the process of lifting martial law
+- [Taiwan Transitional Justice](/history/台灣轉型正義) — The unfinished business of truth investigation and perpetrator accountability after the lifting of martial law
+- [February 28 Incident](/history/二二八事件) — The prelude to White Terror, how the 1947 suppression foreshadowed the martial law regime
+- [Beautiful Island Incident](/history/美麗島事件) — An important turning point in the late White Terror period in 1979
+- [Alishan: The Empire's Forest Plantation and Gao Yi-sheng's Mountain](/history/阿里山：帝國的林場與高一生的山) — The story of Gao Yi-sheng's mountain and the silenced ethnicity
+- [Yin Haiguang](/people/殷海光) — The National Taiwan University philosophy professor who was placed under house arrest at No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
 
-[^12]: [國家人權博物館：新生訓導處](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — Histoire et fonctionnement du Centre de formation des nouvelles vies de l'île Verte (1951–1965) : jusqu'à 2 000 détenus, organisation en 3 bataillons et 12 compagnies, trois heures quotidiennes de rééducation idéologique, témoignages de victimes dont Zhang Ze-zhou.
+## References
 
-[^13]: [報導者：遙遠山谷的回音──沒有選擇的鄒族人與被遺忘的受難者](https://www.twreporter.org/a/white-terror-alishan) — Grand reportage sur le parcours de Kao I-sheng, du poste de maire de l'Alishan jusqu'à son exécution le 17 avril 1954, incluant les circonstances de l'arrestation par ruse en septembre 1952 et le contexte de ses lettres de prison.
+[^1]: [New Taiwan Peace Foundation: Historical Today — Mr. Chen Chih-hsiung's Victim Day](https://www.twpeace.org.tw/wordpress/?p=2778) — Records the final moments of the execution at Machangting on May 28, 1963, including details of axe-chopped feet, iron-wire pierced cheeks, and the Japanese shout "Long live the independence of Taiwan."
 
-[^14]: [中華民國文化部：落實原住民族轉型正義的里程碑《高一生獄中家書》新書問世](https://www.moc.gov.tw/information_250_111089.html) — Annonce du ministère de la Culture (2020) relative à la publication des lettres : don des 60 lettres au Musée national des droits de l'homme par Kao Ying-chieh le 10 décembre 2013, et publication après sept ans de traduction et d'édition — première publication d'une correspondance de prison dans le cadre de la justice transitionnelle pour les peuples autochtones.
+[^2]: [Liberty Times: 10 Years of White Terror Wrongful Imprisonment / Broadcaster Cui Xiaoping Passes Away](https://news.ltn.com.tw/news/life/paper/1085351) — Cites the official number reported by Chen Shou-huang, then Chief Public Prosecutor of the Ministry of Justice, in the Legislative Yuan's Internal Affairs Committee in 1988: a total of 29,407 criminal cases involving non-active-duty military personnel sentenced by military organs during the 38 years of martial law.
+
+[^3]: [Promotion of Transitional Justice Commission Official Website](https://www.tjc.gov.tw/) — Contains data on 14,946 political case defendants and 876 confirmed death sentences, with official statistics of 5,983 guilty verdicts revoked during its four-year term.
+
+[^4]: [Taiwan Truth and Reconciliation Commission: Introduction to White Terror](https://taiwantrc.org/taiwan-history/white-terror-history/) — An independent民间 research institution, organizing details of the operation of the "Joint Guarantee and Joint Liability System" established by the 1950 "Regulations for Suppressing Bandit Traitors during the Period of Rebellion," and statistics of 1,061 death row prisoners during the martial law period.
+
+[^5]: [Storm Media: White Terror Mainlander Victims Reach 46%! Victim Cai Kuan-yu](https://www.storm.mg/article/487266) — Cites the 2017 Executive Yuan estimate that the actual number of victims may exceed 200,000, and presents an analysis showing that Mainlander victims accounted for 46%, overturning general impressions.
+
+[^6]: [Wikipedia: White Terror (Taiwan)](https://en.wikipedia.org/wiki/White_Terror_%28Taiwan%29) — Synthesizes English academic sources to organize the scale of the surveillance system: 7,000-15,000 citizens monitored annually between 1980-2000, over 5,000 informants on university campuses in 1983, and analysis of intelligence file content.
+
+[^7]: [The Reporter: Finding Political Trauma Victims — Those Victims, Their Families, and Us](https://www.twreporter.org/a/228-political-victims-families) — A deep report by Academia Sinica Assistant Researcher Peng Jen-yu interviewing White Terror survivors, recording the lifelong trauma case of Chen Meng-he who still believed "there were secret agents at the door" in his later years.
+
+[^8]: [National Human Rights Memory Bank: Bo Yang's Popeye Comic Case](https://memory.nhrm.gov.tw/TopicExploration/Event/Detail/78?Year=1960&Type=0) — A victim event database established by the National Human Rights Museum, detailing the process of Bo Yang being sentenced to 12 years for translating the "Popeye" comic in 1968, and the details of being forcibly kept on Green Island after his sentence expired.
+
+[^9]: [Wikipedia: Shih Shui-huan](https://zh.wikipedia.org/zh-tw/%E6%96%BD%E6%B0%B4%E7%92%B0) — Records the complete timeline of Shih Shui-huan's arrest in 1954 due to her brother Shih Cheng-sheng hiding for two years and colleagues being implicated in the "Postal and Telecommunications Branch Case," and her execution by firing squad on July 24, 1956.
+
+[^10]: [Taiwan Truth and Reconciliation Commission: Shih Shui-huan's Family Letters Carry the Elegy of White Terror](https://taiwantrc.org/%E6%96%BD%E6%B0%B4%E7%92%B0%E7%9A%84%E5%AE%B6%E6%9B%B8-%E6%89%BF%E8%BC%89%E7%99%BD%E8%89%B2%E6%81%90%E6%80%96%E6%82%B2%E6%AD%8C/) — Contains complete excerpts of Shih Shui-huan's 69 family letters written to her mother in prison and historical background analysis, serving as important material for studying female victims of White Terror.
+
+[^11]: [Liberty Times: Small File / Lukuku Incident Largest White Terror Case](https://news.ltn.com.tw/news/politics/paper/1145206) — Organizes data on the Lukuku Incident occurring on December 28, 1952; 896 people arrested; 135 sentenced; 41 death sentences; compensation of NT$545.63 million; and former Academia Historica Director Chang Yan-hsien interviewing over 100 villagers.
+
+[^12]: [National Human Rights Museum: New Life Training and Guidance Center](https://www.nhrm.gov.tw/w/nhrm/GI_Buildings_21091113422074961) — The architectural history and operational details of the Green Island New Life Training and Guidance Center (1951-1965), including holding 2,000 people, organization into 3 battalions and 12 companies, three hours of daily ideological transformation classes, and excerpts from victim Chang Ze-zhou's memoirs.
+
+[^13]: [The Reporter: Echoes from a Distant Valley — The Tsou People with No Choice and the Forgotten Victims](https://www.twreporter.org/a/white-terror-alishan) — A deep report on Gao Yi-sheng's journey from Alishan Township Mayor to his execution on April 17, 1954, including the 1952 entrapment under the name of the "Mountain Security Conference" and the background of his prison letters.
+
+[^14]: [Ministry of Culture of the Republic of China: Milestone in Implementing Indigenous Transitional Justice *Gao Yi-sheng's Prison Letters* New Book Released](https://www.moc.gov.tw/information_250_111089.html) — A 2020 Ministry of Culture publication news, recording Gao Ying-jie's donation of 60 family letters to the National Human Rights Museum on World Human Rights Day in 2013, and the process of organizing and translating them over seven years, marking the first family letter publication for Indigenous Transitional Justice.

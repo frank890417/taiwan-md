@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'People/蔡阿嘎.md'
 sourceCommitSha: '9f58e3fd'
 sourceContentHash: 'sha256:bf1f88b91edcdfa2'
+sourceBodyHash: 'sha256:3835f3eeb33c205d'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

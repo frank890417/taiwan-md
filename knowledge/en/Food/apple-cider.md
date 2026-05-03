@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Food/蘋果西打.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:12b6dab4e16405b6'
+sourceBodyHash: 'sha256:fe306b29e346e954'
 translatedAt: '2026-05-03T21:10:03+08:00'
 ---
 

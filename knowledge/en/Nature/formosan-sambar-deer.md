@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣水鹿.md'
 sourceCommitSha: '21335999'
 sourceContentHash: 'sha256:026cdbb45cf7fc52'
+sourceBodyHash: 'sha256:dc8842a4b46a7f80'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

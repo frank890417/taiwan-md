@@ -10,6 +10,7 @@ lastHumanReview: false
 translatedFrom: People/蔣中正.md
 sourceCommitSha: 0851f334
 sourceContentHash: sha256:cc927a774bcfd71c
+sourceBodyHash: 'sha256:447dc5d1bea38591'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

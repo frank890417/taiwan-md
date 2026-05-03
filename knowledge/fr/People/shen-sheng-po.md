@@ -20,6 +20,7 @@ lastVerified: 2026-03-23
 translatedFrom: 'People/沈聖博.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:ba33a2f2652e311d'
+sourceBodyHash: 'sha256:c37a25a71c1fa8db'
 translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 

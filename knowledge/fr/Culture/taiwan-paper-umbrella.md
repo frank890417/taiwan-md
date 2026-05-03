@@ -21,6 +21,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Culture/紙傘.md'
 sourceCommitSha: '292ec5fe'
 sourceContentHash: 'sha256:2b63bb823fbdea45'
+sourceBodyHash: 'sha256:6966802b8bb41d32'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

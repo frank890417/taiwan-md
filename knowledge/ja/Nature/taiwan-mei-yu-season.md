@@ -10,7 +10,9 @@ readingTime: 16
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Nature/梅雨.md'
-sourceCommitSha: 'e8ef8b3e'
+sourceCommitSha: '14c7b362'
+sourceBodyHash: 'sha256:31c92fd7633ce35e'
+sourceContentHash: 'sha256:08c48a6ddad4519e'
 ---
 
 毎年5月中旬、最初の停滞前線が華南から南東方向に滑り落ちて台湾全体を覆うとき、気象キャスターは台湾人が幼い頃から聞き慣れた言葉を口にする：「梅雨（メイユー）のシーズンになりました」。季節の移り変わりを告げるロマンティックな宣言のように聞こえる。しかし亜熱帯に位置し、年間降雨量の7割が5月から10月に集中する島にとって[^1]、この前線は実は生死の賭けだ。降りすぎれば人が死に、降らなければ給水制限となる。その両者の間の極めて狭い隙間が、2,300万人の日常なのだ。

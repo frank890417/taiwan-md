@@ -13,6 +13,7 @@ lastHumanReview: true
 translatedFrom: 'Food/台灣咖啡文化.md'
 sourceCommitSha: 'd6f88550'
 sourceContentHash: 'sha256:d5066a4b19833167'
+sourceBodyHash: 'sha256:a7a3d68abd8527fd'
 translatedAt: '2026-05-01T22:19:01+08:00'
 ---
 

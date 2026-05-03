@@ -13,6 +13,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/珍珠奶茶.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95857cbd0268032d'
+sourceBodyHash: 'sha256:23c2ac3cebaa2348'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Food
 ---

@@ -13,6 +13,7 @@ readingTime: 22
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: 'd0f90f01'
 sourceContentHash: 'sha256:f9dece1224a3e27e'
+sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
 translatedAt: '2026-05-02T09:07:00+08:00'
 ---
 

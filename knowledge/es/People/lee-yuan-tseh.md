@@ -15,6 +15,7 @@ date: 2026-03-17
 translatedFrom: 'People/李遠哲.md'
 sourceCommitSha: 'bd58e088'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: '2026-04-14T12:25:09+08:00'
 description: 'Premio Nobel de Química en 1986, primer laureado taiwanés en ciencias. Su técnica de haz molecular cruzado permitió por primera vez «ver» el proceso de una reacción química a nivel molecular. Nacido en Hsinchu (新竹) en 1936, renunció a su cátedra en Berkeley para regresar a Taiwán y presidir la Academia Sinica (中央研究院) de 1994 a 2006.'
 ---

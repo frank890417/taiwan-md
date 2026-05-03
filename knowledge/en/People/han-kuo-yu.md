@@ -1,188 +1,183 @@
 ---
-title: 'Han Kuo-yu: Recalled by 939,000 Voters, Then Elected Speaker of Parliament'
-description: 'The first mayor in Taiwan history to be recalled from office — removed by a 37-to-1 margin in 2020. Four years later, he became Speaker of the Legislative Yuan, the highest position in Taiwan parliament. How does a democracy handle political resurrection?'
-date: 2026-04-13
-tags:
-  [
-    'politician',
-    'KMT',
-    'Legislative Yuan Speaker',
-    'Han wave',
-    'Kaohsiung',
-    '2018',
-    '2020',
-    '2024',
-  ]
-subcategory: 'Politics & Democracy'
-author: 'Taiwan.md'
-difficulty: 'intermediate'
+title: "Han Kuo-yu"
+description: "The first directly elected mayor in ROC constitutional history to be recalled, then became President of the Legislative Yuan four years later. What kind of political trajectory is this?"
+date: 2026-04-11
+author: "Taiwan.md"
+subcategory: "政治人物"
+tags: ["政治人物", "國民黨", "立法院長", "韓流", "高雄", "2018", "2020", "2024"]
 readingTime: 12
-featured: true
-lastVerified: 2026-04-13
+lastVerified: 2026-04-11
 lastHumanReview: false
-translatedFrom: 'People/韓國瑜.md'
-sourceCommitSha: '056136d7'
-sourceContentHash: 'sha256:f8d9a2a7a468041d'
-translatedAt: '2026-05-01T13:19:11+08:00'
-category: People
+featured: true
+translatedFrom: People/韓國瑜.md
+sourceCommitSha: 2d0c126f
+sourceContentHash: sha256:ee41f08167c2c2aa
+sourceBodyHash: sha256:73cf0e41be5a3b9e
+translatedAt: 2026-05-03T23:14:05+08:00
 ---
 
-# Han Kuo-yu: Recalled by 939,000 Voters, Then Elected Speaker of Parliament
+# Han Kuo-yu
 
 ## The Night of June 6, 2020
 
-At 7:25 PM on June 6, 2020, the Kaohsiung City Election Commission announced the results of the recall vote. Votes in favor of recalling Han Kuo-yu: **939,090**. Votes against: **25,051**. The ballots were still being counted elsewhere, but the outcome was already beyond doubt.[^1]
+At 7:25 PM on June 6, 2020, the Kaohsiung City Election Commission announced the vote count. Votes in favor of recalling Han Kuo-yu: **939,090** — nearly double the recall threshold of 570,000. Votes against: 25,051. The count had not yet finished, but the outcome was no longer in doubt.[^1]
 
-Han Kuo-yu, then 62 years old, became **the first directly elected mayor in Taiwan's constitutional history to be recalled from office**. His tenure as mayor of Kaohsiung had lasted **528 days** — also a record for the shortest mayoral term of any major city.[^2]
+Han Kuo-yu, 62 years old that year, became **the first directly elected mayor in ROC constitutional history to be recalled**. His tenure as Kaohsiung mayor lasted **528 days** — the shortest of any special municipality mayor on record.[^2]
 
-His political career appeared to be over. Five months earlier, in the January 2020 presidential election, he had lost to President Tsai Ing-wen by 2.65 million votes — 5.52 million to 8.17 million.[^3] Within six months, he had gone through something no politician in Taiwan's democratic era had ever experienced at that speed: presidential candidate → defeated → mayor recalled.
+His political career appeared to be over. In the January 2020 presidential election, he had lost to Tsai Ing-wen by 2.65 million votes — 5.52 million to 8.17 million.[^3] Five months later, he was recalled. Within six months, he experienced a sequence no politician in Taiwan's democratic history had ever endured at that speed: presidential candidate → defeated → mayor recalled.
 
-But the story did not end there.
+But the story did not end.
 
-On February 1, 2024, the same Han Kuo-yu took the oath of office as **Speaker of the 11th Legislative Yuan** — the highest position in Taiwan's parliament. The man who had been expelled from office by 939,000 voters four years earlier was now presiding over the national legislature.
+Four years later, on February 1, 2024, the same Han Kuo-yu stood in the Legislative Yuan chamber and was sworn in as **President of the 11th Legislative Yuan**. The highest position in the ROC legislature, held by a former mayor whom 930,000 voters had recalled four years earlier.
 
-Between 2020 and 2024, Han did not run in a single election. He did not win a single new political argument. He did one thing: **he waited**. He waited for the DPP to lose its legislative majority in the 2024 elections. He waited for the KMT to become the largest party in parliament. He waited for KMT Chairman Eric Chu to place him at the top of the party list. Then he came back.
+Between 2020 and 2024, Han Kuo-yu did not contest a single new election and did not win a single new debate. He did only one thing: **wait**. Wait for the DPP to lose its absolute majority in the 2024 presidential election, wait for the KMT to become the largest party in the Legislative Yuan, wait for Eric Chu to place him at the top of the party list. And then he came back.
 
-Between political death and political resurrection, there was nothing but a party-list nomination.
+Between political death and political resurrection, there was only a party list.
 
-> **30-Second Overview**: Han Kuo-yu (韓國瑜), born 1957 in Banqiao, Taipei, is a second-generation mainlander whose father fled Henan province for Taiwan in 1949. He attended the ROC Military Academy's short course, earned a bachelor's from Soochow University's English department, and a master's from National Chengchi University's Graduate Institute of East Asian Studies — a pipeline that trained Cold War-era KMT elites. He served as legislator for three terms (1993–2002), then faded from public life. After a stint as general manager of the Taipei Agricultural Products Marketing Corporation (北農), he was nominated as a sacrificial candidate for the 2018 Kaohsiung mayoral race — and won by 150,000 votes in a city the DPP had held for 20 years, riding a populist wave called the "Han wave" (韓流). Four months into his mayoral term he announced a presidential bid, lost by 2.65 million votes in January 2020, and was recalled in June with a 37-to-1 margin. In 2024, placed first on the KMT's party list, he returned to the Legislative Yuan and was elected Speaker on February 1.
+> **30-second overview**: Han Kuo-yu, born in 1957 in Banciao, Taipei, is a second-generation waishengren with ancestral roots in Shangqiu, Henan. He is a graduate of the ROC Military Academy's intensive program, Soochow University's English Department, and National Chengchi University's Graduate Institute of East Asian Studies. He served as a legislator in the 2nd–4th Legislative Yuan and as deputy mayor of Zhonghe, Taipei County. After becoming general manager of the Taipei Agricultural Marketing Corporation in 2016, he spent three years in obscurity. In 2018, he ran as the KMT candidate for Kaohsiung mayor, riding slogans like "Kaohsiung will get rich," "northbound drift," and "goods go out, people come in" to ignite the "Han Wave," winning by 150,000 votes. Four months after taking office in 2019, he announced his presidential bid. In January 2020, he lost the presidential election by 2.65 million votes; on June 6 of the same year, he was recalled, becoming the first mayor in constitutional history to be recalled. In 2024, he returned to the Legislative Yuan as the KMT's top party-list legislator and was elected President of the Legislative Yuan on February 1.
 
-## From Banqiao to Kaohsiung
+## From Banciao, Taipei to the Kaohsiung Frontline
 
-Han Kuo-yu grew up as a "second-generation mainlander" (外省第二代) in Banqiao, a district in what is now New Taipei City. His father was from Shangqiu, Henan province, and had crossed the Taiwan Strait with the retreating Nationalist government in 1949. His mother was also of mainlander heritage. He was raised in or near a military dependents' village (眷村), the type of community that shaped a generation of postwar KMT-aligned families.[^4]
+Han Kuo-yu's family background is that of a "second-generation waishengren from Banciao, Taipei." His father, from Shangqiu, Henan, came to Taiwan with the Nationalist government in 1949. His mother was also of waishengren origin. He grew up in or near a military dependents' village in Banciao — a typical postwar first-generation waishengren household.[^4]
 
-His education traced a path typical of mainlander elite grooming during the Cold War: **military training, humanities degree, cross-strait expertise**. He first attended a short-course program at the ROC Military Academy — not the full four-year officer track, but enough to give him a military foundation. He then earned a bachelor's degree in English literature at Soochow University, followed by a master's at National Chengchi University's Graduate Institute of East Asian Studies, Taiwan's most prestigious academic program for studying China. Graduates of the institute typically went into national security, diplomacy, or cross-strait policy.
+His educational path blended military and liberal arts training. He attended the ROC Military Academy's intensive program — a short-term military training course, not the standard four-year program. After graduating from the intensive track, he earned a bachelor's degree in English from Soochow University, then a master's degree from National Chengchi University's Graduate Institute of East Asian Studies. The Institute is Taiwan's most prominent academic institution for China studies, and its graduates typically enter the national security, diplomatic, or cross-strait research systems.
 
-In 1993, he was elected to the Legislative Yuan. He would win three consecutive terms (the 2nd, 3rd, and 4th sessions, spanning 1993 to 2002), earning a reputation as a political "gunner" — aggressive, combative, willing to go head-to-head with opposition legislators in the bare-knuckle style of 1990s Taiwanese parliamentary politics.
+These three stages of education reflect a classic "second-generation waishengren elite" trajectory: **military foundation + humanities degree + cross-strait studies specialization**. This was not a random combination but a standard formula the KMT system used to cultivate its own successors during the Cold War era. For second-generation waishengren born in the 1950s–1970s who wanted to enter politics, similar educational paths were common.
 
-After 2002, Han gradually disappeared from public view. He served as deputy mayor of Zhonghe in Taipei County — a position with no political visibility. From 2013 to 2017, he was general manager of the **Taipei Agricultural Products Marketing Corporation** (北農), a government-linked company that manages Taipei's wholesale fruit and vegetable market. In political terms, the job was closer to exile than leadership.
+In 1993, he was elected to the 2nd Legislative Yuan and went on to serve three consecutive terms (2nd, 3rd, and 4th Legislative Yuan, 1993–2002). During his nine years in the legislature, he was known as a "firebrand" — someone willing to berate, to charge, and to confront opponents head-on. The KMT needed people like that at the time, because DPP legislators were fighting the same way.
 
-He vanished from the public eye. Until 2018.
+After 2002, Han Kuo-yu gradually faded from the political scene. He served as deputy mayor of Zhonghe, Taipei County, but that was not a position that could put him back in front of cameras. From 2013 to 2017, he served as general manager of the **Taipei Agricultural Marketing Corporation** (TAMC) — a job managing a fruit and vegetable wholesale market, politically speaking close to exile.
 
-## "Kaohsiung Getting Rich": How a Slogan Changed a City
+During this period, he virtually disappeared from public view. Until the unexpected events of 2018.
 
-In 2018, Taiwan held its local elections. The KMT needed a candidate for Kaohsiung — a city the DPP had governed continuously since 1998, making it the party's most reliable stronghold in southern Taiwan. No serious KMT figure wanted the assignment.
+## "Kaohsiung Will Get Rich": How One Slogan Changed a City
 
-Han Kuo-yu was nominated. The party's calculation was simple: he would lose, but his outsized personality could generate media attention and help KMT candidates in other cities. **He was a sacrifice bunt.**
+In the 2018 nine-in-one local elections, the KMT needed a candidate for Kaohsiung. Kaohsiung had been a "green stronghold" under DPP rule for twenty consecutive years since 1998, and no politician from any KMT faction wanted to be the sacrificial lamb.
 
-Then the "Han wave" (韓流) happened.
+Han Kuo-yu was nominated. The prevailing calculation was: he will lose anyway, so find someone loud enough to "run alongside" and generate momentum, while also helping the KMT campaign in other counties and cities. **He was the sacrifice.**
 
-His campaign language had a density and directness that Taiwanese politics had never seen:
+Then the "Han Wave" happened.
 
-- **"One bottle of mineral water, one bowl of braised pork rice"** (一瓶礦泉水，一碗滷肉飯) — a declaration that he wasn't backed by corporations and was running on the cheapest things he could find
-- **"Northbound drifters"** (北漂青年) — he gave a name to the phenomenon of young Kaohsiung residents forced to migrate to Taipei for work
-- **"Goods going out, people coming in, Kaohsiung getting rich"** (貨出得去，人進得來，高雄發大財) — three phrases that packaged economic stagnation and hope into a single slogan[^5]
+His campaign language had a density never before seen in Taiwanese politics:
 
-These slogans shared a common trait: **extremely concrete, extremely populist, extremely emotional**. They skipped policy details. They bypassed governance philosophy. They went straight for the rawest nerve — young people leaving, the economy stagnating, hope evaporating. And they were designed to be copied, forwarded, and turned into internet memes.
+- **"A bottle of mineral water, a bowl of braised pork rice"** — signaling that he did not rely on corporate money, that he campaigned on the cheapest things
+- **"Northbound drift" (beipiao)** — naming the phenomenon of Kaohsiung natives forced to leave home to find work in Taipei
+- **"Goods go out, people come in, Kaohsiung will get rich"** — three phrases packaging economic hardship and hope into a single slogan[^5]
 
-The Reporter (報導者), Taiwan's leading investigative outlet, classified the "Han wave" after the election as an **anti-narrative, anti-elite, grassroots** phenomenon.[^6] Taiwan's political discourse at the time was dominated by the Tsai Ing-wen administration's language of reform, internationalism, and progressive values. For some voters — particularly those aged 40 to 49 who had watched Kaohsiung's economy decline — that language was incomprehensible.
+What these slogans shared was: **extreme concreteness, extreme populism, extreme emotion**. They did not discuss policy details or governance philosophy; they went straight to voters' most primal pain points — young people could not stay, the economy was not growing, there was no hope. And they could be replicated, shared, and turned into internet memes.
 
-Han gave them **something they could say**.
+*The Reporter*'s post-election analysis in 2018 classified the "Han Wave" as an **anti-establishment, anti-elite, grassroots** electoral phenomenon.[^6] At the time, Taiwan's political narrative was dominated by the DPP under President Tsai Ing-wen, with language that leaned toward the rational, the international, reform, and progress. For certain voters — particularly those aged 40–49 who had witnessed Kaohsiung's economic glory and watched it decline — this language was incomprehensible and unwelcome.
 
-In November 2018, Han defeated his opponent Chen Chi-mai by **150,000 votes**, winning the Kaohsiung mayorship. The DPP's green stronghold turned blue. It was the first time the party had lost Kaohsiung since 1998.
+Han Kuo-yu's emergence gave them **something they could say**.
+
+In November 2018, Han Kuo-yu defeated his opponent Chen Chi-mai by a margin of **150,000 votes**, becoming mayor of Kaohsiung. Green territory turned blue. It was the first time the DPP had lost Kaohsiung since 1998.
 
 ## Four Months Later, He Decided to Run for President
 
-The trouble started immediately after.
+The problem came next.
 
-In late February 2019 — barely four months into his mayoral term — Han began signaling his intention to run for president in 2020. He framed it as a "passive candidacy," claiming he would wait for the KMT to draft him. In practice, his team was organizing rallies across the country. He was already running.
+By late February to early March 2019 — only four months after being elected mayor of Kaohsiung — Han Kuo-yu began signaling his intention to run for the 2020 presidency. He said he was a "passive candidate," waiting for the KMT to formally draft him; but in reality, his team was staging rallies across the country, effectively launching a presidential campaign.
 
-This decision was the beginning of his political collapse.
+This decision was the starting point of his political collapse.
 
-Kaohsiung voters had elected him to revive the local economy, not to use their city as a presidential launchpad. With Han on the national campaign trail, Kaohsiung's city government ground to a halt — the mayor was rarely at his desk, his cabinet lacked direction, major construction projects stalled, and cross-city negotiations froze. Chen Chi-mai would later win the August 2020 by-election handily, running on the simple promise of a mayor who actually shows up.[^7]
+Kaohsiung voters had elected him hoping he would "boost the economy and make Kaohsiung rich," not use the mayoralty as a springboard to the presidency. When he threw himself into the presidential race, Kaohsiung's city governance effectively ground to a halt — the mayor was absent from Kaohsiung most of the time, his cabinet lacked leadership, major projects stalled, and cross-municipality negotiations stalled. Chen Chi-mai later won the August 2020 by-election easily, running precisely on the platform of "having a mayor who can focus on the job."[^7]
 
-Han's performance in the presidential race made things worse. On January 11, 2020:
+Worse still was Han Kuo-yu's performance in the presidential election. On January 11, 2020:
 
 - Tsai Ing-wen / Lai Ching-te: **8,170,231 votes** (57.13%)
 - Han Kuo-yu / Chang San-cheng: **5,522,119 votes** (38.61%)
-- James Soong / Sandra Yu: 1,050,600 votes (4.26%)
+- James Soong / Yu Hsiang: 1,050,600 votes (4.26%)
 
-**Han lost by 2.65 million votes** — the third-largest margin in Taiwan's presidential election history.[^3]
+**Han Kuo-yu lost by a margin of 2.65 million votes**. This was the third-largest margin of defeat in the history of Taiwan's direct presidential elections, behind only Ma Ying-jeou's 2.21 million-vote margin over Frank Hsieh in 2008 and Tsai Ing-wen's 3.08 million-vote margin over Eric Chu in 2016.
 
-The myth of the Han wave, born in November 2018, died thirteen months later in January 2020.
+The Han Wave mythology of 2018 became the Han Wave collapse thirteen months later, in January 2020.
 
-## The Recall: A City's Verdict
+## Recall: A City's Punishment
 
-Two weeks after the presidential election, Kaohsiung residents launched a recall petition. The charge was straightforward: **Han had used Kaohsiung as a stepping stone for his presidential ambitions, breaking his promise to the voters who elected him**.
+Two weeks after the presidential election, Kaohsiung citizens launched a recall petition. The reason: **Han Kuo-yu used Kaohsiung as a springboard for his presidential bid, breaking his promise to voters**.
 
-Taiwan's recall process has three stages: proposal (1% of eligible voters sign), petition (10% sign), and vote (approval requires more than 25% of eligible voters voting yes, and yes must exceed no). Kaohsiung's recall petition hit the threshold in record time — the process that was expected to take at least four months was completed in two.[^8]
+The recall process has three stages: proposal (1% petition signatures), petition drive (10% signatures), and vote (approval votes must exceed 25% of eligible voters and outnumber opposition votes). Kaohsiung's recall petition set a record for speed — what was originally estimated to take at least four months was completed in just two.[^8]
 
-On June 6, 2020, Kaohsiung voted. Turnout: **42%**. Yes to recall: **939,090**. No: **25,051**.[^1]
+The vote was held on June 6, 2020. Turnout was **42%**. Votes in favor of recall: **939,090**. Votes against: **25,051**.[^1]
 
-Put those two numbers side by side. **939,000 versus 25,000.** Those who wanted him gone outnumbered those who wanted him to stay by a factor of **37**. This was not a close call. This was a city's unequivocal rejection of one man.
+The two numbers side by side make the picture even clearer: **939,000 vs. 25,000**. Those in favor of recall outnumbered those against by a factor of **37**. This was not a close result — it was a city's total repudiation of one person.
 
-Han Kuo-yu became **the first directly elected mayor to be recalled** in Taiwan's constitutional history.[^2] His 528-day tenure remains the shortest of any mayor of a special municipality.
+Han Kuo-yu became the **first directly elected mayor in ROC constitutional history to be recalled**.[^2] His 528-day tenure also became the shortest of any special municipality mayor on record.
 
-That night, Han's statement was brief: "I respect the decision of the people of Kaohsiung." No anger, no excuses, no conspiracy theories. It was the opposite of his 2018 "Kaohsiung getting rich" exuberance — but perhaps it was closer to his real personality: a second-generation mainlander with a soldier's discipline and a politician's sense of timing, who knew when to bow.
+That night, Han Kuo-yu's statement was brief: "I respect the decision of Kaohsiung's citizens." No anger, no defense, no conspiracy theories. This was the polar opposite of his 2018 "Kaohsiung will get rich" fervor — but perhaps this was his true character: a second-generation waishengren who blended military discipline with political calculation, someone who knew when to bow his head.
 
-## From Recalled Mayor to Speaker of Parliament: Four Years of Waiting
+## From Recall to President of the Legislative Yuan: Four Years of Waiting
 
-From June 2020 to November 2023, Han Kuo-yu was almost invisible. He did not run for any office. He held no party position. He did not host a television show. He did not write a book. He appeared occasionally at internal KMT events but led no significant debates.
+From June 2020 to November 2023, Han Kuo-yu virtually disappeared from public view. He did not run for any local office, did not hold any party position, did not host a television show, and did not publish a book. He occasionally appeared at internal KMT events but did not lead any major debates.
 
-Those three years were a carefully calibrated wait.
+These three years were a carefully orchestrated wait.
 
-In January 2024, Taiwan held its combined presidential and legislative elections. The result: the DPP won the presidency (Lai Ching-te and Hsiao Bi-khim, 40%) but **lost its majority in the Legislative Yuan**. The seat distribution:
+In January 2024, Taiwan held the 16th presidential and vice-presidential election alongside the 11th Legislative Yuan election. The result was that the DPP won the presidency (Lai Ching-te and Hsiao Bi-khim with 40%) but **lost its absolute majority in the Legislative Yuan**. The seat distribution:
 
 - KMT: **52 seats** (largest party)
 - DPP: 51 seats
-- Taiwan People's Party (TPP): 8 seats
+- Taiwan People's Party: 8 seats
 - Independents: 2 seats
 
-The KMT had become the largest party by a single seat, giving it the constitutional convention to nominate the Speaker.
+The KMT became the largest party in the Legislative Yuan by a one-seat margin and, by constitutional convention, could nominate the President of the Legislative Yuan.
 
-In late 2023, KMT Chairman Eric Chu announced that Han Kuo-yu would be placed **first on the party's at-large list** — a position that guaranteed his election to the legislature regardless of district results.[^9] Chu's reasoning: Han's low-profile retreat after his recall demonstrated respect for democratic institutions; his mobilization power remained a KMT asset; and his debate experience and cross-faction negotiation skills made him suitable for the Speaker's chair.
+Eric Chu (KMT chairman) announced in late 2023 that Han Kuo-yu would be the KMT's number-one party-list legislator for 2024.[^9] The reasoning: Han Kuo-yu's low-profile restraint after the Kaohsiung recall demonstrated his respect for democratic institutions; his campaign mobilization ability remained an asset for the KMT; and as a candidate for Legislative Yuan President, he had debate experience, media charisma, and a background in cross-factional negotiation.
 
-First place on the party list meant "guaranteed elected." When ballots were counted on January 13, 2024, Han was back in the Legislative Yuan.
+The number-one party-list slot meant "guaranteed election." On January 13, 2024, the KMT's party-list seats were allocated according to vote share, and Han Kuo-yu returned to the Legislative Yuan.
 
-On February 1, the first day of the new session, the KMT and TPP voted together to elect Han as Speaker. The result: Han **54 votes** (52 KMT + 2 TPP), versus 51 for the DPP's nominee.
+On February 1, the first day of the new session, the KMT and TPP jointly nominated Han Kuo-yu for President of the Legislative Yuan. The vote: Han Kuo-yu received **54 votes** (52 from the KMT + 2 from the TPP), while the DPP's nominee You Si-kun received 51. Han Kuo-yu was elected President of the Legislative Yuan.
 
-From recalled mayor to Speaker of Parliament: **3 years and 8 months**.
+From recall to President of the Legislative Yuan: **3 years and 8 months**.
 
-## Two Lives of One Politician
+## Epilogue: A Politician's Two Lives
 
-Han Kuo-yu's story raises a question that is rarely examined closely: **he is the first person in Taiwan's democratic history to experience both a constitutional-level recall and a constitutional-level return**.
+There is a dimension of Han Kuo-yu's story that is rarely examined closely: **he is the first politician in Taiwan's democratic system to have experienced both recall and resurrection**.
 
-No precedent exists in Taiwan's four decades of democracy. Chen Shui-bian was prosecuted and never returned. Lien Chan retreated from frontline politics after losing the party chairmanship. James Soong oscillated through multiple runs but never reached the center of power again. Han is **the only person to have been removed from office through a formal recall — and then seated in the highest position of the national legislature**.
+The path from being recalled in June 2020 to assuming the presidency of the Legislative Yuan in February 2024 has no precedent in the four decades since Taiwan's democratization. Chen Shui-bian did not return after being indicted; Lien Chan retreated behind the scenes after losing the party chairmanship; James Soong rose and fell multiple times as PFP chairman but never returned to the central core. Han Kuo-yu is **the only person to have undergone a constitutional-level recall and then occupied the highest parliamentary position at the constitutional level**.
 
-The significance is not about Han personally. It is about **what recall actually does**.
+The significance of this is not about him personally. It is about **what the recall system actually accomplishes in practice**.
 
-By design, recall is the people's ultimate sanction against a derelict official. But Han's case reveals that recall only removes a person from **one specific office** — not from political life itself. Kaohsiung voters recalled him as their mayor, but they could not prevent him from becoming a legislator, a party leader, or anything else. All he had to do was wait for the next opening.
+By design, recall is the people's ultimate sanction against a derelict official. But from Han Kuo-yu's example, recall in practice only means "losing a specific office" — it does not mean "losing a political life." Voters recalled him as mayor of Kaohsiung, but they could not recall him from serving as a legislator, a chairman, or any other position. He could wait — as long as a new opportunity appeared, he could come back.
 
-This is a notable feature of Taiwan's constitutional design: **individual offices can be subject to recall, but individual politicians cannot be permanently barred**. The logic has merit — it prevents political persecution and preserves the people's freedom to choose. But the cost is that failed politicians can always come back.
+This is an interesting feature of Taiwan's constitutional system: **individual offices can be recalled, but individual politicians are not permanently banned**. There are sound reasons for this (avoiding political persecution, preserving the people's freedom to choose), but there is also a cost (failed politicians can keep coming back).
 
-Han's return in February 2024 made that cost visible. When the man who was kicked out of Kaohsiung City Hall by 939,000 voters walked into the Legislative Yuan chamber to take the oath as Speaker of the national parliament — what did those 939,000 votes mean?
+Han Kuo-yu's return in February 2024 brought this cost into the open. When the person whom 930,000 voters had kicked out of Kaohsiung City Hall walked into the Legislative Yuan chamber four years later and was sworn in as the highest official of the national legislature — what did those 930,000 votes from Kaohsiung mean?
 
-One interpretation: democracy does not hold grudges. A recall is a decision about the present, not a sentence for eternity.
+One interpretation is: democracy does not hold grudges. A recall is a decision about the present, not an eternal verdict.
 
-Another interpretation: recall is limited by design. It guarantees the right to remove a mayor, but not the right to never see that person again. Democracy is procedure, not emotion.
+Another interpretation is: recall is inherently limited by design. It guarantees the right to "remove a mayor" but does not guarantee the right to "never see this person again." Democracy is a procedure, not an emotion.
 
-The truth is probably somewhere in between. And Han Kuo-yu may be the quietest beneficiary of that procedural gap.
+The truth probably lies somewhere in between. And Han Kuo-yu himself may be the quietest beneficiary of this procedural gap.
 
 ---
 
-**延伸閱讀**：
+**Further Reading**:
 
-- [Cheng Li-wun](/en/People/cheng-li-wun) — The two most important KMT figures of 2025–2026: one is party chair, the other is Speaker of the Legislative Yuan, representing different ecosystems within the party
-- [Taiwan's Political Landscape and Electoral System](/en/Society/taiwan-political-landscape-and-electoral-system) — Why does the party-list system allow recalled politicians like Han to return? The answer lies in the electoral rules themselves
-- [Ko Wen-je](/en/People/ko-wen-je) — Another figure who went from outsider to mayor to presidential candidate to the center of a political storm; the "rise-and-fall" arc mirrors Han's
-- [Tsai Ing-wen](/en/People/tsai-ing-wen) — The president who defeated Han by 2.65 million votes in 2020 and reshaped Taiwan's international positioning during her eight years in office
+- [2026 Zheng-Xi Meeting: Ten Minutes of Cross-Strait Leadership Reunion After a Decade](/society/2026鄭習會與國共十年再會) — The 2026 Legislative Yuan budget negotiations in April, presided over by Han Kuo-yu; the Zheng-Xi meeting and the Legislative Yuan's special budget bill fell in the same week
+- [Cheng Li-wen](/people/鄭麗文) — Two of the most important KMT figures in 2025–2026, one the party chairman and the other the Legislative Yuan President, representing different ecosystems within the party
+- [Hsiao Bi-khim](/people/蕭美琴) — A counterpoint: Hsiao Bi-khim spent six years in Hualien before winning a legislative seat; Han Kuo-yu was recalled after 528 days in Kaohsiung. Democracy has many kinds of time curves
+- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — How does the party-list legislator system allow "recalled politicians" like Han Kuo-yu to come back? The answer lies in the electoral rules themselves
+- [Ko Wen-je](/people/柯文哲) — Another figure who went from political outsider to mayor, from mayor to presidential candidate, from presidential candidate to the eye of the storm; the "meteoric rise and fall" structure is similar
+- [Lu Shiow-yen](/people/盧秀燕) — The other pole of the 2018 Han Wave, the Taichung mayor who flipped blue territory to blue the same year as Han Kuo-yu
+- [Hsin Chiao-hsin](/people/徐巧芯) — The key proponent of the NT$80 billion military procurement version in the 2026 arms purchase controversy, and a critical presence in Han Kuo-yu's Legislative Yuan negotiations
+- [Chi Lin-lian](/people/季麟連) — The vice chairman who threatened at the April 29, 2026, Central Standing Committee meeting that "those who sell the party for personal glory should be expelled" — the real target of that statement was Han Kuo-yu
 
-## 參考資料
+## References
 
-[^1]: [First Recall of a Directly Elected Mayor in Taiwan — CNA](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — Central News Agency coverage from the night of June 6, 2020, recording the final recall vote tally: 939,090 in favor, 25,051 against, with approximately 42% turnout, and Han Kuo-yu's historic distinction as the first recalled mayor of a special municipality.
+[^1]: [Han Kuo-yu Becomes First Mayor in History to Be Recalled; Approval Votes Exceed 930,000 — CNA](https://www.cna.com.tw/news/firstnews/202006065005.aspx) — CNA's real-time report on the evening of June 6, 2020, recording the final vote count of the Kaohsiung mayoral recall: 939,090 in favor, 25,051 against, approximately 42% turnout, and Han Kuo-yu's historical status as the first recalled mayor in constitutional history.
 
-[^2]: [Taiwan's First Recalled Local Chief — The Reporter](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — The Reporter's comprehensive coverage of the recall, documenting Han's record-short 528-day tenure, the speed of the petition process, and the breakdown of voting patterns across Kaohsiung's districts.
+[^2]: [Recall Record: First Local Executive Recalled in Taiwan's History — The Reporter](https://www.twreporter.org/a/kaohsiung-han-kuo-yu-recall-result) — The Reporter's comprehensive in-depth coverage of the 2020 recall, documenting Han Kuo-yu's 528-day tenure as the shortest of any special municipality mayor, the speed of the recall petition drive, and turnout distribution, serving as a first-hand historical archive of the recall case in Taiwan's democratic system.
 
-[^3]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's entry recording the complete results of the January 11, 2020 presidential election: Tsai Ing-wen/Lai Ching-te 8.17 million votes, Han Kuo-yu/Chang San-cheng 5.52 million votes, and the 2.65-million-vote margin.
+[^3]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's record of the full results of the January 11, 2020, presidential election: Tsai Ing-wen and Lai Ching-te 8.17 million votes, Han Kuo-yu and Chang San-cheng 5.52 million votes, James Soong and Yu Hsiang 1.05 million votes, and Han Kuo-yu's 2.65-million-vote margin of defeat.
 
-[^4]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's biographical entry for Han, recording his birth on June 17, 1957 in Banqiao, Taipei, his family's roots in Shangqiu, Henan, and his educational path through the Military Academy, Soochow University, and NCCU.
+[^4]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's Han Kuo-yu entry, recording his birth on June 17, 1957, in Banciao, Taipei, his second-generation waishengren background with ancestral roots in Shangqiu, Henan, and his educational path from the ROC Military Academy intensive program → Soochow University English Department → National Chengchi University Graduate Institute of East Asian Studies.
 
-[^5]: [Kaohsiung Getting Rich — Wikipedia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Wikipedia's dedicated entry for Han's signature campaign slogan, documenting the full set of catchphrases and their role in creating the "Han wave" phenomenon.
+[^5]: [Kaohsiung Will Get Rich — Wikipedia](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%9B%84%E7%99%BC%E5%A4%A7%E8%B2%A1) — Wikipedia's dedicated entry on "Kaohsiung Will Get Rich," comprehensively cataloging the core slogan set from Han Kuo-yu's 2018 Kaohsiung mayoral campaign ("a bottle of mineral water, a bowl of braised pork rice," "northbound drift," "goods go out, people come in") and how these slogans formed the linguistic structure of the "Han Wave" phenomenon.
 
-[^6]: [Anti-Narrative, Anti-Elite, Grassroots: How the "Han Wave" Was Born — The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — The Reporter's post-election analysis of the 2018 Kaohsiung mayoral race, classifying the "Han wave" as an anti-narrative, anti-elite, grassroots movement and explaining why middle-aged voters in their 40s became Han's strongest base.
+[^6]: [Anti-Establishment, Anti-Elite, Grassroots — How Did the "Han Wave" Begin? — The Reporter](https://www.twreporter.org/a/2018-election-kaohsiung-han-kuo-yu) — The Reporter's in-depth post-election analysis of the 2018 nine-in-one elections, positioning the "Han Wave" as an anti-establishment, anti-elite, grassroots electoral phenomenon and explaining why Kaohsiung's middle-aged voters aged 40–49 became Han Kuo-yu's most solid base of support.
 
-[^7]: [How Kaohsiung Recalled Han Kuo-yu — CommonWealth Magazine](https://www.cw.com.tw/article/5100601) — CommonWealth Magazine's analysis of how Han's city government effectively shut down after he entered the presidential race, and the political dynamics that carried Chen Chi-mai to an easy victory in the August 2020 by-election.
+[^7]: ["The Most Annoying Thing Is When Someone from Another City Asks You If You've Gotten Rich Yet" — How Did Kaohsiung Recall Han Kuo-yu? — CommonWealth Magazine](https://www.cw.com.tw/article/5100601) — CommonWealth Magazine's feature analyzing how Kaohsiung's city governance ground to a halt after Han Kuo-yu entered the presidential race, and the political momentum behind Chen Chi-mai's easy victory in the August 2020 by-election.
 
-[^8]: [Han Kuo-yu Recall — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Wikipedia's complete record of the recall's legal procedures, the petition speed (completed in two months instead of the expected four), the 42% turnout, and district-level vote breakdowns.
+[^8]: [Han Kuo-yu Recall Case — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C%E7%BD%B7%E5%85%8D%E6%A1%88) — Wikipedia's complete record of the legal procedures of the Han recall case, the petition speed (originally estimated at four months, shortened to two months to reach the threshold), 42% turnout, and district-by-district vote count details.
 
-[^9]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's documentation of KMT Chairman Eric Chu's November 2023 announcement placing Han first on the party's at-large list, and Han's election as Speaker of the 11th Legislative Yuan on February 1, 2024 with 54 votes.
+[^9]: [Han Kuo-yu — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%9F%93%E5%9C%8B%E7%91%9C) — Wikipedia's record of Eric Chu's November 2023 announcement placing Han Kuo-yu as the KMT's number-one party-list legislator for 2024, and the process by which Han was elected President of the 11th Legislative Yuan with 54 votes on February 1, 2024.

@@ -20,6 +20,7 @@ lastHumanReview: '2026-04-27'
 translatedFrom: 'People/蕭上農.md'
 sourceCommitSha: '32e53d5b'
 sourceContentHash: 'sha256:0c7501412dac27dc'
+sourceBodyHash: 'sha256:9108cdc7ca125f4b'
 translatedAt: '2026-05-01T01:46:13+08:00'
 ---
 

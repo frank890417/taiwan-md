@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Geography/台灣生態多樣性熱點.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9dea4a4cafb753d9'
+sourceBodyHash: 'sha256:4398643bac3fb675'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

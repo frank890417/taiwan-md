@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：奇美實業.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ef66216f5745267b'
+sourceBodyHash: 'sha256:311e82e102e15eb1'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Chimei Corporation: Building a Plastics Empire and Museum Dreams'
 description: "Starting from a small Tainan factory in 1960, Hsu Wen-lung spent his life building Asia's largest ABS materials empire and creating the Chimei Museum to give back to society — proving Taiwanese enterprises can balance commercial success with humanistic values"

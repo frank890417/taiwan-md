@@ -20,6 +20,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Nature/台灣穿山甲.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:a5b003502d2f617c'
+sourceBodyHash: 'sha256:842dfe18f6392e3e'
 translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 

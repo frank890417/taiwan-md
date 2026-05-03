@@ -24,6 +24,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣米食文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0e38833f3cafaf68'
+sourceBodyHash: 'sha256:2354ee60853945b0'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

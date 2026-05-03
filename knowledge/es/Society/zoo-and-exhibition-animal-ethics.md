@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Society/動物園與展演動物倫理.md'
 sourceCommitSha: 'ecb173b1'
 sourceContentHash: 'sha256:b513829394ccaf6f'
+sourceBodyHash: 'sha256:0dbde865ec05f5ab'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

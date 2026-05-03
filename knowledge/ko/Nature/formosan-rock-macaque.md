@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: Nature/台灣獼猴.md
 sourceCommitSha: dd7a1d1c
 sourceContentHash: sha256:cdaa1e14237e0765
+sourceBodyHash: 'sha256:a5f55aca8739dd3e'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

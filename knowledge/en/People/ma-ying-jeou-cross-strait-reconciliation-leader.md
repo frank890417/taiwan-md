@@ -2,6 +2,7 @@
 translatedFrom: 'People/馬英九.md'
 sourceCommitSha: 'c860d150'
 sourceContentHash: 'sha256:b41414618f20f1f9'
+sourceBodyHash: 'sha256:a0f41267758763fd'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: 'Ma Ying-jeou: Cross-Strait Peacemaker, or the President Who Gave Young People the 22K Wage'
 description: '12th and 13th President of the Republic of China, architect of cross-strait détente, and the governing backdrop of 22K wage stagnation and the Sunflower Movement'

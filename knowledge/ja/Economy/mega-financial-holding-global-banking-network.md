@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：兆豐金控.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:d45f458eabe77e3c
+sourceBodyHash: 'sha256:9b950fb292247748'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: Economy
 ---

@@ -31,6 +31,7 @@ featured: false
 translatedFrom: People/陳建騏.md
 sourceCommitSha: 7bcc3ce4
 sourceContentHash: sha256:c90f8347c6874063
+sourceBodyHash: 'sha256:dfabea754d57944a'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

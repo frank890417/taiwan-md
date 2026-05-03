@@ -4,6 +4,7 @@ description: "From Taipei Fine Arts Museum to Taiwan Pavilion at Venice Biennale
 translatedFrom: 'Art/當代藝術.md'
 sourceCommitSha: '8f223cb2'
 sourceContentHash: 'sha256:f34b45fd8d60d61d'
+sourceBodyHash: 'sha256:ed5f10b1668f4639'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-03-17
 tags:

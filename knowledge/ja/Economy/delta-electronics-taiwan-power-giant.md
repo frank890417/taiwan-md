@@ -21,6 +21,7 @@ featured: true
 translatedFrom: Economy/台灣企業：台達電子.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:731abae76b18888c
+sourceBodyHash: 'sha256:5afb6209c3e31868'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

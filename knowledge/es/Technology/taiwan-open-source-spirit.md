@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Technology/台灣開源精神.md'
 sourceCommitSha: '0ed55e20'
 sourceContentHash: 'sha256:8cc121a9cccbf90a'
+sourceBodyHash: 'sha256:98feb4bab36f053f'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

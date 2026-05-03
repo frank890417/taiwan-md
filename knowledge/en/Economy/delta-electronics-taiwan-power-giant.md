@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：台達電子.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:731abae76b18888c'
+sourceBodyHash: 'sha256:5afb6209c3e31868'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Delta Electronics: Taiwan's Power Giant"
 description: 'A 13-year-old war refugee turned global power industry legend: how NT$300,000 redefined global energy efficiency — and earned an asteroid named after its founder.'

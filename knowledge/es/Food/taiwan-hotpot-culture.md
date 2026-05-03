@@ -17,6 +17,7 @@ lastHumanReview: false
 translatedFrom: Food/台灣火鍋.md
 sourceCommitSha: 86d067a0
 sourceContentHash: sha256:72f8e11ac02c2d55
+sourceBodyHash: 'sha256:e301e6416dd3bfb4'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

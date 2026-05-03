@@ -22,6 +22,7 @@ imageAlt: 'Galette à la ciboule'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9da552eaab0e9bd8'
+sourceBodyHash: 'sha256:3bb2b7ca8725757b'
 translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 

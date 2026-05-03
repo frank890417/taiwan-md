@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/侯孝賢.md'
 sourceCommitSha: '4a5b7958'
 sourceContentHash: 'sha256:6d8c55c9c5279972'
+sourceBodyHash: 'sha256:ef42d53af786cc39'
 translatedAt: '2026-05-02T08:58:00+08:00'
 ---
 

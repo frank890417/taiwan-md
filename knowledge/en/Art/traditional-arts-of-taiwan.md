@@ -23,6 +23,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Art/台灣傳統藝術.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8199dcc4edeb2fce'
+sourceBodyHash: 'sha256:de7228ea44ad062e'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
 sourceCommitSha: '55515887'
 sourceContentHash: 'sha256:67b51d615cc671f3'
+sourceBodyHash: 'sha256:e36cd08c05108020'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

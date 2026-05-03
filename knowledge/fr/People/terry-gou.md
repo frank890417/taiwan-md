@@ -12,6 +12,7 @@ translatedFrom: 'People/郭台銘.md'
 lastVerified: 2026-03-19
 sourceCommitSha: '812e7574'
 sourceContentHash: 'sha256:c664670d7a17c38d'
+sourceBodyHash: 'sha256:c8dae517fa5b8bde'
 translatedAt: '2026-04-14T19:19:05+08:00'
 ---
 

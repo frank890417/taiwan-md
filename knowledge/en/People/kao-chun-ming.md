@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'People/高俊明.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f0ff3506d945b448'
+sourceBodyHash: 'sha256:b37aec09305a898c'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

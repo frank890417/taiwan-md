@@ -12,6 +12,7 @@ readingTime: 8
 translatedFrom: 'People/李登輝.md'
 sourceCommitSha: 'cbc2ad44'
 sourceContentHash: 'sha256:abb6965eff228c6c'
+sourceBodyHash: 'sha256:5c229e19645654a0'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

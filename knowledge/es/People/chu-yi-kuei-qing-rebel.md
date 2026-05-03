@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: People/朱一貴.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:59a6177c37cf5305
+sourceBodyHash: 'sha256:731cd7121531d2ac'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

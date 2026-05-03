@@ -6,6 +6,7 @@ description: 'La era prehistórica y los pueblos indígenas de Taiwán son el pu
 translatedFrom: 'History/史前時代與原住民.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:eba099f97dfd72b7'
+sourceBodyHash: 'sha256:8c391dd4c70e68f1'
 translatedAt: '2026-04-17T10:33:16+08:00'
 category: History
 ---

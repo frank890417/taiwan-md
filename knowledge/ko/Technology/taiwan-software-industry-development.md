@@ -12,6 +12,7 @@ translatedFrom: 'Technology/台灣軟體產業發展.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8309e00340ef142f'
+sourceBodyHash: 'sha256:36e9be3523de2f2b'
 translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 

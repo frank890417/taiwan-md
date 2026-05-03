@@ -20,6 +20,7 @@ lastVerified: 2026-03-22
 translatedFrom: 'Economy/台灣企業：台達電子.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:731abae76b18888c'
+sourceBodyHash: 'sha256:5afb6209c3e31868'
 translatedAt: '2026-04-14T19:20:40+08:00'
 ---
 

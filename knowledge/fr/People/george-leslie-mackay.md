@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: "People/馬偕.md"
 sourceCommitSha: "c018a424"
 sourceContentHash: "sha256:96659af055b707e8"
+sourceBodyHash: 'sha256:eca40022361b6a3e'
 translatedAt: "2026-04-14T19:19:52+08:00"
 ---
 

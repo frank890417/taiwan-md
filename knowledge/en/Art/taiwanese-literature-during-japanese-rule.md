@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: Art/日治時期文學.md
 sourceCommitSha: 'f553d365'
 sourceContentHash: 'sha256:19723b834d9cebfa'
+sourceBodyHash: 'sha256:f40bf580a8b9cd38'
 translatedAt: '2026-04-30T22:50:13+08:00'
 description: "From the Treaty of Shimonoseki in 1895 to Japan's surrender in 1945, Taiwanese literature was born as an independent voice amid colonial pressure. Lai Ho (賴和), the Father of Taiwan's New Literature, Yang Kuei (楊逵), and Lu Ho-jo (呂赫若) used Chinese and Japanese to resist, record, and create — forging a realist tradition and localized literary language that shaped all subsequent Taiwanese writing."
 ---

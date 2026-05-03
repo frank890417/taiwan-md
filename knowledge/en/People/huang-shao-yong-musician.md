@@ -30,6 +30,7 @@ researchReport: reports/research/2026-04/黃少雍.md
 translatedFrom: 'People/黃少雍.md'
 sourceCommitSha: '7bcc3ce4'
 sourceContentHash: 'sha256:65cb3b32c20f1e8b'
+sourceBodyHash: 'sha256:7cbe89f3dbd3a776'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

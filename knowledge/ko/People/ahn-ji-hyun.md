@@ -13,6 +13,7 @@ translatedFrom: 'People/安芝儇.md'
 readingTime: 9
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:5c8ae9f4892807a5'
+sourceBodyHash: 'sha256:727da6d1403587b0'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

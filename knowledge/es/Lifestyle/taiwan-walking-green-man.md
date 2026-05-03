@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/小綠人.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e13c8539ecf8a7a9'
+sourceBodyHash: 'sha256:83cbb50293e2fd70'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：瑞昱半導體.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ab958b73a4cbe23f'
+sourceBodyHash: 'sha256:c4557fee064c4c66'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwanese Companies: Realtek Semiconductor'
 description: 'Seven engineers, NT$2 million startup capital, and a little crab that crawled into every computer worldwide — the legendary story of Realtek Semiconductor.'

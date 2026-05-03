@@ -11,6 +11,7 @@ lastVerified: 2026-03-21
 translatedFrom: 'Culture/媽祖與大道公的傳說.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e0f0df37674e0a42'
+sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'
 translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 

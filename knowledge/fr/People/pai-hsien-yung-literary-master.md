@@ -21,6 +21,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/白先勇.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:183a7b2c5ae7a688'
+sourceBodyHash: 'sha256:3a8baf67f474184b'
 translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 

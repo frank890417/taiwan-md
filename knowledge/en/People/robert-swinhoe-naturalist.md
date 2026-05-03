@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'People/史溫侯.md'
 sourceCommitSha: '3aba2ea3'
 sourceContentHash: 'sha256:50b13c3a31e0a1c0'
+sourceBodyHash: 'sha256:e6b263814c7b1995'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

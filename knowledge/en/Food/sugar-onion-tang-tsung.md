@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Food/糖蔥.md'
 sourceCommitSha: '9f58e3fd'
 sourceContentHash: 'sha256:7505e08b5ce9d500'
+sourceBodyHash: 'sha256:383a8a9c19be37a9'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

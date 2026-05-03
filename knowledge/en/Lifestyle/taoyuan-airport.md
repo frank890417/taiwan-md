@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Lifestyle/桃園機場.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:1479fcc5eaa28fc5'
+sourceBodyHash: 'sha256:1fbc8f5240a8c4b8'
 translatedAt: '2026-05-03T21:10:03+08:00'
 ---
 

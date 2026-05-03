@@ -23,6 +23,7 @@ featured: true
 translatedFrom: 'Culture/台灣感性.md'
 sourceCommitSha: 'b1d38be3'
 sourceContentHash: 'sha256:785a3e1b4966025f'
+sourceBodyHash: 'sha256:3803abbb5597e9da'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

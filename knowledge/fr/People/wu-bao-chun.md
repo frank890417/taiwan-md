@@ -21,6 +21,7 @@ lastVerified: 2026-04-05
 translatedFrom: 'People/吳寶春.md'
 sourceCommitSha: '55c3ff6a'
 sourceContentHash: 'sha256:8ca95111311b9e7a'
+sourceBodyHash: 'sha256:99516f459f833e82'
 translatedAt: '2026-04-14T19:14:43+08:00'
 ---
 

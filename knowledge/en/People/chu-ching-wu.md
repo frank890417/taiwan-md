@@ -18,6 +18,7 @@ featured: true
 translatedFrom: 'People/朱經武.md'
 sourceCommitSha: '4af626f4'
 sourceContentHash: 'sha256:9903e2c37b2cac97'
+sourceBodyHash: 'sha256:f63f17fd12a83b6a'
 translatedAt: '2026-04-29T14:30:19Z'
 ---
 

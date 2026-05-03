@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/許文龍.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:73deed1e850fca3f'
+sourceBodyHash: 'sha256:f354ab65e7c9ebc7'
 translatedAt: '2026-04-14T19:18:50+08:00'
 ---
 

@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: "History/國民政府遷台與戰後重建.md"
 sourceCommitSha: "0851f334"
 sourceContentHash: "sha256:062e901c57b47a6e"
+sourceBodyHash: 'sha256:0192d7f4368e5ad1'
 translatedAt: "2026-04-14T12:31:49+08:00"
 ---
 

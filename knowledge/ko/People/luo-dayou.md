@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/羅大佑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b0a18557d65ed7e'
+sourceBodyHash: 'sha256:ba7bb27a205ded8d'
 translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 

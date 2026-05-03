@@ -13,6 +13,7 @@ lastVerified: 2026-04-05
 translatedFrom: 'Culture/巴哈姆特.md'
 sourceCommitSha: 'bf1be5e5'
 sourceContentHash: 'sha256:1eeea7390de68e10'
+sourceBodyHash: 'sha256:01a8577cdb53218c'
 translatedAt: '2026-04-14T07:55:26+08:00'
 ---
 

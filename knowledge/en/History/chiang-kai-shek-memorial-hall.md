@@ -2,6 +2,7 @@
 translatedFrom: 'History/中正紀念堂.md'
 sourceCommitSha: '603c911a'
 sourceContentHash: 'sha256:c4755ffdce1f19d7'
+sourceBodyHash: 'sha256:3ae76649f6776188'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: 'Chiang Kai-shek Memorial Hall'
 date: 2026-04-10

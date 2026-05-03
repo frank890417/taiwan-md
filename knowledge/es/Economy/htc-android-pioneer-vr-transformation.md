@@ -20,6 +20,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：宏達電.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:e3a135605ed275be
+sourceBodyHash: 'sha256:5fbf8f52118423a5'
 translatedAt: 2026-05-02T01:17:17+08:00
 category: Economy
 ---

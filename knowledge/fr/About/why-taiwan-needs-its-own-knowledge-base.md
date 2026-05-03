@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'About/為什麼台灣需要自己的知識庫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:62ec81a90f901dec'
+sourceBodyHash: 'sha256:352de879384e19e9'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

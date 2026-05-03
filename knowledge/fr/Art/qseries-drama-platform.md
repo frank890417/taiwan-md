@@ -19,6 +19,7 @@ lastVerified: 2026-03-30
 translatedFrom: 'Art/植劇場.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:52ebdd617f88ce4b'
+sourceBodyHash: 'sha256:c47cc8538936b060'
 translatedAt: '2026-04-14T19:14:02+08:00'
 ---
 

@@ -22,6 +22,7 @@ lastHumanReview: 'false'
 translatedFrom: 'People/林宥嘉.md'
 sourceCommitSha: '4d3d206a'
 sourceContentHash: 'sha256:ff4d0a0deab286ca'
+sourceBodyHash: 'sha256:e37ed40c36801365'
 translatedAt: '2026-05-01T20:54:10+08:00'
 ---
 

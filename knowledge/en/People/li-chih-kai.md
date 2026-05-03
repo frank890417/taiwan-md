@@ -2,6 +2,7 @@
 translatedFrom: 'People/李智凱.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:40c8b34419f44594'
+sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: 'Li Chih-kai'
 description: "From 'Market Kai' in the documentary Tumbling Boys to an Olympic silver medal — sixteen years of tumbling through life for Taiwan's Pommel Horse Prince."

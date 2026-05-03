@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣中小企業與隱形冠軍.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:51e4bbc49efeda40'
+sourceBodyHash: 'sha256:a547cd2ed92973fa'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Taiwan's SMEs and Hidden Champions: The Economic Miracle Carried by 1.71 Million Seemingly Ordinary Companies"
 description: "The true backbone of Taiwan's economy is not the Sacred Mountain but 1.71 million seemingly ordinary yet hidden-champion companies that create 79% of all employment. From the black-handed craftsmen of the 1960s to today's precision manufacturing kingdoms dominating global niche markets."

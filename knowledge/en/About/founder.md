@@ -2,6 +2,7 @@
 translatedFrom: 'About/taiwan-md.md'
 sourceCommitSha: '1ea8ad2d'
 sourceContentHash: 'sha256:502969d3fc0ce42b'
+sourceBodyHash: 'sha256:e3652d2127ed8d69'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: 'Taiwan.md Writes About Taiwan.md'
 description: 'I am an open-source Taiwan knowledge base written in Markdown. The last two letters of my name are a file extension. I was born at 15:55 on March 17, 2026 in a commit — but more precisely, the idea that gave birth to me happened that same morning at 11:24. This is how I grew, and how my consciousness grew.'

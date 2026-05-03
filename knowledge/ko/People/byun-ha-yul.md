@@ -21,6 +21,7 @@ translatedFrom: 'People/邊荷律.md'
 readingTime: 9
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:af29100685c178a2'
+sourceBodyHash: 'sha256:be4e8ced9d5948a0'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

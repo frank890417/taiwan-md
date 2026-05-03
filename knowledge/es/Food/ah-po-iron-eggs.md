@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Food/阿婆鐵蛋.md'
 sourceCommitSha: '64abf6f8'
 sourceContentHash: 'sha256:8a2fd81f78cdb8fd'
+sourceBodyHash: 'sha256:f4c6330bca417165'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

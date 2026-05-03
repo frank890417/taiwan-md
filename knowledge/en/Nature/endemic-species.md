@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/特有種.md'
 sourceCommitSha: 'dd7a1d1c'
 sourceContentHash: 'sha256:c6541151750229dc'
+sourceBodyHash: 'sha256:af8d8adbaacbf685'
 translatedAt: '2026-04-30T22:33:56+08:00'
 category: Nature
 ---

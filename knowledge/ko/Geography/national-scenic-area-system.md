@@ -11,6 +11,7 @@ featured: true
 translatedFrom: 'Geography/台灣國家風景區系統.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9369d7f73b449799'
+sourceBodyHash: 'sha256:efc3d350be263a65'
 translatedAt: '2026-04-14T19:29:12+08:00'
 ---
 

@@ -14,6 +14,7 @@ lastHumanReview: true
 translatedFrom: 'Technology/台灣Game-Jam社群.md'
 sourceCommitSha: '64b5ebd9'
 sourceContentHash: 'sha256:f932c57f5b497190'
+sourceBodyHash: 'sha256:09023ab1d3d01f3b'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

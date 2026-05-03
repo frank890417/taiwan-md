@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: "People/蕭青陽.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:c5122b24e37ed6e1"
+sourceBodyHash: 'sha256:e16c316da3c37c97'
 translatedAt: "2026-04-14T19:18:50+08:00"
 ---
 

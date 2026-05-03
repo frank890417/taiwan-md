@@ -11,6 +11,7 @@ lastVerified: 2026-03-20
 translatedFrom: "Economy/台灣企業：瑞昱半導體.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:ab958b73a4cbe23f"
+sourceBodyHash: 'sha256:c4557fee064c4c66'
 translatedAt: "2026-04-14T19:20:58+08:00"
 ---
 

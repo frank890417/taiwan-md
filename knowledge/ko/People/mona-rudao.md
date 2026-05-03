@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/莫那·魯道.md'
 sourceCommitSha: '221b1708'
 sourceContentHash: 'sha256:87f54ad98e5a6fd1'
+sourceBodyHash: 'sha256:b0bcf45b1cb74d70'
 translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 

@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: People/江蕙.md
 sourceCommitSha: 221b1708
 sourceContentHash: sha256:af8cff27f6cadb30
+sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

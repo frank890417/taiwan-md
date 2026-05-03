@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: "Music/流行音樂與金曲獎.md"
 sourceCommitSha: "800114ea"
 sourceContentHash: "sha256:adb300b59de6c935"
+sourceBodyHash: 'sha256:811e10d5510abbcf'
 translatedAt: "2026-04-15T17:33:06+08:00"
 ---
 

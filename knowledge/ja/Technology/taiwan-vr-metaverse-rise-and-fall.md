@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/台灣VR元宇宙興衰史.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:cfb9196e79bb6e49'
+sourceBodyHash: 'sha256:3f0b5464187691ec'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

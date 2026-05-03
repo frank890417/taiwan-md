@@ -20,6 +20,7 @@ lastHumanReview: '2026-04-20'
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:b4ed377dcae75954'
+sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

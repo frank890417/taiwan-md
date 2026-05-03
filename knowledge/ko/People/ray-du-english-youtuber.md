@@ -12,6 +12,7 @@ lastHumanReview: 2026-04-20
 translatedFrom: People/阿滴.md
 sourceCommitSha: fceb6784
 sourceContentHash: sha256:bc1390f13b2a7b07
+sourceBodyHash: 'sha256:5621e86f4a6c80eb'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

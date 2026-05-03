@@ -22,6 +22,7 @@ featured: true
 translatedFrom: 'Art/造山者世紀的賭注.md'
 sourceCommitSha: '1ddc3b1d'
 sourceContentHash: 'sha256:48d568156f2d8bb9'
+sourceBodyHash: 'sha256:dae45d5a23a409e0'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

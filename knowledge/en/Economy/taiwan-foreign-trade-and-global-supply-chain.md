@@ -1,7 +1,8 @@
 ---
 translatedFrom: 'Economy/台灣外貿與全球供應鏈.md'
-sourceCommitSha: '800114ea'
-sourceContentHash: 'sha256:0bedf0b86c577b3b'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:c9c74a5987b6a57a'
+sourceBodyHash: 'sha256:fc166b853b9db56b'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "Taiwan's Foreign Trade and Global Supply Chain"
 description: 'From export-oriented economy to critical supply chain node: how Taiwan maintains its trade advantages amid the US-China rivalry.'

@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
 sourceCommitSha: 'c67109e5'
 sourceContentHash: 'sha256:e107d04eb050c288'
+sourceBodyHash: 'sha256:a029918b717ecd13'
 translatedAt: '2026-05-02T11:00:00+08:00'
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：玉山金控.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:36f7111132b226f6'
+sourceBodyHash: 'sha256:2ffe06cc95fa29ee'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Enterprise: E.SUN Financial Holding'
 description: "From Taiwan's first specialized credit card bank to digital finance pioneer — the breakthrough story of the youngest financial holding CEO in Taiwan history, appointed at age 43"

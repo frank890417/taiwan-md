@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/北大特區.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:2524aef473a0d29f'
+sourceBodyHash: 'sha256:5dd08710e022e3aa'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:14226e8150e93598'
+sourceBodyHash: 'sha256:8cf8889ff81d5115'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Taiwan's Circular Economy and Resource Recycling"
 description: "From linear to circular economy — exploring Taiwan's resource recovery, waste management, and sustainable development models"

@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/施明德.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:04fdf466b4f03b64'
+sourceBodyHash: 'sha256:178620cfcfd0c288'
 translatedAt: '2026-04-14T19:15:12+08:00'
 ---
 

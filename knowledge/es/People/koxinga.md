@@ -21,6 +21,7 @@ readingTime: 12
 translatedFrom: 'People/鄭成功.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:15604abc01d2e3f4'
+sourceBodyHash: 'sha256:8cc0f510721f307f'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

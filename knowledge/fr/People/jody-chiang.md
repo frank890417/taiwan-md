@@ -18,6 +18,7 @@ lastVerified: 2026-03-28
 translatedFrom: 'People/江蕙.md'
 sourceCommitSha: '221b1708'
 sourceContentHash: 'sha256:af8cff27f6cadb30'
+sourceBodyHash: 'sha256:09c26c642594595d'
 translatedAt: '2026-04-14T19:16:13+08:00'
 ---
 

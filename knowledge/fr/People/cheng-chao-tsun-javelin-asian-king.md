@@ -12,6 +12,7 @@ translatedFrom: "People/鄭兆村.md"
 lastVerified: 2026-03-19
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:bd6e73b952c9405f"
+sourceBodyHash: 'sha256:885d51e85cef03b2'
 translatedAt: "2026-04-14T19:19:21+08:00"
 ---
 

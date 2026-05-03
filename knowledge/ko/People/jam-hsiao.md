@@ -10,6 +10,7 @@ featured: false
 translatedFrom: 'People/蕭敬騰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4623d2d2492d155b'
+sourceBodyHash: 'sha256:be34f4048a4b8d45'
 translatedAt: '2026-04-14T19:25:05+08:00'
 ---
 

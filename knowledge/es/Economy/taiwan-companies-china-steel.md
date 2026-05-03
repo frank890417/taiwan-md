@@ -19,6 +19,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：中鋼.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:046697b621d130dd
+sourceBodyHash: 'sha256:3296fd82b3d8a938'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: Economy
 ---

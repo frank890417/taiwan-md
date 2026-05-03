@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Society/移工.md'
 sourceCommitSha: 'dc87c2a6'
 sourceContentHash: 'sha256:5d7c6ddfd68cedc4'
+sourceBodyHash: 'sha256:223753ff8fc1f5ae'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

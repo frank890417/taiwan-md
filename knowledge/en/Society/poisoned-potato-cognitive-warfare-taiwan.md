@@ -21,6 +21,7 @@ imageAlt: 'Potato harvest season in Aroostook County, Maine, 1940 (US Farm Secur
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: 'd0f90f01'
 sourceContentHash: 'sha256:dad5e0b9d38ca4de'
+sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
 translatedAt: '2026-04-30T22:33:56+08:00'
 ---
 

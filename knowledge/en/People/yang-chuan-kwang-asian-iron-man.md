@@ -8,6 +8,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/楊傳廣.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5d0505271985f7c6'
+sourceBodyHash: 'sha256:ff6a32229cacea3d'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

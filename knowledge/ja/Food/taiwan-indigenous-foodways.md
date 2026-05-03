@@ -24,6 +24,7 @@ featured: 'false'
 translatedFrom: 'Food/台灣原住民飲食文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
+sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

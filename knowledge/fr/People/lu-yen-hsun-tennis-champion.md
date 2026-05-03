@@ -13,6 +13,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/盧彥勳.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:6523387459c64d0d'
+sourceBodyHash: 'sha256:aff790edf2ef15aa'
 translatedAt: '2026-04-14T19:16:28+08:00'
 ---
 

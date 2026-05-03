@@ -12,6 +12,7 @@ translatedFrom: "Technology/數位身分證與數位政府.md"
 lastVerified: 2024-01-01
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:b4175e4786ecfd7b"
+sourceBodyHash: 'sha256:ddd000a6b90bc6a2'
 translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 

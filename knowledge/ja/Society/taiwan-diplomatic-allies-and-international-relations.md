@@ -1,175 +1,355 @@
 ---
-title: '台湾の邦交国と国際外交（2026年現況）'
-description: '2026年に邦交国がわずか12カ国となった台湾——70カ国から12カ国へ、国連席次なしでいかに国際的存在感を維持するか'
-date: 2026-03-19
-tags: ['外交', '邦交国', '国際関係', '両岸関係', '国連']
-subcategory: '国際関係'
-category: 'Society'
-author: 'Taiwan.md Translation Team'
-readingTime: 12
-featured: true
+title: "Taiwan's Diplomatic Allies and International Diplomacy: 12 Allies, 113 Missions, 177 Visa-Free Countries (2026)"
+description: "On January 15, 2024, within 48 hours of Lai Ching-te's election as President, Nauru announced the severance of diplomatic ties, reducing the number of allied nations from 13 to 12. However, in the same year, Taiwan established 113 overseas missions, its passport allows visa-free access to 177 countries, TSMC produces 90% of the world's advanced chips, and the European Parliament passed a resolution opposing China's distortion of UN General Assembly Resolution 2758 with a vote of 432:60:71. Paper recognition is shrinking, while the shadow network is expanding, and the battle over international law interpretation is reversing."
+date: 2026-04-28
+tags: ['Diplomacy', 'Allied Nations', 'International Relations', 'Cross-Strait', 'United Nations', 'Silicon Shield']
+subcategory: 'International Relations'
+author: 'Taiwan.md Contributors'
+readingTime: 16
+lastVerified: 2026-04-28
+lastHumanReview: false
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: 'ed7dc86e'
-sourceContentHash: 'sha256:fbde4b685ace42ba'
-translatedAt: '2026-05-01T14:48:26+08:00'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:6086e56d55bdfe3c'
+translatedAt: '2026-05-04T00:04:35+08:00'
 ---
 
-# 台湾の邦交国と国際外交
+# Taiwan's Diplomatic Allies and International Diplomacy: 12 Allies, 113 Missions, 177 Visa-Free Countries
 
-## 30秒で把握する
+> **30-Second Overview:** The Republic of China (Taiwan) currently has **12 allied nations**, the fewest among the world's major economies. At the same time, Taiwan has established approximately **113 overseas missions** in **71 countries**, its citizens' passports allow entry to **177 countries and regions**[^1], TSMC produces approximately 90% of the world's high-end chips[^2], and in 2024, the European Parliament passed a resolution opposing China's distortion of UN Resolution 2758 with a vote of **432:60:71**[^3]. These three sets of numbers stand side by side; this is the entirety of the article.
 
-台湾（中華民国）の正式な邦交国は現在**12カ国**——世界の主要経済体の中で最も少ない水準です。1969年には70カ国を誇りましたが、1971年の国連脱退を機に減り続けました。それでも台湾は独自の方法で国際的存在感を保っています。世界110カ所以上に駐外機構を設け、主要国と実質的な関係を維持し、半導体産業では世界の要となっています。12カ国という数字は、台湾外交の氷山の一角にすぎません。
+## 48 Hours After Lai Ching-te's Election
 
-## 現在の12邦交国（2026年）
+On the evening of January 13, 2024, Lai Ching-te won the presidential election.
 
-中華民国外交部の公式データによります。
+Two days later (January 15) at 11:45 AM, Nauru President David Adeang held a press conference in the capital of Yaren, announcing that "Nauru recognizes the People's Republic of China as the sole legitimate government representing China," thereby terminating diplomatic relations with the Republic of China immediately[^4].
 
-### アジア太平洋地域（3カ国）
+Then-Minister of Foreign Affairs Joseph Wu was in Guatemala at the time.
 
-| 国名           | 国交樹立年 | 人口      | 備考                                  |
-| -------------- | ---------- | --------- | ------------------------------------- |
-| マーシャル諸島 | 1998年     | 約4.2万人 | 太平洋島嶼国、米国自由連合盟約国      |
-| パラオ         | 1999年     | 約1.8万人 | 太平洋島嶼国、観光業中心              |
-| ツバル         | 1979年     | 約1.1万人 | 世界第4位の小国、海面上昇の脅威に直面 |
+His reaction, according to reports from Ministry of Foreign Affairs officials, was "very angry"—because significant effort had been invested in Nauru[^5]. At 2:15 PM, Political Deputy Minister of Foreign Affairs Tian Zhongguang held a press conference in Taipei, revealing that Nauru's new government was "demanding exorbitant aid from us and comparing prices with the mainland": Nauru sought to fill the fiscal gap left by Australia closing its domestic refugee processing centers (approximately NT$2.6 billion per year, more than half of Nauru's national annual budget), plus engineering costs for the 2026 Micronesia Games[^6]. After Taiwan evaluated and sought cooperation with neighboring countries, negotiations were still in the mid-stage when China promised Nauru $100 million in annual aid[^7]. Nauru chose the side with the higher bid.
 
-### アフリカ地域（1カ国）
+> **📝 Curator's Note**
+> Taiwan has grown accustomed to losing on the issue of allied nations. From a peak of 70 countries in 1969 to 12 in 2024, the average loss is more than one per country over fifty years. However, after reading this article, you will find that the number of allied nations is just one thread of Taiwan's diplomacy—and not the most critical one.
 
-| 国名         | 国交樹立年 | 人口      | 備考                             |
-| ------------ | ---------- | --------- | -------------------------------- |
-| エスワティニ | 1968年     | 約120万人 | アフリカ唯一の邦交国、絶対君主制 |
+## From 70 to 12: A Half-Century of Disintegration
 
-### ヨーロッパ地域（1カ国）
+| 70 → 22 | 21 → 12 |
+| --------------------------- | ------------------------ |
+| 1969-1988 (Chiang Kai-shek, Chiang Ching-kuo) | 2016-2024 (Tsai Ing-wen, 8 years) |
 
-| 国名             | 国交樹立年 | 人口    | 備考                                         |
-| ---------------- | ---------- | ------- | -------------------------------------------- |
-| バチカン（聖座） | 1942年     | 約800人 | 世界カトリックの中心、1942年から断絶なく継続 |
+The number of the Republic of China's allied nations did not peak during the era in Taipei, but in the height of the Cold War, shortly after retreating to Taiwan from Nanjing. In 1969, there were 70 countries, relying on the overall layout of the anti-communist camp[^8].
 
-### ラテンアメリカ・カリブ海地域（7カ国）
+This was followed by a series of turning points:
 
-| 国名                             | 国交樹立年 | 人口        | 備考                                 |
-| -------------------------------- | ---------- | ----------- | ------------------------------------ |
-| ベリーズ                         | 1989年     | 約41万人    | 中米唯一の英語圏国家                 |
-| グアテマラ                       | 1933年     | 約1,800万人 | 中米最大の人口、台湾移転前から国交   |
-| ハイチ                           | 1956年     | 約1,150万人 | 米州最貧国                           |
-| パラグアイ                       | 1957年     | 約720万人   | 南米唯一の邦交国                     |
-| セントクリストファー・ネービス   | 1983年     | 約4.7万人   | 西半球最小の国家                     |
-| セントルシア                     | 2007年     | 約18万人    | 2度断交・2度復交。直近の復交は2007年 |
-| セントビンセント・グレナディーン | 1981年     | 約11万人    | カリブ海島嶼国                       |
+1. **1971/10/25** — UN General Assembly passed Resolution 2758. ROC UN Representative Chou Shu-kai took the stage before the vote to read an withdrawal statement: "Because the current UN is shrouded in irrational emotions and procedures, the ROC delegation will no longer participate in any UN meetings from now on."[^9] He then led the delegation out in a fish-like procession. The resolution passed 76 to 35.
+2. **1972/9/29** — Japan severed ties. Tanaka Kakuei flew to Beijing.
+3. **1979/1/1** — The US severed ties. The Carter administration shifted course; the *Taiwan Relations Act* came as a remedy in April[^10].
+4. **1989-1996** — Lee Teng-hui's "Pragmatic Diplomacy" rebound period, where the number of allied nations temporarily rose from 22 to 31. The most painful loss during this period was **South Korea on 1992/8/23**: The Roh Tae-woo government demanded ROC embassy staff leave within 24 hours, and the embassy land and buildings were confiscated and handed over to Beijing—in the memories of retired diplomats, this scene was simplified into one phrase: "Confiscated the embassy, betrayed the Five Tigers."[^11]
+5. **2008-2016** — Ma Ying-jeou's "Diplomatic Truce" period. Only one country severed ties (Gambia) over 8 years, but no new allies were added. This stability came at the cost of cross-strait relations.
+6. **2016-2024** — Tsai Ing-wen's 8 years saw the loss of 10 allied nations, the highest record since the lifting of martial law. The timing and Chinese conditions for each are detailed below.
 
-## 邦交国数の推移
+The numbers are cold. But behind each number is a set of negotiations, a set of aid, and a decision by a president or king.
 
-台湾外交史は一枚の表で語れます。
+## The 10 Farewells of Tsai Ing-wen's 8 Years
 
-| 年     | 邦交国数 | 主な出来事                               |
-| ------ | -------- | ---------------------------------------- |
-| 1969年 | **70**   | 史上最多                                 |
-| 1971年 | 58       | 国連脱退、同年12カ国断交                 |
-| 1972年 | 40       | 日本・オーストラリアなど断交             |
-| 1979年 | **21**   | 米国断交、当時の史上最少                 |
-| 1989年 | 27       | 李登輝（リー・テンフイ）・務実外交で回復 |
-| 1992年 | **31**   | 務実外交のピーク                         |
-| 2000年 | 29       | 陳水扁（チェン・スイビエン）就任         |
-| 2008年 | 23       | 馬英九（マー・インジウ）就任             |
-| 2016年 | 22       | 蔡英文（ツァイ・インウェン）就任         |
-| 2024年 | 12       | ナウルが断交後                           |
-| 2026年 | **12**   | 現在（頼清徳（ライ・チントー）政権）     |
+These 10 countries share a common pattern: New governments take office, demand aid packages several times better than before; Taiwan refuses, and China steps in[^12].
 
-50年間で70カ国から12カ国へ。平均すると年1カ国以上を失い続けた計算です。
+1. **2016/12/21** — São Tomé and Príncipe
+2. **2017/6/13** — Panama. The Varela government gave no prior warning.
+3. **2018/5/1** — Dominican Republic
+4. **2018/5/24** — Burkina Faso
+5. **2018/8/21** — El Salvador
+6. **2019/9/16** — Solomon Islands
+7. **2019/9/20** — Kiribati (Lost 2 countries within 4 days, the most dense week in the history of severing ties)
+8. **2021/12/10** — Nicaragua (Ortega government)
+9. **2023/3/26** — Honduras
+10. **2024/1/15** — Nauru
 
-## なぜ邦交国は減り続けるのか
+Honduras deserves a pause. The Castro government proposed a $6 billion construction plan to China upon taking office, demanded $2.5 billion in aid from Taiwan, asked Taiwan to double its original $50 million annual aid, and help restructure $600 million in debt[^13]. Taiwan could not keep up with this price tag.
 
-3つの構造的要因があります。
+> **✦** "China just wants to colonize us."
 
-### 1. 国連第2758号決議（1971年）
+This is what Honduras's former Vice President said to the media looking back in 2024[^14]. According to an ETtoday exposé in April 2025, the amount China initially promised had only $280 million in school renovation funds and $100,000 in medical donations actually arrived by 2025; the rest mostly defaulted[^15].
 
-1971年10月25日、国連総会は第2758号決議を採択し、中華人民共和国が「国連における中国の唯一の合法的な代表」であると宣言しました。中華民国はこれにより脱退を余儀なくされました。決議そのものより深刻だったのは、各国が「どちらにつくか」を迫られる枠組みができたことです。
+But once diplomatic ties are severed, resuming them is almost impossible. Regret cannot go back.
 
-### 2. 中国の外交圧力
+## The Portrait of the 12 Countries: Who, Why, and Will They Leave?
 
-中国は「一つの中国」原則を堅持し、中華人民共和国と国交を持つ国は中華民国を承認できないとしています。中国の経済台頭に伴い、この圧力は増す一方です。融資・インフラ・市場アクセスを梃（てこ）に、台湾の邦交国を引き剥がし続けています。
+Of the 12 allied nations, 3 are in Oceania, 1 in Africa, 1 in Europe, and 7 in Latin America and the Caribbean[^16]. Memorizing them as a list is meaningless. It is more useful to see which ones have stories.
 
-### 3. 小国の生存戦略
+### The Holy See: One Vote from 900 Million Catholics
 
-台湾の12邦交国のほとんどは小国です。中国と国交を結ぶことは、より大きな経済支援・市場・インフラ整備を意味します。これは「裏切り」ではなく、大国間競争の中で生き抜く小国の合理的な選択です。
+Diplomatic relations were established during the National Government period in 1942, lasting 84 years to date, making it one of the longest-standing allied relationships. The Holy See is a UN Observer State, the **only non-UN member among Taiwan's allied nations**[^17].
 
-## 歴代総統の外交路線
+The Holy See's true movements lie not in the Ministry of Foreign Affairs, but in bishop appointments. China and the Holy See signed a provisional agreement on bishop appointments in 2018, with the most recent renewal in 2024. If Beijing unilaterally appoints bishops in the future and the Holy See does not object, the continuation of the Holy See-Taiwan alliance will enter a test period.
 
-### 李登輝（リー・テンフイ）（1988〜2000年）：務実外交
+Pope Francis passed away in April 2025, and Robert Francis Prevost was elected on May 8, the first North American-born pope in history, taking the title Leo XIV (Leo XIV)[^18]. The new pope's China policy has not yet fully unfolded.
 
-経済力を活かして積極的に国交を築く「務実外交」を推進しました。邦交国は一時31カ国まで回復しました。一方でこの時期にサウジアラビアと韓国——最後のアジア邦交国2カ国——を失いました。
+Minister of Foreign Affairs Lin Chia-lung publicly listed "Haiti and the Holy See" as the two allied nations requiring "special attention" in a Public Television interview in March 2025[^19]—said euphemistically, but the meaning is clear.
 
-### 陳水扁（チェン・スイビエン）（2000〜2008年）：全民外交
+### Paraguay: The Only One in South America, Sustained by the Colorado Party's Lineage for 66 Years
 
-「全民外交」として務実路線を継承しましたが、中国の台頭スピードは外交努力を上回り、退任時には23カ国に減少しました。セントルシアが2007年に復交したのが、台湾にとって最後の新規邦交国となっています。
+Diplomatic relations were established in 1957. **Paraguay is Taiwan's only ally in South America.**
 
-### 馬英九（マー・インジウ）（2008〜2016年）：活路外交
+Paraguay's Colorado Party has been in power intermittently for over 70 years since 1947; anti-communism and pro-Taiwanism are structural legacies left by the Cold War structure. The 2023 election winner, Santiago Peña, is a Colorado Party candidate, while the opposition Liberal Party advocates reviewing policy toward Taiwan—voters chose the Colorado Party, which equals choosing to continue the alliance.
 
-「外交休兵」戦略のもと両岸関係の安定を優先しました。8年間の断交は1カ国のみ（ガンビア、2013年）でしたが、新規邦交国もゼロに終わりました。
+In May 2024, Peña personally flew to Taipei to attend Lai Ching-te's inauguration ceremony[^20]. In November of the same year, Paraguay Foreign Minister Rubén Ramírez publicly stated during his visit to Taiwan:
 
-### 蔡英文（ツァイ・インウェン）（2016〜2024年）：断交の加速
+> **✦** "We do not accept severing ties with Taiwan under any conditions."[^21]
 
-「九二共識（1992年コンセンサス）」の承認を拒否したため、中国の外交攻勢が激化しました。8年間で10カ国が断交しました——サントメ・プリンシペ（2016年）、パナマ（2017年）、ドミニカ共和国・ブルキナファソ・エルサルバドル（2018年）、ソロモン諸島・キリバス（2019年）、ニカラグア（2021年）、ホンジュラス（2023年）、ナウル（2024年）。
+But in July 2025, Colorado Party MP Hugo Meza returned from a visit to China and proposed a motion to abandon Taiwan. The underlying consensus among Colorado Party elites is shaking, but has not yet flipped over.
 
-### 頼清徳（ライ・チントー）（2024年〜）：現状維持
+### Haiti: So Rotten That Even China Doesn't Want to Dig
 
-蔡英文路線を継承しています。現時点で12カ国の邦交関係は安定を保っています。
+Diplomatic relations were established in 1956. **The highest-risk country among the 12 allies.**
 
-## 邦交国を超えた「実質外交」
+After the assassination of former President Moïse in July 2021, Haiti entered long-term turmoil under gang rule. The capital, Port-au-Prince, is like a war zone; the transition government's promised August 2025 election has been repeatedly delayed[^22].
 
-12カ国は話の半分にすぎません。台湾の真の国際的影響力は、「国交なき実質関係」にあります。
+Lin Chia-lung named Haiti as requiring "special attention," but there is an counter-intuitive detail: Haiti may not leave, partly because Taiwan can hold on, and partly because **China may not necessarily want to**. A broken country with no stable government, no commercial interests, and no strategic value is not cost-effective for Beijing.
 
-### 駐外機構
+This reveals a logic rarely spoken aloud: Whether an allied nation can be retained is sometimes not about how hard Taiwan tries, but whether China is interested.
 
-台湾は世界に**110カ所以上**の駐外機構を持っています。
+### Tuvalu: 82% of the Population is Moving
 
-- **米国**：米国在台協会（AIT）と駐米国台北経済文化代表処（TECRO）
-- **日本**：日本台湾交流協会と台北駐日経済文化代表処
-- **欧州**：EU主要国に代表処
+Diplomatic relations were established in 1979. Population approximately 10,000. **Facing a crisis of national extinction due to sea-level rise**—IPCC data shows its sea-level rise rate is twice the global average, having risen 14 cm in the past 30 years, and may rise another 19 cm in the next 30 years[^23].
 
-大使館とは呼びませんが、ビザ発給・貿易・文化交流・領事保護など機能はほぼ同じです。
+In June 2025, Australia opened the world's first "Climate Visa" (a special channel under the Falepili Union Treaty), allowing Tuvaluans to migrate to Australia for long-term residence. By the end of 2025, **approximately 8,750 Tuvaluans applied, equivalent to 82% of the national population**[^24].
 
-### 国際機関への参加
+> **⚠️ A population of an allied nation is migrating to non-allied countries via policy**
+> Tuvalu will not disappear tomorrow, nor will Australia take over tomorrow. But the concept of "sovereignty" is being redefined in this case. If the majority of an allied nation's citizens live in another country, use another country's welfare system, and pay taxes to another country, where is the "state" nature of the allied nation?
 
-台湾は国連加盟国ではありませんが、複数の国際機関に参加しています。
+Taiwan and Fiji are the only two Pacific operating fishing vessel jurisdiction countries that signed support for Tuvalu's maritime boundary declaration[^25]. This is Taiwan's support for the narrative that "even if your land sinks into the sea, your maritime sovereignty remains yours."
 
-- **WTO**（世界貿易機関）：「台澎金馬個別関税領域」名義で加盟
-- **APEC**（アジア太平洋経済協力）：「中華台北」名義で参加
-- **WHO**：2009〜2016年に世界保健総会のオブザーバーとして参加。現在は排除されています
+### Eswatini: The Private Jet Lai Ching-te Was Supposed to Take in April 2026 That Never Flew
 
-### 半導体外交
+Diplomatic relations were established in 1968. **Taiwan's last ally in Africa**—having lost 10 African allies cumulatively over the past 30 years[^26]. King Mswati III is one of the last absolute monarchs in Africa, personally visiting Taipei in May 2024 to attend Lai Ching-te's inauguration.
 
-TSMCは世界の先端半導体の90%超を生産しています。これが台湾独自の「シリコン・シールド」を生んでいます。主要国が台湾のチップを必要としているという事実は、邦交国数より台湾の国際的地位を確かなものにしています。
+In April 2026, Lai Ching-te was scheduled to depart on April 22 to visit Eswatini to celebrate the triple ceremony of King Mswati III's 40th coronation anniversary, 58th birthday, and the country's 58th independence anniversary.
 
-### 民主主義の価値外交
+12 hours before departure, the itinerary was suspended.
 
-台湾はアジアで最も民主的な国の一つとされています。欧米では台湾を訪問する議員が増え、友台決議も相次いでいます。邦交国が減る一方で、こうした「価値同盟」の動きは逆に強まっています。
+The Ministry of Foreign Affairs explained that flight permits for some countries along the private jet's route were temporarily canceled; the national security team decided to suspend the trip citing the head of state's and flight safety reasons, instead dispatching Foreign Minister Lin Chia-lung as the President's special envoy to Eswatini[^27]. Lin Chia-lung arrived in Eswatini at dawn on April 25—he first flew from Taiwan to Vienna, Austria, then took a Gulfstream private charter from Cathay Pacific departing Vienna, entering the African continent, **deliberately avoiding the airspace of Seychelles, Mauritius, and Madagascar**.
 
-## 邦交国がゼロになったら？
+This convoluted route makes the problem clear. China's pressure scope has expanded from the allied nations themselves to their neighbors—African air blockades are a new tactic emerging after 2024.
 
-多くの人が問います。答えは「劇的な変化は起きないかもしれない」です。
+## Why Only 12 Remain
 
-台湾の国際的地位は邦交国数の上に成り立っていません。米国は台湾と国交を持ちませんが、毎年数十億ドル規模の武器を売却しています。日本も同様ですが、経済・文化関係は切り離せません。
+There are three structural reasons; there is no single answer:
 
-邦交国ゼロのリスクは主に象徴的なものです——国際的な公式発言の場を失うこと、国際機関からさらに排除されること、国際法上の曖昧さが深まること。だが台湾の人々はとっくに「正式に承認されない」状態で生き、発展してきました。
+### 1. The "Translation War" of UN Resolution 2758
 
-## 驚きの事実
+On October 25, 1971, the UN General Assembly passed Resolution 2758 with a vote of 76:35:17. The original Chinese version contains only one paragraph:
 
-1. **12邦交国のGDP合計**は、台中市の年間GDPとほぼ同じ規模にすぎません。
-2. **バチカン**は欧州唯一の邦交国で、世界最小の国家でもあります。1942年の国交は台湾最長クラスの外交関係の一つです。
-3. **2019年9月**、ソロモン諸島とキリバスがわずか5日間に相次いで断交しました——外交史上最も密集した断交記録です。
-4. **セントルシア**は2度断交し2度復交した唯一の国です（1984年断交→1997年復交→2007年再復交）。
-5. 台湾の**パスポートのビザ免除国数**（140カ国以上）は邦交国数を遥かに上回ります。あなたのパスポートは国家より「歓迎されている」のです。
-6. 台湾の**駐外機構数**（110カ所以上）は邦交国数の9倍以上です。
+> Decides: to restore all the rights of the People's Republic of China, to recognize its government's representatives as the only legitimate representatives of China to the United Nations Organization, and to immediately expel the representatives of Chiang Kai-shek from the place in the United Nations Organization and its specialized agencies which they illegally occupy.[^28]
 
-## 参考資料
+Note four things: The original text does not mention "Taiwan," does not mention the "Republic of China," does not authorize the "One China Principle," and does not prohibit Taiwan's participation in the UN system.
 
-### 公式資料
+But for the past half-century, China has translated this paragraph into "2758 equals One China Principle equals Taiwan is part of China equals no country may establish official relations with Taiwan"—this extended interpretation began to be positively refuted in 2024.
 
-- [中華民国外交部——邦交国](https://www.mofa.gov.tw/AlliesIndex.aspx?n=167&sms=33) — 最新の邦交国一覧と概要
-- [中華民国外交部——駐外機構](https://www.mofa.gov.tw/OverseasOffice.aspx?n=168&sms=87) — 世界の駐外機構一覧
+In April 2024, US State Department China Coordinator Mark Lambert publicly stated four positions[^29]:
 
-### 報道・参考文献
+1. Resolution 2758 does not endorse, equate to, or reflect any consensus among countries on China's "One China Principle"
+2. The resolution does not limit the sovereign choices of any country regarding substantial interactions with Taiwan
+3. The resolution does not constitute the UN's official stance on Taiwan's final political status
+4. The resolution does not exclude Taiwan's meaningful participation in the UN system and other multilateral forums
 
-- [公視新聞網 — ホンジュラス断交：台湾邦交国関係の分析](https://news.pts.org.tw/article/627439)
-- 維基百科 — [中華民国外交関係年表](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB%E5%B9%B4%E8%A1%A8)
-- Wikipedia — [Foreign relations of Taiwan](https://en.wikipedia.org/wiki/Foreign_relations_of_Taiwan)
+On September 18 of the same year, US Deputy Secretary of State Kurt Campbell directly pointed out in testimony before the House Foreign Affairs Committee that "China uses Resolution 2758 as a tool to undermine Taiwan's status." On April 23, 2025, the US publicly criticized China's misuse of Resolution 2758 at a UN Security Council meeting[^30].
+
+On October 24, 2024, the European Parliament passed a resolution with **432 votes in favor, 60 against, and 71 abstentions**, opposing China's distortion of Resolution 2758, condemning military provocations against Taiwan, and positioning Taiwan as an "EU Key Partner and Indo-Pacific Democratic Ally"[^31]. In the same year, parliaments in Australia, Belgium, Canada, the Czech Republic, the Netherlands, and the UK also passed similar motions.
+
+> **📝 Curator's Note**
+> Resolution 2758 is a paragraph written in 1971. No one has changed it in 50 years. But the way this paragraph has been interpreted is undergoing reverse updates over the past 50 years—this is rare in international law; the original text hasn't changed, but the consensus is changing.
+
+### 2. China's Pressure Arsenal
+
+China's arsenal is not just one type; five components operate in combination:
+
+- **Aid Engineering**: Promised a $6 billion plan for Honduras, $100 million annually for Nauru, and bound Solomon Islands and Kiribati with infrastructure projects. The fulfillment rate has always been low (Honduras case only $280 million arrived), but sufficient at the time of signing.
+- **Bilateral Penetration**: Operating multi-track diplomacy through pro-China MPs in specific countries (e.g., Paraguay MP's visit to China leading to a motion to abandon Taiwan), and individual contacts by foreign ministers (e.g., Guatemala Foreign Minister's February 2024 plan to develop trade with Beijing while maintaining allied status).
+- **International Organization Blockade**: Using "2758 = One China Principle" as a narrative basis, requiring organizations to exclude Taiwan (most notably, WHO refusing to invite Taiwan as an observer to the WHA starting in 2017[^32]).
+- **Economic Coercion**: After Lithuania agreed to set up a "Taiwanese Representative Office" (using "Taiwanese" instead of the previously common European "Taipei") in 2021, China immediately downgraded diplomatic relations, withdrew its ambassador, and banned Lithuanian goods imports[^33]. The Lithuania case later became the benchmark for the EU studying how to resist Chinese economic coercion.
+- **Air Blockade**: Pressure on Seychelles, Mauritius, and Madagascar for African transit in April 2026 is a newly emerging version.
+
+### 3. The Political Economy of Small States
+
+Of the 12 allied nations, 9 have populations under 1 million. Fiscal dependence on foreign aid is high, climate risks are urgent, and decision-making power is concentrated in a few hands. These are structural conditions, amoral—a decision by a Nauru president may be the turning point for whether Taiwan's Ministry of Foreign Affairs' work for a whole year can be preserved.
+
+For these countries, establishing relations with China means larger aid, broader markets, and more infrastructure. **For small states, this is the survival strategy under the great power competition landscape.** The reduction in allied nations is essentially a constant in the restructuring of the great power landscape.
+
+## The 113 Missions Behind the 12 Countries
+
+The old abacus is the number of allied nations. The new abacus is the density of the overseas network.
+
+As of December 2025, Taiwan has established approximately 113 overseas missions in 71 countries, 2 regions (Hong Kong, Macau), and 1 international organization (WTO)[^34], including 12 formal embassies (in the 12 allied nations) and over 100 substantive diplomatic outposts operating under the names of "Representative Offices" or "Offices."
+
+The most representative is the Taiwan-US relationship. After severing ties in 1979, both sides established institutions:
+
+- **TECRO** (Taipei Economic and Cultural Representative Office) in Washington D.C., with 12 branches (Atlanta, Boston, Chicago, Denver, Honolulu, Houston, Los Angeles, Miami, New York, San Francisco, Seattle, Guam)
+- **AIT** (American Institute in Taiwan) in Taipei
+
+These institutions are not called embassies, but their functions are identical: visas, trade, cultural exchange, consular protection, arms sales coordination. The **TECRO/AIT model** later became the template for other non-allied countries' relations with Taiwan.
+
+Two recent evolutions:
+
+- **November 2021**: Lithuania opened the "Taiwanese Representative Office"—the first European representative office named "Taiwanese" (instead of "Taipei"), viewed by China as crossing a red line[^35].
+- **March 2020**: The Trump administration signed the **TAIPEI Act** (Taiwan Allies International Protection and Enhancement Initiative Act, Pub.L. 116-135), authorizing the State Department to intervene to protect Taiwan's allied nations and support Taiwan's entry into stateless international organizations[^36].
+
+**The US protecting Taiwan's allied nations itself** is a sign of non-allied countries deeply involving themselves in Taiwan's diplomatic affairs—traditionally, allied nation affairs should be handled by the two allied parties.
+
+## Passports Can Go to 177 Countries: Another Measure of Recognition
+
+Official statistics from the Ministry of Foreign Affairs on January 30, 2026: The Republic of China passport enjoys visa-free, visa-on-arrival, and e-visa conveniences, allowing entry to **177 countries and regions** globally[^37].
+
+The Henley Passport Index ranked the Taiwan passport around 33rd globally in 2026, similar to Japan and South Korea.
+
+Among these 177 countries, the vast majority do not have diplomatic relations with Taiwan. **What allows passports to pass is not diplomatic alliance, but bilateral mutual trust, economic links, low crime rates, and low illegal immigration records.** The ratio of allied nations to countries accessible by passport is 12:177—approximately 1:15.
+
+> **⚠️ A Paradox**
+> The length of the allied nations list and the actual international mobility of citizens are inversely related. An increase in the number of allied nations is mostly due to small countries agreeing to establish ties after aid deals; an increase in countries accessible by passport is due to national image, security records, and visa reciprocity. The latter is harder but more reliable.
+
+## Silicon Shield: 90%, 30%, Double-Edged Sword
+
+In 2026, TSMC produces approximately 90% of the world's high-end chips[^38]. This number is not PR language; it is the actual procurement record of NVIDIA, Apple, AMD, Qualcomm, and Intel.
+
+This is the material basis for the concept of the "**Silicon Shield**": Major countries need Taiwan's chips, which guarantee Taiwan's international status more than the paper commitments of 12 allied nations. If China attacks Taiwan, the global supply chains for AI, smartphones, and cars would halt within 2 months.
+
+But the silicon shield is being elevated by itself. TSMC is building 5 fabs + 2 advanced packaging plants + 1 R&D center in Arizona, with a total investment of $165 billion. The first fab began mass production of 4nm in 2025 and started代工 (contract manufacturing) for NVIDIA's Blackwell AI processors—**this is TSMC's first time producing cutting-edge AI chips outside Taiwan**[^39]. The second fab is expected to mass produce 3nm in 2027, and the third in 2029. Once all are completed, approximately 30% of the world's most advanced chips will be produced in the US[^40].
+
+> **✦** "There was a moment when everybody started waking up to the dependence on TSMC."
+
+This is the observation of Bonnie Glaser, Director of the GMF Indo-Pacific Program[^41]. She also pointed out: Arizona's expansion may "endanger Taiwan's strategic importance by damaging its silicon shield."
+
+The headline of MIT Technology Review in August 2025 was blunt: "**Taiwan's silicon shield could be weakening**"[^42].
+
+The silicon shield has never been something Taiwan can decide unilaterally. Its effectiveness is built on the monopoly that "Taiwan is the only place that can make 2nm chips"—once the monopoly is dispersed, the physical basis of the silicon shield is reduced.
+
+This is the true diplomatic proposition of the Lai Ching-te era: **How to ensure that Arizona's expansion reduces US dependence on Taiwan without reducing the US's political will to defend Taiwan.** No one has a ready answer.
+
+## The Real Risk of Allied Nations Going to Zero
+
+Many ask: What happens if one day all 12 allied nations sever ties?
+
+On a dramatic level, nothing may happen. Taiwan and the US have no diplomatic ties, yet sell billions in arms annually; Taiwan and Japan have no diplomatic ties, yet Japan is one of Taiwan's largest tourist source countries. Substantial relations have nothing to do with the number of allied nations.
+
+But on the level of international law, there are four real risks:
+
+1. **The narrative of state identity dissolution will emerge.** The Montevideo Convention 1933 defines statehood in four elements (population, territory, government, diplomatic capacity); Taiwan meets the first three; but "continuous recognition" is customary international law. Going to zero will trigger the legal narrative of "whether Taiwan is still a state."
+2. **The consular protection chain will be forced to restructure.** The legal status of the 113 overseas missions mostly relies on gray mechanisms like "ally trusteeship" or "customary international law acquiescence." Allied nations going to zero will force these gray mechanisms to be re-legalized.
+3. **Hope for return to international organizations will decrease.** Return to WHA, ICAO, Interpol, etc., relies almost entirely on the channel of allied nations' annual general assemblies "ally support for Taiwan." Going to zero will make this path disappear completely.
+4. **Legal status in cross-strait military crises** will upgrade to a point of contention. Whether Taiwan is a "state" under international law, whether third-party intervention is legal, whether IHL (International Humanitarian Law) or civil war law applies, POW treatment—every point will be re-debated.
+
+**The fourth point is the real risk.** Allied nations going to zero itself will not immediately change anything, but it gives China an additional narrative tool for future potential conflicts: "Taiwan has not even 1 allied nation; it is not a state under international law."
+
+Maintaining 12 allied nations makes this narrative untenable. So the 12 countries themselves have limited significance; their significance lies in that they are **not 0**.
+
+## Three Numbers
+
+```
+12              113             177
+Allied Nations  Overseas Missions  Visa-Free Access
+```
+
+12 countries recognize the Republic of China government of Taiwan as "China's legitimate government."
+113 missions represent Taiwan in the world to handle actual business.
+177 countries do not recognize the Republic of China, but allow Taiwan citizens to enter.
+
+The European Parliament passed the anti-2758 resolution with 432 votes. When Tsai Ing-wen left office in May 2024, there were 12 allied nations; she visited the European Parliament in October after leaving office. Bonnie Glaser said there was a moment of TSMC dependence. Mark Lambert said 2758 did not write about Taiwan.
+
+These things are happening simultaneously. None is called "Taiwan's international status."
+
+If there is one, that thing is not 12, nor 113, nor 177, nor 90% or 30%.
+
+It is the distance between these numbers.
+
+**Further Reading**:
+
+- [Taiwan's Defense and Military Modernization](/society/台灣國防與軍事現代化) — When only 12 allied nations remain, military self-defense is another pillar to maintain "not 0"
+- [The Taiwan Strait Crisis and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — How three crises shaped Taiwan's diplomatic isolation and security anxiety
+- [TSMC](/business/台積電) — The material basis of the silicon shield and its structural vulnerability
+- [Chiu Jung-tai](/people/卓榮泰) — The trajectory of 2026 US-Taiwan tariffs 32→20→15% + the cabinet coordinator for Lai Ching-te's visit to Eswatini
+
+## References
+
+[^1]: [Bureau of Consular Affairs, Ministry of Foreign Affairs — Visa-Free, Visa-on-Arrival, and E-Visa Information](https://www.boca.gov.tw/cp-37-220-9f130-1.html) — Updated 2026-01-30, 177 countries/regions
+
+[^2]: [MIT Technology Review — Taiwan's silicon shield could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — 2025 analysis of TSMC's ~90% market share in global advanced processes
+
+[^3]: [European Parliament Resolution RC-B10-0134/2024](https://www.europarl.europa.eu/doceo/document/RC-10-2024-0134_EN.html) — Original text of the European Parliament's 2024-10-24 anti-2758 distortion resolution, vote count 432:60:71
+
+[^4]: [CNA — Chronology of Relations between the Republic of China and Nauru](https://www.cna.com.tw/news/aipl/202401150200.aspx) — Nauru's 2024-01-15 severance timeline and Adeang's statement
+
+[^5]: [The News Lens — Nauru's Surprise Severance, Joseph Wu is Angry](https://www.thenewslens.com/article/197585) — MOFA officials relay Joseph Wu's reaction in Guatemala
+
+[^6]: [UDN News — Nauru Demands NT$2.6 Billion in Aid for This Matter](https://udn.com/news/story/123892/7712032) — Details of the fiscal gap left by the closure of Australia's refugee processing centers
+
+[^7]: [Business Today — Nauru President Demands Exorbitant Aid, China Promises $100 Million Annually](https://www.businesstoday.com.tw/article/category/183027/post/202401150023/) — Anonymous foreign affairs sources reveal China's promise; China denies
+
+[^8]: [Wikipedia — List of Diplomatic Allies of the Republic of China](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%82%A6%E4%BA%A4%E5%9C%8B%E5%88%97%E8%A1%A8) — Historical record of the 70-country peak in 1969
+
+[^9]: [Story Studio — Chiang Kai-shek's Policy Bottom Line on Resolution 2758 and Chou Shu-kai's Withdrawal Statement](https://storystudio.tw/article/gushi/ares2758-a/) — Full text source of Chou Shu-kai's speech withdrawing from the UN
+
+[^10]: [Wikipedia — Taiwan Relations Act](https://en.wikipedia.org/wiki/Taiwan_Relations_Act) — US severance in 1979 and the Taiwan Relations Act
+
+[^11]: [CNA — Unboxing Old Photos: 32nd Anniversary of Taiwan-South Korea Severance](https://www.cna.com.tw/news/ahel/202408235002.aspx) — 1992-08-23 South Korea severance, 24-hour departure, embassy confiscation details
+
+[^12]: [CNA — China's Ruthless Calculation: 8 Years, 10 Strikes](https://www.cna.com.tw/news/aipl/202401150242.aspx) — Time and condition analysis of the 10 severances during Tsai Ing-wen's term
+
+[^13]: [Liberty Times Net — Honduras Economic Aid Conditions](https://news.ltn.com.tw/news/politics/breakingnews/4241197) — Castro government's demand for $2.5 billion in aid and $600 million debt restructuring from Taiwan
+
+[^14]: [Watch Chinese — Interview with Former Vice President of Honduras](https://www.watchinese.com/article/2024/26145) — Source of the quote "China just wants to colonize us"
+
+[^15]: [ETtoday — Honduras Regrets Severing Ties: China Aid Defaults](https://www.ettoday.net/news/20250419/2946192.htm) — April 2025 exposé: China's actual arrival of $280 million
+
+[^16]: [Ministry of Foreign Affairs, Republic of China — Allied Nations](https://www.mofa.gov.tw/AlliesIndex.aspx?n=167&sms=33) — Official update 2026-04-24, list of 12 countries and regional classification
+
+[^17]: [Wikipedia — Holy See and Republic of China Relations](https://zh.wikipedia.org/wiki/%E6%95%99%E5%BB%B7%E8%88%87%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%97%9C%E4%BF%82) — Established in 1942, the only non-UN member allied nation
+
+[^18]: [Hakka News — Pope Leo XIV Elected on 2025-05-08](https://hakkanews.tw/2025/04/21/pope/) — First North American-born Pope Robert Francis Prevost
+
+[^19]: [PTS News — Lin Chia-lung: Haiti, Holy See Require Special Attention](https://news.pts.org.tw/article/740385) — Original words from March 2025 Public Television interview
+
+[^20]: [Presidential Office — President Lai Ching-te Meets Paraguay President Peña](https://www.president.gov.tw/News/28438) — 2024-05 Peña visits Taiwan to attend inauguration ceremony
+
+[^21]: [CNA — Paraguay Foreign Minister Visits Taiwan, Stands Firm on Alliance](https://www.cna.com.tw/news/aipl/202411290318.aspx) — Ramírez's original words on 2024-11-29
+
+[^22]: [GVM Magazine — Haiti Crisis](https://www.gvm.com.tw/article/80847) — Post-assassination of Moïse in July 2021, current state of gang rule
+
+[^23]: [Cw CSR — Tuvalu's Crisis of National Extinction](https://csr.cw.com.tw/article/44229) — IPCC sea-level data and Tuvalu's rise
+
+[^24]: [Liberty Times Net — Tuvalu Climate Visa, 82% of Population Applies](https://news.ltn.com.tw/news/world/breakingnews/5118068) — 2025 end Australia climate visa application data
+
+[^25]: [Liberty Times Talk — Strategic Opportunity of Climate Visa](https://talk.ltn.com.tw/article/breakingnews/5092696) — Taiwan and Fiji support Tuvalu's maritime boundary declaration
+
+[^26]: [Cw Magazine — Is Eswatini Taiwan's Only Ally in Africa?](https://www.cw.com.tw/article/5140733) — Cumulative loss of 10 African allies over 30 years
+
+[^27]: [Taronews — Lin Chia-lung Visits Eswatini as President's Special Envoy](https://wp.taronews.tw/2026/04/28/1179509/) — 2026-04 Lai Ching-te's private jet transit blocked, Lin Chia-lung dispatched instead
+
+[^28]: [UN Official — Original Chinese Text of Resolution 2758](https://www.un.org/zh/ga/26/res/ares2758.html) — Full text of 1971-10-25 resolution
+
+[^29]: [Global Taiwan Institute — Senior US Officials Push Back against PRC Misusing 2758](https://globaltaiwan.org/2024/05/senior-us-officials-push-back-against-the-prc-misusing-unga-resolution-2758/) — Full text of Mark Lambert's four positions in April 2024
+
+[^30]: [VOA — US Refutes China's Characterization of UN Resolution 2758](https://www.voacantonese.com/a/us-refutes-china-s-characterization-of-un-resolution-2758-20240528/7633211.html) — Campbell's September 2024 congressional testimony and subsequent US positions
+
+[^31]: [European Parliament Press Release 2024-10-21](https://www.europarl.europa.eu/news/en/agenda/plenary-news/2024-10-21/4/meps-set-to-criticise-china-s-aggressive-stance-on-taiwan) — Official explanation of the European Parliament's anti-2758 distortion resolution
+
+[^32]: [Wikipedia — Taiwan and the World Health Organization](https://en.wikipedia.org/wiki/Taiwan_and_the_World_Health_Organization) — 8-year history of WHA observer status 2009-2016
+
+[^33]: [Atlantic Council — Lithuania's Policy on China](https://www.atlanticcouncil.org/in-depth-research-reports/report/lithuanias-policy-on-china-an-unlikely-eu-trailblazer/) — Full record of China's economic coercion after Lithuania set up the office in 2021
+
+[^34]: [Wikipedia — List of Republic of China Overseas Institutions](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E9%A7%90%E5%A4%96%E6%A9%9F%E6%A7%8B%E5%88%97%E8%A1%A8) — 113 missions and distribution as of 2025-12
+
+[^35]: [Wikipedia — Lithuania-Taiwan relations](https://en.wikipedia.org/wiki/Lithuania%E2%80%93Taiwan_relations) — Process of opening the Taiwanese Representative Office on 2021-11-18
+
+[^36]: [Congress.gov — TAIPEI Act S.1678](https://www.congress.gov/bill/116th-congress/senate-bill/1678) — Original text of Pub.L. 116-135 signed by Trump on 2020-03-26
+
+[^37]: [Ministry of Foreign Affairs, Republic of China — Visa-Free Information](https://www.mofa.gov.tw/FreeVisa.aspx?n=545&sms=81) — Statistics 2026-01-30: 177 countries and regions
+
+[^38]: [The Diplomat — Silicon Shield 2.0: A Taiwan Perspective](https://thediplomat.com/2024/09/silicon-shield-2-0-a-taiwan-perspective/) — Analysis of TSMC's global high-end chip market share
+
+[^39]: [Wikipedia — TSMC Arizona](https://en.wikipedia.org/wiki/TSMC_Arizona) — $165 billion expansion plan of 5 fabs + 2 packaging + 1 R&D
+
+[^40]: [Tom's Hardware — TSMC Arizona 3nm Schedule](https://www.tomshardware.com/tech-industry/semiconductors/tsmc-brings-its-most-advanced-chipmaking-node-to-the-us-yet-to-begin-equipment-installation-for-3mn-months-ahead-of-schedule-arizona-fab-slated-for-production-in-2027) — Arizona Fab 2027 mass production 3nm schedule
+
+[^41]: [GMF — Bonnie Glaser Senate Foreign Relations Hearing](https://www.gmfus.org/news/bonnie-glaser-senate-foreign-relations-committee-hearing) — Source of the quote "moment of dependence on TSMC"
+
+[^42]: [MIT Technology Review — Taiwan's silicon shield could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — August 2025 narrative of weakening silicon shield

@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: People/蘇貞昌.md
 sourceCommitSha: 64abf6f8
 sourceContentHash: sha256:479a8f6f5440400a
+sourceBodyHash: 'sha256:b005f4ff95b8ed92'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣農業現代化發展.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:e6e4ed55452711e1'
+sourceBodyHash: 'sha256:979b05cfe13254ea'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Taiwan's Agricultural Modernization"
 description: "Exploring Taiwan's transformation from traditional farming to modern precision agriculture, including organic farming, rural revitalization, and leisure agriculture as innovative development models"

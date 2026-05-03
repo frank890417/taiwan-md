@@ -15,6 +15,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Music/八部合音.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:10556895c89da74d'
+sourceBodyHash: 'sha256:43f231d59e183f8e'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

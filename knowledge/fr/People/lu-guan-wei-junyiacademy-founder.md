@@ -12,6 +12,7 @@ lastVerified: 2026-04-05
 translatedFrom: "People/呂冠緯.md"
 sourceCommitSha: "84ed9453"
 sourceContentHash: "sha256:743ecf11453dec54"
+sourceBodyHash: 'sha256:e745c8c9be8a26cb'
 translatedAt: "2026-04-14T19:14:43+08:00"
 ---
 

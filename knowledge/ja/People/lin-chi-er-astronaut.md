@@ -15,8 +15,9 @@ imageCredit: 'NASA/Bill Stafford'
 imageLicense: 'Public domain (NASA)'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '1d09f8fd'
+sourceCommitSha: '616cbd07'
 sourceContentHash: 'sha256:1fc5f820aa4a31fd'
+sourceBodyHash: 'sha256:aa4af14eaa7e0735'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

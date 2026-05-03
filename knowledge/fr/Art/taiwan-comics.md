@@ -23,6 +23,7 @@ featured: false
 translatedFrom: Art/台灣漫畫.md
 sourceCommitSha: 0d8e06fc
 sourceContentHash: sha256:3a1178905711b562
+sourceBodyHash: 'sha256:a9f04ad63339e270'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---
 

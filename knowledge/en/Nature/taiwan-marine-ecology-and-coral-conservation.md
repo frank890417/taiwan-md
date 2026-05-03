@@ -2,6 +2,7 @@
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:4e90c463d345a441'
+sourceBodyHash: 'sha256:668d74d853340086'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Taiwan's Marine Ecology and Coral Reef Conservation"
 description: 'Surrounded by sea on all sides, Taiwan is home to rich marine ecosystems. From the coral bleaching crisis to cetacean conservation, this piece explores the protective outcomes of marine national parks and the challenges ahead.'

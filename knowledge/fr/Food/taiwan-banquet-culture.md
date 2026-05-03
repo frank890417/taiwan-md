@@ -25,6 +25,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣辦桌文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f32e8e2ccf42dc0e'
+sourceBodyHash: 'sha256:cfc9322860941967'
 translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 

@@ -23,6 +23,7 @@ featured: false
 translatedFrom: 'Culture/台灣動漫文化.md'
 sourceCommitSha: '0d8e06fc'
 sourceContentHash: 'sha256:ddc98c9c93f34f85'
+sourceBodyHash: 'sha256:6e74b99f6c42ff14'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

@@ -17,8 +17,9 @@ readingTime: '14'
 lastVerified: '2026-04-28'
 lastHumanReview: 'false'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '1d09f8fd'
+sourceCommitSha: '616cbd07'
 sourceContentHash: 'sha256:1fc5f820aa4a31fd'
+sourceBodyHash: 'sha256:aa4af14eaa7e0735'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

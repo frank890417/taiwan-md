@@ -20,6 +20,7 @@ featured: 'true'
 translatedFrom: 'Music/台灣流行音樂.md'
 sourceCommitSha: 'd0ae0f3b'
 sourceContentHash: 'sha256:818f98dc184f6fa7'
+sourceBodyHash: 'sha256:f9084870752a124b'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Music
 ---

@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: Nature/台灣山椒魚.md
 sourceCommitSha: 6ae7e431
 sourceContentHash: sha256:f7dcaba73d149276
+sourceBodyHash: 'sha256:af337db2aac9897d'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

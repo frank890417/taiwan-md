@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'Nature/台灣皇蛾.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:04090b613f5ed578'
+sourceBodyHash: 'sha256:a6fc776d191702d7'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: Nature
 ---

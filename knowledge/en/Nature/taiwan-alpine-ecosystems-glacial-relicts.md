@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣高山生態系與冰河孑遺.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:f8dc834054c6b8b9'
+sourceBodyHash: 'sha256:3d618da70d40426c'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

@@ -23,6 +23,7 @@ lastHumanReview: true
 translatedFrom: 'People/齊柏林.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9451fc2140cbffe0'
+sourceBodyHash: 'sha256:272da240ae5fe1df'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

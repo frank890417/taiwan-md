@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'People/八炯.md'
 sourceCommitSha: '3e1e177a'
 sourceContentHash: 'sha256:5dc996409cdb4a58'
+sourceBodyHash: 'sha256:bc866bec1fdcbd6f'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

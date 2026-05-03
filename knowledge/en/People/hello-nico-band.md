@@ -25,6 +25,7 @@ researchReport: reports/research/2026-04/Hello-Nico.md
 translatedFrom: 'People/Hello-Nico.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:ac6c714f4ff5fb1b'
+sourceBodyHash: 'sha256:bab18d5114976850'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

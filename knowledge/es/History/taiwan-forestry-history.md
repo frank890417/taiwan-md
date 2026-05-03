@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'History/台灣森林開發史.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:73e54955334b68f6'
+sourceBodyHash: 'sha256:55bbc4efed5f30a9'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/李雅英.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:83e0dbb3cbec1753'
+sourceBodyHash: 'sha256:68f630723c181a47'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

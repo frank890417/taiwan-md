@@ -6,6 +6,7 @@ tags: ['recursos', 'gobierno', 'oficial', 'Taiwan.md']
 translatedFrom: resources/official-websites.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:0d481ed818da82f8
+sourceBodyHash: 'sha256:6713c8a6c615e62a'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

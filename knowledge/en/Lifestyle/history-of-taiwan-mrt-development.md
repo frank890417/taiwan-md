@@ -2,6 +2,7 @@
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:0bba0af0611bfce8'
+sourceBodyHash: 'sha256:e5a7aa30573d4059'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "History of Taiwan's MRT Development: An Urban Evolution Written in Blood and Money"
 description: "A 209-tonne steel beam that fell and killed 4 people, NTD 1.64 billion in damages, and a Taipei Metro system that still loses money on transit operations alone — the real cost behind Taiwan's MRT network."

@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Technology/台灣電動車產業鏈發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b49821a42d715241'
+sourceBodyHash: 'sha256:a73fd571d71999d2'
 translatedAt: '2026-05-01T20:54:23+08:00'
 category: Technology
 ---

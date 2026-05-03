@@ -11,6 +11,7 @@ featured: true
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:6cf131bbf7b2e79b'
+sourceBodyHash: 'sha256:ab5de473384c6799'
 translatedAt: '2026-04-14T19:23:57+08:00'
 ---
 

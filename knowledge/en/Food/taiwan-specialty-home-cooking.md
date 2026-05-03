@@ -18,6 +18,7 @@ featured: true
 translatedFrom: 'Food/台灣手路菜.md'
 sourceCommitSha: 'ae9e1b75'
 sourceContentHash: 'sha256:0472e30648b041f9'
+sourceBodyHash: 'sha256:36f30f4b81431a3f'
 translatedAt: '2026-05-01T13:44:02+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sanbeiji.jpg/960px-Sanbeiji.jpg'
 imageAlt: 'Three-cup chicken'

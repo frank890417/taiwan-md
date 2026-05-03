@@ -16,6 +16,7 @@ lastHumanReview: false
 translatedFrom: 'People/林義雄.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:1c07e29909bcc37a'
+sourceBodyHash: 'sha256:7e9076250edc5a41'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: People
 ---

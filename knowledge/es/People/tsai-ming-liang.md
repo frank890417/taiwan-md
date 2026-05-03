@@ -17,6 +17,7 @@ featured: true
 translatedFrom: People/蔡明亮.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:e54b6ea6e90672b5
+sourceBodyHash: 'sha256:55b9157eeca4616d'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

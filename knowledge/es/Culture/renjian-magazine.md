@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/人間雜誌.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:71f7c3d911b14d72'
+sourceBodyHash: 'sha256:39b5ed0bb97ef89b'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: Culture
 ---

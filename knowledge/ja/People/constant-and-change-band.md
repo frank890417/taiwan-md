@@ -30,6 +30,7 @@ featured: false
 translatedFrom: People/康士坦的變化球.md
 sourceCommitSha: e3a13944
 sourceContentHash: sha256:37c312ea2b8060a6
+sourceBodyHash: 'sha256:bb974f18f86691c3'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

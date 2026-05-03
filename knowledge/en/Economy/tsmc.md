@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：台積電.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:934dad079d2918fd'
+sourceBodyHash: 'sha256:6035b486373fd426'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Taiwan Enterprise: TSMC'
 description: "A 56-year-old man founded a company in 1987 that 'no one in the world had done before,' and it became the most important factory on earth"

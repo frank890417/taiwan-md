@@ -2,6 +2,7 @@
 translatedFrom: 'Culture/台灣迷因.md'
 sourceCommitSha: 'c860d150'
 sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
+sourceBodyHash: 'sha256:971e379fee29d9f0'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: 'When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve'
 description: "From 'Brother Jie, don't!' to TongShen serving hot pot, Taiwan memes are not just entertainment — they are a sophisticated social pressure-release system that transforms embarrassment, trauma, and anxiety into rituals of collective healing."

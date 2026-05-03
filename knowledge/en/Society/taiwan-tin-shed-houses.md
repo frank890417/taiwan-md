@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Society/鐵皮屋.md'
 sourceCommitSha: 'c67109e5'
 sourceContentHash: 'sha256:2513952bc4eab478'
+sourceBodyHash: 'sha256:96d147de5fc403fe'
 translatedAt: '2026-05-02T13:31:21+08:00'
 ---
 

@@ -25,6 +25,7 @@ featured: true
 translatedFrom: People/蔡健雅.md
 sourceCommitSha: 5030f5d6
 sourceContentHash: sha256:9474a07c92a4db90
+sourceBodyHash: 'sha256:f2c2b3c665362b55'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

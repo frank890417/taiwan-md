@@ -13,6 +13,7 @@ readingTime: 12
 translatedFrom: 'Geography/氣候.md'
 sourceCommitSha: '8b302342'
 sourceContentHash: 'sha256:a5e1f79ea8f1e346'
+sourceBodyHash: 'sha256:71817ce461cbb1bd'
 translatedAt: '2026-04-17T10:33:16+08:00'
 ---
 

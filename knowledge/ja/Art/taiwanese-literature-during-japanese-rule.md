@@ -10,6 +10,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'Art/日治時期文學.md'
 sourceCommitSha: 'f553d365'
 sourceContentHash: 'sha256:19723b834d9cebfa'
+sourceBodyHash: 'sha256:f40bf580a8b9cd38'
 translatedAt: '2026-05-01T14:48:26+08:00'
 description: '1895年の下関条約から1945年の終戦まで、台湾文学は植民地の圧力の下で独自の声として誕生した。「台湾新文学の父」頼和（らいわ）、楊逵（ようき）、呂赫若（りょかくじゃく）らは中国語と日本語を駆使して抵抗・記録・創造し、その後の台湾文学全体を形成したリアリズムの伝統と本土化された文学言語を確立した。'
 ---

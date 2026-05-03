@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣災難志工文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8688a76c3659d6fa'
+sourceBodyHash: 'sha256:f9786d423847a872'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: Society
 ---

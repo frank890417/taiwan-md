@@ -2,6 +2,7 @@
 translatedFrom: 'Nature/特有種.md'
 sourceCommitSha: 'dd7a1d1c'
 sourceContentHash: 'sha256:c6541151750229dc'
+sourceBodyHash: 'sha256:af8d8adbaacbf685'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '固有種（こゆうしゅ）：台湾が育んだ島嶼進化の奇蹟'
 description: '台湾の面積はわずか3.6万平方キロメートルだが、台湾ツキノワグマ・サクラマス（桜花鉤吻鮭）・タイワンザルなど4,000種以上の固有種が生息する。豊かな固有種は台湾の独特な地理的位置・地質の歴史・気候条件を映し出すとともに、棲息地の破壊と気候変動という保全の挑戦に直面している。'

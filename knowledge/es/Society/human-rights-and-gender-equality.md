@@ -17,6 +17,7 @@ featured: false
 translatedFrom: 'Society/人權與性別平等.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:b007d781b4327433'
+sourceBodyHash: 'sha256:318958941cae16c4'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Society
 ---

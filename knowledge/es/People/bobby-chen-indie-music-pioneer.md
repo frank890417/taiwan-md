@@ -17,6 +17,7 @@ lastHumanReview: false
 translatedFrom: People/陳昇.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:58c4e9bf93190109
+sourceBodyHash: 'sha256:a36e5d3034aa82e8'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

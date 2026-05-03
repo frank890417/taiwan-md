@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'People/陽岱鋼.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:563a462f0876373a'
+sourceBodyHash: 'sha256:88c4c0a60304a5dd'
 translatedAt: '2026-04-14T19:26:07+08:00'
 ---
 

@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/Dcard.md'
 sourceCommitSha: 'bf1be5e5'
 sourceContentHash: 'sha256:a0a6e4b6f985e523'
+sourceBodyHash: 'sha256:0cbd55ce25cb1102'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

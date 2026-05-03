@@ -25,6 +25,7 @@ featured: false
 translatedFrom: 'Nature/福爾摩沙鳥類學.md'
 sourceCommitSha: 'dd7a1d1c'
 sourceContentHash: 'sha256:17fd4a38ace902bb'
+sourceBodyHash: 'sha256:44c9000276437d2c'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

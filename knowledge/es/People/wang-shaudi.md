@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'People/王小棣.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e928ad71bd98068d'
+sourceBodyHash: 'sha256:1301d595b3900dd8'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

@@ -97,6 +97,7 @@ diaryExcerpt: '« Je ne ressens pas la piqûre. Mais je sais en reconnaître la 
 translatedFrom: "Music/張懸與安溥.md"
 sourceCommitSha: 56053512
 sourceContentHash: "sha256:a192acaffc5578b7"
+sourceBodyHash: 'sha256:5705b435f269e6ca'
 translatedAt: "2026-04-15T17:32:47+08:00"
 ---
 

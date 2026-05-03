@@ -13,6 +13,7 @@ featured: false
 translatedFrom: People/鄭成功.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c09723b8f613b890
+sourceBodyHash: 'sha256:8cc0f510721f307f'
 translatedAt: 2026-05-02T02:50:54+08:00
 ---
 

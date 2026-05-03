@@ -2,6 +2,7 @@
 translatedFrom: 'People/朱一貴.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:59a6177c37cf5305'
+sourceBodyHash: 'sha256:731cd7121531d2ac'
 translatedAt: '2026-05-01T14:11:02+08:00'
 title: "Chu Yi-kuei, the Duck King: Taiwan's First Self-Proclaimed King and Rebel Leader"
 description: 'An account of the 1721 Chu Yi-kuei Incident — from a duck farmer to a self-proclaimed king — and the far-reaching effects the uprising had on Qing dynasty governance policy in Taiwan.'

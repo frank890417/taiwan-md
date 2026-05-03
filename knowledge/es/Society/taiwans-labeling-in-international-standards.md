@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Society/台灣在國際標準中的標示問題.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:20aea791d594faee'
+sourceBodyHash: 'sha256:de1fb2e5b744ba19'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

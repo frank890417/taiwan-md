@@ -12,6 +12,7 @@ lastVerified: 2026-03-24
 translatedFrom: 'Economy/台灣企業：長榮海運.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:568e51f4fe252bc3'
+sourceBodyHash: 'sha256:31112da08c38be6e'
 translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 

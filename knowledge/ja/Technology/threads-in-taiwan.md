@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/Threads在台灣.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:0c7725f61abaf247'
+sourceBodyHash: 'sha256:be91d069d3d81840'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

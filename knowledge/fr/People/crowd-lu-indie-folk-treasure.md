@@ -28,6 +28,7 @@ lastVerified: 2026-04-07
 translatedFrom: "People/盧廣仲.md"
 sourceCommitSha: "55adefac"
 sourceContentHash: "sha256:6563f57d9c93f464"
+sourceBodyHash: 'sha256:bff59abbbb3fe6a1'
 translatedAt: "2026-04-14T19:16:28+08:00"
 ---
 

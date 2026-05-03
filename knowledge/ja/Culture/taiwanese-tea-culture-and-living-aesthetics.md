@@ -13,6 +13,7 @@ featured: true
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ad0986e868656595'
+sourceBodyHash: 'sha256:cb22720e75609696'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

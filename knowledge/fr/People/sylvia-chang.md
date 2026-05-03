@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/張艾嘉.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b98aee16ecfe25b3'
+sourceBodyHash: 'sha256:f30510eb05b91c5c'
 translatedAt: '2026-04-14T19:14:57+08:00'
 ---
 

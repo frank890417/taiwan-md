@@ -21,6 +21,7 @@ lastVerified: 2026-03-24
 translatedFrom: 'Society/台灣災難志工文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8688a76c3659d6fa'
+sourceBodyHash: 'sha256:f9786d423847a872'
 translatedAt: '2026-04-14T05:53:10+08:00'
 ---
 

@@ -15,6 +15,7 @@ lastHumanReview: false
 translatedFrom: "People/楊右任.md"
 sourceCommitSha: "84e04168"
 sourceContentHash: "sha256:ffd477fca05ec608"
+sourceBodyHash: 'sha256:b8b4f8338741f24b'
 translatedAt: "2026-04-14T19:16:13+08:00"
 ---
 

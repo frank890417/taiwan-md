@@ -16,6 +16,7 @@ lastHumanReview: false
 translatedFrom: 'People/李國修.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7e394b3479d9d206'
+sourceBodyHash: 'sha256:1d9adba620e48b4b'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: People
 ---

@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'History/清法戰爭.md'
 sourceCommitSha: '956a36f3'
 sourceContentHash: 'sha256:120b5c6893a180b5'
+sourceBodyHash: 'sha256:f135e504997bf040'
 translatedAt: '2026-05-02T09:15:00+08:00'
 ---
 

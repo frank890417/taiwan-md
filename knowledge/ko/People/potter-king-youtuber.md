@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'People/波特王.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:db2a5bfa2e0e2e43'
+sourceBodyHash: 'sha256:08c56227ca69228f'
 translatedAt: '2026-05-02T09:01:00+08:00'
 ---
 

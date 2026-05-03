@@ -11,6 +11,7 @@ lastVerified: 2026-03-27
 translatedFrom: 'History/台灣島史觀.md'
 sourceCommitSha: 53610439
 sourceContentHash: 'sha256:0d9f6beafb5cc868'
+sourceBodyHash: 'sha256:445f37a76bc05a73'
 translatedAt: '2026-04-14T04:54:47+08:00'
 ---
 

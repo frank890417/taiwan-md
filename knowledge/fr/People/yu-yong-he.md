@@ -12,6 +12,7 @@ lastVerified: 2026-03-25
 translatedFrom: "People/郁永河.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:4070459913f1808f"
+sourceBodyHash: 'sha256:f14cb1a2a50dc23e'
 translatedAt: "2026-04-14T19:19:05+08:00"
 ---
 

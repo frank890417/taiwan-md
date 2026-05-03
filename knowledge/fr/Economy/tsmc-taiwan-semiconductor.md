@@ -12,6 +12,7 @@ lastVerified: 2026-03-25
 translatedFrom: "Economy/台灣企業：台積電.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:934dad079d2918fd"
+sourceBodyHash: 'sha256:6035b486373fd426'
 translatedAt: "2026-04-14T19:20:24+08:00"
 ---
 

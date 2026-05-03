@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: Art/原住民文學.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c3ce92b18e6d1aeb
+sourceBodyHash: 'sha256:621573191262d79d'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

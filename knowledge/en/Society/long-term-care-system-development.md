@@ -11,6 +11,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Society/台灣長期照顧制度發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c735ef0db3cd23ac'
+sourceBodyHash: 'sha256:738376ef61832978'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

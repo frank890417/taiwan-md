@@ -22,6 +22,7 @@ category: 'Music'
 translatedFrom: 'Music/台灣聲音地景.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cbfdd904f2ae5e56'
+sourceBodyHash: 'sha256:903b8ccb1a4120d1'
 translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 

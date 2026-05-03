@@ -24,6 +24,7 @@ lastHumanReview: false
 translatedFrom: Food/三峽茶.md
 sourceCommitSha: 52127981
 sourceContentHash: sha256:059df39e6d896d6c
+sourceBodyHash: 'sha256:9e5c1e0488429791'
 translatedAt: 2026-05-02T01:17:15+08:00
 ---
 

@@ -26,6 +26,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣水果王國.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cec5a64527d2ad7f'
+sourceBodyHash: 'sha256:c88724fc04366f08'
 translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 

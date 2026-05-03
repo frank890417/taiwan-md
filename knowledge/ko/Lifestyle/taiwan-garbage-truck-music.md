@@ -12,6 +12,7 @@ lastVerified: 2026-03-24
 translatedFrom: 'Lifestyle/台灣垃圾車音樂.md'
 sourceCommitSha: 'c71f1568'
 sourceContentHash: 'sha256:7d76547cf6787938'
+sourceBodyHash: 'sha256:ef5fcbe573c213a1'
 translatedAt: '2026-04-14T04:35:32+08:00'
 ---
 

@@ -18,6 +18,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Food/竹筒飯.md'
 sourceCommitSha: 'e0cf5a69'
 sourceContentHash: 'sha256:bd641ad6f8a1d119'
+sourceBodyHash: 'sha256:418c8c90be50e36b'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

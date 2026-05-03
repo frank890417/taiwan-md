@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣新住民美食融合.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4cea918b3c765295'
+sourceBodyHash: 'sha256:d29105235d630c57'
 translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 

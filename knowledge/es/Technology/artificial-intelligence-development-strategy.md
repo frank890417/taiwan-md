@@ -19,6 +19,7 @@ featured: true
 translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
 sourceCommitSha: 'a97494be'
 sourceContentHash: 'sha256:6443d0ccddb2bc55'
+sourceBodyHash: 'sha256:d52012c21b6cf2d9'
 translatedAt: '2026-05-01T20:54:23+08:00'
 category: Technology
 ---

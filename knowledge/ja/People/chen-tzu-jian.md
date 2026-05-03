@@ -26,6 +26,7 @@ featured: ''
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:b4ed377dcae75954'
+sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

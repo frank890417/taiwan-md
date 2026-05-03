@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/安芝儇.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:5c8ae9f4892807a5'
+sourceBodyHash: 'sha256:727da6d1403587b0'
 translatedAt: '2026-05-02T02:50:57+08:00'
 ---
 

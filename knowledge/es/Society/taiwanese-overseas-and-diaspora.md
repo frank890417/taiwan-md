@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣海外僑民與離散社群.md'
 sourceCommitSha: '8951c944'
 sourceContentHash: 'sha256:2eda89d3846fc616'
+sourceBodyHash: 'sha256:00d0a54d5ea80bf7'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

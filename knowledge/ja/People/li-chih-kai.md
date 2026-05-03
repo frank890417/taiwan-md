@@ -10,6 +10,7 @@ lastHumanReview: true
 translatedFrom: 'People/李智凱.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:40c8b34419f44594'
+sourceBodyHash: 'sha256:cb29681047e37872'
 translatedAt: '2026-05-01T19:52:32+08:00'
 category: People
 ---

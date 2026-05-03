@@ -30,6 +30,7 @@ lastHumanReview: true
 translatedFrom: People/楊丞琳.md
 sourceCommitSha: 5030f5d6
 sourceContentHash: sha256:3b0bbef1a2a8fb6f
+sourceBodyHash: 'sha256:89629de55a5721c1'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---
 

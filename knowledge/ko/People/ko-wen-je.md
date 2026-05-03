@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/柯文哲.md'
 sourceCommitSha: '84e04168'
 sourceContentHash: 'sha256:07cd9f09350b5c18'
+sourceBodyHash: 'sha256:839cc4ab3eb7bf61'
 translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 

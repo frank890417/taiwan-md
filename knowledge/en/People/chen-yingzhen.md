@@ -8,6 +8,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/陳映真.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8bedbd61019511b0'
+sourceBodyHash: 'sha256:0a59fee55688aa77'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

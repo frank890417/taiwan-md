@@ -2,6 +2,7 @@
 translatedFrom: 'Lifestyle/台灣高鐵.md'
 sourceCommitSha: '5a1e8b86'
 sourceContentHash: 'sha256:d4cd6040714e7d5e'
+sourceBodyHash: 'sha256:437f56550a534c16'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '台湾高速鉄道：「政府出資ゼロ」から「国有民営」へ、20年で90分を縮めた代償'
 description: '1998年、殷琪（インチー）がBOT契約に署名し、「政府出資ゼロ」を約束した。2015年、立法院は18対0で財務改革案を否決し、葉匡時（イェ・クアンシー）交通部長はその夜辞表を提出した。17年間、台湾は5,133億台湾元と欧日技術戦争を経て、南北の距離を90分に縮めた。'

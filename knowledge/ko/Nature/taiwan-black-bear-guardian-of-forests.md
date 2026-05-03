@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣黑熊.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7da94098666855ee'
+sourceBodyHash: 'sha256:5b38988aa62be187'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

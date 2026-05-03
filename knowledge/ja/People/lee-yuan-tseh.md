@@ -10,6 +10,7 @@ featured: true
 translatedFrom: People/李遠哲.md
 sourceCommitSha: bd58e088
 sourceContentHash: sha256:c7cb9c37ad53a48c
+sourceBodyHash: 'sha256:d9744718376b888a'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: People
 ---

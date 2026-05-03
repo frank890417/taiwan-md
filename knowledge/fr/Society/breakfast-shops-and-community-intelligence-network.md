@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/早餐店阿姨與社區情報網.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:753337c350d2acc3'
+sourceBodyHash: 'sha256:7215c472ebf36aad'
 translatedAt: '2026-04-14T12:32:44+08:00'
 ---
 

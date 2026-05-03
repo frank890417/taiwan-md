@@ -19,6 +19,7 @@ lastVerified: 2026-03-21
 translatedFrom: 'Economy/台灣企業：日月光半導體.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cb7042e73cb2cef2'
+sourceBodyHash: 'sha256:ab22377f8d58d529'
 translatedAt: '2026-04-14T19:20:58+08:00'
 ---
 

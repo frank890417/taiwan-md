@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Music/台灣樂器製造.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c05b566af47ac375'
+sourceBodyHash: 'sha256:9224b4ac617e2e48'
 translatedAt: '2026-05-01T14:11:02+08:00'
 ---
 

@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/台灣茶文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ad0986e868656595'
+sourceBodyHash: 'sha256:cb22720e75609696'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

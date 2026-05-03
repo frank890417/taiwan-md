@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: 'People/孫運璿.md'
 sourceCommitSha: '751831b2'
 sourceContentHash: 'sha256:ea8605efaf5f77cb'
+sourceBodyHash: 'sha256:82d911658a60c733'
 translatedAt: '2026-04-30T22:33:56+08:00'
 ---
 

@@ -13,6 +13,7 @@ featured: false
 translatedFrom: "Music/小虎隊.md"
 sourceCommitSha: "f260d03b"
 sourceContentHash: "sha256:14e51d60921e3e85"
+sourceBodyHash: 'sha256:4b4e203a177f15a3'
 translatedAt: "2026-04-15T17:32:47+08:00"
 ---
 

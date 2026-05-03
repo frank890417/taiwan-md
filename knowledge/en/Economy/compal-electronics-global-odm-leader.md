@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：仁寶電腦.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95ade25e990d7b77'
+sourceBodyHash: 'sha256:3d69fd05c24e44c7'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Compal Electronics: The Global ODM Giant Behind the Screen'
 description: "The world's second-largest laptop ODM manufacturer and a key driver of Taiwan's ODM industry"

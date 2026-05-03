@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: "People/林百里.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:6e151fb80e93cea0"
+sourceBodyHash: 'sha256:df321a606bbc8935'
 translatedAt: "2026-04-14T19:15:55+08:00"
 ---
 

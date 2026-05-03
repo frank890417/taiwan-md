@@ -12,6 +12,7 @@ translatedFrom: 'Culture/傳統節慶與慶典.md'
 lastVerified: 2026-03-24
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3bac2c2faa70bd6e'
+sourceBodyHash: 'sha256:325c4509ad66d26d'
 translatedAt: '2026-04-14T07:25:04+08:00'
 ---
 

@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/水獺.md'
 sourceCommitSha: '2adb8222'
 sourceContentHash: 'sha256:aaf180d9d935b596'
+sourceBodyHash: 'sha256:55b4ad88d2c4a79f'
 translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 

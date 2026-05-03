@@ -13,6 +13,7 @@ featured: 'true'
 translatedFrom: 'Technology/AI發展.md'
 sourceCommitSha: '55515887'
 sourceContentHash: 'sha256:46cf52e8771cb9b3'
+sourceBodyHash: 'sha256:689816cb3b432a24'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

@@ -20,6 +20,7 @@ featured: true
 translatedFrom: 'People/有感筆電.md'
 sourceCommitSha: 'd0ae0f3b'
 sourceContentHash: 'sha256:5a21ca32e8e63623'
+sourceBodyHash: 'sha256:2712f87a8f564cdd'
 translatedAt: '2026-04-24T09:34:39+08:00'
 translatedFromInferred: false
 ---

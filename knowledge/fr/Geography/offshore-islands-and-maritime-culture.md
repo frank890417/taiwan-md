@@ -25,6 +25,7 @@ lastHumanReview: false
 translatedFrom: "Geography/離島與海洋文化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:a5ce1cc1637b843d"
+sourceBodyHash: 'sha256:3262816e651d35d1'
 translatedAt: "2026-04-15T17:34:06+08:00"
 ---
 

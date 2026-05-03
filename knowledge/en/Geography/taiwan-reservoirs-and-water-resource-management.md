@@ -19,6 +19,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'Geography/台灣水庫與水資源管理.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:58cfc27dba0ac67b'
+sourceBodyHash: 'sha256:4e6245b3f0401bec'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

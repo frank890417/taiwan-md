@@ -13,6 +13,7 @@ featured: 'false'
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
 sourceCommitSha: '0ed55e20'
 sourceContentHash: 'sha256:c3630708a8986b72'
+sourceBodyHash: 'sha256:0385d481b5950305'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

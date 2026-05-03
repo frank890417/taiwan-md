@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: People/嚴長壽.md
 sourceCommitSha: 67fe687d
 sourceContentHash: sha256:6bcf8cc662668e7d
+sourceBodyHash: 'sha256:c4adf4d38cbc289a'
 translatedAt: 2026-05-01T20:54:23+08:00
 category: People
 ---

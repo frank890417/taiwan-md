@@ -11,6 +11,7 @@ lastHumanReview: false
 translatedFrom: Lifestyle/LINE.md
 sourceCommitSha: 21335999
 sourceContentHash: sha256:e36f0dcb06bdb5d7
+sourceBodyHash: 'sha256:45c225df72a18f73'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---
 

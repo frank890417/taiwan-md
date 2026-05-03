@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/龍應台.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:31dfd121dd6c6d8b
+sourceBodyHash: 'sha256:721426e267c4c6b4'
 translatedAt: 2026-05-01T22:19:10+08:00
 category: People
 ---

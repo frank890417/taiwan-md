@@ -21,6 +21,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: 'People/林義傑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b6c10d1de65584e0'
+sourceBodyHash: 'sha256:9539b3b7cc15f63e'
 translatedAt: '2026-04-14T19:15:55+08:00'
 ---
 

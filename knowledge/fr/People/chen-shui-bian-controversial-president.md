@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: People/陳水扁.md
 sourceCommitSha: dc87c2a6
 sourceContentHash: sha256:6f1095e22173ebb5
+sourceBodyHash: 'sha256:1ba6a66e675cd161'
 translatedAt: 2026-05-01T20:54:17+08:00
 ---
 

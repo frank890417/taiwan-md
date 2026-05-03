@@ -1,164 +1,155 @@
 ---
-title: '타이완 핀테크 발전'
-description: '월스트리트의 금융 엘리트가 타이완으로 돌아와 모바일 결제 회사를 창업했다. 9년 뒤 회사는 법원에 의해 압류되고, 은행 계좌 잔액은 천 위안도 안 됐다. 이것은 한 사람만의 이야기가 아니다. "개방"과 "통제 불능" 사이에서 줄다리기한 섬 전체의 핀테크 10년이다.'
+title: "Taiwan's FinTech Development"
+description: "A Wall Street golden boy returns to Taiwan to launch a mobile payment service; nine years later, the company is seized and bank account deposits are less than a thousand dollars. This is not just one person's story, but the story of an entire island's decade-long tug-of-war between 'openness' and 'loss of control' in FinTech."
 date: 2026-04-06
-tags:
-  [
-    '핀테크',
-    'FinTech',
-    '디지털 뱅킹',
-    '모바일 결제',
-    '규제 샌드박스',
-    '인터넷 전문은행',
-    '전자결제',
-  ]
-subcategory: '금융과 기술'
-category: Economy
-author: 'Taiwan.md Translation Team'
-featured: false
+tags: ['FinTech', 'Digital Banking', 'Mobile Payment', 'Regulatory Sandbox', 'Pure Online Bank', 'Electronic Payment']
+subcategory: 'Finance and Technology'
+author: 'Taiwan.md'
+category: 'Economy'
 readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
 translatedFrom: 'Economy/台灣金融科技發展.md'
-sourceCommitSha: 'bf1be5e5'
-sourceContentHash: 'sha256:bdd5d6b6275cfb63'
-translatedAt: '2026-04-14T12:25:09+08:00'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:6088c3a4e07be0ec'
+translatedAt: '2026-05-04T00:38:07+08:00'
 ---
 
-# 타이완 핀테크 발전
+# Taiwan's FinTech Development
 
-> **30초 요약:** 2025년 7월 10일, 타이완 최대 자국 모바일 결제 서비스 '제코우페이(街口支付)'의 모회사가 법원에 의해 압류당했다. 5개 은행 계좌의 잔액을 합쳐봐야 천 위안(약 4만 원)도 안 됐다. 9년 전, 창업자 후이자(胡亦嘉)가 월스트리트에서 타이완으로 돌아왔을 때 그는 타이완의 결제를 중국만큼 편리하게 만들겠다고 선언했다. 그 사이에 무슨 일이 있었던 걸까? 타이완의 핀테크는 2015년 정책 백서에서 출발해 규제 샌드박스, 모바일 결제 전쟁, 인터넷 전문은행 3사의 누적 적자 90억 위안, 그리고 중앙은행의 디지털 신타이완달러 시범 운영까지 -- 매 걸음이 '혁신을 달리게 하자'와 '전복되지 않게 하자' 사이의 외줄타기였다.
+> **30-Second Overview:** On July 10, 2025, the parent company of Taiwan's largest local mobile payment service, "Jiekou Pay," was seized by the court, with deposits in its five bank accounts totaling less than a thousand dollars. Nine years ago, when founder Hu Yijia returned to Taiwan from Wall Street, he said he wanted to make Taiwan's payments as convenient as China's. What happened in between? Taiwan's FinTech started with the 2015 policy white paper, went through the regulatory sandbox, the mobile payment war, three pure online banks accumulating losses of 9 billion, to the central bank's experimental digital New Taiwan dollar—every step has been a tightrope walk between "letting innovation run" and "preventing it from crashing."
 
-## 월스트리트 금융 엘리트의 귀환
+## The Return of the Wall Street Golden Boy
 
-2015년, 서른 살 남짓의 한 젊은이가 중국에서 타이완으로 돌아와 제코우페이(街口支付)를 창업했다.
+In 2015, a man in his early thirties returned to Taiwan from China to found Jiekou Pay.
 
-그의 이름은 후이자(胡亦嘉). 자오퉁대학(交大) 응용수학과를 졸업하고 컬럼비아대학교에서 석사학위를 받은 뒤, 월스트리트에서 헤지펀드 애널리스트로 일했다. 연봉은 타이완 달러로 천만 원이 넘었다. 언론은 그를 '월스트리트 금동(華爾街金童, 월스트리트의 금융 엘리트)'이라 불렀다. 하지만 그를 타이완으로 돌아오게 한 건 향수가 아니었다. 그는 중국 쑤저우(蘇州)에서 몇 년간 머물며 즈푸바오(支付寶, Alipay)와 위챗페이(微信支付)가 10억 명이 넘는 사람들의 소비 습관을 바꾸는 것을 직접 목격했고, 같은 변화를 타이완에 가져오고 싶었다.[^1]
+His name is Hu Yijia. He graduated from the Applied Mathematics Department of National Chiao Tung University, holds a master's degree from Columbia University, and worked as a hedge fund analyst on Wall Street, earning an annual salary of over ten million New Taiwan dollars. The media called him the "Wall Street Golden Boy." But what brought him back to Taiwan was not nostalgia—he had spent a few years in Suzhou, China, and witnessed firsthand how Alipay and WeChat Pay changed the consumption habits of over a billion people. He wanted to bring the same thing back to Taiwan. [^1]
 
-그의 가문 배경도 만만치 않았다. 할아버지 후신(胡炘)은 장제스(蔣中正)의 시위대장(侍衛長)이었고, 아버지 후딩우(胡定吾)는 카이파진콩(開發金控) 회장과 타이베이 101(台北101) 이사장을 역임했다. 금융계 인맥을 후이자는 태어날 때부터 갖고 있었던 셈이다.[^2]
+His family background is also impressive: his grandfather, Hu Xin, was a bodyguard for Chiang Kai-shek, and his father, Hu Dingwu, served as the chairman of Development Financial Holdings and Taipei 101. Hu Yijia had access to financial circle connections from birth. [^2]
 
-제코우페이는 2018년 전자결제 라이선스를 취득하고 정식 서비스를 시작했다. 높은 캐시백으로 시장을 공략했고, 2020년에는 타이완 토종 최대 모바일 결제 브랜드로 성장하여 사용자 수가 600만 명을 넘겼다. 후이자는 공개적으로 LINE Pay에 도전장을 내밀며, 2024년 장외시장 등록, 2025년 정식 상장 계획까지 밝혔다.[^3]
+Jiekou Pay received its electronic payment license in 2018 and officially launched, using high rebates to capture the market. By 2020, Jiekou had become Taiwan's largest local mobile payment brand, with over 6 million users. Hu Yijia publicly challenged LINE Pay, stating his intention to list Jiekou on the OTC market in 2024 and on the stock exchange in 2025. [^3]
 
-그리고 상황이 꺾이기 시작했다.
+Then things began to turn.
 
-## 36억이 사라진 날
+## The Day 3.6 Billion Vanished
 
-2023년, 타이산기업(泰山企業) 회장 잔징차오(詹景超)가 36억 타이완 달러(약 1,440억 원)에 제코우 핀테크(街口金融科技)의 지분 40%를 인수했다. 그런데 타이산 내부에서 곧이어 경영권 분쟁이 폭발했고, 새 경영진이 이사회를 장악한 뒤 이 거래에 대해 소송을 제기했다.
+In 2023, Zhan Jingchao, Chairman of Taishan Enterprise, acquired a 40% stake in Jiekou FinTech for 3.6 billion. However, internal power struggles erupted within Taishan shortly after. After the new team took control of the board of directors, they sued over the transaction.
 
-2025년 7월, 법원은 해당 거래가 무효라고 판결했고, 제코우 핀테크는 36억을 반환해야 했다. 압류 집행 당시, 법원 직원은 한 가지 사실을 발견했다. 제코우 핀테크의 은행 계좌 5개를 모두 합쳐도 잔액이 천 위안(약 4만 원)도 안 됐던 것이다.[^4]
+In July 2025, the court ruled the transaction invalid, and Jiekou FinTech was ordered to return the 3.6 billion. During the execution of the seizure, court personnel discovered something: the total deposits in Jiekou FinTech's five bank accounts were less than a thousand dollars. [^4]
 
-압류 당일, 약 300명의 직원은 갑작스럽게 재택근무를 통보받았고, 사무실 간판은 철거됐다. 후이자는 이후 검찰에 의해 특별배임 혐의로 기소되고 출국 금지 조치를 받았으며, 한때 전자발찌 감시까지 직면했다.[^5]
+On the day of the seizure, nearly 300 employees were temporarily notified to work from home, and the office sign was taken down. Hu Yijia was subsequently prosecuted by prosecutors for special breach of trust, restricted from leaving the country, and at one point faced monitoring via an electronic ankle monitor. [^5]
 
-> **📝 큐레이터 노트**
-> 제코우페이 자체의 사용자 자금은 안전하다. 《전자결제기관관리조례(電子支付機構管理條例)》에 따라 모든 충전금은 수탁은행이 신탁 전용 계좌로 모회사 재무와 완전히 분리하여 별도로 관리하기 때문이다. 금관회(金管會, 금융감독위원회)는 이 점을 거듭 강조했다. 하지만 '계좌 잔액이 천 위안도 안 된다'는 장면은 타이완 핀테크 스타트업에 대한 신뢰 기반에 큰 타격을 입혔다.
+> **📝 Curator's Note**
+> Jiekou Pay's user funds themselves are safe—under the "Electronic Payment Institution Management Act," all stored value is held in trust accounts by a trusted bank, completely isolated from the parent company's finances. The Financial Supervisory Commission (FSC) has repeatedly emphasized this point. However, the image of "accounts with less than a thousand dollars remaining" has severely damaged the foundation of trust in Taiwan's fintech startups.
 
-사실 후이자가 규제 당국과 충돌한 것은 이번이 처음이 아니었다. 이미 2020년에 금관회는 '투푸바오(託付寶)' 상품이 투자자 오도, 기업 지배구조 훼손 등 7건의 위반에 해당한다며 300만 위안의 과징금을 부과하고, 후이자의 제코우투신(街口投信) 이사직을 해임했다. 당시 그의 대응은 공개적으로 금관회를 반박하는 글을 올리는 것이었다.[^6]
+This is not the first time Hu Yijia has clashed with regulatory authorities. As early as 2020, the FSC fined him 3 million for violations involving the "Tuo Bao" product—misleading investors and undermining corporate governance—and removed Hu from his position as director of Jiekou Investment Trust. His response at the time was to publicly post an attack against the FSC. [^6]
 
-제코우의 이야기는 타이완 핀테크 10년의 축소판이다. 정책이 문을 열어줬지만, 너무 빠르게 달린 사람이 반드시 안전하게 도착한 것은 아니었다.
+Jiekou's story is a microcosm of Taiwan's ten-year FinTech journey: the policy opened the door, but those who rush too fast may not arrive safely.
 
-## 하나의 법률이 바꾼 게임의 규칙
+## A Law That Changed the Rules of the Game
 
-2015년으로 돌아가보자. 그해, 금관회는 《금융과학기술발전전략백서(金融科技發展策略白皮書)》를 발표하며 타이완이 FinTech를 포용하겠다고 선언했다. 2년 뒤, 《금융과학기술혁신실험조례(金融科技創新實驗條例)》가 입법원(立法院)을 통과했다. 이것은 아시아 최초의 핀테크 전용법으로, 타이완을 '규제 샌드박스(Regulatory Sandbox)' 법적 프레임워크를 갖춘 전 세계 소수 국가 중 하나로 만들었다.[^7]
+Let's go back to 2015. That year, the FSC released the "FinTech Development Strategy White Paper," declaring that Taiwan would embrace FinTech. Two years later, the "FinTech Innovation and Experimentation Act" was passed by the Legislative Yuan—this is Asia's first specialized law, making Taiwan one of the few countries in the world with a legal framework for a "regulatory sandbox." [^7]
 
-샌드박스의 논리는 간단하다. 금융 혁신 아이디어가 있는데 현행 법규가 허용하지 않는다면? 샌드박스에 신청해서 제한된 범위 안에서 실험하고, 성공하면 법을 개정해 합법화하고, 실패해도 처벌받지 않는다.
+The logic of the sandbox is simple: You have an idea for financial innovation, but current regulations don't allow it? Apply to enter the sandbox, experiment within a limited scope, and if successful, the law will be amended to legalize you; if it fails, you won't be punished.
 
-듣기에는 아름답지만, 실제 운영은 생각보다 보수적이었다.
+It sounds beautiful, but in practice, it is more conservative than imagined.
 
-조인베스트(Joinvest)는 샌드박스를 졸업한 몇 안 되는 성공 사례다. 이 회사는 채권 공동구매 플랫폼을 만들어 개인 투자자들이 원래 기관투자자만 살 수 있었던 채권에 합자 투자할 수 있게 했다. 2021년 샌드박스에 진입해 실험한 결과, 금관회로부터 '혁신성이 있고 금융 포용에 기여한다'는 인정을 받아 《증권상설치기준(證券商設置標準)》 법개정을 직접 이끌어냈다.[^8]
+Joinvest is one of the few successful cases to graduate from the sandbox—this company created a bond group-buying platform, allowing retail investors to jointly purchase bonds that were previously only available to institutional investors. Entering the sandbox for experimentation in 2021, it received recognition from the FSC, which deemed it "innovative and conducive to financial inclusion," directly prompting the amendment of the "Securities Broker Setup Standards." [^8]
 
-그러나 다른 측면의 숫자는 그리 좋지 않다. 샌드박스가 시행된 지 7년 동안 누적 승인된 실험 건수는 많지 않았고, 실제로 '졸업'하여 법규 개정으로 이어진 사례는 더 적었다. 비판론자들은 타이완의 샌드박스가 진입 문턱이 너무 높고, 심사가 너무 느리며, 실험 기간이 너무 짧아 '겉으로는 개방적이지만 실제로는 보수적인' 제도가 되었다고 말한다.[^9]
+But the numbers on the other side are not so pretty. Seven years after the sandbox launched, the cumulative number of approved experimental cases is not large, and even fewer have truly "graduated" and driven regulatory amendments. Critics say Taiwan's sandbox has too high a threshold, too slow an review process, and too short an experimental period, becoming a system that "looks open but is actually conservative." [^9]
 
-> "타이완의 규제 샌드박스는 세계에서 가장 완비된 법적 프레임워크 중 하나다. 하지만 문제는 프레임워크가 아니라 실행 속도에 있다."
-> ——Chambers and Partners, _Fintech 2025: Taiwan_[^9]
+> "Taiwan's regulatory sandbox is one of the most complete legal frameworks in the world, but the problem is not with the framework, but with the speed of execution."
+> ——Chambers and Partners, *Fintech 2025: Taiwan* [^9]
 
-## 스마트폰 속 결제 전쟁
+## The Payment War in Mobile Phones
 
-2026년 타이완에서 아무 편의점에 들어가 봐라. 계산할 때 지갑보다 스마트폰을 꺼내는 광경이 더 흔하다.
+In 2026 Taiwan, walking into any convenience store, pulling out a mobile phone for checkout has become more common than pulling out a wallet.
 
-금관회 통계에 따르면, 2025년 말 기준 전국 전자결제 계정의 총 이용자 수는 3,445만 명에 달한다. 인구 2,300만 명인 섬에서 이 숫자는 대부분의 성인이 전자결제 계정을 최소 하나는 보유하고 있다는 뜻이다. 정부가 설정한 '2025년 모바일 결제 보급률 90%' 목표는 기본적으로 달성됐다.[^10]
+According to statistics from the FSC, by the end of 2025, the total number of users of electronic payment accounts in Taiwan reached 34.45 million—on an island of 23 million people, this number means that most adults have at least one electronic payment account. The government's goal of "90% mobile payment penetration rate by 2025" has basically been met. [^10]
 
-하지만 '보급'이 '통일'을 의미하지는 않는다. 타이완의 모바일 결제 시장은 혼전 그 자체다.
+But "penetration" does not mean "unification." Taiwan's mobile payment market is a chaotic battle:
 
-LINE Pay는 LINE의 소셜 플랫폼을 기반으로 사용자 800만 명 이상을 확보하며 1위를 굳건히 지키고 있다. 아이패스머니(iPASS MONEY, 一卡通票證)는 교통카드 인프라를 발판 삼아 이용자 수 1위로 올라섰다. 제코우페이(街口支付)는 논란이 터지기 전까지 여전히 600만 명 이상의 사용자를 보유하고 있었다. 거기에 전지푸(全支付), 전잉지푸(全盈支付), 요요푸(悠遊付), 타이완 Pay(台灣Pay), Apple Pay, Google Pay까지 -- 소비자의 스마트폰에는 평균 서너 개의 결제 앱이 깔려 있고, 가게 계산대에는 각기 다른 브랜드의 QR코드 스티커가 빼곡하다.[^11]
+LINE Pay relies on LINE's social foundation to firmly hold the top spot, with over 8 million users. iPASS MONEY (One-Card Ticketing) leveraged its electronic ticketing base to surge to the number one spot in user count. Jiekou Pay still had over 6 million users before the controversy erupted. Add in All Pay, All Profit Pay,悠遊付 (EasyPay), Taiwan Pay, Apple Pay, Google Pay—consumers have an average of three or four payment apps on their phones, and store counters are covered with QR code stickers from different brands. [^11]
 
-> **💡 알고 계셨나요?**
-> 타이완의 모바일 결제가 이렇게 분절된 이유 중 하나는 편의점 체인들이 각각 다른 진영에 서 있기 때문이다. 세븐일레븐(7-ELEVEN)은 OPEN월렛과 icash Pay를 밀고, 패밀리마트(全家)는 전잉지푸(全盈支付)를 밀고 있다. 양대 편의점의 결제 지형이 어느 정도 타이완 사람들의 주머니에 어떤 앱이 들어가는지를 결정한다.
+> **💡 Did You Know**
+> Taiwan's mobile payment fragmentation is partly due to convenience store systems aligning with specific partners: 7-ELEVEN promotes OPEN Wallet and icash Pay, while FamilyMart promotes All Profit Pay. The payment landscapes of these two major convenience store chains have, to some extent, determined which app is in the pockets of Taiwan's population.
 
-이것은 중국의 '즈푸바오(Alipay) + 위챗페이' 양강 구도와는 완전히 다르다. 타이완에는 독보적인 슈퍼앱이 없다. 대신 백화제방(百花齊放) -- 혹은 더 솔직하게 말하면 군웅할거(百家割據)다. 소비자 입장에서는 편해졌지만(어디서든 스마트폰으로 결제 가능), 통합 효율은 높지 않고 각 업체는 시장점유율을 위해 적자를 감수하며 경쟁하고 있다.
+This is completely different from the "Alipay + WeChat Pay" duopoly in China. Taiwan does not have a single dominant super app, but rather a blossoming of many flowers—or, to be more honest, a fragmentation among many factions. Consumers are more convenient (they can swipe their phones everywhere), but integration efficiency is low, and everyone is burning money to grab market share.
 
-## 3개 은행, 900억의 수업료
+## Three Banks, 9 Billion in Tuition
 
-2021년, 타이완에 인터넷 전문은행 원년이 도래했다.
+In 2021, Taiwan welcomed the year of the pure online bank.
 
-LINE Bank(連線銀行), 라쿠텐은행(樂天銀行), 장라이은행(將來銀行) 3곳이 잇달아 개업했다. 이들의 셀링 포인트는 '은행에 갈 필요가 없다'는 것이었다. 온라인 계좌 개설, 고금리 보통예금, 24시간 서비스. 기술로 전통 은행 경험을 완전히 재설계하겠다는 포부였다.
+LINE Bank, Liuten Bank, and Future Bank opened sequentially. Their selling point is "no need to go to a bank"—online account opening, high-interest savings accounts, 24-hour service, using technology to redesign the traditional banking experience.
 
-4년이 지난 뒤, 장부의 숫자는 냉혹했다. 3곳의 누적 적자가 90억 위안(약 3,600억 원)을 넘겼다.[^12]
+Four years later, the numbers on the balance sheet are cruel: the three have accumulated losses of over 9 billion. [^12]
 
-하지만 적자의 이야기에는 다른 해석이 가능하다. LINE Bank는 계좌 수가 229만에 달하고, 예대율(預貸比) 85.93%를 기록했으며, 2025년 12월에는 타이완 인터넷 전문은행 역사상 최초로 월간 세전 흑자를 달성했다. 금액은 1,100만 위안(약 4억 4천만 원)으로 크지 않았지만, 상징적 의미는 컸다. LINE Bank는 2026년 연간 흑자 1억 위안 돌파를 목표로, 3년 반 안에 누적 적자를 완전히 해소하겠다고 선언했다.[^13]
+But the story of losses has different readings. LINE Bank's user count surged to 2.29 million, with a deposit-to-loan ratio of 85.93%. In December 2025, it achieved Taiwan's first-ever monthly pre-tax profit for a pure online bank—the amount was 11 million, not much, but the symbolic significance is huge. LINE Bank stated it aims to break 100 million in annual profit in 2026 and eliminate cumulative losses within three and a half years. [^13]
 
-장라이은행은 55만 계좌, 라쿠텐은행은 32만 계좌로 규모 차이가 뚜렷하지만, 적자폭은 줄여가는 중이다. 라쿠텐은 증자 한도선에 임박해 새로운 증자 라운드를 계획하고 있다.[^14]
+Future Bank has 550,000 users, Liuten Bank has 320,000 users. The scale gap is obvious, but they are also narrowing losses. Liuten is approaching the capital increase red line and is planning a new round of capital increases. [^14]
 
-> **📝 큐레이터 노트**
-> 인터넷 전문은행의 곤경은 타이완만의 일이 아니다. 전 세계의 챌린저 뱅크 -- 영국의 Monzo, 브라질의 Nubank -- 도 초기에는 자금을 태우며 규모를 키웠다. 진짜 문제는 이것이다. 타이완 시장은 2,300만 명뿐이고, 전통 은행의 밀도가 세계 최고 수준이며(1제곱킬로미터당 1개 이상의 지점), 인터넷 전문은행은 38개 상업은행과 같은 고객을 놓고 경쟁해야 한다. 900억의 수업료는 이 과밀 시장에서 살아남을 기회를 산 것이다.
+> **📝 Curator's Note**
+> The dilemma of pure online banks is not unique to Taiwan. The challenge worldwide for challenger banks—such as Monzo in the UK and Nubank in Brazil—is that they all burn money for scale in the early stages. The real question is: Taiwan's market only has 23 million people, and the density of traditional banks is among the highest in the world (more than one branch per square kilometer). Pure online banks must compete for the same group of people against 38 commercial banks. The 9 billion in tuition buys the opportunity to survive in this crowded market.
 
-## 디지털 하카 코인: 중앙은행의 신중함
+## Digital Hakka Currency: The Central Bank's Caution
 
-전 세계 중앙은행이 디지털 화폐(CBDC)를 연구하고 있을 때, 타이완 중앙은행은 매우 타이완다운 길을 걸었다.
+While central banks around the world are studying digital currencies (CBDC), the Taiwan Central Bank has taken a very Taiwanese path.
 
-2025년, 중앙은행은 디지털발전부(數位發展部), 하카위원회(客委會)와 협력해 '디지털 하카 코인(數位客家幣)' 시범 사업을 시작했다. 한 번에 디지털 신타이완달러를 발행하는 대신, 먼저 전국 11개 현시(縣市), 70곳의 하카 문화 중점 발전 지역에서 소규모 테스트를 진행한 것이다. 사용자는 비식별(去識別化) 무기명 월렛으로 소비할 수 있으며, 유효기간은 2026년 6월 30일까지다.[^15]
+In 2025, the Central Bank collaborated with the Ministry of Digital Affairs and the Hakka Affairs Council to launch the "Digital Hakka Currency" experiment—not issuing a digital New Taiwan dollar all at once, but first testing on a small scale in 11 counties/cities across Taiwan and 70 key development areas for Hakka culture. Users can consume using de-identified, non-name-based wallets, with validity until June 30, 2026. [^15]
 
-중앙은행 총재 양진룽(楊金龍)의 태도는 한결같이 신중했다. 그는 2025년에 여러 차례 공청회와 포럼을 개최해 각계의 의견을 광범위하게 수렴하겠지만, 디지털 신타이완달러의 정식 발행에 대해서는 '구체적인 일정이 없다'고 밝혔다.[^16]
+Central Bank Governor Yang Chin-lung's attitude has been consistently cautious. He stated that the Central Bank will hold multiple public hearings and forums in 2025 to widely collect opinions from all sectors, but regarding the formal issuance of a digital New Taiwan dollar, there is "no specific timeline." [^16]
 
-이런 '먼저 작은 조각을 시험하고, 의견을 다 들은 뒤 결정하자'는 리듬은 중국 디지털 위안화의 대규모 추진과 선명한 대비를 이룬다. 타이완 중앙은행은 선구자가 되고 싶지 않다. 실수하지 않는 추격자가 되고 싶어 한다.
+This rhythm of "testing a small piece first, listening to opinions before proceeding" forms a sharp contrast with the large-scale advancement of China's digital Renminbi. Taiwan's central bank does not want to be a pioneer; it wants to be the follower who makes no mistakes.
 
-## 하나의 섬이 벌이는 금융 실험
+## An Island's Financial Experiment
 
-10년이 흘렀다.
+Ten years have passed.
 
-2015년 그 백서가 그렸던 비전 -- 타이완이 아시아태평양 핀테크 허브가 되겠다는 것 -- 은 어디까지 실현됐을까? 답은 이렇다. 부분적으로 실현됐지만, 당초 생각했던 방식과는 달랐다.
+How much of the vision depicted in the 2015 white paper—Taiwan becoming the Asia-Pacific FinTech hub—has been realized? The answer is: partially, but in a way different from what was initially thought.
 
-모바일 결제는 확실히 보급됐다. 하지만 하나의 슈퍼앱이 아니라 십수 개 브랜드의 혼전을 통해서였다. 인터넷 전문은행은 확실히 등장했다. 하지만 3곳을 합쳐도 320만 계좌가 채 안 되어 전국 은행 계좌 중 비율은 미미하다. 규제 샌드박스는 확실히 작동했다. 하지만 졸업률이 너무 낮아 그것이 도약대인지 전시장인지 의문을 갖게 한다.
+Mobile payments have indeed become popular, but not through a single super app, but through a chaotic battle of dozens of brands. Pure online banks have indeed arrived, but the three combined have fewer than 3.2 million users, accounting for a negligible proportion of all bank accounts in Taiwan. The regulatory sandbox has indeed operated, but the graduation rate is so low that it makes people question whether it is a springboard or a display case.
 
-제코우의 36억 폭풍은 한 가지를 명확하게 만들었다. 타이완 핀테크의 가장 큰 긴장은 한 번도 기술 문제였던 적이 없다. 그것은 신뢰의 문제다. 규제가 너무 느슨하면 또 다른 제코우가 나타나고, 규제가 너무 빡빡하면 혁신이 샌드박스 안에서 질식한다.
+Jiekou's 3.6 billion storm has made one thing clear: Taiwan's FinTech's greatest tension has never been a technical issue, but a trust issue. Too loose regulation breeds the next Jiekou; too tight regulation suffocates innovation in the sandbox.
 
-2025년 12월, LINE Bank가 첫 달의 흑자를 보고했다. 금액은 무시할 수 있을 만큼 작았지만, 업계 전체가 지켜보고 있었다. 후이자는 전자발찌를 차고 있고, LINE Bank는 첫 번째 이익의 한 푼 한 푼을 세고 있다. 같은 섬, 같은 산업에서 두 가지 전혀 다른 결말이 동시에 펼쳐지고 있다.
+In December 2025, LINE Bank reported its first month of profit, an amount small enough to be ignored, but the entire industry is watching. Hu Yijia wears an electronic ankle monitor, while LINE Bank counts its first profit. On the same island, in the same industry, two completely different endings are happening simultaneously.
 
-**더 읽어보기**:
+**Further Reading**:
 
-- [반도체 산업](/technology/半導體產業) -- 타이완의 또 다른 정책 지원 산업으로, 결국 세계 판도를 바꿨다
-- [스타트업 생태계](/economy/新創生態系) -- 제코우페이가 속한 타이완 스타트업 생태계의 전모
-- [전자상거래와 디지털 결제 생태계](/technology/電子商務與數位支付生態系) -- 모바일 결제 뒤의 이커머스 인프라
+- [Semiconductor Industry](/technology/半導體產業) — Another industry in Taiwan that started with policy support and ultimately changed the global landscape
+- [Startup Ecosystem](/economy/新創生態系) — The full picture of Taiwan's startup circle where Jiekou Pay resides
+- [E-commerce and Digital Payment Ecosystem](/technology/電子商務與數位支付生態系) — The e-commerce infrastructure behind mobile payments
+- [Taiwan Stock Market and Capital Market](/economy/台灣股市與資本市場) — From shout-box telephones to smartphone regular investments, the evolution of financial infrastructure and capital markets
 
-## 참고자료
+## References
 
-[^1]: [산리신문(三立新聞)〈아버지 빽 없이! 월스트리트 금융 엘리트의 테크 업계 진출, 후이자의 모바일 결제 앱 창업〉](https://www.setn.com/News.aspx?NewsID=102101) -- 후이자가 월스트리트에서 타이완으로 돌아와 창업한 배경 보도. 컬럼비아대학교 학력 및 헤지펀드 경력 포함.
+[^1]: [SETN News <No Dad Needed! Wall Street Golden Boy Crosses into Tech, Hu Yijia Creates Mobile Payment APP>](https://www.setn.com/News.aspx?NewsID=102101) — Background report on Hu Yijia's return to Taiwan from Wall Street to start a business, including Columbia University degree and hedge fund experience.
 
-[^2]: [ETtoday〈화려한 가문과 경력! 3대 부호 '수재' 후이자, 2천만 연봉 버리고 제코우페이 창업〉](https://www.ettoday.net/news/20180326/1138208.htm) -- 후이자 가문 배경: 할아버지 후신(胡炘, 시위대장), 아버지 후딩우(胡定吾, 카이파진콩 회장, 타이베이 101 이사장).
+[^2]: [ETtoday <Prominent Family Background! Wealth Third Generation "Scholar" Hu Yijia Abandons 20 Million Annual Salary to Create Jiekou Pay>](https://www.ettoday.net/news/20180326/1138208.htm) — Hu Yijia's family background: Grandfather Hu Xin (Bodyguard), Father Hu Dingwu (Chairman of Development Financial Holdings, Chairman of Taipei 101).
 
-[^3]: [징저우간(鏡週刊)〈제코우페이의 도전장, 후이자가 타이신과 손잡고 LINE에 선전포고〉](https://www.mirrormedia.mg/story/20190402fin007/) -- 제코우페이의 LINE Pay 도전 시장 전략 및 IPO 계획.
+[^3]: [Mirror News <Jiekou Pay Declares War, Hu Yijia Allies with Taishin to Battle LINE>](https://www.mirrormedia.mg/story/20190402fin007/) — Jiekou Pay's market strategy to challenge LINE Pay and IPO plans.
 
-[^4]: [공상시보(工商時報)〈사라진 36억 -- 하마터면 연쇄 도미노를 일으킬 뻔〉](https://www.ctee.com.tw/news/20250720700014-430301) -- 2025년 타이산과 제코우 핀테크의 36억 지분 거래가 무효 판결. 압류 당시 5개 계좌 잔액이 천 위안 미만.
+[^4]: [China Times <The Vanishing 3.6 Billion — Almost Caused a "One Loses, All Lose" Chain Reaction>](https://www.ctee.com.tw/news/20250720700014-430301) — In 2025, the 3.6 billion equity transaction between Taishan and Jiekou FinTech was ruled invalid; upon seizure, deposits in five accounts were less than a thousand dollars.
 
-[^5]: [ETtoday〈제코우의 '월스트리트 금동', 전자발찌 감시 신세로 전락. 36억 분쟁으로 압류〉](https://www.ettoday.net/news/20250712/2994873.htm) -- 후이자의 특별배임 기소, 출국 금지 및 전자발찌 감시 상세 내용.
+[^5]: [ETtoday <Jiekou's "Wall Street Golden Boy" Reduced to Electronic Ankle Monitor Monitoring, 3.6 Billion Dispute Seized>](https://www.ettoday.net/news/20250712/2994873.htm) — Details of Hu Yijia being prosecuted for special breach of trust, restricted from leaving the country, and subjected to electronic ankle monitor monitoring.
 
-[^6]: [쓰샹탄커(思想坦克)〈제코우의 사라진 36억: 중국 결제 경험에서 '스타트업 예외주의'까지〉](https://voicettank.org/20250714-1/) -- 제코우 '투푸바오' 위반 과징금 이력 및 금관회의 감독 과제 회고.
+[^6]: [Voicettank <Jiekou's Vanishing 3.6 Billion: From Chinese Payment Experience to "Startup Exceptionalism">](https://voicettank.org/20250714-1/) — Reviewing Jiekou's history of fines for the "Tuo Bao" violation and the FSC's regulatory challenges.
 
-[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) -- 타이완 《금융과학기술혁신실험조례》 2018년 4월 시행. 아시아 최초의 핀테크 전용법.
+[^7]: [ICLG, *Fintech Laws and Regulations Report 2025: Taiwan*](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's "FinTech Innovation and Experimentation Act" took effect in April 2018, becoming Asia's first FinTech specialized law.
 
-[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) -- 조인베스트(Joinvest) 채권 공동구매 플랫폼의 샌드박스 졸업 및 《증권상설치기준》 법개정 추진.
+[^8]: [Global Legal Insights, *Fintech Laws and Regulations 2025: Taiwan*](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove the amendment of the "Securities Broker Setup Standards."
 
-[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) -- 국제 법조계의 타이완 규제 샌드박스에 대한 평가: '프레임워크는 완비됐으나 실행 속도 부족'.
+[^9]: [Chambers and Partners, *Fintech 2025: Taiwan — Trends and Developments*](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's evaluation of Taiwan's regulatory sandbox: "complete framework but insufficient execution speed."
 
-[^10]: [국발회(國發會)〈모바일 결제 보급률 사상 최고 경신, 디지털 국가 새 생활을 향해〉](https://www.ndc.gov.tw/nc_27_33762) -- 정부의 2025년 모바일 결제 보급률 90% 목표 설정. 전자결제 계정 총 이용자 3,445만 명.
+[^10]: [National Development Council <Mobile Payment Penetration Rate Hits New High, Moving Towards Digital National New Life>](https://www.ndc.gov.tw/nc_27_33762) — Government set the goal of 90% mobile payment penetration rate by 2025; total electronic payment account users reached 34.45 million.
 
-[^11]: [펑촨메이(風傳媒)〈제코우가 졌다! 타이완인이 가장 좋아하는 전자결제는 바로 이것, '708만 명이 사용 중'〉](https://www.storm.mg/lifestyle/11083093) -- 아이패스, 제코우페이, 전지푸의 사용자 수 순위. 월간 거래액 39억 위안.
+[^11]: [Storm.MG <Jiekou Lost! Taiwan's Favorite Electronic Payment is This One "7.08 Million People Are Using It">](https://www.storm.mg/lifestyle/11083093) — Rankings of user counts for iPASS Ticketing, Jiekou Pay, All Pay; monthly transactions reached 390 million.
 
-[^12]: [펑촨메이(風傳媒)〈타이완 인터넷 전문은행 3사 '누적 적자 90억 위안 초과'! 금관회가 밝힌 적자 핵심 원인〉](https://www.storm.mg/lifestyle/11106859) -- 2025년 말 기준 3사 누적 적자 90.72억 위안. 각 은행별 계좌 수 및 예대율 데이터 포함.
+[^12]: [Storm.MG <Taiwan's 3 Pure Online Banks "Accumulated Losses Exceed 9 Billion"! FSC Exposes Key Reasons for Losses>](https://www.storm.mg/lifestyle/11106859) — As of the end of 2025, the three pure online banks accumulated losses of 907.2 million, including user counts and deposit-to-loan ratios.
 
-[^13]: [PChome 뉴스〈인터넷 전문은행, 적자 소각기 졸업 전망. LINE Bank 월간 흑자 0.11억〉](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) -- LINE Bank 2025년 12월 첫 월간 세전 흑자 1,100만 위안 달성. 2026년 연간 흑자 1억 위안 돌파 목표.
+[^13]: [PChome News <Pure Online Banks May Say Goodbye to Burning Money Period, LINE Bank Turns Profitable for Single Month 0.11 Billion>](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — LINE Bank achieved its first monthly pre-tax profit of 11 million in December 2025, aiming for 100 million in annual profit in 2026.
 
-[^14]: [공상시보(工商時報)〈계좌 개설 300만 돌파에도 누적 적자 87억... 인터넷 전문은행의 흑자 전환 레이스, 이 은행이 가장 빠르다〉](https://www.ctee.com.tw/news/20260102700085-439901) -- 3사 인터넷 전문은행 계좌 수 및 증자 계획 현황. LINE Bank가 가장 빠른 흑자 전환 후보로 지목.
+[^14]: [China Times <User Count Breaks 3 Million but Still Accumulates 8.7 Billion in Losses... Pure Online Banks Struggle for Profit, This One Named as Fastest to Turn Around>](https://www.ctee.com.tw/news/20260102700085-439901) — Current status of user counts and capital increase plans for the three pure online banks, with LINE Bank named as the fastest to turn around.
 
-[^15]: [동취동취(動區動趨)〈2025년 《타이완 암호화폐 산업 보고서》〉](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) -- 중앙은행과 하카위원회의 '디지털 하카 코인' 시범 사업. 11개 현시 70곳 하카 문화 중점 지역 대상, 유효기간 2026년 6월까지.
+[^15]: [Blocktempo <2025 Annual "Taiwan Cryptocurrency Industry Report">](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — The Central Bank and Hakka Affairs Council launched the "Digital Hakka Currency" experiment, covering 11 counties/cities and 70 key Hakka cultural areas, valid until June 2026.
 
-[^16]: [XREX〈'디지털 신타이완달러'가 온다! 중앙은행, CBDC 프로토타입 플랫폼 추진〉](https://xrex.io/taiwan-cbdc-zh/) -- 중앙은행 총재 양진룽은 공청회를 열어 광범위한 의견을 수렴하겠지만, 정식 발행은 '구체적 일정 없음'이라고 밝힘.
+[^16]: [XREX <"Digital New Taiwan Dollar" is Coming! Central Bank Pushes CBDC Prototype Platform>](https://xrex.io/taiwan-cbdc-zh/) — Central Bank Governor Yang Chin-lung stated that public hearings will be held to widely collect opinions, but formal issuance has "no specific timeline."

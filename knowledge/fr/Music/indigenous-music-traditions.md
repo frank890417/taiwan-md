@@ -19,6 +19,7 @@ translatedFrom: 'Music/台灣原住民音樂傳統.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:781fad4801f687cc'
+sourceBodyHash: 'sha256:04283fa04fa2b945'
 translatedAt: '2026-04-15T17:32:16+08:00'
 ---
 

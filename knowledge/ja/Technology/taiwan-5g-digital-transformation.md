@@ -19,6 +19,7 @@ featured: true
 translatedFrom: Technology/台灣5G網路建設與數位轉型.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:99a0b29cbafe5bb9
+sourceBodyHash: 'sha256:c52a64f6601d0c03'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: Technology
 ---

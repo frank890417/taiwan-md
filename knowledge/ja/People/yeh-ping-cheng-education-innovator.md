@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'People/葉丙成.md'
 sourceCommitSha: '67fe687d'
 sourceContentHash: 'sha256:342599fa566fd6e8'
+sourceBodyHash: 'sha256:08a335a9af5d60e0'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

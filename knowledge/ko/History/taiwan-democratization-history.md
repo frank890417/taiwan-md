@@ -11,6 +11,7 @@ lastVerified: 2026-03-27
 translatedFrom: 'History/民主化.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:df748c5bdb5127e1'
+sourceBodyHash: 'sha256:5fe67a248a3f0cf4'
 translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 

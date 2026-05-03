@@ -12,6 +12,7 @@ translatedFrom: 'Society/民主制度.md'
 lastVerified: 2026-03-19
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:3d52222ebbb25430'
+sourceBodyHash: 'sha256:12aa4ccb01f7caf3'
 translatedAt: '2026-04-14T06:03:39+08:00'
 ---
 

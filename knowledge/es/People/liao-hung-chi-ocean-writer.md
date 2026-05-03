@@ -18,6 +18,7 @@ lastHumanReview: false
 translatedFrom: People/廖鴻基.md
 sourceCommitSha: abf94a40
 sourceContentHash: sha256:0b7b6b705db3937f
+sourceBodyHash: 'sha256:1077b6698d6359d9'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

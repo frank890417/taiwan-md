@@ -19,6 +19,7 @@ featured: true
 translatedFrom: People/李仙得.md
 sourceCommitSha: 8413cde6
 sourceContentHash: sha256:b35bf2bd112055a5
+sourceBodyHash: 'sha256:bbb48d4bf913e4a0'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

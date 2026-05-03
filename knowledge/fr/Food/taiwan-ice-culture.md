@@ -17,6 +17,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣冰品文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:281be5a9fbb7d21c'
+sourceBodyHash: 'sha256:e60dcc9509786953'
 translatedAt: '2026-04-14T12:29:18+08:00'
 ---
 

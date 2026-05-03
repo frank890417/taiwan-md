@@ -21,6 +21,7 @@ translatedFrom: 'People/朴旻曙.md'
 readingTime: 8
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:1d1af2a03aaae646'
+sourceBodyHash: 'sha256:3e4daa2888a2eaa8'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

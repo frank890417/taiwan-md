@@ -13,6 +13,7 @@ translatedFrom: 'Economy/產業轉型.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:ce20822406c79ae1'
+sourceBodyHash: 'sha256:f3709634beb4667c'
 translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 

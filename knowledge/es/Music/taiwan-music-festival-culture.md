@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Music/台灣音樂祭文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:81daef88e9eeac8f'
+sourceBodyHash: 'sha256:f84387198c5041a5'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

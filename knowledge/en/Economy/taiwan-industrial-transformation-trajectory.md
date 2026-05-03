@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/產業轉型與經濟發展軌跡.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:bfcbba1c658dedbc'
+sourceBodyHash: 'sha256:c5c8ac186296ceb1'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Island Metamorphosis: Taiwan's Industrial Transformation and Economic Development Trajectory"
 description: 'From agrarian society to tech-island nation — exploring how Taiwan achieved an economic miracle in barely half a century and became the essential hub of global high-tech industry.'

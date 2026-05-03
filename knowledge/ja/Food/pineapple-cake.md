@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Food/鳳梨酥.md'
 sourceCommitSha: 'e6b0d7f8'
 sourceContentHash: 'sha256:d40713778c8c010e'
+sourceBodyHash: 'sha256:d1a328d777682bdd'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

@@ -10,6 +10,7 @@ featured: false
 translatedFrom: 'People/林懷民.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:90c4912ca48f7ecb'
+sourceBodyHash: 'sha256:13ac312ffbbbdc9b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

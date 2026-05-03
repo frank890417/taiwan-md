@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: History/戰後經濟發展.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:bd943f680a0506bf
+sourceBodyHash: 'sha256:9e8ab929793e320d'
 translatedAt: 2026-05-01T18:02:56+08:00
 category: History
 ---

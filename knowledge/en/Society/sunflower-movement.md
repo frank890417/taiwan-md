@@ -16,6 +16,7 @@ lastHumanReview: false
 translatedFrom: 'Society/太陽花學運.md'
 sourceCommitSha: 'f4dfb120'
 sourceContentHash: 'sha256:3f71545c6d9fa310'
+sourceBodyHash: 'sha256:110a2b9a43f5e411'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 

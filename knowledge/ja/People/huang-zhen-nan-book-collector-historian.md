@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'People/黃震南.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:26157944457addef'
+sourceBodyHash: 'sha256:5572b1dffb016fcd'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

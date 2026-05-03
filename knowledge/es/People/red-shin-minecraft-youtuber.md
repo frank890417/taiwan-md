@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'People/阿神.md'
 sourceCommitSha: '6fb6ec00'
 sourceContentHash: 'sha256:c0745c4b9d2ae295'
+sourceBodyHash: 'sha256:c2f250d5a21d59eb'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

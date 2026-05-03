@@ -21,6 +21,7 @@ translatedFrom: 'People/李多慧.md'
 readingTime: 10
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:c3e61e6efd81f405'
+sourceBodyHash: 'sha256:e2519e7a562b02a9'
 translatedAt: '2026-04-16T13:53:14+09:00'
 ---
 

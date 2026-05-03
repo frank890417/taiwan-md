@@ -11,6 +11,7 @@ lastHumanReview: false
 translatedFrom: Technology/維基百科.md
 sourceCommitSha: dc87c2a6
 sourceContentHash: sha256:d2683a8c1c0c16b8
+sourceBodyHash: 'sha256:d2c0d3b4dad31bc9'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

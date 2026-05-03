@@ -21,6 +21,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'
 translatedFrom: 'Food/牛肉麵.md'
 sourceCommitSha: '03431927'
 sourceContentHash: 'sha256:9ff225473fbb73d5'
+sourceBodyHash: 'sha256:060fe8dfc7f5f5ca'
 translatedAt: '2026-05-01T01:46:13+08:00'
 category: Food
 ---

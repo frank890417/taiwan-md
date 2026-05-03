@@ -18,6 +18,7 @@ lastHumanReview: 2026-04-19
 translatedFrom: People/郭金發.md
 sourceCommitSha: 2d6af4d2
 sourceContentHash: sha256:c7f8174c853276ba
+sourceBodyHash: 'sha256:2f700eb4acb2f9b7'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

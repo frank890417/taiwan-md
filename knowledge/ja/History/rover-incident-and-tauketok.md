@@ -2,6 +2,7 @@
 translatedFrom: History/羅發號事件與卓杞篤.md
 sourceCommitSha: 8413cde6
 sourceContentHash: sha256:4e90be2fbc74d7ed
+sourceBodyHash: 'sha256:38c21c047f01bdbf'
 translatedAt: '2026-05-01T14:48:26+08:00'
 category: History
 date: 2026-04-27

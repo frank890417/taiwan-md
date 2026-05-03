@@ -20,6 +20,7 @@ featured: 'false'
 translatedFrom: 'Society/台灣志工文化與公益參與.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3da44641d134eb50'
+sourceBodyHash: 'sha256:cf71241a19c21d04'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

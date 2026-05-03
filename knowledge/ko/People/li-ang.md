@@ -12,6 +12,7 @@ readingTime: 10
 featured: false
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4f3f80c62e1351eb'
+sourceBodyHash: 'sha256:94fd5400b85f9965'
 translatedAt: '2026-04-14T19:24:28+08:00'
 ---
 

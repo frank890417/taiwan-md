@@ -21,6 +21,7 @@ translatedFrom: 'People/黃春明.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2ec7b54fb5bdb0ff'
+sourceBodyHash: 'sha256:f81c1b7fb667e89e'
 translatedAt: '2026-04-14T19:20:08+08:00'
 ---
 

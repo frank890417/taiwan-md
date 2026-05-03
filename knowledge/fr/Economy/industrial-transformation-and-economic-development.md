@@ -14,6 +14,7 @@ lastHumanReview: false
 translatedFrom: "Economy/台灣產業轉型與經濟發展軌跡.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:a20b7c78580c0ee1"
+sourceBodyHash: 'sha256:1ed4b74513f1a2f6'
 translatedAt: "2026-04-14T19:21:33+08:00"
 ---
 

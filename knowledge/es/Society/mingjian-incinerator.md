@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: Society/名間焚化爐.md
 sourceCommitSha: 20baa2f8
 sourceContentHash: sha256:c4441b48a65d0629
+sourceBodyHash: 'sha256:8f8b961fdb887c42'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

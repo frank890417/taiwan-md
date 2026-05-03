@@ -11,6 +11,7 @@ lastHumanReview: true
 translatedFrom: History/大罷免.md
 sourceCommitSha: 887af6c4
 sourceContentHash: sha256:81f328afe392aa26
+sourceBodyHash: 'sha256:ac361a928edec55d'
 translatedAt: 2026-05-01T18:02:56+08:00
 ---
 

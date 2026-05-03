@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣教師的管教困境.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:0a9d7b4b73be1372'
+sourceBodyHash: 'sha256:50ce5b41a494b70c'
 translatedAt: '2026-05-01T12:21:52+08:00'
 ---
 

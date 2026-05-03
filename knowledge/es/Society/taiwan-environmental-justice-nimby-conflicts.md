@@ -1,18 +1,18 @@
 ---
-title: 'Environmental Justice and NIMBY Controversies in Taiwan'
-description: 'Explores the phenomenon of unequal distribution of environmental burdens in Taiwan, analyzing environmental inequality and social justice issues through incinerators, nuclear waste, and petrochemical industry NIMBY conflicts.'
+title: 'Justicia ambiental y conflictos NIMBY en Taiwán'
+description: 'Análisis del fenómeno de distribución desigual de la carga ambiental en Taiwán, desde los conflictos NIMBY asociados a incineradoras de residuos, desechos nucleares e industria petroquímica, hasta la desigualdad ambiental y las cuestiones de justicia social.'
 date: 2026-03-20
 tags:
   [
-    'Environmental Justice',
-    'NIMBY Effect',
-    'Environmental Inequality',
-    'Social Justice',
-    'Incinerators',
-    'Nuclear Waste',
-    'Petrochemical Industry',
+    'justicia ambiental',
+    'efecto NIMBY',
+    'desigualdad ambiental',
+    'justicia social',
+    'incineradoras de residuos',
+    'desechos nucleares',
+    'industria petroquímica',
   ]
-subcategory: 'Social Movements'
+subcategory: '社會運動'
 author: 'Taiwan.md Contributors'
 readingTime: 13
 featured: false
@@ -20,221 +20,223 @@ category: 'Society'
 lastVerified: 2026-03-20
 lastHumanReview: false
 translatedFrom: 'Society/台灣環境正義與鄰避爭議.md'
-sourceCommitSha: 'c67109e5'
-sourceContentHash: 'sha256:e107d04eb050c288'
-translatedAt: '2026-05-02T13:47:35+08:00'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:8d7b73d5dcd91cdf'
+sourceBodyHash: 'sha256:102f748afe8c1589'
+translatedAt: '2026-05-03T23:14:07+08:00'
 ---
 
-# Environmental Justice and NIMBY Controversies in Taiwan
+# Justicia ambiental y conflictos NIMBY en Taiwán
 
-Environmental Justice focuses on the fairness of distributing environmental burdens and environmental benefits. In Taiwan, environmental problems arising from industrial development are often concentrated in specific areas and specific groups, forming a phenomenon of "environmental inequality." From garbage incinerators and nuclear waste disposal to petrochemical industrial parks, these necessary but risky facilities always trigger NIMBY (Not In My Back Yard) controversies, reflecting deep contradictions in the distribution of environmental risks in Taiwanese society.
+La justicia ambiental se ocupa de la equidad en la distribución de las cargas y los beneficios ambientales. En Taiwán, los problemas ambientales generados durante el proceso de industrialización tienden a concentrarse en regiones y grupos étnicos específicos, configurando un fenómeno de «desigualdad ambiental». Desde las incineradoras de residuos, la disposición de desechos nucleares hasta los parques industriales petroquímicos, estas instalaciones necesarias pero riesgosas generan invariablemente conflictos NIMBY (*Not In My Back Yard*, «No en mi patio trasero»), reflejando las contradicciones profundas de la sociedad taiwanesa en torno a la distribución del riesgo ambiental.
 
-## Theoretical Foundations of Environmental Justice
+## Fundamentos teóricos de la justicia ambiental
 
-### Unequal Distribution of Environmental Burdens
+### Distribución desigual de la carga ambiental
 
-The core concept of environmental justice is "distributive fairness." Ideally, environmental benefits (such as clean air and beautiful landscapes) and environmental burdens (such as pollution facilities and health risks) should be evenly distributed. In reality, however, environmental burdens are often concentrated in specific areas, usually communities with economic disadvantages and limited political influence.
+El concepto central de la justicia ambiental es la «equidad distributiva». En condiciones ideales, los beneficios ambientales (como aire limpio y paisajes agradables) y las cargas ambientales (como instalaciones contaminantes y riesgos para la salud) deberían distribuirse de manera uniforme. Sin embargo, en la práctica, las cargas ambientales tienden a concentrarse en áreas específicas, generalmente comunidades económicamente vulnerables con menor influencia política.
 
-The distribution of environmental burdens in Taiwan is clearly unequal. The Liuchiu Petrochemical Industrial Park is located in Mai'ao Township, Yunlin County, where the local economy is primarily based on agriculture and fisheries, and residents have low incomes. The Kaohsiung Coastal Industrial Zone is located in Xiaogang District, where the population density is high but political influence is limited. This distribution model reflects the "principle of least resistance to capacity"—pollution facilities tend to be located where opposition is minimal.
+La distribución de la carga ambiental en Taiwán es claramente desigual. El parque petroquímico de Mailiao, en el condado de Yunlin, se ubica en una zona dedicada principalmente a la agricultura y la pesca, con ingresos bajos entre la población local. El parque industrial costero de Linhai, en el distrito de Siaogang de Kaohsiung, presenta alta densidad poblacional pero limitada influencia política. Este patrón de distribución refleja el «principio de mínima resistencia»: las instalaciones contaminantes tienden a ubicarse donde la oposición es menor.
 
-### Procedural Justice and the Right to Participate
+### Justicia procesal y derecho a la participación
 
-In addition to distributive fairness, environmental justice emphasizes "procedural justice," meaning that all affected groups should have equal opportunities to participate in environmental decision-making. However, Taiwan's Environmental Impact Assessment (EIA) system has long focused on technical assessments, ignoring public participation.
+Además de la equidad distributiva, la justicia ambiental enfatiza la «justicia procesal», es decir, que todos los grupos afectados deben tener igualdad de oportunidades para participar en las decisiones ambientales. No obstante, el sistema de evaluación de impacto ambiental de Taiwán ha privilegiado durante mucho tiempo la evaluación técnica, descuidando la participación pública.
 
-Residents often only learn about facilities after their location has been determined, lacking opportunities for prior participation in decision-making. Even when public hearings are held, they often become mere formalities, and public opinion rarely truly influences the decision-making outcome. This "decide first, communicate later" model is a major cause of NIMBY controversies.
+Los residentes a menudo se enteran de la instalación de una instalación después de que la decisión ya ha sido tomada, careciendo de oportunidades de participación previa. Incluso cuando se realizan audiencias públicas, estas suelen ser meramente formales, y la opinión ciudadana difícilmente influye en las decisiones finales. Este modelo de «decidir primero, comunicar después» es una causa importante de los conflictos NIMBY.
 
-### Intergenerational Justice and Risk Bearing
+### Justicia intergeneracional y distribución del riesgo
 
-Environmental justice also involves fairness between generations. The half-life of nuclear waste lasts for tens of thousands of years; the current generation enjoys the benefits of nuclear power, but the risks are borne by future generations. Similarly, industrial development brings economic growth, but the environmental costs may persist for decades.
+La justicia ambiental también abarca la equidad entre generaciones. Los desechos nucleares tienen una vida media de decenas de miles de años: las generaciones actuales disfrutan de los beneficios de la energía nuclear, pero el riesgo recae sobre las generaciones futuras. Del mismo modo, el desarrollo industrial trae crecimiento económico, pero el costo ambiental puede perdurar durante décadas.
 
-The traditional territories of Indigenous peoples often become sites for waste disposal, such as the nuclear waste storage on Lanyu (Orchid Island) and garbage landfills in mountain townships. These decisions were often made in eras when Indigenous peoples lacked political voice, but the impacts persist to this day, forming a "colonial environmentalism."
+Los territorios tradicionales de los pueblos indígenas se han convertido con frecuencia en sitios de disposición de residuos, como el almacenamiento de desechos nucleares en Lanyu (isla Orchid) o los vertederos de basura en municipios montañosos. Estas decisiones se tomaron a menudo en épocas en que los pueblos indígenas carecían de voz política, pero sus efectos persisten hasta hoy, configurando un «ambientalismo colonial».
 
-## The NIMBY Dilemma of Waste Management
+## El dilema NIMBY en la gestión de residuos
 
-### Incinerator Siting Controversies
+### Controversias por la ubicación de incineradoras
 
-The construction of garbage incinerators in Taiwan has been filled with NIMBY protests. During the promotion of the "one incinerator per county/city" policy in the 1990s, almost every incinerator faced strong opposition. The protest against the Xindian Anhang Incinerator was the most intense; local residents formed a self-help association and conducted a ten-year opposition movement.
+La construcción de incineradoras de residuos en Taiwán ha estado plagada de protestas NIMBY. Cuando en la década de 1990 se impulsó la política de «una incineradora por condado», prácticamente cada instalación enfrentó una fuerte oposición. La resistencia contra la incineradora de Ankeng, en el distrito de Xindian, fue la más intensa: los residentes locales formaron un comité de autodefensa y llevaron a cabo un movimiento de oposición que duró diez años.
 
-Reasons for opposition include health risks, falling property prices, and reduced quality of life. Dioxin emissions are the biggest concern. Although dioxin emissions from modern incinerators have dropped to extremely low levels, the public's fear of "toxins" is difficult to eliminate. The mindset of "not in my backyard" is understandable, but garbage must be disposed of somewhere.
+Las razones de la oposición incluían riesgos para la salud, depreciación del valor inmobiliario y deterioro de la calidad de vida. Las emisiones de dioxinas eran la principal preocupación; aunque las incineradoras modernas han reducido las emisiones de dioxinas a niveles extremadamente bajos, el miedo de la población a las «sustancias tóxicas» resulta difícil de disipar. La mentalidad de «no en mi patio trasero» es comprensible, pero los residuos deben procesarse en algún lugar.
 
-The government has attempted to resolve controversies using feedback funds. Townships where incinerators are located can receive feedback funds of tens of New Taiwan Dollars per ton of garbage, used for local construction. However, monetary compensation cannot fully alleviate concerns about environmental risks, and the fairness of the feedback mechanism is also questioned.
+El gobierno intentó resolver las controversias mediante compensaciones económicas. Los municipios donde se ubican las incineradoras reciben una compensación de varias decenas de dólares taiwaneses por tonelada de residuos, destinada a obras locales. Sin embargo, la compensación monetaria no logra disipar del todo las preocupaciones sobre el riesgo ambiental, y la equidad del mecanismo de compensación también ha sido cuestionada.
 
-### Cross-County Waste Processing
+### Gestión intermunicipal de residuos
 
-Taipei City sends garbage to New Taipei City for processing, and New Taipei City sends garbage to Taoyuan, creating a phenomenon of "garbage travel." While this cross-regional processing solves the immediate problems of each county/city, it also triggers new unfairness issues.
+Los residuos de la ciudad de Taipéi se envían a la ciudad de Nuevo Taipéi para su tratamiento, y los de Nuevo Taipéi se envían a Taoyuan, configurando un fenómeno de «viaje de la basura». Aunque este tratamiento interregional resuelve las necesidades urgentes de cada municipio, también genera nuevos problemas de inequidad.
 
-Landfills in remote mountainous areas become the final destination for urban garbage. Mountain townships such as Wulai, Sanxia, and Shihden, with sparse populations and limited political influence, often become sites for garbage landfills. Local residents protest, "Why must we bear the garbage created by urban people?"
+Los vertederos en zonas montañosas remotas se han convertido en el destino final de los residuos urbanos. Municipios montañosos como Wulai, Sanxia y Shiding, con escasa población y limitada influencia política, han sido frecuentemente designados como sitios para vertederos. Los residentes locales protestan: «¿Por qué tenemos que soportar la basura que generan los habitantes de la ciudad?».
 
-The distribution of garbage processing costs is also unfair. Counties/cities that generate garbage pay processing fees, but the counties/cities bearing the environmental risks often receive disproportionate compensation. The "polluter pays" principle is difficult to implement in cross-county garbage processing.
+La distribución de los costos de tratamiento de residuos también es desigual. Los municipios que generan los residuos pagan las tarifas de tratamiento, pero la compensación que reciben los municipios que asumen el riesgo ambiental suele ser desproporcionada. El principio de «quien contamina paga» resulta difícil de aplicar en el tratamiento intermunicipal de residuos.
 
-### Class Differences in Recycling
+### Diferencias de clase en el reciclaje
 
-The impact of waste reduction policies differs across socioeconomic classes. Middle-to-high-income families can purchase better products with less packaging, resulting in relatively less garbage. Low-income families often buy cheap goods with more packaging materials, generating larger amounts of garbage.
+Las políticas de reducción de residuos afectan de manera diferente a los distintos estratos socioeconómicos. Las familias de ingresos medios y altos pueden adquirir productos de mejor calidad, con menor embalaje y, por tanto, generar menos residuos. Las familias de bajos ingresos suelen comprar productos más baratos, con mayor material de embalaje y, en consecuencia, generan más residuos.
 
-The burden of recycling is also uneven. Street scavengers are mostly economically disadvantaged elderly people who engage in dangerous and dirty recycling work but earn meager incomes. Middle-to-high-income families enjoy the benefits of a clean environment, while the labor costs of recycling are borne by the bottom layer of society.
+La carga del reciclaje también es desigual. Los recolectores callejeros de materiales reciclables son en su mayoría personas mayores en situación económica vulnerable: realizan un trabajo peligroso e insalubre, pero con ingresos mínimos. Las familias de ingresos medios y altos disfrutan de los beneficios de un entorno limpio, mientras que los sectores más desfavorecidos asumen el costo laboral del reciclaje.
 
-## Ethnic Controversies in Nuclear Waste Disposal
+## Controversias étnicas en la disposición de desechos nucleares
 
-### The Lanyu Nuclear Waste Incident
+### El caso de los desechos nucleares en Lanyu
 
-The Lanyu Nuclear Waste Storage Site is a classic case of environmental justice controversy in Taiwan. In 1982, Taipower set up a low-level radioactive waste storage site on Lanyu, but did not fully inform the Tao people residents of the radiation risks. At the time, it was claimed to be a "fish canning factory," and the Tao people accepted the nuclear waste without knowing.
+El almacén de desechos nucleares de bajo nivel radiactivo en Lanyu es un caso emblemático de la controversia por justicia ambiental en Taiwán. En 1982, la empresa estatal Taipower instaló el almacén en Lanyu sin informar adecuadamente a los residentes del pueblo Tao sobre los riesgos de radiación. En aquel entonces, se presentó como una «fábrica de conservas de pescado», y los Tao aceptaron la presencia de desechos nucleares sin conocer su verdadera naturaleza.
 
-This event highlights multiple injustices: ethnic injustice (exploiting the weak status of Indigenous peoples), intergenerational injustice (nuclear waste impacts persist for hundreds of years), informational injustice (concealing true risks), and procedural injustice (lack of true informed consent).
+Este episodio puso de manifiesto múltiples formas de injusticia: injusticia étnica (explotación de la posición vulnerable de los pueblos indígenas), injusticia intergeneracional (los desechos nucleares afectarán a cientos de generaciones futuras), injusticia informativa (ocultamiento del riesgo real) y injusticia procesal (ausencia de un consentimiento verdaderamente informado).
 
-The Tao people's resistance has lasted for forty years. They demand the removal of nuclear waste and the restoration of their ancestral land. "Nuclear waste out of Lanyu" is not just an environmental demand, but a claim for Indigenous self-determination. Although the government promised to remove the waste, the difficulty in selecting a final disposal site means the nuclear waste remains on Lanyu.
+La lucha del pueblo Tao se ha prolongado durante cuarenta años. Exigen la retirada de los desechos nucleares y la restauración de la tierra de sus ancestros. «Los desechos nucleares fuera de Lanyu» no es solo una demanda ambiental, sino también una reivindicación del derecho de autodeterminación de los pueblos indígenas. Aunque el gobierno se comprometió a retirar los desechos, la selección de un sitio definitivo de disposición ha resultado difícil, y los desechos nucleares permanecen aún en Lanyu.
 
-### The Dilemma of Final Disposal Site Selection
+### El dilema de la selección del sitio de disposición final
 
-High-level radioactive waste requires deep geological disposal in geologically stable areas. Taipower commissioned Chung Hsing Engineering to conduct geological surveys;金山 (Jinshan), Wanli, Penghu, and other places were all listed as candidate sites, but all faced strong opposition.
+Los desechos nucleares de alta actividad requieren una disposición geológica profunda en formaciones geológicas estables. Taipower encargó a la empresa de ingeniería Sinotech la realización de estudios geológicos; sitios como Jinshan, Wanli y Penghu fueron considerados candidatos, pero todos enfrentaron una fuerte oposición.
 
-The public's fear of nuclear waste is understandable, but the realistic problem that "someone must bear it" cannot be avoided. Countries like Sweden and Finland have resolved siting issues through volunteer communities, generous feedback, and transparent decision-making processes, but Taiwan's social trust foundation is weak, making it difficult to replicate this model.
+El miedo de la población a los desechos nucleares es comprensible, pero la realidad de que «alguien tiene que asumir la carga» resulta ineludible. Países como Suecia y Finlandia han resuelto el problema de selección de sitios mediante comunidades voluntarias, compensaciones generosas y procesos de decisión transparentes, pero la base de confianza social en Taiwán es frágil, lo que dificulta replicar ese modelo.
 
-The screening criteria for candidate sites also trigger controversy. Technical safety is certainly important, but social acceptance is equally不可忽视 (cannot be ignored). Selecting sites solely based on geological conditions while ignoring local public opinion will inevitably trigger protests. How to find a balance between technical rationality and social rationality is a challenge in policy-making.
+Los criterios de selección de sitios candidatos también generan controversia. La seguridad técnica es importante, pero la aceptación social es igualmente ineludible. Seleccionar un sitio basándose únicamente en condiciones geológicas, ignorando la voluntad local, inevitablemente provoca resistencia. Encontrar un equilibrio entre la racionalidad técnica y la racionalidad social constituye un desafío para la formulación de políticas.
 
-### The Fair Burden of Nuclear Plant Decommissioning
+### La carga equitativa del desmantelamiento nuclear
 
-Taiwan's three nuclear power plants are being decommissioned in succession, generating large amounts of low-level radioactive waste. The disposal of these wastes also faces environmental justice issues. Nuclear power plants are mostly located in the north, and electricity is mainly supplied to the Taipei metropolitan area, but waste disposal sites may be located in other counties/cities.
+Las tres centrales nucleares de Taiwán se están desmantelando progresivamente, generando grandes cantidades de desechos de baja actividad. La disposición de estos desechos enfrenta igualmente problemas de justicia ambiental. Las centrales nucleares se ubican principalmente en el norte de la isla, y la electricidad que generan abastece principalmente las áreas metropolitanas de Taipéi y Nuevo Taipéi, pero los sitios de disposición de desechos podrían ubicarse en otros condados.
 
-Decommissioning costs are borne by the entire population, but environmental risks are concentrated in specific areas. This model of socializing costs and localizing risks is a manifestation of environmental injustice in nuclear energy policy. How to make beneficiaries bear corresponding responsibilities requires innovative institutional design.
+Los costos de desmantelamiento son asumidos por toda la ciudadanía, pero el riesgo ambiental se concentra en áreas específicas. Este modelo de socialización de costos y localización de riesgos es una manifestación de la injusticia ambiental de la política nuclear. Lograr que quienes se benefician asuman responsabilidades proporcionales requiere innovación en el diseño institucional.
 
-## Environmental Burdens of the Petrochemical Industry
+## La carga ambiental de la industria petroquímica
 
-### Health Risks of the Liuchiu Industrial Park
+### Riesgos para la salud en el parque de Mailiao
 
-The Liuchiu Petrochemical Industrial Park in Yunlin Mai'ao is Taiwan's largest petrochemical base, with an annual output value exceeding 2 trillion New Taiwan Dollars. However, the park also brings severe environmental burdens: air pollution, water pollution, soil pollution, and health risks.
+El parque petroquímico de Mailiao, en el condado de Yunlin, es la mayor base petroquímica de Taiwán, con una producción anual que supera los dos billones de dólares taiwaneses. Sin embargo, el parque también genera graves cargas ambientales: contaminación del aire, del agua, del suelo y riesgos para la salud.
 
-Research by the College of Public Health at National Taiwan University found that the cancer incidence rate among residents near the Liuchiu park is significantly higher. The incidence rates of lung cancer and liver cancer are 20-30% higher than the national average. The incidence rates of childhood asthma and allergies are also significantly higher. These health risks are mainly borne by local residents, but economic benefits are mainly obtained by enterprises and shareholders.
+Investigaciones de la Escuela de Salud Pública de la Universidad Nacional de Taiwán han encontrado que la incidencia de cáncer entre los residentes cercanos al parque de Mailiao es significativamente mayor. La incidencia de cáncer de pulmón y de hígado supera el promedio nacional en un 20-30 %. La prevalencia de asma y alergias infantiles también es notablemente más alta. Estos riesgos para la salud son asumidos principalmente por los residentes locales, mientras que los beneficios económicos recaen sobre todo en las empresas y sus accionistas.
 
-The air pollution from Liuchiu has a wide impact range. Pollutants such as PM2.5, sulfur dioxide, and nitrogen oxides spread with the wind, affecting neighboring counties/cities such as Changhua and Nantou. The Environmental Protection Administration's air quality monitoring shows that air pollution concentrations in the Yunlin area have long exceeded standards.
+La contaminación del aire generada por Mailiao tiene un amplio alcance. Contaminantes como PM2.5, dióxido de azufre y óxidos de nitrógeno se dispersan con el viento, afectando condados vecinos como Changhua y Nantou. Los monitores de calidad del aire de la Agencia de Protección Ambiental muestran que las concentraciones de contaminación en el área de Yunlin superan los límites permitidos de manera sostenida.
 
-### The Dalinpu Relocation Controversy
+### La controversia por la reubicación de Dalinpu
 
-The Dalinpu area in Kaohsiung is surrounded by a petrochemical industrial park, and residents have been exposed to air pollution for a long time. The government's push for the Dalinpu relocation plan has been slow, triggering resident dissatisfaction.
+La zona de Dalinpu, en Kaohsiung, está rodeada por parques industriales petroquímicos, y sus residentes están expuestos de manera crónica a la contaminación del aire. El gobierno ha impulsado un plan de reubicación para Dalinpu, pero su avance lento ha generado malestar entre los residentes.
 
-Relocation compensation standards are the focus of controversy. The government acquires houses at market prices, but residents believe the compensation is insufficient to purchase equivalent housing elsewhere. Elderly residents are reluctant to leave their hometowns, while young people worry about employment issues. Relocation involves the reconstruction of the entire community, not just house buying and selling.
+El estándar de compensación por reubicación es el principal foco de controversia. El gobierno adquiere las viviendas a precio de mercado, pero los residentes consideran que la compensación es insuficiente para comprar una vivienda equivalente en otra ubicación. Los residentes de edad avanzada se resisten a abandonar su tierra natal, y los jóvenes temen por sus oportunidades laborales. La reubicación implica la reconstrucción de toda la comunidad, no se limita a una transacción inmobiliaria.
 
-Living arrangements during temporary relocation are also a difficult problem. Children's schooling, elderly medical care, and work commuting all need to be rearranged. The government's resettlement plan lacks details, and residents lack a sense of certainty about their future lives.
+La organización de la vida durante el período de traslado temporal también es un problema. La escolarización de los niños, la atención médica de los ancianos y los desplazamientos laborales deben reorganizarse. El plan de reasentamiento gubernamental carece de detalles, y los residentes carecen de certeza sobre su vida futura.
 
-### Transparency of Environmental Monitoring
+### Transparencia en el monitoreo ambiental
 
-Environmental monitoring in the petrochemical industry is often conducted by enterprises themselves, and the credibility of monitoring results is questioned. The public demands the government to set up independent monitoring stations, but the professional threshold for interpreting monitoring data is high, making it difficult for ordinary citizens to judge.
+El monitoreo ambiental de la industria petroquímica suele ser realizado por las propias empresas, lo que genera dudas sobre la fiabilidad de los resultados. La población exige que el gobierno instale estaciones de monitoreo independientes, pero la interpretación de los datos de monitoreo requiere un alto nivel de especialización, difícil de evaluar para el ciudadano común.
 
-The tracking and supervision mechanism for Environmental Impact Assessments is weak. Many EIA commitments in industrial zones are difficult to verify afterward, and penalties for violations are insufficient. The public lacks confidence in government regulatory capabilities, deepening distrust of industrial facilities.
+El mecanismo de seguimiento y supervisión de la evaluación de impacto ambiental es deficiente. Muchos compromisos de evaluación ambiental de parques industriales resultan difíciles de verificar a posteriori, y las sanciones por incumplimiento son insuficientes. La falta de confianza de la población en la capacidad de regulación gubernamental profundiza la desconfianza hacia las instalaciones industriales.
 
-Citizen monitoring movements have emerged. Organizations such as the Changhua Environmental Protection Alliance and Yunlin Environmental Protection Alliance have purchased their own monitoring equipment to conduct air quality monitoring. This citizen science compensates for the lack of official monitoring, but also reflects the deficiencies in government regulation.
+Surgen movimientos de monitoreo ciudadano. Organizaciones como la Alianza Ambiental de Changhua y la Alianza Ambiental de Yunlin adquieren equipos de monitoreo por cuenta propia para vigilar la calidad del aire. Esta ciencia ciudadana complementa las deficiencias del monitoreo oficial, pero también refleja las carencias de la regulación gubernamental.
 
-## Social Distribution of Environmental Risks
+## Distribución social del riesgo ambiental
 
-### Class and Environmental Exposure
+### Clase social y exposición ambiental
 
-Environmental risks in Taiwan are clearly related to social class. Housing near industrial zones is mostly inhabited by middle-to-low-income families because housing prices are low and rents are cheap. High-income families live in areas with better environments, such as hillside residential areas and seaside villa districts.
+En Taiwán, el riesgo ambiental está claramente correlacionado con la clase social. Las viviendas cercanas a zonas industriales son ocupadas principalmente por familias de bajos y medianos ingresos, debido a los menores precios de compra y alquiler. Las familias de altos ingresos residen en zonas con mejor calidad ambiental, como urbanizaciones en laderas o villas con vistas al mar.
 
-Occupational environmental exposure also has class differences. Blue-collar workers such as factory operators, construction workers, and sanitation workers are exposed to higher environmental risks. White-collar workers work in air-conditioned offices, with relatively lower environmental exposure.
+La exposición ambiental ocupacional también presenta diferencias de clase. Los trabajadores de fábrica, obreros de la construcción y personal de limpieza —trabajadores manuales— están expuestos a mayores riesgos ambientales. Los trabajadores de oficina realizan sus labores en espacios con aire acondicionado, con una exposición ambiental relativamente menor.
 
-Educational level affects environmental risk perception. Highly educated people are more able to understand environmental risks and have more ability to take protective measures. Low-educated people may underestimate risks or be unable to move away from high-risk areas due to economic considerations.
+El nivel educativo influye en la percepción del riesgo ambiental. Los ciudadanos con mayor formación académica comprenden mejor los riesgos ambientales y tienen más capacidad para adoptar medidas de protección. Las personas con menor nivel educativo pueden subestimar los riesgos, o verse imposibilitadas económicamente de abandonar zonas de alto riesgo.
 
-### Urban-Rural Environmental Gap
+### Brecha ambiental urbano-rural
 
-Urban areas enjoy better environmental quality and public services. Public transportation is developed, green spaces are abundant, and medical resources are sufficient. Rural areas often bear environmental burdens generated by cities: garbage landfills, sewage treatment plants, and thermal power plants are mostly located in rural areas.
+Las zonas urbanas disfrutan de mejor calidad ambiental y servicios públicos. El transporte público es más desarrollado, hay más espacios verdes y los recursos médicos son más abundantes. Las zonas rurales, en cambio, suelen soportar las cargas ambientales generadas por las ciudades: vertederos, plantas de tratamiento de aguas residuales y centrales térmicas se ubican frecuentemente en áreas rurales.
 
-The rural environmental monitoring network is sparse, making it difficult to discover pollution events in time. Medical resources are insufficient, making it difficult to handle environmental health risks in time. Farmers may continue to farm on polluted land due to economic considerations.
+La red de monitoreo ambiental en zonas rurales es más dispersa, lo que dificulta la detección oportuna de incidentes de contaminación. La escasez de recursos médicos impide el tratamiento inmediato de los riesgos ambientales para la salud. Los agricultores, por razones económicas, pueden continuar cultivando en suelos contaminados.
 
-Environmental justice issues in the process of urbanization are also worth attention. Urban renewal often moves low-income residents to areas with poorer environments. Soil remediation of industrial sites is often funded by the public sector, but land value appreciation benefits are obtained by private entities.
+Los problemas de justicia ambiental en el proceso de urbanización también merecen atención. La renovación urbana suele desplazar a residentes de bajos ingresos hacia zonas con peor calidad ambiental. La remediación de la contaminación del suelo en antiguos emplazamientos industriales suele ser financiada con fondos públicos, pero las plusvalías del terreno benefician a particulares.
 
-### Ethnicity and Environmental Justice
+### Pueblos indígenas y justicia ambiental
 
-Indigenous areas are often the intended sites for environmental risk facilities. Garbage landfills, nuclear waste storage sites, and large reservoirs in mountain townships all impact the traditional territories of Indigenous peoples.
+Los territorios de los pueblos indígenas se han convertido frecuentemente en sitios designados para instalaciones de riesgo ambiental. Los vertederos en municipios montañosos, los almacenes de desechos nucleares y los grandes embalses han impactado los territorios tradicionales de los pueblos indígenas.
 
-Water resource distribution also has ethnic differences. Indigenous communities in mountain townships often lack safe drinking water, while downstream urban areas have abundant water. The benefits and cost-bearing of water resources are disproportionate.
+La distribución de los recursos hídricos también presenta diferencias étnicas. Las comunidades indígenas en zonas montañosas carecen a menudo de agua potable segura, mientras que las áreas urbanas aguas abajo no experimentan escasez. Los beneficios y los costos de los recursos hídricos se distribuyen de manera desproporcionada.
 
-Indigenous environmental knowledge and management systems have long been ignored. Traditional natural resource management methods may be more sustainable than modern scientific management, but they lack policy attention.
+El conocimiento ambiental y los sistemas de gestión de los pueblos indígenas han sido ignorados durante mucho tiempo. Las formas tradicionales de gestión de recursos naturales pueden ser más sostenibles que la gestión científica moderna, pero carecen de reconocimiento político.
 
-## Response Strategies and Institutional Reform
+## Estrategias de respuesta y reforma institucional
 
-### Reform of the Environmental Impact Assessment System
+### Reforma del sistema de evaluación de impacto ambiental
 
-The current EIA system emphasizes technology over society and needs to increase the weight of social impact assessments. The scope of assessment should include aspects such as health risks, social impacts, and cultural impacts. The assessment process should have more opportunities for public participation.
+El sistema actual de evaluación de impacto ambiental privilegia lo técnico sobre lo social; es necesario aumentar el peso de la evaluación de impacto social. El alcance de la evaluación debe incluir riesgos para la salud, impacto social, influencia cultural, entre otros aspectos. El proceso de evaluación debe ofrecer más oportunidades de participación pública.
 
-The composition of the EIA committee needs to be diversified. In addition to technical experts, social science experts, local representatives, and NGO representatives should be included. The decision-making process should be more transparent, and public opinions should have clear handling procedures.
+La composición de los comités de evaluación de impacto ambiental debe diversificarse. Además de expertos técnicos, se deben incluir especialistas en ciencias sociales, representantes locales y representantes de organizaciones no gubernamentales. El proceso de toma de decisiones debe ser más transparente, y las opiniones ciudadanas deben contar con procedimientos claros de atención.
 
-The EIA tracking and supervision mechanism needs to be strengthened. Set up independent third-party monitoring institutions to regularly review the implementation of EIA commitments. Penalties for violations should have a deterrent effect and cannot be merely symbolic fines.
+El mecanismo de seguimiento y supervisión de la evaluación de impacto ambiental debe fortalecerse. Se deben establecer organismos de monitoreo independientes de terceros que revisen periódicamente el cumplimiento de los compromisos de evaluación ambiental. Las sanciones por incumplimiento deben tener un efecto disuasorio, no ser meramente simbólicas.
 
-### Risk Communication Mechanisms
+### Mecanismos de comunicación de riesgos
 
-Establish effective risk communication mechanisms to allow the public to understand and participate in risk decision-making. Risk information should be presented in a way that the public can understand, avoiding technical black boxes.
+Establecer mecanismos eficaces de comunicación de riesgos que permitan a la población comprender y participar en las decisiones sobre riesgos. La información sobre riesgos debe presentarse de manera comprensible para la ciudadanía, evitando la opacidad técnica.
 
-Establish permanent communication platforms, not just communicating when facilities are being built. Regularly hold community meetings, collect public opinions, and respond to public concerns. Building trust requires long-term effort.
+Crear plataformas de comunicación permanentes, no limitadas al momento de la construcción de una instalación. Realizar reuniones comunitarias periódicas para recoger opiniones ciudadanas y responder a las preocupaciones de la población. Construir confianza requiere un esfuerzo sostenido a largo plazo.
 
-The media plays an important role in risk communication. Science journalists need better professional training to accurately report environmental risk information. Avoid sensational reporting, but do not ignore reasonable public concerns.
+Los medios de comunicación desempeñan un papel importante en la comunicación de riesgos. Los periodistas científicos necesitan mejor formación profesional para informar con precisión sobre riesgos ambientales. Se deben evitar los sensacionalismos, pero tampoco ignorar las preocupaciones legítimas de la población.
 
-### Compensation and Feedback Mechanisms
+### Mecanismos de compensación y retribución
 
-Design fair compensation mechanisms, not just monetary compensation, but also considering community development needs. The use of feedback funds should be transparent and public, truly used to improve the quality of life locally.
+Diseñar mecanismos de compensación equitativos que vayan más allá de la compensación monetaria, considerando también las necesidades de desarrollo comunitario. El uso de los fondos de compensación debe ser transparente y destinarse efectivamente a mejorar la calidad de vida local.
 
-Establish a health fund system to provide health monitoring and medical guarantees for residents near environmental risk facilities. Regular health checks, medical expense subsidies, and health risk research can all be included in the fund scope.
+Establecer un sistema de fondo de salud que ofrezca monitoreo sanitario y cobertura médica a los residentes cercanos a instalaciones de riesgo ambiental. Exámenes médicos periódicos, subsidios para gastos médicos e investigación sobre riesgos para la salud pueden incluirse en el ámbito del fondo.
 
-Consider establishing an "Environmental Justice Fund" to assist environmentally disadvantaged communities in improving environmental quality. Funding sources can include pollution fees, environmental taxes, carbon taxes, and other environmentally related revenues.
+Considerar la creación de un «Fondo de Justicia Ambiental» para asistir a las comunidades ambientalmente vulnerables en la mejora de su calidad ambiental. Las fuentes de financiamiento pueden incluir tasas por contaminación, impuestos ambientales, impuestos al carbono y otros ingresos relacionados con el medio ambiente.
 
-### Citizen Participation Systems
+### Sistemas de participación ciudadana
 
-Strengthen the legal foundation for citizen participation in environmental decision-making. Establish the public's right to environmental information, participation, and supervision. Government information should be proactively disclosed, and public opinions should have clear handling procedures.
+Fortalecer la base legal de la participación ciudadana en las decisiones ambientales. Establecer el derecho de la ciudadanía a la información ambiental, a la participación y a la supervisión. La información gubernamental debe ser proactivamente pública, y las opiniones ciudadanas deben contar con procedimientos claros de atención.
 
-Empower environmentally disadvantaged communities to participate. Provide resources such as legal assistance, technical support, and organizational training, allowing disadvantaged communities to effectively participate in environmental decision-making.
+Fortalecer la capacidad de participación de las comunidades ambientalmente vulnerables. Proporcionar recursos de asistencia jurídica, apoyo técnico y formación organizativa para que las comunidades desfavorecidas puedan participar eficazmente en las decisiones ambientales.
 
-Promote the application of participatory budgets in environmental policies. Allow the public to directly participate in the allocation decisions of environmental budgets, increasing the democratic legitimacy of policies.
+Promover la aplicación del presupuesto participativo en las políticas ambientales. Permitir que la ciudadanía participe directamente en las decisiones de asignación del presupuesto ambiental, aumentando la legitimidad democrática de las políticas.
 
-## International Experience and Insights
+## Experiencias internacionales y enseñanzas
 
-### The US Environmental Justice Movement
+### El movimiento de justicia ambiental en Estados Unidos
 
-The US Environmental Justice Movement originated in the 1980s, focusing on the phenomenon of toxic waste facilities concentrated in African American communities. After thirty years of development, environmental justice has been integrated into the mainstream of federal policy.
+El movimiento de justicia ambiental en Estados Unidos se originó en la década de 1980, centrado en la concentración de instalaciones de residuos tóxicos en comunidades afroamericanas. Tras tres décadas de desarrollo, la justicia ambiental se ha incorporado al mainstream de la política federal.
 
-The US Environmental Protection Agency established an Office of Environmental Justice to ensure that all policies consider environmental justice aspects. Federal government agencies must assess the impact on disadvantaged communities when formulating policies.
+La Agencia de Protección Ambiental de Estados Unidos estableció una Oficina de Justicia Ambiental para garantizar que todas las políticas consideren la dimensión de justicia ambiental. Los organismos del gobierno federal deben evaluar el impacto sobre las comunidades vulnerables al formular políticas.
 
-California's Environmental Justice Act (SB 535) stipulates that 25% of greenhouse gas reduction investments must be used for disadvantaged communities. This "beneficiary priority" principle is worth reference for Taiwan.
+La Ley de Justicia Ambiental de California (SB 535) establece que el 25 % de las inversiones para la reducción de gases de efecto invernadero deben destinarse a comunidades desfavorecidas. Este principio de «prioridad para los beneficiarios» es digno de referencia para Taiwán.
 
-### Procedural Justice in Europe
+### La justicia procesal en Europa
 
-The European Union's Aarhus Convention establishes procedural rights such as the right to access environmental information, the right to public participation, and the right to judicial remedy. Member states must establish corresponding legal systems.
+La Convención de Aarhus de Europa estableció el derecho de acceso a la información ambiental, el derecho de participación pública y el derecho de recurso judicial, entre otros derechos procedimentales. Los Estados miembros deben establecer los correspondientes marcos legales.
 
-Sweden's environmental court system allows the public to effectively remedy environmental rights. Professional judges, technical experts, and civil representatives jointly hear environmental cases. Judgments have mandatory force, and both the government and enterprises must comply.
+El sistema de tribunales ambientales de Suecia permite a la ciudadanía defender eficazmente sus derechos ambientales. Jueces especializados, expertos técnicos y representantes de la sociedad civil conocen conjuntamente los casos ambientales. Las sentencias son vinculantes y tanto el gobierno como las empresas deben acatarlas.
 
-The Netherlands' Environmental Impact Assessment system emphasizes public participation. The public can not only express opinions but also influence the scope and methods of assessment. Assessment results must respond to issues of concern to the public.
+El sistema de evaluación de impacto ambiental de los Países Bajos enfatiza la participación pública. Los ciudadanos no solo pueden expresar opiniones, sino también influir en el alcance y los métodos de evaluación. Los resultados de la evaluación deben responder a las preocupaciones planteadas por la población.
 
-### Risk Communication in Japan
+### La comunicación de riesgos en Japón
 
-Japan has vigorously promoted risk communication systems after the nuclear disaster. The government established a dedicated agency, trained risk communication experts, and established standardized communication procedures.
+Tras el desastre nuclear, Japón impulsó vigorosamente un sistema de comunicación de riesgos. El gobierno estableció organismos especializados, capacitó expertos en comunicación de riesgos y creó procedimientos estandarizados de comunicación.
 
-The handling experience of the Fukushima nuclear disaster shows that risk communication is not just a technical issue, but a trust issue. The government must acknowledge uncertainty and assume decision-making responsibility to build public trust.
+La experiencia en el manejo del desastre nuclear de Fukushima demostró que la comunicación de riesgos no es solo un problema técnico, sino también un problema de confianza. El gobierno debe reconocer la incertidumbre y asumir la responsabilidad de las decisiones para poder generar confianza ciudadana.
 
-Local governments in Japan play an important role in risk communication. The attitude and policies of local heads often determine the success or failure of risk communication.
+Los gobiernos locales de Japón desempeñan un papel importante en la comunicación de riesgos. La actitud y las políticas de los líderes locales a menudo determinan el éxito o fracaso de la comunicación de riesgos.
 
-## Outlook and Conclusion
+## Perspectivas y conclusión
 
-Taiwan's environmental justice issues reflect deeper structures of social inequality. Solving environmental justice issues requires addressing multiple inequalities of class, ethnicity, urban-rural divide, and generations simultaneously.
+Los problemas de justicia ambiental en Taiwán reflejan estructuras más profundas de desigualdad social. Resolver los problemas de justicia ambiental requiere abordar simultáneamente múltiples dimensiones de desigualdad: de clase, étnica, urbano-rural e intergeneracional.
 
-Future challenges include: climate change exacerbating the unequal distribution of environmental risks, just transition in the process of energy transition, social impacts of circular economy development, and international trade environmental justice issues, etc.
+Los desafíos futuros incluyen: el cambio climático, que agrava la distribución desigual del riesgo ambiental; la transición justa en el proceso de transición energética; el impacto social del desarrollo de la economía circular; y las cuestiones de justicia ambiental en el comercio internacional, entre otros.
 
-Environmental justice is not just an ideal, but a practice. Establishing fair, transparent, and participatory environmental governance systems, allowing all people to enjoy environmental quality and bear environmental responsibilities, is a necessary condition for Taiwan to move towards a sustainable society.
+La justicia ambiental no es solo un ideal, sino también una cuestión práctica. Establecer un sistema de gobernanza ambiental equitativo, transparente y participativo, que permita a toda la ciudadanía disfrutar de la calidad ambiental y asumir responsabilidades ambientales, es una condición necesaria para que Taiwán avance hacia una sociedad sostenible.
 
-Environmental decision-making in a democratic society should be based on full information, open debate, and procedural justice. There are no perfect solutions, but we can pursue fairer processes. The realization of environmental justice requires the joint efforts of the government, enterprises, and civil society, and more importantly, the active participation of every citizen.
+Las decisiones ambientales en una democracia deben basarse en información suficiente, debate público y justicia procesal. No existe una solución perfecta, pero se puede aspirar a un proceso más equitativo. La realización de la justicia ambiental requiere el esfuerzo conjunto del gobierno, las empresas y la sociedad civil, y sobre todo, la participación activa de cada ciudadano.
 
-**Further Reading**:
+**Lecturas complementarias**:
 
-- [Tin Shacks](/society/鐵皮屋) — The demolition of Wuzai River is a typical case of environmental justice: the pollution, demolition, and relocation dilemma of a 400-hectare tin factory settlement
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — Policy aspects of housing issues: social housing supply and rental market reform
+- [鐵皮屋](/society/鐵皮屋) — La demolición de Wenzizhun es un caso emblemático de justicia ambiental: contaminación, desmantelamiento y dificultades de reasentamiento de un asentamiento industrial de 400 hectáreas con estructuras de chapa metálica
+- [社會住宅與居住正義](/society/社會住宅與居住正義) — La dimensión política de la problemática de la vivienda: oferta de vivienda social y reforma del mercado de alquiler
+- [盧秀燕](/people/盧秀燕) — La política que ganó Taichung en 2018 con la agenda ambiental: la central térica de Taichung, PM2.5 y el campo de batalla concreto de la transición energética
 
-## References
+## Referencias
 
-- [Foundation for Environmental Rights](https://www.erf.org.tw/) — Environmental law and public interest litigation
-- [Earth Citizen Foundation](https://www.cet-taiwan.org/) — Environmental justice advocacy and citizen action
-- [Taiwan Environmental Information Association](https://e-info.org.tw/) — Environmental news and issue analysis
-- [Green Citizen Action Alliance](https://www.gcaa.org.tw/) — Anti-nuclear and energy policy advocacy
-- [Wild at Heart Ecological Association](https://www.wildatheart.org.tw/) — Environmental law and policy supervision
-- [Takao Mountain Association](https://www.takao.org.tw/) — Local environmental protection and community participation
-- [Changhua County Environmental Protection Alliance](http://www.cepf.org.tw/) — Anti-air pollution and environmental monitoring
-- [Lanyu Tao Cultural and Educational Foundation](http://www.teyaw.org/) — Nuclear waste removal and Indigenous rights
-- [Environmental Protection Administration, Executive Yuan](https://www.epa.gov.tw/) — Environmental policy and regulatory information
-- [College of Public Health, National Taiwan University](https://www.sph.ntu.edu.tw/) — Environmental health risk research
-- _Environmental Justice: Environmental Risks in Disadvantaged Communities_, by Du Wenling, Kaixue Culture, 2012
-- _Introduction to Taiwan's Environmental Movement_, by Ho Ming-hsiu, Qunxue Publishing, 2006
+- [環境權保障基金會](https://www.erf.org.tw/) — Derecho ambiental y litigio de interés público
+- [地球公民基金會](https://www.cet-taiwan.org/) — Incidencia en justicia ambiental y acción ciudadana
+- [台灣環境資訊協會](https://e-info.org.tw/) — Noticias ambientales y análisis de temas
+- [綠色公民行動聯盟](https://www.gcaa.org.tw/) — Incidencia antinuclear y en política energética
+- [台灣蠻野心足生態協會](https://www.wildatheart.org.tw/) — Supervisión legal y política ambiental
+- [高雄市柴山會](https://www.takao.org.tw/) — Protección ambiental local y participación comunitaria
+- [彰化縣環境保護聯盟](http://www.cepf.org.tw/) — Lucha contra la contaminación del aire y monitoreo ambiental
+- [蘭嶼達悟族文教基金會](http://www.teyaw.org/) — Retiro de desechos nucleares y derechos indígenas
+- [行政院環境保護署](https://www.epa.gov.tw/) — Políticas y regulaciones ambientales
+- [台灣大學公共衛生學院](https://www.sph.ntu.edu.tw/) — Investigación sobre riesgos ambientales para la salud
+- *Justicia ambiental: riesgos ambientales en comunidades vulnerables*, de Wenling Du, Kaixuan Culture, 2012
+- *Introducción a los movimientos ambientales en Taiwán*, de Mingxiu He, Qunxue Publishing, 2006

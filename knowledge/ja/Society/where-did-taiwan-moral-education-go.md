@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣的道德課去哪了.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:3adbaa9747565b49'
+sourceBodyHash: 'sha256:4d83beba3ad84c03'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

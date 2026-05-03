@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: 'Art/台灣水彩畫的百年流變.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c0b72206c0902f28'
+sourceBodyHash: 'sha256:0797f8f5d26b7f91'
 translatedAt: '2026-05-01T18:02:56+08:00'
 category: Art
 ---

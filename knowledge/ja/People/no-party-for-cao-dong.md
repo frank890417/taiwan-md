@@ -63,6 +63,7 @@ perspectives:
 translatedFrom: 'People/草東沒有派對.md'
 sourceCommitSha: '9e6e29f2'
 sourceContentHash: 'sha256:c93963fdd3e6600a'
+sourceBodyHash: 'sha256:5d39f10852397392'
 translatedAt: '2026-05-01T17:15:07+08:00'
 ---
 

@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'People/陳菊.md'
 sourceCommitSha: 'f94d76ee'
 sourceContentHash: 'sha256:b0c2ac2ae0cad64d'
+sourceBodyHash: 'sha256:5121ea375a0a93ff'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

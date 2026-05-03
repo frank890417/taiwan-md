@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源重寫.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4a5c1a5de9cca364'
+sourceBodyHash: 'sha256:7e5da6fad0f6882b'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

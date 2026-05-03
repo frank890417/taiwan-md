@@ -20,6 +20,7 @@ featured: true
 translatedFrom: History/清法戰爭.md
 sourceCommitSha: 956a36f3
 sourceContentHash: sha256:e29f16bbd0760f6c
+sourceBodyHash: 'sha256:f135e504997bf040'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

@@ -18,6 +18,7 @@ lastHumanReview: true
 translatedFrom: Culture/噗浪Plurk.md
 sourceCommitSha: 0851f334
 sourceContentHash: sha256:a38fe6b9c1f6f658
+sourceBodyHash: 'sha256:147f1c5986f4274b'
 translatedAt: 2026-05-02T01:17:17+08:00
 ---
 

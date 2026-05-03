@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: Technology/IG.md
 sourceCommitSha: e42d7520
 sourceContentHash: sha256:a7ab7951cc810aea
+sourceBodyHash: 'sha256:584e7ee9d0c2d903'
 translatedAt: 2026-05-02T13:31:21+08:00
 ---
 

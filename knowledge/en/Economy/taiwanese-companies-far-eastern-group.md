@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：遠東集團.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d6da6fce353b5bfa'
+sourceBodyHash: 'sha256:4d55bf95947dc191'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: "Far Eastern Group: From a Shanghai Textile Mill to Taiwan's Most Diversified Business Empire"
 description: 'How did a small textile factory in Shanghai 87 years ago evolve into a Taiwanese business empire spanning ten industries with assets exceeding NT$3 trillion? The history of Far Eastern Group traces the complete arc of Taiwanese business — from glory to political risk.'

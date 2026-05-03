@@ -13,6 +13,7 @@ featured: false
 translatedFrom: 'Geography/台灣溫泉地景.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5501454d0b0366dd'
+sourceBodyHash: 'sha256:7e3bd7915270078d'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

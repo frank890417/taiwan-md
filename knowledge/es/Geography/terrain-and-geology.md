@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Geography/地形與地質.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:1c19912f3b7cdf1b'
+sourceBodyHash: 'sha256:ff4a4e3156ba7d86'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

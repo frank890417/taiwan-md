@@ -2,6 +2,7 @@
 translatedFrom: 'Economy/台灣企業：兆豐金控.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d45f458eabe77e3c'
+sourceBodyHash: 'sha256:9b950fb292247748'
 translatedAt: '2026-05-01T15:38:13+08:00'
 title: 'Mega Financial Holding: From Japanese Colonial Bank to Global Financial Partner for Taiwanese Businesses'
 description: 'Inheriting the legacy of the 1897 Taiwan Bank, through three name changes and two mergers, Mega Financial Holding has spent 127 years building a financial network across 38 countries, becoming an important driver of Taiwanese businesses going global'

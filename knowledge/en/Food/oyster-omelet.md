@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Food/蚵仔煎.md'
 sourceCommitSha: '6ae7e431'
 sourceContentHash: 'sha256:35151734317d2ad1'
+sourceBodyHash: 'sha256:dfebf81490e7a3d9'
 translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 

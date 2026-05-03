@@ -2,6 +2,7 @@
 translatedFrom: 'Food/鳳梨酥.md'
 sourceCommitSha: 'e6b0d7f8'
 sourceContentHash: 'sha256:d40713778c8c010e'
+sourceBodyHash: 'sha256:d1a328d777682bdd'
 translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Pineapple Cake: From Election Refreshments to a NT$25 Billion 'Golden Brick'"
 description: "In 1945, Yan Shin-Fa Bakery in Taichung transformed the traditional wedding pastry into the petite pineapple cake. From the winter melon-filling pivot of the 1970s under declining export fortunes, to SunnyHills' 2009 revival of the tart, fibrous native pineapple, this small 'golden brick' has been intertwined with Taiwan's agricultural fate for eight decades, and its annual production value now exceeds NT$25 billion — the most representative Taiwanese flavor in the minds of foreign visitors."

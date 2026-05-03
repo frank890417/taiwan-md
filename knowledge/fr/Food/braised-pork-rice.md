@@ -23,6 +23,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/台灣滷肉飯.md'
 sourceCommitSha: '5a1e7b8c'
 sourceContentHash: 'sha256:d6df6399bab845eb'
+sourceBodyHash: 'sha256:e9ea9cd2c7bc6b3d'
 translatedAt: '2026-05-02T02:10:33+08:00'
 ---
 

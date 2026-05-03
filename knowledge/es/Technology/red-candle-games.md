@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/赤燭遊戲.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:8782cd3401abef56'
+sourceBodyHash: 'sha256:1fba81d514ac33a3'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

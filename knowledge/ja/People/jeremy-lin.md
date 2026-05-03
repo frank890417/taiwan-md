@@ -20,6 +20,7 @@ featured: true
 translatedFrom: 'People/林書豪.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:8c536e7e37fb32f5'
+sourceBodyHash: 'sha256:c98e98e0d803e897'
 translatedAt: '2026-05-01T18:09:43+08:00'
 category: People
 ---

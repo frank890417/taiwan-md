@@ -12,6 +12,7 @@ translatedFrom: "Nature/台灣原住民生態智慧與環境保育.md"
 lastVerified: 2026-03-20
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:d162c579da0f2b9c"
+sourceBodyHash: 'sha256:e7b3f8c1b339cc47'
 translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 

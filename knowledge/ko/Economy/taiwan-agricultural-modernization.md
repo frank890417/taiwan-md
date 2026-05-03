@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣農業現代化發展.md'
 lastVerified: 2026-03-19
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:e6e4ed55452711e1'
+sourceBodyHash: 'sha256:979b05cfe13254ea'
 translatedAt: '2026-04-14T08:28:14+08:00'
 ---
 

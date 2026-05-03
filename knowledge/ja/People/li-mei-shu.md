@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'People/李梅樹.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:44a9b62010a8d0da'
+sourceBodyHash: 'sha256:56cd3707ce723649'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

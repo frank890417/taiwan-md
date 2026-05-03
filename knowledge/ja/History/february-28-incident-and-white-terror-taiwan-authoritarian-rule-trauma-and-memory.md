@@ -10,6 +10,7 @@ lastHumanReview: false
 translatedFrom: 'History/二二八事件.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:634ee0a75c18646d'
+sourceBodyHash: 'sha256:af07edaeaadb2899'
 translatedAt: '2026-05-02T01:17:14+08:00'
 category: History
 ---

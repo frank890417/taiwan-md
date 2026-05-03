@@ -37,22 +37,84 @@ LANG_NAMES = {
 }
 
 
-def get_api_key():
-    """Resolution order: env var → .env file → standalone key file."""
-    # 1. Environment variable (CI / shell export)
+KEY_ROTATION_DIR = CREDS_DIR / "openrouter-keys"
+KEY_COOLDOWN_FILE = Path("/tmp/openrouter-key-cooldown.json")
+KEY_COOLDOWN_SEC = 300
+
+
+def _load_cooldown():
+    import time as _t
+    if KEY_COOLDOWN_FILE.exists():
+        try:
+            return json.loads(KEY_COOLDOWN_FILE.read_text())
+        except Exception:
+            return {}
+    return {}
+
+
+def _save_cooldown(data):
+    try:
+        KEY_COOLDOWN_FILE.write_text(json.dumps(data))
+    except Exception:
+        pass
+
+
+def _mark_key_429(key_id):
+    import time as _t
+    data = _load_cooldown()
+    data[key_id] = _t.time()
+    _save_cooldown(data)
+
+
+def _all_keys():
+    """Return [(key_id, key_value), ...] from rotation pool + legacy fallbacks."""
+    keys = []
     if os.environ.get("OPENROUTER_API_KEY"):
-        return os.environ["OPENROUTER_API_KEY"].strip()
-    # 2. Unified .env file
+        keys.append(("env", os.environ["OPENROUTER_API_KEY"].strip()))
+    if KEY_ROTATION_DIR.is_dir():
+        for f in sorted(KEY_ROTATION_DIR.glob("*.key")):
+            content = f.read_text().strip()
+            if content:
+                keys.append((f.stem, content))
+    if KEY_FILE.exists():
+        content = KEY_FILE.read_text().strip()
+        if content and content not in [v for _, v in keys]:
+            keys.append(("default", content))
     if ENV_FILE.exists():
         for line in ENV_FILE.read_text().splitlines():
-            line = line.strip()
             if line.startswith("OPENROUTER_API_KEY="):
-                return line.split("=", 1)[1].strip().strip('"').strip("'")
-    # 3. Standalone key file (legacy)
-    if KEY_FILE.exists():
-        return KEY_FILE.read_text().strip()
-    print(f"❌ No API key found. Set OPENROUTER_API_KEY env, or write to {ENV_FILE} or {KEY_FILE}", file=sys.stderr)
-    sys.exit(1)
+                v = line.split("=", 1)[1].strip().strip('"').strip("'")
+                if v and v not in [val for _, val in keys]:
+                    keys.append(("env-file", v))
+    return keys
+
+
+def pick_api_key():
+    """Pick a fresh (non-cooled) key, round-robin within fresh."""
+    import time as _t
+    keys = _all_keys()
+    if not keys:
+        print(f"❌ No API key found. Add to {KEY_ROTATION_DIR}/<name>.key or {KEY_FILE} or set OPENROUTER_API_KEY", file=sys.stderr)
+        sys.exit(1)
+    cooldown = _load_cooldown()
+    now = _t.time()
+    fresh = [(kid, kv) for kid, kv in keys if now - cooldown.get(kid, 0) > KEY_COOLDOWN_SEC]
+    if fresh:
+        rr_file = Path("/tmp/openrouter-key-rr.txt")
+        try:
+            idx = int(rr_file.read_text().strip()) if rr_file.exists() else 0
+        except Exception:
+            idx = 0
+        chosen = fresh[idx % len(fresh)]
+        rr_file.write_text(str((idx + 1) % max(len(fresh), 1)))
+        return chosen
+    return sorted(keys, key=lambda k: cooldown.get(k[0], 0))[0]
+
+
+def get_api_key():
+    """Backward-compatible single key fetch (returns just the value)."""
+    _, kv = pick_api_key()
+    return kv
 
 
 def extract_zh_frontmatter_fields(zh_content):
@@ -172,8 +234,12 @@ Output ONLY the translated file content (frontmatter + body), nothing else."""
     return system, user_msg
 
 
-def call_openrouter(api_key, model, system, user_msg, max_retries=3):
-    """Call OpenRouter API with retry."""
+def call_openrouter(_api_key_unused, model, system, user_msg, max_retries=3, max_key_retry=5):
+    """Call OpenRouter API with key rotation on 429.
+
+    `_api_key_unused` is kept for backward compat — internal logic now picks
+    fresh key per attempt via pick_api_key() (DNA #45 budget × N rotation).
+    """
     payload = json.dumps({
         "model": model,
         "messages": [
@@ -184,41 +250,51 @@ def call_openrouter(api_key, model, system, user_msg, max_retries=3):
         "max_tokens": 16000,
     }).encode("utf-8")
 
-    req = urllib.request.Request(
-        API_URL,
-        data=payload,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-            "HTTP-Referer": "https://taiwan.md",
-            "X-Title": "Taiwan.md lang-sync",
-        },
-        method="POST",
-    )
-
-    for attempt in range(max_retries):
+    tried = set()
+    for attempt in range(max_key_retry):
         try:
-            with urllib.request.urlopen(req, timeout=300) as resp:
-                data = json.loads(resp.read())
-                if "choices" not in data or not data["choices"]:
-                    raise RuntimeError(f"No choices in response: {data}")
-                return data["choices"][0]["message"]["content"]
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="replace")[:500]
-            if e.code == 429:
-                wait = 2 ** attempt * 10
-                print(f"  ⚠️ Rate limit (attempt {attempt+1}), waiting {wait}s...", file=sys.stderr)
-                time.sleep(wait)
-                continue
-            raise RuntimeError(f"HTTP {e.code}: {body}")
-        except (urllib.error.URLError, TimeoutError) as e:
-            if attempt < max_retries - 1:
-                print(f"  ⚠️ Network error (attempt {attempt+1}): {e}, retrying...", file=sys.stderr)
-                time.sleep(5)
-                continue
+            key_id, key = pick_api_key()
+        except SystemExit:
             raise
+        if key_id in tried:
+            # Same key returned — pool exhausted
+            break
+        tried.add(key_id)
 
-    raise RuntimeError(f"Failed after {max_retries} retries")
+        req = urllib.request.Request(
+            API_URL,
+            data=payload,
+            headers={
+                "Authorization": f"Bearer {key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://taiwan.md",
+                "X-Title": "Taiwan.md lang-sync",
+            },
+            method="POST",
+        )
+
+        for inner_attempt in range(max_retries):
+            try:
+                with urllib.request.urlopen(req, timeout=300) as resp:
+                    data = json.loads(resp.read())
+                    if "choices" not in data or not data["choices"]:
+                        raise RuntimeError(f"No choices in response: {data}")
+                    return data["choices"][0]["message"]["content"]
+            except urllib.error.HTTPError as e:
+                body = e.read().decode("utf-8", errors="replace")[:500]
+                if e.code == 429:
+                    _mark_key_429(key_id)
+                    print(f"  ⚠️ 429 on key={key_id}, rotating to next key (attempt {attempt+1}/{max_key_retry})", file=sys.stderr)
+                    break  # break inner; outer loop picks next key
+                raise RuntimeError(f"HTTP {e.code}: {body}")
+            except (urllib.error.URLError, TimeoutError) as e:
+                if inner_attempt < max_retries - 1:
+                    print(f"  ⚠️ Network error (attempt {inner_attempt+1}): {e}, retrying...", file=sys.stderr)
+                    time.sleep(5)
+                    continue
+                raise
+
+    raise RuntimeError(f"All keys rate-limited or exhausted after {len(tried)} key attempts")
 
 
 def translate_one(article, lang, api_key, model, dry_run=False):

@@ -19,6 +19,7 @@ readingTime: 7
 translatedFrom: 'People/林義傑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b6c10d1de65584e0'
+sourceBodyHash: 'sha256:9539b3b7cc15f63e'
 translatedAt: '2026-05-01T18:09:43+08:00'
 ---
 

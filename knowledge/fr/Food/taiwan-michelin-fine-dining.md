@@ -22,6 +22,7 @@ imageAlt: 'Panneau de direction de restaurants Michelin'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5dc9bb02298749c4'
+sourceBodyHash: 'sha256:3ca2a02845451f2c'
 translatedAt: '2026-04-14T12:29:25+08:00'
 ---
 

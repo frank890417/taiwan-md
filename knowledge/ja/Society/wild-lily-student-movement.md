@@ -12,6 +12,7 @@ category: 'Society'
 translatedFrom: 'Society/野百合學運.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4e2d7a769e8967d1'
+sourceBodyHash: 'sha256:68bbd52c379ede79'
 translatedAt: '2026-05-02T09:55:00+08:00'
 ---
 

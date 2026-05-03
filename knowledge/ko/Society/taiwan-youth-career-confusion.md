@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Society/台灣青年的生涯迷航.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:d61a20188eb7e58f'
+sourceBodyHash: 'sha256:6672f01b9aa7c341'
 translatedAt: '2026-05-01T22:19:01+08:00'
 ---
 

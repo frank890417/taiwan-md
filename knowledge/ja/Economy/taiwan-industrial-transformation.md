@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/產業轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c052bb6e3017ef17'
+sourceBodyHash: 'sha256:f3709634beb4667c'
 translatedAt: '2026-05-02T08:55:00+08:00'
 ---
 

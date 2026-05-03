@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：宏達電.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e3a135605ed275be'
+sourceBodyHash: 'sha256:5fbf8f52118423a5'
 translatedAt: '2026-04-14T08:48:46+08:00'
 ---
 

@@ -28,6 +28,7 @@ lastHumanReview: false
 translatedFrom: 'Art/林經堯.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:d29637a833e9cde7'
+sourceBodyHash: 'sha256:31177a634927a74f'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

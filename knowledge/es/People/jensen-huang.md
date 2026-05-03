@@ -22,6 +22,7 @@ lastHumanReview: '2026-04-07'
 translatedFrom: People/黃仁勳.md
 sourceCommitSha: cbc2ad44
 sourceContentHash: sha256:588ff4df368e93d2
+sourceBodyHash: 'sha256:7536fcd6ada53909'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

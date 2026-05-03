@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：台塑集團.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0705937c431692b3'
+sourceBodyHash: 'sha256:15b3f93d773ca72a'
 translatedAt: '2026-05-01T15:38:13+08:00'
 category: Economy
 ---

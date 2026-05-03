@@ -19,8 +19,9 @@ readingTime: 8
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'Society/外省人.md'
-sourceCommitSha: '751831b2'
+sourceCommitSha: 'a3d4e1d2'
 sourceContentHash: 'sha256:1f3418795ae93daa'
+sourceBodyHash: 'sha256:8d670fc3433148ca'
 translatedAt: '2026-04-30T22:33:56+08:00'
 ---
 

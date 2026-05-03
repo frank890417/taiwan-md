@@ -20,6 +20,7 @@ featured: true
 translatedFrom: History/福爾摩沙.md
 sourceCommitSha: 53610439
 sourceContentHash: sha256:7eacbccf24addf9e
+sourceBodyHash: 'sha256:6720483f0291c768'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

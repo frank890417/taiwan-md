@@ -16,6 +16,7 @@ lastHumanReview: '2026-04-14'
 translatedFrom: 'Lifestyle/台灣YouBike文化與城市微交通革命.md'
 sourceCommitSha: '1309f1dc'
 sourceContentHash: 'sha256:71377fcdfb99db3b'
+sourceBodyHash: 'sha256:b4c2bbb618fa4629'
 translatedAt: '2026-05-01T13:19:11+08:00'
 ---
 

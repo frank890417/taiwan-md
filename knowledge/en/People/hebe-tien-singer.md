@@ -42,8 +42,9 @@ sporeLinks:
     comments: 0
     shares: 6
 translatedFrom: 'People/田馥甄.md'
-sourceCommitSha: '3dc24da2'
-sourceContentHash: 'sha256:a354d29fe33b7d94'
+sourceCommitSha: '616cbd07'
+sourceContentHash: 'sha256:b094d4ec0ef00df6'
+sourceBodyHash: 'sha256:d7c6d39e19e2fb58'
 translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 

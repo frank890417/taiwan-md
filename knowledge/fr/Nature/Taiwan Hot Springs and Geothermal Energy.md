@@ -21,6 +21,7 @@ translatedFrom: 'Nature/台灣溫泉與地熱.md'
 lastVerified: 2026-03-23
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c950b0e6980af7aa'
+sourceBodyHash: 'sha256:76aaf6bdf8e233fe'
 translatedAt: '2026-04-14T19:22:44+08:00'
 ---
 

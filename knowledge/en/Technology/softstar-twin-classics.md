@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: 'Technology/大宇雙劍.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:96d6ad0504b87bb3'
+sourceBodyHash: 'sha256:fef7cbce1c58df11'
 translatedAt: '2026-05-01T08:56:11+08:00'
 ---
 

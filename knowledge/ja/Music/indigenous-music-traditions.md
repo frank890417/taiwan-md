@@ -13,6 +13,7 @@ category: 'Music'
 translatedFrom: 'Music/台灣原住民音樂傳統.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:781fad4801f687cc'
+sourceBodyHash: 'sha256:04283fa04fa2b945'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

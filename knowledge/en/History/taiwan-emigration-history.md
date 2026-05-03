@@ -12,6 +12,7 @@ featured: 'false'
 translatedFrom: 'History/台灣出國史.md'
 sourceCommitSha: '053efd9a'
 sourceContentHash: 'sha256:8d6508c76f18f1af'
+sourceBodyHash: 'sha256:2ed834cb9de7de1b'
 translatedAt: '2026-05-03T21:10:03+08:00'
 ---
 

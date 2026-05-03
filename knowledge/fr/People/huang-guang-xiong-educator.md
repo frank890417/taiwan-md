@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'People/黃光雄.md'
 sourceCommitSha: '2c96c034'
 sourceContentHash: 'sha256:2add36e24fa34463'
+sourceBodyHash: 'sha256:e4792097bdf41668'
 translatedAt: '2026-05-01T22:19:06+08:00'
 ---
 

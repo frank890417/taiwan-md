@@ -4,6 +4,7 @@ description: 'From the inspiration born watching CCTV''s Xinwen Lianbo on a cros
 translatedFrom: 'People/陳子見.md'
 sourceCommitSha: 'fcfe3aef'
 sourceContentHash: 'sha256:b4ed377dcae75954'
+sourceBodyHash: 'sha256:5225e3163bb10fe2'
 translatedAt: '2026-05-01T12:53:58+08:00'
 tags:
   - 'Retina'

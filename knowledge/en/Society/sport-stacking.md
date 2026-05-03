@@ -11,6 +11,7 @@ lastHumanReview: false
 translatedFrom: 'Society/疊杯.md'
 sourceCommitSha: '64abf6f8'
 sourceContentHash: 'sha256:e2c5fa30899dd8ae'
+sourceBodyHash: 'sha256:d825f2de734a7bac'
 translatedAt: '2026-04-29T23:10:18+08:00'
 ---
 

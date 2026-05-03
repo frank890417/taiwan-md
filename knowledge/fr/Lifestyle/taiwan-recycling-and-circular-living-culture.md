@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣回收與資源循環文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:692a1090832374e5'
+sourceBodyHash: 'sha256:258baccfb653bebb'
 translatedAt: '2026-04-15T17:34:27+08:00'
 ---
 

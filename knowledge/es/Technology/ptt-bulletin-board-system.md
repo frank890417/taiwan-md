@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: 'Technology/PTT批踢踢.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:f28d98485199bc24'
+sourceBodyHash: 'sha256:110038d2fb23bc2a'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

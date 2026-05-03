@@ -12,6 +12,7 @@ featured: false
 translatedFrom: 'Culture/原住民神話.md'
 sourceCommitSha: '4caeb669'
 sourceContentHash: 'sha256:6142366c1ed5a061'
+sourceBodyHash: 'sha256:93356a93ce6ebf61'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

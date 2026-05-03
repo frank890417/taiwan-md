@@ -12,6 +12,7 @@ lastHumanReview: 'false'
 translatedFrom: 'Culture/關聖帝君信仰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0c930d5c5db17f02'
+sourceBodyHash: 'sha256:03854077db2ba606'
 translatedAt: '2026-05-02T01:17:14+08:00'
 ---
 

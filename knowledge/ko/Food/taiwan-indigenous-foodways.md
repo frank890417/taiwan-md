@@ -26,6 +26,7 @@ imageAlt: '대만 원주민 문화 축제'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d67f3581051e39e8'
+sourceBodyHash: 'sha256:50386f161e8d186f'
 translatedAt: '2026-04-14T03:34:17+08:00'
 ---
 

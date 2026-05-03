@@ -10,6 +10,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'History/戰後經濟發展.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bd943f680a0506bf'
+sourceBodyHash: 'sha256:9e8ab929793e320d'
 translatedAt: '2026-04-14T05:15:26+08:00'
 ---
 

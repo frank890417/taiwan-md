@@ -21,6 +21,7 @@ featured: true
 translatedFrom: 'Culture/注音符號.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c02940e263693a53'
+sourceBodyHash: 'sha256:fa152464d6c3c1f1'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

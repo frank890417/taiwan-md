@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Society/統戰團.md'
 sourceCommitSha: '7bb2f40e'
 sourceContentHash: 'sha256:cb1148fb9bc4aa88'
+sourceBodyHash: 'sha256:a81371a8c3c242ce'
 translatedAt: '2026-05-03T00:00:00+08:00'
 ---
 

@@ -24,6 +24,7 @@ featured: true
 translatedFrom: Art/台灣新媒體藝術.md
 sourceCommitSha: ee4917f3
 sourceContentHash: sha256:d65b35a4569fdd34
+sourceBodyHash: 'sha256:c49b8a3dc9dc5eeb'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

@@ -21,6 +21,7 @@ lastHumanReview: true
 translatedFrom: Economy/台灣企業：富邦金控.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:17799d817d240ba2
+sourceBodyHash: 'sha256:1b85009498a2a6bb'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 

@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Economy/台灣產業轉型升級.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:4035b995bd717d6f'
+sourceBodyHash: 'sha256:81ddde0be3d6c345'
 translatedAt: '2026-04-14T09:08:10+08:00'
 ---
 

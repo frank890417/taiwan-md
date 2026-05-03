@@ -12,6 +12,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'Economy/台灣企業：兆豐金控.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:d45f458eabe77e3c'
+sourceBodyHash: 'sha256:9b950fb292247748'
 translatedAt: '2026-04-14T19:20:24+08:00'
 ---
 

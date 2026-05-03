@@ -12,6 +12,7 @@ featured: false
 translatedFrom: "Economy/台糖.md"
 sourceCommitSha: "053efd9a"
 sourceContentHash: "sha256:f64751a4a51b546a"
+sourceBodyHash: 'sha256:9631152a90e28115'
 translatedAt: "2026-05-03T21:10:09+08:00"
 ---
 

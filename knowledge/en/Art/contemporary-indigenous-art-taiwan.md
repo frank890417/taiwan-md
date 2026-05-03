@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'Art/台灣原住民當代藝術.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:83bc82b565683352'
+sourceBodyHash: 'sha256:638772e575206c29'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

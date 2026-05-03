@@ -23,6 +23,7 @@ translatedFrom: 'Technology/東亞文字輸入法.md'
 lastVerified: 2026-03-19
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:073b6227b6cef1d7'
+sourceBodyHash: 'sha256:711c7e0280eda432'
 translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 

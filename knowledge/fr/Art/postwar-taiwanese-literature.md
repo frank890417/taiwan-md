@@ -23,6 +23,7 @@ lastHumanReview: false
 translatedFrom: Art/戰後台灣文學.md
 sourceCommitSha: f553d365
 sourceContentHash: sha256:ccb549fdb85f9bc6
+sourceBodyHash: 'sha256:70ed7e6c666d6fb7'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

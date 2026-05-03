@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: Culture/台灣迷因.md
 sourceCommitSha: c860d150
 sourceContentHash: sha256:b8e2ae4ba4b5e3d9
+sourceBodyHash: 'sha256:971e379fee29d9f0'
 translatedAt: 2026-05-01T22:19:01+08:00
 category: Culture
 ---

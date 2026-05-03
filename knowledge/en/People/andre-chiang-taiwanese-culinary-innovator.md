@@ -2,6 +2,7 @@
 translatedFrom: 'People/江振誠.md'
 sourceCommitSha: '55c3ff6a'
 sourceContentHash: 'sha256:b95aab4a94d428d9'
+sourceBodyHash: 'sha256:12c31fa42e4be425'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: 'André Chiang: Taiwanese Culinary Innovator'
 description: "From Danshui Business and Industrial School to World No. 14, from an epiphany in the Seychelles to a homecoming in Taipei's Dazhi — André Chiang used his Octaphilosophy to establish a new coordinate for Taiwanese chefs on the international culinary stage."

@@ -11,6 +11,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Geography/台灣河川系統與水文特色.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4725470c61019afd'
+sourceBodyHash: 'sha256:668dd9289a9fed88'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

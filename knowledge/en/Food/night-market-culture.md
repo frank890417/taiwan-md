@@ -15,6 +15,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
+sourceBodyHash: 'sha256:ea37a51a6e2ccfcd'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

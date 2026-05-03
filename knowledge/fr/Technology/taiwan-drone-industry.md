@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: "Technology/台灣無人機產業.md"
 sourceCommitSha: "6c11ef53"
 sourceContentHash: "sha256:291d32db58d18941"
+sourceBodyHash: 'sha256:2f42ecde6324b298'
 translatedAt: "2026-04-14T12:33:27+08:00"
 ---
 

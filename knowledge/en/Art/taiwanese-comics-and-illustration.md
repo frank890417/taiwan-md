@@ -6,6 +6,7 @@ date: 2026-03-18
 translatedFrom: 'Art/台灣漫畫.md'
 sourceCommitSha: '0d8e06fc'
 sourceContentHash: 'sha256:3a1178905711b562'
+sourceBodyHash: 'sha256:a9f04ad63339e270'
 translatedAt: '2026-05-01T17:09:56+08:00'
 description: 'From the 1970s "Comics Kingdom" of Liu Hsing-chin (劉興欽) and Ao Yu-hsiang (敖幼祥), to Zheng Wen''s (鄭問) conquest of Japan in 1991 as the "Asian treasure," to Tsai Chih-chung''s (蔡志忠) Zhuangzi Speaks topping bestseller charts for 10 months — Taiwanese comics survived the Japanese manga onslaught and are reclaiming original voices through the Golden Comic Awards (2010) and CCC Creative Collection platform (2017).'
 ---

@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/台灣YouTuber產業與文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:4e725951b40f47ce'
+sourceBodyHash: 'sha256:a89e1781c0e7d4ea'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

@@ -12,6 +12,7 @@ featured: false
 translatedFrom: Technology/開源社群與g0v.md
 sourceCommitSha: 528d1c04
 sourceContentHash: sha256:af78147ce6c1c764
+sourceBodyHash: 'sha256:4d33a6651c774237'
 translatedAt: 2026-05-01T22:19:01+08:00
 ---
 

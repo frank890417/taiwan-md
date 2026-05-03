@@ -20,6 +20,7 @@ lastHumanReview: '2026-04-08'
 translatedFrom: 'Society/台灣電視分級制度.md'
 sourceCommitSha: '257ae187'
 sourceContentHash: 'sha256:ce5835d56ab02bd7'
+sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-04-14T12:32:34+08:00'
 ---
 

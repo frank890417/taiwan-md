@@ -18,6 +18,7 @@ readingTime: 15
 translatedFrom: 'Society/台灣電視分級制度.md'
 sourceCommitSha: '257ae187'
 sourceContentHash: 'sha256:ce5835d56ab02bd7'
+sourceBodyHash: 'sha256:5588123f25ed059d'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

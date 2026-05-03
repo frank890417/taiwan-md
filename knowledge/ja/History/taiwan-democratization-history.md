@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'History/民主化.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:49e42b5e4166214d'
+sourceBodyHash: 'sha256:5fe67a248a3f0cf4'
 translatedAt: '2026-05-02T09:10:00+08:00'
 ---
 

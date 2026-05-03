@@ -2,6 +2,7 @@
 translatedFrom: 'People/蘇巧慧.md'
 sourceCommitSha: '64abf6f8'
 sourceContentHash: 'sha256:eb7e3bede251836b'
+sourceBodyHash: 'sha256:8ae89739a53e0a1f'
 translatedAt: '2026-05-01T14:48:26+08:00'
 title: '蘇巧慧（スー・チャオホイ）：「衝衝衝」の影の下で、法律と細部で新北を縫い合わせるキュレーター'
 description: '美麗島事件弁護士の娘から16回優秀立法委員に至るまで、蘇巧慧はどのように「二世政治家」のレッテルを剥がし、国会で癌症防治法と運動産業発展条例によって法律に温もりを与え、地方で鉄道・水道管・校舎改善を積み重ねて自分自身の政治的版図を描いてきたか。'

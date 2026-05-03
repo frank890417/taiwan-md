@@ -4,6 +4,7 @@ description: "From its introduction in 1997 to its expanded application in April
 translatedFrom: 'Society/台灣司法改革與預防性羈押制度.md'
 sourceCommitSha: '6f3e4cc4'
 sourceContentHash: 'sha256:95fbaf40f48b2ca2'
+sourceBodyHash: 'sha256:afed06eba24e4811'
 translatedAt: '2026-05-01T12:53:58+08:00'
 category: 'Society'
 subcategory: '司法與人權'

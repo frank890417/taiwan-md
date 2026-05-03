@@ -2,6 +2,7 @@
 translatedFrom: 'People/朴星垠.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:b387b2ccc5c7905c'
+sourceBodyHash: 'sha256:e7707b2af3303c6e'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: 'Park Sung-eun: CPBL Cheerleader'
 description: 'From exchange guest to official Fubon Angels member — she used rapid adaptation and stage consistency to become a leading figure among the new generation of Korean recruits in the Five Pillars.'

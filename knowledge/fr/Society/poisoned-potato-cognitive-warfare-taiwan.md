@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
 sourceCommitSha: 'd0f90f01'
 sourceContentHash: 'sha256:dad5e0b9d38ca4de'
+sourceBodyHash: 'sha256:eb0e7978cdb1be4d'
 translatedAt: '2026-05-01T20:54:17+08:00'
 ---
 

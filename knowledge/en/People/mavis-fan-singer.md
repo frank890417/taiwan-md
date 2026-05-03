@@ -18,6 +18,7 @@ researchReport: 'reports/research/2026-04/范曉萱.md'
 translatedFrom: 'People/范曉萱.md'
 sourceCommitSha: 'd0343c92'
 sourceContentHash: 'sha256:be33318bbff736f0'
+sourceBodyHash: 'sha256:972eef53b5601304'
 translatedAt: '2026-05-01T12:53:58+08:00'
 ---
 

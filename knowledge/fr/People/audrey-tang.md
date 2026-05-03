@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'People/唐鳳.md'
 sourceCommitSha: '32e53d5b'
 sourceContentHash: 'sha256:eaf0eba2e4a68e41'
+sourceBodyHash: 'sha256:c6c324b6990ea5dc'
 translatedAt: '2026-05-02T08:50:00+08:00'
 ---
 

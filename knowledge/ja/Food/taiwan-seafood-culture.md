@@ -17,6 +17,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: Food/台灣海鮮文化.md
 sourceCommitSha: 221b1708
 sourceContentHash: sha256:b19eaae2749a2675
+sourceBodyHash: 'sha256:0e334a19b5edfbf1'
 translatedAt: 2026-05-01T19:52:32+08:00
 ---
 

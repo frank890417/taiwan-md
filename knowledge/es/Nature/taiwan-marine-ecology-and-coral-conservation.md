@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Nature/台灣海洋生態與珊瑚礁保育.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:4e90c463d345a441'
+sourceBodyHash: 'sha256:668d74d853340086'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

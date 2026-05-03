@@ -19,6 +19,7 @@ featured: false
 translatedFrom: Geography/玉山.md
 sourceCommitSha: 168debc6
 sourceContentHash: sha256:85bbcb3c04037e63
+sourceBodyHash: 'sha256:1a4d37afddfd59f9'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

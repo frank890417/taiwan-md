@@ -22,6 +22,7 @@ featured: false
 translatedFrom: 'Culture/台灣棒球文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bd189706ec7d9cd6'
+sourceBodyHash: 'sha256:2a2985dbaf7f962d'
 translatedAt: '2026-05-02T01:17:17+08:00'
 ---
 

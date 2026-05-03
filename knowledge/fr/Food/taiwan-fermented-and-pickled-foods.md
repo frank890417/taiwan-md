@@ -17,6 +17,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: "Food/台灣發酵食品與醃製文化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:83aadc055a63682c"
+sourceBodyHash: 'sha256:c6a05009c0ee406c'
 translatedAt: "2026-04-14T12:29:18+08:00"
 ---
 

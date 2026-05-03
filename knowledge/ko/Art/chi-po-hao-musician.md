@@ -28,6 +28,7 @@ lastHumanReview: false
 translatedFrom: 'Art/紀柏豪.md'
 sourceCommitSha: '9ceeaa34'
 sourceContentHash: 'sha256:4b4e74f4e24fe2a3'
+sourceBodyHash: 'sha256:4548be6076ba4c32'
 translatedAt: '2026-05-02T08:52:00+08:00'
 ---
 

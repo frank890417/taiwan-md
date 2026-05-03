@@ -12,6 +12,7 @@ translatedFrom: 'Society/台灣公共衛生與防疫體系.md'
 lastVerified: 2026-04-08
 sourceCommitSha: '6e9dc32c'
 sourceContentHash: 'sha256:58f409f32e8328d7'
+sourceBodyHash: 'sha256:a899b39b8261de58'
 translatedAt: '2026-04-14T06:21:59+08:00'
 ---
 

@@ -12,6 +12,7 @@ lastVerified: 2026-03-22
 translatedFrom: "People/施振榮.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:d36614a40d07f9c0"
+sourceBodyHash: 'sha256:5f377990ea68f933'
 translatedAt: "2026-04-14T19:15:12+08:00"
 ---
 

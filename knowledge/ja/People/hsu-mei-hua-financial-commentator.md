@@ -12,6 +12,7 @@ featured: false
 translatedFrom: People/許美華.md
 sourceCommitSha: fb9ddcae
 sourceContentHash: sha256:1b5d90dfca7bb147
+sourceBodyHash: 'sha256:e380720def0effee'
 translatedAt: 2026-05-01T19:52:32+08:00
 ---
 

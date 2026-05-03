@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'Culture/黑白大廚在台灣.md'
 sourceCommitSha: 'daf5ee02'
 sourceContentHash: 'sha256:7c335e686f7ba4d5'
+sourceBodyHash: 'sha256:bf7679056e96cbe1'
 translatedAt: '2026-05-02T08:54:00+08:00'
 ---
 

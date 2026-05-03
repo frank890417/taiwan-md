@@ -17,6 +17,7 @@ lastHumanReview: false
 translatedFrom: 'People/謝淑薇.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0fdf73c6c6f9ad21'
+sourceBodyHash: 'sha256:73e241d0d2af398c'
 translatedAt: '2026-05-01T22:19:10+08:00'
 category: People
 ---

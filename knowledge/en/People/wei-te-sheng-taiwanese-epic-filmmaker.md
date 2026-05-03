@@ -17,6 +17,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/魏德聖.md'
 sourceCommitSha: '812e7574'
 sourceContentHash: 'sha256:da6124a8ed71cc71'
+sourceBodyHash: 'sha256:f4f822df5584044a'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

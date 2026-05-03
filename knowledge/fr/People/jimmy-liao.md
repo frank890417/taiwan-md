@@ -21,6 +21,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/幾米.md'
 sourceCommitSha: '812e7574'
 sourceContentHash: 'sha256:e547220b8b7d96eb'
+sourceBodyHash: 'sha256:f9608a53e7b9f154'
 translatedAt: '2026-04-14T19:14:57+08:00'
 ---
 

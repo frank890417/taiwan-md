@@ -12,6 +12,7 @@ lastHumanReview: true
 translatedFrom: 'Music/八部合音.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:10556895c89da74d'
+sourceBodyHash: 'sha256:43f231d59e183f8e'
 translatedAt: '2026-05-01T18:02:56+08:00'
 ---
 

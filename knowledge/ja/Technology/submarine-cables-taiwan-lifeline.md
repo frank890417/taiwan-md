@@ -38,8 +38,9 @@ sporeLinks:
     comments: 0
     shares: 0
 translatedFrom: Technology/海底電纜.md
-sourceCommitSha: 291fbb3f
-sourceContentHash: sha256:f38fca094c4c3275
+sourceCommitSha: '616cbd07'
+sourceContentHash: 'sha256:f38fca094c4c3275'
+sourceBodyHash: 'sha256:ec9a17aedbd5877e'
 translatedAt: 2026-05-01T14:48:26+08:00
 ---
 

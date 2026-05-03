@@ -20,6 +20,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'People/謝淑薇.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0fdf73c6c6f9ad21'
+sourceBodyHash: 'sha256:73e241d0d2af398c'
 translatedAt: '2026-04-14T19:18:50+08:00'
 ---
 

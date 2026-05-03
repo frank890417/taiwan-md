@@ -6,6 +6,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6
 translatedFrom: 'Art/金馬賓館當代美術館.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:dc5814dcedc92ae0'
+sourceBodyHash: 'sha256:c74e16d96ce01c6c'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: Art
 date: 2026-03-22

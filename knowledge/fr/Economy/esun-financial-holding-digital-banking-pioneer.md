@@ -11,6 +11,7 @@ lastVerified: 2026-03-20
 translatedFrom: "Economy/台灣企業：玉山金控.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:36f7111132b226f6"
+sourceBodyHash: 'sha256:2ffe06cc95fa29ee'
 translatedAt: "2026-04-14T19:20:58+08:00"
 ---
 

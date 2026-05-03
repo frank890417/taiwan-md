@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：統一企業.md'
 lastVerified: 2026-03-21
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3fb7c059831bdebb'
+sourceBodyHash: 'sha256:481f2cb6cfdcbd21'
 translatedAt: '2026-04-14T08:57:05+08:00'
 ---
 

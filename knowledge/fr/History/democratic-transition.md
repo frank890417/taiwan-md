@@ -12,6 +12,7 @@ lastHumanReview: 2026-04-07
 translatedFrom: "History/台灣民主轉型.md"
 sourceCommitSha: "f4dfb120"
 sourceContentHash: "sha256:d432b8072ad8da53"
+sourceBodyHash: 'sha256:76b17203b1b3f0d8'
 translatedAt: "2026-04-14T12:31:41+08:00"
 ---
 

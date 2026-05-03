@@ -18,8 +18,9 @@ readingTime: 14
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'Culture/台灣婚喪喜慶與人生禮俗.md'
-sourceCommitSha: 'abc5bd75'
-sourceContentHash: 'sha256:ba6b3f7666918555'
+sourceCommitSha: '7632201f'
+sourceContentHash: 'sha256:f46a258a4744c5ac'
+sourceBodyHash: 'sha256:4849c6b80102fb1b'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

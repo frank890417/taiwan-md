@@ -20,6 +20,7 @@ lastHumanReview: false
 translatedFrom: 'People/麟洋配.md'
 sourceCommitSha: 'ddc476ed'
 sourceContentHash: 'sha256:d3037d2c6f885793'
+sourceBodyHash: 'sha256:2c9db3cb9fda0ceb'
 translatedAt: '2026-05-01T13:19:11+08:00'
 category: People
 ---

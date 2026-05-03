@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'People/妮妃雅.md'
 sourceCommitSha: 'fab473cc'
 sourceContentHash: 'sha256:fdffbfa6bbaaec1a'
+sourceBodyHash: 'sha256:18c9609265b03371'
 translatedAt: '2026-05-02T09:00:00+08:00'
 ---
 

@@ -13,6 +13,7 @@ lastVerified: 2026-03-22
 translatedFrom: 'History/台灣眷村歷史.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e26ca70cc051b743'
+sourceBodyHash: 'sha256:6ea24f40d826e7d7'
 translatedAt: '2026-04-14T05:07:23+08:00'
 ---
 

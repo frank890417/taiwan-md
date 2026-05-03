@@ -13,6 +13,7 @@ lastHumanReview: false
 translatedFrom: 'Food/台灣米其林與精緻餐飲.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5dc9bb02298749c4'
+sourceBodyHash: 'sha256:3ca2a02845451f2c'
 translatedAt: '2026-04-14T03:55:14+08:00'
 ---
 

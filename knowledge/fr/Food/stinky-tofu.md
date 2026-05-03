@@ -19,6 +19,7 @@ lastHumanReview: false
 translatedFrom: Food/臭豆腐.md
 sourceCommitSha: 6ae7e431
 sourceContentHash: sha256:65a3ff761ca143a1
+sourceBodyHash: 'sha256:da607a2f72ce021f'
 translatedAt: 2026-05-01T22:19:06+08:00
 ---
 

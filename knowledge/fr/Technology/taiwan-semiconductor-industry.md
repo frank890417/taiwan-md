@@ -1,269 +1,260 @@
 ---
-title: "L'industrie des semi-conducteurs"
-description: "Du pari historique de Morris Chang à l'ère du 2 nm : comment TSMC a fait de Taïwan le cœur technologique mondial"
-date: '2026-03-17'
+title: "Semiconductor Industry"
+description: "From Morris Chang's Historical Gamble to the 2nm Era: How TSMC Made Taiwan the Global Technology Lifeline"
+date: 2026-03-17
+tags: ['semiconductor', 'TSMC', 'TSMC', 'advanced process', 'tech island', 'silicon shield']
+subcategory: 'Semiconductors and Hardware'
 author: 'Taiwan.md'
-category: 'Technology'
-subcategory: '半導體與硬體'
-tags:
-  [
-    'Semi-conducteurs',
-    'TSMC',
-    'TSMC',
-    'Procédé avancé',
-    'Île technologique',
-    'Bouclier de silicium',
-  ]
-readingTime: '15'
-lastVerified: '2026-03-21'
-lastHumanReview: 'true'
-featured: 'true'
-translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: 'f78028db'
-sourceContentHash: 'sha256:af4fb282e9cb0e30'
-translatedAt: '2026-05-01T20:54:17+08:00'
+readingTime: 15
+lastVerified: 2026-03-21
+lastHumanReview: true
+translatedFrom: 'Technology/Semiconductor Industry.md'
+sourceCommitSha: '2d0c126f'
+sourceContentHash: 'sha256:022afb6f00f5c2e9'
+translatedAt: '2026-05-04T01:15:16+08:00'
 ---
 
-# L'industrie des semi-conducteurs
+# Semiconductor Industry
 
-> **En 30 secondes :** TSMC a commencé la production en masse du procédé 2 nm fin 2025, devançant le reste du monde de 2 à 3 ans. Le taux d'utilisation du procédé 3 nm a atteint 100 %, et les revenus des procédés avancés représentent 69 % du chiffre d'affaires. Du pari du « modèle de fonderie » de Morris Chang en 1987 au rôle vital qu'elle joue aujourd'hui dans la technologie mondiale — Taïwan détient la technologie de fabrication de puces la plus avancée de la planète.
+> **30-Second Overview:** TSMC begins mass production of 2nm chips by the end of 2025, leading the world by 2-3 years. 3nm process utilization has reached 100%, with advanced process revenue accounting for 69%. From Morris Chang's "foundry model" gamble in 1987 to today's global technology lifeline—Taiwan holds the world's most advanced chip manufacturing technology.
 
-Un après-midi de 1985, le conseiller politique Li Kwoh-ting aborda Morris Chang au sein du Yuan exécutif, tout juste rentré à Taïwan pour prendre la présidence de l'ITRI (Industrial Technology Research Institute). Li Kwoh-ting alla droit au but : « Nous voulons créer une entreprise de fabrication de circuits intégrés à très grande échelle. C'est vous qui la dirigerez. »
+In the afternoon of 1985, State Councilor Kuo-Tung Lee visited Morris Chang, who had just returned to Taiwan to assume the presidency of the Industrial Technology Research Institute (ITRI). Lee got straight to the point: "We want to create a mega integrated circuit manufacturing company. You will lead it."
 
-Morris Chang en resta interloqué. Il pensait simplement venir occuper un poste de directeur de recherche, mais deux semaines plus tard, on l'entraînait dans la fondation d'une entreprise dont le modèle économique n'avait jamais été testé nulle part au monde.
+Chang was taken aback. He thought he was only there to serve as the institute's president, but two weeks later, he was pulled into founding a company with a business model no one had ever attempted commercially.
 
-Cette conversation changea le cours de l'histoire.
+This conversation changed the world.
 
-## 1987 : un pari sans précédent
+## 1987: An Unprecedented Gamble
 
-### Prélude : le transfert de technologie RCA
+### Prelude to RCA Technology Transfer
 
-L'histoire commence en 1973. Cette année-là, l'ITRI dépensa 4,5 millions de dollars américains pour acquérir la technologie des circuits intégrés de la société américaine RCA et envoya 19 ingénieurs se former aux États-Unis. Personne n'imaginait alors que ces « frais de scolarité » deviendraient la première pierre de l'empire taïwanais des semi-conducteurs.
+The story begins in 1973. That year, ITRI spent $4.5 million to acquire integrated circuit technology from the US RCA company, sending 19 engineers to the US for training. At the time, no one could have imagined that this "tuition" would become the first cornerstone of Taiwan's semiconductor kingdom.
 
-En 1980, l'ITRI créa United Microelectronics Corporation (UMC) par transfert de technologie, donnant naissance à la première entreprise de semi-conducteurs de Taïwan. Mais Li Kwoh-ting n'était pas satisfait — UMC était trop petite, sa technologie ne pouvait pas rivaliser avec les standards internationaux. Taïwan avait besoin d'une percée de plus grande envergure.
+In 1980, ITRI transferred technology to establish United Microelectronics Corporation (UMC), giving Taiwan its first semiconductor company. But Lee Kuo-tung was not satisfied—UMC was too small, and its technology lagged behind international standards. Taiwan needed a bigger breakthrough.
 
-### L'idée folle de Morris Chang
+### Chang's Crazy Idea
 
-Le 21 février 1987, Morris Chang fonda Taiwan Semiconductor Manufacturing Company (TSMC) dans le parc scientifique de Hsinchu, inaugurant un modèle économique inédit : **la fonderie pure**.
+On February 21, 1987, Morris Chang established Taiwan Semiconductor Manufacturing Company (TSMC) in the Hsinchu Science Park, pioneering an unprecedented business model: **pure foundry**.
 
-L'idée semblait insensée à l'époque. Toutes les entreprises de semi-conducteurs dans le monde étaient intégrées verticalement — de la conception à la fabrication, tout était fait en interne. Comment une entreprise pourrait-elle se limiter à la fabrication sans faire de conception ? Les clients lui confieraient-ils leurs schémas de conception les plus confidentiels ?
+This idea sounded crazy at the time. All semiconductor companies worldwide were vertically integrated—from design to manufacturing in one go. How could one only do manufacturing without design? Would clients hand over their most confidential design blueprints to you?
 
-Le raisonnement de Morris Chang était simple : l'industrie des semi-conducteurs devenait de plus en plus complexe, et la conception et la fabrication étaient deux métiers fondamentalement différents. Plutôt que de tout faire et de ne rien faire bien, autant se concentrer sur une seule chose — devenir le meilleur fabricant de puces au monde.
+Chang's logic was simple: The semiconductor industry is becoming increasingly complex; design and manufacturing are two completely different specialties. Rather than doing everything and mastering nothing, it is better to focus on doing one thing well—making chip manufacturing the best in the world.
 
-### L'habileté des partenariats internationaux
+### Cleverness of International Cooperation
 
-La structure actionnariale de TSMC à sa création était savamment orchestrée :
+TSMC's initial equity structure was ingenious:
 
-- Investissement gouvernemental : 48,3 % (garantissant le statut stratégique national)
-- Investissement privé : 24,2 % (participation du capital taïwanais)
-- Philips (Pays-Bas) : 27,5 % (apport de technologie et de clients internationaux)
+- Government investment: 48.3% (ensuring national strategic status)
+- Private investment: 24.2% (participation of Taiwanese capital)
+- Philips (Netherlands): 27.5% (introducing international technology and customers)
 
-La participation de Philips était cruciale. À l'époque, l'industrie des semi-conducteurs était dominée par les États-Unis et le Japon, et l'Europe avait désespérément besoin de fournisseurs alternatifs. Philips ne se contenta pas d'investir : l'entreprise confia ses propres commandes de puces à TSMC, devenant ainsi son premier client majeur.
+Philips' participation was key. At the time, the semiconductor industry was dominated by the US and Japan, and Europe urgently needed an alternative supplier. Philips not only invested but also handed its chip orders to TSMC, becoming the first major customer.
 
-## Le modèle de fonderie : refaçonner l'écosystème mondial des semi-conducteurs
+## The Foundry Model: Reshaping the Global Semiconductor Ecosystem
 
-### La révolution de la division du travail industriel
+### Revolution in Industrial Division
 
-Le modèle de fonderie de TSMC a provoqué une grande division du travail dans l'industrie des semi-conducteurs :
+TSMC's foundry model triggered a major division of labor in the semiconductor industry:
 
-- Les **entreprises de conception de circuits intégrés** se concentrent sur la conception des puces (Qualcomm, NVIDIA, MediaTek)
-- Les **fonderies** se concentrent sur la fabrication des puces (TSMC, UMC, GlobalFoundries)
-- Les **entreprises d'encapsulation et de test** prennent en charge les étapes post-fabrication (ASE, SPIL)
+- **IC Design Companies** focus on designing chips (e.g., Qualcomm, NVIDIA, MediaTek)
+- **Foundries** focus on manufacturing chips (TSMC, UMC, GlobalFoundries)
+- **Packaging and Testing Plants** handle downstream processes (ASE, SPIL)
 
-Ce modèle a permis à davantage d'entreprises d'entrer dans l'industrie des semi-conducteurs. Autrefois, seuls des géants comme Intel ou IBM pouvaient financer les investissements astronomiques requis par les usines de fabrication de wafers. Désormais, toute start-up ayant une bonne idée pouvait concevoir une puce et la confier à TSMC pour la fabrication.
+This model allowed more companies to enter the semiconductor industry. Previously, only giants like Intel and IBM could afford the astronomical investments in wafer fabs. Now, any startup with a good idea can design a chip and hand it over to TSMC for manufacturing.
 
-### L'établissement d'un mécanisme de confiance
+### Establishment of Trust Mechanisms
 
-Le cœur du modèle de fonderie est la confiance. Les clients doivent croire que TSMC ne volera pas leurs conceptions, ne divulguera pas leurs secrets commerciaux et ne sera pas en concurrence avec eux.
+The core of the foundry model is trust. Clients must believe that TSMC will not steal their designs, leak trade secrets, or compete with them.
 
-TSMC a établi des « règles de confiance » strictes :
+TSMC established strict "trust rules":
 
-1. **Neutralité technologique** : ne jamais concevoir ses propres puces
-2. **Égalité des clients** : tous les clients bénéficient de la même technologie et des mêmes services
-3. **Accords de confidentialité** : protection de la sécurité de l'information au plus haut niveau
-4. **Allocation des capacités** : répartition équitable des capacités de production des procédés avancés
+1. **Technological Neutrality**: Never design chips itself
+2. **Equal Treatment of Clients**: All clients receive the same technology and services
+3. **Confidentiality Agreements**: Highest level of information security protection
+4. **Capacity Allocation**: Fair allocation of advanced process capacity
 
-Ces règles ont été appliquées pendant près de 40 ans, sans aucune exception.
+These rules have been enforced for nearly 40 years without exception.
 
-## La technologie de procédé : une course aux armements éternelle
+## Process Technology: The Eternal Arms Race
 
-### Le poursuivant de la loi de Moore
+### Chasing Moore's Law
 
-En 1965, Gordon Moore, fondateur d'Intel, a formulé la « loi de Moore » : le nombre de transistors sur une puce double tous les 18 mois. Cette loi a été le moteur du développement de l'industrie des semi-conducteurs pendant plus de 50 ans, et est devenue la piste de course entre TSMC et ses concurrents mondiaux.
+In 1965, Intel co-founder Gordon Moore proposed "Moore's Law": The number of transistors on a chip doubles every 18 months. This law has driven the development of the semiconductor industry for over 50 years and serves as the track for TSMC and global competitors.
 
-Partant du procédé de 3 micromètres en 1987, TSMC n'a cessé de progresser :
+Starting from the 3-micron process in 1987, TSMC has been catching up:
 
-- **Années 1990** : 1,2 μm, 0,8 μm, 0,6 μm
-- **Années 2000** : 0,35 μm, 0,25 μm, 0,18 μm, 0,13 μm, 90 nm
-- **Années 2010** : 65 nm, 40 nm, 28 nm, 20 nm, 16 nm, 10 nm, 7 nm
-- **Années 2020** : 5 nm, 3 nm, 2 nm
+- **1990s**: 1.2 microns, 0.8 microns, 0.6 microns
+- **2000s**: 0.35 microns, 0.25 microns, 0.18 microns, 0.13 microns, 90 nanometers
+- **2010s**: 65 nanometers, 40 nanometers, 28 nanometers, 20 nanometers, 16 nanometers, 10 nanometers, 7 nanometers
+- **2020s**: 5 nanometers, 3 nanometers, 2 nanometers
 
-### L'avènement de l'ère du 2 nm
+### The Arrival of the 2nm Era
 
-Au quatrième trimestre 2025, TSMC a lancé la production en masse du procédé 2 nm, les principales lignes de production étant situées à l'usine Baoshan 20 de Hsinchu et à l'usine 22 de Kaohsiung. C'est une nouvelle limite pour la fabrication humaine — 2 nm équivaut au diamètre de 20 atomes, approchant la frontière théorique de la physique.
+In the fourth quarter of 2025, TSMC will begin mass production of the 2nm process, with main production lines located at Hsinchu Hsinchu 20 and Kaohsiung 22. This is the new limit of human manufacturing technology—2 nanometers is equivalent to the diameter of 20 atoms, approaching the theoretical boundary of physics.
 
-TSMC estime que fin 2026, la capacité de production mensuelle du procédé 2 nm atteindra 100 000 wafers. Les premiers clients incluent les puces de série A d'Apple et les puces d'IA de NVIDIA.
+TSMC estimates that by the end of 2026, the monthly capacity of the 2nm process will reach 100,000 wafers. The first batch of customers will include Apple's A-series chips and NVIDIA's AI chips.
 
-Ce qui est encore plus décourageant pour la concurrence : TSMC développe déjà le procédé 1,6 nm (A16), dont la production en masse est prévue pour le second semestre 2026. Alors que le monde entier tente encore de rattraper le 3 nm, TSMC est déjà en train de foncer vers l'échelle de l'angström (moins de 1 nm).
+What makes competitors despair is that TSMC is already researching the 1.6nm (A16) process, expected to be mass-produced in the second half of 2026. While the world is still catching up to 3nm, TSMC is already sprinting towards the Angstrom era (below 1nm).
 
-### Le coût de l'avance technologique
+### The Cost of Technological Leadership
 
-Les coûts de R&D des procédés avancés croissent de façon exponentielle :
+R&D costs for advanced processes are growing exponentially:
 
-- Procédé 28 nm : 1 milliard de dollars
-- Procédé 7 nm : 3 milliards de dollars
-- Procédé 3 nm : 10 milliards de dollars
-- Procédé 2 nm : estimé à plus de 20 milliards de dollars
+- 28nm process: $1 billion
+- 7nm process: $3 billion
+- 3nm process: $10 billion
+- 2nm process: Estimated at over $20 billion
 
-Ces investissements astronomiques font que de moins en moins d'entreprises peuvent suivre cette course. Actuellement, seules trois entreprises dans le monde — TSMC, Samsung et Intel — participent encore à la course aux armements des procédés avancés, et TSMC devance ses concurrents de 2 à 3 générations.
+This astronomical investment means fewer and fewer companies can keep up with this game. Currently, only three companies in the world—TSMC, Samsung, and Intel—are still in the advanced process arms race, with TSMC leading other competitors by 2-3 generations.
 
-## La montagne protectrice de la nation : un nouvel atout géopolitique
+## The Sacred Mountain of Protection: New Geopolitical Leverage
 
-### L'effet « bouclier de silicium »
+### The Silicon Shield Effect
 
-L'avantage technologique de TSMC est devenu, de manière inattendue, un « bouclier de silicium » pour Taïwan dans l'arène géopolitique. Les géants technologiques mondiaux dépendent tous des procédés avancés de TSMC :
+TSMC's technological advantage has unexpectedly become Taiwan's "silicon shield" in geopolitics. Global tech giants all rely on TSMC's advanced processes:
 
-- **Apple** : puces centrales de l'iPad, du Mac et de l'iPhone
-- **NVIDIA** : puces d'entraînement et d'inférence en IA
-- **AMD** : puces CPU et GPU
-- **Qualcomm** : puces pour téléphones 5G
-- **Tesla** : puces de conduite autonome
+- **Apple**: Core chips for iPhone, iPad, Mac
+- **NVIDIA**: AI training and inference chips
+- **AMD**: CPU and GPU chips
+- **Qualcomm**: 5G mobile chips
+- **Tesla**: Autonomous driving chips
 
-Si TSMC arrêtait sa production pendant une semaine, la chaîne d'approvisionnement technologique mondiale serait paralysée. Ce statut stratégique confère à Taïwan une influence sans précédent sur la scène politique internationale.
+If TSMC stops production for a week, the global tech supply chain would paralyze. This strategic status gives Taiwan unprecedented influence in international politics.
 
-### La course à la délocalisation des pays
+### The Scramble by Various Countries
 
-Parce que TSMC est trop importante, tous les pays veulent transférer cette technologie chez eux :
+Because TSMC is so important, various countries want to move this technology to their own homes:
 
-**Usine d'Arizona, États-Unis** (2025-2028) :
-Investissement de 40 milliards de dollars, production prévue de puces en 5 nm et 3 nm. Mais la capacité est limitée, et la portée symbolique dépasse la portée pratique.
+**US Arizona Plant** (2025-2028):
+Investing $40 billion, expected to produce 5nm and 3nm chips. However, capacity is limited, and the symbolic significance outweighs the practical significance.
 
-**Usine de Kumamoto, Japon** (mise en service en 2024) :
-En coopération avec Sony et Toyota, production de puces automobiles de 22 nm à 28 nm. Ce ne sont pas les procédés les plus avancés, mais ils suffisent à répondre aux besoins de l'industrie automobile japonaise.
+**Japan Kumamoto Plant** (Production started in 2024):
+Collaborating with Sony and Toyota to produce 22nm to 28nm automotive chips. These are not the most advanced processes, but they are sufficient to meet the needs of the Japanese automotive industry.
 
-**Usine de Dresde, Allemagne** (mise en service en 2027) :
-En coopération avec BMW et Bosch, ciblant le marché européen de l'électronique automobile.
+**Germany Dresden Plant** (To be operational in 2027):
+Collaborating with BMW and Bosch, focusing on the European automotive electronics market.
 
-Mais l'essentiel de ces usines à l'étranger est le suivant : **les technologies de procédé les plus avancées restent à Taïwan**. Les technologies de pointe comme le 2 nm et le 1,6 nm ne seront pas transférées à court terme. Taïwan reste le cœur mondial de la technologie des semi-conducteurs.
+But the key to these overseas plants is: **The most advanced process technology remains in Taiwan**. Cutting-edge technologies such as 2nm and 1.6nm will not be moved out in the short term. Taiwan remains the heart of global semiconductor technology.
 
-## La vague de l'IA : une renaissance inattendue
+## The AI Wave: An Unexpected Second Spring
 
-### La transition du téléphone portable à l'IA
+### Transition from Mobile to AI
 
-Avant 2020, les principaux clients de TSMC étaient les fabricants de puces pour téléphones portables. Mais après l'explosion de ChatGPT en 2022, l'IA est devenue le nouveau moteur de croissance.
+Before 2020, TSMC's main customers were mobile chip manufacturers. But after ChatGPT went viral in 2022, AI became a new growth engine.
 
-L'entraînement et l'inférence en IA nécessitent une puissance de calcul massive, entraînant une explosion de la demande en puces haut de gamme. Les puces d'IA H100 et H200 de NVIDIA sont toutes produites par TSMC en procédés 4 nm et 5 nm. Les puces de série M d'Apple intègrent également davantage de fonctions d'IA.
+AI training and inference require massive computing power, driving a surge in demand for high-end chips. NVIDIA's H100 and H200 AI chips are all produced using TSMC's 4nm and 5nm processes. Apple's M-series chips have also added more AI features.
 
-Les données de 2024 montrent que les revenus des procédés avancés (7 nm et plus) représentent déjà 69 % du chiffre d'affaires total des ventes de wafers de TSMC. Cette proportion continue d'augmenter.
+Data from 2024 shows that revenue from advanced processes (7nm and beyond) reached 69% of TSMC's total wafer sales. This proportion is still rising.
 
-### La percée de la technologie d'encapsulation CoWoS
+### Breakthrough in CoWoS Packaging Technology
 
-Les puces d'IA doivent traiter des volumes massifs de données. Une seule puce ne suffit plus : il faut « empiler » plusieurs puces ensemble. La technologie d'encapsulation CoWoS (Chip on Wafer on Substrate) de TSMC est devenue une technologie clé de l'ère de l'IA.
+AI chips need to process massive amounts of data. A single chip is no longer enough; multiple chips must be "stacked" together. TSMC's CoWoS (Chip-on-Wafer-on-Substrate) packaging technology has become the key technology of the AI era.
 
-La puce H100 de NVIDIA utilise la technologie CoWoS pour encapsuler ensemble la puce GPU et la mémoire haute vitesse. Le seuil technologique de cette technique est extrêmement élevé, et seule TSMC est actuellement capable de la produire en masse.
+NVIDIA's H100 chip uses CoWoS technology to package the GPU chip and high-speed memory together. This technology has a very high barrier to entry, and currently, only TSMC can mass-produce it.
 
-## Les concurrents : la poursuite serrée de Samsung et les difficultés d'Intel
+## Competitors: Samsung's Tight Pursuit and Intel's Struggle
 
-### L'offensive coréenne de Samsung
+### Samsung's Korean Offensive
 
-Samsung, le principal concurrent de TSMC, adopte une stratégie radicalement différente :
+South Korea's Samsung is TSMC's main competitor, adopting a completely different strategy:
 
-- **Intégration verticale** : de la mémoire à la fonderie de puces en passant par la fabrication de téléphones, tout est intégré
-- **Investissements colossaux** : 230 milliards de dollars investis entre 2022 et 2026
-- **Soutien gouvernemental** : le projet « K-Semiconductor Belt » coréen apporte un soutien total
+- **Vertical Integration**: From memory and chip foundry to mobile phone manufacturing in one go
+- **Huge Investment**: Investing $230 billion from 2022-2026
+- **Government Support**: The South Korean "K-Semiconductor Belt" plan provides full support
 
-Mais Samsung reste en retard sur TSMC en matière de rendement des procédés avancés. En 2023, le rendement du procédé 3 nm de Samsung était d'environ 60 %, contre plus de 90 % pour TSMC. Dans une industrie où la précision est déterminante, un écart de rendement est un gouffre infranchissable.
+However, Samsung still lags behind TSMC in advanced process yield. In 2023, Samsung's 3nm process yield was about 60%, while TSMC had reached over 90%. In an industry where precision determines everything, the yield gap is worlds apart.
 
-### Les difficultés de transformation d'Intel
+### Intel's Transformation Struggles
 
-Autrefois leader mondial de la technologie des semi-conducteurs, Intel est resté bloqué pendant des années au stade du procédé 10 nm, manquant la meilleure fenêtre pour rivaliser avec TSMC.
+Intel was once the global leader in semiconductor technology, but it has been stuck at the 10nm process for years, missing the best opportunity to compete with TSMC.
 
-En 2021, Intel a lancé la stratégie « IDM 2.0 », visant à gérer simultanément la conception de ses propres puces et une activité de fonderie. Mais en 2025, l'activité de fonderie d'Intel n'avait pas encore attiré de clients majeurs. Le plus ironique : certaines des puces haut de gamme conçues par Intel lui-même sont désormais fabriquées par TSMC.
+In 2021, Intel proposed the "IDM 2.0" strategy, aiming to operate both its own chip design and foundry business. But by 2025, Intel's foundry business had still not secured major clients. The most ironic thing is that some of Intel's own high-end chips are now also produced by TSMC.
 
-## L'écosystème des semi-conducteurs taïwanais : bien plus que TSMC
+## Taiwan's Semiconductor Ecosystem: More Than Just TSMC
 
-### L'avantage d'une chaîne industrielle complète
+### Advantages of a Complete Industrial Chain
 
-La compétitivité de l'industrie des semi-conducteurs taïwanaise ne provient pas uniquement de TSMC, mais de tout un écosystème :
+Taiwan's semiconductor industry competitiveness comes not just from TSMC, but from the entire ecosystem:
 
-**Conception de circuits intégrés** : MediaTek (top 3 mondial), Novatek, Realtek, Himax
-**Fonderie de wafers** : TSMC (premier mondial), UMC, VIS
-**Encapsulation et test** : ASE (premier mondial), SPIL, King Yuan ECE
-**Équipements et matériaux** : Nanya, Winbond, AWSC
+**IC Design**: MediaTek (Top 3 globally), Novatek, Realtek, PixArt
+**Wafer Foundry**: TSMC (Global No. 1), UMC, Vanguard International Semiconductor
+**Packaging and Testing**: ASE Group (Global No. 1), SPIL, KEMET
+**Equipment and Materials**: Nan Ya Technology, Winbond, Vanguard
 
-Ce regroupement industriel complet génère de puissants effets de synergie. Une puce peut être conçue et achevée en faisant le tour de Taïwan, sans nécessiter de transport transnational.
+This complete industrial cluster creates strong synergies. A chip can go from design to completion in a loop around Taiwan, without needing cross-border transportation.
 
-### Le parc scientifique de Hsinchu : un pôle d'attraction des talents
+### Talent Aggregation in Hsinchu Science Park
 
-Fondé en 1980, le parc scientifique de Hsinchu est devenu, après plus de 40 ans de développement, l'un des pôles de semi-conducteurs les plus importants au monde. Le parc abrite plus de 500 entreprises et emploie plus de 170 000 personnes.
+Established in 1980, the Hsinchu Science Park has developed over 40 years to become one of the most important semiconductor clusters in the world. There are over 500 companies in the park, with more than 170,000 employees.
 
-Plus important encore est la circulation des talents. Un ingénieur peut passer quelques années chez TSMC, puis passer chez MediaTek pour concevoir des puces, puis rejoindre ASE pour l'encapsulation. Ce cycle des talents permet d'élever continuellement le niveau technologique de l'ensemble de l'industrie.
+More importantly is talent mobility. Engineers may spend a few years at TSMC, then jump to MediaTek to design chips, and then move to ASE to handle packaging. This talent circulation continuously raises the technical level of the entire industry.
 
-## Les défis à venir : limites physiques et risques géopolitiques
+## Future Challenges: Physical Limits and Geopolitical Risks
 
-### La fin de la loi de Moore
+### The End of Moore's Law
 
-Le 2 nm approche déjà de la limite physique des semi-conducteurs à base de silicium. Pour continuer la miniaturisation, il faudra peut-être de nouveaux matériaux (nanotubes de carbone, graphène) ou de nouvelles architectures (calcul quantique, calcul photonique).
+2nm is already approaching the physical limits of silicon-based semiconductors. To continue shrinking, new materials (such as carbon nanotubes, graphene) or new architectures (such as quantum computing, photonics) may be needed.
 
-Les procédés à « l'échelle de l'angström » (moins de 1 nm) sur lesquels TSMC travaille présentent des difficultés techniques de croissance exponentielle. Le coût par transistor pourrait en fait augmenter, remettant en question la logique économique traditionnelle.
+TSMC is researching "Angstrom-level" processes (below 1nm), where the technical difficulty grows exponentially. The cost of each transistor may actually increase, challenging traditional economic logic.
 
-### L'épée à double tranchant de la géopolitique
+### The Double-Edged Sword of Geopolitics
 
-Le statut stratégique de TSMC est à la fois une protection et un risque. La guerre technologique sino-américaine place Taïwan entre deux superpuissances, obligée de maintenir un équilibre :
+TSMC's strategic status is both protection and risk. The US-China tech war leaves Taiwan caught in the middle, requiring balance between the two superpowers:
 
-- **Pression américaine** : exiger que TSMC respecte les sanctions technologiques contre la Chine
-- **Marché chinois** : reste une source importante de revenus pour TSMC
-- **Risques de la chaîne d'approvisionnement** : le risque de la concentration excessive de la production à Taïwan
+- **US Pressure**: Demands that TSMC comply with technology sanctions against China
+- **Chinese Market**: Remains an important source of TSMC's revenue
+- **Supply Chain Risk**: Risks of production being overly concentrated in Taiwan
 
-### La guerre des talents
+### The Talent War
 
-Le monde entier se dispute les talents en semi-conducteurs. Le CHIPS Act américain, le CHIPS Act européen et la stratégie japonaise pour les semi-conducteurs offrent toutes des subventions massives pour attirer les talents. TSMC doit rester compétitive sur le marché mondial des talents.
+The world is competing for semiconductor talent. The US CHIPS Act, the EU CHIPS Act, and Japan's semiconductor strategy all offer huge subsidies to attract talent. TSMC must remain competitive in the global talent market.
 
-## L'horizon 2030 : au-delà de la loi de Moore
+## Imagination for 2030: Beyond Moore's Law
 
-### L'ère de l'intégration hétérogène
+### The New Era of Heterogeneous Integration
 
-Lorsqu'il devient impossible de continuer à miniaturiser les transistors, l'industrie des semi-conducteurs se tourne vers l'« intégration hétérogène » — intégrer des puces de fonctions différentes dans un même boîtier :
+When it is no longer possible to continue shrinking transistors, the semiconductor industry turns to "heterogeneous integration"—integrating chips with different functions into the same package:
 
-- **Puces de processeur** : responsables du calcul
-- **Puces de mémoire** : responsables du stockage
-- **Puces de capteurs** : responsables de la perception
-- **Puces RF** : responsables des communications
+- **Processor Chips**: Responsible for computation
+- **Memory Chips**: Responsible for storage
+- **Sensor Chips**: Responsible for perception
+- **RF Chips**: Responsible for communication
 
-La technologie 3D IC de TSMC permet aux puces d'être « empilées verticalement », intégrant davantage de fonctions dans une surface limitée.
+TSMC's 3D IC technology allows chips to be "vertically stacked," packing more functions into a limited area.
 
-### Le défi du calcul quantique
+### The Challenge of Quantum Computing
 
-Google, IBM, IonQ et d'autres entreprises développent le calcul quantique, affirmant pouvoir résoudre des problèmes complexes insolubles pour les ordinateurs traditionnels. Si le calcul quantique franchit véritablement le cap, il pourrait bouleverser l'ensemble de l'industrie des semi-conducteurs.
+Companies like Google, IBM, and IonQ are developing quantum computing, claiming to solve complex problems that traditional computers cannot handle. If quantum computing truly breaks through, it may颠覆 the entire semiconductor industry.
 
-Mais TSMC se prépare également. L'entreprise collabore avec IBM sur la R&D des technologies de fabrication pour le calcul quantique, se préparant à accueillir la prochaine révolution technologique.
+But TSMC is also laying out plans. The company is collaborating with IBM to develop manufacturing technologies for quantum computing, preparing for the next wave of technological revolution.
 
-## Conclusion : la course éternelle de l'île technologique
+## Conclusion: The Eternal Race of the Tech Island
 
-Depuis l'aventure de Morris Chang en 1987, TSMC a mis près de 40 ans pour transformer Taïwan en cœur battant de la technologie mondiale. Ce n'est pas seulement le succès d'une entreprise, mais le miracle stratégique d'une île entière.
+From Morris Chang's adventure in 1987, TSMC has spent nearly 40 years turning Taiwan into the lifeline of global technology. This is not just the success of one company, but a strategic miracle of the entire island.
 
-Aujourd'hui, lorsque vous envoyez un message avec votre iPhone, posez une question à ChatGPT ou activez la conduite autonome de votre Tesla, vous utilisez en réalité la technologie taïwanaise. 69 % des puces les plus avancées au monde sont fabriquées sur cette petite île qu'est Taïwan.
+Today, when you send a message on an iPhone, ask ChatGPT a question, or activate Tesla's autonomous driving, you are actually using Taiwan's technology. 69% of the world's most advanced chips are manufactured on this small island.
 
-Mais combien de temps cet avantage pourra-t-il durer ? L'avance technologique n'a pas de ligne d'arrivée : chaque jour est un nouveau départ. TSMC doit continuer à investir, à innover et à devancer pour maintenir sa position dans cette course technologique éternelle.
+But how long can this advantage last? Technological leadership has no endpoint; every day is a new beginning. TSMC must continue to invest, innovate, and lead to maintain its position in this eternal tech race.
 
-Pour Taïwan, l'industrie des semi-conducteurs n'est pas seulement un pilier économique, mais aussi une stratégie de survie dans l'ère de la mondialisation. Alors que la géopolitique se complexifie, l'avantage technologique est peut-être le talisman le plus puissant d'une petite nation.
+For Taiwan, the semiconductor industry is not just an economic pillar, but a survival strategy in the era of globalization. As geopolitics becomes increasingly complex, technological advantage may be the most powerful talisman for a small country.
 
-L'histoire de Taïwan continue de s'écrire. Et le prochain chapitre sera le défi des procédés à l'échelle de l'angström.
+Taiwan's story is still being written. And the next chapter will be the challenge of the Angstrom-level process.
 
 ---
 
-**Pour aller plus loin** :
+**Further Reading**:
 
-- [Les Bâtisseurs de montagnes : le pari du siècle](/art/造山者世紀的賭注) — Documentaire de 2025 d'Hsia Chu-chen, cinq ans d'entretiens avec plus de 80 pionniers des semi-conducteurs, visitant en 2026 les trois universités américaines de Purdue, Wisconsin et Michigan, piliers de l'investissement du CHIPS Act
+- [The Mountain Makers: A Bet of the Century](/art/造山者世紀的賭注) — Xiao Juzhen 2025 Documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in Purdue/Wisconsin/Michigan in 2026
 
-- [Wu Ta-you](/people/吳大猷) — Alors que Taïwan se battait pour les semi-conducteurs dans les années 1980, il était président de l'Academia Sinica et insistait sur l'importance des sciences fondamentales, posant les bases du système de recherche scientifique taïwanais
-- [L'industrie robotique taïwanaise](/technology/台灣機器人產業) — L'île numéro un mondial des semi-conducteurs, pourquoi est-elle à la traîne à l'ère de la robotique ? Les fractures industrielles vues à travers l'inauguration du NCAIR
+- [Wu Da-you](/people/吳大猷) — While Taiwan was拼 semiconductor in the 1980s, serving as the President of Academia Sinica, he insisted on the importance of basic science, laying the foundation for Taiwan's scientific research system
+- [Taiwan's Robotics Industry](/technology/台灣機器人產業) — The island that is number one in semiconductors, why is it a make-up student in the era of robots? Looking at the industrial gap from the unveiling of NCAIR
+- [Taiwan Stock Market and Capital Market](/economy/台灣股市與資本市場) — How the entire supply chain ecosystem supporting Taiwan's stock market as the 6th largest in the world in 2026 is presented in the capital market
 
-## Références
+## References
 
-- [Site officiel de TSMC](https://www.tsmc.com/)
-- [Economic Daily News : avancées dans la production en masse du 2 nm par TSMC](https://money.udn.com/money/story/5612/9080842)
-- [Business Next : reportage sur le lancement officiel de la production en masse du 2 nm par TSMC](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
-- [TechNews : le taux d'utilisation du 3 nm atteint 100 %](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
-- [CommonWealth Magazine : Li Kwoh-ting et la naissance de TSMC](https://www.cw.com.tw/article/5095492)
-- [ITRI : Morris Chang et le développement de l'industrie des semi-conducteurs](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)
+- [TSMC Official Website](https://www.tsmc.com/)
+- [Economic Daily: TSMC 2nm Mass Production Progress](https://money.udn.com/money/story/5612/9080842)
+- [Digital Times: TSMC 2nm Official Mass Production Report](https://www.bnext.com.tw/article/89663/tsmc-2nm-volume-production)
+- [TechNews: 3nm Utilization Reaches 100%](https://technews.tw/2025/05/26/tsmcs-2nm-process-is-expected-to-reach-full-capacity-in-four-seasons/)
+- [Cw.com.tw: Kuo-Tung Lee and the Birth of TSMC](https://www.cw.com.tw/article/5095492)
+- [ITRI: Morris Chang and the Development of the Semiconductor Industry](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=18_content&SiteID=1&MmmID=1036452026061075714&MGID=621022501112264647)

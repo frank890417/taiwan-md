@@ -23,6 +23,7 @@ lastVerified: 2026-04-12
 translatedFrom: "People/劉安婷.md"
 sourceCommitSha: "4f008ac1"
 sourceContentHash: "sha256:89e13d5f2d14687c"
+sourceBodyHash: 'sha256:8514a8a697807f6e'
 translatedAt: "2026-04-14T19:14:30+08:00"
 ---
 

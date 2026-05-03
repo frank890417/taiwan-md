@@ -12,6 +12,7 @@ lastVerified: 2026-03-25
 translatedFrom: "Economy/台灣企業：聯發科技.md"
 sourceCommitSha: "800114ea"
 sourceContentHash: "sha256:0c49eb028b1d20ab"
+sourceBodyHash: 'sha256:ca7ccf342ddb45cb'
 translatedAt: "2026-04-14T19:21:16+08:00"
 ---
 

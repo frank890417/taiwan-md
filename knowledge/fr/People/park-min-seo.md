@@ -21,6 +21,7 @@ lastHumanReview: false
 translatedFrom: 'People/朴旻曙.md'
 sourceCommitSha: '967e77ab'
 sourceContentHash: 'sha256:1d1af2a03aaae646'
+sourceBodyHash: 'sha256:3e4daa2888a2eaa8'
 translatedAt: '2026-05-02T01:17:16+08:00'
 ---
 

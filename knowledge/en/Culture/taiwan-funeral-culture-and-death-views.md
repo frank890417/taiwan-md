@@ -2,6 +2,7 @@
 translatedFrom: 'Culture/台灣殯葬文化與生死觀.md'
 sourceCommitSha: 'f4e7a8af'
 sourceContentHash: 'sha256:c4dd3375c0cfa0a5'
+sourceBodyHash: 'sha256:a20df4f3c36414b3'
 translatedAt: '2026-05-01T13:44:02+08:00'
 title: "Taiwan's Funeral Culture and Views on Death"
 description: 'From the wailing of professional mourners to the garden of Yongli Cemetery — Taiwan spent fifty years moving from burial to cremation, then another ten moving from columbaria to a spot beneath a tree.'

@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'People/紀政.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:db29d3b29cd717d9'
+sourceBodyHash: 'sha256:ddcb74beb6a62bd2'
 translatedAt: '2026-04-14T19:24:59+08:00'
 ---
 

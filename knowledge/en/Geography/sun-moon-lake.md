@@ -20,6 +20,7 @@ featured: false
 translatedFrom: Geography/日月潭.md
 sourceCommitSha: 6fee3ae6
 sourceContentHash: sha256:42b8aad698e71e45
+sourceBodyHash: 'sha256:49a7ff51183c5473'
 translatedAt: '2026-04-30T22:50:13+08:00'
 ---
 

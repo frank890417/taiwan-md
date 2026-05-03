@@ -2,6 +2,7 @@
 translatedFrom: 'Nature/黑面琵鷺.md'
 sourceCommitSha: '21335999'
 sourceContentHash: 'sha256:8cef581f5392bc2b'
+sourceBodyHash: 'sha256:445b5720cbf0d2d9'
 translatedAt: '2026-05-01T17:19:34+08:00'
 title: 'Espátula menor: de 300 ejemplares a 7.000, el milagro transnacional de conservación enfrenta ahora «el precio del éxito»'
 description: 'El censo global de 2026 revela que la espátula menor ha alcanzado los 7.746 ejemplares, con 4.719 registrados en Taiwán, un máximo histórico. Esta ave, que estuvo al borde de la extinción, fue reclasificada en 2025 a una categoría de menor amenaza, pero en sus cuarteles invernales de Taiwán enfrenta nuevos desafíos: desarrollo fotovoltaico, botulismo y ataques de perros callejeros.'

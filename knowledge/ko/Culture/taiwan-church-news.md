@@ -21,6 +21,7 @@ featured: false
 translatedFrom: 'Culture/台灣教會公報.md'
 sourceCommitSha: 'c5ef5adf'
 sourceContentHash: 'sha256:3439ffa9774025fa'
+sourceBodyHash: 'sha256:2e121ca67feccc95'
 translatedAt: '2026-05-01T22:19:01+08:00'
 ---
 

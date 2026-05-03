@@ -11,6 +11,7 @@ featured: false
 translatedFrom: 'Nature/台灣環境運動史.md'
 sourceCommitSha: 'd4498d97'
 sourceContentHash: 'sha256:151e392e734f7b6f'
+sourceBodyHash: 'sha256:0fce8896f461a514'
 translatedAt: '2026-04-14T10:48:03+08:00'
 ---
 

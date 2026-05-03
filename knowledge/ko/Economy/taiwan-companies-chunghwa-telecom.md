@@ -12,6 +12,7 @@ translatedFrom: 'Economy/台灣企業：中華電信.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2dc422bd153e8b6c'
+sourceBodyHash: 'sha256:7cf96bc35fdd604f'
 translatedAt: '2026-04-14T08:37:54+08:00'
 ---
 

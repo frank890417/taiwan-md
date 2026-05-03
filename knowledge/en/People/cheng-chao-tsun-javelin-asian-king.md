@@ -8,6 +8,7 @@ lastVerified: 2026-03-20
 translatedFrom: 'People/鄭兆村.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bd6e73b952c9405f'
+sourceBodyHash: 'sha256:885d51e85cef03b2'
 translatedAt: '2026-04-14T12:25:09+08:00'
 category: People
 ---

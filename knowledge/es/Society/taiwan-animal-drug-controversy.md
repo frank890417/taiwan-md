@@ -22,6 +22,7 @@ lastVerified: 2026-04-11
 translatedFrom: 'Society/台灣動物用藥爭議.md'
 sourceCommitSha: '1d7e529c'
 sourceContentHash: 'sha256:d7dcd37acdb09d6d'
+sourceBodyHash: 'sha256:d1454d9c190df6ba'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

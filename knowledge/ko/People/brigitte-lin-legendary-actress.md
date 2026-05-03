@@ -10,6 +10,7 @@ readingTime: 12
 translatedFrom: 'People/林青霞.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2eacc434230880ee'
+sourceBodyHash: 'sha256:d26764e2c2a5eff6'
 translatedAt: '2026-04-14T19:24:41+08:00'
 ---
 

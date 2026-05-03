@@ -12,6 +12,7 @@ lastVerified: 2026-03-19
 translatedFrom: "Nature/台灣步道文化與公民守護.md"
 sourceCommitSha: "84e04168"
 sourceContentHash: "sha256:c5189b4648b42385"
+sourceBodyHash: 'sha256:c7dab5f5270d5967'
 translatedAt: "2026-04-14T19:22:26+08:00"
 ---
 

@@ -13,6 +13,7 @@ author: 'Taiwan.md Translation Team'
 translatedFrom: "People/李昌鈺.md"
 sourceCommitSha: "2acf410b"
 sourceContentHash: "sha256:d64c72cf7c6361d3"
+sourceBodyHash: 'sha256:6f5a343122533934'
 translatedAt: "2026-04-14T19:15:26+08:00"
 ---
 

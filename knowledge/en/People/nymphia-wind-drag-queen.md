@@ -4,6 +4,7 @@ description: "How a Taiwanese boy who was bullied for his gender expression brou
 translatedFrom: 'People/妮妃雅.md'
 sourceCommitSha: 'fab473cc'
 sourceContentHash: 'sha256:10538bd4034afd34'
+sourceBodyHash: 'sha256:18c9609265b03371'
 translatedAt: '2026-05-01T12:53:58+08:00'
 date: 2026-04-18
 tags:

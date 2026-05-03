@@ -12,6 +12,7 @@ lastHumanReview: false
 translatedFrom: 'Economy/台灣企業：緯創資通.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e06fd51c1363bcdb'
+sourceBodyHash: 'sha256:b0dec6214f7eed84'
 translatedAt: '2026-05-01T15:38:13+08:00'
 subcategory: '企業列傳'
 category: Economy

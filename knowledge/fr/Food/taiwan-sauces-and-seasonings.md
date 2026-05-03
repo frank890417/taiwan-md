@@ -12,6 +12,7 @@ translatedFrom: "Food/台灣醬料與調味.md"
 lastVerified: 2026-03-20
 sourceCommitSha: "221b1708"
 sourceContentHash: "sha256:80c0f5a5b4a4fc5f"
+sourceBodyHash: 'sha256:165e3d5c431f4c83'
 translatedAt: "2026-04-14T12:29:25+08:00"
 ---
 

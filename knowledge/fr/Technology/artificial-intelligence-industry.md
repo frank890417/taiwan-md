@@ -13,6 +13,7 @@ translatedFrom: 'Technology/AI人工智慧產業.md'
 lastVerified: 2026-03-20
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bc36a1af91d28cb5'
+sourceBodyHash: 'sha256:9d1ac9fec38fa5d4'
 translatedAt: '2026-04-14T12:32:55+08:00'
 ---
 

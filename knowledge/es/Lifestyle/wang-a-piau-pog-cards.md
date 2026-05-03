@@ -20,6 +20,7 @@ featured: false
 translatedFrom: Lifestyle/尪仔標.md
 sourceCommitSha: 56fa1bf1
 sourceContentHash: sha256:01872081668edbca
+sourceBodyHash: 'sha256:5d92b64086c4d151'
 translatedAt: 2026-05-01T22:19:10+08:00
 ---
 

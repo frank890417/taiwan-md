@@ -12,6 +12,7 @@ lastVerified: 2026-03-21
 translatedFrom: "Culture/台灣諧音禁忌文化.md"
 sourceCommitSha: "a05d2431"
 sourceContentHash: "sha256:d88f480a1e1f7ae0"
+sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
 translatedAt: "2026-04-14T12:34:13+08:00"
 ---
 

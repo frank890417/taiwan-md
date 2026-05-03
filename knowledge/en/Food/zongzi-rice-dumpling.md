@@ -22,6 +22,7 @@ lastHumanReview: false
 translatedFrom: 'Food/粽子.md'
 sourceCommitSha: '8b302342'
 sourceContentHash: 'sha256:417f55638e009ac3'
+sourceBodyHash: 'sha256:0a9c845f48a278d1'
 translatedAt: '2026-05-01T13:44:02+08:00'
 ---
 

@@ -19,6 +19,7 @@ lastVerified: 2026-03-19
 translatedFrom: 'Nature/臺灣的鯨豚.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:07527dba7e956bb0'
+sourceBodyHash: 'sha256:e23b2794eedebfe3'
 translatedAt: '2026-04-14T12:25:09+08:00'
 ---
 

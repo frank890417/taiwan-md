@@ -696,24 +696,33 @@ async function main() {
       const s = statusSummary[lang];
       const fresh = s.fresh || 0;
       const stale = s.stale || 0;
+      const metadataStale = s.metadata_stale || 0; // NEW (DNA #38 第 2 次 instantiation)
       const miss = s.missing || 0;
       const orphan = s.orphan || 0;
       const totalZh = s.total_zh || articles.length;
-      // total = fresh + stale（已存在的翻譯，舊 dashboard 顯示用）
-      const total = fresh + stale;
+      // total = fresh + metadata-stale + stale（所有已存在翻譯）
+      const total = fresh + metadataStale + stale;
+      // bodyFresh = fresh + metadata-stale (body 仍 valid，trailer 變動可走 patch)
+      const bodyFresh = fresh + metadataStale;
       summary[lang] = {
         total,
         percentage:
           totalZh > 0 ? parseFloat(((total / totalZh) * 100).toFixed(1)) : 0,
         fresh,
-        stale,
+        metadataStale, // 三色 widget 中色 (yellow): body valid + metadata changed
+        stale, // 三色 widget 紅色 (red): true body drift, needs re-translate
         missing: miss,
         orphan,
-        // deficit = 距 zh 完全覆蓋還差幾篇（fresh+stale 不到 totalZh）
+        // deficit = 距 zh 完全覆蓋還差幾篇（fresh+stale+metadata-stale 不到 totalZh）
         deficit: Math.max(0, totalZh - total),
-        // freshPct = 真實健康度（只算 fresh）
+        // freshPct = 嚴格 fresh%（仍然作為 strict 真實健康度）
         freshPct:
           totalZh > 0 ? parseFloat(((fresh / totalZh) * 100).toFixed(1)) : 0,
+        // bodyFreshPct = effective 健康度（fresh + metadata-stale，body 仍 valid）
+        bodyFreshPct:
+          totalZh > 0
+            ? parseFloat(((bodyFresh / totalZh) * 100).toFixed(1))
+            : 0,
       };
     } else {
       const total = languageCoverage[lang];

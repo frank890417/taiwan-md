@@ -9,6 +9,7 @@ lastHumanReview: false
 translatedFrom: People/許淑淨.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:3b7fb89b51840200
+sourceBodyHash: 'sha256:dca5860f9a717d39'
 translatedAt: 2026-05-01T19:52:32+08:00
 category: People
 ---

@@ -20,6 +20,7 @@ featured: false
 translatedFrom: 'People/黃春明.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2ec7b54fb5bdb0ff'
+sourceBodyHash: 'sha256:f81c1b7fb667e89e'
 translatedAt: '2026-04-15T17:32:28+08:00'
 ---
 

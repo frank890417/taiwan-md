@@ -14,6 +14,7 @@ readingTime: 10
 translatedFrom: 'Art/當代台灣文學.md'
 sourceCommitSha: '31272c2c'
 sourceContentHash: 'sha256:a65b1a4010a5ecce'
+sourceBodyHash: 'sha256:e321c808a017c0fd'
 translatedAt: '2026-05-01T14:48:26+08:00'
 ---
 

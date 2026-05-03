@@ -21,6 +21,7 @@ translatedFrom: 'Technology/數位身分證與數位政府.md'
 lastVerified: 2026-03-24
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b4175e4786ecfd7b'
+sourceBodyHash: 'sha256:ddd000a6b90bc6a2'
 translatedAt: '2026-04-14T07:08:03+08:00'
 ---
 
