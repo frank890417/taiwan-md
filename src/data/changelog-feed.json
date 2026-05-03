@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-05-02T17:12:38.834Z",
+  "generatedAt": "2026-05-03T08:44:05.233Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "608ea7e6c2a206d1d2d24e0e1509d6a4d045544a",
+      "date": "2026-05-03T16:29:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] sleepy-colden build-perf evolve — 6 [slug].astro 統一 template + perf 儀器化 (#819)"
+    },
+    {
+      "hash": "82405076fef5f43f8bb499c78488238824138d59",
+      "date": "2026-05-03T15:48:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 2 篇 diary GFM autolink 防護 — 8 處 backtick 包 .sh / .py 腳本名 (#818)"
+    },
+    {
+      "hash": "b032b1e95f2663ef4eca46201fedd9bf360ffb60",
+      "date": "2026-05-03T15:15:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] dashboard-spores.json prebuild + commit current state (#817)"
+    },
+    {
+      "hash": "1167f8f7b701cedb395680a0612a050f37672e8f",
+      "date": "2026-05-03T14:47:49+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] SSOT 進化：narrative → structured columns auto-derive (#815)"
+    },
+    {
+      "hash": "2d0c126f6e41b96f365786719263eeb5ffe993f9",
+      "date": "2026-05-03T14:46:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] heal: 6 篇 article batch cleanup — 11 sibling reverse cross-link + DONE-LOG + CONSCIOUSNESS (#816)"
+    },
+    {
+      "hash": "1d88ee997a571823e1041fc00ad8258bde2e6c9e",
+      "date": "2026-05-03T14:32:09+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: gallant-payne — 探測器 + 6 篇 article 平行工廠模式 + 3 LESSONS 候選 (#814)"
+    },
+    {
+      "hash": "96c653f7023af373c4d3041d00452283d3930ff8",
+      "date": "2026-05-03T14:32:06+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 盧秀燕 NEW People — 不敗女王 8 連勝放棄黨主席，2028 默認共主民調卻被陳萬安超越 (#813)"
+    },
+    {
+      "hash": "de5c259cc84b28b1d64a6fd55efdc8bf34684c07",
+      "date": "2026-05-03T14:32:04+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 季麟連 NEW People — 為扁升上將的扁系名將反咬挺軍購韓國瑜 (#812)"
+    },
+    {
+      "hash": "1033cf0665e5174a8a49e7d7cdb16d19270bbb56",
+      "date": "2026-05-03T14:32:01+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 台灣股市與資本市場 — 2026-04-29 全球第 6 大里程碑 (#811)"
+    },
+    {
+      "hash": "c2985874d210a482d937c3571bcda63fb48ecd31",
+      "date": "2026-05-03T14:31:58+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: 台灣企業：鴻海精密 — 補 §企業治理風險（2014-2026） (#810)"
+    },
+    {
+      "hash": "1e9ce66d250e4f2ab3cbe13b42653244d6a8dc2a",
+      "date": "2026-05-03T14:31:55+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 徐巧芯 NEW People — 她讓國民黨年輕了，但年輕的方式是流量 (#809)"
+    },
+    {
+      "hash": "140e882d710c1149c5666dec0093cc6f51e8b03b",
+      "date": "2026-05-03T13:25:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] rewrite: 卓榮泰 NEW People — 38 年的協調者，2025 不副署財劃法 (#808)"
+    },
+    {
+      "hash": "65684195865d069ac2cab88bb1d3d0c825d1d991",
+      "date": "2026-05-03T13:20:16+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] v2: og-rename-sync touch jpg mtime + deploy timeout 60 → 120 (#807)"
+    },
+    {
+      "hash": "883371d6cbbf4a69ab0b3d5826d54d1e197e1548",
+      "date": "2026-05-03T13:07:29+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: MEMORY.md + DIARY.md 索引補 5/2 sleepy-colden + 5/3 cross-lang-baseline (#804)"
+    },
+    {
+      "hash": "56c8e556bf2c1ab971516d7fd4a852c1ff419604",
+      "date": "2026-05-03T13:07:25+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] OG cache rename sync — fix 全 regen 40 min build slowdown (#805)"
+    },
+    {
+      "hash": "616cbd078cee7b34660ac5e0696b364c7bae70fc",
+      "date": "2026-05-03T11:59:34+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 SporeFootprint splitMarkers fix + 10 sporeLinks Chrome MCP exact sync + SPORE-PIPELINE v2.9 (#798)"
+    },
+    {
+      "hash": "71972459c09966bd01c6027c85a5f500cff30f79",
+      "date": "2026-05-03T11:53:23+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] cross-lang baseline 95% issue reduction — 4 工具 × 4 phase × 1531 fixes (#797)"
+    },
+    {
+      "hash": "f224a91268ed8df20ccb995853dcfa83b08bae1c",
+      "date": "2026-05-03T11:39:48+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] diagnose: probe 2026-05-03 — 12 hotspots × 8 gaps × 4 People deficits (#796)"
+    },
+    {
+      "hash": "3862a6b46cf007a92a0e738e0f997fc162f85d8c",
+      "date": "2026-05-03T02:07:41+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] evolve: spore SSOT 系統性 refactor — parser fix + validation tool + Step 4.5e doc (#795)"
+    },
+    {
+      "hash": "4e1f14e8e0b552801f0e15ca9723e36b6aea173e",
+      "date": "2026-05-03T01:14:14+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: dashboard refresh + 9 spores Threads batch harvest (objective-khorana day 2) (#794)"
+    },
     {
       "hash": "c9138dca60627e2a1ebae54a33b49b9f48fc0387",
       "date": "2026-05-02T23:47:52+08:00",

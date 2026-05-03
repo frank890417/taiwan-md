@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T17:12:40.015Z",
+  "lastUpdated": "2026-05-03T08:44:06.324Z",
   "totals": {
     "contributors": 50,
     "activeWindow": "last 30d"
@@ -7,16 +7,16 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 2538,
+      "commits": 2557,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-05-02 23:47:52 +0800",
+      "lastCommitAt": "2026-05-03 16:29:48 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 554,
-        "system": 1612,
-        "translation": 580
+        "content": 562,
+        "system": 1631,
+        "translation": 582
       }
     },
     {
@@ -361,16 +361,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 2538,
+      "commits": 2557,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-05-02 23:47:52 +0800",
+      "lastCommitAt": "2026-05-03 16:29:48 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 554,
-        "system": 1612,
-        "translation": 580
+        "content": 562,
+        "system": 1631,
+        "translation": 582
       }
     },
     {
@@ -503,36 +503,8 @@
     }
   ],
   "weeklyActive": 5,
-  "monthlyActive": 12,
+  "monthlyActive": 11,
   "recentlyJoined": [
-    {
-      "login": "idlccp1984",
-      "commits": 114,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
-      "profileUrl": "https://github.com/idlccp1984",
-      "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-05-02 22:13:10 +0800",
-      "primaryArea": "content",
-      "breakdown": {
-        "content": 114,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
-      "login": "dreamline2",
-      "commits": 30,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/4657845?v=4",
-      "profileUrl": "https://github.com/dreamline2",
-      "firstCommitAt": "2026-04-03 17:23:59 +0900",
-      "lastCommitAt": "2026-04-30 21:08:02 +0900",
-      "primaryArea": "translation",
-      "breakdown": {
-        "content": 3,
-        "system": 17,
-        "translation": 17
-      }
-    },
     {
       "login": "ceruleanstring",
       "commits": 4,

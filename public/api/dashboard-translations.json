@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T17:12:38.756Z",
+  "lastUpdated": "2026-05-03T08:44:05.170Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,9 +10,9 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 652,
+      "total": 656,
       "percentage": 100,
-      "fresh": 652,
+      "fresh": 656,
       "stale": 0,
       "missing": 0,
       "deficit": 0
@@ -450,41 +450,41 @@
       }
     },
     "people": {
-      "zh-TW": 203,
+      "zh-TW": 207,
       "en": {
         "count": 203,
         "fresh": 202,
         "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 4
       },
       "ja": {
         "count": 203,
         "fresh": 202,
         "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 4
       },
       "ko": {
         "count": 203,
         "fresh": 202,
         "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 4
       },
       "es": {
         "count": 203,
         "fresh": 202,
         "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 4
       },
       "fr": {
         "count": 203,
         "fresh": 202,
         "stale": 1,
         "missing": 0,
-        "deficit": 0
+        "deficit": 4
       }
     },
     "society": {
@@ -566,19 +566,39 @@
   },
   "missing": {
     "en": [
+      "People/卓榮泰：從謝長廷議會助理到不副署財劃法的協調者.md",
+      "People/季麟連：從扁系上將到要韓國瑜被開除黨籍的副主席.md",
+      "People/徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化.md",
+      "People/盧秀燕：從谷關空氣 1 萬瓶到華府軍購保險論的不敗女王.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md",
       "Technology/半導體產業.md"
     ],
     "ja": [
+      "People/卓榮泰：從謝長廷議會助理到不副署財劃法的協調者.md",
+      "People/季麟連：從扁系上將到要韓國瑜被開除黨籍的副主席.md",
+      "People/徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化.md",
+      "People/盧秀燕：從谷關空氣 1 萬瓶到華府軍購保險論的不敗女王.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ],
     "ko": [
+      "People/卓榮泰：從謝長廷議會助理到不副署財劃法的協調者.md",
+      "People/季麟連：從扁系上將到要韓國瑜被開除黨籍的副主席.md",
+      "People/徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化.md",
+      "People/盧秀燕：從谷關空氣 1 萬瓶到華府軍購保險論的不敗女王.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ],
     "es": [
+      "People/卓榮泰：從謝長廷議會助理到不副署財劃法的協調者.md",
+      "People/季麟連：從扁系上將到要韓國瑜被開除黨籍的副主席.md",
+      "People/徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化.md",
+      "People/盧秀燕：從谷關空氣 1 萬瓶到華府軍購保險論的不敗女王.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ],
     "fr": [
+      "People/卓榮泰：從謝長廷議會助理到不副署財劃法的協調者.md",
+      "People/季麟連：從扁系上將到要韓國瑜被開除黨籍的副主席.md",
+      "People/徐巧芯：從早餐店女兒到「8000 億軍購」立委的流量年輕化.md",
+      "People/盧秀燕：從谷關空氣 1 萬瓶到華府軍購保險論的不敗女王.md",
       "History/退出聯合國：1971 年那 17 分鐘，台灣如何從「中國」變成國際孤兒.md"
     ]
   },
