@@ -71,6 +71,22 @@ if python3 scripts/tools/sync-translations-json.py 2>&1 | tail -3; then
 fi
 echo ""
 
+# Step 2.7 — extract structured metrics from SPORE-LOG narrative SSOT (2026-05-03 SSOT)
+# 為什麼: 「最後 harvest」column 是 narrative SSOT（人類寫進 D+7/D+30 數字），但
+# 「7d 觸及/互動」/「30d 觸及/互動」 structured columns 沒 auto-derive → dashboard
+# generator 看 structured 列為主，narrative 寫對了仍判 OVERDUE / rate=null。
+# 本 step auto-parse narrative → fill structured columns，讓 SSOT 跟 derived 同步。
+# DNA #15「反覆浮現要儀器化」第 N+5 次 instantiation。
+# 觸發：5/3 dashboard 顯示 #45 #53 65K views 但 — Rate 互動，且 OVERDUE flag false
+# alarm — 即使 SPORE-LOG narrative 已有完整 D+7 backfill。
+echo -e "${GRN}[2.7/5]${RST} extract structured spore metrics from narrative..."
+if python3 scripts/tools/extract-spore-metrics.py --apply 2>&1 | tail -3; then
+  echo -e "${DIM}   ✓ structured metrics derived${RST}"
+else
+  echo -e "${YEL}⚠️  extract-spore-metrics 部分失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
 # Step 2.8 — generate dashboard-spores.json from SPORE-LOG + SPORE-HARVESTS (2026-04-18 δ-late)
 # 為什麼: 繁殖器官的 data-driven 感知；Dashboard 孢子面板的資料源
 echo -e "${GRN}[2.8/5]${RST} generate dashboard-spores.json..."
