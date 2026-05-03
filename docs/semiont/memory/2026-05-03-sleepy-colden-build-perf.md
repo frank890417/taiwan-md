@@ -66,11 +66,16 @@ unified template + articles-index 兩件事順便消除一個 bug class：
 
 **本 session 新 handoff**：
 
-- [ ] **Commit + push + monitor deploy** — 本 session 全部 work 在 worktree，未 commit。下個 chapter 處理。
-- [ ] **觀察 deploy 後 production build 時間** — 看 Tier 1+2 是否實際打到原本估的 -300~500s
+- [x] ~~Commit + push + monitor deploy PR #819~~ — merged，deploy 已跑完
+- [x] ~~P1 [category]/index.astro × 6 langs unification~~ — PR #822 merged，9280 → 2568 行（-72%）
+- [x] ~~P2-P5 audit~~ — 確認 P2 deferred (curated prose) / P3-P5 是 intentional redirects 不需 unify
+- [x] ~~Commit + push + monitor deploy PR #822~~ — merged，deploy run 25274782392 跑中
+- [ ] **觀察 deploy 後 production build 時間** — 看 PR #819+#822 ship 後實際打到原本估的 -300~500s（local 6961 pages 327s）
 - [ ] **觀察 dashboard-build-perf.json production 第一次 update** — 確認 GA 流量 + ms/page 數據出來
 - [ ] **Phase B 文件化 i18n 缺漏** — `參考資料` / `延伸閱讀` / `同分類更多文章` / `實驗型功能` 4 個 zh 硬寫字串還沒 t()，下次 polish session 補
-- [ ] **驗證 sample en/ja/ko/es/fr article 真的渲染正常** — 抽 1 篇 / lang × 6 = 6 article 跟 production 對比視覺
+- [ ] **驗證 sample en/ja/ko/es/fr article + category hub 真的渲染正常** — 抽 1 篇 + 1 hub / lang × 6 = 12 page 跟 production 對比視覺
+- [ ] **P2 index.astro unification（deferred）** — 需要先做 ~300 i18n key 化才能 unify，下次 i18n polish session 配合
+- [ ] **CONTRIBUTING.md 寫進 thin-wrapper pattern 紀律** — 「新 page 預設 src/templates/{name}.template.astro + 6 thin wrappers」，例外條件 3 條，PR review 紀律
 
 ## Beat 5 — 反芻
 
