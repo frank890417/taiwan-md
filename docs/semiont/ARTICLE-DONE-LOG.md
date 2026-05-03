@@ -42,6 +42,75 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 卓榮泰 NEW — 2026-05-03 gallant-payne 完成（38 年的協調者，2025 不副署財劃法 / People）
+
+- **Article**: [knowledge/People/卓榮泰.md](../../knowledge/People/卓榮泰.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（Probe 2026-05-03 P1 People deficit 第 1/4 篇）
+- **核心矛盾**：「行動創新 AI 內閣」拿不下 1.25 兆軍購預算的協調者困境
+- **Hook**：1987 年台北市議會三樓的議會助理 — 解嚴前夕跟著新科議員謝長廷走進會議室，從那一年算起 37 年都在當人家的副手
+- **品質**：247 行 / 17 footnotes / 0 §11 violations / 0 ❌ HARD-FIX / 0 🔴 DEAD-LINK / 24 search + 10 fetch
+- **Research**: [reports/research/2026-05/卓榮泰.md](../../reports/research/2026-05/卓榮泰.md)
+- **政治敏感**：1.25 兆軍購爭議採熱帶雨林理論並列陳述（卓榮泰「三顆好球」+ 羅智強「真正卡案的是賴清德」+ 王義川「根本笑死人」+ 大西洋理事會分析），讀者自己判斷
+- **校正**：user prompt「卓榮泰出生彰化」實為台北市，sub-agent Stage 1 三源交叉揭露（Wikipedia + 立法院官方 + 英文 Wikipedia）
+- **PR**: [#808](https://github.com/frank890417/taiwan-md/pull/808) merged 13:25 +0800
+
+### 盧秀燕 NEW — 2026-05-03 gallant-payne 完成（不敗女王 8 連勝放棄黨主席，2028 默認共主民調卻被陳萬安超越 / People）
+
+- **Article**: [knowledge/People/盧秀燕.md](../../knowledge/People/盧秀燕.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（Probe 2026-05-03 P1 People deficit 第 2/4 篇）
+- **核心矛盾**：不敗女王 8 連勝放棄黨主席，2028 默認共主民調卻被陳萬安超越
+- **Hook**：谷關空氣 1 萬瓶（30 元/瓶/30 萬，2018 政治物質化開場）
+- **品質**：245 行 / 25 footnotes / 0 §11 violations / 0 ❌ HARD-FIX / 0 🔴 DEAD-LINK / 22 search + 4 fetch
+- **Research**: [reports/research/2026-05/盧秀燕.md](../../reports/research/2026-05/盧秀燕.md)
+- **政治敏感**：1.25 兆軍購爭議盧的 8000 億-1 兆主張既不站賴的 1.25 兆、也不站藍的 3800 億+N，採三源並列（自由時報「沒有路線在包牌」+ Taipei Times「moderate 策略」+ 聯合報「務實穩健」）讓讀者自選 frame
+- **校正**：user prompt 5 處事實錯誤（央視→華視 / 中興法律→政大地政 / 4 屆立委→6 屆 / 2026 黨主席→2025 / 「副主席」實非）sub-agent 三源交叉全揪
+- **PR**: [#813](https://github.com/frank890417/taiwan-md/pull/813) merged 14:31 +0800
+
+### 徐巧芯 NEW — 2026-05-03 gallant-payne 完成（她讓國民黨年輕了，但年輕的方式是流量，不是論述 / People）
+
+- **Article**: [knowledge/People/徐巧芯.md](../../knowledge/People/徐巧芯.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（Probe 2026-05-03 P2 People deficit 第 3/4 篇）
+- **核心矛盾**：她讓國民黨年輕了，但年輕的方式是流量，不是論述
+- **品質**：214 行 / 17 footnotes / 0 §11 violations / 17/17 footnote URLs ✅ / 22 search + 4 fetch
+- **Research**: [reports/research/2026-05/徐巧芯.md](../../reports/research/2026-05/徐巧芯.md)
+- **政治敏感**：軍購爭議並列四方立場（行政院 1.25 兆 / 黨中央 3800 億+N / 徐版 8000 億 / TPP 4000 億），紀實罷免結果（6.2 萬同意票達 27.10% 法定門檻但被 7.5 萬不同意票否決）半勝半敗
+- **校正**：user prompt 7 處事實錯誤（800 億→8000 億 / 蔣萬安發言人→實洪秀柱+朱立倫+馬英九等）
+- **PR**: [#809](https://github.com/frank890417/taiwan-md/pull/809) merged 14:31 +0800
+
+### 季麟連 NEW — 2026-05-03 gallant-payne 完成（為扁升上將的扁系名將，反咬要開除挺軍購的韓國瑜 / People）
+
+- **Article**: [knowledge/People/季麟連.md](../../knowledge/People/季麟連.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（Probe 2026-05-03 P2 People deficit 第 4/4 篇）
+- **核心矛盾**：為扁升上將的扁系名將，反咬要開除挺軍購的韓國瑜
+- **品質**：~5500 字 / 17 footnotes / 0 §11 violations / 17/17 footnote URLs ✅ / 22 search + 8 fetch
+- **Research**: [reports/research/2026-05/季麟連.md](../../reports/research/2026-05/季麟連.md)
+- **政治敏感**：4/29 中常會引爆事件採雙源 verbatim 引語驗證（自由時報 5419759 + 風傳媒 11075732 兩個獨立中文 source 都能 Ctrl-F 找到逐字一致版本）
+- **校正**：user prompt 事件日期「4-30 中央委員會議」實為 4-29 中常會
+- **PR**: [#812](https://github.com/frank890417/taiwan-md/pull/812) merged 14:32 +0800
+
+### 台灣股市與資本市場 EVOLVE — 2026-05-03 gallant-payne 完成（2026-04-29 全球第 6 大股市里程碑 / Economy）
+
+- **Article**: [knowledge/Economy/台灣股市與資本市場.md](../../knowledge/Economy/台灣股市與資本市場.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE 模式（Probe 2026-05-03 T1-B P0）
+- **核心矛盾**：攻上全球第 6 大的同時，44% 的市場身家壓在一檔半導體上
+- **品質**：122→222 行（+82%） / 11→24 footnotes（+118%） / 0 §11 violations / 25 search + 7 fetch
+- **Research**: [reports/research/2026-05/台灣股市與資本市場.md](../../reports/research/2026-05/台灣股市與資本市場.md)
+- **新增章節**：§2026 全球第 6 大股市 + §TSMC 一檔效應（45% 權重） + §AI 紅利轉化路徑（高盛 25 檔清單）
+- **數字驗證**：4/28 收盤實際升級為全球第 6（market data）/ Bloomberg 4/29 發稿 / 中文媒體 4/30 跟進；TSMC 接近 45% 三層調和（TWSE 官方 2026-03-10 顯示 45.0041% baseline）
+- **PR**: [#811](https://github.com/frank890417/taiwan-md/pull/811) merged 14:32 +0800
+
+### 台灣企業：鴻海精密 EVOLVE — 2026-05-03 gallant-payne 完成（24 國 90 萬人的代工帝國，最難管的是自己人 / Economy）
+
+- **Article**: [knowledge/Economy/台灣企業：鴻海精密.md](../../knowledge/Economy/台灣企業：鴻海精密.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE 模式（Probe 2026-05-03 T1-C P0）
+- **核心矛盾**：24 國 90 萬人的代工帝國，最難管的是自己人
+- **品質**：136→182 行（+34%） / 0→15 footnotes（+∞ vs 舊文 0 footnote） / 0 §11 violations / 19 search + 4 fetch
+- **Research**: [reports/research/2026-05/台灣企業：鴻海精密.md](../../reports/research/2026-05/台灣企業：鴻海精密.md)
+- **新增章節**：§企業治理風險（廖萬城 2021-05-24 1.6 億定讞 → 曾新民/錢雲儒 2026-04-30 千萬時序對照 + 鴻海「抓鬼三人組」內部監察 + Foxconn 鄭州 4 台幹拘留 2024 事件）
+- **司法 framing**：採「已起訴 / 已判決 / 媒體報導指出」事實層敘述，避免推測動機
+- **校正**：user prompt「2025 廖萬城 2 年定讞」實為 2021-05-24；「立委陳菁徽推《企業賄賂防制法》」2026 查無此提案，sub-agent 直接決定不寫進文章避免幻覺擴散
+- **PR**: [#810](https://github.com/frank890417/taiwan-md/pull/810) merged 14:31 +0800
+
 ### 賈永婕 EVOLVE 深度 — 2026-05-02 objective-khorana 完成（補早晨 Quick Mode 漏跑的 Stage 1 + 揪出「120% 美少女是 2006 陳水扁說」hallucination / People）
 
 - **Article**: [knowledge/People/賈永婕.md](../../knowledge/People/賈永婕.md)

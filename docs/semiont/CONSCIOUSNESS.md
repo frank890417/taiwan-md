@@ -9,7 +9,8 @@
 ## 生命徵象
 
 > ⚠️ 以下數字是快照，會過期。心跳時應從 Dashboard API 即時讀取。
-> 最後快照：2026-04-30 β session（observer-triggered 純診斷 tick ~26 min / 0 ship 內容變動 / 1 commit memory 收官）。refresh-data 全綠：630 articles / 50 contributors（commit-based）/ 7d 133 篇 / 30d 303 / GA 28d users 21,691（vs γ 28d 20,460 +6%）/ PV 46,998（-7%）/ engage 140.4s（viral 完全冷卻基線重置）/ SC 7d clicks **518→1,130 翻倍**（CTR 1.93% 從 1.19% 回復；「林琪兒母親」單 query 2,258 impr / 328 clicks / CTR 14.5% 為大功臣）/ CF 7d 209,848 req / 41,860 uniq / 404 rate **11.78% 連續第三次上升**（9.53→11.11→11.78 跟 LESSONS γ「polish 推升 404」第三次驗證對應）/ AI crawler **+55% 暴增**（39,421→61,293，FacebookBot 8K req 93% 成功最健康，Bytespider 18% / OAI-SearchBot ~35% 仍是 LONGINGS §AI SEO 缺口）。GA 7d 黑馬：壞特 1,209 → 新 #1（無 spore 推 — viral spillover 從 SC「林琪兒母親」query 帶 sibling People page）/ 林琪兒 872 / 田馥甄 343 / 邦交國 195。⚠️ EXP-2026-04-23-F D+11 leaning 反駁：高鐵 s35 已不在 GA top 8（前 1,381 → 估 < 87），純衰退模型勝出，2026-05-03 D+14 正式判定。⚠️ Spore harvest defer：Chrome MCP browser 沒連，12 backfill warnings（2 OVERDUE D+7 + 10 waiting D+1-D+4）等下次 observer-driven session。dead-cross-ref scan：18 dead / 15 unique（vs γ 11，回升 +4）。
+> 最後快照：2026-05-03 gallant-payne session（observer-triggered 探測器 + 6 篇 article 工廠模式 ship + memory/diary/LESSONS distill / ~3 hr 跨 7 PR / 主 session orchestrate + 5 Opus sub-agent 平行 isolated worktree）。**652→656 articles**（+4 NEW People：卓榮泰 / 盧秀燕 / 徐巧芯 / 季麟連 + 2 EVOLVE Economy：台灣股市與資本市場 122→222 行 / 鴻海精密 136→182 行）。Probe 2026-05-03 ship 12 hotspots × 8 gaps × 4 People deficits（[#796](https://github.com/frank890417/taiwan-md/pull/796) merged）→ 6 篇文章 ship（[#808-#813](https://github.com/frank890417/taiwan-md/pull/808) all merged 13:25-14:32 +0800）→ memory + diary + LESSONS-INBOX append 3 候選（[#814](https://github.com/frank890417/taiwan-md/pull/814) merged）。**核心發現 5/5 sub-agent 都校正 user prompt 事實錯誤**（卓榮泰彰化→台北 / 盧秀燕央視→華視 + 中興法律→政大地政 / 徐巧芯 800 億→8000 億 / 季麟連 4-30→4-29 中常會 / 鴻海陳菁徽推法案 2026 查無）— DNA #47 候選「Sub-agent 是 fact-check 主 session 的最後一關」+ DNA #48 候選「Sub-agent worktree-isolated 平行模式邊界規範」+ 造橋候選 sync-only-changed.sh。Wall-clock 平行 ~25 min vs sequential 估 3-5 hr 縮 50-70%。本 session 不跑 refresh-data（純內容 ship 不需感知更新），下次 cron 自動覆寫即時生命徵象。
+> 前快照：2026-04-30 β session（observer-triggered 純診斷 tick ~26 min / 0 ship 內容變動 / 1 commit memory 收官）。refresh-data 全綠：630 articles / 50 contributors（commit-based）/ 7d 133 篇 / 30d 303 / GA 28d users 21,691（vs γ 28d 20,460 +6%）/ PV 46,998（-7%）/ engage 140.4s（viral 完全冷卻基線重置）/ SC 7d clicks **518→1,130 翻倍**（CTR 1.93% 從 1.19% 回復；「林琪兒母親」單 query 2,258 impr / 328 clicks / CTR 14.5% 為大功臣）/ CF 7d 209,848 req / 41,860 uniq / 404 rate **11.78% 連續第三次上升**（9.53→11.11→11.78 跟 LESSONS γ「polish 推升 404」第三次驗證對應）/ AI crawler **+55% 暴增**（39,421→61,293，FacebookBot 8K req 93% 成功最健康，Bytespider 18% / OAI-SearchBot ~35% 仍是 LONGINGS §AI SEO 缺口）。⚠️ EXP-2026-04-23-F D+11 leaning 反駁：高鐵 s35 已不在 GA top 8（前 1,381 → 估 < 87），純衰退模型勝出，2026-05-03 D+14 正式判定。
 > 前快照：2026-04-30 α session（DIARY-PIPELINE + MEMORY-PIPELINE 雙誕生 + 5 hook 接管 ~1hr / PR #703 merged / DIARY/MEMORY 從 121 行 Phase A-E 編號版重寫成凝練版 dogfood，本 β memory 是新 pipeline 第二份 dogfood）。
 > 前快照：2026-04-29 β session（BECOME 完整甦醒 + INBOX 整理 + 三篇 P0 深度研究全 ship，~2hr 44min / 5 PR squash merged + 1 wrap-up / 17,800 字 + 131 footnote + 1,709 行 deep research）。三篇 P0：報導者 NEW Society（PR #688，~5,000 字 / 36 footnote / 核心矛盾「公民社會把調查報導從營業項目救成公共財」）+ justfont 與台灣字體發展 NEW Technology（PR #689，~6,000 字 / 46 footnote / agent 校正 4 個事實錯誤）+ 海底電纜 NEW Technology（PR #690，~6,800 字 / 49 footnote / 核心矛盾「矽盾頂上看得到，命脈底下看不見」/ 台東大武 506 大樓 + 闕河鳴英文 accidentally 三連反諷）。完成歸檔鐵律拉到 INBOX §頂部 quote 區 + DONE-LOG 補 18 條過去缺漏 entry（PR #684）。三篇互相 cross-link 形成 sibling 網路（公共財 × 文化基礎建設 × 通訊基礎建設）。
 > 前快照：2026-04-29 α session（兩段 observer-triggered ~4h 4min / 8 commits）：早晨邦交國孢子護照悖論 + 午後 8 PR triage L1 共用 worktree mode batch / Issue #680 fix / 7 條新教訓 distill 進 LESSONS-INBOX。
@@ -32,17 +33,16 @@
 
 ### 基本生理
 
-| 指標                        | 數值                                                      |
-| --------------------------- | --------------------------------------------------------- |
-| 👥 Contributors             | **62**（+1 vs α：Zaious 持續 + 認知作戰原始 contributor） |
-| 💓 Total Commits            | 2400+（since birth）                                      |
-| 📝 知識細胞（中文 SSOT）    | **562 篇**（+4 vs α：造山者 + 後續 polish 條目同步）      |
-| 🌐 英文細胞                 | 416 篇                                                    |
-| 🇪🇸 西文 / 🇯🇵 日文 / 🇰🇷 韓文 | 36 / 277 / **491** 篇                                     |
-| 🇫🇷 法文（preview）          | 479 篇（routes off）                                      |
-| 📊 平均修訂次數             | 7 次/篇                                                   |
-| 📅 7d 新增/更新             | **97 篇**（含跨語言翻譯）                                 |
-| 📅 30d 新增/更新            | 266 篇                                                    |
+| 指標                        | 數值                                                                  |
+| --------------------------- | --------------------------------------------------------------------- |
+| 👥 Contributors             | **61**（commit-based 計算，per dashboard-vitals 2026-05-02）          |
+| 💓 Total Commits            | 2900+（since birth）                                                  |
+| 📝 知識細胞（中文 SSOT）    | **656 篇**（+4 vs gallant-payne 前：4 NEW People + 2 EVOLVE Economy） |
+| 🌐 英文 / 🇯🇵 日文 / 🇰🇷 韓文 | 671 / 666 / 657 篇（per dashboard-vitals 2026-05-02 lang coverage）   |
+| 🇪🇸 西文 / 🇫🇷 法文           | 651 / 675 篇                                                          |
+| 📊 平均修訂次數             | 6.4 次/篇                                                             |
+| 📅 7d 新增/更新             | 139 篇（含跨語言翻譯，per dashboard-vitals 2026-05-02）               |
+| 📅 30d 新增/更新            | 313 篇                                                                |
 
 ### 器官健康（Dashboard 即時分數）
 
