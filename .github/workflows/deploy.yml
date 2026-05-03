@@ -21,8 +21,11 @@ jobs:
     # silent hang 6 小時才被 default 360 min timeout 殺掉。加上限避免重演。
     # 2026-05-02 γ: 35 → 60 — article volume grew (641 zh × 6 langs ≈ 3800 pages)
     # 加 OG generation，到 2411/2520 才被 35 min timeout 砍。
-    # If this hits 60 again, profile build (likely OG generation tail).
-    timeout-minutes: 60
+    # 2026-05-03 cross-lang-baseline: 60 → 120 — PR #797 rename 902 lang files
+    # cache miss 全 regen ~4500 OG images = 40 min OG step + 20 min Build = 60 min hit。
+    # og-rename-sync.mjs (PR #805) + jpg mtime touch (PR #806) 修補後預期回 ~21 min，
+    # 但 timeout cushion 加倍給穩定性緩衝（避免再撞 cache miss 場景 timeout 又 cancel）。
+    timeout-minutes: 120
     env:
       # 防 apt-get 互動 prompt（Playwright --with-deps 會呼叫 sudo apt-get）
       DEBIAN_FRONTEND: noninteractive

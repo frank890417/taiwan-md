@@ -23,7 +23,7 @@
  */
 
 import { execSync } from 'node:child_process';
-import { existsSync, statSync, renameSync } from 'node:fs';
+import { existsSync, statSync, renameSync, utimesSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { LANGUAGES } from '../../src/config/languages.mjs';
@@ -160,6 +160,13 @@ function main() {
 
     try {
       renameSync(oldJpg, newJpg);
+      // Touch jpg mtime to "now" so OG generator's incremental check
+      // (entry.mtimeMs > jpgMtime) sees it as fresh — md mtime is the rename
+      // commit time (set by git-restore-mtime-action), older than now.
+      // Without this, mv preserves old jpg mtime and 902 jpg are still
+      // judged stale → full regen 40 min.
+      const now = new Date();
+      utimesSync(newJpg, now, now);
       applied++;
     } catch (e) {
       console.error(`  ❌ mv failed ${oldJpg} → ${newJpg}: ${e.message}`);
