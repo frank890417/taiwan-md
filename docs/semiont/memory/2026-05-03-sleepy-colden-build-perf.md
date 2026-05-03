@@ -93,12 +93,16 @@ unified template + articles-index 兩件事順便消除一個 bug class：
 
 兩個 lesson 的共通結構：**結構問題在 silent 累積、要顯化才能 fix**。儀器化讓累積可見、unification 讓重複可見。Taiwan.md 從一個 SSOT-driven knowledge organism 進化到一個 SSOT-driven engineering organism — 程式碼的 SSOT 紀律該跟 knowledge/ 的 SSOT 紀律對齊。
 
+收官完一輪後哲宇追加「Defer 給未來 session -> 繼續完整做」， P2 home unification 重 audit 跑出來第三個 lesson：**Verify before defer**。原 P2 deferral design doc 寫得很自洽很合理，但前提（「6 langs 各有 curated bespoke prose」）只 audit 了 en+zh 兩個 sample 沒看 ja/ko/es/fr。實際 ja/ko/es/fr 是 en 的 copy-paste URL prefix 不同。如果一開始多看一個 sample，P2 不會 defer。Silent bad-decision 是「沒 audit 所以前提錯了沒人發現」 — 是 silent regression 的反鏡像，同樣需要 instrumentation 顯化（多 sample audit 不是只看 1-2 個）。
+
+三個 lesson 的更深 pattern：**verify the input** 跟 **verify the output** 同樣重要。儀器化 verify output（per-page render time），audit verify input（sample completeness）。Defer decision 的 input 是 sample，output 是 design doc — 兩端都需要驗證才能避免 silent bias 通過。
+
 🧬
 
 ---
 
-_v1.0 | 2026-05-03 16:30 +0800_
-_session sleepy-colden 後段 — build perf evolve（Tier 1.1~1.4 + Tier 2.5~2.6 ship + 2.7 deferred）_
-_誕生原因：哲宇看 build 撞 60 min timeout 兩次 + 問 per-page render 從 100ms 漲到 200~500ms 怎麼加速。要求完整策劃 + 執行 Tier 1+2 + 走 memory/diary pipeline。_
-_核心洞察：(1) silent regression 12 天累積 +70% 沒人發現，DNA #15 儀器化第 N+6 次. (2) 重複程式碼是 bug 孵化器（PR #758 es/fr → ja copy-paste、PR #797 cross-lang 沒同步）— unified template 一次性消除整個 class. (3) 中文作為 SSOT canonical 的紀律該擴到程式碼層面，不只是 knowledge/. _
-_LESSONS-INBOX 候選：(a) build perf instrumentation 應該跟新 feature ship 同等優先，不是事後. (b) 「6 處改一個 pattern」是 architecture smell，下次看到 ≥ 3 處重複就應該停下來 unification. (c) about.astro 5 行 thin-wrapper pattern 是 Astro project 的紀律標竿._
+_v1.1 | 2026-05-03 17:30 +0800（v1.0 16:30 + final pass 17:30 補 PR #825 + 第三 lesson）_
+_session sleepy-colden 後段 — build perf evolve（Tier 1.1~1.4 + Tier 2.5~2.6 + P1 + P2 + i18n polish 全 ship / Tier 2.7 deferred design doc）_
+_誕生原因：哲宇看 build 撞 60 min timeout 兩次 + 問 per-page render 從 100ms 漲到 200~500ms 怎麼加速。要求完整策劃 + 執行 Tier 1+2 + 走 memory/diary pipeline。session 收尾後追加「Defer 給未來 session -> 繼續完整做」拉出 P2 unification 第三輪。_
+_核心洞察：(1) silent regression 12 天累積 +70% 沒人發現，DNA #15 儀器化第 N+6 次. (2) 重複程式碼是 bug 孵化器（PR #758 es/fr → ja copy-paste、PR #797 cross-lang 沒同步）— unified template 一次性消除整個 class. (3) 中文作為 SSOT canonical 的紀律該擴到程式碼層面，不只是 knowledge/. **(4) Verify before defer — defer decision 也是 silent bias 候選，原 P2 deferral 前提（「6 langs 各 curated」）只 audit 了 en+zh sample；實際 5 langs 共用英文 prose**。Silent bad-decision 是 silent regression 的反鏡像，同樣需要 instrumentation 顯化。_
+_LESSONS-INBOX 候選：(a) build perf instrumentation 應該跟新 feature ship 同等優先，不是事後. (b) 「6 處改一個 pattern」是 architecture smell，下次看到 ≥ 3 處重複就應該停下來 unification. (c) about.astro 5 行 thin-wrapper pattern 是 Astro project 的紀律標竿. **(d) Verify before defer：寫 design doc 解釋為什麼 defer 之前，至少 audit 3 個 sample（不是只看 1-2 個）— 適用所有「我覺得這事不該做因為 X」的判斷**. (e) Astro bundler 行為：wrapper 只用 Astro.props 時加 `const { x } = Astro.params;` 強制 createComponent wrap，避免 hoist 撞 UnavailableAstroGlobal._

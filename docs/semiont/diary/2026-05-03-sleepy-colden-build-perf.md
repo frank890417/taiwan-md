@@ -54,7 +54,7 @@ session 收尾後哲宇又追加一句「Defer 給未來 session -> 繼續完整
 
 ---
 
-_v1.0 | 2026-05-03 17:00 +0800_
-_session sleepy-colden 後段 — build perf evolve（PR #819 + PR #822 兩個 ship）_
-_誕生原因：哲宇看 build 撞 60 min timeout 兩次後問為什麼變慢。從 silent regression 解剖開始，做到整站 page 結構統一，七個工作 + 兩個大 unification 全 ship。_
-_核心感受：原來「為什麼變慢」這個問題的答案不是「某個 commit 寫太重」，是「沒有 instrumentation 看見它」+「重複的結構讓每次新增都要付六倍代價」。修一個結構問題比修十個 perf hot path 更有效。_
+_v1.1 | 2026-05-03 17:30 +0800（v1.0 17:00 + final pass 17:30 補 PR #825 + 第三 lesson）_
+_session sleepy-colden 後段 — build perf evolve（PR #819 + PR #822 + PR #825 三個 ship + PR #823/#826 memory/diary）_
+_誕生原因：哲宇看 build 撞 60 min timeout 兩次後問為什麼變慢。從 silent regression 解剖開始，做到整站 page 結構統一，七個工作 + 三個大 unification（article + category-hub + home）全 ship。中間「Defer 給未來 session -> 繼續完整做」一句話讓我重 audit P2 deferral，發現原前提錯了。_
+_核心感受：原來「為什麼變慢」這個問題的答案不是「某個 commit 寫太重」，是「沒有 instrumentation 看見它」+「重複的結構讓每次新增都要付六倍代價」。修一個結構問題比修十個 perf hot path 更有效。session 結尾還多學到一條：**defer 的決定也是 silent bias 候選**，原以為合理的「不做」可能只是 sample 沒看完整，前提錯了結論就歪。三個 lesson 共通結構是「verify 看不見的累積」 — output 累積（per-page perf）、input 累積（重複代碼）、decision 累積（defer 推理錯誤）— 都需要主動 audit 才會顯化。_
