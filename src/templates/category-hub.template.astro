@@ -327,7 +327,9 @@ const otherCategories = categories
           >
           <span
             class="ml-auto rounded-[12px] bg-[#f1f5f9] px-2 py-[0.15rem] text-[0.78rem] text-[#94a3b8]"
-            >{articles.length} 篇文章</span
+            >{
+              t('category.articleCount').replace('{n}', String(articles.length))
+            }</span
           >
         </div>
         {
@@ -338,7 +340,7 @@ const otherCategories = categories
                 href="#hub-essay"
                 class="mt-2 inline-block text-[0.82rem] font-semibold text-[var(--categoryColor)] no-underline transition-all duration-150 hover:underline"
               >
-                閱讀完整策展導讀 →
+                {t('category.readGuide')}
               </a>
             </div>
           )
@@ -363,7 +365,7 @@ const otherCategories = categories
               {subcategoryGroups.length > 1 && (
                 <nav class="flex flex-col gap-1 max-[768px]:flex-row max-[768px]:flex-wrap max-[768px]:gap-[0.3rem] max-[768px]:border-b max-[768px]:border-[#e2e8f0] max-[768px]:pb-4 max-[768px]:mb-4">
                   <span class="mb-[0.3rem] border-b border-[#e2e8f0] px-2 pb-[0.4rem] text-[0.7rem] font-bold uppercase tracking-[0.1em] text-[#94a3b8] max-[768px]:hidden">
-                    主題
+                    {t('category.topic')}
                   </span>
                   {subcategoryGroups.map((group) => (
                     <a
@@ -384,7 +386,7 @@ const otherCategories = categories
               <div class="my-3 h-px bg-[#e2e8f0] max-[768px]:hidden" />
               <nav class="flex flex-col gap-1 max-[768px]:hidden">
                 <span class="mb-[0.3rem] border-b border-[#e2e8f0] px-2 pb-[0.4rem] text-[0.7rem] font-bold uppercase tracking-[0.1em] text-[#94a3b8]">
-                  其他主題
+                  {t('category.otherTopics')}
                 </span>
                 {otherCategories.map((cat) => (
                   <a
@@ -404,7 +406,7 @@ const otherCategories = categories
               {topPicks && topPicks.length > 0 && (
                 <div class="mb-4 flex flex-wrap items-center gap-2 border-b border-[#e2e8f0] pb-3 max-[768px]:flex-nowrap max-[768px]:overflow-x-auto max-[768px]:pb-2 max-[768px]:[-webkit-overflow-scrolling:touch]">
                   <span class="flex-shrink-0 text-[0.72rem] font-bold uppercase tracking-[0.08em] text-[var(--categoryColor)]">
-                    精選
+                    {t('category.featured')}
                   </span>
                   {topPicks.slice(0, 3).map((article: any) => (
                     <a
@@ -424,7 +426,7 @@ const otherCategories = categories
                     type="text"
                     class="w-full max-w-[320px] rounded-md border border-[#e2e8f0] px-3 py-[0.45rem] text-[0.85rem] outline-none transition-colors duration-200 focus:border-[var(--categoryColor,#2d5016)] focus:shadow-[0_0_0_2px_rgba(45,80,22,0.08)]"
                     id="articleFilter"
-                    placeholder="搜尋文章..."
+                    placeholder={t('category.searchPlaceholder')}
                     autocomplete="off"
                   />
                 </div>
@@ -469,7 +471,10 @@ const otherCategories = categories
                           <div class="row-meta">
                             {(article.footnotes || 0) > 0 && (
                               <span class="row-fn">
-                                {article.footnotes} 引用
+                                {t('category.citations').replace(
+                                  '{n}',
+                                  String(article.footnotes),
+                                )}
                               </span>
                             )}
                             {article.readingTime && (
@@ -488,7 +493,7 @@ const otherCategories = categories
                   class="hidden p-8 text-center text-[#94a3b8]"
                   id="noResults"
                 >
-                  <p>找不到符合條件的文章</p>
+                  <p>{t('category.noResults')}</p>
                 </div>
               </div>
 

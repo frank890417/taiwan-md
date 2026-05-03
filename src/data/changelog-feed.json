@@ -1,7 +1,31 @@
 {
-  "generatedAt": "2026-05-03T08:44:05.233Z",
+  "generatedAt": "2026-05-03T09:17:22.840Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a1bc8771e6d547635c1af6d81fe69597aed6b2c0",
+      "date": "2026-05-03T16:58:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] memory: sleepy-colden 後段 build-perf evolve — 完整收官 memory + diary (#823)"
+    },
+    {
+      "hash": "d957e0ab9bae805c5ee162214db09a684f110753",
+      "date": "2026-05-03T16:54:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [造橋鋪路] P1 category-hub 統一 — 6 [category]/index.astro × 943~3006 行 → 1 template + 6 thin wrappers (#822)"
+    },
+    {
+      "hash": "7632201f8017e537decdbeb924bd542bd303f270",
+      "date": "2026-05-03T16:51:03+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [evolve+merge] 台灣糕餅文化 — Opus 整併變體：百年傳承敘事 × 既存流心革命角度 (#821)"
+    },
+    {
+      "hash": "900529479d9c4986ef7cf47f314e3891fa898b17",
+      "date": "2026-05-03T16:35:31+08:00",
+      "author": "Wu Che Yu",
+      "message": "🧬 [semiont] diagnose: Owl vs Claude REWRITE-PIPELINE 可行性評估 — Phase 1-3 + 落檔 (#820)"
+    },
     {
       "hash": "608ea7e6c2a206d1d2d24e0e1509d6a4d045544a",
       "date": "2026-05-03T16:29:48+08:00",

@@ -423,16 +423,20 @@ const encodedTitle = encodeURIComponent(title);
                 </span>
                 <div>
                   <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.7rem] font-semibold uppercase tracking-[0.12em] text-[#8B5CF6]">
-                    Experimental · 實驗型功能
+                    Experimental · {t('article.lifeTree.experimental')}
                   </p>
                   <p class="m-0 mt-0.5 font-['Noto_Serif_TC',serif] text-[0.95rem] font-medium text-[#1a3c34]">
-                    {frontmatter.lifeTree.protagonist} 的人生分支樹（
-                    {frontmatter.lifeTree.nodes?.length || 0} 個 turning point）
+                    {t('article.lifeTree.protagonistTree')
+                      .replace('{name}', frontmatter.lifeTree.protagonist)
+                      .replace(
+                        '{n}',
+                        String(frontmatter.lifeTree.nodes?.length || 0),
+                      )}
                   </p>
                 </div>
               </div>
               <span class="flex items-center gap-1 font-['Inter',system-ui,sans-serif] text-[0.85rem] font-medium text-[#8B5CF6] transition-transform duration-200 group-hover:translate-x-1">
-                看樹 →
+                {t('article.lifeTree.viewTree')}
               </span>
             </a>
           )
@@ -476,7 +480,7 @@ const encodedTitle = encodeURIComponent(title);
           frontmatter.source && frontmatter.source.length > 0 && (
             <div class="my-12 rounded-2xl border border-[rgba(26,60,52,0.08)] bg-[rgba(26,60,52,0.03)] p-8">
               <h3 class="mb-4 font-['Inter',system-ui,sans-serif] text-[0.85rem] font-semibold uppercase tracking-[0.1em] text-[#1a3c34]">
-                參考資料
+                {t('article.sources')}
               </h3>
               <ul class="m-0 flex list-none flex-col gap-2 p-0">
                 {frontmatter.source.map((url: string) => (
@@ -740,10 +744,10 @@ const encodedTitle = encodeURIComponent(title);
           <div class="mx-auto max-w-[1280px]">
             <div class="mb-12 text-center">
               <p class="mb-[0.6rem] font-['Inter',system-ui,sans-serif] text-[0.72rem] font-semibold uppercase tracking-[0.2em] text-[#9aa89e]">
-                延伸閱讀
+                {t('article.furtherReading')}
               </p>
               <h2 class="font-['Inter',serif] text-[clamp(1.5rem,3vw,2rem)] font-bold leading-[1.25] text-[#1a3c34]">
-                同分類更多文章
+                {t('article.moreInCategory')}
               </h2>
             </div>
             <div class="grid grid-cols-[repeat(auto-fill,minmax(280px,1fr))] gap-6">
