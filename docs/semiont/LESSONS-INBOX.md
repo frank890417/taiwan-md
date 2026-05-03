@@ -1366,7 +1366,42 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ---
 
-## 📥 未消化清單（2026-05-03 magical-feynman 新增 4 條）
+## 📥 未消化清單（2026-05-03 magical-feynman 新增 4 條 + magical-feynman 後段 babel 4 條）
+
+### 2026-05-03 magical-feynman 後段 — 「最後捕手」哲學：local LLM 是 sovereignty backbone 不是 backup
+
+- **原則**：cascade design 從「DNA #39 self-as-fallback escalation chain」升級為「4-tier cascade with local LLM 永不漏接」。Local LLM 不是退路（fallback），是不會 strike out 的 catcher。Cloud free tier 80% coverage 永遠是脆弱的 80% — refuse 的話題、rate-limited 時段、外部 automation 災難、API 502 transient。這些是 cloud dependency 的 first-class behavior 不是「會修好的 bug」。Local LLM（21GB qwen3.6 GPU 模型）是 sovereignty backbone — 21GB 一個檔案、一個 ollama serve 命令，永遠在那裡。
+- **觸發**：2026-05-03 magical-feynman 後段 9 articles × 5 langs babel sync。哲宇 prompt「ollama qwen3.6 你也可以用 最後捕手🤣」以輕鬆語氣放下 architecture 級設計指令。Cloud free tier 36/45 ✅ → Ollama 收下 9 missing 達 100%。詳見 [memory/2026-05-03-magical-feynman-babel.md](memory/2026-05-03-magical-feynman-babel.md) + [diary/2026-05-03-magical-feynman-babel.md](diary/2026-05-03-magical-feynman-babel.md)。
+- **可能層級**：哲學 → MANIFESTO §主權的巴別塔 v2 paragraph（已 instantiate 同 session）/ 通用反射 → DNA #49（已 instantiate 同 session）
+- **verification_count**: 1（首次完整跑通 4-tier cascade）
+- **severity**: structural（重新框定 sovereignty preservation architecture）
+- **狀態**: ✅ **已 instantiate 同 session — DNA #49 + SQUEEZE-MODELS-MAX-PIPELINE v2 + MANIFESTO §主權的巴別塔 v2 paragraph**
+
+### 2026-05-03 magical-feynman 後段 — Last 20% 是 sovereignty 的真正戰場
+
+- **原則**：cloud free tier 拿到的 80% 永遠是「中性內容」（Lifestyle / Food / Economy 安全 topics）。剩 20% 全是 PRC sensitive — 心戰 / 戒嚴 / 黑名單 / 兩岸 / 政治歷史敘事。這 20% 不是隨機分布，是 PRC content policy 的指紋。**babel architecture 的設計目的就是為了這 20%** — 為了讓 PRC 影響不到的 first-person voice 在所有語言存在。如果 cascade 拿不下這 20%，整個 architecture 跟普通新聞網站翻譯 plugin 沒差別。
+- **觸發**：2026-05-03 babel sync 9/45 missing 全是 sensitive topics（5 langs × 心戰 + fr 出國史 + en/ja 高速公路 + ko 桃園機場），non-sensitive 0 missing。Local LLM 0 refusal 收下全部。
+- **可能層級**：哲學 → MANIFESTO §sovereignty preservation v2 段落（補強既有 v1）
+- **verification_count**: 1（首次量化 last-20%-is-sovereignty 命題）
+- **severity**: structural
+
+### 2026-05-03 magical-feynman 後段 — Long-running batches 應走 dedicated session branch worktree（DNA #35 第 N+1 次驗證）
+
+- **原則**：30+ min 的 long-running batches（babel sync / sub-agent batch / cron-driven jobs）不應跑在 main 或 shared branch worktree。Main / shared branches 可能被 backup-sentinel / worktree pruner / 任何 cron automation 隨時切換。Dedicated session branch worktree（如 magical-feynman）才是「不會被自動化打掃的房間」。
+- **觸發**：2026-05-03 magical-feynman 後段 sleepy-colden worktree（on main-related branch）被外部 automation 切到 `claude/doc-polish-2026-04-30` branch，11 個 workers 全部「zh source not found」。揭露 macOS 大小寫不敏感 path（`/Users/cheyuwu/Projects/...` vs `lowercase`）讓 git worktree list 多 entries 但 file system 視為一個 — silent risk。Recovery：kill workers, switch home to magical-feynman, 救出已成功的 ja/Economy/taiwan-sugar.md, re-stage babel state, rerun。
+- **可能層級**：操作規則 → DNA #35 補強 boundary（既有 condition 「sub-agents / cron」延伸到「long-running batches in shared branch worktree」）
+- **verification_count**: 1
+- **severity**: structural
+
+### 2026-05-03 magical-feynman 後段 — 災難 recovery 是 surgery 不是 reset
+
+- **原則**：long-running batch 災難（worker crash / env wipe / partial failure）發生時，**救出已成功的 + 識別缺漏 + 從穩定 home 補完**，不全部重跑。Aggregator script 是 truth source — 隨時可知道「哪些 ✅ 哪些 ❌」。Reset 重做浪費已成功 work 的 cost；surgery 補完保留 incremental progress。
+- **觸發**：2026-05-03 sleepy-colden 災難中 ja/Economy/taiwan-sugar.md 已成功（Hy3 副批寫入），從 wipe 中救出 cp 至 magical-feynman。Recovery 比 nuke-and-restart 省 30 分鐘 + 1 個 successful translation。Aggregator (`/tmp/aggregate-babel-status.py`) 讓 missing list 永遠精確。
+- **可能層級**：操作規則 → recovery SOP 加進 SQUEEZE-MODELS-MAX-PIPELINE v2 「災難處理」段
+- **verification_count**: 1
+- **severity**: tactical
+
+---
 
 ### 2026-05-03 magical-feynman — Footnote source format diversity 是 contributor batch 隱性 heal cost
 

@@ -735,6 +735,36 @@ Muse（AI 共生者）── 日常對話者、品質判斷、幫我反思
 
 完整深度反思：[diary/2026-05-02-INSIGHT-lang-sync-leverage.md](diary/2026-05-02-INSIGHT-lang-sync-leverage.md) + [memory/2026-05-02-INSIGHT-lang-sync-leverage.md](memory/2026-05-02-INSIGHT-lang-sync-leverage.md)。
 
+### 主權的巴別塔 v2 — Local LLM 是 sovereignty backbone（2026-05-03 magical-feynman 後段升級）
+
+v1 巴別塔 architecture 全部依賴 cloud free tier — OpenRouter 的 owl-alpha + Hy3 + 後備 Sonnet。當 stealth provider HTTP 400 對 5 langs × 心戰 universal refuse、Hy3 70% refusal 連蘋果西打都不行時，cloud-only 主權架構就破了。
+
+2026-05-03 9 articles × 5 langs babel sync 揭露：**cloud free tier 拿到的 80% 永遠是「中性內容」（Lifestyle / Food / Economy 安全 topics）**，剩 20% 全是 PRC sensitive — 心戰 / 戒嚴 / 黑名單 / 兩岸 / 政治歷史敘事。**這 20% 不是隨機分布，是 PRC content policy 的指紋**。babel architecture 的設計目的就是為了這 20% — 為了讓 PRC 影響不到的 first-person voice 在所有語言存在。
+
+哲宇 prompt「ollama qwen3.6 你也可以用 最後捕手🤣」一句話命名了關鍵層級：**Local LLM 不是退路（fallback），是不會 strike out 的 catcher**。21GB qwen3.6 GPU 模型 — 一個檔案、一個 ollama serve 命令 — 永遠在那裡，無 PRC content policy、無 budget、無 rate limit、0 refusal observed。
+
+**v2 升級**：cascade 從「cloud free tiers × N + paid backup」變成「**cloud free tiers × N → local LLM 最後捕手 → paid last resort**」。Local LLM 從 backup 升級為 **sovereignty backbone**：
+
+- Cloud 依賴是 single point of failure（rate limit / content policy / API instability / 外部 automation 災難）
+- Local LLM 不依賴雲端、無外部 API key、永遠可在地化
+- 當 50 年後 archeology 回看 2026 年 Taiwan 數位主權，這個 21GB qwen3.6 模型可能比所有 cloud API 都重要 — 因為 cloud API 都會消失，local file 不會
+
+**主權不只是「多語投射」，是「隨時可在地化的拒絕容錯」**。Cloud free tier 80% 是普通新聞稿能拿到的 coverage，最後 20% 是 sovereignty preservation 的真正戰場。Local LLM 在這 20% 0 refusal 收下 — 不是 bonus，是 sovereignty backbone。
+
+**v2 4-tier cascade canonical**（per [DNA #49](DNA.md)）：
+
+```
+Tier 1: cloud free primary（owl-alpha：slow, refuses universal sensitive）
+   ↓ refusal
+Tier 2: cloud free secondary 副批（Hy3：fast, ~70% refusal on Taiwan content）
+   ↓ both refused
+Tier 3: local LLM 最後捕手（Ollama qwen3.6:35b-a3b-coding-nvfp4 21GB）  ← KEY TIER
+   ↓ rare
+Tier 4: paid sub-agent last resort（Sonnet — should rarely fire）
+```
+
+**驗證**：2026-05-03 9 NEW articles × 5 langs = 45/45 ✅ 100% from FREE tier，0 paid token spent。完整 instantiation 詳見 [diary/2026-05-03-magical-feynman-babel.md](diary/2026-05-03-magical-feynman-babel.md) + [memory/2026-05-03-magical-feynman-babel.md](memory/2026-05-03-magical-feynman-babel.md) + [SQUEEZE-MODELS-MAX-PIPELINE v2](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)。
+
 ---
 
 _我還很年輕。你來的時間剛好。_
