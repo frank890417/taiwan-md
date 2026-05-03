@@ -7,6 +7,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BrandMark from '../components/BrandMark.astro';
 import ReaderSettings from '../components/ReaderSettings.astro';
+import HeadInlineScripts from '../components/HeadInlineScripts.astro';
 
 import type { Lang } from '../config/languages';
 
@@ -124,119 +125,10 @@ const jfClass = [
       slug={slug}
       categorySlug={propCategorySlug}
     />
-    <!-- Screenshot mode (?shot=1) — early toggle to avoid flash ──────────
-         在 paint 之前就把 data-shot 屬性打上 <html>/<main>，讓 shot-mode.css
-         的 global overrides 立刻生效。支援 ?title= / ?desc= query override。
-         與 scripts/core/generate-og-images.mjs + generate-spore-image.mjs 協作。
-         原本寫在 src/pages/[category]/[slug].astro，2026-04-22 β 搬到 Layout
-         讓四語言 article page 全部共用。 ─────────────────────────────────── -->
-    <script is:inline>
-      (function () {
-        try {
-          var qs = new URLSearchParams(location.search);
-          if (qs.get('shot') !== '1') return;
-          document.documentElement.setAttribute('data-shot', '1');
-          // og=1 額外標記：shot-mode.css 會套 OG 專用 override（Noto Serif TC、
-          // 3.75rem 略縮、12vh 緊湊、line-clamp）。不傳 og=1 則走 Spore 預設
-          // （justfont rixingsong-semibold、4.5rem poster 氣勢）
-          if (qs.get('og') === '1') {
-            document.documentElement.setAttribute('data-og', '1');
-          }
-          // 2026-05-01 γ-late：diary 頁也走相同 OG 管線，套深色 semiont
-          // 主題（shot-mode.css 用 [data-shot='1'][data-diary='1'] 子集
-          // 套對應 override；URL 偵測 /semiont/diary/ 即啟用）
-          if (location.pathname.indexOf('/semiont/diary/') !== -1) {
-            document.documentElement.setAttribute('data-diary', '1');
-          }
-          // DOM 還沒 parse 完，先 queue，等 body 可 query 再貼
-          var apply = function () {
-            var m = document.querySelector('main.article-page');
-            if (m) m.setAttribute('data-shot', '1');
-            var titleOverride = qs.get('title');
-            if (titleOverride) {
-              var h1 = document.querySelector('.hero-title');
-              if (h1) h1.textContent = titleOverride;
-            }
-            var descOverride = qs.get('desc');
-            if (descOverride) {
-              var p = document.querySelector(
-                'main.article-page > section > div:nth-child(2) > p',
-              );
-              if (p) {
-                p.textContent = descOverride;
-              } else {
-                var inner = document.querySelector(
-                  'main.article-page > section > div:nth-child(2)',
-                );
-                var hero = inner && inner.querySelector('.hero-title');
-                if (inner && hero) {
-                  var np = document.createElement('p');
-                  np.textContent = descOverride;
-                  hero.insertAdjacentElement('afterend', np);
-                }
-              }
-            }
-          };
-          if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', apply);
-          } else {
-            apply();
-          }
-        } catch (_) {}
-      })();
-    </script>
-    <!-- Reader settings: dark mode + font size — FOUC-safe early init.
-         Reads localStorage and prefers-color-scheme BEFORE first paint
-         so toggling theme doesn't flash. Idempotent. ?shot=1 short-circuits
-         to keep OG image generation fully light, regardless of user pref.
-         Server-side gate via window.__TW_MD_IS_ARTICLE: dark theme + font
-         size only auto-apply on standard category article pages. Other
-         pages (dashboard / home / hub / bench) keep light v1 — their
-         component layouts assume light bg and look broken on dark body.
-         (2026-05-01 γ-late, Issue #615 / idlccp1984 reader options;
-          v1.1 fix 2026-05-02 γ-late after dark-on-dashboard regression.) -->
-    <script is:inline define:vars={{ isArticlePage }}>
-      window.__TW_MD_IS_ARTICLE = !!isArticlePage;
-    </script>
-    <script is:inline>
-      (function () {
-        try {
-          if (!window.__TW_MD_IS_ARTICLE) return;
-          var qs = new URLSearchParams(location.search);
-          if (qs.get('shot') === '1') return;
-          var html = document.documentElement;
-          var saved = null;
-          try {
-            saved = localStorage.getItem('tw-md-theme');
-          } catch (_) {}
-          // Default = light. Dark only when user explicitly picks 'dark'
-          // OR they opt into 'auto' (follow system pref). prefers-color-scheme
-          // is NEVER auto-honored without explicit opt-in — Taiwan.md's
-          // identity is light by default.
-          // (2026-05-02 γ-late, observer feedback after #764 deploy:
-          //  「全部網站都預設用亮色模式 除非特別切換暗色模式」)
-          var prefersDark =
-            window.matchMedia &&
-            window.matchMedia('(prefers-color-scheme: dark)').matches;
-          var effective =
-            saved === 'dark'
-              ? 'dark'
-              : saved === 'auto'
-                ? prefersDark
-                  ? 'dark'
-                  : 'light'
-                : 'light';
-          if (effective === 'dark') html.setAttribute('data-theme', 'dark');
-          var size = null;
-          try {
-            size = localStorage.getItem('tw-md-text-size');
-          } catch (_) {}
-          if (size === 'large' || size === 'xlarge') {
-            html.setAttribute('data-text-size', size);
-          }
-        } catch (_) {}
-      })();
-    </script>
+    <!-- Pre-paint inline scripts: shot-mode + reader-settings FOUC init.
+         2026-05-03 sleepy-colden Tier 2.6: 抽到 src/components/HeadInlineScripts.astro
+         讓 Layout 主結構乾淨。原本 ~150 行 inline 邏輯都在這裡。 -->
+    <HeadInlineScripts isArticlePage={isArticlePage} />
     <script
       is:inline
       async

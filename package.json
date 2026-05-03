@@ -17,6 +17,8 @@
     "prebuild:supporters": "node scripts/core/generate-supporters-data.js",
     "prebuild:china-terms": "python3 scripts/core/extract-china-terms.py --quiet",
     "prebuild:spores": "python3 scripts/tools/extract-spore-metrics.py --apply && python3 scripts/tools/generate-dashboard-spores.py",
+    "prebuild:buildperf": "node scripts/core/extract-build-perf.mjs --runs 30 || true",
+    "prebuild:langswitch": "node scripts/core/generate-lang-switch-map.mjs",
     "prebuild:og": "node scripts/core/generate-og-images.mjs",
     "build": "astro build",
     "test": "node scripts/core/test-frontmatter.mjs",

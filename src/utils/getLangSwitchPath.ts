@@ -98,8 +98,59 @@ function normalizePath(path: string): string {
   return withLeading;
 }
 
+// ── Module-level cache: built registry ─────────────────────────────────────
+// 2026-05-03 sleepy-colden Tier 1.2/1.3 build-perf optimization:
+// 之前 buildLangMapRegistry() 沒 cache，每次 getLangSwitchPath() call 都重新跑
+// readFile + JSON.parse + ~5000 entries Map build。Header.astro + Banner.astro
+// 用在每頁，6950 pages × 重建 registry → 大量重複工作。
+//
+// 雙層 fix:
+//   Tier 1.2: module-level promise cache（一個 process 共享一次 registry）
+//   Tier 1.3: 優先讀 prebuilt `public/api/lang-switch-map.json`（O(1) load
+//             vs ~150ms build），prebuild step 已產出。production / CI 路徑
+//             永遠 hit prebuilt；dev mode 沒 prebuilt 時 fall back 到 build。
+let _registryCache: Promise<LangMapRegistry> | null = null;
+
+async function loadPrebuiltRegistry(): Promise<LangMapRegistry | null> {
+  try {
+    const path = resolve(process.cwd(), 'public/api/lang-switch-map.json');
+    const raw = await readFile(path, 'utf-8');
+    const data: {
+      languages: string[];
+      registry: Record<
+        string,
+        { toZh: Record<string, string>; fromZh: Record<string, string> }
+      >;
+    } = JSON.parse(raw);
+    const registry: LangMapRegistry = new Map();
+    for (const lang of NON_DEFAULT_ENABLED_LANGS) {
+      const entry = data.registry[lang];
+      const m: LangMap = { toZh: new Map(), fromZh: new Map() };
+      if (entry) {
+        for (const [k, v] of Object.entries(entry.toZh)) m.toZh.set(k, v);
+        for (const [k, v] of Object.entries(entry.fromZh)) m.fromZh.set(k, v);
+      }
+      registry.set(lang, m);
+    }
+    return registry;
+  } catch {
+    return null;
+  }
+}
+
+function getCachedRegistry(): Promise<LangMapRegistry> {
+  if (!_registryCache) {
+    _registryCache = loadPrebuiltRegistry().then((prebuilt) => {
+      if (prebuilt) return prebuilt;
+      // Fall back: dev mode without prebuild
+      return buildLangMapRegistryUncached();
+    });
+  }
+  return _registryCache;
+}
+
 // ── Build LangMapRegistry from _translations.json ──────────────────────────
-async function buildLangMapRegistry(): Promise<LangMapRegistry> {
+async function buildLangMapRegistryUncached(): Promise<LangMapRegistry> {
   const registry: LangMapRegistry = new Map();
   for (const lang of NON_DEFAULT_ENABLED_LANGS) {
     registry.set(lang, { toZh: new Map(), fromZh: new Map() });
@@ -214,7 +265,7 @@ function isArticlePagePath(basePath: string): boolean {
 
 // ── Main entry ─────────────────────────────────────────────────────────────
 export async function getLangSwitchPath(currentPath: string) {
-  const registry = await buildLangMapRegistry();
+  const registry = await getCachedRegistry();
 
   const normalizedPath = normalizePath(currentPath);
   const decodedPath = normalizePath(decodeURIComponent(normalizedPath));

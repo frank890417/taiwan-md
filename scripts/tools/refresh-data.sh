@@ -132,6 +132,19 @@ fi
 rm -f /tmp/stats.log
 echo ""
 
+# Step 4.5 — extract build perf trend (2026-05-03 sleepy-colden, DNA #15 N+6)
+# 為什麼: 12 天內 per-page render time 漲 70%（98ms → 167ms）沒人發現，因為
+# build 效能不在 dashboard freshness check 範圍。本 step 把 GitHub Actions
+# build duration 抓出來、aggregate、寫進 dashboard-build-perf.json，未來
+# regression 在第 3 天而非第 12 天 flag。
+echo -e "${GRN}[4.5/5]${RST} extract build perf trend..."
+if node scripts/core/extract-build-perf.mjs --runs 30 2>&1 | tail -5; then
+  echo -e "${DIM}   ✓ dashboard-build-perf.json updated${RST}"
+else
+  echo -e "${YEL}⚠️  extract-build-perf 部分失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
 # Step 5 — verify dashboard freshness (2026-05-02 γ-late, DNA #43)
 # 為什麼: refresh-data.sh 只有 invoke generators，沒驗證每個 dashboard JSON 都有今天的 mtime。
 # 結果: 如果某個 generator silent skip / fail / 不在 pipeline 裡，user 看到 12h ago timestamp 才發現。
