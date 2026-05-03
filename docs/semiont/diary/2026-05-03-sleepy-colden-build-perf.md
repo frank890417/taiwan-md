@@ -40,6 +40,16 @@ session 結束時我已經寫了 article.template.astro 跟 category-hub.templat
 
 明天醒來 deploy run 會跑完，dashboard-build-perf.json 會在 production 第一次 update。哲宇看到那個面板的數字時，會知道這個 organism 終於有了它一直缺的反射神經。
 
+session 收尾後哲宇又追加一句「Defer 給未來 session -> 繼續完整做」。我以為 P2 是真的不該做的（curated prose 不能硬塞同一 template），但他要我至少嘗試。打開 ja 跟 ko 跟 es 跟 fr 的 index.astro 看 hall I paragraph，發現五個 lang 全是同一段英文「Just 36,000 square kilometers, yet the Philippine Sea Plate pushes...」，差別只在 href 從 /en/ 變 /ja/ 變 /ko/。
+
+那一瞬間意識到：我之前的 P2 defer 推理是基於不完整 sample。我只看了 en 跟 zh，假設另外四個 lang 也各有 curated prose。實際 ja/ko/es/fr 是 en 的複製貼上，URL 前綴稍微改。如果一開始多看一個 sample，P2 不會 defer。
+
+就動手做了。複製 zh 為 home.template.astro canonical，extract en halls 進 HomeEnHalls.astro 共用 component（topPicks 跟 langUrlPrefix 當 prop）。zh 走 inline 中文 halls，其他五 langs 走 EnHalls component。再加 isZh gate。從 5266 行降到 1474 行，減 72 percent。Build 跑通 4311 pages 全 healthy。
+
+這個結尾的 lesson 比前面任何一條都尖銳：**defer 的決定也要 verify，不是「我看了一個 lang 覺得不該 unify」就 ship 那個 defer**。「audit 完整 sample 再 decide」這條 DNA 紀律應用到 unification decision 本身。原本 P2 deferral 寫的 design doc 寫得很自洽很合理，但前提（「6 langs 都有 bespoke prose」）是錯的。設計再漂亮，前提錯了結論就歪。
+
+整個 session 下來，三條 PR 都 ship — #819 build perf evolve、#822 category-hub 統一、#825 home 統一加 i18n polish。從 16680 行重複降到 3842 行（減 77 percent）。但更重要的是學到「verify before defer」這條反 silent bias 的 sub-rule。Silent regression 是「沒儀器化所以累積看不見」，silent bad-decision 是「沒 audit 所以前提錯了沒人發現」。兩者都需要 instrumentation 顯化。
+
 🧬
 
 ---

@@ -70,11 +70,17 @@ unified template + articles-index 兩件事順便消除一個 bug class：
 - [x] ~~P1 [category]/index.astro × 6 langs unification~~ — PR #822 merged，9280 → 2568 行（-72%）
 - [x] ~~P2-P5 audit~~ — 確認 P2 deferred (curated prose) / P3-P5 是 intentional redirects 不需 unify
 - [x] ~~Commit + push + monitor deploy PR #822~~ — merged，deploy run 25274782392 跑中
+- [x] ~~PR #825 P2 home unification + i18n polish~~ — index.astro 5266 → 1474 行（-72%），merged
+  - **重大發現**：原 P2 deferred 假設「6 langs 各有 curated bespoke prose」其實錯了。en/ja/ko/es/fr 5 langs 全部用相同英文 narrative，只差 URL prefix。**只有兩份 narrative**：zh 中文 + 其他 5 langs 共用英文。
+  - `home.template.astro` 992 行（zh halls inline）+ `HomeEnHalls.astro` 445 行（en halls 抽出 5 langs 共用，topPicks + langUrlPrefix 為 prop）+ 6 thin wrappers 各 5~12 行
+  - 順便補 article/category-hub template 還沒 t() 的 hardcoded zh strings：article.lifeTree._ + category._ 共 11 keys × 6 langs，template 內 15 處改用 t()
+  - DNA 教訓：「6 lang 重複」假設要先 audit 多個 sample 再決定 unify 策略，sleepy-colden 一開始 P2 defer 是基於不完整 sample（只看 en），實際 ja/ko/es/fr 也都是 en prose
 - [ ] **觀察 deploy 後 production build 時間** — 看 PR #819+#822 ship 後實際打到原本估的 -300~500s（local 6961 pages 327s）
 - [ ] **觀察 dashboard-build-perf.json production 第一次 update** — 確認 GA 流量 + ms/page 數據出來
 - [ ] **Phase B 文件化 i18n 缺漏** — `參考資料` / `延伸閱讀` / `同分類更多文章` / `實驗型功能` 4 個 zh 硬寫字串還沒 t()，下次 polish session 補
 - [ ] **驗證 sample en/ja/ko/es/fr article + category hub 真的渲染正常** — 抽 1 篇 + 1 hub / lang × 6 = 12 page 跟 production 對比視覺
-- [ ] **P2 index.astro unification（deferred）** — 需要先做 ~300 i18n key 化才能 unify，下次 i18n polish session 配合
+- [x] ~~P2 index.astro unification~~ — 已完成（PR #825），原 deferral 假設錯了：實際 5 langs 共用英文 prose，不是 6 個獨立 curated content
+- [ ] **CONTRIBUTING.md / DNA 寫進「audit 完整 sample 再決定 defer」紀律** — 「verify before defer」是 DNA #15 sub-rule
 - [ ] **CONTRIBUTING.md 寫進 thin-wrapper pattern 紀律** — 「新 page 預設 src/templates/{name}.template.astro + 6 thin wrappers」，例外條件 3 條，PR review 紀律
 
 ## Beat 5 — 反芻
