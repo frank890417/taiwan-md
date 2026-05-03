@@ -31,15 +31,22 @@
  *   - ja/ko/其他：URL 用 en slug（via _translations.json 映射）
  *
  * 用法（向後相容 v3）：
- *   npm run og:generate                               # 全掃 article（incremental）
- *   npm run og:generate -- --lang zh-TW               # 只產 zh-TW
+ *   npm run og:generate                               # 全掃 article + diary（v4.1 預設含 diary）
+ *   npm run og:generate -- --lang zh-TW               # 只產 zh-TW article
  *   npm run og:generate -- --lang ko --category food
  *   npm run og:generate -- --slug 李洋
  *   npm run og:generate -- --force                    # 全部重產
  *   npm run og:generate -- --diary                    # 只跑 diary
- *   npm run og:generate -- --include-diary
+ *   npm run og:generate -- --no-diary                 # 跳過 diary（v4.1 新增 opt-out）
  *   npm run og:generate -- --diary --slug 2026-05-01-gamma-late
  *   OG_WORKERS=2 npm run og:generate                  # 降 worker 數
+ *
+ * v4.1（2026-05-03 musing-chaplygin 後續 fix）：production OG 抽樣發現所有 diary
+ *   （/og-images/semiont/diary/*.jpg）皆 404，root cause 是 v3 v4 共有 pre-existing
+ *   bug — CI 跑 `npm run og:generate` 預設不含 diary，需 `--include-diary`。修補：
+ *   default 改為「articles + diary」一起跑（SSOT 對齊：site map 已含 diary OG path
+ *   → generator 預設應產出）。`--include-diary` 保留為 alias 向後相容；`--no-diary`
+ *   是新的 opt-out（局部跑 article-only 用例）。
  *
  * Diary 輸出：public/og-images/semiont/diary/[slug].jpg
  */
@@ -707,7 +714,10 @@ async function main() {
   const force = hasFlag('force');
   const skipFontWait = hasFlag('no-font-wait');
   const onlyDiary = hasFlag('diary');
-  const includeDiary = hasFlag('include-diary');
+  const includeDiaryFlag = hasFlag('include-diary'); // v3 alias，向後相容
+  const noDiary = hasFlag('no-diary');
+  // v4.1 預設 articles + diary 一起跑（除非 --no-diary 或 --diary only）
+  const includeDiary = onlyDiary || includeDiaryFlag || !noDiary;
 
   console.log(
     `\n🖼️  OG Image Generator v4 (inline-HTML batch / Noto Serif TC / JPG ${JPEG_QUALITY})`,
@@ -719,7 +729,8 @@ async function main() {
   if (filterCategory) console.log(`   category    : ${filterCategory}`);
   if (filterSlug) console.log(`   slug        : ${filterSlug}`);
   if (onlyDiary) console.log(`   mode        : --diary (only)`);
-  else if (includeDiary) console.log(`   mode        : --include-diary`);
+  else if (noDiary) console.log(`   mode        : --no-diary (article only)`);
+  else console.log(`   mode        : article + diary (v4.1 default)`);
   if (force) console.log(`   mode        : --force`);
   console.log('');
 
@@ -736,8 +747,9 @@ async function main() {
   const articleEntries = onlyDiary
     ? []
     : await findMarkdownFiles(filterLang, filterCategory);
-  const diaryEntries =
-    onlyDiary || includeDiary ? await findDiaryEntries(filterSlug) : [];
+  const diaryEntries = includeDiary
+    ? await findDiaryEntries(filterSlug)
+    : [];
   const entries = [...articleEntries, ...diaryEntries];
 
   const byLang = entries.reduce((acc, e) => {
