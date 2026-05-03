@@ -6,7 +6,7 @@
  * H1 line and subsequent blockquotes.
  */
 
-import { readdir, readFile } from 'node:fs/promises';
+import { readdir, readFile, stat } from 'node:fs/promises';
 import { resolve, join, basename } from 'node:path';
 import { marked } from 'marked';
 
@@ -39,6 +39,8 @@ export interface DiaryEntry {
   wordCount: number;
   /** Extracted h2/h3 headings for TOC */
   headings: { level: number; text: string; id: string }[];
+  /** File mtime ms (CI git-restore-mtime → commit time)，作為 named session 的 sort tie-breaker */
+  mtimeMs: number;
 }
 
 // ── Greek letter handling ──────────────────────────────
@@ -294,6 +296,8 @@ export async function getAllDiaryEntries(): Promise<DiaryEntry[]> {
 
     if (!title) continue; // Skip files that don't parse
 
+    const fileStat = await stat(filePath);
+
     const bodyHtml = marked.parse(bodyMarkdown, {
       renderer,
       breaks: true,
@@ -319,14 +323,20 @@ export async function getAllDiaryEntries(): Promise<DiaryEntry[]> {
       excerpt,
       wordCount,
       headings,
+      mtimeMs: fileStat.mtimeMs,
     });
   }
 
-  // Sort: newest first, within same date by Greek order descending
+  // Sort: newest first, within same date by Greek order descending,
+  // then by file mtime descending (named sessions like "musing-chaplygin"
+  // 全部 fall through greekOrder=0 → 此 tie-breaker 還原 chronological commit
+  // 順序。CI 用 git-restore-mtime-action 已把 mtime 還原為 commit time）
   entries.sort((a, b) => {
     const dateCmp = b.date.localeCompare(a.date);
     if (dateCmp !== 0) return dateCmp;
-    return greekOrder(b.sessionGreek) - greekOrder(a.sessionGreek);
+    const greekCmp = greekOrder(b.sessionGreek) - greekOrder(a.sessionGreek);
+    if (greekCmp !== 0) return greekCmp;
+    return b.mtimeMs - a.mtimeMs;
   });
 
   return entries;
