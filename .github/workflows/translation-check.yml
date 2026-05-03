@@ -117,7 +117,7 @@ jobs:
             # 這些文章本身在討論「Chinese Taipei / Province of China」這個爭議
             # 用詞，必然會引用該詞。lint 不該誤把它們判成 endorsement。
             BASENAME=$(basename "$FILE" .md)
-            CRITIQUE_FILES="taiwan-in-international-standards taiwans-labeling-in-international-standards taiwan-baseball-culture baseball-culture chi-cheng-flying-antelope"
+            CRITIQUE_FILES="taiwan-in-international-standards taiwans-labeling-in-international-standards taiwan-baseball-culture baseball-culture chi-cheng-flying-antelope taiwan-international-trade-policy taiwan-diplomatic-allies-and-international-relations"
             IS_CRITIQUE=0
             for cf in $CRITIQUE_FILES; do
               [ "$BASENAME" = "$cf" ] && IS_CRITIQUE=1 && break
