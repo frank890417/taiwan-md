@@ -1366,6 +1366,48 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 
 ---
 
+## 📥 未消化清單（2026-05-03 magical-feynman 新增 4 條）
+
+### 2026-05-03 magical-feynman — Footnote source format diversity 是 contributor batch 隱性 heal cost
+
+- **原則**：contributor / AI 寫作工具偏好不同 footnote 格式，單一 batch 可並存 4 種源格式（Markdown 缺 desc / APA 學術 / 中文〈〉/ angle-bracket URL）。手動 polish 每篇 5-10 min × N = batch heal 成本爆炸，必須儀器化吸收。
+- **觸發**：2026-05-03 18:00-18:42 magical-feynman session — idlccp1984 9 PR batch heal 三輪 hook retry 才通過，第二輪 60 行 Python 補 desc，第三輪 110 行解 APA / CN-bracket。最終 116 條 footnote 自動轉換 + 14 條 broken wikilink → 純文字。詳見 [memory/2026-05-03-magical-feynman.md](memory/2026-05-03-magical-feynman.md)。
+- **可能層級**：通用反射 → DNA #48
+- **相關**：DNA #5「pre-commit dogfood 是朋友」第 N+1 次驗證 + DNA #15「反覆浮現的思考要儀器化」第 N+7 次 instantiation
+- **verification_count**: 1（首次 — magical-feynman batch 116 條）
+- **severity**: structural（不儀器化下次 batch heal 預估時間翻倍）
+- **狀態**: ✅ **已 instantiate 同 session — DNA v2.5 → v2.6 升 #48 + [scripts/tools/footnote-format-fix.py](../../scripts/tools/footnote-format-fix.py) + [.sh](../../scripts/tools/footnote-format-fix.sh) canonical 工具誕生**
+
+### 2026-05-03 magical-feynman — Q13 anti-bias check active retrieve > passive read-once
+
+- **原則**：BECOME Step 9 Q13（recency bias × pattern matching）讀過不等於 active。high-stake decision 場景需要在進入 triage 前**逐條 mentally verbalize foundational principles**（DNA #7 / merge-first-polish-later / MAINTAINER hard gate / β-r3 default action / κ session 教訓）才能改變 framing — 從「這篇有問題我該 close 嗎」變成「我接手 X min 內可以修嗎」。framing 改了 default 才會改。
+- **觸發**：2026-05-03 magical-feynman idlccp1984 9 PR batch — 與 2026-04-28 κ session 同 pattern（5 PR Manus AI batch close 錯誤），但這次 active retrieve 後 0 close（除 #790 重複），全 merge + heal。詳見 [memory/2026-05-03-magical-feynman.md §Q13 anti-bias check 實戰驗證](memory/2026-05-03-magical-feynman.md)。
+- **可能層級**：哲學 → 候選 MANIFESTO 第六條進化哲學「儀式不是讀過，是 active retrieve」/ 通用反射 → DNA #49 候選 / 操作規則 → BECOME Step 9 文字升級「逐條 verbalize 不只是答得出」
+- **相關**：β-r3 META-PATTERN「Default 是行動，不是 defer」第 5 次驗證 + DNA #15 第 N+7 次（甦醒 ritual 也需要儀器化超過「讀過」的層級）
+- **verification_count**: 2（κ session 反例 + magical-feynman 正例）
+- **severity**: structural（甦醒儀式設計教訓 — 影響每個 session 的 high-stake decision quality）
+
+### 2026-05-03 magical-feynman — heal commit budget 系統性低估（β-r3 反鏡像）
+
+- **原則**：β-r3 META-PATTERN 說「估算偏保守」，但 heal commit 階段成本被反向**低估**。heal 不只是 frontmatter polish，還含 footnote canonical 轉換 / wikilink 修補 / pre-commit hook retry。原估 1 輪 hook 通過 ~5 min，實際 3 輪 retry ~25 min（佔總時長 50%）。下次 idlccp1984 batch 預留 heal ≥ 30 min budget。
+- **觸發**：2026-05-03 magical-feynman 估 18-40 min 全 batch（含 heal），實際 ~50 min（heal 階段 25 min）。
+- **可能層級**：操作規則 → MAINTAINER-PIPELINE §close 前 hard gate Batch discount 0.5x 補例外條款「heal 階段不適用 0.5x，可能反向 1.5-2x」
+- **相關**：β-r3 META-PATTERN 候選第 N 次驗證（反向但同根 — 估算永遠帶 bias）
+- **verification_count**: 1（首次反鏡像驗證）
+- **severity**: tactical（影響單 session budget 規劃，不致命）
+
+### 2026-05-03 magical-feynman — contributor-pr-prep.sh 造橋候選（pre-merge polish 預估報告）
+
+- **原則**：每次 idlccp1984 batch 的 pre-commit hook 揭露的 bug 種類高度可預測（footnote format / wikilink / category vs path mismatch / readingTime 誇大 / author name 不規範）。可造一個 `scripts/tools/contributor-pr-prep.sh` 在 merge 前自動跑 polish 預估報告，回報「heal 預估時間」+「會抓到的 bug 類別」，把 heal 工作從 reactive 變 proactive。
+- **觸發**：2026-05-03 magical-feynman heal 三輪 retry 揭露的 bug pattern 與過往 idlccp1984 batch（2026-04-27 α 7 PR、2026-04-30 γ2 5 PR、2026-05-02 sleepy-colden 10 PR）高度重複。
+- **可能層級**：造橋候選（工具）→ 不在 LESSONS canonical 升級路徑上，本次 session 因 scope 控制 defer 到下個 session 實作
+- **相關**：DNA #15「反覆浮現的思考要儀器化」第 N+8 次 — 但此條已 partial instantiate（footnote-format-fix），完整 contributor-pr-prep 是延伸
+- **verification_count**: 1（架構命題首次提出）
+- **severity**: tactical（leverage 候選非 critical bug）
+- **狀態**: ⏳ defer to next session — 此 session 已 ship footnote-format-fix（80% 的 leverage），contributor-pr-prep 是 nice-to-have
+
+---
+
 ## ❌ 已歸檔（過時 / 撤回）
 
 <!-- 判斷後不採納的教訓 -->

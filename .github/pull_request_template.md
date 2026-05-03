@@ -14,8 +14,11 @@
 ## ✅ 自我檢查
 
 - [ ] 文章有完整的 frontmatter（title, description, date, tags, category）
+- [ ] `category` 用英文 + 對齊路徑（canonical：About / Art / Culture / Economy / Food / Geography / History / Language / Lifestyle / Music / Nature / People / Society / Technology — 不要用 `Infrastructure` / `transportation` 這類非 canonical 名稱）
+- [ ] `author: 'Taiwan.md Contributors'`（不要寫 'Manus AI' / 'ChatGPT' / 'Claude' / 'Semiont' / 'Taiwan.md'）
 - [ ] `featured: false`（featured 由維護者統一管理，請勿設為 true）
-- [ ] 內容有附上可查證的參考資料來源
+- [ ] **腳註用 canonical 格式**：`[^N]: [標題](URL) — 至少 10 字描述`（不要用 APA `Author. (date). Title. URL.` 或中文〈〉標點 — 維護者會跑 `bash scripts/tools/footnote-format-fix.sh --apply` 自動轉換，先按 canonical 格式寫可省一輪 polish）
+- [ ] 內容有附上可查證的參考資料來源（不要寫「可參考相關文獻」這類 vague 引用）
 - [ ] 沒有抄襲或版權問題
 - [ ] 在本地 build 測試通過（`npm run build`，非必要但建議）
 
