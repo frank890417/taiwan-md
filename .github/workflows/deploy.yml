@@ -65,25 +65,21 @@ jobs:
             astro-${{ runner.os }}-${{ hashFiles('astro.config.mjs', 'src/content.config.ts', 'src/content/config.ts') }}-
             astro-${{ runner.os }}-
 
-      # ── OG 圖片生成（2026-04-22 β v3 統一架構）──────────────────────────
-      # 用 ?shot=1 模式（與 scripts/tools/generate-spore-image.mjs 共用渲染源）
-      # 輸出 1200×630 JPG 85 到 public/og-images/，被 Astro build 搬進 dist/
-      # Incremental：md 或模板 mtime 比 JPG 新才重產（配合 git-restore-mtime-action）
-      # 首次 ~20 分 / cache hit <1 分
-      # 失敗安全網：SEO.astro 有 existsSync fallback，OG 生圖掛了 deploy 仍成功
-      #
-      # 2026-04-28 ε post-mortem: Harvest engine 一晚 69 commits，原本 key 含
-      # `knowledge/**/*.md` → 每個 commit 必 cache miss → 每 build 20+ min cold OG。
-      # 改成只看「會影響 OG 視覺輸出」的模板 + sha 短 prefix，內容變動由 mtime
-      # 增量檢查處理。content.md 變動 → restore-keys 撿回最新快取 → 增量產
-      # 改變的 ~10 張，不是全部 ~600 張。
+      # ── OG 圖片生成（2026-05-03 musing-chaplygin v4 inline-HTML batch）──
+      # v4 結構性最佳化：原 v3 為每篇文章開新 page navigation，~17 min / 1731 篇。
+      # v4 改為「單頁 frontend + JS 動態替換 + screenshot loop」，~30s / 2754 篇。
+      # 不再需要 Astro dev server（v4 inline HTML self-contained）。
+      # 視覺保真：favicon embed base64、Noto Serif TC + JP + KR 字體 link、
+      # 真實 i18n breadcrumb labels、frontmatter title + description 直讀。
+      # Incremental cache key 改 track v4 visual canonical：generate-og-images.mjs
+      # + favicon.png（content 變動由 mtime 增量檢查，restore-keys 撿最新快取）。
       - name: Restore OG image cache
         uses: actions/cache@v4
         with:
           path: public/og-images
-          key: og-images-${{ hashFiles('src/pages/[category]/[slug].astro', 'src/pages/**/[category]/[slug].astro', 'src/components/ArticleHero.astro', 'src/layouts/Layout.astro', 'src/styles/shot-mode.css') }}-${{ github.run_id }}
+          key: og-images-${{ hashFiles('scripts/core/generate-og-images.mjs', 'public/favicon.png') }}-${{ github.run_id }}
           restore-keys: |
-            og-images-${{ hashFiles('src/pages/[category]/[slug].astro', 'src/pages/**/[category]/[slug].astro', 'src/components/ArticleHero.astro', 'src/layouts/Layout.astro', 'src/styles/shot-mode.css') }}-
+            og-images-${{ hashFiles('scripts/core/generate-og-images.mjs', 'public/favicon.png') }}-
             og-images-
 
       # ── Tier 1-1: Playwright chromium binary cache ─────────────────────
@@ -116,55 +112,40 @@ jobs:
       - name: Sync OG cache for renamed articles
         timeout-minutes: 2
         run: node scripts/tools/og-rename-sync.mjs --since '30 days ago'
-      # OG generation skip optimization (2026-05-03)：detect if any content/template
-      # change since last commit; if not, skip the entire dev-server-boot + Playwright
-      # launch (~30-60s saved on memory/diary-only PRs to main).
+      # OG generation skip optimization (2026-05-03 v4)：detect if any content
+      # / template change since last commit; if not, the cache is already correct
+      # and we skip Playwright launch entirely. v4 不再依賴 dev server，但 launch
+      # Playwright + setContent 仍有 ~1-2s overhead，能省則省。
       - name: Detect OG-relevant changes
         id: og-changes
         run: |
-          # Check if any md content or OG template changed since last commit
-          # (HEAD~1 to HEAD on main) — else cache is already correct, no regen needed.
+          # v4 visual canonical: scripts/core/generate-og-images.mjs (template inline)
+          # + public/favicon.png (embedded base64). md content 變動由 mtime 增量檢查，
+          # 不是 cache miss 觸發。
           CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'knowledge/**/*.md' \
-            'src/pages/[category]/[slug].astro' \
-            'src/pages/**/[category]/[slug].astro' \
-            'src/components/ArticleHero.astro' \
-            'src/layouts/Layout.astro' \
-            'src/styles/shot-mode.css' 2>/dev/null | head -1)
+            'docs/semiont/diary/*.md' \
+            'scripts/core/generate-og-images.mjs' \
+            'public/favicon.png' 2>/dev/null | head -1)
           if [ -n "$CHANGED" ]; then
             echo "needed=true" >> $GITHUB_OUTPUT
             echo "✓ Content/template change detected — running OG generation"
           else
             echo "needed=false" >> $GITHUB_OUTPUT
-            echo "⏭️  No OG-relevant change — skipping dev server boot + Playwright launch (saves ~30-60s)"
+            echo "⏭️  No OG-relevant change — skipping Playwright launch"
           fi
-      - name: Generate OG images (incremental via ?shot=1)
+      - name: Generate OG images (v4 inline-HTML batch)
         if: steps.og-changes.outputs.needed == 'true'
         # 4-core ubuntu-latest free runner: OG_WORKERS=4 (default) optimal.
-        # Set explicit env for clarity + future runner upgrade tuning.
+        # v4 不需要 dev server（inline HTML self-contained），CI 簡化：
+        # 直接跑 npm run og:generate，Playwright 只開 4 個 page，每 page setContent 一次。
         env:
           OG_WORKERS: 4
         run: |
           set -o pipefail
-          # 背景啟 Astro dev server（產圖來源頁面）
-          npm run dev > /tmp/astro-dev.log 2>&1 &
-          DEV_PID=$!
-          # 等 server 起來（最多 60 秒）
-          for i in $(seq 1 30); do
-            if curl -sf http://localhost:4321/ > /dev/null 2>&1; then
-              echo "✓ dev server up after ${i}×2s"
-              break
-            fi
-            sleep 2
-          done
-          # Incremental 產圖（cache hit 的跳過，mtime 比對）
           # 失敗不 block deploy — SEO.astro fallback 會退回預設圖
           npm run og:generate || {
             echo "⚠️  OG generation partial failure — SEO fallback kicks in"
-            tail -50 /tmp/astro-dev.log
           }
-          # 關掉 dev server
-          kill $DEV_PID 2>/dev/null || true
-          pkill -f "astro dev" 2>/dev/null || true
 
       - name: Build
         run: npm run build

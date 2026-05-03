@@ -1,0 +1,33 @@
+{
+  "samples": 5,
+  "setupMs": 138,
+  "loopMsTotal": 217,
+  "avgPerEntryMs": 43,
+  "perEntry": [
+    {
+      "slug": "cho-jung-tai",
+      "lang": "zh-TW",
+      "elapsedMs": 76
+    },
+    {
+      "slug": "lu-hsiu-yen",
+      "lang": "en",
+      "elapsedMs": 22
+    },
+    {
+      "slug": "beef-noodle-soup",
+      "lang": "ja",
+      "elapsedMs": 51
+    },
+    {
+      "slug": "taiwan-cake-culture",
+      "lang": "ko",
+      "elapsedMs": 41
+    },
+    {
+      "slug": "2026-05-03-sleepy-colden-build-perf",
+      "lang": "zh-TW",
+      "elapsedMs": 27
+    }
+  ]
+}
