@@ -4,6 +4,18 @@ on:
   pull_request:
     types: [opened, synchronize, reopened]
     branches: [main]
+    # 2026-05-03 cross-lang-baseline post-mortem: PR #797 1435 file change 撞
+    # GitHub Actions「Argument list too long」shell limit。PR review 只對
+    # CONTENT / ENGINEERING change 有意義 — 純 docs/ memory/ diary/ reports/
+    # PR 跳過避免 false-fail + 加速 CI。
+    paths:
+      - 'knowledge/**'
+      - 'src/**'
+      - 'scripts/**'
+      - 'astro.config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/**'
 
 permissions:
   contents: read
