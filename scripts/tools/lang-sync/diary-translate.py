@@ -57,18 +57,96 @@ TIER_MODELS = {
 }
 
 
-def get_openrouter_key() -> str:
+KEY_ROTATION_DIR = CREDS / "openrouter-keys"
+KEY_COOLDOWN_FILE = Path("/tmp/openrouter-key-cooldown.json")
+KEY_COOLDOWN_SEC = 300  # 5 min after 429
+
+
+def _load_cooldown() -> dict:
+    if KEY_COOLDOWN_FILE.exists():
+        try:
+            return json.loads(KEY_COOLDOWN_FILE.read_text())
+        except Exception:
+            return {}
+    return {}
+
+
+def _save_cooldown(data: dict) -> None:
+    try:
+        KEY_COOLDOWN_FILE.write_text(json.dumps(data))
+    except Exception:
+        pass
+
+
+def _mark_key_429(key_id: str) -> None:
+    """Mark a key as rate-limited (cool-down for KEY_COOLDOWN_SEC)."""
+    data = _load_cooldown()
+    data[key_id] = time.time()
+    _save_cooldown(data)
+
+
+def _all_keys() -> list[tuple[str, str]]:
+    """Return [(key_id, key_value), ...] from all sources.
+
+    Sources priority:
+      1. OPENROUTER_API_KEY env var (id="env")
+      2. ~/.config/taiwan-md/credentials/openrouter-keys/*.key (id=basename)
+      3. ~/.config/taiwan-md/credentials/openrouter.key (id="default")
+      4. ~/.config/taiwan-md/credentials/.env line OPENROUTER_API_KEY= (id="env-file")
+    """
+    keys: list[tuple[str, str]] = []
     if os.environ.get("OPENROUTER_API_KEY"):
-        return os.environ["OPENROUTER_API_KEY"].strip()
+        keys.append(("env", os.environ["OPENROUTER_API_KEY"].strip()))
+    if KEY_ROTATION_DIR.is_dir():
+        for f in sorted(KEY_ROTATION_DIR.glob("*.key")):
+            content = f.read_text().strip()
+            if content:
+                keys.append((f.stem, content))
+    default_key = CREDS / "openrouter.key"
+    if default_key.exists():
+        content = default_key.read_text().strip()
+        if content and content not in [v for _, v in keys]:
+            keys.append(("default", content))
     env_file = CREDS / ".env"
     if env_file.exists():
         for line in env_file.read_text().splitlines():
             if line.startswith("OPENROUTER_API_KEY="):
-                return line.split("=", 1)[1].strip().strip('"').strip("'")
-    key_file = CREDS / "openrouter.key"
-    if key_file.exists():
-        return key_file.read_text().strip()
-    raise RuntimeError("No OpenRouter API key found")
+                v = line.split("=", 1)[1].strip().strip('"').strip("'")
+                if v and v not in [val for _, val in keys]:
+                    keys.append(("env-file", v))
+    return keys
+
+
+def pick_openrouter_key() -> tuple[str, str]:
+    """Pick a key from rotation pool, preferring non-cool-down keys.
+
+    Returns (key_id, key_value). Falls back to oldest cool-down key if all rate-limited.
+    """
+    keys = _all_keys()
+    if not keys:
+        raise RuntimeError("No OpenRouter API key found in env / credentials/")
+    cooldown = _load_cooldown()
+    now = time.time()
+    fresh = [(kid, kv) for kid, kv in keys if now - cooldown.get(kid, 0) > KEY_COOLDOWN_SEC]
+    if fresh:
+        # Round-robin within fresh: use a counter file to spread load
+        rr_file = Path("/tmp/openrouter-key-rr.txt")
+        try:
+            idx = int(rr_file.read_text().strip()) if rr_file.exists() else 0
+        except Exception:
+            idx = 0
+        chosen = fresh[idx % len(fresh)]
+        rr_file.write_text(str((idx + 1) % max(len(fresh), 1)))
+        return chosen
+    # All cooled — pick the one with oldest cooldown timestamp
+    keys_sorted = sorted(keys, key=lambda k: cooldown.get(k[0], 0))
+    return keys_sorted[0]
+
+
+def get_openrouter_key() -> str:
+    """Backward-compatible: return one key from rotation."""
+    _, kv = pick_openrouter_key()
+    return kv
 
 
 def build_prompt(lang: str, source: str) -> tuple[str, str]:
@@ -91,9 +169,12 @@ Target language: {target_name}"""
     return system, source
 
 
-def call_openrouter(model: str, system: str, user: str, timeout: int = 300) -> dict:
-    """Returns {ok, output, error, latency_ms, model_used}."""
-    key = get_openrouter_key()
+def call_openrouter(model: str, system: str, user: str, timeout: int = 300, max_key_retry: int = 3) -> dict:
+    """Returns {ok, output, error, latency_ms, model_used, key_id}.
+
+    Rotates across available keys on 429. Marks rate-limited keys with cool-down.
+    Tries up to max_key_retry distinct keys before giving up.
+    """
     payload = {
         "model": model,
         "messages": [
@@ -103,35 +184,55 @@ def call_openrouter(model: str, system: str, user: str, timeout: int = 300) -> d
         "temperature": 0.3,
     }
     body = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        OPENROUTER_API_URL,
-        data=body,
-        headers={
-            "Authorization": f"Bearer {key}",
-            "Content-Type": "application/json",
-            "HTTP-Referer": "https://taiwan.md",
-            "X-Title": "Taiwan.md Diary Babel Sync",
-        },
-    )
-    t0 = time.time()
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-        latency = int((time.time() - t0) * 1000)
-        msg = data.get("choices", [{}])[0].get("message", {})
-        content = msg.get("content")
-        if not content:
-            return {"ok": False, "error": "null content (likely refusal)", "latency_ms": latency}
-        if len(content.encode("utf-8")) < 100:
-            return {"ok": False, "error": f"output too small ({len(content)} chars, likely refusal)", "latency_ms": latency}
-        return {"ok": True, "output": content, "latency_ms": latency, "model_used": model}
-    except urllib.error.HTTPError as e:
-        latency = int((time.time() - t0) * 1000)
-        body_text = e.read().decode("utf-8", errors="replace")[:300]
-        return {"ok": False, "error": f"HTTP {e.code}: {body_text}", "latency_ms": latency}
-    except Exception as e:
-        latency = int((time.time() - t0) * 1000)
-        return {"ok": False, "error": str(e), "latency_ms": latency}
+
+    tried_keys: set[str] = set()
+    last_err = "no key available"
+    for attempt in range(max_key_retry):
+        try:
+            key_id, key = pick_openrouter_key()
+        except RuntimeError as e:
+            return {"ok": False, "error": str(e), "latency_ms": 0}
+        if key_id in tried_keys:
+            # Same key returned — pool exhausted
+            break
+        tried_keys.add(key_id)
+
+        req = urllib.request.Request(
+            OPENROUTER_API_URL,
+            data=body,
+            headers={
+                "Authorization": f"Bearer {key}",
+                "Content-Type": "application/json",
+                "HTTP-Referer": "https://taiwan.md",
+                "X-Title": "Taiwan.md Diary Babel Sync",
+            },
+        )
+        t0 = time.time()
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            latency = int((time.time() - t0) * 1000)
+            msg = data.get("choices", [{}])[0].get("message", {})
+            content = msg.get("content")
+            if not content:
+                return {"ok": False, "error": "null content (likely refusal)", "latency_ms": latency, "key_id": key_id}
+            if len(content.encode("utf-8")) < 100:
+                return {"ok": False, "error": f"output too small ({len(content)} chars, likely refusal)", "latency_ms": latency, "key_id": key_id}
+            return {"ok": True, "output": content, "latency_ms": latency, "model_used": model, "key_id": key_id}
+        except urllib.error.HTTPError as e:
+            latency = int((time.time() - t0) * 1000)
+            body_text = e.read().decode("utf-8", errors="replace")[:300]
+            if e.code == 429:
+                _mark_key_429(key_id)
+                last_err = f"HTTP 429 on key={key_id}, rotating"
+                continue  # try next key
+            return {"ok": False, "error": f"HTTP {e.code}: {body_text}", "latency_ms": latency, "key_id": key_id}
+        except Exception as e:
+            latency = int((time.time() - t0) * 1000)
+            last_err = str(e)
+            return {"ok": False, "error": last_err, "latency_ms": latency, "key_id": key_id}
+
+    return {"ok": False, "error": f"all keys rate-limited or exhausted: {last_err}", "latency_ms": 0}
 
 
 def call_ollama(model: str, system: str, user: str, timeout: int = 600) -> dict:
