@@ -304,10 +304,19 @@ const fullHtml = marked.parse(processFootnotes(resolveWikilinks(content)), {
 }) as string;
 
 // Split content before 延伸閱讀/Further Reading to insert SSODT sections
+// 2026-05-03 fix: bold paragraph format `**延伸閱讀**：` was silently broken
+// — splitIndex stayed -1 → SSODT sections (SporeFootprint / Perspectives /
+// DiaryTeaser) didn't render despite hasSSoDT=true. Per format-check both
+// `## 延伸閱讀` (h2) and `**延伸閱讀**` (bold p) are canonical accepted formats
+// — template MUST also accept both. 121 articles use bold format vs 95 h2;
+// 3 articles silently broken (黑冠麻鷺 / 沈伯洋 / 賈永婕 had sporeLinks but
+// SporeFootprint never rendered). Fix: add bold paragraph markers (zh + en).
 const splitMarkers = [
   '<h2>延伸閱讀</h2>',
   '<h2>Further Reading</h2>',
   '<h2>延伸閱讀<',
+  '<p><strong>延伸閱讀</strong>',
+  '<p><strong>Further Reading</strong>',
 ];
 let splitIndex = -1;
 for (const marker of splitMarkers) {
@@ -321,6 +330,11 @@ for (const marker of splitMarkers) {
 if (splitIndex === -1) {
   const idMatch = fullHtml.match(/<h2[^>]*id="[^"]*"[^>]*>延伸閱讀/);
   if (idMatch && idMatch.index !== undefined) splitIndex = idMatch.index;
+}
+// Final fallback: any <p><strong> containing 延伸閱讀 (handles whitespace variants)
+if (splitIndex === -1) {
+  const pMatch = fullHtml.match(/<p>\s*<strong>\s*延伸閱讀/);
+  if (pMatch && pMatch.index !== undefined) splitIndex = pMatch.index;
 }
 
 const hasSSoDT =

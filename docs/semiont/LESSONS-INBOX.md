@@ -122,6 +122,17 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## 未消化清單（📥 待 distill）
 
 <!-- 新教訓 append 這裡 -->
+
+### 2026-05-03 objective-khorana day 2 — Rich-text SSOT 多 canonical 格式 = architecture-level silent drift 風險
+
+- **原則**：當 SSOT 系統允許多種 canonical-accepted 格式（例：`## 延伸閱讀` h2 vs `**延伸閱讀**：` bold paragraph 兩種寫法都接受），任何下游 parsing/matching/detection 邏輯只實作其中一個格式都會 silent drift —— 沒 throw、沒 warn、UI 看似正常但東西就是少了。Maintainer 自己看自己常編輯的文章看不出來（多半是同一種格式），要靠 reader 視角或跨 sample sweep 才會 catch。對策：把「視覺驗證 across all canonical formats」canonical 化為 rich-text SSOT 系統的硬性 SOP，每個下游 parsing layer 都該有 sample sweep 工具 + 跨 layer 修改後跑回歸。
+- **觸發**：2026-05-03 同一天兩次驗證在不同 layer：
+  - 早上：`scripts/tools/generate-dashboard-spores.py` parser regex `[\d,]+\s+views?` 不認 K/M suffix → 「65.4K views」silent ignore → dashboard `views_latest=null`。修補：parser 改 4 種格式 union regex + validate-spore-data.py + 加 refresh-data.sh Step 5.5 自動跑。Commit `6a7f61cb`、PR #795。
+  - 晚上：`src/pages/[category]/[slug].astro` `splitMarkers` array 只認 h2 不認 bold paragraph → 121 篇 SporeFootprint silent 不渲染（哲宇看到「只有安溥那篇有顯示」才被 catch）。修補：array 加兩個 marker + regex fallback + SPORE-PIPELINE v2.9 4.5e.iv 文件化 visual verify SOP。
+- **可能層級**：候選哲學層（rich-text SSOT 的 architecture-level pattern，跟 DNA #38「混維度 silent killer」同等地位但更窄一層）或 DNA 層（具體儀器化「rich-text SSOT 多格式 → 每 parsing layer 都該有 sample sweep」）。
+- **驗證次數**：2（同一天兩次但不同 layer，pattern 一致）— 還需第 3 次跨 session 驗證才能升 DNA。預期下次 surface 在：i18n module 讀 frontmatter 時漏接新 schema field / OpenGraph image generator fallback 沒涵蓋新 hero image pattern / search index 不認新 footnote 寫法 / RSS feed 切 item 時 marker 漏一種。
+- **Pointer**：`docs/semiont/memory/2026-05-03-objective-khorana-day2-evening.md` + `docs/semiont/diary/2026-05-03-objective-khorana-day2-evening.md` + `docs/factory/SPORE-PIPELINE.md` §4.5e.iv + parser fix commit `6a7f61cb` + splitMarkers fix（本 session 待 commit）。
+
 <!-- 2026-04-18 ι 第 3 次 distill 清空 11 條 → 全部搬 §✅ 已消化 -->
 
 <!-- 2026-05-02 EVOLVE-batch 兩條已 distill 升 canonical — 詳見 §✅ 已消化 §🧬 2026-05-02 EVOLVE-batch -->
