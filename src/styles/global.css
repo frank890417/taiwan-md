@@ -139,7 +139,10 @@
         transparent 30%
       ),
       linear-gradient(180deg, var(--color-bg) 0%, var(--color-bg-soft) 100%);
-    font-size: calc(1rem * var(--reader-size-scale, 1));
+    /* Reader size now scales :root font-size (tokens.css), which cascades
+     * into all `rem`-based values. Multiplying body on top of that would
+     * double-scale, so we just inherit. */
+    font-size: 1rem;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
