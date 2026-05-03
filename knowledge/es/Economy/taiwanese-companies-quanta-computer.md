@@ -21,6 +21,7 @@ translatedFrom: Economy/台灣企業：廣達電腦.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:917f1503c2ff61d8
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Resumen en 30 segundos:** En 1987, un incendio en una fábrica motivó a Lin Baili a renunciar a su puesto en Kinpo Electronics.

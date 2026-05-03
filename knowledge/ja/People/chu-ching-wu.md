@@ -11,6 +11,7 @@ translatedFrom: People/朱經武.md
 sourceCommitSha: 4af626f4
 sourceContentHash: sha256:9903e2c37b2cac97
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 朱経武：超導体研究の開拓者

@@ -7,6 +7,7 @@ translatedFrom: 'People/蔡英文.md'
 sourceCommitSha: '59db5de4'
 sourceContentHash: 'sha256:783d9b2f1f815187'
 translatedAt: '2026-04-17T10:33:16+08:00'
+category: People
 ---
 
 # Tsai Ing-wen

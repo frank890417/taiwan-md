@@ -18,6 +18,7 @@ translatedFrom: People/朱經武.md
 sourceCommitSha: 4af626f4
 sourceContentHash: sha256:9903e2c37b2cac97
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Chu Ching-wu: Pionero en la investigación de superconductores

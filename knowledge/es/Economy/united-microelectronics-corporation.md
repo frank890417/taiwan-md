@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：聯華電子.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:872bba83b389ef58
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Panorama en 30 segundos**

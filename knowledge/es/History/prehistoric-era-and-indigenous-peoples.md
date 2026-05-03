@@ -7,6 +7,7 @@ translatedFrom: 'History/史前時代與原住民.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:eba099f97dfd72b7'
 translatedAt: '2026-04-17T10:33:16+08:00'
+category: History
 ---
 
 # Era Prehistórica y Pueblos Indígenas

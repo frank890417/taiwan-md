@@ -14,6 +14,7 @@ translatedFrom: Geography/台灣農業地景與產業分布.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:a43ae2332c3edc7d
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Geography
 ---
 
 # Paisajes agrícolas y distribución industrial de Taiwán

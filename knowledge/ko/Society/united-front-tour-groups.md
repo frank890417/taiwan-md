@@ -1,17 +1,10 @@
 ---
-title: 'United Front Groups: The Subtle Cognitive Game from Low-Cost Tours to Influencer Traffic'
-description: "In June 2024, 'King Porter' exposed the CCP's plan to invite 10 groups of Taiwanese influencers to China, triggering deep anxiety in Taiwanese society about the new generation operations of 'United Front Groups.' From low-cost landing hospitality to tours for million-follower creators, the core of this cross-strait cognitive game was never to make Taiwanese believe China is good—it was to make Taiwan fall into disarray."
+title: '통전단(統戰團): 소리 없이 스미는 인지전, 저가 관광부터 인플루언서 트래픽까지'
+description: '2024년 6월 보터왕(波特王)이 중공의 대만 유튜버 10팀 초청 계획을 폭로하면서, 대만 사회에 "통전단"의 신세대 공작에 대한 깊은 불안감이 촉발되었다. 저가 현지 초청 접대부터 수백만 팔로워 크리에이터의 중국 방문까지, 이 양안 인지전의 핵심은 결코 대만인이 중국을 좋아하게 만드는 것이 아니었다—진짜 목표는 대만 사회를 내분으로 분열시키는 것이다.'
 date: 2026-05-02
-tags:
-  [
-    'United Front',
-    'Cognitive Warfare',
-    'Cross-Strait Relations',
-    'Influencer Politics',
-    'Democratic Resilience',
-  ]
-subcategory: 'Cross-Strait Relations'
-author: 'Taiwan.md Contributors'
+tags: ['통전', '인지전', '양안관계', '인플루언서 정치', '민주주의 탄력성']
+subcategory: '양안관계'
+author: 'Taiwan.md Translation Team'
 category: 'Society'
 readingTime: 25
 lastVerified: 2026-05-02
@@ -19,146 +12,146 @@ lastHumanReview: false
 translatedFrom: 'Society/統戰團.md'
 sourceCommitSha: '7bb2f40e'
 sourceContentHash: 'sha256:cb1148fb9bc4aa88'
-translatedAt: '2026-05-02T14:15:00+08:00'
+translatedAt: '2026-05-03T00:00:00+08:00'
 ---
 
-> **30-Second Overview:**
-> Former CCP United Front Work Department Minister You Quan once summarized the new era's cross-strait strategy as "moistening things silently"—bridging the psychological distance between the peoples of the two sides rather than engaging in direct confrontation. From the 1990s sending local neighborhood chiefs to Tiananmen Square to watch the flag-raising ceremony, to 2025 when million-follower creators livestreamed from the September 18 Historical Museum in Shenyang, the packaging of United Front Groups has changed, but the core logic remains the same: to make Taiwanese feel that "China is not that scary" for one extra second. This article deconstructs its institutions, incentives, and indirect effects.
+> **30초 개요:**
+> 중공 전 통전부장(統戰部長) 여취안(尤權)은 신시대 양안 전략을 "소리 없이 사물을 적신다(潤物細無聲)"라는 말로 요약한 적이 있다—직접적 충돌이 아니라 양안 국민 사이의 심리적 거리를 좁히는 것이다. 1990년대 지역 이장(里長)들을 데려다 천안문 광장에서 국기 게양식을 보게 하던 시절부터, 2025년 수백만 팔로워를 가진 크리에이터가 선양 9.18역사박물관에서 라이브 방송을 하는 시대까지, 통전단의 포장은 바뀌었지만 핵심 논리는 변하지 않았다: 대만인들이 "중국이 그렇게 무섭지 않다"는 느낌을 1초라도 더 갖게 하는 것. 이 글은 그 제도, 유인 구조, 그리고 간접적 효과를 해부한다.
 
-On June 12, 2024, Taiwanese YouTube creator [[King Porter]] dropped a message bomb on social media: according to information he received, the CCP's Association of Taiwan Compatriots planned to invite 10 groups of Taiwanese influencers to China to film videos, with flights and accommodation fully covered, under the guise of the "Cross-Strait Youth Culture Month" [^2]. At that time, the China tours of Zhong Mingxuan and Guan Zhang (Chen Zhihan) had not yet occurred—but Porter wrote one sentence: "Consider this article a prophecy."
+2024년 6월 12일, 대만의 유튜브 크리에이터 [[보터왕(波特王)]]이 SNS에 정보 폭탄을 투척했다. 그가 입수한 정보에 따르면, 중공의 해협양안청년협회(海峽兩岸青年協會)가 "양안청년문화의 달(兩岸青年文化月)"이라는 명목으로 대만 유튜버 10팀을 중국에 초청해 영상을 찍게 할 계획이었으며, 항공권과 숙박을 모두 제공한다는 것이었다[^2]. 당시 종밍쉬안(鍾明軒)이나 관장(館長) 천즈한(陳之漢)의 중국 방문은 아직 일어나지 않은 시점이었다—하지만 보터왕은 이런 한 마디를 남겼다: "이 글을 예언으로 남겨두겠다."
 
-One year later, this prophecy came true. The scale, however, was larger than anyone had imagined.
+1년 후, 그 예언은 실현되었다. 다만 그 규모는 누구도 상상하지 못했던 수준이었다.
 
-## Origins: Tiananmen Flag-Raising and the Logic of "First-Time Visitors"
+## 기원: 천안문 국기 게양식과 "첫 방문자"의 논리
 
-The United Front work is not an invention of the digital age. Since the 1990s, a special tourism model has existed in Taiwanese society: participants only need to cover airfare, while all other food, accommodation, and transportation are hosted by the Chinese side upon arrival. The target audiences for such activities are often local neighborhood chiefs, retired military personnel, or student clubs. Itineraries frequently include "red attractions" such as Tiananmen Square and the CCP History Museum, accompanied by symposiums and official speeches [^1].
+통일전선 공작은 디지털 시대의 발명품이 아니다. 1990년대부터 대만 사회에는 특수한 관광 패턴이 존재했다: 참가자는 항공권만 부담하면 되고, 나머지 식사·숙박·교통은 중국 측이 "현지 초청"으로 제공했다. 이런 활동의 주요 대상은 지역 이장(里長), 예비역 군인, 혹은 학생 동아리였으며, 일정에는 천안문 광장, 중공당사관(黨史館) 등 "홍색 명소"가 빠지지 않았고, 좌담회와 공식 강연이 함께 배치되었다[^1].
 
-Taiwanese media personality [[Chen Tzu-chien]] (Retina) publicly discussed his personal experience participating in a cross-strait youth exchange camp during university: every night at 7 PM, the group collectively watched _Xinwen Lianbo_ (News Simulcast). A single news item about Xi Jinping could last fifteen minutes, making Taiwanese students feel "the more they watched, the funnier it became"—this memory of dark humor later became the starting point for his founding of _Eyeball Central Television_ [^8].
+대만 미디어인 [[천즈젠(陳子見)]] (시왕멍/視網膜)은 대학 시절 양안 교류 캠프에 참가한 개인 경험을 공개적으로 밝힌 바 있다: 매일 저녁 7시에 단체로 《신원롄보(新聞聯播)》를 시청했고, 시진핑 관련 뉴스 하나가 15분씩 방영되는 것을 보며 대만 학생들은 "볼수록 웃기다"는 생각이 들었다고 했다—이 블랙 유머의 기억이 나중에 그가 《안구중앙전시대(眼球中央電視台)》를 창설하는 출발점이 되었다[^8].
 
-The turning point occurred at the strategic level. Former CCP United Front Work Department Minister You Quan proposed the direction of "moistening things silently," emphasizing bridging the lifestyle and psychological distances between the peoples of the two sides rather than directly conveying political propositions [^4]. 2023 was designated by the Taiwan Affairs Office as the "Year of Large-Scale Cross-Strait Exchanges," leading to a surge in United Front Groups. The target audience shifted to Taiwanese youth who had never set foot on Chinese soil—officially termed "First-Time Visitors," with the goal of further turning them into "Frequent Visitors" [^1].
+전환점은 전략적 차원에서 일어났다. 중공 전 통전부장 여취안(尤權)이 "소리 없이 사물을 적신다(潤物細無聲)"는 방향을 제시하며, 정치적 주장을 직접적으로 전달하는 대신 양안 국민의 생활 방식과 심리적 거리를 좁히는 것을 강조했다[^4]. 2023년은 국무원 대만사무판공실(國台辦)이 "양안 대교류의 해(對台大交流年)"로 지정한 해로, 통전단 수가 급증했고, 목표 대상은 한 번도 중국 땅을 밟아본 적 없는 대만 청년들로 전환되었다—관방에서는 이들을 "첫 방문자(首來族)"라고 부르며, 이들이 더 나아가 "자주 방문자(常來族)"가 되도록 하는 것이 목표였다[^1].
 
-Analysis from the Straits Exchange Foundation indicates that such low tour fees are often more than half below market rates, and landing hospitality is a conventional tactic [^1]. The Taiwanese proverb "There is no such thing as a free lunch" finds its most concrete interpretation in this scenario.
+해협교류기금회(海基會/Straits Exchange Foundation)의 분석에 따르면, 이런 저가 단체관광 비용은 시장 시세의 절반 이하인 경우가 많으며, 현지 초청 접대는 일상적인 수법이다[^1]. "공짜 점심은 없다"는 대만 속담이 이 맥락에서 가장 구체적인 해석을 얻는다.
 
-## Institutional Network: Three-Layer Architecture, Who Pays?
+## 제도적 네트워크: 3층 구조, 누가 돈을 내나
 
-The CCP's United Front work has a rigorous organizational hierarchy, forming a transmission mechanism from the central level to local levels and nodes in Taiwan:
+중공의 통일전선 공작에는 엄격한 조직 계층이 있으며, 중앙에서 지방, 그리고 대만 내 거점으로 이어지는 전달 메커니즘을 형성한다:
 
-**Decision-Making Layer**: The Central United Front Work Department sets strategic directions and narrative themes;  
-**Execution Layer**: Various provincial and municipal Taiwan Affairs Offices, the Association of Taiwan Compatriots, the Chinese Overseas Friendship Association, and other institutions are responsible for resource allocation and specific reception;  
-**Nodes in Taiwan**: The United Alliance Party, hometown associations, clan associations, specific temples, and student clubs use names such as "youth exchange," "religious pilgrimage," and "hometown fellowship" as recruitment channels, blurring political purposes [^14].
+**결정층**: 중앙통전부(中央統戰部)가 전략 방향과 서사 주제를 설정한다;
+**집행층**: 각 성·시 대만사무판공실(台辦), 해협양안청년협회(海峽兩岸青年協會), 중화해외연의회(中華海外聯誼會) 등 기관이 자원 배분과 구체적인 접대를 담당한다;
+**대만 내 거점**: 통일연맹당(統一聯盟黨), 향우회(同鄉會), 종친회(宗親會), 특정 사원 및 학생 동아리들이 "청년 교류", "종교 참관", "향우 친목"이라는 명목으로 모집 채널로 활용되며, 정치적 목적을 흐린다[^14].
 
-The operation of this architecture sometimes violates the law. Zhang Cunfeng, branch president of the Pingtung United Alliance Party, and Huang Rongde, general secretary, were entrusted by officials from the CCP's Taiwan Affairs Office in 2023 to recruit citizens for tours to Hainan Province and Shanxi Province with landing hospitality. This violated the _Anti-Infiltration Act_ and the Election and Recall Act; in the second instance in 2025, the High Court of Kaohsiung still sentenced each to four years and six months imprisonment, finalizing the case [^7].
+이 구조의 운영은 때로 위법으로 이어지기도 한다. 핑둥(屏東) 통일연맹당 지부장 장춘펑(張存逢)과 총간사 황룽더(黃榮德)는 2023년 중공 국무원 대만사무판공실 관리의 의뢰를 받아 시민들을 하이난성(海南省)·산시성(山西省)으로 현지 초청 관광에 모집하였고, 이는 《반침투법(反滲透法)》과 선거법을 위반하는 행위였다. 2025년 고웅고등법원(高雄高分院) 2심에서도 각각 4년 6개월의 실형이 선고되어 확정되었다[^7].
 
-## The Turning Point: Influencer Cameras Yield Ten Times the Benefit of Neighborhood Chief Tours
+## 전환점: 인플루언서 카메라, 이장단(里長團)보다 10배의 효과
 
-Between 2024 and 2025, United Front operations completed their most important evolution: from "taking people over" to "having creators bring the footage back."
+2024년부터 2025년 사이, 통전 공작은 가장 중요한 진화를 완성했다: "사람을 직접 데려가는 것"에서 "크리에이터가 영상을 가지고 돌아오게 하는 것"으로의 전환이다.
 
-After Porter's exposure, Guan Zhang (Chen Zhihan)'s China tour became the biggest ignition point for this surge in temperature. In 2025, he visited Shanghai, Hangzhou, Macau, and Shenzhen multiple times, emphasizing his identity as "self-funded," "folk exchange," and "peace ambassador," livestreaming the entire process on social media and accumulating tens of millions of views. In October of the same year, he further visited Beijing, Dandong, and Shenyang. On October 31, he visited the September 18 Historical Museum, and on November 1, he watched the flag-raising ceremony at Tiananmen Square [^10].
+보터왕의 폭로 이후, 관장(館長) 천즈한(陳之漢)의 중국 방문이 이 열기를 가장 크게 점화시킨 사건이 되었다. 2025년, 그는 상하이, 항저우, 마카오, 선전을 여러 차례 방문하며 "자비(自費)", "민간 교류", "평화 대사"라는 정체성을 강조하며 전 과정을 SNS에서 라이브 방송했고, 수천만 뷰를 누적했다. 같은 해 10월에는 베이징, 단둥, 선양을 추가로 방문했으며, 10월 31일 9.18역사박물관을 참관하고, 11월에는 천안문 광장 국기 게양식을 참관했다[^10].
 
-The backgrounds of the accompanying "local guides" were dissected in investigations by _The Reporter_. Wang Xiao has over 2.51 million followers on Bilibili and served as a senior editor for _Observer Weekly_ before 2021; Yang Shengzhi was still the chief reporter for the English version of _Global Times_ until 2025, covering Chinese politics and diplomacy; Li Xiang holds the identity of "Executive Director of the Beijing Chaoyang District New Social Stratum Federation" and is also the Deputy Secretary-General of the Beijing Internet Famous Persons Friendship Association—an organization promoted by the Beijing Municipal United Front Work Department [^10].
+동행한 "지역 가이드(地陪)"들의 배경은 《리포터(報導者)》의 조사에서 낱낱이 파헤쳐졌다. 왕샤오(王驍)는 빌리빌리(Bilibili)에 251만 명 이상의 팔로워를 보유하고 있으며, 2021년 이전 《관찰자망(觀察者網)》의 수석 편집장을 역임했다; 양성즈(楊升)는 2025년까지 《환구시보(環球時報)》 영문판 수석 기자로 중국 정치·외교를 담당했다; 리샹(李翔)은 "베이징 차오양구(朝陽區) 신연회(新聯會) 상임이사" 신분을 갖고 있으며, 베이징 인터넷 유명인사 연의회(北京網路知名人士聯誼會) 부비서장이기도 하다—이 조직은 베이징시 통전부가 추진한 단체이다[^10].
 
-They appear in the creators' lenses in the guise of "friends," assisting with itinerary arrangements and content planning.
+그들은 "친구"의 모습으로 크리에이터의 카메라 앞에 등장하여, 일정 기획과 콘텐츠 계획을 도왔다.
 
-> 📝 **Curator's Note:**
-> The companions appearing under the name of "friends" often have backgrounds at the intersection of state media, United Front organizations, and content platforms. Creators may genuinely believe this is merely "industry cooperation"—and this is the most precise operation of "moistening things silently": letting the spreaders of influence themselves believe it happens voluntarily.
+> 📝 **큐레이터 노트:**
+> "친구"라는 이름으로 등장하는 동행자들의 배경은 대부분 관영 미디어, 통전 조직, 그리고 콘텐츠 플랫폼의 교차점에 있다. 크리에이터들은 이것이 그저 "업계 협업"이라고 진심으로 믿을지 모른다—바로 이것이 "소리 없이 사물을 적신다"는 가장 정밀한 공작이다: 영향력을 전달하는 사람 스스로가 자발적으로 일어나는 일이라 믿게 만드는 것.
 
-_The Reporter_'s in-depth investigation further revealed that the "Taipei Influencer Festival" and _Continental Search for Wonder_ form a hidden propaganda chain, translating the image of Chinese cities into daily consumer content through commercial packaging [^4].
+《리포터(報導者)》의 심층 조사는 더 나아가 "타이베이 인플루언서 페스티벌(台北網紅節)"과 《대륙 탐방(大陸尋奇)》의 연결이 하나의 은폐된 선전 사슬을 구성하며, 상업적 포장을 통해 중국 도시의 이미지를 일상적인 소비 콘텐츠로 번역하고 있음을 밝혔다[^4].
 
-## Incentive Structure: Taiwan's Advertising Market vs. Chinese End Rewards
+## 유인 구조: 대만 광고 시장 vs 중국 측 보상
 
-Beneath the "de-politicized" shell lies a clear economic logic. The average price for Taiwanese creators' sponsored posts is usually far lower than the "high-value commissions" the Chinese side can offer—from full-process high-standard reception (business class, high-end hotels) and daily consulting fees, to cooperation fees for specific content, and even traffic revenue sharing on Douyin and Xiaohongshu, forming a complete matrix of incentives [^16].
+"탈정치화"라는 외피 아래에는 명확한 경제 논리가 있다. 대만 크리에이터의 평균 협찬 단가는 대체로 중국 측이 제공할 수 있는 "고가 의뢰"보다 훨씬 낮다—비즈니스석과 고급 호텔을 포함한 전 과정 고급 접대, 일일 자문 비용부터 특정 콘텐츠에 대한 협력비, 그리고 더우인(抖音/TikTok)과 샤오훙수(小紅書)의 트래픽 수익 분배까지, 완전한 유인 매트릭스가 형성된다[^16].
 
-For creators pursuing traffic monetization, a "China tour" represents both可观 income and market expansion opportunities. This blurs the line between "being bought" and "autonomous commercial behavior"—and this blurring itself is one of the conditions for the effective operation of this mechanism.
+트래픽 수익화를 추구하는 크리에이터에게 "중국 방문"은 상당한 수입과 시장 확장 기회를 동시에 의미한다. 이는 "매수된 것"과 "자율적 상업 행위" 사이의 경계를 흐린다—그리고 이 모호함 자체가, 이 메커니즘이 효과적으로 작동하는 조건 중 하나이다.
 
-## Indirect Effects: Making Taiwan Fall into Disarray
+## 간접적 효과: 대만을 내분으로 만들기
 
-A deeper goal of the CCP's United Front strategy is to exhaust Taiwanese society's energy in internal disputes—"falling in love with China" is merely the surface. The true strategic benefit lies in "dividing without fighting" [^17].
+중공 통전 전략에는 더 깊은 목표가 있다: 대만 사회의 에너지를 내부 논쟁으로 소진시키는 것—"중국을 좋아하게 만드는 것"은 표면에 불과하다. 진정한 전략적 이익은 "싸우지 않고 분열시키는(不戰而分化)" 것에 있다[^17].
 
-After Guan Zhang's China tour, fierce debates erupted on social media: his past anti-China remarks were dug out and compared one by one, fan camps split, political party attacks followed, and media followed up to amplify the situation. Taiwanese consumed massive attention on the question of "whether Guan Zhang was bought"—rather than jointly dealing with the institutional infiltration mechanism.
+관장의 중국 방문 이후, SNS에서는 격렬한 논쟁이 폭발했다: 과거의 반중 발언들이 하나하나 파헤쳐져 대조되었고, 팬덤이 분열되었으며, 정당 간 공방이 이어지고, 언론이 뒤따라 증폭시켰다. 대만인들은 "관장이 매수된 것인가"라는 질문에 막대한 관심을 쏟아부었다—제도적 침투 메커니즘에 함께 대응하는 대신에.
 
-This internal consumption is the indirect effect of "dividing without fighting" [^17].
+이 내부 소모야말로 "싸우지 않고 분열시키는" 간접적 효과이다[^17].
 
-On April 19, 2025, a "Reject United Front, Protect Taiwan" rally erupted on Ketagalan Boulevard in Taipei. The organizers announced over 55,000 attendees on site, demanding opposition to CCP infiltration and support for democratic freedom. [[Ba Jiong]] was one of the main organizers. A recall booth appeared on site, reflecting accumulated social dissatisfaction with the continuous accumulation of influencer China tours and low-cost exchanges [^6].
+2025년 4월 19일, 타이베이 카이다거란 대도(凱達格蘭大道)에서 "통전 거부, 대만 수호(拒絕統戰，守護台灣)" 집회가 열렸다. 주최 측은 현장 참가자가 5만 5천 명을 넘었다고 밝혔으며, 중공의 침투에 반대하고 민주주의 수호를 요구했다. [[바징(八炯)]]은 주요 조직자 중 한 명이었으며, 현장에는 파면 서명 부스가 등장하기도 했다. 이는 인플루언서의 중국 방문과 저가 교류에 대한 사회적 불만이 지속적으로 누적된 결과였다[^6].
 
-> 📝 **Curator's Note:**
-> The emergence of anti-United Front rallies indicates that the alert mechanisms of Taiwanese civil society are indeed functioning—but the same rally also became material for another wave of debates on social media: "Is this a DPP mobilization or a spontaneous gathering?" Even "anti-United Front" itself can become a lever point for social tearing.
+> 📝 **큐레이터 노트:**
+> 반통전 집회의 등장은 대만 시민 사회의 경계 메커니즘이 실제로 작동하고 있다는 것을 보여준다—하지만 바로 그 집회 자체가 SNS에서 또 다른 논쟁의 소재가 되었다: "이것은 민진당(民進黨)의 동원인가, 자발적 집회인가?" "반통전" 자체도 사회 균열의 지렛대가 될 수 있다.
 
-## Digital Upgrade: Precision Targeting in 2026
+## 디지털 업그레이드: 2026년의 정밀 투입
 
-As of 2026, the National Security Bureau's "2025 CCP Cognitive Warfare Analysis Report" reveals five major cross-strait operation methods: analyzing social sentiment dynamics through data analysis, building diverse channels to投放 controversial messages, using abnormal accounts to infiltrate public opinion, using AI-generated realistic audio-video, and conducting cyberattacks to steal citizens' accounts; throughout the year, over 45,000 groups of abnormal accounts and 2.31 million controversial messages were seized [^13].
+2026년 기준, 국가안전국(國安局)의 "2025년 중공 인지전 분석 보고서"는 다섯 가지 주요 대만 공작 방법을 공개했다: 데이터를 통한 여론 동태 분석, 다양한 채널 구축을 통한 쟁점 메시지 투입, 이상 계정을 이용한 여론 침투, AI를 활용한 실사 영상 생성, 사이버 해킹을 통한 대만인 계정 탈취; 연간 4만 5천 개 이상의 이상 계정과 231만 건의 쟁점 메시지가 적발되었다[^13].
 
-The use of AI-synthesized audio-video has reached a new level: the Chinese side commissioned specific companies to develop intelligent voice systems, inducing citizens to record audio on Taiwanese websites to synthesize fake voice lines; simultaneously, through "same-city tags" and "recommendation feed" algorithms, young Taiwanese users repeatedly encounter the narrative "China is safe and developed" in contexts of "travel guides" and "food and entertainment" [^13].
+그 중 AI 합성 영상·음성의 활용은 새로운 수준에 도달했다: 중국 측은 특정 회사에 의뢰해 지능형 음성 시스템을 개발하고, 대만 웹사이트에서 사람들이 녹음하도록 유인해 위조 음성 복제에 활용했다; 동시에 "동네 태그(同城標籤)", "추천 피드(推薦feed)" 알고리즘을 통해 대만 젊은 사용자들이 "여행 가이드", "맛집·놀거리" 콘텐츠를 소비하는 맥락에서 "중국은 안전하고 발달했다"는 서사를 반복적으로 접하게 했다[^13].
 
-| Evolution of Operation Methods                                                                                                                                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1990s Traditional United Front Groups**: Targeted local neighborhood chiefs and students / Landing hospitality with self-paid airfare / Itineraries to Tiananmen and Party History Museums / Heavy official color, decreasing effect |
-| **2023-2025 Influencer Traffic Chain**: Targeted younger generation / Full-process high-standard reception or million-dollar commercial cooperation / Food and travel Vlogs / De-politicized, amplified by algorithms                  |
-| **2025-2026 AI Precision Targeting**: Algorithms precisely push to specific groups / AI-synthesized audio-video simulates real experiences / Stealing Taiwanese accounts to hype                                                       |
+| 공작 방식 변화 비교                                                                                                                                |
+| :------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1990년대 전통 통전단**: 지역 이장·학생 대상 / 현지 초청 접대, 항공권 자부담 / 천안문·당사관 일정 / 관방 색채 짙음, 효과 감소                     |
+| **2023-2025 인플루언서 트래픽 체인**: 청년 세대 대상 / 전 과정 고급 접대 또는 수백만 달러 상업 협력 / 맛집·여행 Vlog / 탈정치화, 알고리즘으로 증폭 |
+| **2025-2026 AI 정밀 투입**: 알고리즘이 특정 집단에 정밀 도달 / AI 합성 영상·음성으로 실제 체험 시뮬레이션 / 대만인 계정 탈취해 여론 조작           |
 
-## Current Situation: Where the Defense Line Grows
+## 현황: 방어선은 어디서 자라나는가
 
-Facing increasingly difficult-to-identify cognitive operations, Taiwan's response is evolving in sync.
+점점 더 식별하기 어려워지는 인지 공작에 직면해, 대만의 대응도 함께 진화하고 있다.
 
-Polling data shows complex social attitudes: in surveys between 2024 and 2025, 56.3% of respondents supported amending laws to regulate influencers cooperating with United Front activities, but only 37.9% of the 20-24 age group supported such legislation—the younger generation's trade-off between "exchange freedom" and "national security" remains on an open spectrum [^20].
+여론 조사 데이터는 복잡한 사회적 태도를 보여준다: 2024-2025년 조사에서 56.3%의 응답자가 통전에 협력하는 인플루언서 행위를 규제하는 법 개정을 지지했지만, 20-24세 연령대에서는 37.9%만이 이런 입법을 지지했다—"교류의 자유"와 "국가 안보" 사이의 절충에서 젊은 세대는 여전히 열린 스펙트럼 위에 있다[^20].
 
-"Media literacy courses" have entered some high schools and university campuses, using materials such as "identifying AI-generated travel videos" and "stereotypical cities vs. comprehensive reality." Within the Taiwanese creator community, spontaneous "counter-narratives" have also emerged: producing "same city, two lenses" comparison videos, using the same content format to counter specific narratives [^21].
+"미디어 리터러시 교육"이 일부 고등학교와 대학 캠퍼스에 도입되어, "AI 생성 여행 영상 식별하기", "표본 도시 vs 전면적 현실" 등을 교육 자료로 활용하고 있다. 대만 크리에이터 커뮤니티에서도 자발적인 "반대 서사"가 등장했다: "같은 도시, 두 개의 렌즈"라는 대조 영상을 제작해, 동일한 콘텐츠 형식으로 특정 서사를 상쇄하려는 시도이다[^21].
 
-The effectiveness of the CCP's United Front has no single answer in the public opinion fields of both sides of the strait. Guan Zhang's "wild praise" video is sometimes criticized by Chinese netizens as "acting too much" or "useless"—propaganda does not necessarily reach the expected destination; it simply keeps uncertainty alive [^10].
+중공의 통전 성과는 양안 양쪽의 여론장에서 단일한 답을 찾지 못하고 있다. 관장의 "열렬히 칭찬하는" 영상은 때로 중국 네티즌들에게 "너무 연기한다" 혹은 "별로 효과가 없다"는 비판을 받기도 한다—선전은 반드시 기대하는 목적지에 도달하지는 않으며, 다만 불확실성이 계속 존재하게 할 뿐이다[^10].
 
-And uncertainty may well be the ultimate product of this cognitive game.
+그리고 불확실성이야말로, 어쩌면 이 인지전의 궁극적인 산물일지도 모른다.
 
 ---
 
-**Further Reading**
+**더 읽어보기**
 
-- [Cognitive Warfare](/society/Cognitive Warfare) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
-- [Falun Gong in Taiwan](/society/Falun Gong in Taiwan) — From the Yangming Mountain Flower Clock to Taipei 101, the same mirror image of cross-strait contrast, how religious freedom becomes a touchstone for Taiwan's democratic values.
-- [King Porter](/people/King Porter) — The first Taiwanese creator to expose the details of influencer United Front invitations on public platforms, the beginning and end of the exposure event.
-- [Ba Jiong](/people/Ba Jiong) — From United Front documentary producer to Ketagalan Boulevard rally organizer, Taiwan's civil society's attempts to counter cognitive warfare.
-- [Poison Potato Cognitive Warfare](/society/Poison Potato Cognitive Warfare) — A false message about Taiwanese potatoes in 2022, how it became a typical case for observing cross-strait information warfare.
+- [인지전(認知作戰)](/society/인지전) — 인지 공작의 체계적 프레임워크와 대만의 대응 메커니즘, 학술 분석에서 시민 교육까지의 구체적 실천.
+- [대만의 파룬궁(法輪功)](/society/대만의-파룬궁) — 양명산 꽃시계에서 타이베이 101까지, 같은 양안 대비의 거울상, 종교의 자유가 어떻게 대만 민주주의 가치의 시금석이 되었는가.
+- [보터왕(波特王)](/people/보터왕) — 공개 플랫폼에서 처음으로 인플루언서 통전 초청의 세부 내용을 폭로한 대만 크리에이터, 폭로 사건의 전말.
+- [바징(八炯)](/people/바징) — 통전 다큐멘터리 제작자에서 카이다거란 대도 집회 조직자까지, 인지전에 대한 대만 시민 사회의 반제 시도.
+- [독 감자 인지전(毒馬鈴薯認知作戰)](/society/독-감자-인지전) — 2022년 대만 감자에 관한 가짜 뉴스 하나가, 어떻게 양안 정보전을 관찰하는 전형적인 사례가 되었는가.
 
-## References
+## 참고 문헌
 
-[^1]: [Challenges and Responses for the Youth Generation Facing CCP United Front Groups](https://www.sef.org.tw/article-1-204-16191) — Written by Hsu Li-ren, Cultural and Educational Division, Straits Exchange Foundation, June 2025, analyzing the "First-Time Visitor" strategy, low-cost hospitality mechanism, and policy responses for cross-strait exchanges.
+[^1]: [청년 세대가 중공 통전단에 직면한 도전과 대응](https://www.sef.org.tw/article-1-204-16191) — 재단법인 해협교류기금회(海峽交流基金會) 문교처 쉬리런(許力仁) 저, 2025년 6월, 통전단 "첫 방문자" 전략, 저가 초청 접대 메커니즘, 양안 교류 정책 대응 분석.
 
-[^2]: ["King Porter" Exposes Taiwanese Influencers Invited to China to Film Propaganda](https://www.rfa.org/cantonese/news/htm/tw-china-06142024051852.html) — Radio Free Asia, June 14, 2024, the first systematic report on the content of King Porter's exposure and its impact on Taiwanese society.
+[^2]: ["보터왕" 대만 인플루언서들이 중국 방문 선전 촬영 초청 받은 사실 폭로](https://www.rfa.org/cantonese/news/htm/tw-china-06142024051852.html) — 자유아시아방송(自由亞洲電台), 2024년 6월 14일, 보터왕 폭로 내용과 대만 사회에 미친 충격을 최초로 체계적으로 보도.
 
-[^3]: [Understanding in One Article: The "Cognitive Warfare" Storm of Taiwanese Influencers and Mainland China](https://www.bbc.com/zhongwen/trad/chinese-news-69131401) — BBC Chinese, June 20, 2024, sorting out the background of the event and the context of related figures.
+[^3]: [대만 인플루언서와 중국 본토 "인지전" 파문 한눈에 이해하기](https://www.bbc.com/zhongwen/trad/chinese-news-69131401) — BBC 중문망(中文網), 2024년 6월 20일, 사건 배경과 관련 인물 맥락 정리.
 
-[^4]: [Guan Zhang's China Tour, Taipei Influencer Festival, Continental Search for Wonder: The United Front Network Under Influencer Traffic](https://www.twreporter.org/topics/united-front-work-powered-by-influencers) — _The Reporter_'s long-term tracking investigation series, April 2026, deeply analyzing the hidden connections from commercial cooperation to political propaganda.
+[^4]: [관장의 중국 방문, 타이베이 인플루언서 페스티벌, 대륙 탐방: 인플루언서 트래픽 아래의 통전 네트워크](https://www.twreporter.org/topics/united-front-work-powered-by-influencers) — 《리포터(報導者)》 장기 추적 조사 시리즈, 2026년 4월, 상업 협력에서 정치 선전까지의 은폐된 연결을 심층 분석.
 
-[^5]: [Understanding in One Article] Why Did YouTuber King Porter's Exposure Spark the "Influencer United Front" Storm?](https://www.storm.mg/article/5164466) — Storm Media, June 20, 2024, compreh梳理ing the beginning and end of the exposure and responses from all parties.
+[^5]: [유튜버 보터왕의 폭로가 왜 "인플루언서 통전" 파문을 일으켰나?](https://www.storm.mg/article/5164466) — 펑촨미디어(風傳媒), 2024년 6월 20일, 폭로의 전말과 각 측 반응을 종합 정리.
 
-[^6]: ["Reject United Front, Protect Taiwan" Grand Assembly](https://zh.wikipedia.org/zh-tw/%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83) — Wikipedia, recording the beginning and end of the April 19, 2025, Ketagalan Boulevard rally, organizers, and main demands.
+[^6]: ["통전 거부, 대만 수호" 대회](https://zh.wikipedia.org/zh-tw/%E3%80%8C%E6%8B%92%E7%B5%95%E7%B5%B1%E6%88%B0%EF%BC%8C%E5%AE%88%E8%AD%B7%E5%8F%B0%E7%81%A3%E3%80%8D%E5%A4%A7%E6%9C%83) — 위키피디아, 2025년 4월 19일 카이다거란 대도 집회의 전말, 조직자, 주요 요구 사항 기록.
 
-[^7]: [Helping Taiwan Affairs Office Organize Tours, Intermediary for Elections: United Alliance Party Pingtung Branch President and General Secretary Sentenced to 4.5 Years](https://news.ltn.com.tw/news/society/breakingnews/4782159) — Liberty Times, 2025, reporting the case details of Zhang Cunfeng and Huang Rongde of the Pingtung United Alliance Party being sentenced to 4 years and 6 months under the Anti-Infiltration Act.
+[^7]: [국무원 대만사무판공실 위탁으로 중국 관광 모집한 통일연맹당(統一聯盟黨) 핑둥 지부장·총간사 4년 6개월 선고](https://news.ltn.com.tw/news/society/breakingnews/4782159) — 자유시보(自由時報), 2025년, 핑둥 통일연맹당 간부 장춘펑(張存逢)·황룽더(黃榮德)가 반침투법에 의거해 4년 6개월 실형 판결을 받은 사건 전말 보도.
 
-[^8]: [Chen Tzu-chien (Retina) — Building a Tower of Mockery on the Ruins of State Media, and Dismantling It with His Own Hands at the Peak](https://taiwan.md/people/%E9%99%B3%E5%AD%90%E8%A6%8B/) — Taiwan.md, recording Retina's personal experience participating in a cross-strait youth exchange camp during university, and how it became the starting point for founding _Eyeball Central Television_.
+[^8]: [천즈젠(陳子見/시왕멍視網膜) — 관영 미디어 폐허 위에 조롱의 탑을 세우고, 전성기에 스스로 허문 사람](https://taiwan.md/people/%E9%99%B3%E5%AD%90%E8%A6%8B/) — Taiwan.md, 시왕멍이 대학 시절 양안 교류 캠프에 참가한 개인 경험과 그것이 《안구중앙전시대》 창설의 출발점이 된 과정 기록.
 
-[^9]: [King Porter: The Exposure Culture of Taiwan's Million-Follower YouTuber and Cross-Strait Information Game](https://taiwan.md/people/%E6%B3%A2%E7%89%B9%E7%8E%8B/) — Taiwan.md,梳理ing King Porter's media stance, exposure motives, and impact on Taiwanese community issues.
+[^9]: [보터왕(波特王): 대만 100만 유튜버의 폭로 문화와 양안 정보 게임](https://taiwan.md/people/%E6%B3%A2%E7%89%B9%E7%8E%8B/) — Taiwan.md, 보터왕의 미디어 입장, 폭로 동기와 대만 커뮤니티 이슈에 대한 영향 정리.
 
-[^10]: [Analyzing the United Front Concentric Circle: Guan Zhang's China Tour and the "Influencers" Surrounding Him](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — _The Reporter_, April 2026, in-depth investigation of Guan Zhang's China tour itinerary for each stop, the backgrounds of companions (Wang Xiao, Li Xiang, Yang Shengzhi), and their connections with United Front organizations.
+[^10]: [통전 동심원 해부: 관장의 중국 방문, 그리고 그 주위의 "인플루언서"들](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — 《리포터(報導者)》, 2026년 4월, 관장 중국 방문 각 지점 일정, 동행자(왕샤오王驍·리샹李翔·양성즈楊升)의 배경과 통전 조직과의 연관성에 대한 심층 조사.
 
-[^11]: [Reject United Front Assembly on Ketagalan Boulevard, Recall Group Strives for Petitions, Green MPs Relay Speeches](https://www.cna.com.tw/news/aipl/202504190109.aspx) — CNA, April 19, 2025, on-site report on the rally initiated by Ba Jiong and others, political figure participation, and main demands.
+[^11]: [통전 거부 대회 카이다거란 대도서 열려, 파면팀 연서 총력, 민진당 의원들 릴레이 강연](https://www.cna.com.tw/news/aipl/202504190109.aspx) — 중앙통신사(中央社), 2025년 4월 19일, 바징(八炯) 등이 발기한 집회 현장 보도, 정치인 참여 상황과 주요 요구 사항.
 
-[^12]: [Challenges and Responses for the Youth Generation Facing CCP United Front Groups (Re-quote)](https://www.sef.org.tw/article-1-204-16191) — Same as [^1], additionally quoting the analysis paragraphs on algorithm recommendation and the shaping of younger generation identity.
+[^12]: [청년 세대가 중공 통전단에 직면한 도전과 대응 (재인용)](https://www.sef.org.tw/article-1-204-16191) — [^1]과 동일, 알고리즘 추천과 젊은 세대 정체성 형성 분석 단락 추가 인용.
 
-[^13]: [National Security Bureau Reveals CCP Cognitive Warfare 5 Methods, Mobilizes Net Army to Spread Controversial Messages](https://www.cna.com.tw/news/aipl/202601110031.aspx) — CNA, January 11, 2026, the National Security Bureau released the "2025 CCP Cognitive Warfare Analysis Report," revealing five major cross-strait operation methods and data on the seizure of 2.31 million controversial messages.
+[^13]: [국안국, 중공 인지전 5가지 수법 공개…네트워크 군단 동원해 쟁점 메시지 유포](https://www.cna.com.tw/news/aipl/202601110031.aspx) — 중앙통신사(中央社), 2026년 1월 11일, 국가안전국이 "2025년 중공 인지전 분석 보고서"를 발표해 다섯 가지 주요 대만 공작 방법과 231만 건의 쟁점 메시지 적발 데이터 공개.
 
-[^14]: [CCP Cross-Strait United Front Strategy and Impact](https://www.mac.gov.tw/News_Content.aspx?n=06B49495F691456D&sms=213557769919016C&s=394781478287232C) — Mainland Affairs Council, January 2025, the Taiwanese government's official analysis of the CCP United Front organizational structure and policy stance.
+[^14]: [중공의 양안 통전 전략과 영향](https://www.mac.gov.tw/News_Content.aspx?n=06B49495F691456D&sms=213557769919016C&s=394781478287232C) — 대만 대륙위원회(陸委會), 2025년 1월, 중공 통전 조직 구조에 대한 대만 정부의 공식 분석 및 정책 입장.
 
-[^15]: [Controversy Reignites Over Guan Zhang's China Tour: Visiting September 18 Historical Museum, Tiananmen Flag-Raising](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — Same as [^10], additionally quoting details of the September 18 Historical Museum in Shenyang and Tiananmen flag-raising itinerary on October 31, 2025.
+[^15]: [관장 중국 방문 논란 재점화: 9.18역사박물관 참관, 천안문 국기 게양식](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — [^10]과 동일, 2025년 10월 31일 선양 9.18역사박물관 및 천안문 국기 게양식 일정 세부 사항 추가 인용.
 
-[^16]: [Analysis of Incentive Structure for Taiwanese Influencers Cooperating with China](https://www.storm.mg/article/5164466) — Same as [^5], additionally quoting reporting content on high-value commissions and traffic revenue sharing models from the Chinese side.
+[^16]: [대만 인플루언서 중국 협력 유인 구조 분석](https://www.storm.mg/article/5164466) — [^5]와 동일, 중국 측 고가 의뢰 및 트래픽 수익 분배 모델에 관한 보도 내용 추가 인용.
 
-[^17]: [Cognitive Warfare: Dividing Taiwanese Society to Subdue the Enemy Without Fighting](https://taiwan.md/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0/) — Taiwan.md, systematically analyzing the goals, methods, and Taiwan society's responses to cognitive warfare, including the core logic of "making Taiwan fall into disarray."
+[^17]: [인지전: 싸우지 않고 대만 사회를 분열시키는 전략](https://taiwan.md/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0/) — Taiwan.md, 인지전의 목표·방법과 대만 사회의 대응을 체계적으로 분석하며, "대만을 내분으로 만드는" 핵심 논리 포함.
 
-[^18]: [CCP United Front Documentary | Ba Jiong Exposes the Inside Story of CCP Buying Taiwanese Influencers](https://www.cna.com.tw/news/aipl/202412280227.aspx) — CNA, December 28, 2024, reporting the beginning and end of Ba Jiong and Chen Bo-yuan releasing the United Front documentary and the social response.
+[^18]: [중공 통전 다큐멘터리 | 바징(八炯), 중공의 대만 인플루언서 매수 내막 폭로](https://www.cna.com.tw/news/aipl/202412280227.aspx) — 중앙통신사(中央社), 2024년 12월 28일, 바징과 천보위안(陳柏源)이 통전 다큐멘터리를 공개한 전말과 사회적 반향 보도.
 
-[^19]: [Poll Reveals Low Awareness of United Front Among Taiwan's Young Generation, Only 37.9% Support Regulating Influencer United Front Behavior](https://taronews.tw/2024/12/20/1027545/) — Taiwan Good News, December 20, 2024, the China Asia-Pacific Elite Exchange Association released a survey by Dadi Polling Company, revealing low awareness of United Front among the younger generation.
+[^19]: [여론 조사, 대만 젊은 세대의 통전 경계심 낮아…인플루언서 통전 행위 규제 법개정 지지 37.9%에 불과](https://taronews.tw/2024/12/20/1027545/) — 타이완하오신원(台灣好新聞), 2024년 12월 20일, 중화아태정예교류협회(中華亞太菁英交流協會)가 대지여론조사회사(大地民調公司)에 의뢰한 조사 결과 공개, 젊은 세대의 통전 경계심이 낮음을 밝힘.
 
-[^20]: [Taiwan Poll: Over Half of Respondents Believe Laws Should Be Amended to Regulate United Front Influencers](https://www.epochtimes.com/b5/24/12/20/n14394867.htm) — The Epoch Times, December 20, 2024, quoting the China Asia-Pacific Elite Exchange Association's commission of Dadi Public Opinion Research Company for a telephone survey of 1,001 citizens; 56.3% supported amending laws, only 37.9% of the 20-24 age group supported it.
+[^20]: [대만 여론 조사: 응답자 과반, 통전 인플루언서 규제 법개정 찬성](https://www.epochtimes.com/b5/24/12/20/n14394867.htm) — 대기원(大紀元), 2024년 12월 20일, 중화아태정예교류협회가 대지여론조사회사에 의뢰한 1,001명 전화 조사 인용; 56.3%가 법개정 지지, 20-24세 연령층은 37.9%만 지지.
 
-[^21]: [Media Literacy Education: The Cognitive Warfare Defense Line from Campuses to Society](https://www.cna.com.tw/news/ahel/202511050056.aspx) — CNA, November 5, 2025, reporting on media literacy courses entering campuses and civil society's counter-actions against cognitive warfare.
+[^21]: [미디어 리터러시 교육: 캠퍼스에서 사회로 이어지는 인지전 방어선](https://www.cna.com.tw/news/ahel/202511050056.aspx) — 중앙통신사(中央社), 2025년 11월 5일, 미디어 리터러시 수업의 캠퍼스 도입과 시민 사회의 인지전 반제 행동 보도.
 
-[^22]: [Ba Jiong — From United Front Documentary Producer to Ketagalan Boulevard Rally Initiator](https://taiwan.md/people/%E5%85%AB%E7%82%AF/) — Taiwan.md, recording Ba Jiong's complete action trajectory from the United Front documentary series to the 2025 Ketagalan Boulevard rally.
+[^22]: [바징(八炯) — 통전 다큐멘터리 제작자에서 카이다거란 대도 집회 발기자까지](https://taiwan.md/people/%E5%85%AB%E7%82%AF/) — Taiwan.md, 바징의 통전 다큐멘터리 시리즈부터 2025년 카이다거란 대도 집회까지의 완전한 행동 궤적 기록.

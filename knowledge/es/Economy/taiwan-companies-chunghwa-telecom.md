@@ -20,6 +20,7 @@ translatedFrom: 'Economy/台灣企業：中華電信.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2dc422bd153e8b6c'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Economy
 ---
 
 > **Resumen en 30 segundos**

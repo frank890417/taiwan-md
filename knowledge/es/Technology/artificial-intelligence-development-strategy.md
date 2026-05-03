@@ -20,6 +20,7 @@ translatedFrom: 'Technology/台灣人工智慧發展與未來策略.md'
 sourceCommitSha: 'a97494be'
 sourceContentHash: 'sha256:6443d0ccddb2bc55'
 translatedAt: '2026-05-01T20:54:23+08:00'
+category: Technology
 ---
 
 # Desarrollo y estrategia futura de la inteligencia artificial en Taiwán

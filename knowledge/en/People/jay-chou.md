@@ -192,6 +192,7 @@ translatedFrom: 'People/周杰倫.md'
 sourceCommitSha: '4a5b7958'
 sourceContentHash: 'sha256:429e6c1fb55123cd'
 translatedAt: '2026-05-01T08:56:11+08:00'
+category: People
 ---
 
 # Jay Chou

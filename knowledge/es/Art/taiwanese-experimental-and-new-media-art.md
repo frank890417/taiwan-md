@@ -22,6 +22,7 @@ translatedFrom: Art/FAB DAO與百岳計畫.md
 sourceCommitSha: cc65d0f3
 sourceContentHash: sha256:a569386269241d61
 translatedAt: 2026-05-02T01:17:17+08:00
+category: Art
 ---
 
 # La máquina perpetua de donaciones: el experimento social de FAB DAO y el Proyecto Cien Cumbres

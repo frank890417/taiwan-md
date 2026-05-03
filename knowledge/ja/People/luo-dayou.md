@@ -10,6 +10,7 @@ translatedFrom: 'People/羅大佑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b0a18557d65ed7e'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 羅大佑：華語流行音楽の教父

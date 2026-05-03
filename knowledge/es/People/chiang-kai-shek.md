@@ -11,6 +11,7 @@ translatedFrom: People/蔣中正.md
 sourceCommitSha: 0851f334
 sourceContentHash: sha256:cc927a774bcfd71c
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 > **Panorama en 30 segundos:** Chiang Kai-shek (1887–1975) gobernó Taiwán durante 26 años bajo una ley marcial que se prolongó 38 años (1949–1987), una de las más largas de la historia mundial. Al mismo tiempo, impulsó la reforma agraria y la educación obligatoria de nueve años, sentando las bases del despegue económico de Taiwán; pero también envió tropas para reprimir el Incidente del 22 de Febrero y dirigió el Terror Blanco, período en el que miles de personas fueron ejecutadas. La misma persona, dos registros históricos radicalmente opuestos, sigue generando un debate irresuelto en la sociedad taiwanesa.

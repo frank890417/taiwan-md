@@ -19,6 +19,7 @@ sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:b007d781b4327433'
 translatedAt: '2026-05-01T14:11:02+08:00'
 subcategory: '人權與平等'
+category: Society
 ---
 
 # Human Rights and Gender Equality

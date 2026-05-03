@@ -12,6 +12,7 @@ translatedFrom: 'About/看見台灣引言集.md'
 sourceCommitSha: '1a5fc7a9'
 sourceContentHash: 'sha256:cbdbee6d7c03481f'
 translatedAt: '2026-05-01T18:02:56+08:00'
+category: About
 ---
 
 # 台湾を見る — 歴史上の台湾の印象

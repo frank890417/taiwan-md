@@ -16,6 +16,7 @@ translatedFrom: 'People/王永慶.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:602271271fe217d6'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Y.C. Wang: From Rice Shop to Petrochemical Empire - Taiwan's Management God

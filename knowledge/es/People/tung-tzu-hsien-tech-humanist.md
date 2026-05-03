@@ -16,6 +16,7 @@ translatedFrom: People/童子賢.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c1d775b461f7938c
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Tung Tzu-hsien: Pensador interdisciplinario en tecnología y humanidades

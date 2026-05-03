@@ -10,6 +10,7 @@ translatedFrom: 'People/魏哲家.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:75d5c36465e7b059'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 魏哲家：3ナノメートル時代の製造プロセスの権威

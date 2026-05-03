@@ -13,6 +13,7 @@ translatedFrom: 'Culture/台灣迷因.md'
 sourceCommitSha: 'c860d150'
 sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Culture
 ---
 
 # Cuando las heridas sociales se convierten en sanación colectiva: el mecanismo de válvula de seguridad cultural en la cultura de memes de Taiwán

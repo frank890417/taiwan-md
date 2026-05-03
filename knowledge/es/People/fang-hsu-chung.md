@@ -17,6 +17,7 @@ translatedFrom: 'People/方序中.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:09b565df3960bd44'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Fang Hsu-chung: el innovador del diseño que redefinió la identidad visual en Taiwán

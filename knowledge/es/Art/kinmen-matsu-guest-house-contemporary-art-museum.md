@@ -9,6 +9,7 @@ translatedFrom: Art/金馬賓館當代美術館.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:dc5814dcedc92ae0
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Art
 ---
 
 # Museo de Arte Contemporáneo Jinma Bin Guan — De estación de despedidas a refugio del arte

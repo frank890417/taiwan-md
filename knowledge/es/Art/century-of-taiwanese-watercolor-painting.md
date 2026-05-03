@@ -10,6 +10,7 @@ translatedFrom: Art/台灣水彩畫的百年流變.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c0b72206c0902f28
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Art
 ---
 
 # Un siglo de evolución de la acuarela taiwanesa

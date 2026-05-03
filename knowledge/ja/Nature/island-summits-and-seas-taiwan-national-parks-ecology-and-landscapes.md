@@ -13,6 +13,7 @@ translatedFrom: 'Nature/台灣國家公園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ce9f00d5b274081'
 translatedAt: '2026-05-02T01:17:14+08:00'
+category: Nature
 ---
 
 # 島々の山と海の頂：台湾国立公園の生態系と地景

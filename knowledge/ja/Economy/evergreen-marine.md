@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：長榮海運.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:568e51f4fe252bc3
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Economy
 ---
 
 > **30秒でわかる概要**

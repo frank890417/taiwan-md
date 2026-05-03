@@ -17,6 +17,7 @@ translatedFrom: 'People/鄭兆村.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:bd6e73b952c9405f'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Cheng Chao-tsun: el rey asiático de la jabalina

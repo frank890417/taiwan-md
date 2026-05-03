@@ -13,6 +13,7 @@ translatedFrom: Art/當代藝術.md
 sourceCommitSha: 8f223cb2
 sourceContentHash: sha256:f34b45fd8d60d61d
 translatedAt: 2026-05-01T22:19:01+08:00
+category: Art
 ---
 
 # 대만 현대 미술

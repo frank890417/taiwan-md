@@ -18,6 +18,7 @@ translatedFrom: 'People/謝淑薇.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:0fdf73c6c6f9ad21'
 translatedAt: '2026-05-01T19:52:32+08:00'
+category: People
 ---
 
 # 謝淑薇：台湾テニスの先駆者

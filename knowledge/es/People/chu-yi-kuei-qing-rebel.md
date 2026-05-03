@@ -20,6 +20,7 @@ translatedFrom: People/朱一貴.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:59a6177c37cf5305
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # El Rey Pato Chu Yi-kuei: el primer líder rebelde que se proclamó rey en Taiwán

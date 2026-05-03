@@ -13,6 +13,7 @@ translatedFrom: 'Music/台灣搖滾樂發展史.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:9d76f310b8c2b867'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: Music
 ---
 
 # Taiwan Rock: From Underground Rebellion to Mainstream — Thirty Years

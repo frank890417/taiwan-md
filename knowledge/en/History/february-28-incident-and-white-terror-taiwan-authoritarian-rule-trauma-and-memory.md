@@ -17,6 +17,7 @@ readingTime: 18
 featured: true
 lastVerified: 2026-03-19
 translatedFrom: 'History/二二八事件.md'
+category: History
 ---
 
 # February 28 Incident and White Terror: Trauma and Memory under Taiwan's Authoritarian Rule

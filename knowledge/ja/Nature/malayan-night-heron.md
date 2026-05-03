@@ -22,6 +22,7 @@ image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.jpg'
 imageCredit: 'Dr. Raju Kasambe'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
+date: 2026-04-30
 ---
 
 # マレーゴイサギ：バードウォッチャーの夢の鳥、キャンパスの「大きなおバカ鳥」

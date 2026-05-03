@@ -12,6 +12,7 @@ translatedFrom: People/林懷民.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:90c4912ca48f7ecb
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 > **Resumen en 30 segundos:** En 1973, Lin Hwai-min, un novelista de 26 años sin formación profesional en danza, fundó «Cloud Gate Dance Theatre», el primer grupo profesional de danza contemporánea de Taiwán. Este grupo no solo se convirtió en el primer conjunto de danza contemporánea del mundo sinófono, sino que ha permanecido activo en el escenario internacional durante más de 50 años, siendo calificado por _The New York Times_ como «el grupo de danza contemporánea más importante de Asia».

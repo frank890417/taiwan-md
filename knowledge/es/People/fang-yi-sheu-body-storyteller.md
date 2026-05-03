@@ -17,6 +17,7 @@ translatedFrom: 'People/許芳宜.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:dc32b7371f317ffc'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Fang-Yi Sheu: la luz de Taiwán que habla con el cuerpo

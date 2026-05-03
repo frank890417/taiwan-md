@@ -20,6 +20,7 @@ translatedFrom: History/台海危機與兩岸關係發展.md
 sourceCommitSha: f78028db
 sourceContentHash: sha256:cff96f2b8cf87a1f
 translatedAt: 2026-05-01T20:54:23+08:00
+category: History
 ---
 
 # Las crisis del Estrecho de Taiwán y el desarrollo de las relaciones entre ambas orillas

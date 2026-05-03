@@ -1,99 +1,98 @@
 ---
-title: 'Falun Gong: From the Yangming Mountain Flower Clock to Zhongnanhai and 101 — A Cross-Strait Prism'
-description: "In 1995, the first Falun Gong practice site in Taiwan quietly emerged next to the Yangming Mountain Flower Clock. Over the following thirty years, this group, defined as a 'cult' in China and subjected to extreme persecution, developed in Taiwan into a cultivation phenomenon led by National Taiwan University professors and registered as a 'Legal Person Association.' The quiet presence of Falun Gong in Taiwan is not merely the spread of a qigong practice, but the frontline of Taiwan's constitutional guarantee of religious freedom."
+title: '파룬궁：양밍산 꽃시계에서 중난하이와 101로 — 양안의 프리즘'
+description: '1995년, 대만 최초의 파룬궁 수련 장소가 양밍산 꽃시계 옆에 조용히 만들어졌다. 이후 30년간, 중국에서 "사교"로 규정되어 극단적인 박해를 받은 이 단체는 대만에서 국립대만대학 교수들이 이끄는, "사단법인"으로 등록된 수련 현상으로 발전했다. 대만에서의 파룬궁의 조용한 존재는 단순한 기공 전파에 그치지 않고, 대만 헌법이 보장하는 종교의 자유의 최전선이다.'
 date: 2026-04-29
-tags:
-  ['religious freedom', 'human rights', 'cross-strait relations', 'Falun Gong']
-subcategory: 'Religion and Faith'
-author: 'Taiwan.md'
+tags: ['종교의 자유', '인권', '양안 관계', '파룬궁']
 category: 'Society'
-readingTime: 12
+subcategory: '종교와 신앙'
+author: 'Taiwan.md Translation Team'
+featured: false
 lastVerified: 2026-05-02
 lastHumanReview: false
 translatedFrom: 'Society/法輪功在台灣.md'
 sourceCommitSha: '4a42ae8d'
 sourceContentHash: 'sha256:3a3c27ab4749e8dc'
-translatedAt: '2026-05-02T14:01:08+08:00'
+translatedAt: '2026-05-03T00:00:00+08:00'
 ---
 
-> **30-Second Overview:**
-> On April 25, 1999, 10,000 Falun Gong practitioners peacefully petitioned at Zhongnanhai in Beijing, after which the Chinese Communist Party launched a suppression campaign lasting over two decades. However, across the strait, Falun Gong in Taiwan grew from a small practice site in Yangming Mountain into a group with hundreds of thousands of practitioners, highly protected by the Constitution. This article explores how Falun Gong took root in Taiwan and became the sharpest prism for observing the differences in religious freedom between the two sides of the strait.
+> **30초 개요：**
+> 1999년 4월 25일, 만 명의 파룬궁 수련자들이 베이징 중난하이(中南海)에서 평화적으로 상소했고, 이후 중국공산당은 20여 년에 걸친 탄압을 시작했다. 그러나 해협 건너편 대만에서 파룬궁은 양밍산의 작은 수련 장소에서 시작하여, 헌법의 두터운 보호를 받는 수십만 수련자를 가진 단체로 성장했다. 이 글은 파룬궁이 어떻게 대만에 뿌리를 내렸고, 양안 종교 자유의 차이를 가장 예리하게 비추는 프리즘이 되었는지를 살펴본다.
 
-On the morning of April 27, 1995, at 6:30 AM, near the Yangming Mountain Flower Clock in Taipei, a couple, Zheng Wenhuan and He Laiqin, hung a banner handwritten by their daughter, Zheng Huiwen, reading "Falun Dafa is Good," and played slow qigong music[^1]. At that time, the number of people practicing Falun Gong in all of Taiwan was negligible. Four years later, this practice, emphasizing "Truthfulness, Compassion, and Forbearance," would trigger a political storm that shocked the world in Beijing, fundamentally changing the fate of hundreds of thousands of people on both sides of the strait.
+1995년 4월 27일 이른 아침 여섯 시 반, 타이베이 양밍산(陽明山) 꽃시계 근처에서, 정원황(鄭文煌)과 허라이친(何來琴) 부부가 딸 정후이원(鄭惠文)이 손으로 쓴 "파룬따파하오(法輪大法好, 파룬따파는 좋은 것)" 현수막을 걸고 느린 수련 음악을 틀었다[^1]. 당시 대만 전역에서 파룬궁을 수련하는 사람은 극소수였다. 4년 후, "진(真)·선(善)·인(忍)"을 강조하는 이 공법(功法)은 베이징에서 세계를 놀라게 한 정치적 폭풍을 일으키고, 양안 수십만 명의 운명을 뒤바꾸게 된다.
 
-## Origins: The "Golden Seed" Transmitted from Jinan to Taiwan
+## 기원：제난에서 대만으로 건너온 "황금 씨앗"
 
-The origin of Falun Gong in Taiwan was a quest spanning the strait. In June 1994, He Laiqin and her husband Zheng Wenhuan traveled to Jinan, China, to attend an eight-day Dharma transmission class taught by Falun Gong founder Li Hongzhi at the Huangting Gymnasium[^1]. Upon returning to Taiwan, they established the first practice site in Yangming Mountain.
+대만에서 파룬궁의 기원은 해협을 가로지른 탐구에서 비롯된다. 1994년 6월, 허라이친(何來琴)과 남편 정원황(鄭文煌)은 중국 제난(濟南)으로 가서 황팅체육관(皇亭體育館)에서 열린 파룬궁 창시자 리훙즈(李洪志)의 8일간 전법반(傳法班)에 참가했다[^1]. 귀국 후, 두 사람은 양밍산에 첫 번째 수련 장소를 만들었다.
 
-Between 1995 and 1999, the development of Falun Gong in Taiwan was relatively slow, relying primarily on **word-of-mouth transmission** and **free volunteer teaching** among practitioners. This mode of dissemination, which had no thresholds, charged no fees, and did not force membership, aligned highly with the social environment of post-martial law Taiwan, where people sought spiritual sustenance. By early 1999, the number of practitioners in all of Taiwan was only around 10,000[^2].
+1995년부터 1999년까지 대만에서 파룬궁의 발전은 비교적 느렸으며, 주로 수련자들 사이의 **입소문**과 **무료 자원봉사 교습**에 의존했다. 문턱이 없고, 수련비를 받지 않으며, 입문을 강제하지 않는 이러한 전파 방식은, 계엄 해제 후 정신적 지향을 찾던 대만 사회의 환경과 높은 친화성을 보였다. 1999년 초까지 대만 전역의 수련 인원은 1만 여 명에 불과했다[^2].
 
-In November 1997, Li Hongzhi personally visited Taiwan, giving Dharma talks at Sanxing Elementary School in Taipei and Wufeng Agricultural Industrial High School in Taichung, totaling ten hours. Nearly 1,000 Taiwanese practitioners were fortunate enough to hear him directly[^3]. This visit was called by practitioners the sowing of a "golden seed," laying the foundation for the development of Falun Gong in Taiwan.
+1997년 11월, 리훙즈(李洪志)가 직접 대만을 방문하여 타이베이 싼싱초등학교(三興國小)와 타이중 우펑농공학교(霧峰農工)에서 각각 강법(講法)을 진행했으며, 총 10시간에 이르렀다. 당시 직접 강법을 들을 수 있었던 대만 수련자는 거의 1천 명에 달했다[^3]. 이 방문은 수련자들에게 "황금 씨앗"의 파종으로 불리며, 대만에서 파룬궁 발전의 기틀을 마련했다.
 
-## The Cross-Strait Watershed: The Turning Point of Fate in 1999
+## 양안의 분수령：1999년의 운명적 전환
 
-1999 was the watershed for the fate of Falun Gong practitioners on both sides of the strait. On April 25, over 10,000 practitioners peacefully petitioned at Zhongnanhai in Beijing, seeking a legal environment for cultivation. Subsequently, the Chinese Communist Party launched a systematic persecution campaign lasting over two decades, including illegal detention, torture, and allegations of "live organ harvesting" raised by international independent investigators[^4].
+1999년은 양안 파룬궁 수련자들의 운명이 갈린 분수령이었다. 4월 25일, 1만 명이 넘는 수련자들이 베이징 중난하이(中南海)에서 합법적인 수련 환경을 요구하며 평화적으로 상소했다. 이후 중국공산당은 20여 년에 걸친 체계적인 탄압을 시작했으며, 여기에는 불법 구금, 고문, 그리고 국제 독립 조사단이 제기한 "산 채로 장기 적출(活摘器官)"에 관한 주장도 포함된다[^4].
 
-The reason for the CCP's suppression was that its "tightly organized" and "numerous" nature threatened the regime. In Taiwan, such "numerous" numbers are considered the norm of religious freedom. The CCP's suppression instead produced a "reverse propaganda effect," causing huge attention to this issue in Taiwanese society, leading to a surge in the number of practitioners. By 2003, the number of practitioners in Taiwan had grown to approximately 300,000[^2]. Today, in Da'an Forest Park, the Chiang Kai-shek Memorial Hall, and even the playgrounds of primary schools in remote areas, one can see the daily scene of practitioners quietly cultivating in the morning light.
+중국공산당이 탄압한 이유는 파룬궁의 "엄밀한 조직"과 "많은 인원"이 정권을 위협한다는 것이었다. 대만에서 이러한 "많은 인원"은 종교 자유의 정상적인 모습으로 간주된다. 중공의 탄압은 오히려 "역선전 효과"를 낳아, 대만 사회에서 이 사안에 대한 큰 관심을 불러일으켰고, 수련 인원이 급증했다. 2003년에는 대만의 수련 인원이 약 30만 명으로 늘어났다[^2]. 오늘날 다안삼림공원(大安森林公園), 중정기념당(中正紀念堂), 심지어 오지 학교 운동장에서도 수련자들이 이른 아침 조용히 수련하는 일상적인 풍경을 볼 수 있다.
 
-## Data Transparency: Self-Reports vs. External Observations
+## 데이터 투명성：자체 주장과 외부 관찰
 
-Regarding the number of Falun Gong practitioners in Taiwan, there has long been a data gap. The **Legal Person Taiwan Falun Dafa Association** (Judicial Yuan Registration No. 1760) estimates its total number of practitioners to be between 300,000 and 600,000[^5]. However, the U.S. State Department's _2023 International Religious Freedom Report_ explicitly states that while the Association claims to have a large number of members, "some scholars say the number is an overestimate"[^6].
+대만 파룬궁 수련 인원에 관해서는 오랫동안 수치 차이가 존재해왔다. **사단법인 대만파룬따파학회(社團法人台灣法輪大法學會)**(사법원 등기 번호 1760호)는 수련자 총수를 30만에서 60만 명 사이로 자체 추산한다[^5]. 그러나 미국 국무부의 《2023년 국제 종교 자유 보고서》는 학회가 많은 회원 수를 주장하고 있지만 "일부 학자들은 이 수치가 과장된 것이라고 말한다(some scholars say the number is an overestimate)"고 명시하고 있다[^6].
 
-A more verifiable "active indicator" is its large-scale events. On October 18, 2025, over 5,000 practitioners from Taiwan, the U.S., Canada, Japan, South Korea, and Hong Kong, among other places, formed a giant "Falun Diagram" with a diameter exceeding 66 meters in the Liberty Square of the Chiang Kai-shek Memorial Hall in Taipei[^7]; the Association also holds an annual year-end experience exchange Dharma assembly, with attendance historically ranging between 6,000 and 6,400 people[^14]. These data reflect the scale of its core community, although the total number of practitioners still lacks precise statistics from independent third parties.
+보다 검증 가능한 "활동 지표"는 대규모 행사다. 2025년 10월 18일, 대만·미국·캐나다·일본·한국·홍콩 등지에서 온 5천 명이 넘는 수련자들이 타이베이 중정기념당 자유광장에서 직경 66미터가 넘는 거대한 "파룬 도형"을 만들었다[^7]. 또한 학회는 매년 연말 수련 심득 교류법회(心得交流法會)를 개최하며, 역대 참가 인원은 6천 명에서 6천4백 명 사이였다[^14]. 이러한 수치는 핵심 커뮤니티의 규모를 반영하지만, 총 수련자 수는 여전히 독립적인 제3자의 정확한 통계가 부재하다.
 
-## Taiwanese Characteristics: Academic Elites and Formal Associations
+## 대만의 특색：학술 엘리트와 정식 사단법인
 
-Contrary to the CCP's narrative that Falun Gong practitioners are mostly "deceived grassroots," Falun Gong in Taiwan exhibits a strong intellectual character.
+중공 선전이 파룬궁 수련자 대부분을 "속은 기층 민중"으로 묘사하는 것과 달리, 대만의 파룬궁은 강렬한 고학력 지식인 색채를 띤다.
 
-Ye Shuzhen, a professor in the Department of Economics at National Taiwan University (NTU), was one of the earliest Taiwanese scholars to cultivate Falun Gong, subsequently influencing colleagues such as Zhang Qingxi and Liu Yingchuan in the same department, as well as Ming Juzheng, an honorary professor in the Department of Politics, and Zhang Jinhua, a professor in the Department of Journalism[^8]. These elite scholars expressed rational认同 (recognition) of the "mental cultivation" and "cosmology" in _Zhuan Falun_, believing that its principles of "Truthfulness, Compassion, and Forbearance" combined fitness with moral elevation, resonating with the intellectual community in Taiwan seeking spiritual levels after the lifting of martial law.
+국립대만대학(NTU) 경제학과 교수 예수전(葉淑貞)은 가장 먼저 파룬궁을 수련한 대만 학자 중 한 명으로, 이후 같은 학과의 장칭시(張清溪), 류잉촨(劉鶯釧), 정치학과 명예교수 밍쥐정(明居正), 신문학과 교수 장진화(張錦華) 등에게 영향을 미쳤다[^8]. 이들 엘리트 학자들은 《전법륜(轉法輪)》 속 "심성 수련(心性修煉)"과 "우주관"에 대해 이성적인 공명을 표했으며, "진·선·인"의 원칙이 건강과 도덕적 향상을 결합한다고 보고, 계엄 해제 후 정신적 차원을 추구하던 대만 지식인 사회에서 울림을 얻었다.
 
-In terms of legal status, although the U.S. Embassy in Taiwan (AIT) report mentions its registered name as a sports organization[^9], in reality, the organization has formally established itself as the **"Legal Person Taiwan Falun Dafa Association,"** with Professor Zhang Qingxi serving as the first chairman[^10]. This formal legal person status grants it complete organizational rights under Taiwan's legal framework, forming a direct contrast with the CCP's designation of it as an "illegal organization."
+법적 지위 면에서, 미국재대만협회(AIT) 보고서는 이 단체의 등기 명칭을 체육 단체로 언급하고 있지만[^9], 실제로 이 단체는 **"사단법인 대만파룬따파학회"**로 정식 설립되었으며, 장칭시(張清溪) 교수가 초대 이사장을 맡았다[^10]. 이러한 정식 법인 지위는 대만 법률 체계 하에서 완전한 조직적 권리를 부여하며, 중공이 "불법 단체"로 규정한 것과 직접적인 대비를 이룬다.
 
-## Legal Protection: "Quiet Resistance" Under the Constitution
+## 법적 보호：헌법 아래의 "조용한 저항"
 
-The legality of Falun Gong in Taiwan has been confirmed multiple times at the legal level. In 2015, the Judicial Yuan's Interpretation No. 734, regarding a case where practitioners were fined for posting banners in public spaces, ruled that the relevant announcements were unconstitutional, protecting their freedom of speech[^11].
+대만에서 파룬궁의 합법성은 법적 차원에서 여러 차례 확인되었다. 2015년, 사법원 해석 제734호는 수련자가 공공장소에서 현수막을 게시했다가 과태료 처분을 받은 사건에 대해, 관련 공고가 위헌이라고 판결하여 언론 자유를 보장했다[^11].
 
-Additionally, the High Court of Taiwan has ruled that Zhou Qingjun, president of the pro-CCP group "Patriotic Unity Association," must compensate and publicly apologize to Zhang Qingxi and others for defamation after criticizing Falun Gong; on April 25, 2015, the apology notice was published in _The United Daily News_ and _China Times_[^12]. These judgments established a core principle: Article 11 (Freedom of Speech) and Article 13 (Freedom of Religious Belief) of the Constitution guarantee people's right to practice qigong and tell the truth in public spaces. The Taiwanese government has never listed Falun Gong as an illegal group, which forms a core contrast with the suppression by China's "610 Office."
+또한 대만 고등법원은 친공 단체 "애국동심회(愛國同心會)" 회장 저우칭쥔(周慶峻)이 파룬궁을 비방한 행위가 명예훼손에 해당한다고 판결하여, 장칭시(張清溪) 등에게 배상하고 공개 사과하도록 명령했다. 2015년 4월 25일, 사과 광고가 《연합보(聯合報)》와 《중국시보(中國時報)》에 각각 게재되었다[^12]. 이들 판결은 핵심 원칙을 확립했다. 헌법 제11조(언론 자유)와 제13조(종교 신앙 자유)는 시민이 공공장소에서 수련하고 진실을 전달할 권리를 보장한다는 것이다. 대만 정부는 파룬궁을 불법 단체로 지정한 적이 없으며, 이는 중국 "610 판공실(610辦公室)"의 탄압과 핵심적인 대비를 이룬다.
 
-## Conclusion: The Touchstone of Religious Freedom
+## 결론：종교 자유의 시금석
 
-Today, in front of Taipei 101, Falun Gong practitioners have long displayed billboards exposing the persecution by the CCP. Although these propaganda methods exist in partial controversy within Taiwan, and are even viewed by some media as too political[^13], the mainstream Taiwanese society largely views them as an embodiment of personal freedom of cultivation.
+오늘날 타이베이 101 빌딩 앞에서, 파룬궁 수련자들은 오랫동안 중공의 박해를 폭로하는 입간판을 진열하고 있다. 이러한 선전 방식이 대만 내부에서 일부 논란을 야기하고, 일부 언론에 의해 지나치게 정치적이라는 시각이 존재하지만[^13], 대만 주류 사회는 대체로 이를 개인 수련 자유의 표현으로 본다.
 
-The quiet presence of Falun Gong in Taiwan itself is the most powerful silent resistance against the totalitarian rule on the other side of the strait. As the U.S. State Department continues to list China as a "Country of Particular Concern" (CPC) for religious freedom, Taiwan's tolerance of Falun Gong has become the most distinct touchstone of the democratic values of this island.
+대만에서 파룬궁의 조용한 존재 자체가, 해협 건너 전체주의 통치에 대한 가장 강력한 무언의 저항이다. 미국 국무부가 중국을 종교 자유 "특별 우려 국가(CPC)"로 계속 지정하는 가운데, 대만의 파룬궁 포용은 이 섬의 민주주의 가치를 가장 선명하게 드러내는 시금석이 되었다.
 
 ---
 
-**Further Reading**
+**더 읽기**
 
-- [United Front Group](/society/統戰團) — From low-cost tourism to influencer traffic, the new and old methods of the CCP's cross-strait united front operations and the logic of cognitive博弈 (game/conflict).
-- [Cognitive Warfare](/society/認知作戰) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to the concrete practice of civic education.
+- 통전단(統戰團) — 저가 여행부터 인플루언서 트래픽까지, 중공의 양안 통일전선 공작의 신구 수법과 인지전 논리.
+- 인지전(認知作戰) — 인지 조작의 체계적 프레임워크와 대만의 대응 메커니즘, 학술 분석부터 시민 교육의 구체적 실천까지.
 
-## References
+## 참고 자료
 
-[^1]: [【Golden Seed】Falun Dafa Sprouts in Northern Taiwan, Establishing the First Practice Site in the Whole Island](https://www.epochtimes.com/b5/21/5/8/n12932594.htm) — _Epoch Times_, May 2021, recounting the details of Zheng Wenhuan and He Laiqin's trip to the Jinan Dharma class in June 1994 and the establishment of the first practice site in the whole island at the Yangming Mountain Flower Clock on April 27, 1995.
+[^1]: [【황금 씨앗】파룬따파, 북부 대만에서 싹 트다 — 대만 최초 수련 장소 건립](https://www.epochtimes.com/b5/21/5/8/n12932594.htm) — 대기원(大紀元), 2021년 5월, 정원황(鄭文煌)과 허라이친(何來琴)이 1994년 6월 제난 전법반에 참가하고 1995년 4월 27일 양밍산 꽃시계에서 대만 최초 수련 장소를 건립한 경위를 기록.
 
-[^2]: [Falun Gong in Taiwan](https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%9C%A8%E8%87%9D%E7%81%A3) — Wikipedia, integrating the development process of Falun Gong in Taiwan, practitioner statistics, and related legal cases.
+[^2]: [대만의 파룬궁](https://zh.wikipedia.org/zh-tw/%E6%B3%95%E8%BC%AA%E5%8A%9F%E5%9C%A8%E8%87%9D%E7%81%A3) — 위키백과, 대만 파룬궁 발전 과정, 수련자 통계, 관련 법적 사건 종합.
 
-[^3]: [Remembering the Master's Dharma Talk in Taiwan in '97](https://big5.zhengjian.org/node/34873) — _Zhengjian Network_, recording that in November 1997, Li Hongzhi gave Dharma talks at Sanxing Elementary School in Taipei and Wufeng Agricultural Industrial High School in Taichung for a total of ten hours, with nearly 1,000 Taiwanese practitioners listening directly.
+[^3]: [스승님이 97년에 대만에서 강법하신 것을 회상하며](https://big5.zhengjian.org/node/34873) — 정견망(正見網), 1997년 11월 리훙즈(李洪志)가 타이베이 싼싱초등학교와 타이중 우펑농공학교에서 총 10시간 강법했으며, 직접 들은 대만 수련자가 거의 1천 명에 달했다고 기록.
 
-[^4]: [Independent Investigation Report on Allegations of the CCP Harvesting Organs from Falun Gong Practitioners](https://dafoh.org/zh-hant/%E5%A4%A7%E8%A1%9B%E2%80%A7%E5%96%AC%E9%AB%98%E5%92%8C%E5%A4%A7%E8%A1%9B%E2%80%A7%E9%BA%A5%E5%A1%94%E6%96%AF%E4%B9%8B%E7%8D%A8%E7%AB%8B%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A/) — David Quigley and David Matas, DAFOH, independent investigation into allegations and findings of the CCP harvesting organs from Falun Gong practitioners.
+[^4]: [중공이 파룬궁 수련자의 장기를 적출했다는 의혹에 관한 독립 조사 보고서](https://dafoh.org/zh-hant/%E5%A4%A7%E8%A1%9B%E2%80%A7%E5%96%AC%E9%AB%98%E5%92%8C%E5%A4%A7%E8%A1%9B%E2%80%A7%E9%BA%A5%E5%A1%94%E6%96%AF%E4%B9%8B%E7%8D%A8%E7%AB%8B%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A/) — 데이비드 조고(David Kilgour)·데이비드 메이터스(David Matas), DAFOH, 중공의 파룬궁 수련자 장기 적출 의혹과 조사 결과에 대한 독립 조사.
 
-[^5]: [Legal Person Registration Announcement: Legal Person Taiwan Falun Dafa Association](https://www.judicial.gov.tw/tw/cp-144-497793-04405-1.html) — Judicial Yuan, announced on September 16, 2021 (Republic of China Year 110), Registration No. 1760, representing legal person Zhang Qingxi.
+[^5]: [법인 등기 공고：사단법인 대만파룬따파학회](https://www.judicial.gov.tw/tw/cp-144-497793-04405-1.html) — 사법원, 중화민국 110년(2021년) 9월 16일 공고, 등기 번호 1760호, 대표 법인 장칭시(張清溪).
 
-[^6]: [2023 International Religious Freedom Report: Taiwan Section](https://www.state.gov/reports/2023-report-on-international-religious-freedom/taiwan) — U.S. State Department, 2024, noting that the Taiwan Falun Dafa Association claims to have a large number of members, but "some scholars say the number is an overestimate."
+[^6]: [2023 국제 종교 자유 보고서：대만 부분](https://www.state.gov/reports/2023-report-on-international-religious-freedom/taiwan) — 미국 국무부, 2024년, 대만파룬따파학회가 많은 회원 수를 주장하지만 "일부 학자들은 이 수치가 과장이라고 말한다(some scholars say the number is an overestimate)"고 지적.
 
-[^7]: [Over 5,000 Falun Gong Practitioners Form Characters at Taipei's Chiang Kai-shek Memorial Hall](https://www.epochtimes.com/b5/25/10/19/n14619393.htm) — _Epoch Times_, October 19, 2025, reporting on the character formation event at Liberty Square, Chiang Kai-shek Memorial Hall, on October 18, 2025, with over 5,000 practitioners from Taiwan, the U.S., Canada, Japan, South Korea, and Hong Kong participating.
+[^7]: [5천여 명의 파룬궁 수련자, 타이베이 중정기념당에서 글자 형성](https://www.epochtimes.com/b5/25/10/19/n14619393.htm) — 대기원(大紀元), 2025년 10월 19일, 2025년 10월 18일 중정기념당 자유광장에서 대만·미국·캐나다·일본·한국·홍콩 등지의 5천 명 이상 수련자가 참여한 글자 형성 활동 보도.
 
-[^8]: [Why So Many Scholars Cultivate Falun Gong](https://www.epochtimes.com/b5/24/7/27/n14299811.htm) — _Formosa TV_ "Taiwan Legend" program, July 2024, analyzing the background and motivations of NTU professors (Ye Shuzhen, Zhang Qingxi, Liu Yingchuan, Ming Juzheng, Zhang Jinhua) cultivating Falun Gong.
+[^8]: [왜 이렇게 많은 학자들이 파룬궁을 수련하는가](https://www.epochtimes.com/b5/24/7/27/n14299811.htm) — 민시TV(民視) 《대만연의(台灣演義)》 프로그램, 2024년 7월, 국립대만대학 교수진(예수전·장칭시·류잉촨·밍쥐정·장진화)이 파룬궁을 수련하게 된 배경과 동기 분석.
 
-[^9]: [2022 International Religious Freedom Report: Taiwan Section](https://www.ait.org.tw/2022-report-on-international-religious-freedom-taiwan/) — U.S. Embassy in Taiwan (AIT), 2023, mentioning the registration status and activities of the Taiwan Falun Gong Association.
+[^9]: [2022 국제 종교 자유 보고서：대만 부분](https://www.ait.org.tw/2022-report-on-international-religious-freedom-taiwan/) — 미국재대만협회(AIT), 2023년, 대만 파룬궁 학회의 등기 상태와 활동 현황 언급.
 
-[^10]: [Legal Person Taiwan Falun Dafa Association Registration Information](https://org.twincn.com/item.aspx?no=85754691&sn=481404) — Taiwan Business Network, recording the legal person registration number, first chairman Zhang Qingxi, and information on past and present cadres.
+[^10]: [사단법인 대만파룬따파학회 등기 정보](https://org.twincn.com/item.aspx?no=85754691&sn=481404) — 대만공상망(台灣工商網), 법인 등기 번호, 초대 이사장 장칭시(張清溪) 및 역대 임원 정보 기록.
 
-[^11]: [Judicial Yuan Interpretation No. 734](https://zh.wikipedia.org/zh-tw/%E5%8F%B8%E6%B3%95%E9%99%A2%E9%87%8B%E5%AD%97%E7%AC%AC734%E8%99%9F%E8%A7%A3%E9%87%8B) — Wikipedia, recording that in 2015, Judicial Yuan Interpretation No. 734 ruled that announcements restricting Falun Gong practitioners from posting banners violated the constitutional guarantee of freedom of speech.
+[^11]: [사법원 해석 제734호](https://zh.wikipedia.org/zh-tw/%E5%8F%B8%E6%B3%95%E9%99%A2%E9%87%8B%E5%AD%97%E7%AC%AC734%E8%99%9F%E8%A7%A3%E9%87%8B) — 위키백과, 2015년 사법원 해석 제734호가 파룬궁 수련자의 현수막 게시를 제한하는 공고가 헌법 언론 자유 보장을 침해한다고 판결한 내용 기록.
 
-[^12]: ["Patriotic Unity Association" Ordered to Publish Apology in Newspaper for Falun Gong](https://news.ltn.com.tw/news/life/breakingnews/1298296) — _Liberty Times News_, 2015, reporting that Zhou Qingjun, president of the Patriotic Unity Association, was determined by the Supreme Court to have committed defamation, and on April 25, 2015, published a one-quarter page apology notice in _China Times_ and _The United Daily News_.
+[^12]: ["애국동심회", 파룬궁에 신문 사과 광고 게재 판결](https://news.ltn.com.tw/news/life/breakingnews/1298296) — 자유시보(自由時報), 2015년, 애국동심회 회장 저우칭쥔(周慶峻)이 명예훼손으로 최고법원 확정 판결을 받고 2015년 4월 25일 《중국시보》와 《연합보》에 4분의 1면 사과 광고를 게재한 것을 보도.
 
-[^13]: [The Epoch Times: From Anti-China Tabloid to Right-Wing Influence Machine](https://cn.nytimes.com/technology/20201027/epoch-times-influence-falun-gong/zh-hant/) — _The New York Times_, 2020, analyzing the media stance of _The Epoch Times_ and the controversies surrounding Falun Gong propaganda methods in Western society.
+[^13]: [《대기원시보》：반중 소신문에서 우익 영향력 기계로](https://cn.nytimes.com/technology/20201027/epoch-times-influence-falun-gong/zh-hant/) — 뉴욕타임스, 2020년, 《대기원시보》의 미디어 입장과 파룬궁 선전 방식이 서방 사회에서 야기한 논란 분석.
 
-[^14]: [Over 6,000 Falun Gong Practitioners Attend Taiwan Dharma Assembly to Share Cultivation Stories](https://www.epochtimes.com/b5/24/10/19/n14354032.htm) — _Epoch Times_, October 19, 2024, reporting on the Taiwan Falun Dafa Experience Exchange Dharma Assembly, with over 6,000 practitioners from Taiwan and around the world attending, serving as a reference for the scale of past Dharma assemblies.
+[^14]: [6천여 명의 파룬궁 수련자, 대만 법회 참가해 수련 이야기 나눠](https://www.epochtimes.com/b5/24/10/19/n14354032.htm) — 대기원(大紀元), 2024년 10월 19일, 대만파룬따파 심득교류법회에 대만 및 전 세계에서 온 6천 명 이상의 수련자가 참석했으며, 역대 법회 규모의 참고 자료.

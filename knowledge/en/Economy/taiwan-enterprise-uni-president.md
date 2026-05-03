@@ -13,6 +13,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+category: Economy
 ---
 
 > **30-Second Overview:** In 1967, 38-year-old Kao Ching-yuan founded Uni-President Enterprises in Xuejia, Tainan,

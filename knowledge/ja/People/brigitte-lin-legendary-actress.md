@@ -10,6 +10,7 @@ translatedFrom: 'People/林青霞.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2eacc434230880ee'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 林青霞：文芸の女神から武侠の伝説へ

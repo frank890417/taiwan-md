@@ -10,6 +10,7 @@ translatedFrom: People/席慕蓉.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:310ac0cea3702788
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 席慕蓉：草原と現代の詩的交響

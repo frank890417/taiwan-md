@@ -17,6 +17,7 @@ translatedFrom: People/賴聲川.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:5a4167cb8b4d6e8d
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Stan Lai: el maestro de la innovación en el teatro en lengua china

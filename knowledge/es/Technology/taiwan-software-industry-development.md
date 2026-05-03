@@ -18,6 +18,7 @@ translatedFrom: Technology/台灣軟體產業發展.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8309e00340ef142f
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Technology
 ---
 
 # Desarrollo de la industria del software en Taiwán

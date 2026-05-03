@@ -18,6 +18,7 @@ translatedFrom: 'People/陳建仁.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95a660352fbbce5b'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Chen Chien-jen: el experto en salud pública de académico a político

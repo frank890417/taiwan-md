@@ -10,6 +10,7 @@ translatedFrom: 'People/鍾理和.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5898ba9c26f93d0f'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 鍾理和：原郷の永遠の追尋者

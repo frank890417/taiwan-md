@@ -10,6 +10,7 @@ translatedFrom: 'People/張惠妹.md'
 sourceCommitSha: '2671bff6'
 sourceContentHash: 'sha256:b4205405eb50bfe0'
 translatedAt: '2026-05-01T22:19:01+08:00'
+category: People
 ---
 
 # 장후이메이: 민족을 초월한 하늘의 목소리

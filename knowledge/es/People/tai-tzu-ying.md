@@ -20,6 +20,7 @@ translatedFrom: People/戴資穎.md
 sourceCommitSha: 59db5de4
 sourceContentHash: sha256:1a1c26aae26ed9f8
 translatedAt: 2026-05-02T01:17:17+08:00
+category: People
 ---
 
 # Tai Tzu-ying

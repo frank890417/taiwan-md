@@ -16,6 +16,7 @@ translatedFrom: 'People/簡立峰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:638c3c318359c6b4'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Jamie Lin: El mentor fundacional de la industria de IA en Taiwán

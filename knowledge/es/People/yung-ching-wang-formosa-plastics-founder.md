@@ -16,6 +16,7 @@ translatedFrom: People/王永慶.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:602271271fe217d6
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Yung-ching Wang: el dios de la gestión empresarial, de una tienda de arroz a un imperio petroquímico

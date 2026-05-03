@@ -16,6 +16,7 @@ translatedFrom: People/葉國一.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8815002e4ea20721
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Yeh Kuo-yi: El pionero de la industria taiwanesa de manufactura electrónica por contrato

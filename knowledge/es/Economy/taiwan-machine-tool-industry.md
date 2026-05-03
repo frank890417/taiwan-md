@@ -23,6 +23,7 @@ translatedFrom: Economy/台灣機械工具產業.md
 sourceCommitSha: fa95d5e0
 sourceContentHash: sha256:74fc634acab51c40
 translatedAt: 2026-05-01T20:54:23+08:00
+category: Economy
 ---
 
 # La industria taiwanesa de máquinas-herramienta

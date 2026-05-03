@@ -22,6 +22,7 @@ translatedFrom: Geography/漯底山.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:2cef849f8ebc6df7
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Geography
 ---
 
 # Monte Tadian (Luo Di Shan)

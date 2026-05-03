@@ -10,6 +10,7 @@ translatedFrom: People/鍾理和.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:5898ba9c26f93d0f
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Chung Li-ho: el eterno buscador de la tierra natal

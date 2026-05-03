@@ -10,6 +10,7 @@ translatedFrom: 'People/鈕承澤.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:c412539523fe8a6a'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 鈕承澤：才華と論争が共存する映画人

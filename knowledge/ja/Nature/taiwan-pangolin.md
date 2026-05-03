@@ -13,6 +13,7 @@ translatedFrom: 'Nature/台灣穿山甲.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:a5b003502d2f617c'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: Nature
 ---
 
 # 台湾センザンコウ

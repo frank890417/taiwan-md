@@ -22,6 +22,7 @@ translatedFrom: 'Nature/台灣皇蛾.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:04090b613f5ed578'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Nature
 ---
 
 # Polilla Atlas de Taiwán: la polilla más grande del mundo, la leyenda de las alas gigantes que no comen en toda su vida

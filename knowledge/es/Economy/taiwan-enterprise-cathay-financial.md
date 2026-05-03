@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：國泰金控.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:15d9f13b5613c8cd
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Panorama en 30 segundos**

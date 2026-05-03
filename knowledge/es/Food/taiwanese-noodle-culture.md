@@ -21,6 +21,7 @@ translatedFrom: 'Food/台灣麵食文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b29927b05c617ee'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Food
 ---
 
 # La cultura del fideo taiwanés: setenta años de evolución desde la harina de la ayuda estadounidense hasta la comida nacional

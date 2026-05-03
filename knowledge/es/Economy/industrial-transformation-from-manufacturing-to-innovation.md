@@ -21,6 +21,7 @@ translatedFrom: Economy/台灣產業轉型升級.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:4035b995bd717d6f
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 # Transformación y mejora industrial de Taiwán: de potencia manufacturera a potencia innovadora

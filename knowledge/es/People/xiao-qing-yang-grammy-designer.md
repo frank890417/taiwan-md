@@ -17,6 +17,7 @@ translatedFrom: People/蕭青陽.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:c5122b24e37ed6e1
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Xiao Qingyang: llevando el diseño taiwanés al escenario mundial

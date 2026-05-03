@@ -21,6 +21,7 @@ sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:ba33a2f2652e311d'
 translatedAt: '2026-05-01T14:11:02+08:00'
 subcategory: '藝術與設計'
+category: People
 ---
 
 # Shen Sheng-Po

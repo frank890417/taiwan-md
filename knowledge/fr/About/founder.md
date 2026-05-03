@@ -21,6 +21,7 @@ translatedFrom: 'About/taiwan-md.md'
 sourceCommitSha: '1ea8ad2d'
 sourceContentHash: 'sha256:502969d3fc0ce42b'
 translatedAt: '2026-05-01T22:19:06+08:00'
+category: About
 ---
 
 # Taiwan.md écrit Taiwan.md

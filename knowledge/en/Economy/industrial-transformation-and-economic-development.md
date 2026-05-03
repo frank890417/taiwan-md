@@ -22,6 +22,7 @@ translatedFrom: 'Economy/台灣產業轉型與經濟發展軌跡.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:a20b7c78580c0ee1'
 translatedAt: '2026-05-01T15:38:13+08:00'
+category: Economy
 ---
 
 # Island's Metamorphosis: Taiwan's Industrial Transformation and Economic Development Trajectory

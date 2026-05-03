@@ -11,6 +11,7 @@ translatedFrom: 'People/李安.md'
 sourceCommitSha: '2acf410b'
 sourceContentHash: 'sha256:424471225df1f956'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Ang Lee — Cinematic Bridge Between East and West

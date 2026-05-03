@@ -20,6 +20,7 @@ readingTime: 17
 featured: false
 lastVerified: '2026-04-28'
 lastHumanReview: '2026-04-28'
+date: 2026-04-27
 ---
 
 # 沈伯洋：中国の認知戦を研究していたら、中国が衛星写真で彼の自宅を特定した

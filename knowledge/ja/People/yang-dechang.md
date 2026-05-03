@@ -11,6 +11,7 @@ translatedFrom: 'People/楊德昌.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7eb377093645b409'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 楊徳昌：都市の疎離を描く映画詩人

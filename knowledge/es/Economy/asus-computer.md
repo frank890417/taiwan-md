@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：華碩.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:00009559de6db0ad
 translatedAt: 2026-05-02T01:17:17+08:00
+category: Economy
 ---
 
 > **Resumen en 30 segundos**

@@ -21,6 +21,7 @@ translatedFrom: Economy/台灣循環經濟與資源再利用.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:14226e8150e93598
 translatedAt: 2026-05-01T19:52:32+08:00
+category: Economy
 ---
 
 # 台湾の循環型経済と資源再利用

@@ -10,6 +10,7 @@ translatedFrom: People/陳映真.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8bedbd61019511b0
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 陳映真：第三世界の文学的良心

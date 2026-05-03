@@ -20,6 +20,7 @@ translatedFrom: 'Nature/台灣國家公園.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ce9f00d5b274081'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Nature
 ---
 
 # Cumbres insulares entre montañas y mar: ecología y paisajes de los parques nacionales de Taiwán

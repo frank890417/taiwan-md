@@ -21,6 +21,7 @@ featured: true
 author: 'Taiwan.md'
 lastVerified: '2026-04-12'
 lastHumanReview: false
+date: 2026-04-12
 ---
 
 # 乙未戦争：台湾民主国の148日間

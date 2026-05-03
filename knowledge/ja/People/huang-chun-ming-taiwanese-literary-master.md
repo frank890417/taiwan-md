@@ -19,6 +19,7 @@ translatedFrom: 'People/黃春明.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2ec7b54fb5bdb0ff'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 黄春明：小人物の人生を綴る作家

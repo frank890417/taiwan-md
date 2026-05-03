@@ -13,6 +13,7 @@ translatedFrom: 'About/taiwan-md.md'
 sourceCommitSha: '1ea8ad2d'
 sourceContentHash: 'sha256:502969d3fc0ce42b'
 translatedAt: '2026-05-01T18:02:56+08:00'
+category: About
 ---
 
 # Taiwan.md が Taiwan.md を書く

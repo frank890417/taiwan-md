@@ -21,6 +21,7 @@ translatedFrom: 'People/林書豪.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:8c536e7e37fb32f5'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: People
 ---
 
 > **30-second version:** Jeremy Lin, born 1988 in California, ninth-generation Taiwanese. Led his high school to a state championship — zero NCAA Division I scholarship offers. Went to Harvard, went undrafted, got waived by two NBA teams in 15 days. In February 2012, thrust into the starting lineup by desperation, he averaged 24.4 points over seven straight wins and became the most talked-about athlete on the planet. The media called it "Linsanity."[^1] In 2019, he won an NBA championship with the Toronto Raptors — the first Asian-American player to earn a ring.[^2] In 2025, he retired in Taiwan as the TPBL's first dual MVP, completing a full arc from America to the island his family left nine generations ago.[^3]

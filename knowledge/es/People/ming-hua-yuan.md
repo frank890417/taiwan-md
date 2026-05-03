@@ -17,6 +17,7 @@ translatedFrom: People/明華園.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:8f30d34794119822
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Ming Hua Yuan: el imperio de la ópera gezaixi que creció sobre escenarios al aire libre

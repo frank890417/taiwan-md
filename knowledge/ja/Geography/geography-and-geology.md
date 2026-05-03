@@ -13,6 +13,7 @@ translatedFrom: 'Geography/台灣島嶼地理特色與形成.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:e8f1153627b23acc'
 translatedAt: '2026-05-01T19:52:32+08:00'
+category: Geography
 ---
 
 # 台湾の島嶼地理の特色と形成

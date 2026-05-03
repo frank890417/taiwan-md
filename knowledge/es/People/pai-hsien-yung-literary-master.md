@@ -11,6 +11,7 @@ translatedFrom: People/白先勇.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:183a7b2c5ae7a688
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Pai Hsien-yung: el eterno buscador de la literatura moderna

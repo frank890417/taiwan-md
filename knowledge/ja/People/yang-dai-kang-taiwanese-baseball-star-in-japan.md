@@ -10,6 +10,7 @@ translatedFrom: People/陽岱鋼.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:563a462f0876373a
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 陽岱鋼：旅日野球選手の星

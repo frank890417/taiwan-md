@@ -20,6 +20,7 @@ translatedFrom: 'Technology/台灣5G網路建設與數位轉型.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:99a0b29cbafe5bb9'
 translatedAt: '2026-05-01T20:54:23+08:00'
+category: Technology
 ---
 
 # Construcción de la red 5G y transformación digital en Taiwán

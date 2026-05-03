@@ -11,6 +11,7 @@ translatedFrom: People/白先勇.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:183a7b2c5ae7a688
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 白先勇：現代文学の永遠の探求者

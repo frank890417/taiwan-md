@@ -22,6 +22,7 @@ translatedFrom: 'Food/台灣發酵食品與醃製文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:83aadc055a63682c'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Food
 ---
 
 # Alimentos fermentados y cultura de encurtidos en Taiwán

@@ -18,6 +18,7 @@ translatedFrom: 'People/李宗盛.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:37754a7922b8e177'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 李宗盛：華語ポップス界の人生詩人

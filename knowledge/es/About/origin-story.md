@@ -12,6 +12,7 @@ translatedFrom: About/緣起故事.md
 sourceCommitSha: 818f3cc1
 sourceContentHash: sha256:90a44cb111462766
 translatedAt: 2026-05-02T02:50:57+08:00
+category: About
 ---
 
 # Historia de origen de Taiwan.md

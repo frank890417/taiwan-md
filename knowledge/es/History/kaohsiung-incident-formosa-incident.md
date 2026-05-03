@@ -11,6 +11,7 @@ translatedFrom: History/美麗島事件.md
 sourceCommitSha: 5dc50b7a
 sourceContentHash: sha256:fe9f8fe921c693b2
 translatedAt: 2026-05-01T22:19:10+08:00
+category: History
 ---
 
 El 28 de febrero de 1980, 林義雄 (Lin Yi-hsiung) esperaba su juicio en la prisión militar de Jingmei, en Taipéi. Ese día, la policía y agentes de los servicios de inteligencia vigilaron la entrada de su casa en la calle Xinyi durante todo el día, pero nadie entró. Al caer la tarde, alguien descubrió que su madre, de 60 años, 林游阿妹 (Lin Yu-mei), había sido apuñalada 13 veces y yacía muerta en el sótano; sus hijas gemelas de 7 años, 林亮均 (Lin Liang-chun) y 林亭均 (Lin Ting-chun), recibieron cada una una puñalada que les atravesó el pecho y la espalda, muriendo en el acto. La hija mayor, de 9 años, 林奐均 (Lin Huan-chun), sufrió seis puñaladas, pero sobrevivió de milagro al llevar la mochila escolar sobre la espalda.[^12]

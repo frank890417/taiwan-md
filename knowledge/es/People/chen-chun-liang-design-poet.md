@@ -17,6 +17,7 @@ translatedFrom: 'People/陳俊良.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:230d66867f466f8b'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # Chen Chun-liang: redefiniendo el diseño taiwanés con poesía

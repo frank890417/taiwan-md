@@ -22,6 +22,7 @@ translatedFrom: 'People/嚴長壽.md'
 sourceCommitSha: '67fe687d'
 sourceContentHash: 'sha256:6bcf8cc662668e7d'
 translatedAt: '2026-05-01T13:19:11+08:00'
+category: People
 ---
 
 # Stanley Yen: From the Mailroom to Taiwan's Godfather of Tourism — Then He Gave It All Up

@@ -9,6 +9,7 @@ translatedFrom: 'People/張艾嘉.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:b98aee16ecfe25b3'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Sylvia Chang (張艾嘉): The Cross-Disciplinary Queen of Chinese-Language Cinema

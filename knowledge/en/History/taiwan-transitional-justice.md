@@ -18,6 +18,7 @@ translatedFrom: 'History/台灣轉型正義.md'
 sourceCommitSha: '0851f334'
 sourceContentHash: 'sha256:7913ed2b9abc7af3'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: History
 ---
 
 > **30-second overview:** In 1950, a twenty-year-old from Qingshui, Taichung was arrested because an acquaintance listed his name under interrogation. He spent ten years on Green Island, then went on to found Taiwan's first children's comics magazine. He lived to ninety-three, spending his final years asking the same question: "Who exactly killed my friends?" Taiwan's transitional justice process vacated convictions for nearly six thousand people — but it never answered his question.

@@ -10,6 +10,7 @@ translatedFrom: 'People/伍佰.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3ea6fd59542e4310'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 伍佰：台湾本土ロックの魂

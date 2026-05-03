@@ -10,6 +10,7 @@ translatedFrom: People/蕭敬騰.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:4623d2d2492d155b
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 蕭敬騰：台湾で最も予測不可能な声の伝説

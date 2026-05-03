@@ -9,6 +9,7 @@ translatedFrom: 'People/羅大佑.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:2b0a18557d65ed7e'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Luo Dayou (羅大佑): The Godfather of Mandarin Pop

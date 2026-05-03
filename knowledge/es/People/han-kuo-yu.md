@@ -24,6 +24,7 @@ translatedFrom: People/韓國瑜.md
 sourceCommitSha: 056136d7
 sourceContentHash: sha256:f8d9a2a7a468041d
 translatedAt: 2026-05-01T20:54:23+08:00
+category: People
 ---
 
 # Han Kuo-yu

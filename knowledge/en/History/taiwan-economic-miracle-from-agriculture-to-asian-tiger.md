@@ -21,6 +21,7 @@ sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:59051517307ea5dd'
 translatedAt: '2026-05-01T14:11:02+08:00'
 subcategory: '經濟發展史'
+category: History
 ---
 
 # Taiwan's Economic Miracle: From Agricultural Society to Asian Tiger

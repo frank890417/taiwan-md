@@ -7,6 +7,7 @@ translatedFrom: 'Food/夜市文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:cad0161e7864d0ae'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: Food
 ---
 
 # Cultura del Mercado Nocturno de Taiwán

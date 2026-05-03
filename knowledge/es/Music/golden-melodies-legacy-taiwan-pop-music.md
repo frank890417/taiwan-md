@@ -21,6 +21,7 @@ translatedFrom: 'Music/台灣流行音樂.md'
 sourceCommitSha: 'd0ae0f3b'
 sourceContentHash: 'sha256:818f98dc184f6fa7'
 translatedAt: '2026-05-01T20:54:23+08:00'
+category: Music
 ---
 
 # La herencia de las melodías doradas: historia y estatus cultural de la música pop taiwanesa

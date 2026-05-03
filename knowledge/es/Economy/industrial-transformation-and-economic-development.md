@@ -21,6 +21,7 @@ translatedFrom: Economy/台灣產業轉型與經濟發展軌跡.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:a20b7c78580c0ee1
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 # La metamorfosis de la isla: trayectoria de la transformación industrial y el desarrollo económico de Taiwán

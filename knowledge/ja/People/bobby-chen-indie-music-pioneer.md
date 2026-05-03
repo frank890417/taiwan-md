@@ -10,6 +10,7 @@ translatedFrom: People/陳昇.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:58c4e9bf93190109
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 陳昇：独立精神の音楽の道楽者

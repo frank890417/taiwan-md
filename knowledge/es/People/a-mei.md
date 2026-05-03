@@ -18,6 +18,7 @@ translatedFrom: 'People/張惠妹.md'
 sourceCommitSha: '2671bff6'
 sourceContentHash: 'sha256:b4205405eb50bfe0'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: People
 ---
 
 # A-mei: Una voz celestial que trasciende las etnias

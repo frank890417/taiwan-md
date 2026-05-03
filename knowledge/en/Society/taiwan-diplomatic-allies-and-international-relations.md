@@ -21,6 +21,7 @@ translatedFrom: 'Society/台灣邦交國與國際外交.md'
 sourceCommitSha: 'ed7dc86e'
 sourceContentHash: 'sha256:fbde4b685ace42ba'
 translatedAt: '2026-04-30T22:50:13+08:00'
+category: Society
 ---
 
 # Taiwan's Diplomatic Allies and International Relations: 12 Allies, 113 Offices, 177 Visa-Free Destinations

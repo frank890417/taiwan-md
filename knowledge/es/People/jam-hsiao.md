@@ -18,6 +18,7 @@ translatedFrom: People/蕭敬騰.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:4623d2d2492d155b
 translatedAt: 2026-05-02T02:09:57+08:00
+category: People
 ---
 
 # Jam Hsiao: la leyenda de la voz más impredecible de Taiwán

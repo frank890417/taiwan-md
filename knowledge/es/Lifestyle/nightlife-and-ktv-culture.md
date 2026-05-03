@@ -12,6 +12,7 @@ translatedFrom: 'Lifestyle/夜生活與KTV文化.md'
 sourceCommitSha: '87911554'
 sourceContentHash: 'sha256:b2fc903c97041562'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Lifestyle
 ---
 
 # Vida nocturna y cultura del KTV

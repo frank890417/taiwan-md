@@ -17,6 +17,7 @@ translatedFrom: 'People/郭泓志.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:afabda9042512747'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Hong-Chih Kuo: Taiwan's Left-Handed Ace

@@ -224,6 +224,7 @@ translatedFrom: 'People/張忠謀.md'
 sourceCommitSha: '4a5b7958'
 sourceContentHash: 'sha256:cd227d8ac5698cc4'
 translatedAt: '2026-05-01T08:56:11+08:00'
+category: People
 ---
 
 # Morris Chang (張忠謀)

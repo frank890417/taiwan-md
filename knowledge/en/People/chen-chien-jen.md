@@ -9,6 +9,7 @@ translatedFrom: 'People/陳建仁.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95a660352fbbce5b'
 translatedAt: '2026-04-17T10:33:16+08:00'
+category: People
 ---
 
 # Chen Chien-jen: Public Health, Politics, and Taiwan’s Crisis Leadership

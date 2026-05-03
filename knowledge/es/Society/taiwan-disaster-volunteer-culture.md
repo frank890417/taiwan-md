@@ -22,6 +22,7 @@ translatedFrom: 'Society/台灣災難志工文化.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:8688a76c3659d6fa'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Society
 ---
 
 # Los superhombres de la pala y la sincronía insular: cómo la cultura de voluntariado en desastres de Taiwán moldea la identidad nacional

@@ -21,6 +21,7 @@ translatedFrom: Economy/台灣企業：台泥.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:7664edadac92feec
 translatedAt: 2026-05-01T22:19:10+08:00
+category: Economy
 ---
 
 > **Resumen en 30 segundos**

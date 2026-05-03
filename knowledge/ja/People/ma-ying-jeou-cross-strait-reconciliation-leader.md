@@ -11,6 +11,7 @@ translatedFrom: People/馬英九.md
 sourceCommitSha: c860d150
 sourceContentHash: sha256:b41414618f20f1f9
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 馬英九：両岸関係の氷を砕いた者、それとも若者に22Kを与えた大統領

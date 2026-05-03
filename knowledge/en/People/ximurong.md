@@ -9,6 +9,7 @@ translatedFrom: 'People/席慕蓉.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:310ac0cea3702788'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Xi Murong (席慕蓉): A Poet Between the Grasslands and the City

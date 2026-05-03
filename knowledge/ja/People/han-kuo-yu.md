@@ -13,6 +13,7 @@ translatedFrom: 'People/韓國瑜.md'
 sourceCommitSha: '056136d7'
 sourceContentHash: 'sha256:f8d9a2a7a468041d'
 translatedAt: '2026-05-01T18:02:56+08:00'
+category: People
 ---
 
 # 韓国瑜

@@ -17,6 +17,7 @@ translatedFrom: People/許芳宜.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:dc32b7371f317ffc
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 許芳宜：身体で語る台湾の光

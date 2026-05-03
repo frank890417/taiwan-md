@@ -21,6 +21,7 @@ translatedFrom: 'Music/茄子蛋.md'
 sourceCommitSha: '377006e0'
 sourceContentHash: 'sha256:a17c8a8fb3e5b2c1'
 translatedAt: '2026-05-01T22:19:10+08:00'
+category: Music
 ---
 
 # 茄子蛋 EggPlantEgg

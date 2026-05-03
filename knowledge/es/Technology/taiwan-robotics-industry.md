@@ -23,6 +23,7 @@ translatedFrom: Technology/台灣機器人產業.md
 sourceCommitSha: fa95d5e0
 sourceContentHash: sha256:1474f16951c52f9b
 translatedAt: 2026-05-01T20:54:23+08:00
+category: Technology
 ---
 
 # La industria robótica de Taiwán

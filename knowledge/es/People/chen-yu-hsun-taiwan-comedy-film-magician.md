@@ -18,6 +18,7 @@ translatedFrom: People/陳玉勳.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:37de07b59dc6f1fd
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Chen Yuhsun: el cálido mago del cine cómico taiwanés

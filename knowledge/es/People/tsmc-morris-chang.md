@@ -215,6 +215,7 @@ lifeTree:
         - label: '繼續任 90 歲'
           plausibility: structural
           note: 'Berkshire Hathaway 巴菲特模式。但張忠謀選擇主動退場，避免「老人政治」的風險，這個自我克制本身是傳承品質的一部分。'
+category: People
 ---
 
 # Morris Chang (張忠謀)

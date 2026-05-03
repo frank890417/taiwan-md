@@ -13,6 +13,7 @@ translatedFrom: Economy/台灣企業：台塑集團.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:0705937c431692b3
 translatedAt: 2026-05-01T18:02:56+08:00
+category: Economy
 ---
 
 > **30秒概要**

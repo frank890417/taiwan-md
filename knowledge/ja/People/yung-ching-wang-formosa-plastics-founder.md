@@ -10,6 +10,7 @@ translatedFrom: People/王永慶.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:602271271fe217d6
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 王永慶：米店から石油化学帝国を築いた経営の神様

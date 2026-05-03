@@ -20,6 +20,7 @@ translatedFrom: 'Art/台灣現代詩.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:76772688d61c205f'
 translatedAt: '2026-04-14T12:25:09+08:00'
+description: 'How a modernist experiment launched from three study rooms — the three major poetry societies of the 1950s — unexpectedly catalyzed the most soil-rooted poetry revolution. From Chi Hsien''s radical "horizontal transplantation" to Wu Sheng''s farmland verses and Xiang Yang''s Taiwanese-language innovation, Taiwan''s modern poetry found its distinctive voice through 70 years of aesthetic debate.'
 ---
 
 # Modern Taiwanese Poetry: The Island's Lyricism

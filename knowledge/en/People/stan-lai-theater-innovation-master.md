@@ -16,6 +16,7 @@ translatedFrom: 'People/賴聲川.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:5a4167cb8b4d6e8d'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Stan Lai: Master of Chinese-Language Theater Innovation

@@ -14,6 +14,7 @@ translatedFrom: 'Food/珍珠奶茶.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:95857cbd0268032d'
 translatedAt: '2026-05-01T20:54:09+08:00'
+category: Food
 ---
 
 # Bubble Tea

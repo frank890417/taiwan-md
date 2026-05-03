@@ -17,6 +17,7 @@ translatedFrom: 'People/豬哥亮.md'
 sourceCommitSha: '83b74a21'
 sourceContentHash: 'sha256:88702d1dcebd6f35'
 translatedAt: '2026-05-01T18:09:43+08:00'
+category: People
 ---
 
 # 猪哥亮：台湾の秀場（ライブ・バラエティ劇場）文化を代表する国民的天王

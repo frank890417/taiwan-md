@@ -21,6 +21,7 @@ translatedFrom: History/台灣經濟奇蹟.md
 sourceCommitSha: 800114ea
 sourceContentHash: sha256:59051517307ea5dd
 translatedAt: 2026-05-01T22:19:10+08:00
+category: History
 ---
 
 # El milagro económico de Taiwán: de la sociedad agrícola a los cuatro tigres asiáticos

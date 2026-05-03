@@ -21,6 +21,7 @@ translatedFrom: 'History/湖口營區與勝利路記憶.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 translatedAt: '2026-05-02T02:50:54+08:00'
+category: History
 ---
 
 # Two Sides of Shengli Road: Hukou Memories from the Armored Corps Coup to the "Big Parking Lot"

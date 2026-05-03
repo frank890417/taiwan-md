@@ -23,6 +23,7 @@ translatedFrom: 'Economy/台灣國際貿易政策.md'
 sourceCommitSha: '800114ea'
 sourceContentHash: 'sha256:e86aa807bf77d463'
 translatedAt: '2026-05-01T14:11:02+08:00'
+category: Economy
 ---
 
 # Taiwan's International Trade Policy: Finding Position in the Globalization Wave

@@ -21,6 +21,7 @@ translatedFrom: People/唐鳳.md
 sourceCommitSha: 32e53d5b
 sourceContentHash: sha256:a082c7ac24170454
 translatedAt: 2026-05-02T02:50:56+08:00
+category: People
 ---
 
 # 당펑

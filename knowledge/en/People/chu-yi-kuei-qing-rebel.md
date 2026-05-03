@@ -20,6 +20,7 @@ readingTime: 6
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+category: People
 ---
 
 # Chu Yi-kuei, the Duck King: Taiwan's First Self-Proclaimed King and Rebel Leader

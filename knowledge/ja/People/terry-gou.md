@@ -10,6 +10,7 @@ translatedFrom: People/郭台銘.md
 sourceCommitSha: 812e7574
 sourceContentHash: sha256:c664670d7a17c38d
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 ## 板橋から世界の製造帝国へ

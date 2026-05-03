@@ -9,6 +9,7 @@ translatedFrom: 'People/李國修.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:7e394b3479d9d206'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Li Guoxiu (李國修): Taiwan’s King of Comedy Theatre

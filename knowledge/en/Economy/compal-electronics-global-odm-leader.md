@@ -13,6 +13,7 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+category: Economy
 ---
 
 # Compal Electronics: The Hidden ODM Giant

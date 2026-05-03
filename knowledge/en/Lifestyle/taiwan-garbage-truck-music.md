@@ -20,6 +20,7 @@ translatedFrom: Lifestyle/台灣垃圾車音樂.md
 sourceCommitSha: c71f1568
 sourceContentHash: sha256:7d76547cf6787938
 translatedAt: 2026-05-02T02:50:54+08:00
+category: Lifestyle
 ---
 
 # When Classical Music Became a Garbage Truck Jingle: Taiwan's Most Romantic Environmental Revolution

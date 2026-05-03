@@ -13,6 +13,7 @@ sourceCommitSha: '3aba2ea3'
 sourceContentHash: 'sha256:fb4775ce7ce7538c'
 translatedAt: '2026-04-25T18:32:22+08:00'
 translatedFromInferred: false
+category: History
 ---
 
 # Japanese Colonial Era

@@ -10,6 +10,7 @@ translatedFrom: People/許文龍.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:73deed1e850fca3f
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 許文龍：音楽と事業の二重奏鳴者

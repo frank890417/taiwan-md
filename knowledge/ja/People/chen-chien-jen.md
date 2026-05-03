@@ -10,6 +10,7 @@ translatedFrom: People/陳建仁.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:95a660352fbbce5b
 translatedAt: 2026-05-01T19:52:32+08:00
+category: People
 ---
 
 # 陳建仁：学者から政治家へ——公衆衛生の専門家

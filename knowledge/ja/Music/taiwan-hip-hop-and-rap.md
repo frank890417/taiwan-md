@@ -20,6 +20,7 @@ readingTime: 9
 featured: true
 lastVerified: '2026-03-19'
 lastHumanReview: false
+date: 2026-03-19
 ---
 
 # 台湾のヒップホップとラップの発展

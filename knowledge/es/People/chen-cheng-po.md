@@ -12,6 +12,7 @@ translatedFrom: 'People/陳澄波.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:12bbbe1f09116e18'
 translatedAt: '2026-05-02T08:41:22+08:00'
+category: People
 ---
 
 > **Resumen en 30 segundos:** El 25 de marzo de 1947, frente a la estación de tren de Chiayi, un hombre que sostenía pinceles fue atado con alambre de hierro y fusilado en plena calle. Se llamaba Chen Cheng-po, el primer taiwanés en ingresar a la Exposición Imperial de Japón con una pintura al óleo, y también el que fue a negociar durante el Incidente del 228 y nunca regresó.

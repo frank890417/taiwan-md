@@ -9,6 +9,7 @@ translatedFrom: 'People/許淑淨.md'
 sourceCommitSha: 'a05d2431'
 sourceContentHash: 'sha256:3b7fb89b51840200'
 translatedAt: '2026-04-14T12:25:09+08:00'
+category: People
 ---
 
 # Hsu Shu-ching: Taiwan's Weightlifting Goddess

@@ -19,6 +19,7 @@ translatedFrom: People/黃春明.md
 sourceCommitSha: a05d2431
 sourceContentHash: sha256:2ec7b54fb5bdb0ff
 translatedAt: 2026-05-01T22:19:10+08:00
+category: People
 ---
 
 # Huang Chun-ming: cronista de la vida de la gente común

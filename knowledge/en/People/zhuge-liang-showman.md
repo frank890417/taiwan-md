@@ -9,6 +9,7 @@ translatedFrom: 'People/豬哥亮.md'
 sourceCommitSha: 83b74a21
 sourceContentHash: 'sha256:88702d1dcebd6f35'
 translatedAt: '2026-05-01T12:53:58+08:00'
+category: People
 ---
 
 # Zhuge Liang (豬哥亮): The King of Taiwan’s Variety-Show Stage
