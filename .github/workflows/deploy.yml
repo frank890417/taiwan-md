@@ -104,6 +104,15 @@ jobs:
         if: steps.playwright-cache.outputs.cache-hit != 'true'
         timeout-minutes: 5
         run: npx --no-install playwright install chromium
+      # 2026-05-03 cross-lang-baseline post-mortem: PR #797 rename 902 lang files
+      # 到 en canonical slug (per URL convention 2026-04-12)。OG cache file 用 lang
+      # URL slug 為 path → outputPath 變 → 全 cache miss → 重 render ~4500 images
+      # = 40 min build slowdown (5/2 build 21 min → 5/3 build 60 min timeout)。
+      # Fix: OG generation 前先掃 git log rename history，把對應 cache file 從
+      # 舊 slug path mv 到新 slug path。原本要重 render 的 ~900 file 只要 mv 即可。
+      - name: Sync OG cache for renamed articles
+        timeout-minutes: 2
+        run: node scripts/tools/og-rename-sync.mjs --since '30 days ago'
       - name: Generate OG images (incremental via ?shot=1)
         run: |
           set -o pipefail
