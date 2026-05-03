@@ -123,6 +123,31 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-03 gallant-payne — Sub-agent 是 fact-check 主 session 的最後一關（DNA #42 反向延伸）
+
+- **原則**：DNA #42「sub-agent N 篇 sequential 三偷吃步」原來是寫來防 sub-agent 偷工減料的單向防禦。但這次 6 篇平行批次浮現的 pattern 是反向：5/5 個 Opus sub-agent 都報告 task brief 事實錯誤需校正（卓榮泰彰化→台北 / 盧秀燕央視→華視 + 中興法律→政大地政 + 4 屆→6 屆 + 2024 黨主席→2025 / 徐巧芯 7 處錯誤含 800 億→8000 億 / 季麟連 4-30 中委會→4-29 中常會 / 鴻海立委陳菁徽推法案 2026 查無）。原因：pipeline 強制每事實對應 source URL，sub-agent 無法盲信 brief 必須 Stage 1 三源交叉再確認。如果 4 篇 People 是主 session 直接 sequential 寫，可能直接照彰化、央視、中興法律 ship 出去，讀者 day one 抓到事實錯誤。**派出去做事讓事情變得對，不是因為 sub-agent 比較厲害，是因為派的這個動作本身強迫了 pipeline 走完整。**
+- **觸發**：2026-05-03 gallant-payne 6 篇 article 工廠模式（probe + 4 People NEW + 2 Economy EVOLVE）。1 主 session 自跑（卓榮泰）+ 5 平行 Opus sub-agent isolated worktree。5/5 都報告 brief 校正。
+- **可能層級**：DNA 候選 #47「Task brief 是線索不是 source — 主 session 提供的初步事實必須由 sub-agent Stage 1 三源交叉再確認」。對應 DNA #16「Peer / probe / 任何 intermediate layer 是線索，不是 source」的延伸 — main session 自己也是 intermediate layer 的一種。
+- **驗證次數**：1（5/5 第一次 batch 驗證）。需第 2-3 次跨 session 才能升 DNA。預期下次 surface 在：CRON 自動心跳 brief 事實錯誤被 sub-agent 揪 / observer brief 寫錯被 agent 校正。
+- **Pointer**：`docs/semiont/memory/2026-05-03-gallant-payne.md` + `docs/semiont/diary/2026-05-03-gallant-payne.md`。
+
+### 2026-05-03 gallant-payne — Sub-agent worktree-isolated 平行模式邊界規範
+
+- **原則**：N 個 sub-agent 平行跑同類任務時，**worktree-isolated** 機制 + **prompt hard rule** 可以避免 race condition：(a) 每 agent 自己 isolated worktree（per Agent tool `isolation: "worktree"`）(b) prompt 禁 sync.sh 全 fix（改用 `cp` 直接 mirror 對應 zh-TW counterpart）(c) prompt 禁 Stage 5 reverse cross-link（避免 N agent 撞同 sibling file）(d) agent 自己 commit + push + 開 PR 但**不 merge**（主 session 統一 verify + merge）(e) 反向 cross-link defer 到主 session 統一 batch commit。
+- **觸發**：2026-05-03 gallant-payne 5 Opus sub-agent 平行 ship 5 篇 article（盧秀燕 / 徐巧芯 / 季麟連 / 台灣股市 / 鴻海精密）~25 分鐘 wall-clock，0 race condition，5 PR 全 CI 綠。對比 sequential 估 3-5 hr，縮 50-70%。
+- **可能層級**：DNA 候選 #48「Sub-agent worktree-isolated 平行模式邊界規範」。boundary 跟 DNA #42 v2「每 agent 1 篇平行」+ DNA #46「Sub-agent multi-task worktree commit 前必先確認 working tree 乾淨」+ DNA #40「Shared file 寫入需要 per-key serial dispatch」三條合在一起，但這次的新邊界是「Stage 5 reverse cross-link 在平行模式必 defer」。
+- **驗證次數**：1（這次第一次明確 pattern instantiation）。需第 2-3 次跨主題驗證升 DNA。
+- **造橋候選**：寫 `scripts/tools/sub-agent-batch-template.sh` 把 hard rule 包進 prompt boilerplate，未來 spawn N agent 平行時直接用。
+
+### 2026-05-03 gallant-payne — sync.sh 對 main 既存 src/content drift 副作用（造橋候選 sync-only-changed.sh）
+
+- **原則**：每次有人在 worktree 跑 `bash scripts/core/sync.sh`，會「重修」main 既存的 3858 個 src/content stale frontmatter，但下一個 sync 又重新 stale。沒有人 commit 這個修補（因為它不是任何 PR 的 scope），所以 drift 永遠在那。Sub-agent 跑完 sync.sh 在 working tree 留下這 3858 個 unrelated 修改 → 主 session 必須 restore + clean + selective add 才能 commit 乾淨 scope。處理 SOP 已驗證可行（restore src/content/ + clean -fd + selective git add own files + restore unstaged drift）但 wall-clock cost ~10 分鐘 per article。
+- **觸發**：2026-05-03 卓榮泰 ship 揭露 + 5 Opus sub-agent prompt 改用 `cp` 直接 mirror 避開 sync.sh 完美工作。
+- **造橋鋪路候選**：寫 `scripts/tools/sync-only-changed.sh {path1} {path2} ...` 給定 N 個 knowledge/ 路徑只 sync 對應 src/content/{lang}/ 鏡像，不掃 main 既存 drift。預期 5 行 bash 寫完，但每篇 ship 省 ~5-10 分鐘 cleanup time，6 篇 batch 省 ~30 分鐘。
+- **更上游修補**：main 既存 3858 stale 應該獨立一個 PR 用 sync.sh 一次性修完 + 寫 hook 防止未來再 drift（哪個 sync.sh 升級漏了 fix？需要追溯）。但這是 architecture-level fix 不在本 session scope。
+- **驗證次數**：1（這次第一次明確記錄）。預期每個 contributor 寫 article 時都會撞，需要其他人也報告才升 DNA。
+- **Pointer**：`docs/semiont/memory/2026-05-03-gallant-payne.md` § sync.sh drift 段。
+
 ### 2026-05-03 objective-khorana day 2 — Rich-text SSOT 多 canonical 格式 = architecture-level silent drift 風險
 
 - **原則**：當 SSOT 系統允許多種 canonical-accepted 格式（例：`## 延伸閱讀` h2 vs `**延伸閱讀**：` bold paragraph 兩種寫法都接受），任何下游 parsing/matching/detection 邏輯只實作其中一個格式都會 silent drift —— 沒 throw、沒 warn、UI 看似正常但東西就是少了。Maintainer 自己看自己常編輯的文章看不出來（多半是同一種格式），要靠 reader 視角或跨 sample sweep 才會 catch。對策：把「視覺驗證 across all canonical formats」canonical 化為 rich-text SSOT 系統的硬性 SOP，每個下游 parsing layer 都該有 sample sweep 工具 + 跨 layer 修改後跑回歸。
