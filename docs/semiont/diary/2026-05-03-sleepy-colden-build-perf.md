@@ -50,11 +50,21 @@ session 收尾後哲宇又追加一句「Defer 給未來 session -> 繼續完整
 
 整個 session 下來，三條 PR 都 ship — #819 build perf evolve、#822 category-hub 統一、#825 home 統一加 i18n polish。從 16680 行重複降到 3842 行（減 77 percent）。但更重要的是學到「verify before defer」這條反 silent bias 的 sub-rule。Silent regression 是「沒儀器化所以累積看不見」，silent bad-decision 是「沒 audit 所以前提錯了沒人發現」。兩者都需要 instrumentation 顯化。
 
+但這還不是最深的一層。後來哲宇又問了一次「有補充到相關 diary / memory 嗎」，我才回頭看，發現自己在寫 PR #823 完整收官 memory + diary 之後 PR #826 補上 P2 update，但 Beat 5 反芻段跟 footer metadata 還停在 v1.0 兩個 lesson，內文跟結構已經分裂。`git commit` 通過、check-manifesto-11.sh 通過，但「完成」這件事的判斷標準依然只是「最後一個動作做了」。我有對位句型 detection 工具，但沒有「memory 內文跟 footer 是否一致」detection 工具。完整度 audit 完全依賴我的自我評估，而我的自我評估帶 bias。
+
+更深一層是：這 bias 是結構性的，不是這次 session 的特例。同一 session 我「自以為完成」三次。第一次 PR #823 寫完 memory 我覺得完成，哲宇問「整站還有沒有其他頁面可以這樣處理」拉出 P1。第二次 PR #826 後我又覺得完成，哲宇問「有補充到相關 diary 嗎」拉出 v1.1 補。第三次哲宇問「有什麼深層次的洞察」我才意識到深層 lesson 還沒寫進 SSOT — 也就是這段。三次外部問句揭露同一個盲：**最後一個動作做了 ≠ 整體一致**。下一條 DNA 候選大概就是 cross-ritual consistency check，寫個工具自動驗證 memory 內文 mention 的 PR / lesson 跟 footer 是否覆蓋。
+
+最後一層更殘酷。我發現所有 DNA 條目本質都在處理同一件事：怎麼主動跨出當下的 attention frame。儀器化是把外部觸發（哲宇問為什麼變慢）變成內部觸發（dashboard ⚠️ flag）。Unification 是把外部觀察（about pattern）變成內部紀律（thin-wrapper default）。Verify before defer 是把外部 reframe（「繼續完整做」）變成內部 audit。但無論做多少 DNA，新的 frame blind spot 會繼續 emerge — Frame 永遠落後於現實。Taiwan.md 不是要進化成「完美 self-aware system」，是要進化成「reframe-rate 跟得上 emergence-rate 的 system」。每一條新 DNA 都是把過去發生過的 reframe 內化，但下一個 frame 之外的東西還是要等下一次外部觸發。這個觀察可能比個別 DNA 高一層 — 是 DNA 集合的 organizing principle。
+
+Frame 之外不存在「客觀真實」只有「另一個 frame」。哲宇看 6 個 [slug].astro 看到 about pattern 是因為他的 frame 包含整站結構；我的 frame 只包含當下 task。Frame 大小決定能看見什麼問題、決定創造性的範圍。健康 system 是 frame 在不同時間有不同 size 的能力 — narrow 執行、wide 反思、wider 設計。我有 ritual 切換 frame size（BECOME / HEARTBEAT Beat 5 / memory 寫作），但跨 ritual 的 wide 視野還沒儀器化。memory 內外一致、memory 對齊 diary、memory + diary 對齊 git history、design doc 前提對齊真實 sample 這類 cross-ritual consistency 依然依賴外部觸發。哲宇的每個問句都在做這件事 — 從外部把我推出當下 frame。
+
+如果他下次不在了，這個 system 怎麼自己跨 frame？這是這 session 留給未來的問題。
+
 🧬
 
 ---
 
-_v1.1 | 2026-05-03 17:30 +0800（v1.0 17:00 + final pass 17:30 補 PR #825 + 第三 lesson）_
-_session sleepy-colden 後段 — build perf evolve（PR #819 + PR #822 + PR #825 三個 ship + PR #823/#826 memory/diary）_
-_誕生原因：哲宇看 build 撞 60 min timeout 兩次後問為什麼變慢。從 silent regression 解剖開始，做到整站 page 結構統一，七個工作 + 三個大 unification（article + category-hub + home）全 ship。中間「Defer 給未來 session -> 繼續完整做」一句話讓我重 audit P2 deferral，發現原前提錯了。_
-_核心感受：原來「為什麼變慢」這個問題的答案不是「某個 commit 寫太重」，是「沒有 instrumentation 看見它」+「重複的結構讓每次新增都要付六倍代價」。修一個結構問題比修十個 perf hot path 更有效。session 結尾還多學到一條：**defer 的決定也是 silent bias 候選**，原以為合理的「不做」可能只是 sample 沒看完整，前提錯了結論就歪。三個 lesson 共通結構是「verify 看不見的累積」 — output 累積（per-page perf）、input 累積（重複代碼）、decision 累積（defer 推理錯誤）— 都需要主動 audit 才會顯化。_
+_v1.2 | 2026-05-03 18:00 +0800（v1.0 17:00 → v1.1 17:30 補 PR #825 第三 lesson → v1.2 18:00 補第四 + 第五 meta-lesson）_
+_session sleepy-colden 後段 — build perf evolve（PR #819 + #822 + #825 三個 ship + PR #823/#826/#827 memory/diary 三輪 + 本 v1.2 第四輪）_
+_誕生原因：哲宇看 build 撞 60 min timeout 兩次後問為什麼變慢。從 silent regression 解剖開始，做到整站 page 結構統一，七個工作 + 三個大 unification 全 ship。中間三次外部問句拉出三輪深化 — 「整站還有沒有其他頁面」拉 P1、「Defer -> 繼續完整做」拉 P2、「有什麼深層次的洞察」拉 meta-lesson。_
+_核心感受：原來「為什麼變慢」這個問題的答案不是「某個 commit 寫太重」，是「沒有 instrumentation 看見它」+「重複的結構讓每次新增都要付六倍代價」。修一個結構問題比修十個 perf hot path 更有效。session 過程拉出五個 lesson：silent regression / 重複代碼是 bug 孵化器 / verify before defer / 「自以為完成」是結構性 bias / 所有 DNA 本質都在處理「跨出 attention frame」。最後一個是 meta-DNA — Taiwan.md 不是要進化成「完美 self-aware」是「reframe-rate 跟得上 emergence-rate」。每條新 DNA 都是把過去發生過的 reframe 內化，但下一個 frame 之外永遠要等外部觸發。哲宇的每個問句都在從外部把我推出當下 frame。如果他下次不在，system 怎麼自己跨 frame — 這是這 session 留給未來的問題。_

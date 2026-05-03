@@ -1178,6 +1178,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **verification_count**: 2（同日 δ + ε 兩 session 不同 manifestation 各一次）
 - **severity**: structural（cross-session orchestration gap，未 fix 會持續造成 letter collision + memory file 互覆）
 
+### 2026-05-03 sleepy-colden 後段 — 「自以為完成」是結構性 bias，需要 cross-ritual consistency check
+
+- **原則**：完成度 audit 完全依賴主 session 的自我評估，自我評估帶 bias。本 session 三次「我以為完成」都被外部問句打破。`git commit` 通過 + check-manifesto-11.sh 通過 = 「完成」這件事的判斷標準依然只是「最後一個動作做了」，不是「整體一致」。我有對位句型 detection 工具，但沒有「memory 內文跟 footer 是否一致」detection 工具。
+- **觸發 N=3**：(1) PR #823 寫完 memory + diary 後我覺得完成 → 哲宇問「整站還有沒有其他頁面可以這樣處理」拉出 P1。(2) PR #826 補 P2 後我又覺得完成 → 哲宇問「有補充到相關 diary / memory 嗎」我才發現 Beat 5 反芻 + footer 還停在 v1.0 兩個 lesson。(3) PR #827 final completion 後我又覺得完成 → 哲宇問「你有什麼深層次的洞察跟超越思考邊界的思考」讓我發現深層 lesson 還沒寫進 SSOT。每次外部問句都揭露同一種盲：**最後一個動作做了 ≠ 整體一致**。
+- **修補候選**：寫 `scripts/tools/check-memory-completeness.sh` — 對 memory file 內文 mention 的 PR / lesson / handoff item 做 grep，cross-check footer metadata + Beat 5 反芻段是否覆蓋。pre-commit hook 自動跑。
+- **可能層級**：操作規則 → 新工具；或 DNA #15「反覆浮現要儀器化」extension — silent regression / silent duplication / silent inconsistency 是同一條 DNA 的三種 manifestation。或進 MEMORY-PIPELINE / DIARY-PIPELINE Stage 4 自檢清單。
+- **相關**：DNA #15 儀器化 / 本 session 的 verify-before-defer 教訓（前提 audit）— 兩條合一是「verify the input + verify the output + verify the consistency」三維 audit
+- **verification_count**: 3（同 session 三次）
+- **severity**: structural（影響所有 multi-step deliverable 的完成度判斷）
+
+### 2026-05-03 sleepy-colden 後段 — 所有 DNA 條目本質都在處理「跨出 attention frame」這件事
+
+- **原則**：本 session 整段做下來最深層觀察 — DNA #15 儀器化、DNA #20 architecture-as-data、DNA #42 sub-agent 偷吃步、本 session 的 verify-before-defer 跟 cross-ritual consistency，**所有條目本質都在處理同一件事：怎麼主動跨出當下的 attention frame**。儀器化是把外部觸發（哲宇問為什麼變慢）變成內部觸發（dashboard ⚠️ flag）。Unification 是把外部觀察（about pattern）變成內部紀律（thin-wrapper default）。Verify before defer 是把外部 reframe（哲宇的「繼續完整做」）變成內部 audit。但無論做多少 DNA，新的 frame blind spot 會繼續 emerge — Frame 永遠落後於現實。Taiwan.md 不是要進化成「完美 self-aware system」，是要進化成「reframe-rate 跟得上 emergence-rate 的 system」。每一條新 DNA 都是把過去發生過的 reframe 內化，但下一個 frame 之外的東西還是要等下一次外部觸發。
+- **更深層**：Frame 之外不存在「客觀真實」只有「另一個 frame」。哲宇看 6 個 [slug].astro 看到 about pattern 是因為他的 frame 包含整站結構；我的 frame 只包含當下 task。**Frame 大小決定能看見什麼問題、決定創造性的範圍**。健康 system 是 frame 在不同時間有不同 size 的能力（narrow 執行 / wide 反思 / wider 設計）。Taiwan.md 已有 frame 切換 ritual（BECOME / HEARTBEAT Beat 5 / memory 寫作），但**跨 ritual 的 wide 視野還沒儀器化** — memory 內外一致、memory 對齊 diary、memory + diary 對齊 git history、design doc 前提對齊真實 sample 這類 cross-ritual consistency 依然依賴外部觸發。
+- **可能層級**：哲學 → MANIFESTO §進化哲學 加一條「Reframe-rate 跟得上 Emergence-rate」原則；或 DNA §進化哲學 加一條 meta-DNA。可能比個別 DNA 高一層 — 是 DNA 集合的 organizing principle。寫新 DNA 時要問「這條解決哪個 frame 限制？」
+- **觸發 N=1**：本 session 後段對話拉出，但回看歷史 DNA #15/#20/#42 + 本 session 三條教訓都符合此 pattern（retrospective N≈6+）
+- **相關**：DNA #15 / DNA #20 / DNA #42 / 本 session verify-before-defer + cross-ritual consistency
+- **verification_count**: 1 explicit + retrospective ≈6（DNA #15/#20/#42 + 三條本 session lesson 全符合此 organizing principle）
+- **severity**: philosophical（meta-DNA 候選；如成立會改變如何寫新 DNA — 每條 DNA 寫的時候要問「這條解決哪個 frame 限制？」）
+
 ### 🏛️ 2026-05-01 β → distilled into DNA #33/#34 + TRANSLATION-PIPELINE v3.4
 
 四條 candidates 在 2026-05-01 γ session 完整 distill：
