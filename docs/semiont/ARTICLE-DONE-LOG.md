@@ -42,6 +42,19 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 鄭文琦 NEW — 2026-05-04 angry-shamir 完成（把台灣藝術圈推進馬來群島的 12 年 / People）
+
+- **Article**: [knowledge/People/鄭文琦.md](../../knowledge/People/鄭文琦.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（NML peer ingestion Stage 6 P0 #1，第三 curation-layer peer 第一篇文章）
+- **核心矛盾**：鄭文琦自願選擇邊陲 12 年，這個選擇讓他看見台灣藝術圈看不見的事 — 但邊陲視角也有自己的盲點：當大主題（群島）已經講完，平台會跟著一起老去
+- **Hook**：2017-05 周盈貞抵達台北成為《數位荒原》駐站第一位邀請藝術家，發表會放她跟婆婆用潮州話祈福「闔家平安、家孫平安、出入平安、遇見好人」 — 策展人那個下午沒有站在舞台中央
+- **品質**：153 行 / ~3500 字 / 20 footnote / 0 §11 violations / 0 BAD_FN_FORMAT / 0 wikilink 殘留
+- **Research**: [reports/research/2026-05/鄭文琦.md](../../reports/research/2026-05/鄭文琦.md)（621 行 / 12 WebSearch + 8 WebFetch + 5 local Read / 5 NML 語料外新素材）
+- **NML peer 引用紀律**：DNA #16「Peer 是 peer 不是 source」應用 — 88% 編輯集中度警示 / 多元 cite 區秀詒 / 高森信男 / 王柏偉等 secondary editors / 6 條鄭文琦本人逐字引語都對 source URL Ctrl-F 可驗
+- **Stage 3.5 FACTCHECK 抓 2 hallucination**：「六十多人到場」(unsourced) 移除 +「區秀詒等第一年駐站」(實為周盈貞 + 符芳俊) 修正
+- **Stage 5 cross-link**: 補進當代藝術.md（PASS sibling）；台灣新媒體藝術 / 台灣聲音地景 / 台灣策展人與藝術文化建構 / 台灣原住民當代藝術 因 pre-existing §11 violations 或 NO_READING DEFER（per §5.1）
+- **Commit**: `99234cdb2`
+
 ### 卓榮泰 NEW — 2026-05-03 gallant-payne 完成（38 年的協調者，2025 不副署財劃法 / People）
 
 - **Article**: [knowledge/People/卓榮泰.md](../../knowledge/People/卓榮泰.md)
