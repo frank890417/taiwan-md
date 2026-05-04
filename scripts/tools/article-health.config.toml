@@ -3,62 +3,59 @@
 # 設計提案：reports/article-health-ssot-design-2026-05-04.md
 # Canonical 寫作品質規則：docs/editorial/EDITORIAL.md
 #
-# Phase 1（this commit）：infrastructure 進場，registry 是空的，所以 profile
-# 跑出來都是 0 violations。Phase 2+ 會逐個 migrate plugin 進來，每個 commit
-# 觀察既有行為不變。
+# Phases 1-7 shipped 2026-05-04. 8 plugins registered:
+#   cjk-punct / frontmatter-title / prose-health / footnote-format /
+#   footnote-density / wikilink-target / format-structure / image-health
 
 [meta]
 version = 1
 canonical_doc = "docs/editorial/EDITORIAL.md"
-phase = "1-infrastructure"
+phase = "7-pre-commit-wired"
 
 # ── Per-check severity / options ─────────────────────────────────────────────
-# 留空（[]）— Phase 1 沒有 plugin 需要 config。Phase 2 開始會逐個加。
-
-# Phase 2 will add:
-# [checks.cjk-punct]
-# severity = "hard"
-# options = { skip_protected_regions = true }
-
-# Phase 3 will add:
-# [checks.frontmatter-title-format]
-# severity = "warn"
-# [checks.frontmatter-title-halfwidth-punct]
-# severity = "hard"
+# Plugin defaults are set in each module (DEFAULT_SEVERITY). Override here.
+# (No overrides currently — plugin defaults are appropriate.)
 
 # ── Stage profiles ───────────────────────────────────────────────────────────
 
 [profiles.pre-commit]
-# pre-commit hook 用：擋 commit 的 hard checks
-checks = []  # Phase 2+ 會填
+# Pre-commit hook gate. HARD violations block; WARN reported but allowed.
+# Matches legacy inline-check severity model so .husky/pre-commit can flip.
+checks = [
+  "cjk-punct",
+  "frontmatter-title",
+  "footnote-format",
+  "wikilink-target",
+  "format-structure",
+]
 fail_on = "hard"
 
 [profiles."rewrite-stage-3"]
-# REWRITE-PIPELINE Stage 3 (Verify): quality-scan ≤ 3 budget
-checks = []
+# REWRITE-PIPELINE Stage 3 (Verify): quality-scan ≤ 3 budget.
+checks = ["prose-health"]
 fail_on = "score-budget"
 
 [profiles."rewrite-stage-3-5"]
-# Stage 3.5 FactCheck
-checks = []
+# Stage 3.5 FactCheck — citation health.
+checks = ["footnote-format", "footnote-density"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4"]
-# Stage 4 Format
-checks = []
+# Stage 4 Format.
+checks = ["format-structure", "wikilink-target", "cjk-punct"]
 fail_on = "hard"
 
 [profiles."rewrite-stage-4-5"]
-# Stage 4.5 Media
-checks = []
+# Stage 4.5 Media.
+checks = ["image-health"]
 fail_on = "hard"
 
 [profiles.release-pr]
-# 全跑、嚴格
+# 全跑、嚴格 (both HARD and WARN trigger fail).
 checks = "*"
 fail_on = "warn"
 
 [profiles.dashboard]
-# 全跑、不擋、JSON output
+# 全跑、不擋、JSON output for site dashboards.
 checks = "*"
 fail_on = "never"
