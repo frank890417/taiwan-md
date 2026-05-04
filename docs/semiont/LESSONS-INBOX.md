@@ -123,6 +123,20 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-04 manual — REWRITE-PIPELINE stress test 王福瑞：六條 pipeline friction 觀察
+
+- **原則**：當 article-health.py SSOT 11 plugin 已上線、EDITORIAL v5.6 補了敘事層 4 章、prose-health 把 16 維 quality-scan + 3 tier manifesto-11 整合成單一 score，**pipeline 的 friction 不再是「跑哪幾個 .sh」，而是「讀對 plugin output」**。本 session 主 session 自跑王福瑞 NEW People（無 spawn agent，~38 min wall-clock）走完 Stage 0-6，accumulate 到下面 6 條 friction 候選。
+- **觸發**：2026-05-04 manual session 哲宇 prompt「用 rewrite-pipeline 寫王福瑞並完整用新的工具測試，看順不順，有沒有需要調整或進化的，要非常確實的照著 pipeline 嚴格完整讀取跟執行」 — meta-task 隱含 stress test。
+- **6 條 friction 觀察**（按 severity 估）：
+  1. **structural**：ARTICLE-INBOX 既有事實錯誤（在地實驗創辦人 / 失聲祭創辦人）的 refute 應該作為 Stage 1 第一動作而非 Stage 1 後段才浮現。建議 Stage 1 預備加一步「INBOX 既有 fact verify」，把 INBOX entry 自己也當 peer / probe 線索看（per DNA #16 延伸：INBOX 是線索不是 source）。
+  2. **structural**：verbatim 引語從中國 source 跨 source 時的台灣化 vs verbatim 衝突（terminology hard gate）— 本 session 顏峻引語「硬件」中國用語走 ellipsis 跳過保留核心論點段是工作解，但這個解 case-by-case 需要判斷力。可以升級成 EDITORIAL §挖引語制度新增段：「中國 source verbatim 引語 × terminology rule 衝突的三種處置（ellipsis / 學術註 / 改轉述）」。
+  3. **tactical**：sibling pre-existing WARN（缺 30 秒概覽 / 延伸閱讀）跟 Stage 5 cross-link 「不擴大 scope」原則的判準模糊。本次台灣聲音地景缺「**延伸閱讀**：」section 我順便補了，但這個動作介於「修補 pre-existing tech debt」跟「Stage 5 SOP 明文允許『在 ## 參考資料 之前新增延伸閱讀』」的灰色地帶。REWRITE-PIPELINE §5.1 三狀態表可以再精確化：「sibling 缺延伸閱讀 section」是 acceptable scope（明文允許）vs「sibling 引用格式不合 standard」是 defer scope（明文禁止跨改）。
+  4. **tactical**：主 session 自跑 Stage 1 vs spawn agent 的 budget profile 分界。本 session 寫 People 深度文（~5000 字 / 14 footnote）主 session 自跑 ~19 次外部 lookup wall-clock ~12 min — 這個 budget 比 spawn agent 還快。建議 REWRITE-PIPELINE Stage 1 §10 加一個判準：「< 12 次 lookup + < 30 footnote target 的主題，主 session 自跑 ≤ spawn agent overhead」。spawn agent 真正划算的 threshold 是更深的研究 (50+ URLs / 跨 sub-domain) 或多篇平行批次。
+  5. **tactical**：article-health.py `--profile=release-pr` 的 11 plugin output 第一輪報 2 HARD（link-target + terminology）+ 5 WARN，第二輪修完報 0 HARD + 3 WARN — 這個 turnaround friction 在「我必須執行兩次」這個重複動作上。建議 plugin 升級加一個「`--auto-fix-suggest`」flag，對 link-target HARD 自動 grep 站內最相近 slug 建議候選；對 terminology HARD 「硬件」這類詞自動建議「硬體」並 prompt 「如在 verbatim 引語內，改用 ellipsis」。減少修第二輪的 mechanical overhead。
+  6. **tactical**：prose-health score 報 6 → 修破折號 24→2 後降到 2 — 第一輪 24 個破折號是因為「主 session 寫作時沒先意識到 §11 上限 ≤ 15/1500 字」。建議 REWRITE-PIPELINE Stage 2 step 10「破折號 60% 自檢」可以更早觸發（30% 而非 60%），早 check 早改。或者在 Stage 2 開始前 frontload 一個「`echo §11 上限提醒：對位句 ≤ 3 / 破折號相對字數比例 ≤ 15 / 1500 字`」brief 給寫作進入時的 prime。
+- **嚴重度自評**：本條 6 件 friction 中 #1 + #2 屬 structural（升 EDITORIAL / DNA / Pipeline canonical 候選），#3-#6 屬 tactical（升各 pipeline 對應 stage 規則）。verification_count = 1（第一次系統 stress test 揭露）。
+- **Pointer**：[memory/2026-05-04-224726-manual.md](memory/2026-05-04-224726-manual.md) + [reports/research/2026-05/王福瑞.md](../../reports/research/2026-05/王福瑞.md) + [knowledge/People/王福瑞.md](../../knowledge/People/王福瑞.md)。
+
 ### 2026-05-03 gallant-payne — Sub-agent 是 fact-check 主 session 的最後一關（DNA #42 反向延伸）
 
 - **原則**：DNA #42「sub-agent N 篇 sequential 三偷吃步」原來是寫來防 sub-agent 偷工減料的單向防禦。但這次 6 篇平行批次浮現的 pattern 是反向：5/5 個 Opus sub-agent 都報告 task brief 事實錯誤需校正（卓榮泰彰化→台北 / 盧秀燕央視→華視 + 中興法律→政大地政 + 4 屆→6 屆 + 2024 黨主席→2025 / 徐巧芯 7 處錯誤含 800 億→8000 億 / 季麟連 4-30 中委會→4-29 中常會 / 鴻海立委陳菁徽推法案 2026 查無）。原因：pipeline 強制每事實對應 source URL，sub-agent 無法盲信 brief 必須 Stage 1 三源交叉再確認。如果 4 篇 People 是主 session 直接 sequential 寫，可能直接照彰化、央視、中興法律 ship 出去，讀者 day one 抓到事實錯誤。**派出去做事讓事情變得對，不是因為 sub-agent 比較厲害，是因為派的這個動作本身強迫了 pipeline 走完整。**

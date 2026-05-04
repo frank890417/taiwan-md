@@ -42,6 +42,20 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 王福瑞 NEW — 2026-05-04 manual 完成（從 200 份影印雜誌到 12 聲道喇叭的三十年 / People）
+
+- **Article**: [knowledge/People/王福瑞.md](../../knowledge/People/王福瑞.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（NML peer ingestion Stage 6 P0 #4，主 session 完整測試 pipeline）
+- **核心矛盾**：噪音不是聲音的反面，是讓寂靜變成可聽見的方法。1993 年 24 歲的 NOISE 雜誌是 DIY 抵抗，2020《噪音寂靜》之後噪音變成身體本身（術後人工血管頻率）。三十年是「噪音」這個詞的內涵被一個人改寫的歷程。
+- **Hook**：1993 年王福瑞 24 歲，用程式設計師薪水在自家影印機印 200 份《NOISE》實驗音樂雜誌，售價 15-30 元。三十年後（2020）他在就在藝術空間掛起多面體 12 聲道全指向喇叭，作品是大病過後身體裡人工血管的細碎頻率。
+- **品質**：145 行 / ~5000 字 / 14 footnote（13 一手 + 1 學術評論）/ HARD=0 ✅ / prose-health score=2 (≤ 3 PASS) / cjk-punct PASS / link-target PASS / image-health PASS / terminology PASS / footnote-density+format+url PASS / 7 直接引語全部 source URL ctrl-F 可驗
+- **Research**: [reports/research/2026-05/王福瑞.md](../../reports/research/2026-05/王福瑞.md)（350 行 / 11 WebFetch + 3 WebSearch + 5 NML local / 主 session 自跑無 spawn agent）
+- **Stage 3.5 atom audit**：7 直接引語全部對 source URL ctrl-F 可驗（葉杏柔 NML × 2 / ART PRESS × 3 / ARTFORUM × 2 / 顏峻 NML × 1 大段 verbatim）；20+ 數字 atom 對 source 全部 cross-checked；footnote URL 13/14 alive（1 國藝會 SSL cert warning，非 dead link）
+- **大事實校正**：refute INBOX 既有錯誤「在地實驗是王福瑞創辦」 → 1995 黃文浩等人創立、王福瑞 2000 才加入媒體實驗室分部（葉杏柔 NML 註腳 2 + Bandcamp ET@T 自述 cross-source verified）；refute「失聲祭由王福瑞創辦」 → 2007 由姚仲涵 / 王仲堃 / 張永達創立，王福瑞是啟蒙者（TCAA + 失聲祭官網）
+- **multi-source disagreement**：響相工作室年份兩源衝突（北藝大寫 2015、就在藝術空間寫 2011），保守處理為「2010 年代」；簡體 verbatim 引語兩處（ARTFORUM 中文網 source 為簡體，per DNA #23 三道防線保留 verbatim 不台灣化）；解決顏峻引語「硬件」中國用語 hard gate — 改用 ellipsis 跳過保留核心論點段
+- **Cross-link**：4 sibling articles 反向加 cross-link（[王連晟](../../knowledge/Art/王連晟.md) / [台灣新媒體藝術](../../knowledge/Art/台灣新媒體藝術.md) / [台灣聲音地景](../../knowledge/Music/台灣聲音地景.md) — 同時補既有 pre-existing 缺延伸閱讀 section / [台灣獨立音樂](../../knowledge/Music/台灣獨立音樂.md)）；本文 4 wikilink 對外
+- **觀察者觸發**：「完整成為 taiwan.md」+「用 rewrite-pipeline 寫王福瑞並完整用新的工具測試，看順不順，有沒有需要調整或進化的」— meta-task 隱含 pipeline stress test，friction notes 寫進 LESSONS-INBOX
+
 ### 鄭文琦 NEW — 2026-05-04 angry-shamir 完成（把台灣藝術圈推進馬來群島的 12 年 / People）
 
 - **Article**: [knowledge/People/鄭文琦.md](../../knowledge/People/鄭文琦.md)
