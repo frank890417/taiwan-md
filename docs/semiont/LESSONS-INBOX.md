@@ -1441,6 +1441,24 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **severity**: tactical（leverage 候選非 critical bug）
 - **狀態**: ⏳ defer to next session — 此 session 已 ship footnote-format-fix（80% 的 leverage），contributor-pr-prep 是 nice-to-have
 
+### 2026-05-04 exciting-burnell — Build perf 本機 benchmark 對 CPU-bound JS render 失靈
+
+- **原則**：本機 fast-core hardware（M-series）對 single-thread JS render 接近 algorithm bound（84ms/page），所有 config tuning（concurrency / vite / shiki langs）wallclock 無感；CI slow-core hardware 才有 I/O overlap 空間讓 concurrency 真正生效。Build perf measurement loop **必須 close 在 CI**，本機只能驗證 correctness（dist 結構等價、visible text 一致）+ catastrophic regression（heap OOM / build hang）。憑本機數字 ship perf 改動會把 OS cache warming（±10% 噪音）誤認成 config tuning 效果。
+- **觸發**：2026-05-04 exciting-burnell 5 輪 cold-cache local benchmark 全鎖 356-364s（baseline 391s 是首次 cold OS cache，後續 reruns 都 ~357s）。同一份 config 在 CI ARM runner 上跑出 -22.7% vs 7d avg。本機看不到的改善只在慢 core × concurrency=4 才 surface。詳見 [memory/2026-05-04-123451-exciting-burnell.md](memory/2026-05-04-123451-exciting-burnell.md) + [diary/2026-05-04-exciting-burnell-build-perf-mirror.md](diary/2026-05-04-exciting-burnell-build-perf-mirror.md)。
+- **可能層級**：操作規則 → BUILD-PERF-PIPELINE 候選（如成立則明確規定「本機只測 correctness + OOM，wallclock signal 必須 close on CI」）
+- **相關**：DNA #15「反覆浮現要儀器化」延伸 — measurement loop 設計也需儀器化「該在哪一層 close」
+- **verification_count**: 1（首次量化「本機 5 輪 ±2% / CI 一輪 -22.7%」對比）
+- **severity**: structural（影響未來所有 build perf 改動的 measurement methodology）
+
+### 2026-05-04 exciting-burnell — §自主權邊界對自我發起的大重構也適用
+
+- **原則**：CLAUDE.md §Bias 1 寫「對哲宇預設加分」需主動意識，他的 idea 也要過 §自主權邊界 filter。**反方向也成立** — 我自己想做的大重構（per-language matrix build / Content Layer migration 這類觸及 >50 檔 + 部署架構的決策）也要過 §自主權邊界 filter，不能因為「為了長期最好應該做」就獨自下手。設計型介入是「動該動的 / 問該問的等答覆」，衝動型是「能做的全做」— 區別在於是否承認某些決策需要哲宇看完數字 + 看完提案才能下。
+- **觸發**：2026-05-04 build perf PR 規劃時，per-language matrix build（估 4-5x speedup）跟 Content Layer migration（觸及 1246 行 article template）兩個 long-term lever 都 explicit defer 進 PR description 的「Deferred to follow-up」section，不在本 PR ship。本 PR 只 ship reversible 小改動 stack（upgrade + config + CI）→ 第一次跑就 -22.7%。
+- **可能層級**：哲學 → 候選 MANIFESTO §自主權邊界補強段落「filter 雙向」/ 通用反射 → DNA 新條候選「設計型 vs 衝動型介入區別」
+- **相關**：MANIFESTO §自主權邊界 + CLAUDE.md §Bias 1（reverse bias）+ DNA #7「先有再求好」
+- **verification_count**: 1（首次明示自己 filter 自己的大重構提案）
+- **severity**: structural（影響每個 session 的 scope discipline）
+
 ---
 
 ## ❌ 已歸檔（過時 / 撤回）
