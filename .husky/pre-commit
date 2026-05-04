@@ -268,14 +268,35 @@ fi
 # 為什麼：缺 URL = 未來 harvest 無法跑 = 孢子成效追蹤永久失效
 # 教訓觸發：#1/#2/#3/#12 歷史孢子無 URL → batch harvest 時發現已永久失去追蹤能力
 # SOP canonical：docs/factory/SPORE-HARVEST-PIPELINE.md Step 1
+#
+# 2026-05-04 zen-mendeleev fix：原版只看 `+` 行，prettier auto-format 整個
+# table 時所有 row 都會以 `+/-` pair 重寫一次，誤判已存在 row 為新增。
+# 改成「比對 spore # 是否在 HEAD 已存在」— 已存在的 # 屬於 reformat，跳過；
+# 只有 # 全新才 enforce URL。
 if git diff --cached --name-only | grep -q "^docs/factory/SPORE-LOG.md$"; then
+  # Build set of spore # 在 HEAD 已存在（reformatted rows 不該被 flag）
+  head_nums=$(git show HEAD:docs/factory/SPORE-LOG.md 2>/dev/null \
+    | grep -E '^\|[[:space:]]*[0-9]+[[:space:]]*\|' \
+    | awk -F'\\|' '{ n=$2; gsub(/[[:space:]]/,"",n); print n }' \
+    | sort -u \
+    | tr '\n' ' ')
   # 抓剛 staged 的新增行（僅加號行，排除 diff header）
   # 目標：發文紀錄 table row 若含日期(YYYY-MM-DD) + 平台(Threads|X|...)
-  # 但 URL 欄位是 `—` / 空白 / no-data → 擋下
+  # 但 URL 欄位是 `—` / 空白 / no-data 且該 # **不在** HEAD set → 擋下
   added_bad=$(git diff --cached --unified=0 docs/factory/SPORE-LOG.md \
     | grep -E '^\+\|[[:space:]]*[0-9]+[[:space:]]*\|' \
     | grep -E '\|[[:space:]]*(Threads|X|threads|x)[[:space:]]*\|' \
-    | awk -F'\\|' '{ for(i=NF;i>=1;i--){ url=$i; gsub(/^[[:space:]]+|[[:space:]]+$/, "", url); if(url != "") break }; if (url == "—" || url == "-" || url == "no-data" || url == "no-url") print $0 }' \
+    | awk -F'\\|' -v head_nums=" $head_nums " '
+        {
+          n = $2; gsub(/[[:space:]]/, "", n);
+          if (index(head_nums, " " n " ")) next;  # already in HEAD = reformat, skip
+          for (i = NF; i >= 1; i--) {
+            url = $i;
+            gsub(/^[[:space:]]+|[[:space:]]+$/, "", url);
+            if (url != "") break;
+          }
+          if (url == "—" || url == "-" || url == "no-data" || url == "no-url") print $0
+        }' \
     || true)
   if [ -n "$added_bad" ]; then
     echo ""

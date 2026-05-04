@@ -70,6 +70,27 @@ fi
 REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 cd "$REPO_ROOT"
 
+# ── Detect dev port from .claude/launch.json ────────────────────────────────
+# 為什麼：launch.json 是 Claude Preview 的 SSOT，工程師可能改 port 避衝突。
+# wrapper 寫死 4321 會跟非預設 port 跑的 dev server 失準（黃魚鴞 #59 教訓：
+# 4322 dev server 跑著、wrapper 連 4321 拿到別 instance 的 404 → 圖全錯）。
+# 找 name=="taiwan-md" 的 config 取 port，找不到 fallback 4321。
+DEV_PORT=4321
+if [[ -f .claude/launch.json ]]; then
+  detected=$(python3 -c '
+import json, sys
+try:
+    cfg = json.load(open(".claude/launch.json"))
+    for c in cfg.get("configurations", []):
+        if c.get("name") == "taiwan-md" and c.get("port"):
+            print(c["port"]); sys.exit(0)
+except Exception:
+    pass
+' 2>/dev/null || true)
+  [[ -n "$detected" ]] && DEV_PORT="$detected"
+fi
+DEV_BASE="http://localhost:${DEV_PORT}"
+
 # ── Extract slug (shared across sizes) ──────────────────────────────────────
 BASE_GEN_ARGS=()
 if [[ "$TARGET" == http* ]]; then
@@ -80,13 +101,14 @@ else
   SLUG="$(echo "$TARGET" | sed -E 's|.*/([^/]+)/?$|\1|')"
 fi
 [[ $USE_PROD -eq 1 ]] && BASE_GEN_ARGS+=(--prod)
+[[ $USE_PROD -eq 0 ]] && BASE_GEN_ARGS+=(--base "$DEV_BASE")
 [[ -n "$TITLE_OVERRIDE" ]] && BASE_GEN_ARGS+=(--title "$TITLE_OVERRIDE")
 [[ -n "$DESC_OVERRIDE" ]] && BASE_GEN_ARGS+=(--desc "$DESC_OVERRIDE")
 
 # ── Check dev server is up (skipped when --prod) ────────────────────────────
 if [[ $USE_PROD -eq 0 ]]; then
-  if ! curl -sI -o /dev/null --max-time 3 http://localhost:4321/; then
-    echo "⚠️  dev server 沒在跑（http://localhost:4321）" >&2
+  if ! curl -sI -o /dev/null --max-time 3 "$DEV_BASE/"; then
+    echo "⚠️  dev server 沒在跑（$DEV_BASE）" >&2
     echo "    先在另一個 terminal 跑: npm run dev（或用 --prod 直接打 taiwan.md）" >&2
     exit 3
   fi
