@@ -92,6 +92,20 @@ fi
 # 檢查器：scripts/tools/check-cjk-punct.py
 # 智慧排除：fenced code / inline code / URL / HTML attr / 1,800 等 intra-number
 # 修法：python3 scripts/tools/check-cjk-punct.py --fix <file> （自動轉換）
+# ═══ article-health SSOT shadow run（2026-05-04 Phase 7 新增）═══
+# 8 個 plugin 統一入口跑 staged zh-TW knowledge .md，warn-only 不擋 commit.
+# Phase 8+ 觀察 30 天再考慮 promote 成 hard gate（取代下面這些 legacy 步驟）.
+# 詳見 reports/article-health-ssot-design-2026-05-04.md.
+if [ -n "$staged_md" ]; then
+  if ! python3 scripts/tools/article-health.py --staged --profile=pre-commit --quiet 2>/dev/null; then
+    # SSOT 偵測到的 hard violation — INFORMATIONAL 顯示，不擋 commit
+    echo ""
+    echo "ℹ️  SSOT (article-health) 報告 hard violation — 此階段為 shadow run，"
+    echo "   仍會由下方 legacy 檢查正式 gate。要看明細："
+    echo "   python3 scripts/tools/article-health.py --staged --profile=pre-commit"
+  fi
+fi
+
 if [ -n "$staged_md" ]; then
   if ! python3 scripts/tools/check-cjk-punct.py --staged --quiet; then
     echo ""

@@ -35,8 +35,11 @@ _RE_FURTHER_READING = re.compile(
     r"^(?:##\s*延伸閱讀|\*\*延伸閱讀\*\*\s*[：:])", re.MULTILINE
 )
 _RE_REFERENCES_H2 = re.compile(r"^##\s*參考資料", re.MULTILINE)
+# Accept both:
+#   > **30 秒概覽**: 內文       (colon outside bold)
+#   > **30 秒概覽：** 內文       (colon inside bold — common in real articles)
 _RE_OVERVIEW_BLOCKQUOTE = re.compile(
-    r"^>\s*\*\*30\s*秒概覽\*\*", re.MULTILINE
+    r"^>\s*\*\*30\s*秒概覽[：:]?\*\*", re.MULTILINE
 )
 _RE_LIST_WIKILINK = re.compile(
     r"^(?:\s*[-*+]\s+)\[\[", re.MULTILINE
