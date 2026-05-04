@@ -6,18 +6,18 @@ import { resolve, join } from 'path';
 import { parse as parseYaml } from 'yaml';
 import { createRequire } from 'module';
 
-// ── Build-time: s2t converter for normalizing china values ────────────────────
-// We use opencc-js at build time to convert any simplified Chinese china values
-// to traditional Chinese, since the frontend OpenCC already converts input text
-// from simplified → traditional before matching against our rules.
+// ── Build-time: s2t + t2s converters for both directions ──────────────────────
+// to.tw is character-variant only (TWVariants — 裡/裏 etc.), not phrase-aware,
+// so 「视频」→「視頻」 (chars only). Phrase substitution would silently
+// replace 「视频」→「影片」 directly, killing detection — so we deliberately
+// stick to to.tw (not to.twp).
 let s2tConverter: ((text: string) => string) | null = null;
+let t2sConverter: ((text: string) => string) | null = null;
 try {
   const require = createRequire(import.meta.url);
   const OpenCC = require('opencc-js');
-  // Converter({from:'cn', to:'tw'}) converts simplified→traditional (Taiwan standard)
-  // This matches what the frontend does before terminology matching
-  // Both build-time and frontend must use the same conversion to ensure rules match
   s2tConverter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+  t2sConverter = OpenCC.Converter({ from: 'tw', to: 'cn' });
 } catch {
   console.warn(
     '[converter.astro] opencc-js not available, china values may not match simplified input',
@@ -28,6 +28,15 @@ function toTraditional(text: string): string {
   if (!s2tConverter) return text;
   try {
     return s2tConverter(text);
+  } catch {
+    return text;
+  }
+}
+
+function toSimplified(text: string): string {
+  if (!t2sConverter) return text;
+  try {
+    return t2sConverter(text);
   } catch {
     return text;
   }
@@ -103,11 +112,16 @@ for (const file of files) {
       if (chinaCleaned.startsWith('N/A') || chinaCleaned.startsWith('（無'))
         continue;
 
-      // Step 2: Normalize to traditional Chinese so it matches
-      // the frontend's OpenCC-converted input text
+      // Step 2: Normalize to traditional + derive simplified form so we
+      // detect both regardless of input shape and regardless of whether
+      // the frontend OpenCC has finished loading.
+      // YAML files are stored in traditional Chinese, so chinaCleaned ===
+      // chinaTraditional in practice — we cannot rely on cleaned !== trad
+      // to gate the simp rule. Instead actively generate simp via t2s.
       const chinaTraditional = toTraditional(chinaCleaned);
+      const chinaSimplified = toSimplified(chinaTraditional);
 
-      // Add rule for the traditional form (the primary matching source)
+      // Add rule for the traditional form (primary matching source)
       if (!seenSources.has(chinaTraditional) && chinaTraditional !== target) {
         rules.push({
           source: chinaTraditional,
@@ -119,10 +133,29 @@ for (const file of files) {
         seenSources.add(chinaTraditional);
       }
 
-      // If the original simplified form differs from traditional, also add
-      // a fallback rule for the simplified form (for when OpenCC is unavailable)
+      // Add simplified-form fallback rule. Critical for when frontend OpenCC
+      // hasn't loaded yet (CDN slow / mobile / strict CSP) — without this,
+      // simplified input can never match the traditional yaml source.
+      if (
+        chinaSimplified !== chinaTraditional &&
+        !seenSources.has(chinaSimplified) &&
+        chinaSimplified !== target
+      ) {
+        rules.push({
+          source: chinaSimplified,
+          target,
+          forkType,
+          category,
+          id: id + '_simp',
+        });
+        seenSources.add(chinaSimplified);
+      }
+
+      // Also keep the original cleaned form if it differs from both
+      // (handles yaml entries that already mix forms)
       if (
         chinaCleaned !== chinaTraditional &&
+        chinaCleaned !== chinaSimplified &&
         !seenSources.has(chinaCleaned) &&
         chinaCleaned !== target
       ) {
@@ -131,7 +164,7 @@ for (const file of files) {
           target,
           forkType,
           category,
-          id: id + '_simp',
+          id: id + '_orig',
         });
         seenSources.add(chinaCleaned);
       }
@@ -183,7 +216,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
 
 <Layout
   title="台灣用語轉換器：中國用語一鍵轉台灣說法"
-  description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。不只轉字形，轉的是語感。`}
+  description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。同步處理字形、詞彙、語感的完整對應。`}
 >
   <!-- Preload OpenCC for faster mobile loading -->
   <link
@@ -225,7 +258,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       </Fragment>
       <Fragment slot="subtitle">
         <span id="header-tagline"
-          >把中國用語轉換為台灣用語——不只是字形，是語感。</span
+          >把中國用語轉換為台灣用語：字形、詞彙、語感的完整對應。</span
         >
       </Fragment>
 
@@ -499,7 +532,15 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       console.warn('OpenCC 載入失敗，僅做用語替換（字形轉換不可用）');
       openccStatus = 'failed';
     }
-    initOpenCC();
+    // Awaitable promise so run() can wait for OpenCC instead of blind 800ms.
+    // initOpenCC never throws (loop catches all CDN errors), so this resolves
+    // once status is 'ready' or 'failed'.
+    const openccReady = initOpenCC();
+    // After OpenCC finishes, re-run conversion if input already has content
+    // (handles: user pastes / clicks example before CDN finishes).
+    openccReady.then(() => {
+      if (inputEl && inputEl.value && inputEl.value.trim()) run();
+    });
 
     // Apply active OpenCC to text outside of HTML tags
     function applyOpenCC(html) {
@@ -819,11 +860,13 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
         return;
       }
 
-      // If OpenCC is still loading, wait a bit and proceed anyway
+      // Wait for OpenCC to finish loading (or fail). The simp fallback
+      // rules baked at build-time make detection mostly work without OpenCC,
+      // but waiting ensures character-variant input still gets normalized.
       if (openccStatus === 'loading') {
         outputEl.innerHTML =
           '<span class="output-placeholder">⏳ 正在載入字形轉換模組…</span>';
-        await new Promise((resolve) => setTimeout(resolve, 800));
+        await openccReady;
       }
 
       const { html, matches, sourceRegions } = convertText(input);
@@ -897,8 +940,8 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       if (headerTagline) {
         headerTagline.textContent =
           newDir === 'cn2tw'
-            ? '把中國用語轉換為台灣用語——不只是字形，是語感。'
-            : '把台灣用語轉換為中國用語——跨海溝通、給對岸朋友看，或反向 pattern 確認。';
+            ? '把中國用語轉換為台灣用語：字形、詞彙、語感的完整對應。'
+            : '對照台灣用語與中國說法：保存在地語感，看見兩邊語言彼此的影響。';
       }
 
       // Update rule count display
