@@ -493,6 +493,10 @@ html.jf-active .hero-title {
 html.jf-active .prose :is(h1, h2, h3, h4, h5, h6) {
   font-family:
     'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+  /* Browser font-weight 600 matches the jinxuanlatte-semibold @font-face
+     registered in Layout.astro (alias 'jf-jinxuanlatte', weight 600).
+     Body 內文 keeps weight 400 (regular). 2026-05-04. */
+  font-weight: 600;
 }
 
 /* ==========================================================================

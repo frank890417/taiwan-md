@@ -190,6 +190,24 @@ const jfClass = [
         'jf-jinxuanlatte',
       ]);
       _jf.push(['_setFont', 'jf-jinxuanlatte-regular', 'weight', 400]);
+      // jinxuanlatte-semibold (weight 600) for article + hub body headings
+      // (.prose h2-h6). 2026-05-04 user 把更多 jinxuanlatte 變體加進 project
+      // 65854 (book/regular/medium/semibold/bold) — 此處挑 semibold 給內文
+      // 標題視覺重量。alias 同 jf-jinxuanlatte，browser 依 font-weight 600
+      // 自動 match 到此變體（regular weight 400 仍給內文）。
+      _jf.push([
+        '_setFont',
+        'jf-jinxuanlatte-semibold',
+        'css',
+        '.prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6',
+      ]);
+      _jf.push([
+        '_setFont',
+        'jf-jinxuanlatte-semibold',
+        'alias',
+        'jf-jinxuanlatte',
+      ]);
+      _jf.push(['_setFont', 'jf-jinxuanlatte-semibold', 'weight', 600]);
       _jf.push([
         '_setFont',
         'jf-lanyanghei-extrabold',
