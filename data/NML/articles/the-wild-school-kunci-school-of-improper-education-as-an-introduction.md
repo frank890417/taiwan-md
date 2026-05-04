@@ -1,0 +1,117 @@
+# The Wild School: KUNCI School of Improper Education
+
+- Source: https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+- Slug: the-wild-school-kunci-school-of-improper-education-as-an-introduction
+- Type: nml-article
+- Published: 2017-11-29
+- Author: 陳湘汶， Zoey Wu (translator)
+- Editor: 鄭文琦
+- NML Category: Opinion
+- Date Text: November 29th, 2017
+- Featured Image: https://www.heath.tw/wp-content/uploads/2017/11/01-dinner-at-SOIE.jpeg
+
+## Excerpt
+
+作為日惹重要的文化研究單位，KUNCI文化研究中心（KUNCI Cultural Studies Center）與其他藝術空間同樣位於日惹南區活動密集的區域，藏身在小巷內並擁有一片大院子和結實纍纍的芒果、紅毛丹。我初次到訪時他們剛整理出一個...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 35 : Nusantara: Signifier and Its Limitation The Wild School: KUNCI School of Improper Education 野生學校—從KUNCI文化研究中心的SoIE計劃談起  November 29th, 2017／ 類型：  Opinion         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/) [https://twitter.com/share?text=The%20Wild%20School%3A%20KUNCI%20School%20of%20Improper%20Education&url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/](https://twitter.com/share?text=The%20Wild%20School%3A%20KUNCI%20School%20of%20Improper%20Education&url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/)   作者：  陳湘汶， Zoey Wu (translator)  ／  編輯： 鄭文琦         KUNCI文化研究中心的SoIE長期項目可以從影響印尼很深的「平民學園」（Taman Siswa）談起。SoIE是一個關於如何共同學習的計劃，成員們實驗各種學習的模式（model），去學習「我們是如何學習的？」這件事。在作者陳湘汶為其研究而進駐爪哇日惹的KUNCI文化研究中心時，正值下半年進行中的第二個學習模式「下放」（turun ke bawah）—這個源自印尼左派的人民文化組織（Lekra）的理念，如何成為年輕藝術團隊實踐的一種學習模式，而這些非正式的學習方法，又如何成為KUNCI這個藝術社群自我組裝的方案？    [![image](https://www.heath.tw/wp-content/uploads/2017/11/01-dinner-at-SOIE.jpeg)](https://www.heath.tw/wp-content/uploads/2017/11/01-dinner-at-SOIE.jpeg) Dinner at SoIE; photo: Chen Hsiang-wen   作為日惹重要的文化研究單位，KUNCI文化研究中心（KUNCI Cultural Studies Center）與其他藝術空間同樣位於日惹南區活動密集的區域，藏身在小巷內並擁有一片大院子和結實纍纍的芒果、紅毛丹。我初次到訪時他們剛整理出一個可供進駐者居住的房間、並可能作為日後展示的小空間。隨著各個計劃的進行，空間的樣貌也處在一個非常有機而彈性的狀態。之後再次拜訪，在大家忙進忙出時我與Syafiatudina（Dina）找到一個還算安靜的位置坐下，請她談談KUNCI從2016年底開始的「KUNCI School of Improper Education」（簡稱SoIE）。
+
+  **走入日常實踐**
+
+ SoIE這個長期的項目可以從影響印尼很深的「平民學園」（*Taman Siswa*）談起。平民學園是一所融合了西方和東方系統的學校，他們著重閱讀、討論，並教授哲學、理論、經濟、政治學等，此外他們也讓學生冥想、畫圖。平民學園以它的宗旨「關懷」（Caring）影響了後來的人們，這個宗旨基於兩個原則：其一是自由作為使身體和靈魂的力量活躍並獨自存在的必要性，第二則是自然作為生存並且快速且適當發展的條件。(註1)
+
+ 由於SoIE是一個關於如何共同學習的計劃，成員們實驗各種學習的模式（model），去學習「我們是如何學習的？」這件事。而每四個模式為一個循環，實驗結束之後會為下個三年再規劃後四個模式，而這也是KUNCI第一次沒有設結束期限的計劃。目前進行中的是2017至2018年，去實驗四種學校的模式，在完成四種模式之後接著進行評估。而每種模式的階段完成後會以書、展覽或活動等等方式來展現成果。
+
+ 今年下半年進行中的是第二個學習模式「下放」（*turun ke bawah*）(註2)發想來自於思考藝術家如何去理解日常社會裡頭如何「鬥爭」（struggle），其為藝術家提供幾項原則，其中之一就是要走入田野並且實踐，與農民一起生活一起工作。在對象面前藝術家不該表現出自己與他們在教育程度上的高下，需要與他們在同個平面上對話。藝術家必須走出自己的圈子，真正進入其他人的生活裡。
+
+ 11月我第二次參加KUNCI的SoIE活動時，聽到了學員*Khairunnisa*（Nisa）分享前個月她註冊成為Go Jek司機的經驗。印尼日常生活有一個非常具特色的運輸系統——機車計程車（Go Jek或Grab Bike等）。相較於計程汽車，機車是更機動而深入小巷的便利交通工具，加上價格低廉，不僅是外來旅客，連當地人也常以計程機車代步；除了載人，也有食物、購物代送的服務。妮莎（Nisa）是一位具文化人類學背景的年輕女生，她回應這次SoIE的主題—藝術家如何走進日常並實踐—選擇直接把自己丟入這個廣大的Go Jek系統成為其中一環。有意成為Go Jek司機者必須先向政府申請到良民證，並傳送到Go Jek總部，大約兩星期的審查後通過才能成為正式司機，接著會收到由總部寄來工作指南、一組Go Jek司機專屬的外套和安全帽，整個過程幾乎都是線上作業，並沒有跟任何真實的人物進行面談或交流，就算某天需要解除合約也是以書面方式進行。
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/11/IMAG1344-1024x576.jpg)](https://www.heath.tw/wp-content/uploads/2017/11/IMAG1344.jpg) Guide of "Go Jack" rider photo: Chen Hsiang-wen   從妮莎的分享裡我們看到完全不同於乘客的手機軟體介面，每個司機的乘客評價星等、車資收入、工作時數等都有專屬的量化量表記錄。而乘客評價的星等會大大影響司機的積分，這也讓我了解為什麼每次司機總是在我下車後，積極提醒我一定要給五顆星的舉動。計程機車司機是一個龐大的群體，不論是Go Jek或Grab Bike，在長期運作下已經發展出一些特殊文化，我曾觀察到他們在某些熱門的叫車點，司機會如同佔據地盤一樣的群聚在那裡，而妮莎也提到司機在社交軟體上設立對話群組，互相分享訊息，以及曾經有過不良記錄的乘客帳號也會通報總公司進行查驗，並由總公司方面允許司機可以拒載該帳號的乘客。
+
+  **模式是方法學、是實驗，也是故事**
+
+ 在開始SoIE項目之前，參與者共同決定主題，決定好四個模式之後進行公開徵選，邀請任何人來提交計劃，並宣告這會是長達一年的計劃，所以邀請任何願意跟KUNCI共同執行這個項目長達一年的朋友們來投件。最終選出了20組申請案並於2016年的11月開始第一個模式的SoIE。第二個項目在今年11月結束，明年將執行的兩個項目，舊成員可以選擇他們是否繼續或終止，而SoIE也將會繼續邀請不同的成員加入。
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/11/02-part-of-going-below-experiment-being-a-school-teacher-1024x768.jpeg)](https://www.heath.tw/wp-content/uploads/2017/11/02-part-of-going-below-experiment-being-a-school-teacher.jpeg) Going below experiment- being a school teacher; photo: Chen Hsiang-wen   SoIE第一學期的課題是關於「平等」，學校裡面師生的平等、機制與學生之間的平等。Dina舉了一個例子關於師生共同學習的案例，在那間學校裡面老師跟學生選擇了一個他們都不熟悉的語言來學習，因為在一般課堂裡老師總是在專業上優於學生，所以學生必須從老師那邊來學習特定的知識，不過如果是雙方都陌生的領域，那麼他們就能夠一起閱讀跟學習。所以在上學期的SoIE他們選擇了手語，所有成員都不懂這個語言的狀況下，他們嘗試幾個學習的方法但最終宣告失敗—仍然沒有任何學員能熟練地運用手語。雖然第一個模式在學習語言的成果上面失敗了，但他們發現在「共同學習」上有其重要—如急迫性（urgency）—為何我們要學這個？為何必須要一起學習？每個個體在共同學習項目中發現什麼興趣？
+
+ 因此這個實驗不只是跟集體意識有關也是對個體有所回饋的。他們不僅在此發展了友誼，一起工作、一起閱讀並且大方分享自己的資源，這樣的過程同時也反映關於集體（Collective）或團隊的意義。
+
+ 當我們提到一個藝術社群的密切合作，這並非印尼或日惹所專屬，從1980年代的替代空間或者藝術家團體組成開始，台灣就已經有許許多多的藝術社群活動。然而為什麼這樣的實踐型態會成為印尼藝術被認知的主要面貌之一，實在是耐人尋味。日惹有許多屬性各異的藝術社群，在Dina去年撰寫〈[【共同課題：印尼】生活與知識的聚合：日惹KUNCI機構如何成為新的學校](https://www.thenewslens.com/article/59828)〉一文中，曾提到關於「集體」的危機：「例如，對集體生產不加思索的偏好，帶來個體與集體的二元對立，更進一步地說，是關於非正式與正式的制衡。舉例來說，藝術團體總被視為比美術館或學院等機構更具有政治批判的魅力。」 (註3)
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/11/04-reading-group-in-SOIE.jpeg)](https://www.heath.tw/wp-content/uploads/2017/11/04-reading-group-in-SOIE.jpeg) Reading group; photo: Chen Hsiang-wen   與Dina相同，我對藝術社群的擔憂便是這些空間作為學院之外的學校（alternative school）是相對於體制內的批判角色，但是當年輕創作者將該社群的理念或創作風格奉為圭臬時，是否將再度陷入另一個霸權的迴圈當中？Dina的回應是，日惹的社群各自有其特徵，或者他們各有自己的技術和語彙，所以在日惹並沒有掌握唯一話語權者；或者說它是有很多微型中心的地方。於是，我接著詢問如果「集體」作為研究者或策展人的對象，那麼藝術家個體在其中的位置為何—或者說藝術家成為社群成員的必要性何在？
+
+ 其實與台灣相同，早期印尼並沒有很多的美術館或者畫廊。因此藝術家必須要自己去創造展出的機會，要為自己打造展覽的空間，最可能的是與其他人合作（分租），直接擁有展覽的空間；這解釋了藝術空間在印尼蓬勃出現的原因。因此至少到現在，對年輕的創作者而言，與人一起分攤房租，營運空間進而擁有自己的展覽空間仍是必須的。不過要如何把自己的創作以及和集體共同創作給分開來，對藝術家來說仍是進行式中的挑戰。即使對Dina個人而言也是如此，作為一位書寫者和策展人，她個人的計劃與KUNCI計劃之間如何平衡，仍然是一個課題。藝術家也許會想在集體的集體創作之外，仍然擁有自己的聲音，然而Dina坦言她沒有特意劃分兩者，原因是她自己的計劃經常是從KUNCI的實踐中慢慢發想成型。
+
+  **教育系統的失衡與藝術計劃補缺**
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/11/03-part-of-going-below-experiment-living-with-family-of-farmers.jpeg)](https://www.heath.tw/wp-content/uploads/2017/11/03-part-of-going-below-experiment-living-with-family-of-farmers.jpeg) Going below experiment — living with family of farmers; photo: Chen Hsiang-wen   不僅是SoIE，在走訪印尼幾個城市的過程裡，我聽到了許多因為城鄉差距、體制腐敗而對教育體制反動或者自組校外課程的案例。幾位在今年執行一個「Floating School」計劃的大學生，他們頻繁前往蘇拉威西島以外的小島，以七個主題（攝影、舞蹈、音樂、電腦、化學⋯等）每週末帶領小島上的學生進行戶外實踐的課程。因為地處偏遠加上教育體制不良，這些居住在中心以外的孩子可能經過一整個學期卻只能有兩次見到那些城市來的教師，其中一次就直接是學期測驗。就算有電腦課，也是用課本紙上談兵，沒有親手觸碰過鍵盤。這個學校將材料、機器直接交到學生手中讓他們學習操作，並保留課程彈性讓學生自主決定上課內容，在今年11月他們也將攝影課程的成果帶進望加錫雙年展中展出。
+
+ 當我提問為什麼這麼多的團體或計劃針對印尼的教育系統進行反思？Dina答，首先是學費越來越貴，所以人民沒辦法負擔。特別是印尼的發展中心集中在爪哇島上，人們為了要上好的學校或者尋求好的機會必須前往爪哇島，就算政府有意識要在其他島上創造機會，但是他們缺少人文資源，因為幾乎所有的年輕學者都集中在爪哇島上。另一方面與殖民歷史有關，知識（knowledge）與技術（skill）被分開。西方殖民者在此建立自己的學校傳授理性，而非理性的系統來自「野生學校」（wild school）和「非正式學校」（informal school），它們組裝自人民自我的意識。這可能是現在藝術家持續關心教育系統的原因。印尼教育體制的現況太過著重於「技術」，教育的目的是給學生擁有一項討生活的技術例如外文、電腦等，即便某天教育體制好轉，藝術和人文方面的知識始終還是缺席。
+
+     [ISSUE 35](https://www.heath.tw/nml-issue/nusantara-signifier-and-its-limitation/)   [野生學校—從KUNCI文化研究中心的SoIE計劃談起 ， 陳湘汶 ， Zoey Wu (translator)](https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/)  [投影法：哥打峇魯影像紀錄與誤解筆記 ， 吳其育](https://www.heath.tw/nml-article/map-projection-notes-and-misreading-of-the-video-making-in-kota-bharu/)  [為熱帶博物館《荷屬東印度》常設展所做的語音導覽 (節錄) ， Kunci Culture Study Center ， 鄭文琦 (翻譯)](https://www.heath.tw/nml-article/an-audio-guide-for-the-netherlands-east-indies-exhibition-at-the-tropenmuseum-by-kunci-cultural-studies-center-excerpt/)  [符芳俊駐站成果發表：如何用吳郭魚煮一道亞参叻沙 ， Hoo Fan Chon](https://www.heath.tw/nml-article/hoo-fan-chon-how-to-cook-asam-laksa-with-tilapia/)  [有門路才找得到的書—哥打峇魯獨立書店Kitartb專訪 ， 吳其育](https://www.heath.tw/nml-article/interview-with-kitartb-the-independent-bookstore-in-kelantan-malaysia/)  [專訪亞答屋84號圖書館—關於「他者資料庫」 ， 柯念璞](https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-archive-of-the-other-mapping-project/)  [專訪亞答屋84號圖書館—從知識份子到實踐者 ， 柯念璞](https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-from-intellectuals-to-the-practitioners/)   Footnote  註1. *"...the first is the freedom as the requirement to enliven and generate the power in body and soul so as to live independently. And the second is the nature as a condition to live and achieve the progress quickly and properly."*    註2. 1950年由一小群知識青年成立的人民文化協會（Lembaga Kebudayaan Rakyat, Rakyat）提出「mukadimah」（前提），藉以回應他們所反對之「Gelanggang」組織發表榮耀革命觀點的「信念之書」（Surat Kepertjajaan）。Lekra宣言進而呼籲藝術家協助實現建立人民共和，邀詩人和藝術家響應加入。1965年Lekra發表新的「前提」並採行社會寫實主義教條，主張藝術應該反映社會現實並促成社會進步而非單純探討人性。它進而推廣藝術裡的「人民」（kerakyatan）概念，鼓吹藝術家下放（turun ke bawah）以從廣大人民身上學習。而其主張在視覺藝術的實踐顯然更勝於文學，畫家實踐更多於作家。    註3. Syafiatudina著、彭若瑩譯，〈【共同課題：印尼】生活與知識的聚合：日惹KUNCI機構如何成為新的學校〉，摘自「關鍵評論」藝文版。（參考日期：2017年11月5日）  [https://www.thenewslens.com/article/59828](https://www.thenewslens.com/article/59828)        See Also  [「學生樂園」的當代啟示：印尼另類教育再思考 ，蘇穎欣](http://www.heath.tw/nml-article/explore-the-contemporaneity-of-taman-siswa-rethink-alternative-education-in-indonesia/)              ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- http://www.heath.tw/nml-article/explore-the-contemporaneity-of-taman-siswa-rethink-alternative-education-in-indonesia/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/an-audio-guide-for-the-netherlands-east-indies-exhibition-at-the-tropenmuseum-by-kunci-cultural-studies-center-excerpt/
+- https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-archive-of-the-other-mapping-project/
+- https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-from-intellectuals-to-the-practitioners/
+- https://www.heath.tw/nml-article/hoo-fan-chon-how-to-cook-asam-laksa-with-tilapia/
+- https://www.heath.tw/nml-article/interview-with-kitartb-the-independent-bookstore-in-kelantan-malaysia/
+- https://www.heath.tw/nml-article/map-projection-notes-and-misreading-of-the-video-making-in-kota-bharu/
+- https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+- https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/?lang=en
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/nusantara-signifier-and-its-limitation/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2017/11/01-dinner-at-SOIE.jpeg
+- https://www.heath.tw/wp-content/uploads/2017/11/02-part-of-going-below-experiment-being-a-school-teacher.jpeg
+- https://www.heath.tw/wp-content/uploads/2017/11/03-part-of-going-below-experiment-living-with-family-of-farmers.jpeg
+- https://www.heath.tw/wp-content/uploads/2017/11/04-reading-group-in-SOIE.jpeg
+- https://www.heath.tw/wp-content/uploads/2017/11/IMAG1344.jpg
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=The%20Wild%20School%3A%20KUNCI%20School%20of%20Improper%20Education&url=https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.thenewslens.com/article/59828
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

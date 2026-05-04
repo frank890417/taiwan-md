@@ -1,0 +1,2517 @@
+# NML article 索引
+
+Total: 384
+
+- Sleepwalker that Ruminates on Time: Apichatpong and the King’s Tomb
+  - URL: https://www.heath.tw/nml-article/1393/
+  - Published: 2016-07-06
+  - Author: 林怡秀
+  - NML Category: Image
+  - File: `1393.md`
+- Post-Work in the State of Precarious Normalcy
+  - URL: https://www.heath.tw/nml-article/1474/
+  - Published: 2016-09-01
+  - Author: 詹育杰
+  - NML Category: Opinion
+  - File: `1474.md`
+- 1990: L.A., “The Gold Field”
+  - URL: https://www.heath.tw/nml-article/1990-l-a-the-gold-field/
+  - Published: 2016-10-25
+  - Author: Felix Gonzalez-Torres， Futoshi Miyagi (選文)， 林冠妤 (翻譯)
+  - NML Category: Translation
+  - Original Source: Earths Grow Thick, Roni Horn (Columbus, OH: Wexner Center for the Arts, The Ohio State University, 1996), 65-69
+  - File: `1990-l-a-the-gold-field.md`
+- 2012 Future Media Symposium
+  - URL: https://www.heath.tw/nml-article/2012-future-media-symposium/
+  - Published: 2012-03-28
+  - Author: 鄭淑鈴 (整理)
+  - NML Category: Interview
+  - File: `2012-future-media-symposium.md`
+- 2016 Taipei Biennial: The Emancipative and Resonant Curating Method
+  - URL: https://www.heath.tw/nml-article/2016-taipei-biennial-the-emancipative-and-resonant-curating-method/
+  - Published: 2017-01-05
+  - Author: 吳宜樺
+  - NML Category: Opinion
+  - Original Source: 《典藏今藝術》no.289
+  - File: `2016-taipei-biennial-the-emancipative-and-resonant-curating-method.md`
+- 3 Steps to Decode the Orbits Silently: Carry, Control, re-Cognize
+  - URL: https://www.heath.tw/nml-article/3-steps-to-decode-the-orbits-silently-carry-control-re-cognize/
+  - Published: 2023-02-13
+  - Author: 姚睿蘭
+  - NML Category: Opinion
+  - File: `3-steps-to-decode-the-orbits-silently-carry-control-re-cognize.md`
+- Arundhati Roy on COVID-19: The Pandemic Is A Portal
+  - URL: https://www.heath.tw/nml-article/3138/
+  - Published: 2020-06-29
+  - Author: Arundhati Roy， 伍勤 (Translator)
+  - NML Category: Translation
+  - Original Source: 《澎湃新聞．思想市場》
+  - File: `3138.md`
+- Interview with Mannet Villariba (aka Mannet), the Artist of Project Glocal Transi(en)t
+  - URL: https://www.heath.tw/nml-article/4432/
+  - Published: 2014-02-07
+  - Author: 鄭文琦 ， Emmanuel L. Villariba (Mannet)， 張品杰 (Proofreading)
+  - NML Category: Residency
+  - File: `4432.md`
+- Interview with Duto Hardono, the artist of Project Glocal
+  - URL: https://www.heath.tw/nml-article/4434/
+  - Published: 2014-02-07
+  - Author: 鄭文琦 ， Duto Hardono， 張品杰 (Proofreading)
+  - NML Category: Residency
+  - File: `4434.md`
+- 9288.647KM: Look East, Go West
+  - URL: https://www.heath.tw/nml-article/9288-647km-look-east-go-west/
+  - Published: 2021-03-16
+  - Author: 陳侑汝
+  - NML Category: Performance
+  - File: `9288-647km-look-east-go-west.md`
+- A Carnal Look at the “Imaginary Body”
+  - URL: https://www.heath.tw/nml-article/a-carnal-look-at-the-imaginary-body/
+  - Published: 2016-11-22
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.289
+  - File: `a-carnal-look-at-the-imaginary-body.md`
+- A City’s Premature Representation: Review on Urban Synesthesia
+  - URL: https://www.heath.tw/nml-article/a-citys-premature-representation-review-on-urban-synesthesia/
+  - Published: 2013-03-13
+  - Author: 楊成瀚
+  - Original Source: 《藝外》no.41
+  - File: `a-citys-premature-representation-review-on-urban-synesthesia.md`
+- A Composer without Composing: Review on Chang Yung-Ta’s Without Composing
+  - URL: https://www.heath.tw/nml-article/a-composer-without-composing-review-on-chang-yung-tas-without-composing/
+  - Published: 2020-02-25
+  - Author: 鄭文琦
+  - NML Category: Sound Scene
+  - File: `a-composer-without-composing-review-on-chang-yung-tas-without-composing.md`
+- A Conversation About The Seven Silences: Anger
+  - URL: https://www.heath.tw/nml-article/a-conversation-about-the-seven-silences-anger/
+  - Published: 2018-01-15
+  - Author: 區秀詒 ， 高俊耀
+  - NML Category: Performance
+  - Original Source: 窮劇場，《窮有所本》（2017）
+  - File: `a-conversation-about-the-seven-silences-anger.md`
+- A Conversation on Cooking, Memory, and Resistance: Interview with Singaporean Artists ila and Kin Chui
+  - URL: https://www.heath.tw/nml-article/a-conversation-on-cooking-memory-and-resistance-interview-with-singaporean-artists-ila-and-kin-chui/
+  - Published: 2019-11-06
+  - Author: 張恩滿 ， ila， Kin Chui， Sheryl Cheung (English copy editor)
+  - NML Category: Interview
+  - Original Source: 《群島資料庫10：Chang En-Man - Snail Paradise》
+  - File: `a-conversation-on-cooking-memory-and-resistance-interview-with-singaporean-artists-ila-and-kin-chui.md`
+- A Conversation with Zikri Rahman, Co-Founder of Buku Jalanan
+  - URL: https://www.heath.tw/nml-article/a-conversation-with-zikri-rahman-co-founder-of-buku-jalanan/
+  - Published: 2017-09-01
+  - Author: 蘇穎欣 ， Kris Chi (translator)
+  - NML Category: Interview
+  - Original Source: 《當今大馬》網路媒體
+  - File: `a-conversation-with-zikri-rahman-co-founder-of-buku-jalanan.md`
+- A Dialogue with Okui Lala on Language and Migration
+  - URL: https://www.heath.tw/nml-article/a-dialogue-for-okui-lalas-art-practice-on-language-and-migration/
+  - Published: 2017-08-01
+  - Author: Okui Lala， Alecia Neo (訪談)， 鄭文琦 (翻譯)
+  - NML Category: Residency
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `a-dialogue-for-okui-lalas-art-practice-on-language-and-migration.md`
+- A Field Guide to Getting Lost
+  - URL: https://www.heath.tw/nml-article/a-field-guide-to-getting-lost/
+  - Published: 2016-05-21
+  - Author: 李彥儀
+  - NML Category: Art Production
+  - Original Source: 《迷路實地指南》5月7日~6月19日）
+  - File: `a-field-guide-to-getting-lost.md`
+- A New Prosthetic of Historical Experience: Some Thoughts on Detention
+  - URL: https://www.heath.tw/nml-article/a-new-prosthetic-of-historical-experience-some-thoughts-on-detention/
+  - Published: 2017-01-31
+  - Author: 史惟筑
+  - NML Category: Image
+  - File: `a-new-prosthetic-of-historical-experience-some-thoughts-on-detention.md`
+- “A New World Is Being Created”: A Brief History of Malay Literature in Singapore
+  - URL: https://www.heath.tw/nml-article/a-new-world-is-being-created-a-brief-history-of-malay-literature-in-singapore/
+  - Published: 2021-01-01
+  - Author: Faris Joraimi， 盧明威Sebastian Susilo (中譯)
+  - NML Category: Literature
+  - File: `a-new-world-is-being-created-a-brief-history-of-malay-literature-in-singapore.md`
+- A Report from Taipei on the Role of Curatorial Actions in Shaping a Discourse about Asia from Asia
+  - URL: https://www.heath.tw/nml-article/a-report-from-taipei-on-the-role-of-curatorial-actions-in-shaping-a-discourse-about-asia-from-asia/
+  - Published: 2017-05-08
+  - Author: Anabelle Lacroix， 王聖智 (翻譯)
+  - NML Category: Opinion
+  - Original Source: 2016 Kuandu Residency Program: Anabelle Lacroix
+  - File: `a-report-from-taipei-on-the-role-of-curatorial-actions-in-shaping-a-discourse-about-asia-from-asia.md`
+- A Travelogue of an Artist as an Introduction for a Video Essay
+  - URL: https://www.heath.tw/nml-article/a-travelogue-of-an-artist-as-an-introduction-for-a-video-essay/
+  - Published: 2019-12-18
+  - Author: mamoru， 白斐嵐 (譯者)
+  - NML Category: Sound Scene
+  - File: `a-travelogue-of-an-artist-as-an-introduction-for-a-video-essay.md`
+- A Vagabond Cosmopolitan’s Note on Violence: Irwan & Tita’s “Fire Rim” Project
+  - URL: https://www.heath.tw/nml-article/a-vagabond-cosmopolitans-note-on-violence-irwan-titas-fire-rim-project/
+  - Published: 2020-09-22
+  - Author: 張紋瑄， Chung Yi-ting (translator)
+  - NML Category: Interview
+  - File: `a-vagabond-cosmopolitans-note-on-violence-irwan-titas-fire-rim-project.md`
+- A Visionary – An Essay on the Woman in Nguyễn Trinh Thi’s Moving Images
+  - URL: https://www.heath.tw/nml-article/a-visionary-an-essay-on-the-woman-in-nguyen-trinh-this-moving-images/
+  - Published: 2018-11-14
+  - Author: Bùi Kim Đĩnh， Felipe (翻譯)
+  - NML Category: Image
+  - Original Source: 中華民國博物館學會亞太博物館連線專欄
+  - File: `a-visionary-an-essay-on-the-woman-in-nguyen-trinh-this-moving-images.md`
+- After the Moon Jae-in’s Berlin Doctrine – Busan Biennale 2018: Divided We Stand
+  - URL: https://www.heath.tw/nml-article/after-the-moon-jae-ins-berlin-doctrine-busan-biennale-2018-divided-we-stand/
+  - Published: 2020-01-20
+  - Author: 印卡
+  - NML Category: Opinion
+  - File: `after-the-moon-jae-ins-berlin-doctrine-busan-biennale-2018-divided-we-stand.md`
+- Gabriele de Seta: Against Sonic Naturalism
+  - URL: https://www.heath.tw/nml-article/against-sonic-naturalism/
+  - Published: 2018-09-04
+  - Author: 胡子哥 ， 戚育瑄 (翻譯)， 林書全 (審稿)
+  - NML Category: Sound Scene
+  - Original Source: paranom.asia
+  - File: `against-sonic-naturalism.md`
+- Alienation of the Labor Market of Performing Arts
+  - URL: https://www.heath.tw/nml-article/alienation-of-the-labor-market-of-performing-arts/
+  - Published: 2016-07-21
+  - Author: 黃佩蔚
+  - NML Category: Performance
+  - Original Source: 表演藝術評論台
+  - File: `alienation-of-the-labor-market-of-performing-arts.md`
+- All Quiet on Jurong Road: Nanyang University and Radical Vision in Singapore [excerpt]
+  - URL: https://www.heath.tw/nml-article/all-quiet-on-jurong-road-nanyang-university-and-radical-vision-in-singapore/
+  - Published: 2016-10-25
+  - Author: 饒世藻， 區秀詒 (翻譯)， Lucy Davis (節選)
+  - NML Category: Translation
+  - Original Source: 《未擇之徑：戰後新加坡的政治多元主義》, Michael D. Barr, Carl A. Trocki編, 新加坡國立大學出版社, 2008
+  - File: `all-quiet-on-jurong-road-nanyang-university-and-radical-vision-in-singapore.md`
+- Amir Muhammad: Three Documentary Ideas
+  - URL: https://www.heath.tw/nml-article/amir-muhammad-three-documentary-ideas/
+  - Published: 2015-04-16
+  - Author: Amir Muhammad
+  - NML Category: Translation
+  - Original Source: translated by Rikey Tenn
+  - File: `amir-muhammad-three-documentary-ideas.md`
+- An Audio Guide for the Tropenmuseum by KUNCI Cultural Studies Center (Excerpt)
+  - URL: https://www.heath.tw/nml-article/an-audio-guide-for-the-netherlands-east-indies-exhibition-at-the-tropenmuseum-by-kunci-cultural-studies-center-excerpt/
+  - Published: 2017-11-03
+  - Author: Kunci Culture Study Center， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: originally published on radio.kunci.or.id
+  - File: `an-audio-guide-for-the-netherlands-east-indies-exhibition-at-the-tropenmuseum-by-kunci-cultural-studies-center-excerpt.md`
+- An Imaginary Reunion With the Past: Interview with Teng, Chao-ming
+  - URL: https://www.heath.tw/nml-article/an-imaginary-reunion-with-the-past-interview-with-teng-chao-ming/
+  - Published: 2012-10-09
+  - Author: 鄧兆旻
+  - NML Category: Interview
+  - File: `an-imaginary-reunion-with-the-past-interview-with-teng-chao-ming.md`
+- An Interview with Rumah Attap Library: Archive of the Other Mapping Project
+  - URL: https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-archive-of-the-other-mapping-project/
+  - Published: 2017-09-27
+  - Author: 柯念璞 ， Alex Ma (trans)
+  - NML Category: Interview
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `an-interview-with-rumah-attap-library-archive-of-the-other-mapping-project.md`
+- An Interview with Rumah Attap Library: From Intellectuals to Practitioners
+  - URL: https://www.heath.tw/nml-article/an-interview-with-rumah-attap-library-from-intellectuals-to-the-practitioners/
+  - Published: 2017-09-27
+  - Author: 柯念璞 ， 馬思揚 (翻譯)
+  - NML Category: Interview
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `an-interview-with-rumah-attap-library-from-intellectuals-to-the-practitioners.md`
+- An Unwritten Chapter in the History: Spectrosynthesis and Queer British Art 1861-1967
+  - URL: https://www.heath.tw/nml-article/an-unwritten-chapter-in-the-history-spectrosynthesis-and-queer-british-art-1861-1967/
+  - Published: 2017-12-26
+  - Author: 程少鴻
+  - NML Category: Opinion
+  - File: `an-unwritten-chapter-in-the-history-spectrosynthesis-and-queer-british-art-1861-1967.md`
+- Analogue and Digital II: Digital Images?
+  - URL: https://www.heath.tw/nml-article/analogue-and-digital-ii-digital-images/
+  - Published: 2014-03-25
+  - Author: 李立鈞
+  - NML Category: Image
+  - Original Source: 《典藏今藝術》no.258
+  - File: `analogue-and-digital-ii-digital-images.md`
+- Analogue and Digital III: Imagination of “Digital Aesthetics” and Imagined “Digital Art”
+  - URL: https://www.heath.tw/nml-article/analogue-and-digital-iii-imagination-of-digital-aesthetics-and-imagined-digital-art/
+  - Published: 2014-06-10
+  - Author: 李立鈞
+  - NML Category: Image
+  - Original Source: All images are screenshots from the movie TRON (c) DISNEY
+  - File: `analogue-and-digital-iii-imagination-of-digital-aesthetics-and-imagined-digital-art.md`
+- Ann Huang: The Confession of a Marionette
+  - URL: https://www.heath.tw/nml-article/annhuang/
+  - Published: 2012-07-02
+  - Author: 王柏偉
+  - NML Category: Interview, Performance
+  - File: `annhuang.md`
+- Answer to “What Else can Art Critics Do?”
+  - URL: https://www.heath.tw/nml-article/answer-to-what-else-can-art-critics-do/
+  - Published: 2013-03-20
+  - Author: 徐建宇
+  - NML Category: Art Production
+  - File: `answer-to-what-else-can-art-critics-do.md`
+- Appropriation, Juxtaposition & Narration: On Gan Siong King’s Video Essays
+  - URL: https://www.heath.tw/nml-article/appropriation-juxtaposition-narration-lets-talk-about-gan-siong-kings-video-essays/
+  - Published: 2022-05-19
+  - Author: 陳沛妤
+  - NML Category: Image
+  - File: `appropriation-juxtaposition-narration-lets-talk-about-gan-siong-kings-video-essays.md`
+- Architecture as Common Phantom and Boundary – Gwangju Biennale 2018: Imagined Borders
+  - URL: https://www.heath.tw/nml-article/architecture-as-common-phantom-and-boundary-the-2018-gwangju-biennale-imagined-borders/
+  - Published: 2020-01-20
+  - Author: 印卡
+  - NML Category: Opinion
+  - File: `architecture-as-common-phantom-and-boundary-the-2018-gwangju-biennale-imagined-borders.md`
+- Archived and Alive: Interview with Kin Ko on Writing NFT
+  - URL: https://www.heath.tw/nml-article/archived-and-alive-interview-with-kin-ko-on-writing-nft/
+  - Published: 2022-10-01
+  - Author: 李佳霖 (訪談, 整理)， 高重建
+  - NML Category: Art Production
+  - File: `archived-and-alive-interview-with-kin-ko-on-writing-nft.md`
+- Art Criticism: Regarding the Envision for Conservation and Connections
+  - URL: https://www.heath.tw/nml-article/art-criticism-regarding-the-envision-for-conservation-and-connections/
+  - Published: 2013-03-13
+  - Author: 陳寬育
+  - NML Category: Art Production
+  - File: `art-criticism-regarding-the-envision-for-conservation-and-connections.md`
+- Artist-in-Residency: An Introdution
+  - URL: https://www.heath.tw/nml-article/artist-in-residency-an-introdution/
+  - Published: 2014-01-22
+  - Author: 徐建宇
+  - NML Category: Residency
+  - File: `artist-in-residency-an-introdution.md`
+- Arty-Arty: Inteview with Malaysian artist Kok Siew-wai
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-kok-siew-wai/
+  - Published: 2013-06-06
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-kok-siew-wai.md`
+- Arty-Arty: Inteview with Malaysian artist Lim Kok-Yoong
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-lim-kok-yoong/
+  - Published: 2013-05-30
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-lim-kok-yoong.md`
+- Arty-Arty: Inteview with Malaysian artist Roslisham Ismail
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-roslisham-ismail/
+  - Published: 2013-05-30
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-roslisham-ismail.md`
+- Arty-Arty: Inteview with Malaysian artist Shia Yih Ying
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-shia-yih-ying/
+  - Published: 2013-06-06
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-shia-yih-ying.md`
+- Arty-Arty: Inteview with Malaysian artist TANJC
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-tanjc/
+  - Published: 2013-05-30
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-tanjc.md`
+- Arty-Arty: Inteview with Malaysian artist Yap Sau Bin
+  - URL: https://www.heath.tw/nml-article/arty-arty-inteview-with-malaysian-artist-yap-sau-bin/
+  - Published: 2013-06-06
+  - Author: 蔡長璜
+  - NML Category: Interview
+  - Original Source: arty-arty.blogspot.tw
+  - File: `arty-arty-inteview-with-malaysian-artist-yap-sau-bin.md`
+- Auf dem Narrenschiff: The Letter, the Captain, and the Islands
+  - URL: https://www.heath.tw/nml-article/auf-dem-narrenschiff-the-letter-the-captain-and-the-islands/
+  - Published: 2015-07-14
+  - Author: 王鼎曄
+  - NML Category: Residency
+  - File: `auf-dem-narrenschiff-the-letter-the-captain-and-the-islands.md`
+- Backstage Screaming: Etat Archive and the Writing of Theatres of the 1990s in Taiwan
+  - URL: https://www.heath.tw/nml-article/backstage-screaming-etat-archive-and-the-writing-of-theatres-of-the-1990s-in-taiwan/
+  - Published: 2017-04-28
+  - Author: 吳思鋒
+  - NML Category: Art Production
+  - File: `backstage-screaming-etat-archive-and-the-writing-of-theatres-of-the-1990s-in-taiwan.md`
+- Bad Serious Covered Songs: Black Wolf Nakasi
+  - URL: https://www.heath.tw/nml-article/bad-serious-covered-songs-black-wolf-nakasi/
+  - Published: 2012-10-11
+  - Author: 張又升
+  - NML Category: Sound Scene
+  - File: `bad-serious-covered-songs-black-wolf-nakasi.md`
+- Becoming-Animals, Horizon, Motivation: Passion Mode in W.A.V.E
+  - URL: https://www.heath.tw/nml-article/becoming-animals-horizon-and-motivation-passion-mode-in-w-a-v-e/
+  - Published: 2011-12-08
+  - Author: 王柏偉
+  - NML Category: Performance
+  - Original Source: 《藝術家》no.439
+  - File: `becoming-animals-horizon-and-motivation-passion-mode-in-w-a-v-e.md`
+- Behind the Scenes of Live in Madawdaw, Taitung
+  - URL: https://www.heath.tw/nml-article/behind-the-scenes-of-live-in-madawdaw-taitung/
+  - Published: 2021-09-08
+  - Author: 陳嘉壬
+  - NML Category: Art Production
+  - File: `behind-the-scenes-of-live-in-madawdaw-taitung.md`
+- Being An Activist Artist: Interview with Nuraini Juliastuti
+  - URL: https://www.heath.tw/nml-article/being-an-activist-artist-interview-with-nuraini-juliastuti/
+  - Published: 2019-06-26
+  - Author: 吳庭寬 ， Daisy Lee (Translator)
+  - NML Category: Residency
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `being-an-activist-artist-interview-with-nuraini-juliastuti.md`
+- Between the Unidentified Objects and the Unknown History: A Conversation with Nguyen Trinh Thi
+  - URL: https://www.heath.tw/nml-article/between-the-unidentified-objects-and-the-unknown-history-a-conversation-with-nguyen-trinh-thi/
+  - Published: 2016-12-27
+  - Author: 區秀詒
+  - NML Category: Interview
+  - Original Source: 《典藏今藝術》no.291
+  - File: `between-the-unidentified-objects-and-the-unknown-history-a-conversation-with-nguyen-trinh-thi.md`
+- Between Theoretical Curation and Participatory Art: Review on Future Memories I
+  - URL: https://www.heath.tw/nml-article/between-theoretical-curation-and-participatory-art-review-on-future-memories-i/
+  - Published: 2019-06-11
+  - Author: 楊成瀚
+  - NML Category: Sound Scene
+  - File: `between-theoretical-curation-and-participatory-art-review-on-future-memories-i.md`
+- Beyong the Box of Authenticity: Interview with Wong Hoy-cheong
+  - URL: https://www.heath.tw/nml-article/beyong-the-box-of-authenticity-interview-with-wong-hoy-cheong/
+  - Published: 2013-05-23
+  - Author: Wong Hoy Cheong
+  - NML Category: Interview
+  - Original Source: 台灣數位藝術知識與創作流通平台，2008
+  - File: `beyong-the-box-of-authenticity-interview-with-wong-hoy-cheong.md`
+- Beyong the “New Limitations”: Interview with Wolfenstein (Xie Zhongqi)
+  - URL: https://www.heath.tw/nml-article/beyong-the-new-limitations-interview-with-wolfenstein-xie-zhongqi/
+  - Published: 2012-09-18
+  - Author: 鄭文琦 (訪談)， 謝仲其
+  - NML Category: Sound Scene
+  - File: `beyong-the-new-limitations-interview-with-wolfenstein-xie-zhongqi.md`
+- Bibliography of Modern and Contemporary Art Writing of South Asia
+  - URL: https://www.heath.tw/nml-article/bibliography-of-modern-and-contemporary-art-writing-of-south-asia/
+  - Published: 2021-06-01
+  - Author: Lou Mo (採訪/中譯)
+  - NML Category: Art Production
+  - File: `bibliography-of-modern-and-contemporary-art-writing-of-south-asia.md`
+- Boundary Between Death and Life: Fracture and Converge
+  - URL: https://www.heath.tw/nml-article/boundary-between-death-and-life-fracture-and-converge/
+  - Published: 2013-03-07
+  - Author: 王冠婷
+  - NML Category: Image
+  - File: `boundary-between-death-and-life-fracture-and-converge.md`
+- Breakfast Time Before the Frame Disappears: Videodance and Dance with Video
+  - URL: https://www.heath.tw/nml-article/breakfast-time-before-the-frame-disappears-videodance-and-dance-with-video/
+  - Published: 2012-09-26
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《藝術家》no.449
+  - File: `breakfast-time-before-the-frame-disappears-videodance-and-dance-with-video.md`
+- Burn the Archive and Activate Your Own Space
+  - URL: https://www.heath.tw/nml-article/burn-the-archive-and-activate-our-own-space/
+  - Published: 2015-11-25
+  - Author: 詹育杰
+  - NML Category: Art Production
+  - File: `burn-the-archive-and-activate-our-own-space.md`
+- Can Contemporary Art in China Rids Itself of Political Intervention?
+  - URL: https://www.heath.tw/nml-article/can-contemporary-art-in-china-rids-itself-of-political-intervention/
+  - Published: 2015-07-02
+  - Author: 蔡長璜
+  - NML Category: Opinion
+  - Original Source: 《燧火評論》（Promethean Fire Review）
+  - File: `can-contemporary-art-in-china-rids-itself-of-political-intervention.md`
+- Can Shamans Speak the Words of Penumbrae
+  - URL: https://www.heath.tw/nml-article/can-shamans-speak-of-the-words-of-penumbrae/
+  - Published: 2014-01-08
+  - Author: 許芳慈 ， 戚育瑄 (翻譯)
+  - NML Category: Opinion
+  - Original Source: 《典藏今藝術》 No.252
+  - File: `can-shamans-speak-of-the-words-of-penumbrae.md`
+- Care and Free
+  - URL: https://www.heath.tw/nml-article/care-and-free/
+  - Published: 2023-03-14
+  - Author: 吳礽喻
+  - NML Category: Opinion
+  - File: `care-and-free.md`
+- Carton-Box City
+  - URL: https://www.heath.tw/nml-article/carton-box-city/
+  - Published: 2015-01-08
+  - Author: 江凌青
+  - NML Category: Residency
+  - Original Source: 《為何每當我們憶起心所愛的，眼底總是一陣風吹沙？》Part II 敘事與聲音
+  - File: `carton-box-city.md`
+- Caryl Ivrisse-Crochemar: Discourse About Art in Martinique [Excerpt]
+  - URL: https://www.heath.tw/nml-article/caryl-ivrisse-crochemar-discourse-about-art-in-martinique/
+  - Published: 2019-12-23
+  - Author: Caryl Ivrisse-Crochemar， 高森信男 (翻譯)
+  - NML Category: Translation
+  - File: `caryl-ivrisse-crochemar-discourse-about-art-in-martinique.md`
+- Celebrating Radio: Stories from the Past
+  - URL: https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+  - Published: 2020-07-07
+  - Author: Vidya Murthy， Jermaine Huang， 白斐嵐 (Translator)
+  - NML Category: Sound Scene
+  - Original Source: MuseSG Volume 9 Issue 2; Apr to Jun 2016
+  - File: `celebrating-radio-stories-from-the-past.md`
+- Chance Poem
+  - URL: https://www.heath.tw/nml-article/chance-poem/
+  - Published: 2016-11-04
+  - Author: NGUYEN Trinh-Thi， 許芳慈 (翻譯)
+  - NML Category: Translation
+  - Original Source: 2016年台灣國際錄像藝術展(TIVA)
+  - File: `chance-poem.md`
+- Ghost in the Machine: Anne Huang Project
+  - URL: https://www.heath.tw/nml-article/chost-in-the-machine-anne-huang-project/
+  - Published: 2012-08-24
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.239
+  - File: `chost-in-the-machine-anne-huang-project.md`
+- How Do You Make Music a Body without Organs? Gilles Deleuze and Experimental Electronica [Excerpt]
+  - URL: https://www.heath.tw/nml-article/christoph-cox-how-do-you-make-music-a-body-without-organs/
+  - Published: 2020-03-11
+  - Author: Christoph Cox， 王婧 (翻譯)
+  - NML Category: Sound Scene, Translation
+  - Original Source: 撒把芥末（sub jam blog）、《生產》叢刊
+  - File: `christoph-cox-how-do-you-make-music-a-body-without-organs.md`
+- Circulation, Motion, and Ecosystem: Mika Rottenberg’s “Bowis Balls Souls Holes”
+  - URL: https://www.heath.tw/nml-article/circulation-motion-and-ecosystem-mika-rottenbergs-bowis-balls-souls-holes/
+  - Published: 2014-10-21
+  - Author: 吳嘉瑄
+  - NML Category: Image
+  - Original Source: 《藝外》no.60
+  - File: `circulation-motion-and-ecosystem-mika-rottenbergs-bowis-balls-souls-holes.md`
+- The Change of Taste in Social Classes through Snail Trail – Chang En-Man’s Snail Series
+  - URL: https://www.heath.tw/nml-article/class-taste-in-snail-trail-chang-en-mans-snail-series/
+  - Published: 2019-03-10
+  - Author: 張恩滿 ， Tsai Mu-jung (translator)， Hoo Fan Chon (proofreader)
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `class-taste-in-snail-trail-chang-en-mans-snail-series.md`
+- Coexist Exhibition – Analysis and Articulation of the Implications
+  - URL: https://www.heath.tw/nml-article/coexist-exhibition-analysis-and-articulation-of-the-implications/
+  - Published: 2018-03-06
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - File: `coexist-exhibition-analysis-and-articulation-of-the-implications.md`
+- Collaboration or Social Mobilization? The Historical Context of Gotong-Royong and Its Politics
+  - URL: https://www.heath.tw/nml-article/collaboration-or-social-mobilization-the-historical-context-of-gotong-royong-and-its-politics/
+  - Published: 2022-09-03
+  - Author: krystie Ng吳君儀， 吳君儀, 沈慧伶 (Trans.)
+  - NML Category: Art Production
+  - Original Source: 亞際自組木刻版畫串連圖繪
+  - File: `collaboration-or-social-mobilization-the-historical-context-of-gotong-royong-and-its-politics.md`
+- Common Aesthetics, Common Asia: Interview with Bui Cong Khanh and Lin Shu-kai
+  - URL: https://www.heath.tw/nml-article/common-aesthetics-common-asia-interview-with-bui-cong-khanh-and-lin-shu-kai/
+  - Published: 2012-12-20
+  - Author: 吳權倫 (採訪)， 裴公慶 (Bui Cong Khanh)， 林書楷
+  - NML Category: Interview
+  - Original Source: Photo courtesy Outsider's Factory (奧賽德工廠)
+  - File: `common-aesthetics-common-asia-interview-with-bui-cong-khanh-and-lin-shu-kai.md`
+- Composite Creature, Ideology, and Language: An Interview with Tan Zi Hao
+  - URL: https://www.heath.tw/nml-article/composite-creature-ideology-and-language-an-interview-with-tan-zi-hao/
+  - Published: 2020-10-05
+  - Author: 區秀詒 ， 林易萱, 鄭文琦 (中譯)， Chung, I-Ting (copyeditor)
+  - NML Category: Interview
+  - File: `composite-creature-ideology-and-language-an-interview-with-tan-zi-hao.md`
+- Connecting the Dots: How to Listen to the Sound of Collective Memories?
+  - URL: https://www.heath.tw/nml-article/connecting-the-dots-how-to-listen-to-the-sound-of-collective-memories/
+  - Published: 2017-02-25
+  - Author: 鄭文琦
+  - NML Category: Sound Scene
+  - Original Source: 《典藏今藝術》no.293
+  - File: `connecting-the-dots-how-to-listen-to-the-sound-of-collective-memories.md`
+- Contexts in Cinema Traditions, Music Videos, and Video Art in Taiwan
+  - URL: https://www.heath.tw/nml-article/contexts-in-cinema-traditions-music-videos-and-video-art-in-taiwan/
+  - Published: 2012-10-02
+  - Author: 王柏偉
+  - NML Category: Performance
+  - Original Source: 《藝術家》no.449
+  - File: `contexts-in-cinema-traditions-music-videos-and-video-art-in-taiwan.md`
+- Continent to Continent: Musings on Intercontinental Possibilities from The School of Mutants
+  - URL: https://www.heath.tw/nml-article/continent-to-continent-musings-on-intercontinental-possibilities-from-the-school-of-mutants/
+  - Published: 2021-03-01
+  - Author: 莫奴
+  - NML Category: Opinion
+  - File: `continent-to-continent-musings-on-intercontinental-possibilities-from-the-school-of-mutants.md`
+- Conversation on Tuesday Afternoon (“Do You Understand What  I Mean?”)
+  - URL: https://www.heath.tw/nml-article/conversation-on-tuesday-afternoon-do-you-understand-what-do-i-mean/
+  - Published: 2014-04-29
+  - Author: 范曉嵐， 徐建宇
+  - NML Category: Performance
+  - Original Source: 范曉嵐〈星期二下午〉
+  - File: `conversation-on-tuesday-afternoon-do-you-understand-what-do-i-mean.md`
+- Copy Right, Right Copy
+  - URL: https://www.heath.tw/nml-article/copy-right-right-copy/
+  - Published: 2014-04-17
+  - Author: 黃博志
+  - NML Category: Literature
+  - Original Source: 《藍色皮膚：老媽的故事》
+  - File: `copy-right-right-copy.md`
+- Cornelia Sollfrank: Revisiting Cyberfeminism
+  - URL: https://www.heath.tw/nml-article/cornelia-sollfrank-revisiting-cyberfeminism/
+  - Published: 2017-07-06
+  - Author: Cornelia Sollfrank， 林書全 (翻譯)， 戚育瑄 (校對)，
+  - NML Category: Translation
+  - Original Source: http://www.artpapers.org/feature_articles/2015_0506-cyberfeminism.html
+  - File: `cornelia-sollfrank-revisiting-cyberfeminism.md`
+- Creaturely Conjectures
+  - URL: https://www.heath.tw/nml-article/creaturely-conjectures/
+  - Published: 2020-11-20
+  - Author: Tan Zi Hao， 鍾宜庭 (中譯)
+  - NML Category: Art Production
+  - File: `creaturely-conjectures.md`
+- Moira Hille: Cruising As
+  - URL: https://www.heath.tw/nml-article/cruising-as/
+  - Published: 2018-03-22
+  - Author: Moira Hille， 戚育瑄(翻譯)， 林書全(校訂)
+  - NML Category: Translation
+  - Original Source: Spaces of Commoning: Artistic Practices, the Making of Urban Commons and Visions of Change" Project
+  - File: `cruising-as.md`
+- Claire Tancons: Curating Carnival? Performance in Contemporary Caribbean Art [Excerpt]
+  - URL: https://www.heath.tw/nml-article/curating-carnival-performance-in-contemporary-caribbean-art-excerpt/
+  - Published: 2019-12-18
+  - Author: Claire Tancons， 高森信男 (翻譯)
+  - NML Category: Translation
+  - Original Source: 原發表於：www.clairetancons.com
+  - File: `curating-carnival-performance-in-contemporary-caribbean-art-excerpt.md`
+- Cutting Colonists’ Heads: Interview with Togolese Rapper Elom 20ce
+  - URL: https://www.heath.tw/nml-article/cutting-colonists-heads-interview-with-togolese-rapper-elom-20ce/
+  - Published: 2020-11-09
+  - Author: Benjamin Lebrave， 致穎 (中譯)
+  - NML Category: Performance
+  - Original Source: africasacountry.com
+  - File: `cutting-colonists-heads-interview-with-togolese-rapper-elom-20ce.md`
+- “Cyborg” as an Image to Negotiate with the History
+  - URL: https://www.heath.tw/nml-article/cyborg-the-i-negotiate-with-the-history/
+  - Published: 2016-05-24
+  - Author: 許芳慈
+  - NML Category: Image
+  - Original Source: 《典藏今藝術》no.284
+  - File: `cyborg-the-i-negotiate-with-the-history.md`
+- Daily Sci-Fi: Sci-Fi Elements in Video and Visual Art I
+  - URL: https://www.heath.tw/nml-article/daily-sci-fi-sci-fi-elements-in-video-and-visual-art-i/
+  - Published: 2013-08-07
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `daily-sci-fi-sci-fi-elements-in-video-and-visual-art-i.md`
+- Daily Sci-Fi: Sci-Fi Elements in Video and Visual Art II
+  - URL: https://www.heath.tw/nml-article/daily-sci-fi-sci-fi-elements-in-video-and-visual-art-ii/
+  - Published: 2013-08-09
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `daily-sci-fi-sci-fi-elements-in-video-and-visual-art-ii.md`
+- Daily Sci-Fi: Sci-Fi Elements in Video and Visual Art III
+  - URL: https://www.heath.tw/nml-article/daily-sci-fi-sci-fi-elements-in-video-and-visual-art-iii/
+  - Published: 2013-09-04
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `daily-sci-fi-sci-fi-elements-in-video-and-visual-art-iii.md`
+- Daily Sci-Fi: Sci-Fi Elements in Video and Visual Art IV
+  - URL: https://www.heath.tw/nml-article/daily-sci-fi-sci-fi-elements-in-video-and-visual-art-iv/
+  - Published: 2013-09-04
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `daily-sci-fi-sci-fi-elements-in-video-and-visual-art-iv.md`
+- Die Weltgesellschaft: Review on Julian Rosefeldt’s World Making
+  - URL: https://www.heath.tw/nml-article/die-weltgesellschaft-review-on-julian-rosefeldts-world-making/
+  - Published: 2012-04-12
+  - Author: 王柏偉
+  - NML Category: Image
+  - File: `die-weltgesellschaft-review-on-julian-rosefeldts-world-making.md`
+- Different Location, Different Sound? Recap of B!as 2015
+  - URL: https://www.heath.tw/nml-article/different-location-different-sound-recap-of-bas-2015-artist-exchange-project/
+  - Published: 2016-01-05
+  - Author: 葉杏柔
+  - NML Category: Sound Scene
+  - Original Source: FlyGolobal
+  - File: `different-location-different-sound-recap-of-bas-2015-artist-exchange-project.md`
+- Digital Arts from Africa: Embodying Forms of Knowing and Being
+  - URL: https://www.heath.tw/nml-article/digital-arts-from-africa-embodying-forms-of-knowing-and-being/
+  - Published: 2021-03-15
+  - Author: Enos Nyamor， 高森信男 (譯)
+  - NML Category: Translation
+  - Original Source: C& Critical Writing Workshop
+  - File: `digital-arts-from-africa-embodying-forms-of-knowing-and-being.md`
+- Three Discussions about Travelers III: The Travelers in Contemporary Art World
+  - URL: https://www.heath.tw/nml-article/discussions-about-travelers-iii-the-travelers-in-contemporary-art-world/
+  - Published: 2013-04-21
+  - Author: 高森信男
+  - File: `discussions-about-travelers-iii-the-travelers-in-contemporary-art-world.md`
+- DIY: The Militant Embrace of Technology
+  - URL: https://www.heath.tw/nml-article/diy-the-militant-embrace-of-technology/
+  - Published: 2012-03-01
+  - Author: Marcin Ramocki
+  - NML Category: Translation
+  - Original Source: ramocki.net/ translated by Rikey
+  - File: `diy-the-militant-embrace-of-technology.md`
+- Duplication of Era Menifesto: Our Age of Piracy; 30 Years of Remixed Memory
+  - URL: https://www.heath.tw/nml-article/duplication-of-era-menifesto-our-age-of-piracy-30-years-of-remixed-memory/
+  - Published: 2013-04-04
+  - Author: 周郁齡
+  - NML Category: Sound Scene
+  - File: `duplication-of-era-menifesto-our-age-of-piracy-30-years-of-remixed-memory.md`
+- “Emptied Memories”: The Live-ness of A Poet’s Memories?
+  - URL: https://www.heath.tw/nml-article/emptied-memories-how-to-write-a-poem-present-with-memory/
+  - Published: 2012-10-23
+  - Author: 鄭文琦 ， (照片為狠主流多媒體提供)
+  - NML Category: Performance
+  - File: `emptied-memories-how-to-write-a-poem-present-with-memory.md`
+- EMU: An Spectacle, or a Forged Diversion?
+  - URL: https://www.heath.tw/nml-article/emu-an-spectacle-or-a-forged-diversion/
+  - Published: 2012-10-23
+  - Author: 楊成瀚
+  - NML Category: Opinion
+  - File: `emu-an-spectacle-or-a-forged-diversion.md`
+- Endless Exhibitions:  Messy Sky and Other Practices
+  - URL: https://www.heath.tw/nml-article/endless-exhibitions-messy-sky-and-other-practices-of-chitti-kasemkitvatana/
+  - Published: 2016-03-15
+  - Author: 鄭文琦
+  - NML Category: Art Production
+  - Original Source: 《藝術家》2016年3月號
+  - File: `endless-exhibitions-messy-sky-and-other-practices-of-chitti-kasemkitvatana.md`
+- The Absent Southeast Asian Futurism: On The Long Walk
+  - URL: https://www.heath.tw/nml-article/event-horizon-reincarnation-psychoanalysis-the-absent-southeast-asian-futurism-the-long-walk-as-a-case-study/
+  - Published: 2022-02-16
+  - Author: 朱峯誼
+  - NML Category: Image
+  - File: `event-horizon-reincarnation-psychoanalysis-the-absent-southeast-asian-futurism-the-long-walk-as-a-case-study.md`
+- Exhaustion of Superficial Existence: Dawang Yingfan Huang and his Turn-Around
+  - URL: https://www.heath.tw/nml-article/exhaustion-of-superficial-existence-dawang-yingfan-huang-and-his-turn-around/
+  - Published: 2012-12-06
+  - Author: 張又升
+  - NML Category: Sound Scene
+  - File: `exhaustion-of-superficial-existence-dawang-yingfan-huang-and-his-turn-around.md`
+- Mary Pansaga: Exhibition Archives – Capturing Differing Perceptions
+  - URL: https://www.heath.tw/nml-article/exhibition-archives-capturing-differing-perceptions-mary-pansaga/
+  - Published: 2016-03-01
+  - Author: Mary Pansanga
+  - NML Category: Art Production
+  - Original Source: 台北當代藝術中心 (2015)
+  - File: `exhibition-archives-capturing-differing-perceptions-mary-pansaga.md`
+- Exploring the Contemporaneity of Taman Siswa – Alternative Education in Indonesia
+  - URL: https://www.heath.tw/nml-article/explore-the-contemporaneity-of-taman-siswa-rethink-alternative-education-in-indonesia/
+  - Published: 2018-04-09
+  - Author: 蘇穎欣
+  - NML Category: Residency
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `explore-the-contemporaneity-of-taman-siswa-rethink-alternative-education-in-indonesia.md`
+- Finding Homeland in the Languages: Chronology on Death, Readymade, and Outsider
+  - URL: https://www.heath.tw/nml-article/finding-homeland-in-the-languages-chronology-on-death-readymade-and-outsider/
+  - Published: 2018-01-04
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 窮劇場，《窮有所本》（2017）
+  - File: `finding-homeland-in-the-languages-chronology-on-death-readymade-and-outsider.md`
+- FM Treasures: Datscha Radio Taipei
+  - URL: https://www.heath.tw/nml-article/fm-treasures-datscha-radio-taipei/
+  - Published: 2019-05-01
+  - Author: 胡子哥 ， 鄭文琦 (翻譯)
+  - NML Category: Sound Scene
+  - File: `fm-treasures-datscha-radio-taipei.md`
+- For Che Ali: The Rhyme Retrograde
+  - URL: https://www.heath.tw/nml-article/for-che-ali-the-rhyme-retrograde/
+  - Published: 2017-05-29
+  - Author: 鄭文琦
+  - NML Category: Art Production
+  - Original Source: 海馬迴光畫廊《Gurindam Jiwa：區秀詒個展》專文
+  - File: `for-che-ali-the-rhyme-retrograde.md`
+- Four Questions: Jez Riley French Interview with Anja Kanngieser
+  - URL: https://www.heath.tw/nml-article/four-questions-jez-riley-french-interview-with-anja-kanngieser/
+  - Published: 2019-06-03
+  - Author: Jez Riley French， Anja Kanngieser， Rikey Tenn (translator)
+  - NML Category: Sound Scene
+  - File: `four-questions-jez-riley-french-interview-with-anja-kanngieser.md`
+- From Archive to Tribes in Taiwan and Malaysia – Jeffrey Lim’s KANTA Portraits
+  - URL: https://www.heath.tw/nml-article/from-archive-to-tribes-in-asia-jeffrey-lims-kanta-portraits/
+  - Published: 2019-03-03
+  - Author: 鄭文琦 ， Jeffrey Lim
+  - NML Category: Interview, Meeting NML
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `from-archive-to-tribes-in-asia-jeffrey-lims-kanta-portraits.md`
+- From Art to Culture: How Juichung Yao Conjures up “Long Live – Landscape”
+  - URL: https://www.heath.tw/nml-article/from-art-to-culture-how-juichung-yao-conjures-up-long-live-landscape/
+  - Published: 2013-04-27
+  - Author: 王柏偉
+  - NML Category: Image
+  - Original Source: 《藝外》no.58
+  - File: `from-art-to-culture-how-juichung-yao-conjures-up-long-live-landscape.md`
+- From Digital Technology to Digital Life: Observation on 2011 Digital Art Festival, Taipei
+  - URL: https://www.heath.tw/nml-article/from-digital-technology-to-digital-life-observation-on-2011-digital-art-festival-taipei/
+  - Published: 2012-08-16
+  - Author: 王柏偉
+  - NML Category: Opinion
+  - Original Source: 《2011台北數位藝術中心年刊》
+  - File: `from-digital-technology-to-digital-life-observation-on-2011-digital-art-festival-taipei.md`
+- From Greater East Asia to Southeast Asia: The Articulation of the Propaganda Film
+  - URL: https://www.heath.tw/nml-article/from-greater-east-asia-to-southeast-asia-the-articulation-of-the-propaganda-film/
+  - Published: 2021-08-18
+  - Author: 陳沛妤
+  - NML Category: Image
+  - File: `from-greater-east-asia-to-southeast-asia-the-articulation-of-the-propaganda-film.md`
+- From “Here” to South Asia
+  - URL: https://www.heath.tw/nml-article/from-here-to-south-asia/
+  - Published: 2021-06-09
+  - Author: Lou Mo
+  - NML Category: Opinion
+  - File: `from-here-to-south-asia.md`
+- From Taipei Biennial to Shanghai Biennale: the Preface
+  - URL: https://www.heath.tw/nml-article/from-taipei-biennial-to-shanghai-biennale-the-preface/
+  - Published: 2015-07-02
+  - Author: 蔡長璜
+  - NML Category: Opinion
+  - Original Source: 《燧火評論》（Promethean Fire Review）
+  - File: `from-taipei-biennial-to-shanghai-biennale-the-preface.md`
+- From the Map on the Palm to the Future Built by Tactile
+  - URL: https://www.heath.tw/nml-article/from-the-map-on-the-palm-to-the-future-built-by-tactile/
+  - Published: 2018-07-20
+  - Author: 印卡
+  - NML Category: Opinion
+  - Original Source: 《今藝術&投資》No.308（2018, May）
+  - File: `from-the-map-on-the-palm-to-the-future-built-by-tactile.md`
+- From White Box to Black Box, and Its Transcendence: Discussion on Curating New-Media Art
+  - URL: https://www.heath.tw/nml-article/from-white-box-to-black-box-and-its-transcendence-discussion-on-curating-new-media-art/
+  - Published: 2012-01-17
+  - Author: 邱誌勇
+  - NML Category: Opinion
+  - Original Source: 《藝術觀點ACT》no.43
+  - File: `from-white-box-to-black-box-and-its-transcendence-discussion-on-curating-new-media-art.md`
+- Fruit Flies, Ants, Seals, and The Horror Story of Biodiversity?
+  - URL: https://www.heath.tw/nml-article/fruit-flies-ants-seals-and-the-horror-story-of-biodiversity/
+  - Published: 2023-02-13
+  - Author: 林怡君
+  - NML Category: Opinion
+  - File: `fruit-flies-ants-seals-and-the-horror-story-of-biodiversity.md`
+- Future Tao: The Great Shift
+  - URL: https://www.heath.tw/nml-article/future-tao-the-great-shift/
+  - Published: 2021-11-16
+  - Author: lololol (林亭君, 張欣)， 黃亮融 (Trans)
+  - NML Category: Residency
+  - File: `future-tao-the-great-shift.md`
+- Gazing Into Absence: All the Lands Within the Seas
+  - URL: https://www.heath.tw/nml-article/gazing-into-absence-all-the-lands-within-the-seas/
+  - Published: 2021-11-04
+  - Author: Lim Sheau Yun， Ong Kar Jin， 鄭文琦 (中譯)
+  - NML Category: Translation
+  - File: `gazing-into-absence-all-the-lands-within-the-seas.md`
+- Gean Moreno: Notes on the Inorganic, Part I: Accelerations (excerption)
+  - URL: https://www.heath.tw/nml-article/gean-moreno-notes-on-the-inorganic-part-i-accelerations-excerption/
+  - Published: 2012-09-25
+  - Author: Gean Moreno
+  - NML Category: Translation
+  - Original Source: e-flux no.31/ translated by Rikey Tenn
+  - File: `gean-moreno-notes-on-the-inorganic-part-i-accelerations-excerption.md`
+- Yuan, Goang-Ming: Backwarding Shots and Dimming Images
+  - URL: https://www.heath.tw/nml-article/goang-ming-yuan-backwarding-shots-and-dimming-images/
+  - Published: 2011-12-28
+  - Author: 楊凱麟
+  - NML Category: Image
+  - File: `goang-ming-yuan-backwarding-shots-and-dimming-images.md`
+- Graveyard of Fire and Ocean: Flowing, Turning, & Termination of Japan’s Southward
+  - URL: https://www.heath.tw/nml-article/graveyard-of-fire-and-ocean-flowing-turning-and-termination-of-japans-southward/
+  - Published: 2018-01-09
+  - Author: 柯念璞 ， 陳佳琪 (翻譯)
+  - NML Category: Residency
+  - File: `graveyard-of-fire-and-ocean-flowing-turning-and-termination-of-japans-southward.md`
+- “Hatsune Miku Is the Voice of Future!”
+  - URL: https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+  - Published: 2012-06-28
+  - Author: 陳寬育， 黃建宏
+  - NML Category: Interview, Sound Scene
+  - Original Source: （特別感謝黃建宏）
+  - File: `hatsune-miku-is-the-voice-of-future.md`
+- Historical Oblivion and Digital Memorial: Interview with FX Harsono
+  - URL: https://www.heath.tw/nml-article/historical-oblivion-and-digital-memorial-interview-with-fx-harsono/
+  - Published: 2017-03-21
+  - Author: 鄭文琦 ， FX Harsono
+  - NML Category: Interview
+  - Original Source: 台灣數位藝術知識與創作流通平台 (Taiwan Digital Arts and Information Center)
+  - File: `historical-oblivion-and-digital-memorial-interview-with-fx-harsono.md`
+- Hito Steyerl: In Defense of the Poor Image
+  - URL: https://www.heath.tw/nml-article/hito-steyerl-in-defense-of-the-poor-image/
+  - Published: 2012-11-15
+  - Author: Hito Steyerl
+  - NML Category: Translation
+  - Original Source: e-flux journal no.10/ translated by Rikey
+  - File: `hito-steyerl-in-defense-of-the-poor-image.md`
+- Hito Steyerl: Politics of the Archive – Translations in Film
+  - URL: https://www.heath.tw/nml-article/hito-steyerl-politics-of-the-archive-translations-in-film/
+  - Published: 2015-11-01
+  - Author: Hito Steyerl， Felix Loi (翻譯)
+  - NML Category: Translation
+  - Original Source: European Institute for Progressive Cultural Policies (eipcp), 03, 2008
+  - File: `hito-steyerl-politics-of-the-archive-translations-in-film.md`
+- Hoo Fan Chon: How to cook Asam Laksa with Tilapia
+  - URL: https://www.heath.tw/nml-article/hoo-fan-chon-how-to-cook-asam-laksa-with-tilapia/
+  - Published: 2017-10-16
+  - Author: Hoo Fan Chon
+  - NML Category: Residency
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `hoo-fan-chon-how-to-cook-asam-laksa-with-tilapia.md`
+- How Chen, Che-Wei’s Deals with Memory Structure in CHILDHOOD
+  - URL: https://www.heath.tw/nml-article/how-chen-che-weis-deals-with-memory-structure-in-childhood/
+  - Published: 2016-05-11
+  - Author: 王柏偉
+  - NML Category: Image
+  - Original Source: 《a.m. post》no.119
+  - File: `how-chen-che-weis-deals-with-memory-structure-in-childhood.md`
+- How Curating Renews Urban Texture? Ruangrupa and Gallery RURU as Expamles
+  - URL: https://www.heath.tw/nml-article/how-curating-renews-urban-texture-ruangrupa-and-gallery-ruru-as-expamles/
+  - Published: 2013-12-17
+  - Author: 鄭文琦
+  - NML Category: Art Production
+  - Original Source: 《典藏今藝術》no.252
+  - File: `how-curating-renews-urban-texture-ruangrupa-and-gallery-ruru-as-expamles.md`
+- How to be Changed by the World – Chinese Sound Practices in Reality (a-f)
+  - URL: https://www.heath.tw/nml-article/how-to-be-changed-by-the-world-chinese-sound-practices-in-reality/
+  - Published: 2016-01-15
+  - Author: 顏峻
+  - NML Category: Sound Scene
+  - File: `how-to-be-changed-by-the-world-chinese-sound-practices-in-reality.md`
+- How to Become an Island? Interview with Hoo Fan Chon, Run Amok
+  - URL: https://www.heath.tw/nml-article/how-to-become-an-island-interview-with-hoo-fan-chon-run-amok/
+  - Published: 2016-11-25
+  - Author: 鄭文琦 ， Zoey Wu (translator)
+  - NML Category: Interview
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `how-to-become-an-island-interview-with-hoo-fan-chon-run-amok.md`
+- How to Create “My/Our” Event: Questions about Performance in Beautiful World – Survival Dance
+  - URL: https://www.heath.tw/nml-article/how-to-create-myour-event-questions-about-performance-in-beautiful-world-survival-dance/
+  - Published: 2012-08-20
+  - Author: 王柏偉
+  - NML Category: Image
+  - File: `how-to-create-myour-event-questions-about-performance-in-beautiful-world-survival-dance.md`
+- How to Write down the Sound – Review on Liu Chih-Hung’s “Sound Geography”
+  - URL: https://www.heath.tw/nml-article/how-to-write-down-the-sound-review-on-liu-chih-hungs-sound-geography/
+  - Published: 2020-03-01
+  - Author: 鄭文琦
+  - NML Category: Sound Scene
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `how-to-write-down-the-sound-review-on-liu-chih-hungs-sound-geography.md`
+- If “Bahasa Jiwa Bangsa”
+  - URL: https://www.heath.tw/nml-article/if-bahasa-jiwa-bangsa/
+  - Published: 2018-06-05
+  - Author: 許芳慈
+  - NML Category: Image
+  - Original Source: 《居所與他方：影像測量計劃》區秀詒個展
+  - File: `if-bahasa-jiwa-bangsa.md`
+- If On a Cloudy Day A “Pontianak”
+  - URL: https://www.heath.tw/nml-article/if-on-a-cloudy-day-a-pontianak/
+  - Published: 2017-01-22
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 原載於《關鍵評論網》藝文版 (2017, 1, 18)
+  - File: `if-on-a-cloudy-day-a-pontianak.md`
+- If “OTAKU reads about Gilles Louis René Deleuze” Is a Future Event: A Conversation with ANIMATE
+  - URL: https://www.heath.tw/nml-article/if-otaku-reads-about-gilles-louis-rene-deleuze-is-a-future-event-a-conversation-with-animate/
+  - Published: 2012-08-24
+  - Author: 楊成瀚
+  - File: `if-otaku-reads-about-gilles-louis-rene-deleuze-is-a-future-event-a-conversation-with-animate.md`
+- If the Music Has Legs: “Exchanged Tokens of Youth”
+  - URL: https://www.heath.tw/nml-article/if-the-music-has-legs-exchanged-tokens-of-youth/
+  - Published: 2016-04-07
+  - Author: 羅悅全
+  - NML Category: Sound Scene
+  - Original Source: 《牯嶺街小劇場文化報》no.46
+  - File: `if-the-music-has-legs-exchanged-tokens-of-youth.md`
+- “Images of Wars” or “Wars of Images”
+  - URL: https://www.heath.tw/nml-article/images-of-wars-or-wars-of-images/
+  - Published: 2014-12-18
+  - Author: 李立鈞
+  - NML Category: Image
+  - Original Source: 《藝外》no.63
+  - File: `images-of-wars-or-wars-of-images.md`
+- In a Mystic Light: “Even They Never Met”
+  - URL: https://www.heath.tw/nml-article/in-a-mystic-light-even-they-never-met/
+  - Published: 2012-05-17
+  - Author: 鄭文琦
+  - NML Category: Image
+  - File: `in-a-mystic-light-even-they-never-met.md`
+- In Between Audience and Stage: Jeremy Deller’s Theatre of People
+  - URL: https://www.heath.tw/nml-article/in-between-audience-and-stage-jeremy-dellers-theatre-of-people/
+  - Published: 2012-05-10
+  - Author: 周郁齡
+  - NML Category: Performance, Sound Scene
+  - File: `in-between-audience-and-stage-jeremy-dellers-theatre-of-people.md`
+- In Between Exhibition and Film: Camille Henrot’s “Grosse Fatigue” and The Pale Fox
+  - URL: https://www.heath.tw/nml-article/in-between-exhibition-and-film-camille-henrots-grosse-fatigue-and-the-pale-fox/
+  - Published: 2015-10-29
+  - Author: 詹育杰
+  - NML Category: Opinion
+  - Original Source: 《藝術家》2014年12月號
+  - File: `in-between-exhibition-and-film-camille-henrots-grosse-fatigue-and-the-pale-fox.md`
+- In Between Sound and Communication: The Problem of Performative Language in Cheng-Ta Yu’s On Set in the City
+  - URL: https://www.heath.tw/nml-article/in-between-sound-and-communication-the-problem-of-performative-language-in-cheng-ta-yus-on-set-in-the-city/
+  - Published: 2013-04-11
+  - Author: 王柏偉
+  - NML Category: Performance
+  - Original Source: 《城市預演：余政達作品展》
+  - File: `in-between-sound-and-communication-the-problem-of-performative-language-in-cheng-ta-yus-on-set-in-the-city.md`
+- In Nation’s Resistance to Modernity: Bhutan’s Contemporary Art
+  - URL: https://www.heath.tw/nml-article/in-nations-resistance-to-modernity-bhutans-contemporary-art/
+  - Published: 2021-05-31
+  - Author: 朱峯誼
+  - NML Category: Interview
+  - File: `in-nations-resistance-to-modernity-bhutans-contemporary-art.md`
+- In Search of the New Narrative (or Crumbling End) of the World
+  - URL: https://www.heath.tw/nml-article/in-search-of-the-new-text-or-the-crumbling-end-of-the-world/
+  - Published: 2014-10-21
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 《藝外》no.60
+  - File: `in-search-of-the-new-text-or-the-crumbling-end-of-the-world.md`
+- In the Name of “Lacking Sound”: Rethinking Audible Scene
+  - URL: https://www.heath.tw/nml-article/in-the-name-of-lacking-sound-rethinking-soundscape/
+  - Published: 2013-11-05
+  - Author: 鄭文琦
+  - NML Category: Sound Scene
+  - Original Source: 《典藏今藝術》no.251
+  - File: `in-the-name-of-lacking-sound-rethinking-soundscape.md`
+- Information of Museum of No Man
+  - URL: https://www.heath.tw/nml-article/information-of-museum-of-no-man/
+  - Published: 2014-09-04
+  - Author: 高森信男
+  - NML Category: Residency
+  - File: `information-of-museum-of-no-man.md`
+- Inhabit the (Moving) Image: Interview with Malaysian Artist Au Sow Yee
+  - URL: https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-malaysian-artist-au-sow-yee/
+  - Published: 2015-04-15
+  - Author: 鄭文琦
+  - NML Category: Interview
+  - File: `inhabit-the-moving-image-interview-with-malaysian-artist-au-sow-yee.md`
+- Installation Art and Museum: A Love Song
+  - URL: https://www.heath.tw/nml-article/installation-art-and-museum-a-love-song/
+  - Published: 2014-09-04
+  - Author: 徐建宇
+  - NML Category: Opinion
+  - File: `installation-art-and-museum-a-love-song.md`
+- Instruction Manuel for the Inner Map: An Astrological Approach
+  - URL: https://www.heath.tw/nml-article/instruction-manuel-for-the-inner-map-astrological-approach-of-dead-souls-at-the-test-drive/
+  - Published: 2014-12-30
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 《藝外》no.63
+  - File: `instruction-manuel-for-the-inner-map-astrological-approach-of-dead-souls-at-the-test-drive.md`
+- Observation on Contemporary Performance Art in Europe
+  - URL: https://www.heath.tw/nml-article/interdisciplinary-observation-on-contemporary-performance-art-in-continental-europe/
+  - Published: 2015-05-14
+  - Author: 吳宜樺
+  - NML Category: Performance
+  - Original Source: 《藝外》no.66
+  - File: `interdisciplinary-observation-on-contemporary-performance-art-in-continental-europe.md`
+- Interview with Messy Sky:  Transmission and Mediation
+  - URL: https://www.heath.tw/nml-article/interview-with-chitti-kasemkitvatana-on-messy-sky-transmittion-and-mediation/
+  - Published: 2016-03-08
+  - Author: Chitti Kasemkitvatana
+  - NML Category: Residency
+  - Original Source: 整理：鄭文琦
+  - File: `interview-with-chitti-kasemkitvatana-on-messy-sky-transmittion-and-mediation.md`
+- Interview with Dayang Yraola, the Curator of Project Glocal Transi(en)t
+  - URL: https://www.heath.tw/nml-article/interview-with-dayang-yraola-the-curator-of-project-glocal-transient/
+  - Published: 2014-02-07
+  - Author: 鄭文琦 ， Dayang Yraola
+  - NML Category: Residency
+  - File: `interview-with-dayang-yraola-the-curator-of-project-glocal-transient.md`
+- Interview with Fairuz Sulaiman, the artist of Project Glocal
+  - URL: https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+  - Published: 2014-02-07
+  - Author: 鄭文琦 ， Fairuz Sulaiman， 張品杰 (Proofreading)
+  - NML Category: Residency
+  - File: `interview-with-fairuz-sulaiman-the-artist-of-project-glocal.md`
+- Interview with I-Yi Hsieh on Nature-Culture
+  - URL: https://www.heath.tw/nml-article/interview-with-hsieh-i-yi-on-the-re-encounter-with-nature-culture/
+  - Published: 2022-12-20
+  - Author: 徐詩雨、吳其育、鄭文琦 (整理)， 徐詩雨 (整理)
+  - NML Category: Interview
+  - Original Source: 「南方宇宙生存指南」計畫
+  - File: `interview-with-hsieh-i-yi-on-the-re-encounter-with-nature-culture.md`
+- Turing the Camera to the Crack of Historical Reality: Interview with IM Heung-Soon
+  - URL: https://www.heath.tw/nml-article/interview-with-im-heung-soon-the-director-of-factory-complex/
+  - Published: 2017-01-16
+  - Author: 謝以萱 (採訪、整理)
+  - NML Category: Interview
+  - File: `interview-with-im-heung-soon-the-director-of-factory-complex.md`
+- Interview with Jan Ritsema, Founder of Performing Arts Forum
+  - URL: https://www.heath.tw/nml-article/interview-with-jan-ritsema-founder-of-performing-arts-forum/
+  - Published: 2016-09-07
+  - Author: 詹育杰
+  - NML Category: Interview
+  - File: `interview-with-jan-ritsema-founder-of-performing-arts-forum.md`
+- The Reading List Project: Interview with Kitartb, the independent bookstore in Kelantan, Malaysia
+  - URL: https://www.heath.tw/nml-article/interview-with-kitartb-the-independent-bookstore-in-kelantan-malaysia/
+  - Published: 2017-10-11
+  - Author: 吳其育 ， Ezzmer Daruh， Okui Lala (採訪統籌)
+  - NML Category: Interview
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `interview-with-kitartb-the-independent-bookstore-in-kelantan-malaysia.md`
+- Interview with Lin-Chin Tsai on the Symptoms of Settler Colonialism
+  - URL: https://www.heath.tw/nml-article/interview-with-lin-chin-tsai-on-the-symptoms-of-settler-colonialism/
+  - Published: 2022-12-31
+  - Author: 吳其育、陳璽安 (訪談)， 陳璽安 (整理)
+  - NML Category: Interview
+  - Original Source: 「南方宇宙生存指南」計畫
+  - File: `interview-with-lin-chin-tsai-on-the-symptoms-of-settler-colonialism.md`
+- Interview with Media Artist Chang, Yung-ta
+  - URL: https://www.heath.tw/nml-article/interview-with-media-artist-chang-yung-ta/
+  - Published: 2011-12-08
+  - Author: 鄭文琦
+  - NML Category: Interview, Sound Scene
+  - File: `interview-with-media-artist-chang-yung-ta.md`
+- Interview with Mirwan Andan, Researcher, Ruangrupa
+  - URL: https://www.heath.tw/nml-article/interview-with-mirwan-andan-researcher-ruangrupa/
+  - Published: 2013-09-10
+  - Author: Mirwan Andan
+  - NML Category: Interview
+  - Original Source: 李依佩、鄭文琦專訪
+  - File: `interview-with-mirwan-andan-researcher-ruangrupa.md`
+- Interview With Nguyen Trinh Thi, DOCLAB, Hanoi
+  - URL: https://www.heath.tw/nml-article/interview-with-nguyen-trinh-thi-doclab-hanoi/
+  - Published: 2015-09-10
+  - Author: 區秀詒 ， 阮純詩
+  - NML Category: Interview
+  - File: `interview-with-nguyen-trinh-thi-doclab-hanoi.md`
+- Interview with Wei-Chih Chen on the Fringes of Our History
+  - URL: https://www.heath.tw/nml-article/interview-with-wei-chih-chen-on-the-fringes-of-our-history/
+  - Published: 2022-12-31
+  - Author: 吳其育、鄭文琦、許修豪 (訪談)， 吳其育 (整理)
+  - NML Category: Interview
+  - Original Source: 「南方宇宙生存指南」計畫
+  - File: `interview-with-wei-chih-chen-on-the-fringes-of-our-history.md`
+- Interview with Yeoh Lian Heng, Lostgens Contemporary Ast Space
+  - URL: https://www.heath.tw/nml-article/interview-with-yeoh-lian-heng-lostgens-contemporary-ast-space/
+  - Published: 2015-08-04
+  - Author: 鄭文琦
+  - NML Category: Interview
+  - File: `interview-with-yeoh-lian-heng-lostgens-contemporary-ast-space.md`
+- Interview with Yih-Ren Lin on the Knowledge of Walking
+  - URL: https://www.heath.tw/nml-article/interview-with-yih-ren-lin-on-the-knowledge-of-walking-and-its-impact/
+  - Published: 2022-12-19
+  - Author: 許修豪 (訪談、整理)
+  - NML Category: Interview
+  - Original Source: 「南方宇宙生存指南」計畫
+  - File: `interview-with-yih-ren-lin-on-the-knowledge-of-walking-and-its-impact.md`
+- Interview with Benjamin Cook and Maria Palacios Cruz, LUX London
+  - URL: https://www.heath.tw/nml-article/interview-wth-benjamin-cook-and-maria-palacios-cruz-lux-london/
+  - Published: 2015-11-25
+  - Author: 周郁齡
+  - NML Category: Interview
+  - File: `interview-wth-benjamin-cook-and-maria-palacios-cruz-lux-london.md`
+- Iola Lenzi: Making History: How Southeast Asian art reconquers the past to conjure the future
+  - URL: https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+  - Published: 2013-01-08
+  - Author: Iola Lenzi
+  - NML Category: Translation
+  - Original Source: 《典藏今藝術》no.217; translated by Rikey Tenn
+  - File: `iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future.md`
+- Isabell Lorey: Governmentality and Self-Precarization
+  - URL: https://www.heath.tw/nml-article/isabell-lorey-governmentality-and-self-precarization-on-the-normalization-of-cultural-producers/
+  - Published: 2016-08-27
+  - Author: 戚育瑄 (翻譯)， 林書全 (校訂)
+  - NML Category: Translation
+  - Original Source: Simon Sheikh (Ed.). CAPITAL (It Fails Us Now). Berlin: b_books 2006, pp. 117-139
+  - File: `isabell-lorey-governmentality-and-self-precarization-on-the-normalization-of-cultural-producers.md`
+- Itaru Ouwan: “Electric Phantom”
+  - URL: https://www.heath.tw/nml-article/itaru-ouwan-electric-phantom/
+  - Published: 2019-05-05
+  - Author: Itaru Ouwan， Sheryl Cheung (translator)
+  - NML Category: Sound Scene
+  - Original Source: lololol.net
+  - File: `itaru-ouwan-electric-phantom.md`
+- Jan Verwoert: Against Interpretation
+  - URL: https://www.heath.tw/nml-article/jan-verwoert-against-interpretation/
+  - Published: 2015-03-25
+  - Author: Jan Verwoert， 蔡明君 (翻譯)
+  - NML Category: Translation
+  - Original Source: Frieze Issue, 7, 2012; translated by Tsai, Ming-chun
+  - File: `jan-verwoert-against-interpretation.md`
+- John Menick: Museum of Malware
+  - URL: https://www.heath.tw/nml-article/john-menick-museum-of-malware/
+  - Published: 2014-11-05
+  - Author: John Menick
+  - NML Category: Translation
+  - Original Source: MOUSSE no.40; translated by Lee, Yen-yi (李彥儀)
+  - File: `john-menick-museum-of-malware.md`
+- John Menick: OK Computer?
+  - URL: https://www.heath.tw/nml-article/john-menick-ok-computer/
+  - Published: 2014-11-05
+  - Author: John Menick
+  - NML Category: Translation
+  - Original Source: Frieze no.161; translated by Lee, Yen-yi (李彥儀)
+  - File: `john-menick-ok-computer.md`
+- KINO-EAR: From the Point of View of Technical Object
+  - URL: https://www.heath.tw/nml-article/kino-ear-from-the-point-of-view-of-technical-object/
+  - Published: 2020-03-01
+  - Author: 鄭文琦
+  - NML Category: Sound Scene
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `kino-ear-from-the-point-of-view-of-technical-object.md`
+- Koh Pich, The End of History, and the Imagination of Common People
+  - URL: https://www.heath.tw/nml-article/koh-pich-the-end-of-history-and-the-imagination-of-common-people/
+  - Published: 2020-09-11
+  - Author: 高俊宏
+  - NML Category: Opinion
+  - File: `koh-pich-the-end-of-history-and-the-imagination-of-common-people.md`
+- Lacking Sound Fest as Unit of Time: Prospect After LSF100
+  - URL: https://www.heath.tw/nml-article/lacking-sound-festival-as-a-unit-of-time-the-prospect-after-the-100th-edition/
+  - Published: 2016-01-20
+  - Author: 張又升
+  - NML Category: Sound Scene
+  - Original Source: 關鍵評論網
+  - File: `lacking-sound-festival-as-a-unit-of-time-the-prospect-after-the-100th-edition.md`
+- Lakec and Lakec: A Very Simple River
+  - URL: https://www.heath.tw/nml-article/lakec-and-lakec-a-very-simple-river/
+  - Published: 2021-09-01
+  - Author: Posak Jodian， 黃瀞瑩 (策劃)
+  - NML Category: Residency
+  - Original Source: 《藝術觀點》No.85
+  - File: `lakec-and-lakec-a-very-simple-river.md`
+- Letter．Callus．Post-War
+  - URL: https://www.heath.tw/nml-article/letter．callus．post-war/
+  - Published: 2020-08-25
+  - Author: 賴英泰， 吳迺菲 (翻譯)
+  - NML Category: Opinion
+  - Original Source: 《情書．手繭．後戰爭》展覽畫冊
+  - File: `letter．callus．post-war.md`
+- LiteraCity 2016: An Interview with Amir Muhammad
+  - URL: https://www.heath.tw/nml-article/literacity-2016-an-interview-with-amir-muhammad/
+  - Published: 2017-09-18
+  - Author: LiteraCity， 鄭文琦 (翻譯)
+  - NML Category: Literature
+  - Original Source: LiteraCity 2016
+  - File: `literacity-2016-an-interview-with-amir-muhammad.md`
+- LiteraCity 2016: An Interview with A. Samad Said
+  - URL: https://www.heath.tw/nml-article/literacity-2016-an-interview-with-samad-said/
+  - Published: 2017-09-18
+  - Author: LiteraCity， 鄭文琦 (翻譯)
+  - NML Category: Literature
+  - Original Source: LiteraCity 2016
+  - File: `literacity-2016-an-interview-with-samad-said.md`
+- Literature Liberated From Singapore Landscape
+  - URL: https://www.heath.tw/nml-article/literature-liberated-from-singapore-landscape/
+  - Published: 2021-01-06
+  - Author: K. Kangalatha， 盧明威Sebastian Susilo (中譯)
+  - NML Category: Literature
+  - File: `literature-liberated-from-singapore-landscape.md`
+- Liu Chih-Hung: Three Notes from Sound Geography IV
+  - URL: https://www.heath.tw/nml-article/liu-chih-hung-three-notes-from-sound-geography-iv/
+  - Published: 2020-03-04
+  - Author: 劉致宏
+  - NML Category: Sound Scene
+  - Original Source: 《聲音地誌IV：達沃與亞庇》
+  - File: `liu-chih-hung-three-notes-from-sound-geography-iv.md`
+- Look Towards A Future Nation – The Retention of The Future Archaeological Site
+  - URL: https://www.heath.tw/nml-article/look-towards-a-future-nation-the-retention-of-the-future-archaeological-site/
+  - Published: 2020-12-17
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `look-towards-a-future-nation-the-retention-of-the-future-archaeological-site.md`
+- Looking for Crab-Shell Man
+  - URL: https://www.heath.tw/nml-article/looking-for-crab-shell-man/
+  - Published: 2013-07-09
+  - Author: 黃博志
+  - NML Category: Art Production
+  - Original Source: 《藍色皮膚：老媽的故事》
+  - File: `looking-for-crab-shell-man.md`
+- Look Outside the Train Window: A Rearview of the Modernist Mind
+  - URL: https://www.heath.tw/nml-article/looking-outside-the-train-window-a-rearview-of-the-modernist-mind/
+  - Published: 2018-07-08
+  - Author: 謝鎮逸
+  - NML Category: Image
+  - File: `looking-outside-the-train-window-a-rearview-of-the-modernist-mind.md`
+- LSF55: Review on Dawang Yingfan Huang’s Sound Art
+  - URL: https://www.heath.tw/nml-article/lsf55-review-on-dawang-yingfan-huangs-sound-art/
+  - Published: 2012-04-05
+  - Author: 張又升
+  - NML Category: Sound Scene
+  - Original Source: 失聲祭網站 (LSF#55駐祭評論)
+  - File: `lsf55-review-on-dawang-yingfan-huangs-sound-art.md`
+- Making Space for the Ghaib (Unseen)
+  - URL: https://www.heath.tw/nml-article/making-space-for-the-ghaib-unseen/
+  - Published: 2020-12-01
+  - Author: Syaheedah Iskandar， 林易萱 (中譯)
+  - NML Category: Translation
+  - Original Source: Southeast of Now: Directions in Contemporary and Modern Art in Asia; Vol3, No2, October 2019
+  - File: `making-space-for-the-ghaib-unseen.md`
+- The Method of Projection: Notes of Misreading on Kota Bharu Video Documentary
+  - URL: https://www.heath.tw/nml-article/map-projection-notes-and-misreading-of-the-video-making-in-kota-bharu/
+  - Published: 2017-11-15
+  - Author: 吳其育 ， Alex Ma (English trans)
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `map-projection-notes-and-misreading-of-the-video-making-in-kota-bharu.md`
+- Map, Ridgeline, Quinine, and Trading of Formosan Aboriginal Artifacts
+  - URL: https://www.heath.tw/nml-article/map-ridgeline-quinine-and-trading-of-formosan-aboriginal-artifacts/
+  - Published: 2019-03-13
+  - Author: 趙宜恬
+  - NML Category: Art Production
+  - Original Source: MoNTUE北師美術館
+  - File: `map-ridgeline-quinine-and-trading-of-formosan-aboriginal-artifacts.md`
+- Mata Nusantara: Changing Course of the “Southward Expansion to Taiwan”
+  - URL: https://www.heath.tw/nml-article/mata-nusantara-on-the-retreat-of-southbound-taiwan/
+  - Published: 2019-06-28
+  - Author: 鄭文琦 ， 黃鈴珺 (翻譯)
+  - NML Category: Opinion
+  - Original Source: 《藝術認證》No.85
+  - File: `mata-nusantara-on-the-retreat-of-southbound-taiwan.md`
+- Mecury Retrograde (A Time for Refection From Your Orbit)
+  - URL: https://www.heath.tw/nml-article/mecury-retrograde-a-time-for-refection-from-your-orbit/
+  - Published: 2012-08-09
+  - Author: 鄭文琦
+  - NML Category: Literature
+  - File: `mecury-retrograde-a-time-for-refection-from-your-orbit.md`
+- Memos on Time within the Time: Time Photography of Marey
+  - URL: https://www.heath.tw/nml-article/memos-on-time-within-the-time-time-photography-of-marey/
+  - Published: 2015-03-25
+  - Author: 李立鈞
+  - NML Category: Image
+  - File: `memos-on-time-within-the-time-time-photography-of-marey.md`
+- Micropolitics at BAAN NOORG
+  - URL: https://www.heath.tw/nml-article/micropolitics-at-baan-noorg/
+  - Published: 2017-03-21
+  - Author: Sebastien Tayac， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: 365 days: Life Muse, 26 January 2017 - 25 February 2017, Art Centre, Silpakorn University
+  - File: `micropolitics-at-baan-noorg.md`
+- Minuteness, Body, Sense: Under the Precondition of “Non-Danse”
+  - URL: https://www.heath.tw/nml-article/minuteness-body-sense-under-the-precondition-of-non-danse/
+  - Published: 2011-12-28
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.231
+  - File: `minuteness-body-sense-under-the-precondition-of-non-danse.md`
+- Art in Production 1: Chen, Bo-wu aka Wetboy
+  - URL: https://www.heath.tw/nml-article/mnml14-art-in-production-1-chen-bo-wu-aka-wetboy/
+  - Published: 2016-04-14
+  - Author: 陳柏屼， 鄭文琦 (整理)
+  - NML Category: Meeting NML
+  - File: `mnml14-art-in-production-1-chen-bo-wu-aka-wetboy.md`
+- Art in Production 1: Media Artist Ku, Kuang-yi
+  - URL: https://www.heath.tw/nml-article/mnml14-art-in-production-1-media-artist-ku-kuang-yi/
+  - Published: 2016-04-14
+  - Author: 顧廣毅， 簡婉竹 (整理)
+  - NML Category: Meeting NML
+  - File: `mnml14-art-in-production-1-media-artist-ku-kuang-yi.md`
+- More Realistic Between Robot and Human? Problems of Postures in “New Vision Liyuan”
+  - URL: https://www.heath.tw/nml-article/more-realistic-between-robot-and-human-problems-of-postures-in-new-vision-liyuan/
+  - Published: 2012-01-16
+  - Author: 王柏偉
+  - NML Category: Performance
+  - File: `more-realistic-between-robot-and-human-problems-of-postures-in-new-vision-liyuan.md`
+- Moving Image Industry in the UK, and Its Anti-Culture Origin
+  - URL: https://www.heath.tw/nml-article/moving-image-industry-in-the-uk-and-its-anti-culture-origin/
+  - Published: 2015-11-25
+  - Author: 周郁齡
+  - NML Category: Art Production
+  - File: `moving-image-industry-in-the-uk-and-its-anti-culture-origin.md`
+- Multilated Harmony: Migration of Diction in Huang, Ming-chuan’s Footage
+  - URL: https://www.heath.tw/nml-article/multilated-harmony-migration-of-diction-in-huang-ming-chuans-footage/
+  - Published: 2015-06-05
+  - Author: 林怡秀
+  - NML Category: Sound Scene
+  - Original Source: 《典藏今藝術》no.258「島嶼聲韻—現代性的音景返響」
+  - File: `multilated-harmony-migration-of-diction-in-huang-ming-chuans-footage.md`
+- Museum of Cryptozoology: Interview with Lai Ho Wang
+  - URL: https://www.heath.tw/nml-article/museum-of-cryptozoology-interview-with-lai-ho-wang/
+  - Published: 2014-09-04
+  - Author: 賴火旺 ， 高森信男
+  - NML Category: Opinion
+  - File: `museum-of-cryptozoology-interview-with-lai-ho-wang.md`
+- “Music Never Stops”: Commemoration of John Cage’s 100th Birthday
+  - URL: https://www.heath.tw/nml-article/music-never-stops-commemoration-of-john-cages-100th-birthday/
+  - Published: 2012-09-13
+  - Author: 謝仲其
+  - NML Category: Sound Scene
+  - File: `music-never-stops-commemoration-of-john-cages-100th-birthday.md`
+- Nanyang Radio Station: An Audio Guide for 228 Peace Memorial Park
+  - URL: https://www.heath.tw/nml-article/nanyang-radio-station-an-audio-guide-for-228-peace-memorial-park/
+  - Published: 2018-09-30
+  - Author: Syafiatudina ， 群島資料庫Nusantara Archive
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `nanyang-radio-station-an-audio-guide-for-228-peace-memorial-park.md`
+- Nature More: A Conversation with Sybille Neumeyer on Mute Dialogues
+  - URL: https://www.heath.tw/nml-article/nature-more-studio-a-conversation-with-sybille-neumeyer-on-mute-dialogues/
+  - Published: 2017-03-28
+  - Author: Sybille Neumeyer， Wu, Hung-fei (翻譯、整理)
+  - NML Category: Art Production
+  - Original Source: （吳虹霏與藝術家於2016～2017年針對《空．談》個展以信件完成之對話）
+  - File: `nature-more-studio-a-conversation-with-sybille-neumeyer-on-mute-dialogues.md`
+- Necropolis For those Without Sleep: Interview with Bani Haykal
+  - URL: https://www.heath.tw/nml-article/necropolis-for-those-without-sleep-interview-with-bani-haykal/
+  - Published: 2017-03-17
+  - Author: 許芳慈 ， Bani Haykal
+  - NML Category: Interview, Sound Scene
+  - File: `necropolis-for-those-without-sleep-interview-with-bani-haykal.md`
+- New Media Art: Chances for Hong Kong and Taiwan, part1
+  - URL: https://www.heath.tw/nml-article/new-media-art-chances-for-hong-kong-and-taiwan-part1/
+  - Published: 2012-03-14
+  - Author: 邱誌勇 ， 黎肖嫻， 貢幼穎 (整理)
+  - NML Category: Interview
+  - File: `new-media-art-chances-for-hong-kong-and-taiwan-part1.md`
+- New Media Art: Chances for Hong Kong and Taiwan, part2
+  - URL: https://www.heath.tw/nml-article/new-media-art-chances-for-hong-kong-and-taiwan-part2/
+  - Published: 2012-03-17
+  - Author: 邱誌勇 ， 黎肖嫻， 廖芊喬， 貢幼穎 (整理)
+  - NML Category: Interview, Sound Scene
+  - File: `new-media-art-chances-for-hong-kong-and-taiwan-part2.md`
+- New out of the Old: Production Epilogue of the fish.the’s first album Gōng
+  - URL: https://www.heath.tw/nml-article/new-out-of-the-old-production-epilogue-of-the-fish-thes-first-album-gong/
+  - Published: 2016-01-20
+  - Author: 張又升
+  - NML Category: Sound Scene
+  - Original Source: (作者為旃陀羅唱片創辦人／fish.the專輯《宮》製作人)
+  - File: `new-out-of-the-old-production-epilogue-of-the-fish-thes-first-album-gong.md`
+- No More Safe Zone: Pierre Huyghe and Philippe Parreno’s “No Ghost just a Shell”
+  - URL: https://www.heath.tw/nml-article/no-more-safe-zone-pierre-huyghe-and-philippe-parrenos-no-ghost-just-a-shell/
+  - Published: 2011-11-06
+  - Author: 王柏偉
+  - NML Category: Image
+  - Original Source: 2011台北數位藝術節：越域
+  - File: `no-more-safe-zone-pierre-huyghe-and-philippe-parrenos-no-ghost-just-a-shell.md`
+- Notes of Traces: Dance Notation
+  - URL: https://www.heath.tw/nml-article/notes-of-traces-dance-notation/
+  - Published: 2015-03-25
+  - Author: 謝杰廷
+  - NML Category: Performance
+  - File: `notes-of-traces-dance-notation.md`
+- Notes on Closed Worlds and Speculative Encounters
+  - URL: https://www.heath.tw/nml-article/notes-on-closed-worlds-and-speculative-encounters/
+  - Published: 2022-09-12
+  - Author: 李雨潔， 鄭文琦 (中譯)
+  - NML Category: Image
+  - Original Source: BLEED 2022
+  - File: `notes-on-closed-worlds-and-speculative-encounters.md`
+- Notes on Measurements: After the exhibition ThaiTai
+  - URL: https://www.heath.tw/nml-article/notes-on-measurements-after-the-exhibition-thaitai/
+  - Published: 2013-03-07
+  - Author: 徐建宇
+  - NML Category: Opinion
+  - File: `notes-on-measurements-after-the-exhibition-thaitai.md`
+- Corpse and Body: Inquiries about Life in “Off the Map”
+  - URL: https://www.heath.tw/nml-article/offthemap/
+  - Published: 2012-12-13
+  - Author: 王柏偉
+  - NML Category: Performance
+  - Original Source: 同步發表於2012數位表演藝術節／許斌攝影
+  - File: `offthemap.md`
+- Okui Lala: A Proposal for Our Future Mother Tongue
+  - URL: https://www.heath.tw/nml-article/okui-lala-a-proposal-for-our-future-mother-tongue/
+  - Published: 2017-09-09
+  - Author: Okui Lala
+  - NML Category: Meeting NML
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `okui-lala-a-proposal-for-our-future-mother-tongue.md`
+- On Dirty Cartography and the problem with Modern Maps
+  - URL: https://www.heath.tw/nml-article/on-dirty-cartography-and-the-problem-with-modern-maps/
+  - Published: 2016-12-29
+  - Author: 陳柏維 (翻譯)， 許芳慈 (潤稿)
+  - NML Category: Translation
+  - Original Source: 2016年台灣國際錄像藝術展(TIVA)
+  - File: `on-dirty-cartography-and-the-problem-with-modern-maps.md`
+- One Day Walk in Patan, Nepal
+  - URL: https://www.heath.tw/nml-article/one-day-walk-in-patan-nepal/
+  - Published: 2021-04-19
+  - Author: 鄭惠文 ， aanoif， Y. S. Lim (copyeditor)
+  - NML Category: Art Production
+  - File: `one-day-walk-in-patan-nepal.md`
+- Online exhibition – Relocation of “Small Things”
+  - URL: https://www.heath.tw/nml-article/online-exhibition-relocation-of-small-things/
+  - Published: 2016-01-03
+  - Author: 鄭文琦
+  - NML Category: Residency
+  - Original Source: 台灣數位藝術知識與創作流通平台「線上藝廊」
+  - File: `online-exhibition-relocation-of-small-things.md`
+- Oral History as Open Source: An Interview with Ismal Muntaha, JAF
+  - URL: https://www.heath.tw/nml-article/oral-history-as-open-source-an-interview-with-ismal-muntaha-jaf/
+  - Published: 2019-03-21
+  - Author: 鄭惠文
+  - NML Category: Interview
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `oral-history-as-open-source-an-interview-with-ismal-muntaha-jaf.md`
+- Ought Death Itself to Be Meaningful? Rachel Rose’s “Sitting, Feeding, Sleeping”
+  - URL: https://www.heath.tw/nml-article/ought-death-itself-to-be-meaningful-rachel-roses-sitting-feeding-sleeping/
+  - Published: 2014-10-06
+  - Author: 王柏偉
+  - NML Category: Image
+  - Original Source: 《藝外》no.61
+  - File: `ought-death-itself-to-be-meaningful-rachel-roses-sitting-feeding-sleeping.md`
+- Our Search of Identity: An Interpretation on Taiwan “Tongzhi” Theatre
+  - URL: https://www.heath.tw/nml-article/our-search-of-identity-an-interpretation-of-taiwan-tongzhi-theater/
+  - Published: 2018-03-01
+  - Author: 蔡雨辰
+  - NML Category: Performance
+  - Original Source: 《以進大同—台北同志生活誌》,財團法人台灣文學發展基金會出版(2017)
+  - File: `our-search-of-identity-an-interpretation-of-taiwan-tongzhi-theater.md`
+- Palm Trees, Helicopters, the Boulder, and the Storyteller
+  - URL: https://www.heath.tw/nml-article/palm-trees-helicopters-the-boulder-and-the-storyteller/
+  - Published: 2019-07-28
+  - Author: Posak Jodian (曾于軒)
+  - NML Category: Image
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `palm-trees-helicopters-the-boulder-and-the-storyteller.md`
+- Party, Film (Image) and Its’ Historical Index System
+  - URL: https://www.heath.tw/nml-article/party-film-image-and-its-historical-index-system/
+  - Published: 2016-03-17
+  - Author: 區秀詒 ， Zoey Wu (trans)
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `party-film-image-and-its-historical-index-system.md`
+- Peter L. Galison: The Refusal of Time
+  - URL: https://www.heath.tw/nml-article/peter-l-galison-the-refusal-of-time/
+  - Published: 2016-12-05
+  - Author: 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: William Kentridge & Peter L. Galison, The Refusal of Time; dOCUMENTA (13): 100 Notizen, No009. Hatje Cantz
+  - File: `peter-l-galison-the-refusal-of-time.md`
+- Photography as Ethnographic Method: The Anthropological Photographic Archives in Japanese Colonial Taiwan, 1
+  - URL: https://www.heath.tw/nml-article/photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-1/
+  - Published: 2018-11-30
+  - Author: 陳偉智， 蔡牧容 (翻譯)
+  - NML Category: Image
+  - Original Source: 《現代美術學報》No.33
+  - File: `photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-1.md`
+- Photography as Ethnographic Method: The Anthropological Photographic Archives in Japanese Colonial Taiwan, 2
+  - URL: https://www.heath.tw/nml-article/photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-2/
+  - Published: 2018-12-04
+  - Author: 陳偉智， 蔡牧容 (翻譯)
+  - NML Category: Image
+  - Original Source: 《現代美術學報》No.33
+  - File: `photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-2.md`
+- Photography as Ethnographic Method: The Anthropological Photographic Archives in Japanese Colonial Taiwan, 3
+  - URL: https://www.heath.tw/nml-article/photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-3/
+  - Published: 2018-12-06
+  - Author: 陳偉智， 蔡牧容 (翻譯)， 黃鈴珺 (潤稿)
+  - NML Category: Image
+  - Original Source: 《現代美術學報》No.33
+  - File: `photography-as-ethnographic-method-the-anthropological-photographic-archives-in-japanese-colonial-taiwan-part-3.md`
+- Phu-Bao-Gin-Maew: Thaiisaan Sound
+  - URL: https://www.heath.tw/nml-article/phu-bao-gin-maew-thaiisaan-sound/
+  - Published: 2022-08-23
+  - Author: Pisitakun Kuantalaeng， Penwadee Nophaket Manont (trans.)
+  - NML Category: Performance
+  - Original Source: Nusasonic.com
+  - File: `phu-bao-gin-maew-thaiisaan-sound.md`
+- Playing to Change the World? Interview with Blast Theory Artist Nick Tandavanitj
+  - URL: https://www.heath.tw/nml-article/playing-to-change-the-world-interview-with-blast-theory-artist-nick-tandavanitj/
+  - Published: 2011-11-21
+  - Author: 鄭文琦
+  - NML Category: Interview
+  - File: `playing-to-change-the-world-interview-with-blast-theory-artist-nick-tandavanitj.md`
+- Animation of Poor Image, Or “Post-Digital” Future of Animation?
+  - URL: https://www.heath.tw/nml-article/poor-image-animation-or-post-digital-future-of-animation/
+  - Published: 2016-08-03
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 關鍵評論網（2016年7月）；此處為未刪減版。
+  - File: `poor-image-animation-or-post-digital-future-of-animation.md`
+- Possible Impossible Movie: Shezad Dawood’s “Towards the Possible Film”
+  - URL: https://www.heath.tw/nml-article/possible-impossible-movie-shezad-dawoods-towards-the-possible-film/
+  - Published: 2014-10-16
+  - Author: 江凌青
+  - NML Category: Image
+  - Original Source: 《藝外》no.60
+  - File: `possible-impossible-movie-shezad-dawoods-towards-the-possible-film.md`
+- Possiblities of Interdisciplinary Digital Art Performance and Its Contradiction
+  - URL: https://www.heath.tw/nml-article/possiblities-of-interdisciplinary-digital-art-performance-and-its-contradiction/
+  - Published: 2013-08-27
+  - Author: 邱誌勇
+  - NML Category: Performance
+  - File: `possiblities-of-interdisciplinary-digital-art-performance-and-its-contradiction.md`
+- Post-Industrial Experiment of “Ono-Sendai” or “Body of Delirium Tremens”
+  - URL: https://www.heath.tw/nml-article/post-industrial-experiment-of-ono-sendai-or-body-of-delirium-tremens/
+  - Published: 2015-01-06
+  - Author: 雷煦光
+  - Original Source: 表演藝術評論台
+  - File: `post-industrial-experiment-of-ono-sendai-or-body-of-delirium-tremens.md`
+- Postures Between 0 and 1: Comment on Mannet Villariba’s “Type: Zero”
+  - URL: https://www.heath.tw/nml-article/postures-between-0-and-1-comment-on-mannet-villaribas-type-zero/
+  - Published: 2014-05-13
+  - Author: 史旻玠
+  - NML Category: Performance
+  - Original Source: 《藝外》no.56
+  - File: `postures-between-0-and-1-comment-on-mannet-villaribas-type-zero.md`
+- Predicament and Contradiction for Development of Digital Art in Taiwan Seen in Digital Art Festival 2011
+  - URL: https://www.heath.tw/nml-article/predicament-and-contradiction-for-development-of-digital-art-in-taiwan-seen-in-digital-art-festival-2011/
+  - Published: 2011-11-06
+  - Author: 邱誌勇
+  - NML Category: Opinion
+  - Original Source: 《2011台北數位藝術中心年刊》
+  - File: `predicament-and-contradiction-for-development-of-digital-art-in-taiwan-seen-in-digital-art-festival-2011.md`
+- Producing Disturbance: Herman Kolgen’s “Train Fragments”
+  - URL: https://www.heath.tw/nml-article/producing-disturbance-herman-kolgens-train-fragments/
+  - Published: 2012-02-23
+  - Author: 王柏偉
+  - NML Category: Performance
+  - File: `producing-disturbance-herman-kolgens-train-fragments.md`
+- Production and Meta-Analysis of Diagram:  “Nameless Man” and  Mirror Image in Che-Yu Hsu’s Work
+  - URL: https://www.heath.tw/nml-article/production-and-meta-analysis-of-diagram-nameless-man-and-mirror-image-in-che-yu-hsus-work/
+  - Published: 2015-04-16
+  - Author: 林怡秀
+  - NML Category: Image
+  - Original Source: 《我們是否工作過量I：工作手冊》
+  - File: `production-and-meta-analysis-of-diagram-nameless-man-and-mirror-image-in-che-yu-hsus-work.md`
+- Production of Body Images and Physical Labor: Review on Hou, I-Ting’s Sewing Fields
+  - URL: https://www.heath.tw/nml-article/production-of-body-images-and-physical-labor-review-on-hou-i-tings-sewing-fields/
+  - Published: 2016-06-23
+  - Author: 吳嘉瑄
+  - NML Category: Image
+  - File: `production-of-body-images-and-physical-labor-review-on-hou-i-tings-sewing-fields.md`
+- Queer (Documents of Contemporary Arts): Queer Intolerability and its Attachments (Excerpt)
+  - URL: https://www.heath.tw/nml-article/queer-documents-of-contemporary-arts-queer-intolerability-and-its-attachments-excerpt/
+  - Published: 2018-03-22
+  - Author: David J. Getsy， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: Queer (Documents of Contemporary Art), Whitechapel Gallery and MIT Press
+  - File: `queer-documents-of-contemporary-arts-queer-intolerability-and-its-attachments-excerpt.md`
+- Queer Singapore Literature: A Brief Overview
+  - URL: https://www.heath.tw/nml-article/queer-singapore-literature-a-brief-overview/
+  - Published: 2021-01-06
+  - Author: Ng Yi-Sheng， 盧明威Sebastian Susilo (中譯)
+  - NML Category: Literature
+  - File: `queer-singapore-literature-a-brief-overview.md`
+- Queering My Oblivion: With/Out 2017 & Loo Zihan’s Poetics of Archive
+  - URL: https://www.heath.tw/nml-article/queering-my-oblivion-without-2017-and-loo-zihans-poetics-of-archive/
+  - Published: 2018-01-22
+  - Author: 許芳慈 ， 戚育瑄 (翻譯)
+  - NML Category: Performance
+  - File: `queering-my-oblivion-without-2017-and-loo-zihans-poetics-of-archive.md`
+- Queering My Remembrance: A Conversation with Loo Zihan
+  - URL: https://www.heath.tw/nml-article/queering-my-remembrance-a-conversation-with-loo-zihan/
+  - Published: 2018-02-05
+  - Author: 許芳慈 ， 戚育瑄 (翻譯)
+  - NML Category: Performance
+  - File: `queering-my-remembrance-a-conversation-with-loo-zihan.md`
+- Reading Singapore: A Dialogue on Art Space
+  - URL: https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+  - Published: 2013-12-31
+  - Author: 鄭文琦
+  - NML Category: Art Production
+  - File: `reading-sigapore-a-dialogue-on-art-space.md`
+- Reconsidering Bagnkok: Art Exchange in Five Art Scenes
+  - URL: https://www.heath.tw/nml-article/reconsidering-bagnkok-art-exchange-in-five-art-scenes/
+  - Published: 2013-05-22
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 《藝術家》2013年5月號
+  - File: `reconsidering-bagnkok-art-exchange-in-five-art-scenes.md`
+- Reflection on Bodies of Water: Some Ideas Permeate
+  - URL: https://www.heath.tw/nml-article/reflection-on-bodies-of-water-some-ideas-permeate/
+  - Published: 2023-03-14
+  - Author: 謝詠程
+  - NML Category: Opinion
+  - File: `reflection-on-bodies-of-water-some-ideas-permeate.md`
+- Regarding the Six Approaches Shaping “Asia” in light of “ROUNDTABLE” (9th Gwangju Biennale)
+  - URL: https://www.heath.tw/nml-article/regarding-the-six-approaches-shaping-asia-in-light-of-roundtable-9th-gwangju-biennale/
+  - Published: 2012-11-22
+  - Author: 高森信男
+  - NML Category: Opinion
+  - File: `regarding-the-six-approaches-shaping-asia-in-light-of-roundtable-9th-gwangju-biennale.md`
+- Regarding the War of Others – Something about LETTER．CALLUS．POST-WAR
+  - URL: https://www.heath.tw/nml-article/regarding-the-war-of-others-something-about-letter．callus．post-war/
+  - Published: 2019-09-10
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: ARTouch.com（2019/08/07）
+  - File: `regarding-the-war-of-others-something-about-letter．callus．post-war.md`
+- Report on the Environmental Art in Taiwan
+  - URL: https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+  - Published: 2017-04-21
+  - Author: 吳虹霏
+  - NML Category: Opinion
+  - File: `report-on-the-environmental-art-in-taiwan.md`
+- Resist the Normalized Self-Destruction of Atypical Labor: on Art Production during the Pandemic
+  - URL: https://www.heath.tw/nml-article/resist-the-normalized-self-destruction-of-atypical-labor-on-art-production-during-the-pandemic/
+  - Published: 2020-09-28
+  - Author: 吳祥賓
+  - NML Category: Art Production
+  - File: `resist-the-normalized-self-destruction-of-atypical-labor-on-art-production-during-the-pandemic.md`
+- Resonance of The Sea: When You Read A Wave
+  - URL: https://www.heath.tw/nml-article/resonance-of-the-sea-review-on-when-you-read-a-wave/
+  - Published: 2021-10-08
+  - Author: 陳沛妤
+  - NML Category: Literature
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `resonance-of-the-sea-review-on-when-you-read-a-wave.md`
+- Rethinking Technology: Sense of Future for “Render Ghost”?
+  - URL: https://www.heath.tw/nml-article/rethinking-technology-theatre-a-sense-of-future-for-render-ghost/
+  - Published: 2016-02-09
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.280
+  - File: `rethinking-technology-theatre-a-sense-of-future-for-render-ghost.md`
+- Colonial Science of Cinchona Bark: Interview with Ting Chaong-Wen
+  - URL: https://www.heath.tw/nml-article/rethinking-the-colonial-science-of-cinchona-bark-interview-with-ting-chaong-wen/
+  - Published: 2019-02-11
+  - Author: 林心如Sylvie Lin (專訪/翻譯)
+  - NML Category: Interview
+  - Original Source: OFF-SITE_Project 3 Micro-historical in Peru
+  - File: `rethinking-the-colonial-science-of-cinchona-bark-interview-with-ting-chaong-wen.md`
+- Retrospective: The Bangladeshi Art Scene in 2020
+  - URL: https://www.heath.tw/nml-article/retrospective-the-bangladeshi-art-scene-in-2020-last-but-not-least/
+  - Published: 2021-05-31
+  - Author: 鄭惠文
+  - NML Category: Opinion
+  - File: `retrospective-the-bangladeshi-art-scene-in-2020-last-but-not-least.md`
+- Reversion of Messiah: How Political Time Stands Against Apocalypse of Linear History
+  - URL: https://www.heath.tw/nml-article/reversion-of-messiah-how-political-time-stands-against-apocalypse-of-linear-history/
+  - Published: 2012-11-13
+  - Author: 周郁齡
+  - NML Category: Opinion
+  - File: `reversion-of-messiah-how-political-time-stands-against-apocalypse-of-linear-history.md`
+- Review on Blast Theory’s “A Machine to See With”
+  - URL: https://www.heath.tw/nml-article/review-on-blast-theorys-a-machine-to-see-with/
+  - Published: 2011-11-06
+  - Author: 吳宜樺
+  - NML Category: Performance
+  - Original Source: 2011台北數位藝術節：越域
+  - File: `review-on-blast-theorys-a-machine-to-see-with.md`
+- Review on Doug Aitken’ Site-specific Cinema “Sleepwalkers”, MOMA
+  - URL: https://www.heath.tw/nml-article/review-on-doug-aitken-site-specific-cinema-sleepwalkers-moma/
+  - Published: 2012-02-08
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `review-on-doug-aitken-site-specific-cinema-sleepwalkers-moma.md`
+- Review on Oliver Hangl’s “Guerrilla Walks”
+  - URL: https://www.heath.tw/nml-article/review-on-oliver-hangls-guerrilla-walks/
+  - Published: 2011-11-06
+  - Author: 江凌青
+  - NML Category: Performance
+  - Original Source: 2011台北數位藝術節：越域
+  - File: `review-on-oliver-hangls-guerrilla-walks.md`
+- Review on Ryota Kuwakubo’s “The Tenth Sentiment”
+  - URL: https://www.heath.tw/nml-article/review-on-ryota-kuwakubos-the-tenth-sentiment/
+  - Published: 2011-11-06
+  - Author: 王聖閎
+  - NML Category: Image
+  - Original Source: 2011台北數位藝術節：越域
+  - File: `review-on-ryota-kuwakubos-the-tenth-sentiment.md`
+- Review on Teng Chao-ming’s A Monument for the (Im)possibility of Figuring it Out
+  - URL: https://www.heath.tw/nml-article/review-on-teng-chao-mings-a-monument-for-the-impossibility-of-figuring-it-out/
+  - Published: 2012-12-25
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 《現代美術》no.164; 頁60-65
+  - File: `review-on-teng-chao-mings-a-monument-for-the-impossibility-of-figuring-it-out.md`
+- Round Table Discussion of CO-TEMPORARY Southeast Asia-Taiwan Forum, day 1
+  - URL: https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-1/
+  - Published: 2016-08-13
+  - Author: 許芳慈， Theodora Agni， Anang Saptoto， 高森信男， 鄭美雅， 黃漢沖， 符芳俊， 劉威延， Dara Kong， 鄭文琦， OCAC
+  - NML Category: Art Production
+  - Original Source: CO-TEMPORARY：台灣—東南亞藝文交流暨論壇 (打開-當代藝術工作站主辦)
+  - File: `round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-1.md`
+- Round Table Discussion of CO-TEMPORARY Southeast Asia-Taiwan Forum, day 2
+  - URL: https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/
+  - Published: 2016-08-13
+  - Author: 許芳慈， 黃漢沖， 符芳俊， 劉威延， Theodora Agni， Anang Saptoto， Dara Kong， 鄭文琦， OCAC
+  - NML Category: Art Production
+  - Original Source: CO-TEMPORARY：台灣—東南亞藝文交流暨論壇 (打開-當代藝術工作站主辦)
+  - File: `round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2.md`
+- Ruins of the Future  – Review on Industrial Research Institute Affiliated to the Japanese Governor Office
+  - URL: https://www.heath.tw/nml-article/ruins-of-the-future-review-on-industrial-research-institute-affiliated-to-the-japanese-governor-office/
+  - Published: 2017-08-25
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 《典藏今藝術》No.299
+  - File: `ruins-of-the-future-review-on-industrial-research-institute-affiliated-to-the-japanese-governor-office.md`
+- Sea-change: Reflections on Co-curating SUNSHOWER
+  - URL: https://www.heath.tw/nml-article/sea-change-reflections-on-co-curating-sunshower/
+  - Published: 2019-06-28
+  - Author: Ong Jo-Lene
+  - NML Category: Opinion
+  - Original Source: 《藝術認證》No.85
+  - File: `sea-change-reflections-on-co-curating-sunshower.md`
+- Seeing and Touching: “Pulse Curve” of the West vs. Chinese “Pulse Image”
+  - URL: https://www.heath.tw/nml-article/seeing-and-touching-pulse-curve-of-the-west-vs-chinese-pulse-image/
+  - Published: 2015-03-25
+  - Author: 李立鈞
+  - NML Category: Opinion
+  - File: `seeing-and-touching-pulse-curve-of-the-west-vs-chinese-pulse-image.md`
+- Self-Performance of Artist as Star and Digital Zombie
+  - URL: https://www.heath.tw/nml-article/self-performance-of-artist-as-star-and-digital-zombie/
+  - Published: 2015-10-29
+  - Author: 詹育杰
+  - NML Category: Opinion
+  - File: `self-performance-of-artist-as-star-and-digital-zombie.md`
+- Sharing – the Rise of a Concept
+  - URL: https://www.heath.tw/nml-article/sharing-the-rise-of-a-concept/
+  - Published: 2018-09-15
+  - Author: Cornelia Sollfrank， Wolfgang Sützl， 王冠婷 (翻譯)
+  - NML Category: Translation
+  - Original Source: a peer-reviewed journal about; Excessive Research
+  - File: `sharing-the-rise-of-a-concept.md`
+- Sheryl Cheung: Cosmopolitics in Sound
+  - URL: https://www.heath.tw/nml-article/sheryl-cheung-cosmopolitics-in-sound/
+  - Published: 2020-03-15
+  - Author: 張欣
+  - NML Category: Sound Scene
+  - Original Source: lololol.net
+  - File: `sheryl-cheung-cosmopolitics-in-sound.md`
+- Silence: A Few Definitions, Two Pieces of History, and A Conjectured Denotation
+  - URL: https://www.heath.tw/nml-article/silence-a-few-definitions-two-pieces-of-history-and-a-conjectured-denotation/
+  - Published: 2022-03-01
+  - Author: 謝佩君Hsieh Pei-Chun， Lina Dann (Trans)， 聲介面 (編輯)
+  - NML Category: Sound Scene
+  - File: `silence-a-few-definitions-two-pieces-of-history-and-a-conjectured-denotation.md`
+- Silver Noise: Some Scenes on the Sonic Memory of History
+  - URL: https://www.heath.tw/nml-article/silver-noise-some-scenes-on-the-sonic-memory-of-history/
+  - Published: 2019-06-05
+  - Author: 區秀詒
+  - NML Category: Sound Scene
+  - File: `silver-noise-some-scenes-on-the-sonic-memory-of-history.md`
+- SIN CITY: Is Technology Capable of Replacing Actors Onstage?
+  - URL: https://www.heath.tw/nml-article/sin-city-is-technology-capable-of-replacing-actors-onstage/
+  - Published: 2013-12-17
+  - Author: 鄭文琦
+  - Original Source: 《典藏今藝術》no.255
+  - File: `sin-city-is-technology-capable-of-replacing-actors-onstage.md`
+- Sipping Old Town White Coffee at Singapore Arts Festival
+  - URL: https://www.heath.tw/nml-article/sipping-old-town-white-coffee-at-singapore-arts-festival/
+  - Published: 2011-12-15
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.216
+  - File: `sipping-old-town-white-coffee-at-singapore-arts-festival.md`
+- Sites of Historical Events: Battlefield in Australia as Contemporary Museum
+  - URL: https://www.heath.tw/nml-article/site-of-historical-events-battlefield-in-australia-as-contemporary-museum/
+  - Published: 2018-11-07
+  - Author: 陳沛妤
+  - NML Category: Opinion
+  - Original Source: 中華民國博物館學會亞太博物館連線專欄
+  - File: `site-of-historical-events-battlefield-in-australia-as-contemporary-museum.md`
+- Social-Network Conspiracy under Knowledge Structure
+  - URL: https://www.heath.tw/nml-article/social-network-conspiracy-under-knowledge-structure/
+  - Published: 2013-07-19
+  - Author: 賴火旺
+  - NML Category: Art Production
+  - File: `social-network-conspiracy-under-knowledge-structure.md`
+- Something about Nusantara, the Listening, and the Project of Decolonization
+  - URL: https://www.heath.tw/nml-article/something-about-nusantara-the-listening-and-the-project-of-decolonization/
+  - Published: 2017-12-28
+  - Author: Syafiatudina ， 鄭文琦 (翻譯)
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `something-about-nusantara-the-listening-and-the-project-of-decolonization.md`
+- Sound Route: Three Notes on Geography
+  - URL: https://www.heath.tw/nml-article/sound-route-three-notes-on-geography/
+  - Published: 2017-03-02
+  - Author: 吳其育 ， 沈森森， 致穎， Zoey Wu (Translator)
+  - NML Category: Sound Scene
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `sound-route-three-notes-on-geography.md`
+- Southeast Asia: Art history, art today
+  - URL: https://www.heath.tw/nml-article/southeast-asia-art-history-art-today/
+  - Published: 2016-03-21
+  - Author: Patrick D. Flores， 吳伯山 (翻譯)
+  - NML Category: Translation
+  - Original Source: Guggenheim Blog; translated by Wu, Po-shan
+  - File: `southeast-asia-art-history-art-today.md`
+- Stepping Out of the Remains of Museum: Jacob Epstein’s “Rock Driller”
+  - URL: https://www.heath.tw/nml-article/stepping-out-of-the-remains-of-museum-jacob-epsteins-rock-driller/
+  - Published: 2014-09-04
+  - Author: 江凌青
+  - NML Category: Image
+  - File: `stepping-out-of-the-remains-of-museum-jacob-epsteins-rock-driller.md`
+- Sumesh Manoj Sharma: Universalism Authoring Art/ Art the Existential Antidote
+  - URL: https://www.heath.tw/nml-article/sumesh-manoj-sharma-universalism-authoring-art-art-the-existential-antidote/
+  - Published: 2021-06-20
+  - Author: Sumesh Manoj Sharma， 黃鈴珺 (中譯)
+  - NML Category: Art Production
+  - File: `sumesh-manoj-sharma-universalism-authoring-art-art-the-existential-antidote.md`
+- Swiss Choreographer Gilles Jobin and “Quantum”
+  - URL: https://www.heath.tw/nml-article/swiss-choreographer-gilles-jobin-and-quantum/
+  - Published: 2015-05-14
+  - Author: 吳宜樺
+  - NML Category: Residency
+  - File: `swiss-choreographer-gilles-jobin-and-quantum.md`
+- Syafiatudina: Numpang as Inhabiting Thresholds
+  - URL: https://www.heath.tw/nml-article/syafiatudina-numpang-as-inhabiting-thresholds/
+  - Published: 2017-08-24
+  - Author: Syafiatudina ， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `syafiatudina-numpang-as-inhabiting-thresholds.md`
+- Taíno Proof of Sound
+  - URL: https://www.heath.tw/nml-article/taino-proof-of-sound/
+  - Published: 2022-03-01
+  - Author: 莫奴Lou Mo， 聲介面 (編輯)
+  - NML Category: Sound Scene
+  - File: `taino-proof-of-sound.md`
+- Taipei Contemporary Art Center: Past and Present
+  - URL: https://www.heath.tw/nml-article/taipei-contemporary-art-center-past-and-present/
+  - Published: 2015-09-01
+  - Author: 鄭文琦
+  - NML Category: Art Production
+  - Original Source: 《LEAP藝術界》no.34
+  - File: `taipei-contemporary-art-center-past-and-present.md`
+- 10 Years after “Familiar Digits For an Unknown Telephone”
+  - URL: https://www.heath.tw/nml-article/ten-years-after-familiar-digits-for-an-unknown-telephone/
+  - Published: 2016-11-01
+  - Author: 林怡秀
+  - NML Category: Opinion
+  - File: `ten-years-after-familiar-digits-for-an-unknown-telephone.md`
+- The Ambiguous Sound: Four Fables about Future-Crossing Sounds
+  - URL: https://www.heath.tw/nml-article/the-ambiguous-sound-four-fables-about-future-crossing-sounds/
+  - Published: 2022-03-01
+  - Author: 區秀詒 ， Lina Dann (Trans)， 聲介面計畫 (編輯)
+  - NML Category: Sound Scene
+  - File: `the-ambiguous-sound-four-fables-about-future-crossing-sounds.md`
+- The Atypical as Normalcy: Labors in Arts
+  - URL: https://www.heath.tw/nml-article/the-atypical-as-normalcy-labors-in-arts/
+  - Published: 2016-08-25
+  - Author: 林怡秀
+  - NML Category: Opinion
+  - Original Source: 《典藏今藝術》no.277
+  - File: `the-atypical-as-normalcy-labors-in-arts.md`
+- The Body Experiences of Indonesian Migrant Workers
+  - URL: https://www.heath.tw/nml-article/the-body-experiences-of-indonesian-migrant-workers/
+  - Published: 2021-01-08
+  - Author: 吳庭寬
+  - NML Category: Art Production
+  - File: `the-body-experiences-of-indonesian-migrant-workers.md`
+- The Distinction between the Continent and the Island
+  - URL: https://www.heath.tw/nml-article/the-boundary-between-the-continent-and-the-earth-island/
+  - Published: 2021-03-16
+  - Author: 高森信男
+  - NML Category: Opinion
+  - File: `the-boundary-between-the-continent-and-the-earth-island.md`
+- The Coal Mine and The Canaries – An Aesthetics of Sound Relationship
+  - URL: https://www.heath.tw/nml-article/the-coal-mine-and-the-canaries-an-aesthetics-of-sound-relationship/
+  - Published: 2022-03-01
+  - Author: 陳璽安Zian Chen， Lina Dann (Trans)， 聲介面 (編輯)
+  - NML Category: Sound Scene
+  - File: `the-coal-mine-and-the-canaries-an-aesthetics-of-sound-relationship.md`
+- The Constellation of Faces, the Desastre of History – Something about Tsai Ming-Liang’s “Your Face”
+  - URL: https://www.heath.tw/nml-article/the-constellation-of-faces-the-difficulty-of-history-something-about-tsai-ming-liangs-your-face/
+  - Published: 2019-09-10
+  - Author: 陳泰松
+  - NML Category: Performance
+  - File: `the-constellation-of-faces-the-difficulty-of-history-something-about-tsai-ming-liangs-your-face.md`
+- The Dust of Stalkerism
+  - URL: https://www.heath.tw/nml-article/the-dust-of-stalkerism/
+  - Published: 2013-07-17
+  - Author: 張皓馨
+  - NML Category: Opinion
+  - File: `the-dust-of-stalkerism.md`
+- The Endless Journey of Jean Rouch
+  - URL: https://www.heath.tw/nml-article/the-endless-journey-of-jean-rouch/
+  - Published: 2018-02-20
+  - Author: 孫松榮
+  - NML Category: Image
+  - Original Source: 《Fa電影欣賞》，2004年第121期
+  - File: `the-endless-journey-of-jean-rouch.md`
+- The Great Leap of the Radiowave (放送今昔物語)
+  - URL: https://www.heath.tw/nml-article/the-great-leap-of-the-radiowave-放送今昔物語/
+  - Published: 2020-04-28
+  - Author: 賴英泰
+  - NML Category: Sound Scene
+  - Original Source: 《臺灣遞信協會雜誌》1940年第3期
+  - File: `the-great-leap-of-the-radiowave-放送今昔物語.md`
+- The Great Trade of Colonialism: Review on Hsu Chia-Wei’s “Samurai and Deer”
+  - URL: https://www.heath.tw/nml-article/the-great-trade-of-colonialism-review-on-hsu-chia-weis-samurai-and-deer/
+  - Published: 2019-09-10
+  - Author: 印卡
+  - NML Category: Opinion
+  - Original Source: 國藝會「現象書寫－視覺藝評」《藝術的感官複合—何謂亞洲的科技》
+  - File: `the-great-trade-of-colonialism-review-on-hsu-chia-weis-samurai-and-deer.md`
+- The Impossibility of Redistribution: Review on Rosa’s Wound
+  - URL: https://www.heath.tw/nml-article/the-impossibility-of-redistribution-review-on-rosas-wound/
+  - Published: 2017-05-03
+  - Author: 印卡
+  - NML Category: Image
+  - File: `the-impossibility-of-redistribution-review-on-rosas-wound.md`
+- The Integration of Opium in the Southern Sphere (1943)
+  - URL: https://www.heath.tw/nml-article/the-integration-of-opium-in-the-southern-sphere-1943/
+  - Published: 2022-07-14
+  - Author: 荒川淺吉， 鄭惠文 (中譯)， 黃亮融 (Trans.)
+  - NML Category: Art Production
+  - Original Source: 《阿片の認識》
+  - File: `the-integration-of-opium-in-the-southern-sphere-1943.md`
+- The Interrogation on Tourism – Bangkok Art Biennale 2018: Beyond Bliss
+  - URL: https://www.heath.tw/nml-article/the-interrogation-on-tourism-beyond-bliss-bangkok-art-biennale-2018/
+  - Published: 2020-01-20
+  - Author: 印卡
+  - NML Category: Opinion
+  - File: `the-interrogation-on-tourism-beyond-bliss-bangkok-art-biennale-2018.md`
+- The Intimacies of Other Humanities – Lisa Lowe in conversation with Hong-Kai Wang, Oct. 2015
+  - URL: https://www.heath.tw/nml-article/the-intimacies-of-other-humanities-lisa-lowe-in-conversation-with-hong-kai-wang-oct-2015/
+  - Published: 2016-10-25
+  - Author: Lisa Lowe， 林書全 (校潤)， 王虹凱 (審稿)
+  - NML Category: Interview
+  - Original Source: "Spaces of Commoning: Artistic Practices, the Making of Urban Commons and Visions of Change" Project
+  - File: `the-intimacies-of-other-humanities-lisa-lowe-in-conversation-with-hong-kai-wang-oct-2015.md`
+- The Lapse of Time: Something about “Lan-Siu Theng-Chiam (Lasse De Broder)”
+  - URL: https://www.heath.tw/nml-article/the-lapse-of-time-something-about-lan-siu-theng-chiam-lasse-de-broder/
+  - Published: 2020-04-14
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `the-lapse-of-time-something-about-lan-siu-theng-chiam-lasse-de-broder.md`
+- The last man on Earth hears a knock on the door: Interview with OCAC Bangkok
+  - URL: https://www.heath.tw/nml-article/the-last-man-on-earth-hears-a-knock-on-the-door-interview-with-ocac-bangkok/
+  - Published: 2013-01-01
+  - Author: 羅仕東， 徐建宇， 陳思含
+  - NML Category: Interview
+  - File: `the-last-man-on-earth-hears-a-knock-on-the-door-interview-with-ocac-bangkok.md`
+- The Listening Stories in Taiwan, 2007-2012
+  - URL: https://www.heath.tw/nml-article/the-listening-stories-in-taiwan-2007-2012/
+  - Published: 2012-12-19
+  - Author: 澎葉生 (Yannick Dauby)
+  - NML Category: Sound Scene
+  - Original Source: 《數位藝述第二號》（2012）
+  - File: `the-listening-stories-in-taiwan-2007-2012.md`
+- The Map, the Geo-body, and the Forging of ‘Thainess’: Interview with Professor Thongchai Winichakul
+  - URL: https://www.heath.tw/nml-article/the-map-the-geo-body-and-the-forging-of-thainess-interview-with-professor-thongchai-winichakul/
+  - Published: 2019-09-08
+  - Author: Zikri Rahman (interviewer)， Show Ying Xin (copy editor)
+  - NML Category: Interview
+  - File: `the-map-the-geo-body-and-the-forging-of-thainess-interview-with-professor-thongchai-winichakul.md`
+- The Meanings of Imagery in Literature in Le Moulin
+  - URL: https://www.heath.tw/nml-article/the-meanings-of-imagery-in-literature-in-le-moulin/
+  - Published: 2016-06-30
+  - Author: 陳佳琦
+  - NML Category: Literature
+  - Original Source: 《藝術家》2016年5月號
+  - File: `the-meanings-of-imagery-in-literature-in-le-moulin.md`
+- The Mixed History of Museology – An Observation Beyond Singapore Biennale
+  - URL: https://www.heath.tw/nml-article/the-mixed-history-of-museology-beyond-singapore-biennale/
+  - Published: 2020-10-02
+  - Author: 陳沛妤
+  - NML Category: Image
+  - File: `the-mixed-history-of-museology-beyond-singapore-biennale.md`
+- The Moon, the Accomplices and Friends with Benefits: An Interview with soft/WALL/studs
+  - URL: https://www.heath.tw/nml-article/the-moon-the-accomplices-and-friends-with-benefits-an-interview-with-softwallstuds/
+  - Published: 2020-08-17
+  - Author: 呂岱如
+  - NML Category: Interview
+  - File: `the-moon-the-accomplices-and-friends-with-benefits-an-interview-with-softwallstuds.md`
+- The Museums and Their Residents
+  - URL: https://www.heath.tw/nml-article/the-museums-and-their-residents/
+  - Published: 2014-09-03
+  - Author: 林仁達
+  - NML Category: Opinion
+  - File: `the-museums-and-their-residents.md`
+- The Necessity of Symbiosis: The Creative Club Lab in the Scope of Performance Art
+  - URL: https://www.heath.tw/nml-article/the-necessity-of-symbiosis-the-creative-club-lab-in-the-scope-of-performance-art/
+  - Published: 2012-08-10
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 《2011台北數位藝術中心年刊》
+  - File: `the-necessity-of-symbiosis-the-creative-club-lab-in-the-scope-of-performance-art.md`
+- New Way of Visualization and Its Restrictions in Contemporary Dance
+  - URL: https://www.heath.tw/nml-article/the-new-way-of-visualization-and-its-restrictions-in-contemporary-dance/
+  - Published: 2014-06-17
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.260
+  - File: `the-new-way-of-visualization-and-its-restrictions-in-contemporary-dance.md`
+- The Noise Parasite of Composite Conceptual and Sensuous Re-formation, 1
+  - URL: https://www.heath.tw/nml-article/the-noise-parasite-of-composite-conceptual-and-sensual-re-formation-1/
+  - Published: 2019-01-08
+  - Author: 史旻玠
+  - NML Category: Sound Scene
+  - File: `the-noise-parasite-of-composite-conceptual-and-sensual-re-formation-1.md`
+- The Noise Parasite of Composite Conceptual and Sensuous Re-formation, 2
+  - URL: https://www.heath.tw/nml-article/the-noise-parasite-of-composite-conceptual-and-sensuous-re-formation-2/
+  - Published: 2019-01-10
+  - Author: 史旻玠
+  - NML Category: Sound Scene
+  - File: `the-noise-parasite-of-composite-conceptual-and-sensuous-re-formation-2.md`
+- The Obscene Future: A Rearview from FluidØ to I.K.U.
+  - URL: https://www.heath.tw/nml-article/the-obscene-future-a-rearview-from-fluido-to-i-k-u/
+  - Published: 2017-12-28
+  - Author: 張竣昱
+  - NML Category: Performance
+  - File: `the-obscene-future-a-rearview-from-fluido-to-i-k-u.md`
+- The Octopus: Chapter One
+  - URL: https://www.heath.tw/nml-article/the-octopus-chapter-one/
+  - Published: 2022-03-01
+  - Author: 錢詩怡Sam Shiyi Qian， Lina Dann (Trans)， 聲介面 (編輯)
+  - NML Category: Sound Scene
+  - File: `the-octopus-chapter-one.md`
+- The Oral Tradition of the Triangular Slave Trade
+  - URL: https://www.heath.tw/nml-article/the-oral-tradition-of-the-triangular-slave-trade/
+  - Published: 2020-01-04
+  - Author: 印卡
+  - NML Category: Literature
+  - File: `the-oral-tradition-of-the-triangular-slave-trade.md`
+- Performativity of Social Movement and Activeness of Performance
+  - URL: https://www.heath.tw/nml-article/the-performativity-of-social-movement-and-the-activeness-of-performance/
+  - Published: 2018-03-22
+  - Author: 林乃文
+  - NML Category: Performance
+  - File: `the-performativity-of-social-movement-and-the-activeness-of-performance.md`
+- An Autonomous Archive of the Unseen: Post-Museum’s “Bukit Brown Index” Project
+  - URL: https://www.heath.tw/nml-article/the-piracy-the-radiowave-the-bubble-introduction-of-post-museums-bukit-brown-index-project/
+  - Published: 2020-09-17
+  - Author: 鄭文琦 ， Woo Tien Wei， Jennifer Teo， Daisy Lee (translator)
+  - NML Category: Interview
+  - File: `the-piracy-the-radiowave-the-bubble-introduction-of-post-museums-bukit-brown-index-project.md`
+- The Play of Fiction and Magic from Time to Time
+  - URL: https://www.heath.tw/nml-article/the-play-of-fiction-and-magic-from-time-to-time/
+  - Published: 2018-06-19
+  - Author: 林忠模
+  - NML Category: Image
+  - File: `the-play-of-fiction-and-magic-from-time-to-time.md`
+- The Poetic Horizon of Video Projection Events and the Regression of Digital Arts in Taiwan
+  - URL: https://www.heath.tw/nml-article/the-poetic-horizon-of-video-projection-events-and-the-regression-of-digital-arts-in-taiwan/
+  - Published: 2017-06-05
+  - Author: 王聖閎
+  - NML Category: Image
+  - Original Source: 《給下一輪台灣數位藝術的文件：2006-2016》
+  - File: `the-poetic-horizon-of-video-projection-events-and-the-regression-of-digital-arts-in-taiwan.md`
+- The Possibility of Reconstruction Raises from Death of Images
+  - URL: https://www.heath.tw/nml-article/the-possibility-of-reconstruction-raises-from-death-of-images/
+  - Published: 2014-12-04
+  - Author: 區秀詒
+  - NML Category: Image
+  - Original Source: 燧火評論 (2014)
+  - File: `the-possibility-of-reconstruction-raises-from-death-of-images.md`
+- The Post-Digital Society of the Spectacle
+  - URL: https://www.heath.tw/nml-article/the-post-digital-society-of-the-spectacle/
+  - Published: 2014-06-10
+  - Author: 張賜福 ， Wang, Sheng-shih (trans.)
+  - NML Category: Opinion
+  - Original Source: 國立台灣美術館《奇幻視界－2014國際科技藝術展》
+  - File: `the-post-digital-society-of-the-spectacle.md`
+- The Resistance Is Futile? In Defense of Online Activism
+  - URL: https://www.heath.tw/nml-article/the-resistance-is-futile-in-defense-of-online-activism/
+  - Published: 2013-06-27
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 《軟抗爭》，2009
+  - File: `the-resistance-is-futile-in-defense-of-online-activism.md`
+- The Science Research for Digital Art
+  - URL: https://www.heath.tw/nml-article/the-science-research-for-digital-art/
+  - Published: 2017-06-28
+  - Author: 張賜福
+  - NML Category: Opinion
+  - Original Source: 《給下一輪台灣數位藝術的文件：2006-2016》
+  - File: `the-science-research-for-digital-art.md`
+- The Seen and Unseen: Two Systematic Presettings of YCAM’s RAM on Motion
+  - URL: https://www.heath.tw/nml-article/the-seen-and-unseen-two-systematic-presettings-of-ycams-ram-on-motion/
+  - Published: 2014-07-03
+  - Author: 謝杰廷
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》No.260
+  - File: `the-seen-and-unseen-two-systematic-presettings-of-ycams-ram-on-motion.md`
+- The Sense of Acousm(e)tre and Off-screen Space: Ho Tzu Nyen’s “Pythagoras”
+  - URL: https://www.heath.tw/nml-article/the-sense-of-acousmetre-and-off-screen-spaceho-tzu-nyens-pythagoras/
+  - Published: 2015-12-24
+  - Author: 許芳慈
+  - NML Category: Image
+  - Original Source: 《LEAP藝術界》2014年4月
+  - File: `the-sense-of-acousmetre-and-off-screen-spaceho-tzu-nyens-pythagoras.md`
+- The Song of Moonlight and Others in and out of Malaysia
+  - URL: https://www.heath.tw/nml-article/the-song-of-moonlight-and-others-in-and-out-of-malaysia/
+  - Published: 2021-03-12
+  - Author: 區秀詒
+  - NML Category: Sound Scene
+  - File: `the-song-of-moonlight-and-others-in-and-out-of-malaysia.md`
+- The Southern Body and the Voice of History
+  - URL: https://www.heath.tw/nml-article/the-southern-body-and-the-voice-of-history/
+  - Published: 2020-06-15
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `the-southern-body-and-the-voice-of-history.md`
+- The Southern Universe Archives (The Script)
+  - URL: https://www.heath.tw/nml-article/the-southern-universe-archives-the-script/
+  - Published: 2022-11-03
+  - Author: 鄭文琦 ， 黃亮融 (Trans.)
+  - NML Category: Residency
+  - File: `the-southern-universe-archives-the-script.md`
+- The Strange Gestation of Gestures by ila & Syaheedah
+  - URL: https://www.heath.tw/nml-article/the-strange-gestation-of-gestures-by-ila-syaheedah/
+  - Published: 2020-10-27
+  - Author: ila， Syaheedah Iskandar
+  - NML Category: Residency
+  - File: `the-strange-gestation-of-gestures-by-ila-syaheedah.md`
+- The Translator and the Medium: In Conversation with Jane Jin Kaisen
+  - URL: https://www.heath.tw/nml-article/the-translator-and-the-medium-a-conversation-with-jane-jin-kaisen/
+  - Published: 2021-11-24
+  - Author: 柯念璞 ， Thomas R. Argiro (copyeditor)
+  - NML Category: Interview
+  - File: `the-translator-and-the-medium-a-conversation-with-jane-jin-kaisen.md`
+- The Uncertain Future of Kinetic Art in Taiwan (As a Genre of Digital Art)
+  - URL: https://www.heath.tw/nml-article/the-uncertain-future-of-kinetic-art-in-taiwan-as-a-genre-of-digital-art/
+  - Published: 2017-06-03
+  - Author: 王柏偉
+  - NML Category: Opinion
+  - Original Source: 《給下一輪台灣數位藝術的文件：2006-2016》
+  - File: `the-uncertain-future-of-kinetic-art-in-taiwan-as-a-genre-of-digital-art.md`
+- The Undercurrents in Taiwan’s Nude Art: The Sitting, Headless, Deformation, and Autopsy
+  - URL: https://www.heath.tw/nml-article/the-undercurrents-in-taiwans-nude-art-the-sitting-headless-deformation-and-autopsy/
+  - Published: 2018-11-29
+  - Author: 高森信男
+  - NML Category: Opinion
+  - Original Source: 《藝術認證》No.82
+  - File: `the-undercurrents-in-taiwans-nude-art-the-sitting-headless-deformation-and-autopsy.md`
+- The Unsettled Audience and Reader(s): on the Work of “Translation” at Documenta 15
+  - URL: https://www.heath.tw/nml-article/the-unsettled-audience-and-readers-on-the-work-of-translation-at-documenta-15/
+  - Published: 2022-09-07
+  - Author: 許祐綸
+  - NML Category: Opinion
+  - File: `the-unsettled-audience-and-readers-on-the-work-of-translation-at-documenta-15.md`
+- The Wild School: KUNCI School of Improper Education
+  - URL: https://www.heath.tw/nml-article/the-wild-school-kunci-school-of-improper-education-as-an-introduction/
+  - Published: 2017-11-29
+  - Author: 陳湘汶， Zoey Wu (translator)
+  - NML Category: Opinion
+  - File: `the-wild-school-kunci-school-of-improper-education-as-an-introduction.md`
+- Theoretical Anxiety, Writing Strategy: Reflexivity of Self-Confrontation in New Media Art
+  - URL: https://www.heath.tw/nml-article/theoretical-anxiety-writing-strategy-reflexivity-of-self-confrontation-in-new-media-art/
+  - Published: 2012-06-27
+  - Author: 邱誌勇
+  - NML Category: Opinion
+  - Original Source: 《ACT藝術觀點》no.50；本文為節錄
+  - File: `theoretical-anxiety-writing-strategy-reflexivity-of-self-confrontation-in-new-media-art.md`
+- The Question of Institutional Split: Review on Cheng Hsien-yu’s “Sandbox”
+  - URL: https://www.heath.tw/nml-article/thequestionofinstitutionalsplitreviewonchenghsien-yussandbox/
+  - Published: 2018-08-08
+  - Author: 王柏偉
+  - NML Category: Art Production
+  - File: `thequestionofinstitutionalsplitreviewonchenghsien-yussandbox.md`
+- Thousand Islands: The 4th Arkipel International Documentary & Experimental Film Festival
+  - URL: https://www.heath.tw/nml-article/thousand-islands-the-4th-arkipel-international-documentary-experimental-film-festival/
+  - Published: 2016-12-20
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 《藝術家》no.499
+  - File: `thousand-islands-the-4th-arkipel-international-documentary-experimental-film-festival.md`
+- Three Discussions about Travelers I: Travelers’ Mindmaps
+  - URL: https://www.heath.tw/nml-article/three-debates-about-travelers-i-travelers-mindmap/
+  - Published: 2013-02-21
+  - Author: 高森信男
+  - NML Category: Image
+  - File: `three-debates-about-travelers-i-travelers-mindmap.md`
+- Three Discussions about Travelers II: Cultural Maps for Travelers
+  - URL: https://www.heath.tw/nml-article/three-discussions-about-travelers-ii-cultural-maps-for-travelers/
+  - Published: 2013-03-28
+  - Author: 高森信男
+  - NML Category: Image
+  - File: `three-discussions-about-travelers-ii-cultural-maps-for-travelers.md`
+- Thunderbolt, dream, death
+  - URL: https://www.heath.tw/nml-article/thunderbolt-dream-death/
+  - Published: 2012-01-17
+  - Author: 周郁齡
+  - NML Category: Performance
+  - File: `thunderbolt-dream-death.md`
+- Time of Doubles: Interview with Graham Wakefield and Haru Ji
+  - URL: https://www.heath.tw/nml-article/time-of-doubles-interview-with-graham-wakefield-and-haru-ji/
+  - Published: 2012-11-27
+  - Author: 魏克費爾德（Graham Wakefield）， 池日（Haru Ji）
+  - NML Category: Interview
+  - File: `time-of-doubles-interview-with-graham-wakefield-and-haru-ji.md`
+- To An Equally Sober and Immoral Generation
+  - URL: https://www.heath.tw/nml-article/to-an-equally-sober-and-immoral-generation/
+  - Published: 2016-05-11
+  - Author: 鄭文琦
+  - NML Category: Image
+  - Original Source: 《現代美術》no.176
+  - File: `to-an-equally-sober-and-immoral-generation.md`
+- To Blossom Out and Die: Chitti Kasemkitvatana
+  - URL: https://www.heath.tw/nml-article/to-blossom-out-and-die-chitti-kasemkitvatana/
+  - Published: 2016-03-08
+  - Author: 呂岱如 ， Chitti Kasemkitvatana
+  - NML Category: Interview
+  - Original Source: 《物非物》展覽訪談集; interviewed by Esther Lu
+  - File: `to-blossom-out-and-die-chitti-kasemkitvatana.md`
+- To Weave or Not to Weave? The Time Presumption of METAMORPHOSIS OF TIME
+  - URL: https://www.heath.tw/nml-article/to-weave-or-not-to-weave-the-time-presumption-of-metamorphosis-of-time/
+  - Published: 2020-04-13
+  - Author: 鄭文琦
+  - NML Category: Performance
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `to-weave-or-not-to-weave-the-time-presumption-of-metamorphosis-of-time.md`
+- Too Correct to be Referred to as “Contemporary”; Too Conservative to Be Referred to as “Avant-garde”
+  - URL: https://www.heath.tw/nml-article/too-correct-to-be-refered-to-as-contemporary-too-conservative-to-be-referred-to-as-avant-garde/
+  - Published: 2015-08-28
+  - Author: 葉杏柔
+  - NML Category: Art Production
+  - File: `too-correct-to-be-refered-to-as-contemporary-too-conservative-to-be-referred-to-as-avant-garde.md`
+- Splendid “Fireworks”: Heading Towards the Images Left in Memories
+  - URL: https://www.heath.tw/nml-article/toward-the-image-of-retained-memories-review-on-apichatpong-weerasethakuls-fireworks/
+  - Published: 2016-07-05
+  - Author: 印卡
+  - NML Category: Image
+  - File: `toward-the-image-of-retained-memories-review-on-apichatpong-weerasethakuls-fireworks.md`
+- Towards a Political Coordinate where Art and Sustainability Intersect
+  - URL: https://www.heath.tw/nml-article/towards-a-political-coordinate-where-art-and-sustainability-intersect/
+  - Published: 2017-04-25
+  - Author: 吳虹霏
+  - NML Category: Opinion
+  - File: `towards-a-political-coordinate-where-art-and-sustainability-intersect.md`
+- Traveler, Route and Place(s): An Interview with Phuan Thai Meng
+  - URL: https://www.heath.tw/nml-article/traveler-route-and-places-an-interview-with-malaysian-artist-phuan-thai-meng/
+  - Published: 2021-11-08
+  - Author: 林怡君 (訪談)， 董綾 (trans)
+  - NML Category: Residency
+  - File: `traveler-route-and-places-an-interview-with-malaysian-artist-phuan-thai-meng.md`
+- Traveler, Tourist, and Art Field – HOJOKI SHIKI as A Case Study
+  - URL: https://www.heath.tw/nml-article/traveler-tourist-and-art-field-hojoki-shiki-as-a-case-study/
+  - Published: 2019-03-15
+  - Author: 印卡
+  - NML Category: Opinion
+  - File: `traveler-tourist-and-art-field-hojoki-shiki-as-a-case-study.md`
+- Jon Ippolito: Trusting Amateurs with Our Future
+  - URL: https://www.heath.tw/nml-article/trusting-amateurs-with-our-future/
+  - Published: 2018-09-26
+  - Author: Jon Ippolito， 林心如 (翻譯)
+  - NML Category: Translation
+  - Original Source: Christiane Paul, ed., A Companion to Digital Art (Hoboken: Wiley Blackwell)
+  - File: `trusting-amateurs-with-our-future.md`
+- Two Islands: Pulau Cerah, the Birth of Islands
+  - URL: https://www.heath.tw/nml-article/two-islands-pulau-cerah-the-birth-of-islands/
+  - Published: 2015-07-14
+  - Author: 高森信男
+  - NML Category: Opinion
+  - File: `two-islands-pulau-cerah-the-birth-of-islands.md`
+- Two Islands: Pulau Hantu, the Dying Islands
+  - URL: https://www.heath.tw/nml-article/two-islands-pulau-hantu-the-dying-islands/
+  - Published: 2015-07-14
+  - Author: 高森信男
+  - NML Category: Opinion
+  - File: `two-islands-pulau-hantu-the-dying-islands.md`
+- Two Notes on Banda Islands
+  - URL: https://www.heath.tw/nml-article/two-notes-on-banda-islands/
+  - Published: 2019-06-13
+  - Author: 吳思嶔， 陳佳鈴 (翻譯)
+  - NML Category: Art Production
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `two-notes-on-banda-islands.md`
+- Ultra-Subjective Space: TEAMLAB Imaging Laboratory
+  - URL: https://www.heath.tw/nml-article/ultra-subjective-space-teamlab-imaging-laboratory/
+  - Published: 2012-05-17
+  - Author: 林怡秀
+  - NML Category: Image
+  - Original Source: 《典藏今藝術》no.223
+  - File: `ultra-subjective-space-teamlab-imaging-laboratory.md`
+- UNCOMPOSITION.COM (excerpt)
+  - URL: https://www.heath.tw/nml-article/uncomposition-com/
+  - Published: 2016-10-24
+  - Author: 劉吉雄
+  - NML Category: Art Production
+  - Original Source: 2016年台灣國際錄像藝術展(TIVA)
+  - File: `uncomposition-com.md`
+- Unfolding the History of Taiwan’s National Calisthenics from Chen Ching-Yao’s “International Radio Exercise”
+  - URL: https://www.heath.tw/nml-article/unfolding-the-history-of-radio-calisthenics-in-taiwan-from-chen-ching-yaos-international-radio-exercise/
+  - Published: 2020-06-30
+  - Author: 鄭文琦
+  - NML Category: Opinion
+  - Original Source: 台新藝術基金會ARTalks
+  - File: `unfolding-the-history-of-radio-calisthenics-in-taiwan-from-chen-ching-yaos-international-radio-exercise.md`
+- Video as Medium or Media: The Early Contexts of Video Art in Taiwan
+  - URL: https://www.heath.tw/nml-article/video-as-medium-or-media-the-early-contexts-of-video-art-in-taiwan/
+  - Published: 2018-09-22
+  - Author: 王柏偉
+  - NML Category: Image
+  - Original Source: 《藝術家》No.485
+  - File: `video-as-medium-or-media-the-early-contexts-of-video-art-in-taiwan.md`
+- Video Eulogy: Reconsidering the Negative on the Horizon of Moving Image
+  - URL: https://www.heath.tw/nml-article/video-eulogy-reconsidering-the-negative-on-the-horizon-of-moving-image/
+  - Published: 2017-05-14
+  - Author: 許芳慈
+  - NML Category: Image
+  - Original Source: 2016年台灣國際錄像藝術展(TIVA)
+  - File: `video-eulogy-reconsidering-the-negative-on-the-horizon-of-moving-image.md`
+- Virtual Residency: Huang, Po-Chih + Huang, Chien-Yu
+  - URL: https://www.heath.tw/nml-article/virtual-residency-huang-po-chih-huang-chien-yu/
+  - Published: 2016-07-26
+  - Author: 鄭文琦 ， 黃千瑜， 黃博志
+  - NML Category: Residency
+  - File: `virtual-residency-huang-po-chih-huang-chien-yu.md`
+- Visions in the Bubbles: Perception and Experience of “Render Ghost”
+  - URL: https://www.heath.tw/nml-article/visions-in-the-bubbles-the-perception-and-experience-of-render-ghost/
+  - Published: 2016-02-16
+  - Author: 王柏偉
+  - NML Category: Performance
+  - Original Source: 《藝術家》2016年1月號
+  - File: `visions-in-the-bubbles-the-perception-and-experience-of-render-ghost.md`
+- Visual Loop of A Crowd of the Nameless Men: Dehumanization of “Perfect Suspect”
+  - URL: https://www.heath.tw/nml-article/visual-loop-of-a-crowd-of-the-nameless-men-dehumanization-of-perfect-suspect/
+  - Published: 2012-04-12
+  - Author: 王聖閎
+  - NML Category: Image
+  - File: `visual-loop-of-a-crowd-of-the-nameless-men-dehumanization-of-perfect-suspect.md`
+- War and Colonialism: The Juxtaposing Nations Projected in Early Taiwanese & Indonesian Films
+  - URL: https://www.heath.tw/nml-article/war-and-colonialism-the-juxtaposed-nations-projected-in-early-taiwanese-indonesian-films/
+  - Published: 2021-08-10
+  - Author: 陳沛妤
+  - NML Category: Image
+  - File: `war-and-colonialism-the-juxtaposed-nations-projected-in-early-taiwanese-indonesian-films.md`
+- War and Research Institute
+  - URL: https://www.heath.tw/nml-article/war-research-institute-greater-east-asia-taiwan-science-groups-movement-series/
+  - Published: 2022-05-12
+  - Author: 池田鐵作 (Ikeda Tetsusaku)， 楊雨樵 (中譯)
+  - NML Category: Art Production
+  - Original Source: 臺灣當代文化實驗場《場所檔案》#2
+  - File: `war-research-institute-greater-east-asia-taiwan-science-groups-movement-series.md`
+- “We Real Cool”
+  - URL: https://www.heath.tw/nml-article/we-really-cool/
+  - Published: 2016-11-04
+  - Author: Jun Yang， 許芳慈 (翻譯)
+  - NML Category: Literature
+  - Original Source: 2016年台灣國際錄像藝術展(TIVA)
+  - File: `we-really-cool.md`
+- Welcome to my UMA Theatre: Interview with Prof. Lai Ho Wang
+  - URL: https://www.heath.tw/nml-article/welcome-to-my-uma-theatre-interview-with-prof-lai-ho-wang/
+  - Published: 2012-06-29
+  - Author: 賴火旺 ， 吳嘉瑄， 史金納
+  - NML Category: Interview
+  - Original Source: （特別感謝施懿珊）
+  - File: `welcome-to-my-uma-theatre-interview-with-prof-lai-ho-wang.md`
+- Welcome to Planet B and The Festival of Political Correctness
+  - URL: https://www.heath.tw/nml-article/welcome-to-planet-b-and-the-festival-of-political-correctness/
+  - Published: 2022-09-17
+  - Author: 黃彥霖
+  - NML Category: Opinion
+  - File: `welcome-to-planet-b-and-the-festival-of-political-correctness.md`
+- Wet Recipe: Watery and Crispy Mushroom Flow
+  - URL: https://www.heath.tw/nml-article/wet-recipe-watery-and-crispy-mushroom-flow/
+  - Published: 2023-03-14
+  - Author: 葉佳蓉
+  - NML Category: Opinion
+  - File: `wet-recipe-watery-and-crispy-mushroom-flow.md`
+- What Does Art Have to Do with the Public? The Institution
+  - URL: https://www.heath.tw/nml-article/what-does-art-have-to-do-with-the-public-the-institution/
+  - Published: 2016-05-10
+  - Author: 王冠婷
+  - NML Category: Opinion
+  - File: `what-does-art-have-to-do-with-the-public-the-institution.md`
+- What Else can Art Critics Do?
+  - URL: https://www.heath.tw/nml-article/what-else-can-art-critics-do/
+  - Published: 2013-03-11
+  - Author: 王柏偉
+  - NML Category: Art Production
+  - File: `what-else-can-art-critics-do.md`
+- What Makes Writing Art Criticism Worth Devotion?
+  - URL: https://www.heath.tw/nml-article/what-makes-writing-art-criticism-worth-devotion/
+  - Published: 2013-03-11
+  - Author: 王聖閎
+  - NML Category: Art Production
+  - File: `what-makes-writing-art-criticism-worth-devotion.md`
+- When Memories Collide: Revisiting War in Vietnam and the Diaspora
+  - URL: https://www.heath.tw/nml-article/when-memories-collide-revisiting-war-in-vietnam-and-the-diaspora/
+  - Published: 2017-02-09
+  - Author: Võ Hồng Chương-Đài， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: 《Fa電影欣賞》no.168/169
+  - File: `when-memories-collide-revisiting-war-in-vietnam-and-the-diaspora.md`
+- When Perception Turns into Action and Communication: the Interweaven Scene of “Listening” and “Seeing”
+  - URL: https://www.heath.tw/nml-article/when-perception-turns-into-action-and-communication-the-interweaven-scene-of-listening-and-seeing/
+  - Published: 2014-05-07
+  - Author: 史旻玠
+  - NML Category: Sound Scene
+  - Original Source: 《藝外》no51
+  - File: `when-perception-turns-into-action-and-communication-the-interweaven-scene-of-listening-and-seeing.md`
+- When Technology Encounters Dance: Scheme for Digitalization of Contemporary Dance
+  - URL: https://www.heath.tw/nml-article/when-technology-encounters-dance-scheme-for-digitalization-of-contemporary-dance/
+  - Published: 2014-07-10
+  - Author: 雷煦光
+  - NML Category: Performance
+  - Original Source: 《典藏今藝術》no.260
+  - File: `when-technology-encounters-dance-scheme-for-digitalization-of-contemporary-dance.md`
+- When the Imaginary Geography of the Other Becomes Our Daily Landscape, Year: 1927
+  - URL: https://www.heath.tw/nml-article/when-the-imagined-foreign-geography-becomes-our-daily-landscape-1927/
+  - Published: 2021-08-03
+  - Author: 鄒婷TSOU Ting
+  - NML Category: Image
+  - File: `when-the-imagined-foreign-geography-becomes-our-daily-landscape-1927.md`
+- Where is Your Original Work? The Preservation and the Re-exhibition of Taiwanese Time-based Media Art
+  - URL: https://www.heath.tw/nml-article/where-is-your-original-work-lets-talk-about-the-preservation-and-the-re-exhibition-of-taiwanese-time-based-media-art/
+  - Published: 2018-09-18
+  - Author: 陳禹先
+  - NML Category: Opinion
+  - File: `where-is-your-original-work-lets-talk-about-the-preservation-and-the-re-exhibition-of-taiwanese-time-based-media-art.md`
+- Where there is a misunderstanding: Interview with JIANDYIN
+  - URL: https://www.heath.tw/nml-article/where-there-is-a-misunderstanding-interview-with-jiandyin/
+  - Published: 2013-01-31
+  - Author: 鄭文琦 ， Jiandyin
+  - NML Category: Interview
+  - File: `where-there-is-a-misunderstanding-interview-with-jiandyin.md`
+- Who Is TransBorderer? A Conversation between Lee Kuei-Pi & Dolma Tsering
+  - URL: https://www.heath.tw/nml-article/who-is-transborderer-a-conversation-between-lee-kuei-pi-and-dolma-tsering/
+  - Published: 2021-07-14
+  - Author: 李佳霖 (撰稿)， Tsering Tharchin (口譯)
+  - NML Category: Interview
+  - Original Source: 《藝術認證》
+  - File: `who-is-transborderer-a-conversation-between-lee-kuei-pi-and-dolma-tsering.md`
+- Who Will Help Us When We Grow Old and Suck? (Toward the Uninhabited Islands)
+  - URL: https://www.heath.tw/nml-article/who-will-help-us-when-we-grow-old-and-suck-toward-the-uninhabited-islands/
+  - Published: 2021-10-04
+  - Author: Irwen Ahmett， Tita Salina， 林易萱 (Trans)
+  - NML Category: Residency
+  - File: `who-will-help-us-when-we-grow-old-and-suck-toward-the-uninhabited-islands.md`
+- Windward and Leeward – About the French Overseas Departments Removed from the European Continent
+  - URL: https://www.heath.tw/nml-article/windward-and-leeward-about-the-french-overseas-departments-removed-from-the-european-continent/
+  - Published: 2020-01-04
+  - Author: 高森信男
+  - NML Category: Opinion
+  - File: `windward-and-leeward-about-the-french-overseas-departments-removed-from-the-european-continent.md`
+- Workbook for Changing Perspectives: Conversation with Lin Pei-Ying on Inter-(Being)
+  - URL: https://www.heath.tw/nml-article/workbook-for-changing-perspectives-conversation-with-lin-pei-ying-on-inter-being/
+  - Published: 2022-03-18
+  - Author: 朱峯誼
+  - NML Category: Interview
+  - File: `workbook-for-changing-perspectives-conversation-with-lin-pei-ying-on-inter-being.md`
+- World Factory: Contextualiztion along the Moving Border of Interpretation
+  - URL: https://www.heath.tw/nml-article/world-factory-contextualiztion-along-the-moving-border-of-interpretation/
+  - Published: 2015-07-07
+  - Author: 蔡長璜
+  - NML Category: Opinion
+  - Original Source: 《燧火評論》（Promethean Fire Review）
+  - File: `world-factory-contextualiztion-along-the-moving-border-of-interpretation.md`
+- Prabhakar Kamble: Writing Histories in the Time of Forgetfulness
+  - URL: https://www.heath.tw/nml-article/writing-histories-in-the-time-of-forgetfulness/
+  - Published: 2021-06-01
+  - Author: Prabhakar Kamble， Rikey Tenn (中譯)
+  - NML Category: Translation
+  - File: `writing-histories-in-the-time-of-forgetfulness.md`
+- The Memory, Resurrection and Rebirth of Films: Interview with Wu, Chun-hui, part 1
+  - URL: https://www.heath.tw/nml-article/wuchunhui1/
+  - Published: 2016-06-01
+  - Author: 陳平浩， 曾芷筠
+  - NML Category: Image, Interview
+  - Original Source: 財團法人國家電影中心《放映週報》no.178
+  - File: `wuchunhui1.md`
+- The Memory, Resurrection and Rebirth of Films: Interview with Wu, Chun-hui, part 2
+  - URL: https://www.heath.tw/nml-article/wuchunhui2/
+  - Published: 2016-06-02
+  - Author: 陳平浩， 曾芷筠
+  - NML Category: Image, Interview
+  - Original Source: 財團法人國家電影中心《放映週報》no.178
+  - File: `wuchunhui2.md`
+- Yan Jun: How to Mute Crows
+  - URL: https://www.heath.tw/nml-article/yan-jun-how-to-mute-crows/
+  - Published: 2019-05-03
+  - Author: Yan Jun
+  - NML Category: Sound Scene
+  - Original Source: The Wire magazine
+  - File: `yan-jun-how-to-mute-crows.md`
+- A Very Nice Disneyesque Place
+  - URL: https://www.heath.tw/nml-article/yapsaubinaverynicedisneyesqueplace/
+  - Published: 2013-08-01
+  - Author: Yap Sau Bin
+  - NML Category: Translation
+  - Original Source: 馬來西亞《財經日報》（The Edge Daily）文化別刊（Off the Edge），2007
+  - File: `yapsaubinaverynicedisneyesqueplace.md`
+- Zikri Rahman: Mapping Kuala Lumpur Literature
+  - URL: https://www.heath.tw/nml-article/zikri-rahman-mapping-kuala-lumpur-literature-memeta-ruang-saster-kuala-lumpur/
+  - Published: 2017-08-05
+  - Author: 茲克里拉曼 ， 許詠榕, 吳畹妤, 劉欣楠, 洪靜儀, 楊曼玉 (翻譯)， 曾劍鳴 (校潤)
+  - NML Category: Literature
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `zikri-rahman-mapping-kuala-lumpur-literature-memeta-ruang-saster-kuala-lumpur.md`
+- Zikri Rahman: Perceiving Urban Literature
+  - URL: https://www.heath.tw/nml-article/zikri-rahman-perceiving-urban-literature-sastera-kota-yang-dikata/
+  - Published: 2017-08-05
+  - Author: 茲克里拉曼 ， 陳啟耀, 卓慧妮, 張雪兒, 張瑞婷, 陳巧建, 蕭瑋琪 (翻譯)， 蘇穎欣 (校潤)
+  - NML Category: Literature
+  - Original Source: 群島資料庫Nusantara Archive
+  - File: `zikri-rahman-perceiving-urban-literature-sastera-kota-yang-dikata.md`
+- Zuleikha Chaudhari: Rehearsing Azaad Hind Radio
+  - URL: https://www.heath.tw/nml-article/zuleikha-chaudhari-rehearsing-azaad-hind/
+  - Published: 2019-12-02
+  - Author: Zuleikha Chaudhari， 鄭文琦 (翻譯)
+  - NML Category: Translation
+  - Original Source: 2019 Asian Art Biennale
+  - File: `zuleikha-chaudhari-rehearsing-azaad-hind.md`

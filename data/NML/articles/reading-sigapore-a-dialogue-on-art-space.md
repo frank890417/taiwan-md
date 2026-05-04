@@ -1,0 +1,125 @@
+# Reading Singapore: A Dialogue on Art Space
+
+- Source: https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- Slug: reading-sigapore-a-dialogue-on-art-space
+- Type: nml-article
+- Published: 2013-12-31
+- Author: 鄭文琦
+- Editor: 鄭文琦
+- NML Category: Art Production
+- Date Text: December 31st, 2013
+- Featured Image: https://www.heath.tw/wp-content/uploads/2016/06/1381225_448739625245115_2001162112_n.jpg
+
+## Excerpt
+
+公眾利益至上的法規審查及媒體管制，讓人們過去談起新加坡的當代藝術時，總是很難與蓬勃發展的非主流藝術空間聯想在一起。但如今情況似乎有些轉變了，特別是在2012年新聞、通訊與藝術部（MICA）提出以當地社區為主的「藝術與文化策略報告」(註1) ...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/reading-sigapore-a-dialogue-on-art-space/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/reading-sigapore-a-dialogue-on-art-space/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 22 : Space as Archive I Reading Singapore: A Dialogue on Art Space 閱讀新加坡：一個關於藝術空間的對話  December 31st, 2013／ 類型：  Art Production         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/) [https://twitter.com/share?text=Reading%20Singapore%3A%20A%20Dialogue%20on%20Art%20Space&url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/](https://twitter.com/share?text=Reading%20Singapore%3A%20A%20Dialogue%20on%20Art%20Space&url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/)   作者：  [鄭文琦](https://www.heath.tw/contributor-single/?ID=3)  ／  編輯： 鄭文琦         本文為作者於2013新加坡雙年展（If the World Changed）期間，採訪新加坡「灰色計劃」空間負責人／藝術家黃漢冲（Jason Wee），並請益新加坡以藝術家為經營主體的獨立空間脈絡，加以重新整理、潤飾而成的報導。原始採訪則刊登於《典藏今藝術》no.255。    [![image](https://www.heath.tw/wp-content/uploads/2016/06/GREYPROJECTS.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/GREYPROJECTS.jpg) Library, Grey Projects (2013); photo (c) Rikey Tenn  公眾利益至上的法規審查及媒體管制，讓人們過去談起新加坡的當代藝術時，總是很難與蓬勃發展的非主流藝術空間聯想在一起。但如今情況似乎有些轉變了，特別是在2012年新聞、通訊與藝術部（MICA）提出以當地社區為主的「藝術與文化策略報告」(註1) 之後，主管藝術發展的國家藝術理事會（NAC）從MCI（原MICA）移出，歸入新成立的文化社區與青年部（MICC）轄下，某種藉由文化凝聚更緊密的區域認同意識遂成了公部門的藝術發展重點。從八月退出威尼斯雙年展到第四屆新加坡雙年展聚焦東南亞藝術等大動作，讓人看到這波轉向的例證。隨著官方重心的移轉─甚至更早，本地藝術社群和獨立空間就嗅到不一樣的氣息。
+
+ 由新加坡藝術家黃漢冲（Jason Wee）所創立的獨立平台「灰色計劃」（Grey Projects），正是在近幾年新成立的藝術空間。黃漢沖曾經參與南条史生策展的第一屆新加坡雙年展（2006年），也曾獲2008年新加坡年輕藝術家獎（Young Artist Award）的視覺類肯定，而他的創作主軸向來與新加坡的歷史和社會空間息息相關。他還集藝術家、編劇、作家和策展人等角色於一身，更曾擔任過藝術刊物編輯和空間行政等幕後推手。正如許多學成歸國的年輕藝術家，近年來他全力投入空間經營，同時推動非商業性的交換駐村和線上出版計劃。
+
+  **關於灰色計劃**
+
+ 作為一名藝術家，黃漢沖要如何思考並結合自己的創作興趣和本地社群的發展需求？首先藝術家認為，歷史及它的脈絡本是最有趣的地方。他在新加坡完成基本教育，2004年以後申請來到紐約普拉特學院讀攝影，隨後便留在當地教書；2005年到2006年取得惠特尼美術館獨立研究計劃（Whitney Museum Independent Study Program）工作室獎助。早期作品以攝影為主，在接觸不同類型以後，也開始做攝影和錄像裝置，甚至繪畫。總之創作隨著當時概念所需媒介而定，常常是他到了某個地方，想要了解空間脈絡時，就會重複關於該地的計劃。
+
+ 從相同的脈絡出發，這次是攝影，下次可能是裝置。就像每次重訪，總會從相同的材料產生新的結果，因此結果總是改變。藝術家的生涯發展也是如此，從原始的創作者身份變成策展人，又變成空間經營者；更從全球藝術精英薈萃的紐約回到新加坡，突然成立獨立經營的藝術空間，使他成為如其他在全球化浪潮下被迫兩地奔波的空中飛人。由於空間在2012年10月搬進新加坡的中峇魯（Tiong Bahru），並為了擴展工作室和駐村空間而進行裝修工程，該區也是新加坡知名的獨立書店Book Actually所在社區。（事實上，為了尋找更便宜的租金，灰色計劃曾搬過三次，所以今年他更常駐在新加坡，也更注意到本地社群的趨勢。）
+
+ 原文為「Grey Projects」的灰色計畫空間，又是同名的線上出版平台。故事要從四年前剛回新加坡時，黃漢沖從自己公寓開始運作的平台說起。他憶起去紐約之前，曾擔任由Plastique Kinetic Worms機構出版的一份實體雜誌《Vehicle》編輯。當時因為主事者希望執行駐村的相關專案，所以想邀他進入董事會以借重力量。但是他回來以後，計畫宣告暫停，相關的組織於是終止。半年後在友人的建議下，黃漢沖決定沿用當初規劃，自己來做空間。於是灰色計劃就從一個藝術家公寓開始，找了幾個人把客廳改成展間。
+
+ 對於空間的定位，藝術家倒是有不同的想法。他認為，雖然新加坡的藝術場景正在壯大，而且近一兩年有許多新的機構，但目前仍然缺乏讓藝術家彼此可以交流、對話的平台。「所以我想要做一個這樣的空間，或者說：這樣的空間就是我會想去的地方。」那麼我們不禁問，過去新加坡並不缺乏這類的空間，為何後來紛紛關門呢？難道號稱活絡的藝術市場和創作人口並不足以支援藝術空間的存在嗎？
+
+ 黃漢沖不這麼認為；他指出基於某些原因，政府贊助的動機、期望並不太符合藝術從業人員的需要。藝術家的想法是一回事，但官方補助要求觀眾與銷售作品的數字成長，希望藝術家有能力獲得國際藝術行家的青睞。這些都沒有錯，但要達到這樣的目標需要很多步驟。關於這點，他表示：
+
+ > 人們常談Art World這個英文，但我比較喜歡談Art Ecology（藝術生態）。就好比自然的生態，有動植物和不同物種，你不可能只有好的美術館和藝廊。」有了完整的發展生態，當代藝術才能如活水般源源不絕
+
+ 灰色計劃的實體空間包含一個工作室，一個圖書館和二個展間，未來還會挪出一間客房供藝術家申請使用。它也提供交換駐村，目前談好西班牙巴塞隆納和印尼萬隆（Bandung）的相似駐村空間。今年和西班牙的交換駐村是第三年。接下來還要進行一系列出版計畫，每年出版八本藝術書，各邀一位藝術家，還有電子書出版，這都是新的挑戰。正如同時兼具作家身份的黃漢沖，也受邀在古根漢美術館部落格上發表文章，(註2) 文章的主題就是新加坡需要怎樣的空間，而他最新的興趣則是新加坡1980年代的變遷。
+
+  **IARC，藝術村以及其他空間**
+
+ 許多人感慨在新加坡，以藝術家為主的小型活動好像逐漸被更大型的國際藝術博覽會和商業活動取代了；像灰色計劃這樣的獨立空間，有可能改變任何現狀嗎？話說回來，我們可能也很難想像台灣如何歷經20年多來的藝術空間發展起伏，才有現今涵蓋非商業性藝廊和藝術家自發空間群像。如同在本次第四屆盛大舉辦的新加坡雙年展期間，10月26日下午要參加台灣的奧塞德工廠在獨立空間的經驗分享，這也許是台灣藝術團體和本地空間（重新）了解彼此的一個契機。
+
+ 奧塞德工廠的分享講座是新加坡行為藝術家李文的IARC（Independent Archive and Research Center）所主辦的一系列講座之一。談到空間，從2004年到2007年新加坡已有幾個不受政府資助的空間，像是刑萬和（Jeremy Hiah，現為藝術村的藝術總監）經營的Your Mother藝廊，是和烏敏島駐村（Pulau Ubin）同屬於藝術村的駐村計畫，只要是想來新加坡駐村的朋友就可以寫信給他，選擇烏敏島或藝廊居住，但它的運作相當隨性。或許對他來說，**那裡比較像是一個空間而不是一個機構。**
+
+    [![image](https://www.heath.tw/wp-content/uploads/2016/06/10650034_607168822735527_5629842298755835864_n.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/10650034_607168822735527_5629842298755835864_n.jpg) 2013年攝於Objectifs, 已搬遷至the sculpture square; photo (c) Rikey Tenn  另一個從當時成立迄今的Objectifs空間，起初是從事攝影教育推廣的小型藝廊，也發行新加坡的獨立製片與錄像藝術。如果想要研究新加坡的藝術片或錄像作品，這裡倒是個不錯的起點。因為新加坡的獨立影像工作者幾乎都由他們發行，像是陳彬彬、何子彥等。如同藝術村與本地的行為藝術家社群有密切互動，Objectifs也有他們專屬的影像藝術家社群，包含攝影家與電影導演，發展出它自己的組織脈絡。另有2011年被迫遷出而結束空間的後美術館（Post-Museum），它的前身P10則是一對夫婦所發起的策展人團體。
+
+ 2013年新加坡雙年展反映某種風向，所有活躍於東南亞藝術獨立現場的人們，幾乎都在10月底齊聚一堂，包括台灣的奧塞德工廠、菲律賓和印尼的媒體藝術單位，還有越南的當代藝廊與美術學院師生，當然更少不了拍賣會和畫廊從業者，以及新加坡本地的獨立藝術空間。這兩年，新加坡的獨立空間起來了（有一段時間幾乎沒人想搞空間），也許是越來越多年輕人在國外唸藝術，回來後世界觀改變了，不想再仰賴資助也不願政府介入空間營運，所以自己來做空間。甚至有著像platform這樣的虛擬平台，活躍於社群網路上，有眾多出版計劃並在網路上用小額募款方式自籌出版；還有一個叫做Mi Casa的空間，這些空間都沒拿政府的錢 (註3)。當然，「如果有人願意資助，灰色計劃也會出版實體書。」黃漢沖笑著說。
+
+  **思考資源分配**
+
+    [![image](https://www.heath.tw/wp-content/uploads/2016/06/1381721_449965788455832_1807606056_n.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/1381721_449965788455832_1807606056_n.jpg) 2013年攝於The Substation; Photo (c) Rikey Tenn  從藝術家和策展人，再到策劃者（organizer），黃認為是因為自己曾從其他藝術家身上得到很多，事實上藝術家，策展人和策劃者的角色有時很難完全地區分開來。投入空間策劃是相當激勵的過程，而藝術家也值得擁有一個專屬的空間，讓他們充份互相交流。他舉電力站（The Substation）為例，藝術家會去那裡不是因為想看展覽或聽講座，而是因為需要某些場合相遇。事實上，很多藝術家去那裡只是閒晃，找其他藝術家聊天，但越來越沒有讓新加坡藝術家這麼做的地方。所以灰色計劃也提供圖書室，網路或其他資源，只要事先知會他們。
+
+ 無論如何，經營空間或藝術創作，似乎都牽涉到政府資源分配和整體文化政策。藝術創作肯定也受到很多補助和政策影響，然而在新加坡，這種資源分配的影響並非絕對，黃漢沖看到多元文化的滋養，是許多單一語族國家無法取代的優勢。但在嚴格管制的政治風氣下，新加坡作為一個自詡高度現代化的城邦狀態，是否真能發揮這種多元的優勢還有待觀察。如今有越來越多朋友開始對新加坡早期流行的通俗文化，或其他遭到主流漠視的部份有興趣，甚至今年雙年展的平行活動，雕塑廣場的行為藝術檔案展也直指藝術史塵封的公案。雖然現在有藝術登陸新加坡（Art Stage Singapore）這樣的博覽會和藝廊特區 (註4)，但藝術家還有其他需要，獨立空間的交流正能彌補這樣的不足。
+
+ 灰色計劃特別之處是結合閱讀和藝術。身為這個綜合性空間的經營者，對它更有介入這個社區的期許。首先，閱讀和藝術一樣不管有沒有錢，都可以透過閱讀／觀看去探索，訪客可以在個人空間裡閱讀、分享或給予，一切都取決於自己。但這個空間正在經歷一個仕紳化（gentrification）的城市變遷。經營這樣的空間，總希望鼓勵路人走上來看展，直接和藝術家交談。但由於熟齡人口比例較高和年輕族群大量遷入的結構，讓人擔心越來越多雅痞族會導致租金調漲，讓好不容易進駐的藝術人口又被逼走。看來，為了維持城市景觀不致太快改變，不論台灣或新加坡（在全球金融遊戲的嚴峻衝擊下），舊公寓的保留同樣是個挑戰。
+
+ 對於此，黃漢沖為空間提出的因應之道，是在明年提出一個社區計劃，探討有這樣一個社區的意義是什麼？不只是單向地接受它，還要鼓勵群眾參與。目標是不但希望人們成為觀眾和參與者，更促成社區意識的轉變。若是如此，當代藝術將不只是菁英的特權，更是真正回到常民的實踐。藝術家又應該在其中扮演什麼角色呢？這將是值得人們深思的問題。
+
+     [ISSUE 22](https://www.heath.tw/nml-issue/space-as-archive-i/)   [在河之內，在河之外：越南河內的另類影像與紀錄片機構Doclab ， 區秀詒](https://www.heath.tw/nml-article/interview-with-nguyen-trinh-thi-doclab-hanoi/)  [再造公眾性：臺北當代藝術中心的昨日與今日 ， 鄭文琦](https://www.heath.tw/nml-article/taipei-contemporary-art-center-past-and-present/)  [談「當代」太正確，談「前衛」太保守 ， 葉杏柔](https://www.heath.tw/nml-article/too-correct-to-be-refered-to-as-contemporary-too-conservative-to-be-referred-to-as-avant-garde/)  [專訪吉隆坡Lostgens'當代藝術空間 ， 鄭文琦](https://www.heath.tw/nml-article/interview-with-yeoh-lian-heng-lostgens-contemporary-ast-space/)  [策展如何更新都市文化肌理？以雅加達藝術團體Ruangrupa與RURU藝廊為例 ， 鄭文琦](https://www.heath.tw/nml-article/how-curating-renews-urban-texture-ruangrupa-and-gallery-ruru-as-expamles/)  [閱讀新加坡：一個關於藝術空間的對話 ， 鄭文琦](https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/)   Footnote  註1. 參見Darryl WEE，Almanac2013: Singapore；*Art Asia Pacific* (2013)。    註2. http://blogs.guggenheim.org/map/reading-spaces-spaces-for-reading/  [http://blogs.guggenheim.org/map/reading-spaces-spaces-for-reading/](http://blogs.guggenheim.org/map/reading-spaces-spaces-for-reading/)   註3. 本文以介紹藝術家自發的獨立空間（Art-initiative Space）為主。近年還有些政府資助但以非營利性為主的藝術機構，如2011年開幕的月眠藝術中心（Goodman Arts Center）和阿里花藝術中心（Aliwal Arts Center），甚至有2010年本刊介紹過的泰勒版畫研究所（STPI），後者既有商業銷售也有藝術家駐村和藝術推廣等不同面向。    註4. 2012年九月吉爾曼軍營藝術區（Gilliam Barracks）開幕，為13家來自新加坡、日本、印尼、菲律賓、澳洲、韓國、中國、德國、義大利和美國等國的商業藝廊集中經營的聚落群，官方設立用意在於結合經濟發展局、國家藝術理事會甚至民間產業與學界的力量，打造新加坡成為區域藝術研究、交易的平台。  [https://www.gillmanbarracks.com/](https://www.gillmanbarracks.com/)        See Also  [Grey Projects](http://www.greyprojects.org/)   [The Substation](http://www.independentarchive.sg/)   [Independent Archive](http://www.independentarchive.sg/)   [The Artist Village](http://www.tav.org.sg/)   [Objectifs](http://www.objectifs.com.sg/)              ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/contributor-single/?ID=3
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/how-curating-renews-urban-texture-ruangrupa-and-gallery-ruru-as-expamles/
+- https://www.heath.tw/nml-article/interview-with-nguyen-trinh-thi-doclab-hanoi/
+- https://www.heath.tw/nml-article/interview-with-yeoh-lian-heng-lostgens-contemporary-ast-space/
+- https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/?lang=en
+- https://www.heath.tw/nml-article/taipei-contemporary-art-center-past-and-present/
+- https://www.heath.tw/nml-article/too-correct-to-be-refered-to-as-contemporary-too-conservative-to-be-referred-to-as-avant-garde/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/space-as-archive-i/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2016/06/10650034_607168822735527_5629842298755835864_n.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/1381721_449965788455832_1807606056_n.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/GREYPROJECTS.jpg
+
+## External Links
+
+- http://blogs.guggenheim.org/map/reading-spaces-spaces-for-reading/
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- http://www.greyprojects.org/
+- http://www.independentarchive.sg/
+- http://www.objectifs.com.sg/
+- http://www.tav.org.sg/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Reading%20Singapore%3A%20A%20Dialogue%20on%20Art%20Space&url=https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.gillmanbarracks.com/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

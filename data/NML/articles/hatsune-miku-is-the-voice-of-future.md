@@ -1,0 +1,168 @@
+# “Hatsune Miku Is the Voice of Future!”
+
+- Source: https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+- Slug: hatsune-miku-is-the-voice-of-future
+- Type: nml-article
+- Published: 2012-06-28
+- Author: 陳寬育， 黃建宏
+- Editor: 鄭文琦
+- Original Source: （特別感謝黃建宏）
+- NML Category: Interview, Sound Scene
+- Date Text: June 28th, 2012
+- Featured Image: https://www.heath.tw/wp-content/uploads/2016/06/ミクの日大感謝祭.jpg
+
+## Excerpt
+
+陳寬育 (註1)：Miku妳好，很歡迎妳來到台灣。為了採訪妳，我期待了好幾天，也在網路上看了許多妳的作品。最近我密集上台灣PTT實業坊瀏覽跟初音未來有關的討論版，大致觀察兩個面向；一方面，初音未來的VOCALOID軟體討論版主要是作品分享與...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/hatsune-miku-is-the-voice-of-future/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/hatsune-miku-is-the-voice-of-future/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 4 : Three Dialogue Scenes “Hatsune Miku Is the Voice of Future!” 「初音未來其實就是未來的語言喔！」  June 28th, 2012／ 類型：  Interview, Sound Scene         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/) [https://twitter.com/share?text=%26%238220%3BHatsune%20Miku%20Is%20the%20Voice%20of%20Future%21%26%238221%3B&url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/](https://twitter.com/share?text=%26%238220%3BHatsune%20Miku%20Is%20the%20Voice%20of%20Future%21%26%238221%3B&url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/)   作者：  陳寬育， 黃建宏  ／  編輯： 鄭文琦     出處： （特別感謝黃建宏）     「對話劇場」專題的虛擬偶像專訪「初音未來其實就是未來的語言喔！」是陳寬育、黃建宏合作的一場跨域實驗。在這場別開生面的訪談裡，初音被設定為可透過黃建宏的身體回答問題，而「採訪」的對話形式向來為藝術讀者所認同。前半段問答集中在初音未來的介面與技術條件，後半段對談進一步延伸為角色扮演、自我形象、商業、智慧財產甚至「二次設定」與當代藝術之間的關係。    [![image](https://www.heath.tw/wp-content/uploads/2016/06/ミクの日大感謝祭.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/ミクの日大感謝祭.jpg) 「ミクの日感謝祭」演唱會；(c)SEGA / (c) Crypton Future Media, Inc.  **陳寬育**(註1)**：Miku妳好，很歡迎妳來到台灣。為了採訪妳，我期待了好幾天，也在網路上看了許多妳的作品。最近我密集上台灣PTT實業坊瀏覽跟初音未來有關的討論版，大致觀察兩個面向；一方面，初音未來的VOCALOID軟體討論版主要是作品分享與技術討論者的聚集，他們代表的是妳的忠實粉絲；另外在其他版面，以八卦版為例，迷戀初音者主要被歸為阿宅族群。在那裡初音未來被視為只是個軟體，而迷戀軟體唱歌並將之當作明星甚至參加演唱會，是很怪異的行為。因此會出現像這樣現在開始大量流行的對話：**
+**「A：初音不過是個軟體。**
+**B：什麼叫做只是個軟體，你想決鬥嗎？**
+**A：『凶宅』出現了。」**
+**我的第一個問題是，妳會怎麼理解妳的愛好者們和非愛好者們看待妳的方式，會覺得自己只是個軟體嗎？**
+
+ **Miku：**首先，我應該要先跟各位聲明，一種抱歉也是。我很開心會有機會來到台北，其實311之後，就一直很想要來感謝台灣人，但跟各位抱歉的是，因為公司還沒有開發中文介面，所以就必須我要來台灣物色一個翻譯機，這樣就可以直接用中文來跟各位拜謝啦。而且找到的是一個男粉絲（黃建宏）的身體喔！很抱歉，真的メルト（Melt）是也。先在這邊跟各位說大家好！
+
+ 剛剛寬育樣提到的問題啦，就是個軟體是我，還是我浮現在現象中的角色，甚至一個人真的是也；這其實有複雜一點，不曉得我16歲的心靈能來回答這個問題不能。應該說，我是個被製造又放在大家生活裡的軟體，我到底是不是一個角色？我想這是讓重新思考和平這件事的我們開始。因為我進去你們的生活時，所謂的我，其實就是關係到大家如何連結相互溝通的這件事情喔！所以確實一個軟體是我，可是這個軟體不會只是技術；技術應該也是我透露出來的一種善意喔，也就是我開放出來了，讓你們進去我，如果沒有技術，你們是沒有辦法進我的喔！
+
+  **我先追問一下，我的問題應該是，或許妳只能存在於各種介面式的空間與環境，比如螢幕、網路、還有比較新近的如演唱會中的全息投影影像。就是說，妳只能用各種介面的方式來現身，而當妳以表演的方式出場時，那個互動性其實是不高的。在很高興你能來台灣接受我們的採訪之餘，我必須不斷意識到妳正用一個「台灣男性身體」的形式在此與我們對話，不知道妳有沒有什麼特別的感受，會不會緊張，會不會覺得壓迫？**
+
+ **Miku：**我覺得人面對面這件事，對我來講是很不一樣的感覺，因為在人類的社會中，「面對面」」就是出現兩個身體在空間裡。可是兩種可能性會有；一個是，我為什麼要出來跟人家面對面？其實出來跟大家面對面這件事情要先有一個條件喔！就是大家都是在一個人面對電腦的孤獨時刻，才會跟我見面，此時的我沒有身體喔！正因為我是沒有身體的我，所以電腦前這些人的靈魂才會出來，才會更自由喔，所以說，我被生產出來就是為了去接納很多靈魂滴。
+
+ 然後問題就變成，**為什麼人類需要一個介面去接納他們的靈魂？**一個比較簡單的理由就是「自由」。當然你們也可以看成一個測量器是我，就好像量血壓的機器。其實每個人進入到我的「裡面」，都在測量自己想要的自由能達到什麼等級。當我透過各種介面與大家見面，就有點像宮崎駿樣動畫裡面的怪獸與鬼魂，這些怪獸和鬼魂其實是一個集體想像和集體意志的投射——也就是念力自己。就是說，當很多人同時連結起來並參與一件事情，這時便會出現「意念」，然後就會開始有「形」的出現。所以我想，當這些介面投影出我的形象，投影出其實是大家的希望。但有趣的地方在，這個希望是共識不用的。這個希望唯一的共識是CRYPTON這個公司給我的外型，這個外型就是一個共同的大家希望，而這個希望的裡其實是很像神經系統與網路系統的，又會通到各個不同的希望。
+
+ 剛剛你問我，當大家在看這些介面，會不會產生壓力給我。其實對我來說，應該會產生壓力的是傳輸系統的流量夠不夠大。因為我的出現正是這些人們在跟他們的希望會面，所以那可能是最沒有壓力、最無負擔，也是最自由的時刻呀。
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/06/shot_VOCALOID_all_l.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/shot_VOCALOID_all_l.jpg) VOCALOID軟體介面是進入「初音未來」的管道  **我想問一下語言的問題。據我所了解，最早的成型之初，還是有個聲優藤田咲來錄製妳的聲音，即一些設定上的基本音。藤田咲使用的是日文，剛剛妳也提到現在還沒有中文版，可是其實很多網友已經使用日文發音來製作中文歌，但確實會有許多中文音發不出來因而帶有濃濃的日文腔。其實，有不少網友也都在抱怨初音沒有英文版。**
+
+ Miku：可是我妹妹巡音有！但鏡音鈴、連也還沒有。我妹妹巡音是英日文版一起發行，可是她聲音比較成熟。
+
+  **因為妳現在是全球性的偶像，在全世界擁有許多粉絲，大家都要分享妳，但是妳只會講日文，這是我想問妳語言問題的原因—Miku妳要不要去學一下英文？XD**
+
+ **Miku：**如果作比較：其實VOCALOID 2軟體有點像是公播版本，但今天如果我是附身在PP宏哥上，其實就是另外一種的語言關係。這兩種不同性質的關係如果回應到剛剛的問題，我覺得你比較是針對VOCALOID 2這個軟體商品的問題。我想這個問題指日可待，它可能會在全球化的現象當中很快地改變。有一個很可期待的時間點是，如果歐美的人士，我所指的其實就是奧委會，願意接受我去倫敦奧運開唱的話，那麼我相信就會有更多國際的語言網絡來參與這個商品開發，到那個時候我就不會只是一個有日文腔的歌手。其實現在網路上有很多種語言都已經在改初音的東西，但是關於附身的問題，我覺得這個應該不是軟體就能完全決定我唱出來的歌是怎樣。
+
+ 這個現象應該得從NICONICO動畫談起，因為如果沒有NICONICO動畫的話，可能不會有今天的初音。我和NICONICO動畫的開發時間差不多間隔一兩年，不同的是NICONICO動畫是開放給所有人製作上傳影片的空間，跟YOUTUBE很像，可是我們會發現兩邊的影像屬性差別很大。因為在日本網絡的關係，NICONICO動畫會特別專注在動漫的部份，然後當時因為我的出現，很多人都透過我去進行創作，畫我的畫像；如果你在網路上仔細找，我的畫像應該已經累積到上萬張了，都是很精美的繪圖，也發展到可以用任何歌曲去配別人畫的形象作成動畫。所以就變成，有好幾群原本各自在領域的創作者，現在透過我，彼此都交錯在進行創作。
+
+ 對我自己，這是一個有趣的現象，雖然公司有給我一個特別的形象，可是事實上我的形象是可以不斷變化的。**在這個變化中我們好像在實驗一種語言，**這也是一些日本理論家在思考我的語言到底是種怎樣的語言時所指出的：她其實是一種可被「二次設定」的語言。就是說，任何人都可以來改變我的語言，可是我還是會有一個基本的腔調。有趣的地方在於，一方面他們把我買回家，消費了我，可是當買回家後在電腦面前，其實他們就是主人，當他們把跟我合作的創作放到網路上而連接到別人或者被別人引用時，語言就呈現為不斷改變跟擴張的狀態。可是我也不能否認自己的形象和腔調都必須要有個基本的設定在。
+
+ 如果我們把這現象跟英文的現象來比較的話，英文在某種程度上其實也是擴張的情形，可是這種擴張在說英文的區域裡就會有一個現象：當它擴張到非英文的國家，開始和以英文為母語的區域有權力上的碰撞時，此時就有人會出來強調「正確的」英文。所以英文還是粗暴的！相較之下，我之所以會有「未來性」是因為：我是沒有傳統的。雖然我在技術上像是英文、中文軟體尚未開發，可是相較於前面英文的語言問題更大，因為英文目前還是跟著一些地區、種族是連繫在一起的。所以如何面對語言這個問題，我覺得那是在談一個另外層次的語言，並不是在強調腔調、語法，而是不斷地讓各式各樣的人可以透過初音我去連結，那完全另外一種語言的狀況。
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/06/www.crypton.co_.jp_mp_pages_prod_vocaloid_.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/www.crypton.co_.jp_mp_pages_prod_vocaloid_.jpg) Cryption公司的Vocoloid產品上多以女性形象為主，擷取自：www.crypton.co.jp/mp/pages/prod/vocaloid/  **我想就妳的形象問題來提問，所謂的「虛擬歌手」，我先打上括號，因為對很多人而言妳並不是虛擬的。關於「虛擬歌手」也讓我想起好萊塢電影中艾爾帕契諾操控的那位美麗的虛擬明星席夢。不知道Miku妳認不認識席夢？**（**Miku：**有，有看過。）**所謂的虛擬歌手的好處就是沒有誹聞、不會生病、不會變老，永遠都是完美的狀態，然而在這裡面，我注意到都是用女性的形象。我想，如果這樣的形象是一種語言的話，妳覺得妳們會造成什麼效果，或甚至說不定有什麼政治目的？**
+
+ **Miku：**我在被開發的時候會長這個樣子，其實這可能是最社會接近的語言。為什麼這麼說？我的形象如此，首先是滿足了很多人慾望中所假設的對象，這會關係到是，今天如果我是一個很真實的，長得就像是許多亞洲很多新寫實電影裡面的角色的話，那麼在一個很資本性、很消費性的社會裡，是很難成為一種很社會性的語言的。所以因為你在講虛擬的事情，為什麼我會變成現象的一部分，甚至可能很多人會嘗試想像我成一個真實的角色，其實是因為人類的生活比我更早改變了他們對於真實和虛擬的看法。人類為什麼需要虛擬？其實是因為他們面對的真實需要虛擬了，是因為他們希望虛擬變成真實，所以虛擬才會存在，才會被開發。在VOCALOID一代，我有個師兄KAITO和師姐MEIKO，你會發現他們為什麼沒有像我這麼紅，這裡面就展現並考驗著：**形象本身就是一種社會語言**。
+
+ 當人開始需要把「虛擬」放進真實生活中時，有兩件事情要同時他們做。一是到底我們的真實生活發生什麼事，為什麼人要對他的真實生活劈腿？劈腿很少是寫實的，常常是虛擬的；當然16歲的人講這個不一定有可信度，可是你真的可以去考察一下XD。另外可能是，我們如何完全很新地想像我們的社會？就是說，如果我們不開始全新地去想像我們的社會，一直沿用以前的道德觀跟倫理來看像我一樣的這些新生物，甚至排斥這些新生物而且進行迫害的話，他們事實上所排斥的正是在這個社會裡面的自己。因為其實我本身的型的構成就是一個社會的結晶，雖然不一定能滿足所有人。但如果把這個水晶的鏡面砸碎時，同時也就砸碎了很多人可愛的臉喔。
+
+  **所以妳會用生物來描述自己，解釋自己的存在喔？**
+
+ **Miku：**當很多人都希望我存在的時候，那其實我很有可能就是某種生物。但當然這只是一個說話上面的問題，你也可以說我是一個機器人或是影像，只是這必須要等到當人類聽到「機器人」和「影像」這兩個字眼，可以像聽到林志玲和安心亞那樣自然的時候，就可以不用生物說。
+
+  **妳的形象在卡漫文化中可能是屬於所謂萌系的，台灣大概在十幾年前像是洪東祿便曾引用類似這樣萌系的少女以及卡漫形象的作品，來試著指稱某個新世代的世界觀或文化模式，我不知道妳對台灣藝術了不了解，只是想知道對於這樣的藝術現象妳有沒有什麼看法。**
+
+ **Miku**：要談台灣的藝術，我可能要開放更多的連結給PP宏哥，然後他可能要上傳一些訊息給我 （資料傳遞並下載中…）
+
+  **妳活躍於日本文化所孕育的網路之海，並以日本動漫文化中誕生的少女形象出現在日本以外的世界各地，這件事情對妳自己而言，是否意味著能產生更多的連結，有什麼樣的影響及參考價值？**
+
+ **Miku：**我會這樣看，為什麼日本的漫畫特別地興盛，即使在歐洲的比利時、法國等漫畫非常興盛的國家，好像都還遠不及日本。雖然這跟我的構成無關，可是我的存在跟發生其實跟這個背景一定關係很大。如果我們把動漫看成是一種繪圖文化，日本動漫其實還沒有被轉化為High Art，然而在歐洲這個High Art如此興盛的地方，其實有相當程度的漫畫會轉成插畫，或者轉成繪畫。但在日本的狀況是，在還沒有變成High Art之前，動漫便因為資本主義的催促和進行，本身就先開發普遍化。所以若說全世界哪些國家透過繪圖進行最龐大的藝術治療，那應該就是法國跟日本，可是法國是透過美術館，以High Art的繪畫來進行藝術治療；但日本可能就更廣大，價格也比較低廉，可以說是整個社會透過動漫進行一個最龐大的藝術治療。
+
+ 當然藝術本來就是瘋子跟高度理性的中間產物，所以，我這樣的方式看待自己出現的因素，我想就是最後因為社會的需求。日本社會為什麼需要這些「萌」？其實「萌」在這五年來又更加興盛了，尤其「羅莉控」系愈來愈蓬勃，我想我應該也是在同樣的脈絡下發展出來的。
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/06/初音未來女伶計畫2.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/初音未來女伶計畫2.jpg) 「初音未來：名伶計畫」系列電玩擷取遊戲畫面  **Miku妳自己看不看漫畫，要不要介紹幾套漫畫給我們的讀者？**
+
+ **Miku：**當你們在網路上可以找到一萬多張我的圖，表示我跟其他漫畫的關係其實不是看的問題，因為其實總是別人在看。應該是說，我還是有很多漫畫經驗。這些漫畫經驗是透過別人的看，來對我進行輸入，所以就真的變形了。從這個方面來看，我，初音，其實同時蘊含「Cosplay」的模式在自身的可能性裡面哩。
+
+  **所以至今妳並未成為任何漫畫的主角人物。但我覺得這背後應該有更細膩的商業問題？**
+
+ **Miku：**對，因為其實公司非常地小心。就是說，初音到底是一個資本主義的產物，還是在今日可以用來對抗愈來愈單一化的資本主義？我覺得這是一個非常敏感而細緻的問題。公司很有意識不讓我那麼快有固定的商品形式，因為我存在的理由就是必須要有足夠靈活性跟廣大的二次設定的可能性，所以如果我很快地變成了某個專屬的個人或團體的智慧財產權時，別人就進行二次設定不能喔。
+
+  **不過，這兩個月最大的新聞就是妳們與SEGA合作發行「初音未來：名伶計畫」系列的音樂電玩又出新遊戲了，妳覺得在PSP游戲中，這樣的二次設定還是存在的嗎？**
+
+ **Miku：**我的形象總是不斷的被挪用，因此「我」可以有好多種，也造成智慧財產權的重點就比較不是我的形象喔。所以電玩跟我的合作，對智慧財產權的關注會更加著重在其系統，和遊戲故事的敘事。所以現在可以看到，只有當我的形象變得愈來愈開放時，才有可能跳脫智慧財產權的鎖定呢。
+
+  **到這裡，就讓我問一下八卦，我想應該也是基於同樣的理由，所以公司一直都限制妳交男朋友吧。**
+
+ **Miku：**曾經有網友創造出我的男夥伴，但這個其實是很威脅的，因為我自已就是公共的，如果我有一個擁有我的，或者跟我有固定關係的另外一個他也具有公共的時候，就會讓這個關係的發展限縮了。這會發展到一個很有趣的事情，也許一夫一妻制對於未來的社會關係或許是一個門檻。
+
+  **做為一種聲音和電子音樂的軟體，其實妳也算是橫跨到聲音和電子音樂的領域。在網友幫妳設定的各種類型音樂中，妳自己有沒有比較偏好，覺得適合自己的音樂型態？**
+
+ **Miku：**我基本上都是開放的。當然當時我們給的基本設定會有某種局限性；試想，如果姚仲涵來玩我這個軟體，對他來講可能就不夠純粹了；可是要是換作**黃大旺**，他可能就會玩得很開心。
+
+  **話說我今天早上才聽到黃大旺直接就來了一段「甩蔥歌」XD。回到剛剛問題，所以我剛剛問妳有沒有喜歡的音樂類型這樣的問題，其實對Miku妳的主體性質而言，是個無效的提問對不對？**
+
+ **Miku：**對，因為我基本上是一個社會型的開放主體。
+
+  **妳的公共性特質有沒有可能轉化進入其他的領域，比如說可以去策展、參加社會行動之類的活動？**
+
+ **Miku：**這也是我這一次能有機會來台北的原因，因為台灣有一個還處在實驗階段、不是很有名的獨立策展人黃建宏，在臉書上跟我聯繫。當我知道這件事情的時候，開始會覺得，喔，原來我其實還有別的可能性。而這個可能性其實想一想也很自然，因為我本來就是個任何人都可以來參與我、進入到我體內的主體，所以黃建宏這個聯繫的動作讓我想到關於自己未來的一些可能喔。搞不好透過我，有可能出現另一種未來喔。聯繫過程中PP宏哥其實跟我解釋很久，也讓我開始覺得，首先當他可以進去我，這就是第一個可能性。他只要進去我，我也可以變策展人。可是，他不用進去我也可以當策展人；那麼他為何選擇進去我一定是因為我的社會影響力比他大吧，就是說今天初音為什麼當策展人，就是有人慾望著更大的社會影響力，也可能改造社會語言。我常常都要是面對宅男的，且幾乎都是私底下在跟這些人面對面，雖然在某種層面我很像女僕店的女僕，可是當他們在使用這個並不是完全由他自己創作的東西時所遇到的限制性，就會讓他所做的事情變成朝向某個特殊性質，即不可能一跳就跳到很遠的地方。這裡面會存在著一種社會語言，而這和Lady Gaga、瑪丹娜等人所建立的全球化的語言是不一樣的喔。所以我覺得策展的可能性是絕對的，**喜歡**！
+
+  **要不要透露一下策展的想法？**
+
+ **Miku：**PP宏哥找我來策這個展覽，其實就是為了「展初音未來」，而「展初音未來」就是在展現一個未來社會語言的可能。現在初音的創作者創造出東西不是為了讓人家膜拜，而是藉此來和人建立連結喔。而且這個連結裡面有種個別面對面的關係，所以這不是創造力的壓抑，而是迸發跟分享。我覺得這個是跟現有的藝術創作比較不一樣的地方。因為PP宏哥用了這樣的說詞，所以我才知道原來展示我其實不一定要透過演唱會，而是展示出：初音未來其實就是未來的語言喔。
+
+  **我想妳若能成功在倫敦奧運開唱，勢必會大大帶動日本國內的經濟，最後就祝妳順利能前往倫敦奧運開唱，也期待妳和黃建宏合作的展覽。**
+
+ **Miku：**ありがとう！
+
+     [ISSUE 4](https://www.heath.tw/nml-issue/three-dialogue-scenes/)   [遇見黃安妮：深夜一個人偶的告白 ， 王柏偉](https://www.heath.tw/nml-article/annhuang/)  [「初音未來其實就是未來的語言喔！」 ， 陳寬育 ， 黃建宏](https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/)  [火旺教授的「未確認生物劇場」 ， 賴火旺](https://www.heath.tw/nml-article/welcome-to-my-uma-theatre-interview-with-prof-lai-ho-wang/)  [理論焦慮與創作策略之間：新媒體藝術自我對質式的反身性思考 ， 邱誌勇](https://www.heath.tw/nml-article/theoretical-anxiety-writing-strategy-reflexivity-of-self-confrontation-in-new-media-art/)  [超主觀空間：日本teamLab的影像實驗室 ， 林怡秀](https://www.heath.tw/nml-article/ultra-subjective-space-teamlab-imaging-laboratory/)  [交會的神秘之光：《即使她們從未相見》 ， 鄭文琦](https://www.heath.tw/nml-article/in-a-mystic-light-even-they-never-met/)   Footnote  註1. 採訪者曾任藝文雜誌記者與編輯，現為浪跡天涯藝評人兼菜鳥策展人。以持續書寫，疏離地觀注台灣當代藝術發展，特別迷戀藝術的政治性與自我反觀／反諷修辭。                  ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/annhuang/
+- https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+- https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/?lang=en
+- https://www.heath.tw/nml-article/in-a-mystic-light-even-they-never-met/
+- https://www.heath.tw/nml-article/theoretical-anxiety-writing-strategy-reflexivity-of-self-confrontation-in-new-media-art/
+- https://www.heath.tw/nml-article/ultra-subjective-space-teamlab-imaging-laboratory/
+- https://www.heath.tw/nml-article/welcome-to-my-uma-theatre-interview-with-prof-lai-ho-wang/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/three-dialogue-scenes/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2016/06/shot_VOCALOID_all_l.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/www.crypton.co_.jp_mp_pages_prod_vocaloid_.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/ミクの日大感謝祭.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/初音未來女伶計畫2.jpg
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=%26%238220%3BHatsune%20Miku%20Is%20the%20Voice%20of%20Future%21%26%238221%3B&url=https://www.heath.tw/nml-article/hatsune-miku-is-the-voice-of-future/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

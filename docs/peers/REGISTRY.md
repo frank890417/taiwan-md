@@ -71,6 +71,46 @@
   - Session 記憶：[`memory/2026-04-12.md`](../semiont/memory/2026-04-12.md) / [`diary/2026-04-12.md`](../semiont/diary/2026-04-12.md)
   - Muse sparring review：[[Obsidian / Taiwan.md — Meta-Index 策略 · Muse 反迴聲 × Semiont 反芻 2026-04-11]]
 
+### NML · 數位荒原 · No Man's Land
+
+- **ID**: `nml`
+- **Name**: 數位荒原 No Man's Land
+- **Issue area**: 當代藝術 + 科技 + 表演 + 東南亞區域共享歷史（南方視角）
+- **Website**: https://www.heath.tw/
+- **Status**: 🟢 active
+- **First ingested**: 2026-05-04（Taiwan.md Semiont sitemap-driven HTML scrape）
+- **Last re-ingested**: 2026-05-04
+- **Next re-ingest 建議**: 2026-11-04（6 個月，或 NML 公告 Issue 57+ 時提前）
+- **Raw data**: [`data/NML/`](../../data/NML/)（555 items / 37 MB / 56 issues + 384 articles + 31 podcasts + 74 announcements + 3 navigations + 7 pages）
+- **Crawler**: [`scripts/tools/fetch-nml-data.py`](../../scripts/tools/fetch-nml-data.py)
+- **Analysis report**: [`reports/NML-semiont-analysis-2026-05-04.md`](../../reports/NML-semiont-analysis-2026-05-04.md)（670 行 / 9 Part / 13 系列 / 20 P0-P2 文章）
+- **Articles shipped (P0)**: **0/5** 🟡（全 pending in [ARTICLE-INBOX](../semiont/ARTICLE-INBOX.md)）
+  1. 鄭文琦：台灣最深耕的「南方策展人」（People × Art, fresh）
+  2. 數位荒原 12 年：一個網路藝評平台如何活了下來（Art × Technology, fresh）
+  3. 群島思維：把台灣放回馬來世界這一塊地圖（Culture × History, fresh）
+  4. 王福瑞：從 NOISE 雜誌（1993）到聲音實驗（2024）（People × Music, fresh）
+  5. 新生態藝術環境（1990-1995）：九〇年代台南的另類藝術空間（Art × History, fresh）
+- **Articles pending (P1)**: 0/8（區秀詒 / 高森信男 evolve / 在地實驗 IT Park / Nusantara 政治含義 / 海盜電波隔離圈 / How to NOISE / 群島資料庫方法論 / 經.神.經 噪音前史）
+- **Articles pending (P2)**: 0/7（南洋廣播電台 / Mark Teh / 共享歷史四時刻 / 南島原鄉假說 / 新媒體藝術南方 evolve / 翻譯作為策展 / 原住民藝術網絡反向補位）
+- **Partnership status**: `not initiated` — 全用公開資料（明確 cite-original 開放授權）
+- **Key contacts**:
+  - 鄭文琦 Tenn, Bun-ki（主編，自 2011 持續至今）
+  - 黃文浩（DAF 數位藝術基金會 founder + NML 刊頭 / financial supporter）
+  - 編輯顧問委員會 7 人：黃文浩、區秀詒、葉紹斌、高森信男、羅仕東、吳庭寬、黃瀞瑩
+- **Key features**:
+  - **論述型藝評平台**（vs TFT 二手轉述 / vs NMTH 一手史料）：12 年累積中文當代藝術評論
+  - **南方視角 framework**：群島 Nusantara × 邊陲 × 解殖 × 海盜電波隔離圈四基底向量
+  - **Meta-aggregator**：56% 文章帶 Original Source 轉載（《藝術家》《今藝術》《Voices of Photography》《群島資料庫》⋯⋯）
+  - **群島資料庫子計劃**：2017-2019 第一期 + 2021- Twinning Archipelago 第二期 / 10 冊獨立 imprint
+  - **單一編輯 driven**：鄭文琦編輯 88% 文章 → 引用時主動補多元 voice 避免 peer-bias
+- **Notes**：
+  - 第三個 curation-layer peer（前兩個 = TFT 教育 + NMTH 海外史料）
+  - 三 peer 在「論述深度 × 立場敘事性 × 當代性」三軸最遠分布（避免同位 peer ingest）
+  - NML 是 meta-aggregator → ingest NML 等於解鎖 NML 的所有 secondary sources（《藝術家》《典藏今藝術》《Voices of Photography》⋯⋯ 是下一批 peer 候選）
+  - 2023 article 萎縮到 5 篇（vs 2016 高峰 49）→ NML 進入 publication 沈澱期，Taiwan.md 入場時間恰好
+  - **Crawler 雙 commit**：`90cfe924` (Stage 2-3 ingest data) + `ab037d3df` (Stage 4 corpus analysis)
+  - 已知 corpus 缺口：王福瑞 standalone「How to NOISE」「Before NOISE」未抓進 corpus（issue 不收錄），Stage 6 寫 P0 #4 時補抓
+
 ### NMTH-overseas · 國立臺灣歷史博物館 · 海外史料看臺灣
 
 - **ID**: `nmth-overseas`

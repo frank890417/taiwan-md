@@ -1,0 +1,18 @@
+{
+  "generatedAt": "2026-05-04T02:48:13.170063+00:00",
+  "source": "https://www.heath.tw",
+  "siteName": "數位荒原 No Man's Land",
+  "crawler": "fetch-nml-data.py",
+  "method": "sitemap-driven HTML scrape (custom REST not exposed)",
+  "counts": {
+    "issue": 56,
+    "article": 384,
+    "podcast": 31,
+    "announcement": 74,
+    "navigation": 3,
+    "page": 7
+  },
+  "totalItems": 555,
+  "license": "Cite-original via heath.tw About: 「使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處『數位荒原』與網頁的直接連結」",
+  "note": "Initial idempotency re-run with --limit 2 corrupted issues-meta + articles-meta; reconstructed from cached raw HTML 2026-05-04"
+}

@@ -1,0 +1,140 @@
+# Round Table Discussion of CO-TEMPORARY Southeast Asia-Taiwan Forum, day 2
+
+- Source: https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/
+- Slug: round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2
+- Type: nml-article
+- Published: 2016-08-13
+- Author: 許芳慈， 黃漢沖， 符芳俊， 劉威延， Theodora Agni， Anang Saptoto， Dara Kong， 鄭文琦， OCAC
+- Editor: 鄭文琦
+- Original Source: CO-TEMPORARY：台灣—東南亞藝文交流暨論壇 (打開-當代藝術工作站主辦)
+- NML Category: Art Production
+- Date Text: August 13th, 2016
+- Featured Image: https://www.heath.tw/wp-content/uploads/2016/08/DSCN3304.jpg
+
+## Excerpt
+
+羅仕東：我先簡單地講一下為何這個交流計劃命名為「Co-Temporary」。它其實是我先前為打開-當代製作的設計，我們的名字是Open Contemporary Art Center，有一次我把它打錯了，印出來後大家都在笑，問Cotempo...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            Round Table Discussion of CO-TEMPORARY Southeast Asia-Taiwan Forum, day 2 「CO-TEMPORARY：台灣—東南亞藝文交流暨論壇」圓桌討論2  August 13th, 2016／ 類型：  Art Production         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/) [https://twitter.com/share?text=Round%20Table%20Discussion%20of%20CO-TEMPORARY%20Southeast%20Asia-Taiwan%20Forum%2C%20day%202&url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/](https://twitter.com/share?text=Round%20Table%20Discussion%20of%20CO-TEMPORARY%20Southeast%20Asia-Taiwan%20Forum%2C%20day%202&url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/)   作者：  許芳慈， 黃漢沖， 符芳俊， 劉威延， Theodora Agni， Anang Saptoto， Dara Kong， 鄭文琦， OCAC  ／  編輯： 鄭文琦     出處： CO-TEMPORARY：台灣—東南亞藝文交流暨論壇 (打開-當代藝術工作站主辦)     7月9、10日連續打開-當代藝術工作站於台北當代藝術中心舉辦「CO-TEMPORARY：台灣-東南亞藝文交流暨論壇」，計劃涵蓋5到9月一系列工作站成員與東南亞空間的交流，特別聚焦的兩天論壇可說是打開-當代從2011年開始接觸泰國當代藝術社群，於持續累積的東南亞人際網絡之後，再度集結相關藝術家、空間代表與本地從事東南亞藝術交流的夥伴同台對話的最新實踐，本篇為第二天圓桌紀錄。    [![image](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3302-1024x768.jpg)](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3302.jpg) 左Grey Projects代表Jason Wee; photo courtesy of Rikey   **羅仕東：**我先簡單地講一下為何這個交流計劃命名為「Co-Temporary」。它其實是我先前為打開-當代製作的設計，我們的名字是Open Contemporary Art Center，有一次我把它打錯了，印出來後大家都在笑，問Cotemporary是什麼意思。但在構思這個計劃的時候，不知道為什麼這個字就突然冒出來，好像它可以編出一些意義。另一方面，它也是說像這樣的錯誤，或者剛剛的某些簡報，也可以看到一個空間，一個團體，也是不斷地從一再地犯錯，有很多失敗或重複嘗試，像是MES56不斷換不同空間，也在當代生活或政治、藝術的結構之下，在試著往前進又不斷被不斷後拉這樣的一個重複過程裡面。這也是決定要做這個計劃的其中一個原因：也許我們可以從台灣往外看，邀請不同講者，並在這過程中從彼此身上學習，尋找到一個出口。或者透過合作方案，在未來一起往前進；這是舉辦活動的初衷。
+
+ **鄭文琦：**我簡單歸納一下這兩天出席聽到幾個藝術空間的分享。其實關於東南亞藝術空間的討論，在台灣的不同場合裡都可能觸及到一些。但這次的論壇設計，比較有趣的是，它反映出打開-當代自己發展的軌跡裡面，某個重要的世代問題，還有一個空間在未來要怎樣延續下去。所以從它的軌跡來看，它是在2002年成立的。我們隱隱約約可以用2000年、2010年去劃分不同世代，並將今天出席的不同空間放在這個座標之下，去觀察不同空間所面對的發展問題。當然這樣的問題是非常不同的，硬是說在一次討論裡去解決各別空間面對的狀況，其實都是不可能的。再來是第一天印尼與柬埔寨藝術空間所反映的「地方性」。很有趣的是看每位講者在分享他們所屬的藝術空間，以及他們所在的城市或國家時，在偏向「區域」或「地方」的議題上，如何談論他們與這些背景的關係，我覺得是另一種地方性的思考。這些是我所觀察的一些現象，拋出來供大家參考。
+
+ **Theodora Agni：**我想要回應今天Jason的分享。我喜歡你強調以社會實踐作為計劃的重點之一。但我想要知道你如何闡述這些公共計劃，因為你剛剛提到，似乎可以闡釋這個失敗案例的更多理由。
+
+ **黃漢沖：**是的，我會提到這個公共藝術計劃的失敗原因。我們本來打算在中峇魯推動，其中一件想做的事情是針對當地15、16歲的學童以英語來授課，當時我們打算把企劃書寫成，讀起來像教育學童如何撰寫英文短文的課程。然而，它隱含的任務是教導他們如何思辨語言與歷史的關係，比方說，誰可以書寫歷史？誰決定書寫歷史的人選？因為這個書寫者會決定被書寫的歷史—這也會讓人們去質疑所謂的官方版本。所以我們想要讓15、16歲的學童語言如何奠定世界觀，這也容許他們去質疑，究竟新加坡真正是否真是英國人發現的小漁村，究竟新加坡的成功是否皆由李光耀一手促成，諸如此類，激發他們自己發想一些問題。然而，這樣的企劃書缺乏可評量的目標，文化發展局的官員會說，你們為何不寫一本書或做一面壁畫？但這些並不重要，重要的是「教育學」（Pedagogy）本身的改變，這才是我們的目標。但你知道這並不容易，我們無法實現計劃。我們以為自己很清楚在幹嘛，可是顯然做不到。
+
+ **方彥翔：**我想問一個簡單的問題，關於芳俊分享的檳城藝術藍圖。這個藍圖或多或少會重疊到台北。以這個圖來看，藝術空間似乎扮演某種「自我賦予任務」的角色，好像是處在很多藝術部門之間的中介，而且滿重要的—看起來是很有帶動性的角色。也因此藝術空間多了很多任務，就像各位的空間，其實TCAC也是。一個機構充滿多重任務，這些任務可能是自我賦予，像是在公共合作和論述上，扮演溝通或生產的角色。也有教育的任務，包含思考策展或藝術，在媒介上或形式上，像是如何連結傳統形式與現代（未來）形式。有那麼多的功能，我想問一下在座各位如何考量自己應該進行哪些比較優先的計劃？
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3304-1024x768.jpg)](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3304.jpg) 左Run Amok代表Hoo Fan Chun; photo courtesy of Rikey   **符芳俊：**也許我先來回答。我從來沒有把Run Amok放置在一個擁有如此社會責任的位置上。然而，具有一種「生態系」（Eco System）的意識很重要，哪些人在做哪些工作，哪些事沒被發現。對於我們來說，特別重要是我們要做自己樂在其中的計劃。我們不是那種經營有成的組織，你知道的利用藝術減免賦稅，達成什麼關鍵績效（KPI）。我想，知道哪些部份重疊是很重要的。比方說，我兩週前剛去雅加達，那裡有非常多自發項目，它們被賦予的角色都很明確，也都很愉悅、熱情地從事他們的任務。舉例像是教育組織，Ruangrupa，MES 56、Life Patch⋯當我們可以看見完整圖像時，就知道要避免哪些重疊的工作，然後人們就知道要如何在一起工作。正如我所說的，我們（Run Amok）算是這裡的學生，所以不會把自己放在一個設定諸多任務的位置上，像是藝術圈的守護者。事實上，我們更像是變動者，總是提出問題。
+
+ **劉威延：**這是一個很好的問題，即使在新加坡，我們也不時被問到這類問題。我想，關鍵在於藝術家想要做什麼？無論作為團體或作為個人，藝術家都要經常問自己這個問題，相互支援創意並促成各別實踐。因為我們不是受僱於政府，也不是真正的社會工作者（social worker）—有些人會說我們算是「文化工作者」（culture worker），但我不確定那是什麼意思。又如新加坡「藝術家村」在1990年代所做的事情，在創辦之初，我不確定他們所做的創舉曾有其他藝術家曾想像到。有些藝術家會在市區組織藝廊，目標在於推廣自己或銷售作品，但在社群基礎上推廣協作精神之類的信念，特別是在1980或1990年代，都是相當罕見的。因為藝術不是什麼賺錢的玩意，家長不會把孩子送去藝術學院，或者鼓勵他們去唸藝術，因此藝術家必須自我實踐。
+
+ **黃漢沖：**我會再回去「空間」。藝術組織或者團體，要不要處理空間的狀況不同。因為當你擁有公共空間時，在定義上來說就是社會的，你就「介入」社會了，接下來的問題是：你希望它之於社會的影響圈有多大？而這個圈子大小也取決於你期待與多強大的力量為伍。舉例來說，我曾經搬家兩次，是受迫於土地增值導致房租調漲的趨力。不過，那也表示新的地點選擇並非根據觀眾分佈的考慮，而是純粹因為房租較低，這就是我所謂較小的同心圓。一旦我所受的壓力過大，只好去找便宜的公寓，向外推展到我的朋友，再向外推展到藝術家，再向外推展到藝術圈，再向外推展到藝術觀眾。而你想要推到哪一層？對於任何擁有空間的人來說，這問題都是適用的。因為你要自己決定，無論是否認知到現實，你都對他人的生活有影響力，包括藝術學院學生。我們確實對他人生命有影響—不只是在藝術，就算偶然相遇的對象，都是我們實踐的對象。最後，我想區隔「社會責任」和「社區服務」。你可以負起一些社會責任，但那不表示你要成為社工，同樣的，我們可以決定要向多大的圈子負責，但這不表示我們要變成幼稚園老師。比方說，我對年輕人也是如此，我的影響是透過藝術與年輕人一起思考問題而不是付出所有。關鍵在於，我希望影響他們到什麼程度，藝術空間也可以用這樣的方式思考。
+
+ **劉威延：**我想稍微延伸你的觀點做為某種觀察。在許多時刻，我們在這類的論壇或藝術家座談裡，會來參與的聽眾都來自藝術場景，要不是藝術家、策展人，就是藝術學生、評論或作者—在座觀眾是否有人來自政府部門？（一位舉手）好，現場有一位，剛才還有更多。在新加坡，我們通常很少有政府官員來聽論壇，除非他們是邀請的貴賓。也許他們比較常參加開幕活動，但在這樣場合裡，他們其實更能聽見藝術家怎樣想，而不是透過作品猜想。
+
+ **羅秀芝：**我想剛剛Jason的報告似乎留下伏筆，你昨天有問在座者，到底你們的知識參考點為何？比方說，你提到馬來西亞的黃海昌。其實文琦好像也提到這問題，就是關於「地方性」，你剛剛提到的「同心圓」—我這個問題是針對大家，只是從你的問題發想—那麼這個同心圓是怎麼畫的？這裡不只是空間的問題，還有你所參考的知識系統，最後你會不會考慮「地方性」、「地方感」，還是全球性？我想問問大家，從「空間」來談是一個問題，或者從什麼是藝術來談，也是一個角度。
+
+ **黃漢沖：**我想舉一個複雜的案例，它也許引起某些雜音，並與公眾討論有關。假設我成功舉辦剛才所舉例的那個工作坊，我能獲得補助的條件（假設我的計劃成功獲得補助）是主管單位將得到我們出版的一本書作為成果。但我會教另一堂課，也許再招募更多學生。是這樣的，在這個工作坊的第一個層次，我必須面對學生迫切的議題，就是他們要如何順利通過年級資格考。所以我設計的第一部份要針對它，邀請藝術教師介紹歷史。第二個層次的實踐目標就不一樣了，這時我可以告訴他們歷史不同的面貌，他們之於歷史的掙扎與印尼學童的掙扎並無不同，皆受限於歷史的版本，是否能夠質問歷史如何展現不同的面貌？是否能在實用性的知識批判及藝術創造的事物之間得到啟發，例如構造的形式⋯教育總是關於平行結構，我們用相同方式掙扎著，這是第二層的啟發。但我可以自己完成這些研究。因此，就社會層面來說，它正是藝術空間網絡之於我們的意義，即成為此一意義網絡之一員。因為如果我們僅僅著眼於「地方」（Locality），「網絡」怎麼可能有趣？當然去不同國家是有趣的，但我們是否從中學習到新事物，它是可以讓人帶走回饋地方，並再次分享傳遞的嘛？或只是為了串連而串連？這個問題我也不時問自己，因為我知道有些既有的網絡可以加入，但我並不確定自己是否該加入。
+
+ **許芳慈：**你說的是空間的論述，它到底滿足什麼社會期待，它的社會責任是什麼？嚴格來說，你的問題應該是，「我們是誰？」因為今天在座的空間代表，有些人是身兼多重功能的藝術家、策展人或詩人／作家，有些人是研究者，獨立研究或策展人，還有些人正是我們試圖反映的行政管理層級。在過去兩天的討論裡，也呈現某些有歷史取向的層面，像是一群藝術家組織起來推廣作品如MES 56；「藝術家村」是另一種，它的主要關懷是如何與更多觀眾對話。但像台北當代藝術中心或灰色計劃這樣的空間，我認為你們要面對不同的受眾，你們必須創造一群自己的受眾，例如：你試圖劃出直接受眾的所在範圍。然而，將這所有的不同空間、實踐邀來這裏，目標又是什麼？這不禁讓我想到如何彼此學習？畢竟立足點都不相同—只是接續你的問題，回應我們是否需要網絡。
+
+ **黃漢沖：**誠然如此，它們都是不同的空間，儘管規模都很小。但我想追問的是方式，會是更寬廣的、更全球性的參與嗎？例如我自己是學攝影的，所以我能夠以一個純粹「影像作者」的身份參與全球的網絡。而且我往往只在有人邀請我的作品、或邀我發言時才需要參與，那樣一來，我就只代表我自己參與那個網絡。但我的問題是：還要有其他的參與方式嗎？
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3305-1024x768.jpg)](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3305.jpg) 左TAV代表Urich Lau; photo courtesy of Rikey   **劉威延：**或許我也用一個案例回應這個問題，我想到最接近的是藝術家村2015年三月在報廢的丹戎巴葛火車總站（Tanjong Pagar Railway Station）(註1)舉辦的兩天活動：/*semble*/。它是由我們的成員李嘉昇（Jason J S Lee）所籌劃，主要動機是在歷史中重新定位，並重新看待新加坡和馬來西亞的關係，因為兩國之間的直達鐵路營運隨著新加坡獨立的國族認同而結束。但建築物本身仍然是一個象徵，大眾對它有強烈的情感連結，那些在1960年到1980年出生的人們，更對這個地點有美好的回憶。所以我們的觀眾不只是藝術家、策展人，或藝術學生，還擴及一般大眾。人們聽到這個活動紛紛跑來參與，很多人我們從來沒見過。即使他們不清楚藝術家想做什麼，或者李嘉昇的動機。所以特定地點是很重要的，它是規劃這個活動的理由，也是藝術家通過各自實踐而回應場域的方法。人們因此願意參加活動，畢竟要去那裡的交通不是那麼便利。
+
+ **符芳俊：**假設我換個說法⋯你的命題是，如何使這些來自不同城市的人們來到此地參與論壇，並獲致一定生產性，還有我們是否有所收穫？用這樣來重新陳述你的問題意識，是否恰當？是吧，關於你說的網絡⋯可是，我們「已經」是一個網絡了嗎？
+
+ **黃漢沖：**不，我們當然還不是一個網路。
+
+ **符芳俊：**好吧，讓我們這樣說好了，這個網絡會逐漸形成；我的意思是我們也不確定啦，假如我們仍維持友好的話。然而，是不是一個網絡，意指我們如何把某種價值落實為形式。對我來說，它或許是一個臨時性的網絡，就像這樣，至於有沒有生產性，我個人倒是認為，因為一旦回到各自城市，我們都得應付不同的情境與條件，也有各自的議題要處理。當然，我也知道成立一個空間並不像建立某種分類，如同視覺藝術家一般；你必須研究人們為何參與，還有採取關於某些事務的特定策略。因此（這個臨時網絡）對我來說仍是有益的⋯我確實不知道該如何回應，因為我甚至不確定有一個網絡。假如（打開-當代）每年都舉辦一次，它或許會變成一種具體的形式，像某種「協議」之類。
+
+ **黃漢沖：**我只是想表達網絡並不是指正式組織，並不需要正式登記，變成一個協會之類。它更像一種友誼的連結，你知道會和某些對象保持聯繫，你也會獲得一些回饋，然後你也會回訪。
+
+ **符芳俊：**這又讓我想到我們的資源在哪裡？對於一個向來缺乏補助的獨立空間，尤其是對藝術家自發空間來說，它（網絡）可以是一種社會流通資本（social currency）嗎？關於網絡，我還不確定我可以闡述得更明白。但以批判的觀點豻言，這樣的網絡能否裨益每個獨立的空間？我想Jason的問題也涵蓋了這層面。
+
+ **許芳慈：**如果我們觀察亞洲，會發現在2000年前後東亞（像韓國與日本）有不少大型美術展、館都做過幾次藝術家營運空間或獨立空間去所在城市簡報的展演形式。這樣聚焦於藝術空間的展覽，對我來說是將藝術空間「去觀念化」的做法。所以，我們要將這段對話重新定位在那樣的軌跡上嗎？是否這對話是建立在以「白盒子」為基礎的藝術實踐上，而我們的對話又是否關於那種重新連結並展示自身實踐的慾望—儘管它被收攏於特定區域的單一城市平台裡？是否這些儀式都流於某種展演性質—如同一種要看見或被看見的需求循環裡？
+
+ **許家維：**彥翔的問題其實滿重要的，從大家的回應可以感覺出來—也是這次論壇所邀請的單位特色—這些來自印尼、馬來西亞、新加坡、柬埔寨的空間都有一個共通點，它們都是藝術家自己營運的空間。當你們在談你們進行的計劃時，很像一個藝術家在思考關於「創作」這件事。就算Jason的簡報只提到寫作，例如小說的議題，或如何處理有別於單一性的歷史寫作，都可看出藝術家的創作思考。這也是這次我們為何邀請這些單位，像是昨天參觀台北國際藝術村開幕，那樣的展覽就完全不在我們的構想裡，因為它是一個機構，本來就在執行交換駐村這件事。這兩天的討論都有一個部份，就是大家都有駐地計畫，乍看以為我們好像都做藝術村，但這只是巧合。原因可能是藝術進駐在今天相對簡單，透過空間串連，很快可以有人過去有人過來，快速創造會面機會。所以自然地都有進駐。不過我的感覺有點像是藝術家營運空間，還是回到藝術家的發言權在今日的形式如何改變？在座各位都有主動策展，這些展覽不像國際策展人有上千人的名單，每個不同議題就從名單上挑50個藝術家來展。也不是像這些大型機構，例如昨天舉的亞洲藝術雙年展，從每個國家挑幾個代表。現在狀況比較像一群藝術家聚在一起，透過這種藝術家對藝術家的工作模式，產生更主動性的論述。至於內容是什麼，還是要回到不同藝術家的組成裡，有各自關心的議題，藝術家對社會或政治或歷史各有關注角度。
+
+ 另一個是關於藝術家營運空間。昨天提到區域或在地，為何今天要談區域，並不是非得要有一個「東南亞」不可。而是區域讓我們意識到要轉移參考對象，但光是「轉移參考對象」還是很抽象，容易讓我們掉入畫一張東南亞地圖的陷阱，終歸要回到在地。原本的藝術家交換進駐只是一個起點，很多只是隨機的，也許有事也許沒事發生。但透過跟藝術家空間的連結，每個空間都深刻地回應自身在地的地緣政治問題，透過藝術家團體與團體之間，也許可以不只在個人創作上面，還有很多像是地方政策、面對不同觀眾與體制的問題。這是另一個層面，為何是這些藝術家團體做為認識的「方法」。
+
+ 最後是把大家邀來會面完之後能幹嘛？我自己想著未來某天，因為現在像是個別藝術家與藝術家之間的關係一樣，只是今天比較變成空間與空間的關係，大家還是從「當朋友」開始做起。也許將來Run Amok和Sa Sa Art Project去印尼執行一個什麼計劃，或者打開-當代跟灰色計劃到柬埔寨做什麼，我不知道這個未來如何發生，不過我相信這個過程很像幾個藝術家聚在一起去做一個藝術空間一樣，也許存在這樣的關聯。
+
+ **觀眾發問：**我想代表我自己而非官方，首先是回應家維的發言，我自己在藝術空間工作與國外留學經驗若干年，我所知的常識、經驗，還有在東南亞的網絡都遜於在座的背景。所以我想問相關的在座諸位，如果在這次論壇後還繼續交流，你們是否已有任何確切的構想？無論你們將來是否與台灣單位合作？無論是就政府的政策參考，或者即將變成可能的任何發展？
+
+     [![image](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3299-1024x768.jpg)](https://www.heath.tw/wp-content/uploads/2016/08/DSCN3299.jpg) 現場觀眾針對Sa Sa Art Projects提問; photo courtesy of Rikey   **劉威延：**或許我以個人立場回應，未來論壇結束的任何後續，都取決於合作雙方的需求以及知道觀眾想看什麼。我想不管這個論壇或任何類似活動，都不可能立即搭起一個網絡，首先必須彼此認識，理解彼此在各自條件下如何經營。更重要的是加強知識，加強對彼此環境大致情勢的認識，不管是要叫區域、亞洲或亞洲哪個部份都行。但在更普世性的尺度上，了解其他人都在幹什麼多少是更有幫助的，它的意義更勝於有一個延續這次交流的確切網絡或計劃。
+
+ **黃漢沖：**因為我有一種感覺是今天討論快結束了，所以打算一次回應幾個重點。我沒有要有什麼正式的組織，這裡的網絡傾向於非正式。第一點是回應芳慈，假如我們不時就見面，可能有些言語交鋒，形同表演，聊聊或吃吃、喝喝，又再回到各自國家，然後再來一回。那麼它不僅僅是一種表演，還強化基本上是孤立的事實，就算意識到自身處境，可能都有類似的壓力要面對。第二點是，假如我們不去處理「地方」的背景，也就是「區域」作為關聯或網絡，甚至友誼也好；假如我們不談區域，其他人也會替我們去做。美術館會做，官方代表也會做。最終，它們會把我們放在他們的規劃名單裡。「來做一個韓國—東南亞展覽吧，你們知道有哪些新加坡藝術家？」然後又是區域交流。**萬一我們不做，其他人會替我們做，到那時候我們就遲了，**而且我們會完全在狀況外，因為官方已經幫我設定好語言了。這也回答你的問題：我希望的是，另一種低於美術館或國家位階的交流層級需要發生。那樣的交流，正如打開-當代創造的這些，事實上，要在更深刻、更密切和更頻繁地發生。不是說要立刻有什麼成果，而是當藝術家要與其他藝術家合作，在柬埔寨或在泰國，交流層次就會迅速開展。因為政策或其他機構的條件不同，或者小型藝術空間的交流，像藝術進駐或出版。那些更小層級的跨境互動很重要，某則你永遠只能寄居在官方層級對話之下，屆時付出代價恐怕更大。
+
+ **羅仕東：**我想一下。這兩天聽完每個朋友的分享，我也會發現一個特點是，其實我們是藝術家的獨立團體而不是美術館，也會發現每個單位也試著把自己建立成一個完整的身體，每個單位都在運作進駐計劃、出版或交流，試著滿足一個身體該有的功能。但我相信，至少就打開-當代或我自己的感覺，即使我們有這些項目，不管是在執行或種種運作過程中，我們自己所創造的器官，在不同的詮釋，或在知識系統或閱讀框架下，仍然有所不足。例如談到進駐，我們永遠無法跟台北國際藝術村相比有多麼完善的支持。在失靈的情境下，既然我們還要做，我們還可以做些什麼，要跟什麼單位合作會面對何種交換方式，或集體討論的方式。並在這樣的過程裡，盡可能不要變成自己討厭的樣子，現在這樣的討論會變成什麼？我覺得就是一種初衷吧，讓自己變成一個完整身體的過程裡，也看到自己的缺陷，並從其他地方找到新的器官；我的感受是如此。有趣的是，近幾年在東南亞拜訪一些朋友，這些印尼、馬來西亞的朋友看待我們時滿有趣的，這也是我自己的感覺。不像日本或韓國的上層機構，意圖在劃出一個以自身為中心的研究，或塑造話語權。他們覺得台灣可能沒有這樣的實力，或者還沒有這樣的野心或投資，而非以那類的角度看待。但以這次的活動來看，台灣又放了一些資源在這裡，好像可以做些什麼事情，雖然還沒有變成一種「魔王」的角色。加上這幾年，接著文化部有東南亞交流，或者新南向政策的加入，我更好奇經過五年，在更多這樣的會面之後，未來會是什麼情形？會不會有機會，也許透過這些獨立團體，給出一個不同於上述國家的樣貌。
+
+ **Dara Kong：**我來自柬埔寨，剛剛大家談論藝術進駐、藝術空間，或經營空間一類的事情。事實上，在談到經營自己的空間時如何能夠聚焦？例如新加坡和馬來西亞兩國相鄰，看似分離又要如何分享，如何營運空間，接著思考經濟、政府等等層面的問題⋯我認為比起去考慮國籍或身份的問題，該做的應該是如何學習彼此的不同之處。譬如說這次我從柬埔寨來到台灣做駐村的計劃，見到大家來自不同地方，如何去認定什麼是重要或不重要的？在我的經驗中如何去思考、分享並學習差異才是關鍵。我們都在討論東南亞，但在計劃裡不會想著誰來自東南亞，西方國家或歐洲都不重要，重要的是彼此之間如何連結。在此國籍並不重要，我不是說它對或錯，你可能從印尼、新加坡、柬埔寨或台灣來，現在我們就像一個家庭，都在台灣相遇。藝術社群越來越小，我以前甚至不認識你們，我的背景甚至不是藝術，所以重點是我們現在在這裡相聚、認識，並分享彼此的差異。
+
+ **羅仕東：**雖然說今天沒有公部門人員在場，但我們還是假設他們聽得到。也許是在台灣，公部門對藝文活動或者種種交流的補助，目的未必是讓單一組織像打開-當代變得多麼壯大。不過，有沒有可能說這類的補助，視野在於怎樣讓這個網絡更為成形？因為我們知道，某種程度上公部門會有分配原則，比方說輪流補助不同團體，（甚至我們自己也會）下次再找別的單位，這樣看起來好像比較精彩，每次都有不同單位，在任何交流或活動也會這樣考慮。但有沒有可能是，如果我們著眼於建構一種比較長期的網絡時，相應的不管是補助內容都盡可能寬鬆，或簡化其中過程？當然我只是提議一種可能，不只是政策上，像這次處理柬埔寨藝術家來，就遭遇到非常多狀況，我只是思考一種基礎的轉換。畢竟可以理解國家想要補助自己的機構，希望自己的藝術家更有名、壯大。有別於支持特定機構，怎樣的支持材是最有效的？像這樣的網絡會是一個滿好的基礎，不只是這個團體還有它所合作的對象。又像是我們之前和泰國的交流結束，現在是否還在繼續合作，這次論壇結束後，還能有怎樣接續的發展？我覺得應該這樣來思考。
+
+ **許芳慈：**我必須稍微回應仕東，不知道你會不會太天真了點？因為，其實在申請計劃過程裡，整個文化部在相關資助的態度上，我們可以看到補助的計劃都要符合公開利益。真的想要，我們在做東南亞的相關研究或論述時，其實沒有太多資源在做背後的知識系統或脈絡研究，甚至你們說交流時，我們究竟對彼此了解有多少？其實非常缺乏。如果真的要做（東南亞的）研究性計劃，我們幾乎拿不到經費，都要自己買機票。相應的檔案付之闕如，現在公共補助關於東南亞的歷史圖書完全沒有，這個不只是今天可以放鞭炮說，喔，東南亞結束了，下一個，是南亞嗎？仕東你自己也很清楚吧，一路過來，你都是靠自己和朋友之間的連結。我聽到你的發言，其實心裡也滿感慨的，如果今天，南向政策可以繼續執行，結束之後，在我們之間的朋友關係和空間交流也要結束嗎？還是我們必須在整個補助機制下，必須另找其他辦法，來維繫我們之間網絡的存續？或許另一個我比較緊張的問題是：好，今天翡翠計劃結束了，這些持續耕耘的關係網絡是否可能維繫下去？
+
+ **劉威延：**我想稍微分享交流緩和情緒，藝術部門與政府部門不見得總是彼此對立。有時候政府會向藝術家學習，藝術家也會向政府學習。誰創造最初的策略或結構，又是誰的構想，這是可以辯論的。我想舉新加坡的P10這個案例，他們組織一個叫做Post Museum的空間，這個空間目前已不存在。他們跟區域或歐洲、亞洲的藝術家都密切往來、共事，並形成非常緊密的網絡，但這個網絡不是實體的，它並不容易進入或者輕易獲得相關資料。而他們總是處理特定議題，藝術家總是會回來。這種自生的傾向或結構，在政府或相關部門的眼中看來，或許正是當代藝術賴以維生的進路，它不只是展覽、空間、交易作品，而是一種連結每個國家的有效方法。雖然政府可能視藝術為附加利益的載具，然而，藝術家關注的是不同的方法，甚至沒有方法而言，他們只是想要創作藝術。但事情會如何發展，假如不是立即的展覽、拍賣或交易？而是我們持續策動每個國家之間的交流網絡？
+
+ **黃漢沖：**我還滿喜歡這樣的圖像：大家在最後都談論未來。那是什麼？顯然這是一個不錯的徵兆。
+
+ **陳嘉壬：**真的不好意思，我們的論壇因為時間關係，必須在此結束。其實很不希望打斷大家的討論。我們從去年十月開始籌劃活動，當然它不只包括這兩天論壇。從今年五月中開始，就有兩位印尼藝術家來此進駐，之後我們的藝術家也會到印尼進駐。接著是柬埔寨藝術家和打開-當代成員交換進駐，論壇正夾在中間。這樣的活動內容，正如剛剛提到文化部的規則設計，它雖然是統一的，但我們怎樣透過它去做一點突破，像我們透過合作產生某種新的能量。大家都有提到未來的連結，對我個人來說，連結這件事不太像一種形成另一種權力的集團，想要去對抗或超越任何對象。而是透過這樣的連結，中間如何產生張力，或許美學便是在這裡面出現。也就是為何要透過打開-當代成員與外國藝術家之間的互動產生新的合作，而不是單純邀他們來展覽，這樣一種交換的關係。剛剛也回應是否也有一種超越東南亞或其他地域的思考，但對我們來說或許這樣的連結是更有意義的。感謝所有講者、引言人這兩天的分享，不僅是他們分享給台灣聽眾的內容，透過他們在兩場圓桌論壇的對話，也讓我去反思很多問題，畢竟在我們的概念裡，他們就是東南亞國家，而東南亞國家怎樣看東南亞，跟我們台灣怎樣看東南亞，是不同的思考模式。我也希望這樣的論壇對所有講者都有一些刺激，最後感謝台北當代藝術中心協助論壇舉辦，包含方彥翔、所有志工與所有堅持到最後的來賓。
+
+     Footnote  註1. 丹戎巴葛火車總站為原KTM馬來西亞城際鐵道於新加坡的南端終點，由於馬來西亞鐵道公司新加坡建國後以主權獨立方式持續營運這條路線，並在新加坡高度發展後逐漸引起疑慮，經協議新加坡以換取土地方式交換回該站使用權，並於公定假日開放大眾參觀。         See Also  [「CO-TEMPORARY：台灣—東南亞藝文交流暨論壇」圓桌討論1](http://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-1/)              ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- http://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-1/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/?lang=en
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2016/08/DSCN3299.jpg
+- https://www.heath.tw/wp-content/uploads/2016/08/DSCN3302.jpg
+- https://www.heath.tw/wp-content/uploads/2016/08/DSCN3304.jpg
+- https://www.heath.tw/wp-content/uploads/2016/08/DSCN3305.jpg
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Round%20Table%20Discussion%20of%20CO-TEMPORARY%20Southeast%20Asia-Taiwan%20Forum%2C%20day%202&url=https://www.heath.tw/nml-article/round-table-discussion-of-co-temporary-southeast-asia-taiwan-forum-day-2/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

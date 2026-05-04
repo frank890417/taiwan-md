@@ -163,6 +163,350 @@ BECOME_TAIWANMD.md Step 5 新增：
 ---
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+<!-- 🪸 數位荒原 No Man's Land peer ingestion 全 batch（2026-05-04 angry-shamir） -->
+<!-- 20 篇全來自 reports/NML-semiont-analysis-2026-05-04.md §Part 5-6 -->
+<!-- 13 個 series × P0×5 + P1×8 + P2×7 三層優先序 -->
+<!-- 核心手法：「兩個 Semiont 對話」+ Semiont 「換頻」非降級 (§7.4) + peer 盲點補位 11 條 (§7.3) -->
+<!-- -->
+<!-- 🔥 RESEARCH 紀律雙軌：除了走標準 REWRITE-PIPELINE Stage 0-6，每篇 Stage 1 還要 -->
+<!--    **大幅度從 data/NML/ 資料集萃取知識**（37 MB / 555 items / 384 articles 內鏈中文 -->
+<!--    雙語 + 56 issue 主題策展編按 + 31 集 podcast + 10 冊群島資料庫 imprint 共 22 篇文 -->
+<!--    章帶 Original Source: 群島資料庫 Nusantara Archive 標籤）。 -->
+<!-- -->
+<!--    具體做法：Stage 1 research agent 必須**先**完整讀本地 NML article / issue / -->
+<!--    podcast markdown（Read tool）再做 WebSearch 補抓 NML 語料外的事實補強。每條 entry -->
+<!--    的 `NML 萃取重點` 標註該篇要從哪幾個 NML 本地 source mining 哪些 framework / -->
+<!--    案例 / 引語 / 編年資訊。WebSearch 是補強不是取代——大量 framework 與當事人引語 -->
+<!--    在 NML 12 年累積中，外部 search 不一定找得到。 -->
+<!-- -->
+<!--    Peer-bias 警示：鄭文琦個人風格 driven 88% NML 文章 → 多元 cite secondary -->
+<!--    editors 區秀詒 / 高森信男 / 王柏偉 / 印卡 / 蔡長璜 / 葉杏柔 避免單一視角。 -->
+<!--    DNA #16「Peer 是 peer 不是 source material」在 NML 場景特別硬。 -->
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<!-- 鄭文琦 NEW 已完成 2026-05-04 angry-shamir → ARTICLE-DONE-LOG.md -->
+
+### 數位荒原 12 年：一個網路藝評平台如何活了下來
+
+- **Type**: `NEW`
+- **Category**: Art（subcategory: 藝評平台 / 媒體研究）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer ingestion P0 #2
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P0-2](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**（30 字內）：沒商業模式的策展平台怎麼撐 12 年
+- **預估**：M-L（4-6 hr）
+- **Stage 1 research plan**：
+  - 10-12 次 WebSearch（數位藝術基金會 DAF 補助結構 / 文化台灣基金會 SEA plateaus 跨國資助 / 國藝會補助累計 / 同類平台失敗案例如 在地實驗 etat.com 演化軌跡）
+  - 至少 3 個非 NML 語料新素材：(1) DAF 黃文浩訪談 (2) 同期媒體藝術中文網站存活率 (3) 編輯顧問委員會運作模式（黃瀞瑩 / 吳庭寬等的訪談）
+- **Stage 2 結構提案**：
+  - 核心 thesis：12 年累積比一次性大筆補助更稀缺；持續策展能力 = 抵抗熵增的軟資產
+  - 物件開頭：2014《數位荒原》小報 No.01 一本紙本書的具體重量 / 2011 第一篇文章的 timestamp
+- **Notes**：
+  - 跟 P0 #1 鄭文琦人物條目互相 cross-link
+  - Meta-curation：把「策展平台」自身寫成 Taiwan.md knowledge/ 條目
+  - 跟既有 [台灣新媒體藝術](../../knowledge/Art/台灣新媒體藝術.md) 雙向 link
+- **NML Local Sources**:
+  - `data/NML/pages/about.md` ABOUT 完整自陳
+  - `data/NML/pages/contributor.md` 撰稿人列表
+  - `data/NML/raw/manifest.json` 全 corpus 統計
+  - `data/NML/issues/INDEX.md` 56 期主題演化
+
+### 群島思維：把台灣放回馬來世界這一塊地圖
+
+- **Type**: `NEW`
+- **Category**: Culture × History（subcategory: 文化地理 / 國際關係）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer ingestion P0 #3
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P0-3](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**（30 字內）：中華框架 vs 群島框架的台灣身份
+- **預估**：L（5-7 hr，含 framework 比較與南島語族切入）
+- **Stage 1 research plan**：
+  - 14 次 WebSearch（南島語族原鄉假說 Bellwood / Blust 等學界證據 / 太平洋島嶼相關性 / Nusantara 在馬來文與印尼文的歷史用法 / 台灣與菲律賓巴丹群島的航線 / 史前考古證據如卑南遺址玉器流通到菲律賓）
+  - 至少 3 個非 NML 新素材：(1) 中央研究院歷史語言研究所 Austronesian 研究 (2) 南島文化博物館（屏東林班 2023 啟用）資料 (3) 台灣大學人類學系考古資料
+- **Stage 2 結構提案**：
+  - 物件開頭：一塊卑南玉器在菲律賓巴丹遺址出土的場景
+  - 核心 thesis：台灣是馬來世界的東北端，不是中華世界的孤島
+  - 三個視角並列（SSODT）：（A）地理視角的群島連續體 / （B）語言學的南島語族原鄉 / （C）NML 的當代藝術群島實踐
+- **Notes**：
+  - 政治敏感題：避免「去中國化」修辭，用 SSODT 把多視角並列讓讀者自己投影（MANIFESTO §熱帶雨林）
+  - 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) 雙向 link（南島原住民是這個群島思維的活載體）
+- **NML Local Sources**:
+  - `data/NML/issues/hermeneutics-of-nusantara.md` 群島詮釋學
+  - `data/NML/issues/recalling-islands.md` 重訪島嶼
+  - `data/NML/issues/twinning-the-wastelands.md` 群島雙生
+  - `data/NML/issues/legible-singapore-nusantara-in-future-tense.md` Nusantara 未來式
+  - 22 篇 articles 帶 `Original Source: 群島資料庫 Nusantara Archive`
+
+### 王福瑞：從 NOISE 雜誌（1993）到聲音實驗（2024）
+
+- **Type**: `NEW`
+- **Category**: People（subcategory: 聲音藝術 / 實驗音樂）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer ingestion P0 #4
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P0-4](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**（30 字內）：DIY 噪音抵抗主流流行樂三十年
+- **預估**：M-L（4-6 hr）
+- **Stage 1 research plan**：
+  - 10-12 次 WebSearch（NOISE 雜誌 1993-2000 實體刊物 / 「經.神.經」中期作品概念 / 王福瑞在北藝大新媒體所教學 / 《噪音寂靜》2020 個展 / 聲音實驗室 / 失聲祭啟蒙 / 在地實驗策劃《悸動—調變王福瑞》）
+  - 至少 3 個非 NML 新素材：(1) 王福瑞個人訪談 ART PRESS (2) 北藝大新媒體所王福瑞作品集 (3) 國美館《噪音寂靜》文件展冊
+- **Stage 1 額外抓取**：直接 fetch NML 兩篇 standalone 文章（issue 不收錄）：
+  - https://www.heath.tw/nml-article/it-launched-internationally-how-to-noise/
+  - https://www.heath.tw/nml-article/it-launched-internationally-before-noise/
+- **Stage 2 結構提案**：
+  - 物件開頭：1993 第一期 NOISE 雜誌的物理樣貌 / 一場《經.神.經》現場的特定瞬間
+  - 七爪：1990s otaku 文化前史 / 1993 NOISE 創刊 / 「經.神.經」沉默-噪音辯證 / 2000s 失聲祭與聲音藝術機構化 / 2020《噪音寂靜》與《悸動—調變王福瑞》/ 北藝大新媒體所教學傳承 / 對 2020s 後輩聲音藝術家的影響
+- **Notes**：
+  - 跟既有 [台灣聲音地景](../../knowledge/Music/台灣聲音地景.md) 雙向 link（既有「藝術家王福瑞、姚仲涵、張永達」名單級提及 → 升級到深度條目）
+  - 葉杏柔 NML 系列是核心 secondary source（92 篇 NML 文章作者群其中之一）
+  - 敏感度：低（在世藝術家 + 噪音音樂 niche）
+- **NML Local Sources**:
+  - `data/NML/issues/the-piracy-the-radiowave-the-bubble.md`（含「Sound Scene 系列」40 篇）
+  - 40 篇 NML Sound Scene category articles（grep `nml_category: "Sound Scene"`）
+  - 葉杏柔相關 articles in `data/NML/articles/`
+
+### 新生態藝術環境（1990-1995）：九〇年代台南的另類藝術空間
+
+- **Type**: `NEW`
+- **Category**: Art × History（subcategory: 90 年代另類空間史）
+- **Priority**: `P0`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer ingestion P0 #5
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P0-5](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**（30 字內）：體制外空間 vs 體制內補助的張力
+- **預估**：L（5-7 hr，需深挖九〇年代一手史料）
+- **Stage 1 research plan**：
+  - 12-14 次 WebSearch（新生態藝術環境 1990-1995 杜昭賢 蔣耀賢 / 台南藝術替代空間史 / 1990s 同時期空間如 IT Park 在地實驗 二號公寓 NO-1 / 文化部前身教育部文化處補助結構 / 解嚴後當代藝術潮 / 嘉義鐵道藝術村等後續空間）
+  - 至少 3 個非 NML 新素材：(1) 杜昭賢 / 蔣耀賢口述歷史（國藝會檔案）(2) 南藝大美術系創設文件 (3) 1990s《今藝術》《藝術家》台南專題
+- **Stage 2 結構提案**：
+  - 物件開頭：新生態藝術環境某次展覽的具體場景（具體展覽名 + 日期 + 藝術家）
+  - 核心 thesis：90 年代另類空間是台灣當代藝術從「展廳系統」轉向「機構系統」之間的關鍵縫隙
+  - 七爪：戒嚴後台灣藝術空間真空 / 新生態啟動（1990）/ 同期 IT Park 在地實驗對位 / 五年運作的代表展覽 / 1995 結束的原因 / 對台南南藝大 / 高雄替代空間 / 後續嘉義鐵道藝術村的影響 / 2020s 對 90s 空間考古的浪潮
+- **Notes**：
+  - NML 葉杏柔 2023 系列「以藝廊為槓桿的另一種藝術空間」是核心 reference
+  - 跟既有 [當代藝術](../../knowledge/Art/當代藝術.md) + [台灣新媒體藝術](../../knowledge/Art/台灣新媒體藝術.md) 雙向 link
+  - 90s 另類空間史是 Taiwan.md History × Art 軸最大 gap，這篇是該軸入口
+- **NML Local Sources**:
+  - `data/NML/articles/` 葉杏柔 2023 系列文章（grep author=葉杏柔 published=2023）
+  - 相關「九〇年代」keyword articles in `data/NML/articles/`
+  - `data/NML/issues/back-to-care.md`（Issue 55，2023-03，葉杏柔系列同期）
+
+### 區秀詒：馬來西亞策展人在台灣的群島實踐
+
+- **Type**: `NEW`
+- **Category**: People（subcategory: 跨國策展）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #1（series C-1）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-6](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：馬來西亞策展人在台灣比在馬來西亞更被認真對待 — 邊陲認邊陲
+- **預估**：M-L（4-6 hr）
+- **NML 萃取重點**：本地 NML article 中區秀詒被多次訪談 + 她本人作為 NML 編輯顧問策劃多期 issue 的編按 + 2015 鄭文琦訪問她的逐字 dialogue。**Stage 1 主要從 data/NML 挖**：(a) 鄭文琦 2015 訪問她的 article（〈墨爾本電影節〉系列）(b) 她在 NML 編輯的 4 篇 article 編按 (c) NML 多次提及她的個人作品的所有相關 article。WebSearch 補抓 NML 外的：她在馬來西亞主流媒體曝光 / Singapore Biennale 等國際展覽紀錄 / 個人網站作品集。
+- **NML Local Sources**：`data/NML/articles/inhabit-the-moving-image-interview-with-au-sow-yee.md`（2015 鄭文琦訪她）+ `data/NML/articles/` 區秀詒 4 篇編輯 + 多篇被討論
+- **Notes**：跟 P0 #1 鄭文琦條目 cross-link / NML 編輯顧問 7 人系列第 1 篇
+
+### 高森信男的混血策展視角（既有 evolve）
+
+- **Type**: `EVOLVE`
+- **Category**: Art（subcategory: 策展人）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #2（series C-2）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-7](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：「形象化策展人」高森信男的真實累積比媒體形象更深 — NML 10 篇本人著作揭露的策展論述
+- **預估**：M（3-4 hr，evolve 既有「台灣策展人與藝術文化建構」中關於高森信男的段落）
+- **NML 萃取重點**：高森信男在 NML 是 top author #3（10 篇本人著作 + 10 篇編輯）。**Stage 1 主要從 data/NML 挖**：他自己在 NML 寫的 10 篇 article（早期 2014 Project Glocal 評論到 2021 亞雙策展論述）+ 他編輯的 issue 編按 + NML 對他的描述。WebSearch 補：他在《典藏今藝術》發表的策展論述 / 2021 亞洲藝術雙年展正式展冊 / 採訪。
+- **NML Local Sources**：`data/NML/articles/` author=高森信男 10 篇 + editor=高森信男 10 篇
+- **Notes**：evolve target = [台灣策展人與藝術文化建構](../../knowledge/Art/台灣策展人與藝術文化建構.md) 中既有的高森信男段落 / 也可能新建獨立 People 條目（待哲宇決策）
+
+### 在地實驗（IT Park）：台灣媒體藝術的啟蒙地
+
+- **Type**: `NEW`
+- **Category**: Art × History（subcategory: 90 年代另類空間）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #3（series D-2）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-8](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：黃文浩 1995 創辦的地下室為什麼成為台灣媒體藝術啟蒙地（替代空間勝過體制內機構的歷史時刻）
+- **預估**：L（5-7 hr）
+- **NML 萃取重點**：黃文浩是 NML 母組織 DAF 創辦人 + NML 編輯顧問。**Stage 1 主要從 data/NML 挖**：(a) NML 多篇 article 提及在地實驗 / IT Park / 黃文浩 / 1990s 替代空間 (b) 葉杏柔 2023 系列「九〇年代另類藝術空間」(c) 王福瑞、姚仲涵在 NML 訪談中對在地實驗的回憶。WebSearch 補：在地實驗官網 etat.com 自述 / IT Park 25 週年回顧（如有）/ 黃文浩個人訪談。
+- **NML Local Sources**：`data/NML/articles/` 葉杏柔 2023 系列（grep author=葉杏柔 published=2023）+ 多篇 90 年代相關 + `data/NML/issues/back-to-care.md`
+- **Notes**：跟 P0 #5 新生態藝術環境配對寫成 90 年代 dual feature
+
+### Nusantara 的政治含義：為什麼用「群島」取代「東南亞」
+
+- **Type**: `NEW`
+- **Category**: Culture × Politics（subcategory: 文化地理 / 概念政治）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #4（series A-2）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-9](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：「東南亞」是冷戰美國地緣戰略命名，「Nusantara」是當地語言自我命名 — 名字選擇本身就是政治
+- **預估**：M（3 hr，純概念性論述文章）
+- **NML 萃取重點**：群島 framework 詮釋學的核心論述都在 NML。**Stage 1 主要從 data/NML 挖**：(a) Issue 34 Hermeneutics of Nusantara 完整編按 (b) Issue 「Nusantara: Signifier and Its Limitation」(c) Issue 「Recalling Islands」(d) 22 篇帶 `Original Source: 群島資料庫 Nusantara Archive` 標籤 article。WebSearch 補：學術論文如 Anthony Reid 等東南亞研究專家對 Nusantara 概念的學術定義 / 馬來西亞 Gerakbudaya 文運書坊張永新訪談 / 1943 SEAC 命名史。
+- **NML Local Sources**：`data/NML/issues/hermeneutics-of-nusantara.md` + `data/NML/issues/nusantara-signifier-and-its-limitation.md` + 22 篇 NA imprint articles
+- **Notes**：跟 P0 #3 群島思維互補（一篇實踐層、一篇概念層）
+
+### 海盜、電波、隔離圈：當代台灣的環太平洋地緣三角
+
+- **Type**: `NEW`
+- **Category**: Culture × History（subcategory: 當代地緣論述）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #5（series F-1）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-10](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：當「冷戰」變成「新冷戰」 — 環太平洋地緣的非常規穿越情境
+- **預估**：M-L（4-5 hr）
+- **NML 萃取重點**：framework 完全來自 NML 2022 issue。**Stage 1 主要從 data/NML 挖**：(a) Issue The Piracy, the Radiowave, the Bubble 完整編按 + 該 issue 9 篇 article (b) 31 集南洋廣播電台 podcast 系列（電波軸）(c) NML 各 issue 中提及冷戰時期台灣對東南亞廣播的內容。WebSearch 補：日本帝國 1930 年代南進政策廣播史 / 中央廣播電台對中國大陸廣播史 / NFT bubble 學術論文。
+- **NML Local Sources**：`data/NML/issues/the-piracy-the-radiowave-the-bubble.md` + 31 podcasts in `data/NML/podcasts/`
+- **Notes**：理論性高，需主動加台灣具體案例避免抽象
+
+### How to NOISE：台灣實驗噪音文化的 DIY 實踐
+
+- **Type**: `NEW`
+- **Category**: Music × Art（subcategory: 實驗音樂）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #6（series E-2）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-11](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：1993 NOISE 雜誌啟動台灣實驗噪音場景，30 年後它仍是 niche — DIY 抵抗主流的代價
+- **預估**：M（3 hr）
+- **NML 萃取重點**：葉杏柔 2023 系列直接寫王福瑞 NOISE 雜誌 + 經.神.經。**Stage 1 主要從 data/NML 挖**：(a) NML 「How to NOISE」standalone article (b) 「Before NOISE」standalone article (c) NML 40 篇 Sound Scene category articles。WebSearch 補：1993 NOISE 雜誌實體刊物 archive / 王福瑞個人訪談 / 同期國際實驗音樂 scene。
+- **NML Local Sources**：必補抓 NML 兩篇 standalone（issue 不收錄）：https://www.heath.tw/nml-article/it-launched-internationally-how-to-noise/ + https://www.heath.tw/nml-article/it-launched-internationally-before-noise/ + 40 篇 Sound Scene
+- **Notes**：跟 P0 #4 王福瑞 cross-link / 補既有 [台灣聲音地景](../../knowledge/Music/台灣聲音地景.md) 中王福瑞名單級提及 → 升級
+
+### 群島資料庫：一個跨國藝術駐站計劃的方法論
+
+- **Type**: `NEW`
+- **Category**: Art × Culture（subcategory: 藝術駐站制度）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #7（series B-3）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-12](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：「藝術進駐、文化翻譯、共同生產」三大方針怎麼在 12 年實踐 / 方法論 vs 結果
+- **預估**：M-L（4-5 hr）
+- **NML 萃取重點**：計劃自己的所有 documentation 都在 NML。**Stage 1 主要從 data/NML 挖**：(a) Hermeneutics of Nusantara + Recalling Islands + Twinning Wastelands 三 issue 完整內容 (b) 23 篇 Residency category articles 駐站紀錄 (c) 22 篇 NA imprint articles。WebSearch 補：國藝會兩期結案報告 / 國際藝術駐站制度比較研究。
+- **NML Local Sources**：`data/NML/articles/` 23 Residency category + 22 NA imprint + 4 群島相關 issue
+- **Notes**：跟 P0 #2 數位荒原平台條目互相 pointer / 對應 NML 副計劃
+
+### 九〇年代「經.神.經」與台灣實驗噪音前史
+
+- **Type**: `NEW`
+- **Category**: Music × Art（subcategory: 90 年代實驗噪音）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P1 #8（series D-3）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P1-13](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：王福瑞「經.神.經」是純粹聲學嗎？「沉默-噪音辯證」的哲學起源
+- **預估**：M（3 hr）
+- **NML 萃取重點**：葉杏柔 2023 系列特別寫過經.神.經。**Stage 1 主要從 data/NML 挖**：(a) NML 系列 standalone article 對經.神.經的論述 (b) 葉杏柔 2023 國藝會結案報告「九〇年代噪聲作動的頻譜」(c) 周逸昌、黃明川、王福瑞三人對位的歷史脈絡。WebSearch 補：1990s 一台北實驗音樂演出文獻 / 周逸昌 nz 期 / 黃明川紀錄片〈台灣現代藝術三百年〉。
+- **NML Local Sources**：與 P1 #6 共用本地 sources，加：`data/NML/articles/silver-noise-some-scenes-on-the-sonic-memory-of-history.md` + `data/NML/articles/the-noise-parasite-of-composite-conceptual-and-sensual-re-formation-1.md` + `data/NML/articles/the-noise-parasite-of-composite-conceptual-and-sensual-re-formation-2.md`
+- **Notes**：跟 P1 #6 How to NOISE 是 series E-2 同分支 / P0 #4 王福瑞人物頁的延伸
+
+### 南洋廣播電台：聲音作為冷戰時期的台灣 / 東南亞通道
+
+- **Type**: `NEW`
+- **Category**: History × Music（subcategory: 冷戰廣播史）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #1（series F-2）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-14](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：台灣作為日本帝國「最南方廣播基地」與冷戰時期國民黨政府的東南亞華語廣播戰略 — 聲音的地緣政治
+- **預估**：L（5-7 hr）
+- **NML 萃取重點**：南洋廣播電台 podcast 系列直接是這個主題。**Stage 1 主要從 data/NML 挖**：31 集 podcast 全列表 + The Piracy issue 中關於電波的段落 + NML 各 issue 提及冷戰廣播史的 article。WebSearch 補：央廣（中央廣播電台）對東南亞廣播史 / 1930s 台灣放送局南進政策 / 馬來亞 Radio 對冷戰華語聽眾。
+- **NML Local Sources**：31 podcasts in `data/NML/podcasts/` + `data/NML/issues/the-piracy-the-radiowave-the-bubble.md`
+- **Notes**：可能 P1 升級候選（取決於 podcast transcript 完整度）
+
+### Mark Teh 與民眾劇場：馬來西亞劇場的台灣回聲
+
+- **Type**: `NEW`
+- **Category**: People × Art（subcategory: 跨國劇場）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #2（series C-3）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-15](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：兩個威權後民主化島嶼（台灣 / 馬來西亞）的劇場互相對話 — 民眾劇場為何不能在台灣複製
+- **預估**：M（3-4 hr）
+- **NML 萃取重點**：NML 2023 葉杏柔 + 鄭文琦聯合訪談 Mark Teh。**Stage 1 主要從 data/NML 挖**：訪談 article 完整 dialogue + NML 多次提及 Five Arts Centre / Pentas Project / Komas 等馬來西亞劇場團體。WebSearch 補：Mark Teh 個人作品官網 / 2018 PETAMU Project 紀錄 / 馬來西亞民眾劇場史。
+- **NML Local Sources**：`data/NML/articles/with-mark-teh-on-peoples-theatre-and-the-spectres-of-history.md`
+- **Notes**：跟 P0 #3 群島思維互文（劇場層次的群島實踐）
+
+### 台灣與東南亞的共享歷史：四個被忽視的時刻
+
+- **Type**: `NEW`
+- **Category**: History（subcategory: 跨區域歷史）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #3（series A-4）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-16](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：「中華 + 西方」框架掩蓋了台灣跟東南亞的四個關鍵歷史交集點
+- **預估**：L（5-6 hr，需歷史研究）
+- **NML 萃取重點**：NML 多 issue 散佈具體歷史事件素材。**Stage 1 主要從 data/NML 挖**：群島資料庫研究員（吳其育 / 茲克里拉曼 / KUNCI 等）的 article 中具體歷史事件描述 + Twinning Archipelago issue 中的歷史段落 + 南洋廣播電台 podcast 中的冷戰段落。WebSearch 補：陳鴻瑜《東南亞史》/ 中研院亞太區域研究專題中心研究 / 1942 大東亞共榮圈台灣角色 / 1949 國民政府退台與東南亞華僑社群。
+- **NML Local Sources**：`data/NML/articles/` 吳其育 / 茲克里拉曼 / KUNCI 群島資料庫研究員著作 + 4 群島相關 issue
+- **Notes**：四個時刻候選：(1) 1942 日本南進政策中台灣 (2) 1949 國民政府東南亞華僑網絡 (3) 1965 馬來西亞 / 新加坡分家對台僑影響 (4) 1990s 新南向第一波
+
+### 南島語族原鄉假說與台灣的群島身份
+
+- **Type**: `NEW`
+- **Category**: History × Anthropology（subcategory: 史前考古 / 語言學）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #4（series A-3）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-17](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：學術上台灣是南島語族原鄉，文化上台灣不認識自己的南島身份 — 知識 vs 認同
+- **預估**：L（6-7 hr）
+- **NML 萃取重點**：NML 群島 framework 跟南島語族原鄉假說同源。**Stage 1 主要從 data/NML 挖**：群島 framework 各 issue 編按 + 提及南島原鄉的 article。WebSearch 主導：Robert Blust / Peter Bellwood 學術論文 / 中研院史語所 Austronesian 研究 / 南島民族博物館（屏東）2023 啟用 / 卑南遺址玉器流通菲律賓考古證據。
+- **NML Local Sources**：`data/NML/issues/hermeneutics-of-nusantara.md` + `data/NML/issues/recalling-islands.md` 中關於南島起源的段落
+- **Notes**：跟 P0 #3 群島思維互補（人類學 / 考古層）/ 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) cross-link
+
+### 台灣新媒體藝術的南方視角（既有 evolve）
+
+- **Type**: `EVOLVE`
+- **Category**: Art（subcategory: 新媒體藝術）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #5（series G-1）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-18](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **目前 baseline**：[knowledge/Art/台灣新媒體藝術.md](../../knowledge/Art/台灣新媒體藝術.md) 183 行 16 藝術家 + VR + 生成藝術
+- **核心矛盾**：既有條目以「全球先進製程 + 西方視野」為主軸，加群島 lens 後揭露另一條南方視角的軌道
+- **預估**：M-L（4-6 hr，evolve 加章節）
+- **NML 萃取重點**：NML 60 篇 Image category + 多篇東南亞媒體藝術家訪談直接是這條南方視角。**Stage 1 主要從 data/NML 挖**：60 篇 NML Image articles + 區秀詒 / Hoo Fan Chon / Mark Teh 等 ASEAN 藝術家訪談。WebSearch 補：2024 亞洲藝術雙年展東南亞藝術家展品 / Singapore Biennale / Jakarta Biennale。
+- **NML Local Sources**：60 篇 NML Image category articles
+- **Notes**：跟 P0 #1 鄭文琦條目雙向 cross-link / 修補既有條目對 NML 的 0 提及
+
+### 翻譯作為策展：NML 把東南亞論述翻成中文的 12 年
+
+- **Type**: `NEW`
+- **Category**: Art × Culture（subcategory: 翻譯策展論述）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #6（series J-1）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-19](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：「翻譯」是知識傳遞的中性技術 / 還是策展選擇的權力 — NML 12 年翻譯實踐揭示
+- **預估**：M（3-4 hr）
+- **NML 萃取重點**：NML 34 篇 Translation category articles 是這篇主軸。**Stage 1 主要從 data/NML 挖**：34 篇 Translation 完整列表 + 譯者群（鄭文琦 / 葉杏柔 / 吳庭寬等） + 被翻譯原文來源（Lekra / Ruangrupa / Komas / Singapore biennale 等）。WebSearch 補：翻譯研究學術論文 / 馬來西亞華文翻譯產業 / Inscriptions / Buku Jalanan 等被翻譯方訪談。
+- **NML Local Sources**：34 篇 NML Translation category articles
+- **Notes**：高度 meta — 一篇關於翻譯本身的策展論述
+
+### 台灣原住民與南島語族藝術網絡（反向補位）
+
+- **Type**: `NEW`
+- **Category**: Art × Culture（subcategory: 原住民藝術 / 南島語族）
+- **Priority**: `P2`
+- **Status**: `pending`
+- **Source**: 2026-05-04 angry-shamir NML peer P2 #7（series L-1）
+- **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P2-20](../../reports/NML-semiont-analysis-2026-05-04.md)
+- **核心矛盾**：NML 群島 framework 偏馬來印尼，**反向補位** — 從台灣原住民視角重新看「群島」
+- **預估**：L（5-6 hr）
+- **NML 萃取重點**：**這篇是 §7.3 NML 盲點 #4 的 explicit 反向補位** — NML 缺原住民聲音，Taiwan.md 主動補。**Stage 1 不主要 mine NML**（NML 在這個 topic 是缺口而非素材源）。WebSearch 主導：原民會原住民藝術家資料庫 / Pulima 藝術獎得獎人 / 蘭嶼達悟族藝術家 / 高山青藝術 / 國美館原住民當代藝術典藏。NML 補：少數提及原住民的 article（如達悟族相關）作為對照。
+- **NML Local Sources**：少量參考（NML 在這 topic 是缺口）
+- **Notes**：DNA #16 反向補位的具體 instantiation — 不繼承 peer 盲點 / 跟既有 [台灣原住民當代藝術](../../knowledge/Art/台灣原住民當代藝術.md) 雙向 cross-link
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 <!-- 📚 Issue #635 4 篇文學文章合併 batch（idlccp1984 提案，2026-04-26 γ Phase 1 完成） -->
 <!-- 三段時序：戰後（C 已 ship）/ 解嚴後（B 待 polish）/ 21 世紀（D 待 polish）+ A dropped -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->

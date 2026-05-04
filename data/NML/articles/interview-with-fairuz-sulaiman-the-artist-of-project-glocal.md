@@ -1,0 +1,127 @@
+# Interview with Fairuz Sulaiman, the artist of Project Glocal
+
+- Source: https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+- Slug: interview-with-fairuz-sulaiman-the-artist-of-project-glocal
+- Type: nml-article
+- Published: 2014-02-07
+- Author: 鄭文琦 ， Fairuz Sulaiman， 張品杰 (Proofreading)
+- NML Category: Residency
+- Date Text: February 7th, 2014
+- Featured Image: https://www.heath.tw/wp-content/themes/nomansland/img/nomansland.jpg
+
+## Excerpt
+
+你從哪裡來？你在那裡使用什麼語言？你的生活環境是在都市或郊區？
+菲洛茲蘇萊曼（Fairuz Sulaiman）：（作為馬來西亞人）我會使用英語和馬來語兩種語言，但在馬來西亞境內有多種語言通行，例如我也能說一點普通話、福建話和塔米爾語（தமி...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 13 : Project Glocal: The Residency Interview with Fairuz Sulaiman, the artist of Project Glocal 專訪Project Glocal亞洲城市串流藝術家菲洛茲蘇萊曼  February 7th, 2014／ 類型：  Residency         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/) [https://twitter.com/share?text=Interview%20with%20Fairuz%20Sulaiman%2C%20the%20artist%20of%20Project%20Glocal&url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/](https://twitter.com/share?text=Interview%20with%20Fairuz%20Sulaiman%2C%20the%20artist%20of%20Project%20Glocal&url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/)   作者：  [鄭文琦](https://www.heath.tw/contributor-single/?ID=3) ， Fairuz Sulaiman， 張品杰 (Proofreading)          2014年的Project Glocal將是一系列的短時程進駐。參與計劃的新舊藝術家將受邀至另一個城市，為期從10天到一個月不等。於此期間的任務為：1.了解城市當地的藝術家；2.找尋符合自身實務的合作對象；3.和這些對象一起進行創作／表演。這任務是傾向呈現非市場導向的臨時性藝術作用，藉此創造出某種共同連結、進而引發追尋的自在感受。因此計劃也假設了，彼此合作的不同藝術家，將在自身將來的創作實踐歷程中，延續尋求以彼此為合作夥伴的關係，進而強化這樣的連結。 三月在台北發生的「Project Glocal亞洲城市串流」（原名為：Project Glocal 2014: TRANSI(EN)T TPE）將聚焦於科技+表演性的藝術，合作單位為台北數位藝術基金會（Digital Art Foundation）；八月在吉隆坡發生的Project Glocal計劃將聚焦於傳統+社區，合作單位為數位藝術媒體互動（Digital Art Media Interactive; DAMI）組織；11月在馬尼拉發生的Project Glocal計劃將聚焦於科技+傳統+人，合作單位為98B藝術空間。參與藝術家涵蓋香港，印尼，日本，馬來西亞，新加坡，台灣及菲律賓。   **你從哪裡來？你在那裡使用什麼語言？你的生活環境是在都市或郊區？**
+
+ **菲洛茲蘇萊曼（Fairuz Sulaiman）：**（作為馬來西亞人）我會使用英語和馬來語兩種語言，但在馬來西亞境內有多種語言通行，例如我也能說一點普通話、福建話和塔米爾語（தமிழ் ，一種通行於印度南部的古老語言），因為我的周遭就有使用這些語言的族群。馬來西亞人對於食物的處理可以說非常具實驗精神，我們喜歡觀察各種（飲食）文化，將之挪用於我們自己的飲食中。我也喜歡這麼做，我喜歡去印度和中國菜餐廳…因此在馬來西亞也有語言混雜使用的現象，就如你在各種不同文化的飲食當中都選取一點來創造自己的菜餚。在馬來西亞的學校裡，以英文為主要使用語言並和其他語言混雜使用的現象也很常見，不只是語言，食物也是文化的象徵之一，當我們要討論馬來西亞文化，其中就有來自華人和印度文化的影響，馬來西亞是一個很有趣的國家，以宗教來說，我們就有佛教、回教、印度教、基督教等等不同宗教存在於同一個國度的多元景象。在馬來西亞沒有單一的種族、宗教或者語言，各方面的多元形成了多姿多彩的文化地景。
+
+  **你的生活環境是在都市或郊區？**
+
+ **FS：**是的，我住在一個叫做「八打靈再也」（Petaling Jaya；簡稱PJ或「靈市」）的城鎮，它是一個距離吉隆坡約莫20分鐘車程的衛星城市。「Jaya」這個字可以表示「勝利」之意，在馬來文裡，人們可以單純（在地名上）加綴這個字但不表示特殊的意義。我會認為它是屬於郊區的背景，因為它是有些新的區域，這意思是仍然在開發中。這個城市裡原本有一座很大的棕櫚油提煉站，後來人們為了開發市區而拆掉它。
+
+  **你是否曾經到過哪些東南亞城市，或者其他國家？**
+
+ **FS：**我去過清邁、曼谷（泰國），河內、胡志明市（曼谷），琅勃拉邦（Louangphabang，寮國）並遠至吳哥區（Ankor Wat，暹粒）、巴蘭班南（Prambanan），雅加達、萬隆、日惹（印尼） ，馬尼拉（菲律賓）。我也去過其他亞洲國家如日本，或歐洲國家，而且絕大多數都是當背包客。我去這些地方主要都是自己一個人，因為我不喜歡跟隨他人的行程（假如是跟工作有關又另當別論了）。雖然不是很正經的答案，不過我超愛旅行的，特別是剛開始和我姐一起出國。從前，馬來西亞的亞洲航空（AirAsia）會飛到各地，我們常常在東南亞各國旅行，像是寮國、柬埔寨、越南、泰國。只要揹起行李，就可以去一個沒有人到過的城鎮，充份地去探索。我們經常沒有預先計劃，人們愛去倫敦看大笨鐘，去巴黎看艾菲爾鐵塔。但我們不知道自己會看到什麼或不會看到。大多時候，我們總會發掘一些有趣的事物。
+
+  **你喜歡在這種區域性（在此是指東南亞）的尺度下工作嗎？**
+
+ **FS：**喔，沒錯！我非常喜歡！我想關於東南亞最棒的一件事就是，它反映了，就向另一個大陸一樣，它就像泰國人說的：「Same same but different.（有點像又不太像）」我愛這種相像（same），因為相像之於東南亞是很特別的。它看似相同…但又不完全相同，它吃起來像炒飯…但又不是同個炒飯。這些事情就是我們在「媒體／藝術廚房」（Media/Art Kitchen）所進行的，其他的亞洲藝術家作品對我來說竟是如此的熟悉。我們聽不懂但知道對方在說什麼，因為我們的文化背景彼此相近。當達鴦和我談論語言時，我們發現有些字詞非常有趣。她說某個字在他加祿語是這個意思，但在馬來話裡又表示其他東西，去探索這些事情令我感到著迷。當然，在其他國度也很有趣，但是說到東南亞，最重要的就是比起美州或歐洲來說，人們的心理更加樂於分享。常會看到在東南亞，假如你來我家拜訪，我的母親一定會為你煮飯。我很欣賞那種文化，即使這裡的文化不同於馬來西亞，但也相去不遠了。
+
+  **你曾經去過很多大城市以外的地方。然而，我也注意到先前的Project Glocal交流計劃比較偏向都市化的脈絡。**
+
+ **FS：**也可以用剛剛的「有點像又不太像」來理解。想像東南亞有許多城市，以此為例，你到處都會碰觸一點異質的文化，但是普遍來說，都市的思考方式總是不同於鄉村地區的思考方式。因此，在新加坡、吉隆坡、香港、曼谷，人們的心態都很相似。都有商品化以及高房價的問題，所以在這種背景下會有相近的思考方式，我想這是很重要的。然而，在都市以外，思考方式又截然不同，在我參與過的其他計劃裡，我和我姐和一些其他朋友去一個小漁村，並在那裡為當地小朋友開一個工作坊。那是在一個社區裡，我們使用一套由麻省理工學院媒體實驗室所開發名為SCRATCH的自由軟體來授課。這種工具只需要簡單的拖和拉，你可以立刻看到效果。而且他們使用起來完全沒有困難！但是這個課程的用意不是學程式，而是蒐集關於他們的故事。所以這些孩童開始告訴我們自己的生活，他們怎樣在漁村裡長大，那是在城市裡聽不到的故事。城市和鄉村顯然有不同的議題，至少探索城市的問題遠比生活在其中有趣多了。
+
+  **這是否表示你認為Project Glocal並不只有都市的脈絡？又或者，你認為在「Project Glocal亞洲城市串流」裡最重要的一點是什麼？**
+
+ **FS：**我不是很確定今年以前的Project Glocal亞洲城市串流，但我了解到它是使用「國家」作為不同地區（藝術家）串聯在一起的單位，並且一起工作和創作。就我的理解，這是非常非常好的事，也是非常值得觀察的…不只是因為經濟因素，也是因為地區。像是馬來西亞的穆斯林就和印尼的穆斯林相去甚遠。前者比起後者有一點點偏向基本教義，但是後者卻有全世界最多的回教人口。那麼為何馬來西亞比較「正統的」回教呢？這也是在比較不同國家時有趣的地方。
+
+  **請告訴我們你在學校裡主修什麼？**
+
+ **FS：**我在大學主修多媒體動畫（multi-media animation），並畢業於2005年。畢業以後，我沒有一頭栽進藝術領域，我和這個國家的所有人有一樣的問題，那就是要找到一份工作。於是我便在那所大學裡繼續任教了三年。（**是教授媒體藝術嗎？**）不，在馬來西亞並沒有很多關於媒體（藝術）的文憑―–也許現在有很多了，不過當我畢業時，還沒有很多這方面的課程。很多學校提供動畫，很多電影製作，但是媒體藝術呢？大概就是一些關於設計網頁的技術吧。
+
+  **那你可以透露多一點你對於（新）媒體藝術，或者科技方面的興趣嗎？**
+
+ **FS：**當我還是小孩，我喜歡拆解事物，研究它們如何運作。我認為這大量地說明了我後來的工作。因為對我來說（駭客）就是理解事物得以運作的方式。而且，因為有許多科技都是被隱藏在盒子裡面，你只能看著它運轉卻不明所以，不明白某個機器如何作用；磁帶如何轉動；還有聲音如何從喇叭中播放出？所以對我來說，唯一透徹它的方式就是將之拆開，並且觀察它的內部。我喜歡這麼做，但是如今，科技不再是如同以前的機械構造，就算拆開盒子也能發現迴路面板。我也不能理解任何原理，所以我現在傾向觀察像：「Instgram」、「WhatsApp」、臉書（Facebook）這一類的技術，並且試圖理解那種技術，但將之轉換成某種更可以碰觸和實體的樣貌，而不只是（它們就在那裡）。它是肉眼可見的，但它如何運作，網際網路／訊號又如何傳入你的手機，你又如何看見上面的內容？那些，都是我現在想要了解的事物。
+
+  **你最擅長／精通的是哪一類的技巧？**
+
+ **FS：**作為一個媒體藝術家，我不會說我有哪種技巧。因為我在學校裡唸很多不同的東西，而且每種東西都擷取一些部份，但是都沒有很深入，只有稍加理解它們運作的原理。假如你要問我什麼是我所偏好的媒介，我會回答你，使用的媒介是越多越好。因為我認為每一種媒介（物）都有其優點與缺點：所以你可以發現，比方說數位媒介或者類比媒介的優點，其中之一或者兩者都有，然後將之結合，看看會發生什麼事情。所以就科技的技巧來說，我確實不精通它們。然而，我喜歡連結不同事物，你曉得有些物件和它們所在的環境不是相連在一起的，我傾向串聯它們，然後觀察是否配對成功，或者它會如何運作，或者它會不會失敗。因為即使是不好的連結也可以教導我們如何改善，那就是我的專長（如果你願意這樣稱呼它）。
+
+  **你也自己寫程式嗎？**
+
+ **FS：**不，我曾經試著自己寫，不過程式設計實在離我太遠了。我是著理解那些系統，理解某套系統的程式如何運作。就像是谷歌，假如你搜尋一個單字，這個引擎如何找到所有的集合？谷歌會看見最多人搜尋的單字連結，所以最常被搜尋的結果，或者最多人點選的連結就會出現在你搜尋的第一個結果。只要我了解這套機制，我就會想要「玩」這個概念，然後把它轉換成一個作品，或是一個表演，讓它轉換為可以觸摸的東西，而非只躲在不可見的虛擬空間裡。
+
+  **你提到兩個東西，一個是理解理解系統如何運作並利用之，另一個是理解人們如何受到虛擬世界的社交媒體影響，並且將它「翻譯」成實存的狀態。**
+
+ **FS：**一點也沒錯。雖然我仍然對於機械一類的東西很感興趣，那些像是人們如何依賴社交媒體，還有如何透過它們彼此串聯的方式，但這些使用者並不知道它的運作原理，或者它如何作用在自己的生活之中。我所做的上一個作品探討Instgram這個照片服務以及分享，思考怎樣設法將他從虛擬的轉化為實體的，因為這是關於分享、推薦（按讚）以及評論（留言）的網路行為。
+
+  **可否請你再舉例說明，你如何在創作裡連結不同的事物？**
+
+ **FS：**我所關注的不只是科技的，也包含文化的層面。比方說，我的另外一個系列作品是橋接傳統文化和媒體藝術。我看見「Wayang kulit」(註1) 或者說皮影戲，並且研究它們如何表演和如何運用這些偶。現代的我們看待這些文化時，我們如何讓這種文化重新引發體驗的興趣？如何讓它們在我們存在的當代重新變得好玩？舉例來說，所有東南亞國家都有類似「Wayang kulit」這種偶戲的形式，雖然有些是平面的，有些是立體或物件的，所以我試圖從這樣的觀察中擷取靈感，並轉換成為數位或程式化，或者應用體感控制（kinnect），任天堂，或任何可得的互動機制。我嘗試在某些傳統或歷史的背景上呈現其內容，將它們推向前，在現代化的背景上加以描述或發揮最大用途。這和我去拆解（hacking）數位科技是做一樣的事，在兩者中，我都嘗試著呈現一個對每個人來說比較普遍，單純，以及破除神秘性（desmystifying，除魅）的理解。如此一來，當觀眾再次（於我的作品裡）體驗它時，一切再度歸位的將不再是相同的事物。
+
+ 無論如何，我想去台北應該不會有什麼問題。達鴦也不會推薦一些我不能共事的對象，她應該會過濾適合的計畫候選人。我信任策展人，雖然我不是真的跟她很熟，我們才認識幾個月而已。不過，她和我姐蘇西•蘇萊曼（Suzy Sulaiman；曾協助《媒體／藝術廚房》策展兩年）已經很熟識了。
+
+     [ISSUE 13](https://www.heath.tw/nml-issue/project-glocal-the-residency/)   [駐村（藝術進駐）：楔子 ， 徐建宇](https://www.heath.tw/nml-article/artist-in-residency-an-introdution/)  [閱讀新加坡：一個關於藝術空間的對話 ， 鄭文琦](https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/)  [專訪Project Glocal亞洲城市串流策展人：達鴦‧雅洛拉 ， 鄭文琦](https://www.heath.tw/nml-article/interview-with-dayang-yraola-the-curator-of-project-glocal-transient/)  [專訪Project Glocal亞洲城市串流藝術家曼內•維拉里巴 ， 鄭文琦](https://www.heath.tw/nml-article/4432/)  [專訪Project Glocal亞洲城市串流藝術家菲洛茲蘇萊曼 ， 鄭文琦](https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/)  [專訪Project Glocal亞洲城市串流藝術家杜托哈多諾 ， 鄭文琦](https://www.heath.tw/nml-article/4434/)   Footnote  註1. 某種盛行於東南亞各國的傀儡戲，有皮影，懸絲，或者實體造型。  [https://en.wikipedia.org/wiki/Wayang_kulit](https://en.wikipedia.org/wiki/Wayang_kulit)                 ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/contributor-single/?ID=3
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/4432/
+- https://www.heath.tw/nml-article/4434/
+- https://www.heath.tw/nml-article/artist-in-residency-an-introdution/
+- https://www.heath.tw/nml-article/interview-with-dayang-yraola-the-curator-of-project-glocal-transient/
+- https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+- https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/?lang=en
+- https://www.heath.tw/nml-article/reading-sigapore-a-dialogue-on-art-space/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/project-glocal-the-residency/
+- https://www.heath.tw/podcast
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+- https://en.wikipedia.org/wiki/Wayang_kulit
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Interview%20with%20Fairuz%20Sulaiman%2C%20the%20artist%20of%20Project%20Glocal&url=https://www.heath.tw/nml-article/interview-with-fairuz-sulaiman-the-artist-of-project-glocal/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

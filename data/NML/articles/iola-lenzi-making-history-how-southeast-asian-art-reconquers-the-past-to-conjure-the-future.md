@@ -1,0 +1,121 @@
+# Iola Lenzi: Making History: How Southeast Asian art reconquers the past to conjure the future
+
+- Source: https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+- Slug: iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future
+- Type: nml-article
+- Published: 2013-01-08
+- Author: Iola Lenzi
+- Editor: 鄭文琦
+- Original Source: 《典藏今藝術》no.217; translated by Rikey Tenn
+- NML Category: Translation
+- Date Text: January 8th, 2013
+- Featured Image: https://www.heath.tw/wp-content/uploads/2016/06/20110929170450_2.jpg
+
+## Excerpt
+
+近來曼谷街頭爆發武力衝突，原為受害者與加害者的紅衫軍、黃衫軍和泰國軍隊前後角色易位，歷史及其結果再度成為新聞。在全世界最多元的區塊上，東南亞既無法宣稱唯一共有的歷史，也不存在單一身分認同。誠然，即使有人持續挑戰東南亞主要為非自然的組成，同地...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 7 : Beyond the Measure Iola Lenzi: Making History: How Southeast Asian art reconquers the past to conjure the future 製造歷史—東南亞藝術如何再征服過去而召喚未來  January 8th, 2013／ 類型：  Translation         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/) [https://twitter.com/share?text=Iola%20Lenzi%3A%20Making%20History%3A%20How%20Southeast%20Asian%20art%20reconquers%20the%20past%20to%20conjure%20the%20future&url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/](https://twitter.com/share?text=Iola%20Lenzi%3A%20Making%20History%3A%20How%20Southeast%20Asian%20art%20reconquers%20the%20past%20to%20conjure%20the%20future&url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/)   作者：  Iola Lenzi  ／  編輯： 鄭文琦     出處： 《典藏今藝術》no.217; translated by Rikey Tenn     本文為鄭文琦譯自Iola Lenzi的2010年專文〈Making History: How Southeast Asian art reconquers the past to conjure the future〉，中文版合作發表於2010年《典藏今藝術》no.217。《製造歷史—東南亞藝術如何再征服過去而召喚未來》特展為新加坡濱海藝術中心附設的Jendela藝廊2010年委託Lenzi所策畫，其後2013年新加坡雙年展以及2015開幕的新加坡國家藝廊於均以「東南亞藝術平台」為定位，其來有自。    [![image](https://www.heath.tw/wp-content/uploads/2016/06/alwin-timugan.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/alwin-timugan.jpg) Alwin Reamillo, "Katimugan (Southern Wing)"; photo courtesy of the artist  近來曼谷街頭爆發武力衝突，原為受害者與加害者的紅衫軍、黃衫軍和泰國軍隊前後角色易位，歷史及其結果再度成為新聞。在全世界最多元的區塊上，東南亞既無法宣稱唯一共有的歷史，也不存在單一身分認同。誠然，即使有人持續挑戰東南亞主要為非自然的組成，同地區鄰國間仍普遍採取彼此忽略的態度。然而，東南亞不再是一種預設的歸類法，在千禧年後，亞洲歷史已將我們所在角落的不同國家綁在一起，許多共同主題貫穿我們的前現代（pre-modern）和當代文化，前者有宗教和文化融合、海上貿易、多縫隙邊境、母系社會組織，以及主要涵蓋功能化、靈性與物質為發展核心的高度藝術表現；後者又有西方帝國主義、去殖民化、民族（nation）崛起、都市鄉村關係緊張、對內－對外身份認同觀點，以及民主妥協等。
+
+ 歷史的詮釋與權力，和國家（state）的相關處境緊密相繫。隨著東南亞各族從異國霸權統治下解放並愈見質疑區域民族主義的內容和目標後，他們也回顧過去以審視歷史，藉此尋找關於自身的答案和鎔鑄現狀的決定性事件。但他們多少有些不確定，因為直到數十年前，歷史的決定權仍掌握在外人手裡：從早期菲律賓與印尼19世紀外來政權，殖民地主人以自身而非本地族群的觀點，掠奪式地強徵當地過往。後來20世紀中去殖民化風起雲湧，民族國家（nation-state）建立起法定政治代議運作，傾向將歷史納入政治事務，因而在過程中扭曲甚至掩飾特定事件。但越是接近20世紀末，特定國家的大眾傳播和社會變遷就越包容個人聲音被社會聽見，政治變化導致初萌芽的自我賦權（empowerment），歷史的演員（人民）對於歷史主張的要求聲浪愈發高漲。在地藝術家在這波重新挪用（re-appropriation）作用中首當其衝。
+
+ 少數泰國和印尼（也有一定數量的新加坡）當代實踐者，(註1) 將近 20年持續探索以過去為批判現前體制與階層的管道，菲律賓、越南，(註2) 甚至不少像是緬甸藝術家，都在相對晚期將歷史轉變為檢驗國族與自我的稜鏡。如今21世紀邁入第二個十年，新興的、跨區域的歷史資料審查，還原部份晦暗不明的真相及其對於今日與未來影響之爭辯，已成為不同媒材的當代創作者關乎主旨的中心思維。「製造歷史」展邀集東南亞六國的七位男女藝術家，本意在於快照式的突顯而非普查建檔，重點在展出特別呈現歷史和歷史所有權等命題所衍生概念的新作。這是個複雜的主題，因此引發迥異且多元並存的表現策略。儘管參展者之間容或擁有相當的世代差異，所有作品 (註3) 仍將藝術作者（art-maker）理解為行動中心或一個訴諸群眾思考反應的審慎觀察者。
+
+ **雷米羅**（Alwin Reamillo）和**Nge Lay**的作品都根植於個人背景，也都表達對於更廣泛議題的看法，而這些議題又受到民族歷史的影響。Nge Lay今年的家族攝影系列「有限事物的關聯性」（The relevancy of restricted things）裡，置入一個挫折的家族實現和內心渴望的敘事。她以作品為媒介表達自己關於父親的失落感（當時她還是小女孩）以及如今無法養育後代的遺憾，後者她歸咎於緬甸高壓政權的環境。(註4) 此外，雖然這些扮演的源頭是萌生自個人經驗，它的形式層面和心理學紀錄仍激起共通的心理認知，使觀眾透過憐憫與熟悉而連結。
+
+ 一系列九張影像呈現一個鮮活的場景：孤立地景上的破敗家族，藝術家用看似橡皮的鬼魅面具遮蓋五官，扮演父親一角。代表的家長分別由孩童、女眷和動物所環繞，構築一幅東拼西湊的家庭圖像，既因違背常態而倍顯乖張，復又流露脆弱而值得重視。藝術家操弄主角和攝影師的不同觀點，隨窺私的相機從三人照轉到群體照，闖入私密空間再到荒涼光景又折返。亦運用打光做為詮釋親密性的手法，點出自深沉憂傷之底羞赧地浮出不足為外人道的家族祕辛：藉由燭光烘托出主要人物表情，當入侵鏡頭尾隨家族成員的僵硬姿勢遁入幽深處時，藝術家也捕捉到片刻的莊嚴。
+
+ 隨著此系列的開展，觀眾窺私的目光從內部到外界、從夜晚到白天打撈出強烈的反差—在單薄帳棚庇護的假冒家族，和排他對象鎔鑄的輸誠超脫之間。背景無聲地傳達脆弱與瞬息，在夜色如瀝青般黯淡的緬甸惡水裡，(註5) 虛幻的住所不能提供人們任何保護。選在夜裡拍攝棚內場景，燭光映照的明暗光影烘托出外界黑暗，(註6) 如此巧妙的設計強化作品的表演層面，黑暗也訴說緬甸政府箝制的落後。這種既發散又寄託的光影作用，同樣阻礙寒愴個體的內在私密性與空洞地景。更多於打光考量的，是這種策略強調從內在空間（在這裡是不確定甚至創傷的地帶）到公共空間之間缺乏過渡性，空無的、圖畫式的明信片，即個人與公眾事物之間的清楚隔離，正是今日緬甸的必然現實。氛圍動人、黯淡感傷的「有限事物的關聯性」訴諸於直覺，誘使觀眾回應藝術家的內在世界：即藝術家在緬甸努力尋找的一塊寬慰而清明的淨土。
+
+ 雷米羅2007至2009年創作的〈Mang Emo+Mag-Himo平台鋼琴計畫（第三運動：馬尼拉－佛里曼特－新加坡）〉（Mang Emo+Mag-Himo Grand Piano Project (3rd Movement: Manila¬Fremantle-Singapore)）同樣是往返跨越個人與公眾之間。該計畫邀請人們彈奏雷米羅的平台鋼琴 (註7) 並與之互動，喚起藝術家家族於20世紀末的菲律賓持續演進中的鋼琴製造歷史。藝術家利用從父親在馬尼拉廢棄工廠挽救的鋼琴部份零件，不但在物質面上重新拼湊一件新作品，更透過此創作為家族失落與該國手工製造鋼琴的末日故事，寫下不同的救贖出路。作品用來追憶過世的父親，他過世時也差不多是菲律賓鋼琴製造業殞落的時間，尤有甚者，恰好是家裡的製造工廠轉手他人的時候；「Mang Emo+Mag-Himo」結合許多故事文本：雷米羅和那些群體的故事，文化關聯性與私密象徵的層次結合成同件作品。地圖、經過編碼的移民典故、家族照相、歷史足跡、鋼琴製造技藝，連同許多線索以照相轉印或蝕刻在鋼琴主體，或雷米羅以鉸鍊對半組合成蝴蝶似的翅膀作品上，翅膀的形狀讓人聯想到平台鋼琴的琴蓋，如此建造廣大而緊密堆疊的歷史和記憶敘事，得以透過裝置的實體與觀念可變性而窺見。
+
+ 藝術家於延續鋼琴裝置功能的迫切堅持，符合他對藝術做為一種社區工作方法以及投入世界管道的承諾。(註8) 藉此，雷米羅所涉入的已超過近幾十年來以繪畫為主的菲裔藝術工作者，後者雖然注意到社會上的弊端，卻又明顯忌憚於任何對峙行動的訴求。扮演作品核心的功能主義，以及藝術家象徵地振興這項垂死產業連同其家族史的意志，讓演員與其是觀眾成員的見證，提出對當前與未來的責任，即整體而非少數的保存。若從家族特性來看，雷米羅選擇鋼琴 (註9) 當做歷史滅絕與再生的隱喻並非巧合：鋼琴是殖民統治清晰可見的圖騰，雖然在南島原住民的音樂文化相當陌生—後來菲律賓製造的樂器還有時烙上德文，如雷米羅家族的威登堡（Wittemberg）這類響亮商標—不但融入當地人的氣質，甚至透過禮拜歌曲使當地人歸化天主教信仰。
+
+ 因此，除了雷米羅的作品裡的宣洩角色之外，〈Mang Emo+Mag-Himo〉也從鋼琴在島國的矛盾軌跡上溯菲律賓歷史：樂器如何從異國傳教工具成為該國代表產業，進而隨1990末期亞洲經濟危機所箝制，乃至後續全球化競爭導致拖累產業部門由盛而衰。最後雷米羅藉由裝置再述並探測歷史，也巧妙體現藝術家以及該國人民的混血性格(註10)，確實菲律賓民族是如此，而作品也透過演奏者的殷勤參與，邀請觀眾一同認識21世紀菲律賓在歷史影響下的文化與社會意義。運用本地事件來思考歷史的所有權及未來其他出路的藝術家則有：裴公慶（Bui Cong Khanh；編按：由於策展文檔案將Bui Cong Khanh略植為Bui Khanh，導致2010年《典藏今藝術》發表時將藝術家人名翻譯錯誤，今於此版本更正）、唐大霧（Tang Da Wu）、Green Zeng和西迪吉（Vasan Sitthiket）等。
+
+ **裴公慶**作品持續觀照越南人如何應對不斷演化的社會政治與文化地景矛盾。涵蓋廣泛的主題如：消費主義、官僚腐化、僵化階級、性別及傳統的失落等，這位藝術家經常使用自己的身體做為表現的場所（locus）與代理物。(註11) 他為「製造歷史」構思名為〈過去的移動〉（The past moved）的多媒體作品具有多面向觀點，同時檢驗歷史製造與紀錄中的被動觀察與主動涉入潛力。裝置內容為人民面對大舉進犯的現代化所導致的都市環境意義與地理變遷衝突，結合肖像、表演，乃至街頭權充攝影布景等。在巧扮主角與藝術家用圖像詮釋的當地街頭互動之際，藝術家也邀請他的西貢對象思考與呈現變動的城市景觀，每個參與者依據各自觀點涉入作品不同層次。無論是人行道上的小生意、克難搭建的佛龕、零落的電線，還有政治口號傳聲筒，裴公慶的街景都注定被抹滅，讓位給鋼筋玻璃帷幕的新大樓建築。有鑑於此，藝術家複製自己的城市一隅，設計真人大小的炭筆畫布景，藉此致意並記錄，同時邀請朋友和鄰人坐在這些旋即毀棄的虛構的社區布景前留影。這件搶佔歷史的作品，其回望未來的角度促使觀眾思考這段獨特的過往（西貢／胡志明市街道迫在眉睫的轉型與淨化更新），也思考吾人如何書寫乃至（在歷史書寫後）該如何認知它的角度。藝術家將圖像、表演與攝影當成記錄工具操作，利用傳統攝影棚在特定時空下的正式個人建檔功能，重新思考一個共通場所的視覺歷史神話學（visual-historical methodology）(註12)，從地理和時間上置換過往而拓寬作品的閱讀面。
+
+ 無論是西貢或新加坡，觀眾熟悉的街頭標語都是〈過去的移動〉輕易辨識的視覺入口，做為攝影棚布景的功能主義取向，訴求攜帶相機的群眾，不至於被艱澀的觀念嚇跑。由於作品是參與一段尚未發生的過去，它巧妙地豁免於鄉愁，反之形成對當下和歷史主張的註腳，同時批判鄉愁如何扭曲我們與過往的關係。作品在遠離西貢的最初場地，移至新加坡藝廊內展出後，它更將他者的歷史特徵轉置入新的場所，展現舊故事可以被挪用、再閱讀以及轉化的契機。安坐在藝術家布景前照相留影的新加坡觀眾，既以欣賞作品恰如重新組裝的老西貢，也可以對牴觸未來的過去隱喻追根究柢。最後裴公慶在鏡頭前後的雙重身份，也指出歷史的多重詮釋不只一個真相，那是今日越南仍在未定論的姿態，宏觀、正式的歷史也仍為國家所把持著。
+
+    [![image](https://www.heath.tw/wp-content/uploads/2016/06/20110929170450_2.jpg)](https://www.heath.tw/wp-content/uploads/2016/06/20110929170450_2.jpg) Bui Cong Khanh, The past moved; photo courtesy of the artist  新加坡的**唐大霧**同樣述說本地的記憶與未來投射，以此探討歷史於今日社會的迴響。他為展覽貢獻數作，包括一組包含八張素描的裝置〈建國44週年（2009）〉（2009 Nation Building 44th Anniversary），也是展覽委託的紙上新作。他藉由檢驗過往歷史劇情、重要建築地標與國家符號，促使觀眾重新思考事件的意義，同時暗示由未竟過往選項所形成的替代現狀。唐大霧為44週年國慶所做的作品，刻意採用兩個不吉數目的年份，素描是全體新加坡人都懂的炭筆加密圖像語彙：兩張紙鈔所象徵的貧窮公民每日餐費；由清一色HDB（建屋發展局）組屋代表的破敗天際線，隱晦點出1960年代後全面取代成公社似的組屋社區；代表一體適用之文化政策的舊日最高法院（編按：已在2015年11月以新加坡國家藝廊的姿態重生）圓頂下，是一個讓人聯想起梵谷潦倒之姿的痀僂身影。以錫鐵為八幅素描系列裱框的動作，寓意過去供應物資為主的馬來殖民時期，作者從回顧新加坡過往的建國系列，來提問與探究它的當下和未來。
+
+ 除了城市國家實體與文化地景的典故，〈建國44週年〉還質疑在家庭宣導環繞新加坡國慶日的民族主義激情。何者是人民對於國家熱情的本質，還有假如出自真誠而非造作，某種構成黯然歷史真相的國族激情是否仍值得追求？然而，尖銳憤慨的批判並非自以為是、毫無根據且憤世嫉俗的，而是源於藝術家成為新加坡公民近70年，對祖國之深切寄望使然。猶記得童年大英帝國邊境的貧窮小島，和晚近40年來此地所帶動的財富創造，唐大霧輕輕提出老新加坡人的理解，避免被鄉愁所扭曲的稜鏡效應，為喚醒麻木不仁而設計動之以情的提問。他自信新加坡人民願意觀看和理解，唐運用藝術來診治集體的無感症，更主張新加坡和所有成熟國家一樣必須具備坦誠自省的能力。
+
+ 假如〈建國44週年〉含有某種紀實性，那後續作品雖然也錨定當地，採取剝除歷史及其迴響的寓言手法。作品樸實卻耽溺的單色畫風，以凝滯的墨水抽象演繹，從大量和未逮歷史之中升起某種虛構性。把持新加坡的四大勢力，華人、馬來人、印度人和白種人，以大家長的眼光決定催生連結星馬兩國的大橋；(註13) 新加坡海灣新建的三連棟賭場矗立於此時此地，衍生的賭場適法性辯論也成為陳舊的歷史，被淹沒在賭場開啟的紙醉金迷與排除政策陰影底下。這裡不再是流放之地，而是星國吸引世界各地豪賭之徒的成就象徵。唐的素描或許說不上持平公正，卻彰顯出僅僅幾年間，某一組理念就可以變形為其他理念，也能塗抹先前歷史而寫就新的歷史。
+
+ **Green ZENG**的〈馬來元鈔票（藍色和橘色面額研究）〉（Malayan Exchange, study of Blue Denomination & Orange Denomination）也檢驗新加坡建國關鍵初期，作為城市國家的國族作用及共和國歷史。發行如新加坡流通貨幣必須是廣大異質群眾可接納的形式，藝術家設計毫無偏見的兩元和五元紙鈔，呈現出一張飽含意義與符號的織錦畫，啟發觀眾以個人或集體的迥異體驗思索歷史的興衰流動。一組兩件的命名與型態是取自未裁切的印鈔打樣，鈔票矩陣排列因此揭櫫平衡付出與給予的理念，即一種介於等價之間的對話。但它們的內容卻不是毫無威脅性，畢竟作品確實以新加坡的現代國家認同而運轉。在新加坡本土植物、四種官方語言、宏偉歷史建築的地標意象（如最高法院圓頂）及本地殖民過往的線索等種種元素之中，作者更嵌進兩名爭取民族自決的反殖民分子：林清祥（Lim Chin Siong）和林福壽（Lim Hock Siew）(註14)。在新加坡建國日50年後，這對異議分子在島國歷史上的地位又該做何解？在獨立前救亡圖存的痛苦歲月之餘，新加坡這個如今坐擁地位、財富、權力的第一世界經濟體能否平靜地看待過去，對兩人的解讀難道是為了成就建國大業素材而折衷事件觀點的極端主義遺跡？〈馬來元鈔票〉以不偏不倚的路徑深入一個相當聳動的主題，作者對歷史的評價並不感傷，而是刻意編造以鼓勵想像隨時間變化的歷史意義與影響。藉著採用兩名異議分子肖像，大量印刷用以流通和交易或罰款匯兌時以手清點的鈔票，藝術家用作品拆解往昔殘存的情緒地雷，也鼓勵理性的歷史分析。〈馬來元鈔票〉刺激我們一起面對與挪用過往的意義，好讓新加坡複雜歷史走向更寬廣的多元組態，也邁向更深刻的象徵與哲學涵養。
+
+ 由於多年來遭漠視，**西迪吉**創作 (註15) 的深度、廣泛與豐厚遭受地方美術館拒於門外，如今在看到大量近 20年來東南亞最佳的當代藝術作品裡驅動創作的社會：政治參與主題之後，即使是最保守者都如夢初醒般追逐他的舊作。西迪吉作品優先聚焦於歷史和社會；他相信藝術改變世界與創造歷史的力量，也是泰國「藝術家黨」（Artist’s Party）的創立人與領導者。通過鼓動人心的視覺語言，無論出自何種後現代策略，西瓦迪理所當然地回溯當地泰人的美學與文化混種性，他出手直指泰國的痛處；這裡（5月）儼然成為全球隨之不安的動盪源頭。
+
+ 西迪吉替展覽繪製兩幅諷喻性的油畫〈魚雨〉（Fish Rain）和〈水源大戰！〉（Water War!）。前者針對國際金融明星之於近年全球性經濟危機的角色提出批判，後者思考區域的地緣政治，聚焦在湄公河所流經東南亞國家的搏鬥困境，(註16) 起因於中國在湄公河的上游築壩而造成無可挽回的破壞。取其字義的手法可以想像成上一堂地理課，只是不見西迪吉更炙手可熱的政治諷刺畫風，明顯採取客觀表述，反使就事論事的〈水源大戰！〉將觀眾拉進關於掌握權力、平衡、政府VS個體利益及行動的辯論中。
+
+ 第三幅畫〈泰國魔鬼的瘋狂〉（Thai Demon Crazy）引人注目的規模仿若報紙重要報導。這幅敘述性的紀實性作品詳實呈現泰國首都的最新狀態，黃衫軍與紅衫軍對壘，軍隊介入，還有全盤皆輸的受害者，這些都讓觀者與疾呼理性的訴求馬上產生共鳴。作者運用消除敵意的透明色塊、易脆的姿態和仿若兒童的美學筆觸來描繪駭人武力與死亡，西迪吉揚棄濫情的操作，召喚超現實的感觸，並將政治對立兩端的抽象意念轉化為某種可感知的實際狀態。〈泰國魔鬼的瘋狂〉驅使觀者跳脫選邊站的兩造辯論，而在泰、英文並用的標題和若干詞語裡，要求我們一同面對那些無所不在、激進狂熱的派系鬥爭，不再逃避面對自己和集體命運的責任。
+
+ 影子是印尼藝術家**梅拉嘉斯瑪**（Mella Jaarsma）多年來的觀念與視覺語法元素。嘉思瑪正如典型東南亞人民，有其縫補印尼文化基礎的內裡與外在的獨特手法，以緩慢地穿透觀眾意識的歷程拼接理念與形式，但此歷程中陰影又會隨著光線變動而強烈擠壓或膨脹。藝術家從不曾忽略掉物件的所見效果，首先形成亮麗的視覺印象，它與空間的對話和可觸知的特質，轉換成感官經驗後又共同構成作品之於觀眾的作用。嘉思瑪的創作特色在於某種雙向的介入，她的裝置和表演意在喚起觀者的改變、甚至觀者與作品之間的互動。當這些細微或誇張的產化發生時，作品才會被感受到知性的狀態，它的幽默、感官性、驚奇與美感才會開啟一個真實無比的觀念對話。(註17)
+
+ 藝術家為「製造歷史」創作的〈黑手〉（Dirty Hands）是譬喻式、互動且哲思性的裝置，邀請觀者透過實際操作來改變歷史，繼而被歷史所轉變。作品涵蓋意義和隱喻作用，結合鏈條編織、燈光、投影、取自17世紀荷蘭版畫裡描繪印尼早期殖民衝突的手電筒投射，(註18) 連同觀眾手部動作，撥弄我們既是歷史對象、也是歷史作者的角色省思。透過鬆垂鉻鐵鍊精巧誘人的花俏展示（立刻想到日本武士與中古歐洲騎士甲冑）延伸透光的投影，當觀者站在二度空間的鏈狀盔甲後方，參與戰爭似的角色扮演時必然意識到一層衝突。當參與者搖晃手電筒光束，形成荷蘭軍人與土著武士對抗的管徑投影；他們就是操縱衝突的那雙手。而觀者－歷史製造者的身體亦投影於同一面白牆上，偌大身影遮蔽光源，同時穿入武士的甲殼裡，等同實質干擾歷史的進程。在概念上〈黑手〉又引發出保護性、表裡二元性、溝通與缺乏溝通、刺探與敵對等巧妙的絃外之音，令人聯想她近十年的〈遮蔽我〉（Shelter Me）與服裝系列。然而〈黑手〉比前作更多視覺上的餘裕和主題聚焦，具有光學與可變光影遊戲的視覺潛力，召喚觀眾勇敢進入歷史情結的辯論，不管在呈現真相或做為人類文明的一種關鍵態度上。
+
+ 東南亞藝術家往往將個人歷史的獨特調性與更普遍經歷的國族事件加以連結，可說比其他背景雷同的亞洲藝術家做得更好，尤其嫻熟於將共通意義融合在自己生活或熟悉的領域。地域性的創作者駕馭觀念、形式、媒材和魅惑的美學，積極將創作推展至自己家鄉以外的觀眾。無論是行動主義者、共產社會成員、靜默地撩撥思想或者極度私密性的創作，「製造歷史」產出的作品皆涵蓋功能主義以及人道理想的許諾，就算只是賦予觀眾微薄的信念，也都會讓今日的世界變得更好。
+
+     [ISSUE 7](https://www.heath.tw/nml-issue/beyond-the-measure/)   [「地球上的最後一個人聽見了敲門聲」─專訪打開-當代曼谷藝術工作站 ， 羅仕東 ， 徐建宇 ， 陳思含](https://www.heath.tw/nml-article/the-last-man-on-earth-hears-a-knock-on-the-door-interview-with-ocac-bangkok/)  [製造歷史—東南亞藝術如何再征服過去而召喚未來 ， Iola Lenzi](https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/)  [與想像的歷史重逢：鄧兆旻〈一個紀念碑，紀念釐清的（不）可行性〉 ， 鄭文琦](https://www.heath.tw/nml-article/review-on-teng-chao-mings-a-monument-for-the-impossibility-of-figuring-it-out/)  [亞洲在地的庶民與藝術交流：專訪裴公慶 (Bui Cong Khanh) 與林書楷 ， 吳權倫 (採訪) ， 裴公慶 (Bui Cong Khanh) ， 林書楷](https://www.heath.tw/nml-article/common-aesthetics-common-asia-interview-with-bui-cong-khanh-and-lin-shu-kai/)  [在台灣的聆聽故事，2007～2012 ， 澎葉生 (Yannick Dauby)](https://www.heath.tw/nml-article/the-listening-stories-in-taiwan-2007-2012/)  [軀體與身體：〈身體輿圖〉中的生命問題 ， 王柏偉](https://www.heath.tw/nml-article/offthemap/)  [耗散淺層的存在：黃大旺及其轉身 ， 張又升](https://www.heath.tw/nml-article/exhaustion-of-superficial-existence-dawang-yingfan-huang-and-his-turn-around/)   Footnote  註1. 持續利用該路線創作的泰國藝術家有：康那維奇阿幼隆（Sutee Kunavichayanont）、史利瓦尼齊邦（Manit Sriwanichpoom）、西迪吉（Vasan Sitthiket）、Ing K.、沙歐萬賽伊（Michael Shaowansai）等人。印尼則以都農（Heri Dono）、克里斯坦圖（Dadang Christanto）、哈梭農（FX Harsono）、埃拉麥阿尼（Arahmaiani）和蘇瓦其（Agus Suwage）為擁護此策略的主力。新加坡藝術家李文的〈Artists Investigating Monuments〉計畫與行為〈Yellow Man〉都是此類型最知名的先期嘗試。王良吟以個人故事為探索更普遍歷史議題的起點，同時唐大霧作品也持續處理歷史及其所涉面向的廣泛素材。    註2. 在菲律賓作品如聖圖斯（Briccio Santos）的〈2009文物隧道〉（Heritage Tunnel(2009)）及法加爾杜（Brenda Fajardo）的「塔羅」（Tarot）系列；越南籍 Tran Luong的「紅領巾」（Red Scarf）行為創作調和個人與民族史，其去年的錄像作品〈前進與後退〉（Moving Forward and Backwards），明確將再評價歷史視為進步的動力。    註3. 唐大霧、梅拉嘉斯瑪、西迪吉、裴公慶和 Green Zeng都特別為此策展專題而製作新作，而雷米羅與Nge Lay則由策展人挑選各自合適的裝置。    註4. 出自今年2至5月期間與藝術家互通的電子郵件。    註5. 緬甸多數鄉村地區均缺乏電力。    註6. Nge Lay也在她的「我和另一個過程」（Me and Another Process）系列使用這種形式裝備，見《*TransportAsian*》（2009.05），新加坡美術館（SAM）。    註7. 於新加坡美術館「很久很久很久以前－菲律賓藝術一個世紀以來的故事」（Thrice Upon a Time-A Century of Story in the Art of the Philippines, 2009.11.14¬2010.01.31）所展出其中一部份。    註8. 出自今年4月與藝術家的採訪；雷米羅強調社群介入為其作品實踐的核心。    註9. 新加坡藝術家維克多（Suzann Victor）亦曾利用歐洲家庭符號的枝形吊燈，做為暗指殖民統治與跨文化交流的再顯圖騰。    註10. 雷米羅多年來以澳洲為據地，如今自稱是出自菲律賓／澳洲。    註11. 諸如 2003年〈造雨人〉（The Man Makes Rain）、2004年〈Stamp on Me〉、去年的〈Dollar Man〉的表演。    註12. 另一個用攝影棚在觀念上與文學上指涉歷史關聯的東南亞藝術家為馬來西亞的于一蘭（Yee I-Lann）。    註13. 此主題對於唐大霧並不陌生，他先前就用素描和油畫表現過。    註14. 林清祥是1950至60年代工會領袖，也是人民行動黨早期成員，後來是社會主義陣線（Barisan Sosialis）領導者。林福壽也是社會主義陣線成員，兩人都遭指控共產黨活動而被捕入獄。    註15. 中國和寮國、柬埔寨、越南、泰國、緬甸等東南亞國家皆與湄公河毗鄰。    註16. 這說明東南亞藝術成就在自己認可之前，常需要來自外界對其前衛藝術家的肯定；早在被泰國或新加坡接納之前，日本1990年代中期便在公共機構展出西迪吉。    註17. See Knol, Meta, The Existentialism of Mella Jaarsma,‘Mella Jaarsma The Fitting Room ’, exhibition catalogue, Selasar Sunaryo Art Space, Bandung, 2009, pp. 49-101.    註18. 該作發表於Varen om peper en thee; korte geschiedenis van de Verenigd Oostindische Compagnie (Saling for Pepper and Tea, a short history of the VOC), Jacobs, Els.M, Rijksmuseum. Nederlands Scheepvaart Museum，Amsterdam, 1991。1617年，VOC派遣官員到Boano島和Ambon北部歸降其住民，視其為該地區最可怖的。這張版畫是複製於荷蘭人凡連泰（F. Valentijn）1724年繪製的《新舊東印度誌第二冊》（*Old and New East-Indies II*）。                  ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/common-aesthetics-common-asia-interview-with-bui-cong-khanh-and-lin-shu-kai/
+- https://www.heath.tw/nml-article/exhaustion-of-superficial-existence-dawang-yingfan-huang-and-his-turn-around/
+- https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+- https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/?lang=en
+- https://www.heath.tw/nml-article/offthemap/
+- https://www.heath.tw/nml-article/review-on-teng-chao-mings-a-monument-for-the-impossibility-of-figuring-it-out/
+- https://www.heath.tw/nml-article/the-last-man-on-earth-hears-a-knock-on-the-door-interview-with-ocac-bangkok/
+- https://www.heath.tw/nml-article/the-listening-stories-in-taiwan-2007-2012/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/beyond-the-measure/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2016/06/20110929170450_2.jpg
+- https://www.heath.tw/wp-content/uploads/2016/06/alwin-timugan.jpg
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Iola%20Lenzi%3A%20Making%20History%3A%20How%20Southeast%20Asian%20art%20reconquers%20the%20past%20to%20conjure%20the%20future&url=https://www.heath.tw/nml-article/iola-lenzi-making-history-how-southeast-asian-art-reconquers-the-past-to-conjure-the-future/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA
