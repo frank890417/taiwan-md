@@ -279,6 +279,56 @@ def test_tier3_ritual_phrases(tmp_path):
 
 
 # ════════════════════════════════════════════════════════════════════════
+# Phase 4b dims: LIST-DUMP / THIN / QUALITY-DECAY
+# ════════════════════════════════════════════════════════════════════════
+
+
+def test_list_dump_back_half_bullet_heavy(tmp_path):
+    """Back half bullet ratio > 40% AND > 2x front → +3 score."""
+    front = "\n".join([
+        "這是 1916 年的一段散文敘述",
+        "1994 年另一段研究發現",
+        "2024 年最近的紀錄",
+        "更多的散文敘述",
+    ] * 4)  # 16 lines, 0 bullets
+    back = "\n".join([
+        "- bullet item 1",
+        "- bullet item 2",
+        "- bullet item 3",
+        "- bullet item 4",
+    ] * 4)  # 16 lines, 100% bullets
+    body = front + "\n\n" + back
+    body += "\n\n[^1]: [src](https://e.com) — desc enough chars"
+    score = _score(_check(tmp_path, body))
+    assert score >= 2, f"LIST-DUMP should add ≥ +2 score, got {score}"
+
+
+def test_thin_blocks_detected(tmp_path):
+    body = textwrap.dedent(
+        """\
+        > **30 秒概覽**: x
+
+        ## 段落一
+
+        只有一行散文 1916 年。
+
+        ## 段落二
+
+        只有一行散文 1994 年。
+
+        ## 段落三
+
+        只有一行散文 2024 年。
+
+        [^1]: [src](https://e.com) — desc enough chars
+        """
+    ) + "\n".join(["延伸"] * 8)
+    score = _score(_check(tmp_path, body))
+    # 3 thin blocks → at minimum +1 score on top of other dims
+    assert score >= 2
+
+
+# ════════════════════════════════════════════════════════════════════════
 # Score budget
 # ════════════════════════════════════════════════════════════════════════
 

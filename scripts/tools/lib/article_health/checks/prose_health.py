@@ -216,6 +216,74 @@ def _count_footnote_defs(body: str) -> int:
     )
 
 
+def _is_hub_file(target: FileTarget) -> bool:
+    """Hub files (`_X Hub.md`) — relax structural penalties per quality-scan.sh."""
+    name = target.path.name
+    return name.startswith("_") and "Hub" in name
+
+
+def _bullet_ratios_split(body: str) -> tuple[int, int, int, int]:
+    """Front/back half bullet ratios. Returns (front_bullet, back_bullet,
+    front_total, back_total) — total = non-empty lines, bullet =
+    `- ` / `* ` / `N.`."""
+    lines = body.splitlines()
+    n = len(lines)
+    if n == 0:
+        return 0, 0, 0, 0
+    split = (n * 6) // 10  # quality-scan uses 60/40 split
+    front_bullet = back_bullet = front_total = back_total = 0
+    for i, line in enumerate(lines):
+        if not line.strip():
+            continue
+        is_bullet = bool(re.match(r"^(?:[-*]\s|\d+\.\s)", line))
+        if i < split:
+            front_total += 1
+            if is_bullet:
+                front_bullet += 1
+        else:
+            back_total += 1
+            if is_bullet:
+                back_bullet += 1
+    return front_bullet, back_bullet, front_total, back_total
+
+
+def _count_thin_blocks(body: str) -> int:
+    """H2 blocks with < 3 prose lines. Mirrors quality-scan.sh dim 13."""
+    thin = 0
+    in_block = False
+    prose = 0
+    for line in body.splitlines():
+        if line.startswith("## "):
+            if in_block and prose < 3:
+                thin += 1
+            in_block = True
+            prose = 0
+        elif in_block:
+            if line.strip() and not re.match(r"^(?:[#\-*|>]|\d+\.)", line):
+                prose += 1
+    if in_block and prose < 3:
+        thin += 1
+    return thin
+
+
+def _prose_ratios_split(body: str) -> tuple[int, int, int, int]:
+    """Front/back half prose ratios for QUALITY-DECAY detection."""
+    lines = body.splitlines()
+    n = len(lines)
+    split = (n * 6) // 10
+    fp = bp = fa = ba = 0
+    for i, line in enumerate(lines):
+        if i < split:
+            fa += 1
+            if line.strip() and not re.match(r"^(?:[#\-*|>]|\d+\.)", line):
+                fp += 1
+        else:
+            ba += 1
+            if line.strip() and not re.match(r"^(?:[#\-*|>]|\d+\.)", line):
+                bp += 1
+    return fp, bp, fa, ba
+
+
 def _word_count(body: str) -> int:
     """Rough whitespace-tokenized count after frontmatter (CJK 1 char = 1 word).
 
@@ -348,6 +416,56 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     elif template_h2 >= 2:
         score += 1
         reasons.append(f"萬用H2×{template_h2}")
+
+    # ── 12. LIST-DUMP (back-half bullet density disproportionate to front) ──
+    is_hub = _is_hub_file(target)
+    front_b, back_b, front_t, back_t = _bullet_ratios_split(body)
+    if front_t > 0 and back_t > 0:
+        front_ratio = front_b * 100 // front_t
+        back_ratio = back_b * 100 // back_t
+        if is_hub:
+            # Hub pages naturally back-heavy index lists — relaxed
+            if back_ratio > 60 and back_ratio > front_ratio * 3:
+                score += 1
+                reasons.append(f"後段清單堆砌{back_ratio}%(Hub)")
+        else:
+            if back_ratio > 40 and back_ratio > front_ratio * 2:
+                score += 3
+                reasons.append(f"後段清單堆砌{back_ratio}%")
+            elif back_ratio > 30:
+                score += 2
+                reasons.append(f"後段清單堆砌{back_ratio}%")
+
+    # ── 13. THIN (H2 blocks with < 3 prose lines) ──
+    thin = _count_thin_blocks(body)
+    if is_hub:
+        if thin >= 4:
+            score += 1
+            reasons.append(f"稀薄段落×{thin}(Hub)")
+    else:
+        if thin >= 2:
+            score += 2
+            reasons.append(f"稀薄段落×{thin}")
+        elif thin >= 1:
+            score += 1
+            reasons.append(f"稀薄段落×{thin}")
+
+    # ── 14. QUALITY-DECAY (front prose ratio >> back prose ratio) ──
+    fp, bp, fa, ba = _prose_ratios_split(body)
+    if fa > 0 and ba > 0:
+        front_pr = fp * 100 // fa
+        back_pr = bp * 100 // ba
+        if is_hub:
+            if back_pr < front_pr // 4:
+                score += 1
+                reasons.append(f"品質衰退前{front_pr}%後{back_pr}%(Hub)")
+        elif front_pr > 0:
+            if back_pr < front_pr // 2:
+                score += 3
+                reasons.append(f"品質衰退前{front_pr}%後{back_pr}%")
+            elif back_pr < (front_pr * 7) // 10:
+                score += 1
+                reasons.append(f"品質衰退前{front_pr}%後{back_pr}%")
 
     # ── 16. Citation desert ──
     fn_defs = _count_footnote_defs(body)
