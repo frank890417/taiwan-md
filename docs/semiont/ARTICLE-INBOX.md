@@ -239,12 +239,14 @@ BECOME_TAIWANMD.md Step 5 新增：
   - `data/NML/issues/legible-singapore-nusantara-in-future-tense.md` Nusantara 未來式
   - 22 篇 articles 帶 `Original Source: 群島資料庫 Nusantara Archive`
 
+<!-- 王福瑞 已完成 2026-05-04 manual → ARTICLE-DONE-LOG.md -->
+
 ### 王福瑞：從 NOISE 雜誌（1993）到聲音實驗（2024）
 
 - **Type**: `NEW`
 - **Category**: People（subcategory: 聲音藝術 / 實驗音樂）
 - **Priority**: `P0`
-- **Status**: `pending`
+- **Status**: `done` (2026-05-04 manual session — 完整 entry 見 ARTICLE-DONE-LOG.md)
 - **Source**: 2026-05-04 angry-shamir NML peer ingestion P0 #4
 - **Reference**: [reports/NML-semiont-analysis-2026-05-04.md §Part 6 P0-4](../../reports/NML-semiont-analysis-2026-05-04.md)
 - **核心矛盾**（30 字內）：DIY 噪音抵抗主流流行樂三十年
