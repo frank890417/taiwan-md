@@ -42,6 +42,20 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 黃魚鴞 NEW — 2026-05-04 charming-mclaren 完成（六公里溪流養一對的台灣最大貓頭鷹，1916 年才被命名 / Nature）
+
+- **Article**: [knowledge/Nature/黃魚鴞.md](../../knowledge/Nature/黃魚鴞.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — NEW 模式（觀察者 ad-hoc 指派，非 INBOX）
+- **核心矛盾**：研究黃魚鴞 30 年的人，把第一隻看到的小幼鳥帶回家養（1994 砂卡礑 → 嘿美 → 木柵動物園 三十年；研究室追了三十年仍很難在野外見到）
+- **Hook**：1994 年砂卡礑溪一棵樹的崖薑蕨叢中，第一個被精確定位的台灣黃魚鴞繁殖巢位 — 父鳥被獵殺、母鳥棄巢、雛鳥被孫元勳帶回家成為「嘿美」
+- **品質**：181 行 / 17 footnotes / 3,796 中文字 / 0 §11 violations / 5 破折號（≤15/1500 字 OK）/ 0 ❌ HARD-FIX / 0 🔴 DEAD-LINK / 20 WebSearch + 4 WebFetch
+- **Research**: [reports/research/2026-05/黃魚鴞.md](../../reports/research/2026-05/黃魚鴞.md)
+- **媒體素材**：hero 圖 cache Wikimedia gailhampshire CC BY 2.0（1165×768 / aspect 1.52）+ 兩支 YouTube embed（雪霸 24h 直播 `nXmf5J0eMFI` / 公視新聞 `DMy6fltLv68`）
+- **YouTube embed 首例**：1,800+ knowledge/ 檔案中**首次** iframe 嵌入，用 raw HTML wrapper（方案 A），同時 ship 架構提案 [reports/youtube-embed-architecture-2026-05-04.md](../../reports/youtube-embed-architecture-2026-05-04.md) 規劃 Phase 2-4 升級（rehype plugin / Astro component / privacy mode）
+- **Stage 3.5 hallucination 修補 3 處**：(1)「孫元勳剛從美國回到」無 source 推測 → 刪「從美國」；(2) 嘿美 callout 加「託付意味」推測 → 改音譯事實 only；(3)「近 10 公里」上限超 Sun 2013 範圍 → 改「6 到 8 公里」對齊 5.5-7.7 km source
+- **Stage 5**：reverse cross-link 補進 [Nature/福爾摩沙鳥類學.md](../../knowledge/Nature/福爾摩沙鳥類學.md)（sibling 已 PASS）；其他 4 個 sibling（櫻花鉤吻鮭 / 台灣黑熊 / 台灣森林生態系 / 台灣國家公園）defer per Stage 5 §5.1，它們無延伸閱讀區塊，加會擴大 scope
+- **PR**: 待 ship
+
 ### 卓榮泰 NEW — 2026-05-03 gallant-payne 完成（38 年的協調者，2025 不副署財劃法 / People）
 
 - **Article**: [knowledge/People/卓榮泰.md](../../knowledge/People/卓榮泰.md)
