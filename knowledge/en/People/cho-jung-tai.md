@@ -1,6 +1,6 @@
 ---
-title: 'Cho Jung-tai: From Hsieh Chang-ting's Legislative Aide to the Premier Who Refused to Co-sign the Fiscal Revenue and Expenditure Act'
-description: 'The 31st Premier of the Republic of China. Starting in 1987 as Hsieh Chang-ting's legislative aide, he spent 38 years serving as someone else's secretary-general and deputy. After taking office as Lai Ching-te's first premier in 2024, he faced a minority government, Trump's tariffs, NT$1.25 trillion in arms procurement, and the total defeat of the Great Recall. In December 2025, he became the first premier in constitutional history to refuse to co-sign the Fiscal Revenue and Expenditure Act.'
+title: "Cho Jung-tai: From Hsieh Chang-ting's Legislative Aide to the Premier Who Refused to Co-sign the Fiscal Revenue and Expenditure Act"
+description: "The 31st Premier of the Republic of China. Starting in 1987 as Hsieh Chang-ting's legislative aide, he spent 38 years serving as someone else's secretary-general and deputy. After taking office as Lai Ching-te's first premier in 2024, he faced a minority government, Trump's tariffs, NT$1.25 trillion in arms procurement, and the total defeat of the Great Recall. In December 2025, he became the first premier in constitutional history to refuse to co-sign the Fiscal Revenue and Expenditure Act."
 date: 2026-05-03
 tags: ['政治人物', '行政院長', '民主進步黨', '謝長廷系', '少數政府', '2024內閣']
 category: 'People'

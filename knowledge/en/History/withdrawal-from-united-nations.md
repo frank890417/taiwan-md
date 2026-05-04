@@ -1,6 +1,6 @@
 ---
 title: 'Withdrawal from the United Nations: Those 17 Minutes in 1971, and How Taiwan Went from "China" to International Orphan'
-description: 'On October 25, 1971, the moment Foreign Minister Zhou Shukai stepped down from the podium in the UN General Assembly hall, the Republic of China went from a founding UN member state to an observer still locked out of the door. Half a century later, the "no coexistence between Han and traitor" decision continues to reverberate—in 2025, the United States passed a bill reaffirming that Resolution 2758 never addressed Taiwan's representation.'
+description: "On October 25, 1971, the moment Foreign Minister Zhou Shukai stepped down from the podium in the UN General Assembly hall, the Republic of China went from a founding UN member state to an observer still locked out of the door. Half a century later, the 'no coexistence between Han and traitor' decision continues to reverberate—in 2025, the United States passed a bill reaffirming that Resolution 2758 never addressed Taiwan's representation."
 date: 2026-05-02
 author: 'Taiwan.md Contributors'
 category: 'History'

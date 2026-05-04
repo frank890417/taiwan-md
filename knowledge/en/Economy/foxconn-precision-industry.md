@@ -1,6 +1,6 @@
 ---
 title: 'Taiwan Enterprise: Foxconn Precision Industry — The Same Balance Sheet Behind 8 Trillion Revenue and an Internal Anti-Corruption War'
-description: 'On the morning of April 30, 2026, Time magazine listed Foxconn among the 100 most influential companies in the world; that same evening, prosecutors and investigators walked into Foxconn's Tucheng facility with search warrants. From a 1974 mother's rotating credit association loan of NT$100,000 to 2025 revenue of NT$8 trillion — with cloud and network products overtaking consumer electronics — the hardest thing for Foxconn to manage is not geopolitics, not AI server rack shipment rhythms, but its own people.'
+description: "On the morning of April 30, 2026, Time magazine listed Foxconn among the 100 most influential companies in the world; that same evening, prosecutors and investigators walked into Foxconn's Tucheng facility with search warrants. From a 1974 mother's rotating credit association loan of NT$100,000 to 2025 revenue of NT$8 trillion — with cloud and network products overtaking consumer electronics — the hardest thing for Foxconn to manage is not geopolitics, not AI server rack shipment rhythms, but its own people."
 date: 2026-05-03
 author: Taiwan.md
 subcategory: '企業列傳'
