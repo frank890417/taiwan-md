@@ -98,13 +98,15 @@ def run_checks(
         violations: list[Violation] = []
         try:
             for v in mod.check(target, options):
-                # Plugin can yield violations with their own severity
-                # but the runner has the final say (per profile/config).
-                # If plugin's severity is INFO and runner says HARD, runner wins.
-                if v.severity == Severity.INFO and resolved_severity != Severity.INFO:
-                    # Don't escalate INFO unless plugin asked
-                    pass
-                else:
+                # Severity precedence (per design 2026-05-04 SSOT Phase 3):
+                # 1. Plugin-yielded severity that DIFFERS from the plugin's
+                #    DEFAULT_SEVERITY → authoritative. Lets a single check
+                #    yield mixed HARD/WARN violations (e.g. frontmatter-title:
+                #    halfwidth punct = HARD, vague adjective = WARN).
+                # 2. If plugin yielded the default, profile/config can
+                #    override it (resolved_severity).
+                # 3. Plugin's DEFAULT_SEVERITY → fallback (already in v).
+                if v.severity == mod.DEFAULT_SEVERITY:
                     v.severity = resolved_severity
                 violations.append(v)
         except Exception as e:
