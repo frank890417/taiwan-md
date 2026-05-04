@@ -23,6 +23,9 @@ EDITORIAL_REF = "EDITORIAL.md §wikilink + REWRITE-PIPELINE Stage 4"
 APPLIES_TO = ["*"]
 
 _RE_WIKILINK = re.compile(r"\[\[([^\]|\n]+?)(?:\|[^\]\n]+)?\]\]")
+_RE_WIKILINK_FULL = re.compile(
+    r"\[\[(?P<target>[^\]|\n]+?)(?:\|(?P<display>[^\]\n]+))?\]\]"
+)
 
 # Directories to scan for valid article slugs (zh-TW only — translations
 # share the source slug, not target).
@@ -78,3 +81,50 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             snippet=m.group(0)[:80],
             editorial_ref=EDITORIAL_REF,
         )
+
+
+def fix(target: FileTarget, config: dict[str, Any]) -> int:
+    """Auto-fix broken wikilinks — convert `[[X]]` → `X` (or `[[X|Y]]` → `Y`)
+    when target slug doesn't exist. Resolved (valid) wikilinks are NOT touched.
+
+    Per EDITORIAL §wikilink: 「目標 article 無對應 → 轉純文字」. This is the
+    safest transform — preserves visible text without introducing dead
+    `/cat/slug` links that may not exist.
+
+    Returns number of broken wikilinks rewritten. Respects config['dry_run'].
+    """
+    body = target.body
+    slugs = _existing_slugs()
+    if "[[" not in body:
+        return 0
+
+    changes = 0
+
+    def _rewrite(m: re.Match) -> str:
+        nonlocal changes
+        target_name = m.group("target").strip()
+        display = m.group("display")
+        if target_name in slugs:
+            return m.group(0)  # valid link — keep as-is
+        # Broken: replace with display name (or target name if no display)
+        text = display.strip() if display else target_name
+        changes += 1
+        return text
+
+    new_body = _RE_WIKILINK_FULL.sub(_rewrite, body)
+    if changes == 0:
+        return 0
+    if config.get("dry_run"):
+        return changes
+    # Strip body padding before write-back
+    if target.body_pad_lines:
+        new_body_unpadded = (
+            new_body[target.body_pad_lines:]
+            if new_body.startswith("\n" * target.body_pad_lines)
+            else new_body
+        )
+    else:
+        new_body_unpadded = new_body
+    new_text = target.text[: target.body_text_offset] + new_body_unpadded
+    target.path.write_text(new_text, encoding="utf-8")
+    return changes

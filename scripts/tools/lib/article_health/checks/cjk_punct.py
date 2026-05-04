@@ -160,23 +160,28 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 def fix(target: FileTarget, config: dict[str, Any]) -> bool:
     """Apply all conversions to target.body, write back to disk if changed.
 
-    Preserves protected regions. Returns True if file was modified.
+    Preserves protected regions. Returns True if file was modified (or would
+    be in dry-run). Uses target.body_text_offset (set by loader) to splice
+    fixed body back into the original text without disturbing frontmatter
+    or the line-number padding the loader added.
     """
     body = target.body
     new_body = _fix_body(body, target.protected_regions)
     if new_body == body:
         return False
-    # Reconstruct full text: frontmatter + new body
-    if target.text != target.body:
-        # Preserve frontmatter exactly
-        fm_end = target.text.rfind(target.body)
-        if fm_end == -1:
-            # body equals text (no frontmatter)
-            new_text = new_body
-        else:
-            new_text = target.text[:fm_end] + new_body
+    if config.get("dry_run"):
+        return True
+    # Strip the leading blank-line pad the loader added for line alignment;
+    # those lines don't exist in the original file.
+    if target.body_pad_lines:
+        new_body_unpadded = (
+            new_body[target.body_pad_lines:]
+            if new_body.startswith("\n" * target.body_pad_lines)
+            else new_body
+        )
     else:
-        new_text = new_body
+        new_body_unpadded = new_body
+    new_text = target.text[: target.body_text_offset] + new_body_unpadded
     target.path.write_text(new_text, encoding="utf-8")
     return True
 

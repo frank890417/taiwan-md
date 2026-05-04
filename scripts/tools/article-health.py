@@ -78,6 +78,100 @@ def _get_all_zh() -> list[Path]:
     return files
 
 
+def _cmd_fix(args) -> int:
+    """Apply auto-fixes for fix-capable plugins."""
+    from lib.article_health import registry as registry_mod
+    registry_mod.discover_checks()
+
+    if args.staged:
+        files = _get_staged_md()
+        if not files:
+            print("🔍 staged: no zh-TW knowledge/*.md staged, skipping.")
+            return 0
+    elif args.all:
+        files = _get_all_zh()
+    elif args.files:
+        files = [Path(f) for f in args.files]
+    else:
+        print("⚠️  --fix needs files / --staged / --all", file=sys.stderr)
+        return 2
+
+    config = load_config(args.config)
+    profile = config.get_profile(args.profile)
+
+    # Resolve which checks to run --fix on. Restrict to those that export fix().
+    candidates = list(registry_mod._REGISTRY.values())  # type: ignore[attr-defined]
+    if args.check:
+        candidates = [m for m in candidates if m.CHECK_NAME == args.check]
+    elif profile and profile.checks is not None:
+        names = set(profile.checks)
+        candidates = [m for m in candidates if m.CHECK_NAME in names]
+
+    fix_capable = [m for m in candidates if hasattr(m, "fix") and callable(getattr(m, "fix"))]
+    if not fix_capable:
+        print(f"⚠️  No fix-capable plugins among selection. Available with fix: "
+              f"{[m.CHECK_NAME for m in registry_mod._REGISTRY.values() if hasattr(m,'fix')]}",
+              file=sys.stderr)
+        return 0
+    if not args.quiet:
+        print(f"🔧 Applying --fix via plugins: {[m.CHECK_NAME for m in fix_capable]}")
+        if args.dry_run:
+            print("   (dry-run mode — no files will be modified)")
+
+    files_modified = 0
+    total_changes = 0
+    per_plugin_changes: dict[str, int] = {m.CHECK_NAME: 0 for m in fix_capable}
+    for f in files:
+        if not f.exists():
+            continue
+        target = load_target(f)
+        # APPLIES_TO filter — only run plugins that match this file's lang
+        applicable = [
+            m for m in fix_capable
+            if "*" in getattr(m, "APPLIES_TO", ["*"]) or target.lang in m.APPLIES_TO
+        ]
+        if not applicable:
+            continue
+        any_change = False
+        for mod in applicable:
+            options = config.get_check_config(mod.CHECK_NAME).options
+            opts = dict(options)
+            opts["dry_run"] = bool(args.dry_run)
+            try:
+                changed = mod.fix(target, opts)
+            except Exception as e:
+                print(f"⚠️  {f}: {mod.CHECK_NAME}.fix() error: {e}", file=sys.stderr)
+                continue
+            if changed:
+                any_change = True
+                if isinstance(changed, int):
+                    per_plugin_changes[mod.CHECK_NAME] += changed
+                    total_changes += changed
+                else:
+                    per_plugin_changes[mod.CHECK_NAME] += 1
+                    total_changes += 1
+                # Reload target after this plugin's write so the next plugin sees fresh state
+                if not args.dry_run:
+                    target = load_target(f)
+        if any_change:
+            files_modified += 1
+            if not args.quiet:
+                marker = "[dry-run] would fix" if args.dry_run else "✏️  fixed"
+                print(f"   {marker} {f}")
+
+    print()
+    if args.dry_run:
+        print(f"📋 DRY-RUN: {files_modified} file(s) would be modified.")
+    else:
+        print(f"✏️  Modified {files_modified} file(s).")
+    if any(v for v in per_plugin_changes.values()):
+        print("   per-plugin changes:")
+        for n, c in per_plugin_changes.items():
+            if c:
+                print(f"     {n}: {c}")
+    return 0
+
+
 def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
     """Write prose-health scores to legacy `.quality-baseline.json` schema
     consumed by `scripts/core/generate-dashboard-data.js`.
@@ -231,10 +325,25 @@ def main() -> int:
         help="Write prose-health scores to this path in legacy quality-baseline.json schema "
              "(consumed by scripts/core/generate-dashboard-data.js). Implies --all + --check=prose-health.",
     )
+    parser.add_argument(
+        "--fix",
+        action="store_true",
+        help="Apply auto-fixes for plugins that support it (cjk-punct, frontmatter-title halfwidth, "
+             "format-structure list-wikilink, footnote-format). Files are modified in place. "
+             "Combine with --check=NAME to scope. Use --dry-run to preview without writing.",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="With --fix, show what would change without writing.",
+    )
     args = parser.parse_args()
 
     if args.baseline_out:
         return _cmd_write_baseline(Path(args.baseline_out), args.config)
+
+    if args.fix:
+        return _cmd_fix(args)
 
     if args.list_checks:
         return cmd_list_checks()

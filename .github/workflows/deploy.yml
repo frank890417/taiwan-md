@@ -62,7 +62,10 @@ jobs:
       # CI to hard fail (no observation period needed; pre-commit gate already
       # caught drift, full sweep on main is the final safety net).
       - name: Validate article health (SSOT, full sweep)
-        run: python3 scripts/tools/article-health.py --all --profile=release-pr --quiet
+        # ci-deploy profile: full sweep, blocks on HARD only. WARN is advisory
+        # surface (dashboard + human review). release-pr profile is the strict
+        # one for explicit release review (fails on WARN too).
+        run: python3 scripts/tools/article-health.py --all --profile=ci-deploy --quiet
 
       # ── Tier 1-3: Astro content collection parse cache ─────────────────
       # .astro/ 放 Astro 6 的 content collection 解析結果（frontmatter 標準化

@@ -31,35 +31,48 @@ def test_canonical_footnote_no_violation(tmp_path):
     assert violations == []
 
 
-def test_missing_url_flagged(tmp_path):
-    body = "段落[^1]\n\n[^1]: just plain text without link or url\n"
+def test_pure_prose_footnote_accepted(tmp_path):
+    """2026-05-04 cleanup: explanatory pure-prose footnotes (no URL) ARE
+    canonical — `[^N]: <prose ≥10 chars>` is a valid markdown convention
+    for explanatory notes, not just citations."""
+    body = "段落[^1]\n\n[^1]: 這是一個解釋性註腳，不需要外部連結也算合規。\n"
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_format.check(target, {}))
+    assert violations == []
+
+
+def test_too_short_prose_footnote_flagged(tmp_path):
+    """Pure-prose footnote shorter than 10 chars is still flagged (likely a stub)."""
+    body = "段落[^1]\n\n[^1]: 太短\n"
     target = load_target(_write(tmp_path, body))
     violations = list(footnote_format.check(target, {}))
     assert len(violations) == 1
     assert violations[0].severity == Severity.HARD
 
 
-def test_missing_dash_separator_flagged(tmp_path):
-    body = "段落[^1]\n\n[^1]: [Title](https://example.com) — short\n"
-    # description < 10 chars
+def test_short_description_below_six_flagged(tmp_path):
+    """URL-form footnote with desc < 6 chars is flagged (relaxed from 10 in
+    2026-05-04 since Chinese descs are dense — `維基百科條目` 6 chars passes)."""
+    body = "段落[^1]\n\n[^1]: [Title](https://example.com) — 五字\n"  # 五字=2 chars
     target = load_target(_write(tmp_path, body))
     violations = list(footnote_format.check(target, {}))
     assert len(violations) == 1
 
 
-def test_short_description_flagged(tmp_path):
-    body = "段落[^1]\n\n[^1]: [Title](https://example.com) — 9chars\n"
+def test_six_char_description_passes(tmp_path):
+    """6-char Chinese desc passes (canonical floor relaxed)."""
+    body = "段落[^1]\n\n[^1]: [Title](https://example.com) — 維基百科條目\n"
     target = load_target(_write(tmp_path, body))
     violations = list(footnote_format.check(target, {}))
-    assert len(violations) == 1
+    assert violations == []
 
 
 def test_multiple_violations(tmp_path):
     body = (
         "段落[^1][^2][^3]\n\n"
         "[^1]: [Title](https://example.com) — proper desc enough chars\n"
-        "[^2]: just plain text bad\n"
-        "[^3]: another bad one\n"
+        "[^2]: 短\n"  # too short prose
+        "[^3]: ?\n"  # too short
     )
     target = load_target(_write(tmp_path, body))
     violations = list(footnote_format.check(target, {}))

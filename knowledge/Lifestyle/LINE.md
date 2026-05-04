@@ -2,6 +2,7 @@
 title: 'LINE：從震災中誕生的台灣「數位基礎設施」'
 description: 'LINE 在台灣擁有超過 93% 的滲透率，從通訊取代 MSN 開始，演變成集支付、金融、公務、長輩圖於一體的生活入口，成為台灣社會的核心數位基礎設施。'
 category: Lifestyle
+subcategory: '城市生活'
 tags:
   [通訊軟體, 數位生活, LINE Pay, LINE Bank, 台灣文化, 壟斷, 資訊安全, 數位遺產]
 author: 'Taiwan.md Contributors'

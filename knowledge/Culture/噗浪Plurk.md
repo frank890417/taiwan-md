@@ -55,16 +55,16 @@ lastHumanReview: true
 
 ## 參考資料
 
-[^1]: [噗浪 Plurk 創辦人雲惟彬「我在雲中耕活」——光明日報](https://guangming.com.my/%E8%BF%B7%E7%B6%B2%E6%96%B0%E4%B8%96%E4%BB%A3%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%A7%E5%99%97%E6%B5%AAplurk%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9B%B2%E6%83%9F%E5%BD%AC%E2%80%A7%E6%88%91%E5%9C%A8)（2009）
+[^1]: [噗浪 Plurk 創辦人雲惟彬「我在雲中耕活」——光明日報](https://guangming.com.my/%E8%BF%B7%E7%B6%B2%E6%96%B0%E4%B8%96%E4%BB%A3%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%A7%E5%99%97%E6%B5%AAplurk%E5%89%B5%E8%BE%A6%E4%BA%BA%E9%9B%B2%E6%83%9F%E5%BD%AC%E2%80%A7%E6%88%91%E5%9C%A8) — （2009）
 
-[^2]: [僅靠付費會員就轉虧為盈！老牌社群媒體噗浪如何鞏固使用者忠誠度？——Yahoo 新聞](https://tw.news.yahoo.com/%E5%83%85%E9%9D%A0%E4%BB%98%E8%B2%BB%E6%9C%83%E5%93%A1%E5%B0%B1%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-%E8%80%81%E7%89%8C%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%99%97%E6%B5%AA%E5%A6%82%E4%BD%95%E9%9E%8F%E5%9B%BA%E4%BD%BF%E7%94%A8%E8%80%85%E5%BF%A0%E8%AA%A0%E5%BA%A6-090700200.html)（2024）
+[^2]: [僅靠付費會員就轉虧為盈！老牌社群媒體噗浪如何鞏固使用者忠誠度？——Yahoo 新聞](https://tw.news.yahoo.com/%E5%83%85%E9%9D%A0%E4%BB%98%E8%B2%BB%E6%9C%83%E5%93%A1%E5%B0%B1%E8%BD%89%E8%99%A7%E7%82%BA%E7%9B%88-%E8%80%81%E7%89%8C%E7%A4%BE%E7%BE%A4%E5%AA%92%E9%AB%94%E5%99%97%E6%B5%AA%E5%A6%82%E4%BD%95%E9%9E%8F%E5%9B%BA%E4%BD%BF%E7%94%A8%E8%80%85%E5%BF%A0%E8%AA%A0%E5%BA%A6-090700200.html) — （2024）
 
-[^3]: [好玩又有趣微網誌噗浪爆紅——自由時報](https://news.ltn.com.tw/news/life/paper/282698)（2009）
+[^3]: [好玩又有趣微網誌噗浪爆紅——自由時報](https://news.ltn.com.tw/news/life/paper/282698) — （2009）
 
-[^4]: [破解「推」與「噗」——微網誌得失之間——台灣光華雜誌](https://www.taiwan-panorama.com/Articles/Details?Guid=156c8b8c-c7f7-4927-8b81-db9112acdcc1)
+[^4]: [破解「推」與「噗」——微網誌得失之間——台灣光華雜誌](https://www.taiwan-panorama.com/Articles/Details?Guid=156c8b8c-c7f7-4927-8b81-db9112acdcc1) — 台灣光華雜誌專文
 
-[^5]: [八八水災——維基百科](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E5%85%AB%E6%B0%B4%E7%81%BD)
+[^5]: [八八水災——維基百科](https://zh.wikipedia.org/zh-hant/%E5%85%AB%E5%85%AB%E6%B0%B4%E7%81%BD) — 維基百科條目
 
-[^6]: [噗浪——維基百科](https://zh.wikipedia.org/zh-tw/%E5%99%97%E6%B5%AA)
+[^6]: [噗浪——維基百科](https://zh.wikipedia.org/zh-tw/%E5%99%97%E6%B5%AA) — 維基百科條目
 
-[^7]: [噗幣——Plurk 官方說明](https://www.plurk.com/help/zh/plurk-coins)
+[^7]: [噗幣——Plurk 官方說明](https://www.plurk.com/help/zh/plurk-coins) — 詳見原始連結內文資料補充

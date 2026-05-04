@@ -74,14 +74,30 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     if not detection:
         return
 
+    # 2026-05-04: language / linguistics / terminology-meta articles legitimately
+    # CITE 中國用語 as the subject of discussion (not as author voice). These
+    # articles can opt out via `terminology_exempt: true` in frontmatter.
+    # Use sparingly — only for articles whose subject IS the term itself.
+    if target.frontmatter.get("terminology_exempt") is True:
+        return
+
     body = target.body
+    # 2026-05-04: pre-strip content inside Chinese quotes 「」 and book/essay
+    # title brackets 《》〈〉. China-terms appearing as CITATIONS (quoting
+    # someone else's words, naming a Chinese platform/product, citing a
+    # cross-strait comparison like "「視頻」而非「影片」") should not count
+    # as author voice violations. Editorial judgment: 「X」 is "X as quoted",
+    # 《X》 is a work title, 〈X〉 is an article/chapter title — none of these
+    # is the author claiming X is correct usage.
+    import re as _re
+    body_for_count = _re.sub(r"「[^「」]*」|《[^《》]*》|〈[^〈〉]*〉", "", body)
     for cterm, severity, taiwan, _fork in detection:
-        count = body.count(cterm)
+        count = body_for_count.count(cterm)
         if count == 0:
             continue
         # Subtract false-positive matches
         for fp_pat in false_positives.get(cterm, []):
-            count -= body.count(fp_pat)
+            count -= body_for_count.count(fp_pat)
         if count <= 0:
             continue
 

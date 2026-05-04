@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T13:45:59.437Z",
+  "lastUpdated": "2026-05-04T14:24:03.784Z",
   "organs": [
     {
       "id": "heart",
@@ -38,7 +38,7 @@
       "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-05-04T13:25:14.000Z"
+        "editorialLastModified": "2026-05-04T13:42:27.000Z"
       }
     },
     {
@@ -73,7 +73,7 @@
       "trend": "up",
       "metrics": {
         "recentContributors": 20,
-        "recentSpores": 22,
+        "recentSpores": 14,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 153095,
         "hasBlockbuster": true

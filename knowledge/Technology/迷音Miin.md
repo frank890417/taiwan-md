@@ -51,14 +51,14 @@ Miin 最核心的技術不是新聞聚合，是「協同行為偵測」。
 
 ## 參考資料
 
-[^1]: [假訊息認知作戰氾濫 杜奕瑾：民眾將可利用 AI 工具判讀——中央社](https://www.cna.com.tw/news/ait/202301200012.aspx)（2023）
+[^1]: [假訊息認知作戰氾濫 杜奕瑾：民眾將可利用 AI 工具判讀——中央社](https://www.cna.com.tw/news/ait/202301200012.aspx) — （2023）
 
-[^2]: [AI 爬蟲再盜《壹蘋》！PTT「創世神」杜奕瑾遭法辦——Yahoo 新聞/壹蘋新聞網](https://tw.news.yahoo.com/ai%E7%88%AC%E8%9F%B2%E5%86%8D%E7%9B%9C-%E5%A3%B9%E8%98%8B-ptt-%E5%89%B5%E4%B8%96%E7%A5%9E-%E6%9D%9C%E5%A5%95%E7%91%BE%E9%81%AD%E6%B3%95%E8%BE%A6-140400731.html)（2025）
+[^2]: [AI 爬蟲再盜《壹蘋》！PTT「創世神」杜奕瑾遭法辦——Yahoo 新聞/壹蘋新聞網](https://tw.news.yahoo.com/ai%E7%88%AC%E8%9F%B2%E5%86%8D%E7%9B%9C-%E5%A3%B9%E8%98%8B-ptt-%E5%89%B5%E4%B8%96%E7%A5%9E-%E6%9D%9C%E5%A5%95%E7%91%BE%E9%81%AD%E6%B3%95%E8%BE%A6-140400731.html) — （2025）
 
-[^3]: [杜奕瑾——維基百科](https://zh.wikipedia.org/zh-tw/%E6%9D%9C%E5%A5%95%E7%91%BE)
+[^3]: [杜奕瑾——維基百科](https://zh.wikipedia.org/zh-tw/%E6%9D%9C%E5%A5%95%E7%91%BE) — 維基百科條目
 
-[^4]: [為何 PTT 上的假訊息比 FB 易被發現？杜奕瑾分析演算法差異——未來城市@天下](https://futurecity.cw.com.tw/article/2346)（2023）
+[^4]: [為何 PTT 上的假訊息比 FB 易被發現？杜奕瑾分析演算法差異——未來城市@天下](https://futurecity.cw.com.tw/article/2346) — （2023）
 
-[^5]: [Enhancing Taiwan's Information Resilience — Global Taiwan Institute](https://globaltaiwan.org/2026/02/enhancing-taiwans-information-resilience/)（2026）
+[^5]: [Enhancing Taiwan's Information Resilience — Global Taiwan Institute](https://globaltaiwan.org/2026/02/enhancing-taiwans-information-resilience/) — （2026）
 
-[^6]: [Miin 迷音——Google Play](https://play.google.com/store/apps/details?id=tw.ailabs.miin&hl=en_US)
+[^6]: [Miin 迷音——Google Play](https://play.google.com/store/apps/details?id=tw.ailabs.miin&hl=en_US) — 詳見原始連結內文資料補充

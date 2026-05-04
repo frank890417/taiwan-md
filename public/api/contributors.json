@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T09:17:23.826Z",
+  "lastUpdated": "2026-05-04T14:24:04.076Z",
   "totals": {
     "contributors": 50,
     "activeWindow": "last 30d"
@@ -7,28 +7,28 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 2557,
+      "commits": 2626,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-05-03 16:58:03 +0800",
+      "lastCommitAt": "2026-05-04 21:53:11 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 563,
-        "system": 1634,
-        "translation": 582
+        "content": 570,
+        "system": 1681,
+        "translation": 587
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 114,
+      "commits": 123,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-05-02 22:13:10 +0800",
+      "lastCommitAt": "2026-05-03 18:29:37 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 114,
+        "content": 123,
         "system": 0,
         "translation": 0
       }
@@ -289,14 +289,14 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 114,
+      "commits": 123,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-05-02 22:13:10 +0800",
+      "lastCommitAt": "2026-05-03 18:29:37 +0800",
       "primaryArea": "content",
       "breakdown": {
-        "content": 114,
+        "content": 123,
         "system": 0,
         "translation": 0
       }
@@ -361,16 +361,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 2557,
+      "commits": 2626,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-05-03 16:58:03 +0800",
+      "lastCommitAt": "2026-05-04 21:53:11 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 563,
-        "system": 1634,
-        "translation": 582
+        "content": 570,
+        "system": 1681,
+        "translation": 587
       }
     },
     {

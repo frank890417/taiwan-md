@@ -12,6 +12,7 @@ tags:
     Taiwan.md,
   ]
 description: '用開放資料感受台灣的脈動——航班光軌劃過天際、船舶穿梭海面、列車奔馳軌道，23 個圖層即時呈現這座島嶼的呼吸。'
+subcategory: '公民科技'
 ---
 
 # Mini Taiwan Pulse — 台灣交通即時 3D 視覺化 🌐

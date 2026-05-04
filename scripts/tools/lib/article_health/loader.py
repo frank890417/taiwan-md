@@ -205,15 +205,18 @@ def load_target(path: Path | str) -> FileTarget:
     text = p.read_text(encoding="utf-8")
     fm: dict[str, Any] = {}
     body = text
+    body_text_offset = 0
+    pad_lines = 0
     m = _RE_FRONTMATTER.match(text)
     if m:
         fm = _parse_frontmatter_minimal(m.group("yaml"))
+        body_text_offset = m.start("body")
         # Count newlines in the frontmatter section (including the two ---
         # delimiter lines) so body's first content line aligns with the
         # original file line number.
-        frontmatter_span = text[: m.start("body")]
-        offset = frontmatter_span.count("\n")
-        body = ("\n" * offset) + m.group("body")
+        frontmatter_span = text[:body_text_offset]
+        pad_lines = frontmatter_span.count("\n")
+        body = ("\n" * pad_lines) + m.group("body")
     lang, category, slug = _derive_meta_from_path(p)
     regions = _detect_protected_regions(body)
     sections = _detect_sections(body)
@@ -222,6 +225,8 @@ def load_target(path: Path | str) -> FileTarget:
         text=text,
         frontmatter=fm,
         body=body,
+        body_text_offset=body_text_offset,
+        body_pad_lines=pad_lines,
         lang=lang,
         category=category,
         slug=slug,

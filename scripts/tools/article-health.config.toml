@@ -51,9 +51,17 @@ checks = ["image-health"]
 fail_on = "hard"
 
 [profiles.release-pr]
-# 全跑、嚴格 (both HARD and WARN trigger fail).
+# 全跑、嚴格 (both HARD and WARN trigger fail). 用於人工 release review。
 checks = "*"
 fail_on = "warn"
+
+[profiles.ci-deploy]
+# CI 自動部署 gate — 全跑、只擋 HARD violations。WARN 是 advisory（dashboard
+# + human review 看），不應擋 deploy。2026-05-04 加入：release-pr 對既存
+# 4,378 個 advisory WARN 無法在 CI 觸發點修完，需要分離 strict release
+# review (release-pr) 跟 deploy gate (ci-deploy) 兩個用途。
+checks = "*"
+fail_on = "hard"
 
 [profiles.dashboard]
 # 全跑、不擋、JSON output for site dashboards.

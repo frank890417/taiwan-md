@@ -44,6 +44,14 @@ _RE_OVERVIEW_BLOCKQUOTE = re.compile(
 _RE_LIST_WIKILINK = re.compile(
     r"^(?:\s*[-*+]\s+)\[\[", re.MULTILINE
 )
+# Capture full list-wikilink line for rewrites:
+#   - [[X]]            → display X
+#   - [[X|Y]]          → display Y
+#   - [[X]] — desc     → display "X — desc" or "X"
+_RE_LIST_WIKILINK_FULL = re.compile(
+    r"^(?P<indent>\s*[-*+]\s+)\[\[(?P<target>[^\]|]+)(?:\|(?P<display>[^\]]+))?\]\](?P<rest>.*)$",
+    re.MULTILINE,
+)
 _RE_FOOTNOTE_REF_USE = re.compile(r"\[\^[0-9a-zA-Z_-]+\](?!:)")
 _RE_FOOTNOTE_DEF = re.compile(r"^\[\^[0-9a-zA-Z_-]+\]:", re.MULTILINE)
 
@@ -113,3 +121,44 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             message=f"使用了 {use_count} 個腳註 ref `[^N]` 但無 `[^N]:` 定義",
             editorial_ref="EDITORIAL.md §citation",
         )
+
+
+def fix(target: FileTarget, config: dict[str, Any]) -> int:
+    """Auto-fix list-wikilink residuals — convert `- [[X]]` → `- X` (plain
+    text). 2026-05-04 cleanup: Astro doesn't render `[[X]]` in lists, so the
+    safe transform is to extract the display text. If `[[X|Y]]` syntax,
+    use Y; otherwise use X. We don't try to resolve to `/cat/slug` because
+    that's wikilink-target's domain — list-wikilink residuals here are
+    formatting drift, the target may or may not exist.
+
+    Returns number of list-wikilink rewrites. Respects config['dry_run'].
+    """
+    body = target.body
+    if not _RE_LIST_WIKILINK_FULL.search(body):
+        return 0
+
+    def _rewrite(m: re.Match) -> str:
+        target_name = m.group("target").strip()
+        display = m.group("display")
+        rest = m.group("rest")
+        text = display.strip() if display else target_name
+        return f"{m.group('indent')}{text}{rest}"
+
+    new_body = _RE_LIST_WIKILINK_FULL.sub(_rewrite, body)
+    if new_body == body:
+        return 0
+    n_changed = len(_RE_LIST_WIKILINK_FULL.findall(body))
+    if config.get("dry_run"):
+        return n_changed
+    # Strip body padding (frontmatter-aligned blank lines) before splicing back.
+    if target.body_pad_lines:
+        new_body_unpadded = (
+            new_body[target.body_pad_lines:]
+            if new_body.startswith("\n" * target.body_pad_lines)
+            else new_body
+        )
+    else:
+        new_body_unpadded = new_body
+    new_text = target.text[: target.body_text_offset] + new_body_unpadded
+    target.path.write_text(new_text, encoding="utf-8")
+    return n_changed

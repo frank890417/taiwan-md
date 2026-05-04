@@ -1,32 +1,32 @@
 {
-  "totalArticles": 3995,
+  "totalArticles": 4079,
   "totalCategories": 21,
-  "estimatedContributors": 267,
-  "totalTags": 5256,
+  "estimatedContributors": 272,
+  "totalTags": 5572,
   "categories": [
     {
       "name": "es",
-      "count": 654
-    },
-    {
-      "name": "ko",
-      "count": 659
-    },
-    {
-      "name": "en",
-      "count": 675
-    },
-    {
-      "name": "fr",
-      "count": 678
-    },
-    {
-      "name": "ja",
       "count": 668
     },
     {
+      "name": "ko",
+      "count": 674
+    },
+    {
+      "name": "en",
+      "count": 690
+    },
+    {
+      "name": "fr",
+      "count": 692
+    },
+    {
+      "name": "ja",
+      "count": 683
+    },
+    {
       "name": "History",
-      "count": 37
+      "count": 39
     },
     {
       "name": "Society",
@@ -38,7 +38,7 @@
     },
     {
       "name": "People",
-      "count": 207
+      "count": 208
     },
     {
       "name": "Music",
@@ -46,11 +46,11 @@
     },
     {
       "name": "Food",
-      "count": 48
+      "count": 50
     },
     {
       "name": "Economy",
-      "count": 52
+      "count": 53
     },
     {
       "name": "Technology",
@@ -58,7 +58,7 @@
     },
     {
       "name": "Lifestyle",
-      "count": 21
+      "count": 25
     },
     {
       "name": "Geography",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Nature",
-      "count": 35
+      "count": 36
     },
     {
       "name": "About",
@@ -92,15 +92,15 @@
   "topTags": [
     {
       "name": "人物",
-      "count": 89
+      "count": 90
     },
     {
       "name": "Economy",
-      "count": 72
+      "count": 77
     },
     {
       "name": "企業",
-      "count": 57
+      "count": 58
     },
     {
       "name": "기업",
@@ -111,23 +111,35 @@
       "count": 28
     },
     {
+      "name": "半導體",
+      "count": 25
+    },
+    {
+      "name": "TSMC",
+      "count": 25
+    },
+    {
       "name": "인물",
-      "count": 26
+      "count": 25
+    },
+    {
+      "name": "政治",
+      "count": 24
     },
     {
       "name": "ODM",
       "count": 23
     },
     {
-      "name": "政治",
-      "count": 22
+      "name": "文化",
+      "count": 23
+    },
+    {
+      "name": "AI",
+      "count": 23
     },
     {
       "name": "金曲獎",
-      "count": 22
-    },
-    {
-      "name": "半導體",
       "count": 22
     },
     {
@@ -135,20 +147,16 @@
       "count": 22
     },
     {
-      "name": "民主化",
-      "count": 21
-    },
-    {
-      "name": "文化",
-      "count": 21
+      "name": "政治人物",
+      "count": 22
     },
     {
       "name": "歷史",
-      "count": 20
+      "count": 21
     },
     {
-      "name": "AI",
-      "count": 20
+      "name": "民主化",
+      "count": 21
     },
     {
       "name": "Économie",
@@ -159,21 +167,13 @@
       "count": 19
     },
     {
-      "name": "역사",
-      "count": 19
-    },
-    {
-      "name": "TSMC",
-      "count": 19
-    },
-    {
       "name": "原住民",
       "count": 19
     }
   ],
   "languageDistribution": {
-    "zh-TW": 3995,
+    "zh-TW": 4079,
     "en": 0
   },
-  "lastUpdated": "2026-05-03T09:17:23.536Z"
+  "lastUpdated": "2026-05-04T14:24:03.377Z"
 }

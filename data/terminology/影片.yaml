@@ -14,25 +14,30 @@ etymology:
   origin: 「影片」源自電影膠片時代；「視頻」為中國 2000s 網路時代新造詞
   taiwan_path: 錄影帶（1980s）→ 影片（泛指所有動態影像）
   china_path: 視頻（2000s，隨優酷/土豆等平台興起）
-  fork_point: "~2005"
+  fork_point: '~2005'
   fork_cause: 中國影音平台命名（優酷「視頻」）→ 網路時代擴散
 
 usage:
   taiwan_formal: true
   taiwan_casual: true
-  exceptions: "描述中國平台時可保留：「抖音短視頻」"
+  exceptions: '描述中國平台時可保留：「抖音短視頻」'
 
 status: stable
 
 detection:
   severity: A
+  false_positives:
+    - pattern: '電視頻道'
+      note: '「電視頻道」是台灣常用詞（TV channel），含「視頻」字串但非中國用語'
+    - pattern: '電視頻'
+      note: '「電視頻段」「電視頻譜」等專業術語前綴'
 notes: |
   2020s 台灣年輕世代接觸「視頻」（抖音影響），但尚未取代「影片」。
   台灣本土替代詞「短影音」已成主流。
 
 sources:
-  - "《大陸用語檢索手冊》（1997）：尚無此詞，2000s 後新生"
-  - "教育部國語辭典：影片"
+  - '《大陸用語檢索手冊》（1997）：尚無此詞，2000s 後新生'
+  - '教育部國語辭典：影片'
 
-added: "2026-03-29"
-updated: "2026-03-29"
+added: '2026-03-29'
+updated: '2026-03-29'

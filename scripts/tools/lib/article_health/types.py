@@ -43,7 +43,13 @@ class FileTarget:
     path: Path
     text: str  # full file content (frontmatter + body)
     frontmatter: dict[str, Any] = field(default_factory=dict)
-    body: str = ""  # text without frontmatter
+    # body is PADDED with leading blank lines equal to frontmatter line count
+    # so any line N in body matches line N in the original file. For write-
+    # back paths, use `body_text_offset` (char offset of where real body
+    # content starts in `text`) and slice body from that point.
+    body: str = ""
+    body_text_offset: int = 0  # char offset in `text` where body starts
+    body_pad_lines: int = 0  # how many blank lines were prepended to align line numbers
     lang: str = "zh-TW"  # zh-TW / en / ja / ko / es / fr
     category: str = ""  # About / History / Geography / ...
     slug: str = ""  # filename without .md

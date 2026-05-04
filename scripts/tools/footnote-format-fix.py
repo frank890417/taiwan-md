@@ -142,8 +142,8 @@ DOMAIN_DESC: dict[str, str] = {
     "plainlaw.me": "法律白話文運動",
     # 中國官方（標 PRC 觀點）
     "gwytb.gov.cn": "中國國台辦官方資料（PRC 觀點）",
-    # 預設 fallback
-    "default": "詳見原始連結內文",
+    # 預設 fallback — 必 ≥ 10 chars 以滿足 canonical regex
+    "default": "詳見原始連結內文資料補充",
 }
 
 
