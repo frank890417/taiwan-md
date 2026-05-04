@@ -1,0 +1,34 @@
+id: high_probability
+category: daily
+subcategory: 日常用語
+fork_type: E
+
+display:
+  taiwan: 八成 / 多半 / 很可能 / 極可能
+  china: 大概率
+
+english: probably / most likely / high probability
+
+etymology:
+  origin: 中國近年口語化的機率表達，從統計術語滲入日常口語
+  taiwan_path: 台灣傳統說「八成」「多半」「應該」「很可能」「大概」
+  china_path: 中國 2010s 後流行「大概率」，從專業術語通俗化為日常用語
+  fork_cause: 中國網媒 / 自媒體擴散（特別是政經評論文章）
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+
+notes: |
+  OP 點名為討厭的支語典型：「我真的受夠什麼『細思極恐』、『大概率』這種鬼東西了」。
+  台灣對應有多種，視語氣與正式度選用：
+  - 口語：「八成」「多半」「應該會」
+  - 中性：「很可能」「大概」
+  - 正式：「極可能」「機率高」
+
+status: stable
+
+sources:
+  - "2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP（DX22Q4sEh7d）"
+
+added: "2026-05-04"

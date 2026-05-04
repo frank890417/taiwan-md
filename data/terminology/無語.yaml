@@ -1,0 +1,34 @@
+id: speechless
+category: daily
+subcategory: 日常用語
+fork_type: B
+
+display:
+  taiwan: 無言
+  china: 無語
+
+english: speechless / at a loss for words
+
+etymology:
+  origin: 表達「不知道該說什麼」的情緒詞
+  taiwan_path: 台灣口語為「無言」，1990-2000s 已是日常用法（蘇打綠〈問蒼天〉「無語」是古文用法，與當代中國口語不同）
+  china_path: 中國網路興起後「無語」成主流，「無語凝噎」古文用法被通俗化為日常語氣詞
+  fork_point: "~2010s"
+  fork_cause: 中國微博 / B 站擴散，年輕台灣人在中國平台接觸後反輸入
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 「無語問蒼天」是台灣老梗（蘇打綠歌詞），保留古文用法
+
+notes: |
+  OP 多次強調這是文化滲透最徹底的詞之一：
+  「明明台灣口語就是『無言』，現在變成無語」
+  留言區多人附和「現在一堆學生每天都在無語，我真的頭很痛」。
+
+status: stable
+
+sources:
+  - "2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP + cyc___yang + ry.pan + 多人附和（DX22Q4sEh7d）"
+
+added: "2026-05-04"

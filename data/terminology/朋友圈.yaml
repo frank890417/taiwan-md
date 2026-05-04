@@ -1,0 +1,33 @@
+id: friend_circle
+category: tech
+subcategory: 社群文化
+fork_type: B
+
+display:
+  taiwan: 社交圈 / 交際圈
+  china: 朋友圈
+
+english: social circle / WeChat moments
+
+etymology:
+  origin: 中國「朋友圈」原指微信動態功能（Moments），衍生為一般社交圈意涵
+  taiwan_path: 台灣傳統說「社交圈」「交際圈」「人脈圈」
+  china_path: 微信於 2012 推出「朋友圈」功能，逐漸取代中國原有的「圈子」「人脈」說法
+  fork_point: "~2012"
+  fork_cause: 微信平台用語擴散
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+  exceptions: 描述微信功能本身時可保留「朋友圈」（專有名詞）
+
+notes: |
+  OP 第二則貼文強調：「『朋友圈』這個詞是從微信出來的，台灣人明明就是講『社交圈』、『交際圈』」。
+  Facebook 中文版用「動態」不用「朋友圈」，這是平台用語選擇的明顯印記。
+
+status: stable
+
+sources:
+  - "2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP 第二則貼文（DX22Q4sEh7d）"
+
+added: "2026-05-04"

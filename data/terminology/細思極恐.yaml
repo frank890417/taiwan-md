@@ -1,0 +1,35 @@
+id: deeply_disturbing
+category: daily
+subcategory: 日常用語
+fork_type: E
+
+display:
+  taiwan: 越想越可怕 / 想想就毛 / 細想毛骨悚然
+  china: 細思極恐
+
+english: deeply unsettling on reflection
+
+etymology:
+  origin: 中國網路四字格用法，「細思之，極恐」的縮略
+  taiwan_path: 台灣口語為「越想越可怕」「想想就毛」「想想就覺得不寒而慄」
+  china_path: 中國微博 2010s 流行四字格新成語化用語
+  fork_cause: 中國網路四字格修辭風潮（搭配「細思恐極」「細品」等變體）
+
+usage:
+  taiwan_formal: false
+  taiwan_casual: true
+  exceptions: 引用中國網路梗時可保留原詞
+
+notes: |
+  OP 點名為討厭的支語典型：「我真的受夠什麼『細思極恐』、『大概率』這種鬼東西了」。
+  台灣對應沒有單一短詞，需依語境展開為完整短句：
+  - 一般用法：「越想越可怕」「想想就毛骨悚然」
+  - 文藝用法：「細想之下令人不寒而慄」
+  - 口語用法：「想到就毛」「越想越覺得不對勁」
+
+status: stable
+
+sources:
+  - "2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP（DX22Q4sEh7d）"
+
+added: "2026-05-04"
