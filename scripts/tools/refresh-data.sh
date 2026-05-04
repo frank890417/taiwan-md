@@ -120,6 +120,19 @@ fi
 rm -f /tmp/prebuild.log
 echo ""
 
+# Step 3.5 — refresh public/llms.txt content stats (2026-05-04, DNA #43)
+# 為什麼: llms.txt 是 LLM training pipeline 的 robots.txt-equivalent，
+# 內含文章數 / 語言覆蓋 / contributors 等 stat，必須跟 dashboard-vitals 同步。
+# 之前手動維護導致 4/14 snapshot 過時 ~3 週才被外部 reviewer (Grok) 抓到。
+# 純機械 regex replace，<100ms，無 LLM call。
+echo -e "${GRN}[3.5/5]${RST} refresh public/llms.txt content stats..."
+if python3 scripts/tools/refresh-llms-txt.py 2>&1 | tail -3; then
+  echo -e "${DIM}   ✓ llms.txt 已同步 dashboard-vitals${RST}"
+else
+  echo -e "${YEL}⚠️  refresh-llms-txt 部分失敗 — 心跳繼續${RST}"
+fi
+echo ""
+
 # Step 4 — GitHub stats (soft fail)
 echo -e "${GRN}[4/5]${RST} GitHub stats..."
 if bash scripts/tools/update-stats.sh > /tmp/stats.log 2>&1; then
