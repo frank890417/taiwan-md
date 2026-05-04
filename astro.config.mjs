@@ -217,10 +217,40 @@ export default defineConfig({
     '/fr/culture/new-religions-and-spirituality':
       '/fr/culture/religion-and-temple-culture/',
   },
+  // 2026-05-04: build perf tuning. Page render is 93% of build time
+  // (363s render / 391s wall, baseline 4,331 pages). concurrency 1 → 4
+  // is the highest-ROI lever; details in reports/research/astro-build-speed-2026-05-04.md.
+  build: {
+    concurrency: 4,
+    inlineStylesheets: 'auto',
+  },
   markdown: {
+    // Explicit lang allowlist. Knowledge corpus uses bare ``` fences almost
+    // exclusively (1 named lang in src/content), so capping the loaded grammar
+    // bundle to common ones keeps Shiki startup small without breaking pages.
     shikiConfig: {
       theme: 'github-light',
       wrap: true,
+      langs: [
+        'ts',
+        'tsx',
+        'js',
+        'jsx',
+        'astro',
+        'bash',
+        'sh',
+        'md',
+        'json',
+        'yaml',
+        'html',
+        'css',
+        'python',
+        'go',
+        'rust',
+        'sql',
+        'diff',
+        'plaintext',
+      ],
     },
     remarkPlugins: [remarkWikilinks],
     rehypePlugins: [
@@ -232,5 +262,29 @@ export default defineConfig({
   },
   vite: {
     plugins: [tailwindcss()],
+    build: {
+      target: 'es2022',
+      minify: 'esbuild',
+      cssCodeSplit: true,
+      chunkSizeWarningLimit: 10000,
+      rollupOptions: {
+        output: {
+          // For huge SSG (4k+ pages) Rollup spends measurable time computing
+          // chunk splits when the per-route bundle is tiny. Forcing one-chunk
+          // output is faster on this scale (per bitdoze 339k-page case study).
+          manualChunks: undefined,
+        },
+      },
+    },
+    esbuild: {
+      target: 'es2022',
+      minifyIdentifiers: false,
+      minifySyntax: true,
+      minifyWhitespace: true,
+    },
+    optimizeDeps: { force: false },
   },
+  // experimental.queuedRendering tested 2026-05-04 — local wallclock unchanged,
+  // peak RSS 1.7 GB → 4.3 GB (poolSize: 1000 over-allocates for diverse pages).
+  // Skipping until upstream tunes pool sizing for content-heavy SSG.
 });

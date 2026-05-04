@@ -16,7 +16,11 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # 2026-05-04: ubuntu-latest → ubuntu-24.04-arm. Free for public repos
+    # (4 vCPU / 16 GB), and arm64 is reported 1.3-1.7× faster on Node + Sharp
+    # workloads. Playwright Chromium binary supports linux/arm64 since 1.40.
+    # If perf regresses, revert to ubuntu-latest in a hotfix.
+    runs-on: ubuntu-24.04-arm
     # 2026-04-22 β post-mortem: run 24782448133 `npx playwright install --with-deps`
     # silent hang 6 小時才被 default 360 min timeout 殺掉。加上限避免重演。
     # 2026-05-02 γ: 35 → 60 — article volume grew (641 zh × 6 langs ≈ 3800 pages)
@@ -29,6 +33,10 @@ jobs:
     env:
       # 防 apt-get 互動 prompt（Playwright --with-deps 會呼叫 sudo apt-get）
       DEBIAN_FRONTEND: noninteractive
+      # 2026-05-04: bump heap to 12 GB. Default 4 GB has been close to the
+      # ceiling at 4,393 pages × 6 langs (max RSS ~3.4 GB observed locally).
+      # Headroom prevents GC thrashing as content grows.
+      NODE_OPTIONS: --max-old-space-size=12288
     steps:
       - name: Checkout
         uses: actions/checkout@v4

@@ -1,0 +1,23 @@
+# Build perf experiment — local M-series, 2026-05-04
+# Cold cache between every run (rm -rf dist .astro node_modules/.astro)
+
+| Run                                              | Wallclock | Max RSS | Pages |
+|--------------------------------------------------|-----------|---------|-------|
+| Astro 6.0.5 baseline (cold OS, first ever)        |   391.00s | 1.94 GB | 4,331 |
+| Astro 6.0.5 baseline (re-run, OS cache warm)      |   356.20s | 3.40 GB | 4,331 |
+| Astro 6.0.5 + Tier 1 config                       |   357.09s | 1.70 GB | 4,331 |
+| Astro 6.2.1 + Tier 1 + experimental.queuedRendering | 364.22s | 4.32 GB | 4,331 |
+| Astro 6.2.1 + Tier 1 (final, shipped)             |   361.52s | 3.95 GB | 4,331 |
+
+Conclusion (local): wallclock effectively unchanged (within OS-cache noise of ~35s).
+queuedRendering caused +0.9 GB peak RSS without speed gain → dropped.
+
+Real wins are CI-side and unmeasurable locally:
+  - ubuntu-24.04-arm: 1.3-1.7× faster on Node + Sharp + Playwright (per GitHub blog)
+  - NODE_OPTIONS heap headroom: prevents OOM as content grows past current 4,393 pages
+  - build.concurrency: 4: I/O parallelism on 4-core CI runner
+
+CI baseline (before this PR, 7-day avg from public/api/dashboard-build-perf.json):
+  1029s (17 min)
+
+Will compare to post-merge CI run.
