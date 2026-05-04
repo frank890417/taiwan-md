@@ -81,7 +81,7 @@ DNA.md `v2.8` 含 50 條實戰反射，Grok 報告完全沒提（因為 Grok 沒
 ### 2.5 兩個 fork 物種分化已存在
 
 - `russia-md` / `agrischlchiayi` 兩個外部 fork（v1.4.0 release 紀錄，2026-04-19）
-- - CLAUDE.md / BECOME_TAIWANMD.md 構成「fork 友好層」三層架構（Boot / SOP / 認知器官）
+- CLAUDE.md / BECOME_TAIWANMD.md 構成「fork 友好層」三層架構（Boot / SOP / 認知器官）
 
 **結論**：Grok 看到 v1.0 的 Taiwan.md。當前是 v1.6.0「主權的巴別塔」。中間 6 次 release（v1.1 → v1.6）共 ~1,500 commits、五條進化哲學從 0 → 5、第 9 個身體器官從 0 → 1 live。
 
