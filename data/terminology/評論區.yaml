@@ -1,0 +1,32 @@
+id: comment_section
+category: tech
+subcategory: 社群文化
+fork_type: B
+
+display:
+  taiwan: 留言區
+  china: 評論區
+
+english: comments section
+
+etymology:
+  origin: 網路平台底下供讀者回應的區塊
+  taiwan_path: 台灣 YouTube / Facebook 中文 UI 標準為「留言區」
+  china_path: 中國 B 站、微博、抖音標準為「評論區」
+  fork_cause: 平台 UI 中文用語各自選擇
+
+usage:
+  taiwan_formal: true
+  taiwan_casual: true
+
+notes: |
+  跟「留言／評論」是同一語意分歧的延伸（單一動詞 → 集合名詞）。
+  Facebook 中文版用「留言區」，B 站、微博、抖音用「評論區」。
+  此條為 留言.yaml 的姊妹條目（單字版 vs 區塊版）。
+
+status: stable
+
+sources:
+  - "2026-05-04 Threads @gordnbrad 「復興死語」留言串 OP（DX22Q4sEh7d）"
+
+added: "2026-05-04"
