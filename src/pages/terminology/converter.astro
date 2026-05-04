@@ -216,7 +216,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
 
 <Layout
   title="台灣用語轉換器：中國用語一鍵轉台灣說法"
-  description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。不只轉字形，轉的是語感。`}
+  description={`免費線上台灣用語轉換工具。「視頻」→「影片」、「軟件」→「軟體」、「打車」→「叫計程車」——${rules.length} 條轉換規則涵蓋科技、生活、醫療、校園等分類，附台灣化指數分析。同步處理字形、詞彙、語感的完整對應。`}
 >
   <!-- Preload OpenCC for faster mobile loading -->
   <link
@@ -258,7 +258,7 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       </Fragment>
       <Fragment slot="subtitle">
         <span id="header-tagline"
-          >把中國用語轉換為台灣用語——不只是字形，是語感。</span
+          >把中國用語轉換為台灣用語：字形、詞彙、語感的完整對應。</span
         >
       </Fragment>
 
@@ -940,8 +940,8 @@ const reverseRulesJSON = JSON.stringify(reverseRules);
       if (headerTagline) {
         headerTagline.textContent =
           newDir === 'cn2tw'
-            ? '把中國用語轉換為台灣用語——不只是字形，是語感。'
-            : '把台灣用語轉換為中國用語——跨海溝通、給對岸朋友看，或反向 pattern 確認。';
+            ? '把中國用語轉換為台灣用語：字形、詞彙、語感的完整對應。'
+            : '對照台灣用語與中國說法：保存在地語感，看見兩邊語言彼此的影響。';
       }
 
       // Update rule count display
