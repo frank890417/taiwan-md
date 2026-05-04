@@ -312,9 +312,7 @@
 :root[data-theme='dark'] main.article-page [class*='bg-[rgba(193,125,94'] {
   background-color: color-mix(in srgb, #c17d5e 14%, transparent);
 }
-:root[data-theme='dark']
-  main.article-page
-  [class*='border-[rgba(193,125,94'] {
+:root[data-theme='dark'] main.article-page [class*='border-[rgba(193,125,94'] {
   border-color: color-mix(in srgb, #c17d5e 30%, transparent);
 }
 
@@ -328,4 +326,160 @@
 :root[data-theme='dark'] .table-of-contents a:hover,
 :root[data-theme='dark'] .article-sidebar a:hover {
   color: var(--color-ink);
+}
+
+/* ──────────────────────────────────────────────────────────────────
+ * Category hub overrides (main.category-page).
+ *
+ * Mirrors the article-page strategy above: the template
+ * (src/templates/category-hub.template.astro) uses Tailwind arbitrary
+ * values + scoped class selectors hard-wired to the slate palette
+ * (#1a1a2e / #334155 / #475569 / #64748b / #94a3b8 / #e2e8f0 / etc).
+ * Re-tokenizing the template is a large refactor; we patch at the
+ * class-attribute / leaf-class level instead so the hub template
+ * stays untouched.
+ *
+ * Born: 2026-05-04 zen-mendeleev — observer asked for reader settings
+ * (text-size + dark mode) on hub pages parallel to article pages.
+ * Layout.astro now exposes a `readerSettings` prop; hub opts in;
+ * this block is the per-surface dark polish that opt-in requires.
+ * ────────────────────────────────────────────────────────────────── */
+
+/* Page background — hub doesn't paint its own bg, it inherits from
+ * <body>, which tokens.css already flips. The header strip uses a
+ * category-color tint var and keeps its accent in dark (intentional;
+ * matches how the article-page hero band stays accent-tinted). */
+
+/* Slate-text Tailwind arbitrary classes throughout the hub chrome
+ * (breadcrumb, header meta, sidebar nav, subcategory nav, results
+ * count, etc) → primary ink */
+:root[data-theme='dark'] main.category-page [class*='text-[#1a1a2e]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#1e293b]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#334155]'] {
+  color: var(--color-ink);
+}
+
+/* Muted-slate utilities → ink-soft */
+:root[data-theme='dark'] main.category-page [class*='text-[#475569]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#64748b]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#6b7280]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#94a3b8]'],
+:root[data-theme='dark'] main.category-page [class*='text-[#9ca3af]'] {
+  color: var(--color-ink-soft);
+}
+
+/* White / pale-slate panel backgrounds (hub essay card, mobile
+ * subcategory chips, article-count chip) → dark surface tokens */
+:root[data-theme='dark'] main.category-page [class~='bg-white'],
+:root[data-theme='dark'] main.category-page [class*='bg-[#f8fafc]'],
+:root[data-theme='dark'] main.category-page [class*='bg-[#f1f5f9]'] {
+  background-color: var(--color-surface);
+}
+
+/* Pale-slate borders → token border */
+:root[data-theme='dark'] main.category-page [class*='border-[#e2e8f0]'] {
+  border-color: var(--color-border);
+}
+
+/* Hub essay prose — scoped class survives Astro hashing because we
+ * use the leaf class name. Specificity wins over the scoped rule
+ * via the extra :root[data-theme='dark'] qualifier. */
+:root[data-theme='dark'] main.category-page .hub-prose,
+:root[data-theme='dark'] main.category-page .hub-prose p,
+:root[data-theme='dark'] main.category-page .hub-prose li,
+:root[data-theme='dark'] main.category-page .hub-prose strong,
+:root[data-theme='dark'] main.category-page .hub-prose em {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.category-page .hub-prose h2,
+:root[data-theme='dark'] main.category-page .hub-prose h3 {
+  color: var(--color-ink);
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] main.category-page .hub-prose a {
+  color: var(--color-ink);
+  border-bottom-color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] main.category-page .hub-prose a:hover {
+  color: var(--color-accent);
+  border-bottom-color: var(--color-accent);
+}
+/* Topic-pill (wikilinks resolved to article links) — keep accent
+ * tint but rebuild on the dark bg so the chip stays a chip */
+:root[data-theme='dark'] main.category-page .hub-prose a.topic-pill {
+  background: color-mix(in srgb, var(--color-accent) 14%, transparent);
+  border-color: color-mix(in srgb, var(--color-accent) 35%, transparent);
+  color: var(--color-accent);
+}
+:root[data-theme='dark'] main.category-page .hub-prose a.topic-pill:hover {
+  background: color-mix(in srgb, var(--color-accent) 22%, transparent);
+}
+:root[data-theme='dark'] main.category-page .hub-prose blockquote {
+  color: var(--color-ink-soft);
+  background: linear-gradient(
+    to right,
+    color-mix(in srgb, var(--color-ink) 8%, transparent),
+    color-mix(in srgb, var(--color-ink) 2%, transparent)
+  );
+}
+:root[data-theme='dark'] main.category-page .hub-prose blockquote.pull-quote {
+  color: var(--color-ink);
+  background: none;
+}
+:root[data-theme='dark'] main.category-page .hub-prose code {
+  background: color-mix(in srgb, var(--color-ink) 8%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.category-page .hub-prose pre {
+  background: color-mix(in srgb, var(--color-ink) 12%, transparent);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.category-page .hub-prose th,
+:root[data-theme='dark'] main.category-page .hub-prose td {
+  color: var(--color-ink);
+  border-color: color-mix(in srgb, var(--color-ink) 28%, transparent);
+}
+:root[data-theme='dark'] main.category-page .hub-prose th {
+  background: color-mix(in srgb, var(--color-ink) 6%, transparent);
+}
+:root[data-theme='dark'] main.category-page .hub-prose em:not(.topic-pill) {
+  color: var(--color-ink-soft);
+}
+
+/* Article list rows — title #1e293b → ink, desc/time → ink-soft.
+ * #16a34a (citations green) reads fine on dark, leave intact. */
+:root[data-theme='dark'] main.category-page .row-title {
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.category-page .row-desc,
+:root[data-theme='dark'] main.category-page .row-time,
+:root[data-theme='dark'] main.category-page .no-results {
+  color: var(--color-ink-soft);
+}
+:root[data-theme='dark'] main.category-page .article-row {
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme='dark'] main.category-page .article-row:hover {
+  background: color-mix(in srgb, var(--color-accent) 8%, transparent);
+}
+:root[data-theme='dark'] main.category-page .article-row.is-featured {
+  background: color-mix(in srgb, var(--color-accent) 4%, transparent);
+}
+
+/* Subcategory side-nav active state — uses var(--categoryColor) so
+ * the rgba(45,80,22,…) hardcoded fallback bleeds through on dark.
+ * Re-paint with a token-mix so the active chip reads as accent
+ * regardless of the per-category color. */
+:root[data-theme='dark'] main.category-page .subcat-nav-link.active {
+  background-color: color-mix(in srgb, var(--color-accent) 12%, transparent);
+}
+
+/* Filter input — pale border + slate placeholder vanish on dark */
+:root[data-theme='dark'] main.category-page input#articleFilter {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+  color: var(--color-ink);
+}
+:root[data-theme='dark'] main.category-page input#articleFilter::placeholder {
+  color: var(--color-ink-soft);
 }

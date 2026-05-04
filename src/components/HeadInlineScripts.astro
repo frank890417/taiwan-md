@@ -16,9 +16,15 @@
  */
 
 interface Props {
-  isArticlePage: boolean;
+  /**
+   * Whether this surface opts into the ReaderSettings panel +
+   * FOUC-safe theme init. Mirrors the same-named prop on Layout.
+   * Renamed from `isArticlePage` 2026-05-04 (zen-mendeleev) so the
+   * gate describes its rendered effect rather than the surface type.
+   */
+  readerSettings: boolean;
 }
-const { isArticlePage } = Astro.props;
+const { readerSettings } = Astro.props;
 ---
 
 <!-- shot-mode init: ?shot=1 啟動 OG/Spore 圖片生成模式
@@ -75,17 +81,20 @@ const { isArticlePage } = Astro.props;
 <!-- Reader settings FOUC-safe early init.
      讀 localStorage 設定在 first paint 前套用 data-theme / data-text-size，
      避免 toggling 閃。?shot=1 短路（OG image 永遠 light）。
-     window.__TW_MD_IS_ARTICLE gate：只在標準 article page 套用 dark theme，
-     hub / dashboard pages 仍 light（component layouts 假設 light bg）。
+     window.__TW_MD_READER_SETTINGS gate：只在 opt-in 的 surface 套 dark theme。
+     未 opt-in 的 surface（dashboard / home / etc）仍 light，因為 component
+     layouts 假設 light bg。
      2026-05-01 γ-late issue #615 / idlccp1984 reader options;
-     v1.1 fix 2026-05-02 γ-late after dark-on-dashboard regression。 -->
-<script is:inline define:vars={{ isArticlePage }}>
-  window.__TW_MD_IS_ARTICLE = !!isArticlePage;
+     v1.1 fix 2026-05-02 γ-late after dark-on-dashboard regression;
+     v1.2 2026-05-04 zen-mendeleev: rename gate to `readerSettings` prop
+     so any surface can opt in (hub pages 加入). -->
+<script is:inline define:vars={{ readerSettings }}>
+  window.__TW_MD_READER_SETTINGS = !!readerSettings;
 </script>
 <script is:inline>
   (function () {
     try {
-      if (!window.__TW_MD_IS_ARTICLE) return;
+      if (!window.__TW_MD_READER_SETTINGS) return;
       var qs = new URLSearchParams(location.search);
       if (qs.get('shot') === '1') return;
       var html = document.documentElement;

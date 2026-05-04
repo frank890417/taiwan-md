@@ -25,6 +25,22 @@ interface Props {
   slug?: string;
   categorySlug?: string;
   noindex?: boolean;
+  /**
+   * Opt this surface into the floating ReaderSettings panel
+   * (light/auto/dark theme + text-size + plain-text link) and
+   * the FOUC-safe pre-paint theme init script.
+   *
+   * Contract for opting in: the surface MUST be dark-mode tested.
+   * Per-surface dark polish lives in `src/styles/dark-polish.css`
+   * scoped under the surface's <main class="..."> hook (e.g.
+   * `main.article-page`, `main.category-page`). Don't enable
+   * this on a surface that hasn't been visually audited dark —
+   * the panel will toggle data-theme on <html> globally and a
+   * surface without dark coverage will look broken.
+   *
+   * Default: false. Article + category-hub templates opt in.
+   */
+  readerSettings?: boolean;
 }
 
 const { lang = 'zh-TW' } = Astro.props;
@@ -43,6 +59,7 @@ const {
   slug,
   categorySlug: propCategorySlug,
   noindex,
+  readerSettings = false,
 } = Astro.props;
 
 // Search index now loaded via /api/search-index.json (fetch API)
@@ -59,15 +76,6 @@ const categorySlug =
   propCategorySlug?.toLowerCase() || category?.toLowerCase() || '';
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 const isHome = currentPath === '/' || currentPath === '/en';
-
-// Reader options (dark mode + ReaderSettings panel) only run on standard
-// category article pages — those are the only routes whose prose CSS is
-// dark-ready. Dashboard / home / bench / hub pages still have white-island
-// component layouts that look broken on a dark body, so we keep them
-// light until a dedicated dark-mode pass per surface lands.
-// Detection: only [category]/[slug].astro pages pass BOTH props.
-// (Hub pages pass category only; lifetree passes slug only; landings pass neither.)
-const isArticlePage = Boolean(category && slug);
 // justfont: only put the body font class on <body> to avoid rate-limit.
 // Other font classes go on specific elements (h1-h6, blockquote, nav, etc.)
 const jfClass = [
@@ -137,7 +145,7 @@ const jfClass = [
     <!-- Pre-paint inline scripts: shot-mode + reader-settings FOUC init.
          2026-05-03 sleepy-colden Tier 2.6: 抽到 src/components/HeadInlineScripts.astro
          讓 Layout 主結構乾淨。原本 ~150 行 inline 邏輯都在這裡。 -->
-    <HeadInlineScripts isArticlePage={isArticlePage} />
+    <HeadInlineScripts readerSettings={readerSettings} />
     <script
       is:inline
       async
@@ -797,9 +805,10 @@ const jfClass = [
 
     <!-- Reader settings: theme + size + plain-text link
          (Issue #615 / idlccp1984 reader options, 2026-05-01 γ-late)
-         v1.1 (2026-05-02 γ-late): only render on article pages — same
-         gate as the FOUC init script above. Other pages aren't dark-ready. -->
-    {isArticlePage && <ReaderSettings lang={lang} />}
+         v1.2 (2026-05-04 zen-mendeleev): gated by explicit `readerSettings`
+         prop on Layout. Surfaces opt in by passing readerSettings={true}
+         (and audit dark CSS in dark-polish.css before doing so). -->
+    {readerSettings && <ReaderSettings lang={lang} />}
 
     <script is:inline>
       // Set .md button href based on current path
