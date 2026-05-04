@@ -78,7 +78,73 @@ def _get_all_zh() -> list[Path]:
     return files
 
 
-def _format_human(report: HealthReport) -> str:
+def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
+    """Write prose-health scores to legacy `.quality-baseline.json` schema
+    consumed by `scripts/core/generate-dashboard-data.js`.
+
+    Schema:
+        {version, timestamp, total, flagged, files: [{file, score, reasons}]}
+    where `file` is `<lowercase_category>/<filename>.md`.
+
+    Only entries with score >= 4 are stored (matches legacy quality-scan.sh
+    behavior: score 0-3 is the in-budget pass band per EDITORIAL §quality-scan
+    and dashboard.template.astro qLabel logic). The dashboard reads this map
+    and defaults to 0 (pass) for any article not present.
+    """
+    import datetime
+    config = load_config(config_path)
+    files = _get_all_zh()
+    flagged_files: list[dict] = []
+    total = 0
+    for f in files:
+        if not f.exists():
+            continue
+        total += 1
+        target = load_target(f)
+        report = run_checks(target, config, check_name="prose-health")
+        score = 0
+        reasons = ""
+        for r in report.results:
+            if r.check != "prose-health":
+                continue
+            for v in r.violations:
+                msg = v.message
+                if msg.startswith("prose-health score:"):
+                    try:
+                        score = int(msg.split(":")[1].strip().split()[0])
+                    except (IndexError, ValueError):
+                        score = 0
+                    if "—" in msg:
+                        reasons = msg.split("—", 1)[1].strip()
+        if score >= 4:
+            rel = f"{target.category.lower()}/{f.name}"
+            flagged_files.append({"file": rel, "score": score, "reasons": reasons})
+    out = {
+        "version": "ssot-1.0",
+        "timestamp": datetime.datetime.now(datetime.timezone.utc)
+            .strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total": total,
+        "flagged": len(flagged_files),
+        "files": flagged_files,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✅ Wrote {total} scanned, {len(flagged_files)} flagged (score≥4) to {out_path}")
+    return 0
+
+
+def _effective_passed(report: HealthReport, fail_on: str) -> bool:
+    """Whether this report passes under the active profile's fail_on rule.
+    `report.passed` only checks HARD; this also respects warn/never.
+    """
+    if fail_on == "never":
+        return True
+    if fail_on == "warn":
+        return report.hard_count == 0 and report.warn_count == 0
+    return report.hard_count == 0
+
+
+def _format_human(report: HealthReport, fail_on: str = "hard") -> str:
     lines = []
     lines.append(f"🧬 {report.target.path}")
     lines.append(
@@ -100,9 +166,10 @@ def _format_human(report: HealthReport) -> str:
             lines.append(f"      {v.severity.value} {loc}: {v.message}")
         if len(r.violations) > 5:
             lines.append(f"      ... and {len(r.violations) - 5} more")
+    eff = _effective_passed(report, fail_on)
     lines.append(
         f"\nSummary: hard={report.hard_count}  warn={report.warn_count}  "
-        f"info={report.info_count}  passed={report.passed}"
+        f"info={report.info_count}  passed={eff} (fail_on={fail_on})"
     )
     return "\n".join(lines)
 
@@ -158,7 +225,16 @@ def main() -> int:
     parser.add_argument(
         "--quiet", action="store_true", help="Only summary, no per-violation lines"
     )
+    parser.add_argument(
+        "--baseline-out",
+        default=None,
+        help="Write prose-health scores to this path in legacy quality-baseline.json schema "
+             "(consumed by scripts/core/generate-dashboard-data.js). Implies --all + --check=prose-health.",
+    )
     args = parser.parse_args()
+
+    if args.baseline_out:
+        return _cmd_write_baseline(Path(args.baseline_out), args.config)
 
     if args.list_checks:
         return cmd_list_checks()
@@ -191,19 +267,27 @@ def main() -> int:
         )
         reports.append(report)
 
+    # Resolve fail_on once for both display + exit code
+    profile = config.get_profile(args.profile)
+    fail_on = profile.fail_on if profile else "hard"
+
     # Output
     if args.output == "json":
-        payload = {"reports": [r.as_dict() for r in reports]}
+        payload = {
+            "fail_on": fail_on,
+            "reports": [
+                {**r.as_dict(), "effective_passed": _effective_passed(r, fail_on)}
+                for r in reports
+            ],
+        }
         print(json.dumps(payload, ensure_ascii=False, indent=2))
     else:
         for r in reports:
-            print(_format_human(r))
+            print(_format_human(r, fail_on))
             if r is not reports[-1]:
                 print()
 
     # Exit code
-    profile = config.get_profile(args.profile)
-    fail_on = profile.fail_on if profile else "hard"
     if fail_on == "never":
         return 0
     total_hard = sum(r.hard_count for r in reports)

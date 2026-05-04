@@ -194,7 +194,13 @@ def _derive_meta_from_path(path: Path) -> tuple[str, str, str]:
 
 
 def load_target(path: Path | str) -> FileTarget:
-    """Read file, parse frontmatter, prep protected regions, return FileTarget."""
+    """Read file, parse frontmatter, prep protected regions, return FileTarget.
+
+    `body` is padded with leading blank lines equal to the frontmatter line
+    count, so any line number computed from `body` matches the original file's
+    line number. This keeps every plugin's reported line numbers correct
+    without each plugin needing to track a frontmatter offset.
+    """
     p = Path(path)
     text = p.read_text(encoding="utf-8")
     fm: dict[str, Any] = {}
@@ -202,7 +208,12 @@ def load_target(path: Path | str) -> FileTarget:
     m = _RE_FRONTMATTER.match(text)
     if m:
         fm = _parse_frontmatter_minimal(m.group("yaml"))
-        body = m.group("body")
+        # Count newlines in the frontmatter section (including the two ---
+        # delimiter lines) so body's first content line aligns with the
+        # original file line number.
+        frontmatter_span = text[: m.start("body")]
+        offset = frontmatter_span.count("\n")
+        body = ("\n" * offset) + m.group("body")
     lang, category, slug = _derive_meta_from_path(p)
     regions = _detect_protected_regions(body)
     sections = _detect_sections(body)

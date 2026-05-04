@@ -27,8 +27,12 @@ def _make_article(
         d = tmp_path / "knowledge" / category
     d.mkdir(parents=True, exist_ok=True)
     f = d / "test.md"
+    # Include subcategory: tests focus on title/length/punct rules — the
+    # 2026-05-04 subcategory HARD rule would fire on every fixture without
+    # this. Tests that target the subcategory rule itself override it
+    # explicitly via _make_article(... subcategory=None).
     f.write_text(
-        f"---\ntitle: '{title}'\ndescription: '{description}'\n---\n\nbody.\n",
+        f"---\ntitle: '{title}'\ndescription: '{description}'\nsubcategory: 'test-sub'\n---\n\nbody.\n",
         encoding="utf-8",
     )
     return f
@@ -217,3 +221,59 @@ def test_plugin_registered():
     registry.reset_registry()
     found = registry.discover_checks()
     assert "frontmatter-title" in found, list(found.keys())
+
+
+# ════════════════════════════════════════════════════════════════════════
+# Subcategory HARD (2026-05-04 user request)
+# ════════════════════════════════════════════════════════════════════════
+
+
+def _make_article_no_subcategory(tmp_path: Path, title: str, category: str) -> Path:
+    d = tmp_path / "knowledge" / category
+    d.mkdir(parents=True, exist_ok=True)
+    f = d / "test.md"
+    f.write_text(
+        f"---\ntitle: '{title}'\ndescription: 'desc'\n---\n\nbody.\n",
+        encoding="utf-8",
+    )
+    return f
+
+
+def test_missing_subcategory_is_hard(tmp_path):
+    f = _make_article_no_subcategory(tmp_path, "黃魚鴞：六公里溪流養一對", "Nature")
+    target = load_target(f)
+    violations = list(frontmatter_title.check(target, {}))
+    sub_hard = [
+        v for v in violations
+        if v.severity == Severity.HARD and "subcategory" in v.message
+    ]
+    assert len(sub_hard) == 1, (
+        f"Expected 1 HARD subcategory violation, got {len(sub_hard)}: "
+        f"{[v.message for v in violations]}"
+    )
+
+
+def test_about_category_subcategory_exempt(tmp_path):
+    """About 分類沒有 subcategory 概念，免檢查。"""
+    f = _make_article_no_subcategory(tmp_path, "緣起故事", "About")
+    target = load_target(f)
+    violations = list(frontmatter_title.check(target, {}))
+    sub_violations = [v for v in violations if "subcategory" in v.message]
+    assert sub_violations == [], (
+        f"About category should not require subcategory, got: {sub_violations}"
+    )
+
+
+def test_present_subcategory_passes(tmp_path):
+    """Article with valid subcategory should not yield subcategory violation."""
+    d = tmp_path / "knowledge" / "Nature"
+    d.mkdir(parents=True)
+    f = d / "test.md"
+    f.write_text(
+        "---\ntitle: '黃魚鴞：六公里溪流養一對'\ndescription: 'desc'\nsubcategory: '野生動物'\n---\n\nbody.\n",
+        encoding="utf-8",
+    )
+    target = load_target(f)
+    violations = list(frontmatter_title.check(target, {}))
+    sub_violations = [v for v in violations if "subcategory" in v.message]
+    assert sub_violations == []

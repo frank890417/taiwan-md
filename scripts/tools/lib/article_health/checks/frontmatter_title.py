@@ -142,3 +142,22 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             snippet=title,
             editorial_ref="EDITORIAL.md §Title 五原則",
         )
+
+    # 5. Subcategory required (HARD) — zh-TW non-About articles must declare
+    # subcategory per docs/taxonomy/SUBCATEGORY.md. 2026-05-04 promoted from
+    # WARN (test-frontmatter.mjs §β7) to HARD on user request: missing
+    # subcategory breaks knowledge-graph clustering and Hub-page navigation,
+    # so we want pre-commit to block instead of grandfather.
+    # Hub files (_*.md) are excluded by the upstream file filter.
+    sub = target.frontmatter.get("subcategory")
+    if target.category != "About" and (not isinstance(sub, str) or not sub.strip()):
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.HARD,
+            message=(
+                f"frontmatter 缺 'subcategory' 欄位"
+                f" — {target.category} 類文章必須對應 docs/taxonomy/SUBCATEGORY.md 子分類"
+            ),
+            snippet=str(sub) if sub is not None else "(missing)",
+            editorial_ref="docs/taxonomy/SUBCATEGORY.md",
+        )

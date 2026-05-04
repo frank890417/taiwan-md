@@ -11,7 +11,7 @@
     "prebuild:api": "node scripts/core/generate-api.js",
     "prebuild:map": "node scripts/core/generate-map-markers.js",
     "prebuild:search": "node scripts/core/build-search-index.mjs",
-    "prebuild:dashboard": "node scripts/core/generate-dashboard-data.js",
+    "prebuild:dashboard": "python3 scripts/tools/article-health.py --baseline-out scripts/tools/.quality-baseline.json && node scripts/core/generate-dashboard-data.js",
     "prebuild:changelog": "node scripts/core/generate-changelog-data.js",
     "prebuild:contributors": "node scripts/core/generate-contributors-data.js",
     "prebuild:supporters": "node scripts/core/generate-supporters-data.js",

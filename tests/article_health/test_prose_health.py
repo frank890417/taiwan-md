@@ -328,6 +328,55 @@ def test_thin_blocks_detected(tmp_path):
     assert score >= 2
 
 
+def test_thin_blocks_exempt_structural_sections(tmp_path):
+    """Regression: 2026-05-04 audit found 黃魚鴞 falsely flagged as thin
+    because `## 圖片來源` (image attribution section, 1 line by design) was
+    counted. Structural sections (參考資料 / 延伸閱讀 / 圖片來源) are
+    exempted from the THIN check.
+    """
+    # 3 healthy prose H2s + a 1-line 圖片來源 + a 1-line 參考資料.
+    # Without the exemption the structural sections would fire 2 thin counts.
+    body = textwrap.dedent(
+        """\
+        > **30 秒概覽**: x
+
+        ## 段落一
+
+        散文一行。
+        散文兩行。
+        散文三行。
+
+        ## 段落二
+
+        散文一行。
+        散文兩行。
+        散文三行。
+
+        ## 段落三
+
+        散文一行。
+        散文兩行。
+        散文三行。
+
+        ## 圖片來源
+
+        本文使用 1 張 CC 授權圖片。
+
+        ## 參考資料
+
+        [^1]: [src](https://example.com) — description with enough characters
+        """
+    )
+    # Pad to clear the < 20 line short-file early-exit
+    body += "\n" + "\n".join(f"延伸{i}" for i in range(20))
+    from lib.article_health.checks import prose_health
+    body_thin = prose_health._count_thin_blocks(body)
+    assert body_thin == 0, (
+        f"Expected 0 thin blocks (圖片來源 / 參考資料 should be exempt), "
+        f"got {body_thin}"
+    )
+
+
 # ════════════════════════════════════════════════════════════════════════
 # Score budget
 # ════════════════════════════════════════════════════════════════════════

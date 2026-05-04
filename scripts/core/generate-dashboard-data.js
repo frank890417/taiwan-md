@@ -125,12 +125,18 @@ function parseFrontmatter(content) {
     }
 
     // Handle inline array [tag1, tag2]
-    if (value.startsWith('[') && value.endsWith(']')) {
+    if (Array.isArray(value)) {
+      // already coerced
+    } else if (value.startsWith('[') && value.endsWith(']')) {
       value = value
         .slice(1, -1)
         .split(',')
         .map((v) => v.trim().replace(/['"]/g, ''))
         .filter((v) => v.length > 0);
+    } else if (value === 'true' || value === 'false') {
+      // YAML boolean coercion (was treating these as truthy strings, breaking
+      // lastHumanReview: false detection — fix 2026-05-04 audit)
+      value = value === 'true';
     }
 
     frontmatter[key] = value;

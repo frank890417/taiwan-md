@@ -60,7 +60,7 @@ def _check_via_python(title: str, category: str, tmp_path: Path):
     d.mkdir(parents=True, exist_ok=True)
     f = d / "py.md"
     f.write_text(
-        f"---\ntitle: '{title}'\ndescription: 'desc'\n---\nbody.\n",
+        f"---\ntitle: '{title}'\ndescription: 'desc'\nsubcategory: 'parity-fixture'\n---\nbody.\n",
         encoding="utf-8",
     )
     target = load_target(f)

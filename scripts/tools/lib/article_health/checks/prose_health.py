@@ -248,20 +248,33 @@ def _bullet_ratios_split(body: str) -> tuple[int, int, int, int]:
 
 
 def _count_thin_blocks(body: str) -> int:
-    """H2 blocks with < 3 prose lines. Mirrors quality-scan.sh dim 13."""
+    """H2 blocks with < 3 prose lines. Mirrors quality-scan.sh dim 13.
+
+    Structural sections (參考資料 / 延伸閱讀 / 圖片來源 / sources) are
+    exempted — they're by-design lists of footnotes / further-reading
+    links / image attributions, not prose paragraphs. Counting them as
+    "thin" generates false positives on every well-formed article.
+    """
+    structural_h2 = {
+        "## 參考資料", "## 延伸閱讀", "## 圖片來源",
+        "## 來源", "## References", "## Further Reading", "## Image Sources",
+    }
     thin = 0
     in_block = False
+    is_structural = False
     prose = 0
     for line in body.splitlines():
         if line.startswith("## "):
-            if in_block and prose < 3:
+            if in_block and not is_structural and prose < 3:
                 thin += 1
             in_block = True
+            stripped = line.rstrip()
+            is_structural = stripped in structural_h2
             prose = 0
         elif in_block:
             if line.strip() and not re.match(r"^(?:[#\-*|>]|\d+\.)", line):
                 prose += 1
-    if in_block and prose < 3:
+    if in_block and not is_structural and prose < 3:
         thin += 1
     return thin
 

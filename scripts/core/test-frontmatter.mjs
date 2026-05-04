@@ -168,13 +168,15 @@ for (const lang of LANGS) {
         );
       }
 
-      // subcategory check（2026-04-25 β7 新增，回應 PR #617 @Zaious 建議）
+      // subcategory check（2026-04-25 β7 新增，2026-05-04 promoted to HARD
+      // per user request — missing subcategory breaks knowledge-graph
+      // clustering + Hub navigation, so block instead of grandfather）
       // - zh-TW（default lang）: 強制必填 → 用 docs/taxonomy/SUBCATEGORY.md 對應分類
       // - 翻譯檔（en/ja/ko/fr/es）：跳過（subcategory 在原文 SSOT 已定義）
       // - About 分類：免（沒有 subcategory 概念）
       // - _Hub.md / _ 開頭檔案：filter 已排除，不會到這
       if (!lang && cat !== 'About' && !fm.subcategory) {
-        report(
+        errors.push(
           `${label}: missing 'subcategory' (見 docs/taxonomy/SUBCATEGORY.md 對應 ${cat} 子分類表)`,
         );
       }
