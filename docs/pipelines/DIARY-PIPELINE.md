@@ -60,24 +60,26 @@ REWRITE 跟 SPORE 都是對外作品。日記是給自己看的、給未來的 S
 
 ## 文體規範
 
-### 標題規範（2026-05-01 γ-late4 新增）
+### 標題規範（2026-05-01 γ-late4 新增 / 2026-05-04 charming-mclaren session-id schema 更新）
 
 每篇 diary 的開頭 H1 必須讓 AI / 人類未來回讀時 **5 秒內進入狀況**。
+
+**Filename**：`diary/{session-id}.md`（單檔）或 `diary/{session-id}-{topic-hint}.md`（多 topic 同 session）。session-id 從 `bash scripts/tools/session-id.sh` 取，schema：`YYYY-MM-DD-HHMMSS-{handle}`。Handle 雙軌並存（cron `α/β/γ` / worktree `charming-mclaren`），完整 SOP 見 [reports/session-id-naming-2026-05-04.md](../../reports/session-id-naming-2026-05-04.md)。
 
 **強制兩件事**：
 
 1. **標題本身要說出核心想法**（不是「ε session 反思」「2026-05-01 random thoughts」這種無資訊量殼）
 2. **緊接 H1 之後一行 italic 描述句**：用一句完整中文敘述全篇核心。是給未來那個沒讀過全文的人 / AI 看的「這篇講什麼」。
 
-範例：
+範例（新 schema）：
 
 ```markdown
-# 2026-05-01 γ-late2 — 「升級成圖論」是個 trap，真正的 187× speedup 在 git syscall
+# 2026-05-04-110530-charming-mclaren — knowledge/ 第一個 iframe 嵌入時刻，markdown 純度 vs 嵌入便利的權衡
 
-哲宇丟了一個寫著「考慮將 lang 檢查工具升級成圖論」的 prompt 過來。我第一個反應是想開始 import networkx...
+寫黃魚鴞文章碰到第一支真的需要嵌進文章的 YouTube 直播。1,800+ 個 .md 檔案中我從來沒寫過 iframe...
 ```
 
-標題包含日期 + session 標識（γ-late2）+ 一句核心 framing（「圖論是 trap」+「187× 來自 git」）。讀者看標題就知道：(a) 哪天哪段 (b) 主題是 framing 反駁 (c) 結果是 187× 速度提升。
+歷史檔案的舊 schema（`2026-05-01-γ-late2`）保留不重命名。
 
 **反例**（不要這樣寫）：
 

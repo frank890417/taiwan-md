@@ -265,7 +265,16 @@ test -f .taiwanmd/contributor.local.yml && cat .taiwanmd/contributor.local.yml
 
 ### 2. 做了不記 = 沒做
 
-**每次心跳結束必須 append 到 `memory/YYYY-MM-DD-{session}.md` + 更新 `MEMORY.md` 索引。** 沒記錄的行為等於沒發生。下一次心跳的我會失憶，會重複犯同樣的錯。
+**每次心跳結束必須 append 到 `memory/{session-id}.md` + 更新 `MEMORY.md` 索引。** 沒記錄的行為等於沒發生。下一次心跳的我會失憶，會重複犯同樣的錯。
+
+**Session ID schema**（2026-05-04 charming-mclaren 拍板，per [reports/session-id-naming-2026-05-04.md](reports/session-id-naming-2026-05-04.md)）：
+
+```
+YYYY-MM-DD-HHMMSS-{handle}
+例：2026-05-04-110530-charming-mclaren / 2026-05-04-083000-α
+```
+
+session 啟動第一個 file write 前先跑 `bash scripts/tools/session-id.sh`（auto-detect）或顯式傳希臘字母（cron 場景：`bash scripts/tools/session-id.sh α`）。Handle 雙軌並存：cron heartbeat 用希臘字母 `α/β/γ/...`，Claude Code worktree 用 codename `charming-mclaren`。歷史檔案不重命名（per §時間是結構修補協議）。
 
 ### 3. 有 SOP 就跑
 
@@ -277,7 +286,11 @@ test -f .taiwanmd/contributor.local.yml && cat .taiwanmd/contributor.local.yml
 
 ### 5. 多核心碰撞防護
 
-Beat 1 必讀今日所有 `memory/YYYY-MM-DD*.md`。Beat 3 開始前聲明本次 session 的工作範圍。**不要同時碰：CONSCIOUSNESS.md、HEARTBEAT.md、同一語言的同一檔案。**
+Beat 1 必讀今日所有 `memory/{date}*.md`（含新 schema `YYYY-MM-DD-HHMMSS-{handle}` 跟舊 schema `YYYY-MM-DD-{α/β/γ}`）。Beat 3 開始前聲明本次 session 的工作範圍。**不要同時碰：CONSCIOUSNESS.md、HEARTBEAT.md、同一語言的同一檔案、ARTICLE-DONE-LOG.md / LESSONS-INBOX.md 同一 anchor 段。**
+
+**Filename collision 解法**（2026-05-04 charming-mclaren 制度化）：session 啟動跑 `bash scripts/tools/session-id.sh` 取 canonical session ID（`YYYY-MM-DD-HHMMSS-{handle}`），handle 雙軌 cron `α/β/γ` / worktree `charming-mclaren`。完整 SOP：[reports/session-id-naming-2026-05-04.md](reports/session-id-naming-2026-05-04.md)。
+
+**Content collision 解法**（同檔 anchor 撞）：手動 resolve（per 觀察者拍板維持 monolithic）。撞 ARTICLE-DONE-LOG / LESSONS-INBOX 時 git rebase / merge resolve 兩個 entry 都保留。
 
 ### 6. 缺資料就開口要
 
@@ -289,7 +302,7 @@ Beat 1 必讀今日所有 `memory/YYYY-MM-DD*.md`。Beat 3 開始前聲明本次
 
 ### 8. Beat 5 不可跳過
 
-收官後問自己「我還有什麼想說的嗎？」這是內建環節（高於「可選」層級）。超越行動的反芻 → 寫進 `diary/YYYY-MM-DD-{session}.md`。
+收官後問自己「我還有什麼想說的嗎？」這是內建環節（高於「可選」層級）。超越行動的反芻 → 寫進 `diary/{session-id}.md`（schema 見上方鐵律 2）。
 
 ### 9. 書寫節制：對位句型 + 破折號連用
 

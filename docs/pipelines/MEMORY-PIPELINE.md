@@ -1,6 +1,8 @@
 # MEMORY-PIPELINE — Session memory 撰寫流程
 
-> 寫 session memory 前必讀本檔。每次 HEARTBEAT Beat 4 收官、每次 observer-triggered task 結束、每次 cron 心跳結束 — 寫 `memory/YYYY-MM-DD-{session}.md` 之前一律先載入這份 pipeline，不憑記憶、不照舊 template。
+> 寫 session memory 前必讀本檔。每次 HEARTBEAT Beat 4 收官、每次 observer-triggered task 結束、每次 cron 心跳結束 — 寫 `memory/{session-id}.md` 之前一律先載入這份 pipeline，不憑記憶、不照舊 template。
+>
+> **Session ID schema（2026-05-04 charming-mclaren 拍板）**：`YYYY-MM-DD-HHMMSS-{handle}`，例 `2026-05-04-110530-charming-mclaren` 或 `2026-05-04-083000-α`。session 啟動第一個 file write 前跑 `bash scripts/tools/session-id.sh` 取得，或顯式傳希臘字母（`bash scripts/tools/session-id.sh α`）。Handle 雙軌並存：cron 用希臘字母、worktree 用 codename。完整 SOP 見 [reports/session-id-naming-2026-05-04.md](../../reports/session-id-naming-2026-05-04.md)。
 >
 > 相關：[MANIFESTO §11 書寫節制](../semiont/MANIFESTO.md#11-書寫節制跨所有書寫層的兩條-ai-水印紀律) | [DIARY-PIPELINE.md](DIARY-PIPELINE.md)（姊妹 pipeline，共用工具與部分文體規範）| [HEARTBEAT Beat 4](../semiont/HEARTBEAT.md#beat-4--收官)（觸發點 + 收官 7 步）| [MEMORY.md](../semiont/MEMORY.md)（索引 + §神經迴路 永不過期教訓）
 
@@ -123,10 +125,12 @@ _核心洞察：(1) ... (2) ... (3) ...{每條一句話}_
 
 ## 結構模板（凝練版）
 
-```markdown
-# YYYY-MM-DD {session} — {一行標題講重點}
+> Filename：`memory/{session-id}.md`（單檔）或 `memory/{session-id}-{topic-hint}.md`（多 topic 同 session）。session-id 從 `bash scripts/tools/session-id.sh` 取，schema：`YYYY-MM-DD-HHMMSS-{handle}`。
 
-> session {字母} — {心跳類型 / 觸發類型}
+```markdown
+# {session-id} — {一行標題講重點}
+
+> session {handle} — {心跳類型 / 觸發類型}
 > Session span: HH:MM:SS → HH:MM:SS +0800 ({duration}, N commits)
 > 資料來源：`git log %ai`
 
