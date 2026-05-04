@@ -473,6 +473,29 @@ html.jf-active .hero-title {
 }
 
 /* ==========================================================================
+ * .prose body 字體統一 — 內文 + 內文標題都用 jf-jinxuanlatte 2.0（四分糖）
+ *
+ * 範圍：article + hub 的 markdown 渲染區（`<div class="prose">`）。
+ * 目的：article 內文標題（h2/h3/h4 from markdown）跟內文同一字族，避免兩
+ * 種視覺族（lanyanghei 標題 + jinxuanlatte 內文）撕裂閱讀節奏。
+ *
+ * justfont SDK 注入 `.jf-active h2-h6` → `jf-lanyanghei`（site-wide nav /
+ * hero / sidebar 用，OK 保留）。`.prose` 內的 h2-h6 用更高 specificity 覆蓋：
+ *   - SDK rule `.jf-active h2`        : (0,0,1,1)
+ *   - This rule `html.jf-active .prose :is(h1,…,h6)` : (0,0,2,1) ← wins
+ * 同樣 placed OUTSIDE @layer base 才能蓋過 SDK 的 unlayered <style> 注入
+ * (per CSS @layer cascade rule: layered < unlayered regardless of specificity).
+ *
+ * 註：weight 600 跟 SDK 對 h2-h6 的 lanyanghei extrabold (800) 不同 —— 因為
+ * 金萱沒提供等粗的 extrabold variant；600 是 jinxuanlatte 視覺重量 baseline。
+ * 2026-05-04 v2.0「四分糖」升級。
+ * ========================================================================== */
+html.jf-active .prose :is(h1, h2, h3, h4, h5, h6) {
+  font-family:
+    'jf-jinxuanlatte', 'Noto Sans TC', 'Source Han Sans TC', sans-serif;
+}
+
+/* ==========================================================================
  * Global @keyframes — animation names that need to be referenced from
  * inline `animation: var(--anim) ...` rules (which can't resolve inside
  * Tailwind arbitrary utilities unless the keyframes live at a global
