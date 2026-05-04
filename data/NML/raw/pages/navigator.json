@@ -1,0 +1,111 @@
+{
+  "id": 3664,
+  "date": "2021-04-18T17:24:19",
+  "date_gmt": "2021-04-18T09:24:19",
+  "guid": {
+    "rendered": "http://www.heath.tw/?page_id=3664"
+  },
+  "modified": "2021-06-23T20:04:23",
+  "modified_gmt": "2021-06-23T12:04:23",
+  "slug": "navigator",
+  "status": "publish",
+  "type": "page",
+  "link": "https://www.heath.tw/navigator/",
+  "title": {
+    "rendered": "navigator"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 51,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "page_navigation.php",
+  "meta": {
+    "lc_iscn_info": []
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages/3664"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.heath.tw/wp-json/wp/v2/users/51"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.heath.tw/wp-json/wp/v2/comments?post=3664"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages/3664/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/media?parent=3664"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 51,
+        "name": "CHAN",
+        "url": "",
+        "description": "",
+        "link": "https://www.heath.tw/author/chan/",
+        "slug": "chan",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/00ca2d0bbc49b7be7897d276252e799f?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/00ca2d0bbc49b7be7897d276252e799f?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/00ca2d0bbc49b7be7897d276252e799f?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://www.heath.tw/wp-json/wp/v2/users/51"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://www.heath.tw/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

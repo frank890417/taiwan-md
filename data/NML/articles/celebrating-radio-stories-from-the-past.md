@@ -1,0 +1,140 @@
+# Celebrating Radio: Stories from the Past
+
+- Source: https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+- Slug: celebrating-radio-stories-from-the-past
+- Type: nml-article
+- Published: 2020-07-07
+- Author: Vidya Murthy， Jermaine Huang， 白斐嵐 (Translator)
+- Editor: 鄭文琦
+- Original Source: MuseSG Volume 9 Issue 2; Apr to Jun 2016
+- NML Category: Sound Scene
+- Date Text: July 7th, 2020
+- Featured Image: https://www.heath.tw/wp-content/uploads/2020/06/celebrating-radio-2.jpg
+
+## Excerpt
+
+無線電廣播（編按：原文radio可譯為「無線電、收音機、無線電報、無線電廣播、無線電台」等，考慮到本文所欲探討的媒介特性，本文將以「廣播」為主要譯法。）自一出現，便創造出全新的聽覺經驗並產生獨特的聲響空間。正如留聲機、電影等殖民時期的科技，...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/celebrating-radio-stories-from-the-past/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/celebrating-radio-stories-from-the-past/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 45 : THE SEASON OF RADIO: an overture Celebrating Radio: Stories from the Past 敬廣播：來自往昔的聲音  July 7th, 2020／ 類型：  Sound Scene         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/) [https://twitter.com/share?text=Celebrating%20Radio%3A%20Stories%20from%20the%20Past&url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/](https://twitter.com/share?text=Celebrating%20Radio%3A%20Stories%20from%20the%20Past&url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/)   作者：  Vidya Murthy， Jermaine Huang， 白斐嵐 (Translator)  ／  編輯： 鄭文琦     出處： MuseSG Volume 9 Issue 2; Apr to Jun 2016     原發表於新加坡國家文物局（National Heritage Board）出版的《MuseSG》期刊第九冊第二期（2016年四月～六月號）。本文作者Vidya Murthy、Jermaine Huang在文章中透過檔案照片無線電廣播從殖民時期、戰爭到國族初成的不同歷史階段中，從引進業餘嗜好到國家傳播工具與流行媒體的過程。   無線電廣播（編按：原文radio可譯為「無線電、收音機、無線電報、無線電廣播、無線電台」等，考慮到本文所欲探討的媒介特性，本文將以「廣播」為主要譯法。）自一出現，便創造出全新的聽覺經驗並產生獨特的聲響空間。正如留聲機、電影等殖民時期的科技，為新加坡帶來了有別以往的娛樂形式。廣播不但拓展了人們的想像，同時建立了一個跨越年齡、民族、性別與國籍的廣大群體。
+
+ 2016年，新加坡國家博物館（National Museum of Singapore）推出《敬廣播：來自往昔的聲音》（*Celebrating Radio: Sounds from the Past* ）特展，以廣播為題，標誌出1930年代至1980年代間新加坡廣播史的幾個重要階段，並為觀眾帶來結合現場評述、民間劇場、鈴聲、音樂、宣傳標語、故事與演說的豐富聲景，以此完整敘事。
+
+ 聽廣播是1950年代至1970年代間孩童們的常見娛樂。這些兒童節目，包含具教育意義的故事、點歌、廣播劇與年輕藝術家的現場表演。展覽特別規劃一處互動空間，讓孩童進入廣播室的沉浸環境中，得以藉由想像與戲劇來投入參與，扮演廣播節目主持人、大聲說故事或點歌等。在廣播室外，親子只要捐款兩元，便可共同設計屬於自己的黑膠唱片或製作老式收音機。她們也可嘗試製造音效。
+
+  **素人實驗（****1930年代****～****1940****年代）**
+
+ 在馬來亞，廣播先是以業餘實驗的私人路線開始發展的。在新加坡，先是有了馬來亞業餘無線協會（Amateur Wireless Society of Malaya，1924～1928）以及馬來亞ZHI廣播事業公司（Radio Service Company of Malaya’s ZHI，1933～1936）。除了新聞播報與談話之外，ZHI也會同時播放地方舞廳的現場音樂或留聲機。
+
+ （圖：[留聲機，風神公司產品，倫敦，約1920年代；新加坡國家博物館館藏）](https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-1.jpg?la=en&hash=00BB24209ECF1153F6352288195A28D160079ACF)
+
+ 發明於1877年的留聲機（亦稱唱機），是一台能夠同時錄音並重現聲音的機器。圖片所示的唱機是由風神公司（Aeolian Company）所生產，如同其他同品牌的唱機產品一樣，它也有特色專利的「graduola」裝置，這是一種能隔著某段距離控制音量的拉把。
+
+ 在政府決議發行廣播執照的政策下，廣播事業逐漸受到規範，結構漸趨嚴謹。英國馬來亞廣播公司（BMBC）這間以新加坡為據點的私人公司，就在1937年開始發送中波。然而隨著二次世界大戰登場，也開啟了一連串的挑戰。
+
+  **媒介管控（****1940年****～****1946年****）**
+
+ 無論英國政府或日本政府，皆理解到廣播是能觸及廣大聽眾的媒介。1939年成立了一個新部門，負責宣傳英國戰事捷報並消解敵方說詞。隔年，政府買下「英國馬來亞廣播公司」（BMBC），並且更名為「馬來亞廣播公司」（Malayan Broadcasting Corporation，MBC），同時也升級了廣播設備。
+
+ 英國馬來亞廣播公司位於漢地路（Handy Road）由法蘭克．布魯爾（Frank Brewer）設計的國泰大樓（Cathay Building）內。這間大樓還開設了電影院、旅館與餐廳，是1940年代全新加坡最高的建築物。日軍步步進逼的新聞自播音室放送，也讓建築物自身歷史與廣播史在此相遇交錯。戰爭期間，日本佔據了國泰大樓，拿來當作廣播、政宣與軍事情報部門使用。
+
+  （**圖：**[漢地路的國泰大樓，1938～1939年，新加坡國家博物館館藏。](https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-2.jpg?la=en&hash=4A091BB5CB889D367A2A5F2F38A38880143496F2)）
+
+ 在日軍佔領期間（1942～1945年），廣播的功能也改變了，不再單純只是權力的來源本身，更成為控制人民的媒介。廣播成為日語傳播的主要媒介，說服聽者接受更廣泛的日本文化優越性。
+
+  **廣播之於發展中社會（1946年～1959年）**
+
+ 隨著英國政權復位，廣播在新加坡的性質也因而改變。為了要抵抗來自各方反抗勢力的威脅，廣播被用以傳播政治意識，教育廣大人民並達到宣導目的。位於偏遠地區的村落、莊園與錫礦區也開始有了廣播初體驗。1946年，政府成立泛馬來亞廣播部（Pan-Malayan Department of Broadcasting），即空中放送的「馬來亞電台」。電台以新加坡為根據地，節目涵蓋整個馬來半島。1959年元旦，新加坡廣播站改名為「新加坡電台」，不過由聯邦政府提供的廣播依然被稱作「馬來亞電台」。
+
+  **廣播與建國（1959年～1965年）**
+
+ 在後殖民時期的新加坡，廣播成為政治劇場與促進國家建造的舞台。在人民行動黨的領導下，地位日益嚴峻的政府巧妙地運用了大眾媒體的說服能力與影響範圍。早在1957年，身為人民行動黨創始人之一的拉惹勒南（S. Rajaratnam）就曾寫過一齣分六個段落的廣播劇《*A Nation in the Making*》（國家的建立），以對話為主並於馬來亞電台放送，闡述拉惹勒南對於馬來亞認同的見解。
+
+ 1961年，時任新加坡總理的李光耀事先草擬講稿，並連續12周以英語、馬來語與華語發表他對星馬合併的看法。
+
+ （**圖：**[《爭取合併的鬥爭》（*The Battle for Merger*），李光耀廣播演說彙編稿，1961；新加坡國家博物館館藏。](https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-5.jpg?la=en&hash=31AB76E6697FF2F75F64080035EA973C8BFAA1B9)）
+
+ 廣播是用來教聽眾馬來語（也就是國家語言）的好工具，馬來語則可用來為新加坡人促進集體認同感。文化部發行了一本多語言的[小冊子](https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-6.jpg?la=en&hash=FE83ACCD599BB3C1B652CA4837B20F718B415260)，共有16課，自1960年四月11日一路廣播至六月一日。
+
+ 在1964年星馬合併後，廣播事業也因而重整，創設了總部位於吉隆坡的馬來西亞電台，新加坡電台則留在新加坡。同年，新加坡電視開播，成為新加坡第一間電視台。隨著1965年新加坡被獨立，新加坡電台與新加坡電視台合併成「新加坡廣播電視」（RTS），由文化部所管轄。
+
+  **國家之聲（1960年代～1980年代）**
+
+ 廣播是形塑新加坡後殖民時期的重要角色。在新加坡，多語言的廣播節目強化了方言傳統，在戲劇與音樂方面更是如此。節目往往凸顯在地經驗，試圖清楚表現新加坡認同。像是說書之類的傳統，也透過廣播促進發展。不少「麗的呼聲」（Rediffusion）知名說書人，將戲劇化的文字轉化為精緻的藝術表現。「麗的呼聲」於1949年開台，以馬來語、英語、普通話和華語方言提供娛樂性質的廣播節目。
+
+ 為了籌措廣播資金，1960年廣播開始引進商業廣告。到了1980年，新加坡廣播電視更名為新加坡廣播局（SBC）。作為一法定機構，新加坡廣播局被委以提供資訊、教育與娛樂之任務。其廣播事業隨後擴張以涵蓋FM調頻服務，成為一個新的廣播節目部門，節目也調整為以英語、華語、馬來語與坦米爾語播出的九個頻道。
+
+ （**圖：**[飛利浦電晶體收音機，1950至1960年代之間，新加坡國家博物館館藏；Mrs Pansy E Vishun的禮物。](https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-12.jpg?la=en&hash=051EBCA06F99C14EE89BC3C5DAEF2270465872E8)）
+
+  **電晶體收音機**
+
+ 電晶體收音機改變了收音機的使用方式。大尺寸的收音機，讓一家人能聚在一起聽廣播節目；可攜式的電晶體收音機則使廣播成為個人化的閒暇娛樂。在大量生產下，也成為可負擔的產品。在1980年代音質更好的CD與卡帶隨身聽問世之前，配有簡單控制鍵、外型吸引人的小型收音機（compact radio）一直都是消費者最愛。
+
+  **廣播與流行樂**
+
+ 新加坡的廣播電台播放的音樂有本土也有國際，激發許多人開始創作音樂，他們的歌曲繼而透過廣播廣為流傳，打造了好幾位本土明星。其中最有名的本地節目，有馬來亞電台的「Talentime」選秀節目，由金士利．莫蘭多（Kingsley Morrando）主持於1949年首播，也成為頗受歡迎的平台，讓新加坡優秀的才藝表演者得以被看見。在1950年代，廣播的熱門度，加上在美國發明了電吉他，讓新加坡聽眾認識了爵士樂、節奏藍調、搖擺樂與搖滾樂。耳中聽著這些音樂風格，年輕人也深受鼓舞，紛紛開始組團、投入音樂的原創了。
+
+     [ISSUE 45](https://www.heath.tw/nml-issue/the-season-of-radio-an-introduction/)   [敬廣播：來自往昔的聲音 ， Vidya Murthy ， Jermaine Huang ， 白斐嵐 (Translator)](https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/)  [無線電波的飛躍式發展（放送今昔物語） ， 賴英泰](https://www.heath.tw/nml-article/the-great-leap-of-the-radiowave-%e6%94%be%e9%80%81%e4%bb%8a%e6%98%94%e7%89%a9%e8%aa%9e/)  [從陳擎耀《國際收音機體操》回顧臺灣之近代體操演變 ， 鄭文琦](https://www.heath.tw/nml-article/unfolding-the-history-of-radio-calisthenics-in-taiwan-from-chen-ching-yaos-international-radio-exercise/)  [南方之身與歷史之聲—思考《南洋情報交換所》的兩條路徑 ， 鄭文琦](https://www.heath.tw/nml-article/the-southern-body-and-the-voice-of-history/)  [織布或不織布：「無時鐘特區」裡的時間預設 ， 鄭文琦](https://www.heath.tw/nml-article/to-weave-or-not-to-weave-the-time-presumption-of-metamorphosis-of-time/)  [關於《懶繡停針》，與後來的時間 ， 鄭文琦](https://www.heath.tw/nml-article/the-lapse-of-time-something-about-lan-siu-theng-chiam-lasse-de-broder/)       See Also  [Celebrating Radio: Stories from the Past ，Vidya Murthy、Jermaine Huang](https://www.roots.sg/learn/stories/celebrating-radio-stories-from-the-past/story?fbclid=IwAR0rslcl2Aut4spHELr2tMNWZ2H2OYvjKb3B74rcNNfxbJ130D6zelQQF6E)              ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+- https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/?lang=en
+- https://www.heath.tw/nml-article/the-great-leap-of-the-radiowave-%e6%94%be%e9%80%81%e4%bb%8a%e6%98%94%e7%89%a9%e8%aa%9e/
+- https://www.heath.tw/nml-article/the-lapse-of-time-something-about-lan-siu-theng-chiam-lasse-de-broder/
+- https://www.heath.tw/nml-article/the-southern-body-and-the-voice-of-history/
+- https://www.heath.tw/nml-article/to-weave-or-not-to-weave-the-time-presumption-of-metamorphosis-of-time/
+- https://www.heath.tw/nml-article/unfolding-the-history-of-radio-calisthenics-in-taiwan-from-chen-ching-yaos-international-radio-exercise/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/nml-issue/the-season-of-radio-an-introduction/
+- https://www.heath.tw/podcast
+
+## External Links
+
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Celebrating%20Radio%3A%20Stories%20from%20the%20Past&url=https://www.heath.tw/nml-article/celebrating-radio-stories-from-the-past/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-1.jpg?la=en&hash=00BB24209ECF1153F6352288195A28D160079ACF
+- https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-12.jpg?la=en&hash=051EBCA06F99C14EE89BC3C5DAEF2270465872E8
+- https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-2.jpg?la=en&hash=4A091BB5CB889D367A2A5F2F38A38880143496F2
+- https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-5.jpg?la=en&hash=31AB76E6697FF2F75F64080035EA973C8BFAA1B9
+- https://www.roots.sg/-/media/Roots/Images/Stories/celebrating-radio-sounds-from-the-past/celebrating-radio-6.jpg?la=en&hash=FE83ACCD599BB3C1B652CA4837B20F718B415260
+- https://www.roots.sg/learn/stories/celebrating-radio-stories-from-the-past/story?fbclid=IwAR0rslcl2Aut4spHELr2tMNWZ2H2OYvjKb3B74rcNNfxbJ130D6zelQQF6E
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

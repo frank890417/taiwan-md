@@ -1,0 +1,111 @@
+{
+  "id": 339,
+  "date": "2016-06-03T22:03:31",
+  "date_gmt": "2016-06-03T14:03:31",
+  "guid": {
+    "rendered": "http://acopyofacopy.asuscomm.com/wordpress/nomansland/?page_id=339"
+  },
+  "modified": "2016-06-04T13:10:54",
+  "modified_gmt": "2016-06-04T05:10:54",
+  "slug": "announcement",
+  "status": "publish",
+  "type": "page",
+  "link": "https://www.heath.tw/announcement/",
+  "title": {
+    "rendered": "announcement"
+  },
+  "content": {
+    "rendered": "",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "",
+    "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "page_announcement.php",
+  "meta": {
+    "lc_iscn_info": []
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages/339"
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages"
+      }
+    ],
+    "about": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/types/page"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://www.heath.tw/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://www.heath.tw/wp-json/wp/v2/comments?post=339"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 0,
+        "href": "https://www.heath.tw/wp-json/wp/v2/pages/339/revisions"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "https://www.heath.tw/wp-json/wp/v2/media?parent=339"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  },
+  "_embedded": {
+    "author": [
+      {
+        "id": 1,
+        "name": "acopyofacopy",
+        "url": "",
+        "description": "",
+        "link": "https://www.heath.tw/author/acopyofacopy/",
+        "slug": "acopyofacopy",
+        "avatar_urls": {
+          "24": "https://secure.gravatar.com/avatar/91d57066afc36a6002c5a249f67c1a94?s=24&d=mm&r=g",
+          "48": "https://secure.gravatar.com/avatar/91d57066afc36a6002c5a249f67c1a94?s=48&d=mm&r=g",
+          "96": "https://secure.gravatar.com/avatar/91d57066afc36a6002c5a249f67c1a94?s=96&d=mm&r=g"
+        },
+        "_links": {
+          "self": [
+            {
+              "href": "https://www.heath.tw/wp-json/wp/v2/users/1"
+            }
+          ],
+          "collection": [
+            {
+              "href": "https://www.heath.tw/wp-json/wp/v2/users"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+# Report on the Environmental Art in Taiwan
+
+- Source: https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+- Slug: report-on-the-environmental-art-in-taiwan
+- Type: nml-article
+- Published: 2017-04-21
+- Author: 吳虹霏
+- Editor: 鄭文琦
+- NML Category: Opinion
+- Date Text: April 21st, 2017
+- Featured Image: https://www.heath.tw/wp-content/uploads/2017/02/吳瑪悧.jpg
+
+## Excerpt
+
+背景：環保意識的崛起
+台灣的工業化始自1960年代，1970年代的汙染情形已非常嚴重，相較於當時環保運動已經風起雲湧的美國，剛擠身亞洲四小龍的台灣，在經濟發展的權衡下，遲至1980年代晚期，面對層出不窮的公害事件，才開始有許多民間反公害組織...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/report-on-the-environmental-art-in-taiwan/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/report-on-the-environmental-art-in-taiwan/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            ISSUE 32 : Art and Commitment Report on the Environmental Art in Taiwan 台灣的環境藝術發展概況  April 21st, 2017／ 類型：  Opinion         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/) [https://twitter.com/share?text=Report%20on%20the%20Environmental%20Art%20in%20Taiwan&url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/](https://twitter.com/share?text=Report%20on%20the%20Environmental%20Art%20in%20Taiwan&url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/)   作者：  吳虹霏  ／  編輯： 鄭文琦         除去台灣本身面臨的環境威脅，源於歐美的環境觀與相應的藝術浪潮，反而是推進台灣「環境藝術」發展的關鍵。真正關懷環境生態的精神，往往在於跳脫個人成就的互動過程，或出於相通理念而集結合作的計劃。像吳瑪悧自千禧年後的創作與實踐，便時常常納入環境議題。而為這片土地注入更柔軟、強韌的靈魂者，與其說是藝術不如說是社會創新；這些人的終極目的與其說是環境保護，不如說是社會永續。    [![image](https://www.heath.tw/wp-content/uploads/2017/02/王文志.jpg)](https://www.heath.tw/wp-content/uploads/2017/02/王文志.jpg) 王文志, 防洪計劃 (1997); 沙包, 水, 衣物, 電視, 廢木料; photo courtesy of artist & NTMOFA (國美館)  **背景：環保意識的崛起**
+
+ 台灣的工業化始自1960年代，1970年代的汙染情形已非常嚴重，相較於當時環保運動已經風起雲湧的美國，剛擠身亞洲四小龍的台灣，在經濟發展的權衡下，遲至1980年代晚期，面對層出不窮的公害事件，才開始有許多民間反公害組織，以及「新環境雜誌社」（1986）、「主婦聯盟基金會」（1987）、「台灣環境保護聯盟」（1987）、「台灣綠色和平組織」（1988）等環保團體相繼成立，間接推動政府設置「行政院環境保護署」。那個時代的台灣，民主意識正集大成的越發茁壯，環境保護意識亦是由下而上，同步成為形塑社會發展的重要力量。
+
+ 早期台灣的環境議題多為針對地方居民的健康或生計有立即危害性的汙染，在環境法規落實與國民環保意識普遍提升下，汙染的發生已大幅減少。而今，在環保團體與有志人士多年的努力，及國際環保浪潮的推波助瀾下，民眾對環境的關注已漸漸超越地區性與當下利益，站在全球的高度上，展現對永續未來的重視。其中，自1986年車諾比核災後便在台灣萌芽的反核運動，歷經撼動日本的311大地震與福島核災，在2013年後由綠色公民行動聯盟等民間團體共同發起的反核遊行，創下22萬參與人次的歷史新高。
+
+ 台灣作為一個經歷快速工業化與都市化的島國，同時有著地震、颱風等天然災害，就像一個全球環境問題的縮影 (註1)，面臨海平面上升、氣候暖化、空氣／水／土壤汙染、生物多樣性瀕危等多重危機。這片土地上的人們漸漸理解，環境生態的健全取決於一系列連動的系統，包括生態學、政治、科技、社會、經濟等環環相扣的領域，正如人類在地球上的共同命運，超越了國界、文化與信仰。
+
+  **藝術界的環境關懷**
+
+ 1990年代前，台灣的藝術家多半以繪畫或雕塑的形式，復刻當時鄉村生活的自然美好風貌，最具代表性的作品之一是黃土水的〈水牛群像〉（1930），將濃厚鄉土情懷揉合寫實田園風光。席德進1970年代的水田系列，畫中倚著飄渺山脈映著山色的棋盤狀水田，正是工業化將要洗去寶島質樸的風土氣韻的最末時刻。
+
+ 1980年代，海外深造回台的藝術家們將裝置藝術的概念引進，伴隨著台灣在政治、社會與環境生態上的巨大改變，以及1980年代末的替代空間興起，開展出嶄新的語言、媒材與形式。雖然觸及環境議題的藝術創作此時尚非主流，但已出現許多利用自然材料或現成物創作之裝置，跨出傳統的展覽空間，這些作品更直接地回應所在的生活環境，交互牽引藝術家關注腳下這片土地，認真看待人類與自然界關係中出現的問題，並試圖在創作中處理這樣的議題。如王文志在1997年的《河流—新亞洲藝術‧台北對話》展覽中展出的〈防洪計劃〉，模擬災區現場在展場地面注滿了水，中央則以木板鋪出螺旋狀的步道供觀眾行走，延續一直以來對「人與自然對應之關係」的討論，警示台灣將如孤島狀的面對越發頻繁的天災與越不可測的未來。
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/02/晴耕雨讀-1024x427.jpg)](https://www.heath.tw/wp-content/uploads/2017/02/晴耕雨讀.jpg) 林銓居, 明日博物館III: 晴耕雨讀; photo courtesy of artist & 忠泰基金會   **越見風靡的「藝術＋自然」展覽**
+
+ 除去台灣本身面臨的環境威脅，起源於歐美的環境觀與相對應的藝術浪潮，反而是推進台灣環境藝術發展的關鍵，如同台灣整體的近代藝術發展，主要是承接西方的脈絡。(註2) 近十幾年，奠定我們對環境藝術大抵想像的推手之一，是美國藝術家艾婕音（Jane Ingram Allen）。她本身即以自然材料創作，分別在2006年、2010年擔任首屆關渡國際自然裝置藝術季與成龍溼地環境藝術節策展人。這些藝術節的主要方法是邀請藝術家利用生物可分解的材料，現場創作融合自然景觀的裝置藝術。常駐台灣的艾婕音在2010年更邀集16位台灣藝術家，參與其策畫的美國巡迴展《*Going Green: New Environmental Art from Taiwan*》，成功躍上國際檯面，間接帶動各式環境藝術展覽在台灣遍地開花，幾成為文化顯學。
+
+ 2015年，艾婕音再度擔任基隆首屆《潮藝術：國際環境藝術季》策展人，幾乎包辦全台大小環境藝術節，堪稱台灣環境藝術節的開山始祖。然而，就算成功地創造了藝術離開白牆、結合自然，甚至吸引大眾、發展觀光的嶄新形式，在國際藝術家前仆後繼的短暫駐點創作下，表現形式已越趨單一；至於純粹物質性的展示，也窄化我們對所謂公共藝術的理想─「它應是具備修復某種人與天地物的關係網絡的能力，或是促成具有地域性、生產性的『公共空間』的形成」（黃海鳴語）。 2002年竹圍工作室與法國策展人古特（Catherine Grout）合作自辦的《竹圍環境藝術節》便以這般願景出發，強調以參與式活動取代大型藝術物件，在竹圍地區和淡水河沿岸開啟藝術與公共空間的對話，從中啟發民眾對環境的思考。
+
+ 環境藝術作品一定要坐落在好山好水的大自然中嗎？1999年富邦藝術基金會的《土地倫理》展，以該集團所有的三塊土地為基地，邀請四位藝術家在台北的城市地景中創作，藉著牽動觀眾的感官，鼓勵反思土地與經濟之間的倫理感。10年後，忠泰建築藝術基金會推出的行為地景作品〈晴耕雨讀〉中，藝術家林銓居以四個月時間將一塊荒蕪開發區建地轉化為一畝水稻田。這兩項相隔十年的藝術計劃，進一步訴諸人與土地在生態層面的關係，相較於置入自然空間的創作，展現較豐富的人文社會層次，亦更緊扣現代的生活樣態。然而，在主辦／出資方為財團無可迴避利益的操作下，作品自身談論土地環境議題的正確性也因而受到檢視。
+
+  **在地行動的環境藝術先行者**
+
+ 跳脫大規模的戶外裝置形式，真正關懷環境生態的精神，往往在於跳脫個人成就的互動過程，或出於相通理念而集結合作的計劃中，發出清晰深刻的聲響。吳瑪悧自千禧年後的創作與策展與活動策畫，時常常納入環境議題。2006年「人在江湖—淡水河溯河計劃」中，她將河流做為眾人溝通協作的載體，邀請學生與各界人士參與，探討台北河川汙染與都市化議題。同年和嘉義縣政府文化局合作展開，持續至2009年的「北回歸線環境藝術行動」，是台灣以社區為主的環境藝術計劃的典範原型，從邀請居民一同種樹開始，成功的打破藝術家中心，用另一種方式與民間語言銜接，推動民眾對在地環境問題的關注。2010年與竹圍工作室共同策畫的「樹梅坑溪行動」，將觸角深入學校、社區，邀請表演藝術、都市規劃、種菜的民眾一起參與，籌辦早餐會、手作課、走溪、社區劇場等活動，將環境永續的理念深化到常民的生活中。從這幾個計劃中，可以看出「行動」是吳瑪悧致力推廣的重點，而非流於節慶式的三分鐘熱度。(註3)
+
+ 2008年吳瑪俐在台北雙年展中的〈台北明天還是一個湖〉，與專業者都市改革組織合作，探討面對氣候變遷的具體生活因應之道。他們在台北市立美術館戶外廣場上搭起一座菜園，邀請展覽的訪客一起加入種菜的行列。除了深具將田園生活帶進都市的詩意色彩，亦不失為一個試圖翻轉傳統的藝術展示脈絡，以具體行動拯救環境，並爭取都市用地的前瞻行動。（見Vera Tollmann，[〈台北明天還是一個湖〉](http://www.goethe.de/ins/cn/tai/prj/kuk/mag/kue/cn6388837.htm)）
+
+    [![image](https://www.heath.tw/wp-content/uploads/2017/02/吳瑪悧-1024x576.jpg)](https://www.heath.tw/wp-content/uploads/2017/02/吳瑪悧.jpg) 吳瑪悧, 台北明天還是一個湖 (2008); photo courtesy of artist   **環境生態與社區參與相輔相成**
+
+ 當今全球共同面臨的環境問題迫使人們不得不回頭檢視資本主義的本質和運作模式，同樣的，在檢驗資本主義時，將發現其惡果延伸出的其他社會層面。這牽一髮動全身的結構，讓藝術家在跳脫白盒子踏入社區、試圖以創作抵抗資本收編時，對環境議題與社區文史保存的關注常常交織。許淑真與盧建銘2006前發起的《植—物新樂園》便是以部落農耕植物與環境調查的創作手法，回應被迫遷的桃園大溪撒烏瓦知的部落重建和文化運動。
+
+ 加入社會參與的成份，這些實踐並非尖刻對立的姿態，而是和諧共好的。周靈芝自2010年起在被列入歷史建築、具有多元文化紋理的寶藏巖，推動生態農園實驗。藉著與居民一同在生態農園墾殖、維護，建立當地藝術社群與原住戶的信賴，將都市人與土地、自然、環境的斷裂連結重新銜接，探索「共生」關係落實的可能方式。2013春天，蟾蜍山面臨閒置的「煥民新村」將拆除，居民遭到校方提告迫遷的雙重危機，當時在地紀錄片工作者發起「好蟾蜍工作室」，與居民、藝文界人士、台大城鄉所師生、鄰近大專院校學生展開一連串保存行動。近期開始推動兒童環境教育、風土植物復育與生態基礎設施的建置，逐步建構台北「自營生態聚落」的原型。
+
+ 近年有更多如上述無法用單一的名稱定義的計劃，以更多元的資源串接、更游擊彈性地發生模式，如星火燎原般蔓延至全台各地，至此我們終於隱約瞥見早年環境運動的精神性復甦。而為這片滄桑土地注入更柔軟、強韌的靈魂者，與其說是藝術，不如說是一種社會創新；這些人的終極目的與其說是環境保護，不如說是社會永續。藝評嘉比力克（Suzi Gablik）提出「夥伴關係模型」，大力鼓吹藝文創作者運用創意來回應集體文化的需求（嘉比力克，《藝術的魅力重生》），任何出於對所在文化的深刻觀察體會所發展出的創意行動，都應受到更多注目與支持，而非去劃定討論的疆界，如同吳瑪悧期盼的：
+
+ 我們需要的只是不同於過去的藝術的理解，讓這些努力也被藝術界認知到。(註4)
+
+  **更廣的環境藝術之路？**
+
+ 行文至此，作者想強調本文在梳理台灣近代環境藝術的發展時，並不試圖鑽研尚呈現分歧的詞彙定義，而是跳脫字面意義，看待藝術關懷環境與所延伸出的社會議題的初衷。與其要解釋我們想談的究竟是什麼，不如談驅動我們的是什麼。藝術文化本身就包納環境的向度，人類的文明發展也始終與自然密切交織、相互滋長。瓜達里（Félix Guattari）在著名的《三維生態學》（*The Three Ecologies*，1990）中曾說，藝術家比科學家、精神分析家更了解、也更早了解人類的處境。在面臨規模與廣度皆前所未見的環境生態危機，且最進步的科學、經濟與政治尚無法產生有效方案的挑戰之下，藝術文化無疑是僅存能夠銜接甚至填補人類與自然日益巨大鴻溝的關鍵。
+
+ 周靈芝在2012年重要著作《生態永續的藝術想像和實踐》中提出：
+
+ 環境藝術在台灣的發展是近幾年才有的事。它大抵上依循著公共藝術的脈絡，出現在自然環境和社區中。
+
+ 本篇文章列舉的代表性案例，亦呼應這兩類主要的發生「空間」─若不是走入戶外或自然環境，且有慶典般的濫瘍、形式表象化的趨勢，就是另一種深入草根、社區的行動式實踐，需要時間親身參與、理解進而認知其價值。
+
+ 那麼，在自然環境與社區的二元光譜中，藝術展現對環境生態的關懷，是否能在其中的灰色地帶，發展更多不同的表現可能、觸及到更廣的受眾，並盡可能的攪動更多樣的討論？
+
+ 大部份著眼環境議題的作品是非永久的、或位在特定的環境，或有一個眾人合作的過程，很難在傳統的脈絡中展示。是否在那灰色空間中還有一種向度，回歸到美學與藝術的層次，依舊能夠拋出一個問題，激盪出可能的態度與行為改變。王志弘在談及以環保之名背離生態理念的創作，甚至創作與環境永續觀念有著本質上的矛盾時，提出「藝術表現內蘊的精神超越性、甚至逾越性，可能才是激勵我們以創新視野面對環境危機的啟發源泉」(註5)。去年藝術家鄭波與蟾蜍山居民、立方計劃空間合作的「野草黨II＋蟾蜍山共地計劃」，則是值得討論與試驗的有機原型。藝術家與「好蟾蜍工作室」及當地居民、生態環境與文化工作者進行近一年的交流與合作，此過程與其在「野草黨II」展覽的美學表現之間的交織輝映，消弭了過程與成果、個體與團體、社會性與美學性的疆界，並能相互補充、讓融合其中的思考與實踐在未來有更寬廣的延續可能。
+
+     [![image](https://www.heath.tw/wp-content/uploads/2017/02/鄭波.jpg)](https://www.heath.tw/wp-content/uploads/2017/02/鄭波.jpg) 鄭波與蟾蜍山居民、立方計劃空間合作的「野草黨II＋蟾蜍山共地計劃」(2016); photo courtesy of artist(s) & TheCube project   **更多的國際連結**
+
+ 最後，全球近年來相繼發起強化藝術與環境議題之連結，或以藝術觸發實質環境改變的聯盟團體。包括2008年亞歐基金會（Asia Europe Foundation）策動為期四年的Connect2Culture；國際藝術文化機構聯盟（IFACCA）與Julie’s Bicycle於2014年發布研究報告《藝術與環境永續的國際觀察報告》；2012～2015年由歐盟贊助的GALA（The Green Art Lab Alliance）聚集歐洲近20國以工作坊、實驗室、駐村與高峰會等多樣形式，共同探究文化組織在環境議題上能發揮的價值。跨界計畫如挪威心理學會推出的CLIMART，探究視覺藝術與人們的氣候變遷認知之間的關聯；英國Invisible Dust由藝術家與科學家推出一系列探討環境議題與氣候變遷的當代藝術活動，以及2015年末在聯合國氣候高峰會於巴黎舉辦之際，「藝術和可持續發展聯盟」COAL和倫敦的非營利組織CapeFarewell同步推出的ARTCOP21全球氣候藝術節等。(註6)
+
+ 這些難以一一列舉、分類的組織、團體，或以政策研究、或以委任製作、或以推動民眾參與、或以策畫相關議題的展演，在在展現藝術界超越個人、超越單一創作的高度。相較於西方國家的積極，擁有天人合一的和諧環境觀的台灣或亞洲，如何在其中行使話語權，或帶入不同的切面？2015年末竹圍工作室舉辦首屆的Gala Asia（Green Art Lab Alliance Asia），聚集亞洲八國關注環境議題的藝術團體，在交流中共同擬定聯盟宣言，激盪未來方向，後續的影響也值得我們樂觀看待。
+
+ 無論如何，期待藝術家「跳脫字面定義，回歸環境藝術的價值初衷，能超越媒材與流派，被藝術工作者更遼闊的融會與運用」（蘇瑤華）；善加利用創意思考的價值，讓影響力超越作品自身，讓藝術繼續推動時代並成為永續未來的守護者，方能找回投入藝術的初衷。
+
+     [ISSUE 32](https://www.heath.tw/nml-issue/art-and-commitment/)   [朝向藝術與永續交會的政治象限 ， 吳虹霏](https://www.heath.tw/nml-article/towards-a-political-coordinate-where-art-and-sustainability-intersect/)  [台灣的環境藝術發展概況 ， 吳虹霏](https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/)  [瘖啞自然的傳聲者：本末工作室與希比樂．諾伊邁爾於《空．談》個展的對話 ， Sybille Neumeyer ， Wu, Hung-fei (翻譯、整理)](https://www.heath.tw/nml-article/nature-more-studio-a-conversation-with-sybille-neumeyer-on-mute-dialogues/)  [冷戰再分配的不可能─談《羅莎的傷口》 ， 印卡](https://www.heath.tw/nml-article/the-impossibility-of-redistribution-review-on-rosas-wound/)  [臺北觀察報告：策展行動如何形塑源自亞洲的亞洲論述 ， Anabelle Lacroix ， 王聖智 (翻譯)](https://www.heath.tw/nml-article/a-report-from-taipei-on-the-role-of-curatorial-actions-in-shaping-a-discourse-about-asia-from-asia/)  [Sebastien Tayac選譯—微觀政治學 ， Sebastien Tayac ， 鄭文琦 (翻譯)](https://www.heath.tw/nml-article/micropolitics-at-baan-noorg/)  [後台吶喊—以台灣現代劇場書寫測繪「在地實驗影音檔案庫」 ， 吳思鋒](https://www.heath.tw/nml-article/backstage-screaming-etat-archive-and-the-writing-of-theatres-of-the-1990s-in-taiwan/)   Footnote  註1. Jane Ingram Allen(艾婕音), GROWING GREEN ART:  [http://weadartists.org/taiwan-part-i](http://weadartists.org/taiwan-part-i)   註2. 邱子容，〈藝術作品中的環境概念之研究〉（2003）。    註3. 呂佩怡，〈當代藝術展覽在都市開發與更新與裡的角色〉。  [http://www.itpark.com.tw/people/essays_data/743/1634](http://www.itpark.com.tw/people/essays_data/743/1634)   註4. 吳瑪俐，見高美館館刊《藝術認證》，2006/6，第8期，頁28~31。    註5. 王志弘，〈藝術與環境永續性：過剩和融會的張力〉；國家文化藝術基金會「國際藝文趨勢觀察與情蒐計劃」專文評析。    註6. 見吳虹霏，〈朝向藝術與環境永續交會的政治象限〉；《數位荒原》。                  ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/a-report-from-taipei-on-the-role-of-curatorial-actions-in-shaping-a-discourse-about-asia-from-asia/
+- https://www.heath.tw/nml-article/backstage-screaming-etat-archive-and-the-writing-of-theatres-of-the-1990s-in-taiwan/
+- https://www.heath.tw/nml-article/micropolitics-at-baan-noorg/
+- https://www.heath.tw/nml-article/nature-more-studio-a-conversation-with-sybille-neumeyer-on-mute-dialogues/
+- https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+- https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/?lang=en
+- https://www.heath.tw/nml-article/the-impossibility-of-redistribution-review-on-rosas-wound/
+- https://www.heath.tw/nml-article/towards-a-political-coordinate-where-art-and-sustainability-intersect/
+- https://www.heath.tw/nml-issue/art-and-commitment/
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2017/02/吳瑪悧.jpg
+- https://www.heath.tw/wp-content/uploads/2017/02/晴耕雨讀.jpg
+- https://www.heath.tw/wp-content/uploads/2017/02/王文志.jpg
+- https://www.heath.tw/wp-content/uploads/2017/02/鄭波.jpg
+
+## External Links
+
+- http://weadartists.org/taiwan-part-i
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+- http://www.goethe.de/ins/cn/tai/prj/kuk/mag/kue/cn6388837.htm
+- http://www.itpark.com.tw/people/essays_data/743/1634
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Report%20on%20the%20Environmental%20Art%20in%20Taiwan&url=https://www.heath.tw/nml-article/report-on-the-environmental-art-in-taiwan/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA

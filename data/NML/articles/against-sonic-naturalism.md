@@ -1,0 +1,117 @@
+# Gabriele de Seta: Against Sonic Naturalism
+
+- Source: https://www.heath.tw/nml-article/against-sonic-naturalism/
+- Slug: against-sonic-naturalism
+- Type: nml-article
+- Published: 2018-09-04
+- Author: 胡子哥 ， 戚育瑄 (翻譯)， 林書全 (審稿)
+- Original Source: paranom.asia
+- NML Category: Sound Scene
+- Date Text: September 4th, 2018
+- Featured Image: https://www.heath.tw/wp-content/uploads/2018/09/04-BN1700x900-01-e1528789751470.jpeg
+
+## Excerpt
+
+去年底，我很榮幸地參與了一場有史以來最棒的學術會議—創新度十足：會議的名稱是「為思辨調音」（Tuning Speculation），主題大致上與聲音有關，2018年11月將在印第安納州的布盧明頓（Bloomington）舉行下屆會議。時間回...
+
+## Content
+
+[NO MAN'S LAND](https://www.heath.tw)      - [BROWSE](#)
+- [HOME](https://www.heath.tw)
+- [ISSUE](https://www.heath.tw/issue)
+- [ARTICLE](https://www.heath.tw/article)
+- [PODCAST](https://www.heath.tw/podcast)
+- [NAVIGATOR](https://www.heath.tw/navigator)
+- [CONTRIBUTOR](https://www.heath.tw/contributor)
+- [ANNOUNCEMENT](https://www.heath.tw/announcement)
+- [ABOUT](https://www.heath.tw/about)
+- [COPYRIGHT](#)
+- [CONTACT](#)
+- [SUBSCRIBE](#)
+- [ENGLISH](/nml-article/against-sonic-naturalism/?lang=en)
+
+      [![image](https://www.heath.tw/wp-content/themes/nomansland/img/n1.png)](https://www.heath.tw/?lang=en)   [![image](https://www.heath.tw/wp-content/themes/nomansland/img/no-man's-land-logo.png)](https://www.heath.tw)    [ENGLISH](/nml-article/against-sonic-naturalism/?lang=en) SEARCH MENU      Browse  [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [PODCAST](https://www.heath.tw/podcast) [NAVIGATOR](https://www.heath.tw/navigator) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   [ABOUT](https://www.heath.tw/about) [COPYRIGHT](#) [CONTACT](#) [SUBSCRIBE](#)    ISSUE Mar 2023  [BACK TO CARE](https://www.heath.tw/nml-issue/back-to-care/) [關照日常](https://www.heath.tw/nml-issue/back-to-care/)             Search here             Copyright Rights of the articles on No Man’s Land  are reserved to the original authors or media. No Man’s Land  is authorized to reproduce and distribute the articles freely. Users may distribute the articles on No Man’s Land  accordingly to the above terms of use, and shall mark the author, and provide a link to the article on No Man’s Land .  「數位荒原」網站上文章之著作權由原發表人或媒體所有，原發表人（媒體）同意授權本站可自由重製及公開散佈該文章。使用者得按此原則自由分享本站收錄之文章，且註明作者姓名、轉載出處「數位荒原」與網頁的直接連結。      Contact Please fill out your information to contact No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .            Name
+Email
+Message
+
+       Subscribe No Man's Land Please fill out your email to get the latest from No Man’s Land  . 
+ The information you supply will only be used by No Man’s Land  .    Your Email Address  [Unsubscribe No Man’s Land](https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5)  SEND            Gabriele de Seta: Against Sonic Naturalism Gabriele de Seta選譯—反對聲音自然主義  September 4th, 2018／ 類型：  Sound Scene         [http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/against-sonic-naturalism/](http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/against-sonic-naturalism/) [https://twitter.com/share?text=Gabriele%20de%20Seta%3A%20Against%20Sonic%20Naturalism&url=https://www.heath.tw/nml-article/against-sonic-naturalism/](https://twitter.com/share?text=Gabriele%20de%20Seta%3A%20Against%20Sonic%20Naturalism&url=https://www.heath.tw/nml-article/against-sonic-naturalism/) [https://plus.google.com/share?url=https://www.heath.tw/nml-article/against-sonic-naturalism/](https://plus.google.com/share?url=https://www.heath.tw/nml-article/against-sonic-naturalism/)   作者：  [胡子哥](https://www.heath.tw/contributor-single/?ID=48) ， 戚育瑄 (翻譯)， 林書全 (審稿)      出處： paranom.asia     作者藉著對於《電影耳》的評論提出反對聲音自然主義，留聲術的實踐與環境錄音的文類美學持續地由自然主義的認識論所建構，這種認識論多少強化聲音已僵化的自然主義本體論。在文字或視覺媒體中對自然主義再現的相關批判已進行好幾十年，聽覺媒體卻在這樣的批判中缺席，同時，還享有退回到自然主義本體知識中的特權，其中的原因，正是因為聲音的情感經驗，結合了我們對聆聽作為實踐的不熟悉感（與連帶產生的神話化），導致我們容易將聽覺的感官區理解為未經中介的真實振動領域。    [![image](https://www.heath.tw/wp-content/uploads/2018/09/cube2-1024x576.jpeg)](https://www.heath.tw/wp-content/uploads/2018/09/cube2.jpeg) KINO-EAR: Audio Document / Audio Documentary; photo courtesy of TheCube Project   去年底，我很榮幸地參與了一場有史以來最棒的學術會議—創新度十足：會議的名稱是「為思辨調音」（Tuning Speculation），主題大致上與聲音有關，2018年11月將在印第安納州的布盧明頓（Bloomington）舉行下屆會議。時間回到去年底，在當時的演講中，我語無倫次的抱怨自從2006年我拿起錄音機，開始帶著錄音帶閒晃，所遭遇到關於環境錄音（原文：field recordings，作為一種文類、實踐與美學）的問題，講題為〈後自然主義、反自然主義與非自然主義：留聲術的突破〉（Postnaturalism, Antinaturalism, Unnaturalism: Pushing phonography beyond its field），部份演講的錄影片段過不久就會放上網；即興撰寫的演講稿中，藉由一些我最喜歡的聲音藝術家的作品，來發展我早先在播客節目中已構思出的些許想法，這篇部落格文章則是對自身論點的遲來省視、這些論點的初步文字化，離成為可提交同儕審查的正式論文還有好一段距離。歡迎各方表達不同意見，因為我可能需要用好些篇幅鋪陳我的提問與處理潛在的反對意見。
+
+ 我主要的論點是，留聲術的實踐與環境錄音的文類美學持續地（最麻煩的是，仍是）由自然主義的認識論所建構，這種認識論在很多情況下，強化了在聲音方面已僵化的自然主義本體論。我偏向對聲音自然主義提出批判，但不是全然地拒絕—我們太常在不假思索的情況下，將聽覺預設為一種舒適的形式，這種形式也輕易地凝結成透明的意識形態。在文字或視覺媒體中對自然主義再現的相關批判已進行好幾十年，聽覺媒體卻在這樣的批判中缺席，同時，還享有退回到自然主義本體知識中的特權，其中的原因，我認為是因為聲音的情感經驗，結合了我們對聆聽作為實踐的不熟悉感（與連帶產生的神話化），導致我們容易將聽覺的感官區理解為未經中介的真實振動領域。這些論點仍需要有說服力的闡述，我也仍在閱讀與我論點相近的文章，然而，就在幾週前，我無意間撞見了一個展覽，這個巧合強迫我回頭思考我最感興趣的聲音自然主義的再現：一隻孤獨的高科技麥克風裹在毛茸茸的防風罩中、踩著三腳架豎立在田野之中。
+
+ 多次參訪《電影耳：記錄聲音／聲音紀錄》（KINO-EAR: Audio Document / Audio Documentary）是催生本文最大的原因，那是個討喜的展覽，策展人澎葉生（Yannick Dauby）是名聲音工作者、錄音師與作曲家，該展覽在臺北立方計劃空間公開展出至2018年七月初止；《電影耳》由台灣國家電影中心與TIDF台灣國際紀錄片影展共同籌辦，主要展出一系列來自台灣、日本、香港、法國、英國、美國與澳洲的聲音作品，這些作品幾乎都以錄音為基礎，如同策展記事中所強調的，《電影耳》所帶來的體驗明顯是聽覺性的：「本展透過聆聽空間與展示多形態的媒體，如文件和照片，呈現以聲音譜寫的故事、場景、事件與聽覺的描寫。」當聲音被賦予編織場景與敘事的任務時，就精準再現、立即再現和真實再現的主要訴求而言，聲音的建構對詞彙敘述與紀錄的倚賴應早已引起大家的注意，而這些主要訴求皆相當輕易地便屬於聲音所有。當我走上展場時，羅偉珊（Susi Law）記錄香港小販的作品安放在樓梯井中，其名稱似乎給了我合理的建議：「[唔買都嚟聽吓](http://www.thelibrarybysoundpocket.org.hk/meanderings_artist_commission/come-and-listen-even-though-you-are-not-going-to-buy-it-by-susi-law/?post_type=listen)」（不買都來聽一下）。
+
+ 就在《電影耳》入口處，醒目的展場文案為錄音實踐提供了相當一致的論述，並強調了錄音師形象—若你支持非人能動性（non-human agencies），這不會是太好的架構：
+
+    [![image](https://www.heath.tw/wp-content/uploads/2018/09/cube4-1024x576.jpeg)](https://www.heath.tw/wp-content/uploads/2018/09/cube4.jpeg) David Toop, "Lost Shadows: In Defence of the Soul – Yanomami Shamanism, Songs, Ritual, 1978", KINO-EAR: Audio Document / Audio Documentary; photo courtesy of TheCube Project   > 錄音師是一群喜歡用耳朵「觀看」世界的人。他們以麥克風和耳機為介，閲讀自身周遭的音景地貌：林林總總的錄音工具把聲音轉換為文件，時而過濾、時而強化，彰顯內部細節和／或營造距離。在錄音機的記錄下，聲音事件得以保存為可追溯的物理痕跡。然而，記錄並不訴諸中立，音源物和音訊軌跡之間，必然存在空間及時間的位移。從錄音師的身體性移動，到收音器材的機械性差異，聆聽的姿態無不烙在最終呈現的聲音樣貌上。
+
+ 在此，自然主義的認識論再明顯不過，熟悉人類學對於觀察與詮釋的批評的觀眾甚至可以聽出絃外之音；我們對以時間為基礎的媒介再現部份與建構之自然的理解，例如以（由濾波、增強、裁切與距離調整等行為所形成的）聲音進行再現，某種程度上成為廣受歡迎的自我反思時，聲音會被非中立的錄音實踐改變的看法則會依尋自然主義之本體論，認定聲響事件（acoustic events）存在於中立、原初且自然的狀態中。
+
+ 釘在展場入口的五個關鍵字定義，很明顯地表達我持續嘗試勾勒的那種聲音自然主義：**聲音自然主義者**（audio-naturalist）、**音景**（soundscape）、**音聲意義學**（acoustemology）、**聲波報導**（sonic journalism）與**記錄聲音／聲音紀錄**。聲音自然主義者在這裡被描述為錄音師的一種子類型，專門處理自然聲且美學方法論傾向「倚賴技術品質和錄音環境的『純粹性』」；音景的定義與聲音環境相反，是「聆聽一個地方的過程」，其起源要追溯到雷蒙薛佛（R. Murray Schafer）對於錄音純淨性的迷戀；音聲意義學可透過史蒂芬．費爾德（Steven Feld）將聲響理解為「把聲音視為產生意義、理解與體驗事實之主要角色的方式」來說明；聲波報導則立基於彼得．科薩克（Peter Cusack）的一席話：「所有的聲音，包括非語言（non-speech），都給予我們與地方和事件相關的資訊，仔細地聆聽提供了珍貴的洞見，雖然和視覺圖像與語言有所不同，但是卻與其相輔相成。」最後，在彭葉生自己的定義下，記錄聲音／聲音紀錄或多或少透過錄音師分享他們的感官經驗所建構的敘事。這些關鍵字因為《電影耳》一展而被集結時，意義是可以相互交換的，也使我歸結出一種可運用的定義，我稱之為「聲音自然主義」：音景的錄製透過專心聆聽，做為一種捕捉現實、生產報導或記錄知識的方式。
+
+ 策展籌備時，若有部份作品跳脫展覽的框架機制，與之矛盾並提出挑戰，便是成功的好預兆。我坐在第一個展間，那是個有兩組音響的無光空間，地上鋪滿了黑色的坐墊，是為了許多聲音紀錄所設計。很巧的是，在我耳邊迴盪的是費爾德（Steven Feld）1983年的多軌錄音作品，〈叢林之聲〉（Voices in the Forest），該作品主要是用來解釋與宣揚他自己對於音聲意義學的構想；費爾德多年在卡魯利族人（Kaluli people）的部落進行田野工作，這讓他的作品強調透過合作與對話性的練習來錄製、詮釋與再現雨林時而展現出的可能性，這種可能性「在一個多音與多知共存的世界中，是聆聽歷史中最深切的一種聆聽」（Feld, 2017）。這種直觀的方式讓我們能夠重新檢視環境錄音，將其視為一個整體，但當費爾德這件作品被好幾個本用來打擊與顛覆的關鍵字—最明顯的，包括音景這個概念—所包圍時，此作品已不再是先驅性，只剩下繽紛的氛圍：以參與的方式研究當地人聆聽認知事物的方式，以及音聲意義學的觀點（也許是費爾德對於聲音人類學最重要的貢獻），都在用卡魯利歌謠點綴的神秘木刻聲中喀啦喀啦的消失了。
+
+ 接下來的幾個聲音紀錄—蓋爾．謝閣蘭（Gael Segalen）的〈空計程車〉（Empty Cab）與珍荷貝（Jeanne Robet）和佩利・梅禾蘇（Pali Meursault）的〈無票〉（ No Ticket）—更徹底介紹了對於親密關係與敘事構成的趨向。謝閣蘭描繪了在舊金山的一趟計程車程的小插曲，後者主打從義大利前往法國的火車上的乘客講述的第一人稱敘事，在電子音效的表層下，其埋藏了少數的自然主義留聲術，產生了懸疑又親密的情感敘事。如果用自然主義典範來批評這些作品，可能會對其產生嚴重的損害，因為這些作品關注的主題是都市移動與岌岌可危的身份認同，為此一文類帶來了耳目一新的逆轉。相反的，彭葉生的聲音記錄—〈山林〉（Forest），是在北台灣山間錄製的一段20分鐘剪輯，鋪滿了「美麗的音景、平和的荒野再現」的口述宣言，提供教科書所需要的自然主義認識論的例子：中文翻譯削弱原住民男性的聲音，兩則宣言都教誨式的描述住在森林裡的原住民「仍保有他們祖先的故事」，而將細微的聲音背景給淹沒了。相似地，台灣藝術家許雁婷（Yen-ting Hsu）的〈水上樂園〉（Waterland），為一件關於台灣沿海地區生活的15分鐘的作品，在舒服的海潮聲片段中挾帶當地居們談話，與偶爾出現在背景的台語流行歌曲：最具特色的是這作品給人一種感覺，就像是未經省思的在這些地方偷錄了模模糊糊的日常生活場景，就如其中一個女人所說的，能「帶你靠近自然、靠近生活」。
+
+ 展場第二個房間中展示了能間接稱為聲音紀錄的作品，聲音之外，同時帶有圖像或文字成份，最好的例子就是大衛．圖伯（David Toop）的〈消失的影子：為靈魂辯護—亞諾瑪米族的薩滿教、歌曲、儀式與（19）〉（*Lost Shadows: In Defence of the Soul – Yanomami Shamanism, Songs, Ritual, 1978*），儘管已經聽過此作品的CD版多次，還是讓我驚豔。這件作品與許多照片和原版附文的摘錄陳列在一起，無法將自身立於民族音樂學的定位，錄音師渴望降服於—若不是英雄式的，便是—美學式的聽覺實踐：「我在這裡沒有語言，在這個環境中我很無助，迷失時，我必須聆聽，透過更深度的聆聽我孤獨地移動，我是為了移動我的身體而傾聽，為了收集聲響，並將其帶進我的身體，作為修復。」
+
+    [![image](https://www.heath.tw/wp-content/uploads/2018/09/cub3-1024x576.jpeg)](https://www.heath.tw/wp-content/uploads/2018/09/cub3.jpeg) Peter Cusack, "Sounds from Dangerous Places", KINO-EAR: Audio Document / Audio Documentary; photo courtesy of TheCube Project   然而，圖伯也對自己的荒唐定位有所意識，已預備好驅除雅諾瑪米族的異國風情：
+
+ > 在影片的儀式中，看不見任何「集合體」心理學或凝聚力，男人聚在一起聊天嬉笑就好像在討論人生的荒謬或聲音錄音師的荒謬⋯他們說的是這些外國人笨的想要錄下他們的音樂，他們接著會輕易的捉弄我們。
+
+ 深入雅馬遜叢林，被留聲術捕捉、奴役進而迷失，圖伯指出也面對人類學與民族音樂學的主要問題，構思出對於自然主義的超自然批判，此一批判也適用於在展場中將我包圍的大多數的作品中：「等著一架飛機飛過頭頂或一輛摩托車消失在地平線、把干擾後製掉或在按下錄音鍵之前除掉不想要的聲音⋯等行為都是名在再現一則事件上有高度選擇性理想化的作者會做的事。」
+
+ 這個房間的對面，類似格局的擺放著照片、小冊子與耳機，裡頭有著我一直想要好好聽的作品：彼得・科薩克（Peter Cusack）的〈來自危險地域的聲音〉（*Sounds from Dangerous Places*），這件作品無疑是整個展最有趣的作品，作為聲波報導的樣板，科薩克體現了自然主義本體知識的核心矛盾。隨著便宜的錄音設備出現、方便的數位發行模式進入了環境錄音，錄音師似乎被迫捨棄自然性的聲音採集，轉進難以抵達或較危險的區域，以科薩克的例子來說，就是災區、核能基地與軍事區，關鍵是—「極端或惡劣條件」。科薩克分別在2006與2007年去了兩趟車諾比的隔離區，他作品中迷人的內在邏輯便是少數的聲音與物質細節，且免去了強化災難視覺的陰森感，同時，藉由納入輻射計的嗶嗶聲、發電機的電子轉動聲與被污染的洗衣機發出的放射線的嘶嘶聲，挑戰了對於聲響的忠誠的既存界限。科薩克問：「我們可以從聆聽危險地區的聲音中學到什麼？」他作品毫無驚喜的給出熟悉答案：氾濫的科技發展逐步蠶食傳統的生活模式，在災難的陰影底下，自然回頭重新殖民「無擾的和平之地」、在地的知識很明理的講述人與自然完全相互依靠的關係—我們容易認同這點，也很容易會要求很多。
+
+ 到現階段為止，我對於聲音自然主義的批判既不清楚也不能輕易打發，在《電影耳》中許多我還沒有提到的作品某種程度上都是支持自然主義本體知識的例子，不論是藉由將錄製好的聲音表現為聲響事件的中立記錄，或者倡導聆聽做為間接理解這個世界的方式；此類框架最明顯的標註也許是偏遠的美學化：在菲利浦・薩馬濟斯（Philip Samartzis）的〈南極，缺席的存在〉（Antarctica, an Absent Presence）之中，在南極的環境錄音被描述為「鬼魅般的地勢，由強烈的缺席感、空、白、荒蕪與沈默標示出的創新區域」，薩馬濟斯承認南極常刻板地被認為是荒野的最後一道防線，同時他也主張留聲術應抓緊對於真實的追尋：「南極有太多沒有說出口的秘密需要被探尋，這些秘密隱藏了更精準的真實」。賽德里克・昂格萊特（Cédric Anglaret）與尼古拉・沛赫（Nicolas Perret）的環境錄音作品〈斯瓦涅季〉（Suania）是關於歐洲至高的居住區，藉由將聲響的偏遠性與本體距離連結以合理化其存在：「信仰與非常傳統的生活方式是獨特音景的樑柱，在此，嚴苛與壯麗的自然環境都與儀式性的唱誦和典禮有關。」幸運的是，在小螢幕上重複播放的古怪音像，提供這種無污染的傳統與嚴峻環境的自然主義困局一條脫逃之路，那是布魯姆（Felix Blume）的作品〈獨立聲帶 #1-#19〉（Wild Tracks #1-#19），這是一組描述一名聲音工程師為了錄製電影與紀錄片後製需要使用的「寂寞聲音」的工作過程，此作品成功地凸顯人為的荒謬，同時，作為聽者，我們卻會將這些人造之聲理直氣壯的歸類為「自然」之聲。
+
+     [![image](https://www.heath.tw/wp-content/uploads/2018/09/P_20180523_171701-1024x576.jpg)](https://www.heath.tw/wp-content/uploads/2018/09/P_20180523_171701.jpg) Felix Blume, "Wild Tracks #1-#19", KINO-EAR: Audio Document / Audio Documentary; photo courtesy of artist   我在展場內聆聽、觀看、閱讀了好幾個小時，《電影耳》大方地敦促我開始琢磨環境錄音的語彙與擠出對於聲音自然主義的批判，目前這還不是最有說服力的版本，當我在展場中悠緩的從坐墊移動到椅子上再到凳子上，持續干擾我的便是此展的名稱，電影耳這個字本身帶有強烈的對比。維多夫（Dziga Vertov）使用的字首Kino-（電影的-）召喚了電影影像的流動性，延伸的合成字如「電影眼」（kino-eye）與「電影真實」（kino-pravda）都替反再現與敘事的非記錄形式建構主義定調。在現今的留聲術之中，聲音自然主義與其本體知識仍是潮流，似乎與維多夫的論調相對，在維多夫的命題裡，透過非人耳的引進，能刺激環境，進而捕捉逃離人類聽覺感知的事物。在一切變得過度複雜之前，援引胡許（Jean Rouch）對於維多夫的閱讀也許有助於打破我們正在兜的圈子：
+
+ > 環境改變單純的觀察者；當進入工作狀態，這個人便不再是會問候村莊邊緣的舊時代人的那個人了，這裡我再用維多夫的造詞法，這個觀察者已戴上「民族濾鏡」、作「民族觀察」與「民族思考」；一旦當地人確認了這個非我族的常態訪客，他們也會在與之聯繫時產生平行的改變，他們作「民族展演」、「民族談話」，最終，他們進行「民族思考」（Jean Rouch, quoted in *Stoller*, 1992）。
+
+ 環境也改變單純的錄音師，從這點開始，也許會比較好將環境自然主義的批判，轉移至聲音的「後」自然主義、「反」自然主義與「非」自然主義的闡述。
+
+  **參考文獻:**
+
+ — Feld, Steven (2017). “On Post-Ethnomusicology Alternatives: Acoustemology”, in F. Giannattasio & G. Giuriati (eds.), *Perspectives on a 21st century comparative musicology: Ethnomusicology or transcultural musicology?*, Udine, Italy: Intersezioni Musicali (pp. 83-98).
+
+ — Stoller, Paul (1992). *The cinematic griot: The ethnography of Jean Rouch*. Chicago, IL: The University of Chicago Press.
+
+          See Also  [反对声音自然主义 | Against Sonic Naturalism ，Gabriele de Seta](http://paranom.asia/2018/06/against-sonic-naturalism/)              ![image](https://www.heath.tw/wp-content/themes/nomansland/img/footer_logo_03.png)   荒原是關於網路群聚的、流竄的、裂解又多變的時間性。 數位荒原上所發生的一切，正是後設媒體（meta-media）時代所見證的真實及非真實。    Browse [HOME](https://www.heath.tw) [ISSUE](https://www.heath.tw/issue) [ARTICLE](https://www.heath.tw/article) [CONTRIBUTOR](https://www.heath.tw/contributor) [ANNOUNCEMENT](https://www.heath.tw/announcement)   Resource [在地實驗](http://www.etat.com) [數位藝術基金會DAF](http://www.dac.tw/) [亞洲城市串流](http://projectglocal.heath.tw/)   Share [Twitter](https://twitter.com/nml_sea) [Youtube](https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA) [Facebook](https://www.facebook.com/projectglocaltaipei/)   No Man's Land © maintained by [ET@T](http://www.etat.com/), 2011-2020 Design By [A COPY OF A COPY](http://www.acopyofacopy.com) 2016
+
+## Internal Links
+
+- http://projectglocal.heath.tw/
+- https://www.heath.tw
+- https://www.heath.tw/?lang=en
+- https://www.heath.tw/about
+- https://www.heath.tw/announcement
+- https://www.heath.tw/article
+- https://www.heath.tw/contributor
+- https://www.heath.tw/contributor-single/?ID=48
+- https://www.heath.tw/issue
+- https://www.heath.tw/navigator
+- https://www.heath.tw/nml-article/against-sonic-naturalism/?lang=en
+- https://www.heath.tw/nml-issue/back-to-care/
+- https://www.heath.tw/podcast
+- https://www.heath.tw/wp-content/uploads/2018/09/P_20180523_171701.jpg
+- https://www.heath.tw/wp-content/uploads/2018/09/cub3.jpeg
+- https://www.heath.tw/wp-content/uploads/2018/09/cube2.jpeg
+- https://www.heath.tw/wp-content/uploads/2018/09/cube4.jpeg
+
+## External Links
+
+- http://paranom.asia/2018/06/against-sonic-naturalism/
+- http://www.acopyofacopy.com
+- http://www.dac.tw/
+- http://www.etat.com
+- http://www.etat.com/
+- http://www.facebook.com/sharer/sharer.php?u=https://www.heath.tw/nml-article/against-sonic-naturalism/
+- http://www.thelibrarybysoundpocket.org.hk/meanderings_artist_commission/come-and-listen-even-though-you-are-not-going-to-buy-it-by-susi-law/?post_type=listen
+- https://heath.us13.list-manage.com/unsubscribe?u=413ffbf65dd5f653e704243f3&id=f193e36af5
+- https://plus.google.com/share?url=https://www.heath.tw/nml-article/against-sonic-naturalism/
+- https://twitter.com/nml_sea
+- https://twitter.com/share?text=Gabriele%20de%20Seta%3A%20Against%20Sonic%20Naturalism&url=https://www.heath.tw/nml-article/against-sonic-naturalism/
+- https://www.facebook.com/projectglocaltaipei/
+- https://www.youtube.com/channel/UCJrUlGedGNulc-l6FFb75lA
