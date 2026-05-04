@@ -4,9 +4,13 @@
  *
  * 原理：
  *   1. 開文章頁 `?shot=1` 模式（hero only、無 nav/footer/body）
- *   2. 等 justfont SDK 真的把 `rixingsong-semibold` 注入到 `.hero-title`
+ *   2. 等 justfont SDK 真的把 `jf-lanyanghei` 注入到 `.hero-title`
  *      否則截出來會是 fallback 字體
  *   3. screenshot 整個 viewport 存 PNG
+ *
+ * 註：原本等 `rixingsong-semibold`，但 2026-05-04 發現 justfont CDN 該檔
+ * woff binary 壞掉（FontFace API reject），所以 .hero-title 改 fallback
+ * 到 lanyanghei-extraheavy（與一般 h1 同字體）。等 justfont 修好可改回。
  *
  * DNA #26 v2 合規：AI 自主生圖屬「內部處理」，Post 到 Threads/X 仍然
  * 是 human only。本腳本只產檔不發文。
@@ -146,23 +150,23 @@ if (!outPath) {
 
   if (!skipFontWait) {
     // Wait for justfont SDK to replace .hero-title's font-family with
-    // rixingsong-semibold. Without this the screenshot captures a
-    // fallback serif and the spore loses its visual brand.
-    console.log('[spore-image] waiting for justfont rixingsong...');
+    // jf-lanyanghei (extraheavy). Without this the screenshot captures
+    // a fallback sans-serif and the spore loses its visual brand.
+    console.log('[spore-image] waiting for justfont lanyanghei...');
     try {
       await page.waitForFunction(
         () => {
           const h1 = document.querySelector('.hero-title');
           if (!h1) return false;
           const ff = getComputedStyle(h1).fontFamily || '';
-          return ff.toLowerCase().includes('rixing');
+          return ff.toLowerCase().includes('lanyanghei');
         },
         { timeout, polling: 200 },
       );
-      console.log('[spore-image] ✅ rixingsong applied');
+      console.log('[spore-image] ✅ lanyanghei applied');
     } catch (e) {
       console.warn(
-        `[spore-image] ⚠️ justfont timeout after ${timeout}ms — screenshot will use fallback serif. ` +
+        `[spore-image] ⚠️ justfont timeout after ${timeout}ms — screenshot will use fallback sans-serif. ` +
           `Re-run with --no-font-wait to silence.`,
       );
     }

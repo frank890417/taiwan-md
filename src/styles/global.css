@@ -445,6 +445,34 @@
 }
 
 /* ==========================================================================
+ * .hero-title font-family override — must live OUTSIDE @layer base.
+ *
+ * justfont SDK injects `.jf-active .hero-title { font-family:
+ * rixingsong-semibold }` (single name, no fallback chain) into a runtime
+ * `<style>` tag at end of <head>. CSS @layer cascade rule: any rule outside
+ * a layer ALWAYS wins over rules inside layers, regardless of specificity
+ * — so an `@layer base { ... }` declaration can never beat justfont's
+ * unlayered injection.
+ *
+ * Putting this rule outside @layer base lets it compete on specificity:
+ *   - SDK rule:   `.jf-active .hero-title`           (0,0,2,0)
+ *   - This rule:  `html.jf-active .hero-title`       (0,0,2,1)  ← wins
+ *
+ * Effect: hero titles try rixingsong first; if its woff fails to parse
+ * (broken justfont CDN subset, e.g. titles containing `鴞`), browser
+ * gracefully falls through to Noto Serif TC instead of UA-default serif.
+ *
+ * Food articles still get kamabit because `.jf-active .jf-food h1`
+ * (0,0,2,1) ties this rule on specificity — both unlayered, source order
+ * decides, and SDK's `<style>` is appended at runtime AFTER this static
+ * link, so kamabit wins for food. (We tested: works.) 2026-05-04.
+ * ========================================================================== */
+html.jf-active .hero-title {
+  font-family:
+    'rixingsong-semibold', 'Noto Serif TC', 'Source Han Serif TC', serif;
+}
+
+/* ==========================================================================
  * Global @keyframes — animation names that need to be referenced from
  * inline `animation: var(--anim) ...` rules (which can't resolve inside
  * Tailwind arbitrary utilities unless the keyframes live at a global

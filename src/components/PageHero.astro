@@ -21,8 +21,11 @@
  * OR a named slot (rich HTML). Slot wins when both are present.
  *
  * IMPORTANT: the `hero-title` class on the <h1> is a hook used by
- * justfont's dynamic loader to apply the rixingsong-semibold face.
- * Do not remove it — see about.template.astro:1433-1437 for context.
+ * justfont's dynamic loader to apply the heading face. As of 2026-05-04
+ * that face is jf-lanyanghei-extraheavy (was rixingsong-semibold until
+ * justfont's CDN started serving a malformed woff for that font; see
+ * Layout.astro for full context). Do not remove the class — see
+ * about.template.astro:1433-1437 for downstream usage.
  */
 
 export interface Props {
@@ -50,9 +53,10 @@ export interface Props {
    */
   titleSize?: 'sm' | 'md' | 'lg' | 'clamp';
   /**
-   * display (default) = `hero-title` class → rixingsong-semibold via
-   *                     justfont's dynamic loader. Use for big display
-   *                     headers (聲景/資源/參與/地圖/數據).
+   * display (default) = `hero-title` class → jf-lanyanghei-extraheavy via
+   *                     justfont's dynamic loader (was rixingsong-semibold
+   *                     until 2026-05-04). Use for big display headers
+   *                     (聲景/資源/參與/地圖/數據).
    * sans              = jf-jinxuanlatte / Noto Sans TC stack, no
    *                     `hero-title` class. Use for utility/docs pages
    *                     (assets/changelog) where the big editorial face
@@ -146,8 +150,9 @@ const titleSizeClass = {
 
 // ── Title font stack ──
 // 'display' applies the `hero-title` class so justfont's dynamic
-// loader swaps in rixingsong-semibold. 'sans' opts out and uses
-// jf-jinxuanlatte — picked by pages with a more utility/docs feel.
+// loader swaps in jf-lanyanghei-extraheavy (was rixingsong-semibold
+// until 2026-05-04). 'sans' opts out and uses jf-jinxuanlatte —
+// picked by pages with a more utility/docs feel.
 const titleFontClass =
   titleFont === 'display'
     ? 'hero-title'

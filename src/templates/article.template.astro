@@ -69,10 +69,12 @@ const {
 const langPath = lang === 'zh-TW' ? '' : `${lang}/`;
 const langUrlPrefix = lang === 'zh-TW' ? '' : `/${lang}`;
 
-// Per-lang prose font (Tailwind utility tokens used in template body).
-// Latin langs (en/es/fr) use Inter; CJK langs use Noto Serif {TC,JP,KR}.
+// Per-lang prose font (wired into <style define:vars> below as --prose-font).
+// zh-TW uses jf-jinxuanlatte (justfont 金萱拿鐵) to match site body cascade
+// — restored 2026-05-04 after Tailwind migration silently flipped it to
+// Noto Serif TC. en/es/fr use Inter; ja/ko use Noto Serif JP/KR.
 const proseFontMap: Record<string, string> = {
-  'zh-TW': "'Noto Serif TC',serif",
+  'zh-TW': "'jf-jinxuanlatte','Noto Sans TC','Source Han Sans TC',sans-serif",
   en: "'Inter',system-ui,sans-serif",
   ja: "'Noto Serif JP',serif",
   ko: "'Noto Serif KR',serif",
@@ -348,7 +350,7 @@ const encodedTitle = encodeURIComponent(title);
       category={category}
       categoryName={categoryInfo.name}
       categoryColor={categoryInfo.color}
-      coverImage={categoryInfo.cover}
+      coverImage={frontmatter.image ? '' : categoryInfo.cover}
       slug={slug}
       lang={lang}
     />
@@ -439,6 +441,53 @@ const encodedTitle = encodeURIComponent(title);
                 {t('article.lifeTree.viewTree')}
               </span>
             </a>
+          )
+        }
+
+        <!-- Hero image (if frontmatter declares one) — moved out of the
+             ArticleHero background and into the article body so its
+             credit/license info has visible context. Hero section above
+             becomes solid color when frontmatter.image is set; articles
+             without an explicit image still get the category default cover
+             behind the hero. 2026-05-04. -->
+        {
+          frontmatter.image && (
+            <figure class="mb-10 max-[640px]:-mx-2">
+              <img
+                src={frontmatter.image}
+                alt={title}
+                loading="eager"
+                class="aspect-[16/9] w-full rounded-2xl object-cover"
+              />
+              {(frontmatter.imageCredit ||
+                frontmatter.imageLicense ||
+                frontmatter.imageSource) && (
+                <figcaption class="mt-3 px-1 font-['Inter',system-ui,sans-serif] text-[0.78rem] leading-relaxed text-[rgba(26,60,52,0.6)]">
+                  {frontmatter.imageCredit && (
+                    <span>
+                      {t('article.imageCredit') || '圖片'}：
+                      {frontmatter.imageCredit}
+                    </span>
+                  )}
+                  {frontmatter.imageLicense && (
+                    <span> · {frontmatter.imageLicense}</span>
+                  )}
+                  {frontmatter.imageSource && (
+                    <span>
+                      {' '}
+                      ·{' '}
+                      <a
+                        href={frontmatter.imageSource}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {t('article.imageSource') || '原始來源'}
+                      </a>
+                    </span>
+                  )}
+                </figcaption>
+              )}
+            </figure>
           )
         }
 
@@ -946,6 +995,7 @@ const encodedTitle = encodeURIComponent(title);
   define:vars={{
     catColor: categoryInfo.color,
     catColorLight: categoryInfo.colorLight,
+    proseFont,
   }}
 >
   /* ── Screenshot mode (?shot=1) global overrides moved to <style is:global>
@@ -971,7 +1021,7 @@ const encodedTitle = encodeURIComponent(title);
      — these `:global()` rules are essential because the markdown
      elements can't be reached by Tailwind classes) ─────────────── */
   .prose {
-    font-family: 'Noto Serif TC', serif;
+    font-family: var(--proseFont);
     font-size: 1.05rem;
     line-height: 1.72;
     color: #2c2c2c;
@@ -1020,6 +1070,13 @@ const encodedTitle = encodeURIComponent(title);
     text-decoration: underline;
     text-decoration-color: rgba(0, 109, 119, 0.35);
     text-underline-offset: 3px;
+    /* Cancel global.css's `main a:not(...)` border-bottom — that rule lives
+       inside `@layer base` so unlayered rules (this one) win for declared
+       properties only. Without explicitly nulling border-bottom, BOTH the
+       layered border AND this layer's text-decoration render → visible
+       double underline (reported 2026-05-04). */
+    border-bottom: none;
+    padding-bottom: 0;
     transition: text-decoration-color 0.2s;
   }
   .prose :global(a:hover) {

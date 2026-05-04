@@ -120,10 +120,12 @@ const categoryUrl = translatePath(`/${category}`);
       {categoryName}
     </div>
 
-    <!-- Title — `.hero-title` class kept as hook: the justfont
-         script in Layout.astro injects `font-family: rixingsong-semibold`
-         (日星初號楷體) on `.jf-history h1, .hero-title`. No inline
-         font-family here so the injection wins. -->
+    <!-- Title — `.hero-title` class kept as hook: justfont's `h1` rule
+         in Layout.astro injects `font-family: jf-lanyanghei` (extraheavy)
+         site-wide. (Was rixingsong-semibold until 2026-05-04, when
+         justfont's CDN started serving a malformed woff for that face;
+         see Layout.astro for full context.) No inline font-family here
+         so the injection wins. -->
     <h1
       class="hero-title mb-4 max-w-[820px] text-[clamp(2rem,5vw,3.4rem)] font-bold leading-[1.2] tracking-[0.01em] text-[#f8f1e9] max-[640px]:text-[1.85rem]"
     >

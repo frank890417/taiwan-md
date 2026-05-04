@@ -47,7 +47,16 @@ const {
 
 // Search index now loaded via /api/search-index.json (fetch API)
 const isEn = lang === 'en';
-const categorySlug = category?.toLowerCase() || '';
+// categorySlug: prefer the English URL slug passed explicitly (e.g. 'food',
+// 'history') so the body's `jf-{slug}` class matches the English selectors
+// the justfont SDK config below uses (`.jf-food h1`, `.jf-history h1`).
+// Pre-2026-05-04 this took `category?.toLowerCase()` which ALSO captured the
+// localized display name (`自然`, `美食`) and produced classes like `jf-自然`
+// that no SDK selector matched — the category-specific font rules were dead
+// in production. Falling back to the old behavior for callers that don't
+// pass categorySlug (utility pages still get `jf-${category}` like before).
+const categorySlug =
+  propCategorySlug?.toLowerCase() || category?.toLowerCase() || '';
 const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
 const isHome = currentPath === '/' || currentPath === '/en';
 
@@ -197,9 +206,24 @@ const jfClass = [
       _jf.push(['_setFont', 'jf-lanyangming-book', 'css', 'main blockquote']);
       _jf.push(['_setFont', 'jf-lanyangming-book', 'alias', 'jf-lanyangming']);
       _jf.push(['_setFont', 'jf-lanyangming-book', 'weight', 300]);
-      _jf.push(['_setFont', 'jf-kamabit', 'css', '.jf-food h1, .hero-title']);
+      _jf.push(['_setFont', 'jf-kamabit', 'css', '.jf-food h1']);
       _jf.push(['_setFont', 'jf-kamabit', 'alias', 'jf-kamabit']);
       _jf.push(['_setFont', 'jf-kamabit', 'weight', 700]);
+      // rixingsong-semibold: applied to .hero-title (site-wide hero titles)
+      // AND .jf-history h1 (history articles). Status as of 2026-05-04:
+      // justfont's rixingsong subsetter is **character-set dependent broken**:
+      //   ✅ /history/二二八事件 → loaded
+      //   ✅ /history/19世紀的樟腦戰爭：世界要的香氣，藏在原住民的山 → loaded
+      //   ❌ /nature/黃魚鴞:六公里溪流養一對,1,800 公尺烏心石上的夜行猛禽
+      //      → FontFace `Invalid font data` (probable trigger: rare glyph
+      //      `鴞` missing from rixingsong master, or ASCII punctuation).
+      // Other 5 site fonts parse cleanly across all subsets tested.
+      // SDK injects single-name `font-family: rixingsong-semibold` (no
+      // fallback chain) — global.css overrides with a chain rule scoped to
+      // `html.jf-active .hero-title` so when rixingsong fails to load the
+      // browser falls back to Noto Serif TC instead of UA-default serif.
+      // .jf-history h1 takes its fallback from the static .jf-history h1
+      // rule in global.css (also rixingsong → Noto Serif TC chain).
       _jf.push([
         '_setFont',
         'rixingsong-semibold',
