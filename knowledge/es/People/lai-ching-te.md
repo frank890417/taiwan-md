@@ -1,177 +1,182 @@
 ---
-title: "Lai Ching-te: From Miner's Family to Public Health Physician in the Presidential Office"
-description: "The 16th President of Taiwan, the first political figure in the constitutional history of the Republic of China to run for president as Vice President and successfully win election."
-date: 2026-03-19
-tags: ['President', 'Physician', 'Political Figure', 'Democratic Progressive Party', 'Public Health', 'Tainan']
-subcategory: 'Politics and Democracy'
-author: 'Taiwan.md'
-category: 'People'
-readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
-translatedFrom: 'People/Lai Ching-te.md'
-sourceCommitSha: '2d0c126f'
-sourceContentHash: 'sha256:db48b107f3fcda38'
-translatedAt: '2026-05-04T00:58:18+08:00'
+title: 'Lai Ching-te: del distrito minero al Palacio Presidencial, un médico de salud pública'
+description: 'Decimosexto presidente de la República de China (Taiwán) y primer político en la historia constitucional en postularse y ganar la presidencia desde el cargo de vicepresidente.'
+date: '2026-03-19'
+tags:
+  - presidente
+  - médico
+  - figura política
+  - Partido Democrático Progresista
+  - salud pública
+  - Tainan
+category: people
+subcategory: 'Política'
+slug: lai-ching-te
+revision: 1
+translatedFrom: 'People/賴清德.md'
+sourceCommitSha: '2d0c126f6'
+sourceContentHash: 'sha256:5b139718ee24238e'
+sourceBodyHash: 'sha256:1550df44f40520dc'
+translatedAt: '2026-05-05T00:40:00+08:00'
 ---
 
-# Lai Ching-te: From Miner's Family to Public Health Physician in the Presidential Office
+# Lai Ching-te: del distrito minero al Palacio Presidencial, un médico de salud pública
 
-## 30-Second Overview
+## Resumen en 30 segundos
 
-Lai Ching-te, the 16th President of the Republic of China, was born in 1959 in a miner's family in Wanli, New Taipei. Starting with rehabilitation medicine, he underwent Harvard public health training and left medicine for politics in 1996. He served as a Delegate to the National Convention, Legislator, Mayor of Tainan, Premier of the Executive Yuan, and Vice President, before being elected President in 2024. He is the first political figure in constitutional history to run for President as Vice President and successfully win election, and also the second political figure (after Lien Chan) to have held the positions of Premier, Vice President, and President.
+Lai Ching-te, decimosexto presidente de la República de China (Taiwán), nació en 1959 en una familia minera de Wanli, Nuevo Taipéi. Comenzó su carrera en medicina rehabilitadora, completó una formación en salud pública en Harvard y, en 1996, abandonó la medicina por la política. Ha sido sucesivamente delegado de la Asamblea Nacional, miembro del Yuan Legislativo, alcalde de Tainan, presidente del Yuan Ejecutivo (primer ministro) y vicepresidente, antes de ser elegido presidente en 2024. Es la primera figura política en la historia constitucional taiwanesa que se postula a la presidencia desde el cargo de vicepresidente y consigue la victoria, así como el segundo político —después de Lien Chan— que ha ocupado los cargos de presidente del Yuan Ejecutivo, vicepresidente y presidente de la República.
 
-**Keywords**: Physician entering politics, Mayor of Tainan, Constitutional first, Son of a miner, Public health
+**Palabras clave**: médico en política, alcalde de Tainan, primicia constitucional, hijo de un minero, salud pública
 
-## A Healer's Benevolence: Unique Background of Triple Medical Expertise
+## Corazón de médico: una formación médica triple poco común
 
-### From Wanli to National Taiwan University: The Educational Path That Changed Destiny
+### De Wanli a la Universidad Nacional de Taiwán: el camino académico que cambió un destino
 
-On October 6, 1959, Lai Ching-te was born in Wanli District, New Taipei City, into a miner's family. His father died in a mining disaster when Lai was two years old, and his mother raised six children alone by sewing and doing odd jobs. This difficult childhood fostered his sensitivity to grassroots public opinion and shaped his "grassroots" political style.
+El 6 de octubre de 1959, Lai Ching-te nació en una familia minera del distrito de Wanli, en la actual ciudad de Nuevo Taipéi. Su padre murió en un accidente minero cuando él tenía dos años, y su madre crio sola a seis hijos cosiendo y haciendo trabajos esporádicos. Esta infancia difícil cultivó en él una sensibilidad para captar el sentir de la base social y dio forma a un estilo político posterior marcado por su «raíz popular».
 
-Lai Ching-te graduated from the Department of Rehabilitation Medicine at National Taiwan University and the Post-Baccalaureate Medical Department at National Cheng Kung University, and obtained a Master's degree from the Harvard T.H. Chan School of Public Health. This makes him a rare physician in Taiwan with expertise in **Third Medicine (Rehabilitation), Second Medicine (Clinical Medicine), and First Medicine (Public Health)**. This comprehensive medical training not only influenced his way of thinking but also became the foundation of his "empirical logic" governing style.
+Lai se graduó sucesivamente en la carrera de Medicina Rehabilitadora de la Universidad Nacional de Taiwán y en el programa de Postgrado en Medicina de la Universidad Nacional Cheng Kung, y obtuvo posteriormente un máster en la Escuela de Salud Pública de la Universidad de Harvard, en Estados Unidos. Esto lo convirtió en uno de los pocos médicos de Taiwán con formación simultánea en **tercera medicina (rehabilitación), segunda medicina (clínica) y primera medicina (salud pública)**. Esta formación médica integral no solo influyó en su modo de pensar, sino que también se convirtió en la base de su estilo de gestión basado en la «lógica de la evidencia».
 
-### Harvard Years: Formation of Public Policy Vision
+### Los años de Harvard: la formación de una mirada de política pública
 
-In 1993, Lai Ching-te went to the Harvard T.H. Chan School of Public Health for further study, majoring in Health Policy and Management. During his time at Harvard, he was exposed to advanced public policy concepts and empirical research methods. This experience expanded his thinking from treating individual patients to managing the health of the entire society. The "precise governance" and "data-driven decision-making" style he later displayed in his political career largely stem from this public health training.
+En 1993, Lai Ching-te viajó a la Escuela de Salud Pública de Harvard para estudiar Política y Gestión Sanitaria. Durante su estancia entró en contacto con conceptos avanzados de política pública y métodos de investigación basados en la evidencia. Esta experiencia le permitió pasar del tratamiento del paciente individual a un pensamiento orientado a la gestión sanitaria del conjunto de la sociedad. El estilo de «gestión de precisión» y «toma de decisiones basada en datos» que mostró más tarde en su carrera política proviene en gran medida de esta formación en salud pública.
 
-In 1994, Lai Ching-te returned to Taiwan to serve as the Chief Resident at National Cheng Kung University Hospital, during a critical moment of Taiwan's democratization. He began to think: Can a physician transcend the individual level to have a greater impact on the "health" of the entire society?
+En 1994, Lai regresó a Taiwán para ejercer como médico residente jefe en el Hospital Universitario Cheng Kung, justo en un momento decisivo de la democratización taiwanesa. Empezó a preguntarse: ¿puede un médico ir más allá del nivel individual y ejercer una influencia mayor sobre la «salud» de toda la sociedad?
 
-## Leaving Medicine for Politics: A Historical Turning Point in the Taiwan Strait Crisis
+## Abandonar la medicina por la política: un giro histórico durante la crisis del Estrecho
 
-### Inspiration from Chen Ding-Nan: Entering Public Affairs
+### La inspiración de Chen Ting-nan: implicarse en los asuntos públicos
 
-In 1994, Taiwan held its first direct election for Provincial Governor. Lai Ching-te actively served as the President of the "Tainan Physicians Support Association" for Democratic Progressive Party candidate Chen Ding-Nan, marking the starting point of his involvement in public affairs. Chen Ding-Nan's clean image and reformist理念 deeply influenced Lai Ching-te's political values.
+En 1994, Taiwán celebró las primeras elecciones directas para gobernador provincial. Lai asumió por iniciativa propia la presidencia del «Comité de Médicos de Tainan en Apoyo» a Chen Ting-nan, candidato del Partido Democrático Progresista (PDP). Fue su punto de partida en los asuntos públicos. La imagen de honestidad y los ideales de reforma de Chen Ting-nan influyeron profundamente en los valores políticos de Lai Ching-te.
 
-### The 1996 Taiwan Strait Missile Crisis: A Key Decision
+### La crisis de los misiles del Estrecho de 1996: una decisión clave
 
-In 1996, China conducted missile exercises against Taiwan, and the situation in the Taiwan Strait was on the verge of eruption. Facing this crisis, Lai Ching-te made a major life choice: officially leaving medicine for politics. He later recalled: "At that time, I felt that Taiwan's democracy and freedom needed someone to guard them. This sense of responsibility made me put down the scalpel and pick up the microphone."
+En 1996, China llevó a cabo ejercicios con misiles dirigidos a Taiwán, y la situación a través del Estrecho estuvo a punto de estallar. Frente a esa crisis, Lai Ching-te tomó la decisión más importante de su vida: dejar oficialmente la medicina por la política. Recordaría más tarde: «En aquel momento sentí que la libertad y la democracia de Taiwán necesitaban a alguien que las defendiera; ese sentido de responsabilidad me hizo soltar el bisturí y tomar el micrófono».
 
-Later that year, he was elected as a Delegate to the National Convention in Tainan City with the highest number of votes. Ironically, his first political task was to "abolish the National Convention Delegates." This carries profound symbolic meaning: starting from abolishing the old system, his political career has been accompanied by the deepening and reform of Taiwan's democracy.
+Ese mismo año fue elegido en Tainan delegado de la Asamblea Nacional con el mayor número de votos. Irónicamente, su primera tarea política consistió en «abolir el cargo de delegado de la Asamblea Nacional». El simbolismo es profundo: comenzando por desmantelar las viejas estructuras, su carrera política ha avanzado siempre acompañada de la profundización y la reforma de la democracia taiwanesa.
 
-## Political Journey: From Parliament to the Presidential Office Over Thirty Years
+## Trayectoria política: treinta años desde el parlamento hasta el Palacio Presidencial
 
-### Legislative Yuan Period (1998-2010): Building Reputation Through Professional Legislative Inquiry
+### Etapa como miembro del Yuan Legislativo (1998-2010): construcción de prestigio mediante el rigor parlamentario
 
-From 1998 to 2010, Lai Ching-te was re-elected for four terms as a Legislator, known for his professional legislative inquiry and clean image. He leveraged his medical background to exert professional influence on issues such as health insurance reform and public health policies. During this period, he established a legislative style characterized by "full preparation and detailed data," earning the nickname "Lai Shen" (God Lai) in the Legislative Yuan.
+De 1998 a 2010, Lai fue reelegido durante cuatro mandatos consecutivos como miembro del Yuan Legislativo, destacando por su rigor profesional y su imagen de honestidad. Aprovechó su formación médica para ejercer una influencia experta en cuestiones como la reforma del seguro nacional de salud y las políticas de salud pública. Durante esos años consolidó un estilo parlamentario «bien preparado y documentado», y en el Yuan Legislativo se ganó el apodo de «Lai Shen» («Dios Lai»).
 
-### Tainan Mayor Period (2010-2017): A Successful Model of Urban Governance
+### Etapa como alcalde de Tainan (2010-2017): un modelo de gestión municipal exitosa
 
-After the merger of counties and cities in 2010, Lai Ching-te was elected as the first Mayor of Tainan and was successfully re-elected in 2014. During his eight-year term as Mayor, he transformed Tainan into a "Cultural Capital" and a "Low-Carbon City."
+Tras la fusión administrativa de condados y ciudades en 2010, Lai Ching-te fue elegido primer alcalde de la nueva ciudad de Tainan y reelegido sin problemas en 2014. Durante sus ocho años de mandato convirtió a Tainan en una «capital cultural» y en una «ciudad baja en carbono».
 
-**Key achievements include:**
+**Entre sus principales logros figuran:**
 
-- **Cultural Governance Innovation**: Promoted the "Tainan 400" cultural brand, restored historical sites, and developed the cultural and creative industry.
-- **Smart City Construction**: Established 4G networks and promoted digital governance.
-- **Environmental Pioneer**: Promoted solar photovoltaics, becoming a demonstration city for green energy in Taiwan.
-- **Social Welfare**: Expanded health insurance subsidies for the elderly and promoted public childcare centers.
+- **Innovación en gobernanza cultural**: impulsó la marca cultural «Tainan 400», restauró monumentos históricos y desarrolló las industrias culturales y creativas
+- **Construcción de una ciudad inteligente**: desplegó la red 4G y promovió la administración digital
+- **Pionero en medio ambiente**: impulsó la energía solar fotovoltaica, convirtiendo a la ciudad en un referente nacional de energías verdes
+- **Bienestar social**: amplió las ayudas del seguro de salud a personas mayores e impulsó las guarderías públicas
 
-Lai Ching-te's experience in Tainan proved his successful transition from "treating individuals" to "governing a city."
+La experiencia de Lai en Tainan demostró su transición exitosa desde «tratar al individuo» hasta «gobernar una ciudad».
 
-### Premier of the Executive Yuan Period (2017-2019): Policy Promotion and Challenges
+### Etapa como presidente del Yuan Ejecutivo (2017-2019): impulso político y desafíos
 
-In 2017, Lai Ching-te succeeded as Premier of the Executive Yuan. Facing major policy challenges such as pension reform, energy transition, and the Forward-looking Infrastructure Development Plan, he demonstrated the ability of "communication and coordination" and "policy execution." Although he encountered numerous controversies during this period, the Long-term Care 2.0 and Digital Nation policies he promoted laid the foundation for Taiwan's digital transformation.
+En 2017, Lai Ching-te asumió la jefatura del Yuan Ejecutivo, es decir, el cargo de primer ministro. Frente a desafíos políticos de envergadura como la reforma de las pensiones, la transición energética o el plan «Forward-looking Infrastructure», demostró capacidad de «comunicación y coordinación» y de «ejecución de políticas». Aunque su gestión no estuvo exenta de polémicas, las políticas que impulsó —como el plan Long-Term Care 2.0 o la estrategia de Nación Digital— sentaron las bases de la transformación digital de Taiwán.
 
-### Vice President Period (2020-2024): Pioneer of International Diplomacy
+### Etapa como vicepresidente (2020-2024): un explorador de la diplomacia internacional
 
-During his term as Vice President, Lai Ching-te represented Taiwan on multiple overseas visits, particularly the "Tour of Democratic Partnership and Prosperity" in 2023, where he transited through the United States and met with important political figures, showcasing Taiwan's international visibility. His medical background and English proficiency played an important role in international settings.
+Durante su mandato como vicepresidente, Lai representó a Taiwán en numerosas visitas oficiales en el extranjero. Destaca especialmente su «viaje de prosperidad compartida con socios democráticos» de 2023, durante el cual hizo escala en Estados Unidos y se reunió con figuras políticas de relevancia, mostrando la visibilidad internacional de Taiwán. Su formación médica y su dominio del inglés desempeñaron un papel importante en los foros internacionales.
 
-## 2024 Presidential Election: A Victory Setting a Constitutional Precedent
+## Las elecciones presidenciales de 2024: una victoria que sentó precedente constitucional
 
-### Historic Election Results
+### Un resultado electoral histórico
 
-On January 13, 2024, Lai Ching-te, with Hsiao Bi-kim as his running mate, was elected President with 40.05% of the vote. This set multiple constitutional records:
+El 13 de enero de 2024, Lai Ching-te, acompañado por Hsiao Bi-khim como candidata a la vicepresidencia, fue elegido presidente con el 40,05 % de los votos. Su victoria estableció varios récords constitucionales:
 
-1. **The first political figure to successfully run for President as Vice President**
-2. **The first President with a professional medical background**
-3. **The driving force behind the Democratic Progressive Party's three consecutive terms in office**
-4. **The second political figure to have held the positions of Premier, Vice President, and President**
+1. **Primera figura política en postularse y ganar la presidencia desde el cargo de vicepresidente**
+2. **Primer presidente con formación profesional como médico**
+3. **Artífice del tercer mandato consecutivo del PDP en el gobierno**
+4. **Segundo político en la historia que ocupa los cargos de presidente del Yuan Ejecutivo, vicepresidente y presidente de la República**
 
-### Election Campaign Characteristics: Professional Governance vs. Political Competition
+### Características de la campaña: gestión profesional frente a competencia política
 
-The main axis of Lai Ching-te's campaign was "professional governance" and "pragmatic diplomacy." He proposed:
+El eje de la campaña de Lai fue «gobernar con profesionalidad» y una «diplomacia pragmática». Sus propuestas incluían:
 
-- Continuing democratic deepening and institutional reform
-- Strengthening national defense and international cooperation
-- Promoting green energy transition and the digital economy
-- Perfecting the social safety net
+- Profundizar la democracia y proseguir las reformas institucionales
+- Reforzar la defensa nacional y la cooperación internacional
+- Impulsar la transición a las energías limpias y la economía digital
+- Completar la red de seguridad social
 
-## Presidential Term (2024-)
+## Mandato presidencial (2024-)
 
-### Governance Direction
+### Orientación de gobierno
 
-After taking office, Lai Ching-te used his medical background as the basis for his governance narrative, emphasizing the governance logic of "empirical evidence" and "prevention." The main policy directions include:
+Tras tomar posesión, Lai utilizó su trasfondo médico como base discursiva de su gestión, subrayando una lógica de gobierno basada en la «evidencia» y en la «prevención». Las principales orientaciones políticas incluyen:
 
-- Strengthening national defense and international cooperation
-- Promoting green energy transition and the digital economy
-- Perfecting the social safety net and long-term care system
+- Reforzar la defensa nacional y la cooperación internacional
+- Impulsar la transición a las energías limpias y la economía digital
+- Completar la red de seguridad social y el sistema de cuidados de larga duración
 
-### International Relations
+### Relaciones internacionales
 
-Continuing the "Pro-US, Friendly-to-Japan" route of his predecessor, Lai Ching-te seeks space for Taiwan's participation in international health cooperation and climate change issues. However, his self-identification as a "pragmatic pro-independence worker" has led Beijing to adopt a harder stance, making cross-strait relations the greatest diplomatic challenge of his term.
+Continuando la línea «pro-Estados Unidos y amistosa con Japón» de su antecesora, Lai busca espacios de participación para Taiwán en cuestiones como la cooperación sanitaria internacional o el cambio climático. Sin embargo, su autodefinición como «trabajador por la independencia de Taiwán» ha llevado a Pekín a adoptar una postura más dura, y las relaciones a través del Estrecho se han convertido en el mayor desafío diplomático de su mandato.
 
-## The Lai Ching-te Phenomenon: Diverse Perspectives
+## El fenómeno Lai Ching-te: perspectivas plurales
 
-### Supporters' Views
+### Punto de vista de sus partidarios
 
-- Represents the expectation of "professional governance" in Taiwanese politics
-- Grassroots origin reflects social class mobility
-- Medical training brings a rational decision-making style
+- Encarna la expectativa taiwanesa de una «gestión profesional» de la política
+- Su origen humilde refleja la movilidad social entre clases
+- Su formación médica aporta un estilo de decisión racional
 
-### Critics' Views
+### Punto de vista de sus críticos
 
-- A medical background does not equate to political expertise; the "physician governing the country" narrative is overly packaged
-- Governing difficulties in a minority government; insufficient cross-party communication skills
-- The fulfillment rate of campaign promises is questioned
-- Lack of flexibility in cross-strait policy
+- Una formación médica no equivale a profesionalidad política; el relato del «médico que gobierna» estaría sobreempaquetado
+- Las dificultades de un gobierno minoritario y una capacidad insuficiente de comunicación entre oficialismo y oposición
+- Hay dudas sobre el grado de cumplimiento de sus promesas
+- Su política a través del Estrecho carecería de margen de flexibilidad
 
-## Controversies and Challenges
+## Polémicas y desafíos
 
-Lai Ching-te's political career has been accompanied by continuous controversies and criticisms:
+La carrera política de Lai Ching-te ha estado acompañada de controversias y críticas constantes:
 
-### Political Stance Controversies
+### Controversias sobre su posicionamiento político
 
-- **"Pragmatic Pro-Independence Worker" Remarks**: In 2017, while serving as Premier, he publicly referred to himself as a "pragmatic pro-independence worker," causing tensions in cross-strait relations and strong backlash from Beijing. Supporters view it as "telling the truth," while critics believe it irresponsibly escalates confrontation.
-- **Cross-Strait Route Debate**: The opposition questions the lack of flexibility in his cross-strait policy, which may exacerbate Taiwan Strait risks.
+- **Las declaraciones de «trabajador por la independencia de Taiwán»**: en 2017, siendo presidente del Yuan Ejecutivo, se autodefinió públicamente como «un trabajador pragmático por la independencia de Taiwán», lo que tensó las relaciones a través del Estrecho y provocó una fuerte reacción de Pekín. Sus partidarios lo interpretaron como «decir la verdad»; sus críticos consideraron que escalaba la confrontación de manera irresponsable.
+- **Debate sobre la línea a través del Estrecho**: el bloque opositor cuestiona la falta de flexibilidad de su política hacia el otro lado del Estrecho, advirtiendo de que podría agravar el riesgo en la zona.
 
-### Gap Between Policy Promises and Execution
+### Brechas entre las promesas políticas y su ejecución
 
-- **Three-Shift Nurse-to-Patient Ratio**: During the 2024 Presidential election, he promised to enact the "three-shift nurse-to-patient ratio" into law, which nursing associations viewed as a key campaign promise. As of 2026, the policy has been criticized for slow progress, with the nursing community continuing to demand the fulfillment of the promise.
-- **Bobo Dental Clinic Controversy**: Long-standing controversies over the certification of his overseas dental medical qualifications remain unresolved. As a President with a medical background, Lai Ching-te was expected to propose a solution, but no clear policy has emerged to date.
-- **Energy Policy**: The stability of power supply under the "Nuclear-Free Homeland" policy continues to be questioned.
+- **Ratio enfermera-paciente por turnos**: durante la campaña presidencial de 2024 prometió impulsar la inclusión legal del «ratio enfermera-paciente por turnos», considerada una propuesta clave por la federación profesional de enfermería. Hasta 2026, esta política ha sido criticada por avanzar lentamente, y el sector de enfermería sigue exigiendo el cumplimiento del compromiso.
+- **Polémica de los «dentistas Popo»**: la cuestión de la homologación de los títulos de odontología obtenidos en el extranjero ha sido motivo de polémica desde hace años. Como presidente con formación médica, se esperaba que Lai propusiera una solución, pero hasta la fecha no se ha presentado ninguna política clara.
+- **Política energética**: la estabilidad del suministro eléctrico bajo la política de un Taiwán libre de energía nuclear sigue siendo objeto de cuestionamiento.
 
-### Political Polarization During Governance
+### Polarización política durante el mandato
 
-- **Relations Between the Executive Yuan, Party, and Opposition**: Polarization between the ruling party and the opposition has intensified after taking office, with the opposition criticizing several judicial cases as politically targeted.
-- **Minority Government Dilemma**: The Democratic Progressive Party does not hold a majority in the Legislative Yuan, and policy promotion has encountered repeated resistance.
-- **Premier Period**: The Labor Standards Act Amendment (the "One Day Off, Seven Days Work" re-amendment) sparked strong protests from labor groups.
+- **Relación entre el Palacio Presidencial, el Ejecutivo, el partido y la oposición**: tras el inicio del mandato, la polarización entre oficialismo y oposición se ha intensificado, y los partidos opositores han denunciado que diversos casos judiciales tendrían un sesgo políticamente dirigido.
+- **Las dificultades de un gobierno minoritario**: el PDP no alcanza la mayoría en el Yuan Legislativo, y la promoción de políticas se topa repetidamente con obstáculos.
+- **Etapa como presidente del Yuan Ejecutivo**: la modificación de la Ley de Normas Laborales (la nueva reforma del «un día libre fijo y un día libre flexible») provocó fuertes protestas de los grupos laborales.
 
-### Criticism of Governance Style
+### Críticas al estilo de gobierno
 
-Some public opinion believes that the narrative framework of "physician entering politics" is overly beautified, questioning whether the "diagnosis → treatment → follow-up" governance logic is truly implemented in actual state affairs. Critics point out that a medical background does not necessarily equate to good political decision-making capabilities.
+Una parte de la opinión pública considera que el marco narrativo del «médico en política» está excesivamente idealizado y duda de que la lógica de gestión «diagnóstico → tratamiento → seguimiento» se aplique realmente en la política nacional. Los críticos señalan que una formación médica no equivale necesariamente a una buena capacidad de decisión política.
 
-## Historical Position
+## Posicionamiento histórico
 
-Lai Ching-te has set multiple constitutional records (the first Vice President to successfully run for President, the first physician President). His political career embodies the possibility of social class mobility in Taiwan—from the son of a miner in Wanli to the Presidential Office.
+Lai Ching-te ha establecido varios récords constitucionales (primer vicepresidente en ganar la presidencia, primer presidente médico) y su trayectoria política encarna la posibilidad de movilidad social en Taiwán: desde hijo de un minero de Wanli hasta el Palacio Presidencial.
 
-However, as the current President, his historical position is still being written. Supporters view him as a new model of "professional governance," while critics believe there is a gap between his governance effectiveness and election promises. Taiwan society's final evaluation of him will depend on the degree of policy fulfillment and the direction of cross-strait relations during his future term.
+No obstante, como presidente en activo, su lugar en la historia aún se está escribiendo. Sus partidarios lo ven como un nuevo modelo de «gobierno profesional»; sus críticos consideran que existe un desfase entre su gestión y las promesas electorales. El veredicto definitivo de la sociedad taiwanesa sobre él dependerá del grado de cumplimiento de sus políticas durante el resto del mandato y del rumbo de las relaciones a través del Estrecho.
 
-**Further Reading**:
+**Lecturas relacionadas**:
 
-- [2026 Zheng-Xi Meeting: The Ten Minutes of the Decade Reunion of KMT and CCP Leaders](/society/2026ZhengXiMeetingAndTheDecadeReunionOfKMTAndCCP) — The other protagonist of this drama, the one deliberately left out of the frame
-- [Hsiao Bi-kim](/people/HsiaoBi-kim) — Lai Ching-te's Vice President running mate, from Washington DC Representative to the War Cat Vice President
-- [Taiwan National Defense and Military Modernization](/society/TaiwanNationalDefenseAndMilitaryModernization) — The most representative policy during Lai Ching-te's term: the 1.25 trillion special budget and the commissioning of the M1A2T tank battalion
-- [Taiwan Democratic Transition](/history/TaiwanDemocraticTransition) — The fact that a miner's son from Wanli can become President is itself a product of democratic transition
-- [Li Yang](/people/LiYang) — The youngest cabinet member in history, sworn in by Lai Ching-te personally, and the first Minister of Sports
-- [Shen Pei-yang](/people/ShenPei-yang) — A DPP non-mandated legislator listed on the "Pro-independence Ruffians" list, who in 2025 became the first Taiwanese elected political figure filed by China for the crime of splitting the country
-- [Chuo Rong-tai](/people/ChuoRong-tai) — Lai Ching-te's first Premier of the Executive Yuan in 2024, a coordinator for 38 years, who in December 2025 became the first Premier not to countersign the Financial and Property Law in a constitutional first
-- [Hsu Chiao-hsin](/people/HsuChiao-hsin) — The KMT legislator who repeatedly clashed with Lai Ching-te on the floor of the Legislative Yuan, the main proponent of the 800 billion version of the 2026 military procurement controversy
+- [Encuentro Cheng-Xi de 2026: los diez minutos del reencuentro entre los líderes del KMT y el PCCh tras una década](/society/2026鄭習會與國共十年再會) — el otro protagonista de esa escena, el que fue dejado deliberadamente fuera del encuadre
+- [Hsiao Bi-khim](/people/蕭美琴) — la compañera de fórmula de Lai Ching-te, de representante en Washington a vicepresidenta «gata combatiente»
+- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — la política más representativa del mandato de Lai: un presupuesto especial de 1,25 billones de dólares taiwaneses y la formación del batallón de carros M1A2T
+- [Transición democrática de Taiwán](/history/台灣民主轉型) — que el hijo de un minero de Wanli haya podido llegar a presidente es, en sí mismo, un producto de la transición democrática
+- [Lee Yang](/people/李洋) — el miembro más joven de un gabinete en la historia y primer ministro del Deporte, cuyo juramento fue tomado personalmente por Lai Ching-te
+- [Puma Shen](/people/沈伯洋) — diputado plurinominal del PDP incluido también en la lista de «elementos obstinados de la independencia de Taiwán», que en 2025 se convirtió en el primer político taiwanés electo democráticamente acusado por China del delito de «secesión nacional»
+- [Cho Jung-tai](/people/卓榮泰) — primer presidente del Yuan Ejecutivo del mandato 2024 de Lai Ching-te, coordinador desde hace 38 años, que en diciembre de 2025 se convirtió en el primer jefe de gobierno en la historia constitucional en negarse a refrendar la Ley de Distribución de Ingresos Fiscales
+- [Hsu Chiao-hsin](/people/徐巧芯) — diputada del KMT que se ha enfrentado repetidamente a Lai Ching-te en el estrado de interpelación, principal impulsora de la versión de 800 000 millones en la polémica de las compras de armas de 2026
 
-## References
+## Referencias
 
-- [Official Website of the Presidential Office, Republic of China, Presidential Introduction](https://www.president.gov.tw/Page/694)
-- [Wikipedia "Lai Ching-te" Entry](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7)
-- [Various Related Exclusive Interviews from *Cw.com.tw*](https://www.cw.com.tw/article/5128853)
-- [National Cheng Kung University Medical College Academic Records](https://www.ncku.edu.tw/)
-- [Central Election Commission 2024 Presidential Election Gazette](https://bulletin.cec.gov.tw/)
-- [Tainan City Government Annual Governance Reports](https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709)
+- [Sitio web oficial de la Presidencia de la República de China (Taiwán), perfil del presidente](https://www.president.gov.tw/Page/694)
+- [Entrada «賴清德» en Wikipedia en chino](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7)
+- [Entrevistas y reportajes de la revista _CommonWealth_ a lo largo de los años](https://www.cw.com.tw/article/5128853)
+- [Información académica de la Facultad de Medicina de la Universidad Nacional Cheng Kung](https://www.ncku.edu.tw/)
+- [Boletín de las elecciones presidenciales de 2024 de la Comisión Electoral Central](https://bulletin.cec.gov.tw/)
+- [Informes anuales de gestión del Gobierno municipal de Tainan](https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709)

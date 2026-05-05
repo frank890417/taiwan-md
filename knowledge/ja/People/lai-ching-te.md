@@ -1,177 +1,182 @@
 ---
-title: "Lai Ching-te: From Miner's Family to Public Health Physician in the Presidential Office"
-description: "The 16th President of the Republic of China, the first political figure in the constitutional history of the Republic of China to run for president as vice president and successfully win the election"
-date: 2026-03-19
-tags: ['President', 'Physician', 'Political Figure', 'Democratic Progressive Party', 'Public Health', 'Tainan']
-subcategory: 'Politics and Democracy'
-author: 'Taiwan.md'
-category: 'People'
-readingTime: 12
-lastVerified: 2026-03-19
-lastHumanReview: false
-translatedFrom: 'People/Lai Ching-te.md'
-sourceCommitSha: '2d0c126f'
-sourceContentHash: 'sha256:db48b107f3fcda38'
-translatedAt: '2026-05-04T00:21:52+08:00'
+title: '頼清徳：炭鉱夫の家庭から総統府へ至った公衆衛生医師'
+description: '台湾第16代総統。中華民国憲政史上初めて副総統の身分のまま総統選に立候補し当選を果たした政治家'
+date: '2026-03-19'
+tags:
+  - 総統
+  - 医師
+  - 政治家
+  - 民主進歩党
+  - 公衆衛生
+  - 台南
+category: people
+subcategory: '政治家'
+slug: lai-ching-te
+revision: 1
+translatedFrom: 'People/賴清德.md'
+sourceCommitSha: '2d0c126f6'
+sourceContentHash: 'sha256:5b139718ee24238e'
+sourceBodyHash: 'sha256:1550df44f40520dc'
+translatedAt: '2026-05-05T00:34:17+08:00'
 ---
 
-# Lai Ching-te: From Miner's Family to Public Health Physician in the Presidential Office
+# 頼清徳：炭鉱夫の家庭から総統府へ至った公衆衛生医師
 
-## 30-Second Overview
+## 30秒概要
 
-Lai Ching-te, the 16th President of the Republic of China, was born in 1959 in a miner's family in Wanli, New Taipei. Starting with rehabilitation medicine, he underwent Harvard public health training and left medicine for politics in 1996. He served as a Delegate to the National Convention, Legislator, Mayor of Tainan, Premier, and Vice President, and was elected President in 2024. He is the first political figure in constitutional history to run for president as vice president and successfully win the election, and the second political figure after Lien Chan to have served as Premier, Vice President, and President.
+頼清徳は中華民国第16代総統であり、1959年に新北万里の炭鉱夫の家庭に生まれた。リハビリテーション医学から出発し、ハーバード大学で公衆衛生の訓練を受け、1996年に医師の道を捨てて政治の道に入った。国民大会代表、立法委員、台南市長、行政院長、副総統を歴任し、2024年に総統に当選した。憲政史上初めて副総統の身分のまま総統選に立候補して当選した政治家であり、また連戦に続き、行政院長、副総統、総統の各職を歴任した二人目の政治家でもある。
 
-**Keywords**: Physician-turned-politician, Mayor of Tainan, Constitutional first, Son of a miner, Public health
+**キーワード**：医師から政治家へ、台南市長、憲政上の前例、炭鉱夫の子、公衆衛生
 
-## Benevolent Healer: A Unique Background of Triple Medical Expertise
+## 医は仁術：三重の医学的専門性という独特の背景
 
-### From Wanli to National Taiwan University: The Educational Path That Changed Destiny
+### 万里から台湾大学へ：運命を変えた学びの道
 
-On October 6, 1959, Lai Ching-te was born in Wanli District, New Taipei City, into a miner's family. His father died in a mining disaster when Lai was two years old, and his mother single-handedly raised six children through tailoring and odd jobs. This difficult childhood fostered his sensitivity to grassroots public opinion and shaped his "grassroots" political style.
+1959年10月6日、頼清徳は新北市万里区の炭鉱夫の家庭に生まれた。父親は彼が2歳のときに鉱山事故で亡くなり、母親は裁縫や日雇い仕事で六人の子どもを一人で育て上げた。この厳しい幼少期は、彼に草の根の民意を察知する感受性を育み、後年の「草根性」と呼ばれる政治スタイルの基盤となった。
 
-Lai Ching-te graduated from the Rehabilitation Medicine Department of National Taiwan University, the Post-Baccalaureate Medical Department of National Cheng Kung University, and obtained a Master's degree from the Harvard T.H. Chan School of Public Health. This makes him a rare physician in Taiwan with expertise in **Third Medicine (Rehabilitation), Second Medicine (Clinical Medicine), and First Medicine (Public Health)**. This comprehensive medical training not only influenced his way of thinking but also became the foundation of his "empirical logic" governing style.
+頼清徳は台湾大学リハビリテーション医学科を卒業後、成功大学学士後医学科を経て、米国ハーバード大学公衆衛生大学院で修士号を取得した。これにより、彼は台湾でも珍しい**第三医学（リハビリテーション）、第二医学（医療）、第一医学（公衆衛生）**の三領域に専門性を持つ医師となった。この多面的な医学訓練は、彼の思考様式に影響を与えただけでなく、後の「実証的論理」に基づく施政スタイルの根幹となった。
 
-### Harvard Years: The Formation of Public Policy Vision
+### ハーバード時代：公共政策的視野の形成
 
-In 1993, Lai Ching-te went to the Harvard T.H. Chan School of Public Health for further studies, majoring in Health Policy and Management. During his time at Harvard, he was exposed to advanced public policy concepts and empirical research methods. This experience expanded his thinking from treating individual patients to managing the health of the entire society. His "precision governance" and "data-driven decision-making" style, which he later demonstrated in his political career, largely stems from this public health training.
+1993年、頼清徳はハーバード大学公衆衛生大学院に留学し、衛生政策と管理を専攻した。ハーバード在学中、彼は最先端の公共政策理念と実証研究の手法に触れた。この経験を通じて、個別の患者の治療から、社会全体の健康を管理するという思考へと視野が広がった。後の政治生涯で示される「精密な施政」や「データ駆動型の意思決定」というスタイルは、この公衆衛生訓練に大きく由来している。
 
-In 1994, Lai Ching-te returned to Taiwan to serve as the Chief Resident of National Cheng Kung University Hospital, during a critical moment of Taiwan's democratization. He began to ponder: Could a physician transcend the individual level to have a greater impact on the "health" of the entire society?
+1994年、頼清徳は台湾に戻り、成功大学医院の総医師（チーフレジデント）に就任した。台湾の民主化が決定的な局面を迎えていた時期である。彼はこう自問し始めた。医師は個別の領域を超え、社会全体の「健康」により大きな影響を及ぼし得るのではないか、と。
 
-## Leaving Medicine for Politics: A Historical Turning Point in the Cross-Strait Crisis
+## 医を捨て政界へ：台湾海峡危機のなかでの歴史的転換
 
-### Inspired by Chen Ding-Nan: Entering Public Affairs
+### 陳定南からの啓発：公共領域への参画
 
-In 1994, Taiwan held its first direct election for Governor. Lai Ching-te actively served as the President of the "Tainan Physicians Support Association" for the Democratic Progressive Party candidate Chen Ding-Nan, marking the starting point of his involvement in public affairs. Chen Ding-Nan's clean image and reformist理念 deeply influenced Lai Ching-te's political values.
+1994年、台湾で初めての省長民選が行われた。頼清徳は自ら進んで、民主進歩党候補・陳定南の「台南医師後援会会長」を務めた。これが彼の公共領域への参画の起点である。陳定南の清廉なイメージと改革への理念は、頼清徳の政治的価値観に深い影響を与えた。
 
-### The 1996 Taiwan Strait Missile Crisis: A Key Decision
+### 1996年台湾海峡ミサイル危機：決定的な選択
 
-In 1996, China conducted missile exercises against Taiwan, and the situation in the Taiwan Strait was on the verge of breaking out. Facing this crisis, Lai Ching-te made a major life decision: to officially leave medicine for politics. He later recalled: "At that time, I felt that Taiwan's democracy and freedom needed someone to protect them. This sense of responsibility made me put down the scalpel and pick up the microphone."
+1996年、中国は台湾に向けたミサイル演習を行い、台湾海峡情勢は一触即発の状態となった。この危機に直面し、頼清徳は人生における重大な選択を下す。正式に医師の道を捨て、政治の道に入ったのである。彼は後にこう振り返っている。「あのとき、台湾の民主と自由には誰かが守る必要があると感じた。その責任感が、私にメスを置かせ、マイクを握らせたのだ」。
 
-In the same year, he was elected as a Delegate to the National Convention with the highest number of votes in Tainan City. Ironically, his first political task was to "abolish the National Convention Delegates." This carries profound symbolic significance: starting from abolishing the old system, his political career has been accompanied by the deepening and reform of Taiwan's democracy.
+同年、彼は台南市で最高得票を獲得して国民大会代表に当選した。皮肉なことに、彼が引き受けた最初の政治的任務は「国大代表の廃止」であった。その象徴的な意味は深い。古い制度を廃するところから、彼の政治生涯は台湾の民主の深化と改革とともに歩み始めた。
 
-## Political Journey: From Parliament to the Presidential Office Over Thirty Years
+## 政治の歩み：国会から総統府までの三十年
 
-### Legislator Period (1998-2010): Building Reputation through Professional Legislative Inquiry
+### 立法委員時代（1998-2010）：専門的な質疑で築いた声望
 
-From 1998 to 2010, Lai Ching-te was re-elected as a Legislator for four consecutive terms, known for his professional legislative inquiry and clean image. He leveraged his medical background to exert professional influence on issues such as health insurance reform and public health policies. During this period, he established a legislative inquiry style characterized by "full preparation and detailed data," earning the nickname "Lai Shen" (God Lai) in the Legislative Yuan.
+1998年から2010年にかけて、頼清徳は四期連続で立法委員を務め、専門的な質疑と清廉なイメージで知られた。医学的背景を活かし、健康保険改革や公衆衛生政策などの議題で専門的な影響力を発揮した。この期間に「準備が周到で、データが詳細」な質疑スタイルを確立し、立法院では「頼神」の異名で呼ばれた。
 
-### Mayor of Tainan Period (2010-2017): A Successful Model of Urban Governance
+### 台南市長時代（2010-2017）：都市経営の成功モデル
 
-After the merger of cities and counties in 2010, Lai Ching-te was elected as the first Mayor of Tainan and was successfully re-elected in 2014. During his eight-year term as mayor, he transformed Tainan into a "Cultural Capital" and a "Low-Carbon City."
+2010年の県市合併・改編後、頼清徳は初代台南市長に当選し、2014年には再選を果たした。八年間の市長任期において、彼は台南を「文化首都」かつ「低炭素都市」へと作り上げた。
 
-**Key achievements include:**
+**主な実績は以下の通り：**
 
-- **Cultural Governance Innovation**: Promoted the "Tainan 400" cultural brand, restored historical sites, and developed the cultural and creative industry.
-- **Smart City Construction**: Established 4G networks and promoted digital governance.
-- **Environmental Pioneer**: Promoted solar photovoltaics, becoming a demonstration city for green energy in Taiwan.
-- **Social Welfare**: Expanded health insurance subsidies for the elderly and promoted public childcare centers.
+- **文化政策の革新**：「台南400」という文化ブランドを推進し、史跡を修復し、文化創造産業を発展させた
+- **スマートシティ建設**：4Gネットワークを整備し、デジタル・ガバナンスを推進
+- **環境保護のフロントランナー**：太陽光発電を推進し、台湾全土のグリーンエネルギーのモデル都市となった
+- **社会福祉**：高齢者の健康保険補助を拡大し、公営の託児サービスを推進
 
-Lai Ching-te's experience in Tainan proved his successful transition from "treating individuals" to "governing a city."
+頼清徳の台南での経験は、彼が「個人の治療」から「都市の経営」へと成功裏に転身したことを証明した。
 
-### Premier Period (2017-2019): Policy Implementation and Challenges
+### 行政院長時代（2017-2019）：政務推進と挑戦
 
-In 2017, Lai Ching-te succeeded as Premier. Facing major policy challenges such as pension reform, energy transition, and the Forward-looking Infrastructure Development Plan, he demonstrated the ability to "communicate and coordinate" and "implement policies." Although he encountered many controversies during this period, the long-term care 2.0 and digital national policies he promoted laid the foundation for Taiwan's digital transformation.
+2017年、頼清徳は行政院長に就任した。年金改革、エネルギー転換、前瞻基礎建設（フォワード・ルッキングなインフラ整備）といった重要政策の課題に直面し、「コミュニケーションと調整」「政策の執行」の能力を発揮した。任期中には少なからぬ論争に見舞われたものの、彼が推進した「長照2.0（長期介護2.0）」やデジタル国家政策などは、台湾のデジタル転換の基盤を築いた。
 
-### Vice President Period (2020-2024): Pioneer of International Diplomacy
+### 副総統時代（2020-2024）：国際外交の開拓者
 
-During his term as Vice President, Lai Ching-te represented Taiwan on multiple visits abroad, particularly the "Democratic Partnership Prosperity Tour" in 2023, where he transited through the United States and met with important political figures, showcasing Taiwan's international visibility. His medical background and English proficiency played an important role in international settings.
+副総統在任中、頼清徳は台湾を代表して幾度となく外遊した。とりわけ2023年の「民主パートナー共栄の旅」では、米国を経由して重要政治家と会談し、台湾の国際的なプレゼンスを示した。彼の医学的背景と英語力は、国際的な場面で重要な役割を果たした。
 
-## 2024 Presidential Election: A Victory Creating a Constitutional Precedent
+## 2024年総統選挙：憲政上の前例を切り拓いた勝利
 
-### Historic Election Results
+### 歴史的な選挙結果
 
-On January 13, 2024, Lai Ching-te, with Hsieh Bi-chin as his running mate, was elected President with 40.05% of the vote. This set multiple constitutional records:
+2024年1月13日、頼清徳は蕭美琴を副総統候補として擁立し、得票率40.05%で総統に当選した。これは複数の憲政記録を打ち立てた。
 
-1. **The first political figure to successfully run for president as vice president**
-2. **The first president with a professional background as a physician**
-3. **The driving force behind the Democratic Progressive Party's three consecutive terms in power**
-4. **The second political figure to have served as Premier, Vice President, and President**
+1. **副総統の身分のまま総統選に立候補して当選した初めての政治家**
+2. **医師としての専門背景を持つ初めての総統**
+3. **民進党の三期連続執政を実現させた立役者**
+4. **行政院長、副総統、総統を歴任した二人目の政治家**
 
-### Campaign Characteristics: Professional Governance vs. Political Competition
+### 選挙戦の特徴：専門的統治 vs 政治的競争
 
-Lai Ching-te's campaign axis was "professional governance" and "pragmatic diplomacy." He proposed:
+頼清徳の選挙戦の主軸は「専門による統治」と「実務的な外交」であった。彼は次の政策を打ち出した。
 
-- Continuous deepening of democracy and institutional reform
-- Strengthening national defense and international cooperation
-- Promoting green energy transition and the digital economy
-- Improving the social safety net
+- 民主の深化と制度改革の継続
+- 国防と国際協力の強化
+- グリーンエネルギーへの転換とデジタル経済の推進
+- 社会的セーフティネットの整備
 
-## Presidential Term (2024-)
+## 総統任期（2024-）
 
-### Governance Direction
+### 施政方針
 
-After taking office, Lai Ching-te used his medical background as the basis for his governance narrative, emphasizing the governance logic of "empirical evidence" and "prevention." Key policy directions include:
+就任後、頼清徳は医学的背景を施政論述の基礎とし、「実証」と「予防」という統治の論理を強調した。主な政策方針は以下の通りである。
 
-- Strengthening national defense and international cooperation
-- Promoting green energy transition and the digital economy
-- Improving the social safety net and long-term care system
+- 国防と国際協力の強化
+- グリーンエネルギーへの転換とデジタル経済の推進
+- 社会的セーフティネットと長期介護体制の整備
 
-### International Relations
+### 国際関係
 
-Continuing the previous administration's "Pro-US, Friendly-Japan" route, Lai Ching-te seeks space for Taiwan's participation in international health cooperation, climate change, and other issues. However, his self-identification as a "pragmatic pro-independence worker" has led Beijing to adopt a harder stance, making cross-strait relations the biggest diplomatic challenge of his term.
+前任者の「親米友日」路線を継承し、頼清徳は国際保健協力や気候変動などの議題において、台湾の参加余地を模索している。しかし、その「台湾独立工作者」という自己定位ゆえに、北京はより強硬な姿勢を取るようになり、両岸関係は任期中における最大の外交的課題となっている。
 
-## The Lai Ching-te Phenomenon: Diverse Perspectives
+## 頼清徳現象：多様な視点
 
-### Supporters' Views
+### 支持者の視点
 
-- Represents the expectation of Taiwan's politics for "professional governance"
-- Grassroots origin reflects social class mobility
-- Medical training brings a rational decision-making style
+- 台湾政治における「専門による統治」への期待を体現している
+- 草の根出身という経歴は、社会階層の流動性を象徴している
+- 医学訓練が、理性的な意思決定スタイルをもたらしている
 
-### Critics' Views
+### 批判者の視点
 
-- A medical background does not equate to political expertise; the "physician governing the country" narrative is overly packaged
-- Governing with a minority government is difficult; communication skills between the ruling and opposition parties are insufficient
-- The fulfillment rate of campaign promises is questioned
-- Cross-strait policy lacks flexibility
+- 医学的背景は政治的な専門性とイコールではなく、「医者による国家統治」という叙述は過度に演出されている
+- 少数与党による執政は困難であり、与野党間のコミュニケーション能力が不足している
+- 政策公約の実現率に対する疑念がある
+- 両岸政策に柔軟性の余地が乏しい
 
-## Controversies and Challenges
+## 論争と挑戦
 
-Lai Ching-te's political career has been accompanied by continuous controversies and criticisms:
+頼清徳の政治生涯には、絶え間ない論争と批判が伴ってきた。
 
-### Political Stance Controversies
+### 政治的立場をめぐる論争
 
-- **"Pragmatic Pro-Independence Worker" Remarks**: In 2017, while serving as Premier, he publicly referred to himself as a "pragmatic pro-independence worker," causing tensions in cross-strait relations and strong backlash from Beijing. Supporters view this as "telling the truth," while critics believe it irresponsibly escalates confrontation.
-- **Cross-Strait Route Debate**: The opposition questions whether his cross-strait policy lacks flexibility, potentially exacerbating risks in the Taiwan Strait.
+- **「台湾独立工作者」発言**：2017年に行政院長を務めていた際、自らを公に「実務的な台湾独立工作者」と称し、両岸関係の緊張を引き起こし、北京から強い反発を招いた。支持者はこれを「本音を語った」と評価する一方、批判者は無責任に対立をエスカレートさせたと見る
+- **両岸路線をめぐる議論**：野党陣営は彼の両岸政策に柔軟性が欠け、台湾海峡のリスクを高めかねないと疑問を呈している
 
-### Gap Between Policy Promises and Execution
+### 政策公約と実行とのギャップ
 
-- **Three-Shift Nurse-to-Patient Ratio**: During the 2024 presidential election, he promised to enact the "three-shift nurse-to-patient ratio" into law, which the Nursing Association viewed as a key campaign promise. As of 2026, the policy has been criticized for slow progress, with the nursing sector continuing to demand its fulfillment.
-- **Bobo Dentist Controversy**: Long-standing controversies over the certification of his overseas dental medical qualifications remain unresolved. As a president with a physician background, Lai Ching-te was expected to propose a solution, but no clear policy has emerged to date.
-- **Energy Policy**: The stability of power supply under the "Nuclear-Free Homeland" policy continues to be questioned.
+- **三交代制の看護師配置基準（三班護病比）**：2024年総統選挙期間中、「三班護病比」の法制化推進を公約とし、看護師公会から重要な政見と見なされた。2026年時点で、この政策は推進の進度が遅いと批判されており、看護界は引き続き公約の履行を求めている
+- **「波波牙醫」問題**：海外歯科医学歴の認証問題は長らく論争が絶えず、医師としての背景を持つ総統である頼清徳には解決策の提示が期待されているが、現時点では明確な政策が打ち出されていない
+- **エネルギー政策**：脱原発（非核家園）政策における電力供給の安定性が、引き続き疑問視されている
 
-### Political Polarization During Governance
+### 執政期間中の政治的対立
 
-- **Relationship between the Executive, Legislative, and Party**: Polarization between the ruling and opposition parties has intensified after taking office, with the opposition criticizing several judicial cases as politically targeted.
-- **Minority Government Dilemma**: The Democratic Progressive Party does not hold a majority in the Legislative Yuan, and policy implementation has encountered frequent resistance.
-- **Premier Period**: The Labor Standards Act Amendment ("One Day Off, Seven Days Work" re-amendment) sparked strong protests from labor groups.
+- **府院党と野党との関係**：執政後、与野党の対立は深まり、野党は複数の司法案件に政治的な狙い撃ちの色合いがあると批判している
+- **少数与党のジレンマ**：民進党は立法院で過半数を持たず、政策推進が度々困難に直面している
+- **行政院長時代**：労働基準法改正案（「一例一休（週休一日プラス休息日一日）」の再改正）は、労働団体から激しい抗議を引き起こした
 
-### Criticism of Governance Style
+### 施政スタイルへの批判
 
-Some public opinion believes that the narrative framework of "physician entering politics" is overly beautified, questioning whether the "diagnosis → treatment → follow-up" governance logic is truly implemented in actual state governance. Critics point out that a medical background does not necessarily equate to good political decision-making ability.
+一部の世論は、「医師から政治家へ」という叙述の枠組みは過度に美化されているとし、「診断 → 治療 → フォローアップ」という施政の論理が、実際の国政において本当に実行されているのかを疑問視している。批判者は、医学的背景が必ずしも優れた政治的意思決定能力に直結するわけではないと指摘する。
 
-## Historical Positioning
+## 歴史的位置づけ
 
-Lai Ching-te has set multiple constitutional records (the first vice president to successfully run for president, the first physician president). His political career embodies the possibility of social class mobility in Taiwan—from the son of a miner in Wanli to the Presidential Office.
+頼清徳は複数の憲政記録（副総統からの当選成功初例、医師出身初の総統）を打ち立てており、その政治生涯は、台湾社会における階層流動の可能性──万里の炭鉱夫の子から総統府へ──を体現している。
 
-However, as the current president, his historical positioning is still being written. Supporters view him as a new model of "professional governance," while critics believe there is a gap between his governance effectiveness and election promises. Taiwan society's final evaluation of him will depend on the degree of policy fulfillment and the direction of cross-strait relations during his future term.
+しかし、現職の総統として、その歴史的位置づけは今なお書かれている途上にある。支持者は彼を「専門による統治」の新たな範例と見なし、批判者は施政の成果と選挙公約との間にギャップが存在すると考える。台湾社会による彼への最終的な評価は、今後の任期における政策履行の度合いと両岸関係の推移にかかっている。
 
-**Further Reading**:
+**関連記事**：
 
-- [2026 Zheng-Xi Meeting: The Ten Minutes of the Reunion of KMT and CCP Leaders After Ten Years](/society/2026ZhengXiMeetingAndTheTenYearReunionOfKMTAndCCP) — The other protagonist of this drama, deliberately left out of the frame
-- [Hsieh Bi-chin](/people/HsiehBi-chin) — Lai Ching-te's vice-presidential running mate, from Washington-based Representative to the War Cat Vice President
-- [Taiwan National Defense and Military Modernization](/society/TaiwanNationalDefenseAndMilitaryModernization) — The most representative policy during Lai Ching-te's term: the 1.25 trillion special budget and the M1A2T tank battalion commissioning
-- [Taiwan Democratic Transition](/history/TaiwanDemocraticTransition) — The fact that a son of a miner from Wanli could become president is itself a product of democratic transition
-- [Li Yang](/people/LiYang) — The youngest cabinet member in history, personally sworn in by Lai Ching-te, and the first Minister of Sports
-- [Shen Pei-yang](/people/ShenPei-yang) — A DPP legislator at-large on the "Pro-Independence Stubborn Elements" list, who in 2025 became the first Taiwanese elected political figure to be filed by China for the crime of splitting the country
-- [Chao Rong-tai](/people/ChaoRong-tai) — Lai Ching-te's first Premier during his 2024 term, a coordinator for 38 years, and in December 2025 became the first Premier in a constitutional precedent not to countersign the Financial and Property Allocation Act
-- [Hsu Chiao-hsin](/people/HsuChiao-hsin) — The KMT legislator who repeatedly clashed with Lai Ching-te on the questioning stage, and the main proponent of the 800 billion version in the 2026 military procurement controversy
+- [2026年鄭習会議：国共両指導者、十年ぶりの再会の十分間](/society/2026鄭習會與國共十年再會) — このドラマのもう一人の主役、意図的にカメラの外に置かれた人物
+- [蕭美琴](/people/蕭美琴) — 頼清徳の副総統パートナー。ワシントン駐米代表から「戦猫」副総統へ
+- [台湾の国防と軍事の近代化](/society/台灣國防與軍事現代化) — 頼清徳任期中、最も代表的な政策。1.25兆元の特別予算とM1A2T戦車大隊の編成
+- [台湾の民主化転換](/history/台灣民主轉型) — 万里の炭鉱夫の子が総統になり得たこと自体が、民主化転換の産物である
+- [李洋](/people/李洋) — 頼清徳自らが宣誓を監督した、史上最年少の閣僚であり初代スポーツ部長
+- [沈伯洋](/people/沈伯洋) — 民進党で「台独頑固分子」リストに連名された比例代表立法委員。2025年に中国から国家分裂罪で立件された初の台湾民選政治家となった
+- [卓栄泰](/people/卓榮泰) — 頼清徳2024年任期初の行政院長。38年来の調整役で、2025年12月に憲政史上初めて財政収支劃分法に副署を拒否した院長となった
+- [徐巧芯](/people/徐巧芯) — 質疑の場で頼清徳と幾度もぶつかった国民党立法委員。2026年軍事調達論争における8000億元案の主要な推進者
 
-## References
+## 参考資料
 
-- [Official Website of the Presidential Office of the Republic of China, Presidential Introduction](https://www.president.gov.tw/Page/694)
-- [Wikipedia "Lai Ching-te" Entry](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7)
-- [Commonwealth Magazine Annual Related Interview Reports](https://www.cw.com.tw/article/5128853)
-- [National Cheng Kung University Medical College Academic Records](https://www.ncku.edu.tw/)
-- [Central Election Commission 2024 Presidential Election Gazette](https://bulletin.cec.gov.tw/)
-- [Tainan City Government Annual Governance Reports](https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709)
+- [中華民国総統府公式サイト・総統紹介](https://www.president.gov.tw/Page/694)
+- [Wikipedia「賴清德」項目](https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7)
+- [『天下雑誌』歴年関連インタビュー報道](https://www.cw.com.tw/article/5128853)
+- [成功大学医学院学歴資料](https://www.ncku.edu.tw/)
+- [中央選挙委員会2024年総統選挙公報](https://bulletin.cec.gov.tw/)
+- [台南市政府歴年施政報告](https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709)
