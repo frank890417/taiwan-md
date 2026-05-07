@@ -7,7 +7,8 @@ Rules mirror REWRITE-PIPELINE Stage 4:
   - zh-TW articles need complete core fields
   - core fields should appear in canonical relative order
   - string scalar fields use single quotes
-  - tags use one-line flow style: `tags: ['a', 'b']`
+  - tags use Prettier-stable flow style: `tags: ['a', 'b']`, which may wrap
+    into bracketed multiline YAML when the array is long
 
 Severity model:
   - HARD: missing frontmatter, missing required field, invalid field type
@@ -96,6 +97,22 @@ def _line_snippet(lines: list[str], line_no: int | None) -> str | None:
     if 0 <= idx < len(lines):
         return lines[idx]
     return None
+
+
+def _tags_uses_flow_array(lines: list[str], tags_line_idx: int, raw: str) -> bool:
+    value = _field_value(raw)
+    if value.startswith("["):
+        return True
+
+    if value:
+        return False
+
+    for next_line in lines[tags_line_idx:]:
+        stripped = next_line.strip()
+        if not stripped:
+            continue
+        return stripped.startswith("[")
+    return False
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
@@ -236,7 +253,7 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
         last_key = key
 
     # Style checks: quote scalar strings, keep date/bool/path values unquoted,
-    # and force tags into a one-line flow array.
+    # and force tags into Prettier-stable flow array style.
     for key in SINGLE_QUOTED_SCALARS:
         line = _line_for_key(lines, key)
         if not line:
@@ -300,11 +317,11 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     tags_line = _line_for_key(lines, "tags")
     if tags_line:
         line_no, raw = tags_line
-        if not re.match(r"^tags:\s*\[.*\]\s*$", raw):
+        if not _tags_uses_flow_array(lines, line_no - 1, raw):
             yield Violation(
                 check=CHECK_NAME,
                 severity=DEFAULT_SEVERITY,
-                message="frontmatter `tags` 應使用單行 flow array",
+                message="frontmatter `tags` 應使用 flow array（可由 Prettier 換行）",
                 line=line_no,
                 snippet=raw,
                 fix_suggestion="tags: ['標籤一', '標籤二']",

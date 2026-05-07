@@ -1,7 +1,7 @@
 """Tests for frontmatter_format plugin.
 
 This is the formatter counterpart to `frontmatter-title`: it checks the
-REWRITE-PIPELINE Stage 4 YAML shape, field order, and canonical style.
+REWRITE-PIPELINE Stage 4 YAML shape, field order, and Prettier-stable style.
 """
 
 from pathlib import Path
@@ -79,13 +79,21 @@ def test_stage4_promotes_formatter_warns_to_hard(tmp_path):
     assert any("欄位順序錯" in v.message for v in hard)
 
 
-def test_block_tags_warns_for_flow_array_style(tmp_path):
+def test_prettier_wrapped_flow_tags_passes(tmp_path):
+    fm = GOOD_FRONTMATTER.replace(
+        "tags: ['媒體', '科學傳播']\n",
+        "tags:\n  [\n    '媒體',\n    '科學傳播',\n  ]\n",
+    )
+    assert _violations(tmp_path, fm) == []
+
+
+def test_hyphen_tags_warns_for_flow_array_style(tmp_path):
     fm = GOOD_FRONTMATTER.replace(
         "tags: ['媒體', '科學傳播']\n",
         "tags:\n  - 媒體\n  - 科學傳播\n",
     )
     violations = _violations(tmp_path, fm)
-    assert any("單行 flow array" in v.message for v in violations)
+    assert any("flow array" in v.message for v in violations)
 
 
 def test_unquoted_string_scalar_warns(tmp_path):
