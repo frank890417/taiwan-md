@@ -376,7 +376,9 @@
   main
     a[target='_blank']:not(.nav-link):not([class*='btn']):not(.card-link):not(
       .logo
-    ):not(.category-card):not(.floating-md):not(.contributor-card)::after {
+    ):not(.category-card):not(.floating-md):not(.contributor-card):not(
+      .no-external-icon
+    )::after {
     content: '↗';
     font-size: 0.8em;
     margin-left: 0.2em;
