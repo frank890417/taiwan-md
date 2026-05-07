@@ -123,6 +123,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 <!-- 新教訓 append 這裡 -->
 
+### 2026-05-07 amazing-gould — Bulk fix 工具的「first run 寫壞、second run 撞自己」失敗模式
+
+- **原則**：`--fix --all` 第一次 run 撞 bug 時可能已經把部分 file 寫成 broken state；同一個 working tree 跑第二次會在 loader 階段 crash（讀進 broken YAML 直接死），讓 debug 變成兩層：分不清「我的新 fix 寫壞」vs「previous failed run 殘留」。**規則**：(a) bulk fix 工具第一次跑前默認應 `git stash --keep-index` 或先 dry-run scan；(b) fix 函式撞 exception 時應 catch + log 哪個檔案、跳過繼續，不要讓單檔失敗炸整個 run；(c) `--fix` 應有 `--dry-run` mode 顯示「會改 N 檔，每檔改 K 處」但不寫；(d) workflow doc / pipeline 段加註：bulk fix 跑前先 `git status` 確認 clean，跑後第一件事 `git diff` 抽樣驗證。
+- **觸發**：2026-05-07 amazing-gould session 寫 `frontmatter_format.py` 的 `fix()` 函式，`--fix --all` 第一輪撞 `_insert_after_key` 末行 newline bug，把 `knowledge/Music/小虎隊.md` 寫成 `featured: falselastVerified: ...`（broken YAML）。改完 bug 後第二次跑 `--fix --all` 在 loader 階段直接 PyYAML scanner crash，traceback 不指哪個檔，要靠 grep 才追到是 previous run 留下的 corruption。30 秒的 bug 變 5 分鐘的考古。
+- **可能層級**：操作規則 → `article-health.py --fix` 加 `--dry-run` flag + per-file try/except + workflow doc 警示 / 通用反射 → DNA 候選「bulk write tool 必須 atomic-or-revert：撞 bug 不該留半壞狀態當下次 run 的污染源」
+- **相關**：DNA #15「反覆浮現的思考要儀器化」（bulk fix 失敗模式儀器化）+ 同 session 第二條教訓（PyYAML raw vs parsed silent drift）— 兩者一起讓「first failed run」更難 debug。
+- **verification_count**: 1
+- **severity**: tactical（影響 SSOT 工具 heal 體驗，未必常觸發）
+
+### 2026-05-07 amazing-gould — PyYAML 對 YAML 1.1 timestamp 的 silent type coercion
+
+- **原則**：PyYAML `safe_load` 把 frontmatter 字串值 `2026-03-24T23:00:00Z` 隱式轉成 Python `datetime` 物件 — `fm["date"]` 拿到的不是 str。如果 fix 邏輯用 parsed value 驗合法性（`.strftime("%Y-%m-%d")` 看起來 `2026-03-24` OK）會錯誤跳過，因為 raw text 在 file 裡其實還是壞的。**規則**：(a) 任何 frontmatter 工具寫 fix 時必須假設「raw text ≠ parsed value」並雙軌驗證；(b) date / bool / null 是 YAML 1.1 三大隱式轉換陷阱（`Yes` → True、`null` / `~` → None、`2026-03-24T23:00:00Z` → datetime），驗合法時讀 raw text；(c) 只有「正規化目標值」才用 parsed object（`.strftime()` 比 `str()` 安全）；(d) 工具 docstring / pipeline 文件層加註這個 trap，未來改 fix 邏輯不會再踩。
+- **觸發**：2026-05-07 amazing-gould session 寫 `_reformat_date` 跟 `fix()` step 1，第一版用 `if not _is_iso_date(str(raw_date))` 判斷需不需要修。對 datetime 物件 `str(dt)` 給 `'2026-03-24 23:00:00+00:00'`（`_is_iso_date` 回 False，意外 enter fix path）；改成 `dt.strftime("%Y-%m-%d")` 拿到 `'2026-03-24'`（OK 但不修 raw text！檔案還是壞著）。最後改成「先讀 raw text 判合法、再用 parsed object 算正規化值」才對。
+- **可能層級**：操作規則 → `frontmatter_format.py` docstring + pipeline 警示 / DNA 候選「raw vs parsed 雙軌驗證」（fact-check / lint / fix 三類工具共通）
+- **相關**：DNA #16「跨源驗證」延伸（同一份資料在 raw / parsed 兩層也算跨源）+ 同 session 第一條（first failed run 留 corruption）放大這個 bug 的 debug cost。
+- **verification_count**: 1
+- **severity**: tactical（單一 plugin 的 trap，但 frontmatter / fact-check 工具會反覆遇到）
+
 ### 2026-05-05 manual — Peer 授權 ND 條款讓 PEER-INGESTION-PIPELINE 預設 mode 失效
 
 - **原則**：PEER-INGESTION-PIPELINE Stage 1a 把授權跟深度／公開性／互補性平等列四項 fit check，但實際上授權應為 **gating filter** —— ND（NoDerivs）紅旗會直接讓另外三項通過也無意義（因為預設「全站 crawl + rewrite」mode 跟 ND「禁止改作」直接衝突）。應升級為 **4-tier license matrix**（T1 CC0/BY → full ingest；T2 BY-SA → full ingest；T3 BY-NC/BY-NC-SA → limited ingest；T4 BY-ND/BY-NC-ND/ARR → cite-only mode，跳過 Stage 2-3）。
