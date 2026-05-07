@@ -216,6 +216,14 @@ export default defineConfig({
       '/ko/culture/taiwan-religion-and-temple-culture/',
     '/fr/culture/new-religions-and-spirituality':
       '/fr/culture/religion-and-temple-culture/',
+    // 2026-05-07: 阿志頭 → 台灣髮型介紹 (整併: 阿志頭 EVOLVE 進 台灣髮型介紹)
+    // canonical: Lifestyle/台灣髮型介紹.md (slug 沿用)
+    // archive: Lifestyle/阿志頭.md (被刪, 內容全部整合進 台灣髮型介紹)
+    // 4 lang redirects (zh-TW + en/ja/ko translation slugs)
+    '/lifestyle/阿志頭': '/lifestyle/台灣髮型介紹/',
+    '/en/lifestyle/ah-ji-haircut': '/en/lifestyle/taiwan-hairstyles/',
+    '/ja/lifestyle/ah-ji-haircut': '/ja/lifestyle/taiwan-hairstyles/',
+    '/ko/lifestyle/ah-ji-haircut': '/ko/lifestyle/taiwan-hairstyles/',
   },
   // 2026-05-04: build perf tuning. Page render is 93% of build time
   // (363s render / 391s wall, baseline 4,331 pages). concurrency 1 → 4

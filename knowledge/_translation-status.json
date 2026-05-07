@@ -13519,61 +13519,6 @@
         }
       }
     },
-    "Lifestyle/阿志頭.md": {
-      "zh": {
-        "lastCommit": "6cd51d3f",
-        "lastModified": "2026-05-07T00:24:06+08:00",
-        "contentHash": "sha256:c220fdb6388e4f30",
-        "bodyHash": "sha256:c8cb1f4975c2813d"
-      },
-      "translations": {
-        "en": {
-          "path": "en/Lifestyle/ah-ji-haircut.md",
-          "translatedFrom": "Lifestyle/阿志頭.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "68f550ea",
-          "translationLastModified": "2026-05-07T01:17:29+09:00",
-          "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
-        },
-        "ja": {
-          "path": "ja/Lifestyle/ah-ji-haircut.md",
-          "translatedFrom": "Lifestyle/阿志頭.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "68f550ea",
-          "translationLastModified": "2026-05-07T01:17:29+09:00",
-          "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
-        },
-        "ko": {
-          "path": "ko/Lifestyle/ah-ji-haircut.md",
-          "translatedFrom": "Lifestyle/阿志頭.md",
-          "sourceCommitSha": "",
-          "sourceContentHash": "",
-          "sourceBodyHash": "",
-          "translatedAt": "",
-          "translationLastCommit": "68f550ea",
-          "translationLastModified": "2026-05-07T01:17:29+09:00",
-          "inferred": false,
-          "status": "stale",
-          "reason": "no-source-sha"
-        },
-        "es": {
-          "status": "missing"
-        },
-        "fr": {
-          "status": "missing"
-        }
-      }
-    },
     "Lifestyle/台灣交通系統.md": {
       "zh": {
         "lastCommit": "e5fe6f08",
