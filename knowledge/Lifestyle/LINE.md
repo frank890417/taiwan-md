@@ -6,6 +6,7 @@ subcategory: '城市生活'
 tags:
   [通訊軟體, 數位生活, LINE Pay, LINE Bank, 台灣文化, 壟斷, 資訊安全, 數位遺產]
 author: 'Taiwan.md Contributors'
+featured: false
 date: 2026-04-30
 readingTime: 15
 lastVerified: 2026-04-30

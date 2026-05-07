@@ -5,10 +5,11 @@ category: Lifestyle
 subcategory: '交通與移動'
 tags: [YouBike, 城市交通, 綠運輸, 微交通]
 author: 'Wilson Chen'
+featured: false
 date: 2026-04-14
 readingTime: 8
 lastVerified: 2026-04-14
-lastHumanReview: 2026-04-14
+lastHumanReview: true
 ---
 
 > **30 秒概覽：**

@@ -5,6 +5,7 @@ category: Technology
 subcategory: '社群與數位文化'
 tags: ['Instagram', 'Threads', '社群媒體', '數位文化', '台灣現況']
 author: 'Taiwan.md Contributors'
+featured: false
 date: 2026-05-01
 readingTime: 8
 lastVerified: 2026-05-02

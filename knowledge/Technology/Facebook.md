@@ -5,6 +5,7 @@ category: Technology
 subcategory: '社群與數位文化'
 tags: ['Facebook', '社群媒體', '數位民主', '太陽花學運', '認知作戰', '假訊息']
 author: 'Taiwan.md Contributors'
+featured: false
 date: 2026-05-01
 readingTime: 28
 lastVerified: 2026-05-02

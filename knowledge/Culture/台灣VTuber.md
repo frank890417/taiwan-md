@@ -3,8 +3,19 @@ title: '台灣 VTuber：從企業實驗到「出圈」的虛實共生演進'
 description: '2017 年，虛擬女孩虎妮在 Yahoo TV 亮相，開啟台灣 VTuber 產業。從最初的企業技術實驗，到 2025 年全台累計超過 3,000 位 VTuber 出道，這股力量已演化為橫跨奧運合作與台語復振的文化生態。其帶動的 Super Chat 經濟雖達數千萬，但個體創作者仍面臨高成本與高流動率的挑戰。'
 category: 'Culture'
 subcategory: '網路文化'
-tags: ['文化', '科技', '直播', '虛擬偶像', '網路文化', 'Z世代', '台語復振', '元宇宙']
+tags:
+  [
+    '文化',
+    '科技',
+    '直播',
+    '虛擬偶像',
+    '網路文化',
+    'Z世代',
+    '台語復振',
+    '元宇宙',
+  ]
 author: 'Taiwan.md'
+featured: false
 date: 2026-04-26
 readingTime: 15
 lastVerified: 2026-04-26
@@ -22,11 +33,12 @@ lastHumanReview: true
 2018 年，虎妮與細田守導演進行專訪，成為台灣首位訪問國際知名動畫導演的 VTuber。她也與台北市長柯文哲同台宣傳世大運，甚至在 2020 年與蔡英文總統在唐綺陽的節目中同框出現。這些「第一次」為台灣 VTuber 建立了一個重要先例：虛擬角色可以跨出 ACG 圈子，進入主流媒體和政治場域。 [^4]
 
 > 💡 **你知道嗎**
-虎妮在全球 VTuber 調查中取得第 118 名的成績，在全球 4000 多位 VTuber 中位居前段班，被粉絲稱為「島主」般的存在。 [^4]
+> 虎妮在全球 VTuber 調查中取得第 118 名的成績，在全球 4000 多位 VTuber 中位居前段班，被粉絲稱為「島主」般的存在。 [^4]
 
 然而，企業主導的模式也有其局限。2020 年 1 月，初代虎妮（α 虎妮）「前往大麥剋星球」結束主持工作，由 β 虎妞接替。2023 年 8 月，β 虎妮也宣告進入長休。一個 IP 的生命週期，似乎總是受制於企業策略的變化。 [^4]
 
 隨著企業 IP 逐漸凋零，產業重心轉向去中心化的個人勢（Indie）。台灣 VTuber 的發展歷程可分為三個關鍵階段：
+
 - **初期探索 (2017-2018年)**：以 Yahoo TV 的虎妮與奧莉絲為先驅，開啟企業經營 VTuber 的早期嘗試。 [^13]
 - **群雄並起與企業進駐 (2019-2021年)**：杏仁ミル等高人氣個人勢崛起。同時，春魚工作室、子午計畫等專業經紀公司進駐，建立類似演藝圈的練習生制度。 [^12] [^13]
 - **蓬勃發展與在地化 (2022年至今)**：VTuber 數量爆炸性增長。截至 2025 年，全台累計超過 3,000 位 VTuber 出道，展現出極高的社群互動與在地化特色。 [^13] 然而，實際活躍的 VTuber 數量遠低於此（多為數百位穩定追蹤），許多創作者出道後很快「休止」或轉生，反映出產業的高流動率與「血汗」現實。 [^14]
@@ -56,6 +68,7 @@ lastHumanReview: true
 例如，**浠Mizuki** 的 3D 化募資計畫達到 874 萬台幣，**森森鈴蘭**的 3D 化與實體演唱會募資達到 868 萬台幣，都遠超過原定目標。挖貝創辦人林大涵觀察：「VTuber 的經營需要觀眾參與，這與募資本質相似。只要是有一定規模的台灣 VTuber，接下來都會用募資形式壯大自己。」 [^12]
 
 台 V 的社會影響力也透過多元的跨域合作展現：
+
 - **春魚創意**：專精 IP 故事塑造，推出《瀕臨絕種團》、《惡獸時代》等系列，旗下 VTuber 擔任巴黎奧運虛擬大使。 [^15]
 - **子午計畫**：走精品路線，旗下 **浠Mizuki** 是台灣 SC 收入最高的 VTuber 之一。 [^12]
 - **魔競娛樂**：採用「平價多量」策略，一期生《EXITUS》和二期生《MeloNyx》共有 13 名成員，建立類似演藝圈的練習生制度。 [^12]
@@ -87,17 +100,31 @@ lastHumanReview: true
 ## 參考資料
 
 [^1]: [臺灣 VTuber 列表數據觀測站](https://taiwanvtuberdata.github.io/) — 提供台灣 VTuber 即時排行、直播狀態與近期出道資訊
+
 [^2]: [VTuber 訂閱數世界排名一覽 (2026/04 更新)](https://vchavcha.com/free-resource/vtuber-ranking-worldwide/) — 追蹤全球與台灣頂尖虛擬主播訂閱數據
+
 [^3]: [2025 全球 VTuber 事件回顧：走出螢幕，全面進入現實世界](https://vchavcha.com/vtuber-news/2025-vtuber-review/) — 紀錄 VTuber 產業從線上轉向線下實體合作的關鍵轉折
+
 [^4]: [虎妮](https://zh.wikipedia.org/zh-tw/%E8%99%8E%E5%A6%AE) — 台灣首位 VTuber 的發展歷史與 Yahoo TV 實驗歷程
+
 [^5]: [VTuber 講台語 神霄推廣本土語言](https://vita.tw/vtuber%E8%AC%9B%E5%8F%B0%E8%AA%9E-%E7%A5%9E%E9%9C%84%E6%8E%A8%E5%BB%A3%E6%9C%AC%E5%9C%9F%E8%AA%9E%E8%A8%80/) — 探討虛擬偶像如何成為本土語言復振的新興載體
+
 [^6]: [YouTube 2025 趨勢報告：VTuber 觀看排名霸榜超越真人](https://news.viverse.com/zh-TW/post/youtube-2025%E8%B6%A8%E5%8B%A2%E5%A0%B1%E5%91%8A%EF%BC%9Avtuber%E8%A7%80%E7%9C%8B%E6%8E%92%E5%90%8D%E9%9C%B8%E6%A6%9C%E8%B6%85%E8%B6%8A%E7%9C%9F%E4%BA%BA) — 分析虛擬創作者在主流影音平台的流量優勢
+
 [^7]: [臺灣 VTuber 觀看數據分享 2026/04](https://www.ptt.cc/bbs/Vtuber/M.1776571009.A.C70.html) — PTT VTuber 板社群整理的最新直播活躍度與訂閱統計
+
 [^8]: [動物 VTuber](https://zh.wikiversity.org/wiki/%E5%8B%95%E7%89%A9VTuber) — 維基學院關於非人型虛擬偶像的分類與定義
+
 [^9]: [VTuber 靠粉絲抖內比上班族還賺？揭露虛擬 YouTuber 勞動的血汗面](https://news.pts.org.tw/article/654876) — 公視新聞報導虛擬主播的勞動現狀與實體互動嘗試
+
 [^10]: [台灣 VTuber 列表數據站](https://taiwanvtuberdata.github.io/) — 彙整超過千位台灣 VTuber 的詳細出道與直播數據
+
 [^11]: [煙花蹦蹦蹦 - Streams List and Statistics](https://twitchtracker.com/hennie2001/streams) — 紀錄台灣頂尖 Twitch VTuber 的直播數據與觀看紀錄
+
 [^12]: [這群網紅為何風靡全球？解鎖虛擬偶像 VTuber 流量變現密碼](https://www.gvm.com.tw/article/108762) — 遠見雜誌分析台 V 產業的商業模式與流量轉化
+
 [^13]: [台灣VTuber產業發展現況](https://r-lover.com/sharing/info-gathering/taiwan-vtuber-industry-info/) — 愛上R語言整理的台灣 VTuber 產業數據與發展里程碑
+
 [^14]: [VTuber靠粉絲抖內比上班族還賺？揭露虛擬YouTuber勞動的血汗面](https://news.pts.org.tw/video/2875) — 公視新聞揭露 VTuber 產業的成本、收入與血汗現狀
+
 [^15]: [SpringFishStudio 春魚創意](https://portaly.cc/springfish) — 台灣指標性 VTuber 經紀公司的作品集與跨域合作紀錄

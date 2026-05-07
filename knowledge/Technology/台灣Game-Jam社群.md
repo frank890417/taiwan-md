@@ -2,7 +2,7 @@
 title: '台灣 Game Jam 社群'
 description: '從 Global Game Jam 落地台灣，到 KUSO GAME JAM 以廢作為哲學——台灣 Game Jam 社群十年間如何成為獨立遊戲生態的孵化皿與試驗場'
 date: 2026-04-27
-category: '科技'
+category: 'Technology'
 tags: ['遊戲', '獨立遊戲', 'Game Jam', '社群', 'KUSO', '創作']
 subcategory: '遊戲產業'
 readingTime: 8

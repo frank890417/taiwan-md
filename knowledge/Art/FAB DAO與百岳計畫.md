@@ -2,6 +2,7 @@
 title: '捐款永動機：FAB DAO 與百岳計畫的社會實驗'
 description: '一位離職醫師如何用一面壓線球國旗，開啟台灣 Web3 公益的全新想像。FAB DAO 與百岳計畫重新定義了捐款的本質：收藏即捐款，藝術即社會行動。'
 date: 2026-03-24
+category: 'Art'
 tags:
   ['NFT', '區塊鏈藝術', '社會創新', '公益', '生成藝術', '台灣百岳', '數位藝術']
 subcategory: 'digital-art'
