@@ -42,6 +42,33 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 聶永真 EVOLVE Round 2 — 2026-05-08 elegant-ptolemy 重構（多元面貌人物 SSODT，去 event-report 框架 / People / 藝術與設計）
+
+哲宇 review Round 1 後指出文章過度錨定 2026/05/08 台電 LOGO 5 小時論述循環，要求重寫為「紀實 + 閱讀感順暢 + 完整描述這個人的多元面貌」的 SSODT，台電案降為其中一章而非結構主軸。
+
+- **Article**: [knowledge/People/聶永真.md](../../knowledge/People/聶永真.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE Round 2（218 行 → 200 行 / 重 hook + 重結構 + 重 title/description）
+- **新 title**：「聶永真：台灣首位 AGI 會員，從金曲包裝到國家識別系統的二十年」（從事件人物切換為職涯範圍人物）
+- **新 description**：以多元面貌列舉開頭（音樂封面 / 公民運動 / 政治競選 / 國營識別 / 藝術空間），台電爭議移至最後一句 anchor
+- **新結構**（10 章，台電從首章降為第 9 章）：
+  1. 30 秒概覽（多元面貌列表 + 台電爭議僅 1 句）
+  2. Hook 段（攤開接案目錄：音樂 / 書籍 / 商業品牌 / 公部門 / 公民運動 / 政治設計 6 條清單）
+  3. 從機械製圖到工商業設計
+  4. 從專輯封面起家：三度金曲獎與二十年的音樂版面
+  5. 首位 AGI 會員與「不安全的設計」
+  6. 凌晨四點的紐時頭版與 Taiwan Can Help
+  7. 「點亮台灣」與兩屆總統就職
+  8. 出走比利時與倫敦：「太舒適圈」的逃離
+  9. 駁二倉庫的一束光與工作室的形狀
+  10. 國營事業連環標案與 2026 年的台電 LOGO 風暴（5 小時敘事保留但縮為一章）
+  11. 「公民聶永真」與「設計師聶永真」（哲學收束）
+  12. 永真急制這個名字（工作室層次 closing）
+- **品質**：200 行 / 9,481 chars body / 29 footnote / 11+ verbatim 中文引語 / 3 張 CC 授權 inline 圖（hero + 2 inline，不變）/ HARD=0 ✅ / 12 plugin 全綠（cjk-punct + cross-reference + footnote-density/format/url + format-structure + frontmatter-format + frontmatter-title + image-health + link-target + prose-health score=2 PASS + terminology + wikilink-target）
+- **Stage 3 對位句型修補**：Round 1 留下 3 處「不是 X，而是 Y」對位句型違反 §11 Tier 1，本 Round 全 rewrite 為正面斷言（「批評者問的核心其實是身份的可區辨性」/「在他的職涯軌跡裡始終是同一個專業」）
+- **觀察者校準**：哲宇 Round 1 review 指「這篇不是專題事件報導，是讓人了解這個人的 SSODT」— 把焦點從「2026/05/08 那一天發生什麼」拉回到「聶永真二十年職涯橫跨幾個產業」。具體執行：(a) 開場移除 5 小時時間軸，改為跨產業清單；(b) 標題從「在公民身份與商業案之間」改為「從金曲包裝到國家識別系統的二十年」；(c) 把 2014/2020/2026 三個時間點當作三章而非結構主軸；(d) 新增「永真急制這個名字」章節說明工作室作為集體實踐
+- **DNA #16 跨源驗證**：所有 facts、verbatim 引語、footnote URL 與 Round 1 完全一致，無 fact drift；本 Round 純粹是結構與框架的重組
+- **LESSONS-INBOX 候選**：「event-driven framing vs person-centric SSODT」是 People 文章的關鍵分流判準。當核心人物職涯橫跨多領域、且當天有突發事件時，預設 framing 應為 person-centric（介紹人物多元面貌），事件作為其中一章。如果觀察者要求事件報導，應另開 News-style article。
+
 ### 聶永真 EVOLVE — 2026-05-08 elegant-ptolemy 完成（公民聶永真 vs 商業聶永真，2026/05/08 台電 LOGO 風暴 hook / People / 藝術與設計）
 
 - **Article**: [knowledge/People/聶永真.md](../../knowledge/People/聶永真.md)
