@@ -50,12 +50,16 @@ jobs:
       # 但 npm run build 含 prebuild:og（generate-og-images.mjs）需要 chromium。
       # 觸發：任何動 src/i18n/** 的 PR 跑這個 workflow → prebuild:og 失敗。
       # 修法：抄 deploy.yml 的 3-step Playwright install pattern。
+      #
+      # ⚠️ Cache key 必須含 runner.arch — deploy.yml 跑 ubuntu-24.04-arm (ARM64)，
+      # 此 workflow 跑 ubuntu-latest (x86_64)。共用 ${runner.os}-only key 會
+      # cross-arch contamination（ARM binary 在 x86 不能跑）→ silent missing chromium。
       - name: Restore Playwright cache
         uses: actions/cache@v4
         id: playwright-cache
         with:
           path: ~/.cache/ms-playwright
-          key: playwright-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          key: playwright-${{ runner.os }}-${{ runner.arch }}-${{ hashFiles('package-lock.json') }}
       - name: Install Playwright system deps (always)
         timeout-minutes: 5
         run: npx --no-install playwright install-deps chromium
