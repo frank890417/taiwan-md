@@ -1,15 +1,24 @@
 ---
 title: 'Mini Taiwan Pulse：一個資料分析師如何把台灣的交通脈動畫成會呼吸的 3D 光軌'
-category: Technology
+description: '2026 年 2 月 24 日，一個叫 Migu Cheng 的資料分析師開了 mini-taiwan-pulse 這個 repo，六週後 193 個 commits、241 顆 star：他一個人把 FlightRadar24、TDX、SEGIS、CWA 的開放資料串起來，用 Three.js 把台灣畫成會呼吸的 3D 光軌。台灣的開放資料基礎建設是亞洲前段班，卻很少人看得見那片資料海。公民科技從 g0v 集體黑客松延伸到個人週末專案，視覺化本身就是一種參與。'
+date: 2026-04-19
+category: 'Technology'
+tags:
+  [
+    'Technology',
+    '公民科技',
+    '開放資料',
+    '資料視覺化',
+    '開源專案',
+    'TDX',
+    'Three.js',
+  ]
 subcategory: '公民科技'
 author: 'Taiwan.md'
-tags: [Technology, 公民科技, 開放資料, 資料視覺化, 開源專案, TDX, Three.js]
-date: 2026-04-19
-description: '2026 年 2 月 24 日，一個叫 Migu Cheng 的資料分析師開了 mini-taiwan-pulse 這個 repo，六週後 193 個 commits、241 顆 star：他一個人把 FlightRadar24、TDX、SEGIS、CWA 的開放資料串起來，用 Three.js 把台灣畫成會呼吸的 3D 光軌。台灣的開放資料基礎建設是亞洲前段班，卻很少人看得見那片資料海。公民科技從 g0v 集體黑客松延伸到個人週末專案，視覺化本身就是一種參與。'
+featured: false
 lastVerified: 2026-04-19
 lastHumanReview: true
 readingTime: 12
-featured: false
 ---
 
 # Mini Taiwan Pulse：一個資料分析師如何把台灣的交通脈動畫成會呼吸的 3D 光軌

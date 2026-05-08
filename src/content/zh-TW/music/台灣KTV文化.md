@@ -2,15 +2,15 @@
 title: '台灣KTV文化：從好樂迪錢櫃到包廂社交的時代變遷'
 description: '探索台灣KTV文化的發展歷程，從日本引進的卡拉OK到本土化的包廂文化，好樂迪與錢櫃的競爭時代，點歌排行榜如何成為流行文化指標，以及疫情後的產業轉型挑戰'
 date: 2026-03-19
+category: 'Music'
 tags:
   ['KTV文化', '卡拉OK', '好樂迪', '錢櫃', '包廂文化', '流行音樂', '社交文化']
 subcategory: '音樂產業'
 author: 'Taiwan.md'
-readingTime: 12
 featured: true
-category: 'Music'
 lastVerified: 2026-03-19
 lastHumanReview: false
+readingTime: 12
 ---
 
 # 台灣KTV文化：從好樂迪錢櫃到包廂社交的時代變遷

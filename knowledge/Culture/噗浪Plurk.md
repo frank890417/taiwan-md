@@ -2,9 +2,9 @@
 title: '噗浪 Plurk'
 description: '2008 年上線的微網誌平台噗浪，用橫向捲動的「河道」時間軸和零演算法推播，在 Facebook 與 Twitter 橫掃全球的十年間活了下來。2016 年被 Google 廣告聯播網封鎖後，靠「噗幣」付費會員制轉虧為盈——台灣使用者用新台幣投票，讓這條不被演算法綁架的河道繼續流。'
 date: 2026-04-01
+category: 'Culture'
 tags: ['社群媒體', '宅文化', '台灣網路史', '噗幣']
 subcategory: '數位生活'
-category: 'Culture'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01

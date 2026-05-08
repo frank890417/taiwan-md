@@ -2,6 +2,7 @@
 title: 'justfont 與台灣字體發展：從華康廿五年到金萱七十六分鐘的字型小史'
 description: '2015 年 9 月 8 日下午，金萱在 flyingV 上線 76 分鐘達 150 萬目標、11 小時破千萬、58 小時突破 2,000 萬，最終以 NT$25,930,099 / 7,667 人改寫台灣群募紀錄。同年 6 月，Apple 在 WWDC 發表的 iPhone 預設中文字「蘋方」，是位於台北市南港區的威鋒數位（前華康）做的。台灣不是沒做過字型，是「日均一個字型師雕 3.8 個中文字」的工作量級讓 25 年沒人想做新的。'
 date: 2026-04-29
+category: 'Technology'
 tags:
   [
     '字型',
@@ -15,7 +16,6 @@ tags:
     '開源',
     '群募',
   ]
-category: 'Technology'
 subcategory: '設計與工藝'
 author: 'Taiwan.md'
 featured: true

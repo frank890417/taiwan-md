@@ -2,14 +2,14 @@
 title: 'PTT 批踢踢：台灣最頑固的公共廣場'
 description: '一個 1995 年架在宿舍裡的 BBS，三十年後依然用純文字介面運作，卻深刻塑造了台灣的網路語言、政治討論與集體記憶'
 date: 2026-03-21
+category: 'Technology'
 tags: ['PTT', 'BBS', '網路文化', '鄉民', '數位民主', '社群媒體']
 subcategory: '社群與數位文化'
 author: 'p3nchan'
-readingTime: 8
 featured: true
-category: 'Technology'
 lastVerified: 2026-03-21
 lastHumanReview: true
+readingTime: 8
 ---
 
 # PTT 批踢踢：台灣最頑固的公共廣場

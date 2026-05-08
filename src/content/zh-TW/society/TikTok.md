@@ -1,8 +1,8 @@
 ---
 title: 'TikTok'
 description: '從 15 秒的快樂到隱形的認知作戰，TikTok 如何透過極致的個人化推播與「影海戰術」，悄然重塑台灣青少年的世界觀與政治認同。'
-category: Society
-subcategory: '媒體與言論'
+date: 2026-04-12
+category: 'Society'
 tags:
   [
     TikTok,
@@ -16,12 +16,12 @@ tags:
     疑美論,
     毀滅台灣信心,
   ]
+subcategory: '媒體與言論'
 author: 'idlccp1984'
 featured: false
-date: 2026-04-12
-readingTime: 10min
 lastVerified: 2026-04-12
 lastHumanReview: true
+readingTime: 10min
 ---
 
 > **30 秒概覽：** TikTok 不只是一個讓人成名的短影音平台，它在台灣更是一場「去中心化」的認知實驗。透過極致的個人化推播，它讓使用者在不知不覺中，將他人的政治議程內化為自己的世界觀。2025 年的調查顯示，台灣 15 至 18 歲的青少年中，有超過 7 成每天花費超過 2 小時在 TikTok 上，而他們對中國的好感度，正隨著滑動的手指悄然攀升，同時也加深了對台灣社會的負面觀感。

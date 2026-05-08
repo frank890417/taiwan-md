@@ -2,6 +2,7 @@
 title: 'Ray(YouTuber)'
 description: "2005年出生的台灣高中生許宸睿，在日本修學旅行時一句「My name is Ray, I'm from Taiwan」爆紅。目前Twitch超過270萬追隨者、YouTube 143萬訂閱，他把台灣護照、牛肉麵、珍奶帶進美國GQ熱門影片，還簽約Adidas推出個人品牌RUEI，後來宣布退休轉投資牙醫診所，讓世界看見台灣年輕人的可能性。"
 date: 2026-03-23
+category: 'People'
 tags:
   [
     'YouTuber',
@@ -13,12 +14,11 @@ tags:
     'AMP',
   ]
 subcategory: '數位與媒體'
-category: 'People'
 author: '坦克'
-readingTime: 9
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
+readingTime: 9
 ---
 
 # Ray(YouTuber)

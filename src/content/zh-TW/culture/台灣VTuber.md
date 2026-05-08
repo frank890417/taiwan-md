@@ -1,8 +1,8 @@
 ---
 title: '台灣 VTuber：從企業實驗到「出圈」的虛實共生演進'
 description: '2017 年，虛擬女孩虎妮在 Yahoo TV 亮相，開啟台灣 VTuber 產業。從最初的企業技術實驗，到 2025 年全台累計超過 3,000 位 VTuber 出道，這股力量已演化為橫跨奧運合作與台語復振的文化生態。其帶動的 Super Chat 經濟雖達數千萬，但個體創作者仍面臨高成本與高流動率的挑戰。'
+date: 2026-04-26
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
     '文化',
@@ -14,12 +14,12 @@ tags:
     '台語復振',
     '元宇宙',
   ]
+subcategory: '網路文化'
 author: 'Taiwan.md'
 featured: false
-date: 2026-04-26
-readingTime: 15
 lastVerified: 2026-04-26
 lastHumanReview: true
+readingTime: 15
 ---
 
 > **30 秒概覽：** 2017 年，Yahoo TV 推出虎妮，標誌著台灣 VTuber 產業的起點。從最初的企業技術實驗，到 2025 年全台累計超過 3,000 位 VTuber 出道，台灣已構築出成熟的「台流」虛擬娛樂生態。這不僅是連結 Z 世代與傳統文化的核心媒介，其帶動的 Super Chat 經濟雖達數千萬，但個體創作者仍面臨高成本與高流動率的挑戰，同時也讓奧運國手與之連動、公視台語台為之開節目。 [^1] [^13] [^14]

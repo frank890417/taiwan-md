@@ -2,6 +2,7 @@
 title: 'VH（Vast & Hazy）：「出口系樂團」的十五年方向校準'
 description: '2011 年淡江金韶獎成軍，2014 年休團，2017 年以雙人型態回歸，三度入圍金曲最佳演唱組合。在台灣獨立圈習慣喧嘩的年代，Vast & Hazy 選擇做無名焦慮的容納所——樂迷自發命名「出口系樂團」。2026 年易祺宣布轉幕後，咖咖帶著這個名字繼續邁行。'
 date: 2026-04-19
+category: 'People'
 tags:
   [
     VH,
@@ -15,14 +16,13 @@ tags:
     出口系樂團,
     情緒搖滾,
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-19
 lastHumanReview: true
 researchReport: reports/research/2026-04/VH.md
+readingTime: 12
 ---
 
 > **30 秒概覽：** VH（Vast & Hazy）是台灣獨立雙人組合，成員咖咖（顏靜萱）與易祺（林易祺）自 2011 年淡江金韶獎成軍，三度入圍金曲最佳演唱組合（2019、2022、2025）。他們以溫柔人聲包裝人性觀察的創作哲學，在 2010 年代政治搖滾主導的獨立圈逆向崛起，樂迷自發命名「出口系樂團」。2026 年 4 月《邁行》年度專場後，易祺宣布角色調整為幕後為主，樂團進入以咖咖為核心的新階段。

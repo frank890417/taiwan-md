@@ -9,7 +9,7 @@ subcategory: 'digital-art'
 author: 'taiwan.md'
 readingTime: 8
 featured: false
-lastVerified: '2026-03-24'
+lastVerified: 2026-03-24
 lastHumanReview: false
 ---
 

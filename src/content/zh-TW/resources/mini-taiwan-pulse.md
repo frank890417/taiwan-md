@@ -1,5 +1,6 @@
 ---
 title: 'Mini Taiwan Pulse — 台灣交通即時 3D 視覺化'
+description: '用開放資料感受台灣的脈動——航班光軌劃過天際、船舶穿梭海面、列車奔馳軌道，23 個圖層即時呈現這座島嶼的呼吸。'
 date: 2026-03-22
 category: 'resources'
 tags:
@@ -12,7 +13,6 @@ tags:
     real-time,
     Taiwan.md,
   ]
-description: '用開放資料感受台灣的脈動——航班光軌劃過天際、船舶穿梭海面、列車奔馳軌道，23 個圖層即時呈現這座島嶼的呼吸。'
 subcategory: '公民科技'
 author: 'Taiwan.md'
 featured: false

@@ -2,24 +2,26 @@
 title: 'HUR+：DD52 亞軍到 Zepp New Taipei，五年不停的九人女團'
 description: '2020 年偶像選秀冠軍賽，她們輸了 2.5 分。六年後，冠軍團消失了，亞軍還在。製作人砸了五千萬、說「越不像韓團越好」——這是一個台灣女團活下來的故事。'
 date: 2026-04-23
+category: 'People'
 tags:
-  - HUR+
-  - DD52
-  - 未來少女
-  - 女團
-  - 偶像
-  - 台灣音樂
-  - 斐立普
-  - AOA Entertainment Lab
-  - K-POP
-  - 台灣偶像
+  [
+    'HUR+',
+    'DD52',
+    '未來少女',
+    '女團',
+    '偶像',
+    '台灣音樂',
+    '斐立普',
+    'AOA Entertainment Lab',
+    'K-POP',
+    '台灣偶像',
+  ]
 subcategory: '音樂與表演'
 author: 'Taiwan.md'
-readingTime: 14
+featured: false
 lastVerified: 2026-04-23
 lastHumanReview: false
-category: People
-featured: false
+readingTime: 14
 ---
 
 > **30 秒概覽：** HUR+（原 HUR），2020 年《菱格世代 DD52》亞軍「風暴黑桃」六人出道，製作人斐立普（Felipe.Z）成立 AOA Entertainment Lab 星鏈艾歐亞。冠軍賽輸了 2.5 分，但冠軍團 G.O.F 聲量在一年內斷崖式下滑，同期出道的 PINK FUN 遭遇退團風波。六年後，HUR+ 是三個出道團體中唯一還在發專輯的。三張專輯（《REVELATION》《Crimzon》《9OF9 ARCANA》）、集資十分鐘衝破 150 萬赴韓打歌、成員國籍橫跨蒙古英國印尼越南。斐立普說：「假如跟韓國用同樣的配方招數，台灣怎麼可能打得贏？」

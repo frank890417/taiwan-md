@@ -2,14 +2,14 @@
 title: '台灣的 AI 日常——當人工智慧走進街頭巷尾'
 description: '台灣人每天跟 AI 互動十幾次，但多數人不知道自己在跟 AI 說話'
 date: 2026-03-29
+category: 'Technology'
 tags: ['AI', '人工智慧', 'LINE', '智慧醫療', '智慧農業', '日常科技']
 subcategory: '社群與數位文化'
 author: 'p3nchan'
-readingTime: 8
-category: 'Technology'
-lastVerified: 2026-03-29
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
+readingTime: 8
 ---
 
 > 你家巷口那間內科診所，醫生花 25 秒就完成了過去要 20 分鐘的糖尿病風險評估。全家店員按三分鐘就搞定以前要十五分鐘的鮮食訂購。你在 LINE 上問的客服問題，回你的不是人。台灣人每天跟 AI 互動十幾次，但幾乎沒有人意識到這件事。

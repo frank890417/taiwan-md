@@ -1,15 +1,15 @@
 ---
 title: 'Facebook：從「偷菜」狂潮到數位民主的雙面刃，定義台灣社交二十年的藍色座標'
 description: '2009 年《開心農場》引爆台灣偷菜狂熱；2014 年它成為太陽花學運的動員神經。Facebook 在台灣走過「基礎設施」與「認知戰場」兩個身份，2025 年的審查爭議讓它又多了一個稱號：FB 難民的出發點。'
-category: Technology
-subcategory: '社群與數位文化'
+date: 2026-05-01
+category: 'Technology'
 tags: ['Facebook', '社群媒體', '數位民主', '太陽花學運', '認知作戰', '假訊息']
+subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
 featured: false
-date: 2026-05-01
-readingTime: 28
 lastVerified: 2026-05-02
 lastHumanReview: false
+readingTime: 28
 ---
 
 > **30 秒概覽：**

@@ -2,6 +2,7 @@
 title: 'Cicada：從 2009 年莫拉克到 2022 年丹大溪源的十五年田野錄音'
 description: '2009 年在台北成立的 Cicada 是全器樂、無人聲的獨立樂團。創團鋼琴手江致潔（北藝大藝術史碩士）因為看到那年莫拉克颱風的新聞寫下第一批曲子。之後十五年，他們把台灣的海岸消逝、海洋生態、山林溪源變成一張張沒有人聲的專輯。2022 年《棲居在溪源之上》是一場 15 天、120 公里的中央山脈遠征產物；配樂作品獲日本 Academy Prize。2024 年《回返》回到西海岸「之間」——山與水、森林與土地的那段間隙。'
 date: 2026-04-18
+category: 'People'
 tags:
   [
     人物,
@@ -20,14 +21,13 @@ tags:
     石川慶,
     金曲獎,
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 15
 lastVerified: 2026-04-18
 lastHumanReview: true
 researchReport: reports/research/2026-04/Cicada.md
+readingTime: 15
 perspectives:
   - author: 'xo61j4'
     text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'

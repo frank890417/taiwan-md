@@ -2,6 +2,7 @@
 title: 'Hello Nico：八年沉默後，「想念舞台了」'
 description: '2014 年以〈花〉奪下 StreetVoice 全年冠軍、2016 年金曲新人入圍的台灣獨立樂團，此後沉默了八年。詹宇庭說：「做音樂最大的困難，是跟自己過不去。」2024 年，他們帶著《Plan B》回來了。'
 date: 2026-04-20
+category: 'People'
 tags:
   [
     Hello Nico,
@@ -14,14 +15,13 @@ tags:
     金曲獎,
     台灣音樂,
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
 lastVerified: 2026-04-20
 lastHumanReview: false
 researchReport: reports/research/2026-04/Hello-Nico.md
+readingTime: 8
 ---
 
 > **30 秒概覽：** Hello Nico 是台灣獨立樂團，2013 年成立於台北，成員為主唱詹宇庭、吉他手李詠恩、貝斯手陳信伯、鼓手關惠中。2014 年以〈花〉奪下 StreetVoice 全年冠軍，2015 年首張正規專輯《熟悉的荒涼》入圍第 27 屆金曲獎最佳新人。以「壓抑自溺」的 Dream Pop / Indie Rock 聲線著稱，詹宇庭的嗓音是辨識核心。2016 年後沉默約八年，2024 年 9 月以 EP《Plan B：如果回來，我們一起看海》重新出發。

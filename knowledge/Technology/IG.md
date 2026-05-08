@@ -1,15 +1,15 @@
 ---
 title: 'IG：從攝影師的濾鏡到台灣人的「脆」焦慮'
 description: '2010 年墨西哥海灘上的一個濾鏡，十五年後成了台灣 1,130 萬人的日常儀式。IG 在台灣從視覺避風港演變成演算法戰場，而 Threads 的「脆」崛起，讓精緻美學與真實爭議的張力第一次被逼到台面上。'
-category: Technology
-subcategory: '社群與數位文化'
+date: 2026-05-01
+category: 'Technology'
 tags: ['Instagram', 'Threads', '社群媒體', '數位文化', '台灣現況']
+subcategory: '社群與數位文化'
 author: 'Taiwan.md Contributors'
 featured: false
-date: 2026-05-01
-readingTime: 8
 lastVerified: 2026-05-02
 lastHumanReview: false
+readingTime: 8
 ---
 
 > **30 秒概覽：**

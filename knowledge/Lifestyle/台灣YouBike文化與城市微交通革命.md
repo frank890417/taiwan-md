@@ -1,15 +1,15 @@
 ---
 title: '台灣 YouBike 文化與城市微交通革命'
 description: '從「最後一哩」到日常基礎設施，YouBike 如何用小額費率、密集站點與即時調度，改變台灣城市的移動習慣與時間感。'
-category: Lifestyle
+date: 2026-04-14
+category: 'Lifestyle'
+tags: ['YouBike', '城市交通', '綠運輸', '微交通']
 subcategory: '交通與移動'
-tags: [YouBike, 城市交通, 綠運輸, 微交通]
 author: 'Wilson Chen'
 featured: false
-date: 2026-04-14
-readingTime: 8
 lastVerified: 2026-04-14
 lastHumanReview: true
+readingTime: 8
 ---
 
 > **30 秒概覽：**

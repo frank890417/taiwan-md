@@ -1,15 +1,15 @@
 ---
-title: Dcard
-description: 一個台南囝仔在台大宿舍為了讓自己比較容易交到朋友而寫出來的網站，變成了台灣年輕人最有影響力的社群平台，然後一邊繼續長大、一邊面對「Dcard 是不是要沒落了」的問題。
+title: 'Dcard'
+description: '一個台南囝仔在台大宿舍為了讓自己比較容易交到朋友而寫出來的網站，變成了台灣年輕人最有影響力的社群平台，然後一邊繼續長大、一邊面對「Dcard 是不是要沒落了」的問題。'
 date: 2026-04-05
-tags: [社群媒體, 台灣新創, 年輕世代, 論壇, 匿名, 大學, 科技]
+category: 'Culture'
+tags: ['社群媒體', '台灣新創', '年輕世代', '論壇', '匿名', '大學', '科技']
 subcategory: '網路與數位文化'
 author: 'Taiwan.md'
 featured: false
-readingTime: 8
-category: Culture
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 8
 ---
 
 # Dcard

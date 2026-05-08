@@ -2,14 +2,14 @@
 title: 'Threads 在台灣：從 Twitter 代餐到「脆」文化主戰場'
 description: '當全球使用者對 Threads 熱情冷卻，台灣卻走出截然不同的路——350 萬使用者、全球第二大市場、使用時間居冠。這裡成為 Z 世代真實發聲、政治人物「下凡」、迷因狂歡的數位公共廣場，重新定義了台灣的社群媒體生態。'
 date: 2026-03-24
-tags: ['社群媒體', '數位文化', 'Threads', 'Z世代', '政治傳播', '網路論壇']
-author: 'Editorial Team'
-readingTime: 15
-featured: true
 category: 'Technology'
+tags: ['社群媒體', '數位文化', 'Threads', 'Z世代', '政治傳播', '網路論壇']
 subcategory: '社群與數位文化'
+author: 'Editorial Team'
+featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
+readingTime: 15
 ---
 
 # Threads 在台灣：從 Twitter 代餐到「脆」文化主戰場

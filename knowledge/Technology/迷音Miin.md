@@ -2,9 +2,9 @@
 title: '迷音 Miin'
 description: 'PTT 創辦人杜奕瑾打造的 AI 新聞聚合平台，用演算法偵測假訊息與協同操作帳號。裴洛西訪台期間，Miin 數據顯示推特上每四個相關帳號就有一個涉及認知操作。但 2025 年，平台因 AI 爬蟲抓取新聞被指控侵權，揭開了 AI 聚合與新聞版權之間的灰色地帶。'
 date: 2026-04-01
+category: 'Technology'
 tags: ['AI', '假訊息', '數位韌性', '杜奕瑾', '認知作戰']
 subcategory: '數位治理與公民科技'
-category: 'Technology'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-01
