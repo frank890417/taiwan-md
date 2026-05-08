@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-05-08T08:44:02.401Z",
+  "generatedAt": "2026-05-08T09:21:33.909Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "a28658ef1cecef8395464df6546968c40d3f32fb",
+      "date": "2026-05-08T17:16:48+08:00",
+      "author": "idlccp1984",
+      "message": "🧬 [contrib] feat: 巴拉告 Palakaw NEW Nature — 阿美族馬太鞍三層魚類公寓 (#893)"
+    },
+    {
+      "hash": "dd87ba3a20108a3065a9e14b4b2511873b6774bb",
+      "date": "2026-05-08T17:08:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: ARTICLE-INBOX +台灣體育發展與國際賽事 NEW P2 (Issue #887 closed)"
+    },
+    {
+      "hash": "c95560d307a6bd639d7214ac695401ac32416d40",
+      "date": "2026-05-08T17:04:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: elegant-ptolemy v1.1 — 補 #884 conflict storm 根因修復段"
+    },
+    {
+      "hash": "31b65792fce45007bd8a46a32ea7ab71fdf49d35",
+      "date": "2026-05-08T16:59:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] data: refresh dashboard JSON + stats (frontmatter heal post-build)"
+    },
+    {
+      "hash": "4b6d28c543670e6479cd31cf2b5f20e00c990743",
+      "date": "2026-05-08T16:59:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: bulk frontmatter normalization across 575 articles (1148 warns → 0)"
+    },
+    {
+      "hash": "5a1542f667fbef31e6d783b27f3eab9af2b34e15",
+      "date": "2026-05-08T16:58:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: frontmatter-format plugin auto-fix + pre-commit hook (徹底修 #884 conflict storm 根因)"
+    },
     {
       "hash": "0b160dbdc9124f842faacb7ced9611c7561834f7",
       "date": "2026-05-08T16:31:02+08:00",

@@ -164,6 +164,20 @@ export default defineConfig({
     '/about/創辦人': '/people/吳哲宇/',
     // /en/people/mayday/ → /en/people/mayday-band/ (51 req/day)
     '/en/people/mayday': '/en/people/mayday-band/',
+    // 2026-05-08 #883: 八炯 romanization Ba Jiong → Pa Chiung (Wade-Giles per
+    // Taipei Times 2025-08-05 article, Taiwan-canonical romanization). Sovereignty-
+    // aligned correction (per MANIFESTO §主權的巴別塔: avoid PRC pinyin where
+    // Taiwan media uses Wade-Giles). 5-lang slug rename.
+    '/en/people/ba-jiong-political-youtuber':
+      '/en/people/pa-chiung-political-youtuber/',
+    '/ja/people/ba-jiong-political-youtuber':
+      '/ja/people/pa-chiung-political-youtuber/',
+    '/ko/people/ba-jiong-political-youtuber':
+      '/ko/people/pa-chiung-political-youtuber/',
+    '/fr/people/ba-jiong-political-youtuber':
+      '/fr/people/pa-chiung-political-youtuber/',
+    '/es/people/ba-jiong-political-youtuber':
+      '/es/people/pa-chiung-political-youtuber/',
     // 2026-04-18 δ-late: EN version of democratic transition was renamed from
     // `democratic-transition.md` → `taiwan-democratization.md`; spores #10/#11
     // (2026-04-07) still send traffic to the old URL (37 views/day).

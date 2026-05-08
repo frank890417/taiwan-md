@@ -67,6 +67,31 @@ def test_six_char_description_passes(tmp_path):
     assert violations == []
 
 
+def test_prettier_autolink_wrap_url_with_parens_accepted(tmp_path):
+    """2026-05-08 #884 follow-up: Prettier auto-wraps URLs containing parens
+    (e.g. Wikipedia disambiguation) into autolink form `<URL>` to avoid
+    markdown ambiguity. The regex must accept both bare URLs and `<URL>` form.
+    Without this fix, all `王建民_(棒球運動員)`-style Wiki citations cause CI
+    failure after Prettier reformat."""
+    body = (
+        "段落[^1][^2][^3]\n\n"
+        "[^1]: [維基百科：王建民](<https://zh.wikipedia.org/zh-tw/王建民_(棒球運動員)>) — 確認1980年生於台南\n"
+        "[^2]: [Wikipedia (EN): Chi Cheng (athlete)](<https://en.wikipedia.org/wiki/Chi_Cheng_(athlete)>) — 紀政英文維基條目\n"
+        "[^3]: [維基百科：山丘](<https://zh.wikipedia.org/wiki/山丘_(歌曲)>) — 確認2013年發行\n"
+    )
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_format.check(target, {}))
+    assert violations == [], f"autolink-wrapped URLs should pass: {[v.message for v in violations]}"
+
+
+def test_bare_url_still_accepted(tmp_path):
+    """Regression: making regex accept autolink form must not break bare URLs."""
+    body = "段落[^1]\n\n[^1]: [Title](https://example.com) — proper desc 7+ chars\n"
+    target = load_target(_write(tmp_path, body))
+    violations = list(footnote_format.check(target, {}))
+    assert violations == []
+
+
 def test_multiple_violations(tmp_path):
     body = (
         "段落[^1][^2][^3]\n\n"

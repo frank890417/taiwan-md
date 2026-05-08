@@ -42,6 +42,29 @@
 
 ## 📜 Log（reverse chronological，最新在頂）
 
+### 聶永真 EVOLVE — 2026-05-08 elegant-ptolemy 完成（公民聶永真 vs 商業聶永真，2026/05/08 台電 LOGO 風暴 hook / People / 藝術與設計）
+
+- **Article**: [knowledge/People/聶永真.md](../../knowledge/People/聶永真.md)
+- **Pipeline**: REWRITE-PIPELINE v2.20 — EVOLVE 模式（131 行 baseline → 218 行深度重寫）
+- **核心矛盾**：「他用最商業的方式接政治案，又用最反商業的姿態談酷」（28 字）— 公民聶永真 vs 商業聶永真的二元裂縫，由 2024-2026 連標四個國營事業案 + 2026/05/08 台電 LOGO「綠友友」風暴實證
+- **Hook scene**：2026/05/08 09:30 → 14:36 的論述循環。NOWnews 質疑 → 聶永真 FB 三層辯護（功能困境 + 字體史拆神話 + 中宮端點傳承）→ 黃智陽舉證 1965《台電月刊》25 期反駁。Today's event 直接成為文章 anchor
+- **品質**：218 行 / ~6500 字 / 34 footnote / 11+ verbatim 中文引語 / 3 張 CC 授權 inline 圖（hero + 2 inline）/ HARD=0 ✅ / prose-health score=2 (≤ 3 PASS) / cjk-punct + frontmatter + image-health + link-target + footnote-format/density/url + format-structure + terminology + wikilink-target 全綠
+- **Research**: [reports/research/2026-05/聶永真.md](../../reports/research/2026-05/聶永真.md)（563 行 / 22 WebSearch + 14 WebFetch / spawn general-purpose agent 直接落檔 / 43 footnote 候選 / 11 verbatim 引語 / 2 張 Wikimedia Commons CC 圖驗證）
+- **媒體素材（per Stage 1.7b 授權矩陣）**：
+  - **hero**：`aaron-nieh-portrait-2018.jpg` 1600×1066 aspect 1.5（Gene Wang Flickr CC BY-SA 2.0，2018-03-16）
+  - **inline 1**：`sunflower-2014-legislative-yuan.jpg`（Ray Swi-hy CC BY-SA 2.0，2014-03-23 立法院前太陽花現場）
+  - **inline 2**：`tsai-2016-campaign.jpg`（MiNe CC BY 2.0，2015-10-18 蔡英文競選）
+- **5 點聲明完整整合**：哲宇中途指示用 Chrome MCP 抓聶永真本人 [Facebook 公開貼文](https://www.facebook.com/somekidding/posts/1384626443696723) 原文（截至 2026-05-08 晚 3.1 萬讚 / 2,355 留言 / 3,806 分享）。整合三層論述：
+  1. **功能困境層**：「鑄鐵維修孔蓋、變電箱噴漆、極小印刷品、立體刻字招牌」具體應用場景 list
+  2. **字體史拆神話層 verbatim**：「原『台灣電力公司』的六個書法字……非于先生專為台電客製書寫而成。所以網路上有些以書法的整句行氣來討論原標準字的論點，也與事實略微脫節」
+  3. **中宮端點傳承層 verbatim**：「新修版的標準字，仍加入了與于右任原法帖字體的中宮及端點特性的連結」
+- **多元論點**：王鴻薇政治酬庸質疑（NOWnews 早 9:30）+ 民眾黨「綠友友」批評 + 黃智陽（華梵大學人文藝術學院院長）字體史反駁（中時 14:36）+ FB 留言 936 心情批評「需要設計者本人跳出來解釋的設計本身就是失敗的」
+- **Stage 3.5 atom audit**：11 verbatim 引語逐字對 source URL Ctrl-F 可驗（La Vie 2 句 / FB 5 句 / 鏡週刊 1 句 / 今周刊 2 句 / NOWnews 1 句 / Cheers 1 句 / ETtoday / 數位時代 / Roomie / 中央社 / ETtoday 房產雲）；4 句多源 cross-confirm
+- **Cross-link**：3 反向 sibling 補完（蔡英文 / 太陽花學運 / 台灣新媒體藝術 各加一行延伸閱讀指向聶永真）
+- **Baseline 校正**：金曲屆次（baseline 寫第 17 屆有誤，正確第 21、25、26 屆）/ 「2020 蔡英文連任主題台灣隊」與 2024 賴清德選戰混淆校正 / 「Apple iPad Pro Crush 廣告」誤傳剔除 / 「2024 巴黎奧運中華隊裝備」task brief 假設搜不到證據剔除
+- **觀察者校準**：哲宇兩次推進升級研究深度與媒體素材 — (a)「比較著名的設計案例（比如 Democracy 4am）也可以找到圖片坎入」→ 補太陽花現場 + 蔡英文 2016 競選 2 張 inline CC 圖；(b)「他有澄清文也完整分析」→ Chrome MCP 抓 FB 原文，拆三層論述 verbatim 整合
+- **DNA #50 default contract 第 N 次驗證**：自動 grep `docs/pipelines/REWRITE-PIPELINE.md` 完整讀；EDITORIAL.md 全檔已熟（前 session 重寫吳哲宇/造山者/王福瑞時讀過）；無需哲宇 explicit「走 pipeline」reminder
+
 ### 想想論壇 NEW — 2026-05-05 twmd-rewrite 完成（fair-use cite-only mode P0-01 / Society / 媒體）
 
 - **Article**: [knowledge/Society/想想論壇.md](../../knowledge/Society/想想論壇.md)

@@ -128,7 +128,7 @@ La réponse internationale arrive en deux jours. La directrice adjointe Asie de 
 
 Le Yuan législatif réagit aussi. Le 19 novembre 2025, la Commission des affaires étrangères et de la défense (que Shen préside) adopte une motion de condamnation. Wang Ting-yu déclare : « **L'opinion divergente a aussi droit à la protection de l'État et de la Constitution**. La RPC n'a aucun droit d'agir politiquement ainsi contre quiconque sur des accusations fabriquées. »[^49]
 
-À ce stade, la Chine n'a pas encore inscrit Puma Shen sur la liste officielle de récompense de la Loi sur la sécurité nationale de Hong Kong ; le YouTuber [Ba Jiong](/people/八炯) et « Loup Hokkien » sont eux mis à prix jusqu'à 250 000 yuans.[^50] Mais l'enquête pour « scission de l'État » plus la menace CCTV de « traque mondiale » placent Shen tout près.
+À ce stade, la Chine n'a pas encore inscrit Puma Shen sur la liste officielle de récompense de la Loi sur la sécurité nationale de Hong Kong ; le YouTuber [Pa Chiung](/people/八炯) et « Loup Hokkien » sont eux mis à prix jusqu'à 250 000 yuans.[^50] Mais l'enquête pour « scission de l'État » plus la menace CCTV de « traque mondiale » placent Shen tout près.
 
 ## La vis devant la maison
 
@@ -201,7 +201,7 @@ Fin avril 2026, il s'est coupé les cheveux pour préparer une autre bataille. M
 **Pour aller plus loin** :
 
 - [Guerre cognitive](/society/認知作戰) — Cadre complet de la guerre informationnelle du PCC contre Taïwan ; Puma Shen est l'un des principaux chercheurs
-- [Ba Jiong](/people/八炯) — YouTubeur taïwanais également ciblé, mis à prix par la Chine en novembre 2025
+- [Pa Chiung](/people/八炯) — YouTubeur taïwanais également ciblé, mis à prix par la Chine en novembre 2025
 - [Lai Ching-te](/people/賴清德) — Aussi sur la liste des « partisans obstinés », a publiquement soutenu Shen
 - [Défense et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — La complémentarité entre la défense civile de la Kuma Academy et la défense de tous
 
@@ -303,7 +303,7 @@ Fin avril 2026, il s'est coupé les cheveux pour préparer une autre bataille. M
 
 [^49]: [Liberty Times — Commission AED adopte la condamnation](https://news.ltn.com.tw/news/politics/breakingnews/5250860)
 
-[^50]: [Liberty Times — Récompense pour Ba Jiong et Loup Hokkien](https://news.ltn.com.tw/news/politics/breakingnews/5244379)
+[^50]: [Liberty Times — Récompense pour Pa Chiung et Loup Hokkien](https://news.ltn.com.tw/news/politics/breakingnews/5244379)
 
 [^51]: [Liberty Times — Caméra cachée et lettres de menaces](https://news.ltn.com.tw/news/politics/breakingnews/5163138)
 

@@ -132,7 +132,7 @@ La respuesta internacional se congregó en dos días. Maya Wang, directora adjun
 
 El propio Legislativo también actuó. El 19 de noviembre de 2025, la Comisión de Asuntos Exteriores y Defensa Nacional del Legislativo (la misma comisión que Puma Shen presidía) aprobó una moción de condena propuesta por Wang Ding-yu y otros. Wang Ding-yu declaró en su intervención: "**Quienes tienen opiniones diferentes también tienen derecho a ser protegidos por el Estado y la Constitución. La República Popular China no tiene derecho a realizar este tipo de acciones políticas contra nadie por razones infundadas**."[^49]
 
-China en realidad aún no había incluido a Puma Shen en la lista oficial de recompensas bajo la Ley de Seguridad Nacional de Hong Kong; los que recibieron la recompensa más alta de 250.000 yuanes chinos fueron [el YouTuber "Ba Jiong"](/people/八炯) y "Minnan Lang".[^50] Pero la combinación de la investigación formal por "secesión" más la amenaza de "captura global" de CCTV ya habían colocado a Puma Shen muy cerca de esa posición.
+China en realidad aún no había incluido a Puma Shen en la lista oficial de recompensas bajo la Ley de Seguridad Nacional de Hong Kong; los que recibieron la recompensa más alta de 250.000 yuanes chinos fueron [el YouTuber "Pa Chiung"](/people/八炯) y "Minnan Lang".[^50] Pero la combinación de la investigación formal por "secesión" más la amenaza de "captura global" de CCTV ya habían colocado a Puma Shen muy cerca de esa posición.
 
 ## El tornillo en la puerta de su casa
 
@@ -203,7 +203,7 @@ A finales de abril de 2026 se cortó el pelo y se preparó para otra batalla ele
 **Lectura adicional**:
 
 - [Guerra cognitiva](/society/認知作戰) — El marco completo de la guerra de información de China contra Taiwán; Puma Shen es uno de los principales investigadores.
-- [Ba Jiong](/people/八炯) — YouTuber taiwánés igualmente señalado por China; en noviembre de 2025 fue objeto de una recompensa de hasta 250.000 yuanes chinos por parte de China.
+- [Pa Chiung](/people/八炯) — YouTuber taiwánés igualmente señalado por China; en noviembre de 2025 fue objeto de una recompensa de hasta 250.000 yuanes chinos por parte de China.
 - [Lai Ching-te](/people/賴清德) — También incluido en la lista de "elementos obstinados independentistas taiwaneses"; expresó públicamente su apoyo a Puma Shen en noviembre de 2025.
 - [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — La relación complementaria entre la educación de defensa civil de la Kuma Academy y la defensa nacional para todos.
 
@@ -305,7 +305,7 @@ A finales de abril de 2026 se cortó el pelo y se preparó para otra batalla ele
 
 [^49]: [Liberty Times: la Comisión de Asuntos Exteriores y Defensa Nacional del Legislativo aprueba moción de condena](https://news.ltn.com.tw/news/politics/breakingnews/5250860) — Reportaje de Liberty Times del 19 de noviembre de 2025 sobre la aprobación por la Comisión de Asuntos Exteriores y Defensa Nacional del Legislativo de una moción de condena contra la investigación formal de China de Puma Shen, incluyendo las palabras originales del proponente Wang Ding-yu.
 
-[^50]: [Liberty Times: China ofrece recompensa por Ba Jiong y Minnan Lang](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Reportaje de Liberty Times de noviembre de 2025 sobre la publicación por la policía china de una recompensa de hasta 250.000 yuanes chinos por el YouTuber "Ba Jiong" y "Minnan Lang".
+[^50]: [Liberty Times: China ofrece recompensa por Pa Chiung y Minnan Lang](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Reportaje de Liberty Times de noviembre de 2025 sobre la publicación por la policía china de una recompensa de hasta 250.000 yuanes chinos por el YouTuber "Pa Chiung" y "Minnan Lang".
 
 [^51]: [Liberty Times: Puma Shen revela cámara espía disfrazada de tornillo en su puerta y cartas de amenaza](https://news.ltn.com.tw/news/politics/breakingnews/5163138) — Reportaje de Liberty Times del 31 de agosto de 2025 sobre la revelación por Puma Shen en el programa de Zheng Hong-yi del incidente de la cámara espía disfrazada de tornillo de motocicleta frente a su casa, las cartas de amenaza con una foto de su esposa con el carácter "muerte" escrito en su ropa, la amenaza de degollar a su hija, y la reacción de ansiedad e insomnio de su esposa Tseng Sin-hui.
 

@@ -62,7 +62,7 @@ Pour Chang Chih-chi, entreprendre et gérer une chaîne est un processus d'essai
 ## Pour aller plus loin
 
 - **[Ray Du](/people/%E9%98%BF%E6%BB%B4/)** : Cofondateur de l'Association taïwanaise des créateurs de contenus audiovisuels, tous deux appartiennent à la génération des YouTuber éducatifs dits « chefs de quartier ».
-- **[Ba Jiong](/people/%E5%85%AB%E7%82%AF/)** : Un autre créateur d'actualité, mais adoptant une stratégie de « satire de la propagande d'unification ».
+- **[Pa Chiung](/people/%E5%85%AB%E7%82%AF/)** : Un autre créateur d'actualité, mais adoptant une stratégie de « satire de la propagande d'unification ».
 - **[Transition démocratique de Taïwan](/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/)** : Le contexte de l'évolution du débat public taïwanais derrière le style curatorial de « pluralité des points de vue » de Chang Chih-chi.
 
 ---

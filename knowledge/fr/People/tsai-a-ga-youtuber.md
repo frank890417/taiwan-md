@@ -76,7 +76,7 @@ Cette phrase l'a fait passer de « créateur web » à « travailleur social ».
 
 ## Pour aller plus loin
 
-- [Ba Jiong](/people/八炯) — Un autre vétéran YouTuber de plus de 18 ans, passant de la dénonciation à l'action caritative par un autre chemin
+- [Pa Chiung](/people/八炯) — Un autre vétéran YouTuber de plus de 18 ans, passant de la dénonciation à l'action caritative par un autre chemin
 - [A Di](/people/阿滴) — Une autre trajectoire de croissance de la grande génération de YouTubers taïwanais (partant de l'éducation en anglais)
 - [Potter Wang](/people/波特王) — Un YouTuber comique de la même génération, pour comparer les stratégies face aux évolutions des algorithmes
 

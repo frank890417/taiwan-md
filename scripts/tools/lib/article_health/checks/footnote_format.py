@@ -26,13 +26,19 @@ EDITORIAL_REF = ".husky/pre-commit footnote format gate"
 APPLIES_TO = ["*"]  # all langs
 
 # Canonical (one of these forms):
-#   1. With URL:  [^id]: [Title](https://...) — description (≥6 chars)
+#   1. With URL:  [^id]: [Title](URL) — description (≥6 chars)
+#      URL may be bare (`https://example.com`) OR Prettier autolink-wrapped
+#      (`<https://example.com>`). Prettier auto-wraps URLs containing parens
+#      (e.g. Wikipedia disambiguation: `王建民_(棒球運動員)`) into `<...>` form
+#      so they survive markdown link parsing — this regex must accept both.
 #   2. Pure prose explanatory note: [^id]: <prose ≥10 chars>  (no URL required —
 #      these are 「補充說明」style footnotes, valid markdown convention)
 # (relaxed from 10 → 6 for url-form descriptions in 2026-05-04 cleanup: Chinese
 # descs are often short — 「維基百科條目」「中央社報導」 are clear enough at 5-6 chars)
+# (autolink wrap acceptance added 2026-05-08 — root-cause fix for CI failures
+# where Prettier-formatted footnotes with paren-containing URLs were rejected)
 _RE_CANONICAL = re.compile(
-    r"^\[\^[0-9a-zA-Z_-]+\]:\s*\[.+?\]\(https?://\S+\)\s+[—-]\s*.{6,}$"
+    r"^\[\^[0-9a-zA-Z_-]+\]:\s*\[.+?\]\(<?https?://[^\s>]+>?\)\s+[—-]\s*.{6,}$"
 )
 _RE_PURE_PROSE_FN = re.compile(
     r"^\[\^[0-9a-zA-Z_-]+\]:\s*[^\[\s].{9,}$"

@@ -69,7 +69,7 @@ Para Chang Chih-chi, emprender y gestionar un canal es un proceso constante de p
 ## Lectura complementaria
 
 - **[Ray Du](/people/%E9%98%BF%E6%BB%B4/):** Cofundador de la Asociación Taiwanesa de Creadores de Contenido Audiovisual en Nuevos Medios; ambos pertenecen a la generación de YouTubers educativos "alcalde de barrio".
-- **[Ba Jiong](/people/%E5%85%AB%E7%82%AF/):** Otro creador de contenido centrado en comentarios de actualidad, pero con una estrategia de medios propios basada en la "sátira contra la guerra de unificación".
+- **[Pa Chiung](/people/%E5%85%AB%E7%82%AF/):** Otro creador de contenido centrado en comentarios de actualidad, pero con una estrategia de medios propios basada en la "sátira contra la guerra de unificación".
 - **[Transición democrática de Taiwán](/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/):** El contexto de la evolución de la discusión pública taiwanesa detrás del estilo curatorial de "presentación de múltiples perspectivas" de Chang Chih-chi.
 
 ---

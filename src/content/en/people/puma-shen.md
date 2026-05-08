@@ -134,7 +134,7 @@ The international response consolidated within two days. Human Rights Watch Asia
 
 The Legislative Yuan itself moved. On November 19, 2025, the Foreign Affairs and National Defense Committee — the same committee Shen convenes — passed a censure motion. Wang Ting-yu said in the floor debate: "**Holding a different view still entitles one to the protection of the state and the constitution.** The People's Republic of China has no standing to take this kind of political action against anyone on fabricated grounds." [^49]
 
-It's worth noting that China had not yet placed Shen on the Hong Kong National Security Law bounty list; the highest-profile bounties at that point — up to RMB 250,000 — were on Taiwanese YouTubers "Ba Jiong" (八炯) and "Minnan Wolf" (閩南狼). [^50] But the combination of a "splitting the nation" indictment and a CCTV "global arrest" threat had pushed him close to that threshold.
+It's worth noting that China had not yet placed Shen on the Hong Kong National Security Law bounty list; the highest-profile bounties at that point — up to RMB 250,000 — were on Taiwanese YouTubers "Pa Chiung" (八炯) and "Minnan Wolf" (閩南狼). [^50] But the combination of a "splitting the nation" indictment and a CCTV "global arrest" threat had pushed him close to that threshold.
 
 ## The Screw on His Doorstep
 
@@ -307,7 +307,7 @@ In late April 2026, he cut his hair and prepared for another election. But on Ch
 
 [^49]: [Liberty Times: Legislative Yuan FANAD Committee Passes Censure Motion](https://news.ltn.com.tw/news/politics/breakingnews/5250860) — Liberty Times 2025-11-19 reporting the censure motion passage with Wang Ting-yu's floor statement.
 
-[^50]: [Liberty Times: China Issues Bounties on Ba Jiong and Minnan Wolf](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Liberty Times 2025-11 reporting China's public security bounties on Taiwanese YouTubers.
+[^50]: [Liberty Times: China Issues Bounties on Pa Chiung and Minnan Wolf](https://news.ltn.com.tw/news/politics/breakingnews/5244379) — Liberty Times 2025-11 reporting China's public security bounties on Taiwanese YouTubers.
 
 [^51]: [Liberty Times: Puma Shen Discloses Pinhole Camera Outside Home and Threatening Letter](https://news.ltn.com.tw/news/politics/breakingnews/5163138) — Liberty Times 2025-08-31 reporting Shen's disclosures on the Cheng Hung-yi program.
 

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T08:44:03.444Z",
+  "lastUpdated": "2026-05-08T09:21:35.075Z",
   "languages": [
     "zh-TW",
     "en",
@@ -10,9 +10,9 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 683,
+      "total": 684,
       "percentage": 100,
-      "fresh": 683,
+      "fresh": 684,
       "stale": 0,
       "missing": 0,
       "deficit": 0
@@ -422,41 +422,41 @@
       }
     },
     "nature": {
-      "zh-TW": 36,
+      "zh-TW": 37,
       "en": {
         "count": 28,
         "fresh": 25,
         "stale": 3,
         "missing": 0,
-        "deficit": 8
+        "deficit": 9
       },
       "ja": {
         "count": 28,
         "fresh": 25,
         "stale": 3,
         "missing": 0,
-        "deficit": 8
+        "deficit": 9
       },
       "ko": {
         "count": 28,
         "fresh": 25,
         "stale": 3,
         "missing": 0,
-        "deficit": 8
+        "deficit": 9
       },
       "es": {
         "count": 28,
         "fresh": 25,
         "stale": 3,
         "missing": 0,
-        "deficit": 8
+        "deficit": 9
       },
       "fr": {
         "count": 28,
         "fresh": 25,
         "stale": 3,
         "missing": 0,
-        "deficit": 8
+        "deficit": 9
       }
     },
     "people": {
@@ -578,6 +578,7 @@
     "en": [
       "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
       "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
+      "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
       "People/陳致中：從第一家庭光環到「排黑條款」下的政治浮沉.md",
@@ -591,6 +592,7 @@
     "ja": [
       "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
       "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
+      "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
@@ -606,6 +608,7 @@
     "ko": [
       "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
       "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
+      "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",
@@ -620,6 +623,7 @@
     "es": [
       "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
       "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
+      "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
       "Culture/斗笠：龍肚國中旁那對夫妻，把六十年的桂竹編進一頂帽子裡.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "Lifestyle/台灣髮型介紹：從髮禁到迷因的社會刻度.md",
@@ -635,6 +639,7 @@
     "fr": [
       "Art/鶯歌陶瓷博物館：清水模裡的百年窯業.md",
       "Music/台灣合唱團：從榮星到亞洲五強的甲子.md",
+      "Nature/巴拉告：馬太鞍濕地的三層魚類公寓與生態契約.md",
       "Geography/金瓜石：那一千個被押進坑道挖銅的英國兵，與一座還沒洗乾淨的金山.md",
       "Lifestyle/台灣髮型介紹：從髮禁到迷因的社會刻度.md",
       "People/尊：從「黃毛豬」到台灣最年輕百萬 YouTuber，在清流標籤下的孤獨實驗.md",

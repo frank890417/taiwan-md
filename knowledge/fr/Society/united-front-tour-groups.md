@@ -79,7 +79,7 @@ After馆长's China trip, fierce debates erupted on social media: his past anti-
 
 This internal consumption is the indirect effect of "dividing without fighting" [^17].
 
-On April 19, 2025, the "Reject United Front, Protect Taiwan" rally broke out on Ketagalan Boulevard in Taipei. The organizers announced that over 55,000 people were present at the scene, demanding opposition to CCP infiltration and support for democratic freedom. [[Ba Jiong]] was one of the main organizers. A recall booth appeared on site, reflecting the accumulated social dissatisfaction with the continuous accumulation of influencer China trips and low-cost exchanges [^6].
+On April 19, 2025, the "Reject United Front, Protect Taiwan" rally broke out on Ketagalan Boulevard in Taipei. The organizers announced that over 55,000 people were present at the scene, demanding opposition to CCP infiltration and support for democratic freedom. [[Pa Chiung]] was one of the main organizers. A recall booth appeared on site, reflecting the accumulated social dissatisfaction with the continuous accumulation of influencer China trips and low-cost exchanges [^6].
 
 > 📝 **Curator's Note:**
 > The emergence of anti-United Front rallies indicates that the alert mechanism of Taiwanese civil society is indeed operating—but the same rally also became material for another wave of debates on social media: "Is this a DPP mobilization or a spontaneous rally?" Even "anti-United Front" itself can become a lever point for social tearing.
@@ -115,7 +115,7 @@ And uncertainty may well be the ultimate product of this cognitive game.
 - [Cognitive Warfare](/society/認知作戰) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
 - [Falun Gong in Taiwan](/society/法輪功在台灣) — From the Yangming Mountain Flower Clock to Taipei 101, the same mirror image of cross-strait comparison, how religious freedom becomes a touchstone for Taiwan's democratic values.
 - [Porter King](/people/波特王) — The first Taiwanese creator to expose the details of influencer United Front invitations on public platforms, the beginning and end of the exposure event.
-- [Ba Jiong](/people/八炯) — From the organizer of the United Front documentary to the Ketagalan Boulevard rally, Taiwan's civil society's attempts to counter cognitive warfare.
+- [Pa Chiung](/people/八炯) — From the organizer of the United Front documentary to the Ketagalan Boulevard rally, Taiwan's civil society's attempts to counter cognitive warfare.
 - [Poison Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — A false message about Taiwanese potatoes in 2022, how it became a typical case for observing cross-strait information warfare.
 
 ## References
@@ -140,7 +140,7 @@ And uncertainty may well be the ultimate product of this cognitive game.
 
 [^10]: [Analyzing the United Front Concentric Circle:馆长's China Trip and the "Influencers" Surrounding Him](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — _The Reporter_, April 2026, in-depth investigation of馆长's China trip itinerary at each stop, the backgrounds of accompanying figures (Wang Xiao, Li Xiang, Yang Shengzhi), and their connections with United Front organizations.
 
-[^11]: [Reject United Front Assembly on Ketagalan Boulevard, Recall Group Strives for Petitions, Green Committee Members Relay Speeches](https://www.cna.com.tw/news/aipl/202504190109.aspx) — CNA, April 19, 2025, on-site reporting on the beginning and end of the rally initiated by Ba Jiong et al., political figure participation, and main demands.
+[^11]: [Reject United Front Assembly on Ketagalan Boulevard, Recall Group Strives for Petitions, Green Committee Members Relay Speeches](https://www.cna.com.tw/news/aipl/202504190109.aspx) — CNA, April 19, 2025, on-site reporting on the beginning and end of the rally initiated by Pa Chiung et al., political figure participation, and main demands.
 
 [^12]: [Challenges and Responses for the Youth Generation Facing CCP United Front Groups (Re-quote)](https://www.sef.org.tw/article-1-204-16191) — Same as [^1], additionally quoting the analysis paragraphs on algorithmic recommendation and the shaping of younger generation identity.
 
@@ -154,7 +154,7 @@ And uncertainty may well be the ultimate product of this cognitive game.
 
 [^17]: [Cognitive Warfare: Dividing Taiwanese Society to Subdue the Enemy Without Fighting](https://taiwan.md/society/%E8%AA%8D%E7%9F%A5%E4%BD%9C%E6%88%B0/) — Taiwan.md, systematically analyzing the goals, methods, and Taiwan society's responses to cognitive warfare, including the core logic of "making Taiwan disarray itself."
 
-[^18]: [CCP United Front Documentary | Ba Jiong Reveals the Inside Story of CCP Buying Taiwanese Influencers](https://www.cna.com.tw/news/aipl/202412280227.aspx) — CNA, December 28, 2024, reporting on the beginning and end of Ba Jiong and Chen Po-yuan releasing the United Front documentary and the social response.
+[^18]: [CCP United Front Documentary | Pa Chiung Reveals the Inside Story of CCP Buying Taiwanese Influencers](https://www.cna.com.tw/news/aipl/202412280227.aspx) — CNA, December 28, 2024, reporting on the beginning and end of Pa Chiung and Chen Po-yuan releasing the United Front documentary and the social response.
 
 [^19]: [Poll Reveals Low Awareness of United Front Among Taiwan's Youth Generation, Only 37.9% Support Regulating Influencer United Front Behavior](https://taronews.tw/2024/12/20/1027545/) — Taiwan Good News, December 20, 2024, the China Asia-Pacific Elite Exchange Association released a survey by Dadi Polling Company, revealing low awareness of United Front among the younger generation.
 
@@ -162,4 +162,4 @@ And uncertainty may well be the ultimate product of this cognitive game.
 
 [^21]: [Media Literacy Education: Cognitive Warfare Defense Lines from Campuses to Society](https://www.cna.com.tw/news/ahel/202511050056.aspx) — CNA, November 5, 2025, reporting on media literacy courses entering campuses and civil society's counter-actions against cognitive warfare.
 
-[^22]: [Ba Jiong — From United Front Documentary Producer to Ketagalan Boulevard Rally Initiator](https://taiwan.md/people/%E5%85%AB%E7%82%AF/) — Taiwan.md, recording Ba Jiong's complete action trajectory from the United Front documentary series to the 2025 Ketagalan Boulevard rally.
+[^22]: [Pa Chiung — From United Front Documentary Producer to Ketagalan Boulevard Rally Initiator](https://taiwan.md/people/%E5%85%AB%E7%82%AF/) — Taiwan.md, recording Pa Chiung's complete action trajectory from the United Front documentary series to the 2025 Ketagalan Boulevard rally.
