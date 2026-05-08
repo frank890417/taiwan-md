@@ -28,20 +28,31 @@
 bash scripts/tools/refresh-data.sh
 ```
 
-這個 wrapper 依序跑下面 **8 個步驟**（5 主階段 + 3 子階段 2.5/2.8/2.9）。任何一步失敗會 stderr 警告但不 abort pipeline（git pull conflict 例外 — hard abort）。
+這個 wrapper 依序跑下面 **12 個步驟**（Phase 0 SSOT cleanup 後 2026-05-08 整數化編號）。
 
-**Step 5（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（DNA #43）。
+**失敗策略**：
 
-| Step    | 內容                                                     | Output                                                       |
-| ------- | -------------------------------------------------------- | ------------------------------------------------------------ |
-| 1       | git pull --rebase origin main                            | (sync)                                                       |
-| 2       | fetch-sense-data.sh                                      | dashboard-analytics.json                                     |
-| 2.5     | sync-translations-json.py                                | knowledge/\_translations.json                                |
-| 2.8     | generate-dashboard-spores.py                             | dashboard-spores.json                                        |
-| **2.9** | **i18n-coverage-audit.sh --json-out** ★ 2026-05-02 added | **dashboard-i18n.json**                                      |
-| 3       | npm run prebuild                                         | dashboard-articles/translations/vitals/organism + supporters |
-| 4       | update-stats.sh                                          | README + stats.json                                          |
-| **5**   | **verify dashboard freshness** ★ 2026-05-02 added        | (gate)                                                       |
+- cwd 不在 git toplevel → auto cd（防 worktree vs main repo 混淆）
+- working tree dirty → auto-stash + pop（不再 silent skip pull）
+- git pull 真失敗 → hard abort（人類介入）
+- 任何資料源失敗 → soft skip，心跳繼續用昨天的 cache
+
+**Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（DNA #43）。
+
+| Step   | 內容                                          | Output                                                       |
+| ------ | --------------------------------------------- | ------------------------------------------------------------ |
+| 1      | git sync (auto-stash + rebase pull)           | (sync)                                                       |
+| 2      | fetch-sense-data.sh                           | dashboard-analytics.json                                     |
+| 3      | sync-translations-json.py                     | knowledge/\_translations.json                                |
+| 4      | extract-spore-metrics.py (Phase 4 候選移除)   | SPORE-LOG struct columns                                     |
+| 5      | generate-dashboard-spores.py                  | dashboard-spores.json                                        |
+| 6      | i18n-coverage-audit.sh                        | dashboard-i18n.json                                          |
+| 7      | npm run prebuild                              | dashboard-articles/translations/vitals/organism + supporters |
+| 8      | refresh-llms-txt.py                           | public/llms.txt                                              |
+| 9      | update-stats.sh                               | README + stats.json                                          |
+| 10     | extract-build-perf.mjs                        | dashboard-build-perf.json                                    |
+| **11** | **verify dashboard freshness** (DNA #43 gate) | (mtime gate)                                                 |
+| **12** | **validate-spore-data.py**                    | (SSOT consistency gate)                                      |
 
 ---
 
@@ -50,13 +61,27 @@ bash scripts/tools/refresh-data.sh
 ### Step 1 — Git 同步（sync with origin）
 
 ```bash
-cd /Users/cheyuwu/Projects/taiwan-md
+# auto cwd assertion (Phase 0)
+cd "$(git rev-parse --show-toplevel)"
+
+# auto-stash if dirty
+[ -n "$(git status --porcelain)" ] && git stash push -m "refresh-data-auto-$(date +%s)" --include-untracked
+
+# always attempt pull
 git pull --rebase origin main
+
+# auto-pop stash
+git stash pop  # if stashed
 ```
 
 **為什麼**：心跳必須在最新 main 上跑，否則會把舊狀態誤診成「今天的 baseline」。另外，scheduled-tasks 在使用者睡覺時跑，此時可能有別的 session 已經 push 過東西。
 
-**如果失敗**：有 unstaged 變更 → stash；有 merge conflict → abort pipeline 並在報告裡標記「需要人類介入」。
+**Phase 0 改動（2026-05-08 laughing-goldstine）**：
+
+- **cwd assertion**：過去從 main repo 路徑跑 worktree pipeline 會寫 stale dashboard，現在強制 cd 到 git toplevel。
+- **改 auto-stash**：過去 `git diff-index --quiet HEAD --` 在 clean worktree 仍會回非零（filemode bits / submodule / index lock），導致 silent skip pull。現在 dirty 也跑 stash + pull + pop，pull 失敗才 hard abort。
+
+**如果失敗**：merge conflict / detached HEAD / network 失敗 → hard abort 並標記「需要人類介入」。stash pop conflict → 警告但繼續，local changes 留在 `git stash list` 等手動處理。
 
 ---
 
@@ -182,16 +207,14 @@ ls -l \
 
 ## scripts/tools/refresh-data.sh（wrapper 本體）
 
+完整實作見 [`scripts/tools/refresh-data.sh`](../../scripts/tools/refresh-data.sh)（避免文件 vs 程式碼 drift）。
+
+舊版（Phase 0 前，2026-04-11 → 2026-05-08）參考：
+
 ```bash
 #!/usr/bin/env bash
-# refresh-data.sh — 心跳用的單一資料刷新入口
-# 依序執行 git pull → fetch-sense-data → npm prebuild → update-stats
-# 每一步 soft-fail（除了 git pull conflict）
-#
-# Called by:
-#   - HEARTBEAT.md Beat 1 (via "執行 資料更新 pipeline")
-#   - ~/.claude/scheduled-tasks/semiont-heartbeat/SKILL.md (daily 09:37)
-#   - .claude/skills/heartbeat/SKILL.md (/heartbeat command)
+# DEPRECATED — see scripts/tools/refresh-data.sh for current 12-step pipeline
+# 此 snippet 只保留歷史參照（git-dirty silent skip bug 的 footprint）
 
 set -o pipefail
 cd "$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
@@ -203,6 +226,8 @@ echo -e "${GRN}🧬 資料更新 Pipeline${RST}"
 echo -e "${DIM}═══════════════════════════════════${RST}"
 
 # Step 1 — git sync (HARD ABORT on conflict)
+# ⚠️ Phase 0 修掉的 bug: git diff-index --quiet HEAD -- 在 clean worktree 仍會回非零
+# → silent skip pull → stale dashboard data
 echo -e "${GRN}[1/4]${RST} Git sync..."
 if git diff-index --quiet HEAD -- 2>/dev/null; then
   git pull --rebase origin main 2>&1 | tail -5
@@ -276,6 +301,7 @@ echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"
 
 _v1.0 | 2026-04-11 session ε | 建立原因：哲宇觀察到 heartbeat 三處重複定義資料抓取步驟_
 _v1.1 | 2026-05-02 γ-late | 加 Step 2.9 (i18n-coverage) + Step 5 (verify freshness)。觸發：哲宇看 dashboard 顯示「資料更新 12 小時前」+ ja UI 還是 97%（其實已 100%），原因是 i18n-coverage-audit 沒在 refresh-data.sh 裡。canonical: DNA #43 silent stale risk._
+_v1.2 | 2026-05-08 laughing-goldstine | Phase 0 SSOT cleanup — cwd assertion + auto-stash 取代 silent skip pull + 步驟編號 1-12 整數化。觸發：/twmd-refresh 從 main repo 路徑跑 worktree pipeline 寫 stale dashboard，加上 git-dirty false positive 雙 bug。canonical: reports/spore-ssot-pipeline-cleanup-2026-05-08.md Phase 0._
 
 ## 新 dashboard JSON 加入 pipeline 的 SOP（DNA #43 反射）
 
