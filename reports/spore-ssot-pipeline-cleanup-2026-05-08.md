@@ -388,16 +388,64 @@ SQUEEZE-MODELS-MAX-PIPELINE / STATS-PIPELINE / TRANSLATION-PIPELINE
 
 ## 8. Decision Log
 
-待哲宇 redirect 後填入：
+哲宇「先發 PR」+「pull 一下線上最新狀態之後繼續完整實作」two-phase redirect 後執行的 default：
 
-- [ ] Q1 reflection 處理方式：\_\_\_\_
-- [ ] Q2 PR 切分：\_\_\_\_
-- [ ] Q3 時程：\_\_\_\_
-- [ ] Q4 Phase 5 優先級：\_\_\_\_
+- ✅ **Q1 reflection 處理方式**：(b) 保留 SPORE-LOG 雙寫（接受冗餘換可讀性，不砍 narrative，不刪 extract-spore-metrics.py）
+- ✅ **Q2 PR 切分**：4 個 stacked PR — Phase 0 → Phase 1+2 → Phase 3 → Phase 4+5
+- ✅ **Q3 時程**：一個 session 全部跑完
+- ✅ **Q4 Phase 5 優先級**：包進這次重構（合進 Phase 4+5 一個 PR）
+
+## 9. Final shipped state
+
+| Phase     | PR                                                        | Status                                                           |
+| --------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| Proposal  | [#903](https://github.com/frank890417/taiwan-md/pull/903) | OPEN — 此檔本身                                                  |
+| Phase 0   | [#905](https://github.com/frank890417/taiwan-md/pull/905) | OPEN — refresh-data.sh bug fix (cwd + auto-stash + 整數編號)     |
+| Phase 1+2 | [#906](https://github.com/frank890417/taiwan-md/pull/906) | OPEN — validator audit (8 checks) + generator harvest body merge |
+| Phase 3   | [#907](https://github.com/frank890417/taiwan-md/pull/907) | OPEN — sync-spore-links.py (sporeLinks 變 derived)               |
+| Phase 4+5 | [#908](https://github.com/frank890417/taiwan-md/pull/908) | OPEN — 文件 polish + pipeline doc cleanup                        |
+
+合併順序：905 → 906 → 907 → 908。每個 stacked PR 在前者 merge 後自動 rebase 為 clean diff against main。
+
+### 達成的 SSOT 重構
+
+**Before（6 層碎片化）**：
+
+- 4 個人類寫入點（SPORE-LOG identity / SPORE-LOG narrative / SPORE-LOG struct cols / SPORE-HARVESTS body / knowledge sporeLinks 手寫 + src/content mirror 手寫）
+- 多 commit 跨檔案 atomic 不保證（同 harvest 拆 3 commit 跨 28 分鐘）
+- silent skip pull 製造 stale base
+- cwd 混淆製造 stale dashboard
+
+**After（2 層 SSOT + derived chain）**：
+
+- 2 個人類寫入點：**SPORE-LOG 發文紀錄**（identity）+ **SPORE-HARVESTS/{batch}.md**（event）
+- knowledge sporeLinks + src/content mirror 都變 derived，每次 refresh-data.sh Step 13 自動重生
+- dashboard-spores.json generator Phase 2 後 fallback 到 SPORE-HARVESTS body table（修了 `spores` plural list silent skip）
+- refresh-data.sh Phase 0 後 cwd assertion + auto-stash 杜絕 silent stale
+- validator 8 項一致性檢查 + audit report (drift 偵測)
+
+### 量化結果
+
+| Metric                            | Before                                                           | After                                                                                      |
+| --------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| refresh-data.sh 步驟編號          | `1, 2, 2.5, 2.7, 2.8, 2.9, 3, 3.5, 4, 4.5, 5, 5.5` (12 decimals) | `1-13` integers                                                                            |
+| Spore SSOT layer count            | 6                                                                | 2 (+ 4 derived)                                                                            |
+| validator checks                  | 4                                                                | 8                                                                                          |
+| Dashboard `harvestCount` accuracy | bugged: 0 for 15-spore batch                                     | correct: 1+ for each                                                                       |
+| knowledge sporeLinks drift        | 3 URL drift detected                                             | 0 (auto-regen)                                                                             |
+| Articles with sporeLinks          | 23                                                               | 33 (+10 from canonical fill-in)                                                            |
+| Pipeline docs                     | 23 with overlap (STATS marked replaced)                          | 23 with explicit Master/Active/Spore-chain/Reference/Memory/Ops 分區 + STATS 縮成 redirect |
+
+### 沒做的事（保留 / Phase 5+ 候選）
+
+- ❌ 砍 SPORE-LOG 成效追蹤 table（Q1 conservative — 保留 narrative SSOT）
+- ❌ 刪 `extract-spore-metrics.py`（仍 cover 歷史 spore #1-#46）
+- ❌ 強制 frontmatter `spore` legacy → `spores` migration（1 個檔案 33-草東沒有派對，audit flagged，下次 harvest 自然汰換）
+- ❌ 23 pipeline docs 全部加 status badge / last-verified timestamp（過重，下次 session 候選）
 
 ---
 
+_v1.1 | 2026-05-08 ~22:30 +0800 | 加 §8 Decision Log + §9 Final shipped state — 4 stacked PR (#905-#908) 全部 push 完成_
 _v1.0 | 2026-05-08 ~21:00 +0800 laughing-goldstine-dc7751 session_
 _作者：Taiwan.md 🧬 (給哲宇 review)_
 _誕生原因：/twmd-refresh 報錯 OVERDUE 數字觸發深度 root-cause 追溯 → 揭露 cwd + git-dirty + Spore SSOT 三層問題 → 哲宇要求「完整修正、從系統面著手、spore SSOT 化、pipeline 整理乾淨」_
-_下一步：等哲宇 Q1-Q4 redirect → 開 Phase 0 立即 ship_
