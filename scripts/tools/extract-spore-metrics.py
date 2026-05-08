@@ -1,6 +1,24 @@
 #!/usr/bin/env python3
 """
-extract-spore-metrics.py — 從「最後 harvest」narrative SSOT auto-derive structured columns
+extract-spore-metrics.py — narrative → struct cols auto-derive (TRANSITIONAL after Phase 0-3)
+
+## Status (2026-05-08 Phase 4 cleanup)
+
+After SSOT cleanup, this script is **transitional fallback**:
+  - Primary path: SPORE-HARVESTS body table → generate-dashboard-spores.py (Phase 2)
+  - Fallback: SPORE-LOG narrative → struct cols → generator (this script)
+
+When SPORE-LOG narrative is up to date but struct cols stale, this script bridges
+the gap. Phase 5 candidate for removal once all harvest workflows write
+SPORE-HARVESTS body tables canonically.
+
+NOT removed yet because (a) covers all historical spores #1-#46 that pre-date
+canonical batch logs, (b) extract-spore-metrics is faster than re-parsing all
+SPORE-HARVESTS body tables every refresh.
+
+Original 2026-05-03 design notes follow.
+
+---
 
 哲宇 2026-05-03「造橋鋪路進化，讓未來不會發生，SSOT」push 的具體 instantiation：
 

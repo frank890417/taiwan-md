@@ -4,6 +4,49 @@
 >
 > 跟 [SPORE-PIPELINE.md](SPORE-PIPELINE.md) 的分工：**SPORE 管上線（孢子怎麼誕生 + 怎麼發出去）；HARVEST 管收割（孢子發出去後，讀者的回聲怎麼回到文章本體）**。
 
+## 📍 SSOT 寫入位置（2026-05-08 Phase 0-3 後 canonical）
+
+每次 harvest 必須 **atomic 寫到一個 batch log**（不再分多 commit 跨檔案寫）：
+
+```
+docs/factory/SPORE-HARVESTS/batch-{date}-{N}-spores.md
+```
+
+**Frontmatter（canonical schema, Phase 1 audit 後強制）**：
+
+```yaml
+---
+spores: '#47, #48, #49, ...'   # 必 plural list（不再用 spore singular）
+harvest_date: '2026-05-08 21:30'
+harvest_window_day: 'D+7' / 'mixed (D+3 to D+10)'
+batch_reason: '...'
+triggered_by: 'observer / cron / heartbeat'
+reply_count: '47 visible (Threads + X 合計)'
+---
+```
+
+**Body（canonical schema）**：
+
+```markdown
+| #   | Slug | Platform | D+N  | Views  | Likes | Reposts | Comments | Shares | Rate |
+| --- | ---- | -------- | ---- | ------ | ----- | ------- | -------- | ------ | ---- |
+| 47  | ...  | Threads  | D+10 | 12,000 | ...   | ...     | ...      | ...    | ...  |
+```
+
+**自動化下游**（不需要手動觸發）：
+
+- `generate-dashboard-spores.py` 讀 body table 算 dashboard
+- `sync-spore-links.py` 從 SSOT 重生 knowledge/\*.md sporeLinks（refresh-data.sh Step 13）
+- `validate-spore-data.py` 8 項一致性檢查（Step 12）
+
+**不要再做的事**（過去 anti-pattern）：
+
+- ❌ harvest 後手寫 knowledge/\*.md sporeLinks（會被 Step 13 覆蓋）
+- ❌ harvest 拆 multi-commit 跨多檔案寫（atomic batch log = single commit）
+- ⚠️ harvest 後手寫 SPORE-LOG.md 成效追蹤 narrative：仍 OK 但 optional（不再是 primary 寫入點，generator 已能從 batch body 算）
+
+完整重構脈絡：[reports/spore-ssot-pipeline-cleanup-2026-05-08.md](../../reports/spore-ssot-pipeline-cleanup-2026-05-08.md)
+
 ---
 
 ## 核心哲學
