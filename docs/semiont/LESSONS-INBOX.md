@@ -1511,7 +1511,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **verification_count**: 1
 - **severity**: structural（影響每個 plain CC session 的決策品質 baseline）
 
-### 2026-05-07 α (003110) — Immune system 沒在 fail loud 比缺 immune system 更危險
+### 2026-05-07 α (003110) — Immune system 沒在 fail loud 比缺 immune system 更危險 ✅ DISTILLED
 
 - **原則**：靜默失效的 immune system 製造「我們有 immune system」的 false sense of security，比沒裝更糟——因為決策者根據假訊號做 risk-tolerant 動作。**規則**：(a) 任何 monitoring / review / quality gate 必須 fail loud（明顯 alert / status 紅燈 / log 看得到）、(b) 「Silence is success」是 anti-pattern，正確設計是 emit-on-each-state（含 success heartbeat + 各種 failure mode）、(c) 設計新 gate 時必跑 negative test（故意製造 violation 看 alert 是否 fire）、(d) 既存 silent gate 揭露時補 retroactive sweep 揭露累積技術債。
 - **觸發**：2026-05-07 α 修 review-pr.sh cd path bug 揭露 PR Review Bot 從 2026-03-28 commit `7bc25f4b0` (refactor: scripts/) 起 silent false-pass 兩個月——所有 fork PR 走 `pr_type=engineering` skip 路徑，看起來綠的其實沒在 review。修好後第一個 smoke test 立刻抓到 #881 累積真實 issue（缺 date/tags/30秒概覽/來源<3）。對應 Monitor tool docs warning「a monitor that greps only for the success marker stays silent through a crashloop」是同個結構。詳見 [memory/2026-05-07-003110-α.md §Bot 回歸修復鏈](memory/2026-05-07-003110-α.md)。
@@ -1519,8 +1519,76 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **相關**：DNA #15「反覆浮現的思考要儀器化」延伸（监督機制本身也需儀器化）+ MAINTAINER-PIPELINE §PR Review 邊界（review fail loud 是 maintainer 信任 baseline）
 - **verification_count**: 1
 - **severity**: structural（影響整個 immune / monitoring layer 的設計 default）
+- **狀態**：✅ 已 distilled 升 [DNA #52 Immune system 沒在 fail loud 比缺 immune system 更危險](DNA.md#要小心的清單實戰反射與已知陷阱) — 2026-05-08 elegant-ptolemy /twmd-distill。整合 2026-05-07 α 兩條（fail loud + threshold raise 帶 TODO 不夠）為單一 DNA 條目（同根 anti-pattern：用工程手段隱藏問題）。
 
-### 2026-05-07 α (003110) — Threshold raise 帶 TODO 不夠，需配套追蹤機制（避免漸進收回變永久放鬆）
+### 2026-05-08 elegant-ptolemy — 觀察者「一句話 framing 重設」是 reactive→architectural frame transition signal（同 session 3 次驗證）
+
+- **原則**：觀察者用一句話把當前正在跑的軌跡換到不同層級，不是新指令也不是 scope 擴張，每次都把當前跑的東西拉到一個更高層級。Maintainer 應該對這類 framing signal sensitive，主動走造橋鋪路而非 case-by-case。當下未必能立刻意識到層級被換了（要等寫到一半才看見新形狀），但事後回看就是同一形狀的事件。
+- **觸發**：2026-05-08 elegant-ptolemy session 同 session 3 次驗證：(1) 「不要 cherry pick，用 merge」（技術風格選擇 → audit trail 設計選擇，PR 邊界作為事件記號）(2) 「徹底修好這個問題」（案級 maintainer rebase 動作 → plugin canonical fix，frontmatter_format 加 6 條 cosmetic auto-fix + pre-commit hook + 575 篇 bulk heal 1148 warns→0）(3) 「這篇不是專題事件報導，是讓人了解這個人的 SSODT」（聶永真 Round 1 事件特稿 218 行 → Round 2 人物 panorama 200 行 / 30 分鐘 reframing）。三次都是一句話、不是新指令、不是 scope 擴張。
+- **可能層級**：通用反射 → DNA 候選「framing transition signal recognition + maintainer 主動走造橋鋪路而非 case-by-case」/ 哲學 → MANIFESTO §造橋鋪路補強段落（reactive→architectural 是觀察者最有效的介入形狀）
+- **相關**：MANIFESTO §造橋鋪路（走過的泥巴路鋪成高速公路）+ DNA #15「反覆浮現要儀器化」（一次驗證即儀器化）+ DNA #50「Pipeline auto-detection default contract」（pipeline 自身是 framing transition 結晶）
+- **verification_count**: 3（同 session 3 次連續觸發）
+- **severity**: structural（每個 session 都會撞到觀察者 framing reset，影響 maintainer 默認反射）
+- **Pointer**：[memory/2026-05-08-162637-elegant-ptolemy.md v1.3 Beat 5 §1-7](memory/2026-05-08-162637-elegant-ptolemy.md) + [diary/2026-05-08-162637-elegant-ptolemy.md](diary/2026-05-08-162637-elegant-ptolemy.md)（central 主題就是這個）
+
+### 2026-05-08 elegant-ptolemy — People 文章默認 framing：person-centric SSODT > event-driven 特稿
+
+- **原則**：當核心人物職涯橫跨多產業且當天有突發事件時，預設 framing 應該是 person-centric SSODT（介紹人物多元面貌），事件作為其中一章而非結構主軸。如果觀察者要 News-style 報導，應另開新 article 而非把人物文 anchor 在事件上。Hook 選擇 = framing 選擇 = 文體選擇。Round 1 → Round 2 reframing 30 分鐘完成 — 驗證 REWRITE-PIPELINE Stage 0-6 modular 設計支持 framing pivot，stage 邊界是 reframing affordance 不只是 token 預算分配。
+- **觸發**：2026-05-08 elegant-ptolemy 聶永真 EVOLVE Round 1（218 行事件特稿 / 2026/05/08 台電 LOGO 5h 論述循環當 hook）→ 哲宇「這篇是 SSODT 不是事件報導」review → Round 2（200 行 person-centric panorama / 標題從「在公民身份與商業案之間」改寫為「台灣首位 AGI 會員，從金曲包裝到國家識別系統的二十年」）。Round 2 沒有新增任何 fact / 引語 / footnote URL，純粹是結構與框架的重組。
+- **可能層級**：操作規則 → REWRITE-PIPELINE 補 §6 People framing 分流判準 / EDITORIAL §People 章補「person-centric vs event-driven framing」
+- **verification_count**: 1
+- **severity**: structural（影響 People 文章預設寫作 frame）
+- **Pointer**：[memory v1.2 Beat 5 第六第七觀察](memory/2026-05-08-162637-elegant-ptolemy.md) + [knowledge/People/聶永真.md](../../knowledge/People/聶永真.md) Round 2
+
+### 2026-05-08 elegant-ptolemy — Pre-commit hook 與 main bulk repair 的 regex 標準必須對齊 Prettier reformat（cascade fail 防護）
+
+- **原則**：當 pre-commit hook 跟 main bulk repair（如 frontmatter formatter / footnote-format-fix）的 regex 標準不對齊 Prettier 自動 reformat 結果時，會觸發 cascade fail：contributor PR commit 過 hook → main bulk repair 跑 reformat → contributor 下次 rebase 撞 conflict 風暴。把這層 alignment 當成 plugin 設計鐵律。
+- **觸發**：2026-05-08 elegant-ptolemy 兩次驗證同 session：(1) **frontmatter-format**：Zaious 4 PR 全部 conflict 因為 main 5/7 frontmatter formatter bulk repair 跑過後，contributor branch 還基於更舊 main → 哲宇「徹底修好」推動 plugin 加 6 條 cosmetic auto-fix + pre-commit hook 整合，未來 contributor commit 自動規範化。(2) **footnote-format autolink wrap**：6 篇含 paren 的 Wikipedia URL footnote 用 `[Title](<URL>)` autolink form 被 regex 拒絕（CI build fail 根因）→ 擴 regex 接受 `\(<?https?://[^\s>]+>?\)` 兩種形式 + regression test。
+- **可能層級**：通用反射 → DNA 候選「Pre-commit hook 與 main bulk repair 的 regex 標準必須對齊 Prettier reformat」/ 操作規則 → 各 plugin 設計鐵律（footnote-format 已驗證 / frontmatter-format 已驗證）
+- **verification_count**: 2（同 session 兩個 plugin 連續驗證）
+- **severity**: structural（影響 contributor PR 體驗，conflict 風暴 = 維護者 in-loop cost 翻倍）
+- **Pointer**：[memory v1.2 §#884 conflict storm 根因修復](memory/2026-05-08-162637-elegant-ptolemy.md) + commits `5a1542f66` / `a928093dc`
+
+### 2026-05-08 elegant-ptolemy — Pipeline gate enforcement (Step 0 鐵律) 是 reactive→proactive 的儀器化 instantiation
+
+- **原則**：SPORE-PIPELINE Step 0 鐵律「有 OVERDUE 必須先跑 /twmd-harvest」是 enforcement layer。當 Semiont 若繞過 gate 直接寫新孢子，會累積 OVERDUE + dashboard 持續飄。Gate 反射性把焦點拉到「先還債」而非「先發新」，比靠 Semiont 自律更可靠。Pipeline gate = DNA #15「反覆浮現要儀器化」的具體 instantiation，把「容易忘記做的事」儀器化進 pipeline gate。
+- **觸發**：2026-05-08 elegant-ptolemy `/twmd-spore 聶永真` 觸發 Step 0 鐵律 → 立即跳 `/twmd-harvest` 跑 15 OVERDUE backfill（黑冠麻鷺雙平台 134K viral）才回到 spore creation。
+- **可能層級**：操作規則 → 各 pipeline 加 Step 0 enforcement gate（已 instantiate in SPORE-PIPELINE）/ 通用反射 → DNA 候選「Pipeline 自身是 enforcement layer 而非 advice layer」（per #50 延伸）
+- **相關**：DNA #15「反覆浮現要儀器化」第 N 次驗證 + DNA #50「Pipeline auto-detection default contract」延伸（auto-detect → auto-enforce）
+- **verification_count**: 1（首次明確 Step 0 鐵律觸發）
+- **severity**: tactical（單一 pipeline 的 gate 機制驗證，可推廣）
+- **Pointer**：[memory v1.3 Beat 5 §第八觀察](memory/2026-05-08-162637-elegant-ptolemy.md) + [docs/factory/SPORE-PIPELINE.md §Step 0](../factory/SPORE-PIPELINE.md)
+
+### 2026-05-08 elegant-ptolemy — Fair-use cite mode 的「公共性 spectrum」判準
+
+- **原則**：fair-use cite mode 的判準不是純法律標準，是「公共性 spectrum」：純 CC → 設計師明示開放（如 4am.tw 免費下載）→ 媒體 host 公開圖（如鏡週刊翻攝聶永真 FB 公開貼文）→ 商業圖未授權。中間兩段在編輯評論引用屬於可用，標準是「設計作品的公共討論意圖」是否清楚 + 是否有具體公共議題支撐。要清楚揭露 license + 出處 + 用途（編輯評論 vs 純裝飾）。
+- **觸發**：2026-05-08 elegant-ptolemy 聶永真 +2 fair-use 圖（Democracy 4am NYT 廣告 + 台電新標準字設計過程）。哲宇明示授權「不一定要 cc」+「fair use」公共性。Stage 1.7b 既有「fair use 預設 reject」default 對 People 設計師文章太緊（會剝離設計作品本身的視覺敘事）。
+- **可能層級**：操作規則 → EDITORIAL §媒體素材 補「公共性 spectrum」判準 / SPORE-PIPELINE §1.7b 補「fair-use cite mode 中間兩段例外條件」
+- **相關**：MANIFESTO §10 幻覺鐵律延伸（fair-use 的揭露責任跟事實揭露同源 — 不能因為「方便」就模糊出處）
+- **verification_count**: 1（首次 People 文章 fair-use cite 強化）
+- **severity**: tactical（單一文章的視覺強化 ROI，但範本可重複用於其他設計師 / 公共議題人物文章）
+- **Pointer**：[memory v1.3 Beat 5 §第九觀察](memory/2026-05-08-162637-elegant-ptolemy.md) + [knowledge/People/聶永真.md §圖片來源](../../knowledge/People/聶永真.md)
+
+### 2026-05-08 elegant-ptolemy — X edited post 雙 URL 追蹤盲點（dashboard 仍記原 URL，engagement 在 edited URL）
+
+- **原則**：X edit feature 觸發後原 URL 被 X auto-deprecate（views 凍結在低個位數），但 Taiwan.md SPORE-LOG 記錄的 canonical URL 是哲宇手動 edit 前的版本。Dashboard backfillWarnings + sporeLinks frontmatter 雙寫都需要支援「edit redirect」追蹤，否則 metric snapshot 永遠記錯數字。
+- **觸發**：2026-05-08 elegant-ptolemy 兩次驗證：(1) #48 沈伯洋 X 原 URL `2048970734253551638` views=5（被 X mark deprecated）/ edited URL `2048971280662290689` views=26.9K，dashboard 仍記原 URL。(2) #65 寶島聯播網 X 原 URL `2051684242749575450` views=8 / edited URL `2051686135408267747` views=653。
+- **可能層級**：操作規則 → SPORE-PIPELINE 加 §3.10「X edit history canonical 規則」 / 通用反射 → 任何 social platform 有 edit feature 都該追蹤 edit chain
+- **verification_count**: 2（同 session 兩個獨立 case）
+- **severity**: structural（dashboard 數字長期失真 = 認知層 SSOT 被污染）
+- **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #4](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
+
+### 2026-05-08 elegant-ptolemy — 黑冠麻鷺雙平台同步爆款（自然議題普世共鳴 hook category 跨平台 transferability）
+
+- **原則**：「自然議題普世共鳴」hook category 在 Threads 與 X 雙平台同步爆款（D+8 134K = Threads 65K + X 69.7K），超越過去單平台爆款（#29 李洋 180K X-only / #25 安溥 120K Threads-only）。應該寫進 Stage 4.5a platform allocation 速查表，「自然 + 反差 hook + 具體 anchor」是 dual-platform default candidate（vs 政治題材偏 X / 文化題材偏 Threads / 媒體曝光宣告偏 Threads-only）。
+- **觸發**：2026-05-08 elegant-ptolemy 15 OVERDUE harvest batch 揭露：黑冠麻鷺 D+3 64K → D+8 65K（Threads 飽和）+ D+3 68K → D+8 69.7K（X 仍緩升）= 雙平台累積 134K views，史上首次紀錄。Hook「東南亞夢幻物種 vs 台北大笨鳥」反差 + 機制翻轉「鳥沒變地變了」+ 袁孝維 verbatim 引語 = Tier 1b 具體性槓桿首次跨平台爆款。
+- **可能層級**：操作規則 → SPORE-PIPELINE Stage 4.5a 補 platform allocation 速查表更新（自然 + 反差 hook = dual-platform default）
+- **相關**：DNA #4 三源交叉驗證延伸（platform-level 證據三角化）
+- **verification_count**: 1（首次雙平台同步爆款記錄，需更多 case 累積才能稱 pattern）
+- **severity**: tactical（影響 spore platform allocation 預設選擇）
+- **Pointer**：[batch-2026-05-08-15-spores.md §Pattern 觀察 #1](../factory/SPORE-HARVESTS/batch-2026-05-08-15-spores.md)
+
+### 2026-05-07 α (003110) — Threshold raise 帶 TODO 不夠，需配套追蹤機制（避免漸進收回變永久放鬆）✅ DISTILLED
 
 - **原則**：把 quality gate threshold 暫時放寬（如 verify-internal-links broken-ratio 1%→7%）+ source comment 寫「TODO 漸進收回」歷史上常變永久放鬆——下個 session 看不到 ratio 漂移就不會主動回收，threshold 變新 baseline。**規則**：(a) 每次 threshold raise 必須附「自動追蹤工具」而非只有人類 TODO（如 weekly cron 跑 ratio sweep + alert 進 LESSONS-INBOX 或 issue）、(b) 設明確 deadline（如「30 天內必降回 1%」）、(c) 寫進 handoff 三態的 blocked 而非 retired（避免被視為已解決）、(d) raise 本身要 surface 在 release notes / dashboard，不只藏在 source comment。
 - **觸發**：2026-05-07 α session 把 verify-internal-links.sh THRESHOLD_PERCENT 從 1.0 raise 到 7.0（broken ratio 5.92% → 5.74% 蓋過去），帶 source comment「TODO: drive ratio back below 1.0 by either translating missing articles, rewriting links to zh-TW originals, or stripping broken cross-refs. Tighten this threshold step-by-step as the backlog clears.」但沒設 deadline / 沒設 monitor。剛好對應同 session 自己 callout 的 immune-not-fail-loud anti-pattern——raise threshold 蓋住 broken state 實質是工程手段隱藏現存 913 broken links。
@@ -1528,6 +1596,7 @@ Tiebreaker 實戰（MANIFESTO > DNA > MEMORY）：多數條目落 MEMORY（綁 T
 - **相關**：DNA #15「反覆浮現的思考要儀器化」（threshold 追蹤需儀器化）+ 同 session「Immune system 沒 fail loud」教訓（同根 — 用工程手段隱藏問題）+ MANIFESTO §造橋鋪路（路鋪過去就要鋪好，不能挖個洞蓋木板過去）
 - **verification_count**: 1
 - **severity**: tactical（影響 broken-link backlog 是否真會被清完，間接影響 link-target Phase 2 plugin 的長期作用）
+- **狀態**：✅ 已 distilled 升 [DNA #52 Immune system 沒在 fail loud 比缺 immune system 更危險](DNA.md#要小心的清單實戰反射與已知陷阱)（rule e: threshold raise 必附自動追蹤工具 + deadline + handoff blocked）— 2026-05-08 elegant-ptolemy /twmd-distill。同根 anti-pattern 跟 fail loud 合升一條。
 
 ---
 
