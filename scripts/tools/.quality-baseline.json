@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-05-08T09:21:35Z",
+  "timestamp": "2026-05-08T14:28:52Z",
   "total": 686,
-  "flagged": 466,
+  "flagged": 465,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1401,8 +1401,8 @@
     },
     {
       "file": "people/蔡英文.md",
-      "score": 4,
-      "reasons": "塑膠句1個; 破折號8個; 稀薄段落×2"
+      "score": 6,
+      "reasons": "塑膠句1個; 破折號8個; 後段清單堆砌31%; 稀薄段落×2"
     },
     {
       "file": "people/朱一貴.md",
@@ -1588,11 +1588,6 @@
       "file": "people/林義雄.md",
       "score": 12,
       "reasons": "年份僅0個; 空洞詞6個; 未人工審核; 連續bullet4行; 塑膠句3個; 後段清單堆砌31%; 稀薄段落×12"
-    },
-    {
-      "file": "people/聶永真.md",
-      "score": 7,
-      "reasons": "空洞詞7個; 連續bullet7行; 塑膠句3個; 稀薄段落×7"
     },
     {
       "file": "people/郭婞淳.md",
@@ -1996,8 +1991,8 @@
     },
     {
       "file": "history/台海危機與兩岸關係發展.md",
-      "score": 6,
-      "reasons": "空洞詞8個; 未人工審核; 後段清單堆砌41%; 無腳註"
+      "score": 5,
+      "reasons": "空洞詞8個; 未人工審核; 後段清單堆砌39%; 無腳註"
     },
     {
       "file": "history/台灣眷村歷史.md",

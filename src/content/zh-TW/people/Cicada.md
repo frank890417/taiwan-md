@@ -32,6 +32,15 @@ perspectives:
   - author: 'xo61j4'
     text: '偶然聽過巨木曾在的痕跡很喜歡就放進了歌單，很喜歡那種完全沉浸在山林的氛圍，沒想到他們是整個作曲脈絡都圍繞著台灣，喜歡'
     dimension: '入坑'
+sporeLinks:
+  - platform: 'threads'
+    date: '2026-04-18'
+    url: 'https://www.threads.com/@taiwandotmd/post/DXQph5okwOu'
+    views: 304
+  - platform: 'x'
+    date: '2026-04-18'
+    url: 'https://x.com/taiwandotmd/status/2045363785347612934'
+    views: 5312
 ---
 
 > **30 秒概覽：** Cicada 是 2009 年在台北成立的全器樂獨立樂團，由鋼琴手江致潔（Jesy Chiang，北藝大藝術史碩士）領導，四人編制含鋼琴、小提琴、大提琴、木吉他。從 2011 年小白兔唱片首發《散落的時光》開始，15 年間發行的所有作品都沒有人聲。主題從西海岸侵蝕（《邊境消逝》2013）、海洋生態（《不在的你們都去了哪裡》2017）、山林（《走入有霧的森林》2019）到溪源（《棲居在溪源之上》2022 — 15 天、120 公里中央山脈遠征）。2024 年 15 週年自選《回返》重新詮釋海岸主題。他們的配樂作品《那個男人》獲日本 Academy Prize；2024 年完整日本巡演；跟 Icelandic 作曲家 Ólafur Arnalds 同台過。核心方法論：**讓自然自己說話**。

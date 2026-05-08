@@ -556,7 +556,13 @@ def check_sporelinks_vs_harvests():
 
     harvests = collect_harvests_by_spore()
     checked = 0
+    # Phase 6: skip multilingual mirrors (knowledge/en/, ja/, ko/, ...) — they're
+    # synced by separate babel pipeline, drift here is out-of-scope for spore SSOT.
+    LANG_DIRS = {"en", "ja", "ko", "es", "fr", "zh-TW"}
     for md in KNOWLEDGE_ROOT.rglob("*.md"):
+        rel = md.relative_to(KNOWLEDGE_ROOT)
+        if rel.parts and rel.parts[0] in LANG_DIRS:
+            continue
         sl = parse_sporelinks_from_md(md)
         if not sl:
             continue
@@ -634,17 +640,7 @@ def write_audit_report(path, summary):
             lines.append(f"- {it}")
         lines.append("")
     lines += [
-        "## Layer 3: SPORE-HARVESTS body <-> SPORE-LOG struct cols cross-check",
-        "",
-        f"- Mismatches outside ±{VIEWS_TOLERANCE_PCT}% tolerance: **{len(summary['cross_issues'])}**",
-        "",
-    ]
-    if summary["cross_issues"]:
-        for it in summary["cross_issues"]:
-            lines.append(f"- {it}")
-        lines.append("")
-    lines += [
-        "## Layer 4: knowledge/*.md sporeLinks <-> SPORE-HARVESTS latest D+N",
+        "## Layer 3: knowledge/*.md sporeLinks <-> SPORE-HARVESTS latest D+N",
         "",
         f"- Articles checked: **{summary['sporelinks_checked']}**",
         f"- Mismatches: **{len(summary['sporelinks_issues'])}**",
@@ -679,12 +675,14 @@ def main():
     args = parser.parse_args()
 
     print("===== Spore data SSOT validation =====\n")
+    print("(Phase 6: SPORE-LOG 成效追蹤 deprecated; SPORE-HARVESTS body is canonical)\n")
 
     all_warnings = []
     all_errors = []
 
-    # ── Existing checks (1-4) ──
-    print("[1/8] Parser regression test (K/M suffix)...")
+    # 5 active checks after Phase 6 (was 8 — checks 3 and 4 dropped along with 成效追蹤,
+    # check 7 cross-check no longer meaningful when SPORE-LOG narrative is deprecated)
+    print("[1/5] Parser regression test (K/M suffix)...")
     parser_failures = check_parser_regression()
     if parser_failures:
         for inp, got, expected in parser_failures:
@@ -692,7 +690,7 @@ def main():
     else:
         print(green("    ✅ 8/8 cases pass"))
 
-    print("\n[2/8] Dashboard freshness (mtime check)...")
+    print("\n[2/5] Dashboard freshness (mtime check)...")
     fresh_issues = check_dashboard_freshness()
     if fresh_issues:
         all_warnings.extend(fresh_issues)
@@ -701,26 +699,7 @@ def main():
     else:
         print(green("    ✅ dashboard-spores.json is fresh"))
 
-    print("\n[3/8] Harvest text parseability...")
-    unparsed = check_unparsed_harvest()
-    if unparsed:
-        all_warnings.extend(unparsed)
-        for issue in unparsed:
-            print(yellow(f"    {issue}"))
-    else:
-        print(green("    ✅ All harvest text parseable"))
-
-    print("\n[4/8] Dashboard JSON <-> SPORE-LOG consistency...")
-    consistency = check_dashboard_data_present()
-    if consistency:
-        all_errors.extend(consistency)
-        for issue in consistency:
-            print(red(f"    {issue}"))
-    else:
-        print(green("    ✅ Dashboard reflects SPORE-LOG data"))
-
-    # ── Phase 1 new checks (5-8) ──
-    print("\n[5/8] SPORE-HARVESTS body table parseability...")
+    print("\n[3/5] SPORE-HARVESTS body table parseability...")
     body_issues, body_parsed, body_total = check_harvests_body_parseable()
     print(f"    {body_parsed}/{body_total} batch logs have parseable body table")
     if body_issues:
@@ -730,7 +709,7 @@ def main():
         if len(body_issues) > 5:
             print(yellow(f"    ... ({len(body_issues) - 5} more)"))
 
-    print("\n[6/8] SPORE-HARVESTS frontmatter key drift (spore vs spores)...")
+    print("\n[4/5] SPORE-HARVESTS frontmatter key drift (spore vs spores)...")
     fm_issues, fm_legacy, fm_canonical = check_harvests_frontmatter_keys()
     print(f"    canonical: {fm_canonical} / legacy: {fm_legacy}")
     if fm_issues:
@@ -740,18 +719,7 @@ def main():
         if len(fm_issues) > 5:
             print(yellow(f"    ... ({len(fm_issues) - 5} more)"))
 
-    print("\n[7/8] SPORE-HARVESTS body <-> SPORE-LOG struct cross-check...")
-    cross_issues = check_harvests_vs_log_consistency()
-    if cross_issues:
-        all_warnings.extend(cross_issues)
-        for it in cross_issues[:5]:
-            print(yellow(f"    {it}"))
-        if len(cross_issues) > 5:
-            print(yellow(f"    ... ({len(cross_issues) - 5} more)"))
-    else:
-        print(green(f"    ✅ All harvest body data within ±{VIEWS_TOLERANCE_PCT}% of SPORE-LOG"))
-
-    print("\n[8/8] knowledge sporeLinks <-> SPORE-HARVESTS consistency...")
+    print("\n[5/5] knowledge sporeLinks <-> SPORE-HARVESTS consistency...")
     sl_issues, sl_checked = check_sporelinks_vs_harvests()
     print(f"    {sl_checked} sporeLinks entries checked")
     if sl_issues:
@@ -785,7 +753,6 @@ def main():
             "fm_canonical": fm_canonical,
             "fm_legacy": fm_legacy,
             "fm_legacy_issues": fm_issues,
-            "cross_issues": cross_issues,
             "sporelinks_checked": sl_checked,
             "sporelinks_issues": sl_issues,
         }

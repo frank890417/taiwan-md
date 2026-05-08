@@ -236,10 +236,39 @@ def _parse_int(v):
     return int(n)
 
 
+def _normalize_slug(slug):
+    """Strip emoji prefix + parenthetical version markers from SPORE-LOG slug.
+
+    Examples (Phase 6 — handle versioned slugs that pre-Phase-6 were unmatched):
+      '🌋 李洋（v2，留言更正）'    → '李洋'
+      '李洋（v3 場景修正）'        → '李洋'
+      '李洋（⚠️ 已撤回）'          → '李洋'
+      '草東沒有派對（v2.1 首例）'  → '草東沒有派對'
+      '台灣高鐵（v3 事實修正版）'  → '台灣高鐵'
+    """
+    s = re.sub(r"^[\U0001F300-\U0001FAFF☀-➿\s]+", "", slug)
+    s = re.sub(r"[（(].*?[）)]\s*$", "", s)
+    return s.strip()
+
+
 def find_article_path(slug):
-    """Find knowledge/*/{slug}.md by basename match. Returns Path or None."""
-    matches = list(KNOWLEDGE_ROOT.rglob(f"{slug}.md"))
-    return matches[0] if matches else None
+    """Find knowledge/{Cat}/{slug}.md (zh canonical, skip multilingual mirrors).
+
+    Tries the literal slug first, then a normalized form (strip emoji/parens).
+    """
+    candidates = [slug, _normalize_slug(slug)]
+    seen = set()
+    for cand in candidates:
+        if not cand or cand in seen:
+            continue
+        seen.add(cand)
+        for md in KNOWLEDGE_ROOT.rglob(f"{cand}.md"):
+            rel = md.relative_to(KNOWLEDGE_ROOT)
+            # Skip multilingual mirror dirs — sync targets zh canonical only
+            if rel.parts and rel.parts[0] in {"en", "ja", "ko", "es", "fr", "zh-TW"}:
+                continue
+            return md
+    return None
 
 
 def src_content_mirror(knowledge_path):
@@ -359,10 +388,22 @@ def build_canonical_sporelinks(pub_rows, harvests):
             if v is not None:
                 entry[key] = v
 
-        by_slug[pub["slug"]].append(entry)
+        # Phase 6: Group by NORMALIZED slug so multi-version entries
+        # ('李洋（v2）', '🌋 李洋（v3）', '李洋（⚠️ 已撤回）') all coalesce to one
+        # 'knowledge/People/李洋.md' file with all spores listed.
+        normalized = _normalize_slug(pub["slug"])
+        by_slug[normalized].append(entry)
 
+    # Dedupe by url within a slug (keep first; multi-versioned slugs write same URL)
     for slug in by_slug:
-        by_slug[slug].sort(key=lambda e: (e["date"], e["platform"]))
+        seen_urls = set()
+        deduped = []
+        for e in by_slug[slug]:
+            if e["url"] in seen_urls:
+                continue
+            seen_urls.add(e["url"])
+            deduped.append(e)
+        by_slug[slug] = sorted(deduped, key=lambda e: (e["date"], e["platform"]))
     return by_slug
 
 

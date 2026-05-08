@@ -39,20 +39,22 @@ bash scripts/tools/refresh-data.sh
 
 **Step 11（verify dashboard freshness）** 是 2026-05-02 γ-late 加的閘門 — 跑完後檢查每個 `public/api/dashboard-*.json` 都有今天的 mtime。任何 stale 表示有 generator 漏跑（DNA #43）。
 
-| Step   | 內容                                          | Output                                                       |
-| ------ | --------------------------------------------- | ------------------------------------------------------------ |
-| 1      | git sync (auto-stash + rebase pull)           | (sync)                                                       |
-| 2      | fetch-sense-data.sh                           | dashboard-analytics.json                                     |
-| 3      | sync-translations-json.py                     | knowledge/\_translations.json                                |
-| 4      | extract-spore-metrics.py (Phase 4 候選移除)   | SPORE-LOG struct columns                                     |
-| 5      | generate-dashboard-spores.py                  | dashboard-spores.json                                        |
-| 6      | i18n-coverage-audit.sh                        | dashboard-i18n.json                                          |
-| 7      | npm run prebuild                              | dashboard-articles/translations/vitals/organism + supporters |
-| 8      | refresh-llms-txt.py                           | public/llms.txt                                              |
-| 9      | update-stats.sh                               | README + stats.json                                          |
-| 10     | extract-build-perf.mjs                        | dashboard-build-perf.json                                    |
-| **11** | **verify dashboard freshness** (DNA #43 gate) | (mtime gate)                                                 |
-| **12** | **validate-spore-data.py**                    | (SSOT consistency gate)                                      |
+| Step   | 內容                                                                | Output                                                       |
+| ------ | ------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1      | git sync (auto-stash + rebase pull)                                 | (sync)                                                       |
+| 2      | fetch-sense-data.sh                                                 | dashboard-analytics.json                                     |
+| 3      | sync-translations-json.py                                           | knowledge/\_translations.json                                |
+| 4      | generate-dashboard-spores.py (Phase 6: SPORE-HARVESTS body primary) | dashboard-spores.json                                        |
+| 5      | i18n-coverage-audit.sh                                              | dashboard-i18n.json                                          |
+| 6      | npm run prebuild                                                    | dashboard-articles/translations/vitals/organism + supporters |
+| 7      | refresh-llms-txt.py                                                 | public/llms.txt                                              |
+| 8      | update-stats.sh                                                     | README + stats.json                                          |
+| 9      | extract-build-perf.mjs                                              | dashboard-build-perf.json                                    |
+| **10** | **verify dashboard freshness** (DNA #43 gate)                       | (mtime gate)                                                 |
+| **11** | **validate-spore-data.py** (5 checks)                               | (SSOT consistency gate)                                      |
+| **12** | **sync-spore-links.py**                                             | (regen knowledge/\*.md sporeLinks from SSOT)                 |
+
+**Removed in Phase 6 (2026-05-08)**: Old Step 4 `extract-spore-metrics.py` — narrative→struct workaround for SPORE-LOG 成效追蹤 (which itself is now demolished). 47 historical D+N data points migrated to `batch-historical-2026-05-08-migration.md` as canonical SSOT.
 
 ---
 
@@ -302,6 +304,7 @@ echo -e "${DIM}下一步：HEARTBEAT.md Beat 1 診斷${RST}"
 _v1.0 | 2026-04-11 session ε | 建立原因：哲宇觀察到 heartbeat 三處重複定義資料抓取步驟_
 _v1.1 | 2026-05-02 γ-late | 加 Step 2.9 (i18n-coverage) + Step 5 (verify freshness)。觸發：哲宇看 dashboard 顯示「資料更新 12 小時前」+ ja UI 還是 97%（其實已 100%），原因是 i18n-coverage-audit 沒在 refresh-data.sh 裡。canonical: DNA #43 silent stale risk._
 _v1.2 | 2026-05-08 laughing-goldstine | Phase 0 SSOT cleanup — cwd assertion + auto-stash 取代 silent skip pull + 步驟編號 1-12 整數化。觸發：/twmd-refresh 從 main repo 路徑跑 worktree pipeline 寫 stale dashboard，加上 git-dirty false positive 雙 bug。canonical: reports/spore-ssot-pipeline-cleanup-2026-05-08.md Phase 0._
+_v1.3 | 2026-05-08 laughing-goldstine | Phase 6 SSOT cleanup (Q1 翻牌：demolish 雙寫) — drop Step 4 (extract-spore-metrics.py)，generator 改吃 SPORE-HARVESTS body table 為 primary。SPORE-LOG 成效追蹤 deprecated/demolished。47 歷史 D+N 數據已 migrate 到 batch-historical-{date}-migration.md。Step total 13 → 12。Validator checks 8 → 5。_
 
 ## 新 dashboard JSON 加入 pipeline 的 SOP（DNA #43 反射）
 

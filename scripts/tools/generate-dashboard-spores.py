@@ -774,10 +774,13 @@ def main():
     sections = split_tables(md_text)
 
     pub_section = sections.get("發文紀錄", "")
+    # Phase 6 (2026-05-08): SPORE-LOG 成效追蹤 section deprecated/deleted.
+    # Primary metrics source is now SPORE-HARVESTS body tables (collect_harvests).
+    # Read 成效追蹤 if it exists for transitional compat — but absence is OK.
     metric_section = sections.get("成效追蹤（週回填）", "")
 
     pub_rows = parse_pipe_table(pub_section)
-    metric_rows = parse_pipe_table(metric_section)
+    metric_rows = parse_pipe_table(metric_section) if metric_section else []
 
     publishes = parse_publish_rows(pub_rows)
     metrics = parse_metrics_rows(metric_rows)
