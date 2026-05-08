@@ -1,70 +1,40 @@
-# Stats Pipeline — GitHub 統計更新（被 DATA-REFRESH-PIPELINE 包含）
+# Stats Pipeline — REPLACED by DATA-REFRESH-PIPELINE
 
-> ⚠️ **2026-04-11 ε 起**：這條 pipeline 已經**被 [DATA-REFRESH-PIPELINE.md](./DATA-REFRESH-PIPELINE.md) 的 Step 4 取代**。直接跑 `bash scripts/tools/refresh-data.sh` 就會包含本文件描述的所有步驟。
+> ⚠️ **2026-05-08 起 Phase 5 SSOT cleanup**：本 pipeline 已完全被 [DATA-REFRESH-PIPELINE.md](./DATA-REFRESH-PIPELINE.md) **Step 9** 取代。
 >
-> 本檔案保留作為 `update-stats.sh` 腳本本身的參考文檔，說明它做了什麼、不能動什麼。
+> Cron / Manual 觸發都應改走 DATA-REFRESH-PIPELINE.md。
 
 ---
 
-## 流程
+## 為什麼保留此檔
 
-```
-git pull → update-stats.sh → git add (指定檔案) → commit → push
-```
+只保留作為 `scripts/tools/update-stats.sh` 腳本本身的參考文檔（鐵律 + 副作用）。**不再描述 pipeline 流程**。
 
-## 執行步驟
+## update-stats.sh 鐵律
 
-### 1. 拉最新
+### ⚠️ 絕對不要 `git add -A`
 
-```bash
-cd ~/taiwan-md && git pull
-```
+腳本只 stage：
 
-### 2. 跑腳本
+- `README.md`
+- `src/i18n/about.ts`
+- `public/api/stats.json`
+- `src/data/content-stats.json`
 
-```bash
-bash scripts/tools/update-stats.sh
-```
+`git add -A` 會把其他並行 session 的工作一起 commit。
 
-腳本做的事：
+### ⚠️ 絕對不要動 `about.template.astro`
 
-1. 從 GitHub API 抓 stars / forks / contributors 數字
-2. 更新 `README.md` 的統計表格
-3. 更新 `src/i18n/about.ts` 的 About 頁面數字（四捨五入到百位）
-4. **Merge** GitHub 數據到 `public/api/stats.json`（保留既有欄位）
-5. 跑 `generate-content-stats.js` 更新內容統計
-
-### 3. Commit + Push
-
-```bash
-git add README.md src/i18n/about.ts public/api/stats.json src/data/content-stats.json
-git diff --cached --quiet || (git commit -m "chore: daily stats update" && git push)
-```
-
----
-
-## ⚠️ 鐵律
-
-### 絕對不要 `git add -A`
-
-只 add 上面 4 個檔案。`git add -A` 會把其他人正在改的東西一起 commit。
-
-### 絕對不要動 `about.template.astro`
-
-Contributors grid 由另一個 Cron（Taiwan.md Contributors Update）管理。Stats cron 動到 about.template.astro = 破壞 Sponsors + Contact section。**已經發生過 3 次。**
+Contributors grid 由另一個 Cron（Taiwan.md Contributors Update）管理。動 about.template.astro = 破壞 Sponsors + Contact section。**已經發生過 3 次。**
 
 ### `stats.json` 是 merge 不是 overwrite
 
-`public/api/stats.json` 由兩個來源共同維護：
+由兩個來源共同維護：
 
-- `generate-content-stats.js`：categories、tags、subcategories 等豐富內容（主要來源）
-- `update-stats.sh`：stars、forks、contributors（GitHub API 即時數據）
+- `generate-content-stats.js`：categories / tags / subcategories（主要來源）
+- `update-stats.sh`：stars / forks / contributors（GitHub API 即時）
 
-腳本只更新 GitHub 欄位，**保留其他所有既有欄位**。如果整個覆寫 = Dashboard 資料全丟。
-
-### `cd` 路徑
-
-腳本在 `scripts/tools/`，用 `cd "$(dirname "$0")/../.."` 回到 repo root。不是 `..`（那只到 `scripts/`）。
+腳本只更新 GitHub 欄位，**保留其他既有欄位**。整個覆寫 = Dashboard 資料全丟。
 
 ---
 
@@ -78,13 +48,7 @@ Contributors grid 由另一個 Cron（Taiwan.md Contributors Update）管理。S
 | `src/i18n/about.ts`                       | About 頁面顯示數字                         |
 | `src/data/content-stats.json`             | Build-time 內容統計                        |
 
-## 相關 Cron
-
-| Cron                          | 時間  | 職責                                |
-| ----------------------------- | ----- | ----------------------------------- |
-| Taiwan.md Daily Stats Update  | 00:00 | 本 pipeline                         |
-| Taiwan.md Contributors Update | 03:30 | 更新 contributor 名單 + README 表格 |
-
 ---
 
-_版本：v1.0 | 2026-03-29_
+_v1.0 | 2026-03-29 — original_
+_v2.0 | 2026-05-08 laughing-goldstine | Phase 5 SSOT cleanup：精簡為 update-stats.sh 鐵律參考；pipeline 流程移到 DATA-REFRESH-PIPELINE.md_

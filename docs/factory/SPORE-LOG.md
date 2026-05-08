@@ -2,6 +2,25 @@
 
 > 追蹤已發佈的孢子，避免重複，累積成效數據，驅動進化。
 
+## 📍 SSOT 階層（2026-05-08 Phase 0-3 SSOT cleanup 後）
+
+| 層                                       | 角色                                                   | 寫入者                                                             |
+| ---------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------ |
+| **本檔 §發文紀錄 table**                 | **Identity SSOT** — 「孢子 #N 存在於此 URL 在此日期」  | 人類                                                               |
+| **本檔 §成效追蹤 table**                 | Narrative + struct cols（向後相容、parser fallback）   | 人類 + extract-spore-metrics.py auto-derive                        |
+| `docs/factory/SPORE-HARVESTS/{batch}.md` | **Harvest event SSOT** — 「孢子 #N 在 D+N 有 X views」 | 人類/agent（每次 harvest 一個 batch log）                          |
+| `knowledge/{Cat}/{slug}.md` `sporeLinks` | **Derived view** — Phase 3 後從 SSOT 自動重生          | 不再手寫，refresh-data.sh Step 13 重生                             |
+| `src/content/zh-TW/{cat}/{slug}.md`      | Mirror of knowledge/                                   | 不再手寫，sync-spore-links.py 同步                                 |
+| `public/api/dashboard-spores.json`       | Derived                                                | generate-dashboard-spores.py 從 SPORE-LOG + SPORE-HARVESTS body 算 |
+
+**鐵律**（Phase 3 後）：
+
+- 人類只在 §發文紀錄、§成效追蹤、`SPORE-HARVESTS/{batch}.md` 寫資料
+- knowledge/\*.md sporeLinks **不要手寫**，會被 sync-spore-links.py 覆蓋
+- 多語 mirror（knowledge/en/, ja/, ko/, ...）的 sporeLinks 由 babel pipeline 處理，跟本檔 zh canonical 隔離
+
+完整重構脈絡：[reports/spore-ssot-pipeline-cleanup-2026-05-08.md](../../reports/spore-ssot-pipeline-cleanup-2026-05-08.md)
+
 ---
 
 ## 發文紀錄
